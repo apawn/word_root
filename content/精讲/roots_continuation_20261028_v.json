@@ -1,0 +1,229 @@
+[
+  {
+    "id": "B3907",
+    "meaning": "迟、晚；时间偏后",
+    "core": "LATE：沿时间线向后移动",
+    "image": "晚于约定是迟到，接近季节末尾是晚期；再向后比较就是 later。",
+    "intro": "late 接古英语 læt 的慢、迟等义。later 与 latter 同出较早的比较形式，却在现代分工：一个说时间更晚，一个常回指后者。",
+    "forms": "基本 late → 比较 later，再单独比较 latter；lately 的最近义已经固定，不是迟迟地。lateness 则把迟到、晚的情况名词化。\n\nlatest 对应 late 的最高级，the latest news 为最近传来的消息；at the latest 则说最晚限度，last 通常突出末尾、最后或上一个。\n\n这里补动词三单，不给形容词 last 随意加复数。",
+    "branches": [
+      [
+        "基本时间与比较",
+        "late · later · latter"
+      ],
+      [
+        "近期与状态",
+        "lately · lateness"
+      ],
+      [
+        "latest：时间上最靠后与最新",
+        "late · later · latest · last"
+      ],
+      [
+        "last 动词 → lasts：时间延续、耐用",
+        "last · lasts"
+      ]
+    ],
+    "contrasts": "late／lately：迟晚与最近。later／latter：稍后与后者。her late father：已故父亲，不是迟到的父亲。",
+    "practice": "I’ve been busy lately, so I’ll call you later.\n\n我最近很忙，稍后给你打电话。",
+    "words": [
+      "late",
+      "later",
+      "latter",
+      "lately",
+      "lateness",
+      "latest",
+      "last",
+      "lasts"
+    ],
+    "exclude": {
+      "late-night": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3097",
+    "meaning": "存在已久；年老；过去的",
+    "core": "OLD：沿时间向前回看，它已经存在多久",
+    "image": "旧房子看年份，老朋友看交情，以前的工作看人生中的上一段。",
+    "intro": "old 接古英语 ald、eald，经中古英语延续。现代意义不只衰老，年龄询问、旧物和过往关系都很常用。",
+    "forms": "old 讲基本用法；olden 放进 in the olden days 一起记，oldie 则多记老歌、老片这个名词。olds 等地区、玩笑表达暂不扩列。\n\nolder、oldest 是普通比较词形，elder、eldest 保留更早变元音的历史，现代常用于家庭年龄关系等特定范围。\n\nelder 保留古英语 eldra 及元音变化，现代名词 elders 可说长者、社区长老；另一植物 elder 另源，不与年龄义混讲。",
+    "branches": [
+      [
+        "基本词",
+        "old"
+      ],
+      [
+        "往昔与旧作品",
+        "olden · oldie"
+      ],
+      [
+        "old 的两套保留形式",
+        "old · older · oldest · elder · eldest"
+      ],
+      [
+        "old 的历史比较级 → elder → elders",
+        "elders"
+      ]
+    ],
+    "contrasts": "an old friend 不一定年纪大；olden 是往昔时代，不是修饰任何旧物的万能词。oldie 的 -ie 把它变成可数名称。",
+    "practice": "An old friend played an oldie that reminded us of earlier days.\n\n一位老朋友放了首老歌，让我们想起从前。",
+    "words": [
+      "old",
+      "olden",
+      "oldie",
+      "older",
+      "oldest",
+      "elder",
+      "eldest",
+      "elders"
+    ],
+    "exclude": {
+      "old-time": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "over-old": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "one-year-old": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "old-line": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "olds": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "old-fashioned": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3734",
+    "meaning": "准备好；可立即行动",
+    "core": "READY：需要的条件到位，现在可以开始",
+    "image": "鞋穿好了、包收好了，人站在门边；说 ready，下一步就能出发。",
+    "intro": "ready 接古英语 rǣde、ġerǣde 与中古英语 redy 等，不按现代 read + -y 硬拆。副词 readily、名词 readiness 的拼写里 y 变为 i。",
+    "forms": "先讲 ready，再配 readily、readiness、unready；already 有独立的已经义，要与 all ready 两词分开。readies“现金”较口语地区化，本页先略过。\n\narray 经法语的整理、使就绪词族，更早有法兰克语或其他日耳曼来源，与 ready 作同源比较。\n\n梳理动词经法语安排、理顺词族，食物名借南印度德拉维达语言相关词；咖喱名不是由 ready 派生。",
+    "branches": [
+      [
+        "基本就绪与性质扩展",
+        "ready · readily · readiness · unready"
+      ],
+      [
+        "历史组合形成的常用词",
+        "already"
+      ],
+      [
+        "ready 与 array：准备好、排成有序的一组",
+        "ready · array · arrays"
+      ],
+      [
+        "curry 的两条常用来源：梳理支与 ready 词族；咖喱名另源",
+        "ready · curry · curries"
+      ]
+    ],
+    "contrasts": "readily 是乐意或容易，不是 already 已经。unready 尚未准备好，不必等于不愿意。already／all ready：已经与全准备好了。",
+    "practice": "She readily agreed to help because her own work was already finished.\n\n她爽快答应帮忙，因为自己的工作已经完成。",
+    "words": [
+      "ready",
+      "readily",
+      "readiness",
+      "unready",
+      "already",
+      "array",
+      "arrays",
+      "curry",
+      "curries"
+    ],
+    "exclude": {
+      "make-ready": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ready-made": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "school-ready": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "readies": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3283",
+    "meaning": "自己的；拥有、承认关系",
+    "core": "OWN：把对象与自己这边的归属联系起来",
+    "image": "这本书是我自己的；这件事是我做的，我也承认归自己负责。",
+    "intro": "own 的形容词接古英语 āgen，与旧动词 āgan 相连。现代动词拥有和承认又有相关历史发展，不能把全部用法都解释成物品所有权。",
+    "forms": "先学 my own、on my own、own a shop，再用 own up 看承认错误；disown 则拒绝承认归属或关系。\n\nown 的拥有动词接自己的这一性质词，owned 为过去、分词；口语击败义另由掌控、占优势发展。\n\n古英语 agen、agan 与现代 own 动词、owner 的关系有历史发展，不只按一个现代词性转用讲。\n\nown 的词史接古英语 agen 自己拥有的、agan 拥有等材料。现代 own + -ing，owning a thing 是拥有，owning up to a mistake 是承认错误。\n\nowe 承古英语 agan 拥有，后由有须归还之物发展为欠；own 也接同一拥有词族。现代 owes 保留 e 加 -s，不把经济关系不同误说成完全异源。",
+    "branches": [
+      [
+        "归属与承认",
+        "own"
+      ],
+      [
+        "拒绝关联",
+        "disown"
+      ],
+      [
+        "owned：属于某人、由某人拥有",
+        "own · owned"
+      ],
+      [
+        "own → owns：拥有、对某事承担",
+        "own · owns"
+      ],
+      [
+        "own → owning：拥有与承认",
+        "owning"
+      ],
+      [
+        "own 与 owe 同源：拥有与欠应归还之物",
+        "owe · owes"
+      ]
+    ],
+    "contrasts": "own 拥有，owe 欠；disown 是否认关联，disagree 是不同意，不要放大到断绝关系。",
+    "practice": "He owned up to his own mistake instead of disowning responsibility.\n\n他承认了自己的错误，而不是否认责任。",
+    "words": [
+      "own",
+      "disown",
+      "owned",
+      "owns",
+      "owning",
+      "owe",
+      "owes"
+    ],
+    "exclude": {
+      "part-own": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-own": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-own": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2957",
+    "meaning": "放到某位置、状态；投入与产出",
+    "core": "PUT：把对象放到某个位置或关系里",
+    "image": "杯子放桌上，想法放进文字，数据送进系统；重点是位置、状态发生了安置。",
+    "intro": "put 经中古英语 putten 等发展，早期有推、放关联，更远来源不完全确定。原形、过去式、过去分词同为 put。",
+    "forms": "put、putting 先说明常用动作；input、output、throughput 连起来看流程。高尔夫 putting、putter 的基词是 putt；putter around 又有另一来路，必须分支解释。\n\n中古英语放、推动词延续，更远来源未定，过去形式仍是 put。\n\ninput 由 put in 的相关表达发展为投入物、输入内容；现代 -s，可数输入数据、投入因素，也可说某人输入数据。",
+    "branches": [
+      [
+        "基本动作",
+        "put · putting"
+      ],
+      [
+        "流程中的进、出与处理量",
+        "input · output · throughput"
+      ],
+      [
+        "多源同形提醒",
+        "putter"
+      ],
+      [
+        "put → puts：放到位置、状态与安排",
+        "put · puts"
+      ],
+      [
+        "in 向里 + put 放 → inputs",
+        "inputs"
+      ]
+    ],
+    "contrasts": "input 输入和投入，output 输出和产出，throughput 单位时间处理量；putting /ʊ/ 与高尔夫 putting /ʌ/ 区分。",
+    "practice": "We put more effort into checking the input before measuring throughput.\n\n我们先多花精力检查输入，再测量吞吐量。",
+    "words": [
+      "put",
+      "putting",
+      "input",
+      "output",
+      "throughput",
+      "putter",
+      "puts",
+      "inputs"
+    ],
+    "exclude": {
+      "force-put": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "word": "appear",
+    "ipa": "英 /əˈpɪə/；美 /əˈpɪr/",
+    "meaning": "出现；看起来、似乎；出场",
+    "sense": "眼前原先没有，现在看见了，是出现；眼前呈现某种样子，也能说看起来如何。",
+    "split": "借古法语 aparoir，接拉丁 apparere，历史由 ad- + parere 显露组成。英语现代不能把 a- 当否定，再把 ppear 编成词根。",
+    "history": [
+      [
+        "拉丁 ad- + parere 显露 → apparere → 古法语 aparoir",
+        "显出来、变得可见"
+      ],
+      [
+        "中古英语 apperen → appear",
+        "出现 → 看起来、给人某种印象"
+      ]
+    ],
+    "explanation": "appear on screen 出现在屏幕上，appear tired 看起来累，appear to be 似乎是；It appears that... 看起来……。",
+    "usage": "appear on；appear to be；appear tired；It appears that。",
+    "contrast": "appear 看起来不保证事实已证实；appear a problem 不说突然出现一个问题，改 a problem appeared。",
+    "examples": [
+      [
+        "A message appeared on the screen.",
+        "屏幕上出现了一条消息。"
+      ],
+      [
+        "She appears to know the area well.",
+        "她似乎很熟悉这一带。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appear#English"
+    ]
+  },
+  {
+    "word": "appearance",
+    "ipa": "英 /əˈpɪərəns/；美 /əˈpɪrəns/",
+    "meaning": "外表；出现、露面",
+    "sense": "可能问一个东西长什么样，也可能问某个人哪次出场；一个关注样子，一个关注出现事件。",
+    "split": "历史借法语 apparence，接拉丁 apparentia，与 appear 同族；现代构词对应 appear + -ance，不必假装最初一定是在英语内部新加后缀。",
+    "history": [
+      [
+        "拉丁 ad- + parere 显露 → apparere → 古法语 aparoir",
+        "显出来、变得可见"
+      ],
+      [
+        "中古英语 apperen → appear",
+        "出现 → 看起来、给人某种印象"
+      ],
+      [
+        "法语 apparence、拉丁 apparentia → appearance",
+        "显露 → 外观；出现"
+      ]
+    ],
+    "explanation": "physical appearance 外表，make an appearance 露面，a guest appearance 嘉宾出场；appearances can be deceptive 外表可能骗人。",
+    "usage": "physical appearance；make an appearance；a guest appearance。",
+    "contrast": "appearance 外观不等于实际品质；an appearance at a meeting 是一次露面，不是会议长相。",
+    "examples": [
+      [
+        "Do not judge the book by its appearance.",
+        "不要只凭外观评价这本书。"
+      ],
+      [
+        "The singer made a surprise appearance at the concert.",
+        "歌手在音乐会上惊喜现身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appearance#English"
+    ]
+  },
+  {
+    "word": "disappear",
+    "ipa": "英 /ˌdɪsəˈpɪə/；美 /ˌdɪsəˈpɪr/",
+    "meaning": "消失；不见；不复存在",
+    "sense": "原来能看见、能找到，现在看不见、找不到了；并不自动说明东西化为乌有。",
+    "split": "dis- 反向、解除 + appear，也有法语相应形式影响。现代通常不及物，后面不直接带被弄没的物品作普通宾语。",
+    "history": [
+      [
+        "拉丁 ad- + parere 显露 → apparere → 古法语 aparoir",
+        "显出来、变得可见"
+      ],
+      [
+        "中古英语 apperen → appear",
+        "出现 → 看起来、给人某种印象"
+      ],
+      [
+        "dis- + appear → disappear",
+        "出现的反面 → 消失、不见"
+      ]
+    ],
+    "explanation": "disappear into the crowd 消失在人群中，disappear from view 从视野消失；The keys disappeared 钥匙不见了。",
+    "usage": "disappear into；disappear from view；disappear without trace。",
+    "contrast": "disappear 不见，destroy 毁坏；人转过街角 disappears from view，并不表示被毁灭。",
+    "examples": [
+      [
+        "The boat disappeared into the fog.",
+        "船消失在雾中。"
+      ],
+      [
+        "My keys seem to have disappeared again.",
+        "我的钥匙似乎又不见了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disappear#English"
+    ]
+  },
+  {
+    "word": "reappear",
+    "ipa": "英 /ˌriːəˈpɪə/；美 /ˌriːəˈpɪr/",
+    "meaning": "再次出现；重新露面",
+    "sense": "一度消失、离开视野后，又看到了它；也可以是以前的情况再度发生。",
+    "split": "re- 再次 + appear，直接表示重新出现。不是把消失过程倒放才叫 reappear。",
+    "history": [
+      [
+        "拉丁 ad- + parere 显露 → apparere → 古法语 aparoir",
+        "显出来、变得可见"
+      ],
+      [
+        "中古英语 apperen → appear",
+        "出现 → 看起来、给人某种印象"
+      ],
+      [
+        "re- + appear → reappear",
+        "重新显现 → 再次出现"
+      ]
+    ],
+    "explanation": "reappear on screen 再现屏幕，reappear after a pause 间隔后再出现；a problem reappears 问题再现。",
+    "usage": "reappear on；reappear after；reappear in view。",
+    "contrast": "reappear 再出现，repair 修理字形近但不同；修好了也可能 problem reappears。",
+    "examples": [
+      [
+        "The sun reappeared after the clouds passed.",
+        "云飘过后，太阳又出现了。"
+      ],
+      [
+        "The error reappeared when we restarted the program.",
+        "重新启动程序后，错误再次出现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reappear#English"
+    ]
+  },
+  {
+    "word": "dark",
+    "ipa": "英 /dɑːk/；美 /dɑːrk/",
+    "meaning": "黑暗的；深色的；阴暗的；暗处",
+    "sense": "看不清是光少，衣服 dark 是颜色深，故事 dark 则可能沉重、阴郁。",
+    "split": "继承古英语 deorc，更远来源不确定。现代名词 the dark 可指暗处，抽象义用缺光的画面延伸。",
+    "history": [
+      [
+        "古英语 deorc → 中古英语 derk → dark",
+        "暗、光线不足；更远来源不明确"
+      ],
+      [
+        "现代 dark 词族",
+        "光线少、颜色深 → 神秘、悲观、阴险等语境联想"
+      ]
+    ],
+    "explanation": "a dark room 暗房间，dark blue 深蓝，after dark 天黑后；keep someone in the dark 让某人蒙在鼓里。",
+    "usage": "dark blue；after dark；in the dark；a dark secret。",
+    "contrast": "dark 颜色深不等于 black 黑，深蓝也 dark；a dark joke 常是黑色幽默，不是字迹看不清的笑话。",
+    "examples": [
+      [
+        "We returned home after dark.",
+        "我们天黑后回到家。"
+      ],
+      [
+        "They kept us in the dark about the changes.",
+        "他们对改动一直瞒着我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dark#English"
+    ]
+  },
+  {
+    "word": "darkness",
+    "ipa": "英 /ˈdɑːknəs/；美 /ˈdɑːrknəs/",
+    "meaning": "黑暗；阴暗状态",
+    "sense": "把光线缺少的状态单独当成一种环境来说，也能写成心情或时代的阴暗。",
+    "split": "dark + -ness，状态名词。现代常不可数，用 in darkness、fall into darkness 等搭配。",
+    "history": [
+      [
+        "古英语 deorc → 中古英语 derk → dark",
+        "暗、光线不足；更远来源不明确"
+      ],
+      [
+        "现代 dark 词族",
+        "光线少、颜色深 → 神秘、悲观、阴险等语境联想"
+      ],
+      [
+        "dark + -ness → darkness",
+        "暗 → 黑暗状态"
+      ]
+    ],
+    "explanation": "complete darkness 完全黑暗，in darkness 在黑暗中，under cover of darkness 趁夜色掩护。",
+    "usage": "complete darkness；in darkness；under cover of darkness。",
+    "contrast": "dark 形容词修饰 room，darkness 名词自己指状态；the dark 也可表示暗处，范围与 darkness 有重合。",
+    "examples": [
+      [
+        "The power cut left the house in darkness.",
+        "停电让房子陷入黑暗。"
+      ],
+      [
+        "We waited in complete darkness for the lights to return.",
+        "我们在一片漆黑中等灯重新亮起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/darkness#English"
+    ]
+  },
+  {
+    "word": "darken",
+    "ipa": "英 /ˈdɑːkən/；美 /ˈdɑːrkən/",
+    "meaning": "变暗；使暗下来；使颜色加深",
+    "sense": "从亮到暗、从浅到深的变化，也能借来写脸色或心情变沉。",
+    "split": "dark + -en 变得、使变得，历史也有对应古英语动词。现代及物、不及物都可用。",
+    "history": [
+      [
+        "古英语 deorc → 中古英语 derk → dark",
+        "暗、光线不足；更远来源不明确"
+      ],
+      [
+        "现代 dark 词族",
+        "光线少、颜色深 → 神秘、悲观、阴险等语境联想"
+      ],
+      [
+        "dark + -en → darken",
+        "暗 → 变暗、使变暗"
+      ]
+    ],
+    "explanation": "the sky darkens 天变暗，darken the room 让房间暗下来，his face darkened 脸色沉下来。",
+    "usage": "the sky darkens；darken the room；darken in colour。",
+    "contrast": "dark 性质，darken 变化；It is dark 已经暗，It is darkening 正在变暗。",
+    "examples": [
+      [
+        "The sky darkened before the storm.",
+        "风暴前，天空暗了下来。"
+      ],
+      [
+        "The curtains darkened the room.",
+        "窗帘让房间暗了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/darken#English"
+    ]
+  },
+  {
+    "word": "darkly",
+    "ipa": "英 /ˈdɑːkli/；美 /ˈdɑːrkli/",
+    "meaning": "阴沉地；带威胁意味地；以黑暗方式",
+    "sense": "说话像藏着坏消息、危险，或者幽默里带阴暗沉重的成分；看它修饰哪个动作、特点。",
+    "split": "dark + -ly，副词。现代常用于 warn、hint 或 darkly comic 等描写性搭配，不单说物体颜色深。",
+    "history": [
+      [
+        "古英语 deorc → 中古英语 derk → dark",
+        "暗、光线不足；更远来源不明确"
+      ],
+      [
+        "现代 dark 词族",
+        "光线少、颜色深 → 神秘、悲观、阴险等语境联想"
+      ],
+      [
+        "dark + -ly → darkly",
+        "以阴暗、阴沉方式"
+      ]
+    ],
+    "explanation": "hint darkly 含糊而阴沉地暗示，warn darkly 阴沉警告，darkly comic 黑色幽默的。",
+    "usage": "hint darkly；warn darkly；darkly comic。",
+    "contrast": "darkly comic 修饰喜剧风格，不是暗房里演喜剧；dark room 的 dark 不直接改成副词去修饰 room。",
+    "examples": [
+      [
+        "He hinted darkly that more trouble was coming.",
+        "他阴沉地暗示，更大的麻烦还在后头。"
+      ],
+      [
+        "The novel is darkly comic rather than cheerful.",
+        "小说带黑色幽默，基调并不欢快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/darkly#English"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "B2859",
+    "meaning": "打斗、作战；抗争、反击、争取",
+    "core": "FIGHT：与阻力较量，不肯轻易退下",
+    "image": "真实冲突是基本画面；争取权利、追赶比分、强忍眼泪，都借用了用力对抗的感觉。",
+    "intro": "fight 动词接古英语 feohtan，名词也有相应旧形式。fight for 抓目标，fight against 抓阻力，fight back 抓反击。",
+    "forms": "fight → fighting、fighter；fight back → fightback；gun、fist 说明方式，dog、cat、bull 的复合词有各自固定用法。\n\nfight → fought → fought；gh 在现代常见读音里不单独发音，保留较早拼写历史。\n\n古英语已有对应人物名词，现代 fight 与 er 的关系清楚；也借作飞机类型名称。\n\n古英语 feohte、feohtan 等本族材料，名词复数、动词三单同形。",
+    "branches": [
+      [
+        "基本动作、参与者与反击",
+        "fight · fighting · fighter · fightback"
+      ],
+      [
+        "冲突的形式与比喻",
+        "gunfight · firefight · fistfight · dogfight · bullfight · catfight"
+      ],
+      [
+        "fight 与 fought：打斗、抵抗、争取",
+        "fight · fought"
+      ],
+      [
+        "fighter → fighters：战斗、比赛或坚持争取的人",
+        "fight · fighter · fighters"
+      ],
+      [
+        "fight → fights：争斗、比赛与为目标抗争",
+        "fight · fights · fighter"
+      ]
+    ],
+    "contrasts": "fighter 可以是人或战斗机；fighting chance 是还有一拼的机会。catfight 描写人时常带轻蔑，不能当成中性争论。",
+    "practice": "They fought for a place in the final and still had a fighting chance.\n\n他们为决赛席位而拼搏，仍有一拼的机会。",
+    "words": [
+      "fight",
+      "fighting",
+      "fighter",
+      "fightback",
+      "gunfight",
+      "firefight",
+      "fistfight",
+      "dogfight",
+      "bullfight",
+      "catfight",
+      "fought",
+      "fighters",
+      "fights"
+    ],
+    "exclude": {}
+  }
+]

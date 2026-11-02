@@ -1,0 +1,107 @@
+[
+  {
+    "id": "B2460",
+    "meaning": "草、草地；植物外形与基层比喻",
+    "core": "GRASS：脚下一层草，地下许多根，草间还有跳跃者",
+    "image": "grass → grassy；grassroots 从根比喻基层；grasshopper 草间跳跃者；lemon/sea/wheat + grass 各选命名特征。",
+    "intro": "把外形、气味、环境、普通成员四条线分开。草名里带 grass 不能替代植物学分类；基层比喻也不只说经济贫穷。",
+    "forms": "græs → grass；grass + -y/roots/hopper/land；lemon/sea/wheat/blue/super + grass。\n\n与 grass 比较植物类别，不由 grass 派生。bamboo 经荷兰 bamboe 或葡萄牙 bambu，较远可能接马来 samambu 等，后面是否还有借入线不确定。",
+    "branches": [
+      [
+        "基本草地和样子",
+        "grass · grassy · grassland"
+      ],
+      [
+        "基层与动物",
+        "grassroots · grasshopper"
+      ],
+      [
+        "植物名和其他借名",
+        "lemongrass · seagrass · wheatgrass · bluegrass · supergrass"
+      ],
+      [
+        "bamboo：另源的竹子、竹材",
+        "bamboo"
+      ]
+    ],
+    "contrasts": "grass/lawn 草与修整草坪；seagrass/seaweed 海草与海藻；grassroots 不等于贫穷；不同草名按语境认。",
+    "practice": "A grasshopper landed on the grassy bank while volunteers discussed a grassroots campaign.\n\n志愿者讨论基层倡议时，一只蚱蜢落在长草的河岸上。",
+    "words": [
+      "grass",
+      "grassy",
+      "grassland",
+      "grassroots",
+      "grasshopper",
+      "lemongrass",
+      "seagrass",
+      "wheatgrass",
+      "bluegrass",
+      "supergrass",
+      "bamboo"
+    ],
+    "exclude": {
+      "grass-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grass-cock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grass-eater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sawgrass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4556",
+    "meaning": "抬起、提高或筹集；动作名词再组合",
+    "core": "RAISING：把高度、水平、资金等带上来",
+    "image": "raising → fundraising 筹款，fund 指所筹集的资金。",
+    "intro": "raising 可以是 raise 的 -ing 形式，也能把提高、筹集当作一件事说。fundraising 不是把钱举到头上，而是让资金汇集起来。",
+    "forms": "raise 去 e + -ing → raising；fund + raising → fundraising。",
+    "branches": [
+      [
+        "提高、筹集及筹款",
+        "raising · fundraising"
+      ]
+    ],
+    "contrasts": "raising/rising raise 通常接被提高、筹集的对象，rise 多说自己升起；fundraising 是筹款活动。",
+    "practice": "Raising awareness can support the fundraising effort.\n\n提高公众认知可以帮助筹款。",
+    "words": [
+      "raising",
+      "fundraising"
+    ],
+    "exclude": {
+      "self-raising": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neg-raising": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1829",
+    "meaning": "声音；以声音传送、放大或发声的器材",
+    "core": "-PHONE：先读声音，再看前面限定哪种声音器材",
+    "image": "telephone 远距离通话；microphone 拾音；megaphone 扩音；hydrophone 水下拾音；xylophone、saxophone 是乐器名。",
+    "intro": "后半段是声音材料，不是所有 -phone 都是电话。前半段有距离、大小、环境、材料和人名等不同命名方式。",
+    "forms": "希腊 phōnē 声音 → -phone；tele-/micro-/mega-/hydro-/xylo- + -phone；saxophone 前段来自 Sax 人名。\n\n先认完整乐器名，再在词尾加 -s，不把 -phone 当成此处独立的电话。",
+    "branches": [
+      [
+        "传送、拾取与放大声音",
+        "telephone · microphone · megaphone · hydrophone"
+      ],
+      [
+        "乐器命名",
+        "saxophone · xylophone"
+      ],
+      [
+        "saxophone → saxophones：数一支支萨克斯管",
+        "saxophone · saxophones"
+      ]
+    ],
+    "contrasts": "hydrophone 不是水电话；xylophone 木质打击乐器；saxophone 不是 sax 字母串有万能普通词根义。",
+    "practice": "A microphone records air sounds, while a hydrophone records underwater sounds.\n\n麦克风记录空气中的声音，水听器记录水下声音。",
+    "words": [
+      "telephone",
+      "microphone",
+      "megaphone",
+      "hydrophone",
+      "saxophone",
+      "xylophone",
+      "saxophones"
+    ],
+    "exclude": {}
+  }
+]

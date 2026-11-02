@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B2688",
+    "meaning": "木材与树林；材质、覆盖、制作和自然复合词",
+    "core": "WOOD：材料是一块木头，环境是一片树林",
+    "image": "先 wood → wooden、woody、wooded；接胶合板与木工，再分储柴、印版、鸟类和漂木。",
+    "intro": "古英语本来就兼有林地和木材义。许多木材名较专门先略；已有常用词条共享。wormwood 是旧植物名受民间词源改写，不作为 worm + wood 的真构词例。",
+    "forms": "wood + -en/-y/-ed；ply/drift + wood；wood + worker/cutter/craft/shed/block/pecker。sandalwood 的前部是檀香旧名。\n\n古老词族同时涉及树林和木材，woods 常指一片树木成群的地方。\n\n与 wood 比较林木，不由 wood 派生。grove 接古英语 graf 小树林，较远来源不明；不能因为开头接近 grow 就直接断为其现代名词化。",
+    "branches": [
+      [
+        "基本材料、材质与林地",
+        "wood · wooden · woody · wooded · woodland"
+      ],
+      [
+        "木材类型",
+        "plywood · hardwood · softwood · redwood · heartwood · sandalwood"
+      ],
+      [
+        "制作、人员与储藏",
+        "woodwork · woodworking · woodworker · woodcutter · woodcraft · firewood · woodshed"
+      ],
+      [
+        "印刷、乐器及自然",
+        "woodcut · woodblock · woodwind · woodpecker · driftwood · deadwood"
+      ],
+      [
+        "wood → woods：材料与树林",
+        "wood · woods"
+      ],
+      [
+        "grove：另源的小树林、成片树木",
+        "grove · groves"
+      ]
+    ],
+    "contrasts": "wooden 木制，wooded 树多，woody 木质或木香；hardwood/softwood 是植物来源分类，不一律按硬度判断。",
+    "practice": "The woodworker made a wooden bench beside the wooded path.\n\n木工在林间小路旁做了一条木长椅。",
+    "words": [
+      "wood",
+      "wooden",
+      "woody",
+      "wooded",
+      "woodland",
+      "plywood",
+      "hardwood",
+      "softwood",
+      "redwood",
+      "heartwood",
+      "sandalwood",
+      "woodwork",
+      "woodworking",
+      "woodworker",
+      "woodcutter",
+      "woodcraft",
+      "firewood",
+      "woodshed",
+      "woodcut",
+      "woodblock",
+      "woodwind",
+      "woodpecker",
+      "driftwood",
+      "deadwood",
+      "woods",
+      "grove",
+      "groves"
+    ],
+    "exclude": {
+      "wood-fired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wood-locked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wood-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "underwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wood-thistle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rosewood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodhouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cottonwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodcock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "torchwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pinewood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wildwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oakwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodbine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wormwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dogwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hazelwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elmwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ironwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rockwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beechwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "boxwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "springwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "birchwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "basswood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

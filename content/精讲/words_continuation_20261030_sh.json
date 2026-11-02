@@ -1,0 +1,569 @@
+[
+  {
+    "word": "weave",
+    "ipa": "/wiːv/",
+    "meaning": "织、编；把内容交织起来；穿梭前进",
+    "sense": "一根线从另一组线中上下穿过，来回交错织成布；把人物、回忆编进故事，也能借这个动作说 weave。",
+    "split": "编织义继承古英语 wefan，经中古英语 weven 延续。另有左右移动、穿行的中古英语同形动词，来源有争议，可能联系编织或北欧语移动材料，不能把两路硬合成唯一历史。",
+    "history": [
+      [
+        "古英语 wefan → 中古英语 weven",
+        "交错纱线、编织；进一步编排内容"
+      ],
+      [
+        "另一组移动、穿行用法",
+        "曲折穿行，远源及两组关系未完全确定"
+      ]
+    ],
+    "explanation": "weave a basket 编篮子；weave memories into a story 把回忆融入故事；weave through a crowd 在人群中穿行。编织义常有 wove、woven，穿行义也常见规则 weaved。",
+    "usage": "weave together；weave into；weave through。",
+    "contrast": "knit 常用针把线套成线圈，weave 常让不同方向的线交错；穿行义的历史关系需要保留不确定性。",
+    "examples": [
+      [
+        "She learned to weave baskets from willow branches.",
+        "她学会了用柳枝编篮子。"
+      ],
+      [
+        "The author weaves family memories into the novel.",
+        "作者把家族回忆编进了小说。"
+      ],
+      [
+        "He weaved through the crowd toward the exit.",
+        "他在人群中穿行，向出口走去。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/weave",
+      "https://en.wiktionary.org/wiki/weave#English"
+    ]
+  },
+  {
+    "word": "woven",
+    "ipa": "英 /ˈwəʊvən/；美 /ˈwoʊvən/",
+    "meaning": "织成的；交织在一起的；weave 的过去分词",
+    "sense": "原来的线已经交错织成一件东西，就是 woven；几个问题、故事紧密联系，也可借 woven 表示交织。",
+    "split": "weave 编织的旧强变化过去分词，保留内部元音变化，现代是 weave—wove—woven。形容词用法从已被织成的结果状态发展。",
+    "history": [
+      [
+        "旧英语编织动词的强变化",
+        "通过词内元音等变化表达语法形式"
+      ],
+      [
+        "现代 weave—wove—woven",
+        "编织动作及已织成的结果状态"
+      ]
+    ],
+    "explanation": "woven fabric 机织物；a woven basket 编织篮；closely woven themes 交织紧密的主题。",
+    "usage": "woven from；woven into；tightly woven。",
+    "contrast": "woven 是完成的编织结果或过去分词；weaving 常指正在编织、编织活动。不要给所有 weave 的同形义机械套同一变化。",
+    "examples": [
+      [
+        "The bag is woven from recycled fibres.",
+        "这个包由回收纤维织成。"
+      ],
+      [
+        "The two stories are closely woven together.",
+        "这两个故事紧密交织在一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/woven#English"
+    ]
+  },
+  {
+    "word": "weaver",
+    "ipa": "英 /ˈwiːvə/；美 /ˈwiːvər/",
+    "meaning": "织工；编织者；织巢鸟等〔依语境〕",
+    "sense": "weave 是织，把线或材料编起来的人就是 weaver；有些鸟会把巢编得很精巧，也借这个动作得到名称。",
+    "split": "有中古英语 wevere、wever 及更早日耳曼语人物词对应；现代可按 weave + -er 理解。动物名则借织巢行为扩展。",
+    "history": [
+      [
+        "旧编织动词及人物词族",
+        "从织的动作形成职业名称"
+      ],
+      [
+        "现代 weaver",
+        "织工、编织者；按行为命名的鸟类等"
+      ]
+    ],
+    "explanation": "a skilled weaver 熟练织工；a basket weaver 篮子编织者；weaver birds 织巢鸟。具体是人、鸟，要看上下文。",
+    "usage": "a textile weaver；a traditional weaver。",
+    "contrast": "weaver 指人或按编织行为命名的生物；loom 是织机，通常不用 weaver 作为所有织机的通称。",
+    "examples": [
+      [
+        "The weaver demonstrated how to use the loom.",
+        "织工示范了如何使用织机。"
+      ],
+      [
+        "Local weavers make baskets from reeds.",
+        "当地编织者用芦苇编篮子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weaver#English"
+    ]
+  },
+  {
+    "word": "weft",
+    "ipa": "/weft/",
+    "meaning": "纬线、纬纱",
+    "sense": "织布时，一组线先顺着长度绷好，另一组横着穿来穿去；横向穿入的这一组就是 weft。",
+    "split": "中古英语 wefte 属于古英语、日耳曼语 weave 编织词族，含旧的名词构词材料。它不是英语 left 改一个字母，也不是现代 weave 随意截短。",
+    "history": [
+      [
+        "旧英语、日耳曼语编织词族",
+        "动作与被织入材料的相关名称"
+      ],
+      [
+        "中古英语 wefte → weft",
+        "机织结构中的横向纬线"
+      ]
+    ],
+    "explanation": "warp and weft 经线和纬线；pass the weft through the warp 把纬线穿过经线。按织造方向理解，比死记横竖更可靠。",
+    "usage": "weft yarn；the colour of the weft。",
+    "contrast": "warp 通常沿织物长度方向预先排列，weft 横向交织进去；织物转个方向后，日常看见的横竖也会跟着变。",
+    "examples": [
+      [
+        "The weft passes over and under the warp threads.",
+        "纬线在经线上下交错穿过。"
+      ],
+      [
+        "The blue weft gives the cloth its pattern.",
+        "蓝色纬线让这块布形成了图案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weft#English"
+    ]
+  },
+  {
+    "word": "pun",
+    "ipa": "/pʌn/",
+    "meaning": "双关语；说双关笑话",
+    "sense": "一句话让同一个声音突然接上两种意思，听者得转一下弯才发现笑点，就是 pun。常见玩法是同音词，或一个词的两个意思。",
+    "split": "双关语名词在十七世纪已见，确切来源不明；有与较长旧词 pundigron 等缩短相连的分析，但也未定。它与古英语捣打动词的关系不宜当成确定事实。",
+    "history": [
+      [
+        "十七世纪英语 pun 的双关用法",
+        "词的确切形成来源未定"
+      ],
+      [
+        "名词转动词及后续派生",
+        "一个双关；说双关；punny"
+      ]
+    ],
+    "explanation": "make a pun 说个双关笑话；a pun on a name 借名字玩双关；no pun intended 可说并非有意玩双关。",
+    "usage": "a clever pun；a terrible pun。",
+    "contrast": "joke 泛指笑话；pun 特别靠语音或词义的双重联系。同一个笑话可以含 pun，也可以完全不玩词。",
+    "examples": [
+      [
+        "The headline contains a pun on the word “light”.",
+        "这个标题用 light 这个词玩了双关。"
+      ],
+      [
+        "He made a pun about the baker needing more dough.",
+        "他说面包师需要更多 dough，借这个词既指面团又指钱来逗趣。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/pun"
+    ]
+  },
+  {
+    "word": "punny",
+    "ipa": "/ˈpʌni/",
+    "meaning": "含双关的；爱玩双关的〔口语〕",
+    "sense": "funny 是好笑，punny 则特意把笑点指向 pun：好笑靠的是双关。词形本身也让人想到 funny。",
+    "split": "pun + -y，双写 n，可能受 funny 的形式影响。现代口语形容词指含双关、爱说双关，另有极少见同形词不必混入。",
+    "history": [
+      [
+        "pun + -y → punny",
+        "具有双关性质的"
+      ],
+      [
+        "与 funny 相近的口语趣味",
+        "常描述玩词型笑话、名字和标题"
+      ]
+    ],
+    "explanation": "a punny title 双关标题；a punny shop name 玩双关的店名。它不保证每个人都觉得笑话好笑。",
+    "usage": "a punny slogan；a punny joke。",
+    "contrast": "punny 强调双关手法，funny 强调好笑或古怪等感觉。一个 punny joke 也可能被认为很冷。",
+    "examples": [
+      [
+        "The bakery chose a punny name for its new bread.",
+        "面包店给新面包取了个玩双关的名字。"
+      ],
+      [
+        "She filled the card with punny jokes.",
+        "她在卡片上写了许多双关笑话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/punny#English"
+    ]
+  },
+  {
+    "word": "savvy",
+    "ipa": "/ˈsævi/",
+    "meaning": "懂行的、精明的；实际见识",
+    "sense": "不是只背过知识，而是知道这件事实际怎么运作、坑在哪里、怎么应对；这种懂门道的感觉就是 savvy。",
+    "split": "经英语接触语中的 sabi、save 等知道用法，联系葡萄牙语 sabe、saber 知道，远接拉丁 sapere 品尝、懂得。英语先有实际见识名词、懂得动词，后来形容词很常用。",
+    "history": [
+      [
+        "拉丁 sapere → 葡萄牙语 saber、sabe",
+        "品味、知晓等相关意义"
+      ],
+      [
+        "接触语相关形式 → 英语 savvy",
+        "懂得、实际见识；懂行精明的"
+      ]
+    ],
+    "explanation": "a savvy shopper 精明的购物者；business savvy 商业头脑；politically savvy 懂政治运作。",
+    "usage": "a savvy investor；marketing savvy。",
+    "contrast": "knowledgeable 强调知识丰富；savvy 常多一层实际判断、会应对的能力。它也不表示某人每次决定都正确。",
+    "examples": [
+      [
+        "Savvy shoppers compare the total cost before buying.",
+        "精明的顾客购买前会比较总花费。"
+      ],
+      [
+        "She has the business savvy to run the company.",
+        "她有经营这家公司所需的商业头脑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/savvy#English"
+    ]
+  },
+  {
+    "word": "pageant",
+    "ipa": "/ˈpædʒənt/",
+    "meaning": "盛大表演、巡游；选美比赛等〔依搭配〕",
+    "sense": "穿着华丽服装、安排好队列和表演，让观众看一场有仪式感的展示，可以是 pageant；beauty pageant 是选美比赛的固定说法。",
+    "split": "中古英语 pagent 联系中世纪拉丁 pagina 的戏剧、表演材料，更远可能与拉丁书页名 pagina 有关，但具体演化有讨论。舞台、剧目等旧用法后来扩展为盛大公开展示。",
+    "history": [
+      [
+        "中世纪戏剧相关 pagina、pagent 等",
+        "剧目、表演装置等相连的旧用法"
+      ],
+      [
+        "现代 pageant",
+        "盛大表演、巡游；特定比赛名称"
+      ]
+    ],
+    "explanation": "a historical pageant 历史主题盛大表演；a beauty pageant 选美比赛；a Christmas pageant 圣诞演出。",
+    "usage": "stage a pageant；take part in a pageant。",
+    "contrast": "parade 更突出行进队列；pageant 更突出安排好的华丽展示、表演，二者可能重叠。看到 pageant 不一定就是选美。",
+    "examples": [
+      [
+        "The town staged a historical pageant in the square.",
+        "镇上在广场举办了一场历史主题盛大表演。"
+      ],
+      [
+        "The children rehearsed for the Christmas pageant.",
+        "孩子们为圣诞演出排练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pageant#English"
+    ]
+  },
+  {
+    "word": "pageantry",
+    "ipa": "/ˈpædʒəntri/",
+    "meaning": "盛大仪仗、华丽排场；壮观展示",
+    "sense": "pageant 可以是一场具体表演；pageantry 把镜头拉到整套华丽服装、队列、仪仗共同营造的排场。",
+    "split": "pageant + -ry，形成与这类活动、展示相连的集合或抽象名词。现代常用来谈仪式中的华丽场面。",
+    "history": [
+      [
+        "pageant 的盛大展示义",
+        "一场华丽、安排好的公开展示"
+      ],
+      [
+        "pageant + -ry → pageantry",
+        "这些展示的排场、仪仗与整体观感"
+      ]
+    ],
+    "explanation": "the pageantry of a ceremony 仪式的盛大仪仗；military pageantry 军事仪仗展示。通常作为不可数名词谈场面。",
+    "usage": "colourful pageantry；ceremonial pageantry。",
+    "contrast": "pomp 也说盛大排场，常可能带浮夸感觉；pageantry 更容易让人看到服装、队列、仪式展示。",
+    "examples": [
+      [
+        "Visitors enjoyed the colour and pageantry of the festival.",
+        "游客欣赏了节庆的缤纷色彩和盛大场面。"
+      ],
+      [
+        "The ceremony combined solemn music with elaborate pageantry.",
+        "仪式把庄严音乐与精心安排的盛大仪仗结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pageantry#English"
+    ]
+  },
+  {
+    "word": "stool",
+    "ipa": "/stuːl/",
+    "meaning": "凳子；粪便、大便〔较正式、医学表达〕",
+    "sense": "家具里是通常没有靠背、扶手的凳子；医疗问话里的 stool 却是大便。两义有坐具、便椅再到排泄物的历史联系。",
+    "split": "继承古英语 stol 座位，旧义可比现代凳子更宽。后来 chair 的普及让 stool 常专指较简单坐具；便椅等用法再通过委婉指代形成大便义。",
+    "history": [
+      [
+        "古英语 stol → 中古英语 stool",
+        "广义座位，后来常指无靠背凳子"
+      ],
+      [
+        "便椅相关用法 → 排便、排泄物",
+        "现代 stool 的较正式身体用语"
+      ]
+    ],
+    "explanation": "a wooden stool 木凳；a bar stool 吧台凳；a stool sample 粪便样本。后者按完整医疗搭配读。",
+    "usage": "sit on a stool；a footstool；pass a stool。",
+    "contrast": "chair 通常有靠背；stool 常没有。大便义比 poo、poop 等口语说法正式，不能在 stool sample 中译成凳子样本。",
+    "examples": [
+      [
+        "He sat on a wooden stool by the window.",
+        "他坐在窗边的木凳上。"
+      ],
+      [
+        "The nurse explained how to label the stool sample.",
+        "护士讲解了怎样给粪便样本贴标签。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/stool"
+    ]
+  },
+  {
+    "word": "plasterer",
+    "ipa": "英 /ˈplɑːstərə/；美 /ˈplæstərər/",
+    "meaning": "抹灰工；石膏工",
+    "sense": "把墙面涂上、抹平灰泥的人，就是 plasterer。这里先抓“把材料抹在表面”这项工作。",
+    "split": "plaster + -er，人物后缀指做抹灰、石膏相关工作的人。plaster 自身来自较早拉丁、法语敷贴、灰泥等词族。",
+    "history": [
+      [
+        "plaster 的覆盖、抹灰材料和动作义",
+        "给表面涂上适当材料"
+      ],
+      [
+        "plaster + -er → plasterer",
+        "以抹灰、石膏作业为业的人"
+      ]
+    ],
+    "explanation": "hire a plasterer 雇抹灰工；a skilled plasterer 熟练抹灰工。也可依工作指制作石膏模等的人。",
+    "usage": "an experienced plasterer；a plasterer at work。",
+    "contrast": "painter 常负责油漆、涂饰；plasterer 主要处理灰泥、石膏等基层或饰面作业，实际职业分工可有交叉。",
+    "examples": [
+      [
+        "The plasterer smoothed the wall before it was painted.",
+        "抹灰工先把墙抹平，再进行刷漆。"
+      ],
+      [
+        "We hired a plasterer to repair the ceiling.",
+        "我们请了一位抹灰工修理天花板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plasterer#English"
+    ]
+  },
+  {
+    "word": "plasterboard",
+    "ipa": "英 /ˈplɑːstəbɔːd/；美 /ˈplæstərbɔːrd/",
+    "meaning": "石膏板",
+    "sense": "把石膏芯做成平板，外面覆上纸面等材料，用来做墙、天花板；plasterboard 是这种建筑板材。",
+    "split": "plaster 灰泥、石膏材料 + board 板。复合词把材料和板状成品连起来，后来也可作动词说用石膏板覆盖。",
+    "history": [
+      [
+        "plaster + board",
+        "石膏材料 + 板"
+      ],
+      [
+        "建筑材料名 plasterboard",
+        "预制石膏板，用于室内墙体、顶棚等"
+      ]
+    ],
+    "explanation": "a sheet of plasterboard 一张石膏板；a plasterboard wall 石膏板墙。英式常用这个名称，美式常见 drywall。",
+    "usage": "cut plasterboard；fit plasterboard panels。",
+    "contrast": "plaster 常是可敷、可抹的材料，plasterboard 是制成板状的产品；具体材料性能由产品规格决定。",
+    "examples": [
+      [
+        "They used plasterboard to build the partition wall.",
+        "他们用石膏板搭建隔墙。"
+      ],
+      [
+        "A damaged sheet of plasterboard had to be replaced.",
+        "一张受损的石膏板需要更换。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plasterboard#English"
+    ]
+  },
+  {
+    "word": "aforementioned",
+    "ipa": "英 /əˈfɔːˌmenʃənd/；美 /əˈfɔːrˌmenʃənd/",
+    "meaning": "前面提到的；上述的〔正式〕",
+    "sense": "已经在前文说过，现在再指回去，就能用 aforementioned：就是刚才上文提到的那个。",
+    "split": "afore- 以前、前面 + mentioned 被提到的；mentioned 内部是 mention + -ed。afore- 的旧材料与 fore 前及 a- 等相连。",
+    "history": [
+      [
+        "旧 afore 的前面、以前关系",
+        "指时间、文中位置在前"
+      ],
+      [
+        "afore- + mentioned → aforementioned",
+        "已经在上文提到的"
+      ]
+    ],
+    "explanation": "the aforementioned report 上述报告；the aforementioned problems 前面提到的问题。常放在名词前，带正式书面口吻。",
+    "usage": "the aforementioned reasons；the aforementioned example。",
+    "contrast": "previously mentioned 更直白；aforementioned 较正式。它只负责回指，不表示那件事更重要、更可靠。",
+    "examples": [
+      [
+        "The aforementioned report is available on the website.",
+        "上述报告可在网站上查阅。"
+      ],
+      [
+        "We discussed the aforementioned problems at the meeting.",
+        "我们在会上讨论了前面提到的问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aforementioned#English"
+    ]
+  },
+  {
+    "word": "saleswoman",
+    "ipa": "英 /ˈseɪlzwʊmən/；美 /ˈseɪlzwʊmən/",
+    "meaning": "女销售员、女推销员",
+    "sense": "sales 是销售相关材料，woman 明确说从事这份工作的女性。她可以在店里卖商品，也可以负责对外推销。",
+    "split": "sales + woman 复合，和 salesman、salesperson 对应。sales 的 s 已是前部固定材料，复数主要把 woman 变成 women。",
+    "history": [
+      [
+        "sales + woman",
+        "销售 + 女性"
+      ],
+      [
+        "saleswoman；复数 saleswomen",
+        "以女性身份明确的销售人员名称"
+      ]
+    ],
+    "explanation": "a car saleswoman 女汽车销售员；a helpful saleswoman 热心的女售货员。复数 saleswomen 后半常读 /wɪmɪn/。",
+    "usage": "an experienced saleswoman；ask the saleswoman。",
+    "contrast": "salesperson、sales assistant 等可不强调性别；saleswoman 明确女性。词本身不限制销售发生在商店里。",
+    "examples": [
+      [
+        "The saleswoman helped us choose a suitable jacket.",
+        "女售货员帮我们挑选了合适的夹克。"
+      ],
+      [
+        "She became the company’s top saleswoman.",
+        "她成了公司业绩最好的女销售员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saleswoman#English"
+    ]
+  },
+  {
+    "word": "minicab",
+    "ipa": "/ˈmɪnikæb/",
+    "meaning": "预约出租车〔英式〕",
+    "sense": "在英国语境，先打电话等方式预约、派车来接的出租服务，常叫 minicab；理解时重点是服务类型，不是车身特别迷你。",
+    "split": "mini- 小型 + cab 出租车形成复合名称。随着特定服务类型固定，现代常用义超出了单纯小出租车的字面组合。",
+    "history": [
+      [
+        "mini- + cab → minicab",
+        "以小型出租车的形式命名"
+      ],
+      [
+        "英式固定服务名称",
+        "通常事先预约、不能直接路边拦停的出租服务"
+      ]
+    ],
+    "explanation": "book a minicab 预约出租车；a minicab driver 预约出租车司机。常见于英国日常出行表达。",
+    "usage": "a minicab firm；order a minicab。",
+    "contrast": "taxi 是更广的日常叫法；minicab 在英式用法常突出预订服务。mini- 不保证现代每一辆车都比普通轿车小。",
+    "examples": [
+      [
+        "We booked a minicab to take us to the station.",
+        "我们预约了一辆出租车去车站。"
+      ],
+      [
+        "The minicab driver called when he arrived.",
+        "预约出租车司机到达时打来了电话。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/minicab",
+      "https://en.wiktionary.org/wiki/minicab#English"
+    ]
+  },
+  {
+    "word": "fauna",
+    "ipa": "英 /ˈfɔːnə/；美 /ˈfɔːnə/",
+    "meaning": "动物群；某地区、时期的动物总称",
+    "sense": "不是点名某一只动物，而是把一片地区、一段时期有哪些动物作为整体来看，这个集合就叫 fauna。",
+    "split": "近代学术拉丁语采用 Fauna 这一罗马神话名称，形成动物群名称，再借入英语。与植物群 flora 构成常见对照。",
+    "history": [
+      [
+        "拉丁神话名称 Fauna → 学术拉丁语 fauna",
+        "神话名称被借作自然类群名称"
+      ],
+      [
+        "英语 fauna",
+        "一地、一时等范围内的动物整体"
+      ]
+    ],
+    "explanation": "local fauna 当地动物群；marine fauna 海洋动物群；the flora and fauna of an island 一座岛的植物和动物。",
+    "usage": "native fauna；the fauna of a region。",
+    "contrast": "animal 可以指一只动物；fauna 主要把群体作为整体。flora 说植物群，不是与 fauna 同义的花名。",
+    "examples": [
+      [
+        "The island has a rich and unusual fauna.",
+        "这座岛的动物种类丰富而独特。"
+      ],
+      [
+        "The guide describes the local flora and fauna.",
+        "指南介绍了当地的植物群和动物群。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fauna#English"
+    ]
+  },
+  {
+    "word": "megafauna",
+    "ipa": "英 /ˌmeɡəˈfɔːnə/；美 /ˌmeɡəˈfɔːnə/",
+    "meaning": "大型动物群",
+    "sense": "把某个地区、时期体型很大的动物放到一起谈，像猛犸象、巨型地懒这一类，就可以说 megafauna。",
+    "split": "mega- 大型、巨大 + fauna 动物群。这里 mega- 是强调体型大的构词材料，不是要把动物精确数成一百万只。",
+    "history": [
+      [
+        "fauna 的动物整体义",
+        "以地区、时期等为范围的动物集合"
+      ],
+      [
+        "mega- + fauna → megafauna",
+        "其中体型大的动物群体"
+      ]
+    ],
+    "explanation": "Ice Age megafauna 冰期大型动物群；the loss of megafauna 大型动物群的消失。具体体型门槛会随研究语境变化。",
+    "usage": "extinct megafauna；marine megafauna。",
+    "contrast": "megafauna 不等于所有已经灭绝的动物，也不限于史前动物；关键是体型较大及讨论的类群范围。",
+    "examples": [
+      [
+        "The exhibition features Ice Age megafauna such as mammoths.",
+        "展览介绍猛犸象等冰期大型动物。"
+      ],
+      [
+        "Researchers study how megafauna shaped ancient landscapes.",
+        "研究人员探讨大型动物群如何塑造古代景观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/megafauna#English"
+    ]
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "B2526",
+    "meaning": "加速动作、过程、促成因素与测量工具",
+    "core": "ACCELERATE：让过程加快，再区分谁促成、用什么测",
+    "image": "accelerate → acceleration、accelerator、accelerant、accelerometer；decelerate 减速。",
+    "intro": "同一词族不能都译加速器：过程是 acceleration，促成物是 accelerant，仪器 accelerometer 则负责测量。",
+    "forms": "ad- + celer 迅速的拉丁词族；-ation 过程，-or 装置等，-ant 促进因素，-meter 测量仪。",
+    "branches": [
+      [
+        "加速、过程和减速",
+        "accelerate · acceleration · decelerate"
+      ],
+      [
+        "装置、促进物与测量仪",
+        "accelerator · accelerant · accelerometer"
+      ]
+    ],
+    "contrasts": "加速度含速度方向变化；accelerometer 不等于 speedometer。",
+    "practice": "The accelerometer recorded the acceleration as the vehicle began to accelerate.\n\n车辆开始加速时，加速度计记录了加速度。",
+    "words": [
+      "accelerate",
+      "acceleration",
+      "decelerate",
+      "accelerator",
+      "accelerant",
+      "accelerometer"
+    ],
+    "exclude": {
+      "post-accelerate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3265",
+    "meaning": "通用类别而非特定个体的描述方式",
+    "core": "GENERIC：先说它属于哪一类，再决定是否点名特定版本",
+    "image": "generic → generically。",
+    "intro": "generic 把视线放到共性、通称，generically 把这种方式放进句子。技术说明与一般命名中都能看到。",
+    "forms": "generic 接类别词族；-ic + -ally → -ically 的副词形式。",
+    "branches": [
+      [
+        "类别性质与称说方式",
+        "generic · generically"
+      ]
+    ],
+    "contrasts": "generically 通用地与 generally 通常、总的来说分清。",
+    "practice": "Use the generic term when referring to the devices generically.\n\n统称这类装置时，使用通用名称。",
+    "words": [
+      "generic",
+      "generically"
+    ],
+    "exclude": {
+      "non-generic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2608",
+    "meaning": "脚前端、鞋袜前端与脚尖动作",
+    "core": "TOE：先看最前面的小趾，再看覆盖它的部分",
+    "image": "toe → toed、toenail；tiptoe 看脚尖动作。",
+    "intro": "脚趾、鞋头有对应位置；有多少趾、什么鞋头可用 toed 组合。tiptoe 则把动作放到脚尖。",
+    "forms": "tā、tāhe → toe；-ed 有相应部分；nail 指甲；tip 指尖端。\n\ntoes 复数英 /təʊz/、美 /toʊz/；toe the line 的动词也可形成 toes the line，表示遵守要求。",
+    "branches": [
+      [
+        "脚趾、形态与趾甲",
+        "toe · toed · toenail"
+      ],
+      [
+        "脚尖动作",
+        "tiptoe"
+      ],
+      [
+        "toe → toes：脚趾与固定搭配",
+        "toe · toes"
+      ]
+    ],
+    "contrasts": "toed 形容词不都表过去；toe the line 不是 tow。",
+    "practice": "She rose on tiptoe, balancing on her toes.\n\n她踮起脚，用脚尖保持平衡。",
+    "words": [
+      "toe",
+      "toed",
+      "toenail",
+      "tiptoe",
+      "toes"
+    ],
+    "exclude": {
+      "even-toed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "toe-tapper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4249",
+    "meaning": "不开心、不满意与不幸，人物感受和句子评价分清",
+    "core": "UNHAPPY：事情没有让人感到幸福、满意",
+    "image": "unhappy → unhappily、unhappiness。",
+    "intro": "情绪不开心、对安排不满意，都是 unhappy 的常用场景；unhappily 放句首时还可评价整件事不幸、遗憾。",
+    "forms": "un- + happy；-ly、-ness 接在 unhappy 后时 y 变 i。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "unhappy · unhappily · unhappiness"
+      ]
+    ],
+    "contrasts": "unhappy with 常说不满意；unhappily 可句子副词，不都说某人哭丧着脸。",
+    "practice": "Unhappily, the change caused considerable unhappiness among the residents.\n\n遗憾的是，这个变化让居民产生了很大不满。",
+    "words": [
+      "unhappy",
+      "unhappily",
+      "unhappiness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4035",
+    "meaning": "整体中的破口、缺点，再区分有瑕与无瑕",
+    "core": "FLAW：一个小破口，也可能影响整个论证或设计",
+    "image": "flaw → flawed ↔ flawless。",
+    "intro": "先找缺陷落在哪里，再谈程度。flawed 是有，flawless 是没有；作品有人物缺点与作者写得差不是同一件事。",
+    "forms": "旧碎片、薄片词 → flaw 缺陷；-ed 有此状态，-less 无此物。\n\nflaw 旧义有碎片、小片，常联系古北欧 flaga 等材料；后有性格、材料、论证缺陷等义。复数 -s 在元音后读 /z/。",
+    "branches": [
+      [
+        "缺陷、有缺陷与无缺陷",
+        "flaw · flawed · flawless"
+      ],
+      [
+        "flaw → flaws：瑕疵、缺陷与不周之处",
+        "flaws"
+      ]
+    ],
+    "contrasts": "flaw 不都属于人为失误；flawed 也不都等于全部无用。",
+    "practice": "The design was flawed, but the final performance was flawless.\n\n设计有缺陷，最终演出却毫无差错。",
+    "words": [
+      "flaw",
+      "flawed",
+      "flawless",
+      "flaws"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4500",
+    "meaning": "卖东西的人，与按销售表现命名的商品",
+    "core": "SELLER：可以是卖的人，也可以是卖得怎样的东西",
+    "image": "seller → bookseller；bestseller 则是畅销商品。",
+    "intro": "-er 最直观的人物义是卖方；商品若卖得好，也会按销售表现叫 a good seller。bestseller 就沿这一面形成固定名称。",
+    "forms": "sell + -er → seller；book + seller → bookseller；best + seller → bestseller。\n\nbookseller 是卖书一方，bestseller 的 seller 却指销售表现好的商品，按整词用途选。\n\nsell 承古英语给予、交付的动词，后有换钱出售的义项。sell + -er 人，再加 -s；复数卖家与所有格 seller’s 要分清。",
+    "branches": [
+      [
+        "卖方及售书者",
+        "seller · bookseller"
+      ],
+      [
+        "销售表现好的商品",
+        "bestseller"
+      ],
+      [
+        "seller 的售书角色与畅销商品",
+        "bookseller · booksellers · bestseller · bestsellers"
+      ],
+      [
+        "sell → seller → sellers",
+        "sellers"
+      ]
+    ],
+    "contrasts": "bestseller 不必全球第一；bookseller 可人物、书店等经营主体。",
+    "practice": "The bookseller put the new bestseller near the entrance.\n\n书商把新出的畅销书放在入口附近。",
+    "words": [
+      "seller",
+      "bookseller",
+      "bestseller",
+      "booksellers",
+      "bestsellers",
+      "sellers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3607",
+    "meaning": "先勾轮廓，再区分简略与不可靠的评价",
+    "core": "SKETCH：几笔抓大体，不急着补所有细节",
+    "image": "sketch → sketchbook、sketchy。",
+    "intro": "草图可以是合理的创作步骤；信息粗略则可能让人难判断。sketchy 从未完成的特点扩展成可疑，不要把两种场景总译一样。",
+    "forms": "意大利 schizzo 经荷兰、低地德语等 → sketch；book 本册；-y 性质。\n\nsketch 经荷兰语等接意大利 schizzo，更远有即兴、飞溅等不同来源分析；名词草图、简述较早，英语相应动词较晚。",
+    "branches": [
+      [
+        "草图与承载它的本册",
+        "sketch · sketchbook"
+      ],
+      [
+        "简略、不可靠的性质",
+        "sketchy"
+      ],
+      [
+        "sketch：先把轮廓留下",
+        "sketch · sketches · sketched · sketching"
+      ]
+    ],
+    "contrasts": "sketch 不自动等于失败画作；sketchy 可能仅信息不全。",
+    "practice": "Her sketchbook contained a sketchy outline of the proposed design.\n\n她的素描本里有拟议设计的粗略轮廓。",
+    "words": [
+      "sketch",
+      "sketchbook",
+      "sketchy",
+      "sketches",
+      "sketched",
+      "sketching"
+    ],
+    "exclude": {
+      "sketch-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thumb-sketch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3742",
+    "meaning": "停止的动作与没有停顿的状态",
+    "core": "CEASE：事情停下来；-less 再把停止拿掉",
+    "image": "cease → ceaseless；ceasefire 停止开火。",
+    "intro": "先抓停止这个动作：否定停止形成持续不断，限定 fire 射击则形成停火名称。",
+    "forms": "法语 cesser、拉丁 cessare → cease；-less 没有；fire 在复合中说开火。",
+    "branches": [
+      [
+        "停止与持续不断",
+        "cease · ceaseless"
+      ],
+      [
+        "停止开火",
+        "ceasefire"
+      ]
+    ],
+    "contrasts": "ceaseless 不一定严格永久；ceasefire 可停火状态、安排。",
+    "practice": "After ceaseless talks, the two sides agreed to a ceasefire.\n\n经过持续不断的会谈，双方同意停火。",
+    "words": [
+      "cease",
+      "ceaseless",
+      "ceasefire"
+    ],
+    "exclude": {}
+  }
+]

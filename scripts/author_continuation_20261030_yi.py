@@ -1,0 +1,139 @@
+"""Common transport and travel plurals, with noun and verb readings separated."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C1607':dict(words=['vehicle','vehicles'],label='vehicle → vehicles：运载工具与内容载体',note='拉丁运输词经法语借入，载人的车辆与传达内容的载体共享承载的画面。'),
+ 'C0294':dict(words=['bicycle','bicycles'],label='bicycle → bicycles：两轮车',note='bi- 二与轮的材料组合；保留法语借入背景。'),
+ 'B3239':dict(words=['bike','bikes'],label='bike → bikes：短名称与骑车',note='bicycle 的缩短形式，按现代读音与用途学习。'),
+ 'B2801':dict(words=['train','trains'],label='train → trains：牵引的一列与训练',note='拖、牵引词族经法语发展；火车、训练通过不同语义分支形成。'),
+ 'B3248':dict(words=['bus','buses'],label='bus → buses：公共车名称的截短与复数',note='omnibus 截短为 bus，现代 buses 可作名词或动词形式。'),
+ 'B2943':dict(words=['boat','boats'],label='boat → boats：船与乘船',note='本族古英语船名延续，更远来源不强定。'),
+ 'B3315':dict(words=['ship','ships'],label='ship → ships：船与发运',note='船名与运输动词有较老历史，发运义后来不限船运。'),
+ 'C1057':dict(words=['plane','planes'],label='plane → planes：平面、刨子与飞机',note='飞机义是 aeroplane 的缩短；平面和刨具另有相关借入路线，树名又是另一支。'),
+ 'B2862':dict(words=['flight','flights'],label='flight → flights：飞行、航班与一段楼梯',note='飞行、逃离词族的较早联系要分别看，现代也有航班与楼梯等用法。'),
+ 'B3385':dict(words=['wheel','wheels'],label='wheel → wheels：轮子与推行',note='古英语轮名延续，英语也可用作动词。'),
+ 'B3121':dict(words=['engine','engines'],label='engine → engines：巧妙装置与发动机',note='拉丁天赋、巧思词经法语发展为装置名称，后有发动机、软件核心等义。'),
+ 'C0712':dict(words=['machine','machines'],label='machine → machines：机器与机械加工',note='希腊装置词经拉丁、法语借入，英语由机器名又形成加工动词。'),
+ 'B2629':dict(words=['airport','airports'],label='airport → airports：空中交通的港口',note='air 与 port 组合，像港口承接船舶一样承接飞机。'),
+ 'C1404':dict(words=['station','stations'],label='station → stations：固定地点与派驻',note='站立、驻留词族发展到车站、台站、工作位置和驻扎动词。'),
+ 'B2990':dict(words=['ticket','tickets'],label='ticket → tickets：纸条、凭证与事务记录',note='标签便条词借入，按证明、记录用途扩展。'),
+ 'B3035':dict(words=['journey','journeys'],label='journey → journeys：一天的路程与一段历程',note='一天的工作或行程名称借入后，不再限制旅程长度。'),
+}
+W('vehicles','英 /ˈviːɪkəlz/；美 /ˈviːəkəlz/','车辆、交通工具；载体〔vehicle 的复数〕',
+ '能把人或货物带到别处的工具，是 vehicles；能把想法、信息带给别人的媒介，也能比喻成 vehicles。',
+ 'vehicle + -s，/l/ 后读 /z/。拉丁 vehere 携带、运输形成 vehiculum，经过法语 véhicule 借入英语；不要把现在的 -icle 一律读成小东西。',
+ [['拉丁 vehere → vehiculum → 法语 véhicule → vehicle','运输 → 运输工具'],['vehicle + -s → vehicles；承载比喻','多个交通工具；传递内容的载体']],
+ 'electric vehicles 电动车；commercial vehicles 商用车辆；vehicles for ideas 传播想法的载体。',
+ 'vehicles parked outside；vehicles for communication。','vehicle 比 car 范围广，可以包含货车、公共汽车等；比喻义抓住承载和传达，不只把字面车辆硬套进句子。',
+ ('Only emergency vehicles may use this entrance.','只有应急车辆可以使用这个入口。'),('Stories can be powerful vehicles for new ideas.','故事可以成为传播新想法的有力载体。'),sources=['https://en.wiktionary.org/wiki/vehicles#English','https://en.wiktionary.org/wiki/vehicle#English'])
+W('bicycles','/ˈbaɪsɪkəlz/','自行车〔复数〕；骑自行车〔第三人称单数〕',
+ '两个轮子、靠人踩踏行进的车辆，是 bicycles；把车辆名称用作动作，就能说骑自行车出行。',
+ 'bicycle + -s，/l/ 后读 /z/。bicycle 通常按借自法语 bicycle 处理，bi- 二，-cycle 接希腊 kýklos 轮、圆；直接借入与同材料造词的分析有差别。',
+ [['bi- 二 + 轮的 -cycle → 法语 bicycle、英语 bicycle','两轮车的名称'],['bicycle + -s → bicycles','多辆自行车；单数主语骑行']],
+ 'park the bicycles 停放自行车；hire bicycles 租自行车；bicycles to work 骑车上班。',
+ 'bicycles outside the station；bicycles along the river。','bicycle 作车辆名很普通，作动词较不如 cycle、ride a bicycle 常用。日常缩短形式 bike 接在另一个同族组里，读音与 bicycle 不完全相同。',
+ ('Bicycles can be rented near the station.','车站附近可以租自行车。'),('Several bicycles were parked outside the library.','图书馆外停着几辆自行车。'),sources=['https://en.wiktionary.org/wiki/bicycles#English','https://en.wiktionary.org/wiki/bicycle#English'])
+W('bikes','/baɪks/','自行车；摩托车〔复数，视语境〕；骑车〔第三人称单数〕',
+ '较长的 bicycle 缩成日常短词 bike，多辆便是 bikes。骑行谈话里也可能指摩托车，先看所说的车辆。',
+ 'bike + -s，/k/ 后读 /s/。bike 从 bicycle 缩短而来，短词的拼写、/baɪk/ 读音一起定型；英语又由车辆名发展出骑车动词。',
+ [['bicycle → bike','自行车名称缩短；有时扩用于摩托车'],['bike + -s → bikes；名词转动词','多辆车；单数主语骑车']],
+ 'mountain bikes 山地自行车；ride bikes 骑自行车；bikes to school 骑车上学。',
+ 'bikes in the garage；bikes along the canal。','He bikes to work 中 bikes 是动词，后面 to 说明目的地；His bikes are outside 中是复数名词。bike 的结尾 e 不单独发音。',
+ ('We left our bikes beside the café.','我们把自行车停在了咖啡馆旁边。'),('He bikes to work when the weather is dry.','天气干燥时，他骑车上班。'),sources=['https://en.wiktionary.org/wiki/bikes#English','https://en.wiktionary.org/wiki/bike#English'])
+W('trains','/treɪnz/','火车；一列、连续的一串〔复数〕；训练、培训〔第三人称单数〕',
+ '一节节车厢连着、被带着向前走，是 trains 的火车画面。训练义则是把能力引导、培养到所需状态，沿同一较早词族的另一支发展。',
+ 'train + -s，/n/ 后读 /z/。古法语 train、trainer 接拉丁 trahere 拖、拉，中间涉及重建形式；英语名词有拖在后面的一列，后来用于铁路列车，动词再发展出训练等义。',
+ [['拉丁 trahere → 通俗拉丁重建形式 → 古法语 train、trainer','拖拉 → 拖带的一列'],['英语 train → trains；不同意义分支','列车；引导、培养 → 单数主语训练']],
+ 'catch trains 赶火车；trains new staff 培训新员工；trains for a race 为比赛训练。',
+ 'trains leaving the city；trains every morning。','trains 作动词可接被培训的人，也可用 trains for 说明目标。火车义与训练义要通过历史中的拖带、引导理解，不必编成火车产生训练。',
+ ('Trains run every fifteen minutes during the day.','白天每十五分钟就有一班火车。'),('She trains new staff at the hotel.','她在酒店培训新员工。'),sources=['https://en.wiktionary.org/wiki/trains#English','https://www.etymonline.com/word/train'])
+W('buses','/ˈbʌsɪz/','公共汽车〔复数〕；用公共汽车运送〔第三人称单数〕',
+ '一辆辆载着许多乘客按线路行驶的车，是 buses；安排大家坐公共汽车到一个地方，动词也可以用 bus。',
+ 'bus + -es，/s/ 后增加 /ɪz/。bus 是 omnibus 的截短；较长交通名称经法语接拉丁 omnibus 给所有人的。现代 buses 的 -es 才是英语复数或第三人称词尾。',
+ [['拉丁 omnibus → 法语公共车辆名称 → omnibus → bus','给所有人的车 → 公共汽车短称'],['bus + -es → buses','多辆公共汽车；单数主语用公共汽车运送']],
+ 'city buses 城市公共汽车；school buses 校车；buses passengers to the airport 用大巴把旅客送到机场。',
+ 'buses stop here；buses visitors to the site。','公共汽车单数 bus，常用复数 buses。动词 bus 还有其他专门用法，这里先掌握车辆与运送；与 buss 接吻的旧词分开。',
+ ('Two buses were waiting outside the school.','两辆公共汽车正在学校外等候。'),('The hotel buses guests to the airport each morning.','酒店每天早晨用大巴把客人送到机场。'),sources=['https://en.wiktionary.org/wiki/buses#English','https://www.etymonline.com/word/bus'])
+W('boats','英 /bəʊts/；美 /boʊts/','船、小船〔boat 的复数〕',
+ '浮在水面、载着人或物的一个个船体，是 boats；日常尤其容易想到小型船，但实际命名也受传统影响。',
+ 'boat + -s，/t/ 后读 /s/。boat 继承古英语 bāt，经中古英语 bot、boot 等发展；较早与劈木相关的解释不当作定论。',
+ [['古英语 bāt → 中古英语 → boat','船、船舶'],['boat + -s → boats','多艘船']],
+ 'fishing boats 渔船；rowing boats 划艇；boats on the lake 湖上的船；by boat 乘船。',
+ 'boats tied to the dock；boats returning to harbour。','boat 与 ship 都能说船，boat 常较小，ship 常较大；实际船名未必严格按尺寸分。by boat 泛说交通方式，通常不用复数。',
+ ('Small boats moved slowly across the lake.','几只小船缓缓驶过湖面。'),('The fishing boats returned before sunset.','渔船在日落前返回了。'),sources=['https://en.wiktionary.org/wiki/boats#English','https://en.wiktionary.org/wiki/boat#English'])
+W('ships','/ʃɪps/','船舶〔复数〕；发运、交付〔第三人称单数〕',
+ '一艘艘运送人货的船，是 ships；动词从装船、运送扩大后，今天快递陆运、产品交付也能用 ships。',
+ 'ship + -s，/p/ 后读 /s/。船名继承古英语 scip，运输动词也有较老历史；发运义后来不限水路。表示身份状态的 -ship 后缀与这条船名历史分开。',
+ [['古英语 scip 及相关运输动词 → ship','船；装船、运送'],['ship + -s → ships；运输范围扩大','多艘船；单数主语发运、交付']],
+ 'cargo ships 货轮；cruise ships 邮轮；ships orders 发出订单货物；ships worldwide 向世界各地发货。',
+ 'ships in the harbour；ships within two days。','The shop ships worldwide 是商店发货，不限定用船。软件团队说 ships a new feature 时，是把功能完成并交给用户的借用。',
+ ('Several ships were waiting outside the harbour.','几艘船正在港外等候。'),('The shop ships orders within two working days.','这家店会在两个工作日内发货。'),sources=['https://en.wiktionary.org/wiki/ships#English','https://en.wiktionary.org/wiki/ship#English'])
+W('planes','/pleɪnz/','飞机；平面；刨子〔复数，分支不同〕；刨平〔第三人称单数〕',
+ '机场里起降的是 planes 的飞机义；几何中平展的面、木工手中的刨子，也写 planes，但要分别接上各自的来源。',
+ 'plane + -s，/n/ 后读 /z/。飞机 plane 缩自 aeroplane；平面义接拉丁 planum，刨子义经法语接 plana 等工具词。悬铃木的同形词另接希腊 platanos 的树名。',
+ [['planum 等 → plane；aeroplane → plane','平面；工具名；飞机名称缩短，各支区别'],['plane + -s → planes','多架飞机、多个平面或刨子；单数主语刨平']],
+ 'passenger planes 客机；planes taking off 起飞的飞机；parallel planes 平行平面。',
+ 'planes above the clouds；two intersecting planes。','飞机 plane 与计划 plan 读音、意义都不同。机场语境 planes 多半说飞机，几何语境则说平面，不能用一个中文义包下所有句子。',
+ ('Planes were taking off every few minutes.','每隔几分钟就有飞机起飞。'),('The diagram shows two parallel planes.','图中画着两个平行平面。'),sources=['https://en.wiktionary.org/wiki/planes#English','https://en.wiktionary.org/wiki/plane#English'])
+W('flights','/flaɪts/','飞行、航班；一段楼梯〔flight 的复数〕',
+ '飞机一次次飞出去，是 flights；机场安排好的一次次航空运输，就是一班班航班。楼梯的 flights 则按平台之间连续的一段来数。',
+ 'flight + -s，/t/ 后读 /s/。飞行义继承古英语 flyht，与 fly 的词族相连；逃离义还涉及 flee 的较早词族，不能全当成现代 fly 加后缀。楼梯义是另外固定下来的空间扩展。',
+ [['古英语飞行词及逃离相关旧词 → flight','飞行与逃离的历史分支'],['flight + -s → flights；专门用法扩展','多次飞行、航班；连续的楼梯段']],
+ 'direct flights 直飞航班；cancelled flights 取消的航班；two flights of stairs 两段楼梯。',
+ 'flights to Shanghai；flights of stairs。','two flights of stairs 通常按平台间的连续段数，两段不必恰好等于两层楼；楼层结构要看具体建筑。飞行时长可说 long flights。',
+ ('Several flights were delayed by thick fog.','几班航班因大雾延误了。'),('We carried the boxes up two flights of stairs.','我们把箱子往上搬了两段楼梯。'),sources=['https://en.wiktionary.org/wiki/flights#English','https://en.wiktionary.org/wiki/flight#English'])
+W('wheels','/wiːlz/','轮子〔复数〕；推着有轮器具走；转动〔第三人称单数〕',
+ '绕着中心转、让车辆滚动前进的圆形部件，是 wheels；推着带轮子的东西走，也能直接用 wheel 作动词。',
+ 'wheel + -s，/l/ 后读 /z/。wheel 继承古英语 hwēol、hweogol 等，较早重叠词形通常联系转动；名词又扩展成转动、推行的动作。',
+ [['古英语 hwēol 等 → wheel','轮子；较早联系转动'],['wheel + -s → wheels；名词转动词','多个轮；单数主语推轮行进、转动']],
+ 'front wheels 前轮；wheels on a suitcase 行李箱的轮子；wheels the trolley 推手推车。',
+ 'wheels turning slowly；wheels the chair into the room。','wheels 可以数实际轮子；口语里也能借指一辆车。动词 wheel 强调借助轮子滚动来移动，常接方向短语。',
+ ('The suitcase has four small wheels.','这个行李箱有四个小轮子。'),('He wheels the trolley into the kitchen.','他把手推车推进厨房。'),sources=['https://en.wiktionary.org/wiki/wheels#English','https://en.wiktionary.org/wiki/wheel#English'])
+W('engines','/ˈendʒɪnz/','发动机；引擎、核心驱动装置〔复数〕',
+ '把能量转成机械动力、带着车或机器运转的装置，是 engines；软件中负责核心工作的部分，也借用引擎这个画面。',
+ 'engine + -s，/n/ 后读 /z/。拉丁 ingenium 天赋、巧思经古法语 engin 发展到技巧与巧妙装置，英语 engine 早有机械装置义，后来重点指发动机。',
+ [['拉丁 ingenium → 古法语 engin → engine','天赋、巧思 → 技巧、机械装置'],['发动机义及软件借用；engine + -s → engines','多个动力装置、软件引擎']],
+ 'diesel engines 柴油发动机；jet engines 喷气发动机；search engines 搜索引擎；game engines 游戏引擎。',
+ 'engines starting up；engines that power the system。','engine 抓的是驱动装置或核心功能，machine 则可指整台机器。search engine 借用查找信息的核心装置这个画面。',
+ ('The engineers tested both engines before the flight.','工程师在飞行前测试了两台发动机。'),('Different search engines may return different results.','不同搜索引擎可能给出不同的结果。'),sources=['https://en.wiktionary.org/wiki/engines#English','https://www.etymonline.com/word/engine'])
+W('machines','/məˈʃiːnz/','机器；用机器加工〔第三人称单数〕',
+ '把零件组合起来、帮人完成某种工作的装置，是 machines；让机器按要求切削等加工零件，也能用 machine 作动词。',
+ 'machine + -s，/n/ 后读 /z/。希腊 mēkhanē、多里斯方言 makhana 的装置、巧妙办法词，经拉丁 machina、法语 machine 借入；英语再从名词形成加工动词。',
+ [['希腊装置词 → 拉丁 machina → 法语 → machine','工具、装置 → 机器'],['machine + -s → machines；名词转动词','多台机器；单数主语机械加工']],
+ 'washing machines 洗衣机；vending machines 自动售货机；machines metal parts 机械加工金属零件。',
+ 'machines on the factory floor；machines the parts precisely。','重音在后面 /ʃiːn/。machines 在 These machines are new 中是名词，在 The workshop machines the parts 中是加工动词。',
+ ('The machines stop automatically when the doors open.','门一打开，这些机器就会自动停止。'),('The workshop machines small metal parts.','这间车间用机器加工小型金属零件。'),sources=['https://en.wiktionary.org/wiki/machines#English','https://en.wiktionary.org/wiki/machine#English'])
+W('airports','英 /ˈeəpɔːts/；美 /ˈerpɔːrts/','机场〔airport 的复数〕',
+ '飞机起降、旅客和货物进出的交通节点，是 airports；它把港口承接船舶的画面用到了航空。',
+ 'air + port → airport，再加 -s，/t/ 后读 /s/。air 的较早背景是希腊、拉丁空气词，port 的交通港口义经法语接拉丁 portus；现代复合词说明航空用途。',
+ [['air 空气、航空 + port 港口 → airport','航空交通的港口 → 机场'],['airport + -s → airports','多个机场']],
+ 'international airports 国际机场；regional airports 地区机场；airports near the city 城市附近的机场。',
+ 'buses connecting the airports；airports with several terminals。','airport 是整个机场，terminal 是航站楼或相关终点设施；一个 airport 可以有几个 terminals。复合词前面的 air 说明运输方式。',
+ ('The city is served by two airports.','这座城市有两个机场提供航空服务。'),('A direct bus connects the two airports.','有一班直达公共汽车连接这两个机场。'),sources=['https://en.wiktionary.org/wiki/airports#English','https://en.wiktionary.org/wiki/airport#English','https://en.wiktionary.org/wiki/port#English'])
+W('stations','/ˈsteɪʃənz/','车站；台站、岗位〔复数〕；派驻、安置〔第三人称单数〕',
+ '人、车辆或设备固定停留、开展工作的地方，是 stations。交通车站、广播电台、工作台各自抓住停驻在一个位置的画面。',
+ 'station + -s，/n/ 后读 /z/。拉丁 stāre 站立形成 statiō 站立、岗位等名词，经法语与中古英语借入；英语再有把人、物放在指定位置的动词。',
+ [['拉丁 stāre → statiō → 法语、中古英语 → station','站立、驻留 → 岗位、站点'],['station + -s → stations；名词转动词','多个站点；单数主语派驻、安置']],
+ 'railway stations 火车站；radio stations 广播电台；police stations 警察局；stations staff at the doors 把人员安排在门口。',
+ 'stations along the line；stations a guard by the entrance。','车站、电视台等靠前面的词区分。stations 作为动词时，后面接被安排的人或物，再说明位置。',
+ ('The train stops at five stations before the city centre.','这班火车到市中心前会停五站。'),('The museum stations a guide near the main entrance.','博物馆在正门附近安排了一名导览员。'),sources=['https://en.wiktionary.org/wiki/stations#English','https://en.wiktionary.org/wiki/station#English'])
+W('tickets','/ˈtɪkɪts/','票、票证；罚单；事务工单〔复数〕；开罚单〔第三人称单数〕',
+ '一张小凭证能证明你可以乘车、入场，是 tickets；一张记录违规或待办事项的单子，也由纸条、记录的用途扩展而来。',
+ 'ticket + -s，/t/ 后读 /s/。ticket 接法语 etiquet、estiquette 等标签便条词的较短形式，借入路径有苏格兰语等记录；英语再形成给车辆开单等动词。',
+ [['法语标签、便条相关形式 → ticket','贴出的纸条、通知 → 凭证与记录'],['ticket + -s → tickets；名词转动词','多张票、罚单、事务记录；单数主语开单']],
+ 'train tickets 火车票；concert tickets 音乐会门票；parking tickets 停车罚单；support tickets 客服工单。',
+ 'book the tickets online；tickets waiting for a reply。','tickets 的共同点是凭证或事项记录；客服系统里的 ticket 通常记录一个问题及处理过程。具体中文要随乘车、违规、客服语境选。',
+ ('Our tickets include the return journey.','我们的票包含返程。'),('The support team answered all the tickets before noon.','客服团队中午前回复了所有工单。'),sources=['https://en.wiktionary.org/wiki/tickets#English','https://en.wiktionary.org/wiki/ticket#English'])
+W('journeys','英 /ˈdʒɜːniz/；美 /ˈdʒɜːrniz/','旅程；历程〔复数〕；旅行〔第三人称单数，较正式〕',
+ '从一个地方走到另一个地方的一段过程，是 journeys；学习、成长等也能说走过一段历程。它的老名字原来与一天的工作、路程有关。',
+ 'journey + -s，/i/ 后读 /z/，y 前是元音 e，保留 y。经古法语 jornee 等接拉丁 diurnus 一天的，联系 diēs 日；借入后行程不再限定一天。',
+ [['拉丁 diēs、diurnus → 古法语 jornee → journey','一天、一天的工作或路程'],['journey + -s → journeys；意义范围扩大','多段旅程；人生、学习等历程']],
+ 'long journeys 长途旅行；return journeys 返程；learning journeys 学习历程；journeys through the region 在该地区旅行。',
+ 'journeys by train；journeys that take several days。','journeys 用 s 保留 y，与 keys、valleys 一样；city 的 y 前是辅音，复数 cities。journey 强调路上或经历的过程，trip 常说一次出行。',
+ ('Long train journeys give her time to read.','长途火车旅行让她有时间读书。'),('The exhibition follows the journeys of three explorers.','展览追溯了三位探险家的旅程。'),sources=['https://en.wiktionary.org/wiki/journeys#English','https://en.wiktionary.org/wiki/journey#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_yi',ROOTS,WORDS)
+ extend_lessons()

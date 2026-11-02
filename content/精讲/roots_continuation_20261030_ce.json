@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B3669",
+    "meaning": "最下面、基础、最低点；无底与触底",
+    "core": "BOTTOM：向下直到尽头的位置",
+    "image": "bottom → bottomless、bottomed，把无底性质与触底动作分开。",
+    "intro": "物理位置、排名、最低点、臀部按具体场景认。价格例子只解释用语，不凭 bottomed 推断未来涨跌。",
+    "forms": "bottom + -less/-ed；bottom out 达到最低点；at the bottom of。",
+    "branches": [
+      [
+        "底部、无底与触底",
+        "bottom · bottomless · bottomed"
+      ]
+    ],
+    "contrasts": "bottomless 常有夸张；bottomed out 不保证反弹；bottom/base 最下部与支撑基础侧重不同。",
+    "practice": "We found the missing coin at the bottom of the box.\n\n我们在盒底找到了丢失的硬币。",
+    "words": [
+      "bottom",
+      "bottomless",
+      "bottomed"
+    ],
+    "exclude": {
+      "bottom-post": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bottom-age": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3211",
+    "meaning": "商谈集会发展为议会；制度性质与人物",
+    "core": "PARLIAMENT：聚到一起讨论，专门化为议事机构",
+    "image": "parliament → parliamentary → parliamentarian，机构、性质和人物相邻。",
+    "intro": "法语 parler 的说话背景保留为词源，不据此把现代议会简单解释为任何聊天聚会。不同国家制度不混为一谈。",
+    "forms": "法语 parler + -ment；parliament + -ary/-arian，派生重音不同。",
+    "branches": [
+      [
+        "机构、相关性质与人物",
+        "parliament · parliamentary · parliamentarian"
+      ]
+    ],
+    "contrasts": "parliament/government 不等同；parliamentarian 可议员也可程序专家；基础词不按 ia 逐字硬读。",
+    "practice": "The parliamentarian joined the parliamentary debate.\n\n那位议员参加了议会辩论。",
+    "words": [
+      "parliament",
+      "parliamentary",
+      "parliamentarian"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3248",
+    "meaning": "公共车名称的截短；小巴和空中载客",
+    "core": "BUS：面向众人共乘的交通工具",
+    "image": "bus → minibus、airbus；尺寸和运输环境分支相邻。",
+    "intro": "较长 omnibus 接拉丁语给所有人的形式。airbus 普通词与大写专名区分，冷门 bussy 同形和俚语暂不收。",
+    "forms": "omnibus → bus〔截短〕；mini-/air + bus。\n\nomnibus 截短为 bus，现代 buses 可作名词或动词形式。",
+    "branches": [
+      [
+        "公共车、尺寸与空中运输",
+        "bus · minibus · airbus"
+      ],
+      [
+        "bus → buses：公共车名称的截短与复数",
+        "bus · buses"
+      ]
+    ],
+    "contrasts": "by bus/take the bus 冠词搭配不同；minibus 不规定统一座位数；Airbus 专名不指所有飞机。",
+    "practice": "The group took a minibus to the airport.\n\n大家乘小巴去了机场。",
+    "words": [
+      "bus",
+      "minibus",
+      "airbus",
+      "buses"
+    ],
+    "exclude": {
+      "bussy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3175",
+    "meaning": "安好、繁荣；财富及丰富资源",
+    "core": "WEALTH：从福祉、富足说到拥有的有价值资源",
+    "image": "wealth → wealthy；commonwealth 单列公共福祉、共同体的旧义背景，沿用共享精讲。",
+    "intro": "不是现代 well 与 health 随便拼在一起。旧形成分析保留不确定性；财富、收入和丰富经验用实际场景分清。",
+    "forms": "wealth 与 weal 同族，含 -th 旧抽象材料；wealth + -y；common + wealth 的旧福祉义。",
+    "branches": [
+      [
+        "财富、富有及公共福祉",
+        "wealth · wealthy · commonwealth"
+      ]
+    ],
+    "contrasts": "wealth 存量、income 流入；rich 更广，浓咖啡不能一律改 wealthy coffee；commonwealth 不逐字译为共同的钱。",
+    "practice": "The wealthy collector had a wealth of knowledge about old maps.\n\n那位富有的收藏家对古地图有丰富的知识。",
+    "words": [
+      "wealth",
+      "wealthy",
+      "commonwealth"
+    ],
+    "exclude": {}
+  }
+]

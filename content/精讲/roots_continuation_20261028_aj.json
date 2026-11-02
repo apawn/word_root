@@ -1,0 +1,119 @@
+[
+  {
+    "id": "B2732",
+    "meaning": "朋友；互相关爱、信赖和支持",
+    "core": "FRIEND：愿意相处、相助的人",
+    "image": "有人一起分享，也有人在困难时伸手；关系、态度和平台名单则要分开看。",
+    "intro": "friend 接古英语 frēond、frīond，早期形式与爱、亲爱的人有关。读 /frend/，不是现代 free 加 end。",
+    "forms": "friend → friendly → friendship 先看人、态度、关系；befriend 主动结交，friendless 缺友伴，unfriend 是现代取消好友动词，早期同形名词另说。boyfriend、girlfriend 再单列恋爱关系。\n\nfriends 词尾是 /dz/；make friends with 是和……交朋友，be friends with 是已经有这层关系。\n\n古英语 frēondlīċ 的形容词继承，ly 不一概是副词。\n\nfriendship 承古英语 freondscipe 友谊、相互喜欢。现代复数常数不同人之间的一段段友谊，后缀 -ship 表状态、关系。",
+    "branches": [
+      [
+        "人、态度与关系",
+        "friend · friendly · friendship"
+      ],
+      [
+        "建立、缺少和解除",
+        "befriend · friendless · unfriend"
+      ],
+      [
+        "恋爱伴侣称呼",
+        "boyfriend · girlfriend"
+      ],
+      [
+        "friend → friends：朋友、好友；交朋友",
+        "friend · friends"
+      ],
+      [
+        "friendly → friendlier → friendliest：更像朋友般友善",
+        "friendly · friendlier · friendliest"
+      ],
+      [
+        "friend + -ship → friendships",
+        "friendships"
+      ]
+    ],
+    "contrasts": "friendly 友好不等于已是朋友；friendless 没朋友不等于 unfriendly 不友好。boyfriend 通常有恋爱关系，girlfriend 在部分语境另可普通女友伴。",
+    "practice": "A friendly classmate befriended the newcomer, and a lasting friendship grew.\n\n一位友好的同学主动结交新来者，长久的友谊由此发展。",
+    "words": [
+      "friend",
+      "friendly",
+      "friendship",
+      "befriend",
+      "friendless",
+      "unfriend",
+      "boyfriend",
+      "girlfriend",
+      "friends",
+      "friendlier",
+      "friendliest",
+      "friendships"
+    ],
+    "exclude": {
+      "friend-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-friend": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ex-friend": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2583",
+    "meaning": "写下有意义的痕迹；创作、记录",
+    "core": "WRITE：把意思留下来，让它不只存在于当下声音",
+    "image": "刻划、纸笔书写、电脑文字、数据写入，都在让信息留到一个可读取的位置。",
+    "intro": "write 接古英语 wrītan，早有刻划等含义。现代 w 不发音，write → wrote → written；writing 一个t，written 两个t，不能按同一套字母规则随意类推。",
+    "forms": "write、writing、written、writer 先把动作、内容、结果、人放一起；rewrite 重新写，overwrite 覆盖或写过度，underwrite 从签署保证发展为风险、经费支持。\n\nwrote 是过去式，written 是过去分词；词形接较早写、刻痕动词的强变位传统。\n\nwriter 接古英语 wrītere 等人物名词；现代认形去 e 加 -er，复数再加 s。\n\n古英语刻划的动作发展到留下文字、创作。\n\n旧英语 writing 已有名词，现代复数通常数写成的作品、文字。\n\nover 的覆盖、过度与 re 的再次分开；wrote、written 的变化随基础词进入组合。",
+    "branches": [
+      [
+        "动作、作品、结果与人物",
+        "write · writing · written · writer"
+      ],
+      [
+        "再写、覆盖与历史专业用法",
+        "rewrite · overwrite · underwrite"
+      ],
+      [
+        "write、wrote、written 的三式连读",
+        "write · wrote · written"
+      ],
+      [
+        "write → writer → writers：写作、作者与写入工具",
+        "write · writer · writers"
+      ],
+      [
+        "write → writes：写下与写信",
+        "write · writes"
+      ],
+      [
+        "writing → writings：写作活动与一篇篇著作",
+        "write · writing · writings"
+      ],
+      [
+        "write 的两个组合：覆盖与重写，保留不规则变化",
+        "overwrite · overwrites · overwrote · overwritten · overwriting · rewrite · rewrites · rewrote · rewritten · rewriting"
+      ]
+    ],
+    "contrasts": "writing 文风与内容不等于 handwriting 字迹。written 书面的不限定手写；underwrite 专业责任不等于所有赞助、借款。",
+    "practice": "The writer rewrote the opening, then saved the written draft without overwriting the original.\n\n作者重写了开篇，保存新稿时保留了原稿。",
+    "words": [
+      "write",
+      "writing",
+      "written",
+      "writer",
+      "rewrite",
+      "overwrite",
+      "underwrite",
+      "wrote",
+      "writers",
+      "writes",
+      "writings",
+      "overwrites",
+      "overwrote",
+      "overwritten",
+      "overwriting",
+      "rewrites",
+      "rewrote",
+      "rewritten",
+      "rewriting"
+    ],
+    "exclude": {}
+  }
+]

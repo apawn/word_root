@@ -1,0 +1,546 @@
+[
+  {
+    "word": "alternatives",
+    "ipa": "英 /ɔːlˈtɜːnətɪvz/；美 /ɔːlˈtɜːrnətɪvz/",
+    "meaning": "替代办法、其他选项〔复数〕",
+    "sense": "眼前这条路走不通，还能走别的哪几条？这些可替换的选择就是 alternatives。",
+    "split": "alternative + -s，/v/ 后读 /z/。alternative 经法语接拉丁 alternativus，较早 alter 是另一方，alternare 是交替。",
+    "history": [
+      [
+        "拉丁 alter、alternare → alternativus → 法语 → alternative",
+        "另一方、交替 → 可改用的另一种办法"
+      ],
+      [
+        "alternative + -s → alternatives",
+        "多种备选方案"
+      ]
+    ],
+    "explanation": "consider alternatives 考虑其他办法；alternatives to driving 开车之外的替代出行方式。",
+    "usage": "possible alternatives 可能的备选方案；explore the alternatives 探索别的选择。",
+    "contrast": "alternatives to A 说用来替代 A 的选择，介词常用 to。现代可有多个 alternatives，不要求世界上只能剩两个选项。",
+    "examples": [
+      [
+        "We discussed several alternatives to the original plan.",
+        "我们讨论了几种可以替代原计划的办法。"
+      ],
+      [
+        "There are cheaper alternatives.",
+        "还有更便宜的选择。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alternatives#English",
+      "https://en.wiktionary.org/wiki/alternative#English"
+    ]
+  },
+  {
+    "word": "argues",
+    "ipa": "英 /ˈɑːɡjuːz/；美 /ˈɑːrɡjuːz/",
+    "meaning": "争论、争辩；提出理由、主张〔第三人称单数〕",
+    "sense": "把理由摆出来支持自己的说法，就是 argues。有时双方争执，有时是一篇文章平静地论证观点。",
+    "split": "argue + -s，元音后读 /z/。argue 经法语 arguer 接拉丁 arguere 显示、证明、指责，争吵只是现代用法的一部分。",
+    "history": [
+      [
+        "拉丁 arguere → 法语 arguer → argue",
+        "显示、证明、指责 → 说理、争论"
+      ],
+      [
+        "argue + -s → argues",
+        "某人或文章提出理由、争辩"
+      ]
+    ],
+    "explanation": "argues that... 主张并论证……；argues with someone 和人争辩；argues for a change 论证应改变。",
+    "usage": "argues against the proposal 反对并说明理由；argues about details 争论细节。",
+    "contrast": "an article argues that 不表示文章在发脾气，而是它提出了有理由支持的观点。argues 是现在形式，argued 才是过去式。",
+    "examples": [
+      [
+        "The author argues that the design should be simpler.",
+        "作者认为设计应更简单，并作了论证。"
+      ],
+      [
+        "He often argues with his brother about football.",
+        "他常和自己的兄弟争论足球。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/argues#English",
+      "https://en.wiktionary.org/wiki/argue#English"
+    ]
+  },
+  {
+    "word": "blows",
+    "ipa": "英 /bləʊz/；美 /bloʊz/",
+    "meaning": "吹、刮〔第三人称单数〕；打击〔复数〕",
+    "sense": "空气向前冲，是动词 blows；身体或心情挨到一次次打击，则是名词 blows。现代拼写一样，历史并非全由吹气变出来。",
+    "split": "blow + -s，元音后读 /z/。吹气动词承古英语 blawan；打击名词接较晚方言敲击词，后来受 blow 的词形影响。",
+    "history": [
+      [
+        "古英语吹气动词；另一路敲击名词 → 现代 blow",
+        "吹气与打击两条近源分支"
+      ],
+      [
+        "blow + -s → blows",
+        "某物吹动；多次打击、挫折"
+      ]
+    ],
+    "explanation": "the wind blows 风在刮；blows a whistle 吹哨；heavy blows 重击。",
+    "usage": "blows out a candle 吹灭蜡烛；a series of blows 一连串打击。",
+    "contrast": "blows 可是现在三单或名词复数，过去吹是 blew，分词 blown。a blow to confidence 是信心受到打击，不是有风吹着信心。",
+    "examples": [
+      [
+        "The wind blows strongly along the coast.",
+        "沿海的风刮得很猛。"
+      ],
+      [
+        "The old door showed marks from repeated blows.",
+        "旧门上有反复敲击留下的痕迹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blows#English",
+      "https://en.wiktionary.org/wiki/blow#English"
+    ]
+  },
+  {
+    "word": "bugs",
+    "ipa": "/bʌɡz/",
+    "meaning": "小虫；程序故障〔复数〕；烦扰〔第三人称单数〕",
+    "sense": "一只小虫很小，却能让人一直在意；程序里一个小毛病也能卡住事情。bugs 的几个常用意思都容易用这种恼人小问题来理解。",
+    "split": "bug + -s，/ɡ/ 后读 /z/。bug 联系早期 bugge 等精怪、虫名材料，远处关系不全确定；技术故障义在十九世纪已出现。",
+    "history": [
+      [
+        "早期英语 bugge 等 → bug",
+        "虫与精怪等旧义，远源仍有疑问"
+      ],
+      [
+        "技术故障义及现代 + -s → bugs",
+        "多个小虫、故障；某事使人烦"
+      ]
+    ],
+    "explanation": "software bugs 软件故障；fix bugs 修复问题；bugs me 让我烦。",
+    "usage": "bugs in the garden 花园里的小虫；report bugs 报告程序问题。",
+    "contrast": "日常 bugs 可以泛指小虫，不只限于生物学上的某一类。程序故障这个用法早于1947年发现电脑飞蛾的故事。",
+    "examples": [
+      [
+        "We found two bugs in the new version.",
+        "我们在新版本里发现了两个问题。"
+      ],
+      [
+        "That clicking noise really bugs me.",
+        "那个咔嗒声真让我烦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bugs#English",
+      "https://en.wiktionary.org/wiki/bug#English"
+    ]
+  },
+  {
+    "word": "clips",
+    "ipa": "/klɪps/",
+    "meaning": "夹子；短片、片段〔复数〕；夹住、剪切〔第三人称单数〕",
+    "sense": "夹子把两边抱紧，是一支；剪下一小段内容，变成短片，是另一支。clips 的两幅画面要分开记。",
+    "split": "clip + -s，/p/ 后读 /s/。夹住义承古英语 clyppan 拥抱、抱紧；剪切义接北欧 klippa 等词，片段名词从剪下来的部分发展。",
+    "history": [
+      [
+        "古英语抱紧词；北欧剪切词 → 同形 clip",
+        "夹紧与剪开各有来源"
+      ],
+      [
+        "clip + -s → clips",
+        "多个夹子、片段；某人夹住、剪切"
+      ]
+    ],
+    "explanation": "paper clips 回形针；video clips 视频片段；clips the pages together 把纸页夹住。",
+    "usage": "short clips 短片；hair clips 发夹。",
+    "contrast": "clips 的夹具和短片来自不同的动作背景，不要强讲成夹子自己变成电影。clip 也可作动词，主语、宾语会说明正在夹还是剪。",
+    "examples": [
+      [
+        "She used clips to hold the papers together.",
+        "她用夹子把纸页夹在一起。"
+      ],
+      [
+        "The presentation included three short video clips.",
+        "演示中放了三段短视频。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clips#English",
+      "https://en.wiktionary.org/wiki/clip#English"
+    ]
+  },
+  {
+    "word": "drawings",
+    "ipa": "英 /ˈdrɔːɪŋz/；美 /ˈdrɔːɪŋz/，亦 /ˈdrɑːɪŋz/",
+    "meaning": "图画、素描；图样〔复数〕",
+    "sense": "笔在纸上走过，留下一条条线，画出来的一张张图就是 drawings。常强调线条、笔绘的图，不只说正在画的动作。",
+    "split": "draw + -ing → drawing，再加复数 -s，/ŋ/ 后读 /z/。draw 传自古英语 dragan 拉，经中古英语 drawen 延续，画图是同词的后续发展。",
+    "history": [
+      [
+        "古英语 dragan → draw",
+        "拉、拖 → 多支用法，其中包括画图"
+      ],
+      [
+        "draw + -ing → drawing；+ -s → drawings",
+        "绘画的动作、产物 → 多张画或图样"
+      ]
+    ],
+    "explanation": "pencil drawings 铅笔画；technical drawings 技术图样；drawings of animals 动物图画。",
+    "usage": "a collection of drawings 一组画作；detailed drawings 详细图样。",
+    "contrast": "drawing 说绘画活动时可不可数；drawings 数完成的图画、图样。paintings 更突出用颜料画的作品，二者具体边界也看作品与习惯。",
+    "examples": [
+      [
+        "The wall was covered with children’s drawings.",
+        "墙上贴满了孩子们的画。"
+      ],
+      [
+        "The architect showed us the detailed drawings.",
+        "建筑师给我们看了详细图样。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drawings#English",
+      "https://en.wiktionary.org/wiki/drawing#English"
+    ]
+  },
+  {
+    "word": "dried",
+    "ipa": "/draɪd/",
+    "meaning": "干了、弄干了；晒干、脱水的〔过去式、过去分词及形容词〕",
+    "sense": "原来有水分，后来水分不见了，就是 dried。水果变成干果、洗好的东西晾干，都能接这个画面。",
+    "split": "dry 的辅音字母加 y 改为 i，再加完整 -ed；读 /draɪd/。dry 的形容词、动词各承古英语旧形，不是现代才从形容词临时生成所有动词义。",
+    "history": [
+      [
+        "古英语干的、使干动词 → dry",
+        "缺少水分；使水分消失"
+      ],
+      [
+        "dry 改 y 为 i + -ed → dried",
+        "已经干燥；经过干燥处理的"
+      ]
+    ],
+    "explanation": "dried fruit 干果；dried the dishes 擦干餐具；dried in the sun 晒干。",
+    "usage": "dried flowers 干花；dried up 干涸。",
+    "contrast": "dried 的拼写改 y，不代表元音改读 /i/，仍是 /aɪ/。drying 则保留 y 加 ing，这两种规则不要混。",
+    "examples": [
+      [
+        "She dried the dishes with a clean cloth.",
+        "她用干净布巾擦干了餐具。"
+      ],
+      [
+        "The cake contains nuts and dried fruit.",
+        "蛋糕里有坚果和干果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dried#English",
+      "https://en.wiktionary.org/wiki/dry#English"
+    ]
+  },
+  {
+    "word": "experiencing",
+    "ipa": "英 /ɪkˈspɪəriənsɪŋ/；美 /ɪkˈspɪriənsɪŋ/",
+    "meaning": "经历、体验；遇到〔现在分词、动名词〕",
+    "sense": "不是隔着书本听人说，而是事情正在你身上发生，你正亲身走过它，就是 experiencing。",
+    "split": "experience 去结尾不发音 e，加完整 -ing。experience 经法语接拉丁 experientia、experiri 尝试、经历，现代既有名词也有经历动词。",
+    "history": [
+      [
+        "拉丁 experiri、experientia → 法语 → experience",
+        "实际尝试、经历 → 经验、经历；亲身经历"
+      ],
+      [
+        "experience 去 e + -ing → experiencing",
+        "正在经历一种感觉、变化或困难"
+      ]
+    ],
+    "explanation": "experiencing difficulties 遇到困难；experiencing a change 正经历变化。",
+    "usage": "experiencing something new 体验新事物；experiencing delays 遇到延误。",
+    "contrast": "experiencing 是动词过程，experienced 可以是有经验的形容词。I am experiencing a problem 说正遇到问题，不是说自己是这方面的老手。",
+    "examples": [
+      [
+        "We are experiencing a delay.",
+        "我们正遇到延误。"
+      ],
+      [
+        "The children enjoyed experiencing a different way of life.",
+        "孩子们喜欢体验另一种生活方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/experiencing#English",
+      "https://en.wiktionary.org/wiki/experience#English"
+    ]
+  },
+  {
+    "word": "extending",
+    "ipa": "/ɪkˈstendɪŋ/",
+    "meaning": "延伸、延长；扩大、给予〔现在分词、动名词〕",
+    "sense": "把手伸出去，把路线拉得更远，把期限往后推，都有 extending 的向外伸展画面。",
+    "split": "extend + -ing，直接相加。extend 经法语 estendre、extendre 等接拉丁 extendere，ex- 向外与 tendere 伸展组合。",
+    "history": [
+      [
+        "拉丁 ex- + tendere → extendere → 法语 → extend",
+        "向外伸展 → 延长、扩大"
+      ],
+      [
+        "extend + -ing → extending",
+        "正在延长、伸展；扩展或给予的动作"
+      ]
+    ],
+    "explanation": "extending a deadline 延长期限；extending the route 延长路线；extending a hand 伸出手。",
+    "usage": "extending an invitation 发出邀请；extending into the garden 延伸进花园。",
+    "contrast": "extending 可以是自己延伸，也可带宾语说把某物延长。extend an invitation 把邀请递给别人，是给予的固定用法。",
+    "examples": [
+      [
+        "The company is extending the bus route.",
+        "公司正在延长这条公交线路。"
+      ],
+      [
+        "Thank you for extending the invitation.",
+        "谢谢你发来邀请。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/extending#English",
+      "https://en.wiktionary.org/wiki/extend#English"
+    ]
+  },
+  {
+    "word": "induced",
+    "ipa": "英 /ɪnˈdjuːst/；美 /ɪnˈduːst/",
+    "meaning": "引起、促使了；被诱发的〔过去式、过去分词〕",
+    "sense": "有一个因素把事情带进某个结果，或让人开始做某事，就是 induced。先看是什么把什么带出来。",
+    "split": "induce 去 e 加完整 -ed。原词结尾 /s/ 后读 /t/，合起来 /st/；induce 接拉丁 inducere，in- 进入与 ducere 带领形成带入、引起。",
+    "history": [
+      [
+        "拉丁 in- + ducere → inducere → induce",
+        "带入 → 引起、促使"
+      ],
+      [
+        "induce 去 e + -ed → induced",
+        "某因素已经引起结果；被引起的"
+      ]
+    ],
+    "explanation": "induced a change 引起变化；induced someone to do something 促使某人做某事。",
+    "usage": "induced by a factor 由某因素引起；an induced current 感应电流。",
+    "contrast": "induced 通常突出有原因、条件促成结果，未必是强迫。induced someone to do 的人是被促使者，by 后面常是促成因素。",
+    "examples": [
+      [
+        "The announcement induced a change in the schedule.",
+        "公告促使日程发生了变化。"
+      ],
+      [
+        "The demonstration showed how movement induced a current.",
+        "演示展示了运动如何产生感应电流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/induced#English",
+      "https://en.wiktionary.org/wiki/induce#English"
+    ]
+  },
+  {
+    "word": "joins",
+    "ipa": "/dʒɔɪnz/",
+    "meaning": "连接、接合；加入、参与〔第三人称单数〕",
+    "sense": "原来分开的两部分接上，或原来在外面的人进入群体，就是 joins。实体与人员关系都能接。",
+    "split": "join + -s，/n/ 后读 /z/。join 经古法语 joindre 接拉丁 iungere 接合，与 junct- 的相应历史词干同族。",
+    "history": [
+      [
+        "拉丁 iungere → 法语 joindre → join",
+        "接在一起 → 连接、加入"
+      ],
+      [
+        "join + -s → joins",
+        "某物接上另一物；某人加入群体、活动"
+      ]
+    ],
+    "explanation": "joins the team 加入团队；joins the pieces 把部件接起来；joins in the game 参与游戏。",
+    "usage": "joins us for lunch 和我们一起吃午饭；joins two roads 连接两条路。",
+    "contrast": "joins the group 通常直接接团体，不用 in；joins in an activity 强调参与活动。join someone for lunch 的人不是团体，也能直接作宾语。",
+    "examples": [
+      [
+        "The bridge joins the two sides of the valley.",
+        "桥把山谷两边连接起来。"
+      ],
+      [
+        "She joins us for lunch every Friday.",
+        "她每周五和我们一起吃午饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joins#English",
+      "https://en.wiktionary.org/wiki/join#English"
+    ]
+  },
+  {
+    "word": "origins",
+    "ipa": "英 /ˈɒrɪdʒɪnz/；美 /ˈɔːrɪdʒɪnz/",
+    "meaning": "起源、来源；出身〔复数〕",
+    "sense": "沿着现在的事情往回找，找到最初从哪里冒出来，就是 origins。一个传统可能有几条来源，也可用它谈人的背景。",
+    "split": "origin + -s，/n/ 后读 /z/。origin 经法语 origine 或直接接拉丁 origo、origin-，较早 oriri 表示升起、出现。",
+    "history": [
+      [
+        "拉丁 oriri → origo、origin- → 法语或英语 origin",
+        "出现 → 出现之处、起点"
+      ],
+      [
+        "origin + -s → origins",
+        "多个来源；起源、出身的复数说法"
+      ]
+    ],
+    "explanation": "the origins of a word 一个词的来源；humble origins 普通、贫寒的出身。",
+    "usage": "trace the origins 追溯起源；different origins 不同来源。",
+    "contrast": "origins 可用复数谈一个复杂事物的多方面起源，不一定表示有几个独立对象。original 最初的、原创的则是另一个相关词形。",
+    "examples": [
+      [
+        "The book explores the origins of the festival.",
+        "这本书探讨节日的起源。"
+      ],
+      [
+        "The two words have different origins.",
+        "这两个词来源不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/origins#English",
+      "https://en.wiktionary.org/wiki/origin#English"
+    ]
+  },
+  {
+    "word": "physicians",
+    "ipa": "/fɪˈzɪʃənz/",
+    "meaning": "医生；内科医师〔复数〕",
+    "sense": "在医术中研究、诊治身体问题的人，是 physicians。现代常指医生；和 surgeons 对照时，又常专指内科医师。",
+    "split": "physician + -s，/n/ 后读 /z/。职业名经古法语 fisicien，接 fisique 医术、自然学，再往前是拉丁 physica、希腊自然词族。",
+    "history": [
+      [
+        "希腊自然词族 → 拉丁 physica → 古法语 fisique、fisicien",
+        "自然学、医术 → 行医的人"
+      ],
+      [
+        "physician → physicians",
+        "多位医生；对照外科时的内科医师"
+      ]
+    ],
+    "explanation": "local physicians 当地医生；family physicians 家庭医生；physicians and surgeons 医师与外科医师。",
+    "usage": "a team of physicians 一组医生；experienced physicians 有经验的医生。",
+    "contrast": "physicians 是医生，physicists 是物理学家。两者有较早自然知识词族的联系，但现代职业含义不同。",
+    "examples": [
+      [
+        "Several physicians attended the conference.",
+        "几位医生参加了会议。"
+      ],
+      [
+        "The book contains accounts written by physicians.",
+        "书中收录了医生撰写的记述。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/physicians#English",
+      "https://en.wiktionary.org/wiki/physician#English"
+    ]
+  },
+  {
+    "word": "planted",
+    "ipa": "英 /ˈplɑːntɪd/；美 /ˈplæntɪd/",
+    "meaning": "种植、安放了；稳稳放着的〔过去式、过去分词〕",
+    "sense": "把根安进土里，是 planted；脚稳稳落地、把某个想法放进别人脑中，也能借这个安进去的画面。",
+    "split": "plant + -ed，/t/ 后读 /ɪd/。拉丁 planta 幼芽、plantare 栽种很早借入古英语，后来又受法语相应形式影响。",
+    "history": [
+      [
+        "拉丁 planta、plantare → 古英语及法语影响 → plant",
+        "幼芽、栽种 → 安置、设立等用法"
+      ],
+      [
+        "plant + -ed → planted",
+        "已栽种、安放；稳稳放下的"
+      ]
+    ],
+    "explanation": "planted trees 种了树；newly planted 刚种下的；feet planted firmly 双脚稳稳落地。",
+    "usage": "planted an idea 种下一个想法；planted in the garden 种在花园里。",
+    "contrast": "planted trees 是种树，planted an idea 是种下想法，planted her feet 是站稳双脚。都能从把东西安到一处的画面理解，具体宾语决定字面或比喻。",
+    "examples": [
+      [
+        "We planted two trees beside the gate.",
+        "我们在门旁种了两棵树。"
+      ],
+      [
+        "She stood with her feet firmly planted on the floor.",
+        "她双脚稳稳踏地站着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/planted#English",
+      "https://en.wiktionary.org/wiki/plant#English"
+    ]
+  },
+  {
+    "word": "renewed",
+    "ipa": "英 /rɪˈnjuːd/；美 /rɪˈnuːd/",
+    "meaning": "更新、续期、恢复了；重新燃起的〔过去式、过去分词〕",
+    "sense": "原来的有效期快过了，让它继续有效；原来的热情淡了，让它重新鲜活，都可以说 renewed。",
+    "split": "renew + -ed，元音后读 /d/。renew 在中古英语里由外来 re- 再次与本族 newen 使更新组合，也可能类推拉丁 renovare。",
+    "history": [
+      [
+        "re- + 中古英语 newen → renew",
+        "使重新变新、有效或有活力"
+      ],
+      [
+        "renew + -ed → renewed",
+        "已经续期、恢复；重新出现的"
+      ]
+    ],
+    "explanation": "renewed a membership 给会员资格续期；renewed interest 重新产生的兴趣。",
+    "usage": "renewed energy 恢复的精力；renewed the agreement 续签协议。",
+    "contrast": "renewed 是把原有关系、状态继续或恢复，不一定整个换一个全新的东西。renewed interest 里的分词作形容词，说兴趣又回来了。",
+    "examples": [
+      [
+        "She renewed her library membership.",
+        "她给图书馆会员资格续了期。"
+      ],
+      [
+        "The visit sparked renewed interest in local history.",
+        "这次参观重新激起了人们对当地历史的兴趣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/renewed#English",
+      "https://en.wiktionary.org/wiki/renew#English"
+    ]
+  },
+  {
+    "word": "sins",
+    "ipa": "/sɪnz/",
+    "meaning": "罪、过错〔复数〕；犯宗教、道德上的罪〔第三人称单数〕",
+    "sense": "在某套宗教、道德标准里，被认为做错的一件件事，是 sins。日常也会半开玩笑地把小过失叫 sin。",
+    "split": "sin + -s，/n/ 后读 /z/。sin 传自古英语 synn，经中古英语 sinne 延续；名词、动词都在英语里有历史。",
+    "history": [
+      [
+        "古英语 synn → 中古英语 sinne → sin",
+        "宗教、道德框架中的罪过"
+      ],
+      [
+        "sin + -s → sins",
+        "多项罪过；某人犯了相应的罪"
+      ]
+    ],
+    "explanation": "confess sins 承认罪过；past sins 过去的过错；forgive sins 赦免罪过。",
+    "usage": "the sins of a character 一个角色的罪过；sins against a moral rule 违背道德规范。",
+    "contrast": "sins 可能处于严肃宗教语境，也可能是文学、口语夸张。学习时先认清叙述者采用的标准，不把这个词等同于所有法律犯罪。",
+    "examples": [
+      [
+        "The novel explores the character’s past sins.",
+        "小说探讨了这个人物过去的罪过。"
+      ],
+      [
+        "The poem speaks of forgiveness for human sins.",
+        "诗中谈到对人类罪过的宽恕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sins#English",
+      "https://en.wiktionary.org/wiki/sin#English"
+    ]
+  }
+]

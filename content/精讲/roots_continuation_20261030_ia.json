@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B3914",
+    "meaning": "铺放者与一层厚度、层次的不同角色",
+    "core": "LAYER：一层层叠，或把东西铺下去的角色",
+    "image": "layer → layering；bricklayer 砌砖的人；mono-/bi-/multi-layer 看层数。",
+    "intro": "铺放者是主动角色，铺成的一层是结果形状。园艺压条又有自己的传统用法，不能只套蛋糕叠层的图景。",
+    "forms": "lay + -er → 铺放者；厚度义的早期来源有其他解释；layer + -ing；brick + layer；mono-/bi-/multi- + layer。\n\n厚度层义与铺放、旧 lair 等材料有不同分析；现代人物 er 与层名词不能全压成同一新构形。",
+    "branches": [
+      [
+        "层次与分层动作",
+        "layer · layering"
+      ],
+      [
+        "铺放角色",
+        "bricklayer"
+      ],
+      [
+        "数量限定的层",
+        "monolayer · bilayer · multilayer"
+      ],
+      [
+        "layer → layers：一层层结构与逐层铺放",
+        "layer · layers"
+      ]
+    ],
+    "contrasts": "bricklayer 是人；monolayer 可有许多分子但只一层厚；layering 压条不等于剪下扦插；厚度义词源不强定唯一解释。",
+    "practice": "The bricklayer built one layer at a time, while the diagram showed a molecular bilayer.\n\n砖匠一层层砌筑，旁边图中展示的则是分子双层。",
+    "words": [
+      "layer",
+      "layering",
+      "bricklayer",
+      "monolayer",
+      "bilayer",
+      "multilayer",
+      "layers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2734",
+    "meaning": "支撑植物的土壤、土地，以及弄脏动词",
+    "core": "SOIL：在花盆里是生长介质，在衣服上可能成污迹",
+    "image": "soil → topsoil 表土、subsoil 底土；soil 动词则是弄脏、玷污。",
+    "intro": "同样的物质在不同位置有不同评价：花盆需要土，干净衬衫不需要。这个画面有助记忆，历史上仍保留多路汇合。",
+    "forms": "法语与旧英语相关形式 → soil；top/sub- + soil；soil → soiled/soiling。",
+    "branches": [
+      [
+        "土壤及层位",
+        "soil · topsoil · subsoil"
+      ]
+    ],
+    "contrasts": "soil 不只脏物；on foreign soil 可说在国外；soiled clothes 不必真沾了园土；名词动词历史多路。",
+    "practice": "The report compares the topsoil with the subsoil beneath it.\n\n报告比较表土与其下的底土。",
+    "words": [
+      "soil",
+      "topsoil",
+      "subsoil"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4337",
+    "meaning": "记者及其学术式派生、口语缩称",
+    "core": "JOURNALIST：职业名可长可短，语气不同",
+    "image": "journalist → journalistic；journo 是口语缩称；photojournalist 用摄影报道。",
+    "intro": "缩短名称改变正式程度，不自动改变职责。journalistic 说新闻写作性质，photo- 则指定摄影的表达方式。",
+    "forms": "journal + -ist → journalist；journalist 与 -ic → journalistic；journ- + -o → journo；photo- + journalist。",
+    "branches": [
+      [
+        "记者、相关性质与口语称呼",
+        "journalist · journalistic · journo"
+      ],
+      [
+        "摄影报道",
+        "photojournalist"
+      ]
+    ],
+    "contrasts": "journo 不等于不专业；journalistic 是性质，journalist 是人；photojournalist 的工作不只随便拍照。",
+    "practice": "The local journo interviewed a photojournalist about journalistic standards.\n\n当地记者采访了一位摄影记者，谈新闻专业标准。",
+    "words": [
+      "journalist",
+      "journalistic",
+      "journo",
+      "photojournalist"
+    ],
+    "exclude": {
+      "e-journalist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3171",
+    "meaning": "缘故、目的和利益；与日本酒名分源",
+    "core": "SAKE：for ... sake 看为了什么，酒单另看",
+    "image": "sake → namesake 因其得名的同名者，keepsake 留作念想的物品；清酒 sake 则另源。",
+    "intro": "先按读音和场景分酒名，再看缘故、记念相关组合；不能把所有同形词都往喝酒上拉。",
+    "forms": "sacu → sake /seɪk/；name/keep + sake；另线日语酒名 → sake 两音节。",
+    "branches": [
+      [
+        "缘故、同名和留念",
+        "sake · namesake · keepsake"
+      ]
+    ],
+    "contrasts": "sake 常依赖固定介词结构；酒名另源、读音不同；keepsake 不是为保存所有东西而造的任意说法。",
+    "practice": "She kept a photograph of her namesake as a keepsake.\n\n她留着那位与她同名者的照片作纪念。",
+    "words": [
+      "sake",
+      "namesake",
+      "keepsake"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3222",
+    "meaning": "火腿、膝后与表演俚语；把汉堡名称另分",
+    "core": "HAM：火腿不是 hamburger 的原始前半",
+    "image": "ham → hammy；hamstring 留旧部位义；Hamburg → hamburger → burger 是另一名称和重新切分路线。",
+    "intro": "同一页放在一起，正好练习识破拼写诱惑。演员俚语保留不确定来源，汉堡名称不靠火腿解释。",
+    "forms": "hamm → ham；ham + -y/string。另线 Hamburg + -er → 食物称呼 hamburger → burger。\n\nburger 是 hamburger 的截短，hamburger 远接德国 Hamburg 地名。现代 burger 再参与新组合，因此 chicken burgers、vegetarian burgers 不必含牛肉。",
+    "branches": [
+      [
+        "部位、肉食及表演性质",
+        "ham · hamstring · hammy"
+      ],
+      [
+        "形似却另有来路的食物名",
+        "hamburger · burger"
+      ],
+      [
+        "hamburger 缩短 → burgers",
+        "burgers"
+      ]
+    ],
+    "contrasts": "hamstring 不是火腿绑绳；hammy 不一定好笑；hamburger 不要求火腿；burger 是后来重新切出的独立部分。",
+    "practice": "The hammy actor ordered a hamburger, not a ham sandwich.\n\n那位表演浮夸的演员点了汉堡包，没有点火腿三明治。",
+    "words": [
+      "ham",
+      "hamstring",
+      "hammy",
+      "hamburger",
+      "burger",
+      "burgers"
+    ],
+    "exclude": {
+      "butter-ham": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ham-fisted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

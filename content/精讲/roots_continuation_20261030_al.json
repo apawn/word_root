@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B3112",
+    "meaning": "石块、石材与硬冷形象；按材料、用途和位置命名",
+    "core": "STONE：石头；前部告诉材料、用途或所在位置",
+    "image": "stone → stony；岩石、宝石、铺路和墓碑分组，磨盘与顶石讲比喻，最后分 stoned/stoner 的固定用法。",
+    "intro": "本族石词衍生丰富。冷门矿石名暂略；rhinestone 的前部是莱茵河名，stoneware 是陶器不是石凿器皿。",
+    "forms": "stone + -y/-ed/-er/ware/mason；lime/sand/gem/Rhine/cobble/grave/head/mill/cap + stone。\n\n本族石词，不同物品中的硬核、材料和动作用途分开。\n\n与 stone 比较材料，不是 stone 的派生。marble 经法语 marbre 接拉丁 marmor、希腊 marmaros 等，较远闪亮分析未定。弹珠早与石料制作有关，现代可用玻璃。\n\n和 stone 作装饰材料比较，琥珀是化石树脂，不是石材一词的派生。amber 早接阿拉伯 anbar 龙涎香，经法语等后又用于琥珀，具体转用桥有不同分析。",
+    "branches": [
+      [
+        "基本物与性质",
+        "stone · stony"
+      ],
+      [
+        "材料与装饰",
+        "limestone · sandstone · brownstone · gemstone · rhinestone · birthstone"
+      ],
+      [
+        "路面、墓碑与工艺",
+        "cobblestone · gravestone · headstone · tombstone · stoneware · stonemason"
+      ],
+      [
+        "位置、功能和比喻",
+        "millstone · milestone · capstone · keystone · cornerstone · touchstone · stonewall"
+      ],
+      [
+        "另须按场景辨认",
+        "stoned · stoner"
+      ],
+      [
+        "stone → stones：石块、果核与重量",
+        "stone · stones"
+      ],
+      [
+        "marble：石材到弹珠",
+        "marble · marbles"
+      ],
+      [
+        "amber：另源的琥珀与琥珀色",
+        "amber"
+      ]
+    ],
+    "contrasts": "millstone 负担与 milestone 成就不同；stoneware 陶器；stoned 看人或水果；capstone 完成、cornerstone 基础。",
+    "practice": "The stonemason added the capstone after repairing the old stone wall.\n\n石匠修好旧石墙后加上了顶石。",
+    "words": [
+      "stone",
+      "stony",
+      "limestone",
+      "sandstone",
+      "brownstone",
+      "gemstone",
+      "rhinestone",
+      "birthstone",
+      "cobblestone",
+      "gravestone",
+      "headstone",
+      "tombstone",
+      "stoneware",
+      "stonemason",
+      "millstone",
+      "milestone",
+      "capstone",
+      "keystone",
+      "cornerstone",
+      "touchstone",
+      "stonewall",
+      "stoned",
+      "stoner",
+      "stones",
+      "marble",
+      "marbles",
+      "amber"
+    ],
+    "exclude": {
+      "stone-still": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dry-stone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stone-paste": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brimstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hearthstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moonstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stonework": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grindstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flintstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mudstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "soapstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whetstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ironstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flagstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "freestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "siltstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bloodstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sunstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fieldstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

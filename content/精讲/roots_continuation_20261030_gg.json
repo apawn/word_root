@@ -1,0 +1,167 @@
+[
+  {
+    "id": "B4575",
+    "meaning": "朝向某处；具有某种头部、头脑特征",
+    "core": "HEADED：正在往哪去，或者长着怎样的头",
+    "image": "be headed for 去向；redheaded 红发；hardheaded 可以务实，也可以固执。",
+    "intro": "headed 有两种常见结构。We are headed home 说方向，a redheaded child 说外貌；hardheaded 则把头脑的硬引到人的判断方式。",
+    "forms": "head 动词 + -ed → headed 朝向；head 名词 + -ed → headed 具有……头部特征；red/hard + headed。",
+    "branches": [
+      [
+        "去向和基本结构",
+        "headed"
+      ],
+      [
+        "外貌与头脑性格",
+        "redheaded · hardheaded"
+      ]
+    ],
+    "contrasts": "headed home 是往家走，不必表示已经到家；hardheaded 务实、固执两种评价要看上下文。",
+    "practice": "The redheaded engineer was headed home after a long meeting.\n\n长时间开会后，那位红发工程师正往家走。",
+    "words": [
+      "headed",
+      "redheaded",
+      "hardheaded"
+    ],
+    "exclude": {
+      "two-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "three-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "level-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flat-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "empty-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hammer-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dull-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dim-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mullet-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "muddle-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wombat-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headedness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2700",
+    "meaning": "包围的气体，再到包围人的气氛",
+    "core": "ATMOSPHERE：一层包围着的空气，也是一种笼罩感",
+    "image": "atmosphere 大气、气氛 → atmospheric 大气的、营造气氛的 → atmospherics 干扰或氛围细节。",
+    "intro": "地球被大气包着，人走进房间也像被某种情绪包着。物理的包围层和心理的笼罩感，让两类常用义连起来。",
+    "forms": "atmos 蒸汽 + sphaira 球 → atmosphaera → atmosphere；-ic → atmospheric；atmospherics 名词。",
+    "branches": [
+      [
+        "基本名词与形容词",
+        "atmosphere · atmospheric"
+      ],
+      [
+        "大气干扰和氛围效果",
+        "atmospherics"
+      ]
+    ],
+    "contrasts": "atmosphere 的日常气氛义不必谈天气；atmospherics 的 s 不是复数大气层的机械读法。",
+    "practice": "The lighting creates an atmospheric scene, but atmospherics alone cannot carry the story.\n\n灯光营造了很有氛围的场景，但只有氛围效果撑不起故事。",
+    "words": [
+      "atmosphere",
+      "atmospheric",
+      "atmospherics"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3765",
+    "meaning": "范围、数量或程度极大",
+    "core": "VAST：视野拉开，还是看不到头",
+    "image": "vast 很大 → vastly 大大地 → vastness 辽阔、巨大程度。",
+    "intro": "先用广阔平原抓住画面，再扩展到数量、差别、任务规模。历史有空旷义，今天却不需要空无一物。",
+    "forms": "vastus → vaste → vast；vast + -ly → vastly；vast + -ness → vastness。\n\ndevastate 的英语近源可能有 devastation 逆构，远接拉丁 devastare 使荒废、vastus 荒空。现代去 e 加完整 -ed，/t/ 后读 /ɪd/，破坏与伤心欲绝按对象区分。",
+    "branches": [
+      [
+        "形容大小",
+        "vast"
+      ],
+      [
+        "加强程度",
+        "vastly"
+      ],
+      [
+        "把性质拿出来谈",
+        "vastness"
+      ],
+      [
+        "de- 加强 + vast- 荒废 → devastate → devastated",
+        "devastate · devastated"
+      ]
+    ],
+    "contrasts": "vastness/emptiness 广大与空；vastly better 好得多；vast majority 绝大多数。",
+    "practice": "A vast landscape can make you feel the vastness of the world.\n\n辽阔的景色会让人感到世界的广大。",
+    "words": [
+      "vast",
+      "vastly",
+      "vastness",
+      "devastate",
+      "devastated"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3302",
+    "meaning": "洗、冲流；洗涤液、涂层及比喻",
+    "core": "WASH：水流过表面，带走或铺上一层",
+    "image": "wash → washer、washable；awash 被水漫过 → 充斥；hogwash 猪食泔水 → 胡说；backwash 回流 → 余波。",
+    "intro": "wash 不只做清洁动作。漱口液、薄涂层、浪流都是相关旧扩展；脑洗、粉饰则要结合各自组合的历史。",
+    "forms": "wascan → wash；wash + -er/-able；a- + wash；hog/back/white/brain/mouth + wash；wash + room/cloth/board。\n\n古英语 wascan 的本族延续，过去尾 /ʃ/ 后读 /t/。\n\nunwashed 为 un 加 washed；dishwasher 的人物义与后来机器义分别看。\n\n复数 cloths 不写 clothes；地区表达可以不同。",
+    "branches": [
+      [
+        "基本动作和适用性",
+        "wash · washer · washable"
+      ],
+      [
+        "水流与比喻",
+        "awash · backwash · hogwash"
+      ],
+      [
+        "用品和房间",
+        "washroom · mouthwash · washcloth · washboard"
+      ],
+      [
+        "覆盖和观念改变",
+        "whitewash · brainwash"
+      ],
+      [
+        "wash → washed：洗过、冲刷过的",
+        "wash · washed"
+      ],
+      [
+        "wash 的否定状态与洗碗者、机器名",
+        "wash · unwashed · dishwasher · dishwashers"
+      ],
+      [
+        "washcloth → washcloths：洗脸、擦洗身体的小布巾",
+        "wash · washcloth · washcloths"
+      ]
+    ],
+    "contrasts": "washer 垫圈义来路不明，别硬套洗涤机器；washable/waterproof 可洗与防水；hogwash 不是洗猪。",
+    "practice": "The washable cover came clean, but the broken washer still needed replacing.\n\n可洗的罩套洗干净了，但坏掉的垫圈仍得更换。",
+    "words": [
+      "wash",
+      "washer",
+      "washable",
+      "awash",
+      "backwash",
+      "hogwash",
+      "washroom",
+      "mouthwash",
+      "washcloth",
+      "washboard",
+      "whitewash",
+      "brainwash",
+      "washed",
+      "unwashed",
+      "dishwasher",
+      "dishwashers",
+      "washcloths"
+    ],
+    "exclude": {
+      "washy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

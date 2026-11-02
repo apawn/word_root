@@ -1,0 +1,78 @@
+[
+  {
+    "id": "B3392",
+    "meaning": "动物角、角质材料、号角与按形状用途命名",
+    "core": "HORN：从角到材料，再到吹响的器具",
+    "image": "horn → horned / horny；longhorn、pronghorn、bighorn 看动物；bullhorn、foghorn 看信号；shoehorn 看工具。",
+    "intro": "同一基础词有材料、形状和器具三条直观线。角质工具不必永远角制，动物名也不能只凭一个字面特征重新分类。",
+    "forms": "horn 旧词；接 -ed、-y，或前接 long/prong/big/bull/fog/shoe。\n\nhorn 承古英语动物角与角制吹奏器名，后来保留到金属乐器、汽车喇叭。现代复数 -s 在 /n/ 后读 /z/，不是各义都独立借词。",
+    "branches": [
+      [
+        "基础词与性质",
+        "horn · horned · horny"
+      ],
+      [
+        "动物按角形命名",
+        "longhorn · pronghorn · bighorn"
+      ],
+      [
+        "号与工具的扩展",
+        "bullhorn · foghorn · shoehorn"
+      ],
+      [
+        "horn → horns：动物角、号与喇叭",
+        "horns"
+      ]
+    ],
+    "contrasts": "horned 有角、horny 常为性兴奋口语；shoehorn 不总角制；pronghorn 角鞘会更新。",
+    "practice": "The museum displays a horn, a foghorn and an old shoehorn.\n\n博物馆展出了兽角、雾号和一把旧鞋拔。",
+    "words": [
+      "horn",
+      "horned",
+      "horny",
+      "longhorn",
+      "pronghorn",
+      "bighorn",
+      "bullhorn",
+      "foghorn",
+      "shoehorn",
+      "horns"
+    ],
+    "exclude": {
+      "horn-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hornblower": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elkhorn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4412",
+    "meaning": "用品名词与旧警觉形容词的不同构词线",
+    "core": "WARE：卖货看 wares，提防看旧形容词",
+    "image": "货品 ware → warehouse / hardware / software；警觉 ware → wary / beware。",
+    "intro": "两条线在远处可能有关，现代构词仍要认清用的是哪个词性、词义。wary 不是很多货，software 也不是提防软件的警告。",
+    "forms": "waru → 名词 ware；wær → 形容词 ware，再接 -y；be ware 短语 → beware。",
+    "branches": [
+      [
+        "货品、仓储与现代产品对照",
+        "ware · warehouse · hardware · software"
+      ],
+      [
+        "警惕与警示",
+        "wary · beware"
+      ]
+    ],
+    "contrasts": "ware 与 wear 同音；wary 与 weary 元音、意思不同；beware 主要来自 be ware 短语，不随手从 be aware 删字母造词。",
+    "practice": "She was wary of the seller’s claims about his wares.\n\n她对卖家关于那些货品的说辞保持警惕。",
+    "words": [
+      "ware",
+      "warehouse",
+      "hardware",
+      "software",
+      "wary",
+      "beware"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "tastes",
+    "ipa": "/teɪsts/",
+    "meaning": "味道、个人喜好〔复数〕；尝、尝起来〔第三人称单数〕",
+    "sense": "食物给舌头什么感觉，是 tastes 的味道义；一个人偏爱什么，是 tastes 的喜好义。动词还可以说某种食物尝起来怎样。",
+    "split": "taste 经法语 taster、tast 的接触、尝试材料传入；更远词源细节有不同分析。现代直接在 taste 后加 -s，保留结尾 e，/t/ 后读 /s/，结尾 /sts/。",
+    "history": [
+      [
+        "法语 taster、tast → 英语 taste",
+        "触碰、试尝 → 味道、感知与喜好"
+      ],
+      [
+        "taste + -s → tastes",
+        "多种味道或偏好；某人尝、某物尝起来"
+      ]
+    ],
+    "explanation": "different tastes 不同口味、喜好；tastes sweet 尝起来甜；tastes the soup 尝汤。",
+    "usage": "musical tastes 音乐喜好；tastes like lemon 尝起来像柠檬。",
+    "contrast": "tastes good 里主语是食物，在说味道好；tastes the soup 里主语是人，在说主动尝。好看好吃的主观判断也不等于人人口味一致。",
+    "examples": [
+      [
+        "The soup tastes fresh and light.",
+        "这汤尝起来清爽。"
+      ],
+      [
+        "We have different tastes in music.",
+        "我们对音乐的喜好不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tastes#English",
+      "https://en.wiktionary.org/wiki/taste#English"
+    ]
+  },
+  {
+    "word": "throws",
+    "ipa": "英 /θrəʊz/；美 /θroʊz/",
+    "meaning": "扔、投；使突然陷入〔第三人称单数〕；投掷〔复数〕",
+    "sense": "手一送，球离开身体飞出去，是 throws；把人一下推入混乱或惊讶的状态，也借这个突发动作来说。",
+    "split": "throw 接古英语 thrawan 转、扭，后来投掷义成为中心，可能经过转动后抛出的动作联系。现代直接加 -s，元音后读 /z/；过去式为 threw。",
+    "history": [
+      [
+        "古英语转动、扭转材料 → throw",
+        "转、扭 → 抛掷；具体历史动作联系有推测成分"
+      ],
+      [
+        "throw + -s → throws",
+        "某人扔、使陷入；几次投掷"
+      ]
+    ],
+    "explanation": "throws the ball 扔球；throws a party 办聚会；throws the plan into confusion 使计划陷入混乱。",
+    "usage": "three throws 三次投掷；throws light on… 帮助说明、阐明……。",
+    "contrast": "throws a party 是固定的办聚会，不是扔掉聚会。投掷是核心画面，遇到常见搭配还要把整个表达一起学。",
+    "examples": [
+      [
+        "She throws the ball to her brother.",
+        "她把球扔给弟弟。"
+      ],
+      [
+        "He has three throws in each round.",
+        "他每轮有三次投掷机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/throws#English",
+      "https://en.wiktionary.org/wiki/throw#English"
+    ]
+  },
+  {
+    "word": "transformed",
+    "ipa": "英 /trænsˈfɔːmd/；美 /trænsˈfɔːrmd/",
+    "meaning": "显著改变了、转变了；改造成的〔过去式、过去分词〕",
+    "sense": "旧仓库变成图书馆，房间换了布局后面貌大变，是 transformed。它常强调形态、功能或性质有明显变化。",
+    "split": "transform 经法语接拉丁 transformare：trans- 跨越、转变 + formare 塑形。现代直接加完整 -ed，/m/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 forma、formare → transformare → 法语、英语 transform",
+        "形状、塑形 → 转成另一形态或状态"
+      ],
+      [
+        "transform + -ed → transformed",
+        "已经改造、发生显著变化"
+      ]
+    ],
+    "explanation": "transformed into a library 被改造成图书馆；transformed the room 改变了房间面貌；completely transformed 完全变样。",
+    "usage": "a transformed space 面貌改变的空间；transformed by new lighting 被新照明改变了观感。",
+    "contrast": "change 可以只是一般改变，transform 通常突出明显转变。被 transformed 的东西仍可能保留旧基础，不一定凭空消失再造一件。",
+    "examples": [
+      [
+        "The old warehouse was transformed into a library.",
+        "旧仓库被改造成了图书馆。"
+      ],
+      [
+        "New lighting transformed the room.",
+        "新的照明让房间面貌大变。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transformed#English",
+      "https://en.wiktionary.org/wiki/transform#English"
+    ]
+  },
+  {
+    "word": "viewing",
+    "ipa": "/ˈvjuːɪŋ/",
+    "meaning": "观看、查看、看待；看房或观赏活动〔现在分词、动名词及名词〕",
+    "sense": "把目光投向某个对象，是 viewing；若说 viewing it as a chance，就是换一个角度把它看作机会。也能把安排好的观看当一场活动。",
+    "split": "view 经古法语 veue 景象接拉丁 videre 看，英语名词又发展动词用法。现代直接加完整 -ing，/uː/ 后接 /ɪŋ/，拼写不删 w。",
+    "history": [
+      [
+        "拉丁 videre → 法语 veue → 英语 view；再有动词用法",
+        "看见的景象 → 查看、看待"
+      ],
+      [
+        "view + -ing → viewing",
+        "观看过程；一次安排好的观看、看房"
+      ]
+    ],
+    "explanation": "viewing the exhibition 看展览；viewing the problem differently 换角度看问题；arrange a viewing 安排一次观看、看房。",
+    "usage": "a viewing area 观看区；viewing the landscape 观赏景色。",
+    "contrast": "viewing 不总是盯着实物看，viewing a mistake as a chance 是态度和理解方式。view 的看法名词与这个动词用法也能连起来记。",
+    "examples": [
+      [
+        "We spent the afternoon viewing the exhibition.",
+        "我们花了一下午看展览。"
+      ],
+      [
+        "She is viewing the change as an opportunity.",
+        "她把这次变化看作一个机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/viewing#English",
+      "https://en.wiktionary.org/wiki/view#English"
+    ]
+  },
+  {
+    "word": "wears",
+    "ipa": "英 /weəz/；美 /werz/",
+    "meaning": "穿戴；磨损、消耗〔第三人称单数〕",
+    "sense": "衣服、眼镜在一个人身上，是 wears；东西用久了一点点磨掉，也能说 wears。穿用与损耗由长期使用的画面连起来。",
+    "split": "wear 接古英语 werian 穿、覆盖，耗损义逐渐发展。现代直接加 -s；不是把过去式 wore 加 s。wear、wore、worn 的历史还有类推变化。",
+    "history": [
+      [
+        "古英语 werian → wear",
+        "覆盖身体、穿戴 → 使用中磨损"
+      ],
+      [
+        "wear + -s → wears",
+        "某人穿戴；某物逐渐磨耗"
+      ]
+    ],
+    "explanation": "wears glasses 戴眼镜；wears a coat 穿外套；wears away 逐渐磨掉；wears out 穿坏、耗尽。",
+    "usage": "wears a smile 面带笑容；the surface wears 表面逐渐磨损。",
+    "contrast": "wears 说穿戴着的状态，puts on 强调把它穿上。wears a hat 不要求此刻正把帽子往头上戴。",
+    "examples": [
+      [
+        "She wears glasses when she reads.",
+        "她读书时戴眼镜。"
+      ],
+      [
+        "The paint wears away near the handle.",
+        "把手附近的漆会逐渐磨掉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wears#English",
+      "https://en.wiktionary.org/wiki/wear#English"
+    ]
+  },
+  {
+    "word": "affecting",
+    "ipa": "/əˈfektɪŋ/",
+    "meaning": "影响、作用于；感人的、触动情绪的〔现在分词及形容词〕",
+    "sense": "一个因素使另一个事物发生变化，是 affecting；一个场景使人心里被触动，也能说 affecting。前者范围广，后者专讲情绪被打动。",
+    "split": "影响、触动义接拉丁 afficere、affectus 的作用于材料。现代 affect 直接加 -ing。装出姿态的 affect 另接 affectare 路径，不把全部同形义压成一线。",
+    "history": [
+      [
+        "拉丁 afficere、affectus → affect",
+        "作用于、使处在某状态 → 影响、触动"
+      ],
+      [
+        "affect + -ing → affecting",
+        "正在影响；能触动人的、感人的"
+      ]
+    ],
+    "explanation": "affecting the result 影响结果；affecting everyone 影响每个人；an affecting scene 感人的场景。",
+    "usage": "a deeply affecting story 一个深深打动人的故事；affecting the schedule 影响日程。",
+    "contrast": "an affecting story 通常是令人感动的故事，an effective story 则说故事起到了预期效果。affecting 与 effective 的词形相近，侧重点不同。",
+    "examples": [
+      [
+        "The noise is affecting her concentration.",
+        "噪声正在影响她集中注意。"
+      ],
+      [
+        "The film ends with an affecting scene.",
+        "电影以一个感人的场景收尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/affecting#English",
+      "https://en.wiktionary.org/wiki/affect#English"
+    ]
+  },
+  {
+    "word": "assured",
+    "ipa": "英 /əˈʃɔːd/；美 /əˈʃʊrd/",
+    "meaning": "使确信了、向人保证了；自信的、有把握的〔过去式、过去分词及形容词〕",
+    "sense": "告诉对方可以放心，让心里的不确定落下来，是 assured 的保证义；形容表演或举止时，它又说从容、有把握。",
+    "split": "assure 经古法语 asseurer，接拉丁 securus 安全、放心的材料。现代去末尾 e 加完整 -ed；/r/ 或其对应英音元音后接 /d/。",
+    "history": [
+      [
+        "拉丁 securus 等 → 法语 asseurer → assure",
+        "安全、无忧虑 → 使人放心、向人保证"
+      ],
+      [
+        "assure 去 e + -ed → assured",
+        "保证过；有自信、把握的"
+      ]
+    ],
+    "explanation": "assured me that… 向我保证……；an assured performance 从容自信的表演；rest assured 尽管放心。",
+    "usage": "a calm, assured voice 冷静而有把握的声音；assured success 有把握的成功。",
+    "contrast": "assured someone 强调向人保证、使人确信；ensure something 常强调使某结果得到保证。assured 的自信形容词义则要看它修饰谁或什么表现。",
+    "examples": [
+      [
+        "She assured me that the keys were safe.",
+        "她向我保证钥匙很安全。"
+      ],
+      [
+        "He gave a calm and assured performance.",
+        "他的表演冷静而自信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assured#English",
+      "https://en.wiktionary.org/wiki/assure#English"
+    ]
+  },
+  {
+    "word": "avoided",
+    "ipa": "/əˈvɔɪdɪd/",
+    "meaning": "避开了、避免了〔过去式、过去分词〕",
+    "sense": "看到障碍，绕过去，是 avoided；调整做法，让问题没发生，也是 avoided。它可以避开已经在那里的对象，也可以避免将来的结果。",
+    "split": "avoid 经法语、盎格鲁诺曼相关形式，早有清空、离开等材料，后来走向避开。现代加完整 -ed，/d/ 后读 /ɪd/，多一个音节。",
+    "history": [
+      [
+        "法语清空、腾出材料 → 英语 avoid",
+        "离开、腾开 → 避开、避免"
+      ],
+      [
+        "avoid + -ed → avoided",
+        "已经避开某物；使某结果未发生"
+      ]
+    ],
+    "explanation": "avoided the crowds 避开人群；avoided a mistake 避免错误；avoided answering 没有正面回答。",
+    "usage": "avoided the main road 避开主路；avoided looking at him 避免看他。",
+    "contrast": "avoid 后接动作时用 -ing：avoided answering，而不是 avoided to answer。避开路线和回避问题都能用，但对象与目的由上下文决定。",
+    "examples": [
+      [
+        "We avoided the crowded main road.",
+        "我们避开了拥挤的主路。"
+      ],
+      [
+        "She avoided answering the question directly.",
+        "她没有正面回答这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/avoided#English",
+      "https://en.wiktionary.org/wiki/avoid#English"
+    ]
+  },
+  {
+    "word": "avoiding",
+    "ipa": "/əˈvɔɪdɪŋ/",
+    "meaning": "避开、回避、避免〔现在分词、动名词〕",
+    "sense": "主动不给自己和麻烦碰上的机会，是 avoiding。可以绕开拥挤处，也可以回避一次谈话，或者改变做法以避免错误。",
+    "split": "avoid 的法语、盎格鲁诺曼近源曾有清空、离开等旧义，现代发展出避开。直接加完整 -ing，结尾 d 保留，不双写。",
+    "history": [
+      [
+        "法语相关清空、离开材料 → avoid",
+        "腾开、离开 → 避开、避免"
+      ],
+      [
+        "avoid + -ing → avoiding",
+        "正在回避；避免这件事"
+      ]
+    ],
+    "explanation": "avoiding the crowds 避开人群；avoiding mistakes 避免错误；avoiding a subject 回避一个话题。",
+    "usage": "a way of avoiding delays 避免延误的方法；avoiding eye contact 避免目光接触。",
+    "contrast": "avoiding someone 不一定是讨厌这个人，只说明在有意减少碰面或接触。具体原因不能只由 avoid 一个词断定。",
+    "examples": [
+      [
+        "We left early, avoiding the crowds.",
+        "我们早早离开，避开了人群。"
+      ],
+      [
+        "He kept avoiding the subject.",
+        "他一直回避那个话题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/avoiding#English",
+      "https://en.wiktionary.org/wiki/avoid#English"
+    ]
+  },
+  {
+    "word": "chiefs",
+    "ipa": "/tʃiːfs/",
+    "meaning": "负责人、首领、主管〔复数〕",
+    "sense": "每个团队有负责拿主意、带头的人，几位这样的人就是 chiefs。这个词的老画面是头，后来用头比作领头者。",
+    "split": "chief 经古法语 chief 接拉丁 caput 头。现代复数直接加 -s，/f/ 后读 /s/；写 chiefs，不按某些 f 结尾名词的变化改成 ves。",
+    "history": [
+      [
+        "拉丁 caput → 古法语 chief → chief",
+        "头 → 领头者、负责人"
+      ],
+      [
+        "chief + -s → chiefs",
+        "多位主管、首领"
+      ]
+    ],
+    "explanation": "department chiefs 部门主管；service chiefs 服务部门负责人；local chiefs 当地首领。",
+    "usage": "the chiefs of several teams 几支队伍的负责人；meet the chiefs 与负责人见面。",
+    "contrast": "chiefs 是负责人的复数，chef 的复数 chefs 常指厨师长。两词有相关法语历史，但现代拼写、发音、常用职务不同。",
+    "examples": [
+      [
+        "The department chiefs met on Monday.",
+        "各部门主管周一开了会。"
+      ],
+      [
+        "The book describes meetings between local chiefs.",
+        "书中记述了当地首领之间的会面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chiefs#English",
+      "https://en.wiktionary.org/wiki/chief#English"
+    ]
+  },
+  {
+    "word": "commented",
+    "ipa": "英 /ˈkɒmentɪd/；美 /ˈkɑːmentɪd/",
+    "meaning": "评论了、发表了意见〔过去式、过去分词〕",
+    "sense": "看过、听过某事后，说上自己的看法，是 commented。可以赞同、反对，也可以只是指出自己注意到的地方。",
+    "split": "comment 的动词路径连拉丁 commentari、中世纪 commentare 的思考、论述材料；名词也有法语、后期拉丁借入来源。现代加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 commentari、commentare 等 → 英语动词 comment",
+        "思索、论述 → 对某事作评论"
+      ],
+      [
+        "comment + -ed → commented",
+        "已经发表看法、作了评论"
+      ]
+    ],
+    "explanation": "commented on the design 评论设计；commented that… 评论说……；commented favourably 作了好评。",
+    "usage": "commented on a detail 评论某个细节；briefly commented 简短评论了。",
+    "contrast": "commented on 接评论对象；commented that 接说出的内容。comment 不自带负面意味，负评、好评都可作 comment。",
+    "examples": [
+      [
+        "She commented on the unusual colours.",
+        "她对那些不寻常的颜色发表了看法。"
+      ],
+      [
+        "He commented that the room felt brighter.",
+        "他说房间感觉更明亮了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commented#English",
+      "https://en.wiktionary.org/wiki/comment#English"
+    ]
+  },
+  {
+    "word": "conducting",
+    "ipa": "/kənˈdʌktɪŋ/",
+    "meaning": "开展、实施；指挥、引导、传导〔现在分词、动名词〕",
+    "sense": "把人、步骤或流动带着往前走，是 conducting 的共同方向。研究有人组织着做，乐队有人指挥，材料也能传导热或电。",
+    "split": "conduct 接拉丁 conducere、conductus：con- 一起 + ducere 带领。现代直接加完整 -ing，仍用动词后重音，不沿用行为名词的前重音。",
+    "history": [
+      [
+        "拉丁 con- + ducere → conducere、conductus → conduct",
+        "带到一起、引领 → 实施、指挥、传导"
+      ],
+      [
+        "conduct + -ing → conducting",
+        "正在开展、指挥；传导过程"
+      ]
+    ],
+    "explanation": "conducting a survey 开展调查；conducting an orchestra 指挥管弦乐队；conducting heat 传热。",
+    "usage": "conducting an experiment 做实验；conducting visitors around the building 带访客参观楼房。",
+    "contrast": "conducting a survey 说组织、实施调查，不是调查这件事有某种行为品德。conduct 的名词行为义与动词任务义，要靠词性和重音分清。",
+    "examples": [
+      [
+        "The students are conducting a survey.",
+        "学生们正在做一项调查。"
+      ],
+      [
+        "She is conducting the orchestra tonight.",
+        "今晚由她指挥管弦乐队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conducting#English",
+      "https://en.wiktionary.org/wiki/conduct#English"
+    ]
+  },
+  {
+    "word": "displays",
+    "ipa": "/dɪˈspleɪz/",
+    "meaning": "展示、显示〔第三人称单数〕；陈列、展示、显示装置〔复数〕",
+    "sense": "把原来收着的东西展开，让别人看见，是 displays。商品摆出来是陈列，屏幕把信息亮出来也是显示。",
+    "split": "display 经法语 despleier 接拉丁 displicare：dis- 分开 + plicare 折叠。现代直接加 -s，元音后读 /z/；不拆成 dis + 英语 play。",
+    "history": [
+      [
+        "拉丁 dis- + plicare → 法语 despleier → display",
+        "展开折叠物 → 展示给人看"
+      ],
+      [
+        "display + -s → displays",
+        "某物显示；多项陈列或显示装置"
+      ]
+    ],
+    "explanation": "displays the time 显示时间；window displays 橱窗陈列；electronic displays 电子显示装置。",
+    "usage": "flower displays 花卉陈列；displays confidence 表现出自信。",
+    "contrast": "displays 可以展示实体，也可以表现一种性质。显示器是现代技术用法的一支，不能看到 displays 就只想到电脑屏幕。",
+    "examples": [
+      [
+        "The clock displays the time in large numbers.",
+        "这只钟用大数字显示时间。"
+      ],
+      [
+        "The shop has colourful window displays.",
+        "店里的橱窗陈列色彩鲜艳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/displays#English",
+      "https://en.wiktionary.org/wiki/display#English"
+    ]
+  },
+  {
+    "word": "emissions",
+    "ipa": "/ɪˈmɪʃənz/",
+    "meaning": "排放、释放；排出的物质〔复数〕",
+    "sense": "东西从一个来源向外放出来，是 emissions 的方向。句子可以谈释放的过程，也可以把释放出来的气体等物质合在一起谈。",
+    "split": "emission 经法语 emission 接拉丁 emissio，连拉丁 emittere：e-、ex- 向外 + mittere 送出。现代 emission + -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 e- + mittere → emittere、emissio → emission",
+        "向外送出 → 释放、排放"
+      ],
+      [
+        "emission + -s → emissions",
+        "多种释放、排出的物质或排放总量"
+      ]
+    ],
+    "explanation": "vehicle emissions 车辆排放；carbon emissions 碳排放；light emissions 光的发射。",
+    "usage": "measure emissions 测量排放；emissions from a source 某来源放出的物质。",
+    "contrast": "emissions 常见于环境语境，但本义不限于污染，也能谈光、辐射等向外释放。它与 mission 都有送出词源，现代意思却已经分开。",
+    "examples": [
+      [
+        "The report compares emissions from different sources.",
+        "报告比较了不同来源的排放。"
+      ],
+      [
+        "The diagram shows light emissions from the sample.",
+        "图中展示了样品发出的光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/emissions#English",
+      "https://en.wiktionary.org/wiki/emission#English"
+    ]
+  },
+  {
+    "word": "grabbed",
+    "ipa": "/ɡræbd/",
+    "meaning": "一下抓住了、赶紧拿了；吸引了〔过去式、过去分词〕",
+    "sense": "手很快伸出去拿住，是 grabbed；注意力被一句话一下抓过去，也可以说那句话 grabbed attention。",
+    "split": "grab 接荷兰、低地德语等抓取材料，具体路线有不同分析。现代短元音重读闭音节结尾，先双写 b，再加完整 -ed；/b/ 后读 /d/。",
+    "history": [
+      [
+        "荷兰、低地德语等抓取词 → grab",
+        "抓取 → 赶紧拿、抓住机会、吸引注意"
+      ],
+      [
+        "grab 双写 b + -ed → grabbed",
+        "已经抓住、迅速取得或吸引"
+      ]
+    ],
+    "explanation": "grabbed the handle 抓住把手；grabbed a sandwich 匆匆拿或吃了个三明治；grabbed her attention 吸引了她的注意。",
+    "usage": "grabbed the chance 抓住机会；grabbed his bag 抄起包。",
+    "contrast": "grabbed 常带迅速、突然或顺手的感觉，未必是粗暴抢夺。grasped 更可能突出紧握，或真正理解一个意思。",
+    "examples": [
+      [
+        "She grabbed her bag and left.",
+        "她抄起包就走了。"
+      ],
+      [
+        "The opening sentence grabbed my attention.",
+        "开头那句话一下吸引了我的注意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grabbed#English",
+      "https://en.wiktionary.org/wiki/grab#English"
+    ]
+  },
+  {
+    "word": "inhabitants",
+    "ipa": "/ɪnˈhæbɪtənts/",
+    "meaning": "居民、居住者；栖居其中的生物〔复数〕",
+    "sense": "不只是路过，而是把某个地方当住处的人，是 inhabitants。讲岛屿、森林等地方时，也能把住在其中的生物算进去。",
+    "split": "inhabitant 经古法语接拉丁 inhabitans 居住着的，是 inhabitare 的分词材料；in- 在内 + habitare 居住。现代名词直接加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 habitare、inhabitare → inhabitans → 法语、英语 inhabitant",
+        "居住 → 居住在其中的人或生物"
+      ],
+      [
+        "inhabitant + -s → inhabitants",
+        "多位居民、多个栖居者"
+      ]
+    ],
+    "explanation": "the inhabitants of a town 一座城镇的居民；island inhabitants 岛上居民；forest inhabitants 森林中的栖居生物。",
+    "usage": "local inhabitants 当地居民；the village’s inhabitants 村里的居民。",
+    "contrast": "inhabitants 强调住在哪里；visitors 是来访者。讲森林 inhabitants 时不必全是人，要看作者讨论的对象。",
+    "examples": [
+      [
+        "The island has only a few inhabitants.",
+        "岛上只有少数居民。"
+      ],
+      [
+        "The story describes the forest and its inhabitants.",
+        "故事描写了森林和生活在其中的生物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inhabitants#English",
+      "https://en.wiktionary.org/wiki/inhabitant#English"
+    ]
+  }
+]

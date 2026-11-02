@@ -1,0 +1,167 @@
+[
+  {
+    "word": "thrice",
+    "ipa": "/θraɪs/",
+    "meaning": "三次；三倍〔较书面、文学〕",
+    "sense": "once 一次、twice 两次，thrice 接着说三次。如今普通聊天通常直接说 three times，thrice 多一点书面、文学味。",
+    "split": "由古英语 þriwa、þreowa 等三次副词材料，经中古英语 thries 一类形式，加上旧副词性 -es 的关系发展而来。现代 ce 是历史拼写，不是 three 随意删掉两个字母。",
+    "history": [
+      [
+        "古英语表示三次的材料 → 中古英语 thries 等",
+        "三次、三倍的副词"
+      ],
+      [
+        "现代 thrice",
+        "较书面地说三次、三倍"
+      ]
+    ],
+    "explanation": "thrice a year 每年三次；once, twice, thrice 是常见计次数列。thrice as much 说三倍总量。",
+    "usage": "thrice a week；thrice as much。",
+    "contrast": "three times 是今天更通用的说法；thirteen 十三、thirty 三十与 thrice 三次不能只看前三个字母混用。",
+    "examples": [
+      [
+        "The old account says the bell rang thrice.",
+        "那份旧记述说，钟响了三次。"
+      ],
+      [
+        "He read the letter thrice before putting it away.",
+        "他把信读了三遍，才将它收好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thrice#English"
+    ]
+  },
+  {
+    "word": "sensibilities",
+    "ipa": "/ˌsensəˈbɪlətiz/",
+    "meaning": "细腻感受、审美与情感倾向；容易被触动的感情",
+    "sense": "同一段音乐，有人听出温柔，有人觉得太伤感；这些细腻的感受方式、审美和情感倾向，可以统称 sensibilities。",
+    "split": "sensibility 的复数，辅音字母后的 y 改为 ies。sensibility 连着 sensible 及拉丁感知词族；复数在实际使用中常集中说一个人的审美、道德感受等。",
+    "history": [
+      [
+        "sensibility：感受能力、敏感等",
+        "来自感知性质的抽象名词"
+      ],
+      [
+        "sensibility → sensibilities",
+        "复数；常用于多方面的审美、情感倾向"
+      ]
+    ],
+    "explanation": "artistic sensibilities 艺术感受力、审美；offend someone’s sensibilities 触犯某人的感情或价值感受。这里不等于所有 sense 义项的普通复数。",
+    "usage": "modern sensibilities；hurt someone’s sensibilities。",
+    "contrast": "sensitivity 常直接说敏感程度、体贴等；sensibilities 常说较成形的审美、情感倾向，不只是耳朵是否听得见。",
+    "examples": [
+      [
+        "Her artistic sensibilities shaped the room’s design.",
+        "她的艺术感受和审美塑造了这个房间的设计。"
+      ],
+      [
+        "Some jokes in the old play offend modern sensibilities.",
+        "那出旧戏里的某些笑话触犯了现代人的情感与价值感受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensibilities#English"
+    ]
+  },
+  {
+    "word": "aforesaid",
+    "ipa": "英 /əˈfɔːsed/；美 /əˈfɔːrsed/",
+    "meaning": "前述的；前面已经说到的〔正式书面〕",
+    "sense": "前面已经把一个文件或人说明白，后面不想重复一长串名字，就用 aforesaid 指回去：就是刚才说过的那个。",
+    "split": "中古英语已有相应形式，接 afore- 在前与 say 的过去、分词材料；现代可直接对照 afore- + said。afore 是较旧的 before 相近材料，不是 after 的拼写变体。",
+    "history": [
+      [
+        "中古英语 afore 与 say 的相关形式",
+        "前面说到、提到"
+      ],
+      [
+        "现代 aforesaid",
+        "前述的，常用来回指已有对象"
+      ]
+    ],
+    "explanation": "the aforesaid documents 前述文件；the aforesaid proposal 前述提案。多见正式文件，日常说 the documents mentioned earlier 更自然。",
+    "usage": "the aforesaid person；the aforesaid agreement。",
+    "contrast": "aforesaid 指前面提过，不是某人预先说过未来必发生；unsaid 没有说出口又是另一种否定关系。",
+    "examples": [
+      [
+        "Please attach copies of the aforesaid documents.",
+        "请附上前述文件的副本。"
+      ],
+      [
+        "The committee reviewed the aforesaid proposal at its next meeting.",
+        "委员会在下次会议上审议了前述提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aforesaid#English"
+    ]
+  },
+  {
+    "word": "ulterior",
+    "ipa": "英 /ʌlˈtɪəriə/；美 /ʌlˈtɪriər/",
+    "meaning": "另有隐情的；未明说的；在更远处的〔较少见义〕",
+    "sense": "嘴上说是顺路帮忙，心里其实想请你推荐工作。这个没有摆到台面上的另一个目的，就是 an ulterior motive。",
+    "split": "借拉丁 ulterior 更远的，含 ulter 在那一边与比较级 -ior。英语从在更远处、在表面之外，引到隐藏的、没有说出的动机。",
+    "history": [
+      [
+        "拉丁 ulter + -ior → ulterior",
+        "在另一边、更远的"
+      ],
+      [
+        "英语固定搭配 ulterior motive 等",
+        "表面理由背后的另一个目的"
+      ]
+    ],
+    "explanation": "have an ulterior motive 另有所图；without any ulterior motive 没有别的企图。通常带怀疑语气，尤其常和 motive 搭配。",
+    "usage": "an ulterior motive；an ulterior purpose。",
+    "contrast": "hidden 隐藏的适用范围很广；ulterior 常用于动机、目的，不用它泛称藏在抽屉里的任意东西。",
+    "examples": [
+      [
+        "She offered to help without any ulterior motive.",
+        "她愿意帮忙，没有别的企图。"
+      ],
+      [
+        "He suspected an ulterior motive behind the generous offer.",
+        "他怀疑那份慷慨提议背后另有目的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ulterior#English"
+    ]
+  },
+  {
+    "word": "interior",
+    "ipa": "英 /ɪnˈtɪəriə/；美 /ɪnˈtɪriər/",
+    "meaning": "内部；内陆；内部的；室内的",
+    "sense": "站在门外看房子的表面是 exterior，走进去看到墙面、家具、空间安排，就是 interior。谈国家也可把海岸以里的深处叫 the interior。",
+    "split": "借拉丁 interior 更里面的，是 interus 在内的相应比较形式。现代英语已经固定为内部，不要求每次都拿两个房间比较哪一个更里面。",
+    "history": [
+      [
+        "拉丁 interus → interior",
+        "在内 → 更内的、内面的"
+      ],
+      [
+        "英语 interior",
+        "内部的；内部、内陆等名词义"
+      ]
+    ],
+    "explanation": "the interior of a car 汽车内部；interior design 室内设计；the country’s interior 一国内陆。Ministry of the Interior 常见译作内政部这一机构名称。",
+    "usage": "an interior wall；the interior of the building。",
+    "contrast": "interior 与 exterior 常按内外对照；internal 也说内部的，但 internal conflict 内部冲突等搭配不能一律换成 interior。",
+    "examples": [
+      [
+        "The car’s interior was clean and spacious.",
+        "车内干净又宽敞。"
+      ],
+      [
+        "The exhibition explores modern interior design.",
+        "这次展览探讨现代室内设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interior#English"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B3122",
+    "meaning": "田野、场区、领域；资源区与再开发",
+    "core": "FIELD：一块展开的区域，按活动和作用细分",
+    "image": "麦田是一块土地，研究领域是一块知识范围；球场、矿区、物理场等已经各有固定定义。",
+    "intro": "field 继承古英语 feld。先读基础及 afield 向外，再把作物、矿产、战事、运动区分组；greenfield、brownfield 在开发语境里不能只按颜色判断。",
+    "forms": "field → afield、fielder；cornfield、hayfield 按用途，coalfield、goldfield 按资源；infield、outfield、midfield、backfield 按项目位置。\n\n开阔地发展出活动范围、专门领域、表单字段等。\n\n与 field 的现代英语来源分开；较远拉丁 campus 平野 → campania 开阔地 → 法国 Champagne 地名，vin de Champagne 的酒名缩成 champagne。与 champion 同在较远校园、场地词族附近，不是现代冠军饮品才造词。",
+    "branches": [
+      [
+        "基础与专门范围",
+        "field · afield · subfield · fieldwork · airfield"
+      ],
+      [
+        "作物和资源区域",
+        "cornfield · hayfield · coalfield · goldfield"
+      ],
+      [
+        "战场及危险比喻",
+        "battlefield · minefield"
+      ],
+      [
+        "守场与分区",
+        "fielder · infield · outfield · midfield · backfield"
+      ],
+      [
+        "新建与既有基础改造",
+        "greenfield · brownfield"
+      ],
+      [
+        "field → fields：田野、领域与填写位置",
+        "field · fields"
+      ],
+      [
+        "champagne：旷野词族 → 香槟地名 → 酒名",
+        "champagne · champagnes"
+      ]
+    ],
+    "contrasts": "infield 不等于 midfield；outfield 仍可能在场内；minefield 的 mine 是地雷；brownfield 不必各地都等于已确认污染地。",
+    "practice": "The team’s fieldwork focused on a brownfield site near the old coalfield.\n\n团队的实地工作，聚焦旧煤田附近一块已开发地。",
+    "words": [
+      "field",
+      "afield",
+      "subfield",
+      "fieldwork",
+      "airfield",
+      "cornfield",
+      "hayfield",
+      "coalfield",
+      "goldfield",
+      "battlefield",
+      "minefield",
+      "fielder",
+      "infield",
+      "outfield",
+      "midfield",
+      "backfield",
+      "greenfield",
+      "brownfield",
+      "fields",
+      "champagne",
+      "champagnes"
+    ],
+    "exclude": {
+      "wakefield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lichfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "downfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ashfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "upfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "playfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fieldstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

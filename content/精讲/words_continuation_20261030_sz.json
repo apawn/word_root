@@ -1,0 +1,69 @@
+[
+  {
+    "word": "comedian",
+    "ipa": "/kəˈmiːdiən/",
+    "meaning": "喜剧演员；幽默逗趣的人",
+    "sense": "在台上靠笑话、表演让观众发笑的人。日常也能叫某个总爱开玩笑的人 a comedian，有时带调侃。",
+    "split": "借自法语 comedien，来自 comedie 喜剧 + -ien 人物材料；更早经拉丁语接希腊喜剧词族。现代可按 comedy + -ian 的词形关系认识。",
+    "history": [
+      [
+        "希腊喜剧词族 → 拉丁、法语 comedie",
+        "喜剧、喜剧表演"
+      ],
+      [
+        "法语 comedien → 英语 comedian",
+        "喜剧表演者；再引申幽默的人"
+      ]
+    ],
+    "explanation": "a stand-up comedian 单口喜剧演员；a successful comedian 成功的喜剧演员。What a comedian! 有时是在调侃对方故意开玩笑。",
+    "usage": "work as a comedian；a comedian’s performance。",
+    "contrast": "comedian 现代可以泛指任何性别的喜剧演员；comedienne 是特别指女性的传统形式，使用频率和语气不同。",
+    "examples": [
+      [
+        "The comedian made the audience laugh with a story about everyday life.",
+        "喜剧演员用一个日常生活故事逗笑了观众。"
+      ],
+      [
+        "She started her career as a stand-up comedian.",
+        "她以单口喜剧演员的身份开始职业生涯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/comedian#English"
+    ]
+  },
+  {
+    "word": "niacinamide",
+    "ipa": "/ˌnaɪəˈsɪnəmaɪd/",
+    "meaning": "烟酰胺〔也叫 nicotinamide〕",
+    "sense": "护肤品成分表、营养或化学资料里可能遇到这个词；它和 nicotinamide 是同一种物质的两个名称。",
+    "split": "niacin 烟酸相关名称 + amide 酰胺，按烟酸的酰胺形式命名。词尾 -amide 反映化学结构关系，不能截成 -amine。",
+    "history": [
+      [
+        "niacin + amide",
+        "烟酸相关名称 + 酰胺"
+      ],
+      [
+        "niacinamide、nicotinamide",
+        "同一种物质的两种英文名"
+      ]
+    ],
+    "explanation": "niacinamide in an ingredient list 配料表中的烟酰胺；a product containing niacinamide 含烟酰胺的产品。名称识别本身不说明具体产品浓度、用途。",
+    "usage": "a niacinamide ingredient；niacinamide content。",
+    "contrast": "niacinamide 与 nicotinamide 是同物异名；nicotinic acid 是烟酸，nicotine 是尼古丁，几个近形词要把完整名称读完。",
+    "examples": [
+      [
+        "The ingredient list includes niacinamide.",
+        "成分表中列有烟酰胺。"
+      ],
+      [
+        "The glossary gives nicotinamide as another name for niacinamide.",
+        "词汇表注明，nicotinamide 是 niacinamide 的另一个名称。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/niacinamide#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/niacinamide"
+    ]
+  }
+]

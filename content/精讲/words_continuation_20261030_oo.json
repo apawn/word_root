@@ -1,0 +1,595 @@
+[
+  {
+    "word": "gram",
+    "ipa": "/ɡræm/",
+    "meaning": "克；〔南亚英语〕鹰嘴豆等豆类",
+    "sense": "称面粉、糖时，数字后面的 g 就是 gram。印度菜的 gram flour 却是豆粉，来自另一个种子、谷粒词，不是按克卖的粉这一意思。",
+    "split": "单位名经法语 gramme 接希腊 gramma 小重量材料，现代定义为千分之一千克。豆类义另经葡萄牙语接拉丁 granum 谷粒，不与单位名强连。",
+    "history": [
+      [
+        "希腊 gramma 小重量用法 → 法语 gramme → gram",
+        "现代质量单位克，旧材料也有字母、记录义"
+      ],
+      [
+        "milli- 千分之一 + gram → milligram",
+        "一毫克为千分之一克"
+      ]
+    ],
+    "explanation": "five grams 五克；a gram of sugar 一克糖；符号 g 不加复数 s。gram flour 是豆粉的固定说法，常见鹰嘴豆粉。",
+    "usage": "a gram of；five grams；gram flour。",
+    "contrast": "gram 是质量单位，gramme 是较旧或部分英式拼写；-gram 在 diagram 等词中说写画记录，不是每个都带克。",
+    "examples": [
+      [
+        "Add twenty grams of sugar.",
+        "加二十克糖。"
+      ],
+      [
+        "The recipe uses gram flour to make the batter.",
+        "食谱用鹰嘴豆粉来调面糊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gram#English"
+    ]
+  },
+  {
+    "word": "milligram",
+    "ipa": "/ˈmɪlɪɡræm/",
+    "meaning": "毫克",
+    "sense": "把一克平均分成一千份，每份就是一毫克。milli- 说千分之一，不是百万。",
+    "split": "经法语 milligramme，等同 milli- 千分之一 + gram 克 → milligram。1 mg = 0.001 g；1000 mg = 1 g。",
+    "history": [
+      [
+        "希腊 gramma 小重量用法 → 法语 gramme → gram",
+        "现代质量单位克，旧材料也有字母、记录义"
+      ],
+      [
+        "milli- 千分之一 + gram → milligram",
+        "一毫克为千分之一克"
+      ]
+    ],
+    "explanation": "measured in milligrams 以毫克计；one milligram 一毫克；符号 mg，不能只看字母多就觉得单位更大。",
+    "usage": "one milligram；measured in milligrams。",
+    "contrast": "milligram 毫克与 microgram 微克相差一千倍；这里先认单位换算，不把单位名当任何使用量建议。",
+    "examples": [
+      [
+        "One gram equals one thousand milligrams.",
+        "一克等于一千毫克。"
+      ],
+      [
+        "The balance displays the mass in milligrams.",
+        "天平以毫克显示质量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/milligram#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  },
+  {
+    "word": "lump",
+    "ipa": "/lʌmp/",
+    "meaning": "块、团；肿块；一并归类、混为一谈",
+    "sense": "一团糖、泥或面糊，没有明确规则形状，是 a lump。把本来不同的人或事情捏成一团看，也是 lump together。",
+    "split": "承中古英语 lumpe 团块，更早确切来源未定，常与斯堪的纳维亚、日耳曼块团词比较。名词作动词，形成聚成一团、粗略归并等义。",
+    "history": [
+      [
+        "中古英语 lumpe 不规则团块 → lump",
+        "更早来源未定，常联系斯堪的纳维亚、日耳曼相关材料"
+      ],
+      [
+        "lump 作归并动词；+ -y、-ing",
+        "一并看待；结块性质；归并动作"
+      ]
+    ],
+    "explanation": "a lump of clay 一团黏土；a lump in your throat 喉头哽咽感；a lump sum 一次性总额；lump things together 把不同事情混在一起。",
+    "usage": "a lump of；a lump in your throat；lump together。",
+    "contrast": "lump 常偏不规则块，slice 是切下的一片；lump 人或事情在一起可带忽略差异的批评。",
+    "examples": [
+      [
+        "She shaped a lump of clay into a bowl.",
+        "她把一团黏土塑成碗。"
+      ],
+      [
+        "Do not lump all these problems together.",
+        "别把这些问题一概混在一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lump#English",
+      "https://www.etymonline.com/word/lump"
+    ]
+  },
+  {
+    "word": "lumpy",
+    "ipa": "/ˈlʌmpi/",
+    "meaning": "有块的、结块的；凹凸不平的",
+    "sense": "原本该顺滑的酱里一颗颗疙瘩，或床垫表面高低不平，就是 lumpy。它把 lump 的小团块变成整体触感。",
+    "split": "lump + -y → lumpy，mp 为辅音组合，不双写 p。形容词可看内部结块，也可看表面起伏。",
+    "history": [
+      [
+        "中古英语 lumpe 不规则团块 → lump",
+        "更早来源未定，常联系斯堪的纳维亚、日耳曼相关材料"
+      ],
+      [
+        "lump 作归并动词；+ -y、-ing",
+        "一并看待；结块性质；归并动作"
+      ],
+      [
+        "lump + -y → lumpy",
+        "里面或表面有不平整的块团"
+      ]
+    ],
+    "explanation": "lumpy sauce 结块的酱；a lumpy mattress 凹凸不平的床垫；a lumpy mixture 有疙瘩的混合物。",
+    "usage": "lumpy sauce；a lumpy mattress。",
+    "contrast": "lumpy 侧重团块、不平，不必都是 solid 坚硬；柔软面糊也能 lumpy。",
+    "examples": [
+      [
+        "The sauce was thick and lumpy.",
+        "酱很稠，还结着块。"
+      ],
+      [
+        "We slept on a lumpy old mattress.",
+        "我们睡在一张凹凸不平的旧床垫上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lumpy#English"
+    ]
+  },
+  {
+    "word": "lumping",
+    "ipa": "/ˈlʌmpɪŋ/",
+    "meaning": "一并归类、混在一起；lump 的 -ing 形式",
+    "sense": "本来两件事有重要区别，却被一把装进同一个袋子，这个动作可说 lumping them together。",
+    "split": "lump + -ing → lumping，保留 mp。这里学常用归并动词形式；另有较旧的庞大形容词义，不用它解释所有现代句子。",
+    "history": [
+      [
+        "中古英语 lumpe 不规则团块 → lump",
+        "更早来源未定，常联系斯堪的纳维亚、日耳曼相关材料"
+      ],
+      [
+        "lump 作归并动词；+ -y、-ing",
+        "一并看待；结块性质；归并动作"
+      ],
+      [
+        "lump + -ing → lumping",
+        "把不同对象合在一类的动作"
+      ]
+    ],
+    "explanation": "lumping together 一并归类；lumping unrelated cases together 把无关案例混为一谈。",
+    "usage": "lumping together；lumping into one group。",
+    "contrast": "grouping 可以中性分组，lumping 常暗示分得粗、忽略了重要差别；具体批评程度看上下文。",
+    "examples": [
+      [
+        "You are lumping two different questions together.",
+        "你把两个不同问题混为一谈了。"
+      ],
+      [
+        "The report avoids lumping every small business into one category.",
+        "报告避免把所有小企业一股脑归成一类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lumping#English"
+    ]
+  },
+  {
+    "word": "queer",
+    "ipa": "英 /kwɪə/；美 /kwɪr/",
+    "meaning": "酷儿的、酷儿；〔旧用〕古怪的；〔辱称用法〕",
+    "sense": "老小说的 a queer noise 可能只是怪声；今天 queer community 常说酷儿社群。它经历过辱称，也被部分人重新拿来作自己的认同名称，语境特别关键。",
+    "split": "早见苏格兰语境的奇怪义，更早与低地德语斜、偏材料的联系存在争论。后来进入性取向、性别相关贬称，再经部分社群认领成为身份和学术用语。",
+    "history": [
+      [
+        "十六世纪初苏格兰 queer 奇怪、不同寻常",
+        "更早常联低地德语斜、偏材料，但词源有争论"
+      ],
+      [
+        "后来形成性取向、性别辱称，再有社群重新认领",
+        "现代奇异旧义、自称与学术用语并存"
+      ],
+      [
+        "queer + -ness；gender + queer",
+        "性质、经验；性别认同相关的具体复合词"
+      ]
+    ],
+    "explanation": "queer literature 酷儿文学；queer studies 酷儿研究；identify as queer 自我认同为酷儿；旧文中的 queer 可能只说奇怪。",
+    "usage": "queer literature；identify as queer。",
+    "contrast": "并非每位 LGBTQ 人士都用 queer 自称；别人用它辱骂和本人用它认同是不同语用。不要把旧奇怪义直接当现代群体的客观评价。",
+    "examples": [
+      [
+        "The library has a collection of queer literature.",
+        "图书馆有一批酷儿文学作品。"
+      ],
+      [
+        "In the old story, queer simply means unusual.",
+        "在那个旧故事里，queer 只是不同寻常的意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/queer#English",
+      "https://www.etymonline.com/word/queer",
+      "https://glaad.org/reference/terms/"
+    ]
+  },
+  {
+    "word": "queerness",
+    "ipa": "英 /ˈkwɪənəs/；美 /ˈkwɪrnəs/",
+    "meaning": "酷儿身份、经验或特质；〔旧语境〕奇异性",
+    "sense": "queer 形容某种身份或表达，queerness 则把相关经验、特质当成话题。旧文学里也可能只是说景象的古怪感。",
+    "split": "queer + -ness → queerness，性质、状态名词，继承 queer 的不同历史义；不能所有地方都只套一个身份含义。",
+    "history": [
+      [
+        "十六世纪初苏格兰 queer 奇怪、不同寻常",
+        "更早常联低地德语斜、偏材料，但词源有争论"
+      ],
+      [
+        "后来形成性取向、性别辱称，再有社群重新认领",
+        "现代奇异旧义、自称与学术用语并存"
+      ],
+      [
+        "queer + -ness；gender + queer",
+        "性质、经验；性别认同相关的具体复合词"
+      ],
+      [
+        "queer + -ness → queerness",
+        "相应身份、经验或奇异性质"
+      ]
+    ],
+    "explanation": "queerness in literature 文学中的酷儿经验、特质；the queerness of a scene 场景的奇异感，需看作品时代与论题。",
+    "usage": "queerness in literature；the queerness of。",
+    "contrast": "queerness 是概念或经验名词，不等于每个 queer 人有完全相同的人生；-ness 也不把身份变成疾病。",
+    "examples": [
+      [
+        "The essay explores queerness in contemporary poetry.",
+        "文章探讨当代诗歌中的酷儿经验。"
+      ],
+      [
+        "The narrator comments on the queerness of the deserted house.",
+        "叙述者谈到那座空屋的古怪感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/queerness#English"
+    ]
+  },
+  {
+    "word": "genderqueer",
+    "ipa": "英 /ˈdʒendəkwɪə/；美 /ˈdʒendərkwɪr/",
+    "meaning": "性别酷儿的；性别酷儿人士",
+    "sense": "有些人用 genderqueer 表达自己的性别认同不落在传统男性、女性二分框架里。gender 把 queer 的范围具体限定到了性别。",
+    "split": "gender 性别 + queer → genderqueer，二十世纪后期社群用词传播。这里不是问句 gender query，也不是把不符合穿衣习惯的人随意归类。",
+    "history": [
+      [
+        "后来形成性取向、性别辱称，再有社群重新认领",
+        "现代奇异旧义、自称与学术用语并存"
+      ],
+      [
+        "queer + -ness；gender + queer",
+        "性质、经验；性别认同相关的具体复合词"
+      ],
+      [
+        "gender + queer → genderqueer",
+        "限定为相应性别认同的自我描述"
+      ]
+    ],
+    "explanation": "identify as genderqueer 自我认同为性别酷儿；genderqueer people 性别酷儿人士；可作形容词，名词使用看本人及语境。",
+    "usage": "identify as genderqueer；genderqueer people。",
+    "contrast": "genderqueer 侧重性别认同，不直接告诉你一个人的性取向；与 nonbinary 有重叠，但具体称呼由个人使用。",
+    "examples": [
+      [
+        "The writer describes themself as genderqueer.",
+        "这位作者用 genderqueer 描述自己的性别认同。"
+      ],
+      [
+        "The anthology includes work by genderqueer poets.",
+        "选集收录了性别酷儿诗人的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/genderqueer#English",
+      "https://glaad.org/reference/trans-terms/"
+    ]
+  },
+  {
+    "word": "dart",
+    "ipa": "英 /dɑːt/；美 /dɑːrt/",
+    "meaning": "飞镖；突然快速移动；〔衣服〕省道",
+    "sense": "小飞镖一下射向靶心，dart 就借这种快而突然的动作写人、目光或动物。衣服里的 dart 则是收进去、缝成尖锥状的省道。",
+    "split": "借法语 dart、dard，接更早日耳曼投矛材料。名词产生迅速射出、移动的动词，缝纫义则按尖长收束形状命名。",
+    "history": [
+      [
+        "法语 dart、dard 接日耳曼投矛材料 → 英语 dart",
+        "投出的尖物，后用于靶场小飞镖"
+      ],
+      [
+        "dart 作迅速移动动词；复数 darts 成运动名",
+        "像飞镖突然射出；飞镖游戏"
+      ]
+    ],
+    "explanation": "throw a dart 投一枚飞镖；dart across the road 飞快穿过马路；dart a glance 快速瞥一眼；a waist dart 腰省。",
+    "usage": "throw a dart；dart across；a waist dart。",
+    "contrast": "dart 强调突然、迅速，不是所有长距离奔跑；衣服省道不是留着一枚真实飞镖。",
+    "examples": [
+      [
+        "A small bird darted across the path.",
+        "一只小鸟飞快掠过小路。"
+      ],
+      [
+        "The pattern has two darts at the waist.",
+        "纸样腰部有两处省道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dart#English"
+    ]
+  },
+  {
+    "word": "darts",
+    "ipa": "英 /dɑːts/；美 /dɑːrts/",
+    "meaning": "飞镖运动；dart 的复数",
+    "sense": "几枚飞镖可以是 darts，整项投靶计分游戏也叫 darts。后者虽然带 s，谈游戏时通常按一个项目来用。",
+    "split": "dart + 复数 -s → darts；复数形式固定为运动名称。不是一个叫 dart 的人做的动作词尾。",
+    "history": [
+      [
+        "法语 dart、dard 接日耳曼投矛材料 → 英语 dart",
+        "投出的尖物，后用于靶场小飞镖"
+      ],
+      [
+        "dart 作迅速移动动词；复数 darts 成运动名",
+        "像飞镖突然射出；飞镖游戏"
+      ],
+      [
+        "dart + -s → darts",
+        "多枚飞镖 → 飞镖运动名"
+      ]
+    ],
+    "explanation": "play darts 玩飞镖；a darts match 飞镖比赛；Darts is popular here. 说这项运动时常接单数谓语。",
+    "usage": "play darts；a darts match。",
+    "contrast": "These darts are new 说几枚器具，用复数谓语；Darts is fun 说运动，用单数思路。",
+    "examples": [
+      [
+        "We played darts after dinner.",
+        "晚饭后，我们玩了飞镖。"
+      ],
+      [
+        "Darts is one of his favourite games.",
+        "飞镖是他最喜欢的游戏之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/darts#English"
+    ]
+  },
+  {
+    "word": "damp",
+    "ipa": "/dæmp/",
+    "meaning": "微湿的；湿气；减弱、抑制",
+    "sense": "毛巾摸着湿，却没到滴水，是 damp；让振动、热情弱下来也有 damp。两个常用方向要分开看。",
+    "split": "中古英语 damp 曾指令人窒息的气体、蒸气等，接日耳曼相关材料，更早路线未定。抑制、压低义记录早于现代微湿义，不能全说成先有湿毛巾再有降热情。",
+    "history": [
+      [
+        "中古英语 damp 令人窒息的蒸气等，日耳曼相关材料",
+        "确切本族、借词路线未定"
+      ],
+      [
+        "damp 先有压抑、抑制等，后有微湿、弄湿常用义",
+        "记忆可借湿物压火，不能当全部历史顺序"
+      ],
+      [
+        "damp + -en、-er、-ness",
+        "弄湿、减弱；抑制装置；湿气状态"
+      ]
+    ],
+    "explanation": "a damp towel 微湿毛巾；damp walls 潮湿墙面；damp vibrations 抑制振动；damp enthusiasm 抑制热情。",
+    "usage": "a damp towel；damp vibrations。",
+    "contrast": "damp 常只是微湿，wet 范围更宽、也可湿透；抑制振动的 damp 不要求往设备上加水。",
+    "examples": [
+      [
+        "The towel was still damp.",
+        "毛巾还有点湿。"
+      ],
+      [
+        "The material helps damp unwanted vibrations.",
+        "这种材料有助于减弱不需要的振动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/damp#English",
+      "https://www.etymonline.com/word/damp"
+    ]
+  },
+  {
+    "word": "dampen",
+    "ipa": "/ˈdæmpən/",
+    "meaning": "使微湿；减弱、抑制",
+    "sense": "抹布干了，稍微弄湿可以 dampen；一个坏消息让兴致低下来，也叫 dampen。把强度压低的画面很有用，但历史并不只从水开始。",
+    "split": "damp + -en 形成动词，旧有削弱、压低的用法，弄湿义后来出现。今天两支都常见。",
+    "history": [
+      [
+        "中古英语 damp 令人窒息的蒸气等，日耳曼相关材料",
+        "确切本族、借词路线未定"
+      ],
+      [
+        "damp 先有压抑、抑制等，后有微湿、弄湿常用义",
+        "记忆可借湿物压火，不能当全部历史顺序"
+      ],
+      [
+        "damp + -en、-er、-ness",
+        "弄湿、减弱；抑制装置；湿气状态"
+      ],
+      [
+        "damp + -en → dampen",
+        "使进入相应状态：减弱或微湿"
+      ]
+    ],
+    "explanation": "dampen a cloth 弄湿抹布；dampen enthusiasm 挫伤热情；dampen expectations 压低预期。",
+    "usage": "dampen a cloth；dampen enthusiasm。",
+    "contrast": "damp、dampen 都可用于减弱等义，不硬分为前者只技术、后者只情绪；弄湿时 dampen 常见。",
+    "examples": [
+      [
+        "Dampen the cloth before wiping the shelf.",
+        "擦架子前，先把抹布稍微弄湿。"
+      ],
+      [
+        "The delay did not dampen their enthusiasm.",
+        "延误没有挫伤他们的热情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dampen#English",
+      "https://www.etymonline.com/word/damp"
+    ]
+  },
+  {
+    "word": "damper",
+    "ipa": "英 /ˈdæmpə/；美 /ˈdæmpər/",
+    "meaning": "阻尼器、制音器；风门；扫兴因素",
+    "sense": "让振动停下来、让气流小一点的装置可以是 damper；本来很高兴，一件事把气氛压住，也说 put a damper on。",
+    "split": "damp 动词 + -er → damper，-er 多造抑制作用的人或物。钢琴制音器、调气流的风门与扫兴因素各有固定用法。",
+    "history": [
+      [
+        "中古英语 damp 令人窒息的蒸气等，日耳曼相关材料",
+        "确切本族、借词路线未定"
+      ],
+      [
+        "damp 先有压抑、抑制等，后有微湿、弄湿常用义",
+        "记忆可借湿物压火，不能当全部历史顺序"
+      ],
+      [
+        "damp + -en、-er、-ness",
+        "弄湿、减弱；抑制装置；湿气状态"
+      ],
+      [
+        "damp + -er → damper",
+        "起抑制、限制作用的装置或因素"
+      ]
+    ],
+    "explanation": "a vibration damper 减振器；a piano damper 钢琴制音器；put a damper on the mood 让气氛扫兴；不是全部都与潮湿有关。",
+    "usage": "a vibration damper；put a damper on。",
+    "contrast": "damper 也可能是 damp 的比较级“更潮湿”，或澳洲面包名；先看是装置、比较还是食品。",
+    "examples": [
+      [
+        "The mechanism includes a vibration damper.",
+        "这个机构里有减振器。"
+      ],
+      [
+        "The bad news put a damper on the celebration.",
+        "坏消息让庆祝气氛冷了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/damper#English",
+      "https://www.etymonline.com/word/damp"
+    ]
+  },
+  {
+    "word": "dampness",
+    "ipa": "/ˈdæmpnəs/",
+    "meaning": "潮湿、湿气；微湿状态",
+    "sense": "damp 说墙有点潮，dampness 把那股湿气和潮湿状态单独拿出来说。不是一定看到水流才算。",
+    "split": "damp + -ness → dampness，保留 p，不需另加连接元音。-ness 把微湿性质变成名词。",
+    "history": [
+      [
+        "中古英语 damp 令人窒息的蒸气等，日耳曼相关材料",
+        "确切本族、借词路线未定"
+      ],
+      [
+        "damp 先有压抑、抑制等，后有微湿、弄湿常用义",
+        "记忆可借湿物压火，不能当全部历史顺序"
+      ],
+      [
+        "damp + -en、-er、-ness",
+        "弄湿、减弱；抑制装置；湿气状态"
+      ],
+      [
+        "damp + -ness → dampness",
+        "微湿、潮湿的状态"
+      ]
+    ],
+    "explanation": "dampness in the walls 墙面潮气；a smell of dampness 潮气味；signs of dampness 潮湿迹象。",
+    "usage": "signs of dampness；dampness in。",
+    "contrast": "humidity 常说空气含水汽的状况，dampness 更常用于摸着、闻着或材料上的潮湿体验；不是严格互斥的二选一。",
+    "examples": [
+      [
+        "There were signs of dampness near the window.",
+        "窗边有潮湿迹象。"
+      ],
+      [
+        "The cupboard had a faint smell of dampness.",
+        "柜子里有一点潮气味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dampness#English"
+    ]
+  },
+  {
+    "word": "gown",
+    "ipa": "/ɡaʊn/",
+    "meaning": "长礼服；长袍、学位袍；病号服",
+    "sense": "同样一件长长、罩在身上的衣服，舞会里是礼服，毕业时是学位袍，医院里则可能是病号服。前面的场景词决定是哪一种。",
+    "split": "中古英语经盎格鲁法语、古法语 goune 等借入，上接晚期拉丁 gunna 皮裘衣材料。现代扩成多类长袍、礼服，不要求还用皮毛。",
+    "history": [
+      [
+        "古法语、盎格鲁法语 goune 等长袍词 → 英语 gown",
+        "上接晚期拉丁 gunna 皮、裘衣材料"
+      ],
+      [
+        "gown → 礼服、学位袍、病号服；night + gown",
+        "现代衣物按场景分，非都仍是皮裘"
+      ]
+    ],
+    "explanation": "an evening gown 晚礼服；an academic gown 学位袍；a hospital gown 病号服；a dressing gown 晨衣、居家罩袍。",
+    "usage": "an evening gown；an academic gown；a hospital gown。",
+    "contrast": "dress 可泛连衣裙，gown 常有长、正式或特定场合袍服意味；hospital gown 并非医院晚礼服。",
+    "examples": [
+      [
+        "She wore a simple evening gown.",
+        "她穿了一件简洁的晚礼服。"
+      ],
+      [
+        "The graduates put on their academic gowns.",
+        "毕业生穿上了学位袍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gown#English"
+    ]
+  },
+  {
+    "word": "glucosamine",
+    "ipa": "英 /ɡluːˈkəʊsəmiːn/；美 /ɡluːˈkoʊsəmiːn/",
+    "meaning": "氨基葡萄糖、葡糖胺",
+    "sense": "在葡萄糖相关结构里引入氨基，就有了这种氨基糖的名称。它参与软骨等相关分子的组成，也常出现在补充剂标签上。",
+    "split": "glucose 的词干与 -amine 氨基、胺材料结合 → glucosamine，不是把 glucose 和一个叫 vitamin 的完整词拼起来。",
+    "history": [
+      [
+        "法语 glucose 接希腊甜葡萄汁、甜的材料",
+        "现代葡萄糖名，糖类构词可见 gluco-"
+      ],
+      [
+        "glucose 的词干 + -amine → glucosamine",
+        "氨基糖名称，与葡萄糖结构相关"
+      ]
+    ],
+    "explanation": "glucosamine supplements 氨基葡萄糖补充剂；glucosamine sulfate 硫酸氨基葡萄糖；先识物质名与相关盐名。",
+    "usage": "glucosamine supplements；glucosamine sulfate。",
+    "contrast": "glucosamine 不等于 glucose 葡萄糖，也不因带糖类材料就等于甜味剂；名字、天然组成与补充剂功效不能直接画等号。",
+    "examples": [
+      [
+        "The label lists glucosamine among the ingredients.",
+        "标签把氨基葡萄糖列在成分中。"
+      ],
+      [
+        "The textbook describes glucosamine as an amino sugar.",
+        "教材把氨基葡萄糖描述为一种氨基糖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glucosamine#English",
+      "https://www.nccih.nih.gov/health/glucosamine-and-chondroitin-for-osteoarthritis-what-you-need-to-know"
+    ]
+  }
+]

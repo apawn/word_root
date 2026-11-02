@@ -1,0 +1,225 @@
+[
+  {
+    "id": "B3685",
+    "meaning": "酒精相关性质与否定，人物名词义另看句法",
+    "core": "ALCOHOLIC：说含酒精或酒精相关，non- 再否定",
+    "image": "alcoholic → nonalcoholic，饮料、成因与人物名词分别识别。",
+    "intro": "同一个 alcoholic 可以作形容词也可作人物名词。先看后面跟饮料还是独立指人，再认 non- 否定哪一层，避免逐字翻错。",
+    "forms": "alcohol + -ic → alcoholic；non- + alcoholic → nonalcoholic。",
+    "branches": [
+      [
+        "酒精性质与否定",
+        "alcoholic · nonalcoholic"
+      ]
+    ],
+    "contrasts": "alcoholic beverage 谈饮料，an alcoholic 谈人物，句法改变具体含义。",
+    "practice": "The menu lists alcoholic and nonalcoholic drinks separately.\n\n菜单分列含酒精饮料与无酒精饮料。",
+    "words": [
+      "alcoholic",
+      "nonalcoholic"
+    ],
+    "exclude": {
+      "anti-alcoholic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4047",
+    "meaning": "树篱的围护与边界，再借到言语保留和风险安排",
+    "core": "HEDGE：围一圈保护，也给自己留些余地",
+    "image": "hedge → hedgerow、hedgehog；动作比喻则看围住、设防、不作过满承诺。",
+    "intro": "花园树篱是实物屏障；hedge an answer 是不把话说死，hedge one’s bets 是保留其他可能。刺猬名的 hog 借动物形象，不把它当成猪的种类。",
+    "forms": "hecg → hegge → hedge；row 一排；hog 猪般形象。\n\n古英语篱、围栏名转动作，后来比喻限制承诺、保护自己。\n\nhedge 篱笆、树篱 + hog 猪 → hedgehog 刺猬，前者接活动环境，后者借像猪的口鼻形状命名。",
+    "branches": [
+      [
+        "树篱、篱墙与动物名",
+        "hedge · hedgerow · hedgehog"
+      ],
+      [
+        "hedge → hedges：篱笆与留余地的动作",
+        "hedge · hedges"
+      ],
+      [
+        "hedge + hog → hedgehog → hedgehogs：篱边的小猪",
+        "hedgehog · hedgehogs"
+      ]
+    ],
+    "contrasts": "hedge 保留说法有谨慎和回避两种评价；hedgehog 与 porcupine 不同。",
+    "practice": "The hedgehog disappeared beneath the hedge beside the hedgerow.\n\n刺猬钻进篱墙边的树篱下，不见了。",
+    "words": [
+      "hedge",
+      "hedgerow",
+      "hedgehog",
+      "hedges",
+      "hedgehogs"
+    ],
+    "exclude": {
+      "hain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3388",
+    "meaning": "油脂、油腻性质与涂油人物、器具",
+    "core": "GREASE：抹上去是润滑，沾在表面是油腻",
+    "image": "grease → greasy、greaser，从材料到性质，再到使用者、器具和文化形象。",
+    "intro": "润滑是功能，油腻是表面状态，greaser 的发油青年形象则按造型命名。不同人物称呼还带时代、语境评价，不可机械地都译成上油工。",
+    "forms": "grease + -y → greasy；grease + -er → greaser；读音随具体词与地区有变体，逐词看音标。",
+    "branches": [
+      [
+        "油脂、性质与执行者或器具",
+        "grease · greasy · greaser"
+      ]
+    ],
+    "contrasts": "greasy 常说表面、食物油腻；greaser 的人物用法还需辨亚文化、职业或贬称。",
+    "practice": "The greaser’s jacket looked greasy after the repair.\n\n那位机械工修理后，夹克看起来油乎乎的。",
+    "words": [
+      "grease",
+      "greasy",
+      "greaser"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4320",
+    "meaning": "愉快性质、快活方式与欢笑名词，同族旧形式一起读",
+    "core": "MERRY：人有说有笑，场面轻快热闹",
+    "image": "merry → merrily、merriment；mirth 是同族古老名词，单独保留历史词形。",
+    "intro": "merry 描述人、声音和气氛，merrily 说怎样进行，mirth、merriment 把欢乐欢笑作为名词谈。它们有重叠，靠场景和文体理解。",
+    "forms": "myrge → merie → 形容词 merry，接 -ly 对应 merrily；旧动词 merry 欢乐、使欢乐接 -ment 对应 merriment；myrgth → mirth，历史 -th 抽象名词。\n\nmerry 承古英语 myrge；更远联系短暂、令人忘记时间是一种分析。merriment 的 -ment 接旧动词 merry 欢乐、使欢乐，不把它简化成所有形容词都能直接加 -ment。",
+    "branches": [
+      [
+        "性质、方式与欢笑名词",
+        "merry · merrily · merriment · mirth"
+      ],
+      [
+        "merry 的欢乐程度与 merriment 的旧动词背景",
+        "merry · merrier · merriest · merrily · merriment"
+      ]
+    ],
+    "contrasts": "mirth 偏书面欢笑，merriment 常铺出玩乐场面；不把两者硬划成人数规则。",
+    "practice": "The merry group laughed merrily, filling the room with mirth and merriment.\n\n这群人兴高采烈地笑着，房间里满是欢乐。",
+    "words": [
+      "merry",
+      "merrily",
+      "merriment",
+      "mirth",
+      "merrier",
+      "merriest"
+    ],
+    "exclude": {
+      "merry-go-round": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4161",
+    "meaning": "少了对危险后果的顾虑，方式与性质名词接着展开",
+    "core": "RECKLESS：该想的后果没放在心上，就往前冲",
+    "image": "reckless → recklessly、recklessness，从性质到动作方式，再到整体评价。",
+    "intro": "旧 reck 顾虑的用法不常单独见了，但 -less 仍保留不顾虑的构词。勇敢与鲁莽最关键的区别之一，就是是否认真看待风险、后果。",
+    "forms": "reck + -less → reckless；-ly 方式；-ness 性质，-less + -ness 两层后缀。",
+    "branches": [
+      [
+        "性质、方式与鲁莽程度",
+        "reckless · recklessly · recklessness"
+      ]
+    ],
+    "contrasts": "reckless 通常是批评，不是 brave 的普通替换；recklessness 把这种性质名词化。",
+    "practice": "Acting recklessly, he mistook recklessness for courage.\n\n他行事鲁莽，却把不顾后果误认成勇气。",
+    "words": [
+      "reckless",
+      "recklessly",
+      "recklessness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1990",
+    "meaning": "社会、群体维度，接学科、文化或病态相关旧称",
+    "core": "SOCIO-：把后面的事放进社会关系里看",
+    "image": "sociology、sociocultural、sociolinguistics 等看社会研究维度；sociopath 词族另有术语历史。",
+    "intro": "同一个前缀不决定后半含义。语言学看群体如何影响说话，文化词看社会文化联系；病态人物旧称则不能由字面升级成所有不合群的人。",
+    "forms": "socius 同伴相关材料 → socio-；-logy 研究；cultural 文化；linguistics 语言学；-path、-pathic 病态相关构词。",
+    "branches": [
+      [
+        "社会、文化与语言研究",
+        "sociology · sociocultural · sociolinguistics · sociolinguistic"
+      ],
+      [
+        "人物旧称与相应性质",
+        "sociopath · sociopathic"
+      ]
+    ],
+    "contrasts": "sociolinguistics 学科名与 sociolinguistic 形容词不同；sociopath 不等于内向、独处者。",
+    "practice": "The sociolinguistic study examined sociocultural differences in everyday speech.\n\n社会语言学研究考察了日常说话中的社会文化差异。",
+    "words": [
+      "sociology",
+      "sociocultural",
+      "sociolinguistics",
+      "sociolinguistic",
+      "sociopath",
+      "sociopathic"
+    ],
+    "exclude": {
+      "socio-economic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "socio-political": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "socio-political-economic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "socio-racist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "socio-demographic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "psycho-socio-philosophical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "socio-geopolitical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3636",
+    "meaning": "物质、排出动作与容纳器具分层",
+    "core": "URINE：尿是物质，urinate 是动作，urinal 是器具",
+    "image": "urine → urinate、urinal，从同族物质名称走向动作与用品。",
+    "intro": "明确谁是东西、谁是动作、谁是容器，句子就不会混乱。urinal 的英美读音有明显变体，不能只按 urine 直接接后缀猜读。",
+    "forms": "拉丁 urina 及相关形式 → urine、urinate；urinalis → 法语 urinal → urinal。",
+    "branches": [
+      [
+        "物质、动作与容器",
+        "urine · urinate · urinal"
+      ]
+    ],
+    "contrasts": "urine 物质、urinate 动作、urinal 器具；urinal 的常见英美重音不同。",
+    "practice": "The label identifies the urinal as a container for urine.\n\n标签说明尿壶是用于接尿的容器。",
+    "words": [
+      "urine",
+      "urinate",
+      "urinal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2040",
+    "meaning": "借入的名词结尾，状态、领域、群体与专名各有历史",
+    "core": "-IA：看见名词结尾，还要认前面具体在命名什么",
+    "image": "insomnia 等状态名、suburbia 等集合名、poinsettia 人名植物名，不能被一个中文后缀包办。",
+    "intro": "不少 -ia 词是古典语言整词或相关名词形式借入，也有现代按名称造词。它不独立说明某种疾病，更不表示每个词都能机械砍掉两个字母。",
+    "forms": "希腊、拉丁语 -ia 等名词形式；insomnia、arrhythmia 等读各自历史；Poinsett + -ia → poinsettia。",
+    "branches": [
+      [
+        "状态、功能与文化名词",
+        "insomnia · arrhythmia · alexia · dyspepsia · psychedelia"
+      ],
+      [
+        "地域群体与植物名",
+        "suburbia · poinsettia"
+      ]
+    ],
+    "contrasts": "-ia 不是统一的疾病标志；poinsettia 中它参与人名植物命名，suburbia 则指郊区生活、地区整体。",
+    "practice": "The booklet places a poinsettia on its cover and explains several words ending in -ia.\n\n小册子封面画着一品红，内文解释几个以 -ia 结尾的词。",
+    "words": [
+      "insomnia",
+      "suburbia",
+      "arrhythmia",
+      "alexia",
+      "psychedelia",
+      "dyspepsia",
+      "poinsettia"
+    ],
+    "exclude": {
+      "amelia": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

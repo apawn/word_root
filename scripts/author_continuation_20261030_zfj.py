@@ -1,0 +1,244 @@
+"""Sagging, slumping, bent postures and quick recoil reactions."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ return ['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+EXISTING_ROOT_ADDITIONS={
+ 'B4179':dict(words=['sink','sag','sags','sagged','sagging'],label='sag 与 sink：可能相关的下沉材料',note='sag 可能由北欧、低地德语下沉词借入，与 sink 的更远材料相关；来源是候选分析，不把现代 sink 按字母变为 sag。'),
+ 'B4087':dict(words=['slack','slouch','slouches','slouched','slouching'],label='slouch 的松垮姿态与 slack 的远近比较',note='slouch 较早名词说懒散者，来源未定，可能北欧并与 slack 的松、垂材料相关；现代 no slouch 反而是夸有本领。'),
+ 'B3625':dict(words=['step','stoop','stoops'],label='stoop 的门前台阶名词：联系 step 的踏步材料',note='这里收的是北美门前台阶、平台名词 stoop，借荷兰语 stoep；弯腰动词 stoop 承古英语 stupian，近源另分。'),
+ 'B3202':dict(words=['link','flinch','flinches','flinched','flinching'],label='flinch、link 的弯曲转向材料比较',note='flinch 可能经法语弯、转开材料接日耳曼相关来源；与 link 更远弯曲词族可比较，不是现代 link 加一个 fl- 前缀。'),
+ 'A1760':dict(words='sag sags sagged sagging slump slumps slumped slumping slouch slouches slouched slouching hunch hunches hunched hunching stoop stoops stooped stooping crouch crouches crouched crouching flinch flinches flinched flinching wince winces winced wincing'.split(),label='松垮、弯身、蹲低与一缩动作的现代变化',note='slouched、hunched、crouched、flinched 的 -ed 读 /t/，winced 也读 /t/；同形名词或其他来源另分，不能只看一个 -s 就认成三单。'),
+}
+SAG=[['中古英语 saggen → sag','不平地挂下、下陷；可能借北欧或低地德语，相关下沉材料可比较'],['物体松垮下坠 → 精神、价格等走低','常在重量、松弛之下中间低下去；比喻活力或数值撑不住']]
+W('sag','/sæɡ/','下垂、下陷、松垮；走低、泄气；下垂处',
+ '绳子不绷紧，中间塌低；沙发坐久了凹下去，都像 sag。人的肩、情绪或价格也能像失去支撑一样走低。',
+ '接中古英语 saggen，可能借北欧或低地德语下沉材料，更远与 sink 一系可比较；具体借入路线未定。',SAG,
+ 'the roof sags 是屋顶下坠，spirits sag 是精神泄气，prices sag 是价格走低；a sag in the middle 是中间下垂处。',
+ 'sag under the weight 被重量压得下垂；a sag in the sofa 沙发下陷。',
+ 'sag 更强调软、松或受重之后塌低，fall 只说落下；绳子 sag 时两端通常还连着。',
+ ('The old sofa had begun to sag in the middle.','旧沙发中间已经开始下陷。'),('Our spirits began to sag after hours of waiting.','等了好几个小时，我们开始泄气。'),sources=S('sag','sag'))
+W('sags','/sæɡz/','下垂、下陷、走低〔第三人称单数〕；下垂处〔复数〕',
+ '一个表面、绳子或人的精神撑不住、往下塌，用 sags。名词复数则是几处下垂、凹陷。',
+ 'sag + -s，/ɡ/ 后读 /z/；三单不双写 g，基础短元音保持。',SAG+[['sag + -s → sags','它下坠、走低；多处凹陷']],
+ 'sags in the middle 是中间塌低，sags under pressure 是压力下撑不住；可以写实体，也能写活力。',
+ 'sags under the books 被书压得下垂；sags with age 年久而松垮。',
+ 'sags 与 sinks 可都向下，sags 常还挂着、连着，只是失去挺劲；sinks 更能说整体下沉、沉入。',
+ ('The shelf sags under the weight of the books.','书架被书的重量压得下垂。'),('His energy sags after lunch.','午饭后，他的精神劲就低下去。'),sources=S('sags','sag'))
+W('sagged','/sæɡd/','下垂、下陷了；走低、泄气了',
+ '原来撑着的东西刚才塌低，或肩膀因疲惫、失望垮下来，用 sagged。它能让人看见支撑感消失。',
+ 'sag 双写 g + 完整 -ed → sagged，/ɡ/ 后读 /d/；短元音重读单音节按规则双写。',SAG+[['sag 双写 g + -ed → sagged','过去塌低、下陷或泄气']],
+ 'shoulders sagged 是肩膀垮了，roof sagged 是屋顶下垂，confidence sagged 是信心低落；不全是真掉到地面。',
+ 'sagged in the centre 中央下陷；sagged with relief 松了口气、身子垮下来。',
+ 'sagged 的下垂常渐渐或在受力后发生；snapped 说突然断裂，实体结果不同。',
+ ('Her shoulders sagged when she heard the answer.','听到回答，她的肩膀垮了下来。'),('The old roof sagged in the centre.','旧屋顶中央下陷了。'),sources=S('sagged','sag'))
+W('sagging','/ˈsæɡɪŋ/','正在下垂、下陷；松垮的；低迷、走低的',
+ '绳子、床垫、肩膀正失去支撑塌低，是 sagging；销量、信心等也能用这幅往下撑不住的图景。',
+ 'sag 双写 g + 完整 -ing → sagging；双写保留短元音基础拼写，分词可形容下垂状态。',SAG+[['sag 双写 g + -ing → sagging','塌低过程；松垮、低迷状态']],
+ 'a sagging sofa 是塌陷沙发，sagging sales 是走低销量；a sagging roof 是中间下坠的屋顶。',
+ 'sagging shoulders 垮下的肩；sagging morale 低落士气。',
+ 'sagging 可写数值、士气逐渐下滑，不只写物体；declining 较中性，sagging 更带失去支撑的形象。',
+ ('We replaced the sagging mattress.','我们换掉了塌陷的床垫。'),('The shop was struggling with sagging sales.','店铺正为走低的销量发愁。'),sources=S('sagging','sag'))
+SLUMP=[['十七世纪 slump → 下陷、跌落','可能借北欧语 slumpe、slumpa 等，最后或有拟声基础'],['实体突然塌下 → 人瘫坐、行情低迷','低落、失败的比喻后来常用于经济、比赛或个人状态']]
+W('slump','/slʌmp/','瘫坐、垮下；猛跌、低迷；低迷期、明显下滑',
+ '人累得整个人往椅子里一塌，是 slump；生意、成绩突然掉到低处，也像支撑垮掉。',
+ '可能借北欧语的掉落、下陷材料，较早有陷进泥里等义；后来扩到失败、价格或商业低迷。',SLUMP,
+ 'slump into a chair 是瘫进椅子，a sales slump 是销量低迷；in a slump 是处于低谷，不限定只有经济。',
+ 'a sudden slump 突然大跌；slump forward 身子向前垮下。',
+ 'slump 常比 decline 更有明显下坠、失去活力的感觉；sag 也可低迷，但往往更像渐渐撑不住。',
+ ('He began to slump in his chair after the long journey.','长途旅行后，他开始瘫在椅子里。'),('The team was trying to recover from a slump.','球队正努力走出低迷。'),sources=S('slump','slump'))
+W('slumps','/slʌmps/','瘫坐、垮下、猛跌〔第三人称单数〕；低迷期、下滑〔复数〕',
+ '人累到往下一塌，或销量、状态明显下滑，用 slumps；几个低迷期也可用名词复数。',
+ 'slump + -s，/p/ 后读 /s/；动词三单、低迷期名词复数同形，基础 mp 保留。',SLUMP+[['slump + -s → slumps','他、她瘫坐；它猛跌；多段低迷']],
+ 'slumps onto the sofa 是瘫到沙发上，slumps in demand 是需求的明显下滑；不同词性要看句子结构。',
+ 'slumps forward 身子向前塌；seasonal slumps 季节性低迷。',
+ 'slumps 不只等于懒：姿态可能来自疲劳、失望；商业用法则写表现走低，原因需另说。',
+ ('He slumps onto the sofa after work.','下班后，他瘫到沙发上。'),('The shop has survived several seasonal slumps.','这家店挺过了几次季节性低迷。'),sources=S('slumps','slump'))
+W('slumped','/slʌmpt/','瘫坐、垮下了；猛跌、陷入低迷了',
+ '人刚才像没了骨头一样陷进椅子，或数字、状态一下跌下去，用 slumped。它比普通坐下多了疲惫、无力的画面。',
+ 'slump + 完整 -ed，/p/ 后读 /t/，结尾 /mpt/；mp 两字母后直接加，不双写 p。',SLUMP+[['slump + -ed → slumped','过去塌坐、明显走低']],
+ 'slumped in the chair 是瘫在椅子里，slumped against the wall 是无力靠在墙上；sales slumped 是销量大跌。',
+ 'slumped forward 身子垮向前；slumped to a low point 跌到低点。',
+ 'slumped into a chair 与 sat down 都可说坐，前者让人看见整个身子失去支撑般落下。',
+ ('She slumped into the armchair and closed her eyes.','她瘫进扶手椅，闭上眼睛。'),('Ticket sales slumped after the opening week.','首周之后，门票销量明显下滑。'),sources=S('slumped','slump'))
+W('slumping','/ˈslʌmpɪŋ/','正在垮下、瘫坐、猛跌；低迷的',
+ '身体正往下塌，或表现、需求正明显走低，是 slumping。可以写一个动作，也可形容持续低迷的局面。',
+ 'slump + 完整 -ing，直接加；基础 mp 保留，不双写 p。',SLUMP+[['slump + -ing → slumping','塌下过程；表现明显走低的状态']],
+ 'slumping in a chair 是正垮坐在椅子上，slumping sales 是走低的销量；前者姿势，后者比喻。',
+ 'slumping forward 向前垮下；slumping demand 低迷需求。',
+ 'slumping 比 fluctuating 更有向下、低迷的方向；fluctuating 只说上下波动，不保证走低。',
+ ('He kept slumping forward as he grew tired.','他越来越累，身子总往前垮。'),('The company was struggling with slumping demand.','公司正为低迷需求发愁。'),sources=S('slumping','slump'))
+SLOUCH=[['十六世纪 slouch 名词 → 后来的姿态、动词用法','较早指懒散者，具体来源未定，可能有北欧与松垮材料联系'],['肩、背、头松垮下垂 → no slouch 的夸赞','名词先有指人用途，no slouch 是说并非没本领、很拿手']]
+W('slouch','/slaʊtʃ/','松垮地坐、站、走；耷肩弓背；懒散者；〔no slouch〕有本领的人',
+ '肩往前塌、背不挺，坐站走都有点松松垮垮，是 slouch。说 she is no slouch at tennis 则是在夸：她打网球可不差。',
+ '较早 slouch 名词指懒散、笨拙的人，来源未定，或联系北欧、slack 的松垮材料；姿态与动词后来发展。',SLOUCH,
+ 'slouch in a chair 是垮坐椅子上，slouch along 是没精打采地走；be no slouch at something 是某事做得很拿手。',
+ 'a habitual slouch 习惯性的弓背垮肩；no slouch at cooking 厨艺不错。',
+ 'slouch 主要描写松垮姿态，不单靠它判定能力；no slouch 恰好是夸有本事，别只按懒散者直译。',
+ ('I tend to slouch when I sit for too long.','坐久了，我容易垮肩弓背。'),('She is no slouch at chess.','她下棋可不差。'),sources=S('slouch','slouch'))
+W('slouches','/ˈslaʊtʃɪz/','松垮地坐站走〔第三人称单数〕；懒散者、垮肩姿态〔复数〕',
+ '说一个人坐着肩背垮下、走路没精打采，用 slouches；名词复数也可评价几个人是否有本事。',
+ 'slouch + -es，/tʃ/ 后读 /ɪz/，多一个音节；动词三单与名词复数同形。',SLOUCH+[['slouch + -es → slouches','他、她松垮坐站走；多人、姿态的名词用法']],
+ 'slouches at his desk 是垮着肩背坐桌前；they are no slouches 是他们并非庸手，常是夸赞。',
+ 'slouches in the seat 在座位上垮坐；no slouches at the job 做这份工作都有两下子。',
+ 'slouches 在 no slouches 中是指人名词，不是每个 -es 都意味着主语 he、she；句型决定词性。',
+ ('He slouches at his desk when he is tired.','他一累，就在桌前垮肩弓背地坐。'),('They are no slouches when it comes to repairing bikes.','修自行车，他们都很有两下子。'),sources=S('slouches','slouch'))
+W('slouched','/slaʊtʃt/','松垮地坐、站、走了；弓背垮肩的',
+ '刚才人肩背垮着、没有挺直地坐走，用 slouched。不是突然摔下，而是松散、不挺的姿态。',
+ 'slouch + 完整 -ed，/tʃ/ 后读 /t/，结尾 /tʃt/；不加 /ɪd/。',SLOUCH+[['slouch + -ed → slouched','过去垮坐、松垮走；已有弓背姿态']],
+ 'slouched in the chair 是垮坐椅子里，slouched along the road 是没精打采走；可形容持续的姿态。',
+ 'slouched over his desk 弓背伏桌；slouched against the wall 松垮靠墙。',
+ 'slouched 偏松垮姿势，slumped 常更有身子无力地一下塌进椅子的动作；叙述画面略不同。',
+ ('He slouched along the pavement with his hands in his pockets.','他手插口袋，没精打采地沿人行道走。'),('She sat slouched in an old armchair.','她垮着肩背坐在旧扶手椅里。'),sources=S('slouched','slouch'))
+W('slouching','/ˈslaʊtʃɪŋ/','正在松垮地坐站走；垮肩弓背的姿势',
+ '肩、背正松松垮垮地低着，或人没精打采走，是 slouching。可以说眼前动作，也可把这种姿态当一类习惯。',
+ 'slouch + 完整 -ing，直接加；ch 的 /tʃ/ 保留，整个动词再接表示过程、状态的词尾。',SLOUCH+[['slouch + -ing → slouching','松垮坐站走的过程、姿态']],
+ 'slouching in a chair 是垮坐，slouching towards the door 是没精打采走向门口；不用把全部姿态归成永久特征。',
+ 'slouching at the desk 桌前垮肩弓背；a slouching figure 松垮的人影。',
+ 'slouching 与 crouching 不同：前者姿态松垮，后者常弯膝、主动把身体压低，可能很有准备。',
+ ('He was slouching in the back seat.','他正垮着肩背坐在后座。'),('We saw a figure slouching towards the gate.','我们看见一个人没精打采地走向大门。'),sources=S('slouching','slouch'))
+HUNCH=[['较早 hunch 推、顶 → 弓起、耸肩蜷身','来源未定，与 bunch、hump 等的联系属于不同分析'],['推、提示的名词 → 直觉、预感','像有一点力量把判断往某方向推；不等于已有充分证据']]
+W('hunches','/ˈhʌntʃɪz/','直觉、预感〔复数〕；弓背、缩肩〔第三人称单数〕',
+ '几次隐约觉得会这样，是 hunches；人把肩抬起、背弓起来，也可用同形动词。一个是判断感觉，一个是身体动作。',
+ 'hunch + -es，/tʃ/ 后读 /ɪz/。直觉名词联系提示、推动判断等旧义，弓身动词则沿身体姿态分支继续用。',HUNCH+[['hunch + -es → hunches','多次预感；他、她弓背缩肩']],
+ 'act on hunches 是凭直觉行动，hunches his shoulders 是缩起肩膀；词性与宾语能直接分清两义。',
+ 'follow your hunches 跟着直觉；hunches over the desk 弓身伏桌。',
+ 'hunches 是有待核实的直觉，evidence 是证据；hunches his shoulders 只交代姿态，不表示正在猜事情。',
+ ('Some of her best ideas began as hunches.','她一些最好的点子最初都只是直觉。'),('He hunches his shoulders against the cold.','他缩起肩膀抵挡寒意。'),sources=S('hunches','hunch'))
+W('hunched','/hʌntʃt/','弓背、缩肩了；弓着身子、缩肩的',
+ '肩抬起来、身体往前弓成一团，是 hunched。可能在避风、靠近桌面或专注做事，重点是身体弯起。',
+ 'hunch + 完整 -ed，/tʃ/ 后读 /t/；可过去式、过去分词，也能修饰弓着的姿势。',HUNCH+[['hunch + -ed → hunched','已经弓身、缩肩的动作或状态']],
+ 'hunched over a laptop 是弓身伏在笔记本电脑前，hunched shoulders 是缩起的肩；与直觉名词不混。',
+ 'hunched against the wind 缩身抵风；hunched over a book 弓身看书。',
+ 'hunched 常把背弓、肩缩的形状说出来；bent over 更广，只交代身子弯过来。',
+ ('She sat hunched over her laptop.','她弓着身子坐在笔记本电脑前。'),('He hunched his shoulders as the cold wind hit him.','冷风吹来，他缩起肩膀。'),sources=S('hunched','hunch'))
+W('hunching','/ˈhʌntʃɪŋ/','正在弓背、缩肩蜷身',
+ '身体正一点点弓起、肩正向上缩，叫 hunching。像把身体收小、前背弯起来的动作。',
+ 'hunch + 完整 -ing，直接加；ch 保留 /tʃ/，词尾表示姿态动作展开。',HUNCH+[['hunch + -ing → hunching','弓起背、缩肩的过程']],
+ 'hunching over the table 是正弓身伏桌，hunching his shoulders 是正缩肩；常接 over 或具体身体部位。',
+ 'hunching against the cold 缩身避寒；hunching over the screen 弓身凑近屏幕。',
+ 'hunching 动词讲身体形状，having a hunch 才是有直觉；同形基础里的两条现代用法由句型分开。',
+ ('He was hunching his shoulders against the wind.','他正缩着肩膀抵风。'),('She caught herself hunching over the screen.','她发现自己又弓身凑到屏幕前了。'),sources=S('hunching','hunch'))
+STOOP=[['弯腰支线：古英语 stupian → 中古英语 stoupen → stoop','身子向前、向下弯；后来比喻降低身份、标准'],['门前平台名词：荷兰语 stoep → 北美英语 stoop','门阶、入口前的小平台，联系踏步材料；不从弯腰动词直接造出']]
+W('stoop','/stuːp/','弯腰、俯身；自降身份做某事；门前台阶、小平台',
+ '想捡地上的东西，身子往前向下一弯，是 stoop；stoop to insults 像把做人标准也降下去，表示屈尊去辱骂。北美门前台阶又叫 a stoop。',
+ '弯腰动词承古英语 stupian。门前台阶名词另借荷兰语 stoep，联系 step 的踏步材料，两条近源分开。',STOOP,
+ 'stoop to pick something up 是弯腰捡东西，stoop to lying 是自降标准去撒谎；sit on the stoop 是坐在门前台阶上。',
+ 'stoop under a low doorway 低门口下弯身；a front stoop 门前台阶。',
+ 'stoop to doing something 常带不屑、认为那样做低级的评价；弯腰取物则只是身体动作。',
+ ('She had to stoop to pick up the coin.','她得弯腰捡起硬币。'),('They sat on the stoop and talked to their neighbours.','他们坐在门前台阶上，跟邻居聊天。'),sources=S('stoop','stoop'))
+W('stoops','/stuːps/','弯腰、屈尊做某事〔第三人称单数〕；门前台阶平台〔复数〕',
+ '人前俯去捡东西，用 stoops；几栋房子门前的平台、台阶，也可叫 stoops，属于另一条名词来源。',
+ '弯腰动词或门前平台名词 stoop + -s，/p/ 后读 /s/；近源不同的同形词都能按规则加 s。',STOOP+[['stoop + -s → stoops','他、她弯腰；多个门前平台']],
+ 'stoops to enter 是弯身进入，stoops to threats 是自降身份用威胁手段；front stoops 是几处门前台阶。',
+ 'stoops over the table 俯身伏桌；neighbours on their stoops 坐在各家门阶上的邻居。',
+ 'stoops 的台阶义联系踏步，弯腰义联系俯身；同形的两个词不能只按一个动作画面推全部。',
+ ('He stoops to get through the low doorway.','他弯身穿过低矮门口。'),('Neighbours sat on their stoops in the evening.','傍晚，邻居们坐在各家的门前台阶上。'),sources=S('stoops','stoop'))
+W('stooped','/stuːpt/','弯腰、俯身了；肩背前倾的；屈尊做了某事',
+ '刚才身体往前向下弯，或一个人的肩背常向前倾，叫 stooped。后接 to doing 则可能是自降标准的比喻。',
+ 'stoop + 完整 -ed，/p/ 后读 /t/；oo 是长元音，不双写 p，只有一个音节。',STOOP+[['stoop + -ed → stooped','过去弯腰；前倾姿态；降低身份的比喻']],
+ 'stooped to pick it up 是弯腰捡起它，stooped shoulders 是前倾的肩背；stooped to cheating 是竟自降标准去作弊。',
+ 'stooped over a desk 弓身伏桌；slightly stooped 稍稍前倾。',
+ 'stooped 可只写姿态，slumped 更像没力气地一塌；不能仅因身子低，就都解释成相同动作。',
+ ('She stooped to tie her shoelace.','她弯腰系鞋带。'),('He had never stooped to personal insults during a debate.','他辩论时从不自降身份去做人身辱骂。'),sources=S('stooped','stoop'))
+W('stooping','/ˈstuːpɪŋ/','正在弯腰、俯身；前倾的；正在自降标准做某事',
+ '身子正从直立向前、向下弯，是 stooping；道德、尊严的比喻则像把自己的位置往下压。',
+ 'stoop + 完整 -ing，直接加；oo 长元音保留，不双写 p。',STOOP+[['stoop + -ing → stooping','俯身过程；降低身份、标准的比喻']],
+ 'stooping under a beam 是弯身过梁，stooping to threats 是竟用起威胁；前者空间低，后者评价做法低。',
+ 'a stooping figure 肩背前倾的人影；stooping over the sink 弯身俯在水槽上。',
+ 'stooping 常更突出弯腰前俯，crouching 常弯膝把全身压低；实际动作可能有重合，不是严格姿势分类。',
+ ('She entered the room, stooping under the low beam.','她弯身从低梁下走进房间。'),('He accused them of stooping to threats.','他指责他们竟然自降身份使用威胁。'),sources=S('stooping','stoop'))
+CROUCH=[['中古英语 crouch 一系，可能借古法语 crochir','变弯、钩形材料；具体借入保留可能性'],['屈腿、弯身压低 → 蹲伏姿态名词','可准备、查看低处、躲藏；不限定一种情绪']]
+W('crouch','/kraʊtʃ/','蹲低、蹲伏；使身体压低；蹲伏姿态',
+ '膝盖弯下、上身也低下去，像猫准备扑、人在低处看东西，叫 crouch。重点是把整个身体压低。',
+ '可能借古法语 crochir 变弯，联系 croche 钩的材料；后来名词表示这样的蹲伏姿态。',CROUCH,
+ 'crouch down 是蹲低，crouch behind the wall 是蹲伏墙后，in a low crouch 是保持低低蹲伏的姿态。',
+ 'crouch to look closer 蹲低看清；crouch beside the child 在孩子旁蹲下。',
+ 'crouch 不一定因为害怕：摄影、准备起跑、看低处都能主动蹲低；cower 更容易带畏惧、退缩。',
+ ('She had to crouch to look under the table.','她得蹲低，才能看桌子下面。'),('The player moved forward in a low crouch.','球员保持低蹲姿态向前移动。'),sources=S('crouch','crouch'))
+W('crouches','/ˈkraʊtʃɪz/','蹲低、蹲伏〔第三人称单数〕；蹲姿〔复数〕',
+ '说人或动物弯腿、压低身体，用 crouches。它可以是有意准备动作，不等于松松垮垮没有精神。',
+ 'crouch + -es，/tʃ/ 后读 /ɪz/，多一个音节；相应姿态名词也可有复数。',CROUCH+[['crouch + -es → crouches','他、她或它压低蹲伏；多个蹲姿']],
+ 'crouches behind the sofa 是蹲伏在沙发后，crouches beside the flower 是蹲在花旁；常由位置短语展开画面。',
+ 'crouches low 蹲得低；crouches ready to jump 蹲伏准备跳。',
+ 'crouches 强调压低身体，slouches 强调肩背松垮；猫准备扑时 crouches 可能十分警觉、有力。',
+ ('The cat crouches before it jumps.','猫跳前会蹲伏。'),('He crouches beside the plant to examine the leaves.','他蹲在植物旁，查看叶子。'),sources=S('crouches','crouch'))
+W('crouched','/kraʊtʃt/','蹲低、蹲伏了；处于蹲伏姿态的',
+ '身体已经弯腿压低，或叙述刚才蹲下的动作，用 crouched。可以为了隐藏，也可以为了靠近较低的东西。',
+ 'crouch + 完整 -ed，/tʃ/ 后读 /t/，结尾 /tʃt/；不是 /tʃɪd/。',CROUCH+[['crouch + -ed → crouched','过去蹲下；已经压低的姿态']],
+ 'crouched down 是蹲下了，crouched behind the box 是蹲伏箱后；后者既可动作，也可处于某个姿态。',
+ 'crouched beside him 蹲在他旁边；crouched low in the grass 低伏草中。',
+ 'crouched 把蹲低说出来，bent 只泛指弯曲；不说明弯了哪里、降得多低。',
+ ('She crouched beside the child to speak to him.','她蹲在孩子旁边跟他说话。'),('The cat crouched low in the grass.','猫低低蹲伏在草里。'),sources=S('crouched','crouch'))
+W('crouching','/ˈkraʊtʃɪŋ/','正在蹲低、蹲伏；低蹲的姿态',
+ '人、动物正把身体弯低，或一直保持蹲伏，是 crouching。可能灵活、有准备，也可能是在躲避。',
+ 'crouch + 完整 -ing，直接加；ch 的 /tʃ/ 保留，不双写 h。',CROUCH+[['crouch + -ing → crouching','蹲低过程；保持压低姿势']],
+ 'a crouching figure 是蹲伏人影，crouching behind a wall 是在墙后低伏；可作分词，也能直接修饰姿态。',
+ 'crouching on the floor 蹲在地上；crouching to take a photo 蹲低拍照。',
+ 'crouching 与 kneeling 不一样：kneeling 明确用膝盖着地，crouching 只说明身体弯低、常屈腿，不必膝盖落地。',
+ ('The photographer was crouching to get a lower angle.','摄影师正蹲低，想取低一点的角度。'),('We saw a crouching figure behind the wall.','我们看见墙后一个蹲伏的人影。'),sources=S('crouching','crouch'))
+FLINCH=[['较早中古英语 flecche 等，联系法语 flechir、flenchir 弯、转开 → flinch','英语形式或加鼻音，更远有日耳曼来源分析；保留可能性'],['转开、退让 → 受惊、受痛的一缩；心理畏缩','身体可以突然动一下，抽象任务也可让人退缩']]
+W('flinch','/flɪntʃ/','突然一缩、畏缩、退缩；一缩的动作',
+ '眼前东西突然逼近，身体下意识缩一下，叫 flinch；面对难办的事退缩，也像被压力逼得向后让。',
+ '可能接较早 flecche 及法语弯、转开的材料，英语形式有鼻音变化；更远与 link 的弯曲、转向词族可比较。',FLINCH,
+ 'flinch at a loud noise 是被巨响惊得一缩，flinch from a difficult task 是畏缩不敢做；without a flinch 是毫不退缩。',
+ 'flinch in pain 痛得一缩；not flinch from responsibility 不逃避责任。',
+ 'flinch 常描写突然、短暂的一缩，不一定真躲开或逃走；run away 则是离开现场的动作。',
+ ('He did not flinch when the balloon burst.','气球爆开时，他连缩都没缩一下。'),('She refused to flinch from a difficult conversation.','她不肯回避一场艰难的谈话。'),sources=S('flinch','flinch'))
+W('flinches','/ˈflɪntʃɪz/','突然一缩、畏缩、退缩〔第三人称单数〕',
+ '一个人听到突响、看到东西逼近，下意识缩一下，用 flinches。也能写遇到不舒服的任务就退让。',
+ 'flinch + -es，/tʃ/ 后读 /ɪz/；有鼻音 n 的完整基础词不再拆成现代 fl- 加某个现成词。',FLINCH+[['flinch + -es → flinches','他、她受惊一缩或心理退缩']],
+ 'flinches at every sound 是每逢声音就一缩，never flinches from a challenge 是从不躲挑战；from 提示要退避的对象。',
+ 'flinches instinctively 本能地一缩；flinches under pressure 压力下退缩。',
+ 'flinches 是可很小、很快的动作；cowers 常更像持续缩起身体、畏惧躲着，时间和姿态不同。',
+ ('She flinches at every sudden noise.','每逢突响，她就惊得一缩。'),('He never flinches from an awkward question.','他从不回避难堪的问题。'),sources=S('flinches','flinch'))
+W('flinched','/flɪntʃt/','受惊、受痛一缩了；畏缩、退让了',
+ '刚才身体被刺激得猛缩一下，叫 flinched；说话、行为中遇到困难而退让，也能用它。',
+ 'flinch + 完整 -ed，/tʃ/ 后读 /t/，结尾 /ntʃt/；不多一个 /ɪd/ 音节。',FLINCH+[['flinch + -ed → flinched','过去一缩或退避']],
+ 'flinched at the crash 是被巨响惊得一缩，flinched from telling the truth 是畏缩不敢说真话；不必真的有物体逼近。',
+ 'flinched backwards 猛地向后一缩；barely flinched 几乎没缩。',
+ 'flinched 是短促反应，jumped back 常更明显向后跳；具体动作幅度不能只用一个中文怕字抹平。',
+ ('He flinched as the ball flew past his face.','球从脸旁飞过时，他猛地一缩。'),('She flinched at the sharp bang behind her.','身后一声尖响，她惊得一缩。'),sources=S('flinched','flinch'))
+W('flinching','/ˈflɪntʃɪŋ/','正在一缩、畏缩；退避的动作',
+ '身体正因刺激往回缩，或人遇到压力想退让，是 flinching。without flinching 则常夸人稳住、没缩没退。',
+ 'flinch + 完整 -ing，直接加；ch 的 /tʃ/ 保留，分词和活动名词都接整个基础词。',FLINCH+[['flinch + -ing → flinching','突然一缩、退避的过程']],
+ 'without flinching 是毫不畏缩，flinching at every movement 是对每个动作都惊得缩；不等于总在大喊。',
+ 'flinching away 向后缩开；without flinching from the truth 不躲避真相。',
+ 'without flinching 可以说面对批评、坏消息很坚定；它关注有没有退缩，未必说明心里完全没痛苦。',
+ ('She accepted the criticism without flinching.','她毫不退缩地接受了批评。'),('He kept flinching whenever the dog moved.','狗一动，他就总往回缩。'),sources=S('flinching','flinch'))
+WINCE=[['中古英语 winchen、wincen，联系法语转开、避让材料 → wince','中间法语及更远日耳曼形式有重建分析；较早用于马的退缩'],['突然退缩 → 人受痛、难堪的一皱一缩','现代常把面部短促反应写出来，也能写对价格、尴尬场面的反应']]
+W('wince','/wɪns/','因疼痛、难堪而一皱一缩；痛得咧嘴；这样的表情',
+ '疼一下、听到难堪的话或看到贵得吓人的价格，脸上不由得一皱、咧一下，叫 wince。动作通常很短，不一定说出声。',
+ '接中古英语 winchen、wincen，联系法语转开、避让材料，更远有日耳曼来源分析；较早也写马受刺激退缩。',WINCE,
+ 'wince in pain 是痛得皱脸，wince at the price 是看到价格难受地咧嘴；with a wince 是带着一皱一缩的表情。',
+ 'wince at the memory 想起那事难堪地一皱；give a wince 脸一皱。',
+ 'wince 常突出疼、难堪时面部的一缩，flinch 更容易让人看见身体突然避让；两者反应可同时发生。',
+ ('I could not help but wince at the price.','看到价格，我忍不住咧了咧嘴。'),('She sat down with a wince.','她坐下时痛得脸一皱。'),sources=S('wince','wince'))
+W('winces','/ˈwɪnsɪz/','痛得、难堪得脸一皱〔第三人称单数〕；皱脸反应〔复数〕',
+ '某人一被碰到痛处、听到难堪内容，脸就短促皱一下，用 winces。反应可以小到只在脸上。',
+ 'wince + -s，保留 e，基础 /s/ 后词尾读 /ɪz/；动词三单与相应动作名词复数同形。',WINCE+[['wince + -s → winces','他、她痛或难堪地一皱；数次皱脸反应']],
+ 'winces at the cost 是看花费就咧嘴，winces when touched 是碰到就痛得一缩；原因由后面的内容给出。',
+ 'winces in pain 痛得脸一皱；winces at the joke 对尴尬笑话不适地一皱。',
+ 'winces 的 c 读 /s/，不是 /tʃ/；与 winch 绞盘的 /wɪntʃ/ 在现代词义、读音上都分开。',
+ ('He winces whenever the strap presses on his shoulder.','背带一压到肩膀，他就痛得脸一皱。'),('She winces at the memory of that awkward speech.','想起那场尴尬讲话，她就难堪地一皱脸。'),sources=S('winces','wince'))
+W('winced','/wɪnst/','痛得、难堪得一皱一缩了',
+ '刚才疼、尴尬或心疼钱的一下，脸上露出短促皱缩，叫 winced。常用小表情让读者感到不舒服。',
+ 'wince 去 e + 完整 -ed，/s/ 后读 /t/，结尾 /nst/；只有一个音节。',WINCE+[['wince 去 e + -ed → winced','过去因痛、难堪等一皱一缩']],
+ 'winced with pain 是痛得脸一皱，winced at the bill 是看到账单直咧嘴；可以不是真正身体受伤。',
+ 'winced slightly 微微一皱脸；winced at the remark 听到话难堪地一皱。',
+ 'winced 常写一瞬间的表情反应，was in pain 只描述处于疼痛状态；时间、动作的画面不同。',
+ ('He winced as he lifted the heavy bag.','他提起重袋子，痛得脸一皱。'),('She winced when she saw the repair bill.','她看到修理账单，心疼得咧了咧嘴。'),sources=S('winced','wince'))
+W('wincing','/ˈwɪnsɪŋ/','正在因痛、难堪一皱一缩；皱脸的',
+ '脸正因不舒服短促皱起，或人一边疼得咧嘴一边做事，是 wincing。常作伴随动作，让一个小表情把感受说出来。',
+ 'wince 去 e + 完整 -ing，c 后接 i 仍读 /s/；基础词末尾 /s/ 接 /ɪŋ/，不多出 /tʃ/。',WINCE+[['wince 去 e + -ing → wincing','因痛、难堪皱缩的过程或表情']],
+ 'wincing in pain 是正痛得皱脸，wincing at the cost 是看费用心疼咧嘴；可以修饰人，也可以作伴随状语。',
+ 'a wincing smile 带痛苦或难堪的笑；wincing as he moves 动一下就皱脸。',
+ 'wincing 不一定是连续保持一个鬼脸，也可是一小次次短促反应；grimacing 更广地说扭曲脸部表情。',
+ ('He stood up slowly, wincing in pain.','他慢慢站起，痛得脸直皱。'),('Wincing at the price, she put the coat back.','她看到价格心疼得咧嘴，把外套放了回去。'),sources=S('wincing','wince'))
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zfj',ROOTS,WORDS)
+ extend_lessons()

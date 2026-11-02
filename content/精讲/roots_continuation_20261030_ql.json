@@ -1,0 +1,133 @@
+[
+  {
+    "id": "A1756",
+    "meaning": "常指动作接受方；也有已固定的参与者等词",
+    "core": "EE：常把镜头移到接受这件事的一方，具体仍看整词",
+    "image": "面试桌两边，interviewer 发问，interviewee 回答；付款时 payer 给出，payee 接收。先把箭头方向画在脑中。",
+    "intro": "英语常见的受动人物 -ee，承盎格鲁法语 -é 分词名词化材料，早在正式、法律语境与 -or 人物名配对。后来用法扩大，retiree、attendee、escapee 等不能一概译成被某人怎样的人。法语女性名词 -ée，如 fiancée，又要分清其词形传统。",
+    "forms": "employ + -ee → employee；train + -ee → trainee；interview + -ee → interviewee；grantor 给出／grantee 接受。-ee 常带重音，但 committee 委员会、部分其他词有自己的固定重音。squeegee 是工具，goatee 是山羊胡，settee 是长椅，不能看见 ee 就都找受动的人。\n\n准许、给予的借词形成 granted，也常有承认某点的表达。\n\n法语准予、保证材料经中古英语，较早联系相信词族，部分具体来源有不同分析。\n\n拉丁 committere 的多支历史；现代双写 t 加完整 ing。\n\n受托、被信任去照管事务者是 trustee。-ee 在此标受托的一方，不能把所有 -ee 词都机械翻译成被动动作。复数加 -s，重音仍在末音节。",
+    "branches": [
+      [
+        "给出与接收方向",
+        "employer · employee；interviewer · interviewee；payer · payee；grant · grantor · grantee"
+      ],
+      [
+        "培训、接纳与身份",
+        "train · trainee；induct · inductee；nominee · appointee · retiree"
+      ],
+      [
+        "不是一律被动",
+        "attendee · escapee · absentee；committee · referee · trustee"
+      ],
+      [
+        "同形字尾另看历史",
+        "divorce · divorced · divorcee；fiance · fiancee；squeeze · squeegee"
+      ],
+      [
+        "grant → granted：准予与承认",
+        "grant · granted"
+      ],
+      [
+        "grant → grants：准予与给出去的资助",
+        "grant · grants"
+      ],
+      [
+        "commit → committing：交托、投入、实施",
+        "commit · committing"
+      ],
+      [
+        "trust + -ee → trustee → trustees",
+        "trustees"
+      ]
+    ],
+    "contrasts": "employee 雇员／employer 雇主；interviewee 被面试者／interviewer 面试官；grantor 授予方／grantee 接受方；fiance 未婚夫／fiancee 未婚妻。escapee 是逃走的人，不能因 -ee 反译成被逃走的人。",
+    "practice": "The interviewer welcomed the interviewee, while a trainee took notes.\n\n面试官欢迎了应聘者，一位受训人员在旁记笔记。",
+    "words": [
+      "employ",
+      "employer",
+      "employee",
+      "interview",
+      "interviewer",
+      "interviewee",
+      "train",
+      "trainer",
+      "trainee",
+      "pay",
+      "payer",
+      "payee",
+      "grant",
+      "grantor",
+      "grantee",
+      "induct",
+      "induction",
+      "inductee",
+      "nominate",
+      "nominee",
+      "appoint",
+      "appointee",
+      "retire",
+      "retiree",
+      "attend",
+      "attendee",
+      "absent",
+      "absentee",
+      "address",
+      "addressee",
+      "detain",
+      "detainee",
+      "devote",
+      "devotee",
+      "trust",
+      "trustee",
+      "refer",
+      "referee",
+      "commit",
+      "committee",
+      "license",
+      "licensee",
+      "franchise",
+      "franchisee",
+      "honour",
+      "honoree",
+      "award",
+      "awardee",
+      "assign",
+      "assignee",
+      "adopt",
+      "adoptee",
+      "invite",
+      "invitee",
+      "transfer",
+      "transferee",
+      "return",
+      "returnee",
+      "sign",
+      "signee",
+      "escape",
+      "escapee",
+      "mortgage",
+      "mortgagee",
+      "divorce",
+      "divorced",
+      "divorcee",
+      "fiance",
+      "fiancee",
+      "squeeze",
+      "squeegee",
+      "goatee",
+      "settee",
+      "granted",
+      "grants",
+      "committing",
+      "trustees"
+    ],
+    "exclude": {
+      "pawnee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "designee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "parolee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bailee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "assessee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loanee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

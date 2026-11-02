@@ -5,7 +5,7 @@
     "core": "NASC / NAT = BE BORN",
     "image": "嫩芽长出来 → 生来带着什么 → 从哪里来、与谁同源",
     "intro": "**nasc-/nat- 的起点很朴素：一个生命出生，或一个新东西长出来。** 拉丁语 nāscī 是“出生、生长”，nātus 是同族的“已出生”形态。出生时带来的样子，可以成为 nature“本性”；按出生和出身联系起来的人群，走向 nation；刚刚形成的事物，则是 nascent。先抓住这个动作，再看每个分支怎样发展。",
-    "forms": "**nasc-、nat- 和 gn- 是历史留下的不同形态。** nascent 保留“正在出生”的形式；natal、native 保留 nat-；cognate、agnate 一类还看得到旧的 gn-。法语 naître“出生”、né / née“出生的”以及 renaissance“重生”也来自这一支。pregnant 的远源解释带有不确定性；不要把看起来相似的字母自动拼成一段确定历史。",
+    "forms": "**nasc-、nat- 和 gn- 是历史留下的不同形态。** nascent 保留“正在出生”的形式；natal、native 保留 nat-；cognate、agnate 一类还看得到旧的 gn-。法语 naître“出生”、né / née“出生的”以及 renaissance“重生”也来自这一支。pregnant 的远源解释带有不确定性；不要把看起来相似的字母自动拼成一段确定历史。\n\nnation 经法语接拉丁 nātiō，较早联系出生、出身人群；现代国家、民族等称谓要按政治、文化场景理解。\n\nnational 接 nation + -al 等材料，远连拉丁 natio 出生、族群。名词复数 nationals 常说某国国民，也可在体育里指全国比赛。\n\nnative 经法语、拉丁 nativus 出生而有的、natus 已出生，现代作人、原生物名词加 -s；形容词 native 本身不变复数。\n\nnaïve 接法语 naïve、naïf 与拉丁 nativus 生来的、天然词族。ï 表示分开读，英语不按被修饰者性别改变词形。",
     "branches": [
       [
         "出生与新生",
@@ -30,6 +30,22 @@
       [
         "共同出生与亲缘",
         "cognate · agnate · enate · connate"
+      ],
+      [
+        "nation → nations：出生、出身词族的人群名称",
+        "nation · nations"
+      ],
+      [
+        "nat- 出生、族群 → national → nationals",
+        "nationals"
+      ],
+      [
+        "nat- 出生 → native → natives",
+        "natives"
+      ],
+      [
+        "nat- 出生、天然 → naïve",
+        "naïve"
       ]
     ],
     "contrasts": "**nature / nation**：nature 看“事物本来是什么样”；nation 看“一个人群怎样形成共同体”。它们共享出生的远源，却不能彼此替换。\n\n**native / naive**：都能追到拉丁语 nātīvus；native 多说本地、天生，naive 经法语发展出质朴、缺乏经验的意思。同源不等于同义。\n\n**nationalize / naturalize**：前者是国有化；后者可指使入籍、使植物归化。对应名词 nationalization / naturalization 也必须分清。\n\n**naturalist / naturist**：naturalist 常研究、观察自然；naturist 主要指崇尚自然裸体生活方式的人。少一个 al，身份就变了。\n\n**adnate / connate**：植物学里常用前者说不同类别器官贴生，后者说同类器官合生；不能都含糊地背成“长在一起”。\n\n**impregnable**：普通义“坚不可摧”来自“不能攻取”，属于另一条词源。这里只连带说明其罕见的 impregnate 派生同形义，绝不能把坚固城堡解释成“不怀孕”。\n\n**nada**：西班牙语“没有什么”背后有拉丁语“出生之物”在否定表达中的特殊历史。这是一段语言用法变化，不能按字面把出生直接等同于没有。",
@@ -119,7 +135,11 @@
       "naturalize",
       "nee",
       "neonatal",
-      "neonate"
+      "neonate",
+      "nations",
+      "nationals",
+      "natives",
+      "naïve"
     ]
   }
 ]

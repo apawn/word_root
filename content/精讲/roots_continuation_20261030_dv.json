@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B3099",
+    "meaning": "粗糙、不顺与未经精修的大概",
+    "core": "ROUGH：表面没磨平，后来也说行动、日子和估计不顺不精",
+    "image": "rough → roughly；roughshod 保留蹄铁与蛮横践踏的旧形象。",
+    "intro": "roughly 大约和粗暴地要靠修饰对象判断；roughshod 的 shod 是 shoe 的分词，不是枪声 shot。",
+    "forms": "rūh、rūg → rough；rough + -ly；rough + shod → roughshod。",
+    "branches": [
+      [
+        "性质与方式、估计",
+        "rough · roughly"
+      ],
+      [
+        "蹄铁到强压的习语",
+        "roughshod"
+      ]
+    ],
+    "contrasts": "rough draft 草稿非坏文章定论；roughly an hour 大约，handled roughly 粗暴；ride roughshod over 不顾强压。",
+    "practice": "The rough draft was roughly five pages long.\n\n草稿大约五页长。",
+    "words": [
+      "rough",
+      "roughly",
+      "roughshod"
+    ],
+    "exclude": {
+      "rough-hew": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2935",
+    "meaning": "价低与低劣感；省钱和吝啬要分开",
+    "core": "CHEAP：先是划算买卖，后来有时带“掉价”的评价",
+    "image": "cheap → cheaply、cheapness、cheapen；cheapskate 命名被批评过于小气的人。",
+    "intro": "低价可以是好事，廉价感、吝啬则是评价。看对象和语气，不能把所有 cheap 一概译成质量差。",
+    "forms": "cēap 买卖、价钱 → good cheap 划算 → cheap；cheap + -ly/-ness/-en；cheapskate 后项俚语来源不定。\n\ncheap 来自古英语 cēap 买卖、价钱词族，现代比较级主要比价格，质量评价须看语境。",
+    "branches": [
+      [
+        "低价、方式、性质与贬低",
+        "cheap · cheaply · cheapness · cheapen"
+      ],
+      [
+        "人物贬称",
+        "cheapskate"
+      ],
+      [
+        "cheap → cheaper → cheapest：价格低与划算买卖",
+        "cheap · cheaper · cheapest"
+      ]
+    ],
+    "contrasts": "cheap/inexpensive 低价与可能的低质暗示；cheapen 非每次 discount；frugal 节俭与 cheapskate 小气鬼；后项非溜冰故事。",
+    "practice": "The tickets were cheap, so we could travel cheaply.\n\n票便宜，我们就能省钱出行。",
+    "words": [
+      "cheap",
+      "cheaply",
+      "cheapness",
+      "cheapen",
+      "cheapskate",
+      "cheaper",
+      "cheapest"
+    ],
+    "exclude": {
+      "cheapo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

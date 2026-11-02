@@ -1,0 +1,56 @@
+[
+  {
+    "id": "B3409",
+    "meaning": "规则、符号编码与计算机代码",
+    "core": "CODE：按规则表达信息，也可收集成规则体系",
+    "image": "先看 code、coding、coder，再配对 encode 与 decode；recode、codebase 继续扩展，codify 走成文规则，codon 走遗传编码。",
+    "intro": "code 经法语接拉丁书册、法典词，符号系统与计算机指令是后来扩展。生物 codon 为现代 code+-on，冷门希腊钟形同形词不混讲。",
+    "forms": "code → coding、coder；en-、de-、re- → encode、decode、recode；code + base → codebase；-ify → codify；-on → codon。\n\n法语接拉丁 codex，现代规则、密码、程序等义继续发展。\n\n代码用于放行，不限制为某一种固定长度或字符类型。",
+    "branches": [
+      [
+        "基本词、活动与主体",
+        "code · coding · coder"
+      ],
+      [
+        "编码、解码与重编码",
+        "encode · decode · recode"
+      ],
+      [
+        "代码集合与成文规则",
+        "codebase · codify"
+      ],
+      [
+        "遗传与已有代码复合",
+        "codon · codeword · codename · postcode · passcode"
+      ],
+      [
+        "code → codes：书册、法典到规则与符号体系",
+        "code · codes"
+      ],
+      [
+        "code 的通行、解锁组合及复数",
+        "passcode · passcodes"
+      ]
+    ],
+    "contrasts": "encode 不等于 encrypt；codify 不必写软件；codebase 不是 database；codon 是三核苷酸单位，不是整个基因。",
+    "practice": "The coder decoded the data before adding it to the codebase.\n\n程序员先解码数据，再把它加入代码库。",
+    "words": [
+      "code",
+      "coding",
+      "coder",
+      "encode",
+      "decode",
+      "recode",
+      "codebase",
+      "codify",
+      "codon",
+      "codeword",
+      "codename",
+      "postcode",
+      "passcode",
+      "codes",
+      "passcodes"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "word": "managed",
+    "ipa": "/ˈmænɪdʒd/",
+    "meaning": "管理、处理过；设法做到了；受管理的",
+    "sense": "把事情掌握住、应付过去，是 managed；managed to do 特别常说尽管有困难，最后还是做到了。",
+    "split": "manage 末尾已有 e，加 -d，/dʒ/ 后接 /d/，不增加 /ɪd/ 音节。manage 联系意大利语 maneggiare、maneggio 及法语 manège 的驾驭词族，较早是拉丁 manus 手。",
+    "history": [
+      [
+        "拉丁 manus → 意大利语、法语驾驭词族 → manage",
+        "手的操作 → 驾驭、管理、应付"
+      ],
+      [
+        "manage 去 e + -ed → managed",
+        "处理过；设法做到；被管理的"
+      ]
+    ],
+    "explanation": "managed the shop 管理过商店；managed to finish 设法完成；a carefully managed event 组织得很周密的活动。",
+    "usage": "finally managed；has managed the project。",
+    "contrast": "managed to do 通常强调结果做成了；tried to do 只说尝试，不保证成功。managed the business 则可以只是过去经营管理，不必每次都翻成勉强做到。",
+    "examples": [
+      [
+        "We managed to catch the last bus.",
+        "我们总算赶上了末班巴士。"
+      ],
+      [
+        "She managed the bookshop for five years.",
+        "她经营那家书店五年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/managed#English",
+      "https://en.wiktionary.org/wiki/manage#English",
+      "https://www.etymonline.com/word/manage"
+    ]
+  },
+  {
+    "word": "believed",
+    "ipa": "/bɪˈliːvd/",
+    "meaning": "相信过；信任过；被认为；believe 的过去式和过去分词",
+    "sense": "当时把一句话当成真的，或把信任放在某人身上，就是 believed。被动表达里，它也能说人们相信、认为某种情况如此。",
+    "split": "believe 末尾已有 e，加 -d；/v/ 后词尾读 /d/。believe 继承古英语 belīefan 等、中古英语 beleven、bileven 的相信词族，现代按规则形成过去式。",
+    "history": [
+      [
+        "古英语、 中古英语相信词族 → believe",
+        "信任、认为是真的"
+      ],
+      [
+        "believe 去 e + -ed → believed",
+        "过去相信；被相信、被认为"
+      ]
+    ],
+    "explanation": "believed her story 相信了她的话；believed in him 信任他的能力、为人；is believed to be ... 被认为是……。",
+    "usage": "had always believed；widely believed。",
+    "contrast": "believed someone 可以是相信某人说的话；believed in someone 常是信任、看好某人。was believed to be 交代当时的看法，本身不等于叙述者已经证实。",
+    "examples": [
+      [
+        "I believed her when she said she had lost the key.",
+        "她说钥匙丢了时，我相信了她。"
+      ],
+      [
+        "The painting was believed to be much older.",
+        "人们当时认为这幅画的年代要早得多。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/believed#English",
+      "https://en.wiktionary.org/wiki/believe#English"
+    ]
+  },
+  {
+    "word": "discovered",
+    "ipa": "英 /dɪˈskʌvəd/；美 /dɪˈskʌvərd/",
+    "meaning": "发现了；发觉、了解到；discover 的过去式和过去分词",
+    "sense": "原来被遮着、自己还不知道的事，现在看到了、弄清楚了，就是 discovered。",
+    "split": "discover + -ed，词尾读 /d/。discover 整体经古法语 descovrir 接拉丁 discooperīre 去掉遮盖；现代可用 dis- 去掉与 cover 遮盖帮助认结构，实际借词历史在前。",
+    "history": [
+      [
+        "拉丁 discooperīre → 古法语 descovrir → discover",
+        "去掉遮盖 → 揭开、发现"
+      ],
+      [
+        "discover + -ed → discovered",
+        "过去发现、发觉；被发现的"
+      ]
+    ],
+    "explanation": "discovered a mistake 发现错误；discovered that ... 发现……；newly discovered 新发现的；discovered an interest in music 发现自己对音乐有兴趣。",
+    "usage": "had discovered；discovered by chance。",
+    "contrast": "discover 常强调原来不知道，现在知道了。invent 常说创造出原先没有的东西；find 可说找到物品，也可以与 discover 的发现义重合。",
+    "examples": [
+      [
+        "She discovered a small mistake in the final paragraph.",
+        "她在最后一段发现了一个小错误。"
+      ],
+      [
+        "We discovered that the path continued behind the house.",
+        "我们发现那条小路在房子后面还继续延伸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discovered#English",
+      "https://en.wiktionary.org/wiki/discover#English"
+    ]
+  },
+  {
+    "word": "introduced",
+    "ipa": "英 /ˌɪntrəˈdjuːst/；美 /ˌɪntrəˈduːst/",
+    "meaning": "介绍了；引进、推出；开始采用；introduce 的过去式和过去分词",
+    "sense": "把人、话题或新办法带进一个原来还没接触它的圈子，就是 introduced：介绍朋友、引出主题、采用新制度都能用。",
+    "split": "introduce 末尾已有 e，加 -d，/s/ 后词尾读 /t/。较早拉丁 intrō- 向内与 dūcere 带领构成 intrōdūcere；英语 introduce 有接拉丁动词或从 introduction 逆构的分析。",
+    "history": [
+      [
+        "拉丁 intrō- + dūcere → intrōdūcere；英语 introduce",
+        "向内带入；直接拉丁联系或 introduction 逆构"
+      ],
+      [
+        "introduce 去 e + -ed → introduced",
+        "介绍过、引进过；被推出的"
+      ]
+    ],
+    "explanation": "introduced me to her friend 把我介绍给她的朋友；introduced a rule 开始采用一条规则；introduced a topic 引出话题。",
+    "usage": "newly introduced；was introduced to the idea。",
+    "contrast": "introduce A to B 常说把 A 介绍给 B，或让 A 接触 B。introduced 表示引入，不自动表示对方已理解、接受了全部内容。",
+    "examples": [
+      [
+        "She introduced me to the rest of the team.",
+        "她把我介绍给了团队里的其他人。"
+      ],
+      [
+        "The school introduced a new reading programme.",
+        "学校开始采用一项新的阅读计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/introduced#English",
+      "https://www.etymonline.com/word/introduce"
+    ]
+  },
+  {
+    "word": "proposed",
+    "ipa": "英 /prəˈpəʊzd/；美 /prəˈpoʊzd/",
+    "meaning": "提出了；建议过；求婚了；拟议中的",
+    "sense": "把一个想法摆到别人面前供考虑，是 proposed；一项还在商量、尚未实施的计划，也常被形容为 proposed。",
+    "split": "propose 末尾已有 e，加 -d，/z/ 后读 /d/。propose 借古法语 proposer，含 pro- 向前与 poser 放；poser 在法语中替代较早 ponere 相关词形，不能把它说成拉丁 proponere 未经变化的直接延续。",
+    "history": [
+      [
+        "古法语 pro- + poser → proposer → propose",
+        "向前摆出、提出；与较早放置词族发生替代联系"
+      ],
+      [
+        "propose 去 e + -ed → proposed",
+        "提出过；被提议、拟议中的"
+      ]
+    ],
+    "explanation": "proposed a solution 提出办法；proposed changing the date 建议改日期；proposed to her 向她求婚；the proposed bridge 拟建的大桥。",
+    "usage": "a proposed change；had proposed several ideas。",
+    "contrast": "a proposed change 是有人提出、仍待考虑的变化，不一定已经落实。proposed doing 多是建议做，proposed to someone 则在相应人际语境说求婚。",
+    "examples": [
+      [
+        "They proposed moving the meeting to Friday.",
+        "他们建议把会议改到周五。"
+      ],
+      [
+        "The map shows the route of the proposed road.",
+        "地图上标出了拟建道路的路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proposed#English",
+      "https://www.etymonline.com/word/propose"
+    ]
+  },
+  {
+    "word": "intended",
+    "ipa": "/ɪnˈtendɪd/",
+    "meaning": "原打算、意在；预定的、供某人使用的；intend 的过去式和过去分词",
+    "sense": "心里原本把目标放在哪儿，是 intended；把这个目标拿来修饰结果、读者、用途，就有预定的、原本想达到的意思。",
+    "split": "intend + -ed，/d/ 后增加 /ɪd/。intend 经法语等接拉丁 intendere，in- 朝向与 tendere 伸展、拉紧构成，把注意力、心思朝向某处，发展为打算。",
+    "history": [
+      [
+        "拉丁 in- + tendere → intendere → 法语、英语 intend",
+        "朝向某处伸展 → 集中注意、打算"
+      ],
+      [
+        "intend + -ed → intended",
+        "曾打算；预定目标、用途的"
+      ]
+    ],
+    "explanation": "intended to help 本打算帮忙；intended for children 供儿童使用；the intended result 预期结果；as intended 按原来的设想。",
+    "usage": "the intended audience；had intended to stay。",
+    "contrast": "intended for 看为谁、作什么用途；intended to do 看打算做什么。intended 表意图、预定用途，实际效果还需看句子后来说明。",
+    "examples": [
+      [
+        "The book is intended for readers with no previous experience.",
+        "这本书面向此前没有相关经验的读者。"
+      ],
+      [
+        "We had intended to stay longer, but the weather changed.",
+        "我们本来打算多待些时候，但天气变了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intended#English",
+      "https://en.wiktionary.org/wiki/intend#English"
+    ]
+  },
+  {
+    "word": "performed",
+    "ipa": "英 /pəˈfɔːmd/；美 /pərˈfɔːrmd/",
+    "meaning": "执行、完成过；表演过；表现如何；perform 的过去式和过去分词",
+    "sense": "把要求的事情实际做出来，是 performed；在舞台上把音乐、角色做出来，是表演；一台机器做得好不好，也可以用它说表现。",
+    "split": "perform + -ed，/m/ 后读 /d/。perform 经盎格鲁法语 performer、performir 接古法语 parfornir，par- 完全与 fornir 提供、完成相连，后来的词形受 forme 影响。",
+    "history": [
+      [
+        "古法语 par- + fornir → parfornir；盎格鲁法语 performer → perform",
+        "完成、实现；词形后来受 forme 影响"
+      ],
+      [
+        "perform + -ed → performed",
+        "执行过、表演过；过去表现如何"
+      ]
+    ],
+    "explanation": "performed a task 完成任务；performed a song 演唱歌曲；performed well 表现良好；performed the experiment 做过实验。",
+    "usage": "had performed together；performed better than expected。",
+    "contrast": "performed a piece of music 说演出内容，performed well 说完成任务、比赛或运行的表现。perform 的形似 form 有历史改形因素，不等于所有意思直接从拉丁 forma 形成。",
+    "examples": [
+      [
+        "The students performed a short play for their families.",
+        "学生们为家人表演了一部短剧。"
+      ],
+      [
+        "The new engine performed well during the test.",
+        "新引擎在测试中表现良好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/performed#English",
+      "https://www.etymonline.com/word/perform"
+    ]
+  },
+  {
+    "word": "selected",
+    "ipa": "/sɪˈlektɪd/",
+    "meaning": "选出、挑选过；选定的、精选的",
+    "sense": "从一堆可能中挑出自己要的部分，得到的就是 selected 的选定结果。界面上勾好的项目也常用这个词。",
+    "split": "select + -ed，/t/ 后增加 /ɪd/。select 接拉丁 sēlēctus 选出的，较早 sē- 分开与 legere 选、收集构成 sēligere；英语再形成 selected。",
+    "history": [
+      [
+        "拉丁 sē- + legere → sēligere、sēlēctus → select",
+        "分开挑选 → 选出的、挑选"
+      ],
+      [
+        "select + -ed → selected",
+        "挑选过；选定的、精选的"
+      ]
+    ],
+    "explanation": "selected a winner 选出优胜者；selected items 选定项目；selected readings 精选读物；the selected option 所选选项。",
+    "usage": "carefully selected；has been selected。",
+    "contrast": "selected 可以是动作过去形式，也可修饰挑选后的对象。界面的 selected 不等于已经执行了该选项，通常只说明它当前被选中。",
+    "examples": [
+      [
+        "The committee selected three designs for the final round.",
+        "委员会选出三个设计进入最后一轮。"
+      ],
+      [
+        "The selected items are highlighted in blue.",
+        "选中的项目会以蓝色突出显示。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selected#English",
+      "https://en.wiktionary.org/wiki/select#English"
+    ]
+  },
+  {
+    "word": "applied",
+    "ipa": "/əˈplaɪd/",
+    "meaning": "运用、应用过；申请过；涂抹、施加过；应用的",
+    "sense": "把方法用到问题上，把材料贴到表面上，或把申请送到某个岗位、课程上，都属于 applied 的不同常见场景。",
+    "split": "apply 的 y 变 i 加 -ed → applied，末尾元音后词尾只读 /d/。apply 经法语接拉丁 applicāre，ad- 向与 plicāre 使相接、折叠相连，形成使贴到、施用的画面。",
+    "history": [
+      [
+        "拉丁 applicāre → 法语、英语 apply",
+        "使相接、施用 → 运用；申请等"
+      ],
+      [
+        "apply 变 y 为 i + -ed → applied",
+        "运用过、申请过；面向实际用途的"
+      ]
+    ],
+    "explanation": "applied for the job 申请过职位；applied the method 运用了方法；applied paint 涂了漆；applied science 应用科学。",
+    "usage": "applied to the surface；applied research。",
+    "contrast": "applied for 看申请什么，applied to 看向哪个机构申请或应用到哪个对象；applied a method to a problem 是把方法用于问题。applied research 说面向实际用途的研究。",
+    "examples": [
+      [
+        "She applied the same method to a different problem.",
+        "她把同一种方法用于另一个问题。"
+      ],
+      [
+        "He applied for a place on the course.",
+        "他申请了这个课程的名额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/applied#English",
+      "https://en.wiktionary.org/wiki/apply#English"
+    ]
+  },
+  {
+    "word": "confirmed",
+    "ipa": "英 /kənˈfɜːmd/；美 /kənˈfɜːrmd/",
+    "meaning": "确认了；证实了；确认的、确定下来的",
+    "sense": "把原来还悬着、需要核实的事落实下来，是 confirmed：确认时间、证实判断，都有使它更确定的感觉。",
+    "split": "confirm + -ed，/m/ 后读 /d/。confirm 经法语接拉丁 cōnfirmāre，con- 加强与 firmāre 使稳固相连，较早 firmus 表稳固的。",
+    "history": [
+      [
+        "拉丁 firmus、firmāre、cōnfirmāre → 法语、英语 confirm",
+        "稳固 → 加强、使确定"
+      ],
+      [
+        "confirm + -ed → confirmed",
+        "确认过、证实了；已确定的"
+      ]
+    ],
+    "explanation": "confirmed the date 确认了日期；confirmed a booking 确认预订；confirmed the result 证实结果；a confirmed appointment 已确认的预约。",
+    "usage": "has been confirmed；confirmed by the records。",
+    "contrast": "confirm a plan 常说把安排确定下来，confirm a belief 常说证实原来的判断。confirmed 用作形容词时也可说明状态已确认，具体确认了什么要看名词和上下文。",
+    "examples": [
+      [
+        "The hotel confirmed our booking by email.",
+        "酒店通过电子邮件确认了我们的预订。"
+      ],
+      [
+        "The old records confirmed the date of the building.",
+        "旧记录证实了这栋建筑的年代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/confirmed#English",
+      "https://en.wiktionary.org/wiki/confirm#English"
+    ]
+  }
+]

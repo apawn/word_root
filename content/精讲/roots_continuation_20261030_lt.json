@@ -1,0 +1,120 @@
+[
+  {
+    "id": "B4144",
+    "meaning": "岸边涌浪到乘浪，再借为页面间浏览",
+    "core": "SURF：先有岸浪，再有人沿浪滑行",
+    "image": "surf → surfing、surfer、surfboard。",
+    "intro": "浪是环境，surfing 是活动，surfer 是人，surfboard 是所用板。网络用法沿着滑行、跳转的意象另开一支。",
+    "forms": "suffe 等 → surf，远源未定；-ing 活动，-er 人，board 板。",
+    "branches": [
+      [
+        "浪、活动与参与者",
+        "surf · surfing · surfer"
+      ],
+      [
+        "运动器材",
+        "surfboard"
+      ]
+    ],
+    "contrasts": "surf 不一定是 surface 缩写；网络浏览不必有明确搜索目标；surfside 等较少用扩展先略过。",
+    "practice": "The surfer carried her surfboard down to the beach.\n\n冲浪者把冲浪板带到海滩。",
+    "words": [
+      "surf",
+      "surfing",
+      "surfer",
+      "surfboard"
+    ],
+    "exclude": {
+      "surfside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2597",
+    "meaning": "计算、推理与道理，分出普通性质和哲学立场",
+    "core": "RATIONAL：判断能说出理由，学说还会追问知识从哪来",
+    "image": "rational → rationally、rationality；rationalism → rationalist；rationalization 另看合理化、解释等固定义。",
+    "intro": "理性思考是一般方式，理性主义是知识来源等问题上的立场。这样区分，就不会把每个讲道理的人都自动归入一个哲学流派。",
+    "forms": "ratiō → ratiōnālis → rational；-ly 方式，-ity 性质，-ism 学说，-ist 人物，-ization 过程名词。\n\nreason 经法语 raison 等接拉丁语 ratio，rational 接相应拉丁形容词 rationalis 等；现代意义相连，但不是直接由 reason 改拼写加尾。\n\nratio 直接接拉丁 ratio 计算、推理，与 rational 同族；现代英语常用比例义，不将全部拉丁多义照搬成英语基本释义。\n\nreason 经法语接拉丁 ratio 计算、理解、理由的词族，现代复数与动词第三人称同形。\n\n拉丁 ratio 经法语接计算、理解、理由，现代 ing 可指推理过程。\n\nratio 借拉丁 ratio 计算、比例，现代直接加 -s，o 后不加 -es。数学用法按先后顺序比较两个量。",
+    "branches": [
+      [
+        "普通性质、方式与抽象名词",
+        "rational · rationally · rationality"
+      ],
+      [
+        "学说与人物",
+        "rationalism · rationalist"
+      ],
+      [
+        "合理化等过程",
+        "rationalization"
+      ],
+      [
+        "理由与理性：先从 reason 进入",
+        "reason · rational"
+      ],
+      [
+        "ratio：计算、推理材料中的数量比",
+        "rational · ratio"
+      ],
+      [
+        "reason → reasons：理由；推理、劝说",
+        "reason · reasons"
+      ],
+      [
+        "reason → reasoning：把根据连起来想",
+        "reason · reasoning"
+      ],
+      [
+        "rat- 计算 → ratio → ratios",
+        "ratios"
+      ]
+    ],
+    "contrasts": "理性不要求没有情绪；rationalism 不一律否认经验；rationalization 可中性也可说为行为找借口，须看场景。",
+    "practice": "The rationalist explained his view rationally.\n\n那位理性主义者用理性论证说明自己的观点。",
+    "words": [
+      "rational",
+      "rationally",
+      "rationality",
+      "rationalism",
+      "rationalist",
+      "rationalization",
+      "reason",
+      "ratio",
+      "reasons",
+      "reasoning",
+      "ratios"
+    ],
+    "exclude": {
+      "non-rational": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2698",
+    "meaning": "鼠类名称及负面人物、外观、脾气比喻",
+    "core": "RAT：动物义之外，读出人物评价和口语场景",
+    "image": "rat → ratty；rat on、smell a rat 各记固定说法。",
+    "intro": "实验室说动物，故事里说叛徒，衣服说破旧，情绪说烦躁。相同动物词族，具体对象决定中文。",
+    "forms": "ræt、ratte → rat；-y 性质双写 t；on 引被告发对象。更远来源未定。\n\n古英语 rat 类旧词，更远传播方向有争论，动物比喻不当作现实群体评价。",
+    "branches": [
+      [
+        "动物、人物及性质",
+        "rat · ratty"
+      ],
+      [
+        "rat → rats：鼠名及后来的比喻",
+        "rat · rats"
+      ]
+    ],
+    "contrasts": "rat on 带告发、出卖色彩；smell a rat 是怀疑有诈；ratty 不要求真实鼠患。",
+    "practice": "He smelled a rat when he saw the suspicious offer.\n\n看到那份可疑报价时，他觉得有诈。",
+    "words": [
+      "rat",
+      "ratty",
+      "rats"
+    ],
+    "exclude": {
+      "rat-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rat-baiting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "B2975",
+    "meaning": "射出、拍摄与生长分支",
+    "core": "SHOOT：向外送出；拍摄、嫩芽各看搭配",
+    "image": "shoot、shooting、shooter 先分动作、活动、主体，再把 offshoot 侧枝、overshoot 过头、reshoot 重拍放在一起。",
+    "intro": "古英语射出词有多条现代分支。shoot—shot—shot；shot 与 photoshoot 已精讲，本页共享连读。",
+    "forms": "shoot → shot、shooting、shooter；off-/over-/re- + shoot；photo + shoot。\n\n古英语射出词，嫩芽名与向外生出的画面相连，现代加 s；过去式 shot。\n\nscoot 来源未定，可能接古诺尔斯 skjota 等快速发出、移动材料；skitter 经 skite 等急窜材料接相近北欧分析。与 shoot 是可能的旧材料联系，不是由现代 shoot 随意换字母。\n\nshooter 承古英语 sceotere 射出、射箭的人名词，现代也说篮球投篮手、射击游戏等。加 -s，/r/ 等后读 /z/，按运动、游戏或人物语境区分。\n\nshooting 动作名词历史很早，shoot 承古英语 sceotan 发射、迅速移出。现代复数常数枪击事件，也可按语境数拍摄活动。",
+    "branches": [
+      [
+        "基本动作、活动与主体",
+        "shoot · shot · shooting · shooter"
+      ],
+      [
+        "侧枝、超出与重复",
+        "offshoot · overshoot · reshoot · photoshoot"
+      ],
+      [
+        "shoot → shoots：射出、拍摄；新芽另为名词",
+        "shoot · shoots"
+      ],
+      [
+        "scoot、skitter：嗖地走、小步快速窜动",
+        "scoot · scoots · scooted · scooting · skitter · skitters · skittered · skittering"
+      ],
+      [
+        "shoot + -er → shooters",
+        "shooters"
+      ],
+      [
+        "shoot + -ing + -s → shootings",
+        "shootings"
+      ]
+    ],
+    "contrasts": "shoot at 不保证击中；film shooting 拍摄；offshoot 接嫩芽，overshoot 不一定射击；reshoot 重拍不是重播。",
+    "practice": "After shooting the scene, the director decided to reshoot it.\n\n拍完这场戏后，导演决定重拍。",
+    "words": [
+      "shoot",
+      "shot",
+      "shooting",
+      "shooter",
+      "offshoot",
+      "overshoot",
+      "reshoot",
+      "photoshoot",
+      "shoots",
+      "scoot",
+      "scoots",
+      "scooted",
+      "scooting",
+      "skitter",
+      "skitters",
+      "skittered",
+      "skittering",
+      "shooters",
+      "shootings"
+    ],
+    "exclude": {
+      "gut-shoot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

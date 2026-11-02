@@ -1,0 +1,91 @@
+[
+  {
+    "id": "B3791",
+    "meaning": "觉察、知晓与警惕",
+    "core": "AWARE：知道；BEWARE：留神提防",
+    "image": "aware → awareness、unaware，再并列 be ware 短语形成的 beware。",
+    "intro": "aware 的 a- 是旧前部弱化，beware 来自小心的短语收缩，两个词与警觉旧形有共同关系，不套成现代删字母规则。",
+    "forms": "aware + -ness；un- + aware；be ware → beware。",
+    "branches": [
+      [
+        "知晓、状态与否定",
+        "aware · awareness · unaware"
+      ],
+      [
+        "警惕提醒",
+        "beware"
+      ]
+    ],
+    "contrasts": "aware of 知道，beware of 提防；awareness 不是全部知识；unaware 不自动粗心。",
+    "practice": "Be aware of the rules, and beware of misleading shortcuts.\n\n了解规则，并提防误导人的捷径。",
+    "words": [
+      "aware",
+      "awareness",
+      "unaware",
+      "beware"
+    ],
+    "exclude": {
+      "self-aware": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3161",
+    "meaning": "条带、群体、乐队与频带容量",
+    "core": "BAND：一圈带、一群人或一段频率，后部说明是哪支",
+    "image": "先 band、banding；腕、腰、臂带分位置；乐队伙伴和彩车走人群支，broadband、bandwidth 走频带支。",
+    "intro": "条带义有多种相关形式汇合，群体义经法语进入，深层连接有不同解释。现代频带是条状范围比喻，乐队是群体专门化。",
+    "forms": "band + -ing/mate/wagon/width；wrist/waist/arm/head + band；broad/wide + band；band + stand/leader。\n\n条带义多路汇合；群体义经法语，较深联系绑在一起但细节未定。\n\n复合词后半是带子名，复数整个词末加 s。",
+    "branches": [
+      [
+        "基础与条带",
+        "band · banding"
+      ],
+      [
+        "身体佩戴位置",
+        "wristband · waistband · armband · headband"
+      ],
+      [
+        "音乐与跟风",
+        "bandmate · bandleader · bandstand · bandwagon"
+      ],
+      [
+        "通信范围与容量",
+        "broadband · wideband · bandwidth"
+      ],
+      [
+        "band → bands：条带、群体与乐队",
+        "band · bands"
+      ],
+      [
+        "band 的位置组合：手腕上的带、头上的带",
+        "band · wristband · wristbands · headband · headbands"
+      ]
+    ],
+    "contrasts": "wrist 手腕、waist 腰；bandmate 伙伴与 bandleader 领队；bandwagon 跟风；bandwidth 与延迟不同。",
+    "practice": "The bandmates wore wristbands as they climbed onto the bandwagon.\n\n乐队伙伴戴着腕带，登上了载乐队的彩车。",
+    "words": [
+      "band",
+      "banding",
+      "wristband",
+      "waistband",
+      "armband",
+      "headband",
+      "bandmate",
+      "bandleader",
+      "bandstand",
+      "bandwagon",
+      "broadband",
+      "wideband",
+      "bandwidth",
+      "bands",
+      "wristbands",
+      "headbands"
+    ],
+    "exclude": {
+      "tri-band": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "baseband": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bandgap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "narrowband": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

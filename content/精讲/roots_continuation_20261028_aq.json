@@ -1,0 +1,130 @@
+[
+  {
+    "id": "B4610",
+    "meaning": "水；供水；流泪、流口水及比喻",
+    "core": "WATER：先看水从哪来、在哪、做什么",
+    "image": "来源分海水雨水融水，位置分水下水边，流向形成地形；水印、严密论证、诱人口水再走向比喻。",
+    "intro": "water 名词接古英语 wæter，动词也有古英语前身。复合词不能一律画成一条历史直线：各部分先存在，再组合；watershed 仿译德语而来，watercolour 两种英美拼写同义。",
+    "forms": "water → watery、waterless；水源与使用状态相邻，滨水位置、流域地形、设施交通、动植物、标记绘画及比喻分组。watered、watering 在基础词说明，不另堆常规词形。\n\n本族名词、动词各有古英语旧形式，复数与第三人称形态重合。\n\n古英语已有相关动词，现代 ing 说过程，也可作修饰用途的形式。\n\n较早形容词 waterlogged 出现在船只进水、沉重难行的语境，waterlog 动词较晚，可能由它逆构；现代规则拆分与记录先后分清。\n\notter 接古英语 otr、otor，上溯重建的日耳曼、印欧语形式，有水中动物的命名背景，与 water 远同族；不是现代英语 water 改几个字母产生。\n\nvodka 借俄语 vodka，voda 水配指小词尾 -ka。voda 与英语 water 是远处同源关系，英语不是把 water 改拼加 -ka；小水是名称来历，不是现代饮料成分定义。\n\n酒名接盖尔语 uisge beatha 生命之水，uisge、uisce 与英语 water 远处同源；现代词形经长期变化、缩短。whiskey 与 whisky 是拼写传统，不能用有无 e 规定全球无例外分类。",
+    "branches": [
+      [
+        "基础性质和位置",
+        "water · watery · waterless · underwater"
+      ],
+      [
+        "来源、过程和用途",
+        "freshwater · seawater · saltwater · rainwater · groundwater · stormwater · floodwater · meltwater · wastewater · bathwater · rosewater"
+      ],
+      [
+        "水边位置与地形",
+        "waterfront · waterside · waterline · waterfall · watershed · headwaters · waterway · watercourse · backwater · clearwater"
+      ],
+      [
+        "设施、交通与生物",
+        "breakwater · waterworks · watercraft · waterfowl · watercress · waterhole · watermelon"
+      ],
+      [
+        "标记、绘画和比喻",
+        "watermark · watercolour · watertight · waterproof · waterborne · mouthwatering"
+      ],
+      [
+        "water → waters：水体、水域与浇水",
+        "water · waters"
+      ],
+      [
+        "water → watered、watering：水与供水、浇灌",
+        "water · watered · watering"
+      ],
+      [
+        "waterlogged 的进水、浸水画面",
+        "water · waterlogged"
+      ],
+      [
+        "otter：远处同族的水中动物名",
+        "otter · otters"
+      ],
+      [
+        "水的远古同源词：俄语 voda + -ka → vodka",
+        "vodka"
+      ],
+      [
+        "盖尔语水 + 生命 → whiskey、whisky",
+        "whiskey · whisky"
+      ]
+    ],
+    "contrasts": "freshwater 不自动等于饮用水；groundwater 通常在孔隙裂隙里，不只地下河；watershed 可说边界线、流域面或历史转折。borne 承载与 born 出生不同。",
+    "practice": "Rainwater flowed toward the river while groundwater moved through the spaces in the rock.\n\n雨水向河流汇去，地下水则在岩石孔隙里流动。",
+    "words": [
+      "water",
+      "watery",
+      "waterless",
+      "underwater",
+      "freshwater",
+      "seawater",
+      "saltwater",
+      "rainwater",
+      "groundwater",
+      "stormwater",
+      "floodwater",
+      "meltwater",
+      "wastewater",
+      "bathwater",
+      "rosewater",
+      "waterfront",
+      "waterside",
+      "waterline",
+      "waterfall",
+      "watershed",
+      "headwaters",
+      "waterway",
+      "watercourse",
+      "backwater",
+      "clearwater",
+      "breakwater",
+      "waterworks",
+      "watercraft",
+      "waterfowl",
+      "watercress",
+      "waterhole",
+      "watermelon",
+      "watermark",
+      "watercolour",
+      "watertight",
+      "waterproof",
+      "waterborne",
+      "mouthwatering",
+      "waters",
+      "watered",
+      "watering",
+      "waterlogged",
+      "otter",
+      "otters",
+      "vodka",
+      "whiskey",
+      "whisky"
+    ],
+    "exclude": {
+      "above-water": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-rate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-rent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-loving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-thief": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-fearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "watergate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-leech": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waterhouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deepwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waterman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-salamander": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sweetwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coldwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tidewater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drinkwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluewater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waterworld": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shearwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

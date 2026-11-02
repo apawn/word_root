@@ -1,0 +1,1216 @@
+[
+  {
+    "word": "headlights",
+    "ipa": "/ˈhedlaɪts/",
+    "meaning": "车辆前灯〔复数〕",
+    "sense": "车的前端像头，前面照路的灯就叫 headlights。名字先告诉你装在车辆哪一端。",
+    "split": "head 前端 + light 灯 → headlight，再加 -s，/t/ 后读 /s/；不是把 light 的重量轻义带进来。",
+    "history": [
+      [
+        "head + light → headlight",
+        "车辆前端的照明灯"
+      ],
+      [
+        "headlight + -s → headlights",
+        "多只车辆前灯"
+      ]
+    ],
+    "explanation": "turn on the headlights 是打开车前灯；headlights in the distance 是远处车辆的前灯光。",
+    "usage": "car headlights 汽车前灯；bright headlights 明亮的车前灯。",
+    "contrast": "headlights 在前，taillights 在后；headlamp 还可以指戴在头上的灯，别把所有 head 都只译成人头。",
+    "examples": [
+      [
+        "The car’s headlights lit the narrow road.",
+        "汽车前灯照亮了狭窄道路。"
+      ],
+      [
+        "We saw headlights approaching in the distance.",
+        "我们看见远处有车前灯正靠近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/headlights#English",
+      "https://en.wiktionary.org/wiki/headlight#English"
+    ]
+  },
+  {
+    "word": "headlamps",
+    "ipa": "/ˈhedlæmps/",
+    "meaning": "头灯；车辆前灯〔复数〕",
+    "sense": "灯戴在额头上，双手就空出来，这是户外 headlamps；用在车辆语境，也能说车前端的灯。",
+    "split": "head 头部、前端 + lamp 灯 → headlamp，再加 -s，/p/ 后读 /s/。同一个 head 根据物体选位置义。",
+    "history": [
+      [
+        "head + lamp → headlamp",
+        "佩戴于头部的灯；车辆前端的灯"
+      ],
+      [
+        "headlamp + -s → headlamps",
+        "多只相应灯具"
+      ]
+    ],
+    "explanation": "hiking headlamps 是徒步头灯；car headlamps 则是汽车前灯，前面的对象帮助区分。",
+    "usage": "wear headlamps 戴头灯；LED headlamps LED 头灯、前灯。",
+    "contrast": "headlamps 有可佩戴头灯用途，headlights 最常说车辆前灯；真实语境比逐字的头灯更清楚。",
+    "examples": [
+      [
+        "The hikers switched on their headlamps.",
+        "徒步者打开了头灯。"
+      ],
+      [
+        "The car’s headlamps were covered in dust.",
+        "汽车前灯上蒙着灰尘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/headlamps#English",
+      "https://en.wiktionary.org/wiki/headlamp#English"
+    ]
+  },
+  {
+    "word": "taillights",
+    "ipa": "/ˈteɪllaɪts/",
+    "meaning": "车辆尾灯〔复数〕",
+    "sense": "看车往远处走，能看见车后部的灯，这些叫 taillights。tail 把车辆后端当作尾部。",
+    "split": "tail 后部 + light 灯 → taillight，再加 -s。两个 l 各属构词材料，常连着读，不硬加停顿。",
+    "history": [
+      [
+        "tail + light → taillight",
+        "车辆后部的灯"
+      ],
+      [
+        "taillight + -s → taillights",
+        "多个尾灯、尾灯光"
+      ]
+    ],
+    "explanation": "red taillights 是红色尾灯；从车后面看见的不是向前照路的 headlights。",
+    "usage": "car taillights 汽车尾灯；fading taillights 渐渐远去的尾灯光。",
+    "contrast": "head、tail 给车辆前后两端命名；灯的名称先定位，再看具体功能。",
+    "examples": [
+      [
+        "We watched the red taillights disappear into the distance.",
+        "我们看着红色尾灯消失在远处。"
+      ],
+      [
+        "The mechanic checked both taillights.",
+        "修车师傅检查了两只尾灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taillights#English",
+      "https://en.wiktionary.org/wiki/taillight#English"
+    ]
+  },
+  {
+    "word": "flashlights",
+    "ipa": "/ˈflæʃlaɪts/",
+    "meaning": "手电筒〔复数，尤美式〕",
+    "sense": "手里拿着、把光照到想看的地方，这些便携电灯叫 flashlights。名字带 flash，今天却不要求只能闪一下。",
+    "split": "flash + light → flashlight，再加 -s。原名有早期短时闪照的背景，现代已经固定为手电筒名称。",
+    "history": [
+      [
+        "flash + light → flashlight",
+        "短时闪照等命名背景中的便携电灯"
+      ],
+      [
+        "flashlight + -s → flashlights",
+        "多只手电筒"
+      ]
+    ],
+    "explanation": "carry flashlights 是带手电，battery-powered flashlights 是电池供电的手电。",
+    "usage": "turn on the flashlights 打开手电；spare flashlights 备用手电。",
+    "contrast": "美式常用 flashlights，英式常用 torches 指手电；torches 在其他语境也能真指燃烧火把。",
+    "examples": [
+      [
+        "We used flashlights to look around the dark room.",
+        "我们用手电查看黑暗的房间。"
+      ],
+      [
+        "The campers packed spare flashlights.",
+        "露营者装上了备用手电。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flashlights#English",
+      "https://en.wiktionary.org/wiki/flashlight#English"
+    ]
+  },
+  {
+    "word": "torches",
+    "ipa": "英 /ˈtɔːtʃɪz/；美 /ˈtɔːrtʃɪz/",
+    "meaning": "火把；手电筒〔英式〕；放火烧〔第三人称单数〕",
+    "sense": "古老的是举着燃烧的火把，现代英式也用 torches 叫手电。名字沿用手持照明角色，光源可以变。",
+    "split": "torch + -es，/tʃ/ 后读 /ɪz/。词经法语进入中古英语，更远通常联系拉丁扭成束的材料，相关中间形式有重构成分。",
+    "history": [
+      [
+        "古法语 torche → 中古英语 torch",
+        "成束燃烧材料的火把；扭绕远源是通常解释"
+      ],
+      [
+        "torch + -es → torches",
+        "多支火把、手电；它用火烧"
+      ]
+    ],
+    "explanation": "electric torches 是手电，flaming torches 是燃烧火把；对象和修饰词很有用。",
+    "usage": "carry torches 带着火把或手电；turn on the torches 打开手电。",
+    "contrast": "torch 的早期照明对象是火把，现代手电义延续了手持照明功能；burning torches 则按燃烧火把认。",
+    "examples": [
+      [
+        "The hikers checked their torches before setting out.",
+        "徒步者出发前检查了手电。"
+      ],
+      [
+        "Flaming torches lit the courtyard.",
+        "燃烧的火把照亮了庭院。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/torches#English",
+      "https://en.wiktionary.org/wiki/torch#English"
+    ]
+  },
+  {
+    "word": "streetlights",
+    "ipa": "/ˈstriːtlaɪts/",
+    "meaning": "街灯、路灯〔复数〕",
+    "sense": "沿着道路一盏接一盏，让路面、行人可见，这些是 streetlights。前半直接说明照明场所。",
+    "split": "street 街道 + light 灯 → streetlight，再加 -s。street 更远接拉丁铺好的道路名称，但整个组合在英语里形成。",
+    "history": [
+      [
+        "street + light → streetlight",
+        "街道照明灯"
+      ],
+      [
+        "streetlight + -s → streetlights",
+        "多盏街灯"
+      ]
+    ],
+    "explanation": "the streetlights came on 是街灯亮起来；under the streetlights 是在路灯光下。",
+    "usage": "bright streetlights 明亮街灯；a row of streetlights 一排路灯。",
+    "contrast": "streetlight 按街道照明用途命名，不要求每盏都有同样灯杆、外形；streetlamp 常可指同类街灯。",
+    "examples": [
+      [
+        "The streetlights came on at dusk.",
+        "黄昏时街灯亮了起来。"
+      ],
+      [
+        "We walked home under the streetlights.",
+        "我们沿着路灯走回家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/streetlights#English",
+      "https://en.wiktionary.org/wiki/streetlight#English"
+    ]
+  },
+  {
+    "word": "streetlamp",
+    "ipa": "/ˈstriːtlæmp/",
+    "meaning": "街灯、路灯",
+    "sense": "街边那一整盏用来照路的灯，叫 streetlamp。street 给位置，lamp 给灯具本身。",
+    "split": "英语 street 街道 + lamp 灯具，前面说明在哪里使用，后面说明是什么器物。",
+    "history": [
+      [
+        "street 街道；lamp 灯",
+        "场所与器物的材料"
+      ],
+      [
+        "street + lamp → streetlamp",
+        "用于街道照明的灯具"
+      ]
+    ],
+    "explanation": "under a streetlamp 是在一盏街灯下面；light from the streetlamp 是这盏灯照出的光。",
+    "usage": "a tall streetlamp 高路灯；beside the streetlamp 在街灯旁。",
+    "contrast": "streetlamp 与 streetlight 常可同指街灯；lamp 更直接让人想到灯具，light 也容易连着光线一起谈。",
+    "examples": [
+      [
+        "She waited under the streetlamp.",
+        "她在街灯下等候。"
+      ],
+      [
+        "A streetlamp cast light across the empty road.",
+        "一盏街灯把光投到空荡道路上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/streetlamp#English"
+    ]
+  },
+  {
+    "word": "streetlamps",
+    "ipa": "/ˈstriːtlæmps/",
+    "meaning": "街灯、路灯〔复数〕",
+    "sense": "一条街上排列的多盏灯具，是 streetlamps。先认街灯整个名称，再用最后 -s 数灯。",
+    "split": "streetlamp + -s，/p/ 后读 /s/。复合词的核心器物 lamp 在末尾，复数只加在全词最后。",
+    "history": [
+      [
+        "street + lamp → streetlamp",
+        "街道照明灯"
+      ],
+      [
+        "streetlamp + -s → streetlamps",
+        "多盏街灯"
+      ]
+    ],
+    "explanation": "old streetlamps 是旧路灯，replace the streetlamps 是更换街灯；可按外形、材料等进一步描述。",
+    "usage": "a row of streetlamps 一排街灯；new streetlamps 新路灯。",
+    "contrast": "streetlamps 数的是灯具，lamplight 则常泛说灯发出的光；器物与光线的名词分清。",
+    "examples": [
+      [
+        "Old streetlamps lined the narrow lane.",
+        "旧街灯沿狭窄小巷排列。"
+      ],
+      [
+        "The town replaced its damaged streetlamps.",
+        "镇上更换了损坏的街灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/streetlamps#English",
+      "https://en.wiktionary.org/wiki/streetlamp#English"
+    ]
+  },
+  {
+    "word": "skylights",
+    "ipa": "/ˈskaɪlaɪts/",
+    "meaning": "天窗〔复数〕",
+    "sense": "屋顶上开几块透光的窗，让天空的自然光进来，这些窗口就是 skylights。日常先想窗，不要只想天上的光点。",
+    "split": "sky 天空、天光 + light → skylight，再加 -s。借天光用途命名屋顶窗，复数数这些窗户。",
+    "history": [
+      [
+        "sky + light → skylight",
+        "引入天光的屋顶窗口"
+      ],
+      [
+        "skylight + -s → skylights",
+        "多个天窗"
+      ]
+    ],
+    "explanation": "roof skylights 是屋顶天窗，light through the skylights 是透过天窗的自然光。",
+    "usage": "install skylights 安装天窗；glass skylights 玻璃天窗。",
+    "contrast": "skylights 常是能引光入室的窗口，streetlights 是照路灯具；两个 light 组合名并不都指电灯。",
+    "examples": [
+      [
+        "Two skylights bring daylight into the kitchen.",
+        "两个天窗把自然光引进厨房。"
+      ],
+      [
+        "Rain tapped against the skylights.",
+        "雨点敲着天窗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skylights#English",
+      "https://en.wiktionary.org/wiki/skylight#English"
+    ]
+  },
+  {
+    "word": "nightlights",
+    "ipa": "/ˈnaɪtlaɪts/",
+    "meaning": "小夜灯〔复数〕",
+    "sense": "大灯关掉，走廊、床边还留一点柔和光，方便夜里看见，这类小灯叫 nightlights。",
+    "split": "night 夜间 + light 灯 → nightlight，再加 -s。前项说明使用时段，常见家居义是一盏较弱的夜间灯。",
+    "history": [
+      [
+        "night + light → nightlight",
+        "夜间保留的小光源"
+      ],
+      [
+        "nightlight + -s → nightlights",
+        "多盏小夜灯"
+      ]
+    ],
+    "explanation": "bedside nightlights 是床边小夜灯，plug-in nightlights 是可插电使用的夜灯；具体设计各异。",
+    "usage": "soft nightlights 柔和的小夜灯；turn off the nightlights 关掉小夜灯。",
+    "contrast": "nightlights 指夜间用途的小灯，headlights 按车辆前端位置命名；前面的词负责给用途、位置。",
+    "examples": [
+      [
+        "Small nightlights lined the hallway.",
+        "走廊里设着几盏小夜灯。"
+      ],
+      [
+        "The children chose nightlights shaped like stars.",
+        "孩子们选了星形小夜灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightlights#English",
+      "https://en.wiktionary.org/wiki/nightlight#English"
+    ]
+  },
+  {
+    "word": "fireflies",
+    "ipa": "英 /ˈfaɪəflaɪz/；美 /ˈfaɪərflaɪz/",
+    "meaning": "萤火虫〔复数〕",
+    "sense": "夜里草丛间忽然亮起、移动的光点，让人联想到带着火光的小飞虫，所以有 fireflies 这个形象名称。",
+    "split": "fire 火光的比喻 + fly 飞虫 → firefly；辅音字母后 y 改 i 加 -es → fireflies。现代萤火虫属甲虫，不按名称里的 fly 认成家蝇。",
+    "history": [
+      [
+        "fire + fly → firefly",
+        "按发光小虫形象组合的日常名称"
+      ],
+      [
+        "firefly → fireflies",
+        "复合词末尾按 fly—flies 变化"
+      ]
+    ],
+    "explanation": "watch fireflies 是看萤火虫；glowing fireflies 说发光的萤火虫，不是真在燃烧。",
+    "usage": "fireflies in the grass 草丛中的萤火虫；flashing fireflies 闪光的萤火虫。",
+    "contrast": "日常名称靠外形、现象来记，现代分类另有依据；fly 在复合名中不总等于狭义苍蝇。",
+    "examples": [
+      [
+        "We watched fireflies flashing above the grass.",
+        "我们看着萤火虫在草上方闪光。"
+      ],
+      [
+        "A few fireflies appeared near the trees at dusk.",
+        "黄昏时树边出现了几只萤火虫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fireflies#English",
+      "https://en.wiktionary.org/wiki/firefly#English",
+      "https://www.nps.gov/grsm/learn/nature/fireflies.htm"
+    ]
+  },
+  {
+    "word": "beams",
+    "ipa": "/biːmz/",
+    "meaning": "梁、光束〔复数〕；发光、灿烂地笑、定向传送〔第三人称单数〕",
+    "sense": "建筑有长条梁，黑暗中有一柱柱光；人的笑容像向外发光，也能说 beams。先抓住柱状与明亮两支。",
+    "split": "beam + -s，/m/ 后读 /z/。古英语 beam 已有柱木、光柱材料，现代动词从光义延伸到明亮笑容等用途。",
+    "history": [
+      [
+        "古英语 beam 的树木、柱梁及早期光柱义",
+        "长条、柱状的木材与光线形象"
+      ],
+      [
+        "英语 beam 的动词延伸",
+        "发光、笑容灿烂；定向发送"
+      ],
+      [
+        "beam + -s → beams",
+        "多根梁、多束光；他、她发光或灿烂微笑"
+      ]
+    ],
+    "explanation": "wooden beams 是木梁，beams of light 是光束；beams with pride 是满脸自豪的笑。",
+    "usage": "ceiling beams 顶梁；sunbeams 太阳光束；beams at us 朝我们灿烂地笑。",
+    "contrast": "rays、beams 都可说光线，beams 更容易让人想到一束有方向、成柱状的光。",
+    "examples": [
+      [
+        "Heavy wooden beams supported the ceiling.",
+        "沉重木梁支撑着天花板。"
+      ],
+      [
+        "She beams whenever she talks about her daughter.",
+        "她每次谈到女儿都满脸笑容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beams#English",
+      "https://en.wiktionary.org/wiki/beam#English"
+    ]
+  },
+  {
+    "word": "beaming",
+    "ipa": "/ˈbiːmɪŋ/",
+    "meaning": "笑容灿烂的；正在发光、定向传送",
+    "sense": "笑容亮得像从脸上发出光，就是 beaming。它不只是嘴角动一下，而是让人看见喜悦满出来。",
+    "split": "beam + -ing，直接保留原拼写。发光动词来自 beam 光束、光柱一支，又引申灿烂笑容、定向发射。",
+    "history": [
+      [
+        "古英语 beam 的树木、柱梁及早期光柱义",
+        "长条、柱状的木材与光线形象"
+      ],
+      [
+        "英语 beam 的动词延伸",
+        "发光、笑容灿烂；定向发送"
+      ],
+      [
+        "beam + -ing → beaming",
+        "正在发光、传送；明亮微笑的状态"
+      ]
+    ],
+    "explanation": "a beaming smile 是灿烂的笑；beaming with pride 是自豪得满脸发光。",
+    "usage": "beaming at someone 朝某人灿烂地笑；beaming with delight 喜悦满面的。",
+    "contrast": "smiling 范围更广，beaming 更强调明亮、明显的高兴神情；不必直译成真的发出光。",
+    "examples": [
+      [
+        "She was beaming with pride after the performance.",
+        "演出结束后她自豪得满脸笑容。"
+      ],
+      [
+        "He greeted us with a beaming smile.",
+        "他带着灿烂笑容迎接我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beaming#English",
+      "https://en.wiktionary.org/wiki/beam#English"
+    ]
+  },
+  {
+    "word": "gleam",
+    "ipa": "/ɡliːm/",
+    "meaning": "亮光、反光；闪亮、泛光",
+    "sense": "擦干净的银器在阳光下一亮，或者黑暗里露出一小片清亮的光，这就是 gleam 的直观感觉。",
+    "split": "名词承古英语 glæm 亮光，动词后来由名词形成。与 glow 在更远处常同列重构的发光词族，近源并不是英语 glow 改写成 gleam。",
+    "history": [
+      [
+        "古英语 glæm → 英语 gleam 名词",
+        "亮光、光辉；较远常接重构的发光词族"
+      ],
+      [
+        "英语 gleam 名词 → 中古英语以来的动词",
+        "发出、反射亮光；眼神透出情绪"
+      ]
+    ],
+    "explanation": "a gleam of light 是一线亮光；a gleam in her eyes 可说眼里透出喜悦、兴趣等神情。",
+    "usage": "gleam in the sunlight 在阳光下闪亮；a gleam of hope 一线希望。",
+    "contrast": "glimmer 更常偏微弱、不明显；gleam 容易让人想到清楚的一点亮光或物体反光。",
+    "examples": [
+      [
+        "A gleam of light appeared beneath the door.",
+        "门下出现了一线亮光。"
+      ],
+      [
+        "The polished silver began to gleam in the sun.",
+        "擦亮的银器在阳光下开始泛光。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/gleam",
+      "https://en.wiktionary.org/wiki/gleam#English"
+    ]
+  },
+  {
+    "word": "gleams",
+    "ipa": "/ɡliːmz/",
+    "meaning": "亮光、反光〔复数〕；闪亮、透出亮光〔第三人称单数〕",
+    "sense": "几点亮光在水面晃动，是 gleams；说一个表面亮亮地反光，也可用 gleams。",
+    "split": "gleam + -s，/m/ 后读 /z/。基础名词承古英语亮光词，动词由名词发展，复数、三单形式同形。",
+    "history": [
+      [
+        "古英语 glæm → 英语 gleam 名词",
+        "亮光、光辉；较远常接重构的发光词族"
+      ],
+      [
+        "英语 gleam 名词 → 中古英语以来的动词",
+        "发出、反射亮光；眼神透出情绪"
+      ],
+      [
+        "gleam + -s → gleams",
+        "几处亮光；它闪亮"
+      ]
+    ],
+    "explanation": "gleams of sunlight 是几点、几线阳光；the floor gleams 是地板亮得反光。",
+    "usage": "silver gleams 银色亮光；gleams in the sun 在太阳下闪亮。",
+    "contrast": "名词 gleams 常跟 of 说明是什么光，动词 gleams 常跟 in、with 说明环境、表现。",
+    "examples": [
+      [
+        "Small gleams of sunlight moved across the water.",
+        "几点阳光在水面上移动。"
+      ],
+      [
+        "The freshly cleaned floor gleams.",
+        "刚擦过的地板亮得反光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gleams#English",
+      "https://www.etymonline.com/word/gleam"
+    ]
+  },
+  {
+    "word": "gleamed",
+    "ipa": "/ɡliːmd/",
+    "meaning": "闪亮、泛光了；眼里透出了神情",
+    "sense": "光刚才从表面反出来，或者一双眼睛露出明亮喜悦，都可说 gleamed。过去的亮光、神情已经呈现。",
+    "split": "gleam + 完整 -ed，/m/ 后读 /d/；元音拼写 ea 保留，不变成过去式的另一套元音。",
+    "history": [
+      [
+        "古英语 glæm → 英语 gleam 名词",
+        "亮光、光辉；较远常接重构的发光词族"
+      ],
+      [
+        "英语 gleam 名词 → 中古英语以来的动词",
+        "发出、反射亮光；眼神透出情绪"
+      ],
+      [
+        "gleam + -ed → gleamed",
+        "过去闪亮、透出明亮神情"
+      ]
+    ],
+    "explanation": "gleamed in the light 是在光下反亮；eyes gleamed with excitement 是眼里闪着兴奋。",
+    "usage": "gleamed in the sun 在太阳下闪亮；gleamed with delight 闪着喜悦。",
+    "contrast": "gleamed 可用于表面反光，也可用于眼神；后者是情绪透出的形象说法。",
+    "examples": [
+      [
+        "The brass handle gleamed in the sunlight.",
+        "黄铜把手在阳光下闪亮。"
+      ],
+      [
+        "Her eyes gleamed with excitement.",
+        "她眼里闪着兴奋的光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gleamed#English",
+      "https://www.etymonline.com/word/gleam"
+    ]
+  },
+  {
+    "word": "gleaming",
+    "ipa": "/ˈɡliːmɪŋ/",
+    "meaning": "闪亮的、亮得反光的；正在泛光",
+    "sense": "一排擦得锃亮的杯子、阳光下干净的车身，都有 gleaming 的感觉：表面清亮，能把光反出来。",
+    "split": "gleam + -ing，保留原拼写。动词的发亮过程变成形容词，可直接放在物体前说它闪亮。",
+    "history": [
+      [
+        "古英语 glæm → 英语 gleam 名词",
+        "亮光、光辉；较远常接重构的发光词族"
+      ],
+      [
+        "英语 gleam 名词 → 中古英语以来的动词",
+        "发出、反射亮光；眼神透出情绪"
+      ],
+      [
+        "gleam + -ing → gleaming",
+        "正在闪亮；表面闪亮的状态"
+      ]
+    ],
+    "explanation": "gleaming silver 是闪亮银器；a gleaming car 是擦得锃亮的车。",
+    "usage": "gleaming windows 闪亮窗户；gleaming in the light 在光下泛亮。",
+    "contrast": "clean 是干净，gleaming 进一步让人看见清亮反光的表面；不是所有干净物体都明显反光。",
+    "examples": [
+      [
+        "A gleaming car stood outside the hotel.",
+        "一辆锃亮的车停在酒店外。"
+      ],
+      [
+        "The cups were gleaming on the shelf.",
+        "架子上的杯子闪亮亮的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gleaming#English",
+      "https://www.etymonline.com/word/gleam"
+    ]
+  },
+  {
+    "word": "glimmers",
+    "ipa": "英 /ˈɡlɪməz/；美 /ˈɡlɪmərz/",
+    "meaning": "微光、几丝迹象〔复数〕；微微发光〔第三人称单数〕",
+    "sense": "黑暗里只露出一点点亮，或者事情还没好转却已有一丝希望，都可用 glimmers。",
+    "split": "glimmer + -s，末尾读 /z/。基础词接日耳曼发光材料，早期来源有不同分析，现代常偏向微弱光。",
+    "history": [
+      [
+        "中古英语与荷兰语、低地德语发光材料的联系",
+        "借入或关联路线未定，尾部可能有反复、延展材料"
+      ],
+      [
+        "现代 glimmer",
+        "后来微弱发光义占主导；微光 → 一丝希望、理解"
+      ],
+      [
+        "glimmer + -s → glimmers",
+        "几处微光、几丝迹象；它微微发亮"
+      ]
+    ],
+    "explanation": "glimmers of hope 是几丝希望，a light glimmers 是灯微微发光；具体与抽象都保留一点点出现的感觉。",
+    "usage": "faint glimmers 微弱亮光；glimmers through the mist 透过雾微微发亮。",
+    "contrast": "glimmers of hope 说希望初露，不像 confidence 那样直接表示已有信心；这是程度很轻的形象说法。",
+    "examples": [
+      [
+        "We saw faint glimmers of light through the trees.",
+        "我们透过树木看见微弱亮光。"
+      ],
+      [
+        "The result offers the first glimmers of hope.",
+        "这个结果带来了最初的几丝希望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glimmers#English",
+      "https://www.etymonline.com/word/gleam"
+    ]
+  },
+  {
+    "word": "glimmered",
+    "ipa": "英 /ˈɡlɪməd/；美 /ˈɡlɪmərd/",
+    "meaning": "微微发光了；隐约显露了",
+    "sense": "刚才灯光在远处一闪一闪，或者一点理解从眼神里露出来，可以说 glimmered。亮度、确定感都比较轻。",
+    "split": "glimmer + 完整 -ed，词尾读 /d/。基础词中的 -er 不去掉，变化作用于整个 glimmer。",
+    "history": [
+      [
+        "中古英语与荷兰语、低地德语发光材料的联系",
+        "借入或关联路线未定，尾部可能有反复、延展材料"
+      ],
+      [
+        "现代 glimmer",
+        "后来微弱发光义占主导；微光 → 一丝希望、理解"
+      ],
+      [
+        "glimmer + -ed → glimmered",
+        "过去微弱发亮、隐约显现"
+      ]
+    ],
+    "explanation": "glimmered in the distance 是在远处微亮；understanding glimmered in her eyes 是她眼里隐约露出明白的神情。",
+    "usage": "glimmered through the fog 透过雾微亮；glimmered faintly 微微闪光。",
+    "contrast": "gleamed 常让人看到清楚反光，glimmered 更容易是暗处、远处的一点微亮；两者可有重叠。",
+    "examples": [
+      [
+        "A small light glimmered through the fog.",
+        "一盏小灯透过雾微微发亮。"
+      ],
+      [
+        "A hint of amusement glimmered in his eyes.",
+        "他眼里隐约露出一点笑意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glimmered#English",
+      "https://www.etymonline.com/word/gleam"
+    ]
+  },
+  {
+    "word": "glimmering",
+    "ipa": "/ˈɡlɪmərɪŋ/",
+    "meaning": "微微发亮的；正在闪微光",
+    "sense": "光还在，却不刺眼，只在黑暗中微弱闪着，叫 glimmering。也能用它描述刚刚露头的理解、希望。",
+    "split": "glimmer + -ing；r 后接元音，常见英式也读出 /r/。不把整个 -er 当人物后缀删掉。",
+    "history": [
+      [
+        "中古英语与荷兰语、低地德语发光材料的联系",
+        "借入或关联路线未定，尾部可能有反复、延展材料"
+      ],
+      [
+        "现代 glimmer",
+        "后来微弱发光义占主导；微光 → 一丝希望、理解"
+      ],
+      [
+        "glimmer + -ing → glimmering",
+        "微弱发亮的过程、状态"
+      ]
+    ],
+    "explanation": "glimmering lights 是微微发亮的灯；glimmering hope 把微光形象借给希望。",
+    "usage": "glimmering in the dark 在黑暗中微亮；a glimmering light 一点微光。",
+    "contrast": "glowing 常容易想到持续、温暖的光泽，glimmering 更突出微弱、隐约；实际可按光线场景理解。",
+    "examples": [
+      [
+        "We followed the glimmering lights along the path.",
+        "我们沿路朝微微发亮的灯走去。"
+      ],
+      [
+        "A candle was glimmering behind the window.",
+        "窗后有一支蜡烛微微发亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glimmering#English",
+      "https://www.etymonline.com/word/gleam"
+    ]
+  },
+  {
+    "word": "glows",
+    "ipa": "英 /ɡləʊz/；美 /ɡloʊz/",
+    "meaning": "发柔光、泛红；洋溢喜悦〔第三人称单数〕",
+    "sense": "不是一闪就没，而是炭火、灯罩里持续透出暖光；人的脸被喜悦照亮，也可说 glows。",
+    "split": "glow + -s，末尾元音后读 /z/。基础发热、发光动词接中古英语及更早日耳曼词族，具体早期继承路线有讨论。",
+    "history": [
+      [
+        "中古英语 glouen、glowen，接古英语或北欧相关发光材料",
+        "发热、发光的日耳曼词族，具体继承路线有讨论"
+      ],
+      [
+        "glow 的名词及比喻用途",
+        "光泽、红润；温暖喜悦；热烈赞许的形容"
+      ],
+      [
+        "glow + -s → glows",
+        "它发光；他、她面容红润或洋溢喜悦"
+      ]
+    ],
+    "explanation": "glows in the dark 是在暗处发光，glows with pride 是满脸自豪；后者不要求脸真的发出光。",
+    "usage": "glows softly 柔和发亮；glows with happiness 洋溢幸福。",
+    "contrast": "glows 常突出持续的光泽、暖色或喜悦感；flashes 则更突出短暂闪一下。",
+    "examples": [
+      [
+        "The lamp glows softly behind the curtain.",
+        "窗帘后面的灯柔和地亮着。"
+      ],
+      [
+        "Her face glows with happiness.",
+        "她脸上洋溢着幸福。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glows#English",
+      "https://www.etymonline.com/word/glow"
+    ]
+  },
+  {
+    "word": "glowed",
+    "ipa": "英 /ɡləʊd/；美 /ɡloʊd/",
+    "meaning": "发光、泛红了；喜悦、自豪满面的",
+    "sense": "火堆剩下的炭红红发亮，或者某人刚被夸得满脸喜悦，都能用 glowed。它把发光画面放到过去。",
+    "split": "glow + 完整 -ed，元音后读 /d/；保留 glow 的 ow，不按 blow—blew 去套另一个不规则变化。",
+    "history": [
+      [
+        "中古英语 glouen、glowen，接古英语或北欧相关发光材料",
+        "发热、发光的日耳曼词族，具体继承路线有讨论"
+      ],
+      [
+        "glow 的名词及比喻用途",
+        "光泽、红润；温暖喜悦；热烈赞许的形容"
+      ],
+      [
+        "glow + -ed → glowed",
+        "过去发亮、红润、洋溢喜悦"
+      ]
+    ],
+    "explanation": "glowed in the firelight 是在火光下泛亮，glowed with pride 是满脸自豪。",
+    "usage": "glowed red 泛红光；glowed with pleasure 喜悦满面。",
+    "contrast": "glowed 是规则变化，过去式不因为 ow 拼写就变元音；不同旧动词各有自己的变化历史。",
+    "examples": [
+      [
+        "The coals glowed red in the fireplace.",
+        "壁炉里的炭泛着红光。"
+      ],
+      [
+        "He glowed with pride when his son finished the song.",
+        "儿子唱完歌时，他自豪得满脸喜悦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glowed#English",
+      "https://www.etymonline.com/word/glow"
+    ]
+  },
+  {
+    "word": "glowing",
+    "ipa": "英 /ˈɡləʊɪŋ/；美 /ˈɡloʊɪŋ/",
+    "meaning": "发光的、红润的；热烈赞许的",
+    "sense": "东西像内里有光，人像喜悦从脸上透出来；评价如果热情地夸，也会被形容为 glowing。",
+    "split": "glow + -ing，保留原拼写。动作状态形容词由发亮、温暖情感一路延伸到热烈称赞。",
+    "history": [
+      [
+        "中古英语 glouen、glowen，接古英语或北欧相关发光材料",
+        "发热、发光的日耳曼词族，具体继承路线有讨论"
+      ],
+      [
+        "glow 的名词及比喻用途",
+        "光泽、红润；温暖喜悦；热烈赞许的形容"
+      ],
+      [
+        "glow + -ing → glowing",
+        "发亮的；喜悦、热烈赞许的"
+      ]
+    ],
+    "explanation": "glowing coals 是红亮的炭，glowing reviews 是热烈好评；同一个明亮温暖画面换了对象。",
+    "usage": "a glowing smile 红润灿烂的笑；a glowing report 大加赞许的报道。",
+    "contrast": "glowing reviews 不是屏幕发光的评论，而是内容强烈赞许；修饰的名词决定走具体光还是比喻。",
+    "examples": [
+      [
+        "The room was lit by glowing coals.",
+        "房间被泛红光的炭照亮。"
+      ],
+      [
+        "The play received glowing reviews.",
+        "这部戏获得了热烈好评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glowing#English",
+      "https://www.etymonline.com/word/glow"
+    ]
+  },
+  {
+    "word": "gloomier",
+    "ipa": "英 /ˈɡluːmiə/；美 /ˈɡluːmiər/",
+    "meaning": "更阴暗、更低落、更悲观的",
+    "sense": "两个房间比较，一个更缺光；两份预测比较，一个更看不到好消息，这个更的程度都能用 gloomier。",
+    "split": "gloomy 去 y，加完整比较级 -er → gloomier；不是只在 gloom 后添 -ier。基础 gloomy 与 gloom 有现代形态对应，更早词史未完全确定。",
+    "history": [
+      [
+        "中古英语 gloumen 等关联材料；gloom 名词",
+        "阴郁神情、幽暗；更早来源未定，不认定来自古英语 glom 暮色"
+      ],
+      [
+        "gloom 与 gloomy〔现代对应 gloom + -y〕",
+        "gloomy 的现存记录早于名词 gloom，词形对应不等于简单的记录先后"
+      ],
+      [
+        "gloomy + -er → gloomier〔y 改 i〕",
+        "阴暗、低落或悲观程度更高"
+      ]
+    ],
+    "explanation": "a gloomier room 是更阴暗的房间，a gloomier outlook 是更悲观的前景判断。",
+    "usage": "look gloomier 显得更低落；a gloomier forecast 更悲观的预测。",
+    "contrast": "darker 直接说更暗，gloomier 常连着压抑、不愉快的感觉；用来形容预测时尤其偏悲观。",
+    "examples": [
+      [
+        "The room looked gloomier after the curtains were closed.",
+        "窗帘拉上后房间显得更阴暗。"
+      ],
+      [
+        "The new report gives a gloomier outlook.",
+        "新报告给出了更悲观的前景判断。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gloomier#English",
+      "https://www.etymonline.com/word/gloomy"
+    ]
+  },
+  {
+    "word": "gloomiest",
+    "ipa": "/ˈɡluːmiɪst/",
+    "meaning": "最阴暗、最低落、最悲观的",
+    "sense": "在比较范围里，最像罩着一层暗色的房间、日子或预测，是 gloomiest。范围可以是一个屋子里的角落，也可以是几种看法。",
+    "split": "gloomy 去 y，加完整最高级 -est → gloomiest。比较阴暗、悲观等性质，-est 给出一个范围中的最高程度。",
+    "history": [
+      [
+        "中古英语 gloumen 等关联材料；gloom 名词",
+        "阴郁神情、幽暗；更早来源未定，不认定来自古英语 glom 暮色"
+      ],
+      [
+        "gloom 与 gloomy〔现代对应 gloom + -y〕",
+        "gloomy 的现存记录早于名词 gloom，词形对应不等于简单的记录先后"
+      ],
+      [
+        "gloomy + -est → gloomiest〔y 改 i〕",
+        "某范围内最阴暗、悲观等"
+      ]
+    ],
+    "explanation": "the gloomiest corner 是最阴暗角落，the gloomiest prediction 是最悲观预测；通常配 the 表比较范围。",
+    "usage": "the gloomiest day 最阴沉的一天；the gloomiest forecast 最悲观预测。",
+    "contrast": "gloomier 比两个或某个参照，gloomiest 在一个范围里取最高程度；不只换一个中文最就够，还要看比较对象。",
+    "examples": [
+      [
+        "That was the gloomiest corner of the house.",
+        "那是屋里最阴暗的角落。"
+      ],
+      [
+        "Even the gloomiest prediction was better than the final result.",
+        "即使最悲观的预测也比最终结果好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gloomiest#English",
+      "https://www.etymonline.com/word/gloomy"
+    ]
+  },
+  {
+    "word": "gloomily",
+    "ipa": "/ˈɡluːmɪli/",
+    "meaning": "忧郁地、闷闷不乐地；悲观地",
+    "sense": "不是只说人低落，而是把低落放进看、说、想的方式里：他说得很悲观，望出去也满脸阴郁。",
+    "split": "gloomy 去 y，加完整副词后缀 -ly → gloomily。gloomy 的阴暗、低落性质变成动作、判断的方式。",
+    "history": [
+      [
+        "中古英语 gloumen 等关联材料；gloom 名词",
+        "阴郁神情、幽暗；更早来源未定，不认定来自古英语 glom 暮色"
+      ],
+      [
+        "gloom 与 gloomy〔现代对应 gloom + -y〕",
+        "gloomy 的现存记录早于名词 gloom，词形对应不等于简单的记录先后"
+      ],
+      [
+        "gloomy + -ly → gloomily〔y 改 i〕",
+        "以忧郁、悲观的方式"
+      ]
+    ],
+    "explanation": "said gloomily 是闷闷不乐地说，predicted gloomily 是悲观地预测；副词常落到动作上。",
+    "usage": "stare gloomily 忧郁地望着；speak gloomily 悲观地说。",
+    "contrast": "gloomy 可直接修饰 room、outlook，gloomily 常修饰 looked、said 等动作；性质与方式分开。",
+    "examples": [
+      [
+        "He stared gloomily out of the window.",
+        "他闷闷不乐地望着窗外。"
+      ],
+      [
+        "“It will probably rain again,” she said gloomily.",
+        "“大概又要下雨了，”她悲观地说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gloomily#English",
+      "https://www.etymonline.com/word/gloomy"
+    ]
+  },
+  {
+    "word": "shines",
+    "ipa": "/ʃaɪnz/",
+    "meaning": "发光、反光；表现出众；擦亮〔第三人称单数〕",
+    "sense": "太阳亮着，鞋面反光，一个人在拿手领域特别出色，都能说 shines。明亮形象从物体走到人的表现。",
+    "split": "shine + -s，词尾 e 保留，/n/ 后读 /z/。shine 由古英语 scinan、中古英语相应发光动词延续。",
+    "history": [
+      [
+        "古英语 scinan → 中古英语 shinen → shine",
+        "发光、照耀；后来也有擦亮、出众等用途"
+      ],
+      [
+        "shine + -s → shines",
+        "它发光；他、她表现出众或擦亮东西"
+      ]
+    ],
+    "explanation": "the sun shines 是太阳照耀，shines at maths 是数学表现出色，shines shoes 是擦亮鞋。",
+    "usage": "shines brightly 明亮照耀；shines in the role 在角色中表现出色。",
+    "contrast": "shines 里的元音仍是 /aɪ/；shone、shined 是其他时态形式，不搬到第三人称单数里。",
+    "examples": [
+      [
+        "The sun shines through the kitchen window.",
+        "阳光透过厨房窗户照进来。"
+      ],
+      [
+        "She really shines in this role.",
+        "她在这个角色里的表现很出色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shines#English",
+      "https://en.wiktionary.org/wiki/shine#English"
+    ]
+  },
+  {
+    "word": "sparks",
+    "ipa": "英 /spɑːks/；美 /spɑːrks/",
+    "meaning": "火星、火花；感情等的火花〔复数〕；引起〔第三人称单数〕",
+    "sense": "火里蹦出的小亮点是 sparks；一次谈话激起兴趣、想法，也像一颗小火星点着后续的事。",
+    "split": "spark + -s，/k/ 后读 /s/。旧火星名词接古英语 spearca，后来有比喻与引起的动词用途。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "spark 名词 → 引起某事的动词",
+        "火星引火的画面 → 引起兴趣、争论、想法"
+      ],
+      [
+        "spark + -s → sparks",
+        "多粒火星；它引起某事"
+      ]
+    ],
+    "explanation": "sparks of interest 是兴趣火花；sparks debate 是引起讨论，常从很小的开端带出后续反应。",
+    "usage": "flying sparks 飞溅火星；sparks curiosity 激起好奇。",
+    "contrast": "sparks 既可数具体火星，也可作引起的动词；后面接 debate、interest 等宾语时常是动作。",
+    "examples": [
+      [
+        "Sparks rose from the small fire.",
+        "小火堆中腾起火星。"
+      ],
+      [
+        "The question sparks a lively discussion.",
+        "这个问题引起热烈讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparks#English",
+      "https://en.wiktionary.org/wiki/spark#English"
+    ]
+  },
+  {
+    "word": "sparked",
+    "ipa": "英 /spɑːkt/；美 /spɑːrkt/",
+    "meaning": "冒火星了；引起、激发了",
+    "sense": "一件小事让后面发生一串反应，就像一粒火星引起火。sparked 常用来讲这一步开端。",
+    "split": "spark + 完整 -ed，/k/ 后读 /t/；保留原词干，末尾成为 /kt/。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "spark 名词 → 引起某事的动词",
+        "火星引火的画面 → 引起兴趣、争论、想法"
+      ],
+      [
+        "spark + -ed → sparked",
+        "过去冒火星；引起了某种反应"
+      ]
+    ],
+    "explanation": "sparked an idea 是激起想法，sparked a debate 是引发争论；对象既可正面，也可负面。",
+    "usage": "sparked interest 激发了兴趣；sparked a discussion 引起了讨论。",
+    "contrast": "caused 泛说导致，sparked 更突出从一个小开端点起后续活动、反应的画面。",
+    "examples": [
+      [
+        "The conversation sparked a new idea.",
+        "谈话激发了一个新想法。"
+      ],
+      [
+        "The announcement sparked a long debate.",
+        "公告引起了一场长时间争论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparked#English",
+      "https://en.wiktionary.org/wiki/spark#English"
+    ]
+  },
+  {
+    "word": "sparking",
+    "ipa": "英 /ˈspɑːkɪŋ/；美 /ˈspɑːrkɪŋ/",
+    "meaning": "正在冒火星；正在引起、激发",
+    "sense": "火星正在跳出来，或者一个问题正在点起大家的兴趣，过程叫 sparking。",
+    "split": "spark + -ing，原拼写直接保留。旧名词转动词后，给 -ing 形式提供实际冒火星和比喻引发两种常见方向。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "spark 名词 → 引起某事的动词",
+        "火星引火的画面 → 引起兴趣、争论、想法"
+      ],
+      [
+        "spark + -ing → sparking",
+        "冒火星、激发反应的进行"
+      ]
+    ],
+    "explanation": "sparking interest 是激起兴趣，sparking a conversation 是引出谈话；并不一定伴随冲突。",
+    "usage": "sparking debate 正在引起讨论；sparking curiosity 激发好奇。",
+    "contrast": "sparking 关注引起开端，sparkling 常是点点闪亮、活泼或有气泡；多一个 l 不是同一动作的随意变体。",
+    "examples": [
+      [
+        "The experiment is sparking curiosity among the students.",
+        "实验正在激起学生们的好奇。"
+      ],
+      [
+        "The remark ended up sparking a long conversation.",
+        "那句话最终引出了一场长谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparking#English",
+      "https://en.wiktionary.org/wiki/spark#English"
+    ]
+  },
+  {
+    "word": "sparkles",
+    "ipa": "英 /ˈspɑːkəlz/；美 /ˈspɑːrkəlz/",
+    "meaning": "点点闪光〔复数〕；闪闪发亮、活力显现〔第三人称单数〕",
+    "sense": "水面、首饰上有许多小亮点一闪一闪，是 sparkles；眼神、谈吐有神采，也能说 sparkles。",
+    "split": "sparkle + -s，保留词尾 e，末尾读 /z/。基础 -le 的旧材料有细小、反复等背景，不是一个表示发光者的人物后缀。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "spark 名词 → 引起某事的动词",
+        "火星引火的画面 → 引起兴趣、争论、想法"
+      ],
+      [
+        "spark 与旧 -le 形式 → sparkle",
+        "旧名词有细小背景，动词有反复闪动背景；词族后来还有活力、气泡用途"
+      ],
+      [
+        "sparkle + -s → sparkles",
+        "点点闪光；它闪亮、有神采"
+      ]
+    ],
+    "explanation": "sparkles of light 是闪光点，her eyes sparkle 是眼睛有神采；同形三单 sparkles 按主语选。",
+    "usage": "sparkles in the sun 在阳光下闪亮；tiny sparkles 细小闪光点。",
+    "contrast": "spark 更像一粒火星、引发开端，sparkle 更常是点点反复闪亮、神采；实际器物不必冒火。",
+    "examples": [
+      [
+        "The necklace sparkles in the sunlight.",
+        "项链在阳光下闪闪发亮。"
+      ],
+      [
+        "Tiny sparkles of light danced on the water.",
+        "细小闪光点在水面跳动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparkles#English",
+      "https://en.wiktionary.org/wiki/sparkle#English"
+    ]
+  },
+  {
+    "word": "sparkled",
+    "ipa": "英 /ˈspɑːkəld/；美 /ˈspɑːrkəld/",
+    "meaning": "闪闪发亮了；显露神采了",
+    "sense": "刚才阳光把水面照出一点点亮，或者一个人的眼睛亮出喜悦，过去可以说 sparkled。",
+    "split": "sparkle 去词末 e，加完整 -ed，/l/ 后读 /d/；完整词干的 l 保留。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "spark 名词 → 引起某事的动词",
+        "火星引火的画面 → 引起兴趣、争论、想法"
+      ],
+      [
+        "spark 与旧 -le 形式 → sparkle",
+        "旧名词有细小背景，动词有反复闪动背景；词族后来还有活力、气泡用途"
+      ],
+      [
+        "sparkle + -ed → sparkled〔去 e〕",
+        "过去点点闪亮；眼神、谈吐有神采"
+      ]
+    ],
+    "explanation": "sparkled in the light 是在光下闪亮，eyes sparkled with delight 是眼里闪着喜悦。",
+    "usage": "sparkled in the sun 在阳光下闪亮；sparkled with excitement 兴奋得眼里放光。",
+    "contrast": "sparked interest 说激发兴趣，eyes sparkled 说眼里有神采；拼写与画面的差别要一起记。",
+    "examples": [
+      [
+        "The lake sparkled in the morning sun.",
+        "湖面在晨光中闪闪发亮。"
+      ],
+      [
+        "Her eyes sparkled with delight.",
+        "她眼里闪着喜悦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparkled#English",
+      "https://en.wiktionary.org/wiki/sparkle#English"
+    ]
+  },
+  {
+    "word": "sparkling",
+    "ipa": "英 /ˈspɑːklɪŋ/；美 /ˈspɑːrklɪŋ/",
+    "meaning": "闪闪发亮的；有气泡的；机智有活力的",
+    "sense": "水面闪着小亮点，饮料冒着小气泡，谈话不断冒出机智想法，都能有 sparkling 的活跃感。",
+    "split": "sparkle 去末尾 e，加完整 -ing。分词形容词从点点闪亮延伸到饮料有气泡、表现生动活泼等用途。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "spark 名词 → 引起某事的动词",
+        "火星引火的画面 → 引起兴趣、争论、想法"
+      ],
+      [
+        "spark 与旧 -le 形式 → sparkle",
+        "旧名词有细小背景，动词有反复闪动背景；词族后来还有活力、气泡用途"
+      ],
+      [
+        "sparkle + -ing → sparkling〔去 e〕",
+        "正在闪亮；闪亮、有气泡、生动活泼的性质"
+      ]
+    ],
+    "explanation": "sparkling water 是气泡水，sparkling conversation 是机智有趣的谈话；饮料义不要求真的发光。",
+    "usage": "sparkling jewellery 闪亮首饰；sparkling water 气泡水。",
+    "contrast": "sparkling water 与 still water 的差别在有没有气泡，不是水清不清；词义已经形成具体饮料用法。",
+    "examples": [
+      [
+        "The sunlight fell on the sparkling water.",
+        "阳光照在闪闪发亮的水面上。"
+      ],
+      [
+        "Would you like still or sparkling water?",
+        "你要无气水还是气泡水？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparkling#English",
+      "https://en.wiktionary.org/wiki/sparkle#English"
+    ]
+  }
+]

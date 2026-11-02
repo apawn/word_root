@@ -1,0 +1,391 @@
+[
+  {
+    "id": "B4394",
+    "meaning": "长袍、礼袍及浴袍",
+    "core": "ROBE：宽松垂下的长衣，场合决定是哪种袍",
+    "image": "浴后披上的衣服、毕业生穿的学位袍、典礼上的礼袍，都能用 robe；bathrobe 把用途明确为浴后等家居场景。",
+    "intro": "古法语 robe 的衣物、战利品材料进入中古英语，远接日耳曼语夺取物词族。现代词义已经固定为衣服，不必每次想到抢夺。",
+    "forms": "robe → bath + robe → bathrobe；robe 也能转动词，表示给某人穿袍。常规 robed 形式放在例句、用法中理解。\n\nbathrobe 为英语组合，wardrobe 为法语组合的借入；各自复数加 s。",
+    "branches": [
+      [
+        "长袍总称",
+        "robe"
+      ],
+      [
+        "家居、浴后用途",
+        "bathrobe"
+      ],
+      [
+        "robe 的两个组合：bathrobe 浴袍、wardrobe 衣柜",
+        "robe · bathrobe · bathrobes · wardrobe · wardrobes"
+      ]
+    ],
+    "contrasts": "长衣不都叫 robe，具体服装名称有习惯；gown、coat 与 robe 部分重叠但各有搭配。",
+    "practice": "She changed from her ceremonial robe into a comfortable bathrobe.\n\n她换下礼袍，穿上舒服的浴袍。",
+    "words": [
+      "robe",
+      "bathrobe",
+      "bathrobes",
+      "wardrobe",
+      "wardrobes"
+    ],
+    "exclude": {
+      "robed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3144",
+    "meaning": "露水；带露、水润的",
+    "core": "DEW：较冷表面凝成的小水珠",
+    "image": "清晨叶片上细小透明的水珠，是最直观的 dew 画面；dewy 把露珠的湿润、清新感觉变成形容词。",
+    "intro": "古英语 deaw 及相关形容词经中古英语延续；现代对应 dew、dewy。honeydew 的整体词义另看历史，不能只按蜂蜜露水猜。",
+    "forms": "dew → dewy；honey + dew → honeydew 的复合形式后来用于蜜露、甜瓜等不同意义。",
+    "branches": [
+      [
+        "露水与外观",
+        "dew · dewy"
+      ],
+      [
+        "相连的复合名称",
+        "honeydew"
+      ]
+    ],
+    "contrasts": "dew 是露，rain 是雨；dewy skin 是水润外观，通常不说皮肤真结了露。honeydew 甜瓜是植物名称的固定扩展。",
+    "practice": "The dewy grass sparkled as the morning dew caught the light.\n\n晨光照在露珠上，带露的草地闪着光。",
+    "words": [
+      "dew",
+      "dewy",
+      "honeydew"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4360",
+    "meaning": "短时间内过量、密集地做某事",
+    "core": "BINGE：一阵子做得特别多",
+    "image": "购物、追剧、吃喝本来可以零散进行，突然集中做得很多，就能用 binge 描写这一阵活动。",
+    "intro": "英格兰方言里有大量饮酒、浸泡等旧用法，远源不明。后来名词、动词扩展到食物、购物、娱乐消费等领域。",
+    "forms": "binge 作名词、动词；binge on 后接集中消费、观看的东西；a shopping binge 用前面的活动限定是哪一种。",
+    "branches": [
+      [
+        "一阵过量活动",
+        "a binge；a shopping binge"
+      ],
+      [
+        "集中大量做",
+        "binge on something"
+      ]
+    ],
+    "contrasts": "这里的核心是短期集中、程度超过平常，不是所有持续活动的通称。带连字符的扩展词头本轮先略。",
+    "practice": "They binged on the show during the rainy weekend.\n\n下雨的周末，他们一口气追了好多集那部节目。",
+    "words": [
+      "binge"
+    ],
+    "exclude": {
+      "binge-watch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "binge-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4553",
+    "meaning": "液体一滴滴落下及相关用法",
+    "core": "DRIP：连续的小水滴，或让液体慢慢滴入",
+    "image": "屋檐一滴滴落水、伞不停滴水、输液装置让液体缓慢输入，都是滴的画面；比喻义再按场景读。",
+    "intro": "古英语 drypan 到中古英语 drippen，属于与 drop 相连的日耳曼语词族。名词从动词形成；drippy 加形容词后缀，另有口语评价义。",
+    "forms": "drip → drippy〔双写 p + -y〕；drip 的日常名词义、输液义与穿搭俚语各有不同使用范围。\n\ndrip 承古英语 drypan、dryppan；dribble 接旧 drib 的反复动作形式，体育控球再借连续轻触的动作，不能把运动义译成流口水。\n\ndroop 接古诺尔斯 drupa，经中古英语 droupen，和英语 drop、drip 属相关旧词族；现代不靠把 drop 的元音随意拉长来造词。",
+    "branches": [
+      [
+        "滴落动作与名词",
+        "drip"
+      ],
+      [
+        "滴水或口语评价",
+        "drippy"
+      ],
+      [
+        "drip 与 dribble：滴落材料到连续小动作",
+        "drip · drips · dripped · dripping · dribble · dribbles · dribbled · dribbling"
+      ],
+      [
+        "drip、drop 与 droop 的下落、下垂材料",
+        "drip · drop · droop · droops · drooped · drooping"
+      ]
+    ],
+    "contrasts": "drop 也能泛说掉落，drip 更强调液体一滴滴；drippy love song 是嫌情歌过分感伤，不能只译为滴水。",
+    "practice": "The drippy umbrella left a slow drip on the floor.\n\n滴水的伞让水缓缓滴到了地板上。",
+    "words": [
+      "drip",
+      "drippy",
+      "drips",
+      "dripped",
+      "dripping",
+      "dribble",
+      "dribbles",
+      "dribbled",
+      "dribbling",
+      "drop",
+      "droop",
+      "droops",
+      "drooped",
+      "drooping"
+    ],
+    "exclude": {
+      "drip-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4048",
+    "meaning": "蜂群住所；繁忙中心",
+    "core": "HIVE：蜂群聚居、忙碌来往的地方",
+    "image": "一群蜜蜂不断进出共同住所；把这幅忙碌画面换到厨房、办公室，就有 a hive of activity。",
+    "intro": "古英语 hyf 经中古英语 hyve 到现代 hive，先是蜂群住所名称，再可代指蜂群和繁忙场所。beehive 加 bee 明确指蜜蜂。",
+    "forms": "hive → bee + hive → beehive；hive off 另形成分离部分业务等动词短语用法。",
+    "branches": [
+      [
+        "蜜蜂的住所、蜂群",
+        "hive · beehive"
+      ],
+      [
+        "繁忙场所的比喻",
+        "a hive of activity"
+      ]
+    ],
+    "contrasts": "hives 作荨麻疹名称是另一同形路线，不能由蜜蜂住所直接猜出；本页先抓蜂群、忙碌场所这组常用画面。",
+    "practice": "The workshop was a hive of activity.\n\n工坊里一片忙碌。",
+    "words": [
+      "hive",
+      "beehive"
+    ],
+    "exclude": {
+      "hive-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1836",
+    "meaning": "倍、重；组合结构的相关词尾",
+    "core": "-PLEX：几重、几份，以及组合在一起的结构",
+    "image": "triplex 是三重、三部分；complex 的旧画面是编在一起；cineplex 则是把电影相关材料与 complex 混合形成多厅影城名称。",
+    "intro": "拉丁 -plex 倍、重的材料与编织、折合词族相关。不同现代英语词的造法并不相同，有拉丁借词，也有新混成词。",
+    "forms": "tri- + -plex → triplex；complex 接拉丁 complexus 缠绕、包围；cinema + complex → cineplex。表面同尾不表示完全一样的拼装史。",
+    "branches": [
+      [
+        "编织、组合的扩展",
+        "complex"
+      ],
+      [
+        "三重、三部分",
+        "triplex"
+      ],
+      [
+        "现代影城名称",
+        "cineplex"
+      ]
+    ],
+    "contrasts": "plex 单独很少用，本页不为凑数量扩列；complex 的复杂、综合体、情结等常用义要看各自语义发展。",
+    "practice": "The cineplex is part of a larger entertainment complex.\n\n这座多厅影城是一个更大娱乐综合体的一部分。",
+    "words": [
+      "complex",
+      "triplex",
+      "cineplex"
+    ],
+    "exclude": {
+      "n-plex": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plex": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2207",
+    "meaning": "技艺、制作；特定领域载具",
+    "core": "-CRAFT：一门做事本领；有些词又表示整类载具",
+    "image": "stagecraft 是把戏搬上舞台的技艺，woodcraft 是木工、林野本领等；aircraft、spacecraft 则已经固定为飞行器、航天器名称。",
+    "intro": "接古英语 craeft 技艺、技能，复合时发展出特定领域的技艺、实践等关系。载具名称与 craft 的船只等用法相连，各词在英语中继续形成。",
+    "forms": "craft 可独立用；前面加领域材料形成 stagecraft、statecraft 等。aircraft、watercraft、spacecraft 取载具分支，不都说某门技术。",
+    "branches": [
+      [
+        "基础手艺与制作",
+        "craft · handcraft · handicraft · craftsman · craftsmanship"
+      ],
+      [
+        "各领域本领",
+        "stagecraft · statecraft · woodcraft · bushcraft · tradecraft · witchcraft"
+      ],
+      [
+        "载具名称",
+        "aircraft · spacecraft · watercraft · hovercraft"
+      ]
+    ],
+    "contrasts": "aircraft 常见单复数同形；手工 craft 作具体手艺等可有 crafts。商标、游戏名和冷僻专名不为词尾相同而扩列。",
+    "practice": "The exhibition celebrates craftsmanship in traditional handcraft.\n\n展览赞颂传统手工制作中的精湛技艺。",
+    "words": [
+      "craft",
+      "craftsman",
+      "craftsmanship",
+      "handcraft",
+      "handicraft",
+      "stagecraft",
+      "statecraft",
+      "woodcraft",
+      "bushcraft",
+      "tradecraft",
+      "witchcraft",
+      "aircraft",
+      "spacecraft",
+      "watercraft",
+      "hovercraft"
+    ],
+    "exclude": {
+      "film-craft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "minecraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "warcraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "starcraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "schoolcraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4229",
+    "meaning": "更低的；使位置、数量降低",
+    "core": "LOWER：从 low 再往低处比较，或把东西降下去",
+    "image": "比较两层台阶，下面那层是 lower；把音量、价格、手放低，又把同一个方向用成动词。",
+    "intro": "low + 比较级 -er 形成 lower，又有使变低的动词用法。另有阴沉、皱眉的同形 lower，来源和常见读音不同。",
+    "forms": "low → lower；比较级 -er 不表示做事的人。动词 lower 的日常放低、降低义沿同一方向理解。",
+    "branches": [
+      [
+        "位置、程度比较",
+        "lower"
+      ],
+      [
+        "使位置、数值变低",
+        "lower the volume；lower prices"
+      ]
+    ],
+    "contrasts": "常见更低、降低读 /ˈləʊə/ 或 /ˈloʊər/；阴沉、皱眉的另一同形词常读 /ˈlaʊə/ 或 /ˈlaʊər/。冷僻派生 lowery 暂略。",
+    "practice": "Please lower the volume to a lower level.\n\n请把音量调得更低一些。",
+    "words": [
+      "lower"
+    ],
+    "exclude": {
+      "lower-down": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lowery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4176",
+    "meaning": "骑自行车、摩托车的人",
+    "core": "CYCLIST：从 cycle 骑车到骑行者",
+    "image": "cycle 可以说骑自行车；把骑这种车的人叫 cyclist，前面加 motor 进一步明确为摩托车骑手。",
+    "intro": "cycle 的历史远连希腊语 kyklos 圈、轮；现代自行车词义形成后，cycle + -ist 造人物名称 cyclist，motorcyclist 再明确载具类别。",
+    "forms": "cycle → cyclist；motorcycle → motorcyclist。末尾 -ist 是人物材料，cycle 的 e 在这里不保留。",
+    "branches": [
+      [
+        "自行车骑行者",
+        "cyclist"
+      ],
+      [
+        "摩托车骑行者",
+        "motorcyclist"
+      ]
+    ],
+    "contrasts": "cyclist 日常多指自行车骑手；motorcyclist 则明确摩托车。并非所有 cycle 的周期、循环义都能直接换成骑手义。",
+    "practice": "The cyclist stopped to let a motorcyclist pass.\n\n骑自行车的人停下来，让摩托车骑手先通过。",
+    "words": [
+      "cyclist",
+      "motorcyclist"
+    ],
+    "exclude": {
+      "e-cyclist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3696",
+    "meaning": "游戏玩家；玩家识别名",
+    "core": "GAMER：经常玩游戏的人，现代常说电子游戏玩家",
+    "image": "game 是游戏，gamer 是玩家；在游戏平台上别人看见、用来认出你的名称，可以是 gamertag。",
+    "intro": "中古英语已有 gamer 相关人物词，现代对应 game + -er。电子游戏的发展让这个人物名称特别常用，gamertag 后来用 gamer + tag 组成。",
+    "forms": "game → gamer → gamertag；game 加 -er 时去不发音 e，gamer 的 -er 这里表示人。\n\ngamer 较早说参与游戏、运动的人，现代尤常说电子游戏玩家；保留基词关系，复数 -s，/r/ 等后读 /z/。",
+    "branches": [
+      [
+        "人物",
+        "gamer"
+      ],
+      [
+        "平台上的玩家识别名",
+        "gamertag"
+      ],
+      [
+        "game + -er → gamers",
+        "gamers"
+      ]
+    ],
+    "contrasts": "gamer 常是爱好者身份，不一定是职业选手；gamertag 是识别名，不是法律意义上的真实姓名。",
+    "practice": "The gamer changed her gamertag before joining the match.\n\n这位玩家在加入比赛前改了自己的玩家名。",
+    "words": [
+      "gamer",
+      "gamertag",
+      "gamers"
+    ],
+    "exclude": {
+      "pro-gamer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2653",
+    "meaning": "兄弟姐妹中的一个，同胞",
+    "core": "SIBLING：不指定性别地说兄弟姐妹中的一位",
+    "image": "不想逐一说 brother 或 sister，就用 sibling；two siblings 通常是两位兄弟姐妹，具体性别和长幼不由这个词决定。",
+    "intro": "古英语 sibling 原可泛指亲属，由 sibb 亲属、亲缘材料与 -ling 构成；近代重新采用，二十世纪前后收窄、普及为兄弟姐妹称呼。",
+    "forms": "旧 sib + -ling → sibling；-ling 在这里属于历史人物、关系构词，不能简单译成小。现代词义应以兄弟姐妹为核心。\n\n古英语广义亲属词在现代重新采用并收窄义，不是现代小孩称呼。",
+    "branches": [
+      [
+        "不分性别的同胞名称",
+        "sibling"
+      ],
+      [
+        "常用组合",
+        "older sibling；younger sibling；sibling rivalry"
+      ],
+      [
+        "sibling → siblings：不区分性别长幼的兄弟姐妹",
+        "sibling · siblings"
+      ]
+    ],
+    "contrasts": "sibling 不是儿女，后者是 children；cousin 是堂、表亲。一个人可以说 an only child，表示没有兄弟姐妹。",
+    "practice": "She has two siblings, an older brother and a younger sister.\n\n她有两位兄弟姐妹：一个哥哥和一个妹妹。",
+    "words": [
+      "sibling",
+      "siblings"
+    ],
+    "exclude": {
+      "sibling-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-sibling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2368",
+    "meaning": "宗教中的教亲关系及相关延伸",
+    "core": "GOD-：在这些亲属词里标明教亲关系",
+    "image": "godfather、godmother 是教父、教母；从孩子方向看，相应是 godson、goddaughter。这里不是在给人加神一般的力量。",
+    "intro": "god 神与亲属名称组合，用于洗礼等宗教制度中的教亲关系。现代也有非严格宗教角色、重要支持者等延伸，具体词义已经分化。",
+    "forms": "god + father／mother → godfather／godmother；god + son／daughter → godson／goddaughter。属于关系名称，不能按普通血缘父母、子女理解。",
+    "branches": [
+      [
+        "教亲一方",
+        "godfather · godmother"
+      ],
+      [
+        "被建立相应关系的孩子一方",
+        "godson · goddaughter"
+      ]
+    ],
+    "contrasts": "godfather 也可在特定语境指重要领袖、帮派首领或奠基人物；这些是整词引申，不能一律照搬到每个 god- 亲属词。",
+    "practice": "Her godmother sent a birthday card to her goddaughter.\n\n教母给教女寄了一张生日卡。",
+    "words": [
+      "godfather",
+      "godmother",
+      "godson",
+      "goddaughter"
+    ],
+    "exclude": {
+      "god-grandmother": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

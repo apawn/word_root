@@ -1,0 +1,241 @@
+[
+  {
+    "id": "B4517",
+    "meaning": "仔细查看、查找细节，名词再派生动词",
+    "core": "SCRUTINY：把细节拉近，认真看看是否对得上",
+    "image": "scrutiny → scrutinize、scrutinise，审查名词与同义拼写动词。",
+    "intro": "先抓认真看细节，再看词尾变化。审查不预设一定有错；更早翻找破烂等词源联想有讨论，不把生动画面当唯一史实。",
+    "forms": "scrutari → 晚期拉丁、法语相关形式 → scrutiny；去 y 接 -ize／-ise。\n\nscrutiny 去末 y 加 -ize、-ise 构成动词；两套拼写的现代词形并排。更早拉丁 scrutari 的搜查词源有废物中翻找、刮切等不同分析，不选一个编成确定画面。",
+    "branches": [
+      [
+        "审查名词与动作",
+        "scrutiny · scrutinize · scrutinise"
+      ],
+      [
+        "scrutiny 到 scrutinize、scrutinise 的仔细审查",
+        "scrutiny · scrutinize · scrutinizes · scrutinized · scrutinizing · scrutinise · scrutinises · scrutinised · scrutinising"
+      ]
+    ],
+    "contrasts": "scrutinize／scrutinise 是拼写变体，不是两种检查力度；scrutiny 与 screw 无现代构词关系。",
+    "practice": "The figures came under scrutiny, and the team scrutinized every entry.\n\n这些数字受到审查，团队逐项仔细核对。",
+    "words": [
+      "scrutiny",
+      "scrutinize",
+      "scrutinise",
+      "scrutinizes",
+      "scrutinized",
+      "scrutinizing",
+      "scrutinises",
+      "scrutinised",
+      "scrutinising"
+    ],
+    "exclude": {
+      "post-scrutiny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-scrutiny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3104",
+    "meaning": "尖头刺一下，借到短促痛感、尝试与背后伤害",
+    "core": "STAB：尖的一下，身体或心里都能感到",
+    "image": "stab → backstab，实体动作与伤害性背叛的比喻分开。",
+    "intro": "最容易用的是一下动作、一下痛和试一下三个画面。backstab 借背后伤害说背叛，并不要求真实动刀。",
+    "forms": "stabbe 等 → stab；早源联系 stob、stub 等有不同解释；back + stab → backstab。\n\nstab 古来有尖物刺入动作，早期见于苏格兰与英格兰北部词；更远 stob、stub 联系有争议。stabbed 双写 b 加完整 -ed。",
+    "branches": [
+      [
+        "刺击、痛感与尝试",
+        "stab"
+      ],
+      [
+        "背后伤害的比喻",
+        "backstab"
+      ],
+      [
+        "stab → stabbed：刺入，也有扎心的比喻",
+        "stab · stabbed"
+      ]
+    ],
+    "contrasts": "a stab at 是尝试，a stab of 是一下感受；具体场景决定是否真有刺击。",
+    "practice": "He had a stab at explaining why the character felt backstabbed.\n\n他试着解释，为什么那个人物觉得自己被人背后出卖。",
+    "words": [
+      "stab",
+      "backstab",
+      "stabbed"
+    ],
+    "exclude": {
+      "stabber": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2128",
+    "meaning": "某段时间持续那么久，表示时长",
+    "core": "-LONG：前面给单位，后面说持续这一整段",
+    "image": "daylong → weeklong → yearlong → lifelong，可按持续时间理解。",
+    "intro": "这组 long 不主要说空间长，而是时间长。前面的 day、week、year、life 把范围定下来，整词常放在名词前作修饰语。",
+    "forms": "时间名词 + long → 连写复合形容词；day 一天、week 一周、year 一年、life 一生。",
+    "branches": [
+      [
+        "按持续时间认形",
+        "daylong · weeklong · yearlong · lifelong"
+      ]
+    ],
+    "contrasts": "lifelong 长达一生与 lifetime 一生这段时间的名词不同；weeklong 说持续一周，不是每周一次。",
+    "practice": "The weeklong course sparked a lifelong interest.\n\n那门持续一周的课程，激发了她持续一生的兴趣。",
+    "words": [
+      "daylong",
+      "weeklong",
+      "yearlong",
+      "lifelong"
+    ],
+    "exclude": {
+      "hours-long": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hour-long": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "decades-long": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "decade-long": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "centuries-long": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4149",
+    "meaning": "给回、交出、呈现的旧材料，发展出多种固定结果表达",
+    "core": "RENDER：做出、交出某种结果，场景决定译法",
+    "image": "render → renderer；先分使成为、呈现与渲染，再看工具词。",
+    "intro": "计算机渲染只是常用分支之一。让文件无法读取、把诗译成英语、给出帮助都能用 render；后面的结构比一个中文译词更关键。",
+    "forms": "reddere → rendere → rendre → render；render + -er → renderer。另有 rend + -er 的冷门同形人物词，不作主线。\n\n古法语 sur- + rendre 构成 surrendre，发展为交出控制或所有权、投降。\n\n法语 rendre 接拉丁给回词族，现代直接加完整 ed。\n\nrender 经法语 rendre 接拉丁返还、交付词族，现代呈现、译文、抹灰等义各有发展。加 -ing 保留原词；这里不是 rend 撕裂加 -er。\n\nsurrender 接法语 surrendre 交出，现代加完整 -ed，/r/ 等后读 /d/。放弃抵抗与交出某物要按宾语看。",
+    "branches": [
+      [
+        "多种呈现、结果动作与工具",
+        "render · renderer"
+      ],
+      [
+        "render → surrender：交还、交出去",
+        "render · surrender"
+      ],
+      [
+        "render → rendered：给出、呈现、使成",
+        "render · rendered"
+      ],
+      [
+        "render → rendering：呈现、译法与抹灰",
+        "rendering"
+      ],
+      [
+        "sur- 交到对方 + render 交还 → surrendered",
+        "surrendered"
+      ]
+    ],
+    "contrasts": "render + 宾语 + 形容词常表示使成某状态；renderer 多说工具或相应人员，不能一律读成画家。",
+    "practice": "The renderer failed, which rendered the preview unavailable.\n\n渲染器出错，导致预览无法使用。",
+    "words": [
+      "render",
+      "renderer",
+      "surrender",
+      "rendered",
+      "rendering",
+      "surrendered"
+    ],
+    "exclude": {
+      "pre-render": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2790",
+    "meaning": "斧头工具名，借砍除形成裁撤比喻",
+    "core": "AXE：一斧砍掉，也能把计划整个砍掉",
+    "image": "axe 与 ax 先认同一工具，再看取消、裁撤动词和固定说法。",
+    "intro": "不要把每个使用场景都想成拿斧头。新闻里的 axe a service 常是取消服务；have an axe to grind 则是带私心、另有目的。",
+    "forms": "æx → ax、axe；名词直接作动词；get the axe 等为固定比喻。",
+    "branches": [
+      [
+        "工具与裁撤动作",
+        "axe"
+      ]
+    ],
+    "contrasts": "axes 的斧头复数与 axis 的复数读音不同；axe /æks/ 也不是 ask /ɑːsk、æsk/ 的标准同一拼写。",
+    "practice": "The proposal got the axe before work began.\n\n提案在开工前就被取消了。",
+    "words": [
+      "axe"
+    ],
+    "exclude": {
+      "axe-murder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moot-axe": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3401",
+    "meaning": "角、角质般性质，另有固定的性兴奋口语义",
+    "core": "HORNY：先分有角、角质，再读现代口语",
+    "image": "horny 的实物性质和性兴奋用法分别由语境选取，不强讲成一种身体构造。",
+    "intro": "horn + -y 能解释有角、角质般硬等旧义。现代性兴奋义常用于随意口语，历史可能接旧俚语 horn 的相关用法。",
+    "forms": "horn + -y → horny；旧有角、角质性质；性兴奋义已词汇化，具体早期联想不硬定一条。",
+    "branches": [
+      [
+        "实物性质与固定口语义",
+        "horny"
+      ]
+    ],
+    "contrasts": "horny 不自动是辱骂，也不是普通正式医学术语；动物有角与人的性兴奋需按语境分开。",
+    "practice": "The article compares the literal and slang meanings of horny.\n\n文章比较了 horny 的字面义和俚语义。",
+    "words": [
+      "horny"
+    ],
+    "exclude": {
+      "horny-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ultra-horny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2418",
+    "meaning": "鸟名与羽色比喻，旧吞食动词另源",
+    "core": "RAVEN：看渡鸦的乌黑羽色，别把同形词都连过来",
+    "image": "raven 鸟名到 raven hair；吞食词族与 ravenous 的关系另接法语拉丁材料。",
+    "intro": "鸟名先学实体与颜色就够。文学里的神秘象征可帮助读作品，却不能当成生物定义，也不用拿贪食故事替代真正词源。",
+    "forms": "hræfn → raven 鸟；鸟名作乌黑修饰语；raven 吞食旧动词另接 raviner、rapere 一支。\n\nraven 承古英语 hræfn、ræfen 等日耳曼鸟名，远处常联系模仿粗哑叫声。现代 -s，/n/ 后读 /z/；此处是鸟名，这里学习鸟名的复数。",
+    "branches": [
+      [
+        "鸟名与乌黑性质",
+        "raven"
+      ],
+      [
+        "raven → ravens：渡鸦",
+        "ravens"
+      ]
+    ],
+    "contrasts": "raven /reɪvən/ 鸟名与旧吞食动词的 /rævən/ 等读法分开；ravenous 不是渡鸦派生。",
+    "practice": "The raven’s glossy feathers inspired the phrase raven hair.\n\n渡鸦有光泽的羽色，构成了 raven hair 这种乌黑头发的比喻画面。",
+    "words": [
+      "raven",
+      "ravens"
+    ],
+    "exclude": {
+      "raven-messenger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "raven-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2601",
+    "meaning": "科学缩短材料来自 solution，唱名和太阳词另源",
+    "core": "SOL：同样三个字母，要先分是在化学、音乐还是天文",
+    "image": "sol 科学分支 → aerosol、cytosol；唱名与火星日保留独立来源。",
+    "intro": "最忌把 aerosol 想成空气加太阳。科学 sol 来自 solution 的缩短材料；气溶胶与细胞质基质各有领域定义，词形联系不代表两者同一种体系。",
+    "forms": "solution → -sol、sol；aero- + sol → aerosol；cyto- + sol → cytosol；唱名接赞歌音节，火星日接太阳名。",
+    "branches": [
+      [
+        "科学分散体系与细胞液相",
+        "sol · aerosol · cytosol"
+      ],
+      [
+        "同形的唱名、太阳日",
+        "sol"
+      ]
+    ],
+    "contrasts": "aerosol 的颗粒分散在气体中，非全溶成气体；cytosol 不是全部 cytoplasm；音乐 sol 也不是化学词。",
+    "practice": "The glossary separates sol in chemistry from sol in music.\n\n词汇表把化学里的 sol 与音乐里的 sol 分开讲解。",
+    "words": [
+      "sol",
+      "aerosol",
+      "cytosol"
+    ],
+    "exclude": {}
+  }
+]

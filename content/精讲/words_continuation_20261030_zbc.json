@@ -1,0 +1,581 @@
+[
+  {
+    "word": "bullets",
+    "ipa": "/ˈbʊlɪts/",
+    "meaning": "子弹、弹丸；项目符号〔复数〕",
+    "sense": "小小的一颗圆球，后来专门用作弹丸；版面上一颗颗标出条目的圆点，也叫 bullets。",
+    "split": "bullet + -s，/t/ 后读 /s/。bullet 借法语 bullete 等与 boule 球相关的小称，后来有相应法语词形影响。",
+    "history": [
+      [
+        "法语球的小称 → 英语 bullet",
+        "小球相关旧名 → 弹丸等固定用途"
+      ],
+      [
+        "bullet + -s → bullets",
+        "多颗弹丸；多个版面项目符号"
+      ]
+    ],
+    "explanation": "bullet points 项目符号条目；rubber bullets 橡胶弹；bullets in a list 清单中的圆点符号。",
+    "usage": "a list with bullets 带项目符号的清单；sweat bullets 紧张得冒汗，口语比喻。",
+    "contrast": "bullets 在排版语境里是项目符号，不是说文档里真的有武器。英语 bullet 可常译子弹，严格技术场合还会区分弹头与整发弹药。",
+    "examples": [
+      [
+        "Use bullets to separate the main points.",
+        "用项目符号分开主要要点。"
+      ],
+      [
+        "The museum displayed several old bullets.",
+        "博物馆展出了几颗旧弹丸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bullets#English",
+      "https://en.wiktionary.org/wiki/bullet#English"
+    ]
+  },
+  {
+    "word": "carriers",
+    "ipa": "英 /ˈkæriəz/；美 /ˈkæriərz/",
+    "meaning": "承运人、运输公司；运营商；携带者、承载物〔复数〕",
+    "sense": "把东西从这里带到那里，或者替某种内容提供承载通道，就是 carriers 的角色。",
+    "split": "carry 改 y 为 i 加完整 -er → carrier，再加 -s。carry 经法语接车辆、运输材料，carrier 先指携带、运送的人或物，再按领域专门化。",
+    "history": [
+      [
+        "carry + -er → carrier",
+        "运送、携带 → 承载者"
+      ],
+      [
+        "carrier + -s → carriers",
+        "多家承运公司、运营商；多个携带者、承载物"
+      ]
+    ],
+    "explanation": "air carriers 航空承运公司；mobile carriers 移动通信运营商；pet carriers 宠物运输箱。",
+    "usage": "carriers of information 信息的载体；several carriers 几家承运商或运营商。",
+    "contrast": "carriers 可以是人、公司，也可以是物或技术通道，具体承载什么由上下文说明。carrier 拼写有 rr，是原来的 carry 保留下来。",
+    "examples": [
+      [
+        "Several carriers offer flights on this route.",
+        "几家航空公司提供这条航线的航班。"
+      ],
+      [
+        "The shop sells lightweight pet carriers.",
+        "店里卖轻便的宠物运输箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carriers#English",
+      "https://en.wiktionary.org/wiki/carrier#English"
+    ]
+  },
+  {
+    "word": "cleaned",
+    "ipa": "/kliːnd/",
+    "meaning": "清洁、清理了〔过去式、过去分词〕",
+    "sense": "把污物、灰尘、杂乱去掉，让东西恢复干净，是 cleaned。对象可以是房间，也可以是需要整理的数据。",
+    "split": "clean + -ed，/n/ 后读 /d/。clean 继承古英语 claene 干净、纯净等义，相应动词说使干净。",
+    "history": [
+      [
+        "古英语 claene → clean；相应动词",
+        "干净、纯净 → 使干净、清理"
+      ],
+      [
+        "clean + -ed → cleaned",
+        "已经清洁、整理"
+      ]
+    ],
+    "explanation": "cleaned the room 打扫房间；cleaned the windows 擦了窗；cleaned the data 清理数据。",
+    "usage": "freshly cleaned 刚清洁过的；cleaned up 整理干净、收拾好。",
+    "contrast": "cleaned 是已做过的动作，不保证永远保持 clean。数据 cleaned 常说纠正、去除重复或无用部分，具体处理仍要看上下文。",
+    "examples": [
+      [
+        "We cleaned the windows before the guests arrived.",
+        "客人到之前，我们擦了窗。"
+      ],
+      [
+        "The table had been cleaned and set for dinner.",
+        "餐桌已经擦干净，摆好晚餐餐具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cleaned#English",
+      "https://en.wiktionary.org/wiki/clean#English"
+    ]
+  },
+  {
+    "word": "diamonds",
+    "ipa": "/ˈdaɪməndz/",
+    "meaning": "钻石、金刚石；菱形、纸牌方块〔复数〕",
+    "sense": "先认宝石 diamonds，再认它在图案里的菱形。纸牌上的方块花色，也用同一个名字。",
+    "split": "diamond + -s，/d/ 后读 /z/。diamond 与 adamant 同出希腊 adamas，走过拉丁、中世纪拉丁 diamant- 与法语 diamant 的词形路线。",
+    "history": [
+      [
+        "希腊 adamas → 拉丁相关形式 → 法语 diamant → diamond",
+        "极硬材料、宝石旧称 → 金刚石、钻石"
+      ],
+      [
+        "diamond + -s → diamonds",
+        "多颗钻石；多个菱形或纸牌方块花色"
+      ]
+    ],
+    "explanation": "a ring with diamonds 镶钻石的戒指；the ace of diamonds 方块 A；a pattern of diamonds 菱形图案。",
+    "usage": "cut diamonds 切割钻石；red diamonds 红色菱形。",
+    "contrast": "diamonds 是否是宝石，要看 jewel、ring，还是 cards、pattern 等语境。the ten of diamonds 的 diamonds 是固定花色名，不是十颗宝石。",
+    "examples": [
+      [
+        "The cloth was patterned with red diamonds.",
+        "布上有红色菱形图案。"
+      ],
+      [
+        "She played the ace of diamonds.",
+        "她打出了方块 A。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diamonds#English",
+      "https://en.wiktionary.org/wiki/diamond#English"
+    ]
+  },
+  {
+    "word": "environments",
+    "ipa": "/ɪnˈvaɪrənmənts/",
+    "meaning": "环境、周围条件；运行环境〔复数〕",
+    "sense": "一个人、物、程序不是孤立存在的，周围有一整套影响它的条件；把不同条件组分开说，就是 environments。",
+    "split": "environment + -s，/t/ 后读 /s/。environment 联系法语 environ 周围、environner 围绕，现代也可对应 environ + -ment 理解成周围状态。",
+    "history": [
+      [
+        "法语 environ、environner → environment",
+        "围绕 → 对象所处的周围条件"
+      ],
+      [
+        "environment + -s → environments",
+        "多种自然、工作、学习或软件环境"
+      ]
+    ],
+    "explanation": "learning environments 学习环境；working environments 工作环境；test environments 测试环境。",
+    "usage": "different environments 不同环境；adapt to new environments 适应新环境。",
+    "contrast": "the environment 常概括自然环境，environments 则把不同场所、条件分开数。软件环境也是程序周围的一套条件，不只指某个房间。",
+    "examples": [
+      [
+        "These plants grow in very different environments.",
+        "这些植物生长在截然不同的环境里。"
+      ],
+      [
+        "The team tested the program in two environments.",
+        "团队在两套运行环境中测试了程序。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/environments#English",
+      "https://en.wiktionary.org/wiki/environment#English"
+    ]
+  },
+  {
+    "word": "favorites",
+    "ipa": "/ˈfeɪvərɪts/，也常压缩为 /ˈfeɪvrɪts/",
+    "meaning": "最喜欢的人、物；热门获胜者；收藏项〔复数，美式拼写〕",
+    "sense": "从一堆选择里，你总会先挑它们，这些就是 favorites。浏览器里存下来方便再找的收藏项，也借用了偏爱的意思。",
+    "split": "favorite + -s，/t/ 后读 /s/。favorite 经法语、意大利语受偏爱词族传入，和 favor 好感、支持同族；英式通常写 favourites。",
+    "history": [
+      [
+        "法语、意大利语受偏爱材料 → favorite、favourite",
+        "受偏爱的 → 特别喜欢的人物、事物"
+      ],
+      [
+        "favorite + -s → favorites",
+        "多个最爱、热门选手或收藏项"
+      ]
+    ],
+    "explanation": "childhood favorites 童年最爱；one of my favorites 我的最爱之一；add to favorites 加入收藏。",
+    "usage": "tournament favorites 夺冠热门；old favorites 一直喜欢的熟悉事物。",
+    "contrast": "favorites 可以指自己最喜欢的，也可指大家预测会获胜的热门对象。My favorite books 的 favorite 作修饰语保持单数，these are my favorites 才是名词复数。",
+    "examples": [
+      [
+        "These songs are old favorites of mine.",
+        "这些歌是我一直很喜欢的老歌。"
+      ],
+      [
+        "Save the page to your favorites.",
+        "把这个页面存到收藏夹里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/favorites#English",
+      "https://en.wiktionary.org/wiki/favorite#English"
+    ]
+  },
+  {
+    "word": "holders",
+    "ipa": "英 /ˈhəʊldəz/；美 /ˈhoʊldərz/",
+    "meaning": "持有者；固定、容纳物品的器具〔复数〕",
+    "sense": "可以是人手里持有某种东西，也可以是一个器具替你把东西固定、装住。两种 holders 都抓住拿住这个作用。",
+    "split": "hold + 完整 -er → holder，再加 -s。hold 继承古英语 healdan 保持、照看、拿住，er 可表示做事的人、器具。",
+    "history": [
+      [
+        "古英语 healdan → hold；+ -er → holder",
+        "拿住、保持 → 持有者、容纳器"
+      ],
+      [
+        "holder + -s → holders",
+        "多个持有人、多个固定或容纳工具"
+      ]
+    ],
+    "explanation": "ticket holders 持票者；record holders 纪录保持者；cup holders 杯架。",
+    "usage": "pen holders 笔筒、笔架；holders of a certificate 证书持有者。",
+    "contrast": "holders 的 er 表角色、工具，不是比较级。a cup holder 是一个杯架，cup 作前置用途说明，通常不用复数 cups。",
+    "examples": [
+      [
+        "Ticket holders may enter through the side door.",
+        "持票者可从侧门进入。"
+      ],
+      [
+        "The car has two cup holders.",
+        "车里有两个杯架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/holders#English",
+      "https://en.wiktionary.org/wiki/holder#English"
+    ]
+  },
+  {
+    "word": "idiots",
+    "ipa": "/ˈɪdiəts/",
+    "meaning": "笨蛋、蠢人〔复数，贬称或自嘲〕",
+    "sense": "今天这个词常是说人做事太蠢的重话，也可用来懊恼地自嘲。它早期的私人、外行义，并不是现代中性的普通人称呼。",
+    "split": "idiot + -s，/t/ 后读 /s/。idiot 经拉丁 idiota、法语 idiote 接希腊 idiotes 私人、外行，较早 idios 是自己的、私人的。",
+    "history": [
+      [
+        "希腊 idios → idiotes → 拉丁、法语 → idiot",
+        "私人、非专业者 → 无知者的贬称"
+      ],
+      [
+        "idiot + -s → idiots",
+        "多个被骂作笨蛋的人；也可自嘲"
+      ]
+    ],
+    "explanation": "feel like idiots 觉得自己像笨蛋；call people idiots 骂人是笨蛋。",
+    "usage": "act like idiots 做傻事；a bunch of idiots 一群笨蛋，明显贬义。",
+    "contrast": "idiots 现代多带侮辱、自嘲色彩，不是专业智力分类。词源的外行与今天的贬义之间有历史变化，不等于外行天然愚蠢。",
+    "examples": [
+      [
+        "We felt like idiots when we found the missing key in the door.",
+        "发现丢失的钥匙就插在门上时，我们觉得自己像笨蛋。"
+      ],
+      [
+        "The coach told them to stop acting like idiots.",
+        "教练叫他们别再做傻事了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/idiots#English",
+      "https://en.wiktionary.org/wiki/idiot#English"
+    ]
+  },
+  {
+    "word": "initiatives",
+    "ipa": "/ɪˈnɪʃətɪvz/",
+    "meaning": "倡议、举措、主动发起的行动〔复数〕",
+    "sense": "不是等事情自己发生，而是先动起来、发起一件要推进的事，就是 initiative。具体的一项项行动便是 initiatives。",
+    "split": "initiative + -s，/v/ 后读 /z/。initiative 借法语相应形式，远接拉丁 initium 开端、initiare 开始、发起的词族。",
+    "history": [
+      [
+        "拉丁 initium、initiare → 法语 initiative → 英语 initiative",
+        "开端、发起 → 主动开始的能力、行动"
+      ],
+      [
+        "initiative + -s → initiatives",
+        "一项项主动发起的计划、举措"
+      ]
+    ],
+    "explanation": "community initiatives 社区倡议；new initiatives 新举措；launch initiatives 发起行动计划。",
+    "usage": "educational initiatives 教育举措；support local initiatives 支持当地倡议。",
+    "contrast": "initiatives 数具体发起的事情；take the initiative 是掌握主动，show initiative 是表现主动性，通常不因为多次主动就机械改成复数。",
+    "examples": [
+      [
+        "The group supports local environmental initiatives.",
+        "这个团体支持当地的环保倡议。"
+      ],
+      [
+        "The school introduced several reading initiatives.",
+        "学校推出了几项阅读促进举措。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/initiatives#English",
+      "https://en.wiktionary.org/wiki/initiative#English"
+    ]
+  },
+  {
+    "word": "inning",
+    "ipa": "/ˈɪnɪŋ/",
+    "meaning": "〔棒球等〕局、比赛中的一轮",
+    "sense": "把整场比赛分成一轮轮，轮到队伍上场行动的那一段，发展成 inning 的球类用法；现代最常在棒球里认出一局。",
+    "split": "Etymonline 追到古英语 innung，来自 innian 进入、收进；Wiktionary 则把现代 inning 解释为从 innings 逆构。旧动作名词与球类单数的形成，分层理解。",
+    "history": [
+      [
+        "旧词背景：古英语 innian、innung；另有收进谷物的旧用",
+        "进入、收进的动作名词"
+      ],
+      [
+        "球类用法与现代 inning",
+        "Etymonline 追旧词传承；Wiktionary 解释为把 innings 当复数后逆构单数"
+      ]
+    ],
+    "explanation": "the first inning 第一局；the final inning 最后一局；in the third inning 在第三局。",
+    "usage": "an extra inning 加赛的一局；the end of the inning 这一局结束。",
+    "contrast": "棒球常用单数 an inning、复数 innings。板球惯用 an innings 表一个击球局，那个 s 属于固定词形，不能照棒球删掉。",
+    "examples": [
+      [
+        "The team scored in the first inning.",
+        "球队在第一局得了分。"
+      ],
+      [
+        "Rain interrupted the final inning.",
+        "雨打断了最后一局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inning#English",
+      "https://www.etymonline.com/word/inning"
+    ]
+  },
+  {
+    "word": "innings",
+    "ipa": "/ˈɪnɪŋz/",
+    "meaning": "〔棒球〕局〔复数〕；〔板球〕击球局〔单复数同形〕",
+    "sense": "棒球里可以数几局 innings；板球却把一个击球局也叫 an innings。相同外形，计数习惯跟着运动变。",
+    "split": "现代棒球可按 inning + -s 理解，/ŋ/ 后读 /z/；板球保留固定 innings。更早与进入、收进的旧动词有关，Wiktionary 还把 inning 单数解释为由 innings 逆构。",
+    "history": [
+      [
+        "收进、进入的旧词背景 → 球类 innings",
+        "较早动作词的专门化，单数形成有不同分析"
+      ],
+      [
+        "现代棒球 inning、innings；板球固定 innings",
+        "棒球按单复数配套，板球一个或多个击球局均保留 s"
+      ]
+    ],
+    "explanation": "nine innings 九局〔棒球〕；an excellent innings 一段出色的击球表现〔板球〕。",
+    "usage": "extra innings 加赛局〔棒球〕；the first innings 第一击球局〔板球〕。",
+    "contrast": "an innings 不是漏改复数，而是板球正常用法。读到 innings 先看是在谈哪项运动，再判断单复数。",
+    "examples": [
+      [
+        "The baseball game lasted nine innings.",
+        "这场棒球赛打了九局。"
+      ],
+      [
+        "He played an excellent innings in the cricket match.",
+        "他在这场板球比赛里打出了一段精彩表现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/innings#English",
+      "https://en.wiktionary.org/wiki/inning#English",
+      "https://www.etymonline.com/word/inning"
+    ]
+  },
+  {
+    "word": "insects",
+    "ipa": "/ˈɪnsekts/",
+    "meaning": "昆虫〔复数〕",
+    "sense": "身体上看得出一节一节，好像分成几段，这个外观启发了 insect 的老名字。今天 insects 指昆虫这一类动物。",
+    "split": "insect + -s，/t/ 后读 /s/。insect 借拉丁 insectum，接 insecare 切入的分词材料，名称仿译希腊 entomon 被切开的。",
+    "history": [
+      [
+        "拉丁 secare → insecare → insectum → insect",
+        "切、分节的画面 → 有明显体节的动物名"
+      ],
+      [
+        "insect + -s → insects",
+        "多只、多种昆虫"
+      ]
+    ],
+    "explanation": "flying insects 飞虫；pollinating insects 传粉昆虫；insects in the garden 花园里的昆虫。",
+    "usage": "study insects 研究昆虫；tiny insects 小昆虫。",
+    "contrast": "insects 这个名称借分节形状命名，不是说活虫真被切断。日常 bugs 范围常较宽，蜘蛛等也可能被随口叫 bug，但不因此都是昆虫。",
+    "examples": [
+      [
+        "Many insects visit the flowers in summer.",
+        "夏天许多昆虫会飞来光顾花朵。"
+      ],
+      [
+        "The children observed insects through a magnifying glass.",
+        "孩子们透过放大镜观察昆虫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insects#English",
+      "https://en.wiktionary.org/wiki/insect#English"
+    ]
+  },
+  {
+    "word": "justified",
+    "ipa": "/ˈdʒʌstɪfaɪd/",
+    "meaning": "证明合理了；有正当理由的；两端对齐的〔过去式、过去分词及形容词〕",
+    "sense": "给一件事拿出站得住的理由，是 justified；形容决定、反应时，就是它有相应根据。排版里另有两端对齐的用法。",
+    "split": "justify 的辅音字母加 y 改为 i，再加完整 -ed；尾部仍读 /faɪd/。justify 经法语接拉丁 iustificare，使正当，iustus 正当加使成材料。",
+    "history": [
+      [
+        "拉丁 iustus、iustificare → 法语 → justify",
+        "使成为正当的 → 拿出理由证明合理"
+      ],
+      [
+        "justify 改 y 为 i + -ed → justified",
+        "已有理由支持；排版中调整到两端对齐"
+      ]
+    ],
+    "explanation": "a justified concern 有根据的担忧；justified the decision 说明决定的理由；fully justified 理由充分的。",
+    "usage": "justified text 两端对齐文字；feel justified in doing 觉得做某事有充分理由。",
+    "contrast": "justified 常说某个行为、反应有依据，不等于任何人都已同意它。排版的 justified 说文字边缘对齐，要按文档语境识别。",
+    "examples": [
+      [
+        "The evidence justified her concern.",
+        "证据说明她的担忧有根据。"
+      ],
+      [
+        "The paragraph is fully justified.",
+        "这一段做了两端对齐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/justified#English",
+      "https://en.wiktionary.org/wiki/justify#English"
+    ]
+  },
+  {
+    "word": "needing",
+    "ipa": "/ˈniːdɪŋ/",
+    "meaning": "需要〔现在分词、动名词〕",
+    "sense": "眼前少了某个条件，得有它事情才好做，就是 needing。这个 ing 形式也常放在名词后面说明谁有需要。",
+    "split": "need + -ing，直接相加。need 在中古英语合流古英语必要、欲求相关词形，现代普通动词能按 need、needed、needing 变化。",
+    "history": [
+      [
+        "古英语必要、欲求词形 → 中古英语 → need",
+        "有必要、缺少并需要"
+      ],
+      [
+        "need + -ing → needing",
+        "需要的状态、过程；作后置描述"
+      ]
+    ],
+    "explanation": "people needing help 需要帮助的人；without needing to ask 不必开口问。",
+    "usage": "needing attention 需要关注；needing more time 需要更多时间。",
+    "contrast": "普通状态常直接说 need、needs；needing 仍可出现在 people needing help、without needing 等结构。情态用法 need not 则不按这条普通动词 ing 来变。",
+    "examples": [
+      [
+        "Anyone needing help can ask at the desk.",
+        "任何需要帮助的人都可以到服务台询问。"
+      ],
+      [
+        "The app saves your work without needing a connection.",
+        "应用不需要联网就能保存工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needing#English",
+      "https://en.wiktionary.org/wiki/need#English"
+    ]
+  },
+  {
+    "word": "nerves",
+    "ipa": "英 /nɜːvz/；美 /nɜːrvz/",
+    "meaning": "神经〔复数〕；紧张、忐忑情绪",
+    "sense": "身体里传递信号的是 nerves；人在重要事情前绷得很紧，也会借这个词说紧张。",
+    "split": "nerve + -s，/v/ 后读 /z/。nerve 经法语或中世纪拉丁接 nervus，旧兼指筋腱、弦与力量，后有神经和胆量、情绪等用法。",
+    "history": [
+      [
+        "拉丁 nervus → 法语或拉丁借入 → nerve",
+        "筋腱、力量等旧义 → 神经、胆量"
+      ],
+      [
+        "nerve + -s → nerves",
+        "多条神经；紧张情绪的复数说法"
+      ]
+    ],
+    "explanation": "steady nerves 镇定的心态；calm your nerves 平复紧张；get on someone’s nerves 惹人烦。",
+    "usage": "nerves before a performance 演出前的紧张；nerves in the hand 手部神经。",
+    "contrast": "nerves 说紧张时不直接等于医学疾病。nerve 单数还可指胆量、厚脸皮，nerves 的常见情绪义则是忐忑、紧绷。",
+    "examples": [
+      [
+        "She felt a rush of nerves before the performance.",
+        "演出前，她突然紧张起来。"
+      ],
+      [
+        "The constant tapping gets on my nerves.",
+        "不停的敲击声让我烦躁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nerves#English",
+      "https://en.wiktionary.org/wiki/nerve#English"
+    ]
+  },
+  {
+    "word": "paths",
+    "ipa": "英 /pɑːðz/；美 /pæðz/，也读 /pæθs/",
+    "meaning": "小路、路径；途径〔复数〕",
+    "sense": "脚下一条条可走的路线是 paths；事情要怎么推进、文件到哪里找，也可以借路径这个画面。",
+    "split": "path + -s，常把 /θ/ 浊化成 /ð/ 后读 /z/，也有保留 /θs/ 的读法。path 接古英语 paeth，更远来源的借词分析仍有争论。",
+    "history": [
+      [
+        "古英语 paeth → path",
+        "小路、通道 → 行进路线、行动途径"
+      ],
+      [
+        "path + -s → paths",
+        "多条路、多个实现办法或文件路径"
+      ]
+    ],
+    "explanation": "forest paths 林间小路；career paths 职业发展道路；file paths 文件路径。",
+    "usage": "different paths 不同道路；our paths crossed 我们相遇了，固定比喻。",
+    "contrast": "paths 的 th 不一定照原形清音读，常用 /ðz/，也有变体。a path through the woods 说穿过树林的路，paths to a goal 则说达到目标的途径。",
+    "examples": [
+      [
+        "Several paths lead down to the lake.",
+        "几条小路通向湖边。"
+      ],
+      [
+        "The program checks the file paths before opening them.",
+        "程序打开文件前先检查路径。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paths#English",
+      "https://en.wiktionary.org/wiki/path#English"
+    ]
+  },
+  {
+    "word": "peers",
+    "ipa": "英 /pɪəz/；美 /pɪrz/",
+    "meaning": "同辈、同等地位者；贵族〔复数〕；仔细看、凝视〔第三人称单数〕",
+    "sense": "和你处在相近年龄、经验或地位的人，是 peers；另一个动词 peers 则像眯起眼、凑近仔细看，来源分开。",
+    "split": "peer + -s，词尾读 /z/。同等者名词经法语 per、peir 接拉丁 par 相等；凝视动词有不同来源，不能从同辈关系直接推出。",
+    "history": [
+      [
+        "拉丁 par → 法语 per、peir → 名词 peer；另线凝视动词",
+        "相等地位者、同辈；费力地看"
+      ],
+      [
+        "peer + -s → peers",
+        "多个同辈；某人仔细看"
+      ]
+    ],
+    "explanation": "learn from peers 向同辈学习；pressure from peers 同辈压力；peers through the window 透过窗仔细看。",
+    "usage": "respected by peers 受同行尊重；peers at the tiny print 细看小字。",
+    "contrast": "peers 不只指同龄人，也可指相似专业、地位的人。动词 peers 常和 at、into、through 连用，由句法就能认出是在看。",
+    "examples": [
+      [
+        "She discussed the idea with her peers.",
+        "她和同行讨论了这个想法。"
+      ],
+      [
+        "He peers through the window at the empty room.",
+        "他透过窗户仔细看着空房间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peers#English",
+      "https://en.wiktionary.org/wiki/peer#English"
+    ]
+  }
+]

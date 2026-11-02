@@ -1,0 +1,204 @@
+[
+  {
+    "id": "B3291",
+    "meaning": "时代、此世生活到世俗事务，思想原则再形成人物名",
+    "core": "SECULAR：此世事务怎样安排，是否由宗教权威主导",
+    "image": "secular → secularism、secularist；长期趋势义另承时间背景。",
+    "intro": "形容词先看事务性质，-ism 说原则，-ist 说支持者。宗教信仰、公共制度与长期趋势是不同层面的用法。",
+    "forms": "saeculum → saecularis → seculer → secular；-ism 思想原则，-ist 人物。",
+    "branches": [
+      [
+        "事务性质、思想与支持者",
+        "secular · secularism · secularist"
+      ]
+    ],
+    "contrasts": "secular 不自动等于 atheist；secular trend 是长期趋势，不是宗教评价。",
+    "practice": "The secularist explained a particular interpretation of secularism.\n\n世俗主义者解释了世俗主义的一种具体理解。",
+    "words": [
+      "secular",
+      "secularism",
+      "secularist"
+    ],
+    "exclude": {
+      "pro-secular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4434",
+    "meaning": "击杀词族的名词、动词，场所名与法律名称各自定型",
+    "core": "SLAUGHTER：杀戮、屠宰是本义，惨败是夸张比喻",
+    "image": "slaughter → slaughterhouse；manslaughter 按专门法律词义理解。",
+    "intro": "屠宰场按用途命名，法律类别却有自己的制度定义。相同成分能帮助识别历史联系，不能替代现代专门含义。",
+    "forms": "北欧 slaughter 相关词 → 英语 slaughter；house 场所；man + slaughter 形成定型词。",
+    "branches": [
+      [
+        "杀戮活动、场所与法律名称",
+        "slaughter · slaughterhouse · manslaughter"
+      ]
+    ],
+    "contrasts": "manslaughter 的现代法律范围看法域；体育 slaughtered 是惨败比喻。",
+    "practice": "The textbook distinguishes slaughter as an ordinary word from manslaughter as a legal term.\n\n教材区分普通词 slaughter 与法律术语 manslaughter。",
+    "words": [
+      "slaughter",
+      "slaughterhouse",
+      "manslaughter"
+    ],
+    "exclude": {
+      "self-slaughter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1797",
+    "meaning": "杀、杀灭的组合成分，前项说明对象、后项形成行为或制剂名",
+    "core": "-CIDE：先问针对谁，再看是行为还是制剂",
+    "image": "genocide 种族灭绝，pesticide 农药、杀有害生物剂，fungicide 杀真菌剂。",
+    "intro": "这一结尾能命名杀害行为，也能命名作用物。fungi- 与 pest- 限定对象，genocide 的现代概念则有专门定义。",
+    "forms": "caedere 的相关词干 -cid- → -cide；fungi- 真菌 + -cide → fungicide。",
+    "branches": [
+      [
+        "杀害行为与控制剂",
+        "genocide · pesticide · fungicide"
+      ]
+    ],
+    "contrasts": "-cide 不保证制剂消灭所有目标个体；fungicide 的菌特别是真菌。",
+    "practice": "A fungicide is one kind of pesticide, aimed at fungi.\n\n杀真菌剂是一类针对真菌的农药。",
+    "words": [
+      "genocide",
+      "pesticide",
+      "fungicide"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3551",
+    "meaning": "套住手臂的衣袖，再到套住、保护物品的结构",
+    "core": "SLEEVE：一段能套住东西的外层",
+    "image": "sleeve → sleeved、sleeveless。",
+    "intro": "衣袖、套管、唱片封套用覆盖、保护的功能连接。有袖与无袖由 -ed、-less 给出不同性质，袖子长短再由前项决定。",
+    "forms": "slief、sliefe → sleve → sleeve；+ -ed 只加 d，+ -less 保留 e。\n\n古英语继承，v 后 s 读 z。",
+    "branches": [
+      [
+        "部件与有无性质",
+        "sleeve · sleeved · sleeveless"
+      ],
+      [
+        "sleeve → sleeves：衣袖和袖状覆盖物",
+        "sleeve · sleeves"
+      ]
+    ],
+    "contrasts": "sleeveless 与 short-sleeved 不同；-ed 读 /d/。",
+    "practice": "The shop sells both sleeveless tops and long-sleeved shirts.\n\n店里既卖无袖上衣，也卖长袖衬衫。",
+    "words": [
+      "sleeve",
+      "sleeved",
+      "sleeveless",
+      "sleeves"
+    ],
+    "exclude": {
+      "sleeve-link": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4524",
+    "meaning": "远端传输的动作，再说明执行者与重复次数",
+    "core": "UPLOAD：把内容传到服务端，-er 指谁做，re- 指再做",
+    "image": "upload → uploader；reupload 再上传。",
+    "intro": "人或程序都能执行上传；重新上传是一次新传输，不只是重新打开页面。上传者与创作者身份也要分别判断。",
+    "forms": "up- + load → upload；-er 人、工具，re- 再次。\n\nuploaders 可指人，也可指执行上传的软件工具。\n\nup 向上 + load 装载 → upload，网络里说把本地内容送往远端服务的方向；uploads 兼名词复数与第三人称单数动词，重音常有差别。",
+    "branches": [
+      [
+        "传输、执行者与重复动作",
+        "upload · uploader · reupload"
+      ],
+      [
+        "upload 的过程与执行者形式",
+        "upload · uploading · uploader · uploaders"
+      ],
+      [
+        "upload → uploads：向服务器上传及上传项目",
+        "upload · uploads"
+      ]
+    ],
+    "contrasts": "uploader 不自动等于原作者；reupload 与 refresh 不同。",
+    "practice": "The uploader asked her to reupload the file after the failed upload.\n\n上传失败后，上传工具提示她重新上传文件。",
+    "words": [
+      "upload",
+      "uploader",
+      "reupload",
+      "uploading",
+      "uploaders",
+      "uploads"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4513",
+    "meaning": "滚动动作的器具名，复合词再指定部件与用途",
+    "core": "ROLLER：什么在滚、靠滚做什么，前后项给出答案",
+    "image": "roller → rollerball、steamroller。",
+    "intro": "滚筒可以压、涂或支撑，走珠笔靠小球滚动带墨，压路机靠重滚筒压平。-er 常是工具，不必是一个滚来滚去的人。",
+    "forms": "roll + -er → roller；roller + ball；steam + roller 的历史机械名称。",
+    "branches": [
+      [
+        "滚动工具与复合用途",
+        "roller · rollerball · steamroller"
+      ]
+    ],
+    "contrasts": "rollerball 常按笔的供墨类型命名；steamroller 的现代日常用法不保证机器仍用蒸汽。",
+    "practice": "The rollerball’s tiny ball rolls, while a steamroller uses a much larger roller.\n\n走珠笔的小球在滚，压路机则使用大得多的滚筒。",
+    "words": [
+      "roller",
+      "rollerball",
+      "steamroller"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4547",
+    "meaning": "把相关人、物纳入，两个性质名词表达同一核心",
+    "core": "INCLUSIVE：把门打开，让原本可能被排除的人能进来",
+    "image": "inclusive → inclusiveness、inclusivity。",
+    "intro": "活动、设计、教育安排都可谈包容。两个名词构形、重音不同，但核心意义大幅重叠，不必硬造一个行动、一个态度的区分。",
+    "forms": "include → inclusive；+ -ness 保留 e；去 e + -ity → inclusivity。",
+    "branches": [
+      [
+        "性质与两种名词形式",
+        "inclusive · inclusiveness · inclusivity"
+      ]
+    ],
+    "contrasts": "两种名词通常近义；具体涵盖范围看修饰语与正文。",
+    "practice": "An inclusive event is praised for its inclusiveness, or inclusivity.\n\n包容的活动会因其 inclusiveness，也即 inclusivity，受到赞扬。",
+    "words": [
+      "inclusive",
+      "inclusiveness",
+      "inclusivity"
+    ],
+    "exclude": {
+      "gender-inclusive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4287",
+    "meaning": "运载四轮车的名称，乐队车进入跟随潮流比喻",
+    "core": "WAGON：车上装什么，前项说明用途；乐队车再带出跟风",
+    "image": "wagon → bandwagon。",
+    "intro": "物资车、铁路货车共享运载功能；乐队车在活动、巡游中引人追随，留下跳上潮流队伍的比喻。",
+    "forms": "wagen → wagon；band 乐队 + wagon → bandwagon。",
+    "branches": [
+      [
+        "运载车与潮流比喻",
+        "wagon · bandwagon"
+      ]
+    ],
+    "contrasts": "铁路 wagon 与 carriage 常有货运、客运的分工；bandwagon 的跟风义按整体读。",
+    "practice": "The old wagon carried a band, but today bandwagon often refers to a popular trend.\n\n旧时大车可以载乐队；今天 bandwagon 常借指流行趋势。",
+    "words": [
+      "wagon",
+      "bandwagon"
+    ],
+    "exclude": {
+      "sick-wagon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wagoner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

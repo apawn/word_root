@@ -1,0 +1,129 @@
+[
+  {
+    "id": "B3625",
+    "meaning": "迈步、步骤与抽象界限",
+    "core": "STEP：脚挪一步，事情推进一步",
+    "image": "先看 step、stepping，再读逐步、越界和同步；器材、舞蹈与脚背单列具体词义。",
+    "intro": "步伐词继承古英语迈步词族；stepmother 等继亲前缀 step- 是另一历史来源，已在亲属词族解释，不从迈步硬编。",
+    "forms": "step → stepping、stepper；-wise 逐步，over- 越过，lock- 同步，quick- 快；instep 为脚背名。共享 footstep、doorstep、misstep、sidestep。\n\n古英语迈步词族延续，现代抽象步骤由动作分段理解。\n\n古英语本族步伐词；过去式双写 p，不与继亲前缀 step- 混成一路。\n\nstep 为台阶或迈步材料，不接继亲前缀的另一历史。\n\n这里收的是北美门前台阶、平台名词 stoop，借荷兰语 stoep；弯腰动词 stoop 承古英语 stupian，近源另分。",
+    "branches": [
+      [
+        "动作与步骤",
+        "step · stepping · stepper · stepwise"
+      ],
+      [
+        "界限与行进方式",
+        "overstep · misstep · sidestep · lockstep · quickstep"
+      ],
+      [
+        "脚步、台阶与脚部",
+        "footstep · doorstep · instep"
+      ],
+      [
+        "step → steps：步伐、台阶与步骤",
+        "step · steps"
+      ],
+      [
+        "step → stepped：迈一步到采取行动",
+        "step · stepped"
+      ],
+      [
+        "doorstep → doorsteps：门前台阶与近在门前",
+        "step · doorstep · doorsteps"
+      ],
+      [
+        "stoop 的门前台阶名词：联系 step 的踏步材料",
+        "step · stoop · stoops"
+      ]
+    ],
+    "contrasts": "stepwise 逐步不是智慧；overstep 常越权；instep 脚背不是脚底；继亲 step- 与走路义分开。",
+    "practice": "We need a stepwise plan that does not overstep our authority.\n\n我们需要一份分步骤、且不超出权限的计划。",
+    "words": [
+      "step",
+      "stepping",
+      "stepper",
+      "stepwise",
+      "overstep",
+      "misstep",
+      "sidestep",
+      "lockstep",
+      "quickstep",
+      "footstep",
+      "doorstep",
+      "instep",
+      "steps",
+      "stepped",
+      "doorsteps",
+      "stoop",
+      "stoops"
+    ],
+    "exclude": {
+      "between-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "step-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kick-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goose-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3264",
+    "meaning": "账单、法案、票据；另源的鸟嘴",
+    "core": "BILL：先看文书，再分开鸟嘴",
+    "image": "餐厅账单、议会法案和美式钞票都从文书分支理解；鸟嘴另源单列。",
+    "intro": "文书义经法语接印封文件词；鸟嘴义继承古英语另一词。billboard 广告牌、playbill 演出单已经精讲，共享归在文书告示相关分支。",
+    "forms": "bill → billable；bill + board → billboard；play + bill → playbill。\n\n文书词族与本族鸟嘴词分开追溯，现代多义由具体场景判断。",
+    "branches": [
+      [
+        "核心与计费",
+        "bill · billable"
+      ],
+      [
+        "告示与演出单",
+        "billboard · playbill"
+      ],
+      [
+        "bill → bills：文书、账单与鸟嘴",
+        "bill · bills"
+      ]
+    ],
+    "contrasts": "bill 账单不是 receipt 收据；法案不是已通过法律的自动同义词；billable 可收费不等于已收钱。",
+    "practice": "The bill lists the consultant’s billable hours.\n\n账单列出了顾问的可计费工时。",
+    "words": [
+      "bill",
+      "billable",
+      "billboard",
+      "playbill",
+      "bills"
+    ],
+    "exclude": {
+      "e-bill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "biller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3600",
+    "meaning": "东西、材料；塞满与堵闷",
+    "core": "STUFF：一堆东西，往里面装、塞",
+    "image": "先学不可数的东西，再用塞满的结果理解 stuffed，用堵着的状态理解 stuffy。",
+    "intro": "名词和动词经法语材料、配备与提供所需的词形进入英语。现代抽象 stuff 还能指工作杂事、某方面内容。",
+    "forms": "stuff → stuffed、stuffy；stuffed 为装满结果，stuffy 为堵闷状态和态度比喻。",
+    "branches": [
+      [
+        "材料、填塞与状态",
+        "stuff · stuffed · stuffy"
+      ]
+    ],
+    "contrasts": "stuff 东西，staff 员工；stuffed 吃撑，stuffy 闷、古板；泛指东西的 stuff 通常不可数。",
+    "practice": "The room was full of stuff, and the air felt stuffy.\n\n房间里堆满东西，空气也显得闷。",
+    "words": [
+      "stuff",
+      "stuffed",
+      "stuffy"
+    ],
+    "exclude": {
+      "she-stuff": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stuffer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

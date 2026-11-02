@@ -1,0 +1,220 @@
+[
+  {
+    "word": "shoot",
+    "ipa": "/ʃuːt/",
+    "meaning": "射击；射门、投篮；拍摄；迅速生长；嫩枝",
+    "sense": "动作向外快快送出，可以是球、箭等；植物嫩芽向外长，也有 shoot 的画面。拍摄是另一现代常用分支。",
+    "split": "继承古英语 scēotan 射出词。现代变化 shoot—shot—shot；摄影义不能硬说每拍一张就真的射出子弹。",
+    "history": [
+      [
+        "古英语 scēotan → 中古英语 scheten、schoten → shoot",
+        "射出、快速移出、抛射"
+      ],
+      [
+        "现代 shoot",
+        "射击、射门 → 拍摄；迅速生长、嫩枝等分支"
+      ]
+    ],
+    "explanation": "shoot a film 拍电影，shoot at a target 朝目标射击，shoot up 迅速上升；a green shoot 一根嫩芽。",
+    "usage": "shoot a film；shoot at；shoot up；a new shoot。",
+    "contrast": "shoot at 说明瞄向、射向，不保证击中；shoot a film 说拍摄，不是破坏电影。shot 已有完整词族精讲。",
+    "examples": [
+      [
+        "They are shooting a film in the old town.",
+        "他们正在老城拍电影。"
+      ],
+      [
+        "New shoots appeared after the rain.",
+        "雨后长出了新芽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shoot#English"
+    ]
+  },
+  {
+    "word": "shooting",
+    "ipa": "/ˈʃuːtɪŋ/",
+    "meaning": "射击；枪击事件；拍摄",
+    "sense": "同一个动作名词，在摄影现场是拍摄，在体育是射击，在新闻中也可能是枪击事件。",
+    "split": "shoot + -ing，构成活动名词、进行形式；不同意义都跟随 shoot 的实际分支，不只背射击一种。",
+    "history": [
+      [
+        "古英语 scēotan → 中古英语 scheten、schoten → shoot",
+        "射出、快速移出、抛射"
+      ],
+      [
+        "现代 shoot",
+        "射击、射门 → 拍摄；迅速生长、嫩枝等分支"
+      ],
+      [
+        "shoot + -ing → shooting",
+        "射出、拍摄等的活动形式"
+      ]
+    ],
+    "explanation": "film shooting 电影拍摄，a shooting competition 射击比赛，a shooting incident 枪击事件。",
+    "usage": "film shooting；a shooting competition；a shooting incident。",
+    "contrast": "shooting star 流星是固定形象说法，不是星星持枪；a film shoot 一次拍摄也常用名词 shoot。",
+    "examples": [
+      [
+        "Shooting begins next week at the studio.",
+        "拍摄下周在摄影棚开始。"
+      ],
+      [
+        "The museum held an exhibition about shooting sports.",
+        "博物馆办了一场射击运动展览。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shooting#English"
+    ]
+  },
+  {
+    "word": "shooter",
+    "ipa": "英 /ˈʃuːtə/；美 /ˈʃuːtər/",
+    "meaning": "射击者；善投篮者；射击类游戏等",
+    "sense": "谁在进行 shoot 这一动作，按领域可能是运动员、摄影者或实施枪击的人。",
+    "split": "shoot + -er，构成人物、器物等名词；游戏语境 shooter 常指射击类游戏，不是每次说实际持枪者。",
+    "history": [
+      [
+        "古英语 scēotan → 中古英语 scheten、schoten → shoot",
+        "射出、快速移出、抛射"
+      ],
+      [
+        "现代 shoot",
+        "射击、射门 → 拍摄；迅速生长、嫩枝等分支"
+      ],
+      [
+        "shoot + -er → shooter",
+        "执行射击、投射等的主体；类型名"
+      ]
+    ],
+    "explanation": "a good three-point shooter 三分投手，a first-person shooter 第一人称射击游戏，a skilled shooter 射击高手。",
+    "usage": "a skilled shooter；a three-point shooter；a first-person shooter。",
+    "contrast": "shooter 体育称呼未必涉及枪械；具体拍摄人员是否用 shooter 还要看行业口语，不全部替代 photographer。",
+    "examples": [
+      [
+        "She is the team’s best three-point shooter.",
+        "她是队里最好的三分投手。"
+      ],
+      [
+        "He reviewed a new first-person shooter.",
+        "他评测了一款新的第一人称射击游戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shooter#English"
+    ]
+  },
+  {
+    "word": "offshoot",
+    "ipa": "英 /ˈɒfʃuːt/；美 /ˈɔːfʃuːt/",
+    "meaning": "侧枝；分支、衍生组织或事物",
+    "sense": "植物主干旁长出一枝；组织、理论或项目也能从原来的东西分出新支。",
+    "split": "off- 向外、分开 + shoot 嫩枝，从枝条扩展为组织、观念、活动的分支。不是停止拍摄的命令。",
+    "history": [
+      [
+        "古英语 scēotan → 中古英语 scheten、schoten → shoot",
+        "射出、快速移出、抛射"
+      ],
+      [
+        "现代 shoot",
+        "射击、射门 → 拍摄；迅速生长、嫩枝等分支"
+      ],
+      [
+        "off- + shoot → offshoot",
+        "侧边嫩枝 → 衍生分支"
+      ]
+    ],
+    "explanation": "an offshoot of the movement 运动的分支，a commercial offshoot 商业衍生项目。",
+    "usage": "an offshoot of；a new offshoot；a commercial offshoot。",
+    "contrast": "offshoot 分支可以逐渐独立，copy 复制强调与原物相似；不是所有分支都与原物完全相同。",
+    "examples": [
+      [
+        "The company began as an offshoot of a university project.",
+        "公司最初是大学项目的衍生机构。"
+      ],
+      [
+        "Several offshoots grew from the base of the plant.",
+        "植物基部长出了几根侧枝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offshoot#English"
+    ]
+  },
+  {
+    "word": "overshoot",
+    "ipa": "动词英 /ˌəʊvəˈʃuːt/、美 /ˌoʊvərˈʃuːt/；名词常前重音",
+    "meaning": "越过目标；超出预期水平",
+    "sense": "想停在这里，结果冲过头；数值、预算、车辆都能用这个目标画面。",
+    "split": "over- 越过 + shoot，旧有射过、越过词形。现代动作不一定涉及射击；过去式、分词 overshot。",
+    "history": [
+      [
+        "古英语 scēotan → 中古英语 scheten、schoten → shoot",
+        "射出、快速移出、抛射"
+      ],
+      [
+        "现代 shoot",
+        "射击、射门 → 拍摄；迅速生长、嫩枝等分支"
+      ],
+      [
+        "over- + shoot → overshoot",
+        "冲过目标 → 超出应到位置或水平"
+      ]
+    ],
+    "explanation": "overshoot the target 超过目标，overshoot the runway 冲出跑道，overshoot the budget 超预算。",
+    "usage": "overshoot the target；overshoot the runway；overshoot the budget。",
+    "contrast": "overshoot 强调超出预定位置、水平，不是所有提高都 overshoot；underestimate 则是估计过低，过程不同。",
+    "examples": [
+      [
+        "The taxi overshot the entrance and had to turn back.",
+        "出租车开过了入口，只好掉头。"
+      ],
+      [
+        "Spending overshot the original budget.",
+        "支出超出了原预算。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overshoot#English"
+    ]
+  },
+  {
+    "word": "reshoot",
+    "ipa": "动词 /ˌriːˈʃuːt/；名词常 /ˈriːʃuːt/",
+    "meaning": "重拍；补拍",
+    "sense": "某段已经拍过，现在为了改进、修正或替换，再拍一次。",
+    "split": "re- 重新 + shoot 拍摄，摄影影视常用；动词过去式、分词 reshot，名词 a reshoot 指一次重拍。",
+    "history": [
+      [
+        "古英语 scēotan → 中古英语 scheten、schoten → shoot",
+        "射出、快速移出、抛射"
+      ],
+      [
+        "现代 shoot",
+        "射击、射门 → 拍摄；迅速生长、嫩枝等分支"
+      ],
+      [
+        "re- + shoot → reshoot",
+        "重新拍摄 → 重拍、补拍"
+      ]
+    ],
+    "explanation": "reshoot a scene 重拍一场戏，schedule a reshoot 安排补拍。",
+    "usage": "reshoot a scene；reshoot the ending；schedule a reshoot。",
+    "contrast": "reshoot 重拍画面，replay 重播已经录好的内容；剪辑 edit 则调整现有素材，未必重新拍。",
+    "examples": [
+      [
+        "The director decided to reshoot the final scene.",
+        "导演决定重拍最后一场戏。"
+      ],
+      [
+        "Bad sound meant the interview needed a reshoot.",
+        "声音效果太差，访谈需要重拍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reshoot#English"
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "word": "break",
+    "ipa": "/breɪk/",
+    "meaning": "打破；断裂；中断；休息；机会",
+    "sense": "原来完整、连着或一直不变的状态，突然开了口、断了一下。杯子破、工作停一会儿、纪录被刷新，都可用这个核心理解。",
+    "split": "由古英语 brecan 延续，经中古英语 breken；不是按现代 br- 加 eak 拆。变化为 break—broke—broken，是历史元音交替形式。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ]
+    ],
+    "explanation": "break a cup 打破杯子，break a rule 违反规则，break the silence 打破沉默；take a break 休息一下，a big break 重要机遇。具体义要配合对象。",
+    "usage": "take a break；break a record；break the news；a lucky break。",
+    "contrast": "break 打破、休息，brake 刹车，读音相同而来源、拼写不同。break the news 是告知消息，不是损坏报纸。",
+    "examples": [
+      [
+        "Let’s take a short break before the next task.",
+        "下一项任务前，我们休息一小会儿吧。"
+      ],
+      [
+        "Her performance broke the school record.",
+        "她的表现打破了学校纪录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/break#English"
+    ]
+  },
+  {
+    "word": "breakable",
+    "ipa": "/ˈbreɪkəbəl/",
+    "meaning": "易碎的；可被打破的",
+    "sense": "碰一下、摔一下可能会坏，或者某种记录、约束并非永远不能打破。",
+    "split": "break + -able 可……的；-able 表可能性、可承受动作，不说明一定已经破了。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ],
+      [
+        "break + -able → breakable",
+        "能被打破 → 易碎或可打破的"
+      ]
+    ],
+    "explanation": "breakable glassware 易碎玻璃器皿，breakable items 易碎物品；breakables 作复数名词可指这些易碎品。",
+    "usage": "breakable items；breakable glass；pack breakables carefully。",
+    "contrast": "breakable 可能破，broken 已经破；fragile 易碎、脆弱与前者有交叠，但语境和搭配不全相同。",
+    "examples": [
+      [
+        "Wrap the breakable items in soft cloth.",
+        "用软布包好易碎物品。"
+      ],
+      [
+        "These cups are breakable, so please handle them carefully.",
+        "这些杯子易碎，请小心拿放。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakable#English"
+    ]
+  },
+  {
+    "word": "unbreakable",
+    "ipa": "/ʌnˈbreɪkəbəl/",
+    "meaning": "不易打破的；坚不可摧的；坚定的",
+    "sense": "经得住冲击、压力或考验，难被破坏；讲友情、意志时常带夸张和赞美。",
+    "split": "un- 不 + breakable 可打破的，否定整个形容词，不是 unbreak + -able 这一普通现代动词派生。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ],
+      [
+        "breakable → unbreakable",
+        "可打破 → 难以或不能打破"
+      ]
+    ],
+    "explanation": "an unbreakable bond 牢固的关系，an unbreakable rule 不可破的规矩；产品宣传说 unbreakable 不等于任何条件下都绝对不会损坏。",
+    "usage": "an unbreakable bond；unbreakable glass；unbreakable resolve。",
+    "contrast": "unbreakable 强调难破或不可破，unbroken 强调目前没有断、未被打破；an unbroken record 不说明未来也破不了。",
+    "examples": [
+      [
+        "They formed an unbreakable bond during the expedition.",
+        "他们在探险中结下了牢固的情谊。"
+      ],
+      [
+        "Her unbreakable resolve impressed the team.",
+        "她坚定不移的决心给团队留下了深刻印象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbreakable#English"
+    ]
+  },
+  {
+    "word": "breakage",
+    "ipa": "/ˈbreɪkɪdʒ/",
+    "meaning": "破损；破损物；破损损耗",
+    "sense": "不只说某样东西破了，还把搬运、生产中破坏掉的这一部分算成一类损耗。",
+    "split": "break + -age，形成破损过程、结果或破损数量等名词。-age 在这里不表示人的年龄。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ],
+      [
+        "break + -age → breakage",
+        "打破 → 破损、破损损耗"
+      ]
+    ],
+    "explanation": "damage and breakage 损坏与破损，reduce breakage 减少破损；hair breakage 则是发丝断裂，不等于头发从根部脱落。",
+    "usage": "reduce breakage；allow for breakage；hair breakage。",
+    "contrast": "breakage 常看破损现象或损耗，break 可以是一个断口、休息等；a coffee break 不能写 coffee breakage。",
+    "examples": [
+      [
+        "Better packaging reduced breakage during transport.",
+        "改进包装减少了运输中的破损。"
+      ],
+      [
+        "The salon recommended gentler brushing to reduce hair breakage.",
+        "美发店建议梳头轻柔一些，以减少发丝断裂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakage#English"
+    ]
+  },
+  {
+    "word": "breaker",
+    "ipa": "英 /ˈbreɪkə/；美 /ˈbreɪkər/",
+    "meaning": "破坏、打破者；断路器；拍岸碎浪",
+    "sense": "能把连续状态打断的人或东西：规则被破、电流被切断，海浪到岸边也会翻碎。",
+    "split": "break + -er，在中古英语已有相应形式。人、装置、波浪由不同 break 用法形成固定名词；另有少见同形词不在此串成一支。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ],
+      [
+        "break + -er → breaker",
+        "打破者；断开装置；翻碎的浪"
+      ]
+    ],
+    "explanation": "a rule breaker 违规者，a circuit breaker 断路器；breakers 复数常说翻卷拍碎的浪。单独 breaker 具体是哪种，靠环境判断。",
+    "usage": "a circuit breaker；a rule breaker；waves breaking into breakers。",
+    "contrast": "breaker 是执行或产生作用的对象，breakage 是破损；海浪 breakers 不等于海里有什么人把东西砸坏。",
+    "examples": [
+      [
+        "The electrician inspected the circuit breaker.",
+        "电工检查了断路器。"
+      ],
+      [
+        "White breakers rolled towards the beach.",
+        "白色碎浪朝海滩涌来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breaker#English"
+    ]
+  },
+  {
+    "word": "breakthrough",
+    "ipa": "/ˈbreɪkθruː/",
+    "meaning": "突破；重大进展",
+    "sense": "前面一直像有一堵墙挡着，终于穿过去，事情进入了一个新阶段。",
+    "split": "break through 突破、穿过转成单词名词；through 是穿过，不是 throw 扔。具体突破可以是技术、谈判、调查等。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ],
+      [
+        "break through → breakthrough",
+        "穿过阻碍 → 关键突破、进展"
+      ]
+    ],
+    "explanation": "a major breakthrough 重大突破，a breakthrough in research 研究突破；研究里的突破不自动等于已经能广泛实际应用。",
+    "usage": "make a breakthrough；a scientific breakthrough；a breakthrough in negotiations。",
+    "contrast": "progress 可以是一点点进步，breakthrough 强调打通关键障碍的明显变化；不必每次小更新都叫 breakthrough。",
+    "examples": [
+      [
+        "The team made a breakthrough after months of failed tests.",
+        "经过几个月失败的测试，团队终于取得突破。"
+      ],
+      [
+        "The agreement marked a breakthrough in the talks.",
+        "这份协议标志着谈判取得关键进展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakthrough#English"
+    ]
+  },
+  {
+    "word": "breakaway",
+    "ipa": "/ˈbreɪkəweɪ/",
+    "meaning": "脱离的；分裂出去的；突围、甩开对手的行动",
+    "sense": "原来属于一个整体，后来从里面脱出来，成为单独的一股。",
+    "split": "由 break away 脱离形成名词、形容词；不是两词短语在所有句法位置都能直接连写。",
+    "history": [
+      [
+        "古英语 brecan → 中古英语 breken",
+        "打破、折断"
+      ],
+      [
+        "英语 break",
+        "破坏完整或连续状态；中断、休息、突破等引申"
+      ],
+      [
+        "break away → breakaway",
+        "脱离原整体 → 脱离者、分离的分支或突围行动"
+      ]
+    ],
+    "explanation": "a breakaway group 分离出去的团体；a breakaway in cycling 自行车赛甩开大部队的突围；a breakaway clasp 则是受拉力时可分开的扣件。",
+    "usage": "a breakaway group；a breakaway movement；a breakaway attempt。",
+    "contrast": "break away 两词是动词短语，breakaway 单词常是名词、形容词：The group broke away，a breakaway group。",
+    "examples": [
+      [
+        "A breakaway group formed its own organisation.",
+        "一支脱离原团体的分支成立了自己的组织。"
+      ],
+      [
+        "The rider launched a breakaway near the end of the race.",
+        "那位车手在比赛接近结束时发起突围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakaway#English"
+    ]
+  },
+  {
+    "word": "breakneck",
+    "ipa": "/ˈbreɪknek/",
+    "meaning": "快得危险的；极其迅速的",
+    "sense": "快到像可能摔断脖子的程度；现代大多是在夸张地强调速度和风险。",
+    "split": "break 折断 + neck 脖子，形成危险、猛烈的形容词，现代常紧接 speed、pace。不是每次使用都真的发生颈部受伤。",
+    "history": [
+      [
+        "break 折断；neck 脖子",
+        "并列构词部分"
+      ],
+      [
+        "breakneck",
+        "危险到可能摔伤的 → 极快、猛烈的"
+      ]
+    ],
+    "explanation": "at breakneck speed 以极快速度，a breakneck pace 极快节奏；可以说车辆，也可以说组织、技术变化的速度。",
+    "usage": "at breakneck speed；a breakneck pace；breakneck growth。",
+    "contrast": "fast 快可中性，breakneck 强调惊人、可能不安全或难以跟上的程度；不要把普通准时完成都写成 breakneck。",
+    "examples": [
+      [
+        "The story moves at a breakneck pace.",
+        "故事推进得飞快。"
+      ],
+      [
+        "The industry expanded at breakneck speed.",
+        "这个行业以令人咋舌的速度扩张。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakneck#English"
+    ]
+  },
+  {
+    "word": "jailbreak",
+    "ipa": "/ˈdʒeɪlbreɪk/",
+    "meaning": "越狱；解除设备或系统限制的行为",
+    "sense": "原来被关在一个有边界的空间里，现在突破边界出去；技术领域借用这幅图景。",
+    "split": "jail 监狱 + break 突破，复合成越狱名词并可作动词。计算机、设备以及 AI 语境里，借指突破原有软件限制或约束，具体对象不同。",
+    "history": [
+      [
+        "jail 监狱；break 突破",
+        "并列构词部分"
+      ],
+      [
+        "jailbreak",
+        "逃出监狱 → 技术语境中的限制突破"
+      ]
+    ],
+    "explanation": "a jailbreak in a film 电影中的越狱；a device jailbreak 设备越狱。软件里看到这个词，先确认是在讨论哪一种限制，而不把所有修改都叫它。",
+    "usage": "a jailbreak attempt；a fictional jailbreak；a device jailbreak。",
+    "contrast": "jailbreak 固定强调突破禁闭、限制；breakaway 只说从某整体脱离，不一定有监狱或技术限制背景。",
+    "examples": [
+      [
+        "The film begins with a dramatic jailbreak.",
+        "电影以一场戏剧性的越狱开场。"
+      ],
+      [
+        "The article explains what a device jailbreak means.",
+        "文章解释了设备越狱这个词的含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jailbreak#English"
+    ]
+  },
+  {
+    "word": "tiebreak",
+    "ipa": "/ˈtaɪbreɪk/",
+    "meaning": "平局决胜局、决胜程序",
+    "sense": "双方打成平手，得再用一套规定把这个平局打破，分出结果。",
+    "split": "tie 平局 + break 打破；也常写 tie-break，另有 tiebreaker 决胜者、决胜办法等相关词。不是拿剪刀剪断领带。",
+    "history": [
+      [
+        "tie 平局；break 打破",
+        "并列构词部分"
+      ],
+      [
+        "tiebreak",
+        "用于打破平局的决胜局、程序"
+      ]
+    ],
+    "explanation": "a tennis tiebreak 网球抢七或其他规定形式的决胜局；具体分数、赛制依比赛规则，词本身只交代用于打破平局。",
+    "usage": "win a tiebreak；play a tiebreak；a final-set tiebreak。",
+    "contrast": "tie 平局，tiebreak 打破平局的办法或局；不能把所有正常最后一局都叫 tiebreak。",
+    "examples": [
+      [
+        "The players reached a tiebreak in the first set.",
+        "双方在第一盘进入了平局决胜局。"
+      ],
+      [
+        "She won the match after a tense tiebreak.",
+        "经过紧张的平局决胜局，她赢下了比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tiebreak#English"
+    ]
+  },
+  {
+    "word": "breakdancing",
+    "ipa": "英 /ˈbreɪkdɑːnsɪŋ/；美 /ˈbreɪkdænsɪŋ/",
+    "meaning": "霹雳舞；breaking 舞蹈",
+    "sense": "常见地板动作、定格和旋转的一类舞蹈；名字里的 break 抓的是音乐的间奏、节奏段落，不是把身体摔坏。",
+    "split": "break + dancing，背景联系嘻哈音乐中强调打击乐的 break 段落及其舞蹈。舞者和比赛语境也常用 breaking 这一名称。",
+    "history": [
+      [
+        "break 音乐中的间奏、节奏段落；dancing 跳舞",
+        "并列构词部分"
+      ],
+      [
+        "breakdancing",
+        "围绕这种节奏文化发展的一类舞蹈"
+      ]
+    ],
+    "explanation": "a breakdancing class 霹雳舞课，a breakdancing performance 霹雳舞表演；具体动作并不只剩旋转，也有站立步法等。",
+    "usage": "a breakdancing class；a breakdancing crew；a breakdancing performance。",
+    "contrast": "breakdancing 不是 break + dancing 表示跳舞中途休息；take a break from dancing 才是跳累了休息一会儿。",
+    "examples": [
+      [
+        "The festival included a breakdancing performance.",
+        "节庆活动包含一场霹雳舞表演。"
+      ],
+      [
+        "She joined a beginner’s breakdancing class.",
+        "她参加了霹雳舞入门班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakdancing#English"
+    ]
+  },
+  {
+    "word": "breakfast",
+    "ipa": "/ˈbrekfəst/",
+    "meaning": "早餐；吃早餐",
+    "sense": "夜里一段时间没有进食，早上这顿饭把这段空腹结束掉。",
+    "split": "中古英语 brekefast，break 结束、打破 + fast 禁食；fast 在这里不是快。所以早餐也不必吃得特别快。常用读音已弱化，不按 break 与 fast 分别完整拼读。",
+    "history": [
+      [
+        "break 结束；fast 禁食",
+        "结束夜间不进食的时段"
+      ],
+      [
+        "中古英语 brekefast → breakfast",
+        "早餐；吃早餐"
+      ]
+    ],
+    "explanation": "have breakfast 吃早餐，a big breakfast 丰盛早餐；breakfast 作动词也可说早餐吃什么、在哪里吃，日常用 have breakfast 更普遍。",
+    "usage": "have breakfast；a breakfast menu；breakfast cereal；bed and breakfast。",
+    "contrast": "breakfast 不是 fast food 快餐；eat breakfast quickly 才说早餐吃得快。一般 have breakfast 不必加 a，描述一顿丰盛早餐可说 have a big breakfast。",
+    "examples": [
+      [
+        "We had breakfast before leaving the hotel.",
+        "我们离开酒店前吃了早餐。"
+      ],
+      [
+        "The price includes a simple breakfast.",
+        "价格包含一份简单早餐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakfast#English"
+    ]
+  }
+]

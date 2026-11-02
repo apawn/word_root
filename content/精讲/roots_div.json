@@ -5,7 +5,7 @@
     "core": "放在一起比较：分成几部分，或走向不同方向。",
     "image": "切开的蛋糕、分岔的道路、各不相同的卡片。",
     "intro": "这页保留 div- / diff- 这一学习入口，但要先拆清楚：这些单词不是全从 diversum 变来。它们多有 dis- / di-“分开”的共同前缀背景，后面的动词根却不同。下面分别看分割、带开、转向几条路线。",
-    "forms": "divide：来自 dīvidere“分开”；divis- 是它的分词词干。-videre 不是 vidēre“看见”。\n\ndifferent / difference：来自 dis- + ferre“带开”；dif- 是前缀同化，不是把 diff- 单独当作统一词根。\n\ndiverse / diversity：来自 dis- + vertere“转向不同方向”。diverge / divergence 则是 dis- + vergere“转向、倾向”，两者不是同一个拉丁动词。\n\ndiffeomorphism 是现代数学缩合词；individual 是“不可分的整体”发展成“个体”；这些都要沿各自链条理解。",
+    "forms": "divide：来自 dīvidere“分开”；divis- 是它的分词词干。-videre 不是 vidēre“看见”。\n\ndifferent / difference：来自 dis- + ferre“带开”；dif- 是前缀同化，不是把 diff- 单独当作统一词根。\n\ndiverse / diversity：来自 dis- + vertere“转向不同方向”。diverge / divergence 则是 dis- + vergere“转向、倾向”，两者不是同一个拉丁动词。\n\ndiffeomorphism 是现代数学缩合词；individual 是“不可分的整体”发展成“个体”；这些都要沿各自链条理解。\n\nindividual 接中世纪拉丁 individualis 与不可分材料；现代指一个个人、个体，不能逐字只译成不可分的。\n\n较早分配、安排的词族，经法语形成计划、设计、装置等分支。\n\n拉丁 divisio 经古法语借入，与 divide 同源但名词有独立借入路线。\n\ndiffer 接法语、拉丁 differre 分开、不同，dis- 在 f 前同化。现代 -s，差异与意见不同均常见；differs from、differs in、differs with 各按关系举例。\n\ndividend 接拉丁 dividendum 待分之物，来自 dividere 分开与动形词材料；现代 -s，可说股息、被除数，也可比喻努力的回报。",
     "branches": [
       [
         "整体切开",
@@ -46,6 +46,26 @@
       [
         "数学中的平顺对应",
         "diffeomorphism"
+      ],
+      [
+        "individual → individuals：一个个独立个体",
+        "individual · individuals"
+      ],
+      [
+        "devise／device → devices：设计出来的装置与手法",
+        "device · devices"
+      ],
+      [
+        "division → divisions：分出的部分与分歧",
+        "divide · division · divisions"
+      ],
+      [
+        "dis- 分开 + fer- 搬 → differs",
+        "differs"
+      ],
+      [
+        "divide 分 + 待做材料 → dividends",
+        "dividends"
       ]
     ],
     "contrasts": "相似拼写只给线索，不自动证明同源。把 different、divide、diverge 全写成 diversum 的后代，会抹掉真实历史。\n\ndivided 是被分开的状态；divisive 是造成对立的性质；diverse 是多样。indifferent 通常表示不在乎，不是简单的“相同”。\n\ndivision / divisor / dividend 放进 12 ÷ 3 = 4 的画面记；differentiation / differentiability 则分别是求导与可微性，不要只看中文都有“微”就混用。",
@@ -107,7 +127,12 @@
       "diverse",
       "diversity",
       "diversify",
-      "diversification"
+      "diversification",
+      "individuals",
+      "devices",
+      "divisions",
+      "differs",
+      "dividends"
     ]
   }
 ]

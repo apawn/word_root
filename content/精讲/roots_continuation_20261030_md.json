@@ -1,0 +1,175 @@
+[
+  {
+    "id": "B3223",
+    "meaning": "一把抓住、取得控制，到机会、情绪与发作",
+    "core": "SEIZE：迅速抓牢，或突然被某种力量控制",
+    "image": "seize → seizing、seizure。",
+    "intro": "抓绳、夺权、抓机会都看取得控制；恐惧和发作则从人被突然影响的一面理解。名词再按事件背景选择中文。",
+    "forms": "古法语 seisir → 中古英语 seisen → seize；-ing 过程，-ure 行为、事件名词。\n\n法语 seisir 经中古英语传入，更早法律与日耳曼材料有讨论。",
+    "branches": [
+      [
+        "抓住、过程与事件",
+        "seize · seizing · seizure"
+      ],
+      [
+        "seize → seized：一把抓住，取得控制",
+        "seize · seized"
+      ]
+    ],
+    "contrasts": "seize 拼写 ei，读 /siːz/；seizure 常读 /ˈsiːʒə(r)/，扣押与医学事件按背景分。",
+    "practice": "Seizing the moment, the reporter asked about the seizure of goods.\n\n记者抓住时机，询问了货物扣押一事。",
+    "words": [
+      "seize",
+      "seizing",
+      "seizure",
+      "seized"
+    ],
+    "exclude": {
+      "anti-seize": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2296",
+    "meaning": "与性、性吸引相关的复合形式；文化标签要单辨",
+    "core": "-SEXUAL：前项限定范围，整个词决定具体用法",
+    "image": "homo- 同、hetero- 不同、bi- 双、a- 否定、pan- 全；metrosexual 是文化混成词。",
+    "intro": "常见词能帮助辨认性取向表达，但同样的词尾并不保证每个名称都是同一种分类。逐词看实际用法，避免只按前缀机械定人。",
+    "forms": "sexual 通向拉丁 sexualis、sexus；与希腊等来源前项组合；metrosexual 则有 metropolitan 的混成过程。",
+    "branches": [
+      [
+        "常见性吸引、取向表达",
+        "homosexual · heterosexual · bisexual · asexual · pansexual"
+      ],
+      [
+        "形象、生活风格的文化标签",
+        "metrosexual"
+      ]
+    ],
+    "contrasts": "pansexual 不表示被每个人吸引；metrosexual 侧重形象风格，不能由外表推断取向。",
+    "practice": "The glossary explains pansexual and distinguishes it from the cultural label metrosexual.\n\n词汇表解释了泛性恋一词，并把它与都市型男这一文化标签区分开。",
+    "words": [
+      "homosexual",
+      "heterosexual",
+      "bisexual",
+      "asexual",
+      "pansexual",
+      "metrosexual"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3859",
+    "meaning": "食材烹调后的状态，与未处理、过度处理对照",
+    "core": "COOKED：已经做过火候处理，再看是否过头",
+    "image": "uncooked → cooked → overcooked 按处理程度读。",
+    "intro": "这组最适合排成状态变化：没做、做过、做过头。cooked figures 则是把烹调加工移到数据上的比喻。",
+    "forms": "cook + -ed → cooked；un- 否定已烹调状态，over- 表过度；-ed 均读 /t/。",
+    "branches": [
+      [
+        "烹调状态由未处理到过度",
+        "uncooked · cooked · overcooked"
+      ]
+    ],
+    "contrasts": "cooked 与 overcooked 不同；overcooked 也不都烧焦。",
+    "practice": "The pasta went from uncooked to overcooked while he was distracted.\n\n他一分神，意面从还没煮直接煮到了过头。",
+    "words": [
+      "uncooked",
+      "cooked",
+      "overcooked"
+    ],
+    "exclude": {
+      "pre-cooked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4379",
+    "meaning": "洗涤动作及相关衣物，复合前项说明洗什么、怎样洗",
+    "core": "WASHING：可以说洗的过程，也可以说那一堆衣物",
+    "image": "washing → dishwashing、handwashing。",
+    "intro": "先从动作转物品这一层分清，再用 dish、hand 看复合词。handwashing 可以洗手，也能在衣物语境说手洗。",
+    "forms": "wash + -ing 的现代对应，另有旧动作名词延续；dish、hand 作复合前项。",
+    "branches": [
+      [
+        "洗涤活动和衣物",
+        "washing"
+      ],
+      [
+        "对象、方式限定",
+        "dishwashing · handwashing"
+      ]
+    ],
+    "contrasts": "washing 衣物义多不可数；handwashing 依语境是洗手或手洗。",
+    "practice": "After handwashing the shirt, she hung out the washing.\n\n手洗衬衫后，她把洗好的衣物晾出去。",
+    "words": [
+      "washing",
+      "dishwashing",
+      "handwashing"
+    ],
+    "exclude": {
+      "participation-washing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3050",
+    "meaning": "动物名称跨地区转用，也可比喻威吓、唬住",
+    "core": "BUFFALO：先看水牛还是北美野牛，再看动词比喻",
+    "image": "buffalo 的动物名称与被唬住的动词用法。",
+    "intro": "词名的旅行常跨过旧分类边界，所以北美日常的 buffalo 可指 bison。动词再把动物的威势借来描述人被吓住、弄糊涂。",
+    "forms": "希腊、拉丁动物名经葡萄牙、西班牙等形式进入英语；更远来源未定。\n\nbuffalo 经葡萄牙语、拉丁语接古希腊动物名称；bison 经法语、拉丁语接日耳曼语等另一条词线。北美日常 buffalo 可称美洲野牛 bison，两种名称有用法交叉而不因此同源。",
+    "branches": [
+      [
+        "动物名称与威吓比喻",
+        "buffalo"
+      ],
+      [
+        "buffaloes 与 bison：水牛、野牛名称的交叉",
+        "buffalo · buffaloes · bison"
+      ]
+    ],
+    "contrasts": "Buffalo wings 联系城市名；water buffalo 与 American bison 分清。",
+    "practice": "The guide explained why American bison are often called buffalo.\n\n导游解释了美洲野牛为什么常被叫作 buffalo。",
+    "words": [
+      "buffalo",
+      "buffaloes",
+      "bison"
+    ],
+    "exclude": {
+      "she-buffalo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "buffalo-skin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3608",
+    "meaning": "旧灵体名称的现代邪恶义，及性质、描绘过程",
+    "core": "DEMON：现代常用恶魔形象，再看形容与描绘",
+    "image": "demon → demonic；demonization 是妖魔化的过程。",
+    "intro": "希腊旧词的灵体范围更广，现代英语常突出邪恶。性质是 demonic，把人描绘成恶魔的行为则是 demonization。",
+    "forms": "希腊 daímōn 及相关形容词经拉丁等形式；-ic 性质，-ization 过程。\n\n希腊 daimon 旧义不限邪恶，现代英语常见恶魔义经后世使用塑形。",
+    "branches": [
+      [
+        "恶魔形象及性质",
+        "demon · demonic"
+      ],
+      [
+        "把人、事物描绘为邪恶",
+        "demonization"
+      ],
+      [
+        "demon → demons：灵体名到恶魔、内在困扰",
+        "demon · demons"
+      ]
+    ],
+    "contrasts": "古代 daímōn 不都等于现代邪恶恶魔；demonic 与 demonization 分别说性质、描绘过程。",
+    "practice": "The critic distinguished a demonic character from the demonization of a whole group.\n\n评论者区分了恶魔般的角色与对整个群体的妖魔化。",
+    "words": [
+      "demon",
+      "demonic",
+      "demonization",
+      "demons"
+    ],
+    "exclude": {
+      "she-demon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-demon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

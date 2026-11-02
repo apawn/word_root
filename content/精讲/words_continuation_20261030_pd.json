@@ -1,0 +1,664 @@
+[
+  {
+    "word": "its",
+    "ipa": "/ɪts/",
+    "meaning": "它的〔放在名词前〕",
+    "sense": "不是问有几个它，而是标明后面的东西属于它、是它的一部分：a tree and its branches，树和它的枝条。",
+    "split": "it + 表所属的 -s，历史上逐渐固定为现代 its；早期也见带撇号形式，今天规范分开 its 所属与 it’s 缩略。",
+    "history": [
+      [
+        "it + 所属词尾材料",
+        "形成中性代词的所有形式"
+      ],
+      [
+        "现代 its 与 it’s 分工",
+        "its 它的；it’s 通常是 it is 或 it has"
+      ]
+    ],
+    "explanation": "its name 它的名字；its own 特有、自己的；on its own 它独自、靠它自身。",
+    "usage": "its name；its own；on its own。",
+    "contrast": "its 没有撇号；it’s red 是它是红的，its red roof 是它的红屋顶。",
+    "examples": [
+      [
+        "The bird spread its wings.",
+        "鸟展开了翅膀。"
+      ],
+      [
+        "Every village has its own story.",
+        "每个村庄都有自己的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/its#English"
+    ]
+  },
+  {
+    "word": "days",
+    "ipa": "/deɪz/",
+    "meaning": "天、日子；时期；白天〔时间副词用法〕",
+    "sense": "three days 是三天；those days 是那段日子；work days 还可能说上白班。相同拼法里，有复数也有时间表达。",
+    "split": "复数接 day + -s，历史承接古英语 dagas；白天时间副词另联系古英语 dæges 等属格时间形式，不把两条都硬说成现代复数。",
+    "history": [
+      [
+        "古英语 dæg、dagas；dæges 等",
+        "一天、几天；另有在白天的时间表达"
+      ],
+      [
+        "现代 days",
+        "day 的复数；一段时期；在白天"
+      ]
+    ],
+    "explanation": "three days 三天；in those days 在那个时期；these days 如今；work days 上白班。",
+    "usage": "in those days；these days；three days。",
+    "contrast": "days 是复数通常不带撇号；a day’s work 中 day’s 才是所属结构，一天的工作量。",
+    "examples": [
+      [
+        "We stayed for three days.",
+        "我们住了三天。"
+      ],
+      [
+        "These days, she works from home.",
+        "如今她在家工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/days#English"
+    ]
+  },
+  {
+    "word": "nights",
+    "ipa": "/naɪts/",
+    "meaning": "夜晚〔复数〕；在夜间〔常指习惯〕",
+    "sense": "two nights 是两个夜晚；work nights 则常说平常上夜班。要看它是在数夜晚，还是交代工作时间。",
+    "split": "night 的复数可按 night + -s；时间副词用法还接古英语 nihtes 等旧属格形式。/t/ 后 -s 读 /s/。",
+    "history": [
+      [
+        "night 的古英语、古代时间属格材料",
+        "夜晚；在夜间"
+      ],
+      [
+        "night + -s 与旧副词形式合流 → nights",
+        "多个夜晚；习惯在夜间"
+      ]
+    ],
+    "explanation": "cold nights 寒冷夜晚；two nights 两晚；work nights 上夜班；stay up nights 夜里熬着不睡。",
+    "usage": "cold nights；work nights；two nights。",
+    "contrast": "nights 的时间副词用法不必是某一夜此刻正在进行；night’s 则是另一种带撇号所属形式。",
+    "examples": [
+      [
+        "The nights became colder in October.",
+        "十月的夜晚变冷了。"
+      ],
+      [
+        "She works nights at the hotel.",
+        "她在酒店上夜班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nights#English"
+    ]
+  },
+  {
+    "word": "heads",
+    "ipa": "/hedz/",
+    "meaning": "头〔复数〕；硬币头像面；head 的第三人称单数形式",
+    "sense": "人们各有一个头，所以 their heads；抛硬币时 heads 是约定的头像面名称，不是要求一枚硬币上有很多头像。",
+    "split": "head + -s 可形成名词复数，也可形成动词第三人称单数，二者语法来源不同。硬币面名称用复数形固定下来。/d/ 后 s 读 /z/。",
+    "history": [
+      [
+        "head 头、前部、带领等",
+        "名词与动词的不同用法"
+      ],
+      [
+        "head + -s → heads",
+        "复数、第三人称单数；固定硬币面名称"
+      ]
+    ],
+    "explanation": "nod their heads 他们点头；heads or tails 头像面还是反面；She heads the team 她带领团队。",
+    "usage": "nod their heads；heads or tails；heads the team。",
+    "contrast": "heads 是 /hedz/，不是 /hiːdz/；动词 heads 不表示许多个带领动作的名词复数。",
+    "examples": [
+      [
+        "The students nodded their heads.",
+        "学生们点了点头。"
+      ],
+      [
+        "The coin landed heads up.",
+        "硬币落地时头像面朝上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heads#English"
+    ]
+  },
+  {
+    "word": "once",
+    "ipa": "/wʌns/",
+    "meaning": "一次；曾经；立即、同时〔at once〕",
+    "sense": "数次数时一次；把时间拉回过去时曾经；at once 又固定成马上或同时。不能只记成 one 的复数。",
+    "split": "接中古英语 ones、古英语 anes 等，one 的旧形式与副词属格 -s 材料相合；现代写成 -ce 而读 /s/。",
+    "history": [
+      [
+        "古英语一次材料与属格词尾 → 中古英语 ones",
+        "一次的时间、次数表达"
+      ],
+      [
+        "现代 once",
+        "一次；从前；at once 的固定扩展"
+      ]
+    ],
+    "explanation": "once a week 每周一次；once again 再次；once lived here 曾住这里；at once 马上、同时。",
+    "usage": "once a week；once again；at once。",
+    "contrast": "once /wʌns/ 不按字母 o 读成 /əʊns/；once 的 s 历史不是名词 one 加普通复数。",
+    "examples": [
+      [
+        "We meet once a week.",
+        "我们每周见一次。"
+      ],
+      [
+        "This building was once a library.",
+        "这栋楼曾经是图书馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/once#English"
+    ]
+  },
+  {
+    "word": "perhaps",
+    "ipa": "英 /pəˈhæps/；美 /pərˈhæps/",
+    "meaning": "也许；可能",
+    "sense": "给一个可能的解释，或温和提建议，先用 perhaps 留出余地。它不把概率精确锁定成一半。",
+    "split": "中古英语 perhappes 等，联系 per- 按、经由 + hap 机缘、偶然 + -s 副词材料，受相应偶然表达影响；不是一个叫 perhap 的名词变成多份。",
+    "history": [
+      [
+        "per- + hap 机缘材料 → perhap 等",
+        "按机缘、也许"
+      ],
+      [
+        "加副词词尾的 perhappes 等 → perhaps",
+        "现代表示不确定可能性的副词"
+      ]
+    ],
+    "explanation": "Perhaps ... 也许……；perhaps we should ... 或许我们该……；Perhaps not 也许不是。",
+    "usage": "perhaps we should；perhaps not；perhaps because。",
+    "contrast": "perhaps 与 maybe 常近义；perhaps 不直接保证五成可能，也不自动是比 maybe 更准确的估计。",
+    "examples": [
+      [
+        "Perhaps she missed the earlier message.",
+        "也许她没看到先前的消息。"
+      ],
+      [
+        "Perhaps we should check the map again.",
+        "或许我们该再看一遍地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/perhaps#English"
+    ]
+  },
+  {
+    "word": "towards",
+    "ipa": "英 /təˈwɔːdz/；美常 /tɔːrdz/",
+    "meaning": "朝向；接近；对于；用于促成",
+    "sense": "脚步朝门走，时间靠近傍晚，态度对着某个人，都是把方向指向一个参照点。也可说投入资源促成一个目标。",
+    "split": "toward + 旧副词 -s，接古英语 toweardes 等。-s 不是多个方向的普通名词复数；toward、towards 多数用法相同。",
+    "history": [
+      [
+        "古英语 toweard、toweardes 等",
+        "朝向某方向、目标的形式"
+      ],
+      [
+        "现代 toward／towards",
+        "方向、接近、态度或目标用途"
+      ]
+    ],
+    "explanation": "walk towards the door 朝门走；towards evening 接近傍晚；attitude towards work 对工作的态度；go towards costs 用于支付部分费用。",
+    "usage": "towards the door；towards evening；attitude towards。",
+    "contrast": "towards 常见于英式，toward 常见于美式，但不是一边绝不能用另一形式；区别不在人数、方向数量。",
+    "examples": [
+      [
+        "She walked towards the window.",
+        "她朝窗边走去。"
+      ],
+      [
+        "His attitude towards the plan changed.",
+        "他对计划的态度变了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/towards#English"
+    ]
+  },
+  {
+    "word": "yours",
+    "ipa": "英 /jɔːz/；美 /jɔːrz/",
+    "meaning": "你的、你们的〔可独立代替所指物〕",
+    "sense": "已经知道在说哪本书，就不用再重复 book：This book is yours，这本是你的。s 不表示主人一定很多。",
+    "split": "your + 所属 -s，接中古英语 youres 等形式，并有类推发展。现代不写 your’s，也不在后面再接它所替代的名词。",
+    "history": [
+      [
+        "your 与中古英语所属 -s 类推形式",
+        "形成可独立使用的所有代词"
+      ],
+      [
+        "youres 等 → yours",
+        "你的或你们的那个、那些"
+      ]
+    ],
+    "explanation": "This is yours 这是你的；a friend of yours 你的一位朋友；Yours sincerely 书信落款固定语。",
+    "usage": "a friend of yours；is this yours；Yours sincerely。",
+    "contrast": "your book 中 your 后接名词；the book is yours 中 yours 独立。所指可以一件，也可以多件。",
+    "examples": [
+      [
+        "Is this umbrella yours?",
+        "这把伞是你的吗？"
+      ],
+      [
+        "A friend of yours called earlier.",
+        "你的一位朋友先前来过电话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yours#English"
+    ]
+  },
+  {
+    "word": "ours",
+    "ipa": "英 /ˈaʊəz/；美 /ˈaʊərz/",
+    "meaning": "我们的〔可独立代替所指物〕",
+    "sense": "our table 是我们的桌子；只说这张是我们的，就可以用 ours 把桌子这个名词省去。",
+    "split": "our + 所属 -s，经中古英语 oures 等类推形式固定；不当成 our 的普通名词复数。",
+    "history": [
+      [
+        "our + 所属 -s；中古英语 oures",
+        "可独立表达归属"
+      ],
+      [
+        "现代 ours",
+        "我们的那个、那些"
+      ]
+    ],
+    "explanation": "This is ours 这是我们的；a neighbour of ours 我们的一位邻居；ourselves 是另一个反身形式，不是 ours 的加强复数。",
+    "usage": "a neighbour of ours；the choice is ours。",
+    "contrast": "ours 不带撇号，不写 our’s；它可指一间房间，并不因为 s 就必须有很多房间。",
+    "examples": [
+      [
+        "The smaller room is ours.",
+        "较小的房间是我们的。"
+      ],
+      [
+        "A neighbour of ours helped carry the boxes.",
+        "我们的一位邻居帮忙搬了箱子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ours#English"
+    ]
+  },
+  {
+    "word": "hers",
+    "ipa": "英 /hɜːz/；美 /hɜːrz/",
+    "meaning": "她的〔可独立代替所指物〕",
+    "sense": "物品归她所有，又不想重复物品名字，就用 hers：The red coat is hers。",
+    "split": "her + 所属 -s，接中古英语 heres、hires 等；现代写 hers，不写 her’s。",
+    "history": [
+      [
+        "her 与中古英语所属词尾形式",
+        "形成独立所有代词"
+      ],
+      [
+        "heres、hires 等 → hers",
+        "她的那个、那些"
+      ]
+    ],
+    "explanation": "a friend of hers 她的一位朋友；This is hers 这是她的；his and hers 分别供他和她使用的相关固定表达。",
+    "usage": "a friend of hers；the bag is hers。",
+    "contrast": "her bag 中 her 修饰名词，the bag is hers 中 hers 代替所指物；不能写 hers bag。",
+    "examples": [
+      [
+        "The red coat is hers.",
+        "红外套是她的。"
+      ],
+      [
+        "I borrowed a notebook of hers.",
+        "我借了她的一本笔记本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hers#English"
+    ]
+  },
+  {
+    "word": "theirs",
+    "ipa": "英 /ðeəz/；美 /ðerz/",
+    "meaning": "他们的、她们的、它们的〔可独立代替所指物〕",
+    "sense": "our room 是我们的，theirs 是他们的那个房间。词中的 s 标独立所属形式，不是把 they 再做一次普通复数。",
+    "split": "their + 所属 -s，接中古英语 theires 等类推形式。their 更早有北欧语来源，现代 theirs 的 s 不是把整个词改成许多人的唯一标志。",
+    "history": [
+      [
+        "their + 所属 -s；中古英语 theires",
+        "形成独立所有代词"
+      ],
+      [
+        "现代 theirs",
+        "属于他们、她们、它们的所指物"
+      ]
+    ],
+    "explanation": "a friend of theirs 他们的一位朋友；This is theirs 这是他们的；the choice is theirs 选择权在他们。",
+    "usage": "a friend of theirs；the decision is theirs。",
+    "contrast": "theirs 不带撇号；their 后面可接名词，theirs 通常直接代替所指物。",
+    "examples": [
+      [
+        "Our room is smaller than theirs.",
+        "我们的房间比他们的小。"
+      ],
+      [
+        "The final decision is theirs.",
+        "最终由他们决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/theirs#English"
+    ]
+  },
+  {
+    "word": "besides",
+    "ipa": "/bɪˈsaɪdz/",
+    "meaning": "此外；除……之外还；其他、另外〔依结构〕",
+    "sense": "已经有一项，再把另一项加进来：Besides tea, we have coffee。单独引出一句理由时也常是再说、何况。",
+    "split": "beside + 旧副词 -s，接中古英语 bisides 等，后来在追加、其他等语境中固定；不是几个旁边的名词复数。",
+    "history": [
+      [
+        "beside 旁边；中古英语 bisides 等",
+        "加入副词词尾的相关形式"
+      ],
+      [
+        "现代 besides",
+        "另外、除此之外，以及补充理由"
+      ]
+    ],
+    "explanation": "besides coffee 除咖啡外还有；Besides, ... 此外、再说……；anything else besides? 除此之外还有别的吗？否定等语境也可强调除某物外无其他。",
+    "usage": "besides that；anything else besides；Besides, ...。",
+    "contrast": "beside the table 是桌旁；besides the table 依语境常是除了桌子还……，不能漏掉一个 s 就认为意思不变。",
+    "examples": [
+      [
+        "Besides tea, we also serve coffee.",
+        "除茶之外，我们也供应咖啡。"
+      ],
+      [
+        "The room is too small. Besides, it has no windows.",
+        "房间太小，再说也没有窗户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/besides#English"
+    ]
+  },
+  {
+    "word": "overseas",
+    "ipa": "英 /ˌəʊvəˈsiːz/；美 /ˌoʊvərˈsiːz/",
+    "meaning": "在海外、向海外；海外的",
+    "sense": "从自己的所在地看，越过海到了别的国家、地区，便是 overseas 的基本画面。现代常泛说国外，旅程也可以乘飞机。",
+    "split": "oversea 加 -s 的副词形式发展，材料可见 over + sea；不把它理解成永远在海面正上方。",
+    "history": [
+      [
+        "over + sea → oversea",
+        "越海、海那边的方向材料"
+      ],
+      [
+        "oversea + -s → overseas",
+        "在或去海外；海外性质的修饰语"
+      ]
+    ],
+    "explanation": "work overseas 在国外工作；overseas students 海外学生；overseas markets 海外市场。",
+    "usage": "work overseas；overseas students；overseas markets。",
+    "contrast": "go overseas 通常不加 to；overseas 本身已能作地点方向副词。是否跨海的具体使用也受所在地习惯影响。",
+    "examples": [
+      [
+        "She worked overseas for several years.",
+        "她在国外工作了几年。"
+      ],
+      [
+        "The university welcomes overseas students.",
+        "大学欢迎海外学生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overseas#English"
+    ]
+  },
+  {
+    "word": "earnings",
+    "ipa": "英 /ˈɜːnɪŋz/；美 /ˈɜːrnɪŋz/",
+    "meaning": "收入、所得；利润〔企业语境〕",
+    "sense": "工作带回来的钱是 earnings；企业报告里也常说利润。它不是所有流入账户的钱都不分来由的一把总数。",
+    "split": "earn → earning → earnings，-ing 名词加 -s 形成固定复数名词。不是 earns 第三人称形式再随便塞一个 ing。",
+    "history": [
+      [
+        "earn 挣得 → earning",
+        "挣取过程或所得的名词材料"
+      ],
+      [
+        "earning + -s → earnings",
+        "收入、所得；企业利润等固定用法"
+      ]
+    ],
+    "explanation": "annual earnings 年收入；average earnings 平均收入；company earnings 企业利润；实际范围看报告的 gross、net 等限定。",
+    "usage": "annual earnings；average earnings；company earnings。",
+    "contrast": "企业 earnings 常不等于 revenue 总营收；earnings 通常配复数动词：Her earnings are ...。",
+    "examples": [
+      [
+        "Her annual earnings vary from year to year.",
+        "她的年收入每年都不同。"
+      ],
+      [
+        "The report compares earnings across several occupations.",
+        "报告比较了几种职业的收入。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/earnings#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/earnings"
+    ]
+  },
+  {
+    "word": "upstairs",
+    "ipa": "英 /ˌʌpˈsteəz/；美 /ˌʌpˈsterz/",
+    "meaning": "在楼上、到楼上；楼上的",
+    "sense": "沿着楼梯向上，到上层的位置，叫 upstairs。现在即使乘电梯，也一样能说 upstairs，不要求真的走过楼梯。",
+    "split": "up + stair + -s 形成固定地点、方向词，后可作形容词等；不是单独只数上面的几级台阶。",
+    "history": [
+      [
+        "up 与 stairs 的楼梯方向组合",
+        "向楼梯上方、上层"
+      ],
+      [
+        "upstairs 固定为地点、方向及相应性质",
+        "在、到楼上；楼上的"
+      ]
+    ],
+    "explanation": "go upstairs 上楼；stay upstairs 待在楼上；an upstairs room 楼上房间。",
+    "usage": "go upstairs；stay upstairs；an upstairs room。",
+    "contrast": "go upstairs 一般不加 to；upstairs 比 the stairs 楼梯更常指上层这个位置。",
+    "examples": [
+      [
+        "The children are playing upstairs.",
+        "孩子们在楼上玩。"
+      ],
+      [
+        "We carried the boxes upstairs.",
+        "我们把箱子搬上楼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upstairs#English"
+    ]
+  },
+  {
+    "word": "downstairs",
+    "ipa": "英 /ˌdaʊnˈsteəz/；美 /ˌdaʊnˈsterz/",
+    "meaning": "在楼下、到楼下；楼下的",
+    "sense": "从上层走向较低楼层，或就在下面那层，叫 downstairs。它不自动等于地下室。",
+    "split": "down + stair + -s 形成固定地点、方向词；后来也作修饰下层空间的形容词。",
+    "history": [
+      [
+        "down 与 stairs 的楼梯方向组合",
+        "沿楼梯向下、在下层"
+      ],
+      [
+        "downstairs 固定为地点、方向及相应性质",
+        "在、到楼下；楼下的"
+      ]
+    ],
+    "explanation": "go downstairs 下楼；wait downstairs 在楼下等；a downstairs bathroom 楼下浴室。",
+    "usage": "go downstairs；wait downstairs；a downstairs room。",
+    "contrast": "downstairs 是较低层，basement 明确地下层；相对楼层与建筑专名不一样。",
+    "examples": [
+      [
+        "Breakfast is ready downstairs.",
+        "早餐在楼下准备好了。"
+      ],
+      [
+        "She went downstairs to answer the door.",
+        "她下楼去开门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downstairs#English"
+    ]
+  },
+  {
+    "word": "pliers",
+    "ipa": "英 /ˈplaɪəz/；美 /ˈplaɪərz/",
+    "meaning": "钳子",
+    "sense": "两边手柄、前面两个夹口，合起来作为一把工具。英语常用复数 pliers，数一把要说 a pair of pliers。",
+    "split": "ply 的弯折义 + -er 器具名 + -s，固定为复数工具名称。这里 ply 不按多层材料里的层数义解释。",
+    "history": [
+      [
+        "ply 弯折 + -er",
+        "用于弯折、夹持的器具名"
+      ],
+      [
+        "复数形式 pliers 固定",
+        "一把有成对夹持结构的钳子"
+      ]
+    ],
+    "explanation": "a pair of pliers 一把钳子；These pliers are ... 这把钳子……；two pairs of pliers 两把钳子。",
+    "usage": "a pair of pliers；two pairs of pliers。",
+    "contrast": "pliers 虽常指一把工具，通常仍配复数动词；a pair of pliers 则以 pair 作单数中心。",
+    "examples": [
+      [
+        "The toolbox contains a pair of pliers.",
+        "工具箱里有一把钳子。"
+      ],
+      [
+        "These pliers are heavier than the old pair.",
+        "这把钳子比旧的那把重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pliers#English"
+    ]
+  },
+  {
+    "word": "tongs",
+    "ipa": "英 /tɒŋz/；美 /tɑːŋz/〔亦有 /tɔːŋz/〕",
+    "meaning": "夹钳；食物夹等成对夹持工具",
+    "sense": "一双夹臂把东西夹起来，不直接用手拿，是 tongs 的画面。厨房夹面包、夹沙拉的工具也常用这个名。",
+    "split": "中古英语 tonges 等由 tong + -s 形成，延续更早的夹持工具名；现代通常以复数工具形式使用。",
+    "history": [
+      [
+        "旧 tong 等夹持工具名 → 中古英语 tonges",
+        "夹持、提取物品的工具"
+      ],
+      [
+        "现代复数 tongs",
+        "夹钳；常以 a pair of tongs 数一把"
+      ]
+    ],
+    "explanation": "kitchen tongs 厨房夹；salad tongs 沙拉夹；a pair of tongs 一把夹钳。",
+    "usage": "kitchen tongs；salad tongs；a pair of tongs。",
+    "contrast": "tongs /tɒŋz/ 与 tongue /tʌŋ/ 舌头不是一个词；末尾 s 也不能在单把工具时随意去掉。",
+    "examples": [
+      [
+        "The server placed the bread tongs beside the basket.",
+        "服务员把面包夹放在篮子旁。"
+      ],
+      [
+        "A pair of tongs lay on the kitchen counter.",
+        "厨房台面上放着一把夹子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tongs#English"
+    ]
+  },
+  {
+    "word": "whereabouts",
+    "ipa": "英 /ˈweərəbaʊts/；美 /ˈwerəbaʊts/",
+    "meaning": "下落、所在位置；大约在哪里",
+    "sense": "不只是要一个精确坐标，也能问某人大概在哪一带。作名词时，the whereabouts 是所处位置、下落。",
+    "split": "whereabout + 旧副词 -s，接中古英语 wheraboutes；里面 about 有大约、附近的位置感。名词由位置表达发展，不能机械理解成很多个 where。",
+    "history": [
+      [
+        "where + about → whereabout 等",
+        "在何处、附近什么地方"
+      ],
+      [
+        "加副词 -s → whereabouts；再作名词",
+        "大概在哪里；下落、所在位置"
+      ]
+    ],
+    "explanation": "current whereabouts 当前下落；know someone’s whereabouts 知道某人在哪；Whereabouts do you live? 你大概住哪一带？",
+    "usage": "current whereabouts；know her whereabouts。",
+    "contrast": "名词 whereabouts 可接单数或复数动词，不靠最后 s 强制推成普通可数复数；两种一致形式都有标准用例。",
+    "examples": [
+      [
+        "The letter revealed the whereabouts of the missing painting.",
+        "信里透露了失踪画作的下落。"
+      ],
+      [
+        "Whereabouts do you live in the city?",
+        "你大概住在城里哪一带？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whereabouts#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/whereabouts_1"
+    ]
+  },
+  {
+    "word": "evenings",
+    "ipa": "/ˈiːvnɪŋz/",
+    "meaning": "晚上〔复数〕；在晚间〔常说习惯〕",
+    "sense": "three evenings 是三个晚上；study evenings 则可以说习惯在晚上学习，不是必须每次把晚上都数出来。",
+    "split": "evening 的名词复数可按 + -s；副词用法有旧时间属格、类推背景，可与 days、nights 的用法对照。/ŋ/ 后 s 读 /z/，不额外添硬 /ɡ/。",
+    "history": [
+      [
+        "evening 晚上 + 复数、时间副词材料",
+        "多个晚上；在晚间"
+      ],
+      [
+        "现代 evenings",
+        "名词复数与习惯时间副词同形"
+      ]
+    ],
+    "explanation": "quiet evenings 安静的夜晚；work evenings 晚间工作；spend evenings reading 晚上常读书。",
+    "usage": "quiet evenings；work evenings；spend evenings reading。",
+    "contrast": "evenings 不等于无论哪天都整个通宵；evening 是傍晚、晚间，night 范围另看语境。",
+    "examples": [
+      [
+        "We spent our evenings reading by the window.",
+        "我们晚上常坐在窗边读书。"
+      ],
+      [
+        "The shop opens evenings during the summer.",
+        "夏天商店晚间也营业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evenings#English"
+    ]
+  }
+]

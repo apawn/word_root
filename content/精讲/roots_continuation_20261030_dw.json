@@ -1,0 +1,94 @@
+[
+  {
+    "id": "B3244",
+    "meaning": "供燃料、供能与让事情继续发展的助力",
+    "core": "FUEL：火与机器有东西可烧，情绪也能被不断喂大",
+    "image": "fuel → refuel；biofuel 看燃料的生物材料来源。",
+    "intro": "燃料不只汽油，refuel 不只车。fuel criticism、speculation 说助长，不是把话题真的烧着。",
+    "forms": "focus、focālia 经法语 → fuel；re- + fuel；bio- + fuel。\n\nfuel 经古法语接拉丁 focus 炉灶、focalia 柴料等词线。现代 fuels 可说多种燃料，也可比喻某因素助长、推动某事。",
+    "branches": [
+      [
+        "燃料、再次补给与来源",
+        "fuel · refuel · biofuel"
+      ],
+      [
+        "炉灶的燃烧材料 → fuel → fuels",
+        "fuels"
+      ]
+    ],
+    "contrasts": "fuel/petrol 类别与具体燃料；refuel/recharge 供燃料与充电、恢复；比喻加剧常带持续推力。",
+    "practice": "The plane stopped to refuel.\n\n飞机停下来补充燃料。",
+    "words": [
+      "fuel",
+      "refuel",
+      "biofuel",
+      "fuels"
+    ],
+    "exclude": {
+      "e-fuel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4243",
+    "meaning": "上部、最上与大写字母",
+    "core": "UPPER：位置较高，能借给优势、关心的事情和字模格",
+    "image": "upper → uppermost、uppercase；uppercut 是向上出拳的固定复合词。",
+    "intro": "upper 的 -er 是较高位置，不是人；uppercase 大写和字号大不是一回事，case 保留排字格盘的历史。",
+    "forms": "upper 对应 up + -er；upper + -most；upper + case；upper + cut。",
+    "branches": [
+      [
+        "位置、程度与字母",
+        "upper · uppermost · uppercase"
+      ],
+      [
+        "动作方向复合词",
+        "uppercut"
+      ]
+    ],
+    "contrasts": "upper/above 句法不同；uppermost 最上；uppercase 非 large font size；upper hand 优势是比喻。",
+    "practice": "The uppermost line was written in uppercase.\n\n最上面一行用大写字母写成。",
+    "words": [
+      "upper",
+      "uppermost",
+      "uppercase",
+      "uppercut"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3016",
+    "meaning": "盛液体器皿、装瓶人员与瓶形比喻",
+    "core": "BOTTLE：能装、能盖，窄颈和长吻也借这个形象",
+    "image": "bottle → bottled、bottler；bottleneck 接窄颈，bottlenose 接吻部；butler 保留酒器管理人物的旧路径。",
+    "intro": "装瓶状态不等于质量保证，装瓶企业也未必亲自酿造。butler 是旧酒务人物发展成管家，与 bottler 区别在历史和今天的工作。",
+    "forms": "buttis、butticula 经法语 → bottle；去 e 接 -ed/-er；bottle + neck/nose；boteillier 等旧人物名 → butler。\n\n较早法语、拉丁小容器名称借入；英语现代可作装瓶、压住情绪等动词。",
+    "branches": [
+      [
+        "器皿、状态和灌装方",
+        "bottle · bottled · bottler"
+      ],
+      [
+        "形状与家庭职业",
+        "bottleneck · bottlenose · butler"
+      ],
+      [
+        "bottle → bottles：桶的小称与装瓶",
+        "bottle · bottles"
+      ]
+    ],
+    "contrasts": "bottle/bottled 容器与装瓶状态；bottler/butler 灌装方与管家；bottlenose 非所有海豚；bottle up 说憋住情绪。",
+    "practice": "The bottler filled the bottles before they reached the shops.\n\n灌装企业先把饮料装瓶，再供应到商店。",
+    "words": [
+      "bottle",
+      "bottled",
+      "bottler",
+      "bottleneck",
+      "bottlenose",
+      "butler",
+      "bottles"
+    ],
+    "exclude": {
+      "bottle-o": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "word": "attack",
+    "ipa": "/əˈtæk/",
+    "meaning": "攻击；抨击；发作；着手处理",
+    "sense": "把力量朝一个对象集中过去：可以进攻，也可以猛烈批评；attack a problem 则是积极着手解决。",
+    "split": "经法语接意大利语 attaccare 接合、贴上，接战表达推动了攻击义。与 attach 同源，但不是现代英语把 attach 改末尾造出 attack。",
+    "history": [
+      [
+        "意大利语 attaccare 接合、贴上 → 法语 attaquer、attaque",
+        "接战 → 进攻、攻击"
+      ],
+      [
+        "英语 attack",
+        "攻击 → 抨击；疾病等突然发作；着手解决"
+      ]
+    ],
+    "explanation": "an attack on a city 对城市的攻击，attack a policy 抨击政策，attack a problem 处理难题；a heart attack 是心脏病发作的固定医疗词组。",
+    "usage": "an attack on；come under attack；attack a problem；a verbal attack。",
+    "contrast": "attack 动词直接接对象，名词常接 on；attack the policy 与 an attack on the policy。不是所有 attack 都有武器。",
+    "examples": [
+      [
+        "The article attacks the government’s transport policy.",
+        "文章猛烈批评了政府的交通政策。"
+      ],
+      [
+        "Let us attack the problem from a different angle.",
+        "我们换个角度着手解决问题吧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attack#English"
+    ]
+  },
+  {
+    "word": "attacking",
+    "ipa": "/əˈtækɪŋ/",
+    "meaning": "进攻中的；进攻型的",
+    "sense": "把注意力放在向前推进、争取进球或得分，而不是守住现有局面。",
+    "split": "attack + -ing，现代进行形式也可作形容词，体育里的进攻型尤其常见。",
+    "history": [
+      [
+        "意大利语 attaccare 接合、贴上 → 法语 attaquer、attaque",
+        "接战 → 进攻、攻击"
+      ],
+      [
+        "英语 attack",
+        "攻击 → 抨击；疾病等突然发作；着手解决"
+      ],
+      [
+        "attack + -ing → attacking",
+        "进攻 → 进攻中的、进攻型的"
+      ]
+    ],
+    "explanation": "attacking football 进攻型足球，an attacking player 进攻型球员；They are attacking the plan 也可能是在批评方案。",
+    "usage": "attacking football；an attacking player；an attacking style。",
+    "contrast": "attacking 风格或正在进攻，attacker 是执行者；一个词修饰打法，一个词指人或其他攻击主体。",
+    "examples": [
+      [
+        "The coach prefers an attacking style of football.",
+        "教练偏好进攻型足球风格。"
+      ],
+      [
+        "The team added another attacking player after halftime.",
+        "中场休息后，球队又增派了一名进攻型球员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attacking#English"
+    ]
+  },
+  {
+    "word": "attacker",
+    "ipa": "英 /əˈtækə/；美 /əˈtækər/",
+    "meaning": "攻击者；进攻队员",
+    "sense": "谁在实施攻击或承担进攻任务，就从这个角色称谁 attacker。",
+    "split": "attack + -er，执行动作的主体。人物、动物及计算机安全中的攻击主体，都可能用这个名词。",
+    "history": [
+      [
+        "意大利语 attaccare 接合、贴上 → 法语 attaquer、attaque",
+        "接战 → 进攻、攻击"
+      ],
+      [
+        "英语 attack",
+        "攻击 → 抨击；疾病等突然发作；着手解决"
+      ],
+      [
+        "attack + -er → attacker",
+        "执行攻击、进攻的主体"
+      ]
+    ],
+    "explanation": "a skilled attacker 技术熟练的进攻队员，an unknown attacker 身份不明的攻击者；先看体育、案件还是网络上下文。",
+    "usage": "an unknown attacker；a skilled attacker；identify the attacker。",
+    "contrast": "attacker 不永远是犯罪者，足球进攻队员正常参赛也叫 attacker；defender 是防守方。",
+    "examples": [
+      [
+        "The defender blocked the attacker’s shot.",
+        "防守队员挡住了进攻队员的射门。"
+      ],
+      [
+        "The report did not identify the attacker.",
+        "报告未指明攻击者的身份。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attacker#English"
+    ]
+  },
+  {
+    "word": "cyberattack",
+    "ipa": "/ˈsaɪbərəˌtæk/",
+    "meaning": "网络攻击",
+    "sense": "攻击对象换成计算机系统、网络或数据，可能干扰服务、破坏或窃取信息。",
+    "split": "cyber- 计算机、网络相关 + attack。cyber- 的更远背景接 cybernetics 控制论的截短用法，现代已经成为常见网络前缀。",
+    "history": [
+      [
+        "意大利语 attaccare 接合、贴上 → 法语 attaquer、attaque",
+        "接战 → 进攻、攻击"
+      ],
+      [
+        "英语 attack",
+        "攻击 → 抨击；疾病等突然发作；着手解决"
+      ],
+      [
+        "cyber- + attack → cyberattack",
+        "网络相关攻击 → 网络攻击"
+      ]
+    ],
+    "explanation": "a cyberattack on a company 针对公司的网络攻击，respond to a cyberattack 应对网络攻击；不把所有系统故障都叫攻击。",
+    "usage": "a cyberattack on；a cyberattack attempt；respond to a cyberattack。",
+    "contrast": "cyberattack 是有意攻击，outage 只是服务中断结果；中断原因也可能是故障或施工。",
+    "examples": [
+      [
+        "The company investigated a cyberattack on its network.",
+        "公司调查了一次针对其网络的攻击。"
+      ],
+      [
+        "The exercise tested the team’s response to a cyberattack.",
+        "演练检验了团队应对网络攻击的能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cyberattack#English"
+    ]
+  },
+  {
+    "word": "broke",
+    "ipa": "/brəʊk/；美 /broʊk/",
+    "meaning": "break 的过去式；口语没钱的",
+    "sense": "She broke it 是她把它弄坏了；She is broke 则常是她手头没钱。看有没有 be，结构就不同。",
+    "split": "break 的不规则过去式。没钱的形容词与经济上垮掉、破产的 broken 相关使用发展有关，不把 broke 硬拆成另外两个词根。",
+    "history": [
+      [
+        "古英语 brecan 词族 → 英语 break、broke、broken",
+        "打破、破损；不规则过去式与分词"
+      ],
+      [
+        "现代 broke、broken",
+        "无钱的口语形容词；破损、失效、破碎等状态"
+      ]
+    ],
+    "explanation": "go broke 破产、变得没钱，be flat broke 身无分文；broke a promise 是违背了承诺。",
+    "usage": "go broke；flat broke；broke a window；broke a promise。",
+    "contrast": "broke 口语没钱可能只是暂时没钱，poor 更常说经济条件贫困；broken 是过去分词，不是 broke 后随便加 n 的普遍规则。",
+    "examples": [
+      [
+        "I cannot afford a new phone; I am broke.",
+        "我买不起新手机，我手头没钱。"
+      ],
+      [
+        "She broke the glass while washing it.",
+        "她洗玻璃杯时把它打破了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broke#English"
+    ]
+  },
+  {
+    "word": "broken",
+    "ipa": "/ˈbrəʊkən/；美 /ˈbroʊkən/",
+    "meaning": "坏了的；破碎、失效的；break 的过去分词",
+    "sense": "东西不再完整或不能正常用；承诺、信任被破坏，也像原来连好的部分断了。",
+    "split": "继承 break 词族旧分词形式，现代 break—broke—broken。可作过去分词，也可形成状态形容词。",
+    "history": [
+      [
+        "古英语 brecan 词族 → 英语 break、broke、broken",
+        "打破、破损；不规则过去式与分词"
+      ],
+      [
+        "现代 broke、broken",
+        "无钱的口语形容词；破损、失效、破碎等状态"
+      ]
+    ],
+    "explanation": "a broken window 碎了的窗，a broken promise 未兑现的承诺；broken English 指不流利、零碎表达的英语，可能带评价语气。",
+    "usage": "a broken window；a broken promise；broken English；a broken heart。",
+    "contrast": "broken 坏了、破碎，broke 口语没钱；The phone is broken 与 I am broke 不是同一种状态。",
+    "examples": [
+      [
+        "The lift is broken, so we took the stairs.",
+        "电梯坏了，我们走了楼梯。"
+      ],
+      [
+        "Trust is hard to rebuild after repeated broken promises.",
+        "多次失信之后，信任很难重建。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broken#English"
+    ]
+  },
+  {
+    "word": "trade",
+    "ipa": "/treɪd/",
+    "meaning": "贸易；交易；行业、手艺；交换",
+    "sense": "既能说货物、服务的交换，也能说靠什么手艺吃饭。by trade 问的是职业，不是交换来的身份。",
+    "split": "中古英语借中古低地德语路径、轨迹词，后有惯常做法、行业与商业活动义；与 tread 踩踏词族相关。别把英语 trade 当 Latin trad- 交付的直接派生。",
+    "history": [
+      [
+        "中古低地德语 trade 路径、轨迹 → 中古英语 trade",
+        "道路、做事的途径"
+      ],
+      [
+        "现代 trade",
+        "惯常活动、行业 → 手艺、职业；商业交易"
+      ]
+    ],
+    "explanation": "international trade 国际贸易，trade with a country 与某国贸易，trade cards 交换卡片；a carpenter by trade 职业是木匠。",
+    "usage": "international trade；trade with；by trade；learn a trade。",
+    "contrast": "trade 可指技术职业，不只买卖；business 范围也广，但 learn a trade 通常指学一门手艺。",
+    "examples": [
+      [
+        "She is an electrician by trade.",
+        "她的职业是电工。"
+      ],
+      [
+        "The two countries trade agricultural products.",
+        "两国进行农产品贸易。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trade#English"
+    ]
+  },
+  {
+    "word": "trader",
+    "ipa": "英 /ˈtreɪdə/；美 /ˈtreɪdər/",
+    "meaning": "商人；交易员",
+    "sense": "从事买进卖出的人，可以在市场卖实物，也可以在金融市场交易。",
+    "split": "trade + -er，去掉 trade 末尾 e 再加 -er，得到 trader。名词角色随交易对象而变化。",
+    "history": [
+      [
+        "中古低地德语 trade 路径、轨迹 → 中古英语 trade",
+        "道路、做事的途径"
+      ],
+      [
+        "现代 trade",
+        "惯常活动、行业 → 手艺、职业；商业交易"
+      ],
+      [
+        "trade + -er → trader",
+        "从事交易的主体 → 商人、交易员"
+      ]
+    ],
+    "explanation": "a market trader 市场摊商，a currency trader 外汇交易员；a sole trader 在某些地区还是个体经营的法律称呼。",
+    "usage": "a market trader；a currency trader；a local trader。",
+    "contrast": "trader 突出买卖活动，tradesman 常突出熟练技术工；不是只换个性别后缀的关系。",
+    "examples": [
+      [
+        "Local traders sell fruit in the square.",
+        "本地商贩在广场卖水果。"
+      ],
+      [
+        "She works as a currency trader.",
+        "她从事外汇交易工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trader#English"
+    ]
+  },
+  {
+    "word": "tradesman",
+    "ipa": "/ˈtreɪdzmən/",
+    "meaning": "技术工；手艺人；旧用商人",
+    "sense": "现代常见是靠熟练手艺工作的人员，比如修管道、装线路的工匠；具体范围随地区变化。",
+    "split": "trade 手艺、行业 + 连接的 s + man 人。历史也有商人义，现代技术工义常见；复数 tradesmen。",
+    "history": [
+      [
+        "中古低地德语 trade 路径、轨迹 → 中古英语 trade",
+        "道路、做事的途径"
+      ],
+      [
+        "现代 trade",
+        "惯常活动、行业 → 手艺、职业；商业交易"
+      ],
+      [
+        "trade + s + man → tradesman",
+        "从事某门行业、手艺的人"
+      ]
+    ],
+    "explanation": "a skilled tradesman 熟练技术工，a local tradesman 本地工匠；性别中性表达可用 tradesperson。",
+    "usage": "a skilled tradesman；a local tradesman；hire a tradesman。",
+    "contrast": "tradesman 常说手艺职业，trader 更偏交易买卖；个别历史、地区用法有重叠，不能硬说永远互斥。",
+    "examples": [
+      [
+        "We hired a local tradesman to repair the door.",
+        "我们请了本地工匠修门。"
+      ],
+      [
+        "The project needs several skilled tradesmen.",
+        "项目需要几名熟练技术工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tradesman#English"
+    ]
+  },
+  {
+    "word": "tradable",
+    "ipa": "/ˈtreɪdəbəl/",
+    "meaning": "可交易、可买卖的",
+    "sense": "能够进入交易，而不是只能自用、不能转让；具体是否允许还得看物件和规则。",
+    "split": "trade + -able，常写 tradable，也见 tradeable。可交易是属性，不能从这个词自动推出值钱或容易脱手。",
+    "history": [
+      [
+        "中古低地德语 trade 路径、轨迹 → 中古英语 trade",
+        "道路、做事的途径"
+      ],
+      [
+        "现代 trade",
+        "惯常活动、行业 → 手艺、职业；商业交易"
+      ],
+      [
+        "trade + -able → tradable",
+        "可以被交易的"
+      ]
+    ],
+    "explanation": "tradable goods 可贸易商品，tradable assets 可交易资产，tradable cards 可交换的卡片。",
+    "usage": "tradable goods；tradable assets；tradable cards。",
+    "contrast": "tradable 能交易，traded 已交易；profitable 有利可图是另一个判断。",
+    "examples": [
+      [
+        "The game includes tradable cards.",
+        "这款游戏包含可交换的卡片。"
+      ],
+      [
+        "The report distinguishes tradable goods from local services.",
+        "报告区分可贸易商品与本地服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tradable#English"
+    ]
+  },
+  {
+    "word": "tradecraft",
+    "ipa": "英 /ˈtreɪdkrɑːft/；美 /ˈtreɪdkræft/",
+    "meaning": "行业专门技巧；尤指情报工作的专业技艺",
+    "sense": "一门行当里，内行熟悉、外行未必知道的做事技巧；间谍小说、情报报道中特别常见。",
+    "split": "trade 行业 + craft 技艺，组合成行内专业技巧。现代常聚焦情报工作，不是把 trade 交易和 craft 手工摆件硬凑。",
+    "history": [
+      [
+        "中古低地德语 trade 路径、轨迹 → 中古英语 trade",
+        "道路、做事的途径"
+      ],
+      [
+        "现代 trade",
+        "惯常活动、行业 → 手艺、职业；商业交易"
+      ],
+      [
+        "trade + craft → tradecraft",
+        "某行业的技艺 → 专门职业技巧"
+      ]
+    ],
+    "explanation": "intelligence tradecraft 情报工作技艺，journalistic tradecraft 新闻工作技巧；这里只解释词义，不展开具体秘密行动方法。",
+    "usage": "intelligence tradecraft；professional tradecraft；learn the tradecraft。",
+    "contrast": "tradecraft 说行内技艺，trademark 是商标；craft 在这里不是单指工艺品。",
+    "examples": [
+      [
+        "The novel focuses on the tradecraft of intelligence work.",
+        "小说聚焦情报工作的专业技艺。"
+      ],
+      [
+        "The veteran reporter taught younger colleagues the tradecraft of the profession.",
+        "资深记者向年轻同事传授本行的专业技巧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tradecraft#English"
+    ]
+  },
+  {
+    "word": "church",
+    "ipa": "英 /tʃɜːtʃ/；美 /tʃɜːrtʃ/",
+    "meaning": "教堂；教会；基督教礼拜",
+    "sense": "可能是眼前那座建筑，也可能是一起信仰、礼拜的人群或机构；go to church 常说参加礼拜。",
+    "split": "古英语 ċiriċe 来自日耳曼语早期借入的希腊语 kuriakón 属于主的建筑相关形式。不是现代英语 church 才直接借希腊语；与 kirk 同源异形。",
+    "history": [
+      [
+        "希腊语 kuriakón 属于主的、主的建筑 → 早期日耳曼借词",
+        "基督教礼拜建筑的称呼"
+      ],
+      [
+        "古英语 ċiriċe → 中古英语 chirche → church",
+        "教堂 → 教会、会众与礼拜活动"
+      ]
+    ],
+    "explanation": "an old church 一座老教堂，the local church 当地教会；go to church 参加礼拜，go to the church 去那座教堂建筑。",
+    "usage": "go to church；a church service；the local church；a church building。",
+    "contrast": "church 既是建筑也可是组织、礼拜；temple 神庙、寺庙不是每次都能拿来替换基督教 church。",
+    "examples": [
+      [
+        "The old church stands at the end of the street.",
+        "老教堂位于街道尽头。"
+      ],
+      [
+        "The local church organizes a weekly food collection.",
+        "当地教会每周组织一次食品募集。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/church#English"
+    ]
+  },
+  {
+    "word": "churchyard",
+    "ipa": "英 /ˈtʃɜːtʃjɑːd/；美 /ˈtʃɜːrtʃjɑːrd/",
+    "meaning": "教堂庭院；教堂周围常有墓地的空地",
+    "sense": "教堂旁边属于教堂的那片地，历史上常有墓地；不等于世界上所有墓园。",
+    "split": "church + yard 院地、场地，继承或延续古老教堂院地组合。yard 在这里是围绕建筑的地，不是长度单位。",
+    "history": [
+      [
+        "希腊语 kuriakón 属于主的、主的建筑 → 早期日耳曼借词",
+        "基督教礼拜建筑的称呼"
+      ],
+      [
+        "古英语 ċiriċe → 中古英语 chirche → church",
+        "教堂 → 教会、会众与礼拜活动"
+      ],
+      [
+        "church + yard → churchyard",
+        "教堂周围的院地"
+      ]
+    ],
+    "explanation": "an old churchyard 古教堂庭院、墓地，walk through the churchyard 穿过教堂院地；是否具体指墓地看描写。",
+    "usage": "an old churchyard；churchyard graves；walk through the churchyard。",
+    "contrast": "churchyard 与 cemetery 墓园可有重叠，但 cemetery 不要求依附教堂，churchyard 也可强调院地。",
+    "examples": [
+      [
+        "A narrow path crosses the churchyard.",
+        "一条小路穿过教堂庭院。"
+      ],
+      [
+        "Old gravestones stood beneath the trees in the churchyard.",
+        "教堂院内的树下立着一些旧墓碑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/churchyard#English"
+    ]
+  },
+  {
+    "word": "megachurch",
+    "ipa": "英 /ˈmeɡətʃɜːtʃ/；美 /ˈmeɡətʃɜːrtʃ/",
+    "meaning": "巨型教会；会众很多的大型教会",
+    "sense": "重点是参加礼拜的会众规模很大，而不只是建筑盖得高。",
+    "split": "mega- 巨大 + church 教会，现代尤其用于会众规模庞大的基督教教会。学术定义可能设人数门槛，日常读词不把某个门槛当跨地区永恒标准。",
+    "history": [
+      [
+        "希腊语 kuriakón 属于主的、主的建筑 → 早期日耳曼借词",
+        "基督教礼拜建筑的称呼"
+      ],
+      [
+        "古英语 ċiriċe → 中古英语 chirche → church",
+        "教堂 → 教会、会众与礼拜活动"
+      ],
+      [
+        "mega- + church → megachurch",
+        "规模庞大的教会"
+      ]
+    ],
+    "explanation": "a suburban megachurch 郊区巨型教会，a megachurch congregation 巨型教会会众；群体与建筑分清。",
+    "usage": "a suburban megachurch；a megachurch congregation；a megachurch service。",
+    "contrast": "megachurch 看教会规模，cathedral 主教座堂看宗教机构地位；不能因建筑大就把两者等同。",
+    "examples": [
+      [
+        "The documentary follows a megachurch and its community programmes.",
+        "纪录片追踪一家巨型教会及其社区项目。"
+      ],
+      [
+        "The megachurch holds several services each weekend.",
+        "这家大型教会每个周末举行数场礼拜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/megachurch#English"
+    ]
+  }
+]

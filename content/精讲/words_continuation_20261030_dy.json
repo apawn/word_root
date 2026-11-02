@@ -1,0 +1,242 @@
+[
+  {
+    "word": "dirt",
+    "ipa": "英 /dɜːt/；美 /dɜːrt/",
+    "meaning": "污垢、灰尘；泥土〔尤美式〕；丑闻材料〔口语〕",
+    "sense": "鞋上、桌上不该有的脏东西是 dirt；美式说 dirt road，也可中性地说土路。dig up dirt on someone 则是挖出对方不光彩的材料。",
+    "split": "借古诺尔斯语 drit，经中古英语 drit 的音序变化形成 dirt。旧排泄物、污物义扩展到土、灰、污垢，后来再有丑闻等比喻，不把现代所有土都视为骂人话。",
+    "history": [
+      [
+        "古诺尔斯语 drit → 中古英语 drit，音序变化 → dirt",
+        "排泄物、污物 → 污垢，也说泥土"
+      ],
+      [
+        "现代比喻",
+        "脏东西 → 丑闻、抹黑材料、卑劣评价"
+      ]
+    ],
+    "explanation": "dirt on your shoes 鞋上的泥，a dirt road 土路，dig in the dirt 在泥土里挖，dirt on someone 某人的丑闻、黑料。",
+    "usage": "a dirt road；dirt on your shoes；dig in the dirt；dirt on someone。",
+    "contrast": "dirt 可污物或普通土，soil 更常说土壤、栽培介质；dirt 通常不可数，不按一粒灰就说 a dirt。",
+    "examples": [
+      [
+        "Wipe the dirt off your shoes.",
+        "把鞋上的泥擦掉。"
+      ],
+      [
+        "A narrow dirt road led to the farm.",
+        "一条窄土路通向农场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dirt#English"
+    ]
+  },
+  {
+    "word": "dirty",
+    "ipa": "英 /ˈdɜːti/；美 /ˈdɜːrti/",
+    "meaning": "脏的；卑鄙的、不正当的；使弄脏",
+    "sense": "衣服沾污是物理上脏；手段坑人、让人不齿，也借说 dirty。dirty look 则是带敌意的一眼，不是眼睛没洗干净。",
+    "split": "中古英语 dirti 由较早 dritti 等变形而来，现代对应 dirt + -y。形容词也可转为使弄脏的动词。",
+    "history": [
+      [
+        "古诺尔斯语 drit → 中古英语 drit，音序变化 → dirt",
+        "排泄物、污物 → 污垢，也说泥土"
+      ],
+      [
+        "中古英语 dirti 等 → dirty；对应 dirt + -y",
+        "沾污的 → 比喻卑劣、不友好；也可动词"
+      ]
+    ],
+    "explanation": "dirty clothes 脏衣服，a dirty trick 卑鄙手段，a dirty look 不友好的一瞪，dirty your hands 弄脏手，也可比喻亲手干活或沾手坏事。",
+    "usage": "dirty clothes；a dirty trick；a dirty look；dirty your hands。",
+    "contrast": "dirty 脏，不等于 old 旧；旧衣可洗得很干净。dirty look 是敌意表情，不表示别人脸上一定有污物。",
+    "examples": [
+      [
+        "Put the dirty clothes in the basket.",
+        "把脏衣服放进篮子。"
+      ],
+      [
+        "She gave him a dirty look after the rude comment.",
+        "听到那句无礼的话，她不友好地瞪了他一眼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dirty#English"
+    ]
+  },
+  {
+    "word": "dirtbag",
+    "ipa": "英 /ˈdɜːtbæɡ/；美 /ˈdɜːrtbæɡ/",
+    "meaning": "讨厌、卑劣的人〔俚语，骂人话〕",
+    "sense": "用一袋脏东西来比人，是很不客气的贬低；不只是客观报告这人衣服沾了泥。",
+    "split": "dirt 脏东西 + bag 袋，复合词用作人物侮称。日常核心是辱骂，不能从字面假定是职业垃圾收集员。",
+    "history": [
+      [
+        "古诺尔斯语 drit → 中古英语 drit，音序变化 → dirt",
+        "排泄物、污物 → 污垢，也说泥土"
+      ],
+      [
+        "dirt + bag → dirtbag",
+        "一袋脏物的形象 → 人物侮称"
+      ]
+    ],
+    "explanation": "call someone a dirtbag 骂某人为卑鄙家伙，a character described as a dirtbag 被骂成烂人的角色；用时有明显攻击性。",
+    "usage": "call someone a dirtbag；a complete dirtbag；the insult dirtbag。",
+    "contrast": "dirty 脏可客观，dirtbag 骂人；messy 凌乱也不自动表示一个人品格卑劣。",
+    "examples": [
+      [
+        "In the film, she calls the dishonest salesman a dirtbag.",
+        "电影里，她骂那个不诚实的推销员是个烂人。"
+      ],
+      [
+        "The editor removed the insult dirtbag from the report.",
+        "编辑把报告里骂人的 dirtbag 删掉了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dirtbag#English"
+    ]
+  },
+  {
+    "word": "fantastical",
+    "ipa": "/fænˈtæstɪkəl/",
+    "meaning": "奇幻的、异想天开的、超乎现实的",
+    "sense": "像想象里才有的场景：会说话的城堡、漂浮的岛、现实很难发生的安排。现代常比 fantastic 更把镜头放在奇幻、不真实这边。",
+    "split": "fantastic + -al，与更早法语、希腊语想象、显现词族相连。-al 形成形容词延伸，不表示凡多加后缀就一定比 fantastic 更赞。",
+    "history": [
+      [
+        "法语 fantastique、希腊相关想象词族 → fantastic",
+        "想象的、奇异的；后来也可极好的"
+      ],
+      [
+        "fantastic + -al → fantastical",
+        "突出奇幻、不现实的特点"
+      ]
+    ],
+    "explanation": "a fantastical world 奇幻世界，fantastical creatures 奇幻生物，a fantastical story 异想天开的故事。",
+    "usage": "a fantastical world；fantastical creatures；a fantastical story。",
+    "contrast": "fantastic 日常常是太棒了，fantastical 更常奇幻、异想天开；fantastical service 不一定是夸服务很棒，可能让人误会在说不现实。",
+    "examples": [
+      [
+        "The novel is set in a fantastical world of floating islands.",
+        "小说设定在一个浮岛构成的奇幻世界里。"
+      ],
+      [
+        "The children invented fantastical creatures for their story.",
+        "孩子们为故事创造了奇幻生物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fantastical#English"
+    ]
+  },
+  {
+    "word": "governorship",
+    "ipa": "英 /ˈɡʌvənəʃɪp/；美 /ˈɡʌvərnərʃɪp/",
+    "meaning": "州长、总督等的职务或任期",
+    "sense": "不说某位州长这个人，而说他担任的那份职位，或他在位的那段时间。具体 governor 是州长还是总督，看地区、历史。",
+    "split": "governor + -ship，-ship 命名职务、身份、任期，不是政府的船。",
+    "history": [
+      [
+        "拉丁 gubernāre 等经法语 → govern、governor",
+        "引导、管理 → 统治、管理者"
+      ],
+      [
+        "governor + -ship/-ate",
+        "职务、任期或管辖地区等"
+      ],
+      [
+        "governor + -ship → governorship",
+        "担任 governor 的职务、时期"
+      ]
+    ],
+    "explanation": "seek the governorship 争取州长等职位，during her governorship 在她任内，win the governorship 赢得州长等职位。",
+    "usage": "seek the governorship；during her governorship；win the governorship。",
+    "contrast": "governor 人，governorship 职位任期；government 政府组织，不是一个 governor 的个人任期同义词。",
+    "examples": [
+      [
+        "The biography focuses on her governorship.",
+        "传记重点讲她担任州长的时期。"
+      ],
+      [
+        "He decided to seek the governorship.",
+        "他决定争取州长职位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/governorship#English"
+    ]
+  },
+  {
+    "word": "governorate",
+    "ipa": "英 /ˈɡʌvənərət/；美 /ˈɡʌvərnərət/",
+    "meaning": "总督辖区、省级行政区等；总督职务〔较少见义〕",
+    "sense": "强调由 governor 管理的那一片行政地区。不同国家的地理层级、中文译名不一样，不能全套成美国一个州。",
+    "split": "governor + -ate，后缀可形成职位、管辖地区等名词。日常国际新闻里经常是行政区的称呼，不是 governor 的动词现在时。",
+    "history": [
+      [
+        "拉丁 gubernāre 等经法语 → govern、governor",
+        "引导、管理 → 统治、管理者"
+      ],
+      [
+        "governor + -ship/-ate",
+        "职务、任期或管辖地区等"
+      ],
+      [
+        "governor + -ate → governorate",
+        "职位、管辖地区；常用行政区名"
+      ]
+    ],
+    "explanation": "a governorate capital 行政区首府，the northern governorates 北部各行政区，a map of the governorates 各行政区地图。",
+    "usage": "a governorate capital；the northern governorates；a map of the governorates。",
+    "contrast": "governorate 常地区，governorship 常职位、任期；具体制度名称依国家，不能从相同 governor 材料推断层级完全相同。",
+    "examples": [
+      [
+        "The map divides the country into governorates.",
+        "地图按各行政区划分这个国家。"
+      ],
+      [
+        "The report compares schools across several governorates.",
+        "报告比较了几个行政区的学校。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/governorate#English"
+    ]
+  },
+  {
+    "word": "underemployment",
+    "ipa": "英 /ˌʌndərɪmˈplɔɪmənt/；美 /ˌʌndərɪmˈplɔɪmənt/",
+    "meaning": "就业不足、未充分就业",
+    "sense": "有工作却没充分用上可提供的工作时间、能力；例如想多工作却只能拿到很少工时。并不是完全没有工作。",
+    "split": "under- 不足、低于 + employment 就业。under- 评充分程度，不说人在就业大楼的地下。",
+    "history": [
+      [
+        "employ → employment",
+        "雇用、就业的状态或安排"
+      ],
+      [
+        "under- + employment → underemployment",
+        "有就业却未充分利用的状态"
+      ]
+    ],
+    "explanation": "underemployment among graduates 毕业生就业不足，time-related underemployment 工时不足型就业不足，a study of underemployment 就业不足研究。",
+    "usage": "underemployment among；time-related underemployment；a study of underemployment。",
+    "contrast": "unemployment 失业、underemployment 已有工作但未充分就业；日常还可指能力与岗位不匹配，统计资料中的具体口径须按其定义。",
+    "examples": [
+      [
+        "The survey examined underemployment among graduates.",
+        "调查研究了毕业生的就业不足情况。"
+      ],
+      [
+        "Working too few hours was one form of underemployment discussed in the report.",
+        "工时太少是报告讨论的一种就业不足。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underemployment#English",
+      "https://www.merriam-webster.com/dictionary/underemployment"
+    ]
+  }
+]

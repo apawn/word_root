@@ -1,0 +1,244 @@
+[
+  {
+    "id": "B3627",
+    "meaning": "长窄柔性带用于挂、绑，缺少与明显带式结构分开",
+    "core": "STRAP：带子挂住、绕住、捆住东西",
+    "image": "strap → strapless、strappy；bootstrap 接靴子提带及自己的技术、比喻用法。",
+    "intro": "肩带、表带、捆扎带用同一带状形象。strapless、strappy 各从有没有肩带、是否显著细带构成来描述款式，bootstrap 则保留具体靴子物件史。",
+    "forms": "strope、stroppe 等 → strap；-less 无；双写 p + -y；boot + strap。\n\n短重读音节后双写 p 加 ed、ing；strapping 壮实的有后起程度形容词历史，不能译成绑住的。",
+    "branches": [
+      [
+        "带子、无肩带与细带款式",
+        "strap · strapless · strappy"
+      ],
+      [
+        "靴提带及其固定用法",
+        "bootstrap"
+      ],
+      [
+        "strap → straps、strapped、strapping：带子、固定及形容词",
+        "strap · straps · strapped · strapping"
+      ]
+    ],
+    "contrasts": "strapless 无肩带与 sleeveless 无袖不同；strappy 说带式结构。",
+    "practice": "The bag’s strap matched her strappy sandals.\n\n包带与她的细带凉鞋很搭。",
+    "words": [
+      "strap",
+      "strapless",
+      "strappy",
+      "bootstrap",
+      "straps",
+      "strapped",
+      "strapping"
+    ],
+    "exclude": {
+      "strap-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "strap-on": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lip-strap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4405",
+    "meaning": "不知道的状态与出其不意的旧副词形式",
+    "core": "UNAWARE：原先没察觉，unawares 常说事情猝然到来",
+    "image": "unaware → 与 unawares 对照理解；书写关系透明，历史见证顺序并非现代形容词先、副词后。",
+    "intro": "be unaware of 是不知道某事，catch unawares 是某事突然到来让人来不及准备。副词 s 留下旧构词，而不是数量变化。",
+    "forms": "un- 否定 + aware；旧副词 -s 见 unawares。",
+    "branches": [
+      [
+        "不知情状态与猝不及防",
+        "unaware · unawares"
+      ]
+    ],
+    "contrasts": "unawares 的 s 不表复数；be unaware of 和 catch unawares 的句法位置不同。",
+    "practice": "Unaware of the change, they were caught unawares by the announcement.\n\n他们不知道变化，所以公告让他们猝不及防。",
+    "words": [
+      "unaware",
+      "unawares"
+    ],
+    "exclude": {
+      "self-unaware": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2211",
+    "meaning": "在旁、经过与相关关系，复合词按具体用途分支",
+    "core": "BY-：旁边、经过、附带，作者关系也有固定组合",
+    "image": "bystander、byway 看旁；bypass 看绕过；byline 看作者署名；bycatch、byword 看各自固定语义。",
+    "intro": "一个前半不包办全部现代含义。先把站旁边的人、小路、绕行、署名行放进真实场景，再读其他固定复合词。",
+    "forms": "bi、be 等 → by；stander 站着者，way 路，pass 经过，line 一行文字，catch 捕获，word 词、说法。",
+    "branches": [
+      [
+        "在旁、支路与绕过",
+        "bystander · byway · bypass"
+      ],
+      [
+        "署名与固定复合名词",
+        "byline · bycatch · byword"
+      ]
+    ],
+    "contrasts": "byline 是署名，不是路；byway 支路与 bypass 绕行不完全相同。",
+    "practice": "The article’s byline named a writer who often explored local byways.\n\n文章署名是一位常去探访当地小路的作家。",
+    "words": [
+      "bystander",
+      "byway",
+      "bypass",
+      "byline",
+      "bycatch",
+      "byword"
+    ],
+    "exclude": {
+      "by-place": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-play": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-business": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-book": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-room": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-past": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-cause": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-report": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-view": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-election": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-product": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-purpose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-blow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-plot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-stroke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-motive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "by-peep": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4197",
+    "meaning": "小型马的名称，发型借马尾形状，付款短语另记",
+    "core": "PONY：主要认体型小，不要与年龄小混成一件事",
+    "image": "pony → ponytail，动物名与发型按形状连接。",
+    "intro": "一匹成年矮种马仍是 pony，一匹高大马的幼崽则可叫 foal。ponytail 把束发比作马尾，不要求头发颜色像马。",
+    "forms": "poulenet 等 → powny → pony；pony + tail；pony up 属固定口语，具体来历未定。",
+    "branches": [
+      [
+        "小型马与马尾发型",
+        "pony · ponytail"
+      ]
+    ],
+    "contrasts": "pony 不是 foal 的普通替换；ponytail 是尾形束发。",
+    "practice": "She tied her hair in a ponytail before riding the pony.\n\n她骑矮种马前，把头发扎成马尾。",
+    "words": [
+      "pony",
+      "ponytail"
+    ],
+    "exclude": {
+      "pony-trekking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pony-trekker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3984",
+    "meaning": "向回绕的卷曲形状，性质、工具与运动角色依次展开",
+    "core": "CURL：绕一圈、往回收，头发、纸边、身体都能卷",
+    "image": "curl → curly、curler，基本动作、外形性质和工具人物分开。",
+    "intro": "猫蜷起、纸卷边、头发卷成圈提供不同物件的同一形象。curler 的冰壶义还需接运动词，而不是由头发用途直接跳过去。",
+    "forms": "crull、crulle 等 → curl；-y 性质；-er 工具、参与者。\n\ncurl 联系中古英语 crull、crulle 的字音次序变化；curling 的冰壶名可能联系石壶运动，命名细节不定。",
+    "branches": [
+      [
+        "卷曲、外形与工具角色",
+        "curl · curly · curler"
+      ],
+      [
+        "curl：卷曲与卷曲动作的扩展",
+        "curl · curls · curled · curling"
+      ]
+    ],
+    "contrasts": "curly 不等于 messy；curler 可以是工具，也可以是运动员。",
+    "practice": "She used curlers to give her straight hair a curly shape.\n\n她用卷发筒把直发做成卷发。",
+    "words": [
+      "curl",
+      "curly",
+      "curler",
+      "curls",
+      "curled",
+      "curling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4525",
+    "meaning": "使有差别、认出差别，名词和可区分性质按作用展开",
+    "core": "DIFFERENTIATE：把看似相近的对象分出不同",
+    "image": "differentiate → differentiation、differentiator、differentiable；基础动作与技术专义各见对应词条。",
+    "intro": "differentiation 可说差异化过程，differentiator 可说让它不同的因素。数学里的 differentiate、differentiable 又有微分专门意义，不能只靠商业中文替代。",
+    "forms": "different 相关词族 → differentiate；-ation 过程，-or 因素、工具或执行者，-able 相应能力或技术性质。",
+    "branches": [
+      [
+        "差异化动作、过程与因素",
+        "differentiate · differentiation · differentiator"
+      ],
+      [
+        "可区分或数学专门性质",
+        "differentiable"
+      ]
+    ],
+    "contrasts": "difference 差别与 differentiator 区别因素不同；数学微分义要按具体学科读。",
+    "practice": "The feature differentiates the products and acts as a key differentiator.\n\n这项特点把产品区分开来，构成关键差异化因素。",
+    "words": [
+      "differentiate",
+      "differentiation",
+      "differentiator",
+      "differentiable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3778",
+    "meaning": "颜色、光、声音逐步减弱，控制渐变的工具再命名",
+    "core": "FADE：一点点淡下去，边缘、声音、记忆都能变弱",
+    "image": "fade → fader；fade in、fade out 还可按方向说渐强、渐弱。",
+    "intro": "褪色给直观时间变化，音乐淡出给听觉变化。fader 工具用于控制过程，具体信号可以往上也可以往下，不被一个淡字锁死。",
+    "forms": "fade、vade 等早期形式 → fade；去 e + -er → fader；in、out 限定渐入、渐出。\n\nfade 联系中古英语及法语苍白、衰弱材料；褪色、渐弱是常用动词义，高尔夫球术语只是较专门的另一用法。",
+    "branches": [
+      [
+        "渐变动作与控制工具",
+        "fade · fader"
+      ],
+      [
+        "fade 的颜色、声音和记忆渐弱",
+        "fade · fades · faded · fading"
+      ]
+    ],
+    "contrasts": "fade 常是渐变，cut off 可突然切断；fader 不只是静音开关。",
+    "practice": "The engineer used the fader to make the music fade out smoothly.\n\n工程师用推子让音乐平滑淡出。",
+    "words": [
+      "fade",
+      "fader",
+      "fades",
+      "faded",
+      "fading"
+    ],
+    "exclude": {
+      "anti-fade": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4050",
+    "meaning": "与实际要求不相称，性质、方式与不足名词依次展开",
+    "core": "INADEQUATE：把现有条件对上要求，仍然差一截",
+    "image": "inadequate → inadequately、inadequacy，分别说性质、完成方式、不足或缺陷。",
+    "intro": "充足与否要有参照目标。客观准备不足和主观觉得自己不够好可能不同，不把同一个中文不足混成一类事实。",
+    "forms": "in- 否定 + adequate；保留 e + -ly；inadequacy 可对应 in- + adequacy 或形容词的名词形式。",
+    "branches": [
+      [
+        "不足性质、方式与缺陷名词",
+        "inadequate · inadequately · inadequacy"
+      ]
+    ],
+    "contrasts": "inadequately prepared 说准备程度；feelings of inadequacy 说感受，不直接判定能力。",
+    "practice": "The inadequate plan was inadequately explained, exposing further inadequacies.\n\n不够完善的计划又没解释清楚，进一步暴露了缺陷。",
+    "words": [
+      "inadequate",
+      "inadequately",
+      "inadequacy"
+    ],
+    "exclude": {}
+  }
+]

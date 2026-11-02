@@ -1,0 +1,288 @@
+"""Action and state nouns in -ion; common bases explained alongside them."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+
+W('opinion','/əˈpɪnjən/','意见、看法；评价',
+ '同一部电影，有人觉得精彩，有人觉得拖沓：各自作出的判断就是 opinion。它可以有依据，也可能只是偏好。',
+ '经中古英语、法语 opinion 接拉丁 opinio、opinari 认为。今天可与 opine 发表看法对应，但常用 opinion 不是靠一个现代 op 加 inion 拆出来。',
+ [['拉丁 opinari → opinio','认为、判断 → 看法、评价'],['法语 opinion → 英语 opinion','个人或群体形成的意见']],
+ 'in my opinion 在我看来；an opinion on/about something 对某事的意见；public opinion 舆论；a second opinion 另一位专业人士的意见。',
+ 'in my opinion；public opinion；ask for an opinion。',
+ 'opinion 是判断、看法，fact 是事实；意见可以受事实支持，但不能只因说得肯定就当作事实。',
+ ('In my opinion, the shorter version is clearer.','在我看来，短版更清楚。'),('She asked for my opinion on the design.','她问我对这个设计的看法。'))
+Me=[['拉丁 mederi 治疗 → medicus、medicari 等','医治、医者及用药治疗的材料'],['法语、英语相应形式 → medicate、medication','用药治疗；药物或用药过程']]
+W('medicate','/ˈmedɪkeɪt/','给……用药；用药治疗',
+ '把药物作为处理病情的一部分，是 medicate。它强调用药这个动作，不保证用了就已经治好。',
+ '接拉丁 medicare、medicari 等医治材料，与 medic- 医药及 -ate 动词形对应；不是现代 medicine 原样加 ate。',Me,
+ 'medicate a patient 给病人用药；be medicated 被给予药物；medicated 作修饰语可说含药成分的，如 medicated shampoo 药用洗发水。',
+ 'medicate a patient；be medicated；medicated shampoo。',
+ 'medicate 聚焦药物处理，treat 治疗范围更广；cure 才强调治愈，三者不能当作同一结果。',
+ ('The vet medicated the injured animal.','兽医给受伤的动物用了药。'),('The article discusses when doctors choose to medicate.','文章讨论医生何时会选择用药治疗。'))
+W('medication','/ˌmedɪˈkeɪʃən/','药物；用药、药物治疗',
+ '旅行时要带上的那几种药，可以统称 medication；在较正式的语境里，也能指给药这个治疗过程。',
+ '经中古英语、法语接拉丁 medicatio，用药治疗的名词；现代对应 medicate 去 e 加 -ion，但借词历史不只是在英语里现场拼接。',Me+[['拉丁 medicatio → 法语、英语 medication','用药治疗；后来也指所用的药物']],
+ 'take medication 服药；be on medication 正在用药；prescription medication 处方药。指具体种类时也可用 medications。',
+ 'take medication；be on medication；prescription medication。',
+ 'medication 常着眼于药或用药，medicine 还可指医学这门领域；study medicine 通常不是研究自己那几盒药。',
+ ('She packed her medication before the trip.','出发前她把药装进了行李。'),('The form asks whether you are taking any medication.','表格询问你是否正在服用任何药物。'))
+Vi=[['拉丁 vis 力量等材料 → violare','强行侵害、冒犯、破坏'],['violare、violatio → 英语 violate、violation','侵犯或违反；相应行为、事件']]
+W('violate','/ˈvaɪəleɪt/','违反；侵犯；亵渎',
+ '规则或权利像一条应当守住的边界，行为越过去、破坏它，就是 violate。重心不是一般不同意，而是侵害了应受尊重的约束。',
+ '接拉丁 violatus，来自 violare 侵害、冒犯，关联 vis 力量的材料；-ate 对应动词形式。不是 violin 小提琴的派生。',Vi,
+ 'violate a rule 违规；violate an agreement 违反协议；violate privacy 侵犯隐私；violate rights 侵犯权利。',
+ 'violate a rule；violate privacy；violate an agreement。',
+ 'violate 是违反、侵犯；disagree 是持不同意见。你可不同意规则，却仍遵守它。',
+ ('The new policy may violate the agreement.','新政策可能违反这份协议。'),('Sharing the private messages would violate her privacy.','分享那些私人消息会侵犯她的隐私。'))
+W('violation','/ˌvaɪəˈleɪʃən/','违反、侵犯；违规行为',
+ 'violate 是越过边界去做，violation 则把这个行为当成一件事来讨论、记录。一次违规可以说 a violation。',
+ '经法语 violation 接拉丁 violatio；现代对应 violate 去 e 加 -ion，形成动作、事件名词。',Vi+[['violatio → violation；与 violate 对应','违反行为或受侵犯的状态']],
+ 'a violation of the rules 违规；a privacy violation 侵犯隐私；in violation of 与……相违；a traffic violation 交通违规。',
+ 'a violation of；in violation of；a privacy violation。',
+ 'violation 不只用于法律，也可说违反平台规则或协议；是否违法要看被违反的具体规范。',
+ ('The referee reported a violation of the rules.','裁判报告了一次违规。'),('The company apologised for the privacy violation.','公司为侵犯隐私一事道歉。'))
+Li=[['拉丁 lis、lit- 诉讼 + agere 行动的相关材料 → litigare','把争议带入法律程序争讼'],['拉丁 litigatus、litigatio → litigate、litigation','进行诉讼；诉讼过程']]
+W('litigate','/ˈlɪtɪɡeɪt/','进行诉讼；通过诉讼争论、解决',
+ '双方把争议带进法律程序，由法院来处理，就是 litigate。它说选择怎样争，不说谁最后会赢。',
+ '借拉丁 litigatus，接 litigare 争讼；前部 lit- 与 lis 诉讼有关，后部接行动的动词材料，不按英语 lit 点亮来拆。',Li,
+ 'litigate a dispute 就争议诉讼；litigate against someone 与某人打官司；选择和解时常与 settle 对照。',
+ 'litigate a dispute；litigate against；choose to litigate。',
+ 'litigate 是进行法律争讼，不等于普通争吵 argue，也不等于已经判决或执行判决。',
+ ('The parties chose to settle rather than litigate.','双方选择和解，没有继续打官司。'),('The dispute was litigated for several years.','这场争议经历了数年的诉讼。'))
+W('litigation','/ˌlɪtɪˈɡeɪʃən/','诉讼；法律争讼过程',
+ '律师准备材料、当事人参与法院程序，这整段法律争讼可以叫 litigation。它是过程名词，不是某一方自动获胜的证明。',
+ '接拉丁 litigatio，与 litigare 争讼同族；现代对应 litigate 去 e 加 -ion。',Li+[['litigatio → litigation','法律争讼的进行及相关过程']],
+ 'civil litigation 民事诉讼；pending litigation 尚未结束的诉讼；the cost of litigation 诉讼费用。常作不可数名词。',
+ 'civil litigation；pending litigation；litigation costs。',
+ 'a lawsuit 常指一宗具体诉讼，litigation 更常说进行诉讼的过程、活动；不能机械说 a litigation 代替每个案子。',
+ ('The company faces costly litigation.','公司面临代价高昂的诉讼。'),('The agreement ended years of litigation.','这份协议结束了多年的诉讼。'))
+W('affection','/əˈfekʃən/','喜爱、爱意；温柔的感情',
+ '看到熟悉的人或宠物，心里自然柔软起来，愿意亲近、照顾，这种温暖的喜欢是 affection。',
+ '经法语接拉丁 affectio 状态、心情，关联 afficere 影响、使处于某状态；后来偏向温暖的感情。现代与 affect 同族，不把每个 affect 的义项原样搬入。',
+ [['拉丁 afficere → affectio','使受到影响 → 状态、感受'],['法语、英语 affection','情感 → 常见的爱意、喜爱']],
+ 'affection for someone 对某人的喜爱；show affection 表达爱意；with affection 带着感情。常不含恋爱关系。',
+ 'show affection；affection for；with affection。',
+ 'affection 是温暖的喜欢，affectation 是装腔作势；拼写近，意思差很远。affection 也不只用于情侣。',
+ ('She has great affection for her old teacher.','她对以前的老师怀有深厚感情。'),('The dog showed its affection by staying close to him.','狗一直贴在他身边，表达亲近。'))
+As=[['中世纪地中海语言中的历史团体名称 → assassin','群体称谓扩展为刺客；有关用药的传说不能当作已证事实'],['assassiner、assassinare 等 → assassinate、assassination','刺杀重要人物；这类事件的名词']]
+W('assassinate','/əˈsæsɪneɪt/','暗杀、刺杀〔尤指重要人物〕',
+ '这个动词常见于历史、政治叙述：某人因为身份或立场而遭到有意刺杀。它比一般 kill 杀死的范围窄。',
+ '由 assassin 与 -ate 对应，受法语 assassiner、中世纪拉丁 assassinare 等影响。assassin 的远源关联历史团体称谓；不能把传说中的用药故事当成可靠构词依据。',As,
+ 'an assassinated leader 遭刺杀的领导人；attempt to assassinate 企图刺杀；在历史叙述中关注事件与动机。',
+ 'assassinate a leader；an attempt to assassinate。',
+ 'kill 泛指杀死，assassinate 常指有针对性的刺杀。不要因为词尾相近，就把 assassination 的历史记录硬排在英语动词之后。',
+ ('The documentary examines why the leader was assassinated.','纪录片考察那位领导人为何遭到刺杀。'),('In the novel, a failed attempt to assassinate the king changes the plot.','小说里，一次刺杀国王未遂的事件改变了情节走向。'),sources=['https://en.wiktionary.org/wiki/assassinate#English','https://www.etymonline.com/word/assassinate'])
+W('assassination','/əˌsæsɪˈneɪʃən/','暗杀、刺杀事件',
+ 'assassinate 说发生了怎样的行动，assassination 把这件刺杀作为历史事件来谈。新闻中常看它造成的政治、社会影响。',
+ '现代可对应 assassinate 去 e 加 -ion；历史上英语 assassination 的记录约在 1600 年，早于该动词的约 1610 年代记录。因此这是词形对应，不是证明英语里一定先有动词。',As+[['英语 assassination 的较早记录','刺杀事件；现代与 assassinate 构成对应词族']],
+ 'a political assassination 政治暗杀；an assassination attempt 刺杀企图；the aftermath of an assassination 刺杀事件的后果。',
+ 'a political assassination；an assassination attempt。',
+ 'assassination attempt 不表示一定成功；event 的名词结构不能抹掉 attempt 企图这个限定。',
+ ('The assassination changed the course of the country’s history.','那次刺杀改变了这个国家的历史进程。'),('The museum has an exhibition about the assassination attempt.','博物馆有一个关于那次刺杀未遂事件的展览。'),sources=['https://en.wiktionary.org/wiki/assassination#English','https://www.etymonline.com/word/assassinate'])
+De=[['拉丁 de- 向下等 + moliri 营造、建造 → demoliri','把建起来的东西拆掉'],['法语 demolir、demoliss- 与拉丁 demolitio 等 → demolish、demolition','拆除；拆除活动或结果']]
+W('demolish','英 /dɪˈmɒlɪʃ/；美 /dɪˈmɑːlɪʃ/','拆毁、拆除；彻底驳倒',
+ '原来立着的一座楼，被拆到不再成其为楼，是 demolish。论点被逐条推翻，也可借这个拆毁画面来讲。',
+ '借法语 demoliss- 等动词形式，上接拉丁 demoliri 拆掉：de- 向下等 + moliri 营造，后者与 moles 大块、体量相关。',De,
+ 'demolish a building 拆楼；demolish an argument 彻底驳倒论证；口语还可夸张说迅速吃光一份食物。',
+ 'demolish a building；demolish an argument。',
+ 'damage 是损坏，demolish 常强调拆毁、摧毁整体；不是墙上出现一个小裂口就自然叫 demolish。',
+ ('The old warehouse will be demolished next year.','旧仓库明年将被拆除。'),('Her evidence demolished the main argument.','她的证据彻底推翻了主要论点。'))
+W('demolition','英 /ˌdeməˈlɪʃən/；美 /ˌdeməˈlɪʃən/','拆除、拆毁；彻底击溃',
+ '把 demolish 的动作整体拿来谈：拆除何时开始、需要多长时间，这时常用 demolition。',
+ '经法语接拉丁 demolitio、demolition-，来自 demoliri 的 demolit- 词干。与 demolish 同源，但不是任何英语 -sh 都能换成 -ition。',De+[['拉丁 demolit- + 名词材料 → demolition','把建造物拆下的活动、事件']],
+ 'scheduled for demolition 计划拆除；demolition work 拆除作业；the demolition of a building 建筑物的拆除。',
+ 'demolition work；scheduled for demolition。',
+ 'demolition 指拆除或彻底摧毁，renovation 是翻修；后者通常保留建筑并改善它。',
+ ('Demolition of the factory began in June.','工厂的拆除工作六月开始。'),('The building was saved from demolition.','这座建筑保住了，没有被拆掉。'))
+Vb=[['拉丁 vibrare 摇动、挥动 → vibratus、vibratio','快速来回运动及相应活动名词'],['英语 vibrate、vibration','振动；可感到的震动']]
+W('vibrate','/vaɪˈbreɪt/','振动、震动；使振动',
+ '手机在桌上嗡嗡响，琴弦在原位快速来回动，都是 vibrate。重点是反复的小幅运动，不是整个东西一路搬走。',
+ '接拉丁 vibratus，来自 vibrare 摇动、挥动，现代 -ate 形成动词形；与 vibrant 同族，但用法不同。',Vb,
+ 'a phone vibrates 手机振动；a vibrating string 振动的琴弦；vibrate with excitement 可形容兴奋得颤动。',
+ 'vibrate gently；a vibrating string；a phone vibrates。',
+ 'vibrate 是运动过程，vibrant 常说充满活力；a vibrant city 不是整座城市一直物理震动。',
+ ('My phone vibrated in my pocket.','手机在我口袋里振动了。'),('The strings vibrate when you play the instrument.','演奏这件乐器时，琴弦会振动。'))
+W('vibration','/vaɪˈbreɪʃən/','振动；震动、颤动感',
+ 'vibrate 是来回动，vibration 是这次运动或它传到手上、地板上的颤动感。机器、声音和手机都能带来它。',
+ '法语 vibration 接拉丁 vibratio，来自 vibrare；现代对应 vibrate 去 e 加 -ion。',Vb+[['vibratio → vibration','振动过程；一次或一类震动']],
+ 'reduce vibration 减少振动；feel a vibration 感到震动；mechanical vibration 机械振动。可数时常谈若干次或若干种振动。',
+ 'feel a vibration；reduce vibration；mechanical vibration。',
+ 'vibration 本身不必令人不快，乐器发声也靠振动；不能只把它当故障或地震。',
+ ('We could feel the vibration through the floor.','我们能感觉到地板传来的震动。'),('The new supports reduce vibration from the motor.','新支架减少了电机带来的振动。'))
+W('combustion','/kəmˈbʌstʃən/','燃烧；燃烧过程',
+ '燃料发生反应，明显放出热，往往还会发光，这个燃烧过程是 combustion。汽车发动机里也能谈它，不只是眼前的大火。',
+ '经法语 combustion 接拉丁 combustio，来自 comburere 燃烧的 combust- 词干；更早与 urere 烧的材料相连。不是把英语 combine 与 bust 随意拼接。',
+ [['拉丁 comburere → combust-、combustio','烧、烧尽 → 燃烧的过程'],['法语 combustion → 英语 combustion','燃烧；发动机等领域中的燃烧过程']],
+ 'internal combustion engine 内燃机；spontaneous combustion 自燃；combustion of fuel 燃料燃烧。通常作不可数名词。',
+ 'internal combustion；spontaneous combustion；combustion of fuel。',
+ 'combustion 常有明显放热，氧化的范围更广；金属缓慢生锈虽是氧化，一般不按日常用法叫燃烧。也不必每次都有可见火焰。',
+ ('The engine uses the heat produced by combustion.','发动机利用燃烧产生的热。'),('The report compares emissions from different combustion processes.','报告比较了不同燃烧过程产生的排放。'))
+
+Rt=[['拉丁 re- 回、还 + talio 对等回报的材料 → retaliare','把对方的行为还回去'],['retaliatus、retaliatio 等 → retaliate、retaliation','因先前伤害而报复；报复行为']]
+W('retaliate','/rɪˈtælieɪt/','报复、反击',
+ '别人先伤害或打压你，你又用行动还回去，这个回击是 retaliate。它解释回应关系，不自动替行为判对错。',
+ '接拉丁 retaliatus，来自 retaliare；re- 回、还与 talio 对等回报、报复的材料相连，后接动词形式。',Rt,
+ 'retaliate against someone 报复某人；retaliate for an attack 因袭击而报复；retaliate by doing 用某种行动反击。',
+ 'retaliate against；retaliate for；retaliate by doing。',
+ 'retaliate 含有对先前伤害的回应；attack 只是攻击，不一定是回击。回应也可能加重冲突。',
+ ('She refused to retaliate after the insult.','受到侮辱后，她拒绝报复。'),('The company retaliated by cancelling the contract.','公司以取消合同作为反击。'))
+W('retaliation','/rɪˌtæliˈeɪʃən/','报复；报复性反击',
+ 'retaliate 是还击，retaliation 是这场还击或对还击的担忧。新闻里常问某个行动会不会招来它。',
+ '由拉丁 retaliatio 等材料进入相应名词词族，现代对应 retaliate 去 e 加 -ion；re- 的回报方向保留下来。',Rt+[['retaliate／retaliation 的动词名词对应','回击行为；报复的可能或结果']],
+ 'in retaliation for 为报复……；fear retaliation 害怕报复；retaliation against someone 对某人的报复。',
+ 'in retaliation for；fear retaliation。',
+ 'retaliation 不等于 compensation 补偿：一个是回击对方，一个是弥补损失，实际行动和目的不同。',
+ ('They closed the border in retaliation for the attack.','他们关闭边境，以报复那次袭击。'),('Some employees feared retaliation if they complained.','一些员工担心投诉后会遭到报复。'))
+W('intuition','英 /ˌɪntjuˈɪʃən/；美 /ˌɪntuˈɪʃən/','直觉；直观理解',
+ '你暂时讲不出一串推理，却觉得“这里不对劲”，或一下抓住解题方向，这种直接领会可以叫 intuition。经验常能喂养它，但它也会错。',
+ '经法语接中世纪拉丁 intuitio 观看、直接认识，来自 intueri 看着、思量；in- 朝向等与 tueri 观看的材料。现代不必先会较少用的 intuit 才能理解它。',
+ [['拉丁 in- + tueri → intueri → intuitio','看向、审视 → 直接领会'],['英语 intuition → intuitive 等词族','直觉；无需逐步明说推理的理解']],
+ 'trust your intuition 相信直觉；an intuition that ... 直觉认为……；an intuitive interface 直观易用的界面，后者是形容词 intuitive。',
+ 'trust your intuition；an intuition that；intuition about。',
+ 'intuition 是领会方式，不是正确率保证；有时经验让判断快，有时偏见也会装成直觉。',
+ ('My intuition told me that something was missing.','直觉告诉我少了点什么。'),('Practice can help students develop an intuition for numbers.','练习能帮助学生培养对数字的直观感觉。'))
+In=[['拉丁 in- 进入 + ire 去 → initium 开始 → initiare','进入某个过程；开始、引入'],['initiatus、initiatio → initiate、initiation','发起、引导入门；开始或入门过程']]
+W('initiate','动词 /ɪˈnɪʃieɪt/；名词 /ɪˈnɪʃiət/','发起、启动；使入门；新加入者〔名词，较正式〕',
+ '一个项目原先没动，你把它启动；一个新人还不了解某领域，你领他入门，这两种带进开始都能用 initiate。',
+ '接拉丁 initiatus，来自 initiare 开始、引入，与 initium 开始相连，更早有进入的材料。-ate 在常用动词读 /eɪt/，名词新加入者末尾弱读。',In,
+ 'initiate a project 启动项目；initiate talks 发起谈判；initiate someone into something 引导某人入门。名词 an initiate 指新入门的人，较正式。',
+ 'initiate talks；initiate a process；initiate someone into。',
+ 'initiate 强调让事情开始，implement 是把计划付诸执行；启动讨论不等于方案已落实。',
+ ('The council initiated a review of the plan.','委员会启动了对计划的审查。'),('Her tutor initiated her into the basics of the subject.','导师带她学习这门学科的基础。'))
+W('initiation','/ɪˌnɪʃiˈeɪʃən/','开始、启动；入门；入会仪式',
+ '把事情开启，或带新人迈过门槛，这个过程是 initiation。仪式只是其中一种场景，不必每次都想到秘密组织。',
+ '接法语、拉丁 initiatio 等开始、入门材料；现代对应 initiate 去 e 加 -ion。',In+[['initiatio → initiation','开启过程；被引导进入某种知识、群体']],
+ 'the initiation of a project 项目启动；an initiation into something 对某领域的初步接触；an initiation ceremony 入会、入门仪式。',
+ 'the initiation of；an initiation into；an initiation ceremony。',
+ 'initiation 是开始或引入过程，initiative 常是主动性或倡议；相同词族并不意味着名词可互换。',
+ ('The initiation of the project was delayed.','项目的启动推迟了。'),('The course was my initiation into modern art.','这门课是我接触现代艺术的入门课。'))
+Fa=[['拉丁 faber 工匠 → fabrica 工坊、制作 → fabricari','动手制造、建造'],['fabricatus、fabricatio → fabricate、fabrication','制造；后来也说把虚假的故事编造出来']]
+W('fabricate','/ˈfæbrɪkeɪt/','制造、装配；捏造、编造',
+ '在工坊里把零件做出来，是 fabricate；把根本没发生的证据做出来，也是 fabricate。一个做实物，一个造假话。',
+ '接拉丁 fabricatus，来自 fabricari 制作，关联 fabrica 工坊、制作与 faber 工匠；现代有 -ate 动词形。不是 fabric 布料这一义能解释全部。',Fa,
+ 'fabricate metal parts 制造金属零件；fabricate evidence 伪造证据；fabricate a story 编造故事。宾语会决定是制造还是造假。',
+ 'fabricate components；fabricate evidence；fabricate a story。',
+ 'fabricate components 通常是中性制造，不是在指责工厂撒谎；fabricate an excuse 才常有编造、不真实的评价。',
+ ('The workshop fabricates metal frames.','这间工坊制造金属框架。'),('He admitted that he had fabricated the story.','他承认那个故事是他编造的。'))
+W('fabrication','/ˌfæbrɪˈkeɪʃən/','制造、加工；捏造；虚构的说法',
+ '车间的 fabrication 是生产加工；报道里 a complete fabrication 则说整件事都是编的。不要只背成一个中文义。',
+ '接拉丁 fabricatio，经相关借词路径进入英语；现代对应 fabricate 去 e 加 -ion，两个常见义都保留做出来的材料。',Fa+[['fabricatio → fabrication','制作过程；编造行为或编出来的内容']],
+ 'metal fabrication 金属加工；the fabrication of evidence 伪造证据；a complete fabrication 彻底捏造的说法。',
+ 'metal fabrication；a complete fabrication。',
+ 'fiction 可以是大家知道的文学虚构，fabrication 的造假义常含把假事冒充真实；两者态度不同。',
+ ('The factory specialises in steel fabrication.','这家工厂专做钢材加工。'),('The accusation was a complete fabrication.','那项指控完全是捏造的。'))
+Fs=[['拉丁 fascinare 施魔法、蛊惑 → fascinatus、fascinatio','像被控制注意力一样无法移开目光'],['英语 fascinate、fascination','使深深着迷；强烈兴趣与吸引力']]
+W('fascinate','/ˈfæsɪneɪt/','使着迷；强烈吸引',
+ '你本来只想看一眼，结果越看越想知道，注意力像被吸住了：这个东西 fascinates you。',
+ '借拉丁 fascinatus，来自 fascinare 施魔法、蛊惑。现代用法多转为吸引注意与兴趣，不是在说真有魔法。',Fs,
+ 'something fascinates someone 某物使某人着迷；be fascinated by 对……着迷。事物作主语、感兴趣的人作宾语很常见。',
+ 'fascinate someone；be fascinated by。',
+ 'fascinating 说令人着迷，fascinated 说人感到着迷；I am fascinating 是说我本人很吸引人。',
+ ('The night sky has always fascinated me.','夜空一直让我着迷。'),('The children were fascinated by the tiny machine.','孩子们被那台小机器深深吸引。'))
+W('fascination','/ˌfæsɪˈneɪʃən/','着迷；强烈兴趣；吸引力',
+ 'fascinate 是把注意力吸住，fascination 是那股忍不住继续看、继续研究的劲头，也能说事物本身的魅力。',
+ '接法语、拉丁 fascinatio 等迷惑、施魅材料；现代对应 fascinate 去 e 加 -ion，主要说强烈兴趣。',Fs+[['fascinatio → fascination','旧迷惑材料 → 着迷、吸引力']],
+ 'a fascination with something 对某物的迷恋；watch in fascination 入迷地看；hold a fascination for 对某人有吸引力。',
+ 'a fascination with；watch in fascination。',
+ 'fascination 不保证认同：你可能对一个谜团或危险现象极感兴趣，却并不赞成它。',
+ ('Her fascination with languages began at school.','她对语言的浓厚兴趣始于上学时。'),('We watched in fascination as the sculpture took shape.','我们入迷地看着雕塑逐渐成形。'))
+Dt=[['拉丁 deterior 更差 → 晚期拉丁 deteriorare','变得更糟、使变坏'],['相应过去分词与名词 → deteriorate、deterioration','状况恶化；恶化过程']]
+W('deteriorate','英 /dɪˈtɪəriəreɪt/；美 /dɪˈtɪriəreɪt/','恶化；变差；退化',
+ '原来还能用的房屋越来越破，原来稳定的关系越来越紧张，这种向更坏方向走就是 deteriorate。常看一段时间的变化。',
+ '借晚期拉丁 deterioratus，来自 deteriorare，基础是 deterior 更差。不要只看到 de- 就编造一个现代 terior 好的基础词。',Dt,
+ 'conditions deteriorate 情况恶化；relations deteriorate 关系恶化；deteriorate rapidly 快速变差。常见不及物用法，不需再加 be。',
+ 'deteriorate rapidly；deteriorating conditions。',
+ 'deteriorate 比 worsen 更正式，常描述状况、品质持续变差；不同于单次打破的 break。',
+ ('The condition of the road has deteriorated.','道路状况已经变差了。'),('Relations between the two teams deteriorated after the dispute.','争议发生后，两个团队的关系恶化了。'))
+W('deterioration','英 /dɪˌtɪəriəˈreɪʃən/；美 /dɪˌtɪriəˈreɪʃən/','恶化；衰退；品质下降',
+ 'deteriorate 是变坏，deterioration 把这段下降过程当成对象：看到它、记录它、试着减慢它。',
+ '接晚期拉丁 deterioration- 等恶化名词材料；现代对应 deteriorate 去 e 加 -ion。',Dt+[['deterioration- → deterioration','变差的过程或程度']],
+ 'a deterioration in conditions 情况恶化；prevent further deterioration 防止继续变差；physical deterioration 物理、身体状况的衰退，需看对象。',
+ 'a deterioration in；further deterioration。',
+ 'deterioration 带变差方向，change 只说改变；降低的是价格时，不一定就能把下降称为 deterioration。',
+ ('The report notes a deterioration in air quality.','报告指出空气质量恶化。'),('Repairs are needed to prevent further deterioration of the roof.','屋顶需要维修，以防继续损坏。'))
+W('suction','/ˈsʌkʃən/','吸力；抽吸',
+ '吸尘器让里面气压更低，外面的空气带着灰尘涌进去，便产生你感觉到的吸力。吸盘贴住表面，也与内外压差有关。',
+ '借晚期拉丁 suctio、suction-，来自 sugere 吸的过去分词词干 suct-。和英语 suck 意义相通，却不是现代 suck 加 -tion 的直接构词。',
+ [['拉丁 sugere 吸 → suct- → suctio','吸的动作及相应名词'],['英语 suction','抽吸；由压差产生的吸附效果']],
+ 'suction power 吸力；a suction cup 吸盘；lose suction 失去吸力。日常常把整个压差效果称为吸，不必想成里面有只无形的手在拉。',
+ 'suction power；a suction cup；lose suction。',
+ 'suction 的场景常涉及较低气压，adhesion 是黏附的更广概念；胶水黏住东西不必靠吸盘式压差。',
+ ('The vacuum cleaner has lost suction.','吸尘器没什么吸力了。'),('A suction cup holds the hook against the glass.','一个吸盘把挂钩固定在玻璃上。'),sources=['https://en.wiktionary.org/wiki/suction#English','https://www.etymonline.com/word/suction'])
+Cb=[['calibre、caliber 口径、尺寸材料 + -ate → calibrate','按标准检查尺度与读数的对应'],['calibrate + -ion → calibration','建立仪器示值与参考量值的关系；校准过程']]
+cs=['https://en.wiktionary.org/wiki/calibrate#English','https://jcgm.bipm.org/vim/en/2.39.html']
+W('calibrate','/ˈkælɪbreɪt/','校准；校定；细致调整〔引申〕',
+ '拿已知的标准来和仪器读数对照，弄清它显示的数与实际量值怎样对应，是 calibrate 的核心。再往日常引申，就是把反应调到合适尺度。',
+ 'calibre 口径、尺寸等 + -ate → calibrate；现代用于测量设备，也可比喻细调言语、反应。不要把计量上的校准一概说成拧旋钮改数值。',Cb,
+ 'calibrate an instrument 校准仪器；calibrate a response 审慎调整回应的力度。计量上建立对应关系，与随后是否调整设备是不同操作。',
+ 'calibrate an instrument；calibrate a response。',
+ 'calibrate 常参照标准建立关系，adjust 是调整；校准发现偏差后可以再调整，但两词不总是同一步。',
+ ('The laboratory calibrates its instruments regularly.','实验室定期校准仪器。'),('She carefully calibrated her response to the criticism.','她仔细拿捏了回应批评的分寸。'),sources=cs)
+W('calibration','/ˌkælɪˈbreɪʃən/','校准；校准过程、对应关系',
+ '不是只问仪器有没有亮，而是用参考标准确定“它显示这个数，对应怎样的量值”。这种有标准可对照的工作叫 calibration。',
+ 'calibrate 去 e 加 -ion → calibration，接前面的 calibre、caliber 尺度材料；把动词过程名词化。',Cb+[['calibrate + -ion → calibration','校准这一过程及相关结果']],
+ 'instrument calibration 仪器校准；a calibration curve 校准曲线；calibration data 校准数据。严格计量含量值关系及不确定度，不简单等于把设备调好。',
+ 'a calibration curve；instrument calibration；calibration data。',
+ 'calibration 建立测量关系，adjustment 改变设备，verification 核查是否符合要求；实际工作中可能先后使用它们。',
+ ('The report includes the calibration data.','报告包含校准数据。'),('The scale is due for calibration next month.','这台秤下个月该校准了。'),sources=['https://en.wiktionary.org/wiki/calibration#English','https://jcgm.bipm.org/vim/en/2.39.html'])
+Cu=[['拉丁 culmen、culmin- 顶点、山峰 → culminare','到达最高点、登顶的材料'],['英语 culminate、culmination','到达高潮或最终结果；这一终点、成果']]
+W('culminate','/ˈkʌlmɪneɪt/','达到高潮；最终以……告终',
+ '前面一连串事情像沿坡往上走，最后抵达最突出的一幕或最终结果，就是 culminate。结局可以好，也可以坏。',
+ '接中世纪拉丁 culminatus，来自 culminare，与拉丁 culmen 顶点、culmin- 词干相关；不是用现代英文 cull、min 拼起来。',Cu,
+ 'culminate in something 最终发展为某结果；culminate with an event 以某事件达到高潮或结束。常前有一段累积过程。',
+ 'culminate in；culminate with。',
+ 'culminate 比普通 end 更突出前面过程汇聚到一个顶点、结果；不保证这是快乐的成功。',
+ ('Months of rehearsal culminated in a successful performance.','数月排练终于汇成一场成功的演出。'),('The dispute culminated in the director’s resignation.','争议最终以主管辞职告终。'))
+W('culmination','/ˌkʌlmɪˈneɪʃən/','高潮；最终成果、顶点',
+ '长期努力最后集中呈现的那一刻、那件成果，可以说 the culmination。它让人看到结果背后有一条走过来的路。',
+ '接法语 culmination、中世纪拉丁相关材料；现代对应 culminate 去 e 加 -ion，保留 culmen 顶点的画面。',Cu+[['culmination 的名词用法','一连串过程到达的高点、最终结果']],
+ 'the culmination of years of work 多年工作的最终成果；reach its culmination 达到高潮；a culmination 不只是任意最后一项。',
+ 'the culmination of；reach its culmination。',
+ 'culmination 着眼汇聚后的顶点，conclusion 可泛指结束或结论；小事随便停止，不一定算 culmination。',
+ ('The exhibition is the culmination of five years of work.','这次展览是五年工作的最终成果。'),('The celebrations reached their culmination on Sunday.','庆祝活动在星期日达到高潮。'))
+If=[['中世纪拉丁 in- 向内 + filtrare 过滤 → infiltrare','穿过孔隙向内渗入'],['相应分词、名词 → infiltrate、infiltration','渗透进入；液体或其他事物的渗入过程']]
+W('infiltrate','/ˈɪnfɪltreɪt/','渗入、渗透；潜入',
+ '水没有整块推开土壤，而是沿细小空隙慢慢进来；这种进入方式是 infiltrate。用在人群、组织上时，常带隐蔽进入的意思。',
+ '接中世纪拉丁 infiltratus、infiltrare，in- 向内与 filtrare 过滤材料相连。核心是穿过间隙进入，不等于把东西从里面滤出去。',If,
+ 'water infiltrates the soil 水渗入土壤；infiltrate an organisation 潜入组织；可及物，也可说 infiltrate into。',
+ 'infiltrate the soil；infiltrate into。',
+ 'filter 可说滤去杂质，infiltrate 重进入内部；液体渗入并不含有人蓄意潜伏的动机。',
+ ('Rainwater infiltrates the soil through small pores.','雨水通过细小孔隙渗入土壤。'),('In the novel, a spy infiltrates the organisation.','小说中，一名间谍潜入了那个组织。'))
+W('infiltration','/ˌɪnfɪlˈtreɪʃən/','渗入、渗透；潜入过程',
+ 'infiltrate 是怎么进入，infiltration 把这整个渗入过程拿来研究，比如雨水进入土壤的速度。',
+ '经中世纪拉丁 infiltratio 等相应形式；现代对应 infiltrate 去 e 加 -ion，不是先从英语 filtration 前随意加一个表示否定的 in-。',If+[['infiltratio → infiltration','向内渗入的过程、程度']],
+ 'water infiltration 水渗入；infiltration rate 渗入速率；infiltration into an organisation 潜入组织。具体介质决定技术含义。',
+ 'water infiltration；infiltration rate。',
+ 'infiltration 是进入内部，evaporation 是蒸发，runoff 常指沿表面流走；一场雨后水可以走不同路径。',
+ ('The study measures water infiltration after heavy rain.','研究测量大雨后水的渗入情况。'),('The report describes infiltration into the network.','报告描述了对该网络的渗透。'))
+Ar=[['拉丁 articulus 小关节、分节 → articulare、articulatus','分节相连；把声音清楚分出'],['英语 articulate、articulation','表达清楚；清楚发音；关节或连接']]
+W('articulate','动词：英 /ɑːˈtɪkjʊleɪt/、美 /ɑːrˈtɪkjəleɪt/；形容词：英 /ɑːˈtɪkjʊlət/、美 /ɑːrˈtɪkjələt/','清楚表达、清楚发音；善于表达的',
+ '脑中一团模糊的想法，被你一段段说得清楚，让别人接得上，就是 articulate。形容词 an articulate speaker 说这个人表达清晰。',
+ '借拉丁 articulatus 分节的、有关节的，接 articulus 小关节、分节。先抓分出部分又连接起来，再理解清楚发音、表达。动词末尾 /eɪt/，形容词弱读 /ət/。',Ar,
+ 'articulate an idea 清楚表达想法；articulate a concern 说清担忧；an articulate speaker 表达清晰的讲述者；专业语境还可说关节相接。',
+ 'articulate an idea；an articulate speaker。',
+ 'articulate 不只等于说得多：话很多却让人听不懂，不算表达清晰。形容词、动词的末尾发音要分开。',
+ ('She struggled to articulate her concerns.','她一时难以把担忧说清楚。'),('He is an articulate speaker who explains difficult ideas simply.','他表达清晰，能把难懂的想法讲得简单。'))
+W('articulation','英 /ɑːˌtɪkjʊˈleɪʃən/；美 /ɑːrˌtɪkjəˈleɪʃən/','清楚表达；发音；关节、连接',
+ '说话时每个音是否交代清楚，是 articulation；两个部件像关节那样接起来，也能用这个词。相同的分节、连接材料走进了不同领域。',
+ '经法语、拉丁 articulatio 等分节、关节材料进入英语；现代对应 articulate 去 e 加 -ion。不能只按今天常用表达义回推全部历史。',Ar+[['articulatio → articulation','关节连接；清楚分出声音、表达内容']],
+ 'clear articulation 清楚发音或表达；the articulation of an idea 想法的清楚表达；a joint/articulation 在解剖、机械领域说连接。',
+ 'clear articulation；the articulation of an idea。',
+ 'articulation 强调声音或内容怎样分明地表达，accent 是口音；有地方口音也完全可以 articulation 清晰。',
+ ('The teacher praised her clear articulation.','老师表扬她发音清楚。'),('The diagram shows the articulation between the two bones.','图中展示了两块骨头之间的关节连接。'))
+
+R('A1859','动作、状态、结果；多条借词与英语构词路径','-ION：把做的事、形成的状态或结果，拿出来当名词谈','vibrate 振动 → vibration 振动过程；fabricate 制造、编造 → fabrication 制造活动、捏造内容。',
+ '不要把所有 -ion 都记成同一种中文。medication 能指药物，opinion 是看法，affection 是温暖感情，demolition 是拆除。词尾帮你认出名词，具体义还要看它接了哪条历史。',
+ '常经法语 -ion、拉丁 -io、-ion- 等进入英语；不少词连同拉丁词干整体借入。现代常见 -ate → -ation，如 vibrate → vibration；但 demolish／demolition 用不同历史词干，suction 接拉丁 suct-，opinion 也不能硬拆成一段现代动词。对应关系不等于每个名词都在英语中晚于动词出现。',
+ [['看法、感情与直接领会','opinion · affect · affection · intuition · intuitive · intuitively'],['用药、规则与争讼','medicate · medication · violate · violation · litigate · litigation'],['拆毁、刺杀与报复','demolish · demolition · assassinate · assassination · retaliate · retaliation'],['振动、燃烧、抽吸与渗入','vibrate · vibration · combustion · suck · suction · infiltrate · infiltration'],['开启、制造、吸引与变化','initiate · initiation · fabricate · fabrication · fascinate · fascination · deteriorate · deterioration'],['尺度、顶点与清楚表达','calibrate · calibration · culminate · culmination · articulate · articulation']],
+ '名词后缀不能代替逐词理解：fabrication 既能是制造，也能是捏造；initiation 不只入会仪式；calibration 与 adjustment 有明确区别；articulate 的动词、形容词发音不同。',
+ 'The report gives a clear articulation of the problem and proposes further investigation.\n\n报告清楚表述了问题，并提出进一步调查。',
+ 'opinion medicate medication violate violation litigate litigation affect affection assassinate assassination demolish demolition vibrate vibration combustion retaliate retaliation intuition intuitive intuitively initiate initiation fabricate fabrication fascinate fascination deteriorate deterioration suck suction calibrate calibration culminate culmination infiltrate infiltration articulate articulation education action situation election association population construction collection administration direction operation location protection option connection investigation reaction communication selection constitution depression expression legislation permission immigration institution promotion vacation translation possession regulation exhibition consumption corruption exception impression compensation infection intention innovation discrimination cooperation celebration execution collaboration concentration federation abortion suggestion integration confusion animation adoption reflection addiction conviction instruction migration separation attraction assumption graduation accommodation demonstration prosecution navigation equation isolation precision donation injection speculation suspicion circulation prediction rebellion simulation elimination liberation coordination discretion elevation obsession confession correlation manipulation activation compression decoration automation projection distraction objection calculation restriction evacuation acceleration devotion persecution prostitution penetration stimulation insulation exemption cultivation regeneration segregation ventilation concussion encryption implication interrogation humiliation repression regression differentiation exhaustion notation contraction deduction estimation excavation abduction deviation diffusion inhibition intimidation iteration incarceration insertion illumination propagation approximation escalation complication abstraction aspiration modulation punctuation liquidation multiplication deletion presumption circumcision dispersion hydration refrigeration duplication reincarnation eradication evaporation dilution deliberation disintegration superannuation aberration conduction ovulation pollination deflation facilitation subtraction capitulation indoctrination annotation fluctuation dilation retraction deconstruction lactation negation elaboration attenuation rejuvenation castration conjugation desecration domestication orchestration urination requisition inoculation asphyxiation alleviation ideation speciation encapsulation repudiation extrapolation incineration levitation bifurcation convolution inundation reverberation carbonation obliteration lamination circumvention invalidation innervation emanation chlorination amelioration palpation reiteration instantiation')
+for k in ROOTS[-1]['exclude']:
+    ROOTS[-1]['exclude'][k]='优先整理常用动作、状态名词与基础词；其余在各词族继续核对，近形不凭结尾强并。'
+ROOTS[-1]['exclude']['perihelion']='perihelion 近日点接 peri- 与 helios 太阳，不是此处的动作、状态名词尾 -ion。'
+for k in 'bifurcation lamination innervation emanation chlorination amelioration palpation instantiation'.split():
+    ROOTS[-1]['words'].remove(k)
+    ROOTS[-1]['exclude'][k]='较少用的专门词，本页先略过，保留其原有资料。'
+
+if __name__=='__main__':save('continuation_20261030_pj',ROOTS,WORDS)

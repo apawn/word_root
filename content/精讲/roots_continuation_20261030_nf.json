@@ -1,0 +1,154 @@
+[
+  {
+    "id": "B4509",
+    "meaning": "宽口桶盆形状，连接浴缸用途与圆短外形",
+    "core": "TUB：宽宽一口、圆圆一肚，能装也能洗",
+    "image": "tub → bathtub、tubby。",
+    "intro": "容器实际大小不固定，一盒冰淇淋与一个浴缸都可按用途叫 tub。形容词 -y 抽出短宽、圆鼓外形。",
+    "forms": "tubbe、tobbe → tub；bath + tub → bathtub；双写 b + -y → tubby。",
+    "branches": [
+      [
+        "容器、用途及外形",
+        "tub · bathtub · tubby"
+      ]
+    ],
+    "contrasts": "tub 不等于 tube；tubby 形容人物带评价色彩。",
+    "practice": "The tubby cartoon bear sits beside a bathtub.\n\n圆滚滚的卡通熊坐在浴缸旁。",
+    "words": [
+      "tub",
+      "bathtub",
+      "tubby"
+    ],
+    "exclude": {
+      "tub-shower": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4089",
+    "meaning": "拍击与啪响的动作，扩展到喜剧和草率方式",
+    "core": "SLAP：平平一掌啪地拍下，声音与动作都很直接",
+    "image": "slap → slapstick、slapdash。",
+    "intro": "舞台道具拍出响声，给夸张肢体喜剧留下名称；匆忙拍一下、冲一下的组合，又给草率做法留下形象。",
+    "forms": "slappen → slap；slap + stick，slap + dash。\n\n中古英语拍击词，更远未定；双写 p 加完整 ed，读 t。\n\nslap 接中古英语拍击材料；现代 slapping 双写 p，再加完整 -ing，基础并非词尾一个 -ping。",
+    "branches": [
+      [
+        "拍击、喜剧与草率性质",
+        "slap · slapstick · slapdash"
+      ],
+      [
+        "slap → slapped：啪的一下拍上",
+        "slap · slapped"
+      ],
+      [
+        "slap 的拍击、随手放与强加",
+        "slap · slaps · slapped · slapping"
+      ]
+    ],
+    "contrasts": "slapstick 重点肢体笑料；slapdash 带马虎判断，不只是速度快。",
+    "practice": "A slapstick scene can involve a slap, but slapdash editing can ruin the joke.\n\n肢体喜剧里可以有拍打动作，但草率剪辑会毁掉笑料。",
+    "words": [
+      "slap",
+      "slapstick",
+      "slapdash",
+      "slapped",
+      "slaps",
+      "slapping"
+    ],
+    "exclude": {
+      "slap-bang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slapper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slappy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3126",
+    "meaning": "人物头衔，扩展到女性称号、领地与行业权势比喻",
+    "core": "BARON：先看人和地位，再看头衔属于谁、对应什么",
+    "image": "baron → baroness、barony。",
+    "intro": "男性、女性头衔与领地不是三种完全无关的词。现代行业大亨借领主权势比喻，女性称号则要分本人持爵与配偶。",
+    "forms": "baro、baron- → baron；-ess 女性人物；baronie → barony 爵位、领地。",
+    "branches": [
+      [
+        "头衔人物与领地、爵位",
+        "baron · baroness · barony"
+      ]
+    ],
+    "contrasts": "media baron 不必真有爵位；baroness 不一律只指男爵妻子。",
+    "practice": "The baroness managed the lands of the barony.\n\n女男爵管理着爵位所属的领地。",
+    "words": [
+      "baron",
+      "baroness",
+      "barony"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3316",
+    "meaning": "细长针形的工具，动作又比喻反复戳人",
+    "core": "NEEDLE：能穿布，也能用话一点点刺人",
+    "image": "needle → needling；needlework 广义针线活，needlepoint 具体针绣工艺。",
+    "intro": "针、松针、指针先抓外形，刺与逗惹再抓动作。工艺名与分词边界要分清，needling 的常见动作义不拆成 need + -ling。",
+    "forms": "naedl → nedle → needle；去 e + -ing；needle + work、point。\n\n继承古英语缝针名称，现代 needle 当整词加 -s。\n\n针名词承古英语，动词由名词发展；挑衅、挖苦义可能经过讨价还价、咬住不放的旧用法，不把现代画面写成唯一确定演变步骤。",
+    "branches": [
+      [
+        "原词与动作形式",
+        "needle · needling"
+      ],
+      [
+        "针线工艺复合",
+        "needlework · needlepoint"
+      ],
+      [
+        "needle → needles：针形物与刺人的话",
+        "needle · needles"
+      ],
+      [
+        "needle：针刺意象与反复挖苦",
+        "needle · needles · needled · needling"
+      ]
+    ],
+    "contrasts": "needlepoint 比 needlework 范围窄；needling 的不同同形构词不能混用。",
+    "practice": "Her needlework basket contained needles and a needlepoint pattern.\n\n她的针线篮里放着针和一张针绣图样。",
+    "words": [
+      "needle",
+      "needling",
+      "needlework",
+      "needlepoint",
+      "needles",
+      "needled"
+    ],
+    "exclude": {
+      "needle-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3851",
+    "meaning": "碎片、废料与打斗分支，派生词随分支改变褒贬",
+    "core": "SCRAP：剩下的一小片，也可能是拼到底的一场对抗",
+    "image": "scrap → scrappy、scrapper；scrapbook 收集片段，scrapyard 集中废料。",
+    "intro": "废料可回收，计划可废弃，笔记可能零碎，球队可能顽强。把两个常用支线说清，-y、-er 的词就不再互相打架。",
+    "forms": "skrap、skrapa → scrappe → scrap；打斗义来源另论；双写 p + -y、-er，复合接 book、yard。",
+    "branches": [
+      [
+        "碎片、性质与人物",
+        "scrap · scrappy · scrapper"
+      ],
+      [
+        "收集片段与废料场复合",
+        "scrapbook · scrapyard"
+      ]
+    ],
+    "contrasts": "scrappy 的褒贬随对象；scrapper 与 scraper 不是同一现代词。",
+    "practice": "The scrapper found a scrapbook among the scraps at the scrapyard.\n\n废料收集者在废料场的杂物中找到了一本剪贴簿。",
+    "words": [
+      "scrap",
+      "scrappy",
+      "scrapper",
+      "scrapbook",
+      "scrapyard"
+    ],
+    "exclude": {
+      "e-scrap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

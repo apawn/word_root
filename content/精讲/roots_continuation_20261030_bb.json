@@ -1,0 +1,167 @@
+[
+  {
+    "id": "B2557",
+    "meaning": "幼芽、栽种到安置；设备场所与外形命名",
+    "core": "PLANT：安置幼苗让它生长；也借指建立、设置",
+    "image": "plant → planter、replant，再 eggplant 讲命名品种；transplant、houseplant 共享。",
+    "intro": "古老拉丁借词进入英语后继续扩展。工厂和间谍安插等联系安置、设置，不把一切死译成绿色植物。",
+    "forms": "plant + -er；re- + plant；egg/house + plant；trans- + plant 的借入同族关系。\n\n植物与栽种词很早由拉丁进入英语，安置设施的分支后来连接工厂用法。\n\n拉丁 planta、plantare 很早借入英语，后来又有法语影响。\n\nclan 经盖尔语 clann 家族、后代，较远借拉丁 planta 新枝、萌芽材料；不是现代英语 plant 删字母形成。\n\n与 plant 比较食用植物，不是拉丁 planta 派生。cucumber 接拉丁 cucumis；celery 接希腊 selinon；leek 是古英语葱蒜植物旧名；broccoli 接意大利嫩芽的小称复数；spinach 较远来源有争论；zucchini、courgette 分别借意大利语、法语的小瓜称呼。\n\n与 plant 比较植物，不是 planta 派生。fern 接古英语 fearn，可能更远以羽状叶命名；clover 接古英语 clafre，黏稠材料分析仍有不确定；ivy 接古英语 ifig，远源不明。\n\n与 plant 比较植物种类，不由 plant 派生。thistle 经古英语 þistel，远源不确定，可能接刺、扎的古老材料；现代发音中 t 不单独读出。\n\n古英语 plantian 与拉丁种植材料相连，后有放置、植入等义。plant + -ing 保留词干，现代可说种植或比喻把想法放进心里。",
+    "branches": [
+      [
+        "基本词、人物容器与再种",
+        "plant · planter · replant · transplant"
+      ],
+      [
+        "植物类别",
+        "houseplant · eggplant"
+      ],
+      [
+        "plant → plants：植物、种植与工厂设施",
+        "plant · plants"
+      ],
+      [
+        "plant → planted：把植物或东西安到某处",
+        "plant · planted"
+      ],
+      [
+        "clan：枝条到后代、宗族",
+        "clan · clans"
+      ],
+      [
+        "常见食用植物：逐条看借入来源",
+        "cucumber · cucumbers · celery · leek · leeks · broccoli · spinach · zucchini · courgette"
+      ],
+      [
+        "fern、clover、ivy：各自来源的常见植物名",
+        "fern · ferns · clover · clovers · ivy · ivies"
+      ],
+      [
+        "thistle：蓟，带刺的草本植物",
+        "thistle · thistles"
+      ],
+      [
+        "plant → planting：种下植物与想法",
+        "planting"
+      ]
+    ],
+    "contrasts": "plant 名词植物/工厂靠语境；planter 人或容器；eggplant 白卵形旧品种得名，现代不只那一种外观。",
+    "practice": "She put the houseplant in a larger planter before replanting the garden.\n\n她把室内植物放进较大花盆后，又去重新栽种花园。",
+    "words": [
+      "plant",
+      "planter",
+      "replant",
+      "transplant",
+      "houseplant",
+      "eggplant",
+      "plants",
+      "planted",
+      "clan",
+      "clans",
+      "cucumber",
+      "cucumbers",
+      "celery",
+      "leek",
+      "leeks",
+      "broccoli",
+      "spinach",
+      "zucchini",
+      "courgette",
+      "fern",
+      "ferns",
+      "clover",
+      "clovers",
+      "ivy",
+      "ivies",
+      "thistle",
+      "thistles",
+      "planting"
+    ],
+    "exclude": {
+      "companion-plant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rouge-plant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4280",
+    "meaning": "每日记录背景到日记、期刊与新闻工作",
+    "core": "JOURNAL：把事情记录下来；刊物支线长出新闻职业",
+    "image": "journal → journalist → journalistic，journalism 与职业群一起读；私人日志与新闻行业分清。",
+    "intro": "来源有每日之意，现代学术期刊却不一定日报。不同借入阶段与用法分支不必编成一条现代后缀流水线。",
+    "forms": "journal + -ist/-istic；法语 journalisme → journalism，现代对应 -ism。\n\n法语 journaliste 与 journal 加人物 ist 的构成，现代新闻职业用途。\n\n拉丁每日的材料经法语进入，现代期刊不受旧每日来源限定发行频率。",
+    "branches": [
+      [
+        "记录和刊物",
+        "journal"
+      ],
+      [
+        "新闻职业、工作与规范",
+        "journalist · journalism · journalistic"
+      ],
+      [
+        "journalist → journalists：面向公共报道的人",
+        "journalist · journalists"
+      ],
+      [
+        "journal → journals：每日记录词到期刊、日记",
+        "journal · journals"
+      ]
+    ],
+    "contrasts": "journal 私人日志或期刊；journalist 记者不是所有写日记的人；-ism 此处职业；academic journal 不保证 journalistic 文风。",
+    "practice": "The journalist kept a travel journal while studying local journalism.\n\n记者研究当地新闻业时，也写着旅行日志。",
+    "words": [
+      "journal",
+      "journalist",
+      "journalism",
+      "journalistic",
+      "journalists",
+      "journals"
+    ],
+    "exclude": {
+      "e-journal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3012",
+    "meaning": "成形、轮廓到状态和发展走向；创造的本族词",
+    "core": "SHAPE：把东西做成一个样子，也能塑造人生、格局",
+    "image": "shape → shaped、shaping、shaper；shapely/shapeless 对照形态；reshape 再塑；shapeshifter、shapewear 固定组合。misshapen 已有共享。",
+    "intro": "实体捏形最直观，经历影响想法也可借塑造理解。旧 shapen 留在 misshapen，现代 shaped 却是规则变化。",
+    "forms": "shape + -ed/-ing/-er/-ly/-less；re- + shape；shape + shifter/wear；mis- + 旧 shapen。\n\n古英语形状名词、创造动词分别传承，现代三单与复数同形。",
+    "branches": [
+      [
+        "基本形态、过程和执行者",
+        "shape · shaped · shaping · shaper"
+      ],
+      [
+        "形态评价和改造",
+        "shapely · shapeless · misshapen · reshape"
+      ],
+      [
+        "固定用途和角色",
+        "shapeshifter · shapewear"
+      ],
+      [
+        "shape → shapes：外形与塑造作用",
+        "shape · shapes"
+      ]
+    ],
+    "contrasts": "shapely 形容词优美，shaped 成形不保证美；shapeless 模糊不成形、misshapen 歪曲；reshape 改造不同于 replace 替换。",
+    "practice": "The shaper reshaped the shapeless clay into a shapely bowl.\n\n塑形者把不成形的黏土重新塑成一个匀称的碗。",
+    "words": [
+      "shape",
+      "shaped",
+      "shaping",
+      "shaper",
+      "shapely",
+      "shapeless",
+      "misshapen",
+      "reshape",
+      "shapeshifter",
+      "shapewear",
+      "shapes"
+    ],
+    "exclude": {
+      "ring-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

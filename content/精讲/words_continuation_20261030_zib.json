@@ -1,0 +1,718 @@
+[
+  {
+    "word": "fairy",
+    "ipa": "英 /ˈfeəri/；美 /ˈferi/",
+    "meaning": "仙子；小精灵；仙境般的〔修饰用法〕",
+    "sense": "今天童话里挥魔杖、可能带小翅膀的角色，常叫 fairy。不过旧传说的 fairy 不一定都小，也不一定都有翅膀。",
+    "split": "经古法语 faerie，接 fee 仙子与 -erie 材料，英语较早有仙境、魔法义，再指其中居民。更远连到拉丁命运女神是常见分析，也有别的来源分析。",
+    "history": [
+      [
+        "古法语 fee 等仙子名 + -erie → faerie",
+        "较远与拉丁命运女神的关系有不同分析"
+      ],
+      [
+        "仙境、魔法 → 仙境居民 → 常见小仙子形象",
+        "不把所有早期传说人物都画成带小翅膀"
+      ]
+    ],
+    "explanation": "a fairy godmother 是仙女教母；fairy tales 是童话，不要求每篇都出现一位 fairy。",
+    "usage": "a little fairy；a fairy godmother；a fairy tale。",
+    "contrast": "fairy 不能简单拆成 fair 美丽加 -y；它有自己的法语借入史。童话 fairy 与传统故事中的 elf、spirit 形象有重叠，却不是严格一一对应。",
+    "examples": [
+      [
+        "A fairy appeared and offered to help her.",
+        "一位仙子出现了，说愿意帮助她。"
+      ],
+      [
+        "The child dressed as a fairy for the party.",
+        "孩子扮成仙子去参加聚会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fairy#English",
+      "https://www.etymonline.com/word/fairy"
+    ]
+  },
+  {
+    "word": "fairies",
+    "ipa": "英 /ˈfeəriz/；美 /ˈferiz/",
+    "meaning": "仙子、小精灵〔复数〕",
+    "sense": "故事里几位神奇角色一起出现，是 fairies。看古老传说时，别因为这个词就自动补上迷你身体和蝴蝶翅膀。",
+    "split": "fairy 的 y 改 i 加 -es → fairies，读 /z/；基础词本身是法语借入线，不按 fair 重新造一条词源。",
+    "history": [
+      [
+        "古法语 fee 等仙子名 + -erie → faerie",
+        "较远与拉丁命运女神的关系有不同分析"
+      ],
+      [
+        "仙境、魔法 → 仙境居民 → 常见小仙子形象",
+        "不把所有早期传说人物都画成带小翅膀"
+      ],
+      [
+        "fairy → fairies",
+        "y 改 i 加 -es，多个相应传说角色"
+      ]
+    ],
+    "explanation": "stories about fairies 说仙子、精灵故事；believe in fairies 是相信有这类神奇存在。",
+    "usage": "woodland fairies；stories about fairies；fairies in the garden。",
+    "contrast": "fairies 是虚构或民间信仰中的存在，fairy tales 是故事类别；关于神奇事物的故事未必以 fairies 为主角。",
+    "examples": [
+      [
+        "The book tells stories about fairies in the woods.",
+        "书里讲了树林中仙子的故事。"
+      ],
+      [
+        "Several children came to the party dressed as fairies.",
+        "几个孩子打扮成仙子来参加聚会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fairies#English",
+      "https://www.etymonline.com/word/fairy"
+    ]
+  },
+  {
+    "word": "barn",
+    "ipa": "英 /bɑːn/；美 /bɑrn/",
+    "meaning": "农用仓房；谷仓；牲畜棚",
+    "sense": "农场里一座大屋，用来放干草、谷物、农具，有时也安置牲畜，是 barn。旧名字像在说“大麦住的屋子”。",
+    "split": "承古英语 bere 大麦 + ærn 房屋、储存处 → bereærn，经过缩合、变音成为 barn。今天用途已经扩大，不是只能存大麦。",
+    "history": [
+      [
+        "古英语 bere 大麦 + ærn 房屋、储存处 → bereærn",
+        "储藏大麦的建筑"
+      ],
+      [
+        "中古英语 bern 等 → barn",
+        "现代农用仓、牲畜棚等，不限大麦"
+      ]
+    ],
+    "explanation": "store hay in the barn 是把干草存进仓房；an old barn converted into a house 是由旧农用仓改建的住宅。",
+    "usage": "a wooden barn；a barn full of hay；the barn door。",
+    "contrast": "barn 常是农场的较大仓棚，shed 更广、常较小，stable 特别偏养马的厩；具体建筑功能可以重叠。",
+    "examples": [
+      [
+        "The farmer stored the hay in the barn.",
+        "农民把干草存进了仓房。"
+      ],
+      [
+        "They converted an old barn into a home.",
+        "他们把一座旧农用仓改成了住宅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barn#English",
+      "https://www.etymonline.com/word/barn"
+    ]
+  },
+  {
+    "word": "barns",
+    "ipa": "英 /bɑːnz/；美 /bɑrnz/",
+    "meaning": "农用仓房、谷仓、牲畜棚〔复数〕",
+    "sense": "农场上几座分开放草料、农具或牲畜的大仓棚，可以叫 barns。用途不同不妨碍都保留这个建筑名。",
+    "split": "barn + -s，/n/ 后读 /z/；旧大麦屋子的缩合已在基础词里，现代复数直接加后缀。",
+    "history": [
+      [
+        "古英语 bere 大麦 + ærn 房屋、储存处 → bereærn",
+        "储藏大麦的建筑"
+      ],
+      [
+        "中古英语 bern 等 → barn",
+        "现代农用仓、牲畜棚等，不限大麦"
+      ],
+      [
+        "barn + -s → barns",
+        "多座农场仓棚"
+      ]
+    ],
+    "explanation": "old barns、stone barns 说年代、材料；several barns 数独立建筑，不是数里面几堆干草。",
+    "usage": "wooden barns；old farm barns；barns beside the fields。",
+    "contrast": "barns 是建筑，farms 是农场整个单位；一家 farm 可以有几座 barns，不应按一座建筑就数一家农场。",
+    "examples": [
+      [
+        "Two red barns stood beside the fields.",
+        "田边立着两座红色农用仓。"
+      ],
+      [
+        "The village restored several old barns.",
+        "村里修复了几座旧仓房。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barns#English",
+      "https://www.etymonline.com/word/barn"
+    ]
+  },
+  {
+    "word": "clan",
+    "ipa": "/klæn/",
+    "meaning": "宗族、氏族；一大家子；紧密团体",
+    "sense": "许多代人像同一棵树不断长出枝条，连成一个大家族，这幅画面能帮助记 clan。口语也会把一大家子亲切地叫 the whole clan。",
+    "split": "经盖尔语 clann 后代、家族，较远借拉丁 planta 新枝、萌芽材料。借入盖尔语时词首发生变化，不是现代英语 plant 任意删字母。",
+    "history": [
+      [
+        "拉丁 planta 新枝、萌芽 → 盖尔语 clann 后代、家族",
+        "枝条的延续可用来理解后代这条比喻"
+      ],
+      [
+        "盖尔语家族、宗族 → 英语 clan",
+        "先见传统宗族，再见口语一大家子、团体"
+      ]
+    ],
+    "explanation": "a Scottish clan 常是历史宗族；the whole clan 可轻松说全家老小；游戏里的 clan 则是组织紧密的玩家团体。",
+    "usage": "a Scottish clan；the whole clan；a gaming clan。",
+    "contrast": "clan 不必只指现代同住的小家庭，nuclear family 则有更具体家庭范围；玩家 clan 又未必有血缘。",
+    "examples": [
+      [
+        "The museum explains the history of a Scottish clan.",
+        "博物馆介绍了一个苏格兰宗族的历史。"
+      ],
+      [
+        "The whole clan gathered for her birthday.",
+        "全家老小都聚来给她过生日。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clan#English",
+      "https://www.etymonline.com/word/clan"
+    ]
+  },
+  {
+    "word": "clans",
+    "ipa": "/klænz/",
+    "meaning": "宗族、氏族、紧密团体〔复数〕",
+    "sense": "不同宗族，或游戏里分头组织的几个团队，可以叫 clans。数的是一组组有共同身份、认同的人。",
+    "split": "clan + -s，/n/ 后读 /z/；盖尔语借词在现代英语里按普通名词成复数。",
+    "history": [
+      [
+        "拉丁 planta 新枝、萌芽 → 盖尔语 clann 后代、家族",
+        "枝条的延续可用来理解后代这条比喻"
+      ],
+      [
+        "盖尔语家族、宗族 → 英语 clan",
+        "先见传统宗族，再见口语一大家子、团体"
+      ],
+      [
+        "clan + -s → clans",
+        "多个宗族或紧密团体"
+      ]
+    ],
+    "explanation": "rival clans 是相互竞争的宗族、团体；several clans 可以是历史族群，也可以是游戏组织。",
+    "usage": "Scottish clans；rival clans；members of different clans。",
+    "contrast": "clans 是多个团体，clan members 是成员；五个 clans 不表示总共只有五个人。",
+    "examples": [
+      [
+        "The book describes the traditions of several clans.",
+        "书里介绍了几个宗族的传统。"
+      ],
+      [
+        "Players from different clans met in the tournament.",
+        "来自不同团队的玩家在比赛中碰面了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clans#English",
+      "https://www.etymonline.com/word/clan"
+    ]
+  },
+  {
+    "word": "hut",
+    "ipa": "/hʌt/",
+    "meaning": "简易小屋；棚屋",
+    "sense": "能遮风避雨，结构却比较简单的小屋，常叫 hut。可以是木屋、石屋、草棚，不是只有茅草才配用这个词。",
+    "split": "经法语 hutte 借入，接中高地德语 hütte 小屋；可能与更早遮蔽、隐藏的日耳曼材料相关。不是从现代 house 或 hide 直接新造。",
+    "history": [
+      [
+        "中高地德语 hütte 小屋 → 法语 hutte",
+        "可能接更早遮蔽的日耳曼材料"
+      ],
+      [
+        "英语 hut",
+        "简易小屋；现代不限定一种建材"
+      ]
+    ],
+    "explanation": "a wooden hut 是简易木屋，a mountain hut 是山中可歇脚、住宿的小屋；具体舒适程度看实际设施。",
+    "usage": "a fishing hut；a wooden hut；a mountain hut。",
+    "contrast": "hut 强调小、简易，cottage 常指小住宅，可能很舒适；两者形象重叠，但别把所有乡村小屋都说成破棚屋。",
+    "examples": [
+      [
+        "They took shelter in a small wooden hut.",
+        "他们躲进一间简易小木屋避雨。"
+      ],
+      [
+        "The mountain hut had room for six walkers.",
+        "山间小屋能容纳六名徒步者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hut#English",
+      "https://www.etymonline.com/word/hut"
+    ]
+  },
+  {
+    "word": "huts",
+    "ipa": "/hʌts/",
+    "meaning": "简易小屋、棚屋〔复数〕",
+    "sense": "海边几间渔棚，或山路沿线几个歇脚小屋，是 huts。它数一个个建筑，不一定在说有人长期居住。",
+    "split": "hut + -s，/t/ 后读 /s/；不增加音节。普通复数不改变基础借词的德语、法语路线。",
+    "history": [
+      [
+        "中高地德语 hütte 小屋 → 法语 hutte",
+        "可能接更早遮蔽的日耳曼材料"
+      ],
+      [
+        "英语 hut",
+        "简易小屋；现代不限定一种建材"
+      ],
+      [
+        "hut + -s → huts",
+        "多间简易小屋"
+      ]
+    ],
+    "explanation": "fishing huts、beach huts、mountain huts 都可用；材料与用途靠前面的修饰语交代。",
+    "usage": "wooden huts；fishing huts；huts along the trail。",
+    "contrast": "huts 是建筑，tents 是搭起来的帐篷；两者都可临时避雨，却不是同一种结构。",
+    "examples": [
+      [
+        "Small fishing huts lined the shore.",
+        "岸边排列着几间小渔棚。"
+      ],
+      [
+        "The map shows mountain huts along the route.",
+        "地图标出了路线沿途的山间小屋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/huts#English",
+      "https://www.etymonline.com/word/hut"
+    ]
+  },
+  {
+    "word": "envelope",
+    "ipa": "英 /ˈenvələʊp/、/ˈɒnvələʊp/；美 /ˈenvəloʊp/、/ˈɑnvəloʊp/",
+    "meaning": "信封；外包层、包覆物",
+    "sense": "一张信纸外面再包一层，那个包住内容的东西是 envelope。信封最常见，气球、器物等的外层也可借这个包覆画面。",
+    "split": "借法语 enveloppe 包覆物，法语名词由 envelopper 包裹形成；较远是 en- 向内与 voloper 包裹，后者来历未定。不是英语名词一律先于相关动词。",
+    "history": [
+      [
+        "法语 envelopper 包裹 → 名词 enveloppe 包覆物",
+        "更远 en- 向内与 voloper 包裹，后者来历未定"
+      ],
+      [
+        "英语 envelope",
+        "信封；更广的外包层，名词重音在前"
+      ]
+    ],
+    "explanation": "put a letter in an envelope 是把信放进信封；push the envelope 是突破边界、探索极限的比喻，不能按字面推信封理解。",
+    "usage": "a sealed envelope；an empty envelope；address an envelope；push the envelope。",
+    "contrast": "envelope 名词末尾有 e、重音在前；envelop 动词包住没有末尾 e、重音在后，通常读 /ɪnˈveləp/。",
+    "examples": [
+      [
+        "She sealed the letter in an envelope.",
+        "她把信装入信封并封好了。"
+      ],
+      [
+        "The team likes to push the envelope with unusual designs.",
+        "团队喜欢用不寻常的设计探索新的边界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envelope#English",
+      "https://www.etymonline.com/word/envelope"
+    ]
+  },
+  {
+    "word": "envelopes",
+    "ipa": "英 /ˈenvələʊps/ 等；美 /ˈenvəloʊps/ 等",
+    "meaning": "信封、外包层〔复数〕",
+    "sense": "桌上一叠空信封，是 envelopes；写邀请函时，信纸和信封是两种不同用品，不能混着数。",
+    "split": "envelope + -s，/p/ 后读 /s/；末尾 e 不发音，复数读音接在 /p/ 后，不另读一个音节。",
+    "history": [
+      [
+        "法语 envelopper 包裹 → 名词 enveloppe 包覆物",
+        "更远 en- 向内与 voloper 包裹，后者来历未定"
+      ],
+      [
+        "英语 envelope",
+        "信封；更广的外包层，名词重音在前"
+      ],
+      [
+        "envelope + -s → envelopes",
+        "多个包覆物；日常最常是信封"
+      ]
+    ],
+    "explanation": "address the envelopes 是给信封写收件信息，seal the envelopes 是封口；paper envelopes 说纸信封。",
+    "usage": "blank envelopes；sealed envelopes；a pack of envelopes。",
+    "contrast": "envelopes 是名词复数，envelops 没有词尾 e 是相关动词三单；Fog envelops the hill 说雾包住山，不是几个信封。",
+    "examples": [
+      [
+        "She wrote the addresses on the envelopes.",
+        "她把地址写在信封上。"
+      ],
+      [
+        "The drawer contains a pack of empty envelopes.",
+        "抽屉里放着一包空信封。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envelopes#English",
+      "https://www.etymonline.com/word/envelope"
+    ]
+  },
+  {
+    "word": "porch",
+    "ipa": "英 /pɔːtʃ/；美 /pɔrtʃ/",
+    "meaning": "门廊；入口前或建筑外侧的有顶空间",
+    "sense": "还没进屋，门前有一块能站人、遮雨的有顶空间，就是 porch。美式房屋里，它也常大到可以摆椅子、坐着聊天。",
+    "split": "经古法语 porche，接拉丁 porticus 有顶廊道，再接 porta 门、入口。借词历史联系门口，不是每个现代 porch 都有古典柱廊。",
+    "history": [
+      [
+        "拉丁 porta 门 → porticus 有顶廊道",
+        "古法语 porche → 英语 porch"
+      ],
+      [
+        "门前有顶入口 → 门廊、建筑外侧有顶空间",
+        "现代布局、地区用法有差别"
+      ]
+    ],
+    "explanation": "the front porch 是前门廊，the back porch 是屋后门廊；a screened porch 用纱网围护，可减少虫子进入。",
+    "usage": "sit on the porch；the front porch；a porch light。",
+    "contrast": "porch 常在地面入口附近，balcony 常是较高楼层伸出的阳台；都有外部空间，不等于位置相同。",
+    "examples": [
+      [
+        "We sat on the porch and watched the rain.",
+        "我们坐在门廊上看雨。"
+      ],
+      [
+        "She left the parcel beside the porch light.",
+        "她把包裹放在门廊灯旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/porch#English",
+      "https://www.etymonline.com/word/porch"
+    ]
+  },
+  {
+    "word": "porches",
+    "ipa": "英 /ˈpɔːtʃɪz/；美 /ˈpɔrtʃɪz/",
+    "meaning": "门廊、建筑外侧有顶空间〔复数〕",
+    "sense": "一排房子各有可以坐人的门廊，放在一起就是 porches。它们可能大小、围护方式都不同。",
+    "split": "porch + -es，/tʃ/ 后读 /ɪz/；多个入口有顶空间，词尾增加一个音节。",
+    "history": [
+      [
+        "拉丁 porta 门 → porticus 有顶廊道",
+        "古法语 porche → 英语 porch"
+      ],
+      [
+        "门前有顶入口 → 门廊、建筑外侧有顶空间",
+        "现代布局、地区用法有差别"
+      ],
+      [
+        "porch + -es → porches",
+        "多个门廊，/tʃ/ 后 -es 读 /ɪz/"
+      ]
+    ],
+    "explanation": "front porches 强调屋前，covered porches 强调有顶；建筑布局要看具体房子。",
+    "usage": "front porches；wooden porches；houses with porches。",
+    "contrast": "porches 是门廊，entrances 是入口，更广；一个入口可以只有门，没有可停留、坐人的门廊。",
+    "examples": [
+      [
+        "Many houses on the street have wide porches.",
+        "街上许多房子都有宽门廊。"
+      ],
+      [
+        "Neighbours sat on their porches in the evening.",
+        "傍晚，邻居们坐在各自的门廊上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/porches#English",
+      "https://www.etymonline.com/word/porch"
+    ]
+  },
+  {
+    "word": "marble",
+    "ipa": "英 /ˈmɑːbəl/；美 /ˈmɑrbəl/",
+    "meaning": "大理石；弹珠；大理石制的、纹理状的",
+    "sense": "雕像、地板上有纹路的石材，是 marble；孩子手里滚着的玻璃弹珠，也叫 a marble。弹珠名字保留了早年用石材做球的来历。",
+    "split": "经法语 marbre，接拉丁 marmor、希腊 marmaros 等材料，远源未定。英语有 r 变 l 等词形变化；大理石制小球再扩大到其他材料弹珠。",
+    "history": [
+      [
+        "法语 marbre ← 拉丁 marmor、希腊 marmaros 等",
+        "较远闪亮的分析未定；英语词形有 r/l 历史变化"
+      ],
+      [
+        "大理石 → 石制小球 → 弹珠",
+        "现代弹珠可由玻璃制作；理智的俚语另有分析"
+      ]
+    ],
+    "explanation": "made of marble 按材料不可数；a glass marble 可数一颗弹珠；marble cake 说两色面糊形成的大理石纹蛋糕。",
+    "usage": "a marble statue；a marble floor；a glass marble；marble cake。",
+    "contrast": "marble 数材料时不可数，数玩具小球时可数；a piece of marble 是一块石料，a marble 常是一颗弹珠。",
+    "examples": [
+      [
+        "The statue is carved from white marble.",
+        "雕像由白色大理石雕成。"
+      ],
+      [
+        "A glass marble rolled under the chair.",
+        "一颗玻璃弹珠滚到了椅子下面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/marble#English",
+      "https://www.etymonline.com/word/marble"
+    ]
+  },
+  {
+    "word": "marbles",
+    "ipa": "英 /ˈmɑːbəlz/；美 /ˈmɑrbəlz/",
+    "meaning": "弹珠〔复数〕；弹珠游戏；理智、清醒判断〔口语〕",
+    "sense": "一袋圆圆的小球是 marbles，拿来一起玩的游戏也叫 marbles。lose your marbles 又是口语“犯糊涂、失去理智”，不是一定真把玩具弄丢了。",
+    "split": "marble + -s，/l/ 后读 /z/；玩具、游戏名承接石制小球材料。理智的俚语来源有另与旧家当词相关的分析，不硬编成弹珠等于脑细胞。",
+    "history": [
+      [
+        "法语 marbre ← 拉丁 marmor、希腊 marmaros 等",
+        "较远闪亮的分析未定；英语词形有 r/l 历史变化"
+      ],
+      [
+        "大理石 → 石制小球 → 弹珠",
+        "现代弹珠可由玻璃制作；理智的俚语另有分析"
+      ],
+      [
+        "marble + -s → marbles",
+        "多颗弹珠、游戏；另有理智的口语用法"
+      ]
+    ],
+    "explanation": "play marbles 是玩弹珠；a bag of marbles 数玩具；lost his marbles 常是夸张说某人做事太离谱。",
+    "usage": "glass marbles；play marbles；lose your marbles。",
+    "contrast": "marbles 可以是游戏名，也可以是玩具复数；Marbles is a game 以游戏看待，The marbles are in the bag 数实物。",
+    "examples": [
+      [
+        "The children were playing marbles in the yard.",
+        "孩子们正在院子里玩弹珠。"
+      ],
+      [
+        "You want to walk there in this rain? Have you lost your marbles?",
+        "下这么大雨你还想走过去？你是不是糊涂了？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/marbles#English",
+      "https://www.etymonline.com/word/marble"
+    ]
+  },
+  {
+    "word": "ivory",
+    "ipa": "英 /ˈaɪvəri/；美 /ˈaɪvəri/",
+    "meaning": "象牙、牙质材料；象牙白、乳白色",
+    "sense": "ivory 先是象牙等牙质材料名，后来借那种偏暖的白色说颜色。an ivory dress 通常在讲色调，不是整条裙子用象牙做的。",
+    "split": "经盎格鲁法语 ivorie 等，接中古拉丁 eborium、拉丁 ebur 象牙；更远可能经腓尼基语连到非洲来源，完整路线不完全确定。后来有制品、颜色等引申。",
+    "history": [
+      [
+        "拉丁 ebur、eborium → 法语 ivorie 等 → ivory",
+        "较远非洲语言借入线有分析"
+      ],
+      [
+        "牙质材料 → 相应制品；再借颜色说象牙白",
+        "现代颜色用法不保证实物含这种材料"
+      ]
+    ],
+    "explanation": "an ivory carving 是象牙雕刻品；an ivory blouse 通常是象牙白上衣；ivory tower 象牙塔常比喻远离现实的学术、理想环境。",
+    "usage": "ivory colour；an ivory dress；an ivory tower。",
+    "contrast": "ivory colour 命名色调，ivory material 命名材质；颜色相同不代表材料相同。",
+    "examples": [
+      [
+        "The museum displayed an old ivory carving.",
+        "博物馆展出了一件古老的象牙雕刻品。"
+      ],
+      [
+        "She wore an ivory blouse with dark trousers.",
+        "她穿着一件象牙白上衣，配深色长裤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ivory#English",
+      "https://www.etymonline.com/word/ivory"
+    ]
+  },
+  {
+    "word": "niche",
+    "ipa": "/niːʃ/ 或 /nɪtʃ/",
+    "meaning": "壁龛、小凹处；适合自己的位置；细分领域；生态位",
+    "sense": "墙里凹进去一小块，刚好放一尊小像，是 niche。一个人找到自己擅长、能发挥的位置，也像找到了刚好装得下自己的那一格。",
+    "split": "借法语 niche 凹处、龛，远源有意大利小凹处、贝壳，以及拉丁巢等不同分析，未统一。后来由实际小空间扩到适合的角色、细分领域与生态用途。",
+    "history": [
+      [
+        "法语 niche 小凹处、龛 → 英语 niche",
+        "远源有贝壳、巢等不同分析"
+      ],
+      [
+        "容纳物件的位置 → 合适的角色、细分位置",
+        "生态、市场等语境各有引申用途"
+      ]
+    ],
+    "explanation": "find your niche 是找到适合自己的位置；a niche market 是范围较小、需求专门的市场；生态 niche 不只等于地理住址。",
+    "usage": "a niche in the wall；find a niche；a niche market；an ecological niche。",
+    "contrast": "niche 的生态义包括生物怎样利用资源、发挥作用，habitat 偏居住环境；在同一 habitat 中也可有不同 niches。",
+    "examples": [
+      [
+        "A small statue stood in a niche in the wall.",
+        "墙上的壁龛里放着一尊小像。"
+      ],
+      [
+        "She found her niche in children’s publishing.",
+        "她在儿童出版领域找到了适合自己的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/niche#English",
+      "https://www.etymonline.com/word/niche"
+    ]
+  },
+  {
+    "word": "niches",
+    "ipa": "/ˈniːʃɪz/ 或 /ˈnɪtʃɪz/",
+    "meaning": "壁龛、适合的位置、细分领域、生态位〔复数〕",
+    "sense": "墙上几处小凹龛，或不同人各自擅长的位置，都可以说 niches。不是凡有 niches 就代表市场狭小，也可能在谈墙面或生态。",
+    "split": "niche + -s，末音 /ʃ/ 或 /tʃ/ 后后缀读 /ɪz/；保留末尾 e 的书写形式。两种基础读法都有对应复数。",
+    "history": [
+      [
+        "法语 niche 小凹处、龛 → 英语 niche",
+        "远源有贝壳、巢等不同分析"
+      ],
+      [
+        "容纳物件的位置 → 合适的角色、细分位置",
+        "生态、市场等语境各有引申用途"
+      ],
+      [
+        "niche + -s → niches",
+        "多个凹龛、专门位置；后缀读 /ɪz/"
+      ]
+    ],
+    "explanation": "market niches 是不同细分领域；ecological niches 是生态位；wall niches 是墙面凹龛。",
+    "usage": "different niches；market niches；ecological niches。",
+    "contrast": "niches 的拼写没有再加第二个 e：基础 niche 加 -s 即可；不是照读音写成 nichees。",
+    "examples": [
+      [
+        "Small statues filled the niches along the wall.",
+        "墙边各个壁龛里摆着小雕像。"
+      ],
+      [
+        "The company serves several specialised market niches.",
+        "公司服务于几个专门的细分市场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/niches#English",
+      "https://www.etymonline.com/word/niche"
+    ]
+  },
+  {
+    "word": "debris",
+    "ipa": "英 /ˈdebriː/；美 /dəˈbriː/",
+    "meaning": "碎片、残骸、散落的残余物〔通常不可数〕",
+    "sense": "东西被撞坏、拆掉后，地上散着木块、玻璃、碎石，这一片残余统称 debris。它像把“破碎后留下的一堆”整体拍进镜头。",
+    "split": "借法语 débris 残余物，接旧动词 debriser 打碎、压碎，其中 de- 与 briser 破裂结合；更远可能接高卢材料。末尾 s 是借词拼写，通常不发音。",
+    "history": [
+      [
+        "法语 de- + briser → debriser 打碎",
+        "briser 更远有高卢来源分析"
+      ],
+      [
+        "法语 débris → 英语 debris",
+        "破碎后残余物；英语通常不可数，末尾 s 不读"
+      ]
+    ],
+    "explanation": "clear away debris 是清理残余物；pieces of debris 数碎片；space debris 是太空碎片，仍常按整体材料说。",
+    "usage": "building debris；floating debris；clear debris；pieces of debris。",
+    "contrast": "debris 通常不是普通可数复数；说 The debris was removed，数一块用 a piece of debris，不因末尾 s 就配 are。",
+    "examples": [
+      [
+        "Workers cleared debris from the road.",
+        "工人们清走了路上的残骸。"
+      ],
+      [
+        "A piece of debris was floating near the boat.",
+        "船边漂着一块碎片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/debris#English",
+      "https://www.etymonline.com/word/debris"
+    ]
+  },
+  {
+    "word": "owl",
+    "ipa": "/aʊl/",
+    "meaning": "猫头鹰；晚睡的人〔常见于 night owl〕",
+    "sense": "大眼睛、夜间活动，是猫头鹰最常见的印象。把总熬到很晚的人叫 a night owl，也就是中文很像的夜猫子。",
+    "split": "承古英语 ule，接更早日耳曼同族材料，远源通常联系模仿啼叫、呼声的声音。现代 owl 整体识别，不必拼成普通前后缀。",
+    "history": [
+      [
+        "古英语 ule ← 更早日耳曼材料",
+        "通常联系模仿呼叫、猫头鹰啼声的材料"
+      ],
+      [
+        "英语 owl 猫头鹰 → night owl 夜猫子",
+        "借夜间活动习惯说晚睡的人"
+      ]
+    ],
+    "explanation": "a barn owl 是仓鸮；a night owl 是夜猫子。鸟名来源可能模仿声音，不表示所有猫头鹰都发完全一样的叫声。",
+    "usage": "an owl in the tree；a barn owl；be a night owl。",
+    "contrast": "owl 的 ow 读 /aʊ/，像 how，不像 snow 的 /əʊ/、/oʊ/；night owl 比喻晚睡的人，不限定在夜间工作。",
+    "examples": [
+      [
+        "An owl called from the trees.",
+        "树林里传来一只猫头鹰的叫声。"
+      ],
+      [
+        "I am a night owl and often read late into the night.",
+        "我是个夜猫子，经常读书读到很晚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/owl#English",
+      "https://www.etymonline.com/word/owl"
+    ]
+  },
+  {
+    "word": "owls",
+    "ipa": "/aʊlz/",
+    "meaning": "猫头鹰〔复数〕；晚睡者〔依语境〕",
+    "sense": "几只猫头鹰是 owls；一群喜欢晚睡的人可叫 night owls。夜间活动的画面相同，一个在谈鸟，一个在谈人。",
+    "split": "owl + -s，/l/ 后读 /z/；基础 /aʊ/ 保留，不因为复数变成另一个 ow 读音。",
+    "history": [
+      [
+        "古英语 ule ← 更早日耳曼材料",
+        "通常联系模仿呼叫、猫头鹰啼声的材料"
+      ],
+      [
+        "英语 owl 猫头鹰 → night owl 夜猫子",
+        "借夜间活动习惯说晚睡的人"
+      ],
+      [
+        "owl + -s → owls",
+        "多只猫头鹰；night owls 又可指多个晚睡者"
+      ]
+    ],
+    "explanation": "barn owls、snowy owls 指不同鸟类；night owls 在谈生活习惯时通常说人。",
+    "usage": "owls at dusk；barn owls；a family of night owls。",
+    "contrast": "night owls 与 early birds 可对照晚睡者、早起者；两者借鸟类形象形容作息，不一定在讨论真实鸟类。",
+    "examples": [
+      [
+        "We heard owls calling after sunset.",
+        "日落后，我们听到了猫头鹰的叫声。"
+      ],
+      [
+        "Most of my friends are night owls.",
+        "我的朋友大多是夜猫子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/owls#English",
+      "https://www.etymonline.com/word/owl"
+    ]
+  }
+]

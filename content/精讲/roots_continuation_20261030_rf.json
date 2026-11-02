@@ -1,0 +1,226 @@
+[
+  {
+    "id": "A2079",
+    "meaning": "向下；沿着、向前；程度降低或处于较低状态",
+    "core": "DOWN：先有方向，再看场景中的参照和高低",
+    "image": "downpour 雨往下倾；downturn 曲线转向下；downtrodden 人像被踩在底下；downfield 在球场却常是向前。",
+    "intro": "方向 down 从古英语 of dūne 离开山丘、下山一类短语缩减而来。现代与地点、动作、程度结合，不能把所有词都只译作朝地面。羽绒的名词 down 则另有来源。",
+    "forms": "down + pour／turn → downpour／downturn；down + tread 的分词 trodden → downtrodden；down + field → downfield。download 的方向要按技术角色理解，不是文件真的从天空掉下来。",
+    "branches": [
+      [
+        "下落与天气",
+        "pour · downpour；downdraft"
+      ],
+      [
+        "程度、活动下降",
+        "turn · downturn；downgrade · downsize · downtrend · downswing"
+      ],
+      [
+        "被压低的状态",
+        "tread · trodden · downtrodden；downcast"
+      ],
+      [
+        "位置、参照和传播方向",
+        "down · downstairs · downhill · downstream · downwind · downriver · downfield · download · downlink"
+      ],
+      [
+        "固定后果名词",
+        "downfall"
+      ]
+    ],
+    "contrasts": "downfield 不等于地势低处；downtrodden 不只是不开心；downpour 不等于每一阵小雨；downturn 不自动满足某种正式衰退定义。",
+    "practice": "A sudden downpour interrupted the game just as the ball went downfield.\n\n球刚被传向前场，一场突如其来的大雨就打断了比赛。",
+    "words": [
+      "down",
+      "pour",
+      "downpour",
+      "turn",
+      "downturn",
+      "tread",
+      "trodden",
+      "downtrodden",
+      "downcast",
+      "downstairs",
+      "downhill",
+      "downstream",
+      "downwind",
+      "downriver",
+      "downfield",
+      "download",
+      "downlink",
+      "downgrade",
+      "downsize",
+      "downtrend",
+      "downswing",
+      "downdraft",
+      "downfall"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1937",
+    "meaning": "某种作用、活动中的人、物；具有某种性质的",
+    "core": "ANT：先分词性，再判断是人、起作用的物质还是性质",
+    "image": "debutant 是首次登场的人，lubricant 是起润滑作用的物质，luxuriant 是形容草木繁茂；三个都不能套成做某事的人。",
+    "intro": "常见 -ant 可接拉丁现在分词 -ant- 及法语相应材料；有完整借词，也有英语后续构词。它与 -ent 有历史上的对应，但现代拼写往往需要逐词确认。",
+    "forms": "lubricate ↔ lubricant；disinfect ↔ disinfectant；irritate ↔ irritant；debut 与法语 débutant／débutante 对应；avoid + -ant → avoidant。luxuriant 与 luxury、luxuriate 同族，却不是简单的现代词先后相加史。\n\n-ant 可命名引起刺激的人、物，-ation 是过程、状态名称；物理刺激与心理烦躁按场景认。",
+    "branches": [
+      [
+        "人物与参与角色",
+        "debutant · debutante；servant · participant · accountant · informant · claimant · assailant · celebrant"
+      ],
+      [
+        "起作用的物质、器件",
+        "lubricate · lubricant；disinfect · disinfectant；irritate · irritant；coolant · propellant · hydrant · pollutant · retardant · depressant · sealant · reactant · suppressant · dopant · accelerant"
+      ],
+      [
+        "性质、态度和生长",
+        "luxury · luxuriant · luxuriate；avoid · avoidant；resistant · reluctant · rampant · compliant · reliant · buoyant · cognizant · ascendant"
+      ],
+      [
+        "其他已固定用法",
+        "determinant · protestant"
+      ],
+      [
+        "irritant 刺激源与 irritation 产生的感受、过程",
+        "irritant · irritate · irritates · irritated · irritating · irritation · irritations"
+      ]
+    ],
+    "contrasts": "lubricant 不等于 fuel；irritable 容易被激惹，irritant 是刺激物等；luxuriant 繁茂与 luxurious 豪华分开；debutante 具有特定社交文化用法。",
+    "practice": "The debutant gave a confident performance in front of the luxuriant garden.\n\n这位首次登场的表演者在繁茂花园前自信地完成了表演。",
+    "words": [
+      "debut",
+      "debutant",
+      "debutante",
+      "servant",
+      "participant",
+      "accountant",
+      "informant",
+      "claimant",
+      "assailant",
+      "celebrant",
+      "lubricate",
+      "lubricant",
+      "disinfect",
+      "disinfectant",
+      "irritate",
+      "irritant",
+      "coolant",
+      "propellant",
+      "hydrant",
+      "pollutant",
+      "retardant",
+      "depressant",
+      "sealant",
+      "reactant",
+      "suppressant",
+      "dopant",
+      "accelerant",
+      "luxury",
+      "luxurious",
+      "luxuriant",
+      "luxuriate",
+      "avoid",
+      "avoidant",
+      "resistant",
+      "reluctant",
+      "rampant",
+      "compliant",
+      "reliant",
+      "buoyant",
+      "cognizant",
+      "ascendant",
+      "determinant",
+      "protestant",
+      "irritates",
+      "irritated",
+      "irritating",
+      "irritation",
+      "irritations"
+    ],
+    "exclude": {
+      "levant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2093",
+    "meaning": "十三至十九的数词材料；青少年相关",
+    "core": "TEEN：与 ten 同源的十几，先分清基数词和年龄称呼",
+    "image": "six + 十几材料 → sixteen 十六；这些年龄末尾的 teen，后来参与 teenage、teenager 等青少年称呼。",
+    "intro": "-teen 由古英语相应十数词材料延续，与 ten 同源。thirteen、fifteen 等有历史音变，eighteen 的 t 也不能按 eightteen 随便重复写。",
+    "forms": "three ↔ thirteen；four ↔ fourteen；five ↔ fifteen；six／seven／eight／nine 对应 sixteen／seventeen／eighteen／nineteen。teen 是 teenager 的缩略等用法，umpteen 是夸张的许多，不是精确的第二十个数字。\n\nteens 早由数词尾 teen 独立名词化来，后也能数青少年；不把所有用法都说成 teenager 先缩短。",
+    "branches": [
+      [
+        "十几的基数词",
+        "thirteen · fourteen · fifteen · sixteen · seventeen · eighteen · nineteen"
+      ],
+      [
+        "年龄及人物",
+        "teenage · teenager · teen"
+      ],
+      [
+        "夸张的不定数量",
+        "umpteen"
+      ],
+      [
+        "teen → teens：十三至十九的年龄段",
+        "teen · teens · teenager"
+      ]
+    ],
+    "contrasts": "thirteen／thirty、fourteen／forty 既要看结尾也要听重音；teenage 不保证泛指全部儿童；umpteen 没有某个固定十几的数值。",
+    "practice": "The sixteen-year-old student counted seventeen chairs, then checked them again.\n\n那名十六岁的学生数出十七把椅子，随后又核对了一遍。",
+    "words": [
+      "three",
+      "thirteen",
+      "four",
+      "fourteen",
+      "five",
+      "fifteen",
+      "six",
+      "sixteen",
+      "seven",
+      "seventeen",
+      "eight",
+      "eighteen",
+      "nine",
+      "nineteen",
+      "ten",
+      "teen",
+      "teenage",
+      "teenager",
+      "umpteen",
+      "teens"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1703",
+    "meaning": "大数名称中的词尾材料；也用于戏拟的夸张大数",
+    "core": "ILLION：正式数值与夸张造词必须分开",
+    "image": "million、billion、trillion 是有约定数值的序列；zillion、gazillion、bazillion 只是把“多得数不清”说得像一个大数。",
+    "intro": "million 经法语接意大利语 milione，较早与 mille 千及增大词尾有关；其他大数后来借它的形式做系列命名。不同历史数制有过数值差异，现代数值不能只凭 bi-、tri- 的字面算。",
+    "forms": "现代常见短数制 million＝10⁶、billion＝10⁹、trillion＝10¹²、quadrillion＝10¹⁵。zillion、gazillion、bazillion 无固定数值，不给它们硬排零的数量。",
+    "branches": [
+      [
+        "有约定数值的大数",
+        "million · billion · trillion · quadrillion"
+      ],
+      [
+        "夸张的随意造词",
+        "zillion · gazillion · bazillion"
+      ]
+    ],
+    "contrasts": "two trillion 不加 s；trillions of 表不精确的大量；旧文献可能采用不同数制；gazillion 的 ga- 不等于 giga- 科学前缀。",
+    "practice": "She said she had a zillion ideas, but the budget needed an exact number.\n\n她说自己有无数想法，但预算需要的是准确数字。",
+    "words": [
+      "million",
+      "billion",
+      "trillion",
+      "quadrillion",
+      "zillion",
+      "gazillion",
+      "bazillion"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "B4189",
+    "meaning": "低哼、低鸣及活跃运转的形象，技术中再命名消噪器件",
+    "core": "HUM：连续低响，或轻轻哼出旋律",
+    "image": "hum → humming；hummingbird 取翅膀声；humbucker 取抑制电气嗡声的功能。",
+    "intro": "听觉画面很好用，但 hum 开头不保证同源。humble 来自拉丁卑下等词义，与本页嗡鸣分开。",
+    "forms": "hummen 等 → hum；-ing 声音、活动；bird 鸟；buck 对抗，-er 器具。\n\n声音 hum 接中古英语 hommen、hummen 等拟声材料，不是古典词根 hum- 土地；hummed 双写 m，再加完整 -ed。",
+    "branches": [
+      [
+        "低哼、低鸣与鸟名",
+        "hum · humming · hummingbird"
+      ],
+      [
+        "抑制电气嗡声的器件",
+        "humbucker"
+      ],
+      [
+        "hum 的哼唱、低鸣与现代变化",
+        "hum · hums · hummed · humming"
+      ]
+    ],
+    "contrasts": "hum 不必有歌词；hummingbird 借翅膀声音；humble 不是 hum 的派生。",
+    "practice": "She hummed a tune while testing the guitar’s humbucker.\n\n她一边测试吉他的双线圈拾音器，一边轻哼曲子。",
+    "words": [
+      "hum",
+      "humming",
+      "hummingbird",
+      "humbucker",
+      "hums",
+      "hummed"
+    ],
+    "exclude": {
+      "humble": "拉丁 humilis 等卑下、贴近地面词族的来源，不属于 hum 嗡鸣。",
+      "hummer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2806",
+    "meaning": "年轻女子的旧称与服务角色，扩到故事和首次的比喻",
+    "core": "MAID：历史上从 MAIDEN 截短，再形成不同角色名称",
+    "image": "maiden → maid；mermaid、nursemaid 等组合；maiden voyage 首航是固定扩展。",
+    "intro": "现代词形的长短与历史出现顺序不必一致。maid、maiden 的旧身份称呼和现代岗位、首次比喻，也要分开。",
+    "forms": "mægden → maiden → maid；mer- 水域，nurse 照料；house、chamber、bar 等限定角色场所。",
+    "branches": [
+      [
+        "基础旧称与首次用法",
+        "maid · maiden"
+      ],
+      [
+        "故事人物与照料角色",
+        "mermaid · nursemaid"
+      ],
+      [
+        "其他工作、仪式角色",
+        "bridesmaid · housemaid · barmaid · chambermaid · handmaid · maidservant"
+      ]
+    ],
+    "contrasts": "maiden 历史早于截短 maid；maiden voyage 不说船的性别；nursemaid 的 nurse 取照料义。",
+    "practice": "The nursemaid read the children a tale about a mermaid’s first voyage.\n\n保姆给孩子们读了一个美人鱼初次航行的故事。",
+    "words": [
+      "maid",
+      "maiden",
+      "mermaid",
+      "nursemaid",
+      "bridesmaid",
+      "housemaid",
+      "barmaid",
+      "chambermaid",
+      "handmaid",
+      "maidservant"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3206",
+    "meaning": "小球的历史走向弹丸、圆点符号与快速运动、风险比喻",
+    "core": "BULLET：固定借词，现代不要求总是球形",
+    "image": "bullet → bulletproof；bullet point、dodge a bullet 等看固定搭配。",
+    "intro": "从物件形状到排版符号很直观；固定习语则学整句意义，不能只靠小球推出来。",
+    "forms": "boule 球 → 法语小称 bullete 等 → bullet；proof 抵御、经受住的相关性质。\n\n法语 boule 球的小称借入，后固定为弹丸、项目符号等。\n\nbullet 与 bulletin 远处同接拉丁 bulla 圆物。bulletin 经法语及意大利单据词族，由印封、文件联系发展为公告，不说公告来自现代子弹。",
+    "branches": [
+      [
+        "弹丸、符号与相关性质",
+        "bullet · bulletproof"
+      ],
+      [
+        "bullet → bullets：小球、弹丸与圆点符号",
+        "bullet · bullets"
+      ],
+      [
+        "bulla 圆物、印封 → bulletin",
+        "bulletin"
+      ]
+    ],
+    "contrasts": "bullet 常用义不来自 bull；bullet 与 cartridge 在精确语境中区分；dodge a bullet 可比喻躲过祸事。",
+    "practice": "The guide uses bullet points to explain what bulletproof means.\n\n指南用项目要点解释 bulletproof 的意思。",
+    "words": [
+      "bullet",
+      "bulletproof",
+      "bullets",
+      "bulletin"
+    ],
+    "exclude": {
+      "bullet-head": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3391",
+    "meaning": "嘴唇的身体形象，扩到物件凸边和说话态度",
+    "core": "LIP：口的边缘，也借来命名凸边和顶嘴",
+    "image": "lip → lipped、lippy；lipstick 取嘴唇与棒状化妆品组合；lippy 名词是口语短称。",
+    "intro": "嘴唇、容器边、顶嘴态度、口红昵称，按形状、行为与截短分别理解，不把一条构词关系套到底。",
+    "forms": "lippa／lippe → lip；-ed 带有，-y 性质或口语短称；lip + stick → lipstick。\n\n本族身体部位词扩展到器物边缘，与说话的表达相连。",
+    "branches": [
+      [
+        "身体和结构",
+        "lip · lipped"
+      ],
+      [
+        "化妆品与态度、昵称",
+        "lipstick · lippy"
+      ],
+      [
+        "lip → lips：嘴唇与边缘",
+        "lip · lips"
+      ]
+    ],
+    "contrasts": "lipped 带凸边不等于 lippy 顶嘴；lippy 名词可说口红；lip 与 mouth 范围不同。",
+    "practice": "She applied lipstick, then pressed her lips together.\n\n她涂上口红，然后抿了抿嘴唇。",
+    "words": [
+      "lip",
+      "lipped",
+      "lipstick",
+      "lippy",
+      "lips"
+    ],
+    "exclude": {
+      "lip-strap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

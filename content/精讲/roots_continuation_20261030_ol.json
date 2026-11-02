@@ -1,0 +1,215 @@
+[
+  {
+    "id": "B4426",
+    "meaning": "尖长形状与杆件，复合词走向路障、道路",
+    "core": "PIKE：尖头长杆，借形状与功能继续命名",
+    "image": "pike 的武器、鱼名、屈体先分场景；turnpike 从转杆到收费路。",
+    "intro": "不要把整页连成鱼去收费的故事。尖物是主要入口，转杆路障靠用途变成道路名；多义关系需要具体说明。",
+    "forms": "pīc、pique 等材料交汇 → pike；turn + pike → turnpike；鱼名常由尖长外形联系。\n\npeak 是尖物义 pike 的变体，现代动词再由名词发展；peaked 达峰与看起来憔悴的读音、词史要分开。",
+    "branches": [
+      [
+        "尖物与相关命名",
+        "pike"
+      ],
+      [
+        "转动路障到收费公路",
+        "turnpike"
+      ],
+      [
+        "pike 与 peak：尖处、山顶与数量最高点",
+        "pike · peak · peaks · peaked · peaking"
+      ]
+    ],
+    "contrasts": "pike 的屈体姿势与团身不同；turnpike 的 turn 不要求公路每段都弯曲。",
+    "practice": "The museum displayed a pike beside a model of a turnpike gate.\n\n博物馆在一支长矛旁展出了收费路障模型。",
+    "words": [
+      "pike",
+      "turnpike",
+      "peak",
+      "peaks",
+      "peaked",
+      "peaking"
+    ],
+    "exclude": {
+      "pike-perch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pickerel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3376",
+    "meaning": "熏香材料走向香味、香水与相关行业人物",
+    "core": "PERFUME：让气味变香，再分产品、人物与行业",
+    "image": "perfume → perfumed；perfumer 是调香相关人物，perfumery 可说行业、产品或营业场所。",
+    "intro": "历史的熏烟材料解释了 fum-，但现代不必每瓶香水都靠烟。把香味、加香动作与行业词分清，比机械直译每段字母更好用。",
+    "forms": "per- + fumare → 罗曼语、法语相关形式 → perfume；-ed 结果；-er 人；-ery 行业、场所等。",
+    "branches": [
+      [
+        "香水、加香与带香状态",
+        "perfume · perfumed"
+      ],
+      [
+        "人物与行业",
+        "perfumer · perfumery"
+      ]
+    ],
+    "contrasts": "perfumed 不只说喷商业香水；perfumery 不等于每个 perfumer 的某次动作。",
+    "practice": "The perfumer created a perfume for the new perfumery collection.\n\n调香师为新的香氛系列调制了一款香水。",
+    "words": [
+      "perfume",
+      "perfumed",
+      "perfumer",
+      "perfumery"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4228",
+    "meaning": "坚硬石料与石器、打火用途",
+    "core": "FLINT：石头硬，敲裂后的边能很锋利",
+    "image": "flint 先记石料，再看打火部件的名称转用。",
+    "intro": "从考古石器和常见打火部件两个场景认识即可。石料、用途、现代材料替代分清，就不必再背一串冷门历史器具词。",
+    "forms": "古英语 flint → 中古英语 flint、flynt → flint；更早常联系劈裂材料，现代部件可按功能沿用名词。",
+    "branches": [
+      [
+        "石料与用途名称",
+        "flint"
+      ]
+    ],
+    "contrasts": "打火机 flint 不保证天然燧石；flint 石与 spark 火花也不是同一个东西。",
+    "practice": "The flint tool was made from a carefully shaped piece of flint.\n\n这件燧石工具由一块经过仔细整形的燧石制成。",
+    "words": [
+      "flint"
+    ],
+    "exclude": {
+      "flintstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flintlock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flinty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4269",
+    "meaning": "空、未用、无事的旧材料，语境决定是否责备",
+    "core": "IDLE：位置空着、事情没在做，不必已经坏掉",
+    "image": "idle → idly、idleness，性质动作、方式和状态名词。",
+    "intro": "机器闲置、人在闲暇、空谈与引擎怠速，都要按场景选义。尤其记住发动机 idle 仍在运转，stall 才可说熄火。",
+    "forms": "īdel、īdellīce、īdelnes 等 → idle、idly、idleness；现代对应 -ly 方式与 -ness 状态。\n\nidle 古英语早指空、无用，后来有不工作；英语动词由形容词发展。空转的是机器还在运转，但未带负载工作，不是完全熄火。",
+    "branches": [
+      [
+        "性质、动作、方式和状态",
+        "idle · idly · idleness"
+      ],
+      [
+        "idle：闲着，到发动机空转",
+        "idle · idles · idled · idling · idler · idlers"
+      ]
+    ],
+    "contrasts": "idle 不等于每次都 lazy；idly 的 -le 变 -ly，idleness 则保留 e；怠速不是熄火。",
+    "practice": "During the period of idleness, he idly watched the idle machines.\n\n在那段无事可做的时间里，他漫不经心地看着闲置机器。",
+    "words": [
+      "idle",
+      "idly",
+      "idleness",
+      "idles",
+      "idled",
+      "idling",
+      "idler",
+      "idlers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4304",
+    "meaning": "弯柄机械材料与古怪、虚弱材料交汇，派生词分支不同",
+    "core": "CRANK：弯出的柄能传力，人物脾气义另看历史交汇",
+    "image": "crank → cranky；crankshaft、crankcase 各说轴和箱体。",
+    "intro": "机械最直观的是离开轴心的弯柄。人物评价、易怒和机器闹别扭不能统统讲成曲柄摇多了，词史有近义、近源材料交汇。",
+    "forms": "crancstæf 等 → crank；-y 性质；shaft 轴；case 壳体；怪人义可能与 cranky 逆构有关。",
+    "branches": [
+      [
+        "机械名、动作与人物评价",
+        "crank · cranky"
+      ],
+      [
+        "曲轴与曲轴箱",
+        "crankshaft · crankcase"
+      ]
+    ],
+    "contrasts": "crankcase 容纳 crankshaft；cranky 不必在生气一辈子，也不保证词源只有机械一条线。",
+    "practice": "The drawing identifies the crankshaft and the crankcase.\n\n图上标出了曲轴与曲轴箱。",
+    "words": [
+      "crank",
+      "cranky",
+      "crankshaft",
+      "crankcase"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4432",
+    "meaning": "缺帮助、缺应对能力，性质再成方式与状态名词",
+    "core": "HELPLESS：想做点什么，眼下却没办法",
+    "image": "helpless → helplessly、helplessness，处境、表现方式与感受分开。",
+    "intro": "主画面是有意愿却没有可用手段。不必把当时无助放大成一生无能，也不要和看不到希望的 hopeless 词族混在一起。",
+    "forms": "help + -less → helpless；-ly 方式；-ness 性质、状态。",
+    "branches": [
+      [
+        "性质、方式与状态名词",
+        "helpless · helplessly · helplessness"
+      ]
+    ],
+    "contrasts": "helplessness 看能否应对，hopelessness 看是否有希望；-less 与 -ness 是两层词尾。",
+    "practice": "He watched helplessly, overwhelmed by a sense of helplessness.\n\n他无能为力地看着，被一阵无助感淹没。",
+    "words": [
+      "helpless",
+      "helplessly",
+      "helplessness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3128",
+    "meaning": "共同占有的词源方向，形成有具体理论史的政治名词",
+    "core": "COMMUNISM：词根抓共同，整词还得读政治语境",
+    "image": "communism 先分思想、运动、制度三个常见语境，不拿一个中文词义盖住所有文章。",
+    "intro": "共同的旧材料能帮助认形，却不能代替政治概念的完整范围。理论理想、历史组织与制度评价需要结合原文辨认。",
+    "forms": "communis → 法语 commun；+ -isme → communisme；英语借为 communism。",
+    "branches": [
+      [
+        "政治思想、运动和制度的名称",
+        "communism"
+      ]
+    ],
+    "contrasts": "communal 共同的、community 社区等虽有更早相通材料，现代 communism 并非它们的任意替换词。",
+    "practice": "The historian examined how the meaning of communism changed across contexts.\n\n历史学家考察了 communism 一词在不同语境中的含义变化。",
+    "words": [
+      "communism"
+    ],
+    "exclude": {
+      "para-communism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anarcho-communism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3197",
+    "meaning": "硝相关生成命名形成氮名，再产生氮化物名称",
+    "core": "NITROGEN：先分氮元素和空气中的氮气",
+    "image": "nitrogen → nitride，元素名与化合物类别分开；化学词尾改变类别。",
+    "intro": "元素氮能存在于许多物质中，氮气只是其中一种形态。nitride 也不是所有含氮物质总名，别把认出 nitr- 当作已经认出全部化学性质。",
+    "forms": "nitro- + -gène → nitrogène → nitrogen；nitr- + -ide → nitride。",
+    "branches": [
+      [
+        "元素与相应化合物名",
+        "nitrogen · nitride"
+      ]
+    ],
+    "contrasts": "N 与 N₂ 分清；nitride、nitrate、nitrite 区别不能省略。氮占空气约78%说的是体积。",
+    "practice": "Silicon nitride contains nitrogen, but it is not nitrogen gas.\n\n氮化硅含氮，却不是氮气。",
+    "words": [
+      "nitrogen",
+      "nitride"
+    ],
+    "exclude": {
+      "nitrogenous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

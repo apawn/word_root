@@ -1,0 +1,527 @@
+[
+  {
+    "word": "pike",
+    "ipa": "/paɪk/",
+    "meaning": "长矛；梭子鱼；〔体操、跳水〕屈体姿势",
+    "sense": "先抓尖长形状：杆端带尖是长矛，嘴形尖长的淡水鱼也叫 pike。跳水、体操里双腿伸直、髋部折起的姿势又叫 pike。",
+    "split": "本族古英语 pīc 等尖物材料与法语 pique 等交汇成现代词族。鱼名通常联系尖长颌部；屈体名的具体形状联想有解释，但不用把不同来源细节一刀切定。",
+    "history": [
+      [
+        "古英语 pīc 等尖物材料、法语 pique 等交汇 → pike",
+        "尖头、长矛，借形状命名鱼、姿势等"
+      ],
+      [
+        "turn + pike → turnpike",
+        "转动的尖杆路障 → 收费关卡 → 收费公路"
+      ]
+    ],
+    "explanation": "a medieval pike 中世纪长矛；a northern pike 白斑狗鱼等常见梭子鱼名；a pike position 屈体姿势。",
+    "usage": "a pike position；a northern pike。",
+    "contrast": "pike 鱼不是长在鱼身上的矛；pike position 与 tuck 团身不同，屈体时腿伸直，不能都只翻成缩起来。",
+    "examples": [
+      [
+        "The display included a long medieval pike.",
+        "展品里有一支中世纪长矛。"
+      ],
+      [
+        "The diver held a pike position in the air.",
+        "跳水者在空中保持屈体姿势。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pike#English"
+    ]
+  },
+  {
+    "word": "turnpike",
+    "ipa": "英 /ˈtɜːnpaɪk/；美 /ˈtɜːrnpaɪk/",
+    "meaning": "收费公路；〔历史〕收费路障、关卡",
+    "sense": "原来是一道能转动、拦住路的杆架，付钱才让过。后来路障名字转到了设这种收费关卡的整条路上。",
+    "split": "中古英语 turnpyke，对应 turn 转动 + pike 尖杆、杆轴。由可转路障到收费关卡，再到收费公路，不是“转弯的梭子鱼”。",
+    "history": [
+      [
+        "古英语 pīc 等尖物材料、法语 pique 等交汇 → pike",
+        "尖头、长矛，借形状命名鱼、姿势等"
+      ],
+      [
+        "turn + pike → turnpike",
+        "转动的尖杆路障 → 收费关卡 → 收费公路"
+      ]
+    ],
+    "explanation": "a toll turnpike 收费公路；the turnpike entrance 收费公路入口；美式地名、道路名里常见 Turnpike。",
+    "usage": "the turnpike entrance；a turnpike road。",
+    "contrast": "turnpike 的 turn 保留旧路障动作，不表示每条路都特别弯；现代道路具体收费制度不能单靠名字判断。",
+    "examples": [
+      [
+        "The bus left the turnpike at the next exit.",
+        "巴士从下一个出口驶离收费公路。"
+      ],
+      [
+        "The exhibit shows how an old turnpike gate worked.",
+        "展览展示了旧式收费路障的作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/turnpike#English",
+      "https://www.etymonline.com/word/turnpike"
+    ]
+  },
+  {
+    "word": "perfumed",
+    "ipa": "英 /ˈpɜːfjuːmd/；美 /ˈpɜːrfjuːmd/",
+    "meaning": "有香味的；加过香的；perfume 的过去式、分词",
+    "sense": "纸、肥皂、空气带上了香味，可以说 perfumed。它不只指喷了商业香水，也可说花香让空气变香。",
+    "split": "perfume + -ed → perfumed，只加 d；动词可说使有香味，分词作形容词。通常形容词重读前部，具体动词变位读法可随原动词地区习惯变化。",
+    "history": [
+      [
+        "拉丁 per- 充分、贯穿 + fumare 冒烟、熏 → 罗曼语相关形式",
+        "熏香等材料进入香味词族"
+      ],
+      [
+        "法语 parfum、parfumer → perfume；+ -ed → perfumed",
+        "香水、加香 → 带香味的"
+      ]
+    ],
+    "explanation": "perfumed soap 加香皂；perfumed air 芬芳空气；perfumed paper 带香味的纸。",
+    "usage": "perfumed soap；perfumed air。",
+    "contrast": "perfumed 强调香味被赋予或空气带香，不保证每个人都喜欢；fragrant 更直接形容闻起来芳香。",
+    "examples": [
+      [
+        "She wrapped the gift in perfumed paper.",
+        "她用带香味的纸包礼物。"
+      ],
+      [
+        "The garden flowers perfumed the evening air.",
+        "园中的花给傍晚空气带来了香气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/perfumed#English"
+    ]
+  },
+  {
+    "word": "flint",
+    "ipa": "/flɪnt/",
+    "meaning": "燧石；打火石、打火部件",
+    "sense": "一种很硬、断开常有锋利边缘的石头，旧时能做石器，也用于打火。现代打火机里的 flint 则可按用途保留名字，材料未必是真燧石。",
+    "split": "承古英语 flint，经中古英语延续，更早常联系劈裂的材料。石料名又按打火功能转用于相应部件，不把所有现代打火石当同一种天然岩石。",
+    "history": [
+      [
+        "古英语 flint → 中古英语 flint、flynt → flint",
+        "坚硬、可敲裂出锋边的燧石"
+      ],
+      [
+        "石料名 → 打火部件的功能名",
+        "部分现代 flint 部件材料已不同"
+      ]
+    ],
+    "explanation": "a piece of flint 一块燧石；a flint tool 燧石工具；a lighter flint 打火机打火部件。",
+    "usage": "a piece of flint；a flint tool。",
+    "contrast": "flint 是石料及相关功能名，spark 是火花；不能把硬石本身与短暂火花当一个物体。",
+    "examples": [
+      [
+        "The archaeologist found a small flint tool.",
+        "考古学家发现了一件小燧石工具。"
+      ],
+      [
+        "The display included several pieces of flint.",
+        "展柜里有几块燧石。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flint#English"
+    ]
+  },
+  {
+    "word": "idle",
+    "ipa": "/ˈaɪdəl/",
+    "meaning": "闲置的、空闲的；懒散的；空泛的；〔发动机〕怠速运转",
+    "sense": "机器有却没用上，是 idle；人没做事也可 idle。但引擎 idle 是还在转、暂不带着车前进，不能翻成已经熄火。",
+    "split": "承古英语 īdel 空、无用等，经中古英语延续；相应旧动词发展为闲着、让闲置、引擎怠速等。形容词不必每次都带责备。",
+    "history": [
+      [
+        "古英语 īdel 空、无用、无事 → 中古英语 idel → idle",
+        "未被占用、无活动，部分语境含懒散评价"
+      ],
+      [
+        "旧 īdellīce、īdelnes 等 → idly、idleness",
+        "现代对应方式副词与状态名词；引擎 idle 仍运转"
+      ]
+    ],
+    "explanation": "idle equipment 闲置设备；idle talk 空谈；sit idle 闲着；an engine idles 引擎怠速运转。",
+    "usage": "sit idle；idle equipment；idle talk。",
+    "contrast": "idle 设备未被使用，不等于 broken 坏了；idle 人可能只是暂时没任务，不一定 lazy 懒。引擎 idle 与 stall 熄火不同。",
+    "examples": [
+      [
+        "The factory’s machines stood idle for a month.",
+        "工厂机器闲置了一个月。"
+      ],
+      [
+        "The engine idled while the driver checked the map.",
+        "司机看地图时，引擎保持怠速运转。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/idle#English"
+    ]
+  },
+  {
+    "word": "idly",
+    "ipa": "/ˈaɪdli/",
+    "meaning": "漫不经心地；无所事事地；空闲地",
+    "sense": "手边随意翻杂志，没有明确任务和目的，可以说 idly。它可以是轻松随手，也可以是闲着不行动。",
+    "split": "承古英语、中古英语相应副词，现代对应 idle + -ly；-le 末尾派生成 idly，不写 idlely。",
+    "history": [
+      [
+        "古英语 īdel 空、无用、无事 → 中古英语 idel → idle",
+        "未被占用、无活动，部分语境含懒散评价"
+      ],
+      [
+        "旧 īdellīce、īdelnes 等 → idly、idleness",
+        "现代对应方式副词与状态名词；引擎 idle 仍运转"
+      ],
+      [
+        "idle 的旧副词材料 → idly",
+        "现代 -le → -ly 词形，读 /aɪdli/"
+      ]
+    ],
+    "explanation": "idly wonder 随意想想；sit idly by 袖手旁观；idly turn the pages 漫不经心翻页。",
+    "usage": "sit idly by；idly wonder。",
+    "contrast": "idly 不等于 always lazily，度假随手翻书可很中性；sit idly by 在该行动时不行动则常带责备。",
+    "examples": [
+      [
+        "She idly turned the pages of the magazine.",
+        "她漫不经心地翻着杂志。"
+      ],
+      [
+        "We cannot sit idly by while the problem gets worse.",
+        "问题不断恶化，我们不能袖手旁观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/idly#English"
+    ]
+  },
+  {
+    "word": "idleness",
+    "ipa": "/ˈaɪdəlnəs/",
+    "meaning": "闲置、无事可做；懒散",
+    "sense": "idle 描写人或机器空着，idleness 则把那段闲着、那种无所事事的状态拿出来说。是否责备，要看为什么闲着。",
+    "split": "古英语 īdelnes 等旧名词延续，现代可对应 idle + -ness，保留末 e，不写 idlness。",
+    "history": [
+      [
+        "古英语 īdel 空、无用、无事 → 中古英语 idel → idle",
+        "未被占用、无活动，部分语境含懒散评价"
+      ],
+      [
+        "旧 īdellīce、īdelnes 等 → idly、idleness",
+        "现代对应方式副词与状态名词；引擎 idle 仍运转"
+      ]
+    ],
+    "explanation": "forced idleness 被迫闲着；a period of idleness 一段闲置期；idleness and boredom 无事可做与无聊。",
+    "usage": "forced idleness；a period of idleness。",
+    "contrast": "idleness 不必是个人不肯工作；缺少任务、停工也可能造成它。leisure 则更偏可自由安排的闲暇。",
+    "examples": [
+      [
+        "The closure forced the workers into weeks of idleness.",
+        "停工让工人连续几周无事可做。"
+      ],
+      [
+        "He enjoyed one afternoon of complete idleness.",
+        "他享受了一个什么也不做的下午。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/idleness#English"
+    ]
+  },
+  {
+    "word": "crank",
+    "ipa": "/kræŋk/",
+    "meaning": "曲柄、摇柄；摇动启动；调高、加强；〔贬〕怪人",
+    "sense": "手柄不在轴心上，握着转一圈就能带动轴，这个弯出的柄是 crank。crank up the volume 则把摇高、加强的感觉借给音量。",
+    "split": "机械义承古英语 crancstæf 等弯柄工具材料。古怪人物义还与弯曲、怪异及来自大陆日耳曼虚弱词的材料交汇；可能由 cranky 逆构，不能只说怪人像手摇机器。",
+    "history": [
+      [
+        "古英语 crancstæf 等弯柄器具材料 → crank",
+        "偏离轴心的弯柄，能传递运动"
+      ],
+      [
+        "弯曲、古怪与虚弱的日耳曼材料交汇 → crank、cranky",
+        "机械构形与人物评价不走唯一单线"
+      ],
+      [
+        "crank + case → crankcase",
+        "容纳曲轴的壳体"
+      ]
+    ],
+    "explanation": "turn the crank 转摇柄；crank an engine 摇柄启动引擎；crank up the volume 调大音量；a crank 怪人，常带贬义。",
+    "usage": "turn the crank；crank up。",
+    "contrast": "crank 名词不必是整根 crankshaft 曲轴；a crank 是带立场的人物评价，非医学诊断。",
+    "examples": [
+      [
+        "He turned the crank to raise the blind.",
+        "他转动摇柄升起百叶帘。"
+      ],
+      [
+        "Someone cranked up the music.",
+        "有人把音乐音量调大了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crank#English",
+      "https://www.etymonline.com/word/crank"
+    ]
+  },
+  {
+    "word": "cranky",
+    "ipa": "/ˈkræŋki/",
+    "meaning": "脾气坏的、易烦躁的；古怪的；〔机器〕运作不顺的",
+    "sense": "一点小事就烦、说话不耐烦，是 cranky；机器老闹别扭，也可以这样形容。不是所有 cranky 都与旋转曲柄有关。",
+    "split": "对应 crank + -y，但历史还交汇弯曲、古怪、虚弱不适等材料；易怒义的具体路线并非单一确定的曲柄比喻。",
+    "history": [
+      [
+        "古英语 crancstæf 等弯柄器具材料 → crank",
+        "偏离轴心的弯柄，能传递运动"
+      ],
+      [
+        "弯曲、古怪与虚弱的日耳曼材料交汇 → crank、cranky",
+        "机械构形与人物评价不走唯一单线"
+      ],
+      [
+        "crank + case → crankcase",
+        "容纳曲轴的壳体"
+      ]
+    ],
+    "explanation": "a cranky child 烦躁的孩子；feel cranky 心烦易怒；a cranky machine 老闹毛病的机器。",
+    "usage": "feel cranky；a cranky machine。",
+    "contrast": "cranky 常是当时状态，不一定评价一个人的永久性格；weird 侧重怪异，irritable 侧重易怒，两者不全相同。",
+    "examples": [
+      [
+        "The children were tired and cranky after the journey.",
+        "旅程结束后，孩子们又累又烦躁。"
+      ],
+      [
+        "The old printer is cranky but still works.",
+        "老打印机老闹别扭，不过还能用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cranky#English",
+      "https://www.etymonline.com/word/cranky"
+    ]
+  },
+  {
+    "word": "crankcase",
+    "ipa": "英 /ˈkræŋkkeɪs/；美 /ˈkræŋkkeɪs/",
+    "meaning": "曲轴箱",
+    "sense": "发动机里曲轴需要容纳它的壳体，这个 case 就是 crankcase。前部借 crank 曲柄词族，实际命名指向曲轴所在部分。",
+    "split": "crank + case 箱、壳 → crankcase，机械复合名词。不是放手摇把的普通收纳盒。",
+    "history": [
+      [
+        "古英语 crancstæf 等弯柄器具材料 → crank",
+        "偏离轴心的弯柄，能传递运动"
+      ],
+      [
+        "弯曲、古怪与虚弱的日耳曼材料交汇 → crank、cranky",
+        "机械构形与人物评价不走唯一单线"
+      ],
+      [
+        "crank + case → crankcase",
+        "容纳曲轴的壳体"
+      ],
+      [
+        "crank + case → crankcase",
+        "发动机中容纳曲轴的壳体"
+      ]
+    ],
+    "explanation": "an engine crankcase 发动机曲轴箱；a crankcase cover 曲轴箱盖；机械图中常与 crankshaft 一起出现。",
+    "usage": "an engine crankcase；a crankcase cover。",
+    "contrast": "crankshaft 是运动轴，crankcase 是容纳它的壳体；case 在这里不是案例、诉讼或电脑机箱的唯一意思。",
+    "examples": [
+      [
+        "The drawing shows the crankshaft inside the crankcase.",
+        "图上画出了曲轴箱内部的曲轴。"
+      ],
+      [
+        "The mechanic pointed to a crack in the crankcase cover.",
+        "机械师指出曲轴箱盖上的一道裂纹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crankcase#English"
+    ]
+  },
+  {
+    "word": "helplessly",
+    "ipa": "/ˈhelpləsli/",
+    "meaning": "无助地；无能为力地",
+    "sense": "想阻止、想帮忙，却没有办法，只能看着事情发生，就是 helplessly 的常见画面。它不只说没人愿意帮，也可能是自己此刻做不到。",
+    "split": "helpless + -ly → helplessly，保留 ss，接 l；不要把 -less 与 -ly 合成一个“不地”的固定整体。",
+    "history": [
+      [
+        "help 帮助 + -less 缺少 → helpless",
+        "缺少帮助或无法行动、应对"
+      ],
+      [
+        "helpless + -ly、-ness",
+        "无能为力地；无助状态和感受"
+      ]
+    ],
+    "explanation": "watch helplessly 无能为力地看着；stand helplessly 无助地站着；laugh helplessly 也可说笑得控制不住。",
+    "usage": "watch helplessly；stand helplessly。",
+    "contrast": "helplessly 不一定是永久能力差；也可因当时条件限制而无计可施。hopelessly 绝望地、无望地是另一个词。",
+    "examples": [
+      [
+        "They watched helplessly as the last train left.",
+        "他们无能为力地看着末班车开走。"
+      ],
+      [
+        "He stood helplessly beside the broken lift.",
+        "他无助地站在坏掉的电梯旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helplessly#English"
+    ]
+  },
+  {
+    "word": "helplessness",
+    "ipa": "/ˈhelpləsnəs/",
+    "meaning": "无助、无能为力；无助感",
+    "sense": "helpless 是“我眼下没办法”，helplessness 把那种处境或感受拿出来说。可以是真做不了，也可以是主观觉得做不了。",
+    "split": "helpless + -ness → helplessness，两个词尾分工：-less 先形成缺少帮助、能力的形容词，-ness 再把性质变名词。",
+    "history": [
+      [
+        "help 帮助 + -less 缺少 → helpless",
+        "缺少帮助或无法行动、应对"
+      ],
+      [
+        "helpless + -ly、-ness",
+        "无能为力地；无助状态和感受"
+      ]
+    ],
+    "explanation": "a sense of helplessness 无助感；feelings of helplessness 无能为力的感受；the helplessness of a situation 某种处境的无奈。",
+    "usage": "a sense of helplessness；feelings of helplessness。",
+    "contrast": "helplessness 不等于一个人毫无价值；它描述状态、感受。hopelessness 重点是看不到希望，不能只凭中文都难受就混用。",
+    "examples": [
+      [
+        "The long wait left her with a sense of helplessness.",
+        "漫长等待让她产生了无助感。"
+      ],
+      [
+        "The novel captures the helplessness of people who cannot influence the decision.",
+        "小说写出了那些无力影响决定的人们的无奈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helplessness#English"
+    ]
+  },
+  {
+    "word": "communism",
+    "ipa": "英 /ˈkɒmjʊnɪzəm/；美 /ˈkɑːmjənɪzəm/",
+    "meaning": "共产主义；相关政治思想、运动或制度",
+    "sense": "先想工厂、土地等生产资料由社会共同占有这一主张；现代政治用法还涉及相应的社会组织理论。读文章时还要分作者是在谈理论理想，还是历史上的运动和制度。",
+    "split": "借法语 communisme，由 commun 共同的 + -isme 构成，远接拉丁 communis。现代可辨认 commun- 与 -ism，但不是把 communicate 沟通删掉词尾。",
+    "history": [
+      [
+        "拉丁 communis 共同的 → 法语 commun",
+        "共同占有、共享的材料"
+      ],
+      [
+        "法语 commun + -isme → communisme → communism",
+        "政治思想、社会理想及历史制度用语"
+      ]
+    ],
+    "explanation": "the history of communism 共产主义史；communism in theory and practice 理论与实践中的共产主义；不同历史、理论语境范围有差别。",
+    "usage": "the history of communism；the theory of communism。",
+    "contrast": "communism 不等于日常合作或分享东西；理论中的无阶级社会理想与历史政体的描述也不能一律当同一义项。",
+    "examples": [
+      [
+        "The course includes a chapter on the history of communism.",
+        "课程有一章讨论共产主义史。"
+      ],
+      [
+        "The essay distinguishes communism as a theoretical ideal from its historical political forms.",
+        "文章区分了作为理论理想的共产主义与它的历史政治形式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/communism#English",
+      "https://www.merriam-webster.com/dictionary/communism"
+    ]
+  },
+  {
+    "word": "nitrogen",
+    "ipa": "/ˈnaɪtrədʒən/",
+    "meaning": "氮；氮气",
+    "sense": "空气里最多的气体成分不是氧气，而是氮气。nitrogen 也能说氮元素本身；进到蛋白质、化合物里的氮，不必仍是一团气。",
+    "split": "借法国化学家 Chaptal 于1790年所造 nitrogène，nitro- 接硝材料，-gène 接生成。历史命名方向不等于氮只存在于硝中。",
+    "history": [
+      [
+        "法语 nitro- 硝相关材料 + -gène 生成 → nitrogène",
+        "Chaptal 于1790年造名，联系硝的形成"
+      ],
+      [
+        "英语 nitrogen → nitr- + -ide → nitride",
+        "氮元素、氮气；氮化物类别"
+      ]
+    ],
+    "explanation": "nitrogen gas 氮气；liquid nitrogen 液氮；the nitrogen cycle 氮循环；元素符号 N，氮气通常写 N₂。空气中的氮约占体积的78%。",
+    "usage": "nitrogen gas；the nitrogen cycle。",
+    "contrast": "nitrogen 元素与 nitrogen gas 形态要分；不能说含氮分子都是氮气，也不能把78%误写成空气质量比例。",
+    "examples": [
+      [
+        "Nitrogen makes up most of the air by volume.",
+        "按体积计，氮气占空气的大部分。"
+      ],
+      [
+        "The diagram shows nitrogen moving through the ecosystem.",
+        "图示展示氮在生态系统中的流动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nitrogen#English",
+      "https://www.etymonline.com/word/nitrogen",
+      "https://periodic-table.rsc.org/element/7/nitrogen"
+    ]
+  },
+  {
+    "word": "nitride",
+    "ipa": "/ˈnaɪtraɪd/",
+    "meaning": "氮化物；使表面氮化",
+    "sense": "名字里有 nitrogen 的缩短材料和化合物词尾 -ide。它说特定氮化物这一类，不是凡有一个氮原子的物质都这样叫。",
+    "split": "nitr(ogen) 的缩短词干 + -ide → nitride，化学命名；也作使材料发生氮化处理的动词。",
+    "history": [
+      [
+        "法语 nitro- 硝相关材料 + -gène 生成 → nitrogène",
+        "Chaptal 于1790年造名，联系硝的形成"
+      ],
+      [
+        "英语 nitrogen → nitr- + -ide → nitride",
+        "氮元素、氮气；氮化物类别"
+      ],
+      [
+        "nitr- + -ide → nitride",
+        "氮化物名称，再用作氮化动词"
+      ]
+    ],
+    "explanation": "silicon nitride 氮化硅；boron nitride 氮化硼；名称前部指出与氮相结合的相应元素。",
+    "usage": "silicon nitride；boron nitride。",
+    "contrast": "nitride 氮化物不同于 nitrate 硝酸盐、nitrite 亚硝酸盐；尾巴不是可以随意互换的拼法。",
+    "examples": [
+      [
+        "The report compares silicon nitride with other ceramics.",
+        "报告把氮化硅与其他陶瓷作了比较。"
+      ],
+      [
+        "Boron nitride appears in the materials list.",
+        "材料清单中列有氮化硼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nitride#English"
+    ]
+  }
+]

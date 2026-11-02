@@ -1,0 +1,111 @@
+[
+  {
+    "id": "A1701",
+    "meaning": "微小、微型、小范围；单位中严格为百万分之一",
+    "core": "MICRO-：普通词说小，单位词给精确比例",
+    "image": "microscope 器具 → microscopy 方法；microbiology → microbiological；microsecond 给单位；microbrewery 说规模。",
+    "intro": "先判断是不是单位。单位以外，把小落到具体对象：纤维细、芯片部件小、博客短、酒厂规模小，或经济分析关注个体。不能每个词都套固定百万分之一。",
+    "forms": "希腊 mikrós 小 → micro-；后接对象、观察词尾、学科、单位或活动名称。\n\nmicro- 远接希腊 mikros 小；现代微秒、微克、微米中约定百万分之一。micrometers 也可指多把测微仪，-meter 是仪器构词成分，另有重音。\n\nmicro- 百万分之一，gram 克；microgram 是一克的百万分之一，micrograms 给整个单位名加复数 -s。",
+    "branches": [
+      [
+        "观察器具与方法",
+        "microscope · microscopy · microphone · microwave"
+      ],
+      [
+        "生命科学与结构",
+        "microbiology · microbiologist · microbiological · microarray · microtubule · microsatellite · microorganism · microbiome · microbiota"
+      ],
+      [
+        "尺寸、材料与单位",
+        "microfiber · microscale · microstructure · microsecond · micrometer"
+      ],
+      [
+        "计算部件与信息形式",
+        "microchip · microprocessor · microcomputer · microcontroller · microfilm · microblogging"
+      ],
+      [
+        "小规模、局部范围与管理",
+        "microbrewery · microeconomics · microeconomic · microfinance · microcredit · microclimate · microenvironment · micromanage · micromanagement"
+      ],
+      [
+        "其他固定领域义",
+        "microcosm · microgravity · micronutrient · microsurgery"
+      ],
+      [
+        "micro-：百万分之一的单位，与测微仪的另一构词线",
+        "microseconds · micrograms · micrometers"
+      ],
+      [
+        "micro- + gram：微克单数到复数",
+        "microgram · micrograms"
+      ]
+    ],
+    "contrasts": "microsecond 严格 10⁻⁶ 秒；microbrewery 不以百万分之一家酒厂理解；microsatellite 的 DNA 与航天义分开；microgravity 也不是绝对无重力。",
+    "practice": "The microscale process takes only a few microseconds.\n\n这个微尺度过程只需要几微秒。",
+    "words": [
+      "microscope",
+      "microscopy",
+      "microphone",
+      "microwave",
+      "microbiology",
+      "microbiologist",
+      "microbiological",
+      "microarray",
+      "microtubule",
+      "microsatellite",
+      "microorganism",
+      "microbiome",
+      "microbiota",
+      "microfiber",
+      "microscale",
+      "microstructure",
+      "microsecond",
+      "micrometer",
+      "microchip",
+      "microprocessor",
+      "microcomputer",
+      "microcontroller",
+      "microfilm",
+      "microblogging",
+      "microbrewery",
+      "microeconomics",
+      "microeconomic",
+      "microfinance",
+      "microcredit",
+      "microclimate",
+      "microenvironment",
+      "micromanage",
+      "micromanagement",
+      "microcosm",
+      "microgravity",
+      "micronutrient",
+      "microsurgery",
+      "microseconds",
+      "micrograms",
+      "micrometers",
+      "microgram"
+    ],
+    "exclude": {
+      "micro-region": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-location": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-pulling-down": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-viral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-cheat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-amp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-irrigation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-optimization": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-volt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-floppy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-retailing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-ohm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-annotation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-joule": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "microfluidic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "microglia": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "microcephaly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "microvascular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "microelectronic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

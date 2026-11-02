@@ -1,0 +1,546 @@
+[
+  {
+    "word": "fury",
+    "ipa": "英 /ˈfjʊəri/；美 /ˈfjʊri/",
+    "meaning": "狂怒、盛怒；猛烈的力量",
+    "sense": "怒气强到像压不住地冲出来，是 fury。风暴等自然力量异常猛烈，也能借这个词说它的狂暴。",
+    "split": "经古法语 furie、fuire 接拉丁 furia 狂怒、激烈情绪，和 furere 发怒有关，更早来源未定。furious 也借相关拉丁、法语形式，不只是现代 fury 随手换尾。",
+    "history": [
+      [
+        "拉丁 furia、furere → 法语 furie → fury",
+        "狂怒、强烈情绪；更早词源未确定"
+      ],
+      [
+        "英语 fury 的常用扩展",
+        "怒火 → 风暴等猛烈、狂暴的力量"
+      ]
+    ],
+    "explanation": "in a fury 盛怒之中；shake with fury 气得发抖；the fury of the storm 风暴的猛烈。",
+    "usage": "a burst of fury 一阵狂怒；control his fury 控制怒火。",
+    "contrast": "fury 比一般 anger 更突出强烈程度。神话里大写 Furies 还可指复仇女神群体，现代普通怒气义不要每次都强行代入神话人物。",
+    "examples": [
+      [
+        "He shook with fury when he heard the lie.",
+        "听到那句谎话，他气得发抖。"
+      ],
+      [
+        "The trees bent under the fury of the storm.",
+        "树木在猛烈风暴中弯下了身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fury#English",
+      "https://www.etymonline.com/word/fury"
+    ]
+  },
+  {
+    "word": "infuriated",
+    "ipa": "英 /ɪnˈfjʊərieɪtɪd/；美 /ɪnˈfjʊrieɪtɪd/",
+    "meaning": "被激怒的、十分恼火的；激怒了〔过去式、过去分词〕",
+    "sense": "原本还算平静，被某件事惹得怒火上来，是 infuriated。它可以说人的状态，也可以说某件事已经把人激怒。",
+    "split": "infuriate 接中世纪拉丁 infuriatus、infuriare 使发怒，也有经意大利 infuriato 的近源分析，连拉丁 in furia 在怒火中。现代去 e 加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 furia、in furia → 中世纪 infuriare、infuriatus；意大利相关形式",
+        "怒火之中 → 使人狂怒"
+      ],
+      [
+        "infuriate 去 e + -ed → infuriated",
+        "已经激怒；感到极度愤怒的"
+      ]
+    ],
+    "explanation": "infuriated by the delay 因延误十分恼火；infuriated him 激怒了他；an infuriated customer 盛怒的顾客。",
+    "usage": "absolutely infuriated 气极了；infuriated at the remark 因那句话气愤。",
+    "contrast": "infuriated 通常说受到刺激后的怒气；infuriating 常说那个让人恼火的因素。人被激怒和事情惹人怒，方向分清。",
+    "examples": [
+      [
+        "The repeated delays infuriated her.",
+        "反复延误让她十分恼火。"
+      ],
+      [
+        "He was infuriated by the careless remark.",
+        "那句轻率的话激怒了他。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/infuriated#English",
+      "https://www.etymonline.com/word/infuriate"
+    ]
+  },
+  {
+    "word": "infuriating",
+    "ipa": "英 /ɪnˈfjʊərieɪtɪŋ/；美 /ɪnˈfjʊrieɪtɪŋ/",
+    "meaning": "令人极恼火的、使人发怒〔形容词、现在分词〕",
+    "sense": "一件事反复不顺，又让人觉得不该这样，实在惹火，就是 infuriating。它把焦点放在引起愤怒的事上。",
+    "split": "infuriate 连拉丁 furia 狂怒及中世纪使人发怒动词材料，也有意大利近源。现代去末尾 e，加完整 -ing，分词可固定作令人恼火的形容词。",
+    "history": [
+      [
+        "拉丁怒火材料 → infuriate",
+        "使人进入强烈愤怒"
+      ],
+      [
+        "infuriate 去 e + -ing → infuriating",
+        "正在激怒；能使人恼火的"
+      ]
+    ],
+    "explanation": "an infuriating delay 恼人的延误；find it infuriating 觉得它令人气愤；an infuriating mistake 让人恼火的错误。",
+    "usage": "deeply infuriating 极令人恼火的；an infuriating habit 让人受不了的习惯。",
+    "contrast": "The delay is infuriating 说延误惹人生气；I am infuriated 说我被激怒。和 interesting、interested 一样，不能只背一个中文就忽略方向。",
+    "examples": [
+      [
+        "The constant delays were infuriating.",
+        "不断延误令人十分恼火。"
+      ],
+      [
+        "She has an infuriating habit of interrupting.",
+        "她有个老爱打断人的恼人习惯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/infuriating#English",
+      "https://www.etymonline.com/word/infuriate"
+    ]
+  },
+  {
+    "word": "burial",
+    "ipa": "/ˈberiəl/",
+    "meaning": "埋葬、安葬；埋入的过程或状态",
+    "sense": "把遗体安放到地下等安葬地点，是 burial 的常见义。它也能在地质、考古等语境讲材料被埋在下面的过程。",
+    "split": "历史先有古英语 byrgels 墓、埋葬处，连 byrgan 埋与旧名词尾 -els；后来的 s 被误当复数而去掉，词形又受动作名词 -al 影响。现代可按 bury 改 y 为 i 加 -al 认形，但不能省掉这段重新分析。",
+    "history": [
+      [
+        "古英语 byrgan + -els → byrgels；中古英语旧名词变化",
+        "埋 → 墓、埋葬处；末尾 s 后被当作复数去除"
+      ],
+      [
+        "词尾重新分析、拼写变化 → burial",
+        "现代对应 bury + -al：埋葬、被埋入"
+      ]
+    ],
+    "explanation": "a burial site 埋葬地点；burial at sea 海葬；an ancient burial 古代埋葬遗迹或一次安葬。",
+    "usage": "burial ground 墓地；the burial of the remains 遗骸的安葬。",
+    "contrast": "burial 读音与 bury 一样从 /ber/ 起，不按 u 机械读。现代认形的后缀是 -al，buri- 的 i 来自词形对应；历史又有旧 -els 的变化，不能只看字母 ial 就断言全部是同一后缀。",
+    "examples": [
+      [
+        "The archaeologists found an ancient burial site.",
+        "考古人员发现了一处古代埋葬地点。"
+      ],
+      [
+        "The book describes a burial at sea.",
+        "书中描写了一次海葬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/burial#English",
+      "https://www.etymonline.com/word/burial"
+    ]
+  },
+  {
+    "word": "burials",
+    "ipa": "/ˈberiəlz/",
+    "meaning": "埋葬、安葬事件；埋葬遗迹〔复数〕",
+    "sense": "一处遗址里有几个不同年代的埋葬痕迹，可以说 burials。它可以数安葬事件，也可以按考古语境指留下的埋葬遗迹。",
+    "split": "burial 的旧名词经过古英语 byrgels、末尾 s 的重新分析，现代对应 bury 与 -al。现在的复数重新在整个 burial 后加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 byrgels 经词形重新分析 → burial",
+        "墓、埋葬处 → 埋葬事件与状态"
+      ],
+      [
+        "burial + -s → burials",
+        "现代复数 s；多个安葬事件或遗迹"
+      ]
+    ],
+    "explanation": "ancient burials 古代埋葬遗迹；several burials 多次或多处埋葬；burials at the site 遗址中的埋葬。",
+    "usage": "records of burials 埋葬记录；burials from different periods 不同时期的埋葬遗迹。",
+    "contrast": "现代 burials 的 s 是复数，历史 byrgels 的 s 却曾属于旧词尾。相同字母在不同时代的分析不同，别把整个演化当作重复加减同一个现代后缀。",
+    "examples": [
+      [
+        "The site contains burials from different periods.",
+        "这处遗址有不同时期的埋葬遗迹。"
+      ],
+      [
+        "The records describe several burials near the church.",
+        "记录记述了教堂附近的几次埋葬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/burials#English",
+      "https://www.etymonline.com/word/burial"
+    ]
+  },
+  {
+    "word": "stampede",
+    "ipa": "/stæmˈpiːd/",
+    "meaning": "兽群惊奔；群体突然争先涌动；惊奔〔动词〕",
+    "sense": "一群牲畜受惊，同时猛冲起来，是 stampede。后来借来讲人群或某种群体突然争先涌向一处，突出集体、突然、难以平静。",
+    "split": "经墨西哥西班牙 estampida，较早是喧响、巨响材料，通过普罗旺斯、奥克相关形式接日耳曼踏压词族，与 stamp 同族。不是现代 stamp 加一个独立英语 -ede。",
+    "history": [
+      [
+        "日耳曼踏压材料 → 罗曼语相关形式 → 西班牙 estampida",
+        "跺、压、巨响 → 兽群受惊奔逃"
+      ],
+      [
+        "墨西哥西班牙借入 → stampede 的名动词及比喻",
+        "群体惊奔；群体突然争先涌动"
+      ]
+    ],
+    "explanation": "a cattle stampede 牛群惊奔；a stampede for tickets 一窝蜂争票；the herd began to stampede 兽群开始惊奔。",
+    "usage": "a sudden stampede 突然的惊奔；a stampede of animals 动物成群奔逃。",
+    "contrast": "stampede 强调成群、突然涌动，不是每次安静跑步。它和 stamp 的联系在旧词族、借词路线里，不是 stamp 的普通时态变化。",
+    "examples": [
+      [
+        "A loud noise caused a stampede among the cattle.",
+        "一声巨响使牛群受惊奔跑。"
+      ],
+      [
+        "The cattle began to stampede across the field.",
+        "牛群开始受惊冲过田野。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stampede#English",
+      "https://www.etymonline.com/word/stampede"
+    ]
+  },
+  {
+    "word": "stampedes",
+    "ipa": "/stæmˈpiːdz/",
+    "meaning": "群体惊奔、争先涌动〔复数〕；惊奔〔第三人称单数〕",
+    "sense": "不同时候出现几次兽群突然奔逃，是 stampedes；一个作为整体看待的 herd 开始惊奔，动词也可写 stampedes。",
+    "split": "stampede 经西班牙 estampida，连旧日耳曼踏压词族；英语整个 stampede 后加 -s，/d/ 后读 /z/，末尾 e 不单发音。",
+    "history": [
+      [
+        "旧踏压材料 → 西班牙 estampida → stampede",
+        "巨响、奔动 → 群体惊奔"
+      ],
+      [
+        "stampede + -s → stampedes",
+        "多次惊奔；某个群体突然奔逃"
+      ]
+    ],
+    "explanation": "cattle stampedes 牛群惊奔事件；sudden stampedes 突然的群体奔逃；the herd stampedes 兽群惊奔。",
+    "usage": "accounts of stampedes 惊奔事件的记述；stampedes in the story 故事里的惊奔场面。",
+    "contrast": "stampedes 可以是名词复数，动词单复数则看 herd 等主语怎样用。常用名词事件义先掌握，不必把所有普通奔跑都说成 stampede。",
+    "examples": [
+      [
+        "The chapter describes two cattle stampedes.",
+        "这一章描写了两次牛群惊奔。"
+      ],
+      [
+        "In the scene, the herd stampedes across the valley.",
+        "这一幕里，兽群受惊冲过山谷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stampedes#English",
+      "https://en.wiktionary.org/wiki/stampede#English"
+    ]
+  },
+  {
+    "word": "stampeding",
+    "ipa": "/stæmˈpiːdɪŋ/",
+    "meaning": "成群惊奔、争先涌动〔现在分词、动名词〕",
+    "sense": "一群动物同时惊慌地冲起来，是 stampeding。画面里先看一整个群体的动作，不能只看某一只跑得快。",
+    "split": "stampede 的借词路线经西班牙语接较早踏压材料。现代去末尾 e，加完整 -ing，词干 /d/ 保留，不双写 d，因为前面 ee 是元音字母组合。",
+    "history": [
+      [
+        "旧踏压词族经罗曼语 → 英语 stampede",
+        "群体突然惊奔；也有群体争先的比喻"
+      ],
+      [
+        "stampede 去 e + -ing → stampeding",
+        "正在成群奔逃；惊奔的过程"
+      ]
+    ],
+    "explanation": "stampeding cattle 惊奔的牛群；a stampeding herd 正在奔逃的兽群；stampeding across the plain 惊奔过平原。",
+    "usage": "the sound of stampeding animals 动物成群奔跑的声音；stampeding in panic 惊慌奔逃。",
+    "contrast": "stampeding 的尾巴是 -ing，前面的 -ede 属借入的词干。这里去 e 的现代拼写变化，并不说明英语里存在单独的 stampe 动词。",
+    "examples": [
+      [
+        "Dust rose behind the stampeding cattle.",
+        "惊奔牛群身后扬起了尘土。"
+      ],
+      [
+        "The film shows horses stampeding across the plain.",
+        "电影里有马群受惊冲过平原的场面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stampeding#English",
+      "https://en.wiktionary.org/wiki/stampede#English"
+    ]
+  },
+  {
+    "word": "beers",
+    "ipa": "英 /bɪəz/；美 /bɪrz/",
+    "meaning": "几杯、几瓶或几种啤酒〔复数〕",
+    "sense": "beer 泛说啤酒这种饮品，two beers 常按语境说两杯、两瓶或两份。谈 different beers，又可能是在数不同种类。",
+    "split": "beer 继承古英语 beor，较远来源有争议，拉丁 biber 饮品借源说只是方案之一。现代直接加 -s，英音元音、美音 /r/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 beor → beer",
+        "啤酒；更远词源不强定"
+      ],
+      [
+        "beer + -s → beers",
+        "按杯份、瓶或种类计数的复数用法"
+      ]
+    ],
+    "explanation": "two beers 两杯、两瓶或两份啤酒；different beers 不同啤酒；local beers 当地啤酒种类。",
+    "usage": "a list of beers 啤酒品类表；beers on the menu 菜单上的啤酒。",
+    "contrast": "beers 的计量由场景补足，不是英语把液体本身一滴滴数起来。若强调确切包装，可以明确 two bottles of beer。",
+    "examples": [
+      [
+        "The menu lists several local beers.",
+        "菜单列出了几种当地啤酒。"
+      ],
+      [
+        "In the film, they order two beers with dinner.",
+        "电影里，他们吃晚饭时点了两份啤酒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beers#English",
+      "https://en.wiktionary.org/wiki/beer#English"
+    ]
+  },
+  {
+    "word": "bells",
+    "ipa": "/belz/",
+    "meaning": "钟、铃；钟铃声〔复数〕",
+    "sense": "敲击或摇动后发出清亮声的器物，是 bells。几个钟、几枚铃，或者它们一起响起的声音，都能在句子里用这个复数。",
+    "split": "bell 继承古英语 belle，相关鸣响词历史也很早。现代直接加 -s，/l/ 后读 /z/，不额外添加音节。",
+    "history": [
+      [
+        "古英语 belle → bell",
+        "钟、铃；与鸣响材料相连"
+      ],
+      [
+        "bell + -s → bells",
+        "多个钟铃；相关响声"
+      ]
+    ],
+    "explanation": "church bells 教堂钟声；small bells 小铃铛；hear the bells 听见钟声。",
+    "usage": "ring the bells 敲钟、摇铃；bells on the door 门上的铃铛。",
+    "contrast": "bells 在 hear the bells 里常借器物说其声音；a box of bells 则多是实际铃铛。不是见到复数就必须译成几个声音。",
+    "examples": [
+      [
+        "Small bells hung above the door.",
+        "门上方挂着几枚小铃铛。"
+      ],
+      [
+        "We heard the church bells at noon.",
+        "中午我们听到了教堂钟声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bells#English",
+      "https://en.wiktionary.org/wiki/bell#English"
+    ]
+  },
+  {
+    "word": "bosses",
+    "ipa": "英 /ˈbɒsɪz/；美 /ˈbɑːsɪz/",
+    "meaning": "上司、负责人〔复数〕；对人发号施令〔第三人称单数〕；凸起物〔另源复数〕",
+    "sense": "负责管事的人有几位，是 bosses；某个人总爱命令别人，动词也可说 bosses people around。凸起物的同形名词则从另一来源认识。",
+    "split": "负责人 boss 借荷兰 baas、中古荷兰 baes；凸起义另接法语 bosse 等。现代 /s/ 后加 -es，读 /ɪz/；拼写保留词干原来的 ss。",
+    "history": [
+      [
+        "荷兰人物词 → boss；法语凸起词 → 另一 boss",
+        "管事者；器物凸起部分，近源分开"
+      ],
+      [
+        "boss + -es → bosses",
+        "多位上司、凸起物；某人发号施令"
+      ]
+    ],
+    "explanation": "her former bosses 她以前的上司；department bosses 部门负责人；bosses everyone around 对所有人发号施令。",
+    "usage": "different bosses 不同上司；bosses on a shield 盾牌上的凸起物〔历史器物语境〕。",
+    "contrast": "bosses around 带批评意味，说仗着姿态使唤别人；bosses 作普通上司名词时则未必带这层批评。",
+    "examples": [
+      [
+        "She has worked for several different bosses.",
+        "她曾在几位不同上司手下工作。"
+      ],
+      [
+        "He bosses everyone around.",
+        "他对谁都爱发号施令。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bosses#English",
+      "https://en.wiktionary.org/wiki/boss#English"
+    ]
+  },
+  {
+    "word": "brakes",
+    "ipa": "/breɪks/",
+    "meaning": "制动器、刹车〔复数〕；制动、刹车〔第三人称单数〕",
+    "sense": "让正在运动的车慢下来、停下来的是 brakes；司机采取这个动作，句子里也会用 brakes。名词的器具与动词的动作紧接着记。",
+    "split": "brake 的制动装置义从压碎工具、杠杆、约束器具等相关旧用法逐渐汇合，细节有讨论；制动动词再由装置名发展。现代加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "brake 的工具、杠杆等旧用法 → 现代制动器",
+        "约束运动的器具；具体历史连接不强定"
+      ],
+      [
+        "brake + -s → brakes",
+        "多套制动器；某人制动"
+      ]
+    ],
+    "explanation": "apply the brakes 踩刹车、制动；bicycle brakes 自行车刹车；brakes gently 轻轻制动。",
+    "usage": "the car’s brakes 汽车制动器；put the brakes on 比喻使某事减速、受约束。",
+    "contrast": "brakes 与 breaks 打破、休息同音。the brakes work 说制动器能用，he breaks it 说他把它弄坏，拼写和句法都要分清。",
+    "examples": [
+      [
+        "The bicycle has new brakes.",
+        "这辆自行车装了新刹车。"
+      ],
+      [
+        "The driver brakes gently as the road bends.",
+        "道路拐弯时，司机轻轻制动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brakes#English",
+      "https://en.wiktionary.org/wiki/brake#English"
+    ]
+  },
+  {
+    "word": "smiles",
+    "ipa": "/smaɪlz/",
+    "meaning": "微笑、露出笑容〔第三人称单数〕；笑容〔复数〕",
+    "sense": "嘴角扬起来，用表情传出友好或开心，是 smiles；照片上一张张笑脸，可以把那些笑容说成 smiles。",
+    "split": "smile 接中古英语 smilen，较早可能联系低地德语或北欧笑词；名词从动词发展。现代直接加 -s，/l/ 后读 /z/，保留末尾不发音 e。",
+    "history": [
+      [
+        "中古英语 smilen → smile",
+        "微笑；更早借源路线有不同解释"
+      ],
+      [
+        "smile + -s → smiles",
+        "某人微笑；多个笑容"
+      ]
+    ],
+    "explanation": "smiles at us 向我们微笑；friendly smiles 友好的笑容；full of smiles 满面笑容。",
+    "usage": "smiles warmly 热情地微笑；exchange smiles 相视而笑。",
+    "contrast": "smile 常比 laugh 更安静，突出表情；laugh 常带发笑动作和声音。a smile 可以没有笑出声。",
+    "examples": [
+      [
+        "She smiles when she sees us.",
+        "她看到我们就微笑。"
+      ],
+      [
+        "The children greeted us with broad smiles.",
+        "孩子们带着灿烂笑容迎接我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smiles#English",
+      "https://en.wiktionary.org/wiki/smile#English"
+    ]
+  },
+  {
+    "word": "sponsors",
+    "ipa": "英 /ˈspɒnsəz/；美 /ˈspɑːnsərz/",
+    "meaning": "赞助者、支持机构〔复数〕；赞助、支持〔第三人称单数〕",
+    "sense": "拿出资源支持一个活动、项目或人的主体，是 sponsors；某家公司给活动提供支持，则是它 sponsors 那个活动。",
+    "split": "sponsor 借拉丁 sponsor 担保者，连 spondere 郑重承诺；早期英语有洗礼担保人等用法，现代动词由名词转用。再加 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁 spondere、sponsor → 英语 sponsor",
+        "作承诺、担保者 → 支持、赞助主体"
+      ],
+      [
+        "名词转动词；sponsor + -s → sponsors",
+        "多位赞助者；某主体赞助"
+      ]
+    ],
+    "explanation": "event sponsors 活动赞助方；thank the sponsors 感谢赞助者；sponsors an exhibition 赞助展览。",
+    "usage": "local sponsors 当地赞助机构；sponsors the team 赞助球队。",
+    "contrast": "sponsors 强调支持、承担某种资源角色，organisers 强调组织活动。实际同一主体可以兼任，但两个角色不是自动相同。",
+    "examples": [
+      [
+        "The club thanked its sponsors.",
+        "俱乐部感谢了赞助方。"
+      ],
+      [
+        "The company sponsors a local art show.",
+        "公司赞助了当地一场艺术展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sponsors#English",
+      "https://en.wiktionary.org/wiki/sponsor#English"
+    ]
+  },
+  {
+    "word": "stamps",
+    "ipa": "/stæmps/",
+    "meaning": "邮票；印章、印记〔复数〕；跺、盖印〔第三人称单数〕",
+    "sense": "用力往下一按，留下印记，是 stamp 的老画面；印记、印章后来连到邮资标签，也就是 stamps 的邮票义。跺脚仍保留猛压地面的动作。",
+    "split": "stamp 接中古英语 stampen、古英语 stempan 等捣、踏材料，元音变化可能受北欧形式影响。现代直接加 -s，/p/ 后读 /s/。",
+    "history": [
+      [
+        "古英语、日耳曼踏压材料 → stamp",
+        "跺、猛压 → 压出的印记、印章"
+      ],
+      [
+        "邮资标签等发展；stamp + -s → stamps",
+        "多枚邮票或印章；某人跺、盖印"
+      ]
+    ],
+    "explanation": "collect stamps 集邮；postage stamps 邮票；stamps the form 在表格上盖章；stamps his feet 跺脚。",
+    "usage": "a sheet of stamps 一版邮票；rubber stamps 橡皮印章。",
+    "contrast": "stamps 和 stampedes 同有较早踏压词族联系，但 stampedes 经西班牙语等借入，不能当作 stamp 的普通复数或时态变化。",
+    "examples": [
+      [
+        "She collects stamps from different countries.",
+        "她收集不同国家的邮票。"
+      ],
+      [
+        "He stamps the form before returning it.",
+        "他先在表格上盖章，再把它交回。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stamps#English",
+      "https://en.wiktionary.org/wiki/stamp#English"
+    ]
+  },
+  {
+    "word": "canceled",
+    "ipa": "/ˈkænsəld/",
+    "meaning": "取消了、撤销的〔过去式、过去分词，常用美式拼写〕",
+    "sense": "原来已经安排好的事，后来决定不举行或不再生效，是 canceled。它侧重把原有安排撤掉，不只是拖到以后。",
+    "split": "cancel 经法语 canceler 接拉丁 cancellare 画交叉格线、划掉，较早 cancelli 栅格。现代直接加完整 -ed，常用美式 canceled 保持一个 l；cancelled 双 l 是对应形式，读音相同，尾 /d/。",
+    "history": [
+      [
+        "拉丁 cancelli、cancellare → 法语、英语 cancel",
+        "栅格、交叉线 → 划掉、撤销"
+      ],
+      [
+        "cancel + -ed → canceled；双 l 的 cancelled 为对应形式",
+        "已经取消；拼写差别不改变这里的意思"
+      ]
+    ],
+    "explanation": "canceled the meeting 取消会议；a canceled flight 被取消的航班；canceled the order 撤销订单。",
+    "usage": "the event was canceled 活动被取消；canceled in advance 提前取消了。",
+    "contrast": "canceled 不等于 postponed 推迟。推迟通常仍计划以后进行，取消则撤掉原安排；将来是否另办，需要另说。",
+    "examples": [
+      [
+        "The outdoor concert was canceled because of rain.",
+        "露天音乐会因雨取消了。"
+      ],
+      [
+        "She canceled the meeting and sent everyone a message.",
+        "她取消了会议，并给大家发了消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/canceled#English",
+      "https://en.wiktionary.org/wiki/cancel#English"
+    ]
+  }
+]

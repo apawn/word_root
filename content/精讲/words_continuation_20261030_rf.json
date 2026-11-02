@@ -1,0 +1,632 @@
+[
+  {
+    "word": "downturn",
+    "ipa": "英 /ˈdaʊntɜːn/；美 /ˈdaʊntɜːrn/",
+    "meaning": "下滑；衰退、低迷",
+    "sense": "一条原本平稳或上升的曲线，拐头往下走；销量、经济活动、运气等都可有 a downturn。",
+    "split": "down- 向下 + turn 转向，把方向变化转成下降时期、趋势的名词。不是每个 turn 都是一场轮流表演。",
+    "history": [
+      [
+        "down + turn",
+        "转向下方"
+      ],
+      [
+        "downturn",
+        "表现、活动水平的下滑"
+      ]
+    ],
+    "explanation": "an economic downturn 经济低迷；a downturn in sales 销量下降。可指一段走弱时期，不只某一个数值变小。",
+    "usage": "a sharp downturn；a downturn in demand。",
+    "contrast": "downturn 偏下滑趋势、时期；recession 衰退有更具体经济用法，不能看到任何 downturn 都宣称已经达到某个正式标准。",
+    "examples": [
+      [
+        "The shop saw a downturn in sales after the holiday.",
+        "假期后，这家店的销量出现了下滑。"
+      ],
+      [
+        "The report describes a sharp downturn in demand.",
+        "报告描述了需求的急剧下降。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downturn#English"
+    ]
+  },
+  {
+    "word": "downpour",
+    "ipa": "英 /ˈdaʊnpɔː/；美 /ˈdaʊnpɔːr/",
+    "meaning": "倾盆大雨；暴雨",
+    "sense": "不是几滴雨落下来，而像天上开了个大水桶，一下往下倒。",
+    "split": "down- 向下 + pour 倾倒，形成大量雨水落下的名词。这个画面帮助理解，但天气不会真的拿桶倒水。",
+    "history": [
+      [
+        "down + pour",
+        "大量向下倾倒"
+      ],
+      [
+        "downpour",
+        "倾盆而下的一场雨"
+      ]
+    ],
+    "explanation": "a sudden downpour 突如其来的大雨；caught in a downpour 赶上一场暴雨。常可数，a downpour 指一场或一阵。",
+    "usage": "a heavy downpour；a sudden downpour。",
+    "contrast": "drizzle 毛毛雨、shower 一阵雨、downpour 大雨各有强度和形态侧重；不能把所有 shower 都理解为倾盆暴雨。",
+    "examples": [
+      [
+        "We sheltered under a bridge during the downpour.",
+        "倾盆大雨中，我们躲在桥下。"
+      ],
+      [
+        "A sudden downpour emptied the outdoor café.",
+        "一场突如其来的大雨让露天咖啡馆的客人都离开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downpour#English"
+    ]
+  },
+  {
+    "word": "trodden",
+    "ipa": "英 /ˈtrɒdən/；美 /ˈtrɑːdən/",
+    "meaning": "踩过、践踏过的；tread 的过去分词",
+    "sense": "地上原本松软，被许多脚踩出痕迹，便是 trodden；词形里换了元音，不是另一个“trodd”词根。",
+    "split": "tread 的历史分词形式，经中古英语 troden 等延续；与现代 tread、trod 配套，是旧强变化形式，不用机械写 treaded 来替代所有踏踩用法。",
+    "history": [
+      [
+        "古英语 tread 相关分词 → 中古英语 troden",
+        "踩踏过的动作形式"
+      ],
+      [
+        "现代 trodden",
+        "tread 的分词及形容词用法"
+      ]
+    ],
+    "explanation": "a well-trodden path 常有人走的路；have trodden on 踩过。带连字符的短语只作说明，这页头词是 trodden 本身。",
+    "usage": "trodden grass；have trodden on。",
+    "contrast": "trod 常作过去式，trodden 常作过去分词；thread 线、穿线的拼写与词义不同，不要把 th、r 的位置看混。",
+    "examples": [
+      [
+        "The grass had been trodden flat near the gate.",
+        "门旁的草被踩平了。"
+      ],
+      [
+        "I realized I had trodden on a fallen branch.",
+        "我意识到自己踩到了一根落下的树枝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trodden#English"
+    ]
+  },
+  {
+    "word": "downtrodden",
+    "ipa": "英 /ˈdaʊntrɒdən/；美 /ˈdaʊntrɑːdən/",
+    "meaning": "受压迫、被欺压的",
+    "sense": "字面像被踩在脚下；说人群时，通常不是鞋真的踩着他们，而是长期没有公平地位、一直受欺压。",
+    "split": "down + trodden，trodden 是 tread 踩踏的过去分词。早期有踏倒、踩踏义，后来明确转用于受压迫的人。",
+    "history": [
+      [
+        "down + tread 的分词 trodden",
+        "踩在下面、践踏"
+      ],
+      [
+        "downtrodden 的人物引申",
+        "受压迫、被长期欺压的"
+      ]
+    ],
+    "explanation": "downtrodden workers 受欺压的工人；the downtrodden 受压迫的人们。常带同情、社会处境的评价，不只是情绪低落。",
+    "usage": "the poor and downtrodden；downtrodden people。",
+    "contrast": "downcast 常说垂头丧气、情绪低落；downtrodden 更强调被压制、欺压的处境，不能把一个不开心的人自动说成受压迫。",
+    "examples": [
+      [
+        "The novel gives a voice to downtrodden workers.",
+        "小说为受欺压的工人发声。"
+      ],
+      [
+        "She spent years documenting the lives of the downtrodden.",
+        "她花了多年记录受压迫者的生活。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/downtrodden"
+    ]
+  },
+  {
+    "word": "downfield",
+    "ipa": "/ˌdaʊnˈfiːld/",
+    "meaning": "朝前场、向对方球门方向；在前场的〔球类语境〕",
+    "sense": "进攻队员把球往更靠近对方得分区域的位置送，是 downfield；这里不是沿山坡往低处传。",
+    "split": "down- + field，在球场的方向参照中固定使用。down 可以表示沿场地向前推进，不只表示重力方向的下降。",
+    "history": [
+      [
+        "down + field",
+        "沿球场向前的方向"
+      ],
+      [
+        "downfield",
+        "向前场、对方得分区方向"
+      ]
+    ],
+    "explanation": "throw the ball downfield 往前场传球；a downfield pass 向前场的传球。具体参照由运动项目和进攻方向决定。",
+    "usage": "run downfield；a downfield pass。",
+    "contrast": "downfield 不必在地图南面，也不表示队员往坡下跑；down 的空间引申需要看场景。",
+    "examples": [
+      [
+        "The quarterback looked for an open receiver downfield.",
+        "四分卫寻找前场无人盯防的接球手。"
+      ],
+      [
+        "She sent a long pass downfield.",
+        "她向前场送出一记长传。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downfield#English"
+    ]
+  },
+  {
+    "word": "lubricant",
+    "ipa": "英 /ˈluːbrɪkənt/；美 /ˈluːbrɪkənt/",
+    "meaning": "润滑剂；起润滑作用的",
+    "sense": "两个表面互相磨，添一种能让它们滑得更顺的材料，就是 lubricant 的典型作用。",
+    "split": "lubricate 的词干 + -ant，远接拉丁 lubricus 滑的。-ant 在这里指起作用的物质，不是做润滑工作的那个人。",
+    "history": [
+      [
+        "拉丁润滑、滑动词族 → lubricate",
+        "使表面滑、润滑"
+      ],
+      [
+        "lubric- + -ant → lubricant",
+        "起润滑作用的材料"
+      ]
+    ],
+    "explanation": "a lubricant for machinery 机械润滑剂；lubricant properties 润滑性质。油是常见例子，但词义不限于所有油，也不保证任何润滑剂都适合任意用途。",
+    "usage": "apply a lubricant；a suitable lubricant。",
+    "contrast": "lubricate 是动作，lubricant 是相应物质；fuel 燃料主要提供能量，与润滑功能不同。",
+    "examples": [
+      [
+        "The manual lists the lubricant used in the machine.",
+        "手册列出了这台机器使用的润滑剂。"
+      ],
+      [
+        "The engineers compared the properties of several lubricants.",
+        "工程师比较了几种润滑剂的性质。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lubricant#English"
+    ]
+  },
+  {
+    "word": "disinfectant",
+    "ipa": "/ˌdɪsɪnˈfektənt/",
+    "meaning": "消毒剂；消毒用的",
+    "sense": "disinfect 是消毒这个动作，disinfectant 是用于消毒的那种产品、物质，也可放在名词前说明用途。",
+    "split": "与法语 désinfectant 相连，现代对应 disinfect + -ant；dis-、infect 及参与构词的词尾都保留在这条关系中。",
+    "history": [
+      [
+        "disinfect／法语 désinfectant 的对应",
+        "消毒动作及相应作用"
+      ],
+      [
+        "disinfectant",
+        "消毒剂；消毒用的"
+      ]
+    ],
+    "explanation": "a bottle of disinfectant 一瓶消毒剂；disinfectant spray 消毒喷剂。名词可以数产品种类或一款制剂，具体用法还要按产品说明理解。",
+    "usage": "a surface disinfectant；disinfectant spray。",
+    "contrast": "disinfectant 消毒剂、detergent 洗涤剂、antiseptic 防腐或皮肤消毒相关制剂，常见使用范围不同，不能仅因中文都带清洁就视为可互换。",
+    "examples": [
+      [
+        "The cleaner carried a bottle of disinfectant.",
+        "清洁人员带着一瓶消毒剂。"
+      ],
+      [
+        "The label identifies the product as a surface disinfectant.",
+        "标签说明这是一种表面消毒剂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disinfectant#English"
+    ]
+  },
+  {
+    "word": "irritant",
+    "ipa": "/ˈɪrɪtənt/",
+    "meaning": "刺激物；令人烦恼的事物；有刺激性的",
+    "sense": "一粒灰尘让眼睛不舒服，是物理上的 irritant；一个反复响的提示音让人心烦，也可比喻成 irritant。",
+    "split": "借法语 irritant 等相应形式，远接拉丁 irritare 激起、刺激；现代对应 irritate 的词干 + -ant。它可指起刺激作用的东西，并非一定指某个人。",
+    "history": [
+      [
+        "拉丁、法语相关 irritant 材料",
+        "引起刺激的"
+      ],
+      [
+        "英语 irritant",
+        "刺激物；烦恼来源"
+      ]
+    ],
+    "explanation": "a skin irritant 皮肤刺激物；a constant irritant 持续让人烦恼的事。刺激与过敏不是同一个概念，词本身不能替代具体原因判断。",
+    "usage": "a minor irritant；an irritant substance。",
+    "contrast": "irritable 易怒、容易被激惹的，irritating 令人烦的，irritant 则常作起作用的东西这个名词；主动刺激与容易受刺激要分清。",
+    "examples": [
+      [
+        "Dust can be an irritant to the eyes.",
+        "灰尘可能刺激眼睛。"
+      ],
+      [
+        "The repeated notifications became a constant irritant.",
+        "反复弹出的通知成了持续让人心烦的东西。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/irritant#English"
+    ]
+  },
+  {
+    "word": "debut",
+    "ipa": "英 /ˈdeɪbjuː/、/ˈdebjuː/；美 /deɪˈbjuː/",
+    "meaning": "首次登场、首秀；首次推出、亮相",
+    "sense": "第一次在某个公开舞台上出现：歌手首次演出、球员首场比赛、新作品首次推出，都可用 debut。",
+    "split": "借法语 début，接 débuter 开始、先出手，较早与球类中首先击球的表达有关，再扩到公开亮相。词尾 t 通常不发音，不是 debt 债务的另一种拼写。",
+    "history": [
+      [
+        "法语 débuter → début",
+        "先出手、开场 → 首次亮相"
+      ],
+      [
+        "英语 debut",
+        "首秀、首次推出及相应动词"
+      ]
+    ],
+    "explanation": "make one’s debut 首次登场；a debut album 首张专辑；debut a new model 首次推出新型号。要说明首秀在哪个领域、城市或级别，不是说此前一切经历都为零。",
+    "usage": "make a debut；a debut novel；debut on stage。",
+    "contrast": "debut 强调首次公开出现，beginning 泛指开始；debt 债务读 /det/，拼写和读音都不同。",
+    "examples": [
+      [
+        "The singer made her stage debut at sixteen.",
+        "这位歌手十六岁首次登台。"
+      ],
+      [
+        "The company debuted its new design at the exhibition.",
+        "公司在展览上首次推出了新设计。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/debut",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/debut_1"
+    ]
+  },
+  {
+    "word": "debutant",
+    "ipa": "/ˈdebjuːtɑːnt/，亦有其他首元音、末音节读法",
+    "meaning": "首次公开登场的人〔尤见于体育、演艺〕",
+    "sense": "第一次代表球队出场，或第一次登上某类公开舞台，这个人可叫 debutant，不是说他整个人生才刚开始。",
+    "split": "借法语 débutant，来自 débuter 首次登场的现在分词；现代可与 debut + -ant 对照，不能当作“首次出场的蚂蚁”。",
+    "history": [
+      [
+        "法语 débuter → débutant",
+        "首次公开亮相 → 首次亮相者"
+      ],
+      [
+        "英语 debutant",
+        "首次登场的人"
+      ]
+    ],
+    "explanation": "an international debutant 首次参加国际比赛的选手；a film debutant 初登银幕者。看这次首秀限定在哪个级别，不一定此前从无经验。",
+    "usage": "a young debutant；an international debutant。",
+    "contrast": "beginner 是一般初学者，debutant 强调第一次公开登场；一个经验丰富的人也可能首次参加某一赛事而成为该赛事的 debutant。",
+    "examples": [
+      [
+        "The debutant scored twice in her first match.",
+        "这位首次登场的选手在首场比赛中两次得分。"
+      ],
+      [
+        "The film pairs a veteran actor with a debutant.",
+        "影片让一位资深演员与一位初登银幕者搭档。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/debutant"
+    ]
+  },
+  {
+    "word": "debutante",
+    "ipa": "常见 /ˈdebjuːtɑːnt/，亦有末音节重读等变体",
+    "meaning": "初入社交界的年轻女性；首次亮相的女性〔特定语境〕",
+    "sense": "传统上，一位年轻女性第一次正式进入上流社交场合，会被称为 debutante；读时代小说、社交舞会报道时常见。",
+    "split": "借法语 débutante，是 débutant 的阴性形式。法语书写的 -e 标示这一性别对应，不是英语随便在任何 -ant 后加 e 都能形成女性名词。",
+    "history": [
+      [
+        "法语 débutant → 阴性 débutante",
+        "首次登场者的女性形式"
+      ],
+      [
+        "英语 debutante 的社会用法",
+        "传统上正式进入社交界的年轻女性"
+      ]
+    ],
+    "explanation": "a debutante ball 社交初入舞会；a young debutante 初入社交界的年轻女性。较广的首次登场女性义要看具体文体，不宜一律套给所有女性新人。",
+    "usage": "a debutante ball；a society debutante。",
+    "contrast": "debutant 常强调首次公开出场，不限女性；debutante 在英语里有特别强的传统社交文化色彩，两者不只是任意的男女互换标签。",
+    "examples": [
+      [
+        "The novel follows a debutante during her first social season.",
+        "小说讲述一位年轻女性初入社交界的第一个社交季。"
+      ],
+      [
+        "The museum displayed a dress worn at a debutante ball.",
+        "博物馆展出了一件曾在初入社交界舞会上穿过的礼服。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/debutante"
+    ]
+  },
+  {
+    "word": "luxury",
+    "ipa": "英 /ˈlʌkʃəri/；美 /ˈlʌɡʒəri/，亦有相近变体",
+    "meaning": "奢华；奢侈品；难得的享受",
+    "sense": "不是维持生活必不可少，却让人觉得舒服、讲究、享受的东西。也可以是难得有一个完全空闲的下午。",
+    "split": "经古法语 luxurie 接拉丁 luxuria 过量、繁盛、放纵等材料；英语早期道德评价较强，后来更多形成奢华、舒适享受的常见义。",
+    "history": [
+      [
+        "拉丁 luxuria → 法语 luxurie → 英语早期 luxury",
+        "过量、放纵、丰盛等"
+      ],
+      [
+        "现代 luxury",
+        "奢华生活；非必需却令人享受之物"
+      ]
+    ],
+    "explanation": "live in luxury 过奢华生活；a luxury hotel 豪华酒店；the luxury of time 难得有充裕时间。既可说生活方式，也可数一种非必需的享受。",
+    "usage": "luxury goods；a luxury hotel；an affordable luxury。",
+    "contrast": "necessity 必需品，luxury 非必需的享受，但具体标准受生活情境影响；luxury 不是任何 expensive 昂贵东西的自动同义词。",
+    "examples": [
+      [
+        "A quiet afternoon felt like a luxury after the busy week.",
+        "忙了一周后，一个安静的下午简直成了难得的享受。"
+      ],
+      [
+        "The shop sells luxury luggage and accessories.",
+        "这家店出售高档行李箱和配饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/luxury#English"
+    ]
+  },
+  {
+    "word": "luxuriant",
+    "ipa": "英 /lʌɡˈʒʊəriənt/；美 /lʌɡˈʒʊriənt/",
+    "meaning": "繁茂的、浓密的；丰富华美的",
+    "sense": "雨水充足，植物一层层长满，看上去旺盛、浓密；也可说头发浓密、文字意象丰盛。",
+    "split": "经法语或直接接拉丁 luxurians，来自 luxuriare 过量、茂盛生长，和 luxury 属同一旧词族；不是先有现代奢侈品义，再给它套 -ant 就会长出叶子。",
+    "history": [
+      [
+        "拉丁 luxuriare → luxurians",
+        "大量生长 → 茂盛的"
+      ],
+      [
+        "英语 luxuriant",
+        "植被、头发繁茂浓密；形象丰富华美"
+      ]
+    ],
+    "explanation": "luxuriant vegetation 繁茂植被；luxuriant hair 浓密头发；luxuriant imagery 丰富华美的意象。重点在旺盛、丰厚而富吸引力。",
+    "usage": "luxuriant vegetation；luxuriant growth。",
+    "contrast": "luxurious 豪华舒适的；luxuriant 繁盛浓密的。a luxurious hotel 豪华酒店，luxuriant plants 茂盛植物，不能只按奢华、丰富的中文近义互换。",
+    "examples": [
+      [
+        "Luxuriant vegetation covered the hillside.",
+        "繁茂的植被覆盖着山坡。"
+      ],
+      [
+        "The poet is known for her luxuriant imagery.",
+        "这位诗人以丰富华美的意象闻名。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/luxuriant",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/luxuriant"
+    ]
+  },
+  {
+    "word": "luxuriate",
+    "ipa": "英 /lʌɡˈʒʊərieɪt/；美 /lʌɡˈʒʊrieɪt/",
+    "meaning": "尽情享受、沉浸于〔令人舒服的东西〕；繁盛生长〔较少见〕",
+    "sense": "热水澡、安静日光、终于不用赶时间的早晨，你让自己在那份舒服里多待一会儿，就是 luxuriate in。",
+    "split": "借拉丁 luxuriatus，来自 luxuriare 过量、繁盛、放纵的词族。英语较早也有旺盛生长义，今天常用的享受义与 luxury 很容易对照。",
+    "history": [
+      [
+        "拉丁 luxuriare／luxuriatus",
+        "繁盛生长、尽情享用等"
+      ],
+      [
+        "英语 luxuriate",
+        "沉浸享受；旧有繁盛生长义"
+      ]
+    ],
+    "explanation": "luxuriate in the sunshine 尽情享受阳光；luxuriate in silence 沉浸在安静里。常和 in 连用，不等于只陈述某样东西很贵。",
+    "usage": "luxuriate in；luxuriate in the warmth。",
+    "contrast": "enjoy 享受非常广，luxuriate 更有放慢下来、舒舒服服浸在其中的感觉；不一定要花很多钱。",
+    "examples": [
+      [
+        "She luxuriated in the warmth of the afternoon sun.",
+        "她尽情享受午后阳光的温暖。"
+      ],
+      [
+        "After the deadline, he luxuriated in a morning with no appointments.",
+        "截止日期过去后，他尽情享受了一个没有约会安排的早晨。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/luxuriant"
+    ]
+  },
+  {
+    "word": "avoidant",
+    "ipa": "/əˈvɔɪdənt/",
+    "meaning": "倾向回避的；回避性的",
+    "sense": "碰上难谈的话题，总先退开、换话题、不回应，这种倾向可以用 avoidant 描述。",
+    "split": "avoid 回避 + -ant 形成形容词。avoid 的较早来源与排空、离开的法语材料相连，现代组合里先抓主动避开这层关系。",
+    "history": [
+      [
+        "avoid + -ant",
+        "具有回避倾向"
+      ],
+      [
+        "avoidant",
+        "回避性的态度、行为或特定术语"
+      ]
+    ],
+    "explanation": "avoidant behaviour 回避行为；an avoidant response 回避性的反应。心理学中还有更具体的术语含义，普通形容不等于自动给一个人作诊断。",
+    "usage": "avoidant behaviour；an avoidant response。",
+    "contrast": "avoidant 倾向避开，avoidable 可以避免；avoidance 则是回避这个名词。词性和主动、被动关系不相同。",
+    "examples": [
+      [
+        "His avoidant response left the practical question unanswered.",
+        "他回避性的回应没有回答那个实际问题。"
+      ],
+      [
+        "The article discusses avoidant behaviour in difficult conversations.",
+        "文章讨论了艰难对话中的回避行为。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/avoidant#English"
+    ]
+  },
+  {
+    "word": "trillion",
+    "ipa": "/ˈtrɪljən/",
+    "meaning": "万亿〔现代常见数值 10¹²〕；极大量〔夸张〕",
+    "sense": "按现代常见英语数法，million 百万，billion 十亿，trillion 万亿；每一级再乘一千。",
+    "split": "借法语 trillion，按 million、billion 一类名称替换前部形成 tri- 三的命名。历史长数制曾表示百万的三次方；现代常见短数制按千进一级，不能只看到 tri 就算成三百万。",
+    "history": [
+      [
+        "以 million 为模型的法语 trillion",
+        "tri- 参与的大数序列命名"
+      ],
+      [
+        "现代常见短数制 trillion",
+        "1,000,000,000,000；旧长数制数值另看文献"
+      ]
+    ],
+    "explanation": "two trillion 不在精确数字后加 s；trillions of ... 说万亿计的、极大量的。现代通常是万亿；遇到旧文献要核对当时采用的数制。",
+    "usage": "one trillion；two trillion；trillions of。",
+    "contrast": "zillion、gazillion 是没有精确数值的夸张词；trillion 有约定数值，历史上不同数制的差异不能省略成 tri 永远等于某个固定零的数量。",
+    "examples": [
+      [
+        "One trillion is a thousand billion in the common modern system.",
+        "按现代常见数法，一万亿是一千个十亿。"
+      ],
+      [
+        "The imaginary database in the example contains two trillion records.",
+        "例子里虚构的数据库包含两万亿条记录。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/trillion",
+      "https://www.etymonline.com/word/trillion"
+    ]
+  },
+  {
+    "word": "zillion",
+    "ipa": "/ˈzɪljən/",
+    "meaning": "数不清的大量〔非正式夸张，没有精确数值〕",
+    "sense": "不是报账，而是夸张说“我都说了无数遍”：听起来像 million、billion，却故意不对应一个准确数量。",
+    "split": "仿 million、billion 等 -illion 大数词的戏拟造词，前面的 z 没有必须按某个数学进位解释的数值。",
+    "history": [
+      [
+        "million／billion 等大数名的形式类比",
+        "借大数词的声音做夸张"
+      ],
+      [
+        "zillion",
+        "极多、数不清，没有固定数值"
+      ]
+    ],
+    "explanation": "a zillion times 无数遍；zillions of stars 多得数不清的星星。用于随意夸张，不用于需要精确数值的正式计算。",
+    "usage": "a zillion times；zillions of。",
+    "contrast": "trillion 是有约定数值的大数，zillion 则没有。不要给它规定成十的某一次方，也不用认真判断对方是否真说了那么多次。",
+    "examples": [
+      [
+        "I have told you a zillion times where the keys are.",
+        "钥匙放哪儿，我都告诉你无数遍了。"
+      ],
+      [
+        "There seemed to be zillions of tiny lights in the distance.",
+        "远处仿佛有数不清的小灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zillion#English"
+    ]
+  },
+  {
+    "word": "gazillion",
+    "ipa": "/ɡəˈzɪljən/",
+    "meaning": "多得数不清的量〔非正式夸张〕",
+    "sense": "比着 zillion 再添一截，让“多得吓人”的语气更夸张；不是多添一个音节，数学上就大一千倍。",
+    "split": "仿 zillion、million 等词的随意造词；ga- 在这个词里不表示科学前缀 giga- 的十亿倍。",
+    "history": [
+      [
+        "zillion 等大数戏拟形式的类比",
+        "延长词形加强夸张感"
+      ],
+      [
+        "gazillion",
+        "极大量，没有固定数字"
+      ]
+    ],
+    "explanation": "a gazillion messages 一大堆消息；gazillions of possibilities 无数种可能。和 zillion 一样，重在语气，不在测量。",
+    "usage": "a gazillion times；gazillions of。",
+    "contrast": "giga- 是有约定数值的科学前缀，gazillion 不是。也不存在 gazillion 必然大于 bazillion 的通行精确排序。",
+    "examples": [
+      [
+        "My phone seemed to receive a gazillion messages overnight.",
+        "我的手机一夜之间像收到了无数条消息。"
+      ],
+      [
+        "There are a gazillion ways to decorate the room.",
+        "装饰这个房间的办法多得数不清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gazillion#English"
+    ]
+  },
+  {
+    "word": "bazillion",
+    "ipa": "/bəˈzɪljən/",
+    "meaning": "极大量；多得数不清〔非正式夸张〕",
+    "sense": "和 zillion、gazillion 一样，在聊天里把“好多好多”说得更有声音效果。",
+    "split": "zillion 的戏拟变体，仿 -illion 大数词。ba- 没有可计算的数量值，也不是某个正式古典数词的必然缩写。",
+    "history": [
+      [
+        "zillion 的形式类比、变体",
+        "故意像大数的夸张造词"
+      ],
+      [
+        "bazillion",
+        "非常多，没有精确数值"
+      ]
+    ],
+    "explanation": "a bazillion questions 无数个问题；bazillions of ... 极多的……。对话、轻松文字中可以用，科学或账务数字不靠它表达准确值。",
+    "usage": "a bazillion questions；a bazillion times。",
+    "contrast": "bazillion、gazillion 的差别主要是口吻和个人用词习惯，不能依据字母 b、g 给它们排出固定数值大小。",
+    "examples": [
+      [
+        "The children asked a bazillion questions about the trip.",
+        "孩子们对旅行问了数不清的问题。"
+      ],
+      [
+        "I opened the folder and found a bazillion old photos.",
+        "我打开文件夹，发现里面有一大堆旧照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bazillion#English"
+    ]
+  }
+]

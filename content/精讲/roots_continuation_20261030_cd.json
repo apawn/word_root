@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B2978",
+    "meaning": "闩住、关闭；shuttle 的织梭支线另讲",
+    "core": "SHUT：推闩关住开口；SHUTTLE 抓往返织梭",
+    "image": "shut → shutter；shuttle 保留旧形式交汇与织梭到接驳车支线。",
+    "intro": "不把 shuttle 硬解释成现代 shut 加后缀后突然表示公交车。共同历史背景与现代可拆结构分清。",
+    "forms": "shut—shut—shut；shut + -er，双写 t；shuttle 接中古英语旧形，shuttling 去 e。\n\n双写 t 加 er 形成器物名，名词再转动词；关闭与停业比喻分清。\n\n动词短语说停止运行，合写名词命名停机、关闭事件。",
+    "branches": [
+      [
+        "关闭及器具",
+        "shut · shutter"
+      ],
+      [
+        "旧支线与来回交通",
+        "shuttle"
+      ],
+      [
+        "shut → shutter → shutters、shuttered：关闭器具到停业",
+        "shut · shutter · shutters · shuttered"
+      ],
+      [
+        "shut down → shutdown → shutdowns",
+        "shut · shutdown · shutdowns"
+      ]
+    ],
+    "contrasts": "shut/close 常可替换但搭配不全相同；shutter 快门、窗板；shuttle 往返工具，拼写和用法都别混。",
+    "practice": "The driver shut the door of the airport shuttle.\n\n司机关上了机场接驳车的车门。",
+    "words": [
+      "shut",
+      "shutter",
+      "shuttle",
+      "shutters",
+      "shuttered",
+      "shutdown",
+      "shutdowns"
+    ],
+    "exclude": {
+      "shut-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2598",
+    "meaning": "方正、直角；平方、广场及直接、公平",
+    "core": "SQUARE：角摆正、边齐整，借来讲直接与相符",
+    "image": "square → squarely；一个多义基本词先用不同场景分清，不堆较少用 foursquare。",
+    "intro": "历史近源经法语接拉丁语方正词族。数学、地理地名和行为评价各有约定用法，不把广场都认成严格几何正方形。",
+    "forms": "square + -ly；square 作动词可平方、结清、使相符，依搭配判断。\n\nsquare 经法语、拉丁 quadrare 做成方形的词族，较早是木工曲尺名称。现代复数与动词第三人称同形，可说正方形、广场、平方等。",
+    "branches": [
+      [
+        "基本词和直接方式",
+        "square · squarely"
+      ],
+      [
+        "四、直角 → square → squares",
+        "squares"
+      ]
+    ],
+    "contrasts": "square/rectangle 四边是否等长；square metre 面积；squarely 正对、直接；square with 与……相符。",
+    "practice": "She faced the problem squarely and checked whether the figures squared with the records.\n\n她直面问题，核查这些数字是否与记录相符。",
+    "words": [
+      "square",
+      "squarely",
+      "squares"
+    ],
+    "exclude": {
+      "foursquare": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3418",
+    "meaning": "无效耗用、荒废；废料及其处理",
+    "core": "WASTE：可用的东西白白耗掉，或变成被弃部分",
+    "image": "waste → wasteful、wastage、waster；wastebasket、wastewater、wasteland 按容器、液体、土地分组。",
+    "intro": "源头中的拉丁语与日耳曼语关系保留不同分析，近源法语路径清楚。学习重点是浪费行为、损耗量、废物材料三者区别。",
+    "forms": "waste + -ful/-age/-er；waste + basket/water/land。\n\n法语、拉丁荒废材料与日耳曼形式影响的多支背景，现代过去式在 t 后读 id。\n\n法语、拉丁荒废词族与日耳曼影响的多支背景，现代去 e 加 ing。\n\n按用途命名；材料不必保持编织篮形。\n\nwasteful 早有造成破坏义，后来有挥霍、浪费义；现代加 -ly 说怎样耗用，加 -ness 说浪费的性质。\n\n与 waste 作近义比较，不是同一个词根的直接派生。trash 或接北欧落叶、废料材料，rubbish 经盎格鲁法语 rubouses，二者远源都不能硬造确定拆分。\n\n与 rubbish、waste 比较废料，不是现代 waste 的后代。rubble 经盎格鲁法语碎石材料，远源未定，与 rubbish 的关系有分析，但不能定成一个从另一个截短。",
+    "branches": [
+      [
+        "浪费及其性质、数量、人物",
+        "waste · wasteful · wastage · waster"
+      ],
+      [
+        "废物容器、水和土地",
+        "wastebasket · wastewater · wasteland"
+      ],
+      [
+        "waste → wasted：本可有用，却耗掉了",
+        "waste · wasted"
+      ],
+      [
+        "waste → wasting：资源被无效耗去",
+        "waste · wasted · wasting"
+      ],
+      [
+        "wastebasket → wastebaskets：收废物的篮、桶",
+        "waste · wastebasket · wastebaskets"
+      ],
+      [
+        "wasteful 的方式与性质",
+        "wasteful · wastefully · wastefulness"
+      ],
+      [
+        "trash、rubbish：垃圾，到把东西说得一文不值",
+        "trash · trashes · trashed · trashing · trashy · rubbish · rubbishes · rubbished · rubbishing"
+      ],
+      [
+        "rubble：成堆的碎砖、碎石",
+        "rubble"
+      ]
+    ],
+    "contrasts": "waste/waist 同音异源；wasteful 造成浪费、wasted 已耗掉；wastage 损耗而非垃圾容器。",
+    "practice": "Careful planning reduced wastage and left less paper in the wastebasket.\n\n仔细规划减少了损耗，废纸篓里的纸也少了。",
+    "words": [
+      "waste",
+      "wasteful",
+      "wastage",
+      "waster",
+      "wastebasket",
+      "wastewater",
+      "wasteland",
+      "wasted",
+      "wasting",
+      "wastebaskets",
+      "wastefully",
+      "wastefulness",
+      "trash",
+      "trashes",
+      "trashed",
+      "trashing",
+      "trashy",
+      "rubbish",
+      "rubbishes",
+      "rubbished",
+      "rubbishing",
+      "rubble"
+    ],
+    "exclude": {
+      "time-waste": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-waste": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waste-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

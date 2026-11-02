@@ -1,0 +1,324 @@
+[
+  {
+    "word": "progesterone",
+    "ipa": "英 /prəˈdʒestərəʊn/；美 /proʊˈdʒestəroʊn/",
+    "meaning": "孕酮、黄体酮",
+    "sense": "这是参与月经周期、妊娠过程的一种激素名。词里 gest- 能联系承载、孕育的材料，但一个名字不足以概括它的全部生理作用。",
+    "split": "由 pro- 与 gestation、拉丁 gestare 承载的相关材料，再接化学 -one 形成名称。末尾是酮类化学命名材料，不是数字 one。",
+    "history": [
+      [
+        "化学酮名中的 -one → 科学命名词尾",
+        "常提示酮结构相关命名，不能只看结尾猜用途"
+      ],
+      [
+        "pro-、gest- 与 -one → progesterone；化学缩略材料 → naloxone",
+        "激素、药物名有各自形成方式"
+      ]
+    ],
+    "explanation": "progesterone levels 孕酮水平；the role of progesterone 孕酮的作用。既可指身体产生的激素，也可指相应制剂中的物质。",
+    "usage": "progesterone levels；the role of progesterone。",
+    "contrast": "progesterone 是具体物质名，hormone 是更广的激素类别；名称里的 pro- 不能单凭字面推出适用人群或效果。",
+    "examples": [
+      [
+        "The chapter explains the role of progesterone in the menstrual cycle.",
+        "这一章解释孕酮在月经周期中的作用。"
+      ],
+      [
+        "The diagram labels progesterone as a steroid hormone.",
+        "图示把孕酮标为一种甾体激素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/progesterone#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/progesterone"
+    ]
+  },
+  {
+    "word": "naloxone",
+    "ipa": "英 /nəˈlɒksəʊn/；美 /nəˈlɑːksoʊn/",
+    "meaning": "纳洛酮",
+    "sense": "公共健康新闻里常见的阿片受体拮抗药名，能逆转阿片类物质的相应作用。先记这是针对阿片作用的药，不是任何中毒都通用的解药名。",
+    "split": "名称压缩了 N-allyl 的 N-烯丙基材料、hydroxy- 羟基材料，再接 -one；不是一个可照字母直译疗效的日常复合词。",
+    "history": [
+      [
+        "N-allyl、hydroxy- 与 -one 的化学命名材料",
+        "结构成分被缩短组合"
+      ],
+      [
+        "naloxone 形成专门药名",
+        "阿片受体拮抗药名称"
+      ]
+    ],
+    "explanation": "naloxone nasal spray 纳洛酮鼻喷制剂；naloxone distribution 纳洛酮分发，常见于公共健康报道。",
+    "usage": "naloxone distribution；naloxone nasal spray。",
+    "contrast": "naloxone 是通用物质名，Narcan 是相应品牌名之一；-one 也不会让 acetone、progesterone 与它具有相同作用。",
+    "examples": [
+      [
+        "The article discusses naloxone distribution in the community.",
+        "文章讨论了社区中的纳洛酮分发。"
+      ],
+      [
+        "The glossary defines naloxone as an opioid antagonist.",
+        "术语表把纳洛酮定义为阿片受体拮抗药。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naloxone#English",
+      "https://www.merriam-webster.com/dictionary/naloxone"
+    ]
+  },
+  {
+    "word": "pest",
+    "ipa": "/pest/",
+    "meaning": "有害生物、害虫；讨厌鬼、烦人的人",
+    "sense": "吃掉庄稼、损坏物品的生物可叫 pest；总来烦你的人也能被抱怨为 a pest。核心是对某个对象造成危害、麻烦。",
+    "split": "十六世纪经法语 peste 接拉丁 pestis，早期指瘟疫、祸害，后扩成有害生物和烦人者。不能把它限制为一种特定昆虫。",
+    "history": [
+      [
+        "拉丁 pestis 瘟疫、祸害 → 法语 peste → pest",
+        "严重危害的名称"
+      ],
+      [
+        "pest → 有害生物、烦人者；pest + -icide → pesticide",
+        "危害、烦扰按对象变化；相关制剂名"
+      ]
+    ],
+    "explanation": "an agricultural pest 农业有害生物；pest control 有害生物防治；make a pest of yourself 不断烦人。",
+    "usage": "pest control；an agricultural pest。",
+    "contrast": "pest 是与人类用途、处境有关的判断，不等于全部 insect 昆虫；pesticide 也不只指杀虫剂中的某一类。",
+    "examples": [
+      [
+        "The farmer identified the insect as a crop pest.",
+        "农民认出那种昆虫是农作物害虫。"
+      ],
+      [
+        "Stop ringing the bell; you are making a pest of yourself.",
+        "别老按门铃了，你这样太烦人了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pest#English"
+    ]
+  },
+  {
+    "word": "nerd",
+    "ipa": "英 /nɜːd/；美 /nɜːrd/",
+    "meaning": "书呆子；对某领域很着迷的人、爱好者",
+    "sense": "别人聊明星，他能聊一小时字体或火车时刻表，可能自称 a nerd。早期常笑人不合群，如今也常是带骄傲的深度爱好者自称。",
+    "split": "二十世纪中叶美国学生俚语，确切来源未定。1950年 Dr. Seuss 书里有 Nerd 虚构名称，但不能直接断定所有后来的俚语只由这本书造出。",
+    "history": [
+      [
+        "二十世纪中叶美国学生俚语 nerd，确切来源未定",
+        "1950年书中已有同形虚构名，但传播关系不确定"
+      ],
+      [
+        "nerd → 热衷专门领域的自称；+ -y → nerdy",
+        "旧贬称与新认同并存"
+      ]
+    ],
+    "explanation": "a computer nerd 电脑迷；a history nerd 历史迷；a self-confessed nerd 自称书呆子、专业爱好者的人。",
+    "usage": "a history nerd；a computer nerd。",
+    "contrast": "nerd 可贬可亲昵自称，语气和关系决定；它不等于聪明或内向的科学分类，也不限男性、程序员。",
+    "examples": [
+      [
+        "She calls herself a history nerd.",
+        "她自称是个历史迷。"
+      ],
+      [
+        "The club welcomes nerds who love maps, languages and unusual facts.",
+        "这个社团欢迎喜欢地图、语言和奇闻知识的深度爱好者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nerd#English",
+      "https://www.etymonline.com/word/nerd"
+    ]
+  },
+  {
+    "word": "nerdy",
+    "ipa": "英 /ˈnɜːdi/；美 /ˈnɜːrdi/",
+    "meaning": "书呆子气的；专门爱好浓厚的；极客风格的",
+    "sense": "两个朋友兴奋地讨论字体间距，自己笑着说 this is nerdy，是承认话题有点专、迷得有点深。它不一定在说话题没用。",
+    "split": "nerd + -y → nerdy，保留 d。形容词可描写人物、兴趣、穿着风格或专门讨论。",
+    "history": [
+      [
+        "二十世纪中叶美国学生俚语 nerd，确切来源未定",
+        "1950年书中已有同形虚构名，但传播关系不确定"
+      ],
+      [
+        "nerd → 热衷专门领域的自称；+ -y → nerdy",
+        "旧贬称与新认同并存"
+      ],
+      [
+        "nerd + -y → nerdy",
+        "像这类爱好者；有相应兴趣、风格"
+      ]
+    ],
+    "explanation": "a nerdy hobby 很专的爱好；a nerdy discussion 极客式讨论；a nerdy joke 懂行的人才领会的玩笑。",
+    "usage": "a nerdy hobby；a nerdy discussion。",
+    "contrast": "nerdy 可是自嘲或赞同兴趣，不必永远译成贬义呆板；technical 则更中性说技术、专业性质。",
+    "examples": [
+      [
+        "They had a delightfully nerdy discussion about old keyboards.",
+        "他们兴致勃勃地聊了一番很极客的老键盘话题。"
+      ],
+      [
+        "His nerdy jokes made the whole programming club laugh.",
+        "他的极客笑话逗笑了整个编程社团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nerdy#English"
+    ]
+  },
+  {
+    "word": "crab",
+    "ipa": "/kræb/",
+    "meaning": "蟹、螃蟹；蟹肉；〔口语〕抱怨、发牢骚",
+    "sense": "实物先看螃蟹和蟹肉；人在一旁不停 crab about the noise，则是发牢骚。另一个旧 crab 指野酸苹果，不是长在树上的螃蟹。",
+    "split": "动物名承古英语 crabba，更早常联系抓挠、爬动词族。野酸苹果义另有斯堪的纳维亚等来源解释；坏脾气、抱怨义与 crabbed 等及两支形象交汇，不归成唯一夹人故事。",
+    "history": [
+      [
+        "古英语 crabba → 中古英语 crabbe → crab 蟹",
+        "更早常联系抓挠、爬动材料"
+      ],
+      [
+        "另有野酸苹果 crab 一支；crab、crabbed 等坏脾气材料交汇",
+        "动物好斗、果实酸涩等联想影响评价用法"
+      ],
+      [
+        "crab + -y → crabby",
+        "像蟹的；常用为易烦躁、爱抱怨"
+      ]
+    ],
+    "explanation": "catch crabs 捉蟹；crab meat 蟹肉；crab about something 抱怨某事。horseshoe crab 鲎虽带 crab，通名不替代科学分类。",
+    "usage": "crab meat；crab about。",
+    "contrast": "英语 crab 动物通名可宽于严格的真蟹类群；抱怨义是人物语气评价，不能由它断言所有蟹都情绪差。",
+    "examples": [
+      [
+        "A crab disappeared beneath the rock.",
+        "一只螃蟹钻到了石头下面。"
+      ],
+      [
+        "He kept crabbing about the weather.",
+        "他不停抱怨天气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crab#English",
+      "https://www.etymonline.com/word/crab"
+    ]
+  },
+  {
+    "word": "crabby",
+    "ipa": "/ˈkræbi/",
+    "meaning": "易怒、脾气坏的；爱抱怨的；像蟹的",
+    "sense": "累了、饿了，别人一搭话就不耐烦，可以说 feel crabby。常用义抓坏脾气，不是真的手长成了蟹钳。",
+    "split": "crab 双写 b + -y → crabby。常用易怒义承接 crab、crabbed 的评价词族，历史还带动物好斗、酸涩等交汇联想。",
+    "history": [
+      [
+        "古英语 crabba → 中古英语 crabbe → crab 蟹",
+        "更早常联系抓挠、爬动材料"
+      ],
+      [
+        "另有野酸苹果 crab 一支；crab、crabbed 等坏脾气材料交汇",
+        "动物好斗、果实酸涩等联想影响评价用法"
+      ],
+      [
+        "crab + -y → crabby",
+        "像蟹的；常用为易烦躁、爱抱怨"
+      ],
+      [
+        "crab + -y → crabby",
+        "像蟹的性质，常用为烦躁爱抱怨"
+      ]
+    ],
+    "explanation": "feel crabby 感觉烦躁；a crabby remark 不耐烦的牢骚话；较口语。",
+    "usage": "feel crabby；a crabby mood。",
+    "contrast": "crabby 与 cranky 都可说烦躁，不必硬分哪一个一定更严重；前者也并非只用于老人。",
+    "examples": [
+      [
+        "I get crabby when I have not slept enough.",
+        "没睡够时，我容易烦躁。"
+      ],
+      [
+        "She apologised for sounding crabby on the phone.",
+        "她为自己电话里显得不耐烦而道歉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crabby#English"
+    ]
+  },
+  {
+    "word": "dwarf",
+    "ipa": "英 /dwɔːf/；美 /dwɔːrf/",
+    "meaning": "〔奇幻〕矮人；矮小型的；使相形见小；〔人物称呼〕身材矮小者",
+    "sense": "童话里是矮人，园艺里 dwarf tree 是矮生树，旁边新楼 dwarfs the house 则让房子显得很小。三个场景不要只背成同一种人物。",
+    "split": "承古英语 dweorg，经中古英语多种词形延续。相对矮小的性质发展为植物、天体等修饰及使显小动词；普通复数常 dwarfs，奇幻语境常 dwarves。",
+    "history": [
+      [
+        "古英语 dweorg → 中古英语 dwergh、dwerf 等 → dwarf",
+        "旧神话人物与身材矮小相关称呼"
+      ],
+      [
+        "dwarf → 相对小型、使显小；+ -ism → dwarfism",
+        "神话、大小比较、医学语境分开"
+      ]
+    ],
+    "explanation": "a dwarf tree 矮生树；a white dwarf 白矮星；dwarf nearby buildings 使附近建筑相形见小。称真人时可用 a person with dwarfism，具体个人称呼偏好不同。",
+    "usage": "a dwarf tree；dwarf nearby buildings。",
+    "contrast": "dwarf 作动词多是比较效果，不是把实物真缩小；dwarf planet 是具体天文类别，不等于随便一颗小行星。",
+    "examples": [
+      [
+        "The new tower dwarfs the neighbouring houses.",
+        "新塔楼让附近房屋显得很小。"
+      ],
+      [
+        "They planted a dwarf apple tree in the small garden.",
+        "他们在小花园里种了一棵矮生苹果树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dwarf#English"
+    ]
+  },
+  {
+    "word": "dwarfism",
+    "ipa": "英 /ˈdwɔːfɪzəm/；美 /ˈdwɔːrfɪzəm/",
+    "meaning": "生长受限、显著矮小的状况；侏儒症",
+    "sense": "医学语境里它说生长受限、身高显著较矮的一类情况，原因可以不同。不是每个比同学矮一点的人都能凭外观贴上这个词。",
+    "split": "dwarf + -ism → dwarfism，这里 -ism 命名状况，不是矮人主义。现代说明需分不同原因及身体比例情况。",
+    "history": [
+      [
+        "古英语 dweorg → 中古英语 dwergh、dwerf 等 → dwarf",
+        "旧神话人物与身材矮小相关称呼"
+      ],
+      [
+        "dwarf → 相对小型、使显小；+ -ism → dwarfism",
+        "神话、大小比较、医学语境分开"
+      ],
+      [
+        "dwarf + -ism → dwarfism",
+        "命名生长受限、显著矮小相关状况"
+      ]
+    ],
+    "explanation": "a person with dwarfism 有相关生长状况的人；different forms of dwarfism 不同类型；不一概等同某一种骨骼病。",
+    "usage": "a person with dwarfism；forms of dwarfism。",
+    "contrast": "dwarfism 可以有比例协调或不协调的情况；神话矮人设定不能代替对现实身体状况的理解。",
+    "examples": [
+      [
+        "The article discusses different causes of dwarfism.",
+        "文章讨论了生长受限、显著矮小状况的不同原因。"
+      ],
+      [
+        "The interview focuses on everyday life with dwarfism.",
+        "访谈关注有相关生长状况者的日常生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dwarfism#English",
+      "https://www.nhs.uk/conditions/restricted-growth/"
+    ]
+  }
+]

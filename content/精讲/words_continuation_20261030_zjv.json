@@ -1,0 +1,1126 @@
+[
+  {
+    "word": "exposing",
+    "ipa": "英 /ɪkˈspəʊzɪŋ/；美 /ɪkˈspoʊzɪŋ/",
+    "meaning": "显露；揭露；使暴露、接触到〔分词、动名词〕",
+    "sense": "原来遮着的东西拿到外面，让人看见，是 exposing；把人放到某种环境、经验面前，也可以说 exposing someone to it。",
+    "split": "expose 去末尾 e，加完整 -ing → exposing。拉丁 ex- 向外 + ponere 放 → exponere，进入法语时词形又受 poser 影响，再传到英语。",
+    "history": [
+      [
+        "拉丁 exponere 放到外面、展示 → 法语 exposer",
+        "法语里与 poser 的形态、词义发生影响"
+      ],
+      [
+        "英语 expose + -ing → exposing",
+        "现代显露、揭露、让接触等用法"
+      ]
+    ],
+    "explanation": "exposing a problem 是揭露问题；exposing an object 是让物体显露；exposing students to new ideas 是让学生接触新思想。",
+    "usage": "exposing a problem；exposing the surface；exposing students to new ideas。",
+    "contrast": "exposing 不一定是揭丑或带来坏影响；接触新语言、艺术等也能用 expose someone to，具体态度看对象。",
+    "examples": [
+      [
+        "The report is exposing problems in the old design.",
+        "报告正在揭示旧设计的问题。"
+      ],
+      [
+        "The course focuses on exposing students to different writing styles.",
+        "课程着重让学生接触不同写作风格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exposing#English",
+      "https://www.etymonline.com/word/expose"
+    ]
+  },
+  {
+    "word": "folded",
+    "ipa": "英 /ˈfəʊldɪd/；美 /ˈfoʊldɪd/",
+    "meaning": "折叠了；折好的；双臂交叉的；停办了〔过去形式、形容词〕",
+    "sense": "把纸、布的一部分翻回去叠在另一部分上，是 folded；双臂交叉抱在胸前，也像把手臂折回来。",
+    "split": "fold + -ed → folded，/d/ 后读 /ɪd/。fold 承古英语 faldan、fealdan 弯回、折叠；现代停止经营的用法联系让步、撑不住等义的发展。",
+    "history": [
+      [
+        "古英语折回、弯曲的动词 → fold",
+        "纸布、手臂等折回的动作"
+      ],
+      [
+        "fold 的折叠、退让、停办等用法 → folded",
+        "现代过去形式，也可形容已经折好的状态"
+      ]
+    ],
+    "explanation": "folded paper 是折好的纸；folded arms 是交叉抱着的双臂；the company folded 是公司停业、撑不下去了。",
+    "usage": "folded paper；with folded arms；the company folded。",
+    "contrast": "folded 不只表示物体的折痕；经营活动停办等也有用法。羊圈名 fold 是另一来源，不混到这个过去形式里。",
+    "examples": [
+      [
+        "She folded the letter and put it in an envelope.",
+        "她把信折好，装进信封。"
+      ],
+      [
+        "He waited with his arms folded.",
+        "他双臂交叉抱在胸前等着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folded#English",
+      "https://www.etymonline.com/word/fold"
+    ]
+  },
+  {
+    "word": "ideals",
+    "ipa": "英 /aɪˈdɪəlz/；美 /aɪˈdiːəlz/",
+    "meaning": "理想；理想标准、典范〔复数〕",
+    "sense": "心里觉得最值得追求、希望事情成为的样子，是 ideals。可以是做人的原则，也可以是工作、生活的理想状态。",
+    "split": "ideal 的名词用法 + -s → ideals，/l/ 后读 /z/。ideal 接拉丁 idealis 存在于观念中的，远连 idea 的观念、模型材料。",
+    "history": [
+      [
+        "拉丁 idea、idealis 的观念、模型词族 → ideal",
+        "先有与观念、原型有关的形容词"
+      ],
+      [
+        "ideal 的理想标准、典范名词 → ideals",
+        "现代可数不同理想、追求的原则"
+      ]
+    ],
+    "explanation": "high ideals 是高尚理想；shared ideals 是共同理想；live up to one’s ideals 是努力符合自己的理想标准。",
+    "usage": "high ideals；shared ideals；live up to our ideals。",
+    "contrast": "ideals 是理想、标准，ideas 是想法。一个人可以有很多 ideas，其中有些才上升为长期追求的 ideals。",
+    "examples": [
+      [
+        "The group was united by shared ideals.",
+        "这个团体因共同理想而团结。"
+      ],
+      [
+        "She tried to live up to the ideals she taught.",
+        "她努力践行自己所教导的理想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ideals#English",
+      "https://www.etymonline.com/word/ideal"
+    ]
+  },
+  {
+    "word": "identities",
+    "ipa": "英、美 /aɪˈdentətiz/",
+    "meaning": "身份；身份认同；恒等关系、恒等式〔复数〕",
+    "sense": "确认眼前的人与记录里的是同一个人，是身份；一个人怎样认识自己，也属于 identity。数学里始终相等的关系又借用了同一的意思。",
+    "split": "identity 的辅音字母 + y 改 i，加 -es → identities。identity 经法语 identité 接拉丁 identitas 同一，远接 idem 相同，不是现代 identify 随意截尾的唯一来源。",
+    "history": [
+      [
+        "拉丁 idem 相同 → identitas 同一 → 法语 identité",
+        "同一个、同一性的名词材料"
+      ],
+      [
+        "英语 identity 的身份、认同及数学同一关系等义 → identities",
+        "现代复数，末尾 /tiz/，不额外增加 /ɪz/ 音节"
+      ]
+    ],
+    "explanation": "different identities 是不同身份、认同；keep identities secret 是保密身份；algebraic identities 是代数恒等式。",
+    "usage": "different identities；keep their identities secret；algebraic identities。",
+    "contrast": "identities 是身份、同一性；identification 常说识别、身份证明这一过程或材料。数学 identities 则侧重始终成立的相等关系。",
+    "examples": [
+      [
+        "The characters keep their real identities secret.",
+        "这些角色隐瞒着真实身份。"
+      ],
+      [
+        "The lesson introduces several basic algebraic identities.",
+        "这节课介绍了几个基本代数恒等式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identities#English",
+      "https://www.etymonline.com/word/identity"
+    ]
+  },
+  {
+    "word": "installations",
+    "ipa": "英、美 /ˌɪnstəˈleɪʃənz/",
+    "meaning": "安装工程；成套设施；装置艺术作品〔复数〕",
+    "sense": "把设备安放好，让它能工作，是安装；安放完成的一整套设施，也叫 installation。艺术家把材料、声音、灯光安排成一个空间，便有了装置艺术这个意思。",
+    "split": "installation + -s → installations。install 词族含 in- 在内与 stall 的座位、位置材料；installation 接拉丁 installatio，早期联系正式就位、任职。",
+    "history": [
+      [
+        "拉丁 installare 安置就位 → installatio → installation",
+        "较早用于安排到职务、座位上"
+      ],
+      [
+        "英语 installation 的安装、设施义 → installations",
+        "后来又用于由多个部分组成的空间艺术作品"
+      ]
+    ],
+    "explanation": "electrical installations 是安装好的电气设施；art installations 是装置艺术作品。先看它是在数安装项目、成套设施，还是艺术作品。",
+    "usage": "electrical installations；technical installations；art installations。",
+    "contrast": "installations 不总是“安装几次”。a room full of installations 在美术馆里通常是在说一屋子的装置艺术作品。",
+    "examples": [
+      [
+        "The museum has three interactive installations.",
+        "博物馆有三件互动装置艺术作品。"
+      ],
+      [
+        "The plans show the building’s electrical installations.",
+        "图纸标出了这座楼的电气设施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/installations#English",
+      "https://www.etymonline.com/word/installation",
+      "https://www.merriam-webster.com/dictionary/installation"
+    ]
+  },
+  {
+    "word": "kits",
+    "ipa": "英、美 /kɪts/",
+    "meaning": "成套工具、用品；装备；装配套件〔复数〕",
+    "sense": "修东西需要的零件和工具配成一套，就是一个 kit。重点是“为同一件事准备好的一套东西”，不一定非装在盒子里。",
+    "split": "kit + -s → kits，/t/ 后读 /s/。kit 较早指木桶一类容器，可能借自中古荷兰语 kitte，更远来源不确定。",
+    "history": [
+      [
+        "较早的 kit：木桶、容器",
+        "名称后来也指容器里携带的东西"
+      ],
+      [
+        "随身物品、成套装备 → kit → kits",
+        "现代用于工具包、装配套件等"
+      ]
+    ],
+    "explanation": "repair kits 是维修工具包；model kits 是需要自己组装的模型套件；drum kits 是一套套架子鼓。",
+    "usage": "repair kits；model kits；camping kits。",
+    "contrast": "kit 强调配成一套的用品；box 强调容器。盒子可能是空的，kit 通常让人想到已经配齐的东西。",
+    "examples": [
+      [
+        "The shop sells repair kits for bicycles.",
+        "这家店卖自行车维修工具包。"
+      ],
+      [
+        "They spent the afternoon building model kits.",
+        "他们花了一下午组装模型套件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/kits#English",
+      "https://www.etymonline.com/word/kit"
+    ]
+  },
+  {
+    "word": "neglected",
+    "ipa": "英、美 /nɪˈɡlektɪd/",
+    "meaning": "忽视了；疏于照料的；没有受到重视的〔过去形式、形容词〕",
+    "sense": "本来应该照看、处理的事情，一直没有得到照看、处理，就成了 neglected。画面可以是一座很久没人打理的花园。",
+    "split": "neglect + -ed → neglected，/t/ 后读 /ɪd/。拉丁 nec- 不 + legere 拿起、挑选 → neglegere，分词 neglectus 接英语 neglect 词族。",
+    "history": [
+      [
+        "拉丁 neglegere 不去拿起、忽略 → neglectus",
+        "从不理会发展出疏忽、忽视"
+      ],
+      [
+        "英语 neglect + -ed → neglected",
+        "既可说忽视的动作，也可说被冷落的状态"
+      ]
+    ],
+    "explanation": "a neglected garden 是疏于打理的花园；neglected details 是没得到注意的细节；a neglected subject 是长期缺少研究的课题。",
+    "usage": "a neglected garden；neglected details；a neglected subject。",
+    "contrast": "neglected 描述应有的关注没有到位；可能出于忙乱、疏忽，也可能是长期不重视，单看这个词不能断定动机。",
+    "examples": [
+      [
+        "The neglected garden was full of weeds.",
+        "那座疏于打理的花园长满了杂草。"
+      ],
+      [
+        "The review brought several neglected details to light.",
+        "这次复查让几处被忽视的细节显露出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neglected#English",
+      "https://www.etymonline.com/word/neglect"
+    ]
+  },
+  {
+    "word": "nodes",
+    "ipa": "英 /nəʊdz/；美 /noʊdz/",
+    "meaning": "节点；结点；植物的节〔复数〕",
+    "sense": "一条线上鼓起的结，可以叫 node；画网络时用一个点代表一个设备或对象，也叫 node。抓住“有意义的一个点、一个结”这个画面。",
+    "split": "node 保留末尾 e，加 -s → nodes，读 /dz/。node 借自拉丁 nodus，原来是结、结块。",
+    "history": [
+      [
+        "拉丁 nodus 结、结块 → 英语 node",
+        "起初联系可见的结、突起"
+      ],
+      [
+        "node 扩展到网络、图、植物节等 → nodes",
+        "不同领域借同一名称标记自己的点或节"
+      ]
+    ],
+    "explanation": "network nodes 是网络节点；图论中的 nodes 可以代表城市、人物等对象；植物 stem nodes 是茎上长叶、分枝的位置。",
+    "usage": "network nodes；nodes in a graph；stem nodes。",
+    "contrast": "node 不要求形状像绳结，也不要求有很多线相交。图里一个暂时没有连接的点，也可以是 node。",
+    "examples": [
+      [
+        "The nodes in this graph represent cities.",
+        "这张图里的节点代表城市。"
+      ],
+      [
+        "Leaves grow from the nodes along the stem.",
+        "叶片从茎上的各个节处长出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nodes#English",
+      "https://www.etymonline.com/word/node"
+    ]
+  },
+  {
+    "word": "paired",
+    "ipa": "英 /peəd/；美 /perd/",
+    "meaning": "配成对的；搭配了；结对了〔过去形式、形容词〕",
+    "sense": "把两个东西安排成一起使用、一起活动的一组，就是 paired。两者可以相同，也可以互相配合。",
+    "split": "pair + -ed → paired，-ed 读 /d/。pair 经法语 paire 接拉丁 paria 相等者，是 par 相等的复数形式；英语先有一对的名词，再转作配对的动词。",
+    "history": [
+      [
+        "拉丁 par、paria 相等、相配者 → 法语 paire → pair",
+        "一组相配的两个"
+      ],
+      [
+        "英语 pair 转作动词，加 -ed → paired",
+        "表示完成配对或处于搭配状态"
+      ]
+    ],
+    "explanation": "paired with 是与……配对、搭配；paired devices 是已经配对的设备；paired activities 可以说两人结对完成的活动。",
+    "usage": "paired with；paired devices；paired activities。",
+    "contrast": "paired 强调两者被安排到一起。两位能力不同的学生可以 paired，一双左右形状不同的鞋也仍是一对。",
+    "examples": [
+      [
+        "The teacher paired each new student with a classmate.",
+        "老师为每位新同学安排了一名结对同学。"
+      ],
+      [
+        "The blue jacket was paired with a white shirt.",
+        "那件蓝色外套搭配了一件白衬衫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paired#English",
+      "https://www.etymonline.com/word/pair"
+    ]
+  },
+  {
+    "word": "parental",
+    "ipa": "英、美 /pəˈrentəl/",
+    "meaning": "父母的；与父母身份、职责有关的〔形容词〕",
+    "sense": "把视角放在父母这一方：他们给予的支持、承担的责任、作出的许可，都可以用 parental 来修饰。",
+    "split": "学习时可对应 parent + -al 形容词后缀；历史上 parental 接拉丁 parentalis，来自 parens、parent- 父亲、母亲的词干。",
+    "history": [
+      [
+        "拉丁 parens、parent- 父母 → parentalis",
+        "表示属于父母、与父母有关"
+      ],
+      [
+        "英语 parental",
+        "与 parent 对照学习，用来修饰支持、责任等名词"
+      ]
+    ],
+    "explanation": "parental support 是父母的支持；parental responsibility 是父母的责任；parental permission 是家长许可。",
+    "usage": "parental support；parental responsibility；parental permission。",
+    "contrast": "parental 可以涉及父亲、母亲或双方。要专指母方、父方，常分别用 maternal、paternal。",
+    "examples": [
+      [
+        "The story explores the value of parental support.",
+        "这个故事探讨了父母支持的价值。"
+      ],
+      [
+        "The activity requires parental permission.",
+        "这项活动需要家长许可。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parental#English",
+      "https://www.etymonline.com/word/parental"
+    ]
+  },
+  {
+    "word": "promotions",
+    "ipa": "英 /prəˈməʊʃənz/；美 /prəˈmoʊʃənz/",
+    "meaning": "晋升；促销、推广活动〔复数〕",
+    "sense": "把人往更高职位推，是晋升；把商品、活动推到更多人面前，是推广。两种常用意思都保留了“往前推”的方向感。",
+    "split": "promotion + -s → promotions。拉丁 pro- 向前 + movere 移动 → promovere；其名词 promotio 经法语等进入英语。",
+    "history": [
+      [
+        "拉丁 promovere 向前推动 → promotio → 法语 promocion",
+        "推进、提升的名词材料"
+      ],
+      [
+        "英语 promotion → promotions",
+        "晋升与商品、活动推广等可数用法"
+      ]
+    ],
+    "explanation": "job promotions 是工作晋升；sales promotions 是促销活动；special promotions 是特别推广，可能打折，也可能赠品、展示或其他宣传安排。",
+    "usage": "job promotions；sales promotions；special promotions。",
+    "contrast": "广告可以是 promotion 的一种手段；promotion 的范围更广。职位提升也叫 promotion，因此要先看语境是在谈人还是商品。",
+    "examples": [
+      [
+        "Two promotions gave her more responsibility at work.",
+        "两次晋升让她在工作中承担了更多责任。"
+      ],
+      [
+        "The store runs special promotions every spring.",
+        "这家商店每年春天都会举办特别推广活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/promotions#English",
+      "https://www.etymonline.com/word/promotion"
+    ]
+  },
+  {
+    "word": "respondents",
+    "ipa": "英 /rɪˈspɒndənts/；美 /rɪˈspɑːndənts/",
+    "meaning": "受访者；问卷应答者；应答一方〔复数〕",
+    "sense": "问题发出去，有人作出回答；在问卷或调查里，这些回答的人就是 respondents。这个称呼看的是“作答的角色”。",
+    "split": "respondent + -s → respondents。respondent 接拉丁 respondens 回答的现在分词材料，远连 respondere 回答，含 re- 回与 spondere 承诺的词族。",
+    "history": [
+      [
+        "拉丁 respondere 回答 → respondens 回答者、正在回答的",
+        "通过作答这个动作形成角色名称"
+      ],
+      [
+        "英语 respondent → respondents",
+        "现代调查受访者，法律语境中也可指应答一方"
+      ]
+    ],
+    "explanation": "survey respondents 是调查受访者；respondents to a questionnaire 是问卷应答者。法律里的具体角色要随文书、制度理解。",
+    "usage": "survey respondents；respondents to the questionnaire；responses from respondents。",
+    "contrast": "respondents 是人，responses 是他们给出的回答。被邀请参与的人也不一定全都实际作答。",
+    "examples": [
+      [
+        "Most respondents completed the questionnaire online.",
+        "多数受访者在线填写了问卷。"
+      ],
+      [
+        "The report includes comments from several respondents.",
+        "报告收录了几位受访者的评论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/respondents#English",
+      "https://www.etymonline.com/word/respondent"
+    ]
+  },
+  {
+    "word": "retaining",
+    "ipa": "英、美 /rɪˈteɪnɪŋ/",
+    "meaning": "保留；保持；留住；记住〔分词、动名词〕",
+    "sense": "热量本来会散掉，却被留住；知识本来可能忘记，却留在记忆里。retaining 的共同画面是“让它继续在”。",
+    "split": "retain + -ing → retaining，原词不改。拉丁 re- 回、留回 + tenere 持有 → retinere，经法语 retenir 接英语 retain。",
+    "history": [
+      [
+        "拉丁 retinere 保持、留住 → 法语 retenir → retain",
+        "把已有的东西继续握住、留下"
+      ],
+      [
+        "retain + -ing → retaining",
+        "现代可接热量、信息、特征、人员等对象"
+      ]
+    ],
+    "explanation": "retaining heat 是保温；retaining information 是记住信息；retaining original features 是保留原有特色。",
+    "usage": "retaining heat；retaining information；retaining its shape。",
+    "contrast": "retaining 常强调已有之物继续留下；obtaining 强调取得。retaining information 也不要求逐字背诵，而是信息没有轻易忘掉。",
+    "examples": [
+      [
+        "The thick walls help with retaining heat.",
+        "厚墙有助于留住热量。"
+      ],
+      [
+        "The design was updated while retaining its original character.",
+        "设计作了更新，同时保留了原有风格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retaining#English",
+      "https://www.etymonline.com/word/retain"
+    ]
+  },
+  {
+    "word": "slides",
+    "ipa": "英、美 /slaɪdz/",
+    "meaning": "演示页、幻灯片；滑梯；滑动〔复数、第三人称单数〕",
+    "sense": "东西沿表面顺着滑过去，是 slides；供人往下滑的设施是滑梯。演示里的 slides 则接旧式投影图片的名称，今天一页页屏幕内容也沿用它。",
+    "split": "slide 保留末尾 e，加 -s → slides，读 /dz/。slide 承古英语 slidan 滑动，后来发展出器具、投影图片等名词义。",
+    "history": [
+      [
+        "古英语 slidan 滑动 → 英语 slide",
+        "动作也给可滑动的器具命名"
+      ],
+      [
+        "slide 的投影图片义 → 现代演示页；复数 slides",
+        "现代电子演示沿用了旧媒体的名称"
+      ]
+    ],
+    "explanation": "presentation slides 是演示文稿的各页；playground slides 是游乐场滑梯；the box slides 是箱子滑动，主语为单数。",
+    "usage": "presentation slides；playground slides；slides under the bed。",
+    "contrast": "slides 可以是名词复数，也可以是动词。The slides are ready 是演示页准备好了；the door slides open 是门滑开了。",
+    "examples": [
+      [
+        "She added two slides to the presentation.",
+        "她给演示文稿增加了两页。"
+      ],
+      [
+        "The box slides neatly under the bed.",
+        "这个箱子可以顺畅地滑到床底下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slides#English",
+      "https://www.etymonline.com/word/slide"
+    ]
+  },
+  {
+    "word": "splitting",
+    "ipa": "英、美 /ˈsplɪtɪŋ/",
+    "meaning": "劈开；分开；分组；分摊〔分词、动名词〕",
+    "sense": "把原来连在一起的整体分成几部分，就是 splitting。可以真的劈木头，也可以分任务、分组、分摊一笔钱。",
+    "split": "split 双写末尾 t，加 -ing → splitting。split 可能借自荷兰语、低地德语中相应的劈开动词，更远来源不确定。",
+    "history": [
+      [
+        "荷兰语、低地德语等的 splitten 材料 → 英语 split",
+        "劈开、使分离的动作"
+      ],
+      [
+        "split + -ing → splitting",
+        "现代扩展到分组、分担等抽象对象"
+      ]
+    ],
+    "explanation": "splitting the bill 是分摊账单；splitting into groups 是分组；splitting wood 是劈木头。分成的份数要看语境。",
+    "usage": "splitting the bill；splitting into groups；splitting the work。",
+    "contrast": "splitting 不限平均分，也不限两份。split into three groups 就是分成三组；需要强调均分，可另加 equally。",
+    "examples": [
+      [
+        "We are splitting the bill equally.",
+        "我们正在平摊这笔账。"
+      ],
+      [
+        "The class is splitting into three groups.",
+        "全班正在分成三个小组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/splitting#English",
+      "https://www.etymonline.com/word/split"
+    ]
+  },
+  {
+    "word": "tensions",
+    "ipa": "英、美 /ˈtenʃənz/",
+    "meaning": "紧张关系；矛盾；张力、拉力〔复数〕",
+    "sense": "绳子被两边拉着，绷紧了；人和人意见相持，关系也像绷着。tensions 把这些彼此牵扯、难以放松的力量数出来。",
+    "split": "tension + -s → tensions，/n/ 后读 /z/。拉丁 tendere 伸展、拉伸，其名词 tensio 经法语或拉丁语接英语 tension。",
+    "history": [
+      [
+        "拉丁 tendere 拉伸 → tensio → tension",
+        "先有拉紧、张紧的物理画面"
+      ],
+      [
+        "tension 的心理、关系等引申义 → tensions",
+        "现代可数各处、各方面的紧张与矛盾"
+      ]
+    ],
+    "explanation": "tensions between people 是人们之间的紧张关系；ease tensions 是缓和矛盾；不同绳子的 tensions 可以指各自承受的拉力。",
+    "usage": "tensions between；ease tensions；rising tensions。",
+    "contrast": "tensions 不一定已经变成公开争吵。表面安静、心里和关系上一直绷着，也能用这个词。",
+    "examples": [
+      [
+        "Small disagreements created tensions between the roommates.",
+        "一些小分歧让室友之间的关系变得紧张。"
+      ],
+      [
+        "The novel explores tensions between family duty and personal ambition.",
+        "这部小说探讨了家庭责任与个人抱负之间的冲突。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tensions#English",
+      "https://www.etymonline.com/word/tension"
+    ]
+  },
+  {
+    "word": "tortured",
+    "ipa": "英 /ˈtɔːtʃəd/；美 /ˈtɔːrtʃɚd/",
+    "meaning": "折磨了；痛苦的；牵强曲折的〔过去形式、形容词〕",
+    "sense": "原来和“扭曲”有关，后来用于严重的身心折磨。形容表情、心情时，是内心像被拧着；形容逻辑时，是为了凑结论而拐得很勉强。",
+    "split": "torture 去末尾 e，加完整 -ed → tortured，-ed 读 /d/。拉丁 torquere 扭转 → tortura 扭曲、痛苦，经法语接英语 torture。",
+    "history": [
+      [
+        "拉丁 torquere 扭转 → tortura → 法语 torture",
+        "扭曲与使人痛苦的词义联系"
+      ],
+      [
+        "英语 torture → tortured",
+        "过去形式与痛苦、牵强等形容词用法"
+      ]
+    ],
+    "explanation": "a tortured expression 是痛苦的表情；a tortured artist 是内心痛苦的艺术家；tortured logic 是牵强曲折的逻辑。",
+    "usage": "a tortured expression；a tortured soul；tortured logic。",
+    "contrast": "tortured logic 里的 tortured 是比喻：推理绕得勉强。表情、人物的 tortured 则侧重承受痛苦，要随对象理解。",
+    "examples": [
+      [
+        "A tortured expression crossed the character’s face.",
+        "那个人物脸上掠过痛苦的神情。"
+      ],
+      [
+        "The reviewer criticized the essay’s tortured logic.",
+        "评论者批评了这篇文章牵强的逻辑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tortured#English",
+      "https://www.etymonline.com/word/torture"
+    ]
+  },
+  {
+    "word": "upgrades",
+    "ipa": "名词：英、美 /ˈʌpɡreɪdz/；动词：英、美 /ʌpˈɡreɪdz/",
+    "meaning": "升级、改进项目〔复数〕；使升级、提升〔第三人称单数〕",
+    "sense": "原来处在一个等级，把它往上提，就是 upgrade。可以是设备更好、系统功能更多，也可以是房间、座位换成更高等级。",
+    "split": "up 向上 + grade 等级、坡度 → upgrade；保留末尾 e，加 -s → upgrades。名词通常前重音，动词通常后重音。",
+    "history": [
+      [
+        "英语 up + grade → upgrade",
+        "早期名词可指向上的坡度，后来动词表示提高等级"
+      ],
+      [
+        "upgrade 的改善、升级义 → upgrades",
+        "现代数升级项目，或说某个主体实施升级"
+      ]
+    ],
+    "explanation": "software upgrades 是软件升级；room upgrades 是房型升级；the team upgrades the system 是团队升级系统。",
+    "usage": "software upgrades；equipment upgrades；upgrades the system。",
+    "contrast": "upgrades 强调提高等级、功能或质量。update 强调更新，两者有时重合，但并非每次更新都意味着升到更高等级。",
+    "examples": [
+      [
+        "The plan includes several equipment upgrades.",
+        "这项计划包括几项设备升级。"
+      ],
+      [
+        "The team upgrades the system once a year.",
+        "团队每年对系统升级一次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upgrades#English",
+      "https://www.etymonline.com/word/upgrade"
+    ]
+  },
+  {
+    "word": "worms",
+    "ipa": "英 /wɜːmz/；美 /wɜːrmz/",
+    "meaning": "蠕虫、蚯蚓等；计算机蠕虫程序〔复数〕",
+    "sense": "细长的身体在土里、表面蠕动，是日常 worm 的典型画面。计算机里也借这个名字，称能自我复制、沿网络传播的程序。",
+    "split": "worm + -s → worms，/m/ 后读 /z/。古英语 wyrm、wurm 曾用于蛇、龙和多种爬行小动物，范围比现代日常用法更宽。",
+    "history": [
+      [
+        "古英语 wyrm、wurm → worm",
+        "古时所指动物范围宽，现代常用义逐渐收窄"
+      ],
+      [
+        "worm 的蠕动形象 → 计算机用语；复数 worms",
+        "指能独立存在并通过网络复制传播的程序"
+      ]
+    ],
+    "explanation": "worms in the soil 常说土里的蚯蚓等；computer worms 是计算机蠕虫。日常 worms 涵盖的动物并不全属于同一个科学分类。",
+    "usage": "worms in the soil；computer worms；the spread of worms。",
+    "contrast": "计算机蠕虫与病毒有区别：蠕虫可以是独立程序，不必依附另一个宿主程序传播。具体术语仍以文本的技术定义为准。",
+    "examples": [
+      [
+        "We found several worms in the damp soil.",
+        "我们在湿土里发现了几条蚯蚓。"
+      ],
+      [
+        "The chapter explains how computer worms differ from viruses.",
+        "这一章解释了计算机蠕虫与病毒的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worms#English",
+      "https://www.etymonline.com/word/worm",
+      "https://csrc.nist.gov/glossary/term/worm"
+    ]
+  },
+  {
+    "word": "bankers",
+    "ipa": "英 /ˈbæŋkəz/；美 /ˈbæŋkɚz/",
+    "meaning": "银行从业者；银行家〔复数〕",
+    "sense": "把钱的存放、借贷等业务作为工作的人，就是 banker。不同语境里，可以是普通银行从业者，也可以特别指负责经营的人。",
+    "split": "bank 银行 + -er 从业者 + -s 复数 → bankers。金融 bank 经法语 banque、意大利语 banca 等，远连交易用的桌台、柜台名称。",
+    "history": [
+      [
+        "交易的桌台、柜台名称 → 法语 banque 等 → bank 银行",
+        "用交易发生的地方给机构命名"
+      ],
+      [
+        "bank + -er → banker → bankers",
+        "从机构名称形成相关职业名，再加复数"
+      ]
+    ],
+    "explanation": "local bankers 是本地银行从业者、银行家；a meeting of bankers 是银行业人士的会议。具体职位要看上下文。",
+    "usage": "local bankers；a group of bankers；experienced bankers。",
+    "contrast": "bankers 说人，banks 说银行。banker 也不自动等于银行所有者，不能仅凭这个词推定级别、财产或职务。",
+    "examples": [
+      [
+        "Several local bankers attended the meeting.",
+        "几位本地银行业人士参加了会议。"
+      ],
+      [
+        "The novel follows a family of bankers across two generations.",
+        "这部小说讲述了一个银行业家庭两代人的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bankers#English",
+      "https://www.etymonline.com/word/banker"
+    ]
+  },
+  {
+    "word": "branding",
+    "ipa": "英、美 /ˈbrændɪŋ/",
+    "meaning": "打上标记；品牌塑造、品牌推广〔分词、动名词、名词〕",
+    "sense": "先给东西留下容易认出的标记，再让人一看到某个名字、颜色、风格就认出它。现代 branding 关注的就是这种“你是谁、别人怎么认出你”。",
+    "split": "brand + -ing → branding，原词不改。brand 承古英语燃烧的木条等意思，后来由烙出的标记发展到商品标志、品牌。",
+    "history": [
+      [
+        "燃烧的木条 → 烙印、识别标记 → brand",
+        "留下可识别的记号"
+      ],
+      [
+        "商品标记 → 品牌；brand + -ing → branding",
+        "现代可说建立品牌形象的过程"
+      ]
+    ],
+    "explanation": "company branding 是公司品牌塑造；consistent branding 是一致的品牌形象；branding can include a name, colours and tone，范围不限图标。",
+    "usage": "company branding；consistent branding；a branding project。",
+    "contrast": "logo 是具体标志，branding 是形成、传达品牌身份的一整套工作。标志是其中一部分，文字口吻和整体视觉也可能参与。",
+    "examples": [
+      [
+        "The company changed its branding last year.",
+        "这家公司去年调整了品牌形象。"
+      ],
+      [
+        "Consistent branding helps readers recognize the publisher’s books.",
+        "一致的品牌风格帮助读者认出这家出版社的书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/branding#English",
+      "https://www.etymonline.com/word/brand"
+    ]
+  },
+  {
+    "word": "cardinals",
+    "ipa": "英 /ˈkɑːdɪnəlz/；美 /ˈkɑːrdənəlz/",
+    "meaning": "枢机主教、红衣主教；北美红雀；基数〔复数〕",
+    "sense": "门绕着轴转，轴是关键处；cardinal 从“门轴”走到“重要、主要”。它给重要的教会职衔命名，红雀又因颜色让人联想到相应的红袍而得名。",
+    "split": "cardinal + -s → cardinals。拉丁 cardo、cardin- 门轴 → cardinalis 主要、关键，经法语或拉丁语接英语 cardinal 词族。",
+    "history": [
+      [
+        "拉丁 cardo 门轴 → cardinalis 关键、主要 → cardinal",
+        "由关键处发展出主要的形容词与职衔名"
+      ],
+      [
+        "cardinal 的职衔、鸟名、数字分类等 → cardinals",
+        "鸟名联系红袍；基数义联系主要的数、计数的数"
+      ]
+    ],
+    "explanation": "教会语境的 cardinals 是枢机主教；鸟类语境指红雀；数学中 cardinals 可说基数，与表示顺序的 ordinals 对照。",
+    "usage": "a group of cardinals；cardinals in the garden；cardinals and ordinals。",
+    "contrast": "这些用法要分支理解：鸟名经过红袍的形象联系，数字义则围绕计数。看到同一拼写，要先确定正在谈哪一类对象。",
+    "examples": [
+      [
+        "The book describes the role of cardinals in the Church.",
+        "这本书介绍了枢机主教在教会中的角色。"
+      ],
+      [
+        "Two cardinals landed near the garden fence.",
+        "两只红雀落在花园篱笆旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cardinals#English",
+      "https://www.etymonline.com/word/cardinal"
+    ]
+  },
+  {
+    "word": "certificates",
+    "ipa": "英 /səˈtɪfɪkəts/；美 /sɚˈtɪfɪkəts/",
+    "meaning": "证书；证明文件〔名词复数〕",
+    "sense": "完成课程、具备资格，或某项事实已经得到确认，便用一份文件来作证明；这种文件就是 certificate。",
+    "split": "certificate 保留末尾 e，加 -s → certificates。名词 -ate 通常弱读 /ət/。拉丁 certus 确定 + facere 使、做 → certificare，其 certificatum 表得到证明的东西，经法语接英语。",
+    "history": [
+      [
+        "拉丁 certificare 使确定、证明 → certificatum",
+        "分词形式也用作已证明之物的名称"
+      ],
+      [
+        "法语 certificat 等 → 英语 certificate → certificates",
+        "现代数证书、证明文件"
+      ]
+    ],
+    "explanation": "course certificates 是课程证书；birth certificates 是出生证明；digital certificates 是数字证书。文件证明什么，要看前面的限定词。",
+    "usage": "course certificates；birth certificates；digital certificates。",
+    "contrast": "certificates 是文件，qualifications 是资格，certification 是认证、证明这一过程或状态。拿到某种证书具体证明多少能力，要看证书本身的范围。",
+    "examples": [
+      [
+        "The students received certificates after completing the course.",
+        "学生完成课程后拿到了证书。"
+      ],
+      [
+        "The archive keeps copies of old birth certificates.",
+        "档案馆保存着旧出生证明的副本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/certificates#English",
+      "https://www.etymonline.com/word/certificate"
+    ]
+  },
+  {
+    "word": "chatting",
+    "ipa": "英、美 /ˈtʃætɪŋ/",
+    "meaning": "聊天；闲谈〔分词、动名词〕",
+    "sense": "不必正式发言，也不必赶着得出结论，轻松地你一句我一句，就是 chatting。面对面、打电话、网上都可以。",
+    "split": "chat 双写末尾 t，加 -ing → chatting。chat 是 chatter 的截短形式，较早有闲聊、唠叨等用法。",
+    "history": [
+      [
+        "chatter 的闲谈、唠叨义 → 截短为 chat",
+        "形成较短的日常动词、名词"
+      ],
+      [
+        "chat + -ing → chatting",
+        "现代泛指正在聊天或聊天这种活动"
+      ]
+    ],
+    "explanation": "chatting with someone 是与某人聊天；chatting about something 是聊某件事；chatting online 是在网上聊天。",
+    "usage": "chatting with friends；chatting about books；chatting online。",
+    "contrast": "chatting 强调轻松交谈；discussing 更常把焦点放在具体问题的讨论上。一段聊天也可以自然转成认真讨论。",
+    "examples": [
+      [
+        "We spent an hour chatting about books.",
+        "我们聊书聊了一个小时。"
+      ],
+      [
+        "She was chatting with a friend outside the café.",
+        "她正在咖啡馆外和朋友聊天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chatting#English",
+      "https://www.etymonline.com/word/chat"
+    ]
+  },
+  {
+    "word": "circuits",
+    "ipa": "英 /ˈsɜːkɪts/；美 /ˈsɜːrkɪts/",
+    "meaning": "电路、回路；巡回路线；赛道〔复数〕",
+    "sense": "沿着一条路线绕行，是 circuit 的核心画面。电流的回路、赛车绕行的赛道、一个个地点跑遍的巡回路线，都借用了这层意思。",
+    "split": "circuit + -s → circuits，末尾读 /ts/。拉丁 circum 周围 + ire 去 → circuire 绕行，其 circuitus 经法语接英语 circuit。",
+    "history": [
+      [
+        "拉丁 circuire 绕行 → circuitus → 法语 circuit",
+        "围绕、绕一程的路线"
+      ],
+      [
+        "英语 circuit 的电路、赛道等义 → circuits",
+        "把路线的画面用于不同领域"
+      ]
+    ],
+    "explanation": "electrical circuits 是电路；racing circuits 是赛车赛道；a circuit of venues 可以说逐个场地巡回的一程。",
+    "usage": "electrical circuits；racing circuits；circuits in a diagram。",
+    "contrast": "circuit 的“绕行”不要求画成正圆。赛道可以曲折，电路图也可以方方正正；重点是相应的路径关系。",
+    "examples": [
+      [
+        "The diagram shows two simple circuits.",
+        "这幅图展示了两个简单电路。"
+      ],
+      [
+        "The game includes several famous racing circuits.",
+        "这款游戏包含几条著名赛车赛道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/circuits#English",
+      "https://www.etymonline.com/word/circuit"
+    ]
+  },
+  {
+    "word": "commanded",
+    "ipa": "英 /kəˈmɑːndɪd/；美 /kəˈmændɪd/",
+    "meaning": "命令了；指挥了；赢得、引起了；俯瞰〔过去形式〕",
+    "sense": "发出具有权威的指令，是 commanded；某场表演让大家都看过去，也可以说它 commanded attention，仿佛注意力自然归它支配。",
+    "split": "command + -ed → commanded，/d/ 后读 /ɪd/。command 经法语 comander，接俗拉丁语 *commandare，与拉丁 commendare、mandare 委托等词的相互影响有关。",
+    "history": [
+      [
+        "拉丁委托、交付的词族 → 法语 comander → command",
+        "发展出要求、命令与指挥的意思"
+      ],
+      [
+        "command + -ed → commanded",
+        "过去形式，也用于吸引注意、占据俯瞰位置等义"
+      ]
+    ],
+    "explanation": "commanded the team 是指挥团队；commanded attention 是引起关注；commanded a view 是处在能俯瞰景色的位置。",
+    "usage": "commanded the crew；commanded attention；commanded a fine view。",
+    "contrast": "commanded attention 不要求真的说出命令。它强调足以吸引、赢得注意，与字面发号施令是不同用法。",
+    "examples": [
+      [
+        "The captain commanded the crew to return to the ship.",
+        "船长命令船员返回船上。"
+      ],
+      [
+        "Her quiet performance commanded everyone’s attention.",
+        "她沉静的表演吸引了所有人的注意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commanded#English",
+      "https://www.etymonline.com/word/command"
+    ]
+  },
+  {
+    "word": "commissioners",
+    "ipa": "英 /kəˈmɪʃənəz/；美 /kəˈmɪʃənɚz/",
+    "meaning": "专员；委员；受委派的负责人〔复数〕",
+    "sense": "某件公共事务交给一些人负责、调查或管理，这些被委派的人可以称 commissioners。词里保留的是“得到委托、授权的人”。",
+    "split": "现代可对应 commission 委托、授权 + -er 人，再加 -s；历史上 commissioner 经法语 commissionaire、拉丁 commissionarius 等受委托者的名称而来。",
+    "history": [
+      [
+        "拉丁 commissio 委托等 → commissionarius、法语 commissionaire",
+        "有任务、权限交付给某个人"
+      ],
+      [
+        "英语 commissioner → commissioners",
+        "现代用于不同机构的专员、委员等称呼"
+      ]
+    ],
+    "explanation": "city commissioners 可以指城市机构中的委员、专员；a board of commissioners 是相应的委员会。具体职责依机构而定。",
+    "usage": "city commissioners；a board of commissioners；commissioners’ report。",
+    "contrast": "commissioners 是人，commissions 可以是委员会、委托事项或佣金。commissioner 这个职衔本身不能说明所有机构里相同的权限。",
+    "examples": [
+      [
+        "The commissioners published their report on the project.",
+        "委员们公布了关于这个项目的报告。"
+      ],
+      [
+        "The city commissioners discussed the new library plan.",
+        "市里的委员们讨论了新图书馆方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commissioners#English",
+      "https://www.etymonline.com/word/commissioner"
+    ]
+  },
+  {
+    "word": "contested",
+    "ipa": "英、美 /kənˈtestɪd/",
+    "meaning": "争夺了；参加竞争；对……提出异议；有争议的〔过去形式、形容词〕",
+    "sense": "大家都想拿到同一个位置，是竞争、争夺；有人不接受一个结果，站出来反对，也是 contest。共同点是“事情没有被所有人直接接受”。",
+    "split": "contest 的动词 + -ed → contested，/t/ 后读 /ɪd/。经法语 contester 接拉丁 contestari 招来见证、争辩，含 con- 与 testari 作证的材料。",
+    "history": [
+      [
+        "拉丁 contestari 召来作证、争辩 → 法语 contester",
+        "围绕某件事作出主张、争议"
+      ],
+      [
+        "英语 contest → contested",
+        "现代过去形式，也可形容被争夺、有争议的事物"
+      ]
+    ],
+    "explanation": "contested a decision 是对决定提出异议；a closely contested match 是双方竞争激烈、差距很小的比赛；contested territory 是有争议的领土。",
+    "usage": "contested the decision；a closely contested match；a contested issue。",
+    "contrast": "contested 只说明存在竞争或异议，不自动说明哪一方正确，也不自动等于结果已经被推翻。",
+    "examples": [
+      [
+        "Several members contested the committee’s decision.",
+        "几位成员对委员会的决定提出了异议。"
+      ],
+      [
+        "The final was a closely contested match.",
+        "这场决赛双方争夺激烈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contested#English",
+      "https://www.etymonline.com/word/contest"
+    ]
+  },
+  {
+    "word": "defects",
+    "ipa": "名词：英、美 /ˈdiːfekts/；动词：英、美 /dɪˈfekts/",
+    "meaning": "缺陷、瑕疵〔复数〕；脱离、叛离〔第三人称单数〕",
+    "sense": "东西该有的功能、品质缺了一块，是 defect；一个人离开原来所属的一方，是动词 defect。两条用法远处都连着“缺失、离开、失效”的词族。",
+    "split": "defect + -s → defects，末尾 /kts/。拉丁 de- 离开等 + facere 做 → deficere 失效、缺少、离弃；defectus 接英语名词、动词词族。名词与动词常有重音差别。",
+    "history": [
+      [
+        "拉丁 deficere 缺少、失败、离弃 → defectus",
+        "同一历史词族保留几条相关意思"
+      ],
+      [
+        "英语 defect 的缺陷名词与脱离动词 → defects",
+        "名词前重音，动词后重音"
+      ]
+    ],
+    "explanation": "design defects 是设计缺陷；minor defects 是小瑕疵；a character defects to the other side 是某个人物转投另一方。",
+    "usage": "design defects；minor defects；defects to the other side。",
+    "contrast": "defects 是名词还是动词，要看句子结构。The defects were repaired 里是缺陷；he defects 里是这个人脱离原来一方。",
+    "examples": [
+      [
+        "The review found several defects in the design.",
+        "复查发现设计有几处缺陷。"
+      ],
+      [
+        "In the novel, one character defects to the opposing side.",
+        "小说里有一个人物转投了对方阵营。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/defects#English",
+      "https://www.etymonline.com/word/defect"
+    ]
+  },
+  {
+    "word": "determines",
+    "ipa": "英 /dɪˈtɜːmɪnz/；美 /dɪˈtɜːrmɪnz/",
+    "meaning": "决定；确定；查明〔第三人称单数〕",
+    "sense": "原来像给事情划定边界，让可能性落到一个明确结果上。一个因素左右结果，是决定；检查后把未知弄清，是确定、查明。",
+    "split": "determine 保留末尾 e，加 -s → determines，/n/ 后读 /z/。拉丁 de- 与 terminare 划界形成 determinare，经法语接英语 determine；terminus 是边界。",
+    "history": [
+      [
+        "拉丁 terminus 边界 → determinare 划定界限 → 法语 determiner",
+        "从有明确边界到使事情明确"
+      ],
+      [
+        "英语 determine + -s → determines",
+        "现代决定结果、确认情况、查明答案等义"
+      ]
+    ],
+    "explanation": "determines the outcome 是决定结果；determines the size 是确定大小；determines whether... 是确定是否……。",
+    "usage": "determines the outcome；determines the size；determines whether。",
+    "contrast": "The weather determines our plans 是天气左右计划；the test determines the answer 是检验查明答案。一个强调影响，一个强调弄清。",
+    "examples": [
+      [
+        "The available space determines the size of the table.",
+        "可用空间决定了桌子的大小。"
+      ],
+      [
+        "The final check determines whether all the parts fit.",
+        "最后的检查确定所有部件是否都能配合。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/determines#English",
+      "https://www.etymonline.com/word/determine"
+    ]
+  },
+  {
+    "word": "drown",
+    "ipa": "英、美 /draʊn/",
+    "meaning": "溺水、淹死；淹没；盖过声音〔动词〕",
+    "sense": "被水吞没，是 drown 的字面画面；音乐把说话声整个盖住，也像一种声音被另一种声音淹没。",
+    "split": "drown 在现代英语里作为整体学习。中古英语有 drounen；近源有古英语 druncnian 与古北欧语 drukna 等分析，通常联系 drink 的较远词族，不能把现代 drink 直接按规则拆成 drown。",
+    "history": [
+      [
+        "古英语 druncnian、古北欧语 drukna 等的淹没、溺水材料",
+        "进入中古英语的具体路径有不同分析"
+      ],
+      [
+        "中古英语 drounen → drown",
+        "现代除溺水义，还可说声音等被淹没"
+      ]
+    ],
+    "explanation": "drown 是溺水、淹死；drown out a voice 是盖过声音；drown in paperwork 是被大量文书工作淹没的比喻。",
+    "usage": "drown out a voice；drown in paperwork；might drown。",
+    "contrast": "drown out 强调其他声音大到盖住目标声音；drown in 常比喻事情太多让人应付不过来。两者要把介词一起记。",
+    "examples": [
+      [
+        "The loud music can drown out a conversation.",
+        "大声的音乐能盖过交谈声。"
+      ],
+      [
+        "In the story, the boy feared that he might drown.",
+        "故事里，男孩担心自己可能会溺水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drown#English",
+      "https://www.etymonline.com/word/drown"
+    ]
+  },
+  {
+    "word": "drowning",
+    "ipa": "英、美 /ˈdraʊnɪŋ/",
+    "meaning": "溺水；淹没；盖过声音〔分词、动名词、名词〕",
+    "sense": "字面是被水淹住；比喻时可以是事情太多，像潮水一样涌来。I’m drowning in work 就是忙得快被工作淹没了。",
+    "split": "drown + -ing → drowning，末尾 n 不双写。drown 承中古英语的溺水动词，近源有古英语、古北欧语等不同分析，远处通常联系 drink 词族。",
+    "history": [
+      [
+        "中古英语 drounen 等 → drown",
+        "水吞没、溺水的历史动词"
+      ],
+      [
+        "drown + -ing → drowning",
+        "现代动作、状态，也可用作溺水这一事件的名称"
+      ]
+    ],
+    "explanation": "drowning in work 是忙得应付不过来；drowning out voices 是盖过说话声；a drowning scene 是描写溺水的场景。",
+    "usage": "drowning in work；drowning in paperwork；drowning out voices。",
+    "contrast": "drowning in work 是比喻，不说明真的发生水中事故。字面的 drowning 则要随句子分清正在发生的动作与事件名称。",
+    "examples": [
+      [
+        "I’m drowning in paperwork this week.",
+        "我这周被文书工作淹没了。"
+      ],
+      [
+        "The rain was drowning out our voices.",
+        "雨声盖过了我们的说话声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drowning#English",
+      "https://www.etymonline.com/word/drown"
+    ]
+  },
+  {
+    "word": "equations",
+    "ipa": "英、美 /ɪˈkweɪʒənz/",
+    "meaning": "方程；等式〔复数〕",
+    "sense": "等号把左右两边摆成“相等”的关系，就是 equation 的核心。方程里常有未知数，我们要找出什么数能让这个相等关系成立。",
+    "split": "equation + -s → equations，/n/ 后读 /z/。拉丁 aequus 平、相等 → aequare 使相等 → aequatio，经法语 équation 等接英语 equation。",
+    "history": [
+      [
+        "拉丁 aequus 相等 → aequare → aequatio",
+        "使两边相等、相配的名词材料"
+      ],
+      [
+        "法语 équation 等 → 英语 equation → equations",
+        "现代数学中表示相等关系的式子"
+      ]
+    ],
+    "explanation": "solve equations 是解方程；linear equations 是线性方程；equations of motion 是描述运动关系的方程。",
+    "usage": "solve equations；linear equations；a system of equations。",
+    "contrast": "expression 是数学表达式，equation 则断言两边相等。x + 2 是表达式，x + 2 = 5 才是一条方程。",
+    "examples": [
+      [
+        "The class learned how to solve simple equations.",
+        "全班学习了怎样解简单方程。"
+      ],
+      [
+        "The book uses equations to describe motion.",
+        "这本书用方程描述运动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/equations#English",
+      "https://www.etymonline.com/word/equation"
+    ]
+  }
+]

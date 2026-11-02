@@ -1,0 +1,615 @@
+[
+  {
+    "word": "read",
+    "ipa": "原形 /riːd/；过去式、过去分词 /red/",
+    "meaning": "读；阅读；解读；显示为",
+    "sense": "眼前是符号、文字或表情，把它们读成信息，而不只是看见形状。",
+    "split": "接古英语 rǣdan，早期含劝告、解释、阅读，经中古英语 reden 延续；英语里“解释符号、字母”的阅读义突出。原形与过去式同拼写，元音不同。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "英语 read",
+        "阅读；解读；读出信息"
+      ]
+    ],
+    "explanation": "read a book 是读书，read someone’s expression 是看懂表情；The sign reads ... 是牌上写着……。read aloud 是出声读；读取设备、数据也可用 read。",
+    "usage": "read a book；read aloud；read the instructions；read someone’s mind。",
+    "contrast": "read 是读懂信息，look at 是看向；看了一眼说明书不代表认真读过。I read it yesterday 里的 read 读 /red/，不因拼写一样而照原形读。",
+    "examples": [
+      [
+        "Please read the instructions before you begin.",
+        "开始前请阅读说明。"
+      ],
+      [
+        "The sign reads “Entrance at the back.”",
+        "牌上写着“入口在后面”。"
+      ],
+      [
+        "I read the letter twice yesterday.",
+        "我昨天把信读了两遍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/read#English"
+    ]
+  },
+  {
+    "word": "reading",
+    "ipa": "/ˈriːdɪŋ/",
+    "meaning": "阅读；读数；解读；朗读会",
+    "sense": "把信息读出来：读文章是阅读，读仪表是读数，读出另一层意思是解读。",
+    "split": "read + -ing，接古英语 rǣding、中古英语 reding 等；-ing 既能表示活动，也能把一次读取结果或活动事件名词化。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "古英语 rǣding → 中古英语 reding → reading",
+        "阅读活动；读取结果、解释"
+      ]
+    ],
+    "explanation": "do some reading 是读点东西，a temperature reading 是一次温度读数，my reading of the poem 是我对诗的理解；a poetry reading 是诗歌朗读会。",
+    "usage": "reading skills；a meter reading；a reading of the text；a poetry reading。",
+    "contrast": "reading 是活动或读取结果，reader 是人或设备。an accurate reading 是准确读数，不是“一位准确的读者”。",
+    "examples": [
+      [
+        "Reading is part of her evening routine.",
+        "阅读是她晚间日常的一部分。"
+      ],
+      [
+        "The meter gave a reading of twenty units.",
+        "仪表显示读数为二十个单位。"
+      ],
+      [
+        "My reading of the ending is quite different from yours.",
+        "我对结局的理解与你很不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reading#English"
+    ]
+  },
+  {
+    "word": "reader",
+    "ipa": "英 /ˈriːdə/；美 /ˈriːdər/",
+    "meaning": "读者；阅读器；读本",
+    "sense": "把文字、编码读进去的，可以是人，也可以是设备；供练习阅读的书也叫 reader。",
+    "split": "read + -er；接古英语 rǣdere、中古英语 redere 等。-er 常表人或执行某动作的东西，读本义则是供读者阅读的书籍名称。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "古英语 rǣdere → 中古英语 redere → reader",
+        "读者等角色 → 阅读设备、读本等用法"
+      ]
+    ],
+    "explanation": "a regular reader 是常读者，a card reader 是读卡器，a graded reader 是按难度分级的读本。学术职位 Reader 等另按当地体系理解。",
+    "usage": "an avid reader；a card reader；a graded reader；readers of the magazine。",
+    "contrast": "reader 不只指电子书设备；a reader of novels 常是读小说的人，a novel reader 又需按语境判断是读者还是软件。",
+    "examples": [
+      [
+        "The magazine invites readers to send in their stories.",
+        "杂志邀请读者投稿讲述自己的故事。"
+      ],
+      [
+        "Insert the card into the reader.",
+        "把卡插入读卡器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reader#English"
+    ]
+  },
+  {
+    "word": "readable",
+    "ipa": "/ˈriːdəbəl/",
+    "meaning": "可读的；清楚易读的；读起来顺畅的",
+    "sense": "不只文字还认得出，文章也可能写得让人愿意一路读下去。",
+    "split": "read + -able，-able 表能够、适合。可从物理上看得清、技术上读得出，延伸到文风流畅好读。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "英语 read",
+        "阅读；解读；读出信息"
+      ],
+      [
+        "read + -able → readable",
+        "能读出；容易、值得读下去"
+      ]
+    ],
+    "explanation": "readable handwriting 是能辨认的字迹，a highly readable book 是好读的书；machine-readable 是机器可读的常见短语拼法。不同可读性要按对象区分。",
+    "usage": "a readable account；clear and readable；a highly readable book。",
+    "contrast": "legible 更专注字迹能否辨认，readable 还可评价文风；看得清每个字，也可能整篇文章很难懂。",
+    "examples": [
+      [
+        "Her notes were still readable despite the water damage.",
+        "笔记虽被水浸过，仍能读清。"
+      ],
+      [
+        "He wrote a lively, readable history of the town.",
+        "他写了一部生动易读的小镇历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readable#English"
+    ]
+  },
+  {
+    "word": "readability",
+    "ipa": "/ˌriːdəˈbɪləti/",
+    "meaning": "可读性；易读程度",
+    "sense": "同样的信息，换了字号、句子和安排，读者需要花的力气就不同。",
+    "split": "readable + -ity，词尾 -able 对应 -ability；也可整体看 read + -ability。它是易读这一性质的名词，不是另一个阅读动作。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "英语 read",
+        "阅读；解读；读出信息"
+      ],
+      [
+        "read + -able → readable",
+        "可读、易读的"
+      ],
+      [
+        "readable + -ity → readability",
+        "可读、易读的程度"
+      ]
+    ],
+    "explanation": "improve readability 可指改善字体排版，也可指简化句子和组织。可读性指标只是部分线索，不保证内容正确或解释到位。",
+    "usage": "improve readability；text readability；a readability score。",
+    "contrast": "readability 关注阅读的容易程度，accuracy 关注信息准确；改得简洁不该把准确细节删错。",
+    "examples": [
+      [
+        "Shorter paragraphs improved the readability of the report.",
+        "更短的段落提升了报告的可读性。"
+      ],
+      [
+        "The designer tested the page’s readability on a small screen.",
+        "设计师测试了页面在小屏幕上的易读程度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readability#English"
+    ]
+  },
+  {
+    "word": "reread",
+    "ipa": "原形 /ˌriːˈriːd/；过去式、过去分词 /ˌriːˈred/",
+    "meaning": "重读；再读一遍",
+    "sense": "第一次已经读过，再回到同一段文字，可能检查细节，也可能读出新意思。",
+    "split": "re-（再次）+ read。前缀 re- 不变，后半 read 仍按原形和过去式切换 /riːd/、/red/。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "英语 read",
+        "阅读；解读；读出信息"
+      ],
+      [
+        "re- + read → reread",
+        "再次阅读、重新解读"
+      ]
+    ],
+    "explanation": "reread the instructions 是重读说明；reread a novel 可以隔多年再次读整本。一次 reread 也可作名词说再读一遍。",
+    "usage": "reread a sentence；reread the instructions；reread a favourite novel。",
+    "contrast": "reread 是再读，rewrite 是重写，retell 是重新讲述；改前缀后的基词决定做的动作。",
+    "examples": [
+      [
+        "Please reread the last paragraph before answering.",
+        "回答前请重读最后一段。"
+      ],
+      [
+        "I reread the novel last summer and noticed many new details.",
+        "去年夏天我重读了那部小说，发现许多新细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reread#English"
+    ]
+  },
+  {
+    "word": "unread",
+    "ipa": "/ˌʌnˈred/",
+    "meaning": "未读的；未被阅读的",
+    "sense": "信已经到了，甚至躺了几天，内容却还没被人读过。",
+    "split": "un-（未、不）+ read 的过去分词，常用未读义后半读 /red/。另有少用的未受阅读教育等义，本页先记邮件、书信等常见用法。",
+    "history": [
+      [
+        "古英语 rǣdan → 中古英语 reden",
+        "劝告、解释；读懂文字"
+      ],
+      [
+        "英语 read",
+        "阅读；解读；读出信息"
+      ],
+      [
+        "un- + read〔过去分词〕 → unread",
+        "尚未被阅读的"
+      ]
+    ],
+    "explanation": "unread messages 是未读消息，leave a letter unread 是让信一直没被读；应用里 mark as unread 是把状态重新标成未读，不表示人真的忘掉内容。",
+    "usage": "unread messages；an unread letter；mark as unread。",
+    "contrast": "unread 没被读过，unreadable 读不出或难读；一封字迹非常清楚的信也可能一直 unread。",
+    "examples": [
+      [
+        "There are twelve unread messages in my inbox.",
+        "我的收件箱里有十二条未读消息。"
+      ],
+      [
+        "The letter remained unread on the table.",
+        "那封信搁在桌上，一直没被读过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unread#English"
+    ]
+  },
+  {
+    "word": "readme",
+    "ipa": "/ˈriːdmi/",
+    "meaning": "说明文件；自述文件〔计算机〕",
+    "sense": "软件包先放一张“先读我”的便条，告诉你这是什么、怎样开始、还要注意什么。",
+    "split": "read + me，把祈使语“读我”连写成文件名称，也常大写 README。这里是短句命名，不是 me 作某种词根后缀。",
+    "history": [
+      [
+        "英语 read；me",
+        "并列组合的两部分"
+      ],
+      [
+        "read + me → readme",
+        "以“读我”命名的说明文件"
+      ]
+    ],
+    "explanation": "通常介绍项目、安装使用和相关说明，具体内容随项目而异。文件名常见 README.md、README.txt，扩展名表示文件格式。",
+    "usage": "the project’s readme；check the readme；update the readme file。",
+    "contrast": "readme 是说明文档，reader 是读取者或阅读器；写好了 readme 不等于软件会自动执行其中每一条说明。",
+    "examples": [
+      [
+        "The readme explains how to install the package.",
+        "说明文件介绍了如何安装这个软件包。"
+      ],
+      [
+        "She updated the readme after changing the setup process.",
+        "修改配置流程后，她更新了说明文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readme#English"
+    ]
+  },
+  {
+    "word": "live",
+    "ipa": "动 /lɪv/；形、副 /laɪv/",
+    "meaning": "生活；居住；活的；现场直播的",
+    "sense": "动词说生命在继续、日子怎样过；形容词说它是活的，或事件此刻正在发生。",
+    "split": "动词接古英语 libban、lifian，经中古英语延续。形容词 live /laɪv/ 来自 alive 去掉开头弱音，不能把同拼写当成只有一种读音。",
+    "history": [
+      [
+        "古英语 libban / lifian → 中古英语 live 等形式",
+        "活着、生活"
+      ],
+      [
+        "英语动词 live /lɪv/",
+        "活；居住；过某种生活"
+      ],
+      [
+        "alive → 形容词、副词 live /laɪv/",
+        "活的 → 实时、现场的"
+      ]
+    ],
+    "explanation": "live in a town /lɪv/ 是住在镇上；live music /laɪv/ 是现场音乐，broadcast live 是现场直播。a live wire 指带电电线，live system 可说正在运行的系统。",
+    "usage": "live in；live on；live a quiet life；live music；broadcast live。",
+    "contrast": "live /lɪv/ 是动词，life /laɪf/ 是生命这个名词，live /laɪv/ 常修饰名词；He is alive 常说他还活着，不说 He is live 来替代这一日常表达。",
+    "examples": [
+      [
+        "They live in a village near the coast.",
+        "他们住在海边的一个村庄。"
+      ],
+      [
+        "The concert will be broadcast live.",
+        "音乐会将现场直播。"
+      ],
+      [
+        "She loves listening to live music.",
+        "她喜欢听现场音乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/live#English"
+    ]
+  },
+  {
+    "word": "living",
+    "ipa": "/ˈlɪvɪŋ/",
+    "meaning": "活着的；生活；生计",
+    "sense": "生命仍在活动，也要有吃住来源，因而能同时说活着、生活方式和谋生。",
+    "split": "live + -ing，上接古英语和中古英语相应分词、名词形式；去掉 live 的末尾 e 后加 -ing，读音保留 /lɪv/。",
+    "history": [
+      [
+        "古英语 libban / lifian → 中古英语 live 等形式",
+        "活着、生活"
+      ],
+      [
+        "live + -ing → living",
+        "活着的；生活活动、生活来源"
+      ]
+    ],
+    "explanation": "living things 是生物，make a living 是谋生，the cost of living 是生活成本；the living 可指活着的人。a living document 是持续更新的文档。",
+    "usage": "make a living；earn a living；living conditions；the cost of living。",
+    "contrast": "living 既有日常生活又有生计义，life 是更宽的生命、人生。make a living 不能直接换成 make a life，后者另有建立生活的意思。",
+    "examples": [
+      [
+        "She earns a living by repairing musical instruments.",
+        "她靠修理乐器谋生。"
+      ],
+      [
+        "The report describes living conditions in the village.",
+        "报告描述了村里的生活条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/living#English"
+    ]
+  },
+  {
+    "word": "livable",
+    "ipa": "/ˈlɪvəbəl/",
+    "meaning": "宜居的；能住的；可以忍受的",
+    "sense": "一个地方不仅还站着，还具备让人住下来、过日子的基本条件。",
+    "split": "live + -able，末尾 e 省去；也拼 liveable。-able 在此表示适合居住、足以生活，而非直播能够播放。",
+    "history": [
+      [
+        "古英语 libban / lifian → 中古英语 live 等形式",
+        "活着、生活"
+      ],
+      [
+        "英语动词 live /lɪv/",
+        "活；居住；过某种生活"
+      ],
+      [
+        "live + -able → livable",
+        "适合居住；生活得下去的"
+      ]
+    ],
+    "explanation": "a livable city 可以综合交通、环境、住房等评价；a livable room 可表示整理修好后能住。不同人对宜居的要求不完全一样。",
+    "usage": "a livable city；make a place livable；a livable space。",
+    "contrast": "livable 强调能居住、好生活，lively 强调热闹活泼；喧闹街区可以 lively，却未必让你觉得 livable。",
+    "examples": [
+      [
+        "They repaired the roof to make the house livable.",
+        "他们修好屋顶，让房子能住人。"
+      ],
+      [
+        "The plan aims to make the city more livable.",
+        "计划希望让这座城市更加宜居。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/livable#English"
+    ]
+  },
+  {
+    "word": "livability",
+    "ipa": "/ˌlɪvəˈbɪləti/",
+    "meaning": "宜居性；适居程度",
+    "sense": "把交通、空间、生活方便与否等放在一起问：这里住起来怎么样？",
+    "split": "livable 对应的名词，-able 变为 -ability；也可看 live + -ability。另有 liveability 拼写。",
+    "history": [
+      [
+        "古英语 libban / lifian → 中古英语 live 等形式",
+        "活着、生活"
+      ],
+      [
+        "英语动词 live /lɪv/",
+        "活；居住；过某种生活"
+      ],
+      [
+        "live + -able → livable",
+        "适合生活的"
+      ],
+      [
+        "livable 对应 livability",
+        "适居、宜居的程度"
+      ]
+    ],
+    "explanation": "常见于城市、社区设计讨论。a livability ranking 是宜居性排名，各指标如何算要看方法，名字不保证普遍客观。",
+    "usage": "urban livability；improve livability；a livability ranking。",
+    "contrast": "livability 是住起来的适合程度，livelihood 是谋生来源；前者好不好住，后者靠什么生活。",
+    "examples": [
+      [
+        "More green space could improve the neighbourhood’s livability.",
+        "增加绿地可能提升社区的宜居性。"
+      ],
+      [
+        "The survey asked residents to rate the area’s livability.",
+        "调查请居民评价这个地区的宜居程度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/livability#English"
+    ]
+  },
+  {
+    "word": "relive",
+    "ipa": "/ˌriːˈlɪv/",
+    "meaning": "重新经历；在回忆中再体验",
+    "sense": "事情已经过去，一张照片或一段叙述，又把当时的情绪带回来。",
+    "split": "re-（再次）+ live（经历、生活），后半仍读 /lɪv/。常见义是重新体验往事，并非让某个生物复活。",
+    "history": [
+      [
+        "古英语 libban / lifian → 中古英语 live 等形式",
+        "活着、生活"
+      ],
+      [
+        "英语动词 live /lɪv/",
+        "活；居住；过某种生活"
+      ],
+      [
+        "re- + live → relive",
+        "再次经历 → 回忆中重新体验"
+      ]
+    ],
+    "explanation": "relive a memory、relive the moment 常说回味经历；痛苦记忆也可能 relive。不是所有“再次发生”都用 relive，通常涉及某人的体验。",
+    "usage": "relive a memory；relive the experience；relive the moment。",
+    "contrast": "relive 是重新体验，relieve /rɪˈliːv/ 是缓解、解除等另一词；多一个 e，读音和来源都不按本词处理。",
+    "examples": [
+      [
+        "The photographs helped us relive our trip.",
+        "照片让我们重新回味那次旅行。"
+      ],
+      [
+        "She did not want to relive that painful experience.",
+        "她不想再次体验那段痛苦经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/relive#English"
+    ]
+  },
+  {
+    "word": "outlive",
+    "ipa": "/ˌaʊtˈlɪv/",
+    "meaning": "比……活得久；比……持续更久",
+    "sense": "两条时间线并排，一条结束了，另一条还继续。",
+    "split": "out-（超过）+ live，接中古英语 outliven 等形式；不是走到户外生活，而是寿命、持续时间超过。",
+    "history": [
+      [
+        "古英语 libban / lifian → 中古英语 live 等形式",
+        "活着、生活"
+      ],
+      [
+        "中古英语 outliven → outlive",
+        "活过、持续超过另一个对象"
+      ]
+    ],
+    "explanation": "outlive a person 是比某人长寿，outlive its usefulness 是已经超过有用的阶段，不再适用。作品、名声也能 outlive its creator。",
+    "usage": "outlive someone；outlive its usefulness；outlive expectations。",
+    "contrast": "outlive 比较生命或持续时长，outlast 范围更宽，包括物件耐用、困难忍耐。两者可重叠，但 outlive 会更明显唤起生命线的比喻。",
+    "examples": [
+      [
+        "Her work has outlived its creator.",
+        "她的作品在创作者去世后仍长久流传。"
+      ],
+      [
+        "The old policy has outlived its usefulness.",
+        "旧政策已经失去了原有用处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outlive#English"
+    ]
+  },
+  {
+    "word": "livestock",
+    "ipa": "英 /ˈlaɪvstɒk/；美 /ˈlaɪvstɑːk/",
+    "meaning": "牲畜；家畜",
+    "sense": "农场的资产不是只有机器和粮食，还有成群活着饲养的动物。",
+    "split": "live /laɪv/（活的）+ stock（存量、饲养动物等），这里前半不是动词 /lɪv/。词名把活的饲养动物作为一个集合。",
+    "history": [
+      [
+        "英语 live〔形容词 /laɪv/〕；stock",
+        "并列组合的两部分"
+      ],
+      [
+        "live〔形容词 /laɪv/〕 + stock → livestock",
+        "农场饲养的动物集合"
+      ]
+    ],
+    "explanation": "常说 raise livestock、livestock farming，通常集合不可数；数量用 animals、head 等具体结构表达，别随手加成 livestocks。范围随农业语境细分。",
+    "usage": "raise livestock；livestock farming；livestock feed。",
+    "contrast": "livestock 是农用饲养动物集合，wildlife 是野生生物；stock 单独又有股票、库存等义，不能把复合词译成活股票。",
+    "examples": [
+      [
+        "The farm grows crops and raises livestock.",
+        "这座农场种植作物，也饲养牲畜。"
+      ],
+      [
+        "The barn provides shelter for the livestock in winter.",
+        "冬天，这座棚舍为牲畜遮风避寒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/livestock#English"
+    ]
+  },
+  {
+    "word": "livestream",
+    "ipa": "/ˈlaɪvstriːm/",
+    "meaning": "直播；进行网络直播",
+    "sense": "活动这边正在发生，画面和声音就像持续的流，传到另一边的人面前。",
+    "split": "live /laɪv/（实时的）+ stream（连续数据流），以网络流式传输命名。也写 live stream，但本页用连写词形。",
+    "history": [
+      [
+        "英语 live〔实时的〕；stream〔数据流〕",
+        "并列组合的两部分"
+      ],
+      [
+        "live〔实时的〕 + stream〔数据流〕 → livestream",
+        "实时网络流 → 网络直播"
+      ]
+    ],
+    "explanation": "livestream a concert 是直播音乐会，watch a livestream 是看一场直播；并不保证完全零延迟。具体是否现场录制要看内容安排。",
+    "usage": "livestream an event；watch a livestream；a concert livestream。",
+    "contrast": "livestream 强调实时传输，prerecorded video 是事先录好的视频；stream 单独也可播放录播内容。",
+    "examples": [
+      [
+        "They will livestream the concert for fans abroad.",
+        "他们会为海外歌迷直播音乐会。"
+      ],
+      [
+        "We watched the ceremony through a livestream.",
+        "我们通过网络直播观看了典礼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/livestream#English"
+    ]
+  },
+  {
+    "word": "liver",
+    "ipa": "英 /ˈlɪvə/；美 /ˈlɪvər/",
+    "meaning": "肝脏；肝〔食物〕；以某种方式生活的人〔另源派生用法〕",
+    "sense": "日常最常指身体里的肝脏，别一看到 -er 就猜“活着的人”。",
+    "split": "器官名接古英语 lifer、中古英语 lyver，不是现代 live + -er 新造。另有真正由 live + -er 构成的人物义，如 a good liver，现代较少单用；两路同形必须分开。",
+    "history": [
+      [
+        "古英语 lifer → 中古英语 lyver → liver",
+        "器官名：肝脏；也指食材"
+      ],
+      [
+        "另一路：live + -er → liver",
+        "以某种方式生活的人，常有修饰语"
+      ]
+    ],
+    "explanation": "the liver 是器官，chicken liver 是鸡肝食材。普通阅读把器官义放首位；人物义仅在特定搭配出现时辨认，不凭词尾乱推。",
+    "usage": "the liver；chicken liver；liver and onions。",
+    "contrast": "liver 是肝，live 是活着或现场的。历史上更深层的关联有不同分析，但不能用“肝让人活着”冒充已证实的造词过程。",
+    "examples": [
+      [
+        "The diagram labels the liver and the stomach.",
+        "图中标出了肝脏和胃。"
+      ],
+      [
+        "The restaurant serves chicken liver with toast.",
+        "餐馆供应配烤面包的鸡肝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/liver#English"
+    ]
+  }
+]

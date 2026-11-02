@@ -1,0 +1,94 @@
+[
+  {
+    "id": "B2641",
+    "meaning": "南、南方；南向",
+    "core": "SOUTH：位置、去向、风来向分开",
+    "image": "南部是区域，南下是移动，南风从南来；southpaw 则另有体育称谓历史。",
+    "intro": "south 接古英语 sūþ；southern /ˈsʌðən/ 的元音和 th 与 south /saʊθ/ 不同。southpaw 起源有争议，不把棒球场朝向故事说成已确定。",
+    "forms": "south → southern、southerly；southward / southwards 相邻，再讲 southbound；southeast 和 southwest 各接区域、风向扩展；southpaw 单列。",
+    "branches": [
+      [
+        "基本南方与移动",
+        "south · southern · southerly · southward · southwards · southbound"
+      ],
+      [
+        "东南一组",
+        "southeast · southeastern · southeasterly"
+      ],
+      [
+        "西南一组",
+        "southwest · southwestern · southwesterly"
+      ],
+      [
+        "体育及口语称谓",
+        "southpaw"
+      ]
+    ],
+    "contrasts": "southern 南部、southbound 南行、southerly wind 南风；southpaw 不是南方居民。",
+    "practice": "The southbound train crossed the southern plain in a southerly wind.\n\n南行列车在南风中驶过南部平原。",
+    "words": [
+      "south",
+      "southern",
+      "southerly",
+      "southward",
+      "southwards",
+      "southbound",
+      "southeast",
+      "southeastern",
+      "southeasterly",
+      "southwest",
+      "southwestern",
+      "southwesterly",
+      "southpaw"
+    ],
+    "exclude": {
+      "southside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "southland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "souther": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "southbridge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2642",
+    "meaning": "西、西方；西向",
+    "core": "WEST：西部区域与西行方向分开",
+    "image": "日落一侧帮助认西；风从西来、列车往西去、western 还可能是一部西部片。",
+    "intro": "west 接古英语 west；western 有对应古英语形容词。后缀 -ern、-ward、bound 关注的区域、方向、去向各不一样。",
+    "forms": "west → western、westerly；westward / westwards 相邻，westbound 说明交通去向；northwest 和 southwest 的各级扩展共享。",
+    "branches": [
+      [
+        "西方、区域与风",
+        "west · western · westerly"
+      ],
+      [
+        "向西移动",
+        "westward · westwards · westbound"
+      ],
+      [
+        "共享西北、西南分支",
+        "northwest · northwestern · northwesterly · southwest · southwestern · southwesterly"
+      ]
+    ],
+    "contrasts": "a western 可是一部西部片，不是西方人；westerly wind 从西来，westbound train 往西走。",
+    "practice": "We watched a western on the westbound train.\n\n我们在西行列车上看了一部西部片。",
+    "words": [
+      "west",
+      "western",
+      "westerly",
+      "westward",
+      "westwards",
+      "westbound",
+      "northwest",
+      "northwestern",
+      "northwesterly",
+      "southwest",
+      "southwestern",
+      "southwesterly"
+    ],
+    "exclude": {
+      "westside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "westland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wester": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

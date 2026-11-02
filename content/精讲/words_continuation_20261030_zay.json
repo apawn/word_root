@@ -1,0 +1,546 @@
+[
+  {
+    "word": "hype",
+    "ipa": "/haɪp/",
+    "meaning": "炒作、夸张宣传；大力宣传、炒热",
+    "sense": "东西还没真正见到，周围已经把期待抬得很高、人人都在说，这种宣传热度就是 hype。",
+    "split": "Wiktionary 解释为 hyperbole 夸张的缩短；Etymonline 另讲从 hyperbole 逆构，以及旧 hyper- 相关俚语等影响。现代名词和动词都常用，来源分析并不完全一致。",
+    "history": [
+      [
+        "hyperbole；旧 hyper 等俚语材料 → hype 的形成分析",
+        "夸大、过量等联想，多路影响可能交汇"
+      ],
+      [
+        "现代 hype",
+        "强烈宣传、期待热度；大力把某物炒热"
+      ]
+    ],
+    "explanation": "media hype 媒体炒作；hype around a film 围绕电影的宣传热度；hype something up 大肆宣传。",
+    "usage": "live up to the hype 不负之前很高的期待；ignore the hype 不被炒作带着走。",
+    "contrast": "hype 常暗示宣传、期待有过度成分，但不直接证明东西一定差。publicity 是较中性的公众曝光、宣传。",
+    "examples": [
+      [
+        "The film did not live up to the hype.",
+        "电影没有达到宣传带来的高期待。"
+      ],
+      [
+        "There was a lot of hype around the new game.",
+        "新游戏周围有很高的宣传热度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hype#English",
+      "https://www.etymonline.com/word/hype"
+    ]
+  },
+  {
+    "word": "hypes",
+    "ipa": "/haɪps/",
+    "meaning": "大力宣传、炒作〔第三人称单数〕",
+    "sense": "把普通介绍的音量调大，把大家的期待往上抬，是动词 hypes 的感觉。",
+    "split": "hype + -s，/p/ 后读 /s/。hype 的宣传义常联系 hyperbole 的逆构与旧 hyper 等俚语的交汇，来源不能压成唯一确定路径。",
+    "history": [
+      [
+        "夸张、过量相关材料 → 宣传义 hype",
+        "把宣传和期待抬高"
+      ],
+      [
+        "hype + -s → hypes",
+        "某人、媒体大力炒热某事"
+      ]
+    ],
+    "explanation": "hypes a product 大力宣传产品；hypes something up 把某事炒热。",
+    "usage": "hypes every release 每次发布都大肆宣传；hypes the event 炒热活动。",
+    "contrast": "常见炒作热度名词 hype 通常不可数，日常 hypes 多是动词三单。本页先掌握这个更实用的词性。",
+    "examples": [
+      [
+        "The channel hypes every new episode.",
+        "这个频道每出新一集都大力宣传。"
+      ],
+      [
+        "The advertisement hypes the product as revolutionary.",
+        "广告把产品吹成革命性的东西。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hypes#English",
+      "https://en.wiktionary.org/wiki/hype#English"
+    ]
+  },
+  {
+    "word": "hyped",
+    "ipa": "/haɪpt/",
+    "meaning": "被大力宣传、炒作的；兴奋、期待的〔过去式、过去分词及形容词〕",
+    "sense": "东西被炒热了，可以是 hyped；人被带得很兴奋、满怀期待，也常说 hyped。看主语就知道热起来的是产品还是心情。",
+    "split": "hype 去 e 加完整 -ed，/p/ 后读 /t/。hype 宣传义的来路有 hyperbole、旧 hyper 俚语等分析；兴奋义还与 hyped up 等口语相关。",
+    "history": [
+      [
+        "宣传、加强兴奋等用法 → hype、hype up",
+        "把宣传热度或情绪抬高"
+      ],
+      [
+        "hype 去 e + -ed → hyped",
+        "已经炒热；处于很兴奋、期待的状态"
+      ]
+    ],
+    "explanation": "a heavily hyped film 被大肆宣传的电影；hyped for the concert 很期待演唱会。",
+    "usage": "get hyped 兴奋起来；hyped up 十分兴奋、被炒热的。",
+    "contrast": "hyped 可以带批评宣传过度的口气，也可只是口语兴奋。I am hyped for it 通常是我很期待，不能机械译为我被商业炒作了。",
+    "examples": [
+      [
+        "The heavily hyped launch attracted a large crowd.",
+        "受到大力宣传的发布活动吸引了很多人。"
+      ],
+      [
+        "The fans were hyped for the concert.",
+        "歌迷们兴奋地期待演唱会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hyped#English",
+      "https://en.wiktionary.org/wiki/hype#English"
+    ]
+  },
+  {
+    "word": "hyping",
+    "ipa": "/ˈhaɪpɪŋ/",
+    "meaning": "大力宣传、炒热；使兴奋〔现在分词、动名词〕",
+    "sense": "宣传还在一轮轮加码，期待还在往上推，就是 hyping。加上 up，也常说把气氛、人的情绪带起来。",
+    "split": "hype 去 e 加完整 -ing。宣传义 hype 有 hyperbole 逆构与旧俚语等多源分析，现代英语把 hype 当完整动词再变化。",
+    "history": [
+      [
+        "夸大宣传相关材料 → hype",
+        "提高声量、期待，现代也有使兴奋用法"
+      ],
+      [
+        "hype 去 e + -ing → hyping",
+        "正在炒热、宣传或调动兴奋情绪"
+      ]
+    ],
+    "explanation": "hyping a release 为发布造势；hyping up the crowd 调动人群的兴奋情绪。",
+    "usage": "stop hyping it 别再吹捧、炒作了；hyping a film online 在网上炒热电影。",
+    "contrast": "hyping 不双写 p，因为原形 hype 的元音是 /aɪ/ 且结尾有不发音 e；按去 e 加 ing 的规则写。",
+    "examples": [
+      [
+        "The studio is hyping its next film online.",
+        "制片方正在网上为下一部电影造势。"
+      ],
+      [
+        "The host was hyping up the crowd before the show.",
+        "演出前，主持人正在调动观众的兴奋情绪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hyping#English",
+      "https://en.wiktionary.org/wiki/hype#English"
+    ]
+  },
+  {
+    "word": "shear",
+    "ipa": "英 /ʃɪə/；美 /ʃɪr/",
+    "meaning": "剪毛、剪切；剪切力、剪切变形",
+    "sense": "像剪刀把相邻部分沿着接触面剪开，是 shear。日常最容易见到剪羊毛；工程里也借这种相对错开的动作说剪切。",
+    "split": "继承古英语 sceran、scieran，经中古英语 sheren 延续，较早是日耳曼剪切词族；与 share 切下的一份同源，但不是 share 的现代变形。",
+    "history": [
+      [
+        "古英语 sceran、scieran → 中古英语 sheren → shear",
+        "用利器剪、切，尤其剪毛"
+      ],
+      [
+        "英语动作与名词扩展",
+        "剪羊毛；由剪切动作说相应力与变形"
+      ]
+    ],
+    "explanation": "shear sheep 给羊剪毛；shear off 剪掉、切断；shear force 剪切力。",
+    "usage": "shear the wool 剪羊毛；a shear test 剪切试验。",
+    "contrast": "shear 和 sheer 同音。shear 常见过去式 sheared，分词 sheared、shorn；shorn 尤其常见于毛发被剪去、某物被剥去的描述。",
+    "examples": [
+      [
+        "They shear the sheep in spring.",
+        "他们春天给羊剪毛。"
+      ],
+      [
+        "The machine can shear thin sheets of metal.",
+        "这台机器能剪切薄金属板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shear#English",
+      "https://www.etymonline.com/word/shear"
+    ]
+  },
+  {
+    "word": "shears",
+    "ipa": "英 /ʃɪəz/；美 /ʃɪrz/",
+    "meaning": "大剪刀、剪子〔复数形式的工具名〕；剪毛、剪切〔第三人称单数〕",
+    "sense": "一对刀刃相向合拢，把东西剪开，这种较大的剪切工具叫 shears。词尾的 s 和工具成对的构造一起记。",
+    "split": "工具名承古英语 scearra 等复数形式，与 shear 的剪切词族同源，有自己的名词历史；现代也可以是 shear + 三单 -s，词尾读 /z/。",
+    "history": [
+      [
+        "古英语剪刀名复数形式 → 中古英语 sheres → shears",
+        "两刃合拢的剪切工具"
+      ],
+      [
+        "现代 shears 的两种句法",
+        "工具名常作复数；shear 的三单表示某人剪切"
+      ]
+    ],
+    "explanation": "a pair of shears 一把大剪刀；garden shears 园艺剪；shears the sheep 给羊剪毛。",
+    "usage": "sharp shears 锋利剪子；kitchen shears 厨房剪。",
+    "contrast": "工具名通常用 a pair of shears，不说 a shears。shears 比 scissors 常让人想到较大、较有力的剪具，但具体名称按用途习惯。",
+    "examples": [
+      [
+        "The shears are hanging beside the garden door.",
+        "园艺剪挂在通往花园的门旁。"
+      ],
+      [
+        "She cut the stems with a pair of shears.",
+        "她用一把园艺剪剪断了花茎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shears#English",
+      "https://www.etymonline.com/word/shears"
+    ]
+  },
+  {
+    "word": "sheared",
+    "ipa": "英 /ʃɪəd/；美 /ʃɪrd/",
+    "meaning": "剪毛、剪断了；剪切的〔过去式、过去分词〕",
+    "sense": "原来长着、连着的毛或材料，已经被剪下一层、剪断，就用 sheared。",
+    "split": "shear + 完整 -ed，词尾读 /d/。shear 接古英语 sceran、scieran 的剪切动词，规则 sheared 与不规则旧分词 shorn 并存。",
+    "history": [
+      [
+        "古英语剪切动词 → shear",
+        "用工具剪开、剪去毛发"
+      ],
+      [
+        "shear + -ed → sheared",
+        "过去剪过；已被剪切"
+      ]
+    ],
+    "explanation": "sheared the sheep 给羊剪过毛；sheared off 被剪断、切断。",
+    "usage": "freshly sheared wool 刚剪下的羊毛；sheared metal 剪切过的金属。",
+    "contrast": "sheared 可作过去式，也可作分词；shorn 常见于特定剪毛、被剥去用法。sheer 偏离航向的过去式则是 sheered，拼写不同。",
+    "examples": [
+      [
+        "The farmer sheared the sheep before summer.",
+        "农民在夏天前给羊剪了毛。"
+      ],
+      [
+        "The impact sheared off a small metal pin.",
+        "撞击剪断了一枚小金属销。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheared#English",
+      "https://en.wiktionary.org/wiki/shear#English"
+    ]
+  },
+  {
+    "word": "shearing",
+    "ipa": "英 /ˈʃɪərɪŋ/；美 /ˈʃɪrɪŋ/",
+    "meaning": "剪毛、剪切〔现在分词、动名词〕",
+    "sense": "剪子正在把毛剪下来，或材料沿接触面错开，是 shearing 的过程画面。",
+    "split": "shear + -ing，直接相加。shear 延续古英语 sceran、scieran 的剪切动词，ing 把动作放在进行过程或作为活动来谈。",
+    "history": [
+      [
+        "古英语 sceran、scieran → shear",
+        "剪、剪毛的动作"
+      ],
+      [
+        "shear + -ing → shearing",
+        "正在剪毛、剪切；剪切过程"
+      ]
+    ],
+    "explanation": "sheep shearing 剪羊毛；shearing the wool 正在剪羊毛；shearing stress 剪应力。",
+    "usage": "during shearing 剪毛期间；a shearing tool 剪切工具。",
+    "contrast": "shearing 是进行、活动形式，shorn 是旧过去分词，不能互换到相同位置。工程语境先抓住相邻层向两侧错开的画面即可。",
+    "examples": [
+      [
+        "The workers are shearing the sheep today.",
+        "工人们今天正在给羊剪毛。"
+      ],
+      [
+        "The workshop demonstrated shearing with a simple model.",
+        "工作坊用一个简单模型演示了剪切。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shearing#English",
+      "https://en.wiktionary.org/wiki/shear#English"
+    ]
+  },
+  {
+    "word": "shorn",
+    "ipa": "英 /ʃɔːn/；美 /ʃɔːrn/",
+    "meaning": "剪去毛发的；被剥去某物的〔shear 的过去分词及形容词〕",
+    "sense": "羊毛剪掉以后，原来蓬松的一层不见了，就是 shorn 的样子。比喻中，权力、装饰也可以被剥去。",
+    "split": "shear 的不规则过去分词，接古英语 scoren 等旧分词，经中古英语 shorn、shorne 延续；不是在现代英语里临时给 shear 加一个 n。",
+    "history": [
+      [
+        "古英语剪切动词及分词 scoren → 中古英语 shorn 等",
+        "毛发被剪掉后的状态"
+      ],
+      [
+        "现代 shorn；shorn of 的比喻",
+        "剪毛后的；被剥去权力、装饰等"
+      ]
+    ],
+    "explanation": "newly shorn sheep 刚剪过毛的羊；shorn of power 被剥去权力。",
+    "usage": "closely shorn hair 剪得很短的头发；shorn of decoration 除去装饰的。",
+    "contrast": "shorn 常在描述、书面比喻中出现。shear 的普通过去式常用 sheared，不能把 I shorn the sheep 当作标准过去句。",
+    "examples": [
+      [
+        "The newly shorn sheep looked much smaller.",
+        "刚剪过毛的羊看起来小了许多。"
+      ],
+      [
+        "The plain room was shorn of decoration.",
+        "朴素的房间没有了那些装饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shorn#English",
+      "https://www.etymonline.com/word/shorn"
+    ]
+  },
+  {
+    "word": "sheer",
+    "ipa": "英 /ʃɪə/；美 /ʃɪr/",
+    "meaning": "纯粹的、十足的；陡直的；轻薄透明的",
+    "sense": "先抓住纯、不掺别的：sheer luck 完全靠运气。轻薄布料能透光、悬崖直上直下，是另两种很常见的具体用法。",
+    "split": "近源是古英语明亮、纯净的一组词形，并有北欧同源影响。Etymonline 接 scir 并远联剪切；Wiktionary 接 scære，又比较 scir，远联亮泽材料。远源不同说法并存，先抓住纯净到纯粹。",
+    "history": [
+      [
+        "古英语 scir、scære 等明亮、纯净词形；北欧同源影响",
+        "不同来源分析所用词形略异，更远是否联系剪切也不一致"
+      ],
+      [
+        "纯净 → 完全、十足；另有轻薄透明、陡直义",
+        "sheer luck、sheer curtains、sheer cliffs"
+      ]
+    ],
+    "explanation": "sheer luck 纯属运气；the sheer size 单是那庞大的体积；sheer curtains 轻薄透光的窗帘。",
+    "usage": "a sheer cliff 陡直悬崖；sheer joy 纯粹的喜悦。",
+    "contrast": "sheer 与 shear 剪切同音，现代不是一个词的随意拼写。sheer 另有航行偏离动词且来源不清，本页优先掌握常用形容词。",
+    "examples": [
+      [
+        "It was sheer luck that we met.",
+        "我们遇见纯属运气。"
+      ],
+      [
+        "Sheer curtains let the morning light through.",
+        "轻薄透光的窗帘让晨光照了进来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheer#English",
+      "https://www.etymonline.com/word/sheer"
+    ]
+  },
+  {
+    "word": "raises",
+    "ipa": "/ˈreɪzɪz/",
+    "meaning": "举起、提高；提出、筹集、养育〔第三人称单数〕；加薪〔复数，常见于美式〕",
+    "sense": "把原来低处的东西往上托，是 raises。价格、问题、资金、孩子，都可以从这个使升起、使发展画面去理解。",
+    "split": "raise + -s，/z/ 后读 /ɪz/，增加一个音节。raise 借北欧 reisa，与 rise 的较早使动词族相连，现代是使某物升起，不是 rise 的过去式。",
+    "history": [
+      [
+        "北欧 reisa → raise",
+        "使升起 → 提高、提出、筹集、养育"
+      ],
+      [
+        "raise + -s → raises",
+        "某人使某物增加、出现；美式也数几次加薪"
+      ]
+    ],
+    "explanation": "raises a hand 举手；raises a question 提出问题；raises money 筹款。",
+    "usage": "raises children 养育孩子；pay raises 多次加薪。",
+    "contrast": "raises 后通常有被提高、被提出的对象；rises 更常说东西自己升起。the price rises 与 the shop raises the price 的主语角色不同。",
+    "examples": [
+      [
+        "The example raises an interesting question.",
+        "这个例子提出了一个有趣的问题。"
+      ],
+      [
+        "The group raises money for the library.",
+        "这个团体为图书馆筹款。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raises#English",
+      "https://en.wiktionary.org/wiki/raise#English"
+    ]
+  },
+  {
+    "word": "ranges",
+    "ipa": "/ˈreɪndʒɪz/",
+    "meaning": "范围、系列；山脉〔复数〕；范围从……到……〔第三人称单数〕",
+    "sense": "东西排成一列，可以有一段连续范围，也可以有一列山峰；ranges 把这些一段段、一列列数出来。",
+    "split": "range + -s，/dʒ/ 后读 /ɪz/。range 经古法语行列、排列词族借入，连续范围、分布等名词动词义逐渐发展。",
+    "history": [
+      [
+        "古法语行列、排列材料 → range",
+        "排成一列 → 连续范围、山脉等"
+      ],
+      [
+        "range + -s → ranges",
+        "多个范围、系列；某物分布从一端到另一端"
+      ]
+    ],
+    "explanation": "mountain ranges 山脉；price ranges 价格区间；ranges from small to large 从小到大不等。",
+    "usage": "age ranges 年龄范围；ranges between two values 在两个值之间变化。",
+    "contrast": "ranges from A to B 说范围两端；ranges between A and B 用另一组配套介词。mountain ranges 数的是几条山脉，不只是几座山。",
+    "examples": [
+      [
+        "The price ranges from ten to twenty pounds.",
+        "价格从十镑到二十镑不等。"
+      ],
+      [
+        "Several mountain ranges cross the region.",
+        "几条山脉横贯这个地区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranges#English",
+      "https://en.wiktionary.org/wiki/range#English"
+    ]
+  },
+  {
+    "word": "rats",
+    "ipa": "/ræts/",
+    "meaning": "鼠类、老鼠〔复数〕；告发〔第三人称单数，口语〕",
+    "sense": "先认动物 rats；口语里的 rat on someone 又借负面的动物印象说出卖、告发某人。动物名称和人物评价要按语境分开。",
+    "split": "rat + -s，/t/ 后读 /s/。rat 承古英语 raet 等形式，更远来源、与欧洲相应词传播的方向有争论；告发动词是后来的比喻用法。",
+    "history": [
+      [
+        "古英语鼠名 → rat",
+        "动物名；后有人物负面比喻与告发动词"
+      ],
+      [
+        "rat + -s → rats",
+        "多只鼠；某人告发别人"
+      ]
+    ],
+    "explanation": "rats in the cellar 地窖里的老鼠；rats on someone 告发某人，口语贬义。",
+    "usage": "wild rats 野鼠；rats and mice 两类常见鼠名。",
+    "contrast": "rats 通常较 mice 所指的鼠体型大，但日常名称与生物分类并非完全一一对应。Rats! 还可作轻度懊恼感叹，靠句子辨认。",
+    "examples": [
+      [
+        "The farmer found rats in the old shed.",
+        "农民在旧棚里发现了老鼠。"
+      ],
+      [
+        "The story features two clever rats.",
+        "故事里有两只聪明的老鼠。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rats#English",
+      "https://en.wiktionary.org/wiki/rat#English"
+    ]
+  },
+  {
+    "word": "servers",
+    "ipa": "英 /ˈsɜːvəz/；美 /ˈsɜːrvərz/",
+    "meaning": "服务员、服务者；服务器〔复数〕",
+    "sense": "谁负责把需要的东西提供给你，谁就是 server；餐厅送餐的人、网络里提供数据和功能的机器，都符合这个角色。",
+    "split": "serve 去 e 加完整 -er → server，再加复数 -s。serve 经法语 servir 接拉丁 servire 服侍；计算术语从提供服务的功能发展。",
+    "history": [
+      [
+        "法语 servir、拉丁 servire → serve → server",
+        "服务 → 服务者、提供服务的设备或程序"
+      ],
+      [
+        "server + -s → servers",
+        "多位服务者；多台服务器"
+      ]
+    ],
+    "explanation": "restaurant servers 餐厅服务员；web servers 网站服务器；game servers 游戏服务器。",
+    "usage": "several servers 几台服务器；servers in the café 咖啡馆里的服务员。",
+    "contrast": "servers 可以指人，也可指程序、机器，先看语境。计算里的 server 与 client 是提供服务与请求服务的角色关系，不只按机器大小区分。",
+    "examples": [
+      [
+        "Two servers brought the food to our table.",
+        "两位服务员把食物送到我们桌上。"
+      ],
+      [
+        "The website runs on several servers.",
+        "这个网站运行在几台服务器上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/servers#English",
+      "https://en.wiktionary.org/wiki/server#English"
+    ]
+  },
+  {
+    "word": "siblings",
+    "ipa": "/ˈsɪblɪŋz/",
+    "meaning": "兄弟姐妹〔复数〕",
+    "sense": "把哥哥、姐姐、弟弟、妹妹放在同一个关系框里，不先区分性别和长幼，就是 siblings。",
+    "split": "sibling + -s，/ŋ/ 后读 /z/。sibling 接古英语 sibb 亲属关系与 -ling 构成的旧词，旧义可泛指亲属；现代重新采用后常专指兄弟姐妹。",
+    "history": [
+      [
+        "古英语亲属词 sibling → 现代重新采用",
+        "广义亲属 → 兄弟姐妹中的一个"
+      ],
+      [
+        "sibling + -s → siblings",
+        "多位兄弟姐妹"
+      ]
+    ],
+    "explanation": "older siblings 哥哥姐姐；younger siblings 弟弟妹妹；three siblings 三个兄弟姐妹。",
+    "usage": "siblings growing up together 一起长大的兄弟姐妹；sibling rivalry 兄弟姐妹之间的竞争，前置词通常单数。",
+    "contrast": "I have two siblings 通常说我另外有两个兄弟姐妹，不把说话人自己算进 two。the three siblings 则可说包含当事人在内的一组三人。",
+    "examples": [
+      [
+        "She has two younger siblings.",
+        "她有两个弟弟妹妹。"
+      ],
+      [
+        "The siblings grew up in the same town.",
+        "这几个兄弟姐妹在同一个镇上长大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/siblings#English",
+      "https://en.wiktionary.org/wiki/sibling#English"
+    ]
+  },
+  {
+    "word": "speeds",
+    "ipa": "/spiːdz/",
+    "meaning": "速度、速率、挡位〔复数〕；加快、快速行进〔第三人称单数〕",
+    "sense": "同一段路，有人走得快有人走得慢，就有 different speeds。机器也能按不同快慢工作，旋钮上的几挡便常叫 speeds。",
+    "split": "speed + -s，/d/ 后读 /z/。speed 名词、动词接古英语 sped、spedan，旧有成功、顺利进展义，快速、速率义后来成为中心。",
+    "history": [
+      [
+        "古英语 sped、spedan → speed",
+        "顺利进展、成功 → 快速与速率"
+      ],
+      [
+        "speed + -s → speeds",
+        "不同速度、挡位；某物快速走、使加快"
+      ]
+    ],
+    "explanation": "at different speeds 以不同速度；a fan with three speeds 有三挡的风扇；speeds up the process 加快过程。",
+    "usage": "high speeds 高速；speeds through the station 快速穿过车站。",
+    "contrast": "speeds 是现在三单或名词复数；过去式、分词常见 sped，也有 speeded，搭配偏好不同。speed up 可及物也可不及物。",
+    "examples": [
+      [
+        "The fan has three speeds.",
+        "风扇有三个速度挡位。"
+      ],
+      [
+        "The new tool speeds up the process.",
+        "新工具加快了这个过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speeds#English",
+      "https://en.wiktionary.org/wiki/speed#English"
+    ]
+  }
+]

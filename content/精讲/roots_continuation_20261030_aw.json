@@ -1,0 +1,115 @@
+[
+  {
+    "id": "B3656",
+    "meaning": "今天的伤心；旧饱足到沉实、严肃等中间义",
+    "core": "SAD：心情低落；也说让人难过的事情",
+    "image": "sad → sadly、sadness、sadden，按状态、方式评论、情绪名词、引发变化连读。",
+    "intro": "旧饱足义到现代悲伤的转折有多种解释，保留分寸；学习场景用心往下沉帮助理解，不当历史事实。",
+    "forms": "sad + -ly/-ness/-en；sadder、saddest 为比较变化。\n\nsad 接古英语 sæd 饱足、厌倦等旧材料，后来有沉实、严肃、悲伤等用法，中间过渡有不同解释。",
+    "branches": [
+      [
+        "状态及表达方式",
+        "sad · sadly"
+      ],
+      [
+        "情绪和引发情绪",
+        "sadness · sadden"
+      ],
+      [
+        "sad → sadder → saddest：更难过、最难过",
+        "sad · sadder · saddest"
+      ]
+    ],
+    "contrasts": "sad/sorry 感受与道歉、遗憾有分工；sadly lacking 严重缺乏不讲难过；sadden 动词不等于 sadness。",
+    "practice": "The sad news saddened her, and a trace of sadness remained in her voice.\n\n坏消息让她难过，声音里也一直带着一丝伤感。",
+    "words": [
+      "sad",
+      "sadly",
+      "sadness",
+      "sadden",
+      "sadder",
+      "saddest"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2674",
+    "meaning": "新鲜、不陈旧；恢复活力、重新开始与刷新",
+    "core": "FRESH：没陈旧，有清新、新起点的感觉",
+    "image": "fresh → freshly、freshness、freshen、afresh；refresh → refreshing → refreshingly，与 refreshment 同组；freshman、freshwater 共享。",
+    "intro": "新鲜、淡水、清新有旧联系；无礼义通常另接德语形式。refresh 是借入旧动词，不仅是现代 re+fresh。",
+    "forms": "fresh + -ly/-ness/-en；a- + fresh；refresh + -ing/-ment，refreshing + -ly；fresh + man/water。\n\n历史经法语 refreschier；现代可对应 re、fresh，但不能省略借词历史。",
+    "branches": [
+      [
+        "基本性质与新的开始",
+        "fresh · freshly · freshness · freshen · afresh"
+      ],
+      [
+        "恢复、刷新及感受",
+        "refresh · refreshing · refreshingly · refreshment"
+      ],
+      [
+        "已有固定组合",
+        "freshman · freshwater"
+      ],
+      [
+        "refresh 的恢复精神、刷新与常用形式",
+        "refresh · refreshes · refreshed · refreshing"
+      ]
+    ],
+    "contrasts": "freshly baked 刚烤，fresh bread 新鲜；refreshing 让人清爽、refreshed 已清爽；refreshment 茶点不指网页刷新。",
+    "practice": "After some refreshments, we felt ready to start afresh.\n\n吃喝了一些茶点后，我们觉得又能重新开始了。",
+    "words": [
+      "fresh",
+      "freshly",
+      "freshness",
+      "freshen",
+      "afresh",
+      "refresh",
+      "refreshing",
+      "refreshingly",
+      "refreshment",
+      "freshman",
+      "freshwater",
+      "refreshes",
+      "refreshed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2655",
+    "meaning": "女性同胞与姐妹般关系；长幼、继亲另说明",
+    "core": "SISTER：同胞姐妹；关系也能借来讲团体、机构",
+    "image": "sister → sisterly、sisterhood；stepsister 单讲继亲，避免与同父异母、同母异父混淆。",
+    "intro": "古老亲属词延续至今，现代词形有同族语言影响；本词没有自带姐姐、妹妹的年龄差。",
+    "forms": "sister + -ly/-hood；step- + sister；older/younger sister 分长幼。\n\nsister 继承早期日耳曼亲属词；sisters 不区分年龄长幼，修女等用法看场景。",
+    "branches": [
+      [
+        "基本关系与相处方式",
+        "sister · sisterly · sisterhood"
+      ],
+      [
+        "继亲关系",
+        "stepsister"
+      ],
+      [
+        "sister → sisters：姐姐、妹妹与团体姐妹",
+        "sister · sisters"
+      ]
+    ],
+    "contrasts": "sister 无长幼；sisterly 可形容词；stepsister 继姐妹不同于 half-sister；sister company 同系不必是子公司。",
+    "practice": "Her stepsister offered sisterly advice and a warm hug.\n\n她的继姐妹像姐妹般关切地给她建议，并温暖地抱了抱她。",
+    "words": [
+      "sister",
+      "sisterly",
+      "sisterhood",
+      "stepsister",
+      "sisters"
+    ],
+    "exclude": {
+      "sister-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sister-out-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-sister": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

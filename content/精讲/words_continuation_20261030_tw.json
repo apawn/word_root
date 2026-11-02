@@ -1,0 +1,351 @@
+[
+  {
+    "word": "won",
+    "ipa": "动词 /wʌn/；货币名：英 /wɒn/、美 /wɑːn/",
+    "meaning": "赢得了、获胜了〔win 的过去式、过去分词〕；韩元等货币名〔另源〕",
+    "sense": "努力争取到比赛、支持或机会，过去可以说 won。遇到价格中的 won，则在说货币，读音和来源要换一支。",
+    "split": "动词 won 延续 win 的旧日耳曼变位，所属词族较早有努力、争取义。货币名另借自韩语 won，联系汉字圓的相关货币名称。",
+    "history": [
+      [
+        "win 的努力争取词族与旧过去形式",
+        "赢得、获胜的过去与完成表达"
+      ],
+      [
+        "韩语货币名 won → 英语名词",
+        "韩元等，另源且常另读"
+      ]
+    ],
+    "explanation": "won the match 赢了比赛；won a prize 获奖；won their trust 赢得信任；five thousand won 五千韩元。",
+    "usage": "has won several awards；won by a narrow margin。",
+    "contrast": "动词 won 与 one 在常见读音中同音，但来源、词性不同。价格语境的 won 通常取货币名，不按 win 的变位解释。",
+    "examples": [
+      [
+        "Our team won the final match.",
+        "我们队赢了决赛。"
+      ],
+      [
+        "She has won the trust of her colleagues.",
+        "她赢得了同事们的信任。"
+      ],
+      [
+        "The notebook cost five thousand won.",
+        "那本笔记本售价五千韩元。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/won",
+      "https://en.wiktionary.org/wiki/won#English"
+    ]
+  },
+  {
+    "word": "sent",
+    "ipa": "/sent/",
+    "meaning": "发送了、派出了、送到了；send 的过去式、过去分词",
+    "sense": "把人、物、消息送出去的动作已经发生，常用 sent。A parcel was sent 是包裹被寄出，不一定已经收到。",
+    "split": "send 承接古英语 sendan 等使人或物前往的词族；sent 由较早带过去词尾的形式变化而来，词尾最终固定为 t。",
+    "history": [
+      [
+        "古英语 sendan 等与旧过去形式",
+        "使人、物、消息前往某处"
+      ],
+      [
+        "现代 send → sent → sent",
+        "发送、派遣的过去与过去分词"
+      ]
+    ],
+    "explanation": "sent an email 发了邮件；sent for help 派人求助；was sent home 被送回家；sent to the wrong address 寄错地址。",
+    "usage": "have sent the message；sent someone a letter。",
+    "contrast": "sent 说送出的动作，received 说收到的动作；sent 不单独保证对方收到。send 后可接双宾语，sent her a message 很自然。",
+    "examples": [
+      [
+        "I sent her a message this morning.",
+        "我今天早上给她发了条消息。"
+      ],
+      [
+        "The package was sent to the wrong address.",
+        "包裹被寄到了错误的地址。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/send",
+      "https://www.etymonline.com/word/went",
+      "https://en.wiktionary.org/wiki/sent#English"
+    ]
+  },
+  {
+    "word": "became",
+    "ipa": "/bɪˈkeɪm/",
+    "meaning": "变成了、开始处于某种状态；become 的过去式",
+    "sense": "事情跨过一个变化点：从不安静到安静，从学生到教师。became 描写过去进入了什么新状态。",
+    "split": "become 与较早 be-、come 的词族相连；became 跟随 come、came 的变位关系，用于整个复合动词的过去式。",
+    "history": [
+      [
+        "较早 become 与 come 词族",
+        "来到、进入某种状态"
+      ],
+      [
+        "现代 become → became → become",
+        "过去 became；过去分词 become"
+      ]
+    ],
+    "explanation": "became quiet 安静下来；became a teacher 成为教师；became clear 变得清楚；became interested 产生兴趣。后面常接形容词或名词。",
+    "usage": "became popular；became aware of something。",
+    "contrast": "was 说过去处于某状态，became 更强调进入该状态的变化。She was a teacher 和 She became a teacher 关注点不同。",
+    "examples": [
+      [
+        "The room became quiet when she entered.",
+        "她进来时，房间安静下来。"
+      ],
+      [
+        "He became a teacher after university.",
+        "大学毕业后，他成了一名教师。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/came",
+      "https://en.wiktionary.org/wiki/became#English"
+    ]
+  },
+  {
+    "word": "led",
+    "ipa": "/led/",
+    "meaning": "带领了、引导了；导致了；lead 的过去式、过去分词",
+    "sense": "过去带路、带队，或一件事把结果引出来，用 led。led to a change 把原因和变化连接起来。",
+    "split": "引导动词 lead 接古英语 lædan 使同行、领路等；较早过去形式经过变化形成现代 led，过去分词也采用 led。",
+    "history": [
+      [
+        "古英语 lædan 与相应旧过去形式",
+        "使人同行、带领"
+      ],
+      [
+        "现代 lead /liːd/ → led /led/ → led",
+        "带领、引致的过去与完成形式"
+      ]
+    ],
+    "explanation": "led the team 带领了团队；led to a discovery 导致了发现；was led into the room 被领进房间。",
+    "usage": "has led several projects；led by a guide。",
+    "contrast": "引导的原形 lead 读 /liːd/，过去式 led 读 /led/。金属铅 lead 也读 /led/，却是另一来源的名词，不是引导动词的过去拼写。",
+    "examples": [
+      [
+        "The guide led us through the forest.",
+        "向导带着我们穿过森林。"
+      ],
+      [
+        "The discussion led to a new idea.",
+        "讨论引出了一个新想法。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/lead",
+      "https://en.wiktionary.org/wiki/led#English"
+    ]
+  },
+  {
+    "word": "met",
+    "ipa": "/met/",
+    "meaning": "见过、遇到了、满足了；meet 的过去式、过去分词",
+    "sense": "人和人碰面，条件和要求对上，都可以从 meet 变为 met。句子里是谁遇到谁、什么达到了什么，要一起看。",
+    "split": "meet 经中古英语承接古英语 metan 等相遇词族；met 是其较早过去形式进一步变化、缩短后的现代形式。",
+    "history": [
+      [
+        "较早英语 meet 词族及过去形式",
+        "相遇、碰到"
+      ],
+      [
+        "现代 meet → met → met",
+        "见面、遇到；满足、符合的过去与完成表达"
+      ]
+    ],
+    "explanation": "met a friend 遇见朋友；have met before 以前见过；met the requirements 满足了要求；met with approval 获得赞同。",
+    "usage": "met at the station；the deadline was met。",
+    "contrast": "met 不只表示第一次认识。We met yesterday 可能是昨天见面；meet the requirements 的 met 则说条件达到了。",
+    "examples": [
+      [
+        "We met at the station yesterday.",
+        "我们昨天在车站见了面。"
+      ],
+      [
+        "The design met all the requirements.",
+        "这个设计满足了全部要求。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/meet",
+      "https://en.wiktionary.org/wiki/met#English"
+    ]
+  },
+  {
+    "word": "began",
+    "ipa": "/bɪˈɡæn/",
+    "meaning": "开始了；begin 的过去式",
+    "sense": "把过去的一个起点点出来：雨开始下、音乐开始响、人开始做事。began 说那一步开始发生了。",
+    "split": "begin 接古英语 beginnan 等开始词族，延续较早以词干元音变化标记过去的体系；began 是现代一般过去形式。",
+    "history": [
+      [
+        "旧英语 begin 词族与相应变位",
+        "开始、着手及其过去表达"
+      ],
+      [
+        "现代 begin → began → begun",
+        "一般过去 began；过去分词 begun"
+      ]
+    ],
+    "explanation": "began to rain 开始下雨；began working 开始工作；the meeting began 会议开始了。begin 后可接不定式或 -ing 形式。",
+    "usage": "began the journey；began with a question。",
+    "contrast": "一般过去用 began；has、have、had 后用过去分词 begun。不要把 has began 当标准搭配。",
+    "examples": [
+      [
+        "It began to rain just after lunch.",
+        "午饭后不久开始下雨了。"
+      ],
+      [
+        "The teacher began the lesson with a question.",
+        "老师用一个问题开始了这节课。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/began",
+      "https://en.wiktionary.org/wiki/began#English"
+    ]
+  },
+  {
+    "word": "begun",
+    "ipa": "/bɪˈɡʌn/",
+    "meaning": "已经开始、被开始；begin 的过去分词",
+    "sense": "has begun 把开始接到已经发生这层结构里。begun 最常与 has、have、had 连着出现。",
+    "split": "接 begin 的旧强变位分词材料，现代保留 -n 结尾，与原形 begin、过去式 began 对应。",
+    "history": [
+      [
+        "较早 begin 词族的分词形式",
+        "开始这一动作的分词材料"
+      ],
+      [
+        "现代 begin → began → begun",
+        "begun 用于完成结构等，不独立代替一般过去"
+      ]
+    ],
+    "explanation": "has begun 已经开始；had begun 过去某时已经开始；have just begun 刚刚开始；the work has begun 工作已经开始。",
+    "usage": "the show has begun；had already begun。",
+    "contrast": "began /bɪˈɡæn/ 与 begun /bɪˈɡʌn/ 元音不同，语法位置也不同：The show began；The show has begun。",
+    "examples": [
+      [
+        "The performance has already begun.",
+        "演出已经开始了。"
+      ],
+      [
+        "By the time we arrived, the meeting had begun.",
+        "我们到达时，会议已经开始了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/began",
+      "https://en.wiktionary.org/wiki/begun#English"
+    ]
+  },
+  {
+    "word": "built",
+    "ipa": "/bɪlt/",
+    "meaning": "建造了、被建造的；体格……的；build 的过去式、过去分词",
+    "sense": "桥、房子被造起来是 built；a strongly built person 则把人的身体当成构造来描写，意思是体格健壮。",
+    "split": "build 接古英语 byldan 建屋等，较早带过去词尾的形式后来形成 built；-t 与旧过去尾变化有关，另由分词扩展出体格形容词。",
+    "history": [
+      [
+        "较早 build 词族与过去词尾变化",
+        "建造、构成的过去形式"
+      ],
+      [
+        "现代 build → built → built",
+        "建成、被建造；体格构造如何"
+      ]
+    ],
+    "explanation": "built a house 盖了房子；was built in 1900 建于 1900 年；strongly built 体格健壮的；built on experience 建立在经验之上的。",
+    "usage": "built from stone；built a reputation。",
+    "contrast": "build 的 d 与 built 的 t 要听清，但不能把所有以 d 结尾的动词都照此变。was built 是被动表达，具体结构由整句判断。",
+    "examples": [
+      [
+        "The bridge was built from local stone.",
+        "这座桥用当地石材建成。"
+      ],
+      [
+        "They built a good relationship over the years.",
+        "多年来，他们建立了良好的关系。"
+      ],
+      [
+        "He is strongly built.",
+        "他体格健壮。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/built",
+      "https://en.wiktionary.org/wiki/built#English"
+    ]
+  },
+  {
+    "word": "wrote",
+    "ipa": "英 /rəʊt/；美 /roʊt/",
+    "meaning": "写了、创作了；write 的过去式",
+    "sense": "过去写下一封信、一句代码、一本书，都可以用 wrote。写什么、为谁写，通过宾语和搭配说明。",
+    "split": "write 接古英语 writan 刻痕、书写，过去式有 wrat 等；经中古英语和后续语音变化成为 wrote，保留旧强变位的不同元音。",
+    "history": [
+      [
+        "古英语 writan、wrat 等",
+        "刻写、书写的原形与过去形式"
+      ],
+      [
+        "现代 write → wrote → written",
+        "一般过去 wrote；过去分词 written"
+      ]
+    ],
+    "explanation": "wrote a letter 写了封信；wrote a novel 创作了小说；wrote to someone 给某人写信；wrote down the address 记下了地址。",
+    "usage": "wrote a reply；wrote the first chapter。",
+    "contrast": "wrote 用一般过去；written 常跟 have、has 或被动结构：She wrote it；She has written it；It was written yesterday。",
+    "examples": [
+      [
+        "I wrote her a letter last week.",
+        "我上周给她写了一封信。"
+      ],
+      [
+        "He wrote down the address before leaving.",
+        "离开前，他记下了地址。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/write",
+      "https://en.wiktionary.org/wiki/wrote#English"
+    ]
+  },
+  {
+    "word": "kept",
+    "ipa": "/kept/",
+    "meaning": "保留了、遵守了、保持着；keep 的过去式、过去分词",
+    "sense": "东西留住了，承诺守住了，某种动作一直持续着，都可在过去用 kept。",
+    "split": "接中古英语 kept、kepte 与古英语 cepte 等旧过去形式。keep 的旧词尾变化和元音变化共同留下现代 kept，并非所有不规则动词都属于同一种历史。",
+    "history": [
+      [
+        "古英语 cepan、cepte → 中古英语相关形式",
+        "守住、保持及其过去表达"
+      ],
+      [
+        "现代 keep → kept → kept",
+        "过去、过去分词同形；长短元音不同"
+      ]
+    ],
+    "explanation": "kept the receipt 留着收据；kept a promise 遵守诺言；kept quiet 保持安静；kept asking 一直问。",
+    "usage": "kept the door open；kept in touch。",
+    "contrast": "kept doing 强调过去持续、反复做；kept something 常说留住某物。keep 的 /iː/ 到 kept 变为 /e/，两种读音一起记。",
+    "examples": [
+      [
+        "She kept her promise.",
+        "她遵守了诺言。"
+      ],
+      [
+        "He kept asking the same question.",
+        "他一直在问同一个问题。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/kept",
+      "https://en.wiktionary.org/wiki/kept#English"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "word": "con",
+    "ipa": "英 /kɒn/；美 /kɑːn/",
+    "meaning": "骗局、诈骗；欺骗；不利面、反对理由；大会等词的缩称",
+    "sense": "同一个短词装了几条来源。It’s a con 是骗局，pros and cons 是利弊，a comic con 则是漫画主题大会；不能都套成一个共同词根。",
+    "split": "诈骗义缩自 confidence trick、confidence man，抓骗取信任；反方义缩自拉丁 contrā 反对。另有 convict 囚犯、convention 大会等缩称，以及接旧知识词源的学习动词。",
+    "history": [
+      [
+        "confidence trick／confidence man → con 的骗局义",
+        "先骗得信任，再骗取利益"
+      ],
+      [
+        "contra 反对 → con 的反方、不利面义",
+        "pros and cons 利弊"
+      ],
+      [
+        "其他独立来源",
+        "convict、convention 等的缩称；旧 con 学习另接古英语知识词源"
+      ]
+    ],
+    "explanation": "a con trick 骗局，con someone into doing 骗某人做，the pros and cons 利弊，a fan con 粉丝大会。作为动词，conned、conning 双写 n。",
+    "usage": "a con trick；con someone into；pros and cons；a comic con。",
+    "contrast": "独立 con 的多条缩词来源，不等于所有单词里的 con- 都是欺骗，也不等于拉丁 con-／com- 一起这个前缀。",
+    "examples": [
+      [
+        "The offer turned out to be a con.",
+        "那份优惠原来是骗局。"
+      ],
+      [
+        "We discussed the pros and cons of moving.",
+        "我们讨论了搬家的利弊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/con#English",
+      "https://www.etymonline.com/word/con"
+    ]
+  },
+  {
+    "word": "conman",
+    "ipa": "英 /ˈkɒnmæn/；美 /ˈkɑːnmæn/",
+    "meaning": "骗子；靠取得信任行骗的人",
+    "sense": "先装得可靠，让你愿意相信，再利用你的信任骗钱、骗利益，就是 conman 的典型套路。它不仅是偶尔说错话的人。",
+    "split": "con 的 confidence 欺诈缩称 + man；也可理解为 confidence man 的缩短形式。不是反对的 con + man，后半主要标人物。",
+    "history": [
+      [
+        "confidence trick／confidence man → con 的骗局义",
+        "先骗得信任，再骗取利益"
+      ],
+      [
+        "con + man → conman",
+        "以取得信任来行骗的人"
+      ]
+    ],
+    "explanation": "a clever conman 狡猾骗子，expose a conman 揭穿骗子。也常分写 con man，con artist 则是常见的不带 man 的说法。",
+    "usage": "a clever conman；expose a conman；con artist。",
+    "contrast": "conman 涉及欺骗意图，不能把一次诚实错误直接当骗局。cunning 狡猾在意义上有关，但它本身不是 conman 的词源。",
+    "examples": [
+      [
+        "The film follows a conman who invents a false identity.",
+        "电影讲述一个伪造身份行骗的骗子。"
+      ],
+      [
+        "The journalist exposed the conman’s scheme.",
+        "记者揭穿了骗子的计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conman#English"
+    ]
+  },
+  {
+    "word": "rap",
+    "ipa": "/ræp/",
+    "meaning": "短促敲击；说唱、说唱音乐；指责、责任〔口语〕",
+    "sense": "手指短促敲门是 rap；把话说得有力度、节奏鲜明，又发展到说唱。a bad rap 却常是坏名声、不公的负面评价。",
+    "split": "接中古英语 rap、rappen 等，可能联系斯堪的纳维亚语或拟声形成。说话、说唱由较早动作、言语用法发展，不是先造 rhythm and poetry 的首字母缩写。",
+    "history": [
+      [
+        "中古英语 rap／rappen 等",
+        "短促敲击、敲打，或有北欧语言和拟声联系"
+      ],
+      [
+        "动作借给说话、责备等",
+        "急促说出、谈话；指责、责任"
+      ],
+      [
+        "现代音乐用法",
+        "在节奏上组织语言，形成 rap 的音乐与表演含义"
+      ]
+    ],
+    "explanation": "a rap on the door 一下短促敲门声，rap music 说唱音乐，rap lyrics 说唱歌词，get a bad rap 落得不好的名声，take the rap 承担责罚、责任。",
+    "usage": "a rap on the door；rap music；get a bad rap；take the rap。",
+    "contrast": "rap 与 wrap 包裹同音；音乐 rap 不是 wrap 的省写。hip-hop 是更广的文化、音乐语境，rap 主要说其中的节奏化语言表演，不完全等同。",
+    "examples": [
+      [
+        "We heard a sharp rap on the door.",
+        "我们听到门上短促的一记敲击声。"
+      ],
+      [
+        "The review gave the album an unfairly bad rap.",
+        "那篇评论给这张专辑的负面评价并不公允。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rap#English",
+      "https://www.etymonline.com/word/rap"
+    ]
+  },
+  {
+    "word": "rapper",
+    "ipa": "英 /ˈræpə/；美 /ˈræpər/",
+    "meaning": "说唱歌手、说唱表演者；敲击者或敲击器〔其他语境〕",
+    "sense": "现代最常想到说唱表演者：用节奏、押韵和语言组织来表演的人。词形更老的含义则可以是敲击的人、器具。",
+    "split": "rap + -er，随 rap 的不同动词义形成人物、器具词。音乐人物义接说唱用法，不能拿今天歌手义倒推所有早期 rapper。",
+    "history": [
+      [
+        "中古英语 rap／rappen 等",
+        "短促敲击、敲打，或有北欧语言和拟声联系"
+      ],
+      [
+        "动作借给说话、责备等",
+        "急促说出、谈话；指责、责任"
+      ],
+      [
+        "现代音乐用法",
+        "在节奏上组织语言，形成 rap 的音乐与表演含义"
+      ],
+      [
+        "rap + -er → rapper",
+        "执行敲击、说唱等不同动作的人物或器具"
+      ]
+    ],
+    "explanation": "a talented rapper 有才华的说唱表演者，a rapper’s lyrics 说唱歌手的歌词。rapper 不必是职业录音艺人，也可说具体表演者。",
+    "usage": "a talented rapper；a rapper’s lyrics。",
+    "contrast": "rapper 与 wrapper 包装纸、包裹物同音，但后者来自 wrap。纸包住糖果的那层是 wrapper，不是 rapper。",
+    "examples": [
+      [
+        "The rapper wrote all the lyrics on the album.",
+        "这位说唱歌手写了专辑的全部歌词。"
+      ],
+      [
+        "A local rapper performed at the festival.",
+        "一位当地说唱表演者在音乐节上演出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rapper#English"
+    ]
+  },
+  {
+    "word": "loneliness",
+    "ipa": "英 /ˈləʊnlinəs/；美 /ˈloʊnlinəs/",
+    "meaning": "孤独、寂寞；孤寂状态",
+    "sense": "身边缺少想要的陪伴、连接，心里空落落，是 loneliness 的常见感受。有时也描写一个地方无人活动的孤寂。",
+    "split": "lonely + -ness，y 变 i。lonely 接 lone、alone 一系，alone 的历史联系 all one 单独一人；现代孤独感却不按在场人数机械计算。",
+    "history": [
+      [
+        "alone → lone → lonely",
+        "独自一人 → 孤独、寂寞的性质"
+      ],
+      [
+        "lonely + -ness → loneliness",
+        "孤独感；孤寂状态"
+      ]
+    ],
+    "explanation": "a feeling of loneliness 孤独感，ease loneliness 缓解孤独，the loneliness of the place 那地方的孤寂。通常不可数。",
+    "usage": "a feeling of loneliness；ease loneliness；the loneliness of。",
+    "contrast": "being alone 说独处事实，loneliness 常说缺少连接的感受。人可以独处却自在，也可能在人群中孤独；它本身不是某种临床诊断的同义词。",
+    "examples": [
+      [
+        "She sometimes felt loneliness even in a crowded room.",
+        "她有时即使在人多的房间里也觉得孤独。"
+      ],
+      [
+        "Regular visits helped ease his loneliness.",
+        "定期探望帮助缓解了他的寂寞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loneliness#English"
+    ]
+  },
+  {
+    "word": "intentioned",
+    "ipa": "/ɪnˈtenʃənd/",
+    "meaning": "怀有某种意图的〔通常带限定词〕",
+    "sense": "这个词常需要前面交代意图怎样：well intentioned 本意良好，badly intentioned 怀着坏意。它给人或行为的出发点加说明。",
+    "split": "intention 意图 + -ed，这里的 -ed 形成具有某种东西的形容词，不是 intention 这个名词自己发生过去动作。词尾常读 /ʃənd/，不多加 /ɪd/。",
+    "history": [
+      [
+        "拉丁 intentiō 经法语等 → intention",
+        "意图、心中指向的目的"
+      ],
+      [
+        "intention + -ed → intentioned",
+        "具有某种意图；通常由 well 等说明性质"
+      ]
+    ],
+    "explanation": "well intentioned 本意良好的，badly intentioned 怀有恶意的。放在名词前常写作 a well-intentioned suggestion，连字符标出整体修饰关系。",
+    "usage": "well intentioned；badly intentioned；a well-intentioned suggestion。",
+    "contrast": "well intentioned 评价出发点，effective 评价有没有用。好心建议也可能效果差；intentional 则是故意的，不等于出于好意。",
+    "examples": [
+      [
+        "The advice was well intentioned but unhelpful.",
+        "建议出于好意，却没有帮助。"
+      ],
+      [
+        "She appreciated his well-intentioned efforts.",
+        "她感激他出于好意所作的努力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intentioned#English"
+    ]
+  }
+]

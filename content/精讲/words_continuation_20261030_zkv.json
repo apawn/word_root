@@ -1,0 +1,929 @@
+[
+  {
+    "word": "diminish",
+    "ipa": "英、美 /dɪˈmɪnɪʃ/",
+    "meaning": "减小、减少；削弱；降低重要性",
+    "sense": "声音一点点变小，影响力一点点变弱，都可以用 diminish。核心是原来有的量、力量或分量变少。",
+    "split": "英语合流较早 diminue 与 minish。前者经法语 diminuer 接拉丁 diminuere、deminuere；后者经法语相关形式接 minuere 使小。末尾 -ish 在这里不是 childish 那类形容词后缀。",
+    "history": [
+      [
+        "拉丁 deminuere、minuere → 法语相关动词 → 英语 diminue、minish",
+        "两条较早词形都联系使小、减少"
+      ],
+      [
+        "英语 diminue、minish 合流 → diminish",
+        "现代能说自身变少，也能说使别的东西减弱"
+      ]
+    ],
+    "explanation": "diminish in size 是尺寸变小；diminish someone’s confidence 是削弱信心；does not diminish the achievement 是并不降低成就的分量。",
+    "usage": "diminish in size；diminish confidence；diminish the importance of。",
+    "contrast": "reduce 常明确说把某个量降下来，diminish 也很自然地用于影响、信心、重要性等抽象分量。它能不接宾语，说某事物本身减弱。",
+    "examples": [
+      [
+        "The noise began to diminish as we moved away.",
+        "随着我们走远，噪声开始减弱。"
+      ],
+      [
+        "One mistake does not diminish the value of her work.",
+        "一次错误不会降低她工作的价值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diminish#English",
+      "https://www.etymonline.com/word/diminish"
+    ]
+  },
+  {
+    "word": "diminished",
+    "ipa": "英、美 /dɪˈmɪnɪʃt/",
+    "meaning": "减少了的；减弱的；被削弱的",
+    "sense": "以前信心很足，现在少了几分，是 diminished confidence。它把注意力放在已经减弱、比原先少的状态上。",
+    "split": "diminish + 完整 -ed → diminished，/ʃ/ 后 -ed 读 /t/。diminish 本身是较早两个英语动词形式合流，远接拉丁使小词族。",
+    "history": [
+      [
+        "较早英语 diminue、minish 合流 → diminish",
+        "拉丁使小材料经法语等进入"
+      ],
+      [
+        "diminish + -ed → diminished",
+        "过去动作与相应减弱状态的形容词用法"
+      ]
+    ],
+    "explanation": "diminished confidence 是下降的信心；diminished influence 是减弱的影响力；greatly diminished 是大大减弱了的。",
+    "usage": "diminished confidence；diminished influence；greatly diminished。",
+    "contrast": "diminished 常说减弱后的状态，diminishing 常说正在减少的趋势。音乐里也有 diminished 等专门术语，不能只凭一般释义推完其定义。",
+    "examples": [
+      [
+        "He returned to the task with diminished confidence.",
+        "他重新做起这项任务时，信心已少了几分。"
+      ],
+      [
+        "Her influence was diminished after the reorganisation.",
+        "改组后，她的影响力减弱了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diminished#English",
+      "https://www.etymonline.com/word/diminish"
+    ]
+  },
+  {
+    "word": "diminishing",
+    "ipa": "英、美 /dɪˈmɪnɪʃɪŋ/",
+    "meaning": "逐渐减少、减弱的；减少的过程",
+    "sense": "水位、资源、耐心都在往下走，是 diminishing 的画面。它常把变化看成趋势：越来越少，而不只是已经少了一些。",
+    "split": "diminish + 完整 -ing → diminishing，基础词保留。可为动作形式，也可修饰不断减少的数量、力量、额外收获等。",
+    "history": [
+      [
+        "拉丁使小词族经法语、英语早期词形 → diminish",
+        "现代表示减小、减少、削弱"
+      ],
+      [
+        "diminish + -ing → diminishing",
+        "动态减少，或具有这种趋势的性质"
+      ]
+    ],
+    "explanation": "diminishing resources 是不断减少的资源；diminishing interest 是逐渐减弱的兴趣；diminishing returns 常说越往后投入，额外收获越少。",
+    "usage": "diminishing resources；diminishing interest；diminishing returns。",
+    "contrast": "diminishing 不等于已经消失，可能仍有，只是越来越少。diminished 更关注已形成的较少、较弱状态。",
+    "examples": [
+      [
+        "The team had to work with diminishing resources.",
+        "团队不得不在资源不断减少的情况下工作。"
+      ],
+      [
+        "Extra revisions produced diminishing returns.",
+        "进一步反复修改带来的额外收获越来越少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diminishing#English",
+      "https://www.etymonline.com/word/diminish",
+      "https://www.merriam-webster.com/dictionary/diminishing%20returns"
+    ]
+  },
+  {
+    "word": "diminution",
+    "ipa": "英 /ˌdɪmɪˈnjuːʃən/；美 /ˌdɪməˈnuːʃən/",
+    "meaning": "减少；减弱；缩小",
+    "sense": "原来很强的热情、影响力，现在少了一部分，这种减少本身可以叫 diminution。它是比较正式的名词。",
+    "split": "经英法语、古法语 diminucion 等或直接借拉丁 diminutio、diminutionem，接 deminuere 使减少的分词词干。不是现代英语把 diminish 的 -ish 直接换成 -ution。",
+    "history": [
+      [
+        "拉丁 deminuere → 分词词干 deminut- → 动作名词",
+        "使小、减少 → 相应减少过程或结果"
+      ],
+      [
+        "法语、拉丁名词形式 → 英语 diminution",
+        "其较早英语记录甚至早于现代 diminish，不按学习排序倒造历史"
+      ]
+    ],
+    "explanation": "a diminution in power 是力量、权力的减弱；no diminution in enthusiasm 是热情没有减弱；a gradual diminution 是逐步减少。",
+    "usage": "a diminution in；a gradual diminution；no diminution of。",
+    "contrast": "decrease 是更日常的减少名词，diminution 较正式，常用于程度、分量、影响等。二者都要看上下文是否可数。",
+    "examples": [
+      [
+        "There was no diminution in her enthusiasm.",
+        "她的热情丝毫没有减弱。"
+      ],
+      [
+        "The change brought a gradual diminution of his influence.",
+        "这项变化使他的影响力逐步减弱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diminution#English",
+      "https://www.etymonline.com/word/diminution"
+    ]
+  },
+  {
+    "word": "diminutive",
+    "ipa": "英 /dɪˈmɪnjətɪv/；美 /dɪˈmɪnjətɪv/",
+    "meaning": "小巧的；指小的；指小词、指小形式",
+    "sense": "说一个东西小巧，可以用 diminutive。讲词法时，它又是把名称说小一点的形式：book 变成 booklet，小册子。",
+    "split": "经法语 diminutif 或直接借拉丁 diminutivus、较早 deminutivus，接 deminuere 使小的分词词干及 -ivus。现代拼写对应 diminut- 与 -ive，不从英语 diminution 临时改尾。",
+    "history": [
+      [
+        "拉丁 deminuere 使小 → deminut- → deminutivus、diminutivus",
+        "形成与减小、指小有关的形容词"
+      ],
+      [
+        "法语、拉丁语相关形式 → 英语 diminutive",
+        "先有词法上的指小义，后也普遍说体形、小巧"
+      ]
+    ],
+    "explanation": "a diminutive figure 是小小的身影；a diminutive suffix 是指小后缀；a diminutive of a word 是某词的指小形式。",
+    "usage": "a diminutive figure；a diminutive suffix；a diminutive of。",
+    "contrast": "diminutive 作词法名词时，说的是构词形式；作形容词描写实物时，说的是小巧。指小形成的词到今天也未必总比基本词更小，要看具体词史。",
+    "examples": [
+      [
+        "A diminutive figure appeared in the doorway.",
+        "门口出现了一个小小的身影。"
+      ],
+      [
+        "Booklet is a diminutive of book.",
+        "booklet 是 book 的指小形式，表示小册子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diminutive#English",
+      "https://www.etymonline.com/word/diminutive"
+    ]
+  },
+  {
+    "word": "sponge",
+    "ipa": "英、美 /spʌndʒ/",
+    "meaning": "海绵；海绵擦洗块；吸收、吸取；蹭用他人的钱物",
+    "sense": "软软有孔，水一碰就吸进去，挤一下又出来，是家用 sponge 的直观画面。人学得快，也像海绵吸水；一味靠别人养，也能借这个吸的形象。",
+    "split": "经古英语 sponge、spunge 接拉丁 spongia，远接希腊海绵词，具体更早来源不定。原来联系天然海绵材料，后来也用于人造海绵、相似材料和相关动作。",
+    "history": [
+      [
+        "希腊海绵词 → 拉丁 spongia → 古英语等 → sponge",
+        "名称联系海绵生物及可吸水材料"
+      ],
+      [
+        "吸水材料 → 吸收知识；sponge off/on someone",
+        "吸取的画面也用于依赖、蹭用别人资源"
+      ]
+    ],
+    "explanation": "a damp sponge 是湿海绵；a sponge cake 是质地松软的海绵蛋糕；sponge off someone 是蹭用别人的钱物、靠别人过活。",
+    "usage": "a damp sponge；like a sponge；sponge off someone。",
+    "contrast": "家用 sponge 可以是人造材料，不是每块都来自动物。比喻知识吸收时可为正面评价；sponge off 通常是在批评占别人便宜。",
+    "examples": [
+      [
+        "She wiped the table with a damp sponge.",
+        "她用湿海绵擦了桌子。"
+      ],
+      [
+        "The child absorbed new words like a sponge.",
+        "这个孩子像海绵吸水一样吸收新词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sponge#English",
+      "https://www.etymonline.com/word/sponge"
+    ]
+  },
+  {
+    "word": "spongy",
+    "ipa": "英、美 /ˈspʌndʒi/",
+    "meaning": "海绵般多孔、柔软有弹性的",
+    "sense": "轻轻一按就凹下去，又有点弹回来，里面像带着小孔，这种触感可以叫 spongy。蛋糕、苔藓地面等都可能有这种感觉。",
+    "split": "sponge 去末尾 e，加完整 -y → spongy。保留 sponge 的 /dʒ/；基础词由希腊、拉丁海绵词族进入英语。",
+    "history": [
+      [
+        "希腊、拉丁海绵词族 → sponge",
+        "材料的孔隙与软弹触感成为核心画面"
+      ],
+      [
+        "sponge 去 e + -y → spongy",
+        "形容别的东西具有海绵般的质地"
+      ]
+    ],
+    "explanation": "a spongy texture 是海绵般质地；spongy ground 是松软、有弹感的地面；a spongy cake 是松软多孔的蛋糕。",
+    "usage": "a spongy texture；spongy ground；soft and spongy。",
+    "contrast": "soft 只说软，spongy 常还带多孔、按压有弹感的感觉。描述地面时，它不等于 wet，具体湿度仍看语境。",
+    "examples": [
+      [
+        "The cake had a light, spongy texture.",
+        "蛋糕质地轻盈，松软多孔。"
+      ],
+      [
+        "The moss felt spongy under our feet.",
+        "脚下的苔藓感觉像海绵一样松软。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spongy#English",
+      "https://www.etymonline.com/word/sponge"
+    ]
+  },
+  {
+    "word": "spunk",
+    "ipa": "英、美 /spʌŋk/",
+    "meaning": "胆量、冲劲、不服输的精神〔尤美式口语〕；另有粗俗义",
+    "sense": "被人质疑也敢站出来说、事情难办还不轻易认输，这种胆气、冲劲可以叫 spunk。英语较早的火星、火绒意思，也有心里一股火的联想。",
+    "split": "远源有不同分析：一说经盖尔语 spong 火绒、海绵联系拉丁 spongia；另一说由 spark 与旧 funk 火星拼合。早期火种义与后来勇气义有记录，不能把某条远源定为唯一答案。",
+    "history": [
+      [
+        "英语较早 spunk 火星、火绒",
+        "更远盖尔语借词与火星词拼合等分析不同"
+      ],
+      [
+        "火种、火星 → 勇气、冲劲的口语用法",
+        "这种语义发展可直观认识，但不据此证明某个唯一词源"
+      ]
+    ],
+    "explanation": "show spunk 是显出胆气；have the spunk to do something 是有勇气做某事。英式等粗俗口语里还可指精液，与美式赞人有冲劲的语境要区分。",
+    "usage": "show spunk；have spunk；the spunk to do something。",
+    "contrast": "勇气义的 spunk 带生气勃勃、不肯服输的口语感觉；courage 更中性、通用。遇到这个词要先看地区、语气和上下文。",
+    "examples": [
+      [
+        "She showed real spunk when she challenged the unfair decision.",
+        "她敢于质疑不公正的决定，显出了十足胆气。"
+      ],
+      [
+        "He had the spunk to try again after the failure.",
+        "失败之后，他仍有不服输的劲头，再试了一次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spunk#English",
+      "https://www.etymonline.com/word/spunk"
+    ]
+  },
+  {
+    "word": "spunky",
+    "ipa": "英、美 /ˈspʌŋki/",
+    "meaning": "有胆量、有冲劲的；活泼而不服输的",
+    "sense": "个子不大，却敢争取、敢反驳、跌倒了还要再来，可以叫 spunky。重点是身上那股有劲、不怯场的精神。",
+    "split": "spunk + 完整 -y → spunky，词基保留。现代形容词的对应清楚；spunk 更远有盖尔语借入与火星词拼合等不同解释。",
+    "history": [
+      [
+        "早期 spunk 火种等义 → 勇气、冲劲",
+        "语义扩展与远源分析分别看待"
+      ],
+      [
+        "spunk + -y → spunky",
+        "具有这种胆气、精神，常见于美式口语"
+      ]
+    ],
+    "explanation": "a spunky child 是活泼大胆的孩子；a spunky response 是有胆气的回应；a spunky performance 是有活力、敢表现的演出。",
+    "usage": "a spunky child；a spunky response；a spunky performance。",
+    "contrast": "brave 可以说在重大危险中勇敢；spunky 常更轻快、口语，像人很有精神、不轻易认输。",
+    "examples": [
+      [
+        "The novel’s spunky heroine refuses to give up.",
+        "小说里那位有胆气的女主人公不肯放弃。"
+      ],
+      [
+        "The young actor gave a spunky performance.",
+        "这位年轻演员的表演活泼大胆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spunky#English",
+      "https://www.etymonline.com/word/spunk"
+    ]
+  },
+  {
+    "word": "pebble",
+    "ipa": "英、美 /ˈpebəl/",
+    "meaning": "小圆石；卵石",
+    "sense": "河边、海边一块被磨得比较圆滑的小石头，是 a pebble。先想能捏在手里的小石，而不是一整块岩壁。",
+    "split": "经中古英语 pibel 等接古英语 papolstan 卵石名，后部 stan 是石头；前部更早来源不明。英语后来形成现今较短词形，不从现代 peb 加一个确定后缀。",
+    "history": [
+      [
+        "古英语 papolstan → 中古英语 pibel 等 → pebble",
+        "旧复合石名缩短、变化，前部来源不定"
+      ],
+      [
+        "现代 pebble 小圆石、卵石",
+        "日常按尺寸较小、表面相对圆滑的石头形象认识"
+      ]
+    ],
+    "explanation": "a smooth pebble 是光滑小圆石；a pebble beach 是卵石海滩；a pebble in a shoe 是鞋里的一颗小石头。",
+    "usage": "a smooth pebble；a pebble beach；a pebble in the shoe。",
+    "contrast": "stone 是广泛的石头，pebble 更具体地让人想到较小、圆滑的石子。地质分类可能有尺寸标准，日常读句子不必自动套一个严格数值。",
+    "examples": [
+      [
+        "She picked up a smooth pebble beside the stream.",
+        "她在溪边捡起一颗光滑的小圆石。"
+      ],
+      [
+        "A pebble in his shoe made him stop.",
+        "鞋里的一颗小石头让他停了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pebble#English",
+      "https://www.etymonline.com/word/pebble"
+    ]
+  },
+  {
+    "word": "pebbly",
+    "ipa": "英、美 /ˈpebli/",
+    "meaning": "多卵石的；布满小圆石的；有细小凸粒的",
+    "sense": "沙滩不是细沙，而是密密的小圆石，就可以说 pebbly。某些材料表面一颗颗细凸，也能借这种石子质感。",
+    "split": "pebble 去末尾 e，加完整 -y → pebbly；原词中的 bb、l 保留。",
+    "history": [
+      [
+        "旧小石名 → pebble",
+        "现代常说较小、圆滑的卵石"
+      ],
+      [
+        "pebble 去 e + -y → pebbly",
+        "布满小石；或表面像有细小石粒"
+      ]
+    ],
+    "explanation": "a pebbly beach 是卵石海滩；a pebbly path 是铺着小圆石的小径；a pebbly surface 是细粒凸起的表面。",
+    "usage": "a pebbly beach；a pebbly path；a pebbly surface。",
+    "contrast": "sandy 是多沙的，pebbly 是多小圆石的。触感、行走感受可能不同，先看材料而不是都笼统记成海滩的。",
+    "examples": [
+      [
+        "The path led down to a pebbly beach.",
+        "小路通向一片卵石海滩。"
+      ],
+      [
+        "The ceramic bowl had a slightly pebbly surface.",
+        "陶碗表面有一点细小凸粒的质感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pebbly#English",
+      "https://www.etymonline.com/word/pebble"
+    ]
+  },
+  {
+    "word": "shale",
+    "ipa": "英、美 /ʃeɪl/",
+    "meaning": "页岩",
+    "sense": "一块岩石容易顺着层理分成薄片，像一页页叠着，能帮助你记住 shale 页岩。现代它是一类细粒沉积岩的名称。",
+    "split": "可能由中古英语 schale 壳、外皮等义专门化，接古英语 scealu，与 shell 的早期词族相关；也可能受德语相应层状岩石名称影响。",
+    "history": [
+      [
+        "古英语、日耳曼壳和薄层材料 → 中古英语 schale",
+        "共同画面联系可分离的外层、薄片"
+      ],
+      [
+        "相关词义专门化、可能受德语影响 → shale",
+        "现代地质词用于可沿薄层分开的细粒沉积岩"
+      ]
+    ],
+    "explanation": "a layer of shale 是一层页岩；shale rock 是页岩；a shale formation 是页岩地层。这里先掌握岩石名称，不把它泛指所有薄片岩石。",
+    "usage": "a layer of shale；shale rock；a shale formation。",
+    "contrast": "shell 是壳，shale 是页岩，二者联系在更早词族，并非现代拼写直接互换。slate 板岩是另一种岩石名称，也不能只凭都能成片就等同。",
+    "examples": [
+      [
+        "The cliff exposed a dark layer of shale.",
+        "崖壁上露出一层深色页岩。"
+      ],
+      [
+        "The museum labels the sample as shale.",
+        "博物馆把这块标本标为页岩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shale#English",
+      "https://www.etymonline.com/word/shale",
+      "https://geokansas.ku.edu/shale"
+    ]
+  },
+  {
+    "word": "loam",
+    "ipa": "英 /ləʊm/；美 /loʊm/",
+    "meaning": "壤土",
+    "sense": "土里既有较粗的砂，也有更细的粉砂、黏土，组合成一种土壤质地，叫 loam。它不是泛指任何看起来肥沃的黑土。",
+    "split": "承古英语 lam 黏土、泥土，经中古英语 lom、lome 延续；同源日耳曼词也说泥土、壤土。现代农业中的具体土壤质地含义比旧词更专门。",
+    "history": [
+      [
+        "古英语 lam 泥土、黏土 → 中古英语 lom、lome → loam",
+        "较早词义范围较广"
+      ],
+      [
+        "泥土名词 → 现代 soil texture 中的 loam 壤土",
+        "按砂、粉砂、黏土相对比例分类，不要求简单三等分"
+      ]
+    ],
+    "explanation": "loam soil 是壤土；sandy loam 是砂壤土；clay loam 是黏壤土。名称说质地，肥力等其他性质还需看具体土壤。",
+    "usage": "loam soil；sandy loam；clay loam。",
+    "contrast": "loam 是一种土壤质地，clay 单独用时常指黏土或相应颗粒。土壤里含黏土，不等于它的质地分类就一定叫 clay。",
+    "examples": [
+      [
+        "The report describes the field’s soil as loam.",
+        "报告把这块田的土壤描述为壤土。"
+      ],
+      [
+        "The sample contained dark loam from the garden.",
+        "样本中有从花园取来的暗色壤土。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loam#English",
+      "https://www.etymonline.com/word/loam",
+      "https://www.nrcs.usda.gov/resources/education-and-teaching-materials/soil-texture-calculator",
+      "https://nemaplex.ucdavis.edu/ecology/Soiltext.htm"
+    ]
+  },
+  {
+    "word": "loamy",
+    "ipa": "英 /ˈləʊmi/；美 /ˈloʊmi/",
+    "meaning": "壤土的；含壤土的",
+    "sense": "loam 给土质起名，loamy 把这种质地拿来描述具体的土：这片土是壤质的，可以说 loamy soil。",
+    "split": "loam + 完整 -y → loamy，原词保留。loam 的旧泥土义延续到现代壤土分类，形容词说相应性质。",
+    "history": [
+      [
+        "古英语泥土词 → loam；现代用于壤土质地",
+        "专业含义按不同粒径材料的相对比例认识"
+      ],
+      [
+        "loam + -y → loamy",
+        "具有壤土性质、含相应土质的"
+      ]
+    ],
+    "explanation": "loamy soil 是壤质土；a loamy texture 是壤土质地；sandy and loamy 可用于比较两种土质特点。",
+    "usage": "loamy soil；a loamy texture；loamy ground。",
+    "contrast": "loamy 不能简单替换成 fertile 肥沃的：一个讲质地，一个讲肥力。普通园艺描写中常相邻出现，具体含义仍应分清。",
+    "examples": [
+      [
+        "The garden has a deep layer of loamy soil.",
+        "花园里有一层较深的壤质土。"
+      ],
+      [
+        "The survey notes a loamy texture in this area.",
+        "调查记录了这个区域的壤土质地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loamy#English",
+      "https://www.etymonline.com/word/loam",
+      "https://www.nrcs.usda.gov/resources/education-and-teaching-materials/soil-texture-calculator"
+    ]
+  },
+  {
+    "word": "murk",
+    "ipa": "英 /mɜːk/；美 /mɜːrk/",
+    "meaning": "昏暗；黑蒙蒙、看不清的状态",
+    "sense": "前面黑蒙蒙一片，里面有什么看不清，这种暗沉、混沌叫 murk。它常比普通 darkness 多一点遮蔽、浑浊的感觉。",
+    "split": "中古英语 myrke 等接古诺斯 myrkr 黑暗，也有古英语相应昏暗词背景。现代名词承这条日耳曼昏暗词族，远古联系仍有不同分析。",
+    "history": [
+      [
+        "古英语、古诺斯语昏暗词族 → 中古英语相关形式",
+        "暗、黑蒙蒙的核心状态"
+      ],
+      [
+        "英语 murk",
+        "可说看不清的昏暗，也可比喻事情含混、底细不明"
+      ]
+    ],
+    "explanation": "in the murk 像东西被暗色空气吞进去；through the murk 则是试图穿过这层看不清。比喻用法保留的也是视野不清这个感觉。",
+    "usage": "in the murk；through the murk；the murk of。",
+    "contrast": "darkness 是更宽的黑暗，murk 常带灰暗、雾蒙、难看清的质感。它常作不可数名词，形容词是 murky。",
+    "examples": [
+      [
+        "A faint light appeared through the murk.",
+        "一线微光穿过昏暗显了出来。"
+      ],
+      [
+        "The far bank disappeared into the murk.",
+        "对岸隐没在黑蒙蒙的景象里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/murk#English",
+      "https://www.etymonline.com/word/murk"
+    ]
+  },
+  {
+    "word": "murky",
+    "ipa": "英 /ˈmɜːki/；美 /ˈmɜːrki/",
+    "meaning": "昏暗的；浑浊的；含混、底细可疑的",
+    "sense": "水黑黑浑浑，看不见底，是 murky water。一件事来龙去脉说不清，甚至有点见不得光，也像看不见底。",
+    "split": "现代可对应 murk + 完整 -y。英语较早已有相关 mirky 等形容词，与古英语、北欧语昏暗材料相连，不只当作近期造出的新词。",
+    "history": [
+      [
+        "日耳曼昏暗词族 → 英语 murk、mirky 等形式",
+        "名词、形容词在较早阶段已有联系"
+      ],
+      [
+        "现代 murk + -y 的对应 → murky",
+        "视觉不清延伸到信息不清、事情可疑"
+      ]
+    ],
+    "explanation": "a murky past 常暗示过去有不清楚、可疑的部分；murky details 说细节含混。用在人、事情上时，常比单纯 unclear 多一点负面色彩。",
+    "usage": "murky water；a murky past；murky details。",
+    "contrast": "dirty 强调脏，murky 强调浑暗、看不清。水可能因泥沙而 murky，事件可能因信息被遮住而 murky。",
+    "examples": [
+      [
+        "We could not see the bottom through the murky water.",
+        "水很浑，我们看不见底。"
+      ],
+      [
+        "The company’s early history remains murky.",
+        "这家公司的早期历史仍不清不楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/murky#English",
+      "https://www.etymonline.com/word/murk"
+    ]
+  },
+  {
+    "word": "mottled",
+    "ipa": "英 /ˈmɒtəld/；美 /ˈmɑːtəld/",
+    "meaning": "斑驳的；布着不规则深浅色块的",
+    "sense": "一块石头上浅一片、深一片，颜色不均匀地交错着，就是 mottled。画面更像不规则色块，而不只是整齐的小圆点。",
+    "split": "mottle 去末尾 e，加完整 -ed → mottled，/l/ 后读 /d/。mottle 可能由 motley 逆构；motley 的更早来源不定，不把两者的远源硬讲成确定故事。",
+    "history": [
+      [
+        "motley 杂色，可能逆构 → mottle 斑块、使带斑块",
+        "具体早期来源有讨论"
+      ],
+      [
+        "mottle 去 e + -ed → mottled",
+        "过去分词形容词描述深浅、颜色不规则交错"
+      ]
+    ],
+    "explanation": "mottled grey and brown 把两种颜色呈现为不匀的混合块；mottled light 也能说光影被树叶等打碎后深浅不均的样子。",
+    "usage": "mottled stone；mottled light；mottled with brown。",
+    "contrast": "speckled 更容易让人想起散布的小点，mottled 常是大小、深浅不匀的斑块。实际描写可有重叠，不必把两词当成严格尺寸分类。",
+    "examples": [
+      [
+        "The stone was mottled grey and brown.",
+        "石头上灰色、棕色斑驳交错。"
+      ],
+      [
+        "Mottled light fell through the leaves onto the path.",
+        "斑驳光影穿过树叶，落在小路上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mottled#English",
+      "https://www.etymonline.com/word/mottled",
+      "https://www.etymonline.com/word/mottle"
+    ]
+  },
+  {
+    "word": "ruddy",
+    "ipa": "英、美 /ˈrʌdi/",
+    "meaning": "红润的；泛红的；该死的、真是的〔英式轻度加强语〕",
+    "sense": "脸颊带着暖暖的红色，可以说 ruddy。它常让人想到红扑扑的面色，也可写天空、光线的暖红。",
+    "split": "承古英语 rudig 泛红、红润，通常接 rudu 红色与旧 -ig 形容词材料，和 red 的早期词族相关。现代英式加强语用法又联系 bloody 的委婉替代。",
+    "history": [
+      [
+        "古英语 rudu 红色、rudig 泛红 → ruddy",
+        "与 red 的早期红色材料相连"
+      ],
+      [
+        "面色红润、物体泛红；另有英式加强语",
+        "语气用法是后来的扩展，不能处处翻成红润"
+      ]
+    ],
+    "explanation": "a ruddy complexion 说红润面色；a ruddy glow 是暖红光；the ruddy thing 在随意英式抱怨中可能只是加强语气。",
+    "usage": "a ruddy complexion；ruddy cheeks；a ruddy glow。",
+    "contrast": "ruddy 常让人想到面颊的暖红色，red 的颜色范围更广；英式抱怨语境的 ruddy 则要按加强语气理解。",
+    "examples": [
+      [
+        "The cold air left his cheeks ruddy.",
+        "冷空气让他的双颊红扑扑的。"
+      ],
+      [
+        "A ruddy glow spread across the evening sky.",
+        "一片暖红光铺开在傍晚的天空中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ruddy#English",
+      "https://www.etymonline.com/word/ruddy"
+    ]
+  },
+  {
+    "word": "chagrin",
+    "ipa": "英 /ˈʃæɡrɪn/；美 /ʃəˈɡrɪn/",
+    "meaning": "懊恼；失望夹着难堪、自尊受挫",
+    "sense": "明明觉得自己准备得很好，却当众弄错，还得承认失误，那种懊恼里带点丢脸的感觉，就是 chagrin。",
+    "split": "借法语 chagrin 悲伤、烦恼，早期动词来源不确定；有悲愤词族、粗糙皮革词的不同分析。现代核心转向目标落空或自尊受挫引起的懊恼。",
+    "history": [
+      [
+        "法语 chagrin、相关旧动词 → 英语 chagrin",
+        "更远来源不定，不把粗糙摩擦内心的比喻定为历史事实"
+      ],
+      [
+        "早期悲伤、烦恼 → 失望、难堪带来的懊恼",
+        "现代常见 to someone’s chagrin"
+      ]
+    ],
+    "explanation": "to my chagrin 把后面的结果标成让我懊恼、难堪的事。它常作不可数名词，比普通 annoyance 多一点失败、失望伤了自尊。",
+    "usage": "to my chagrin；much to her chagrin；a look of chagrin。",
+    "contrast": "chagrin 与 grin 咧嘴笑来源不同；这里 ch- 读 /ʃ/。英式常见前重音，美式常见后重音。",
+    "examples": [
+      [
+        "To my chagrin, I had sent the message to the wrong person.",
+        "让我懊恼的是，我把消息发错了人。"
+      ],
+      [
+        "He admitted the mistake with obvious chagrin.",
+        "他明显带着懊恼和难堪承认了错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chagrin#English",
+      "https://www.etymonline.com/word/chagrin"
+    ]
+  },
+  {
+    "word": "chagrined",
+    "ipa": "英 /ˈʃæɡrɪnd/；美 /ʃəˈɡrɪnd/",
+    "meaning": "懊恼、难堪的；因受挫而不快的",
+    "sense": "得知自己弄错，脸上挂不住、又懊恼又不好意思，可以说 chagrined。它常描写人的反应。",
+    "split": "chagrin + 完整 -ed → chagrined，/n/ 后读 /d/，常见拼写不双写 n。动词由法语借入的烦恼、懊恼名词形成，形容词接相应过去分词。",
+    "history": [
+      [
+        "法语 chagrin → 英语 chagrin 名词、动词",
+        "烦恼、懊恼；使人有相应感受"
+      ],
+      [
+        "chagrin + -ed → chagrined",
+        "描述人因失望、出错等感到懊恼难堪"
+      ]
+    ],
+    "explanation": "a chagrined smile 像出错后勉强笑一下；look chagrined 是显得懊恼；chagrined to discover 是发现某事后难堪、懊恼。",
+    "usage": "a chagrined smile；look chagrined；chagrined to discover。",
+    "contrast": "embarrassed 更宽地说尴尬，chagrined 常还带事情不如预期、自尊受挫的懊恼。它通常形容人，不把它当成引起感受的事物。",
+    "examples": [
+      [
+        "She gave a chagrined smile when she noticed the error.",
+        "她发现错误时，懊恼地勉强笑了笑。"
+      ],
+      [
+        "He was chagrined to discover that he had missed the obvious clue.",
+        "他发现自己漏掉了那个明显线索，感到又懊恼又难堪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chagrined#English",
+      "https://www.etymonline.com/word/chagrin"
+    ]
+  },
+  {
+    "word": "whittle",
+    "ipa": "英、美 /ˈwɪtəl/",
+    "meaning": "用小刀削、削制；一点点削减〔常接 down、away〕",
+    "sense": "一刀削掉一小片木头，慢慢削出形状，是 whittle。预算、名单也能这样一点点削掉，变得更少。",
+    "split": "现代动词来自中古英语 whittel 刀具名，它又接更早 thwittle、古英语 thwitan 削切材料。不是现代先有 whittle 动词再给小刀命名。",
+    "history": [
+      [
+        "古英语削切材料 → 较早刀具名 thwittle、whittel",
+        "器具名称由切削词族发展"
+      ],
+      [
+        "刀具名 → whittle 削切 → 逐步削减的比喻",
+        "削去一小片一小片，让整体慢慢减少"
+      ]
+    ],
+    "explanation": "whittle a figure 是削一个小雕像；whittle down a list 是逐步缩短名单；whittle away savings 可说一点点耗掉积蓄。",
+    "usage": "whittle from wood；whittle down；whittle away。",
+    "contrast": "cut 可以一刀切断，whittle 常突出一点点削。比喻削减时，也常带逐渐减少、反复筛去的过程感。",
+    "examples": [
+      [
+        "He liked to whittle small figures from scraps of wood.",
+        "他喜欢用零碎木料削小雕像。"
+      ],
+      [
+        "We need to whittle the list down to five names.",
+        "我们需要把名单逐步缩到五个人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whittle#English",
+      "https://www.etymonline.com/word/whittle"
+    ]
+  },
+  {
+    "word": "whittling",
+    "ipa": "英、美 /ˈwɪtlɪŋ/",
+    "meaning": "削木、削制；一点点削减",
+    "sense": "坐着把木头一片片削下来的过程，是 whittling。把候选名单慢慢筛小，也可以用 whittling down 来表达。",
+    "split": "whittle 去末尾不发音 e，加完整 -ing → whittling。-ing 既形成动作形式，也可给削制这项活动命名。",
+    "history": [
+      [
+        "早期刀具名 → whittle 削切",
+        "现代动作借具体器具名称发展"
+      ],
+      [
+        "whittle 去 e + -ing → whittling",
+        "动作过程、活动名词；削减比喻接同一动作画面"
+      ]
+    ],
+    "explanation": "wood whittling 是削木活动；whittling down the options 把削去木片的动作转到选择上：逐步排除，留下更少的选项。",
+    "usage": "wood whittling；whittling down the list；whittling away。",
+    "contrast": "whittling 常比简单 reducing 更有一小步一小步去除的画面。它与 whistling 吹口哨形近，但不是同一个动作。",
+    "examples": [
+      [
+        "Whittling became his favourite quiet hobby.",
+        "削木成了他最喜欢的安静爱好。"
+      ],
+      [
+        "The team is whittling down the number of options.",
+        "团队正在逐步缩小选择范围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whittling#English",
+      "https://www.etymonline.com/word/whittle"
+    ]
+  },
+  {
+    "word": "spindly",
+    "ipa": "英、美 /ˈspɪndli/",
+    "meaning": "细长、瘦长得显单薄的",
+    "sense": "椅子腿细得像几根杆，或小树干长长细细、显得不结实，可以叫 spindly。它常比 slender 多一点单薄感。",
+    "split": "spindle 纺锤去末尾 e，加完整 -y → spindly。纺锤的细长形状用来形容腿、枝干等；spindle 本身接 spin 的旧工具名材料。",
+    "history": [
+      [
+        "spin 纺 → 旧工具词 → spindle 纺锤",
+        "细长杆状的器具成为形状参照"
+      ],
+      [
+        "spindle 去 e + -y → spindly",
+        "细长得显得单薄、脆弱"
+      ]
+    ],
+    "explanation": "spindly legs 可以说椅腿或人的细长腿；spindly branches 是细长单薄的枝条；a spindly tree 是细瘦的小树。",
+    "usage": "spindly legs；spindly branches；a spindly tree。",
+    "contrast": "slender 可以是修长、纤细的中性或正面描述；spindly 常觉得细得不够结实。不是所有高的东西都 spindly。",
+    "examples": [
+      [
+        "The table stood on four spindly legs.",
+        "桌子由四条细长单薄的腿支着。"
+      ],
+      [
+        "A few spindly trees grew beside the wall.",
+        "墙边长着几棵细瘦的树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spindly#English",
+      "https://www.etymonline.com/word/spindle"
+    ]
+  },
+  {
+    "word": "shingle",
+    "ipa": "英、美 /ˈʃɪŋɡəl/",
+    "meaning": "屋面薄瓦片；海滩卵石、砾石〔两个来源〕",
+    "sense": "屋顶上一片片叠着的薄瓦片，是一种 shingle。海滩上满地小石子，英式英语也可说 shingle；这里相同拼写承载了不同来源。",
+    "split": "屋面义承古英语相关形式，上接拉丁 scandula、scindula 薄木瓦及 scindere 劈开。海滩石子义可能接北欧语石子词，或与水过石子的声音有关，不能合成一条确定历史。",
+    "history": [
+      [
+        "拉丁薄木片、劈开词族 → 古英语等 → shingle 屋面瓦片",
+        "较早多指木片，现代材料名称使用更广"
+      ],
+      [
+        "另一北欧语相关石子词 → shingle 海滩砾石",
+        "来源分析带可能性，日常常见于 shingle beach"
+      ]
+    ],
+    "explanation": "a wooden shingle 是一片木瓦；a shingle beach 是卵石海滩。前者可数，后者说整片石子材料时常不可数。",
+    "usage": "a wooden shingle；roof shingles；a shingle beach。",
+    "contrast": "shingle 海滩石子可与 sand 沙比较，屋面薄片可与 roof tile 比较。shingles 疾病名是第三条历史，不能由瓦片义推成皮肤像瓦片。",
+    "examples": [
+      [
+        "A wooden shingle lay beside the old house.",
+        "老房子旁放着一片木瓦。"
+      ],
+      [
+        "The waves rolled over the shingle.",
+        "海浪漫过海滩上的卵石。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shingle#English",
+      "https://www.etymonline.com/word/shingle"
+    ]
+  },
+  {
+    "word": "shingles",
+    "ipa": "英、美 /ˈʃɪŋɡəlz/",
+    "meaning": "带状疱疹；屋面瓦片〔shingle 的复数，另源〕",
+    "sense": "医疗材料里的 shingles 是带状疱疹，名字与带状的形态有关。房屋维修里的 shingles 则是一片片屋面瓦片，两个语境要分开。",
+    "split": "疾病名接中世纪拉丁 cingulus、拉丁 cingulum 腰带、cingere 围绕，借带状形态命名。屋面词则是 shingle + -s，接拉丁劈开、薄木瓦材料，与疾病名分源。",
+    "history": [
+      [
+        "拉丁 cingulum 腰带及相关借入 → shingles 疾病名",
+        "以可能沿身体呈带状的形态联想命名"
+      ],
+      [
+        "另源 shingle 屋面薄片 + -s → shingles",
+        "同形现代复数，不能当作疾病名的历史父词"
+      ]
+    ],
+    "explanation": "疾病名通常说 shingles is…，虽然末尾有 s。屋面复数则说 the shingles are…；看疾病还是瓦片，也能判断谓语。",
+    "usage": "shingles is；a leaflet about shingles；roof shingles。",
+    "contrast": "疾病名与屋面复数是同形词，词源、可数性不同。shingles is 中的 s 不是这里正在使用普通名词复数的证据，要靠整个句子的意思判断。",
+    "examples": [
+      [
+        "The leaflet explains what shingles is.",
+        "小册子解释了什么是带状疱疹。"
+      ],
+      [
+        "The old roof needed several new shingles.",
+        "旧屋顶需要换上几片新瓦片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shingles#English",
+      "https://www.etymonline.com/word/shingles",
+      "https://www.etymonline.com/word/shingle",
+      "https://www.nhs.uk/conditions/shingles/"
+    ]
+  },
+  {
+    "word": "boulder",
+    "ipa": "英 /ˈbəʊldə/；美 /ˈboʊldər/",
+    "meaning": "巨石；大圆石",
+    "sense": "路边、山坡上一整块大石头，大到很难随手搬动，可以叫 boulder。早期词义常联系被水磨圆的石块，现代也可说形状不规则的巨石。",
+    "split": "接中古英语 bulder ston 等北欧语相关旧石名的短形。首部有水流绕石的响声、圆物两类分析，更远来源不定；不把它当现代英语的比较级。",
+    "history": [
+      [
+        "北欧语相关石名 → 中古英语 bulder ston",
+        "前部具体来自响声还是圆物有不同分析"
+      ],
+      [
+        "复合石名缩短 → boulder",
+        "现代指一大块石头，后又形成 bouldering 攀石名称"
+      ]
+    ],
+    "explanation": "a large boulder 是一块巨石；a rounded boulder 是大圆石；behind a boulder 是在一块大石头后面。",
+    "usage": "a large boulder；a rounded boulder；behind a boulder。",
+    "contrast": "pebble 是小圆石，boulder 是大石块；boulder 与 bolder 更大胆的常同音，但一个是石头名词，一个是 bold 的比较级。",
+    "examples": [
+      [
+        "A huge boulder stood beside the trail.",
+        "小径旁立着一块巨石。"
+      ],
+      [
+        "The river flowed around a rounded boulder.",
+        "河水绕过一块大圆石流去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boulder#English",
+      "https://www.etymonline.com/word/boulder"
+    ]
+  },
+  {
+    "word": "bouldering",
+    "ipa": "英 /ˈbəʊldərɪŋ/；美 /ˈboʊldərɪŋ/",
+    "meaning": "攀石运动；抱石",
+    "sense": "在较低岩石或室内岩面上，攀一条较短的线路，这类运动常叫 bouldering。名字直接让人想到 boulder 那种大石块。",
+    "split": "boulder + 完整 -ing → bouldering，原词保留。这里 -ing 给相关攀爬活动命名，常用作不可数的运动名称。",
+    "history": [
+      [
+        "boulder 大石块 → 相应攀爬活动词",
+        "从活动的岩石对象取得名称"
+      ],
+      [
+        "boulder + -ing → bouldering",
+        "现代可在天然岩石或室内岩面进行，成为运动名词"
+      ]
+    ],
+    "explanation": "go bouldering 是去攀石；indoor bouldering 是室内攀石；a bouldering wall 是攀石岩壁。运动中常见 problem 指一条待完成的短线路。",
+    "usage": "go bouldering；indoor bouldering；a bouldering wall。",
+    "contrast": "climbing 是更宽的攀爬运动称呼，bouldering 特指其中通常不系绳、线路较短的一类。这里讲运动名称，不把所有攀岩都当成 bouldering。",
+    "examples": [
+      [
+        "The sports centre has an indoor bouldering area.",
+        "体育中心有一个室内攀石区域。"
+      ],
+      [
+        "She enjoys bouldering at weekends.",
+        "她周末喜欢攀石。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bouldering#English",
+      "https://www.etymonline.com/word/boulder",
+      "https://www.thebmc.co.uk/en/different-types-of-climbing-explained"
+    ]
+  }
+]

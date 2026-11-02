@@ -5,7 +5,7 @@
     "core": "原先朝这一边，现在转向另一边；方向改变，状态、用途和立场也能跟着改变。",
     "image": "想象一个可以转动的箭头：转回去是 revert，转开是 avert，转到相反方向是 reverse；让大家转头看向一件事，则连到了 advertise。",
     "intro": "核心来自拉丁语 vertere“转”，其分词词干是 vers-，反复动作形式是 versāre。这个词族很大，因为人们能把空间中的转向，用来描写注意力、关系、立场和形式的变化。先学会追踪“从哪里转到哪里”，再认识 verse、vertex 等已经走远的名词支线。",
-    "forms": "vert- 多保留在 convert、divert、revert；vers- 见于 conversion、diverse、reverse。它们反映拉丁语词干变化，不是英语见到 t 就能一律换 s。vertex 的变格词干 vertic- 留在 vertical；vertigo 的 vertigin- 留在 vertiginous。法语借入、拉丁语书面借入和现代英语派生要分开看。",
+    "forms": "vert- 多保留在 convert、divert、revert；vers- 见于 conversion、diverse、reverse。它们反映拉丁语词干变化，不是英语见到 t 就能一律换 s。vertex 的变格词干 vertic- 留在 vertical；vertigo 的 vertigin- 留在 vertiginous。法语借入、拉丁语书面借入和现代英语派生要分开看。\n\n法语及拉丁转变、翻译词，扩展到软件和叙述版本。\n\n拉丁 convertere 经法语到英语，过去式、分词仍用动词后重音。\n\n拉丁转动词族经法语的不同路线；去 e 加完整 ed。\n\nvarsity 是 university 的旧缩略、变体，经 versity 等形式；现代美国学校体育中常用于校队主力级别，中学也能用，不局限于大学。\n\n拉丁 versus 行、诗行与 vertere 转动有关，常以耕作换行解释比喻。现代 verse 加 -s，/s/ 后读 /ɪz/，常指数节诗、主歌或经文。\n\nadvertise 经法语 advertir 的相关形式，远接拉丁 advertere 转向、注意。现代 advertised 去 e 加 -ed；advertisements 来自已有 advertisement 名词加 -s，英美重音常不同。\n\nconvert 经法语、拉丁 convertere 转变，现代加完整 -ing 原词不改。转换格式、改作其他用途、改变信仰等义各看对象。",
     "branches": [
       [
         "换形式、换说法",
@@ -50,6 +50,34 @@
       [
         "横过与灵活转用",
         "transverse, traverse, versatile"
+      ],
+      [
+        "version → versions：转成的不同样子",
+        "version · versions"
+      ],
+      [
+        "convert → converted：转到另一种形态、用途",
+        "convert · converted · conversion"
+      ],
+      [
+        "reverse → reversed：转回、倒转",
+        "reverse · reversed"
+      ],
+      [
+        "university → versity → varsity：大学称呼到校队",
+        "varsity"
+      ],
+      [
+        "转行 → verse → verses",
+        "verses"
+      ],
+      [
+        "ad- 转向 + vert- 转 → advertised、advertisements",
+        "advertised · advertisements"
+      ],
+      [
+        "con- + vert- 转 → converting",
+        "converting"
       ]
     ],
     "contrasts": "conversation“交谈”与 conversion“转换”是不同支线；verse“诗”与 version“版本”是两个独立借入的名词，不能互相硬加词尾。university 从“团体、共同体”得到大学义，不是“教授宇宙知识”。adverse 是条件不利，averse 是人不愿意。converge、diverge 直接来自另一拉丁语动词 vergere“倾斜”，不因为远源相近就在本页当作 vertere 的直接派生词。",
@@ -151,7 +179,15 @@
       "universal",
       "university",
       "universally",
-      "universality"
+      "universality",
+      "versions",
+      "converted",
+      "reversed",
+      "varsity",
+      "verses",
+      "advertised",
+      "advertisements",
+      "converting"
     ],
     "exclude": []
   }

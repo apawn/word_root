@@ -1,0 +1,76 @@
+[
+  {
+    "id": "B2467",
+    "meaning": "太阳、阳光；日照相关物件与活动",
+    "core": "SUN：天上的太阳与照到身上的光",
+    "image": "先学 sun、sunny、sunshine，再把日出、光束、日常物件和日晒状态分组放在一起。",
+    "intro": "sun 继承古英语太阳词族。大部分本页词能按现代英语复合理解，但第二部分要按具体意思选：screen 是防护，beam 是光束，dial 是刻度盘。",
+    "forms": "sun → sunny、sunshine、sunless；sun + rise、set、beam、burst；sunburn → sunburnt；sun + tan、bathe、screen、block、stroke。\n\nSunday 承古英语 sunnandæg，太阳名称与 day 的旧组合。",
+    "branches": [
+      [
+        "阳光、天气与时段",
+        "sun · sunny · sunshine · sunlight · sunless · sunrise · sunset · sundown"
+      ],
+      [
+        "光线、景象与观察",
+        "sunbeam · sunburst · sunlit · sunspot · sundial"
+      ],
+      [
+        "物件、植物与房间",
+        "sunglasses · sunroof · sundress · sunflower · sunroom · sunbed"
+      ],
+      [
+        "日晒活动与结果",
+        "sunbathe · suntan · sunburn · sunburnt"
+      ],
+      [
+        "防晒与严重热病",
+        "sunscreen · sunblock · sunstroke"
+      ],
+      [
+        "sun → Sunday：太阳之日",
+        "sun · Sunday"
+      ]
+    ],
+    "contrasts": "sunny 与 sonny 同音不同源；sunburn、suntan、sunstroke 分别抓皮肤损伤、变黑、严重热病，别都只译成晒了太阳。",
+    "practice": "The sun came out, and a sunbeam fell across the sundial.\n\n太阳出来了，一束阳光照在日晷上。",
+    "words": [
+      "sun",
+      "sunny",
+      "sunshine",
+      "sunlight",
+      "sunless",
+      "sunrise",
+      "sunset",
+      "sundown",
+      "sunbeam",
+      "sunburst",
+      "sunlit",
+      "sunspot",
+      "sundial",
+      "sunglasses",
+      "sunroof",
+      "sundress",
+      "sunflower",
+      "sunroom",
+      "sunbed",
+      "sunbathe",
+      "suntan",
+      "sunburn",
+      "sunburnt",
+      "sunscreen",
+      "sunblock",
+      "sunstroke",
+      "Sunday"
+    ],
+    "exclude": {
+      "sun-darts": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sundance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sun-dappled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sunfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sunstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sunland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sunray": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

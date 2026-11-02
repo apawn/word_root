@@ -1,0 +1,581 @@
+[
+  {
+    "word": "disorders",
+    "ipa": "英 /dɪsˈɔːdəz/；美 /dɪsˈɔːrdərz/",
+    "meaning": "紊乱、失调；功能障碍等〔复数〕",
+    "sense": "本来有一套正常运行的次序，某处运作出了问题，就有 disorder 的失调义。disorders 常把不同类型的功能问题分开谈。",
+    "split": "disorder + -s，末尾读 /z/。disorder 名词借法语 desordre，des- 反转、否定与 ordre 秩序结合；英语动词也有 dis 加 order 的构形分析。",
+    "history": [
+      [
+        "法语 desordre → disorder",
+        "秩序被打乱 → 混乱、功能失调"
+      ],
+      [
+        "disorder + -s → disorders",
+        "多种失调、功能障碍；也可为使紊乱动词三单"
+      ]
+    ],
+    "explanation": "sleep disorders 睡眠障碍；communication disorders 沟通障碍；disorders of a system 某系统的功能失调。",
+    "usage": "different disorders 不同类型的障碍；studies of disorders 对功能障碍的研究。",
+    "contrast": "日常房间混乱常用不可数 disorder；不同功能问题才常数成 disorders。disorder 的医学、专业具体含义要按所指功能理解。",
+    "examples": [
+      [
+        "The article explains several sleep disorders.",
+        "文章解释了几种睡眠障碍。"
+      ],
+      [
+        "The book discusses communication disorders in a clear style.",
+        "这本书用清楚的语言讨论了沟通障碍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disorders#English",
+      "https://en.wiktionary.org/wiki/disorder#English"
+    ]
+  },
+  {
+    "word": "flows",
+    "ipa": "英 /fləʊz/；美 /floʊz/",
+    "meaning": "流动、流畅进行〔第三人称单数〕；流量、流动过程〔复数〕",
+    "sense": "不是一下搬过去，而是连续不断地从一处往另一处走，是 flows。水会流，话题、交通、信息也能像流一样连续经过。",
+    "split": "flow + -s，元音后读 /z/。flow 继承古英语 flowan，名词由相关流动动作发展，现代还有信息、活动等比喻。",
+    "history": [
+      [
+        "古英语 flowan → flow",
+        "液体连续流动 → 其他连续过程"
+      ],
+      [
+        "flow + -s → flows",
+        "某物流动；或多股、多类流量、流动"
+      ]
+    ],
+    "explanation": "water flows 水流动；traffic flows 交通流量；the conversation flows 谈话流畅进行。",
+    "usage": "flows into the sea 流入大海；data flows 数据流动。",
+    "contrast": "flows 在 river flows 中是动词，在 traffic flows 中可为名词。flow 与 flower 花的字母相似，不表示花是给流动动词加人物 er 造出的。",
+    "examples": [
+      [
+        "The river flows into the lake.",
+        "河水流入湖泊。"
+      ],
+      [
+        "The conversation flows easily among old friends.",
+        "老朋友之间谈话很自然流畅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flows#English",
+      "https://en.wiktionary.org/wiki/flow#English"
+    ]
+  },
+  {
+    "word": "genes",
+    "ipa": "/dʒiːnz/",
+    "meaning": "基因〔复数〕",
+    "sense": "把遗传材料想成可以传下去的一大套信息，genes 是其中承担功能的一份份遗传单位。这个现代科学名称借用了出生、世代的古老语言材料。",
+    "split": "gene + -s，/n/ 后读 /z/。gene 从德语 Gen 进入英语，名称较早接希腊 genea 世代、族类等材料，是近代术语，不是古希腊已有今天的科学定义。",
+    "history": [
+      [
+        "希腊世代、生育材料 → 现代德语 Gen → 英语 gene",
+        "旧语言材料被用来命名遗传单位"
+      ],
+      [
+        "gene + -s → genes",
+        "多个基因"
+      ]
+    ],
+    "explanation": "study genes 研究基因；plant genes 植物基因；genes passed from parents to offspring 从亲代传给后代的基因。",
+    "usage": "different genes 不同基因；gene expression 基因表达，前置 gene 通常单数。",
+    "contrast": "genes 是名词复数，genetic 是遗传、基因相关的形容词。jeans 牛仔裤与 genes 常同音，但字形、来源不同。",
+    "examples": [
+      [
+        "The researchers compared genes in different plant species.",
+        "研究人员比较了不同植物物种的基因。"
+      ],
+      [
+        "The study examined several genes in detail.",
+        "研究详细考察了几个基因。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/genes#English",
+      "https://www.etymonline.com/word/gene",
+      "https://www.genome.gov/genetics-glossary/Gene"
+    ]
+  },
+  {
+    "word": "graduated",
+    "ipa": "/ˈɡrædʒueɪtɪd/",
+    "meaning": "毕业、获授学位了；分级、带刻度的〔过去式、过去分词及形容词〕",
+    "sense": "学习走完一个阶段、升到相应等级，是 graduated 的毕业义。把变化分成一级一级、给器具标出一格格刻度，也保留等级、台阶的意象。",
+    "split": "graduate + -d，/t/ 后读 /ɪd/，保留动词 /eɪt/。graduate 接中古拉丁 graduatus 获授学位的，较早连 gradus 台阶、级别。",
+    "history": [
+      [
+        "中古拉丁 graduatus → 英语 graduate",
+        "获授等级、学位；相应动词毕业、分级"
+      ],
+      [
+        "graduate 去 e + -ed → graduated",
+        "已毕业；形容分级、带刻度等"
+      ]
+    ],
+    "explanation": "graduated from college 大学毕业；graduated with a degree 获得学位毕业；a graduated scale 分级刻度。",
+    "usage": "recently graduated 刚毕业；graduated steps 分级的步骤。",
+    "contrast": "graduated 沿动词 /eɪtɪd/，毕业生名词 graduate 常是 /ət/。毕业和刻度看似相远，共同的历史材料是一级一级的 grad-。",
+    "examples": [
+      [
+        "She graduated from college last summer.",
+        "她去年夏天大学毕业。"
+      ],
+      [
+        "The bottle has a graduated scale on the side.",
+        "瓶子侧面有一条刻度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/graduated#English",
+      "https://en.wiktionary.org/wiki/graduate#English"
+    ]
+  },
+  {
+    "word": "heights",
+    "ipa": "/haɪts/",
+    "meaning": "高度；高处；高峰、极高水平〔复数〕",
+    "sense": "抬头往上看，离平地很远的地方，是 heights；能力、成就达到更高的一层，也可以说到了新的 heights。",
+    "split": "height + -s，/t/ 后读 /s/。height 接古英语 heahthu 等高的旧名词，现代与 high 的量、性质相联，词尾读 /t/。",
+    "history": [
+      [
+        "古英语高的名词形式 → height",
+        "高这个性质、量 → 高处、极点"
+      ],
+      [
+        "height + -s → heights",
+        "多个高度、高处；不同或新的高峰水平"
+      ]
+    ],
+    "explanation": "afraid of heights 怕高；different heights 不同高度；reach new heights 达到新高。",
+    "usage": "the heights above the town 镇子上方的高地；heights of achievement 成就的高峰。",
+    "contrast": "heights 中 eigh 读 /aɪ/，不能照 eight 八的读音机械套。afraid of heights 怕的是高处，不是只害怕某个厘米数。",
+    "examples": [
+      [
+        "He is afraid of heights.",
+        "他怕高。"
+      ],
+      [
+        "The performers reached new heights of skill.",
+        "表演者的技艺达到了新的高度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heights#English",
+      "https://en.wiktionary.org/wiki/height#English"
+    ]
+  },
+  {
+    "word": "ingredient",
+    "ipa": "/ɪnˈɡriːdiənt/",
+    "meaning": "原料、成分；要素",
+    "sense": "一份东西走进整体，和别的东西一起组成配方，就是 ingredient 的老画面。食物里是原料，成功、合作里则可以是必要要素。",
+    "split": "拉丁 in- 进入与 gradi 走结合成 ingredi 走进；现在分词 ingrediens、词干 ingredient- 是进入其中的。相应形式进入英语后，指加入混合物的东西。",
+    "history": [
+      [
+        "拉丁 in- + gradi → ingredi → ingrediens、ingredient-",
+        "进入、走进 → 进入整体的"
+      ],
+      [
+        "拉丁相关形式 → 英语 ingredient",
+        "加入配方、混合物的成分；再比喻组成要素"
+      ]
+    ],
+    "explanation": "a key ingredient 关键原料、要素；the main ingredient 主要原料；an ingredient in something 某物中的成分。",
+    "usage": "a basic ingredient 基本原料；an essential ingredient 必要要素。",
+    "contrast": "ingredient 常说放进配方、组成整体的一份东西；component 更常说系统、机器等的组成部分。gred- 与 grade 的走、级别材料同族，不是现代英语随便换元音。",
+    "examples": [
+      [
+        "Flour is the main ingredient in this bread.",
+        "面粉是这种面包的主要原料。"
+      ],
+      [
+        "Patience is an important ingredient in good teamwork.",
+        "耐心是良好团队合作的重要要素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ingredient#English",
+      "https://www.etymonline.com/word/ingredient"
+    ]
+  },
+  {
+    "word": "ingredients",
+    "ipa": "/ɪnˈɡriːdiənts/",
+    "meaning": "原料、配料、成分；要素〔复数〕",
+    "sense": "一份份东西加进来，才做成一道菜、一个配方，这些加入整体的部分就是 ingredients。",
+    "split": "ingredient + -s，/t/ 后读 /s/。ingredient 接拉丁 ingrediens、ingredient- 进入其中的，较早 in- 进入与 gradi 走形成 ingredi。",
+    "history": [
+      [
+        "拉丁 ingredi → ingrediens、ingredient- → ingredient",
+        "走入整体 → 加入配方的成分"
+      ],
+      [
+        "ingredient + -s → ingredients",
+        "多份原料、多个要素"
+      ]
+    ],
+    "explanation": "fresh ingredients 新鲜食材；a list of ingredients 配料表；mix the ingredients 混合原料。",
+    "usage": "ingredients for a cake 蛋糕原料；ingredients of a good story 好故事的要素。",
+    "contrast": "ingredients 不只指化学药品，也不只指食物。它强调组成整体的各份材料，语境可以转到经验、品质等抽象要素。",
+    "examples": [
+      [
+        "Check the ingredients before you start cooking.",
+        "开始做菜前先看看所需原料。"
+      ],
+      [
+        "The recipe uses only five ingredients.",
+        "这个配方只用五种原料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ingredients#English",
+      "https://www.etymonline.com/word/ingredient"
+    ]
+  },
+  {
+    "word": "libraries",
+    "ipa": "英 /ˈlaɪbrəriz/；美 /ˈlaɪbreriz/",
+    "meaning": "图书馆；资料库、程序库等〔复数〕",
+    "sense": "把书、资料整理在一起，供人查找使用，是 libraries 的图书馆画面。软件把可反复调用的一组代码收在一起，也叫库。",
+    "split": "library 改 y 为 i 加 -es。library 经法语接拉丁 liber 书的词族；程序库、影像库等是整理资源供使用的现代扩展。",
+    "history": [
+      [
+        "拉丁 liber 的书册词族 → 法语、英语 library",
+        "集中存放、使用书的地方"
+      ],
+      [
+        "library → libraries",
+        "多家图书馆；多个整理好的资料库、程序库"
+      ]
+    ],
+    "explanation": "public libraries 公共图书馆；software libraries 程序库；music libraries 音乐资料库。",
+    "usage": "local libraries 当地图书馆；libraries of images 图像库。",
+    "contrast": "libraries 不一定有实体书和建筑，数字资源也可以成库。liberty 自由接另一拉丁源词，不把相近字母当同一词根。",
+    "examples": [
+      [
+        "Several local libraries run reading groups.",
+        "几家当地图书馆办有阅读小组。"
+      ],
+      [
+        "The program uses two libraries for processing images.",
+        "程序使用两个库来处理图像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/libraries#English",
+      "https://en.wiktionary.org/wiki/library#English"
+    ]
+  },
+  {
+    "word": "muscles",
+    "ipa": "/ˈmʌsəlz/",
+    "meaning": "肌肉；力量〔复数〕；强行挤入等〔动词第三人称单数〕",
+    "sense": "身体里能收缩、帮助发力的组织是 muscles。词的老比喻很具体：一块肌肉鼓起、移动，像皮下跑过一只小鼠。",
+    "split": "muscle + -s，/l/ 后读 /z/，c 不单独发音。muscle 借拉丁 musculus，是 mus 鼠的小称，后来用来称肌肉；小鼠形象是传统的命名解释。",
+    "history": [
+      [
+        "拉丁 mus → musculus → 英语 muscle",
+        "小鼠的比喻名称 → 肌肉"
+      ],
+      [
+        "muscle + -s → muscles",
+        "多块肌肉；也可比喻力量或作强行挤入动词"
+      ]
+    ],
+    "explanation": "arm muscles 手臂肌肉；use your muscles 运用肌肉力量；muscles in 强行挤入、介入。",
+    "usage": "strong muscles 强壮肌肉；muscles used for movement 用于运动的肌肉。",
+    "contrast": "muscles 与 mussels 贻贝常同音，拼写、来源不同。c 的拼写留在词里，读音仍是 /ˈmʌsəlz/。",
+    "examples": [
+      [
+        "The diagram shows the main muscles of the arm.",
+        "图示显示了手臂的主要肌肉。"
+      ],
+      [
+        "Climbing uses muscles throughout the body.",
+        "攀爬会用到全身的肌肉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/muscles#English",
+      "https://en.wiktionary.org/wiki/muscle#English"
+    ]
+  },
+  {
+    "word": "releasing",
+    "ipa": "/rɪˈliːsɪŋ/",
+    "meaning": "释放、放出；发布、发行〔现在分词、动名词〕",
+    "sense": "原来被限制、被留住的东西，现在松开让它出去，是 releasing。人、压力、信息、作品都能在各自场景里被放出来。",
+    "split": "release 去 e 加 -ing，末尾 s 仍读 /s/。release 经古法语 relaisser、relesser 等接拉丁 relaxare 松开；与 ligare 绑不是直接派生关系。",
+    "history": [
+      [
+        "拉丁 relaxare → 法语 → release",
+        "松开、放松 → 放出、解除限制"
+      ],
+      [
+        "release 去 e 加 -ing → releasing",
+        "正在释放；也用于把作品、信息推向公众"
+      ]
+    ],
+    "explanation": "releasing a new album 发行新专辑；releasing information 发布信息；releasing air 放出空气。",
+    "usage": "releasing the birds 放飞鸟；releasing tension 释放紧张感。",
+    "contrast": "releasing 在音乐、软件语境常是发布，不一定是有人被关着。重新出租 re-lease 是另一种构形，不与普通 release 混讲。",
+    "examples": [
+      [
+        "The band is releasing a new album next month.",
+        "乐队下月将发行一张新专辑。"
+      ],
+      [
+        "The volunteers are releasing the birds back into the wild.",
+        "志愿者正在把鸟放归野外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/releasing#English",
+      "https://en.wiktionary.org/wiki/release#English"
+    ]
+  },
+  {
+    "word": "requiring",
+    "ipa": "英 /rɪˈkwaɪərɪŋ/；美 /rɪˈkwaɪrɪŋ/",
+    "meaning": "需要、要求〔现在分词、动名词〕",
+    "sense": "要让事情成立，某个条件、资源或动作得先到位，就是 requiring 的需要感；由机构提出时，又会成为明确要求。",
+    "split": "require 去 e 加 -ing。require 远接拉丁 re- 与 quaerere 所成 requirere 寻求、请求，经法语借入后突出需要、要求。",
+    "history": [
+      [
+        "拉丁 requirere → 法语 → require",
+        "寻求、请求 → 需要、要求"
+      ],
+      [
+        "require 去 e 加 -ing → requiring",
+        "正在提出要求；或修饰需要某条件的事"
+      ]
+    ],
+    "explanation": "a task requiring patience 需要耐心的任务；requiring visitors to register 要求访客登记；requiring attention 需要关注。",
+    "usage": "work requiring special tools 需要专门工具的工作；requiring more time 需要更多时间。",
+    "contrast": "requiring someone to do 写明要求谁做什么；requiring something 只说明需要的条件、资源。requirement 是具体要求的名词。",
+    "examples": [
+      [
+        "This is a task requiring patience and care.",
+        "这是一项需要耐心和细心的任务。"
+      ],
+      [
+        "The organisers are requiring all participants to register.",
+        "组织者正要求所有参与者登记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/requiring#English",
+      "https://en.wiktionary.org/wiki/require#English"
+    ]
+  },
+  {
+    "word": "revised",
+    "ipa": "/rɪˈvaɪzd/",
+    "meaning": "修改、修订了；复习过；修订的〔过去式、过去分词〕",
+    "sense": "把已有内容再看一遍，发现哪里需要调整，就是 revised 的修改义。英式学习语境里，再看学过的东西也常是复习。",
+    "split": "revise + -d，/z/ 后读 /d/。revise 经法语 reviser 接拉丁再看的相关词形，re- 再与 vis- 看仍能帮助理解。",
+    "history": [
+      [
+        "拉丁再看的词形 → 法语 reviser → revise",
+        "重新查看 → 调整、修订；也有复习"
+      ],
+      [
+        "revise 去 e + -ed → revised",
+        "已重新查看、修改；也可形容修订版"
+      ]
+    ],
+    "explanation": "a revised edition 修订版；revised the plan 修改计划；revised for the exam 为考试复习，常见英式用法。",
+    "usage": "revised figures 修订后的数字；a carefully revised draft 仔细修改后的草稿。",
+    "contrast": "revised 不一定从头重写；可能只是调整局部。review 范围更广，revise 的修改义更明确指已有内容发生调整。",
+    "examples": [
+      [
+        "We revised the plan after the discussion.",
+        "讨论后，我们修改了计划。"
+      ],
+      [
+        "The revised edition includes a new chapter.",
+        "修订版增加了一章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revised#English",
+      "https://en.wiktionary.org/wiki/revise#English"
+    ]
+  },
+  {
+    "word": "sticks",
+    "ipa": "/stɪks/",
+    "meaning": "棍、枝条；条状物〔复数〕；粘住、卡住、坚持〔第三人称单数〕",
+    "sense": "一根小木棍可以是 a stick；把东西刺入、固定在一个位置，后来就有粘住、卡住。sticks 同时保留了物体名词和动作的用法。",
+    "split": "stick + -s，/k/ 后读 /s/。名词接古英语 sticca，动词接 stician，同族却各有旧传承；现代动词过去式、分词是 stuck。",
+    "history": [
+      [
+        "古英语 sticca、stician → stick 的名词、动词路线",
+        "棍、刺入、固定 → 附着、卡住、持续"
+      ],
+      [
+        "stick + -s → sticks",
+        "多根棍、条状物；某物粘住、某人坚持"
+      ]
+    ],
+    "explanation": "wooden sticks 木棍；sticks to the surface 粘在表面；sticks to the plan 坚持计划。",
+    "usage": "sticks of chalk 几条粉笔；sticks of butter 几条黄油。",
+    "contrast": "sticks to 可以是物理粘附，也可以是坚持做法；sticks with 可表示继续跟随、选用。常用粘住、坚持等义的过去式、分词是 stuck。",
+    "examples": [
+      [
+        "The children collected sticks for their model.",
+        "孩子们收集木棍做模型。"
+      ],
+      [
+        "She sticks to the plan even when it becomes difficult.",
+        "即使事情变难，她也坚持计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sticks#English",
+      "https://en.wiktionary.org/wiki/stick#English"
+    ]
+  },
+  {
+    "word": "succeeded",
+    "ipa": "/səkˈsiːdɪd/",
+    "meaning": "成功、做到了；接任、继任了〔过去式、过去分词〕",
+    "sense": "做的事情终于成了，是 succeeded 的成功义；一个人走到前任之后、接过位置，则是继任。历史里随后到来的方向，发展出这些不同用法。",
+    "split": "succeed + -ed，/d/ 后读 /ɪd/。拉丁 sub- 随后、接近与 cedere 前行组成相关词，经古法语 succeder 并受拉丁影响进入英语。",
+    "history": [
+      [
+        "拉丁 succedere → 法语、英语 succeed",
+        "随后前来、接替 → 继任；后有取得好结果"
+      ],
+      [
+        "succeed + -ed → succeeded",
+        "已经成功；或已接过前任职位、身份"
+      ]
+    ],
+    "explanation": "succeeded in doing 成功做成；succeeded someone as 接任某人担任；succeeded to a title 继承头衔。",
+    "usage": "finally succeeded 终于成功；succeeded against expectations 出乎预期地成功。",
+    "contrast": "succeeded in 后常接 ing，不说普通的 succeeded to do 表成功做成。succeeded someone as 则是接任，不是在说把某人战胜了。",
+    "examples": [
+      [
+        "She succeeded in finishing the project on time.",
+        "她成功地按时完成了项目。"
+      ],
+      [
+        "She succeeded her father as head of the business.",
+        "她接替父亲，成为企业负责人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/succeeded#English",
+      "https://en.wiktionary.org/wiki/succeed#English"
+    ]
+  },
+  {
+    "word": "switched",
+    "ipa": "/swɪtʃt/",
+    "meaning": "切换、更换了；开、关了〔过去式、过去分词〕",
+    "sense": "让状态、路线或选用对象从这一边转到另一边，就是 switched。开关灯、换工具、转话题，都可沿这个动作理解。",
+    "split": "switch + -ed，/tʃ/ 后读 /t/，末尾 /tʃt/ 不多一个音节。旧细枝、鞭条义可能接低地德语或荷兰语，机械切换义还可能经欧洲相关用法借入。",
+    "history": [
+      [
+        "switch 的旧物体名称与后来的机械、切换用法",
+        "具体相连路线有不同分析，现代核心是改变接通、选择状态"
+      ],
+      [
+        "switch + -ed → switched",
+        "切换已发生；常配 on、off、to 等方向"
+      ]
+    ],
+    "explanation": "switched off the light 关灯；switched on the machine 开机；switched to another tool 换用另一工具。",
+    "usage": "switched places 交换位置；switched the topic 转话题。",
+    "contrast": "switched off 是关，switched on 是开，switched to 是改用、转向。和较宽的 change 相比，switch 更容易让人想到在状态、选项之间切换。",
+    "examples": [
+      [
+        "She switched off the lights before leaving.",
+        "她离开前关了灯。"
+      ],
+      [
+        "We switched to a simpler method.",
+        "我们改用了更简单的方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switched#English",
+      "https://en.wiktionary.org/wiki/switch#English"
+    ]
+  },
+  {
+    "word": "tours",
+    "ipa": "英 /tʊəz/、/tɔːz/；美 /tʊrz/、/tɔrz/",
+    "meaning": "参观、游览行程；巡演、巡回活动〔复数〕；巡游、巡演〔第三人称单数〕",
+    "sense": "沿着一条安排好的路线转一圈，看看多个地方，就是 tours 的行程感。表演团队到多个地点演出，也是一种巡回。",
+    "split": "tour + -s，末尾读 /z/。tour 经法语 tour、tourner 接拉丁转动词族，绕行、游历到现代旅游、巡演；塔的法语同形词另源。",
+    "history": [
+      [
+        "拉丁转动词族 → 法语 tour、tourner → tour",
+        "转一圈、绕行 → 游览、巡回活动"
+      ],
+      [
+        "tour + -s → tours",
+        "多次游览、巡演；某人、团体巡回活动"
+      ]
+    ],
+    "explanation": "guided tours 导览；walking tours 徒步游览；concert tours 巡回演出。",
+    "usage": "tours the country 在全国巡回；tours of the museum 博物馆导览。",
+    "contrast": "tours 常包含路线和一连串地点；trips 更一般说出行。tour of a museum 可以在一座建筑里完成，不一定长途旅行。",
+    "examples": [
+      [
+        "The museum offers guided tours every afternoon.",
+        "博物馆每天下午提供导览。"
+      ],
+      [
+        "The band tours the country each summer.",
+        "乐队每年夏季在全国巡演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tours#English",
+      "https://en.wiktionary.org/wiki/tour#English"
+    ]
+  },
+  {
+    "word": "activists",
+    "ipa": "/ˈæktɪvɪsts/",
+    "meaning": "积极行动者、活动人士〔复数〕",
+    "sense": "不只赞同某个想法，还主动组织、倡议、行动去推动它的人，是 activists。目标可以涉及环境、社区、社会议题等。",
+    "split": "active 的 activ- 词干 + -ist → activist，再加 -s，/t/ 后读 /s/。ist 在这里命名积极推进行动、主张的人。",
+    "history": [
+      [
+        "active、activ- + -ist → activist",
+        "积极行动的性质 → 为议题行动、倡议的人"
+      ],
+      [
+        "activist + -s → activists",
+        "多位活动人士、积极行动者"
+      ]
+    ],
+    "explanation": "environmental activists 环保活动人士；local activists 当地活动人士；community activists 社区行动者。",
+    "usage": "activists for a cause 为某目标行动的人；activists campaigning for change 倡议改变的活动人士。",
+    "contrast": "activists 不只是日常活跃、爱运动的人；active students 可以只是积极的学生，activists 常围绕某项主张持续行动。",
+    "examples": [
+      [
+        "Local activists organised a campaign to protect the park.",
+        "当地活动人士组织了保护公园的行动。"
+      ],
+      [
+        "The meeting brought together community activists and residents.",
+        "会议把社区行动者和居民聚到了一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/activists#English",
+      "https://en.wiktionary.org/wiki/activist#English"
+    ]
+  }
+]

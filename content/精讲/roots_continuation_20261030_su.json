@@ -1,0 +1,441 @@
+[
+  {
+    "id": "A2157",
+    "meaning": "白、白色",
+    "core": "LEUKO-：在血细胞名称里先认白这一线索",
+    "image": "leukocyte 是白细胞，后部 -cyte 给细胞，前部给白。interleukin 又由白细胞相关材料进入细胞信号物质命名。",
+    "intro": "来自希腊 leukos 白。近代科学中常见 leuko-，也有 leuco- 拼写；完整物质名还可能经过截短、重新组合。",
+    "forms": "leuko- 白 + -cyte 细胞 → leukocyte；inter- 之间 + leukocyte 的部分词形 + 物质名形式 → interleukin。",
+    "branches": [
+      [
+        "白细胞",
+        "leukocyte"
+      ],
+      [
+        "相关细胞信号名称",
+        "interleukin"
+      ]
+    ],
+    "contrasts": "白是早期观察和分类的线索；现代 leukocyte 是白细胞总称，不是说每个细胞都像白纸一样。interleukin 也不是细胞的另一名称。",
+    "practice": "The textbook explains the role of leukocytes in immunity.\n\n课本解释了白细胞在免疫中的作用。",
+    "words": [
+      "leukocyte",
+      "interleukin"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2272",
+    "meaning": "黏液相关",
+    "core": "MUCO-：身体分泌的黏液这一材料",
+    "image": "mucus 是黏液，mucous 是黏液相关的；mucous membrane 就是黏膜，表面常有保护、润滑等相关作用。",
+    "intro": "接拉丁 mucus 鼻涕、黏液，经新拉丁语科学组合形式进入现代医学词。muco- 的 o 常是组合元音。",
+    "forms": "mucus 名词；muc- 相关词干 + 形容词材料 → mucous。现代读写时先分清名词与形容词。",
+    "branches": [
+      [
+        "黏液及相关性质",
+        "mucus · mucous"
+      ]
+    ],
+    "contrasts": "mucus 是分泌物，mucous 修饰膜、腺等。mucous membrane 不能把最后两个字母漏掉，误作普通名词并列。",
+    "practice": "The passage describes mucus and the mucous membranes.\n\n这段文字介绍了黏液和黏膜。",
+    "words": [
+      "mucus",
+      "mucous"
+    ],
+    "exclude": {
+      "mucin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1931",
+    "meaning": "对某物有亲和性的；喜某物的",
+    "core": "-PHILIC：两种材料更容易相互接近、结合",
+    "image": "hydrophilic 亲水，lipophilic 亲脂。借喜欢这一形象，帮助记材料与水、脂类之间的亲和关系。",
+    "intro": "来自希腊 philos 爱、亲近的词族，再接形容词材料 -ic。现代科学把人物感情的旧材料转成物质相互作用的术语。",
+    "forms": "hydro- 水 + -philic → hydrophilic；lipo- 脂 + -philic → lipophilic。前部给对象，后部给亲和性质。",
+    "branches": [
+      [
+        "亲水与亲脂的材料性质",
+        "hydrophilic · lipophilic"
+      ]
+    ],
+    "contrasts": "亲水、亲脂是便于理解的化学性质词，不是物质有感情。实际溶解、润湿、分配等表现还取决于完整物质和条件。",
+    "practice": "The lesson compares hydrophilic and lipophilic substances.\n\n这节课比较亲水物质和亲脂物质。",
+    "words": [
+      "hydrophilic",
+      "lipophilic"
+    ],
+    "exclude": {
+      "eosinophilic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "electrophilic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2267",
+    "meaning": "历史、历史记述",
+    "core": "HISTORIO-：不仅发生了什么，也看历史怎样写出来",
+    "image": "historiography 可以研究历史叙述的方法、传统，也可指某主题已有的历史著作。它把注意放到写史这一层。",
+    "intro": "来自希腊 historia 调查、历史叙述的组合形式，与现代 history 词族相连。近代学术名称把它接到书写、论述材料。",
+    "forms": "historio- 历史 + -graphy 写、记述 → historiography。history 是相邻基础词，historical 是历史相关形容词。",
+    "branches": [
+      [
+        "历史与历史记述研究",
+        "history · historical · historiography"
+      ]
+    ],
+    "contrasts": "history 可以讲过去及其研究；historiography 更专门关注历史怎么研究、怎么书写，或已有的历史著作体系。",
+    "practice": "The course examines the historiography of the revolution.\n\n这门课研究关于那场革命的历史书写与研究传统。",
+    "words": [
+      "history",
+      "historical",
+      "historiography"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2270",
+    "meaning": "酮、酮体相关",
+    "core": "KETO-：从化学名称进入代谢和饮食词汇",
+    "image": "ketosis 是酮体增加相关的代谢状态名称，ketogenic 是产生酮体的、促使进入这种代谢方向的；后者也用于饮食名称。",
+    "intro": "由 ketone 酮缩短成组合形式 keto-，再进入近代生化、医学等术语。ketone 的更深命名联系 acetone 丙酮词族。",
+    "forms": "keto- + -sis 等状态材料 → ketosis；keto- + -genic 产生相关 → ketogenic。具体科学名称有固定含义。",
+    "branches": [
+      [
+        "代谢状态与产生关系",
+        "ketosis · ketogenic"
+      ]
+    ],
+    "contrasts": "ketogenic 是形容词，ketosis 是状态名称；a ketogenic diet 是一种饮食安排，ketosis 则描述代谢状态。两者谈论的对象不同。",
+    "practice": "The article explains the meaning of ketosis.\n\n文章解释了 ketosis 这一代谢状态名称。",
+    "words": [
+      "ketosis",
+      "ketogenic"
+    ],
+    "exclude": {
+      "ketoacidosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2021",
+    "meaning": "父亲、父系、家族相关",
+    "core": "PATRI-：沿父亲、父系这一方向展开关系",
+    "image": "patrilineal 说世系按父系追溯；patrimony 则从父亲、祖先留下的东西发展为家产、传承遗产。",
+    "intro": "相关材料接拉丁 pater 父亲及希腊 patria 家族等词族。不同完整词经拉丁、法语或近代学术命名形成。",
+    "forms": "patri- 父系 + lineal 世系相关 → patrilineal；patrimony 的历史接拉丁 patrimonium 父系家产、继承财产。",
+    "branches": [
+      [
+        "父系的世系关系",
+        "patrilineal"
+      ],
+      [
+        "继承的财产、传承遗产",
+        "patrimony"
+      ]
+    ],
+    "contrasts": "patrilineal 与 patriarchal 不完全一样：前者说按谁追溯世系，后者常说父权、男性主导结构。不要只凭父这一材料混为一义。",
+    "practice": "The study describes a patrilineal kinship system.\n\n研究描述了一种父系亲属制度。",
+    "words": [
+      "patrilineal",
+      "patrimony"
+    ],
+    "exclude": {
+      "patristic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2180",
+    "meaning": "糖、甜的相关材料",
+    "core": "GLYCO-：把名称接到糖类上",
+    "image": "glycoprotein 把糖与蛋白质接在一起；glycolysis 说糖酵解这一代谢过程。一个命名结构，一个命名过程。",
+    "intro": "来自希腊 glykys 甜，近代生物化学取糖相关意义。glyco- 的 o 是常见组合元音。",
+    "forms": "glyco- 糖 + protein 蛋白质 → glycoprotein；glyco- + -lysis 分解相关 → glycolysis。",
+    "branches": [
+      [
+        "糖与蛋白质结合的结构",
+        "glycoprotein"
+      ],
+      [
+        "糖代谢过程",
+        "glycolysis"
+      ]
+    ],
+    "contrasts": "糖相关不表示尝起来一定甜。glycoprotein 是具体类别名称；glycolysis 是过程，不能把它当另一种蛋白质。",
+    "practice": "The lecture introduces glycoproteins and glycolysis.\n\n讲座介绍了糖蛋白和糖酵解。",
+    "words": [
+      "glycoprotein",
+      "glycolysis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2409",
+    "meaning": "引导、输送；相应通道、构造",
+    "core": "-DUCT：把道路或水引过某处的构造",
+    "image": "aqueduct 把水输送过去，viaduct 把道路引过山谷等地方。一个承载水，一个承载道路，都是通行、输送的画面。",
+    "intro": "接拉丁 ducere 引导、带领及 ductus 等词干。英语 -duct 组合常受 aqueduct 的历史借词、后续类比造词影响。",
+    "forms": "aqueduct 接水与引导、输送材料；via 路 + 类比后部 -duct → viaduct。不能把每个词都当作现代 duct 管道现场拼接。",
+    "branches": [
+      [
+        "水的输送构造",
+        "aqueduct"
+      ],
+      [
+        "道路跨越的构造",
+        "viaduct"
+      ]
+    ],
+    "contrasts": "viaduct 常指跨谷地、低地等的高架桥，可以承载公路或铁路；aqueduct 是输水结构，不一定采用桥的外观。",
+    "practice": "The railway crosses the valley on a viaduct.\n\n铁路通过高架桥跨过山谷。",
+    "words": [
+      "aqueduct",
+      "viaduct"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2400",
+    "meaning": "运动相关的历史命名材料",
+    "core": "-KINE：在细胞信号名称里认识运动材料",
+    "image": "cytokine 是细胞间传递信号的一类物质名称；它们会影响细胞活动。这个词尾来自运动材料，但现代类别不只等于让细胞移动。",
+    "intro": "接希腊 kinein 移动、使动的词族，或经 -kinesis 等相关组合形式。近代生物学用此材料参与 cytokine 的命名。",
+    "forms": "cyto- 细胞 + -kine 运动相关材料 → cytokine。名称历史给记忆线索，现代定义依据细胞信号作用这一术语类别。",
+    "branches": [
+      [
+        "细胞信号物质的类别",
+        "cytokine"
+      ]
+    ],
+    "contrasts": "cytokine 是细胞因子，不是细胞本身。interleukin 是其中一组名称，不能把所有细胞因子都叫同一种白细胞介素。",
+    "practice": "The researchers measured cytokine levels in the samples.\n\n研究人员测量了样本中的细胞因子水平。",
+    "words": [
+      "cytokine"
+    ],
+    "exclude": {
+      "chemokine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2314",
+    "meaning": "肌肉",
+    "core": "MUSCULO-：把肌肉接入复合名称",
+    "image": "musculoskeletal 把肌肉和骨骼并在一起，关注身体支撑、运动等相互配合的结构。",
+    "intro": "来自拉丁 musculus 肌肉及近代科学组合形式 musculo-。拉丁词更早有小鼠的字面材料，后来固定为肌肉名称。",
+    "forms": "musculo- 肌肉 + skeletal 骨骼的 → musculoskeletal；muscle、muscular 是相邻常用词族。",
+    "branches": [
+      [
+        "肌肉及相关性质",
+        "muscle · muscular"
+      ],
+      [
+        "肌肉与骨骼合称",
+        "musculoskeletal"
+      ]
+    ],
+    "contrasts": "muscular 可以说肌肉相关，也能说肌肉发达；musculoskeletal 是系统范围名称，不表示某人肌肉很壮。",
+    "practice": "The diagram labels the musculoskeletal system.\n\n图示标出了肌肉骨骼系统。",
+    "words": [
+      "muscle",
+      "muscular",
+      "musculoskeletal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2312",
+    "meaning": "脑、大脑相关",
+    "core": "CEREBRO-：把对象限定到脑这一侧",
+    "image": "cerebrospinal 把脑与脊髓连起来；cerebrospinal fluid 是脑脊液。先认前后两个结构，整个搭配才容易懂。",
+    "intro": "接拉丁 cerebrum 脑及近代医学组合形式 cerebro-。spinal 则来自 spine 脊柱、脊髓相关词族。",
+    "forms": "cerebro- 脑 + spinal 脊髓、脊柱相关 → cerebrospinal；在 fluid 等搭配里成为固定医学名称。",
+    "branches": [
+      [
+        "脑的相邻基础名称",
+        "cerebrum"
+      ],
+      [
+        "脑与脊髓相关",
+        "cerebrospinal"
+      ]
+    ],
+    "contrasts": "cerebral 侧重脑、大脑相关，cerebrospinal 同时接入脊髓关系。fluid 才明确说液体，形容词本身不等于完整液体名称。",
+    "practice": "The passage explains cerebrospinal fluid.\n\n这段文字解释了脑脊液。",
+    "words": [
+      "cerebrum",
+      "cerebral",
+      "cerebrospinal"
+    ],
+    "exclude": {
+      "cerebrovascular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2292",
+    "meaning": "站立、停留、相对稳定的状态",
+    "core": "-STASIS：让某种状态保持或停住的历史画面",
+    "image": "homeostasis 说内在状态维持相对稳定，比如某个数值会波动，但调节使它保持在一定范围。",
+    "intro": "来自希腊 stasis 站立、位置、停留，经学术词进入现代生理学等术语。不同前部限定相应状态。",
+    "forms": "homeo- 相似 + stasis 状态 → homeostasis；homeostatic 是对应形容词。相似强调相对稳定，不是绝对冻结不变。",
+    "branches": [
+      [
+        "稳态及调节性质",
+        "homeostasis · homeostatic"
+      ]
+    ],
+    "contrasts": "homeostasis 常是动态调节：有变化、有反馈，仍维持相对稳定。不能把名称里的停留只理解成一切活动都停止。",
+    "practice": "The lesson explains how feedback helps maintain homeostasis.\n\n这节课解释了反馈怎样帮助维持稳态。",
+    "words": [
+      "homeostasis",
+      "homeostatic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2408",
+    "meaning": "结肠",
+    "core": "COLONO-：检查对象限定到结肠",
+    "image": "colonoscopy 是结肠镜检查；前部说看哪里，后部说用仪器观察、检查的过程。",
+    "intro": "来自希腊 kolon 结肠，经医学拉丁语等组合形式形成 colono-。现代英语 colon 的结肠义属于这条词族。",
+    "forms": "colon 结肠 → colono-；colono- + -scopy 检查 → colonoscopy。连接时元音常按复合词形式调整，不把尾部误作普通 copy。",
+    "branches": [
+      [
+        "结肠及相关检查",
+        "colon · colonoscopy"
+      ]
+    ],
+    "contrasts": "colon 还有标点冒号这一同形用法，不能用标点义解释 colonoscopy；-scopy 也不是抄写，而是检查。",
+    "practice": "The leaflet explains what a colonoscopy is.\n\n小册子解释了什么是结肠镜检查。",
+    "words": [
+      "colon",
+      "colonoscopy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2395",
+    "meaning": "改变、突变相关",
+    "core": "MUTA-：把对象接到遗传改变这一词族",
+    "image": "mutagen 是能导致突变的因素，mutagenic 形容这种性质，mutagenesis 则说突变发生、产生的过程。",
+    "intro": "接 mutation 突变词族，远接拉丁 mutatio 改变；近代科学类比其他组合形式采用 muta-。",
+    "forms": "muta- + -gen 产生相关 → mutagen → mutagenic；muta- + -genesis 发生、生成 → mutagenesis。",
+    "branches": [
+      [
+        "改变、突变的基础名称",
+        "mutation"
+      ],
+      [
+        "致突变因素、性质与过程",
+        "mutagen · mutagenic · mutagenesis"
+      ]
+    ],
+    "contrasts": "mutagen 是因素，mutagenesis 是过程；mutation 是发生的改变。后部不同，谈论对象也不同。",
+    "practice": "The glossary distinguishes a mutagen from a mutation.\n\n词汇表区分了致突变因素与突变。",
+    "words": [
+      "mutation",
+      "mutagen",
+      "mutagenic",
+      "mutagenesis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2151",
+    "meaning": "配对、合子相关的形容词材料",
+    "core": "-ZYGOUS：比较一对等位基因的关系",
+    "image": "homozygous 说某个基因位点的一对等位基因相同，heterozygous 说不同。把注意放到同一位点的那一对。",
+    "intro": "接希腊 zygon 轭、成对连接的材料，进入近代遗传学 zygo- 词族，再加形容词 -ous。",
+    "forms": "homo- 相同 + -zygous → homozygous；hetero- 不同 + -zygous → heterozygous。",
+    "branches": [
+      [
+        "相同与不同的配对关系",
+        "homozygous · heterozygous"
+      ]
+    ],
+    "contrasts": "通常说某个位点或某组明确位点的纯合、杂合；不是说一个人的所有基因都完全相同或完全不同。",
+    "practice": "The example compares homozygous and heterozygous genotypes.\n\n例子比较了纯合与杂合的基因型。",
+    "words": [
+      "homozygous",
+      "heterozygous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2216",
+    "meaning": "牙、牙齿",
+    "core": "-ODONT：牙的旧词干进入现代矫正术语",
+    "image": "orthodontics 说牙齿、咬合等的矫正领域；把 ortho- 正与 odont- 牙接起来，就有容易记的画面。",
+    "intro": "来自希腊 odous 牙的变格词干 odont-。词干的 t 来自旧词形，不是现代另加一个独立 t 后缀。",
+    "forms": "ortho- 正 + odont- 牙 + -ics 学科等 → orthodontics；orthodontic 是相应形容词。现代英语词族也经法语等学术命名联系。",
+    "branches": [
+      [
+        "牙齿矫正领域及相关性质",
+        "orthodontics · orthodontic"
+      ]
+    ],
+    "contrasts": "orthodontics 是较专门的正畸领域；dentistry 牙科范围更广。odont- 与 dent- 是不同语言的牙材料。",
+    "practice": "The clinic provides orthodontic treatment.\n\n这家诊所提供牙齿正畸治疗。",
+    "words": [
+      "orthodontics",
+      "orthodontic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2134",
+    "meaning": "音乐类型；扩展为审美、风格标签",
+    "core": "-CORE：从硬核音乐的后半，扩展为类型名称",
+    "image": "metalcore 是音乐类型，cottagecore 是田园生活美学。同样的末尾在现代文化中扩展了用途，具体主题由前半决定。",
+    "intro": "从 hardcore、尤其 hardcore punk 的音乐用法抽出 -core，先进入相关音乐类型，再类比扩展到网络审美、风格命名。",
+    "forms": "hardcore → -core；metal + -core → metalcore；cottage + -core → cottagecore。后来的类比并不表示田园美学来自某种音乐声音。",
+    "branches": [
+      [
+        "相邻基础用法",
+        "hardcore"
+      ],
+      [
+        "音乐风格",
+        "metalcore"
+      ],
+      [
+        "田园审美标签",
+        "cottagecore"
+      ]
+    ],
+    "contrasts": "-core 在这些新名称中给类型、主题风格关系；并不是每个词都要硬译成核心。理解前部主题和实际文化用法更有用。",
+    "practice": "The article contrasts metalcore music with the cottagecore aesthetic.\n\n文章对照了金属核音乐与田园生活美学。",
+    "words": [
+      "hardcore",
+      "metalcore",
+      "cottagecore"
+    ],
+    "exclude": {
+      "deathcore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grindcore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2318",
+    "meaning": "核糖及其相关分子材料",
+    "core": "RIBO-：通过核糖关系连接不同科学名称",
+    "image": "ribosome 核糖体参与蛋白质制造，riboflavin 核黄素是维生素 B₂。名字前部有关，完整词指向不同对象。",
+    "intro": "从 ribose 核糖及相关近代化学名称形成 ribo-。后续词分别在细胞结构、维生素等研究背景中命名。",
+    "forms": "ribo- 核糖、核糖核酸相关 + -some 小体 → ribosome；ribo(se)- + flavin 黄素 → riboflavin。",
+    "branches": [
+      [
+        "细胞结构",
+        "ribosome"
+      ],
+      [
+        "维生素物质名称",
+        "riboflavin"
+      ]
+    ],
+    "contrasts": "ribo- 不等于单独的细胞核，也不把这两个词变为同义词。先分清结构、维生素，再借词源记名字。",
+    "practice": "The glossary defines ribosome and riboflavin separately.\n\n词汇表分别解释了核糖体与核黄素。",
+    "words": [
+      "ribosome",
+      "riboflavin"
+    ],
+    "exclude": {}
+  }
+]

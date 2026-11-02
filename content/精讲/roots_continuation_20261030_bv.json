@@ -1,0 +1,53 @@
+[
+  {
+    "id": "B3367",
+    "meaning": "刻记、计数，再到分数、比分与书面记录",
+    "core": "SCORE：刻下一道记号，再累计成分数",
+    "image": "score → scorer、scoreless、outscore；记录工具、比分表达放一组；underscore 单列画线到强调的支线。",
+    "intro": "二十是历史计数义，现代成绩和刻痕不是拼巧的同形词。音乐总谱也保留为独立用法，不把所有谱强说成体育成绩。",
+    "forms": "score + -er/-less；out- + score；score + board/card/line/sheet；under + score。\n\n刻记用来记录数量的历史，连接分数、取得成绩；刻线义仍存在。\n\n刻记、计数词族还保留一组二十的数量用法；scores of 常泛指数十、许多。\n\n北欧刻痕词相关，音乐配器、写总谱另有专业用途。",
+    "branches": [
+      [
+        "分数与得分",
+        "score · scorer · scoreless · outscore"
+      ],
+      [
+        "比分和记录工具",
+        "scoreline · scoreboard · scorecard · scoresheet"
+      ],
+      [
+        "画线和强调",
+        "underscore"
+      ],
+      [
+        "score → scored：刻痕、计数与得分",
+        "score · scored"
+      ],
+      [
+        "score → scores：分数、总谱与若干个二十",
+        "score · scores"
+      ],
+      [
+        "score → scoring：刻记到记分、得分",
+        "score · scoring"
+      ]
+    ],
+    "contrasts": "scoreless 不一定双方平局；outscore 某一节不保证赢整场；scoresheet 记分表、scoreboard 记分牌；underscore _ 与连字符 - 不同。",
+    "practice": "The scorer checked the scoresheet before changing the scoreboard.\n\n记分员先核对记分表，再修改记分牌。",
+    "words": [
+      "score",
+      "scorer",
+      "scoreless",
+      "outscore",
+      "scoreline",
+      "scoreboard",
+      "scorecard",
+      "scoresheet",
+      "underscore",
+      "scored",
+      "scores",
+      "scoring"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B3486",
+    "meaning": "一件任务；工作、就业岗位",
+    "core": "JOB：眼前要做的一件活，也可以是一份职业岗位",
+    "image": "任务完成叫 do a job，失去岗位叫 jobless，正在找工作叫 jobseeker；现场则是 jobsite。",
+    "intro": "job 早期见于一份工作之类表达，更早来源有争议。主线抓可数任务、岗位，不与泛指工作量的 work 混；粗俗固定复合词另说明语域与旧俚语来源。",
+    "forms": "job → jobless → joblessness；job + seeker → jobseeker；jobsite 讲现场；blowjob 是词汇化俚语，不能按字面职业义硬译。\n\njob 早有一份活的表达，更远来源未定；jobs 可数职位，也可数要完成的一项项工作。",
+    "branches": [
+      [
+        "任务、岗位与无工作状态",
+        "job · jobless · joblessness"
+      ],
+      [
+        "求职人与现场",
+        "jobseeker · jobsite"
+      ],
+      [
+        "语域特殊的固定复合词",
+        "blowjob"
+      ],
+      [
+        "job → jobs：工作职位与具体任务",
+        "job · jobs"
+      ]
+    ],
+    "contrasts": "work 常不可数、job 通常可数；jobseeker 与 jobless 不完全重合；jobsite 主要实体现场，俚语 blowjob 不取普通工作义。",
+    "practice": "The jobseeker found a job coordinating equipment deliveries to the jobsite.\n\n求职者找到一份协调工地设备配送的工作。",
+    "words": [
+      "job",
+      "jobless",
+      "joblessness",
+      "jobseeker",
+      "jobsite",
+      "blowjob",
+      "jobs"
+    ],
+    "exclude": {
+      "job-sharing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "job-hopper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jobber": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "double-jobbing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4085",
+    "meaning": "落在某处的地点；场地、站点",
+    "core": "SITE：事物落在什么地方，实体与网络各有站点",
+    "image": "在工地、在原址、在网站上，先认清 site 指哪种地方，再看 onsite、offsite、sitewide。",
+    "intro": "site 经法语上接拉丁 situs“位置、地点”。website 借用站点概念；实体 onsite 与在线 online 不同，offsite 与 offline 也不是同一维度。",
+    "forms": "site → website；onsite / offsite 相邻对照；sitewide 讲全范围，fansite 讲受众，gravesite 讲具体墓址。campsite、worksite、jobsite 各按用途集中。\n\n拉丁位置词经法语等借入，现代互联网沿地点功能命名。\n\nweb 与 site 的现代组合，整个站点和其中网页区分。\n\n共同接拉丁 situs 地点、位置；situated 经 situare、situate 的独立路线，不是英语 site 直接加字母。",
+    "branches": [
+      [
+        "地点与网络站点",
+        "site · website"
+      ],
+      [
+        "在场内、场外和全范围",
+        "onsite · offsite · sitewide"
+      ],
+      [
+        "受众与实体用途",
+        "fansite · gravesite · campsite · worksite · jobsite"
+      ],
+      [
+        "site → sites：所在地点与网站",
+        "site · sites"
+      ],
+      [
+        "website → websites；site → sites：网络站点",
+        "website · websites · site · sites"
+      ],
+      [
+        "site 与 situated：地点与处在某位置",
+        "site · situated"
+      ]
+    ],
+    "contrasts": "site 地点、sight 视觉、cite 引用，同音不同词；onsite 现场、online 在线；offsite 场外、offline 离线。",
+    "practice": "The onsite team checked the worksite while the offsite team updated the website.\n\n现场团队检查工作场地，异地团队则更新网站。",
+    "words": [
+      "site",
+      "website",
+      "onsite",
+      "offsite",
+      "sitewide",
+      "fansite",
+      "gravesite",
+      "campsite",
+      "worksite",
+      "jobsite",
+      "sites",
+      "websites",
+      "situated"
+    ],
+    "exclude": {
+      "on-site": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "off-site": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "townsite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

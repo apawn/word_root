@@ -1,0 +1,160 @@
+[
+  {
+    "id": "B2898",
+    "meaning": "背；后方；返回；支持",
+    "core": "BACK：背后的位置，回来的方向，托住别人的支持",
+    "image": "站在后面可看作背景、作为支撑，也可能暗中拆台，具体要看另一部分。",
+    "intro": "back 接古英语 bæc 等本族形式。位置义形成 backyard、backstage、backlight；返回和反向义形成 feedback、playback、backtrack；支持义形成 backing、backer。这些场景要分开，不只背一个“后”。",
+    "forms": "复合词的两部分并列，后半常决定对象：backboard 是板，backbone 是骨与主干，backache 是疼痛。backlog 有旧火炉木柴与后来的积存比喻背景，不能凭现代 log 强编单一来历。backburner 的习语常分写；backslash 与正斜杠区别符号方向。\n\nbackup 名词由 back up 支持、倒退等短语发展，现代常说支援、备用安排和数据备份；词类不同会影响合写或分写。\n\nback 名词接古英语 bæc；名词多处背面与动词支持的现代用法同写 backs。\n\nbacon 经古法语接日耳曼背侧肉的名称，与 back 同源，不是现代 back 加某个 on 尾。\n\n合写名词与分写动词 back up 区分，复数数副本或后备人、物。\n\npaperback 从较早纸封背等表达缩短，hardback 仿其命名模式。\n\nplay back 动作形成名词，数不同回放时可用复数。",
+    "branches": [
+      [
+        "核心与支持",
+        "back · backing · backer"
+      ],
+      [
+        "后景和场所",
+        "background · backstage · backdrop · backroom · backyard · backstreet"
+      ],
+      [
+        "回返与反效果",
+        "feedback · playback · flashback · backtrack · backfire · pushback"
+      ],
+      [
+        "任务、保障和取舍",
+        "backlog · drawback · backstop · backburner · backfill"
+      ],
+      [
+        "身体、器物与运动",
+        "backbone · backache · backside · backseat · horseback · backhand · backhanded · backstroke · backboard"
+      ],
+      [
+        "装订与照明",
+        "paperback · hardback · backlight · backlit · backless"
+      ],
+      [
+        "路线与数字符号",
+        "backcountry · backwoods · switchback · backlink · backslash · backspace"
+      ],
+      [
+        "backup：站在后面支持到备用、备份",
+        "back · backup"
+      ],
+      [
+        "back → backs：背部；背面；支持",
+        "back · backs"
+      ],
+      [
+        "back 与 bacon：本族背部词和经法语借回的肉名",
+        "back · bacon"
+      ],
+      [
+        "backup → backups：备份、后备、支援",
+        "backup · backups"
+      ],
+      [
+        "back 的书封背材料进入装订名称",
+        "hardback · hardbacks · paperback · paperbacks"
+      ],
+      [
+        "playback → playbacks：回放与回放内容",
+        "playback · playbacks"
+      ]
+    ],
+    "contrasts": "feedback 是反馈，pushback 是抵制；backer 是支持者，backstabber 是背叛者；backlog 是待办积压，backburner 是暂降低优先级；backhand 是反手，backhanded compliment 常是明褒暗贬。",
+    "practice": "The team welcomed feedback but faced pushback on the deadline, so part of the backlog went on the back burner.\n\n团队欢迎反馈，但截止安排遭到抵制，因此把一部分待办事项暂时搁后。",
+    "words": [
+      "back",
+      "backing",
+      "backer",
+      "backward",
+      "background",
+      "feedback",
+      "backyard",
+      "backpack",
+      "paperback",
+      "hardback",
+      "backstage",
+      "backdrop",
+      "backbone",
+      "flashback",
+      "horseback",
+      "playback",
+      "backlog",
+      "drawback",
+      "backside",
+      "backseat",
+      "backfire",
+      "aback",
+      "hatchback",
+      "backhand",
+      "backhanded",
+      "backwater",
+      "backroom",
+      "pushback",
+      "backcountry",
+      "backwoods",
+      "backtrack",
+      "backstroke",
+      "backstop",
+      "backboard",
+      "backlight",
+      "backlit",
+      "backless",
+      "backache",
+      "backfill",
+      "switchback",
+      "backbreaking",
+      "backslash",
+      "backburner",
+      "backlink",
+      "backstab",
+      "backstabber",
+      "quarterback",
+      "outback",
+      "backstreet",
+      "backcourt",
+      "backspace",
+      "backup",
+      "backs",
+      "bacon",
+      "backups",
+      "hardbacks",
+      "paperbacks",
+      "playbacks"
+    ],
+    "exclude": {
+      "look-back": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loan-back": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-butt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lean-back": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-spelling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fullback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cornerback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "halfback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "humpback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bareback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brokeback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backhoe": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "diamondback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brownback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "razorback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "silverback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backbench": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tailback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fightback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "saddleback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "camelback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snapback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backhaul": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backwash": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backswing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leatherback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backplane": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wingback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backhouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

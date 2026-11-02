@@ -1,0 +1,534 @@
+[
+  {
+    "word": "radioisotope",
+    "ipa": "英 /ˌreɪdiəʊˈaɪsətəʊp/；美 /ˌreɪdioʊˈaɪsətoʊp/",
+    "meaning": "放射性同位素",
+    "sense": "同一种元素可以有不同中子数的原子；其中不稳定、会自发衰变并放出辐射的同位素，就叫 radioisotope。",
+    "split": "radio- 放射性 + isotope 同位素；isotope 的 iso- 相同与 -tope 位置，背景是同一元素在周期表占同一位置。",
+    "history": [
+      [
+        "拉丁 radius 光线、射线 → radio-",
+        "射线、辐射；另有无线电相关用法"
+      ],
+      [
+        "radio- + isotope、nuclide、-meter",
+        "放射性同位素、放射性核素；辐射测量仪"
+      ]
+    ],
+    "explanation": "a radioactive isotope／radioisotope 放射性同位素，radioisotope tracing 放射性同位素示踪。",
+    "usage": "a carbon radioisotope；radioisotope tracing。",
+    "contrast": "同位素不一定都有放射性；radio- 才加上这项性质。radioisotope 与 radionuclide 常指同一对象，但前者突出同元素中的同位素关系。",
+    "examples": [
+      [
+        "Carbon-14 is a radioisotope of carbon.",
+        "碳十四是碳的一种放射性同位素。"
+      ],
+      [
+        "The textbook distinguishes stable isotopes from radioisotopes.",
+        "教材区分了稳定同位素与放射性同位素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/radioisotope#English",
+      "https://www.cnsc-ccsn.gc.ca/eng/nuclear-safety-security/educational-resources/radiation/atoms-nuclides-radioisotopes/"
+    ]
+  },
+  {
+    "word": "radionuclide",
+    "ipa": "英 /ˌreɪdiəʊˈnjuːklaɪd/；美 /ˌreɪdioʊˈnuːklaɪd/",
+    "meaning": "放射性核素",
+    "sense": "nuclide 按原子核的组成、状态给原子分类；radio- 再说明这一类会自发衰变。这个名字把注意力放在核素本身。",
+    "split": "radio- 放射性 + nuclide 核素，现代科学组合词。nuclide 与 nucleus 核的词族有关，不是 nucleotide 核苷酸。",
+    "history": [
+      [
+        "拉丁 radius 光线、射线 → radio-",
+        "射线、辐射；另有无线电相关用法"
+      ],
+      [
+        "radio- + nuclide → radionuclide",
+        "具有放射性的一种核素"
+      ]
+    ],
+    "explanation": "a naturally occurring radionuclide 天然存在的放射性核素，radionuclide decay 放射性核素衰变。",
+    "usage": "radionuclide decay；radionuclides in a sample。",
+    "contrast": "radionuclide 与 radioisotope 日常科学文本中常交替出现；nuclide 的分类对象与 isotope 同元素间关系的角度略有不同。",
+    "examples": [
+      [
+        "The sample contains several radionuclides.",
+        "样品中含有几种放射性核素。"
+      ],
+      [
+        "Each radionuclide has its own decay properties.",
+        "每种放射性核素都有自身的衰变特性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/radionuclide#English",
+      "https://www.nrc.gov/education-regulatory-research/glossary/radionuclide"
+    ]
+  },
+  {
+    "word": "radiometer",
+    "ipa": "英 /ˌreɪdiˈɒmɪtə/；美 /ˌreɪdiˈɑːmɪtər/",
+    "meaning": "辐射计",
+    "sense": "radio- 在这里指辐射，-meter 是测量仪器。radiometer 把来自物体、太阳等的辐射信号量出来，具体测什么波段看仪器。",
+    "split": "radio- 射线、辐射 + -meter 测量工具，现代科学组合词。radi- 与连接元音 -o- 形成前部。",
+    "history": [
+      [
+        "拉丁 radius 光线、射线 → radio-",
+        "射线、辐射；另有无线电相关用法"
+      ],
+      [
+        "radio- + -meter → radiometer",
+        "测量辐射的仪器"
+      ]
+    ],
+    "explanation": "a microwave radiometer 微波辐射计，radiometer measurements 辐射计测量。",
+    "usage": "a microwave radiometer；a calibrated radiometer。",
+    "contrast": "radiometer 不等于收音机，也不只测放射性核素；光、微波等都可能是测量对象。",
+    "examples": [
+      [
+        "The satellite carries a microwave radiometer.",
+        "卫星搭载一台微波辐射计。"
+      ],
+      [
+        "The radiometer measured radiation from the surface.",
+        "辐射计测量了来自表面的辐射。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/radiometer#English"
+    ]
+  },
+  {
+    "word": "carriage",
+    "ipa": "/ˈkærɪdʒ/",
+    "meaning": "马车；〔英式〕车厢；运送；姿态；机械滑架",
+    "sense": "carriage 先抓“把东西承着、运着”的功能。马车载人，车厢载客，机械滑架承着部件移动；a person’s carriage 则说身体怎样端着。",
+    "split": "经中古英语 cariage 接古北法语 cariage，来自 carier 搬运。可看出 carry 与 -age 的历史联系，但不是现代把 carry 改字母才新造的词。",
+    "history": [
+      [
+        "古北法语 carier 搬运 → cariage → carriage",
+        "搬运活动、运载工具"
+      ],
+      [
+        "运输 → 马车、车厢、支撑移动部件、姿态",
+        "under- + carriage 下部支撑；mis- + carriage 另有历史意义发展"
+      ]
+    ],
+    "explanation": "a horse carriage 马车，a railway carriage 车厢，carriage charges 运费，an upright carriage 挺直的仪态。",
+    "usage": "a railway carriage；carriage charges；a horse carriage。",
+    "contrast": "carriage 运送、运费与马车只是不同分支；现代 car 汽车的范围不能直接替代这些搭配。",
+    "examples": [
+      [
+        "They travelled in a horse carriage.",
+        "他们乘马车出行。"
+      ],
+      [
+        "We sat in the last carriage of the train.",
+        "我们坐在列车最后一节车厢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carriage#English"
+    ]
+  },
+  {
+    "word": "undercarriage",
+    "ipa": "英 /ˈʌndəkærɪdʒ/；美 /ˈʌndərkærɪdʒ/",
+    "meaning": "车辆底部支撑结构、底盘；飞机起落架",
+    "sense": "车身下面负责支撑的那套结构，是 undercarriage；飞机落地、停放时伸出来承托机身的起落架，也沿下部支撑这个画面。",
+    "split": "under- 在下面 + carriage 运载、支撑部件，复合名词。车辆、飞机具体结构随领域定义。",
+    "history": [
+      [
+        "古北法语 carier 搬运 → cariage → carriage",
+        "搬运活动、运载工具"
+      ],
+      [
+        "under- + carriage → undercarriage",
+        "下部支撑结构；飞机起落架"
+      ]
+    ],
+    "explanation": "the aircraft’s undercarriage 飞机起落架，inspect the undercarriage 检查底部结构，retract the undercarriage 收起落架。",
+    "usage": "an aircraft undercarriage；a vehicle’s undercarriage。",
+    "contrast": "undercarriage 不只是车轮，也可包含有关支撑部件；飞机语境常直接指 landing gear。",
+    "examples": [
+      [
+        "The aircraft lowered its undercarriage before landing.",
+        "飞机降落前放下了起落架。"
+      ],
+      [
+        "The mechanic inspected the vehicle’s undercarriage.",
+        "维修工检查了车辆底部支撑结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/undercarriage#English"
+    ]
+  },
+  {
+    "word": "nephew",
+    "ipa": "/ˈnefjuː/",
+    "meaning": "侄子、外甥；兄弟姐妹及相应姻亲的儿子",
+    "sense": "兄弟的儿子、姐妹的儿子，英语都可以 nephew。它不替中文预先区分侄子和外甥，要回看具体是谁的孩子。",
+    "split": "经法语 neveu 接拉丁 nepos、nepot-，旧时还可覆盖孙辈等；进入英语后现代常见义聚焦侄甥。ph 拼写受拉丁化改写影响，后产生常见 /f/ 读法。",
+    "history": [
+      [
+        "拉丁 nepos、nepot- 孙辈、侄甥等 → 古法语 neveu",
+        "旧亲属词范围曾比现代英语宽"
+      ],
+      [
+        "neveu → 中古英语 nevew → nephew",
+        "后来拼写受拉丁形式影响出现 ph，并促成现代 /f/ 读音"
+      ]
+    ],
+    "explanation": "my nephew 我的侄子或外甥，a nephew and niece 一个侄甥与一个侄女或外甥女。旧 /ˈnevjuː/ 读法仍可见，现代 /f/ 常用。",
+    "usage": "my nephew；a nephew of hers。",
+    "contrast": "niece 常指相应女性亲属；cousin 是堂表兄弟姐妹等，与侄甥辈关系不同。",
+    "examples": [
+      [
+        "My nephew is my sister’s son.",
+        "我的外甥是我姐妹的儿子。"
+      ],
+      [
+        "Her brother brought his son, her nephew, to the party.",
+        "她哥哥带儿子来参加聚会，那是她的侄子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nephew#English",
+      "https://www.etymonline.com/word/nephew"
+    ]
+  },
+  {
+    "word": "spoil",
+    "ipa": "/spɔɪl/",
+    "meaning": "破坏、毁掉；变质；宠坏、纵容；剧透；战利品、弃土",
+    "sense": "本来好好的，被弄得不再好用、好吃或好玩，是 spoil。雨毁了野餐，牛奶坏了，结局提前说穿，或者孩子被纵容过头，都能沿损坏结果来记。",
+    "split": "经中古英语、古法语 espoillier 接拉丁 spoliare 劫掠、剥夺。名词 spoils 战利品保留掠取支，现代动词发展损坏、变质、宠坏等。",
+    "history": [
+      [
+        "拉丁 spoliare 劫掠、剥夺 → 古法语 espoillier → spoil",
+        "使失去、损坏；名词战利品一支保留抢得的东西"
+      ],
+      [
+        "损坏到不好用 → 食物坏、兴致被毁、溺爱坏",
+        "spoiler 破坏惊喜者、信息或装置；spoilage 变质过程、损失"
+      ]
+    ],
+    "explanation": "spoil the surprise 毁掉惊喜，food spoils 食物变质，a spoiled child 被宠坏的孩子；spoil yourself 也可轻松说犒劳自己。过去式 spoiled，也常见 spoilt。",
+    "usage": "spoil the fun；spoil a child；spoil the ending。",
+    "contrast": "spoil 可以及物破坏，也可以不及物变质；说 spoil yourself 未必真的批评道德变坏。",
+    "examples": [
+      [
+        "The rain spoiled our picnic.",
+        "雨毁了我们的野餐。"
+      ],
+      [
+        "Please don’t spoil the ending for me.",
+        "请别把结局剧透给我。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spoil#English"
+    ]
+  },
+  {
+    "word": "spoiler",
+    "ipa": "英 /ˈspɔɪlə/；美 /ˈspɔɪlər/",
+    "meaning": "剧透信息、剧透者；扰流装置；破坏他人机会的竞争者",
+    "sense": "提前把悬念拆穿，spoiler 就毁掉了惊喜。汽车、飞机上的 spoiler 则用技术方式改变气流、升力等表现；同词按“使原有作用减弱、改变”形成装置名。",
+    "split": "spoil + -er，执行者、起作用的东西。人物、信息、空气动力装置等承不同 spoil 动词分支。",
+    "history": [
+      [
+        "拉丁 spoliare 劫掠、剥夺 → 古法语 espoillier → spoil",
+        "使失去、损坏；名词战利品一支保留抢得的东西"
+      ],
+      [
+        "spoil + -er → spoiler",
+        "破坏惊喜的人、信息；改变气流效果的装置"
+      ]
+    ],
+    "explanation": "spoiler alert 剧透提醒，avoid spoilers 避开剧透，a rear spoiler 后扰流板。",
+    "usage": "spoiler alert；avoid spoilers；a rear spoiler。",
+    "contrast": "spoiler 剧透既可以人也可以内容；车辆上的装置名不能只按看起来像翅膀就与全部翼面结构混同。",
+    "examples": [
+      [
+        "The review contains major spoilers.",
+        "这篇影评有重大剧透。"
+      ],
+      [
+        "The car has a small rear spoiler.",
+        "汽车有一块小后扰流板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spoiler#English"
+    ]
+  },
+  {
+    "word": "spoilage",
+    "ipa": "/ˈspɔɪlɪdʒ/",
+    "meaning": "变质、损坏；变质造成的损失、报废部分",
+    "sense": "一批食物逐渐坏掉，是 spoilage 这个过程；统计其中坏掉、不能用了的部分，也能用这个名词。",
+    "split": "spoil + -age，过程、结果或集合性名词。常承食物变质、材料损坏的支线。",
+    "history": [
+      [
+        "拉丁 spoliare 劫掠、剥夺 → 古法语 espoillier → spoil",
+        "使失去、损坏；名词战利品一支保留抢得的东西"
+      ],
+      [
+        "spoil + -age → spoilage",
+        "变质过程；损坏的部分或损失"
+      ]
+    ],
+    "explanation": "food spoilage 食品变质，reduce spoilage 减少变质损失，spoilage rates 变质、报废比例。",
+    "usage": "food spoilage；spoilage losses。",
+    "contrast": "spoilage 与 waste 废物、浪费范围不同；后者可能包含没坏却被丢弃的食物。",
+    "examples": [
+      [
+        "The warehouse recorded losses from spoilage.",
+        "仓库记录了变质造成的损失。"
+      ],
+      [
+        "The study compared food spoilage under different storage conditions.",
+        "研究比较了不同储存条件下的食品变质情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spoilage#English"
+    ]
+  },
+  {
+    "word": "chew",
+    "ipa": "/tʃuː/",
+    "meaning": "咀嚼；咬磨；反复思考",
+    "sense": "牙齿合上、打开，再合上，一点点把食物嚼开，就是 chew。把一个想法反复翻着琢磨，也能说 chew it over。",
+    "split": "承古英语 ceowan，经中古英语 chewen 到 chew，属于日耳曼旧咀嚼词族。具体咬磨动作后有反复思考比喻。",
+    "history": [
+      [
+        "古英语 ceowan → 中古英语 chewen → chew",
+        "反复用牙齿压碎、咀嚼"
+      ],
+      [
+        "chew → chewing、chewy、chewable",
+        "动作；口感有韧性；可以或适合嚼的"
+      ]
+    ],
+    "explanation": "chew food 嚼食物，chew gum 嚼口香糖，chew on a pencil 咬铅笔，chew over an idea 反复琢磨主意。",
+    "usage": "chew gum；chew on；chew over。",
+    "contrast": "bite 可以一下咬下去，chew 突出反复咀嚼；swallow 才是吞咽。",
+    "examples": [
+      [
+        "The dog chewed the end of the stick.",
+        "狗咬磨着木棍一端。"
+      ],
+      [
+        "I need time to chew the idea over.",
+        "我需要时间好好琢磨这个想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chew#English"
+    ]
+  },
+  {
+    "word": "chewing",
+    "ipa": "/ˈtʃuːɪŋ/",
+    "meaning": "咀嚼；chew 的现在分词；供咀嚼用的",
+    "sense": "chew 的反复咬磨正在发生，是 chewing；chewing gum 则让 -ing 说明这种胶是给人嚼的。",
+    "split": "chew + -ing，不双写 w。旧英语已有相应动作名；现代也作分词、用途修饰。",
+    "history": [
+      [
+        "古英语 ceowan → 中古英语 chewen → chew",
+        "反复用牙齿压碎、咀嚼"
+      ],
+      [
+        "chew + -ing → chewing",
+        "咀嚼活动；按咀嚼用途修饰"
+      ]
+    ],
+    "explanation": "chewing gum 口香糖，the sound of chewing 咀嚼声，chewing movements 咀嚼动作。",
+    "usage": "chewing gum；chewing movements。",
+    "contrast": "chewing gum 里 gum 是供咀嚼的物，不是胶自己在咀嚼；-ing 与后项的关系按用途理解。",
+    "examples": [
+      [
+        "He was chewing a piece of gum.",
+        "他正在嚼一片口香糖。"
+      ],
+      [
+        "The recording picked up the sound of chewing.",
+        "录音录下了咀嚼声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chewing#English"
+    ]
+  },
+  {
+    "word": "chewy",
+    "ipa": "/ˈtʃuːi/",
+    "meaning": "有嚼劲的、耐嚼的",
+    "sense": "咬下去不会立刻碎掉，得多嚼几下，还带一点弹韧感，就是 chewy。糖果、面包、肉都可能有这种口感。",
+    "split": "chew + -y，形成咀嚼口感形容词；结尾 /uːi/ 通常能听出后面的 /i/。",
+    "history": [
+      [
+        "古英语 ceowan → 中古英语 chewen → chew",
+        "反复用牙齿压碎、咀嚼"
+      ],
+      [
+        "chew + -y → chewy",
+        "嚼时有弹性、韧性或需要多嚼的"
+      ]
+    ],
+    "explanation": "chewy bread 有嚼劲的面包，chewy sweets 耐嚼糖果，chewy meat 咬起来韧的肉。",
+    "usage": "chewy bread；a chewy texture。",
+    "contrast": "chewy 可是欣赏有嚼劲，也可能嫌肉太韧；crunchy 则重咬碎时脆响，口感不同。",
+    "examples": [
+      [
+        "The bread has a crisp crust and a chewy centre.",
+        "面包外皮酥脆，内里有嚼劲。"
+      ],
+      [
+        "The meat was a little too chewy.",
+        "肉稍微韧了一点，不太好嚼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chewy#English"
+    ]
+  },
+  {
+    "word": "chewable",
+    "ipa": "/ˈtʃuːəbəl/",
+    "meaning": "可咀嚼的、供嚼服的",
+    "sense": "chewable 说能不能、适不适合嚼；chewy 说嚼起来是什么口感。一个 chewable tablet 是按可嚼方式设计的剂型名称。",
+    "split": "chew + -able，能够或适于被咀嚼的，现代派生形容词，也可名词化指相应物品。",
+    "history": [
+      [
+        "古英语 ceowan → 中古英语 chewen → chew",
+        "反复用牙齿压碎、咀嚼"
+      ],
+      [
+        "chew + -able → chewable",
+        "能嚼、适于咀嚼使用的"
+      ]
+    ],
+    "explanation": "a chewable toy 可咬嚼玩具，chewable tablets 咀嚼片。",
+    "usage": "chewable tablets；a chewable toy。",
+    "contrast": "chewable 与 chewy 区别在可行用途和口感性质；药品名称具体用法仍看其说明。",
+    "examples": [
+      [
+        "The packaging describes the tablets as chewable.",
+        "包装把这种片剂标为咀嚼片。"
+      ],
+      [
+        "The puppy played with a chewable rubber toy.",
+        "小狗玩着一件可咬嚼的橡胶玩具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chewable#English"
+    ]
+  },
+  {
+    "word": "jar",
+    "ipa": "英 /dʒɑː/；美 /dʒɑːr/",
+    "meaning": "罐、广口瓶；一罐；震动、使不适、相冲突",
+    "sense": "装果酱的 jar 是广口罐；声音刺得你一抖，或颜色特别不协调，是另一动词 jar。两种来源分别记，别硬说因为罐子会震才叫 jar。",
+    "split": "容器名经拉丁、法语或相关罗曼语形式接阿拉伯 jarra 陶罐。震动、刺耳、冲突词另有早期 jar、jur 等形式，来源未定。",
+    "history": [
+      [
+        "阿拉伯 jarra 陶罐，经拉丁、法语等 → jar",
+        "容器罐；后来也指一罐内容物"
+      ],
+      [
+        "另一路 jar 刺耳、震动、冲突",
+        "早期来源未定，可能拟声；jar + -ing → jarring"
+      ]
+    ],
+    "explanation": "a jam jar 果酱罐，a jar of honey 一罐蜂蜜，jar with the surroundings 与周围不协调，jar someone’s nerves 刺激神经。",
+    "usage": "a jar of；a glass jar；jar with。",
+    "contrast": "jar 容器通常口较宽；bottle 瓶常颈部较窄。动词冲突、使震动要按对象读。",
+    "examples": [
+      [
+        "She opened a jar of honey.",
+        "她打开了一罐蜂蜜。"
+      ],
+      [
+        "The harsh sound jarred his nerves.",
+        "刺耳声音让他神经一紧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jar#English"
+    ]
+  },
+  {
+    "word": "jarring",
+    "ipa": "英 /ˈdʒɑːrɪŋ/；美 /ˈdʒɑːrɪŋ/",
+    "meaning": "刺耳的、令人不适的；突兀不协调的；震动的",
+    "sense": "一声锐响突然插进安静中，一种颜色和周围搭不上，都像撞了一下感官，是 jarring。它描述造成冲击、不协调的效果。",
+    "split": "jar 震动、冲突 + -ing，双写 r；常见形容词义不接装罐动作。jar + -ing 另也可字面指装罐活动，依语境分。",
+    "history": [
+      [
+        "另一路 jar 刺耳、震动、冲突",
+        "早期来源未定，可能拟声；jar + -ing → jarring"
+      ],
+      [
+        "jar + -ing → jarring",
+        "造成震动、刺耳、不协调效果的"
+      ]
+    ],
+    "explanation": "a jarring noise 刺耳噪声，a jarring contrast 突兀对比，a jarring change 令人不适的突变。",
+    "usage": "a jarring sound；a jarring contrast。",
+    "contrast": "jarring 常比 ordinary different 更强调不协调造成的冲击；对比强烈不一定都让人不舒服。",
+    "examples": [
+      [
+        "A jarring alarm broke the silence.",
+        "刺耳警报打破了寂静。"
+      ],
+      [
+        "The modern extension looked jarring beside the old house.",
+        "现代扩建部分在老屋旁显得突兀。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jarring#English"
+    ]
+  },
+  {
+    "word": "ajar",
+    "ipa": "英 /əˈdʒɑː/；美 /əˈdʒɑːr/",
+    "meaning": "半开着的、留有缝隙地",
+    "sense": "门绕铰链转开一点，没完全合上，也没大开，就是 ajar。它把注意力放在留下的一道缝。",
+    "split": "半开义承中古英语 on char 在转动处，char 接古英语转、回转词。后紧缩为 ajar；不是 a + jar 一只罐。另有古旧不协调同形义，来源不同。",
+    "history": [
+      [
+        "半开义 ajar：on char 在转动处 → ajar",
+        "门转开一点；与容器罐不属同一路"
+      ],
+      [
+        "on char → ajar",
+        "门转开一点、半开着"
+      ]
+    ],
+    "explanation": "leave the door ajar 把门留一条缝，stand ajar 半开着；常放 be、remain 后，或作状态补语。",
+    "usage": "leave ajar；the door was ajar。",
+    "contrast": "通常说 the door is ajar、leave the door ajar，不常把它普通前置成 an ajar door。",
+    "examples": [
+      [
+        "She left the door ajar for the cat.",
+        "她把门留了一道缝，让猫能进出。"
+      ],
+      [
+        "The cupboard door was slightly ajar.",
+        "柜门微微开着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ajar#English",
+      "https://www.etymonline.com/word/ajar"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "A2023",
+    "meaning": "经历、感受与病患的不同历史分支",
+    "core": "PATHY：旧核心是经历、感受、遭受，医学里常说病变",
+    "image": "empathy、sympathy 看感受关系；retinopathy、nephropathy 等看部位病变；其他固定名称分别理解。",
+    "intro": "后缀不是永远翻成同一个字。先判断整词在讲情感、病变还是某种理论、实践名称，再看前部。",
+    "forms": "pathos、-patheia → -pathy；retino- 视网膜、nephro- 肾、neuro- 神经、myo- 肌肉等限定对象。",
+    "branches": [
+      [
+        "情感与感受关系",
+        "sympathy · empathy · telepathy"
+      ],
+      [
+        "部位、系统的病变",
+        "retinopathy · nephropathy · neuropathy · encephalopathy · myopathy · psychopathy"
+      ],
+      [
+        "已经固定的实践名称",
+        "homeopathy · osteopathy"
+      ]
+    ],
+    "contrasts": "词源解释名称，不证明某种理论有效；-pathy 不等于 -itis；不同整词可能已形成专门定义。",
+    "practice": "Retinopathy names a retinal condition, while nephropathy names a kidney condition.\n\nretinopathy 命名视网膜病变，nephropathy 命名肾脏病变。",
+    "words": [
+      "sympathy",
+      "empathy",
+      "telepathy",
+      "retinopathy",
+      "nephropathy",
+      "neuropathy",
+      "encephalopathy",
+      "myopathy",
+      "psychopathy",
+      "homeopathy",
+      "osteopathy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4127",
+    "meaning": "从宣告归属、交付，到依赖和难以控制的状态",
+    "core": "ADDICT：历史上是交付、投身，现代成瘾义更强",
+    "image": "addict → addicted、addiction；addictive、addicting 看引起上瘾的性质。",
+    "intro": "先分清人、状态和作用：addict 可以说人；addicted 是人的状态；addictive、addicting 常说东西的作用。口语夸张与专业成瘾语境要分别理解。",
+    "forms": "ad- + dīcere → addīcere、addictus；-ed 状态，-ion 名词，-ive、-ing 作用性质。",
+    "branches": [
+      [
+        "人物、动作与状态",
+        "addict · addicted · addiction"
+      ],
+      [
+        "引起反复使用、难以停下的性质",
+        "addictive · addicting"
+      ]
+    ],
+    "contrasts": "addicted to 后接名词或 ing；addictive 修饰东西很常见；普通爱好、习惯不自动等于临床成瘾。",
+    "practice": "The learner compared an addictive game with a player who feels addicted to it.\n\n学习者比较“让人停不下来的游戏”与“觉得自己玩上瘾的玩家”两种说法。",
+    "words": [
+      "addict",
+      "addicted",
+      "addiction",
+      "addictive",
+      "addicting"
+    ],
+    "exclude": {}
+  }
+]

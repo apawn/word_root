@@ -1,0 +1,63 @@
+[
+  {
+    "id": "B3289",
+    "meaning": "神圣、圣洁与传统鱼名",
+    "core": "HOLY：信仰中的神圣，后缀与否定各表关系",
+    "image": "holy → holiness 性质、unholy 否定相邻；halibut 单独说明圣日扁鱼的传统解释。",
+    "intro": "holy 为古英语继承词，与完整、健康词族有远缘联系。halibut 的 hali 是历史形式，不按现代 holy 拼写硬套。",
+    "forms": "holy → holiness；un- + holy → unholy；hali + butte → halibut。",
+    "branches": [
+      [
+        "基本性质与否定",
+        "holy · holiness · unholy"
+      ],
+      [
+        "历史复合鱼名",
+        "halibut"
+      ]
+    ],
+    "contrasts": "holy 与 wholly 同音不同用；unholy 不等于所有 secular 世俗；halibut 后部是历史扁鱼名。",
+    "practice": "The visitors respected the holiness of the place.\n\n游客尊重了这个地方的神圣性。",
+    "words": [
+      "holy",
+      "holiness",
+      "unholy",
+      "halibut"
+    ],
+    "exclude": {
+      "holiday": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pope-holy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2809",
+    "meaning": "围绕对象的条件与局部环境",
+    "core": "ENVIRONMENT：把对象放中间，看周围什么影响它",
+    "image": "environment 基本名词之后接 environmental 性质、microenvironment 局部范围。",
+    "intro": "法语围绕词族发展出周围条件。自然生态只是现代重要用法，不把办公、软件环境也硬译环保。",
+    "forms": "environ + -ment → environment；environment + -al；micro- + environment。\n\n法语 environ 周围、environner 围绕的历史，现代也说运行环境。",
+    "branches": [
+      [
+        "基本环境与相关性质",
+        "environment · environmental"
+      ],
+      [
+        "局部范围",
+        "microenvironment"
+      ],
+      [
+        "environment → environments：围绕对象的一组条件",
+        "environment · environments"
+      ]
+    ],
+    "contrasts": "environmental 不一定有益；microenvironment 不一定只能显微尺度；environment 不拆 iron 铁。",
+    "practice": "Environmental conditions can vary within a small microenvironment.\n\n局部微环境内的环境条件也会变化。",
+    "words": [
+      "environment",
+      "environmental",
+      "microenvironment",
+      "environments"
+    ],
+    "exclude": {}
+  }
+]

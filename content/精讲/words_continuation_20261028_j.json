@@ -1,0 +1,872 @@
+[
+  {
+    "word": "up",
+    "ipa": "/ʌp/",
+    "meaning": "向上；起来；增加；完全；发生着的",
+    "sense": "先想从低处抬到高处，再把这个方向用来表达增加、醒来、集中或完成。",
+    "split": "接古英语 upp、up，经中古英语延续，是本族方向词。现代短语动词中的 up 有多种固定搭配，不是所有都可按“向上”逐字猜。",
+    "history": [
+      [
+        "古英语 upp／up → 中古英语 up",
+        "向上、在高处"
+      ],
+      [
+        "英语 up",
+        "上；增加；起来；到完成等方向性用法"
+      ]
+    ],
+    "explanation": "stand up 是站起，prices go up 是价格上涨，use up 是用尽，stay up 是不睡觉。What’s up? 是怎么了、最近怎样。Time is up 是时间到了。",
+    "usage": "get up；go up；use up；stay up；What’s up?。",
+    "contrast": "upward 强调朝上的方向，up 在短语中还可表达完成、增强等；look up a word 是查词，不是抬头看一个词。",
+    "examples": [
+      [
+        "She looked up when I entered.",
+        "我进来时，她抬头看了看。"
+      ],
+      [
+        "We used up all the paint.",
+        "我们把油漆都用完了。"
+      ],
+      [
+        "Why are you still up?",
+        "你怎么还没睡？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/up#English"
+    ]
+  },
+  {
+    "word": "upon",
+    "ipa": "英 /əˈpɒn/；美 /əˈpɑːn/",
+    "meaning": "在……上；一……就；基于",
+    "sense": "一个东西落在另一个上面，某个动作也可以一触到另一个时点就发生。",
+    "split": "接古英语 upon／uppan 等形式，材料相当于 up + on，后来固定为介词，不能在每句里拆成“向上再在”。",
+    "history": [
+      [
+        "古英语 upp／up → 中古英语 up",
+        "向上、在高处"
+      ],
+      [
+        "古英语 upon 等 → 英语 upon",
+        "在……上；随……发生时"
+      ]
+    ],
+    "explanation": "once upon a time 是从前；upon arrival 是一到达时；depend upon 与 depend on 相近。许多用法较书面，普通位置句常直接用 on。",
+    "usage": "upon arrival；once upon a time；depend upon；based upon。",
+    "contrast": "upon 不总是字面空间的上面：upon hearing the news 指听到消息时，不是骑在消息上。",
+    "examples": [
+      [
+        "Upon arrival, please report to reception.",
+        "到达后请到前台报到。"
+      ],
+      [
+        "The decision was based upon the available evidence.",
+        "决定依据了现有证据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upon#English"
+    ]
+  },
+  {
+    "word": "upcoming",
+    "ipa": "/ˈʌpkʌmɪŋ/",
+    "meaning": "即将到来的",
+    "sense": "日程表里还没发生、但已经排在前面等着到来的事。",
+    "split": "up + coming，现代组合形容词；coming 接 come 的分词，整体已常用来修饰未来事件。",
+    "history": [
+      [
+        "英语 up；coming",
+        "组合时并列的材料"
+      ],
+      [
+        "up + coming → upcoming",
+        "即将发生、到来的"
+      ]
+    ],
+    "explanation": "an upcoming meeting 是即将举行的会议，an upcoming release 是将发布的版本。并不表示事件在物理上往高处来。",
+    "usage": "an upcoming event；the upcoming election；an upcoming release。",
+    "contrast": "upcoming 是即将到来，ongoing 是已经开始且仍在进行。两者都带 -ing，时间位置却不同。",
+    "examples": [
+      [
+        "We are preparing for the upcoming conference.",
+        "我们正在准备即将举行的会议。"
+      ],
+      [
+        "The newsletter lists upcoming events.",
+        "简报列出了近期将举办的活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upcoming#English"
+    ]
+  },
+  {
+    "word": "upside",
+    "ipa": "/ˈʌpsaɪd/",
+    "meaning": "上面；有利方面；潜在收益",
+    "sense": "把一件事翻看各面，朝好的那一面就是比喻中的 upside。",
+    "split": "up（上）+ side（面），实体上侧的组合发展为有利方面。金融语境还可指上涨空间，需看具体对象。",
+    "history": [
+      [
+        "英语 up；side",
+        "组合时并列的材料"
+      ],
+      [
+        "up + side → upside",
+        "上侧；好处、有利可能"
+      ]
+    ],
+    "explanation": "the upside of working here 是在这里工作的好处；on the upside 是往好处说。upside down 固定说上下颠倒，不把 upside 单独当成整个短语。",
+    "usage": "the upside of；on the upside；upside down。",
+    "contrast": "upside 是有利一面，downside 是不利一面；它们是在比较角度，不表示这件事只有好处或只有坏处。",
+    "examples": [
+      [
+        "The upside of the delay was that we had more time to prepare.",
+        "延误的好处是我们多了些准备时间。"
+      ],
+      [
+        "The picture was hanging upside down.",
+        "画挂倒了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upside#English"
+    ]
+  },
+  {
+    "word": "pickup",
+    "ipa": "/ˈpɪkʌp/",
+    "meaning": "接人、取件；小货车；改善；拾音器",
+    "sense": "把人或物接上、取走；有些车后面留着装货空间，也叫 pickup。",
+    "split": "pick + up，来自 pick up 这一多义动词短语的名词化、复合命名；各义不能都按一双手向上捡来硬推。",
+    "history": [
+      [
+        "英语 pick；up",
+        "组合时并列的材料"
+      ],
+      [
+        "pick + up → pickup",
+        "接取、运载或增强等对应名词"
+      ]
+    ],
+    "explanation": "arrange pickup 是安排接取；a pickup truck 是皮卡。a pickup in demand 是需求回升，guitar pickup 是把弦振动转换为电信号的拾音器。",
+    "usage": "a pickup time；a pickup truck；a pickup in sales；a guitar pickup。",
+    "contrast": "pick up 分开是动词，pickup 连写多为名词或修饰语；pick up the parcel 与 parcel pickup 的句法不同。",
+    "examples": [
+      [
+        "The shop offers free pickup for online orders.",
+        "商店为线上订单提供免费自提服务。"
+      ],
+      [
+        "The company reported a pickup in sales.",
+        "公司报告销售有所回升。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pickup#English"
+    ]
+  },
+  {
+    "word": "upward",
+    "ipa": "英 /ˈʌpwəd/；美 /ˈʌpwərd/",
+    "meaning": "向上的；向上地",
+    "sense": "沿着高度或数值轴往较高的位置移动。",
+    "split": "up + -ward，-ward 表朝某方向；对应古英语 upweard 等方向形式。",
+    "history": [
+      [
+        "古英语 upp／up → 中古英语 up",
+        "向上、在高处"
+      ],
+      [
+        "古英语 upweard 一系 → 英语 upward",
+        "朝上、往较高处"
+      ]
+    ],
+    "explanation": "an upward trend 是上升趋势，look upward 是向上看。也见 upwards 主要作副词，形容词一般用 upward。",
+    "usage": "an upward trend；upward movement；look upward。",
+    "contrast": "upward 是方向形容词或副词，不等于 upstairs 楼上。向山上走可说 upward，不一定进入楼房。",
+    "examples": [
+      [
+        "The chart shows an upward trend in demand.",
+        "图表显示需求呈上升趋势。"
+      ],
+      [
+        "Her eyes followed the balloon upward.",
+        "她的目光跟着气球向上移动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upward#English"
+    ]
+  },
+  {
+    "word": "upwards",
+    "ipa": "英 /ˈʌpwədz/；美 /ˈʌpwərdz/",
+    "meaning": "向上；以上；往较高处",
+    "sense": "从一个起点继续往高处，有时也说超过某个数值。",
+    "split": "up + -wards，接古英语 upweardes 等形式；结尾 -s 是方向副词材料，不是“多个向上”。",
+    "history": [
+      [
+        "古英语 upp／up → 中古英语 up",
+        "向上、在高处"
+      ],
+      [
+        "古英语 upweardes → 英语 upwards",
+        "向上、朝高处"
+      ]
+    ],
+    "explanation": "point upwards 是向上指。upwards of fifty 可说五十以上；from ten dollars upwards 说十美元起。具体语域和地区也影响表达习惯。",
+    "usage": "move upwards；upwards of；from … upwards。",
+    "contrast": "upwards 通常作副词，不用 an upwards trend 代替 an upward trend 作为常规写法。",
+    "examples": [
+      [
+        "The arrow points upwards.",
+        "箭头向上指。"
+      ],
+      [
+        "The event attracted upwards of a thousand visitors.",
+        "活动吸引了一千多名访客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upwards#English"
+    ]
+  },
+  {
+    "word": "uphill",
+    "ipa": "/ˌʌpˈhɪl/〔副词〕；/ˈʌphɪl/〔形容词常见〕",
+    "meaning": "向山上；上坡的；艰难的",
+    "sense": "同样往前走，上坡更费力，于是困难任务也像在爬坡。",
+    "split": "up（向上）+ hill（山坡），先说地势方向，再比喻需要持续克服阻力。",
+    "history": [
+      [
+        "英语 up；hill",
+        "组合时并列的材料"
+      ],
+      [
+        "up + hill → uphill",
+        "向坡上；比喻费力、艰难"
+      ]
+    ],
+    "explanation": "walk uphill 是走上坡路；an uphill struggle 是艰难奋斗。具体重音可能因词性、短语而变化，学习时连整句读。",
+    "usage": "an uphill battle；an uphill struggle；walk uphill。",
+    "contrast": "uphill 比喻困难，但 uphill trend 不是最自然的“趋势向上”，通常说 upward trend。",
+    "examples": [
+      [
+        "The path goes uphill for about a kilometre.",
+        "小路向上爬坡约一公里。"
+      ],
+      [
+        "Winning their trust will be an uphill struggle.",
+        "赢得他们的信任会很艰难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uphill#English"
+    ]
+  },
+  {
+    "word": "upkeep",
+    "ipa": "/ˈʌpkiːp/",
+    "meaning": "维护；保养；维持费用",
+    "sense": "买下房子或设备还没完，要不断花精力和钱让它保持良好状态。",
+    "split": "up + keep，与 keep up“维持”这一组合关系相连；不是把东西保存到楼上。",
+    "history": [
+      [
+        "英语 up；keep",
+        "组合时并列的材料"
+      ],
+      [
+        "up + keep → upkeep",
+        "保持状态所需的维护及费用"
+      ]
+    ],
+    "explanation": "the upkeep of a house 是房屋维护；high upkeep 可指养护费用高。通常不可数。",
+    "usage": "the upkeep of；pay for upkeep；maintenance and upkeep。",
+    "contrast": "purchase price 是一次购买价格，upkeep 是后续维持成本；买得起不自动意味着养得起。",
+    "examples": [
+      [
+        "The garden requires a lot of upkeep.",
+        "花园需要很多养护。"
+      ],
+      [
+        "The charity helps pay for the upkeep of the building.",
+        "慈善机构帮助承担建筑维护费用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upkeep#English"
+    ]
+  },
+  {
+    "word": "uproar",
+    "ipa": "英 /ˈʌprɔː/；美 /ˈʌprɔːr/",
+    "meaning": "喧嚣；哗然；强烈抗议",
+    "sense": "原先安静，一群声音同时炸开，形成吵闹、激烈反应。",
+    "split": "受荷兰语 oproer 或德语 Aufruhr 相应词影响、仿译成 up + roar；英语 roar“吼叫”的形式参与，不把它当成单纯本土“向上吼”的透明新造。",
+    "history": [
+      [
+        "荷兰语 oproer／德语 Aufruhr 的相应表达",
+        "骚动、喧闹"
+      ],
+      [
+        "仿译、重新对应 up + roar → uproar",
+        "喧嚣；引发公愤的强烈反应"
+      ]
+    ],
+    "explanation": "cause an uproar 是引起轩然大波，the room was in an uproar 是房间里闹成一片。既可能抗议，也可纯说大笑、嘈杂。",
+    "usage": "cause an uproar；in an uproar；a public uproar。",
+    "contrast": "uproar 强调群体强烈声音或反应，roar 可是一声吼叫；不必所有 uproar 都是正式示威。",
+    "examples": [
+      [
+        "The announcement caused an uproar.",
+        "宣布引起了轩然大波。"
+      ],
+      [
+        "The classroom was in an uproar after the surprise visit.",
+        "突如其来的到访让教室里一片喧腾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uproar#English"
+    ]
+  },
+  {
+    "word": "layup",
+    "ipa": "/ˈleɪʌp/",
+    "meaning": "上篮；停用、封存；叠层〔专业〕",
+    "sense": "篮球里把球近距离送到篮筐边；别的场景则要回到 lay up 的其他用法。",
+    "split": "lay + up，与 lay up“放置、存放”等短语的相关命名相连；篮球、停用和材料叠层是不同领域用法，不能凭一个画面全包。",
+    "history": [
+      [
+        "英语 lay；up",
+        "组合时并列的材料"
+      ],
+      [
+        "lay + up → layup",
+        "上篮；另有停用、叠层等专业义"
+      ]
+    ],
+    "explanation": "最常见运动义是篮球近筐上篮。船只 layup 可指暂停使用，制造业可说层材铺放；读新闻先判断领域。",
+    "usage": "make a layup；miss a layup；an easy layup。",
+    "contrast": "layup 不是所有靠近篮筐的动作；dunk 是扣篮。lay up 分开可作动词短语，名词 layup 常连写。",
+    "examples": [
+      [
+        "She scored with a left-handed layup.",
+        "她用左手上篮得分。"
+      ],
+      [
+        "He missed an easy layup in the final minute.",
+        "他在最后一分钟错失了一次简单上篮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/layup#English"
+    ]
+  },
+  {
+    "word": "uplink",
+    "ipa": "/ˈʌplɪŋk/",
+    "meaning": "上行链路；向上级系统传输",
+    "sense": "数据从地面或下级端点，送到卫星、上级网络或中心系统。",
+    "split": "up（向上、向上级）+ link（连接），按通信结构中的相对方向命名。",
+    "history": [
+      [
+        "英语 up；link",
+        "组合时并列的材料"
+      ],
+      [
+        "up + link → uplink",
+        "连接上级或卫星方向的通信链路"
+      ]
+    ],
+    "explanation": "卫星 uplink 说地面到卫星，网络设备中 uplink 指向上级网络的一侧。up 是架构中的相对方向，不要求数据物理上一直向天上走。",
+    "usage": "a satellite uplink；an uplink connection；an uplink port。",
+    "contrast": "uplink 与 download 不是所有场景都严格一一对应；链路方向和用户下载视角要看具体系统。",
+    "examples": [
+      [
+        "The station established a satellite uplink.",
+        "地面站建立了卫星上行链路。"
+      ],
+      [
+        "The router has a separate uplink port.",
+        "路由器有一个单独的上联端口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uplink#English"
+    ]
+  },
+  {
+    "word": "getup",
+    "ipa": "/ˈɡetʌp/",
+    "meaning": "装束；一身打扮〔口语〕",
+    "sense": "人一出现，穿戴出的整套样子格外惹眼，就可能被说成一个 getup。",
+    "split": "get + up，联系 get up 的装扮、布置等用法而形成名词；不是把“起床”当成唯一来源义。",
+    "history": [
+      [
+        "英语 get；up",
+        "组合时并列的材料"
+      ],
+      [
+        "get + up → getup",
+        "穿戴、装扮出来的一身样子"
+      ]
+    ],
+    "explanation": "常带调侃、怪异或特殊装束的感觉；a strange getup 是一身奇怪打扮。语气比 outfit 更口语、更有评价。",
+    "usage": "a strange getup；in that getup；a superhero getup。",
+    "contrast": "getup 连写作名词与 get up 起床的动词短语不同。a getup 是装束，get up early 是早起。",
+    "examples": [
+      [
+        "He arrived in a pirate getup.",
+        "他穿着一身海盗装来了。"
+      ],
+      [
+        "Where are you going in that getup?",
+        "你打扮成那样要去哪儿？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/getup#English"
+    ]
+  },
+  {
+    "word": "linkup",
+    "ipa": "/ˈlɪŋkʌp/",
+    "meaning": "连接；汇合；合作",
+    "sense": "原先各自分开，两边连上线、碰到面或开始一起做事。",
+    "split": "link + up，来自动词短语 link up 的名词化，up 在组合里加强接合完成的意味，不要求在高处相连。",
+    "history": [
+      [
+        "英语 link；up",
+        "组合时并列的材料"
+      ],
+      [
+        "link + up → linkup",
+        "建立的连接、汇合或合作关系"
+      ]
+    ],
+    "explanation": "可用于通信连接、机构合作、任务会合。a linkup between two organisations 不必意味着并购，只说建立联系。",
+    "usage": "a satellite linkup；a linkup between；a business linkup。",
+    "contrast": "linkup 连写多作名词，link up 分开作动词。uplink 则是特定上行方向的链路，成分次序不同，意义不同。",
+    "examples": [
+      [
+        "The interview used a live satellite linkup.",
+        "采访使用了实时卫星连线。"
+      ],
+      [
+        "The linkup between the schools created new exchange opportunities.",
+        "两所学校建立合作，带来了新的交流机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linkup#English"
+    ]
+  },
+  {
+    "word": "over",
+    "ipa": "英 /ˈəʊvə/；美 /ˈoʊvər/",
+    "meaning": "在上方；越过；超过；结束；遍及",
+    "sense": "先想跨过一条线，随后可以是空间越过去、数值超出去，或一段事情走到终点。",
+    "split": "接古英语 ofer，经中古英语 over 延续。现代可作介词、副词及构词材料，不把各个固定短语都还原成物体飞过头顶。",
+    "history": [
+      [
+        "古英语 ofer → 中古英语 over",
+        "在上；越过"
+      ],
+      [
+        "英语 over",
+        "上方、跨越；超过；结束；遍及等用法"
+      ]
+    ],
+    "explanation": "over the bridge 是过桥，over fifty 是超过五十，the meeting is over 是会议结束。all over the floor 是满地，think it over 是仔细考虑。",
+    "usage": "over the years；all over；over and over；be over；think over。",
+    "contrast": "over 可表示跨越且常有覆盖、遍及等义，above 更多只说明比某处高；over fifty 与 above fifty 在数值语境可重叠。",
+    "examples": [
+      [
+        "The plane flew over the town.",
+        "飞机飞过小镇上空。"
+      ],
+      [
+        "The meeting is over, but the work is not finished.",
+        "会议结束了，但工作还没完成。"
+      ],
+      [
+        "There were over a hundred people in the hall.",
+        "大厅里有一百多人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/over#English"
+    ]
+  },
+  {
+    "word": "overall",
+    "ipa": "英 /ˌəʊvərˈɔːl/；美 /ˌoʊvərˈɔːl/",
+    "meaning": "总体上；全部的；总的；罩衫、工装裤〔名词〕",
+    "sense": "先退后一步，不被一处细节拽住，把整个画面一起看。",
+    "split": "接古英语 ofer eall 等表达，现代对应 over + all。名词工作服义关注罩在外面的衣物，具体读音重音与词性也可有差别。",
+    "history": [
+      [
+        "古英语 ofer → 中古英语 over",
+        "在上；越过"
+      ],
+      [
+        "古英语 ofer eall → 英语 overall",
+        "覆盖、跨及全部 → 总体、总的"
+      ]
+    ],
+    "explanation": "Overall, it went well 是总体顺利；overall cost 是总费用。英式 overalls 常指罩衣或工装，美式也可指背带工装裤，语境不同。",
+    "usage": "overall performance；the overall cost；overall, …。",
+    "contrast": "overall 是合看整体，不表示每个细节都一样。all over 常是遍布某处，如 paint all over the floor，不能直接互换。",
+    "examples": [
+      [
+        "Overall, the trip was a success.",
+        "总体而言，这次旅行很成功。"
+      ],
+      [
+        "We need to consider the overall cost, not just the ticket price.",
+        "我们要考虑总费用，不能只看票价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overall#English"
+    ]
+  },
+  {
+    "word": "overnight",
+    "ipa": "英 /ˌəʊvəˈnaɪt/；美 /ˌoʊvərˈnaɪt/",
+    "meaning": "一夜之间；过夜；夜间的",
+    "sense": "事情跨过一个夜晚，早晨再看时状态已经不同；也可夸张说突然发生。",
+    "split": "接古英语 ofer niht，经中古英语 overnyght 延续；对应 over + night，后有动词过夜等用法。",
+    "history": [
+      [
+        "古英语 ofer → 中古英语 over",
+        "在上；越过"
+      ],
+      [
+        "古英语 ofer niht → 英语 overnight",
+        "经过夜晚；一夜之间"
+      ]
+    ],
+    "explanation": "stay overnight 是住一夜，an overnight train 是夜车，overnight success 常形容突然成功，但不表示此前没有多年积累。",
+    "usage": "stay overnight；an overnight stay；overnight success；leave overnight。",
+    "contrast": "overnight 常是跨一个夜晚，over the night 不是所有句子都自然的逐字替代；at night 则说夜里的一般时间。",
+    "examples": [
+      [
+        "We stayed overnight at a friend’s house.",
+        "我们在朋友家住了一夜。"
+      ],
+      [
+        "The software update ran overnight.",
+        "软件更新运行了一整夜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overnight#English"
+    ]
+  },
+  {
+    "word": "overly",
+    "ipa": "英 /ˈəʊvəli/；美 /ˈoʊvərli/",
+    "meaning": "过度地；太",
+    "sense": "程度本来足够，再往上加就超过合适范围。",
+    "split": "over（过度）+ -ly，形成副词，通常修饰形容词或分词。",
+    "history": [
+      [
+        "古英语 ofer → 中古英语 over",
+        "在上；越过"
+      ],
+      [
+        "英语 over",
+        "上方、跨越；超过；结束；遍及等用法"
+      ],
+      [
+        "over + -ly → overly",
+        "在程度上过多、过分地"
+      ]
+    ],
+    "explanation": "overly complicated 是过分复杂，not overly concerned 是不太担心。用 overly 往往带超出必要程度的评价。",
+    "usage": "overly cautious；overly optimistic；overly complex。",
+    "contrast": "very 说程度高，不一定过头；overly 明确暗示太过。overly 不能随意代替 every 个句子的 too，固定结构也要看习惯。",
+    "examples": [
+      [
+        "The instructions are overly complicated.",
+        "说明写得过于复杂。"
+      ],
+      [
+        "We do not want to be overly optimistic about the schedule.",
+        "我们不想对进度过于乐观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overly#English"
+    ]
+  },
+  {
+    "word": "hangover",
+    "ipa": "英 /ˈhæŋəʊvə/；美 /ˈhæŋoʊvər/",
+    "meaning": "宿醉；遗留的不良影响",
+    "sense": "本来那件事已经过去，后面却还挂着一段不舒服的尾巴。",
+    "split": "hang + over，早有遗留物、延续影响相关名词用法，后有饮酒次日不适的常见义；不是把身体倒挂作为词源解释。",
+    "history": [
+      [
+        "英语 hang；over",
+        "组合时并列的材料"
+      ],
+      [
+        "hang + over → hangover",
+        "前一事件残留下来的影响；饮酒后不适"
+      ]
+    ],
+    "explanation": "a hangover 常说饮酒后的不适；a hangover from the past 则说过去制度或事件的遗留影响。词名本身不说明治疗或严重程度。",
+    "usage": "have a hangover；a hangover from；a political hangover。",
+    "contrast": "hangover 是留下来的后果，layover 是旅程中转停留；拼写相近但不能都译成耽搁。",
+    "examples": [
+      [
+        "He arrived with a hangover after the party.",
+        "聚会后，他带着宿醉的不适来了。"
+      ],
+      [
+        "The rule is a hangover from an earlier era.",
+        "这条规定是早年时代的遗留物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hangover#English"
+    ]
+  },
+  {
+    "word": "overland",
+    "ipa": "英 /ˈəʊvəlænd/；美 /ˈoʊvərlænd/",
+    "meaning": "经陆路；陆上的",
+    "sense": "不是飞过去或坐船去，而是一路沿着陆地前进。",
+    "split": "over（穿过、经过）+ land（陆地），组合成副词或形容词，限定旅行、运输方式。",
+    "history": [
+      [
+        "英语 over；land",
+        "组合时并列的材料"
+      ],
+      [
+        "over + land → overland",
+        "经由陆地路线"
+      ]
+    ],
+    "explanation": "travel overland 是走陆路，an overland route 是陆路路线。可以走路、驾车、乘火车，不自动等于徒步。",
+    "usage": "travel overland；an overland journey；an overland route。",
+    "contrast": "overland 关注陆路方式，inland 关注远离海岸、内陆位置；陆路旅程也可以沿着海岸。",
+    "examples": [
+      [
+        "They travelled overland from the coast to the capital.",
+        "他们从海岸经陆路前往首都。"
+      ],
+      [
+        "The company established a new overland delivery route.",
+        "公司建立了一条新的陆路配送路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overland#English"
+    ]
+  },
+  {
+    "word": "sleepover",
+    "ipa": "英 /ˈsliːpəʊvə/；美 /ˈsliːpoʊvər/",
+    "meaning": "留宿聚会；在朋友家过夜",
+    "sense": "玩到晚上还不回自己家，几个人一起在朋友家住一夜。",
+    "split": "sleep + over，对应 sleep over 动词短语，连写名词尤常说孩子、青少年在朋友家留宿的活动。",
+    "history": [
+      [
+        "英语 sleep；over",
+        "组合时并列的材料"
+      ],
+      [
+        "sleep + over → sleepover",
+        "在别人家过夜的聚会、活动"
+      ]
+    ],
+    "explanation": "have a sleepover 是办留宿聚会；a sleepover at a friend’s house 说住朋友家。成人也能用，但常见场景是孩子们。",
+    "usage": "have a sleepover；a birthday sleepover；go to a sleepover。",
+    "contrast": "sleepover 是名词活动，sleep over 分开是留宿的动作；oversleep 则是睡过头，成分顺序变化后不是同义。",
+    "examples": [
+      [
+        "She invited three friends to a birthday sleepover.",
+        "她请三个朋友来参加生日留宿聚会。"
+      ],
+      [
+        "The children packed sleeping bags for the sleepover.",
+        "孩子们为留宿聚会带上了睡袋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sleepover#English"
+    ]
+  },
+  {
+    "word": "overload",
+    "ipa": "英 动 /ˌəʊvəˈləʊd/；名 /ˈəʊvələʊd/；美动 /ˌoʊvərˈloʊd/",
+    "meaning": "使超载；使负担过重；过载",
+    "sense": "袋子、机器或人的容量有上限，装进去的却超过它能承担的量。",
+    "split": "over-（过度）+ load（负荷、装载），作为动词或名词表示超过相应容量。",
+    "history": [
+      [
+        "英语 over-；load",
+        "组合时并列的材料"
+      ],
+      [
+        "over- + load → overload",
+        "负荷超过承受范围"
+      ]
+    ],
+    "explanation": "overload a vehicle 是使车辆超载，information overload 是信息过载。overload someone with tasks 是给过多任务；具体承受范围取决于对象。",
+    "usage": "information overload；overload with；an electrical overload。",
+    "contrast": "load 是负荷或装载，overload 明确说超过适当或允许范围；忙碌不自动等于任何技术意义的过载。",
+    "examples": [
+      [
+        "Do not overload the washing machine.",
+        "不要往洗衣机里塞过多衣物。"
+      ],
+      [
+        "Too many notifications can cause information overload.",
+        "通知过多可能造成信息过载。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overload#English"
+    ]
+  },
+  {
+    "word": "overloading",
+    "ipa": "英 /ˌəʊvəˈləʊdɪŋ/；美 /ˌoʊvərˈloʊdɪŋ/",
+    "meaning": "超载；使负担过重；重载〔编程〕",
+    "sense": "一条线是把东西装得太多；编程里还有同名操作按不同参数区分的专门名称。",
+    "split": "overload + -ing；通常继承负荷过量义。编程术语 function／operator overloading 已是专门约定，不能只靠超负荷的日常画面理解。",
+    "history": [
+      [
+        "英语 overload；-ing",
+        "组合时并列的材料"
+      ],
+      [
+        "overload + -ing → overloading",
+        "超载过程；编程中约定的重载用法"
+      ]
+    ],
+    "explanation": "overloading a vehicle 是超载行为。编程 function overloading 常说同名函数的不同参数形式，是否支持以及怎样解析依语言，不是函数太忙。",
+    "usage": "avoid overloading；overloading the system；function overloading。",
+    "contrast": "overloading 不是 overriding：后者在编程中特别常说覆写继承行为，两者不能仅因 over 开头就混为一谈。",
+    "examples": [
+      [
+        "Overloading the server led to slower responses.",
+        "服务器负担过重，响应变慢了。"
+      ],
+      [
+        "The chapter introduces function overloading with simple examples.",
+        "本章用简单例子介绍函数重载。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overloading#English"
+    ]
+  },
+  {
+    "word": "layover",
+    "ipa": "英 /ˈleɪəʊvə/；美 /ˈleɪoʊvər/",
+    "meaning": "中转停留；旅途中暂留",
+    "sense": "整段旅程还没到终点，但在两个交通段之间先停一下。",
+    "split": "lay + over，与 lay over 的停留用法相关，名词常用于交通转乘。不是 hangover 的另一个拼写。",
+    "history": [
+      [
+        "英语 lay；over",
+        "组合时并列的材料"
+      ],
+      [
+        "lay + over → layover",
+        "旅程中间的一段停留"
+      ]
+    ],
+    "explanation": "a three-hour layover 是三小时中转停留，美式很常用。是否能离开机场、是否要重新安检，不能由 layover 这个词单独决定。",
+    "usage": "a layover in；a long layover；a three-hour layover。",
+    "contrast": "layover 是途中停留，stopover 也可相关，票务对二者可能另有具体划分；英语词根本身不给出统一时长标准。",
+    "examples": [
+      [
+        "We have a four-hour layover in Singapore.",
+        "我们要在新加坡中转停留四小时。"
+      ],
+      [
+        "She read a novel during the layover.",
+        "中转停留期间，她看了一本小说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/layover#English"
+    ]
+  },
+  {
+    "word": "spillover",
+    "ipa": "英 /ˈspɪləʊvə/；美 /ˈspɪloʊvər/",
+    "meaning": "溢出；波及；外溢影响",
+    "sense": "杯子装不下，水跨过杯沿；事情的影响也能超出原来的圈。",
+    "split": "spill（洒出、溢出）+ over（越过），与 spill over 动词短语相连，形成名词表示外溢部分或效应。",
+    "history": [
+      [
+        "英语 spill；over",
+        "组合时并列的材料"
+      ],
+      [
+        "spill + over → spillover",
+        "越出原范围的东西或影响"
+      ]
+    ],
+    "explanation": "traffic spillover 可说交通压力蔓延到邻近道路；a spillover effect 是外溢效应，可能正面也可能负面。不同专业有专门细义，别由一个“溢”字包办。",
+    "usage": "a spillover effect；spillover from；economic spillover。",
+    "contrast": "spillover 是影响越界，overflow 可更直接指装满后的溢流或超出容量；实际搭配有交叉。",
+    "examples": [
+      [
+        "Nearby streets experienced spillover traffic from the main road.",
+        "主路交通压力外溢，邻近街道车流增加。"
+      ],
+      [
+        "The project had a positive spillover effect on local businesses.",
+        "项目对当地企业产生了积极的外溢影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spillover#English"
+    ]
+  },
+  {
+    "word": "switchover",
+    "ipa": "英 /ˈswɪtʃəʊvə/；美 /ˈswɪtʃoʊvər/",
+    "meaning": "转换；切换过程",
+    "sense": "旧方式停到一边，新方式接过来，不是永远同时维持两套。",
+    "split": "switch（切换）+ over（转到另一边），对应 switch over 的名词化，强调从一个系统、方式转到另一个。",
+    "history": [
+      [
+        "英语 switch；over",
+        "组合时并列的材料"
+      ],
+      [
+        "switch + over → switchover",
+        "从旧系统、方式切换到新的过程"
+      ]
+    ],
+    "explanation": "a switchover to digital services 是转向数字服务；system switchover 是系统切换。过程可能分阶段，不由词本身保证瞬间、无中断。",
+    "usage": "a switchover to；during the switchover；complete the switchover。",
+    "contrast": "switchover 强调转换过程，switchback 是折返路线；相同 switch 不使它们在交通或计算机场景里通用。",
+    "examples": [
+      [
+        "The switchover to the new system will happen at midnight.",
+        "新系统切换将在午夜进行。"
+      ],
+      [
+        "Staff received training before the switchover.",
+        "员工在切换前接受了培训。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switchover#English"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "B2536",
+    "meaning": "猛烈天气与事情涌来的风暴形象",
+    "core": "STORM：一股强力涌来，能是天气，也能是怒气、争议",
+    "image": "storm → stormy；thunderstorm、sandstorm、snowstorm 等按天气分；情绪、讨论中的风暴另组；stormtrooper 和 shitstorm 讲清语域。",
+    "intro": "不是每个 storm 复合词都对应真实天气。stormtrooper 军事、虚构语境另辨；shitstorm 是粗俗表达。",
+    "forms": "古英语 storm → storm；storm + -y；thunder/sand/snow/rain/wind + storm；德语军词仿译 stormtrooper；shit + storm。\n\n古英语本有风暴、冲击等用法，现代复数与三单同形。\n\n与 storm 比较风暴，不是 storm 的派生。hurricane 经西班牙 huracán 等接加勒比阿拉瓦克语族材料，英语早期有多种拼写。",
+    "branches": [
+      [
+        "基础和性质",
+        "storm · stormy"
+      ],
+      [
+        "天气与水流",
+        "thunderstorm · sandstorm · snowstorm · rainstorm · windstorm · superstorm · stormwater"
+      ],
+      [
+        "其他比喻和语域",
+        "firestorm · brainstorm · stormtrooper · shitstorm"
+      ],
+      [
+        "storm → storms：天气、情绪与争议的猛烈爆发",
+        "storm · storms"
+      ],
+      [
+        "hurricane：经西班牙语传来的飓风名",
+        "hurricane · hurricanes"
+      ]
+    ],
+    "contrasts": "stormy 关系非真的天气；thunderstorm 雷电、sandstorm 沙尘；stormtrooper 非追风暴者；shitstorm 粗俗。",
+    "practice": "The stormy meeting caused a storm of criticism.\n\n那场激烈争吵的会议招来一阵批评风暴。",
+    "words": [
+      "storm",
+      "stormy",
+      "thunderstorm",
+      "sandstorm",
+      "snowstorm",
+      "rainstorm",
+      "windstorm",
+      "superstorm",
+      "stormwater",
+      "firestorm",
+      "brainstorm",
+      "stormtrooper",
+      "shitstorm",
+      "storms",
+      "hurricane",
+      "hurricanes"
+    ],
+    "exclude": {
+      "storm-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stormer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4340",
+    "meaning": "遮蔽、背风方向与活动余地",
+    "core": "LEE：挡风物后面那块较安稳的地方",
+    "image": "lee → leeward；leeway 从航海侧向漂移等背景进入活动余地的现代常用义。",
+    "intro": "方向取决于风怎么吹，不能把背风一律记成西侧。leeway 活动余地与 leeward 背风方向要区分。",
+    "forms": "古英语 hlēo、hlēow → lee；lee + -ward → leeward；lee + way → leeway。",
+    "branches": [
+      [
+        "避风处与方向",
+        "lee · leeward"
+      ],
+      [
+        "侧漂到余地",
+        "leeway"
+      ]
+    ],
+    "contrasts": "lee 背风处、leeward 背风的方向、leeway 可调整余地；背风与迎风由实时风向决定。",
+    "practice": "We found shelter in the lee of the hill, on its leeward side.\n\n我们在山的背风一侧找到了避风处。",
+    "words": [
+      "lee",
+      "leeward",
+      "leeway"
+    ],
+    "exclude": {}
+  }
+]

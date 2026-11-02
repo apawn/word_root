@@ -1,0 +1,63 @@
+[
+  {
+    "id": "A1784",
+    "meaning": "粒子、元素与生化名词中的命名尾，以及同形缩称",
+    "core": "-ON：科学命名里常见，但材料和命名路线各自看",
+    "image": "neutr- + -on → neutron；Bose + -on → boson；krypton 取希腊隐藏的中性形式；silicon、boron 又参照 carbon 命名。",
+    "intro": "粒子名尾常从 electron 等现成名称抽出，又受希腊中性词尾影响。元素、生化分子、商标和缩称也会出现相同字母，不能因此认定都是一种粒子。",
+    "forms": "粒子构词中从 electron 等类推出 -on，联系希腊 -on；元素的中性形式、carbon 类比另分；interfere + -on 是生化命名；recon 侦察义是截短。",
+    "branches": [
+      [
+        "常见元素及容易混淆的材料名",
+        "silicon · silicone · boron · krypton · argon · xenon"
+      ],
+      [
+        "粒子名称与类别",
+        "proton · neutron · photon · boson · hadron · nucleon · baryon · graviton"
+      ],
+      [
+        "生命科学命名",
+        "codon · interferon"
+      ],
+      [
+        "商标、缩称及同形词",
+        "freon · recon"
+      ]
+    ],
+    "contrasts": "-on 不总是粒子；silicone 末尾是另一词尾；boson 是分类不只希格斯一种；recon 普通义截短；Freon 是品牌背景而非统一化学式。",
+    "practice": "The lesson separates silicon, a chemical element, from the neutron and boson names used for particles.\n\n课程把硅这种元素，与中子、玻色子这些粒子名称分开说明。",
+    "words": [
+      "silicon",
+      "silicone",
+      "boron",
+      "krypton",
+      "argon",
+      "xenon",
+      "proton",
+      "neutron",
+      "photon",
+      "boson",
+      "hadron",
+      "nucleon",
+      "baryon",
+      "graviton",
+      "codon",
+      "interferon",
+      "freon",
+      "recon"
+    ],
+    "exclude": {
+      "triton": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "phonon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tachyon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gluon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "magnon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meson": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plasmon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "operon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "penton": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fermion": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pion": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

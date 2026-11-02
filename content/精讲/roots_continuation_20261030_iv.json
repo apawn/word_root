@@ -1,0 +1,80 @@
+[
+  {
+    "id": "B4220",
+    "meaning": "放在一起形成整体，及反向拆分",
+    "core": "COMPOSITION：看部分怎样组成、安排成一个整体",
+    "image": "compose 动作 → composer 人、composition 过程与结构 → compositional 性质；decompose/decomposition 分开。",
+    "intro": "音乐、作文、绘画、材料的对象不同，部分成整体的核心相通。词形对应帮助理解，历史上 compose 与 composition 却经过不同借入路线。",
+    "forms": "com- + pōnere → compōnere / composit-；法语 composer → compose；compositiō → composition；接 -er、-al，前接 de-。\n\ncompos- 接拉丁 componere 的相关词干；composition 有拉丁、法语整词借入路线，不把 -sition 当作现代英语任意加的后缀。",
+    "branches": [
+      [
+        "创作、作者与整体结构",
+        "compose · composer · composition · compositional"
+      ],
+      [
+        "拆分动作与过程",
+        "decompose · decomposition"
+      ],
+      [
+        "compose 一家：组织材料、作曲及作品",
+        "compose · composes · composing · composer · composers · composition · compositions"
+      ]
+    ],
+    "contrasts": "composition 不只作文；compose yourself 是定神；组合性还看结构，不是无序相加；decomposition 不全是腐烂。",
+    "practice": "The composer discussed the composition of the piece before the class tried its decomposition into short phrases.\n\n作曲家先讲解乐曲结构，随后全班尝试把它拆成短乐句。",
+    "words": [
+      "compose",
+      "composer",
+      "composition",
+      "compositional",
+      "decompose",
+      "decomposition",
+      "composes",
+      "composing",
+      "composers",
+      "compositions"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1999",
+    "meaning": "生成、引起者，以及带有历史认识的科学命名",
+    "core": "-GEN：产生或引发什么，看前半与具体物质",
+    "image": "pathogen 致病，allergen 致敏，carcinogen 致癌，mutagen 致突变；fibrinogen 是可形成纤维蛋白的前体。",
+    "intro": "词尾搭桥，前半指定对象，但科学名称不是把物质的所有作用一次说完。oxygen 的产酸者命名还保留过时认识，不能反过来用词源证明所有酸含氧。",
+    "forms": "希腊生成相关成分 → -gen；前接词干，常有连接 -o-；各词也可能经法语等科学命名路线进入英语。",
+    "branches": [
+      [
+        "引起某现象的物质或来源",
+        "pathogen · allergen · carcinogen · mutagen · hallucinogen"
+      ],
+      [
+        "生理作用与蛋白前体",
+        "estrogen · androgen · fibrinogen"
+      ],
+      [
+        "保留旧理论的元素名",
+        "oxygen"
+      ]
+    ],
+    "contrasts": "-gen 不等于所有词中直接是基因；fibrinogen 不是已经形成的 fibrin；oxygen 名称里的旧假设不作现代定义。",
+    "practice": "The glossary explains the different naming patterns in pathogen, hallucinogen and fibrinogen.\n\n词汇表解释了 pathogen、hallucinogen 和 fibrinogen 的不同命名方式。",
+    "words": [
+      "pathogen",
+      "allergen",
+      "carcinogen",
+      "mutagen",
+      "hallucinogen",
+      "estrogen",
+      "androgen",
+      "fibrinogen",
+      "oxygen"
+    ],
+    "exclude": {
+      "cyanogen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "allogeneic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plasminogen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mitogen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

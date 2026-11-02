@@ -1,0 +1,92 @@
+[
+  {
+    "id": "B2768",
+    "meaning": "发声器官借指语言，形状借指突出片",
+    "core": "TONGUE：嘴里会动的舌，也能指说的语言",
+    "image": "tongue → 器官、语言和按舌状外形命名的部件；固定搭配各看整句。",
+    "intro": "把语言当成舌头的作用，把鞋舌、火舌当成外形。两种扩展容易直观看懂，但拼写 tongue 不能逐字硬读。",
+    "forms": "tunge → tunge/tonge → tongue；现代常见读音 /tʌŋ/。",
+    "branches": [
+      [
+        "器官、语言与形似部件",
+        "tongue"
+      ]
+    ],
+    "contrasts": "mother tongue 母语；hold your tongue 少说、别说；tip of my tongue 常指一时想不起来。",
+    "practice": "The phrase was on the tip of my tongue, but I could not recall it even in my mother tongue.\n\n那个说法就在嘴边，可我连用母语都一下想不起来。",
+    "words": [
+      "tongue"
+    ],
+    "exclude": {
+      "flutter-tongue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tongued": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loose-tongued": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3196",
+    "meaning": "从溪流引出，借来理解来源、取得与推导",
+    "core": "DERIVE：从一个源头流出来、拿出来",
+    "image": "derive → derived；derivation 说来路、构词派生或推导过程。",
+    "intro": "物质从原料来，词从旧词形来，结论从依据来。每次先找到 from 后面的源头，再看得到的是什么。",
+    "forms": "dē- + rīvus → dērīvāre → deriver → derive；dērīvātiō → derivation；derive 接 -ed。",
+    "branches": [
+      [
+        "来源动作、所得状态与过程",
+        "derive · derived · derivation"
+      ]
+    ],
+    "contrasts": "derive from 与 derive A from B 分清方向；derived 不保证原物与产物相同；构词 derivation 与普通屈折变化分开。",
+    "practice": "The derivation shows how the final value is derived from the original data.\n\n推导过程展示了最终值如何从原始数据中得到。",
+    "words": [
+      "derive",
+      "derived",
+      "derivation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3350",
+    "meaning": "轻敲与塞子放流的两条来源，另辨军事号名",
+    "core": "TAP：屏幕看轻触，龙头看放流",
+    "image": "tap 轻敲 → 常规 taps；tap 龙头、放流 → taproom / wiretap；Taps 是固定军事名称。",
+    "intro": "从桶里放出酒，再借到从资源里取得东西、接入通信线路，很容易理解。轻敲动作另看；军号名的形成也不只是一条现代复数规则。",
+    "forms": "tæppa/tæppian → tap 龙头、放流；tappen 等 → tap 轻敲；tap + room、wire + tap；taps 军号名另有旧词形变化。\n\n轻敲支和放流取用支有不同直接来源；后缀相同，不必把词源合成一条。\n\n与 tap 比较轻触，不由 tap 派生。pat 旧击打名词可能拟声，动词后来常指轻拍；pat of butter 是成形小块，a pat on the back 也借给鼓励。pat 回答现成、过顺另有命中要点到恰当等用法发展。",
+    "branches": [
+      [
+        "常用基础词与形式",
+        "tap · taps"
+      ],
+      [
+        "服务空间和通信组合",
+        "taproom · wiretap"
+      ],
+      [
+        "tap 的轻敲、取用与过去、进行形式",
+        "tap · taps · tapped · tapping"
+      ],
+      [
+        "pat：另源的轻拍、鼓励；恰到好处与过于现成",
+        "pat · pats · patted · patting"
+      ]
+    ],
+    "contrasts": "taproom 不是洗手间；tap into 常说利用；Taps 军号名与普通复数、动词 taps 分开。",
+    "practice": "She tapped the menu icon to read about the brewery’s taproom.\n\n她轻点菜单图标，查看酒厂附设酒吧间的介绍。",
+    "words": [
+      "tap",
+      "taps",
+      "taproom",
+      "wiretap",
+      "tapped",
+      "tapping",
+      "pat",
+      "pats",
+      "patted",
+      "patting"
+    ],
+    "exclude": {
+      "stop-tap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tapper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

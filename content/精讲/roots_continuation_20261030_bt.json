@@ -1,0 +1,72 @@
+[
+  {
+    "id": "B4607",
+    "meaning": "脂肪材料、肥厚性质和使肥；无脂类别",
+    "core": "FAT：油脂、肥厚，也可比喻充实丰厚",
+    "image": "fat → fatty、fatness、fatten，按性质、性质名词、改变状态对照；nonfat 食物类别最后讲。较少用 fathead 暂略。",
+    "intro": "保留人的体形与食物材料不同用法，也讲厚书、利润的比喻；词义说明不把含脂多等同所有健康评价。",
+    "forms": "fat + -y/-ness/-en；non- + fat；fatty、fatten 双写 t。",
+    "branches": [
+      [
+        "材料、性质和变化",
+        "fat · fatty · fatness · fatten"
+      ],
+      [
+        "否定食物成分",
+        "nonfat"
+      ]
+    ],
+    "contrasts": "fat 材料、fatness 性质；fatty 含脂、greasy 油腻触感；nonfat 不等于无糖；fat book 说厚。",
+    "practice": "The cook removed some fat from the fatty meat.\n\n厨师从脂肪较多的肉上修掉一些肥脂。",
+    "words": [
+      "fat",
+      "fatty",
+      "fatness",
+      "fatten",
+      "nonfat"
+    ],
+    "exclude": {
+      "fat-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fat-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fat-shame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fat-tailed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fathead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2673",
+    "meaning": "温暖与情感暖意；微温、冷淡和比较级分清",
+    "core": "WARM：温度暖，关系也可暖；LUKEWARM 不够热心",
+    "image": "warm → warming、warmth、warmly；warmer 比较级和器具两种结构，lukewarm 最后解释旧同义叠合。",
+    "intro": "古英语温暖词有形容词、动词旧形，远源不强定。不要只看到 -er 就断为人物，也别把 luke 当现代人名故事。",
+    "forms": "warm + -ing/-th/-ly/-er；-er 另有比较级；旧 luke + warm → lukewarm。\n\nwarm 的本族温度义与亲切、友好等比喻相连；warmest 可用于问候等礼貌表达。",
+    "branches": [
+      [
+        "温度、过程和感觉",
+        "warm · warming · warmth · warmly"
+      ],
+      [
+        "比较、器具和热情程度",
+        "warmer · lukewarm"
+      ],
+      [
+        "warm → warmer → warmest：最暖和、最热情",
+        "warm · warmer · warmest"
+      ]
+    ],
+    "contrasts": "warmth 状态、warming 过程；warmer 更暖或加温器；lukewarm support 冷淡支持，不是热情加倍。",
+    "practice": "They welcomed us warmly, though the tea was lukewarm.\n\n他们热情欢迎了我们，只是茶有点不冷不热。",
+    "words": [
+      "warm",
+      "warming",
+      "warmth",
+      "warmly",
+      "warmer",
+      "lukewarm",
+      "warmest"
+    ],
+    "exclude": {
+      "warm-blooded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

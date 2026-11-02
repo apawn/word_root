@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B2791",
+    "meaning": "雨与下雨；天气、用品、生态和业务比喻",
+    "core": "RAIN：从天落下的水；组合告诉形态、场景或用途",
+    "image": "rain → rainy；rainfall、rainwater、raindrop 既有共享；rainbow 弓形，raincoat 防护，rainstorm 强天气，rainforest 生态，rainmaker 最后讲比喻。",
+    "intro": "更远来源不确定，不强接拉丁灌溉词。雨林不只热带，rainmaker 的仪式、技术、商业用法不混为一个因果事实。",
+    "forms": "rain + -y/fall/water/drop/bow/coat/storm/forest/maker；rainforest 有德语仿译背景。\n\nrain 的名词、动词承古英语 regn、regnian 等材料。-s 可是动词第三人称，也可把雨作为多次、季节性降雨来数。\n\nrain 承古英语 regn、regnian 等日耳曼雨词族，现代加 -ing 原词不改。天气下雨与东西大量落下的比喻都常见。",
+    "branches": [
+      [
+        "基本雨、多少和形态",
+        "rain · rainy · rainfall · rainwater · raindrop · rainbow"
+      ],
+      [
+        "用品、强天气和生态",
+        "raincoat · rainstorm · rainforest"
+      ],
+      [
+        "造雨与业务比喻",
+        "rainmaker"
+      ],
+      [
+        "rain → rains：下雨与一场场雨",
+        "rains"
+      ],
+      [
+        "rain 下雨 → raining",
+        "raining"
+      ]
+    ],
+    "contrasts": "rain/reign/rein 同音不同源；rainy 不等于每刻 raining；rainbow 的 bow 弓形读法；rainforest 含温带类型。",
+    "practice": "After the rainstorm, she took off her raincoat and saw a rainbow.\n\n暴风雨后，她脱下雨衣，看见了一道彩虹。",
+    "words": [
+      "rain",
+      "rainy",
+      "rainfall",
+      "rainwater",
+      "raindrop",
+      "rainbow",
+      "raincoat",
+      "rainstorm",
+      "rainforest",
+      "rainmaker",
+      "rains",
+      "raining"
+    ],
+    "exclude": {
+      "rain-wrapped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rainer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3428",
+    "meaning": "明亮、欢快背景到高兴、庆幸和乐意",
+    "core": "GLAD：心情亮起来，也可说幸好、我乐意",
+    "image": "glad → gladly、gladness、gladden，按状态、方式态度、情绪名词、引发变化连读。",
+    "intro": "旧明亮与欢快相联可帮助记忆，现代先熟悉 glad to、glad that。更书面的 gladness、gladden 用例说明语气。",
+    "forms": "glad + -ly/-ness/-en；gladden 双写 d。",
+    "branches": [
+      [
+        "状态和乐意态度",
+        "glad · gladly"
+      ],
+      [
+        "情绪及使人高兴",
+        "gladness · gladden"
+      ]
+    ],
+    "contrasts": "glad 常表语，Happy birthday 固定祝语不替换；gladly 自愿不只速度；gladden 动词不同于 gladness 名词。",
+    "practice": "Glad to see them, she gladly opened the door, and their visit gladdened her heart.\n\n见到他们她很高兴，欣然开门，他们的到访让她心里欣慰。",
+    "words": [
+      "glad",
+      "gladly",
+      "gladness",
+      "gladden"
+    ],
+    "exclude": {}
+  }
+]

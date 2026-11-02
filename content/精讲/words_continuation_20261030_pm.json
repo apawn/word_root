@@ -1,0 +1,1667 @@
+[
+  {
+    "word": "community",
+    "ipa": "/kəˈmjuːnəti/",
+    "meaning": "社区；群体、共同体",
+    "sense": "住在同一片地方的人，或围绕同一种兴趣、经历互相联系的人，都能构成 community。重点是人之间有共同纽带。",
+    "split": "经法语 communité 接拉丁 communitas，来自 communis 共同的 + -itas 性质、状态名词尾；现代不是沟通 communication 的缩写。",
+    "history": [
+      [
+        "拉丁 communis 共同的 → communitas",
+        "共同关系、公共群体"
+      ],
+      [
+        "法语 communité → 英语 community",
+        "地方社区；有共同身份、兴趣的群体"
+      ]
+    ],
+    "explanation": "the local community 当地社区；the scientific community 科学界；a sense of community 群体归属感。可指人群，也可指所形成的社会联系。",
+    "usage": "the local community；a sense of community。",
+    "contrast": "community 不只住宅区；an online community 可以成员分散各地。communication 则是沟通、交流。",
+    "examples": [
+      [
+        "The library serves the local community.",
+        "图书馆服务当地社区。"
+      ],
+      [
+        "She found a welcoming community of artists online.",
+        "她在网上找到了一个友善的艺术家群体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/community#English"
+    ]
+  },
+  {
+    "word": "opportune",
+    "ipa": "英 /ˈɒpətjuːn/；美 /ˌɑːpərˈtuːn/",
+    "meaning": "适时的；恰好的〔较正式〕",
+    "sense": "你正缺帮手，朋友恰好来了；这个时机对眼前的事合适，就可说 opportune。它评价条件、时间是否有利。",
+    "split": "经法语接拉丁 opportunus，传统词源联系 ob 朝向 + portus 港口，顺风入港的有利条件走向及时、合适。",
+    "history": [
+      [
+        "拉丁 ob 朝向 + portus 港口的材料 → opportunus",
+        "顺着入港条件的画面 → 合适、及时"
+      ],
+      [
+        "opportunitas 等经法语 → opportunity；相应词族扩展",
+        "有利时机；利用时机的人及性质"
+      ]
+    ],
+    "explanation": "an opportune moment 恰当时机；an opportune time 合适的时候；an opportune arrival 来得正好。",
+    "usage": "an opportune moment；an opportune time。",
+    "contrast": "opportune 常评价时机有利，opportunistic 常评价抓机会的方式；看到机会不等于投机取巧。",
+    "examples": [
+      [
+        "This is an opportune moment to discuss the plan.",
+        "现在是讨论计划的恰当时机。"
+      ],
+      [
+        "Her arrival was especially opportune.",
+        "她来得特别及时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opportune#English",
+      "https://www.etymonline.com/word/opportune",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/opportune"
+    ]
+  },
+  {
+    "word": "opportunity",
+    "ipa": "英 /ˌɒpəˈtjuːnəti/；美 /ˌɑːpərˈtuːnəti/",
+    "meaning": "机会；有利时机",
+    "sense": "门开了一会儿，你有条件去做原先做不了的事，这扇窗口就是 opportunity。是否真的抓住，是下一步。",
+    "split": "经法语 opportunité 接拉丁 opportunitas，来自 opportunus 合适的；现代对应 opportune 去 e 加 -ity，不把所有机会都限成港口。",
+    "history": [
+      [
+        "拉丁 ob 朝向 + portus 港口的材料 → opportunus",
+        "顺着入港条件的画面 → 合适、及时"
+      ],
+      [
+        "opportunitas 等经法语 → opportunity；相应词族扩展",
+        "有利时机；利用时机的人及性质"
+      ],
+      [
+        "opportunitas → opportunity",
+        "有利条件、恰当时机 → 机会"
+      ]
+    ],
+    "explanation": "an opportunity to do 做事机会；an opportunity for development 发展机会；take the opportunity 抓住机会；job opportunities 工作机会。",
+    "usage": "an opportunity to；take the opportunity。",
+    "contrast": "opportunity 聚焦可利用的时机，possibility 常只是可能性；有可能下雨，通常说 a possibility of rain。",
+    "examples": [
+      [
+        "The course gives you an opportunity to practise speaking.",
+        "课程给你练习口语的机会。"
+      ],
+      [
+        "She took the opportunity to ask a question.",
+        "她抓住机会问了一个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opportunity#English"
+    ]
+  },
+  {
+    "word": "opportunist",
+    "ipa": "英 /ˌɒpəˈtjuːnɪst/；美 /ˌɑːpərˈtuːnɪst/",
+    "meaning": "机会主义者；投机者",
+    "sense": "哪里眼下有好处就往哪里转，原则容易随利益改，这样的人常被批评为 opportunist。",
+    "split": "借法语 opportuniste，与 opportune 有利、合时及 -ist 相应人物尾对应；不是所有善于把握机会的人都必然带这层贬义。",
+    "history": [
+      [
+        "拉丁 ob 朝向 + portus 港口的材料 → opportunus",
+        "顺着入港条件的画面 → 合适、及时"
+      ],
+      [
+        "opportunitas 等经法语 → opportunity；相应词族扩展",
+        "有利时机；利用时机的人及性质"
+      ],
+      [
+        "法语 opportuniste → opportunist",
+        "以眼前机会、利益决定立场的人"
+      ]
+    ],
+    "explanation": "a political opportunist 政治投机者；describe someone as an opportunist 称某人为投机者。通常带批评色彩。",
+    "usage": "a political opportunist；an opportunist。",
+    "contrast": "opportunist 常批评原则让位于私利，entrepreneur 创业者是身份称呼，不自动有同样评价。",
+    "examples": [
+      [
+        "Critics called him a political opportunist.",
+        "批评者称他为政治投机者。"
+      ],
+      [
+        "The novel portrays an opportunist who changes sides repeatedly.",
+        "小说刻画了一个反复改换阵营的投机者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opportunist#English"
+    ]
+  },
+  {
+    "word": "opportunistic",
+    "ipa": "英 /ˌɒpətjuːˈnɪstɪk/；美 /ˌɑːpərtuːˈnɪstɪk/",
+    "meaning": "投机的；趁机发生、利用条件的",
+    "sense": "人的行为可以是趁有利条件牟利；感染也可能趁身体防御减弱时发生。共同点是利用出现的机会，评价随领域变化。",
+    "split": "opportunist + -ic 形成性质词；日常常有投机评价，医学、生态等领域常中性说利用适宜条件。",
+    "history": [
+      [
+        "拉丁 ob 朝向 + portus 港口的材料 → opportunus",
+        "顺着入港条件的画面 → 合适、及时"
+      ],
+      [
+        "opportunitas 等经法语 → opportunity；相应词族扩展",
+        "有利时机；利用时机的人及性质"
+      ],
+      [
+        "opportunist + -ic → opportunistic",
+        "机会主义性质；利用有利条件发生的"
+      ]
+    ],
+    "explanation": "opportunistic behaviour 投机行为；an opportunistic infection 机会性感染；an opportunistic feeder 利用现有食物来源觅食的动物。",
+    "usage": "opportunistic behaviour；an opportunistic infection。",
+    "contrast": "科学用语的 opportunistic 不在谴责微生物没有原则；它说发生、利用条件的方式。",
+    "examples": [
+      [
+        "The move was criticised as opportunistic.",
+        "这一举动被批评为投机。"
+      ],
+      [
+        "The article discusses opportunistic infections.",
+        "文章讨论机会性感染。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opportunistic#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/opportunistic",
+      "https://clinicalinfo.hiv.gov/en/glossary/opportunistic-infection-oi"
+    ]
+  },
+  {
+    "word": "complex",
+    "ipa": "英 /ˈkɒmpleks/；美 /kəmˈpleks/，亦有 /ˈkɑːmpleks/",
+    "meaning": "复杂的；综合体、建筑群；情结",
+    "sense": "许多部分彼此牵着，动一处会影响别处，就是 complex 的核心画面。它也能把一组相连建筑叫作 a complex。",
+    "split": "经法语接拉丁 complexus 缠绕、包围，com- 一起与编织的材料相连；-plex 可帮助认同族，但不把每个现代义硬译成折叠。",
+    "history": [
+      [
+        "拉丁 com- 一起 + plectere 编织等 → complexus",
+        "交织、包在一起"
+      ],
+      [
+        "法语 complexe → complex → complexity",
+        "复杂的、复合体；复杂性"
+      ]
+    ],
+    "explanation": "a complex problem 复杂问题；an apartment complex 公寓建筑群；an inferiority complex 自卑情结。",
+    "usage": "a complex problem；an apartment complex。",
+    "contrast": "complex 突出多部分交织，difficult 只说难；一个很难搬动的单块石头，不必说结构 complex。",
+    "examples": [
+      [
+        "The system is more complex than it looks.",
+        "系统比看上去复杂。"
+      ],
+      [
+        "They live in a large apartment complex.",
+        "他们住在一个大型公寓区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complex#English"
+    ]
+  },
+  {
+    "word": "complexity",
+    "ipa": "/kəmˈpleksəti/",
+    "meaning": "复杂性；复杂之处",
+    "sense": "complex 是事情很复杂，complexity 是把这种多部分交织的程度、特点单独拿出来讨论。复数 complexities 常说种种难处。",
+    "split": "complex + -ity，形成性质名词；前面的 com- 与编织材料仍是理解复杂关系的线索。",
+    "history": [
+      [
+        "拉丁 com- 一起 + plectere 编织等 → complexus",
+        "交织、包在一起"
+      ],
+      [
+        "法语 complexe → complex → complexity",
+        "复杂的、复合体；复杂性"
+      ],
+      [
+        "complex + -ity → complexity",
+        "交织的性质、程度；具体复杂之处"
+      ]
+    ],
+    "explanation": "the complexity of a system 系统的复杂性；the complexities of a problem 问题的复杂之处；reduce complexity 降低复杂度。",
+    "usage": "the complexity of；reduce complexity。",
+    "contrast": "complexity 不必是缺点：有的系统需要多层结构；unnecessary complexity 才明确说多余的复杂。",
+    "examples": [
+      [
+        "The diagram hides the complexity of the system.",
+        "图示没有显出系统的复杂性。"
+      ],
+      [
+        "We need to understand the complexities of the case.",
+        "我们需要理解这件事的复杂之处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complexity#English"
+    ]
+  },
+  {
+    "word": "solidarity",
+    "ipa": "英 /ˌsɒlɪˈdærəti/；美 /ˌsɑːlɪˈdærəti/",
+    "meaning": "团结、相互支持；声援",
+    "sense": "一个人遇到困难，其他人站出来说“我们跟你一起”，这种共同承担、支持彼此的关系就是 solidarity。",
+    "split": "借法语 solidarité，接 solidaire、拉丁 solidus 整体、坚实等材料；现代认形可看 solidary + -ity，不能只从固体物理性质推义。",
+    "history": [
+      [
+        "拉丁 solidus 整体等 → 法语 solidaire、solidarité",
+        "共同承担、作为整体联结"
+      ],
+      [
+        "英语 solidarity",
+        "因共同利益、目标等团结与相互支持"
+      ]
+    ],
+    "explanation": "show solidarity with 声援、支持；in solidarity with 与……团结；a sense of solidarity 团结感。",
+    "usage": "show solidarity with；in solidarity with。",
+    "contrast": "solidarity 是人的支持、共同立场，solidity 是坚实、牢固；两个名词沿不同用法发展。",
+    "examples": [
+      [
+        "The workers showed solidarity with their colleagues.",
+        "工人们声援同事。"
+      ],
+      [
+        "The event created a strong sense of solidarity.",
+        "活动形成了强烈的团结感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/solidarity#English"
+    ]
+  },
+  {
+    "word": "vicinity",
+    "ipa": "/vɪˈsɪnəti/",
+    "meaning": "附近、周边地区〔较正式〕",
+    "sense": "不指地图上一个精确点，而是围绕那一点的一片附近区域。in the vicinity of the station 就是车站附近。",
+    "split": "接拉丁 vicinitas 邻近关系、街坊，来自 vicinus 邻近的、邻人，关联 vicus 村落；并非英语 vice 副的派生。",
+    "history": [
+      [
+        "拉丁 vicus 村落 → vicinus 邻近的 → vicinitas",
+        "住得近 → 邻近、周围地区"
+      ],
+      [
+        "英语 vicinity",
+        "附近；大致范围"
+      ]
+    ],
+    "explanation": "in the vicinity 在附近；in the vicinity of 在……附近；数值前有时说大约，较正式。",
+    "usage": "in the vicinity of；in the vicinity。",
+    "contrast": "vicinity 常是周边一带，venue 是活动场地；拼写有相似字母，但问附近与问举办地点不同。",
+    "examples": [
+      [
+        "There are several cafés in the vicinity of the station.",
+        "车站附近有几家咖啡馆。"
+      ],
+      [
+        "Police searched the immediate vicinity.",
+        "警方搜索了紧邻的周边地区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vicinity#English"
+    ]
+  },
+  {
+    "word": "austere",
+    "ipa": "英 /ɒˈstɪə/；美 /ɔːˈstɪr/",
+    "meaning": "简朴严肃的；严厉的；无装饰的",
+    "sense": "房间只有床、桌子和白墙，没有柔软装饰，可以说 austere。用在人身上，则容易想到不苟言笑、严肃克制。",
+    "split": "经法语、拉丁接希腊 austeros 苦涩、严酷，原来味觉的涩厉发展为态度、风格的严肃简朴。",
+    "history": [
+      [
+        "希腊 austeros 苦涩、严酷 → 拉丁 austerus → 法语 austere",
+        "味觉上的涩、厉害 → 严厉、无装饰"
+      ],
+      [
+        "austere、austeritas 等 → austerity",
+        "严肃、简朴；紧缩生活或政策"
+      ]
+    ],
+    "explanation": "an austere room 简朴的房间；an austere manner 严肃态度；an austere lifestyle 清苦、克制的生活方式。",
+    "usage": "an austere room；an austere lifestyle。",
+    "contrast": "austere 比 simple 简单更带克制、缺少奢华甚至严冷的感觉；不必等于贫穷造成的破败。",
+    "examples": [
+      [
+        "The room was austere but clean.",
+        "房间简朴，但很干净。"
+      ],
+      [
+        "He was known for his austere manner.",
+        "他以严肃的作风著称。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/austere#English",
+      "https://www.etymonline.com/word/austerity"
+    ]
+  },
+  {
+    "word": "austerity",
+    "ipa": "英 /ɒˈsterəti/；美 /ɔːˈsterəti/",
+    "meaning": "简朴、清苦；紧缩、节支政策",
+    "sense": "生活里把享受压到很少，是 austerity；公共讨论中也常指削减政府开支、控制财政支出的政策。两者都带收紧的感觉。",
+    "split": "经法语 austerité、拉丁 austeritas，来自 austerus 严酷、简朴；现代对应 austere 去 e 加 -ity。",
+    "history": [
+      [
+        "希腊 austeros 苦涩、严酷 → 拉丁 austerus → 法语 austere",
+        "味觉上的涩、厉害 → 严厉、无装饰"
+      ],
+      [
+        "austere、austeritas 等 → austerity",
+        "严肃、简朴；紧缩生活或政策"
+      ],
+      [
+        "austeritas → austerity",
+        "严肃简朴；节约、紧缩的安排"
+      ]
+    ],
+    "explanation": "austerity measures 紧缩措施；a period of austerity 清苦、紧缩时期；the austerity of the design 设计的简朴。",
+    "usage": "austerity measures；a period of austerity。",
+    "contrast": "austerity 说紧缩、节制，prosperity 是繁荣；评价一项紧缩政策的效果，不能只由词源下结论。",
+    "examples": [
+      [
+        "The government announced new austerity measures.",
+        "政府宣布了新的紧缩措施。"
+      ],
+      [
+        "The house reflected the austerity of their lifestyle.",
+        "这所房子体现了他们生活方式的简朴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/austerity#English",
+      "https://www.etymonline.com/word/austerity"
+    ]
+  },
+  {
+    "word": "serene",
+    "ipa": "/səˈriːn/",
+    "meaning": "平静安详的；宁静的",
+    "sense": "外面再忙，脸上仍像无风的湖面一样平和，这种不慌、不乱的感觉是 serene。环境也能呈现它。",
+    "split": "借拉丁 serenus 晴朗、无云、未受扰动的，早期天空清明的材料也用于心绪安宁。",
+    "history": [
+      [
+        "拉丁 serenus 晴朗、无云 → serene",
+        "天空清明 → 心境平静"
+      ],
+      [
+        "拉丁 serenitas 等经法语 → serenity",
+        "晴朗、平静的状态"
+      ]
+    ],
+    "explanation": "a serene smile 安详微笑；a serene expression 平静表情；a serene landscape 宁静景色。",
+    "usage": "a serene smile；a serene expression。",
+    "contrast": "serene 是安宁、平和，silent 只说无声；一间无人说话却很紧张的房间，未必 serene。",
+    "examples": [
+      [
+        "She remained serene despite the noise around her.",
+        "周围很吵，她仍很平静。"
+      ],
+      [
+        "The lake looked serene in the morning light.",
+        "湖泊在晨光中显得宁静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serene#English"
+    ]
+  },
+  {
+    "word": "serenity",
+    "ipa": "/səˈrenəti/",
+    "meaning": "宁静、平和、安详",
+    "sense": "serene 描述人或环境很平静，serenity 把这份平和当作一种可以感受、寻找的状态。",
+    "split": "经法语 sérénité 接拉丁 serenitas；现代对应 serene 去 e 加 -ity，重音和元音随词形变化。",
+    "history": [
+      [
+        "拉丁 serenus 晴朗、无云 → serene",
+        "天空清明 → 心境平静"
+      ],
+      [
+        "拉丁 serenitas 等经法语 → serenity",
+        "晴朗、平静的状态"
+      ],
+      [
+        "serenitas → serenity",
+        "清明、平静的状态"
+      ]
+    ],
+    "explanation": "a sense of serenity 宁静感；the serenity of a place 一地的宁静；seek serenity 寻求平和。",
+    "usage": "a sense of serenity；the serenity of。",
+    "contrast": "serenity 是平和，serendipity 是意外的幸运发现；前面几个字母相似，来源和意义不同。",
+    "examples": [
+      [
+        "The garden gave her a sense of serenity.",
+        "花园让她感到宁静。"
+      ],
+      [
+        "Nothing disturbed the serenity of the evening.",
+        "没有什么打破傍晚的宁静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serenity#English"
+    ]
+  },
+  {
+    "word": "conductivity",
+    "ipa": "英 /ˌkɒndʌkˈtɪvəti/；美 /ˌkɑːndʌkˈtɪvəti/",
+    "meaning": "导电性、电导率；导热性、热导率",
+    "sense": "同样让电或热通过，有些材料通得容易，有些很费劲。conductivity 讨论的是这种传导能力或量化性质。",
+    "split": "conductive 能传导的去 e 加 -ity；更早与 conduct 引导、传送的拉丁词族相关。这里取电、热传导，不取主持会议的 conduct。",
+    "history": [
+      [
+        "conduct 引导、传送 → conductive",
+        "能传导电、热等的"
+      ],
+      [
+        "conductive + -ity → conductivity",
+        "相应传导性质、系数"
+      ]
+    ],
+    "explanation": "electrical conductivity 电导率；thermal conductivity 热导率；high conductivity 高传导能力。具体单位和数值随所传导的量而不同。",
+    "usage": "electrical conductivity；thermal conductivity。",
+    "contrast": "conductivity 是材料的传导性质，conductivity 与 conductive 的词性不同；electrical 与 thermal 也不能混成同一个量。",
+    "examples": [
+      [
+        "Copper has high electrical conductivity.",
+        "铜的导电性很强。"
+      ],
+      [
+        "The study compares the thermal conductivity of the materials.",
+        "研究比较了这些材料的热导率。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conductivity#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/conductivity"
+    ]
+  },
+  {
+    "word": "susceptibility",
+    "ipa": "/səˌseptəˈbɪləti/",
+    "meaning": "易受影响、易感性；敏感、脆弱程度",
+    "sense": "同样的压力、疾病或诱惑，有的对象更容易受影响。把这个容易受影响的程度拿出来谈，就是 susceptibility。",
+    "split": "susceptible 易受影响的 + -ity，-ible 对应 -ibility；上接拉丁接纳、承受的词族。不是简单说一切都敏感。",
+    "history": [
+      [
+        "拉丁 suscipere 等接受、承受材料 → susceptible",
+        "容易承受、受某种影响"
+      ],
+      [
+        "susceptible + -ity → susceptibility",
+        "对特定影响的易感程度"
+      ]
+    ],
+    "explanation": "susceptibility to infection 对感染的易感性；susceptibility to pressure 易受压力影响；后常用 to。",
+    "usage": "susceptibility to；genetic susceptibility。",
+    "contrast": "susceptibility to something 指对特定影响更易受作用，不等于已经受到影响；易感与已经感染是两件事。",
+    "examples": [
+      [
+        "The study examines susceptibility to infection.",
+        "研究考察感染易感性。"
+      ],
+      [
+        "The survey explored people’s susceptibility to misleading claims.",
+        "调查探究人们多容易受误导性说法影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/susceptibility#English"
+    ]
+  },
+  {
+    "word": "inferior",
+    "ipa": "英 /ɪnˈfɪəriə/；美 /ɪnˈfɪriər/",
+    "meaning": "较差的、低等的；下方的〔专门用法〕",
+    "sense": "与另一个对象比较，品质、等级低一些，叫 inferior。它是比较判断；具体比的是材料、水平还是位置，要看上下文。",
+    "split": "借拉丁 inferior，原是 inferus 在下面的比较级；今天直接是形容词，不拆成 in- 不加一个英文 ferior。",
+    "history": [
+      [
+        "拉丁 inferus 在下面 → inferior 比较级",
+        "位置更低；进一步用于等级、品质"
+      ],
+      [
+        "inferior + -ity → inferiority 的对应形式",
+        "较低、较差状态；自卑感"
+      ]
+    ],
+    "explanation": "inferior to 比……差；inferior quality 较差品质；feel inferior 感到自卑。人体方位等领域还可指下方。",
+    "usage": "inferior to；inferior quality；feel inferior。",
+    "contrast": "inferior 后比较常接 to，不能照普通比较级更差套 than；也不把某项技能较差扩大成一个人的整体价值较低。",
+    "examples": [
+      [
+        "The cheaper material is inferior in quality.",
+        "便宜的材料质量较差。"
+      ],
+      [
+        "She refused to accept that her work was inferior to his.",
+        "她不接受自己的作品比他的差这一说法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inferior#English"
+    ]
+  },
+  {
+    "word": "inferiority",
+    "ipa": "英 /ɪnˌfɪəriˈɒrəti/；美 /ɪnˌfɪriˈɔːrəti/",
+    "meaning": "劣势、较低状态；自卑感",
+    "sense": "对象在某方面比不过，是 inferiority；一个人总觉得自己比别人低一等，则常谈 feelings of inferiority。两者不能简单画等号。",
+    "split": "inferior + -ity，与拉丁 inferioritas 等相应名词材料对应；把比较的较低状态名词化。",
+    "history": [
+      [
+        "拉丁 inferus 在下面 → inferior 比较级",
+        "位置更低；进一步用于等级、品质"
+      ],
+      [
+        "inferior + -ity → inferiority 的对应形式",
+        "较低、较差状态；自卑感"
+      ],
+      [
+        "inferior／inferiority",
+        "较低、较差 → 这一状态或主观感觉"
+      ]
+    ],
+    "explanation": "a sense of inferiority 自卑感；an inferiority complex 自卑情结；numerical inferiority 数量劣势。",
+    "usage": "a sense of inferiority；numerical inferiority。",
+    "contrast": "inferiority 可以是数量等客观比较，也可以是主观自卑；感觉较差不证明自己实际处处较差。",
+    "examples": [
+      [
+        "The team overcame its numerical inferiority.",
+        "队伍克服了人数劣势。"
+      ],
+      [
+        "He struggled with feelings of inferiority.",
+        "他深受自卑感困扰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inferiority#English"
+    ]
+  },
+  {
+    "word": "morbid",
+    "ipa": "英 /ˈmɔːbɪd/；美 /ˈmɔːrbɪd/",
+    "meaning": "病态的；对死亡、恐怖等异常感兴趣的",
+    "sense": "总忍不住盯着死亡、灾难里令人不安的细节，常被叫作 morbid curiosity。医学文本里则可能直接说病态、疾病相关。",
+    "split": "接拉丁 morbidus 有病的，来自 morbus 疾病；心理、文学的现代用法从病态材料延伸。它不是 moral 道德的否定形式。",
+    "history": [
+      [
+        "拉丁 morbus 疾病 → morbidus 病态的 → morbid",
+        "疾病相关；引申为对死亡、恐怖的病态兴趣"
+      ],
+      [
+        "morbid + -ity → morbidity",
+        "患病状况；病态兴趣、气氛等性质"
+      ]
+    ],
+    "explanation": "morbid curiosity 病态好奇；a morbid fascination 对死亡、恐怖等的着迷；morbid changes 病理改变，后者专业语境。",
+    "usage": "morbid curiosity；a morbid fascination。",
+    "contrast": "morbid curiosity 往往是说话者的负面评价，不是给某人正式诊断；mortal 则常说会死亡的、致命的。",
+    "examples": [
+      [
+        "He admitted to a morbid curiosity about the abandoned hospital.",
+        "他承认自己对那所废弃医院有一种病态好奇。"
+      ],
+      [
+        "The film has a morbid fascination with death.",
+        "影片对死亡表现出一种病态的迷恋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/morbid#English"
+    ]
+  },
+  {
+    "word": "morbidity",
+    "ipa": "英 /mɔːˈbɪdəti/；美 /mɔːrˈbɪdəti/",
+    "meaning": "患病状况、疾病负担；病态性质",
+    "sense": "统计里问有多少人患病、疾病带来怎样的健康影响，常谈 morbidity。它把生病这件事与死亡这件事分开统计。",
+    "split": "morbid + -ity，接拉丁疾病材料；名词也可延续形容词的病态兴趣、阴郁气氛义，但公共健康文本常取患病义。",
+    "history": [
+      [
+        "拉丁 morbus 疾病 → morbidus 病态的 → morbid",
+        "疾病相关；引申为对死亡、恐怖的病态兴趣"
+      ],
+      [
+        "morbid + -ity → morbidity",
+        "患病状况；病态兴趣、气氛等性质"
+      ],
+      [
+        "morbid + -ity → morbidity",
+        "患病的状态、数量等；病态性质"
+      ]
+    ],
+    "explanation": "morbidity and mortality 患病与死亡；morbidity rates 患病相关比率，具体指标依研究定义；disease morbidity 疾病相关患病情况。",
+    "usage": "morbidity and mortality；morbidity rates。",
+    "contrast": "morbidity 关注患病，mortality 关注死亡；morbidity 也不能不看定义就一律当成某一种固定的发病率。",
+    "examples": [
+      [
+        "The study compares morbidity in the two groups.",
+        "研究比较两组的患病状况。"
+      ],
+      [
+        "The report records both morbidity and mortality.",
+        "报告同时记录患病和死亡情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/morbidity#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/morbidity"
+    ]
+  },
+  {
+    "word": "obscene",
+    "ipa": "/əbˈsiːn/",
+    "meaning": "淫秽、猥亵的；令人愤慨的；多得离谱的",
+    "sense": "常说露骨性内容让人觉得冒犯；也可强烈批评某个数额、差距大得离谱，如 an obscene amount of money。",
+    "split": "经法语接拉丁 obscenus、obscaenus，较远来源有争议。不要把“台下、场外”等流行拆词故事当成已确定的来历。",
+    "history": [
+      [
+        "拉丁 obscenus、obscaenus → 法语、英语 obscene",
+        "污秽、冒犯性等；更远拆分未定"
+      ],
+      [
+        "obscenus 的名词 obscenitas → obscenity",
+        "淫秽、猥亵；冒犯性言辞或极不公之事"
+      ]
+    ],
+    "explanation": "obscene language 淫秽言语；an obscene gesture 猥亵手势；an obscene amount 离谱的大量。",
+    "usage": "obscene language；an obscene amount of。",
+    "contrast": "obscene 的道德、程度评价常很强；普通不礼貌 rude 未必达到 obscene，也不是所有 obscene 都在说性。",
+    "examples": [
+      [
+        "The message contained obscene language.",
+        "消息里含有淫秽言语。"
+      ],
+      [
+        "The repairs cost an obscene amount of money.",
+        "维修花了一笔大得离谱的钱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obscene#English"
+    ]
+  },
+  {
+    "word": "obscenity",
+    "ipa": "英 /əbˈsenəti/；美 /əbˈsenəti/",
+    "meaning": "淫秽、猥亵；脏话；令人愤慨之事",
+    "sense": "obscene 描述内容、动作，obscenity 把这种性质或具体的话、事拿来谈。复数 obscenities 常说骂出的脏话。",
+    "split": "接拉丁 obscenitas 等名词，现代对应 obscene 去 e 加 -ity；重音处元音由 /iː/ 变成 /e/。",
+    "history": [
+      [
+        "拉丁 obscenus、obscaenus → 法语、英语 obscene",
+        "污秽、冒犯性等；更远拆分未定"
+      ],
+      [
+        "obscenus 的名词 obscenitas → obscenity",
+        "淫秽、猥亵；冒犯性言辞或极不公之事"
+      ],
+      [
+        "obscenitas → obscenity",
+        "冒犯性、淫秽性质；相应言辞、事物"
+      ]
+    ],
+    "explanation": "shout obscenities 高喊脏话；the obscenity of war 战争令人愤慨的残酷；obscenity laws 有关淫秽内容的法律称呼。",
+    "usage": "shout obscenities；the obscenity of。",
+    "contrast": "obscenity 作可数常是一句脏话、某件令人愤慨的事；不可数时讨论性质，不能只背成色情一种义。",
+    "examples": [
+      [
+        "He shouted obscenities at the screen.",
+        "他冲着屏幕大骂脏话。"
+      ],
+      [
+        "The novel exposes the obscenity of extreme inequality.",
+        "小说揭露了极端不平等令人愤慨的一面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obscenity#English"
+    ]
+  },
+  {
+    "word": "reactivity",
+    "ipa": "/ˌriːækˈtɪvəti/",
+    "meaning": "反应性；反应活性、容易反应的程度",
+    "sense": "同样遇到刺激，有的物质很容易反应，有的很稳定。reactivity 就把反应的倾向、程度拿出来比较。",
+    "split": "reactive 反应性的去 e 加 -ity；react 又由 re- 回与 act 行动材料构成。化学及其他领域把反应具体化，不能只按日常回一句话理解。",
+    "history": [
+      [
+        "react → reactive",
+        "作出反应 → 具有反应倾向"
+      ],
+      [
+        "reactive + -ity → reactivity",
+        "反应倾向、程度与能力"
+      ]
+    ],
+    "explanation": "chemical reactivity 化学反应活性；high reactivity 高反应性；emotional reactivity 情绪反应性，属于另一具体领域。",
+    "usage": "chemical reactivity；high reactivity。",
+    "contrast": "reactivity 不是 response time 反应时间的通用替代；易不易反应、反应多强、速度多快需按具体指标区分。",
+    "examples": [
+      [
+        "The experiment compares the reactivity of two metals.",
+        "实验比较两种金属的反应活性。"
+      ],
+      [
+        "The researchers measured changes in emotional reactivity.",
+        "研究者测量了情绪反应性的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reactivity#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/reactivity"
+    ]
+  },
+  {
+    "word": "irritate",
+    "ipa": "/ˈɪrɪteɪt/",
+    "meaning": "使烦躁、惹恼；刺激〔皮肤等〕",
+    "sense": "滴水声反复响，让你越来越烦，是 irritate；某种材料让皮肤发痒、发红，也是 irritate。共同点是引起不舒服的反应。",
+    "split": "借拉丁 irritatus，来自 irritare 激起、刺激；现代有 -ate 动词形式，不从英语 ir- 不加一个现代 rit 构词。",
+    "history": [
+      [
+        "拉丁 irritare 激起、刺激 → irritatus、irritabilis",
+        "刺激某物；容易被刺激的性质"
+      ],
+      [
+        "英语 irritate、irritable、irritability",
+        "使烦躁、刺激；易怒；易激惹程度"
+      ]
+    ],
+    "explanation": "irritate someone 惹恼某人；irritate the skin 刺激皮肤；irritating 令人烦、刺激性的。",
+    "usage": "irritate someone；irritate the skin。",
+    "contrast": "irritate 可说心理烦躁或身体刺激；frustrate 常说受阻后的挫败，二者可能同场出现但不等义。",
+    "examples": [
+      [
+        "The constant noise irritated her.",
+        "持续的噪声让她烦躁。"
+      ],
+      [
+        "The rough fabric irritated his skin.",
+        "粗糙的布料刺激了他的皮肤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/irritate#English"
+    ]
+  },
+  {
+    "word": "irritable",
+    "ipa": "/ˈɪrɪtəbl/",
+    "meaning": "易怒、易烦躁的；易受刺激的",
+    "sense": "平时的小事现在一点就着，动不动就烦，可以说 irritable。它说容易被惹动，不是自己总在主动惹别人。",
+    "split": "经法语接拉丁 irritabilis，来自 irritare 刺激；现代与 irritate 对应，-able 表容易受到作用等性质。",
+    "history": [
+      [
+        "拉丁 irritare 激起、刺激 → irritatus、irritabilis",
+        "刺激某物；容易被刺激的性质"
+      ],
+      [
+        "英语 irritate、irritable、irritability",
+        "使烦躁、刺激；易怒；易激惹程度"
+      ]
+    ],
+    "explanation": "feel irritable 感到烦躁易怒；an irritable mood 烦躁情绪；专业文本也可指组织等易受刺激。",
+    "usage": "feel irritable；an irritable mood。",
+    "contrast": "irritable 说容易烦躁的人、状态，irritating 说让别人烦的事；两种角色要分开。",
+    "examples": [
+      [
+        "He becomes irritable when he is tired.",
+        "他累的时候容易烦躁。"
+      ],
+      [
+        "She was unusually irritable that morning.",
+        "那天早晨她格外容易发火。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/irritable#English"
+    ]
+  },
+  {
+    "word": "irritability",
+    "ipa": "/ˌɪrɪtəˈbɪləti/",
+    "meaning": "易怒、烦躁；易激惹性",
+    "sense": "不是某一次发火，而是这段时间多容易被小事激起烦躁，这种倾向叫 irritability。专业文本也有相应刺激反应义。",
+    "split": "接拉丁 irritabilitas 等名词，现代对应 irritable + -ity，-able 改为 -ability。",
+    "history": [
+      [
+        "拉丁 irritare 激起、刺激 → irritatus、irritabilis",
+        "刺激某物；容易被刺激的性质"
+      ],
+      [
+        "英语 irritate、irritable、irritability",
+        "使烦躁、刺激；易怒；易激惹程度"
+      ],
+      [
+        "irritabilis → irritabilitas；irritable → irritability",
+        "容易受刺激的性质、程度"
+      ]
+    ],
+    "explanation": "increased irritability 烦躁增加；signs of irritability 烦躁表现；irritability and fatigue 易怒与疲劳。",
+    "usage": "increased irritability；signs of irritability。",
+    "contrast": "irritability 是容易烦躁的状态，irritation 可是已经出现的烦恼、刺激；倾向与当次反应角度不同。",
+    "examples": [
+      [
+        "The diary records changes in mood and irritability.",
+        "日记记录了心情和烦躁程度的变化。"
+      ],
+      [
+        "Lack of sleep increased his irritability.",
+        "缺觉让他更容易烦躁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/irritability#English"
+    ]
+  },
+  {
+    "word": "tranquil",
+    "ipa": "/ˈtræŋkwɪl/",
+    "meaning": "宁静、安稳的",
+    "sense": "没有喧闹，也没有催着人紧张的扰动，像清晨的小湖，是 tranquil 的画面。可以形容地方，也能形容心境。",
+    "split": "借法语 tranquille，上接拉丁 tranquillus 安静、平稳；不需要按今天拼写猜出两个独立英文部分。",
+    "history": [
+      [
+        "拉丁 tranquillus → 法语 tranquille → tranquil",
+        "安静、平稳、未受打扰的"
+      ],
+      [
+        "拉丁 tranquillitas 等经法语 → tranquillity",
+        "安宁的状态；现代有单、双 l 拼写习惯"
+      ]
+    ],
+    "explanation": "a tranquil village 宁静村庄；a tranquil setting 安静环境；feel tranquil 心情平和。",
+    "usage": "a tranquil setting；a tranquil village。",
+    "contrast": "tranquil 重宁静、未受扰动，quiet 可只说音量小；安静的地方若充满紧张气氛，也未必 tranquil。",
+    "examples": [
+      [
+        "We stayed in a tranquil village by the lake.",
+        "我们住在湖边一个宁静的村庄。"
+      ],
+      [
+        "The music helped create a tranquil atmosphere.",
+        "音乐帮助营造了安宁的气氛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tranquil#English"
+    ]
+  },
+  {
+    "word": "tranquillity",
+    "ipa": "/træŋˈkwɪləti/",
+    "meaning": "宁静、安宁",
+    "sense": "tranquil 描述一个地方、心境安宁，tranquillity 则是那份可以享受、被打破的宁静。",
+    "split": "经法语接拉丁 tranquillitas；现代与 tranquil + -ity 对应。双 l 的 tranquillity 常见英式，单 l 的 tranquility 常见美式。",
+    "history": [
+      [
+        "拉丁 tranquillus → 法语 tranquille → tranquil",
+        "安静、平稳、未受打扰的"
+      ],
+      [
+        "拉丁 tranquillitas 等经法语 → tranquillity",
+        "安宁的状态；现代有单、双 l 拼写习惯"
+      ],
+      [
+        "tranquillitas → tranquillity／tranquility",
+        "宁静的状态"
+      ]
+    ],
+    "explanation": "peace and tranquillity 平静安宁；the tranquillity of the countryside 乡村的宁静；disturb the tranquillity 打破宁静。",
+    "usage": "peace and tranquillity；disturb the tranquillity。",
+    "contrast": "tranquillity 与 serenity 都能说平和；tranquillity 常突出环境、生活免于扰动，具体用法仍有重合。",
+    "examples": [
+      [
+        "We enjoyed the tranquillity of the countryside.",
+        "我们享受了乡村的宁静。"
+      ],
+      [
+        "The traffic disturbed the tranquillity of the village.",
+        "车流打破了村里的宁静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tranquillity#English"
+    ]
+  },
+  {
+    "word": "serendipity",
+    "ipa": "/ˌserənˈdɪpəti/",
+    "meaning": "意外的幸运发现；机缘巧合",
+    "sense": "找一本书，却在旁边发现一本恰好解决难题的书，这种没计划却有收获的幸运，叫 serendipity。旧故事还带善于观察、识出价值的成分。",
+    "split": "Walpole 在 1754 年一封信中借 The Three Princes of Serendip 的地名加 -ity 造词；Serendip 是斯里兰卡旧称。不是 serene 宁静的派生。",
+    "history": [
+      [
+        "故事 The Three Princes of Serendip；Serendip 为斯里兰卡旧称",
+        "人物在寻找别的东西时，凭偶然与观察有所发现"
+      ],
+      [
+        "Walpole 于 1754 年造 serendipity → serendipitous",
+        "意外而有价值的发现；这类巧合带来的"
+      ]
+    ],
+    "explanation": "by serendipity 因机缘巧合；a moment of serendipity 一次意外幸运发现；常用于发现、相遇。",
+    "usage": "by serendipity；a moment of serendipity。",
+    "contrast": "serendipity 含意外且有收获，accident 意外本身可好可坏；不是每件突发事故都叫 serendipity。",
+    "examples": [
+      [
+        "By serendipity, I found the exact book I needed.",
+        "机缘巧合之下，我找到了正需要的那本书。"
+      ],
+      [
+        "Their meeting was a wonderful example of serendipity.",
+        "他们的相遇是幸运巧合的一个美好例子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serendipity#English",
+      "https://www.etymonline.com/word/serendipity"
+    ]
+  },
+  {
+    "word": "serendipitous",
+    "ipa": "/ˌserənˈdɪpɪtəs/",
+    "meaning": "意外而幸运的；机缘巧合带来的",
+    "sense": "serendipity 是那份意外幸运，serendipitous 则拿来形容相遇、发现：原本没有计划，却恰好带来好结果。",
+    "split": "由 serendipity 改用相应词干 serendipit- 接 -ous，形成性质形容词；不把末尾随意切成独立英文单词。",
+    "history": [
+      [
+        "故事 The Three Princes of Serendip；Serendip 为斯里兰卡旧称",
+        "人物在寻找别的东西时，凭偶然与观察有所发现"
+      ],
+      [
+        "Walpole 于 1754 年造 serendipity → serendipitous",
+        "意外而有价值的发现；这类巧合带来的"
+      ],
+      [
+        "serendipity → serendipitous",
+        "带有意外幸运发现性质的"
+      ]
+    ],
+    "explanation": "a serendipitous discovery 幸运的意外发现；a serendipitous encounter 幸运巧遇。",
+    "usage": "a serendipitous discovery；a serendipitous encounter。",
+    "contrast": "serendipitous 通常看见偶然带来的好处，deliberate 是有意安排；事后受益不等于事先计划好了。",
+    "examples": [
+      [
+        "A serendipitous discovery changed the direction of the project.",
+        "一次幸运的意外发现改变了项目方向。"
+      ],
+      [
+        "We had a serendipitous encounter in a small bookshop.",
+        "我们在一家小书店幸运巧遇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serendipitous#English",
+      "https://www.etymonline.com/word/serendipity"
+    ]
+  },
+  {
+    "word": "proportionality",
+    "ipa": "英 /prəˌpɔːʃəˈnæləti/；美 /prəˌpɔːrʃəˈnæləti/",
+    "meaning": "比例关系；相称性",
+    "sense": "一份配方做两倍量，某成分也按相同比例增加，这是 proportionality 的数量画面；日常还可讨论投入与事情大小是否相称。",
+    "split": "proportional 成比例的 + -ity，与拉丁 proportionalitas 等对应；不是只有最后的 -ity 才决定具体比例。",
+    "history": [
+      [
+        "proportion → proportional",
+        "比例、份额 → 成比例或相称的"
+      ],
+      [
+        "proportional + -ity → proportionality",
+        "比例关系；相称的性质"
+      ]
+    ],
+    "explanation": "direct proportionality 正比例关系；a constant of proportionality 比例常数；the principle of proportionality 相称原则，具体领域另有定义。",
+    "usage": "direct proportionality；a constant of proportionality。",
+    "contrast": "proportionality 需要明确两个量或对象，correlation 相关性不必是恒定比例；不能见一起增减就说严格成比例。",
+    "examples": [
+      [
+        "The graph illustrates direct proportionality.",
+        "图表展示了正比例关系。"
+      ],
+      [
+        "The discussion focused on proportionality between effort and reward.",
+        "讨论聚焦付出与回报是否相称。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proportionality#English"
+    ]
+  },
+  {
+    "word": "religiosity",
+    "ipa": "英 /rɪˌlɪdʒiˈɒsəti/；美 /rɪˌlɪdʒiˈɑːsəti/",
+    "meaning": "宗教性、虔诚程度；过分表露的虔诚〔有时含贬义〕",
+    "sense": "不是问属于哪种宗教，而是信仰、实践在生活里占多少分量。学术上可中性测量，某些文章也用它批评表面的过度虔诚。",
+    "split": "接拉丁 religiositas 等，与 religious 宗教的、虔诚的加 -ity 对应，词干显为 religios-。",
+    "history": [
+      [
+        "拉丁 religiosus → religiositas",
+        "宗教、虔诚的性质"
+      ],
+      [
+        "英语 religious／religiosity",
+        "宗教性质及实践、虔诚程度"
+      ]
+    ],
+    "explanation": "levels of religiosity 宗教性程度；personal religiosity 个人宗教性；public religiosity 公开表现的宗教性。",
+    "usage": "levels of religiosity；personal religiosity。",
+    "contrast": "religiosity 不等于某一种 religion 宗教；也不必处处贬义，研究文本常是描述性概念。",
+    "examples": [
+      [
+        "The survey asked about changes in personal religiosity.",
+        "调查询问个人宗教性程度的变化。"
+      ],
+      [
+        "The essay criticises displays of empty religiosity.",
+        "文章批评空洞的虔诚表演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/religiosity#English"
+    ]
+  },
+  {
+    "word": "unpopularity",
+    "ipa": "英 /ˌʌnpɒpjuˈlærəti/；美 /ˌʌnpɑːpjuˈlærəti/",
+    "meaning": "不受欢迎；不得人心",
+    "sense": "不是没人听说，而是知道它的人里很多人不喜欢。某政策的 unpopularity 说的是这种不受支持的状态。",
+    "split": "可对应 un- 不 + popularity 受欢迎程度，也可按 unpopular + -ity 理解性质；两种是现代词形关系。",
+    "history": [
+      [
+        "popular → unpopular／popularity",
+        "受欢迎 → 不受欢迎／受欢迎程度"
+      ],
+      [
+        "unpopularity",
+        "不受欢迎、支持不足的状态"
+      ]
+    ],
+    "explanation": "the unpopularity of a policy 政策不受欢迎；growing unpopularity 越来越不得人心；widespread unpopularity 普遍不受欢迎。",
+    "usage": "the unpopularity of；growing unpopularity。",
+    "contrast": "unpopularity 是不受喜欢，obscurity 是不为人知；知名度高也可能非常不受欢迎。",
+    "examples": [
+      [
+        "The policy’s unpopularity surprised the minister.",
+        "政策不受欢迎的程度令部长惊讶。"
+      ],
+      [
+        "The report explains the growing unpopularity of the scheme.",
+        "报告解释了该方案为何越来越不受欢迎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpopularity#English"
+    ]
+  },
+  {
+    "word": "dignity",
+    "ipa": "/ˈdɪɡnəti/",
+    "meaning": "尊严；庄重、体面",
+    "sense": "无论处境好坏，都应被当作一个值得尊重的人，这一层是 dignity；面对困难仍保持沉着体面，也常用它。",
+    "split": "经法语 dignité 接拉丁 dignitas，来自 dignus 值得、合宜；词干 dign- 与 -ity 对应，不存在现代独立词 dig 表挖而派生尊严。",
+    "history": [
+      [
+        "拉丁 dignus 值得、合宜 → dignitas → 法语 dignité",
+        "值得尊重的地位、品质"
+      ],
+      [
+        "英语 dignity；拉丁 indignitas → indignity",
+        "尊严；不相称、不尊重的对待、侮辱"
+      ]
+    ],
+    "explanation": "human dignity 人的尊严；treat someone with dignity 尊重地对待；maintain dignity 保持尊严、体面。",
+    "usage": "human dignity；with dignity。",
+    "contrast": "dignity 不只属于有头衔的人；dignitary 才是显要人物的称呼，两词不能按社会地位混为一谈。",
+    "examples": [
+      [
+        "Everyone should be treated with dignity.",
+        "每个人都应受到尊重。"
+      ],
+      [
+        "She accepted the decision with dignity.",
+        "她体面沉着地接受了决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dignity#English",
+      "https://www.etymonline.com/word/dignity"
+    ]
+  },
+  {
+    "word": "indignity",
+    "ipa": "/ɪnˈdɪɡnəti/",
+    "meaning": "侮辱；有损尊严的对待、经历",
+    "sense": "把人晾在一边、当众羞辱，伤害的不是一件物品，而是这个人应受的尊重，这类待遇叫 an indignity。",
+    "split": "借拉丁 indignitas，来自 indignus 不合身份、不值得等，in- 否定与 dign- 值得材料相连。现代可与 dignity 对照，但不是缺少自信的简单标签。",
+    "history": [
+      [
+        "拉丁 dignus 值得、合宜 → dignitas → 法语 dignité",
+        "值得尊重的地位、品质"
+      ],
+      [
+        "英语 dignity；拉丁 indignitas → indignity",
+        "尊严；不相称、不尊重的对待、侮辱"
+      ],
+      [
+        "拉丁 indignitas → indignity",
+        "不相称、不尊重 → 侮辱、有损尊严的经历"
+      ]
+    ],
+    "explanation": "suffer an indignity 遭受侮辱；the indignity of something 某事带来的屈辱；further indignities 更多羞辱。",
+    "usage": "suffer an indignity；the indignity of。",
+    "contrast": "indignity 是有损尊严的事、待遇，indignation 是对此类不公产生的愤慨；一个常是遭遇，一个是情绪。",
+    "examples": [
+      [
+        "They endured the indignity of being ignored.",
+        "他们忍受了被无视的屈辱。"
+      ],
+      [
+        "She refused to accept further indignities.",
+        "她拒绝继续忍受羞辱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indignity#English"
+    ]
+  },
+  {
+    "word": "employability",
+    "ipa": "/ɪmˌplɔɪəˈbɪləti/",
+    "meaning": "就业能力；受雇潜力",
+    "sense": "不是现在有没有工作，而是知识、技能、经验能不能帮助你找到并胜任工作。这个可被雇用的条件叫 employability。",
+    "split": "employable 可雇用、具就业能力的 + -ity，-able 对应 -ability；再上接 employ 雇用、使用的词族。",
+    "history": [
+      [
+        "employ → employable",
+        "雇用 → 适合受雇的"
+      ],
+      [
+        "employable + -ity → employability",
+        "具备受雇、就业条件的程度"
+      ]
+    ],
+    "explanation": "improve employability 提升就业能力；graduate employability 毕业生就业能力；employability skills 就业所需技能。",
+    "usage": "improve employability；employability skills。",
+    "contrast": "employability 不是 employment 就业状态：有能力的人也可能暂时失业，已就业的人仍可提升技能。",
+    "examples": [
+      [
+        "The course aims to improve students’ employability.",
+        "课程旨在提升学生的就业能力。"
+      ],
+      [
+        "Work experience can strengthen graduate employability.",
+        "工作经验能增强毕业生的受雇潜力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/employability#English"
+    ]
+  },
+  {
+    "word": "festive",
+    "ipa": "/ˈfestɪv/",
+    "meaning": "节庆的；喜庆、欢乐的",
+    "sense": "彩灯亮起、大家聚在一起庆祝，那种像过节的热闹气氛是 festive。普通一天也可以被装点得很喜庆。",
+    "split": "经法语 festif 接拉丁 festivus，与节庆 festum 等材料相关。今天与 feast 同族相照，但不是 feast 直接保留全部拼写加 -ive。",
+    "history": [
+      [
+        "拉丁 festum 节庆等 → festivus → 法语 festif → festive",
+        "与庆典有关；欢乐、有节日气氛"
+      ],
+      [
+        "拉丁 festivitas 经法语 → festivity",
+        "节庆活动；欢庆的状态"
+      ]
+    ],
+    "explanation": "a festive atmosphere 节日气氛；festive decorations 喜庆装饰；the festive season 英式常指圣诞、新年这一节庆时段。",
+    "usage": "a festive atmosphere；festive decorations。",
+    "contrast": "festive 是有庆祝气氛，festival 是节庆、艺术节等名词；修饰房间时可说 looks festive，不用把它当举办了一场 festival。",
+    "examples": [
+      [
+        "The lights gave the room a festive atmosphere.",
+        "灯光让房间有了喜庆气氛。"
+      ],
+      [
+        "Everyone was in a festive mood.",
+        "大家都沉浸在欢庆的心情里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/festive#English"
+    ]
+  },
+  {
+    "word": "festivity",
+    "ipa": "/feˈstɪvəti/",
+    "meaning": "欢庆；庆祝活动〔常用复数〕",
+    "sense": "festive 是喜庆的，festivity 把欢庆的气氛、活动拿来谈；看到 festivities，往往是整套庆祝活动。",
+    "split": "经法语接拉丁 festivitas；现代对应 festive 去 e 加 -ity，重音从前移向中间。",
+    "history": [
+      [
+        "拉丁 festum 节庆等 → festivus → 法语 festif → festive",
+        "与庆典有关；欢乐、有节日气氛"
+      ],
+      [
+        "拉丁 festivitas 经法语 → festivity",
+        "节庆活动；欢庆的状态"
+      ],
+      [
+        "festivitas → festivity",
+        "欢庆、喜庆；具体庆祝活动"
+      ]
+    ],
+    "explanation": "join the festivities 参加庆祝活动；holiday festivities 节日庆典；an air of festivity 喜庆气氛。",
+    "usage": "join the festivities；holiday festivities。",
+    "contrast": "festivities 通常是一组庆祝活动，festival 常是有名称、安排的节庆事件；两者有交集但不总互换。",
+    "examples": [
+      [
+        "The festivities continued late into the night.",
+        "庆祝活动持续到深夜。"
+      ],
+      [
+        "There was an air of festivity in the town.",
+        "镇上洋溢着喜庆气氛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/festivity#English"
+    ]
+  },
+  {
+    "word": "solemn",
+    "ipa": "英 /ˈsɒləm/；美 /ˈsɑːləm/",
+    "meaning": "庄严、严肃的；郑重的",
+    "sense": "面对重要承诺、纪念仪式，神情认真，不是随口说说，这种郑重是 solemn。它不必意味着心情悲伤。",
+    "split": "经法语接拉丁 sollemnis 等仪式、惯例材料；更远来源有分歧。现代拼写 n 通常不单独发音，不能据此删去字母。",
+    "history": [
+      [
+        "拉丁 sollemnis 等 → 法语 solemne → solemn",
+        "按仪式、庄严、正式；更远词源未定"
+      ],
+      [
+        "拉丁 sollemnitas 等 → solemnity",
+        "仪式的庄严；严肃、郑重的态度"
+      ]
+    ],
+    "explanation": "a solemn promise 郑重承诺；a solemn ceremony 庄严仪式；a solemn expression 严肃神情。",
+    "usage": "a solemn promise；a solemn ceremony。",
+    "contrast": "solemn 重郑重、严肃，sad 是悲伤；婚礼承诺可以 solemn，也可以充满喜悦。",
+    "examples": [
+      [
+        "She made a solemn promise to return.",
+        "她郑重承诺会回来。"
+      ],
+      [
+        "The ceremony was solemn and moving.",
+        "仪式庄严而动人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/solemn#English"
+    ]
+  },
+  {
+    "word": "solemnity",
+    "ipa": "/səˈlemnəti/",
+    "meaning": "庄严、严肃；郑重仪式",
+    "sense": "solemn 描述气氛庄严，solemnity 是这份使人认真对待的庄重。可以谈态度，也可在较正式文本里指礼仪活动。",
+    "split": "经法语接拉丁 sollemnitas；现代对应 solemn + -ity。solemn 常不发 n，solemnity 的 /mn/ 则把 n 读出来。",
+    "history": [
+      [
+        "拉丁 sollemnis 等 → 法语 solemne → solemn",
+        "按仪式、庄严、正式；更远词源未定"
+      ],
+      [
+        "拉丁 sollemnitas 等 → solemnity",
+        "仪式的庄严；严肃、郑重的态度"
+      ],
+      [
+        "sollemnitas → solemnity",
+        "庄重性质；正式礼仪、庆典"
+      ]
+    ],
+    "explanation": "the solemnity of the occasion 场合的庄严；with great solemnity 十分郑重地；religious solemnities 宗教礼仪，较正式。",
+    "usage": "the solemnity of；with solemnity。",
+    "contrast": "solemnity 是郑重、庄严，solitude 是独处；相似开头不表示安静独处必然就是仪式庄严。",
+    "examples": [
+      [
+        "Everyone respected the solemnity of the occasion.",
+        "每个人都尊重这个场合的庄严。"
+      ],
+      [
+        "He announced the decision with great solemnity.",
+        "他十分郑重地宣布了决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/solemnity#English"
+    ]
+  },
+  {
+    "word": "reproducibility",
+    "ipa": "/ˌriːprəˌdjuːsəˈbɪləti/，美式常省 /j/",
+    "meaning": "可重现性；可复现性",
+    "sense": "不是只成功一次，而是过程、数据交代清楚后，能否把结果重新做出来。这种可再现的性质是 reproducibility。",
+    "split": "reproducible 可重现的 + -ity，-ible 对应 -ibility；更早是 re- 再 + produce 产生的词族。",
+    "history": [
+      [
+        "re- + produce → reproduce → reproducible",
+        "再次产生、重现 → 可重现的"
+      ],
+      [
+        "reproducible + -ity → reproducibility",
+        "结果、过程可再现的性质"
+      ]
+    ],
+    "explanation": "the reproducibility of results 结果的可重现性；improve reproducibility 提高可复现性。不同学科对与 replicability 等术语的边界有具体约定。",
+    "usage": "the reproducibility of results；improve reproducibility。",
+    "contrast": "reproducibility 关心结果能否再次获得，不是简单把同一张结果图片复制一份；具体要求要看领域和研究约定。",
+    "examples": [
+      [
+        "The team shared its code to improve reproducibility.",
+        "团队分享代码，以提高可复现性。"
+      ],
+      [
+        "The reviewers asked about the reproducibility of the results.",
+        "审稿人询问结果的可重现性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reproducibility#English"
+    ]
+  },
+  {
+    "word": "banality",
+    "ipa": "/bəˈnæləti/",
+    "meaning": "平庸、陈腐；陈词滥调",
+    "sense": "一句话听起来好像说了什么，其实只是人人听过的空泛套话，是 a banality；整部作品缺少新意，也能批评它的 banality。",
+    "split": "借法语 banalité，现代对应 banal 平庸的 + -ity；banal 的旧公共、常见材料走向普通得乏味。",
+    "history": [
+      [
+        "法语 banal 平常、陈腐 → banalité",
+        "常见到无新意的性质"
+      ],
+      [
+        "英语 banality",
+        "平庸；一句陈腐套话"
+      ]
+    ],
+    "explanation": "the banality of something 某物的平庸；a speech full of banalities 满是套话的讲话。性质义常不可数，套话义可数。",
+    "usage": "full of banalities；the banality of。",
+    "contrast": "banality 评价缺少新意、深度，simplicity 只是简单；讲得简单明白并不等于陈腐空洞。",
+    "examples": [
+      [
+        "The speech was full of banalities.",
+        "讲话满是陈词滥调。"
+      ],
+      [
+        "Critics complained about the banality of the plot.",
+        "评论者批评情节平庸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/banality#English"
+    ]
+  },
+  {
+    "word": "impulsive",
+    "ipa": "/ɪmˈpʌlsɪv/",
+    "meaning": "冲动的；凭一时兴起的",
+    "sense": "念头一冒出来就做了，还没来得及好好想后果，就是 impulsive。买东西、答应请求、改计划都能这样。",
+    "split": "经法语接拉丁 impulsivus，来自 impulsus 推动、冲动；现代与 impulse 对应 -ive 性质材料，词干不是 pulse 脉搏的所有义。",
+    "history": [
+      [
+        "拉丁 impellere 推动 → impulsus → impulsivus",
+        "推力、冲动 → 冲动驱动的性质"
+      ],
+      [
+        "法语 impulsif → impulsive → impulsivity",
+        "冲动的；冲动倾向"
+      ]
+    ],
+    "explanation": "an impulsive decision 冲动决定；an impulsive purchase 一时冲动的购买；an impulsive person 容易冲动的人。",
+    "usage": "an impulsive decision；an impulsive purchase。",
+    "contrast": "impulsive 常强调没深思就行动，spontaneous 更中性地说自然、自发；两者重叠，但评价倾向不同。",
+    "examples": [
+      [
+        "It was an impulsive decision to book the trip.",
+        "订下旅程是一时冲动的决定。"
+      ],
+      [
+        "She regretted the impulsive purchase.",
+        "她后悔了那次冲动购物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impulsive#English"
+    ]
+  },
+  {
+    "word": "impulsivity",
+    "ipa": "/ˌɪmpʌlˈsɪvəti/",
+    "meaning": "冲动性；冲动行事的倾向",
+    "sense": "impulsive 可以形容一次决定，impulsivity 更常把容易冲动的行为倾向、程度当作研究或讨论对象。",
+    "split": "impulsive 去 e 加 -ity，形成性质名词；沿用 impulse 冲动的材料，末尾不是单独的 city。",
+    "history": [
+      [
+        "拉丁 impellere 推动 → impulsus → impulsivus",
+        "推力、冲动 → 冲动驱动的性质"
+      ],
+      [
+        "法语 impulsif → impulsive → impulsivity",
+        "冲动的；冲动倾向"
+      ],
+      [
+        "impulsive + -ity → impulsivity",
+        "快速凭冲动行动的倾向、程度"
+      ]
+    ],
+    "explanation": "levels of impulsivity 冲动性程度；measure impulsivity 测量冲动性；impulsivity and planning 冲动性与计划能力。",
+    "usage": "measure impulsivity；levels of impulsivity。",
+    "contrast": "impulsivity 讨论一种倾向，不是把所有快速决定都定为坏决定；有准备后的迅速判断也可能很审慎。",
+    "examples": [
+      [
+        "The study measured impulsivity using several tasks.",
+        "研究通过几项任务测量冲动性。"
+      ],
+      [
+        "The article explores links between stress and impulsivity.",
+        "文章探讨压力与冲动性之间的联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impulsivity#English"
+    ]
+  },
+  {
+    "word": "alkalinity",
+    "ipa": "/ˌælkəˈlɪnəti/",
+    "meaning": "碱性；碱度",
+    "sense": "日常可概括说偏碱的性质；水质里 alkalinity 还常问这份水能中和多少酸，是它抵抗酸化的一项容量指标。",
+    "split": "alkaline 碱性的去 e 加 -ity；alkali 远接阿拉伯语植物灰的材料，灰被用于提取碱性物质。技术义随化学领域确定。",
+    "history": [
+      [
+        "alkali → alkaline",
+        "碱类、碱性物质 → 碱性的"
+      ],
+      [
+        "alkaline + -ity → alkalinity",
+        "碱性；水等体系的中和酸能力"
+      ]
+    ],
+    "explanation": "water alkalinity 水的碱度；high alkalinity 高碱度；measure alkalinity 测定碱度。讨论水质时不能仅当作 pH 的另一个名字。",
+    "usage": "water alkalinity；measure alkalinity。",
+    "contrast": "pH 说当下酸碱状况的一个量，水质 alkalinity 常说中和酸的容量；两者有关联，却不是同一个指标。",
+    "examples": [
+      [
+        "The laboratory measured the alkalinity of the water.",
+        "实验室测定了水的碱度。"
+      ],
+      [
+        "The report lists pH and alkalinity separately.",
+        "报告分别列出了 pH 和碱度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alkalinity#English",
+      "https://www.usgs.gov/water-science-school/science/alkalinity-and-water"
+    ]
+  },
+  {
+    "word": "gullibility",
+    "ipa": "/ˌɡʌləˈbɪləti/",
+    "meaning": "轻信；容易上当的倾向",
+    "sense": "别人把故事说得像真的，你没有核实就信了，这种容易被哄住的倾向叫 gullibility。重点是信得太容易。",
+    "split": "gullible 容易受骗的 + -ity，-ible 对应 -ibility；gull 的欺骗动词材料是相关词族，不能只按海鸥的名词义硬解释。",
+    "history": [
+      [
+        "gull 欺骗等 → gullible",
+        "容易被欺骗、轻信的"
+      ],
+      [
+        "gullible + -ity → gullibility",
+        "轻信、容易上当的性质"
+      ]
+    ],
+    "explanation": "exploit gullibility 利用轻信；human gullibility 人的轻信；a reputation for gullibility 容易受骗的名声。",
+    "usage": "exploit gullibility；human gullibility。",
+    "contrast": "gullibility 说缺乏审查就轻信，trust 是信任，可能有充分依据；合理信任与容易受骗不同。",
+    "examples": [
+      [
+        "The scheme relied on people’s gullibility.",
+        "这个骗局利用了人们的轻信。"
+      ],
+      [
+        "The story is a warning about gullibility.",
+        "故事提醒人们提防轻信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gullibility#English"
+    ]
+  },
+  {
+    "word": "receptive",
+    "ipa": "/rɪˈseptɪv/",
+    "meaning": "乐于接受的；能接收的",
+    "sense": "别人提出新想法，你愿意先听、考虑，而不是一开始就关门，这种开放态度是 receptive。",
+    "split": "借中世纪拉丁 receptivus，接拉丁 receptus，来自 recipere 接受；recept- 是与 receive 对应的历史词干，不是 receipt 收据的唯一义。",
+    "history": [
+      [
+        "拉丁 recipere 接受 → receptus → 中世纪拉丁 receptivus",
+        "能够接收、容纳"
+      ],
+      [
+        "英语 receptive → receptivity",
+        "乐于接受、能接收；开放接受的性质"
+      ]
+    ],
+    "explanation": "be receptive to ideas 愿意接受想法；a receptive audience 愿意听的观众；receptive language 理解性语言能力，专门用法。",
+    "usage": "be receptive to；a receptive audience。",
+    "contrast": "receptive 是愿意接收、考虑，不保证最后同意；agree 是同意，阶段不同。",
+    "examples": [
+      [
+        "The team was receptive to new ideas.",
+        "团队愿意听取新想法。"
+      ],
+      [
+        "She found a receptive audience for her proposal.",
+        "她的提案遇到了愿意听取的听众。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/receptive#English"
+    ]
+  },
+  {
+    "word": "receptivity",
+    "ipa": "/ˌriːsepˈtɪvəti/",
+    "meaning": "接受意愿；接受能力、敏感程度",
+    "sense": "receptive 说愿意听，receptivity 则说这种开放程度：同一提案在不同群体里，可能遇到不同接受意愿。",
+    "split": "receptive 去 e 加 -ity，保留 recept- 接受的词干，形成性质名词；具体领域也可指接收刺激的能力。",
+    "history": [
+      [
+        "拉丁 recipere 接受 → receptus → 中世纪拉丁 receptivus",
+        "能够接收、容纳"
+      ],
+      [
+        "英语 receptive → receptivity",
+        "乐于接受、能接收；开放接受的性质"
+      ],
+      [
+        "receptive + -ity → receptivity",
+        "愿意、能够接受的性质与程度"
+      ]
+    ],
+    "explanation": "receptivity to new ideas 对新想法的开放程度；increase receptivity 提高接受意愿；audience receptivity 受众接受意愿。",
+    "usage": "receptivity to；audience receptivity。",
+    "contrast": "receptivity 常是开放接纳，gullibility 是过度轻信；愿意考虑新观点不等于不核实就全信。",
+    "examples": [
+      [
+        "The workshop increased receptivity to different viewpoints.",
+        "工作坊让大家更愿意接纳不同观点。"
+      ],
+      [
+        "The study measured audience receptivity to the message.",
+        "研究测量受众对这条信息的接受意愿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/receptivity#English"
+    ]
+  },
+  {
+    "word": "reversibility",
+    "ipa": "/rɪˌvɜːsəˈbɪləti/，美 /rɪˌvɜːrsəˈbɪləti/",
+    "meaning": "可逆性；可恢复性",
+    "sense": "变化发生后，还能不能沿某种过程回到原来的状态，是 reversibility 要问的事。关键是能否还原，而不是单纯反着看一遍。",
+    "split": "reversible 可逆的 + -ity，-ible 对应 -ibility；reverse 反转、恢复的词族来自拉丁转回的材料。",
+    "history": [
+      [
+        "reverse → reversible",
+        "反转、回转 → 可以逆转的"
+      ],
+      [
+        "reversible + -ity → reversibility",
+        "过程可逆、可恢复的性质"
+      ]
+    ],
+    "explanation": "the reversibility of a change 变化的可逆性；chemical reversibility 化学可逆性；a test of reversibility 可逆性测试，具体标准随领域。",
+    "usage": "the reversibility of；chemical reversibility。",
+    "contrast": "reversibility 关心状态或过程能否逆转，repetition 是重复；再发生一次不等于已经回到原点。",
+    "examples": [
+      [
+        "The experiment tests the reversibility of the change.",
+        "实验检验这种变化是否可逆。"
+      ],
+      [
+        "The design allows the team to assess reversibility before making a larger change.",
+        "这种设计让团队能在作更大改动前评估可恢复性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reversibility#English"
+    ]
+  }
+]

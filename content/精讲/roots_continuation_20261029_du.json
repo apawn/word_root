@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B3073",
+    "meaning": "宽；宽度、扩大与范围广",
+    "core": "WIDE：两边距离大，事情覆盖的范围也大",
+    "image": "先看宽、宽度、加宽，再看广泛地和普遍存在；屏幕、频带的宽各有具体维度。",
+    "intro": "wide 继承古英语宽、远、大的词义。width 体现名词派生的词形差别，不能把每个形式都按完整 wide 直接拼接。",
+    "forms": "wide → width、widen、widely；wide + spread → widespread；wide + screen、band。\n\nwide 继承古英语 wīd；比较级、最高级都先去 e，再分别加完整 -er、-est，空间宽度和抽象范围都可比较。",
+    "branches": [
+      [
+        "空间性质与变化",
+        "wide · width · widen"
+      ],
+      [
+        "广泛范围",
+        "widely · widespread"
+      ],
+      [
+        "技术中的宽",
+        "widescreen · wideband"
+      ],
+      [
+        "wide → wider → widest：宽度与覆盖范围",
+        "wide · wider · widest"
+      ]
+    ],
+    "contrasts": "wide open 与 widely used 分开记；widespread 普遍不等于受欢迎；widescreen 看画幅比例。",
+    "practice": "The widely used road will be widened next year.\n\n这条使用广泛的道路明年将拓宽。",
+    "words": [
+      "wide",
+      "width",
+      "widen",
+      "widely",
+      "widespread",
+      "widescreen",
+      "wideband",
+      "wider",
+      "widest"
+    ],
+    "exclude": {
+      "wide-body": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wide-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wideout": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3682",
+    "meaning": "中间位置、一般水平与中间层",
+    "core": "MIDDLE：两头之间的部分",
+    "image": "先看位置和阶段，再读 middling 的一般水平；体重级别和软件中间层分别用自己的场景理解。",
+    "intro": "middle 继承古英语 middel，与 mid 同族。复合词中 weight 是重量，-ware 是软件类成分，不按单一中文中间全部混成一种意思。",
+    "forms": "middle → middling；middle + weight、man、-ware → middleweight、middleman、middleware。",
+    "branches": [
+      [
+        "核心与评价",
+        "middle · middling"
+      ],
+      [
+        "具体领域的中间",
+        "middleweight · middleman · middleware"
+      ]
+    ],
+    "contrasts": "in the middle of an event 可指进行中，不限精确一半；middleweight 是级别，middling 是表现一般。",
+    "practice": "The middleware sits between the two systems.\n\n中间件位于两个系统之间，负责连接。",
+    "words": [
+      "middle",
+      "middling",
+      "middleweight",
+      "middleman",
+      "middleware"
+    ],
+    "exclude": {}
+  }
+]

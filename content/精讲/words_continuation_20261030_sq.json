@@ -1,0 +1,206 @@
+[
+  {
+    "word": "undies",
+    "ipa": "/ˈʌndiz/",
+    "meaning": "内衣、内裤〔口语〕",
+    "sense": "说 underwear 时换个短小、随意的叫法，就可以用 undies；收拾行李、洗衣服时常见这种生活口语。",
+    "split": "underwear 截短为 und-，加口语、复数形式 -ies。形成的复数形式已经固定为衣物叫法。",
+    "history": [
+      [
+        "underwear → und- + -ies",
+        "缩短长词，形成随意叫法"
+      ],
+      [
+        "复数形式 undies",
+        "日常内衣、内裤名称"
+      ]
+    ],
+    "explanation": "a pair of undies 一条内裤；clean undies 干净内衣；pack some undies 带几件内衣。通常按复数形式使用。",
+    "usage": "a drawer of undies；wash your undies。",
+    "contrast": "underwear 更通用，undies 更随意；说一条时可用 a pair of，不必为了单件去掉结尾 s。",
+    "examples": [
+      [
+        "I packed some clean undies for the trip.",
+        "我为旅行装了几件干净内衣。"
+      ],
+      [
+        "The drawer is full of socks and undies.",
+        "抽屉里放满了袜子和内衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/undies#English"
+    ]
+  },
+  {
+    "word": "boonies",
+    "ipa": "/ˈbuːniz/",
+    "meaning": "偏远乡间、偏僻地方〔美式口语〕",
+    "sense": "离城镇、商店很远，感觉在遥远的乡下；说 out in the boonies，常带一点随口抱怨或打趣的语气。",
+    "split": "boondocks 的截短、口语变形，加 -ies；boondocks 更早借自他加禄语 bundok 山。地形名称在英语中扩展成偏远乡间。",
+    "history": [
+      [
+        "他加禄语 bundok → 英语 boondocks",
+        "山 → 偏远地区的英语用法"
+      ],
+      [
+        "boondocks 缩短、变形 → boonies",
+        "固定口语复数形式"
+      ]
+    ],
+    "explanation": "out in the boonies 在偏远地方；live in the boonies 住得很偏。通常带 the，不是某个正式行政区名称。",
+    "usage": "a cabin in the boonies；drive out to the boonies。",
+    "contrast": "countryside 是较中性的乡村；boonies 更口语，也更强调偏远，可能带说话者不方便、远离热闹的评价。",
+    "examples": [
+      [
+        "They rented a cabin out in the boonies.",
+        "他们在很偏的乡下租了一间小屋。"
+      ],
+      [
+        "We live in the boonies, so the nearest shop is miles away.",
+        "我们住得很偏，最近的商店也有好几英里远。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boonies#English"
+    ]
+  },
+  {
+    "word": "noughties",
+    "ipa": "/ˈnɔːtiz/",
+    "meaning": "零零年代，通常指 2000—2009 年〔尤英式〕",
+    "sense": "eighties 是八十年代，nineties 是九十年代；年份中间一眼看到两个零的一段，就用 nought 零来造 noughties。",
+    "split": "nought 零 + 年代名称的 -ies 模式，仿 twenties、thirties 等构词。它是按其他年代名称类比出来的词。",
+    "history": [
+      [
+        "nought 零 + -ies 的年代模式",
+        "按 twenties、eighties 等形式类比"
+      ],
+      [
+        "the noughties",
+        "通常指二十一世纪最初十年"
+      ]
+    ],
+    "explanation": "music from the noughties 零零年代的音乐；in the early noughties 在零零年代初期。具体年份范围可直接说 2000 to 2009。",
+    "usage": "the late noughties；noughties fashion。",
+    "contrast": "它说的是一个十年段；现代常指 2000—2009。历史语境若换了世纪，应以文中具体年份为准。",
+    "examples": [
+      [
+        "The playlist is full of songs from the noughties.",
+        "播放列表里满是零零年代的歌。"
+      ],
+      [
+        "They met in the early noughties.",
+        "他们在零零年代初期相识。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/noughties#English"
+    ]
+  },
+  {
+    "word": "videographer",
+    "ipa": "英 /ˌvɪdiˈɒɡrəfə/；美 /ˌvɪdiˈɑːɡrəfər/",
+    "meaning": "摄像师；视频制作人员",
+    "sense": "把婚礼、采访、活动等拍成视频的人，常叫 videographer；重点是运动画面的拍摄、制作。",
+    "split": "video- 视频 + -grapher 记录、拍摄人员，与 videography 视频拍摄制作对应。-grapher 远连希腊书写、记录材料，再加人物后缀。",
+    "history": [
+      [
+        "video- + -grapher",
+        "视频内容 + 记录、拍摄人员"
+      ],
+      [
+        "videography ↔ videographer",
+        "相关活动、技艺与从业者对应"
+      ]
+    ],
+    "explanation": "hire a videographer 雇摄像师；a wedding videographer 婚礼摄像师；a freelance videographer 自由职业视频制作人。",
+    "usage": "an event videographer；work as a videographer。",
+    "contrast": "photographer 常说摄影师，videographer 特别突出视频；实际工作中同一人可以承担两种角色。",
+    "examples": [
+      [
+        "They hired a videographer to film the wedding.",
+        "他们请了一位摄像师拍摄婚礼。"
+      ],
+      [
+        "The videographer recorded the interview in the workshop.",
+        "摄像师在工坊里录下了访谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/videographer#English"
+    ]
+  },
+  {
+    "word": "icon",
+    "ipa": "英 /ˈaɪkɒn/；美 /ˈaɪkɑːn/",
+    "meaning": "图标；圣像；代表人物、标志性事物",
+    "sense": "桌面一张小图代表一个应用，是 icon；某个人、建筑成了一个时代的代表，也可叫 icon。共同是用一个形象代表更大的东西。",
+    "split": "经拉丁 icon 借希腊 eikon 形象、画像。英语先有图像等意义，再在宗教、文化代表和计算机界面等领域形成专门用法。",
+    "history": [
+      [
+        "希腊 eikon → 拉丁 icon → 英语 icon",
+        "形象、图像等名称"
+      ],
+      [
+        "不同领域的专门化",
+        "宗教圣像；文化代表；界面小图标"
+      ]
+    ],
+    "explanation": "an app icon 应用图标；a religious icon 宗教圣像；a fashion icon 时尚标志人物。先找说的是图像还是代表人物。",
+    "usage": "click an icon；a cultural icon。",
+    "contrast": "icon 的文化人物义突出象征、代表性；idol 更常强调受到崇拜的人。计算机 icon 则是可识别的图形表示。",
+    "examples": [
+      [
+        "Click the folder icon to open the files.",
+        "点击文件夹图标打开文件。"
+      ],
+      [
+        "She became a fashion icon of her generation.",
+        "她成了这一代人的时尚标志人物。"
+      ],
+      [
+        "The museum displayed a painted religious icon.",
+        "博物馆展示了一幅绘制的宗教圣像。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/icon",
+      "https://en.wiktionary.org/wiki/icon#English"
+    ]
+  },
+  {
+    "word": "iconic",
+    "ipa": "英 /aɪˈkɒnɪk/；美 /aɪˈkɑːnɪk/",
+    "meaning": "标志性的；极具代表性的；图像、圣像的〔较专门〕",
+    "sense": "一个画面、建筑、造型，人们一看就想到某个地方、时代、人物；这种有强烈代表性的感觉就是 iconic。",
+    "split": "英语有后期拉丁 iconicus、希腊 eikonikos 与 eikon 图像的形容词历史。现代形式可与 icon + -ic 对照，意义从图像相关扩展到代表、象征。",
+    "history": [
+      [
+        "希腊 eikon → eikonikos；拉丁 iconicus",
+        "图像及相关形容词"
+      ],
+      [
+        "英语 iconic 的现代常用义",
+        "足以代表某地方、时代、人物或风格的"
+      ]
+    ],
+    "explanation": "an iconic building 标志性建筑；an iconic scene 经典、极具代表性的场景；an iconic design 标志性设计。",
+    "usage": "an iconic image；an iconic landmark。",
+    "contrast": "famous 只说出名；iconic 通常多一层代表性、识别度。它在广告里也可能只是加强赞美的词。",
+    "examples": [
+      [
+        "The bridge is one of the city’s most iconic landmarks.",
+        "这座桥是城市最具标志性的地标之一。"
+      ],
+      [
+        "The film opens with an iconic scene.",
+        "电影以一个极具代表性的经典场景开场。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/icon",
+      "https://en.wiktionary.org/wiki/iconic#English"
+    ]
+  }
+]

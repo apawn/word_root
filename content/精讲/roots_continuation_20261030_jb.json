@@ -1,0 +1,133 @@
+[
+  {
+    "id": "B2998",
+    "meaning": "沿弧线摆动、挥动，及方向、趋势与专门人物义",
+    "core": "SWING：从摆动的弧线看动作和变化",
+    "image": "swing → backswing 后摆、downswing 下挥；upswing 向上走势；swinger 看专门语境。",
+    "intro": "方向词把运动切成不同阶段；抽象扩展把走势想成一条上下变化的线。人物词则要看已经固定的含义。",
+    "forms": "古英语 swingan → swing；up-、down-、back 表方向，-er 形成人物词。\n\n古英语 swingan 继承，swung 是旧元音交替发展；ing 不用过去式元音。\n\nsway 可能借北欧的弯、摆材料并合入英语同族形式，与 swing 的更远联系仍属分析；摆动、影响、支配按现代用法分别理解。",
+    "branches": [
+      [
+        "基础动作与人物",
+        "swing · swinger"
+      ],
+      [
+        "方向与趋势",
+        "backswing · downswing · upswing"
+      ],
+      [
+        "swing → swings、swung、swinging：来回摆动",
+        "swing · swings · swung · swinging"
+      ],
+      [
+        "sway、swing 的摆动材料比较",
+        "swing · sway · sways · swayed · swaying"
+      ]
+    ],
+    "contrasts": "swinger 不随便用来叫荡秋千的人；in full swing 是正热闹、全面展开。",
+    "practice": "The coach compared the backswing and downswing before the match was in full swing.\n\n比赛全面展开前，教练比较了后摆和下挥动作。",
+    "words": [
+      "swing",
+      "swinger",
+      "backswing",
+      "downswing",
+      "upswing",
+      "swings",
+      "swung",
+      "swinging",
+      "sway",
+      "sways",
+      "swayed",
+      "swaying"
+    ],
+    "exclude": {
+      "neo-swing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mis-swing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "swingman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3753",
+    "meaning": "负责照料、保存、管理或防守的人",
+    "core": "KEEPER：不是一个固定中文职业，而是一种照管关系",
+    "image": "看前半对象：bee 蜂、inn 旅店、grounds 场地、wicket 板球位置；bookkeeper 则是固定的记账职业。",
+    "intro": "keeper 让我们知道谁在负责，前面的对象再决定究竟是养护、经营、防守还是管理。逐词看已经形成的职位名称。",
+    "forms": "keep + -er → keeper；对象词与 keeper 组成不同职业或角色。\n\nkeep 加 er 形成 keeper；book 在这里选账簿义。",
+    "branches": [
+      [
+        "经营与记录",
+        "keeper · innkeeper · housekeeper · bookkeeper · shopkeeper · storekeeper"
+      ],
+      [
+        "动物与场地养护",
+        "beekeeper · zookeeper · gamekeeper · groundskeeper"
+      ],
+      [
+        "守卫、比赛和把关",
+        "goalkeeper · wicketkeeper · gatekeeper · peacekeeper · timekeeper"
+      ],
+      [
+        "keeper 的账簿职业组合及复数",
+        "bookkeeper · bookkeepers"
+      ]
+    ],
+    "contrasts": "keeper 不总是看门人；bookkeeper 不是藏书管理员，wicketkeeper 也不是足球守门员。",
+    "practice": "The innkeeper spoke to the groundskeeper while a beekeeper checked the hives.\n\n旅店经营者和园地养护员说话时，一位养蜂人正在检查蜂箱。",
+    "words": [
+      "keeper",
+      "innkeeper",
+      "housekeeper",
+      "bookkeeper",
+      "shopkeeper",
+      "storekeeper",
+      "beekeeper",
+      "zookeeper",
+      "gamekeeper",
+      "groundskeeper",
+      "goalkeeper",
+      "wicketkeeper",
+      "gatekeeper",
+      "peacekeeper",
+      "timekeeper",
+      "bookkeepers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3149",
+    "meaning": "制作饮品的过程、相关职业场所，以及同远源的汤汁名称",
+    "core": "BREW：原料经过过程，做成饮品；抽象地也能酝酿事情",
+    "image": "brew → brewing、brewer、brewery；brewhouse、brewpub 看场所；broth 走古老同远源支线。",
+    "intro": "不要把酿啤酒、泡茶、冲咖啡都想成同一种工艺，也别把正在酝酿的麻烦真当饮料。具体过程给了抽象变化一个形象。",
+    "forms": "古英语 brēowan → brew；-ing 过程，-er 人物，brewery 与荷兰语借入有关；broth 来自古英语 broþ。",
+    "branches": [
+      [
+        "动作、过程与人物",
+        "brew · brewing · brewer"
+      ],
+      [
+        "厂房、酒馆与家庭制作",
+        "brewery · brewhouse · brewpub · homebrew"
+      ],
+      [
+        "同远源的汤汁",
+        "broth"
+      ]
+    ],
+    "contrasts": "brew 不等于 boil；brewer 人或企业，brewery 厂或企业；broth 不是现代 brew 的随意变形。",
+    "practice": "The brewer showed visitors the brewhouse before they stopped at the brewpub.\n\n酿酒师带访客看了酿造车间，随后他们去了自酿酒馆。",
+    "words": [
+      "brew",
+      "brewing",
+      "brewer",
+      "brewery",
+      "brewhouse",
+      "brewpub",
+      "homebrew",
+      "broth"
+    ],
+    "exclude": {
+      "brewster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "word": "remedy",
+    "ipa": "英、美 /ˈremədi/",
+    "meaning": "补救方法；疗法；补救、纠正",
+    "sense": "东西出了问题，找到能把它改好、补回来的办法，就是 a remedy；直接用作动词，则是把问题纠正。",
+    "split": "借法语 remede、remedie 等接拉丁 remedium，含 re- 与 mederi 治疗。re- 在此可能加强，也有再、恢复的分析；现代不只用于身体疾病。",
+    "history": [
+      [
+        "拉丁 mederi 治疗 → remedium 治疗、补救手段",
+        "应对问题、恢复良好状态的词义材料"
+      ],
+      [
+        "法语相应词 → 英语 remedy；另有对应动词借入",
+        "现代名词说补救方法，动词说补救、纠正"
+      ]
+    ],
+    "explanation": "a remedy for a problem 是某问题的补救办法；remedy an error 是纠正错误；no easy remedy 是没有容易的补救法。",
+    "usage": "a remedy for the problem；remedy an error；no easy remedy。",
+    "contrast": "remedy 常针对已经存在的问题；prevention 侧重事前防止。remedy 也常处理设计、沟通等问题，不专指药品。",
+    "examples": [
+      [
+        "There is no simple remedy for poor communication.",
+        "沟通不畅没有简单的补救办法。"
+      ],
+      [
+        "We need to remedy the error before printing.",
+        "印刷前我们需要把这个错误纠正。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remedy#English",
+      "https://www.etymonline.com/word/remedy"
+    ]
+  },
+  {
+    "word": "remedies",
+    "ipa": "英、美 /ˈremədiz/",
+    "meaning": "补救方法、疗法〔复数〕；纠正、补救〔第三人称〕",
+    "sense": "一个问题有几种补救办法，是 remedies；某次改动把问题修好了，也能说 the change remedies the problem。",
+    "split": "remedy 的辅音字母 + y 改 i，加 -es → remedies，词尾读 /z/，不增加一整个 /ɪz/ 音节。较远来源接拉丁 mederi 治疗、remedium。",
+    "history": [
+      [
+        "拉丁 remedium → 法语等 → remedy 补救方法、补救",
+        "名词、动词有相应来源与发展"
+      ],
+      [
+        "remedy → remedies",
+        "现代复数、第三人称同形，末尾 /diz/"
+      ]
+    ],
+    "explanation": "possible remedies 是可能的补救办法；remedies the fault 是把故障纠正；discuss remedies 是讨论怎样补救。",
+    "usage": "possible remedies；discuss remedies；remedies the problem。",
+    "contrast": "remedies 在设计、沟通、排版语境里常是补救办法；讲这些事情时，直接结合具体问题理解，不限于药物。",
+    "examples": [
+      [
+        "The report suggests several possible remedies.",
+        "报告提出了几种可能的补救办法。"
+      ],
+      [
+        "This small change remedies the layout problem.",
+        "这项小改动纠正了版式问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remedies#English",
+      "https://www.etymonline.com/word/remedy"
+    ]
+  },
+  {
+    "word": "consolidate",
+    "ipa": "英 /kənˈsɒlɪdeɪt/；美 /kənˈsɑːlədeɪt/",
+    "meaning": "合并；整合；巩固",
+    "sense": "几份零散笔记收成一份完整材料，是 consolidate；已经学到的知识再练稳，也可以 consolidate。核心是从散、弱变成更完整、牢固。",
+    "split": "拉丁 con- 合在一起、加强 + solidare 使结实 → consolidare、分词 consolidatus，借入英语。可用 con- + solid + -ate 识别词形材料，但不是所有部分都在现代英语里新拼。",
+    "history": [
+      [
+        "拉丁 solidus 结实、完整 → solidare → consolidare",
+        "使结合成完整、牢固的一体"
+      ],
+      [
+        "consolidatus 等 → 英语 consolidate",
+        "现代可以整合材料，也可巩固知识、地位等"
+      ]
+    ],
+    "explanation": "consolidate notes 是整理合并笔记；consolidate learning 是巩固学习成果；consolidate several files 是把多份文件整合。",
+    "usage": "consolidate notes；consolidate learning；consolidate several files。",
+    "contrast": "combine 常泛指放在一起；consolidate 更常突出合并后统一、稳固，未必真把物体压成固体。",
+    "examples": [
+      [
+        "Let us consolidate these notes into one document.",
+        "我们把这些笔记合成一份文档吧。"
+      ],
+      [
+        "Short review sessions help consolidate learning.",
+        "短时间的复习有助于巩固学习成果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consolidate#English",
+      "https://www.etymonline.com/word/consolidate"
+    ]
+  },
+  {
+    "word": "consolidated",
+    "ipa": "英 /kənˈsɒlɪdeɪtɪd/；美 /kənˈsɑːlədeɪtɪd/",
+    "meaning": "合并的；整合后的；巩固了的〔过去式、过去分词〕",
+    "sense": "原来分散在几处的材料，现在收成一个整体，这份 consolidated list 就是整合后的清单。",
+    "split": "consolidate 去末尾 e，加完整 -ed → consolidated，/t/ 后读 /ɪd/。词基接拉丁使结实、合成整体的材料，与 solid 同族。",
+    "history": [
+      [
+        "拉丁 con- + solidare → consolidare、consolidatus",
+        "结合成整体、使牢固"
+      ],
+      [
+        "英语 consolidate + -ed → consolidated",
+        "现代过去形式，也可形容整合好的成果"
+      ]
+    ],
+    "explanation": "a consolidated list 是合并清单；consolidated notes 是整合笔记；consolidated the information 是把信息汇总在一起。",
+    "usage": "a consolidated list；consolidated notes；consolidated the information。",
+    "contrast": "consolidated 不只是复制到同一文件夹，往往还有合并成统一材料、减少分散的意味；具体做到哪一步看实际说明。",
+    "examples": [
+      [
+        "The editor created a consolidated list of corrections.",
+        "编辑整理出了一份统一的修改清单。"
+      ],
+      [
+        "We consolidated the information into a single page.",
+        "我们把信息汇总到了一页中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consolidated#English",
+      "https://www.etymonline.com/word/consolidate"
+    ]
+  },
+  {
+    "word": "predecessor",
+    "ipa": "英 /ˈpriːdɪsesə/；美 /ˈpredəsesɚ/",
+    "meaning": "前任；前身；被后来事物取代的先前版本",
+    "sense": "你接手这个岗位，之前做这份工作的人是 your predecessor；新机器出来了，旧型号也可以是它的 predecessor。",
+    "split": "历史接拉丁 prae- 在前 + decessor 退任者，后者接 de- 离开 + cedere 走、退让的 cess- 分词词干与人名材料，再经法语等进入英语。",
+    "history": [
+      [
+        "拉丁 cedere 走、退让 → decedere 离开 → decessor 退任者",
+        "离任的人员称呼"
+      ],
+      [
+        "prae- 在前 + decessor → 法语、英语 predecessor",
+        "在前任职者，再扩展先前型号、前身"
+      ]
+    ],
+    "explanation": "her predecessor 是她的前任；a predecessor of the current model 是当前型号的前身；the predecessor to a system 是某系统之前的一代。",
+    "usage": "her predecessor；the model’s predecessor；a predecessor of the current system。",
+    "contrast": "predecessor 指同一角色、系列里先前的一方，ancestor 常说祖先；successor 是接任、接替的一方。",
+    "examples": [
+      [
+        "Her predecessor left detailed notes about the job.",
+        "她的前任留下了详细的工作笔记。"
+      ],
+      [
+        "The new model is lighter than its predecessor.",
+        "新型号比上一代轻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predecessor#English",
+      "https://www.etymonline.com/word/predecessor"
+    ]
+  },
+  {
+    "word": "marching",
+    "ipa": "英 /ˈmɑːtʃɪŋ/；美 /ˈmɑːrtʃɪŋ/",
+    "meaning": "齐步行进；有节奏地走；游行〔分词、动名词〕",
+    "sense": "脚步按节奏一下下向前，常常是一群人一起走，就是 marching。乐队、队伍可以这样行进，日常也可借来形容大步向前。",
+    "split": "动词 march + -ing → marching。march 借古法语 marcher 行进、踏步，其更远来源有日耳曼语、拉丁语等不同分析；与月份 March 的火星神名词史不同。",
+    "history": [
+      [
+        "古法语 marcher 踏、行进 → 英语 march",
+        "有节奏走的动作，远源未定"
+      ],
+      [
+        "march + -ing → marching",
+        "现代分词、动名词，可描述队列、游行等"
+      ]
+    ],
+    "explanation": "a marching band 是行进乐队；marching through a street 是列队或大步穿过街道；marching in step 是齐步走。",
+    "usage": "a marching band；marching in step；marching through the square。",
+    "contrast": "marching 不一定是军队，也不一定是抗议；乐队表演、童话角色等都能有 marching，具体目的看上下文。",
+    "examples": [
+      [
+        "A marching band led the parade.",
+        "一支行进乐队走在游行队伍前面。"
+      ],
+      [
+        "The children were marching in step across the hall.",
+        "孩子们齐步走过礼堂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/marching#English",
+      "https://www.etymonline.com/word/march"
+    ]
+  },
+  {
+    "word": "messing",
+    "ipa": "英、美 /ˈmesɪŋ/",
+    "meaning": "弄乱、搞砸；瞎玩、磨蹭；乱动、干扰〔分词、动名词〕",
+    "sense": "把顺手的事弄乱，是 messing up；没认真做事、东摸西玩，是 messing around；乱动别人的东西，常用 messing with。",
+    "split": "mess + -ing → messing，保留已有双 s。mess 经法语一份食物、拉丁 missus 一道端上的菜，后来有混杂食物、一团乱等词义。",
+    "history": [
+      [
+        "拉丁 missus 端上的一道菜 → 法语 mes → mess",
+        "一份饭食、共同用餐等较早词义"
+      ],
+      [
+        "混杂食物 → 混乱、弄乱的 mess → messing",
+        "现代具体用法常靠 up、around、with 区分"
+      ]
+    ],
+    "explanation": "messing up the order 是把顺序弄乱；messing around 是瞎玩、磨蹭；messing with the settings 是乱动设置。",
+    "usage": "messing up the order；messing around；messing with the settings。",
+    "contrast": "messing 本身不能覆盖每个中文的乱；先记完整搭配，特别是 messing up 搞砸、messing with 干扰的区别。",
+    "examples": [
+      [
+        "Stop messing with the settings on my camera.",
+        "别乱动我相机的设置。"
+      ],
+      [
+        "They spent the afternoon messing around in the garden.",
+        "他们一下午都在花园里玩玩闹闹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/messing#English",
+      "https://www.etymonline.com/word/mess"
+    ]
+  },
+  {
+    "word": "modifications",
+    "ipa": "英 /ˌmɒdɪfɪˈkeɪʃənz/；美 /ˌmɑːdəfəˈkeɪʃənz/",
+    "meaning": "修改；改动；改装部分〔复数〕",
+    "sense": "大体保留原来的东西，针对某些地方改一改，让它更适合用途，这些改动就是 modifications。",
+    "split": "modification + -s → modifications。可与 modify、-fication 的使成动作名词对应学习；历史接法语、拉丁 modificatio，含 modus 尺度、方式与 facere 做的材料。",
+    "history": [
+      [
+        "拉丁 modus 尺度、方式 + facere 做 → modificare",
+        "按一定尺度、方式调整的词义材料"
+      ],
+      [
+        "相应动作名词 → 英语 modification → modifications",
+        "现代复数指数处改动，不把 modify 直接加普通 -ation 省略变化"
+      ]
+    ],
+    "explanation": "make modifications 是作修改；modifications to a design 是设计改动；minor modifications 是小改动。",
+    "usage": "make modifications；modifications to the design；minor modifications。",
+    "contrast": "modifications 不一定只用于机器或游戏；文章、计划、衣物也能改。它也不自动保证改动一定改善结果。",
+    "examples": [
+      [
+        "The design needed a few small modifications.",
+        "这个设计需要作几处小修改。"
+      ],
+      [
+        "She explained the modifications to the original plan.",
+        "她说明了对原计划所作的改动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/modifications#English",
+      "https://www.etymonline.com/word/modification"
+    ]
+  },
+  {
+    "word": "nominations",
+    "ipa": "英 /ˌnɒmɪˈneɪʃənz/；美 /ˌnɑːməˈneɪʃənz/",
+    "meaning": "提名；提名名单、候选提议〔复数〕",
+    "sense": "先把某人的名字提出来，让他成为某个职位、奖项的候选人，就是 nominations 的常见意思。名字进了候选范围，还不代表最后获选。",
+    "split": "nomination + -s → nominations。拉丁 nomen 名字 → nominare 点名、命名 → nominatio，经相应形式进入英语。-ation 表相应行为、结果。",
+    "history": [
+      [
+        "拉丁 nomen 名字 → nominare 点名 → nominatio",
+        "把某人按名字指出、指定的材料"
+      ],
+      [
+        "英语 nomination 的提名义 → nominations",
+        "现代复数，用于奖项、职位候选等"
+      ]
+    ],
+    "explanation": "award nominations 是奖项提名；receive nominations 是获得提名；nominations for a position 是某职位的候选提名。",
+    "usage": "award nominations；receive nominations；nominations for the role。",
+    "contrast": "nominations 不是 wins；一部电影可以获得多项提名，最终一个奖也没有。",
+    "examples": [
+      [
+        "The film received three award nominations.",
+        "这部电影获得了三项奖项提名。"
+      ],
+      [
+        "The committee is accepting nominations for the role.",
+        "委员会正在接受这个职位的提名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nominations#English",
+      "https://www.etymonline.com/word/nomination"
+    ]
+  },
+  {
+    "word": "numbered",
+    "ipa": "英 /ˈnʌmbəd/；美 /ˈnʌmbɚd/",
+    "meaning": "编了号的；计数了；数量达〔过去式、过去分词〕",
+    "sense": "给每一页、每件东西标上号码，是 numbered；把一群人的数量算出来，也能用这个词。",
+    "split": "number + -ed → numbered，/ə/、/ɚ/ 后读 /d/，不另加 /ɪd/ 音节。number 经法语 nombre、nombrer 等接拉丁 numerus 数、数量。",
+    "history": [
+      [
+        "拉丁 numerus 数、数量 → 法语对应名词、动词 → number",
+        "英语名词和动词有相应来源"
+      ],
+      [
+        "number + -ed → numbered",
+        "编号、计数或说明总数的过去形式"
+      ]
+    ],
+    "explanation": "numbered pages 是标了页码的页面；numbered from one to ten 是从一编到十；days are numbered 是所剩时间不多。",
+    "usage": "numbered pages；numbered from one to ten；its days are numbered。",
+    "contrast": "be numbered 的意义看搭配；the system’s days are numbered 不是给系统的日子逐个写编号，而是说它快被取代、结束了。",
+    "examples": [
+      [
+        "The pages are numbered from one to fifty.",
+        "这些页面从一编到了五十。"
+      ],
+      [
+        "The old system’s days were numbered once the replacement arrived.",
+        "替代系统到来后，旧系统就用不了多久了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/numbered#English",
+      "https://www.etymonline.com/word/number"
+    ]
+  },
+  {
+    "word": "offerings",
+    "ipa": "英 /ˈɒfərɪŋz/；美 /ˈɔːfərɪŋz/、/ˈɑːfərɪŋz/",
+    "meaning": "供品；提供的产品、作品、服务〔复数〕",
+    "sense": "把东西拿出来献上、提供给别人，那些拿出来的东西就是 offerings。可以是仪式供品，也可以是店里的产品、剧院的新作品。",
+    "split": "offer + -ing → offering，再加 -s。名词有古英语 offrung 等来源，接借入的 offer 词族，远连拉丁 ob- 向前 + ferre 带来。",
+    "history": [
+      [
+        "拉丁 offerre 带到面前、献上 → 古英语相关借词与动作名词",
+        "较早有献上的行为、献上的东西"
+      ],
+      [
+        "offering 的面向公众提供物义 → offerings",
+        "现代复数可数产品、作品、服务等"
+      ]
+    ],
+    "explanation": "seasonal offerings 是当季提供的产品；the theater’s offerings 是剧院上演的作品；offerings at a shrine 是神龛等处的供品。",
+    "usage": "seasonal offerings；the theater’s offerings；offerings at a shrine。",
+    "contrast": "offerings 作为复数名词是在数提供的东西，不是把正在提供的动作随意加 s；金融专门用法也须结合具体语境。",
+    "examples": [
+      [
+        "The bakery’s seasonal offerings include apple cakes.",
+        "这家面包店的当季产品包括苹果蛋糕。"
+      ],
+      [
+        "The guide described the offerings left at the old shrine.",
+        "导游介绍了旧神龛前留下的供品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offerings#English",
+      "https://www.etymonline.com/word/offering"
+    ]
+  },
+  {
+    "word": "partnerships",
+    "ipa": "英 /ˈpɑːtnəʃɪps/；美 /ˈpɑːrtnɚʃɪps/",
+    "meaning": "合作关系；合作安排；合伙关系〔复数〕",
+    "sense": "不只是认识对方，而是一起做事、各出一份力，形成了 partnerships。可以是机构合作，也可以是两个人的长期搭档关系。",
+    "split": "partner + -ship 关系、状态 → partnership，再加 -s。partner 较早有分得一份、共享的词义；-ship 在这里不表示船。",
+    "history": [
+      [
+        "partner 合作方、分享者 + -ship → partnership",
+        "把合作状态、关系名词化"
+      ],
+      [
+        "partnership + -s → partnerships",
+        "现代可数多项合作关系、安排"
+      ]
+    ],
+    "explanation": "build partnerships 是建立合作关系；partnerships between schools 是学校之间的合作；long partnerships 是长期合作关系。",
+    "usage": "build partnerships；partnerships between schools；successful partnerships。",
+    "contrast": "partners 是参与合作的各方，partnerships 是他们之间的关系、安排。具体商业合伙形式不能只由普通词义推定。",
+    "examples": [
+      [
+        "The museum builds partnerships with local schools.",
+        "博物馆与当地学校建立合作关系。"
+      ],
+      [
+        "Good partnerships depend on clear communication.",
+        "良好的合作关系依赖清楚的沟通。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/partnerships#English",
+      "https://www.etymonline.com/word/partnership"
+    ]
+  },
+  {
+    "word": "recipients",
+    "ipa": "英、美 /rɪˈsɪpiənts/",
+    "meaning": "接收者；收件人；获赠、获奖者〔复数〕",
+    "sense": "一份礼物、一封邮件或一个奖项送出去，落到谁手里，谁就是 recipients 里的接收一方。",
+    "split": "recipient + -s → recipients，/t/ 后读 /s/。recipient 接法语与拉丁 recipiens 接收的分词，含 re- 与 -cip- 接取，词末 -ient 对应分词材料。",
+    "history": [
+      [
+        "拉丁 recipere 接取 → recipiens 接收的",
+        "由接收状态称接收的一方"
+      ],
+      [
+        "法语等 → 英语 recipient → recipients",
+        "现代复数，不是直接由英语 receive 变几个字母"
+      ]
+    ],
+    "explanation": "email recipients 是邮件收件人；award recipients 是获奖者；recipients of a gift 是礼物接收者。",
+    "usage": "email recipients；award recipients；recipients of the letters。",
+    "contrast": "recipient 是接收方，sender 是发送方。award recipients 通常说已获奖者，与只是获提名的人不同。",
+    "examples": [
+      [
+        "Please check the recipients before sending the email.",
+        "发送邮件前请检查收件人。"
+      ],
+      [
+        "The award recipients came onto the stage together.",
+        "获奖者们一起走上了舞台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recipients#English",
+      "https://www.etymonline.com/word/recipient"
+    ]
+  },
+  {
+    "word": "relates",
+    "ipa": "英、美 /rɪˈleɪts/",
+    "meaning": "有关；联系；叙述；产生共鸣〔第三人称〕",
+    "sense": "这件事与那件事连得上，是 relates to；把一段经历讲给别人，也可用 relates。先看有没有 to，以及后面接的是话题还是故事。",
+    "split": "relate + -s → relates，保留 e，/t/ 后读 /s/。relate 经法语 relater 接拉丁 relatus，属于 referre 带回、报告的分词体系。",
+    "history": [
+      [
+        "拉丁 referre 带回、报告，分词 relatus → 法语 relater",
+        "fer- 与 lat- 是变位中不同来源的补充材料，不是简单拼写变化"
+      ],
+      [
+        "英语 relate 叙述 → 联系、共鸣等义 → relates",
+        "现代第三人称，不按 re- 再 + late 迟解释"
+      ]
+    ],
+    "explanation": "relates to the topic 是与话题有关；relates a story 是叙述故事；relates to a character 是对角色产生共鸣。",
+    "usage": "relates to the topic；relates a story；relates to the character。",
+    "contrast": "relates to 不总是理解、共鸣；主语是文件、问题时常说涉及、有关。直接接 a story 时通常是叙述。",
+    "examples": [
+      [
+        "This question relates to the final chapter.",
+        "这个问题与最后一章有关。"
+      ],
+      [
+        "The narrator relates a story from her childhood.",
+        "叙述者讲了一段童年故事。"
+      ],
+      [
+        "She relates to the character’s doubts.",
+        "她对这个角色的疑虑感同身受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/relates#English",
+      "https://www.etymonline.com/word/relate"
+    ]
+  },
+  {
+    "word": "rooted",
+    "ipa": "英、美 /ˈruːtɪd/",
+    "meaning": "扎根的；根源在……的；牢牢固定的〔过去式、过去分词〕",
+    "sense": "植物把根扎进土里，是 rooted；习惯、想法在某种经历里长出来，也可以说 rooted in that experience。",
+    "split": "root + -ed → rooted，/t/ 后读 /ɪd/。植物根的 root 接古英语、古北欧相应材料，动词的扎根、使固定从名词发展。",
+    "history": [
+      [
+        "古英语、北欧植物根材料 → root 名词",
+        "后来也借根说来源、根本"
+      ],
+      [
+        "root 的生根、固定动词 → rooted",
+        "现代常说扎根、以某事为根源或依据"
+      ]
+    ],
+    "explanation": "rooted in the soil 是扎在土里；rooted in experience 是源自经验；rooted to the spot 是像生根一样站住不动。",
+    "usage": "rooted in the soil；rooted in experience；rooted to the spot。",
+    "contrast": "rooted in 常说来源、基础；不必真有根。root for 支持、加油又是另一路用法，不能一概按植物故事推。",
+    "examples": [
+      [
+        "The tree was firmly rooted in the soil.",
+        "这棵树牢牢扎根在土里。"
+      ],
+      [
+        "Her interest in music is rooted in childhood memories.",
+        "她对音乐的兴趣源自童年记忆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rooted#English",
+      "https://www.etymonline.com/word/root"
+    ]
+  },
+  {
+    "word": "spells",
+    "ipa": "英、美 /spelz/",
+    "meaning": "咒语；一段时期〔复数〕；拼写；意味着〔第三人称〕",
+    "sense": "童话里念的 spells 是咒语；天气里的 dry spells 是一段段干燥时期；she spells a word 则是在拼写单词。别把三种场景混成一个动作。",
+    "split": "spell + -s → spells，/l/ 后读 /z/。咒语名词接古英语话语、故事等材料，拼写动词经法语等接相关日耳曼叙说词族；时段义另连轮班、替代的词线。",
+    "history": [
+      [
+        "日耳曼话语、叙说词族 → spell 的咒语、拼写等分支",
+        "神秘话语的咒语义与逐字读说的拼写义分别发展"
+      ],
+      [
+        "另一替代、轮班的 spell 词族 → 一段工作、时间",
+        "不把一段天气说成咒语延长"
+      ],
+      [
+        "spell + -s → spells",
+        "现代名词复数与动词第三人称同形"
+      ]
+    ],
+    "explanation": "casts spells 是施魔法；dry spells 是连续干燥时期；spells the name 是拼出名字；spells trouble 是意味着麻烦。",
+    "usage": "casts spells；dry spells；spells the name correctly。",
+    "contrast": "spells 是现在时第三人称或名词复数；spelled、spelt 才是相关过去形式。每个义项先按实际搭配掌握。",
+    "examples": [
+      [
+        "In the story, the wizard casts simple spells.",
+        "故事里，巫师施展简单的魔法。"
+      ],
+      [
+        "The region has long dry spells.",
+        "这个地区会有持续较长的干燥期。"
+      ],
+      [
+        "She spells her surname for the receptionist.",
+        "她向接待员拼出自己的姓。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spells#English",
+      "https://www.etymonline.com/word/spell"
+    ]
+  },
+  {
+    "word": "strengthening",
+    "ipa": "英、美 /ˈstreŋθənɪŋ/，也有 /ˈstreŋkθənɪŋ/",
+    "meaning": "增强；巩固；加强〔分词、动名词〕",
+    "sense": "原来能用，再让它更稳、更有力，就是 strengthening。可以加强材料，也可以巩固关系、论证。",
+    "split": "strength 力量 + -en 使增强 → strengthen，再加 -ing → strengthening。完整保留 -en，不把它省成 strengthing。",
+    "history": [
+      [
+        "strength 力量 + -en → strengthen 增强、变强",
+        "-en 形成相应动作、变化的动词"
+      ],
+      [
+        "strengthen + -ing → strengthening",
+        "现代分词、动名词，末尾有 /ənɪŋ/"
+      ]
+    ],
+    "explanation": "strengthening a bridge 是加固桥梁；strengthening links 是加强联系；strengthening an argument 是让论证更有力。",
+    "usage": "strengthening a bridge；strengthening links；strengthening an argument。",
+    "contrast": "strength 是力量、优势名词，strengthening 是增强的过程。多一个动词层 -en，语法角色就不同。",
+    "examples": [
+      [
+        "The extra support is strengthening the model bridge.",
+        "额外支撑正在让模型桥更牢固。"
+      ],
+      [
+        "They are strengthening links between the two schools.",
+        "他们正在加强两所学校之间的联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strengthening#English",
+      "https://www.etymonline.com/word/strengthen"
+    ]
+  },
+  {
+    "word": "tags",
+    "ipa": "英、美 /tæɡz/",
+    "meaning": "标签；标记〔复数〕；给……加标签、标注〔第三人称〕",
+    "sense": "商品上挂一小片说明，文件上加一个便于分类的名字，都可以叫 tags。动作 tags a photo 则是在照片上作标注。",
+    "split": "tag + -s → tags，/ɡ/ 后读 /z/。标签义较早从衣物上垂下的小片等发展，远源不明；游戏中触碰的 tag 有另一条来源分析。",
+    "history": [
+      [
+        "tag 垂下的小片 → 附着的说明标签",
+        "实体小片的名称扩展到分类标记"
+      ],
+      [
+        "标签义及标注动作 → tags",
+        "现代名词复数、动词第三人称"
+      ]
+    ],
+    "explanation": "price tags 是价签；name tags 是姓名牌；tags a photo 是给照片加标注；网页里的 tags 又是标签、标记名称。",
+    "usage": "price tags；name tags；tags the photo。",
+    "contrast": "tags 的数字用途不一定真有小纸片；标签可作为分类、说明的名称。游戏 tag 不能用 labels 的故事强解释。",
+    "examples": [
+      [
+        "The boxes have clear name tags.",
+        "这些箱子上有清楚的姓名标签。"
+      ],
+      [
+        "The app tags each photo with a date.",
+        "这个应用给每张照片标上日期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tags#English",
+      "https://www.etymonline.com/word/tag"
+    ]
+  },
+  {
+    "word": "tagged",
+    "ipa": "英、美 /tæɡd/",
+    "meaning": "加了标签的；标注了；碰到、触及了〔过去式、过去分词〕",
+    "sense": "箱子贴上标签、照片标出人物，便是 tagged。追逐游戏里碰到某人，也可以用这个过去形式，但词源分支要分开。",
+    "split": "tag 双写末尾 g，加完整 -ed → tagged，/ɡ/ 后读 /d/，末尾 /ɡd/。标签和游戏触碰的 tag 分别有自己的历史材料。",
+    "history": [
+      [
+        "tag 的标签与触碰游戏等分支",
+        "标签义远源不定，触碰游戏常联系 tig 等名称"
+      ],
+      [
+        "tag + -ed → tagged",
+        "双写 g，现代规则过去式、过去分词"
+      ]
+    ],
+    "explanation": "tagged boxes 是贴好标签的箱子；tagged in a photo 是在照片中被标注；tagged along 是跟着一起去了。",
+    "usage": "tagged boxes；tagged in a photo；tagged along。",
+    "contrast": "tagged along 作为完整短语说跟随同行，不能逐字译成给旁边贴标签。读音也不加一个 /ɪd/ 音节。",
+    "examples": [
+      [
+        "Each box was tagged with the owner’s name.",
+        "每个箱子都标了主人的名字。"
+      ],
+      [
+        "She tagged me in the group photo.",
+        "她在合照中标注了我。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tagged#English",
+      "https://www.etymonline.com/word/tag"
+    ]
+  },
+  {
+    "word": "testified",
+    "ipa": "英 /ˈtestɪfaɪd/；美 /ˈtestəfaɪd/",
+    "meaning": "作证了；证实、表明了〔过去式、过去分词〕",
+    "sense": "把自己知道的情况说出来，作为见证，是 testified；物品留下的痕迹，也可以像在作证，表明过去发生过什么。",
+    "split": "testify 的辅音字母 + y 改 i，加完整 -ed → testified，末尾 /faɪd/。拉丁 testis 见证者 + facere 做 → testificari，经法语进入英语。",
+    "history": [
+      [
+        "拉丁 testis 见证者 + facere 的复合材料 → testificari",
+        "作证、显示的动作"
+      ],
+      [
+        "法语 testifier 等 → testify → testified",
+        "现代过去形式，也可比喻事物证实某种情况"
+      ]
+    ],
+    "explanation": "testified that... 是作证说某事；testified before a committee 是在委员会前作证；testified to a skill 是显示、证明某种本领。",
+    "usage": "testified that...；testified before a committee；testified to her skill。",
+    "contrast": "testify 与 test 测试不是现代同一个动词；test- 这一见证词族按 testis 理解，不从一般考试义推出所有词。",
+    "examples": [
+      [
+        "In the story, a neighbor testified that the door was open.",
+        "故事里，一位邻居作证说门当时开着。"
+      ],
+      [
+        "The careful woodwork testified to her skill.",
+        "精细的木工活显示了她的手艺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/testified#English",
+      "https://www.etymonline.com/word/testify"
+    ]
+  },
+  {
+    "word": "tunes",
+    "ipa": "英 /tjuːnz/、/tʃuːnz/；美 /tuːnz/",
+    "meaning": "曲调；旋律〔复数〕；调音、调节〔第三人称〕",
+    "sense": "能哼出来的一段旋律，是 tunes；把琴的声音调准，也可以说 someone tunes the piano。一个是声音片段，一个是调准声音的动作。",
+    "split": "tune + -s → tunes，保留末尾 e，/n/ 后读 /z/。tune 是 tone 的历史变体，具体词形变化原因不明；调节动词后来从名词发展。",
+    "history": [
+      [
+        "tone 的历史变体 tune → 音符、旋律等名词义",
+        "变化原因不全清楚，不能凭现代字母编规则"
+      ],
+      [
+        "tune 调音、调节的动词 → tunes",
+        "现代名词复数或动词第三人称"
+      ]
+    ],
+    "explanation": "familiar tunes 是熟悉曲调；hum tunes 是哼曲子；tunes the piano 是给钢琴调音；tunes in 是调台收听、收看。",
+    "usage": "familiar tunes；hum tunes；tunes the piano。",
+    "contrast": "tunes 的末尾读 /nz/，不是 /ns/；曲调可以没有歌词，song 则通常是在说歌曲。",
+    "examples": [
+      [
+        "She can play several familiar tunes by ear.",
+        "她能凭听觉弹出几段熟悉的曲调。"
+      ],
+      [
+        "He tunes the piano before each performance.",
+        "他每次演出前都会给钢琴调音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tunes#English",
+      "https://www.etymonline.com/word/tune"
+    ]
+  },
+  {
+    "word": "verses",
+    "ipa": "英 /ˈvɜːsɪz/；美 /ˈvɜːrsɪz/",
+    "meaning": "诗节、诗句；主歌段落；经文小节〔复数〕",
+    "sense": "一首歌副歌反复出现，中间推进内容的几段主歌，可以叫 verses；诗歌、经文里分出来的行、节也常用这个词。",
+    "split": "verse + -s → verses，保留 e，/s/ 后读 /ɪz/。verse 经法语、较早拉丁借词材料接拉丁 versus 一行、诗行，与 vertere 转动相关。",
+    "history": [
+      [
+        "拉丁 versus 行、诗行，与转动、换行的材料相连",
+        "常用耕作时转向下一行解释这一旧比喻"
+      ],
+      [
+        "法语等 → 英语 verse → verses",
+        "现代诗节、经文小节与歌曲主歌等复数义"
+      ]
+    ],
+    "explanation": "the first two verses 是前两节；song verses 是歌曲主歌段；Bible verses 是《圣经》经节，单位大小依文类而异。",
+    "usage": "the first two verses；song verses；verses of a poem。",
+    "contrast": "verses 读 /ˈvɜːsɪz/ 等；versus 对阵、相比通常末尾弱读 /əs/，两词虽有远处词族联系，现代词性、用法不同。",
+    "examples": [
+      [
+        "We sang the first two verses of the song.",
+        "我们唱了这首歌的前两段主歌。"
+      ],
+      [
+        "She copied several verses from the poem into her notebook.",
+        "她把诗里的几节抄进了笔记本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/verses#English",
+      "https://www.etymonline.com/word/verse"
+    ]
+  },
+  {
+    "word": "algorithms",
+    "ipa": "英 /ˈælɡərɪðəmz/；美 /ˈælɡəˌrɪðəmz/",
+    "meaning": "算法〔复数〕",
+    "sense": "告诉别人按怎样明确的步骤处理输入、得到结果，就是 algorithms 的基本理解。比如找出最大数、把名字排序，各有相应做法。",
+    "split": "algorithm + -s → algorithms，/m/ 后读 /z/。词名经拉丁、法语等传写数学家 al-Khwarizmi 的名称，字形后来又受 arithmos 数的联想影响。",
+    "history": [
+      [
+        "数学家 al-Khwarizmi 的名称 → 中世纪拉丁 algorismus 等",
+        "较早用来称相应数字计算方法"
+      ],
+      [
+        "法语 algorithme 等 → algorithm → algorithms",
+        "现代泛指按明确步骤计算、解决问题的方法"
+      ]
+    ],
+    "explanation": "sorting algorithms 是排序算法；search algorithms 是搜索算法；compare algorithms 是比较算法。算法不只属于人工智能。",
+    "usage": "sorting algorithms；search algorithms；compare different algorithms。",
+    "contrast": "algorithm 的名字与人名传写有关，rhythm 节奏不是它的英语词基。实际理解算法时先看输入、步骤和结果。",
+    "examples": [
+      [
+        "The lesson compares two sorting algorithms.",
+        "这节课比较了两种排序算法。"
+      ],
+      [
+        "Different algorithms can solve the same problem in different ways.",
+        "不同算法可以用不同方法解决同一个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/algorithms#English",
+      "https://www.etymonline.com/word/algorithm"
+    ]
+  },
+  {
+    "word": "bricks",
+    "ipa": "英、美 /brɪks/",
+    "meaning": "砖；砖状块〔复数〕；用砖封住、砌起〔第三人称〕",
+    "sense": "一块块规则的小建筑材料，是 bricks；有些东西做成砖块形状，也可借这个词称呼。",
+    "split": "brick + -s → bricks，/k/ 后读 /s/。brick 经古法语 briche 接可能的日耳曼相应砖、瓦、碎块材料，较远常联系 break 词族，分析带不确定性。",
+    "history": [
+      [
+        "法语 briche 与可能的日耳曼砖、碎块词 → brick",
+        "较早的碎块图景不等于现代砖都由砸碎制成"
+      ],
+      [
+        "brick 名词及砌砖、封堵动词 → bricks",
+        "现代复数或第三人称，末尾 /ks/"
+      ]
+    ],
+    "explanation": "red bricks 是红砖；a wall of bricks 是砖墙；bricks up an opening 是用砖封住开口。",
+    "usage": "red bricks；a pile of bricks；bricks up an opening。",
+    "contrast": "brick 常可数地说一块砖，也可修饰材料，如 a brick wall；bricks 则明确在数一块块砖或说第三人称动作。",
+    "examples": [
+      [
+        "The path was made of old red bricks.",
+        "小路是用旧红砖铺成的。"
+      ],
+      [
+        "The children built a tower with toy bricks.",
+        "孩子们用玩具积木搭了一座塔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bricks#English",
+      "https://www.etymonline.com/word/brick"
+    ]
+  },
+  {
+    "word": "buddies",
+    "ipa": "英、美 /ˈbʌdiz/",
+    "meaning": "朋友；伙伴、搭档〔复数，口语〕",
+    "sense": "熟悉、能一起玩或一起做事的伙伴，可以叫 buddies。study buddies 是一起学习的搭档，带着比较亲近随意的语气。",
+    "split": "buddy 的辅音字母 + y 改 i，加 -es → buddies，词尾读 /z/。buddy 的来源有 brother 的变化、英国 butty 同伴等不同分析；bud 常是后来的短称。",
+    "history": [
+      [
+        "buddy 与 brother、butty 等来源分析",
+        "远近联系存在不同解释，不能选一个猜法当定论"
+      ],
+      [
+        "buddy → bud 短称；buddy → buddies 复数",
+        "学习顺序可从短到长，真实历史不必如此"
+      ]
+    ],
+    "explanation": "school buddies 是学校里的朋友；study buddies 是学习搭档；old buddies 是老朋友。",
+    "usage": "school buddies；study buddies；old buddies。",
+    "contrast": "buddy 的 bud 短称与植物芽 bud 分别讲；称对方 buddy 的语气也要看关系，有时亲切，有时不客气。",
+    "examples": [
+      [
+        "She met her old school buddies for lunch.",
+        "她和以前学校里的朋友一起吃了午饭。"
+      ],
+      [
+        "The course pairs beginners with study buddies.",
+        "这门课给初学者配学习搭档。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buddies#English",
+      "https://www.etymonline.com/word/buddy"
+    ]
+  },
+  {
+    "word": "ceased",
+    "ipa": "英、美 /siːst/",
+    "meaning": "停止了；结束了；不再〔过去式、过去分词〕",
+    "sense": "原来一直在发生，现在不再继续，就是 ceased。比 stopped 往往正式一点，常出现在活动、运作、声音等事情结束的叙述里。",
+    "split": "cease 去末尾 e，加完整 -ed → ceased，/s/ 后读 /t/，末尾 /st/。cease 经法语 cesser 接拉丁 cessare 停下，和 cedere 退让、离开相关。",
+    "history": [
+      [
+        "拉丁 cedere → cessare 停下 → 法语 cesser",
+        "停止活动、退下的词族"
+      ],
+      [
+        "英语 cease + -ed → ceased",
+        "现代过去形式，读一个音节 /siːst/"
+      ]
+    ],
+    "explanation": "ceased operating 是停止运作；ceased to exist 是不复存在；the noise ceased 是噪声停了。",
+    "usage": "ceased operating；ceased to exist；the noise ceased。",
+    "contrast": "ceased 不读成 seize 的 /siːzd/；seized 是抓住了。词尾 /st/ 与 /zd/，意义和词源都不同。",
+    "examples": [
+      [
+        "The noise ceased after the machine was switched off.",
+        "机器关闭后，噪声停了。"
+      ],
+      [
+        "The old club ceased to exist many years ago.",
+        "那个老俱乐部多年前就已不复存在。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ceased#English",
+      "https://www.etymonline.com/word/cease"
+    ]
+  },
+  {
+    "word": "creators",
+    "ipa": "英 /kriˈeɪtəz/；美 /kriˈeɪtɚz/",
+    "meaning": "创造者；创作者〔复数〕",
+    "sense": "把原来没有的作品、设计、节目等做出来的人，可以叫 creators。重点在创作、创造的角色，不只限于网络视频。",
+    "split": "creator + -s → creators。可对应 create 与 -or 人名词尾学习，历史 creator 经法语接拉丁 creator、creare 创造；英语名词的记录早于 create 动词。",
+    "history": [
+      [
+        "拉丁 creare 创造、使生长 → creator 创造者",
+        "动作与相关人物的拉丁词族"
+      ],
+      [
+        "法语等 → 英语 creator → creators",
+        "现代泛指创作者，不能把学习顺序当借入先后"
+      ]
+    ],
+    "explanation": "content creators 是内容创作者；the creators of a game 是游戏创作者；independent creators 是独立创作者。",
+    "usage": "content creators；independent creators；the creators of the game。",
+    "contrast": "creator 是创作一方，creation 可以说作品或创作行为。作品可能由多位 creators 共同完成。",
+    "examples": [
+      [
+        "The festival invited independent creators to share their work.",
+        "艺术节邀请独立创作者分享作品。"
+      ],
+      [
+        "The book includes interviews with the game’s creators.",
+        "这本书收录了对游戏创作者的采访。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creators#English",
+      "https://www.etymonline.com/word/creator"
+    ]
+  },
+  {
+    "word": "detained",
+    "ipa": "英、美 /dɪˈteɪnd/",
+    "meaning": "拘留了；扣留了；耽搁了〔过去式、过去分词〕",
+    "sense": "本来可以离开，却被留住，是 detained。可以是正式扣留，也可以是别的事情把人耽搁住了。",
+    "split": "detain + -ed → detained，/n/ 后读 /d/。拉丁 de- 离开 + tenere 持住 → detinere 留住、阻住，经法语 detenir 等进入英语。",
+    "history": [
+      [
+        "拉丁 detinere 留住 → 法语 detenir → detain",
+        "持住、不让继续前行的图景"
+      ],
+      [
+        "detain + -ed → detained",
+        "现代过去式、过去分词，词尾 /nd/"
+      ]
+    ],
+    "explanation": "was detained for questioning 是被扣留问话；was detained by a meeting 是被会议耽搁，后一用法较正式。",
+    "usage": "was detained for questioning；detained by a meeting；briefly detained。",
+    "contrast": "detained 不等于已经被定罪；普通耽搁义也仍存在。判断是在说正式拘留还是误了时间，要看主语、原因和上下文。",
+    "examples": [
+      [
+        "In the novel, the traveler was detained for questioning.",
+        "小说里，那名旅客被扣留问话。"
+      ],
+      [
+        "I was detained by a meeting and arrived late.",
+        "我被一个会议耽搁，到晚了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/detained#English",
+      "https://www.etymonline.com/word/detain"
+    ]
+  },
+  {
+    "word": "dolls",
+    "ipa": "英 /dɒlz/；美 /dɑːlz/",
+    "meaning": "玩偶；娃娃〔复数〕",
+    "sense": "做成人、婴儿等形象，供人玩、收藏的小玩偶，就是 dolls。名字曾经是人的昵称，后来也拿来叫这种人形玩具。",
+    "split": "doll + -s → dolls，/l/ 后读 /z/。Doll 是 Dorothy 等人名的昵称形式，后来发展出玩偶名词，现代普通物品名小写。",
+    "history": [
+      [
+        "Dorothy 的昵称 Doll 等 → 对人的昵称、称呼",
+        "人名缩略、声音变化的词线"
+      ],
+      [
+        "doll 的人形玩具义 → dolls",
+        "现代复数用于玩偶、娃娃等"
+      ]
+    ],
+    "explanation": "toy dolls 是玩具娃娃；paper dolls 是纸娃娃；a collection of dolls 是一套收藏的玩偶。",
+    "usage": "paper dolls；toy dolls；a collection of dolls。",
+    "contrast": "doll 可以在口语里称呼真人，但语气因关系而异；普通写玩偶时，用小写 dolls 即可。",
+    "examples": [
+      [
+        "The shop window displayed handmade dolls.",
+        "橱窗里陈列着手工玩偶。"
+      ],
+      [
+        "The children made paper dolls in class.",
+        "孩子们在课堂上做了纸娃娃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dolls#English",
+      "https://www.etymonline.com/word/doll"
+    ]
+  },
+  {
+    "word": "elephants",
+    "ipa": "英、美 /ˈelɪfənts/",
+    "meaning": "大象〔复数〕",
+    "sense": "长鼻子、大耳朵、体型很大的动物，是 elephants。这个名称经几种语言传入英语，要按借词链理解，而不是凭字母拆成现代英语小词。",
+    "split": "elephant + -s → elephants，/t/ 后读 /s/。经法语 olifant、拉丁 elephantus 接希腊 elephas、elephant- 象、象牙，更远借入来源未定。",
+    "history": [
+      [
+        "希腊 elephas、elephant- 象、象牙 → 拉丁 elephantus",
+        "远源有多种分析，不能断为某一种"
+      ],
+      [
+        "法语 olifant 等 → 英语 elephant → elephants",
+        "较晚拼写受拉丁形式影响，现代规则复数"
+      ]
+    ],
+    "explanation": "a herd of elephants 是一群象；young elephants 是幼象；elephants in a documentary 是纪录片里的象。",
+    "usage": "a herd of elephants；young elephants；African elephants。",
+    "contrast": "elephants 这里正常加 -s 变复数；与少数同形复数动物名不同，不因为都是动物就一律省 s。",
+    "examples": [
+      [
+        "The documentary follows a herd of elephants.",
+        "纪录片跟拍了一群大象。"
+      ],
+      [
+        "The child drew two elephants beside a river.",
+        "孩子画了两只站在河边的大象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elephants#English",
+      "https://www.etymonline.com/word/elephant"
+    ]
+  },
+  {
+    "word": "fries",
+    "ipa": "英、美 /fraɪz/",
+    "meaning": "薯条〔常用复数〕；煎、炸〔第三人称〕",
+    "sense": "盘子里一根根的 fries，通常是薯条；she fries an egg 则是在说她煎鸡蛋。一个数食物，一个说烹饪动作。",
+    "split": "fry 的辅音字母 + y 改 i，加 -es → fries，/aɪ/ 后词尾读 /z/。煎炸 fry 接法语 frire、拉丁 frigere，薯条名又连 French fries 等短语。",
+    "history": [
+      [
+        "拉丁 frigere 煎、炸 → 法语 frire → 英语 fry",
+        "烹饪动词词线"
+      ],
+      [
+        "French fries 等食物名称 → fries 薯条；fry → fries 第三人称",
+        "现代名词、动词同形，读一个音节"
+      ]
+    ],
+    "explanation": "a portion of fries 是一份薯条；fries an egg 是煎一个鸡蛋；fries the onions 是把洋葱炒、煎熟。",
+    "usage": "a portion of fries；fries an egg；fries the onions。",
+    "contrast": "英式普通薯条常叫 chips，美式常叫 fries；鱼苗 fry 是另一条来源，常用同形复数 fry，不能从煎炸食物推出。",
+    "examples": [
+      [
+        "We shared a portion of fries.",
+        "我们分着吃了一份薯条。"
+      ],
+      [
+        "She fries the onions before adding the tomatoes.",
+        "她先炒洋葱，再放番茄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fries#English",
+      "https://www.etymonline.com/word/fry"
+    ]
+  },
+  {
+    "word": "inquiries",
+    "ipa": "英 /ɪnˈkwaɪəriz/；美也常 /ˈɪnkwɪriz/",
+    "meaning": "询问；查询；调查〔复数〕",
+    "sense": "不知道情况，就去问、去查；一条条询问或一项项调查，就是 inquiries。是简单咨询还是正式调查，看事情的范围。",
+    "split": "inquiry 的辅音字母 + y 改 i，加 -es → inquiries，词尾 /z/。远接 in- 向里 + 拉丁 quaerere 寻找、询问，经法语等形成词族。",
+    "history": [
+      [
+        "拉丁 in- + quaerere → 询问、调查的法语及英语词族",
+        "向里查明情况的材料"
+      ],
+      [
+        "inquiry → inquiries",
+        "现代复数，enquiries 是相关拼写变体，英美读音有差异"
+      ]
+    ],
+    "explanation": "customer inquiries 是客户询问；general inquiries 是一般咨询；inquiries into an event 是对某事件的调查。",
+    "usage": "customer inquiries；general inquiries；inquiries into the matter。",
+    "contrast": "英式有时用 enquiry 说一般询问、inquiry 说正式调查，但实际重叠很多；美式广用 inquiry，不把这个区别当绝对词义界线。",
+    "examples": [
+      [
+        "The office received several inquiries about the course.",
+        "办公室收到了几条关于这门课的咨询。"
+      ],
+      [
+        "The book describes earlier inquiries into the event.",
+        "这本书介绍了此前对该事件的调查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inquiries#English",
+      "https://www.etymonline.com/word/inquiry"
+    ]
+  }
+]

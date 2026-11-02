@@ -1,0 +1,88 @@
+[
+  {
+    "id": "B2516",
+    "meaning": "气体、燃气、汽油及状态、工业过程",
+    "core": "GAS：先分气态总称与美式汽油缩略",
+    "image": "gas → gasoline；gaseous 气态与 gassy 含气相邻；再接制气过程和煤气厂。",
+    "intro": "gas 是科学造词，后来成为气体总称和燃气名；汽油 gas 是 gasoline 缩略。较冷门俚语和设备词先略，biogas 已有精讲共享。",
+    "forms": "gas → gaseous、gassy；gas + -ol + -ine → gasoline；gas + -ification；gas + works；bio- + gas。\n\ngas 借荷兰语现代造词，通常联系 van Helmont 对希腊 khaos 的改造，最初观念与现代气体定义不同。常见名词复数 gases：单写 s，再加 -es，读 /ɪz/。",
+    "branches": [
+      [
+        "基本气体与燃油",
+        "gas · gasoline"
+      ],
+      [
+        "性质",
+        "gaseous · gassy"
+      ],
+      [
+        "制气与来源",
+        "gasification · gasworks · biogas"
+      ],
+      [
+        "造词 gas → gases",
+        "gases"
+      ]
+    ],
+    "contrasts": "gas station 美式加油站；gaseous 气态、gassy 含气；gasification 工业反应与普通蒸发分清。",
+    "practice": "The old gasworks is now an exhibition about gas and the city.\n\n旧煤气厂现在是介绍燃气与城市历史的展馆。",
+    "words": [
+      "gas",
+      "gasoline",
+      "gaseous",
+      "gassy",
+      "gasification",
+      "gasworks",
+      "biogas",
+      "gases"
+    ],
+    "exclude": {
+      "off-gas": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gas-hog": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "degas": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gasser": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3592",
+    "meaning": "允许、分配、留出与可接受限度",
+    "core": "ALLOW：批准可以做，也能给事情留一份",
+    "image": "allow 基本动作，allowance 分配的钱、额度，allowable 规则允许的性质。",
+    "intro": "法语相近形式合并了分配和赞同两支历史，今天的多义因此不能只硬译成允许。",
+    "forms": "allow → 相关名词 allowance、形容词 allowable；后二者各保留法语借入历史。\n\nallow 历史合流了法语认可、赞许及分配相关词；allowed 可说获准做某事，或安排中留出的量。\n\n分配、安排与赞同、认可两条较早来源在法语相近形式中汇合。\n\n允许与分配、安排的较早来源汇合，小词决定现代结构。\n\nallowance 经法语 aloance 等材料，承接分配、准许及赞许词线的汇合；现代 -s 常数津贴、零用钱安排，make allowances for 是体谅、考虑特殊情况。",
+    "branches": [
+      [
+        "动作、份额与限度",
+        "allow · allowance · allowable"
+      ],
+      [
+        "allowed：获准与被留出的限度",
+        "allow · allowed"
+      ],
+      [
+        "allow → allowing：许可与留出条件",
+        "allow · allowing"
+      ],
+      [
+        "allow → allows：给许可、留余地",
+        "allow · allows"
+      ],
+      [
+        "allow 分配、准许词族 → allowances",
+        "allowances"
+      ]
+    ],
+    "contrasts": "allow someone to do 对照 let someone do；allow for 计入；allowance 不全是工资；allowable 不只是可能。",
+    "practice": "The allowance must stay within the allowable budget.\n\n津贴必须在允许预算内。",
+    "words": [
+      "allow",
+      "allowance",
+      "allowable",
+      "allowed",
+      "allowing",
+      "allows",
+      "allowances"
+    ],
+    "exclude": {}
+  }
+]

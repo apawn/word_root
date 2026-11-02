@@ -1,0 +1,191 @@
+[
+  {
+    "id": "B2747",
+    "meaning": "一口气、呼吸动作和气息声分清",
+    "core": "BREATH /breθ/：气；BREATHE /briːð/：呼吸",
+    "image": "breath → breathe；breathless 缺气、急切；breathy 带气声；breathtaking 令人惊叹。",
+    "intro": "breathed 作 breathe 过去式通常 /briːðd/；较冷门的旧语音形容词另有 /breθt/，不拿后者去教普通“呼吸过了”的读音。",
+    "forms": "brǣþ → breath；中古英语 brethen → breathe；breath + -less/-y；breath + taking 组成惊叹比喻。",
+    "branches": [
+      [
+        "气息与呼吸动作",
+        "breath · breathe"
+      ],
+      [
+        "状态、声音与引起感受",
+        "breathless · breathy · breathtaking"
+      ]
+    ],
+    "contrasts": "breath/breathe 元音与清浊都变；breaths/breathes 名词复数和动词三单；breathy/breathless 音质与缺气状态。",
+    "practice": "After the climb, she paused to catch her breath and breathe more slowly.\n\n爬完坡后，她停下来喘口气，慢慢恢复呼吸。",
+    "words": [
+      "breath",
+      "breathe",
+      "breathless",
+      "breathy",
+      "breathtaking"
+    ],
+    "exclude": {
+      "breathed": "普通 breathe 过去式及其 /briːðd/ 已在正文解释；独立 breath + -ed 的旧形容词 /breθt/ 较冷门，暂不单列。"
+    }
+  },
+  {
+    "id": "B2788",
+    "meaning": "细碎发声的旧词缩短成轻松聊天",
+    "core": "CHATTER → CHAT：长词先来，短词后缩",
+    "image": "chatter 叽喳、牙齿打战 → chat 闲聊 → chatty；chat + bot → chatbot。",
+    "intro": "不要因为 chatter 较长就把它写成 chat 加人物后缀。现代聊天可线上线下；chatbot 的 bot 也可以纯软件。",
+    "forms": "chateren 等拟声形式 → chatter → 缩短 chat；chat + -y → chatty；chat + bot → chatbot。\n\n中古英语 chateren 等的鸟鸣、闲谈拟声材料在先，chat 是后来短形式；不是现代 chat 加人物 -er 最初形成 chatter。\n\nchat 从 chatter 缩短，较早闲谈、唠叨，后常说熟人聊天。现代双写 t，加完整 -ing，线上、线下均可。",
+    "branches": [
+      [
+        "声音旧词与聊天短词",
+        "chatter · chat"
+      ],
+      [
+        "聊天性质与程序",
+        "chatty · chatbot"
+      ],
+      [
+        "chatter 先于 chat：叽喳、闲聊与较短形式",
+        "chatter · chatters · chattered · chattering · chat"
+      ],
+      [
+        "chatter 截短 → chat → chatting",
+        "chatting"
+      ]
+    ],
+    "contrasts": "chatter/chat 连续碎响与轻松交谈；chatty/talkative 氛围和话多的侧重；bot 不一定实体机器人。",
+    "practice": "The chatty visitor began to chatter while we waited for the chatbot’s reply.\n\n我们等聊天机器人回复时，那位健谈的访客开始聊个不停。",
+    "words": [
+      "chatter",
+      "chat",
+      "chatty",
+      "chatbot",
+      "chatters",
+      "chattered",
+      "chattering",
+      "chatting"
+    ],
+    "exclude": {
+      "e-chat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3351",
+    "meaning": "声响到干扰，不一定每个 noise 都很大声",
+    "core": "NOISE：想要的信息之外，混进来的杂声杂点",
+    "image": "noise → noisy；noiseless 说缺少可闻噪声。照片和数据也用噪声比喻。",
+    "intro": "a noise 有时只是某个声响；noisy image 是图像有噪点，不是图像自己在叫。更远词源未定，不编晕船演化故事。",
+    "forms": "古法语 noise → noise；noise + -y → noisy；noise + -less → noiseless。\n\nnoisy 去 noise 的 e 加 y；比较时 y 改 i 加完整 er、est，z 音保留。\n\n与 noise 比较喧声，不由 noise 派生。rumor、rumour 同一词的美英常见拼写，接古法语、拉丁 rumor 喧声、传闻；复数各自加 s，不制造两条独立词源。\n\nnoise 经法语 noise 嘈杂、争闹等，远源未定，不把 nausea 等猜测写成定论。现代保留 e 加 -s，/z/ 后读 /ɪz/。",
+    "branches": [
+      [
+        "声响与干扰基础",
+        "noise"
+      ],
+      [
+        "噪声多少的性质",
+        "noisy · noiseless"
+      ],
+      [
+        "noise → noisy → noisier → noisiest：声响更多",
+        "noise · noisy · noisier · noisiest"
+      ],
+      [
+        "rumor、rumour：从喧声、众人议论到传闻",
+        "rumor · rumors · rumour · rumours"
+      ],
+      [
+        "noise → noises：可数的各种声响",
+        "noises"
+      ]
+    ],
+    "contrasts": "noisy/loud 杂声与音量；noiseless/quiet/silent 具体搭配、侧重点不同。",
+    "practice": "The noisy fan added background noise to the recording.\n\n吵闹的风扇给录音添了背景噪声。",
+    "words": [
+      "noise",
+      "noisy",
+      "noiseless",
+      "noisier",
+      "noisiest",
+      "rumor",
+      "rumors",
+      "rumour",
+      "rumours",
+      "noises"
+    ],
+    "exclude": {
+      "noise-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-noise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4234",
+    "meaning": "引导、做事与让热电通过各有搭配",
+    "core": "CONDUCT：带着走，导过去，或一个人的行为",
+    "image": "conduct、misconduct 接行为等；conductive、conduction、conductance 接传导。",
+    "intro": "名词 conduct 品行常前重音，动词 conduct 引导、进行、传导常后重音。conductance 后重音，专门量义别和 conduction 过程混用。",
+    "forms": "拉丁 condūcere、conductus 等 → conduct；mis- + conduct；相关传导形容词、过程名词；conduct + -ance → conductance。\n\nconducts 作动词三单，重读后面，不沿用名词 conduct 行为的前重音。",
+    "branches": [
+      [
+        "行为、进行与不当行为",
+        "conduct · misconduct"
+      ],
+      [
+        "传导性质、过程与量",
+        "conductive · conduction · conductance"
+      ],
+      [
+        "conducts 的后重音动作形式",
+        "conduct · conducts"
+      ]
+    ],
+    "contrasts": "conduct 名词动词重音；conduction/conductance 传导过程与量；conductance/conductivity 对象电导与材料电导率。",
+    "practice": "The material conducts electricity, but this experiment measures the conductance of one specific sample.\n\n这种材料能导电，而这次实验测的是某个具体样品的电导。",
+    "words": [
+      "conduct",
+      "misconduct",
+      "conductive",
+      "conduction",
+      "conductance",
+      "conducts"
+    ],
+    "exclude": {
+      "after-conduct": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3230",
+    "meaning": "储罐名称被历史借给战车，再有口语义",
+    "core": "TANK：容器、坦克和暴跌要看场景",
+    "image": "tank 容器 → tanker 运输；tank 战车 → antitank；口语 tank 失败、猛跌另辨。",
+    "intro": "一战借容器名作保密称呼，是能讲清的历史；tank 失败义却不宜编成战车必定冲下坡。词义关联的确定程度不同。",
+    "forms": "tanque 等水池、容器传播背景 → tank；储罐名历史借给履带战车；tank + -er；anti- + tank。\n\n容器名称经葡萄牙语、南亚词传播背景进入，一战战车命名另有历史；失败动词是后起用法。",
+    "branches": [
+      [
+        "基础同形用法",
+        "tank"
+      ],
+      [
+        "罐装运输工具",
+        "tanker"
+      ],
+      [
+        "对抗坦克的性质",
+        "antitank"
+      ],
+      [
+        "tank → tanks：储罐与战车",
+        "tank · tanks"
+      ]
+    ],
+    "contrasts": "tank/tanker 坦克与罐运工具别误译；tank 比赛故意输和销量暴跌要辨主语；tank 远源分析存在分歧。",
+    "practice": "The tanker filled the fuel tank before leaving the depot.\n\n罐车离开车库前加满了油箱。",
+    "words": [
+      "tank",
+      "tanker",
+      "antitank",
+      "tanks"
+    ],
+    "exclude": {}
+  }
+]

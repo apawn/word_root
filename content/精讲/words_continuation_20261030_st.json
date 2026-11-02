@@ -1,0 +1,237 @@
+[
+  {
+    "word": "alphanumeric",
+    "ipa": "/ˌælfənjuːˈmerɪk/；美也读 /ˌælfənuːˈmerɪk/",
+    "meaning": "字母数字的；由字母、数字组成的",
+    "sense": "密码规则写 alphanumeric characters，通常就是字母和数字这一类字符，如 A、b、7；具体是否必须两种都含，要看完整规则。",
+    "split": "alpha- 在这里缩自 alphabet 字母表，再接 numeric 数字的。不是把希腊 alpha 第一个强行译成第一个数字。",
+    "history": [
+      [
+        "alphabet → alpha-；加 numeric",
+        "字母材料 + 数字性质"
+      ],
+      [
+        "alphanumeric 的字符用法",
+        "字母数字类字符、组合"
+      ]
+    ],
+    "explanation": "an alphanumeric code 字母数字代码；alphanumeric characters 字母数字字符。通常排除标点符号，但系统的字符集、大小写要求应看实际说明。",
+    "usage": "an alphanumeric identifier；an alphanumeric password。",
+    "contrast": "numeric 只说数字相关；alphabetic 只说字母相关。alphanumeric 把两类合起来，不自动说明长度、顺序或强度。",
+    "examples": [
+      [
+        "The code contains six alphanumeric characters.",
+        "代码包含六个字母数字字符。"
+      ],
+      [
+        "The form accepts alphanumeric identifiers but rejects spaces.",
+        "表单接受字母数字标识符，但不接受空格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alphanumeric#English"
+    ]
+  },
+  {
+    "word": "terabyte",
+    "ipa": "/ˈterəbaɪt/",
+    "meaning": "太字节、万亿字节〔TB〕",
+    "sense": "电脑硬盘上写 1 TB，按十进制标准就是一万亿字节。tera- 告诉你数量级，byte 告诉你数的单位。",
+    "split": "国际单位制数量级前缀 tera- 10 的十二次方 + byte 字节，进入计算机容量命名。tera- 名称与希腊 teras 巨物、怪物材料相关。",
+    "history": [
+      [
+        "tera- 10¹² + byte",
+        "一万亿个字节"
+      ],
+      [
+        "terabyte、符号 TB",
+        "十进制数据容量单位"
+      ]
+    ],
+    "explanation": "a two-terabyte drive 两太字节硬盘；容量也写 2 TB。十进制 1 TB = 1000 GB；二进制 2 的四十次方字节的明确名称是 tebibyte，符号 TiB。",
+    "usage": "a terabyte of data；a one-terabyte disk。",
+    "contrast": "TB 与 TiB 不是同一精确数量。操作系统显示、旧用法有时把二进制容量也写作 TB，比较数值时要看采用哪种口径。",
+    "examples": [
+      [
+        "The drive can store two terabytes of data.",
+        "这个硬盘能存两太字节的数据。"
+      ],
+      [
+        "The specification defines one terabyte as one trillion bytes.",
+        "规格说明将一太字节定义为一万亿字节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/terabyte#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes",
+      "https://physics.nist.gov/cuu/Units/binary.html"
+    ]
+  },
+  {
+    "word": "quadcopter",
+    "ipa": "英 /ˈkwɒdkɒptə/；美 /ˈkwɑːdkɑːptər/",
+    "meaning": "四旋翼飞行器",
+    "sense": "四个旋翼在机身四周提供升力，是常见无人机的一种布局。quad- 数四个，copter 给旋翼飞行器关系。",
+    "split": "quad- 是 quadri- 四的缩短形式，接拉丁 quattuor；copter 是 helicopter 直升机重新切分、截短后形成的材料。",
+    "history": [
+      [
+        "quadri- → quad-；helicopter → copter",
+        "四 + 旋翼飞行器材料"
+      ],
+      [
+        "quad- + copter → quadcopter",
+        "四旋翼飞行器"
+      ]
+    ],
+    "explanation": "a camera quadcopter 搭载相机的四旋翼飞行器；a quadcopter drone 四旋翼无人机。名称具体说旋翼数量，不只说四个轮子或四个机翼。",
+    "usage": "fly a quadcopter；a quadcopter frame。",
+    "contrast": "drone 无人机范围更广，也包括其他旋翼数、固定翼等类型；quadcopter 专门给出四旋翼布局。",
+    "examples": [
+      [
+        "The quadcopter hovered above the field.",
+        "四旋翼飞行器悬停在田野上方。"
+      ],
+      [
+        "She attached a small camera to the quadcopter.",
+        "她给四旋翼飞行器装上了一台小相机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quadcopter#English"
+    ]
+  },
+  {
+    "word": "tesseract",
+    "ipa": "/ˈtesərækt/",
+    "meaning": "四维超立方体",
+    "sense": "点延伸成线，线平移成正方形，正方形再沿新方向延伸成立方体；再多一个独立方向，得到四维对应物 tesseract。",
+    "split": "十九世纪 Charles Howard Hinton 用希腊 tessara- 四与 aktis 射线相关材料造词。名称用于四维立方体，不是现代英语 act 行动加了 tesser-。",
+    "history": [
+      [
+        "希腊 tessara- 四 + aktis 射线相关材料",
+        "十九世纪的四维几何造词"
+      ],
+      [
+        "tesseract",
+        "立方体在四维中的对应物"
+      ]
+    ],
+    "explanation": "a projection of a tesseract 四维超立方体的投影；a rotating tesseract animation 旋转投影动画。屏幕里的立体框图是投影，和纸上画立方体的道理相似。",
+    "usage": "visualize a tesseract；a tesseract model。",
+    "contrast": "tetrahedron 是四个面围成的三维立体；tesseract 的四说维数。两者都有四的材料，但数的对象不同。",
+    "examples": [
+      [
+        "The animation shows a projection of a rotating tesseract.",
+        "动画展示了一个旋转四维超立方体的投影。"
+      ],
+      [
+        "A tesseract is the four-dimensional analogue of a cube.",
+        "四维超立方体是立方体在四维中的对应物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tesseract#English"
+    ]
+  },
+  {
+    "word": "kerfuffle",
+    "ipa": "英 /kəˈfʌfəl/；美 /kərˈfʌfəl/",
+    "meaning": "一阵混乱、争吵、风波〔非正式〕",
+    "sense": "一点误会引出一群人吵吵嚷嚷，折腾一阵又过去了，可以说 a kerfuffle；常有把风波看得没那么严重的语气。",
+    "split": "与苏格兰语 curfuffle、carfuffle 等形式相连，后部联系 fuffle 弄乱。前部来源有拟声加强、盖尔语相关等不同分析，不能确定为一个固定意义的古代 ker-。",
+    "history": [
+      [
+        "苏格兰 curfuffle 等相关形式",
+        "弄乱、混乱的词族"
+      ],
+      [
+        "英语 kerfuffle 等拼写固定",
+        "一阵吵闹、混乱或风波"
+      ]
+    ],
+    "explanation": "a kerfuffle over a small mistake 为一个小错误闹出的风波；cause a kerfuffle 引起一阵骚动。通常非正式，有时带轻描淡写、调侃。",
+    "usage": "a bit of a kerfuffle；a kerfuffle about the rules。",
+    "contrast": "conflict 可说严肃、持续的冲突；kerfuffle 常让人想到一次吵闹、折腾。是否轻微还要看语气，不能用来淡化所有严重事件。",
+    "examples": [
+      [
+        "There was a kerfuffle over the new seating plan.",
+        "新的座位安排引起了一阵争吵。"
+      ],
+      [
+        "A missing ticket caused a brief kerfuffle at the door.",
+        "一张找不到的票在门口引起了一阵小混乱。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/kerfuffle",
+      "https://en.wiktionary.org/wiki/kerfuffle#English"
+    ]
+  },
+  {
+    "word": "yuletide",
+    "ipa": "/ˈjuːltaɪd/",
+    "meaning": "圣诞时节〔常写 Yuletide，传统、文学色彩〕",
+    "sense": "贺卡上温暖的节日祝愿、老式圣诞歌里的节庆气氛，是这个词常出现的地方。它说一段节期，不是海水涨落。",
+    "split": "Yule 冬季传统节日、后来的圣诞相关称呼 + -tide 时期、节期。可能延续更早的古英语组合，晚期中古英语已有记载。",
+    "history": [
+      [
+        "Yule + 旧 -tide 时期",
+        "冬季节庆、圣诞节期"
+      ],
+      [
+        "Yuletide、yuletide 的传统用法",
+        "圣诞时节及相关节庆气氛"
+      ]
+    ],
+    "explanation": "Yuletide greetings 圣诞时节的问候；at Yuletide 在圣诞时节。常见于贺词、歌曲、传统叙述；日常 Christmas 更直接。",
+    "usage": "Yuletide celebrations；a Yuletide card。",
+    "contrast": "tide 的旧义有时间、季节，现代常用潮汐只是它的一条语义发展。Yuletide 的同形小写还可作园艺名称，本页讲节期用法。",
+    "examples": [
+      [
+        "They sent warm Yuletide greetings to their friends.",
+        "他们向朋友送上了温暖的圣诞节期问候。"
+      ],
+      [
+        "The village holds a concert at Yuletide.",
+        "村里在圣诞时节举办音乐会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/Yuletide#English",
+      "https://www.etymonline.com/word/yuletide"
+    ]
+  },
+  {
+    "word": "bot",
+    "ipa": "英 /bɒt/；美 /bɑːt/",
+    "meaning": "自动程序、机器人程序；机器人〔robot 的口语缩短〕",
+    "sense": "群里自动回答问题、网站上自动处理重复任务的程序，都可能叫 bot。先记住有些动作由程序自动做。",
+    "split": "计算机及机器人用法由 robot 截短，保留后半 bot；robot 更早借自捷克语。英语还有来源不同的同形旧词，不能混进这条自动程序历史。",
+    "history": [
+      [
+        "robot → bot",
+        "截去前部形成短词"
+      ],
+      [
+        "计算机 bot 的扩展",
+        "自动执行任务的软件；相应程序账户"
+      ]
+    ],
+    "explanation": "a search bot 搜索机器人；a moderation bot 管理机器人；a game bot 游戏程序角色等。bot 可以有益，也可以被滥用，词本身不保证目的和能力。",
+    "usage": "an automated bot；a bot account；build a bot。",
+    "contrast": "bot 范围比 chatbot 广：聊天机器人是其中一种。普通脚本也能自动运行，但 bot 往往被当作持续执行任务、与平台或用户交互的主体。",
+    "examples": [
+      [
+        "The bot posts a reminder every morning.",
+        "这个机器人程序每天早晨发布一条提醒。"
+      ],
+      [
+        "A chatbot answers common questions on the website.",
+        "网站上的聊天机器人回答常见问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bot#English"
+    ]
+  }
+]

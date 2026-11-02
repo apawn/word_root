@@ -1,0 +1,91 @@
+"""Familiar people words and the actual histories behind their endings."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3892':dict(words=['edit','editor','editors'],label='editor → edit；editor → editors：英语长词早于常见短动词',note='editor 借拉丁 ēditor 发布者；现代英语 edit 的常见动词用法较晚，不能把全部词史倒置成 edit 先造 editor。'),
+ 'C0083':dict(words=['art','artist','artists'],label='art／artist → artists：技艺、艺术与从业者',note='artist 经法语、拉丁和意大利语相关传递背景借入，现代 art 加 -ist 是认形对应，不替代借入史。'),
+ 'B2583':dict(words=['write','writer','writers'],label='write → writer → writers：写作、作者与写入工具',note='writer 接古英语 wrītere 等人物名词；现代认形去 e 加 -er，复数再加 s。'),
+ 'B2999':dict(words=['teach','teacher','teachers'],label='teach → teacher → teachers：教与教的人',note='teacher 对应 teach 加 -er，有较早本族形式；teachers 词尾读 /z/。'),
+ 'B2760':dict(words=['read','reader','readers'],label='read → reader → readers：读者、读本与读取工具',note='reader 的 read 读 /riːd/，不是过去式 /red/；人物、读本、读取装置等用法分场景。'),
+ 'C1635':dict(words=['visit','visitor','visitors'],label='visit → visitor → visitors：探访、来访者',note='visitor 的现代 -or 形式与更早 -er、-or 等人物名词形式有关，历史还要分别看法语、英语材料。'),
+ 'A1834':dict(words=['custom','customer','customers'],label='custom／customer → customers：惯常往来到顾客',note='customer 的法语、拉丁惯例及税费词族史比现代 custom 加 -er 更复杂；现代常用义是购买商品、服务的人。'),
+ 'B2852':dict(words=['drive','driver','drivers'],label='drive → driver → drivers：驾驶者、推动因素与驱动程序',note='driver 现代认形为 drive 去 e 加 -er，早有相应人物形式，计算机用法是后来的技术引申。'),
+ 'C0966':dict(words=['passage','passenger','passengers'],label='passage → passenger → passengers：旅程中的人',note='passenger 经法语 passagier、英语 passager 等发展，英语后来插入 n，现代再加 s。'),
+ 'C0097':dict(words=['author','authors'],label='author → authors：促成、创作的人',note='author 接拉丁 augēre 词族的 auctor 促成者、发起者，经法语传入；h 后加，现代常读 /θ/。'),
+}
+W('editors','英 /ˈedɪtəz/；美 /ˈedɪtərz/','编辑、编者；编辑器；editor 的复数',
+ '把材料筛选、整理、修改到能发表，是编辑的工作；让你编辑文字、图片的软件工具，也叫 editors。',
+ 'editor + -s，词尾 /z/。editor 借拉丁 ēditor 发布者，接 ēdere 给出、发布；英语这个人物词早于现代 edit 的常见动词用法，edit 后来有逆构历史。',
+ [['拉丁 ēdere → ēditor → 英语 editor','发布、给出 → 发布者、编辑'],['editor + -s → editors；另看 editor → edit 的逆构关系','多位编者；多个编辑工具']],
+ 'newspaper editors 报纸编辑；the editors of a collection 文集编者；text editors 文本编辑器；photo editors 图片编辑人员或图片编辑工具〔看语境〕。',
+ 'editors working on the draft；several different editors。','editors 可以是人，也可以是工具。现代 edit + -or 容易认，但真正英语词史里 editor 更早，不能只按今天短词、长词的外形排序判断先后。',
+ ('The editors checked the names and dates before publication.','出版前，编辑们核对了人名和日期。'),('These two text editors save files in the same format.','这两个文本编辑器以同一种格式保存文件。'),sources=['https://en.wiktionary.org/wiki/editors#English','https://en.wiktionary.org/wiki/editor#English'])
+W('artists','英 /ˈɑːtɪsts/；美 /ˈɑːrtɪsts/','艺术家；艺术工作者；技艺出众的人；artist 的复数',
+ '把技艺、想象和表达做成作品的人，是 artists。可以是画家、雕塑家，也可以在其他艺术形式里工作。',
+ 'artist + -s，/t/ 后读 /s/，结尾 /sts/。artist 经法语 artiste 接中古拉丁 artista，并有意大利语相关传递背景；现代可用 art + -ist 认形。',
+ [['拉丁 ars／art- 艺术、技艺相关材料 → artista／artiste → artist','技艺、艺术 → 从事艺术的人'],['artist + -s → artists','多位艺术家、艺术工作者']],
+ 'local artists 当地艺术家；visual artists 视觉艺术家；performing artists 表演艺术工作者；makeup artists 化妆师。',
+ 'works by local artists；artists in the community。','artists 比 painters 范围广，画家是艺术家中的一类。makeup artists 常指有专业化妆技艺的人，artist 在具体职业称谓里不只限画画。',
+ ('The gallery invited local artists to show their work.','画廊邀请当地艺术家展出作品。'),('The festival brings together musicians and other performing artists.','节庆活动汇集了音乐人和其他表演艺术工作者。'),sources=['https://en.wiktionary.org/wiki/artists#English','https://en.wiktionary.org/wiki/artist#English'])
+W('writers','英 /ˈraɪtəz/；美 /ˈraɪtərz/','作者、写作者；作家；写入设备等〔技术语境〕；writer 的复数',
+ '把想法、信息写下来的人是 writers。写小说、写报道、写说明的人都可以这样叫，不只限于以文学创作为职业的人。',
+ 'writer + -s，词尾 /z/。现代认形 write 去掉 e 加 -er，历史接古英语 wrītere 等人物形式；write 词首 w 在现代不发音。',
+ [['古英语 wrītere → writer；与 write 写相连','从事写作、记录的人'],['writer + -s → writers','多位作者、写作者；部分技术工具名称']],
+ 'novel writers 小说作者；travel writers 旅行写作者；writers and editors 作者与编辑；technical writers 技术文档写作者。',
+ 'works by local writers；writers in the group。','writers 强调写作的人，authors 常强调某部作品的创作归属；范围会重叠。writer 的 /raɪ/ 与 write 同读，w 不另发音。',
+ ('The writers exchanged feedback on their first drafts.','写作者们互相交流了对初稿的意见。'),('The magazine invited travel writers to describe their home towns.','杂志邀请旅行写作者介绍自己的家乡。'),sources=['https://en.wiktionary.org/wiki/writers#English','https://en.wiktionary.org/wiki/writer#English'])
+W('teachers','英 /ˈtiːtʃəz/；美 /ˈtiːtʃərz/','教师、老师；教授某种知识技能的人；teacher 的复数',
+ '把知识、技能或看问题的方法教给别人，是 teachers 的共同角色。学校教师是一类，教音乐、驾驶、语言的人也可以这样叫。',
+ 'teacher + -s，词尾 /z/。teacher 对应 teach + -er 的人物名词，有较早本族历史形式；teach 的 /tʃ/ 保留到 teacher。',
+ [['teach 及早期相应人物形式 → teacher','教 → 教的人'],['teacher + -s → teachers','多位老师、教师']],
+ 'school teachers 学校教师；language teachers 语言教师；music teachers 音乐教师；teachers and students 教师与学生。',
+ 'teachers at the school；experienced teachers。','teachers 指教的人，students 指学习者；instructors 常突出具体技能、操作训练，tutors 常按个人、小组辅导等场景使用，具体称谓有地区差别。',
+ ('The teachers planned the trip together.','老师们一起安排了这次出行。'),('Several language teachers shared examples from their classes.','几位语言教师分享了课堂上的例子。'),sources=['https://en.wiktionary.org/wiki/teachers#English','https://en.wiktionary.org/wiki/teacher#English'])
+W('readers','英 /ˈriːdəz/；美 /ˈriːdərz/','读者；读本；读取器；reader 的复数',
+ '人读文章，是 readers；给人练阅读的书可以是 readers；机器读取卡片、信息，也能叫 readers。它们都围着读取这个动作展开。',
+ 'reader + -s，词尾 /z/。reader 现代对应 read /riːd/ + -er，接古英语 rǣdere、中古英语 redere 等，读者、读本、装置义后来各自发展。',
+ [['古英语 rǣdere → 中古英语 redere → reader','阅读的人；后来有读本、读取装置等'],['reader + -s → readers','多位读者；多本读本；多台读取器']],
+ 'regular readers 常读某刊物的读者；young readers 年轻读者；graded readers 分级读物；card readers 读卡器。',
+ 'readers of the magazine；books for early readers。','readers 里的 read 读 /riːd/，read 的过去式 /red/ 是另一种读音。graded readers 常指学习阅读用的书，card readers 指设备，要看前面的修饰词。',
+ ('The introduction gives readers a quick overview of the book.','引言让读者快速了解这本书的全貌。'),('The classroom has several graded readers for beginners.','教室里有几本适合初学者的分级读物。'),sources=['https://en.wiktionary.org/wiki/readers#English','https://en.wiktionary.org/wiki/reader#English'])
+W('visitors','英 /ˈvɪzɪtəz/；美 /ˈvɪzɪtərz/','来访者；参观者、游客；访客；visitor 的复数',
+ '到一个地方看人、看东西、停留一下的人，是 visitors。医院探访者、博物馆参观者和网站访客，都能用这个词。',
+ 'visitor + -s，词尾 /z/。更早有英语 visiter、visitere，相当于 visit + -er，也有来自法语 visitour、visiteor 等人物词的支线；现代常用 visitor 对应 -or。',
+ [['中古英语 visiter／visitere；另路法语 visitour 等 → visitor','探访、查看的人；英语、法语材料相连'],['visitor + -s → visitors','多位来访、参观、访问的人']],
+ 'visitors to the museum 博物馆参观者；visitors from abroad 海外来客；website visitors 网站访客；visitors’ centre 游客中心〔也常写 visitor centre〕。',
+ 'welcome visitors；visitors at the entrance。','visitors 不一定是外地游客，也可以是本地来访者。tourists 更常突出旅游目的，guests 更常突出作为被接待者的身份。',
+ ('The museum welcomed visitors from several nearby towns.','博物馆接待了附近几个镇来的参观者。'),('Visitors can leave their coats near the entrance.','访客可以把外套放在入口附近。'),sources=['https://en.wiktionary.org/wiki/visitors#English','https://en.wiktionary.org/wiki/visitor#English','https://www.etymonline.com/word/visitor'])
+W('customers','英 /ˈkʌstəməz/；美 /ˈkʌstəmərz/','顾客、客户；customer 的复数',
+ '来购买商品或服务的人，是 customers。一个人可能只买过一次，也可能经常来，现代词义不要求每位顾客都已成为熟客。',
+ 'customer + -s，词尾 /z/。现代可认作 custom + -er，但历史经盎格鲁法语 custumer、古法语 coustumier 等接惯例、税费词族；早期收取税费等用法与后来的购买者义分别看。',
+ [['法语 custumer／coustumier 等相关词 → customer','惯例、税费、惯常往来词族中的人物用法'],['customer + -s → customers','现代多位购买商品、服务的人']],
+ 'regular customers 熟客；new customers 新顾客；customers of the shop 这家店的顾客；serve customers 接待顾客。',
+ 'customers waiting outside；help customers choose。','customers 强调购买关系，clients 常见于专业服务、长期服务等场景，实际会重叠。customs 还可能指海关、关税或风俗，不能把它的所有义都硬塞到 customers 里。',
+ ('The shop gives customers time to compare the different models.','店里让顾客有时间比较不同型号。'),('Several regular customers helped choose books for the new display.','几位熟客帮忙为新展台挑选了书。'),sources=['https://en.wiktionary.org/wiki/customers#English','https://en.wiktionary.org/wiki/customer#English'])
+W('drivers','英 /ˈdraɪvəz/；美 /ˈdraɪvərz/','司机、驾驶者；推动因素；驱动程序等；driver 的复数',
+ '人把车带着走，是 drivers；某个因素让事情继续发展，也能被叫作驱动力。电脑里的驱动程序则帮助设备与系统配合工作。',
+ 'driver + -s，词尾 /z/。现代认形 drive 去 e 加 -er，中古英语 drivere 等已有驾驶、驱赶的人名词；因素、设备和程序义是后来的引申。',
+ [['早期 drive 及中古英语 drivere 等 → driver','驱赶、驾驶的人'],['driver + -s → drivers','多位驾驶者；多个推动因素、驱动程序等']],
+ 'bus drivers 公交司机；taxi drivers 出租车司机；drivers of change 推动变化的因素；printer drivers 打印机驱动程序。',
+ 'experienced drivers；drivers for the device。','drivers 在交通里是人，在软件里常是驱动程序，在分析里又可能是推动因素。drive 的动作画面相连，具体谁在推动什么由语境补出。',
+ ('The drivers waited beside their buses.','司机们在各自的公交车旁等候。'),('The report identifies several drivers of the change.','报告指出了推动这次变化的几个因素。'),sources=['https://en.wiktionary.org/wiki/drivers#English','https://en.wiktionary.org/wiki/driver#English'])
+W('passengers','英 /ˈpæsɪndʒəz/；美 /ˈpæsəndʒərz/','乘客、旅客；passenger 的复数',
+ '坐在车、船或飞机上搭乘的人，是 passengers。这个角色通常与驾驶、操作或提供服务的工作人员分开。',
+ 'passenger + -s，词尾 /z/。古法语 passagier 等接 passage 旅程、通行，英语早有 passager，后来插入 n 成 passenger；现代再按普通名词变复数。',
+ [['古法语 passage／passagier → 英语 passager → passenger','通行、旅程 → 旅行者；英语后来插入 n'],['passenger + -s → passengers','多位乘客、搭乘者']],
+ 'bus passengers 公交乘客；airline passengers 航空旅客；passengers and crew 乘客与乘务人员；passenger seats 乘客座位。',
+ 'passengers waiting to board；passengers on the train。','passengers 强调搭乘角色，drivers 强调驾驶角色。私人车里同行的家人也可以是 passengers，不一定每个人都单独买了票。',
+ ('The passengers waited for the doors to open.','乘客们等着车门打开。'),('The driver asked the passengers to move farther down the bus.','司机请乘客们往车厢里面再走一些。'),sources=['https://en.wiktionary.org/wiki/passengers#English','https://en.wiktionary.org/wiki/passenger#English','https://www.etymonline.com/word/passenger'])
+W('authors','英 /ˈɔːθəz/；美 /ˈɔːθərz, ˈɑːθərz/','作者、创作者；编写、撰写〔author 的第三人称单数〕',
+ '把一部作品创作、带出来的人，是 authors。它常强调这是谁写、谁创作的；author 作动词时则直接说编写、撰写。',
+ 'author + -s，词尾 /z/。经法语及拉丁借入接 auctor 促成者、发起者，远接 augere 增长词族；英语 h 后加，历史上受误以为与希腊词源有关的拼写影响，现代 th 常读 /θ/。',
+ [['拉丁 augēre → auctus／auctor → 法语相关形式 → 英语 author','使增长、促成 → 发起者、作者'],['author 名词、动词 + -s → authors','多位作者；单数主语编写']],
+ 'the authors of the book 书的作者；authors and readers 作者与读者；authors a report 撰写报告；named authors 具名作者。',
+ 'works by different authors；the authors’ names。','authors 通常强调作品创作归属，writers 强调从事写作的人；两者经常重叠。author 的 th 读 /θ/，不是 actor 演员里的 /kt/。',
+ ('The book’s two authors answered questions after the talk.','这本书的两位作者在讲话后回答了问题。'),('She authors a short report at the end of each project.','每个项目结束时，她都会撰写一份简短报告。'),sources=['https://en.wiktionary.org/wiki/authors#English','https://en.wiktionary.org/wiki/author#English','https://www.etymonline.com/word/author'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_xe',ROOTS,WORDS)
+ extend_lessons()

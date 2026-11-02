@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B2906",
+    "meaning": "与犯罪有关；人物、方式与行为分类变化",
+    "core": "CRIMINAL：与罪相关，派生时分性质、人物和入罪过程",
+    "image": "criminal → criminally；criminalize → criminalization 相邻；criminology 已有精讲，作为研究领域另列。",
+    "intro": "不把刑事程序中的人都叫已犯罪者。法律搭配与口语严重得离谱的夸张分开，例句不替某地现行法律下判断。",
+    "forms": "拉丁 crīmin- + -ālis → criminal；criminal + -ly/-ize；criminalize + -ation；crimin- + -ology。\n\n法语、晚期拉丁 criminalis 接 crimen、crimin-，人物名词再加复数。",
+    "branches": [
+      [
+        "性质、人物与方式",
+        "criminal · criminally"
+      ],
+      [
+        "入罪变化和过程",
+        "criminalize · criminalization"
+      ],
+      [
+        "研究领域",
+        "criminology"
+      ],
+      [
+        "criminal → criminals：与犯罪有关到犯罪者",
+        "crime · criminal · criminals"
+      ]
+    ],
+    "contrasts": "criminal trial 非违法审理；suspect/defendant/criminal 身份不同；criminally underrated 夸张；criminalization 非批评本身。",
+    "practice": "The essay examines criminal law and the criminalization of certain activities.\n\n文章研究刑法，以及把某些活动规定为犯罪的做法。",
+    "words": [
+      "criminal",
+      "criminally",
+      "criminalize",
+      "criminalization",
+      "criminology",
+      "crime",
+      "criminals"
+    ],
+    "exclude": {
+      "criminal-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-criminal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3384",
+    "meaning": "闭合、固定和解锁；头发另旧名词，堵塞为比喻",
+    "core": "LOCK：把可动、可开的东西固定住，再看能否解除",
+    "image": "lock → locker、locking、lockable；unlock 逆转；deadlock、gridlock 僵局；其他锁匠、气闸、相扣、擒抱和步调复用。",
+    "intro": "close 与 lock 分开，lockable/locking/locked 可能性、功能过程、状态分清。头发 lock 直接旧形另讲，冷门火器和医学病名暂略。",
+    "forms": "lock + -er/-ing/-able；un- + lock；dead/grid/air/head + lock；lock + smith/step/box；inter- + lock。\n\n锁义 loc、lucan 与头发 locc 两条古英语近源，现代同形而不强合。\n\nlock 一段清楚，pad 的更早来源未定，不硬解成软垫。\n\nunlock 的 un- 逆转锁住的动作；现代加 -ed，/k/ 后读 /t/。既可说开锁，也可比喻使潜力、内容等得以使用、显现。",
+    "branches": [
+      [
+        "锁与器具、功能、能力",
+        "lock · locker · locking · lockable · lockbox · locksmith"
+      ],
+      [
+        "解除与互扣",
+        "unlock · interlock"
+      ],
+      [
+        "堵塞、闸与擒抱步调",
+        "deadlock · gridlock · airlock · headlock · lockstep"
+      ],
+      [
+        "lock → locks：锁闭装置；头发另有旧来源",
+        "lock · locks"
+      ],
+      [
+        "padlock → padlocks：可移动挂锁",
+        "lock · padlock · padlocks"
+      ],
+      [
+        "un- 解除 + lock → unlocked",
+        "unlocked"
+      ]
+    ],
+    "contrasts": "关上不等于锁住；unlock 不等于已推开；lockable 不等于 locked；gridlock 互堵；头发不从上锁硬推。",
+    "practice": "The locker is lockable, but someone forgot to lock it.\n\n柜子可以上锁，但有人忘了锁。",
+    "words": [
+      "lock",
+      "locker",
+      "locking",
+      "lockable",
+      "lockbox",
+      "locksmith",
+      "unlock",
+      "interlock",
+      "deadlock",
+      "gridlock",
+      "airlock",
+      "headlock",
+      "lockstep",
+      "locks",
+      "padlock",
+      "padlocks",
+      "unlocked"
+    ],
+    "exclude": {
+      "anti-lock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lovelock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lockjaw": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flintlock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

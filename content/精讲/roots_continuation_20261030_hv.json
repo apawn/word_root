@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B3321",
+    "meaning": "围绕、延伸的带状物和固定动词用法",
+    "core": "BELT：绕腰的带，扩展成传动带和地图地带",
+    "image": "belt → belted/belter；beltline 车身、城市环线；beltway 城市环路。",
+    "intro": "用形状理解物件，再单独记击打、放声唱等动作。中间的联系帮助记忆，但不把所有现代用法硬翻成系腰带。",
+    "forms": "belt 继承旧腰带词；belt + -ed/-er；belt + line/way。\n\n古英语承早期拉丁相关借词，现代 s 读 ts。",
+    "branches": [
+      [
+        "带子与相关状态角色",
+        "belt · belted · belter"
+      ],
+      [
+        "环带形状与线路",
+        "beltline · beltway"
+      ],
+      [
+        "belt → belts：腰带、带状区域及动作扩展",
+        "belt · belts"
+      ]
+    ],
+    "contrasts": "belt out 放声唱；belter 可夸精彩；belted coat 是有腰带外套；车身 beltline 不是所有装饰线。",
+    "practice": "The singer in the belted coat belted out a song.\n\n那位穿系腰带外套的歌手放声唱了一首歌。",
+    "words": [
+      "belt",
+      "belted",
+      "belter",
+      "beltline",
+      "beltway",
+      "belts"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2705",
+    "meaning": "书写工具与围住空间两条 pen 分支",
+    "core": "PEN：先辨在写字，还是把东西圈住",
+    "image": "书写 pen → penmanship/penknife；围栏 pen → playpen/bullpen/pent。",
+    "intro": "一个是羽毛笔的历史，一个是围栏的旧英语来源。字母一样不代表用羽毛笔搭出了牛栏；按词义支线分组才能清楚。",
+    "forms": "penna → penne → 书写 pen；penman + -ship；pen + knife。另线 penn → 围栏 pen；bull/play + pen；pen → pent。",
+    "branches": [
+      [
+        "书写技巧与旧工具",
+        "pen · penmanship · penknife"
+      ],
+      [
+        "围住的地方与状态",
+        "playpen · bullpen · pent"
+      ]
+    ],
+    "contrasts": "penmanship 不等于文章内容；penknife 记旧制笔用途；bullpen 棒球来源故事不定；pent-up 是被关住的比喻。",
+    "practice": "Her penmanship was clear, but the letter revealed pent-up frustration.\n\n她的字迹清楚，信里却流露出积压的挫败感。",
+    "words": [
+      "pen",
+      "penmanship",
+      "penknife",
+      "playpen",
+      "bullpen",
+      "pent"
+    ],
+    "exclude": {
+      "robo-pen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "penner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "penman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2818",
+    "meaning": "钻孔、厌烦，以及其他同形词的区别",
+    "core": "BORE：孔在被钻，人可能在被乏味磨着",
+    "image": "钻孔 bore → borer/borehole；厌烦 bore → bored/boring/boredom；bear 的过去式 bore 另分。",
+    "intro": "先分实际动作，再分谁觉得无聊、谁令人无聊。钻磨的画面可以辅助记忆，但不能抹平厌烦义历史联系中的不确定。",
+    "forms": "borian → bore；bore + -er/-ed/-ing/-dom；bore + hole。另线 bear → bore → borne/born。",
+    "branches": [
+      [
+        "钻孔与设备",
+        "bore · borer · borehole"
+      ],
+      [
+        "无聊感的造成、承受和状态",
+        "boring · bored · boredom"
+      ]
+    ],
+    "contrasts": "人也可 boring，物也有因语法而用分词的情况；bored 不另加音节；boredom 不是孤独；bear 的过去式 bore 不等于 bored。",
+    "practice": "The boring talk caused boredom, and the bored audience began to leave.\n\n无聊的讲话使人厌烦，感到无聊的听众开始离开。",
+    "words": [
+      "bore",
+      "borer",
+      "borehole",
+      "boring",
+      "bored",
+      "boredom"
+    ],
+    "exclude": {
+      "full-bore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wellbore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

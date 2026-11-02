@@ -1,0 +1,234 @@
+"""Interrupted speech, babbling, chatter and louder voices."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3034':dict(words=['belly','bellows'],label='belly 与 bellows：袋、气囊材料的不同发展',note='风箱名 bellows 经中古英语复数 belwes 接古英语袋、气囊材料，belly 的腹部义走同一词族另一发展；近源不同于吼叫动词 bellow 的三单。'),
+ 'A1697':dict(words=['stammer','stammers','stammered','stammering','stutter','stutters','stuttered','stuttering'],label='stammer、stutter 的旧反复动作材料与现代词尾',note='stammer 承古英语 stamerian，stutter 接较早 stutt 一系的反复动作形式；这里 -er 不是一个人，现代 -ed、-ing 作用于整个动词。'),
+ 'A2238':dict(words=['babble','babbles','babbled','babbling'],label='babble 的婴儿话拟声与反复动作材料',note='中古英语 babeln 等与欧洲相似婴儿声词可比较，现代 -le 关系不能编成从 Babel 塔直接借入的历史。'),
+ 'B2788':dict(words=['chatter','chatters','chattered','chattering','chat'],label='chatter 先于 chat：叽喳、闲聊与较短形式',note='中古英语 chateren 等的鸟鸣、闲谈拟声材料在先，chat 是后来短形式；不是现代 chat 加人物 -er 最初形成 chatter。'),
+ 'A1760':dict(words=['stammer','stammers','stammered','stammering','stutter','stutters','stuttered','stuttering','babble','babbles','babbled','babbling','chatter','chatters','chattered','chattering','shout','shouts','shouted','shouting','roar','roars','roared','roaring','bellow','bellows','bellowed','bellowing'],label='说话停顿、喋喋不停与吼叫动词的现代变化',note='shouted 的 /t/ 后另添 /ɪd/，stammered、stuttered、babbled、roared、bellowed 等末尾读 /d/；bellows 的风箱名词另接袋、鼓胀的来源，不等同吼叫动词三单的构词。'),
+}
+STAMMER=[['古英语 stamerian → 中古英语 stameren → stammer','说话迟疑、停顿、重复；旧反复动作材料'],['现代 stammer 名词、动词','说话不流畅、断续；不规定每次都是同一种原因']]
+W('stammer','英 /ˈstæmə/；美 /ˈstæmər/','结巴、断续地说；说话时停顿、重复的现象',
+ '话想往外说，却在某些声音、音节处停住或重复，叫 stammer。它可以描述一次说话，也能作名词说持续存在的说话特征。',
+ '承古英语 stamerian，经中古英语 stameren 延续，带旧反复动作材料。-er 在这里不是指人的后缀，指人要看另一个词 stammerer。',STAMMER,
+ 'stammer an apology 是断断续续道歉；have a stammer 是说话有结巴现象。具体原因不能只靠这个词推定。',
+ 'stammer out an answer 结结巴巴答出来；a slight stammer 轻微的说话不流畅。',
+ 'stammer 与 stutter 大量重合，不能硬分成一个一定由紧张造成、另一个一定不是；mumble 则更重含糊不清。',
+ ('He began to stammer when everyone suddenly looked at him.','大家突然都看向他时，他开始说得结结巴巴。'),('She has a slight stammer.','她说话时有些停顿、重复。'),sources=['https://en.wiktionary.org/wiki/stammer#English','https://www.etymonline.com/word/stammer'])
+W('stammers','英 /ˈstæməz/；美 /ˈstæmərz/','结巴、断续说〔第三人称单数〕',
+ '说一个人某些时候说话会停住、重复音节，用 stammers。重点是话怎么说出来，不是评价他有没有想明白。',
+ 'stammer + -s，词尾读 /z/；基础词的 mm 保留，不因三单再变化。',
+ STAMMER+[['stammer + -s → stammers','他、她说话断续']],
+ 'stammers when speaking 是说话时有停顿、重复；stammers an answer 是结结巴巴回答。',
+ 'occasionally stammers 偶尔说话断续；stammers over a word 说某个词时卡住。',
+ 'stammers 不表示一个人不理解内容；它描写表达声音的流畅度，与知道答案与否分开。',
+ ('He sometimes stammers when answering a question.','他回答问题时有时会说得断断续续。'),('She stammers over the first few words and then continues.','她头几个词说得有点卡顿，随后继续讲下去。'),sources=['https://en.wiktionary.org/wiki/stammers#English','https://www.etymonline.com/word/stammer'])
+W('stammered','英 /ˈstæməd/；美 /ˈstæmərd/','结结巴巴、断断续续地说了',
+ '刚才那句话停了又说、音节有些重复，用 stammered。叙事里常接一个回答、名字、道歉。',
+ 'stammer + 完整 -ed，词尾 /d/；不是看到词中 m、r 就改成不规则过去式。',
+ STAMMER+[['stammer + -ed → stammered','过去断续地说']],
+ 'stammered an apology 是结结巴巴道歉了；stammered out his name 是断断续续说出了名字。',
+ 'stammered a reply 结巴着回答了；stammered in surprise 吃惊得说话断续了。',
+ 'stammered 关注停顿、重复，whispered 关注声音轻；一个人的话可以轻却很流畅，也可以两种特征都有。',
+ ('He stammered an apology and stepped aside.','他结结巴巴道了歉，站到一旁。'),('“I did not know,” she stammered.','“我不知道。”她结结巴巴地说。'),sources=['https://en.wiktionary.org/wiki/stammered#English','https://www.etymonline.com/word/stammer'])
+W('stammering','英 /ˈstæmərɪŋ/；美 /ˈstæmərɪŋ/','正在结巴、断续说话；说话不流畅的现象',
+ '话正在某些声音处停住、重复，叫 stammering。作名词时可以把这种说话现象整体提出来。',
+ 'stammer + 完整 -ing；英式在后接元音时发 /r/。已有动词整体变化，不把 -er 剥成指人名词。',
+ STAMMER+[['stammer + -ing → stammering','说话不流畅的过程、现象']],
+ 'a stammering reply 是一个断续的回答，started stammering 是开始说得不流畅。',
+ 'stammering over a name 说名字时卡顿；stammering out a sentence 断断续续说出一句话。',
+ 'stammering 与 stuttering 常同义；作为词汇理解时，不凭一次叙述就推断某种固定原因。',
+ ('He was stammering as he tried to explain the surprise.','他想解释那件意外的事，话说得断断续续。'),('She gave a stammering reply before taking a breath.','她断续地答了几句，随后吸了一口气。'),sources=['https://en.wiktionary.org/wiki/stammering#English','https://www.etymonline.com/word/stammer'])
+STUTTER=[['中古英语 stutt、stutten 等 → 带旧反复动作材料的 stutter','停住、迟疑与说话断续；也有低地德语、荷兰语借入分析'],['现代 stutter 名词、动词','声音、音节重复或停顿；也比喻机器、进展断断续续']]
+W('stutter','英 /ˈstʌtə/；美 /ˈstʌtər/','结巴、说话停顿或重复；断断续续运行；说话不流畅的现象',
+ '声音想往前走，却重复一下、停住一下，是 stutter。也能用来写引擎、进展像这样断断续续。',
+ '接较早 stutt、stutten 一系的旧反复动作形式，-er 不指一个人。更早停住材料与说话义如何相连、是否借入，存在不同分析。',STUTTER,
+ 'have a stutter 是说话有停顿、重复现象；stutter out a reply 是断断续续答出来；the engine stutters 是引擎断续运转。',
+ 'a slight stutter 轻微的说话不流畅；stutter over a name 说名字时卡顿。',
+ 'stutter 与 stammer 大量重合，不硬规定成两种完全不同的表现；stutter 还常扩展到机器、过程的卡顿。',
+ ('He has a slight stutter.','他说话时有些停顿、重复。'),('The old engine began to stutter on the hill.','旧引擎上坡时开始断续运转。'),sources=['https://en.wiktionary.org/wiki/stutter#English','https://www.etymonline.com/word/stutter'])
+W('stutters','英 /ˈstʌtəz/；美 /ˈstʌtərz/','说话停顿、重复〔第三人称单数〕；断续运转',
+ '说一个人发音会有停顿、重复，用 stutters；机器忽停忽走，也可以用这个动词形象地写。',
+ 'stutter + -s，词尾读 /z/。词中 tt 留在原处，三单直接接在整个动词后。',
+ STUTTER+[['stutter + -s → stutters','他、她说话断续；它断续运行']],
+ 'stutters on certain sounds 是说某些声音时卡顿；the engine stutters 是引擎断续运转。',
+ 'occasionally stutters 偶尔说得断续；stutters into motion 断断续续开始运转。',
+ 'stutters 描述声音、动作推进的不流畅，mumbles 描述说话含糊；一个词可以重复得很清楚，也可以含糊却不停顿。',
+ ('She sometimes stutters on the first sound of a word.','她有时会在一个词的第一个声音处停顿、重复。'),('The engine stutters whenever the car climbs a steep hill.','汽车每次爬陡坡，引擎都会断续运转。'),sources=['https://en.wiktionary.org/wiki/stutters#English','https://www.etymonline.com/word/stutter'])
+W('stuttered','英 /ˈstʌtəd/；美 /ˈstʌtərd/','断断续续说了；卡顿、断续运行了',
+ '刚才一句话说得重复、停顿，用 stuttered；引擎刚才断续响了几下，也能用同一形象。',
+ 'stutter + 完整 -ed，词尾读 /d/；基础词最后是轻元音或 r，不因里面有 t 就把词尾读成 /ɪd/。',
+ STUTTER+[['stutter + -ed → stuttered','过去说话停顿、重复；断续运行']],
+ 'stuttered a reply 是断续回答了，stuttered into life 是机器断断续续启动了。',
+ 'stuttered out his name 断断续续说出名字；stuttered and stopped 卡顿后停下了。',
+ 'stuttered 可描述一次不流畅，也可在长期特征的叙述中出现；仅靠过去式，不区分两种时间范围。',
+ ('He stuttered out his name at the reception desk.','他在接待处断断续续说出了名字。'),('The motor stuttered and then stopped.','马达断续响了几下，随后停住。'),sources=['https://en.wiktionary.org/wiki/stuttered#English','https://www.etymonline.com/word/stutter'])
+W('stuttering','英 /ˈstʌtərɪŋ/；美 /ˈstʌtərɪŋ/','正在说话停顿、重复；断断续续、卡顿的',
+ '声音、话语或机器运转正一步一停，是 stuttering。它能写进行中的动作，也能修饰这种断续状态。',
+ 'stutter + 完整 -ing，英式后接元音时发 /r/；旧反复动作构件已经在基础词里，不另剥成指人后缀。',
+ STUTTER+[['stutter + -ing → stuttering','断续说话、运行的过程或状态']],
+ 'a stuttering reply 是断续的答复，a stuttering engine 是运转不连贯的引擎。',
+ 'stuttering over a word 说某词时卡顿；a stuttering start 断断续续、不顺利的开头。',
+ 'stuttering 与 stammering 在说话场景常同义；写进展 a stuttering start 时，则是把说话卡顿的形象借给过程。',
+ ('He was stuttering as he tried to introduce himself.','他想作自我介绍，话说得有些停顿、重复。'),('After a stuttering start, the project gained momentum.','起初进展断断续续，后来项目逐渐推进得顺了。'),sources=['https://en.wiktionary.org/wiki/stuttering#English','https://www.etymonline.com/word/stutter'])
+BABBLE=[['中古英语 babeln 等 → babble','与婴儿话、含混说话相似的欧洲拟声词比较'],['现代 babble 动词、名词','咿呀说话；急乱地说个不停；连续低语声，也可写流水']]
+W('babble','/ˈbæbəl/','咿呀说话；喋喋不休、急乱地说；含混连续声',
+ '像婴儿“吧吧吧”一串串发声，或人兴奋得话不停往外涌，是 babble。声音连续，却未必有清楚条理。',
+ '接中古英语 babeln 一类拟声、反复动作材料，可与婴儿声词比较；没有可证的从 Babel 巴别塔名称直接借入路线。',BABBLE,
+ 'babble about the trip 是兴奋、急乱地不停说旅行，a babble of voices 是一片混杂低语。',
+ 'babble on 说个不停；a babble of conversation 混杂的交谈声。',
+ 'mumble 主要是字句含糊，babble 更突出声音、话语一串接一串，可能太快、太多或没有清楚内容。',
+ ('The baby began to babble happily.','婴儿开始开心地咿呀发声。'),('A babble of voices filled the hall.','大厅里满是混杂的交谈声。'),sources=['https://en.wiktionary.org/wiki/babble#English','https://www.etymonline.com/word/babble'])
+W('babbles','/ˈbæbəlz/','咿呀说话；喋喋不休、急乱地说〔第三人称单数〕',
+ '说婴儿一看到人就咿呀不断，或某人兴奋地话说个不停，用 babbles。',
+ 'babble + -s，保留 e，/l/ 后读 /z/。拟声基础词已经固定，再按现代三单变化。',
+ BABBLE+[['babble + -s → babbles','他、她咿呀发声、急乱地说']],
+ 'babbles happily 是开心地咿呀说，babbles about the news 是为消息激动得说个不停。',
+ 'babbles to her toys 对玩具咿呀说；babbles on and on 一直不停说。',
+ 'babbles 不只指婴儿，成人也可因兴奋或急乱而滔滔说；通常比 talks 更强调声音、内容不受控制地涌出。',
+ ('The baby babbles to her toys.','婴儿对着玩具咿呀说话。'),('He babbles about his plans whenever he gets excited.','他一兴奋就把自己的计划滔滔不绝说出来。'),sources=['https://en.wiktionary.org/wiki/babbles#English','https://www.etymonline.com/word/babble'])
+W('babbled','/ˈbæbəld/','咿呀说了；急乱、喋喋不休地说了',
+ '刚才一连串的话不大受控制地涌出来，用 babbled。可以是婴儿发声，也可以是成人兴奋、紧张地说。',
+ 'babble 去 e，加完整 -ed，/l/ 后读 /d/；保留基础词的 bb，不把它看成这次过去式新双写。',
+ BABBLE+[['babble + -ed → babbled〔去 e〕','过去咿呀发声、急乱地说']],
+ 'babbled excitedly 是兴奋得说个不停，babbled an explanation 是急乱地解释一通。',
+ 'babbled about the holiday 不停讲假期；babbled happily 开心地咿呀说了。',
+ 'babbled 通常带一股接连涌出的声音感，explained 可以是清楚有序的说明；解释内容和表达方式分开。',
+ ('She babbled excitedly about the surprise party.','她兴奋地把惊喜派对说个不停。'),('The baby babbled happily in his chair.','婴儿坐在椅子里开心地咿呀发声。'),sources=['https://en.wiktionary.org/wiki/babbled#English','https://www.etymonline.com/word/babble'])
+W('babbling','/ˈbæblɪŋ/','正在咿呀、喋喋不休；一片连续低语；潺潺的',
+ '声音正一串串不停往外出，是 babbling；小溪连续细碎的流水声，也能被写得像在说话。',
+ 'babble 去 e，加完整 -ing；与婴儿话相关的旧声音材料保留，流水义借的是连续声音的听感。',
+ BABBLE+[['babble + -ing → babbling','连续发声、说话 → 相似的潺潺流水声']],
+ 'a babbling baby 是咿呀发声的婴儿，a babbling brook 是潺潺小溪。',
+ 'babbling about the news 为消息不停说；the babbling of water 潺潺水声。',
+ 'babbling 写声音连续、细碎，roaring 写声音饱满、响亮；同样的水流会因大小、听感不同而选不同词。',
+ ('The baby was babbling in the next room.','婴儿正在隔壁咿呀发声。'),('We sat beside a babbling brook.','我们坐在一条潺潺的小溪旁。'),sources=['https://en.wiktionary.org/wiki/babbling#English','https://www.etymonline.com/word/babble'])
+CHATTER=[['中古英语 chateren、chiteren 等 → chatter','鸟鸣、快速尖细声音与闲谈的拟声材料'],['chatter → 较短的 chat；chatter 的现代多义用途','喋喋不停、叽喳声；牙齿因冷、怕而打颤']]
+W('chatters','英 /ˈtʃætəz/；美 /ˈtʃætərz/','喋喋说、叽喳叫；牙齿打颤〔第三人称单数〕',
+ '声音小而快，一下一下不停响，可以说 chatters：鸟叽喳，人闲聊不停，牙齿也会打颤发响。',
+ 'chatter + -s，词尾 /z/。chatter 的较早形式在先，chat 是后来短形式；不把 -er 理解为聊天的人。',
+ CHATTER+[['chatter + -s → chatters','他、它叽喳、喋喋说、打颤']],
+ 'chatters about her day 是不停讲一天的事，her teeth chatter 用复数主语，his jaw chatters 则按单数变化。',
+ 'chatters happily 开心地说个不停；chatters in the trees 在树上叽喳叫。',
+ 'chatters 往往有快速、接连的声音感；chats 常只是轻松交谈，不必听起来叽叽喳喳。',
+ ('She chatters happily about her day.','她开心地讲着一天的事，说个不停。'),('The bird chatters from its perch by the window.','鸟在窗边的栖架上叽喳叫。'),sources=['https://en.wiktionary.org/wiki/chatters#English','https://www.etymonline.com/word/chatter'])
+W('chattered','英 /ˈtʃætəd/；美 /ˈtʃætərd/','喋喋说、叽喳叫了；牙齿打颤了',
+ '过去一阵子小而快的声音接连响着，用 chattered。它能写说话，也能写牙齿控制不住的碰响。',
+ 'chatter + 完整 -ed，词尾 /d/；基础词末尾不是 /t/，不因中间 tt 就把词尾读成 /ɪd/。',
+ CHATTER+[['chatter + -ed → chattered','过去喋喋说、叽喳或打颤']],
+ 'chattered all the way 是一路不停说；her teeth chattered 是她牙齿打颤。',
+ 'chattered with excitement 兴奋得说个不停；chattered with cold 冷得牙齿打颤。',
+ 'chattered 的牙齿用法重在一下一下碰响；shivered 可宽泛说身体发抖，不局限牙齿。',
+ ('They chattered all the way home.','他们一路叽叽喳喳说到家。'),('Her teeth chattered in the cold wind.','冷风里，她的牙齿直打颤。'),sources=['https://en.wiktionary.org/wiki/chattered#English','https://www.etymonline.com/word/chatter'])
+W('chattering','英 /ˈtʃætərɪŋ/；美 /ˈtʃætərɪŋ/','正在叽喳、喋喋说；牙齿打颤；一片快速杂声',
+ '一串串快声音还在继续，是 chattering：树里的鸟、人群的闲聊，或牙齿的碰响。',
+ 'chatter + 完整 -ing；英式接元音时发 /r/。整个声音动词形成过程、声音名词。',
+ CHATTER+[['chatter + -ing → chattering','叽喳、闲谈、打颤的过程或声音']],
+ 'chattering birds 是叽喳的鸟，chattering teeth 是打颤的牙齿；两种场景共享快速、反复的听感。',
+ 'chattering in the corridor 在走廊叽喳交谈；the chattering of birds 鸟的叽喳声。',
+ 'chattering 可写不同声源，whispering 更偏轻而压低的气声；人声热闹、快速时通常不叫耳语。',
+ ('The children were chattering in the corridor.','孩子们在走廊里叽叽喳喳交谈。'),('We could hear birds chattering in the trees.','我们能听见树上鸟的叽喳声。'),sources=['https://en.wiktionary.org/wiki/chattering#English','https://www.etymonline.com/word/chatter'])
+SHOUT=[['中古英语 shouten、schowten → shout','大声呼喊；更早来源未定，有日耳曼相关分析'],['现代 shout 动词；名词沿动词发展','大声喊话、一声喊；可以呼唤、警告、愤怒或欢呼']]
+W('shout','/ʃaʊt/','大声喊、呼喊；一声喊叫',
+ '把声音提起来，让远处的人也听见，就是 shout。它可以是叫朋友、提醒危险，也可以是愤怒或高兴地喊。',
+ '接中古英语 shouten 等，更早来源未定。有与 shoot、北欧相关词联系的分析，但不能把“把声音射出去”的画面当成已经证实的单一路线。',SHOUT,
+ 'shout to someone 常说隔着距离喊话；shout at someone 常带冲人吼的意味，具体语气仍看情境。',
+ 'shout for help 大声求助；a shout of joy 一声欢呼。',
+ 'shout 主要说声音大，不规定一定生气；whisper 则压低声音，两者可说同一段内容的不同音量。',
+ ('We had to shout to be heard above the music.','音乐太响，我们得大声喊才能让人听见。'),('A shout from the garden brought her to the window.','花园里一声喊，把她引到窗边。'),sources=['https://en.wiktionary.org/wiki/shout#English','https://www.etymonline.com/word/shout'])
+W('shouts','/ʃaʊts/','大声喊〔第三人称单数〕；几声喊叫、欢呼〔复数〕',
+ '说她总是隔着花园喊人，用 shouts；一阵阵欢呼或喊声，也可数作 shouts。',
+ 'shout + -s，/t/ 后读 /s/；名词复数和动词三单同形，不双写 t。',
+ SHOUT+[['shout + -s → shouts','他、她大声喊；几声喊叫']],
+ 'shouts across the room 是隔着房间喊话；shouts of joy 是阵阵欢呼。',
+ 'shouts for help 大声求助；angry shouts 愤怒的喊声。',
+ 'shouts 数清楚的几声喊，shouting 常把一片喊声、喊叫活动整体提出来；视角不同。',
+ ('He shouts across the garden to his brother.','他隔着花园向哥哥喊话。'),('Shouts of joy came from the playground.','操场上传来阵阵欢呼。'),sources=['https://en.wiktionary.org/wiki/shouts#English','https://www.etymonline.com/word/shout'])
+W('shouted','/ˈʃaʊtɪd/','大声喊了、呼喊了',
+ '刚才把声音提得很大喊出话，用 shouted。能喊一声，也能把一整句说得很响。',
+ 'shout + 完整 -ed，/t/ 后读 /ɪd/；ou 是元音字母组合，不按短单元音拼写去双写 t。',
+ SHOUT+[['shout + -ed → shouted','过去大声呼喊']],
+ 'shouted a warning 是大声喊出警告，shouted to be heard 是为了让人听见而提高声音。',
+ 'shouted for help 大声求助了；shouted across the road 隔着马路喊了。',
+ 'shouted 描写音量，scolded 描写责骂；大声喊一句“当心”并不是在骂人。',
+ ('She shouted a warning as the bicycle approached.','自行车靠近时，她大声提醒了一句。'),('He shouted my name across the station.','他隔着车站大声喊我的名字。'),sources=['https://en.wiktionary.org/wiki/shouted#English','https://www.etymonline.com/word/shout'])
+W('shouting','/ˈʃaʊtɪŋ/','正在大声喊；喊叫声、呼喊活动',
+ '响亮的喊声正在持续，就是 shouting。可以是争吵、欢呼，也可以只因距离远、环境吵。',
+ 'shout + 完整 -ing，直接相接；保持原拼写，不双写 t。',
+ SHOUT+[['shout + -ing → shouting','大声呼喊的过程、声音']],
+ 'heard shouting 是听见喊声；shouting over the music 是在音乐声中提着嗓子喊话。',
+ 'loud shouting 响亮的喊声；shouting for help 正在大声求助。',
+ 'shouting 不等于 arguing；前者说大声喊，后者说争论，两者可能同时发生，也可以分别出现。',
+ ('We heard shouting from the street.','我们听见街上传来喊声。'),('They were shouting to each other over the noise of the engine.','引擎声太响，他们正彼此提着嗓子喊话。'),sources=['https://en.wiktionary.org/wiki/shouting#English','https://www.etymonline.com/word/shout'])
+ROAR=[['古英语 rarian → 中古英语 roren、raren → roar','大声吼叫、哀号，通常有拟声背景'],['英语 roar 的动词、名词用途','动物吼叫；风、引擎等轰鸣；人群欢呼、放声大笑']]
+W('roar','英 /rɔː/；美 /rɔːr/','吼叫、轰鸣；大声欢呼、大笑；吼声、轰鸣声',
+ '声音饱满、响亮地涌出来，像狮吼、引擎轰鸣，是 roar。人群欢呼、笑得很响，也能共享这个画面。',
+ '动词承古英语 rarian，名词与同族动词、旧名词材料相连。较远常按拟声解释，不用今天某个字母片段硬推来源。',ROAR,
+ 'roar with laughter 是放声大笑；the roar of the crowd 是人群的欢呼声；roar past 是轰鸣着飞驰过去。',
+ 'a lion’s roar 狮吼；a roar of approval 一片响亮赞同声。',
+ 'growl 常低沉、带警告，roar 通常更饱满、响亮；写人时 roar 还可表示欢笑，不只怒吼。',
+ ('The crowd let out a roar of approval.','人群爆发出一片响亮的赞同声。'),('We heard the lion roar beyond the trees.','我们听见树丛那边狮子的吼叫。'),sources=['https://en.wiktionary.org/wiki/roar#English','https://www.etymonline.com/word/roar'])
+W('roars','英 /rɔːz/；美 /rɔːrz/','吼叫、轰鸣、欢呼〔第三人称单数〕；几声吼叫、轰鸣〔复数〕',
+ '说引擎一发动就声浪涌出，用 roars；连续几声大吼、欢笑，也能数成 roars。',
+ 'roar + -s，词尾 /z/；英式通常不发词末 r，美式通常保留。',
+ ROAR+[['roar + -s → roars','它吼叫、轰鸣；几声吼声、轰鸣']],
+ 'roars with laughter 是放声大笑；roars of laughter 是阵阵大笑声，一个是动词，一个是名词复数。',
+ 'the engine roars 引擎轰鸣；roars of approval 阵阵响亮赞同声。',
+ 'roars 可以属于人、动物、风和机器；它描写声音的饱满响亮，不规定每次都是真正兽吼。',
+ ('The engine roars as the boat leaves the harbour.','船离港时，引擎轰鸣。'),('Roars of laughter came from the next room.','隔壁传来阵阵大笑。'),sources=['https://en.wiktionary.org/wiki/roars#English','https://www.etymonline.com/word/roar'])
+W('roared','英 /rɔːd/；美 /rɔːrd/','吼叫、轰鸣了；放声大笑、欢呼了',
+ '刚才一股响亮、饱满的声音冲出来，用 roared。也可以让人听见车从身边轰鸣而过。',
+ 'roar + 完整 -ed，词尾 /d/，不添 /ɪd/；美式常在 r 后接 /d/，英式常不发 r。',
+ ROAR+[['roar + -ed → roared','过去吼叫、轰鸣、欢笑']],
+ 'roared with laughter 是放声大笑了；roared past us 是轰鸣着从我们身边驶过。',
+ 'roared in anger 愤怒地吼了；roared their approval 大声表达了赞同。',
+ 'roared with laughter 是欢笑，roared in anger 是怒吼；后面的词语把同一种响亮声放进不同情绪。',
+ ('They roared with laughter at the story.','那个故事逗得他们放声大笑。'),('A motorcycle roared past us.','一辆摩托车轰鸣着从我们身边驶过。'),sources=['https://en.wiktionary.org/wiki/roared#English','https://www.etymonline.com/word/roar'])
+W('roaring','英 /ˈrɔːrɪŋ/；美 /ˈrɔːrɪŋ/','正在吼叫、轰鸣；响亮强盛的；极大的',
+ '声音正旺、势头很足，是 roaring 的画面。roaring fire 是旺火，roaring success 是大获成功，不要求成功本身真的发声。',
+ 'roar + 完整 -ing，英式在元音相接处发 /r/。从吼叫动作形成形容词，声音强盛的形象可延伸到火势、成功程度。',
+ ROAR+[['roar + -ing → roaring','吼叫、轰鸣的过程 → 声势强、程度大的']],
+ 'a roaring fire 是熊熊旺火；a roaring success 是大获成功；roaring with laughter 是正在放声大笑。',
+ 'a roaring engine 轰鸣的引擎；roaring crowds 大声欢呼的人群。',
+ 'roaring 可形容强盛的场景，raging 常更突出猛烈、失控；旺火、烈火有相近场景，语感重点仍不同。',
+ ('We warmed our hands beside a roaring fire.','我们在熊熊炉火旁暖手。'),('The concert was a roaring success.','那场音乐会大获成功。'),sources=['https://en.wiktionary.org/wiki/roaring#English','https://en.wiktionary.org/wiki/roar#English'])
+BELLOW=[['中古英语 belwen → bellow；通常接古英语 bylgan 一系','深而响亮的叫声，有拟声背景'],['现代 bellow 动词；声音名词沿动词发展','牛等动物的深吼 → 人大声吼话']]
+W('bellow','英 /ˈbeləʊ/；美 /ˈbeloʊ/','深声大吼；大声吼话；一声深吼',
+ '像公牛那样，从胸口涌出一个又深又响的声音，是 bellow。写人时，就是放开嗓子吼出话。',
+ '经中古英语 belwen，通常接古英语 bylgan 等相关材料，带拟声背景。它不是把英语 bell 铃加一个现代 -ow 后缀拼出来。',BELLOW,
+ 'bellow an order 是大声吼出命令，bellow at someone 是冲某人大吼；a bellow 是一声深而响的叫声。',
+ 'a deep bellow 一声深吼；bellow with rage 愤怒地大吼。',
+ 'shout 只侧重大声喊，bellow 往往更有深沉、强有力、像大型动物的声音感。',
+ ('A deep bellow came from the field.','田野里传来一声深沉的吼叫。'),('She had to bellow to be heard over the machinery.','机器太吵，她得放开嗓子吼，才能让人听见。'),sources=['https://en.wiktionary.org/wiki/bellow#English','https://www.etymonline.com/word/bellow'])
+W('bellows','英 /ˈbeləʊz/；美 /ˈbeloʊz/','大声吼〔第三人称单数〕；阵阵深吼；风箱〔另源名词〕',
+ '说牛深声吼叫，是它 bellows；壁炉旁挤压着鼓风的器具，也叫 bellows。声音形式和风箱名，是不同近源路线碰成同一个写法。',
+ '吼叫形式是 bellow + -s，/z/ 词尾；风箱经中古英语 belwes，接古英语袋、气囊材料，与 belly 同族，保留复数形态，不从现代吼叫动词造名词。',
+ BELLOW+[['另一条：古英语 belg 等袋名 → 中古英语 belwes → bellows','可以挤压、鼓风的袋状器具；不是吼叫动词三单的名词化']],
+ 'the bull bellows 是牛大吼；a pair of bellows 是一具风箱；loud bellows 也可数几声深吼。',
+ 'use the bellows 用风箱；bellows instructions 大声吼出指令。',
+ '句子里先看是发声动作还是鼓风器具；不能因为风箱会出声，就把器具的实际历史改成“吼叫的东西”。',
+ ('The bull bellows from the far side of the field.','公牛在田地另一边大吼。'),('He bellows instructions over the noise.','噪声中，他大声吼出指令。'),('She used a pair of bellows to blow air into the fire.','她用风箱向炉火鼓风。'),('The old bellows hung beside the fireplace.','旧风箱挂在壁炉旁。'),sources=['https://en.wiktionary.org/wiki/bellows#English','https://www.etymonline.com/word/bellow','https://www.etymonline.com/word/bellows'])
+W('bellowed','英 /ˈbeləʊd/；美 /ˈbeloʊd/','深声吼叫了；大声吼出话了',
+ '刚才那句话是从胸口大声吼出来的，可以说 bellowed。它把声音写得深、响、有力度。',
+ 'bellow + 完整 -ed，元音后读 /d/；结尾 w 是原词拼写的一部分，不去掉，也不增加 /ɪd/。',
+ BELLOW+[['bellow + -ed → bellowed','过去深声吼叫、吼话']],
+ 'bellowed an order 是吼出命令；bellowed across the yard 是隔着院子放开嗓子喊。',
+ 'bellowed with anger 愤怒地吼了；bellowed his name 大声吼出了他的名字。',
+ 'bellowed 是强而深的大声喊，whispered 是轻声说；同一句话换动词，读者听见的声音完全不同。',
+ ('“Come back here,” she bellowed across the yard.','“回来！”她隔着院子大吼。'),('The bull bellowed behind the gate.','公牛在门后深声吼叫。'),sources=['https://en.wiktionary.org/wiki/bellowed#English','https://www.etymonline.com/word/bellow'])
+W('bellowing','英 /ˈbeləʊɪŋ/；美 /ˈbeloʊɪŋ/','正在深声大吼；深沉响亮的吼叫声',
+ '那股深而响的叫声正在持续，是 bellowing。可以写动物，也可以写人扯开嗓子喊话。',
+ 'bellow + 完整 -ing，保留原拼写；/əʊ/、/oʊ/ 后继续接 /ɪŋ/。',
+ BELLOW+[['bellow + -ing → bellowing','深吼、大声吼话的过程、声音']],
+ 'heard bellowing 是听见深声吼叫，bellowing orders 是正大声吼着命令。',
+ 'a bellowing bull 正在大吼的公牛；bellowing above the noise 在噪声中放声吼话。',
+ 'bellowing 强调低沉有力的大声，screaming 常更尖；声音很大仍可以有不同音色。',
+ ('We could hear cattle bellowing beyond the barn.','我们能听见谷仓外牛在深声吼叫。'),('She was bellowing instructions above the noise of the engines.','她正扯开嗓子吼出指令，盖过引擎噪声。'),sources=['https://en.wiktionary.org/wiki/bellowing#English','https://www.etymonline.com/word/bellow'])
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zex',ROOTS,WORDS)
+ extend_lessons()

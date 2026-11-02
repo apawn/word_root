@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3361",
+    "meaning": "沙砾岸滩；休闲风格、登陆立足点与场景服装",
+    "core": "BEACH：水边沙石铺成的岸滩",
+    "image": "beach → beachy，再 beachhead、beachwear；beachfront、beachside 已有共享，按位置分组。",
+    "intro": "更早来源有不同分析，从可靠岸滩义讲。海滩不必全是细沙，也不必处处可游泳。",
+    "forms": "beach + -y/head/wear/front/side。\n\n中古英语岸滩词，具体远源未定；es 在 ch 后增加 iz。",
+    "branches": [
+      [
+        "基本岸滩和风格",
+        "beach · beachy"
+      ],
+      [
+        "位置、阵地和用途",
+        "beachfront · beachside · beachhead · beachwear"
+      ],
+      [
+        "beach → beaches：水边的沙、砾岸滩",
+        "beach · beaches"
+      ]
+    ],
+    "contrasts": "beach 沙或砾滩、coast 海岸；beachy 风格不等于 beachfront 位置；beachwear 比 swimwear 范围宽。",
+    "practice": "The beachside shop sells beachwear in a relaxed, beachy setting.\n\n海滩旁的店在轻松的海滨风环境里出售沙滩服装。",
+    "words": [
+      "beach",
+      "beachy",
+      "beachfront",
+      "beachside",
+      "beachhead",
+      "beachwear",
+      "beaches"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3954",
+    "meaning": "人聚集、通行的室内空间与公共建筑",
+    "core": "HALL：会聚的大空间，也可门厅、走廊",
+    "image": "hall → guildhall；hallway、hallmark、dancehall 既有共享，分别讲通道、检验印记历史与舞厅。",
+    "intro": "旧重要大厅词延续，现代范围从家中门厅到音乐厅。hallmark 的印记历史已有单词讲解，不重新由走廊硬猜。",
+    "forms": "hall + way/mark；guild/dance + hall。\n\nhall 承古英语 heall 有屋顶的宽大场所，后来有建筑通道等义；复数 -s 在 /l/ 后读 /z/。",
+    "branches": [
+      [
+        "基本空间和走道",
+        "hall · hallway"
+      ],
+      [
+        "组织、活动和历史用法",
+        "guildhall · dancehall · hallmark"
+      ],
+      [
+        "hall → halls：大厅、礼堂、走廊",
+        "halls"
+      ]
+    ],
+    "contrasts": "hall 大厅或过道靠建筑语境；guildhall 行会馆不是黄金大厅；hallmark 是固定历史支线。",
+    "practice": "Visitors walked through the hall of the old guildhall.\n\n访客穿过老行会会馆的大厅。",
+    "words": [
+      "hall",
+      "hallway",
+      "guildhall",
+      "dancehall",
+      "hallmark",
+      "halls"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3480",
+    "meaning": "加工金属的手艺人；材料、产品与技艺比喻",
+    "core": "SMITH：把材料做成物件的匠人",
+    "image": "smith 基础词后，按已有 blacksmith、goldsmith 与新增 silversmith 分材料；locksmith、gunsmith 分产品，wordsmith 接文字比喻。",
+    "intro": "工匠画面直观，远源却不要强定锤击一说。冷门箭匠、地区性复合职业暂略。",
+    "forms": "black/gold/silver/lock/gun/word + smith；部分组合有古英语旧形式。",
+    "branches": [
+      [
+        "通称和材料",
+        "smith · blacksmith · goldsmith · silversmith"
+      ],
+      [
+        "产品及技艺比喻",
+        "locksmith · gunsmith · wordsmith"
+      ]
+    ],
+    "contrasts": "Smith 姓不说明当代职业；silversmith 可做杯盘不只首饰；smith 远源与 smite 不能一概定为同词。",
+    "practice": "The locksmith and the silversmith use different tools for their trades.\n\n锁匠和银匠用不同工具从事各自的手艺。",
+    "words": [
+      "smith",
+      "blacksmith",
+      "goldsmith",
+      "silversmith",
+      "locksmith",
+      "gunsmith",
+      "wordsmith"
+    ],
+    "exclude": {
+      "hammersmith": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arrowsmith": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

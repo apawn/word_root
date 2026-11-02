@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B3236",
+    "meaning": "近形短词的多条来源：骗局、反方、缩称与旧学习词",
+    "core": "CON：先判断是哪一条来源，再理解整句",
+    "image": "con 骗局 → conman；pros and cons 的 con 来自 contra；cunning 只与旧知识词源支线相连。",
+    "intro": "这个页面把同形词分开。共同拼写不代表每个意思从同一个画面长出来，更不能把所有 con- 前缀都当诈骗。",
+    "forms": "confidence、contra、convict、convention 等分别缩成 con；旧 con 学习另接古英语 cunnan／cunnian 等知识、尝试相关形式。",
+    "branches": [
+      [
+        "骗局与人物",
+        "con · conman"
+      ],
+      [
+        "旧知识词源的对照",
+        "cunning"
+      ]
+    ],
+    "contrasts": "cunning 不由骗局 con 直接加 -ing；pros and cons 不说一堆骗子。",
+    "practice": "The conman’s cunning helped his con appear convincing.\n\n骗子的狡猾让他的骗局显得可信。",
+    "words": [
+      "con",
+      "conman",
+      "cunning"
+    ],
+    "exclude": {
+      "ex-con": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3905",
+    "meaning": "短促敲击、言语与音乐表演，以及责备的固定用法",
+    "core": "RAP：从短促、有力的动作到说话和音乐，固定搭配另看",
+    "image": "rap → rapper；get a bad rap 负面名声，take the rap 担责。",
+    "intro": "抓声音和言语的历史联系，同时把固定搭配记成真实用法。音乐词源不需要后来凑出的字母全称。",
+    "forms": "中古英语 rap、rappen → 动作、言语等分支；rap + -er；rap 音乐并非 rhythm and poetry 的原始缩写。",
+    "branches": [
+      [
+        "动作、音乐与人物",
+        "rap · rapper"
+      ]
+    ],
+    "contrasts": "rap／wrap、rapper／wrapper 同音不同词；rap 与 hip-hop 关系密切，范围并不全相同。",
+    "practice": "The rapper turned a simple beat into a memorable rap performance.\n\n说唱表演者把简单节拍组织成了一场令人难忘的说唱演出。",
+    "words": [
+      "rap",
+      "rapper"
+    ],
+    "exclude": {
+      "proto-rap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3842",
+    "meaning": "孤独的性质，以及把这种感受作为名词来谈",
+    "core": "LONELY：觉得缺少连接；LONELINESS：这种感受、状态",
+    "image": "lonely → loneliness。",
+    "intro": "独处是一种情境，孤独可以是一种感受。解释时把事实与感受分开，例句就更容易理解。",
+    "forms": "alone、lone 相关词族 → lonely；加 -ness 时 y 变 i。",
+    "branches": [
+      [
+        "性质与状态名词",
+        "lonely · loneliness"
+      ]
+    ],
+    "contrasts": "alone 不自动等于 lonely；loneliness 不是仅按周围有几个人来量。",
+    "practice": "She was alone that afternoon but did not feel lonely or experience loneliness.\n\n那天下午她独处，却没有感到寂寞。",
+    "words": [
+      "lonely",
+      "loneliness"
+    ],
+    "exclude": {
+      "lonely-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4317",
+    "meaning": "意图这一名词，以及怀有某种意图的形容词",
+    "core": "INTENTIONED：看出发点怎样，不先断定效果怎样",
+    "image": "intention → intentioned，常搭配 well、badly 等限定。",
+    "intro": "把想达到的目的、出发点与实际结果分开。这样 well intentioned but unhelpful 就不矛盾。",
+    "forms": "intention + -ed，具有某种意图；这个 -ed 不是普通动词过去时。\n\n拉丁 intentio 经法语 entencion 借入，现代与 intend、intent 配套，不颠倒所有借入先后。",
+    "branches": [
+      [
+        "意图与出发点性质",
+        "intention · intentioned"
+      ],
+      [
+        "intention → intentions：心思朝着一个目标伸去",
+        "intend · intention · intentions"
+      ]
+    ],
+    "contrasts": "intentioned 通常带限定；intentional 故意的与 well intentioned 出于好意不同。",
+    "practice": "Her intention was to help, and the suggestion was well intentioned.\n\n她的意图是提供帮助，那条建议也是出于好意。",
+    "words": [
+      "intention",
+      "intentioned",
+      "intend",
+      "intentions"
+    ],
+    "exclude": {
+      "counter-intention": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

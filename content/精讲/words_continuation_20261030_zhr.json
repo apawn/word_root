@@ -1,0 +1,726 @@
+[
+  {
+    "word": "perseveres",
+    "ipa": "英 /ˌpɜːsɪˈvɪəz/；美 /ˌpɝsəˈvɪrz/",
+    "meaning": "坚持做下去、不轻易放弃〔第三人称单数〕",
+    "sense": "第一次不成，调整一下再试；过程慢，仍持续做，是 perseveres。重点是困难出现以后仍不松手。",
+    "split": "persevere + -s，读 /z/；基础词经法语、拉丁材料进入，内部 per- 加强坚定、认真的程度。",
+    "history": [
+      [
+        "拉丁 per- 加强程度 + severus 认真、严肃 → perseverare",
+        "坚定地继续、坚持"
+      ],
+      [
+        "经法语及拉丁材料进入英语 persevere",
+        "面对困难仍把已开始的事做下去"
+      ],
+      [
+        "persevere + -s → perseveres",
+        "他或她面对困难仍坚持"
+      ]
+    ],
+    "explanation": "perseveres despite setbacks；perseveres with the work。",
+    "usage": "perseveres in her studies；perseveres until it works。",
+    "contrast": "continues 只是继续，perseveres 更强调有困难仍坚持；顺顺利利做完不必每次都强调毅力。",
+    "examples": [
+      [
+        "She perseveres even when progress is slow.",
+        "即使进展慢，她也坚持做下去。"
+      ],
+      [
+        "He perseveres with difficult problems until he understands them.",
+        "面对难题，他会一直钻研到弄懂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/perseveres#English",
+      "https://www.etymonline.com/word/persevere"
+    ]
+  },
+  {
+    "word": "persevered",
+    "ipa": "英 /ˌpɜːsɪˈvɪəd/；美 /ˌpɝsəˈvɪrd/",
+    "meaning": "坚持做下去了；没有轻易放弃",
+    "sense": "当时很难，还是撑着继续练、继续改，过去这段坚持叫 persevered。它描述投入，不保证最终结果一定成功。",
+    "split": "persevere 去 e 加完整 -ed，读 /d/；不增加 /ɪd/ 音节，英美 r 的读法随口音不同。",
+    "history": [
+      [
+        "拉丁 per- 加强程度 + severus 认真、严肃 → perseverare",
+        "坚定地继续、坚持"
+      ],
+      [
+        "经法语及拉丁材料进入英语 persevere",
+        "面对困难仍把已开始的事做下去"
+      ],
+      [
+        "persevere + -ed → persevered",
+        "过去面对困难仍继续"
+      ]
+    ],
+    "explanation": "persevered despite failure；persevered with the training。",
+    "usage": "persevered for years；had persevered through setbacks。",
+    "contrast": "persevered 是坚持过程，succeeded 是成功结果；坚持可能通向成功，但两个词不能直接互译。",
+    "examples": [
+      [
+        "They persevered despite several disappointing results.",
+        "几次结果令人失望，他们仍坚持了下来。"
+      ],
+      [
+        "She persevered with the training until the movements felt natural.",
+        "她坚持练习，直到那些动作变得自然。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/persevered#English",
+      "https://www.etymonline.com/word/persevere"
+    ]
+  },
+  {
+    "word": "persevering",
+    "ipa": "英 /ˌpɜːsɪˈvɪərɪŋ/；美 /ˌpɝsəˈvɪrɪŋ/",
+    "meaning": "正在坚持；有毅力、不轻易放弃的",
+    "sense": "进展不快，却不断回来接着做，是 persevering。也可形容人有耐心、有毅力，遇到困难不会立刻撒手。",
+    "split": "persevere 去 e 加 -ing；英式在元音开头后缀前读出 r。过程分词也能作形容词。",
+    "history": [
+      [
+        "拉丁 per- 加强程度 + severus 认真、严肃 → perseverare",
+        "坚定地继续、坚持"
+      ],
+      [
+        "经法语及拉丁材料进入英语 persevere",
+        "面对困难仍把已开始的事做下去"
+      ],
+      [
+        "persevere + -ing → persevering",
+        "坚持的过程，或有毅力的性质"
+      ]
+    ],
+    "explanation": "keep persevering 继续坚持；a persevering student 有毅力的学生。",
+    "usage": "persevering with the task；patient and persevering。",
+    "contrast": "persevering 常肯定坚持，stubborn 可以批评不愿调整；持续做事仍可以边做边改办法。",
+    "examples": [
+      [
+        "Keep persevering; the first stage is often the hardest.",
+        "继续坚持，第一阶段往往最难。"
+      ],
+      [
+        "Her patient, persevering work finally paid off.",
+        "她耐心而坚持不懈的付出终于有了回报。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/persevering#English",
+      "https://www.etymonline.com/word/persevere"
+    ]
+  },
+  {
+    "word": "steadfastly",
+    "ipa": "英 /ˈstedfɑːstli/；美 /ˈstedfæstli/",
+    "meaning": "坚定不移、始终如一地",
+    "sense": "别人施压，立场却没有改；支持一件事也始终稳稳的，是 steadfastly。像脚下站牢，不因一点风就偏过去。",
+    "split": "steadfast + -ly；内部 stead 地方、位置 + fast 牢固。这里的 fast 用旧牢固义，不是越快越坚定。",
+    "history": [
+      [
+        "古英语 stede 位置 + fæst 牢固 → steadfast",
+        "固定在原位，后来也说信念、忠诚坚定"
+      ],
+      [
+        "steadfast + -ly → steadfastly",
+        "以不动摇、始终如一的方式"
+      ]
+    ],
+    "explanation": "steadfastly refuse 始终坚决拒绝；steadfastly support。",
+    "usage": "remain steadfastly loyal；steadfastly pursue a goal。",
+    "contrast": "steadfastly 说坚定稳定，quickly 说速度快；词中的 fast 不在这里表示赶速度。",
+    "examples": [
+      [
+        "She steadfastly refused to change her account.",
+        "她始终坚决不肯改变自己的叙述。"
+      ],
+      [
+        "He remained steadfastly loyal to his old friends.",
+        "他一直坚定地忠于老朋友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steadfastly#English",
+      "https://www.etymonline.com/word/steadfast"
+    ]
+  },
+  {
+    "word": "resoluteness",
+    "ipa": "英 /ˈrezəluːtnəs/；美 /ˈrezəlutnəs/",
+    "meaning": "坚定、果断这种性质",
+    "sense": "心里已经定下来，面对压力也不再摇摆，这种坚定叫 resoluteness。像一个问题已经想清，决定不再来回松动。",
+    "split": "resolute + -ness，保留末尾 e。resolute 接拉丁 resolutus，早有松解、分解义，后经分析、决定等意义发展为坚定。",
+    "history": [
+      [
+        "拉丁 resolvere 松解、分解 → resolutus → 英语 resolute",
+        "较早有松散义，后来有已决定、坚定义"
+      ],
+      [
+        "resolute + -ness → resoluteness",
+        "把坚定、果断这种性质作为名词谈"
+      ]
+    ],
+    "explanation": "show resoluteness 表现出坚定；admire her resoluteness。",
+    "usage": "resoluteness under pressure；calm resoluteness。",
+    "contrast": "resolution 还能指决议、分辨率、解决等多义，resoluteness 更集中说坚定的性质；不能把所有 resolution 都替成它。",
+    "examples": [
+      [
+        "Her calm resoluteness reassured the team.",
+        "她沉着坚定的态度让团队安心。"
+      ],
+      [
+        "He showed unexpected resoluteness under pressure.",
+        "压力之下，他表现出了出人意料的坚定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resoluteness#English",
+      "https://www.etymonline.com/word/resolute"
+    ]
+  },
+  {
+    "word": "unshakable",
+    "ipa": "/ʌnˈʃeɪkəbəl/",
+    "meaning": "不可动摇的；稳固、坚定的",
+    "sense": "信心像扎稳的柱子，坏消息也没把它摇松，是 unshakable。常形容信念、信任、决心，强调很难动摇。",
+    "split": "un- 否定 + shake 去 e 加完整 -able；表示不能被动摇。另有保留 e 的拼写 unshakeable。",
+    "history": [
+      [
+        "shake 摇晃，也早可指使信心、稳定动摇",
+        "物理摇动与抽象失稳的对应有历史依据"
+      ],
+      [
+        "un- 否定 + shake + -able → unshakable / unshakeable",
+        "不能动摇；两个拼写变体意思相同"
+      ]
+    ],
+    "explanation": "unshakable confidence 坚定的信心；unshakable belief。",
+    "usage": "unshakable trust；an unshakable conviction。",
+    "contrast": "unshakable 说信念稳，true 说内容为真；信得很坚定并不自动证明事实正确。",
+    "examples": [
+      [
+        "She had unshakable confidence in the team.",
+        "她对团队有不可动摇的信心。"
+      ],
+      [
+        "The experience gave him an unshakable belief in the value of education.",
+        "那段经历让他坚信教育的价值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unshakable#English",
+      "https://www.etymonline.com/word/unshakable"
+    ]
+  },
+  {
+    "word": "unshakeable",
+    "ipa": "/ʌnˈʃeɪkəbəl/",
+    "meaning": "不可动摇的、坚定的〔unshakable 的拼写变体〕",
+    "sense": "和 unshakable 意思、读法相同：信心、信念、决心牢牢立住。看到多一个 e，不必再编出一层新的含义。",
+    "split": "un- + shake + -able，这种拼写保留 shake 的 e；与省 e 的 unshakable 对应。",
+    "history": [
+      [
+        "shake 摇晃，也早可指使信心、稳定动摇",
+        "物理摇动与抽象失稳的对应有历史依据"
+      ],
+      [
+        "un- 否定 + shake + -able → unshakable / unshakeable",
+        "不能动摇；两个拼写变体意思相同"
+      ],
+      [
+        "unshakable ↔ unshakeable",
+        "省 e 与保留 e 的拼写变体，不是两个强度等级"
+      ]
+    ],
+    "explanation": "unshakeable faith 坚定的信念；unshakeable trust。",
+    "usage": "unshakeable confidence；an unshakeable sense of purpose。",
+    "contrast": "unshakeable 不比 unshakable 更强；选择一种惯用拼写并保持一致，理解上按同一个词学习。",
+    "examples": [
+      [
+        "Her faith in their friendship was unshakeable.",
+        "她对这段友谊的信任坚定不移。"
+      ],
+      [
+        "He spoke with unshakeable confidence.",
+        "他说话时充满坚定的信心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unshakeable#English",
+      "https://www.etymonline.com/word/unshakable"
+    ]
+  },
+  {
+    "word": "unshakably",
+    "ipa": "/ʌnˈʃeɪkəbli/",
+    "meaning": "坚定不移地；毫不动摇地",
+    "sense": "一直相信、一直支持，外面的变化没让立场松动，是 unshakably。它把不可动摇变成相信、确信等动作的方式。",
+    "split": "unshakable 的 -able 变成 -ably；可理解为末尾 le 换成 ly，不写成 unshakablely。",
+    "history": [
+      [
+        "shake 摇晃，也早可指使信心、稳定动摇",
+        "物理摇动与抽象失稳的对应有历史依据"
+      ],
+      [
+        "un- 否定 + shake + -able → unshakable / unshakeable",
+        "不能动摇；两个拼写变体意思相同"
+      ],
+      [
+        "unshakable → unshakably",
+        "形容词 -able 对应方式副词 -ably"
+      ]
+    ],
+    "explanation": "unshakably convinced 坚信不疑；unshakably loyal。",
+    "usage": "believe unshakably；unshakably certain。",
+    "contrast": "unshakably convinced 说人确信的程度，conclusively proved 才说证明充分；信心和证据要分清。",
+    "examples": [
+      [
+        "She remained unshakably convinced that the plan could work.",
+        "她始终坚信计划能行得通。"
+      ],
+      [
+        "He was unshakably loyal to the friends who had helped him.",
+        "他对帮助过他的朋友始终忠诚，毫不动摇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unshakably#English",
+      "https://www.etymonline.com/word/unshakable"
+    ]
+  },
+  {
+    "word": "traipse",
+    "ipa": "/treɪps/",
+    "meaning": "拖着步子走；费劲地四处跑、闲逛〔口语〕",
+    "sense": "为买一样东西跑了好几家店，走得人不耐烦，可以说 traipse around。常带折腾、没必要走这么多的抱怨，也可轻松说到处逛。",
+    "split": "较早有散漫、拖着走、无目的走等意思，来源未定；有法语跨越或日耳曼踏行等分析，不能把某一猜测写成唯一链。",
+    "history": [
+      [
+        "较早 traipse 有拖着、散漫、无目的地走等材料",
+        "来源未定，有法语跨越或日耳曼踏行等分析"
+      ],
+      [
+        "现代拖着步子走，或一处处跑来跑去",
+        "常带路程麻烦、走得多的抱怨，也可写闲逛"
+      ]
+    ],
+    "explanation": "traipse around the shops 跑遍商店；traipse across town。",
+    "usage": "traipse through the mud；traipse after someone 跟着某人跑来跑去。",
+    "contrast": "stroll 常是悠闲散步，traipse 常嫌走得多、麻烦；同样逛商店，语气可以很不同。",
+    "examples": [
+      [
+        "I do not want to traipse around the shops all afternoon.",
+        "我可不想一下午都在各家店里跑来跑去。"
+      ],
+      [
+        "We had to traipse across town to collect the parcel.",
+        "为了取那个包裹，我们得折腾着穿过大半座城。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traipse#English",
+      "https://www.etymonline.com/word/traipse"
+    ]
+  },
+  {
+    "word": "traipses",
+    "ipa": "/ˈtreɪpsɪz/",
+    "meaning": "费劲地走来走去、闲逛〔第三人称单数〕",
+    "sense": "她每周为找材料跑好几处，可以说 traipses around。句子往往让人感觉走得不少，甚至有点折腾。",
+    "split": "traipse + -s，拼写只添 -s；基础末音 /s/ 后读 /ɪz/ → /ˈtreɪpsɪz/。",
+    "history": [
+      [
+        "较早 traipse 有拖着、散漫、无目的地走等材料",
+        "来源未定，有法语跨越或日耳曼踏行等分析"
+      ],
+      [
+        "现代拖着步子走，或一处处跑来跑去",
+        "常带路程麻烦、走得多的抱怨，也可写闲逛"
+      ],
+      [
+        "traipse + -s → traipses",
+        "他或她走来走去、跑很多地方"
+      ]
+    ],
+    "explanation": "traipses around markets；traipses across town。",
+    "usage": "traipses after her friends；traipses from shop to shop。",
+    "contrast": "traipses 常带对奔走的主观感受，travels 只说移动、旅行；不能把每次出行都译成折腾。",
+    "examples": [
+      [
+        "She traipses around the markets looking for old records.",
+        "她为找老唱片，在各个市场里跑来跑去。"
+      ],
+      [
+        "He traipses across town whenever he needs a particular ingredient.",
+        "每次缺某种配料，他都要跑过大半座城去买。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traipses#English",
+      "https://www.etymonline.com/word/traipse"
+    ]
+  },
+  {
+    "word": "traipsed",
+    "ipa": "/treɪpst/",
+    "meaning": "拖着步子走了；跑来跑去、折腾着走过了",
+    "sense": "昨天为了办几件小事跑了很多路，回头可以说 traipsed around all day。重点是那段奔走让人感到累、麻烦。",
+    "split": "traipse 去 e 加完整 -ed；/s/ 后读 /t/ → /treɪpst/，不添 /ɪd/ 音节。",
+    "history": [
+      [
+        "较早 traipse 有拖着、散漫、无目的地走等材料",
+        "来源未定，有法语跨越或日耳曼踏行等分析"
+      ],
+      [
+        "现代拖着步子走，或一处处跑来跑去",
+        "常带路程麻烦、走得多的抱怨，也可写闲逛"
+      ],
+      [
+        "traipse + -ed → traipsed",
+        "过去走了不少路、跑了很多地方"
+      ]
+    ],
+    "explanation": "traipsed around town；traipsed through the mud。",
+    "usage": "traipsed from office to office；traipsed back home。",
+    "contrast": "traipsed 不保证有明确计划，marched 更像有方向、有节奏地行进；跑来跑去和列队前进不是同一画面。",
+    "examples": [
+      [
+        "We traipsed from one office to another all morning.",
+        "我们一上午都在各个办公室之间跑来跑去。"
+      ],
+      [
+        "They traipsed through the mud to reach the gate.",
+        "他们踩着泥，费劲地走到了大门口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traipsed#English",
+      "https://www.etymonline.com/word/traipse"
+    ]
+  },
+  {
+    "word": "traipsing",
+    "ipa": "/ˈtreɪpsɪŋ/",
+    "meaning": "正在走来走去、四处奔走、闲逛",
+    "sense": "为了找一件东西，已经走了好几家，接着还在跑，是 traipsing。说话人常嫌这种奔走太折腾，也可能是轻松自嘲。",
+    "split": "traipse 去 e 加 -ing；/s/ 保留为 /s/，不是三单里的 /ɪz/。",
+    "history": [
+      [
+        "较早 traipse 有拖着、散漫、无目的地走等材料",
+        "来源未定，有法语跨越或日耳曼踏行等分析"
+      ],
+      [
+        "现代拖着步子走，或一处处跑来跑去",
+        "常带路程麻烦、走得多的抱怨，也可写闲逛"
+      ],
+      [
+        "traipse + -ing → traipsing",
+        "四处走、费劲奔走的过程"
+      ]
+    ],
+    "explanation": "traipsing around the shops；traipsing across town。",
+    "usage": "tired of traipsing；traipsing through the countryside。",
+    "contrast": "traipsing around 常写到处跑，commuting 常说固定往返通勤；都可能累，但路线、目的不同。",
+    "examples": [
+      [
+        "I spent the afternoon traipsing around looking for the right cable.",
+        "我一下午都在跑来跑去，找那根合适的连接线。"
+      ],
+      [
+        "She was tired of traipsing from one appointment to another.",
+        "她厌倦了一个约见接一个约见地奔波。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traipsing#English",
+      "https://www.etymonline.com/word/traipse"
+    ]
+  },
+  {
+    "word": "rove",
+    "ipa": "英 /rəʊv/；美 /roʊv/",
+    "meaning": "漫游、四处走动；目光游移",
+    "sense": "今天在这儿，明天去那儿，没有固定停点，可以说 rove。眼睛在房间里这边看看、那边看看，也像在漫游。",
+    "split": "近源有不同分析：可能接北方 rave、古诺尔斯 rafa 漫游，或法语漫游材料，并可能受 rover 影响。不能把现代 rover 删一个 r 当成确定历史。",
+    "history": [
+      [
+        "rove 的漫游来历有不同分析",
+        "可能接北方 rave、北欧 rafa，或法语漫游材料，并受 rover 影响"
+      ],
+      [
+        "四处游走 → 目光游移、流动任职",
+        "不硬定为现代 rover 删 r 或某一来源的单线"
+      ]
+    ],
+    "explanation": "rove across the country 四处游历；eyes rove around the room。",
+    "usage": "rove from place to place；let your eyes rove。",
+    "contrast": "rove 常强调走来走去、不固定，head for 强调朝某个目的地去；两种说法组织行程的角度不同。",
+    "examples": [
+      [
+        "The animals are free to rove across a wide area.",
+        "这些动物可以在大片区域内自由游走。"
+      ],
+      [
+        "He let his eyes rove around the room.",
+        "他让目光在房间里四下游移。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rove#English",
+      "https://www.etymonline.com/word/rove"
+    ]
+  },
+  {
+    "word": "roves",
+    "ipa": "英 /rəʊvz/；美 /roʊvz/",
+    "meaning": "漫游、四处走动；目光游移〔第三人称单数〕",
+    "sense": "一只猫在附近东走西逛，是 roves；他的目光不断扫向房间各处，也能说 his gaze roves。不是只有人能做主语。",
+    "split": "rove + -s，/v/ 后读 /z/；这里讲漫游动词这一支，来源仍有不同分析。",
+    "history": [
+      [
+        "rove 的漫游来历有不同分析",
+        "可能接北方 rave、北欧 rafa，或法语漫游材料，并受 rover 影响"
+      ],
+      [
+        "四处游走 → 目光游移、流动任职",
+        "不硬定为现代 rover 删 r 或某一来源的单线"
+      ],
+      [
+        "rove + -s → roves",
+        "他或它四处走，或目光游移"
+      ]
+    ],
+    "explanation": "roves around the neighbourhood；his gaze roves。",
+    "usage": "roves across the landscape；roves from place to place。",
+    "contrast": "roves 是四处移动，stares 是盯着看；目光游走和视线固定不同。",
+    "examples": [
+      [
+        "The cat roves around the neighbourhood at night.",
+        "那只猫晚上会在附近四处游走。"
+      ],
+      [
+        "Her gaze roves across the crowded room.",
+        "她的目光在拥挤的房间里四下游移。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roves#English",
+      "https://www.etymonline.com/word/rove"
+    ]
+  },
+  {
+    "word": "roved",
+    "ipa": "英 /rəʊvd/；美 /roʊvd/",
+    "meaning": "四处游走、游历了；目光游移了",
+    "sense": "曾经走过许多地方，没有一直留在一处，可以说 roved。用在目光上，则是过去四下看过。",
+    "split": "rove 去 e 加完整 -ed；/v/ 后读 /d/ → /rəʊvd/，不新增 /ɪd/。",
+    "history": [
+      [
+        "rove 的漫游来历有不同分析",
+        "可能接北方 rave、北欧 rafa，或法语漫游材料，并受 rover 影响"
+      ],
+      [
+        "四处游走 → 目光游移、流动任职",
+        "不硬定为现代 rover 删 r 或某一来源的单线"
+      ],
+      [
+        "rove + -ed → roved",
+        "过去四处移动，或目光扫过各处"
+      ]
+    ],
+    "explanation": "roved across the countryside；her eyes roved over the shelves。",
+    "usage": "roved from town to town；roved around the garden。",
+    "contrast": "roved through 是在其中游走，arrived at 是到达某一点；经过许多地方不等于只交代终点。",
+    "examples": [
+      [
+        "We roved through the countryside with no fixed plan.",
+        "我们没定计划，在乡间四处游走。"
+      ],
+      [
+        "Her eyes roved over the shelves in search of the book.",
+        "她的目光扫过一排排书架，寻找那本书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roved#English",
+      "https://www.etymonline.com/word/rove"
+    ]
+  },
+  {
+    "word": "roving",
+    "ipa": "英 /ˈrəʊvɪŋ/；美 /ˈroʊvɪŋ/",
+    "meaning": "四处游走的；流动工作的；目光游移的",
+    "sense": "记者不固定在一个地方，哪里有新闻就去哪儿，是 a roving reporter。roving eye 则常形容目光东看西看，有时特指容易被别的异性吸引。",
+    "split": "rove 去 e 加 -ing；过程分词也作形容词，表示不固定在一处、流动的性质。",
+    "history": [
+      [
+        "rove 的漫游来历有不同分析",
+        "可能接北方 rave、北欧 rafa，或法语漫游材料，并受 rover 影响"
+      ],
+      [
+        "四处游走 → 目光游移、流动任职",
+        "不硬定为现代 rover 删 r 或某一来源的单线"
+      ],
+      [
+        "rove + -ing → roving",
+        "四处移动的过程，或流动工作的性质"
+      ]
+    ],
+    "explanation": "a roving reporter 流动采访的记者；a roving eye。",
+    "usage": "roving around the city；a roving team。",
+    "contrast": "roving reporter 强调到各处采访，local reporter 强调报道某地；流动和报道范围不是完全相反的身份。",
+    "examples": [
+      [
+        "She works as a roving reporter for the magazine.",
+        "她为那本杂志做流动采访记者。"
+      ],
+      [
+        "A roving team visited several villages each week.",
+        "一个流动小组每周会走访几个村庄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roving#English",
+      "https://www.etymonline.com/word/rove"
+    ]
+  },
+  {
+    "word": "rambler",
+    "ipa": "英 /ˈræmblə/；美 /ˈræmblɚ/",
+    "meaning": "郊野漫步者；说话漫无边际的人；蔓生植物",
+    "sense": "喜欢沿乡间小路走走的人，是 rambler；说话东拉西扯的人也能这样叫。园艺里的 rambler 常说枝条能蔓延的植物，像枝条也在到处走。",
+    "split": "ramble 去 e 加完整 -er；基础动词可能接 roam 的反复动作材料，也有荷兰语影响等分析。不同现代意义围绕漫步、延伸展开。",
+    "history": [
+      [
+        "ramble 漫步、漫谈；近源有不同分析",
+        "走路方向游移，到话题游移"
+      ],
+      [
+        "ramble + -er → rambler",
+        "漫步者、漫谈者，或枝条蔓延的植物"
+      ]
+    ],
+    "explanation": "a keen rambler 热爱郊野漫步的人；a rambling rose / a rambler 蔓生月季。",
+    "usage": "an experienced rambler；a talkative rambler。",
+    "contrast": "rambler 作为人常偏郊野漫步，rover 更宽泛地游走；植物义也不能直接译成一个散步的人。",
+    "examples": [
+      [
+        "An experienced rambler showed us the path across the fields.",
+        "一位有经验的郊野漫步者给我们指了穿过田野的小路。"
+      ],
+      [
+        "We planted a rambler to cover the old arch.",
+        "我们种了一株蔓生月季，让它爬满旧拱架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rambler#English",
+      "https://www.etymonline.com/word/ramble"
+    ]
+  },
+  {
+    "word": "ramblers",
+    "ipa": "英 /ˈræmbləz/；美 /ˈræmblɚz/",
+    "meaning": "郊野漫步者〔复数〕；漫谈者；蔓生植物",
+    "sense": "小路上一群结伴走乡野的人，是 ramblers；花园里几株向四处伸展的蔓生月季，也可能叫 ramblers。",
+    "split": "rambler + -s，读 /z/；先由 ramble 去 e 加 -er 成名词，再说多人、多株等。",
+    "history": [
+      [
+        "ramble 漫步、漫谈 → rambler",
+        "人可在路径、话题间游移，植物可蔓延"
+      ],
+      [
+        "rambler + -s → ramblers",
+        "多个漫步者、漫谈者或蔓生植物"
+      ]
+    ],
+    "explanation": "a group of ramblers；a path popular with ramblers。",
+    "usage": "rose ramblers 蔓生月季；ramblers over an arch。",
+    "contrast": "ramblers 是人或植物等名词，rambles 可说几次漫步、漫谈；一次行程和参加的人不是同一单位。",
+    "examples": [
+      [
+        "The path is popular with local ramblers.",
+        "这条小路很受当地郊野漫步者欢迎。"
+      ],
+      [
+        "Pink ramblers covered the garden arch.",
+        "粉色蔓生月季爬满了花园拱架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ramblers#English",
+      "https://www.etymonline.com/word/ramble"
+    ]
+  },
+  {
+    "word": "stroller",
+    "ipa": "英 /ˈstrəʊlə/；美 /ˈstroʊlɚ/",
+    "meaning": "散步的人；婴儿推车〔尤美式〕",
+    "sense": "stroll 是慢慢散步，stroller 原可说散步者。现在美式日常说 a stroller，常指推着幼儿出门的轻便婴儿车。",
+    "split": "stroll + 完整 -er；原词已有双 l，不另添。早期还见巡回表演者、游荡者义；婴儿推车义较晚，不是所有 -er 名词都只指人。",
+    "history": [
+      [
+        "stroll 游走、散步 → stroller",
+        "较早可指巡回艺人、游荡或散步的人"
+      ],
+      [
+        "stroller 后来常指婴儿推车",
+        "让孩子坐着、由大人推着行进的车"
+      ]
+    ],
+    "explanation": "push a stroller 推婴儿车；an evening stroller 傍晚散步者。",
+    "usage": "a folding stroller 折叠婴儿车；a stroller on the path。",
+    "contrast": "stroller 尤美式常指推车，British English 常说 pushchair；不是步行学步车的同一个物件。",
+    "examples": [
+      [
+        "She folded the stroller before getting on the bus.",
+        "上公交车前，她把婴儿推车折起来。"
+      ],
+      [
+        "A lone stroller paused to watch the sunset.",
+        "一位独自散步的人停下来，看了看落日。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stroller#English",
+      "https://www.etymonline.com/word/stroll"
+    ]
+  },
+  {
+    "word": "strollers",
+    "ipa": "英 /ˈstrəʊləz/；美 /ˈstroʊlɚz/",
+    "meaning": "散步的人〔复数〕；婴儿推车〔复数，尤美式〕",
+    "sense": "公园里一群闲散步行的人，可以是 strollers；门口停着的几辆婴儿推车，也叫 strollers。看动词是在走，还是被推、停放。",
+    "split": "stroller + -s，读 /z/；stroll 加 -er 后再取复数，不是 strolls 动词三单的扩展拼法。",
+    "history": [
+      [
+        "stroll → stroller",
+        "散步动作，到人；后来有婴儿推车义"
+      ],
+      [
+        "stroller + -s → strollers",
+        "多人散步，或多辆婴儿推车"
+      ]
+    ],
+    "explanation": "parents with strollers 推着婴儿车的家长；evening strollers。",
+    "usage": "folding strollers；strollers along the promenade。",
+    "contrast": "strollers 可能是车也可能是人，walkers 也多义；阅读时靠具体动作、场景定指代。",
+    "examples": [
+      [
+        "Parents left their strollers near the entrance.",
+        "家长们把婴儿推车放在入口附近。"
+      ],
+      [
+        "Evening strollers filled the riverside path.",
+        "傍晚散步的人走满了河边小路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strollers#English",
+      "https://www.etymonline.com/word/stroll"
+    ]
+  }
+]

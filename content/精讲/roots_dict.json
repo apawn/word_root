@@ -5,7 +5,7 @@
     "core": "DIC / DICT = SAY",
     "image": "把心里的话说出来，也可以把规矩正式说定",
     "intro": "**这一组先记一个动作：说。** 拉丁语 dīcere 是说，dictus 是相关分词形式。预先说是 predict；反着说是 contradict；公开说定规矩可以成为 edict。这里的“说”常比闲聊更正式，能承担宣告、规定和约定的作用。",
-    "forms": "dic- / dict- 是拉丁词干的不同形式。dictāre 是相关的反复动作形式，形成 dictate、dictator 一支。经过法语的词可能变得不太像原根：condition 来自“共同说定”的 condiciō 一支；indict 后来补写了 c，读音却没有 /k/。不能凭字母猜出所有变化。",
+    "forms": "dic- / dict- 是拉丁词干的不同形式。dictāre 是相关的反复动作形式，形成 dictate、dictator 一支。经过法语的词可能变得不太像原根：condition 来自“共同说定”的 condiciō 一支；indict 后来补写了 c，读音却没有 /k/。不能凭字母猜出所有变化。\n\ncondition 接拉丁 condicio 及说定、约定词族，后来的拼写有其他拉丁形式影响；conditions 在现代有条件、环境、状况等分支。\n\n拉丁预先说的名词借入，现代和 predict 对照认形。\n\n拉丁 prae 与 dicere 到 praedicere、相关分词词形，英语 t 后 ed 多一音节。\n\n拉丁 condicio 与共同说定有关，英语动词再加完整 ing。\n\ncondition 接拉丁 condicio 约定、条件，早期又与 conditio 混合；现代动词形成后加 -ed，读 /d/，说调理状态或经训练形成反应。\n\npredict 的英语近源有 prediction 逆构与拉丁分词材料，远接 praedicere 预言。现代加 -ing 原词不改，预测不等于事情已成事实。",
     "branches": [
       [
         "提前说结果",
@@ -30,6 +30,30 @@
       [
         "祝福与告别",
         "benediction · valediction"
+      ],
+      [
+        "condition → conditions：条件、环境与状况",
+        "condition · conditions"
+      ],
+      [
+        "prediction → predictions：提前说与预测",
+        "prediction · predictions"
+      ],
+      [
+        "predict → predicted：事情发生前先说结果",
+        "predict · predicted · prediction"
+      ],
+      [
+        "condition → conditioning：使形成某种状态",
+        "condition · conditioning"
+      ],
+      [
+        "con- 共同 + dic- 说 → condition → conditioned",
+        "conditioned"
+      ],
+      [
+        "pre- 预先 + dict- 说 → predicting",
+        "predicting"
       ]
     ],
     "contrasts": "**predict / dictate**：判断未来会怎样；要求或实际决定事情怎样。\n\n**diction / dictation / dictionary**：措辞或吐字；口述听写；收集解释词语的工具。\n\n**indict / verdict**：正式提出指控；作出裁断。不要把指控写成已经证实的罪名。\n\n**benediction / malediction / valediction**：祝福的话；诅咒的话；告别的话。",
@@ -67,7 +91,13 @@
       "dictum",
       "valediction",
       "malediction",
-      "verdict"
+      "verdict",
+      "conditions",
+      "predictions",
+      "predicted",
+      "conditioning",
+      "conditioned",
+      "predicting"
     ]
   }
 ]

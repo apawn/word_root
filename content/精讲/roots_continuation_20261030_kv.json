@@ -1,0 +1,73 @@
+[
+  {
+    "id": "B3849",
+    "meaning": "发出响亮叫声，按场景表达愤怒、兴奋或求助",
+    "core": "YELL：先抓声音大，再看为什么喊、对谁喊",
+    "image": "yell → yelling。",
+    "intro": "叫喊的强度与说话意图分开：大声不一定生气，也可能为让远处的人听见。",
+    "forms": "giellan → yellen → yell；-ing 活动或分词。\n\n古英语 giellan 继承，原因可能是愤怒、兴奋或呼唤，不一概骂人。\n\nyelp 承古英语 gielpan，自夸、欢呼一类旧义后来转向尖短叫声；与 yell 可作较远同源比较，不是现代 yell 加 p。",
+    "branches": [
+      [
+        "动作、一次叫声与活动",
+        "yell · yelling"
+      ],
+      [
+        "yell → yells、yelled：大声叫喊",
+        "yell · yells · yelled"
+      ],
+      [
+        "yell 与 yelp：古老叫喊材料的不同发展",
+        "yell · yelp · yelps · yelped · yelping"
+      ]
+    ],
+    "contrasts": "yell at 常对人吼，yell to 可为传声；yelling 不自动等于争吵。",
+    "practice": "We heard yelling from the field, then someone yelled for the coach.\n\n我们听见球场传来叫喊，接着有人大声叫教练。",
+    "words": [
+      "yell",
+      "yelling",
+      "yells",
+      "yelled",
+      "yelp",
+      "yelps",
+      "yelped",
+      "yelping"
+    ],
+    "exclude": {
+      "yeller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2645",
+    "meaning": "蛇的爬行、细长形状与特征组合，再到伤害名称",
+    "core": "SNAKE：动物名也借出蜿蜒的形状、运动",
+    "image": "snake → rattlesnake、snakebite、snakeskin；snake 作动词可说道路、队列蜿蜒。",
+    "intro": "特征动物名、身体材料、咬伤与形状比喻分别看前后部。对人的贬义比喻也不要拿来代替动物学。",
+    "forms": "snaca → snake；rattle 响器，bite 咬，skin 皮。\n\nsnake 承古英语 snaca，远接爬行相关材料；现代动词 snake 借蛇的弯曲移动形象，snakes 兼动物名复数和动词第三人称。",
+    "branches": [
+      [
+        "动物、特征与蜿蜒动作",
+        "snake · rattlesnake"
+      ],
+      [
+        "皮与咬伤",
+        "snakeskin · snakebite"
+      ],
+      [
+        "snake → snakes：蛇与蜿蜒",
+        "snakes"
+      ]
+    ],
+    "contrasts": "snakebite 不单独决定伤情；snake 可动词说蜿蜒；rattlesnake 是固定动物名。",
+    "practice": "The film showed a rattlesnake as the camera followed the snaking path.\n\n镜头沿蜿蜒小路移动时，影片展示了一条响尾蛇。",
+    "words": [
+      "snake",
+      "rattlesnake",
+      "snakeskin",
+      "snakebite",
+      "snakes"
+    ],
+    "exclude": {
+      "snake-fright": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

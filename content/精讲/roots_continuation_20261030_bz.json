@@ -1,0 +1,191 @@
+[
+  {
+    "id": "B3009",
+    "meaning": "承诺、担保；结婚、报酬与赌约的同源背景",
+    "core": "先把话或某件东西押在那里，表示会兑现",
+    "image": "同一承诺词族分成三路：wed 以承诺结合；wage 是报酬；wager 是押上的赌约。",
+    "intro": "较早共同背景是日耳曼语的承诺、担保。wed 通过古英语传下，wage、wager 则经过法语进入英语。现代意思已经分开：婚姻承诺、劳动报酬、为不确定结果押下一份保证。它们是同源的不同路线，不能拿一个现代词直接替换成另一个。",
+    "forms": "wed—wed/wedded；wed + -ing，双写 d；newly/un- + wed。\n\nwed 是本族延续，wage、wager 经法语借回，较早同接日耳曼承诺、担保词族；wager 的 er 不是现代人物后缀。\n\nwager 名词经法语质押、保证材料进入英语，动词由名词转用；不是现代 wage 工资加人物 -er。\n\nwedding 承古英语 weddung 结婚、订约的行为名词，后来常指婚礼。现代双写 d 的形态与 wed + -ing 对应，再加 -s。",
+    "branches": [
+      [
+        "动作与仪式",
+        "wed · wedding"
+      ],
+      [
+        "新婚和未婚状态",
+        "newlywed · unwed"
+      ],
+      [
+        "wage → wages → waged → waging；wager → wagers：担保、报酬与打赌",
+        "wed · wedding · wage · wages · waged · waging · wager · wagers"
+      ],
+      [
+        "wager：拿价值押结果",
+        "wager · wagered · wagering"
+      ],
+      [
+        "wed → wedding → weddings",
+        "weddings"
+      ]
+    ],
+    "contrasts": "wedding 是婚礼仪式，marriage 是婚姻关系；wages 是工资，wagers 是赌注或打赌。wage a campaign 是开展行动，wager that... 是打赌、敢说某事。",
+    "practice": "用三个场景接住这条词族：新人举办 wedding；工人领 wages；朋友为谁先到打一个 wager。每个现代词的实际搭配分别记。",
+    "words": [
+      "wed",
+      "wedding",
+      "newlywed",
+      "unwed",
+      "wage",
+      "wages",
+      "waged",
+      "waging",
+      "wager",
+      "wagers",
+      "wagered",
+      "wagering",
+      "weddings"
+    ],
+    "exclude": {},
+    "sources": [
+      "https://www.etymonline.com/word/wed",
+      "https://www.etymonline.com/word/wage",
+      "https://www.etymonline.com/word/wager"
+    ]
+  },
+  {
+    "id": "B2615",
+    "meaning": "树木、木制结构；分枝关系",
+    "core": "TREE：从主干伸出枝条，也借来画关系",
+    "image": "tree → treeless；treehouse、treetop、doubletree 等按部位、场所、木制器具相邻。",
+    "intro": "gantry 的旧拼写和来源有不同分析，本轮不把它硬画成确定的 tree 直接派生。原有 doubletree 木制横杆用法复用旧精讲。",
+    "forms": "tree + -less；tree + house/top；double + tree 的 tree 有旧木制杆架义。\n\n古英语树、木料词继承下来；家谱、数据树借用分枝画面。\n\n和 tree 比较树种，不从 tree 派生。maple 承古英语 mapultreow 等，接更早日耳曼树名，远源未定；现代整体学习，不拆成 map 加 -le。\n\n与 tree 比较树木，不由 tree 派生。古英语 ceder 与法语 cedre 等形式汇合，较远接拉丁 cedrus、希腊 kedros，远源不确定；俗名 cedar 也用于其他外形相近的树。\n\n与 tree 比较树木，不从 tree 派生。willow 接古英语 welig、日耳曼语柳树名，更远可能接弯转词族，和柔软可弯枝条的关系有助记忆，但远源分析仍保留可能。\n\n本支按树名比较，不由现代 tree 派生。elm 接古英语，fir 多认为经北欧语进入；spruce 则有普鲁士地名、进口木材的命名背景。三者不是彼此变形。",
+    "branches": [
+      [
+        "树与没有树",
+        "tree · treeless"
+      ],
+      [
+        "部位、场所和木杆器具",
+        "treetop · treehouse · doubletree"
+      ],
+      [
+        "tree → trees：树木与分枝式结构",
+        "tree · trees"
+      ],
+      [
+        "maple：枫、槭树与枫木",
+        "maple · maples"
+      ],
+      [
+        "cedar：另源的雪松等树名",
+        "cedar · cedars"
+      ],
+      [
+        "willow：另源的柳树与柔软枝条",
+        "willow · willows"
+      ],
+      [
+        "elm、fir、spruce：并排辨认的树名，各有来源",
+        "elm · elms · fir · firs · spruce · spruces"
+      ]
+    ],
+    "contrasts": "treeless 不等于无植物；family tree 借分支关系；tree 木材旧义解释部分器具名，不把它都译成活树。",
+    "practice": "We could see the treetop from the treehouse.\n\n我们从树屋里能看见树梢。",
+    "words": [
+      "tree",
+      "treeless",
+      "treetop",
+      "treehouse",
+      "doubletree",
+      "trees",
+      "maple",
+      "maples",
+      "cedar",
+      "cedars",
+      "willow",
+      "willows",
+      "elm",
+      "elms",
+      "fir",
+      "firs",
+      "spruce",
+      "spruces"
+    ],
+    "exclude": {
+      "tree-branch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tree-maker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gantry": "旧形 gauntree 及更早来源有不同分析；本轮暂略，不把 tree 的参与方式断言为确定事实。"
+    }
+  },
+  {
+    "id": "B4498",
+    "meaning": "application 的截短；小型应用程序",
+    "core": "APP：把 application 程序义缩短成口语常用名",
+    "image": "app → applet，只保留常用基础软件称呼。",
+    "intro": "这组要学截短和小称后缀，而不是把字母都当古典词根。Java applet 的历史例子只用于认识词义。",
+    "forms": "application → app〔截短〕；app + -let → applet。",
+    "branches": [
+      [
+        "应用与小型程序",
+        "app · applet"
+      ]
+    ],
+    "contrasts": "app 不是逐字母首字母缩写；applet 不等于 apple+t；英语泛称不等于某一平台专有产品。",
+    "practice": "The app contains a small applet for converting units.\n\n这个应用内含一个换算单位的小程序。",
+    "words": [
+      "app",
+      "applet"
+    ],
+    "exclude": {
+      "super-app": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2856",
+    "meaning": "喂养；向系统持续供给食物、材料或信息",
+    "core": "FEED：让所需东西不断送进去",
+    "image": "feed → feeder、breastfeed；feedback 回传、feedstock 原料、newsfeed 信息、feedlot 饲养场按供给对象分组。",
+    "intro": "食物与信息的供给用实际场景接起来。feed 与 food 的旧同族不是现代字母替换规则；共享词沿用已有完整精讲。",
+    "forms": "feed—fed—fed；feed + -er；breast + feed；feed + back/stock/lot；news + feed。\n\nfeed → fed → fed；fed up 从给得太满、已经够了的感觉转到厌烦、受够。\n\nfeeds 可为三单，也可为信息流等名词复数。",
+    "branches": [
+      [
+        "供给、器具与喂养",
+        "feed · feeder · breastfeed"
+      ],
+      [
+        "反馈、内容和材料",
+        "feedback · newsfeed · feedstock"
+      ],
+      [
+        "饲养场所",
+        "feedlot"
+      ],
+      [
+        "feed 与 fed：喂给、持续供给与够了",
+        "feed · fed"
+      ],
+      [
+        "feed → feeds：把所需内容送进去",
+        "feed · feeds"
+      ]
+    ],
+    "contrasts": "feed 喂、eat 吃；feeder 不只人物；breastfeed 与用奶瓶描述维度不同；newsfeed 是信息供给。",
+    "practice": "The feeder supplies material to the machine at a steady rate.\n\n供料器以稳定速度给机器供应材料。",
+    "words": [
+      "feed",
+      "feeder",
+      "breastfeed",
+      "feedback",
+      "newsfeed",
+      "feedstock",
+      "feedlot",
+      "fed",
+      "feeds"
+    ],
+    "exclude": {
+      "self-feed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-feed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spoon-feed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

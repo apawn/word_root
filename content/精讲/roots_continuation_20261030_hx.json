@@ -1,0 +1,137 @@
+[
+  {
+    "id": "B4235",
+    "meaning": "后部、向后，与养育、立起分源",
+    "core": "REAR：在后面，和养大、抬起来分开",
+    "image": "rear 后部 → rearward/rearview；rear 抚养、马立起则接古英语抬高词族。",
+    "intro": "同形词不能靠同一个方向硬串起来。位置、视线和饲养动作先分支，再接具体搭配。",
+    "forms": "retrō → rere → 后部 rear；rear + -ward/view。另线 rǣran → rear 抚养、立起。",
+    "branches": [
+      [
+        "后部、方向与视野",
+        "rear · rearward · rearview"
+      ]
+    ],
+    "contrasts": "rear a child 是抚养；rear up 是马等立起前身；rearward 抽象义不完全等于 backward。",
+    "practice": "The rearview mirror gives the driver a rearward view.\n\n后视镜让驾驶员能看到后方。",
+    "words": [
+      "rear",
+      "rearward",
+      "rearview"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1916",
+    "meaning": "与某事有关的人、原则立场和相应性质",
+    "core": "-ARIAN：把活动、原则或立场落到人和性质上",
+    "image": "vegetarian 饮食方式；disciplinarian 纪律角色；sectarian/communitarian 立场；humanitarian、libertarian 等各有固定义。",
+    "intro": "后缀只给关联方向，具体范围仍由词基和历史决定。有的先是借词，有的英语类推；不能给任何名词任意加 -arian 就当标准词。",
+    "forms": "拉丁 -ārius/-āriānus 等 → 相关借词与英语 -arian；词干常删尾、换形，比较 vegetable/vegetarian、community/communitarian。",
+    "branches": [
+      [
+        "生活、职责及记录角色",
+        "vegetarian · disciplinarian · parliamentarian · documentarian"
+      ],
+      [
+        "宗派、社群及人道原则",
+        "sectarian · communitarian · humanitarian"
+      ],
+      [
+        "权力、自由及效用等取向",
+        "authoritarian · libertarian · totalitarian · utilitarian · majoritarian"
+      ]
+    ],
+    "contrasts": "-arian 不只职业人物；vegetarian 不等于 vegan；disciplinarian 是人；communitarian 不等于 communist；各思想词不能只凭后缀推细节。",
+    "practice": "The vegetarian teacher was a strict disciplinarian with strong humanitarian concerns.\n\n那位吃素的老师管教严格，也十分关心人道问题。",
+    "words": [
+      "vegetarian",
+      "disciplinarian",
+      "parliamentarian",
+      "documentarian",
+      "sectarian",
+      "communitarian",
+      "humanitarian",
+      "authoritarian",
+      "libertarian",
+      "totalitarian",
+      "utilitarian",
+      "majoritarian"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3274",
+    "meaning": "知道某事存在，并对此保持注意的状态",
+    "core": "AWARENESS：事情进入你的注意，而不只是眼前有它",
+    "image": "aware 知道、意识到 → awareness 这种认识、注意状态。",
+    "intro": "环境、风险、公众问题都可能已经存在，却未进入人的注意。raise awareness 就是让更多人知道、重视这个问题。",
+    "forms": "aware + -ness → awareness；-ness 把知道、注意的性质变成状态名词。",
+    "branches": [
+      [
+        "意识到与认识状态",
+        "aware · awareness"
+      ]
+    ],
+    "contrasts": "awareness 不自动等于深入知识或已采取行动；raise awareness 提高认知，仍要看对什么问题的认识。",
+    "practice": "The campaign raised awareness and made more people aware of the problem.\n\n宣传提高了认识，让更多人意识到这个问题。",
+    "words": [
+      "aware",
+      "awareness"
+    ],
+    "exclude": {
+      "self-awareness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meta-awareness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4566",
+    "meaning": "辨别差异，以及把差异用于不利区别待遇",
+    "core": "DISCRIMINATE：先分清，再看怎样对待",
+    "image": "discriminate → discrimination/discriminatory；indiscriminate 却是不加分辨，不能理解成公平待人。",
+    "intro": "从分辨到歧视并不意味着每次分辨都有问题。辨别力是能力，按群体偏见对人不利是另一种行为。",
+    "forms": "discernere → discrīmen/discrīmināre → discriminate；discrīminātiō → discrimination；-ory、in- 的性质形式。",
+    "branches": [
+      [
+        "区分动作与过程",
+        "discriminate · discrimination"
+      ],
+      [
+        "歧视性与不加分辨",
+        "discriminatory · indiscriminate"
+      ]
+    ],
+    "contrasts": "between 可说辨别，against 常说歧视；discriminatory 与 discriminating 评价不同；indiscriminate 不等于 nondiscriminatory。",
+    "practice": "Good judgment requires discrimination, not discriminatory prejudice or indiscriminate rejection.\n\n好的判断需要辨别力，既非歧视性偏见，也非不加分辨的拒绝。",
+    "words": [
+      "discriminate",
+      "discrimination",
+      "discriminatory",
+      "indiscriminate"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4502",
+    "meaning": "锁住、锁定的状态及被陆地围住的比喻",
+    "core": "LOCKED：通道或改动受到限制",
+    "image": "locked 锁住；landlocked 则由 land + locked 形容被陆地围住、没有海岸。",
+    "intro": "从实体门锁理解限制，再看地理比喻。文件锁定、账户锁定各有制度或技术含义，不能仅靠门锁推断所有细节。",
+    "forms": "lock + -ed → locked；land + locked → landlocked。",
+    "branches": [
+      [
+        "锁住的状态与地理组合",
+        "locked · landlocked"
+      ]
+    ],
+    "contrasts": "locked 末尾 /kt/；锁定不等于加密；landlocked 不表示没有河流，也不自动表示政治封闭。",
+    "practice": "The article about landlocked countries was saved in a locked file.\n\n那篇关于内陆国的文章存放在一个锁定文件中。",
+    "words": [
+      "locked",
+      "landlocked"
+    ],
+    "exclude": {
+      "wood-locked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

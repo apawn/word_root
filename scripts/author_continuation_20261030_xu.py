@@ -1,0 +1,99 @@
+"""Tools and components, objects and subjects, units and sections."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3260':dict(words=['tool','tools'],label='tool → tools：帮人完成事情的器具、方法',note='实物工具与软件、思考工具保留帮助完成任务的共同画面。'),
+ 'C0325':dict(words=['device','devices'],label='devise／device → devices：设计出来的装置与手法',note='较早分配、安排的词族，经法语形成计划、设计、装置等分支。'),
+ 'A1774':dict(words=['element','elements'],label='element／elementary：基本成分与基础原理',note='element 本身是拉丁借词，其更远来源未定；elementary 与其对应，复数 elements 有常见独立用法。'),
+ 'C1097':dict(words=['component','components'],label='compose／component → components：一起放成整体的部分',note='com- 一起与 ponere 放的词族，分词形式发展为组成部分。'),
+ 'C0620':dict(words=['object','objects','subject','subjects'],label='object／subject → objects／subjects：名词、动词的重音分开',note='放在面前、放在下面的较早构词，分别发展出对象与主题等；名词常前重、动词常后重。'),
+ 'A1834':dict(words=['item','items'],label='item → items：列表中一项项列出的东西',note='拉丁另外、也的列举用词变成条目的名称。'),
+ 'C1580':dict(words=['unit','units'],label='unity／unit → units：当成一个整体来数',note='unit 经 unity 的英语词形调整形成，复数可说单位、单元。'),
+ 'B2759':dict(words=['piece','pieces'],label='piece → pieces：一部分、一份与拼接',note='部分、碎片的法语借词发展出一件、一份及拼合的动词。'),
+ 'C1295':dict(words=['section','sections'],label='section → sections：切分、划出的部分',note='拉丁 secare 切的词族，发展为区段、章节、截面等。'),
+ 'C0425':dict(words=['definition','definitions'],label='define／definition → definitions：划清词义边界',note='边界、界定词族，连接定义与轮廓清晰度。'),
+}
+W('tools','/tuːlz/','工具、器具；手段；用工具加工〔第三人称单数〕',
+ '能帮你把事情做成的器具就是 tools；软件、方法也能充当工具，因此不只指锤子、螺丝刀。',
+ 'tool + -s，/l/ 后读 /z/。tool 继承古英语 tōl，与较早制作、准备的词族有关；名词后来转作加工、配置工具等动词。',
+ [['古英语 tōl → 中古英语 tool、tol → tool','帮助完成任务的器具'],['tool + -s → tools','多件工具；软件、方法等抽象手段']],
+ 'garden tools 园艺工具；hand tools 手工工具；software tools 软件工具；tools for learning 学习工具。',
+ 'choose the right tools；a box of tools。','tool 侧重帮助完成任务的手段，device 常说为某种用途设计的装置；equipment 是设备总体，通常不可数。工具也可抽象，如 a tool for thinking。',
+ ('She put the garden tools back in the shed.','她把园艺工具放回了棚屋。'),('The course introduces useful tools for planning a project.','这门课介绍了规划项目的实用工具。'),sources=['https://en.wiktionary.org/wiki/tools#English','https://en.wiktionary.org/wiki/tool#English'])
+W('devices','/dɪˈvaɪsɪz/','设备、装置；手段、技巧〔device 的复数〕',
+ '为了完成某种目的而设计出来的装置，是 devices；写作、艺术里精心安排的表达手法，也可以这样说。',
+ 'device + -s，原词末尾 /s/ 后增加 /ɪz/。device 经古法语 devis、devise 接安排、设计词族，更早常接重建的通俗拉丁 *dīvisāre，关联 dīvidere 分配、分开。星号表示重建。',
+ [['拉丁分配词族 → 法语 devis／devise → 英语 device','安排、设计 → 方案、装置'],['device + -s → devices','多个装置；多种表达、安排手法']],
+ 'electronic devices 电子设备；safety devices 安全装置；literary devices 文学手法；left to their own devices 任其自行安排、行事。',
+ 'connect the devices；devices used to tell the story。','devices 的 /s/ 与动词 devise /dɪˈvaɪz/ 中的 /z/ 不同。device 侧重设计出的装置、手法；equipment 则通常不可数地说设备总体。',
+ ('Please switch off electronic devices during the performance.','演出期间，请关闭电子设备。'),('The writer uses several devices to build suspense.','作者用了几种手法来制造悬念。'),sources=['https://en.wiktionary.org/wiki/devices#English','https://en.wiktionary.org/wiki/device#English'])
+W('elements','/ˈelɪmənts/','要素、成分；元素；基本原理；自然力量、风雨〔特定用法〕',
+ '组成一个整体的基本部分，是 elements；把知识拆到最基本，也能说它的基本原理。天气里的风雨等自然力量，则是 the elements 的常见整体表达。',
+ 'element + -s，/t/ 后读 /s/。element 经法语或直接接拉丁 elementum，早有基本成分、原理、字母等义，更远来源未定；这里不能按现代 ele + -ment 编造构词。',
+ [['拉丁 elementum／elementa → 法语、英语 element','基本成分、原理等'],['element + -s → elements','多种要素、元素；基本原理、自然力量等']],
+ 'key elements 关键要素；chemical elements 化学元素；the elements of design 设计基础；exposed to the elements 暴露在风雨中。',
+ 'combine the elements；elements of a good story。','化学的 elements 是元素；a story’s elements 是构成故事的要素；the elements 在遮蔽、风雨语境常说自然环境的侵袭。完整短语比单独背一个汉语义更有用。',
+ ('The lesson explains the basic elements of a good story.','这节课解释了一个好故事的基本要素。'),('The old roof no longer protected the room from the elements.','旧屋顶已经无法为房间遮风挡雨。'),sources=['https://en.wiktionary.org/wiki/elements#English','https://en.wiktionary.org/wiki/element#English'])
+W('components','/kəmˈpəʊnənts/〔美 /kəmˈpoʊnənts/〕','组成部分；部件；成分〔复数〕',
+ '把几个部分放在一起才能组成整体，每个参与组成的部分就是 component；多个部分合起来是 components。',
+ 'component + -s，/t/ 后读 /s/。component 借拉丁 compōnēns，来自 com- 一起与 pōnere 放组成的 compōnere，分词表示正在组成的；不把它当成英语 compose 的随意截短。',
+ [['拉丁 com- + pōnere → compōnere、compōnēns','放在一起 → 参与组成的'],['英语 component + -s → components','构成整体的一项项部件、成分']],
+ 'electronic components 电子元件；key components 关键组成部分；components of a system 系统的组成部分。',
+ 'assemble the components；replace damaged components。','component 比 part 常更强调作为系统、整体中可辨认的一部分。ingredient 常说食品、混合物中的配料、成分；component 可说机械、软件、计划中的组成部分。',
+ ('The kit contains all the components needed to build the model.','套件里有制作这个模型所需的全部部件。'),('The plan has three main components.','这项计划有三个主要组成部分。'),sources=['https://en.wiktionary.org/wiki/components#English','https://en.wiktionary.org/wiki/component#English'])
+W('objects','名词：英 /ˈɒbdʒɪkts/、美 /ˈɑːbdʒekts/；动词 /əbˈdʒekts/','物体、对象；宾语；目的〔复数〕；反对〔第三人称单数〕',
+ '放在眼前能看、能研究的东西，是 objects 的对象分支；如果是对一个提议提出反对，则是后面重读的动词 objects。',
+ 'object + -s，/t/ 后读 /s/。名词经法语、中世纪拉丁 obiectum 接放在面前的东西；动词另经法语 objecter 及拉丁反对义支线借入，较早同接 ob- 与 iacere 投、放的词族。名词常第一音节重读，动词第二音节重读。',
+ [['拉丁 ob- + iacere → obicere、obiectum 等','放在面前 → 对象；提出反对的相关分支'],['并行借入的名词、动词 object + -s → objects','多个对象、宾语；单数主语反对']],
+ 'small objects 小物件；objects of study 研究对象；direct objects 直接宾语；objects to the proposal 反对提议。',
+ 'objects made of glass；nobody objects。','objects to something 是动词反对，to 后接名词或 -ing；名词 objects 在语法里可说宾语。The objects are heavy 和 She objects to the plan 的重音、句法都不同。',
+ ('The box contained several small metal objects.','盒子里装着几件小金属物件。'),('She objects to leaving the door unlocked.','她反对不锁门。'),('We practised finding the objects in simple sentences.','我们练习了找出简单句中的宾语。'),sources=['https://en.wiktionary.org/wiki/objects#English','https://en.wiktionary.org/wiki/object#English'])
+W('subjects','名词：英 /ˈsʌbdʒɪkts/、美 /ˈsʌbdʒekts/；动词 /səbˈdʒekts/','主题；学科；主语；受研究的人或物〔复数〕；使遭受、经受〔第三人称单数〕',
+ '放到讨论、学习、研究的基础位置上，是名词 subjects 的一组用法；把人或东西置于某种处理、影响之下，则是后面重读的动词 subjects。',
+ 'subject + -s，/t/ 后读 /s/。较早拉丁 sub- 与 iacere 组成 subicere，形成 subiect- 词干；名词等经法语、拉丁相关形式借入，动词还联系中世纪拉丁 subiectāre。名词常前重，动词常后重。',
+ [['拉丁 subicere、subiectum 等 → 法语、英语 subject','置于下面；作为讨论基础、受支配的对象等'],['subject + -s → subjects','多个主题、学科、主语；单数主语使经受']],
+ 'school subjects 学校科目；subjects of discussion 讨论主题；grammatical subjects 语法主语；subjects the material to heat 让材料经受加热。',
+ 'study several subjects；subjects for a painting。','名词 subjects in a study 是研究对象；动词 subjects something to something 是使前者经受后者。语法里的 subjects 是主语，objects 是宾语，两者都是专门术语分支。',
+ ('History and science were her favourite subjects at school.','她在学校最喜欢历史和科学。'),('The machine subjects the material to repeated pressure.','机器让材料反复受压。'),('Underline the subjects in these sentences.','在这些句子的主语下画线。'),sources=['https://en.wiktionary.org/wiki/subjects#English','https://en.wiktionary.org/wiki/subject#English'])
+W('items','/ˈaɪtəmz/','项目、条目；单件物品；一则内容〔复数〕',
+ '把东西一项项列出来，每一项就是 item：清单的一条、商店的一件货、新闻中的一则都可以用。',
+ 'item + -s，/m/ 后读 /z/。item 借拉丁 item 也、另外，原本在账目、列表里逐条引出另外一项，后来引项词变成条目、物件的名称。',
+ [['拉丁 item：也、另外 → 英语列表、账目用语','另外一项……'],['列举用语成为名词 item；再加 -s → items','条目、一件物品 → 多个项目、物件']],
+ 'items on the list 清单上的项目；items of clothing 几件衣物；news items 新闻条目；items for sale 待售物品。',
+ 'check all the items；several small items。','items 很适合说可分开列、可分开数的东西。an item of information 是一条信息，information 本身通常不可数；item 帮它取得一项、一条的计数方式。',
+ ('Please check the items on the list before you leave.','离开前，请检查清单上的项目。'),('The box held a few small items of jewellery.','盒子里放着几件小首饰。'),sources=['https://en.wiktionary.org/wiki/items#English','https://en.wiktionary.org/wiki/item#English'])
+W('units','/ˈjuːnɪts/','单位；单元；部件、成套装置；一套住宅〔复数〕',
+ '先划出一个完整的份额，再按这份额来数，就是 unit；量度单位、课本单元、整体设备里的一套装置，都能这样理解。',
+ 'unit + -s，/t/ 后读 /s/。unit 在英语中由 unity 的词形调整形成，较早经法语接拉丁 ūnitās、ūnus 一；核心是把某些东西当作一个整体。',
+ [['拉丁 ūnus、ūnitās → 法语、英语 unity','一 → 一体、统一'],['英语 unit；unit + -s → units','作为一个整体的单元 → 多个单位、单元']],
+ 'units of measurement 计量单位；course units 课程单元；storage units 储物单元、装置；housing units 住宅单元。',
+ 'sell in units；three units in the textbook。','units 必须看单位划的是什么：米、千克是计量单位，住宅的一户或一套也可作 unit。unity 团结、一体与 unit 单元同族，但现代用法不同。',
+ ('The textbook is divided into twelve units.','这本教材分成十二个单元。'),('Always check that the measurements use the same units.','务必检查这些测量值是否使用同样的单位。'),sources=['https://en.wiktionary.org/wiki/units#English','https://en.wiktionary.org/wiki/unit#English'])
+W('pieces','/ˈpiːsɪz/','部分、碎片；一件、一份；作品；拼合〔第三人称单数〕',
+ '从整体分出来的一块、单独拿出的一份，是 pieces；把这些部分再接起来，动词 pieces together 就表示拼合。',
+ 'piece + -s，/s/ 后增加 /ɪz/。piece 经法语接晚期拉丁 pecia、petia 的部分、碎片词，更远来源有争议；动词从部分、拼块的名词用法发展。',
+ [['晚期拉丁部分、碎片词 → 法语、英语 piece','一块、一部分 → 一份、一件'],['piece + -s → pieces；piece together','多个部分；将分散材料拼合']],
+ 'pieces of paper 几张、几片纸；pieces of advice 几条建议；pieces of music 几首乐曲；pieces together the story 拼出事情经过。',
+ 'break into pieces；two pieces of cake。','piece 常帮不可数名词计数，如 a piece of advice、two pieces of information。piece /piːs/ 与 peace 和平同音，pieces /ˈpiːsɪz/ 的复数会增加音节。',
+ ('She cut the paper into small pieces.','她把纸剪成了小片。'),('He pieces together the story from old letters and photographs.','他根据旧信和照片拼出了事情的经过。'),sources=['https://en.wiktionary.org/wiki/pieces#English','https://en.wiktionary.org/wiki/piece#English'])
+W('sections','/ˈsekʃənz/','部分；区段；章节；截面；分段、切开〔第三人称单数〕',
+ '把整体切开、划开后得到的一部分，就是 section；文章的一节、建筑的一个区段、物体的切面都可这样理解。',
+ 'section + -s，/n/ 后读 /z/。section 经法语及拉丁路线接拉丁 sectiō，来自 secāre 切、割及 sect- 分词词干；英语后来还可用为分段、切开的动词。',
+ [['拉丁 secāre、sectiō → 法语、英语 section','切、割 → 切分出的部分'],['section + -s → sections','多个区段、章节、截面；单数主语分段']],
+ 'sections of the book 书的各节；different sections of the store 商店不同区域；cross sections 横截面；cut into sections 切成几段。',
+ 'divide into sections；the next two sections。','section 比 part 常更有划分出来的区段、章节感觉。chapter 通常是一章，section 可以是章内的一节，也可指其他结构中的部分，具体层级看文档。',
+ ('The guide is divided into four main sections.','这份指南分成四个主要部分。'),('The exhibition has separate sections for painting and photography.','展览分别设有绘画与摄影展区。'),sources=['https://en.wiktionary.org/wiki/sections#English','https://en.wiktionary.org/wiki/section#English'])
+W('definitions','/ˌdefɪˈnɪʃənz/','定义；释义；清晰度、界定方式〔具体语境，复数〕',
+ '用话给一个概念画清边界，让别人知道它包括什么、怎样理解，这样的一条条界定就是 definitions。',
+ 'definition + -s，/n/ 后读 /z/。definition 经法语接拉丁 dēfīnītiō，来自 dēfīnīre 划清界限，较早是 fīnis 边界、终点词族；与 define 对应，但不是英语 define 后原样拼上 tion。',
+ [['拉丁 fīnis、dēfīnīre、dēfīnītiō → 法语、英语 definition','边界 → 划清边界 → 定义、界定'],['definition + -s → definitions','多条定义、释义；不同界定方式']],
+ 'dictionary definitions 词典释义；clear definitions 清楚的定义；definitions of key terms 关键术语的定义；different definitions 不同界定。',
+ 'compare the definitions；agree on definitions。','definition 说明一个词、概念如何被界定；example 给一个具体例子。定义与例子一起看更容易理解。high definition 高清的 definition 则是轮廓、影像清晰度这一分支。',
+ ('The book gives clear definitions of the main terms.','这本书清楚解释了主要术语的定义。'),('The two studies use different definitions of the same concept.','两项研究对同一个概念采用了不同定义。'),sources=['https://en.wiktionary.org/wiki/definitions#English','https://en.wiktionary.org/wiki/definition#English'])
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_xu',ROOTS,WORDS)
+ extend_lessons()

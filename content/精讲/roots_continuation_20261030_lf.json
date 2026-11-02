@@ -1,0 +1,92 @@
+[
+  {
+    "id": "B3400",
+    "meaning": "施巫术的人、技艺，及像被魔法吸引的比喻",
+    "core": "WITCH：先看施法人物，再看技艺和迷人效果",
+    "image": "witch → witchcraft、witching、witchy；be- + witch → bewitch。",
+    "intro": "故事中的魔法人物容易形成直观记忆，再把人、技艺、氛围和使人着迷分开。古英语来源可追溯，更远的词根仍有争论。",
+    "forms": "wicce、wicca → wicche → witch；craft 技艺，-ing 活动或性质，-y 像……的，be- 参与形成动词。",
+    "branches": [
+      [
+        "人物与技艺",
+        "witch · witchcraft"
+      ],
+      [
+        "氛围与迷住人的动作",
+        "witching · witchy · bewitch"
+      ]
+    ],
+    "contrasts": "witch 不在所有时代、文化里都仅限女性；bewitch 可以只是比喻着迷；witcher、witchery 等较冷门形式先略过。",
+    "practice": "The witch’s song bewitched everyone who heard it.\n\n女巫的歌迷住了每一个听到的人。",
+    "words": [
+      "witch",
+      "witchcraft",
+      "witching",
+      "witchy",
+      "bewitch"
+    ],
+    "exclude": {
+      "witch-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-witch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "witch-hunt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "witcher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "witchery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2941",
+    "meaning": "水中薄膜包着气，延伸为空、易破或活泼冒出的形象",
+    "core": "BUBBLE：圆圆冒起来，可能欢快，也可能一碰就破",
+    "image": "bubble → bubbly、bubbler；bubble + gum → bubblegum。",
+    "intro": "先抓气泡这个小画面：人的快乐像气泡不断冒，虚涨的东西像薄泡易破，泡泡糖则真的能吹成泡。不同分支无需硬塞成一个中文义。",
+    "forms": "拟声相关 bubble；-y 性质，-er 装置，gum 口香糖。\n\nbubble 可能接低地日耳曼相关词，远处通常有拟声分析。现代复数与第三人称同形，保留末尾 e 加 -s；可说气泡、冒泡或新想法冒出。",
+    "branches": [
+      [
+        "气泡与性质、装置",
+        "bubble · bubbly · bubbler"
+      ],
+      [
+        "泡泡糖及风格",
+        "bubblegum"
+      ],
+      [
+        "bubble → bubbles：气泡与冒泡",
+        "bubbles"
+      ]
+    ],
+    "contrasts": "bubbly 可说人或起泡酒；bubbler 的饮水喷泉义带地区差异；bubble 的比喻需看具体语境。",
+    "practice": "The bubbly host offered everyone a glass of bubbly.\n\n开朗的主人请大家各喝一杯起泡酒。",
+    "words": [
+      "bubble",
+      "bubbly",
+      "bubbler",
+      "bubblegum",
+      "bubbles"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4151",
+    "meaning": "同一、相同，区分物的性质与动作的方式",
+    "core": "IDENTICAL：比较时一样，确认时可能就是同一个",
+    "image": "identical → identically。",
+    "intro": "两份副本可完全一样，但仍是两份；the identical object 在某些语境里则强调就是同一件。读句子时把相关比较范围想清楚。",
+    "forms": "idem → identitās、identicus → identic + -al；-ly 形成方式副词。",
+    "branches": [
+      [
+        "性质与方式",
+        "identical · identically"
+      ]
+    ],
+    "contrasts": "similar 通常只说相似；identically 要修饰动作或相应性质；同卵双胞胎并不意味着所有方面没有差异。",
+    "practice": "The identical boxes were labelled identically.\n\n这些相同的盒子贴着一样的标签。",
+    "words": [
+      "identical",
+      "identically"
+    ],
+    "exclude": {
+      "half-identical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semi-identical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

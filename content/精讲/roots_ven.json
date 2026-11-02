@@ -5,7 +5,7 @@
     "core": "VEN / VENT = COME",
     "image": "把“来”画成一个箭头：从哪里来、往哪里来、何时来，决定后面的意思",
     "intro": "**先记一个动作：来到。** 拉丁语 venīre 表示来。往这里来，是 advent“到来”；一起到来、碰到一起，是 convene“集会”，再发展出相合、方便；来到中间，是 intervene“介入”；抢先来到、先一步挡住，是 prevent“防止”。同一个动作，方向和上下文一换，就能长出很不一样的意思。",
-    "forms": "ven- 与 vent- 常分别出现在拉丁动词及其分词、名词等构词中。不要把 vent 当成永远能独立翻译为“来”的英语部件：vent“通风口、发泄”主要走的是拉丁语 ventus“风”这一条线。avenue、revenue、souvenir 等经过法语，字形已变；venture 是 adventure 的截短词。现代能看出相似部分，不等于每个词都是在英语里现拼出来的。",
+    "forms": "ven- 与 vent- 常分别出现在拉丁动词及其分词、名词等构词中。不要把 vent 当成永远能独立翻译为“来”的英语部件：vent“通风口、发泄”主要走的是拉丁语 ventus“风”这一条线。avenue、revenue、souvenir 等经过法语，字形已变；venture 是 adventure 的截短词。现代能看出相似部分，不等于每个词都是在英语里现拼出来的。\n\nevent 接拉丁 evenire 出来、发生的 eventus 形式；events 可以是意外发生的事，也可以是筹办的活动。\n\n法语 inventer 接拉丁 inventus、invenire，英语直接加 ed。\n\n法语 aventure 接拉丁 advenire 的相关材料，英语 d 后来补回。\n\n拉丁 praevenire、praeventus 的走在前面、抢先背景，英语 ing 直接加。\n\n法语 revenir 的回来词族发展为回报、收入，根在拉丁 venire。\n\n拉丁 prae- 加 venire，经 praeventus；现代过去尾读 id。\n\n法语 venir 的相关分词 venue，英语经历地点义发展，现代不用每次都译成到来。\n\n拉丁 prae 加 venire，现代不是普通英语 pre 加 vent。\n\n拉丁 convenire 聚到一起、相合 → conventio，经法语等形成 convention。现代复数常说大会、惯例、公约等，不同对象分开理解。\n\nventure 是 aventure、adventure 的截短等来源，远接拉丁到来的词族。现代复数常说有风险的新事业，动词第三人称同形。\n\nintervention 接晚期拉丁 interventio 插入、介入词族，含 inter- 与 venire 来。现代复数可数介入行动，按调停、干预等对象区分。",
     "branches": [
       [
         "来到、发生",
@@ -50,6 +50,50 @@
       [
         "来到心中 → 纪念品",
         "souvenir"
+      ],
+      [
+        "event → events：发生的事与安排的活动",
+        "event · events"
+      ],
+      [
+        "invent → invented：遇到、发现到创造与编造",
+        "invent · invented · invention"
+      ],
+      [
+        "adventure → adventures：将要来到的未知经历",
+        "adventure · adventures"
+      ],
+      [
+        "prevent → preventing：提前来到，拦住发生",
+        "prevent · preventing · prevention"
+      ],
+      [
+        "revenue → revenues：回来的一笔笔收入",
+        "revenue · revenues"
+      ],
+      [
+        "prevent → prevented：抢在前面，使事情没有发生",
+        "prevent · prevented"
+      ],
+      [
+        "venue → venues：到来词的活动地点发展",
+        "venue · venues"
+      ],
+      [
+        "prevent → prevents：抢先一步阻止发生",
+        "prevent · prevents"
+      ],
+      [
+        "con- 一起 + ven- 来 → conventions",
+        "conventions"
+      ],
+      [
+        "来到、遇上 → adventure → venture → ventures",
+        "ventures"
+      ],
+      [
+        "inter- 中间 + ven- 来 → interventions",
+        "interventions"
       ]
     ],
     "contrasts": "**event / invent / prevent**：事情发生；发现、想出新东西；提前行动让事情不发生。\n\n**convenient / conventional**：使用或安排起来方便；符合惯例、传统做法。方便与传统是两回事。\n\n**adventure / venture**：冒险经历；带风险的尝试或事业。创业可以是 venture，也可能成为一段 adventure。\n\n**circumvent / contravene**：设法绕开限制；行为违反要求。绕开是否构成违反，还要看具体规定。\n\n**intervene / intervention**：现代是动词与名词的搭配，但英语名词出现得更早；不应把词尾较长的一律画成短词的后代。",
@@ -102,7 +146,18 @@
       "contravene",
       "contravention",
       "souvenir",
-      "supervene"
+      "supervene",
+      "events",
+      "invented",
+      "adventures",
+      "preventing",
+      "revenues",
+      "prevented",
+      "venues",
+      "prevents",
+      "conventions",
+      "ventures",
+      "interventions"
     ]
   }
 ]

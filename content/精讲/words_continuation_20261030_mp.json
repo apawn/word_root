@@ -1,0 +1,535 @@
+[
+  {
+    "word": "merit",
+    "ipa": "/ˈmerɪt/",
+    "meaning": "优点、价值；功绩；值得、应得到",
+    "sense": "不用先看身份，单看这件事本身值不值得肯定，就是看 merit。动词也能说某事值得认真讨论，或某行为应受批评。",
+    "split": "经法语 merite 等接拉丁 meritum，来自挣得、应得的 merere 一族；早期可说应得奖惩，英语名词常偏正面的价值、功绩。",
+    "history": [
+      [
+        "拉丁 merere、mereri → meritum",
+        "挣得、应得 → 值得奖惩的表现、价值"
+      ],
+      [
+        "法语 merite 等 → 英语 merit",
+        "优点、长处、价值；动词说值得、应得到"
+      ]
+    ],
+    "explanation": "on merit 凭能力、表现，the merits of a plan 计划的优点，merit consideration 值得考虑，merit criticism 应受批评。",
+    "usage": "on merit；the merits of；merit consideration。",
+    "contrast": "merit 名词常正面，动词的应得却能接 criticism 等负面结果；merits 还可谈事情实质，具体看结构。",
+    "examples": [
+      [
+        "The idea has merit and deserves a closer look.",
+        "这个想法有可取之处，值得进一步考察。"
+      ],
+      [
+        "Candidates were selected on merit.",
+        "候选人依据能力和表现被选出。"
+      ],
+      [
+        "The decision merits serious criticism.",
+        "这个决定应受到严肃批评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/merit#English",
+      "https://www.etymonline.com/word/merit"
+    ]
+  },
+  {
+    "word": "meritocratic",
+    "ipa": "英 /ˌmerɪtəˈkrætɪk/；美 /ˌmerɪtəˈkrætɪk/",
+    "meaning": "按能力、成绩、功绩选拔分配的；精英治理相关的",
+    "sense": "职位、机会按表现和能力分配，而不是只看出身、关系，这种原则叫 meritocratic。现实中怎样衡量能力，是另一个需要讨论的问题。",
+    "split": "merit + 连接元音 -o- + -cratic，或 meritocrat + -ic；与 meritocracy 的 -cracy／-cratic 名词、形容词对应。-cratic 通向治理、权力词族。",
+    "history": [
+      [
+        "拉丁 merere、mereri → meritum",
+        "挣得、应得 → 值得奖惩的表现、价值"
+      ],
+      [
+        "法语 merite 等 → 英语 merit",
+        "优点、长处、价值；动词说值得、应得到"
+      ],
+      [
+        "merit + -o- + -cratic → meritocratic",
+        "以能力、功绩为依据的制度性质"
+      ]
+    ],
+    "explanation": "a meritocratic system 按能力、功绩选拔的制度，a meritocratic ideal 任人唯贤的理想，meritocratic selection 按能力表现选拔。",
+    "usage": "a meritocratic system；meritocratic selection。",
+    "contrast": "meritocratic 是制度原则、性质的描述，不单凭这个标签就能证明衡量标准已经公平。",
+    "examples": [
+      [
+        "The organisation aimed to make promotion more meritocratic.",
+        "机构希望晋升更依据能力和表现。"
+      ],
+      [
+        "The essay questions whether the system is truly meritocratic.",
+        "文章质疑这个制度是否真正按能力、功绩运行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meritocratic#English"
+    ]
+  },
+  {
+    "word": "petty",
+    "ipa": "/ˈpeti/",
+    "meaning": "小的、次要的；琐碎的；小心眼、斤斤计较的",
+    "sense": "事情本来很小，却有人一直抓住不放，petty 就从小事走到小心眼。petty cash 只是小额备用金，并没有骂钱的意思。",
+    "split": "借法语 petit 小，经中古英语 peti、pety 等发展，现代 y 是借词拼写演变，不是 pet 宠物加 -y。",
+    "history": [
+      [
+        "古法语 petit → 中古英语 peti、pety → petty",
+        "小、次要；更远来源未定"
+      ],
+      [
+        "规模小 → 不重要 → 小心眼",
+        "小额款项可中性，行为评价则常带贬意"
+      ]
+    ],
+    "explanation": "petty cash 小额备用金，petty details 琐碎细节，petty jealousy 小心眼的嫉妒，a petty argument 为小事的争吵。",
+    "usage": "petty cash；petty jealousy。",
+    "contrast": "petty 的小额、低级别义可中性；说人 petty 通常批评目光狭窄、为小事计较。",
+    "examples": [
+      [
+        "The office keeps petty cash for small expenses.",
+        "办公室备有小额现金，用于零星开销。"
+      ],
+      [
+        "They stopped arguing over petty details.",
+        "他们不再为琐碎细节争吵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/petty#English",
+      "https://www.etymonline.com/word/petty"
+    ]
+  },
+  {
+    "word": "pettiness",
+    "ipa": "/ˈpetinəs/",
+    "meaning": "小心眼、斤斤计较；琐碎狭隘的态度",
+    "sense": "不是一件东西体积小，而是心思一直困在一点点不快、小利益里；这种狭隘、计较的状态就是 pettiness。",
+    "split": "petty + -ness，y 变 i，形成性质名词；常接 petty 对人或行为的负面评价。",
+    "history": [
+      [
+        "古法语 petit → 中古英语 peti、pety → petty",
+        "小、次要；更远来源未定"
+      ],
+      [
+        "规模小 → 不重要 → 小心眼",
+        "小额款项可中性，行为评价则常带贬意"
+      ],
+      [
+        "petty + -ness → pettiness",
+        "琐碎狭隘、小心眼的性质"
+      ]
+    ],
+    "explanation": "petty behaviour 的性质可说 pettiness，rise above pettiness 不受小心眼、琐碎计较影响。",
+    "usage": "rise above pettiness；an act of pettiness。",
+    "contrast": "pettiness 不等于普通 smallness 体积小；它通常评价态度和行为。",
+    "examples": [
+      [
+        "She was tired of the pettiness in the office.",
+        "她厌倦了办公室里的小心眼和琐碎计较。"
+      ],
+      [
+        "They tried to rise above personal pettiness.",
+        "他们试图摆脱个人之间的小心眼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pettiness#English"
+    ]
+  },
+  {
+    "word": "polite",
+    "ipa": "/pəˈlaɪt/",
+    "meaning": "有礼貌、得体的",
+    "sense": "像把粗糙边角磨平，说话、举止不扎人，懂得顾及对方，这就是 polite。今天不是说人的皮肤真被抛光了。",
+    "split": "借拉丁 politus 磨光的，是 polire 打磨的过去分词；从文雅、受过修养发展为待人得体、有礼。",
+    "history": [
+      [
+        "拉丁 polire 打磨 → politus",
+        "磨光、精细、文雅"
+      ],
+      [
+        "英语 polite",
+        "由文雅、修养扩展为待人有礼、考虑他人"
+      ]
+    ],
+    "explanation": "be polite to someone 对某人有礼貌，a polite reply 得体回复，polite conversation 礼貌交谈，a polite refusal 客气拒绝。",
+    "usage": "be polite to；a polite reply。",
+    "contrast": "polite 不一定表示内心同意；人可以礼貌地拒绝，也可以只是维持客气。",
+    "examples": [
+      [
+        "She was polite to everyone she met.",
+        "她对见到的每个人都很有礼貌。"
+      ],
+      [
+        "He gave a polite refusal.",
+        "他客气地拒绝了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/polite#English",
+      "https://www.etymonline.com/word/polite"
+    ]
+  },
+  {
+    "word": "politely",
+    "ipa": "/pəˈlaɪtli/",
+    "meaning": "有礼貌、客气地",
+    "sense": "意思可能很坚决，表达方式却照顾对方感受，就是 politely。礼貌说不，仍然是说不。",
+    "split": "polite + -ly，形成方式副词，末尾 e 保留。",
+    "history": [
+      [
+        "拉丁 polire 打磨 → politus",
+        "磨光、精细、文雅"
+      ],
+      [
+        "英语 polite",
+        "由文雅、修养扩展为待人有礼、考虑他人"
+      ],
+      [
+        "polite + -ly → politely",
+        "以礼貌、得体的方式"
+      ]
+    ],
+    "explanation": "ask politely 礼貌询问，decline politely 客气谢绝，smile politely 礼貌微笑。",
+    "usage": "ask politely；decline politely。",
+    "contrast": "politely 评价表达方式，不自动说明态度亲密、意见一致；a polite smile 也可能保持距离。",
+    "examples": [
+      [
+        "She politely declined the invitation.",
+        "她客气地谢绝了邀请。"
+      ],
+      [
+        "He asked politely whether the seat was free.",
+        "他礼貌地问这个座位有没有人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/politely#English"
+    ]
+  },
+  {
+    "word": "politeness",
+    "ipa": "/pəˈlaɪtnəs/",
+    "meaning": "礼貌、客气；礼貌举动",
+    "sense": "polite 是人或话语得体，politeness 是这种待人方式本身。out of politeness 就是出于礼貌。",
+    "split": "polite + -ness，形成性质名词，通常不可数；具体礼节、客套行为有时也可用可数相关表达。",
+    "history": [
+      [
+        "拉丁 polire 打磨 → politus",
+        "磨光、精细、文雅"
+      ],
+      [
+        "英语 polite",
+        "由文雅、修养扩展为待人有礼、考虑他人"
+      ],
+      [
+        "polite + -ness → politeness",
+        "礼貌、客气的性质"
+      ]
+    ],
+    "explanation": "out of politeness 出于礼貌，common politeness 基本礼貌，a matter of politeness 礼貌问题。",
+    "usage": "out of politeness；common politeness。",
+    "contrast": "politeness 不等于承诺；别人出于礼貌倾听，不能只据此判断对方已经答应。",
+    "examples": [
+      [
+        "I stayed for a few minutes out of politeness.",
+        "我出于礼貌又待了几分钟。"
+      ],
+      [
+        "A little politeness made the conversation easier.",
+        "稍微客气一点，谈话就顺畅多了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/politeness#English"
+    ]
+  },
+  {
+    "word": "impolite",
+    "ipa": "/ˌɪmpəˈlaɪt/",
+    "meaning": "不礼貌、失礼的",
+    "sense": "话说得冒犯、举止不顾别人感受，就是 impolite；它针对礼貌规范，不一定说明一个人所有方面都坏。",
+    "split": "借拉丁 impolitus 未磨光、不文雅的，现代对应 im- + polite；im- 是否定 in- 在 p 前的同化形式。",
+    "history": [
+      [
+        "拉丁 polire 打磨 → politus",
+        "磨光、精细、文雅"
+      ],
+      [
+        "in- 否定 + politus → impolitus → impolite",
+        "未磨光、不文雅 → 不礼貌"
+      ]
+    ],
+    "explanation": "an impolite remark 失礼的话，be impolite to someone 对某人失礼，It is impolite to ... 做某事失礼。",
+    "usage": "an impolite remark；be impolite to。",
+    "contrast": "impolite 的 im- 是否定，不是表示进入；rude 往往语气更直接，也可有其他粗野、粗糙义。",
+    "examples": [
+      [
+        "It is impolite to interrupt someone repeatedly.",
+        "一再打断别人讲话很失礼。"
+      ],
+      [
+        "He apologised for his impolite remark.",
+        "他为自己失礼的话道了歉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impolite#English"
+    ]
+  },
+  {
+    "word": "flame",
+    "ipa": "/fleɪm/",
+    "meaning": "火焰；燃烧；旧情人；激烈辱骂、抨击",
+    "sense": "火中看得见、发光的那一部分是 flame；热情像火、恋情像火，网上骂战也像火气往外喷，所以形成几条常用比喻。",
+    "split": "经法语 flame、flambe 等相关形式接拉丁 flamma 与指小 flammula。由实体火焰扩展情感热烈、恋爱对象及激烈攻击。",
+    "history": [
+      [
+        "拉丁 flamma、指小 flammula",
+        "火焰、小火焰"
+      ],
+      [
+        "法语 flame、flambe 等 → 中古英语相关形式 → flame",
+        "火焰；热情、恋爱和争吵等借火的形象"
+      ]
+    ],
+    "explanation": "a candle flame 烛焰，burst into flames 突然燃起，an old flame 旧情人，flame someone on a forum 在论坛上辱骂、激烈攻击某人。",
+    "usage": "burst into flames；an old flame。",
+    "contrast": "fire 可说整体燃烧现象、火灾，flame 更具体说可见火焰；an old flame 是人物比喻。",
+    "examples": [
+      [
+        "The candle flame flickered in the draught.",
+        "烛焰在穿堂风里摇曳。"
+      ],
+      [
+        "He met an old flame at the reunion.",
+        "他在聚会上遇见一位旧情人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flame#English"
+    ]
+  },
+  {
+    "word": "flamethrower",
+    "ipa": "英 /ˈfleɪmθrəʊə/；美 /ˈfleɪmθroʊər/",
+    "meaning": "火焰喷射器、喷火装置",
+    "sense": "把火焰向前喷出的装置，就是 flame + thrower。英语用扔出去的动作形象命名，不代表真的像手抛一个固体。",
+    "split": "flame 火焰 + thrower 投射者、装置，仿译德语 Flammenwerfer；名词可以用于武器或特定工具名称。",
+    "history": [
+      [
+        "拉丁 flamma、指小 flammula",
+        "火焰、小火焰"
+      ],
+      [
+        "法语 flame、flambe 等 → 中古英语相关形式 → flame",
+        "火焰；热情、恋爱和争吵等借火的形象"
+      ],
+      [
+        "flame + thrower，仿译德语相应词",
+        "向外喷射火焰的装置"
+      ]
+    ],
+    "explanation": "a flamethrower 火焰喷射器，a flamethrower in a museum 博物馆里的喷火器；这里只按名称认识装置用途。",
+    "usage": "a flamethrower；an old flamethrower。",
+    "contrast": "thrower 在器具名里指能投射、喷出相应对象的装置，不必是执行动作的人。",
+    "examples": [
+      [
+        "The museum displayed an old flamethrower.",
+        "博物馆展出了一具旧火焰喷射器。"
+      ],
+      [
+        "The film showed a soldier carrying a flamethrower.",
+        "影片中出现了一名携带喷火器的士兵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flamethrower#English"
+    ]
+  },
+  {
+    "word": "aflame",
+    "ipa": "/əˈfleɪm/",
+    "meaning": "燃烧着的；情绪、色彩如火般的",
+    "sense": "房子陷在火中是 aflame；天空一片火红、内心激动得像燃烧，也能借它描述强烈状态。",
+    "split": "形容词、副词常分析为 a- 处于、在……中 + flame 火焰；由处于火中扩展为颜色、情绪炽烈。",
+    "history": [
+      [
+        "拉丁 flamma、指小 flammula",
+        "火焰、小火焰"
+      ],
+      [
+        "法语 flame、flambe 等 → 中古英语相关形式 → flame",
+        "火焰；热情、恋爱和争吵等借火的形象"
+      ],
+      [
+        "a- 在……中 + flame → aflame",
+        "着火；色彩、情绪如火"
+      ]
+    ],
+    "explanation": "be aflame 燃烧，set aflame 点燃，aflame with excitement 因兴奋而炽热；常在系动词后或作补充状态。",
+    "usage": "be aflame；set aflame；aflame with。",
+    "contrast": "aflame 通常不是任意放在名词前的普通前置形容词；a burning house 比 an aflame house 更自然。",
+    "examples": [
+      [
+        "The building was already aflame when they arrived.",
+        "他们到时，大楼已经燃烧起来。"
+      ],
+      [
+        "The western sky was aflame with orange and red.",
+        "西边天空橙红一片，像燃烧着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aflame#English",
+      "https://www.etymonline.com/word/aflame"
+    ]
+  },
+  {
+    "word": "thumb",
+    "ipa": "/θʌm/",
+    "meaning": "拇指；用拇指翻动、示意",
+    "sense": "手上能与其他指尖相对的粗短那根，是 thumb；翻书时拇指哗哗拨页，就 thumb through。",
+    "split": "承古英语 þūma，经中古英语形式延续；更远通常联系粗壮、膨起。b 是历史拼写发展，现代常用读音不发 /b/。",
+    "history": [
+      [
+        "古英语 þūma → 中古英语 thome、thombe → thumb",
+        "拇指；更远常联系粗壮、膨起"
+      ],
+      [
+        "中古英语 thombe → thumb",
+        "拼写出现 b，现代读音保留 /θʌm/"
+      ]
+    ],
+    "explanation": "thumbs up 赞成手势，thumb through a book 快速翻书，under someone’s thumb 受某人控制，a rule of thumb 经验性准则。",
+    "usage": "thumbs up；thumb through；a rule of thumb。",
+    "contrast": "thumb 的 th 读 /θ/，b 不发音；rule of thumb 是大致经验准则，不自动等于精密、无例外的规则。",
+    "examples": [
+      [
+        "She gave us a thumbs up.",
+        "她向我们竖起拇指表示赞成。"
+      ],
+      [
+        "He thumbed through the magazine while waiting.",
+        "等候时，他快速翻了翻杂志。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thumb#English"
+    ]
+  },
+  {
+    "word": "thimble",
+    "ipa": "/ˈθɪmbəl/",
+    "meaning": "顶针、缝纫指套",
+    "sense": "缝衣时手指顶住针尾，把针推过布，需要一个小硬套保护、受力，这个套就是 thimble。它的名字确实与拇指词族有关。",
+    "split": "承古英语 þȳmel，联系 þūma 拇指 + 旧工具名后缀 -el；经中古英语 thimel 等到 thimble，b 后来进入拼写。与 thumb 的元音、b 发音都不同。",
+    "history": [
+      [
+        "古英语 þūma → 中古英语 thome、thombe → thumb",
+        "拇指；更远常联系粗壮、膨起"
+      ],
+      [
+        "旧工具名 þȳmel → thimble",
+        "拇指词族 + 工具后缀；后有元音变化及 b 拼写"
+      ]
+    ],
+    "explanation": "a sewing thimble 缝纫顶针，a metal thimble 金属顶针；现代实际戴在哪根手指取决于使用习惯，不受旧名字限制。",
+    "usage": "a sewing thimble；a metal thimble。",
+    "contrast": "thumb /θʌm/ 的 b 不发音，thimble /ˈθɪmbəl/ 的 b 发音；旧工具后缀不能一概翻成小。",
+    "examples": [
+      [
+        "She wore a thimble while sewing the thick fabric.",
+        "缝厚布料时，她戴着顶针。"
+      ],
+      [
+        "An old silver thimble lay in the sewing box.",
+        "针线盒里放着一枚旧银顶针。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thimble#English",
+      "https://www.etymonline.com/word/thimble"
+    ]
+  },
+  {
+    "word": "diary",
+    "ipa": "英 /ˈdaɪəri/；美 /ˈdaɪəri/",
+    "meaning": "日记；日记本、日程本",
+    "sense": "一天一天写下经历，是 diary；把未来哪天约了谁记进去，也可以 diary。一个记录过去，一个安排日程。",
+    "split": "借拉丁 diarium，底层 diarius 每日的、dies 日；旧词有每日供给、后来每日记录的意义，英语再用来称相应本册。",
+    "history": [
+      [
+        "拉丁 dies 日 → diarius 每日的 → diarium",
+        "每日供给，后也用于每日记录"
+      ],
+      [
+        "英语 diary",
+        "个人每日记录；再指有日期的记事本、日程本"
+      ]
+    ],
+    "explanation": "keep a diary 写日记，a diary entry 一则日记，check one’s diary 查看日程本，put a meeting in the diary 把会议记入日程。",
+    "usage": "keep a diary；a diary entry；check one’s diary。",
+    "contrast": "diary 与 dairy 乳品只换了字母顺序，词源、读音却不同；日记、日程义由上下文判断。",
+    "examples": [
+      [
+        "She has kept a diary since she was a teenager.",
+        "她从十几岁起就一直写日记。"
+      ],
+      [
+        "Let me check my diary before choosing a date.",
+        "定日期前，让我查一下日程本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diary#English",
+      "https://www.etymonline.com/word/diary"
+    ]
+  },
+  {
+    "word": "diarist",
+    "ipa": "/ˈdaɪərɪst/",
+    "meaning": "日记作者、写日记的人",
+    "sense": "不是写任何文章都叫 diarist，而是以写日记这一种记录方式来称人。历史上著名日记作者尤其常被这样介绍。",
+    "split": "diary 去末尾 y 加 -ist，形成从事相应活动的人名；真正拼成 diarist，不保留完整 diary 再叠加。",
+    "history": [
+      [
+        "拉丁 dies 日 → diarius 每日的 → diarium",
+        "每日供给，后也用于每日记录"
+      ],
+      [
+        "英语 diary",
+        "个人每日记录；再指有日期的记事本、日程本"
+      ],
+      [
+        "diary → diar- + -ist → diarist",
+        "写日记的人"
+      ]
+    ],
+    "explanation": "a famous diarist 著名日记作者，a wartime diarist 战时日记作者，the diarist’s observations 日记作者的观察。",
+    "usage": "a famous diarist；a wartime diarist。",
+    "contrast": "diarist 不表示每天从不间断写作的资格证明；它主要按日记这一文体、记录习惯命名。",
+    "examples": [
+      [
+        "The historian quoted a diarist who lived in the city.",
+        "历史学家引用了一位住在城里的日记作者的记录。"
+      ],
+      [
+        "As a diarist, she paid close attention to everyday details.",
+        "作为日记作者，她很留心日常细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diarist#English"
+    ]
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "word": "shade",
+    "ipa": "/ʃeɪd/",
+    "meaning": "阴凉、阴影处；遮光物；色调、细微差别；遮蔽、涂阴影",
+    "sense": "树挡住太阳，下面就是 shade；颜色因为明暗、深浅变化出现不同 shades。shade an area 也可说给图画局部涂阴影。",
+    "split": "承接古英语 sceadu 等形式，经中古英语 shade、schade。与 shadow 有共同历史，后来在遮蔽空间、投影轮廓等常用表达中分工。",
+    "history": [
+      [
+        "古英语 sceadu 等 → 中古英语 shade／schade",
+        "光被挡后的阴影、遮蔽处"
+      ],
+      [
+        "颜色和细微程度的扩展",
+        "颜色深浅、不同色调；微妙区别"
+      ]
+    ],
+    "explanation": "sit in the shade 坐在阴凉处，a shade of blue 一种蓝色色调，shades of meaning 细微词义差别，shade your eyes 遮眼挡光。throw shade 是含讥讽、贬低的口语表达。",
+    "usage": "in the shade；a shade of；shades of meaning；shade your eyes。",
+    "contrast": "shade 常看被遮蔽的空间、阴凉，shadow 常看物体投下的具体暗形。两者有关联但搭配不同；sunglasses 的口语 shades 又是复数固定用法。",
+    "examples": [
+      [
+        "We sat in the shade of a large tree.",
+        "我们坐在大树的树荫下。"
+      ],
+      [
+        "The walls were painted in different shades of blue.",
+        "墙被涂成不同深浅的蓝色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shade#English"
+    ]
+  },
+  {
+    "word": "shady",
+    "ipa": "/ˈʃeɪdi/",
+    "meaning": "阴凉、多荫的；可疑、不正当的",
+    "sense": "小路有树遮光，是 shady；生意像藏在暗处、不让人看清，又可以说 shady。后一义评价透明、可信程度。",
+    "split": "shade + -y，去末尾 e。由阴影、遮蔽性质扩到人物、交易等可疑的比喻。",
+    "history": [
+      [
+        "古英语 sceadu 等 → 中古英语 shade／schade",
+        "光被挡后的阴影、遮蔽处"
+      ],
+      [
+        "shade + -y → shady",
+        "有荫、阴凉 → 不光明、可疑的评价"
+      ]
+    ],
+    "explanation": "a shady path 树荫小路，a shady corner 阴凉角落，a shady deal 可疑交易，a shady character 可疑人物。",
+    "usage": "a shady path；a shady corner；a shady deal。",
+    "contrast": "shady 形容地点常是舒服的阴凉，形容交易常是负面怀疑。一个人坐在树荫里不等于行为可疑。",
+    "examples": [
+      [
+        "The garden has a cool, shady corner.",
+        "花园有个凉爽的树荫角落。"
+      ],
+      [
+        "The detective became suspicious of the shady deal.",
+        "侦探对那笔可疑交易起了疑心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shady#English"
+    ]
+  },
+  {
+    "word": "shader",
+    "ipa": "英 /ˈʃeɪdə/；美 /ˈʃeɪdər/",
+    "meaning": "着色器；进行遮蔽、着色的人或东西",
+    "sense": "图形处理中，shader 像一套小计算规则，参与算出颜色、光照效果，也可处理位置等。它的工作范围比普通涂阴影更宽。",
+    "split": "shade + -er，去末尾 e。由遮蔽、着色的执行者、器具名，形成现代图形技术里的程序名称。",
+    "history": [
+      [
+        "古英语 sceadu 等 → 中古英语 shade／schade",
+        "光被挡后的阴影、遮蔽处"
+      ],
+      [
+        "颜色和细微程度的扩展",
+        "颜色深浅、不同色调；微妙区别"
+      ],
+      [
+        "shade + -er → shader",
+        "着色执行者；图形处理中的程序类别"
+      ]
+    ],
+    "explanation": "a pixel shader 像素着色器，a vertex shader 顶点着色器，a shader effect 着色器效果。不同类型在不同阶段处理数据，不只给表面随手盖一层颜色。",
+    "usage": "a pixel shader；a vertex shader；a shader effect。",
+    "contrast": "shader 是程序、计算阶段相关名称，shading 是着色等处理过程。纹理 texture、材质 material 与 shader 有联系，但不是完全同一对象。",
+    "examples": [
+      [
+        "The shader makes the surface look like polished metal.",
+        "着色器让表面看起来像抛光金属。"
+      ],
+      [
+        "The lesson compares a vertex shader with a pixel shader.",
+        "这课比较顶点着色器与像素着色器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shader#English",
+      "https://learn.microsoft.com/en-us/visualstudio/designers/working-with-shaders?view=visualstudio"
+    ]
+  },
+  {
+    "word": "nightshade",
+    "ipa": "/ˈnaɪtʃeɪd/",
+    "meaning": "龙葵、颠茄等植物俗名；茄科植物〔宽泛用法〕",
+    "sense": "它是一个古老植物名称，后半看得到 shade，命名缘由却没有完全确定。不同完整名称所指不同：black nightshade 常是龙葵，deadly nightshade 是颠茄。",
+    "split": "古英语 nihtscada，经中古英语相关形式；对应 night + shade。或许联系深色果实等，但不能把这种猜测说成唯一确定历史。",
+    "history": [
+      [
+        "古英语 sceadu 等 → 中古英语 shade／schade",
+        "光被挡后的阴影、遮蔽处"
+      ],
+      [
+        "古英语 nihtscada → nightshade",
+        "夜与阴影相关组合的固定植物名"
+      ],
+      [
+        "现代不同范围",
+        "具体植物俗名；较宽时说茄科植物"
+      ]
+    ],
+    "explanation": "black nightshade 龙葵，deadly nightshade 颠茄，the nightshade family 茄科。宽泛分类语境还包括番茄、马铃薯等不同成员。",
+    "usage": "black nightshade；deadly nightshade；the nightshade family。",
+    "contrast": "nightshade 不只指同一个物种，也不是夜里一块树荫。名称、分类相近，不代表所有植物的成分、用途相同。",
+    "examples": [
+      [
+        "The botanist identified the plant as black nightshade.",
+        "植物学家认出那株植物是龙葵。"
+      ],
+      [
+        "The chapter groups tomatoes and potatoes in the nightshade family.",
+        "这一章把番茄和马铃薯归入茄科。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightshade#English",
+      "https://www.etymonline.com/word/nightshade"
+    ]
+  },
+  {
+    "word": "loop",
+    "ipa": "/luːp/",
+    "meaning": "环、圈、套；循环；使成圈、循环播放",
+    "sense": "一根绳弯回来形成圈，是 loop；声音播完回到开头再播，程序做完一轮再回起点，也借同样的返回路线。",
+    "split": "中古英语已有 loupe 等圈、套形式。远源有凯尔特语弯曲、古诺尔斯语相关形式等分析，不能把某一条猜定为唯一来历。",
+    "history": [
+      [
+        "中古英语 loupe、loop 等",
+        "绳、布等弯回形成的圈、套"
+      ],
+      [
+        "更早来源未定",
+        "有凯尔特语弯曲与古诺尔斯语奔跑、活结相关分析"
+      ],
+      [
+        "现代沿圈返回的扩展",
+        "路线绕回；音乐、程序循环；成圈器具、动物形态名称"
+      ]
+    ],
+    "explanation": "a loop of string 绳圈，a feedback loop 反馈回路，play on a loop 循环播放，keep someone in the loop 让某人及时知情。动词 loop 可绕圈、循环处理。",
+    "usage": "a loop of string；a feedback loop；on a loop；in the loop。",
+    "contrast": "loop 看路径回到前面并可重复，circle 更直接说圆形。程序 loop 也不一定永远不停止，可以有结束条件。",
+    "examples": [
+      [
+        "She made a loop in the rope.",
+        "她把绳子绕成一个圈。"
+      ],
+      [
+        "The short video played on a loop.",
+        "短视频循环播放。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loop#English",
+      "https://www.etymonline.com/word/loop"
+    ]
+  },
+  {
+    "word": "loopy",
+    "ipa": "/ˈluːpi/",
+    "meaning": "有环、圈状的；古怪、糊涂、晕乎的〔口语〕",
+    "sense": "loopy handwriting 是笔画绕圈的字；口语 I feel loopy 则可能说脑子晕乎、状态不清楚。不同用法不必都当真实转圈。",
+    "split": "loop + -y。有圈的字面义和古怪、糊涂等俚语用法各自固定；具体抽象路线不宜编成所有人都在脑内打圈的事实。",
+    "history": [
+      [
+        "中古英语 loupe、loop 等",
+        "绳、布等弯回形成的圈、套"
+      ],
+      [
+        "loop + -y → loopy",
+        "圈状性质；口语中古怪、糊涂的评价"
+      ]
+    ],
+    "explanation": "loopy handwriting 绕圈的字迹，a loopy idea 古怪想法，feel loopy 觉得晕乎、糊涂。对人的评价可能带戏谑或贬义。",
+    "usage": "loopy handwriting；a loopy idea；feel loopy。",
+    "contrast": "loopy 不等于 looping：looping animation 是循环动画，loopy animation 可能被理解为古怪、圈状的动画风格。",
+    "examples": [
+      [
+        "Her signature has large, loopy letters.",
+        "她签名的字母很大，绕着不少圈。"
+      ],
+      [
+        "After the sleepless night, he felt a little loopy.",
+        "一夜没睡后，他有点晕乎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loopy#English"
+    ]
+  },
+  {
+    "word": "looper",
+    "ipa": "英 /ˈluːpə/；美 /ˈluːpər/",
+    "meaning": "循环录放装置、程序；成圈器具；某些拱身爬行的蛾类幼虫",
+    "sense": "音乐人录一小段，让它不断循环，再叠新声音，常靠 looper。自然界叫 looper 的幼虫，则因拱起身子、像套成圈那样爬而得名。",
+    "split": "loop + -er，可命名形成、执行循环的器具、程序，也可按成圈动作给动物命名。-er 不局限于人。",
+    "history": [
+      [
+        "中古英语 loupe、loop 等",
+        "绳、布等弯回形成的圈、套"
+      ],
+      [
+        "更早来源未定",
+        "有凯尔特语弯曲与古诺尔斯语奔跑、活结相关分析"
+      ],
+      [
+        "现代沿圈返回的扩展",
+        "路线绕回；音乐、程序循环；成圈器具、动物形态名称"
+      ],
+      [
+        "loop + -er → looper",
+        "成圈、循环的器具或按类似动作命名的动物"
+      ]
+    ],
+    "explanation": "a loop pedal／looper 循环效果器，an audio looper 音频循环录放工具，a looper caterpillar 拱身爬行的蛾类幼虫。",
+    "usage": "an audio looper；a looper pedal；a looper caterpillar。",
+    "contrast": "looper 的音乐设备与幼虫共享成圈、重复等命名联系，不是同一类物件。loop 是环或循环，looper 是相应执行者、器具等。",
+    "examples": [
+      [
+        "The guitarist used a looper to build several layers of sound.",
+        "吉他手用循环效果器叠出几层声音。"
+      ],
+      [
+        "The looper caterpillar arched its body as it moved.",
+        "那条蛾类幼虫前进时拱起身体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/looper#English"
+    ]
+  }
+]

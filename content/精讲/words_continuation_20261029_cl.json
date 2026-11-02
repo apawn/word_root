@@ -1,0 +1,908 @@
+[
+  {
+    "word": "board",
+    "ipa": "英 /bɔːd/；美 /bɔːrd/",
+    "meaning": "板；董事会、委员会；伙食；登上交通工具",
+    "sense": "木板可以做成桌子：桌上摆饭，就指伙食；人围桌议事，又能指委员会。船侧、登乘用法另看历史交叠的一支。",
+    "split": "接古英语 bord。木板、桌子一路扩展出伙食和议事机构；船侧义也有古老 bord 形式，其最远是否完全同源有分歧，早期就已交叠，不把所有义项编成唯一现代路线。",
+    "history": [
+      [
+        "古英语 bord → 中古英语 bord、boord",
+        "木板、平面、桌子；船侧的历史形式也交叠"
+      ],
+      [
+        "英语 board",
+        "板；由桌子引申伙食、议事团体；船侧相关的登乘用法"
+      ]
+    ],
+    "explanation": "a wooden board 木板，a board of directors 董事会；room and board 食宿；board a train 上火车，board up a window 用板封窗。",
+    "usage": "a notice board；on the board；room and board；board the plane。",
+    "contrast": "board /bɔːd/ 与 bored 同音而不同词。董事会是人组成的机构，不是会议桌本身；登机用 board the plane，无需再加 on。",
+    "examples": [
+      [
+        "She wrote the answer on the board.",
+        "她把答案写在板上。"
+      ],
+      [
+        "The price includes room and board.",
+        "价格包含食宿。"
+      ],
+      [
+        "Passengers may now board the train.",
+        "乘客现在可以上车了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/board#English",
+      "https://www.etymonline.com/word/board"
+    ]
+  },
+  {
+    "word": "boarder",
+    "ipa": "英 /ˈbɔːdə/；美 /ˈbɔːrdər/",
+    "meaning": "寄宿者；寄宿生；乘某类板具的人",
+    "sense": "在别人家或学校住下，并由那里安排食宿的人；关键不是他站在一块木板旁。",
+    "split": "board 的食宿、寄宿义 + -er 人。现代板类运动语境中也可从 board 板具得到滑板、滑雪板使用者等意思，具体看场景。",
+    "history": [
+      [
+        "古英语 bord → 中古英语 bord、boord",
+        "木板、平面、桌子；船侧的历史形式也交叠"
+      ],
+      [
+        "英语 board",
+        "板；由桌子引申伙食、议事团体；船侧相关的登乘用法"
+      ],
+      [
+        "board + -er → boarder",
+        "获得食宿、寄宿的人；另有使用板具者"
+      ]
+    ],
+    "explanation": "a school boarder 寄宿生；take in boarders 收寄宿者。学校语境 day pupils 或 day students 则每天来上课，不在那里住宿。",
+    "usage": "a weekly boarder；take in boarders；boarders and day pupils。",
+    "contrast": "boarder 寄宿者，border 边界。读音相同或很近，但不能把 a school boarder 写成学校的边境。",
+    "examples": [
+      [
+        "The school has both boarders and day pupils.",
+        "学校既有寄宿生，也有走读生。"
+      ],
+      [
+        "They took in a boarder to help cover household costs.",
+        "他们接收了一名寄宿者，帮助分担家庭开支。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boarder#English"
+    ]
+  },
+  {
+    "word": "aboard",
+    "ipa": "英 /əˈbɔːd/；美 /əˈbɔːrd/",
+    "meaning": "在船、飞机等上；登上",
+    "sense": "人已经进入或正在进入这趟交通工具的内部、载客空间。",
+    "split": "中古英语 abord，由 a- 在……上 + bord 船侧相关形式构成。不是 abroad 在国外少一个 r 仍然同义。",
+    "history": [
+      [
+        "古英语 bord → 中古英语 bord、boord",
+        "木板、平面、桌子；船侧的历史形式也交叠"
+      ],
+      [
+        "a- + bord → aboard",
+        "在船上 → 在船、飞机等上；登乘"
+      ]
+    ],
+    "explanation": "go aboard 上船，aboard the train 在列车上；Welcome aboard 欢迎加入，也能用于新成员加入团队。",
+    "usage": "go aboard；climb aboard；aboard the plane；welcome aboard。",
+    "contrast": "aboard 在交通工具上；abroad 在国外。board 作动词可直接说 board the plane，aboard 可说 go aboard the plane。",
+    "examples": [
+      [
+        "All passengers are now aboard.",
+        "所有乘客现在都已登乘。"
+      ],
+      [
+        "Welcome aboard! We’re glad you’ve joined the team.",
+        "欢迎加入！很高兴你来到团队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aboard#English"
+    ]
+  },
+  {
+    "word": "onboard",
+    "ipa": "英 /ˌɒnˈbɔːd/；美 /ˈɑːnbɔːrd/",
+    "meaning": "机上、车载的；为新员工或用户安排入门",
+    "sense": "设备随交通工具一起带着运行；工作或产品语境里，又是把新人接进来、带上手。",
+    "split": "on + board 由 on board 在船上等组合发展为单词用法。动词常说把新人或客户引入组织、系统，沿用登船加入的画面。",
+    "history": [
+      [
+        "古英语 bord → 中古英语 bord、boord",
+        "木板、平面、桌子；船侧的历史形式也交叠"
+      ],
+      [
+        "英语 board",
+        "板；由桌子引申伙食、议事团体；船侧相关的登乘用法"
+      ],
+      [
+        "on board → onboard",
+        "在船、机上 → 随载的；引导新人加入"
+      ]
+    ],
+    "explanation": "an onboard computer 车载或机载计算机；onboard new staff 帮新员工入职上手。形容词的重音会随口音、句子变化。",
+    "usage": "onboard equipment；an onboard computer；onboard new users。",
+    "contrast": "onboard 可作形容词或动词；on board 两词常作在船上、加入支持的短语。拼写习惯依用法和编辑规范有差异。",
+    "examples": [
+      [
+        "The vehicle’s onboard computer recorded the journey.",
+        "车辆的车载计算机记录了行程。"
+      ],
+      [
+        "The team created a guide to onboard new users.",
+        "团队做了一份指南，帮助新用户入门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/onboard#English"
+    ]
+  },
+  {
+    "word": "overboard",
+    "ipa": "英 /ˈəʊvəbɔːd/；美 /ˈoʊvərbɔːrd/",
+    "meaning": "越过船边、落入水中；做得过头",
+    "sense": "越过船的边缘掉到外面；引申就像越过合理界限，把一件事做过了。",
+    "split": "over 越过 + board 船侧，中古英语已有 overbord。go overboard 后来形成过头、过度投入的比喻。",
+    "history": [
+      [
+        "古英语 bord → 中古英语 bord、boord",
+        "木板、平面、桌子；船侧的历史形式也交叠"
+      ],
+      [
+        "over + bord → overboard",
+        "越过船侧 → 落水；比喻做过头"
+      ]
+    ],
+    "explanation": "fall overboard 从船上落水；go overboard with decorations 装饰做得太夸张。throw an idea overboard 也可比喻抛弃想法。",
+    "usage": "fall overboard；man overboard；go overboard；throw overboard。",
+    "contrast": "overboard 落到船外或做过头，aboard 在船上；go overboard 不必真的发生落水。",
+    "examples": [
+      [
+        "A bag fell overboard during the crossing.",
+        "渡海途中，一个包掉出了船边。"
+      ],
+      [
+        "We went overboard with the decorations this year.",
+        "今年我们把装饰弄得太夸张了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overboard#English"
+    ]
+  },
+  {
+    "word": "starboard",
+    "ipa": "英 /ˈstɑːbəd/；美 /ˈstɑːrbərd/",
+    "meaning": "右舷；船或飞机的右侧",
+    "sense": "把自己朝向船头，右手这一侧就是 starboard；转身后称谓也不会跟着换边。",
+    "split": "古英语 stēorbord，stēor 掌舵 + bord 船侧。早期船的操舵桨常设在右侧，留下掌舵侧的名称；不是 star 星星 + board 的航海故事。",
+    "history": [
+      [
+        "古英语 stēor 掌舵；bord 船侧",
+        "早期右侧操舵的命名背景"
+      ],
+      [
+        "stēorbord → starboard",
+        "固定称呼右舷"
+      ]
+    ],
+    "explanation": "the starboard side 右舷，to starboard 向右舷。这里左右以朝船头为准，不以你此刻脸朝哪里为准。",
+    "usage": "the starboard side；to starboard；a starboard cabin。",
+    "contrast": "starboard 右舷，port 左舷；不能因为人在甲板上转身，就把船的左右称谓调换。",
+    "examples": [
+      [
+        "Our cabin was on the starboard side.",
+        "我们的舱房在右舷。"
+      ],
+      [
+        "The captain pointed to a lighthouse off the starboard bow.",
+        "船长指向右舷船头方向的一座灯塔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starboard#English",
+      "https://oceanservice.noaa.gov/facts/port-starboard.html"
+    ]
+  },
+  {
+    "word": "seaboard",
+    "ipa": "英 /ˈsiːbɔːd/；美 /ˈsiːbɔːrd/",
+    "meaning": "沿海地区；海岸线一带",
+    "sense": "陆地靠着海的那一条边，以及沿着这条边展开的地区。",
+    "split": "sea 海 + board 边、侧的旧义，形成面海边缘、沿海地区的名词。不是海上漂着的一块木板。",
+    "history": [
+      [
+        "sea 海；board 边、侧",
+        "并列构词部分"
+      ],
+      [
+        "seaboard",
+        "陆地面海的一边及沿海地区"
+      ]
+    ],
+    "explanation": "the eastern seaboard 东部沿海地区，the Atlantic seaboard 大西洋沿岸。常描述较大范围海岸区域。",
+    "usage": "the eastern seaboard；the Atlantic seaboard；cities along the seaboard。",
+    "contrast": "seaboard 陆地沿海区域，seabed 海底；seaboard 也不等于 onboard 在船上。",
+    "examples": [
+      [
+        "The storm moved along the eastern seaboard.",
+        "风暴沿东部海岸地区移动。"
+      ],
+      [
+        "Several major ports lie on the country’s western seaboard.",
+        "该国西部沿海有几个主要港口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaboard#English"
+    ]
+  },
+  {
+    "word": "keyboard",
+    "ipa": "英 /ˈkiːbɔːd/；美 /ˈkiːbɔːrd/",
+    "meaning": "键盘；键盘乐器",
+    "sense": "一整排或几排按键装在同一个面板上，按它们来打字、输入或演奏。",
+    "split": "key 键 + board 板、面板。用于乐器按键系统，后来也用于打字机、计算机等输入设备；不是开锁钥匙摆放板。",
+    "history": [
+      [
+        "key 按键；board 面板",
+        "并列构词部分"
+      ],
+      [
+        "keyboard",
+        "成组按键构成的键盘"
+      ]
+    ],
+    "explanation": "a computer keyboard 计算机键盘，a piano keyboard 钢琴键盘；play keyboards 常说演奏电子键盘等键盘乐器。",
+    "usage": "type on a keyboard；a keyboard shortcut；a piano keyboard。",
+    "contrast": "keyboard 是输入或演奏的一组键，keypad 常指较小的按键区，如数字键区；实际设备名称依设计。",
+    "examples": [
+      [
+        "She typed the address on the keyboard.",
+        "她在键盘上输入了地址。"
+      ],
+      [
+        "He plays keyboards in a local band.",
+        "他在当地一支乐队里弹键盘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/keyboard#English"
+    ]
+  },
+  {
+    "word": "billboard",
+    "ipa": "英 /ˈbɪlbɔːd/；美 /ˈbɪlbɔːrd/",
+    "meaning": "大型广告牌",
+    "sense": "把宣传信息放大到路边远远都能看到，展示它的大牌子就是 billboard。",
+    "split": "bill 布告、广告单 + board 牌板。bill 在这里不是账单或鸟嘴；现代广告牌也可以是电子屏。",
+    "history": [
+      [
+        "bill 布告、广告；board 牌板",
+        "并列构词部分"
+      ],
+      [
+        "billboard",
+        "展示大型广告的牌面"
+      ]
+    ],
+    "explanation": "a roadside billboard 路边广告牌，a digital billboard 数字广告屏。作为媒体、榜单等专名时，另看专名背景。",
+    "usage": "a roadside billboard；a digital billboard；an advertisement on a billboard。",
+    "contrast": "billboard 大型广告展示牌，notice board 一般布告栏；小纸条不因上面有广告就成为 billboard。",
+    "examples": [
+      [
+        "A huge billboard advertised the new film.",
+        "一块巨大的广告牌宣传着新电影。"
+      ],
+      [
+        "The digital billboard changed its message every few seconds.",
+        "电子广告牌每隔几秒就切换一次内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/billboard#English"
+    ]
+  },
+  {
+    "word": "cardboard",
+    "ipa": "英 /ˈkɑːdbɔːd/；美 /ˈkɑːrdbɔːrd/",
+    "meaning": "硬纸板；纸板制的；单薄呆板的〔比喻〕",
+    "sense": "比普通纸厚而挺，可以做盒子；形容人物时，又像纸板剪出来的人，缺少真实厚度。",
+    "split": "card 厚纸、卡纸 + board 板，复合为较硬挺纸质材料。board 不一定真的由木头做。",
+    "history": [
+      [
+        "card 厚纸；board 板",
+        "并列构词部分"
+      ],
+      [
+        "cardboard",
+        "硬挺的纸板；比喻单薄不立体"
+      ]
+    ],
+    "explanation": "a cardboard box 纸箱，corrugated cardboard 瓦楞纸板；cardboard characters 缺乏真实感、套路化的人物。",
+    "usage": "a cardboard box；a piece of cardboard；cardboard characters。",
+    "contrast": "cardboard 通常是材料不可数名词，说一片用 a piece of cardboard；paperboard 与它有范围交叠，工业分类依具体材料标准。",
+    "examples": [
+      [
+        "We packed the books in cardboard boxes.",
+        "我们把书装进纸箱。"
+      ],
+      [
+        "The plot was exciting, but the characters felt like cardboard.",
+        "情节很刺激，但人物显得扁平生硬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cardboard#English"
+    ]
+  },
+  {
+    "word": "dashboard",
+    "ipa": "英 /ˈdæʃbɔːd/；美 /ˈdæʃbɔːrd/",
+    "meaning": "仪表板；集中显示信息的看板",
+    "sense": "开车时眼前一排速度、油量等信息；电脑里把关键指标集中到一页，也借这个名字。",
+    "split": "dash 在旧义里有飞溅 + board 板，原指马车前方挡泥的板，后来名称用于机动车前部面板，再用于信息显示页面。不是跑得快所以叫 dash。",
+    "history": [
+      [
+        "dash 飞溅；board 板 → dashboard",
+        "马车前部挡泥板"
+      ],
+      [
+        "车辆 dashboard → 数字 dashboard",
+        "仪表板 → 集中显示关键资料的页面"
+      ]
+    ],
+    "explanation": "the car dashboard 汽车仪表板，a sales dashboard 销售数据看板；数字页面不必真的长得像汽车仪表。",
+    "usage": "a dashboard light；the car dashboard；an analytics dashboard。",
+    "contrast": "dashboard 是集中查看信息、操作的位置；database 是储存、组织数据的系统，二者不是同一层东西。",
+    "examples": [
+      [
+        "A warning light appeared on the dashboard.",
+        "仪表板上亮起了一盏警示灯。"
+      ],
+      [
+        "The dashboard shows orders and deliveries in one place.",
+        "看板把订单和配送情况集中显示在同一处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dashboard#English",
+      "https://www.etymonline.com/word/dashboard"
+    ]
+  },
+  {
+    "word": "scoreboard",
+    "ipa": "英 /ˈskɔːbɔːd/；美 /ˈskɔːrbɔːrd/",
+    "meaning": "记分牌",
+    "sense": "双方现在几比几，不用问裁判，抬头看那块显示分数的牌。",
+    "split": "score 比分、得分 + board 显示板。现代可以是电子显示屏，不必是粉笔写在木板上。",
+    "history": [
+      [
+        "score 比分；board 显示牌",
+        "并列构词部分"
+      ],
+      [
+        "scoreboard",
+        "集中显示比分的牌"
+      ]
+    ],
+    "explanation": "an electronic scoreboard 电子记分牌，the stadium scoreboard 体育场记分牌；可以显示时间、队名等，不只一个数字。",
+    "usage": "check the scoreboard；an electronic scoreboard；the stadium scoreboard。",
+    "contrast": "scoreboard 是展示比赛比分的牌；scorecard 记分卡或评价记录，leaderboard 常显示多名参赛者的排名。",
+    "examples": [
+      [
+        "The scoreboard showed a two–two draw.",
+        "记分牌显示双方二比二打平。"
+      ],
+      [
+        "Fans cheered as the final score appeared on the scoreboard.",
+        "最终比分出现在记分牌上时，球迷欢呼起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scoreboard#English"
+    ]
+  },
+  {
+    "word": "leaderboard",
+    "ipa": "英 /ˈliːdəbɔːd/；美 /ˈliːdərbɔːrd/",
+    "meaning": "排行榜；比赛排名榜",
+    "sense": "把参加者按成绩排好，谁领先、谁正在追赶，一眼就能看出来。",
+    "split": "leader 领先者 + board 显示板；从比赛成绩展示扩展到游戏、平台等排名页面。榜上不一定只显示第一名。",
+    "history": [
+      [
+        "leader 领先者；board 展示板",
+        "并列构词部分"
+      ],
+      [
+        "leaderboard",
+        "按成绩排列的榜单"
+      ]
+    ],
+    "explanation": "top the leaderboard 登上榜首，climb the leaderboard 排名上升；可以是总榜，也可以是阶段榜。",
+    "usage": "top the leaderboard；climb the leaderboard；a live leaderboard。",
+    "contrast": "leaderboard 看排名，scoreboard 看一场比赛的比分；具体产品也可能把两个功能放在同一页面。",
+    "examples": [
+      [
+        "She climbed to second place on the leaderboard.",
+        "她在排行榜上升到了第二名。"
+      ],
+      [
+        "The game updates its leaderboard after every round.",
+        "游戏每轮结束后都会更新排名榜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leaderboard#English"
+    ]
+  },
+  {
+    "word": "clipboard",
+    "ipa": "英 /ˈklɪpbɔːd/；美 /ˈklɪpbɔːrd/",
+    "meaning": "写字夹板；计算机剪贴板",
+    "sense": "现实中是把纸夹住方便站着写的硬板；电脑里借指临时放复制、剪切内容的地方。",
+    "split": "clip 夹子、夹住 + board 板，先形成夹纸写字板的名称；计算机再借这个暂存、转移内容的画面。",
+    "history": [
+      [
+        "clip 夹住；board 板",
+        "并列构词部分"
+      ],
+      [
+        "clipboard",
+        "夹纸书写板 → 计算机临时复制、剪切内容区"
+      ]
+    ],
+    "explanation": "write on a clipboard 在夹板上的纸写字，copy to the clipboard 复制到剪贴板；系统可保存几项、保留多久，取决于具体功能。",
+    "usage": "a clipboard and pen；copy to the clipboard；paste from the clipboard。",
+    "contrast": "clipboard 是剪贴板或写字夹板，clip 是夹子、片段等；剪贴板不等于保存文件的永久文件夹。",
+    "examples": [
+      [
+        "The nurse carried a clipboard and a pen.",
+        "护士拿着写字夹板和笔。"
+      ],
+      [
+        "Copy the address to the clipboard, then paste it into the form.",
+        "把地址复制到剪贴板，再粘贴进表单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clipboard#English"
+    ]
+  },
+  {
+    "word": "switchboard",
+    "ipa": "英 /ˈswɪtʃbɔːd/；美 /ˈswɪtʃbɔːrd/",
+    "meaning": "电话总机；配电盘",
+    "sense": "许多线路汇到一处，从这里决定接往哪里；电话里接通人，电力里控制、分配线路。",
+    "split": "switch 开关、切换 + board 面板。电话总机和电气开关盘是不同设备，沿用集中接通、切换线路的构词画面。",
+    "history": [
+      [
+        "switch 开关、切换；board 面板",
+        "并列构词部分"
+      ],
+      [
+        "switchboard",
+        "集中接通、切换线路的设备"
+      ]
+    ],
+    "explanation": "a switchboard operator 总机接线员，the hotel switchboard 酒店总机；electrical switchboard 是电气设备，不是接线员岗位。",
+    "usage": "a switchboard operator；the main switchboard；an electrical switchboard。",
+    "contrast": "switchboard 与 keyboard 都有 board，但前者集中接通、控制线路，后者由一组输入或演奏按键组成。",
+    "examples": [
+      [
+        "The switchboard operator put me through to the accounts department.",
+        "总机接线员把电话转到了财务部。"
+      ],
+      [
+        "The new building has a modern electrical switchboard.",
+        "新楼配备了现代化配电盘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switchboard#English"
+    ]
+  },
+  {
+    "word": "skateboard",
+    "ipa": "英 /ˈskeɪtbɔːd/；美 /ˈskeɪtbɔːrd/",
+    "meaning": "滑板；玩滑板",
+    "sense": "脚踩一块装了轮子的板，在地面滑行；也用同一个词说玩这种板。",
+    "split": "skate 滑行、滑轮运动 + board 板，复合成运动器材名，再作动词。不是所有脚下的板都叫 skateboard。",
+    "history": [
+      [
+        "skate 滑行；board 板",
+        "并列构词部分"
+      ],
+      [
+        "skateboard",
+        "带轮滑板及相应运动"
+      ]
+    ],
+    "explanation": "ride a skateboard 骑滑板，learn to skateboard 学玩滑板；skatepark 是专为这类运动设计的场地。",
+    "usage": "ride a skateboard；a skateboard deck；learn to skateboard。",
+    "contrast": "skateboard 一般是轮子在地面滑行的板；snowboard 在雪上，surfboard 在水上。",
+    "examples": [
+      [
+        "He carried his skateboard under one arm.",
+        "他把滑板夹在一只胳膊下。"
+      ],
+      [
+        "She learned to skateboard during the summer.",
+        "她在夏天学会了玩滑板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skateboard#English"
+    ]
+  },
+  {
+    "word": "snowboard",
+    "ipa": "英 /ˈsnəʊbɔːd/；美 /ˈsnoʊbɔːrd/",
+    "meaning": "单板滑雪板；进行单板滑雪",
+    "sense": "两脚固定在同一块较宽的板上，沿雪坡滑下去。",
+    "split": "snow 雪 + board 板，形成雪上运动器材名，也作动词。这里单板是与常见双板 skis 区分的器材形式。",
+    "history": [
+      [
+        "snow 雪；board 板",
+        "并列构词部分"
+      ],
+      [
+        "snowboard",
+        "单板滑雪板及相应运动"
+      ]
+    ],
+    "explanation": "rent a snowboard 租滑雪单板，learn to snowboard 学单板滑雪；snowboarding 是这项活动的常用名称。",
+    "usage": "a snowboard and boots；ride a snowboard；learn to snowboard。",
+    "contrast": "snowboard 一块板承载双脚；skis 通常是每只脚各有一块长板，不能都翻成没有区分的滑板。",
+    "examples": [
+      [
+        "She rented a snowboard for the weekend.",
+        "她为周末租了一块滑雪单板。"
+      ],
+      [
+        "He learned to snowboard at a small mountain resort.",
+        "他在一处小型山地度假区学会了单板滑雪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/snowboard#English"
+    ]
+  },
+  {
+    "word": "surfboard",
+    "ipa": "英 /ˈsɜːfbɔːd/；美 /ˈsɜːrfbɔːrd/",
+    "meaning": "冲浪板",
+    "sense": "人趴着划水，等浪起来后站上去，借海浪向前滑的那块板。",
+    "split": "surf 浪、冲浪 + board 板。名字说明用途，不代表板必须一直在海浪上，也不以木材作为必要条件。",
+    "history": [
+      [
+        "surf 冲浪；board 板",
+        "并列构词部分"
+      ],
+      [
+        "surfboard",
+        "供人在波浪中滑行的冲浪板"
+      ]
+    ],
+    "explanation": "carry a surfboard 拿着冲浪板，a surfboard leash 冲浪板脚绳；不同板型适合不同用途。",
+    "usage": "a surfboard under one arm；wax a surfboard；a surfboard leash。",
+    "contrast": "surfboard 在水上借浪滑行，skateboard 在地面靠轮子；两者形状相似也不能混称。",
+    "examples": [
+      [
+        "She carried her surfboard down to the beach.",
+        "她拿着冲浪板走到海滩。"
+      ],
+      [
+        "The shop repairs damaged surfboards.",
+        "这家店修理受损的冲浪板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surfboard#English"
+    ]
+  },
+  {
+    "word": "hoverboard",
+    "ipa": "英 /ˈhɒvəbɔːd/；美 /ˈhʌvərbɔːrd/",
+    "meaning": "悬浮滑板〔科幻〕；电动平衡滑板",
+    "sense": "名字让人想到板浮在空中；现实商品里却常指有轮子、靠电动平衡行驶的板。",
+    "split": "hover 悬停 + board 板，科幻想象中是悬浮滑板；名称后来也用于现实的双轮电动平衡器材。不能从名字推断现实产品真的离地。",
+    "history": [
+      [
+        "hover 悬停；board 板",
+        "并列构词部分"
+      ],
+      [
+        "hoverboard",
+        "想象中的悬浮板；现实也指带轮电动平衡滑板"
+      ]
+    ],
+    "explanation": "a self-balancing hoverboard 自平衡电动滑板；具体是否带轮、是否悬浮，看产品或故事语境。",
+    "usage": "ride a hoverboard；a self-balancing hoverboard；a fictional hoverboard。",
+    "contrast": "hoverboard 是固定器材名称；现实常用款有轮子，不是所有装电机的 skateboard 都用同一设计。",
+    "examples": [
+      [
+        "The film’s hoverboard floats above the ground.",
+        "电影中的悬浮滑板浮在地面上方。"
+      ],
+      [
+        "The shop sells hoverboards with two wheels.",
+        "店里卖带两个轮子的电动平衡滑板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hoverboard#English"
+    ]
+  },
+  {
+    "word": "springboard",
+    "ipa": "英 /ˈsprɪŋbɔːd/；美 /ˈsprɪŋbɔːrd/",
+    "meaning": "跳板；进一步发展的起点、助力",
+    "sense": "身体踩下去，板弹回来把你送高；机会也可以像这块板，把人送到下一步。",
+    "split": "spring 弹起、弹性作用 + board 板。实际跳板帮助起跳，后来比喻可借力走向更大目标的起点；spring 不是这里的春天。",
+    "history": [
+      [
+        "spring 弹起、弹性；board 板",
+        "并列构词部分"
+      ],
+      [
+        "springboard",
+        "助跳的板 → 发展、行动的助力起点"
+      ]
+    ],
+    "explanation": "a diving springboard 跳水跳板；a springboard for a career 事业发展的跳板，a springboard to success 通向成功的助力。",
+    "usage": "a diving springboard；a springboard for discussion；a springboard to a new career。",
+    "contrast": "springboard 帮你起跳的基础或机会，stepping stone 也能说迈向目标的中间一步；具体搭配按强调的画面选。",
+    "examples": [
+      [
+        "The diver stood at the end of the springboard.",
+        "跳水运动员站在跳板末端。"
+      ],
+      [
+        "The small exhibition became a springboard for her career.",
+        "这次小展览成了她事业发展的跳板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/springboard#English"
+    ]
+  },
+  {
+    "word": "chessboard",
+    "ipa": "英 /ˈtʃesbɔːd/；美 /ˈtʃesbɔːrd/",
+    "meaning": "国际象棋棋盘",
+    "sense": "把国际象棋的活动空间画成深浅相间的格子，棋子就在这些位置上走。",
+    "split": "chess 国际象棋 + board 棋盘、板。board 在棋类里已固定指对弈的盘面，不一定是厚木板。",
+    "history": [
+      [
+        "chess 国际象棋；board 棋盘",
+        "并列构词部分"
+      ],
+      [
+        "chessboard",
+        "国际象棋棋盘"
+      ]
+    ],
+    "explanation": "set up a chessboard 摆好棋盘、棋子，a chessboard pattern 棋盘式方格图案。国际象棋盘有八行八列格子。",
+    "usage": "a wooden chessboard；a chessboard pattern；pieces on the chessboard。",
+    "contrast": "chessboard 是棋盘，chess pieces 是棋子；board game 范围更宽，并非都属于国际象棋。",
+    "examples": [
+      [
+        "She arranged the pieces on the chessboard.",
+        "她在棋盘上摆好棋子。"
+      ],
+      [
+        "The floor had a black and white chessboard pattern.",
+        "地板是黑白棋盘格图案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chessboard#English"
+    ]
+  },
+  {
+    "word": "checkerboard",
+    "ipa": "英 /ˈtʃekəbɔːd/；美 /ˈtʃekərbɔːrd/",
+    "meaning": "西洋跳棋棋盘；深浅交替的方格图案",
+    "sense": "一格深、一格浅交替排开，既能用来下棋，也能把这种排列叫棋盘格。",
+    "split": "checker 西洋跳棋棋子、相关棋戏 + board 棋盘；英式常见对应词 draughtboard。图案义由棋盘外观引申，不是所有跳棋都长同一种样子。",
+    "history": [
+      [
+        "checker 西洋跳棋相关词；board 棋盘",
+        "并列构词部分"
+      ],
+      [
+        "checkerboard",
+        "西洋跳棋盘 → 交替方格图案"
+      ]
+    ],
+    "explanation": "a checkerboard pattern 棋盘格图案；美国英语的 checkers 是西洋跳棋名称。不要直接套成六角星形的中国跳棋盘。",
+    "usage": "a checkerboard pattern；a checkerboard floor；a wooden checkerboard。",
+    "contrast": "checkerboard 与 chessboard 外观可能相似，名称对应的棋戏不同；实际棋盘规格还要看所玩的版本。",
+    "examples": [
+      [
+        "The café has a checkerboard floor.",
+        "咖啡馆铺着棋盘格地板。"
+      ],
+      [
+        "He placed the checkerboard between the two chairs.",
+        "他把西洋跳棋盘放在两把椅子之间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checkerboard#English"
+    ]
+  },
+  {
+    "word": "shipboard",
+    "ipa": "英 /ˈʃɪpbɔːd/；美 /ˈʃɪpbɔːrd/",
+    "meaning": "船上的；船上生活的",
+    "sense": "把船当作生活、工作所在的环境，强调事情发生在船上。",
+    "split": "ship 船 + board 船侧、船上位置相关义，形成船上的修饰语；常见于 shipboard life 等组合。",
+    "history": [
+      [
+        "ship 船；board 船侧、船上相关义",
+        "并列构词部分"
+      ],
+      [
+        "shipboard",
+        "发生于船上的、船上生活的"
+      ]
+    ],
+    "explanation": "shipboard life 船上生活，shipboard equipment 船载设备。比一般 on a ship 更常作为名词前的紧凑修饰语。",
+    "usage": "shipboard life；shipboard equipment；shipboard routines。",
+    "contrast": "shipboard 形容船上的环境；aboard 更常直接表示人在船上或登上，不能在所有句法位置互换。",
+    "examples": [
+      [
+        "The diary describes everyday shipboard life.",
+        "日记描述了日常船上生活。"
+      ],
+      [
+        "The crew tested the shipboard equipment before departure.",
+        "船员出发前测试了船载设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shipboard#English"
+    ]
+  },
+  {
+    "word": "washboard",
+    "ipa": "英 /ˈwɒʃbɔːd/；美 /ˈwɑːʃbɔːrd/",
+    "meaning": "搓衣板；像搓衣板般的凸棱表面",
+    "sense": "衣服按在一道道凸棱上来回搓；这个起伏外形后来也被借去形容路面或腹肌。",
+    "split": "wash 洗 + board 板，先是洗衣工具名称；凹凸条纹又带来外形比喻，搓衣板也被用作节奏乐器。",
+    "history": [
+      [
+        "wash 洗；board 板",
+        "并列构词部分"
+      ],
+      [
+        "washboard",
+        "搓洗衣服的凸棱板 → 外形与乐器用法"
+      ]
+    ],
+    "explanation": "a wooden washboard 木制搓衣板；washboard abs 口语说线条明显的腹肌；a washboard road 指连续起伏颠簸的路面。",
+    "usage": "scrub on a washboard；washboard abs；a washboard road。",
+    "contrast": "washboard 是有凸棱的搓衣工具，不是洗衣机；washboard abs 是外形比喻，不是腹肌在洗衣服。",
+    "examples": [
+      [
+        "She scrubbed the shirt on an old washboard.",
+        "她在旧搓衣板上搓洗衬衫。"
+      ],
+      [
+        "The band used a washboard as a rhythm instrument.",
+        "乐队把搓衣板用作节奏乐器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/washboard#English"
+    ]
+  },
+  {
+    "word": "soundboard",
+    "ipa": "英 /ˈsaʊndbɔːd/；美 /ˈsaʊndbɔːrd/",
+    "meaning": "乐器共鸣板；音效播放面板等设备或软件",
+    "sense": "在钢琴、吉他里，是让振动更有效传到空气中的板；数字工具里，又可指集中触发音效的面板。",
+    "split": "sound 声音 + board 板。乐器用法接板状结构与声音共振；现代软件等另沿声音面板的构词画面形成固定名称。",
+    "history": [
+      [
+        "sound 声音；board 板、面板",
+        "并列构词部分"
+      ],
+      [
+        "soundboard",
+        "乐器共鸣板；某些音效控制、播放面板"
+      ]
+    ],
+    "explanation": "a piano soundboard 钢琴共鸣板；a soundboard app 音效面板应用。具体音频设备里的名称要看功能，不是所有调音设备都叫 soundboard。",
+    "usage": "a piano soundboard；a guitar soundboard；a soundboard app。",
+    "contrast": "soundboard 常见为共鸣板、音效面板；sounding board 在比喻里常说帮人试探想法的讨论对象，不要只看中文板字就混用。",
+    "examples": [
+      [
+        "The technician inspected the piano’s soundboard.",
+        "技师检查了钢琴的共鸣板。"
+      ],
+      [
+        "He used a soundboard app to play short effects during the show.",
+        "他用音效面板应用在演出中播放短音效。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundboard#English"
+    ]
+  },
+  {
+    "word": "fingerboard",
+    "ipa": "英 /ˈfɪŋɡəbɔːd/；美 /ˈfɪŋɡərbɔːrd/",
+    "meaning": "弦乐器指板；手指滑板",
+    "sense": "拉琴或弹琴时，手指在琴弦下方那条板上按出不同音；另一用法是用手指玩的迷你滑板。",
+    "split": "finger 手指 + board 板；乐器中按使用部位命名，玩具中按手指操作的滑板命名，两种对象分开理解。",
+    "history": [
+      [
+        "finger 手指；board 板",
+        "并列构词部分"
+      ],
+      [
+        "fingerboard",
+        "手指按弦的板；以手指操控的小滑板"
+      ]
+    ],
+    "explanation": "a violin fingerboard 小提琴指板；a toy fingerboard 玩具手指滑板。先看乐器还是玩具的场景。",
+    "usage": "a violin fingerboard；press a string against the fingerboard；a toy fingerboard。",
+    "contrast": "fingerboard 指板这一部件；fretboard 特别指有品丝的指板，不能把所有指板都假定有金属品丝。",
+    "examples": [
+      [
+        "She moved her fingers along the violin’s fingerboard.",
+        "她的手指沿小提琴指板移动。"
+      ],
+      [
+        "He practised tricks with a tiny fingerboard on his desk.",
+        "他在书桌上用迷你手指滑板练动作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fingerboard#English"
+    ]
+  },
+  {
+    "word": "fretboard",
+    "ipa": "英 /ˈfretbɔːd/；美 /ˈfretbɔːrd/",
+    "meaning": "有品弦乐器的指板",
+    "sense": "吉他琴颈上分出一格格位置的那条板；品丝帮你在固定位置改变弦的有效振动长度。",
+    "split": "fret 品、品丝 + board 板。fret 在这里是乐器部件名，不是烦恼的动词义。",
+    "history": [
+      [
+        "fret 乐器的品、品丝；board 板",
+        "并列构词部分"
+      ],
+      [
+        "fretboard",
+        "带品丝的乐器指板"
+      ]
+    ],
+    "explanation": "a guitar fretboard 吉他指板，notes on the fretboard 指板上的音位；可用于其他有品弦乐器，不只吉他。",
+    "usage": "a guitar fretboard；clean the fretboard；notes on the fretboard。",
+    "contrast": "fingerboard 是较宽的指板名称，fretboard 通常强调有品；小提琴的无品指板一般用 fingerboard。",
+    "examples": [
+      [
+        "The teacher showed me where the note is on the fretboard.",
+        "老师向我指出这个音在指板上的位置。"
+      ],
+      [
+        "He cleaned the guitar’s fretboard before changing the strings.",
+        "他换弦前清洁了吉他指板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fretboard#English"
+    ]
+  }
+]

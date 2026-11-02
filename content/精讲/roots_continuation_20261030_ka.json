@@ -1,0 +1,30 @@
+[
+  {
+    "id": "B4322",
+    "meaning": "残暴、严酷与直白程度；建筑术语需另交代命名史",
+    "core": "BRUTAL：不留情的评价；BRUTALISM 建筑流派不是残暴行为的直译",
+    "image": "brutal → brutally、brutality；brutalism、brutalist 在建筑中有专门历史。",
+    "intro": "普通词族抓严酷、不留情；建筑词族则抓材料、结构的直接呈现和术语背景。两边字形相连，现代意义不能混。",
+    "forms": "brūtus、brūtālis → brutal；-ly 副词，-ity 性质；建筑 Brutalism 的名称还涉及法语 brut、瑞典及艺术术语影响。",
+    "branches": [
+      [
+        "一般性质、方式与名词",
+        "brutal · brutally · brutality"
+      ],
+      [
+        "建筑思想、人物和风格",
+        "brutalism · brutalist"
+      ]
+    ],
+    "contrasts": "brutality 不等于 Brutalism；brutalist 不能拿来概括建筑师性格。",
+    "practice": "The article distinguishes brutal criticism of a building from a discussion of its brutalist design.\n\n文章区分了对建筑的尖刻批评与对其粗野主义设计的讨论。",
+    "words": [
+      "brutal",
+      "brutally",
+      "brutality",
+      "brutalism",
+      "brutalist"
+    ],
+    "exclude": {}
+  }
+]

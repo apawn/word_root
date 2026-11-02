@@ -1,0 +1,163 @@
+[
+  {
+    "id": "B2730",
+    "meaning": "神；宗教关系与历史引申",
+    "core": "GOD：神的身份、与神有关的关系和评价",
+    "image": "先认神与信仰，再看哪些词变成日常比喻；gossip、giddy 还要经过旧词形才能看清关系。",
+    "intro": "god 是古英语继承词，不是 good 的缩写。godfather 等保留宗教关系，godsend 比喻及时帮助；gossip 经过教亲、熟人到闲话，giddy 经过旧时附身观念到晕眩。",
+    "forms": "god → goddess、godlike、demigod；godly → ungodly，与 godless、godforsaken 对照；godfather / godmother 相邻；gossip、giddy 单列历史变化。\n\n日耳曼本族神祇词，不同文化语境区分大小写。",
+    "branches": [
+      [
+        "神与类似神的身份",
+        "god · goddess · godlike · demigod"
+      ],
+      [
+        "信仰、评价和荒凉感",
+        "godly · ungodly · godless · godforsaken"
+      ],
+      [
+        "教亲关系与及时帮助",
+        "godfather · godmother · godsend"
+      ],
+      [
+        "形状变化较大的历史亲属",
+        "gossip · giddy"
+      ],
+      [
+        "god → gods：神与多神传统中的诸神",
+        "god · gods"
+      ]
+    ],
+    "contrasts": "godly 虔诚、godlike 像神；godfather 教父、grandfather 祖父；godless 的贬义可能来自说话人立场，不是人群道德事实。",
+    "practice": "Her godmother’s help was a godsend, and she was giddy with excitement.\n\n教母的帮助来得太及时，她兴奋得晕乎乎的。",
+    "words": [
+      "god",
+      "goddess",
+      "godlike",
+      "demigod",
+      "godly",
+      "ungodly",
+      "godless",
+      "godforsaken",
+      "godfather",
+      "godmother",
+      "godsend",
+      "gossip",
+      "giddy",
+      "gods"
+    ],
+    "exclude": {
+      "god-king": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "godhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "godman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2478",
+    "meaning": "音乐；音乐能力与从业者",
+    "core": "MUSIC：把声音组织成可欣赏、表达情绪的艺术",
+    "image": "先听声音组织出的节奏、旋律，再分音乐本身、音乐剧、演奏者和音乐素养。",
+    "intro": "music 经法语、拉丁语接古希腊 mousikē，源头与缪斯诸艺有关。musician 的 c 在词形中读 /ʃ/；musicianship 是能力，不是船。",
+    "forms": "music → musical → musically；music → musician → musicianship；已精讲 musicology 接研究分支。\n\n法语音乐人名词借入，与 music 形成可学习的词族对应。\n\n名词 musical 从 musical comedy 等组合缩短而来，复数数的是剧目、演出作品。",
+    "branches": [
+      [
+        "音乐及音乐相关表达",
+        "music · musical · musically"
+      ],
+      [
+        "音乐人与素养",
+        "musician · musicianship"
+      ],
+      [
+        "音乐研究",
+        "musicology"
+      ],
+      [
+        "musician → musicians：从事音乐的人",
+        "musician · musicians"
+      ],
+      [
+        "musical 的音乐剧名词与复数",
+        "musical · musicals"
+      ]
+    ],
+    "contrasts": "music 通常不可数，musical 作音乐剧可数；musician 音乐人，musicianship 音乐素养，musicology 音乐学。",
+    "practice": "The musician’s excellent musicianship made even a simple piece of music memorable.\n\n这位音乐人出色的音乐素养，让一首简单乐曲也令人难忘。",
+    "words": [
+      "music",
+      "musical",
+      "musically",
+      "musician",
+      "musicianship",
+      "musicology",
+      "musicians",
+      "musicals"
+    ],
+    "exclude": {
+      "music-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2797",
+    "meaning": "法律、确立的规则",
+    "core": "LAW：定下共同遵守、据以判断的规则",
+    "image": "从确立下来的规则，分出法律职业、诉讼、合法与失序；科学定律是另一用途。",
+    "intro": "law 经古英语 lagu 借自古诺尔斯语 lǫg，原意与放下、确立有关；legal 来自拉丁 lēx，是意思相近的另一来源。",
+    "forms": "law → lawyer、lawsuit；law → lawful → lawfully、unlawful；law → lawless → lawlessness。既有 outlaw、lawmaker、lawmaking 保留相关位置。\n\nlaw 接古诺尔斯语 lǫg 及确立、放置词族，英语法律与科学定律义分场景看；与 legal 的拉丁来源分别讲。\n\n中古英语名词对应 law 与 yer 的从业者词尾。\n\nlawsuit 是英语复合词，suit 这里是诉讼、追索用法，远接 sequi 跟随词族。现代复数 -s，常说民事诉讼。\n\nlawmaker 是制定法律的人，maker 来自 make + 完整 -er，再加 -s。与 legislator 这一拉丁来源词对照，角色相近。",
+    "branches": [
+      [
+        "规则、职业和案件",
+        "law · lawyer · lawsuit"
+      ],
+      [
+        "合法与否",
+        "lawful · lawfully · unlawful"
+      ],
+      [
+        "失序及既有相关词",
+        "lawless · lawlessness · outlaw · lawmaker · lawmaking"
+      ],
+      [
+        "law → laws：法律；规律、定律",
+        "law · laws"
+      ],
+      [
+        "lawyer → lawyers：法律从业者",
+        "lawyer · lawyers"
+      ],
+      [
+        "law 法律 + suit 诉讼 → lawsuits",
+        "lawsuits"
+      ],
+      [
+        "law + make + -er → lawmakers",
+        "lawmakers"
+      ]
+    ],
+    "contrasts": "lawsuit 的 suit 不是西装；lawful 合法与 moral 道德的不能直接画等号；unlawful 判断行为，lawless 常描述失序。",
+    "practice": "The lawyer in the novel studies whether the records were lawfully obtained.\n\n小说中的律师研究这些记录是否是合法取得的。",
+    "words": [
+      "law",
+      "lawyer",
+      "lawsuit",
+      "lawful",
+      "lawfully",
+      "unlawful",
+      "lawless",
+      "lawlessness",
+      "outlaw",
+      "lawmaker",
+      "lawmaking",
+      "laws",
+      "lawyers",
+      "lawsuits",
+      "lawmakers"
+    ],
+    "exclude": {
+      "law-way": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "law-trained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lawman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

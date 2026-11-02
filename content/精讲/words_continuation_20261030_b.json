@@ -1,0 +1,327 @@
+[
+  {
+    "word": "necessary",
+    "ipa": "英 /ˈnesəsəri/；美 /ˈnesəseri/",
+    "meaning": "必要的；必需的",
+    "sense": "要把这件事做成，这一项少不了；与只是有帮助、最好有，强度不同。",
+    "split": "经法语接拉丁 necessarius、necesse 不可避免、需要。更远常解释为否定加退让、避开的相关形式，但不是现代英语 ne- + cess + ary 可逐段随意拼义。",
+    "history": [
+      [
+        "拉丁 necesse、necessarius → 法语 necessaire → 英语 necessary",
+        "不可避免、所需；更深组合解释不完全确定"
+      ],
+      [
+        "现代 necessary",
+        "少不了的条件 → 必要的、必需的"
+      ]
+    ],
+    "explanation": "necessary equipment 必需设备，if necessary 必要时，It is necessary to... 有必要……。",
+    "usage": "if necessary；necessary for；necessary to do；where necessary。",
+    "contrast": "necessary 必需，useful 有用；某工具有帮助，不代表少了它任务就完全做不了。",
+    "examples": [
+      [
+        "Bring the necessary documents to the appointment.",
+        "赴约时带上必需文件。"
+      ],
+      [
+        "We can arrange another meeting if necessary.",
+        "必要时，我们可以再安排一次会议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/necessary#English"
+    ]
+  },
+  {
+    "word": "necessarily",
+    "ipa": "英 /ˌnesəˈserəli/；美 /ˌnesəˈserəli/",
+    "meaning": "必然地；一定",
+    "sense": "最值得先学 not necessarily：有这种情况，不一定就能推出那个结论。",
+    "split": "necessary + -ly，y 改 i，成为 necessarily。副词常从必要关系表达必然结果，而不是永远翻成很有必要地。",
+    "history": [
+      [
+        "拉丁 necesse、necessarius → 法语 necessaire → 英语 necessary",
+        "不可避免、所需；更深组合解释不完全确定"
+      ],
+      [
+        "现代 necessary",
+        "少不了的条件 → 必要的、必需的"
+      ],
+      [
+        "necessary + -ly → necessarily",
+        "必要关系 → 必然、一定"
+      ]
+    ],
+    "explanation": "not necessarily 不一定，not necessarily mean 不一定意味着；重音与 necessary 不完全相同。",
+    "usage": "not necessarily；necessarily mean；necessarily involve。",
+    "contrast": "not necessarily good 是不一定好，未必直接说坏；necessarily not good 才是必定不好，否定位置改变逻辑。",
+    "examples": [
+      [
+        "A higher price does not necessarily mean better quality.",
+        "价格更高不一定意味着质量更好。"
+      ],
+      [
+        "Working longer does not necessarily make you more productive.",
+        "工作更久不一定使效率更高。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/necessarily#English"
+    ]
+  },
+  {
+    "word": "unnecessary",
+    "ipa": "英 /ʌnˈnesəsəri/；美 /ʌnˈnesəseri/",
+    "meaning": "不必要的；多余的",
+    "sense": "拿掉这一步、这笔支出也能达到目的，所以没必要多做。",
+    "split": "un- 不 + necessary，否定必要性，不自动否定它是否存在或是否有任何作用。",
+    "history": [
+      [
+        "拉丁 necesse、necessarius → 法语 necessaire → 英语 necessary",
+        "不可避免、所需；更深组合解释不完全确定"
+      ],
+      [
+        "现代 necessary",
+        "少不了的条件 → 必要的、必需的"
+      ],
+      [
+        "un- + necessary → unnecessary",
+        "必要的反面 → 不必要"
+      ]
+    ],
+    "explanation": "unnecessary expense 不必要开支，unnecessary detail 多余细节，avoid unnecessary delays 避免无谓延误。",
+    "usage": "unnecessary expense；unnecessary detail；unnecessary delays。",
+    "contrast": "unnecessary 不必做，impossible 做不到；不必要的问题也可能完全能解决，只是不值得花工夫。",
+    "examples": [
+      [
+        "The new process removes several unnecessary steps.",
+        "新流程删去了几个不必要的步骤。"
+      ],
+      [
+        "Please avoid unnecessary detail in the introduction.",
+        "引言里请避免多余细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unnecessary#English"
+    ]
+  },
+  {
+    "word": "slow",
+    "ipa": "英 /sləʊ/；美 /sloʊ/",
+    "meaning": "慢的；使放慢、放慢；迟缓地",
+    "sense": "同样一段路、同样一件事，它花的时间更多；也可以主动把节奏放下来。",
+    "split": "继承古英语 slāw，现代形容词与动词很常见。副词 slow 也在 go slow、drive slow 等表达中使用，不是一律语法错误。",
+    "history": [
+      [
+        "古英语 slāw → 中古英语 slaw、slow → slow",
+        "慢、迟缓；旧有懒惰等相关义"
+      ],
+      [
+        "现代 slow 词族",
+        "速度低 → 放慢；slow + -th 的历史分支 sloth"
+      ]
+    ],
+    "explanation": "a slow train 慢车，slow progress 缓慢进展，slow down 放慢；a slow clock 是钟走慢了。",
+    "usage": "slow progress；slow down；go slow；a slow clock。",
+    "contrast": "slow 速度低，late 比约定时间晚；慢车可以准时到，晚点的车也可能跑得快。",
+    "examples": [
+      [
+        "Progress was slow at first.",
+        "起初进展缓慢。"
+      ],
+      [
+        "The driver slowed down near the school.",
+        "司机经过学校附近时减速了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slow#English"
+    ]
+  },
+  {
+    "word": "slower",
+    "ipa": "英 /ˈsləʊə/；美 /ˈsloʊər/",
+    "meaning": "更慢的；更慢地",
+    "sense": "不是只说慢，而是与另一个速度、原来的节奏比较。",
+    "split": "slow + -er，比较级，不双写 w；形容词和相应速度副词比较都可见。",
+    "history": [
+      [
+        "古英语 slāw → 中古英语 slaw、slow → slow",
+        "慢、迟缓；旧有懒惰等相关义"
+      ],
+      [
+        "现代 slow 词族",
+        "速度低 → 放慢；slow + -th 的历史分支 sloth"
+      ],
+      [
+        "slow + -er → slower",
+        "速度更低 → 更慢"
+      ]
+    ],
+    "explanation": "a slower pace 更慢节奏，go slower 慢一点；more slowly 也是常见副词比较形式。",
+    "usage": "a slower pace；slower than；go slower。",
+    "contrast": "slower 比较程度，slowly 描述方式；write more slowly 或 write slower 可用，语体和搭配决定选择。",
+    "examples": [
+      [
+        "Could we walk at a slower pace?",
+        "我们能走慢一点吗？"
+      ],
+      [
+        "This route is shorter but slower in rush hour.",
+        "这条路线更短，但高峰时走起来更慢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slower#English"
+    ]
+  },
+  {
+    "word": "slowly",
+    "ipa": "英 /ˈsləʊli/；美 /ˈsloʊli/",
+    "meaning": "缓慢地",
+    "sense": "把慢这一性质加到动作上：慢慢说、慢慢打开、慢慢恢复。",
+    "split": "slow + -ly，规则副词。保留 slow 完整拼写，不写成 slowly 之外的变形。",
+    "history": [
+      [
+        "古英语 slāw → 中古英语 slaw、slow → slow",
+        "慢、迟缓；旧有懒惰等相关义"
+      ],
+      [
+        "现代 slow 词族",
+        "速度低 → 放慢；slow + -th 的历史分支 sloth"
+      ],
+      [
+        "slow + -ly → slowly",
+        "慢 → 以慢的方式"
+      ]
+    ],
+    "explanation": "speak slowly 慢慢说，recover slowly 缓慢恢复，slowly but surely 慢而稳地。",
+    "usage": "speak slowly；move slowly；slowly but surely。",
+    "contrast": "a slow recovery 用形容词修饰名词，recover slowly 用副词修饰动词；slow 也有部分既定副词搭配。",
+    "examples": [
+      [
+        "Please speak slowly so I can take notes.",
+        "请慢一点说，方便我做笔记。"
+      ],
+      [
+        "The door opened slowly.",
+        "门缓缓打开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slowly#English"
+    ]
+  },
+  {
+    "word": "slowness",
+    "ipa": "英 /ˈsləʊnəs/；美 /ˈsloʊnəs/",
+    "meaning": "缓慢；迟缓",
+    "sense": "把速度慢本身当成问题、特点或感受来讨论。",
+    "split": "slow + -ness，状态性质名词；与 slowly 方式副词分工不同。",
+    "history": [
+      [
+        "古英语 slāw → 中古英语 slaw、slow → slow",
+        "慢、迟缓；旧有懒惰等相关义"
+      ],
+      [
+        "现代 slow 词族",
+        "速度低 → 放慢；slow + -th 的历史分支 sloth"
+      ],
+      [
+        "slow + -ness → slowness",
+        "慢的性质 → 缓慢、迟缓"
+      ]
+    ],
+    "explanation": "the slowness of the response 响应迟缓，frustrating slowness 令人烦躁的缓慢。",
+    "usage": "the slowness of；frustrating slowness；slowness in responding。",
+    "contrast": "slowness 说速度，delay 说延误、等待；系统可能响应慢但尚未超过承诺期限。",
+    "examples": [
+      [
+        "Users complained about the slowness of the website.",
+        "用户抱怨网站速度慢。"
+      ],
+      [
+        "He was frustrated by the slowness of the negotiations.",
+        "谈判进展迟缓让他感到沮丧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slowness#English"
+    ]
+  },
+  {
+    "word": "sloth",
+    "ipa": "英 /sləʊθ/；美 /sloʊθ/、/slɔːθ/",
+    "meaning": "懒惰；树懒",
+    "sense": "抽象先是懒散、迟缓，动物名则借它说动作慢的树懒；这不是动物真的有人的道德过错。",
+    "split": "slow + 旧抽象名词后缀 -th 的历史形式，经中古英语 slouthe 等成 sloth。动物因动作缓慢而得英语俗名，现代不按完整 slow 直接拼写。",
+    "history": [
+      [
+        "古英语 slāw → 中古英语 slaw、slow → slow",
+        "慢、迟缓；旧有懒惰等相关义"
+      ],
+      [
+        "现代 slow 词族",
+        "速度低 → 放慢；slow + -th 的历史分支 sloth"
+      ],
+      [
+        "slow 的旧抽象派生 → sloth",
+        "迟缓、懒散 → 树懒的名称"
+      ]
+    ],
+    "explanation": "a three-toed sloth 三趾树懒，sloth and idleness 懒惰闲散；动物名可数，抽象性质通常不可数。",
+    "usage": "a three-toed sloth；a sloth in a tree；sloth and idleness。",
+    "contrast": "sloth 树懒与 lazy person 懒人不能作生物学等同；人动作慢也可能是谨慎，并非懒惰。",
+    "examples": [
+      [
+        "A sloth hung from a branch above the path.",
+        "一只树懒倒挂在小路上方的树枝上。"
+      ],
+      [
+        "The old story warns against sloth and greed.",
+        "古老故事告诫人们远离懒惰与贪婪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sloth#English"
+    ]
+  },
+  {
+    "word": "slowpoke",
+    "ipa": "英 /ˈsləʊpəʊk/；美 /ˈsloʊpoʊk/",
+    "meaning": "慢吞吞的人；慢性子",
+    "sense": "有人总落在后头、做事慢，你开玩笑叫他慢家伙；也可能惹人不快。",
+    "split": "slow + poke，后部人物称呼的确切命名来历不透明，不用 poke 戳的现代常用义硬造戳一下才走的故事。美式口语常见。",
+    "history": [
+      [
+        "古英语 slāw → 中古英语 slaw、slow → slow",
+        "慢、迟缓；旧有懒惰等相关义"
+      ],
+      [
+        "现代 slow 词族",
+        "速度低 → 放慢；slow + -th 的历史分支 sloth"
+      ],
+      [
+        "slow + poke → slowpoke",
+        "慢吞吞的人物称呼"
+      ]
+    ],
+    "explanation": "Come on, slowpoke! 快点，慢家伙！a bit of a slowpoke 有点慢性子。",
+    "usage": "a slowpoke；Come on, slowpoke；a bit of a slowpoke。",
+    "contrast": "slowpoke 口语人物评价，slower 比较级；称人慢家伙是否亲切，取决于关系和语气。",
+    "examples": [
+      [
+        "Come on, slowpoke, the others are waiting.",
+        "快点，慢家伙，其他人都等着呢。"
+      ],
+      [
+        "He called himself a slowpoke when learning new software.",
+        "他说自己学新软件是个慢性子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slowpoke#English"
+    ]
+  }
+]

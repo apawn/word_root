@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B3403",
+    "meaning": "钢材、钢色与坚定的心理比喻",
+    "core": "STEEL：硬、强韧、冷色，能借给材料以外的事物",
+    "image": "steel → steely；steelworks 是工厂，steelmaking 是生产，steelhead 是按外观命名的鱼。",
+    "intro": "同一形象进了不同场景，先分材料、工厂、过程与生物俗名。钢头鳟不是金属鱼，steel yourself 也不是盔甲制作。",
+    "forms": "古英语 stīele 等 → steel；steel + -y；steel + works/making/head。",
+    "branches": [
+      [
+        "材料与形容",
+        "steel · steely"
+      ],
+      [
+        "生产、工厂与鱼名",
+        "steelmaking · steelworks · steelhead"
+      ]
+    ],
+    "contrasts": "steel/steal 同音异词；steelworks 工厂可a一家；steelhead/rainbow trout 同种不同生活型；steely 冷硬并非字面金属。",
+    "practice": "The steelworks produced the steel used in the bridge.\n\n钢厂生产了造桥所用的钢材。",
+    "words": [
+      "steel",
+      "steely",
+      "steelmaking",
+      "steelworks",
+      "steelhead"
+    ],
+    "exclude": {
+      "steeler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4219",
+    "meaning": "实体外围、区域边界与分类边缘",
+    "core": "BORDER：到哪儿结束、另一边从哪儿开始",
+    "image": "border → borderline、borderless；borderland 接边界周围区域。",
+    "intro": "国界、纸页边框、分类边缘都可借边来理解。borderless 不保证事物无限大，borderline 不一律诊断词。",
+    "forms": "bordeure → bordure → border；border + line/-less/land。\n\n法语边缘词族借入，复数也可与动词三单同形。\n\n与 border 比较边缘，并非 border 派生。fringe 经法语 frenge 接拉丁 fimbriae 线、纤维、穗边，经历音位换位等变化；具体装饰边到一般边缘，再用于群体外围。",
+    "branches": [
+      [
+        "边界、临界与无框",
+        "border · borderline · borderless"
+      ],
+      [
+        "边界周围地区",
+        "borderland"
+      ],
+      [
+        "border → borders：围在外沿的边与界线",
+        "border · borders"
+      ],
+      [
+        "fringe：线穗边饰 → 外围、非主流",
+        "fringe · fringes · fringed · fringing"
+      ]
+    ],
+    "contrasts": "border 动词可接壤、border on 可几乎；borderline 难归类；borderless 无框与无国界比喻分场景。",
+    "practice": "The borderless photo filled the page without a white border.\n\n无边框照片铺满纸页，没有白边。",
+    "words": [
+      "border",
+      "borderline",
+      "borderless",
+      "borderland",
+      "borders",
+      "fringe",
+      "fringes",
+      "fringed",
+      "fringing"
+    ],
+    "exclude": {
+      "e-border": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-border": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3471",
+    "meaning": "衣服集合与晾衣用途",
+    "core": "CLOTHES：穿在身上的衣物，组合时保留这个词形",
+    "image": "clothes → clothesline，衣服到晾衣工具。",
+    "intro": "clothes 是衣物集合，clothesline 是可数的绳；clothing line 分写可说服装系列，不能一眼都当晾衣绳。",
+    "forms": "cloth 的旧复数等 → clothes；clothes + line → clothesline。\n\n前部 clothes 保持固定衣物形式，复数 s 落在 pin 后。",
+    "branches": [
+      [
+        "衣服与晾衣绳",
+        "clothes · clothesline"
+      ],
+      [
+        "clothes + pin → clothespin → clothespins：晾衣夹",
+        "clothes · clothespin · clothespins"
+      ]
+    ],
+    "contrasts": "clothes 衣物、cloth 布料、clothe 给穿衣是不同现代词；clothesline 与 clothing line 结构不同。",
+    "practice": "The clean clothes dried on the clothesline.\n\n干净衣服在晾衣绳上晾干了。",
+    "words": [
+      "clothes",
+      "clothesline",
+      "clothespin",
+      "clothespins"
+    ],
+    "exclude": {
+      "clothes-press": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

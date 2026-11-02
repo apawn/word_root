@@ -5,7 +5,7 @@
     "core": "MEDI = MIDDLE",
     "image": "两端之间有个中间位置：可以承载、协调，也可以被拿掉",
     "intro": "**medi-** 来自拉丁语 **medius**“中间的”。站在中间协调是 mediate；承载两端传播的是 medium；拿掉中间隔层就是 immediate。它也能进入大小、时间、地理、统计和音乐，但要看具体词怎样发展，不能所有词都只译成“中间”。",
-    "forms": "**mediānus** 经过不同路线留下 mean 的平均义与 median。**medium** 的复数是 media。medius 与 diēs“一天”结合发生音变，留下 meridian；与 aevum“时代”结合留下 medieval。**mean** 的“表示、打算”和“刻薄”另有来源，不属于这条拉丁词源。",
+    "forms": "**mediānus** 经过不同路线留下 mean 的平均义与 median。**medium** 的复数是 media。medius 与 diēs“一天”结合发生音变，留下 meridian；与 aevum“时代”结合留下 medieval。**mean** 的“表示、打算”和“刻薄”另有来源，不属于这条拉丁词源。\n\n方法、资源的 means 接法语中间、媒介词族；表示意味着的 means 接古英语 mænan 的动词，不能串成单一词源。\n\nmeant 接表示、打算的动词 mean；平均的、刻薄的 mean 有不同历史。",
     "branches": [
       [
         "居中承载",
@@ -30,6 +30,14 @@
       [
         "平常与半份",
         "mediocre · mediocrity · moiety"
+      ],
+      [
+        "means：方法、可用资源与同形动词",
+        "mean · means"
+      ],
+      [
+        "mean → meant：表示与本来打算",
+        "mean · meant"
       ]
     ],
     "contrasts": "**mean / median**：算术平均值 / 排序后的中位数；2、3、10 的两者分别是 5 与 3。\n\n**medium / mediocre**：中等大小常是中性信息；平庸的质量常带失望。\n\n**mediate / meditate**：调解 / 冥想，拼写接近但词源和用法不同。\n\n**immediate** 的 im- 是否定“有中间隔层”，所以能同时解释立即、直属、紧邻。",
@@ -57,7 +65,9 @@
       "dimidiation",
       "meridian",
       "postmeridian",
-      "submediant"
+      "submediant",
+      "means",
+      "meant"
     ]
   }
 ]

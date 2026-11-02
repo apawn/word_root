@@ -1,0 +1,213 @@
+[
+  {
+    "id": "B2599",
+    "meaning": "希腊字母被数学借作圆周率符号",
+    "core": "PI：圆可以变大，周长与直径的比值不变",
+    "image": "pi 先是字母名，后来为圆周率命名，数学用途不是一个普通英语派生后缀。",
+    "intro": "绕圆一圈与横穿圆心，两种长度随圆同比放大。这个直观关系说明 π 的用途，比只记一串数字更容易理解。",
+    "forms": "希腊字母 π 的名称 → 英语 pi；圆周率符号的选择通常联系圆周相关希腊词首字母。",
+    "branches": [
+      [
+        "字母与圆周率",
+        "pi"
+      ]
+    ],
+    "contrasts": "pith 是日耳曼语来源的髓、核心词，与 pi 的字母名分源，不按 pi + th 来拆。",
+    "practice": "Using pi, the class compared the circumferences of two circles.\n\n班级用圆周率比较了两个圆的周长。",
+    "words": [
+      "pi"
+    ],
+    "exclude": {
+      "pith": "pith 的髓、核心义承古英语相关形式，与希腊字母 pi 分源。",
+      "pion": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3701",
+    "meaning": "酸味走向不悦与恶化，植物名经过法语借回",
+    "core": "SOUR：舌头尝到酸，表情和关系也能发酸",
+    "image": "sour → sourness、sourdough；sorrel 植物名经法语接同族酸义，颜色义另辨。",
+    "intro": "酸并不天生负面，食品中可以好吃；关系 turn sour 则是变坏。植物按酸味命名的路线，与红棕马的同形颜色名分开。",
+    "forms": "sūr → sour；-ness 性质；sour + dough；法语 sur → surele 等 → sorrel 植物名。",
+    "branches": [
+      [
+        "酸味、性质与酸面团",
+        "sour · sourness · sourdough"
+      ],
+      [
+        "酸味植物与同形颜色词",
+        "sorrel"
+      ]
+    ],
+    "contrasts": "sour 酸与 bitter 苦不同；sorrel 马色不由酸味植物推导。",
+    "practice": "The sourness of the sorrel gave the soup a fresh, sour taste.\n\n酸模的酸味让汤尝起来清爽带酸。",
+    "words": [
+      "sour",
+      "sourness",
+      "sourdough",
+      "sorrel"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3700",
+    "meaning": "严厉态度与船尾方向分源，两个派生词各接一支",
+    "core": "STERN：sternly 看语气，astern 看船尾方向",
+    "image": "stern 同形有严厉与船尾；sternly、astern 的构词正好帮助把两支分开。",
+    "intro": "人物板起脸的场景与船首船尾的位置图像分别记。掌舵位置的历史提供船尾支线索，不把它与性格刚硬硬编成同一来源。",
+    "forms": "styrne → 严厉 stern → sternly；掌舵相关借词形式 → 船尾 stern → a- + stern → astern。\n\n形容词 stern 接古英语 styrne 等严厉、强硬材料，较远与僵硬词族有关；船尾名词另有掌舵词线。比较级、最高级只接形容词一支。\n\nstark 接古英语 stearc，远处与 stern 严厉形容词同族，不是船尾 stern 那条线。现代常用 stark contrast 强烈反差、stark reality 严酷现实；光秃义也强调毫无遮掩。",
+    "branches": [
+      [
+        "态度与方式",
+        "stern · sternly"
+      ],
+      [
+        "船尾位置与方向",
+        "astern"
+      ],
+      [
+        "stern → sterner → sternest：更严厉、最严厉",
+        "stern · sterner · sternest"
+      ],
+      [
+        "stark：硬、严厉到光秃、鲜明强烈",
+        "stark"
+      ]
+    ],
+    "contrasts": "sternly 不指在船尾；astern 不指变得更严厉。",
+    "practice": "He spoke sternly while watching the boat astern.\n\n他一边看着后方的船，一边严肃地说话。",
+    "words": [
+      "stern",
+      "sternly",
+      "astern",
+      "sterner",
+      "sternest",
+      "stark"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4490",
+    "meaning": "输送流体的脉管，心脏前缀进一步限定范围",
+    "core": "VASCULAR：像一套细管，把东西输送到各处",
+    "image": "vascular 说脉管相关，cardiovascular 加入心脏这一部分。",
+    "intro": "人体医学常看血管，植物学看维管输导组织。上游小容器的形象帮助记管道，但具体结构与功能仍由所在生物、学科决定。",
+    "forms": "vas → vasculum → vascularis → vascular；cardio- 心脏 + vascular。",
+    "branches": [
+      [
+        "脉管与心血管范围",
+        "vascular · cardiovascular"
+      ]
+    ],
+    "contrasts": "vascular 不把心脏与所有管道混成一个部件；cardiovascular 是更明确的组合范围。",
+    "practice": "The chapter introduces vascular structures before the cardiovascular system.\n\n这一章先介绍血管结构，再讲心血管系统。",
+    "words": [
+      "vascular",
+      "cardiovascular"
+    ],
+    "exclude": {
+      "cerebrovascular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "intravascular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "microvascular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "endovascular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4193",
+    "meaning": "管道、污水和系统分别命名，缝纫者同形另辨",
+    "core": "SEWER：管子是 sewer，污水是 sewage，管网是 sewerage",
+    "image": "sewer → sewage、sewerage；先用物件、内容、系统三层分开。",
+    "intro": "从水道到地下排污通道，名称保留了水的词源。缝纫者 sewer 另接 sew，读音也不同，不能被现代拼写骗过去。",
+    "forms": "sewiere、sewere → sewer /suː/；sewage /ˈsuːɪdʒ/；sewerage 保留 r；sew + -er 的人读 /ˈsəʊə/ 等。",
+    "branches": [
+      [
+        "排水管、污水与管网系统",
+        "sewer · sewage · sewerage"
+      ]
+    ],
+    "contrasts": "sewage 与 sewerage 不只是两种拼写；内容物与设施是常用区别。",
+    "practice": "Sewage flows through sewers in the town’s sewerage system.\n\n污水经镇上排污系统的下水管流走。",
+    "words": [
+      "sewer",
+      "sewage",
+      "sewerage"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3460",
+    "meaning": "轻风的轻快感，移到任务难度与人物风格",
+    "core": "BREEZE：风轻快地过，事情也能顺顺地过",
+    "image": "breeze → breezy；微风、轻松事、轻快举止通过现代意象连接。",
+    "intro": "物理的风给体验，breeze through 给轻松完成，breezy manner 给爽朗随意。煤渣词的同形支不与微风强连。",
+    "forms": "brise、brize 等 → breeze；去 e + -y → breezy；through 过关、穿过。",
+    "branches": [
+      [
+        "微风、轻松与轻快性质",
+        "breeze · breezy"
+      ]
+    ],
+    "contrasts": "breezy 天气与轻快风格按对象辨；a breeze 可以是轻而易举的事。",
+    "practice": "On a breezy afternoon, she breezed through the short exercise.\n\n在一个有风的下午，她轻松做完了短练习。",
+    "words": [
+      "breeze",
+      "breezy"
+    ],
+    "exclude": {
+      "breeze-block": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4587",
+    "meaning": "执行处理的部件，前缀限定微型、协同、多处理或预处理",
+    "core": "PROCESSOR：承担处理工作，前缀再说角色和结构",
+    "image": "processor → microprocessor、coprocessor、multiprocessor、preprocessor。",
+    "intro": "micro- 说微型集成处理器名称，co- 说协助角色，multi- 说多个处理部件，pre- 说正式处理之前的一步。preprocessor 还常是软件工具，不一律是芯片。",
+    "forms": "process + -or → processor；micro- 微，co- 协同，multi- 多，pre- 之前。",
+    "branches": [
+      [
+        "处理器、微处理器与协同角色",
+        "processor · microprocessor · coprocessor"
+      ],
+      [
+        "多处理配置与预处理工具",
+        "multiprocessor · preprocessor"
+      ]
+    ],
+    "contrasts": "coprocessor 与 multiprocessor 的观察点不同；preprocessor 不自动指硬件。",
+    "practice": "The processor delegated a specialised task to the coprocessor.\n\n处理器把一项专门任务交给协处理器。",
+    "words": [
+      "processor",
+      "microprocessor",
+      "coprocessor",
+      "multiprocessor",
+      "preprocessor"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4187",
+    "meaning": "手蜷成拳，数量与打斗复合词围绕拳头展开",
+    "core": "FIST：一只手收紧，成为能握物、发力的拳",
+    "image": "fist → fistful、fistfight，身体部位、量、相应动作依次看。",
+    "intro": "握拳不必一定出拳打人，也能表达决心、庆祝。fistful 把手的容量当作粗略单位，fistfight 则明确用拳打斗的场景。",
+    "forms": "fyst → fist；-ful 容量只写一个 l；fist + fight。",
+    "branches": [
+      [
+        "拳头、一把与拳斗",
+        "fist · fistful · fistfight"
+      ]
+    ],
+    "contrasts": "fistful 数量不固定；-ful 在这里是数量名词构词，不是所有 -ful 形容词的同一用途。",
+    "practice": "He opened his fist and showed a fistful of coins.\n\n他张开拳头，露出手里的一把硬币。",
+    "words": [
+      "fist",
+      "fistful",
+      "fistfight"
+    ],
+    "exclude": {
+      "tight-fisted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fister": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

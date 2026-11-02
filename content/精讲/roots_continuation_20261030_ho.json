@@ -1,0 +1,154 @@
+[
+  {
+    "id": "B4598",
+    "meaning": "锅、盘状容器，和镜头全景动作的同形词",
+    "core": "PAN：先辨厨房的盘，还是 panorama 缩出来的镜头动作",
+    "image": "pan/pancake/saucepan 保留器皿；panhandle、deadpan 各有固定比喻；镜头 pan 来自另一缩短路线。",
+    "intro": "相同字母不必把全部意思搅进一只锅。锅的实物组合容易看，俚语和截短要分别追来源。",
+    "forms": "panne → pan；pan + cake/handle；sauce + pan；dead + pan〔脸的俚语〕；panorama → pan。\n\n锅义承古英语 panne；镜头义是 panorama 或 panoramic camera 相关表达的截短，不能硬串成锅具派生。\n\n这一组合接锅具 pan，不接镜头全景 pan 的截短支。\n\n按盛装用途命名的浅盘，现代整词加 s。",
+    "branches": [
+      [
+        "容器与相关食物",
+        "pan · saucepan · pancake"
+      ],
+      [
+        "形状和表情的固定词",
+        "panhandle · deadpan"
+      ],
+      [
+        "pan → pans：锅具、严批与镜头动作的不同支",
+        "pan · pans"
+      ],
+      [
+        "锅具 pan 的组合 pancake 及复数",
+        "pan · pancake · pancakes"
+      ],
+      [
+        "pan 的清洁用品组合 dustpan",
+        "pan · dustpan · dustpans"
+      ]
+    ],
+    "contrasts": "panorama 缩短的 pan 与锅分支分开；deadpan 是面无表情，不是坏掉的锅；panhandle 的地形、乞讨用法须按上下文分。",
+    "practice": "The camera panned across the kitchen as she lifted the pan.\n\n她拿起锅时，镜头扫过厨房。",
+    "words": [
+      "pan",
+      "saucepan",
+      "pancake",
+      "panhandle",
+      "deadpan",
+      "pans",
+      "pancakes",
+      "dustpan",
+      "dustpans"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4082",
+    "meaning": "提供服务的服务器，与无需自行管理服务器的模式",
+    "core": "SERVERLESS：服务还在，底层机器管理交给提供方",
+    "image": "server 提供服务；serverless 的云语境强调开发者不用自己配置、维护底层服务器。",
+    "intro": "后缀 -less 在这里不能脱离使用视角。机器仍在运行，只是责任分工变了；这比逐字记无服务器更容易理解。",
+    "forms": "serve + -er → server；server + -less → serverless。\n\nserve 去 e 加完整 er，现代服务器从提供计算服务的功能得名。",
+    "branches": [
+      [
+        "服务提供与管理视角",
+        "server · serverless"
+      ],
+      [
+        "serve → server → servers：提供服务的人、机器",
+        "serve · server · servers"
+      ]
+    ],
+    "contrasts": "serverless 不是没有物理机器，不保证免费，也不免除应用自身的设计和维护工作。",
+    "practice": "A serverless application still runs on servers managed by someone.\n\n无服务器应用仍运行在有人管理的服务器上。",
+    "words": [
+      "server",
+      "serverless",
+      "serve",
+      "servers"
+    ],
+    "exclude": {
+      "cross-server": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3204",
+    "meaning": "胸部、身体前上方，以及由这个位置形成的组合",
+    "core": "BREAST：先定位胸前，再看喂养、衣襟、并排和泳姿",
+    "image": "breast → breastfeed/breastfeeding；breasted 看胸前形态；abreast 胸前齐平；breaststroke 是泳式名。",
+    "intro": "现代人体义常说乳房，但较广的胸部位置仍活在组合里。胸袋、胸甲、双排扣都应回到物体结构理解。",
+    "forms": "brēost → breast；breast + feed/-ed/stroke/plate；a- + breast → abreast。\n\n古英语 breost 的胸部、身体前侧名，现代复数和三单同形。",
+    "branches": [
+      [
+        "部位与保护、喂养",
+        "breast · breastplate · breastfeed · breastfeeding"
+      ],
+      [
+        "外形、齐平和泳式",
+        "breasted · abreast · breaststroke"
+      ],
+      [
+        "breast → breasts：胸前部位与相应肉块",
+        "breast · breasts"
+      ]
+    ],
+    "contrasts": "breast/chest 范围不同；single-breasted 不说人体数量；abreast 的 a- 不是否定；stroke 在泳式里是划动。",
+    "practice": "They walked two abreast to watch the breaststroke event.\n\n他们两人并排走去看蛙泳比赛。",
+    "words": [
+      "breast",
+      "breastplate",
+      "breastfeed",
+      "breastfeeding",
+      "breasted",
+      "abreast",
+      "breaststroke",
+      "breasts"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3499",
+    "meaning": "跳跃和啤酒花两条同形词路线",
+    "core": "HOP：会跳的动作，与酿造的植物分开",
+    "image": "hop → hopper/hopscotch 抓跳跃；hops → hoppy 抓植物风味；食物 hopper 是又一路借词。",
+    "intro": "先看动作还是材料。hoppy 在两条来源上都能加 -y，不能因为拼法一致就画出跳跃变成啤酒花的假路线。",
+    "forms": "hoppian → hop；hop + -er/scotch；另线 hoppe → 植物 hop；hop + -y。\n\nhobble 较早说摇动，可能借或同源于荷兰语、德语相关材料，也可能联系 hop 的反复形式；束住牲畜腿的支线或由 hopple 变来。\n\n跳跃词接古英语 hoppian，啤酒花名词另借中古荷兰语 hoppe；hopped、hopping 双写 p，不和希望 hope 的去 e 变化混淆。",
+    "branches": [
+      [
+        "跳跃、装置与游戏",
+        "hop · hopper · hopscotch"
+      ],
+      [
+        "植物风味",
+        "hoppy"
+      ],
+      [
+        "hobble 与 hop 的可能联系",
+        "hop · hobble · hobbles · hobbled · hobbling"
+      ],
+      [
+        "hop：短跳、短途移动；植物支线另分",
+        "hop · hops · hopped · hopping"
+      ]
+    ],
+    "contrasts": "hop/hope 读音和加词尾规则不同；hopper 料斗不是操作员；hoppy 不只说苦；hopscotch 不由苏格兰酒命名。",
+    "practice": "The children played hopscotch while the guide explained how the grain hopper worked.\n\n孩子们玩跳房子时，讲解员正在介绍谷物料斗如何工作。",
+    "words": [
+      "hop",
+      "hopper",
+      "hoppy",
+      "hopscotch",
+      "hobble",
+      "hobbles",
+      "hobbled",
+      "hobbling",
+      "hops",
+      "hopped",
+      "hopping"
+    ],
+    "exclude": {
+      "head-hop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

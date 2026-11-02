@@ -1,0 +1,546 @@
+[
+  {
+    "word": "performers",
+    "ipa": "英 /pəˈfɔːməz/；美 /pərˈfɔːrmərz/",
+    "meaning": "表演者、演出人员〔复数〕；表现主体〔依语境〕",
+    "sense": "把表演做出来给人看、听的人，是 performers。更广地说，也能按表现评价人、团队或产品，比如表现出色的选手。",
+    "split": "perform 经法语 parfornir 完成、提供，后受 forme 影响词形。英语 perform 加完整表人 -er → performer，再加复数 -s，尾 /z/。",
+    "history": [
+      [
+        "法语完成材料 → perform；词形受 forme 影响",
+        "办成 → 执行、表演、表现"
+      ],
+      [
+        "perform + -er → performer；再加 -s → performers",
+        "做表演或有某种表现的主体"
+      ]
+    ],
+    "explanation": "street performers 街头艺人；young performers 年轻演出者；top performers 表现出色者。",
+    "usage": "the performers on stage 台上的表演者；a group of performers 一组演出者。",
+    "contrast": "performers 不必全是演员，歌手、乐手等也包括在内。top performers 在考试、工作等语境里说表现出色者，不一定在舞台演出。",
+    "examples": [
+      [
+        "The performers waited behind the stage.",
+        "演出者们在后台等候。"
+      ],
+      [
+        "The festival welcomed performers from several towns.",
+        "节庆活动迎来了几个城镇的表演者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/performers#English",
+      "https://en.wiktionary.org/wiki/performer#English"
+    ]
+  },
+  {
+    "word": "poles",
+    "ipa": "英 /pəʊlz/；美 /poʊlz/",
+    "meaning": "杆、柱；两极、极端〔复数〕",
+    "sense": "立起来支撑东西的长杆，是 poles；地球旋转轴两端的极点，也写 poles。现代同形，但这两支要分开记来源。",
+    "split": "杆义接拉丁 palus 早期日耳曼借词及古英语 pal；极点义接希腊 polos 轴，经拉丁 polus、法语相关形式。现代都加复数 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 palus → 日耳曼语、古英语 → pole 杆",
+        "桩、杆；独立一支"
+      ],
+      [
+        "希腊 polos → 拉丁、法语 → pole 极点；各加 -s",
+        "轴端 → 两极；两支同写 poles"
+      ]
+    ],
+    "explanation": "tent poles 帐篷杆；flag poles 旗杆；the north and south poles 南北两极。",
+    "usage": "opposite poles 相对的两极；poles apart 相差极远。",
+    "contrast": "poles apart 借两极距离远说差别大，不必是真地理距离。Pole 首字母大写还可说波兰人，是另一名称来源。",
+    "examples": [
+      [
+        "The tent is supported by two long poles.",
+        "帐篷由两根长杆支撑。"
+      ],
+      [
+        "The two characters are poles apart in temperament.",
+        "这两个角色的性情相差极远。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poles#English",
+      "https://en.wiktionary.org/wiki/pole#English"
+    ]
+  },
+  {
+    "word": "preferences",
+    "ipa": "/ˈprefrənsɪz/",
+    "meaning": "偏好、喜好；优先选择〔复数〕",
+    "sense": "几种选择放在面前，心里更愿意把哪种排在前面，这些选择倾向就是 preferences。系统设置里的 preferences，也是把想要的方式先选好。",
+    "split": "preference 经法语 preference 接中世纪拉丁 preferentia，连 praeferre 放到前面，prae- 加 ferre 带。现代整个名词加 -s，/s/ 后读 /ɪz/。",
+    "history": [
+      [
+        "拉丁 praeferre、preferentia → 法语、英语 preference",
+        "放在前面 → 优先看待、偏爱"
+      ],
+      [
+        "preference + -s → preferences",
+        "多个选择倾向、个人设置"
+      ]
+    ],
+    "explanation": "personal preferences 个人偏好；food preferences 饮食偏好；change the preferences 修改偏好设置。",
+    "usage": "preferences for… 对……的偏好；respect people’s preferences 尊重别人的选择倾向。",
+    "contrast": "preferences 不一定是强烈爱好，也可以只是两者中稍微更愿意选哪一个。软件里通常是可按个人需要调整的一组设置。",
+    "examples": [
+      [
+        "The questionnaire asks about reading preferences.",
+        "问卷询问阅读偏好。"
+      ],
+      [
+        "You can change the display preferences in the menu.",
+        "可以在菜单里修改显示偏好设置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preferences#English",
+      "https://en.wiktionary.org/wiki/preference#English"
+    ]
+  },
+  {
+    "word": "prompted",
+    "ipa": "英 /ˈprɒmptɪd/；美 /ˈprɑːmptɪd/",
+    "meaning": "促使了、引起了；提示了〔过去式、过去分词〕",
+    "sense": "某件事把人从没行动推到开始行动，是 prompted。忘词时有人递给你下一句，也像把需要的话送到眼前。",
+    "split": "prompt 接拉丁 promptus 准备好的，较早 promere 拿出，pro- 向前 + emere 拿，经法语、拉丁进入。现代加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 promere、promptus → 英语 prompt",
+        "拿出、准备在手边 → 提示、推动行动"
+      ],
+      [
+        "prompt + -ed → prompted",
+        "已经引起、促使或给出提示"
+      ]
+    ],
+    "explanation": "prompted a question 引出问题；prompted someone to act 促使某人行动；prompted the actor 给演员提词。",
+    "usage": "prompted by curiosity 由好奇心驱使；when prompted 经提示时。",
+    "contrast": "prompted 常是触发行动，不一定是命令。A question prompted a discussion 只是一个问题引出了讨论。",
+    "examples": [
+      [
+        "Her question prompted a lively discussion.",
+        "她的问题引起了热烈讨论。"
+      ],
+      [
+        "The teacher gently prompted him to continue.",
+        "老师轻声提示他继续说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prompted#English",
+      "https://en.wiktionary.org/wiki/prompt#English"
+    ]
+  },
+  {
+    "word": "qualifications",
+    "ipa": "英 /ˌkwɒlɪfɪˈkeɪʃənz/；美 /ˌkwɑːlɪfɪˈkeɪʃənz/",
+    "meaning": "资格、资历、学历证书〔复数〕；限定条件、保留意见〔复数〕",
+    "sense": "有什么证明你适合做这件事，是 qualifications：学历、训练、经验等都可能算。另一支是给一句话加条件，让它不至于说得太满。",
+    "split": "qualification 经法语接中世纪拉丁 qualificatio、qualificare，qualis 什么性质与 facere 做相关。现代可对照 qualify，但名词独立借入；加复数 -s，尾 /nz/。",
+    "history": [
+      [
+        "拉丁赋予性质材料 → 法语 qualification → 英语借词",
+        "性质说明 → 资格、限制条件"
+      ],
+      [
+        "qualification + -s → qualifications",
+        "多项资历、证书；几条限定或保留"
+      ]
+    ],
+    "explanation": "academic qualifications 学历、学术资历；professional qualifications 专业资格；with some qualifications 有些保留地。",
+    "usage": "relevant qualifications 相关资格、资历；qualifications for a role 任职资格。",
+    "contrast": "qualifications 不只等于证书。经验可能也是资历；表达看法时 qualifications 则可能是补充的限制条件，需看对象。",
+    "examples": [
+      [
+        "The notice lists the qualifications needed for the role.",
+        "通知列出了这个岗位需要的资历。"
+      ],
+      [
+        "She agreed with the idea, but added a few qualifications.",
+        "她赞同这个想法，但补充了几条限定条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/qualifications#English",
+      "https://en.wiktionary.org/wiki/qualification#English"
+    ]
+  },
+  {
+    "word": "rendered",
+    "ipa": "英 /ˈrendəd/；美 /ˈrendərd/",
+    "meaning": "呈现了、译成了；使处于某状态〔过去式、过去分词〕",
+    "sense": "把一种内容、服务或结果交出来，是 rendered 的常用感觉。画面被呈现、句子被译出，或某个变化把东西弄成新状态，都能这样说。",
+    "split": "render 经古法语 rendre 接拉丁 reddere 给回、后来的 rendere 等形式，较早已有交出、使成、呈现等分支。现代直接加完整 -ed，词尾为浊音，读 /d/。",
+    "history": [
+      [
+        "拉丁给回词族 → 古法语 rendre → render",
+        "交出 → 提供、呈现、使成"
+      ],
+      [
+        "render + -ed → rendered",
+        "已经呈现、译出或使成某状态"
+      ]
+    ],
+    "explanation": "rendered in English 译成英语；rendered useless 弄得没用了；rendered the scene 呈现了场景。",
+    "usage": "services rendered 已提供的服务；beautifully rendered 描绘、演绎得优美。",
+    "contrast": "rendered something useless 是使它失去用处；rendered something in blue 是用蓝色呈现它。后面的补语能帮你迅速认清意思。",
+    "examples": [
+      [
+        "The damaged cable rendered the lamp useless.",
+        "损坏的电线使灯无法使用。"
+      ],
+      [
+        "The poem was rendered into simple English.",
+        "这首诗被译成了简单英语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rendered#English",
+      "https://en.wiktionary.org/wiki/render#English"
+    ]
+  },
+  {
+    "word": "rented",
+    "ipa": "/ˈrentɪd/",
+    "meaning": "租用了、租给了；租来的〔过去式、过去分词〕",
+    "sense": "付钱临时使用某样东西，或把自己的东西交给别人付费使用，都可以是 rented。谁拿到使用权，要从主语、宾语和介词判断。",
+    "split": "租赁的 rent 经法语 rente、renter 接收入、应付款相关拉丁材料；与撕裂动词 rend 的同形 rent 分开。现代 rent 加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "法语收入、租用材料 → rent",
+        "应付款、收入 → 租金、租赁动作"
+      ],
+      [
+        "rent + -ed → rented",
+        "已经租入、出租；租来的"
+      ]
+    ],
+    "explanation": "a rented room 租来的房间；rented a bicycle 租了自行车；rented out a flat 把公寓出租了。",
+    "usage": "rented from someone 从某人处租来；rented to someone 租给某人。",
+    "contrast": "rented a house 只看这几词未必能确定是租入还是出租，常由场景补足。out、from、to 能更明确方向。",
+    "examples": [
+      [
+        "We rented two bicycles for the afternoon.",
+        "我们租了两辆自行车，下午使用。"
+      ],
+      [
+        "She rented out the small room above the shop.",
+        "她把店铺楼上的小房间租了出去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rented#English",
+      "https://en.wiktionary.org/wiki/rent#English"
+    ]
+  },
+  {
+    "word": "reversed",
+    "ipa": "英 /rɪˈvɜːst/；美 /rɪˈvɜːrst/",
+    "meaning": "倒转了、颠倒了；改变成相反的〔过去式、过去分词〕",
+    "sense": "方向朝另一边，顺序倒过来，或原来的决定被改成相反结果，就是 reversed。重点是跟原方向相反。",
+    "split": "reverse 动词经古法语 reverser 接后期拉丁 reversare，连拉丁 revertere、reversus 的转回材料。现代去 e 加完整 -ed，/s/ 后读 /t/。",
+    "history": [
+      [
+        "拉丁转回材料 → 法语 reverser → reverse 动词",
+        "转回、翻转 → 使方向、结果相反"
+      ],
+      [
+        "reverse 去 e + -ed → reversed",
+        "已经倒转、改变方向或决定"
+      ]
+    ],
+    "explanation": "reversed the order 颠倒顺序；reversed the decision 改变了决定；reversed the roles 调换角色。",
+    "usage": "reversed direction 反向行进；reversed colours 反转的颜色。",
+    "contrast": "reversed 不只是往后移动，也能是顺序、角色、政策等变成相反。具体哪一项被倒转，要看宾语。",
+    "examples": [
+      [
+        "She reversed the order of the two paragraphs.",
+        "她调换了两段的顺序。"
+      ],
+      [
+        "The characters’ roles were reversed in the final scene.",
+        "最后一幕中，两个角色的处境调了个个儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reversed#English",
+      "https://en.wiktionary.org/wiki/reverse#English"
+    ]
+  },
+  {
+    "word": "robbed",
+    "ipa": "英 /rɒbd/；美 /rɑːbd/",
+    "meaning": "抢劫了、被抢了；被剥夺的〔过去式、过去分词〕",
+    "sense": "本来属于一个人的东西被夺走，是 robbed。可以是财物，也可以比喻安宁、机会、休息被夺走。",
+    "split": "rob 经古法语 rober、较早日耳曼抢掠材料借入中古英语 robben。现代重读短元音后单个 b，双写 b 加完整 -ed；/b/ 后读 /d/。",
+    "history": [
+      [
+        "日耳曼抢掠材料 → 古法语 rober → rob",
+        "夺取财物 → 抢劫；比喻剥夺"
+      ],
+      [
+        "rob 双写 b + -ed → robbed",
+        "已经抢劫、被夺走"
+      ]
+    ],
+    "explanation": "robbed of sleep 被剥夺睡眠；robbed of a chance 失去机会；was robbed 遭抢。",
+    "usage": "robbed someone of something 夺走某人的某物；felt robbed 感到受了不公、被夺走应得之物。",
+    "contrast": "robbed someone of something 把受害者放在前面；stole something 则把偷走的东西直接作宾语。别把两种结构照中文混用。",
+    "examples": [
+      [
+        "The noise robbed her of a good night’s sleep.",
+        "噪声让她一夜没能睡好。"
+      ],
+      [
+        "In the story, the traveller was robbed on the road.",
+        "故事里，旅人在路上遭了抢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/robbed#English",
+      "https://en.wiktionary.org/wiki/rob#English"
+    ]
+  },
+  {
+    "word": "scenarios",
+    "ipa": "英 /sɪˈnɑːriəʊz/；美 /sɪˈnerioʊz/",
+    "meaning": "假设情景、可能局面；剧情梗概〔复数〕",
+    "sense": "先在脑子里摆出一套人物、条件和可能经过，看看事情会怎样，就是 scenarios。它们是设想的局面，不等于预言。",
+    "split": "scenario 借意大利 scenario，接 scena 舞台，较早拉丁 scena、希腊 skene；戏剧情节安排扩大到假设情景。现代常规加 -s，尾 /z/。",
+    "history": [
+      [
+        "希腊 skene → 拉丁 scena → 意大利 scenario → 英语借词",
+        "舞台背景 → 情节安排"
+      ],
+      [
+        "scenario + -s → scenarios",
+        "多套假设情景、可能局面"
+      ]
+    ],
+    "explanation": "possible scenarios 可能局面；different scenarios 不同情景；the best and worst scenarios 最好、最坏的设想。",
+    "usage": "imagine several scenarios 设想几种情景；scenarios for the ending 对结尾的不同设想。",
+    "contrast": "scenarios 常是为了思考先搭出的模型。列出一种坏情景，不是说它一定会发生。",
+    "examples": [
+      [
+        "The class discussed three scenarios for the story’s ending.",
+        "全班讨论了故事结尾的三种可能情景。"
+      ],
+      [
+        "The game lets players explore different scenarios.",
+        "游戏让玩家探索不同情景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scenarios#English",
+      "https://en.wiktionary.org/wiki/scenario#English"
+    ]
+  },
+  {
+    "word": "seniors",
+    "ipa": "英 /ˈsiːniəz/；美 /ˈsiːnjərz/",
+    "meaning": "较年长者、资深者；老年人；毕业年级学生〔复数，依语境〕",
+    "sense": "放在一个群体里，年龄、资历或年级更靠前的人，可以叫 seniors。到底是老人、资深同事还是毕业班学生，要先看群体。",
+    "split": "senior 借拉丁 senior，是 senex 年老的的比较级，比较关系在拉丁语中已存在。英语用作人物名词再加复数 -s，尾 /z/，不是给形容词随意加复数。",
+    "history": [
+      [
+        "拉丁 senex → 比较级 senior → 英语 senior",
+        "较年长的 → 年长、资历较高者"
+      ],
+      [
+        "名词 senior + -s → seniors",
+        "多位年长者、资深者；某些学校毕业年级学生"
+      ]
+    ],
+    "explanation": "high school seniors 美国高中毕业年级学生；college seniors 美国大学毕业年级学生；seniors in the community 社区老年人。",
+    "usage": "seniors and juniors 较高、较低年级或资历者〔看语境〕；activities for seniors 老年人活动。",
+    "contrast": "seniors 并不一概指老人。美式校园里常说最后学年的学生；具体年级制度不能只凭一个词推到所有国家。",
+    "examples": [
+      [
+        "The high school seniors organised the concert.",
+        "高中毕业年级的学生组织了音乐会。"
+      ],
+      [
+        "The centre offers painting classes for seniors.",
+        "中心为老年人开设绘画课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seniors#English",
+      "https://en.wiktionary.org/wiki/senior#English"
+    ]
+  },
+  {
+    "word": "stretched",
+    "ipa": "/stretʃt/",
+    "meaning": "拉长了、伸展了；被拉到极限的〔过去式、过去分词〕",
+    "sense": "把原来缩着、短着的东西往外拉，让它延展开，是 stretched。时间、资源不够却还要应付更多事，也像被拉到很薄。",
+    "split": "stretch 继承古英语 streccan、后来 strecchen 的伸展材料。现代直接加完整 -ed，/tʃ/ 后读 /t/，结尾是 /tʃt/，不加新音节。",
+    "history": [
+      [
+        "古英语 streccan → 中古英语 strecchen → stretch",
+        "拉伸、展开"
+      ],
+      [
+        "stretch + -ed → stretched",
+        "已经拉开；比喻资源、能力被逼近极限"
+      ]
+    ],
+    "explanation": "stretched out 伸展开、躺展开；stretched the fabric 拉伸布料；stretched resources 紧张的资源。",
+    "usage": "stretched across the valley 横贯山谷；stretched too far 被拉得太远、难以支撑。",
+    "contrast": "stretched 可以说真实拉伸，也可以说覆盖一段距离。资源 stretched 则强调负荷重、余地小，不是资源数量变多。",
+    "examples": [
+      [
+        "She stretched the fabric gently.",
+        "她轻轻拉伸布料。"
+      ],
+      [
+        "A narrow bridge stretched across the stream.",
+        "一座窄桥横跨小溪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stretched#English",
+      "https://en.wiktionary.org/wiki/stretch#English"
+    ]
+  },
+  {
+    "word": "tenants",
+    "ipa": "/ˈtenənts/",
+    "meaning": "租户、承租人；租用单位〔复数〕",
+    "sense": "不是拥有房地本身，而是按约定占用、使用它的人或机构，常叫 tenants。可以住在里面，也可以在那里开店、办公。",
+    "split": "tenant 经盎格鲁法语 tenaunt 接法语 tenir 持有的分词 tenant，较早拉丁 tenere。持有土地、使用空间的人发展出承租义。现代加复数 -s，尾 /nts/。",
+    "history": [
+      [
+        "拉丁 tenere → 法语 tenir、tenant → 英语 tenant",
+        "持有 → 持有、使用房地者 → 承租人"
+      ],
+      [
+        "tenant + -s → tenants",
+        "多位租户、多个租用单位"
+      ]
+    ],
+    "explanation": "new tenants 新租户；tenants in the building 楼里的租户；commercial tenants 商业租户。",
+    "usage": "the previous tenants 上一批租户；tenants sharing a house 合租房屋的人。",
+    "contrast": "tenants 不必都是住户，公司租办公室也能是 tenant。landlord 是出租方，两词按租赁关系的不同位置来辨认。",
+    "examples": [
+      [
+        "The new tenants moved in on Monday.",
+        "新租户星期一搬了进来。"
+      ],
+      [
+        "The building has several small businesses as tenants.",
+        "这栋楼的租户包括几家小企业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tenants#English",
+      "https://en.wiktionary.org/wiki/tenant#English"
+    ]
+  },
+  {
+    "word": "transported",
+    "ipa": "英 /trænsˈpɔːtɪd/；美 /trænsˈpɔːrtɪd/",
+    "meaning": "运送了、被运送的；仿佛被带到〔过去式、过去分词〕",
+    "sense": "把人或物从这里带到另一处，是 transported。音乐、故事也能让人仿佛离开眼前，被带回另一个地方或年代。",
+    "split": "transport 经法语 transporter 接拉丁 transportare，trans- 跨过、到另一边 + portare 运送。现代动词加完整 -ed，/t/ 后读 /ɪd/，后重音保留。",
+    "history": [
+      [
+        "拉丁 trans- + portare → transportare → 法语、英语 transport",
+        "运到另一边 → 运送"
+      ],
+      [
+        "transport + -ed → transported",
+        "已经被运走；比喻被带入另一时空或感受"
+      ]
+    ],
+    "explanation": "transported by train 用火车运送；transported to the island 运到岛上；transported back in time 仿佛被带回过去。",
+    "usage": "carefully transported 小心运送；transported the equipment 运送设备。",
+    "contrast": "transported 不只用于远距离，也不自带交通方式；by 后面常补方式。比喻里被带走的是注意力、感受和想象。",
+    "examples": [
+      [
+        "The paintings were transported in wooden crates.",
+        "画作装在木箱中运送。"
+      ],
+      [
+        "The old song transported her back to her school days.",
+        "那首老歌让她仿佛回到了学生时代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transported#English",
+      "https://en.wiktionary.org/wiki/transport#English"
+    ]
+  },
+  {
+    "word": "uniforms",
+    "ipa": "英 /ˈjuːnɪfɔːmz/；美 /ˈjuːnəfɔːrmz/",
+    "meaning": "制服、统一服装〔复数〕",
+    "sense": "同一个学校、职业或组织的人穿同一套规定样式，让身份一眼可认，这些衣服是 uniforms。抓住统一样式。",
+    "split": "uniform 形容词借法语 uniforme，接拉丁 uniformis，uni- 一 + forma 形式；一致的服装省略、转为名词 uniform。现代名词加 -s，/m/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 uni- + forma → uniformis → 法语、英语 uniform",
+        "一个样式 → 一致的"
+      ],
+      [
+        "统一式服装 → 名词 uniform；再加 -s → uniforms",
+        "多套制服"
+      ]
+    ],
+    "explanation": "school uniforms 校服；staff uniforms 工作制服；matching uniforms 同式制服。",
+    "usage": "wear uniforms 穿制服；uniforms for the team 团队统一服装。",
+    "contrast": "uniforms 是衣服名词复数；uniform 作一致的形容词时不这样变复数。uniform colours 里 uniform 仍保持原形。",
+    "examples": [
+      [
+        "The students wore clean uniforms for the concert.",
+        "学生们穿着干净校服参加音乐会。"
+      ],
+      [
+        "The guide shows how the uniforms changed over time.",
+        "指南展示了制服样式如何随时间变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uniforms#English",
+      "https://en.wiktionary.org/wiki/uniform#English"
+    ]
+  },
+  {
+    "word": "workshops",
+    "ipa": "英 /ˈwɜːkʃɒps/；美 /ˈwɜːrkʃɑːps/",
+    "meaning": "工坊、作坊；实践研讨活动、工作坊〔复数〕",
+    "sense": "做东西的房间是 workshops；把一群人聚来边讨论边实际练习的活动，也叫 workshops。两边都带有动手做的感觉。",
+    "split": "workshop 是 work 工作 + shop 工坊、店的英语合成，制作场所名扩展到实践研讨活动。现代整个词后加复数 -s，/p/ 后读 /s/。",
+    "history": [
+      [
+        "work + shop → workshop",
+        "工作的工坊 → 实际制作场所"
+      ],
+      [
+        "活动义扩展；workshop + -s → workshops",
+        "多间工坊；多场实践活动"
+      ]
+    ],
+    "explanation": "writing workshops 写作工作坊；craft workshops 手工实践活动；repair workshops 维修工坊。",
+    "usage": "attend workshops 参加工作坊；workshops for beginners 初学者实践活动。",
+    "contrast": "workshops 不只是任何听讲座的活动，常突出参与、练习、共同做。场所还是活动，要看是在说房间、设备，还是报名、场次。",
+    "examples": [
+      [
+        "The museum offers workshops for beginners.",
+        "博物馆为初学者开设实践工作坊。"
+      ],
+      [
+        "Several small workshops stand behind the main building.",
+        "主楼后面有几间小作坊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workshops#English",
+      "https://en.wiktionary.org/wiki/workshop#English"
+    ]
+  }
+]

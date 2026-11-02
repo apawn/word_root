@@ -1,0 +1,98 @@
+[
+  {
+    "id": "B3421",
+    "meaning": "猜测、不确定的判断",
+    "core": "GUESS：还不确定，先给一个可能答案",
+    "image": "从 guess 到 guessing，再接已有 guesswork，看猜一个答案与靠猜做事的区别。",
+    "intro": "中古英语已有猜测词形，可能接北欧相关形式。现代 I guess 经常弱化成我想、大概。",
+    "forms": "guess → guessing；guess + work → guesswork。\n\nguess 接中古英语 gessen，北欧语与荷兰语等近源分析未定。现代加 -es，/s/ 后读 /ɪz/，猜测复数与第三人称同形。\n\nguess 接中古英语 gessen 与北欧、荷兰语等可能材料，现代加完整 -ed，/s/ 后读 /t/，猜中过去答案和一般推测按语境理解。",
+    "branches": [
+      [
+        "基本判断与过程",
+        "guess · guessing · guesswork"
+      ],
+      [
+        "guess 推测 → guesses",
+        "guesses"
+      ],
+      [
+        "guess 猜测 → guessed",
+        "guessed"
+      ]
+    ],
+    "contrasts": "guess /ɡes/ 不读出 u；I guess so 不是有把握保证；educated guess 是有根据的猜测。",
+    "practice": "Stop guessing and check the timetable.\n\n别猜了，查一下时刻表吧。",
+    "words": [
+      "guess",
+      "guessing",
+      "guesswork",
+      "guesses",
+      "guessed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3427",
+    "meaning": "信任、可靠与托付",
+    "core": "TRUST：觉得靠得住，才敢交出去",
+    "image": "先分谁在信、谁值得被信，再讲把责任交出去的 entrust 和接受职责的 trustee。",
+    "intro": "属日耳曼语信心、支持词族，英语具体传承路线存在争论。现代重点是信任方向，而不是把每个后缀都翻成可信。",
+    "forms": "trust → trusting、trustful；trust + worthy → trustworthy；trust + -y → trusty；dis- → distrust；en- → entrust；-ee → trustee。\n\ntrust 接北欧语可靠、信赖词族，trusted 是规则 -ed 形式；被信任、值得信赖及自己容易信人的三种角度需区分。\n\n日耳曼信心、支持材料的具体传承有不同分析；distrust 与 mistrust 用法重叠，entrust 进一步强调交付责任。",
+    "branches": [
+      [
+        "核心与愿意相信",
+        "trust · trusting · trustful"
+      ],
+      [
+        "值得相信、长期可靠",
+        "trustworthy · trusty"
+      ],
+      [
+        "不信任",
+        "distrust · mistrust"
+      ],
+      [
+        "交托与承担职责",
+        "entrust · trustee"
+      ],
+      [
+        "专门社会经济用法",
+        "antitrust"
+      ],
+      [
+        "trusted：别人愿意把事托付给它",
+        "trust · trusted"
+      ],
+      [
+        "trust 的信任、不信任与交托：常用变化成组",
+        "trust · trusts · trusted · trusting · distrust · distrusts · distrusted · distrusting · mistrust · mistrusts · mistrusted · mistrusting · entrust · entrusts · entrusted · entrusting"
+      ]
+    ],
+    "contrasts": "trusting 愿意信人，trustworthy 值得被信；entrust 是交付，trustee 是职责名。antitrust 的 trust 接企业联合组织义，不是反对日常互信。",
+    "practice": "She entrusted the records to a trustworthy colleague.\n\n她把记录托付给一位可靠的同事。",
+    "words": [
+      "trust",
+      "trusting",
+      "trustful",
+      "trustworthy",
+      "trusty",
+      "distrust",
+      "mistrust",
+      "entrust",
+      "trustee",
+      "antitrust",
+      "trusted",
+      "trusts",
+      "distrusts",
+      "distrusted",
+      "distrusting",
+      "mistrusts",
+      "mistrusted",
+      "mistrusting",
+      "entrusts",
+      "entrusted",
+      "entrusting"
+    ],
+    "exclude": {}
+  }
+]

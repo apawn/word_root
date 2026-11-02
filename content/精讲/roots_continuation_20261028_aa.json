@@ -1,0 +1,181 @@
+[
+  {
+    "id": "B2430",
+    "meaning": "头部；顶端、前端；领头者",
+    "core": "HEAD：身体的头，向外借指最前、最上、领头的部分",
+    "image": "人有头，队伍有领头者，文章有顶部标题，河流也有源头；先认出本词用了哪一种位置。",
+    "intro": "head 接古英语 hēafod 及相关词干，经中古英语多种形式发展。头部、方向、领导与文字顶端几支可以帮助联想，但同形词的不同组合仍需各自查证。",
+    "forms": "先把 head、headed、heading、headless、heady 和方向 ahead、overhead 放一起；再分身体穿戴、负责人、标题、前端和人物比喻。headline → headliner 要相邻，但汽车 headliner 另是 head + liner；headshot 的照片与射击义也不要假画成一条来源链。\n\nhead 与本族 ache 组合，ache 的 ch 在这里读 /k/，现代拼写有历史字源影响。\n\nhead 加 line 的合成，名词复数与主要演出动词三单同形。\n\nforehead、headband 的组合很早已有；headscarf 为头巾名，复数有 headscarves、headscarfs。\n\nset 是装置组合名，具体为话筒耳机还是其他头戴装置，看用途限定。\n\nheading 的 ing 已可组成固定名词；subheading 的 sub 给层级之下。\n\nheadlight 通常指车辆前灯；headlamp 也常指戴在头上的户外灯，具体物体按语境选。\n\n名称经法语、意大利语等接土耳其语 tülbent，远接波斯语相关头巾名称；现代不同文化、款式均可使用这个服饰名，不把词当某单一人群的专属标签。\n\nheadache 承古英语对应复合词，头痛及令人头疼的问题。保留 e 加 -s，ache /eɪk/，复数 /eɪks/。",
+    "branches": [
+      [
+        "基础词与状态、方向",
+        "head · headed · heading · headless · heady · ahead · overhead · headfirst · headway"
+      ],
+      [
+        "头部、穿戴与家居",
+        "forehead · headband · headwear · headpiece · headphone · headphones · headset · headspace · headboard · headrest"
+      ],
+      [
+        "负责人、机构与人数",
+        "headquarters · headmaster · headcount · headhunter · figurehead"
+      ],
+      [
+        "文字标题与身份标识",
+        "headline · headliner · header · masthead · letterhead"
+      ],
+      [
+        "前端、朝向与源头",
+        "headlight · headlamp · headwind · headshot · arrowhead · warhead · headlock · fountainhead · bridgehead · showerhead"
+      ],
+      [
+        "人物、玩偶与外观命名",
+        "redhead · hothead · egghead · airhead · bobblehead · blackhead"
+      ],
+      [
+        "head → headache：头部的持续疼痛，也比喻麻烦",
+        "head · headache"
+      ],
+      [
+        "headline → headlines：顶部标题行到重要新闻",
+        "headline · headlines"
+      ],
+      [
+        "head 的位置、带子与围巾组合",
+        "head · forehead · foreheads · headband · headbands · headscarf · headscarves"
+      ],
+      [
+        "headset → headsets：头戴设备组",
+        "head · headset · headsets"
+      ],
+      [
+        "heading 的标题、方向与下级标题",
+        "heading · headings · subheading · subheadings"
+      ],
+      [
+        "head 的前端和头部进入两种灯名",
+        "headlight · headlights · headlamp · headlamps"
+      ],
+      [
+        "head 对照：turban 缠绕式包头巾",
+        "turban"
+      ],
+      [
+        "head + ache → headaches",
+        "headaches"
+      ]
+    ],
+    "contrasts": "heading 小标题、方向，headline 新闻标题或主打，header 页眉、数据头。headquarters 总部不是四分之一。headphones 常用复数；airhead、headliner、headshot 要看各自分支。",
+    "practice": "The head of the team checked the headings before heading to headquarters.\n\n团队负责人检查了小标题，然后前往总部。",
+    "words": [
+      "head",
+      "headed",
+      "heading",
+      "headless",
+      "heady",
+      "ahead",
+      "overhead",
+      "headfirst",
+      "headway",
+      "forehead",
+      "headband",
+      "headwear",
+      "headpiece",
+      "headphone",
+      "headphones",
+      "headset",
+      "headspace",
+      "headboard",
+      "headrest",
+      "headquarters",
+      "headmaster",
+      "headcount",
+      "headhunter",
+      "figurehead",
+      "headline",
+      "headliner",
+      "header",
+      "masthead",
+      "letterhead",
+      "headlight",
+      "headlamp",
+      "headwind",
+      "headshot",
+      "arrowhead",
+      "warhead",
+      "headlock",
+      "fountainhead",
+      "bridgehead",
+      "showerhead",
+      "redhead",
+      "hothead",
+      "egghead",
+      "airhead",
+      "bobblehead",
+      "blackhead",
+      "headache",
+      "headlines",
+      "foreheads",
+      "headbands",
+      "headscarf",
+      "headscarves",
+      "headsets",
+      "headings",
+      "subheading",
+      "subheadings",
+      "headlights",
+      "headlamps",
+      "turban",
+      "headaches"
+    ],
+    "exclude": {
+      "head-hop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bullet-head": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nut-head": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "head-kicker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dickhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitehead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headgear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shithead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spearhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bulkhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "behead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flathead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headstrong": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hammerhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headteacher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skinhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headwaters": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headdress": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "steelhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headroom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trailhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headbutt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jughead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beachhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "head-scratcher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butthead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pinhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headstock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meathead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bonehead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "copperhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fathead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leatherhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "riverhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headship": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "knucklehead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loggerhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bullhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headcanon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wellhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deadhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headbanging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sheepshead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "broadhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

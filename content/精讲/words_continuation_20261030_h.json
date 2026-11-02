@@ -1,0 +1,583 @@
+[
+  {
+    "word": "reach",
+    "ipa": "/riːtʃ/",
+    "meaning": "到达；够到；联系上；达到；可及范围",
+    "sense": "手伸过去碰得到、人走过去到得了，都是 reach；电话联系到、数字升到某个水平也能用。",
+    "split": "继承古英语 ræcan 伸到、到达。名词可说手、影响或传播所及的范围，不必实体走路。",
+    "history": [
+      [
+        "古英语 ræcan → 中古英语 rechen → reach",
+        "伸到、够到、到达"
+      ],
+      [
+        "现代 reach",
+        "身体可及 → 联系得到；达到数值、协议与能力范围"
+      ]
+    ],
+    "explanation": "reach the station 到车站，reach an agreement 达成协议，reach someone by phone 电话联系某人；out of reach 够不着。",
+    "usage": "reach a place；reach an agreement；reach by phone；out of reach。",
+    "contrast": "reach 作到达常直接接地点，不加 at、to；arrive at the station 与 reach the station 结构不同。",
+    "examples": [
+      [
+        "We reached the village before dark.",
+        "我们天黑前到了村庄。"
+      ],
+      [
+        "I could not reach her by phone.",
+        "我打电话联系不上她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reach#English"
+    ]
+  },
+  {
+    "word": "reaching",
+    "ipa": "/ˈriːtʃɪŋ/",
+    "meaning": "伸向、到达；reach 的进行形式",
+    "sense": "强调正在伸过去、正在接近某个位置或阶段；短语中的动作方向要一起看。",
+    "split": "reach + -ing，规则形成进行、动作形式，不删 ch，也不双写 h。",
+    "history": [
+      [
+        "古英语 ræcan → 中古英语 rechen → reach",
+        "伸到、够到、到达"
+      ],
+      [
+        "现代 reach",
+        "身体可及 → 联系得到；达到数值、协议与能力范围"
+      ],
+      [
+        "reach + -ing → reaching",
+        "正在伸向、达到的动作"
+      ]
+    ],
+    "explanation": "reaching for a cup 伸手去拿杯子，reaching out to someone 主动联系；far-reaching 影响深远的作为正文搭配认识。",
+    "usage": "reaching for；reaching out to；reaching a decision。",
+    "contrast": "reach for 伸手尝试去够，不保证已拿到；reach the cup 侧重已经够到。",
+    "examples": [
+      [
+        "She was reaching for her coat when the phone rang.",
+        "电话响时，她正伸手拿外套。"
+      ],
+      [
+        "The team is reaching out to former volunteers.",
+        "团队正在主动联系从前的志愿者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reaching#English"
+    ]
+  },
+  {
+    "word": "reachable",
+    "ipa": "/ˈriːtʃəbəl/",
+    "meaning": "可到达、可够到的；能联系上的",
+    "sense": "从某个位置、通过某种方式，能够到那里或找到那个人；能力还没变成已完成动作。",
+    "split": "reach + -able，可被到达、接触，现代也常说通信可达。",
+    "history": [
+      [
+        "古英语 ræcan → 中古英语 rechen → reach",
+        "伸到、够到、到达"
+      ],
+      [
+        "现代 reach",
+        "身体可及 → 联系得到；达到数值、协议与能力范围"
+      ],
+      [
+        "reach + -able → reachable",
+        "可以到达、联系上的"
+      ]
+    ],
+    "explanation": "reachable by train 乘火车可达，reachable by phone 电话可联系；easy to reach 常是更日常的替代。",
+    "usage": "reachable by train；reachable by phone；easily reachable。",
+    "contrast": "reachable 可以联系不等于 willing to answer 愿意接听；accessible 也可说可进入、易用，范围不完全同一。",
+    "examples": [
+      [
+        "The island is reachable by ferry.",
+        "这座岛可以乘渡船到达。"
+      ],
+      [
+        "I will be reachable by email during the trip.",
+        "旅途中可以通过邮件联系到我。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reachable#English"
+    ]
+  },
+  {
+    "word": "unreachable",
+    "ipa": "/ʌnˈriːtʃəbəl/",
+    "meaning": "无法到达、够到的；联系不上的",
+    "sense": "距离、障碍或通信状态让你到不了、找不到；不一定永久如此。",
+    "split": "un- 不 + reachable，否定可达性。拆分先认 reach → reachable，再加 un-。",
+    "history": [
+      [
+        "古英语 ræcan → 中古英语 rechen → reach",
+        "伸到、够到、到达"
+      ],
+      [
+        "现代 reach",
+        "身体可及 → 联系得到；达到数值、协议与能力范围"
+      ],
+      [
+        "un- + reachable → unreachable",
+        "可达性的否定 → 无法到达、联系"
+      ]
+    ],
+    "explanation": "an unreachable shelf 够不着的架子，an unreachable goal 难以实现的目标；the server is unreachable 服务器无法连接。",
+    "usage": "an unreachable goal；unreachable by phone；an unreachable server。",
+    "contrast": "unreachable 无法联系与 unwilling 不愿意不同；电话没信号的人可能愿意回复但暂时联系不上。",
+    "examples": [
+      [
+        "The cabin was unreachable after the road washed away.",
+        "道路被冲毁后，无法到达那座小屋。"
+      ],
+      [
+        "His phone was switched off, so he was unreachable.",
+        "他的手机关机了，因此联系不上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unreachable#English"
+    ]
+  },
+  {
+    "word": "overreach",
+    "ipa": "英 /ˌəʊvəˈriːtʃ/；美 /ˌoʊvərˈriːtʃ/",
+    "meaning": "伸得过远；超出能力、权限；过度扩张",
+    "sense": "原本只够这么远，却非要伸到更远处；目标或权力超出自己能稳妥掌握的范围。",
+    "split": "over- 超出 + reach 能力范围。由实际过度伸展形成能力、权力等抽象扩张义。",
+    "history": [
+      [
+        "古英语 ræcan → 中古英语 rechen → reach",
+        "伸到、够到、到达"
+      ],
+      [
+        "现代 reach",
+        "身体可及 → 联系得到；达到数值、协议与能力范围"
+      ],
+      [
+        "over- + reach → overreach",
+        "超出可及范围 → 过度扩张、越权"
+      ]
+    ],
+    "explanation": "overreach yourself 勉强做超出能力的事，government overreach 政府过度干预、越权；名词也常见。",
+    "usage": "overreach yourself；overreach its authority；a case of overreach。",
+    "contrast": "overreach 常评价做过头，reach out 主动联系通常中性或正面；都含 reach，不是同一动作。",
+    "examples": [
+      [
+        "The company overreached itself by opening too many branches.",
+        "公司开分店过多，扩张超出了自身能力。"
+      ],
+      [
+        "Critics said the agency had overreached its authority.",
+        "批评者认为机构超出了权限。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overreach#English"
+    ]
+  },
+  {
+    "word": "soft",
+    "ipa": "英 /sɒft/；美 /sɔːft/、/sɑːft/",
+    "meaning": "柔软的；轻柔的；温和、不强硬的",
+    "sense": "按一下会让开，是材料软；声音不刺耳、态度不强硬，也能借软的感觉来说。",
+    "split": "继承古英语 softe、sefte 等柔软温和词，现代身体触感与感官、态度义并行。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ]
+    ],
+    "explanation": "a soft pillow 软枕头，a soft voice 轻柔声音，soft light 柔光，be soft on someone 对某人宽容。",
+    "usage": "a soft pillow；a soft voice；soft light；soft on。",
+    "contrast": "soft 声音轻柔不等于 slow 语速慢；soft material 柔软也不自动 fragile 易碎。",
+    "examples": [
+      [
+        "The blanket felt warm and soft.",
+        "毯子摸起来温暖柔软。"
+      ],
+      [
+        "She spoke in a soft voice.",
+        "她轻声说话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soft#English"
+    ]
+  },
+  {
+    "word": "softly",
+    "ipa": "英 /ˈsɒftli/；美 /ˈsɔːftli/",
+    "meaning": "轻柔地；轻声地",
+    "sense": "动作、声音不强不硬，让人听着、感受着都比较温和。",
+    "split": "soft + -ly，规则方式副词，保留完整 soft 再加 -ly。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + -ly → softly",
+        "以轻柔方式"
+      ]
+    ],
+    "explanation": "speak softly 轻声说，knock softly 轻轻敲，softly lit 光线柔和的。",
+    "usage": "speak softly；knock softly；softly lit。",
+    "contrast": "softly 修饰动作，soft 修饰声音、材料；a soft voice 与 speak softly 结构相配。",
+    "examples": [
+      [
+        "He knocked softly on the bedroom door.",
+        "他轻轻敲了敲卧室门。"
+      ],
+      [
+        "Music played softly in the background.",
+        "背景里轻轻放着音乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/softly#English"
+    ]
+  },
+  {
+    "word": "softness",
+    "ipa": "英 /ˈsɒftnəs/；美 /ˈsɔːftnəs/",
+    "meaning": "柔软；柔和；软弱、宽松",
+    "sense": "把材料软、声音柔或态度不强硬这项性质单独拿出来说。",
+    "split": "soft + -ness，性质名词。是舒适柔和还是过分宽松，要看搭配与评价。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + -ness → softness",
+        "柔软、温和等性质"
+      ]
+    ],
+    "explanation": "the softness of the fabric 面料柔软度，softness in her voice 声音里的温柔；softness on crime 可批评执法态度宽松。",
+    "usage": "the softness of；a feeling of softness；softness in the voice。",
+    "contrast": "softness 不是每次都负面软弱；柔软布料可优点，具体政策态度则另作评价。",
+    "examples": [
+      [
+        "The fabric is valued for its softness.",
+        "这种面料因柔软而受喜爱。"
+      ],
+      [
+        "There was a new softness in his voice.",
+        "他的声音多了一分柔和。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/softness#English"
+    ]
+  },
+  {
+    "word": "soften",
+    "ipa": "英 /ˈsɒfən/；美 /ˈsɔːfən/",
+    "meaning": "使变软；缓和、变温和",
+    "sense": "硬的变得可弯、可压；态度、语气也可以没那么强硬。",
+    "split": "soft + -en，使变得、变得。常见读音 t 不发出，成为 /ˈsɒfən/ 等，别只按字母一一拼读。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + -en → soften",
+        "变软 → 态度、语气缓和"
+      ]
+    ],
+    "explanation": "soften butter 使黄油变软，soften the tone 缓和语气，soften a stance 软化立场。",
+    "usage": "soften butter；soften the tone；soften a stance。",
+    "contrast": "soften 变化，soft 性质；soften a refusal 可说把拒绝讲得委婉，不是撤回拒绝。",
+    "examples": [
+      [
+        "Leave the butter out to soften.",
+        "把黄油放在外面让它变软。"
+      ],
+      [
+        "She softened her tone when she saw his reaction.",
+        "看到他的反应，她缓和了语气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soften#English"
+    ]
+  },
+  {
+    "word": "software",
+    "ipa": "英 /ˈsɒftweə/；美 /ˈsɔːftwer/",
+    "meaning": "软件",
+    "sense": "电脑上能运行的程序、相关指令，和能摸到的硬件作对照；不是一块摸起来软的机器。",
+    "split": "soft + -ware，仿 hardware 硬件的名称形成对照。soft 表非实体硬件这一命名方向，不等于代码没有物理存储。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + -ware → software",
+        "与硬件对照的程序类称呼 → 软件"
+      ]
+    ],
+    "explanation": "install software 安装软件，software updates 软件更新，a piece of software 一款软件；通常不可数。",
+    "usage": "install software；software updates；a piece of software。",
+    "contrast": "software 不常用 a software 或 many softwares 表多款；用 an application、software packages 等更自然。",
+    "examples": [
+      [
+        "The company develops software for hospitals.",
+        "公司为医院开发软件。"
+      ],
+      [
+        "Please install the latest software update.",
+        "请安装最新的软件更新。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/software#English"
+    ]
+  },
+  {
+    "word": "softball",
+    "ipa": "英 /ˈsɒftbɔːl/；美 /ˈsɔːftbɔːl/",
+    "meaning": "垒球；容易应付的问题或任务的比喻",
+    "sense": "它是一种与棒球相关的运动，名字虽带 soft，实际用球也不是松软玩具球。",
+    "split": "soft + ball，运动命名有自身发展历史。现代采访里的 softball question 借来形容容易答、不尖锐的问题。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + ball → softball",
+        "球类运动名 → 容易应付的提问比喻"
+      ]
+    ],
+    "explanation": "play softball 打垒球，a softball team 垒球队，a softball question 简单不尖锐的问题。",
+    "usage": "play softball；a softball team；a softball question。",
+    "contrast": "softball 不是所有材质软的球；baseball 棒球相关但有各自规则、用球与场地。",
+    "examples": [
+      [
+        "She plays softball for the college team.",
+        "她为大学队打垒球。"
+      ],
+      [
+        "The interviewer began with a softball question about his hobbies.",
+        "采访者先问了一个关于爱好的轻松问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/softball#English"
+    ]
+  },
+  {
+    "word": "softwood",
+    "ipa": "英 /ˈsɒftwʊd/；美 /ˈsɔːftwʊd/",
+    "meaning": "软木类木材；裸子植物来源木材",
+    "sense": "木材类别通常按树木来源分，常见松、杉等；名字不保证每块都比所有硬木更软。",
+    "split": "soft + wood 木材，历史日常软硬形容词形成类别名。现代林业里 softwood 与 hardwood 主要是植物来源分类，不是用指甲按一下的简单排行。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + wood → softwood",
+        "软的木材名称 → 特定树木来源木材类"
+      ]
+    ],
+    "explanation": "softwood timber 软木类木材，softwood species 软木类树种；不是 cork 软木塞材料的直接同义词。",
+    "usage": "softwood timber；softwood species；a softwood frame。",
+    "contrast": "softwood 常为裸子植物木材，hardwood 常为被子植物木材；硬度可重叠，不把名称当绝对硬度承诺。",
+    "examples": [
+      [
+        "The frame is made from softwood.",
+        "框架由软木类木材制成。"
+      ],
+      [
+        "The course compares hardwood and softwood species.",
+        "课程比较硬木类和软木类树种。"
+      ]
+    ],
+    "sources": [
+      "https://www.fpl.fs.usda.gov/documnts/fplgtr/fplgtr282/fpl_gtr282.pdf",
+      "https://en.wiktionary.org/wiki/softwood#English"
+    ]
+  },
+  {
+    "word": "softie",
+    "ipa": "英 /ˈsɒfti/；美 /ˈsɔːfti/",
+    "meaning": "心肠软的人；感情丰富、容易心软的人",
+    "sense": "表面可能严肃，遇到小动物、熟人求情时却容易心软，常带亲昵、打趣。",
+    "split": "soft + -ie，人物昵称后缀，也写 softy。不是材料柔软的所有物件都叫 softie。",
+    "history": [
+      [
+        "古英语 softe、sefte → 中古英语 softe → soft",
+        "柔软、温和"
+      ],
+      [
+        "现代 soft",
+        "材料容易变形 → 声音、态度柔和；硬件的相对软件命名"
+      ],
+      [
+        "soft + -ie → softie",
+        "心软的人物称呼"
+      ]
+    ],
+    "explanation": "a big softie 心肠很软的人，a softie at heart 内心柔软的人。",
+    "usage": "a big softie；a softie at heart；a bit of a softie。",
+    "contrast": "softie 亲昵评价可正面，weak 软弱更直接负面；是否嘲弄要看关系、语气。",
+    "examples": [
+      [
+        "He looks stern, but he is a big softie with animals.",
+        "他看着严肃，对动物却很心软。"
+      ],
+      [
+        "She admitted she was a softie at heart.",
+        "她承认自己内心是个容易心软的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/softie#English"
+    ]
+  },
+  {
+    "word": "staff",
+    "ipa": "英 /stɑːf/；美 /stæf/",
+    "meaning": "全体员工；人员配备；棍杖；五线谱",
+    "sense": "商店里是员工整体，徒步时可能是一根手杖，音乐课里也可能是记谱用的谱表。",
+    "split": "继承古英语 stæf 棍杖等词。参谋、辅助军官群体义受德语 Stab 影响，后来泛指工作人员；不要编成员工必须被棍子驱赶。",
+    "history": [
+      [
+        "古英语 stæf → 中古英语 staf → staff",
+        "棍、杖；也有文字、线条等旧义"
+      ],
+      [
+        "德语 Stab 等影响下的 staff",
+        "参谋人员 → 工作人员集体；不把员工硬说成挨棍子的人"
+      ]
+    ],
+    "explanation": "the teaching staff 教职员工，a member of staff 一名员工，staff a desk 配备服务台人员；a walking staff 手杖。",
+    "usage": "the teaching staff；a member of staff；staff a desk；a musical staff。",
+    "contrast": "员工集体通常 a staff member，不随意说 a staff 指一个人；staff is/are 的选择依美英集体名词习惯和关注整体、成员而变。",
+    "examples": [
+      [
+        "The hotel staff were friendly and helpful.",
+        "酒店员工友好又乐于助人。"
+      ],
+      [
+        "Three people staff the reception desk during the day.",
+        "白天接待台由三人值守。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staff#English"
+    ]
+  },
+  {
+    "word": "staffer",
+    "ipa": "英 /ˈstɑːfə/；美 /ˈstæfər/",
+    "meaning": "工作人员；尤指机构、政治人物的幕僚",
+    "sense": "从员工整体里取一个具体人来称，媒体和美式机构报道常见。",
+    "split": "staff + -er，形成单个工作人员名词。已有 staff 集体名词不等于每次 staffer 都是参谋长。",
+    "history": [
+      [
+        "古英语 stæf → 中古英语 staf → staff",
+        "棍、杖；也有文字、线条等旧义"
+      ],
+      [
+        "德语 Stab 等影响下的 staff",
+        "参谋人员 → 工作人员集体；不把员工硬说成挨棍子的人"
+      ],
+      [
+        "staff + -er → staffer",
+        "员工集体中的个人 → 工作人员"
+      ]
+    ],
+    "explanation": "a senior staffer 高级工作人员，a campaign staffer 竞选工作人员，a museum staffer 博物馆职员。",
+    "usage": "a senior staffer；a campaign staffer；a museum staffer。",
+    "contrast": "staffer 单个可数，staff 员工集体；a staffer 与 a staff member 可在许多语境相近。",
+    "examples": [
+      [
+        "A museum staffer showed us the entrance.",
+        "一位博物馆职员给我们指了入口。"
+      ],
+      [
+        "The reporter spoke to a senior campaign staffer.",
+        "记者采访了一名高级竞选工作人员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staffer#English"
+    ]
+  },
+  {
+    "word": "flagstaff",
+    "ipa": "英 /ˈflæɡstɑːf/；美 /ˈflæɡstæf/",
+    "meaning": "旗杆",
+    "sense": "把旗升起、支起来的长杆，staff 在这里回到棍杖而非员工。",
+    "split": "flag 旗 + staff 杆，按用途直接组合。大写 Flagstaff 还可作地名，词义学习先看普通名词。",
+    "history": [
+      [
+        "古英语 stæf → 中古英语 staf → staff",
+        "棍、杖；也有文字、线条等旧义"
+      ],
+      [
+        "德语 Stab 等影响下的 staff",
+        "参谋人员 → 工作人员集体；不把员工硬说成挨棍子的人"
+      ],
+      [
+        "flag + staff → flagstaff",
+        "挂旗的杆 → 旗杆"
+      ]
+    ],
+    "explanation": "a tall flagstaff 高旗杆，the top of the flagstaff 旗杆顶端；flagpole 是常见同义词。",
+    "usage": "a tall flagstaff；the top of the flagstaff；a flag on a flagstaff。",
+    "contrast": "flagstaff 物件，flag staff 分开临时读也可能误会成人员；固定器物词不要按员工集体义套。",
+    "examples": [
+      [
+        "A flag flew from the tall flagstaff.",
+        "高旗杆上飘着一面旗。"
+      ],
+      [
+        "The old flagstaff stood beside the school gate.",
+        "旧旗杆立在校门旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flagstaff#English"
+    ]
+  }
+]

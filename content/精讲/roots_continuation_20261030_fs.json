@@ -1,0 +1,94 @@
+[
+  {
+    "id": "B2444",
+    "meaning": "给概念划界，再看重新划界或定义问题",
+    "core": "DEFINITION：说清“算什么、不算什么”",
+    "image": "definition → redefinition 重新界定；definitional 与定义有关。",
+    "intro": "定义可以改变看待事物的边界，不只是换个名称。讨论定义时，也要区分 definitional 和 definitive 的用途。",
+    "forms": "dēfīnīre、dēfīnītiō 等 → definition；re- + definition → redefinition；definition + -al → definitional。",
+    "branches": [
+      [
+        "定义基础",
+        "definition"
+      ],
+      [
+        "重新界定与相关性质",
+        "redefinition · definitional"
+      ]
+    ],
+    "contrasts": "redefinition/renaming 改定义与改名；definitional/definitive 定义方面与决定、权威性质。",
+    "practice": "A definitional dispute led to a redefinition of the term.\n\n一场定义争议促成了对这个术语的重新界定。",
+    "words": [
+      "definition",
+      "redefinition",
+      "definitional"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3518",
+    "meaning": "吸引眼光，也吸引兴趣和选择",
+    "core": "ATTRACTIVE：像把注意力拉过来",
+    "image": "attractive → attractively、attractiveness；unattractive 缺少吸引力。",
+    "intro": "美观、价格合意、条件诱人都能是 attractive，别把整族只缩成形容人的长相。",
+    "forms": "attrahere、attract- → attractive；+ -ly/-ness；un- + attractive。",
+    "branches": [
+      [
+        "吸引性质、方式与吸引力",
+        "attractive · attractively · attractiveness"
+      ],
+      [
+        "缺乏吸引力",
+        "unattractive"
+      ]
+    ],
+    "contrasts": "attractively/attractiveness 副词方式与名词；unattractive/impossible 不想选与无法选。",
+    "practice": "Attractive packaging adds to the product’s attractiveness, but an unattractive price can still put people off.\n\n好看的包装会增添产品吸引力，但不诱人的价格仍会让人退却。",
+    "words": [
+      "attractive",
+      "attractively",
+      "attractiveness",
+      "unattractive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3239",
+    "meaning": "长名称缩短成骑车日常用词",
+    "core": "BIKE：先看骑的是自行车还是摩托",
+    "image": "bike → biker；bike + way → bikeway；motorbike、superbike 选摩托类别。",
+    "intro": "bike 短，不等于历史比 bicycle 更早；biker 也不能只凭字形就固定一种交通工具。",
+    "forms": "bicycle 缩短 → bike；bike + -er → biker；bike + way → bikeway；motor/super + bike。\n\nbicycle 的缩短形式，按现代读音与用途学习。",
+    "branches": [
+      [
+        "车辆与骑行动作",
+        "bike"
+      ],
+      [
+        "骑行人物与通道",
+        "biker · bikeway"
+      ],
+      [
+        "摩托组合",
+        "motorbike · superbike"
+      ],
+      [
+        "bike → bikes：短名称与骑车",
+        "bike · bikes"
+      ]
+    ],
+    "contrasts": "biker/cyclist 摩托常见用法与较明确自行车人物；bikeway 不自动保证全程隔离。",
+    "practice": "The mountain biker followed the bikeway beside the river.\n\n山地自行车骑手沿河边自行车道前行。",
+    "words": [
+      "bike",
+      "biker",
+      "bikeway",
+      "motorbike",
+      "superbike",
+      "bikes"
+    ],
+    "exclude": {
+      "e-bike": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "B3134",
+    "meaning": "一次动作、抚摸与动作留下的痕迹，再看固定转义",
+    "core": "STROKE：动作划过一次，或留下一笔",
+    "image": "stroke → masterstroke；keystroke、backstroke、breaststroke 分别看键、游泳动作；sunstroke 另认固定医学名。",
+    "intro": "先用动作把笔画、划桨、抚摸串起来，再把疾病等已经固定的词义单独记，避免用一个比喻包办全部意义。",
+    "forms": "strok 击打名词与 strācian 抚摸动词有历史联系；master 高手，key 键，back 背，breast 胸。\n\nstroke 名词与动词有各自的老词形史，远同属击打、划动等日耳曼材料。现代保留 e 加 -s，/k/ 后读 /s/；常用笔触、划水、抚摸等义分开举例。",
+    "branches": [
+      [
+        "基础与巧妙行动",
+        "stroke · masterstroke"
+      ],
+      [
+        "身体、按键与固定名称",
+        "backstroke · breaststroke · keystroke · sunstroke"
+      ],
+      [
+        "stroke → strokes：一划、笔触与抚摸",
+        "strokes"
+      ]
+    ],
+    "contrasts": "stroke 动词可轻抚，strike 可击打；masterstroke 是妙招；sunstroke 不等于脑卒中。",
+    "practice": "With one confident stroke, she completed what proved to be a masterstroke of design.\n\n她自信地落下一笔，完成了设计中的神来之笔。",
+    "words": [
+      "stroke",
+      "masterstroke",
+      "backstroke",
+      "breaststroke",
+      "keystroke",
+      "sunstroke",
+      "strokes"
+    ],
+    "exclude": {
+      "by-stroke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-stroke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4378",
+    "meaning": "使设备、软件或人就位，另分清分期义的 installment",
+    "core": "INSTALL：安置到位，让设备或职务开始运作",
+    "image": "install → installation、installer、uninstall、reinstall；installment 的常用分期义走相关但不同的法语路径。",
+    "intro": "安装一组看就位与动作方向，分期一组看分批提供。字形接近不代表现代 install 直接派生了所有意义。",
+    "forms": "in- + stallum 位置 → install；-ation 名词，-er 执行者，un- 撤销，re- 再；estaler 等 → 分期 installment。\n\n中世纪拉丁席位词经法语进入英语，就任义和安装义分别发展。\n\ninstall 较早是安置到职务座位，含 in- 在内与 stall 的位置材料。installation 有拉丁名词来源，现代复数可说设施、安装项目、装置艺术。",
+    "branches": [
+      [
+        "安装、过程与执行者",
+        "install · installation · installer"
+      ],
+      [
+        "撤销与重新安装",
+        "uninstall · reinstall"
+      ],
+      [
+        "分期提供的另一支",
+        "installment"
+      ],
+      [
+        "install → installed：放到位到安装",
+        "install · installed"
+      ],
+      [
+        "安置在位置上 → installation → installations",
+        "installations"
+      ]
+    ],
+    "contrasts": "download、install、restart 是不同动作；installment 不要误当现代安装名词。",
+    "practice": "The installer completed the installation, so there was no need to reinstall the app.\n\n安装程序完成了安装，因此无需重装应用。",
+    "words": [
+      "install",
+      "installation",
+      "installer",
+      "uninstall",
+      "reinstall",
+      "installment",
+      "installed",
+      "installations"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2763",
+    "meaning": "口中的牙、器具上的齿，以及咬合、执行力量的比喻",
+    "core": "TOOTH：能咬住的结构，也成为形状与力量的形象",
+    "image": "tooth → toothed、toothless、toothy；sawtooth 看锯齿；toothbrush 等看口腔用品。",
+    "intro": "牙、锯齿、规则有没有牙，分别是身体、形态、能力的三层。先找层次，再记派生词。",
+    "forms": "tōþ → tooth，复数 teeth；-ed 有，-less 无，-y 性质；saw 锯、brush 刷、paste 膏、pick 剔取。\n\ntooth → teeth 是旧 i 变音的遗迹；更早词尾影响前面的元音，词尾后来不见了，元音差别留下。\n\ntooth 在复合词前部通常保留单数形式；复数落在 brush、pick 上。\n\n和 tooth 比较动物牙质材料，不是 tooth 的派生。ivory 经法语、拉丁 eborium、ebur，远源可能涉及非洲语言借入线，不硬造唯一完整路线。\n\n与 tooth 比较名字材料：Bluetooth 技术名借 Harald Bluetooth 的历史绰号，用统一、连接的形象命名。不是按牙齿颜色判断现代设备功能；正式品牌通常写 Bluetooth。",
+    "branches": [
+      [
+        "基础与性质",
+        "tooth · toothed · toothless · toothy"
+      ],
+      [
+        "器具形状与日用品",
+        "sawtooth · toothbrush · toothpaste · toothpick · houndstooth"
+      ],
+      [
+        "tooth 与 teeth：旧复数留下的变元音",
+        "tooth · teeth"
+      ],
+      [
+        "tooth 的清洁工具：牙刷与牙签及复数",
+        "tooth · toothbrush · toothbrushes · toothpick · toothpicks"
+      ],
+      [
+        "ivory：另源的象牙与象牙白",
+        "ivory"
+      ],
+      [
+        "Bluetooth：蓝牙王的绰号借给连接技术",
+        "Bluetooth"
+      ]
+    ],
+    "contrasts": "复数 teeth；toothed 带齿、toothy 常露齿；toothless 的比喻说执行力量。",
+    "practice": "The child put down the toothbrush and gave a toothy grin.\n\n孩子放下牙刷，露齿笑了。",
+    "words": [
+      "tooth",
+      "toothed",
+      "toothless",
+      "toothy",
+      "sawtooth",
+      "toothbrush",
+      "toothpaste",
+      "toothpick",
+      "houndstooth",
+      "teeth",
+      "toothbrushes",
+      "toothpicks",
+      "ivory",
+      "Bluetooth"
+    ],
+    "exclude": {
+      "front-toothless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

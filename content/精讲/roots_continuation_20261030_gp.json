@@ -1,0 +1,156 @@
+[
+  {
+    "id": "B2824",
+    "meaning": "请求、宣布两套旧词合流，现代出价与命令分支",
+    "core": "BID：报出意愿、价格或要求；旧义不能只按拍卖猜",
+    "image": "bid → bidder → outbid；forbid 接旧命令支，表示禁止。",
+    "intro": "把拍卖中的报价链放一起，再单独看禁止。biddan、bēodan 的历史合流，解释了为什么这个短词用途比表面复杂。",
+    "forms": "biddan/bēodan → bid；bid + -er 双写 d；out- + bid；forbēodan → forbid。\n\n古英语 forbeodan，现代 forbid、forbade、forbidden 的不规则变化。\n\n古英语请求、提供两套旧动词合流，名词复数和动词三单同形。\n\nbid 合流古英语 biddan 请求、命令与 beodan 提供、宣布等材料；出价主要接后一线，at your bidding 服从指令接另一线。outbid 的 out- 表超过，常见过去式、分词仍 outbid。\n\nunder- 低于、over- 超过加 bid。underbid 可指比对手报价低或报价不足；overbid 可指报价超过对手或过高。竞买还是供货投标，会影响低价、高价的作用。",
+    "branches": [
+      [
+        "出价者和超过出价",
+        "bid · bidder · outbid"
+      ],
+      [
+        "旧命令支的禁止",
+        "forbid"
+      ],
+      [
+        "forbid → forbidden：旧命令词的排拒方向",
+        "forbid · forbidden"
+      ],
+      [
+        "bid → bids：出价、尝试与吩咐",
+        "bid · bids"
+      ],
+      [
+        "bid：出价、指令与超过别人的报价",
+        "bid · bidding · bidder · bidders · outbid · outbids · outbidding"
+      ],
+      [
+        "underbid、overbid：报价低、高于比较点",
+        "underbid · underbids · underbidding · overbid · overbids · overbidding"
+      ]
+    ],
+    "contrasts": "bid/buyer 报价动作与买方角色；outbid 不保证成交；forbid/prevent 不许与阻止。",
+    "practice": "A rival bidder outbid us, but the rules forbid further bids.\n\n另一名竞标者的出价超过了我们，而规则不准再报价。",
+    "words": [
+      "bid",
+      "bidder",
+      "outbid",
+      "forbid",
+      "forbidden",
+      "bids",
+      "bidding",
+      "bidders",
+      "outbids",
+      "outbidding",
+      "underbid",
+      "underbids",
+      "underbidding",
+      "overbid",
+      "overbids",
+      "overbidding"
+    ],
+    "exclude": {
+      "beadle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3110",
+    "meaning": "细尘、粉屑；掸掉与撒上要看搭配",
+    "core": "DUST：一层细粉，既能清掉，也能撒上",
+    "image": "dust → dusty 落灰；duster 除尘工具；dustbin 垃圾桶；sawdust 锯末；stardust 星尘及比喻。",
+    "intro": "最值得注意的是动词方向。掸架子是把灰拿掉，给糕点 dust with sugar 却把细粉加上；对象和介词告诉你怎么做。",
+    "forms": "dūst → dust；dust + -y/-er/bin；saw/star + dust。\n\n同一粉尘词发展相反处理方向，靠宾语、介词辨认。\n\n这里 pan 为浅盘、容器，不接全景镜头的另一条来源。\n\n去掉灰尘与撒上一层粉，两个方向都真实存在；duster 的工具和衣物用途分别看。\n\ndust 的旧用途留下名称，现代容器不限于装灰尘。\n\n波斯语 khāk 尘土的材料经乌尔都语进入 khaki，英语与 dust 只作词义对照，不表示来自英语 dust。",
+    "branches": [
+      [
+        "基本细尘与形容词",
+        "dust · dusty"
+      ],
+      [
+        "清理工具和容器",
+        "duster · dustbin"
+      ],
+      [
+        "粉尘来源与比喻",
+        "sawdust · stardust"
+      ],
+      [
+        "dust → dusted：去掉灰尘、撒上一层粉",
+        "dust · dusted"
+      ],
+      [
+        "dust + pan → dustpan → dustpans：承接灰尘的浅盘",
+        "dust · dustpan · dustpans"
+      ],
+      [
+        "dust 的双向动作与 duster 的复数",
+        "dust · dusts · dusting · duster · dusters"
+      ],
+      [
+        "dustbin → dustbins：家用炉灰到普通垃圾容器",
+        "dust · dustbin · dustbins"
+      ],
+      [
+        "dust 对照：khaki 的尘土色名称",
+        "khaki"
+      ]
+    ],
+    "contrasts": "dust 掸掉还是撒上看搭配；dusty pink 只是颜色；sawdust 的 saw 是锯。",
+    "practice": "She used a duster to remove sawdust from the dusty shelf.\n\n她用抹尘布清掉了落灰架子上的锯末。",
+    "words": [
+      "dust",
+      "dusty",
+      "duster",
+      "dustbin",
+      "sawdust",
+      "stardust",
+      "dusted",
+      "dustpan",
+      "dustpans",
+      "dusts",
+      "dusting",
+      "dusters",
+      "dustbins",
+      "khaki"
+    ],
+    "exclude": {
+      "dust-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3304",
+    "meaning": "一餐与谷粉是不同旧词支，派生分别跟着走",
+    "core": "MEAL：一顿饭和磨碎谷物，分两条线记",
+    "image": "meal 一餐 → mealtime；谷粉 meal → cornmeal、wholemeal、oatmeal、mealy。",
+    "intro": "中文翻成餐和粉差别很大，英语却同形。组合里先选对是哪支：用餐时间是一餐，燕麦粉、玉米粉用磨谷物那支。",
+    "forms": "古英语 mǣl 时刻、一餐 → meal；古英语 melu 谷粉 → meal；后者与磨碎词族相关；oat/corn/whole + meal；meal + -y。\n\n用餐词与谷粉词有不同来源，本组复数主要说用餐。",
+    "branches": [
+      [
+        "一餐和时间",
+        "meal · mealtime"
+      ],
+      [
+        "谷粉、食物和口感",
+        "oatmeal · cornmeal · wholemeal · mealy"
+      ],
+      [
+        "meal → meals：一顿顿饭",
+        "meal · meals"
+      ]
+    ],
+    "contrasts": "meal 一餐与谷粉分来源；oatmeal/porridge 燕麦特定用法与更宽粥类；mealy/mushy 粉沙与软烂。",
+    "practice": "At mealtime, he chose oatmeal instead of the mealy apple.\n\n吃饭时，他选了燕麦粥，没有吃那只粉沙口感的苹果。",
+    "words": [
+      "meal",
+      "mealtime",
+      "oatmeal",
+      "cornmeal",
+      "wholemeal",
+      "mealy",
+      "meals"
+    ],
+    "exclude": {}
+  }
+]

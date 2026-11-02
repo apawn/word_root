@@ -1,0 +1,702 @@
+[
+  {
+    "word": "coriander",
+    "ipa": "英 /ˌkɒriˈændə/；美 /ˌkɔːriˈændɚ/",
+    "meaning": "香菜；香菜籽〔按搭配〕",
+    "sense": "厨房里的 coriander 可以是香菜，也可以说香菜籽这种调料。英国等地 coriander 说叶子很常见，美式食谱里则常把叶子另叫 cilantro。",
+    "split": "经古法语 coriandre 接拉丁 coriandrum、希腊植物名。与 cilantro 共享更远的拉丁名称背景；植物名远源没有定论。",
+    "history": [
+      [
+        "希腊 koriannon 等植物名 → 拉丁 coriandrum",
+        "更远来源有争议，不能硬拆定论"
+      ],
+      [
+        "拉丁名分别经法语、西班牙语 → coriander、cilantro",
+        "两种现代英语名称有共同较远来源"
+      ]
+    ],
+    "explanation": "fresh coriander 常说新鲜香菜；coriander seeds 是香菜籽；ground coriander 常说磨碎的籽类香料。看修饰词比只记一个中文译名更有用。",
+    "usage": "fresh coriander；coriander seeds；ground coriander。",
+    "contrast": "美式 cilantro 常特别指叶子，coriander 常用于籽；其他地区 coriander 可覆盖整株、叶与籽，不是一条全球统一的分工。",
+    "examples": [
+      [
+        "She sprinkled fresh coriander over the soup.",
+        "她在汤上撒了新鲜香菜。"
+      ],
+      [
+        "The recipe uses ground coriander.",
+        "这份食谱用了磨碎的香菜籽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coriander#English",
+      "https://www.etymonline.com/word/coriander"
+    ]
+  },
+  {
+    "word": "cilantro",
+    "ipa": "英 /sɪˈlæntrəʊ/；美 /sɪˈlɑːntroʊ/、/sɪˈlæntroʊ/",
+    "meaning": "香菜；尤指用作调味的新鲜香菜叶",
+    "sense": "美式食谱里的 cilantro，通常就是要撒在菜上的新鲜香菜叶。它和 coriander 不是两种完全无关的植物名。",
+    "split": "借西班牙语 cilantro、相关 culantro 等形式，远接拉丁 coriandrum。coriander 经法语来，cilantro 经西班牙语来，是同一较远名称的两条借入线。",
+    "history": [
+      [
+        "希腊 koriannon 等植物名 → 拉丁 coriandrum",
+        "更远来源有争议，不能硬拆定论"
+      ],
+      [
+        "拉丁名分别经法语、西班牙语 → coriander、cilantro",
+        "两种现代英语名称有共同较远来源"
+      ]
+    ],
+    "explanation": "fresh cilantro 是新鲜香菜；chopped cilantro 是切碎的香菜；cilantro leaves 是香菜叶。",
+    "usage": "fresh cilantro；chopped cilantro；cilantro leaves。",
+    "contrast": "美国常用 cilantro 说叶子、coriander 说籽；读其他地区食谱时，fresh coriander 也可指这些叶子。",
+    "examples": [
+      [
+        "Add the chopped cilantro just before serving.",
+        "上桌前加入切碎的香菜。"
+      ],
+      [
+        "The salsa contains tomatoes, onion, and cilantro.",
+        "这份莎莎酱里有番茄、洋葱和香菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cilantro#English",
+      "https://www.etymonline.com/word/cilantro",
+      "https://www.merriam-webster.com/dictionary/cilantro"
+    ]
+  },
+  {
+    "word": "nutmeg",
+    "ipa": "英、美 /ˈnʌtmeɡ/",
+    "meaning": "肉豆蔻；穿裆过人〔足球用法〕",
+    "sense": "厨房里的 nutmeg 是芳香的肉豆蔻；球场上 a nutmeg、to nutmeg someone 则常说把球从对手两腿之间穿过去。两个场景分别学。",
+    "split": "香料名经法语坚果、麝香气味的名称材料改形，远有拉丁 nux 坚果与 musky 气味词线。足球用法的具体命名缘由有不同说法，不从香料功效硬推。",
+    "history": [
+      [
+        "古法语坚果 + 麝香气味的材料 → 英语 nutmeg",
+        "借入后拼写、发音改形，先作香料名"
+      ],
+      [
+        "现代足球用法 nutmeg 穿裆",
+        "现代词义已固定，具体命名故事不当定论"
+      ]
+    ],
+    "explanation": "ground nutmeg 是肉豆蔻粉；a little nutmeg 是少量这种香料；nutmeg a defender 是把球从防守者两腿间穿过。",
+    "usage": "ground nutmeg；a little nutmeg；nutmeg a defender。",
+    "contrast": "meg 在这个历史借词里不等于现代 mega- 百万。足球的动作义也不能逐字翻成放肉豆蔻。",
+    "examples": [
+      [
+        "She added a little nutmeg to the sauce.",
+        "她往酱里加了一点肉豆蔻。"
+      ],
+      [
+        "The striker managed to nutmeg the defender.",
+        "那名前锋成功穿了防守球员的裆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nutmeg#English",
+      "https://www.etymonline.com/word/nutmeg"
+    ]
+  },
+  {
+    "word": "thyme",
+    "ipa": "英、美 /taɪm/",
+    "meaning": "百里香",
+    "sense": "叶子小、有香味，常放进烤蔬菜、炖菜里的百里香，英语叫 thyme。读音和 time 时间一样。",
+    "split": "经古法语 thym、thime 等与拉丁 thymum 接希腊 thymon 植物名。更远联系烟、焚香的分析有争议，不直接当作确定词根。",
+    "history": [
+      [
+        "希腊 thymon → 拉丁 thymum → 法语植物名",
+        "更远来源不确定"
+      ],
+      [
+        "英语旧形 time、tyme 等 → thyme",
+        "后来恢复古典 th 拼写，常见英语读音仍为 /t/"
+      ]
+    ],
+    "explanation": "fresh thyme 是新鲜百里香；dried thyme 是干百里香；a sprig of thyme 是一小枝。",
+    "usage": "fresh thyme；dried thyme；a sprig of thyme。",
+    "contrast": "thyme 的 th 常读 /t/，末尾 e 不单独发音；它与 time 同音，却不是时间这个词的另一拼法。",
+    "examples": [
+      [
+        "She added a sprig of thyme to the pot.",
+        "她往锅里加了一小枝百里香。"
+      ],
+      [
+        "The roasted vegetables were seasoned with thyme.",
+        "烤蔬菜用了百里香调味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thyme#English",
+      "https://www.etymonline.com/word/thyme"
+    ]
+  },
+  {
+    "word": "rosemary",
+    "ipa": "英 /ˈrəʊzməri/；美 /ˈroʊzmeri/",
+    "meaning": "迷迭香",
+    "sense": "针状小叶、带浓郁香气，常给烤土豆等食物调味的迷迭香，就是 rosemary。它的旧名字有一幅“海边露水”的画面。",
+    "split": "拉丁 ros 露水 + marinus 海的 → rosmarinus，接英语旧形 rosmarine 等；后来受熟悉的 rose、Mary 词形影响，改成 rosemary。",
+    "history": [
+      [
+        "拉丁 ros 露 + marinus 海的 → rosmarinus",
+        "字面海的露水，具体古代命名缘由不必说死"
+      ],
+      [
+        "rosmarine 等旧形 → rosemary",
+        "英语熟悉词形影响拼写，不是原本由玫瑰与人名组成"
+      ]
+    ],
+    "explanation": "fresh rosemary 是新鲜迷迭香；a sprig of rosemary 是一小枝；rosemary potatoes 是用迷迭香调味的土豆。",
+    "usage": "fresh rosemary；a sprig of rosemary；rosemary potatoes。",
+    "contrast": "现代拼写看起来像 rose + Mary，但远源是拉丁露水、海的材料；记忆画面与真实词史在这里要分开。",
+    "examples": [
+      [
+        "We roasted the potatoes with rosemary.",
+        "我们用迷迭香烤了土豆。"
+      ],
+      [
+        "A pot of rosemary stood beside the kitchen window.",
+        "厨房窗边放着一盆迷迭香。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rosemary#English",
+      "https://www.etymonline.com/word/rosemary"
+    ]
+  },
+  {
+    "word": "sage",
+    "ipa": "英、美 /seɪdʒ/",
+    "meaning": "明智的；智者；鼠尾草〔香草，另源〕",
+    "sense": "sage advice 是明智的建议；a sage 是智者；厨房里的 sage 则是鼠尾草。前两种接智慧，植物名来自另一条词史。",
+    "split": "明智义经古法语 sage 接拉丁 sapere 尝、知味、明智，形容词再名词化为智者。植物义经古法语 sauge 接拉丁 salvia、salvus 健康的名称材料，反映旧药用观念。",
+    "history": [
+      [
+        "拉丁 sapere 尝、知味、明智 → 古法语 sage → sage 明智的",
+        "由有判断、懂得分辨发展为智慧评价"
+      ],
+      [
+        "sage 形容词 → a sage 智者",
+        "形容词可转为指具有相应特质的人"
+      ],
+      [
+        "拉丁 salvia 植物名 → 古法语 sauge → sage 鼠尾草",
+        "独立植物线，不从智者爱吃香草的故事推导"
+      ]
+    ],
+    "explanation": "sage advice 是明智的建议；an ancient sage 是古代智者；fresh sage 是新鲜鼠尾草。三个搭配就能把主要用法分开。",
+    "usage": "sage advice；an ancient sage；fresh sage。",
+    "contrast": "同形同音不保证同源。明智、智者是一组，香草是另一组；看建议、人物还是食材语境。",
+    "examples": [
+      [
+        "She gave me some sage advice.",
+        "她给了我一些明智的建议。"
+      ],
+      [
+        "The story describes an old sage living in the mountains.",
+        "故事写到一位住在山里的老智者。"
+      ],
+      [
+        "The recipe calls for fresh sage.",
+        "这份食谱需要新鲜鼠尾草。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sage#English",
+      "https://www.etymonline.com/word/sage"
+    ]
+  },
+  {
+    "word": "anise",
+    "ipa": "英、美 /ˈænɪs/",
+    "meaning": "茴芹；茴芹籽〔香料〕",
+    "sense": "一种带甘草般香气的植物及其香料，叫 anise。先认茴芹，不把中文里几个带“茴香”的名字都当成同一种。",
+    "split": "经古法语 anis、拉丁 anisum 接希腊 annēson 等植物名，更远来源没有定论。英语作为整词借名使用。",
+    "history": [
+      [
+        "希腊 annēson 等 → 拉丁 anisum → 古法语 anis",
+        "植物名在不同语言中传播、改形"
+      ],
+      [
+        "英语 anise → 植物及其调味种子",
+        "也有 aniseed 这个种子名称"
+      ]
+    ],
+    "explanation": "anise seeds 是茴芹籽；anise flavour 是茴芹味；a little anise 是少量这种香料。",
+    "usage": "anise seeds；anise flavour；biscuits with anise。",
+    "contrast": "star anise 是八角，fennel 常说小茴香；它们的气味可让人联想，但不是 anise 的任意替换拼写。",
+    "examples": [
+      [
+        "The biscuits have a gentle anise flavour.",
+        "这些饼干有淡淡的茴芹香味。"
+      ],
+      [
+        "The recipe uses ground anise seeds.",
+        "这份食谱用了磨碎的茴芹籽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anise#English",
+      "https://www.etymonline.com/word/anise"
+    ]
+  },
+  {
+    "word": "dill",
+    "ipa": "英、美 /dɪl/",
+    "meaning": "莳萝；莳萝叶或籽〔调味用〕",
+    "sense": "细细像羽毛的叶子，常用来给土豆、鱼、腌菜调味；这种香草叫 dill。先和同样细叶的其他香草分别认。",
+    "split": "承古英语 dile、后来的中古英语 dille，是日耳曼植物名。更远来源不明确，不硬拆现代英语词缀。",
+    "history": [
+      [
+        "古英语 dile → 中古英语 dille",
+        "与其他日耳曼语言相关植物名有关系"
+      ],
+      [
+        "现代英语 dill",
+        "说植物，也说相应调味叶、籽，具体看搭配"
+      ]
+    ],
+    "explanation": "fresh dill 是新鲜莳萝；dill seeds 是莳萝籽；dill pickles 是用莳萝等调味的腌黄瓜。",
+    "usage": "fresh dill；dill seeds；dill pickles。",
+    "contrast": "dill 和 anise 在旧植物名记录里曾有范围交叉，不表示现代厨房里的两种香料完全相同；按现代品名与部位辨认。",
+    "examples": [
+      [
+        "She added fresh dill to the potato salad.",
+        "她往土豆沙拉里加了新鲜莳萝。"
+      ],
+      [
+        "The jar was filled with dill pickles.",
+        "罐子里装满了莳萝腌黄瓜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dill#English",
+      "https://www.etymonline.com/word/dill"
+    ]
+  },
+  {
+    "word": "saffron",
+    "ipa": "英、美 /ˈsæfrən/",
+    "meaning": "藏红花香料；橙黄色",
+    "sense": "常见细细的红色丝状香料，放进食物能带来香气和黄色调，这种调料叫 saffron；词也可借来描述相近颜色。",
+    "split": "经古法语 safran、中世纪拉丁 safranum 等，远接阿拉伯语 zaʿfarān 的香料名。更远来源不明确，不按现代英语拆出 saff、ron。",
+    "history": [
+      [
+        "阿拉伯语 zaʿfarān → 中世纪拉丁、古法语香料名",
+        "借入时声音、拼写变化"
+      ],
+      [
+        "英语 saffron → 香料、植物及相应颜色用法",
+        "由物品颜色延伸颜色名称"
+      ]
+    ],
+    "explanation": "saffron rice 是用藏红花等做的饭；saffron threads 是香料丝；a saffron colour 是橙黄色调。",
+    "usage": "saffron rice；saffron threads；a saffron colour。",
+    "contrast": "saffron 说香料时不等于普通红花 safflower；颜色用法则只描述外观，不能倒推物品一定含这种香料。",
+    "examples": [
+      [
+        "The rice was flavoured with saffron.",
+        "这份米饭用了藏红花调味。"
+      ],
+      [
+        "She wore a scarf in a warm saffron colour.",
+        "她戴着一条暖橙黄色围巾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saffron#English",
+      "https://www.etymonline.com/word/saffron"
+    ]
+  },
+  {
+    "word": "cardamom",
+    "ipa": "英 /ˈkɑːdəməm/；美 /ˈkɑːrdəməm/",
+    "meaning": "小豆蔻；豆蔻香料",
+    "sense": "香料荚里包着小种子，闻起来芳香，常用于茶、咖喱、烘焙等；这种香料叫 cardamom。先记整体名称和香料形象。",
+    "split": "经法语 cardamome、拉丁 cardamomum 接希腊 kardamōmon，旧名称含 kardamon 水芹类植物名与 amōmon 香料植物名的材料。",
+    "history": [
+      [
+        "希腊 kardamon + amōmon → kardamōmon",
+        "古植物、香料名称材料组合，现代物种不能逐词硬对照"
+      ],
+      [
+        "拉丁、法语 → 英语 cardamom",
+        "借入后作为现代香料名整体使用"
+      ]
+    ],
+    "explanation": "cardamom pods 是豆蔻荚；ground cardamom 是豆蔻粉；tea with cardamom 是加豆蔻的茶。",
+    "usage": "cardamom pods；ground cardamom；tea with cardamom。",
+    "contrast": "不同植物也可能被中文统称豆蔻；英语 cardamom 的具体种类、部位要看补充说明，别仅凭中文名字互换。",
+    "examples": [
+      [
+        "She added cardamom to the tea.",
+        "她往茶里加了豆蔻。"
+      ],
+      [
+        "The buns were flavoured with ground cardamom.",
+        "这些小面包用了豆蔻粉调味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cardamom#English",
+      "https://www.etymonline.com/word/cardamom"
+    ]
+  },
+  {
+    "word": "cayenne",
+    "ipa": "英 /kaɪˈen/；美 /kaɪˈɛn/，也读 /keɪˈɛn/",
+    "meaning": "卡宴辣椒；卡宴辣椒粉〔常缩 cayenne pepper〕",
+    "sense": "厨房里一小撮红色辣椒粉，有时就叫 cayenne。先抓食谱中辣椒调味料的具体用途。",
+    "split": "常见词源分析追到图皮语 kyynha 辣椒名，英语形式又受 Cayenne 地名联想影响。不能仅因今天拼写相同，就断言原词必定直接取自城市名。",
+    "history": [
+      [
+        "图皮语植物名 kyynha 等 → 欧洲语言的辣椒名称",
+        "常见来源分析中的美洲植物名材料"
+      ],
+      [
+        "与 Cayenne 地名相联系的拼写 → cayenne pepper、cayenne",
+        "现代常缩指相应辣椒、辣椒粉"
+      ]
+    ],
+    "explanation": "a pinch of cayenne 是一小撮卡宴辣椒粉；cayenne pepper 是完整常见名称；add cayenne to the soup 是加这种辣椒粉调味。",
+    "usage": "cayenne pepper；a pinch of cayenne；a little cayenne。",
+    "contrast": "black pepper 是黑胡椒，cayenne pepper 是辣椒一类；英语 pepper 用名较宽，不代表它们是同一植物。",
+    "examples": [
+      [
+        "She added a pinch of cayenne to the soup.",
+        "她往汤里加了一小撮卡宴辣椒粉。"
+      ],
+      [
+        "The sauce contains garlic and cayenne.",
+        "这种酱里有蒜和卡宴辣椒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cayenne#English",
+      "https://www.etymonline.com/word/cayenne",
+      "https://www.merriam-webster.com/dictionary/cayenne"
+    ]
+  },
+  {
+    "word": "jalapeno",
+    "ipa": "英 /ˌhæləˈpeɪnjəʊ/；美 /ˌhɑːləˈpeɪnjoʊ/",
+    "meaning": "墨西哥哈拉佩尼奥辣椒〔jalapeño 的无附加符号拼写〕",
+    "sense": "常见绿色、较短粗的那类墨西哥辣椒，菜单上可写 jalapeno。它和 jalapeño 通常是同一个名称的两种写法。",
+    "split": "借西班牙语 jalapeño，名字含 Jalapa／Xalapa 地名 + -eño 来自、有关的材料；英语书写可省掉 ñ 上的附加符号。",
+    "history": [
+      [
+        "墨西哥 Jalapa／Xalapa 地名 + 西班牙语 -eño 相关的",
+        "jalapeño 是原语言地名形容材料用于辣椒名"
+      ],
+      [
+        "西班牙语 jalapeño → 英语 jalapeño、jalapeno",
+        "保留 ñ 或省去附加符号的常见写法"
+      ]
+    ],
+    "explanation": "a jalapeno 是一个这种辣椒；jalapeno slices 是切片；pickled jalapeno 是腌制的这种辣椒。名称不负责保证某一固定辣度。",
+    "usage": "a jalapeno；jalapeno slices；pickled jalapeno。",
+    "contrast": "常见英语读音仍有 /nj/，不是看到没有 ñ 就必须读成普通 /n/；拼写省符号不必带来新的词义。",
+    "examples": [
+      [
+        "She sliced a jalapeno for the salsa.",
+        "她切了一个哈拉佩尼奥辣椒来做莎莎酱。"
+      ],
+      [
+        "The sandwich came with jalapeno slices.",
+        "这份三明治配了哈拉佩尼奥辣椒片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jalapeno#English",
+      "https://www.etymonline.com/word/jalapeno"
+    ]
+  },
+  {
+    "word": "jalapeño",
+    "ipa": "英 /ˌhæləˈpeɪnjəʊ/；美 /ˌhɑːləˈpeɪnjoʊ/",
+    "meaning": "墨西哥哈拉佩尼奥辣椒",
+    "sense": "写着 ñ 的 jalapeño，和英文菜单上省符号的 jalapeno 通常说同一种辣椒。原西班牙语拼写更明显地保留了这个特殊字母。",
+    "split": "Jalapa／Xalapa 地名 + 西班牙语 -eño 相关的、来自的 → jalapeño；英语整体借作辣椒名，常保留 ñ。",
+    "history": [
+      [
+        "墨西哥 Jalapa／Xalapa 地名 + 西班牙语 -eño 相关的",
+        "jalapeño 是原语言地名形容材料用于辣椒名"
+      ],
+      [
+        "西班牙语 jalapeño → 英语 jalapeño、jalapeno",
+        "保留 ñ 或省去附加符号的常见写法"
+      ]
+    ],
+    "explanation": "a jalapeño 是一个这种辣椒；jalapeño peppers 是这类辣椒；sliced jalapeño 是切片的辣椒。",
+    "usage": "a jalapeño；jalapeño peppers；sliced jalapeño。",
+    "contrast": "ñ 是原语言的独立字母，常与英语近似 /nj/ 的读法相对应；不是给英语 n 随意加一个强调符号。",
+    "examples": [
+      [
+        "I added a sliced jalapeño to the filling.",
+        "我往馅料里加了一个切片的哈拉佩尼奥辣椒。"
+      ],
+      [
+        "The menu offers a jalapeño sauce.",
+        "菜单上有一种哈拉佩尼奥辣椒酱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jalapeño#English",
+      "https://www.etymonline.com/word/jalapeno"
+    ]
+  },
+  {
+    "word": "chili",
+    "ipa": "英 /ˈtʃɪli/；美 /ˈtʃɪli/",
+    "meaning": "辣椒；辣椒炖菜〔常见美式拼写〕",
+    "sense": "a chili pepper 说一根辣椒；a bowl of chili 则常是一碗带辣椒调味的炖菜，常有肉、豆等配料，也有别的版本。",
+    "split": "经西班牙语等借纳瓦特尔语 chilli 辣椒名；英语有 chili、chilli、chile 等形式，后来也缩指 chili con carne 等相关菜肴。",
+    "history": [
+      [
+        "纳瓦特尔语 chilli 辣椒 → 西班牙语等传播形式",
+        "美洲植物的名称借入"
+      ],
+      [
+        "英语 chili、chilli → 辣椒，也可缩指相关炖菜",
+        "复数形随拼写变化，常见 chillies、chilies 等"
+      ]
+    ],
+    "explanation": "chili peppers 是辣椒；chili sauce 是辣椒酱；a bowl of chili 是一碗辣椒炖菜。先看在说原料还是整道菜。",
+    "usage": "chili peppers；chili sauce；a bowl of chili。",
+    "contrast": "chili 辣椒的名字不取自国家 Chile；chilly 寒冷的又来自 chill 的另一词线。相近拼写不能直接套同源。",
+    "examples": [
+      [
+        "She added a chopped chili to the sauce.",
+        "她往酱里加了一个切碎的辣椒。"
+      ],
+      [
+        "We had a bowl of chili for lunch.",
+        "我们午餐吃了一碗辣椒炖菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chili#English",
+      "https://www.etymonline.com/word/chili"
+    ]
+  },
+  {
+    "word": "chilli",
+    "ipa": "英、美 /ˈtʃɪli/",
+    "meaning": "辣椒；辣椒炖菜〔常见英式等拼写〕",
+    "sense": "英国等地常写 chilli，美国常写 chili；多一个 l，不表示一定更辣或是另一种植物。",
+    "split": "同样借纳瓦特尔语 chilli 的植物名，经西班牙语等传播；英语保留双 l 的 chilli 与单 l 的 chili。常见复数写 chillies。",
+    "history": [
+      [
+        "纳瓦特尔语 chilli 辣椒 → 西班牙语等传播形式",
+        "美洲植物的名称借入"
+      ],
+      [
+        "英语 chili、chilli → 辣椒，也可缩指相关炖菜",
+        "复数形随拼写变化，常见 chillies、chilies 等"
+      ]
+    ],
+    "explanation": "a red chilli 是一个红辣椒；chilli sauce 是辣椒酱；chilli con carne 是常见辣椒肉炖菜名。",
+    "usage": "a red chilli；chilli sauce；chilli powder。",
+    "contrast": "拼写差别不是辣度等级；chilli powder 在不同产品、食谱里配方可能不同，读完整描述更清楚。",
+    "examples": [
+      [
+        "He chopped a red chilli for the noodles.",
+        "他切了一个红辣椒来配面条。"
+      ],
+      [
+        "The sauce has a strong chilli flavour.",
+        "这份酱的辣椒味很浓。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chilli#English",
+      "https://www.etymonline.com/word/chili"
+    ]
+  },
+  {
+    "word": "chillies",
+    "ipa": "英、美 /ˈtʃɪliz/",
+    "meaning": "辣椒〔chilli 的常见复数〕",
+    "sense": "一根是 a chilli，几根是 chillies。常见英式食谱、买菜场景里会见到这个复数。",
+    "split": "chilli 的常见复数拼写 chillies；从字母看在单数后加 -es，读音只加 /z/，不另添 /ɪz/ 音节。这里的单数本来以 i 结尾。",
+    "history": [
+      [
+        "纳瓦特尔语 chilli 辣椒 → 西班牙语等传播形式",
+        "美洲植物的名称借入"
+      ],
+      [
+        "英语 chili、chilli → 辣椒，也可缩指相关炖菜",
+        "复数形随拼写变化，常见 chillies、chilies 等"
+      ],
+      [
+        "chilli → 常见复数 chillies",
+        "拼写加 -es，元音后复数读 /z/"
+      ]
+    ],
+    "explanation": "red chillies 是红辣椒；dried chillies 是干辣椒；two chillies 是两个辣椒。",
+    "usage": "red chillies；dried chillies；two chillies。",
+    "contrast": "单 l 的 chili 常见复数 chilies；双 l 的 chilli 常见复数 chillies。两条拼写各自配套，别把 l 数量和词义混在一起。",
+    "examples": [
+      [
+        "The market stall sold red and green chillies.",
+        "市场摊位卖红辣椒和青辣椒。"
+      ],
+      [
+        "She added two dried chillies to the pot.",
+        "她往锅里加了两个干辣椒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chillies#English",
+      "https://www.etymonline.com/word/chili"
+    ]
+  },
+  {
+    "word": "mace",
+    "ipa": "英、美 /meɪs/",
+    "meaning": "棍棒；礼仪权杖；肉豆蔻种衣香料〔另源〕",
+    "sense": "博物馆里的 mace 可能是棍棒或礼仪权杖；厨房里的 mace 却是一种来自肉豆蔻种子外层种衣的香料。两个同形词分开认。",
+    "split": "器物义经古法语 mace 接拉丁槌、棍棒名称材料。香料义接古法语 macis，进入英语时被误当复数而去掉 -s，远源不明确。",
+    "history": [
+      [
+        "古法语 mace 棍、杖 → 英语 mace 器物名",
+        "又用于仪式中象征职权的权杖"
+      ],
+      [
+        "古法语 macis 香料名 → 英语 mace",
+        "被重新分析为复数而去 -s，是另一来源线"
+      ]
+    ],
+    "explanation": "a ceremonial mace 是礼仪权杖；ground mace 是这种香料的粉末；现代大写 Mace 还可见于喷雾产品名称，属器物名联想的另一后续用法。",
+    "usage": "a ceremonial mace；ground mace；a little mace。",
+    "contrast": "nutmeg 常说肉豆蔻的种子香料，mace 香料则是其种衣部分；同一植物的不同部位又用了两个名称。",
+    "examples": [
+      [
+        "The museum displayed a ceremonial mace.",
+        "博物馆展出了一根礼仪权杖。"
+      ],
+      [
+        "The recipe uses a little ground mace.",
+        "这份食谱用了少量肉豆蔻种衣粉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mace#English",
+      "https://www.etymonline.com/word/mace"
+    ]
+  },
+  {
+    "word": "ottoman",
+    "ipa": "英 /ˈɒtəmən/；美 /ˈɑːtəmən/",
+    "meaning": "软垫脚凳；无靠背软垫座椅",
+    "sense": "沙发前一张带软垫的小凳子，可以搁脚，有时也能坐，常叫 ottoman。它的旧命名背景与奥斯曼式坐卧家具的形象有关。",
+    "split": "家具名接 Ottoman 奥斯曼的风格名称，经法语等传播；先用于某类无靠背、无扶手软座，后来也指较小脚凳。更远名称与 Osman／ʿUthmān 的人名背景有关。",
+    "history": [
+      [
+        "Ottoman 风格名称 → 某类无靠背软垫坐卧家具",
+        "名称反映当时的风格联想"
+      ],
+      [
+        "家具用法 ottoman → 小型软垫脚凳、矮座",
+        "现代普通家具名常小写"
+      ]
+    ],
+    "explanation": "a leather ottoman 是皮面软垫凳；put your feet on the ottoman 是把脚搁在脚凳上；a storage ottoman 还可有收纳功能。",
+    "usage": "a leather ottoman；a storage ottoman；an ottoman beside the sofa。",
+    "contrast": "ottoman 家具与 Ottoman 历史名称有命名关系；现代不是每一张 ottoman 都在土耳其制作，也不能凭名字断定都有同一结构。",
+    "examples": [
+      [
+        "She rested her feet on the ottoman.",
+        "她把脚搁在软垫脚凳上。"
+      ],
+      [
+        "A small ottoman stood beside the sofa.",
+        "沙发旁放着一张小软垫凳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ottoman#English",
+      "https://www.etymonline.com/word/Ottoman",
+      "https://www.merriam-webster.com/dictionary/ottoman"
+    ]
+  },
+  {
+    "word": "sofa",
+    "ipa": "英 /ˈsəʊfə/；美 /ˈsoʊfə/",
+    "meaning": "沙发",
+    "sense": "客厅里能让几个人并排坐、带软垫靠背的长座位，就是 sofa。先认熟悉家具，再看名称怎样从坐台走到沙发。",
+    "split": "经土耳其语 sofa 接阿拉伯语 ṣuffa 长凳、坐台等名称。早期英语可说铺地毯、软垫的抬高坐台，后来固定用于软垫长座。",
+    "history": [
+      [
+        "阿拉伯语 ṣuffa 坐台、长凳 → 土耳其语 sofa",
+        "坐卧空间、家具名称传播"
+      ],
+      [
+        "英语旧坐台用法 → sofa 软垫长座",
+        "现代常见义就是客厅沙发"
+      ]
+    ],
+    "explanation": "sit on the sofa 是坐沙发上；a sofa bed 是能用作床的沙发；a sofa cushion 是沙发靠垫、坐垫。",
+    "usage": "sit on the sofa；a sofa bed；a sofa cushion。",
+    "contrast": "sofa、couch 在很多现代日常场景可指相近家具；历史某些结构区别不能生硬套在每个现代产品上。",
+    "examples": [
+      [
+        "We sat on the sofa and talked.",
+        "我们坐在沙发上聊天。"
+      ],
+      [
+        "The room has a sofa that opens into a bed.",
+        "房间里有一张能展开成床的沙发。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sofa#English",
+      "https://www.etymonline.com/word/sofa"
+    ]
+  },
+  {
+    "word": "divan",
+    "ipa": "英 /dɪˈvæn/、/ˈdaɪvæn/；美 /dɪˈvæn/、/ˈdaɪˌvæn/",
+    "meaning": "无靠背长软座；软垫床具〔按语境〕；旧官署议事机构、诗集〔历史等用法〕",
+    "sense": "家具里的 divan 常是没有普通沙发式靠背的长软座，也能在床具语境使用。名字更远却从文书、账簿走来，是一条跨越很大的词义路线。",
+    "split": "远接波斯语 dīvān 文书、账簿等材料，经阿拉伯语、土耳其语传播。名称从账簿、办事机构、议事厅，联系到厅里沿墙的长软座；另保留诗集等用法。",
+    "history": [
+      [
+        "波斯语 dīvān 文书、账簿等 → 阿拉伯语、土耳其语相关名称",
+        "由记录联系账务机构、官署议事空间"
+      ],
+      [
+        "议事厅里的长软座 → 英语 divan 家具义",
+        "机构、厅堂、家具的相邻关系帮助理解意义转移"
+      ],
+      [
+        "现代 divan 的坐卧家具用法",
+        "另有诗集、历史机构等语境，不由家具义硬推"
+      ]
+    ],
+    "explanation": "a divan by the wall 是靠墙长软座；a divan bed 在英式等语境中说相应软垫床具；历史文献中的 divan 也可能是机构、诗集名称。",
+    "usage": "a divan by the wall；a divan bed；a cushioned divan。",
+    "contrast": "这里的箭头是名称随着相邻事物转移，不是一本账簿真的变成家具；读到具体词义仍需看时代、领域。",
+    "examples": [
+      [
+        "A cushioned divan stood along one wall.",
+        "一面墙边放着一张长软座。"
+      ],
+      [
+        "The guest room has a divan bed.",
+        "客房里有一张软垫床。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/divan#English",
+      "https://www.etymonline.com/word/divan",
+      "https://www.merriam-webster.com/dictionary/divan"
+    ]
+  }
+]

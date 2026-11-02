@@ -5,7 +5,7 @@
     "core": "COR / CORD = HEART",
     "image": "心里有勇气，心意能相合，也能把事情记在心中",
     "intro": "**cor-/cord-** 来自拉丁语 **cor**“心”，变化形式里出现 **cord-**。这里的心不仅是器官，也承载记忆、意志和情感：把事情放回心里是 record 的历史起点；给人勇气是 encourage；心意走到一起是 concord，分开则是 discord。",
-    "forms": "**cor** 的属格是 **cordis**，所以不是英语随意给 cor 加上 d。经法语的 corage 留下 courage，相关动词留下 encourage、discourage。**core** 的早期来源有争议，本页保留为辨析词，图从已知的中古英语开始，不能拿它证明所有 core 都来自 cor。\n\n心形词更直接：cordate 与 cordiform 描述心形；obcordate 则把与叶柄相接的方向倒过来。\n\n![cordate 与 obcordate：看叶柄接在哪一端](../assets/meaning/cordate-obcordate.svg)",
+    "forms": "**cor** 的属格是 **cordis**，所以不是英语随意给 cor 加上 d。经法语的 corage 留下 courage，相关动词留下 encourage、discourage。**core** 的早期来源有争议，本页保留为辨析词，图从已知的中古英语开始，不能拿它证明所有 core 都来自 cor。\n\n心形词更直接：cordate 与 cordiform 描述心形；obcordate 则把与叶柄相接的方向倒过来。\n\n![cordate 与 obcordate：看叶柄接在哪一端](../assets/meaning/cordate-obcordate.svg)\n\nrecord 接拉丁 recordārī 记住，历史 re- 与 cord- 心相关；records 名词、动词通常靠重音区分。\n\n回想、记住的词族，经记录扩展到文字、声音、影像；动词后重。\n\n拉丁心与记忆的历史比喻，经法语发展为记录，录音义后来形成。\n\n法语 en 与 corage 胆量，连到拉丁心的词族。\n\n拉丁心、记住材料经法语；录制过程转可数成果。\n\n记忆、记录支有法语 recordour 等借入史，后来有仪器义；竖笛名接旧 record 练唱、重复曲调，不从现代录音机倒推。\n\nrerecord、prerecord 在已经固定的录制动词上添前缀；camcorder 混合 camera、recorder，不把 camera 也解释成心的来源。\n\n古法语 corage 接心的词族，encourage 使有勇气，discourage 使失勇气、劝阻；不把 discourage 拆成 dis- 加完整 encourage。",
     "branches": [
       [
         "记在心中",
@@ -30,6 +30,38 @@
       [
         "心的外形与怜悯",
         "cordate · obcordate · misericord"
+      ],
+      [
+        "record → records：记录、唱片；记录下来",
+        "record · records"
+      ],
+      [
+        "record → recorded：回放到记忆与把信息留下",
+        "record · recorded"
+      ],
+      [
+        "record → recorded → recording：记住与保存声音、内容",
+        "record · recorded · recording"
+      ],
+      [
+        "encourage → encouraged：把勇气放进去",
+        "encourage · encouraged"
+      ],
+      [
+        "record → recording → recordings：保存与录制品",
+        "record · recording · recordings"
+      ],
+      [
+        "recorder 的记录器与竖笛两条近源",
+        "record · recorder · recorders"
+      ],
+      [
+        "record 的再次、提前录制与 camcorder 混成",
+        "record · rerecord · rerecords · rerecorded · rerecording · prerecord · prerecords · prerecorded · prerecording · recorder · camcorder · camcorders"
+      ],
+      [
+        "courage 的心、胆量进入鼓励与劝阻",
+        "encourage · encourages · discourage · discourages · discouraged"
       ]
     ],
     "contrasts": "**encourage / discourage**：给人信心或促进行为 / 使人泄气或劝阻。\n\n**accord / concord**：都与一致相连；accord 常指协议或符合，concord 更突出和睦、协调。\n\n**cordial / cordiality / cordiform**：热诚的 / 热诚 / 心形的。\n\n**record** 名词重音在前，动词重音在后。现代录音技术出现得晚，词本身的记忆历史很早。\n\n**core** 意义上像“中心、心脏”，但远源不确定；同形近义不等于已经证实同源。",
@@ -63,7 +95,27 @@
       "cordiform",
       "obcordate",
       "misericord",
-      "scordatura"
+      "scordatura",
+      "records",
+      "recorded",
+      "recording",
+      "encouraged",
+      "recordings",
+      "recorder",
+      "recorders",
+      "rerecord",
+      "rerecords",
+      "rerecorded",
+      "rerecording",
+      "prerecord",
+      "prerecords",
+      "prerecorded",
+      "prerecording",
+      "camcorder",
+      "camcorders",
+      "encourages",
+      "discourages",
+      "discouraged"
     ]
   }
 ]

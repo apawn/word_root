@@ -1,0 +1,564 @@
+[
+  {
+    "word": "strap",
+    "ipa": "/stræp/",
+    "meaning": "带、背带、肩带；用带捆住、固定",
+    "sense": "包上的肩带、手表带、行李固定带，都是 strap：长而窄、能绕住或挂住东西的柔性条带。它也能作动词，直接说用带固定。",
+    "split": "由较早 strope、stroppe 等变来，历史涉及古英语 strop、法语 estrope，上接拉丁语带、套带词，再联系希腊语绳索、扭转材料。现代材料不限皮革。",
+    "history": [
+      [
+        "古英语 strop、法语 estrope 等 → 中古英语 strope、stroppe → strap",
+        "长窄带、套带，较早上游有拉丁、希腊绳索材料"
+      ],
+      [
+        "strap 名词 → 用带固定；+ -less、-y",
+        "没有肩带；带子构成的、有细带的"
+      ]
+    ],
+    "explanation": "a shoulder strap 肩带；a watch strap 表带；strap luggage down 把行李用带固定；strap in 用带系住。",
+    "usage": "a shoulder strap；a watch strap；strap down。",
+    "contrast": "strap 常强调带状、承重或固定用途，string 通常是更细的绳、线；belt 还常特指腰带等。",
+    "examples": [
+      [
+        "The bag has an adjustable shoulder strap.",
+        "包有一条可调节肩带。"
+      ],
+      [
+        "They strapped the luggage to the rack.",
+        "他们把行李用带子固定在架子上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strap#English"
+    ]
+  },
+  {
+    "word": "strapless",
+    "ipa": "/ˈstræpləs/",
+    "meaning": "无肩带的；没有带子的",
+    "sense": "一件裙子不靠肩带挂在肩上，就可以 strapless。-less 直接否定带子这一结构，最常见是服饰肩带，不是说衣服什么支撑都没有。",
+    "split": "strap + -less → strapless，后缀前不额外双写 p。形容词按缺少带子、尤其肩带的特征命名。",
+    "history": [
+      [
+        "古英语 strop、法语 estrope 等 → 中古英语 strope、stroppe → strap",
+        "长窄带、套带，较早上游有拉丁、希腊绳索材料"
+      ],
+      [
+        "strap + -less → strapless",
+        "没有带、肩带的"
+      ]
+    ],
+    "explanation": "a strapless dress 无肩带连衣裙；a strapless top 无肩带上衣。",
+    "usage": "a strapless dress；a strapless top。",
+    "contrast": "strapless 无肩带与 sleeveless 无袖不同：袖子、肩带是两种结构。",
+    "examples": [
+      [
+        "She chose a strapless dress for the performance.",
+        "她为演出挑了一条无肩带连衣裙。"
+      ],
+      [
+        "The shop displays several strapless tops.",
+        "店里展示了几件无肩带上衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strapless#English"
+    ]
+  },
+  {
+    "word": "strappy",
+    "ipa": "/ˈstræpi/",
+    "meaning": "有细带的；以带子构成的",
+    "sense": "凉鞋由几条细带搭起来，或上衣用细肩带，常说 strappy。它抓“带子显眼、细带构成”的款式，不只是东西里面藏着一条固定带。",
+    "split": "strap + -y，双写 p → strappy。性质形容词表示带子构成、有明显带子等特征，常见于鞋、衣物描述。",
+    "history": [
+      [
+        "古英语 strop、法语 estrope 等 → 中古英语 strope、stroppe → strap",
+        "长窄带、套带，较早上游有拉丁、希腊绳索材料"
+      ],
+      [
+        "strap + -y → strappy",
+        "带状结构显眼、由细带构成的"
+      ]
+    ],
+    "explanation": "strappy sandals 细带凉鞋；a strappy top 细肩带上衣。",
+    "usage": "strappy sandals；a strappy top。",
+    "contrast": "strappy 与 strapless 方向相反：一个强调细带，一个缺少肩带；并非同一款式的不同拼法。",
+    "examples": [
+      [
+        "She wore strappy sandals with the summer dress.",
+        "她穿着细带凉鞋，搭配夏季连衣裙。"
+      ],
+      [
+        "The costume included a strappy top.",
+        "这套服装包含一件细肩带上衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strappy#English"
+    ]
+  },
+  {
+    "word": "unawares",
+    "ipa": "英 /ˌʌnəˈweəz/；美 /ˌʌnəˈwerz/",
+    "meaning": "猝不及防地；无意间、不知不觉地",
+    "sense": "事情忽然撞上来，你一点准备都没有，是 catch someone unawares。它也能说某事在自己没察觉时发生，重点是当时没有预先知道。",
+    "split": "对应 un- + aware + 旧副词结尾 -s，unawares 的文献见证还早于独立形容词 unaware。现代可并列识别，但不是先有复数的“不知道的人”。",
+    "history": [
+      [
+        "un- + aware；旧副词结尾 -s → unawares",
+        "在不知情、未准备的情况下"
+      ],
+      [
+        "unaware、unawares 的现代用法",
+        "不知道的状态；猝不及防地、无意间"
+      ]
+    ],
+    "explanation": "catch someone unawares 使某人猝不及防；take someone unawares 出其不意；come upon someone unawares 意外遇上。",
+    "usage": "catch unawares；take unawares。",
+    "contrast": "unawares 的 s 不是复数；unaware 通常形容不知道的状态，unawares 通常在这些副词搭配里出现。",
+    "examples": [
+      [
+        "The sudden question caught me unawares.",
+        "突如其来的问题让我猝不及防。"
+      ],
+      [
+        "The storm took the hikers unawares.",
+        "暴风雨打了徒步者一个措手不及。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unawares#English",
+      "https://www.etymonline.com/word/unawares"
+    ]
+  },
+  {
+    "word": "bystander",
+    "ipa": "英 /ˈbaɪstændə/；美 /ˈbaɪstændər/",
+    "meaning": "旁观者、在场未参与者",
+    "sense": "事情在眼前发生，你人在旁边，却不是直接参与事件的一方，是 bystander。词先说角色位置，不保证这个人冷漠或什么都没做。",
+    "split": "by- 在旁 + stander 站着的人，形成在场但未直接参与事件者的名称。现代可泛指观察者，不要求全程站立。",
+    "history": [
+      [
+        "古英语 bi、be 等 → by",
+        "在旁、经过；还可表达施事、作者等关系"
+      ],
+      [
+        "by + stander、line、way",
+        "站在旁边的人；标作者的一行；主路旁的小路"
+      ]
+    ],
+    "explanation": "an innocent bystander 无辜旁观者；several bystanders 几名在场旁观者。",
+    "usage": "an innocent bystander；a bystander at the scene。",
+    "contrast": "bystander 是角色，witness 是见证者；同一人可兼两种身份，但词的观察重点不同。",
+    "examples": [
+      [
+        "A bystander described what had happened.",
+        "一名旁观者讲述了事情经过。"
+      ],
+      [
+        "Several bystanders offered to help.",
+        "几名在场旁观者主动提出帮忙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bystander#English"
+    ]
+  },
+  {
+    "word": "byline",
+    "ipa": "/ˈbaɪlaɪn/",
+    "meaning": "文章署名行、作者署名",
+    "sense": "标题下面写着“By 某某”的那一行，告诉你文章由谁写，叫 byline。by 在这里接作者、施事关系，不是说这是一条旁边的小路。",
+    "split": "by + line，line 是一行文字，by 引出作者的署名表达。后来也可作动词，给文章署名。",
+    "history": [
+      [
+        "古英语 bi、be 等 → by",
+        "在旁、经过；还可表达施事、作者等关系"
+      ],
+      [
+        "作者 by + line 一行 → byline",
+        "标明文章作者的一行、署名"
+      ]
+    ],
+    "explanation": "the author’s byline 作者署名；under her byline 以她的署名发表；a byline beneath the headline 标题下方的署名。",
+    "usage": "the author’s byline；under her byline。",
+    "contrast": "headline 是标题，byline 是作者署名；两者位置常接近，功能不同。",
+    "examples": [
+      [
+        "Her byline appeared beneath the headline.",
+        "她的署名出现在标题下方。"
+      ],
+      [
+        "The article was published under his byline.",
+        "文章以他的署名发表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/byline#English"
+    ]
+  },
+  {
+    "word": "byway",
+    "ipa": "/ˈbaɪweɪ/",
+    "meaning": "小路、支路；鲜为人知的领域、细节",
+    "sense": "主干道旁边分出去、没那么多人走的小路，是 byway。知识上不太为人熟悉的角落，也像从大路拐进去的支线。",
+    "split": "承中古英语 bywey，对应 by- 旁、支 + way 道路。小路、次要通路义后来借给冷门研究领域或不常注意的细节。",
+    "history": [
+      [
+        "古英语 bi、be 等 → by",
+        "在旁、经过；还可表达施事、作者等关系"
+      ],
+      [
+        "by- + way → byway",
+        "支路、小路 → 不常涉足的领域"
+      ]
+    ],
+    "explanation": "quiet byways 安静小路；the byways of history 历史中鲜为人知的角落。",
+    "usage": "quiet byways；the byways of history。",
+    "contrast": "byway 是较小、较少走的路；bypass 是绕开某处的路线或动作，不是同一词。",
+    "examples": [
+      [
+        "They explored the quiet byways outside the village.",
+        "他们探访了村外安静的小路。"
+      ],
+      [
+        "The book wanders into the byways of local history.",
+        "书中探入了地方史一些鲜为人知的角落。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/byway#English"
+    ]
+  },
+  {
+    "word": "pony",
+    "ipa": "英 /ˈpəʊni/；美 /ˈpoʊni/",
+    "meaning": "矮种马、小型马；〔口语〕凑钱、付钱",
+    "sense": "pony 先看体型较小的马，成年了也可以是 pony。它不是所有小马宝宝的年龄名；还没长大的马可叫 foal。口语 pony up 则是掏出、凑上钱的固定用法。",
+    "split": "经苏格兰语 powny，通常上接法语 poulenet 小马驹相关名称，再接拉丁幼小动物材料。现代意义聚焦体型、品种；pony up 的具体来历有争议，不能由小马外形直接推算。",
+    "history": [
+      [
+        "法语 poulenet 小马驹相关形式 → 苏格兰语 powny → pony",
+        "较小马匹名称，现代用于矮种马"
+      ],
+      [
+        "pony + tail → ponytail",
+        "马尾形状借给束起的头发"
+      ]
+    ],
+    "explanation": "ride a pony 骑矮种马；a Shetland pony 设得兰矮种马；pony up the money 拿出钱，语体随意。",
+    "usage": "ride a pony；a Shetland pony；pony up。",
+    "contrast": "pony 体型、品种与 foal 年龄不同；ponytail 是发型，不是一匹更小的马。",
+    "examples": [
+      [
+        "The child rode a gentle pony.",
+        "孩子骑着一匹温顺的矮种马。"
+      ],
+      [
+        "Everyone agreed to pony up for the shared gift.",
+        "大家同意凑钱买共同的礼物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pony#English"
+    ]
+  },
+  {
+    "word": "curl",
+    "ipa": "英 /kɜːl/；美 /kɜːrl/",
+    "meaning": "卷曲；卷发、卷曲形状；蜷起",
+    "sense": "头发绕成一圈、纸边卷起来、猫把身体缩成一团，都能用 curl。核心不是一般弯一下，而是往回绕、往内收。",
+    "split": "由中古英语 crull、crulle 等形式经过字音次序变化形成 curl；较早来源可能联系荷兰语或未记载的英语同族形式。现代名词、动词围绕卷曲形状展开。",
+    "history": [
+      [
+        "中古英语 crull、crulle 等 → 字音次序变化后的 curl",
+        "卷曲，可能接荷兰语或更早英语同族形式，最远来源未定"
+      ],
+      [
+        "curl → curly、curler",
+        "卷曲形体；卷发的性质；卷发工具、冰壶运动者等"
+      ]
+    ],
+    "explanation": "curl your hair 卷发；curl up 蜷起；a curl of smoke 一缕盘旋的烟；curl your fingers 蜷起手指。",
+    "usage": "curl up；curl your hair；a curl of smoke。",
+    "contrast": "bend 可以只是弯折，curl 常多出绕回、卷成圈、蜷缩的形状。",
+    "examples": [
+      [
+        "The edges of the paper began to curl.",
+        "纸边开始卷起来。"
+      ],
+      [
+        "The cat curled up beside the fire.",
+        "猫在炉火旁蜷成一团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curl#English"
+    ]
+  },
+  {
+    "word": "curly",
+    "ipa": "英 /ˈkɜːli/；美 /ˈkɜːrli/",
+    "meaning": "卷曲的；卷发的",
+    "sense": "curl 是一圈卷曲，curly 是带着这种卷。curly hair 说头发卷，curly brackets 则是形状弯绕的花括号，都是外形线索。",
+    "split": "curl + -y → curly，保留 l。由卷发、卷曲形状扩展到标点形态，少数口语还可比喻复杂难解。",
+    "history": [
+      [
+        "中古英语 crull、crulle 等 → 字音次序变化后的 curl",
+        "卷曲，可能接荷兰语或更早英语同族形式，最远来源未定"
+      ],
+      [
+        "curl + -y → curly",
+        "有卷、卷曲的性质"
+      ]
+    ],
+    "explanation": "curly hair 卷发；curly brackets 花括号；curly quotation marks 弯引号。",
+    "usage": "curly hair；curly brackets。",
+    "contrast": "curly 形状与 messy 凌乱不同；卷发可以梳理得整齐。",
+    "examples": [
+      [
+        "He has short, curly hair.",
+        "他留着短卷发。"
+      ],
+      [
+        "The code inside the curly brackets forms one block.",
+        "花括号里的代码构成一个代码块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curly#English"
+    ]
+  },
+  {
+    "word": "curler",
+    "ipa": "英 /ˈkɜːlə/；美 /ˈkɜːrlər/",
+    "meaning": "卷发筒、卷发工具；冰壶运动员",
+    "sense": "做出 curl 的工具，是卷发筒；玩 curling 冰壶的人也叫 curler，接冰壶运动的名称。前者处理头发，后者不是拿卷发筒比赛。",
+    "split": "curl + -er → curler，工具、参与者名并存。冰壶角色来自 curling 的运动用法，名称联系运动中的弯曲轨迹等。",
+    "history": [
+      [
+        "中古英语 crull、crulle 等 → 字音次序变化后的 curl",
+        "卷曲，可能接荷兰语或更早英语同族形式，最远来源未定"
+      ],
+      [
+        "curl + -er → curler",
+        "卷发工具；curling 运动参与者"
+      ]
+    ],
+    "explanation": "hair curlers 卷发筒；a set of curlers 一套卷发筒；an Olympic curler 奥运冰壶运动员。",
+    "usage": "hair curlers；an Olympic curler。",
+    "contrast": "curler 不保证是人，-er 的工具义很常见；冰壶义用队伍、比赛背景定位。",
+    "examples": [
+      [
+        "She put her hair in curlers.",
+        "她用卷发筒把头发卷起来。"
+      ],
+      [
+        "The curler practised with her team before the tournament.",
+        "那位冰壶运动员在赛前和队友一起训练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curler#English"
+    ]
+  },
+  {
+    "word": "differentiator",
+    "ipa": "英 /ˌdɪfəˈrenʃieɪtə/；美 /ˌdɪfəˈrenʃieɪtər/",
+    "meaning": "区别因素、差异化特点；区分者、工具",
+    "sense": "同类产品看起来都差不多，有一项特点让它显得不一样，那项特点就是 a differentiator。它不必是人，服务、设计、能力都可承担区分作用。",
+    "split": "differentiate 去末尾 e + -or，使用 differentiat- 词干，形成使有区别、实施区分的事物、执行者名。专门技术里也有相应工具含义。",
+    "history": [
+      [
+        "differentiate 区分、使差异化 → differentiator",
+        "使对象显出区别的因素、人或工具"
+      ],
+      [
+        "differentiate 的 differentiat- 词干 + -or",
+        "现代常用来讲竞争中的区别特点"
+      ]
+    ],
+    "explanation": "a key differentiator 关键差异化特点；a major differentiator 主要区别因素。",
+    "usage": "a key differentiator；a major differentiator。",
+    "contrast": "difference 是差别本身，differentiator 常是造成、体现区别的那个特点或因素。",
+    "examples": [
+      [
+        "Reliable service became the company’s key differentiator.",
+        "可靠服务成了这家公司的关键差异化特点。"
+      ],
+      [
+        "The review identified design as the main differentiator.",
+        "评测认为设计是主要区别因素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/differentiator#English"
+    ]
+  },
+  {
+    "word": "fade",
+    "ipa": "/feɪd/",
+    "meaning": "褪色、减弱；逐渐消失；淡入淡出、渐变",
+    "sense": "窗帘的颜色晒久变浅，音乐慢慢轻下去，记忆轮廓渐渐没了，都是 fade。重点是一步步弱下去，不是一下开关掉。",
+    "split": "承中古英语 fade、vade 等衰弱、褪色形式，联系法语及其他相关形式，最远来源未定。颜色、鲜活程度减弱，再扩展到光、声音、记忆的渐变。",
+    "history": [
+      [
+        "中古英语 fade、vade 等，联系苍白、衰弱的法语及相关形式",
+        "较远来源未定，具体语言影响有讨论"
+      ],
+      [
+        "fade → 颜色、光、声音、记忆逐渐减弱；+ -er",
+        "控制渐变的装置、程序，常见于音频控制台"
+      ]
+    ],
+    "explanation": "colours fade 颜色褪去；fade away 逐渐消失；fade out 淡出、渐弱；fade in 淡入、渐强。",
+    "usage": "fade away；fade out；fade in。",
+    "contrast": "fade out 强调渐变，cut off 可是突然切断；fade 不限视觉颜色。",
+    "examples": [
+      [
+        "The curtains faded in the sunlight.",
+        "窗帘在日晒下褪色了。"
+      ],
+      [
+        "The music slowly faded out.",
+        "音乐慢慢淡出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fade#English"
+    ]
+  },
+  {
+    "word": "fader",
+    "ipa": "英 /ˈfeɪdə/；美 /ˈfeɪdər/",
+    "meaning": "渐变控制器；调音推子；淡化程序",
+    "sense": "调音台上一条滑轨，推上去、拉下来控制信号大小，常叫 fader。名字接渐强渐弱用途，不代表它只能让声音越来越小。",
+    "split": "fade 去 e + -er → fader，形成工具、装置名。由控制声音、图像等渐变功能命名，也可用于实现类似效果的程序。",
+    "history": [
+      [
+        "中古英语 fade、vade 等，联系苍白、衰弱的法语及相关形式",
+        "较远来源未定，具体语言影响有讨论"
+      ],
+      [
+        "fade + -er → fader",
+        "控制音量、图像等渐变的装置或程序"
+      ]
+    ],
+    "explanation": "a volume fader 音量推子；move the fader 移动推子；a channel fader 通道推子。",
+    "usage": "a volume fader；a channel fader。",
+    "contrast": "fader 可增可减信号；mute 则常是静音开关功能，两者控制方式不同。",
+    "examples": [
+      [
+        "She lowered the fader as the song ended.",
+        "歌曲结束时，她把推子慢慢拉低。"
+      ],
+      [
+        "Each channel has its own fader.",
+        "每个通道有各自的推子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fader#English"
+    ]
+  },
+  {
+    "word": "inadequate",
+    "ipa": "/ɪnˈædɪkwət/",
+    "meaning": "不足的；不够合适、不胜任的",
+    "sense": "不是完全没有，而是拿现有的量、能力、质量去对要求，仍差一截，就叫 inadequate。a map can be inadequate 是地图信息不够应付用途，不是它不漂亮。",
+    "split": "in- 否定 + adequate，后者上接拉丁语使相等、相称的材料。否定足够、适配形成数量、质量、能力不足。",
+    "history": [
+      [
+        "in- 否定 + adequate 足够、合适 → inadequate",
+        "不够应付相应要求，数量或质量都可能不足"
+      ],
+      [
+        "inadequate → inadequately、inadequacy",
+        "做得不够充分；不足性质、具体缺陷"
+      ]
+    ],
+    "explanation": "inadequate information 信息不足；inadequate for 不足以应付；inadequate preparation 准备不充分。",
+    "usage": "inadequate for；inadequate information。",
+    "contrast": "inadequate 依据具体要求判断；少量未必 inadequate，要求很高时很多也可能不够。",
+    "examples": [
+      [
+        "The lighting was inadequate for detailed work.",
+        "这光线不足以做精细工作。"
+      ],
+      [
+        "The report was based on inadequate information.",
+        "报告依据的信息不充分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inadequate#English"
+    ]
+  },
+  {
+    "word": "inadequately",
+    "ipa": "/ɪnˈædɪkwətli/",
+    "meaning": "不充分地；不够妥当地",
+    "sense": "inadequate 是准备不足的性质，inadequately prepared 是准备得不够。副词把评价直接放到训练、解释、支撑等动作上。",
+    "split": "inadequate + -ly → inadequately，保留末尾 e。方式、程度副词表示没有充分达到相应要求。",
+    "history": [
+      [
+        "in- 否定 + adequate 足够、合适 → inadequate",
+        "不够应付相应要求，数量或质量都可能不足"
+      ],
+      [
+        "inadequate + -ly → inadequately",
+        "以不够充分、合适的方式"
+      ]
+    ],
+    "explanation": "inadequately prepared 准备不充分；inadequately explained 解释不充分；inadequately supported 支持不足。",
+    "usage": "inadequately prepared；inadequately explained。",
+    "contrast": "inadequately 不只说做得少，也能说质量、方式不足以达到目的。",
+    "examples": [
+      [
+        "The instructions were inadequately explained.",
+        "这些指示没有解释清楚。"
+      ],
+      [
+        "The team was inadequately prepared for the change.",
+        "团队对这次变化准备不充分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inadequately#English"
+    ]
+  },
+  {
+    "word": "inadequacy",
+    "ipa": "/ɪnˈædɪkwəsi/",
+    "meaning": "不足；不胜任感；缺陷",
+    "sense": "把达不到要求的那份不足单独拿出来，是 inadequacy。复数 inadequacies 常能数出具体短处；a feeling of inadequacy 则是主观觉得自己不够好，不自动说明实际能力真的差。",
+    "split": "可对应 in- + adequacy，也可看 inadequate 的 -acy 名词形式。与 inadequate 相互对应，命名不足性质或具体缺陷。",
+    "history": [
+      [
+        "in- 否定 + adequate 足够、合适 → inadequate",
+        "不够应付相应要求，数量或质量都可能不足"
+      ],
+      [
+        "in- + adequacy／inadequate 的名词对应 → inadequacy",
+        "不足性质；具体短处；主观不胜任感"
+      ]
+    ],
+    "explanation": "the inadequacy of the system 系统的不足；expose inadequacies 暴露缺陷；feelings of inadequacy 不够好的感觉。",
+    "usage": "the inadequacy of；feelings of inadequacy。",
+    "contrast": "inadequacy 可客观说系统缺陷，也可主观说自我感受；不能把一种感受直接当作能力事实。",
+    "examples": [
+      [
+        "The review exposed several inadequacies in the system.",
+        "审查暴露了系统的几处缺陷。"
+      ],
+      [
+        "She wrote openly about her feelings of inadequacy.",
+        "她坦诚写下了自己总觉得不够好的感受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inadequacy#English"
+    ]
+  }
+]

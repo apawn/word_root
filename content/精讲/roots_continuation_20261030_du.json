@@ -1,0 +1,139 @@
+[
+  {
+    "id": "B4437",
+    "meaning": "环境维度与保护环境的人、理念",
+    "core": "ENVIRONMENTAL：与周围环境有关，再分评价角度和倡导立场",
+    "image": "environmental → environmentally；environmentalist、environmentalism 放在一起分人物与理念。",
+    "intro": "environmentally friendly 评环境影响，environmentalist 侧重倡导；不与环境科学家或环境本身简单互换。",
+    "forms": "environment + -al；environmental + -ly/-ist/-ism。",
+    "branches": [
+      [
+        "环境性质与评价角度",
+        "environmental · environmentally"
+      ],
+      [
+        "人物与理念",
+        "environmentalist · environmentalism"
+      ]
+    ],
+    "contrasts": "environmentalist/environmental scientist 倡导角色与研究职业；-ist 人、-ism 理念；friendly 非物品性格。",
+    "practice": "The environmentalist explained why the packaging was environmentally harmful.\n\n环保人士解释了包装为什么对环境有害。",
+    "words": [
+      "environmental",
+      "environmentally",
+      "environmentalist",
+      "environmentalism"
+    ],
+    "exclude": {
+      "agro-environmental": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3133",
+    "meaning": "挤在一起的人与分散参与的大众",
+    "core": "CROWD：从空间里的推挤，到许多人共同参与",
+    "image": "crowd → crowded；crowdfund、crowdfunding 一组；crowdsource、crowdsourcing 一组，分钱与贡献内容、工作。",
+    "intro": "crowd 不自带暴力，crowded 说空间或日程被填满；大众参与的网络词可以人人相隔很远。",
+    "forms": "crūdan → crowd；crowd + -ed；crowd + fund/funding；crowd + source、sourcing 等现代组合。\n\n古英语 crudan 动词先行，名词人群由动词发展。",
+    "branches": [
+      [
+        "人群、动作与拥挤",
+        "crowd · crowded"
+      ],
+      [
+        "大众出资",
+        "crowdfund · crowdfunding"
+      ],
+      [
+        "大众提供内容、工作",
+        "crowdsource · crowdsourcing"
+      ],
+      [
+        "crowd → crowds：推挤到聚在一起的人",
+        "crowd · crowds"
+      ]
+    ],
+    "contrasts": "crowd/mob 聚集与可能失控色彩；crowdfunding 钱，crowdsourcing 范围更广；crowded 不等于单纯 popular。",
+    "practice": "Crowdfunding let a widely scattered crowd support the project.\n\n众筹让分散各地的大众共同支持了项目。",
+    "words": [
+      "crowd",
+      "crowded",
+      "crowdfund",
+      "crowdfunding",
+      "crowdsource",
+      "crowdsourcing",
+      "crowds"
+    ],
+    "exclude": {
+      "rent-a-crowd": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "crowder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "crowd-puller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "crowdsourced": "crowdsource 的规则过去分词，可说通过众包取得；与 crowdsource 同条理解，不另立重复词头。"
+    }
+  },
+  {
+    "id": "B3565",
+    "meaning": "揭开、发现与再次找到、能够找到",
+    "core": "DISCOVER：原来遮着、没察觉，后来进入认识范围",
+    "image": "discover → discovery、discoverer、discoverable；rediscover 重新进入视野、找回价值。",
+    "intro": "发现与发明不同；重新发现可以是个人重拾爱好，不必整个人类再来一次首次科学发现。discoverer 的法语人物名路径保留。",
+    "forms": "法语 descovrir 等 → discover；discovery 有名词历史；discoverer 借入与派生；discover + -able；re- + discover。\n\ndiscover 接法语、拉丁解除覆盖的材料，现代主要说发现原先不知道的事。加 -ing 保留原词，不双写 r；不是发明此前不存在之物。\n\ndiscovery 与 discover、-y 性质或结果名词对应，现代辅音字母 + y 改 i 加 -es。发现之事与发现过程的可数性不同，普通名词不表示必然全世界首次。\n\ndiscover 经法语、拉丁 discooperire 揭开，后说得知原来不知的东西。现代加 -s，/r/ 等后读 /z/；发现与创造的区别可对照。",
+    "branches": [
+      [
+        "发现与结果、人物、可能性",
+        "discover · discovery · discoverer · discoverable"
+      ],
+      [
+        "重新认识",
+        "rediscover"
+      ],
+      [
+        "揭开覆盖 → discover → discovering",
+        "discovering"
+      ],
+      [
+        "discover → discovery → discoveries",
+        "discoveries"
+      ],
+      [
+        "dis- 揭开 + cover 覆盖 → discovers",
+        "discovers"
+      ]
+    ],
+    "contrasts": "discover/invent 发现与发明；discoverable/discovered 能找到与已找到；rediscover 不必须全球未知。",
+    "practice": "The new catalogue helped readers rediscover forgotten books.\n\n新目录帮助读者重新发现被遗忘的书。",
+    "words": [
+      "discover",
+      "discovery",
+      "discoverer",
+      "discoverable",
+      "rediscover",
+      "discovering",
+      "discoveries",
+      "discovers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4468",
+    "meaning": "在场、无处不在与远程在场",
+    "core": "PRESENCE：虽不只是身体站在那里，也强调让人感到你在",
+    "image": "presence → omnipresence、telepresence，分处处在场与远程在场。",
+    "intro": "remote 不等于不存在。telepresence 借技术让远处的行动、交流有临场感，不是把人真的搬到另一个坐标。",
+    "forms": "法语 présence、拉丁 praesentia → presence；omni- + presence；tele- + presence。",
+    "branches": [
+      [
+        "在场与范围扩展",
+        "presence · omnipresence · telepresence"
+      ]
+    ],
+    "contrasts": "presence 在场，telepresence 远程临场；teleportation 瞬移是另一个概念；omnipresence 处处在场非只开一次远程会议。",
+    "practice": "Telepresence helped him maintain a presence in the classroom.\n\n远程临场技术让他能继续参与课堂、保持在场感。",
+    "words": [
+      "presence",
+      "omnipresence",
+      "telepresence"
+    ],
+    "exclude": {}
+  }
+]

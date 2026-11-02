@@ -5,7 +5,7 @@
     "core": "FUND / FUS = POUR",
     "image": "把液体倒出去：可混合、流入、散开，也可倒回来",
     "intro": "拉丁语 **fundere** 的核心画面是“倾倒、流出”，也包括把熔化的金属浇铸出来。其分词 **fūsus** 留下 **fus-**。两杯液体倒在一起，就能帮助理解 **confuse** 的混乱；向里注入，是 **infuse**；往四周散开，是 **diffuse**；退回去，是 **refund**。这些画面帮助理解，逐词历史仍要看各自的借入路线。",
-    "forms": "**fundere → fūsus** 是拉丁语自身的词形变化，不是英语把 nd 随便换成 s。**confound / confuse** 分别保留了较像动词原形与分词词干的外形。\n\n法语 **fondre** 保留了熔化、铸造义，因此 **foundry、font〔字体〕、fondue、fondant** 虽不都显出 fus，仍有可靠的同源关系。\n\n**confused** 比现代常用动词 **confuse** 更早；**fusion** 也早于常用动词 **fuse**。不能总画成英语动词先变出名词或分词。**diffusion、infusion、transfusion、effusion、suffusion** 各有拉丁名词借入支线。\n\n另一个 **fundus** 是“底部”，产生 fund〔资金〕、foundation〔基础〕；它和本页 fundere 不同。**found** 的找到、创办、铸造，以及 **font** 的字体、洗礼盆，要分别读。**refuse** 的远源有分歧；**defuse** 属于引信支线，作为易混辨析说明。",
+    "forms": "**fundere → fūsus** 是拉丁语自身的词形变化，不是英语把 nd 随便换成 s。**confound / confuse** 分别保留了较像动词原形与分词词干的外形。\n\n法语 **fondre** 保留了熔化、铸造义，因此 **foundry、font〔字体〕、fondue、fondant** 虽不都显出 fus，仍有可靠的同源关系。\n\n**confused** 比现代常用动词 **confuse** 更早；**fusion** 也早于常用动词 **fuse**。不能总画成英语动词先变出名词或分词。**diffusion、infusion、transfusion、effusion、suffusion** 各有拉丁名词借入支线。\n\n另一个 **fundus** 是“底部”，产生 fund〔资金〕、foundation〔基础〕；它和本页 fundere 不同。**found** 的找到、创办、铸造，以及 **font** 的字体、洗礼盆，要分别读。**refuse** 的远源有分歧；**defuse** 属于引信支线，作为易混辨析说明。\n\n古法语 refuser 的更早来源有不同分析，不强认只有倒回一条链。\n\n法语 refuser 近源清楚，深层有多种拉丁来源分析。\n\n法语 fonte 铸造接 fondre、拉丁 fundere；数字字体保留已经固定的名称。\n\ncon- 加拉丁 fundere 倾倒，经法语进入英语；抽象使人困惑、把不同事物混为一谈，不能全当现代从具体倒水新造的比喻。",
     "branches": [
       [
         "倒到一起，分不清",
@@ -50,6 +50,22 @@
       [
         "远源争议、同形辨析",
         "refuse · refusal · defuse"
+      ],
+      [
+        "refuse → refuses：把要求挡回去",
+        "refuse · refuses"
+      ],
+      [
+        "refuse → refusing：不接下要求、不去做",
+        "refuse · refuses · refusing"
+      ],
+      [
+        "font 的字体支：由铸字到数字字体",
+        "font · fonts"
+      ],
+      [
+        "confound：倒到一起，混杂难分",
+        "confound · confounds · confounded · confounding"
       ]
     ],
     "contrasts": "**confused / confusing**：人或叙述已经乱了 / 东西让别人弄不清。\n\n**infuse / diffuse / suffuse**：注入某种成分 / 向外散开 / 铺满整体。**diffuse** 动词末尾 /z/，形容词末尾 /s/；**defuse** 则是化解紧张。\n\n**profuse / effusive**：前者强调量大，后者多强调热情外露。**profusion** 是大量，**profound** 是深刻，不同源。\n\n**refund / refuse**：退还款项 / 拒绝。refund 名词前重音、动词后重音；refuse 还要分动词 /z/ 与垃圾名词 /s/。",
@@ -102,7 +118,11 @@
       "futility",
       "refuse",
       "refusal",
-      "defuse"
+      "defuse",
+      "refuses",
+      "refusing",
+      "fonts",
+      "confounds"
     ]
   }
 ]

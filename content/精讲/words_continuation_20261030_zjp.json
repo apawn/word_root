@@ -1,0 +1,975 @@
+[
+  {
+    "word": "allocated",
+    "ipa": "英 /ˈæləkeɪtɪd/；美 /ˈæləkeɪtɪd/",
+    "meaning": "分配了；拨给了；划作某种用途的〔过去式、过去分词〕",
+    "sense": "把总共两小时划出半小时给讨论，或从一批座位中留几排给来宾，这就是 allocated：给资源安排去处和用途。",
+    "split": "allocate 去末尾 e，加完整 -ed → allocated，/t/ 后读 /ɪd/。拉丁 ad- 向 + locare 放置 → allocare，ad- 在 l 前同化成 al-。",
+    "history": [
+      [
+        "拉丁 locus 地方 → locare 放置 → allocare 分派",
+        "把东西安置到指定处、用途"
+      ],
+      [
+        "中世纪拉丁材料 → 英语 allocate → allocated",
+        "现代按用途分配时间、位置、资源等"
+      ]
+    ],
+    "explanation": "allocated time 是分配到的时间；allocated seats 是分给某方的座位；allocated to a task 是划给某项任务。",
+    "usage": "allocated time；allocated seats；allocated to each group。",
+    "contrast": "allocate 主要说怎样分配、划用途，未必已经把钱花掉或把座位坐满；实际使用是后面的事。",
+    "examples": [
+      [
+        "We allocated thirty minutes to discussion.",
+        "我们给讨论安排了三十分钟。"
+      ],
+      [
+        "Each group was allocated a small room.",
+        "每组分到了一间小屋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/allocated#English",
+      "https://www.etymonline.com/word/allocate"
+    ]
+  },
+  {
+    "word": "barrels",
+    "ipa": "英 /ˈbærəlz/；美 /ˈbærəlz/",
+    "meaning": "桶〔复数〕；快速冲过〔第三人称〕",
+    "sense": "想象中间稍鼓、外面有箍的桶，就是 barrels 的典型形象。现代也可指桶装的量；动词 barrels 则有飞快冲过的用法。",
+    "split": "barrel + -s → barrels，/l/ 后读 /z/。barrel 借古法语 baril 桶，远源不明；快速移动的动词义可能借滚桶的形象发展，不能当定论。",
+    "history": [
+      [
+        "古法语 baril 桶 → 英语 barrel",
+        "容器及其容量计量用法"
+      ],
+      [
+        "barrel 的装桶、快速移动等动词义 → barrels",
+        "名词复数与动词第三人称同形"
+      ]
+    ],
+    "explanation": "wooden barrels 是木桶；barrels of water 是一桶桶水；barrels down the road 是沿路飞快冲过去。",
+    "usage": "wooden barrels；barrels of water；barrels down the road。",
+    "contrast": "barrel 作容量单位时，具体大小随货物、计量约定而变，不是见到 barrel 就能换算成一个通用固定升数。",
+    "examples": [
+      [
+        "The cellar was lined with wooden barrels.",
+        "地窖里一排排摆着木桶。"
+      ],
+      [
+        "In the cartoon, the little car barrels down the road.",
+        "动画里，那辆小车沿路飞快冲过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barrels#English",
+      "https://www.etymonline.com/word/barrel"
+    ]
+  },
+  {
+    "word": "chooses",
+    "ipa": "英 /ˈtʃuːzɪz/；美 /ˈtʃuːzɪz/",
+    "meaning": "选择；选定〔第三人称〕",
+    "sense": "几个东西摆在面前，从中决定要哪一个，就是 chooses。也可以选择做某件事，或选择不做。",
+    "split": "choose + -s → chooses，保留原词末尾 e；choose 末尾 /z/ 后，词尾读 /ɪz/。来源承古英语 ceosan 选择、尝试、品尝等材料。",
+    "history": [
+      [
+        "古英语 ceosan 选择、尝试 → choose",
+        "由本族词延续，不是把 choice 直接添字母造出"
+      ],
+      [
+        "choose + -s → chooses",
+        "现代第三人称，保留长 /uː/"
+      ]
+    ],
+    "explanation": "chooses a book 是选一本书；chooses to stay 是选择留下；chooses not to answer 是选择不回答。",
+    "usage": "chooses a book；chooses to stay；chooses not to answer。",
+    "contrast": "chooses 是现在时第三人称，chose 是过去式，chosen 是过去分词；不要因为都含 chose 字母就混用。",
+    "examples": [
+      [
+        "She always chooses the seat by the window.",
+        "她总选靠窗的座位。"
+      ],
+      [
+        "He chooses to walk when the weather is fine.",
+        "天气好时，他选择步行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chooses#English",
+      "https://www.etymonline.com/word/choose"
+    ]
+  },
+  {
+    "word": "combinations",
+    "ipa": "英 /ˌkɒmbɪˈneɪʃənz/；美 /ˌkɑːmbəˈneɪʃənz/",
+    "meaning": "组合；搭配；组合方式〔复数〕",
+    "sense": "同样几种颜色，换个搭法就有不同 combinations。它说的是哪些东西搭在一起，以及搭成了怎样的一组。",
+    "split": "combination + -s → combinations。可与 combine、-ation 的动作或结果名词对应学习；历史经法语接晚期拉丁 combinatio，远含 com- 一起 + bini 两个两个。",
+    "history": [
+      [
+        "拉丁 com- + bini → combinare 结合 → combinatio",
+        "较早有成双结合的材料"
+      ],
+      [
+        "法语 combination → 英语 combination → combinations",
+        "现代指多种组合，不限于两件东西"
+      ]
+    ],
+    "explanation": "color combinations 是配色；different combinations of ingredients 是不同食材搭配；possible combinations 是可能组合。",
+    "usage": "color combinations；different combinations；possible combinations。",
+    "contrast": "来源里有两个两个，不意味着现代 combination 只能由两个成分组成。数学组合与日常搭配还要按各自语境理解。",
+    "examples": [
+      [
+        "We tried several combinations of colors.",
+        "我们试了几种颜色搭配。"
+      ],
+      [
+        "The game allows many different combinations.",
+        "这个游戏允许很多不同的组合方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/combinations#English",
+      "https://www.etymonline.com/word/combination"
+    ]
+  },
+  {
+    "word": "commenting",
+    "ipa": "英 /ˈkɒmentɪŋ/；美 /ˈkɑːmentɪŋ/",
+    "meaning": "评论；发表看法；作评注〔分词、动名词〕",
+    "sense": "看到、读到一件事，再说说自己的理解或评价，就是 commenting。评论可以很短，也不必是在挑毛病。",
+    "split": "comment + -ing → commenting，原词不变。comment 接法语、拉丁 commentum、commentari 等构想、思考、解释材料，远连记忆、心思的词族。",
+    "history": [
+      [
+        "拉丁 commentum 构想、解释；commentari 思考、评说",
+        "思考后作解释、评注的词义材料"
+      ],
+      [
+        "法语、拉丁对应形式 → comment → commenting",
+        "现代加 -ing，通常用 on 引出评论对象"
+      ]
+    ],
+    "explanation": "commenting on a draft 是评论草稿；commenting on the results 是就结果发表看法；without commenting 是没作评论。",
+    "usage": "commenting on a draft；commenting on the results；without commenting。",
+    "contrast": "通常说 comment on something，不照中文评论某事的顺序省掉 on；引用具体话语时又可说 commented that...。",
+    "examples": [
+      [
+        "She is commenting on the first draft.",
+        "她正在对初稿提出看法。"
+      ],
+      [
+        "He left without commenting on the result.",
+        "他没有对结果发表评论就离开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commenting#English",
+      "https://www.etymonline.com/word/comment"
+    ]
+  },
+  {
+    "word": "competitions",
+    "ipa": "英 /ˌkɒmpəˈtɪʃənz/；美 /ˌkɑːmpəˈtɪʃənz/",
+    "meaning": "比赛；竞赛〔复数〕",
+    "sense": "几个人都想争取同一个名次、奖项，各自拿本事去比，就是 competitions 这一类赛事。",
+    "split": "competition + -s → competitions。competition 经晚期拉丁 competitio 等进入英语，接 com- 一起 + petere 追求；可与 compete 对照，但名词借入并非一定晚于英语动词。",
+    "history": [
+      [
+        "拉丁 competere 共同追求、相合等 → competitio",
+        "后来有共同争取目标的竞争义"
+      ],
+      [
+        "英语 competition 的一项赛事义 → competitions",
+        "可数比赛的复数，词尾 /z/"
+      ]
+    ],
+    "explanation": "writing competitions 是写作比赛；enter competitions 是参赛；win competitions 是赢得比赛。",
+    "usage": "writing competitions；sports competitions；enter several competitions。",
+    "contrast": "competition 也能不可数地说竞争压力、竞争关系；competitions 通常是在数具体赛事，而不是把竞争这个抽象状态逐个数。",
+    "examples": [
+      [
+        "The school holds writing competitions every year.",
+        "学校每年举办写作比赛。"
+      ],
+      [
+        "She entered two competitions last month.",
+        "她上个月报名参加了两项比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/competitions#English",
+      "https://www.etymonline.com/word/competition"
+    ]
+  },
+  {
+    "word": "destinations",
+    "ipa": "英、美 /ˌdestɪˈneɪʃənz/",
+    "meaning": "目的地〔复数〕",
+    "sense": "地图上有许多地方，只有你打算抵达、把旅程指向的那些，才是这趟安排里的 destinations。",
+    "split": "destination + -s → destinations。destination 接拉丁 destinatio、destinare 确定、指定、使牢固，含 de- 加强与和站稳有关的材料。",
+    "history": [
+      [
+        "拉丁 destinare 指定、确定 → destinatio",
+        "先有指定、确定用途等材料"
+      ],
+      [
+        "被指定前往的地方 → destination → destinations",
+        "现代常指旅程、运输的目的地"
+      ]
+    ],
+    "explanation": "travel destinations 是旅行目的地；final destinations 是最终目的地；different destinations 是不同的去处。",
+    "usage": "travel destinations；final destinations；different destinations。",
+    "contrast": "destination 是要去到的地方，destiny 是命运；虽然有历史联系，现代不能只凭 desti- 把两个名词互换。",
+    "examples": [
+      [
+        "The map shows several possible destinations.",
+        "地图上标出了几个可选目的地。"
+      ],
+      [
+        "The two trains have different final destinations.",
+        "这两班列车的终点不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/destinations#English",
+      "https://www.etymonline.com/word/destination"
+    ]
+  },
+  {
+    "word": "distances",
+    "ipa": "英 /ˈdɪstənsɪz/；美 /ˈdɪstənsɪz/",
+    "meaning": "距离〔复数〕；使疏远、撇清〔第三人称〕",
+    "sense": "两处没有挨在一起，中间隔着多少，是 distances。关系上主动拉开一点，也可以用 distances。",
+    "split": "distance 保留末尾 e 加 -s → distances，/s/ 后读 /ɪz/。拉丁 dis- 分开 + stare 站立 → distare 站开，经 distantia、法语等形成英语词。",
+    "history": [
+      [
+        "拉丁 distare 站开 → distantia → distance",
+        "来源材料有分离、相隔，英语较早也有不和义"
+      ],
+      [
+        "distance 的空间距离及拉开关系义 → distances",
+        "现代复数、动词第三人称同形"
+      ]
+    ],
+    "explanation": "long distances 是长距离；distances between towns 是城镇间的距离；distances herself from 是使自己与某事保持距离。",
+    "usage": "long distances；distances between towns；distances herself from the argument。",
+    "contrast": "距离的大小不全是远；short distances 也很常见。distance 作为量说相隔多少，不能一律翻成遥远。",
+    "examples": [
+      [
+        "The birds travel long distances each year.",
+        "这些鸟每年飞行很长的距离。"
+      ],
+      [
+        "She distances herself from arguments at work.",
+        "她让自己远离工作中的争吵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/distances#English",
+      "https://www.etymonline.com/word/distance"
+    ]
+  },
+  {
+    "word": "donors",
+    "ipa": "英 /ˈdəʊnəz/；美 /ˈdoʊnɚz/",
+    "meaning": "捐赠者；捐助方〔复数〕",
+    "sense": "愿意把钱、物品等交出来支持别人或某件事的一方，是 donors。捐的不一定只有钱，也不一定只是一位个人。",
+    "split": "donor + -s → donors，词尾 /z/。donor 经法语接拉丁 donator 给予者、donare 给予等，属于 don- 给予词族。",
+    "history": [
+      [
+        "拉丁 donare 给予 → donator 给予者",
+        "用给予动作命名相关的人"
+      ],
+      [
+        "法语对应形式 → donor → donors",
+        "现代常指捐赠者、捐助机构等"
+      ]
+    ],
+    "explanation": "regular donors 是长期捐助者；anonymous donors 是匿名捐赠者；donors of books 是捐书者。",
+    "usage": "regular donors；anonymous donors；donors of books。",
+    "contrast": "donors 是给予的一方，recipients 是接收的一方。donations 是捐出的款项、物品或捐赠行为，不是捐赠者本人。",
+    "examples": [
+      [
+        "The library thanked the donors of the new books.",
+        "图书馆感谢了新书的捐赠者。"
+      ],
+      [
+        "Several anonymous donors supported the project.",
+        "几位匿名捐助者支持了这个项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/donors#English",
+      "https://www.etymonline.com/word/donor"
+    ]
+  },
+  {
+    "word": "evaluated",
+    "ipa": "英、美 /ɪˈvæljueɪtɪd/",
+    "meaning": "评估了；评价了；求出了值〔过去式、过去分词〕",
+    "sense": "不只看一眼说好不好，而是根据一些标准，判断它值多少、效果怎样，就是 evaluated。数学里还可以直接说求出表达式的值。",
+    "split": "evaluate 去末尾 e，加完整 -ed → evaluated，/t/ 后读 /ɪd/。evaluate 或由 evaluation 逆构，或借法语 évaluer，远接拉丁 valere 有价值、有力等。",
+    "history": [
+      [
+        "拉丁 valere 有价值 → 法语 valuer、évaluer 与 évaluation",
+        "评定价值的词族"
+      ],
+      [
+        "英语 evaluate → evaluated",
+        "英语动词形成有逆构、借入的分析，再加现代 -ed"
+      ]
+    ],
+    "explanation": "evaluated a plan 是评估计划；evaluated the results 是评价结果；evaluated an expression 是求表达式的值。",
+    "usage": "evaluated a plan；evaluated the results；evaluated an expression。",
+    "contrast": "evaluation 的英语记录早于 evaluate，不能只因动词更短，就把真实历史固定写成 evaluate 先加 -ion 造出名词。",
+    "examples": [
+      [
+        "The team evaluated three possible designs.",
+        "团队评估了三种可选设计。"
+      ],
+      [
+        "She evaluated the expression using the given values.",
+        "她用给定数值求出了这个表达式的值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evaluated#English",
+      "https://www.etymonline.com/word/evaluate"
+    ]
+  },
+  {
+    "word": "founders",
+    "ipa": "英 /ˈfaʊndəz/；美 /ˈfaʊndɚz/",
+    "meaning": "创立者；奠基人〔复数〕；沉没、失败〔第三人称〕",
+    "sense": "把组织从无到有建起来的人，是 founders；但 the plan founders 是计划受挫。一个是人名词，一个是动词，先看句子结构。",
+    "split": "founder + -s → founders。创立者义可按 found 创立 + -er 人理解，历史经法语接拉丁 fundator、fundare 奠基；沉没动词另经法语 fondrer。",
+    "history": [
+      [
+        "拉丁 fundare 奠基 → fundator → 法语、英语 founder 创立者",
+        "像给事业打下基础的人"
+      ],
+      [
+        "拉丁 fundus 底部 → 法语 fondrer 下沉、倒塌 → founder 动词",
+        "现代可比喻计划失败，与创立者分支分别看"
+      ],
+      [
+        "founder + -s → founders",
+        "可作名词复数、动词第三人称"
+      ]
+    ],
+    "explanation": "the founders of a school 是学校创立者；founders on a difficulty 是受某个困难阻碍而失败。铸造行业另有 founder，接另一条铸造词史。",
+    "usage": "the founders of a school；the original founders；a plan founders。",
+    "contrast": "创立的 found 不是 find 的过去式 found；founders 的 founders 也不是把找到的人叫作 founder。",
+    "examples": [
+      [
+        "The founders of the school wanted smaller classes.",
+        "学校的创立者希望实行小班教学。"
+      ],
+      [
+        "The plan founders whenever the team discusses the cost.",
+        "团队每次讨论费用时，这个计划就受阻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/founders#English",
+      "https://www.etymonline.com/word/founder"
+    ]
+  },
+  {
+    "word": "guarantees",
+    "ipa": "英 /ˌɡærənˈtiːz/；美 /ˌɡerənˈtiːz/",
+    "meaning": "保证；保修承诺〔复数〕；保证、确保〔第三人称〕",
+    "sense": "有人对结果或责任作出明确承诺，就是 guarantees；它可以是一份份保证，也可以是某人作保证的动作。",
+    "split": "guarantee + -s → guarantees，保留 ee，/iː/ 后读 /z/。词史经法语 garant 等保护、担保材料，形式后来有改变；不是总能把 -ee 直接译成被保证者。",
+    "history": [
+      [
+        "法语 garant 保护者、保证等 → 较早英语相应形式",
+        "远接日耳曼保护、守护的材料"
+      ],
+      [
+        "guarantee 的担保、保证名词及动词 → guarantees",
+        "现代复数与第三人称同形，末尾重读 /tiːz/"
+      ]
+    ],
+    "explanation": "written guarantees 是书面保证；guarantees that... 是保证某事；guarantees success 是保证成功。实际句子还可能说不能保证。",
+    "usage": "written guarantees；guarantees that...；no guarantees。",
+    "contrast": "guarantees 表承诺、确保；不应仅因见到这个词就判断任何具体承诺都必然能兑现，句子本身也可能是否定或转述。",
+    "examples": [
+      [
+        "The shop provides written guarantees with its repairs.",
+        "这家店为维修服务提供书面保证。"
+      ],
+      [
+        "Careful planning never guarantees a perfect result.",
+        "周密计划也从不能保证结果完美。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guarantees#English",
+      "https://www.etymonline.com/word/guarantee"
+    ]
+  },
+  {
+    "word": "humid",
+    "ipa": "英、美 /ˈhjuːmɪd/",
+    "meaning": "潮湿的；空气湿度大的",
+    "sense": "衣服并没被雨直接淋湿，但空气里湿气很重、让人觉得黏，就是 humid 的典型感觉。它尤其常形容天气和空气。",
+    "split": "借法语 humide 或拉丁 humidus、umidus 潮湿的，远接 umere 潮湿。这个词作为借入形容词整体认识，不从现代 hum 的声音义推出。",
+    "history": [
+      [
+        "拉丁 umere 潮湿 → umidus、humidus 潮湿的",
+        "h 的出现常被认为受 humus 土壤的词形影响"
+      ],
+      [
+        "法语 humide 或拉丁对应词 → 英语 humid",
+        "现代常形容空气、气候中的湿气"
+      ]
+    ],
+    "explanation": "humid air 是潮湿空气；a humid climate 是湿润气候；hot and humid 是又热又潮。humid 本身只说潮湿，热要由 hot 等说明。",
+    "usage": "humid air；a humid climate；hot and humid。",
+    "contrast": "wet 常指表面、东西已经沾水，humid 更常说空气中水汽多；a humid room 不等于墙面一定正在滴水。",
+    "examples": [
+      [
+        "The air felt humid after the rain.",
+        "雨后空气感觉很潮湿。"
+      ],
+      [
+        "The story is set in a hot and humid town.",
+        "故事发生在一座炎热潮湿的小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humid#English",
+      "https://www.etymonline.com/word/humid"
+    ]
+  },
+  {
+    "word": "humidity",
+    "ipa": "英、美 /hjuːˈmɪdəti/",
+    "meaning": "湿度；潮湿程度",
+    "sense": "humid 是说空气很潮，humidity 则把潮湿拿出来当一项性质、一个量来谈：湿气到底有多少。",
+    "split": "可用 humid + -ity 状态、性质来理解词形对应；历史经法语 humidité 接拉丁 humiditas 潮湿，名词并非一定在英语中由 humid 临时加后缀造出。",
+    "history": [
+      [
+        "拉丁 humidus、humiditas → 法语 humide、humidité",
+        "形容潮湿与潮湿状态的对应词族"
+      ],
+      [
+        "英语 humidity；与 humid 对照学习",
+        "英语名词记录早于形容词，学习先后不等于历史先后"
+      ]
+    ],
+    "explanation": "high humidity 是湿度高；low humidity 是湿度低；relative humidity 是相对湿度这一具体量的名称，不能把所有湿度指标都当成同一个数。",
+    "usage": "high humidity；low humidity；relative humidity。",
+    "contrast": "说今天天气潮，可用 It is humid；说湿度高，可用 The humidity is high。一个形容状态，一个把性质作为名词谈。",
+    "examples": [
+      [
+        "The display shows the temperature and humidity.",
+        "显示屏上显示温度和湿度。"
+      ],
+      [
+        "The room had high humidity even on cool days.",
+        "即使天气凉爽，房间里的湿度也很高。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humidity#English",
+      "https://www.etymonline.com/word/humidity",
+      "https://www.etymonline.com/word/humid"
+    ]
+  },
+  {
+    "word": "licenses",
+    "ipa": "英、美 /ˈlaɪsənsɪz/",
+    "meaning": "许可证；授权〔复数〕；许可、授权〔第三人称〕",
+    "sense": "一个个正式允许做某事的凭证，可以叫 licenses；某机构 licenses a product，则是在说它作出授权。",
+    "split": "license 保留末尾 e 加 -s → licenses，/s/ 后读 /ɪz/。词源经法语 licence 接拉丁 licentia 许可、自由，远连 licere 被允许。",
+    "history": [
+      [
+        "拉丁 licere 被允许 → licentia → 法语 licence",
+        "许可、正式授权的词族"
+      ],
+      [
+        "英语 license → licenses",
+        "美式名词、动词皆可用此拼写，英式名词通常写 licences"
+      ]
+    ],
+    "explanation": "software licenses 是软件许可证、授权；licenses a design 是授权使用设计；driving licences 是常见英式名词拼写。",
+    "usage": "software licenses；licenses a design；licenses the use of a name。",
+    "contrast": "英式通常名词 licence、动词 license，美式通常两者都写 license；所以 licences、licenses 的差别要连词性、拼写习惯看。",
+    "examples": [
+      [
+        "The folder contains copies of our software licenses.",
+        "文件夹里存着我们软件授权的副本。"
+      ],
+      [
+        "The company licenses the design to other makers.",
+        "公司把这项设计授权给其他制造商使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/licenses#English",
+      "https://www.etymonline.com/word/license"
+    ]
+  },
+  {
+    "word": "notified",
+    "ipa": "英 /ˈnəʊtɪfaɪd/；美 /ˈnoʊtɪfaɪd/",
+    "meaning": "通知了；告知了〔过去式、过去分词〕",
+    "sense": "事情原本只有你知道，现在正式让相关的人也知道，就是 notified。常见于变动、结果、安排的通知。",
+    "split": "notify 的辅音字母 + y 改为 i，加完整 -ed → notified，/aɪ/ 后词尾读 /d/。词史接拉丁 notus 已知 + facere 使、做 → notificare。",
+    "history": [
+      [
+        "拉丁 notus 已知 + facere 使 → notificare 使知晓",
+        "把原来不知道的事告知别人"
+      ],
+      [
+        "法语 notefiier 等 → notify → notified",
+        "现代改 y 为 i，加 -ed，保留 /aɪ/"
+      ]
+    ],
+    "explanation": "notified us of a change 是通知我们有变动；notified us that... 是告知具体内容；was notified by email 是通过邮件收到通知。",
+    "usage": "notified us of the change；was notified by email；notified that...。",
+    "contrast": "notify 常把收到通知的人放在后面：notify someone of something。不能只记中文通知变动，就漏掉句子中应有的接收对象。",
+    "examples": [
+      [
+        "The school notified us of the change by email.",
+        "学校通过邮件通知了我们这项变动。"
+      ],
+      [
+        "She was notified that her application had been received.",
+        "她收到通知，说她的申请已经收到了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/notified#English",
+      "https://www.etymonline.com/word/notify"
+    ]
+  },
+  {
+    "word": "outfits",
+    "ipa": "英、美 /ˈaʊtfɪts/",
+    "meaning": "整套服装；装备；团队、机构〔复数〕；为……配备〔第三人称〕",
+    "sense": "不是单独一只鞋，而是搭好的一身衣服，常叫 outfits。更早的画面是把一趟行程需要的东西配齐，所以也有装备义。",
+    "split": "outfit + -s → outfits，/t/ 后读 /s/。outfit 含 out- + fit，先用于为船只等出行配备装备，后有整套衣物、团队等用法。",
+    "history": [
+      [
+        "out- + fit 配备 → outfit 出行装备、配备行为",
+        "把所需物品配齐的材料"
+      ],
+      [
+        "服装、团队等扩展义 → outfits",
+        "现代名词复数，也可作供应装备的动词第三人称"
+      ]
+    ],
+    "explanation": "matching outfits 是相互搭配的整套衣服；small outfits 在口语中可指小团队、小机构；outfits a group 是给一群人配备物品。",
+    "usage": "matching outfits；summer outfits；small local outfits。",
+    "contrast": "outfit 的服装义强调整套搭配，不只是一件单衣；词里的 out- 也不表示这套衣服只能穿出门。",
+    "examples": [
+      [
+        "They wore matching outfits for the performance.",
+        "他们穿了相互搭配的整套服装参加演出。"
+      ],
+      [
+        "Several small local outfits helped organize the event.",
+        "当地几个小团队帮忙组织了活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outfits#English",
+      "https://www.etymonline.com/word/outfit"
+    ]
+  },
+  {
+    "word": "phases",
+    "ipa": "英、美 /ˈfeɪzɪz/",
+    "meaning": "阶段；月相〔复数〕；分阶段实施、退出〔第三人称〕",
+    "sense": "月亮一段时间显成弯月，一段时间显成满月，这些外观变化是 phases；一项事情走到不同阶段，也借这个词来讲。",
+    "split": "现代 phase + -s → phases，保留 e，/z/ 后读 /ɪz/。phase 接希腊 phasis 显现、月相与 phainein 显示；英语较早还从复数材料回推出单数 phase。",
+    "history": [
+      [
+        "希腊 phasis 显现、月相 → 新拉丁 phasis、phases 等",
+        "天体在不同时间呈现的外观"
+      ],
+      [
+        "英语 phase 的单数形成与阶段义 → 现代 phases",
+        "现代既有阶段名词，也有分阶段实施的动词"
+      ]
+    ],
+    "explanation": "the phases of the moon 是月相；the phases of a project 是项目阶段；phases out 是逐步退出、淘汰。",
+    "usage": "the phases of the moon；different phases；phases out an old process。",
+    "contrast": "phases 是阶段、分阶段进行；fazes 是使慌乱、使受挫。两词同读 /ˈfeɪzɪz/，来源与现代意义不同。",
+    "examples": [
+      [
+        "The chart shows the phases of the moon.",
+        "图表展示了月相变化。"
+      ],
+      [
+        "The project has three main phases.",
+        "这个项目分为三个主要阶段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/phases#English",
+      "https://www.etymonline.com/word/phase"
+    ]
+  },
+  {
+    "word": "photographers",
+    "ipa": "英 /fəˈtɒɡrəfəz/；美 /fəˈtɑːɡrəfɚz/",
+    "meaning": "摄影者；摄影师〔复数〕",
+    "sense": "用光留下影像的人，是 photographers。词根图景可以记成用光作记录，但实际说的是摄影，不是拿灯写字。",
+    "split": "photograph + -er 人 → photographer，再加 -s。photograph 含 photo- 光 + graph- 写录；photographer 的重音落在第二音节，开头弱读 /fə/。",
+    "history": [
+      [
+        "希腊光与写录的词根材料 → photograph 摄影、照片",
+        "以记录光所成影像命名"
+      ],
+      [
+        "photograph + -er → photographer → photographers",
+        "拍摄者的复数，词尾 /z/"
+      ]
+    ],
+    "explanation": "professional photographers 是职业摄影师；wildlife photographers 是野生动物摄影者；a group of photographers 是一群摄影者。",
+    "usage": "professional photographers；wildlife photographers；a group of photographers。",
+    "contrast": "photograph 常第一音节重读，photographer 常第二音节重读；别只给后面添一个 -er 的读音而保留整词原来的重音。",
+    "examples": [
+      [
+        "Several photographers waited outside the theater.",
+        "几位摄影师在剧院外等候。"
+      ],
+      [
+        "The exhibition features work by young photographers.",
+        "展览展出了年轻摄影者的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/photographers#English",
+      "https://www.etymonline.com/word/photographer"
+    ]
+  },
+  {
+    "word": "polling",
+    "ipa": "英 /ˈpəʊlɪŋ/；美 /ˈpoʊlɪŋ/",
+    "meaning": "民意调查；投票、点票相关活动；轮询〔名词、分词〕",
+    "sense": "一个个问大家怎么想，再把回答汇总，是 polling。背后的老画面很直白：数人头，看看每个人站哪边。",
+    "split": "poll + -ing → polling，保留 poll 已有的双 l。poll 较早指头、头顶，后借数人头表达点票、投票与调查民意。",
+    "history": [
+      [
+        "poll 头、一个人 → 数人头、点票",
+        "由人头代表一个个参与者"
+      ],
+      [
+        "poll 的投票、调查等义 + -ing → polling",
+        "现代计算机语境另用作周期查询状态的轮询名称"
+      ]
+    ],
+    "explanation": "opinion polling 是民意调查；a polling station 是投票站；程序里 polling 是反复检查是否有新状态，不一定有人参与答题。",
+    "usage": "opinion polling；a polling station；polling a device。",
+    "contrast": "polling、pollen 花粉读音、拼写接近，但词源和意思不同。民调结果与实际投票也不是同一件事。",
+    "examples": [
+      [
+        "Opinion polling was one topic in the statistics lesson.",
+        "民意调查是这节统计课的一个话题。"
+      ],
+      [
+        "The program uses polling to check whether a task has finished.",
+        "这个程序用轮询来检查任务是否完成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/polling#English",
+      "https://www.etymonline.com/word/poll"
+    ]
+  },
+  {
+    "word": "popping",
+    "ipa": "英 /ˈpɒpɪŋ/；美 /ˈpɑːpɪŋ/",
+    "meaning": "啪响；爆开；突然出现；短暂到访〔分词、动名词等〕",
+    "sense": "玉米啪地爆开、窗口突然冒出来，或熟人顺便进来一下，都能见到 popping。短促、突然的感觉把这些现代用法连在一起。",
+    "split": "pop 双写末尾 p，加 -ing → popping。动作 pop 来自模仿短促爆响的材料；音乐 pop 缩自 popular，是另一条来源。",
+    "history": [
+      [
+        "短促爆响的拟声材料 → pop 的声音、动作义",
+        "后来有突然出现、短暂移动等用法"
+      ],
+      [
+        "pop + -ing → popping",
+        "双写 p，保留短元音"
+      ]
+    ],
+    "explanation": "corn popping 是玉米爆开；popping up 是突然出现；popping in 是短暂来访、顺便进来。",
+    "usage": "corn popping；popping up；popping in for a moment。",
+    "contrast": "popping 后面的小词常决定具体动作；popping up 不必真的炸开，popping in 也不必发出啪声。",
+    "examples": [
+      [
+        "We could hear the corn popping in the kitchen.",
+        "我们能听见厨房里玉米爆开的声音。"
+      ],
+      [
+        "New ideas kept popping up during the discussion.",
+        "讨论时新点子不断冒出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/popping#English",
+      "https://www.etymonline.com/word/pop"
+    ]
+  },
+  {
+    "word": "prisons",
+    "ipa": "英、美 /ˈprɪzənz/",
+    "meaning": "监狱〔复数〕",
+    "sense": "把被拘留、关押的人限制在里面的场所，就是 prisons。词源的远处有抓住、拘留的动作，后来用来称关押的地方。",
+    "split": "prison + -s → prisons，/n/ 后读 /z/。拉丁 prehendere 抓住、取，经 prehensio、prensio 的缩短材料与古法语 prisoun 等进入英语。",
+    "history": [
+      [
+        "拉丁 prehendere → prehensio、prensio 取、拘留等",
+        "较长词形有缩短、转化"
+      ],
+      [
+        "古法语 prisoun 关押、监狱等 → prison → prisons",
+        "现代复数主要数监狱场所"
+      ]
+    ],
+    "explanation": "old prisons 是旧监狱；libraries in prisons 是监狱图书馆；the history of prisons 是监狱制度、场所的历史。",
+    "usage": "old prisons；libraries in prisons；the history of prisons。",
+    "contrast": "prisons 是关押场所，prisoners 是被关押者。后缀 -er 的有无，把场所与其中的人区别开来。",
+    "examples": [
+      [
+        "The book describes how old prisons were designed.",
+        "这本书介绍了旧监狱的设计方式。"
+      ],
+      [
+        "The charity supplies books to libraries in prisons.",
+        "这家慈善机构为监狱图书馆提供书籍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prisons#English",
+      "https://www.etymonline.com/word/prison"
+    ]
+  },
+  {
+    "word": "pumps",
+    "ipa": "英、美 /pʌmps/",
+    "meaning": "泵〔复数〕；浅口鞋等鞋类名称〔复数〕；抽送〔第三人称〕",
+    "sense": "把水、空气推送出去的机器，是 pumps；鞋店里的 pumps 却是鞋。动作 pumps water，则是抽水、送水。",
+    "split": "pump + -s → pumps，/p/ 后读 /s/。机器名可能接荷兰语、低地德语海员用语；鞋名 pump 远源不定，两路分别记。",
+    "history": [
+      [
+        "海员、低地日耳曼的抽水器具材料 → pump 泵",
+        "后来作抽送的动词，拟声分析只是一种可能"
+      ],
+      [
+        "独立鞋名 pump → pumps",
+        "不同地区可指浅口鞋、女式浅口鞋或轻便运动鞋等"
+      ],
+      [
+        "pump + -s → pumps",
+        "现代名词复数或动作第三人称"
+      ]
+    ],
+    "explanation": "water pumps 是水泵；pumps water 是抽送水；a pair of pumps 是一双相应鞋类，具体款式依地区和上下文。",
+    "usage": "water pumps；pumps water；a pair of pumps。",
+    "contrast": "不要用机器故事解释鞋名，也不要把每个 pumps 都译成高跟鞋：鞋类范围在不同英语地区并不完全相同。",
+    "examples": [
+      [
+        "Two pumps keep water moving through the display.",
+        "两台泵让展示装置里的水不断循环。"
+      ],
+      [
+        "She wore a simple pair of black pumps.",
+        "她穿了一双简洁的黑色浅口鞋。"
+      ],
+      [
+        "The machine pumps water into the tank.",
+        "机器把水抽送进水箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pumps#English",
+      "https://www.etymonline.com/word/pump"
+    ]
+  },
+  {
+    "word": "refined",
+    "ipa": "英、美 /rɪˈfaɪnd/",
+    "meaning": "精制的；文雅的；经过改进的；提纯、改进了〔过去式、过去分词〕",
+    "sense": "去掉粗糙、多余的部分，让东西更纯、做法更细致，是 refined 的共同理解画面。可以说物质，也可以说举止、方法。",
+    "split": "refine 去末尾 e，加完整 -ed → refined，/n/ 后读 /d/。re- 在此可能是加强，后接旧动词 fine 使精纯，不必理解为已经做过又做一次。",
+    "history": [
+      [
+        "fine 精纯、精细 → refine 提纯、使精细",
+        "与法语等相应形式有联系"
+      ],
+      [
+        "refine + -ed → refined",
+        "现代过去形式、形容词，表示精制、文雅、经过打磨"
+      ]
+    ],
+    "explanation": "refined sugar 是精制糖；refined manners 是文雅举止；a refined method 是改进、细化后的方法。",
+    "usage": "refined sugar；refined manners；a refined method。",
+    "contrast": "refined 说经过提纯、打磨或显得文雅，并不自动说明所有方面都更好。具体评价仍看用途和句子。",
+    "examples": [
+      [
+        "The team refined the design after the first trial.",
+        "首次试验后，团队改进了设计。"
+      ],
+      [
+        "The novel describes her quiet voice and refined manners.",
+        "小说描写了她轻柔的声音和文雅的举止。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refined#English",
+      "https://www.etymonline.com/word/refine"
+    ]
+  },
+  {
+    "word": "sorted",
+    "ipa": "英 /ˈsɔːtɪd/；美 /ˈsɔːrtɪd/",
+    "meaning": "分好类的；排好序的；处理妥当的；分类、解决了",
+    "sense": "把乱七八糟的东西分门别类摆好，是 sorted；把一团乱的问题理顺，也可以说 sorted。",
+    "split": "sort + -ed → sorted，/t/ 后读 /ɪd/。sort 接法语 sortir、sorte 与拉丁 sortiri、sors 的分配、类别等材料，部分用法还有词义汇合。",
+    "history": [
+      [
+        "拉丁 sors 分得的份额、类别等 → 法语相关名词、动词",
+        "分配、按类安排的材料"
+      ],
+      [
+        "英语 sort 分类、整理 → sorted",
+        "后来也说解决问题、安排妥当"
+      ]
+    ],
+    "explanation": "sorted by date 是按日期排好；sorted into groups 是分好组；get it sorted 是把事情处理好，常见于英式口语等语境。",
+    "usage": "sorted by date；sorted into groups；get it sorted。",
+    "contrast": "sorted 可以说分类，不一定已经按数字、字母排成唯一顺序；具体怎样整理，要看 by、into 等搭配。",
+    "examples": [
+      [
+        "The photos are sorted by date.",
+        "照片按日期排好了。"
+      ],
+      [
+        "We finally got the travel arrangements sorted.",
+        "我们终于把行程安排妥当了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sorted#English",
+      "https://www.etymonline.com/word/sort"
+    ]
+  },
+  {
+    "word": "stems",
+    "ipa": "英、美 /stemz/",
+    "meaning": "茎、梗；词干〔复数〕；源于；遏止〔第三人称〕",
+    "sense": "植物支撑叶花的茎，是 stems；问题从某处长出来，可说 stems from。可 stems the flow 是遏止流动，背后又是另一条来源。",
+    "split": "stem + -s → stems，/m/ 后读 /z/。茎干义承古英语 stemn、stefn，与竖立支撑材料相关；阻挡义接古北欧 stemma 等，通常不视为同源。",
+    "history": [
+      [
+        "古英语 stemn、stefn 树干、支柱 → stem 茎干",
+        "词干、来源等比喻义在这一词族内发展"
+      ],
+      [
+        "古北欧 stemma 阻挡、堵住 → stem 遏止",
+        "另一条动词词史，不能由树茎直接推出"
+      ],
+      [
+        "stem + -s → stems",
+        "名词复数与不同动词的第三人称同形"
+      ]
+    ],
+    "explanation": "flower stems 是花茎；word stems 是词干；stems from confusion 是源于混乱；stems the flow 是遏止流动。",
+    "usage": "flower stems；word stems；stems from a misunderstanding。",
+    "contrast": "stems from 说来源，不是阻止；不带 from 的 stems the flow 才是遏止这一路。词干也不总等于最小的词根。",
+    "examples": [
+      [
+        "The flowers have long, thin stems.",
+        "这些花长着细长的茎。"
+      ],
+      [
+        "The problem stems from a misunderstanding.",
+        "这个问题源于一次误解。"
+      ],
+      [
+        "In the model, a barrier stems the flow of water.",
+        "模型里，一道障碍挡住了水流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stems#English",
+      "https://www.etymonline.com/word/stem"
+    ]
+  },
+  {
+    "word": "strengths",
+    "ipa": "英、美 /streŋθs/，也有 /streŋkθs/",
+    "meaning": "长处；优势；不同程度的强度〔复数〕",
+    "sense": "一个人擅长沟通，另一个擅长找细节，这些各自拿得出的本事，就是 strengths。把强的地方单独拿出来数。",
+    "split": "strength + -s → strengths，/θ/ 后读 /s/。strength 与 strong 同族，承古英语 strengþu 等名词，含古老 -th 性质名词材料及元音变化。",
+    "history": [
+      [
+        "强壮、紧实的日耳曼词族 → 古英语 strong、strengþu 等",
+        "形容强与力量名词之间有历史元音对应"
+      ],
+      [
+        "strength + -s → strengths",
+        "现代常说各项优势、长处，也可说多种强度"
+      ]
+    ],
+    "explanation": "strengths and weaknesses 是优点和缺点；play to your strengths 是发挥自己的长处；different strengths 是不同强度、程度。",
+    "usage": "strengths and weaknesses；play to your strengths；personal strengths。",
+    "contrast": "strength 常不可数地说力量；strengths 常可数地说优势，不是要把肌肉的力气硬数成几份。",
+    "examples": [
+      [
+        "We discussed the strengths of each design.",
+        "我们讨论了每种设计的优点。"
+      ],
+      [
+        "Her main strengths are patience and clear communication.",
+        "她的主要长处是耐心和沟通清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strengths#English",
+      "https://www.etymonline.com/word/strength"
+    ]
+  },
+  {
+    "word": "suffers",
+    "ipa": "英 /ˈsʌfəz/；美 /ˈsʌfɚz/",
+    "meaning": "受苦；遭受；受损、变差〔第三人称〕",
+    "sense": "难受的事落到身上、由自己承受，是 suffers；连工作质量也能 suffers，意思是受影响、变差了。",
+    "split": "suffer + -s → suffers，词尾 /z/。拉丁 sub- 在下 + ferre 承载 → sufferre，经法语 sofrir、suffrir 等进入英语，sub- 在 f 前同化。",
+    "history": [
+      [
+        "拉丁 sub- + ferre → sufferre 承载、承受",
+        "承受不利事物的历史材料"
+      ],
+      [
+        "法语相应形式 → suffer → suffers",
+        "现代受苦、遭受或质量受影响的第三人称"
+      ]
+    ],
+    "explanation": "suffers from delays 是受到延误困扰；suffers a loss 是遭受损失；quality suffers 是质量变差。",
+    "usage": "suffers from delays；suffers a loss；quality suffers。",
+    "contrast": "suffer from 后常接困扰来源、长期问题；suffer a loss 直接接遭受的事情。它不只能描述人的身体疼痛。",
+    "examples": [
+      [
+        "The service suffers from frequent delays.",
+        "这项服务经常受到延误困扰。"
+      ],
+      [
+        "The quality suffers when everything is rushed.",
+        "一切都赶着做时，质量就会下降。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suffers#English",
+      "https://www.etymonline.com/word/suffer"
+    ]
+  }
+]

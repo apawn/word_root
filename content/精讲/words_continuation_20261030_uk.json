@@ -1,0 +1,316 @@
+[
+  {
+    "word": "chip",
+    "ipa": "/tʃɪp/",
+    "meaning": "小碎片、薄片；缺口；芯片；筹码；削掉、崩掉一小块",
+    "sense": "木头上削下一小片，杯沿崩掉一小块，是最容易抓住的画面。小而薄的片状物又可以成为筹码、食品薄片、电子芯片的名称。",
+    "split": "接古英语 cipp 木片、小块等与相关削切动词材料。后来的食品片、游戏筹码、半导体芯片等义按小片的形状或作用发展；更远词源不必定成唯一说法。",
+    "history": [
+      [
+        "古英语 cipp 及相关削切词族",
+        "从整体分出的小块、木片"
+      ],
+      [
+        "现代 chip 的具体分支",
+        "碎片、缺口；食品片、筹码、芯片"
+      ]
+    ],
+    "explanation": "a chip in the cup 杯上的缺口；wood chips 木屑；a computer chip 电脑芯片；chips 英式常指薯条，美式常指薯片；chip in 凑份子、插话。",
+    "usage": "chip the paint；a bag of chips；chip in with an idea。",
+    "contrast": "chip 动词常表示分出或掉下一小块，crack 可以只裂开而未掉块。食物 chips 的英美差别要按所在地和菜单判断。",
+    "examples": [
+      [
+        "There is a small chip on the edge of the plate.",
+        "盘沿有一个小缺口。"
+      ],
+      [
+        "The device contains a tiny computer chip.",
+        "那个装置里有一枚很小的电脑芯片。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/chip",
+      "https://en.wiktionary.org/wiki/chip#English"
+    ]
+  },
+  {
+    "word": "chipping",
+    "ipa": "/ˈtʃɪpɪŋ/",
+    "meaning": "削下、凿落小块；崩缺、掉漆；chip 的 -ing 形式",
+    "sense": "把旧漆一点点凿掉、杯沿一点点崩缺，都保留小块小块掉下来的画面。chipping in 在对话或凑钱时另按固定搭配理解。",
+    "split": "chip 双写词末 p 加 -ing，来自小片、削切词族。名词 chippings 尤其英式可说碎石屑；高尔夫中的 chipping 又指短切击球。",
+    "history": [
+      [
+        "chip",
+        "削、崩掉小片；发展出多种固定搭配"
+      ],
+      [
+        "chip + -ing → chipping",
+        "削凿、崩缺的动作；短切等专门用法"
+      ]
+    ],
+    "explanation": "chipping away at the paint 一点点凿漆；paint chipping 掉漆；chipping in for a gift 凑钱买礼物；chipping away at a problem 逐步解决问题。",
+    "usage": "keep chipping away；chipping in with a suggestion。",
+    "contrast": "chipping away 可真说削掉小块，也可比喻持续做一点、慢慢推进；比喻是现代搭配的用法，不必把每次凑钱都想成真削木片。",
+    "examples": [
+      [
+        "He was chipping old paint off the door.",
+        "他正在一点点凿掉门上的旧漆。"
+      ],
+      [
+        "Everyone is chipping in to buy a gift.",
+        "大家都在凑钱买礼物。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/chip",
+      "https://en.wiktionary.org/wiki/chipping#English"
+    ]
+  },
+  {
+    "word": "scrape",
+    "ipa": "/skreɪp/",
+    "meaning": "刮、擦；擦伤、刮痕；勉强凑出或过关；困境",
+    "sense": "硬边沿着表面擦过去，刮下薄薄一层，可能还带刺耳声音。凑钱很吃力时，也像把边边角角都刮来凑。",
+    "split": "中古英语 scrapen 等，大概合有古诺斯 skrapa 与同族古英语 scrapian 的材料。早期刮去、擦除，后来有费力搜集、勉强凑出和陷入难处等用法。",
+    "history": [
+      [
+        "古诺斯、古英语相关刮擦材料 → scrapen",
+        "刮去表层、擦除"
+      ],
+      [
+        "现代 scrape",
+        "刮擦；费力凑集、勉强通过；难处"
+      ]
+    ],
+    "explanation": "scrape paint off 刮掉漆；scrape one’s knee 擦破膝盖；scrape together some money 勉强凑些钱；scrape through an exam 勉强通过考试。",
+    "usage": "a scrape on the car；get into a scrape。",
+    "contrast": "scratch 常突出划出细痕，scrape 常突出一片表面被刮擦。scrape by 是勉强维持、过活，意思由完整搭配给出。",
+    "examples": [
+      [
+        "She scraped the mud off her boots.",
+        "她把靴子上的泥刮掉。"
+      ],
+      [
+        "We scraped together enough money for the tickets.",
+        "我们勉强凑够了买票的钱。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/scrape",
+      "https://en.wiktionary.org/wiki/scrape#English"
+    ]
+  },
+  {
+    "word": "scraping",
+    "ipa": "/ˈskreɪpɪŋ/",
+    "meaning": "刮擦；刮下的少量东西；scrape 的 -ing 形式",
+    "sense": "金属边在地上拖，耳朵听到刮擦声；勺子刮过碗底，最后那一点残余也被收起来。",
+    "split": "scrape 去词末 e 加 -ing；动作名词说刮擦，scrapings 常说刮下的碎屑、少量残余。技术语境中的数据采集也是后来专门用法，不能一律按实体刮擦理解。",
+    "history": [
+      [
+        "scrape 的旧刮擦词族",
+        "沿表面刮过、擦去"
+      ],
+      [
+        "scrape + -ing → scraping",
+        "动作、声音；刮下的少量材料"
+      ]
+    ],
+    "explanation": "a scraping sound 刮擦声；scraping paint 刮漆；scraping the bowl clean 把碗刮干净；scraping by 勉强维持生活。",
+    "usage": "the scraping of a chair；scrapings from the pan。",
+    "contrast": "scraping 是动作或名词，scrape 的过去式是 scraped。a scraping sound 可作声音的描述，不要求整句话一定是进行时。",
+    "examples": [
+      [
+        "We heard a scraping sound as the chair moved across the floor.",
+        "椅子在地板上移动时，我们听到一阵刮擦声。"
+      ],
+      [
+        "She was scraping the last bit of dough from the bowl.",
+        "她正在把碗里最后一点面团刮出来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/scrape",
+      "https://en.wiktionary.org/wiki/scraping#English"
+    ]
+  },
+  {
+    "word": "grate",
+    "ipa": "/ɡreɪt/",
+    "meaning": "擦碎、磨碎；发刺耳声、使烦躁；另源名词：金属栅格、炉箅",
+    "sense": "奶酪在刨丝器上来回擦，碎屑落下来；尖硬的声音在耳朵里来回磨，也让人觉得烦。金属栅格这一名词另有来源。",
+    "split": "刮擦动词经古法语 grater，接法兰克语等刮、抓材料。栅格名词经法语或中世纪拉丁 grata，接拉丁 cratis 编织框架；两条借词后来同形。",
+    "history": [
+      [
+        "古法语 grater → 动词 grate",
+        "刮擦、磨碎 → 声音刺耳、惹烦"
+      ],
+      [
+        "法语／拉丁 grata、cratis → 名词 grate",
+        "栅格、炉箅；不同来源"
+      ]
+    ],
+    "explanation": "grate cheese 擦奶酪丝；grate ginger 擦碎姜；grate on someone’s nerves 磨得人心烦；a metal grate 金属栅格。",
+    "usage": "grate finely；a fire grate。",
+    "contrast": "grate 与 great 很棒的同音但含义不同；grate 的动作分支和栅格名词也要按上下文分开。声音磨人来自刮擦的比喻。",
+    "examples": [
+      [
+        "Grate a little cheese over the pasta.",
+        "在意面上擦一点奶酪丝。"
+      ],
+      [
+        "His constant humming began to grate on her nerves.",
+        "他不停哼歌，开始让她心烦。"
+      ],
+      [
+        "A metal grate covered the opening.",
+        "开口上盖着金属栅格。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/grate",
+      "https://en.wiktionary.org/wiki/grate#English"
+    ]
+  },
+  {
+    "word": "grating",
+    "ipa": "/ˈɡreɪtɪŋ/",
+    "meaning": "刺耳、烦人的；刮擦、擦碎；另源名词：栅格、格栅",
+    "sense": "a grating voice 像粗糙表面磨过耳朵；a metal grating 则是看得见的格栅。一个听觉比喻，一个框架实物。",
+    "split": "动词 grate 去 e 加 -ing，可说擦碎、刮擦，分词形容词再说刺耳、惹烦。栅格名词 grating 接另源的名词 grate，不把金属框架编成由令人心烦变来。",
+    "history": [
+      [
+        "刮擦动词 grate + -ing",
+        "擦碎、刮擦；声音粗厉、烦人"
+      ],
+      [
+        "另源栅格名词 grate → grating",
+        "平行或交叉杆组成的框架"
+      ]
+    ],
+    "explanation": "a grating noise 刺耳噪声；a grating tone 刺耳的语调；grating cheese 正在擦奶酪；an iron grating 铁格栅。",
+    "usage": "a harsh, grating voice；a grating over the drain。",
+    "contrast": "grating 作形容词描述声音或行为令人不舒服；作可数名词 a grating 多指具体格栅。冠词、修饰词与场景能帮助分义。",
+    "examples": [
+      [
+        "The machine made a harsh, grating noise.",
+        "机器发出粗厉刺耳的噪声。"
+      ],
+      [
+        "She was grating cheese while the soup simmered.",
+        "汤小火炖着时，她正在擦奶酪丝。"
+      ],
+      [
+        "Leaves had collected on the iron grating.",
+        "树叶积在了铁格栅上。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/grating",
+      "https://en.wiktionary.org/wiki/grating#English"
+    ]
+  },
+  {
+    "word": "glide",
+    "ipa": "/ɡlaɪd/",
+    "meaning": "平滑移动、滑行；滑翔；轻松通过",
+    "sense": "天鹅在水面不紧不慢地划过，看起来几乎不费劲。glide 把移动的平顺、连续、轻巧突出出来。",
+    "split": "接古英语 glidan 平滑移动、滑过等旧强变化词族；后来现代常用规则过去式 glided。更远与哪些 gl- 词有关存在推测，不把所有 gl 开头词都当一个可拆前缀。",
+    "history": [
+      [
+        "古英语 glidan → 中古英语相关形式",
+        "滑行、顺畅地移动"
+      ],
+      [
+        "现代 glide；过去常 glided",
+        "平滑移动、滑翔；比喻顺利通过"
+      ]
+    ],
+    "explanation": "glide across the water 滑过水面；glide through the air 在空中滑翔；glide through an exam 轻松通过考试；glide into the room 轻巧地走进房间。",
+    "usage": "glide smoothly；glide past。",
+    "contrast": "slide 常关注沿表面滑动，也可滑倒；glide 更突出顺滑、轻巧的移动。滑翔语境还要按飞行方式理解，不能都译成地面滑行。",
+    "examples": [
+      [
+        "A swan glided across the lake.",
+        "一只天鹅平滑地游过湖面。"
+      ],
+      [
+        "She seemed to glide through the crowded room.",
+        "她在拥挤的房间里穿行，显得轻巧从容。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/glide",
+      "https://en.wiktionary.org/wiki/glide#English"
+    ]
+  },
+  {
+    "word": "gliding",
+    "ipa": "/ˈɡlaɪdɪŋ/",
+    "meaning": "滑行、滑翔；滑翔运动；glide 的 -ing 形式",
+    "sense": "鸟儿展开翅膀平稳掠过，船沿水面顺畅前进，都能看到 gliding。作为运动名词时，常说驾驶滑翔机的活动。",
+    "split": "glide 去词末 e 加 -ing，既形成动作分词，也形成滑行、滑翔的活动名词；继承旧平滑移动词族。",
+    "history": [
+      [
+        "glide",
+        "平滑移动、滑行、滑翔"
+      ],
+      [
+        "glide + -ing → gliding",
+        "动作、方式；滑翔运动"
+      ]
+    ],
+    "explanation": "gliding over the water 滑过水面；a gliding motion 平顺的滑动；go gliding 去玩滑翔；a gliding club 滑翔俱乐部。",
+    "usage": "smooth gliding；birds gliding overhead。",
+    "contrast": "gliding 作活动名词不必译成正在：She enjoys gliding 是喜欢滑翔运动。was gliding 才在相应时态中说正在滑行、滑翔。",
+    "examples": [
+      [
+        "We watched birds gliding above the cliffs.",
+        "我们看着鸟儿在峭壁上方滑翔。"
+      ],
+      [
+        "He joined a gliding club last summer.",
+        "他去年夏天加入了一个滑翔俱乐部。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/glide",
+      "https://en.wiktionary.org/wiki/gliding#English"
+    ]
+  },
+  {
+    "word": "glider",
+    "ipa": "英 /ˈɡlaɪdə/；美 /ˈɡlaɪdər/",
+    "meaning": "滑翔机；滑行、滑翔的人或物",
+    "sense": "把 glide 这个动作落到执行它的人或物上，就得到 glider。日常最容易遇到的是滑翔机：靠机翼在空气中滑翔。",
+    "split": "glide 去末尾 e 加 -er；较早泛指滑行者、物，后来用于无动力飞机等名称。-er 不只给人命名，机器、动物等也可按动作得名。",
+    "history": [
+      [
+        "glide + -er → glider",
+        "滑行、滑翔的人或物"
+      ],
+      [
+        "后来的航空等专门名称",
+        "滑翔机；其他滑翔相关对象"
+      ]
+    ],
+    "explanation": "a glider pilot 滑翔机飞行员；a model glider 模型滑翔机；launch a glider 让滑翔机升空。具体设计和起飞方式要看所指机型。",
+    "usage": "a glider circling overhead；fly a glider。",
+    "contrast": "gliding 是活动或动作，glider 是执行者或器具。不要因为看到 -er 就只找一个人；a model glider 明确是模型飞行器。",
+    "examples": [
+      [
+        "The glider circled silently above the field.",
+        "滑翔机在田野上方静静盘旋。"
+      ],
+      [
+        "The children built a small model glider.",
+        "孩子们制作了一架小型滑翔机模型。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/glider",
+      "https://en.wiktionary.org/wiki/glider#English"
+    ]
+  }
+]

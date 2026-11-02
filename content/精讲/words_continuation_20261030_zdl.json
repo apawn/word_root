@@ -1,0 +1,748 @@
+[
+  {
+    "word": "staple",
+    "ipa": "/ˈsteɪpəl/",
+    "meaning": "订书钉、金属扣；基本用品、主食；主要的；用钉扣固定",
+    "sense": "弯成 U 形、两头穿入材料再固定的小金属件，是 staple。餐桌上总离不开的基本食物，也叫 a staple，但这条历史经过市场、主要商品。",
+    "split": "金属扣支常接古英语 stapol、stapel 柱、支物等，后来的小扣与旧词如何连续演变仍有讨论。基本用品支经法语 estaple 指定市场、集散处，再到主要商品、核心成分；不能用金属钉固定食物编成唯一故事。",
+    "history": [
+      [
+        "古英语支柱等材料 → staple 金属扣支",
+        "具体语义过渡未全确定；后来有订纸小钉"
+      ],
+      [
+        "法语 estaple 市场 → staple 主要商品、基本用品",
+        "主要供应品 → 主食、核心成分等"
+      ]
+    ],
+    "explanation": "a metal staple 金属扣；a staple food 主食；staple the pages together 把纸订在一起。",
+    "usage": "a diet staple 日常基本食物；office staples 办公基本用品或订书钉〔看语境〕。",
+    "contrast": "staple 的常用两支要分别记：器具、固定动作一边，主要商品到基本所需一边。主食义不要求每种都在历史上当过某个指定市场的商品。",
+    "examples": [
+      [
+        "Rice is a staple in many households.",
+        "米饭是许多家庭的主食。"
+      ],
+      [
+        "She used a staple to hold the pages together.",
+        "她用一枚订书钉把纸订在一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staple#English",
+      "https://www.etymonline.com/word/staple"
+    ]
+  },
+  {
+    "word": "staples",
+    "ipa": "/ˈsteɪpəlz/",
+    "meaning": "订书钉；主食、基本用品〔复数〕；订、用金属扣固定〔第三人称单数〕",
+    "sense": "一枚枚订书钉，是 staples；一类类常备必需品，也是 staples。句子里出现纸张还是米面、用品，会把两支分开。",
+    "split": "金属扣 staple 与古英语支柱词有历史联系的分析；基本商品 staple 经法语市场名发展。现代各支加 -s，/l/ 后读 /z/，订钉动词也同形。",
+    "history": [
+      [
+        "staple 的金属扣支、基本商品支",
+        "两条历史分别形成今日常用义"
+      ],
+      [
+        "staple + -s → staples",
+        "多枚钉、基本用品；某人把东西订住"
+      ]
+    ],
+    "explanation": "a box of staples 一盒订书钉；food staples 基本食物；staples the pages 把纸订在一起。",
+    "usage": "household staples 家庭基本用品；replace the staples 更换订钉。",
+    "contrast": "office staples 在具体办公耗材语境可能是订书钉，泛谈必需品时也可指基本用品。靠附近对象判断。",
+    "examples": [
+      [
+        "The drawer held a box of staples.",
+        "抽屉里放着一盒订书钉。"
+      ],
+      [
+        "The cupboard was stocked with rice and other staples.",
+        "柜子里备着大米和其他基本食品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staples#English",
+      "https://en.wiktionary.org/wiki/staple#English"
+    ]
+  },
+  {
+    "word": "stapler",
+    "ipa": "英 /ˈsteɪplə/；美 /ˈsteɪplər/",
+    "meaning": "订书器、订钉器",
+    "sense": "把一枚枚 U 形金属钉压进材料、扣住两边的器具，是 stapler。staple 是订钉动作，er 命名做这件事的工具。",
+    "split": "现代器具名对应 staple 动词去 e，加完整 -er。金属扣名先形成相关固定动作，再由这个动作命名器具；旧同形行业称呼另有历史。",
+    "history": [
+      [
+        "staple 金属扣 → staple 固定动作",
+        "把材料用钉扣接住"
+      ],
+      [
+        "staple 去 e + -er → stapler",
+        "执行订钉的器具"
+      ]
+    ],
+    "explanation": "a desk stapler 桌面订书器；a heavy stapler 厚重订书器。",
+    "usage": "use a stapler 使用订书器；a stapler on the desk 桌上的订书器。",
+    "contrast": "这里的 er 是完整器具后缀。基础词末尾 e 去掉后才接 er，不能只把最后 r 当成全部后缀。",
+    "examples": [
+      [
+        "She used a stapler to fasten the pages.",
+        "她用订书器把纸订好。"
+      ],
+      [
+        "The stapler was beside the scissors.",
+        "订书器放在剪刀旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stapler#English",
+      "https://www.etymonline.com/word/staple"
+    ]
+  },
+  {
+    "word": "staplers",
+    "ipa": "英 /ˈsteɪpləz/；美 /ˈsteɪplərz/",
+    "meaning": "订书器、订钉器〔复数〕",
+    "sense": "几只把金属钉压入材料的工具，是 staplers。先有 staple 订钉动作，再用 er 给器具命名。",
+    "split": "staple 去 e 加 -er → stapler，再加复数 -s，尾 /z/。这里数的是机器、器具，和一枚枚 staples 分开。",
+    "history": [
+      [
+        "staple + -er〔去 e〕→ stapler",
+        "订钉动作的执行器具"
+      ],
+      [
+        "stapler + -s → staplers",
+        "多只订书器"
+      ]
+    ],
+    "explanation": "desk staplers 桌面订书器；office staplers 办公订书器。",
+    "usage": "staplers in the drawer 抽屉里的订书器；repair the staplers 修订书器。",
+    "contrast": "staples 是被压入的钉，staplers 是压钉的工具。多出的 er 正好把作用关系分清。",
+    "examples": [
+      [
+        "The cupboard held two staplers.",
+        "柜子里放着两只订书器。"
+      ],
+      [
+        "Each desk had paper and staplers.",
+        "每张桌子上都有纸和订书器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staplers#English",
+      "https://en.wiktionary.org/wiki/stapler#English"
+    ]
+  },
+  {
+    "word": "stapled",
+    "ipa": "/ˈsteɪpəld/",
+    "meaning": "订好了、用钉扣固定的",
+    "sense": "几页纸已经被金属小钉扣在一起，就是 stapled。它说明固定动作做完或材料处在订好的状态。",
+    "split": "staple 金属扣名转固定动词，现代去 e 加完整 -ed，/l/ 后读 /d/。这里取今日常用订钉义。",
+    "history": [
+      [
+        "staple 金属扣 → 固定动词",
+        "用钉扣把材料接住"
+      ],
+      [
+        "staple 去 e + -ed → stapled",
+        "过去订好了；已经订住的"
+      ]
+    ],
+    "explanation": "stapled pages 订好的纸页；stapled together 订在一起。",
+    "usage": "stapled the notice to the board 把通知钉到板上；a stapled booklet 钉订的小册子。",
+    "contrast": "stapled 侧重用金属钉扣固定，taped 则常是用胶带。两者都能接材料，但固定方式不同。",
+    "examples": [
+      [
+        "She stapled the pages together.",
+        "她把纸页订在一起。"
+      ],
+      [
+        "The stapled booklet lay on the desk.",
+        "钉订的小册子放在桌上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stapled#English",
+      "https://en.wiktionary.org/wiki/staple#English"
+    ]
+  },
+  {
+    "word": "stapling",
+    "ipa": "/ˈsteɪplɪŋ/",
+    "meaning": "正在订钉；订钉的过程",
+    "sense": "一页页对齐，用器具把金属小钉压进去，过程正在进行，就是 stapling。",
+    "split": "staple 去 e 加 -ing，常用读音里词尾弱音节可压缩，成为 /ˈsteɪplɪŋ/。",
+    "history": [
+      [
+        "staple 的固定动词",
+        "把材料用钉扣订住"
+      ],
+      [
+        "staple 去 e + -ing → stapling",
+        "正在订；订钉活动"
+      ]
+    ],
+    "explanation": "stapling the pages 正在订纸；finish stapling 订完。",
+    "usage": "stapling documents 把文件订起来；stapling equipment 订钉设备。",
+    "contrast": "stapler 是工具，stapling 是动作过程，stapled 常是已完成状态。这三个形式围绕同一个订钉动作。",
+    "examples": [
+      [
+        "He was stapling the documents when she arrived.",
+        "她到时，他正在把文件订起来。"
+      ],
+      [
+        "She finished stapling the pages before the meeting.",
+        "她在开会前订好了纸页。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stapling#English",
+      "https://en.wiktionary.org/wiki/staple#English"
+    ]
+  },
+  {
+    "word": "fax",
+    "ipa": "/fæks/",
+    "meaning": "传真、传真件；传真机〔按语境〕；用传真发送",
+    "sense": "把文件页面的样子传到另一边、在那边得到一份复本，就是 fax 的常见场景。原来的长名称正是相似复本。",
+    "split": "facsimile 截短成 fax；长词接拉丁 fac simile，fac 为 facere 做的命令形式，simile 为相似的东西。传真技术名又形成传真件、机器和发送动作等用法。",
+    "history": [
+      [
+        "拉丁 fac simile → 英语 facsimile",
+        "做一个相似品 → 复本名称"
+      ],
+      [
+        "facsimile 截短 → fax；名词、动词扩大",
+        "传真技术、传真件、机器；传真发送"
+      ]
+    ],
+    "explanation": "send a fax 发传真；a fax machine 传真机；fax the document 传真文件。",
+    "usage": "by fax 用传真方式；a fax number 传真号码。",
+    "contrast": "fax 是整个长词的截短，x 在这里读 /ks/。名词、动词都可使用，不需要把它当成又一个独立拉丁词根。",
+    "examples": [
+      [
+        "She sent the office a fax.",
+        "她给办公室发了一份传真。"
+      ],
+      [
+        "He asked them to fax the document.",
+        "他请他们把文件传真过去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fax#English",
+      "https://www.etymonline.com/word/fax"
+    ]
+  },
+  {
+    "word": "faxes",
+    "ipa": "/ˈfæksɪz/",
+    "meaning": "传真件、传真机〔复数〕；传真发送〔第三人称单数〕",
+    "sense": "一份份传真件可以叫 faxes；一个人发送传真，也可说 she faxes。名词与动作共享同一个短名称。",
+    "split": "fax 缩自 facsimile，远接拉丁做相似品的短语。现代加 -es，原尾 /ks/ 后增加 /ɪz/。",
+    "history": [
+      [
+        "facsimile → fax",
+        "复本名称进入传真技术，再缩短"
+      ],
+      [
+        "fax + -es → faxes",
+        "多份传真、机器；某人传真发送"
+      ]
+    ],
+    "explanation": "send faxes 发传真；faxes the report 传真报告。",
+    "usage": "incoming faxes 收到的传真件；old faxes 旧传真件。",
+    "contrast": "x 已经代表 /ks/，加复数时读音仍要另加 /ɪz/。因此 faxes 通常两音节。",
+    "examples": [
+      [
+        "The folder contained several old faxes.",
+        "文件夹里有几份旧传真。"
+      ],
+      [
+        "She faxes the report to the office.",
+        "她把报告传真到办公室。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/faxes#English",
+      "https://en.wiktionary.org/wiki/fax#English"
+    ]
+  },
+  {
+    "word": "faxed",
+    "ipa": "/fækst/",
+    "meaning": "传真发送了、传真过来的",
+    "sense": "文件已经通过传真方式发到另一边，就是 faxed。它可以写做过的动作，也可修饰收到的文件。",
+    "split": "fax 由 facsimile 截短后转动词，现代加完整 -ed，/s/ 后读 /t/，结尾连成 /kst/。",
+    "history": [
+      [
+        "facsimile 截短 → fax 名词、动词",
+        "传真技术及发送动作"
+      ],
+      [
+        "fax + -ed → faxed",
+        "过去传真了；以传真方式收到的"
+      ]
+    ],
+    "explanation": "faxed the form 传真了表格；a faxed copy 传真件。",
+    "usage": "faxed to the office 传真到办公室；has faxed 已经传真发送。",
+    "contrast": "faxed 只有原来一个主要音节，ed 不另读 /ɪd/。和 faxes 的两音节读法区别在变化尾。",
+    "examples": [
+      [
+        "He faxed the form to the office.",
+        "他把表格传真到办公室。"
+      ],
+      [
+        "A faxed copy arrived that morning.",
+        "那天早晨收到了一份传真件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/faxed#English",
+      "https://en.wiktionary.org/wiki/fax#English"
+    ]
+  },
+  {
+    "word": "faxing",
+    "ipa": "/ˈfæksɪŋ/",
+    "meaning": "正在传真发送；传真发送的过程",
+    "sense": "页面正从一端以传真方式传给另一端，就是 faxing。过程名和正在做的动作都可用。",
+    "split": "fax 缩自 facsimile，转为发送动词后直接加 -ing。词尾 x 对应 /ks/，不额外双写 x。",
+    "history": [
+      [
+        "facsimile → fax 发送动词",
+        "传真技术名扩展为使用动作"
+      ],
+      [
+        "fax + -ing → faxing",
+        "正在发送；相应过程"
+      ]
+    ],
+    "explanation": "faxing a document 传真文件；finish faxing 发完传真。",
+    "usage": "faxing the form to… 把表格传真给……；faxing services 传真服务。",
+    "contrast": "faxing 关注传送方式；copying 更宽泛说复制。两词历史有关，现代任务范围不完全相同。",
+    "examples": [
+      [
+        "She was faxing the document when he called.",
+        "他打来电话时，她正在传真文件。"
+      ],
+      [
+        "He finished faxing the pages before lunch.",
+        "他午饭前把纸页传真完了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/faxing#English",
+      "https://en.wiktionary.org/wiki/fax#English"
+    ]
+  },
+  {
+    "word": "paperclip",
+    "ipa": "英 /ˈpeɪpəklɪp/；美 /ˈpeɪpərklɪp/",
+    "meaning": "回形针、夹纸小夹",
+    "sense": "一段弯曲金属或类似结构，把几页纸夹在一起，是 paperclip。paper 给对象，clip 给夹住的工具。",
+    "split": "paper + clip 的英语组合；此 clip 接夹持、抱紧的一支，较早关联古英语 clyppan。剪切片段 clip 有另一传入来源。",
+    "history": [
+      [
+        "paper + 夹持义 clip → paperclip",
+        "夹纸器具的用途组合"
+      ],
+      [
+        "固定办公用品名",
+        "可夹住一叠纸，常见为弯曲金属丝结构"
+      ]
+    ],
+    "explanation": "a metal paperclip 金属回形针；a bent paperclip 弯了的回形针。",
+    "usage": "attach a paperclip 夹上回形针；a paperclip on the page 纸页上的回形针。",
+    "contrast": "paperclip 夹住纸张，staple 则常穿过纸张并扣住。二者都是固定纸页，方式不同。",
+    "examples": [
+      [
+        "She held the pages together with a paperclip.",
+        "她用回形针夹住几页纸。"
+      ],
+      [
+        "A paperclip lay beside the envelope.",
+        "信封旁放着一枚回形针。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paperclip#English"
+    ]
+  },
+  {
+    "word": "paperclips",
+    "ipa": "英 /ˈpeɪpəklɪps/；美 /ˈpeɪpərklɪps/",
+    "meaning": "回形针、夹纸小夹〔复数〕",
+    "sense": "一盒盒夹纸用的小夹子，是 paperclips。前部 paper 说明用途，最后 clips 数器具。",
+    "split": "paper + clip → paperclip，现代整个词加 -s，/p/ 后读 /s/。夹持 clip 的历史与剪切片段义分开。",
+    "history": [
+      [
+        "paper + clip → paperclip",
+        "夹纸工具的组合名"
+      ],
+      [
+        "paperclip + -s → paperclips",
+        "多个夹纸器具"
+      ]
+    ],
+    "explanation": "a box of paperclips 一盒回形针；metal paperclips 金属回形针。",
+    "usage": "paperclips in the drawer 抽屉里的回形针；collect the paperclips 收好回形针。",
+    "contrast": "前面的 paper 作类别修饰，通常保留单数。最后 s 数的是一枚枚夹子。",
+    "examples": [
+      [
+        "The drawer held pens and paperclips.",
+        "抽屉里放着笔和回形针。"
+      ],
+      [
+        "She put the spare paperclips in a small box.",
+        "她把备用回形针放进小盒子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paperclips#English",
+      "https://en.wiktionary.org/wiki/paperclip#English"
+    ]
+  },
+  {
+    "word": "mousepad",
+    "ipa": "英 /ˈmaʊspæd/；美 /ˈmaʊspæd/",
+    "meaning": "鼠标垫",
+    "sense": "鼠标在上面移动的一块平垫，是 mousepad。mouse 在这里已取计算机外设义，pad 给垫子。",
+    "split": "mouse 小鼠名先因形状、线缆等命名背景用于计算机指向设备，再与 pad 组合。mousepad 的 mouse 是类别修饰，不改成 mice。",
+    "history": [
+      [
+        "mouse 动物名 → 计算机设备名",
+        "小鼠形象进入外设名称"
+      ],
+      [
+        "mouse + pad → mousepad",
+        "鼠标使用的平面垫子"
+      ]
+    ],
+    "explanation": "a mousepad 鼠标垫；a large mousepad 大鼠标垫。",
+    "usage": "move on a mousepad 在鼠标垫上移动；a mousepad beside the keyboard 键盘旁的鼠标垫。",
+    "contrast": "英语也常分写 mouse pad。这个用途组合里的 mouse 已是设备名，pad 取平垫义。",
+    "examples": [
+      [
+        "She placed the mouse on a mousepad.",
+        "她把鼠标放在鼠标垫上。"
+      ],
+      [
+        "The mousepad matched the keyboard.",
+        "鼠标垫和键盘相配。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mousepad#English"
+    ]
+  },
+  {
+    "word": "mousepads",
+    "ipa": "/ˈmaʊspædz/",
+    "meaning": "鼠标垫〔复数〕",
+    "sense": "多块给鼠标移动用的垫子，是 mousepads。数的是整块用品，动物词 mouse 在这个组合前部不变。",
+    "split": "mouse 计算机设备义 + pad → mousepad，再加复数 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "mouse + pad → mousepad",
+        "按设备用途命名垫子"
+      ],
+      [
+        "mousepad + -s → mousepads",
+        "多块鼠标垫"
+      ]
+    ],
+    "explanation": "large mousepads 大鼠标垫；colourful mousepads 彩色鼠标垫。",
+    "usage": "mousepads on the desks 桌上的鼠标垫；replace the mousepads 换鼠标垫。",
+    "contrast": "不用把前半变成 micepads。复合词通常保留前部类别形式，让最后主体承担复数。",
+    "examples": [
+      [
+        "The shop displayed colourful mousepads.",
+        "店里陈列着彩色鼠标垫。"
+      ],
+      [
+        "New mousepads were placed on the desks.",
+        "桌上放好了新鼠标垫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mousepads#English",
+      "https://en.wiktionary.org/wiki/mousepad#English"
+    ]
+  },
+  {
+    "word": "printouts",
+    "ipa": "/ˈprɪntaʊts/",
+    "meaning": "打印件、打印输出〔复数〕",
+    "sense": "屏幕、系统里的内容被打印到纸上，拿在手里的那份结果是 printout，多份就是 printouts。out 把输出到外面的结果感带出来。",
+    "split": "动词短语 print out 名词化、合写为 printout，再加复数 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "print out → 名词 printout",
+        "打印出来 → 纸面输出物"
+      ],
+      [
+        "printout + -s → printouts",
+        "多份打印件"
+      ]
+    ],
+    "explanation": "paper printouts 纸面打印件；printouts of the report 报告打印件。",
+    "usage": "bring the printouts 带来打印件；printouts on the table 桌上的打印件。",
+    "contrast": "printouts 数的是输出结果，printers 数做这件事的机器。动词短语 print out 与名词合写形式也要分清。",
+    "examples": [
+      [
+        "She brought the printouts to the meeting.",
+        "她把打印件带到会上。"
+      ],
+      [
+        "Several printouts lay beside the computer.",
+        "电脑旁放着几份打印件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/printouts#English",
+      "https://en.wiktionary.org/wiki/printout#English"
+    ]
+  },
+  {
+    "word": "photocopies",
+    "ipa": "英 /ˈfəʊtəʊkɒpiz/；美 /ˈfoʊtoʊkɑːpiz/",
+    "meaning": "复印件〔复数〕；复印〔第三人称单数〕",
+    "sense": "把原文件的页面样子复制到另一张纸上，所得一份份是 photocopies；某人做这件事，也用动词 photocopies。",
+    "split": "photo- 光 + copy 复制物、复制 → photocopy，技术名称突出光的成像背景。现代 y 改 i，加 -es，词尾 /z/ 接在 /i/ 后。",
+    "history": [
+      [
+        "photo- + copy → photocopy",
+        "用光相关技术命名文件复制及成品"
+      ],
+      [
+        "photocopy 的 y 改 i + -es → photocopies",
+        "多份复印件；某人复印"
+      ]
+    ],
+    "explanation": "make photocopies 复印；photocopies of the form 表格复印件。",
+    "usage": "photocopies the pages 复印纸页；clear photocopies 清晰复印件。",
+    "contrast": "copies 是更宽泛的副本，photocopies 更明确指复印得到的副本。现代具体机器技术可变，词名保留历史背景。",
+    "examples": [
+      [
+        "She made three photocopies of the form.",
+        "她把表格复印了三份。"
+      ],
+      [
+        "He photocopies the pages before filing them.",
+        "他把纸页复印后再归档。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/photocopies#English",
+      "https://en.wiktionary.org/wiki/photocopy#English"
+    ]
+  },
+  {
+    "word": "photocopiers",
+    "ipa": "英 /ˈfəʊtəʊkɒpiəz/；美 /ˈfoʊtoʊkɑːpiərz/",
+    "meaning": "复印机〔复数〕",
+    "sense": "负责把文件页面复制出来的机器，是 photocopiers。photocopy 给动作，er 把动作转为执行器具名。",
+    "split": "photocopy 的 y 改 i，加完整 -er → photocopier，再加 -s，尾 /z/。photo- 的光材料来自希腊语，copy 有自己的拉丁、法语借词背景。",
+    "history": [
+      [
+        "photocopy + -er〔y 改 i〕→ photocopier",
+        "执行复印的机器"
+      ],
+      [
+        "photocopier + -s → photocopiers",
+        "多台复印机"
+      ]
+    ],
+    "explanation": "office photocopiers 办公复印机；repair photocopiers 修复印机。",
+    "usage": "photocopiers in the room 房间里的复印机；colour photocopiers 彩色复印机。",
+    "contrast": "photocopies 多半是复制品或动作形式，photocopiers 多了 er，明确把注意力放到执行复制的机器上。",
+    "examples": [
+      [
+        "Two photocopiers stood in the office.",
+        "办公室里放着两台复印机。"
+      ],
+      [
+        "The company repairs photocopiers.",
+        "这家公司修理复印机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/photocopiers#English",
+      "https://en.wiktionary.org/wiki/photocopier#English"
+    ]
+  },
+  {
+    "word": "scanned",
+    "ipa": "/skænd/",
+    "meaning": "扫视了、查看了；扫描了、扫描过的",
+    "sense": "眼睛扫过一片范围去找东西，或设备把页面转换成可处理的信息，都可以说 scanned。看什么、用什么，决定具体场景。",
+    "split": "scan 的较早词源接拉丁 scandere，进入英语时与诗律、音步分析相关，后来查看、扫描等用法扩大。现代双写 n，加 -ed，/n/ 后读 /d/。",
+    "history": [
+      [
+        "较早诗律分析的 scan → 查看、扫描等现代用途",
+        "同一借词扩展到不同检查场景"
+      ],
+      [
+        "scan 双写 n + -ed → scanned",
+        "过去扫视、检查、扫描；扫描结果"
+      ]
+    ],
+    "explanation": "scanned the room 扫视房间；a scanned document 扫描文件。",
+    "usage": "scanned for a familiar face 扫视寻找熟悉面孔；scanned the receipt 扫描收据。",
+    "contrast": "scanned 不保证读得很细，也不保证只是匆匆一看；有时是专门设备的扫描动作，具体由对象、工具补足。",
+    "examples": [
+      [
+        "She scanned the room for a familiar face.",
+        "她扫视房间，寻找熟悉的面孔。"
+      ],
+      [
+        "He scanned the document into the computer.",
+        "他把文件扫描进电脑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scanned#English",
+      "https://en.wiktionary.org/wiki/scan#English"
+    ]
+  },
+  {
+    "word": "scanners",
+    "ipa": "英 /ˈskænəz/；美 /ˈskænərz/",
+    "meaning": "扫描器、扫描仪〔复数〕；执行查看者〔相应语境〕",
+    "sense": "把纸页、条码等内容扫过并转换为可处理信息的设备，是 scanners。scan 给动作，er 命名执行者、设备。",
+    "split": "scan 双写 n 加完整 -er → scanner，再加 -s，尾 /z/。不同设备借同一个扫描动作名称，具体对象另用修饰词说明。",
+    "history": [
+      [
+        "scan + -er〔双写 n〕→ scanner",
+        "执行查看、扫描的人或设备"
+      ],
+      [
+        "scanner + -s → scanners",
+        "多个扫描器、设备"
+      ]
+    ],
+    "explanation": "document scanners 文件扫描仪；barcode scanners 条码扫描器。",
+    "usage": "scanners in the office 办公室里的扫描仪；repair scanners 修扫描设备。",
+    "contrast": "scanner 是很宽的设备名，不同场景的原理、对象可不同。日常先看 document、barcode 等限定词。",
+    "examples": [
+      [
+        "The office has two document scanners.",
+        "办公室有两台文件扫描仪。"
+      ],
+      [
+        "The shop uses barcode scanners at the checkout.",
+        "商店在结账处使用条码扫描器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scanners#English",
+      "https://en.wiktionary.org/wiki/scanner#English"
+    ]
+  },
+  {
+    "word": "copiers",
+    "ipa": "英 /ˈkɒpiəz/；美 /ˈkɑːpiərz/",
+    "meaning": "复制者；复印机、复制设备〔复数〕",
+    "sense": "把已有东西再做出副本的人或机器，是 copiers。办公室里常直接用它简称复印机。",
+    "split": "copy 的 y 改 i，加完整 -er → copier，再加复数 -s，尾 /z/。人物用法较早，机器用法随技术用途扩大。",
+    "history": [
+      [
+        "copy + -er〔y 改 i〕→ copier",
+        "执行复制的人、机器"
+      ],
+      [
+        "copier + -s → copiers",
+        "多个复制者、复印机"
+      ]
+    ],
+    "explanation": "office copiers 办公复印机；copiers and printers 复印机和打印机。",
+    "usage": "repair copiers 修复印机；copiers of old manuscripts 抄写旧手稿的人。",
+    "contrast": "copy 的副本与 copious 的丰富数量有较远词源联系，但现代 copiers 抓执行复制的功能就够用。",
+    "examples": [
+      [
+        "The office has printers and copiers.",
+        "办公室有打印机和复印机。"
+      ],
+      [
+        "The catalogue lists several compact copiers.",
+        "目录列着几款小型复印机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/copiers#English",
+      "https://en.wiktionary.org/wiki/copier#English"
+    ]
+  },
+  {
+    "word": "typewriters",
+    "ipa": "英 /ˈtaɪpraɪtəz/；美 /ˈtaɪpraɪtərz/",
+    "meaning": "打字机〔复数〕",
+    "sense": "按下字符键，机器把字写到纸上，是 typewriters。type 给排印字符，writer 给执行写字的机器。",
+    "split": "type + writer → typewriter；writer 对应 write 去 e 加完整 -er。现代整个复合词加 -s，尾 /z/。",
+    "history": [
+      [
+        "type + writer → typewriter",
+        "按排印字符写到纸上的设备"
+      ],
+      [
+        "typewriter + -s → typewriters",
+        "多台打字机"
+      ]
+    ],
+    "explanation": "old typewriters 旧打字机；manual typewriters 手动打字机。",
+    "usage": "typewriters in the museum 博物馆里的打字机；collect typewriters 收藏打字机。",
+    "contrast": "writer 在这里作为机器名的一部分。typewriters 是设备，typists 才常指从事打字的人。",
+    "examples": [
+      [
+        "The museum displayed several old typewriters.",
+        "博物馆展出几台旧打字机。"
+      ],
+      [
+        "Manual typewriters stood on the desks.",
+        "桌上放着手动打字机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/typewriters#English",
+      "https://en.wiktionary.org/wiki/typewriter#English"
+    ]
+  },
+  {
+    "word": "printers",
+    "ipa": "英 /ˈprɪntəz/；美 /ˈprɪntərz/",
+    "meaning": "打印机；印刷者、印刷商〔复数〕",
+    "sense": "把字、图形印到纸或其他表面的人、设备，是 printers。办公室里通常先想到打印机。",
+    "split": "print 加 -er → printer，人物、行业称呼较早，机器义后来固定。现代加复数 -s，尾 /z/。",
+    "history": [
+      [
+        "print + -er → printer",
+        "执行印刷的人；后来相应机器"
+      ],
+      [
+        "printer + -s → printers",
+        "多个打印机、印刷者或商家"
+      ]
+    ],
+    "explanation": "office printers 办公打印机；local printers 本地印刷商。",
+    "usage": "repair printers 修打印机；send to the printers 交给印刷商〔出版语境〕。",
+    "contrast": "printouts 数输出物，printers 数执行者、设备。行业语境 local printers 可以指商家，而非某种本地联网机器。",
+    "examples": [
+      [
+        "The office bought two new printers.",
+        "办公室买了两台新打印机。"
+      ],
+      [
+        "The book was produced by local printers.",
+        "这本书由当地印刷商印制。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/printers#English",
+      "https://en.wiktionary.org/wiki/printer#English"
+    ]
+  }
+]

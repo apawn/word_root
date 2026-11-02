@@ -1,0 +1,121 @@
+[
+  {
+    "id": "A2108",
+    "meaning": "遍及……范围；全……范围的",
+    "core": "WIDE：先看前面的区域，再把范围铺开",
+    "image": "countywide 把范围铺到一县，nationwide 到一国，worldwide 到全球；后部像在地图上画一个覆盖圈。",
+    "intro": "-wide 来自 wide 宽广的，把空间宽度引申为遍及某个完整范围。成词后常兼作形容词、副词，不必另加 -ly。",
+    "forms": "world + -wide → worldwide；nation + -wide → nationwide；county + -wide → countywide；country + -wide → countrywide。前部是完整词基。\n\n法语 conté 接拉丁 comitatus，现代行政区义并不要求现有伯爵管理。",
+    "branches": [
+      [
+        "先认基本范围",
+        "wide；county · country · nation · world"
+      ],
+      [
+        "从地方到全国、全球",
+        "countywide；countrywide · nationwide；worldwide"
+      ],
+      [
+        "county → counties：伯爵辖地到行政区",
+        "county · counties"
+      ]
+    ],
+    "contrasts": "county 是县、郡，country 是国家、乡村；worldwide 不等于 worldwidely。覆盖用语的具体边界仍看上下文。",
+    "practice": "The countywide event attracted nationwide attention.\n\n这次全县性活动引起了全国关注。",
+    "words": [
+      "wide",
+      "county",
+      "countywide",
+      "country",
+      "countrywide",
+      "nation",
+      "nationwide",
+      "world",
+      "worldwide",
+      "counties"
+    ],
+    "exclude": {
+      "space-wide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "global-wide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meter-wide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "statewide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kilometer-wide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "citywide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sitewide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "systemwide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1857",
+    "meaning": "……这种性质或程度〔多见于拉丁词族的抽象名词〕",
+    "core": "ACITY：把某种特点收成一个可以讨论的性质",
+    "image": "tenacious 是抓住不放的，tenacity 就是那股韧劲；veracious 是说真的，veracity 就是是否真实、诚实这种性质。",
+    "intro": "常见词接拉丁 -acitas 一类抽象名词材料，经法语 -acité 等路线进入英语；与 -ax、-acis 或英语 -acious 的词族对应有关。不能一见这几字母就用同一个英语小词硬拆。",
+    "forms": "veracious ↔ veracity；tenacious ↔ tenacity 是学习上的对应。capacity、audacity 等各有自己的借词史，不能假设都先有一个现代英语基础词再统一换尾巴。",
+    "branches": [
+      [
+        "真实、能力和判断",
+        "veracious · veracity；capacity；sagacity"
+      ],
+      [
+        "坚持、胆量和活力",
+        "tenacity；audacity；vivacity"
+      ]
+    ],
+    "contrasts": "veracity 真实与 credibility 可信并非完全相同；audacity 可说大胆也可批评放肆，不能把后缀当成褒贬开关。",
+    "practice": "Her tenacity helped her test the veracity of the story.\n\n她靠着坚持不懈，查证了那个故事是否属实。",
+    "words": [
+      "capacity",
+      "audacity",
+      "tenacity",
+      "veracious",
+      "veracity",
+      "vivacity",
+      "sagacity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1940",
+    "meaning": "与某动作、作用或性质有关的形容词材料",
+    "core": "ATIVE：从一个动作看它带来的作用、倾向或关系",
+    "image": "informative 能让人获得信息；formative 会塑造发展；summative 把阶段成果汇总起来。相同尾部不代表每个词都译成主动做……。",
+    "intro": "与 -ate、-ive 及拉丁 -ativus 等形容词形式有关。英语既有整词借入，也有后来按已有形式继续构词，历史路线要逐词判断。",
+    "forms": "formative 连着 formare、form 的塑造词族；summative 连着 sum、summation；talkative 连着 talk。它们适合并排比较，但不是同一时刻用一张配方造出的词。",
+    "branches": [
+      [
+        "帮助理解、塑造与汇总",
+        "informative；formative；summative"
+      ],
+      [
+        "习惯、规则与表现",
+        "talkative；normative；performative；qualitative"
+      ],
+      [
+        "具体作用及专门关系",
+        "conservative · restorative · transformative；authoritative · exploitative；oxidative · accusative · commutative · determinative"
+      ]
+    ],
+    "contrasts": "formative 的塑造不限外形；summative 的汇总评价不等于一句简单摘要；accusative 是格名称，要按语法中的专门用法学。",
+    "practice": "An informative discussion can also be a formative experience.\n\n一次让人长见识的讨论，也可能成为塑造自己的经历。",
+    "words": [
+      "informative",
+      "formative",
+      "summative",
+      "talkative",
+      "normative",
+      "performative",
+      "qualitative",
+      "conservative",
+      "restorative",
+      "transformative",
+      "authoritative",
+      "exploitative",
+      "oxidative",
+      "accusative",
+      "commutative",
+      "determinative"
+    ],
+    "exclude": {}
+  }
+]

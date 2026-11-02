@@ -1,0 +1,614 @@
+[
+  {
+    "word": "sizes",
+    "ipa": "/ˈsaɪzɪz/",
+    "meaning": "大小、尺寸、尺码〔复数〕；测量大小、按尺寸分级〔第三人称单数〕",
+    "sense": "东西有大有小，衣服有不同尺码，这些一档档、一个个大小可以说 sizes。动词则在看它多大、按大小整理。",
+    "split": "size + -s，原词 s 发 /z/，后加 /ɪz/。尺寸 size 接古法语 assise 的缩短形式，早期规定的量、规格后来泛指大小；施胶材料的同形词另有不明关系。",
+    "history": [
+      [
+        "古法语规定、规格材料的缩短形式 → size",
+        "规定量 → 大小、尺寸"
+      ],
+      [
+        "size + -s → sizes",
+        "多个尺寸、尺码；某人测量或按大小分级"
+      ]
+    ],
+    "explanation": "different sizes 不同大小；shoe sizes 鞋码；all shapes and sizes 各种形状、大小。",
+    "usage": "comes in three sizes 有三个尺码；sizes up the room 打量、估计房间情况，属 size up 搭配。",
+    "contrast": "sizes 可以是一个个标准尺码，也可以是一般大小。衣服的 size 不能单凭数字跨品牌等同，词义先只是这套标示里的尺寸。",
+    "examples": [
+      [
+        "The shirt comes in four sizes.",
+        "这件衬衫有四个尺码。"
+      ],
+      [
+        "We sorted the boxes into different sizes.",
+        "我们按大小给盒子分了类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sizes#English",
+      "https://en.wiktionary.org/wiki/size#English"
+    ]
+  },
+  {
+    "word": "stored",
+    "ipa": "英 /stɔːd/；美 /stɔːrd/",
+    "meaning": "储存、存放了；备存的〔过去式、过去分词〕",
+    "sense": "现在先不使用，把东西放进一个能留住它的位置，等以后再拿出来，就是 stored。可以是箱里的物品，也可以是系统里的数据。",
+    "split": "store + -d，结尾读 /d/。store 经法语旧形式接拉丁 instaurare 建立、配备等材料，供应、储备背景后来发展存放义。",
+    "history": [
+      [
+        "法语及拉丁配备、储备词族 → store",
+        "备好、存下供以后使用"
+      ],
+      [
+        "store 去 e + -ed → stored",
+        "东西已存放；可形容备存状态"
+      ]
+    ],
+    "explanation": "stored in boxes 放在箱里；stored on a computer 存在电脑上；stored energy 储存的能量。",
+    "usage": "stored away 收存起来；carefully stored 妥善存放。",
+    "contrast": "stored 是已存放；storing 是存放的过程。restore 还原、恢复有自己的借入历史，不能都当成现代 re- 再加 store。",
+    "examples": [
+      [
+        "The chairs are stored in a room behind the hall.",
+        "椅子存放在大厅后面的房间。"
+      ],
+      [
+        "The photographs were stored on an old computer.",
+        "照片存放在一台旧电脑里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stored#English",
+      "https://en.wiktionary.org/wiki/store#English"
+    ]
+  },
+  {
+    "word": "acres",
+    "ipa": "英 /ˈeɪkəz/；美 /ˈeɪkərz/",
+    "meaning": "英亩〔复数，土地面积单位〕",
+    "sense": "一片可耕作的地，后来被固定成一个面积单位，就是 acre 的历史方向。acres 常用于说农场、林地等有多大。",
+    "split": "acre + -s，末尾读 /z/。acre 继承古英语 aecer 田地、耕地，与 agriculture 中的拉丁田地材料有更远同源关系。",
+    "history": [
+      [
+        "古英语 aecer → acre",
+        "田地、耕地 → 固定的土地面积单位"
+      ],
+      [
+        "acre + -s → acres",
+        "若干英亩；也有大片土地的夸张用法"
+      ]
+    ],
+    "explanation": "ten acres 十英亩；acres of woodland 几英亩林地；a farm of several acres 几英亩大的农场。",
+    "usage": "many acres of land 多英亩土地；acres of space 大片空间，也可夸张。",
+    "contrast": "acres 量面积，meters 通常量长度，square meters 才是平方米。与 hectare 公顷也不是同一个单位，读数时留意名称。",
+    "examples": [
+      [
+        "The farm covers twenty acres.",
+        "农场占地二十英亩。"
+      ],
+      [
+        "Several acres of woodland surround the house.",
+        "房子周围有几英亩林地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acres#English",
+      "https://en.wiktionary.org/wiki/acre#English"
+    ]
+  },
+  {
+    "word": "adapted",
+    "ipa": "/əˈdæptɪd/",
+    "meaning": "适应、改编、改造了；适合的〔过去式、过去分词〕",
+    "sense": "原来的样子和新需要不完全合，把它调整到能用、能相处，就是 adapted。人适应环境，故事也可改成另一种作品。",
+    "split": "adapt + -ed，/t/ 后读 /ɪd/。adapt 接拉丁 ad- 与 aptare 使合适所成 adaptare，英语借入相关形式。",
+    "history": [
+      [
+        "拉丁 adaptare → 英语 adapt",
+        "使合适 → 适应、调整、改编"
+      ],
+      [
+        "adapt + -ed → adapted",
+        "已经适应、调整；分词可形容适合某用途"
+      ]
+    ],
+    "explanation": "adapted to the climate 适应气候；adapted from a novel 根据小说改编；adapted for children 为儿童改编。",
+    "usage": "well adapted to the conditions 很适应条件；adapted the design 调整了设计。",
+    "contrast": "adapted from 说明改编来源，adapted for 说明目标读者、用途。adopted 是采用、收养的形式，与 adapted 拼写、意思不同。",
+    "examples": [
+      [
+        "The play was adapted from a short story.",
+        "这部戏由一个短篇故事改编而成。"
+      ],
+      [
+        "The plants are well adapted to dry conditions.",
+        "这些植物很适应干燥条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adapted#English",
+      "https://en.wiktionary.org/wiki/adapt#English"
+    ]
+  },
+  {
+    "word": "chemicals",
+    "ipa": "/ˈkemɪkəlz/",
+    "meaning": "化学物质；化工药品等〔复数〕",
+    "sense": "把某种有明确性质、可以参与化学过程的物质单独拿出来说，常叫 a chemical。chemicals 数的是这些物质，不是危险程度。",
+    "split": "chemical + -s，/l/ 后读 /z/。chemical 经化学、炼金词族形成，与 chemic、拉丁 chemicus 等词基和 al 相联；性质词再名词化指具体物质。",
+    "history": [
+      [
+        "化学、炼金词族 → chemical 性质词",
+        "与化学有关"
+      ],
+      [
+        "性质词名词化；chemical + -s → chemicals",
+        "具体化学物质；多种相应物质"
+      ]
+    ],
+    "explanation": "industrial chemicals 工业化学品；cleaning chemicals 清洁用化学品；different chemicals 不同化学物质。",
+    "usage": "chemicals in a mixture 混合物中的化学物质；chemical reactions 化学反应，前置 chemical 通常单数。",
+    "contrast": "chemicals 这个词本身不等于有毒物；是否危险要看具体物质、条件。chemistry 是学科，chemical 是性质词或一种物质，chemicals 是名词复数。",
+    "examples": [
+      [
+        "The laboratory keeps a record of all its chemicals.",
+        "实验室记录着所有化学品。"
+      ],
+      [
+        "The factory produces chemicals used in making paper.",
+        "工厂生产造纸所用的化学品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chemicals#English",
+      "https://en.wiktionary.org/wiki/chemical#English"
+    ]
+  },
+  {
+    "word": "controlling",
+    "ipa": "英 /kənˈtrəʊlɪŋ/；美 /kənˈtroʊlɪŋ/",
+    "meaning": "控制、管理、调节〔现在分词、动名词〕；控制欲强的",
+    "sense": "让变化别偏出自己想要的范围，是 controlling。可以调节机器的温度，也可以管理一个过程；形容人时可能批评他总想支配别人。",
+    "split": "control 重读末音节，双写 l 加 -ing。历史 contra- 对照与 rotulus 登记卷经法语动词进入英语，原有对照记录、核查的背景。",
+    "history": [
+      [
+        "法语对照登记卷相关动词 → control",
+        "核查、对照 → 管理、掌握变化"
+      ],
+      [
+        "control → controlling",
+        "双写 l 加 ing；正在控制或具有强控制倾向"
+      ]
+    ],
+    "explanation": "controlling the temperature 调节温度；controlling costs 控制成本；a controlling person 控制欲强的人。",
+    "usage": "controlling the machine 操作、控制机器；a controlling interest 控制性权益、控股权，属专门搭配。",
+    "contrast": "controlling 用于设备、过程可以中性；用于人的性格常带负面意味。controlled 是被控制、克制的，controlling 是施加控制的一方。",
+    "examples": [
+      [
+        "The device is controlling the room temperature.",
+        "设备正在调节室温。"
+      ],
+      [
+        "The team is controlling the pace of the work carefully.",
+        "团队正仔细控制工作进度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/controlling#English",
+      "https://en.wiktionary.org/wiki/control#English"
+    ]
+  },
+  {
+    "word": "corporations",
+    "ipa": "英 /ˌkɔːpəˈreɪʃənz/；美 /ˌkɔːrpəˈreɪʃənz/",
+    "meaning": "公司、法人组织等〔复数〕",
+    "sense": "许多人、资源合成一个组织，像一个整体的身体那样对外行动，是 corporations 的词源形象。现代常见的是公司、法人组织。",
+    "split": "corporation + -s，/n/ 后读 /z/。corporation 接英拉丁及晚期拉丁 corporatio，来自 corporare 使成一个身体，根为 corpus 身体。",
+    "history": [
+      [
+        "拉丁 corpus、corporare、corporatio → corporation",
+        "身体 → 合成一个组织体"
+      ],
+      [
+        "corporation + -s → corporations",
+        "多家公司、法人组织"
+      ]
+    ],
+    "explanation": "large corporations 大公司；multinational corporations 跨国公司；public corporations 具体组织类型随语境而定。",
+    "usage": "corporations and small businesses 大公司与小企业；several corporations 几家公司。",
+    "contrast": "corporations 常比 companies 更突出组织、法人身份的正式称呼。具体制度和组织类型看所在地区，词源的身体只是理解整体组织的画面。",
+    "examples": [
+      [
+        "Several corporations supported the exhibition.",
+        "几家公司支持了这次展览。"
+      ],
+      [
+        "The report compares large corporations with small businesses.",
+        "报告比较了大公司与小企业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/corporations#English",
+      "https://en.wiktionary.org/wiki/corporation#English"
+    ]
+  },
+  {
+    "word": "expanding",
+    "ipa": "/ɪkˈspændɪŋ/",
+    "meaning": "扩大、扩展；展开〔现在分词及分词形容词〕",
+    "sense": "边界向外推、原来折着的范围摊开，是 expanding。它可以说体积、服务范围，也可以说理解、话题越来越广。",
+    "split": "expand + -ing，直接加 ing。expand 接拉丁 ex- 向外与 pandere 展开，经法语、拉丁相关借入到英语。",
+    "history": [
+      [
+        "拉丁展开材料 → expand",
+        "向外展开 → 体积、范围扩大"
+      ],
+      [
+        "expand + -ing → expanding",
+        "正在扩大；形容范围持续增大的事物"
+      ]
+    ],
+    "explanation": "expanding the service 扩大服务；an expanding population 增长的人口；expanding on an idea 进一步展开说明想法。",
+    "usage": "rapidly expanding 迅速扩大的；expanding into a new area 扩展到新领域。",
+    "contrast": "expanding a topic 可说拓展话题；expanding on a point 常是补充说明某一点。expand 可及物也可不及物，主语角色要看句子。",
+    "examples": [
+      [
+        "The library is expanding its collection of local history books.",
+        "图书馆正在扩充地方史图书收藏。"
+      ],
+      [
+        "The service is expanding into nearby towns.",
+        "这项服务正在扩展到邻近城镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/expanding#English",
+      "https://en.wiktionary.org/wiki/expand#English"
+    ]
+  },
+  {
+    "word": "fears",
+    "ipa": "英 /fɪəz/；美 /fɪrz/",
+    "meaning": "担忧、恐惧〔复数〕；害怕、担心〔第三人称单数〕",
+    "sense": "坏事还没发生，心里先为可能的危险缩紧，是 fears。名词复数能把不同的担忧一项项说出来。",
+    "split": "fear + -s，末尾读 /z/。fear 名词接古英语 faer 突发危险、灾祸，后来重心转到人对危险的感受；相关旧动词也有使恐惧的历史。",
+    "history": [
+      [
+        "古英语危险、恐惧相关形式 → fear",
+        "突发危险 → 害怕、担忧的感受"
+      ],
+      [
+        "fear + -s → fears",
+        "多种担忧；某人害怕、担心"
+      ]
+    ],
+    "explanation": "fears about the future 对未来的担忧；fears that 担心……；fears of delays 对延误的担忧。",
+    "usage": "face your fears 面对自己的恐惧；fears for someone’s safety 担心某人安全。",
+    "contrast": "fears 作为名词数具体担忧；fear 不可数时可以笼统说恐惧。he fears 是动词，不能用名词复数的解释来套句子。",
+    "examples": [
+      [
+        "The announcement eased some of their fears.",
+        "公告缓解了他们的一些担忧。"
+      ],
+      [
+        "She fears that the work will take longer than expected.",
+        "她担心工作会比预期更久。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fears#English",
+      "https://en.wiktionary.org/wiki/fear#English"
+    ]
+  },
+  {
+    "word": "fires",
+    "ipa": "英 /ˈfaɪəz/；美 /ˈfaɪərz/",
+    "meaning": "火、火灾、炉火等〔复数〕；开火、解雇、点燃等〔第三人称单数〕",
+    "sense": "几处各自燃着的火，是 fires 的名词；某个人在发射、点燃或解除雇佣关系，则是相应动词。共同拼写不能代替场景判断。",
+    "split": "fire + -s，末尾读 /z/。fire 接古英语 fyr 火；英语动词与点火等名词意象相关，射击、解雇后来分别形成固定用法。",
+    "history": [
+      [
+        "古英语 fyr → fire 的名词、动词分支",
+        "火、点燃 → 火器发射、解雇等后起用法"
+      ],
+      [
+        "fire + -s → fires",
+        "多处火；某人发射、点火或解雇等"
+      ]
+    ],
+    "explanation": "forest fires 森林火灾；small fires 几处小火；fires a question at someone 突然向某人发问。",
+    "usage": "open fires 壁炉等敞开炉火；fires an employee 解雇员工。",
+    "contrast": "fire 不可数可说火这种现象；fires 可数是分别发生、分别点起的火。fires someone 说解雇，不能按物理燃烧去翻译。",
+    "examples": [
+      [
+        "The report describes several forest fires.",
+        "报告描述了几场森林火灾。"
+      ],
+      [
+        "The interviewer fires another question at the guest.",
+        "采访者又向嘉宾抛出一个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fires#English",
+      "https://en.wiktionary.org/wiki/fire#English"
+    ]
+  },
+  {
+    "word": "illustrated",
+    "ipa": "/ˈɪləstreɪtɪd/",
+    "meaning": "说明、阐明了；配图的、有插图的〔过去式、过去分词及形容词〕",
+    "sense": "让原来不够清楚的内容像被照亮一样容易看见，是 illustrated 的理解画面。可以用例子讲清，也可以配图来帮助理解。",
+    "split": "illustrate + -d，/t/ 后读 /ɪd/。illustrate 有由 illustration 等回构并受拉丁 illustratus 影响的历史，较早 illustrare 照亮、使清楚，in- 同化为 il-。",
+    "history": [
+      [
+        "拉丁 illustrare、illustratus；illustration 等 → illustrate",
+        "照亮、使清楚 → 阐明、配图"
+      ],
+      [
+        "illustrate 去 e + -ed → illustrated",
+        "已经说明；也形容附有插图的作品"
+      ]
+    ],
+    "explanation": "an illustrated book 插图本；illustrated with examples 用例子说明；illustrated the difference 阐明了区别。",
+    "usage": "beautifully illustrated 配图精美的；illustrated how 演示、说明怎样。",
+    "contrast": "illustrated with examples 不一定有图片，例子本身也能让意思清楚。an illustrated edition 则通常明确说插图版。",
+    "examples": [
+      [
+        "The guide is illustrated with simple diagrams.",
+        "指南配有简单的示意图。"
+      ],
+      [
+        "Her example illustrated the difference clearly.",
+        "她的例子清楚说明了这个区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustrated#English",
+      "https://en.wiktionary.org/wiki/illustrate#English"
+    ]
+  },
+  {
+    "word": "invented",
+    "ipa": "/ɪnˈventɪd/",
+    "meaning": "发明、创造了；编造了〔过去式、过去分词〕",
+    "sense": "原来没有这个做法、物件或故事，自己把它做出来、想出来，是 invented。它可以夸发明，也可以指出说法是编出来的。",
+    "split": "invent + -ed，/t/ 后读 /ɪd/。invent 经古法语 inventer 接拉丁 inventus、invenire，较早 in- 与 venire 来形成遇到、发现等义。",
+    "history": [
+      [
+        "拉丁 invenire、inventus → 古法语 inventer → invent",
+        "遇到、发现 → 创造、发明；也有编造"
+      ],
+      [
+        "invent + -ed → invented",
+        "创造、编造的动作已发生"
+      ]
+    ],
+    "explanation": "invented a tool 发明工具；invented a story 编故事；invented an excuse 编借口。",
+    "usage": "newly invented 新发明的；an invented character 虚构角色。",
+    "contrast": "invented 既可以是真有创造力，也可以是凭空编造，语气取决于对象。discovered 更突出原已存在、后来被发现的东西。",
+    "examples": [
+      [
+        "The students invented a simple game.",
+        "学生们发明了一个简单游戏。"
+      ],
+      [
+        "She invented a story to entertain the children.",
+        "她编了一个故事逗孩子们开心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/invented#English",
+      "https://en.wiktionary.org/wiki/invent#English"
+    ]
+  },
+  {
+    "word": "layers",
+    "ipa": "英 /ˈleɪəz/；美 /ˈleɪərz/",
+    "meaning": "层、层次〔复数〕；分层铺放〔第三人称单数〕",
+    "sense": "一层放上另一层，形成可以逐层看、逐层分开的结构，就是 layers。衣服、蛋糕、地层、意义都能有层次。",
+    "split": "layer + -s，末尾读 /z/。做铺放动作的人可按 lay 加 er 理解；厚度层名词的早期历史也涉及 lair 等相关形式或烹饪材料的不同分析，不全压成一个现代新造人物名词。",
+    "history": [
+      [
+        "铺放、旧相关形式等 → layer 的层义",
+        "放在表面的一层；早期具体路径有不同分析"
+      ],
+      [
+        "layer + -s → layers",
+        "多个厚度层、抽象层次；或某人逐层铺放"
+      ]
+    ],
+    "explanation": "layers of clothing 多层衣服；layers of meaning 多重含义；layers the ingredients 逐层铺放原料。",
+    "usage": "thin layers 薄层；upper layers 上层。",
+    "contrast": "layers 说按厚度、结构或意义分开的层；levels 常更突出高低位置、程度。蛋糕 layers 与技能 levels 不能只看中文层就互换。",
+    "examples": [
+      [
+        "The cake has three layers.",
+        "蛋糕有三层。"
+      ],
+      [
+        "The story has several layers of meaning.",
+        "这个故事有几层含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/layers#English",
+      "https://en.wiktionary.org/wiki/layer#English"
+    ]
+  },
+  {
+    "word": "licensed",
+    "ipa": "/ˈlaɪsənst/",
+    "meaning": "许可、授权了；持证的、获许可的〔过去式、过去分词及形容词〕",
+    "sense": "某种使用、活动不是自己说了算，而是已经获得相应许可，就是 licensed。可以是人取得执照，也可以是作品、软件得到授权使用。",
+    "split": "license + -d，末尾 /s/ 后读 /t/。license、licence 接法语 licence 与拉丁 licentia 许可。英式名词常 licence，动词 license；美式两者常都 license。",
+    "history": [
+      [
+        "法语 licence、拉丁 licentia → license／licence",
+        "允许、许可；相应动词授予许可"
+      ],
+      [
+        "动词 license 去 e + -ed → licensed",
+        "已经授权；也形容具有许可资格"
+      ]
+    ],
+    "explanation": "a licensed driver 持证驾驶者；licensed software 获授权的软件；licensed to do something 获准做某事。",
+    "usage": "licensed for use 获许可使用；licensed by the owner 由所有者授权。",
+    "contrast": "licensed 说得到许可，不自动等于所有权转移。licensed 的结尾是 /nst/，不是再加一个 /ɪd/ 音节。",
+    "examples": [
+      [
+        "The company uses licensed software.",
+        "公司使用获授权的软件。"
+      ],
+      [
+        "The images were licensed for use in the book.",
+        "这些图片已获授权用于书中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/licensed#English",
+      "https://en.wiktionary.org/wiki/license#English"
+    ]
+  },
+  {
+    "word": "metres",
+    "ipa": "英 /ˈmiːtəz/；美 /ˈmiːtərz/",
+    "meaning": "米〔英式长度单位复数〕；诗律格律等〔复数〕",
+    "sense": "量一段路、一个房间多长，英式英语会写 metres。文学里同形 metre 又可数诗歌的格律类型，两种含义有不同借入年代。",
+    "split": "metre + -s，末尾读 /z/。长度单位借法语 metre，诗律义更早经拉丁 metrum、法语 metre 等传入，两路都远接希腊 metron 测量。",
+    "history": [
+      [
+        "法语 metre → 米；拉丁 metrum 等 → 诗律 metre",
+        "长度计量与诗歌节奏计量的不同借入路线"
+      ],
+      [
+        "metre + -s → metres",
+        "若干米；多种格律"
+      ]
+    ],
+    "explanation": "three metres 三米；metres long 长若干米；different poetic metres 不同诗律。",
+    "usage": "a few metres away 几米外；square metres 平方米。",
+    "contrast": "英式长度 metres 对应美式 meters；计量仪表英式仍写 meters。计量单位和诗律的同形，不表示先有现代米制才有诗歌节拍。",
+    "examples": [
+      [
+        "The room is five metres long.",
+        "房间长五米。"
+      ],
+      [
+        "The ball stopped a few metres from the gate.",
+        "球在离门几米处停了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/metres#English",
+      "https://en.wiktionary.org/wiki/metre#English"
+    ]
+  },
+  {
+    "word": "monsters",
+    "ipa": "英 /ˈmɒnstəz/；美 /ˈmɑːnstərz/",
+    "meaning": "怪物；可怕的人、巨大或难对付的事物〔复数〕",
+    "sense": "看起来异常、令人害怕或难以应对的存在，可以叫 monsters。童话里是真怪物，日常比喻则可能是体积巨大、特别难办的东西。",
+    "split": "monster + -s，末尾读 /z/。monster 经古法语 monstre 接拉丁 monstrum 征兆、异常现象，与 monere 提醒、警告相连。",
+    "history": [
+      [
+        "拉丁 monstrum → 古法语 monstre → monster",
+        "异常征兆 → 怪异、可怕的存在"
+      ],
+      [
+        "monster + -s → monsters",
+        "多个怪物；多个人或物的比喻称呼"
+      ]
+    ],
+    "explanation": "sea monsters 海怪；monsters in a story 故事中的怪物；giant monsters 巨型怪物。",
+    "usage": "imaginary monsters 想象的怪物；a monster problem 特别棘手的问题，前置 monster 通常单数。",
+    "contrast": "monsters 可是虚构生物，也可是带强烈情绪的比喻。monstrous 是巨大、可怕等性质词，不是 monsters 的另一个复数。",
+    "examples": [
+      [
+        "The children drew colourful monsters.",
+        "孩子们画了色彩鲜艳的怪物。"
+      ],
+      [
+        "The story is full of imaginary monsters and strange places.",
+        "故事里满是想象的怪物和奇异的地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/monsters#English",
+      "https://en.wiktionary.org/wiki/monster#English"
+    ]
+  },
+  {
+    "word": "illustration",
+    "ipa": "/ˌɪləˈstreɪʃən/",
+    "meaning": "插图；说明、例证",
+    "sense": "让意思被照亮、变得好懂，可以靠一张图，也可以靠一个例子。所以 illustration 既是插图，也能是把道理讲清的说明、例证。",
+    "split": "现代可与 illustrate、-ion 配套理解；历史借古法语或直接拉丁 illustratio、illustrationem，接 illustrare 照亮、使清楚。英语名词早于常用动词的记录，不能把它只画成英语动词后加尾。",
+    "history": [
+      [
+        "拉丁 illustrare、illustratio → 法语或直接 → illustration",
+        "照亮、使鲜明呈现；英语早有显现、启明等义"
+      ],
+      [
+        "让头脑清楚的扩展 → 现代 illustration",
+        "说明、例证；后来也指帮助说明的图片"
+      ]
+    ],
+    "explanation": "an illustration in a book 书中的插图；an illustration of a point 对某一点的说明；by way of illustration 举例说明。",
+    "usage": "a clear illustration 清楚的例证；book illustration 图书插画。",
+    "contrast": "illustration 不一定是一张图片，a good illustration of cooperation 可以是一件说明合作的事。illustrator 是插画作者、绘图者的名称。",
+    "examples": [
+      [
+        "The book opens with an illustration of the old harbour.",
+        "书的开头有一幅旧港口的插图。"
+      ],
+      [
+        "This is a useful illustration of how the method works.",
+        "这是说明该方法怎样起作用的有用例证。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustration#English",
+      "https://www.etymonline.com/word/illustration"
+    ]
+  },
+  {
+    "word": "licence",
+    "ipa": "/ˈlaɪsəns/",
+    "meaning": "许可证、执照；许可、自由裁量〔常见英式名词拼写〕",
+    "sense": "一项活动、使用得到正式或相应的允许，可以叫 licence；能拿在手里证明这种允许的文件，也叫一份 licence。创作里的自由发挥又有 artistic licence。",
+    "split": "经法语 licence 接拉丁 licentia 许可、自由，连 licere 被允许。英语名词 licence 对应美式 license，英式常见动词仍拼 license；不把 c 与 s 当不同词根。",
+    "history": [
+      [
+        "拉丁 licentia → 法语 licence → 英语 licence／license",
+        "被允许的状态、自由 → 许可与许可文件"
+      ],
+      [
+        "现代英美拼写分工",
+        "英式名词常 licence；美式名词、动词常 license"
+      ]
+    ],
+    "explanation": "a driving licence 驾驶执照；a licence to use something 使用许可；artistic licence 艺术创作的自由。",
+    "usage": "apply for a licence 申请执照；renew a licence 续办执照。",
+    "contrast": "licence 可数时常是一份许可证，不可数时可谈许可、自由。permission 是更一般的允许，licence 常突出某项活动或使用得到授权。",
+    "examples": [
+      [
+        "He showed his driving licence at the desk.",
+        "他在柜台出示了驾驶执照。"
+      ],
+      [
+        "The writer used artistic licence when describing the town.",
+        "描写这个小镇时，作家作了艺术性的自由发挥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/licence#English",
+      "https://www.etymonline.com/word/license"
+    ]
+  }
+]

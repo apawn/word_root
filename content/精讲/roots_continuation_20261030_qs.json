@@ -1,0 +1,186 @@
+[
+  {
+    "id": "A1704",
+    "meaning": "向外、外部；超过、胜过〔常见前缀〕",
+    "core": "OUT：先越过里面与外面的边，再看能否超过别人的界限",
+    "image": "outflow 是流出去，outlay 是钱拿出去；outrun 则把自己跑到别人前面，outweigh 是分量或影响超过另一方。",
+    "intro": "out- 来自古英语 ut 向外等本族材料，早用于名词、动词和形容词。最有用的两条主线是向外、处在外部，以及在某个动作或指标上超过。outperform、outnumber 的比较对象很关键，不能只当动作发生在外面。",
+    "forms": "out- + run、weigh、number、perform，常形成超过某人的及物动词；out- + flow、pour 等可表示向外流出。outlay 联系 lay 放，outrigger 还经历 outligger 受 rig 影响的变化。outrage 的法语、拉丁借词史不同，不要把每个 out 开头的字都当此英语前缀。\n\n古英语持续材料的继承支，sts 辅音群保留。\n\n不是所有义都从竞拍发展，保留旧宣布、要求支。",
+    "branches": [
+      [
+        "具体外部与外流",
+        "outdoor · outfield · outpost · outflow · outpouring · outrigger"
+      ],
+      [
+        "超过别人的动作和程度",
+        "outrun · outperform · outnumber · outweigh · outdo · outlast · outgrow · outbid"
+      ],
+      [
+        "从原位置向外、被排出",
+        "outcast · outlaw · outbound · outsource · outcrop"
+      ],
+      [
+        "固定表达单独掌握",
+        "outlay · outlet · outlook · outset · outstanding · outspoken · outcry · outburst"
+      ],
+      [
+        "last → lasts：延续动词的第三人称单数",
+        "last · lasts"
+      ],
+      [
+        "bid → bids：现代 s 形式",
+        "bid · bids"
+      ]
+    ],
+    "contrasts": "outweigh 常说一方影响大过另一方，不只体重；outnumber 数量更多／outperform 表现更好；outlay 支出／outlet 出口等；outfit 全套装备、服装已有固定用法。",
+    "practice": "The small team outperformed its rivals despite a lower initial outlay.\n\n尽管初期投入较少，这个小团队的表现却超过了竞争对手。",
+    "words": [
+      "out",
+      "lay",
+      "outlay",
+      "pour",
+      "outpouring",
+      "outrigger",
+      "outstanding",
+      "outdoor",
+      "outfit",
+      "outlook",
+      "outlet",
+      "outbreak",
+      "outreach",
+      "outskirts",
+      "outlaw",
+      "outset",
+      "outpost",
+      "outspoken",
+      "outpatient",
+      "weigh",
+      "outweigh",
+      "outcry",
+      "outburst",
+      "outfield",
+      "outcast",
+      "flow",
+      "outflow",
+      "perform",
+      "outperform",
+      "outbound",
+      "number",
+      "outnumber",
+      "run",
+      "outrun",
+      "source",
+      "outsource",
+      "last",
+      "outlast",
+      "do",
+      "outdo",
+      "live",
+      "outlive",
+      "grow",
+      "outgrow",
+      "smart",
+      "outsmart",
+      "bid",
+      "outbid",
+      "outgrowth",
+      "outhouse",
+      "shine",
+      "outshine",
+      "wit",
+      "outwit",
+      "pace",
+      "outpace",
+      "strip",
+      "outstrip",
+      "outtake",
+      "flank",
+      "outflank",
+      "outgroup",
+      "sell",
+      "outsell",
+      "score",
+      "outscore",
+      "play",
+      "outplay",
+      "outfall",
+      "outsize",
+      "rank",
+      "outrank",
+      "lasts",
+      "bids"
+    ],
+    "exclude": {
+      "out-top": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "out-chorus": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "outrage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "out-slut": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "outcrop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "outland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "outcall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1831",
+    "meaning": "以某种方式、方向、排列；在某方面〔部分用法〕",
+    "core": "WISE：这件事按什么方式、沿什么方向来做",
+    "image": "clockwise 跟着钟针方向，lengthwise 顺着长度，pairwise 一对一对地比较。这里的 wise 给方式，不是夸做法聪明。",
+    "intro": "-wise 承古英语、中古英语的方式、样式材料，与古老 wise 的词族有联系，但现代作为词尾时要按方式、方向读。clockwise、otherwise、likewise 等早已固定，不能把每个 wise 都译成有智慧。",
+    "forms": "clock + -wise → clockwise；length + -wise → lengthwise；pair + -wise → pairwise。另有就某方面而言的生产性口语用法，但此页优先保留固定、无连字符的常见词。streetwise 则常说懂街头、世故，已接人物的实际见识，须整体掌握。\n\nguise 经法语借入，同接 -wise 方式后缀的日耳曼 manner、form 词族。disguise 经法语 des- 加 guise 改变外观，disguised 去 e 加完整 -ed。不是英语 wise 直接改拼而成。",
+    "branches": [
+      [
+        "方向和摆放",
+        "clock · clockwise；length · lengthwise；cross · crosswise"
+      ],
+      [
+        "逐步、逐块、逐对",
+        "step · stepwise；piece · piecewise；pair · pairwise"
+      ],
+      [
+        "固定抽象用法",
+        "otherwise · likewise · streetwise · edgewise"
+      ],
+      [
+        "日耳曼方式、外观词 → guise → disguise",
+        "guise · disguise · disguised"
+      ]
+    ],
+    "contrasts": "pairwise 成对关系／wise 明智；clockwise 顺时针不是时间越走越聪明；otherwise 常说否则、其他方面，likewise 常说同样，也要按句子功能理解。",
+    "practice": "Compare the options pairwise, then arrange the results lengthwise on the page.\n\n先把选项成对比较，再把结果沿页面长边方向排开。",
+    "words": [
+      "clock",
+      "clockwise",
+      "length",
+      "lengthwise",
+      "cross",
+      "crosswise",
+      "step",
+      "stepwise",
+      "piece",
+      "piecewise",
+      "pair",
+      "pairwise",
+      "otherwise",
+      "likewise",
+      "streetwise",
+      "edge",
+      "edgewise",
+      "guise",
+      "disguise",
+      "disguised"
+    ],
+    "exclude": {
+      "music-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cost-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "technology-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "population-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "weather-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cop-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "substance-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "accent-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "righteous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lore-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sinus-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

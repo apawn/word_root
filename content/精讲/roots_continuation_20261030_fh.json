@@ -1,0 +1,136 @@
+[
+  {
+    "id": "B3313",
+    "meaning": "从一种路径、状态、对象转到另一种",
+    "core": "SWITCH：拨过去，换一路",
+    "image": "switch → switchable、switcher、switcheroo；switchboard、switchgear 是控制装置，switchback、switchover 接转向、转换。",
+    "intro": "先抓现代切换义；旧细枝、鞭条的来源和机械义发展有未定环节，不把它们编成一段确定的发明故事。",
+    "forms": "早期细枝、鞭条相关词 → switch；铁路、电路切换用法 → 现代改换；switch + -able/-er/-eroo；switch + board/gear/blade。\n\n细枝、鞭条旧名可能接低地德语或荷兰语，机械切换的借入路线也有不同分析。\n\n细枝名与机械切换用法的借入关系有疑问，现代动作可以直接理解为切换。\n\nswitch 较早的细枝、鞭条词史接低地日耳曼材料；机械切换装置可能另借同族的栓、杆词义，不能把全部义项硬排成一条故事。-es 在 /tʃ/ 后读 /ɪz/。",
+    "branches": [
+      [
+        "基础与直接派生",
+        "switch · switchable · switcher · switcheroo"
+      ],
+      [
+        "开关设备与器物",
+        "switchboard · switchgear · switchblade"
+      ],
+      [
+        "转向和转换",
+        "switchback · switchover"
+      ],
+      [
+        "switch → switched：从一处切到另一处",
+        "switch · switched"
+      ],
+      [
+        "switch → switching：从一路切到另一路",
+        "switch · switching"
+      ],
+      [
+        "switch → switches：开关与切换",
+        "switches"
+      ]
+    ],
+    "contrasts": "switch/change 切换与广义变化；switchable/switched 能切与已切；gear 设备义并不等于齿轮。",
+    "practice": "The video switcher makes it easy to switch between cameras.\n\n视频切换台让人在不同摄像机画面之间轻松切换。",
+    "words": [
+      "switch",
+      "switchable",
+      "switcher",
+      "switcheroo",
+      "switchboard",
+      "switchgear",
+      "switchblade",
+      "switchback",
+      "switchover",
+      "switched",
+      "switching",
+      "switches"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4508",
+    "meaning": "竞争态度、竞争优势与竞争环境分清",
+    "core": "COMPETITIVE：想争赢、能争赢，还是压制别人参赛",
+    "image": "competitive → competitively、competitiveness；uncompetitive 缺优势；anticompetitive 妨碍竞争。",
+    "intro": "同一形容词接不同前缀，会改变否定对象。没竞争力不等于反竞争；价格很有竞争力也不等于一定最低。",
+    "forms": "compete 词族 → competitive；+ -ly / -ness；un- 不、缺少；anti- 对抗、阻碍。",
+    "branches": [
+      [
+        "基础与方式、性质",
+        "competitive · competitively · competitiveness"
+      ],
+      [
+        "缺优势与压制环境",
+        "uncompetitive · anticompetitive"
+      ]
+    ],
+    "contrasts": "uncompetitive/anticompetitive 自己竞争不过与妨碍别人竞争；competitive 有好胜和有市场优势两类常用读法。",
+    "practice": "An uncompetitive firm may struggle even without anticompetitive practices.\n\n一家缺乏竞争力的企业，即使没有限制竞争的做法，也可能经营艰难。",
+    "words": [
+      "competitive",
+      "competitively",
+      "competitiveness",
+      "uncompetitive",
+      "anticompetitive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4420",
+    "meaning": "先评定，再形成评估结果，也可重新看",
+    "core": "ASSESS：看证据、掂分量、下判断",
+    "image": "assess → assessment；reassess 加再评一次，不等于直接推翻。",
+    "intro": "评估可以针对价值、风险、表现、证据；同一个 assess 不必都翻成给东西标价。",
+    "forms": "assess 的拉丁、法语旧评定路径 → assess；assess + -ment → assessment；re- + assess → reassess。",
+    "branches": [
+      [
+        "评估与评估结果",
+        "assess · assessment"
+      ],
+      [
+        "再评一次",
+        "reassess"
+      ]
+    ],
+    "contrasts": "reassess/reverse 重审与推翻；assessment 过程或结果，要看具体对象。",
+    "practice": "The assessment gave us a reason to reassess the plan.\n\n评估结果让我们有理由重新审视计划。",
+    "words": [
+      "assess",
+      "assessment",
+      "reassess"
+    ],
+    "exclude": {
+      "assessee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2851",
+    "meaning": "醉的状态与惯常酗酒的人分开",
+    "core": "DRUNK：现在醉了；DRUNKARD：给人贴的习惯性标签",
+    "image": "drunk 接 drink 的变化；drunkard 是带贬义的人物名称。",
+    "intro": "一次 drunk 不自动等于 drunkard。-ard 的人物构词带有评价色彩，读例句时要读出是谁在评价谁。",
+    "forms": "drink 词族的过去分词、形容词 drunk；drunk + -ard 对应早期人物形式，可能有大陆日耳曼语影响。",
+    "branches": [
+      [
+        "状态",
+        "drunk"
+      ],
+      [
+        "带评价的人物称呼",
+        "drunkard"
+      ]
+    ],
+    "contrasts": "drunk/drunkard 状态与习惯性标签；drank/drunk drink 的过去式和过去分词不要混写。",
+    "practice": "The story calls him a drunkard, rather than merely saying he was drunk that night.\n\n故事把他叫作酒鬼，意思不只是说他那晚喝醉了。",
+    "words": [
+      "drunk",
+      "drunkard"
+    ],
+    "exclude": {
+      "stumble-drunk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

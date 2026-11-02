@@ -1,0 +1,443 @@
+[
+  {
+    "word": "temperature",
+    "ipa": "英 /ˈtemprətʃə/；美 /ˈtemprətʃər/",
+    "meaning": "温度；体温；发热〔have a temperature 等搭配〕",
+    "sense": "把冷热程度放到一把刻度尺上，读出的数就是 temperature。老词源关心的是调配成什么状态，后来才固定到冷热这一项。",
+    "split": "接拉丁 temperatura 调配、适当比例，来自 temperare 调和、调到适度的分词词干。英语早期也说性质、配比，后来发展为科学上的冷热程度。",
+    "history": [
+      [
+        "拉丁 temperare → temperatura",
+        "调和、调配 → 调配的状态、比例"
+      ],
+      [
+        "英语 temperature 的专业化",
+        "物质的状态 → 冷热程度、温度"
+      ]
+    ],
+    "explanation": "room temperature 室温；body temperature 体温；a high temperature 高温，也可说发热；take someone’s temperature 量体温；temperatures rise 气温升高。",
+    "usage": "a change in temperature；below room temperature。",
+    "contrast": "temperature 是冷热程度，heat 是热、热量等另一类概念。日常问 What’s the temperature? 是问多少度；have a temperature 在身体语境常暗含发热。",
+    "examples": [
+      [
+        "The temperature dropped sharply after sunset.",
+        "日落后气温急剧下降。"
+      ],
+      [
+        "Let the butter reach room temperature before mixing it.",
+        "搅拌前让黄油回到室温。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/temperature",
+      "https://en.wiktionary.org/wiki/temperature#English"
+    ]
+  },
+  {
+    "word": "ticket",
+    "ipa": "/ˈtɪkɪt/",
+    "meaning": "票、票证；罚单；工单；给……开罚单",
+    "sense": "一张小纸条，证明你能进场、乘车，或记录一件需要处理的事。形式后来可以电子化，凭据、记录这一点还在。",
+    "split": "来自法语 etiquet、estiquette 等标签、便条词的缩短形式，英语也有经苏格兰语形式传入的记录；更早接法语粘贴、固定的动词及日耳曼语同族材料，与 stick 有历史联系。",
+    "history": [
+      [
+        "法语 estiquette、etiquet",
+        "贴出的标签、小纸条、通知"
+      ],
+      [
+        "英语 ticket",
+        "票证；违规通知；待处理事务的记录"
+      ]
+    ],
+    "explanation": "a train ticket 火车票；a concert ticket 演出门票；a parking ticket 停车罚单；a support ticket 客服、技术支持工单；book a ticket 订票。",
+    "usage": "show your ticket；raise a support ticket。",
+    "contrast": "ticket 不一定让你进场。a parking ticket 常是罚单，a support ticket 是记录问题的工单；对象和搭配决定是哪种凭据或记录。",
+    "examples": [
+      [
+        "Keep your ticket until you leave the station.",
+        "出站前请保留车票。"
+      ],
+      [
+        "I opened a support ticket about the missing files.",
+        "我为文件丢失的问题提交了技术支持工单。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ticket",
+      "https://en.wiktionary.org/wiki/ticket#English"
+    ]
+  },
+  {
+    "word": "etiquette",
+    "ipa": "英 /ˈetɪket/；美 /ˈetɪkət/ 亦 /ˈetɪket/",
+    "meaning": "礼仪；特定场合的行为规矩",
+    "sense": "第一次进入一个场合，先观察大家怎样称呼、发言、用餐。etiquette 就是这些让人相处得体的惯例。",
+    "split": "直接借法语 etiquette 礼仪，旧法语 estiquette 原指标签、便条，与 ticket 同源。标签、行为指示到礼仪的转变发生在法语；具体由哪种宫廷或住宿纸条促成，有不同解释。",
+    "history": [
+      [
+        "旧法语 estiquette",
+        "标签、便条；与 ticket 同源"
+      ],
+      [
+        "法语 etiquette → 英语 etiquette",
+        "行为方面的规矩、礼仪"
+      ]
+    ],
+    "explanation": "table etiquette 餐桌礼仪；business etiquette 商务礼仪；online etiquette 网络礼仪；a question of etiquette 礼节问题。",
+    "usage": "observe etiquette；the rules of etiquette。",
+    "contrast": "etiquette 看某个场合约定怎样做才得体，manners 常看一个人的举止是否礼貌。etiquette 通常不可数，不说 several etiquettes 表几条礼仪。",
+    "examples": [
+      [
+        "She read a guide to table etiquette before the formal dinner.",
+        "正式晚宴前，她读了一份餐桌礼仪指南。"
+      ],
+      [
+        "Online etiquette includes giving others time to respond.",
+        "网络礼仪包括给别人时间回复。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ticket",
+      "https://en.wiktionary.org/wiki/etiquette#English"
+    ]
+  },
+  {
+    "word": "aptitude",
+    "ipa": "英 /ˈæptɪtjuːd/；美 /ˈæptɪtuːd/",
+    "meaning": "天资、学习某事的潜能；适合某种活动的能力",
+    "sense": "有人一摸乐器就容易找准节奏，有人很快看懂空间关系。aptitude 看的是做这类事容易上手、容易发展的潜能。",
+    "split": "接法语或晚期拉丁 aptitudo 适合、胜任的性质，来自 aptus 合适的，与 apt 同族；-itude 接性质、状态名词材料。后来常说学习、掌握特定技能的能力。",
+    "history": [
+      [
+        "拉丁 aptus → aptitudo",
+        "合适的 → 适合、胜任的性质"
+      ],
+      [
+        "英语 aptitude",
+        "对某类学习、活动的潜能、天资"
+      ]
+    ],
+    "explanation": "an aptitude for languages 语言天资；an aptitude test 能力倾向测验；show an aptitude for 显示某方面潜能。",
+    "usage": "musical aptitude；an aptitude for solving problems。",
+    "contrast": "aptitude 偏容易学会、适合发展的潜能；skill 偏已经练成的技能。attitude 则是看待事情的态度，两词相像但所问不同。",
+    "examples": [
+      [
+        "She showed an early aptitude for languages.",
+        "她很早就表现出语言天资。"
+      ],
+      [
+        "The course helps students discover their aptitudes.",
+        "课程帮助学生发现自己的能力倾向。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/attitude",
+      "https://en.wiktionary.org/wiki/aptitude#English"
+    ]
+  },
+  {
+    "word": "attitude",
+    "ipa": "英 /ˈætɪtjuːd/；美 /ˈætɪtuːd/",
+    "meaning": "态度、看法；姿态；不合作的架势〔部分口语〕",
+    "sense": "身体可以摆出一个姿势，心里也可以摆出一种面对事情的姿势：愿意试、满不在乎、处处防备，都是 attitude。",
+    "split": "经法语 attitude 接意大利语 attitudine，较早联系拉丁 aptitudo 等适合、姿态材料。英语先作艺术中人物姿态的词，再扩展到显示心理状态的姿态、稳定的看法与态度。",
+    "history": [
+      [
+        "拉丁相关性质词 → 意大利语 attitudine → 法语 attitude",
+        "适合、倾向；身体姿态"
+      ],
+      [
+        "英语 attitude",
+        "艺术中的姿态 → 面对事物的心理态度"
+      ]
+    ],
+    "explanation": "an attitude to／towards work 对工作的态度；a positive attitude 积极态度；change one’s attitude 改变态度；have an attitude 在某些口语中指摆出不合作、挑衅的架势。",
+    "usage": "a relaxed attitude；an attitude of respect。",
+    "contrast": "attitude 说怎样看待、面对事情；aptitude 说某方面的潜能。a good attitude 不保证技术已经很好，但说明愿意怎样对待这件事。",
+    "examples": [
+      [
+        "Her attitude towards the project changed after the first meeting.",
+        "第一次会议后，她对项目的态度变了。"
+      ],
+      [
+        "He approached the problem with a positive attitude.",
+        "他以积极态度处理这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/attitude",
+      "https://en.wiktionary.org/wiki/attitude#English"
+    ]
+  },
+  {
+    "word": "detail",
+    "ipa": "英 /ˈdiːteɪl/；美 /ˈdiːteɪl/，亦有 /dɪˈteɪl/",
+    "meaning": "细节；具体情况；详细说明；派遣〔特定用法〕",
+    "sense": "把一大件事切开来看，每一小块具体是什么，就是 a detail；把它一块块讲出来，就是 detail 作动词。",
+    "split": "借法语 detail，接 detailler 切成小块，含 de- 加强、彻底与 tailler 切的材料；再接较早拉丁切条、枝条相关词。与 retail、tailor 同族，不来自英语动物尾巴 tail。",
+    "history": [
+      [
+        "法语 detailler → detail",
+        "切成小块 → 一项项、局部"
+      ],
+      [
+        "英语 detail",
+        "细节、具体情况；逐项讲述、分派具体任务"
+      ]
+    ],
+    "explanation": "in detail 详细地；attention to detail 注重细节；contact details 联系方式；detail the changes 详细说明变更；a security detail 执行特定保卫任务的小组。",
+    "usage": "a minor detail；go into detail。",
+    "contrast": "in detail 是固定表达，通常不用 in details 说详细地；give me the details 则用复数指各项具体情况。",
+    "examples": [
+      [
+        "She explained the process in detail.",
+        "她详细解释了整个过程。"
+      ],
+      [
+        "Please send me your contact details.",
+        "请把你的联系方式发给我。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/detail",
+      "https://en.wiktionary.org/wiki/detail#English"
+    ]
+  },
+  {
+    "word": "detailed",
+    "ipa": "/ˈdiːteɪld/；亦有 /dɪˈteɪld/",
+    "meaning": "详细的；逐项说明了；detail 的过去式、过去分词",
+    "sense": "不只说有座房子，还把房间尺寸、门窗位置都标出来，这份图就很 detailed。许多具体小项都交代到了。",
+    "split": "detail + -ed，末尾读 /d/。detail 的切成小项、逐项叙述义延伸成分词形容词：包含许多细节的。",
+    "history": [
+      [
+        "detail",
+        "小项、细节；逐项说明"
+      ],
+      [
+        "detail + -ed → detailed",
+        "已逐项说明；包含许多细节的"
+      ]
+    ],
+    "explanation": "a detailed report 详细报告；a detailed description 详细描述；a detailed map 详细地图；a detailed explanation 详细解释。",
+    "usage": "a highly detailed drawing；detailed instructions。",
+    "contrast": "detailed 说具体信息多，不必文字很长：一张图也可以 detailed。detail 是名词或动词，修饰 report 通常用 detailed report。",
+    "examples": [
+      [
+        "The guide includes detailed maps of the old town.",
+        "指南含有古城区的详细地图。"
+      ],
+      [
+        "She gave us a detailed explanation of the changes.",
+        "她向我们详细解释了这些变更。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/detail",
+      "https://en.wiktionary.org/wiki/detailed#English"
+    ]
+  },
+  {
+    "word": "detailing",
+    "ipa": "/ˈdiːteɪlɪŋ/；亦有 /dɪˈteɪlɪŋ/",
+    "meaning": "详细说明；精细装饰、细部处理；汽车精细清洁养护",
+    "sense": "注意力落到小地方：可以一项项交代信息，也可以把车内缝隙、车身表面都仔细处理。detailing 看这种做到细部的工作。",
+    "split": "detail + -ing。动词逐项说明的形式保留，同时名词用于细部装饰或精细处理；汽车 detailing 是其中常见的专业化用法。",
+    "history": [
+      [
+        "detail",
+        "细部；逐项说明、处理"
+      ],
+      [
+        "detail + -ing → detailing",
+        "说明过程；细部做工；汽车精细清洁处理"
+      ]
+    ],
+    "explanation": "a report detailing the costs 逐项说明费用的报告；decorative detailing 装饰细部；car detailing 汽车精细清洁养护。具体服务项目因商家而异。",
+    "usage": "interior detailing；fine detailing。",
+    "contrast": "detailing 在汽车语境通常比普通洗车更强调细致清洁、整理和表面处理；不等于修理发动机。a report detailing ... 中则只是动词形式。",
+    "examples": [
+      [
+        "The report detailing the costs arrived this morning.",
+        "逐项说明费用的报告今天早上送到了。"
+      ],
+      [
+        "The wooden door has beautiful decorative detailing.",
+        "木门的装饰细部做得很漂亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/detailing#English"
+    ]
+  },
+  {
+    "word": "tailor",
+    "ipa": "英 /ˈteɪlə/；美 /ˈteɪlər/",
+    "meaning": "裁缝；量身制作、按需要调整",
+    "sense": "衣服先量尺寸再裁剪，才贴合这个人。把课程、方案也按对象的需要剪裁，就有 tailor 的动词义。",
+    "split": "经古法语 tailleor、法语相关形式接 tailler 切、裁剪，较早接拉丁 talea 切条、枝条材料。-or 在这个借词里接做事者的历史名词形式，不是动物 tail 加英语后缀。",
+    "history": [
+      [
+        "法语 tailler → tailleor",
+        "裁剪 → 裁剪、制作衣服的人"
+      ],
+      [
+        "英语 tailor 名词 → 动词",
+        "裁缝 → 按尺寸或需求定制、调整"
+      ]
+    ],
+    "explanation": "a tailor’s shop 裁缝店；tailor something to someone’s needs 按某人的需要调整；tailor a course to beginners 为初学者定制课程。",
+    "usage": "tailor the service to the customer；a local tailor。",
+    "contrast": "tailor a plan to a team 不是把方案翻译给团队，而是按团队特点调整。改动的目的在于更合适，不一定从零设计。",
+    "examples": [
+      [
+        "The tailor adjusted the sleeves of my jacket.",
+        "裁缝修改了我外套的袖子。"
+      ],
+      [
+        "We tailor each lesson to the learner’s needs.",
+        "我们根据学习者的需要调整每一课。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/detail",
+      "https://en.wiktionary.org/wiki/tailor#English"
+    ]
+  },
+  {
+    "word": "representative",
+    "ipa": "/ˌreprɪˈzentətɪv/",
+    "meaning": "代表；业务代表；有代表性的、典型的",
+    "sense": "一个人替一群人说话，是 representative；抽出一小部分却能看出整体特点，这部分也有 representative 的性质。",
+    "split": "经法语 representatif 或中世纪拉丁 repraesentativus 借入；接 repraesentare 呈现、展示，较早有 praesentare 使在场的材料。现代可对照 represent + -ative，但历史含平行借词。",
+    "history": [
+      [
+        "拉丁 repraesentare → repraesentativus／法语相应词",
+        "呈现 → 起代表、表现作用的"
+      ],
+      [
+        "英语 representative",
+        "代表者；能体现一类特点的"
+      ]
+    ],
+    "explanation": "a sales representative 销售代表；an elected representative 民选代表；a representative sample 有代表性的样本；be representative of 具有……的代表性。",
+    "usage": "a company representative；representative examples。",
+    "contrast": "a representative 是代表这个人，representative of the whole group 则判断能不能体现全组特点。样本数量多，也不自动有代表性。",
+    "examples": [
+      [
+        "A representative from each class attended the meeting.",
+        "每个班都有一名代表参加会议。"
+      ],
+      [
+        "These examples are representative of her early work.",
+        "这些例子能代表她早期作品的特点。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/representative",
+      "https://en.wiktionary.org/wiki/representative#English"
+    ]
+  },
+  {
+    "word": "expert",
+    "ipa": "英 /ˈekspɜːt/；美 /ˈekspɝːt/",
+    "meaning": "专家、行家；熟练的、内行的",
+    "sense": "真正做过、试过，见过许多情况，所以知道怎样判断和处理：expert 的老线索是经过实践检验。",
+    "split": "经法语 expert、espert 接拉丁 expertus 经过试验、凭经历知道的，是 experiri 尝试、检验的分词。与 experience、experiment 共享更早的尝试词族。",
+    "history": [
+      [
+        "拉丁 experiri → expertus",
+        "尝试、检验 → 经过检验、有经验的"
+      ],
+      [
+        "法语 → 英语 expert",
+        "熟练的；有专门知识或技能的人"
+      ]
+    ],
+    "explanation": "an expert in something 某领域专家；an expert on a topic 某主题专家；expert advice 专业意见；be expert at doing 精于某事。",
+    "usage": "an independent expert；expert knowledge。",
+    "contrast": "expert 既可作人，也可作修饰语。an expert 是一位专家；expert help 是内行的帮助，前面不用为了表示专家而加 an。",
+    "examples": [
+      [
+        "We asked an expert in old buildings to examine the house.",
+        "我们请一位古建筑专家查看这座房子。"
+      ],
+      [
+        "She handled the equipment with expert care.",
+        "她操作设备时细致而娴熟。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/expert",
+      "https://en.wiktionary.org/wiki/expert#English"
+    ]
+  },
+  {
+    "word": "expertise",
+    "ipa": "英 /ˌekspɜːˈtiːz/；美 /ˌekspɝːˈtiːz/",
+    "meaning": "专门知识、专长；专业技能",
+    "sense": "expert 是这位行家，expertise 是他带来的那套知识和本领。需要修复古画时，要找的是有相应 expertise 的人。",
+    "split": "借法语 expertise，早期有专家鉴定、鉴定报告等义，来自 expert 专业、内行的同族材料。词尾 -ise 在这个法语名词中不是英语动词化 -ise。",
+    "history": [
+      [
+        "法语 expert → expertise",
+        "内行、专家 → 专家鉴定及相关本领"
+      ],
+      [
+        "英语 expertise",
+        "专业知识、技能和经验"
+      ]
+    ],
+    "explanation": "expertise in design 设计专长；technical expertise 技术专长；bring expertise to a project 为项目带来专业能力；an area of expertise 专长领域。",
+    "usage": "specialist expertise；share one’s expertise。",
+    "contrast": "expertise 通常不可数：She has expertise in this field。要说一个人，用 an expert；要数不同专长领域，可说 several areas of expertise。",
+    "examples": [
+      [
+        "The project needs expertise in both history and engineering.",
+        "这个项目既需要历史知识，也需要工程专长。"
+      ],
+      [
+        "She shared her expertise with the new staff.",
+        "她把自己的专业经验传授给了新员工。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/expert",
+      "https://en.wiktionary.org/wiki/expertise#English"
+    ]
+  },
+  {
+    "word": "personnel",
+    "ipa": "英 /ˌpɜːsəˈnel/；美 /ˌpɝːsəˈnel/",
+    "meaning": "人员、职员；人事部门〔部分语境〕",
+    "sense": "机构不只有机器、建筑，还有实际在里面工作的这批人。personnel 看的是这些工作人员这一整体。",
+    "split": "借法语 personnel 集合名词，较早由人的、个人的形容词名词化；经法语接拉丁 persona、personalis 词族。与 personal 同源，但英语分别借入、分工。",
+    "history": [
+      [
+        "拉丁 persona／personalis → 法语 personnel",
+        "人、个人的 → 从事某项服务的人员整体"
+      ],
+      [
+        "英语 personnel",
+        "工作人员；部分用法人事部门"
+      ]
+    ],
+    "explanation": "medical personnel 医务人员；military personnel 军事人员；trained personnel 受训人员；the personnel department 人事部门。",
+    "usage": "all personnel；personnel records。",
+    "contrast": "personnel 重音在后，通常说工作人员整体，作复数理解：All personnel are ...。personal 重音在前，是个人的；不说 a personnel 表一名员工。",
+    "examples": [
+      [
+        "Only authorized personnel may enter this room.",
+        "只有获准人员可以进入这个房间。"
+      ],
+      [
+        "The hospital recruited additional medical personnel.",
+        "医院增聘了医务人员。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/personnel",
+      "https://en.wiktionary.org/wiki/personnel#English"
+    ]
+  }
+]

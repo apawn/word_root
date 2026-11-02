@@ -5,7 +5,7 @@
     "core": "MANUS = HAND",
     "image": "想象一只手：能做东西、握住不放、驾驭缰绳，也能把任务交到另一只手里。",
     "intro": "这一族来自拉丁语 manus“手”，不是英语 man“人”。先抓住几个真实分支：用手做是 manual、manufacture；握住是 maintain；驾驭马匹再到处理事务是 manage；把职责交出去是 mandate。不同词借入英语的时间、语言和形式不同，不要只按现代拼写硬拆。",
-    "forms": "**man- / manu- / mani-**：manus 及其构词形式；可见于 manual、manipulation、manicure\n\n**main-**：拉丁 manus 经法语音变后的形式；见 maintain、mortmain\n\n**mand-**：mandāre“委托、命令”这一支，传统解释联系把事交到手里\n\n**manus 与 man**：拉丁“手”与日耳曼“人”来源不同；man-made、manhood 不能因此归进来",
+    "forms": "**man- / manu- / mani-**：manus 及其构词形式；可见于 manual、manipulation、manicure\n\n**main-**：拉丁 manus 经法语音变后的形式；见 maintain、mortmain\n\n**mand-**：mandāre“委托、命令”这一支，传统解释联系把事交到手里\n\n**manus 与 man**：拉丁“手”与日耳曼“人”来源不同；man-made、manhood 不能因此归进来\n\nmanner 接拉丁 manus 手的操作、处理词族，经法语发展为方式；manners 在社会行为分支常指礼貌、礼仪。\n\n手、驾驭的词族发展为管理；managed to 尤其强调终于做成。\n\n英语 manage 加 er 命名执行管理动作的人，manage 的较早词族有手的背景。\n\n手、操控马匹的意象扩展到处理事务和设法完成。\n\n拉丁 manu 与 tenere 的组合经法语借入，保持和坚持主张各有用法。\n\n意大利与法语马术、处理词接拉丁 manus 手，现代三单多 /ɪz/ 音节。\n\n中世纪拉丁 manu 用手与 scriptus 写成的结合，现代稿件范围超出字面手写。",
     "branches": [
       [
         "亲手做与照料",
@@ -34,6 +34,34 @@
       [
         "需要分别核对的旁支",
         "manner 经法语转变；manifestus 第二成分未定；adminiculum 远源有分歧"
+      ],
+      [
+        "manner 与 manners：做法转为待人举止",
+        "manner · manners"
+      ],
+      [
+        "manage → managed：掌握处理与设法做到",
+        "manage · managed"
+      ],
+      [
+        "manager → managers：管理、负责的人",
+        "manager · managers"
+      ],
+      [
+        "manage → managing：操持、办成",
+        "manage · managing"
+      ],
+      [
+        "maintain → maintained：用手握住到维持",
+        "maintain · maintained"
+      ],
+      [
+        "manage → manages：用手驾驭到管理、设法做到",
+        "manage · manages"
+      ],
+      [
+        "manuscript → manuscripts：手稿、待发表稿件",
+        "manuscript · manuscripts"
       ]
     ],
     "contrasts": "manual 指人的手或人工操作；maniform 指形状像手，不能互换。\n\nmanage 是管理、应付；manipulate 可能是细致操作，也可能是操控别人；maneuver 强调巧妙调整位置或策略。\n\nmandate、command 可含正式命令；recommend 提出值得考虑的建议。\n\nmanufacture 与 manuscript 保留不同动作：前者做成，后者写成。工业化后 manufacture 并不要求手工。\n\nmanifest 的远源通常联系 manus，但第二部分尚无定论；adminicle 的更早成分分析也有分歧，图从确定节点起。",
@@ -124,7 +152,14 @@
       "manuscript",
       "manicure",
       "manumission",
-      "manumit"
+      "manumit",
+      "manners",
+      "managed",
+      "managers",
+      "managing",
+      "maintained",
+      "manages",
+      "manuscripts"
     ]
   }
 ]

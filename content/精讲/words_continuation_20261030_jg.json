@@ -1,0 +1,369 @@
+[
+  {
+    "word": "municipal",
+    "ipa": "/mjuːˈnɪsɪpəl/",
+    "meaning": "市政的；地方自治政府的",
+    "sense": "路灯、垃圾清运、社区公共设施等由当地政府负责，相关事物常用 municipal。它关注地方公共管理，不只是城市里有的东西。",
+    "split": "借法语 municipal，接拉丁 mūnicipālis、mūnicipium。更早的 mūniceps 联系 mūnus 公共义务与承担的成分，帮助理解城镇共同体；不是 music 加后缀。",
+    "history": [
+      [
+        "拉丁 mūnus 义务、公共服务 + capere 的相关成分",
+        "承担公共责任的居民身份"
+      ],
+      [
+        "mūniceps、mūnicipium → mūnicipālis → 法语 municipal",
+        "城镇、市民、城镇相关的性质"
+      ],
+      [
+        "英语 municipal",
+        "市政的；地方政府相关的"
+      ]
+    ],
+    "explanation": "municipal services 市政服务，a municipal council 市政议会，municipal buildings 市政建筑。具体地方政府层级随国家制度不同，不能只按中文某一固定级别套。",
+    "usage": "municipal services；a municipal council；municipal buildings。",
+    "contrast": "urban 强调城市的环境、性质；municipal 强调地方政府管理、归属。城市里的私人咖啡馆是 urban 场景，不因此就是 municipal 资产。",
+    "examples": [
+      [
+        "The council improved several municipal services.",
+        "市政议会改善了几项市政服务。"
+      ],
+      [
+        "The library is housed in a municipal building.",
+        "图书馆设在一座市政建筑里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/municipal#English"
+    ]
+  },
+  {
+    "word": "municipality",
+    "ipa": "/mjuːˌnɪsɪˈpæləti/",
+    "meaning": "自治市、地方行政单位；其政府、当局",
+    "sense": "municipal 说地方政府相关的性质，municipality 则把整块有相应地方政府的行政单位，或管理它的当局，作为一个对象来称呼。",
+    "split": "借法语 municipalité，与 municipal + -ity 对应。继承地方共同体的来源，名词重音移到 /pæl/，不只是把形容词原封不动读完再加词尾。",
+    "history": [
+      [
+        "拉丁 mūnus 义务、公共服务 + capere 的相关成分",
+        "承担公共责任的居民身份"
+      ],
+      [
+        "mūniceps、mūnicipium → mūnicipālis → 法语 municipal",
+        "城镇、市民、城镇相关的性质"
+      ],
+      [
+        "英语 municipal",
+        "市政的；地方政府相关的"
+      ],
+      [
+        "法语 municipalité → 英语 municipality",
+        "地方自治行政单位；该单位的政府"
+      ]
+    ],
+    "explanation": "the local municipality 当地自治市、地方当局，several municipalities 几个地方行政单位。某些地区可含多个居民点，不能一律画成一个连续大城市。",
+    "usage": "the local municipality；several municipalities。",
+    "contrast": "municipality 可指辖区，也可指当局；city 常指城市。二者在具体制度下可能重叠，含义却不自动完全相同。",
+    "examples": [
+      [
+        "The municipality manages the local parks.",
+        "当地政府管理着当地公园。"
+      ],
+      [
+        "The study compares transport in five municipalities.",
+        "研究比较了五个地方行政单位的交通。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/municipality#English"
+    ]
+  },
+  {
+    "word": "municipally",
+    "ipa": "/mjuːˈnɪsɪpəli/",
+    "meaning": "由地方政府、市政当局；在市政方面",
+    "sense": "municipally owned 就是地方政府拥有的。这个副词经常告诉你：这件事是谁在管、是谁出资。",
+    "split": "municipal + -ly，形容词以 l 结尾，再加 -ly，拼写有 ll；常见读法中末尾音节可压缩。",
+    "history": [
+      [
+        "拉丁 mūnus 义务、公共服务 + capere 的相关成分",
+        "承担公共责任的居民身份"
+      ],
+      [
+        "mūniceps、mūnicipium → mūnicipālis → 法语 municipal",
+        "城镇、市民、城镇相关的性质"
+      ],
+      [
+        "英语 municipal",
+        "市政的；地方政府相关的"
+      ],
+      [
+        "municipal + -ly → municipally",
+        "与市政管理方式、归属有关的副词"
+      ]
+    ],
+    "explanation": "municipally owned 地方政府所有的，municipally funded 由地方政府资助的，municipally operated 由市政当局运营的。",
+    "usage": "municipally owned；municipally funded；municipally operated。",
+    "contrast": "municipal facilities 是市政设施；municipally owned facilities 明确说由地方政府拥有。归属、出资和运营并非同一关系。",
+    "examples": [
+      [
+        "The town has a municipally owned swimming pool.",
+        "镇上有一个地方政府所有的游泳池。"
+      ],
+      [
+        "The centre is municipally funded.",
+        "这个中心由当地政府资助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/municipally#English"
+    ]
+  },
+  {
+    "word": "spectrograph",
+    "ipa": "英 /ˈspektrəɡrɑːf/；美 /ˈspektrəɡræf/",
+    "meaning": "摄谱仪、光谱记录仪",
+    "sense": "把不同波长的光分开，再把光谱记录下来，好像让光留下自己的指纹。spectrograph 是做这件事的仪器。",
+    "split": "spectro- 光谱 + -graph 记录、描记的仪器成分；spectro- 联系 spectrum 光谱，-graph 接希腊写、记录的词源。这里整体不是一张普通统计图。",
+    "history": [
+      [
+        "拉丁 spectrum 的光谱义 → spectro-",
+        "按波长展开的光谱"
+      ],
+      [
+        "spectro- + -graph → spectrograph",
+        "记录光谱的仪器"
+      ]
+    ],
+    "explanation": "a telescope spectrograph 望远镜光谱仪，a high-resolution spectrograph 高分辨率摄谱仪。记录的光谱用于研究光源、物质等，具体性能取决于仪器。",
+    "usage": "a telescope spectrograph；a high-resolution spectrograph。",
+    "contrast": "spectrograph 侧重记录光谱的仪器；spectrogram 是记录得到的图样。spectrometer 更宽泛说光谱测量仪器，现代设备命名有重叠。",
+    "examples": [
+      [
+        "The telescope’s spectrograph recorded the star’s spectrum.",
+        "望远镜的摄谱仪记录了那颗恒星的光谱。"
+      ],
+      [
+        "The team installed a new spectrograph at the observatory.",
+        "团队在天文台安装了一台新摄谱仪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spectrograph#English",
+      "https://science.nasa.gov/asset/hubble/how-a-spectrograph-works/"
+    ]
+  },
+  {
+    "word": "ambassador",
+    "ipa": "英 /æmˈbæsədə/；美 /æmˈbæsədər/",
+    "meaning": "大使；形象代表、推广代表",
+    "sense": "带着派遣方的身份与使命，到另一方那里代表它，是 ambassador 的主线。国家有大使，品牌、公益活动也会借这个代表形象。",
+    "split": "经中古英语 ambassadore、盎格鲁诺曼语 ambassadeur 等借入，较早欧洲词形联系服务、差事、使命。远处路线经历多语言，不按 am + bass + door 拼字硬拆。",
+    "history": [
+      [
+        "较早欧洲形式中与任务、差事、服务相关的成分",
+        "受派遣、执行使命的人"
+      ],
+      [
+        "古法语、盎格鲁诺曼语 ambassadeur 等 → 英语 ambassador",
+        "正式使节、大使；后来也可说形象代表"
+      ]
+    ],
+    "explanation": "an ambassador to France 驻法国大使，a brand ambassador 品牌形象代表，a goodwill ambassador 亲善大使。后两者不因名称就自动具备外交职务。",
+    "usage": "an ambassador to；a brand ambassador；a goodwill ambassador。",
+    "contrast": "ambassador 的外交职位与商业、公益称号要分开。embassy 是大使馆、使团，不是这位代表本人。",
+    "examples": [
+      [
+        "She served as ambassador to several countries.",
+        "她曾在几个国家担任大使。"
+      ],
+      [
+        "The athlete became a goodwill ambassador for the charity.",
+        "这位运动员成为该慈善机构的亲善大使。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ambassador#English"
+    ]
+  },
+  {
+    "word": "ambassadorial",
+    "ipa": "英 /æmˌbæsəˈdɔːriəl/；美 /æmˌbæsəˈdɔːriəl/",
+    "meaning": "大使的；与大使职责有关的",
+    "sense": "不再说这位大使是谁，而是说某项职责、任命、住所属于大使这个职位，就是 ambassadorial。",
+    "split": "ambassador + -ial，形成相关形容词。重音转移到 /dɔː/，不是在 ambassador 原读音后随便附上一个词尾。",
+    "history": [
+      [
+        "较早欧洲形式中与任务、差事、服务相关的成分",
+        "受派遣、执行使命的人"
+      ],
+      [
+        "古法语、盎格鲁诺曼语 ambassadeur 等 → 英语 ambassador",
+        "正式使节、大使；后来也可说形象代表"
+      ],
+      [
+        "ambassador + -ial → ambassadorial",
+        "大使职位、身份或职责相关的"
+      ]
+    ],
+    "explanation": "ambassadorial duties 大使职责，an ambassadorial appointment 大使任命，an ambassadorial residence 大使官邸。正式文体中较常见。",
+    "usage": "ambassadorial duties；an ambassadorial appointment。",
+    "contrast": "ambassadorial 比 diplomatic 外交的范围窄；一般外交工作、措辞不一定专属大使。",
+    "examples": [
+      [
+        "Her ambassadorial duties included attending official ceremonies.",
+        "她的大使职责包括参加正式典礼。"
+      ],
+      [
+        "The announcement concerned an ambassadorial appointment.",
+        "公告涉及一项大使任命。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ambassadorial#English"
+    ]
+  },
+  {
+    "word": "ambassadorship",
+    "ipa": "英 /æmˈbæsədəʃɪp/；美 /æmˈbæsədərʃɪp/",
+    "meaning": "大使职务、任期",
+    "sense": "把担任大使这份职位、任职经历当成一个整体，就是 ambassadorship。不是说一艘载着大使的船。",
+    "split": "ambassador + -ship，-ship 在这里表身份、职位、任职状态，与 friendship 等后缀同类，和独立名词 ship 船不同。",
+    "history": [
+      [
+        "较早欧洲形式中与任务、差事、服务相关的成分",
+        "受派遣、执行使命的人"
+      ],
+      [
+        "古法语、盎格鲁诺曼语 ambassadeur 等 → 英语 ambassador",
+        "正式使节、大使；后来也可说形象代表"
+      ],
+      [
+        "ambassador + -ship → ambassadorship",
+        "大使这一职位及任职经历"
+      ]
+    ],
+    "explanation": "an ambassadorship to a country 驻某国大使职务，during her ambassadorship 在她担任大使期间。",
+    "usage": "an ambassadorship；during her ambassadorship。",
+    "contrast": "ambassador 是人，ambassadorial 是相关性质，ambassadorship 是职位、任职经历；不要只因都能译出大使就互换。",
+    "examples": [
+      [
+        "He accepted an ambassadorship after years in public service.",
+        "多年从事公共服务后，他接受了大使职务。"
+      ],
+      [
+        "The memoir describes her ambassadorship in detail.",
+        "回忆录详细讲述了她担任大使的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ambassadorship#English"
+    ]
+  },
+  {
+    "word": "drain",
+    "ipa": "/dreɪn/",
+    "meaning": "排水、流走；耗尽；排水口、排水管；消耗资源的事物",
+    "sense": "水从出口流走，容器逐渐空了；精力、金钱也能像这样不断流失。drain 就连接这两种画面。",
+    "split": "承接古英语 drēahnian，经中古英语 dreinen；与 dry、drought 的历史有联系。现代 drain 不能简单按 d + rain 雨拆。",
+    "history": [
+      [
+        "古英语 drēahnian → 中古英语 dreinen → drain",
+        "逐渐引走液体；联系变干的旧概念"
+      ],
+      [
+        "实体水流 → 资源、精力的扩展",
+        "流走、排走；逐渐耗尽"
+      ]
+    ],
+    "explanation": "drain the sink 排掉水槽里的水，a blocked drain 堵住的排水管，drain resources 消耗资源，go down the drain 白白浪费、付诸东流。",
+    "usage": "drain away；a blocked drain；a drain on resources；down the drain。",
+    "contrast": "drain 说流出、耗去；flood 说大量涌入、淹没。a drain on time 是不断消耗时间的事，不是字面的时间排水口。",
+    "examples": [
+      [
+        "The water drained slowly from the sink.",
+        "水从水槽里慢慢排走。"
+      ],
+      [
+        "The repeated delays were a drain on our resources.",
+        "一再延误不断消耗我们的资源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drain#English"
+    ]
+  },
+  {
+    "word": "drainage",
+    "ipa": "/ˈdreɪnɪdʒ/",
+    "meaning": "排水；排水系统、排水能力",
+    "sense": "一块地上的水能不能顺利离开，或靠什么管网离开，都是 drainage 关心的事。它可以说过程，也可以说整套系统。",
+    "split": "drain + -age，把排水动作联系到过程、设施等名词。-age 在这里读弱读 /ɪdʒ/，不是独立 age 年龄。",
+    "history": [
+      [
+        "古英语 drēahnian → 中古英语 dreinen → drain",
+        "逐渐引走液体；联系变干的旧概念"
+      ],
+      [
+        "实体水流 → 资源、精力的扩展",
+        "流走、排走；逐渐耗尽"
+      ],
+      [
+        "drain + -age → drainage",
+        "排水过程、系统、条件"
+      ]
+    ],
+    "explanation": "good drainage 良好排水，a drainage system 排水系统，poor soil drainage 土壤排水不良。具体强调排水能力还是设施，看搭配。",
+    "usage": "good drainage；a drainage system；soil drainage。",
+    "contrast": "drain 是单个管道、口，也可作动词；drainage 常把整个排水过程、系统或条件作为一个概念谈。",
+    "examples": [
+      [
+        "These plants need soil with good drainage.",
+        "这些植物需要排水良好的土壤。"
+      ],
+      [
+        "The town upgraded its drainage system.",
+        "镇上升级了排水系统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drainage#English"
+    ]
+  },
+  {
+    "word": "drained",
+    "ipa": "/dreɪnd/",
+    "meaning": "排干的、耗尽的；精疲力竭的",
+    "sense": "像容器里的东西流走了，身体也好像没剩多少劲，便是 feel drained。它强调被耗空后的状态。",
+    "split": "drain + -ed，过去分词可作形容词；末尾读 /d/。由液体排走扩到电量、精力耗去。",
+    "history": [
+      [
+        "古英语 drēahnian → 中古英语 dreinen → drain",
+        "逐渐引走液体；联系变干的旧概念"
+      ],
+      [
+        "实体水流 → 资源、精力的扩展",
+        "流走、排走；逐渐耗尽"
+      ],
+      [
+        "drain + -ed → drained",
+        "被排走、消耗后的状态"
+      ]
+    ],
+    "explanation": "feel drained 感到精疲力竭，emotionally drained 心力交瘁，a drained battery 电量耗尽的电池。形容人的感受不代表实际生理指标归零。",
+    "usage": "feel drained；emotionally drained；a drained battery。",
+    "contrast": "drained 是被耗空后的状态；draining 是令人耗力的，an exhausting meeting 可让人 feel drained。",
+    "examples": [
+      [
+        "After the long meeting, she felt completely drained.",
+        "开完长会后，她觉得精疲力竭。"
+      ],
+      [
+        "The drained battery could no longer power the device.",
+        "电量耗尽的电池无法再给设备供电。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drained#English"
+    ]
+  }
+]

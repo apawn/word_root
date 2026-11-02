@@ -1,0 +1,580 @@
+[
+  {
+    "word": "unified",
+    "ipa": "/ˈjuːnɪfaɪd/",
+    "meaning": "统一的、整合的；使统一了〔过去式、过去分词〕",
+    "sense": "原来分成几块、各用各的，现在合成一套能共同运作的整体，是 unified。可以统一规则、系统，也可以让团队形成共同方向。",
+    "split": "unify 经中古法语 unifier 接晚期拉丁 unificare，历史为一加使成为的材料。现代 unify 把 y 改 i，再加完整 -ed；词尾仍读 /faɪd/。",
+    "history": [
+      [
+        "晚期拉丁 unificare → 法语 unifier → unify",
+        "使合成一个整体"
+      ],
+      [
+        "unify 的 y 改 i + -ed → unified",
+        "已经整合；具有共同体系的"
+      ]
+    ],
+    "explanation": "a unified system 统一系统；a unified approach 统一做法；unified the rules 统一了规则。",
+    "usage": "a unified team 团结一致的团队；unified into one group 合成一组。",
+    "contrast": "unified 强调成为一个协调的整体，不要求里面每个人、每部分毫无差别。规则可以统一，承担的任务仍不同。",
+    "examples": [
+      [
+        "The school introduced a unified timetable.",
+        "学校采用了统一课表。"
+      ],
+      [
+        "The shared project unified the two groups.",
+        "共同项目把两个小组凝聚到了一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unified#English",
+      "https://en.wiktionary.org/wiki/unify#English"
+    ]
+  },
+  {
+    "word": "advancing",
+    "ipa": "英 /ədˈvɑːnsɪŋ/；美 /ədˈvænsɪŋ/",
+    "meaning": "前进、推进、进步〔现在分词、动名词〕",
+    "sense": "从原来的位置、阶段往前走，是 advancing。可以是人往前移动，也可以是知识、工作进展到下一步。",
+    "split": "advance 经法语 avancier 接晚期拉丁 ab ante 前方及重构的 *abanteare；英语后来类推 ad- 加入 d。现代 advance 去 e 加完整 -ing，/s/ 保留。",
+    "history": [
+      [
+        "晚期拉丁前方材料 → 法语 avancier → advance",
+        "向前、推进；英语后来插入 d"
+      ],
+      [
+        "advance 去 e + -ing → advancing",
+        "正在前进、推进或进步"
+      ]
+    ],
+    "explanation": "advancing slowly 缓慢前进；advancing knowledge 推动知识进步；advancing towards… 朝……推进。",
+    "usage": "advancing the discussion 推进讨论；advancing years 渐长的年龄、年岁。",
+    "contrast": "advancing 不只说地面移动。advancing an idea 也能说提出、推动一个观点，advancing years 则说年龄增长。",
+    "examples": [
+      [
+        "The group was advancing slowly along the path.",
+        "一行人正沿小路缓慢前进。"
+      ],
+      [
+        "The new tools are advancing our understanding of the painting.",
+        "新工具正在加深我们对这幅画的了解。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advancing#English",
+      "https://en.wiktionary.org/wiki/advance#English"
+    ]
+  },
+  {
+    "word": "booking",
+    "ipa": "/ˈbʊkɪŋ/",
+    "meaning": "预订、预约、预订事项；登记〔动名词、现在分词、名词〕",
+    "sense": "先把你的名字和时间写进安排里，让位置留给你，就是 booking。现代不用纸本账簿，也保留这套登记画面。",
+    "split": "book 继承古英语 boc 书、书面记录，登记动词由记录用法发展为预订。现代直接加完整 -ing，动词过程又能成为一项预订的可数名词。",
+    "history": [
+      [
+        "古英语书、记录材料 → book 动词",
+        "写入记录 → 登记、预订"
+      ],
+      [
+        "book + -ing → booking",
+        "预订过程；一项已经作出的预订"
+      ]
+    ],
+    "explanation": "make a booking 预订；a hotel booking 酒店预订；booking tickets 订票。",
+    "usage": "confirm the booking 确认预订；booking in advance 提前预订。",
+    "contrast": "booking 不等于 reading a book。book 作动词有登记、预订义；a booking 又能数一项具体预约。",
+    "examples": [
+      [
+        "She checked the dates before booking the room.",
+        "订房前她核对了日期。"
+      ],
+      [
+        "We received a message confirming the booking.",
+        "我们收到了一条确认预订的消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/booking#English",
+      "https://en.wiktionary.org/wiki/book#English"
+    ]
+  },
+  {
+    "word": "accessed",
+    "ipa": "/ˈæksest/",
+    "meaning": "访问了、获取了、进入了〔过去式、过去分词〕",
+    "sense": "原来有一道通路或入口，现在通过它拿到文件、信息或系统内容，是 accessed。重点是取得接触、使用的机会。",
+    "split": "access 接拉丁 accessus 走近、通路，连 ad- + cedere，可能经法语或直接借入；英语访问动词由名词发展。现代直接加完整 -ed，/s/ 后读 /t/。",
+    "history": [
+      [
+        "拉丁 accedere、accessus → 名词 access → 动词",
+        "走近、通路 → 访问、获取"
+      ],
+      [
+        "access + -ed → accessed",
+        "已经访问、读取或进入"
+      ]
+    ],
+    "explanation": "accessed the file 访问、读取了文件；accessed online 在线获取；accessed through… 通过……进入。",
+    "usage": "accessed the archive 查阅了档案；easily accessed 容易访问、到达的。",
+    "contrast": "accessed 不自动等于修改了内容。打开、读取或接触到，都可能这样说；是否改动要另看动词。",
+    "examples": [
+      [
+        "She accessed the archive through the library website.",
+        "她通过图书馆网站查阅了档案。"
+      ],
+      [
+        "The file was accessed from two different computers.",
+        "这个文件曾从两台不同电脑访问过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accessed#English",
+      "https://en.wiktionary.org/wiki/access#English"
+    ]
+  },
+  {
+    "word": "aiming",
+    "ipa": "/ˈeɪmɪŋ/",
+    "meaning": "瞄准、对准；打算、力求〔现在分词、动名词〕",
+    "sense": "先认准一个目标，再让动作朝它去，是 aiming。目标可以是镜头里的物体，也可以是希望达到的效果。",
+    "split": "aim 经法语 aesmer、esmer 等估量材料接拉丁 aestimare 判断、估价；从估算筹划走向对准目标。现代直接加完整 -ing。",
+    "history": [
+      [
+        "拉丁 aestimare → 法语估量词 → aim",
+        "估量、筹划 → 指向目标"
+      ],
+      [
+        "aim + -ing → aiming",
+        "正在对准；正力求达到"
+      ]
+    ],
+    "explanation": "aiming for a result 力求某种结果；aiming to improve 力求改进；aiming the camera 对准相机。",
+    "usage": "aiming at beginners 面向初学者〔设计目标〕；aiming for clarity 力求清楚。",
+    "contrast": "aiming to do something 是以做到某事为目标，不是已经做到。aiming at a group 也可能是在说内容面向谁，不能全译成瞄准物体。",
+    "examples": [
+      [
+        "We are aiming to finish the guide this week.",
+        "我们争取这周写完指南。"
+      ],
+      [
+        "She was aiming the camera at the doorway.",
+        "她正把相机对准门口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aiming#English",
+      "https://en.wiktionary.org/wiki/aim#English"
+    ]
+  },
+  {
+    "word": "behaviors",
+    "ipa": "英 /bɪˈheɪvjəz/；美 /bɪˈheɪvjərz/",
+    "meaning": "具体行为、行为模式〔复数，常用美式拼写〕",
+    "sense": "泛说一个人怎样行事，behavior 常不数；把反复出现的动作、反应或模式分别拿出来，就能说 behaviors。",
+    "split": "behavior 属 behave 词族，历史结尾受中古英语 havour 影响；不是行为者后缀 -or。现代复数加 -s，尾 /z/，与 behaviours 是拼写对应。",
+    "history": [
+      [
+        "behave 及 havour 的历史影响 → behavior",
+        "行事 → 行为名词"
+      ],
+      [
+        "behavior + -s → behaviors",
+        "可分辨的具体行为或模式"
+      ]
+    ],
+    "explanation": "animal behaviors 动物行为模式；learned behaviors 学得的行为模式；different behaviors 不同行为表现。",
+    "usage": "observe behaviors 观察具体行为；repeated behaviors 反复出现的行为。",
+    "contrast": "复数 behaviors 适合数种类、模式，不表示所有泛说行为的地方都要加 s。good behavior 常是总体表现。",
+    "examples": [
+      [
+        "The students recorded several bird behaviors.",
+        "学生们记录了几种鸟类行为。"
+      ],
+      [
+        "The game responds to different player behaviors.",
+        "游戏会对玩家的不同行为作出反应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/behaviors#English",
+      "https://en.wiktionary.org/wiki/behavior#English"
+    ]
+  },
+  {
+    "word": "behaviours",
+    "ipa": "英 /bɪˈheɪvjəz/；美 /bɪˈheɪvjərz/",
+    "meaning": "具体行为、行为模式〔复数，常用英式拼写〕",
+    "sense": "behaviours 与 behaviors 都把行为分成一项项可观察的模式。多一个 u 保留英式拼写传统，意思并没有增加。",
+    "split": "behaviour 接 behave 词族与 havour 结尾影响的历史构成。现代整个名词加 -s，尾 /z/；与美式常用 behaviors 对应。",
+    "history": [
+      [
+        "behave 相关词与 havour 影响 → behaviour",
+        "行事 → 行为名词"
+      ],
+      [
+        "behaviour + -s → behaviours",
+        "多种行为模式；保留 ou 的拼写"
+      ]
+    ],
+    "explanation": "social behaviours 社交行为模式；feeding behaviours 进食行为模式；observed behaviours 观察到的行为。",
+    "usage": "different behaviours 不同行为表现；behaviours of animals 动物的行为模式。",
+    "contrast": "behaviours 用复数是因为这里把模式分别讨论。泛说整个表现时常用不可数 behaviour，例如 polite behaviour 有礼貌的行为。",
+    "examples": [
+      [
+        "The class compared the feeding behaviours of two birds.",
+        "全班比较了两种鸟的进食行为。"
+      ],
+      [
+        "The notes describe several behaviours observed during play.",
+        "笔记描述了玩耍时观察到的几种行为。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/behaviours#English",
+      "https://en.wiktionary.org/wiki/behaviour#English"
+    ]
+  },
+  {
+    "word": "conditioning",
+    "ipa": "/kənˈdɪʃənɪŋ/",
+    "meaning": "使形成某种状态、训练适应；调理、状态处理〔现在分词、动名词〕",
+    "sense": "反复施加某种条件，让身体、反应或材料变成需要的状态，是 conditioning。air conditioning 则是把室内空气调到合适状态。",
+    "split": "condition 经法语接拉丁 condicio 条件、约定，与 condicere 共同说定有关；英语发展使处于某状态的动词。现代直接加完整 -ing，词干 condition 保留。",
+    "history": [
+      [
+        "拉丁 condicio → 法语、英语 condition → 动词",
+        "条件、状态 → 使形成某种状态"
+      ],
+      [
+        "condition + -ing → conditioning",
+        "调节状态、训练适应的过程"
+      ]
+    ],
+    "explanation": "air conditioning 空调、空气调节；physical conditioning 体能训练；conditioning the material 调整材料状态。",
+    "usage": "conditioning exercises 体能训练；conditioning through repetition 通过重复形成某种反应。",
+    "contrast": "conditioning 的具体意思随对象变。讨论空气、头发、身体或习惯时，都是使它形成某种状态，实际过程不相同。",
+    "examples": [
+      [
+        "The room has quiet air conditioning.",
+        "房间里的空调运转得很安静。"
+      ],
+      [
+        "The dancers include physical conditioning in their practice.",
+        "舞者们把体能训练纳入日常练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conditioning#English",
+      "https://en.wiktionary.org/wiki/condition#English"
+    ]
+  },
+  {
+    "word": "counseling",
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "meaning": "咨询、辅导、提供建议〔动名词、现在分词，常用美式拼写〕",
+    "sense": "认真听一个人遇到的问题，帮助他理清想法、找到下一步，是 counseling 的常用感觉。也能泛说给建议，不只是随口一句命令。",
+    "split": "counsel 名词经法语 conseil 接拉丁 consilium 意见、商议；动词有相关法语、拉丁路线。现代常用美式直接加完整 -ing，写 counseling；与 counselling 对应。",
+    "history": [
+      [
+        "拉丁商议、意见材料 → 法语、英语 counsel",
+        "给意见、商议 → 咨询、辅导"
+      ],
+      [
+        "counsel + -ing → counseling",
+        "单 l 的常用美式过程形式"
+      ]
+    ],
+    "explanation": "career counseling 职业咨询；student counseling 学生辅导；counseling someone about choices 帮人讨论选择。",
+    "usage": "a counseling session 一次咨询；counseling services 咨询辅导服务。",
+    "contrast": "counseling 常强调提供帮助、梳理问题的过程。是否是专业服务、具体做哪类辅导，要从搭配判断。",
+    "examples": [
+      [
+        "The school offers career counseling for older students.",
+        "学校为高年级学生提供职业咨询。"
+      ],
+      [
+        "She spent the afternoon counseling volunteers about their options.",
+        "她下午为志愿者提供建议，帮助他们梳理选择。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counseling#English",
+      "https://en.wiktionary.org/wiki/counsel#English"
+    ]
+  },
+  {
+    "word": "counselling",
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "meaning": "咨询、辅导、提供建议〔动名词、现在分词，常用英式拼写〕",
+    "sense": "counselling 与 counseling 都说帮助人梳理问题、提供建议的过程。双写 l 是拼写对应，不多一层咨询含义。",
+    "split": "counsel 接法语、拉丁意见、商议词族。常用英式在加完整 -ing 前双写末尾 l，写 counselling，与常用美式 counseling 对应，读音相同。",
+    "history": [
+      [
+        "法语、拉丁商议材料 → counsel",
+        "意见、建议 → 咨询、辅导动作"
+      ],
+      [
+        "counsel 双写 l + -ing → counselling",
+        "双 l 的常用英式过程形式"
+      ]
+    ],
+    "explanation": "career counselling 职业咨询；student counselling 学生辅导；counselling services 咨询辅导服务。",
+    "usage": "a counselling session 一次咨询；counselling about future plans 关于未来计划的咨询。",
+    "contrast": "counsel、counselling 是建议、辅导词族；council 是委员会，尽管读音接近，现代词义和构词不能混用。",
+    "examples": [
+      [
+        "The centre provides career counselling for young adults.",
+        "中心为年轻成年人提供职业咨询。"
+      ],
+      [
+        "The leaflet explains how to arrange a counselling session.",
+        "小册子说明了怎样预约一次咨询。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counselling#English",
+      "https://en.wiktionary.org/wiki/counsel#English"
+    ]
+  },
+  {
+    "word": "crews",
+    "ipa": "/kruːz/",
+    "meaning": "船员团队、机组、工作班组〔复数〕；为……配备人员〔第三人称单数〕",
+    "sense": "一群人一起负责让船、飞机或拍摄工作运作，是 a crew。几支分别工作的团队，就用 crews。",
+    "split": "crew 经古法语 creue，原为 creistre 生长的分词名词化，较早拉丁 crescere；增援人手发展成船员、工作班组。现代加 -s，元音后读 /z/。",
+    "history": [
+      [
+        "拉丁 crescere → 法语 creue → crew",
+        "增长、增援人手 → 工作团队"
+      ],
+      [
+        "crew + -s → crews",
+        "多支机组、船员团队、工作班组"
+      ]
+    ],
+    "explanation": "film crews 摄制组；rescue crews 救援队；flight crews 机组人员团队。",
+    "usage": "two crews 两个班组；crews working together 共同工作的班组。",
+    "contrast": "crews 常在数不同团队，不只是把同一队里的几个人分别数。几名成员可以说 crew members。",
+    "examples": [
+      [
+        "Two film crews worked in different parts of the town.",
+        "两个摄制组在镇上的不同地方工作。"
+      ],
+      [
+        "The boat crews practised together on the lake.",
+        "几支船队在湖上一起练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crews#English",
+      "https://en.wiktionary.org/wiki/crew#English"
+    ]
+  },
+  {
+    "word": "dangers",
+    "ipa": "英 /ˈdeɪndʒəz/；美 /ˈdeɪndʒərz/",
+    "meaning": "危险、危害、可能造成损害的事物〔复数〕",
+    "sense": "某件事可能使人受伤、东西受损，或结果变坏，这些危险因素是 dangers。可以分别指出是哪几种风险。",
+    "split": "danger 经古法语 dangier 等接主人、支配权材料，较早联系拉丁 dominus；中间 *dominarium 是重构。受他人伤害能力支配的处境走向危险。现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "拉丁主人材料 → 重构阶段、古法语 dangier → danger",
+        "支配权、受制处境 → 危险"
+      ],
+      [
+        "danger + -s → dangers",
+        "不同危险因素、可能的危害"
+      ]
+    ],
+    "explanation": "hidden dangers 隐藏危险；dangers of doing… 做……的危险；dangers facing someone 某人面临的危险。",
+    "usage": "possible dangers 可能的危险；aware of the dangers 知道这些危险。",
+    "contrast": "dangers 常把危险按来源、种类分别说；be in danger 泛说身处危险时通常不加 s。",
+    "examples": [
+      [
+        "The story shows the dangers facing the travellers.",
+        "故事展现了旅人们面临的种种危险。"
+      ],
+      [
+        "The guide points out hidden dangers on the old path.",
+        "指南指出了旧小路上的隐患。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dangers#English",
+      "https://en.wiktionary.org/wiki/danger#English"
+    ]
+  },
+  {
+    "word": "doubles",
+    "ipa": "/ˈdʌbəlz/",
+    "meaning": "加倍、兼任〔第三人称单数〕；双打、替身、双份等〔名词〕",
+    "sense": "数量变成两份那么多，是 doubles；一件东西同时担任两个用途，也能 doubles as。比赛的 doubles 则是每边由两人搭档的双打。",
+    "split": "double 经法语接拉丁 duplus 两倍的，动词另经 duplare、dobler；英语名词有双份、替身等发展。现代加 -s，/l/ 后读 /z/，双打是固定名词用法。",
+    "history": [
+      [
+        "拉丁二倍材料 → 法语、英语 double 的相关支",
+        "两倍、成双 → 加倍、双份、替身"
+      ],
+      [
+        "double + -s → doubles；运动专门用法",
+        "某物加倍、兼任；双打比赛"
+      ]
+    ],
+    "explanation": "doubles in size 大小变成两倍；doubles as a desk 兼作书桌；play doubles 打双打。",
+    "usage": "stunt doubles 特技替身；mixed doubles 混合双打。",
+    "contrast": "doubles as 是一个东西顶两种用途。体育里 doubles 表比赛形式，不只是泛说几个两倍数量。",
+    "examples": [
+      [
+        "The small table doubles as a desk.",
+        "小桌子兼作书桌。"
+      ],
+      [
+        "They play doubles at the tennis club.",
+        "他们在网球俱乐部打双打。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/doubles#English",
+      "https://en.wiktionary.org/wiki/double#English"
+    ]
+  },
+  {
+    "word": "hawks",
+    "ipa": "英 /hɔːks/；美 /hɔːks/〔部分口音 /hɑːks/〕",
+    "meaning": "鹰、鹰派人物〔复数〕；沿街叫卖〔第三人称单数〕",
+    "sense": "hawks 可以是猛禽，也能借猛禽形象说主张强硬行动的人。动词 hawks 却能表示沿街叫卖，这支有另一来源。",
+    "split": "鸟名 hawk 继承古英语 hafoc；鹰派义为鸟形象比喻。叫卖动词由 hawker 回构，接低地德语贩售材料；现代两支都加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "古英语 hafoc → hawk 鸟名 → 强硬人物比喻",
+        "鹰 → 鹰派"
+      ],
+      [
+        "另源叫卖动词 hawk；各加 -s → hawks",
+        "多只鹰、强硬人物；某人沿街贩售"
+      ]
+    ],
+    "explanation": "hawks circling above 在上空盘旋的鹰；hawks and doves 鹰派与鸽派；hawks goods 叫卖货物。",
+    "usage": "watch the hawks 观察鹰；hawks postcards 叫卖明信片。",
+    "contrast": "hawks goods 不表示鹰在卖东西。动词贩售与鸟名同形，历史支路和句子里的词性都要分清。",
+    "examples": [
+      [
+        "We watched hawks circling above the field.",
+        "我们看着鹰在田野上空盘旋。"
+      ],
+      [
+        "A character in the novel hawks postcards near the station.",
+        "小说中的一个角色在车站附近叫卖明信片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hawks#English",
+      "https://en.wiktionary.org/wiki/hawk#English"
+    ]
+  },
+  {
+    "word": "plains",
+    "ipa": "/pleɪnz/",
+    "meaning": "平原、大片平坦土地〔复数〕",
+    "sense": "视野向外铺开，地势起伏很小的一大片土地，是 plains。抓住平坦、铺展的地形，和简单朴素的形容词义分开看词性。",
+    "split": "平原名词 plain 经法语接拉丁 planum 平地，与 planus 平坦同族。现代名词加 -s，/n/ 后读 /z/；不是给形容词 plain 加复数。",
+    "history": [
+      [
+        "拉丁 planum、planus → 法语、英语 plain",
+        "平地、平坦 → 平原名词"
+      ],
+      [
+        "plain + -s → plains",
+        "多处或连片的平原"
+      ]
+    ],
+    "explanation": "open plains 开阔平原；grassy plains 草原、覆草平原；across the plains 横穿平原。",
+    "usage": "wide plains 广阔平原；plains near the river 河流附近的平原。",
+    "contrast": "plains 说地形，不保证全无树木、全部种草或完全无人。平坦是核心，具体覆盖物要另看修饰语。",
+    "examples": [
+      [
+        "The train crossed wide grassy plains.",
+        "火车穿过广阔的覆草平原。"
+      ],
+      [
+        "The map shows hills to the north and plains to the south.",
+        "地图显示北部是丘陵，南部是平原。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plains#English",
+      "https://en.wiktionary.org/wiki/plain#English"
+    ]
+  },
+  {
+    "word": "raids",
+    "ipa": "/reɪdz/",
+    "meaning": "突袭、突然搜查；突然翻找取用〔复数、第三人称单数〕",
+    "sense": "不是按平常节奏来，而是突然冲进某处行动，是 raids。口语也会把猛地打开柜子找东西吃比作突袭。",
+    "split": "raid 接苏格兰、英格兰北部 raid、rade 骑行出征材料，较早古英语 rad，与 road 同族。现代名词或动词加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 rad → 北部、苏格兰 raid → 现代 raid",
+        "骑行、出征 → 突袭、突然搜查"
+      ],
+      [
+        "raid + -s → raids",
+        "多次突袭；某人突然搜取、翻找"
+      ]
+    ],
+    "explanation": "raids in the story 故事里的突袭；raids the fridge 突然翻冰箱找吃的〔口语〕。",
+    "usage": "accounts of raids 对突袭的记述；raids the cupboard 翻柜子取东西。",
+    "contrast": "现代 raids 不要求骑马。口语 raids the fridge 是夸张说法，不是真的把日常吃东西说成军事行动。",
+    "examples": [
+      [
+        "The history book describes several raids along the coast.",
+        "历史书描写了沿海的几次突袭。"
+      ],
+      [
+        "He often raids the fridge after rehearsal.",
+        "他排练后常会翻冰箱找吃的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raids#English",
+      "https://en.wiktionary.org/wiki/raid#English"
+    ]
+  },
+  {
+    "word": "accepts",
+    "ipa": "/əkˈsepts/",
+    "meaning": "接受、接纳、认可〔第三人称单数〕",
+    "sense": "东西、建议或事实来到面前，自己让它进入、不再拒绝，就是 accepts。可以收下，也可以在心里承认它成立。",
+    "split": "accept 接拉丁 accipere、acceptare，历史 ad- 朝向 + capere 拿，辅音同化，并有 accept- 分词词干。经法语及拉丁相关形式借入；现代加 -s，尾 /pts/。",
+    "history": [
+      [
+        "拉丁 ad- + capere → accipere、acceptare → accept",
+        "向自己接过来 → 接受、认可"
+      ],
+      [
+        "accept + -s → accepts",
+        "某主体收下、同意接纳或承认"
+      ]
+    ],
+    "explanation": "accepts the offer 接受提议；accepts the facts 承认事实；accepts different views 接纳不同观点。",
+    "usage": "accepts responsibility 承担责任；accepts visitors 接待访客。",
+    "contrast": "accepts 不保证喜欢。accepts that a plan failed 可以是承认失败的事实，心里未必高兴。",
+    "examples": [
+      [
+        "She accepts the invitation with pleasure.",
+        "她欣然接受邀请。"
+      ],
+      [
+        "The museum accepts donations of old photographs.",
+        "博物馆接受旧照片捐赠。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accepts#English",
+      "https://en.wiktionary.org/wiki/accept#English"
+    ]
+  }
+]

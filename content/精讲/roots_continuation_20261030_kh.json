@@ -1,0 +1,91 @@
+[
+  {
+    "id": "B3200",
+    "meaning": "整理、修改文本与素材，形成可发布或可用的版本",
+    "core": "EDIT：把现成内容整理、改成合用的样子",
+    "image": "edit → editable；editor 是历史上先出现的人物名称。",
+    "intro": "现代构词可以帮助记忆，历史顺序则要另说。edit 的直接英语来历是从 editor 逆构，不能只按长短猜先后。",
+    "forms": "拉丁出版相关形式 → editor → 逆构 edit；-able 可编辑；edition、editorial 是同族相关词。\n\n拉丁 editio 的借入早于现代英语 edit，不能倒着画成英语 edit 加 ion。",
+    "branches": [
+      [
+        "编辑动作与可编辑性质",
+        "edit · editable"
+      ],
+      [
+        "人物、版本与编辑相关",
+        "editor · edition · editorial"
+      ],
+      [
+        "edition → editions：拿出来发表的版本",
+        "edition · editions"
+      ]
+    ],
+    "contrasts": "edit 比校对范围广；editable 与 readable 不同；词短不保证历史更早。",
+    "practice": "The editor asked for an editable file so she could edit the introduction.\n\n编辑要了一个可编辑文件，以便修改引言。",
+    "words": [
+      "edit",
+      "editable",
+      "editor",
+      "edition",
+      "editorial",
+      "editions"
+    ],
+    "exclude": {
+      "re-edit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-edit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2602",
+    "meaning": "从侍从、服役者走向骑士身份，再扩到称号、风范与棋子",
+    "core": "KNIGHT：身份的历史变化，比现代字面拆分更重要",
+    "image": "knight → knighthood、knightly。",
+    "intro": "男孩、侍从等旧义并不等于现代骑士。沿身份演变理解，比把今天的 knight 倒推成所有时代都相同更清楚。",
+    "forms": "cniht → knight；-hood 身份，-ly 相关性质、风范；现代 /naɪt/ 与 night 同音。\n\n古英语 cniht 本族传承，现代 k、gh 不读。",
+    "branches": [
+      [
+        "人物、身份与风范",
+        "knight · knighthood · knightly"
+      ],
+      [
+        "knight → knights：旧侍从名发展为骑士",
+        "knight · knights"
+      ]
+    ],
+    "contrasts": "knighthood 不是帽兜；knightly 常作形容词；knight 还有国际象棋棋子义。",
+    "practice": "The tale describes a knight whose courtesy reflects the ideals of knighthood.\n\n故事描写一位骑士，他的礼貌体现了理想的骑士风范。",
+    "words": [
+      "knight",
+      "knighthood",
+      "knightly",
+      "knights"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3146",
+    "meaning": "把对象视为值得敬重，发展为敬拜与强烈仰慕",
+    "core": "WORSHIP：旧起点是尊荣、敬重",
+    "image": "worship → worshipful、worshipper；人物名词也拼 worshiper。",
+    "intro": "worth + 旧 -ship 的历史解释能帮助理解尊称和敬仰。现代 worship 则既有宗教用法，也有对人、事物过度仰慕的比喻。",
+    "forms": "weorðscipe → worship；-ful 性质、态度，-er 人物。",
+    "branches": [
+      [
+        "敬拜动作与人物",
+        "worship · worshipper"
+      ],
+      [
+        "敬仰态度与固定尊称",
+        "worshipful"
+      ]
+    ],
+    "contrasts": "worshipful 的固定尊称保存可敬旧义；worshipper 不只一种宗教的专属称呼。",
+    "practice": "The singer’s worshippers greeted her with worshipful smiles.\n\n歌手的崇拜者带着仰慕的笑容迎接她。",
+    "words": [
+      "worship",
+      "worshipper",
+      "worshipful"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "B3587",
+    "meaning": "朝前逼近，及行为的方式、强度",
+    "core": "AGGRESSIVE：向前压过去的劲头",
+    "image": "aggressive 性质 → aggressively 做法 → aggressiveness 性质和程度。",
+    "intro": "不把这个词族只背成坏脾气，也不一律美化成积极。看它说的是攻击别人、争市场，还是推进某项工作。",
+    "forms": "ad- 朝向 + gradī 走 → aggredī/aggressus；aggressive 接 -ly、-ness。",
+    "branches": [
+      [
+        "性质、方式与程度",
+        "aggressive · aggressively · aggressiveness"
+      ]
+    ],
+    "contrasts": "assertive 坚定不必咄咄逼人；商业语境的 aggressive 可能侧重强力投入，仍要看具体评价。",
+    "practice": "An aggressive strategy can be carried out without speaking aggressively to colleagues.\n\n推进力度大的策略，也可以在不对同事咄咄逼人的情况下执行。",
+    "words": [
+      "aggressive",
+      "aggressively",
+      "aggressiveness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3813",
+    "meaning": "brother 截短后的兄弟、哥们称呼",
+    "core": "BRO：把 brother 叫短，关系未必真有血缘",
+    "image": "brother → bro，先理解关系，再看语气和圈子标签。",
+    "intro": "截短不总是把原读音剪一刀。bro 的元音按这个短拼写形成，词义也从血缘关系扩到朋友、称呼和特定群体印象。",
+    "forms": "brother → bro，英 /brəʊ/、美 /broʊ/。\n\nbro 缩略 brother，既可说亲兄弟，也可为亲昵的哥们称呼；复数直接加 s → bros，词尾 /z/，不照搬 brother 的完整拼写。",
+    "branches": [
+      [
+        "亲属、伙伴和称呼",
+        "bro"
+      ],
+      [
+        "bro → bros：兄弟称呼的短形式与朋友",
+        "bro · bros"
+      ]
+    ],
+    "contrasts": "brother 的 /ʌ/ 不能直接套到 bro；bro 不是正式场合通用称谓。",
+    "practice": "My bro can mean my brother or a close male friend.\n\nmy bro 可能说亲兄弟，也可能说关系近的男性朋友。",
+    "words": [
+      "bro",
+      "bros"
+    ],
+    "exclude": {
+      "bro-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bro-hug": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cro": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4318",
+    "meaning": "年长者与植物接骨木分两条来源",
+    "core": "ELDER：一个说年长，一个是树名",
+    "image": "old → elder → elderly；植物 elder → elderflower / elderberry。",
+    "intro": "先把同形词分清，后面的解释就顺了。elder sister 是姐姐，elderflower 不是老花，elderberry 也不是老果。",
+    "forms": "eald → eldra → elder；elder + -ly。另源 ellærn 等 → 植物 elder，再接 flower、berry。",
+    "branches": [
+      [
+        "年龄、长辈与身份",
+        "elder · elderly"
+      ],
+      [
+        "另一来源的植物部位",
+        "elderflower · elderberry"
+      ]
+    ],
+    "contrasts": "比较句用 older than；elderly 是形容词；植物 elder 不由年长义引申。",
+    "practice": "My elder sister photographed the elderberry bush.\n\n我姐姐拍下了那丛接骨木。",
+    "words": [
+      "elder",
+      "elderly",
+      "elderflower",
+      "elderberry"
+    ],
+    "exclude": {
+      "fore-elder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3876",
+    "meaning": "猛烈吹出、响起和冲击的词族",
+    "core": "BLAST：一股强力冲出来，再看具体场景",
+    "image": "blast → blasting 过程、进行形式 → blaster 装置或操作者。",
+    "intro": "强风、巨响、爆炸、抨击可以用强烈冲击串联理解；玩得尽兴则单记固定搭配。细胞名里的希腊萌芽是另一来源。",
+    "forms": "blǣst/blǣstan → blast；接 -ing、-er。希腊 blastós → 细胞 blast 另线。",
+    "branches": [
+      [
+        "强烈冲出、动作过程和装置",
+        "blast · blasting · blaster"
+      ]
+    ],
+    "contrasts": "have a blast 不指爆炸；blaster 不总是人；细胞 blast 不从炸裂故事生造词源。",
+    "practice": "The music was blasting, and the guests were having a blast.\n\n音乐轰响，宾客们玩得很尽兴。",
+    "words": [
+      "blast",
+      "blasting",
+      "blaster"
+    ],
+    "exclude": {
+      "fan-blast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4152",
+    "meaning": "拥有关系及把事情接过来负责",
+    "core": "OWNERSHIP：东西归谁，事情由谁接住",
+    "image": "owner → ownership；home + ownership → homeownership。",
+    "intro": "财物归属是基础，工作里的 take ownership 把关系借到责任上。先确认是在说房屋产权，还是主动负责处理问题。",
+    "forms": "owner + -ship；home + ownership。-ship 表关系、状态，与船无关。",
+    "branches": [
+      [
+        "拥有、负责与房屋所有关系",
+        "ownership · homeownership"
+      ]
+    ],
+    "contrasts": "持有、使用不必等于拥有；take ownership of a problem 通常是承担处理责任。",
+    "practice": "She took ownership of the task of updating the homeownership records.\n\n她主动负责更新房屋所有权记录这项工作。",
+    "words": [
+      "ownership",
+      "homeownership"
+    ],
+    "exclude": {
+      "co-ownership": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-ownership": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multi-ownership": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

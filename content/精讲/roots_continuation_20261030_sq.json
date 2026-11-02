@@ -1,0 +1,613 @@
+[
+  {
+    "id": "A2179",
+    "meaning": "某一整类对象的系统研究",
+    "core": "-OMICS：把一整套相关对象作为系统来看",
+    "image": "genomics 关注基因组这一整套遗传信息，不只是单独研究一个基因；-omics 的组学感觉来自这样的整体研究。",
+    "intro": "由 -ome 整类、总集相关名称材料与 -ics 学科形式构成，经国际科学词汇传播；genomics 等又推动它成为可类比的命名后部。",
+    "forms": "genome → genomics；后续科学名称可沿整体对象 + 学科的模式形成。不要把所有相近的 -omics 字母串都当现代组学。",
+    "branches": [
+      [
+        "基因组层面的学科",
+        "genomics"
+      ]
+    ],
+    "contrasts": "economics 的历史来自另一组经济、管理词族；相似末尾不表示每个词都由某个总集 -ome 派生。",
+    "practice": "The course introduces genomics through the study of whole genomes.\n\n课程通过研究完整基因组来介绍基因组学。",
+    "words": [
+      "genome",
+      "genomics"
+    ],
+    "exclude": {
+      "proteomics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2070",
+    "meaning": "状态、关系、财物等拉丁名词材料",
+    "core": "-MONY：固定名词里的拉丁语后部",
+    "image": "matrimony 是婚姻，patrimony 是继承财产、文化遗产等；前部母、父的旧材料进入不同制度、财物名称。",
+    "intro": "来自拉丁 -monium、-monia 等名词形式，随法语、拉丁借词进入英语。具体完整词的历史义并不由一个统一现代后缀全包。",
+    "forms": "mater 母亲相关词干 + -monium → matrimonium → matrimony；pater 父亲相关词干 + -monium → patrimonium → patrimony。",
+    "branches": [
+      [
+        "婚姻关系",
+        "matrimony"
+      ],
+      [
+        "继承财物、传承遗产",
+        "patrimony"
+      ]
+    ],
+    "contrasts": "patrimony 可以扩展到文化遗产；matrimony 的现代婚姻义也不要求先成为母亲。词名材料与现今适用范围分开。",
+    "practice": "The old buildings form part of the city’s cultural patrimony.\n\n这些老建筑构成了城市文化遗产的一部分。",
+    "words": [
+      "matrimony",
+      "patrimony"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2227",
+    "meaning": "呼吸",
+    "core": "-PNEA：先看呼吸，再看前部说暂停还是困难",
+    "image": "apnea 是呼吸暂停，dyspnea 是呼吸困难；一个强调停下来，一个强调呼吸费力、不畅的感受。",
+    "intro": "来自希腊 pnoe 呼吸、pneein 吹、呼吸等词族，相关 -pnoia 形式进入医学名称；英美还可见不同拼写。",
+    "forms": "a- 无 + -pnea → apnea；dys- 困难、失调 + -pnea → dyspnea。英式常见 apnoea、dyspnoea。",
+    "branches": [
+      [
+        "暂停与困难",
+        "apnea · dyspnea"
+      ]
+    ],
+    "contrasts": "呼吸暂停与呼吸困难不是同一词义；前缀改变所描述的呼吸状态，而不只是换一个拼写。",
+    "practice": "The glossary distinguishes apnea from dyspnea.\n\n词汇表区分了呼吸暂停与呼吸困难。",
+    "words": [
+      "apnea",
+      "dyspnea"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2189",
+    "meaning": "核、核酸相关的科学材料",
+    "core": "NUCLEO-：从核的旧名称，进入核酸与相关酶的命名",
+    "image": "DNA、RNA 由核苷酸连接成长链；nuclease 则是能切开核酸链的酶。nucleotide 与 nuclease 分别看组成单位和作用者。",
+    "intro": "联系拉丁 nucleus 小核、核仁等，近代先用于细胞核及其所含物质的命名，再进入核酸、核苷酸和酶的术语。",
+    "forms": "nucleo- + 科学名词后部 → nucleotide；nucleic acid 相关词基 + -ase 酶 → nuclease。",
+    "branches": [
+      [
+        "基础核名称与核酸单位",
+        "nucleus · nucleotide"
+      ],
+      [
+        "核酸相关酶",
+        "nuclease"
+      ]
+    ],
+    "contrasts": "nuclease 是作用于核酸的酶，不是一个小细胞核；nucleotide 也不能直接等同于整个 DNA 分子。",
+    "practice": "The diagram shows a nucleotide as one building block of a nucleic acid.\n\n图示把核苷酸展示为核酸的一种组成单位。",
+    "words": [
+      "nucleus",
+      "nucleotide",
+      "nuclease"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1801",
+    "meaning": "脂肪、脂类",
+    "core": "LIPO-：把蛋白、性质或操作关系限定到脂肪",
+    "image": "lipoprotein 把脂类与蛋白关系连起来；lipophilic 说亲脂，像更愿意待在油脂那一边；liposuction 则是吸脂名称。",
+    "intro": "来自希腊 lipos 脂肪，近代生物、化学、医学借作 lipo-，与不同功能、物质、操作后部组合。",
+    "forms": "lipo- + protein → lipoprotein；lipo- + philic 亲和的 → lipophilic；lipo- + suction 吸 → liposuction。",
+    "branches": [
+      [
+        "物质、相容性质",
+        "lipoprotein · lipophilic"
+      ],
+      [
+        "相关操作名称",
+        "liposuction"
+      ]
+    ],
+    "contrasts": "lipoprotein 不是脂肪与蛋白质的任意食物混合；lipophilic 强调亲脂性，不表示这种物质本身一定就是脂肪。",
+    "practice": "The diagram shows how lipids and proteins form a lipoprotein particle.\n\n图示展示了脂类和蛋白质怎样形成脂蛋白颗粒。",
+    "words": [
+      "lipoprotein",
+      "lipophilic",
+      "liposuction"
+    ],
+    "exclude": {
+      "lipopolysaccharide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2398",
+    "meaning": "坟墓",
+    "core": "-TAPH：从墓的位置，读墓志和空墓纪念物",
+    "image": "epitaph 是墓志、墓碑铭文，旧画面是墓上的文字；cenotaph 则从空墓画面形成纪念物名称。",
+    "intro": "来自希腊 taphos 墓，进入相关希腊复合词，再通过借词传播到英语。前部说明在墓上，还是空的墓。",
+    "forms": "epi- 上 + taph- 墓 → epitaph 相关旧形式；keno- 空 + taph- 墓 → cenotaph 相关旧形式。",
+    "branches": [
+      [
+        "墓上铭文",
+        "epitaph"
+      ],
+      [
+        "空墓、纪念碑",
+        "cenotaph"
+      ]
+    ],
+    "contrasts": "cenotaph 常指遗体不在其中的纪念物；epitaph 重点是文字内容，也可在文学里扩展为总结某段人生的文字。",
+    "practice": "The epitaph on the stone was short and simple.\n\n石头上的墓志简短朴素。",
+    "words": [
+      "epitaph",
+      "cenotaph"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1867",
+    "meaning": "形态、形状",
+    "core": "-MORPH：换了形态，或按形态命名",
+    "image": "metamorphosis 最容易想到毛毛虫经过发育变成蝴蝶；从外形、组织到生活方式，都有明显转变。",
+    "intro": "来自希腊 morphe 形状，在希腊复合、近代学术构词中有 morph- 等形式。metamorphosis 是变化、形态、过程材料构成的借词。",
+    "forms": "meta- 改变 + morph- 形态 + -osis 过程 → 希腊相关形式 → metamorphosis；不是现代英语临时把一个独立 morph 名词加长。",
+    "branches": [
+      [
+        "变态、彻底变化",
+        "metamorphosis"
+      ]
+    ],
+    "contrasts": "生物的变态与普通长大不是同一个术语；文学、城市改造等语境也会借 metamorphosis 说彻底变化。",
+    "practice": "The caterpillar undergoes metamorphosis to become a butterfly.\n\n毛毛虫经过变态发育，成为蝴蝶。",
+    "words": [
+      "metamorphosis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2188",
+    "meaning": "片、切片",
+    "core": "TOMO-：把对象按一层层切片的思路看",
+    "image": "tomography 是断层成像：像一层层切片那样看内部结构，图像的切片不等于真的把身体切开。",
+    "intro": "来自希腊 tomos 片、切开的部分，联系 temnein 切，近代与记录、成像材料结合成科学名称。",
+    "forms": "tomo- 切片 + -graphy 记录、成像 → tomography。现代不同技术实现断层图像，旧切片材料给的是观察思路。",
+    "branches": [
+      [
+        "断层成像",
+        "tomography"
+      ]
+    ],
+    "contrasts": "computed tomography 是计算机断层成像的完整名称；tomo- 的切不直接表示手术切除，-ectomy 才是另一组切除命名。",
+    "practice": "The doctor reviewed the computed tomography images.\n\n医生查看了计算机断层图像。",
+    "words": [
+      "tomography"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1850",
+    "meaning": "细菌",
+    "core": "BACTERIO-：前面限定细菌，后面说研究、人物或作用关系",
+    "image": "bacteriology 是细菌学，bacteriologist 是细菌学研究者；bacteriophage 又是感染细菌的病毒，旧命名用了吃细菌的画面。",
+    "intro": "学术拉丁 bacterium 细菌加连接形式 -o-，更远联系希腊小杆、手杖材料，是早期观察形状的命名线索。",
+    "forms": "bacterio- + -logy → bacteriology → bacteriologist；bacterio- + phage 吃的相关材料 → bacteriophage；相关形容词 bacteriological。",
+    "branches": [
+      [
+        "学科、人物和相关性质",
+        "bacteriology · bacteriologist · bacteriological"
+      ],
+      [
+        "感染细菌的病毒",
+        "bacteriophage"
+      ]
+    ],
+    "contrasts": "细菌不都长成小杆，早期命名只抓一个观察角度；噬菌体的吃也不是长嘴咀嚼，而是感染细菌的生物关系。",
+    "practice": "The bacteriologist studied how the bacteriophage infects bacteria.\n\n细菌学研究者研究了噬菌体如何感染细菌。",
+    "words": [
+      "bacterium",
+      "bacteria",
+      "bacteriology",
+      "bacteriologist",
+      "bacteriological",
+      "bacteriophage"
+    ],
+    "exclude": {
+      "phage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1896",
+    "meaning": "变化、状态相关的形容词材料",
+    "core": "-ESCENT：旧有变化语感，现代不少词描述发光、色彩性质",
+    "image": "iridescent 像彩虹般变换色泽，luminescent 说发光性质，phosphorescent 则有磷光、余辉相关意义。",
+    "intro": "接拉丁 -escens 成为、变化动词的现在分词材料，近代科学命名继续使用；具体名词、形容词、动词先后各自不同。",
+    "forms": "彩虹相关 irid- + -escent → iridescent；luminescent、phosphorescent 又与相应科学发光名词对应，不必一律画成先有英语动词。",
+    "branches": [
+      [
+        "彩虹般色泽",
+        "iridescent"
+      ],
+      [
+        "发光性质",
+        "luminescent · phosphorescent · fluorescent"
+      ]
+    ],
+    "contrasts": "词尾的旧变化材料不表示每个对象都在不停变大、变亮；现代形容词可以只描述稳定存在的发光、色彩性质。",
+    "practice": "The shell had an iridescent surface.\n\n贝壳表面泛着虹彩。",
+    "words": [
+      "iridescent",
+      "luminescent",
+      "phosphorescent",
+      "fluorescent"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2226",
+    "meaning": "族群、演化谱系",
+    "core": "PHYLO-：把生物关系看成一条条分出的谱系",
+    "image": "phylogeny 说演化历史、亲缘关系，phylogenetic 描述与这些关系有关的树、分析等。像看家谱，但范围是生物演化。",
+    "intro": "来自希腊 phylon 族、类群等，近代生物学用于谱系名称。-geny 形成起源、发生相关名词，形容词另有对应形式。",
+    "forms": "phylo- + -geny → phylogeny；相应学术形容词 phylogenetic。",
+    "branches": [
+      [
+        "谱系关系与相关分析",
+        "phylogeny · phylogenetic"
+      ]
+    ],
+    "contrasts": "phylogenetic tree 是演化关系模型，不只是把外形相似的生物随便排到一起；具体关系依研究证据建立。",
+    "practice": "The phylogenetic tree illustrates the group’s evolutionary history.\n\n这棵系统发育树展示了该类群的演化历史。",
+    "words": [
+      "phylogeny",
+      "phylogenetic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2371",
+    "meaning": "隐藏、保密的希腊语材料",
+    "core": "-CRYPT：把信息变成需按规则才能读出的形式",
+    "image": "encrypt 是加密，decrypt 是解密；一个把可直接读的信息变成密文，一个按相应方式恢复可读内容。",
+    "intro": "来自希腊 kryptos 隐藏的，经现代密码学构词中的 crypt- 等词干沿用。前缀给出进入加密状态或逆向解密关系。",
+    "forms": "en- + crypt- → encrypt → encryption；de- + crypt- → decrypt → decryption。",
+    "branches": [
+      [
+        "动作与过程名词",
+        "encrypt · encryption · decrypt · decryption"
+      ]
+    ],
+    "contrasts": "编码、压缩与加密各有目的；加密突出限制未经授权的读取，不能把所有看不懂的文件都当密文。",
+    "practice": "The software can encrypt and decrypt the file.\n\n这个软件可以加密和解密该文件。",
+    "words": [
+      "encrypt",
+      "encryption",
+      "decrypt",
+      "decryption"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1838",
+    "meaning": "可移动的；仿 automobile 的载具后部",
+    "core": "-MOBILE：从能移动，到某类机动车名称",
+    "image": "mobile 是可移动，automobile 是汽车，snowmobile 是雪地机动车；后两者已经形成具体载具名称。",
+    "intro": "接拉丁 mobilis 可移动的；automobile 的现代命名又让 -mobile 被抽出来，类比形成其他载具名。",
+    "forms": "auto- 自身 + mobile 可移动 → automobile；snow + 从 automobile 抽出的 -mobile → snowmobile。",
+    "branches": [
+      [
+        "基础性质及汽车",
+        "mobile · automobile"
+      ],
+      [
+        "雪地载具",
+        "snowmobile"
+      ]
+    ],
+    "contrasts": "snowmobile 不是所有能在雪里移动的东西，也不是一部可移动雪堆；现代载具类别已经固定。",
+    "practice": "The ranger travelled across the snow on a snowmobile.\n\n巡护员乘雪地机动车穿过雪地。",
+    "words": [
+      "mobile",
+      "automobile",
+      "snowmobile"
+    ],
+    "exclude": {
+      "bull-mobile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "batmobile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2072",
+    "meaning": "口语缩词、复数等不同形成路线",
+    "core": "-IES：相同末尾，可来自缩短、儿语式结尾或年代类比",
+    "image": "undies 把内衣长词说短，boonies 把偏远地区叫法说短，noughties 却按其他年代名类比；不能全当普通名词变复数。",
+    "intro": "现代英语中 -ie、-y 的口语构词与复数 -s、-ies 拼写相互作用，形成固定词。不同词在各自背景中形成。",
+    "forms": "underwear → und- + -ies → undies；boondocks → boon- + -ies → boonies；nought + 年代 -ies 模式 → noughties。",
+    "branches": [
+      [
+        "衣物、地区口语缩词",
+        "undies · boonies"
+      ],
+      [
+        "年代名称",
+        "noughties"
+      ]
+    ],
+    "contrasts": "这些词常直接用复数形式，不必为了理解一个地点或一个年代就去掉 s 造一个日常单数。",
+    "practice": "In the noughties, they lived out in the boonies.\n\n零零年代时，他们住在很偏的乡间。",
+    "words": [
+      "undies",
+      "boonies",
+      "noughties"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1727",
+    "meaning": "八",
+    "core": "OCTA-：希腊语的八，进入形状、动物名称",
+    "image": "octagon 是八边形；octopus 的旧命名材料是八、足，今天是章鱼的动物名称。相同数量关系有不同词形。",
+    "intro": "来自希腊 okta-、okto 八；接边角、足等材料，形成几何、动物名。进入英语时还经过拉丁化等途径。",
+    "forms": "octa- 八 + -gon 角 → octagon；octo- 八 + -pus 足 → octopus。",
+    "branches": [
+      [
+        "几何形状",
+        "octagon"
+      ],
+      [
+        "固定动物名称",
+        "octopus"
+      ]
+    ],
+    "contrasts": "octagon 说八边形，是否各边相等还要看 regular 等限定；octopus 的足是旧命名，现代动物学常说它的腕。",
+    "practice": "The sign has the shape of an octagon.\n\n那个标志是八边形。",
+    "words": [
+      "octagon",
+      "octopus"
+    ],
+    "exclude": {
+      "octahedral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2020",
+    "meaning": "母亲",
+    "core": "MATRI-：从母亲关系看亲属线索和旧制度名称",
+    "image": "matrilineal 按母系关系追踪；matriarchy 说母权等社会组织概念；matrimony 则是从母亲材料发展出的婚姻名称。",
+    "intro": "来自拉丁 mater 母亲、词干 matr-，进入不同复合、派生。现代英文 matri- 常与 patri- 父亲材料对照。",
+    "forms": "matri- + lineal → matrilineal；matri- + archy → matriarchy → matriarch；拉丁婚姻名 matrimonium → matrimony。",
+    "branches": [
+      [
+        "母系与组织、人物",
+        "matrilineal · matriarchy · matriarch"
+      ],
+      [
+        "婚姻旧名称",
+        "matrimony"
+      ]
+    ],
+    "contrasts": "matrilineal 说亲属、传承线索，不自动等于女性统治的 matriarchy；matrimony 的现代婚姻义也不只适用于已经生育的人。",
+    "practice": "The book describes a matrilineal system of inheritance.\n\n这本书描述了母系继承体系。",
+    "words": [
+      "matrilineal",
+      "matriarchy",
+      "matriarch",
+      "matrimony"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1861",
+    "meaning": "尿",
+    "core": "URO-：从尿的名称，进入泌尿系统学科",
+    "image": "urology 是泌尿科、泌尿学，urologist 是相关专科医生。研究和照护的是尿路、相关器官，不只一杯尿样。",
+    "intro": "来自希腊 ouron 尿，经学术拉丁、国际医学词汇采用 uro-。独立英语 urine 则经拉丁、法语等路线而来，作为意义对照。",
+    "forms": "uro- + -logy → urology；对应人物 urologist。基础尿名 urine 不应简单画成英语 uro- 新加某个常用词尾。",
+    "branches": [
+      [
+        "基础对象、学科与人物",
+        "urine · urology · urologist"
+      ]
+    ],
+    "contrasts": "urologist 是专科医生名称，urology 是学科、科室；不要把人物词与尿液物质名互换。",
+    "practice": "The urologist works in the hospital’s urology department.\n\n这位泌尿科医生在医院泌尿科工作。",
+    "words": [
+      "urine",
+      "urology",
+      "urologist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1956",
+    "meaning": "记录、书写、拍摄或相关研究者",
+    "core": "-GRAPHER：同是记录材料，具体工作由前部决定",
+    "image": "photographer 侧重摄影，videographer 侧重视频，ethnographer 做民族志记录研究；并不都只拿笔写字。",
+    "intro": "联系希腊 graphein 书写、刻画、描绘等，经借词和近代构词形成 -grapher 人物形式；与 -graphy 活动、学科名相对应。",
+    "forms": "photography → photographer；videography → videographer；ethnography → ethnographer；geography → geographer。各对应的历史形成路径分开看。\n\nphotographer 是摄影者；-er 构成人名，-grapher 可整体识别为记录、写录者的组合尾。不要把照片名 photograph 的第一音节重音照搬到 photographer。",
+    "branches": [
+      [
+        "拍摄、制作角色",
+        "photographer · videographer · pornographer"
+      ],
+      [
+        "地理、群体研究人物",
+        "geographer · ethnographer"
+      ],
+      [
+        "photograph → photographer → photographers",
+        "photographers"
+      ]
+    ],
+    "contrasts": "geographer 是地理研究者，不只地图绘图员；pornographer 是色情内容制作等人物称呼，具体角色不能只由记录两个字概括。",
+    "practice": "The photographer and videographer worked together at the event.\n\n摄影师和摄像师在活动现场共同工作。",
+    "words": [
+      "photographer",
+      "videographer",
+      "pornographer",
+      "geographer",
+      "ethnographer",
+      "photographers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2191",
+    "meaning": "肿块、肿瘤",
+    "core": "ONCO-：把学科、人物、基因和作用关系接到肿瘤主题上",
+    "image": "oncology 是肿瘤学，oncologist 是肿瘤科医生；oncogene、oncogenic 则关注促肿瘤的基因、性质。",
+    "intro": "来自希腊 onkos 肿块、体积等材料，近代医学采用 onco-。后部提供学科、人物、基因及相关作用的区别。",
+    "forms": "onco- + -logy → oncology → oncologist；onco- + gene → oncogene；相应性质形容词 oncogenic。",
+    "branches": [
+      [
+        "学科、医生",
+        "oncology · oncologist"
+      ],
+      [
+        "基因及性质",
+        "oncogene · oncogenic"
+      ]
+    ],
+    "contrasts": "oncogene 里的 gene 是现代基因名；oncogenic 是相关致瘤性质，不是肿瘤科医生的普通人物名。",
+    "practice": "The oncologist explained the research on oncogenes.\n\n肿瘤科医生解释了有关癌基因的研究。",
+    "words": [
+      "oncology",
+      "oncologist",
+      "oncogene",
+      "oncogenic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1748",
+    "meaning": "铁；按铁的某种性质类比的命名",
+    "core": "FERRO-：有时说铁成分，有时只是借铁磁术语类比",
+    "image": "ferrous 联系铁，ferromagnetic 联系铁磁性，ferroelectric 却是仿铁磁术语命名的铁电性，不保证材料含铁。",
+    "intro": "来自拉丁 ferrum 铁，进入近代化学、物理构词。后来的性质名有基于代表材料、现象相似而命名的类比。",
+    "forms": "ferr- + -ous → ferrous；ferro- + magnetic → ferromagnetic；依铁磁术语类比 → ferroelectric。",
+    "branches": [
+      [
+        "铁、铁磁相关",
+        "ferrous · ferromagnetic"
+      ],
+      [
+        "类比命名的电学性质",
+        "ferroelectric"
+      ]
+    ],
+    "contrasts": "ferroelectric 的 ferro- 反映命名史，不是成分检验结果；不能只看铁字就判定每种铁电材料都含铁。",
+    "practice": "The lesson explains why a ferroelectric material need not contain iron.\n\n这节课解释了为什么铁电材料不一定含铁。",
+    "words": [
+      "ferrous",
+      "ferromagnetic",
+      "ferroelectric"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2170",
+    "meaning": "图像、形象",
+    "core": "ICONO-：图像本身，或研究图像里表达什么",
+    "image": "icon 是图像、图标或代表形象；iconography 进一步看一组图像题材、象征或它们的研究，iconographic 是相应形容词。",
+    "intro": "来自希腊 eikon 图像、相似形象，词干 icon-、组合形式 icono- 经过借词及学术构词延续。iconic 也有自己的希腊、拉丁形容词路线。",
+    "forms": "eikon → icon；相关形容词 → iconic；icono- + -graphy → iconography → iconographic。\n\n形象代表对象的用途进入不同领域，复数仍按普通 s 处理。",
+    "branches": [
+      [
+        "基础图像、代表性",
+        "icon · iconic"
+      ],
+      [
+        "图像体系、研究及相关性质",
+        "iconography · iconographic"
+      ],
+      [
+        "icon → icons：图像、代表形象、界面图标",
+        "icon · icons"
+      ]
+    ],
+    "contrasts": "iconography 可以讨论宗教、艺术作品里的形象象征，并不只画电脑图标；iconic 的常用代表性又是整词的现代扩展。",
+    "practice": "The exhibition explains the iconography of the painting.\n\n展览解释了这幅画的图像题材和象征。",
+    "words": [
+      "icon",
+      "iconic",
+      "iconography",
+      "iconographic",
+      "icons"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2190",
+    "meaning": "视频、图像记录相关的现代材料",
+    "core": "VIDEO-：从看见，到动态影像的制作、传递",
+    "image": "video 是视频，videography 是视频拍摄制作，videographer 是相关人员；前面的视觉材料进入了现代影像工作名称。",
+    "intro": "现代 video 命名采用拉丁 videre 看、video 我看见的相关形式，并参照 audio 的方式形成；后来独立词、构词前部继续发展。",
+    "forms": "video + -graphy → videography；video- + -grapher → videographer。这些现代名称借用了旧的看见材料。\n\nvideo 与记录人员的 grapher 材料组合，不把所有视频制作者都强称同一专业职责。",
+    "branches": [
+      [
+        "内容、媒介",
+        "video"
+      ],
+      [
+        "活动与人物",
+        "videography · videographer"
+      ],
+      [
+        "videographer → videographers：视频拍摄人员",
+        "videographer · videographers"
+      ]
+    ],
+    "contrasts": "videography 说视频制作活动、技艺，videographer 说从业者；video 还可以直接指一段具体内容。",
+    "practice": "The videographer teaches an introductory course in videography.\n\n这位摄像师教授视频拍摄制作入门课程。",
+    "words": [
+      "video",
+      "videography",
+      "videographer",
+      "videographers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2387",
+    "meaning": "穿过、通行的旧形式",
+    "core": "THOROUGH-：在 thoroughfare 里，保留较旧的 through 关系",
+    "image": "thoroughfare 是供人通过的道路、大街；把它先想成穿行的路线，比从现代 thoroughly 仔细地去猜更直观。",
+    "intro": "thorough 与 through 同出古英语相关形式。较旧 thorough- 可表示穿过，在 thoroughfare 等固定词里保留；现代形容词 thorough 又发展出彻底、周密义。",
+    "forms": "thorough-〔旧穿过〕+ fare〔行进、通行〕→ thoroughfare；不是用现代形容词周密加票价来拼一个路名。",
+    "branches": [
+      [
+        "现代形容词与旧关系的对照",
+        "thorough · thoroughfare"
+      ]
+    ],
+    "contrasts": "fare 在这个复合里取通行、旅行的旧义；thoroughfare 是完整固定的道路名称；thorough 单独用时则常说周密、彻底。",
+    "practice": "The avenue is one of the city’s busiest thoroughfares.\n\n这条大街是城市最繁忙的主干道之一。",
+    "words": [
+      "thorough",
+      "thoroughfare"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2185",
+    "meaning": "层、分层",
+    "core": "STRATO-：从层状关系理解平流层名称",
+    "image": "stratosphere 是地球大气的平流层；前面的层材料帮助记住命名，与后面圈层材料合成大气层名称。",
+    "intro": "借法语 stratosphere 对应形式，前部接拉丁 stratus 铺开、层状材料，后部接 sphere 球、圈层。",
+    "forms": "拉丁层状材料 + 法语 -sphere → stratosphere → 英语；英语借入的是已经形成的大气层名称。",
+    "branches": [
+      [
+        "大气层名称及高度比喻",
+        "stratosphere"
+      ]
+    ],
+    "contrasts": "现代 stratosphere 的大气层意义已固定；价格进入 stratosphere 则借高度夸张说贵得离谱，强调价格远高于平常。",
+    "practice": "Ticket prices have risen into the stratosphere.\n\n票价已经高得离谱了。",
+    "words": [
+      "stratosphere"
+    ],
+    "exclude": {}
+  }
+]

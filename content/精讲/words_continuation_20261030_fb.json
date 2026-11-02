@@ -1,0 +1,638 @@
+[
+  {
+    "word": "cap",
+    "ipa": "/kæp/",
+    "meaning": "便帽、盖子；上限；盖上、封顶；大写字母〔缩写〕；谎话〔俚语〕",
+    "sense": "帽盖在头上，盖子扣在容器上，数量上面再加一个不许越过的顶，都可 cap。no cap 则是“真没夸张”的口语，不是没戴帽子。",
+    "split": "帽、盖接古英语 cæppe，更早借拉丁 cappa；上限从顶端覆盖物引申。caps 可截自 capital letters；说谎口语另与夸口、言语交锋历史相连。",
+    "history": [
+      [
+        "拉丁 cappa → 古英语 cæppe → cap",
+        "头部、披风等覆盖物 → 帽、盖；更远来源不定"
+      ],
+      [
+        "覆盖在上方的现代引申",
+        "上限、封顶、末尾完成；膝盖骨等盖状物"
+      ],
+      [
+        "其他缩写与口语",
+        "caps 可资本字母缩写；no cap 的夸口、说谎材料有黑人英语历史，不从帽子硬推"
+      ]
+    ],
+    "explanation": "a baseball cap 棒球帽，a bottle cap 瓶盖，a spending cap 开支上限，cap the number 限定数量，no cap 说真的〔俚语〕。",
+    "usage": "a bottle cap；a spending cap；cap the number；no cap；all caps。",
+    "contrast": "recap 总结常缩自 recapitulate，不是再戴一次帽；recap 给物件重新加盖在其他语境又可 re-+cap，具体分词源义。",
+    "examples": [
+      [
+        "The number of visitors is capped at fifty.",
+        "访客人数上限为五十。"
+      ],
+      [
+        "He put the cap back on the bottle.",
+        "他把瓶盖重新盖好。"
+      ],
+      [
+        "That concert was amazing, no cap.",
+        "那场音乐会太棒了，说真的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cap#English",
+      "https://www.etymonline.com/word/cap",
+      "https://www.merriam-webster.com/slang/no-cap"
+    ]
+  },
+  {
+    "word": "capped",
+    "ipa": "/kæpt/",
+    "meaning": "有盖的、覆盖着的；设有上限的",
+    "sense": "瓶子已经封住、山顶覆雪，或数量被封在一个上限以内，都可以 capped；看后面接的是覆盖物还是数字。",
+    "split": "cap 双写 p + -ed，过去分词作状态形容词，末尾读 /t/。覆盖、限额等不同用法随基础词保留。",
+    "history": [
+      [
+        "拉丁 cappa → 古英语 cæppe → cap",
+        "头部、披风等覆盖物 → 帽、盖；更远来源不定"
+      ],
+      [
+        "覆盖在上方的现代引申",
+        "上限、封顶、末尾完成；膝盖骨等盖状物"
+      ],
+      [
+        "cap + -ed → capped〔双写 p〕",
+        "已经加盖、覆盖、设定上限的"
+      ]
+    ],
+    "explanation": "capped bottles 已盖瓶子，capped at fifty 上限五十，a mountain capped with snow 顶部覆雪的山。",
+    "usage": "capped at；capped with snow；capped bottles。",
+    "contrast": "capped at 指上限，不说每次实际人数都等于那个数；cap—capped—capping 都要注意双写 p。",
+    "examples": [
+      [
+        "The bottles were capped and packed.",
+        "瓶子盖好后装箱了。"
+      ],
+      [
+        "Annual membership is capped at two hundred.",
+        "年度会员人数上限为两百。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/capped#English"
+    ]
+  },
+  {
+    "word": "capping",
+    "ipa": "/ˈkæpɪŋ/",
+    "meaning": "加盖、封顶、设置上限的过程；吹牛、说谎〔俚语〕",
+    "sense": "工厂给瓶子封口是 capping；口语 stop capping 则是别吹、别编。两种活动不因拼写相同就真在互相戴帽。",
+    "split": "cap 双写 p + -ing。加盖、限额沿帽盖分支；夸口、说谎义接黑人英语中的 cap、capping 言语传统，较早历史比网络流行更长。",
+    "history": [
+      [
+        "拉丁 cappa → 古英语 cæppe → cap",
+        "头部、披风等覆盖物 → 帽、盖；更远来源不定"
+      ],
+      [
+        "覆盖在上方的现代引申",
+        "上限、封顶、末尾完成；膝盖骨等盖状物"
+      ],
+      [
+        "cap + -ing → capping",
+        "加盖、限额等活动过程"
+      ],
+      [
+        "口语 cap 的夸口、说谎分支 + -ing",
+        "吹牛、撒谎的行为"
+      ]
+    ],
+    "explanation": "bottle capping 瓶子封盖，capping costs 限制成本，stop capping 别吹了〔俚语〕。",
+    "usage": "bottle capping；capping costs；stop capping。",
+    "contrast": "capping 俚语别用字面加盖翻；no cap 说真话与 stop capping 别编，两者沿同一口语词义。",
+    "examples": [
+      [
+        "The factory added a bottle capping machine.",
+        "工厂新增了一台瓶子封盖机。"
+      ],
+      [
+        "His friend laughed and told him to stop capping.",
+        "朋友笑着让他别吹牛了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/capping#English",
+      "https://www.merriam-webster.com/slang/no-cap"
+    ]
+  },
+  {
+    "word": "kneecap",
+    "ipa": "/ˈniːkæp/",
+    "meaning": "髌骨、膝盖骨",
+    "sense": "膝部前方像盖子的一块骨，因此 knee + cap；不是护具里那片可以随手取下的塑料盖。",
+    "split": "knee 膝 + cap 盖状物，按位置、形状命名身体结构；knee 开头 k 现代不发音。",
+    "history": [
+      [
+        "拉丁 cappa → 古英语 cæppe → cap",
+        "头部、披风等覆盖物 → 帽、盖；更远来源不定"
+      ],
+      [
+        "knee + cap → kneecap",
+        "膝前盖状骨结构"
+      ]
+    ],
+    "explanation": "the kneecap 膝盖骨，the left kneecap 左髌骨，a kneecap diagram 膝盖骨示意图。",
+    "usage": "the left kneecap；a kneecap diagram；the position of the kneecap。",
+    "contrast": "kneecap 骨，knee pad 护膝器具是外面保护物；同有膝字，结构不同。",
+    "examples": [
+      [
+        "The diagram showed the position of the kneecap.",
+        "示意图显示了髌骨的位置。"
+      ],
+      [
+        "The model included a movable kneecap.",
+        "模型包含一块可移动的膝盖骨部件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/kneecap#English"
+    ]
+  },
+  {
+    "word": "skullcap",
+    "ipa": "/ˈskʌlkæp/",
+    "meaning": "贴头小帽；黄芩属植物等名称〔另一外形用法〕",
+    "sense": "紧贴头部、只盖头顶的小帽；植物名也可借类似小帽的外形，不能只见名字就当帽子材料。",
+    "split": "skull 颅、头骨 + cap 帽，先按贴头形状命名帽具；植物名称则取花等外形相似的用途。",
+    "history": [
+      [
+        "拉丁 cappa → 古英语 cæppe → cap",
+        "头部、披风等覆盖物 → 帽、盖；更远来源不定"
+      ],
+      [
+        "skull + cap → skullcap",
+        "贴合头部的小帽"
+      ],
+      [
+        "相似外形 → 部分植物俗名",
+        "不是由帽子制造出的植物"
+      ]
+    ],
+    "explanation": "a knitted skullcap 针织小帽，wear a skullcap 戴贴头小帽，a simple skullcap 简单小帽。",
+    "usage": "a knitted skullcap；wear a skullcap；a simple skullcap。",
+    "contrast": "skullcap 头顶小帽，skull 颅骨是身体结构；skullcap 植物义要看上下文，不凭词名推定用途。",
+    "examples": [
+      [
+        "He wore a knitted skullcap in the cold.",
+        "天冷时，他戴着一顶针织小帽。"
+      ],
+      [
+        "The costume included a simple skullcap.",
+        "服装配有一顶简单的贴头小帽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skullcap#English"
+    ]
+  },
+  {
+    "word": "cop",
+    "ipa": "英 /kɒp/；美 /kɑːp/",
+    "meaning": "警察〔口语〕；取得、弄到、承受〔口语动词〕",
+    "sense": "人物常是警察；动词可弄到某物或挨到某种后果。警察称呼通常沿“抓人者”缩短，不是字母缩写游戏。",
+    "split": "警察义通常缩自 copper，copper 再接 cop 抓住、逮捕 + -er。动词更远可能联系法语、荷兰语等取、抓词，具体未定；Constable On Patrol 之类是后起附会。",
+    "history": [
+      [
+        "cop〔抓住、取得〕→ copper〔抓人者〕→ cop〔警察〕",
+        "人物后缀后再缩短；更远动词来源有争议"
+      ],
+      [
+        "拉丁 aes Cyprium → cuprum → 古英语 coper → copper〔金属〕",
+        "塞浦路斯相关铜名 → 铜；与警察义分开"
+      ]
+    ],
+    "explanation": "a traffic cop 交警，a cop on duty 值班警察，cop the blame 承担、挨责备，cop a prize 赢得奖〔口语〕。",
+    "usage": "a traffic cop；a cop on duty；cop the blame；cop a prize。",
+    "contrast": "cop 较口语，police officer 正式中性；copper 铜金属不等于警察因为戴铜徽章才被叫 cop。",
+    "examples": [
+      [
+        "A traffic cop directed the cars around the accident.",
+        "一位交警引导汽车绕过事故点。"
+      ],
+      [
+        "She copped the blame for the missing files.",
+        "文件丢失的责任落到了她头上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cop#English",
+      "https://www.etymonline.com/word/cop"
+    ]
+  },
+  {
+    "word": "copper",
+    "ipa": "英 /ˈkɒpə/；美 /ˈkɑːpər/",
+    "meaning": "铜；铜色的；警察〔口语，另来源〕",
+    "sense": "金属 copper 是铜，红棕色也借它命名；人物 copper 则是警察，不必联想一个铜制机器人。",
+    "split": "金属名经古英语接拉丁 cuprum，较早 aes Cyprium 塞浦路斯相关铜名；警察名通常为 cop 抓人 + -er，与金属名分路。",
+    "history": [
+      [
+        "cop〔抓住、取得〕→ copper〔抓人者〕→ cop〔警察〕",
+        "人物后缀后再缩短；更远动词来源有争议"
+      ],
+      [
+        "拉丁 aes Cyprium → cuprum → 古英语 coper → copper〔金属〕",
+        "塞浦路斯相关铜名 → 铜；与警察义分开"
+      ]
+    ],
+    "explanation": "copper wire 铜线，a copper pipe 铜管，copper coloured hair 铜色头发，a copper on the corner 街角警察〔口语〕。",
+    "usage": "copper wire；a copper pipe；a copper coin；a copper on the corner。",
+    "contrast": "金属 copper 不把末尾 -er 拆成人物，警察 copper 才有相应人物构词；同形不代表同源。",
+    "examples": [
+      [
+        "The old house had copper pipes.",
+        "老房子装着铜管。"
+      ],
+      [
+        "In the story, a copper stops the thief.",
+        "故事里，一名警察拦下窃贼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/copper#English"
+    ]
+  },
+  {
+    "word": "sharp",
+    "ipa": "英 /ʃɑːp/；美 /ʃɑːrp/",
+    "meaning": "锋利的、尖的；敏锐的、清晰的；急剧的；整点〔时间用法〕",
+    "sense": "刀刃能切、眼睛能看清、脑子一下抓住重点，都可 sharp；sharp rise 是变化突然明显，at six sharp 则时间一点不含糊。",
+    "split": "继承古英语 scearp，经中古英语到 sharp，切割、尖利画面扩到感官、判断、变化。音乐 sharp 升音也有专门约定。",
+    "history": [
+      [
+        "古英语 scearp → 中古英语 scharp → sharp",
+        "尖、利；更远联系切割词族"
+      ],
+      [
+        "感官、智力和变化引申",
+        "味道刺、图像清楚、头脑敏锐；变化急剧"
+      ],
+      [
+        "派生与借名",
+        "sharpen、sharpness、sharply；sharper 比较级或骗子；sharpie 和 shebang 分用途、历史"
+      ]
+    ],
+    "explanation": "a sharp knife 锋利刀，a sharp mind 敏锐头脑，a sharp image 清晰图像，a sharp rise 急升，at six sharp 六点整。",
+    "usage": "a sharp knife；a sharp mind；a sharp image；a sharp rise；at six sharp。",
+    "contrast": "sharp 尖锐可物理或感觉、判断，不只形状尖；sharp turn 急转弯，不意味着路边必须有一把刀。",
+    "examples": [
+      [
+        "The photo is sharp and clear.",
+        "照片清晰锐利。"
+      ],
+      [
+        "Please arrive at six sharp.",
+        "请六点整到达。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharp#English"
+    ]
+  },
+  {
+    "word": "sharply",
+    "ipa": "英 /ˈʃɑːpli/；美 /ˈʃɑːrpli/",
+    "meaning": "急剧地；尖锐、严厉地；清晰地",
+    "sense": "价格猛升、车突然转、回应语气很冲，都可以 sharply；动作里是哪一种“尖、急”，要跟着动词看。",
+    "split": "古英语 scearplīce 等经中古英语传下，现代对应 sharp + -ly，不是最近才造出的统一价格副词。",
+    "history": [
+      [
+        "古英语 scearp → 中古英语 scharp → sharp",
+        "尖、利；更远联系切割词族"
+      ],
+      [
+        "scearplīce 经中古英语 → sharply；对应 sharp + -ly",
+        "以尖、急、清晰等方式"
+      ]
+    ],
+    "explanation": "rise sharply 急升，turn sharply 急转，reply sharply 严厉回应，sharply defined 界线清晰。",
+    "usage": "rise sharply；turn sharply；reply sharply；sharply defined。",
+    "contrast": "sharply 不等于 slowly 的反义词就能覆盖全部，reply sharply 重点可语气严厉，未必说得很快。",
+    "examples": [
+      [
+        "The road turned sharply to the left.",
+        "道路向左急转。"
+      ],
+      [
+        "She replied sharply to the interruption.",
+        "被打断后，她严厉地回应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharply#English"
+    ]
+  },
+  {
+    "word": "sharpen",
+    "ipa": "英 /ˈʃɑːpən/；美 /ˈʃɑːrpən/",
+    "meaning": "磨利、削尖；使敏锐、使清晰",
+    "sense": "刀口变利、铅笔尖起来，思路和技能也能练得更敏锐；共同点是把原本钝、模糊的边变得更明确。",
+    "split": "中古英语已有 scharpenen、scharpnen 等，现代对应 sharp + 动词 -en。既可使变利，也可自己变得更敏锐。",
+    "history": [
+      [
+        "古英语 scearp → 中古英语 scharp → sharp",
+        "尖、利；更远联系切割词族"
+      ],
+      [
+        "sharp + -en → sharpen；早期已有对应动词",
+        "使变利、尖、敏锐、明确"
+      ]
+    ],
+    "explanation": "sharpen a pencil 削铅笔，sharpen a knife 磨刀，sharpen your skills 精进技能，sharpen the focus 使重点清晰。",
+    "usage": "sharpen a pencil；sharpen a knife；sharpen your skills；sharpen the focus。",
+    "contrast": "sharpen 动作，sharpness 性质；图像 sharpen 增强边缘清晰感，不保证凭空找回所有缺失细节。",
+    "examples": [
+      [
+        "He sharpened the pencil before drawing.",
+        "画画前，他削尖了铅笔。"
+      ],
+      [
+        "The exercises sharpened her observation skills.",
+        "练习提高了她的观察敏锐度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharpen#English"
+    ]
+  },
+  {
+    "word": "sharpness",
+    "ipa": "英 /ˈʃɑːpnəs/；美 /ˈʃɑːrpnəs/",
+    "meaning": "锋利度、锐度；敏锐、尖刻",
+    "sense": "刀有多利、照片边缘有多清楚，或一个人的回应多么尖锐，都能把这种性质名词化为 sharpness。",
+    "split": "古英语 scearpnes 经中古英语传下，现代对应 sharp + -ness。不同对象决定具体可测、可感的性质。",
+    "history": [
+      [
+        "古英语 scearp → 中古英语 scharp → sharp",
+        "尖、利；更远联系切割词族"
+      ],
+      [
+        "scearpnes → sharpnesse → sharpness；对应 sharp + -ness",
+        "尖利、清晰、敏锐等性质"
+      ]
+    ],
+    "explanation": "image sharpness 图像锐度，the sharpness of a blade 刀刃锋利度，the sharpness of a reply 回应的尖锐。",
+    "usage": "image sharpness；the sharpness of a blade；the sharpness of a reply。",
+    "contrast": "sharpness 锐度不等于 resolution 分辨率，二者有关却不是同一个参数；语言的 sharpness 也不是空间像素。",
+    "examples": [
+      [
+        "The new lens improved the image sharpness.",
+        "新镜头提高了图像清晰锐度。"
+      ],
+      [
+        "The sharpness of his reply surprised her.",
+        "他回应的尖锐让她吃惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharpness#English"
+    ]
+  },
+  {
+    "word": "sharper",
+    "ipa": "英 /ˈʃɑːpə/；美 /ˈʃɑːrpər/",
+    "meaning": "更锋利、更敏锐的；骗子、赌局诈骗者〔旧口语名词〕",
+    "sense": "日常 most cases 是 sharp 的比较级：这把刀更利。旧名词 a sharper 却是靠精明手段骗人的人，-er 的用途不同。",
+    "split": "形容词 sharp + 比较级 -er；人物名词也接 sharp 精明、狡诈的相关旧义与人物 -er，不把所有 sharper 都译成骗子。",
+    "history": [
+      [
+        "古英语 scearp → 中古英语 scharp → sharp",
+        "尖、利；更远联系切割词族"
+      ],
+      [
+        "sharp + 比较级 -er → sharper",
+        "更利、更敏锐"
+      ],
+      [
+        "sharp + 人物 -er → sharper〔名词〕",
+        "以狡诈手段取利的人"
+      ]
+    ],
+    "explanation": "a sharper knife 更利的刀，a sharper focus 更明确焦点，a card sharper 牌局骗子〔旧语〕。",
+    "usage": "a sharper knife；a sharper focus；a card sharper。",
+    "contrast": "a sharper knife 的 sharper 形容刀，a card sharper 的 sharper 是人；先看语法结构再选义。",
+    "examples": [
+      [
+        "This knife is sharper than the old one.",
+        "这把刀比旧的更利。"
+      ],
+      [
+        "The detective novel features a card sharper.",
+        "侦探小说里有一个牌局骗子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharper#English"
+    ]
+  },
+  {
+    "word": "sharpie",
+    "ipa": "英 /ˈʃɑːpi/；美 /ˈʃɑːrpi/",
+    "meaning": "Sharpie 商标记号笔及泛用称呼；精明人、骗子等〔旧口语〕",
+    "sense": "桌上 a Sharpie 常就是一支记号笔；旧小说的小写 sharpie 也可能是精明、狡猾的人，不能把旧人物都变成文具。",
+    "split": "普通旧词 sharp + -ie，有人物、船只等名词用法；Sharpie 又作为记号笔商标并常被泛用。不同用法不全从品牌扩散。",
+    "history": [
+      [
+        "古英语 scearp → 中古英语 scharp → sharp",
+        "尖、利；更远联系切割词族"
+      ],
+      [
+        "sharp + -ie → 旧名词 sharpie",
+        "精明人物等旧用法"
+      ],
+      [
+        "Sharpie 商标与日常泛用",
+        "记号笔名称，不等于全部旧义的来源"
+      ]
+    ],
+    "explanation": "a black Sharpie 黑色记号笔，write with a Sharpie 用记号笔写，a sharpie in an old story 旧故事中的精明人。",
+    "usage": "a black Sharpie；write with a Sharpie；label with a Sharpie。",
+    "contrast": "Sharpie 是商标，marker 是通称；词典也收小写旧词，不要只按大小写忽略实际场景。",
+    "examples": [
+      [
+        "She labelled the box with a black Sharpie.",
+        "她用黑色记号笔给箱子写了标签。"
+      ],
+      [
+        "The old story describes a streetwise sharpie.",
+        "旧故事描写了一个熟悉街头世故的精明人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharpie#English",
+      "https://www.merriam-webster.com/dictionary/Sharpie"
+    ]
+  },
+  {
+    "word": "shebang",
+    "ipa": "/ʃɪˈbæŋ/，也读 /ʃəˈbæŋ/",
+    "meaning": "整套东西、整件事〔the whole shebang〕；脚本头的 #!〔计算机〕",
+    "sense": "the whole shebang 是“整套、全都”；脚本第一行的 shebang 则把 # 和 ! 这对符号连起来命名。两个场景别混译。",
+    "split": "普通名词旧有棚屋、处所、事情等义，源头不定，部分词义可能联系爱尔兰语借词背景；计算机名又以 hash 或 sharp 加 bang 的混成借已有词形，不是普通词全都从编程来。",
+    "history": [
+      [
+        "旧 shebang、chebang 等",
+        "棚屋、处所、事情；源头和合流过程有争议"
+      ],
+      [
+        "the whole shebang；后来的计算机混成借名",
+        "整套；hash/sharp + bang → #! 的名称"
+      ]
+    ],
+    "explanation": "the whole shebang 整套东西，a shebang line 脚本头解释器行，a script’s shebang 脚本的 #! 开头。",
+    "usage": "the whole shebang；a shebang line；a script’s shebang。",
+    "contrast": "计算机 # 常口语称 hash、sharp，但音乐升号 ♯ 是不同符号；普通 the whole shebang 不是说把所有脚本首行收在一起。",
+    "examples": [
+      [
+        "They bought the house, the furniture, the whole shebang.",
+        "他们买了房子、家具，整套全包。"
+      ],
+      [
+        "The script starts with a shebang line.",
+        "脚本以一行 shebang 开头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shebang#English"
+    ]
+  },
+  {
+    "word": "chemical",
+    "ipa": "/ˈkemɪkəl/",
+    "meaning": "化学的；化学物质",
+    "sense": "形容词说化学反应、成分等；名词 a chemical 说一种化学物质。日常有时偏说工业制品，但科学范围不只人工合成。",
+    "split": "新拉丁 chēmicus 相关词基 + -al，经化学、炼金词族历史形成。名词从性质用法转称具体物质，不把 chem 解释成某种危险东西的固定词根。",
+    "history": [
+      [
+        "新拉丁 chēmicus 等 → chemical",
+        "化学相关；较早与 chemistry、alchemy 词族有关"
+      ],
+      [
+        "现代名词、副词及复合形容词",
+        "chemical 物质；chemically 方式；photo-/physico- 等限定过程"
+      ]
+    ],
+    "explanation": "a chemical reaction 化学反应，chemical composition 化学组成，chemical substances 化学物质，store chemicals 存放化学品。",
+    "usage": "a chemical reaction；chemical composition；chemical substances；store chemicals。",
+    "contrast": "chemical 科学上中性说化学或物质，不自动等于 synthetic 人造或 poisonous 有毒；具体性质要看是哪种物质。",
+    "examples": [
+      [
+        "The change involved a chemical reaction.",
+        "变化涉及一次化学反应。"
+      ],
+      [
+        "The laboratory stores chemicals in labelled containers.",
+        "实验室把化学品存放在有标签的容器里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chemical#English"
+    ]
+  },
+  {
+    "word": "chemically",
+    "ipa": "/ˈkemɪkli/，也有保留中间弱音的读法",
+    "meaning": "在化学上；通过化学方法",
+    "sense": "说怎样结合、怎样处理、从哪个角度比较：chemically similar 在化学性质上相似，不一定外表像。",
+    "split": "chemical + -ly，-al + -ly 形成 -ally 拼写；常见读音把中间弱音压缩，不逐字母读成很多同等重音音节。",
+    "history": [
+      [
+        "新拉丁 chēmicus 等 → chemical",
+        "化学相关；较早与 chemistry、alchemy 词族有关"
+      ],
+      [
+        "chemical + -ly → chemically",
+        "在化学方面、用化学过程"
+      ]
+    ],
+    "explanation": "chemically similar 化学性质相似，chemically bonded 通过化学键结合，chemically treated 经化学处理的。",
+    "usage": "chemically similar；chemically bonded；chemically treated。",
+    "contrast": "chemically 在化学上，physically 在物理、外观等方面；看着相同不保证化学组成相同。",
+    "examples": [
+      [
+        "The two materials are chemically similar.",
+        "这两种材料化学性质相似。"
+      ],
+      [
+        "The atoms are chemically bonded.",
+        "原子通过化学键结合。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chemically#English"
+    ]
+  },
+  {
+    "word": "photochemical",
+    "ipa": "英 /ˌfəʊtəʊˈkemɪkəl/；美 /ˌfoʊtoʊˈkemɪkəl/",
+    "meaning": "光化学的、由光引起的化学变化的",
+    "sense": "光照进来触发、参与化学变化；photo- 在这里是光，不只是给化学物品拍一张照片。",
+    "split": "photo- 光 + chemical 化学的，组成光化学性质形容词；photography 与它共享光词基而用途不同。",
+    "history": [
+      [
+        "新拉丁 chēmicus 等 → chemical",
+        "化学相关；较早与 chemistry、alchemy 词族有关"
+      ],
+      [
+        "photo- + chemical → photochemical",
+        "光相关的化学反应、性质"
+      ]
+    ],
+    "explanation": "a photochemical reaction 光化学反应，photochemical processes 光化学过程，photochemical smog 光化学烟雾。",
+    "usage": "a photochemical reaction；photochemical processes；photochemical smog。",
+    "contrast": "photochemical 光与化学变化有关，photographic 摄影的，不因 photo 开头就所有语境同义。",
+    "examples": [
+      [
+        "The lesson explained a photochemical reaction.",
+        "课程解释了一个光化学反应。"
+      ],
+      [
+        "The report examined photochemical processes in the atmosphere.",
+        "报告考察了大气中的光化学过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/photochemical#English"
+    ]
+  },
+  {
+    "word": "physicochemical",
+    "ipa": "英 /ˌfɪzɪkəʊˈkemɪkəl/；美 /ˌfɪzɪkoʊˈkemɪkəl/",
+    "meaning": "物理化学的；涉及物理与化学性质、过程的",
+    "sense": "同一材料既看密度、相态等物理性质，也看组成、反应等化学方面，合起来谈 physicochemical properties。",
+    "split": "physico- 物理的组合词形 + chemical。连接元音 o 帮长词组合，不是 physic 心灵能力加一个新东西。",
+    "history": [
+      [
+        "新拉丁 chēmicus 等 → chemical",
+        "化学相关；较早与 chemistry、alchemy 词族有关"
+      ],
+      [
+        "physico- + chemical → physicochemical",
+        "物理与化学共同相关；物理化学领域的"
+      ]
+    ],
+    "explanation": "physicochemical properties 理化性质，physicochemical analysis 理化分析，physicochemical processes 理化过程。",
+    "usage": "physicochemical properties；physicochemical analysis；physicochemical processes。",
+    "contrast": "physicochemical 合说物理与化学方面，不表示每个物理变化都会生成一种新物质；两个领域可以一起讨论。",
+    "examples": [
+      [
+        "The study compared the materials’ physicochemical properties.",
+        "研究比较了材料的理化性质。"
+      ],
+      [
+        "The treatment uses several physicochemical processes.",
+        "这种处理采用了几个理化过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/physicochemical#English",
+      "https://www.merriam-webster.com/dictionary/physicochemical"
+    ]
+  }
+]

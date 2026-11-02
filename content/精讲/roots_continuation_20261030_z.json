@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B2711",
+    "meaning": "枪炮与相关人物、材料、场景",
+    "core": "GUN：枪炮名，后部说明人、物或场景",
+    "image": "先 gun，再 gunner、gunman、gunsmith 区分角色；接火药、枪口、炮艇，已有常用枪类与报道词共享。",
+    "intro": "gun 由中古英语战械名延续，更早人名来源等说法保留可能性。这里集中日常、历史和新闻阅读词，不扩展冷门枪型。",
+    "forms": "gun + -er/man/smith/powder/point/boat；gun + fire/shot/fight/ship/play；hand + gun、shot + gun。\n\n中古英语战械名称，更早可能人名等来源，保留不确定性。\n\n和 gun 比较武器类型，不是 gun 的派生。pistol 经法语 pistole 等，远源有捷克管子与意大利地名等不同分析，不能定成唯一已知的地点命名。",
+    "branches": [
+      [
+        "基本物与人物",
+        "gun · gunner · gunman · gunsmith"
+      ],
+      [
+        "材料、场景与船机",
+        "gunpowder · gunpoint · gunboat · gunship"
+      ],
+      [
+        "已有枪类和事件词",
+        "handgun · shotgun · gunfire · gunshot · gunfight · gunplay"
+      ],
+      [
+        "gun → guns：枪、火炮及枪形工具",
+        "gun · guns"
+      ],
+      [
+        "pistol：另源的手枪名称",
+        "pistol · pistols"
+      ]
+    ],
+    "contrasts": "gunner 岗位、gunman 持枪者、gunsmith 工匠；at gunpoint 整体记；gunship 也可飞机。",
+    "practice": "The museum compares a gunboat with the aircraft called a gunship.\n\n博物馆对比炮艇与同样用 gunship 称呼的武装飞机。",
+    "words": [
+      "gun",
+      "gunner",
+      "gunman",
+      "gunsmith",
+      "gunpowder",
+      "gunpoint",
+      "gunboat",
+      "gunship",
+      "handgun",
+      "shotgun",
+      "gunfire",
+      "gunshot",
+      "gunfight",
+      "gunplay",
+      "guns",
+      "pistol",
+      "pistols"
+    ],
+    "exclude": {
+      "up-gun": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gun-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gun-centric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gun-brig": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "splatter-gun": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gunnery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gunslinger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gunny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gunmetal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gunfighter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "railgun": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

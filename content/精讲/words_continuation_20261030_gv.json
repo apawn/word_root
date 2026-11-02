@@ -1,0 +1,391 @@
+[
+  {
+    "word": "suck",
+    "ipa": "/sʌk/",
+    "meaning": "吸、吮；吸走；糟透了〔粗俗口语〕",
+    "sense": "吸管里把饮料吸上来；机器也能吸走灰。某件事不断把精力抽走，又能说 suck the energy out；This sucks 则是在骂太差劲。",
+    "split": "接古英语 sūcan，日耳曼语与更远语言都有吸吮相关材料。现代负面俚语是另外发展出的约定用法，不能把每个吸都翻成糟糕。",
+    "history": [
+      [
+        "古英语 sūcan → 中古英语 souken → suck",
+        "用嘴吸入液体、吮吸"
+      ],
+      [
+        "英语 suck",
+        "吸取；吸走力量、资源；俚语说很差"
+      ]
+    ],
+    "explanation": "suck through a straw 用吸管吸，suck up dust 吸灰，suck the energy out of 抽干精力；This sucks! 真差劲！语气随意、可显粗鲁。",
+    "usage": "suck through a straw；suck up dust；suck the energy out of；This sucks!。",
+    "contrast": "suck 用吸力，sip 小口喝；小口喝不一定必须用吸管。suck up to someone 是奉承、巴结的整组用法。",
+    "examples": [
+      [
+        "The machine sucked up the dust.",
+        "机器吸走了灰尘。"
+      ],
+      [
+        "This job sucks the energy out of me.",
+        "这份工作把我的精力都耗干了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suck#English"
+    ]
+  },
+  {
+    "word": "sucker",
+    "ipa": "英 /ˈsʌkə/；美 /ˈsʌkər/",
+    "meaning": "吸盘、吸取者；容易上当者；特别抵挡不住某物的人",
+    "sense": "一边是靠吸附贴牢的器官、工具；人物俚语里是容易被套住的人。a sucker for old films 是特别吃老电影这一套，不一定受骗。",
+    "split": "suck + -er，先有吸吮者、吸取器等义。容易受骗等人物义后来按俚语习惯发展；植物根部萌出的吸芽也叫 sucker，不能见 -er 一概译成人。",
+    "history": [
+      [
+        "古英语 sūcan → 中古英语 souken → suck",
+        "用嘴吸入液体、吮吸"
+      ],
+      [
+        "英语 suck",
+        "吸取；吸走力量、资源；俚语说很差"
+      ],
+      [
+        "suck + -er → sucker",
+        "吸吮者、吸盘等"
+      ],
+      [
+        "人物、植物等扩展",
+        "容易上当的人；格外喜欢者；吸芽"
+      ]
+    ],
+    "explanation": "an octopus’s suckers 章鱼吸盘，a sucker for bargains 特别抵挡不住便宜货的人，take someone for a sucker 把某人当冤大头。美式 sucker 也可说棒棒糖。",
+    "usage": "an octopus’s suckers；a sucker for；take someone for a sucker。",
+    "contrast": "sucker for 某物常是自嘲喜好，不保证真被骗；sucker 单独骂人冤大头较不客气。",
+    "examples": [
+      [
+        "I’m a sucker for old black-and-white films.",
+        "我特别抵挡不住老黑白电影的魅力。"
+      ],
+      [
+        "The octopus held the glass with its suckers.",
+        "章鱼用吸盘贴住玻璃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sucker#English"
+    ]
+  },
+  {
+    "word": "sucky",
+    "ipa": "/ˈsʌki/",
+    "meaning": "很差劲的、令人不爽的〔俚语〕",
+    "sense": "把 This sucks 的差劲判断变成形容词，直接贴到一天、工作、经历上：a sucky day。",
+    "split": "suck 的负面俚语支 + -y，形成形容词。其他吸吮相关旧义也存在，现代随意评价里常选糟糕这一支。",
+    "history": [
+      [
+        "古英语 sūcan → 中古英语 souken → suck",
+        "用嘴吸入液体、吮吸"
+      ],
+      [
+        "英语 suck",
+        "吸取；吸走力量、资源；俚语说很差"
+      ],
+      [
+        "suck 很差 + -y → sucky",
+        "糟糕、令人不快的"
+      ]
+    ],
+    "explanation": "a sucky day 糟糕的一天，a sucky job 很糟的工作，feel sucky 感觉很不爽。属随意口语，可能显粗鲁。",
+    "usage": "a sucky day；a sucky job；feel sucky。",
+    "contrast": "sucky 评价很差，suction 是吸力名词；sticky 黏的虽然也能贴住东西，来路和意思都不同。",
+    "examples": [
+      [
+        "It was a sucky day, but dinner with friends helped.",
+        "今天糟透了，不过和朋友吃饭让人好受些。"
+      ],
+      [
+        "The character complains about his sucky job.",
+        "这个人物抱怨他那份糟糕的工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sucky#English"
+    ]
+  },
+  {
+    "word": "suckle",
+    "ipa": "/ˈsʌkəl/",
+    "meaning": "哺乳、给奶喝；吃奶",
+    "sense": "母兽给幼崽喂奶，幼崽依靠吸吮吃奶；这个词常用在母婴、动物哺育叙述里。",
+    "split": "可认作 suck 与旧 -le 动词形式相关，历史也有由 suckling 逆构的解释；来路不只简单认定较短词必先出现。",
+    "history": [
+      [
+        "古英语 sūcan → 中古英语 souken → suck",
+        "用嘴吸入液体、吮吸"
+      ],
+      [
+        "英语 suck",
+        "吸取；吸走力量、资源；俚语说很差"
+      ],
+      [
+        "中古英语 sukelen → suckle",
+        "吸吮、哺乳；可能受 suckling 逆构影响"
+      ]
+    ],
+    "explanation": "suckle her young 给幼崽喂奶，a calf suckling 吃奶的小牛。动词既可从哺育者也可从幼崽角度使用，宾语和主语帮分。",
+    "usage": "suckle her young；a calf suckling；suckled by its mother。",
+    "contrast": "suckle 专门围绕奶的吸吮、喂养，suck 更宽；suckle 的 -le 不表示这是个很小的人。",
+    "examples": [
+      [
+        "The cat lay down to suckle her kittens.",
+        "母猫躺下来给小猫喂奶。"
+      ],
+      [
+        "The calf was still suckling when the visitors arrived.",
+        "游客到时，小牛还在吃奶。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/suckle",
+      "https://en.wiktionary.org/wiki/suckle#English"
+    ]
+  },
+  {
+    "word": "suckling",
+    "ipa": "/ˈsʌklɪŋ/",
+    "meaning": "吃奶的婴儿、幼兽；吃奶、哺乳；尚未断奶的",
+    "sense": "还靠奶长大的小生命；suckling pig 取未断奶、幼嫩这层意思。也可能是 suckle 的 -ing 动作形式。",
+    "split": "幼儿、幼兽名可拆 suck + -ling，-ling 是幼小个体名后缀；哺乳动作名和分词则接 suckle + -ing。两种分析别混成同一种后缀。",
+    "history": [
+      [
+        "suck + -ling → suckling",
+        "吃奶的婴幼儿、未断奶幼兽"
+      ],
+      [
+        "suckle 去 e + -ing → suckling",
+        "哺乳或吃奶的动作、形式"
+      ]
+    ],
+    "explanation": "a suckling calf 未断奶小牛，a suckling infant 吃奶婴儿，suckling pig 乳猪；具体名词还是动作看句子位置。",
+    "usage": "a suckling calf；a suckling infant；suckling pig。",
+    "contrast": "suckling 的 -ling 人物、幼兽名和 -ing 动作形式可能同形；不能每次都说整个末尾 -ling 就是现在分词。",
+    "examples": [
+      [
+        "The farmer checked the suckling calves.",
+        "农场主查看了还没断奶的小牛。"
+      ],
+      [
+        "The mother was suckling her baby.",
+        "母亲正在给宝宝喂奶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suckling#English"
+    ]
+  },
+  {
+    "word": "honeysuckle",
+    "ipa": "/ˈhʌnisʌkəl/",
+    "meaning": "忍冬属植物、金银花一类植物",
+    "sense": "开细长、常有香气的花，名字把甜蜜花蜜和吸吮联系起来；不是植物从蜂巢吸蜂蜜。",
+    "split": "接古英语 huniġsūce 等蜂蜜、吸吮组合，经中古形式到 honeysuckle，后部又有 -le 形式变化。可用 honey + suck 的材料记，不硬拆成现代 honey 给 suckle 喂奶。",
+    "history": [
+      [
+        "古英语 huniġ + sūce 等 → huniġsūce",
+        "蜜、甜味 + 吸吮相关材料的植物名"
+      ],
+      [
+        "中古形式 → honeysuckle",
+        "忍冬属花木名称；细长花与花蜜的命名联想"
+      ]
+    ],
+    "explanation": "honeysuckle flowers 忍冬花，a honeysuckle vine 忍冬藤，the scent of honeysuckle 忍冬花香。词名不等于所有品种每个部分都可食。",
+    "usage": "honeysuckle flowers；a honeysuckle vine；the scent of honeysuckle。",
+    "contrast": "honeysuckle 是植物名，honey 是蜜；suckle 的哺乳义不能直接塞到植物行为里。",
+    "examples": [
+      [
+        "Honeysuckle climbed over the garden gate.",
+        "忍冬藤攀过花园门。"
+      ],
+      [
+        "The evening air smelled of honeysuckle.",
+        "傍晚空气里飘着忍冬花香。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/honeysuckle#English"
+    ]
+  },
+  {
+    "word": "surprisingly",
+    "ipa": "/səˈpraɪzɪŋli/",
+    "meaning": "出人意料地、竟然",
+    "sense": "本来以为会很难，结果 surprisingly easy：容易得让人意外。副词把实际结果和原先预期拉开。",
+    "split": "surprising + -ly，直接在形容词后接副词尾；surprising 自己是 surprise 去 e + -ing 的形式。",
+    "history": [
+      [
+        "法语 surprise/surprendre → 英语 surprise",
+        "突然抓住、出其不意"
+      ],
+      [
+        "英语 surprise → surprising",
+        "使人意外 → 令人意外的"
+      ],
+      [
+        "surprising + -ly → surprisingly",
+        "以令人意外的程度、方式"
+      ]
+    ],
+    "explanation": "surprisingly easy 意外地容易，surprisingly few 意外地少，Surprisingly, ... 出人意料的是。",
+    "usage": "surprisingly easy；surprisingly few；Surprisingly, …。",
+    "contrast": "surprisingly 侧重出乎预料，不一定令人开心；happily 才可直接偏愉快、庆幸的评价。",
+    "examples": [
+      [
+        "The instructions were surprisingly clear.",
+        "说明书清楚得出人意料。"
+      ],
+      [
+        "Surprisingly few people knew the answer.",
+        "知道答案的人出乎意料地少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surprisingly#English"
+    ]
+  },
+  {
+    "word": "unsurprising",
+    "ipa": "英 /ˌʌnsəˈpraɪzɪŋ/；美 /ˌʌnsərˈpraɪzɪŋ/",
+    "meaning": "不奇怪的、不出所料的",
+    "sense": "事情正落在预期里，听了不需要瞪大眼；通常评价消息、结果，而不是说某个人没有惊讶的表情。",
+    "split": "un- 不 + surprising 令人惊讶的，否定整个形容词。词尾保留 -ing，不是 unsurprised 没感到惊讶。",
+    "history": [
+      [
+        "法语 surprise/surprendre → 英语 surprise",
+        "突然抓住、出其不意"
+      ],
+      [
+        "英语 surprise → surprising",
+        "使人意外 → 令人意外的"
+      ],
+      [
+        "un- + surprising → unsurprising",
+        "不会令人意外、可预料的"
+      ]
+    ],
+    "explanation": "an unsurprising result 不出所料的结果，It is unsurprising that 不难想见……，unsurprising given 考虑到……便不奇怪。",
+    "usage": "an unsurprising result；It is unsurprising that。",
+    "contrast": "unsurprising 事物不使人惊讶，unsurprised 人没感到惊讶；surprising/surprised 也沿这一致使与感受区别。",
+    "examples": [
+      [
+        "The result was unsurprising given the team’s record.",
+        "考虑到球队的过往战绩，这个结果并不奇怪。"
+      ],
+      [
+        "It is unsurprising that demand rose in summer.",
+        "夏天需求上升并不令人意外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsurprising#English"
+    ]
+  },
+  {
+    "word": "surprised",
+    "ipa": "英 /səˈpraɪzd/；美 /sərˈpraɪzd/",
+    "meaning": "惊讶的、感到意外的；surprise 的过去式、分词",
+    "sense": "消息令人意外，是 surprising；你听到后吃了一惊，是 surprised。把镜头从事物移到受影响的人。",
+    "split": "surprise 去 e 加 -ed，最后拼作 surprised；/z/ 后 -ed 读 /d/，不另添 /ɪd/ 音节。分词发展为描述感受的形容词。",
+    "history": [
+      [
+        "法语 surprise/surprendre → 英语 surprise",
+        "突然抓住、出其不意"
+      ],
+      [
+        "surprise + -ed → surprised",
+        "使某人意外了；感到意外的"
+      ]
+    ],
+    "explanation": "be surprised at/by 因……惊讶，be surprised to find 发现……感到意外，a surprised expression 惊讶表情。",
+    "usage": "be surprised at/by；be surprised to find；a surprised expression。",
+    "contrast": "surprised 常描述感受，surprising 描述造成感受的事物或人；I’m surprising 不是普通的我感到惊讶。",
+    "examples": [
+      [
+        "I was surprised to find the shop still open.",
+        "我发现店居然还开着，感到很意外。"
+      ],
+      [
+        "Her surprised expression made everyone laugh.",
+        "她惊讶的表情逗得大家都笑了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surprised#English"
+    ]
+  },
+  {
+    "word": "grey",
+    "ipa": "/ɡreɪ/",
+    "meaning": "灰色、灰色的；变灰；模糊难分的",
+    "sense": "黑白之间的颜色，后来也能借来形容界限不鲜明的事情：grey area 不是纯粹黑或白。",
+    "split": "接古英语 grēġ、grǣġ 等方言形式，grey、gray 后来形成常见地区拼写习惯；两种拼法不是两个不同颜色。",
+    "history": [
+      [
+        "古英语 grēġ/grǣġ 等 → grey/gray",
+        "灰色"
+      ],
+      [
+        "英语比喻",
+        "灰发、阴沉；界限难以黑白分开的区域"
+      ]
+    ],
+    "explanation": "grey hair 灰白头发，a grey sky 灰蒙天空，a grey area 模糊地带，go grey 头发变灰白；英式 grey、美式 gray 常见。",
+    "usage": "grey hair；a grey sky；a grey area；go grey。",
+    "contrast": "grey/gray 颜色相同；greyhound 中的 grey 却不宜按灰色给犬种定来源、定毛色。",
+    "examples": [
+      [
+        "His hair began to go grey in his thirties.",
+        "他三十多岁时头发开始变灰白。"
+      ],
+      [
+        "The policy leaves several grey areas.",
+        "这项政策留下了几处模糊地带。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grey#English"
+    ]
+  },
+  {
+    "word": "greyhound",
+    "ipa": "/ˈɡreɪhaʊnd/",
+    "meaning": "灵缇犬、格雷猎犬",
+    "sense": "腿长、体瘦、跑得快的犬种；可以有多种毛色，名字不要求它灰。",
+    "split": "接古英语 grīghund 等，hund 是犬，前段旧词意义、来源有讨论，常解释为某种犬词。后来被重新联想到颜色 grey，不是原本确定的灰色 + 猎犬。",
+    "history": [
+      [
+        "古英语 grīghund/greghund 等",
+        "犬名；前段具体来源不完全确定"
+      ],
+      [
+        "英语 greyhound",
+        "拼写被颜色 grey 影响、重新理解，但犬种不限定灰色"
+      ]
+    ],
+    "explanation": "a retired greyhound 退役赛犬，adopt a greyhound 收养灵缇，a racing greyhound 赛跑灵缇。大写还可出现在运输品牌名中。",
+    "usage": "a retired greyhound；adopt a greyhound；a racing greyhound。",
+    "contrast": "greyhound 是犬种名，a grey hound 可以只是灰色猎犬；分写、连写和历史来路都不能忽略。",
+    "examples": [
+      [
+        "They adopted a retired greyhound.",
+        "他们收养了一只退役灵缇赛犬。"
+      ],
+      [
+        "The black greyhound stretched out on the sofa.",
+        "那只黑色灵缇在沙发上舒展开身子。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/greyhound",
+      "https://en.wiktionary.org/wiki/greyhound#English"
+    ]
+  }
+]

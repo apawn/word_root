@@ -1,0 +1,976 @@
+[
+  {
+    "word": "percussionists",
+    "ipa": "英 /pəˈkʌʃənɪsts/；美 /pərˈkʌʃənɪsts/",
+    "meaning": "打击乐演奏者〔复数〕",
+    "sense": "敲鼓、击木琴、碰钹，各种打击乐器的演奏者都可叫 percussionists；范围比只说鼓手更广。",
+    "split": "percussion + -ist → percussionist，再加 -s。percussion 的击打义接拉丁 percutere、percussus、percussio。",
+    "history": [
+      [
+        "拉丁 percutere、percussio → percussion",
+        "敲击、击打 → 打击乐"
+      ],
+      [
+        "percussion + -ist → percussionist → percussionists",
+        "打击乐演奏者；多位演奏者"
+      ]
+    ],
+    "explanation": "一个 percussionist 可在曲子中换用不同打击乐器；复数说整个演奏群体。",
+    "usage": "orchestral percussionists 乐团打击乐手；two percussionists 两位打击乐演奏者。",
+    "contrast": "drummers 常明确指打鼓的人，percussionists 可演奏更广泛的打击乐器。",
+    "examples": [
+      [
+        "The percussionists moved between drums and cymbals.",
+        "打击乐手们在鼓和钹之间换着演奏。"
+      ],
+      [
+        "Two percussionists joined the ensemble.",
+        "两位打击乐演奏者加入了乐组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/percussionists#English",
+      "https://en.wiktionary.org/wiki/percussionist#English"
+    ]
+  },
+  {
+    "word": "orchestrates",
+    "ipa": "英 /ˈɔːkɪstreɪts/；美 /ˈɔːrkɪstreɪts/",
+    "meaning": "配器、精心组织〔第三人称单数〕",
+    "sense": "让不同乐器各自在合适的时候进入，合成一个整体；再把这幅画面用于组织活动，也能说 orchestrates。",
+    "split": "orchestrate + -s，/t/ 后读 /s/。英语 orchestrate 有由较早名词 orchestration 逆构等分析，不能仅凭现代对应关系倒写先后。",
+    "history": [
+      [
+        "法语 orchestre → orchestration → 英语相应名词",
+        "为乐队编排各声部"
+      ],
+      [
+        "英语 orchestrate；有逆构等分析",
+        "安排乐队声部，进而组织多个环节；不是只能按动词先于名词排列"
+      ],
+      [
+        "orchestrate + -s → orchestrates",
+        "他、她安排各声部或组织诸环节"
+      ]
+    ],
+    "explanation": "orchestrates a piece 说配器，orchestrates an event 说组织安排；都突出不同部分一起工作。",
+    "usage": "orchestrates the music 为音乐配器；orchestrates the launch 组织发布活动。",
+    "contrast": "compose 常说创作音乐本身，orchestrate 常说把音乐分配、编排给乐队的不同乐器。",
+    "examples": [
+      [
+        "She orchestrates the songs for a small ensemble.",
+        "她把歌曲编配给一个小乐组。"
+      ],
+      [
+        "He orchestrates the whole event from backstage.",
+        "他在后台组织整场活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orchestrates#English",
+      "https://en.wiktionary.org/wiki/orchestrate#English"
+    ]
+  },
+  {
+    "word": "orchestrated",
+    "ipa": "英 /ˈɔːkɪstreɪtɪd/；美 /ˈɔːrkɪstreɪtɪd/",
+    "meaning": "配了器、组织安排了；精心策划的",
+    "sense": "看似许多人同时配合，背后有人安排过顺序、分工，就可以说 was orchestrated；语气好坏要看所组织的事。",
+    "split": "orchestrate 去词末 e，加完整 -ed；/t/ 后另成 /ɪd/ 音节。",
+    "history": [
+      [
+        "法语 orchestre → orchestration → 英语相应名词",
+        "为乐队编排各声部"
+      ],
+      [
+        "英语 orchestrate；有逆构等分析",
+        "安排乐队声部，进而组织多个环节；不是只能按动词先于名词排列"
+      ],
+      [
+        "orchestrate + -ed → orchestrated〔去 e〕",
+        "过去配器、组织；安排后的状态"
+      ]
+    ],
+    "explanation": "an orchestrated campaign 强调有组织、有协调，不一定自发；orchestrated for strings 说编配给弦乐。",
+    "usage": "carefully orchestrated 精心安排的；orchestrated the performance 组织了演出。",
+    "contrast": "orchestrated 可以赞安排出色，也能揭示背后策划；词本身不保证褒贬。",
+    "examples": [
+      [
+        "She orchestrated the piece for strings and piano.",
+        "她把曲子编配给弦乐与钢琴。"
+      ],
+      [
+        "The surprise was carefully orchestrated by his friends.",
+        "这次惊喜由他的朋友们精心安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orchestrated#English",
+      "https://en.wiktionary.org/wiki/orchestrate#English"
+    ]
+  },
+  {
+    "word": "orchestrating",
+    "ipa": "英 /ˈɔːkɪstreɪtɪŋ/；美 /ˈɔːrkɪstreɪtɪŋ/",
+    "meaning": "正在配器、组织多个环节",
+    "sense": "这个声部什么时候入、那个人什么时候上场，都在协调之中：orchestrating 把注意力放在正在组织配合的工作。",
+    "split": "orchestrate 去不发音 e，加完整 -ing；保留 /eɪt/，不是转成 orchestration 的 /eɪʃən/。",
+    "history": [
+      [
+        "法语 orchestre → orchestration → 英语相应名词",
+        "为乐队编排各声部"
+      ],
+      [
+        "英语 orchestrate；有逆构等分析",
+        "安排乐队声部，进而组织多个环节；不是只能按动词先于名词排列"
+      ],
+      [
+        "orchestrate + -ing → orchestrating〔去 e〕",
+        "正在编排声部、组织诸环节"
+      ]
+    ],
+    "explanation": "orchestrating a response 常说组织各方共同作出回应；音乐和一般组织工作共用协调画面。",
+    "usage": "orchestrating a performance 组织演出；orchestrating the score 为乐谱配器。",
+    "contrast": "arranging 范围更广，orchestrating 在音乐中突出管弦乐等编配，在比喻中突出多方环节的协调。",
+    "examples": [
+      [
+        "He is orchestrating the score for a larger ensemble.",
+        "他正把乐谱编配给更大的乐组。"
+      ],
+      [
+        "The volunteers are orchestrating the entire festival.",
+        "志愿者们正在组织整个节庆活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orchestrating#English",
+      "https://en.wiktionary.org/wiki/orchestrate#English"
+    ]
+  },
+  {
+    "word": "orchestrations",
+    "ipa": "英 /ˌɔːkɪˈstreɪʃənz/；美 /ˌɔːrkɪˈstreɪʃənz/",
+    "meaning": "管弦乐编配、配器方案〔复数〕",
+    "sense": "同一段旋律，给小乐队和大乐队的分工可以完全不同；这些具体编配方案叫 orchestrations。",
+    "split": "orchestration + -s。英语名词借法语 orchestration，记录早于英语 orchestrate；复数数的是不同编配成果或安排。",
+    "history": [
+      [
+        "法语 orchestration → 英语 orchestration",
+        "为乐队安排声部的活动、结果"
+      ],
+      [
+        "orchestration + -s → orchestrations",
+        "不同编配、配器方案"
+      ]
+    ],
+    "explanation": "different orchestrations of a song 是同一首歌的不同配器；不是仅仅数演奏了几遍。",
+    "usage": "new orchestrations 新编配；compare orchestrations 比较配器方案。",
+    "contrast": "compositions 数作品，orchestrations 可数同一作品的不同乐器编配，两个数目不一定相同。",
+    "examples": [
+      [
+        "We compared two orchestrations of the same song.",
+        "我们比较了同一首歌的两种配器。"
+      ],
+      [
+        "The new production uses lighter orchestrations.",
+        "新制作采用了更轻盈的管弦乐编配。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orchestrations#English",
+      "https://en.wiktionary.org/wiki/orchestration#English"
+    ]
+  },
+  {
+    "word": "solos",
+    "ipa": "英 /ˈsəʊləʊz/；美 /ˈsoʊloʊz/",
+    "meaning": "独奏、独唱片段〔复数〕；作独奏〔第三人称单数〕",
+    "sense": "乐队暂时给一位乐手让出焦点，让他单独展开一段，这是 a solo；几段独奏叫 solos。",
+    "split": "solo + -s，词末元音后读 /z/，通常直接写 solos。基础词借意大利 solo，接拉丁 solus 独自。",
+    "history": [
+      [
+        "拉丁 solus → 意大利 solo → 英语 solo",
+        "独自、单独 → 独奏、独唱"
+      ],
+      [
+        "solo + -s → solos",
+        "多个独奏段；他、她作独奏"
+      ]
+    ],
+    "explanation": "guitar solos 吉他独奏段；一个曲子里可以先后有不同乐手的 solos。",
+    "usage": "short solos 短独奏；takes solos 担任独奏。",
+    "contrast": "solo 的焦点是一位主要演奏者，仍可有伴奏；不必把所有伴奏都撤掉才叫独奏。",
+    "examples": [
+      [
+        "The song includes two guitar solos.",
+        "歌曲包含两段吉他独奏。"
+      ],
+      [
+        "She solos over a simple chord pattern.",
+        "她在简单的和弦伴奏上作独奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/solos#English",
+      "https://en.wiktionary.org/wiki/solo#English"
+    ]
+  },
+  {
+    "word": "soloists",
+    "ipa": "英 /ˈsəʊləʊɪsts/；美 /ˈsoʊloʊɪsts/",
+    "meaning": "独奏者、独唱者〔复数〕",
+    "sense": "一场音乐会可有几位先后站到聚光灯下担任主角的人，他们就是 soloists。",
+    "split": "solo + -ist → soloist，再加 -s；solo 的 o 保留，与 pianist、cellist 的去 o 词形不同。",
+    "history": [
+      [
+        "拉丁 solus → 意大利 solo → 英语 solo",
+        "独自、单独 → 独奏、独唱"
+      ],
+      [
+        "solo + -ist → soloist",
+        "担任独奏、独唱部分的人"
+      ],
+      [
+        "soloist + -s → soloists",
+        "多位独奏、独唱者"
+      ]
+    ],
+    "explanation": "guest soloists 是客座独奏、独唱者，vocal soloists 明确说独唱者。",
+    "usage": "two soloists 两位独奏者；the orchestra and soloists 乐队与独奏者。",
+    "contrast": "soloists 数人，solos 数独奏段；一位 soloist 可以演奏几段 solos。",
+    "examples": [
+      [
+        "The orchestra accompanied three guest soloists.",
+        "乐队为三位客座独奏者伴奏。"
+      ],
+      [
+        "The two soloists joined the choir for the finale.",
+        "两位独唱者在终曲中与合唱团一起演唱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soloists#English",
+      "https://en.wiktionary.org/wiki/soloist#English"
+    ]
+  },
+  {
+    "word": "duets",
+    "ipa": "英 /djuˈets/；美 /duˈets/",
+    "meaning": "二重奏、二重唱〔复数〕",
+    "sense": "两条主要声部互相回应，可以是两个人唱，也可以是两件乐器奏。几首这样的作品就是 duets。",
+    "split": "duet + -s，/t/ 后读 /s/。原名借意大利 duetto，是 due 二的相关小称，远接拉丁 duo。",
+    "history": [
+      [
+        "拉丁 duo → 意大利 due、duetto → duet",
+        "二 → 两个主要声部的音乐名称"
+      ],
+      [
+        "duet + -s → duets",
+        "多首二重奏、二重唱"
+      ]
+    ],
+    "explanation": "piano duets 常是两人合作演奏钢琴的作品，具体一架还是两架琴要看编制。",
+    "usage": "vocal duets 二重唱；a collection of duets 二重奏作品集。",
+    "contrast": "duets 指主要声部、表演组合的二，不是说一首歌播放两遍；伴奏安排也可另有乐器。",
+    "examples": [
+      [
+        "They sang two duets at the concert.",
+        "他们在音乐会上唱了两首二重唱。"
+      ],
+      [
+        "The book contains easy piano duets.",
+        "书里收有简单的钢琴二重奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/duets#English",
+      "https://en.wiktionary.org/wiki/duet#English"
+    ]
+  },
+  {
+    "word": "quartets",
+    "ipa": "英 /kwɔːˈtets/；美 /kwɔːrˈtets/",
+    "meaning": "四重奏、四重唱；四人乐组〔复数〕",
+    "sense": "四个主要声部合成一组，作品与表演这类作品的四人组合都可叫 quartet；不止一组就是 quartets。",
+    "split": "quartet + -s。经法语 quartette 等路线接意大利 quartetto，来自 quarto 第四与小称材料，远接拉丁 quartus。",
+    "history": [
+      [
+        "拉丁 quartus → 意大利 quarto、quartetto → 法语等路线 → quartet",
+        "四的相关材料成为音乐名称"
+      ],
+      [
+        "quartet + -s → quartets",
+        "多首作品或多个四人乐组"
+      ]
+    ],
+    "explanation": "string quartets 可以说弦乐四重奏作品，也能说演奏这种编制的乐组，动词、上下文帮你分。",
+    "usage": "jazz quartets 爵士四人乐组；string quartets 弦乐四重奏。",
+    "contrast": "two quartets 可数两首作品，也可数两个乐组；不是只有看到数字四才能认出这个词。",
+    "examples": [
+      [
+        "She wrote three string quartets.",
+        "她写了三首弦乐四重奏。"
+      ],
+      [
+        "Several jazz quartets performed at the festival.",
+        "几个爵士四人乐组参加了音乐节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quartets#English",
+      "https://en.wiktionary.org/wiki/quartet#English"
+    ]
+  },
+  {
+    "word": "quintets",
+    "ipa": "/kwɪnˈtets/",
+    "meaning": "五重奏、五重唱；五人组合〔复数〕",
+    "sense": "从四个主要声部增加到五个，就从 quartet 走到 quintet；quintets 可以数作品，也可以数表演组合。",
+    "split": "quintet + -s。原名借法语 quintette 或意大利 quintetto，接 quinto 第五与小称材料，远接拉丁 quintus。",
+    "history": [
+      [
+        "拉丁 quintus → 意大利 quinto、quintetto → 英语 quintet",
+        "第五的材料成为五声部音乐名称"
+      ],
+      [
+        "quintet + -s → quintets",
+        "多首五重奏或多个五人组合"
+      ]
+    ],
+    "explanation": "wind quintets 是管乐五重奏作品或组合；不同类型的 quintet，具体乐器未必一样。",
+    "usage": "piano quintets 钢琴五重奏；jazz quintets 爵士五人乐组。",
+    "contrast": "quintets 的五不要求五件一模一样的乐器；它说主要声部或组合人数的安排。",
+    "examples": [
+      [
+        "The programme includes two piano quintets.",
+        "节目单包含两首钢琴五重奏。"
+      ],
+      [
+        "Both jazz quintets played original music.",
+        "两个爵士五人乐组都演奏了原创音乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quintets#English",
+      "https://en.wiktionary.org/wiki/quintet#English"
+    ]
+  },
+  {
+    "word": "choirs",
+    "ipa": "英 /ˈkwaɪəz/；美 /ˈkwaɪərz/",
+    "meaning": "合唱团、唱诗班〔复数〕",
+    "sense": "把合唱的人当成一个团体叫 choir；不同学校、教堂各有自己的团体，就可以说 choirs。",
+    "split": "choir + -s，末尾读 /z/。原词经古法语、中古英语接拉丁 chorus、希腊 khoros；后来的拉丁化拼写没有把读音也改成 chorus。",
+    "history": [
+      [
+        "希腊 khoros → 拉丁 chorus → 古法语、中古英语相关形式",
+        "歌舞队、合唱人群及相关空间"
+      ],
+      [
+        "英语拼写 choir → choirs",
+        "保留 /kwaɪ-/ 读音；多个合唱团"
+      ]
+    ],
+    "explanation": "school choirs、church choirs 分别说学校合唱团、教堂唱诗班；不是只数几位歌手。",
+    "usage": "children’s choirs 儿童合唱团；two local choirs 两个本地合唱团。",
+    "contrast": "choirs 数团体，choristers 数成员；一个 choir 可以有许多 choristers。",
+    "examples": [
+      [
+        "Three school choirs performed together.",
+        "三个学校合唱团一起演出。"
+      ],
+      [
+        "The festival welcomed choirs from across the country.",
+        "音乐节迎来了全国各地的合唱团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choirs#English",
+      "https://en.wiktionary.org/wiki/choir#English"
+    ]
+  },
+  {
+    "word": "choristers",
+    "ipa": "英 /ˈkɒrɪstəz/；美 /ˈkɔːrɪstərz/",
+    "meaning": "唱诗班、合唱团成员〔复数〕",
+    "sense": "一群穿着合唱服、站在一起唱歌的成员，可以叫 choristers；这个词尤其常见于教堂唱诗班。",
+    "split": "chorister + -s。人物词经法语 cueristre 等形式、中古英语 queristre 发展，后受 chorist 等词形影响；不是现代 choir 直接接 -ster。",
+    "history": [
+      [
+        "拉丁 chorus、chorista 一族 → 法语、中古英语相关人物名",
+        "合唱队成员"
+      ],
+      [
+        "chorister → choristers",
+        "拼写调整后的全词再加复数"
+      ]
+    ],
+    "explanation": "young choristers、cathedral choristers 常说年轻唱诗班成员、主教座堂唱诗班成员；也能用于一般合唱团成员。",
+    "usage": "the choristers rehearse 唱诗班成员排练；a group of choristers 一群合唱成员。",
+    "contrast": "choir 常读 /kwaɪ-/，chorister 常读 /kɒr-/、/kɔːr-/；同族词沿不同路线形成，读音不必完全一样。",
+    "examples": [
+      [
+        "The choristers rehearsed before the evening service.",
+        "唱诗班成员在晚间礼拜前排练。"
+      ],
+      [
+        "The older choristers helped the new members.",
+        "年长的唱诗班成员帮助了新成员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choristers#English",
+      "https://en.wiktionary.org/wiki/chorister#English"
+    ]
+  },
+  {
+    "word": "rehearse",
+    "ipa": "英 /rɪˈhɜːs/；美 /rɪˈhɜːrs/",
+    "meaning": "排练、预演；反复练习、复述",
+    "sense": "正式上场前，把要说、要做的内容一遍遍走过。像土地再耙一遍，熟悉的路线再过一次，就是这个词的老画面。",
+    "split": "借法语相关形式：re- 再 + hercier 耙地、反复经过，后者接 herse 耙。不是 re- + hear 听，虽然排练常要听声音。",
+    "history": [
+      [
+        "古法语 re- 再 + hercier 耙地、反复经过 → rehercier",
+        "再耙一遍土地的画面，已有重复、复述用途"
+      ],
+      [
+        "法语相关形式 → 中古英语 rehearse",
+        "先有重讲、复述等义，后来发展为演出前练习"
+      ]
+    ],
+    "explanation": "rehearse a play 排练戏剧，rehearse a speech 预练讲话；不局限于舞台音乐。",
+    "usage": "rehearse the scene 排练这一场；rehearse for the concert 为音乐会排练。",
+    "contrast": "practise 范围更广，rehearse 常为具体演出、讲话、行动先完整或分段走一遍。",
+    "examples": [
+      [
+        "We need to rehearse the final scene again.",
+        "我们需要再排一次最后一场。"
+      ],
+      [
+        "I rehearse the opening of my speech at home.",
+        "我在家预练讲话的开头。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/rehearse",
+      "https://en.wiktionary.org/wiki/rehearse#English"
+    ]
+  },
+  {
+    "word": "rehearses",
+    "ipa": "英 /rɪˈhɜːsɪz/；美 /rɪˈhɜːrsɪz/",
+    "meaning": "排练、预演、复述〔第三人称单数〕",
+    "sense": "说她每天先把舞台上的动作走一遍，或者乐队每周一起练，用 rehearse 的单数主语形式 rehearses。",
+    "split": "rehearse + -s，原词尾 e 保留，/s/ 后另读 /ɪz/；基础词的“再过一遍”接古法语耙地、重复词族。",
+    "history": [
+      [
+        "古法语 re- 再 + hercier 耙地、反复经过 → rehercier",
+        "再耙一遍土地的画面，已有重复、复述用途"
+      ],
+      [
+        "法语相关形式 → 中古英语 rehearse",
+        "先有重讲、复述等义，后来发展为演出前练习"
+      ],
+      [
+        "rehearse + -s → rehearses",
+        "他、她或单数团体排练、复述"
+      ]
+    ],
+    "explanation": "the band rehearses 说把乐队作为单数整体；she rehearses her lines 是她练台词。",
+    "usage": "rehearses every week 每周排练；rehearses the scene 排练这一场。",
+    "contrast": "rehearses 的 s 是 /s/，末尾新增 -s 成 /ɪz/；它不像 hears 那样把中间辅音读 /z/。",
+    "examples": [
+      [
+        "The band rehearses every Thursday.",
+        "乐队每周四排练。"
+      ],
+      [
+        "She rehearses her lines on the way to work.",
+        "她上班路上练台词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rehearses#English",
+      "https://www.etymonline.com/word/rehearse"
+    ]
+  },
+  {
+    "word": "rehearsed",
+    "ipa": "英 /rɪˈhɜːst/；美 /rɪˈhɜːrst/",
+    "meaning": "排练、预练了；事先练好的",
+    "sense": "刚才已经练过，叫 rehearsed；一段回答太顺太熟，也可让人觉得像事先练好的。",
+    "split": "rehearse 去词末 e，加完整 -ed，/s/ 后读 /t/。动作的过去形式也能描述预练后的状态。",
+    "history": [
+      [
+        "古法语 re- 再 + hercier 耙地、反复经过 → rehercier",
+        "再耙一遍土地的画面，已有重复、复述用途"
+      ],
+      [
+        "法语相关形式 → 中古英语 rehearse",
+        "先有重讲、复述等义，后来发展为演出前练习"
+      ],
+      [
+        "rehearse + -ed → rehearsed〔去 e〕",
+        "过去排练；事先练好的"
+      ]
+    ],
+    "explanation": "a well-rehearsed performance 是排练充分的演出；a rehearsed answer 常暗示回答准备过、未必自然。",
+    "usage": "rehearsed the dance 排练了舞蹈；a rehearsed response 事先练好的回应。",
+    "contrast": "prepared 是准备过的，rehearsed 更容易让人想到把实际话语、动作先练了几遍。",
+    "examples": [
+      [
+        "We rehearsed the dance twice before lunch.",
+        "午饭前我们把舞蹈排练了两遍。"
+      ],
+      [
+        "His answer sounded rehearsed.",
+        "他的回答听起来像是事先练好的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rehearsed#English",
+      "https://www.etymonline.com/word/rehearse"
+    ]
+  },
+  {
+    "word": "rehearsing",
+    "ipa": "英 /rɪˈhɜːsɪŋ/；美 /rɪˈhɜːrsɪŋ/",
+    "meaning": "正在排练、预演、反复练习",
+    "sense": "正式表演还没开始，演员正在一遍遍走台词、动作，就是 rehearsing。也可以在脑中先走一遍要说的话。",
+    "split": "rehearse 去末尾 e，加完整 -ing，基础词中的 /s/ 保留。",
+    "history": [
+      [
+        "古法语 re- 再 + hercier 耙地、反复经过 → rehercier",
+        "再耙一遍土地的画面，已有重复、复述用途"
+      ],
+      [
+        "法语相关形式 → 中古英语 rehearse",
+        "先有重讲、复述等义，后来发展为演出前练习"
+      ],
+      [
+        "rehearse + -ing → rehearsing〔去 e〕",
+        "排练、预练正在进行"
+      ]
+    ],
+    "explanation": "rehearsing for a show 为演出排练；rehearsing a conversation in your head 在脑中预演谈话。",
+    "usage": "rehearsing the scene 正在排练这一场；rehearsing the speech 预练讲话。",
+    "contrast": "rehearsing 是具体排练动作，rehearsal 可作为一次排练活动的名称；后者能直接说 a rehearsal。",
+    "examples": [
+      [
+        "The actors are rehearsing the final scene.",
+        "演员们正在排练最后一场。"
+      ],
+      [
+        "I kept rehearsing what I would say in my head.",
+        "我一直在脑中预演自己要说的话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rehearsing#English",
+      "https://www.etymonline.com/word/rehearse"
+    ]
+  },
+  {
+    "word": "rehearsal",
+    "ipa": "英 /rɪˈhɜːsəl/；美 /rɪˈhɜːrsəl/",
+    "meaning": "排练、预演；一次排练",
+    "sense": "把准备上场的内容先做一遍，这项活动、这一次练习叫 rehearsal。星期三的那一场排练，就能说 a rehearsal。",
+    "split": "现代对应 rehearse 去 e 加完整 -al，这里的 -al 形成动作名词；历史也有借古法语相应名词的分析，不是所有 -al 都作形容词。",
+    "history": [
+      [
+        "古法语 re- 再 + hercier 耙地、反复经过 → rehercier",
+        "再耙一遍土地的画面，已有重复、复述用途"
+      ],
+      [
+        "法语相关形式 → 中古英语 rehearse",
+        "先有重讲、复述等义，后来发展为演出前练习"
+      ],
+      [
+        "rehearse + 名词后缀 -al；也有法语名词来源分析",
+        "重复、复述的活动，后用于演出前的排练"
+      ]
+    ],
+    "explanation": "in rehearsal 是正在排练阶段；a dress rehearsal 常指按正式演出要求进行的彩排。",
+    "usage": "a final rehearsal 最后一次排练；rehearsal time 排练时间。",
+    "contrast": "rehearse 是做排练的动作，rehearsal 是活动名称；rehearsal 里的 hear 字母不说明来自 hear 听。",
+    "examples": [
+      [
+        "The rehearsal starts at six.",
+        "排练六点开始。"
+      ],
+      [
+        "The play is still in rehearsal.",
+        "这部戏仍在排练阶段。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/rehearsal",
+      "https://en.wiktionary.org/wiki/rehearsal#English"
+    ]
+  },
+  {
+    "word": "rehearsals",
+    "ipa": "英 /rɪˈhɜːsəlz/；美 /rɪˈhɜːrsəlz/",
+    "meaning": "排练、预演〔复数〕",
+    "sense": "一次排练是 a rehearsal，几次排练就是 rehearsals。它把一段准备工作分成一次次具体活动来数。",
+    "split": "rehearsal + -s，末尾读 /z/；名词 -al 在复数前保留，不回到动词 rehearse 去变化。",
+    "history": [
+      [
+        "古法语 re- 再 + hercier 耙地、反复经过 → rehercier",
+        "再耙一遍土地的画面，已有重复、复述用途"
+      ],
+      [
+        "法语相关形式 → 中古英语 rehearse",
+        "先有重讲、复述等义，后来发展为演出前练习"
+      ],
+      [
+        "rehearse + 名词后缀 -al；也有法语名词来源分析",
+        "重复、复述的活动，后用于演出前的排练"
+      ],
+      [
+        "rehearsal + -s → rehearsals",
+        "多次排练活动"
+      ]
+    ],
+    "explanation": "weekly rehearsals 每周的排练，several rehearsals 几次排练；都以活动次数为关注点。",
+    "usage": "attend rehearsals 参加排练；cancel rehearsals 取消排练。",
+    "contrast": "rehearses 是动词说某人排练，rehearsals 是名词说几次排练；两者不能只按词尾都有 s 混用。",
+    "examples": [
+      [
+        "We have three rehearsals before the concert.",
+        "音乐会前我们有三次排练。"
+      ],
+      [
+        "The evening rehearsals take place in the main hall.",
+        "晚间排练在大厅举行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rehearsals#English",
+      "https://www.etymonline.com/word/rehearsal"
+    ]
+  },
+  {
+    "word": "concertos",
+    "ipa": "英 /kənˈtʃɜːtəʊz/；美 /kənˈtʃertoʊz/",
+    "meaning": "协奏曲〔复数〕",
+    "sense": "常见是一位或几位独奏者与乐队配合、对话的作品。几部这样的协奏曲，叫 concertos。",
+    "split": "concerto 加英语复数 -s → concertos；也有 concerti。基础词直接借意大利 concerto，与经法语进入的 concert 同族异路。",
+    "history": [
+      [
+        "意大利 concerto → 英语 concerto",
+        "协奏曲的音乐体裁名称"
+      ],
+      [
+        "concerto + -s → concertos",
+        "多部协奏曲；另有意大利式复数 concerti"
+      ]
+    ],
+    "explanation": "piano concertos 钢琴协奏曲，violin concertos 小提琴协奏曲；乐器名常说明主要独奏角色。",
+    "usage": "two piano concertos 两首钢琴协奏曲；perform concertos 演奏协奏曲。",
+    "contrast": "concerts 数音乐会，concertos 数协奏曲；不是给 concert 加 o 就能在现代英语现场变出体裁。",
+    "examples": [
+      [
+        "The pianist recorded two concertos with the orchestra.",
+        "钢琴家与乐团录制了两首协奏曲。"
+      ],
+      [
+        "The programme includes violin concertos by two composers.",
+        "节目单包含两位作曲家的小提琴协奏曲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concertos#English",
+      "https://en.wiktionary.org/wiki/concerto#English"
+    ]
+  },
+  {
+    "word": "symphonies",
+    "ipa": "/ˈsɪmfəniz/",
+    "meaning": "交响曲；交响乐团〔复数〕",
+    "sense": "一部交响曲里，许多乐器把不同声部合成一个大整体；symphonies 常数这些作品，也有用体裁名称指乐团的用法。",
+    "split": "symphony 的辅音字母 n 后 y 改 i，加 -es。原词接希腊 syn- 一起 + phone 声音，经 symphonia、拉丁、法语进入英语。",
+    "history": [
+      [
+        "希腊 symphonia → 拉丁、法语 → symphony",
+        "声音相合；早期并不只指现代交响曲"
+      ],
+      [
+        "symphony → symphonies",
+        "多部交响曲；也可数相关乐团"
+      ]
+    ],
+    "explanation": "Beethoven’s symphonies 通常指贝多芬的交响曲；symphony 的乐团用法也可见于名称、演出报道。",
+    "usage": "nine symphonies 九部交响曲；perform symphonies 演奏交响曲。",
+    "contrast": "symphony 作为作品名称与 concerto 协奏曲的体裁不同；乐团可在同一场 concert 中演奏两类作品。",
+    "examples": [
+      [
+        "The orchestra will perform two symphonies this season.",
+        "乐团本乐季将演奏两部交响曲。"
+      ],
+      [
+        "She collected recordings of all nine symphonies.",
+        "她收集了全部九部交响曲的录音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/symphonies#English",
+      "https://en.wiktionary.org/wiki/symphony#English"
+    ]
+  },
+  {
+    "word": "overtures",
+    "ipa": "英 /ˈəʊvətjʊəz/；美 /ˈoʊvərtʃərz/",
+    "meaning": "序曲；主动示好、交涉提议〔复数〕",
+    "sense": "音乐先拉开帷幕，是序曲；交往中先把门打开、试着接近对方，是示好的提议。overtures 保留“开启”的两条常用支线。",
+    "split": "overture + -s。原词经古法语 overture 开口、提议，接拉丁 apertura；不是现代 overt 公开的加后缀来解释全部意思。",
+    "history": [
+      [
+        "拉丁 apertura → 古法语 overture → 英语 overture",
+        "开启、开口、提议"
+      ],
+      [
+        "音乐序曲与交涉开端 → overtures",
+        "多首序曲；多次接近、示好"
+      ]
+    ],
+    "explanation": "operatic overtures 是歌剧序曲；make overtures to someone 是向某人主动接近、示好。",
+    "usage": "concert overtures 音乐会序曲；friendly overtures 友好的示意。",
+    "contrast": "overtures 不一定涉及音乐；如果是 made、rejected friendly overtures，通常在说人际接近或交涉。",
+    "examples": [
+      [
+        "The orchestra recorded several operatic overtures.",
+        "乐团录制了几首歌剧序曲。"
+      ],
+      [
+        "They responded warmly to our friendly overtures.",
+        "他们热情回应了我们友好的示意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overtures#English",
+      "https://en.wiktionary.org/wiki/overture#English"
+    ]
+  },
+  {
+    "word": "interludes",
+    "ipa": "英 /ˈɪntəluːdz/；美 /ˈɪntərluːdz/",
+    "meaning": "间奏、插曲；短暂插入的经历〔复数〕",
+    "sense": "主线暂时停一下，中间插进一小段表演、音乐或轻松经历；这些夹在中间的小段叫 interludes。",
+    "split": "interlude + -s。基础名称经古法语 entrelude 或中世纪拉丁 interludium，接 inter- 之间 + ludus 表演、戏剧。",
+    "history": [
+      [
+        "inter- + ludus → interludium；古法语 entrelude",
+        "插在较长表演中的短剧"
+      ],
+      [
+        "英语 interlude → interludes",
+        "间奏；暂时插入的小段、经历"
+      ]
+    ],
+    "explanation": "musical interludes 是中间的音乐段；peaceful interludes 是大段忙乱中短暂的平静时光。",
+    "usage": "short interludes 短间奏、短暂插曲；comic interludes 喜剧插段。",
+    "contrast": "interval 强调间隔、休息，interlude 常强调中间插入了什么内容；一个留空，一个有小段内容。",
+    "examples": [
+      [
+        "Short musical interludes separated the scenes.",
+        "短小的音乐间奏分隔了各场戏。"
+      ],
+      [
+        "The trip gave us a few peaceful interludes.",
+        "旅行给了我们几段平静时光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interludes#English",
+      "https://en.wiktionary.org/wiki/interlude#English"
+    ]
+  },
+  {
+    "word": "interval",
+    "ipa": "英 /ˈɪntəvəl/；美 /ˈɪntərvəl/",
+    "meaning": "间隔；幕间休息〔尤英式〕；音程",
+    "sense": "两件事、两个位置或两个音之间隔了多少，先抓住这个“中间的距离”。它可以是时间，也可以是音高。",
+    "split": "经法语、拉丁语路线接 intervallum：inter- 之间 + vallum 栅墙、壁垒。不是英语 wall 先变形再放到 inter 后面。",
+    "history": [
+      [
+        "拉丁 inter 之间 + vallum 栅墙、壁垒 → intervallum",
+        "原有壁垒之间的空间，早已有距离、时间间隔义"
+      ],
+      [
+        "法语 intervalle、拉丁语路线 → interval",
+        "间隔、暂停；后来还有两音高低的距离"
+      ]
+    ],
+    "explanation": "a ten-minute interval 是十分钟间隔；演出中的 the interval 常指幕间休息；音乐里的 interval 指两个音的音高距离。",
+    "usage": "at an interval 间隔着；during the interval 幕间休息时；a musical interval 音程。",
+    "contrast": "interlude 常是中间插进的一小段内容，interval 关注两端之间的空隙、距离或休息。",
+    "examples": [
+      [
+        "There was a short interval between the two talks.",
+        "两场讲话之间有一小段间隔。"
+      ],
+      [
+        "We bought drinks during the interval.",
+        "幕间休息时我们买了饮料。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/interval",
+      "https://en.wiktionary.org/wiki/interval#English"
+    ]
+  },
+  {
+    "word": "intervals",
+    "ipa": "英 /ˈɪntəvəlz/；美 /ˈɪntərvəlz/",
+    "meaning": "间隔；音程〔复数〕",
+    "sense": "一盏灯亮过又灭，隔一会儿再亮：每次之间的空当，是 intervals。换成音乐，就是不同音之间的高低距离。",
+    "split": "interval + -s，末尾读 /z/。完整借词接拉丁 inter- 与 vallum 的旧组合，再在英语中变复数。",
+    "history": [
+      [
+        "拉丁 inter 之间 + vallum 栅墙、壁垒 → intervallum",
+        "原有壁垒之间的空间，早已有距离、时间间隔义"
+      ],
+      [
+        "法语 intervalle、拉丁语路线 → interval",
+        "间隔、暂停；后来还有两音高低的距离"
+      ],
+      [
+        "interval + -s → intervals",
+        "多个间隔、不同音程"
+      ]
+    ],
+    "explanation": "at regular intervals 是每隔相同时间或距离；at intervals 也能泛说不时、间歇地。",
+    "usage": "at ten-minute intervals 每隔十分钟；musical intervals 音程。",
+    "contrast": "regular intervals 说间距规律，frequently 只说频繁；间隔均匀不一定很频繁。",
+    "examples": [
+      [
+        "The lights flashed at regular intervals.",
+        "灯每隔固定时间闪一下。"
+      ],
+      [
+        "The exercise helps students recognise musical intervals.",
+        "这项练习帮助学生辨认音程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intervals#English",
+      "https://www.etymonline.com/word/interval"
+    ]
+  },
+  {
+    "word": "auditions",
+    "ipa": "英 /ɔːˈdɪʃənz/；美 /ɔːˈdɪʃənz/、/ɑːˈdɪʃənz/",
+    "meaning": "试演、试镜〔复数〕；试演、选试演员〔第三人称单数〕",
+    "sense": "正式决定由谁上场前，先让候选人演一小段：这些选人的试演叫 auditions；有人参加、组织试演，也能作动词。",
+    "split": "audition + -s，末尾 /n/ 后读 /z/。名词由拉丁、法语的听取词族来，现代动词再由名词发展。",
+    "history": [
+      [
+        "拉丁 auditio、法语 audicion → audition",
+        "听、听取；后来用于挑选表演者的试演"
+      ],
+      [
+        "英语 audition 名词 → 动词",
+        "一次试演 → 参加试演、让人试演"
+      ],
+      [
+        "audition + -s → auditions",
+        "多次试演；他、她参加或主持试演"
+      ]
+    ],
+    "explanation": "auditions for a play 是为戏剧选演员的试演；auditions for a role 可说某人为角色试演。",
+    "usage": "hold auditions 举行试演；open auditions 公开试演。",
+    "contrast": "audition 关注选人，rehearsal 关注正式表演前的练习；试演时演得像表演，也不等于已经获得角色。",
+    "examples": [
+      [
+        "The theatre will hold auditions next week.",
+        "剧院下周将举行试演。"
+      ],
+      [
+        "She auditions for a place in the choir.",
+        "她通过试唱争取加入合唱团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditions#English",
+      "https://en.wiktionary.org/wiki/audition#English"
+    ]
+  },
+  {
+    "word": "auditioned",
+    "ipa": "英 /ɔːˈdɪʃənd/；美 /ɔːˈdɪʃənd/、/ɑːˈdɪʃənd/",
+    "meaning": "参加试演、试镜了；让……试演了",
+    "sense": "昨天上台演一段给选角的人看，叫 auditioned；反过来，选角者让几个人各演一段，也能用同一个动词。",
+    "split": "audition + -ed，末尾 /n/ 后读 /d/。这里不去 n、不双写 n，完整动词直接变化。",
+    "history": [
+      [
+        "拉丁 auditio、法语 audicion → audition",
+        "听、听取；后来用于挑选表演者的试演"
+      ],
+      [
+        "英语 audition 名词 → 动词",
+        "一次试演 → 参加试演、让人试演"
+      ],
+      [
+        "audition + -ed → auditioned",
+        "过去参加试演；过去让候选人试演"
+      ]
+    ],
+    "explanation": "auditioned for a role 是为角色试演；auditioned several actors 则说选角者让几位演员试演。",
+    "usage": "auditioned for the part 为角色试镜了；auditioned singers 让歌手试唱了。",
+    "contrast": "是否有直接宾语很关键：auditioned the actor 是让演员试演，不是说自己成了那位演员。",
+    "examples": [
+      [
+        "She auditioned for the lead role.",
+        "她参加了主角的试镜。"
+      ],
+      [
+        "The director auditioned six actors that afternoon.",
+        "导演那天下午让六位演员试演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditioned#English",
+      "https://en.wiktionary.org/wiki/audition#English"
+    ]
+  },
+  {
+    "word": "auditioning",
+    "ipa": "英 /ɔːˈdɪʃənɪŋ/；美 /ɔːˈdɪʃənɪŋ/、/ɑːˈdɪʃənɪŋ/",
+    "meaning": "正在试演、试镜；正在选试表演者",
+    "sense": "候选人正在表演给选角者看，是 auditioning；选角者正在逐个看候选人的试演，也用这个动词。",
+    "split": "audition + -ing，保留原拼写。先由听取的名词形成现代试演动词，再加进行、活动词尾。",
+    "history": [
+      [
+        "拉丁 auditio、法语 audicion → audition",
+        "听、听取；后来用于挑选表演者的试演"
+      ],
+      [
+        "英语 audition 名词 → 动词",
+        "一次试演 → 参加试演、让人试演"
+      ],
+      [
+        "audition + -ing → auditioning",
+        "试演、挑选表演者正在进行"
+      ]
+    ],
+    "explanation": "auditioning for a role 通常是争取角色，auditioning actors 通常是让演员逐个试演。",
+    "usage": "auditioning for the choir 为合唱团试唱；auditioning dancers 选试舞者。",
+    "contrast": "auditioning 不限于声音：演员、舞者也可通过试演接受挑选，现代用途比最早听取义更广。",
+    "examples": [
+      [
+        "He is auditioning for a role in the new play.",
+        "他正在为新戏里的角色试演。"
+      ],
+      [
+        "The team is auditioning dancers for the show.",
+        "团队正在为演出选试舞者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditioning#English",
+      "https://en.wiktionary.org/wiki/audition#English"
+    ]
+  }
+]

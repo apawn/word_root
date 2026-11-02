@@ -5,7 +5,7 @@
     "core": "TEND / TENS：把某物朝一个方向伸展、拉紧",
     "image": "伸手到远处；把绳拉紧；把注意力集中到一个方向",
     "intro": "先想象**两只手把一根绳子朝两边拉开**。拉丁语 tendere 可以表示伸展、拉紧、朝某处去。extend 把边界往外推，tension 是绷紧状态，attend 把注意力放过去，intend 把心思指向将要做的事。它们并非每个都保留一根看得见的绳子，但“朝某处用力、伸出”的画面能帮你串起词义。",
-    "forms": "**tend-、tens-、tent-** 常反映 tendere 及其分词形式 tensus / tentus。别只凭几字母就认亲：**tenere 是“持有”**，在另一组讲；**tender“柔软”来自 tener，tense“时态”来自 tempus“时间”**，本页把同形词的路线分别写清。**attempt、tempt、tentative、tentacle** 可以可靠地追到 tentare / temptare“触探、试验、引诱”；更早是否直接来自 tendere 有不同分析，因此图从这一可靠节点开始。**tendon** 则先来自希腊 ténōn，再在拉丁语等传播中受 tendere 影响，不能倒画成拉丁动词直接生出希腊词。",
+    "forms": "**tend-、tens-、tent-** 常反映 tendere 及其分词形式 tensus / tentus。别只凭几字母就认亲：**tenere 是“持有”**，在另一组讲；**tender“柔软”来自 tener，tense“时态”来自 tempus“时间”**，本页把同形词的路线分别写清。**attempt、tempt、tentative、tentacle** 可以可靠地追到 tentare / temptare“触探、试验、引诱”；更早是否直接来自 tendere 有不同分析，因此图从这一可靠节点开始。**tendon** 则先来自希腊 ténōn，再在拉丁语等传播中受 tendere 影响，不能倒画成拉丁动词直接生出希腊词。\n\n朝向、伸展的词族发展为打算、意图；intended 也常修饰原定用途。\n\n空间、时间、范围均可扩展，extended 也常描述较长、扩大的。\n\n朝向伸展的拉丁词族，经法语发展到注意、照料、参加。\n\n拉丁试探、尝试词族经法语借入，不与 attend 直接互相派生。\n\n拉丁尝试词经法语借入，尝试不承诺成功。\n\n拉丁 ad- 与 temptare 到 attemptare，经法语借入。\n\n倾向义经法语接拉丁 tendere，照料义由 attend 等缩短，现代同形但近源分支不同。\n\n拉丁 praetendere 经法语声称、提出等义，到英语假装，不当成现代英语 tend 的随意加尾。\n\n拉丁 ex 与 tendere 经法语相应形式进入英语。\n\n拉丁 ex- 加 tendere 伸展，现代单数主语用 extends。\n\ntempt 接拉丁 tentare、temptare 摸、试、试探等材料；远处与伸展词族的关系有不同分析，不把词根位置当确定的现代逐字拆分。tempt 去末尾 e 加 -ed，/t/ 后读 /ɪd/。\n\n拉丁 ex- 向外 + tendere 伸展 → extendere、extensio，进入英语后用于延期、扩建、扩展功能等。现代 extension 加复数 -s。\n\ntension 经法语、拉丁 tensio 拉伸，接 tendere 伸展的词族。现代复数常说紧张关系、矛盾或各处拉力，以绷紧的画面理解。\n\n趋向 tend 接法语、拉丁 tendere 伸展；照料 tend 常由 attend 截短，远处也连向拉丁伸向的词族。现代加 -ed，/d/ 后读 /ɪd/，两条近源分别说明。\n\nintend 接拉丁 intendere 伸向、注意、打算，现代 -s，末尾 /dz/。把注意、计划指向某事的画面。",
     "branches": [
       [
         "向外伸开",
@@ -38,6 +38,66 @@
       [
         "帐篷、拉索与张紧结构",
         "tent · tentorium · tendon · tensor"
+      ],
+      [
+        "intend → intended：心思朝着的目标",
+        "intend · intended"
+      ],
+      [
+        "extend → extended：向外伸展、延长",
+        "extend · extended"
+      ],
+      [
+        "attend → attended：把注意伸向与到场",
+        "attend · attended"
+      ],
+      [
+        "attempt → attempts：试着做与一次次尝试",
+        "attempt · attempts"
+      ],
+      [
+        "attempt → attempted：着手试着做",
+        "attempt · attempted"
+      ],
+      [
+        "attempt → attempting：把目标拿来试着做",
+        "attempt · attempted · attempting"
+      ],
+      [
+        "tend → tends：倾向一个方向与照料",
+        "tend · tends"
+      ],
+      [
+        "pretend → pretending：把一种样子摆在别人面前",
+        "pretend · pretending"
+      ],
+      [
+        "extend → extending：把范围向外拉长",
+        "extend · extending"
+      ],
+      [
+        "extend → extends：向外伸、把范围或时间拉长",
+        "extend · extends"
+      ],
+      [
+        "tentare、temptare → tempted：试探到诱使",
+        "tempted"
+      ],
+      [
+        "向外伸展 → extension → extensions",
+        "extensions"
+      ],
+      [
+        "tens- 拉伸 → tension → tensions",
+        "tensions"
+      ],
+      [
+        "伸向 → tend；attend 截短 → tend",
+        "tended"
+      ],
+      [
+        "in- 朝向 + tend- 伸 → intends",
+        "intends"
       ]
     ],
     "contrasts": "**tend / attend / intend**：事情往往朝某方向发展 / 人或注意力到场 / 心里打算做。\n\n**attention / intention / intension**：注意力 / 意图 / 逻辑中的内涵。intention 和 intension 同音，拼写与用途要分清。\n\n**extensive / intensive / intense**：覆盖范围广 / 投入密集 / 感受或状态强烈。\n\n**attendee / attendant / attending**：来参加活动的人 / 负责照应的人或“伴随的” / 正在参加，医疗语境还有特定任职含义。\n\n**ostensible / ostensive / ostentatious**：表面声称的 / 直接指给你看的 / 刻意显摆的。\n\n**pretend / pretense（pretence）/ pretension / pretentious**：假装 / 假装或借口 / 自命的资格、做作 / 自命不凡的。\n\n**tensile / elastic / inextensible**：关于受拉伸的 / 变形后能恢复的 / 不能伸长的。这几种材料性质不能互相顶替。",
@@ -155,7 +215,22 @@
       "tensility",
       "tensure",
       "tentage",
-      "tentiginous"
+      "tentiginous",
+      "intended",
+      "extended",
+      "attended",
+      "attempts",
+      "attempted",
+      "attempting",
+      "tends",
+      "pretending",
+      "extending",
+      "extends",
+      "tempted",
+      "extensions",
+      "tensions",
+      "tended",
+      "intends"
     ]
   }
 ]

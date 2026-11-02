@@ -1,0 +1,87 @@
+[
+  {
+    "id": "B3169",
+    "meaning": "记号、痕迹、分数；注意、评论与各种标识",
+    "core": "MARK：留下能识别的痕迹，再到注意和标准",
+    "image": "从一条标线、一道分数开始，再读 remark 评论、remarkable 值得注意；benchmark、hallmark、earmark 各有自己的历史场景。",
+    "intro": "mark 继承古英语边界、界标词族。remark 经法语的重新标出、注意等用法发展；不是现代所有 re- 都只译再次。各类标识按功能归组。",
+    "forms": "mark → marked、marking、marker；remark → remarkable → remarkably；birthmark、earmark 看身体旧场景；trade、bench、hall + mark 看固定制度或功能。\n\n本族边界标记词发展，旧货币马克另有计重背景。\n\n法语 remarquer 的 re- 与 marquer 标记、注意材料，现代名词复数和动词三单同形。\n\ner 命名做标记的器具、指示物或人员，常用义随场景区分。\n\n名词可转动词，数字用途借回到某一位置、入口的功能。\n\nmarkup 连着 mark up，写加价额，也有文本标记等用法；markdown 连着 mark down，写降价、降幅。分写短语的动词性与连写名词分开认，软件名 Markdown 另按专名理解。",
+    "branches": [
+      [
+        "记号与工具",
+        "mark · marked · marking · marker · checkmark"
+      ],
+      [
+        "注意、评论及显著",
+        "remark · remarkable · remarkably"
+      ],
+      [
+        "身体与专门用途",
+        "birthmark · earmark"
+      ],
+      [
+        "商标、标准和特征",
+        "trademark · benchmark · hallmark"
+      ],
+      [
+        "已学相关标记词",
+        "landmark · bookmark · watermark · postmark · marksman"
+      ],
+      [
+        "mark → marks：界标、痕迹与分数",
+        "mark · marks"
+      ],
+      [
+        "remark → remarks：注意到、说出一点评述",
+        "remark · remarks"
+      ],
+      [
+        "marker → markers：记号笔、标记物",
+        "mark · marker · markers"
+      ],
+      [
+        "mark 的阅读位置组合及变化",
+        "bookmark · bookmarks · bookmarked · bookmarking"
+      ],
+      [
+        "markup、markdown：价格标高、标低形成的名词",
+        "mark · markup · markups · markdown · markdowns"
+      ]
+    ],
+    "contrasts": "remarkable 非凡不只是被评论过；earmark 预留不等于已支出；benchmark 标准，hallmark 特点、检验印记。",
+    "practice": "The editor remarked on the remarkably clear wording and called clarity the writer’s hallmark.\n\n编辑谈到措辞清晰得出色，并称清晰是这位作者的标志特点。",
+    "words": [
+      "mark",
+      "marked",
+      "marking",
+      "marker",
+      "checkmark",
+      "remark",
+      "remarkable",
+      "remarkably",
+      "birthmark",
+      "earmark",
+      "trademark",
+      "benchmark",
+      "hallmark",
+      "landmark",
+      "bookmark",
+      "watermark",
+      "postmark",
+      "marksman",
+      "marks",
+      "remarks",
+      "markers",
+      "bookmarks",
+      "bookmarked",
+      "bookmarking",
+      "markup",
+      "markups",
+      "markdown",
+      "markdowns"
+    ],
+    "exclude": {
+      "re-mark": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

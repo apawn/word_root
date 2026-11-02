@@ -1,0 +1,161 @@
+"""Assembly, row, bell and gate: collecting, lines, ringing and controlled openings."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+A=[['法语 assembler、assemblée 等 → assembly','聚在一起 → 集会；部件组合'],['不同对象的集合','议会成员、学校集会；机器装配；计算机汇编语言'],['人物和拆装派生','assemblyman、assemblywoman；disassembly、reassembly']]
+W('assemblyman','英 /əˈsemblimən/；美 /əˈsemblimən/','男性议会成员、男性议员〔特定议会名称中〕',
+ 'assembly 若指议会，加入 man 就是其中的男性成员；不是把机器组起来的男工人。',
+ 'assembly 议会、集会 + man，特定机构的成员名称。assembly 的集会义与装配义同拼写，但这个人物称号接政治集会一支。',A[:1]+[['assembly + man → assemblyman','议会中的男性成员']],
+ 'a local assemblyman 地方议会议员，meet an assemblyman 会见一位议员，an assemblyman’s speech 议员发言。',
+ 'a local assemblyman；an assemblyman’s speech；meet an assemblyman。',
+ 'assemblyman 政治成员，assembly worker 装配工；assembly member、legislator 等不突出性别的表达依机构语境选。',
+ ('The assemblyman spoke about the new school.','议员谈到了新学校。'),('Residents met their assemblyman at the public meeting.','居民在公开会议上会见了他们的议员。'))
+W('assemblywoman','/əˈsembliwʊmən/','女性议会成员、女议员〔特定议会名称中〕',
+ '相应议会中的女性成员，woman 说明人物，不是装配一位女性出来。',
+ 'assembly 议会 + woman，和 assemblyman 并列；复数 assemblywomen 中 women 读音也会变化。',A[:1]+[['assembly + woman → assemblywoman','议会中的女性成员']],
+ 'an assemblywoman’s proposal 女议员提案，a state assemblywoman 州议会女议员，meet the assemblywoman 会见女议员。',
+ 'an assemblywoman’s proposal；a state assemblywoman；meet the assemblywoman。',
+ 'assemblywoman 职位范围依相应机构，不等于所有女性政治人物；assemblywomen 是复数，不把末尾再直接加 s。',
+ ('The assemblywoman introduced the proposal.','女议员提出了提案。'),('Students asked the assemblywoman about her work.','学生向女议员询问她的工作。'))
+W('disassembly','/ˌdɪsəˈsembli/','拆卸、拆解；反汇编及其结果〔计算机〕',
+ '原来装成一个整体，现在拆回零件；计算机里从机器码看回汇编表示，也借这种拆开看结构的画面。',
+ 'dis- 分开、解除 + assembly 装配。计算机专门义接 assembly language 的汇编名称，不是把议会成员拆开。',A[:1]+[['dis- + assembly → disassembly','装配的反向操作 → 拆解'],['计算机专门引申','把机器码转换为汇编表示的反汇编、结果']],
+ 'disassembly instructions 拆卸说明，complete disassembly 完全拆卸，inspect the disassembly 查看反汇编结果。',
+ 'disassembly instructions；complete disassembly；inspect the disassembly。',
+ 'disassembly 拆装或机器码转换，disassemble 动作；反汇编通常不等于恢复原来所有源代码与注释。',
+ ('The manual includes disassembly instructions.','手册附有拆卸说明。'),('The engineer inspected the disassembly to understand the program.','工程师查看反汇编结果来理解程序。'))
+W('reassembly','/ˌriːəˈsembli/','重新装配、重新组装',
+ '拆过、散开过的部分再装回整体；重点是重装，不保证一次就装对。',
+ 're- 再 + assembly，动作、过程名词；reassemble 是相应动词，不能把 assembly 的集会义每次照搬进去。',A[:1]+[['re- + assembly → reassembly','再次组装的过程']],
+ 'reassembly instructions 重装说明，after reassembly 重装后，disassembly and reassembly 拆卸与重新装配。',
+ 'reassembly instructions；after reassembly；disassembly and reassembly。',
+ 'reassembly 重装，replacement 更换；把原零件装回与换一套新零件可以不同。',
+ ('She followed the reassembly instructions carefully.','她仔细按重新装配说明操作。'),('The clock worked again after reassembly.','重新装好后，钟又能走了。'))
+R('B4153','人聚集或零件装成整体，派生要选对对象','ASSEMBLY：议会聚人，装配聚零件，计算机另有专名','assembly → assemblyman、assemblywoman；disassembly → reassembly 分拆与重装。',
+ '人物称号接议会一支，拆装接零件；计算机 disassembly 接汇编表示，不是拆成高级语言原稿。',
+ 'assembler、assemblée 等 → assembly；assembly + man/woman；dis-/re- + assembly。',
+ [['集会、装配基础与议会人物','assembly · assemblyman · assemblywoman'],['拆开与再装','disassembly · reassembly']],
+ 'assemblyman/assembly worker 议员装配工；assemblywoman 复数 assemblywomen；reassembly/replacement 重装更换。',
+ 'The manual explains disassembly and reassembly.\n\n手册解释了拆卸与重新装配。','assembly assemblyman assemblywoman disassembly reassembly')
+R0=[['古英语 ræw 等 → row〔一排〕','一条线、一列相继排列的东西'],['古英语 rōwan → row〔划船〕','用桨推进船；与一排名词分历史'],['较晚 row /raʊ/','吵闹、争吵；源头不明'],['派生词各选一义','hedgerow 接行列；rower、rowboat 接划船']]
+W('row','一排、划船：英 /rəʊ/、美 /roʊ/；争吵 /raʊ/','一排、一行；划船；争吵、吵闹',
+ '座位排一条是 row；用桨划船也 row，但有另一条旧词源。have a row 是争吵，读成 /raʊ/，不能只看三个字母一直同读。',
+ '行列继承古英语 ræw 等；划船继承 rōwan；争吵为较晚、来源不定的同形词。它们不是一排人开始吵架、然后一起划船的单线故事。',R0,
+ 'a row of houses 一排房，the first row 第一排，row a boat 划船，in a row 连续地，have a row 争吵。',
+ 'a row of；in a row；row a boat；have a row。',
+ '表格 row 行与 column 列按软件常见布局区分；争吵 row /raʊ/ 与划船 row /roʊ/ 不同读音。',
+ ('We sat in the front row.','我们坐在前排。'),('She rowed the boat across the lake.','她划船穿过湖面。'),('They had a row about the broken window.','他们为破窗户吵了一架。'),
+ sources=['https://en.wiktionary.org/wiki/row#English','https://www.etymonline.com/word/row'])
+W('rower','英 /ˈrəʊə/；美 /ˈroʊər/','划船者、赛艇运动员；划船机〔部分用法〕',
+ '用桨推船的人；健身房里的 rower 也可指模仿这套动作的机器。不是把一排人称作一个 rower。',
+ 'row 划船 + -er，中古英语已有 rowere 等人物词；现代器械义延伸到执行、模拟划船动作的工具。',R0[1:2]+[['row〔划船〕+ -er → rower','划船的人；相应锻炼机器']],
+ 'a skilled rower 熟练划船者，an Olympic rower 奥运赛艇运动员，an indoor rower 室内划船机。',
+ 'a skilled rower；an Olympic rower；an indoor rower。',
+ 'rower 人物或机器，rowboat 是船；-er 不直接告诉你器具究竟是船还是健身设备。',
+ ('The rower moved smoothly across the water.','划船者平稳地划过水面。'),('The gym added two indoor rowers.','健身房增加了两台室内划船机。'))
+W('hedgerow','英 /ˈhedʒrəʊ/；美 /ˈhedʒroʊ/','树篱、灌木篱行',
+ '一排密植的灌木或小树形成边界、遮挡，不是任意一棵独立树；row 在这里选排列义。',
+ 'hedge 树篱 + row 一排，早期英语已有相应组合，经中古英语传下；不是 edge 边缘少了、加了几个字母。',R0[:1]+[['hedge + row → hedgerow','连成一排的篱木、灌丛边界']],
+ 'a thick hedgerow 浓密树篱，birds in the hedgerow 篱间鸟，a path along the hedgerow 沿树篱的小路。',
+ 'a thick hedgerow；birds in the hedgerow；along the hedgerow。',
+ 'hedgerow 植物行列，fence 可木、金属等围栏；row 在此不接划船或争吵。',
+ ('Birds nested in the hedgerow.','鸟在树篱里筑巢。'),('We followed a path along the hedgerow.','我们沿树篱边的小路走。'))
+R('B3449','一排、划船、争吵分来源与读音','ROW：前两义同读，争吵换成 /raʊ/','row → rower、rowboat 接划船；hedgerow 接排列；row 的争吵单独辨音。',
+ 'rowed 划过的过去式读 /roʊd/，行列的 row 与划船词却不是一条现代派生。不要把同音等于同源。',
+ 'ræw → row 一排；rōwan → row 划船 → rower、rowboat；较晚来源不定词 → row 争吵；hedge + row。',
+ [['基础同形词与排列组合','row · hedgerow'],['划船人物与器具','rower · rowboat']],
+ 'row /roʊ/、/rəʊ/ 与争吵 /raʊ/；row/column 行列；hedgerow/fence 植物与广义围栏；rower/rowboat 人机与船。',
+ 'The rower passed a row of houses by the river.\n\n划船者经过河边一排房屋。','row hedgerow rower rowboat')
+B=[['古英语 belle → 中古英语 belle → bell','敲击发声的钟、铃'],['声音、形状与功能扩展','钟声报信；钟形物；门铃等'],['常用组合','cowbell、kettlebell；bellman；bellwether 领头羊与风向标；bellflower 钟形花']]
+W('bell','/bel/','钟、铃；钟声、铃声；钟形物',
+ '敲一下会响的金属器物，以及它发出的信号；后来外形像钟口的东西也可带 bell 名称，不一定真的会响。',
+ '继承古英语 belle，经中古英语传下。英语也有古老的鸣叫、吼叫同族动词形式，但常用学习先抓器物、声音、形状。',B,
+ 'ring a bell 按铃、让人觉得耳熟，a church bell 教堂钟，a bicycle bell 自行车铃，saved by the bell 靠及时信号解围。',
+ 'ring a bell；a church bell；a bicycle bell；saved by the bell。',
+ 'that rings a bell 是听着熟悉、勾起印象，不保证已经完整想起；bell 形状义不要求有金属声。',
+ ('The bell rang at noon.','钟在中午响了。'),('Her name rings a bell, but I cannot place her.','她的名字听着耳熟，但我想不起是谁。'))
+W('cowbell','/ˈkaʊbel/','牛铃；牛铃打击乐器',
+ '挂在牛颈上让人听见它在哪的铃；打击乐借这种器具，乐器款常由外部敲击，不必里面还有悬挂铃舌。',
+ 'cow 牛 + bell 铃，先按佩戴对象命名，再成为打击乐器类别。',B[:1]+[['cow + bell → cowbell','牛颈所挂铃'],['器物进入音乐场景','牛铃型打击乐器']],
+ 'a cowbell around the neck 牛颈铃，play the cowbell 演奏牛铃，a cowbell rhythm 牛铃节奏。',
+ 'play the cowbell；a cowbell rhythm；a cowbell around the neck。',
+ 'cowbell 乐器不必每次来自实际放牧的牛；cow + bell 说名称起点，不是全部现代用途。',
+ ('A cowbell sounded from the hillside.','山坡上传来牛铃声。'),('The drummer added a cowbell rhythm.','鼓手加入了一段牛铃节奏。'))
+W('bellman','/ˈbelmən/','摇铃传告者〔旧〕；旅馆行李员',
+ '旧城镇里摇铃吸引注意、宣布消息的人；旅馆里也可指响应客人或前台呼叫、帮搬行李的工作人员。',
+ 'bell 铃 + man 人，人物职能随使用铃的场景发展；现代旅馆用法常与 bellhop、bellboy 等相关称呼相近。',B[:1]+[['bell + man → bellman','摇铃传告的人'],['旅馆服务场景','行李服务等工作人员']],
+ 'a hotel bellman 旅馆行李员，ask the bellman 请行李员帮忙，a town bellman 城镇摇铃传告者。',
+ 'a hotel bellman；ask the bellman；a town bellman。',
+ 'bellman 不是所有会敲铃的人都通用的职业；酒店语境不必译成给城市传告消息的人。',
+ ('The bellman carried the bags to the room.','行李员把箱包送进房间。'),('The old illustration shows a town bellman.','旧插画里画着一位城镇摇铃传告者。'))
+W('kettlebell','/ˈketəlbel/','壶铃',
+ '一个带提把的配重，形状让人想到壶；bell 在这类器械名里沿用钟铃形配重的命名感，不是拿烧水壶当响铃。',
+ 'kettle 壶 + bell，组合为特定配重训练器具。它没有因 bell 结尾就必须敲响的要求。',B[:1]+[['kettle + bell → kettlebell','壶状、带握把的配重器具']],
+ 'a kettlebell handle 壶铃提把，a light kettlebell 轻壶铃，kettlebell training 壶铃训练。',
+ 'a kettlebell handle；a light kettlebell；kettlebell training。',
+ 'kettlebell 多一体握把，dumbbell 常两端配重、中间短杆；二者都是器械而形状不同。',
+ ('The trainer placed the kettlebell on the floor.','教练把壶铃放到地板上。'),('The shop sells kettlebells in several weights.','店里卖几种重量的壶铃。'))
+W('bellwether','英 /ˈbelweðə/；美 /ˈbelweðər/','领头羊；风向标、趋势指示物',
+ '羊群里带铃走在前面的羊一动，其他羊跟着；后来某行业、群体先变的对象，就被当作整体趋势的信号。',
+ 'bell 铃 + wether 阉公羊，中古英语已有相应组合。wether 不是 weather 天气，风向标是中文比喻翻法，不是原词在预测风。',B[:1]+[['bell + wether → bellwether','戴铃领头羊'],['领头信号的比喻','能指示更广趋势的人、事物']],
+ 'a bellwether of change 变化的风向标，an industry bellwether 行业风向标，serve as a bellwether 起趋势指示作用。',
+ 'a bellwether of；an industry bellwether；serve as a bellwether。',
+ 'bellwether 指被视为先行信号，不保证后面趋势一定照它走；wether/weather 拼写、词源分开。',
+ ('The company is seen as a bellwether for the industry.','公司被视为行业风向标。'),('The survey became a bellwether of changing attitudes.','调查成了态度变化的一个风向标。'),
+ sources=['https://en.wiktionary.org/wiki/bellwether#English','https://www.etymonline.com/word/bellwether'])
+W('bellflower','英 /ˈbelflaʊə/；美 /ˈbelflaʊər/','风铃草、钟形花植物〔多种俗名〕',
+ '花冠垂着、张口像一只小钟，按外形起名；常见是风铃草属等植物，不是花会像铃一样响。',
+ 'bell 钟形 + flower 花，形成形状俗名；名称可以覆盖不止一个植物属，具体种名需看后续名称。',B[:1]+[['bell + flower → bellflower','花像钟铃形的植物名称']],
+ 'blue bellflowers 蓝色风铃草，a bellflower in bloom 盛开的钟形花，bellflower petals 钟形花花瓣。',
+ 'blue bellflowers；a bellflower in bloom；bellflower petals。',
+ 'bellflower 范围可比特定 bluebell 更广；钟形、蓝色、具体物种是不同层次，不能只凭两个词都带 bell 就当同一植物。',
+ ('Blue bellflowers grew beside the path.','小路旁长着蓝色风铃草。'),('The guide pointed out the bellflower’s shape.','向导指给我们看钟形花的外形。'))
+R('B2931','钟铃发声、报信，也借给形状和领头信号','BELL：先想响，再看像不像、做什么用','bell → cowbell、bellman；dumbbell、kettlebell 看器械；bellwether 领头羊到趋势；bellflower、bluebell 看花形，doorbell 门口报信。',
+ '铃形名称不一定发声；bellwether 的 wether 是羊，不是天气；bluebell 的具体植物有地区差别。',
+ 'belle 经古英语中古英语 → bell；cow/kettle/door/dumb + bell；bell + man/wether/flower；blue + bell。',
+ [['基础、放牧与报信人物','bell · cowbell · bellman · doorbell'],['器械中的形状名','dumbbell · kettlebell'],['领头比喻与花形','bellwether · bellflower · bluebell']],
+ 'ring a bell 耳熟非完整记起；kettlebell/dumbbell 器械形状；bellwether 非 weather；花名不一律同种。',
+ 'The bellwether’s bell rang as the flock moved.\n\n领头羊戴着的铃在羊群移动时响了。','bell cowbell bellman doorbell dumbbell kettlebell bellwether bellflower bluebell')
+G=[['古英语 geat、复数 gatu → 中古英语 gate → gate〔门〕','开口、通道、可控制进出的门'],['北欧 gata → gate〔道路、街〕','在部分地名保留；不是所有 -gate 都同一门义'],['现代组合与比喻','tailgate 车后门、跟车；gatekeeper 控入口；floodgate 放开闸门；gatefold 对开折页']]
+W('gate','/ɡeɪt/','大门、闸门、入口；登机口；门控、把关',
+ '围栏、边界上留一个可控制的开口是 gate；机场登机口、数据通行关口也借谁能通过这个画面。',
+ '门义继承古英语 geat、gatu 等；部分街名的 gate 另接北欧 gata 道路。新闻 -gate 丑闻词尾则借 Watergate 名称的一部分，不是古英语里门就有丑闻义。',G,
+ 'a garden gate 花园门，a boarding gate 登机口，open the gate 打开门，a logic gate 逻辑门，at the school gate 校门口。',
+ 'a garden gate；a boarding gate；a logic gate；at the school gate。',
+ 'gate 常边界开口或门禁，door 常房屋、房间、车辆门板；机场 gate 不一定指一块实际可见门板。',
+ ('Please close the garden gate behind you.','经过后请把花园门关好。'),('The flight leaves from gate twelve.','航班从十二号登机口出发。'))
+W('gatekeeper','英 /ˈɡeɪtkiːpə/；美 /ˈɡeɪtkiːpər/','守门人；控制准入、信息或资源的人',
+ '实际看门的人决定谁进；抽象 gatekeeper 则把住发表、入学、资源等入口，决定谁有机会接触。',
+ 'gate 门 + keeper 看守者，keeper 来自 keep + -er；由实物守门引申到制度、平台中的准入控制。',G[:1]+[['gate + keeper → gatekeeper','守门、控制通行的人'],['通道的抽象引申','控制信息、机会、资源准入者']],
+ 'a gatekeeper to information 信息入口把关者，a cultural gatekeeper 文化准入把关者，act as a gatekeeper 起把关作用。',
+ 'act as a gatekeeper；a cultural gatekeeper；gatekeepers of information。',
+ 'gatekeeper 可以中性职责，也可批评排斥；不能只见这个词就断言是坏人，关键看把关标准和场景。',
+ ('The editor acts as a gatekeeper for the journal.','编辑为期刊内容把关。'),('The gatekeeper checked the visitors’ passes.','守门人检查了访客通行证。'))
+W('tailgate','/ˈteɪlɡeɪt/','车后挡板、尾门；跟车过近；车尾聚餐〔美式场景〕',
+ '车尾像门一样开合的板是 tailgate；开车紧贴前车尾，动词就说 tailgate；车尾旁办聚餐又有日常活动义。',
+ 'tail 尾部 + gate 门，先车辆尾部开口、挡板，再按地点、动作发展跟车、聚餐等义。',G[:1]+[['tail + gate → tailgate','车辆后挡板、尾门'],['车尾位置的动作、活动扩展','跟车过近；车尾旁聚餐']],
+ 'lower the tailgate 放下尾板，open the tailgate 开尾门，stop tailgating 别跟车过近，a tailgate party 车尾聚餐。',
+ 'lower the tailgate；open the tailgate；stop tailgating；a tailgate party。',
+ 'tailgate 跟车动词不等于一般 follow 跟随；tailgating 在门禁语境又可跟别人进入，仍看紧随通过的画面。',
+ ('He lowered the tailgate to unload the boxes.','他放下尾板卸箱子。'),('The car behind us was tailgating.','后车跟得太近。'))
+W('gatefold','英 /ˈɡeɪtfəʊld/；美 /ˈɡeɪtfoʊld/','对开折页、像双扇门展开的折叠页',
+ '两片页像门扇向中间合上、向外展开，用来藏一张较宽的图；不是把纸揉成一座门。',
+ 'gate 门 + fold 折叠，按打开形状命名印刷、唱片封套的折法。不同出版品也可泛称相近展开结构。',G[:1]+[['gate + fold → gatefold','像门扇展开的折页、封套结构']],
+ 'a gatefold cover 对开唱片封套，a gatefold brochure 对开折页册，a gatefold illustration 展开式插图。',
+ 'a gatefold cover；a gatefold brochure；a gatefold illustration。',
+ 'gatefold 折叠结构，fold 普通折痕、折法范围更广；广告、唱片实际展开页数要看具体成品。',
+ ('The album came in a gatefold cover.','专辑装在一只对开封套里。'),('The brochure opened into a wide gatefold illustration.','宣传册展开成一张宽幅折页插图。'))
+W('floodgate','/ˈflʌdɡeɪt/','水闸、泄洪闸门；限制大量涌出的关口〔比喻〕',
+ '闸门挡住或调节水，一打开大量流出；open the floodgates 就借来形容投诉、情绪、请求一下子涌来。',
+ 'flood 洪水、水流 + gate 闸门，早期英语已有相应组合；实体控制水流到抽象控制大量涌出的比喻。',G[:1]+[['flood + gate → floodgate','控制水流的闸门'],['开闸放水 → 抽象大量涌出','请求、情绪等不再受限制']],
+ 'open the floodgates 打开闸门、大量放出，the floodgates of emotion 情绪闸门，a floodgate on the river 河上的水闸。',
+ 'open the floodgates；the floodgates of emotion；a floodgate on the river。',
+ 'floodgate 门控设施，floodwater 洪水水体；open the floodgates 比喻不一定真有水。',
+ ('The workers inspected the floodgate.','工人检查了水闸。'),('The announcement opened the floodgates to complaints.','公告一出，投诉大量涌来。'))
+R('B3754','边界上的可控制开口，及守门、开闸比喻','GATE：关键是通不通过、放进多少','gate → gatekeeper；tailgate 车尾门，gatefold 折页像门开，floodgate 控水到大量涌出。gateway、gatehouse 说通道和门房。',
+ '部分地名 -gate 来自道路词 gata；新闻丑闻 -gate 借 Watergate，不能都用门字解释全部历史。',
+ 'geat、gatu → gate 门；gata → 部分街名 gate；gate + keeper/fold/way/house；tail/flood + gate。',
+ [['基础、把关者和通道建筑','gate · gatekeeper · gateway · gatehouse'],['车尾、折页与水闸','tailgate · gatefold · floodgate']],
+ 'gate/door 边界开口与门板场所侧重；tailgate/follow 跟车过近与一般跟随；gatekeeper 评价看场景；-gate 多来源。',
+ 'The gatekeeper opened the gate beside the gatehouse.\n\n守门人在门房旁打开了大门。','gate gatekeeper gateway gatehouse tailgate gatefold floodgate')
+if __name__=='__main__':save('continuation_20261030_fe',ROOTS,WORDS)

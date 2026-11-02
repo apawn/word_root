@@ -1,0 +1,597 @@
+[
+  {
+    "word": "my",
+    "ipa": "/maɪ/",
+    "meaning": "我的〔放在名词前〕",
+    "sense": "手指指向自己，再指那本书：my book 就是我的书。",
+    "split": "本族词，经中古英语 mi、my，承古英语 mīn 我的、属于我的；短形式后来固定为名词前的限定词。不是现代英语 me 加一个 y。",
+    "history": [
+      [
+        "古英语 mīn → 中古英语 mi、my",
+        "我的、属于我的相应形式"
+      ],
+      [
+        "现代 my",
+        "名词前表示我的"
+      ]
+    ],
+    "explanation": "my name 我的名字；my friend 我的朋友。通常后面接名词；单独说这本书是我的，常用 mine。",
+    "usage": "my name；my own room。",
+    "contrast": "my book 放名词前；The book is mine 用 mine 独立指代，不写 The book is my。",
+    "examples": [
+      [
+        "My keys are on the table.",
+        "我的钥匙在桌上。"
+      ],
+      [
+        "This is my first visit to the city.",
+        "这是我第一次来这座城市。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/my#English"
+    ]
+  },
+  {
+    "word": "your",
+    "ipa": "英 强读 /jɔː/、弱读 /jə/；美 强读 /jʊr/、/jɔːr/、弱读 /jər/",
+    "meaning": "你的；你们的〔放在名词前〕",
+    "sense": "对一个人说 your bag 是你的包；对一群人说 your bags 是你们的包。your 本身不标出一个还是多个听话者。",
+    "split": "承古英语 ēower 等原来主要用于复数听话者的领属形式，随 you 扩展到单数，现代也表示你的。不是 you 后一律加 r 的通用语法。",
+    "history": [
+      [
+        "古英语 ēower → 中古英语 your",
+        "原复数领属形式"
+      ],
+      [
+        "现代 your",
+        "你的、你们的"
+      ]
+    ],
+    "explanation": "your name 你的名字；your team 你们的队伍；单独表示属于你，用 yours。your 和 you’re 在许多口音中读音相同或很接近。",
+    "usage": "your address；your own choice。",
+    "contrast": "your 是领属词；you’re 缩自 you are。your welcome 你的欢迎与 You’re welcome 不客气，不是同一句话。",
+    "examples": [
+      [
+        "Is this your bag?",
+        "这是你的包吗？"
+      ],
+      [
+        "Please write your names at the top of the page.",
+        "请把你们的名字写在页首。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/your#English"
+    ]
+  },
+  {
+    "word": "him",
+    "ipa": "/hɪm/〔连读常弱化〕",
+    "meaning": "他〔宾语形式〕",
+    "sense": "He called 是他打电话；I called him 是我给他打电话。him 常放在动作的接受者或介词后。",
+    "split": "经中古英语 him 承古英语 him 这一人称代词的格形式。格的系统后来简化，现代作 he 的宾格；不是 he + m 的现代构词规则。",
+    "history": [
+      [
+        "古英语 him → 中古英语 him",
+        "人称代词的相关格形式"
+      ],
+      [
+        "现代 him",
+        "he 的宾语形式"
+      ]
+    ],
+    "explanation": "help him 帮他；with him 和他一起；give him a chance 给他一个机会。领属要用 his，不用 him book。",
+    "usage": "tell him；talk to him。",
+    "contrast": "he 常作主语，him 常作宾语，his 表他的；himself 则通常要与句中同一人对应，或用来强调亲自。",
+    "examples": [
+      [
+        "I sent him the address.",
+        "我把地址发给了他。"
+      ],
+      [
+        "Would you like to sit next to him?",
+        "你想坐在他旁边吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/him#English"
+    ]
+  },
+  {
+    "word": "her",
+    "ipa": "英 强读 /hɜː/、弱读 /hə/；美 强读 /hɜːr/、弱读 /hər/",
+    "meaning": "她〔宾语〕；她的〔名词前〕",
+    "sense": "同一个 her 能在 I called her 中表示她，也能在 her bag 中表示她的。看后面接什么、句里担什么角色。",
+    "split": "承古英语 hire，经中古英语 hire、hir、her 等延续，原有的格形式在现代合流。两种常用语法作用不是两个互不相关的英语拼法。",
+    "history": [
+      [
+        "古英语 hire → 中古英语 hir、her 等",
+        "第三人称阴性代词相关形式"
+      ],
+      [
+        "现代 her",
+        "宾语她；名词前的她的"
+      ]
+    ],
+    "explanation": "ask her 问她；her answer 她的回答。单独说那是她的，常用 hers。",
+    "usage": "with her；her own idea。",
+    "contrast": "her book 是她的书；The book is hers 用 hers。She saw her 通常是她看见另一个她，反身同一人通常用 herself。",
+    "examples": [
+      [
+        "I gave her the tickets.",
+        "我把票给了她。"
+      ],
+      [
+        "Her office is on the second floor.",
+        "她的办公室在二楼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/her#English"
+    ]
+  },
+  {
+    "word": "our",
+    "ipa": "英 /aʊə/、/ɑː/；美 /aʊər/、/ɑːr/",
+    "meaning": "我们的〔放在名词前〕",
+    "sense": "把自己和同一组人圈在一起：our plan 是我们的计划。这个我们是否包括听者，要由场景判断。",
+    "split": "经中古英语 oure 承古英语 ūre 等我们的领属形式，是本族代词。现代不能按 o + ur 拆意义。",
+    "history": [
+      [
+        "古英语 ūre → 中古英语 oure",
+        "我们的"
+      ],
+      [
+        "现代 our",
+        "名词前表示我们的"
+      ]
+    ],
+    "explanation": "our home 我们的家；our teacher 我们的老师；单独表示属于我们，用 ours。不同口音和语速下可读得较短。",
+    "usage": "our team；our own decision。",
+    "contrast": "our 放名词前，ours 可独立；our team 不自动说明听话者也属于这支队伍。",
+    "examples": [
+      [
+        "Our train leaves in ten minutes.",
+        "我们的火车十分钟后出发。"
+      ],
+      [
+        "We need to explain our decision.",
+        "我们需要解释我们的决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/our#English"
+    ]
+  },
+  {
+    "word": "their",
+    "ipa": "英 /ðeə/；美 /ðer/",
+    "meaning": "他们、她们、它们的；某人的〔单数 they 对应〕",
+    "sense": "说一群人的行李，their luggage；说一位没有说明性别的来客的行李，也可用 their luggage。",
+    "split": "借古诺斯语 þeira、þeirra，替代了古英语原有的相关领属形式；与现代 they、them 组成一组。不是 there 那里改写出来。",
+    "history": [
+      [
+        "古诺斯语 þeira、þeirra",
+        "他们的相关领属形式"
+      ],
+      [
+        "英语 their",
+        "名词前的他们的；也随单数 they 使用"
+      ]
+    ],
+    "explanation": "their house 他们的房子；someone left their coat 某人落下了外套。独立指代用 theirs。",
+    "usage": "their own choice；their address。",
+    "contrast": "their 领属、there 那里、they’re＝they are，许多口音里同音，但在句中作用完全不同。",
+    "examples": [
+      [
+        "Their children go to the same school.",
+        "他们的孩子上同一所学校。"
+      ],
+      [
+        "Someone left their umbrella by the door.",
+        "有人把自己的伞落在门边了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/their#English"
+    ]
+  },
+  {
+    "word": "one",
+    "ipa": "/wʌn/",
+    "meaning": "一；一个；代替同类名词的一个；泛指人〔正式用法〕",
+    "sense": "数东西时是一个；挑杯子时 this one 是这一个；较正式地讲一般人该怎样时，one 还可指人、一个人。",
+    "split": "承古英语 ān 一、单一，经中古英语 on、oon 等延续。今天起首 /w/ 是后来的读音演变，不能把拼写 o 机械固定为 /ɒ/。",
+    "history": [
+      [
+        "古英语 ān → 中古英语 on、oon",
+        "一、单一"
+      ],
+      [
+        "现代 one",
+        "数词；同类名词替代；泛指人"
+      ]
+    ],
+    "explanation": "one ticket 一张票；the red one 红色的那个；One should be careful 较正式地说人应当小心。one 不总指数字，须看句法。",
+    "usage": "one more；the other one；one of them。",
+    "contrast": "one 代替前面提到的可数同类对象；it 常指原来那个对象。I need a pen. Do you have one? 是问有没有一支，不限定原来某一支。",
+    "examples": [
+      [
+        "I need one more minute.",
+        "我还需要一分钟。"
+      ],
+      [
+        "The blue one is cheaper.",
+        "蓝色的那个更便宜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/one#English"
+    ]
+  },
+  {
+    "word": "myself",
+    "ipa": "/maɪˈself/",
+    "meaning": "我自己；我亲自",
+    "sense": "I cut myself 是动作回到自己身上；I made it myself 是强调活是我亲自做的。两种都围绕同一个我。",
+    "split": "承中古英语 myself、meself 等，更早有古英语 mē selfum 一类组合；后来部分按 my + self 重新理解。现代看到 my，不应反推历史起点只有领属格。",
+    "history": [
+      [
+        "古英语 mē selfum 等 → 中古英语 meself、myself",
+        "人称代词与自己的组合"
+      ],
+      [
+        "现代 myself",
+        "反身我自己；强调我亲自"
+      ]
+    ],
+    "explanation": "teach myself 自学；by myself 独自或靠自己；for myself 亲自体验或为自己。正式普通表达 I think，不需要为了显得礼貌写 Myself thinks。",
+    "usage": "by myself；do it myself；introduce myself。",
+    "contrast": "I hurt myself 是我伤到自己；I hurt me 在通常反身场景不自然。强调词可删：I did it myself → I did it，主干仍完整。",
+    "examples": [
+      [
+        "I taught myself to cook.",
+        "我自学了做饭。"
+      ],
+      [
+        "I carried the boxes myself.",
+        "这些箱子是我亲自搬的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/myself#English"
+    ]
+  },
+  {
+    "word": "yourself",
+    "ipa": "英 /jəˈself/、/jɔːˈself/；美 /jərˈself/",
+    "meaning": "你自己；你亲自〔单数〕",
+    "sense": "对一个人说 look after yourself，是让他照顾好自己；Did you make it yourself? 是问是不是他亲手做的。",
+    "split": "your + -self，中古英语已有相应形式。现代单数通常 yourself，复数 yourselves；不能因为 you 单复数同形就把后面也一律固定。",
+    "history": [
+      [
+        "中古英语 yourself",
+        "your 与 self 的组合"
+      ],
+      [
+        "现代 yourself／yourselves",
+        "单数自己／复数自己"
+      ]
+    ],
+    "explanation": "help yourself 随便取用；enjoy yourself 玩得开心；be yourself 自然做自己。这里不必把每个 self 都硬译成实体自我。",
+    "usage": "help yourself；be yourself；by yourself。",
+    "contrast": "yourself 对一个人，yourselves 对多个人；Enjoy yourself! 与 Enjoy yourselves! 要随听者人数选。",
+    "examples": [
+      [
+        "Please help yourself to some fruit.",
+        "请随便吃点水果。"
+      ],
+      [
+        "Did you repair the chair yourself?",
+        "这把椅子是你自己修的吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yourself#English"
+    ]
+  },
+  {
+    "word": "himself",
+    "ipa": "/hɪmˈself/",
+    "meaning": "他自己；他亲自",
+    "sense": "He blamed himself 是他把责任算到自己头上；He opened it himself 是他亲自打开。",
+    "split": "him + -self，承古英语 him selfum 等组合。现代标准词是 himself，不按 my／your 的外形类推成 hisself。",
+    "history": [
+      [
+        "古英语 him selfum → 中古英语 hymself",
+        "him 与自己的组合"
+      ],
+      [
+        "现代 himself",
+        "反身与强调的他自己"
+      ]
+    ],
+    "explanation": "by himself 可说他独自或无需帮助；be himself 可说恢复平常状态；反身对象通常与前面的 he 指同一人。",
+    "usage": "by himself；introduce himself；not feel himself。",
+    "contrast": "himself 不等于 his self 作为自由组合的他的自我；日常“他自己做了”用 He did it himself。",
+    "examples": [
+      [
+        "He introduced himself to the new neighbours.",
+        "他向新邻居作了自我介绍。"
+      ],
+      [
+        "He cooked dinner by himself.",
+        "他独自做了晚饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/himself#English"
+    ]
+  },
+  {
+    "word": "herself",
+    "ipa": "英 /hɜːˈself/、/həˈself/；美 /hərˈself/",
+    "meaning": "她自己；她亲自",
+    "sense": "She saw herself in the mirror，镜子里看到的还是她；She told me herself，强调是她本人告诉我的。",
+    "split": "her + -self，承古英语 hire self 等材料，经中古英语相应形式延续。不是 hers 再去 s 才创造出来。",
+    "history": [
+      [
+        "古英语 hire self → 中古英语相应形式",
+        "她与自己的组合"
+      ],
+      [
+        "现代 herself",
+        "她自己；强调本人"
+      ]
+    ],
+    "explanation": "proud of herself 为自己骄傲；by herself 独自、靠自己；She herself said so 强调她本人就是这么说的。",
+    "usage": "by herself；introduce herself；be proud of herself。",
+    "contrast": "She blamed her 通常指另一个女性；She blamed herself 指她责怪自己。别把所有中文“她”都机械写成 her。",
+    "examples": [
+      [
+        "She recognised herself in the old photograph.",
+        "她在那张旧照片里认出了自己。"
+      ],
+      [
+        "The manager herself answered the phone.",
+        "经理本人接了电话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/herself#English"
+    ]
+  },
+  {
+    "word": "it",
+    "ipa": "/ɪt/",
+    "meaning": "它；代指事情；天气、时间等句子的形式主语",
+    "sense": "前面说了一把椅子，再说 it is broken，就是那把椅子坏了；说 it is raining，it 只是撑起英语句子的主语位置，不必找一个正在下雨的它。",
+    "split": "承古英语 hit，经中古英语 it、hit 等延续，词首 h 后来在常用形式中消失。现代 it 不是把 item 物品缩成两个字母。",
+    "history": [
+      [
+        "古英语 hit → 中古英语 it、hit",
+        "第三人称中性代词形式"
+      ],
+      [
+        "现代 it",
+        "指物、动物或事情；部分句式中的形式主语"
+      ]
+    ],
+    "explanation": "I like it 我喜欢它；It is late 时间晚了；It is easy to learn 学起来容易。代指动物时也可按所指和说话习惯用 he、she 等，不必把所有动物一概锁定 it。",
+    "usage": "it is raining；think about it；it seems that。",
+    "contrast": "it’s 常缩自 it is 或 it has，its 是它的；itself 表它自己，通常有反身或强调作用，不能在所有 it 的位置都替换。",
+    "examples": [
+      [
+        "I found the key and put it in my bag.",
+        "我找到了钥匙，把它放进包里。"
+      ],
+      [
+        "It is getting dark outside.",
+        "外面天渐渐黑了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/it#English"
+    ]
+  },
+  {
+    "word": "itself",
+    "ipa": "/ɪtˈself/",
+    "meaning": "它自己；本身",
+    "sense": "The door closed itself 是门自己关上；the problem itself 是把注意力落在问题本身。",
+    "split": "it + -self，承中古英语 hit-self 等组合；前面的 hit 是 it 的较早形式之一，不是今天英语 hit 打击。",
+    "history": [
+      [
+        "中古英语 hit-self",
+        "it 的早期形式 + 自己"
+      ],
+      [
+        "现代 itself",
+        "它自己；本身"
+      ]
+    ],
+    "explanation": "by itself 自行、单独；in itself 就其本身而言；the machine itself 机器本身。物体作主语不表示它一定有自主意愿。",
+    "usage": "by itself；in itself；the idea itself。",
+    "contrast": "by itself 强调自行或单独，in itself 强调单看其本身；The idea itself is good 是点子本身不错，不等于已经实现。",
+    "examples": [
+      [
+        "The door closed by itself.",
+        "门自己关上了。"
+      ],
+      [
+        "The idea itself is simple.",
+        "这个想法本身很简单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/itself#English"
+    ]
+  },
+  {
+    "word": "oneself",
+    "ipa": "/wʌnˈself/",
+    "meaning": "自己〔与泛指人的 one 对应〕",
+    "sense": "不是指我、你某一个具体人，而是泛说“人要照顾自己”，较正式的 one 可以配 oneself。",
+    "split": "one 泛指人 + -self，由 one’s self 一类组合凝结。这里 one 取泛指人的用法，不是数字一加一个自我。",
+    "history": [
+      [
+        "one、one’s self 的组合",
+        "泛指一个人及其自己"
+      ],
+      [
+        "oneself",
+        "与泛指 one 对应的反身形式"
+      ]
+    ],
+    "explanation": "take care of oneself 照顾自己；be true to oneself 忠于自己。日常直接对人说话常用 you／yourself，不必处处用正式 one。",
+    "usage": "express oneself；look after oneself。",
+    "contrast": "若用 One should …，后面 oneself 是常见一致搭配；若直接用 you，则通常接 yourself。",
+    "examples": [
+      [
+        "One needs time to think for oneself.",
+        "人需要时间独立思考。"
+      ],
+      [
+        "It is not always easy to laugh at oneself.",
+        "能拿自己开玩笑并不总是容易。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oneself#English"
+    ]
+  },
+  {
+    "word": "ourselves",
+    "ipa": "英 /aʊəˈselvz/、/ɑːˈselvz/；美 /aʊərˈselvz/、/ɑːrˈselvz/",
+    "meaning": "我们自己；我们亲自",
+    "sense": "我们做的动作回到我们这群人身上，或强调事情由我们亲自做，用 ourselves。",
+    "split": "our + -selves；selves 是 self 在这些复数形式里的对应，f 与 /v/ 的变化已经固定，不写 ourselfs。",
+    "history": [
+      [
+        "our + self 的复数对应 selves",
+        "我们 + 自己的复数形式"
+      ],
+      [
+        "ourselves",
+        "我们自己；我们亲自"
+      ]
+    ],
+    "explanation": "enjoy ourselves 玩得开心；by ourselves 我们独自、无需别人帮忙；to ourselves 给我们独享。几种介词会改变焦点。",
+    "usage": "by ourselves；for ourselves；to ourselves。",
+    "contrast": "We made it ourselves 强调亲自；We had the room to ourselves 强调房间只有我们用，不是说我们造了房间。",
+    "examples": [
+      [
+        "We built the shelves ourselves.",
+        "这些架子是我们自己做的。"
+      ],
+      [
+        "We had the garden to ourselves for an hour.",
+        "有一个小时，整个花园只有我们在用。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/ourselves"
+    ]
+  },
+  {
+    "word": "yourselves",
+    "ipa": "英 /jəˈselvz/、/jɔːˈselvz/；美 /jərˈselvz/",
+    "meaning": "你们自己；你们亲自〔复数〕",
+    "sense": "对一群人说“你们照顾好自己”，用 yourselves；you 单复数一样，self／selves 却把人数区别显示出来。",
+    "split": "your + -selves；与单数 yourself 对应。末尾不是普通直接在 self 后读一个 /s/，而是 /selvz/。",
+    "history": [
+      [
+        "yourself 的单复数分化",
+        "self 与 selves 对应"
+      ],
+      [
+        "your + -selves → yourselves",
+        "你们自己"
+      ]
+    ],
+    "explanation": "Enjoy yourselves! 祝你们玩得开心；make yourselves at home 请你们随意些、像在家一样。",
+    "usage": "enjoy yourselves；help yourselves。",
+    "contrast": "对一个人通常 yourself，对多个听话者 yourselves；不能靠名词前 your 的拼法来判断人数。",
+    "examples": [
+      [
+        "Please make yourselves at home.",
+        "请你们随意些，就像在家一样。"
+      ],
+      [
+        "Did you paint the whole room yourselves?",
+        "整个房间都是你们自己刷的吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yourselves#English"
+    ]
+  },
+  {
+    "word": "themselves",
+    "ipa": "/ðəmˈselvz/",
+    "meaning": "他们、她们、它们自己；某人自己〔可随单数 they〕",
+    "sense": "他们自己整理自己的东西，用 themselves；当 they 泛指一位性别未说明的人时，也常配 themselves。",
+    "split": "them + -selves，人物宾格与自己的复数对应组合。现代既用于复数，也随常见的单数 they；不能一见 selves 就断定现实中必有多个人。",
+    "history": [
+      [
+        "them + -selves",
+        "他们与自己的复数对应"
+      ],
+      [
+        "现代 themselves",
+        "复数反身、强调；也随单数 they"
+      ]
+    ],
+    "explanation": "by themselves 他们独自或无需别人帮助；keep something to themselves 把事藏在心里；everyone should decide for themselves 可泛指每个人自行决定。",
+    "usage": "introduce themselves；by themselves。",
+    "contrast": "themselves 不是 each other 彼此：They helped themselves 通常是他们自取或帮自己，They helped each other 是互相帮助。",
+    "examples": [
+      [
+        "The children dressed themselves.",
+        "孩子们自己穿好了衣服。"
+      ],
+      [
+        "Each visitor can decide for themselves which route to take.",
+        "每位参观者都可以自行决定走哪条路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/themselves#English"
+    ]
+  },
+  {
+    "word": "themself",
+    "ipa": "/ðəmˈself/",
+    "meaning": "某人自己〔随单数 they 的一种形式〕",
+    "sense": "they 指一个人时，有人把自己写成单数外形 themself；它不是把一群人压成一个人的新含义。",
+    "split": "them + -self，中古英语已有相关形式；现代因单数 they 的使用而更常被讨论。不是近几年凭空才有的拼法。",
+    "history": [
+      [
+        "中古英语 theimself 等",
+        "them 与 self 的相关组合"
+      ],
+      [
+        "现代 themself",
+        "用于单数 they 的反身形式之一"
+      ]
+    ],
+    "explanation": "可见于口语和当代写作，接受程度、编辑规范不一；themselves 仍广泛用于单数 they。对具体人物可尊重其称呼习惯。",
+    "usage": "introduce themself；for themself。",
+    "contrast": "themself 主要配单数所指，不是常规复数 themselves 的通用替代；正式稿件需看采用的文体规范。",
+    "examples": [
+      [
+        "Each participant was invited to introduce themself.",
+        "每位参与者都被邀请作自我介绍。"
+      ],
+      [
+        "The applicant described themself as a careful listener.",
+        "申请人形容自己是个认真倾听的人。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/themself",
+      "https://en.wiktionary.org/wiki/themself#English"
+    ]
+  }
+]

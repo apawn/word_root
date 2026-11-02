@@ -1,0 +1,119 @@
+[
+  {
+    "id": "B3606",
+    "meaning": "沿痕追溯、沿线描画，以及微量痕迹和装饰线纹",
+    "core": "TRACE：循着留下的线索，或沿着既有线条",
+    "image": "trace → tracing、tracer；traceable → traceability；tracery 保留描线、纹样的联系。",
+    "intro": "同一个线索能走向追查来源，也能走向描图。名词痕迹有时非常少，才又形成微量的用法。",
+    "forms": "法语 trace、tracer → 英语；-ing 过程、结果，-er 执行或示踪物，-able 可追溯，-ability 性质能力，-ery 装饰名。\n\n经法语词族，较远具体路线有不同分析；名动词 s 形式同形。",
+    "branches": [
+      [
+        "基础、过程与追踪物",
+        "trace · tracing · tracer"
+      ],
+      [
+        "可追溯与能力",
+        "traceable · traceability"
+      ],
+      [
+        "装饰线纹",
+        "tracery"
+      ],
+      [
+        "trace → traces：痕迹、追踪和描摹",
+        "trace · traces"
+      ]
+    ],
+    "contrasts": "tracer 不一定有放射性；traceability 不是只有一个编号；tracery 是装饰、纹样。",
+    "practice": "The tracer made the flow traceable and improved the study’s traceability.\n\n示踪物使流动路径可以追踪，也改善了研究过程的可追溯性。",
+    "words": [
+      "trace",
+      "tracing",
+      "tracer",
+      "traceable",
+      "traceability",
+      "tracery",
+      "traces"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2691",
+    "meaning": "有胆量、冒失，以及视觉醒目与字体粗重",
+    "core": "BOLD：敢于行动，或强烈地引起注意",
+    "image": "bold → boldly、boldness；embolden 使变大胆；boldface 看粗体字。",
+    "intro": "人格、行动与设计共享强烈、显著的感觉。评价是否正面，要随对象和语气判断。",
+    "forms": "古英语 bald／beald → bold；-ly、-ness；em- + bold + -en 使变大胆。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "bold · boldly · boldness"
+      ],
+      [
+        "使变大胆与字体",
+        "embolden · boldface"
+      ]
+    ],
+    "contrasts": "bold 不等于 bald；粗体不等于大写；embolden 可使坏行为更放肆。",
+    "practice": "The success emboldened her to propose a bold design with boldface headings.\n\n成功让她更敢提出大胆设计，标题还用了粗体。",
+    "words": [
+      "bold",
+      "boldly",
+      "boldness",
+      "embolden",
+      "boldface"
+    ],
+    "exclude": {
+      "bolden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3609",
+    "meaning": "约定、惯例形成的常规性质，以及按这种常规行事",
+    "core": "CONVENTIONAL：依照常规；CONVENTIONALLY：按常规方式",
+    "image": "conventional → conventionally；unconventional 偏离常规。",
+    "intro": "惯例来自共同使用，不等于自然界唯一可能。常规与非常规也不是好坏的自动判定。",
+    "forms": "convention → conventional；-ly 副词，un- 否定常规性质。",
+    "branches": [
+      [
+        "常规、方式与非常规",
+        "conventional · conventionally · unconventional"
+      ]
+    ],
+    "contrasts": "conventional 不只表示保守的人，conventionally 也不等于 universal。",
+    "practice": "The unconventional design questioned what was conventionally accepted.\n\n这个非常规设计对传统接受的做法提出了疑问。",
+    "words": [
+      "conventional",
+      "conventionally",
+      "unconventional"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3604",
+    "meaning": "竞争者、匹敌，以及持续竞争关系",
+    "core": "RIVAL：争同一目标，或水平足以匹敌",
+    "image": "rival → rivalry；archrival 强调主要、宿敌般的竞争者。",
+    "intro": "共同水道是词源里有趣的旧背景，现代重点是竞争关系。对手并不自动就是敌人。",
+    "forms": "拉丁 rīvus、rīvālis → rival；-ry 抽象关系，arch- 加强主要、首要。\n\n拉丁 rivalis 接 rivus 小溪，已在拉丁语里发展对手义。",
+    "branches": [
+      [
+        "对手与竞争关系",
+        "rival · rivalry · archrival"
+      ],
+      [
+        "rival → rivals：争同一资源的对手与相匹敌",
+        "rival · rivals"
+      ]
+    ],
+    "contrasts": "rival 与 enemy 不等同；动词 rival 可说品质媲美，不一定真在参赛。",
+    "practice": "Their friendly rivalry made each rival work harder.\n\n友好的竞争关系让每一方都更加努力。",
+    "words": [
+      "rival",
+      "rivalry",
+      "archrival",
+      "rivals"
+    ],
+    "exclude": {}
+  }
+]

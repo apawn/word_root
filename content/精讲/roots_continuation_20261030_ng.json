@@ -1,0 +1,172 @@
+[
+  {
+    "id": "A1988",
+    "meaning": "射线的来源成分，按对象区分放射性、成像和测量",
+    "core": "RADIO-：先问是哪类辐射，再看研究、活动或仪器",
+    "image": "radioisotope、radionuclide 看放射性；radiometer 看测量；radiography 看成像。",
+    "intro": "radio- 不限广播。放射性材料、射线影像与辐射计各有具体对象；用后半部分定位任务，再读领域含义。",
+    "forms": "radius 光线、射线 → radi- + -o- → radio-；isotope 同位素，nuclide 核素，-meter 仪器。",
+    "branches": [
+      [
+        "性质、活动与具体原子类别",
+        "radioactive · radioactivity · radioisotope · radionuclide · radiocarbon"
+      ],
+      [
+        "研究、成像、治疗与测量",
+        "radiology · radiography · radiotherapy · radiometer"
+      ]
+    ],
+    "contrasts": "radiometer 不限核放射性；同位素也不一定全有放射性。",
+    "practice": "The chapter distinguishes radionuclides from instruments such as a radiometer.\n\n本章区分放射性核素与辐射计这类仪器。",
+    "words": [
+      "radioactive",
+      "radioactivity",
+      "radioisotope",
+      "radionuclide",
+      "radiocarbon",
+      "radiology",
+      "radiography",
+      "radiotherapy",
+      "radiometer"
+    ],
+    "exclude": {
+      "radio-luminous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3519",
+    "meaning": "承载、运送的活动，进入车辆、支撑结构与道路名",
+    "core": "CARRIAGE：把人、物承着走，相关部件和道路各有名称",
+    "image": "carriage → undercarriage、carriageway；miscarriage 看未能顺利完成的历史分支。",
+    "intro": "马车、车厢很直观，底盘与起落架则突出下部支撑。miscarriage 的现代流产义要按具体词义读，不能只翻字面坏运输。",
+    "forms": "carier → cariage → carriage；under- 下部，way 道路，mis- 失败、不当的历史扩展。",
+    "branches": [
+      [
+        "承载与车辆支撑、道路",
+        "carriage · undercarriage · carriageway"
+      ],
+      [
+        "意义发展较远的复合",
+        "miscarriage"
+      ]
+    ],
+    "contrasts": "undercarriage 飞机里常指起落架；carriage charges 是运费。",
+    "practice": "The train carriage has support equipment beneath it, while an aircraft uses an undercarriage for landing.\n\n列车车厢下面有支撑设备，飞机则用起落架着陆。",
+    "words": [
+      "carriage",
+      "undercarriage",
+      "carriageway",
+      "miscarriage"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2665",
+    "meaning": "一词覆盖中文侄与甥，旧亲属义范围曾更宽",
+    "core": "NEPHEW：先画家庭关系，再决定中文叫侄子还是外甥",
+    "image": "nephew 先读兄弟姐妹的儿子，具体称呼由关系决定。",
+    "intro": "古拉丁与法语旧词可指更宽的后辈亲属；现代英语常见义收窄，中文还需要根据父母一边的关系补足。",
+    "forms": "nepos、nepot- → neveu → nevew → nephew；ph 改写后影响常见 /f/ 发音。",
+    "branches": [
+      [
+        "亲属与拼写演化",
+        "nephew"
+      ]
+    ],
+    "contrasts": "侄子、外甥都可对应 nephew；不要把 cousin 与 nephew 混成同辈。",
+    "practice": "His nephew is his brother’s son.\n\n他的侄子是他兄弟的儿子。",
+    "words": [
+      "nephew"
+    ],
+    "exclude": {
+      "great-nephew": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nephew-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2988",
+    "meaning": "由剥夺、损坏到变质、毁兴致与宠坏",
+    "core": "SPOIL：原本的好状态、好体验被破坏了",
+    "image": "spoil → spoiler、spoilage。",
+    "intro": "野餐、食物、惊喜与孩子行为是不同对象；剧透者、信息叫 spoiler，变质过程与损失叫 spoilage。名词战利品另保留劫掠旧支。",
+    "forms": "spoliare → espoillier → spoil；-er 人、作用物，-age 过程、损失；spoiled／spoilt。\n\nspoil 经法语接拉丁 spoliare 剥去、掠夺，后有使失去良好品质、毁坏、变质、宠坏等义。现代加 -ed，/l/ 后读 /d/；也有 spoilt 变体。",
+    "branches": [
+      [
+        "损坏动作与执行者、过程",
+        "spoil · spoiler · spoilage"
+      ],
+      [
+        "剥夺、损害 → spoil → spoiled",
+        "spoiled"
+      ]
+    ],
+    "contrasts": "spoiler 也可以一段剧透内容；spoilage 不包办所有浪费。",
+    "practice": "The spoiler spoiled the surprise, while spoilage ruined the picnic food.\n\n剧透毁了惊喜，变质毁了野餐食物。",
+    "words": [
+      "spoil",
+      "spoiler",
+      "spoilage",
+      "spoiled"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3644",
+    "meaning": "牙齿反复压磨的动作，发展动作名、口感与可嚼性质",
+    "core": "CHEW：多咬磨几下，再吞；想法也能反复琢磨",
+    "image": "chew → chewing、chewy、chewable。",
+    "intro": "动作、口感、是否适合咀嚼各说一个角度；chew over 则把反复处理借到思考。口香糖的 chewing 是用途，不是胶在行动。",
+    "forms": "ceowan → chewen → chew；-ing 动作，-y 口感，-able 可行、用途；w 不双写。",
+    "branches": [
+      [
+        "动作、过程与口感、用途",
+        "chew · chewing · chewy · chewable"
+      ]
+    ],
+    "contrasts": "chewy 不等于 crunchy；chewable 不等于口感必定很韧。",
+    "practice": "The chewable sweet was chewy, so he kept chewing.\n\n这颗可咀嚼的糖很有嚼劲，他便接着嚼。",
+    "words": [
+      "chew",
+      "chewing",
+      "chewy",
+      "chewable"
+    ],
+    "exclude": {
+      "chewie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3881",
+    "meaning": "容器、刺耳震动与半开状态，三条来源并列分清",
+    "core": "JAR：装东西的罐是一支，刺耳冲击和门半开各有来路",
+    "image": "jar → jarring〔震动、冲突支〕；ajar 半开义另接 on char。",
+    "intro": "字母像并不保证同源。罐子提供容器形状，jarring 提供感官撞击，ajar 提供门轴转开一点的画面。",
+    "forms": "jarra → jar 容器；jar 震动来源另论，双写 r + -ing；on char → ajar 半开。\n\n容器经罗曼语接阿拉伯 jarra，震动冲突动词另源未定。",
+    "branches": [
+      [
+        "容器与震动同形词",
+        "jar · jarring"
+      ],
+      [
+        "半开状态的不同来源词",
+        "ajar"
+      ],
+      [
+        "jar → jars：罐子与另源刺耳冲突动词",
+        "jar · jars"
+      ]
+    ],
+    "contrasts": "ajar 半开不来自一只罐；jarring 常见性质义接震动、冲突。",
+    "practice": "A jarring noise came through the door she had left ajar.\n\n她留着门缝，一阵刺耳声音从那里传来。",
+    "words": [
+      "jar",
+      "jarring",
+      "ajar",
+      "jars"
+    ],
+    "exclude": {
+      "jarry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nightjar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

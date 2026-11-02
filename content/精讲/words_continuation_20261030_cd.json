@@ -1,0 +1,365 @@
+[
+  {
+    "word": "shut",
+    "ipa": "/ʃʌt/",
+    "meaning": "关上、合上；关闭的",
+    "sense": "把开着的门合拢，堵住原先能进出的开口；眼睛、嘴也可合上。",
+    "split": "古英语 sċyttan 有推门闩、闩住的背景，经中古英语延续。旧画面是把闩推进位子，不能简单说这个词原来只表示慢慢合门。",
+    "history": [
+      [
+        "古英语 sċyttan → 中古英语 schetten 等 → shut",
+        "推进门闩、闩住、关闭"
+      ],
+      [
+        "英语 shut",
+        "关上；闭合、停止开放"
+      ]
+    ],
+    "explanation": "shut the door 关门，shut your eyes 闭眼，keep the shop shut 让店关着。过去式、分词仍是 shut；shutting 双写 t。",
+    "usage": "shut the door；shut your eyes；keep it shut；shut down。",
+    "contrast": "shut 和 close 常可替换，但 close a bank account 关闭账户等搭配不能一律换 shut；shut up 当让人闭嘴时语气很冲。",
+    "examples": [
+      [
+        "Please shut the door behind you.",
+        "请随手关门。"
+      ],
+      [
+        "The shop was shut when we arrived.",
+        "我们到时店已经关门了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shut#English"
+    ]
+  },
+  {
+    "word": "shutter",
+    "ipa": "英 /ˈʃʌtə/；美 /ˈʃʌtər/",
+    "meaning": "窗板、百叶窗；相机快门；关闭〔店铺等〕",
+    "sense": "控制开口能不能透光、通行的装置：窗前是挡板，相机里是控制曝光的快门。",
+    "split": "shut + -er，双写 t，形成关闭用的器具名；再由名词发展出装窗板、使停业等动词。",
+    "history": [
+      [
+        "古英语 sċyttan → 中古英语 schetten 等 → shut",
+        "推进门闩、闩住、关闭"
+      ],
+      [
+        "英语 shut",
+        "关上；闭合、停止开放"
+      ],
+      [
+        "shut + -er → shutter",
+        "关闭开口的装置：窗板、相机快门等"
+      ],
+      [
+        "shutter 转作动词",
+        "加装窗板；关闭店铺、业务等"
+      ]
+    ],
+    "explanation": "wooden shutters 木窗板，shutter speed 快门速度，shutter a store 关闭店铺。shutter speed 说曝光时间的控制。",
+    "usage": "wooden shutters；shutter speed；press the shutter；shutter the store。",
+    "contrast": "shutter 相机快门，lens 镜头，不是同一个部件；店铺 shuttered 不是店铺变成照相机。",
+    "examples": [
+      [
+        "She closed the wooden shutters before the storm.",
+        "暴风雨前，她关上了木窗板。"
+      ],
+      [
+        "A faster shutter speed helped freeze the movement.",
+        "更快的快门速度帮助定格了动作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shutter#English"
+    ]
+  },
+  {
+    "word": "shuttle",
+    "ipa": "/ˈʃʌtəl/",
+    "meaning": "梭子；往返接驳交通工具；往返运送",
+    "sense": "织布梭子在两边来回穿行；酒店与机场之间来回跑的车，借的就是这个往返画面。",
+    "split": "中古英语相关形式涉及旧门闩词和投射物词的合流；织布用具的常用解释联系古英语 sċytel 投射物，像在线间射过。再由往返运动发展为接驳服务。不是现代 shut 后加一个表示小的 -tle 就得到全部意思。",
+    "history": [
+      [
+        "古英语 sċytel〔投射物〕等 → 中古英语相关形式",
+        "梭子与门闩等旧形式有交汇；织梭在经线之间穿过"
+      ],
+      [
+        "英语 shuttle",
+        "织梭的往返 → 往返列车、接驳车、航天飞机等"
+      ],
+      [
+        "shuttle 转作动词",
+        "来回运送、穿梭"
+      ]
+    ],
+    "explanation": "an airport shuttle 机场接驳车，a shuttle bus 班车，shuttle between two cities 在两城间来回。space shuttle 航天飞机是固定技术名称。",
+    "usage": "an airport shuttle；a shuttle bus；shuttle between；a space shuttle。",
+    "contrast": "shuttle 强调两处之间往返，shutter 控制开口关闭；相似拼写不代表机场 shuttle 是关机场的器具。",
+    "examples": [
+      [
+        "The hotel runs a free shuttle to the airport.",
+        "酒店提供往返机场的免费接驳车。"
+      ],
+      [
+        "Buses shuttle passengers between the station and the stadium.",
+        "巴士在车站与体育场之间往返接送乘客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shuttle#English",
+      "https://www.etymonline.com/word/shuttle"
+    ]
+  },
+  {
+    "word": "square",
+    "ipa": "英 /skweə/；美 /skwer/",
+    "meaning": "正方形、方的；平方；广场；公平的；使相符、结清",
+    "sense": "四边齐整、角度摆正，先有方正画面；做事方正又能借来讲公平、账目齐平。数学平方则是一个数乘自己。",
+    "split": "经法语相关形接拉丁语四方、使方正的词族，英语早期也指测直角工具。现代广场不保证几何上严格正方，抽象公平义也不表示人真长四个角。",
+    "history": [
+      [
+        "拉丁语 quadrus、quadrāre → 法语 esquarre、esquarrer 等",
+        "四方形、使方正；直角规等"
+      ],
+      [
+        "中古英语 square → square",
+        "方形、直角规；数学平方、广场、公平和直接等发展"
+      ]
+    ],
+    "explanation": "a square table 方桌，three squared 三的平方，the town square 镇中心广场，a square deal 公平交易；square with the facts 与事实相符。",
+    "usage": "a square metre；the town square；fair and square；square with the facts。",
+    "contrast": "a square 四边相等且四角直角，rectangle 矩形不要求四边全相等；square metre 面积单位，与一米长不是同一量。",
+    "examples": [
+      [
+        "The square has four equal sides.",
+        "这个正方形的四条边一样长。"
+      ],
+      [
+        "His explanation does not square with the facts.",
+        "他的解释与事实不符。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/square#English"
+    ]
+  },
+  {
+    "word": "squarely",
+    "ipa": "英 /ˈskweəli/；美 /ˈskwerli/",
+    "meaning": "正对、直接地；明确地；完全落在……上",
+    "sense": "既不擦边，也不绕开，正正对上目标；说责任时就是明确落在某一方。",
+    "split": "square + -ly，形容方正、直接等性质转成方式副词。这里的现代意思不能死译成正方形地。",
+    "history": [
+      [
+        "拉丁语 quadrus、quadrāre → 法语 esquarre、esquarrer 等",
+        "四方形、使方正；直角规等"
+      ],
+      [
+        "中古英语 square → square",
+        "方形、直角规；数学平方、广场、公平和直接等发展"
+      ],
+      [
+        "square + -ly → squarely",
+        "正对地；直接、明确地"
+      ]
+    ],
+    "explanation": "face the problem squarely 直面问题，look someone squarely in the eye 直视对方，rest squarely on 某责任明确落在……上。",
+    "usage": "face squarely；look squarely at；rest squarely on。",
+    "contrast": "squarely 正对、直接，roughly 粗略、大致；squarely on the table 可能说稳稳正正摆着，不要求桌子一定方形。",
+    "examples": [
+      [
+        "She looked him squarely in the eye.",
+        "她直视着他的眼睛。"
+      ],
+      [
+        "The responsibility rests squarely with the manager.",
+        "这项责任明确落在经理身上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/squarely#English"
+    ]
+  },
+  {
+    "word": "waste",
+    "ipa": "/weɪst/",
+    "meaning": "浪费；废料、废物；荒废的、废弃的",
+    "sense": "本来能用的东西白白耗掉，是浪费；生产、使用后被丢弃的部分，是废物。两者相关，但东西进了垃圾桶才叫浪费也太窄。",
+    "split": "经法语相关形式进入中古英语，旧有荒废、毁坏等义；来源涉及拉丁语荒废词族与日耳曼语形式的影响，具体分支有不同分析。现代 waste time 从无效耗用理解。",
+    "history": [
+      [
+        "法语 wast、waste、waster 等 → 中古英语 wast、wasten",
+        "荒废、毁坏、空旷；拉丁语与日耳曼语背景交互影响"
+      ],
+      [
+        "英语 waste",
+        "荒废、无效耗用 → 浪费；废料、废物"
+      ]
+    ],
+    "explanation": "waste time 浪费时间，a waste of money 浪费钱，food waste 食物浪费或食物废弃物，industrial waste 工业废物。",
+    "usage": "waste time doing；a waste of money；food waste；waste paper。",
+    "contrast": "waste 和 waist 腰同音但异源；a waste of time 说没价值的耗用，a waist of time 没这个意思。废物也可能再利用，不等于永远毫无价值。",
+    "examples": [
+      [
+        "We wasted an hour looking for the wrong address.",
+        "我们找错地址，白白浪费了一小时。"
+      ],
+      [
+        "The factory reduced the amount of waste it produced.",
+        "工厂减少了产生的废物量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waste#English"
+    ]
+  },
+  {
+    "word": "wasteful",
+    "ipa": "/ˈweɪstfəl/",
+    "meaning": "浪费的、造成不必要耗用的",
+    "sense": "用十份材料却白白丢掉五份，或者不需要开着的灯一直亮着；是在评价用法不节省。",
+    "split": "waste + -ful，中古英语已有 wastful。-ful 表具有这种特点，不是说一袋里装满垃圾才叫 wasteful。",
+    "history": [
+      [
+        "法语 wast、waste、waster 等 → 中古英语 wast、wasten",
+        "荒废、毁坏、空旷；拉丁语与日耳曼语背景交互影响"
+      ],
+      [
+        "英语 waste",
+        "荒废、无效耗用 → 浪费；废料、废物"
+      ],
+      [
+        "waste + -ful → wasteful",
+        "以浪费为特点、造成浪费的"
+      ]
+    ],
+    "explanation": "a wasteful habit 浪费的习惯，wasteful spending 不必要的开销，wasteful of resources 浪费资源。",
+    "usage": "wasteful spending；a wasteful habit；wasteful of resources。",
+    "contrast": "wasteful 造成浪费，wasted 已被浪费、被耗掉；a wasteful process 浪费资源的过程，wasted material 被浪费的材料。",
+    "examples": [
+      [
+        "Leaving the lights on all night is wasteful.",
+        "整夜不关灯很浪费。"
+      ],
+      [
+        "The old process was wasteful of both water and energy.",
+        "旧工艺既浪费水，也浪费能源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wasteful#English"
+    ]
+  },
+  {
+    "word": "wastage",
+    "ipa": "/ˈweɪstɪdʒ/",
+    "meaning": "损耗、浪费量",
+    "sense": "本来投入一百份，过程中有几份损失、没用上，把这部分作为过程损耗来谈。",
+    "split": "waste + -age，形成过程、结果或总量相关名词，词尾 e 与后缀衔接为 wastage。",
+    "history": [
+      [
+        "法语 wast、waste、waster 等 → 中古英语 wast、wasten",
+        "荒废、毁坏、空旷；拉丁语与日耳曼语背景交互影响"
+      ],
+      [
+        "英语 waste",
+        "荒废、无效耗用 → 浪费；废料、废物"
+      ],
+      [
+        "waste + -age → wastage",
+        "被浪费、损失的过程或数量"
+      ]
+    ],
+    "explanation": "reduce wastage 减少损耗，water wastage 水的浪费，material wastage 材料损耗；通常不可数。",
+    "usage": "reduce wastage；material wastage；minimize wastage。",
+    "contrast": "wastage 强调耗损情况或数量，waste 可直接指废料本身；一袋废料通常叫 a bag of waste，不常叫 a bag of wastage。",
+    "examples": [
+      [
+        "Better measurements reduced material wastage.",
+        "测量更准确后，材料损耗减少了。"
+      ],
+      [
+        "The report examines water wastage in the building.",
+        "报告研究了这栋楼的用水浪费情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wastage#English"
+    ]
+  },
+  {
+    "word": "waster",
+    "ipa": "英 /ˈweɪstə/；美 /ˈweɪstər/",
+    "meaning": "浪费者；游手好闲的人〔口语、贬义〕",
+    "sense": "有时在说某人乱花、浪费资源；单独说 a waster，尤其英式口语，也可能是在骂他不务正业。",
+    "split": "waste + -er，执行浪费行为的人；中古英语已有对应人物词。较宽泛的人物贬称后来按懒散、无所事事理解。",
+    "history": [
+      [
+        "法语 wast、waste、waster 等 → 中古英语 wast、wasten",
+        "荒废、毁坏、空旷；拉丁语与日耳曼语背景交互影响"
+      ],
+      [
+        "英语 waste",
+        "荒废、无效耗用 → 浪费；废料、废物"
+      ],
+      [
+        "waste + -er → waster",
+        "浪费者；引申被斥为无所事事的人"
+      ]
+    ],
+    "explanation": "a waster of money 浪费钱的人，a complete waster 彻底不务正业的人〔贬称〕。普通中性介绍人物不这样叫。",
+    "usage": "a waster of money；a complete waster；a waster of resources。",
+    "contrast": "waster 人，waste 废物或浪费；说某人 a waster 带评价，不等于正式职业失业者 unemployed person。",
+    "examples": [
+      [
+        "He was a careless waster of money.",
+        "他花钱大手大脚，毫不在意。"
+      ],
+      [
+        "The character dismisses his brother as a complete waster.",
+        "这个角色把自己的弟弟贬为一个彻底不务正业的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waster#English"
+    ]
+  },
+  {
+    "word": "wastebasket",
+    "ipa": "英 /ˈweɪstbɑːskɪt/；美 /ˈweɪstbæskɪt/",
+    "meaning": "废纸篓、小垃圾桶",
+    "sense": "放在桌旁，把不要的纸等废物投进去的小容器。名字说装什么，不保证真是编织篮子。",
+    "split": "waste 废物 + basket 篮，按用途命名，现代也可用塑料、金属等材料制作。",
+    "history": [
+      [
+        "法语 wast、waste、waster 等 → 中古英语 wast、wasten",
+        "荒废、毁坏、空旷；拉丁语与日耳曼语背景交互影响"
+      ],
+      [
+        "英语 waste",
+        "荒废、无效耗用 → 浪费；废料、废物"
+      ],
+      [
+        "waste + basket → wastebasket",
+        "装废纸等废物的小容器"
+      ]
+    ],
+    "explanation": "empty the wastebasket 倒废纸篓，throw something into the wastebasket 扔进废纸篓。",
+    "usage": "empty the wastebasket；a desk-side wastebasket；in the wastebasket。",
+    "contrast": "wastebasket 容器，wastepaper 废纸；dustbin、trash can、rubbish bin 在地区用法和容器大小上有不同习惯。",
+    "examples": [
+      [
+        "She dropped the torn envelope into the wastebasket.",
+        "她把撕开的信封扔进废纸篓。"
+      ],
+      [
+        "Please empty the wastebasket beside the desk.",
+        "请把桌旁的废纸篓倒一下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wastebasket#English"
+    ]
+  }
+]

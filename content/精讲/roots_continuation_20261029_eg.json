@@ -1,0 +1,58 @@
+[
+  {
+    "id": "B2565",
+    "meaning": "蓝色、带蓝与固定动植物名称",
+    "core": "BLUE：先学颜色，再把固定名称分别记清",
+    "image": "blue、bluer、bluish 排在一起；blueberry、bluebird、bluebell 按果、鸟、花归组；bluegrass 单列草与音乐的历史连接。",
+    "intro": "颜色词经法语接日耳曼词族。固定动植物名有实际指称，不能仅凭字面颜色判断物种；较冷门的鱼、石、专名先保留词典版。",
+    "forms": "blue → bluer、bluish；blue + berry、bird、bell、grass；已有 blueprint 共享。\n\n颜色词经法语接日耳曼来源，忧郁义与音乐义有各自后续历史。",
+    "branches": [
+      [
+        "核心颜色与程度",
+        "blue · bluer · bluish"
+      ],
+      [
+        "植物、果实与鸟名",
+        "blueberry · bluebird · bluebell · bluegrass"
+      ],
+      [
+        "已有图纸词",
+        "blueprint"
+      ],
+      [
+        "blue → blues：蓝色、低落与音乐名称",
+        "blue · blues"
+      ]
+    ],
+    "contrasts": "bluer 更蓝，bluish 略带蓝；bluegrass 音乐不是 blues；bluebird 不泛指所有蓝鸟。",
+    "practice": "The bluish glass looked bluer against the white wall.\n\n那块带蓝色的玻璃衬着白墙，看起来更蓝了。",
+    "words": [
+      "blue",
+      "bluer",
+      "bluish",
+      "blueberry",
+      "bluebird",
+      "bluebell",
+      "bluegrass",
+      "blueprint",
+      "blues"
+    ],
+    "exclude": {
+      "blue-red": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blue-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wine-blue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blue-gray": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gray-blue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blue-collar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blue-pencil": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluefin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluewater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluebeard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluegill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blueline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluefish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

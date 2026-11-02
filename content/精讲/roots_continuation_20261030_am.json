@@ -1,0 +1,96 @@
+[
+  {
+    "id": "B2813",
+    "meaning": "甜、悦人、贴心；味觉与情感共用的愉悦感",
+    "core": "SWEET：入口甜，听着、闻着、相处着也舒服",
+    "image": "sweet 的味觉、感官、待人三路先抓住；sweeten 是改变，sweetness 是性质，sweetly 是方式，sweetie 是亲昵称呼。",
+    "intro": "古英语已有不止味甜的用法。用甜的感受帮助理解，别把学习联想写成未经证实的历史时间线。",
+    "forms": "sweet + -en/-ness/-ly/-ie；bitter + sweet；sweet + heart。\n\nsweet 承古英语 swete，令人愉快的意义也很早。现代名词复数 sweets 常说糖果、甜食，尤其英式常用；形容词本身不随名词变复数。",
+    "branches": [
+      [
+        "基本感受与变化",
+        "sweet · sweeten · sweetness · sweetly"
+      ],
+      [
+        "人和亲昵关系",
+        "sweetie · sweetheart"
+      ],
+      [
+        "两种感受交织",
+        "bittersweet"
+      ],
+      [
+        "sweet 甜的 → sweets 甜食",
+        "sweets"
+      ]
+    ],
+    "contrasts": "sweet/suite 同音不同源；sweetness 性质、sweets 糖果；sweeten the deal 是改善条件；bittersweet 喜忧并存。",
+    "practice": "The sweetie smiled sweetly, but the farewell still felt bittersweet.\n\n这个可爱的人甜甜地笑着，但告别仍让人喜忧交织。",
+    "words": [
+      "sweet",
+      "sweeten",
+      "sweetness",
+      "sweetly",
+      "sweetie",
+      "sweetheart",
+      "bittersweet",
+      "sweets"
+    ],
+    "exclude": {
+      "honey-sweet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sweetwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3953",
+    "meaning": "野生、未驯服；从自然状态到狂放和缺少约束",
+    "core": "WILD：没人驯服、没人管住的状态",
+    "image": "wild → wildly、wildness；wilderness 单讲地方和旧动物成分，wildflower、wildcat 再接用途。既有 wildlife、wildfire、wildcard 共享。",
+    "intro": "先用野生、天然的画面理解，再按动作失控、程度极高等固定用法延伸；更远来源不强行确定。",
+    "forms": "wild + -ly/-ness；wilderness 有旧 wilddēor 等历史；wild + flower/cat/life/fire/card。\n\nbe- 加旧动词 wilder 引入迷途等，wilder 可能从 wilderness 逆构；现代 bewilder 写情境、信息把人弄糊涂，不能把中间 er 当比较级简单直拆。",
+    "branches": [
+      [
+        "性质、方式与地方",
+        "wild · wildly · wildness · wilderness"
+      ],
+      [
+        "野生植物与动物",
+        "wildflower · wildcat · wildlife"
+      ],
+      [
+        "火势与规则比喻",
+        "wildfire · wildcard"
+      ],
+      [
+        "bewilder：像被带到陌生旷野般辨不清方向",
+        "wild · wilderness · bewilder · bewildered · bewildering · bewilderingly · bewilderment"
+      ]
+    ],
+    "contrasts": "wildly 狂乱、极其与 widely 广泛分清；wildness 性质、wilderness 地方；wildcat strike 说明组织授权情况。",
+    "practice": "Wildflowers filled the valley, preserving a sense of wildness.\n\n山谷开满野花，保留着一种天然野趣。",
+    "words": [
+      "wild",
+      "wildly",
+      "wildness",
+      "wilderness",
+      "wildflower",
+      "wildcat",
+      "wildlife",
+      "wildfire",
+      "wildcard",
+      "bewilder",
+      "bewildered",
+      "bewildering",
+      "bewilderingly",
+      "bewilderment"
+    ],
+    "exclude": {
+      "wildwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wilding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wildland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wildling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wilden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wildfowl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

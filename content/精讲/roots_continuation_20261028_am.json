@@ -1,0 +1,164 @@
+[
+  {
+    "id": "B2414",
+    "meaning": "书、记录册；登记、预约",
+    "core": "BOOK：把文字、信息、交易或约定记成可查的记录",
+    "image": "阅读是一本书，记账是账簿，预订是把名字放进记录；先认出每个词用了哪一种 book。",
+    "intro": "book 接古英语 bōc，经中古英语延续。动词预订、记名从记录用法理解；bookmaker 现代常见博彩义不等于所有制作书籍的职业。",
+    "forms": "book → booklet、bookish、bookworm；售书 bookseller → bookselling，装订 bookbinder → bookbinding，记账 bookkeeper → bookkeeping 各自相邻。书店、家具、书签清单、内容分类、便携记录物及预订另分组。\n\nbooks 既可作书的复数，也可作预订的动词形式；账簿义保留书面记录的历史联系。\n\n本族书名衍生登记、预订动词，过去形式 k 后读 t。\n\n古英语书、记录材料转动词，现代直接加完整 ing。\n\nshelf、case、end 分别说明架板、容器家具、两端支物。\n\n前半 note 说明记录用途，电脑名称为后来的用途、形态比喻。\n\n阅读位置标记的用途进入数字内容；收藏链接不自动等于下载全文。\n\nbookkeeper 的 book 是账簿，其他多取阅读物、书册；handbook 有旧英语用词中断后受德语影响复兴的历史。\n\nbook 的书面登记义发展到预订，-ing 形成具体事项名词后再加复数。\n\nbook + maker；制作书籍义较早，投注业务义较晚，联系记录赌注的 book。现代 bookmakers 常指经营接收投注的一方，不是普通下注者的总称。",
+    "branches": [
+      [
+        "基本书与读者形象",
+        "book · booklet · bookish · bookworm"
+      ],
+      [
+        "销售、装订与记账",
+        "bookstore · bookshop · bookseller · bookselling · bookbinder · bookbinding · bookkeeper · bookkeeping"
+      ],
+      [
+        "存放、标记和目录",
+        "bookcase · bookshelf · bookmark · booklist · bookend"
+      ],
+      [
+        "书的内容、用途与媒介",
+        "cookbook · storybook · sketchbook · scrapbook · rulebook · sourcebook · casebook · songbook · artbook · phonebook · textbook · notebook · yearbook · playbook · audiobook · workbook · photobook · factbook · lookbook"
+      ],
+      [
+        "便携物与记录名称",
+        "pocketbook · passbook · matchbook · facebook"
+      ],
+      [
+        "博彩与预订的动词分支",
+        "bookmaker · bookmaking · bookable · rebook"
+      ],
+      [
+        "book → books：书、账簿与预订",
+        "book · books"
+      ],
+      [
+        "book → booked：把名字、安排记进本子",
+        "book · booked"
+      ],
+      [
+        "book → booking：写入记录到预订",
+        "book · booking"
+      ],
+      [
+        "book 的储放用品：书架、书柜、书立及复数",
+        "book · bookshelf · bookshelves · bookcase · bookcases · bookend · bookends"
+      ],
+      [
+        "notebook → notebooks：记事用册子与便携电脑名",
+        "book · notebook · notebooks"
+      ],
+      [
+        "bookmark 从书签到收藏入口与动作变化",
+        "bookmark · bookmarks · bookmarked · bookmarking"
+      ],
+      [
+        "book 的阅读形式、书店、职业与用途组合",
+        "book · ebook · ebooks · audiobook · audiobooks · bookshop · bookshops · bookstore · bookstores · bookworm · bookworms · bookkeeper · bookkeepers · bookseller · booksellers · bookbinder · bookbinders · textbook · textbooks · workbook · workbooks · guidebook · guidebooks · handbook · handbooks · pocketbook · pocketbooks · storybook · storybooks"
+      ],
+      [
+        "booking → bookings：登记预订的多项记录",
+        "booking · bookings"
+      ],
+      [
+        "bookmakers：制书旧义与经营投注的常见义",
+        "bookmaker · bookmakers"
+      ]
+    ],
+    "contrasts": "bookcase 书柜、casebook 案例书；bookkeeper 记账、bookseller 售书、bookmaker 常指博彩经营者。bookable 可订，booked 已订；book 不是每次都指阅读物。",
+    "practice": "The bookseller put a booklet on the bookshelf while the bookkeeper finished the bookkeeping.\n\n书商把小册子放上书架，簿记员则完成了记账。",
+    "words": [
+      "book",
+      "booklet",
+      "bookish",
+      "bookworm",
+      "bookstore",
+      "bookshop",
+      "bookseller",
+      "bookselling",
+      "bookbinder",
+      "bookbinding",
+      "bookkeeper",
+      "bookkeeping",
+      "bookcase",
+      "bookshelf",
+      "bookmark",
+      "booklist",
+      "bookend",
+      "cookbook",
+      "storybook",
+      "sketchbook",
+      "scrapbook",
+      "rulebook",
+      "sourcebook",
+      "casebook",
+      "songbook",
+      "artbook",
+      "phonebook",
+      "textbook",
+      "notebook",
+      "yearbook",
+      "playbook",
+      "audiobook",
+      "workbook",
+      "photobook",
+      "factbook",
+      "lookbook",
+      "pocketbook",
+      "passbook",
+      "matchbook",
+      "facebook",
+      "bookmaker",
+      "bookmaking",
+      "bookable",
+      "rebook",
+      "books",
+      "booked",
+      "booking",
+      "bookshelves",
+      "bookcases",
+      "bookends",
+      "notebooks",
+      "bookmarks",
+      "bookmarked",
+      "bookmarking",
+      "ebook",
+      "ebooks",
+      "audiobooks",
+      "bookshops",
+      "bookstores",
+      "bookworms",
+      "bookkeepers",
+      "booksellers",
+      "bookbinders",
+      "textbooks",
+      "workbooks",
+      "guidebook",
+      "guidebooks",
+      "handbook",
+      "handbooks",
+      "pocketbooks",
+      "storybooks",
+      "bookings",
+      "bookmakers"
+    ],
+    "exclude": {
+      "by-book": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "off-book": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-book": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "block-book": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "book-learned": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "book-teaching": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "book-hunt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "book-cloth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "book-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "booker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bookman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sportsbook": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ultrabook": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

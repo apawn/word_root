@@ -1,0 +1,166 @@
+[
+  {
+    "id": "A1905",
+    "meaning": "幼小个体、某类成员与带评价的人物后缀",
+    "core": "-LING：一类中的小个体，也能按关系、地位叫人",
+    "image": "duckling、gosling、sapling；sibling、underling；同形 -ing 要另拆。",
+    "intro": "动物、植物的幼小分支很直观，亲属、地位分支却未必说小。先认前项，再判断它是在命名年龄、关系还是态度。",
+    "forms": "日耳曼旧 -ling 形式；goose 的 gosling 有借入与音形变化；fledgling 去 fledge 末 e；dumpling 前项来源未定。\n\n早期英语方言词，更远来源未定，dump 团块加 ling 只是候选分析。\n\nseed 加 ling 的构词与其他贬义 ling 词分别理解，不因相同词尾就一律带贬意。",
+    "branches": [
+      [
+        "亲属与地位评价",
+        "sibling · underling · weakling · earthling"
+      ],
+      [
+        "动物生命阶段、年龄",
+        "hatchling · nestling · fledgling · duckling · gosling · suckling · yearling"
+      ],
+      [
+        "幼植物",
+        "seedling · sapling"
+      ],
+      [
+        "历史人物、变化与食物名称",
+        "foundling · changeling · dumpling"
+      ],
+      [
+        "dumpling → dumplings：面团块、面皮包馅食物",
+        "dumpling · dumplings"
+      ],
+      [
+        "-ling 的幼小个体名 seedling 及复数",
+        "seedling · seedlings"
+      ]
+    ],
+    "contrasts": "sibling 不只小孩；buckling 常用屈曲义是 buckle + -ing，cowling 罩壳是 cowl + -ing；nestling 也有 nestle + -ing 的同形分词。",
+    "practice": "The hatchling grew into a nestling and later a fledgling.\n\n那只刚孵出的鸟长成巢中幼鸟，后来羽翼渐丰。",
+    "words": [
+      "sibling",
+      "underling",
+      "weakling",
+      "earthling",
+      "hatchling",
+      "nestling",
+      "fledgling",
+      "duckling",
+      "gosling",
+      "suckling",
+      "yearling",
+      "seedling",
+      "sapling",
+      "foundling",
+      "changeling",
+      "dumpling",
+      "dumplings",
+      "seedlings"
+    ],
+    "exclude": {
+      "buckling": "常用屈曲义为 buckle + -ing，不是幼小后缀 -ling。",
+      "grayling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fondling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "carling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "titling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cowling": "常用罩壳义为 cowl + -ing；罕见小牛同形义本轮暂缓。",
+      "halfling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "needling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wildling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shearling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stripling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "darkling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3982",
+    "meaning": "面颊、脸面引出无礼，轻重随语境",
+    "core": "CHEEK：身体的脸颊，态度里也能借脸面说大胆",
+    "image": "cheek → cheekbone、cheeky。",
+    "intro": "骨头名是实体复合，cheeky 则走无礼、调皮的态度分支。别把身体含义或态度评价套到全部用法。",
+    "forms": "旧英语面颊词 → cheek；bone 骨；-y 具有相应性质。\n\n本族继承的脸颊、颌部材料，复数加 s。",
+    "branches": [
+      [
+        "面颊与颧骨",
+        "cheek · cheekbone"
+      ],
+      [
+        "态度性质",
+        "cheeky"
+      ],
+      [
+        "cheek → cheeks：面颊与其他圆凸部位",
+        "cheek · cheeks"
+      ]
+    ],
+    "contrasts": "cheeky 的玩笑或冒犯轻重取决于场合；cheekbone 是骨头名。",
+    "practice": "Her cheeks lifted in a cheeky grin.\n\n她调皮一笑，脸颊也扬了起来。",
+    "words": [
+      "cheek",
+      "cheekbone",
+      "cheeky",
+      "cheeks"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4479",
+    "meaning": "手的工作形成外科词族，再限定方式与神经专业",
+    "core": "SURGICAL：现代外科词里藏着手 + 工作的旧组合",
+    "image": "surgery、surgeon → surgical、surgically；neurosurgical 再加神经专业。",
+    "intro": "古词形经过多次缩短，今天不再完整保留手、工作的字母。用词族认形，再按 -ical、-ly、neuro- 区分专业、性质和方式。",
+    "forms": "kheir + ergon → kheirourgia → 拉丁、法语缩短形式 → surg- 词族；-ical 性质，-ly 方式，neuro- 神经。",
+    "branches": [
+      [
+        "外科领域、人物与性质",
+        "surgery · surgeon · surgical"
+      ],
+      [
+        "方式与专业限定",
+        "surgically · neurosurgical"
+      ]
+    ],
+    "contrasts": "medical 范围更广；neuro- 神经专业不等于普通紧张情绪。",
+    "practice": "The neurosurgical team discussed the surgical plan with the surgeon.\n\n神经外科团队与外科医生讨论了手术方案。",
+    "words": [
+      "surgery",
+      "surgeon",
+      "surgical",
+      "surgically",
+      "neurosurgical"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3253",
+    "meaning": "粗短箭的杆状形状与疾射动作，各走一支",
+    "core": "BOLT：像杆就能固定，像箭就能突然飞出去",
+    "image": "bolt → deadbolt；thunderbolt 雷电相关复合。",
+    "intro": "形状解释门闩、螺栓；速度解释突然逃跑、雷电；把这两支并列看，日常多义就好记。",
+    "forms": "古英语 bolt 粗短箭；短杆用途、疾射运动分别扩展；dead、thunder 限定复合词。\n\n短箭旧名的形状、速度分支；筛粉同形词另源，不并入这条主线。",
+    "branches": [
+      [
+        "固定杆、门闩及动作",
+        "bolt · deadbolt"
+      ],
+      [
+        "雷电的形象",
+        "thunderbolt"
+      ],
+      [
+        "bolt 的短杆、门闩与突然冲出动作",
+        "bolt · bolts · bolted · bolting"
+      ]
+    ],
+    "contrasts": "普通锁闩词与冷门筛粉同形词另源；bolt down food 是快速吞食。",
+    "practice": "A thunderbolt startled the horse, and it bolted towards the gate.\n\n一声雷电惊到了马，它猛地冲向大门。",
+    "words": [
+      "bolt",
+      "deadbolt",
+      "thunderbolt",
+      "bolts",
+      "bolted",
+      "bolting"
+    ],
+    "exclude": {
+      "bolter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

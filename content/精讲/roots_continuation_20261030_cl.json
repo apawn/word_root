@@ -1,0 +1,85 @@
+[
+  {
+    "id": "B2575",
+    "meaning": "第四、四分之一；旧份额派生",
+    "core": "FOURTH：数到第四位，或四等份中的一份",
+    "image": "fourth → fourthly；farthing 另接古英语第四与份额词的历史支线，标清旧币名。",
+    "intro": "farthing 不是现代 far 与 thing 合成。本组少量旧词用于读历史文学，不再扩张更冷门币制。",
+    "forms": "four + 序数 -th；fourth + -ly；farthing 接旧 fourth 形和份额名词材料，不是现代进行时。",
+    "branches": [
+      [
+        "序数、分数与列举",
+        "fourth · fourthly"
+      ],
+      [
+        "历史四分之一币值",
+        "farthing"
+      ]
+    ],
+    "contrasts": "four 数量、fourth 序数；forth 同音异词；farthing 非远的东西，不作现代流通币。",
+    "practice": "Fourthly, divide the cake into fourths.\n\n第四，把蛋糕分成四等份。",
+    "words": [
+      "fourth",
+      "fourthly",
+      "farthing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3747",
+    "meaning": "自由、不受束缚发展为表达开放",
+    "core": "FRANK：把想法放开说，直白坦诚",
+    "image": "frank → frankly → frankness，性质、方式、性质名词相邻。",
+    "intro": "民族名与自由旧义的关系有历史根据，民族名更远命名不强断。这里只精讲直率词族，其他同形用法在基础词处提醒。",
+    "forms": "法语 franc → frank；frank + -ly/-ness。",
+    "branches": [
+      [
+        "坦率性质及其派生",
+        "frank · frankly · frankness"
+      ]
+    ],
+    "contrasts": "frank 坦率、blunt 可能更生硬；Frank 大写可人名；frankly 标态度，不替说法提供证据。",
+    "practice": "She spoke frankly, and I appreciated her frankness.\n\n她直说了自己的想法，我很欣赏这份坦率。",
+    "words": [
+      "frank",
+      "frankly",
+      "frankness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3566",
+    "meaning": "内在生命、精神与情感；人物借称",
+    "core": "SOUL：外壳里面的精神、感情和生命意味",
+    "image": "soul → soulful、soulless；soulmate 作为心灵伙伴名称放后面。",
+    "intro": "近源古英语可靠，更远海洋假说不写成定论。音乐种类、宗教概念和日常温情比喻各有场景，不全塞成一个抽象灵魂。",
+    "forms": "soul + -ful/-less；soul + mate；soulless 保留两个 l。\n\n继承古英语 sawol，更远来源不确定；音乐义有特定文化发展。",
+    "branches": [
+      [
+        "内在精神、情感与缺乏",
+        "soul · soulful · soulless"
+      ],
+      [
+        "心灵契合的人",
+        "soulmate"
+      ],
+      [
+        "soul → souls：灵魂、内心与人物称呼",
+        "soul · souls"
+      ]
+    ],
+    "contrasts": "soul/sole 同音异词；soulful 不一定悲伤或特指音乐流派；soulless 常主观评价；soulmate 不等于法律配偶身份。",
+    "practice": "Her soulful performance gave new life to the old song.\n\n她深情的表演给那首老歌注入了新的生命。",
+    "words": [
+      "soul",
+      "soulful",
+      "soulless",
+      "soulmate",
+      "souls"
+    ],
+    "exclude": {
+      "soul-searching": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "souled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

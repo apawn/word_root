@@ -1,0 +1,746 @@
+[
+  {
+    "word": "box",
+    "ipa": "/bɒks/；美 /bɑːks/",
+    "meaning": "盒、箱；方框；另有拳击动词",
+    "sense": "容器义可以从实体箱子延伸到屏幕上的方框；拳击义则要另分一条历史来源。",
+    "split": "容器词古英语已有，接拉丁等盒、木盒相关词；黄杨树名也有相关历史。击打动词接中古英语 box 一击，远源不明，不说拳击是在盒子里打。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "中古英语 box 击打、打击",
+        "更远来源不确定；与盒子义分开"
+      ],
+      [
+        "box → boxing、boxer",
+        "用拳击打 → 拳击运动、拳击手"
+      ]
+    ],
+    "explanation": "a cardboard box 纸箱，tick a box 勾选方框，box the goods 把货装箱；box as a sport 参加拳击。",
+    "usage": "a cardboard box；a box of；tick a box；box something up。",
+    "contrast": "box 不必是完美正方体，普通长方体纸箱也叫 box；box 拳击与包装动作要看语境。",
+    "examples": [
+      [
+        "Put the books in that cardboard box.",
+        "把书放进那个纸箱。"
+      ],
+      [
+        "Please tick the box beside your choice.",
+        "请在所选项旁的方框打勾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/box#English"
+    ]
+  },
+  {
+    "word": "boxy",
+    "ipa": "/ˈbɒksi/；美 /ˈbɑːksi/",
+    "meaning": "方盒状的；轮廓方正宽松的",
+    "sense": "形状棱角分明、像个盒子；衣服也可以说剪裁方正、宽松直落。",
+    "split": "box + -y，后缀表示具有某特点。boxy 不等于被装进盒子，只形容外观。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "box + -y → boxy",
+        "像盒子的 → 方正轮廓的"
+      ]
+    ],
+    "explanation": "a boxy car 方头方脑的汽车，a boxy jacket 方正宽松的夹克；评价可中性或带笨重感。",
+    "usage": "a boxy car；a boxy jacket；a boxy shape。",
+    "contrast": "boxy 像盒子的形状，boxed 已装箱；a boxy jacket 不是还在包装里的夹克。",
+    "examples": [
+      [
+        "The car has a boxy shape.",
+        "这辆车的外形方方正正。"
+      ],
+      [
+        "She chose a short, boxy jacket.",
+        "她选了一件短款、宽松方正的夹克。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boxy#English"
+    ]
+  },
+  {
+    "word": "unbox",
+    "ipa": "/ʌnˈbɒks/；美 /ʌnˈbɑːks/",
+    "meaning": "开箱；把东西从包装盒取出",
+    "sense": "原来在盒里，现在把包装打开、把东西拿出来；网络上也常拍成开箱视频。",
+    "split": "un- 解除、逆转 + box 装箱，构成装箱的逆动作。不是否定盒子的存在。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "un- + box → unbox",
+        "解除装箱 → 开箱、取出"
+      ]
+    ],
+    "explanation": "unbox a phone 开箱新手机，an unboxing video 开箱视频；动作不保证是在作产品评测。",
+    "usage": "unbox a phone；unbox a parcel；an unboxing video。",
+    "contrast": "unbox 开箱取物，review 评测、评论；一段开箱视频可能还没有充分使用过产品。",
+    "examples": [
+      [
+        "She filmed herself unboxing the new camera.",
+        "她拍下了自己给新相机开箱的过程。"
+      ],
+      [
+        "We unboxed the equipment and checked the parts.",
+        "我们把设备从箱里取出，检查了零件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbox#English"
+    ]
+  },
+  {
+    "word": "boxing",
+    "ipa": "/ˈbɒksɪŋ/；美 /ˈbɑːksɪŋ/",
+    "meaning": "拳击；另可指装箱活动",
+    "sense": "体育报道里通常是拳击运动；仓库里 boxing the goods 才可能是把货装箱。",
+    "split": "拳击义取 box 击打 + -ing，装箱义则接容器动词 box。现代拼写相同，不能用一个词源故事抹掉差别。",
+    "history": [
+      [
+        "中古英语 box 击打、打击",
+        "更远来源不确定；与盒子义分开"
+      ],
+      [
+        "box → boxing、boxer",
+        "用拳击打 → 拳击运动、拳击手"
+      ],
+      [
+        "box + -ing → boxing",
+        "拳击活动；另源容器动词可指装箱"
+      ]
+    ],
+    "explanation": "a boxing match 拳击比赛，boxing gloves 拳击手套；boxing up books 把书装箱。",
+    "usage": "a boxing match；boxing gloves；boxing training。",
+    "contrast": "boxing ring 拳击台现代通常方形，ring 的历史命名不要求今天仍是圆的；不是 box 盒子直接变体育。",
+    "examples": [
+      [
+        "They watched a boxing match on television.",
+        "他们在电视上看了一场拳击比赛。"
+      ],
+      [
+        "The club offers boxing classes for beginners.",
+        "俱乐部开设初学者拳击课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boxing#English"
+    ]
+  },
+  {
+    "word": "boxer",
+    "ipa": "英 /ˈbɒksə/；美 /ˈbɑːksər/",
+    "meaning": "拳击手；拳师犬；复数可指平角内裤",
+    "sense": "基本是参与拳击的人；犬种、内裤等名称又借了拳击相关的形象或衣着。",
+    "split": "box 击打 + -er 形成拳击手名词。boxers 内裤可由 boxer shorts 缩短；拳师犬名称有特定犬种命名史，不因名字就认定所有犬都按拳击动作命名。",
+    "history": [
+      [
+        "中古英语 box 击打、打击",
+        "更远来源不确定；与盒子义分开"
+      ],
+      [
+        "box → boxing、boxer",
+        "用拳击打 → 拳击运动、拳击手"
+      ],
+      [
+        "box + -er → boxer",
+        "拳击的人；另有犬种、衣物称呼"
+      ]
+    ],
+    "explanation": "a professional boxer 职业拳击手，a boxer dog 拳师犬，a pair of boxers 一条平角内裤。",
+    "usage": "a professional boxer；a boxer dog；a pair of boxers。",
+    "contrast": "boxer 不是装盒工的唯一固定译法；a pair of boxers 语境通常衣物，不能译一对拳击手。",
+    "examples": [
+      [
+        "The boxer won his first professional match.",
+        "拳击手赢下了首场职业比赛。"
+      ],
+      [
+        "Their boxer dog waited by the gate.",
+        "他们的拳师犬在门边等着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boxer#English"
+    ]
+  },
+  {
+    "word": "inbox",
+    "ipa": "/ˈɪnbɒks/；美 /ˈɪnbɑːks/",
+    "meaning": "收件箱",
+    "sense": "新来的文件、消息先放进这里；从桌上的来文盘延伸到电子邮件收件区域。",
+    "split": "in 进来的 + box 容器，按接收文件用途命名，再成为电子邮件界面常用词。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "in + box → inbox",
+        "接收来件的容器 → 电子收件箱"
+      ]
+    ],
+    "explanation": "check your inbox 查收件箱，an empty inbox 空收件箱；inbox 是消息的接收位置，不只是账号。",
+    "usage": "check your inbox；an empty inbox；inbox messages。",
+    "contrast": "inbox 收件，outbox 待发件；sent folder 已发件又是另一状态，不把所有邮件区域都叫 inbox。",
+    "examples": [
+      [
+        "Please check your inbox for the confirmation email.",
+        "请查看收件箱中的确认邮件。"
+      ],
+      [
+        "Her inbox was full of messages after the holiday.",
+        "假期后，她的收件箱里满是消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inbox#English"
+    ]
+  },
+  {
+    "word": "mailbox",
+    "ipa": "/ˈmeɪlbɒks/；美 /ˈmeɪlbɑːks/",
+    "meaning": "信箱；邮筒；电子邮箱",
+    "sense": "装投递邮件的地方；数字环境里也借作收发邮件的存储空间。",
+    "split": "mail 邮件 + box 箱。实体用法可指住户信箱或公共投递邮筒，地区习惯影响具体所指；数字义是后来的延伸。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "mail + box → mailbox",
+        "邮件容器 → 信箱；电子邮箱空间"
+      ]
+    ],
+    "explanation": "a roadside mailbox 路边信箱，a full mailbox 满邮箱；drop a letter in the mailbox 把信投进邮筒。",
+    "usage": "check the mailbox；an electronic mailbox；a full mailbox。",
+    "contrast": "mailbox 可泛指邮箱空间，inbox 更具体是收件区域；英式实体邮筒也常说 postbox。",
+    "examples": [
+      [
+        "The postman left the letter in our mailbox.",
+        "邮递员把信放进了我们的信箱。"
+      ],
+      [
+        "The message could not be delivered because the mailbox was full.",
+        "邮箱满了，消息无法送达。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mailbox#English"
+    ]
+  },
+  {
+    "word": "toolbox",
+    "ipa": "/ˈtuːlbɒks/；美 /ˈtuːlbɑːks/",
+    "meaning": "工具箱；一组可用方法、工具",
+    "sense": "先装锤子、螺丝刀，后来也借来装一套解决问题的方法。",
+    "split": "tool 工具 + box 箱，实体容器义扩展到软件工具集、方法集合。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "tool + box → toolbox",
+        "装工具的箱 → 工具集、方法库"
+      ]
+    ],
+    "explanation": "a metal toolbox 金属工具箱，a digital toolbox 数字工具集；a toolbox of techniques 一套技巧。",
+    "usage": "a metal toolbox；a digital toolbox；a toolbox of techniques。",
+    "contrast": "toolbox 不必是真有箱子，软件界面也可叫 toolbox；toolkit 与其有重合，更强调一套工具。",
+    "examples": [
+      [
+        "He put the screwdriver back in the toolbox.",
+        "他把螺丝刀放回工具箱。"
+      ],
+      [
+        "The course gives students a toolbox of practical techniques.",
+        "课程为学生提供了一套实用方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toolbox#English"
+    ]
+  },
+  {
+    "word": "lunchbox",
+    "ipa": "/ˈlʌntʃbɒks/；美 /ˈlʌntʃbɑːks/",
+    "meaning": "午餐盒；饭盒",
+    "sense": "把要带走吃的午餐装起来，常见于上学、上班带饭。",
+    "split": "lunch 午餐 + box 盒，按用途命名。形状可圆可方，也可能是保温容器。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "lunch + box → lunchbox",
+        "装午餐的盒 → 饭盒"
+      ]
+    ],
+    "explanation": "pack a lunchbox 装好午餐盒，a reusable lunchbox 可重复用饭盒；不能把用途名当唯一可装食物的时间限制。",
+    "usage": "pack a lunchbox；a school lunchbox；a reusable lunchbox。",
+    "contrast": "lunchbox 是容器，packed lunch 是带着吃的午餐；你可以把 packed lunch 放进 lunchbox。",
+    "examples": [
+      [
+        "She packed fruit and sandwiches in the lunchbox.",
+        "她把水果和三明治装进饭盒。"
+      ],
+      [
+        "He left his lunchbox on the bus.",
+        "他把饭盒落在公交车上了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lunchbox#English"
+    ]
+  },
+  {
+    "word": "shoebox",
+    "ipa": "/ˈʃuːbɒks/；美 /ˈʃuːbɑːks/",
+    "meaning": "鞋盒；极小空间的比喻",
+    "sense": "原本装鞋的盒子；说房间像 shoebox，便是在夸张它小得像个盒子。",
+    "split": "shoe 鞋 + box，实体盒子扩展为狭小、方盒状空间的口语比喻。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "shoe + box → shoebox",
+        "装鞋的盒 → 狭小空间比喻"
+      ]
+    ],
+    "explanation": "an old shoebox 旧鞋盒，a shoebox apartment 小得像鞋盒的公寓；语气带评价。",
+    "usage": "an old shoebox；a shoebox apartment；store photos in a shoebox。",
+    "contrast": "shoebox apartment 比喻小，不是用纸盒搭的房屋；shoe 的单数作复合词前部，不写 shoesbox。",
+    "examples": [
+      [
+        "She keeps old letters in a shoebox.",
+        "她把旧信放在鞋盒里。"
+      ],
+      [
+        "Their first flat was a tiny shoebox above a shop.",
+        "他们第一套公寓在商店楼上，小得像个鞋盒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shoebox#English"
+    ]
+  },
+  {
+    "word": "matchbox",
+    "ipa": "/ˈmætʃbɒks/；美 /ˈmætʃbɑːks/",
+    "meaning": "火柴盒",
+    "sense": "装火柴的小盒子；小巧的尺寸也常用于比较别的物件。",
+    "split": "match 火柴 + box 盒。match 在这里不是比赛、配对，而是点火物。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "match + box → matchbox",
+        "装火柴的盒子"
+      ]
+    ],
+    "explanation": "an empty matchbox 空火柴盒，a matchbox-sized object 火柴盒大小的物件。",
+    "usage": "an empty matchbox；a small matchbox；the size of a matchbox。",
+    "contrast": "matchbox 不是比赛包厢；match 的具体义由整个固定词决定。",
+    "examples": [
+      [
+        "He found an old matchbox in the drawer.",
+        "他在抽屉里发现了一个旧火柴盒。"
+      ],
+      [
+        "The device is no bigger than a matchbox.",
+        "这个装置不比火柴盒大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/matchbox#English"
+    ]
+  },
+  {
+    "word": "gearbox",
+    "ipa": "英 /ˈɡɪəbɒks/；美 /ˈɡɪrbɑːks/",
+    "meaning": "变速箱；齿轮箱",
+    "sense": "把齿轮和相关传动件组织在一起，用不同传动关系传递动力。",
+    "split": "gear 齿轮、传动装置 + box 箱体，形成机械名称；具体结构因设备而异。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "gear + box → gearbox",
+        "装齿轮的机构 → 齿轮箱、变速箱"
+      ]
+    ],
+    "explanation": "a manual gearbox 手动变速箱，an automatic gearbox 自动变速箱；也用于工业设备。",
+    "usage": "a manual gearbox；an automatic gearbox；gearbox repairs。",
+    "contrast": "gearbox 不是单个 gear 齿轮，也不是整个 engine 发动机；它负责传动环节。",
+    "examples": [
+      [
+        "The mechanic inspected the gearbox.",
+        "修理工检查了变速箱。"
+      ],
+      [
+        "This model comes with an automatic gearbox.",
+        "这个车型配备自动变速箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gearbox#English"
+    ]
+  },
+  {
+    "word": "jukebox",
+    "ipa": "英 /ˈdʒuːkbɒks/；美 /ˈdʒuːkbɑːks/",
+    "meaning": "投币点唱机",
+    "sense": "在餐馆、酒吧里，付钱选一首歌，机器就播出来的那种点唱设备。",
+    "split": "juke 旧用与路边音乐酒馆、娱乐场所有关 + box 机器容器，组合成点唱机。不是 juice 果汁箱。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "juke + box → jukebox",
+        "娱乐场所相关词 + 机器箱 → 点唱机"
+      ]
+    ],
+    "explanation": "play a song on the jukebox 在点唱机选播歌曲，an old jukebox 老式点唱机。数字设备也可沿用这个名称。",
+    "usage": "an old jukebox；a jukebox song；put money in the jukebox。",
+    "contrast": "jukebox 按选择播放歌曲的使用方式命名，loudspeaker 扬声器只是播放声音的部件。",
+    "examples": [
+      [
+        "An old jukebox stood in the corner of the diner.",
+        "餐馆角落里摆着一台老式点唱机。"
+      ],
+      [
+        "She chose her favourite song on the jukebox.",
+        "她在点唱机上选了最喜欢的歌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jukebox#English"
+    ]
+  },
+  {
+    "word": "sandbox",
+    "ipa": "/ˈsændbɒks/；美 /ˈsændbɑːks/",
+    "meaning": "沙坑、沙箱；隔离测试环境",
+    "sense": "孩子在限定区域玩沙，软件也借这个场景说在隔开的环境里尝试、测试。",
+    "split": "sand 沙 + box 容器、围合空间，实体玩沙区引申为软件中的隔离运行、试验区域。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "sand + box → sandbox",
+        "限定玩沙空间 → 隔离试验环境"
+      ]
+    ],
+    "explanation": "a children’s sandbox 儿童沙坑，a testing sandbox 测试沙箱，run in a sandbox 在隔离环境运行。",
+    "usage": "play in a sandbox；a testing sandbox；a sandbox environment。",
+    "contrast": "sandbox 表隔离设计，不从名字保证任何风险都绝对隔绝；英式儿童沙坑也常叫 sandpit。",
+    "examples": [
+      [
+        "The children built roads in the sandbox.",
+        "孩子们在沙坑里修路。"
+      ],
+      [
+        "The team tested the update in a sandbox.",
+        "团队在隔离测试环境里测试更新。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandbox#English"
+    ]
+  },
+  {
+    "word": "soapbox",
+    "ipa": "英 /ˈsəʊpbɒks/；美 /ˈsoʊpbɑːks/",
+    "meaning": "肥皂箱；演说台；发表强烈主张的场合",
+    "sense": "以前装肥皂的大木箱可以拿来垫高，人站上去向路人演说；后来也比喻某人开始大讲观点。",
+    "split": "soap 肥皂 + box，先是运输肥皂的箱子，再由街头演说借作讲台、宣讲姿态的比喻。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "soap + box → soapbox",
+        "肥皂木箱 → 临时演说台、宣讲场合"
+      ]
+    ],
+    "explanation": "get on your soapbox 开始高谈某个主张，a political soapbox 政治宣讲平台。",
+    "usage": "get on your soapbox；a political soapbox；use as a soapbox。",
+    "contrast": "soapbox 比喻常带又开始说教的语气；不是所有公开演讲都带这种评价。",
+    "examples": [
+      [
+        "He got on his soapbox about the state of public transport.",
+        "他开始就公共交通现状发表一通激烈主张。"
+      ],
+      [
+        "She did not want the meeting to become a political soapbox.",
+        "她不想让会议变成政治宣讲场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soapbox#English"
+    ]
+  },
+  {
+    "word": "icebox",
+    "ipa": "/ˈaɪsbɒks/；美 /ˈaɪsbɑːks/",
+    "meaning": "旧式冰箱；冰镇保冷箱",
+    "sense": "先是放冰块保冷的箱子，后来口语也可指冰箱，或特别冷的房间。",
+    "split": "ice 冰 + box 箱，按装冰保冷机制命名。现代 fridge、refrigerator 更常指家用电冰箱。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "ice + box → icebox",
+        "装冰保冷的箱 → 冰箱、很冷的空间"
+      ]
+    ],
+    "explanation": "an old icebox 旧式冰箱，keep drinks in the icebox 把饮料放保冷箱；This room is an icebox 比喻房间冻人。",
+    "usage": "an old icebox；a wooden icebox；an icebox of a room。",
+    "contrast": "icebox 历史依靠冰块，现代 refrigerator 多靠制冷系统；口语延用可能让具体设备不同。",
+    "examples": [
+      [
+        "The museum displays a wooden icebox from an old kitchen.",
+        "博物馆展出一只旧厨房里的木制冰箱。"
+      ],
+      [
+        "This room is an icebox in winter.",
+        "这间房冬天冷得像冰窖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/icebox#English"
+    ]
+  },
+  {
+    "word": "lockbox",
+    "ipa": "/ˈlɒkbɒks/；美 /ˈlɑːkbɑːks/",
+    "meaning": "带锁箱；保险存物箱",
+    "sense": "把东西放进箱里，再用锁限制开启；大小与用途并不固定。",
+    "split": "lock 锁 + box 箱。现代可装钥匙、文件、现金等，也有金融服务专门用法，按上下文看。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "lock + box → lockbox",
+        "带锁容器 → 锁箱"
+      ]
+    ],
+    "explanation": "a key lockbox 钥匙锁箱，a metal lockbox 金属带锁箱；这里只讲物件，不展开具体开锁方式。",
+    "usage": "a key lockbox；a metal lockbox；store in a lockbox。",
+    "contrast": "lockbox 是带锁箱，不必达到 safe 保险柜的特定坚固程度；名称不直接给安全等级。",
+    "examples": [
+      [
+        "They kept the spare keys in a lockbox.",
+        "他们把备用钥匙放在带锁箱里。"
+      ],
+      [
+        "The documents were stored in a small metal lockbox.",
+        "文件存放在一个小金属锁箱里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lockbox#English"
+    ]
+  },
+  {
+    "word": "chatterbox",
+    "ipa": "英 /ˈtʃætəbɒks/；美 /ˈtʃætərbɑːks/",
+    "meaning": "话匣子；爱说话的人",
+    "sense": "把一个不停聊天的人想成一开就说个没完的匣子，通常带轻松、打趣语气。",
+    "split": "chatter 闲聊、喋喋不休 + box，形成对爱说话者的比喻称呼。不是聊天软件的唯一名称。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "chatter + box → chatterbox",
+        "不停发出闲聊的匣子 → 爱说话的人"
+      ]
+    ],
+    "explanation": "a little chatterbox 小话匣子，quite a chatterbox 真挺能聊；可亲昵，也可轻微抱怨。",
+    "usage": "a little chatterbox；quite a chatterbox；a cheerful chatterbox。",
+    "contrast": "chatterbox 重点话多，good communicator 沟通能力好；话多不一定表达有效。",
+    "examples": [
+      [
+        "My little cousin is a real chatterbox.",
+        "我的小表弟真是个话匣子。"
+      ],
+      [
+        "She becomes a cheerful chatterbox around close friends.",
+        "她在好朋友身边就变成快乐的话匣子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chatterbox#English"
+    ]
+  },
+  {
+    "word": "beatbox",
+    "ipa": "/ˈbiːtbɒks/；美 /ˈbiːtbɑːks/",
+    "meaning": "节奏机；用口技模仿鼓点",
+    "sense": "早期名字可指制造节拍的机器；人用嘴和声音模仿鼓、节拍，也发展为 beatbox 动词。",
+    "split": "beat 节拍 + box 机器。人声口技接机器节拍名称的文化使用史，不是拿拳头打箱子的字面动作。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "beat + box → beatbox",
+        "节拍机器名称 → 人声节奏口技"
+      ]
+    ],
+    "explanation": "learn to beatbox 学节奏口技，beatboxing skills 口技节拍技巧；可单独表演或伴奏。",
+    "usage": "learn to beatbox；beatboxing skills；a beatbox performance。",
+    "contrast": "beatbox 不是 boxing 拳击；同有 beat、box 的声音联想，也得按固定词义判断。",
+    "examples": [
+      [
+        "He learned to beatbox by imitating drum sounds.",
+        "他通过模仿鼓声学会了节奏口技。"
+      ],
+      [
+        "She can beatbox while her friend raps.",
+        "她能在朋友说唱时用口技伴奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beatbox#English"
+    ]
+  },
+  {
+    "word": "tinderbox",
+    "ipa": "英 /ˈtɪndəbɒks/；美 /ˈtɪndərbɑːks/",
+    "meaning": "火绒盒；一触即发的危险局面",
+    "sense": "里面装容易点着的引火物；比喻局面时，是一点小刺激就可能引出严重冲突或大火。",
+    "split": "tinder 引火物、火绒 + box，先是保存引火材料的盒，再借易燃扩展为高度紧张、容易爆发的状态。",
+    "history": [
+      [
+        "拉丁、晚期拉丁容器词 → 古英语 box → 现代 box",
+        "盒、箱；与黄杨木、木盒词有历史联系"
+      ],
+      [
+        "现代容器 box",
+        "实体容器 → 邮件、软件隔离空间等比喻"
+      ],
+      [
+        "tinder + box → tinderbox",
+        "装易燃引火物的盒 → 一触即发局面"
+      ]
+    ],
+    "explanation": "a political tinderbox 一触即发的政治局面，a tinderbox landscape 干燥易燃的地带；具体是火灾还是冲突由上下文定。",
+    "usage": "a political tinderbox；a tinderbox situation；turn into a tinderbox。",
+    "contrast": "tinderbox 不是现代同名交友应用的收纳盒；tinder 本来就是引火材料。",
+    "examples": [
+      [
+        "The long drought had turned the forest into a tinderbox.",
+        "长期干旱让森林变得极易燃烧。"
+      ],
+      [
+        "The dispute left the region a political tinderbox.",
+        "争端让该地区政治局势一触即发。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tinderbox#English"
+    ]
+  }
+]

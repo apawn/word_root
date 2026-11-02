@@ -1,0 +1,255 @@
+[
+  {
+    "id": "B2533",
+    "meaning": "合唱整体、歌唱成员与音乐负责人",
+    "core": "CHOIR：许多声音合在一起，成员与指挥职责分开",
+    "image": "choir → chorister、choirmaster；成员词、负责人词各看形成历史。",
+    "intro": "choir 是整体，chorister 是唱的人，choirmaster 是带排练、指挥的人。拼写不完全对应现代机械相加，基础词条保留各自借入史。",
+    "forms": "choir、chorister 同接合唱相关古典、法语材料；choir + master 参照德语 Chormeister。\n\nchoirs 数不同合唱团，choristers 数成员；团体和团内的人分清。",
+    "branches": [
+      [
+        "合唱整体、成员与指导",
+        "choir · chorister · choirmaster"
+      ],
+      [
+        "合唱团与合唱成员的复数",
+        "choir · choirs · chorister · choristers"
+      ]
+    ],
+    "contrasts": "choir 开头读 /kw/，完整词有 /kwaɪə/ 等读法；按完整音标记，不拆字母逐个拼。",
+    "practice": "The choirmaster gathered the choristers before the choir rehearsal.\n\n合唱指导在合唱团排练前召集歌手。",
+    "words": [
+      "choir",
+      "chorister",
+      "choirmaster",
+      "choirs",
+      "choristers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3168",
+    "meaning": "用力擦洗与低矮灌木分源，派生词分别成组",
+    "core": "SCRUB：刷洗一支，灌木一支，别把地名当擦净的地",
+    "image": "scrubbing、scrubbed、scrubber 接擦洗；scrubby、scrubland 接灌木。",
+    "intro": "刷锅的摩擦动作与山坡灌丛的植被结构互不相同。先分两组，再用后缀看活动、结果、工具、性质和地带。",
+    "forms": "schrobben → scrobben → 擦洗 scrub；shrub 同族变体 → 灌木 scrub；双写 b 接 -ing、-ed、-er、-y；land 土地。\n\n擦洗动词接荷兰语，灌木名接古英语、shrub 一支；医护服饰称呼又有自身用途背景。",
+    "branches": [
+      [
+        "擦洗动作、活动、结果与工具",
+        "scrub · scrubbing · scrubbed · scrubber"
+      ],
+      [
+        "灌木性质与地带",
+        "scrubby · scrubland"
+      ],
+      [
+        "scrub → scrubs：擦洗动作、灌木与服饰名称",
+        "scrub · scrubs · scrubbed · scrubbing"
+      ]
+    ],
+    "contrasts": "scrubbed floor 可能刷净，scrubby hillside 则长灌木；scrubber 工业设备按功能命名。",
+    "practice": "After scrubbing the equipment, they drove across the scrubland.\n\n刷洗设备后，他们驶过低矮灌木丛生的地带。",
+    "words": [
+      "scrub",
+      "scrubbing",
+      "scrubbed",
+      "scrubber",
+      "scrubby",
+      "scrubland",
+      "scrubs"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2625",
+    "meaning": "调整动作、结果与再调，重新适应也是改变配合",
+    "core": "ADJUSTMENT：让安排合适，条件变了就再调",
+    "image": "adjustment → readjustment，re- 加入再一次、重新适应的过程。",
+    "intro": "器具位置、日程与生活方式都可调整。再调整常因条件改变，不等于把所有参数倒回最早版本。",
+    "forms": "adjust + -ment → adjustment；re- + adjustment → readjustment。\n\nadjustment 可借法语对应词，也可按 adjust + -ment 理解，现代加 -s 数一项项调整。adjust 近源联系靠近、配合的材料，词形又受 just 公平的民间分析影响。",
+    "branches": [
+      [
+        "调整与重新调整",
+        "adjustment · readjustment"
+      ],
+      [
+        "adjust → adjustment → adjustments",
+        "adjustments"
+      ]
+    ],
+    "contrasts": "readjustment 重新适应不必恢复旧样；adjustment 既可能动作，也可能具体改动。",
+    "practice": "The first adjustment helped, but a later change required readjustment.\n\n第一次调整起了作用，但后来的变化又要求重新调整。",
+    "words": [
+      "adjustment",
+      "readjustment",
+      "adjustments"
+    ],
+    "exclude": {
+      "self-adjustment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2723",
+    "meaning": "礼拜场所名随语言传播，不按现代英语字母硬拆",
+    "core": "MOSQUE：从礼拜之处的名称，借成清真寺",
+    "image": "mosque 是整体借词，核心认用途与宗教场所身份。",
+    "intro": "建筑外形有地区差异，词源则把注意力放到礼拜地点。阿拉伯语经欧洲语言的传播，使现代拼写与早期形式差别明显。",
+    "forms": "masjid → 欧洲语言 moschea、mosquée 等 → mosque；词尾 -que 读 /k/。",
+    "branches": [
+      [
+        "礼拜场所与借词历史",
+        "mosque"
+      ]
+    ],
+    "contrasts": "mosque 不因外形有圆顶就可与任何庙、教堂互换。",
+    "practice": "The guide explains how the mosque’s name travelled across languages.\n\n讲解说明清真寺这个名称怎样跨语言传播。",
+    "words": [
+      "mosque"
+    ],
+    "exclude": {
+      "mosque-going": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "inter-mosque": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mosque-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1847",
+    "meaning": "值得、足以引发某事，或适合某用途，按词分别看",
+    "core": "-WORTHY：值得注意，也能说足以尴尬、适于航海",
+    "image": "noteworthy、praiseworthy 看值得的评价；seaworthy 看适合用途；cringeworthy 看引发反应。",
+    "intro": "worthy 不是每次都褒义。前半指出被值得、可承担的事或引出的反应，组合后的具体含义需与真实用法连接。",
+    "forms": "worth、worthy 词族 → -worthy；note 注意，news 新闻，praise 赞扬，sea 航海用途，cringe 尴尬反应。",
+    "branches": [
+      [
+        "值得、可靠与适用",
+        "trustworthy · noteworthy · newsworthy · praiseworthy · seaworthy"
+      ],
+      [
+        "足以引起尴尬",
+        "cringeworthy"
+      ]
+    ],
+    "contrasts": "cringeworthy 不是夸有价值；seaworthy 主要说能适于航海，与值得航海的生硬翻译不同。",
+    "practice": "The trustworthy report praised a praiseworthy effort and described one cringeworthy mistake.\n\n可信报告赞扬了一项值得称赞的努力，也描述了一个令人尴尬的错误。",
+    "words": [
+      "trustworthy",
+      "noteworthy",
+      "newsworthy",
+      "praiseworthy",
+      "seaworthy",
+      "cringeworthy"
+    ],
+    "exclude": {
+      "care-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tell-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "follow-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "interview-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wage-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glory-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fame-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cancel-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "idol-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vault-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "applause-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "binge-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loathe-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4431",
+    "meaning": "边缘与临界程度，副词常聚焦小幅差异",
+    "core": "MARGINAL：靠边、刚够，或只差一点点",
+    "image": "marginal → marginally；marginalize、marginalization 接使人或事被推到边缘的社会比喻。",
+    "intro": "边缘位置是一种形象，小幅程度是一种数量判断；被边缘化则是参与、关注、权力等位置的变化。不要把所有 marginal 都译成同一句边缘的。",
+    "forms": "margin → marginal；-ly 程度、方式；-ize 使处于边缘；-ization 相应过程；sub- 低于或不足的限定。\n\nmargin 接拉丁 margo、margin- 边缘，与 marginal 共享词干；空白、差距及余地是现代常用扩展。\n\nmargin 经法语、拉丁 margo、margin- 边缘材料进入英语。复数 margins 常说页边空白、领先差距、利润率等；具体含义看所量的是什么。",
+    "branches": [
+      [
+        "边缘性质、小幅程度与低于临界",
+        "marginal · marginally · submarginal"
+      ],
+      [
+        "使边缘化与过程名词",
+        "marginalize · marginalization"
+      ],
+      [
+        "margin：边缘、留白与余地",
+        "margin · marginal"
+      ],
+      [
+        "margin → margins：边缘、余地和差额",
+        "margins"
+      ]
+    ],
+    "contrasts": "marginally better 只说稍好；marginalization 则常说群体、事物被推离中心。",
+    "practice": "The revised plan was marginally better but still risked marginalizing small groups.\n\n修改后的计划稍好一点，却仍可能把小群体推向边缘。",
+    "words": [
+      "marginal",
+      "marginally",
+      "submarginal",
+      "marginalize",
+      "marginalization",
+      "margin",
+      "margins"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4060",
+    "meaning": "致死性质、方式与程度，修辞中的打击力另辨",
+    "core": "LETHAL：本义达到能致死的强度，名词再谈致死能力",
+    "image": "lethal → lethally、lethality，性质、方式、程度按顺序看。",
+    "intro": "本义比有害、严重更明确地接死亡；体育、竞争中的修辞则借强大打击力。历史 th 拼写不等于最初来自遗忘词。",
+    "forms": "letum → letalis、lethalis → lethal；-ly 写 ll；-ity 形成 lethality 并改变重音。",
+    "branches": [
+      [
+        "致命性质、方式与程度",
+        "lethal · lethally · lethality"
+      ]
+    ],
+    "contrasts": "lethal 不等于所有 harmful；lethality 不是脱离条件的固定数值。",
+    "practice": "The lesson explains lethal effects before introducing the noun lethality.\n\n课程先解释致命作用，再介绍名词致命性。",
+    "words": [
+      "lethal",
+      "lethally",
+      "lethality"
+    ],
+    "exclude": {
+      "non-lethal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3812",
+    "meaning": "成果走向利用，公平与否决定常用语气，能力词另看",
+    "core": "EXPLOIT：把机会、资源用上，也可能不公平地用别人",
+    "image": "exploit → exploitative、exploitable；名词功绩与计算机方法另认重音、对象。",
+    "intro": "利用不是处处负面，剥削也不是单纯能力强。exploitative 常评价不公平，exploitable 只说明可被利用，实际是否发生是另一层。",
+    "forms": "explicitum、explicare → esploit、esploitier → exploit；名词前重音、动词后重音；-ative 性质，-able 可能性。\n\nexploit 接法语完成、利用词族，远连拉丁 explicare 展开。现代加完整 -ed，/t/ 后读 /ɪd/；利用机会与不公平剥削分语境。\n\nexploitation 从法语利用、开发活动名词借入，现代可联系 exploit 与 -ation。利用资源与不公平剥削分语境。",
+    "branches": [
+      [
+        "成果、利用与相应性质",
+        "exploit · exploitative · exploitable"
+      ],
+      [
+        "exploit 运用、剥削 → exploited",
+        "exploited"
+      ],
+      [
+        "exploit + -ation → exploitation",
+        "exploitation"
+      ]
+    ],
+    "contrasts": "exploitable 可利用与 exploitative 剥削性的不同；名词 exploits 常是事迹，不是所有例子都翻成剥削。",
+    "practice": "The report distinguishes exploitable resources from exploitative practices.\n\n报告区分可开发资源与带剥削性质的做法。",
+    "words": [
+      "exploit",
+      "exploitative",
+      "exploitable",
+      "exploited",
+      "exploitation"
+    ],
+    "exclude": {
+      "anti-exploit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

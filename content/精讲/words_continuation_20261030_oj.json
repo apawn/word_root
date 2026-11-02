@@ -1,0 +1,536 @@
+[
+  {
+    "word": "niece",
+    "ipa": "/niːs/",
+    "meaning": "侄女；外甥女",
+    "sense": "站在你的位置看，兄弟姐妹的女儿就是你的 niece。英语不把侄女、外甥女分成两套常用词，男孩则换成 nephew。",
+    "split": "经古法语 nece、中古英语 nece 接晚期拉丁 neptia，与拉丁 neptis 孙女、侄甥女材料相连。旧义范围比今天常用亲属关系更宽。",
+    "history": [
+      [
+        "拉丁 neptis 孙女、侄甥女等 → 晚期拉丁 neptia",
+        "女性晚辈亲属称呼"
+      ],
+      [
+        "古法语 nece → 中古英语 nece → niece",
+        "现代重点为兄弟姐妹等的女儿"
+      ]
+    ],
+    "explanation": "my niece 我的侄女或外甥女；a niece and nephew 一个侄甥女与一个侄甥男。也可用于婚姻形成的相应亲属关系。",
+    "usage": "my niece；a niece and nephew。",
+    "contrast": "niece 不等于自己的女儿 daughter，也不等于堂表姐妹 cousin；关系要从说话者出发。",
+    "examples": [
+      [
+        "My niece is my sister’s daughter.",
+        "我的外甥女是我姐姐的女儿。"
+      ],
+      [
+        "He took his niece to the museum.",
+        "他带侄女去了博物馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/niece#English"
+    ]
+  },
+  {
+    "word": "puff",
+    "ipa": "/pʌf/",
+    "meaning": "一口气、一团烟；吹、喷、喘；鼓起",
+    "sense": "轻轻呼出一口气，或烟囱冒出一小团烟，都是 puff。气进去了鼓成一团，又接出蓬松、膨起的画面。",
+    "split": "承古英语 pyf、pyffan 等短促气流、吹气材料，经中古英语延续，带拟声背景。名词动词互相呼应，后来还有夸大吹捧等比喻。",
+    "history": [
+      [
+        "古英语 pyf、pyffan 等 → 中古英语 puff、puffen → puff",
+        "短促吹气、喷出，带拟声背景"
+      ],
+      [
+        "puff + -y、-ed、-er",
+        "鼓胀性质、鼓起结果、喷气或鼓胀相关的人物物品"
+      ],
+      [
+        "中古英语 poffoun 等 → puffin，远源未定",
+        "海鸟名与 puff 的关系有不同解释"
+      ]
+    ],
+    "explanation": "a puff of smoke 一缕、一团烟；huff and puff 呼哧呼哧喘；puff up 鼓起，也可说自满；puff pastry 酥皮。",
+    "usage": "a puff of smoke；puff up；huff and puff。",
+    "contrast": "puff 常是一小口、一下或一团，不是所有持续气流；puff up pride 的比喻不代表真吸了气。",
+    "examples": [
+      [
+        "A puff of steam escaped from the kettle.",
+        "水壶冒出一小团蒸汽。"
+      ],
+      [
+        "He puffed as he climbed the last few stairs.",
+        "爬最后几级楼梯时，他呼哧呼哧地喘气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puff#English"
+    ]
+  },
+  {
+    "word": "puffy",
+    "ipa": "/ˈpʌfi/",
+    "meaning": "鼓鼓的、蓬松的；浮肿的",
+    "sense": "像里面充了气、形状圆鼓鼓，就是 puffy。云、衣服可以这样；眼周鼓起来也会叫 puffy。",
+    "split": "puff + -y → puffy，已有 ff 保持不变，不再添一个 f。形容词把鼓胀的形状作为性质。",
+    "history": [
+      [
+        "古英语 pyf、pyffan 等 → 中古英语 puff、puffen → puff",
+        "短促吹气、喷出，带拟声背景"
+      ],
+      [
+        "puff + -y、-ed、-er",
+        "鼓胀性质、鼓起结果、喷气或鼓胀相关的人物物品"
+      ],
+      [
+        "中古英语 poffoun 等 → puffin，远源未定",
+        "海鸟名与 puff 的关系有不同解释"
+      ],
+      [
+        "puff + -y → puffy",
+        "鼓胀、蓬松或肿起的样子"
+      ]
+    ],
+    "explanation": "puffy clouds 蓬松的云；puffy eyes 肿起的眼周；a puffy jacket 蓬鼓的夹克。",
+    "usage": "puffy clouds；puffy eyes。",
+    "contrast": "puffy 只描述外观，不能单靠这个词推断原因；fluffy 更常突出轻软绒感，二者可重叠。",
+    "examples": [
+      [
+        "Puffy white clouds drifted across the sky.",
+        "蓬松的白云飘过天空。"
+      ],
+      [
+        "Her eyes were puffy after a night of crying.",
+        "哭了一夜后，她的眼睛肿肿的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puffy#English"
+    ]
+  },
+  {
+    "word": "puffed",
+    "ipa": "/pʌft/",
+    "meaning": "膨起的、膨化的；鼓起的；〔口语〕喘不过气的",
+    "sense": "米粒膨化后变轻、变大，是 puffed rice；爬完楼喘得厉害，口语也可能说 puffed。一个看鼓胀结果，一个接喘气分支。",
+    "split": "puff + -ed → puffed，末尾读 /t/。喘气义常与 puffed out 相连，可缩短为 puffed；不能只从膨化食品推导。",
+    "history": [
+      [
+        "古英语 pyf、pyffan 等 → 中古英语 puff、puffen → puff",
+        "短促吹气、喷出，带拟声背景"
+      ],
+      [
+        "puff + -y、-ed、-er",
+        "鼓胀性质、鼓起结果、喷气或鼓胀相关的人物物品"
+      ],
+      [
+        "中古英语 poffoun 等 → puffin，远源未定",
+        "海鸟名与 puff 的关系有不同解释"
+      ],
+      [
+        "puff + -ed → puffed；puffed out 可缩短",
+        "膨起结果，或喘气后的状态"
+      ]
+    ],
+    "explanation": "puffed rice 膨化米；puffed sleeves 泡泡袖、鼓袖；feel puffed 感到气喘，较口语。",
+    "usage": "puffed rice；puffed sleeves。",
+    "contrast": "puffed 与 puffy 都能说鼓起，puffed 常呈现做出来或已经发生的结果；puffed out 还可说累得喘。",
+    "examples": [
+      [
+        "The cereal contains puffed rice.",
+        "这种麦片含有膨化米。"
+      ],
+      [
+        "The dress had puffed sleeves.",
+        "那条裙子有鼓鼓的泡泡袖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puffed#English"
+    ]
+  },
+  {
+    "word": "puffer",
+    "ipa": "英 /ˈpʌfə/；美 /ˈpʌfər/",
+    "meaning": "河豚类鱼；蓬鼓的绗缝外套；喷气、吹气的人或物",
+    "sense": "鱼把身体鼓成球，外套填料蓬成一格格，都能接上 puff 的鼓胀画面。-er 在这里远不只说一个正在吹气的人。",
+    "split": "puff + -er → puffer，先有喷、吹相关人物或东西的构词，再形成鱼名、服装名等专门用法；外套通常也说 puffer jacket。",
+    "history": [
+      [
+        "古英语 pyf、pyffan 等 → 中古英语 puff、puffen → puff",
+        "短促吹气、喷出，带拟声背景"
+      ],
+      [
+        "puff + -y、-ed、-er",
+        "鼓胀性质、鼓起结果、喷气或鼓胀相关的人物物品"
+      ],
+      [
+        "中古英语 poffoun 等 → puffin，远源未定",
+        "海鸟名与 puff 的关系有不同解释"
+      ],
+      [
+        "puff + -er → puffer",
+        "喷吹者、物 → 鼓胀鱼名、蓬松外套名"
+      ]
+    ],
+    "explanation": "a puffer fish 河豚类鱼；a puffer jacket 蓬松绗缝外套；a down puffer 羽绒款，填料也可以是合成材料。",
+    "usage": "a puffer jacket；a puffer fish。",
+    "contrast": "puffer jacket 不必都填羽绒；puffer 是英语通俗鱼名，不按词尾推定所有鱼的生物特征。",
+    "examples": [
+      [
+        "She wore a blue puffer on the cold morning.",
+        "寒冷的清晨，她穿了一件蓝色蓬松外套。"
+      ],
+      [
+        "The aquarium label identified the fish as a puffer.",
+        "水族馆说明牌把那条鱼标为河豚类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puffer#English",
+      "https://www.merriam-webster.com/dictionary/puffer"
+    ]
+  },
+  {
+    "word": "puffin",
+    "ipa": "/ˈpʌfɪn/",
+    "meaning": "海鹦",
+    "sense": "黑白身体、显眼彩喙的海鸟，常在北大西洋自然纪录片里见到。名字像 puff，不代表它和河豚一样会把身体鼓成球。",
+    "split": "承中古英语 poffoun 等鸟名。可能与 puff 的外观联想有关，也有凯尔特语来源、后受 puff 影响的解释；不确定为现代 puff + -in，也不是 puffing 去 g。",
+    "history": [
+      [
+        "古英语 pyf、pyffan 等 → 中古英语 puff、puffen → puff",
+        "短促吹气、喷出，带拟声背景"
+      ],
+      [
+        "中古英语 poffoun 等 → puffin",
+        "海鸟名称，更早来源及 puff 关联未定"
+      ]
+    ],
+    "explanation": "an Atlantic puffin 大西洋海鹦；a puffin colony 海鹦繁殖群。喙色等外观会随种类、季节变化。",
+    "usage": "an Atlantic puffin；a puffin colony。",
+    "contrast": "puffin 是海鸟，puffer fish 是鱼；相似词头不说明它们是一个类群或共享相同鼓胀机制。",
+    "examples": [
+      [
+        "A puffin landed near the cliff edge.",
+        "一只海鹦落在悬崖边。"
+      ],
+      [
+        "The boat passed a small puffin colony.",
+        "船驶过一小处海鹦繁殖地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puffin#English",
+      "https://www.etymonline.com/word/puffin"
+    ]
+  },
+  {
+    "word": "slash",
+    "ipa": "/slæʃ/",
+    "meaning": "猛划、劈砍；大幅削减；斜线 /",
+    "sense": "一道有力的斜切是 slash，预算一刀砍掉很多也借这个动作；符号 / 又像这样一道斜划。",
+    "split": "中古英语后期已见切划动词，更早来源未定，常有拟声或法语切裂材料的解释。由切划到削减、划痕和斜线名，再进入口头身份并列等用法。",
+    "history": [
+      [
+        "中古英语后期 slash 切、划，远源未定",
+        "拟声或法语切裂词联系等有不同解释"
+      ],
+      [
+        "slash → 大幅削减；斜线记号；-ing、-er",
+        "动作、表记与人物、类型名"
+      ]
+    ],
+    "explanation": "slash prices 大幅降价；slash a budget 大幅削减预算；a forward slash 正斜线 /；writer slash actor 作家兼演员的口语说法。",
+    "usage": "slash prices；a forward slash。",
+    "contrast": "slash 强调幅度大或动作猛，不只是 reduce 一点；slash / 与 backslash 反斜线方向不同。",
+    "examples": [
+      [
+        "The shop slashed prices at the end of the season.",
+        "店里在季末大幅降价。"
+      ],
+      [
+        "Separate the two dates with a slash.",
+        "用斜线隔开两个日期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slash#English"
+    ]
+  },
+  {
+    "word": "slashing",
+    "ipa": "/ˈslæʃɪŋ/",
+    "meaning": "猛划、猛砍；大幅削减；slash 的 -ing 形式",
+    "sense": "在 slashing costs 里，把开支大刀阔斧削下去的动作正在展开；作名词时也能说一次猛砍或相关动作。",
+    "split": "slash + -ing → slashing，保留 sh，不双写 h。继承切划与大幅削减分支，也有特定体育动作名称。",
+    "history": [
+      [
+        "中古英语后期 slash 切、划，远源未定",
+        "拟声或法语切裂词联系等有不同解释"
+      ],
+      [
+        "slash → 大幅削减；斜线记号；-ing、-er",
+        "动作、表记与人物、类型名"
+      ],
+      [
+        "slash + -ing → slashing",
+        "动作进行形式或相应动作名词"
+      ]
+    ],
+    "explanation": "slashing costs 大幅削减成本；slashing prices 大幅降价；体育语境的 slashing 要按项目规则理解。",
+    "usage": "slashing costs；slashing prices。",
+    "contrast": "slashing prices 不是在把价格标签切碎，而是大幅降价；-ing 不要求每个场景都只译正在。",
+    "examples": [
+      [
+        "The company is slashing travel costs.",
+        "公司正在大幅削减差旅支出。"
+      ],
+      [
+        "Slashing prices did not bring enough new customers.",
+        "大幅降价并没有带来足够的新顾客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slashing#English"
+    ]
+  },
+  {
+    "word": "slasher",
+    "ipa": "英 /ˈslæʃə/；美 /ˈslæʃər/",
+    "meaning": "挥砍者；砍杀类恐怖片、小说；其中的凶手角色",
+    "sense": "从做 slash 动作的人，到以这类追杀者为反派的恐怖类型，slasher 可以指角色，也可指整部作品。",
+    "split": "slash + -er → slasher，先造动作人物、工具等名词，后来固定为特定恐怖类型名称，常说 slasher film。",
+    "history": [
+      [
+        "中古英语后期 slash 切、划，远源未定",
+        "拟声或法语切裂词联系等有不同解释"
+      ],
+      [
+        "slash → 大幅削减；斜线记号；-ing、-er",
+        "动作、表记与人物、类型名"
+      ],
+      [
+        "slash + -er → slasher",
+        "动作人物 → 相应恐怖作品类型"
+      ]
+    ],
+    "explanation": "a slasher film 砍杀类恐怖片；a classic slasher 经典此类作品；不是每部恐怖片都属于这一类型。",
+    "usage": "a slasher film；a classic slasher。",
+    "contrast": "horror 是更广的恐怖类型，slasher 是其中一支；-er 有时从人物转指以其为中心的作品，并非永远只指真人。",
+    "examples": [
+      [
+        "The critic compared two classic slasher films.",
+        "评论者比较了两部经典砍杀类恐怖片。"
+      ],
+      [
+        "The festival has a late-night programme of slashers.",
+        "电影节有一个深夜砍杀类恐怖片单元。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slasher#English",
+      "https://www.merriam-webster.com/dictionary/slasher"
+    ]
+  },
+  {
+    "word": "brow",
+    "ipa": "/braʊ/",
+    "meaning": "眉、眉骨部位；前额；山坡上缘",
+    "sense": "眉毛上方那道凸起和前额，都可能被 brow 指到。山坡高处显出的边缘也像地形的眉沿。",
+    "split": "承古英语 brū，经中古英语 browe 延续，旧日身体部位义有交叠。后扩展到山坡、悬崖等上缘，不是 brown 少写一个 n。",
+    "history": [
+      [
+        "古英语 brū → 中古英语 browe → brow",
+        "眉、眉骨附近部位，再扩及前额"
+      ],
+      [
+        "身体上方边缘 → 山坡上缘；复合词再限定",
+        "eyebrow、unibrow 与 highbrow、lowbrow 分支不同"
+      ]
+    ],
+    "explanation": "furrow your brow 皱眉；wipe your brow 擦前额；the brow of a hill 山坡顶端边缘。",
+    "usage": "furrow your brow；the brow of a hill。",
+    "contrast": "eyebrow 常明确指眉毛，brow 可指眉部、前额；brow 的范围要看擦汗、表情或地形搭配。",
+    "examples": [
+      [
+        "She furrowed her brow at the confusing instructions.",
+        "看着令人困惑的说明，她皱起眉头。"
+      ],
+      [
+        "The cottage appeared over the brow of the hill.",
+        "小屋出现在山坡顶端那一边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brow#English"
+    ]
+  },
+  {
+    "word": "crawl",
+    "ipa": "英 /krɔːl/；美 /krɔːl/",
+    "meaning": "爬行；缓慢移动；匍匐奉承；爬泳",
+    "sense": "宝宝手膝着地往前爬，是 crawl；车流堵着一点点挪，也像在爬。游泳里的 crawl 却是一种可以很快的泳姿，不能全都翻成慢。",
+    "split": "经中古英语 crawlen 接古诺尔斯 krafla 等爬动材料，旧构形有反复抓挠动作背景。由身体贴近表面移动发展出缓慢进展、卑躬取悦等比喻；泳姿名另按动作理解。",
+    "history": [
+      [
+        "古诺尔斯 krafla 等 → 中古英语 crawlen → crawl",
+        "爬动，早期与抓挠反复动作材料相关"
+      ],
+      [
+        "crawl + -er → crawler",
+        "爬行者；履带车辆；沿链接访问的程序"
+      ]
+    ],
+    "explanation": "crawl across the floor 爬过地板；traffic crawls 车流缓行；make your skin crawl 令人毛骨悚然；front crawl 自由泳常用的爬泳。",
+    "usage": "crawl across；traffic crawls；front crawl。",
+    "contrast": "crawl 的一般移动义常慢，front crawl 却不是慢泳；crawl to someone 可贬说巴结，不能按真的爬到脚边直译全部。",
+    "examples": [
+      [
+        "The baby crawled across the rug.",
+        "宝宝爬过地毯。"
+      ],
+      [
+        "Traffic crawled through the narrow street.",
+        "车流在窄街里缓慢挪动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crawl#English"
+    ]
+  },
+  {
+    "word": "crawler",
+    "ipa": "英 /ˈkrɔːlə/；美 /ˈkrɔːlər/",
+    "meaning": "爬行者；履带车辆；网络爬虫；〔贬〕巴结者",
+    "sense": "宝宝能爬还不会走，是 a crawler；程序沿一个网页的链接走到另一个网页，也借名 crawler。共同点是沿路径逐处移动。",
+    "split": "crawl + -er → crawler，既可造人、动物、机器名，也可比喻访问链接的程序。巴结者义则接 crawl 的卑躬取悦分支。",
+    "history": [
+      [
+        "古诺尔斯 krafla 等 → 中古英语 crawlen → crawl",
+        "爬动，早期与抓挠反复动作材料相关"
+      ],
+      [
+        "crawl + -er → crawler",
+        "爬行者；履带车辆；沿链接访问的程序"
+      ]
+    ],
+    "explanation": "a web crawler 网络爬虫；a crawler tractor 履带拖拉机；a young crawler 会爬的幼儿。",
+    "usage": "a web crawler；a crawler tractor。",
+    "contrast": "crawler 不必真有腿，网络里也不意味着病毒；它命名访问行为的程序类型，具体用途另看场景。",
+    "examples": [
+      [
+        "The web crawler follows links between pages.",
+        "网络爬虫沿网页之间的链接访问。"
+      ],
+      [
+        "The toddler was still a crawler when they moved house.",
+        "他们搬家时，那孩子还只会爬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crawler#English"
+    ]
+  },
+  {
+    "word": "blowtorch",
+    "ipa": "英 /ˈbləʊtɔːtʃ/；美 /ˈbloʊtɔːrtʃ/",
+    "meaning": "喷灯；用喷灯处理",
+    "sense": "不是普通照明手电筒，而是把火焰集中喷出的工具。blow 给出吹送、喷出的方向，torch 接火焰工具分支。",
+    "split": "blow + torch → blowtorch，复合工具名，也可作动词。不能把 torch 在英式英语的手电筒义套进所有复合词。",
+    "history": [
+      [
+        "torch 火把及火焰工具 + blow 吹送",
+        "气流、燃料送出的集中火焰工具"
+      ],
+      [
+        "blow + torch → blowtorch",
+        "喷灯；用喷灯处理的动词用法"
+      ]
+    ],
+    "explanation": "a blowtorch 喷灯；a blowtorch flame 喷灯火焰；可见于金工、料理等语境，此处只按工具名认识。",
+    "usage": "a blowtorch；a blowtorch flame。",
+    "contrast": "torch 可是火把或手电筒，blowtorch 通常是火焰工具；不是会吹风的普通照明灯。",
+    "examples": [
+      [
+        "A blowtorch hung on the workshop wall.",
+        "车间墙上挂着一把喷灯。"
+      ],
+      [
+        "The photograph shows a metalworker holding a blowtorch.",
+        "照片中，一位金工手里拿着喷灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blowtorch#English"
+    ]
+  },
+  {
+    "word": "naively",
+    "ipa": "/naɪˈiːvli/",
+    "meaning": "天真地；轻信地；缺少经验地",
+    "sense": "以为别人既然答应就一定会做到，却没想到现实里的曲折，可以说 naively believed。不是智力差，而是判断时少算了经验和复杂性。",
+    "split": "naive + -ly → naively，保留末 e。naive 经法语接拉丁 nativus 天生、自然，现代副词常接缺少经验、容易相信的分支。",
+    "history": [
+      [
+        "拉丁 nativus 天生、自然 → 法语 naïf、naïve → naive",
+        "自然、未经世事的性质"
+      ],
+      [
+        "naive + -ly → naively",
+        "天真地、缺少经验地"
+      ]
+    ],
+    "explanation": "naively believe 天真相信；naively assume 天真以为；ask naively 天真地问，也可带无心机的语气。",
+    "usage": "naively believe；naively assume。",
+    "contrast": "naively 常由后来知道更多的人回看当时判断；不等于对方一定愚笨，也不等于真诚 sincerely。",
+    "examples": [
+      [
+        "I naively assumed that everyone had read the instructions.",
+        "我天真地以为每个人都读过说明。"
+      ],
+      [
+        "She asked naively why they could not simply share the prize.",
+        "她天真地问，为什么大家不能直接分享奖品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naively#English"
+    ]
+  },
+  {
+    "word": "stickiness",
+    "ipa": "/ˈstɪkinəs/",
+    "meaning": "黏性、黏着感；不易改变、摆脱的性质",
+    "sense": "手指碰糖浆，想分开还有拉扯感，是 stickiness；习惯、价格等迟迟不动，也可借“不容易脱开”来表达。",
+    "split": "sticky 的 y 改 i + -ness → stickiness。不是 stick + in + ess，中间 in 不是进入的前缀。",
+    "history": [
+      [
+        "stick 附着、卡住 + -y → sticky",
+        "容易粘着、不易摆脱"
+      ],
+      [
+        "sticky 末 y 改 i + -ness → stickiness",
+        "黏性；难摆脱、难调整的状态"
+      ]
+    ],
+    "explanation": "the stickiness of honey 蜂蜜的黏性；price stickiness 价格调整迟缓的黏性；具体抽象技术义看领域。",
+    "usage": "the stickiness of；price stickiness。",
+    "contrast": "stickiness 不只说物理胶黏；stiffness 更说难弯、僵硬，物理上不黏也可以很 stiff。",
+    "examples": [
+      [
+        "The stickiness of the dough made it hard to handle.",
+        "面团很黏，操作起来不方便。"
+      ],
+      [
+        "The paper uses stickiness to describe prices that adjust slowly.",
+        "论文用黏性来描述调整缓慢的价格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stickiness#English"
+    ]
+  }
+]

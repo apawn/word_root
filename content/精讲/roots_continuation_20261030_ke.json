@@ -1,0 +1,118 @@
+[
+  {
+    "id": "B2704",
+    "meaning": "时间、时节的旧义，分成海潮与合宜、整洁的支线",
+    "core": "TIDE：旧时说时节，现代常说按时往复的潮汐",
+    "image": "tide → tidal、tidewater；旧时间义 → tidy → tidily、tidiness、untidy；riptide 看潮流。",
+    "intro": "tidy 和海潮看起来很远，连接点藏在 tide 的旧时间义。先分清这条分叉，再记现代搭配。",
+    "forms": "tīd 时间、时节 → tide；-al 相关，-y 旧义合宜；tide + water 水域、地区。\n\ntide 的旧时间义参与 tidy 的历史；现代 un 否定，ness 命名状态。",
+    "branches": [
+      [
+        "基础、性质与水域",
+        "tide · tidal · tidewater · riptide"
+      ],
+      [
+        "旧时间义留下的支线",
+        "tidy · tidily · tidiness · untidy"
+      ],
+      [
+        "tidy → untidy → untidiness：整洁性质的否定与名词化",
+        "tidy · untidy · untidiness"
+      ]
+    ],
+    "contrasts": "tide 与 wave 不同；tidy 不等于 clean；tide someone over 强调暂时撑过去。",
+    "practice": "We tidied the room, then walked to the coast to watch the tide.\n\n我们整理好房间，然后走到海边看潮水。",
+    "words": [
+      "tide",
+      "tidal",
+      "tidewater",
+      "riptide",
+      "tidy",
+      "tidily",
+      "tidiness",
+      "untidy",
+      "untidiness"
+    ],
+    "exclude": {
+      "betide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4503",
+    "meaning": "使重新有效、恢复或得到补充",
+    "core": "RENEW：把已有事物接着更新、延续",
+    "image": "renew → renewal、renewable。",
+    "intro": "续合同、恢复精力、更新资源，都可以围绕使某事重新或继续有效理解；具体怎样更新由对象决定。",
+    "forms": "re- 再 + new → renew；-al 行为、结果；-able 可更新、可续或可再生。",
+    "branches": [
+      [
+        "行动、名词与性质",
+        "renew · renewal · renewable"
+      ]
+    ],
+    "contrasts": "renewable 可续、可再生；reusable 可反复用；renewal 是更新、续期这件事。",
+    "practice": "The renewable contract is due for renewal next month.\n\n可续期的合同下个月需要办理续期。",
+    "words": [
+      "renew",
+      "renewal",
+      "renewable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2912",
+    "meaning": "保护脚的鞋，配件、人物代称与音乐名称",
+    "core": "SHOE：从脚上穿的物件出发，看用途与转称",
+    "image": "shoe → shoeless；shoelace、shoemaker、shoebox 等按配件用途展开；gumshoe、shoegaze 各有固定转义。",
+    "intro": "多数 shoe 组合很直观，但侦探与音乐名称要多走一步：前者用鞋代人，后者把演出形象变成风格名。",
+    "forms": "scōh → shoe；-less 无，maker 制作者；lace 系带、box 盒；gum 橡胶，gaze 凝视。\n\n古英语鞋名延续，现代 shoe 作为一个整体学习。\n\n与 shoe 比较木鞋材料，sabotage 来自法语，向前接 saboter 乱做、笨拙地做及 sabot 木鞋。流传的把木鞋扔进机器故事不能当作已经证实的词源；现代动词由名词形成，表示故意破坏。\n\n经北美阿尔冈昆语族语言的鞋名进入英语，常联系波瓦坦语 makasin；复数 -s 读 /z/。现代鞋款可受传统结构启发，不把所有软皮鞋的具体做法都说成一样。",
+    "branches": [
+      [
+        "基础与性质",
+        "shoe · shoeless"
+      ],
+      [
+        "配件、制作、储放与保养",
+        "shoelace · shoemaker · shoebox · shoehorn · shoeshine"
+      ],
+      [
+        "形状、用途与固定比喻",
+        "snowshoe · shoestring · gumshoe · shoegaze"
+      ],
+      [
+        "shoe → shoes：鞋与复数",
+        "shoe · shoes"
+      ],
+      [
+        "sabotage：木鞋词族中的乱做、破坏",
+        "sabotage"
+      ],
+      [
+        "moccasin → moccasins：软皮鞋的借名",
+        "moccasins"
+      ]
+    ],
+    "contrasts": "shoeless 可能仍有袜子；gumshoe 的 gum 是橡胶；shoegaze 是音乐风格。",
+    "practice": "The shoemaker replaced the shoelaces and polished the shoes.\n\n鞋匠换了鞋带，又把鞋擦亮。",
+    "words": [
+      "shoe",
+      "shoeless",
+      "shoelace",
+      "shoemaker",
+      "shoebox",
+      "shoehorn",
+      "shoeshine",
+      "snowshoe",
+      "shoestring",
+      "gumshoe",
+      "shoegaze",
+      "shoes",
+      "sabotage",
+      "moccasins"
+    ],
+    "exclude": {
+      "shoe-leather": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mis-shoe": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

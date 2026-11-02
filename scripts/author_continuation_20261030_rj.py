@@ -1,0 +1,75 @@
+"""Connect existing common-word lessons with concise, accurate family overviews."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('unneeded','/ʌnˈniːdɪd/','不需要的；多余而用不上的',
+ '已经有一把钥匙，又递来第五把；这一次并不需要它，可以说 unneeded，而不是说它永远没价值。',
+ 'un- 不 + needed 所需要的；needed 是 need + -ed 的分词、形容词形式。这里 un- 否定需要这一状态，不把已经发生的需要动作倒放回去。',
+ [['need + -ed → needed','需要过；所需要的'],['un- + needed → unneeded','在某个场景里不需要的']],
+ 'unneeded files 不需要的文件；unneeded equipment 暂时用不上的设备。含义要按当前任务、用途判断，不是判断这个东西本身坏。',
+ 'unneeded items；remove unneeded steps。','unneeded 不需要的与 unwanted 不想要的不同：一个人可能很想要某样东西，但眼下确实不需要。unnecessary 常与 unneeded 接近，搭配重点各异。',
+ ('We removed the unneeded steps from the instructions.','我们删掉了说明里不需要的步骤。'),('The box held several unneeded cables.','盒子里放着几根用不上的电线。'))
+W('related','/rɪˈleɪtɪd/','有联系的；有关的；有亲缘关系的；讲述过〔动词形式〕',
+ '两个问题背后有同一原因，可以说 related；两个人属于同一家族，也说 related。先看到一条联系，再看联系是哪一种。',
+ 'relate + -ed，动词分词再用作形容词。relate 的历史接拉丁 relatus、referre 带回、报告等词族；现代联系、关系义逐步固定，不能按 relation 完整词加 d。',
+ [['relate 的报告、叙述及相联系词族','使事情被说明、联系起来'],['relate + -ed → related','有关、相联系；有亲缘关系；讲述的分词']],
+ 'related to 与……有关；closely related 密切相关；Are you related? 问是否有亲缘关系。the events she related 中，related 又是她所讲述的过去式。',
+ 'related to；closely related；directly related。','relative 可作亲属名词或相对的形容词；related 通常是有关、有亲缘的形容词，不能把 a related 当一个亲戚的通用名词。',
+ ('The two problems are closely related.','这两个问题密切相关。'),('We share a surname, but we are not related.','我们同姓，但没有亲缘关系。'),sources=['https://www.etymonline.com/word/relate'])
+R('B3383','离开；远处；从原处、原有状态脱开','AWAY：让人或东西离开一个参照点',
+ 'walk away 人离开，a hideaway 是藏身、退隐的地方；breakaway 则突出从原来的整体脱出来。',
+ 'away 从古英语 on weg 在路上、离开这一类短语发展而来，逐渐收成一个副词。含方向的空间意义也能转到持续动作、离开原状态等用法。',
+ 'break + away → breakaway；hide + away → hideaway。wayward 接较早 aweiward 转离的形式，首部缩短，并不是字面只有 way 道路 + ward 就自动等于不听话。',
+ [['基本离开、持续等用法','away'],['脱离原有整体','breakaway'],['隐蔽、退隐处','hideaway'],['不按预期方向走','wayward']],
+ 'away 可以说位置、动作方向，也见于 work away 持续干；wayward 常说任性、不受控制，不等于旅行方向；hideaway 是藏身处，不是每次都表非法隐藏。',
+ 'They drove away from the city and spent the weekend at a quiet hideaway.\n\n他们开车离开城市，在一处安静的隐居地度过周末。',
+ 'away breakaway hideaway wayward')
+R('B2848','做完、完成；做过的分词形式与状态','DONE：先看动作已经完成，再看完成得怎样',
+ 'The work is done 工作做完；overdone 做过头；undone 却可能是未完成，也可能是解开的状态。',
+ 'done 从古英语 do 的过去分词 dōn／ġedōn 等经中古英语延续，今天与 do、did 配套。分词、形容词已经有多种固定用法，不把每个 done 都只翻成做。',
+ 'do—did—done 是现代不规则形式；un- + done → undone；over- + done → overdone。烤肉食物 doner 来自土耳其语 döner，不能因拼写像 done 就归为做熟的派生。',
+ [['基本完成形式','do · done'],['未完成、解开等相反状态','undone'],['超过合适程度','overdone']],
+ 'have done 与 did 的结构不同；undone 不只未做，还可说纽扣松开；overdone 可以说食物过熟，也可以说装饰、表演过火。',
+ 'The main work is done, but a few small tasks remain undone.\n\n主要工作已完成，但还有几项小任务没做。',
+ 'do done undone overdone')
+R('B2756','安全、无恙；保护、保管及相应处所','SAFE：人或东西没有受到眼前关切的伤害、损失',
+ 'arrive safely 是平安到达；safekeeping 是妥善保管；a safe 是保管贵重物品的保险箱。',
+ 'safe 经古法语 sauf 接拉丁 salvus 完整、无恙的材料，与 save 等有历史联系。现代根据所担心的风险判断安全关系，词源不保证一种产品在任何条件下都绝对安全。',
+ 'safe + -ly → safely；un- + safe → unsafe；safe + guard → safeguard；safe + keeping → safekeeping；safe + house → safehouse。safety 是同族性质名词，safe 自己也能作保险箱的名词。',
+ [['性质与做事方式','safe · safety · safely · unsafe'],['保护措施和妥善保管','safeguard · safekeeping'],['保护性地点、容器','safehouse；safe〔保险箱〕'],['共同历史材料的动作词','save']],
+ 'safe 与 safely：状态／做事方式；a safe 保险箱是名词，不能把每个 safe 都当形容词；save 保存、拯救与 safe 相连，但现代句法不同。',
+ 'She arrived safely and left the documents in a safe for safekeeping.\n\n她平安抵达，并把文件放进保险箱妥善保管。',
+ 'safe safety safely unsafe safeguard safekeeping safehouse save')
+R('B4274','人与人、事与事之间的关系及相互联系','RELATIONSHIP：先找连接，再看连接的性质',
+ '朋友、同事、亲属、两个变量，都可以有 relationship；词本身不只表示恋爱关系。',
+ 'relationship 是 relation + -ship，后缀形成关系、状态名词。relation 与 relate 有共同拉丁材料，但英语名词、动词并非一条简单的先短后长借入顺序。',
+ 'relate + -ed → related；relation + -ship → relationship；inter- + relationship → interrelationship。inter- 突出彼此之间，related to 表达有关、相连。',
+ [['相联系与相应性质','relate · related · relation'],['关系本身','relationship'],['多方、因素之间的相互关系','interrelationship']],
+ 'related 形容有关的，relationship 是关系名词；a relationship 不一定是恋爱；家人亲缘、工作合作、数据关联要按上下文分开。',
+ 'The diagram shows the relationship between the two related problems.\n\n示意图展示了这两个相关问题之间的关系。',
+ 'relate related relation relationship interrelationship')
+R('B3730','享受、喜爱；享有某种条件、待遇','ENJOY：从某事得到快乐，也可享有它带来的条件',
+ 'enjoy a meal 吃得开心；enjoy a good reputation 享有好名声，则不只是在心里高兴。',
+ 'enjoy 经法语 enjoir／enjoier 等接快乐词族，远接拉丁 gaudere、gaudium 等材料。现代能用 en- 与 joy 帮助识别关系，但不是英语先有现代名词 joy，再现场加 en 就能解释全部借词历史。',
+ 'enjoy + -able → enjoyable：令人愉快的；enjoy + -ment → enjoyment：享受、乐趣。enjoy doing 表示喜欢、享受做某事，不能简单换成 enjoy to do。',
+ [['快乐及享有动作','joy · enjoy'],['事物带来的体验性质','enjoyable'],['乐趣、享受这个名词','enjoyment']],
+ 'enjoyable 形容让人享受的事物，不能用 I am enjoyable 表达我很享受；enjoy oneself 常说玩得愉快；enjoy rights 等可指享有权利。',
+ 'They enjoyed the music and thanked the performers for an enjoyable evening.\n\n他们很享受音乐，并感谢表演者带来一个愉快的夜晚。',
+ 'joy enjoy enjoyable enjoyment')
+R('B2858','feel 的过去式、分词；另有毛毡材料名词','FELT：声音相同，感觉动词与毛毡材料是两条来源',
+ 'I felt happy 是过去的感受；a felt hat 是毡帽。heartfelt apology 真诚道歉连接的是心中的感受，不是用毛毡做的道歉。',
+ 'feel 的过去、分词形式与较早感觉动词的变位相连；材料 felt 则接古英语 felt。两个词今天同形、同音，不必编一个摸毛毡很有感觉的故事强行合并。',
+ 'feel—felt—felt 是现代动词形式；heart + felt → heartfelt 表由衷、真诚。材料 felt 又可说毛毡及毡化动作，它的生产、形态不要求先织经纬线。',
+ [['过去的感觉','feel · felt〔感觉〕'],['发自内心','heart · heartfelt'],['另一路材料名称','felt〔毛毡〕']],
+ 'felt 不等于 fell；heartfelt 属感觉这支，不能放进毛毡的派生链；同形词的不同来源在同页对照，不代表一词自然演变成另一词。',
+ 'She felt relieved and gave him a heartfelt thank-you.\n\n她松了一口气，并向他由衷地道谢。',
+ 'feel felt heart heartfelt')
+R('B4546','所需要的；需要过；当前不需要的相反形式','NEEDED：先看谁、什么被需要，再看是不是已过去的动作',
+ 'We needed help 是过去需要帮助；the needed information 是当前所需信息，字面有 -ed 不保证这份信息只在过去需要。',
+ 'needed 是 need + -ed，既能作过去式、分词，也形成所需要的这一形容词用法。unneeded 再否定它，表达某个场景里不需要。',
+ 'need + -ed → needed；un- + needed → unneeded。普通定语、被动结构和过去动作按整句判断，不凭一个 -ed 就一律译成过去。',
+ [['需要这一动作、状态','need'],['过去动作与所需性质','needed'],['不再需要或当前用不上','unneeded']],
+ 'unneeded 不需要与 unwanted 不想要不同；needed 的 -ed 不一定单独定位时间；need to do 和 need doing 等结构仍看具体句型。',
+ 'We kept the needed files and moved the unneeded copies into a separate folder.\n\n我们保留了所需文件，把用不上的副本移进另一个文件夹。',
+ 'need needed unneeded')
+if __name__=='__main__':save('continuation_20261030_rj',ROOTS,WORDS)

@@ -1,0 +1,1130 @@
+[
+  {
+    "word": "illnesses",
+    "ipa": "英、美 /ˈɪlnəsɪz/",
+    "meaning": "疾病；几次患病经历〔复数〕",
+    "sense": "illness 可以统说生病，也可以是一种病或一次患病；把不同种类、不同次分别数出来，就用 illnesses。",
+    "split": "ill 不好的、生病的 + -ness 性质名词 → illness，再加 -es → illnesses，末尾读 /ɪz/。早期 illness 还可泛说坏的性质，后来疾病义成为常用。",
+    "history": [
+      [
+        "英语 ill + -ness → illness",
+        "较早泛说坏的性质，后来常指病痛"
+      ],
+      [
+        "illness 的可数用法 + -es → illnesses",
+        "现代可数不同疾病或具体患病经历"
+      ]
+    ],
+    "explanation": "childhood illnesses 是儿童期疾病；several illnesses 是几种疾病或几次患病；the history of illnesses 是病史相关的叙述。",
+    "usage": "childhood illnesses；several illnesses；a chapter on illnesses。",
+    "contrast": "illness 表生病这一状态时常不数；illnesses 把种类、事件具体分开。仅凭单复数不能判断病情轻重。",
+    "examples": [
+      [
+        "The biography mentions several illnesses during his childhood.",
+        "传记提到了他童年的几次患病经历。"
+      ],
+      [
+        "The chapter explains the names of common illnesses.",
+        "这一章解释了常见疾病的名称。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illnesses#English",
+      "https://www.etymonline.com/word/illness"
+    ]
+  },
+  {
+    "word": "lays",
+    "ipa": "英、美 /leɪz/",
+    "meaning": "放下；铺设；摆放；产卵〔第三人称单数〕",
+    "sense": "让某样东西处在一个位置，是 lays。把书放下、铺一层布、鸟产下一枚蛋，都能保留“把东西安放下”的画面。",
+    "split": "lay + -s → lays，元音字母 + y 不改 ies。lay 承古英语 lecgan 放下，远处是 lie 躺词族的使动形式，意思近于使某物躺、放置。",
+    "history": [
+      [
+        "古英语 lecgan 放置，与 lie 的较远使动关系 → lay",
+        "历史形成的使动词，不是今天随意换元音的通用规则"
+      ],
+      [
+        "lay + -s → lays",
+        "现代有明确放置对象，也用于铺设、产卵等"
+      ]
+    ],
+    "explanation": "lays the book down 是把书放下；lays a cloth 是铺布；lays eggs 是产卵；lays out a plan 是清楚列出方案。",
+    "usage": "lays the book down；lays eggs；lays out a plan。",
+    "contrast": "lays 通常带放置的对象；lies down 是主语自己躺下。另一个 lay 又是 lie 躺的过去式，要根据时间和句式区分。",
+    "examples": [
+      [
+        "She lays the book beside the lamp.",
+        "她把书放在灯旁。"
+      ],
+      [
+        "The article explains why the bird lays eggs in spring.",
+        "文章解释了那种鸟为何在春季产卵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lays#English",
+      "https://www.etymonline.com/word/lay"
+    ]
+  },
+  {
+    "word": "lenders",
+    "ipa": "英 /ˈlendəz/；美 /ˈlendɚz/",
+    "meaning": "出借者；放款方〔复数〕",
+    "sense": "东西、钱由谁借出去，谁就是 lender；对方拿来用，后来要归还。lenders 可以是个人，也可以是提供贷款的机构。",
+    "split": "现代对应 lend + -er 人 → lender，再加 -s。历史也可能接古英语 laenere 出借者，后来随着 lend 加入 d，不能只定为一次新的英语造词。",
+    "history": [
+      [
+        "古英语出借词族与 laenere 出借者 → lender",
+        "较早继承或重新形成的人名词都有分析"
+      ],
+      [
+        "lender + -s → lenders",
+        "现代复数，强调交易中的借出一方"
+      ]
+    ],
+    "explanation": "private lenders 是私人出借方；lenders and borrowers 是借出方与借入方；a group of lenders 是一群出借者或多家放款机构。",
+    "usage": "private lenders；lenders and borrowers；a group of lenders。",
+    "contrast": "lenders 借出，borrowers 借入。lend someone a book 与 borrow a book from someone 看的是同一关系的两个方向。",
+    "examples": [
+      [
+        "The diagram shows the relationship between lenders and borrowers.",
+        "示意图展示了借出方与借入方的关系。"
+      ],
+      [
+        "The article compares the roles of different lenders.",
+        "文章比较了不同放款方的角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lenders#English",
+      "https://www.etymonline.com/word/lender"
+    ]
+  },
+  {
+    "word": "merits",
+    "ipa": "英、美 /ˈmerɪts/",
+    "meaning": "优点、长处；实际价值〔复数〕；值得〔第三人称单数〕",
+    "sense": "一件事有哪些值得肯定的地方，这些就是 merits；说它值得认真看一看，则可以说 it merits attention。一个数长处，一个作出值得的判断。",
+    "split": "merit + -s → merits，末尾 /ts/。经法语 merite 接拉丁 meritum 应得之物、价值，来自 merere、mereri 挣得、值得；英语还有法语动词或拉丁动词借入材料。",
+    "history": [
+      [
+        "拉丁 meritum 价值、应得之物 → 法语、英语 merit 名词",
+        "形成值得肯定、优良之处的用法"
+      ],
+      [
+        "merit 的值得动词 → merits；名词复数也同形",
+        "现代用句式区分优点与值得"
+      ]
+    ],
+    "explanation": "the merits of a plan 是方案的优点、价值；on its own merits 是根据它本身的价值；merits attention 是值得注意。",
+    "usage": "the merits of；on its own merits；merits attention。",
+    "contrast": "merits 作优点时可以与 drawbacks 缺点对照；作动词时直接接值得得到的事物，如 merits discussion 值得讨论。",
+    "examples": [
+      [
+        "The group discussed the merits of each design.",
+        "小组讨论了各个设计的优点。"
+      ],
+      [
+        "This small detail merits closer attention.",
+        "这个小细节值得更仔细地留意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/merits#English",
+      "https://www.etymonline.com/word/merit"
+    ]
+  },
+  {
+    "word": "prayed",
+    "ipa": "英、美 /preɪd/",
+    "meaning": "祈祷了；恳求、热切盼望了〔过去形式〕",
+    "sense": "带着强烈愿望恳求，是 pray 的底层方向。宗教语境里向神祈求，日常也能借它表达非常盼望某件事。",
+    "split": "pray + 完整 -ed → prayed，y 前是元音字母 a，所以不改 i；-ed 读 /d/。经法语 preier 接拉丁 precari 恳求，来自 preces 祈求词族。",
+    "history": [
+      [
+        "拉丁 precari 恳求 → 法语 preier → 英语 pray",
+        "英语早期既有恳求，也有宗教祈祷"
+      ],
+      [
+        "pray + -ed → prayed",
+        "现代过去形式，祈祷与热切盼望等用法"
+      ]
+    ],
+    "explanation": "prayed for peace 是祈求和平；prayed that... 是祈盼……；prayed to... 是向……祈祷。",
+    "usage": "prayed for；prayed that；prayed to。",
+    "contrast": "prayed 和 preyed 发音接近、常同音，但词义不同：prayed 是祈求，preyed on 是捕食或利用弱者。",
+    "examples": [
+      [
+        "The villagers prayed for peace.",
+        "村民们祈求和平。"
+      ],
+      [
+        "She prayed that the old letters had survived.",
+        "她热切盼望那些旧信仍然保存着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prayed#English",
+      "https://www.etymonline.com/word/pray"
+    ]
+  },
+  {
+    "word": "prefers",
+    "ipa": "英 /prɪˈfɜːz/；美 /prɪˈfɜːrz/",
+    "meaning": "更喜欢；宁愿选择〔第三人称单数〕",
+    "sense": "几样东西摆在面前，把更喜欢的那样放在前面，是 prefers。它表达相对偏好，不要求其他选项都不喜欢。",
+    "split": "prefer + -s → prefers，-s 读 /z/。拉丁 prae- 在前 + ferre 搬带 → praeferre 放在前面，经法语或拉丁语进入英语。",
+    "history": [
+      [
+        "拉丁 praeferre 放到前面 → prefer",
+        "较早也有提升、晋升用法"
+      ],
+      [
+        "把某物置于更喜欢的位置 → prefers",
+        "现代常用更喜欢、宁愿等意思"
+      ]
+    ],
+    "explanation": "prefers tea to coffee 是更喜欢茶而非咖啡；prefers reading 是更爱阅读；prefers to walk 是宁愿走路。",
+    "usage": "prefers A to B；prefers doing；prefers to do。",
+    "contrast": "prefer A to B 的 to 连接比较对象，A 是更偏爱的那个。它不是表示走向目的地的 to。",
+    "examples": [
+      [
+        "She prefers tea to coffee.",
+        "相比咖啡，她更喜欢茶。"
+      ],
+      [
+        "He prefers to walk when the weather is fine.",
+        "天气好时，他更愿意步行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prefers#English",
+      "https://www.etymonline.com/word/prefer"
+    ]
+  },
+  {
+    "word": "proposes",
+    "ipa": "英 /prəˈpəʊzɪz/；美 /prəˈpoʊzɪz/",
+    "meaning": "提议；提出；打算；求婚〔第三人称单数〕",
+    "sense": "把一个想法摆到大家面前，请大家考虑，是 proposes；提出与某人结婚的想法，就是求婚。",
+    "split": "propose 保留末尾 e，加 -s → proposes，/z/ 后读 /ɪz/。经法语 pro- 向前 + poser 放置形成 proposer，与较早的拉丁放置词族有替换、影响史。",
+    "history": [
+      [
+        "法语 proposer 把想法摆在面前 → 英语 propose",
+        "较早有形成意图、提出方案等用法"
+      ],
+      [
+        "提议的常用义与求婚义 → proposes",
+        "现代第三人称，按宾语和介词区分"
+      ]
+    ],
+    "explanation": "proposes a plan 是提出方案；proposes doing 是建议做；proposes to someone 是向某人求婚；proposes to do 也可说打算做。",
+    "usage": "proposes a plan；proposes doing；proposes to someone。",
+    "contrast": "proposes to a person 的 to 后是人，常是求婚；proposes to change... 的 to 后是动作，常是打算或提议改变。",
+    "examples": [
+      [
+        "The report proposes a simpler way to organize the work.",
+        "报告提出了一种更简单的工作安排方式。"
+      ],
+      [
+        "In the final chapter, he proposes to his old friend.",
+        "最后一章里，他向老朋友求婚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proposes#English",
+      "https://www.etymonline.com/word/propose"
+    ]
+  },
+  {
+    "word": "puppies",
+    "ipa": "英、美 /ˈpʌpiz/",
+    "meaning": "幼犬；小狗〔复数〕",
+    "sense": "狗还很小、处在成长早期，就是 puppy；一窝或几只幼犬是 puppies。",
+    "split": "puppy 的辅音字母 + y 改 i，加 -es → puppies。puppy 很可能接法语 poupée 玩偶、玩具，早期常说小型宠物犬，后来更多指年龄小的狗。",
+    "history": [
+      [
+        "法语玩偶、玩具材料 → puppy 小宠物犬",
+        "可能由像玩偶一样被宠爱的小狗得名，仍保留推测性"
+      ],
+      [
+        "小宠物犬 → 幼犬 → puppies",
+        "现代重点常在年龄，而非品种体型"
+      ]
+    ],
+    "explanation": "a litter of puppies 是一窝幼犬；playful puppies 是爱玩的幼犬；puppies in a story 是故事里的小狗。",
+    "usage": "a litter of puppies；playful puppies；young puppies。",
+    "contrast": "puppies 通常强调年幼，小体型成年犬未必是 puppy。词源中的玩偶联系也不表示今天这个词是在指玩具狗。",
+    "examples": [
+      [
+        "The children watched the puppies playing together.",
+        "孩子们看着幼犬一起玩耍。"
+      ],
+      [
+        "The story follows a litter of puppies through their first summer.",
+        "故事讲述了一窝幼犬度过第一个夏天的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puppies#English",
+      "https://www.etymonline.com/word/puppy"
+    ]
+  },
+  {
+    "word": "realities",
+    "ipa": "英、美 /riˈælətiz/",
+    "meaning": "实际情况；必须面对的现实〔复数〕",
+    "sense": "设想是一回事，真正摆在眼前的条件、困难是另一回事；这些具体实际情况可以说 realities。",
+    "split": "reality 的辅音字母 + y 改 i，加 -es → realities。reality 经法语 réalité、拉丁 realitas 接 realis 真实的，现代可与 real + -ity 性质名词对应学习。",
+    "history": [
+      [
+        "拉丁 realis 真实的 → realitas → 法语 réalité → reality",
+        "真实存在、实际状态"
+      ],
+      [
+        "实际状态的具体方面 → realities",
+        "现代复数常说不同的实际情况、现实条件"
+      ]
+    ],
+    "explanation": "face realities 是面对现实；practical realities 是实际情况；the realities of daily life 是日常生活中的真实处境。",
+    "usage": "face realities；practical realities；the realities of。",
+    "contrast": "reality 常统说现实，realities 把现实拆成需要分别面对的条件、事实。它不是 real 形容词直接加复数。",
+    "examples": [
+      [
+        "The plan must take practical realities into account.",
+        "计划必须把实际情况考虑进去。"
+      ],
+      [
+        "The novel explores the realities of life in a small town.",
+        "小说探讨了小镇生活的真实处境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/realities#English",
+      "https://www.etymonline.com/word/reality"
+    ]
+  },
+  {
+    "word": "recalls",
+    "ipa": "动词：英 /rɪˈkɔːlz/、美 /rɪˈkɔːlz/；名词：英、美 /ˈriːkɔːlz/",
+    "meaning": "回想；使想起；召回〔第三人称单数〕；召回事件〔复数〕",
+    "sense": "把人、物叫回来，是 recall；把记忆叫回脑海，也叫 recall。两种用法都保留“唤回”的方向。",
+    "split": "re- 回 + call 叫 → recall，再加 -s。英语中也有仿译法语、拉丁相应表达的影响；动词通常后重音，名词常前重音。",
+    "history": [
+      [
+        "英语 re- + call → recall 叫回",
+        "召回人员、收回等动作"
+      ],
+      [
+        "把记忆叫回 → 回想；动词又转名词 → recalls",
+        "现代第三人称与可数召回事件的复数同形"
+      ]
+    ],
+    "explanation": "recalls a moment 是回想某一刻；recalls the old house 是使人想起老房子；product recalls 是产品召回事件。",
+    "usage": "recalls a moment；recalls the past；product recalls。",
+    "contrast": "recalls the day 是回想那一天，product recalls 是产品召回事件。动词通常后重音，名词常前重音，句子里的对象也能帮助选义。",
+    "examples": [
+      [
+        "She recalls the day they first met.",
+        "她回想起他们初次见面的那一天。"
+      ],
+      [
+        "The article explains how product recalls are announced.",
+        "文章解释了产品召回信息是怎样公布的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recalls#English",
+      "https://www.etymonline.com/word/recall"
+    ]
+  },
+  {
+    "word": "receivers",
+    "ipa": "英 /rɪˈsiːvəz/；美 /rɪˈsiːvɚz/",
+    "meaning": "接收者；接收器；电话听筒；接球手〔复数〕",
+    "sense": "信息、信号、球或物品送过来，在另一端接住的人、装置，都是 receiver 的不同用法。",
+    "split": "receive 去末尾 e，加完整 -er → receiver，再加 -s；历史上也可能借法语 recevere 等人名词形。receive 远接拉丁 recipere 接取的词族。",
+    "history": [
+      [
+        "receive 接取的人名词或法语相关人名 → receiver",
+        "较早接收钱财、物品的人"
+      ],
+      [
+        "接收者名称用于装置、电话、球场角色等 → receivers",
+        "现代按接收对象区分具体中文"
+      ]
+    ],
+    "explanation": "radio receivers 是无线电接收机；telephone receivers 是电话听筒；wide receivers 是美式橄榄球的外接手。",
+    "usage": "radio receivers；telephone receivers；receivers and transmitters。",
+    "contrast": "receivers 接收，transmitters 发送。receptors 在生物学里常说受体、感受器，与 receiver 远同族，但专业名称不能随意互换。",
+    "examples": [
+      [
+        "The museum displays several early radio receivers.",
+        "博物馆展出了几台早期无线电接收机。"
+      ],
+      [
+        "The diagram labels the transmitters and receivers.",
+        "示意图标出了发送器与接收器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/receivers#English",
+      "https://www.etymonline.com/word/receiver"
+    ]
+  },
+  {
+    "word": "reflections",
+    "ipa": "英、美 /rɪˈflekʃənz/",
+    "meaning": "倒影；反射；思考、心得〔复数〕",
+    "sense": "光从表面折回，让你看见水中、镜中的影像，是 reflection；心思折回来看看经历、想法，也成为反思、心得。",
+    "split": "reflection + -s → reflections。经法语、晚期拉丁 reflexio 接拉丁 re- 回 + flectere 弯 → reflectere 折回；英语拼写后来确立常见 -ct-。",
+    "history": [
+      [
+        "拉丁 reflectere 折回 → reflexio → 法语、英语 reflection",
+        "较早用于光、热等的反射"
+      ],
+      [
+        "倒影与心思回转的比喻义 → reflections",
+        "现代可数水中影像，也可说多点思考心得"
+      ]
+    ],
+    "explanation": "reflections in water 是水中倒影；reflections on a journey 是旅行感想；personal reflections 是个人思考。",
+    "usage": "reflections in water；reflections on；personal reflections。",
+    "contrast": "reflections 在镜、水的语境里通常是影像；放在 on a topic 后则常说思考。不是所有 reflections 都在描述物理反光。",
+    "examples": [
+      [
+        "The lake held clear reflections of the mountains.",
+        "湖中映着清晰的山峦倒影。"
+      ],
+      [
+        "The final chapter contains her reflections on the journey.",
+        "最后一章收录了她对旅程的感想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reflections#English",
+      "https://www.etymonline.com/word/reflection"
+    ]
+  },
+  {
+    "word": "rejects",
+    "ipa": "动词：英、美 /rɪˈdʒekts/；名词：英、美 /ˈriːdʒekts/",
+    "meaning": "拒绝；驳回〔第三人称单数〕；废品、淘汰品〔复数〕",
+    "sense": "送到面前的东西被扔回去、没有被接受，是 reject 的画面。没通过筛选的物件，就可以称 rejects。",
+    "split": "reject + -s → rejects，末尾 /kts/。拉丁 re- 回 + iacere 的复合词干 -icere 投 → reicere，相关 reiect- 材料经法语、拉丁接英语。",
+    "history": [
+      [
+        "拉丁扔回、摈弃的词族 → reject 动词",
+        "不愿收下、拒绝采用"
+      ],
+      [
+        "被摈弃物的名词用法 → rejects",
+        "现代动词通常后重音，名词通常前重音"
+      ]
+    ],
+    "explanation": "rejects a proposal 是拒绝提议；rejects the claim 是驳斥说法；factory rejects 是工厂淘汰品、次品。",
+    "usage": "rejects a proposal；rejects the claim；factory rejects。",
+    "contrast": "rejects 作名词常带不合格、被淘汰意味。用来称人时有贬损语气；学习普通物品的筛选义更容易把方向抓稳。",
+    "examples": [
+      [
+        "The committee rejects the first proposal.",
+        "委员会拒绝了第一个提议。"
+      ],
+      [
+        "The shop sells factory rejects at reduced prices.",
+        "这家店以较低价格出售工厂淘汰品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rejects#English",
+      "https://www.etymonline.com/word/reject"
+    ]
+  },
+  {
+    "word": "representations",
+    "ipa": "英 /ˌreprɪzenˈteɪʃənz/；美 /ˌreprɪzenˈteɪʃənz/",
+    "meaning": "表现、描绘；图像、表征；正式陈述〔复数〕",
+    "sense": "真实事物不在眼前，用图、文字、符号把它呈现出来，这些呈现形式就是 representations。画同一座城，不同作者会有不同描绘。",
+    "split": "representation + -s → representations。经法语、拉丁 repraesentatio 展示，来自 repraesentare 使在眼前；re- 在这里可能加强，praesentare 是呈现，-ation 对应行为或结果名词。",
+    "history": [
+      [
+        "拉丁 repraesentare 呈现 → repraesentatio → representation",
+        "把形象、意思带到眼前或脑海"
+      ],
+      [
+        "呈现、图像、描绘等可数结果 → representations",
+        "正式提出的陈述也有相应用法"
+      ]
+    ],
+    "explanation": "visual representations 是视觉表征；representations of a city 是城市的不同描绘；written representations 是正式书面陈述。",
+    "usage": "visual representations；representations of；written representations。",
+    "contrast": "representations 会选择、组织对象的某些特点；地图、模型都可以是 representation，不要求把真实对象每一处完整复制。",
+    "examples": [
+      [
+        "The exhibition compares different representations of the same city.",
+        "展览比较了对同一座城市的不同描绘。"
+      ],
+      [
+        "The textbook uses simple visual representations of the process.",
+        "教材用简单图示呈现这个过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/representations#English",
+      "https://www.etymonline.com/word/representation",
+      "https://www.etymonline.com/word/represent"
+    ]
+  },
+  {
+    "word": "rituals",
+    "ipa": "英 /ˈrɪtʃuəlz/；美 /ˈrɪtʃuəlz/",
+    "meaning": "仪式；固定的习惯、流程〔复数〕",
+    "sense": "按一定顺序、带着特殊意义去做的一套动作，是 rituals。可以是宗教仪式，也可以是每天让自己进入状态的一套习惯。",
+    "split": "ritual + -s → rituals，/l/ 后读 /z/。经法语或拉丁 ritualis 礼仪的，来自 ritus 仪式、习俗；形容词后来转成仪式名词。",
+    "history": [
+      [
+        "拉丁 ritus 仪式 → ritualis 礼仪的 → ritual 形容词",
+        "关于既定仪式、礼仪"
+      ],
+      [
+        "形容词转名词 → rituals",
+        "现代固定流程也可借仪式来形容"
+      ]
+    ],
+    "explanation": "religious rituals 是宗教仪式；morning rituals 是早晨固定的一套习惯；family rituals 是家庭中的固定仪式、习惯。",
+    "usage": "religious rituals；morning rituals；family rituals。",
+    "contrast": "rituals 比 habits 更容易强调固定顺序、形式和个人或群体意义。喝咖啡可以是习惯，也可以被一个人认真经营成晨间小仪式。",
+    "examples": [
+      [
+        "The book describes traditional rituals in the village.",
+        "这本书描写了村里的传统仪式。"
+      ],
+      [
+        "Making tea was one of her quiet morning rituals.",
+        "泡茶是她宁静的晨间小仪式之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rituals#English",
+      "https://www.etymonline.com/word/ritual"
+    ]
+  },
+  {
+    "word": "surveyed",
+    "ipa": "英 /səˈveɪd/；美 /sɚˈveɪd/",
+    "meaning": "环顾、察看；测绘；调查了〔过去形式〕",
+    "sense": "把一片地方、一个问题整体看一遍，是 surveyed。看房间是察看，量土地是测绘，问一组人的意见则是调查。",
+    "split": "survey + 完整 -ed → surveyed，y 前是元音字母 e，不改 i；-ed 读 /d/。经法语 surveier 接拉丁 super- 上方 + videre 看 → supervidere 察看、监督。",
+    "history": [
+      [
+        "拉丁 supervidere 从上察看 → 法语、英语 survey",
+        "观察全貌、检查状态"
+      ],
+      [
+        "测绘、调查意见等具体用法 → surveyed",
+        "现代过去形式，动词后重音"
+      ]
+    ],
+    "explanation": "surveyed the room 是环顾房间；surveyed the land 是测绘土地；surveyed readers 是调查读者意见。",
+    "usage": "surveyed the room；surveyed the land；surveyed the readers。",
+    "contrast": "surveyed 不一定发了问卷。实地察看、土地测量与人群意见调查，都是在不同对象上取得整体了解。",
+    "examples": [
+      [
+        "She surveyed the room before choosing a seat.",
+        "她环顾房间后选了个座位。"
+      ],
+      [
+        "The magazine surveyed readers about their favourite books.",
+        "杂志调查了读者最喜欢哪些书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surveyed#English",
+      "https://www.etymonline.com/word/survey"
+    ]
+  },
+  {
+    "word": "tipped",
+    "ipa": "英、美 /tɪpt/",
+    "meaning": "倾斜了、倒出了；给小费了；被看好的〔过去形式、修饰用法〕",
+    "sense": "把杯口斜过去倒出内容，是 tipped；付账之外再给服务人员一点钱，也是 tipped。这些 tip 用法近源不完全相同，要分线记。",
+    "split": "tip 双写末尾 p，加完整 -ed → tipped，/p/ 后读 /t/。倾斜动词可能接北欧相关词；小费用法由较早的给、递过去等发展，远源未定。",
+    "history": [
+      [
+        "倾斜、推倒的 tip → tipped",
+        "与角度、倒出内容等动作相关"
+      ],
+      [
+        "给付、递过去的 tip → 给小费、提供消息等 → tipped",
+        "不能把全部义项定成同一条已证实的故事"
+      ]
+    ],
+    "explanation": "tipped the contents out 是把里面东西倒出；tipped the waiter 是给服务员小费；tipped to win 是被看好会获胜。",
+    "usage": "tipped the contents out；tipped the waiter；tipped to win。",
+    "contrast": "tipped 的具体意思看宾语与结构。tipped to win 是预测、看好，不是在说明有人给获胜者小费。",
+    "examples": [
+      [
+        "She tipped the contents of the box onto the table.",
+        "她把盒子里的东西倒到桌上。"
+      ],
+      [
+        "They tipped the waiter before leaving.",
+        "他们离开前给服务员留了小费。"
+      ],
+      [
+        "The young writer was tipped to win the prize.",
+        "那位年轻作家被看好能获奖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tipped#English",
+      "https://www.etymonline.com/word/tip"
+    ]
+  },
+  {
+    "word": "toilets",
+    "ipa": "英、美 /ˈtɔɪləts/",
+    "meaning": "坐便器、厕所设施；卫生间〔复数〕",
+    "sense": "toilet 可以是具体坐便器，也可以指厕所、卫生间。公共场所指路说 the toilets，常是在说去上厕所的地方。",
+    "split": "toilet + -s → toilets，/t/ 后读 /s/。借法语 toilette 小布，来自 toile 布 + 小称 -ette；英语词义经过梳洗用品、打扮、梳洗房间，再到卫生设施。",
+    "history": [
+      [
+        "法语小布 toilette → 梳洗用品、打扮过程",
+        "桌上铺布及其上物品等词义联系"
+      ],
+      [
+        "梳洗房间 → 厕所、坐便设施 → toilets",
+        "现代房间与具体设备两种指称"
+      ]
+    ],
+    "explanation": "public toilets 是公共厕所；the toilets upstairs 是楼上卫生间；two toilets can be installed 则可能在数两个坐便器。",
+    "usage": "public toilets；the toilets upstairs；toilets near the entrance。",
+    "contrast": "toilets 是房间还是设备，要看场景。机场指路通常说地点；装修清单里则可能在数卫生设备。",
+    "examples": [
+      [
+        "The public toilets are beside the station.",
+        "公共厕所在车站旁。"
+      ],
+      [
+        "The catalogue shows toilets in several different styles.",
+        "目录展示了几种不同款式的坐便器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toilets#English",
+      "https://www.etymonline.com/word/toilet"
+    ]
+  },
+  {
+    "word": "translates",
+    "ipa": "英、美 /trænzˈleɪts/；亦 /trænsˈleɪts/",
+    "meaning": "翻译；转化、体现为〔第三人称单数〕",
+    "sense": "把意思从一种语言搬到另一种语言，是 translates；把想法变成实际行动，也像从这一边搬到另一边。",
+    "split": "translate 保留末尾 e，加 -s → translates。经法语 translater 或拉丁 translatus 搬过去，后者充当 transferre 的过去分词，含 trans- 越过与 latus 搬带的补充式词干。",
+    "history": [
+      [
+        "拉丁 transferre 搬过去，其分词 translatus → translate",
+        "历史上 fer- 与 lat- 在同一拉丁动词的不同形式中配合"
+      ],
+      [
+        "语言转换、移转用法 → translates",
+        "现代常用翻译，也可说抽象转化为结果"
+      ]
+    ],
+    "explanation": "translates a poem 是翻译诗；translates into English 是译成英语；translates into action 是转化为行动。",
+    "usage": "translates a poem；translates into；translates ideas into action。",
+    "contrast": "translates into 不一定在谈语言。This translates into more space 是这带来更多空间、体现为更多空间，要看介词后的对象。",
+    "examples": [
+      [
+        "She translates short stories from French into English.",
+        "她把法语短篇小说译成英语。"
+      ],
+      [
+        "The new layout translates into more usable space.",
+        "新布局带来了更多可用空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/translates#English",
+      "https://www.etymonline.com/word/translate"
+    ]
+  },
+  {
+    "word": "trophies",
+    "ipa": "英 /ˈtrəʊfiz/；美 /ˈtroʊfiz/",
+    "meaning": "奖杯；奖品；胜利纪念物〔复数〕",
+    "sense": "把胜利、成绩留下一件看得见的标记，就是 trophy；比赛后摆在架子上的奖杯，便是 trophies。",
+    "split": "trophy 的辅音字母 + y 改 i，加 -es → trophies。经法语 trophée、拉丁 tropaeum 接希腊 tropaion 胜利纪念物，远连 trope 转身、敌人溃退。",
+    "history": [
+      [
+        "希腊敌人转身溃退的词族 → tropaion 胜利纪念物",
+        "古代用获胜纪念物保存战果"
+      ],
+      [
+        "拉丁、法语 → trophy → trophies",
+        "现代扩大到比赛奖杯、胜利奖品"
+      ]
+    ],
+    "explanation": "sports trophies 是体育奖杯；a cabinet of trophies 是摆满奖杯的柜子；trophies from competitions 是比赛所得奖品。",
+    "usage": "sports trophies；a trophy cabinet；trophies from competitions。",
+    "contrast": "trophies 不要求外形全是杯子，象征获胜的奖品、纪念物也能用。medals 则专指奖牌、勋章等形制。",
+    "examples": [
+      [
+        "The cabinet was full of sports trophies.",
+        "柜子里摆满了体育奖杯。"
+      ],
+      [
+        "The exhibition displays trophies from local competitions.",
+        "展览展示了本地比赛的奖品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trophies#English",
+      "https://www.etymonline.com/word/trophy"
+    ]
+  },
+  {
+    "word": "aspirations",
+    "ipa": "英、美 /ˌæspəˈreɪʃənz/",
+    "meaning": "抱负；志向；热切追求〔复数〕",
+    "sense": "心里有一个比眼前更远、更高的目标，并希望走到那里，这些志向就是 aspirations。它通常比一时想买点什么更有长期方向。",
+    "split": "aspiration + -s → aspirations。拉丁 ad- 向 + spirare 呼吸 → aspirare 吹向，也有努力达到、追求的意思；名词 aspiratio 接英语 aspiration。",
+    "history": [
+      [
+        "拉丁 aspirare 呼吸、吹向及追求 → aspiratio",
+        "呼吸与追求的词义关系较早已存在，不是现代英语现场拼出来"
+      ],
+      [
+        "aspiration 的热切目标义 → aspirations",
+        "现代复数常说职业、艺术或人生志向"
+      ]
+    ],
+    "explanation": "career aspirations 是职业抱负；artistic aspirations 是艺术追求；the aspirations of young people 是年轻人的志向。",
+    "usage": "career aspirations；artistic aspirations；aspirations for the future。",
+    "contrast": "aspirations 常侧重向往、追求的方向；a detailed plan 则进一步安排怎样实现。只有抱负不等于已经有明确步骤。",
+    "examples": [
+      [
+        "The course encouraged students to discuss their career aspirations.",
+        "课程鼓励学生讨论自己的职业抱负。"
+      ],
+      [
+        "The novel contrasts the friends’ aspirations for the future.",
+        "小说对比了几位朋友对未来的不同志向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aspirations#English",
+      "https://www.etymonline.com/word/aspiration",
+      "https://www.etymonline.com/word/aspire"
+    ]
+  },
+  {
+    "word": "believers",
+    "ipa": "英 /bɪˈliːvəz/；美 /bɪˈliːvɚz/",
+    "meaning": "信徒；坚信某事的人〔复数〕",
+    "sense": "把某个信仰、想法当真并支持它的人，是 believers。既可以谈宗教，也可以谈对教育、合作等理念的坚定相信。",
+    "split": "believe 去末尾 e，加完整 -er → believer，再加 -s。英语里用表示人的 -er 形成名称，较早常说有宗教信仰的人，后来扩大到相信某事的人。",
+    "history": [
+      [
+        "believe 相信 + -er → believer",
+        "把相信的动作转成行动者名称"
+      ],
+      [
+        "believer + -s → believers",
+        "现代宗教信仰者与理念支持者等语境"
+      ]
+    ],
+    "explanation": "religious believers 是有宗教信仰者；believers in education 是相信教育价值的人；firm believers 是坚信某事的人。",
+    "usage": "religious believers；believers in；firm believers。",
+    "contrast": "believers 是人，beliefs 是信念。一个人可以持有多种 beliefs，几个有相同信念的人才可以一起称 believers。",
+    "examples": [
+      [
+        "The museum explains how the festival is celebrated by believers.",
+        "博物馆介绍了信徒如何庆祝这个节日。"
+      ],
+      [
+        "They are firm believers in the value of public libraries.",
+        "他们坚信公共图书馆的价值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/believers#English",
+      "https://www.etymonline.com/word/believer"
+    ]
+  },
+  {
+    "word": "chartered",
+    "ipa": "英 /ˈtʃɑːtəd/；美 /ˈtʃɑːrtɚd/",
+    "meaning": "包租了；特许设立的；持特许资格的〔过去形式、形容词〕",
+    "sense": "按正式文书、合同赋予资格或安排使用，是 charter 的词族方向。chartered boat 是包租的船，chartered professional 则强调相应的特许资格。",
+    "split": "charter + 完整 -ed → chartered，-ed 读 /d/。经法语 chartre 接拉丁 chartula 小纸、文书，来自 charta 纸；正式文书的名称后来转作授权、包租的动词。",
+    "history": [
+      [
+        "拉丁 chartula 小纸、文书 → 法语 chartre → charter",
+        "正式授予权利、资格等的文书"
+      ],
+      [
+        "charter 转动词，再加 -ed → chartered",
+        "现代正式特许与按合同包租等用法"
+      ]
+    ],
+    "explanation": "a chartered boat 是包租船；a chartered flight 是包机航班；a chartered accountant 是持相应特许资格的会计师。",
+    "usage": "a chartered boat；a chartered flight；a chartered accountant。",
+    "contrast": "chartered 不只表示租了东西。专业称号中的 chartered 围绕正式资格，交通工具中的 chartered 围绕专门合同、包租安排。",
+    "examples": [
+      [
+        "The group travelled on a chartered boat.",
+        "这个团体乘包租船出行。"
+      ],
+      [
+        "The biography describes her training as a chartered accountant.",
+        "传记介绍了她取得特许会计师资格的培训经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chartered#English",
+      "https://www.etymonline.com/word/charter"
+    ]
+  },
+  {
+    "word": "cliffs",
+    "ipa": "英、美 /klɪfs/",
+    "meaning": "悬崖；陡峭岩壁〔复数〕",
+    "sense": "地面像突然切掉一块，露出一面很陡的岩壁，是 cliff 的直观画面。它可以靠海，也可以在内陆。",
+    "split": "cliff + -s → cliffs，末尾 /fs/，ff 不改成 v。cliff 承古英语 clif 等日耳曼陡崖名称，更远来源不确定。",
+    "history": [
+      [
+        "古英语 clif 陡峭岩壁、陡坡 → cliff",
+        "日耳曼语言中有相应的岩崖名称"
+      ],
+      [
+        "cliff + -s → cliffs",
+        "现代复数，旧 clift 变体或受 cleft 影响，不据此定同源"
+      ]
+    ],
+    "explanation": "steep cliffs 是陡峭悬崖；sea cliffs 是海崖；cliffs above a valley 是山谷上方的陡崖。",
+    "usage": "steep cliffs；sea cliffs；the foot of the cliffs。",
+    "contrast": "cliffs 侧重陡峭岩面，hills 侧重丘陵、山体。一个山地可能有 cliffs，悬崖也不一定连着大海。",
+    "examples": [
+      [
+        "The painting shows white cliffs above the sea.",
+        "这幅画画的是海边的白色悬崖。"
+      ],
+      [
+        "Small trees grew at the foot of the cliffs.",
+        "陡崖脚下长着小树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cliffs#English",
+      "https://www.etymonline.com/word/cliff"
+    ]
+  },
+  {
+    "word": "conquered",
+    "ipa": "英 /ˈkɒŋkəd/；美 /ˈkɑːŋkɚd/",
+    "meaning": "战胜了；征服了；克服了〔过去形式〕",
+    "sense": "费力取得、压过阻碍，是 conquer 的方向。军事叙述里可以是征服一地，日常比喻里也可以是克服恐惧、难题。",
+    "split": "conquer + 完整 -ed → conquered，-ed 读 /d/。经法语 conquerre 接俗拉丁、拉丁 conquirere 努力寻找、取得，含 con- 加强与 quaerere 寻求。",
+    "history": [
+      [
+        "拉丁 conquirere 努力取得 → 法语 conquerre → conquer",
+        "英语较早也可说完成某项任务"
+      ],
+      [
+        "战胜、征服与克服义 + -ed → conquered",
+        "现代字面与比喻都使用"
+      ]
+    ],
+    "explanation": "conquered a territory 是征服某地；conquered a fear 是克服恐惧；conquered a difficult task 是攻克难题。",
+    "usage": "conquered a territory；conquered her fear；conquered the difficulty。",
+    "contrast": "conquered 里的 qu 通常读 /k/，不按 question 中的 /kw/ 来套。克服内心障碍时是比喻，不要求发生实际交战。",
+    "examples": [
+      [
+        "The history book describes how the city was conquered.",
+        "历史书描述了那座城怎样被攻占。"
+      ],
+      [
+        "She gradually conquered her fear of speaking on stage.",
+        "她逐渐克服了上台讲话的恐惧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conquered#English",
+      "https://www.etymonline.com/word/conquer"
+    ]
+  },
+  {
+    "word": "creditors",
+    "ipa": "英 /ˈkredɪtəz/；美 /ˈkredɪtɚz/",
+    "meaning": "债权人；应当收款的一方〔复数〕",
+    "sense": "别人欠你钱，从这笔关系看，你就是 creditor；欠钱的一方则是 debtor。抓住钱最后应该回到哪一边，就不容易记反。",
+    "split": "creditor + -s → creditors。经法语 creditour、creditor 接拉丁 creditor 信任者、借出者，来自 credere 相信的词族。",
+    "history": [
+      [
+        "拉丁 credere 相信 → creditor 信任、借出者",
+        "先相信对方会归还，形成借出关系的名称"
+      ],
+      [
+        "法语、英语 creditor → creditors",
+        "现代指他人对其负有相应欠款的一方"
+      ]
+    ],
+    "explanation": "creditors and debtors 是债权人与债务人；a list of creditors 是债权人名单；letters to creditors 是给债权人的信。",
+    "usage": "creditors and debtors；a list of creditors；the company’s creditors。",
+    "contrast": "creditors 不限银行，个人、供货商等也可能处在应收款这一边。debtors 则在相应的欠款一边。",
+    "examples": [
+      [
+        "The diagram puts creditors and debtors on opposite sides.",
+        "示意图把债权人与债务人放在两边。"
+      ],
+      [
+        "In the novel, the merchant writes to his creditors.",
+        "小说里，商人给自己的债权人写信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creditors#English",
+      "https://www.etymonline.com/word/creditor"
+    ]
+  },
+  {
+    "word": "criticise",
+    "ipa": "英、美 /ˈkrɪtɪsaɪz/",
+    "meaning": "批评；评论、评判〔动词，常见英式拼写〕",
+    "sense": "指出某件事哪里做得不好，是 criticise；在艺术、文学语境里，它也可以更广地说分析、评判质量。",
+    "split": "critic 评论者、批评者 + -ise 动词后缀 → criticise；与 criticize 是拼写对应。critic 的较远词族围绕判断、辨别，不是单纯发泄不满。",
+    "history": [
+      [
+        "critic 判断、评论的人 + -ize、-ise → criticize、criticise",
+        "十七世纪形成相应的英语动词"
+      ],
+      [
+        "现代 criticise",
+        "常表示批评，也保留讨论、评判作品的用法"
+      ]
+    ],
+    "explanation": "criticise a decision 是批评决定；criticise a novel 是评论、批评小说；criticise someone for doing... 是因某事批评某人。",
+    "usage": "criticise a decision；criticise someone for；criticise the ending。",
+    "contrast": "criticise 与 criticize 常在不同拼写习惯里对应，意思不因 s、z 自动改变。criticisms 则是意见、批评这一名词复数，历史形成另看。",
+    "examples": [
+      [
+        "Several reviewers criticise the novel’s ending.",
+        "几位评论者批评了小说的结局。"
+      ],
+      [
+        "You can criticise an idea without insulting its author.",
+        "你可以批评一种想法，而不侮辱提出它的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/criticise#English",
+      "https://www.etymonline.com/word/criticize"
+    ]
+  },
+  {
+    "word": "criticised",
+    "ipa": "英、美 /ˈkrɪtɪsaɪzd/",
+    "meaning": "批评了；评论、评判了〔过去形式，常见英式拼写〕",
+    "sense": "把意见说出来，指出问题或作出评判，是 criticised。它可以是严厉责备，也可以是针对作品、方法的具体评价。",
+    "split": "criticise 去末尾 e，加完整 -ed → criticised，/z/ 后读 /d/；对应另一拼写 criticized。critic + -ise 形成动词，远连判断、辨别的词族。",
+    "history": [
+      [
+        "critic + -ise → criticise",
+        "把评判者名词转为作出评判的动作"
+      ],
+      [
+        "criticise + -ed → criticised",
+        "现代过去形式，拼写对应 criticized"
+      ]
+    ],
+    "explanation": "criticised the design 是批评设计；criticised for delays 是因拖延受到批评；was criticised 是被批评了。",
+    "usage": "criticised the design；criticised for；was criticised。",
+    "contrast": "criticised 描述发生了评价、批评，不说明被批评一方一定全错。具体批评的依据、程度由句子继续交代。",
+    "examples": [
+      [
+        "The reviewer criticised the film’s weak plot.",
+        "评论者批评了电影薄弱的情节。"
+      ],
+      [
+        "She criticised her own earlier work in the interview.",
+        "她在访谈里批评了自己较早的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/criticised#English",
+      "https://www.etymonline.com/word/criticize"
+    ]
+  },
+  {
+    "word": "criticisms",
+    "ipa": "英、美 /ˈkrɪtɪsɪzəmz/",
+    "meaning": "批评意见；质疑、评论〔复数〕",
+    "sense": "对同一个作品、方案提出的一条条问题或评价，可以数成 criticisms。重点从“批评这个动作”转到“提出了哪些意见”。",
+    "split": "critic 评论者 + -ism 活动、体系等名词后缀 → criticism，再加 -s。英语 criticism 的记录早于 criticize；学习时先看动词，不代表名词一定由动词产生。",
+    "history": [
+      [
+        "critic + -ism → criticism 评论、评判活动",
+        "较早有讨论优劣、质量的意思"
+      ],
+      [
+        "criticism 的具体意见义 + -s → criticisms",
+        "现代复数可列出多条批评、质疑"
+      ]
+    ],
+    "explanation": "constructive criticisms 是具体的建设性批评意见；criticisms of a plan 是对方案的批评；answer the criticisms 是回应批评。",
+    "usage": "criticisms of；answer the criticisms；several criticisms。",
+    "contrast": "literary criticism 常统说文学评论这门活动；criticisms 则常在数提出的意见。一个重分析领域，一个重具体内容。",
+    "examples": [
+      [
+        "The author responded to several criticisms of the first edition.",
+        "作者回应了针对第一版的几条批评意见。"
+      ],
+      [
+        "The group’s criticisms focused on the confusing layout.",
+        "小组的批评集中在令人困惑的布局上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/criticisms#English",
+      "https://www.etymonline.com/word/criticism"
+    ]
+  },
+  {
+    "word": "deliveries",
+    "ipa": "英 /dɪˈlɪvəriz/；美 /dɪˈlɪvəriz/",
+    "meaning": "送货、交付；分娩；投出的球〔复数〕",
+    "sense": "把东西送到接收方，是 delivery 的常用画面。一次次送货是 deliveries；在相应语境里，也可说分娩事件或球类里一次次投球。",
+    "split": "delivery 的辅音字母 + y 改 i，加 -es → deliveries。delivery 经法语 delivrée 等交付、释放的名词材料，远连 deliver 与拉丁 liber 自由词族。",
+    "history": [
+      [
+        "法语释放、交付的词族 → delivery",
+        "英语较早有解除束缚、交到另一方的用法"
+      ],
+      [
+        "送出、分娩与投球等具体分支 → deliveries",
+        "现代复数按接收对象、场景理解"
+      ]
+    ],
+    "explanation": "daily deliveries 是每日送货；deliveries to the shop 是送到店里的货；cricket deliveries 是板球的投球。",
+    "usage": "daily deliveries；deliveries to the shop；cricket deliveries。",
+    "contrast": "deliveries 常数交付事件、送来的货，不等于把快递员数成复数。delivery 说演讲的表达方式时，又常按整体理解。",
+    "examples": [
+      [
+        "The shop receives deliveries every morning.",
+        "店铺每天早晨都会收货。"
+      ],
+      [
+        "The coach reviewed the bowler’s final two deliveries.",
+        "教练回看了那位板球投手最后的两次投球。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deliveries#English",
+      "https://www.etymonline.com/word/delivery"
+    ]
+  },
+  {
+    "word": "diets",
+    "ipa": "英、美 /ˈdaɪəts/",
+    "meaning": "饮食；饮食习惯、安排〔复数〕；节食〔第三人称单数〕",
+    "sense": "人或动物平常吃些什么、怎样吃，是 diet；比较不同群体的饮食，就可以说 diets。它不专指减肥。",
+    "split": "diet + -s → diets，/t/ 后读 /s/。经法语 diete、拉丁 diaeta 接希腊 diaita 生活方式、生活安排，后来重点落到饮食。",
+    "history": [
+      [
+        "希腊 diaita 生活方式 → 拉丁、法语 → diet",
+        "从生活安排到日常食物、饮食习惯"
+      ],
+      [
+        "diet 的不同饮食模式义 → diets",
+        "现代也可作节食的动词第三人称"
+      ]
+    ],
+    "explanation": "traditional diets 是传统饮食；diets of different animals 是不同动物的食物构成；diets described in a book 是书中描述的饮食模式。",
+    "usage": "traditional diets；diets of different animals；different diets。",
+    "contrast": "diets 可以客观说平常吃什么，不必带减重目的。动词 diets 才常说某人按节食安排进食，具体句法要分开。",
+    "examples": [
+      [
+        "The book compares traditional diets in several regions.",
+        "这本书比较了几个地区的传统饮食。"
+      ],
+      [
+        "The documentary examines the diets of different birds.",
+        "纪录片考察了不同鸟类吃些什么。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diets#English",
+      "https://www.etymonline.com/word/diet"
+    ]
+  },
+  {
+    "word": "differs",
+    "ipa": "英 /ˈdɪfəz/；美 /ˈdɪfɚz/",
+    "meaning": "不同；有差异；意见相左〔第三人称单数〕",
+    "sense": "两样东西被放开、没有完全落在同一处，是 differs 的记忆方向。可以是形状、颜色不同，也可以是看法没有站到一边。",
+    "split": "differ + -s → differs，-s 读 /z/。拉丁 dis- 分开 + ferre 搬带 → differre 分开、不同，dis- 在 f 前同化，经法语或拉丁语进入英语。",
+    "history": [
+      [
+        "拉丁 differre 分开、不同 → 法语、英语 differ",
+        "由分开发展出性质不同"
+      ],
+      [
+        "意见不一致等义 + -s → differs",
+        "现代比较属性或表达看法不一致"
+      ]
+    ],
+    "explanation": "differs from 是与……不同；differs in colour 是颜色不同；differs with someone 是与某人意见不同。",
+    "usage": "differs from；differs in；differs with。",
+    "contrast": "differs 本身是动词，different 是形容词：it differs from... 与 it is different from... 是两套自然结构。",
+    "examples": [
+      [
+        "The second edition differs from the first in several details.",
+        "第二版在几个细节上与第一版不同。"
+      ],
+      [
+        "Her opinion differs from mine.",
+        "她的看法与我的不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/differs#English",
+      "https://www.etymonline.com/word/differ"
+    ]
+  },
+  {
+    "word": "digits",
+    "ipa": "英、美 /ˈdɪdʒɪts/",
+    "meaning": "数字；手指、脚趾〔复数〕",
+    "sense": "用手指一个个数数，把“指”借来称表示数的符号，就很好理解 digits。123 由三个 digits 组成，整个数却是一个 number。",
+    "split": "digit + -s → digits，/t/ 后读 /s/。借拉丁 digitus 手指、脚趾；拉丁语已有计数义，英语较早先记录数字义，较晚才有指、趾义。",
+    "history": [
+      [
+        "拉丁 digitus 指、趾 → 数字的计数引申",
+        "借手指数数给数字命名"
+      ],
+      [
+        "英语 digit 的数字义与指趾义分别借入 → digits",
+        "概念引申的方向与英语首次记录顺序不同"
+      ]
+    ],
+    "explanation": "three digits 是三个数字、三位数的数字位；the last two digits 是最后两位；digits on the hand 是手指，属于较正式的身体名称。",
+    "usage": "the last two digits；three digits；digits on the hand。",
+    "contrast": "digit 常说组成数的单个符号，number 可以说整体的数。比如 57 是一个 number，由 5、7 两个 digits 写成。",
+    "examples": [
+      [
+        "The code contains six digits.",
+        "这个代码包含六个数字。"
+      ],
+      [
+        "Only the last two digits of the number are visible.",
+        "这个号码只有最后两位看得见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/digits#English",
+      "https://www.etymonline.com/word/digit"
+    ]
+  }
+]

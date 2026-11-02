@@ -1,0 +1,119 @@
+[
+  {
+    "id": "B4069",
+    "meaning": "设法取得到购买；人物、再次购买与可购买",
+    "core": "PURCHASE：把想要的东西取得，现代多用正式“买”",
+    "image": "purchase → purchaser、purchasable；repurchase 再买、买回。基础词保留着力点的另一常见阅读义。",
+    "intro": "买方、使用者不一定同一个人。能买到与付得起也不同；get a purchase on 岩面着力不涉及购物。",
+    "forms": "法语 pur- + chacier 等 → purchase；purchaser 有旧法语人物词路径；purchase 去 e 加 -able；re- + purchase。\n\n法国旧追逐、设法取得词义后来专化成花钱买。\n\n法语旧追求、取得词，pur 与追逐材料，现代名词、动词多指购买。\n\n法语旧追逐、设法获得词，现代购买义不是整条历史的起点。",
+    "branches": [
+      [
+        "购买、买方与可购买",
+        "purchase · purchaser · purchasable"
+      ],
+      [
+        "再次或回头买",
+        "repurchase"
+      ],
+      [
+        "purchase → purchased：追求取得与购买",
+        "purchase · purchased"
+      ],
+      [
+        "purchase → purchases：追着取得到花钱买",
+        "purchase · purchases"
+      ],
+      [
+        "purchase → purchasing：追求取得，后来常指购买",
+        "purchase · purchases · purchasing"
+      ]
+    ],
+    "contrasts": "purchase/buy 正式与日常；purchasable/affordable 买得到与负担得起；repurchase 非 refund；purchase 抓牢义另看。",
+    "practice": "The purchaser kept the receipt as proof of purchase.\n\n买方保留了收据作为购买凭证。",
+    "words": [
+      "purchase",
+      "purchaser",
+      "purchasable",
+      "repurchase",
+      "purchased",
+      "purchases",
+      "purchasing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3672",
+    "meaning": "一起联结、组合结果与重新组合",
+    "core": "COMBINE：原来两两联结，现代能把多项合成一种效果",
+    "image": "combine → combination；recombine、recombination 紧随看再次结合。combine 农机名词前重音，基础动词后重音。",
+    "intro": "旧 bīnī 两两不限制现代只能合两个。组合锁的密码顺序重要，不能机械套数学 combination 的不计顺序含义。",
+    "forms": "com- + bīnī → combīnāre 经法语 → combine；combīnātiō 经法语 → combination；re- + combine/combination；农机名缩短。\n\ncom- 一起与 bini 两两的旧组合，现代并不限于两个对象。\n\n晚期拉丁 combinare 的 com- 与 bini 两两；现代可组合多件。\n\ncombine 经法语、拉丁 combinare 合到一起，远连 bini 两两。现代保留 e 加 -s，动词与联合收割机名词常有重音区别。",
+    "branches": [
+      [
+        "结合、结果与机器",
+        "combine · combination"
+      ],
+      [
+        "重新组合与过程",
+        "recombine · recombination"
+      ],
+      [
+        "combine → combined：把几部分合起来",
+        "combine · combined"
+      ],
+      [
+        "combine → combining：把不同部分合到一起",
+        "combine · combining"
+      ],
+      [
+        "com- 一起 + bin- 成双 → combines",
+        "combines"
+      ]
+    ],
+    "contrasts": "combine 动词后重音、农机前重音；combination 独立借词史；recombination 非所有情形都基因突变。",
+    "practice": "They recombined the parts to create a new combination.\n\n他们重新组合部件，创造出一种新组合。",
+    "words": [
+      "combine",
+      "combination",
+      "recombine",
+      "recombination",
+      "combined",
+      "combining",
+      "combines"
+    ],
+    "exclude": {
+      "combiner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4374",
+    "meaning": "罪责与内疚；人物性质和神态",
+    "core": "GUILT：做错与觉得做错，是需要分开的两件事",
+    "image": "guilt → guilty → guiltily；guiltless 加否定，责任与感受贯穿辨析。",
+    "intro": "有人会为自己并无责任的事内疚，也有人有责任却不觉内疚。词源深处不确定，不把债务、支付猜想当事实。",
+    "forms": "gylt → guilt；gyltiġ → guilty；guilty 的 y 变 i 加 -ly；guilt + -less。",
+    "branches": [
+      [
+        "罪责、状态和动作方式",
+        "guilt · guilty · guiltily"
+      ],
+      [
+        "无罪责或无愧疚",
+        "guiltless"
+      ]
+    ],
+    "contrasts": "感到 guilty 不等于已定罪；guiltily 神态非事实证明；guilt/gilt 同音异词；guilty pleasure 常非违法。",
+    "practice": "He felt guilty and smiled guiltily.\n\n他感到内疚，带着心虚笑了笑。",
+    "words": [
+      "guilt",
+      "guilty",
+      "guiltily",
+      "guiltless"
+    ],
+    "exclude": {
+      "self-guilt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "guilt-sick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "guilt-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

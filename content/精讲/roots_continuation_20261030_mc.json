@@ -1,0 +1,164 @@
+[
+  {
+    "id": "B4091",
+    "meaning": "避开注意地行动，到隐蔽作风及安静软底鞋",
+    "core": "SNEAK：动作轻一些，别让人发现",
+    "image": "sneak → sneaky、sneaker。",
+    "intro": "先看偷偷移动，再看别人怎样评价这种方式。运动鞋义是一个很直观的命名延伸：软底走路声轻。",
+    "forms": "可能承 sniken、snīcan 等旧悄行词；-y 性质，-er 原可人物，鞋名联系安静行走。\n\nsneak 的现代词与古英语 snican 一路可能有延续关系；sneaker 原能指悄行者，软底鞋声轻的用法后来发展成运动鞋义。\n\nsneaky 为 sneak + -y；比较级、最高级改 y 为 i 加完整 -er、-est，副词为 sneakily，不把形容词末尾 -y 当 -ly。",
+    "branches": [
+      [
+        "悄行与行为性质",
+        "sneak · sneaky"
+      ],
+      [
+        "人物后缀形成的鞋名",
+        "sneaker"
+      ],
+      [
+        "sneak 从悄悄行动到软底运动鞋",
+        "sneak · sneaks · sneaked · snuck · sneaking · sneaker · sneakers"
+      ],
+      [
+        "sneaky 的比较程度和动作方式",
+        "sneak · sneaky · sneakier · sneakiest · sneakily"
+      ]
+    ],
+    "contrasts": "sneaky 往往带隐瞒评价；sneakers 现代只是普通运动鞋名称。",
+    "practice": "He wore sneakers and tried to sneak out quietly.\n\n他穿着运动鞋，想悄悄溜出去。",
+    "words": [
+      "sneak",
+      "sneaky",
+      "sneaker",
+      "sneaks",
+      "sneaked",
+      "snuck",
+      "sneaking",
+      "sneakers",
+      "sneakier",
+      "sneakiest",
+      "sneakily"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3735",
+    "meaning": "围笼、限制与谨慎防备的近形词",
+    "core": "CAGE：有边界把行动围住；cagey 保留词源疑问",
+    "image": "cage → birdcage；cagey 的常用义是谨慎、不肯多说。",
+    "intro": "笼子限制自由很好理解。cagey 可以借戒备画面辅助记忆，但其历史没有完全坐实，不能拿记忆画面替代考证。",
+    "forms": "cavea → 法语 cage → 英语 cage；bird + cage → birdcage；cagey 来源未定。\n\ncage 经法语接拉丁 cavea 空腔、围栏，现代保留 e 加 -s，/dʒ/ 后读 /ɪz/。笼子是有围合结构、把对象限制在内的空间。",
+    "branches": [
+      [
+        "围笼及复合名称",
+        "cage · birdcage"
+      ],
+      [
+        "防备、不透露的性质",
+        "cagey"
+      ],
+      [
+        "cavea 围合空间 → cages",
+        "cages"
+      ]
+    ],
+    "contrasts": "cagey 不通常表示笼子很多；be cagey about 是实用搭配。",
+    "practice": "He was cagey about why the birdcage was empty.\n\n他不肯多说鸟笼为什么空着。",
+    "words": [
+      "cage",
+      "birdcage",
+      "cagey",
+      "cages"
+    ],
+    "exclude": {
+      "cage-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "queen-cage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4387",
+    "meaning": "背脊的长条隆起形状，扩展到地貌、屋顶和表面",
+    "core": "RIDGE：不是孤零零一个点，而是一条隆起的脊",
+    "image": "ridge → ridged、ridgeline。",
+    "intro": "先用背脊记形，再看山脊、屋脊、细棱。ridged 是有这种结构，ridgeline 是沿顶端延伸的线。",
+    "forms": "hryċġ → rigge → ridge；-ed 有此结构；line 线。",
+    "branches": [
+      [
+        "脊状结构、性质和顶部线条",
+        "ridge · ridged · ridgeline"
+      ]
+    ],
+    "contrasts": "ridge 长脊与 peak 单峰分清；ridged 凸棱与 grooved 凹槽按形状理解。",
+    "practice": "The ridgeline stood out sharply above the ridged slopes.\n\n山脊线在一道道隆起的坡地上方显得格外清晰。",
+    "words": [
+      "ridge",
+      "ridged",
+      "ridgeline"
+    ],
+    "exclude": {
+      "ridgeway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2035",
+    "meaning": "位置、方向或程度推进到最端",
+    "core": "-MOST：沿某个方向，一直推到最外、最内、最上",
+    "image": "innermost ↔ outermost；upmost、uppermost、topmost；各方位词再指边界。",
+    "intro": "现代形式能帮你认方向：inner 里面，outer 外面，north 北面。历史包含旧最高级形式与后来的重新分析，不是每个词都由现代独立 most 临时拼成。",
+    "forms": "旧最高级形式与 most 的影响共同形成现代 -most 一族；不同词的历史详见逐词。",
+    "branches": [
+      [
+        "内外、上下",
+        "innermost · outermost · upmost · uppermost · topmost"
+      ],
+      [
+        "方位的最远端",
+        "northernmost · southernmost · easternmost · westernmost · rightmost"
+      ],
+      [
+        "优先地位、最大程度",
+        "foremost · utmost"
+      ]
+    ],
+    "contrasts": "upmost 说最上位置，utmost 常说最大程度；most 在复合中不都翻译成最多。",
+    "practice": "The innermost room is far from the outermost wall.\n\n最里面的房间离最外墙很远。",
+    "words": [
+      "innermost",
+      "outermost",
+      "upmost",
+      "uppermost",
+      "topmost",
+      "northernmost",
+      "southernmost",
+      "easternmost",
+      "westernmost",
+      "rightmost",
+      "foremost",
+      "utmost"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3530",
+    "meaning": "幼猫的旧指小名称，与亲昵称呼对照",
+    "core": "KITTEN：还在幼年阶段的小猫",
+    "image": "kitten 与 kitty 连着学，年龄名称和亲昵称呼分开。",
+    "intro": "kitten 的小来自动物幼年阶段；kitty 的亲昵称呼可用于成年猫。kitty 另有共同钱款等同形义，按独立词条辨认。",
+    "forms": "中古英语 kitoun 通常接法语小猫指小词一族 → kitten；kitty 联系相关昵称形式。",
+    "branches": [
+      [
+        "年龄名称与昵称",
+        "kitten · kitty"
+      ]
+    ],
+    "contrasts": "不是所有体型小的成年猫都叫 kitten；kitty 可泛作爱称。",
+    "practice": "The kitten looked up when she called, “Here, kitty!”\n\n她叫了声“小猫，来”，幼猫便抬头看她。",
+    "words": [
+      "kitten",
+      "kitty"
+    ],
+    "exclude": {
+      "e-kitten": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

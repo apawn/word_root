@@ -1,0 +1,144 @@
+[
+  {
+    "id": "B3019",
+    "meaning": "布料、单块布与衣服旧复数；制品按用途",
+    "core": "CLOTH：一块材料可以覆盖、擦洗，也能做成衣物",
+    "image": "cloth → clothes；clothe → clothed；clothier 职业；tablecloth、washcloth、loincloth、cheesecloth 按用途。",
+    "intro": "cloths 布块复数与 clothes 衣物分清，读音不一律按拼写直读。clothed 常接 clothe 动词的结果，不把它认成衣物名词复数。",
+    "forms": "cloth—cloths；旧复数 clothes；clothe 去 e + -ed → clothed；clothier 旧职业派生；table/wash/loin/cheese + cloth。\n\ncloths 数单块布，clothes 已是衣物集合名；各复合词最后的主体形成复数。\n\n和 cloth 比较布的用途，不是 cloth 派生。towel 经古法语 toaille，接法兰克等日耳曼洗涤相关材料；后来名词又成用毛巾擦的动词。\n\n与 cloth 比较织物，不是 cloth 派生。shawl 经乌尔都等南亚语言接波斯 shal，作为衣物名称借入；具体地名命名说并不确定。\n\n此处比较材料和外观，不表示借词都由 cloth 派生。denim 接法语地名短语；satin 更远来源有争议；tweed 的命名有不同分析；khaki 接乌尔都语、波斯语尘土色材料。",
+    "branches": [
+      [
+        "材料、衣物和穿衣结果",
+        "cloth · clothes · clothe · clothed"
+      ],
+      [
+        "相关职业",
+        "clothier"
+      ],
+      [
+        "桌布、清洗、衣物和过滤",
+        "tablecloth · washcloth · loincloth · cheesecloth"
+      ],
+      [
+        "cloth、clothes 的家用品：洗碗布、洗脸巾、桌布、衣夹",
+        "cloth · clothes · dishcloth · dishcloths · washcloth · washcloths · tablecloth · tablecloths · clothespin · clothespins"
+      ],
+      [
+        "towel：洗后擦干的布",
+        "towel · towels"
+      ],
+      [
+        "shawl：另源的披肩名",
+        "shawl · shawls"
+      ],
+      [
+        "cloth 对照：几种常见布料与颜色名称",
+        "denim · satin · tweed · khaki"
+      ]
+    ],
+    "contrasts": "cloth/clothes/clothing 语法不同；clothes are，无 a clothes；clothed /ðd/ 与 clothes /ðz/；clothier 与 tailor 工作范围不同。",
+    "practice": "She used a clean cloth to wipe the cupboard before putting away her clothes.\n\n她先用干净布擦了柜子，再把衣服放好。",
+    "words": [
+      "cloth",
+      "clothes",
+      "clothe",
+      "clothed",
+      "clothier",
+      "tablecloth",
+      "washcloth",
+      "loincloth",
+      "cheesecloth",
+      "dishcloth",
+      "dishcloths",
+      "washcloths",
+      "tablecloths",
+      "clothespin",
+      "clothespins",
+      "towel",
+      "towels",
+      "shawl",
+      "shawls",
+      "denim",
+      "satin",
+      "tweed",
+      "khaki"
+    ],
+    "exclude": {
+      "book-cloth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3393",
+    "meaning": "力量、支撑或效力不足；弱点和减弱",
+    "core": "WEAK：撑不够、力不够，换对象看哪里不足",
+    "image": "weak → weakness、weaken、weakly；weakling 人物贬称放后面。",
+    "intro": "信号、茶、论证、身体按对象具体讲。偏爱 a weakness for 从抵不住诱惑理解，不只背缺点一个中文义。",
+    "forms": "weak + -ness/-en/-ly/-ling；-ling 人物词不是 -ing；weak/weakly 与 week/weekly 同音对照。\n\nweak 现代形式接北欧 veikr，与本族 wāc 有同族联系；论据较弱与身体力气小分别按场景看。\n\nweaken 可能接古北欧语或英语 weak + -en，现代加完整 -ed，/n/ 后读 /d/；变弱与使变弱均可。",
+    "branches": [
+      [
+        "性质、弱点、变化和方式",
+        "weak · weakness · weaken · weakly"
+      ],
+      [
+        "人物贬称",
+        "weakling"
+      ],
+      [
+        "weak → weaker → weakest：力、强度和依据",
+        "weak · weaker · weakest"
+      ],
+      [
+        "weak + -en → weaken → weakened",
+        "weakened"
+      ]
+    ],
+    "contrasts": "weak/week 同音，weakly/weekly 同音；weaken 变化非状态；weakness for 偏爱；weakling 语气不应抹平。",
+    "practice": "The weak signal weakened further as we entered the tunnel.\n\n进入隧道后，本来就弱的信号变得更弱了。",
+    "words": [
+      "weak",
+      "weakness",
+      "weaken",
+      "weakly",
+      "weakling",
+      "weaker",
+      "weakest",
+      "weakened"
+    ],
+    "exclude": {
+      "weak-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "weak-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4159",
+    "meaning": "换掉、接替；替代物与可替换性质",
+    "core": "REPLACE：原来的位置由另一个来接上",
+    "image": "replace → replacement → replaceable，复用已有前两词精讲。",
+    "intro": "替换动作、替代物和是否能换分清。可替换不保证可修理，产品用途只用作词义例子。",
+    "forms": "replace + -ment/-able；replacement 和 replaceable 不同词性。\n\nre- 与 place 组合，现代替换义既可接被换下者，也可说明换上者。\n\nre 与 place 的重新放置背景，现代去 e 加 ing。",
+    "branches": [
+      [
+        "动作、替代物和性质",
+        "replace · replacement · replaceable"
+      ],
+      [
+        "replace → replaced：放回、换上与接替",
+        "replace · replaced"
+      ],
+      [
+        "replace → replacing：换入一个，接替原来的",
+        "replace · replacing · replacement"
+      ]
+    ],
+    "contrasts": "replace 替换、replacement 替代物或更换、replaceable 可换；repairable 可修不是同义。",
+    "practice": "The replacement battery is replaceable too.\n\n换上的新电池也可以再更换。",
+    "words": [
+      "replace",
+      "replacement",
+      "replaceable",
+      "replaced",
+      "replacing"
+    ],
+    "exclude": {}
+  }
+]

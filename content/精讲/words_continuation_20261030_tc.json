@@ -1,0 +1,499 @@
+[
+  {
+    "word": "secondly",
+    "ipa": "/ˈsekəndli/",
+    "meaning": "第二、其次〔列举论点、理由〕",
+    "sense": "把话分成几个层次，讲完第一点，再立起第二块路牌。secondly 用来引出第二个理由、步骤或观点。",
+    "split": "second 第二 + -ly，形成列举次序的副词。second 的词族更早经法语接拉丁 secundus 第二、接下来的。",
+    "history": [
+      [
+        "second 第二 + -ly",
+        "次序形容词转为相应副词"
+      ],
+      [
+        "secondly 的篇章用法",
+        "列出第二点、其次"
+      ]
+    ],
+    "explanation": "Firstly, ... Secondly, ... 常用于有条理的陈述。也可以用 First, ... Second, ...；不需要把两种形式硬混成不同事实顺序。",
+    "usage": "firstly and secondly；secondly, we need to consider...。",
+    "contrast": "secondly 通常不是每秒一次的单位副词。说 secondly 时在组织论述；说 per second 才是在说明每秒的数量。",
+    "examples": [
+      [
+        "Firstly, the room is small. Secondly, it has no windows.",
+        "第一，房间很小。第二，它没有窗户。"
+      ],
+      [
+        "Secondly, we need to agree on a date.",
+        "其次，我们需要商定一个日期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/secondly#English"
+    ]
+  },
+  {
+    "word": "indefinitely",
+    "ipa": "/ɪnˈdefɪnətli/",
+    "meaning": "无限期地；未定结束时间地",
+    "sense": "日历上没有写哪天结束、何时恢复。indefinitely 抓住的是没有明确界限，并不保证真的永远不结束。",
+    "split": "indefinite 不确定界限的 + -ly；indefinite 的 in- 是否定，definite 接明确限定、界限的拉丁词族。",
+    "history": [
+      [
+        "in- 否定 + definite 的相应形式",
+        "没有明确界限"
+      ],
+      [
+        "indefinite + -ly → indefinitely",
+        "以不确定界限、未定结束时间的方式"
+      ]
+    ],
+    "explanation": "postponed indefinitely 无限期推迟；remain closed indefinitely 关闭至未定的时间。也可在抽象推演中说无限继续。",
+    "usage": "continue indefinitely；be suspended indefinitely。",
+    "contrast": "indefinitely 重在没有定终点；forever 明确说永远。活动无限期延期后仍可能在将来重新定日子。",
+    "examples": [
+      [
+        "The concert has been postponed indefinitely.",
+        "音乐会被无限期推迟了。"
+      ],
+      [
+        "We cannot keep the equipment here indefinitely.",
+        "我们不能一直把设备放在这里而不定结束时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indefinitely#English"
+    ]
+  },
+  {
+    "word": "adequately",
+    "ipa": "英 /ˈædɪkwətli/；美 /ˈædɪkwətli/",
+    "meaning": "足够地；达到需要地；妥当地",
+    "sense": "把事情放到需求这条线上看：准备、说明、保护是否够用、达标。adequately 主要回答够不够，而不是多惊艳。",
+    "split": "adequate 足够、适当的 + -ly；adequate 的历史接拉丁使相等、达到相应标准的词族。",
+    "history": [
+      [
+        "adequate 的达到需要、适当性质",
+        "与要求相称"
+      ],
+      [
+        "adequate + -ly → adequately",
+        "做得足够、能够满足要求"
+      ]
+    ],
+    "explanation": "adequately prepared 准备充分到足以应对；adequately explained 解释得够清楚；adequately funded 经费够用。具体要求由上下文给出。",
+    "usage": "adequately protected；respond adequately。",
+    "contrast": "adequately 不自动等于勉强凑合；它说满足需要。若要突出格外出色，可用 exceptionally well 等更强评价。",
+    "examples": [
+      [
+        "The instructions did not adequately explain the final step.",
+        "说明没有把最后一步解释清楚。"
+      ],
+      [
+        "The team was adequately prepared for the exercise.",
+        "团队已为这次演练作了足够准备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adequately#English"
+    ]
+  },
+  {
+    "word": "amazingly",
+    "ipa": "/əˈmeɪzɪŋli/",
+    "meaning": "令人惊讶地；惊人地",
+    "sense": "事情超出了你的预料，心里冒出一句居然。amazingly 可以加强一个性质，也能把整件事标成令人意外。",
+    "split": "amazing 令人惊讶的 + -ly，较深处接 amaze 的使惊异词族。形容性质转为程度、整句评价。",
+    "history": [
+      [
+        "amaze → amazing",
+        "使惊异 → 令人惊讶的"
+      ],
+      [
+        "amazing + -ly → amazingly",
+        "以令人惊讶的程度；令人意外的是"
+      ]
+    ],
+    "explanation": "amazingly fast 快得惊人；Amazingly, nobody noticed. 令人意外的是，没人注意到。评价可以是好事，也可以只是出乎预料。",
+    "usage": "amazingly well；amazingly, ...。",
+    "contrast": "amazingly 重在惊讶，wonderfully 常重在非常好；惊人的结果未必一定令人满意。",
+    "examples": [
+      [
+        "The little boat moved amazingly fast.",
+        "那条小船快得惊人。"
+      ],
+      [
+        "Amazingly, the old clock still worked.",
+        "令人惊讶的是，那座旧钟还能走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/amazingly#English"
+    ]
+  },
+  {
+    "word": "moderately",
+    "ipa": "英 /ˈmɒdərətli/；美 /ˈmɑːdərətli/",
+    "meaning": "适度地；中等程度地",
+    "sense": "把程度放在刻度中间附近：有一些、有一定程度，但不推到极端。也能说做事有节制。",
+    "split": "moderate 适度、中等的 + -ly；较早中古英语已有相应形式，词族更早接拉丁尺度、调节材料。",
+    "history": [
+      [
+        "moderate 的尺度、适度词族",
+        "保持一定尺度；中等的"
+      ],
+      [
+        "moderate + -ly → moderately",
+        "适度、中等程度地"
+      ]
+    ],
+    "explanation": "moderately successful 有一定成功；moderately difficult 中等难度；exercise moderately 适度运动。具体尺度随评价对象变化。",
+    "usage": "moderately priced；moderately warm。",
+    "contrast": "moderately 不等于 barely 几乎不、勉强；它通常给中等、适度程度，不能把所有中等评价都读成失败。",
+    "examples": [
+      [
+        "The test was moderately difficult.",
+        "考试难度中等。"
+      ],
+      [
+        "They stayed in a moderately priced hotel.",
+        "他们住在一家价格适中的酒店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moderately#English"
+    ]
+  },
+  {
+    "word": "wonderfully",
+    "ipa": "英 /ˈwʌndəfəli/；美 /ˈwʌndərfəli/",
+    "meaning": "极好地、美妙地；非常、格外",
+    "sense": "事情做得让人觉得真好，或者某种好性质特别突出。wonderfully 通常带欣赏、愉快的评价。",
+    "split": "wonderful 极好的、令人赞叹的 + -ly；较早中古英语已有同族副词。wonder + -ful 的词形再转成方式、程度表达。",
+    "history": [
+      [
+        "wonder + -ful → wonderful",
+        "令人赞叹、极好的"
+      ],
+      [
+        "wonderful + -ly → wonderfully",
+        "做得极好；把好性质的程度加强"
+      ]
+    ],
+    "explanation": "work wonderfully 效果极好；wonderfully simple 简单得很妙；wonderfully fresh 格外新鲜。既可修饰动作，也可加强形容词。",
+    "usage": "wonderfully clear；wonderfully well。",
+    "contrast": "wonderful 是形容词，wonderfully 是副词。a wonderful meal 是一顿美餐，cook wonderfully 是做饭做得极好。",
+    "examples": [
+      [
+        "The new system works wonderfully.",
+        "新系统运转效果极好。"
+      ],
+      [
+        "Her explanation was wonderfully clear.",
+        "她解释得格外清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wonderfully#English"
+    ]
+  },
+  {
+    "word": "admittedly",
+    "ipa": "/ədˈmɪtɪdli/",
+    "meaning": "诚然、不可否认；说实话承认一点",
+    "sense": "先把对自己不利、或需要承认的一点摆出来：确实如此。后面常再补充其他考虑，但这个词本身是在承认事实。",
+    "split": "admitted 被承认的 + -ly，接 admit 承认、允许进入的词族。由被承认这一性质发展为对整句话的立场标记。",
+    "history": [
+      [
+        "admit → admitted",
+        "承认 → 被承认的"
+      ],
+      [
+        "admitted + -ly → admittedly",
+        "承认这点地 → 诚然、不可否认"
+      ]
+    ],
+    "explanation": "Admittedly, the task is difficult. 诚然，任务很难。也可放句中：The result is admittedly disappointing. 结果确实令人失望。",
+    "usage": "admittedly difficult；admittedly imperfect。",
+    "contrast": "admittedly 通常不是被迫认罪的意思；它可以只是坦承一个不足、事实。与 apparently 看来相比，它更明确表示说话者承认这一点。",
+    "examples": [
+      [
+        "Admittedly, the first version needs more work.",
+        "诚然，第一版还需要继续打磨。"
+      ],
+      [
+        "The room is small, admittedly, but it gets plenty of light.",
+        "房间诚然小，但采光很好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/admittedly#English"
+    ]
+  },
+  {
+    "word": "overwhelmingly",
+    "ipa": "英 /ˌəʊvəˈwelmɪŋli/；美 /ˌoʊvərˈwelmɪŋli/",
+    "meaning": "压倒性地；极其强烈地；绝大多数地",
+    "sense": "把几边的力量或数量放在一起，一边明显盖过其他。评价好得压倒一切，或投票中大多数站在同一边，都能用它。",
+    "split": "overwhelming 压倒性的 + -ly；overwhelm 更早有翻覆、淹没等词族材料，再比喻力量、感受把人压住。",
+    "history": [
+      [
+        "overwhelm → overwhelming",
+        "压倒、淹没 → 压倒性的"
+      ],
+      [
+        "overwhelming + -ly → overwhelmingly",
+        "程度或数量明显占优势"
+      ]
+    ],
+    "explanation": "overwhelmingly positive 绝大多数是正面评价；vote overwhelmingly for 大幅多数投票支持；feel overwhelmingly grateful 感激之情极强烈。",
+    "usage": "overwhelmingly in favour；overwhelmingly successful。",
+    "contrast": "overwhelmingly 不等于 exactly all 全部：可以是绝大多数，也可以是感受的强烈程度。具体看它修饰的词。",
+    "examples": [
+      [
+        "The feedback was overwhelmingly positive.",
+        "反馈绝大多数是正面的。"
+      ],
+      [
+        "The committee voted overwhelmingly in favour of the proposal.",
+        "委员会以压倒性多数投票支持该提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overwhelmingly#English"
+    ]
+  },
+  {
+    "word": "finely",
+    "ipa": "/ˈfaɪnli/",
+    "meaning": "细碎地；精细、精致地；出色地",
+    "sense": "切得很细、雕得很精、细节处理得好，都能把 fine 的细与精转成 finely。",
+    "split": "fine 细的、精致的、优质的 + -ly；中古英语已有相应形式。副词保留不同形容词义，要按所修饰动作选。",
+    "history": [
+      [
+        "fine 的细、精、好的多个性质",
+        "材料细碎；工艺精细；质量好"
+      ],
+      [
+        "fine + -ly → finely",
+        "把相应性质转成动作方式、程度"
+      ]
+    ],
+    "explanation": "finely chopped 切得很碎；finely carved 雕刻精细；finely balanced 精细平衡的。不同搭配中，细可以是尺寸，也可以是细节。",
+    "usage": "finely ground；finely detailed。",
+    "contrast": "finely 与 finally 最后读音、拼写相近，但来源和意思不同。finely chopped 是切碎，不是终于切了。",
+    "examples": [
+      [
+        "Add the finely chopped herbs to the bowl.",
+        "把切碎的香草加进碗里。"
+      ],
+      [
+        "The box was finely carved by hand.",
+        "这个盒子由手工精细雕刻而成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/finely#English"
+    ]
+  },
+  {
+    "word": "pierce",
+    "ipa": "英 /pɪəs/；美 /pɪrs/",
+    "meaning": "刺穿、穿透；给身体打孔；声音、目光等穿透",
+    "sense": "尖物穿过材料留下孔，也能用来形容尖锐的声音冲破安静、目光像能看进人心。核心是穿进去、透过去。",
+    "split": "经中古英语、古法语 percier 等借入，通常追溯到拉丁 pertundere 刺穿、打通的词族，含 per- 穿过与 tundere 敲击材料；具体中间形式有重建分析。",
+    "history": [
+      [
+        "拉丁穿过、敲击词族 → 法语 percier",
+        "刺穿、穿透"
+      ],
+      [
+        "中古英语 → pierce",
+        "物理打孔、穿透；再有感官、情绪比喻"
+      ]
+    ],
+    "explanation": "pierce the skin 刺穿皮肤；have one’s ears pierced 打耳洞；a cry pierces the silence 尖叫划破寂静。",
+    "usage": "pierce a hole；pierce the darkness。",
+    "contrast": "pierce 强调穿透、刺入；cut 剪切、切割范围更广。具体形态不一定切下一块，pierce 常留下穿孔。",
+    "examples": [
+      [
+        "The needle pierced the fabric.",
+        "针穿过了布料。"
+      ],
+      [
+        "A sharp cry pierced the silence.",
+        "一声尖叫划破了寂静。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/pierce",
+      "https://en.wiktionary.org/wiki/pierce#English"
+    ]
+  },
+  {
+    "word": "piercing",
+    "ipa": "英 /ˈpɪəsɪŋ/；美 /ˈpɪrsɪŋ/",
+    "meaning": "穿孔、穿孔饰品；尖锐刺耳的；有穿透力的",
+    "sense": "耳洞是具体的孔；piercing scream 像声音直刺过来，piercing eyes 像目光能看穿人。都从 pierce 的穿透画面展开。",
+    "split": "pierce 去词末 e 加 -ing，形成分词、形容词和名词。身体穿孔及饰品名由穿孔动作转指孔或相关饰物。",
+    "history": [
+      [
+        "pierce + -ing",
+        "穿透、打孔这一动作"
+      ],
+      [
+        "形容词、名词的固定用法",
+        "尖锐有穿透力的；身体穿孔、相关饰品"
+      ]
+    ],
+    "explanation": "a piercing scream 尖叫；a piercing gaze 锐利目光；an ear piercing 耳部穿孔。名词可数时常说一个孔、一个穿孔饰物。",
+    "usage": "piercing cold；a body piercing。",
+    "contrast": "pierced 常说明已经被打孔、穿透；piercing 作形容词常说能够产生穿透感的声音、目光、寒冷。",
+    "examples": [
+      [
+        "A piercing whistle made everyone turn around.",
+        "一声尖锐的口哨让大家都转过身来。"
+      ],
+      [
+        "She has a small piercing in one ear.",
+        "她一只耳朵上有一个小穿孔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/piercing#English"
+    ]
+  },
+  {
+    "word": "garden",
+    "ipa": "英 /ˈɡɑːdən/；美 /ˈɡɑːrdən/",
+    "meaning": "花园、庭园、菜园；种植、照料园地",
+    "sense": "一片种花、种菜、种树或供人休憩的地方，通常经过人安排、照料。英语 garden 不只表示种观赏花的地方。",
+    "split": "经中古英语 gardyn、garden 借自盎格鲁诺曼语 gardin 等；更早来自日耳曼围起来的地方词族。与英语本族词 yard 同源，路线不同。",
+    "history": [
+      [
+        "日耳曼围地词族 → 法语 gardin 等",
+        "围起、照料的园地"
+      ],
+      [
+        "英语 garden 名词 → 动词",
+        "园地；再说种植、打理花园"
+      ]
+    ],
+    "explanation": "a flower garden 花园；a vegetable garden 菜园；garden behind the house 屋后园地。美式 backyard、yard 与英式 garden 的常用范围有差别。",
+    "usage": "work in the garden；a public garden；garden every weekend。",
+    "contrast": "garden 常突出种植、照料的园地；yard 在美式常说房屋周围的院子，即使主要是草坪也可用。具体用途要看语境。",
+    "examples": [
+      [
+        "They grow tomatoes in the garden.",
+        "他们在园子里种番茄。"
+      ],
+      [
+        "She likes to garden on weekends.",
+        "她喜欢周末做园艺。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/garden",
+      "https://en.wiktionary.org/wiki/garden#English"
+    ]
+  },
+  {
+    "word": "gardening",
+    "ipa": "英 /ˈɡɑːdənɪŋ/；美 /ˈɡɑːrdənɪŋ/",
+    "meaning": "园艺、园圃种植与打理",
+    "sense": "种下去、浇水、除草、修剪，一起组成打理园子的活动。gardening 把这些事作为一项爱好、技能来谈。",
+    "split": "garden 作动词种植、照料园地，加 -ing 成活动名；较早英语已有相应动作名词。garden 的名词来源又接围起的园地词族。",
+    "history": [
+      [
+        "garden 名词 → 园艺动作动词",
+        "园地 → 打理园地"
+      ],
+      [
+        "garden + -ing → gardening",
+        "种植、照料园子的活动"
+      ]
+    ],
+    "explanation": "do some gardening 做些园艺；gardening tools 园艺工具；a gardening club 园艺社团。作活动名通常不可数。",
+    "usage": "enjoy gardening；learn gardening skills。",
+    "contrast": "garden 是园地，也可作动词；gardening 说打理它的活动。horticulture 是更学术、专业的园艺领域名称。",
+    "examples": [
+      [
+        "Gardening helps him relax after work.",
+        "做园艺能让他下班后放松。"
+      ],
+      [
+        "I spent the afternoon doing some gardening.",
+        "我下午做了一会儿园艺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gardening#English"
+    ]
+  },
+  {
+    "word": "bathe",
+    "ipa": "/beɪð/",
+    "meaning": "洗澡、给……洗澡；浸洗；游泳、海水浴；使沐浴在光等之中",
+    "sense": "让身体或某个部位进入水里、用水洗，后来也能把光线充满房间说成沐浴其中。",
+    "split": "经中古英语 bathen 接古英语 bathian、baþian，属于 bath 洗浴、浴水的日耳曼词族。现代 bathe 与 bath 拼写、读音、使用习惯不同。",
+    "history": [
+      [
+        "古英语 baþian → 中古英语 bathen",
+        "浸洗、洗浴"
+      ],
+      [
+        "现代 bathe 的具体与比喻用法",
+        "洗澡、游泳、浸洗；被光等包围"
+      ]
+    ],
+    "explanation": "bathe the baby 给婴儿洗澡；bathe a wound 清洗伤口；bathe in the sea 在海里游泳、海水浴〔英式等〕；be bathed in sunlight 沐浴在阳光中。",
+    "usage": "bathe in warm water；a room bathed in light。",
+    "contrast": "bath 名词常读英 /bɑːθ/、美 /bæθ/；bathe 读 /beɪð/。日常 take a bath、have a bath 更直接说洗澡，bathe 的搭配随地区、场景变化。",
+    "examples": [
+      [
+        "She bathed the baby before bedtime.",
+        "她睡前给婴儿洗了澡。"
+      ],
+      [
+        "The room was bathed in warm afternoon light.",
+        "房间沐浴在温暖的午后光线中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bathe#English"
+    ]
+  },
+  {
+    "word": "bathing",
+    "ipa": "/ˈbeɪðɪŋ/",
+    "meaning": "洗澡、沐浴；游泳、海水浴；bathe 的 -ing 形式",
+    "sense": "看海边标牌 No bathing，这里往往是禁止下水游泳，不是禁止在家洗澡。场景帮助你给浴这个字选对意思。",
+    "split": "bathe 去末尾 e 加 -ing，形成活动名和分词；中古英语已有相应 bathynge 等形式。本页先讲 bathe 这一读音、词族的常见用法。",
+    "history": [
+      [
+        "bathe + -ing",
+        "浸洗、入水的活动形式"
+      ],
+      [
+        "bathing 的不同场景",
+        "洗澡；在海、湖等处游泳、海水浴"
+      ]
+    ],
+    "explanation": "a bathing suit 泳衣；sea bathing 海水浴；bathing the baby 给婴儿洗澡。名词、动词形式需要结合搭配和地点。",
+    "usage": "a bathing area；bathing in the sea。",
+    "contrast": "bathing 不一律是浴室内洗澡。bathing suit 是泳衣这一固定搭配；在日常美式里也常说 swimsuit。",
+    "examples": [
+      [
+        "The sign by the lake said “No bathing”.",
+        "湖边标牌写着“禁止游泳”。"
+      ],
+      [
+        "He bought a new bathing suit for the holiday.",
+        "他为度假买了一件新泳衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bathing#English"
+    ]
+  }
+]

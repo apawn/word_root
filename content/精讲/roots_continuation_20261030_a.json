@@ -1,0 +1,111 @@
+[
+  {
+    "id": "B2937",
+    "meaning": "重量与分量；负重活动及轻重级别",
+    "core": "WEIGHT：称得出重，也能衡量影响力",
+    "image": "先读 weight、weighty，再对比 over-/under-/counter-；weightless 单列物理状态，weightlifting 与 weightlifter 相邻。",
+    "intro": "与 weigh 同族的古英语继承名词。体重级别已有 lightweight、heavyweight、middleweight、flyweight，本页共享，不重复写定义。",
+    "forms": "weight → weighty、weightless；over-/under-/counter- + weight；weight + lifting/lifter；feather + weight。\n\nweight 与 weigh 有历史关系，名词接古英语重量名称。weights 可指重量数值、重物或健身器械，也可作给东西加重、分配权重的动词第三人称。",
+    "branches": [
+      [
+        "重量、分量与比较",
+        "weight · weighty · overweight · underweight"
+      ],
+      [
+        "平衡与失重",
+        "counterweight · weightless"
+      ],
+      [
+        "训练活动与人物",
+        "weightlifting · weightlifter · bodyweight"
+      ],
+      [
+        "级别与日常复合",
+        "lightweight · featherweight · flyweight · middleweight · heavyweight · paperweight"
+      ],
+      [
+        "weight → weights：重量、重物与加权",
+        "weights"
+      ]
+    ],
+    "contrasts": "weightless 不等于 massless；weighty matters 重大事项；overweight 重量超与 oversize 尺寸超不同。",
+    "practice": "Her weighty opinion carried more weight than the figures alone.\n\n她有分量的意见比单看数字更具影响力。",
+    "words": [
+      "weight",
+      "weighty",
+      "overweight",
+      "underweight",
+      "counterweight",
+      "weightless",
+      "weightlifting",
+      "weightlifter",
+      "bodyweight",
+      "lightweight",
+      "featherweight",
+      "flyweight",
+      "middleweight",
+      "heavyweight",
+      "paperweight",
+      "weights"
+    ],
+    "exclude": {
+      "throw-weight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cruiserweight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "welter-weight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bantamweight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2453",
+    "meaning": "出生、复兴、日期与诞生石习俗",
+    "core": "BIRTH：生命开始，也能借来形容新事物开始",
+    "image": "从已有 birth、childbirth 接过程 birthing，再把 birthdate、birthday 放在一起；rebirth 复兴，birthstone 属文化习俗。",
+    "intro": "birth 与 bear 生育、承载同族，现代词形受北欧相关形式影响，不能把词尾随意说成今天可造任何名词的 -th。",
+    "forms": "birth → birthing、rebirth；birth + date/day/place/right/mark/rate/stone；child、still + birth。\n\nbirth 属于 bear 生育的日耳曼词族，现代复数 -s，结尾 /θs/；数出生事件，不能直接当作人数名词。",
+    "branches": [
+      [
+        "基本出生与过程",
+        "birth · childbirth · birthing · stillbirth"
+      ],
+      [
+        "日期、地点与身份",
+        "birthdate · birthday · birthplace · birthright"
+      ],
+      [
+        "身体、统计与习俗",
+        "birthmark · birthrate · birthstone"
+      ],
+      [
+        "再次开始",
+        "rebirth"
+      ],
+      [
+        "birth 出生 → births",
+        "births"
+      ]
+    ],
+    "contrasts": "birthdate 通常含出生年份，birthday 常说每年生日；birthstone 文化习俗不等于 birthmark 胎记；rebirth 可比喻复兴。",
+    "practice": "The old theatre’s rebirth became part of the city’s story.\n\n老剧院的复兴成为城市故事的一部分。",
+    "words": [
+      "birth",
+      "childbirth",
+      "birthing",
+      "stillbirth",
+      "birthdate",
+      "birthday",
+      "birthplace",
+      "birthright",
+      "birthmark",
+      "birthrate",
+      "birthstone",
+      "rebirth",
+      "births"
+    ],
+    "exclude": {
+      "cross-birth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pro-birth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "birther": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "afterbirth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

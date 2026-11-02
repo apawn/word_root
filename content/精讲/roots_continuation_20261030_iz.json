@@ -1,0 +1,172 @@
+[
+  {
+    "id": "B4157",
+    "meaning": "反过来抵抗，与人物、事件、态度和动作的区分",
+    "core": "REBEL：不再照要求走，起而反抗",
+    "image": "rebel → rebelling；rebellion 反抗事件或状态；rebellious 反抗、叛逆的性质。",
+    "intro": "从作战的远源走到政治和日常抵抗，不要把所有 rebel 都译成正式武装叛乱。名词、动词重音也要分开。",
+    "forms": "re- + bellāre → rebellāre；法语 rebelle/rebeller → rebel；接 -ing 时双写 l。",
+    "branches": [
+      [
+        "人物、性质、事件与动作",
+        "rebel · rebellious · rebellion · rebelling"
+      ]
+    ],
+    "contrasts": "名词 rebel 前重读，动词及 rebelling 后重读；不是英语铃 bell 加前缀。",
+    "practice": "The rebellious character sees rebelling as a way to express disagreement.\n\n那个叛逆角色把反抗看作表达不同意见的方式。",
+    "words": [
+      "rebel",
+      "rebellious",
+      "rebellion",
+      "rebelling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3379",
+    "meaning": "敲击及批评、仿制、击倒和淘汰的固定扩展",
+    "core": "KNOCK：一下碰击，组合词再各自固定",
+    "image": "knock → knocker；knockdown、knockout 看结果和赛制；knockoff 看仿制义。",
+    "intro": "别只靠字面猜整词。knocker 能是物件，knockout 能是赛制，knockoff 甚至和敲击声音没什么现代直接关系。",
+    "forms": "cnocian → knock；knock + -er；knock down/out/off 的固定用法形成名词、修饰形式。\n\n继承古英语 cnocian 等，现代 k 不发音，ed 在 k 后读 t。\n\n古英语旧动作词，现代 k 不发音，名词复数与动词三单都可为 knocks。",
+    "branches": [
+      [
+        "基础动作与器具、人物",
+        "knock · knocker"
+      ],
+      [
+        "结果、赛制与模仿品",
+        "knockdown · knockout · knockoff"
+      ],
+      [
+        "knock → knocked：敲击与冲撞造成的变化",
+        "knock · knocked"
+      ],
+      [
+        "knock → knocks／knocking：敲门与敲击声",
+        "knock · knocks · knocked · knocking"
+      ]
+    ],
+    "contrasts": "k 不发音；knockout 赛制不是打晕赛；knockoff 是模仿品，knocker 不总是人。",
+    "practice": "The knock on the door came from a visitor who admired the old brass knocker.\n\n敲门的是一位欣赏那旧黄铜门环的访客。",
+    "words": [
+      "knock",
+      "knocker",
+      "knockdown",
+      "knockout",
+      "knockoff",
+      "knocked",
+      "knocks",
+      "knocking"
+    ],
+    "exclude": {
+      "knockers": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4430",
+    "meaning": "和平、安宁的性质、方式与状态名词",
+    "core": "PEACEFUL：平和的；PEACEFULLY：平和地；PEACEFULNESS：平和状态",
+    "image": "peaceful → peacefully / peacefulness。",
+    "intro": "不只说国家有没有战争，也可说环境、神态和互动。换词尾是在换句子里承担的任务。",
+    "forms": "peace + -ful；peaceful 接 -ly、-ness。",
+    "branches": [
+      [
+        "性质、方式和状态",
+        "peaceful · peacefully · peacefulness"
+      ]
+    ],
+    "contrasts": "peacefully 副词，peacefulness 名词；环境安静不一定与所有社会关系都和平同义。",
+    "practice": "They sat peacefully, enjoying the peacefulness of the room.\n\n他们平静地坐着，享受房间里的安宁。",
+    "words": [
+      "peaceful",
+      "peacefully",
+      "peacefulness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3153",
+    "meaning": "十三至十九的年龄词族，另分 tiny 的口语变体",
+    "core": "TEEN：看年龄；TEENY：通常看大小，来源另说",
+    "image": "teen / teenage → teenager、teenaged；preteen 指十几岁前阶段；teeny 极小的另接 tiny。",
+    "intro": "数字给 teen 年龄范围，大小给 teeny 的常用义。现代缩称关系也不等于整段词史一定是长词先出、短词后出。",
+    "forms": "-teen 数词尾 → 年龄表达；teen + age；teenage + -er；teen + aged。tiny 变体 → teeny。\n\nteens 的年龄用法较早，teenage 加完整 er 表处于该年龄的人，再加 s。",
+    "branches": [
+      [
+        "年龄与人物",
+        "teen · teenage · teenaged · teenager · preteen"
+      ],
+      [
+        "另一来源的大小形容词",
+        "teeny"
+      ],
+      [
+        "teen → teenage → teenager → teenagers：十三至十九岁的阶段",
+        "teen · teenage · teenager · teenagers"
+      ]
+    ],
+    "contrasts": "teen 通常十三到十九；teeny 极小不按青少年拆；teen 名词也有早于现代 teenager 的记录。",
+    "practice": "The teenaged reader found a teeny note inside the book.\n\n那位青少年读者在书里发现了一张小纸条。",
+    "words": [
+      "teen",
+      "teenage",
+      "teenaged",
+      "teenager",
+      "preteen",
+      "teeny",
+      "teenagers"
+    ],
+    "exclude": {
+      "teen-nap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3558",
+    "meaning": "困住、诱入圈套与捕捉不同目标的组合",
+    "core": "TRAP：进去了，出不来；也可捕掌声",
+    "image": "trap → trapper；entrap → entrapment；mousetrap、flytrap、deathtrap、trapdoor 各有具体对象或形状；claptrap 捕的是掌声。",
+    "intro": "实体圈套是入口，贫困陷阱、空气夹困、哗众取宠各自换了被困、被捕的对象。别把地质岩名、音乐类型和所有俚语强挤成同一张捕兽图。",
+    "forms": "træppe → trap；接 -er；法语 entraper → entrap + -ment；mouse/fly/death/clap + trap；trap + door。\n\n圈套义接古英语 traeppe 等，过去式双写 p；其他专业同形词另源。\n\ntrap 承古英语 træppe 等日耳曼陷阱名，常联系踩踏的词族，具体关系仍有不确定性。现代复数、动词第三人称同形，末尾 /ps/。",
+    "branches": [
+      [
+        "捕捉、操作者和诱入过程",
+        "trap · trapper · entrap · entrapment"
+      ],
+      [
+        "具体对象、危险处境与机关",
+        "mousetrap · flytrap · deathtrap · trapdoor"
+      ],
+      [
+        "从舞台噱头到空话",
+        "claptrap"
+      ],
+      [
+        "trap → trapped：被卡住、无法自由离开",
+        "trap · trapped"
+      ],
+      [
+        "trap → traps：踩入、陷住的形象",
+        "traps"
+      ]
+    ],
+    "contrasts": "mousetraps 不把前半改 mice；claptrap 通常不可数、带贬义；entrapment 法律义不覆盖所有普通圈套。",
+    "practice": "The museum contrasts an old mousetrap with the figurative trap in the word claptrap.\n\n博物馆把旧捕鼠器与 claptrap 一词里的比喻圈套作了对照。",
+    "words": [
+      "trap",
+      "trapper",
+      "entrap",
+      "entrapment",
+      "mousetrap",
+      "flytrap",
+      "deathtrap",
+      "trapdoor",
+      "claptrap",
+      "trapped",
+      "traps"
+    ],
+    "exclude": {
+      "live-trap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

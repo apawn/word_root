@@ -2342,7 +2342,7 @@
     "ipa": "/kənˈsɪst/",
     "meaning": "由……组成；在于",
     "sense": "看一个整体里面“站着哪些部分”，用 consist of；看它的本质落在哪里，用 consist in。",
-    "split": "经法语来自拉丁语 cōnsistere，con-（一起）+ sistere（使站立、站定）。",
+    "split": "经法语 consister 或直接借自拉丁语 cōnsistere，con-（一起）+ sistere（使站立、站定）。",
     "history": [
       [
         "拉丁语：stāre",
@@ -2353,8 +2353,8 @@
         "站定 → 一起存在、构成"
       ],
       [
-        "法语：consister",
-        "存在于；由……构成"
+        "法语 consister／直接拉丁来源",
+        "英语借入可经法语，也有直接借拉丁语的分析"
       ],
       [
         "英语：consist",
@@ -2375,7 +2375,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/consist#English"
+      "https://en.wiktionary.org/wiki/consist#English",
+      "https://www.etymonline.com/word/consist"
     ]
   },
   {

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "B2607",
+    "meaning": "手；操作、递交；人手、书写方式",
+    "core": "HAND：手拿、手做、手递，再借指做事的人和痕迹",
+    "image": "把手供手握，笔迹由手留下，farmhand 是农场里出力的人；每个组合先问 hand 在指哪一层。",
+    "intro": "hand 接古英语 hand。handle、handy、handsome 各有早期形式，尤其 handsome 从易操用、合适等义发展出欣赏外观，不能编成手漂亮。handed 的过去形式与左右手等修饰组合在基础词里理解，冷门 hander 不单列。",
+    "forms": "先 hand、handle、handy、handsome；制作 handcraft → handcrafted 与 handmade、handwork、handpainted、handloom、handpicked 相邻；书写 handwriting → handwritten、shorthand、longhand 一组。其他按携物、交接、运动、制动扶持、信息来源、时间方式、工作者和清洗展开。\n\nhands 可为名词复数，也可是把东西递过去的动词形式，分别从句法与对象判断。\n\n名词、动词古英语已有相关形式，现代过去式加 ed。\n\nhand 加 cuff 的组合转为戴铐动作；现代加 -ed，尾读 t。\n\nhand 加原有 kerchief 头巾，后者包含覆盖头部的法语旧材料；现代读音已连读缩变。\n\nhand 说明手动用途，复数加在整个组合末尾。\n\nheld 是 hold 的分词；set 是设备组合名。两种后半分别看，不是相同词尾。\n\n古英语 handboc 曾译拉丁 manualis；后来被 manual 等取代，近代又受德语 Handbuch 影响复兴。现代不是从拉丁 manus 直接借来 hand。\n\nhand 在这里指提供实际劳动的人，不只是舞台上的一只手。\n\nhand 承古英语手、控制等意思，更远来源不定；后来名词转动词有接管、递交义。现代加 -ing 原词不改，常与 over、out、in 连用。",
+    "branches": [
+      [
+        "基础词与技能评价",
+        "hand · handle · handy · handsome · handful"
+      ],
+      [
+        "制作与选择",
+        "handcraft · handcrafted · handmade · handwork · handiwork · handpainted · handloom · handpicked"
+      ],
+      [
+        "书写与痕迹",
+        "handwriting · handwritten · shorthand · longhand · handprint"
+      ],
+      [
+        "携物、交接和约束",
+        "handbag · handset · handkerchief · handshake · handgun · handcuff · handcuffs"
+      ],
+      [
+        "运动、制动与扶持",
+        "handball · forehand · backhand · underhand · overhand · handstand · handbrake · handrail"
+      ],
+      [
+        "来源、方式与时机",
+        "firsthand · secondhand · freehand · beforehand · offhand · backhanded"
+      ],
+      [
+        "人物和照料",
+        "handmaid · farmhand · deckhand · handwashing"
+      ],
+      [
+        "hand → hands：双手、指针与递交",
+        "hand · hands"
+      ],
+      [
+        "handle → handled：从用手处理到应对事务",
+        "hand · handle · handled"
+      ],
+      [
+        "handcuff → handcuffed：手腕铐具到受束缚",
+        "hand · handcuff · handcuffed"
+      ],
+      [
+        "handkerchief → handkerchiefs：手用小巾",
+        "hand · kerchief · handkerchief · handkerchiefs"
+      ],
+      [
+        "hand + saw → handsaw → handsaws：手锯",
+        "hand · handsaw · handsaws"
+      ],
+      [
+        "hand 的手持性质与电话部件组合",
+        "hand · handheld · handhelds · handset · handsets"
+      ],
+      [
+        "handbook：手边可查的说明手册",
+        "hand · handbook · handbooks"
+      ],
+      [
+        "hand 的工作人员义进入 stagehand",
+        "stagehand · stagehands"
+      ],
+      [
+        "hand 手 → handing：递交、移交",
+        "handing"
+      ]
+    ],
+    "contrasts": "handmade／handmaid 同音但制作与人物不同。shorthand 的 hand 是笔迹，farmhand 的 hand 是工人。handy 实用，handsome 英俊、气派或可观。secondhand 二手与 second hand 秒针要看结构。",
+    "practice": "The handy farmhand handed me a handwritten note before repairing the handle.\n\n那位手巧的农场工修理把手前，递给我一张手写便条。",
+    "words": [
+      "hand",
+      "handle",
+      "handy",
+      "handsome",
+      "handful",
+      "handcraft",
+      "handcrafted",
+      "handmade",
+      "handwork",
+      "handiwork",
+      "handpainted",
+      "handloom",
+      "handpicked",
+      "handwriting",
+      "handwritten",
+      "shorthand",
+      "longhand",
+      "handprint",
+      "handbag",
+      "handset",
+      "handkerchief",
+      "handshake",
+      "handgun",
+      "handcuff",
+      "handcuffs",
+      "handball",
+      "forehand",
+      "backhand",
+      "underhand",
+      "overhand",
+      "handstand",
+      "handbrake",
+      "handrail",
+      "firsthand",
+      "secondhand",
+      "freehand",
+      "beforehand",
+      "offhand",
+      "backhanded",
+      "handmaid",
+      "farmhand",
+      "deckhand",
+      "handwashing",
+      "hands",
+      "handled",
+      "handcuffed",
+      "kerchief",
+      "handkerchiefs",
+      "handsaw",
+      "handsaws",
+      "handheld",
+      "handhelds",
+      "handsets",
+      "handbook",
+      "handbooks",
+      "stagehand",
+      "stagehands",
+      "handing"
+    ],
+    "exclude": {
+      "right-hand": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "side-hand": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hand-held": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hand-to-mouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hand-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heavy-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hander": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

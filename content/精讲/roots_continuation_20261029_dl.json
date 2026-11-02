@@ -1,0 +1,128 @@
+[
+  {
+    "id": "B3554",
+    "meaning": "发展、形成、开发；已形成、正形成与不足",
+    "core": "DEVELOP：把未成形的东西逐步展开",
+    "image": "先看 develop，再读开发者 developer；developed、developing、undeveloped、underdeveloped 按完成、进行和不足区分。",
+    "intro": "develop 经法语接展开、解包的历史词，包裹部分更远来源不确定。development 已在前文精讲，此处共享完整词族，名词派生与动词一起看。",
+    "forms": "develop → developer、developed、developing；un- 未开发、under- 不充分；re- 重新 → redevelop → redevelopment；development → developmental。\n\ndevelop 加人物、作用物 er，复数 s 可数人员、企业或某类用品。\n\n不把后半硬拆成拉丁面纱。",
+    "branches": [
+      [
+        "形成、开发与执行者",
+        "develop · developer · development · developmental"
+      ],
+      [
+        "已形成与正在形成",
+        "developed · developing"
+      ],
+      [
+        "未开发与发展不足",
+        "undeveloped · underdeveloped · underdevelopment"
+      ],
+      [
+        "重新开发",
+        "redevelop · redevelopment"
+      ],
+      [
+        "developer → developers：使项目、产品发展出来的一方",
+        "develop · developer · developers"
+      ],
+      [
+        "develop → develops：过程动词三单",
+        "develop · develops"
+      ]
+    ],
+    "contrasts": "develop 问题出现不一定改善；developing 不是 developer；undeveloped、underdeveloped、under development 分开。",
+    "practice": "The developer will redevelop the site, but the plan is still under development.\n\n开发商将重新开发这块地，但方案仍在制定中。",
+    "words": [
+      "develop",
+      "developer",
+      "development",
+      "developmental",
+      "developed",
+      "developing",
+      "undeveloped",
+      "underdeveloped",
+      "underdevelopment",
+      "redevelop",
+      "redevelopment",
+      "developers",
+      "develops"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3756",
+    "meaning": "讨厌、仇恨；被恨、恨意和厌恶者",
+    "core": "HATE：厌恶的强度，要结合对象和语气",
+    "image": "hate waiting 可以日常夸张，hatred 常更重；hated 被讨厌，hateful 含恨、可憎，hater 是人物标签。",
+    "intro": "hate 继承古英语厌恶词族，hatred 的 -red 是旧状态后缀，和颜色 red 无关。后缀改变动作、状态和施受焦点。",
+    "forms": "hate → hated；hate → hatred、hateful、hater。\n\n古英语 hatian 等本族厌恶材料，英语三单直接加 s。\n\nhate 承古英语 hatian 厌恶的词线。现代分词、动名词 hating 去末尾 e，加 -ing；动名词常说厌恶某事，口语进行形式有具体语境。",
+    "branches": [
+      [
+        "厌恶与被厌恶",
+        "hate · hated"
+      ],
+      [
+        "情绪、性质和人物",
+        "hatred · hateful · hater"
+      ],
+      [
+        "hate → hates：强烈不喜欢",
+        "hate · hates"
+      ],
+      [
+        "hate → hating：去 e 加完整 -ing",
+        "hating"
+      ]
+    ],
+    "contrasts": "hated 不等于 hateful；hatred 名词不能作动词；critic 不必是 hater；hate to interrupt 可礼貌铺垫。",
+    "practice": "The writer described hatred without using hateful language.\n\n作者描写仇恨，却没有采用充满仇恨的语言。",
+    "words": [
+      "hate",
+      "hated",
+      "hatred",
+      "hateful",
+      "hater",
+      "hates",
+      "hating"
+    ],
+    "exclude": {
+      "self-hate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gay-hate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hate-crime": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2632",
+    "meaning": "回答、应答、解决办法；负责与可回答",
+    "core": "ANSWER：对请求、问题、呼唤作回应",
+    "image": "问题可回答，电话可接，门响可应；为行为 answer for，则要对别人解释清楚。answerable 接责任这支很常见。",
+    "intro": "answer 继承古英语回应词，有针对性郑重表态的构词背景。不是现代 and 与 swear 直接拼起来；常用读音不发 w。",
+    "forms": "answer → answering、answerable；动词接问题不必 to，名词答案后常用 to。\n\n本族回应词延续，现代 w 通常不发音。\n\n本族回应词有郑重表态的构成背景，现代是普通回复。",
+    "branches": [
+      [
+        "回应、应答与责任性质",
+        "answer · answering · answerable"
+      ],
+      [
+        "answer → answers：回应与答案",
+        "answer · answers"
+      ],
+      [
+        "answer → answered：回应、作答",
+        "answer · answered"
+      ]
+    ],
+    "contrasts": "answer the question；the answer to the question；answerable to 人或机构，answerable for 行为、决定。",
+    "practice": "The manager answered the question and explained whom she was answerable to.\n\n经理回答了问题，并说明自己向谁负责。",
+    "words": [
+      "answer",
+      "answering",
+      "answerable",
+      "answers",
+      "answered"
+    ],
+    "exclude": {}
+  }
+]

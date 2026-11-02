@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2627",
+    "meaning": "幼鸟旧称到通称；声音、活动与传统形象命名",
+    "core": "BIRD：先是较小的幼鸟称呼，后来成了鸟类常用总名",
+    "image": "bird → birdie；birding、birdwatching 观鸟；birdcage、birdhouse 等设施；声音、颜色、传统中的各类鸟名分组。",
+    "intro": "mockingbird 取模仿声音，hummingbird 取翅动声；thunderbird、firebird 是各自传统形象，不能套成同一种普通鸟。",
+    "forms": "bridd、bird 等 → bird；bird + -ie/-ing；bird + watching/cage/house/song 等；mocking/humming/thunder/fire 等 + bird。\n\nbirds 词尾 /dz/；旧 bird、brid 等形式有元音和 r 位置变体，不能机械反推所有英语词都有这种换位规则。\n\n与 bird 比较鸟类名称，不从 bird 构词。robin 缩自 Robin Redbreast，把人名 Robin 用来称鸟；欧洲知更鸟与美洲旅鸫不是同一种鸟。\n\n和 bird 比较鸟类名称，不是 bird 派生。eagle 经法语、普罗旺斯语相应形式接拉丁 aquila；更远与深色词的关系有分析分歧。\n\n与 bird 比较鸟类名称，不从 bird 构词。owl 承古英语 ule，接更早日耳曼材料，远源通常联系模仿呼叫、啼声的声音材料。\n\n和 bird 比较鸟类，不从 bird 直接派生。swan 承古英语 swan，可能接更早发声、歌唱的材料；不是现代 sing 改几个字母形成。\n\n和 bird 比较鸟类；crane 接古英语 cran，较远可能与嘶哑叫声相关。鸟的长颈、长嘴形象借给起重机；动词既有用起重机吊，也有伸颈看，吊运用法记载更早。\n\n和 bird 比较神话鸟类，并非 bird 派生。英语经拉丁 phoenix、phenix 及希腊 phoinix 等，古英语、法语也见 fenix。灰烬中重生的传说形象借给事业、组织重新兴起。\n\n与 bird 比较鸟类，不由 bird 派生。penguin 原先用于北大西洋大海雀，后来转给外形相似的南方企鹅；威尔士语头加白的分析等尚非定论。\n\n与 bird 比较鸟名，不由 bird 派生。pelican 接古英语与拉丁、希腊鸟名，远处可能有斧、啄木鸟名称关系；ostrich 经法语、中世纪拉丁语接通俗拉丁 avis struthio 鸟加鸵鸟名等材料，不能按英语 os 骨来拆。",
+    "branches": [
+      [
+        "基础与兴趣活动",
+        "bird · birdie · birding · birdwatching"
+      ],
+      [
+        "设施、鸣声与环境",
+        "birdcage · birdhouse · birdsong · birdlife · seabird · snowbird"
+      ],
+      [
+        "声音、颜色与其他鸟名",
+        "mockingbird · hummingbird · blackbird · bluebird · songbird · ladybird"
+      ],
+      [
+        "传统中的鸟形象",
+        "thunderbird · firebird"
+      ],
+      [
+        "bird → birds：鸟的普通复数",
+        "bird · birds"
+      ],
+      [
+        "robin：人名借给红胸小鸟",
+        "robin · robins"
+      ],
+      [
+        "eagle：拉丁鹰名经法语借入",
+        "eagle · eagles"
+      ],
+      [
+        "owl：叫声命名的猫头鹰",
+        "owl · owls"
+      ],
+      [
+        "swan：天鹅与更早发声材料",
+        "swan · swans"
+      ],
+      [
+        "crane：鹤 → 长臂起重机；伸长脖子",
+        "crane · cranes · craned · craning"
+      ],
+      [
+        "phoenix：不死鸟 → 浴火重生的比喻",
+        "phoenix · phoenixes"
+      ],
+      [
+        "penguin → penguins：从大海雀到企鹅的鸟名转用",
+        "penguin · penguins"
+      ],
+      [
+        "pelican、ostrich：两条古老鸟名传播路线",
+        "pelican · pelicans · ostrich"
+      ]
+    ],
+    "contrasts": "bird 不等于会飞动物；birdie 高尔夫少一杆；mockingbird 模仿鸣声、hummingbird 翼声；birdcage 笼与 nest 巢；ladybird 实为甲虫。",
+    "practice": "We went birdwatching and saw a hummingbird near the flowers.\n\n我们去观鸟，在花旁看到一只蜂鸟。",
+    "words": [
+      "bird",
+      "birdie",
+      "birding",
+      "birdwatching",
+      "birdcage",
+      "birdhouse",
+      "birdsong",
+      "birdlife",
+      "seabird",
+      "snowbird",
+      "mockingbird",
+      "hummingbird",
+      "blackbird",
+      "bluebird",
+      "songbird",
+      "ladybird",
+      "thunderbird",
+      "firebird",
+      "birds",
+      "robin",
+      "robins",
+      "eagle",
+      "eagles",
+      "owl",
+      "owls",
+      "swan",
+      "swans",
+      "crane",
+      "cranes",
+      "craned",
+      "craning",
+      "phoenix",
+      "phoenixes",
+      "penguin",
+      "penguins",
+      "pelican",
+      "pelicans",
+      "ostrich"
+    ],
+    "exclude": {
+      "mango-bird": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scape-bird": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "birdy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3900",
+    "meaning": "教学活动与教导、教义内容",
+    "core": "TEACHING：可说怎样教，也可说传下来的观点是什么",
+    "image": "teaching 作为教学过程常不可数；teachings 复数可说某人的教导、学说。",
+    "intro": "teaching methods 是教学方法，the teachings of a philosopher 是哲人的教导。别只因同形都译成正在上课。",
+    "forms": "teach + -ing → teaching；动作名词与内容名词分义。",
+    "branches": [
+      [
+        "过程与内容",
+        "teaching"
+      ]
+    ],
+    "contrasts": "teaching 活动，teachings 常教导内容；teacher 人，不等于 teaching 这项活动。",
+    "practice": "Her teaching helped us understand the philosopher’s teachings.\n\n她的教学帮助我们理解了那位哲人的教导。",
+    "words": [
+      "teaching"
+    ],
+    "exclude": {
+      "book-teaching": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-teaching": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

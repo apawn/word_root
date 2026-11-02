@@ -1,0 +1,90 @@
+[
+  {
+    "id": "B3469",
+    "meaning": "顶部、上表面；最高位置",
+    "core": "TOP：从底下往上看到最上面",
+    "image": "屋顶、树梢、山顶都在上面；到了榜单，顶部就成第一名。",
+    "intro": "top 接古英语 topp、中古英语 top、toppe，更远来源仍有不确定处。顶部、上衣、最高等级等用法可相互联想，但不是每个同拼写义都能编成一条确定故事。stop 是另一词源，不拆成 s + top。",
+    "forms": "先看 top 及 tops、topmost、atop、topping、topper、topless、topple，再按桌面、建筑自然顶面、材料车顶分组。desktop、laptop 都与电脑相关，但 laptop 也有 desktop 界面。\n\n本族顶部材料转动词，现代双写 p 加完整 ed，p 后读 t。\n\ntop 命名顶部平面，复数各加 s。\n\ntop 与 desk、lap 组合，器物名称按桌面、膝上位置形成；两种设备今天的实际摆放并不受名称限制。\n\ntop 的旧倾倒动作加 -le 一系形成 topple，现代整词可说物体倒下、使倒下，也可说推翻权力。此 top 不是希腊 top- 地点。",
+    "branches": [
+      [
+        "基本词与扩展",
+        "top · tops · topmost · atop · topping · topper · topless · topple"
+      ],
+      [
+        "桌面与操作面",
+        "desktop · laptop · tabletop · countertop · stovetop · worktop"
+      ],
+      [
+        "建筑与自然顶部",
+        "rooftop · hilltop · mountaintop · treetop · topside"
+      ],
+      [
+        "材料、路面与车顶",
+        "topsoil · hardtop · blacktop"
+      ],
+      [
+        "top → topped：放在顶上；排在前面、超过",
+        "top · topped"
+      ],
+      [
+        "top 的工作表面组合：countertop、worktop",
+        "top · countertop · countertops · worktop · worktops"
+      ],
+      [
+        "desktop、laptop 的承放位置命名及复数",
+        "desktop · desktops · laptop · laptops"
+      ],
+      [
+        "topple：顶端失衡而倾倒",
+        "top · topple · topples · toppled · toppling"
+      ]
+    ],
+    "contrasts": "desktop／laptop：桌面电脑与便携电脑；桌面界面不只台式机有。top／topple：居首与倾倒。topping／topper：配料与顶部加物，具体看对象。",
+    "practice": "She placed the laptop on the tabletop and looked out over the rooftops.\n\n她把笔记本电脑放到桌面上，望向窗外成片屋顶。",
+    "words": [
+      "top",
+      "tops",
+      "topmost",
+      "atop",
+      "topping",
+      "topper",
+      "topless",
+      "topple",
+      "desktop",
+      "laptop",
+      "tabletop",
+      "countertop",
+      "stovetop",
+      "rooftop",
+      "hilltop",
+      "mountaintop",
+      "treetop",
+      "topside",
+      "worktop",
+      "topsoil",
+      "hardtop",
+      "blacktop",
+      "topped",
+      "countertops",
+      "worktops",
+      "desktops",
+      "laptops",
+      "topples",
+      "toppled",
+      "toppling"
+    ],
+    "exclude": {
+      "stop": "stop 上接古英语 stoppian 等，并非 s + top；不归入顶部词族。",
+      "out-top": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "top-post": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "top-age": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "top-drain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "top-dimensional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "topshop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "topsail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "topman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "topline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

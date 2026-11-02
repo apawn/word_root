@@ -1,0 +1,425 @@
+[
+  {
+    "word": "borrow",
+    "ipa": "英 /ˈbɒrəʊ/；美 /ˈbɑːroʊ/",
+    "meaning": "借来、借入；借用、借鉴",
+    "sense": "东西从别人那里到你手里，打算归还，是 borrow。想法、词语也能从别处吸收过来，形成借鉴、借词用法。",
+    "split": "承古英语 borgian，经中古英语 borwen 等。更早担保、保证的背景连接借贷；现代常用方向已经明确为借入。",
+    "history": [
+      [
+        "古英语 borgian 等，联系担保、保证的词族",
+        "担保、借贷；历史上借入、借出方向曾有交叠"
+      ],
+      [
+        "现代 borrow",
+        "从别人处借来，或借用想法、外语词"
+      ]
+    ],
+    "explanation": "borrow a book from someone 向某人借书，borrow money 借钱，borrow an idea 借鉴想法，borrow a word from French 从法语借词。",
+    "usage": "borrow from；borrow a book；borrow an idea。",
+    "contrast": "borrow 借入，lend 借出：Can I borrow your pen?；Can you lend me your pen? 旧词源的方向交叠不能代替现代常用规则。",
+    "examples": [
+      [
+        "May I borrow your umbrella until tomorrow?",
+        "我可以借用你的伞到明天吗？"
+      ],
+      [
+        "The designer borrowed an idea from traditional boats.",
+        "设计师借鉴了传统船只的一个构思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/borrow#English",
+      "https://www.etymonline.com/word/borrow"
+    ]
+  },
+  {
+    "word": "borrower",
+    "ipa": "英 /ˈbɒrəʊə/；美 /ˈbɑːroʊər/",
+    "meaning": "借用者、借入者；借款人",
+    "sense": "借进来的一方是 borrower。图书馆借书的人、借钱的人，都可按同一方向命名。",
+    "split": "borrow + -er，中古英语已有相应人物名词。-er 标示实施 borrow 借入行为的人。",
+    "history": [
+      [
+        "古英语 borgian 等，联系担保、保证的词族",
+        "担保、借贷；历史上借入、借出方向曾有交叠"
+      ],
+      [
+        "现代 borrow",
+        "从别人处借来，或借用想法、外语词"
+      ],
+      [
+        "borrow + -er → borrower",
+        "借入、借用的人"
+      ]
+    ],
+    "explanation": "a library borrower 图书馆借阅者，the borrower and the lender 借款人与出借方，a borrower’s card 借阅证。",
+    "usage": "a library borrower；the borrower and the lender。",
+    "contrast": "borrower 借入，lender 借出。两边都参与一笔借贷，但词名视角相反。",
+    "examples": [
+      [
+        "Each borrower may take out three books.",
+        "每位借阅者可以借三本书。"
+      ],
+      [
+        "The borrower promised to return the equipment on Monday.",
+        "借用者答应周一归还设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/borrower#English"
+    ]
+  },
+  {
+    "word": "borrowing",
+    "ipa": "英 /ˈbɒrəʊɪŋ/；美 /ˈbɑːroʊɪŋ/",
+    "meaning": "借用、借入；借词；借鉴来的成分",
+    "sense": "可以说借东西这一行为，也能把借来的词、文学手法等当成一个 borrowing。外语词进入另一语言后，不需要字面还回去。",
+    "split": "borrow + -ing，保留完整词干。由行为名词发展为一次借用、一个借词或借鉴成分等可数用法。",
+    "history": [
+      [
+        "古英语 borgian 等，联系担保、保证的词族",
+        "担保、借贷；历史上借入、借出方向曾有交叠"
+      ],
+      [
+        "现代 borrow",
+        "从别人处借来，或借用想法、外语词"
+      ],
+      [
+        "borrow + -ing → borrowing",
+        "借用行为；借入的词、元素"
+      ]
+    ],
+    "explanation": "borrowing from another language 从另一语言借词，French borrowings 法语借词，cultural borrowings 文化借鉴成分。资金语境也可说借入、借款规模。",
+    "usage": "linguistic borrowing；French borrowings。",
+    "contrast": "语言学 borrowing 与普通临时借用的归还条件不同，是吸收使用的专业比喻。borrower 则主要命名借用者。",
+    "examples": [
+      [
+        "English contains many borrowings from French.",
+        "英语中有许多来自法语的借词。"
+      ],
+      [
+        "The study examines cultural borrowing between neighboring regions.",
+        "研究考察相邻地区之间的文化借鉴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/borrowing#English"
+    ]
+  },
+  {
+    "word": "reinterpretation",
+    "ipa": "英 /ˌriːɪntɜːprɪˈteɪʃən/；美 /ˌriːɪntɜːrprɪˈteɪʃən/",
+    "meaning": "重新解释、新诠释；改编式的再表现",
+    "sense": "原来的文字、作品、证据没必然变，你换一个角度重新理解、表现，就是 reinterpretation。",
+    "split": "re- 再、重新 + interpretation。后半是已有的解释、诠释名词，-ation 命名相应行为或结果。",
+    "history": [
+      [
+        "interpretation 解释、诠释的已有词",
+        "说明意义，或以某种方式表现作品"
+      ],
+      [
+        "re- + interpretation → reinterpretation",
+        "重新解释、提出新的诠释"
+      ]
+    ],
+    "explanation": "a reinterpretation of a play 对戏剧的新诠释，a modern reinterpretation 现代再诠释，reinterpretation of evidence 对证据的重新解释。",
+    "usage": "a modern reinterpretation；a reinterpretation of。",
+    "contrast": "reinterpretation 不自动等于误解；misinterpretation 才明确说错误理解。新诠释是否站得住，要看内容和依据。",
+    "examples": [
+      [
+        "The production offers a modern reinterpretation of the old play.",
+        "这次制作对老剧作给出了现代诠释。"
+      ],
+      [
+        "New evidence led to a reinterpretation of the event.",
+        "新证据促使人们重新解释那件事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reinterpretation#English"
+    ]
+  },
+  {
+    "word": "sink",
+    "ipa": "/sɪŋk/",
+    "meaning": "下沉、沉没；使沉；降低、陷入；洗涤槽",
+    "sense": "东西往水里下去，是 sink；人疲惫地陷进软椅、心情往下落，也能借这个向下的动作。名词水槽则从排水、汇水位置发展。",
+    "split": "承古英语 sincan，经中古英语 sinken。名词先有容纳废水的坑、下水处，再形成厨房洗涤槽义。常用过去式 sank /sæŋk/，分词 sunk /sʌŋk/。",
+    "history": [
+      [
+        "古英语 sincan → 中古英语 sinken → sink",
+        "往下沉、没入"
+      ],
+      [
+        "向下、容纳排水的扩展",
+        "沉下；心情低落；下水处、洗涤槽"
+      ]
+    ],
+    "explanation": "sink to the bottom 沉到底，sink into a chair 陷进椅子，My heart sank. 我心一沉，a kitchen sink 厨房水槽，let it sink in 让信息慢慢被理解。",
+    "usage": "sink to the bottom；sink into；let it sink in；a kitchen sink。",
+    "contrast": "sink 下沉，不一定整个沉没；sunk 是分词，sunken 常用作下沉、凹陷的形容词。水槽名不只是任何 bowl。",
+    "examples": [
+      [
+        "The stone sank to the bottom of the pond.",
+        "石头沉到池塘底。"
+      ],
+      [
+        "It took a moment for the news to sink in.",
+        "过了一会儿，他才真正领会那个消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sink#English",
+      "https://www.etymonline.com/word/sink"
+    ]
+  },
+  {
+    "word": "sinker",
+    "ipa": "英 /ˈsɪŋkə/；美 /ˈsɪŋkər/",
+    "meaning": "使物下沉的重物；钓坠；下坠球〔棒球〕",
+    "sense": "钓线需要沉下去，就加一个 sinker。名字按让东西下沉的功能来；棒球里也可按球下坠的运动命名。",
+    "split": "sink + -er，形成执行下沉、使下沉作用的人、物名称。现代常用钓坠等器具义。",
+    "history": [
+      [
+        "古英语 sincan → 中古英语 sinken → sink",
+        "往下沉、没入"
+      ],
+      [
+        "sink + -er → sinker",
+        "使线等下沉的物件；下坠球"
+      ]
+    ],
+    "explanation": "a fishing sinker 钓坠，hook, line and sinker 完全地〔常搭配 believe、fall for〕，a sinker pitch 下坠球。",
+    "usage": "a fishing sinker；hook, line and sinker。",
+    "contrast": "believe a story hook, line and sinker 是全信了，借鱼连钩线坠都吞下的形象，不是在讲真实进食动作。",
+    "examples": [
+      [
+        "He attached a small sinker to the line.",
+        "他在线上系了一个小钓坠。"
+      ],
+      [
+        "They believed the invented story hook, line and sinker.",
+        "他们对编出的故事深信不疑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sinker#English"
+    ]
+  },
+  {
+    "word": "unsinkable",
+    "ipa": "/ʌnˈsɪŋkəbəl/",
+    "meaning": "不会沉没的；不可击垮、百折不挠的",
+    "sense": "字面是不能沉；形容人的乐观、精神时，则像怎样打击都不被压下去。",
+    "split": "un- 不 + sink + -able 能被……的。先形成能被沉下去的结构，再整体否定。",
+    "history": [
+      [
+        "古英语 sincan → 中古英语 sinken → sink",
+        "往下沉、没入"
+      ],
+      [
+        "向下、容纳排水的扩展",
+        "沉下；心情低落；下水处、洗涤槽"
+      ],
+      [
+        "un- + sink + -able → unsinkable",
+        "不能被沉没 → 不可击垮的精神等"
+      ]
+    ],
+    "explanation": "an unsinkable boat 不会沉的船，unsinkable optimism 打不倒的乐观，an unsinkable spirit 百折不挠的精神。",
+    "usage": "unsinkable optimism；an unsinkable spirit。",
+    "contrast": "对船的 unsinkable 是一种性能主张，词本身不验证它；对人的比喻则强调顽强乐观。",
+    "examples": [
+      [
+        "Her unsinkable optimism kept the group going.",
+        "她打不倒的乐观让团队坚持下去。"
+      ],
+      [
+        "The advertisement described the model boat as unsinkable.",
+        "广告把这艘模型船描述为不会沉没。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsinkable#English"
+    ]
+  },
+  {
+    "word": "sustainably",
+    "ipa": "/səˈsteɪnəbli/",
+    "meaning": "以可持续的方式、能长期维持地",
+    "sense": "不把未来继续做这件事的条件耗光，让它有办法长期维持，就是 sustainably 想强调的方式。对象可涉及资源，也可涉及经营、工作节奏。",
+    "split": "sustainable + -ly，常见 -able 形容词形成 -ably 副词。承接能够持续维持的性质，不只是把一个环保标签贴到动作上。",
+    "history": [
+      [
+        "sustain 支持、维持 → sustainable",
+        "能够持续维持的；涉及资源、环境等可持续性"
+      ],
+      [
+        "sustainable + -ly → sustainably",
+        "以能够持续维持的方式"
+      ]
+    ],
+    "explanation": "sustainably managed forests 可持续管理的森林，sustainably produced goods 可持续生产的商品，grow sustainably 以能长期维持的方式发展。",
+    "usage": "sustainably managed；sustainably produced；grow sustainably。",
+    "contrast": "sustainably 是方式副词，sustainable 是性质形容词。词语主张是否成立，要看实际资源、长期条件，不能只凭标签。",
+    "examples": [
+      [
+        "The furniture uses wood from sustainably managed forests.",
+        "家具使用来自可持续管理森林的木材。"
+      ],
+      [
+        "The team wants to grow sustainably rather than expand too quickly.",
+        "团队希望稳健地持续发展，避免扩张太快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sustainably#English"
+    ]
+  },
+  {
+    "word": "exceptional",
+    "ipa": "/ɪkˈsepʃənəl/",
+    "meaning": "特别、异常的；杰出、出众的",
+    "sense": "不落在通常那一堆里，就是 exceptional 的例外感。能力超出一般，多是称赞；天气、事件异常，则不必是好事。",
+    "split": "exception + -al，形成例外、超出一般的性质词。褒义出众是重要常用分支，不能取代全部异常义。",
+    "history": [
+      [
+        "exception 例外 + -al → exceptional",
+        "不在一般情况之列"
+      ],
+      [
+        "超出一般的评价",
+        "特别、出众；也可指异常情况"
+      ]
+    ],
+    "explanation": "exceptional talent 杰出才能，exceptional circumstances 特殊情况，exceptional quality 出众品质。",
+    "usage": "exceptional talent；exceptional circumstances。",
+    "contrast": "exceptional 不自动等于允许破例的法律、程序结论；它也不总是称赞，要看修饰什么。",
+    "examples": [
+      [
+        "She showed exceptional skill in the final round.",
+        "最后一轮，她展现出出众的技艺。"
+      ],
+      [
+        "The road was closed because of exceptional weather conditions.",
+        "道路因异常天气而关闭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exceptional#English"
+    ]
+  },
+  {
+    "word": "exceptionally",
+    "ipa": "/ɪkˈsepʃənəli/",
+    "meaning": "格外、异常地；非常",
+    "sense": "高得、冷得、好得超出平常，可以 exceptionally。它把程度拉出一般范围，既能配好评价，也能配坏状态。",
+    "split": "exceptional + -ly，形成程度、方式副词。末尾常弱化，不需把每个书写音节都强读。",
+    "history": [
+      [
+        "exception 例外 + -al → exceptional",
+        "不在一般情况之列"
+      ],
+      [
+        "超出一般的评价",
+        "特别、出众；也可指异常情况"
+      ],
+      [
+        "exceptional + -ly → exceptionally",
+        "超出通常程度、格外"
+      ]
+    ],
+    "explanation": "exceptionally good 格外好，exceptionally cold 异常寒冷，exceptionally difficult 非常困难。",
+    "usage": "exceptionally good；exceptionally cold；exceptionally difficult。",
+    "contrast": "exceptionally cold 不是称赞天气优秀。副词强化超出通常的程度，具体评价随后面的形容词走。",
+    "examples": [
+      [
+        "The room was exceptionally quiet that morning.",
+        "那天早晨，房间格外安静。"
+      ],
+      [
+        "The route is exceptionally difficult in winter.",
+        "这条路线冬季异常难走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exceptionally#English"
+    ]
+  },
+  {
+    "word": "unexceptional",
+    "ipa": "/ˌʌnɪkˈsepʃənəl/",
+    "meaning": "普通、不特别、不出众的",
+    "sense": "没什么超出常态、特别惊喜的地方，是 unexceptional。可以还不错，只是没那么出众。",
+    "split": "un- 不 + exceptional，否定特别、出众的性质。",
+    "history": [
+      [
+        "exception 例外 + -al → exceptional",
+        "不在一般情况之列"
+      ],
+      [
+        "超出一般的评价",
+        "特别、出众；也可指异常情况"
+      ],
+      [
+        "un- + exceptional → unexceptional",
+        "没有超出一般，普通"
+      ]
+    ],
+    "explanation": "an unexceptional performance 普通表现，pleasant but unexceptional 舒适、不错但不突出。",
+    "usage": "an unexceptional performance；pleasant but unexceptional。",
+    "contrast": "unexceptional 通常不是糟透了；它把对象放回普通范围。具体语气可能略显失望，也可中性。",
+    "examples": [
+      [
+        "The hotel was pleasant but unexceptional.",
+        "酒店住着舒服，但没什么特别。"
+      ],
+      [
+        "His first attempt was unexceptional, though the later work improved.",
+        "他第一次尝试表现普通，后来作品有所进步。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unexceptional#English"
+    ]
+  },
+  {
+    "word": "exceptionalism",
+    "ipa": "/ɪkˈsepʃənəlɪzəm/",
+    "meaning": "特殊性、例外性；特殊论、例外论",
+    "sense": "不只说某个成绩好，而是把一个国家、机构、群体看成与通常模式不同，甚至不适用一般规则，形成 exceptionalism 这类讨论。",
+    "split": "exceptional + -ism，命名特殊状态，或强调特殊性的理论、信念。具体含赞誉、优越、使命或例外主张，要看上下文。",
+    "history": [
+      [
+        "exception 例外 + -al → exceptional",
+        "不在一般情况之列"
+      ],
+      [
+        "超出一般的评价",
+        "特别、出众；也可指异常情况"
+      ],
+      [
+        "exceptional + -ism → exceptionalism",
+        "特殊性；把某对象视为例外的理论、主张"
+      ]
+    ],
+    "explanation": "national exceptionalism 国家例外论，claims of exceptionalism 关于特殊性的主张，institutional exceptionalism 机构例外性、特殊论。",
+    "usage": "national exceptionalism；claims of exceptionalism。",
+    "contrast": "exceptional talent 说出众才能，exceptionalism 则把特殊性当状态或理论来谈。出现该词，不等于作者认同相应主张。",
+    "examples": [
+      [
+        "The essay examines national exceptionalism.",
+        "文章考察国家例外论。"
+      ],
+      [
+        "Their claims of exceptionalism met with skepticism.",
+        "他们关于自身特殊性的主张受到怀疑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exceptionalism#English",
+      "https://www.merriam-webster.com/dictionary/exceptionalism"
+    ]
+  }
+]

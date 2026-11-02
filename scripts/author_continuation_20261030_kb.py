@@ -1,0 +1,84 @@
+"""Bug and inevitable; distinguish bugger and vehicle buggy."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+B=[['较早英语 bugge 等','小虫、吓人的精怪等旧用；远源关系存在不同分析'],['现代 bug 的常见扩展','小虫；病菌、小毛病；技术故障；使人烦、装窃听器'],['十九世纪技术术语 → 计算机 bug','故障用法早于1947年电脑里发现飞蛾的故事']]
+M='https://www.si.edu/object/log-book-computer-bug%3Anmah_334663'
+W('bug','/bʌɡ/','小虫；程序或系统缺陷；小病、病菌〔口语〕；烦扰；窃听器、装窃听器',
+ '小虫让人烦，系统里一个不起眼的问题也能让人烦；现代 bug 就在这些真实用法间切换。It bugs me 直接说这让我很烦。',
+ '联系较早英语 bugge，小虫与精怪等旧义的远处关系不完全确定。技术故障 bug 十九世纪已使用，不是1947年电脑夹出飞蛾时才第一次造出的词。',B,
+ 'a software bug 软件缺陷，fix a bug 修复缺陷，catch a bug 得了点小病〔口语〕，bug someone 烦某人，a hidden bug 隐藏窃听器。日常小虫与昆虫学 true bug 的范围不完全相同。',
+ 'a software bug；fix a bug；catch a bug；bug someone。',
+ '1947年的飞蛾是著名实物与双关记录，不是故障术语的起源。system bug 也不只指一处拼写、语法错误，可能涉及逻辑、设计或硬件。',
+ ('The team fixed a bug that caused the page to freeze.','团队修复了一个让页面卡住的缺陷。'),('That clicking noise is really bugging me.','那种咔嗒声真让我心烦。'),sources=['https://en.wiktionary.org/wiki/bug#English',M])
+W('buggy','/ˈbʌɡi/','虫多的；程序错误多、不稳定的；轻便车、婴儿推车〔独立名词〕',
+ '形容软件 buggy，就是问题不少、运行不稳；形容住处则可能是虫多。a buggy 这辆小车却是另一条来源不明的名词。',
+ '形容词 bug + -y，双写 g。车辆名词 buggy 的来源未明，不能只因车小就断言像虫子而得名。',B[:2]+[['bug + -y → buggy 形容词','多虫；多程序缺陷'],['buggy 车辆名词','来源未明的独立词，轻便马车、机动车或推车等']],
+ 'buggy software 问题多的软件，a dune buggy 沙滩越野车，a baby buggy 婴儿推车〔地区用法〕。具体车种要看搭配。',
+ 'buggy software；a dune buggy；a baby buggy。',
+ 'buggy software 的 buggy 是性质，a buggy 是车辆名词。不能把 every buggy 都当成一台有故障的电脑。',
+ ('The first version of the app was rather buggy.','应用最初版本的问题不少。'),('They crossed the dunes in a buggy.','他们乘轻便越野车穿过沙丘。'))
+W('debug','/ˌdiːˈbʌɡ/','调试、排查并修正故障；清除窃听装置',
+ 'bug 是影响系统的问题，debug 就是找出它、理解它、把它处理掉。它常说排查过程，不只是把一段代码重新运行一遍。',
+ 'de- 去除 + bug，接技术故障、窃听装置等不同义。技术词义不必经由真正拿镊子捉虫才成立。',B[1:]+[['de- + bug → debug','排查、去除故障；清除隐藏窃听装置']],
+ 'debug a program 调试程序，debugging tools 调试工具，debug a room 清查房间窃听装置。技术文档里的 debug mode 是调试模式。',
+ 'debug a program；debugging tools；debug mode。',
+ 'debug 不等于 deploy 发布，也不等于只看一次输出。它可以包含找问题、定位原因、验证修复；具体步骤随对象变化。',
+ ('She used the log messages to debug the program.','她利用日志消息排查程序故障。'),('The lesson introduces tools that help developers debug errors.','这课介绍帮助开发者排查错误的工具。'),sources=['https://en.wiktionary.org/wiki/debug#English',M])
+W('bugger','英 /ˈbʌɡə/；美 /ˈbʌɡər/','家伙、讨厌鬼；麻烦事；弄坏、弄砸；抱怨感叹词〔粗俗口语〕',
+ '英国等地口语里可用来骂人、抱怨，熟人间又可能戏谑。bugger up 说弄砸；bugger all 是什么也没有，不能按小虫猜。',
+ '常用粗俗词经古法语 bougre 等，联系中世纪针对保加利亚人、某些宗教群体的蔑称及性指控；是历史偏见形成的联想。它不由 bug 小虫 + -er 普通派生。',
+ [['中世纪 Bulgarus 等族群、宗教蔑称 → 法语 bougre','带偏见的异端指称、性指控，并非族群事实'],['英语 bugger 的粗俗用法扩展','辱骂、抱怨；有时亲昵戏谑；动词弄砸']],
+ 'bugger off 滚开，bugger all 什么也没有，bugger something up 把事情弄砸，You lucky bugger! 你这走运的家伙！语气强弱随地区、关系而变，正式表达较少用。',
+ 'bugger off；bugger all；bugger something up。',
+ '常用 bugger 与 bug 的派生词不是同一条历史。另有极罕见 bug + -er 安装窃听器者的同形词，不能用它解释日常粗口。',
+ ('Oh bugger, I have left my keys at home.','真糟，我把钥匙落家里了。'),('The failed update buggered up the settings.','失败的更新把设置弄乱了。'),sources=['https://en.wiktionary.org/wiki/bugger#English','https://www.etymonline.com/word/bugger'])
+W('jitterbug','英 /ˈdʒɪtəbʌɡ/；美 /ˈdʒɪtərbʌɡ/','吉特巴舞、快节奏摇摆舞；跳这种舞',
+ '看舞者随快节奏抖动、旋转，jitter 的抖动感便容易记。jitterbug 后来成为这类摇摆舞、舞者的固定称呼。',
+ 'jitter 紧张、抖动 + bug 迷、人物称呼等用法，联系三十年代爵士、摇摆乐语境及相关歌曲的流行。不是昆虫分类名称。',B[1:2]+[['jitter + bug → jitterbug','人物、乐迷称呼及快节奏摇摆舞名']],
+ 'dance the jitterbug 跳吉特巴舞，a jitterbug dancer 吉特巴舞者，a jitterbug routine 一段舞蹈动作。具体舞步、历史形式有变化。',
+ 'dance the jitterbug；a jitterbug dancer。',
+ 'jitterbug 不能只按一只紧张虫翻译；现代舞名是固定文化名称。jittery 紧张、抖动的则是另一个常用形容词。',
+ ('The dancers performed a lively jitterbug.','舞者跳了一段活泼的吉特巴舞。'),('The film shows the couple learning to jitterbug.','电影里那对伴侣在学习跳吉特巴舞。'))
+W('firebug','英 /ˈfaɪəbʌɡ/；美 /ˈfaɪərbʌɡ/','纵火者；红蝽〔昆虫名〕',
+ '在人称里，firebug 说纵火者；昆虫介绍里，它又可能是一种红黑相间的红蝽。两种对象各自借 fire、bug 的不同关系。',
+ 'fire 火 + bug。人物义接着迷、人物等扩展，昆虫义接小虫与火色等命名联系；不是说那种昆虫真的会点火。',B[1:2]+[['fire + bug → firebug','纵火人物称谓；独立固定的红蝽俗名']],
+ 'a suspected firebug 被怀疑的纵火者，a red-and-black firebug 红黑相间的红蝽。人物报道与自然观察中要换所指。',
+ 'a suspected firebug；a red-and-black firebug。',
+ 'firebug 不等于消防员 firefighter，也不能把所有失火都归成有人纵火；昆虫用法更与人的动机无关。',
+ ('The detective in the novel searches for a firebug.','小说中的侦探寻找一名纵火者。'),('A firebug crawled across the dry leaf.','一只红蝽爬过干叶。'))
+R('B2918','小虫、恼人问题与技术故障，以及多源近形词的辨认','BUG：具体小虫与恼人问题有常用扩展，BUGGER 粗口另有来源','bug → buggy 形容词、debug；jitterbug、firebug 已固定；bugger 的日常粗口不能按 bug + -er 拆。',
+ '本组要同时抓住活用与边界。系统故障的历史早于飞蛾故事，轻便车 buggy 和粗口 bugger 也不能用小虫一路解释。',
+ '旧 bugge 相关来源存在讨论；de- 去除、-y 性质；车辆 buggy 来源未明，粗口 bugger 经 bougre 等另线发展。',
+ [['基础与技术、性质','bug · buggy · debug'],['固定人物、舞蹈和动物名','jitterbug · firebug'],['常见近形、不同源词','bugger'],['已学的具体虫名、比喻','ladybug · bedbug · superbug · bugbear']],
+ '电脑飞蛾不是 bug 故障义的起源；bugger 粗口另有来源；buggy 名词可是一辆车。',
+ 'The developer debugged the buggy program after finding a bug.\n\n开发者发现一个缺陷后，着手调试那个问题较多的程序。','bug buggy debug jitterbug firebug bugger ladybug bedbug superbug bugbear')
+I=[['拉丁 ēvītāre 避开 → ēvītābilis','能够避开的'],['in- 否定 + ēvītābilis → inēvītābilis → 英语 inevitable','无法避开的、不可避免的']]
+W('inevitable','/ɪˈnevɪtəbəl/','不可避免的；势必发生、意料之中的',
+ '想绕开，却没有能绕开的路，便是 inevitable。日常也会用来强调按眼下条件看很难不发生。',
+ '经法语或拉丁相关形式，接拉丁 inēvītābilis：in- 不 + ēvītābilis 可避免，后者联系 ēvītāre 避开。现代英语 evitable 是罕用对应词，学习主抓常见 inevitable。',I,
+ 'an inevitable result 不可避免的结果，seem inevitable 看来难以避免，the inevitable 不可避免的事。这个判断常依附句中的条件、叙述立场。',
+ 'an inevitable result；seem inevitable；the inevitable。',
+ 'inevitable 比 likely 很可能强，强调避不开；predictable 可只是容易预料。不可避免也不自动等于令人满意。',
+ ('Some delay was inevitable because the bridge was closed.','因为桥关闭了，有些延误难以避免。'),('The story builds towards an apparently inevitable ending.','故事朝一个看似不可避免的结局发展。'))
+W('inevitably','/ɪˈnevɪtəbli/','不可避免地；不出所料地',
+ 'inevitable 说结果的性质，inevitably 把避不开、早料到的感觉放进事件如何发生。',
+ 'inevitable + -ly，末尾 -ble 变成 -bly。不是在原拼写后直接堆出 inevitablely。',I+[['inevitable → inevitably','以无法避免、可预料的方式发生']],
+ 'inevitably lead to 势必导致，almost inevitably 几乎难免，inevitably, he asked... 不出所料，他问……。',
+ 'inevitably lead to；almost inevitably；inevitably followed。',
+ 'inevitably 有时是叙述者说不出所料，不必每次都在宣布普遍自然定律。其力度与上下文条件一起理解。',
+ ('The road closure inevitably caused delays.','道路关闭难免造成延误。'),('Inevitably, the children asked for another story.','不出所料，孩子们又要求讲一个故事。'))
+W('inevitability','/ɪˌnevɪtəˈbɪləti/','必然性、不可避免性；不可避免的事',
+ '不只说会发生，而是把它为什么避不开、那种必然感拿出来讨论，就用 inevitability。也能称一件难免发生的事。',
+ 'inevitable + -ity，-able 对应 -ability，重音移到 /bɪl/。从性质形容词形成抽象名词。',I+[['inevitable → inevitability','不可避免这一性质；难免发生的事件']],
+ 'a sense of inevitability 必然会来的感觉，the inevitability of change 变化的不可避免性，an unhappy inevitability 一件不愉快却难免的事。',
+ 'a sense of inevitability；the inevitability of。',
+ 'inevitability 说必然性，probability 说可能性程度。小说营造 a sense of inevitability，是叙事效果，也可与现实预测区分。',
+ ('The novel creates a strong sense of inevitability.','小说营造出强烈的必然走向结局的感觉。'),('The essay questions the supposed inevitability of the outcome.','文章质疑了所谓结果必然如此的说法。'))
+R('B3487','无法避开的性质、事件方式与必然性名词','INEVITABLE：没有能绕开的路；加词尾改变句中任务','inevitable → inevitably、inevitability。',
+ '先抓避不开，再分形容结果、修饰事件和讨论必然性。判断力度、条件仍看文本。',
+ 'in- 不 + ēvītābilis 可避开 → inevitable；-ble → -bly 副词，-able → -ability 名词。',
+ [['性质、方式与名词','inevitable · inevitably · inevitability']],
+ 'inevitable 比 likely 强；inevitability 与 probability 不同；inevitably 拼写不是 inevitablely。',
+ 'The delay seemed inevitable, but the report questioned its inevitability.\n\n延误看似难免，报告却质疑它是否真的不可避免。','inevitable inevitably inevitability')
+if __name__=='__main__':save('continuation_20261030_kb',ROOTS,WORDS)

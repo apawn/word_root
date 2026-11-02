@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B2837",
+    "meaning": "破坏、查获的动作线，与半身像、胸部的独立名词线",
+    "core": "BUST：破坏这一线与身体这一线分开",
+    "image": "bust → busted、buster 多看破坏、查获；busty 接胸部名词。",
+    "intro": "短短四个字母有多种用途。用 go bust、marble bust、bust measurement 等搭配先定意思，再看词尾。",
+    "forms": "burst 的变化 → 动作 bust；buste／busto → 半身像、胸部 bust；再各自派生。",
+    "branches": [
+      [
+        "基础的两条来源",
+        "bust"
+      ],
+      [
+        "破坏、查获与执行者",
+        "busted · buster"
+      ],
+      [
+        "体形性质",
+        "busty"
+      ]
+    ],
+    "contrasts": "busty 不等于 busted；半身像 bust 与弄坏东西的动词直接来源不同。",
+    "practice": "The exhibit explains the difference between a marble bust and the phrase go bust.\n\n展览说明大理石半身像与 go bust 倒闭这个说法的区别。",
+    "words": [
+      "bust",
+      "busted",
+      "buster",
+      "busty"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3127",
+    "meaning": "共产主义思想、人物与相应性质的形容词",
+    "core": "COMMUNIST：人物、政治属性；COMMUNISTIC：相应性质",
+    "image": "communist → communistic。",
+    "intro": "思想、组织身份和某种安排的特征要按文本区分。共同拥有、公共使用的普通意思不自动形成同样政治标签。",
+    "forms": "法语 communiste → communist；再接 -ic 形成 communistic。\n\ncommunist 借法语 communiste，含 commun 共同与 -iste 主张者材料，现代复数 -s。共产主义理念的支持者、共产党成员等按文本具体身份理解。",
+    "branches": [
+      [
+        "人物、属性与性质",
+        "communist · communistic"
+      ],
+      [
+        "commun- 共同 + -ist → communists",
+        "communists"
+      ]
+    ],
+    "contrasts": "communistic 不是通常人物名词；communist 思想支持与某党成员身份也不总相同。",
+    "practice": "The chapter compares communist theory with arrangements described as communistic.\n\n这一章比较了共产主义理论与被描述为具有相应性质的安排。",
+    "words": [
+      "communist",
+      "communistic",
+      "communists"
+    ],
+    "exclude": {
+      "anarcho-communist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3448",
+    "meaning": "植物叶片、纸张薄片及其形态、数量和图形命名",
+    "core": "LEAF：薄片的形象，连起树叶、纸张、金箔与折页",
+    "image": "leaf → leafy、leafless；leaflet 小叶、印品；broadleaf 看叶宽，cloverleaf 借叶形。",
+    "intro": "先分实体植物叶和片状扩展，再看后缀、前半修饰的对象。复数 leaves 与派生词保留 f 的变化也一起记。",
+    "forms": "lēaf → leaf；复数 leaves；-y 性质、-less 没有、-let 小称；broad、clover 说明形状、对象。\n\n普通名词复数 leaves；同形的 leaves 还能是另一个底词 leave 的动词形式，精讲分别说明。\n\n与 leaf 比较叶片特征，不由 leaf 派生。holly 接古英语 holegn、holen 等，远源可能联系刺、扎；现代 y 是历史形式的一部分，复数 hollies 按规则改写。",
+    "branches": [
+      [
+        "基础与叶片状态",
+        "leaf · leafy · leafless"
+      ],
+      [
+        "大小、叶形与图形",
+        "leaflet · broadleaf · cloverleaf"
+      ],
+      [
+        "leaf → leaves：叶、书页的复数",
+        "leaf · leaves"
+      ],
+      [
+        "holly：用叶缘刺来记的冬青名",
+        "holly · hollies"
+      ]
+    ],
+    "contrasts": "一 leaf 纸张可有两面 page；broadleaf 不等于落叶；leafless 不等于死树。",
+    "practice": "The leaflet explains how a broadleaf tree can be leafy in summer and leafless in winter.\n\n这份说明折页解释了阔叶树怎样夏季叶茂、冬季无叶。",
+    "words": [
+      "leaf",
+      "leafy",
+      "leafless",
+      "leaflet",
+      "broadleaf",
+      "cloverleaf",
+      "leaves",
+      "holly",
+      "hollies"
+    ],
+    "exclude": {
+      "leaf-sprung": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leaved": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leafed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

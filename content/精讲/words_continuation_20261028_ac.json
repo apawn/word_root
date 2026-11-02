@@ -1,0 +1,1098 @@
+[
+  {
+    "word": "set",
+    "ipa": "/set/",
+    "meaning": "放置；设定；凝固；固定的；一套、集合、场景",
+    "sense": "动词先抓“让它就位”：摆好杯子、定好时间，材料也能固定成形。",
+    "split": "动词接古英语 settan，与 sit 的使动词历史相连，可理解为使坐定、使就位。集合等名词有旧英语名词及可能法语影响等不同历史分析，不把所有现代义硬画成一个英语动词新派生。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ]
+    ],
+    "explanation": "set the alarm 是设闹钟，set a date 是定日期，the glue sets 是胶凝固。a set of keys 是一串钥匙，a film set 是片场布景，all set 是准备好了；set 的过去式、过去分词仍为 set。",
+    "usage": "set a date；set the table；set an example；a set of；be all set。",
+    "contrast": "put、set 都可放置，set 更常出现在固定安排、设定等搭配。set an example 是树立榜样，不是随意把例子放某处。",
+    "examples": [
+      [
+        "Please set the alarm for seven.",
+        "请把闹钟设到七点。"
+      ],
+      [
+        "Give the glue time to set.",
+        "给胶一些凝固时间。"
+      ],
+      [
+        "The box contains a set of drawing pencils.",
+        "盒里装着一套绘画铅笔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/set#English"
+    ]
+  },
+  {
+    "word": "setter",
+    "ipa": "英 /ˈsetə/；美 /ˈsetər/",
+    "meaning": "设置、出题的人；塞特猎犬",
+    "sense": "人把题目、趋势或标准先设出来；狗的品种名则与发现猎物后的特定姿态相关。",
+    "split": "set + -er，接中古英语 settere。人物义按设置动作理解；猎犬义源于 set 的停住、摆出姿态用法，不是狗会替人出题。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ],
+      [
+        "set + -er → setter",
+        "设置者；猎犬名称取其特定姿态"
+      ]
+    ],
+    "explanation": "an exam setter 是出题者，a trend setter 是引领潮流者；an Irish setter 是爱尔兰塞特犬。普通岗位常把具体任务加在前面。",
+    "usage": "an exam setter；a trend setter；an Irish setter。",
+    "contrast": "setter 表设置者或特定犬种，sitter 常是坐着的人、照看者；中间元音不同，来源虽有关联，现代不能混。",
+    "examples": [
+      [
+        "The exam setter included several practical questions.",
+        "出题者加入了几道实践题。"
+      ],
+      [
+        "An Irish setter ran across the field.",
+        "一只爱尔兰塞特犬跑过田野。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/setter#English"
+    ]
+  },
+  {
+    "word": "reset",
+    "ipa": "动 /ˌriːˈset/；名 /ˈriːset/",
+    "meaning": "重新设置；复位；重设",
+    "sense": "原来的位置、状态先回到某个起点，或者换一个新的设定。",
+    "split": "re-（再、回）+ set；过去式、过去分词仍为 reset，不加普通 -ed。它既可重新定参数，也可回到默认状态，须看具体操作。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ],
+      [
+        "re- + set → reset",
+        "再次设定；回到初始状态"
+      ]
+    ],
+    "explanation": "reset a clock 是重设时钟，reset a password 是重设密码；a factory reset 是恢复出厂设置这一特定操作，不等于每种 reset 都会清除全部内容。",
+    "usage": "reset a password；reset the clock；a reset button。",
+    "contrast": "restart 是重新启动，reset 是重置某种状态；有些设备重启保留设置，不能靠中文“重新”把两者当同一动作。",
+    "examples": [
+      [
+        "We reset the clock after the power cut.",
+        "停电后，我们重新设了时钟。"
+      ],
+      [
+        "She used the link to reset her password.",
+        "她通过链接重设了密码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reset#English"
+    ]
+  },
+  {
+    "word": "upset",
+    "ipa": "动、形 /ʌpˈset/；名 /ˈʌpset/",
+    "meaning": "使难过；心烦的；打乱；意外胜利",
+    "sense": "本来稳妥的安排、心情被翻乱；比赛里也能把原定强弱局面掀翻。",
+    "split": "up- + set，早期有设立、竖起等用法，后来发展出翻倒、打乱及情绪义；up- 在整词里不能固定只翻成向上。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ],
+      [
+        "up- + set → upset 的早期用法",
+        "设起等用法，后来有翻倒、扰乱义"
+      ],
+      [
+        "英语 upset",
+        "打乱状态；心烦；意外结果"
+      ]
+    ],
+    "explanation": "be upset about the news 是因消息难过，upset the schedule 是打乱日程；a major upset 是冷门胜利。过去式仍是 upset，重音随常用词性变化。",
+    "usage": "be upset about；upset the balance；cause an upset；an upset stomach。",
+    "contrast": "upset 情绪义比 angry 更宽，可以悲伤、担忧或生气；an upset 名词在赛事里又可能是弱者获胜，不能一律译成难过。",
+    "examples": [
+      [
+        "She was upset about the cancelled trip.",
+        "旅行取消让她很难过。"
+      ],
+      [
+        "The underdogs caused a major upset in the final.",
+        "不被看好的一方在决赛中爆冷获胜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upset#English"
+    ]
+  },
+  {
+    "word": "offset",
+    "ipa": "名：英 /ˈɒfset/；动：英 /ˌɒfˈset/、美 /ˌɔːfˈset/，也有前重音读法",
+    "meaning": "抵消、弥补；偏移；偏移量",
+    "sense": "一边增加的影响，用另一边相反的变化顶回去；位置上则是偏离基准一点。",
+    "split": "off- + set，与 set off 的相应构词关系有关；现代有错开、补偿等固定义，不按“关掉设置”来拼。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ],
+      [
+        "off- + set → offset",
+        "错开位置；用相反作用抵消"
+      ]
+    ],
+    "explanation": "offset the cost 是弥补成本，an offset of ten pixels 是偏移十个像素。抵消不一定完全归零，可能只是补回一部分；过去式仍 offset。",
+    "usage": "offset a cost；offset an increase；an offset from；a time offset。",
+    "contrast": "offset 抵消或相对偏移，reset 是重新设置。把时间改回起点叫 reset，两个时间相差多少叫 offset。",
+    "examples": [
+      [
+        "Lower travel costs helped offset the higher rent.",
+        "更低的交通支出帮助抵消了更高的房租。"
+      ],
+      [
+        "The diagram shows the offset between the two lines.",
+        "图中标出了两条线的偏移量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offset",
+      "https://dictionary.cambridge.org/dictionary/english/offset"
+    ]
+  },
+  {
+    "word": "inset",
+    "ipa": "/ˈɪnset/",
+    "meaning": "嵌入物；插图、附图；嵌入",
+    "sense": "大图或大表面里，再放进去一个边界清楚的小部分。",
+    "split": "in-（向内）+ set，接古英语 insettan 等置入、设置用法。名词常指被放入整体的小图、小片材料。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "古英语 insettan → 中古英语 insetten → inset",
+        "置入、嵌入；嵌入的部分"
+      ]
+    ],
+    "explanation": "a map inset 是地图中的小附图，a glass inset 是嵌入的玻璃片；也可作动词。set 过去形式相同的关系也体现在 inset 上。",
+    "usage": "an inset map；a glass inset；an inset panel。",
+    "contrast": "inset 是整体内部另嵌入一块，insert 是插入动作或插入物更泛；相似不等于所有搭配都可替换。",
+    "examples": [
+      [
+        "An inset map shows the island’s location.",
+        "一幅小附图标出岛屿位置。"
+      ],
+      [
+        "The door has a decorative glass inset.",
+        "门上嵌着一块装饰玻璃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inset#English"
+    ]
+  },
+  {
+    "word": "onset",
+    "ipa": "英 /ˈɒnset/；美 /ˈɑːnset/",
+    "meaning": "开始；初起阶段",
+    "sense": "某种天气、状态或变化开始冒头，还没走到中段。",
+    "split": "on- + set，早期有攻击、发动等相关用法，后来固定为开始、发端。不能只按“在上面放”推断。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ],
+      [
+        "on- + set → onset",
+        "发动、发端等历史用法 → 开始"
+      ]
+    ],
+    "explanation": "the onset of winter 是冬季来临，the onset of symptoms 是症状出现；语音学 onset 又是音节声母位置等专门意义。",
+    "usage": "the onset of；at the onset；a sudden onset。",
+    "contrast": "onset 常说某状态或过程开始，outset 常见 from the outset“从一开始”；不必把两个词的固定搭配一律互换。",
+    "examples": [
+      [
+        "The onset of winter changed the town’s pace.",
+        "冬季来临改变了小镇节奏。"
+      ],
+      [
+        "The report records the onset of the disturbance.",
+        "报告记载了扰动开始的时刻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/onset#English"
+    ]
+  },
+  {
+    "word": "outset",
+    "ipa": "/ˈaʊtset/",
+    "meaning": "开始；开端",
+    "sense": "事情刚出发、第一步才迈出去，就把条件和约定说清。",
+    "split": "out- + set，替代较早 outsetting 等形式，发展为开始、初期名词。不是说事情的结局在外面。",
+    "history": [
+      [
+        "古英语 settan → 中古英语 setten",
+        "使就位、放置；与 sit 的历史词族相连"
+      ],
+      [
+        "英语 set",
+        "设定、放置；固定的；一套、场景等名词义"
+      ],
+      [
+        "out- + set → outset",
+        "初始阶段、起点"
+      ]
+    ],
+    "explanation": "最常一起记 from the outset 从一开始，at the outset 在开始时；谈项目、关系、论证都可用。",
+    "usage": "from the outset；at the outset；clear at the outset。",
+    "contrast": "outset 开端，outcome 结果；同样 out- 开头，后半与整词历史决定方向完全不同。",
+    "examples": [
+      [
+        "We agreed on the budget from the outset.",
+        "我们从一开始就约定了预算。"
+      ],
+      [
+        "At the outset, the task seemed straightforward.",
+        "起初，这项任务看起来很简单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outset#English"
+    ]
+  },
+  {
+    "word": "sunset",
+    "ipa": "/ˈsʌnset/",
+    "meaning": "日落；晚霞；逐步停用〔引申动词〕",
+    "sense": "太阳越过地平线，看不见了；某产品、制度也可比喻走到使用周期末端。",
+    "split": "sun（太阳）+ set（下落、落定这一用法），中古英语已有相应形式。不是太阳真坐到地面上，位置变化按地面观测来描述。",
+    "history": [
+      [
+        "英语 sun；set",
+        "并列组合的两部分"
+      ],
+      [
+        "sun + set → sunset",
+        "太阳落下 → 一段使用期结束的比喻"
+      ]
+    ],
+    "explanation": "at sunset 是日落时，watch the sunset 是看日落；sunset a service 在商业、软件等语境说逐步停用。具体期限并非由单词自动给定。",
+    "usage": "at sunset；a sunset view；sunset colours；sunset a service。",
+    "contrast": "sunset 是落日，sunrise 是日出；dusk 是日落前后渐暗的黄昏时段，指代范围不完全一样。",
+    "examples": [
+      [
+        "We reached the beach just before sunset.",
+        "我们在日落前不久到了海边。"
+      ],
+      [
+        "The company plans to sunset the old service gradually.",
+        "公司计划逐步停用旧服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sunset#English"
+    ]
+  },
+  {
+    "word": "mindset",
+    "ipa": "/ˈmaɪndset/",
+    "meaning": "思维方式；心态",
+    "sense": "面对同一件事，脑中习惯用哪一套框架解释，就会影响接下来怎么做。",
+    "split": "mind（头脑、思维）+ set（固定倾向、状态），不是把一个想法单独 set 一次就永久定型；现代可说调整心态。",
+    "history": [
+      [
+        "英语 mind；set〔倾向、状态〕",
+        "并列组合的两部分"
+      ],
+      [
+        "mind + set〔倾向、状态〕 → mindset",
+        "习惯性的思考、看待事物方式"
+      ]
+    ],
+    "explanation": "a practical mindset 是务实思维，a change of mindset 是心态转变。不是每个临时念头都构成稳定 mindset。",
+    "usage": "a positive mindset；a practical mindset；change one’s mindset。",
+    "contrast": "mindset 是思考框架，mood 是当下心情；今天心情差，不必意味着长期思维方式变了。",
+    "examples": [
+      [
+        "The project requires a more practical mindset.",
+        "项目需要更务实的思维方式。"
+      ],
+      [
+        "Moving abroad changed her mindset about work.",
+        "移居国外改变了她看待工作的心态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mindset#English"
+    ]
+  },
+  {
+    "word": "handset",
+    "ipa": "/ˈhændset/",
+    "meaning": "电话听筒；手机；手持控制器",
+    "sense": "通话设备里，有一部分拿到手中、靠近耳口使用。",
+    "split": "hand（手）+ set（设备），电话用法常指包含听筒、话筒的手持部件；后来也用于手机等完整手持装置。",
+    "history": [
+      [
+        "英语 hand；set〔设备〕",
+        "并列组合的两部分"
+      ],
+      [
+        "hand + set〔设备〕 → handset",
+        "手持电话部件、手持设备"
+      ]
+    ],
+    "explanation": "lift the handset 是拿起电话听筒，a mobile handset 是手机。具体是座机的一部分还是整部手机，看前后文。",
+    "usage": "lift the handset；replace the handset；a mobile handset。",
+    "contrast": "handset 手持，headset 头戴；电话会议里一个可能拿在手里，另一个可能戴在头上。",
+    "examples": [
+      [
+        "She lifted the handset and dialled the number.",
+        "她拿起听筒，拨了号码。"
+      ],
+      [
+        "The shop sells handsets from several manufacturers.",
+        "商店出售几家厂商的手机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handset#English"
+    ]
+  },
+  {
+    "word": "setlist",
+    "ipa": "/ˈsetlɪst/",
+    "meaning": "演出曲目单",
+    "sense": "一场表演要唱哪些歌、按什么顺序，先写成一张清单。",
+    "split": "set（一次演出的一组曲目、节目）+ list（清单）；不是电脑设置菜单的通用名称。",
+    "history": [
+      [
+        "英语 set〔一组演出曲目〕；list",
+        "并列组合的两部分"
+      ],
+      [
+        "set〔一组演出曲目〕 + list → setlist",
+        "一场表演计划演出的曲目清单"
+      ]
+    ],
+    "explanation": "change the setlist 是调整曲目单，a printed setlist 是打印出的演出歌单。实际现场也可能临时改动，不保证纸上内容每首都照演。",
+    "usage": "the concert setlist；change the setlist；a printed setlist。",
+    "contrast": "playlist 是播放列表更泛，setlist 常对应一次现场表演安排；听歌软件里的清单不都叫 setlist。",
+    "examples": [
+      [
+        "The band added two new songs to the setlist.",
+        "乐队把两首新歌加入演出曲目单。"
+      ],
+      [
+        "A printed setlist lay beside the microphone.",
+        "麦克风旁放着一张打印的演出曲目单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/setlist#English"
+    ]
+  },
+  {
+    "word": "chipset",
+    "ipa": "/ˈtʃɪpset/",
+    "meaning": "芯片组",
+    "sense": "不是单独看一块芯片，而是看配合完成系统功能的一组芯片或相关控制功能。",
+    "split": "chip（集成电路芯片）+ set（一组），由配套芯片组合命名。后来功能可集成进更少器件，名称不严格保证每个年代都有同样数量实体芯片。",
+    "history": [
+      [
+        "英语 chip；set〔一组〕",
+        "并列组合的两部分"
+      ],
+      [
+        "chip + set〔一组〕 → chipset",
+        "配套协作的芯片、控制功能组合"
+      ]
+    ],
+    "explanation": "主板、手机等硬件介绍常见，具体包含哪些功能随产品架构变化。词义先抓一组协作控制，不把 chipset 与整个电脑画等号。",
+    "usage": "a motherboard chipset；chipset features；chipset compatibility。",
+    "contrast": "chip 可以是单个器件，chipset 强调配套功能组合；CPU 是处理器这个角色，不总等于整套 chipset。",
+    "examples": [
+      [
+        "The manual lists the motherboard’s chipset.",
+        "手册列出了主板采用的芯片组。"
+      ],
+      [
+        "The driver supports several chipsets.",
+        "该驱动支持几种芯片组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chipset#English"
+    ]
+  },
+  {
+    "word": "toolset",
+    "ipa": "/ˈtuːlset/",
+    "meaning": "工具集；一套工具",
+    "sense": "为同类工作把几样工具放到一起，使用时可以互相配合。",
+    "split": "tool + set（一组），实体工具和软件工具都能这样叫，不是把工具的开关设置一下。",
+    "history": [
+      [
+        "英语 tool；set〔一组〕",
+        "并列组合的两部分"
+      ],
+      [
+        "tool + set〔一组〕 → toolset",
+        "为某类任务配套的一组工具"
+      ]
+    ],
+    "explanation": "a basic toolset 是基本工具组合，a development toolset 是开发工具集；有时也泛说一个人的技能工具箱。",
+    "usage": "a basic toolset；a development toolset；expand one’s toolset。",
+    "contrast": "toolset 关注工具组合，settings 关注配置；装好 toolset 后往往还要调整 settings，两者不同层次。",
+    "examples": [
+      [
+        "The course introduces a basic toolset for data analysis.",
+        "课程介绍一套基础数据分析工具。"
+      ],
+      [
+        "He keeps a small toolset in the car.",
+        "他在车里放着一套小工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toolset#English"
+    ]
+  },
+  {
+    "word": "ruleset",
+    "ipa": "/ˈruːlset/",
+    "meaning": "规则集；一套规则",
+    "sense": "单条规则说一件事，几条规则共同定义玩法或判断方式，就成一套。",
+    "split": "rule + set（一组），有时也写 rule set 两词；rule 在名词前作修饰，通常保留单数形式。",
+    "history": [
+      [
+        "英语 rule；set〔一组〕",
+        "并列组合的两部分"
+      ],
+      [
+        "rule + set〔一组〕 → ruleset",
+        "共同使用的一套规则"
+      ]
+    ],
+    "explanation": "游戏玩法、软件过滤、网络配置可见 a ruleset。冲突如何解决、规则怎样执行，取决于具体系统。",
+    "usage": "a game ruleset；apply a ruleset；a default ruleset。",
+    "contrast": "ruleset 是规则内容的集合，rulebook 是规则手册，可能装着这套内容；文件载体与规则集合不一定同一概念。",
+    "examples": [
+      [
+        "The tournament uses a revised ruleset.",
+        "锦标赛采用修订后的规则集。"
+      ],
+      [
+        "The filter applies the same ruleset to every message.",
+        "过滤器对每条消息应用同一套规则。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ruleset#English"
+    ]
+  },
+  {
+    "word": "call",
+    "ipa": "英 /kɔːl/；美 /kɔːl/ 或 /kɑːl/",
+    "meaning": "呼叫；打电话；称为；判断；电话、呼声",
+    "sense": "用声音把注意力拉过来：叫人过来、用名字叫他；电话把这个联系送远。",
+    "split": "经中古英语 callen，受古英语 ċeallian 与古诺斯语 kalla 等相关形式影响。命名、召唤、电话等义逐渐扩展，不是只等于现代手机通话。",
+    "history": [
+      [
+        "古英语 ċeallian；古诺斯语 kalla → 中古英语 callen",
+        "呼喊、召唤、称作；相关来源共同影响"
+      ],
+      [
+        "英语 call",
+        "叫、召唤；命名；打电话；作判断"
+      ]
+    ],
+    "explanation": "call me 是给我打电话，call me Alex 是叫我亚历克斯；call for help 是呼救，a tough call 是难下的判断。call at a place 在部分英式语境是到访。",
+    "usage": "call someone；call for help；be called；make a call；a tough call。",
+    "contrast": "call someone Alex 的 Alex 是给对方的称呼，call Alex 则是呼叫或打电话给 Alex；同一词的补足语改变具体关系。",
+    "examples": [
+      [
+        "Please call me when you arrive.",
+        "到达后请给我打电话。"
+      ],
+      [
+        "Everyone calls her Sam.",
+        "大家都叫她萨姆。"
+      ],
+      [
+        "Choosing between them was a tough call.",
+        "在两者之间作选择很难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/call#English"
+    ]
+  },
+  {
+    "word": "caller",
+    "ipa": "英 /ˈkɔːlə/；美 /ˈkɔːlər/ 或 /ˈkɑːlər/",
+    "meaning": "来电者；来访者；报号、领喊者",
+    "sense": "与某次呼叫、到访联系起来的人，具体任务由场景限定。",
+    "split": "call + -er，接中古英语 callar 等形式。电话义随 call 打电话发展；旧式来访者义并不是先打电话才算到访。",
+    "history": [
+      [
+        "古英语 ċeallian；古诺斯语 kalla → 中古英语 callen",
+        "呼喊、召唤、称作；相关来源共同影响"
+      ],
+      [
+        "英语 call",
+        "叫、召唤；命名；打电话；作判断"
+      ],
+      [
+        "call + -er → caller",
+        "呼叫、来访或领喊的人"
+      ]
+    ],
+    "explanation": "an unknown caller 是未知来电者，a caller at the door 是上门访客；bingo caller 是报宾果号码的人。",
+    "usage": "an unknown caller；caller ID；a radio caller；a bingo caller。",
+    "contrast": "caller 是呼叫一方，recipient 是接收者；call centre agent 可能接也可能拨，工作角色不等于每一次通话方向。",
+    "examples": [
+      [
+        "The caller refused to give a name.",
+        "来电者拒绝透露姓名。"
+      ],
+      [
+        "The host invited callers to share their opinions.",
+        "主持人邀请听众打电话发表意见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/caller#English"
+    ]
+  },
+  {
+    "word": "calling",
+    "ipa": "英 /ˈkɔːlɪŋ/；美 /ˈkɔːlɪŋ/ 或 /ˈkɑːlɪŋ/",
+    "meaning": "呼叫；使命感；天职、志业",
+    "sense": "像某项工作一直在心里呼唤你，让你觉得这就是自己该投入的方向。",
+    "split": "call + -ing，中古英语已有相应形式；由呼召、被召去做某事的观念发展为职业召命、使命感，不只表示手机响了。",
+    "history": [
+      [
+        "古英语 ċeallian；古诺斯语 kalla → 中古英语 callen",
+        "呼喊、召唤、称作；相关来源共同影响"
+      ],
+      [
+        "英语 call",
+        "叫、召唤；命名；打电话；作判断"
+      ],
+      [
+        "call + -ing → calling",
+        "呼叫、召唤 → 自觉应投入的志业"
+      ]
+    ],
+    "explanation": "find one’s calling 是找到志业，feel a calling to teach 是感到教书是自己的使命；也可作普通 call 的进行形式。",
+    "usage": "find one’s calling；a true calling；a calling to do。",
+    "contrast": "calling 强调内心驱使、使命感，job 是工作职位；工作可以是 calling，也可能只是一份谋生手段。",
+    "examples": [
+      [
+        "She found her calling in teaching.",
+        "她在教书中找到了自己的志业。"
+      ],
+      [
+        "He felt a calling to work with young people.",
+        "他觉得帮助年轻人是自己的使命。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/calling#English"
+    ]
+  },
+  {
+    "word": "recall",
+    "ipa": "动 /rɪˈkɔːl/；名 /ˈriːkɔːl/，美元音也可 /ɑː/",
+    "meaning": "回想；召回；记忆力、召回行动",
+    "sense": "把离开的东西叫回来：人回岗位，产品回厂家，往事回到脑中。",
+    "split": "re-（回）+ call，可能参照拉丁 revocāre、法语 rappeler 等的构词与意义。不是所有现代义都指再次打电话。",
+    "history": [
+      [
+        "古英语 ċeallian；古诺斯语 kalla → 中古英语 callen",
+        "呼喊、召唤、称作；相关来源共同影响"
+      ],
+      [
+        "英语 call",
+        "叫、召唤；命名；打电话；作判断"
+      ],
+      [
+        "re- + call → recall",
+        "叫回 → 召回、在脑中唤回"
+      ]
+    ],
+    "explanation": "recall a conversation 是回想谈话，recall a product 是召回产品，good recall 是记忆提取能力好。动词常后重音，名词常前重音。",
+    "usage": "recall doing；recall that；a product recall；vivid recall。",
+    "contrast": "recall 是回忆起来或召回，remind 是让某人想起；I recall the day，我记得那天；The photo reminds me of it，照片让我想起它。",
+    "examples": [
+      [
+        "I can clearly recall our first conversation.",
+        "我能清楚回想起我们的第一次谈话。"
+      ],
+      [
+        "The manufacturer announced a recall of the faulty lamps.",
+        "制造商宣布召回有缺陷的灯具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recall#English"
+    ]
+  },
+  {
+    "word": "body",
+    "ipa": "英 /ˈbɒdi/；美 /ˈbɑːdi/",
+    "meaning": "身体；尸体；主体；团体；大量材料",
+    "sense": "先看有形的躯体，再把文章、车辆、组织也看成有主体的一整个。",
+    "split": "接古英语 bodiġ，经中古英语 body 等形式延续，更远来源细节仍有不同分析。body 不是 bod + y 的现代可拆词。",
+    "history": [
+      [
+        "古英语 bodiġ → 中古英语 body / bodi",
+        "身体、躯干"
+      ],
+      [
+        "英语 body",
+        "身体；主体、实体；群体"
+      ]
+    ],
+    "explanation": "the human body 是人体，the body of an email 是邮件正文，a governing body 是管理机构；a body of evidence 是一批证据。语境中 a body 也可指尸体。",
+    "usage": "the human body；the main body；a governing body；a body of evidence。",
+    "contrast": "body 主体与 head、header 头部可对照，但电子邮件正文不等于人的躯干。组织 body 也不要求成员同住一个地方。",
+    "examples": [
+      [
+        "She stretched her whole body after the long journey.",
+        "长途旅行后，她伸展了一下全身。"
+      ],
+      [
+        "Put the explanation in the body of the email.",
+        "把解释放在邮件正文里。"
+      ],
+      [
+        "The committee is the school’s governing body.",
+        "委员会是学校的管理机构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/body#English"
+    ]
+  },
+  {
+    "word": "bodily",
+    "ipa": "英 /ˈbɒdɪli/；美 /ˈbɑːdɪli/",
+    "meaning": "身体的；整个身体地；有形地",
+    "sense": "不是只动一下手，而是整个身体、实物真正参与；作形容词则说身体方面。",
+    "split": "body 的 y 变 i 后接 -ly，中古英语已有 bodily；这里既可形容词也可副词，不能以 -ly 直接断定词性。",
+    "history": [
+      [
+        "古英语 bodiġ → 中古英语 body / bodi",
+        "身体、躯干"
+      ],
+      [
+        "英语 body",
+        "身体；主体、实体；群体"
+      ],
+      [
+        "body → bodi- + -ly → bodily",
+        "身体方面的；整个身躯地"
+      ]
+    ],
+    "explanation": "bodily movement 是身体运动，bodily harm 是身体伤害；carry someone bodily 可说把整个人搬起带走。具体意味看动作，不必自带暴力。",
+    "usage": "bodily movement；bodily functions；carry something bodily。",
+    "contrast": "bodily 强调身体，mental 强调心理、思维；body language 另是肢体语言固定组合，不习惯简单全换成 bodily language。",
+    "examples": [
+      [
+        "The sensor records bodily movement.",
+        "传感器记录身体运动。"
+      ],
+      [
+        "The child was lifted bodily from the chair.",
+        "孩子被整个抱离椅子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodily#English"
+    ]
+  },
+  {
+    "word": "embody",
+    "ipa": "英 /ɪmˈbɒdi/；美 /ɪmˈbɑːdi/",
+    "meaning": "体现；使具体化；包含",
+    "sense": "抽象的原则看不见，落到一个人、一个设计里，就有了具体样子。",
+    "split": "em- 是 en- 在 b 前的相应形式，加 body；可以理解成赋予有形躯体、体现。不是 empty“空”缩短后接身体。",
+    "history": [
+      [
+        "古英语 bodiġ → 中古英语 body / bodi",
+        "身体、躯干"
+      ],
+      [
+        "英语 body",
+        "身体；主体、实体；群体"
+      ],
+      [
+        "em- + body → embody",
+        "使有具体形式；在对象中体现"
+      ]
+    ],
+    "explanation": "embody a principle 是体现原则，embody an idea 是把想法具体表现；作品可 embody years of research，包含、凝结多年研究。",
+    "usage": "embody a principle；embody an idea；embody a tradition。",
+    "contrast": "embody 是把品质、理念具体体现，describe 是用语言描述；一个设计能体现简洁，即使没有文字解释。",
+    "examples": [
+      [
+        "The design embodies the idea of simplicity.",
+        "设计体现了简洁的理念。"
+      ],
+      [
+        "The book embodies years of careful research.",
+        "这本书凝结了多年细致研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embody#English"
+    ]
+  },
+  {
+    "word": "somebody",
+    "ipa": "英 /ˈsʌmbədi/；美 /ˈsʌmbədi/",
+    "meaning": "某人；有人；有身份的人",
+    "sense": "知道有个人，但还没说姓名；强调身份时则说他是个大人物。",
+    "split": "some + body，中古英语 sum body 已用 body 借指人。常读成几个弱化音节，不把重音放到独立身体的 body 上。",
+    "history": [
+      [
+        "古英语 bodiġ → 中古英语 body / bodi",
+        "身体、躯干"
+      ],
+      [
+        "英语 body",
+        "身体；主体、实体；群体"
+      ],
+      [
+        "some + body → somebody",
+        "某个人；引申为重要人物"
+      ]
+    ],
+    "explanation": "Somebody called. 是有人来过电话；be somebody 可说成了有地位的人。作普通不定代词时谓语通常单数，后文可用 they 回指。",
+    "usage": "somebody else；somebody who；be somebody；somebody’s bag。",
+    "contrast": "somebody 与 someone 通常接近；some body 分开则可能是某个身体、团体，不是同一不定代词。",
+    "examples": [
+      [
+        "Somebody left a bag by the door.",
+        "有人在门边落下了一个包。"
+      ],
+      [
+        "She wanted to be somebody in the world of art.",
+        "她希望在艺术界成为一个有影响的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/somebody#English"
+    ]
+  },
+  {
+    "word": "anybody",
+    "ipa": "英 /ˈenibədi/；美 /ˈenibədi/",
+    "meaning": "任何人；有人〔问句等〕",
+    "sense": "把范围向所有可能的人打开：有没有人？不管哪一个都可以。",
+    "split": "any + body，接中古英语相应组合；body 借指人，不是只寻找任何人的身体。",
+    "history": [
+      [
+        "古英语 bodiġ → 中古英语 body / bodi",
+        "身体、躯干"
+      ],
+      [
+        "英语 body",
+        "身体；主体、实体；群体"
+      ],
+      [
+        "any + body → anybody",
+        "任一可能的人；问有没有人"
+      ]
+    ],
+    "explanation": "Is anybody there? 是有人在吗，Anybody can apply 是任何人都可申请。否定句 not ... anybody 常对应没有任何人，注意否定范围。",
+    "usage": "anybody else；anybody can；not ... anybody；anybody who。",
+    "contrast": "somebody 常引入有某个人，anybody 常打开选择或询问、否定范围；具体问句也可以 somebody 表示预期有人，不能背成绝对禁令。",
+    "examples": [
+      [
+        "Can anybody help me move this table?",
+        "有人能帮我搬这张桌子吗？"
+      ],
+      [
+        "Anybody with a ticket can enter.",
+        "任何持票人都可以进入。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anybody#English"
+    ]
+  },
+  {
+    "word": "bodyguard",
+    "ipa": "英 /ˈbɒdiɡɑːd/；美 /ˈbɑːdiɡɑːrd/",
+    "meaning": "保镖；贴身护卫",
+    "sense": "保护的对象是某个人的人身，而不只是守一扇门、一件物品。",
+    "split": "body（人身）+ guard（护卫），既可指一人，也可按语境指贴身护卫群体。",
+    "history": [
+      [
+        "英语 body；guard",
+        "并列组合的两部分"
+      ],
+      [
+        "body + guard → bodyguard",
+        "保护某个人安全的护卫"
+      ]
+    ],
+    "explanation": "a personal bodyguard 是私人保镖，accompanied by bodyguards 是有护卫随行。具体职责随雇用、场景变化，词本身不意味着一定携带武器。",
+    "usage": "a personal bodyguard；hire a bodyguard；be accompanied by bodyguards。",
+    "contrast": "bodyguard 重点守护人，security guard 范围更广，也可能负责大楼门禁；两种角色可能重叠。",
+    "examples": [
+      [
+        "The official arrived with two bodyguards.",
+        "官员在两名保镖陪同下抵达。"
+      ],
+      [
+        "She worked as a bodyguard before changing careers.",
+        "转行前，她做过贴身护卫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodyguard#English"
+    ]
+  },
+  {
+    "word": "bodybuilding",
+    "ipa": "英 /ˈbɒdibɪldɪŋ/；美 /ˈbɑːdibɪldɪŋ/",
+    "meaning": "健美；肌肉体形训练；车身制造〔另用法〕",
+    "sense": "把体形当作逐步塑造的对象，训练目标突出肌肉外观与整体形态。",
+    "split": "body + building，building 在此是塑造、建立的动作，不是身体住进一座楼。车身制造语境里的 body 又指车辆主体。",
+    "history": [
+      [
+        "英语 body；building〔塑造、建造〕",
+        "并列组合的两部分"
+      ],
+      [
+        "body + building〔塑造、建造〕 → bodybuilding",
+        "塑造肌肉体形；制造车身等用法"
+      ]
+    ],
+    "explanation": "健身、健美比赛叙述最常见；并不是所有为健康、耐力做的运动都等于 bodybuilding。工厂文本则需判断车身制造义。",
+    "usage": "a bodybuilding competition；take up bodybuilding；the bodybuilding industry。",
+    "contrast": "bodybuilding 通常突出肌肉形体，fitness 是身体适能更宽泛；一项活动可以有交集，但目标不全相同。",
+    "examples": [
+      [
+        "He became interested in bodybuilding at university.",
+        "他在大学时对健美产生了兴趣。"
+      ],
+      [
+        "The event includes a bodybuilding competition.",
+        "活动中包含一场健美比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodybuilding#English"
+    ]
+  },
+  {
+    "word": "bodybuilder",
+    "ipa": "英 /ˈbɒdibɪldə/；美 /ˈbɑːdibɪldər/",
+    "meaning": "健美运动员；健美爱好者",
+    "sense": "把肌肉形体作为长期塑造目标的人，有的参加比赛，也有的只是爱好。",
+    "split": "body + builder，builder 是 build + -er；与 bodybuilding 对照，前者人物、后者活动。不是说此人负责从零制造人体。",
+    "history": [
+      [
+        "英语 body；builder〔build + -er〕",
+        "并列组合的两部分"
+      ],
+      [
+        "body + builder〔build + -er〕 → bodybuilder",
+        "从事肌肉形体塑造的人"
+      ]
+    ],
+    "explanation": "a competitive bodybuilder 是参赛健美运动员。日常宽泛称呼也不一定都在备赛，按上下文区分。",
+    "usage": "a competitive bodybuilder；an amateur bodybuilder；a professional bodybuilder。",
+    "contrast": "bodybuilder 是健美从事者，personal trainer 是私人教练；同一个人可兼任，但肌肉发达不自动说明职业教练资格。",
+    "examples": [
+      [
+        "The documentary follows an amateur bodybuilder.",
+        "纪录片跟拍一位业余健美爱好者。"
+      ],
+      [
+        "Several bodybuilders took part in the exhibition.",
+        "几位健美运动员参加了展示活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodybuilder#English"
+    ]
+  },
+  {
+    "word": "bodyweight",
+    "ipa": "英 /ˈbɒdiweɪt/；美 /ˈbɑːdiweɪt/",
+    "meaning": "体重；以自身体重为阻力的",
+    "sense": "训练里不先拿额外器械，而把自己的重量当作阻力来源。",
+    "split": "body + weight（重量），名词可指体重；修饰 exercises、training 时形成以自身体重作阻力的常见意义。body weight 分写也很常见。",
+    "history": [
+      [
+        "英语 body；weight",
+        "并列组合的两部分"
+      ],
+      [
+        "body + weight → bodyweight",
+        "身体重量；自身重量作阻力的"
+      ]
+    ],
+    "explanation": "bodyweight exercises 是自重训练动作，a bodyweight workout 是一组此类训练；词只说明阻力来源，不保证动作简单或适合每个人。",
+    "usage": "bodyweight exercises；bodyweight training；a bodyweight workout。",
+    "contrast": "bodyweight 说阻力从哪来，bodybuilding 说健美、塑造体形的目标；不用外部负重也可能有难度，两词不是互为反义。",
+    "examples": [
+      [
+        "The class focuses on bodyweight exercises.",
+        "这堂课以自重训练动作为主。"
+      ],
+      [
+        "The article compares bodyweight training with weight training.",
+        "文章比较了自重训练与器械负重训练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodyweight#English"
+    ]
+  },
+  {
+    "word": "bodysuit",
+    "ipa": "英 /ˈbɒdisuːt/；美 /ˈbɑːdisuːt/",
+    "meaning": "连体紧身衣",
+    "sense": "上身衣片一直连到裆部，形成一件连续的贴身衣物。",
+    "split": "body + suit（成套服装、衣装），整词是特定连体衣类型；不是任何穿在身体上的西装都叫 bodysuit。",
+    "history": [
+      [
+        "英语 body；suit",
+        "并列组合的两部分"
+      ],
+      [
+        "body + suit → bodysuit",
+        "覆盖躯体并连为一件的贴身服装"
+      ]
+    ],
+    "explanation": "服饰搭配、表演服装常见。可长袖短袖，材质不同；名称重点在连体结构，不等于从头包到脚。",
+    "usage": "a fitted bodysuit；a long-sleeved bodysuit；wear a bodysuit。",
+    "contrast": "bodysuit 是连体贴身衣，jumpsuit 通常连上衣和裤装为一体，leotard 多见舞蹈体操；类别有交集，具体看剪裁与用途。",
+    "examples": [
+      [
+        "She wore a black bodysuit under the jacket.",
+        "她在外套里面穿了一件黑色连体紧身衣。"
+      ],
+      [
+        "The costume includes a silver bodysuit.",
+        "演出服包含一件银色连体紧身衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodysuit#English"
+    ]
+  },
+  {
+    "word": "unibody",
+    "ipa": "英 /ˈjuːnɪbɒdi/；美 /ˈjuːnɪbɑːdi/",
+    "meaning": "承载式整体车身；一体式主体结构",
+    "sense": "不把承力框架与外壳完全看作两套分离东西，而让主体壳体参与整体支撑。",
+    "split": "uni-（一、统一）+ body，汽车中常指车身与承力结构结合；电子产品又用一体式机身等用法。不是机械保证从一个原料块造出所有零件。",
+    "history": [
+      [
+        "古英语 bodiġ → 中古英语 body / bodi",
+        "身体、躯干"
+      ],
+      [
+        "英语 body",
+        "身体；主体、实体；群体"
+      ],
+      [
+        "uni- + body → unibody",
+        "结合为整体的主体、承力结构"
+      ]
+    ],
+    "explanation": "汽车资料中 unibody construction 可说承载式结构；电脑、设备外壳语境里也见 unibody design。具体工艺要看产品，不从词名推断焊点、部件数。",
+    "usage": "unibody construction；a unibody design；a unibody shell。",
+    "contrast": "unibody 强调主体的承力结构，bodywork 常说车身及相关制造维修工作；外壳怎么造型、车体怎样承力不是同一个问题。",
+    "examples": [
+      [
+        "The article compares unibody construction with a separate frame design.",
+        "文章比较了承载式整体结构与独立车架设计。"
+      ],
+      [
+        "The laptop has a rigid unibody shell.",
+        "笔记本电脑采用坚固的一体式机身外壳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unibody#English"
+    ]
+  },
+  {
+    "word": "busybody",
+    "ipa": "英 /ˈbɪzibɒdi/；美 /ˈbɪzibɑːdi/",
+    "meaning": "爱管闲事的人",
+    "sense": "自己的事不一定忙，却总去插手别人原本没请他管的事。",
+    "split": "busy + body，body 借指人；整词带干涉、好打听的评价，不是所有忙碌的人。",
+    "history": [
+      [
+        "英语 busy；body〔人〕",
+        "并列组合的两部分"
+      ],
+      [
+        "busy + body〔人〕 → busybody",
+        "忙着干预他人事务的人"
+      ]
+    ],
+    "explanation": "常作贬义人物称呼。a neighbourhood busybody 是邻里爱管闲事者；主动帮忙与越界干涉要看是否受欢迎、是否获邀。",
+    "usage": "a nosy busybody；the neighbourhood busybody；call someone a busybody。",
+    "contrast": "busy person 是忙碌的人，busybody 是爱管闲事的人；同有 busy，也不能评价所有热心邻居都多管闲事。",
+    "examples": [
+      [
+        "He disliked being questioned by the neighbourhood busybody.",
+        "他不喜欢被邻里那个爱管闲事的人盘问。"
+      ],
+      [
+        "She offered help without acting like a busybody.",
+        "她提供帮助，却没有表现得爱管闲事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/busybody#English"
+    ]
+  }
+]

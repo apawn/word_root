@@ -5,7 +5,7 @@
     "core": "SED / SID / SESS = SIT",
     "image": "想象坐下来这个动作：坐在前面能主持，坐着留下能居住，东西向下落定能沉积，坐守在周围也能围困。",
     "intro": "拉丁语 sedēre 表示“坐、停留”，分词相关词干有 sess-；sīdere“坐下、落定”是同源的另一动词。president、resident、session、sediment 分别保留不同方向的变化。英语 sit、seat、settle 经日耳曼语继承，与这组拉丁词共享更早的 *sed-，不是借自拉丁语。",
-    "forms": "**sed- / sedent-**：sedēre 及其相关形式，如 sediment、sedentary。\n\n**sid-**：复合动词中可见 residēre、praesidēre、dissidēre；subside 的 sīdere 则是同源的另一个动词，不必强行当成完全相同的词形。\n\n**sess-**：分词、名词等相关词干，见 session、obsess、assess、possess。\n\n**sit / seat / settle**：日耳曼语这一支的平行亲属；settle 的和解义还受另一古英语词的影响。\n\n**sedulous / sedulity**：本页保留为近形辨析词；它们来自 sēdulus，常联系“真诚、无欺诈”，不能硬接到“坐”。",
+    "forms": "**sed- / sedent-**：sedēre 及其相关形式，如 sediment、sedentary。\n\n**sid-**：复合动词中可见 residēre、praesidēre、dissidēre；subside 的 sīdere 则是同源的另一个动词，不必强行当成完全相同的词形。\n\n**sess-**：分词、名词等相关词干，见 session、obsess、assess、possess。\n\n**sit / seat / settle**：日耳曼语这一支的平行亲属；settle 的和解义还受另一古英语词的影响。\n\n**sedulous / sedulity**：本页保留为近形辨析词；它们来自 sēdulus，常联系“真诚、无欺诈”，不能硬接到“坐”。\n\n坐下、停留的词族发展到在某处居住的身份。\n\n拉丁坐的词族发展为一段会议、活动，计算机有特定会话义。\n\n拉丁 prae 与 sedere 的现在分词，经法语等借入多种机构头衔。\n\nsiege 经法语座位词接拉丁 sedere，围城义联系驻在城外；英语 sit 是同源继承，非拉丁借入。\n\n拉丁 assidere、assessus 经估价、评定材料，现代 ed 在 s 后读 t。\n\n与拉丁 sedere 远同族，不是英语直接借 sedere 造 seat。\n\nsettle 接古英语 setlan 使坐下、安定，旧名词 setl 座位与 sit 词族相连。settle 去末尾 e 加完整 -ing，现代安顿、平静、沉降、解决等按搭配分辨。\n\nassess 经法语、中世纪拉丁评定税额词族，远连 assidere 坐在旁边协助。现代加 -ing 原词不改，后来扩大为评估价值、情况。\n\nsubsidy 经法语、拉丁 subsidium 援助、后备力量，远连 subsidere 坐下、驻留。现代 y 改 i 加 -es，常指财政补助。",
     "branches": [
       [
         "坐在前面主持",
@@ -38,6 +38,42 @@
       [
         "日耳曼语平行亲属",
         "sit / seat / settle / settlement / resettle"
+      ],
+      [
+        "reside／resident → residents：留下居住的人",
+        "resident · residents"
+      ],
+      [
+        "session → sessions：坐下来的一段活动与会话",
+        "session · sessions"
+      ],
+      [
+        "president → presidents：坐在前面主持的人",
+        "president · presidents"
+      ],
+      [
+        "坐、驻留到围困：siege、besiege",
+        "sit · sedentary · siege · sieges · besiege · besieged"
+      ],
+      [
+        "assess → assessed：坐在旁边参与评定，到评估",
+        "assess · assessed"
+      ],
+      [
+        "坐词族 seat → seated：坐好的状态",
+        "seat · seated"
+      ],
+      [
+        "坐稳、安定 → settle → settling",
+        "settling"
+      ],
+      [
+        "ad- 旁边 + sess- 坐 → assessing",
+        "assessing"
+      ],
+      [
+        "sub- 下、后援 + sid- 坐 → subsidies",
+        "subsidies"
       ]
     ],
     "contrasts": "president 是坐在前面主持的人；resident 是留下居住的人；同一个动作配上不同方向，职责和状态就分开了。\n\nsedentary 是久坐、定居；sedimentary 是沉积相关。两词同族，但不是换一种拼法表达同一件事。\n\nsediment 强调沉下来的材料；residue 泛指某个过程之后留下来的东西，不一定沉到底部。\n\nsubsidy 是补助金；subsidiary 是辅助的、子公司，现代用法不能互换。\n\nassiduous 确有“持续坐守”的历史联系；sedulous 虽意思接近，来源分析不同。deposit 来自 dēpōnere“放下”，也不因中文可以译“沉积”就归进本族。",
@@ -112,7 +148,19 @@
       "repossess",
       "repossession",
       "dispossess",
-      "dispossession"
+      "dispossession",
+      "residents",
+      "sessions",
+      "presidents",
+      "siege",
+      "sieges",
+      "besiege",
+      "besieged",
+      "assessed",
+      "seated",
+      "settling",
+      "assessing",
+      "subsidies"
     ]
   }
 ]

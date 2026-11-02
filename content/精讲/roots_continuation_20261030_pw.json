@@ -1,0 +1,147 @@
+[
+  {
+    "id": "A1933",
+    "meaning": "动作、过程、状态、集合、数量等名词",
+    "core": "-AGE：把相关过程、东西或总量作为名词来谈",
+    "image": "lug 费力搬 → luggage 行李；seep 渗 → seepage 渗漏；acre 英亩 → acreage 土地面积。不要把它全译成年龄。",
+    "intro": "这个词尾能形成很多不同名词，先问基础材料是什么：搬运的东西、渗漏的过程、按某单位计的量。coverage 是覆盖、报道范围等，shortage 是不足，storage 是存储。后缀帮你认出名词，完整用法决定具体意思。",
+    "forms": "接古法语、法语 -age，远接晚期拉丁 -aticum 等相关、所属材料；英语又接本源词继续构词。luggage 中 lug 的 g 双写；cleavage、amperage 等常去末尾 e，acreage 则保留 e。常见英语派生词尾读 /ɪdʒ/，个别法语借词读音不同。average 有海商用语、损失分摊的借入历史及远源争议，本页作为常见形似词单独解释，不用现代 aver + -age 硬造词源。\n\ncottage 经旧法语小屋词与 -age 的组合借入；massage 借法语 masser + -age。massage 的词尾通常读 /ɑːʒ/，与多数英语 -age 派生词不同；masser 更早来源有争论。\n\n古英语 aecer 的本族田地词，与拉丁田地材料是同源比较，不是借 agriculture 缩成 acre。\n\n尾 dʒ 后复数读 iz，不把整个 ages 另当后缀。\n\naverage 有法语、意大利语海商费用、货损分摊背景，远源有争议；现代平均动词去末尾 e 再加完整 -ed，/dʒ/ 后读 /d/。\n\naverage 接法语、意大利语航海货损、附加费用的词族，更远来源不确定。现代去 e 加 -ing；与 -age 页面同族对照，不把 average 强作透明英语后缀造词。\n\ntillage 加完整 -age，表示相应操作、过程；不把末尾拆成独立的年龄 age。",
+    "branches": [
+      [
+        "费力搬运到行李整体",
+        "lug · luggage"
+      ],
+      [
+        "分开与裂隙",
+        "cleave · cleavage"
+      ],
+      [
+        "面积单位与面积",
+        "acre · acreage"
+      ],
+      [
+        "照管、教导",
+        "tutor · tutelage"
+      ],
+      [
+        "渗流与货物收放",
+        "seep · seepage · stow · stowage"
+      ],
+      [
+        "不同计量对象",
+        "ampere · amperage · voltage · wattage · mileage"
+      ],
+      [
+        "形似而需单查历史",
+        "average"
+      ],
+      [
+        "-age 的借词分支：小屋与揉按过程",
+        "cottage · cottages · massage · massages · massaged · massaging"
+      ],
+      [
+        "acre → acres：耕地名称到面积单位",
+        "acre · acres"
+      ],
+      [
+        "marriage → marriages：age 名词的复数",
+        "marriage · marriages"
+      ],
+      [
+        "average → averaged：从分摊到平均计算",
+        "averaged"
+      ],
+      [
+        "average 与 averaging：分摊到平均",
+        "averaging"
+      ],
+      [
+        "till 耕地 + -age → tillage 耕作",
+        "till · tillage"
+      ]
+    ],
+    "contrasts": "luggage 通常不可数，two pieces of luggage 才是两件行李；cleave 的劈开与黏住是不同词源；acreage 说面积；amperage 说电流，不能与 voltage 混用；average 的数学义不证明其远源已无争议。",
+    "practice": "The report describes water seepage, limited storage space, and a shortage of equipment.\n\n报告描述了渗水、存储空间有限及设备短缺的问题。",
+    "words": [
+      "average",
+      "lug",
+      "luggage",
+      "cleave",
+      "cleavage",
+      "acre",
+      "acreage",
+      "tutor",
+      "tutelage",
+      "seep",
+      "seepage",
+      "stow",
+      "stowage",
+      "ampere",
+      "amperage",
+      "marriage",
+      "coverage",
+      "storage",
+      "percentage",
+      "package",
+      "footage",
+      "voltage",
+      "shortage",
+      "leverage",
+      "drainage",
+      "salvage",
+      "mileage",
+      "sewage",
+      "postage",
+      "underage",
+      "lineage",
+      "patronage",
+      "anchorage",
+      "rampage",
+      "orphanage",
+      "brokerage",
+      "wreckage",
+      "outage",
+      "leakage",
+      "stoppage",
+      "signage",
+      "linkage",
+      "blockage",
+      "frontage",
+      "tonnage",
+      "breakage",
+      "shrinkage",
+      "sewerage",
+      "visage",
+      "yardage",
+      "appendage",
+      "haulage",
+      "wattage",
+      "wastage",
+      "slippage",
+      "spillage",
+      "spoilage",
+      "overage",
+      "steerage",
+      "cottage",
+      "cottages",
+      "massage",
+      "massages",
+      "massaged",
+      "massaging",
+      "acres",
+      "marriages",
+      "averaged",
+      "averaging",
+      "till",
+      "tillage"
+    ],
+    "exclude": {
+      "vicarage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "parsonage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trackage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cribbage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mintage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "windage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

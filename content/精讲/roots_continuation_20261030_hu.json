@@ -1,0 +1,69 @@
+[
+  {
+    "id": "A2116",
+    "meaning": "复合词中的所属、关联连接成分",
+    "core": "-S-：前后两个词之间，留下一个“……的”连接",
+    "image": "bride-s-maid 新娘的伴娘；bee-s-wax 蜜蜂的蜡；women-s-wear 女性的衣着；craft-s-man 从事手艺的人。",
+    "intro": "旧所有格在不少合成词里凝固下来，较新词也会沿这种形式造词。今天读到中间 s，要先看两个词的关系，不必都算成复数或动词第三人称。",
+    "forms": "古英语 -es 所有格 → 中古英语 -s/-es → 复合词中 -s-；现代也联系 ’s 的凝固、类推。不是所有词中任意一个 s 都可这样拆。",
+    "branches": [
+      [
+        "手艺、制图与服务角色",
+        "craftsman · tradesman · draftsman · draughtsman · linesman"
+      ],
+      [
+        "婚礼、衣着与纹样",
+        "bridesmaid · menswear · womenswear · houndstooth"
+      ],
+      [
+        "畜群、狩猎、蜂蜡与航行",
+        "huntsman · herdsman · beeswax · yachtsman · helmsman"
+      ],
+      [
+        "表达、政治与群体角色",
+        "spokesman · spokeswoman · spokesperson · statesman · kinsman · townsfolk"
+      ],
+      [
+        "运动、防卫及关系组合",
+        "batsman · marksman · swordsman · guardsman · bondsman · tribesman · gamesmanship · doomsday"
+      ]
+    ],
+    "contrasts": "womenswear 中 women 已是复数；bridesmaid 不必多个新娘；man 复数常变 men；draughtsman 棋子义有不同切分；-s- 不都读 /s/。",
+    "practice": "The craftsman repaired the bridesmaid’s chair with beeswax polish nearby.\n\n工匠修着伴娘的椅子，旁边放着蜂蜡上光剂。",
+    "words": [
+      "craftsman",
+      "tradesman",
+      "draftsman",
+      "draughtsman",
+      "linesman",
+      "bridesmaid",
+      "menswear",
+      "womenswear",
+      "houndstooth",
+      "huntsman",
+      "herdsman",
+      "beeswax",
+      "yachtsman",
+      "helmsman",
+      "spokesman",
+      "spokeswoman",
+      "spokesperson",
+      "statesman",
+      "kinsman",
+      "townsfolk",
+      "batsman",
+      "marksman",
+      "swordsman",
+      "guardsman",
+      "bondsman",
+      "tribesman",
+      "gamesmanship",
+      "doomsday"
+    ],
+    "exclude": {
+      "kingsman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "landsman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sheepshead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

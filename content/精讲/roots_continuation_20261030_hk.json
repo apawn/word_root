@@ -1,0 +1,113 @@
+[
+  {
+    "id": "B4250",
+    "meaning": "妈妈、保密的闭口声、菊花简称和木乃伊分源",
+    "core": "MUM：先问是家庭、秘密、花店还是博物馆",
+    "image": "mum/mummy 妈妈昵称；mum 沉默；mum 菊花简称；mummy 木乃伊又是借词。",
+    "intro": "这组重点就是不强行统一。同音、同拼写既可能是缩短，也可能是另一语言一路借来的词。",
+    "forms": "mummy/mam 等亲属昵称 → mum；闭口声 mum → keep mum；chrysanthemum → mum；波斯、阿拉伯等遗体物质词 → mummy。",
+    "branches": [
+      [
+        "同形场景逐个分开",
+        "mum · mummy"
+      ]
+    ],
+    "contrasts": "keep mum 保密而非照顾妈妈；mummy 妈妈与木乃伊另源；mums 花店里可能指菊花。",
+    "practice": "Mum kept mum about our surprise visit to see the mummy at the museum.\n\n妈妈对我们要去博物馆看木乃伊的惊喜行程保了密。",
+    "words": [
+      "mum",
+      "mummy"
+    ],
+    "exclude": {
+      "mum-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4579",
+    "meaning": "暗中拿走，延伸到悄悄行动、抢注意与划算买卖",
+    "core": "STEAL：悄悄把东西带走，风头也能被抢走",
+    "image": "steal → stealer 角色；stealth 是旧的秘密行动名词，对应元音不同。",
+    "intro": "具体物品、注意力和行动是否被察觉，是同一个词族的不同观察点。a steal 反而是夸价格好，不要当成供认偷东西。",
+    "forms": "stelan → steal/stole/stolen；steal + -er；推定古英语 *stælþ → 中古英语 stelthe → stealth，现代对应 -th。\n\n古英语 stelan，保留不规则过去形式，ing 直接加。\n\nstealth 的旧名词材料与 steal 相关，但现代元音不同；stealthy 加 -y，后续比较、方式和性质扩展分别解释。\n\n与 stealth 比较隐秘行事，不是 steal 派生。ninja 借日语忍者，nin 接忍的隐忍、隐蔽义，ja 是者、人，属于日语汉字词读法。\n\nsteal 承古英语 stelan 偷取、秘密带走，现代 -s，/l/ 后读 /z/。偷取、抢眼表现与便宜货等用法分别看场景。",
+    "branches": [
+      [
+        "偷取、比喻及执行者",
+        "steal · stealer"
+      ],
+      [
+        "秘密、低可探测性质",
+        "stealth"
+      ],
+      [
+        "steal → stealing：暗中取走与悄悄动作",
+        "steal · stole · stolen · stealing"
+      ],
+      [
+        "stealth 从秘密行动到隐蔽的性质、方式",
+        "steal · stealth · stealthy · stealthier · stealthiest · stealthily · stealthiness"
+      ],
+      [
+        "ninja：另源的忍者名称",
+        "ninja · ninjas"
+      ],
+      [
+        "steal 偷取 → steals",
+        "steals"
+      ]
+    ],
+    "contrasts": "steal/rob 宾语习惯不同；steal/steel 同音不同词；stealth /stelθ/ 不照 steal 的长元音读；a steal 可夸划算。",
+    "practice": "The scene stealer moved with stealth and stole the show.\n\n那个抢戏的小家伙悄悄移动，却抢尽了风头。",
+    "words": [
+      "steal",
+      "stealer",
+      "stealth",
+      "stole",
+      "stolen",
+      "stealing",
+      "stealthy",
+      "stealthier",
+      "stealthiest",
+      "stealthily",
+      "stealthiness",
+      "ninja",
+      "ninjas",
+      "steals"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4354",
+    "meaning": "用俗语写的传奇，转到爱情、理想化和艺术流派",
+    "core": "ROMANTIC：像传奇故事那样动人，后来才有多种浪漫",
+    "image": "romance → romantic → romantically；romanticism 是情怀或流派；romanticize 美化；unromantic 平实或缺少情调。",
+    "intro": "爱情只是其中一条线。骑士传奇、旅行想象、艺术史流派和把乡居想得过美，分别保留故事、情感、想象的特点。",
+    "forms": "Rōmānicē → romanz/romant → romance/romantic；romantic + -ally/-ism/-ize；un- + romantic。",
+    "branches": [
+      [
+        "传奇、恋情与相关方式",
+        "romance · romantic · romantically"
+      ],
+      [
+        "情怀流派与美化行为",
+        "romanticism · romanticize"
+      ],
+      [
+        "不带浪漫滤镜",
+        "unromantic"
+      ]
+    ],
+    "contrasts": "Romance languages 不是浪漫语言；Romanticism 不只情侣文学；romanticize 不只是让人恋爱；unromantic 不等于 unloving。",
+    "practice": "The unromantic account challenges our tendency to romanticize the past.\n\n这份平实的记述挑战了我们美化过去的倾向。",
+    "words": [
+      "romance",
+      "romantic",
+      "romantically",
+      "romanticism",
+      "romanticize",
+      "unromantic"
+    ],
+    "exclude": {
+      "non-romantic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -62,7 +62,7 @@
     "core": "PLAC / PLEAS = PLEASE",
     "image": "心里点头：舒服、满意、合我的意",
     "intro": "**placēre** 的核心不是某一种大笑，而是“让人觉得合意”。东西合意，让人 **pleased**；体验合意，带来 **pleasure**；对自己满意过头，就可能 **complacent**；总想顺着别人，则是 **complaisant**。这些是一组意义联系，各词的真实历史路线分别见逐词图。",
-    "forms": "拉丁语 **placēre** 经法语出现 **plais- / pleas-** 等形式。**please、pleasant、pleasure、pleasantry** 并不是在现代英语里按同一套后缀依次造出来的，各有借入形式。\n\n**complacent / complaisant** 同源，前者更直接保留拉丁外形，后者经过法语；今天通常分别说“自满”和“愿意迁就他人”。\n\n**plea / plead** 经拉丁语 placitum“所议定、认可的事项”走向法律主张与恳求；不是 please 直接删字母。**placebo** 是拉丁语“我将使满意”的完整动词形式，不是 place + bo。\n\n**placid** 属于 placidus 的平静支线。英语 **place** 则来自希腊语“宽阔的路”那一族，不能仅因外形接近混进来。",
+    "forms": "拉丁语 **placēre** 经法语出现 **plais- / pleas-** 等形式。**please、pleasant、pleasure、pleasantry** 并不是在现代英语里按同一套后缀依次造出来的，各有借入形式。\n\n**complacent / complaisant** 同源，前者更直接保留拉丁外形，后者经过法语；今天通常分别说“自满”和“愿意迁就他人”。\n\n**plea / plead** 经拉丁语 placitum“所议定、认可的事项”走向法律主张与恳求；不是 please 直接删字母。**placebo** 是拉丁语“我将使满意”的完整动词形式，不是 place + bo。\n\n**placid** 属于 placidus 的平静支线。英语 **place** 则来自希腊语“宽阔的路”那一族，不能仅因外形接近混进来。\n\nplead 经法语、拉丁 placitum 议定、诉讼等材料，现代加完整 -ed，/d/ 后读 /ɪd/；另有 pled。恳求与诉讼中的陈述等按语境分开。",
     "branches": [
       [
         "让人高兴与满意",
@@ -95,6 +95,10 @@
       [
         "安慰与平静支线",
         "placebo · placid"
+      ],
+      [
+        "plac- 合意、议定 → plead → pleaded",
+        "pleaded"
       ]
     ],
     "contrasts": "**pleased / pleasing / pleasant**：人感到满意 / 事物带来满意 / 事物或人令人舒服。\n\n**pleasure / pleasantry / pleasantness**：快乐、乐趣 / 寒暄或轻松话 / 舒适、和气的性质。\n\n**complacent / complaisant**：自满而疏忽 / 顺着别人、愿意迁就。**complacency / complaisance** 是相应的名词区别。\n\n**plea / plead**：请求、答辩等名词 / 提出请求、答辩等动词。**placebo** 的字母 c 读 /s/，别按 place“地方”去猜意思。",
@@ -130,7 +134,8 @@
       "plead",
       "pleading",
       "pleadingly",
-      "pleader"
+      "pleader",
+      "pleaded"
     ]
   }
 ]

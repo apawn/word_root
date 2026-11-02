@@ -1,0 +1,64 @@
+[
+  {
+    "id": "B3111",
+    "meaning": "颗粒材料、磨削用途与沙地形象",
+    "core": "SAND：松散小颗粒，既能塑形、铺撒，也能一点点磨平",
+    "image": "sand → sandy；sanding、sander、sandpaper 归打磨；sandcastle、sandpit、sandbox 归玩沙；地形、鸟名、睡魔分开看。",
+    "intro": "sand 动词可打磨而非只撒沙；sandy hair 是颜色。沙丘、沙堡、鹬和睡魔不是把两段中文机械相加就够，要看命名形象。",
+    "forms": "古英语 sand → sand；sandiġ → sandy；sand + -ing/-er；sand + castle/pit/hill/piper/man 等；sandpit 保留古英语旧组合。\n\n材料名转铺沙、打磨动作，er 形成作用物，现代复数再加 s。\n\nsand 承古英语、日耳曼相应沙名，远源有分歧。复数 sands 常说沙滩、大片沙地；动词 sands 是用砂纸打磨，不把它硬解释成很多粒沙。",
+    "branches": [
+      [
+        "基础和打磨",
+        "sand · sandy · sanding · sander · sandpaper"
+      ],
+      [
+        "玩沙与场地",
+        "sandcastle · sandpit · sandbox · sandlot"
+      ],
+      [
+        "地貌、材料与天气",
+        "sandhill · sandstone · sandbar · sandbank · sandstorm · quicksand · sandbag"
+      ],
+      [
+        "鸟与民间人物",
+        "sandpiper · sandman"
+      ],
+      [
+        "sand 的打磨动作与工具复数",
+        "sand · sanded · sander · sanders"
+      ],
+      [
+        "sand → sands：沙地与打磨动作",
+        "sands"
+      ]
+    ],
+    "contrasts": "sanding 工序、sander 工具；sandcastle 沙堡、sandhill 地形；sandpiper 非所有岸鸟；sandman 虚构人物非睡眠机制。",
+    "practice": "The children built a sandcastle in the sandpit.\n\n孩子们在沙池里堆沙堡。",
+    "words": [
+      "sand",
+      "sandy",
+      "sanding",
+      "sander",
+      "sandpaper",
+      "sandcastle",
+      "sandpit",
+      "sandbox",
+      "sandlot",
+      "sandhill",
+      "sandstone",
+      "sandbar",
+      "sandbank",
+      "sandstorm",
+      "quicksand",
+      "sandbag",
+      "sandpiper",
+      "sandman",
+      "sanded",
+      "sanders",
+      "sands"
+    ],
+    "exclude": {
+      "sand-cast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

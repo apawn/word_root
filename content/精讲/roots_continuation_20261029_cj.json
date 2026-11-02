@@ -1,0 +1,177 @@
+[
+  {
+    "id": "B2656",
+    "meaning": "孩子、子女；童年与相关特点",
+    "core": "CHILD：年龄小，或在亲子关系里是子女",
+    "image": "child 可以是小孩，也可以是已经成年的儿女。后缀决定讲阶段、特点，还是有没有孩子。",
+    "intro": "child 接古英语 ċild。先读 child、childhood，再对比 childish 与 childlike；childbearing、childbirth、childcare 分开生育、分娩和照料。",
+    "forms": "child → childhood、childish、childlike、childless；stepchild、grandchild 按亲属关系；brainchild 是创意比喻。\n\nchildren 承接旧复数 cildru、childer 等材料，再添另一复数词尾，形成保留到今天的双重复数；现代不能继续再加 s。\n\n与 child 比较历史称谓，不由 child 派生。bastard 借古法语，远源有鞍具材料与婚姻相关日耳曼语词等不同分析，不能把鞍上出生故事当定论；现代常见粗口、带感情色彩称呼。",
+    "branches": [
+      [
+        "孩子及童年",
+        "child · childhood"
+      ],
+      [
+        "像孩子与有没有子女",
+        "childish · childlike · childless"
+      ],
+      [
+        "亲属关系",
+        "stepchild · grandchild"
+      ],
+      [
+        "生育与照料",
+        "childbearing · childbirth · childcare"
+      ],
+      [
+        "创意比喻",
+        "brainchild"
+      ],
+      [
+        "child 与 children：复数上又加了复数",
+        "child · children"
+      ],
+      [
+        "bastard：带历史偏见的出身称呼到粗口",
+        "bastard · bastards"
+      ]
+    ],
+    "contrasts": "childish 常贬，childlike 常褒；stepchild 不等于 adopted child；brainchild 是创意成果。",
+    "practice": "A childhood friend helped turn her brainchild into a real project.\n\n一位童年朋友帮助她把创意变成了实际项目。",
+    "words": [
+      "child",
+      "childhood",
+      "childish",
+      "childlike",
+      "childless",
+      "stepchild",
+      "grandchild",
+      "childbearing",
+      "childbirth",
+      "childcare",
+      "brainchild",
+      "children",
+      "bastard",
+      "bastards"
+    ],
+    "exclude": {
+      "child-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "child-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "childline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2651",
+    "meaning": "父亲；为父角色与父系亲属称谓",
+    "core": "FATHER：父亲，及父亲般的角色",
+    "image": "先抓住家庭里的父亲，再分清身份 fatherhood、关切方式 fatherly 与亲属关系。",
+    "intro": "father 是从古英语继承的旧词，与拉丁 pater 远处同源。fore- 看先前的辈分；step- 看继亲；grand- 与 god- 则形成另外的固定称谓。",
+    "forms": "father → fatherhood、fatherly、fatherless；stepfather、grandfather、godfather 各有关系；forefather 时间更往前。\n\n古英语 faeder 的本族继承，与拉丁 pater 是远亲而非借词。\n\n与 father 比较称呼，不是现代 father 截短。papa 经法语接拉丁等重复 pa 的儿语称呼，现代家庭、地区使用习惯不同。",
+    "branches": [
+      [
+        "父亲与角色",
+        "father · fatherhood · fatherly · fatherless"
+      ],
+      [
+        "不同亲属或宗教关系",
+        "stepfather · grandfather · godfather"
+      ],
+      [
+        "先辈及祖地",
+        "forefather · fatherland"
+      ],
+      [
+        "father → fathers：父亲们、创始者们",
+        "father · fathers"
+      ],
+      [
+        "papa：爸爸的亲昵称呼",
+        "papa"
+      ]
+    ],
+    "contrasts": "fatherly 是方式，fatherhood 是身份；stepfather 继父，forefather 先祖、先驱。",
+    "practice": "His stepfather’s fatherly advice helped him prepare for fatherhood.\n\n继父的父亲般忠告，帮助他为当父亲做好准备。",
+    "words": [
+      "father",
+      "fatherhood",
+      "fatherly",
+      "fatherless",
+      "stepfather",
+      "grandfather",
+      "godfather",
+      "forefather",
+      "fatherland",
+      "fathers",
+      "papa"
+    ],
+    "exclude": {
+      "father-to-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "father-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "father-out-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-father": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "father-slayer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2652",
+    "meaning": "母亲；为母角色；母体与中心比喻",
+    "core": "MOTHER：母亲，及孕育、照料和中心的比喻",
+    "image": "先读家庭称谓，再看母亲般的照料、为母身份和母舰的母体画面。",
+    "intro": "mother 是古英语继承词，与拉丁 māter 远处同源。-hood 说身份，-ly 说方式，-less 说缺少；mothership 的 ship 在常用母舰义里是船。粗口另列在末尾，避免当普通亲属词。",
+    "forms": "mother → motherhood、motherly、motherless；stepmother、grandmother、godmother 依关系分；motherland、mothership 看固定比喻。\n\n本族古老亲属词，名词、动词现代用途相连。\n\n亲属名称借给中心支撑的部件，不表示其他电路板由它生育。\n\n和 mother 是亲属称呼比较，不把 mama 当作现代 mother 的截短。mama 是 mamma 的拼写变体，重复 ma 的儿语发声在多种语言可见。",
+    "branches": [
+      [
+        "母亲与角色",
+        "mother · motherhood · motherly · motherless"
+      ],
+      [
+        "亲属和宗教关系",
+        "stepmother · grandmother · godmother"
+      ],
+      [
+        "母体、中心和祖地",
+        "motherland · mothership"
+      ],
+      [
+        "影视粗俗词识别",
+        "motherfucker"
+      ],
+      [
+        "mother → mothers：母亲与照料",
+        "mother · mothers"
+      ],
+      [
+        "mother 的中心、源头比喻进入 motherboard",
+        "mother · motherboard · motherboards"
+      ],
+      [
+        "mama：孩子的妈妈称呼",
+        "mama"
+      ]
+    ],
+    "contrasts": "motherless 缺母亲，childless 无子女；mothership 不是 motherhood；stepmother 本身不含坏心肠。",
+    "practice": "The small craft returned to the mothership after its mission.\n\n小型飞行器完成任务后返回母舰。",
+    "words": [
+      "mother",
+      "motherhood",
+      "motherly",
+      "motherless",
+      "stepmother",
+      "grandmother",
+      "godmother",
+      "motherland",
+      "mothership",
+      "motherfucker",
+      "mothers",
+      "motherboard",
+      "motherboards",
+      "mama"
+    ],
+    "exclude": {
+      "mother-to-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mother-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mother-out-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-mother": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

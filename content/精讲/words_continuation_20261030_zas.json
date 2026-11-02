@@ -1,0 +1,546 @@
+[
+  {
+    "word": "sentences",
+    "ipa": "/ˈsentənsɪz/",
+    "meaning": "句子；判决、刑罚〔复数〕；判处〔第三人称单数〕",
+    "sense": "把一个意思组织成完整话语，是 sentences 的句子义；经过判断作出的正式裁决，又是判决义。两者更早都连着想法、判断的材料。",
+    "split": "sentence + -s，末尾 /s/ 后读 /ɪz/。sentence 经法语接拉丁 sententia 想法、意见、判断，较早与 sentire 感知相关。",
+    "history": [
+      [
+        "拉丁 sententia → 法语 → sentence",
+        "想法、判断 → 完整话语、裁决等分支"
+      ],
+      [
+        "sentence + -s → sentences",
+        "多个句子、判决；或某人判处"
+      ]
+    ],
+    "explanation": "short sentences 短句；write sentences 写句子；prison sentences 监禁刑罚。",
+    "usage": "complete sentences 完整句子；sentences someone to a penalty 判某人某种刑罚，属法律语境。",
+    "contrast": "sentences 在语法、写作里多为句子；在司法报道里可能是判决、刑期。paragraphs 是段落，一个段落可以包含多个 sentences。",
+    "examples": [
+      [
+        "Please write three short sentences.",
+        "请写三个短句。"
+      ],
+      [
+        "The report compares the lengths of several prison sentences.",
+        "报告比较了几项监禁刑期的长短。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentences#English",
+      "https://en.wiktionary.org/wiki/sentence#English"
+    ]
+  },
+  {
+    "word": "understands",
+    "ipa": "英 /ˌʌndəˈstændz/；美 /ˌʌndərˈstændz/",
+    "meaning": "理解、懂得；了解、体谅〔第三人称单数〕",
+    "sense": "不是只听见声音，而是把意思接住、关系想通，就是 understands。用在人身上，也可说能体会对方的处境。",
+    "split": "understand + -s，/d/ 后读 /z/。understand 接古英语 understandan，可辨 under- 与 stand 的历史组合；怎样从这个组合发展出理解，具体解释有争议。",
+    "history": [
+      [
+        "古英语 understandan → understand",
+        "理解的旧词；组合后的语义历史未完全确定"
+      ],
+      [
+        "understand + -s → understands",
+        "第三人称主语懂得、理解或体谅"
+      ]
+    ],
+    "explanation": "understands the question 理解问题；understands how 懂得怎样；understands your situation 理解你的处境。",
+    "usage": "understands the difference 明白区别；understands English 懂英语。",
+    "contrast": "understands 通常不用来表达正在站在下方；现代整词的意思已经是理解。过去式、分词是 understood，不是 understanded。",
+    "examples": [
+      [
+        "She understands the problem clearly.",
+        "她很清楚这个问题。"
+      ],
+      [
+        "He understands how difficult the move has been for us.",
+        "他理解这次搬迁对我们有多难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/understands#English",
+      "https://en.wiktionary.org/wiki/understand#English"
+    ]
+  },
+  {
+    "word": "agreements",
+    "ipa": "/əˈɡriːmənts/",
+    "meaning": "协议、约定；一致意见〔复数〕",
+    "sense": "双方把条件谈到能相合，留下明确安排，就是 agreements。它可以是正式文件，也可以是彼此达成的约定。",
+    "split": "agreement + -s，/t/ 后读 /s/。agreement 借古法语 agrement，与 agreer 同族；现代可对照 agree + -ment，名词历史不要求英语动词先造出。",
+    "history": [
+      [
+        "古法语 agrement → agreement",
+        "意见、意愿相合 → 达成一致、约定"
+      ],
+      [
+        "agreement + -s → agreements",
+        "多项协议、约定；不同事项上的一致"
+      ]
+    ],
+    "explanation": "reach agreements 达成协议；written agreements 书面约定；agreements between organisations 机构之间的协议。",
+    "usage": "trade agreements 贸易协定；informal agreements 非正式约定。",
+    "contrast": "agreements 复数常数具体约定；in agreement 同意、一致通常不用复数。agreement 不一定是一张纸，也可指彼此想法相合。",
+    "examples": [
+      [
+        "The two organisations reached several agreements.",
+        "两个组织达成了几项协议。"
+      ],
+      [
+        "We kept copies of all the written agreements.",
+        "我们保存了所有书面约定的副本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/agreements#English",
+      "https://en.wiktionary.org/wiki/agreement#English"
+    ]
+  },
+  {
+    "word": "blocking",
+    "ipa": "英 /ˈblɒkɪŋ/；美 /ˈblɑːkɪŋ/",
+    "meaning": "阻挡、堵住；屏蔽〔现在分词、动名词〕",
+    "sense": "通路本来可以继续，有东西横在中间，让人、车、信息过不去，就是 blocking。",
+    "split": "block + -ing，直接加 ing，ck 保留。block 经古法语 bloc 接日耳曼木块、木料词，阻挡动作从相关名词发展。",
+    "history": [
+      [
+        "日耳曼木块材料 → 古法语 bloc → block",
+        "大块物体等名词 → 挡住、使不通"
+      ],
+      [
+        "block + -ing → blocking",
+        "正在阻挡；也可说通信、画面等被屏蔽"
+      ]
+    ],
+    "explanation": "blocking the road 挡路；blocking the view 挡住视线；blocking messages 屏蔽消息。",
+    "usage": "blocking access 阻止访问；blocking the doorway 堵住门口。",
+    "contrast": "blocking 强调让通路不通；covering 可能只是盖住，不一定阻断通过。软件里的 blocking 也有等待、阻塞等专门含义，要看技术上下文。",
+    "examples": [
+      [
+        "A fallen branch was blocking the path.",
+        "一根掉落的树枝挡住了小路。"
+      ],
+      [
+        "The tall building is blocking our view of the hills.",
+        "高楼挡住了我们看山丘的视线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blocking#English",
+      "https://en.wiktionary.org/wiki/block#English"
+    ]
+  },
+  {
+    "word": "chasing",
+    "ipa": "/ˈtʃeɪsɪŋ/",
+    "meaning": "追赶、追逐；追求〔现在分词、动名词〕",
+    "sense": "目标在前面，自己不停往它那边追，是 chasing。可以追一只球，也可以追一个机会、一个结果。",
+    "split": "chase 去 e 加 -ing，s 仍读 /s/。chase 经古法语 chacier 等追猎词接重构俗拉丁 *captiare，较早与 capere 抓取相连。",
+    "history": [
+      [
+        "俗拉丁 *captiare → 古法语 → chase",
+        "追猎、追捕 → 追赶、追求"
+      ],
+      [
+        "chase 去 e 加 -ing → chasing",
+        "正在朝移动目标或想要的结果追去"
+      ]
+    ],
+    "explanation": "chasing a ball 追球；chasing a dream 追逐梦想；chasing an answer 追索答案。",
+    "usage": "chasing after someone 追着某人；chasing opportunities 追求机会。",
+    "contrast": "chasing 强调追的过程，catching 更关注抓到、赶上。两词同源而分途借入，现代用法不完全重合。",
+    "examples": [
+      [
+        "The dog was chasing a ball across the field.",
+        "狗正在田野上追球。"
+      ],
+      [
+        "She spent years chasing her dream of opening a bookshop.",
+        "她多年追求开书店的梦想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chasing#English",
+      "https://en.wiktionary.org/wiki/chase#English"
+    ]
+  },
+  {
+    "word": "cookies",
+    "ipa": "/ˈkʊkiz/",
+    "meaning": "小甜饼、饼干；网站储存的小段数据〔复数〕",
+    "sense": "食品语境里是一块块小糕饼；浏览器语境里则是网站使用的一小段段数据。技术名称沿用 cookie，不需要从烤制步骤推导软件机制。",
+    "split": "cookie + -s，/i/ 后读 /z/，ie 保留。cookie 借荷兰语 koekie、koekje 等 koek 糕饼的小称；计算机义接 magic cookie 等早已有的技术用法。",
+    "history": [
+      [
+        "荷兰语小糕饼名称 → 英语 cookie",
+        "小块糕饼"
+      ],
+      [
+        "计算机技术沿用 cookie；加 -s → cookies",
+        "多块饼干；或多个相应数据记录"
+      ]
+    ],
+    "explanation": "chocolate cookies 巧克力饼干；browser cookies 浏览器 cookie 数据；a plate of cookies 一盘饼干。",
+    "usage": "bake cookies 烤饼干；cookies used by a website 网站使用的 cookie 数据。",
+    "contrast": "cookie 不是现代 cook 加人物后缀的造词。食品含义在美式英语尤其常见；软件里的 cookies 是技术借名，不能按甜饼字面理解。",
+    "examples": [
+      [
+        "She put the cookies on a plate.",
+        "她把饼干放到盘里。"
+      ],
+      [
+        "The website uses cookies to remember the selected language.",
+        "网站用 cookie 记住所选语言。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cookies#English",
+      "https://en.wiktionary.org/wiki/cookie#English"
+    ]
+  },
+  {
+    "word": "demanded",
+    "ipa": "英 /dɪˈmɑːndɪd/；美 /dɪˈmændɪd/",
+    "meaning": "要求、坚持要求了；需要了〔过去式、过去分词〕",
+    "sense": "不是轻轻问一句，而是把某件事作为应该满足的要求提出，是 demanded。任务本身很费精力，也可以说它需要、要求这些投入。",
+    "split": "demand + -ed，/d/ 后读 /ɪd/。demand 经法语 demander 询问、要求接拉丁 demandare 委托、交付；名词另经法语 demande 借入。",
+    "history": [
+      [
+        "拉丁 demandare → 法语 demander → demand",
+        "委托、交付到询问、要求的历史发展"
+      ],
+      [
+        "demand + -ed → demanded",
+        "要求已被提出；或某事需要了相应投入"
+      ]
+    ],
+    "explanation": "demanded an explanation 要求解释；demanded that 坚持要求……；demanded careful planning 需要周密计划。",
+    "usage": "demanded to know why 坚持要知道为什么；demanded more time 需要更多时间。",
+    "contrast": "demanded 一般比 asked 更强；但工作 demanded patience 不是工作在生气，而是客观需要耐心。句中主语决定是提出要求还是有某种需要。",
+    "examples": [
+      [
+        "They demanded a clearer explanation.",
+        "他们要求更清楚的解释。"
+      ],
+      [
+        "The task demanded patience and careful work.",
+        "这项任务需要耐心和细致工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/demanded#English",
+      "https://en.wiktionary.org/wiki/demand#English"
+    ]
+  },
+  {
+    "word": "exercises",
+    "ipa": "英 /ˈeksəsaɪzɪz/；美 /ˈeksərsaɪzɪz/",
+    "meaning": "练习、习题；锻炼、演练〔复数〕；行使、锻炼〔第三人称单数〕",
+    "sense": "把某种能力实际动起来，是 exercises 的共同中心。身体可以锻炼，学过的东西可以做习题，权力也可以被实际行使。",
+    "split": "exercise + -s，/z/ 后读 /ɪz/。exercise 经法语 exercice 接拉丁 exercitium 训练、exercere 使忙碌、操练；更深 ex-、arcere 的字面语义发展并不完全清楚。",
+    "history": [
+      [
+        "拉丁操练、运用词族 → 法语 → exercise",
+        "使忙碌、训练 → 练习、运用能力"
+      ],
+      [
+        "exercise + -s → exercises",
+        "多项练习、锻炼；或某人行使、运用"
+      ]
+    ],
+    "explanation": "grammar exercises 语法练习；stretching exercises 拉伸练习；exercises control 行使控制。",
+    "usage": "training exercises 训练、演练；complete the exercises 完成习题。",
+    "contrast": "exercise 不可数可泛指锻炼，exercises 可数是具体动作、习题或演练。exercises a right 中则是行使的动词。",
+    "examples": [
+      [
+        "The chapter ends with ten short exercises.",
+        "这一章结尾有十道小练习。"
+      ],
+      [
+        "The manager exercises control over the schedule.",
+        "经理负责掌控日程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exercises#English",
+      "https://en.wiktionary.org/wiki/exercise#English"
+    ]
+  },
+  {
+    "word": "pilots",
+    "ipa": "/ˈpaɪləts/",
+    "meaning": "飞行员；领航员、引航员；试点项目等〔复数〕；驾驶、引导、试行〔第三人称单数〕",
+    "sense": "让交通工具沿合适方向走的人，是 pilots 的人物义。一个新安排先小范围试着走起来，又可以是 pilot 试点。",
+    "split": "pilot + -s，/t/ 后读 /s/。pilot 经法语、意大利语等，较早常接希腊舵桨、掌舵词族；英语船舶用法早于航空，部分中间词形有推测。",
+    "history": [
+      [
+        "法语、意大利掌舵名称 → pilot",
+        "船舶引航 → 飞机驾驶；后有试行、试点用法"
+      ],
+      [
+        "pilot + -s → pilots",
+        "多位驾驶、引航人员；多个试点；某人驾驶、引导"
+      ]
+    ],
+    "explanation": "airline pilots 航空公司飞行员；harbour pilots 港口引航员；pilots a new programme 试行新项目。",
+    "usage": "trained pilots 受训驾驶员；pilot projects 试点项目，前置 pilot 通常单数。",
+    "contrast": "pilots 不只指飞机驾驶员，船舶引航也是老用法。项目试点的 pilot 则是先引导、试着运行的一支。",
+    "examples": [
+      [
+        "The pilots prepared for the flight.",
+        "飞行员们为航班作准备。"
+      ],
+      [
+        "The school pilots a new reading programme each year.",
+        "学校每年试行一项新的阅读项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pilots#English",
+      "https://en.wiktionary.org/wiki/pilot#English"
+    ]
+  },
+  {
+    "word": "prayers",
+    "ipa": "常用祈祷义：英 /preəz/；美 /prerz/",
+    "meaning": "祈祷、祷词；祈愿〔复数〕",
+    "sense": "把希望、请求向神圣对象表达出来，是 prayers 的祈祷义。它可以数说出的祷词，也可以笼统说一个人的祈愿。",
+    "split": "祈祷名词 prayer + -s，末尾读 /z/。此义经法语 preiere 接中世纪拉丁 precaria 请求，不是现代英语 pray 加人物 -er。较少见的祈祷者 prayer 另读 /ˈpreɪə(r)/。",
+    "history": [
+      [
+        "中世纪拉丁 precaria → 法语 preiere → prayer",
+        "请求、祈求 → 祈祷内容、行为"
+      ],
+      [
+        "prayer + -s → prayers",
+        "多次祈祷、多段祷词或祈愿"
+      ]
+    ],
+    "explanation": "say prayers 祈祷；morning prayers 晨祷；a book of prayers 祷文集。",
+    "usage": "prayers for peace 为和平的祈祷；keep someone in one’s prayers 在祈祷中惦念某人。",
+    "contrast": "prayers 的祈祷义通常是一个音节的词干加 s；不要照普通人物 pray-er 的两音节读法来读常见祷词名词。",
+    "examples": [
+      [
+        "The book contains prayers from several traditions.",
+        "书中收录了几种传统的祷词。"
+      ],
+      [
+        "They gathered for evening prayers.",
+        "他们聚在一起作晚祷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prayers#English",
+      "https://en.wiktionary.org/wiki/prayer#English"
+    ]
+  },
+  {
+    "word": "predicted",
+    "ipa": "/prɪˈdɪktɪd/",
+    "meaning": "预测、预言了〔过去式、过去分词〕",
+    "sense": "事情还没有发生，先把可能的结果说出来，就是 predicted。它说作过判断，不保证后来一定照着发生。",
+    "split": "predict + -ed，/t/ 后读 /ɪd/。predict 接拉丁 prae- 在前与 dicere 说所成 praedicere 的相关分词词形。",
+    "history": [
+      [
+        "拉丁 praedicere、相关分词词形 → predict",
+        "提前说 → 预测、预言"
+      ],
+      [
+        "predict + -ed → predicted",
+        "预测已经作出；也可说预期的结果"
+      ]
+    ],
+    "explanation": "predicted that 预测……；as predicted 如预测的那样；the predicted result 预测结果。",
+    "usage": "predicted rain 预测有雨；predicted a change 预测变化。",
+    "contrast": "predicted 与 proved 不同，预测在事前，证明需要相应依据。forecast 在天气、趋势等方面与 predict 有重叠。",
+    "examples": [
+      [
+        "The forecast predicted rain for the weekend.",
+        "天气预报预测周末有雨。"
+      ],
+      [
+        "The experiment produced the result they had predicted.",
+        "实验得到了他们原先预测的结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predicted#English",
+      "https://en.wiktionary.org/wiki/predict#English"
+    ]
+  },
+  {
+    "word": "pressed",
+    "ipa": "/prest/",
+    "meaning": "按、压、催促了；紧迫、缺少时间等〔过去式、过去分词及形容词〕",
+    "sense": "把力往目标上推，是 pressed 的按压；把要求持续往人面前推，是催促。时间像在挤压自己，又有 pressed for time。",
+    "split": "press + -ed，/s/ 后读 /t/。press 动词经古法语 presser 接拉丁 pressare，较早是 premere 压的词族。",
+    "history": [
+      [
+        "拉丁 premere、pressare → 法语 presser → press",
+        "施加压力 → 按压、催促等"
+      ],
+      [
+        "press + -ed → pressed",
+        "已按压；也形容处于压力、紧迫状态"
+      ]
+    ],
+    "explanation": "pressed a button 按按钮；pressed for an answer 催要答复；pressed for time 时间紧。",
+    "usage": "pressed the flowers 压制花朵；freshly pressed 平整压过、熨过或压榨出的，具体看对象。",
+    "contrast": "pressed 是动词、分词形式；the press 报刊、媒体是名词的另支。pressed for time 说时间不够，不是把时间真的按在桌上。",
+    "examples": [
+      [
+        "She pressed the button beside the door.",
+        "她按了门边的按钮。"
+      ],
+      [
+        "We were pressed for time before the opening.",
+        "开幕前我们时间很紧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pressed#English",
+      "https://en.wiktionary.org/wiki/press#English"
+    ]
+  },
+  {
+    "word": "preventing",
+    "ipa": "/prɪˈventɪŋ/",
+    "meaning": "防止、阻止〔现在分词、动名词〕",
+    "sense": "事情还没发生，先到它前面挡一下，让它不能发生，就是 preventing 的现代核心。",
+    "split": "prevent + -ing，直接加 ing。prevent 接拉丁 praeventus、praevenire，prae- 在前与 venire 来结合，早有走在前面、抢先义。",
+    "history": [
+      [
+        "拉丁 praevenire、praeventus → prevent",
+        "提前到来、抢先 → 阻止发生"
+      ],
+      [
+        "prevent + -ing → preventing",
+        "正在防止、阻拦；也可谈预防这件事"
+      ]
+    ],
+    "explanation": "preventing delays 防止延误；preventing damage 防止损坏；preventing someone from entering 阻止某人进入。",
+    "usage": "a barrier preventing access 阻止通过的障碍；preventing repeated mistakes 防止重复犯错。",
+    "contrast": "preventing 强调让某事不发生；protecting 常强调让对象免受伤害。prevent someone from doing 是常见结构。",
+    "examples": [
+      [
+        "The cover is preventing dust from entering the machine.",
+        "盖子正挡住灰尘，不让它进入机器。"
+      ],
+      [
+        "Good planning helps in preventing unnecessary delays.",
+        "周密计划有助于避免不必要的延误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preventing#English",
+      "https://en.wiktionary.org/wiki/prevent#English"
+    ]
+  },
+  {
+    "word": "provisions",
+    "ipa": "/prəˈvɪʒənz/",
+    "meaning": "备用食物、补给；规定、条款、安排〔复数〕",
+    "sense": "把未来可能需要的东西先备好，就是 provisions 的补给义；把未来怎样处理某事先写定，也成了规定、条款。",
+    "split": "provision + -s，/n/ 后读 /z/。provision 借法语接拉丁 provisio 预见、预备，和 provide 同源；英语名词有独立借入路线。",
+    "history": [
+      [
+        "拉丁 provisio → 法语 → provision",
+        "预先看、作准备 → 准备的物资、规定的安排"
+      ],
+      [
+        "provision + -s → provisions",
+        "备用食物、补给；多项条款、安排"
+      ]
+    ],
+    "explanation": "provisions for a journey 旅途补给；provisions in an agreement 协议条款；make provision for 为……预作安排，固定结构常用单数。",
+    "usage": "food provisions 食物储备；provisions for maintenance 关于维护的安排、条款。",
+    "contrast": "provisions 在背包、船、旅途语境常指食物补给，在协议、规则里常指条款。不要看到 s 就只译成多次提供。",
+    "examples": [
+      [
+        "We packed provisions for the long journey.",
+        "我们为长途旅行装好了补给。"
+      ],
+      [
+        "The agreement includes provisions for maintaining the building.",
+        "协议包含维护建筑的安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provisions#English",
+      "https://en.wiktionary.org/wiki/provision#English"
+    ]
+  },
+  {
+    "word": "restored",
+    "ipa": "英 /rɪˈstɔːd/；美 /rɪˈstɔːrd/",
+    "meaning": "恢复、修复、还原了〔过去式、过去分词〕",
+    "sense": "原来能用、完整或在位的状态被打断，现在把它带回来，就是 restored。可以修复建筑，也可以恢复服务、信心、文件。",
+    "split": "restore + -d，结尾读 /d/。restore 经古法语 restorer 接拉丁 restaurare 修复、重建，不是现代 re- 再加 store 存储。",
+    "history": [
+      [
+        "拉丁 restaurare → 古法语 restorer → restore",
+        "重建、修复 → 带回原有状态"
+      ],
+      [
+        "restore 去 e + -ed → restored",
+        "恢复、修复已发生；也可描述修复后的对象"
+      ]
+    ],
+    "explanation": "restored a building 修复建筑；restored the file 还原文件；restored confidence 恢复信心。",
+    "usage": "fully restored 完全修复；services were restored 服务恢复了。",
+    "contrast": "restored 不要求做成全新的样子，常强调带回原有功能、面貌、状态。stored 只是存放，和恢复动作不同。",
+    "examples": [
+      [
+        "The old theatre was carefully restored.",
+        "旧剧院得到了细致修复。"
+      ],
+      [
+        "We restored the missing file from a backup.",
+        "我们从备份中还原了丢失的文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restored#English",
+      "https://en.wiktionary.org/wiki/restore#English"
+    ]
+  },
+  {
+    "word": "scholars",
+    "ipa": "英 /ˈskɒləz/；美 /ˈskɑːlərz/",
+    "meaning": "学者；奖学金获得者、资助生等〔复数〕",
+    "sense": "专门投入学习、研究的人，是 scholars 的学者义；某些学校里又特指获得奖学金、某种学术资助身份的学生。",
+    "split": "scholar + -s，末尾读 /z/。scholar 接古英语 scolere、中古英语 scolar 等，源于晚期拉丁 scholaris，与 schola 学校相连，词尾 ar 有借入历史。",
+    "history": [
+      [
+        "晚期拉丁 scholaris → 古英语、中古英语 → scholar",
+        "学习、学校相关的人物称呼"
+      ],
+      [
+        "scholar + -s → scholars",
+        "多位学者；在相应制度里也数资助学生"
+      ]
+    ],
+    "explanation": "scholars of history 历史学者；visiting scholars 访问学者；young scholars 年轻学者。",
+    "usage": "research by scholars 学者的研究；scholarship students 与受资助学生义相关，具体学校称呼不同。",
+    "contrast": "scholars 通常更突出研究、学术身份；students 更一般说学习者。scholar 不是今天把 school 的 oo 改掉再临时接一个尾巴才出现。",
+    "examples": [
+      [
+        "Scholars from several universities attended the conference.",
+        "来自几所大学的学者参加了会议。"
+      ],
+      [
+        "The book draws on the work of many scholars.",
+        "这本书参考了许多学者的研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scholars#English",
+      "https://en.wiktionary.org/wiki/scholar#English"
+    ]
+  }
+]

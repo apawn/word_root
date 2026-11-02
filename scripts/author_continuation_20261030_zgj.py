@@ -1,0 +1,166 @@
+"""Wonder, astonishment and agitation, with concrete usage distinctions."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ return ['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+EXISTING_ROOT_ADDITIONS={
+ 'B3697':dict(words='wonder wondering wonderingly'.split(),label='wonderingly：带着惊奇、好奇的神情',note='wonder 的惊奇、好奇材料承古英语；wondering 接 -ly 描写带着这种反应的方式，不与 wander 漫游混为一词。'),
+ 'A1741':dict(words='amaze amazes amazed amazing amazingly amazement'.split(),label='amaze：旧惊乱材料与现代惊叹',note='amaze 与 maze 的旧迷乱材料有关，但有由更早 amased 等形式逆构现代动词的历史分析；不能只因学习时先看短词，就断定所有 amaze 形式都是短词先出现。'),
+ 'B2916':dict(words='thunder astonish astonishes astonished astonishing astonishingly stun stuns stunned stunning stunningly'.split(),label='astonish、stun：雷击般震住的历史材料',note='astonish 经法语 estoner，接重建 *extonare 与拉丁 tonare 打雷；stun 大概从相关中古英语形式缩短。英语 thunder 与拉丁 tonare 是更远的同源材料，不是把现代 thunder 换字母生成 astonish。'),
+ 'C0860':dict(words='annoy annoying annoyingly annoyance annoyances'.split(),label='annoy：烦扰与让人不快的小事',note='annoy 经法语接拉丁厌恶材料；annoyance 还有法语名词借入历史，annoyances 指多个令人烦的小事、问题。'),
+ 'A1675':dict(words='irritate irritating irritatingly irritable irritably irritability'.split(),label='irritatingly 与 irritably：让人烦，和自己烦躁地回应',note='irritate 接拉丁 irritare 激起、刺激；irritable 经法语、拉丁 irritabilis。irritatingly 接令人烦的性质，irritably 接易烦躁的状态；不是同一个副词的两种拼法。'),
+ 'B4154':dict(words='mud roil roils roiled roiling rile riles riled riling'.split(),label='roil、rile 与泥水搅浑作近义意象比较',note='roil 来源未定，早期有搅浑液体和扰乱情绪的用法；rile 是其方言读音对应的拼写变化。泥水意象方便理解，但这里不声称 roil、rile 从英语 mud 派生。'),
+}
+WONDER=[['古英语 wundor、wundrian → wonder','惊奇的事；惊叹，也有好奇、心里想知道的旧用法'],['wonder → wondering → wonderingly','带着惊奇、好奇的神情或口气；不是现代才从惊叹机械造出疑问']]
+ASTONISH=[['拉丁 ex- + tonare 打雷；重建 *extonare → 法语 estoner','像被雷震住，使惊呆、发懵；星号说明这个完整俗拉丁形式是重建的'],['中古英语 astonien 等 → astonish','现代 -ish 外形受其他动词类推影响；惊讶、惊叹义后来发展']]
+STUN=[['中古英语 stonen 等，大概缩短自 astonen','与法语 estoner 的惊呆材料相连，和 astonish 有历史联系'],['stun：使眩晕、震惊 → stunning 极出色','外貌、表现太出色，仿佛让人一下愣住；不是每次都真失去意识']]
+AMAZE=[['古英语惊乱材料 → 中古英语 amased 等','与 maze 的旧迷乱义相连，更远来源未定'],['现代 amaze 有从较早相关形式逆构的分析','今天使惊奇、惊叹；a- 在这一材料里通常作加强理解，不是否定']]
+ANNOY=[['拉丁 in odio 等厌恶材料 → 法语 anuier 等 → annoy','使不快、困扰；英语早期也有伤害等较强用法'],['法语 enoiance 等 → 英语 annoyance','烦扰的状态；也可命名让人烦的事，并非全在现代英语里现造']]
+IRRITATE=[['拉丁 irritare → irritatus；irritabilis','激起、刺激；容易被激起、刺激'],['英语 irritate、irritable → irritatingly、irritably','前者写令人烦的程度，后者写人烦躁地回应；副词基底不同']]
+ROIL=[['早期英语 roil：搅浑液体、扰乱情绪','远源未定，法语相关材料等是分析之一'],['roil 的方言读音变化 → rile','rile 常写激怒、惹恼；现代 roil 也用于水翻涌、局势或市场动荡']]
+W('wonderingly','英 /ˈwʌndərɪŋli/；美 /ˈwʌndərɪŋli/','惊奇地；带好奇、疑问地',
+ '第一次看见雪，孩子伸手接住，眼里像在问“这是什么”；这种带着惊奇、好奇的神情就是 wonderingly。',
+ 'wondering + -ly；内层 wonder + -ing，外层说明看、问等动作的神情、口气。',WONDER,
+ 'looked wonderingly 惊奇地看着；asked wonderingly 好奇、不解地问。',
+ 'stared wonderingly；gazed wonderingly at the lights。',
+ 'wonderingly 是带着惊奇或好奇，wonderfully 却多是极好地、非常；两个副词不是同义替换。',
+ ('The child looked wonderingly at the falling snow.','孩子惊奇地看着飘落的雪。'),('“How did you do that?” she asked wonderingly.','“你是怎么做到的？”她带着惊奇问。'),sources=S('wonderingly','wonder'))
+W('amazes','/əˈmeɪzɪz/','使惊奇、惊叹〔第三人称单数〕',
+ '一件事比你原先想的厉害得多、奇特得多，让你忍不住说“居然能这样”，就是 amazes me。',
+ 'amaze + -s，/z/ 后词尾读 /ɪz/。基础词接旧惊乱材料，有逆构历史分析，不当成现代 a- + 迷宫直译。',AMAZE+[['amaze + -s → amazes','它使人惊奇、惊叹']],
+ 'never ceases to amaze 总是令人惊叹；what amazes me is 让我惊讶的是。',
+ 'still amazes me；amazes the audience。',
+ 'amazes 强调超出想象的惊奇，现代常带赞叹；也可以惊讶于不合理的事，褒贬要看内容。',
+ ('Her ability to remember names still amazes me.','她记名字的本事仍让我惊叹。'),('It amazes me that nobody noticed the missing door.','居然没人注意到门不见了，这让我很惊讶。'),sources=S('amazes','amaze'))
+W('astonishes','/əˈstɒnɪʃɪz/','使十分惊讶、惊叹〔第三人称单数〕',
+ '消息或表现突然超出预期，人一下愣住，叫 astonishes。词史可联系雷击般震住的意象，现代不要求真有雷声。',
+ 'astonish + -es，/ʃ/ 后读 /ɪz/；-ish 外形来自历史类推，不是现代 aston + 表有点的形容词后缀。',ASTONISH+[['astonish + -es → astonishes','它使人强烈惊讶']],
+ 'astonishes everyone 令所有人惊讶；what astonishes me 令我十分惊讶的事。',
+ 'still astonishes；astonishes even experienced players。',
+ 'astonishes 与 amazes 有很大交叠；前者常显得较正式、强调吃惊，不必给它们编造固定的百分比强弱等级。',
+ ('Her speed astonishes even experienced runners.','她的速度连有经验的跑者都感到惊讶。'),('What astonishes me is how little equipment they needed.','让我惊讶的是，他们只用了那么少的设备。'),sources=S('astonishes','astonish'))
+W('astonished','/əˈstɒnɪʃt/','十分惊讶的；使惊讶了',
+ '眼前的事超出原来想象，你一时愣住，甚至反问“真的吗”，人就是 astonished。',
+ 'astonish + 完整 -ed；/ʃ/ 后读 /t/。作形容词描述受到惊讶的人，作动词形式可写过去发生的作用。',ASTONISH+[['astonish + -ed → astonished','被震惊、惊讶后的状态']],
+ 'astonished at the result 对结果十分惊讶；astonished to find 惊讶地发现。',
+ 'looked astonished；absolutely astonished。',
+ 'astonished 是人的反应，astonishing 是事情引起这种反应：astonished visitors 面对 astonishing views。',
+ ('I was astonished to find the room completely empty.','发现房间空无一人，我十分惊讶。'),('She gave me an astonished look.','她惊讶地看了我一眼。'),sources=S('astonished','astonish'))
+W('astonishing','/əˈstɒnɪʃɪŋ/','令人惊讶、惊叹的；正在使惊讶',
+ '成绩、变化或景色远超预期，让人一看就吃惊，东西本身可形容为 astonishing。',
+ 'astonish + -ing；动作形式也作形容词，写引起强烈惊讶的性质。',ASTONISH+[['astonish + -ing → astonishing','正在使惊讶；或具有令人惊讶的性质']],
+ 'an astonishing achievement 惊人的成就；at an astonishing speed 以惊人的速度。',
+ 'astonishingly small 的形容词基底；an astonishing change。',
+ 'astonishing 可以写惊人的好成绩，也能写惊人的浪费；它本身强调超出预期，具体好坏看名词。',
+ ('The team made astonishing progress in just one month.','团队仅用一个月就取得了惊人的进展。'),('The amount of food wasted was astonishing.','被浪费的食物数量多得惊人。'),sources=S('astonishing','astonish'))
+W('astonishingly','/əˈstɒnɪʃɪŋli/','令人惊讶地；惊人地',
+ '一个装置小到超出想象，叫 astonishingly small；副词把“这程度让我吃惊”放进描述。',
+ 'astonishing + -ly；内层 astonish + -ing，外层多修饰性质的程度，也可修饰动作方式。',ASTONISH+[['astonishing + -ly → astonishingly','某种程度超出预期，令人惊讶']],
+ 'astonishingly fast 快得惊人；astonishingly little 少得出奇；astonishingly similar 相像得惊人。',
+ 'astonishingly quiet；astonishingly accurate。',
+ 'very small 只说很小，astonishingly small 额外表示小得超出预期；不应每次都机械译成“以令人惊讶的方式小”。',
+ ('The device is astonishingly small.','这个装置小得惊人。'),('She solved the problem astonishingly quickly.','她解决这个问题的速度快得惊人。'),sources=S('astonishingly','astonish'))
+W('stuns','/stʌnz/','使惊呆、震惊；使眩晕〔第三人称单数〕',
+ '消息突然砸过来，让人半天接不上话，是 stuns；实际撞击、强烈刺激让人暂时晕眩，也用这个动词。',
+ 'stun + -s，读 /z/；基础词大概缩短自与 astonish 同族的中古英语形式，不是 stone 石头的现代缩写。',STUN+[['stun + -s → stuns','它使人惊呆或暂时眩晕']],
+ 'stuns the audience 震撼观众；stuns everyone into silence 让所有人震惊得说不出话。',
+ 'stuns the crowd；stuns his opponents with a victory。',
+ 'stuns 可能是坏消息冲击，也可能是出色表现震撼；不能只按 stunning“极美”把所有 stun 都译成赞美。',
+ ('The final revelation stuns the audience into silence.','最后揭晓的真相让观众震惊得一片安静。'),('Her performance stuns even the most experienced judges.','她的表演连最有经验的评委都为之惊叹。'),sources=S('stuns','stun'))
+W('stunningly','/ˈstʌnɪŋli/','惊艳地；美得、好得令人惊叹地；惊人地',
+ '景色美到让你一下停住，叫 stunningly beautiful；也能说 stunningly simple，简单得令人意外、赞叹。',
+ 'stunning + -ly；内层 stun 加 -ing 双写 n → stunning，外层副词多加强后面性质的程度。',STUN+[['stun → stunning → stunningly','从使惊呆到极出色，再到描写令人惊叹的程度']],
+ 'stunningly beautiful 美得惊人；stunningly effective 效果惊人；stunningly simple 简单得令人惊叹。',
+ 'stunningly clear；stunningly elegant。',
+ 'stunningly 常是评价性质到惊艳程度；stunned 是人受到冲击的状态，不能把 a stunned face 当成极美的脸。',
+ ('The coast was stunningly beautiful in the evening light.','暮光中的海岸美得惊人。'),('Her solution was stunningly simple.','她的解决办法简单得令人惊叹。'),sources=S('stunningly','stun'))
+W('annoyingly','/əˈnɔɪɪŋli/','令人恼火地；烦人地',
+ '等公交等了很久，偏偏还没消息，叫 annoyingly late。这里不是说它带着生气的表情，而是迟到这件事让你烦。',
+ 'annoying + -ly；内层 annoy + -ing，外层通常给某个程度、情况加上说话人的不快。',ANNOY+[['annoy → annoying → annoyingly','使烦 → 令人烦的 → 令人恼火地']],
+ 'annoyingly slow 慢得让人烦；annoyingly vague 含糊得令人恼火；annoyingly persistent 纠缠得烦人。',
+ 'annoyingly cheerful；annoyingly difficult to open。',
+ 'annoyingly 是事情惹人烦；irritably 是人自己烦躁地回应。annoyingly cheerful 甚至可以说对方太兴高采烈，让自己看着烦。',
+ ('The website was annoyingly slow.','这个网站慢得让人恼火。'),('The packet was annoyingly difficult to open.','这个包装难打开得让人烦。'),sources=S('annoyingly','annoy'))
+W('annoyances','/əˈnɔɪənsɪz/','烦心事；令人不快的小问题〔复数〕',
+ '按钮偶尔失灵、抽屉总卡住，都不是大灾难，却会一次次让人不舒服；这些琐碎烦心事是 annoyances。',
+ 'annoyance + -s，/s/ 后读 /ɪz/。annoyance 经法语相关名词借入，学习时可与 annoy、-ance 对照，不必认定完全由现代英语现场造词。',ANNOY+[['annoyance + -s → annoyances','把导致烦扰的多件事逐一数出来']],
+ 'minor annoyances 小烦恼；everyday annoyances 日常烦心事；a list of annoyances 一串烦人的问题。',
+ 'small annoyances；remove the most common annoyances。',
+ 'annoyance 作情绪通常不可数：to my annoyance 让我恼火的是；annoyances 多是可数的烦人事物，不能一律译成几份愤怒。',
+ ('We fixed several minor annoyances in the app.','我们修好了应用里几处烦人的小问题。'),('Long queues are among the everyday annoyances of city life.','排长队是城市生活中的日常烦心事之一。'),sources=S('annoyances','annoy')+['https://www.etymonline.com/word/annoyance'])
+W('irritatingly','/ˈɪrɪteɪtɪŋli/','令人烦躁、恼火地',
+ '回答总是绕开关键点，含糊得让你不耐烦，可以写 irritatingly vague。描述的是它让别人烦的程度。',
+ 'irritating + -ly；irritate 去 e 加 -ing，再接 -ly。基础刺激、激起义来自拉丁 irritare。',IRRITATE+[['irritate → irritating → irritatingly','刺激、惹烦 → 令人烦的 → 令人烦躁地']],
+ 'irritatingly vague 烦人地含糊；irritatingly slow 慢得让人不耐烦。',
+ 'irritatingly cheerful；irritatingly repetitive。',
+ 'irritatingly vague 说回答令人烦；answered irritably 说回答的人正在烦躁。把谁引发反应、谁在感受分开。',
+ ('His answer was irritatingly vague.','他的回答含糊得让人恼火。'),('The same tune played irritatingly often.','同一首曲子反复播放，频繁得让人心烦。'),sources=S('irritatingly','irritable'))
+W('irritably','/ˈɪrɪtəbli/','烦躁地；不耐烦地；带恼意地',
+ '本来就心烦，别人再问一句，回答时有点冲，这种说话方式是 irritably。重点落在说话人自身的烦躁。',
+ 'irritable 去词尾 e 加 -y 形成 -ably 外形：irritably；也可记作 -able 形容词变 -ably 副词。不是 irritating 简写。',IRRITATE+[['irritable → irritably','容易烦躁的状态，转成动作中的不耐烦口气']],
+ 'said irritably 不耐烦地说；replied irritably 烦躁地回答；sighed irritably 不耐烦地叹气。',
+ 'asked irritably；shook his head irritably。',
+ 'irritably 说明人有些恼意；angrily 可以更直接写生气，但不能给每个语境硬定同一强弱等级。',
+ ('“I have already told you,” he replied irritably.','“我已经告诉过你了。”他不耐烦地回答。'),('She sighed irritably when the phone rang again.','电话再次响起，她烦躁地叹了口气。'),sources=S('irritably','irritable'))
+W('rile','/raɪl/','惹恼、激怒；使烦躁',
+ '本来还算平静，被一句话、一个动作搅得火冒上来，就是 rile someone。它常带“把人惹起来”的动态感。',
+ '来自 roil 的方言读音所对应的拼写变化；roil 有搅浑、扰乱义。rile 的抽象惹恼用法记录早于它部分字面搅浑用法，不倒排成现代先搅水再造情绪义。',ROIL,
+ 'rile someone up 把某人惹火；easily riled 很容易被激怒。',
+ 'try to rile someone；rile the crowd。',
+ 'rile 多写惹起怒气、不快；amuse 是逗乐。相同玩笑可能 amuse 一人却 rile 另一人，要看对方反应。',
+ ('He knows exactly how to rile his brother.','他很清楚怎么把弟弟惹火。'),('Don’t let a careless comment rile you up.','别让一句随口的话把你惹火。'),sources=S('rile','rile'))
+W('riles','/raɪlz/','惹恼、激怒〔第三人称单数〕',
+ '反复插嘴这件事会把我惹毛，叫 it riles me。主语是造成不快的东西，后面接受到刺激的人。',
+ 'rile + -s，读 /z/；基础词来自 roil 的方言读音变化；现代固定写 rile，表示惹恼。',ROIL+[['rile + -s → riles','它把人惹恼、激起不快']],
+ 'riles me 让我恼火；riles people up 把人惹火。',
+ 'what really riles her；riles the audience。',
+ 'riles me 与 I am riled 说同一反应的不同方向：前者点引发原因，后者点人的状态。',
+ ('What really riles me is being interrupted.','真正让我恼火的是被打断。'),('His smug smile riles the other players.','他那得意的笑让其他球员恼火。'),sources=S('riles','rile'))
+W('riled','/raɪld/','被惹恼、火大的；激怒了',
+ '对方几句话就把你从平静推到火大，反应已经起来了，人就是 riled，口语常用 riled up。',
+ 'rile 去 e 加完整 -ed，读 /d/；过去形式也可描述被惹恼的状态。',ROIL+[['rile → riled','已经惹恼；或处于被激怒的状态']],
+ 'get riled up 恼火起来；easily riled 很容易被惹恼；riled by the remark 被那句话激怒。',
+ 'too riled to listen；looked riled。',
+ 'riled up 是情绪被激起来，wound up 也可写紧张、兴奋或焦躁；不能把所有 up 搭配都当愤怒。',
+ ('He got riled up over a minor disagreement.','他因为一点小分歧就火大起来。'),('Her dismissive tone riled me.','她那不把人当回事的口气惹恼了我。'),sources=S('riled','rile'))
+W('riling','/ˈraɪlɪŋ/','正在惹恼、激怒',
+ '还在一句接一句地挑衅，想把人情绪拱起来，是 riling someone up。它写激怒正在发生。',
+ 'rile 去 e 加 -ing；内层 rile 是 roil 的方言读音对应的拼写变体，现代多用惹恼义。',ROIL+[['rile → riling','正在搅起人的恼意、怒气']],
+ 'riling him up 正在把他惹火；riling the crowd up 煽起人群的不快。',
+ 'stop riling me；keeps riling his opponent。',
+ 'riling 不一定是有意，噪声也可能让人烦；try to rile someone up 才明确表示故意试图激怒。',
+ ('Stop riling your sister up before bedtime.','睡前别再惹你妹妹生气了。'),('The repeated interruptions were riling everyone.','一再被打断正让所有人越来越恼火。'),sources=S('riling','rile'))
+W('roil','/rɔɪl/','搅浑；翻涌；使局势、情绪动荡',
+ '水底沉淀被搅上来，水不再平静、清澈，是 roil；一条消息让市场、人心也不平静，就借同样的搅动意象。',
+ '更早来源未定，有法语泥浊、搅拌材料等分析。早期英语已见搅浑与扰乱情绪，不能把现代比喻当成刚发生的历史。',ROIL,
+ 'roil the waters 搅动水面、搅乱局面；roil markets 使市场动荡；roil with anger 心中怒意翻腾。',
+ 'roil the river；roil the debate。',
+ 'roil 不一定加热，boil 才通常指沸腾；水翻涌、局势动荡都不表示字面温度已经达到沸点。',
+ ('The propellers roil the shallow water near the dock.','螺旋桨把码头旁的浅水搅得翻腾浑浊。'),('The unexpected announcement could roil financial markets.','这项意外公告可能搅动金融市场。'),sources=S('roil','roil'))
+W('roils','/rɔɪlz/','搅浑、翻涌；使动荡〔第三人称单数〕',
+ '船尾一片水被翻起来，是螺旋桨 roils the water；一场争论把平静的社区搅乱，也能用 roils。',
+ 'roil + -s，读 /z/；规则三单，保留 /ɔɪ/ 元音，和 rile /raɪl/ 是相关但已分开的现代拼写、读音。',ROIL+[['roil + -s → roils','它使水、局势等失去平静']],
+ 'roils the water 搅动水；roils the community 使社区不得安宁；roils the market 搅动市场。',
+ 'a dispute that roils the town；anger roils beneath the surface。',
+ 'roils 写扰动、翻腾，rolls 写滚动或某些流动；读写上差一个 i，但不能因此任意互换。',
+ ('The boat’s engine roils the water behind it.','船的发动机把船后面的水搅得翻腾。'),('The dispute roils an otherwise quiet community.','这场争执搅得原本平静的社区不得安宁。'),sources=S('roils','roil'))
+W('roiled','/rɔɪld/','被搅浑、搅动的；动荡的；使动荡了',
+ '原来平静的水被搅起来，或市场被突发消息冲得起伏，就是 roiled。常在新闻里把复杂动荡写成水被搅乱的画面。',
+ 'roil + 完整 -ed，读 /d/；可作过去形式，也可在被动中描述受到扰动。',ROIL+[['roil + -ed → roiled','搅动已发生；或描述被搅乱的状态']],
+ 'markets roiled by uncertainty 受不确定性搅动的市场；roiled water 翻腾、浑浊的水。',
+ 'roiled the debate；a country roiled by disputes。',
+ 'riled 常直接说人被惹火，roiled 更常写水、群体、局势动荡；两词历史相关，现代习惯搭配仍需分别学。',
+ ('The sudden announcement roiled the markets.','突如其来的公告使市场动荡。'),('Mud clouded the water roiled by the passing boat.','经过的船把水搅了起来，泥沙让水变得浑浊。'),sources=S('roiled','roil'))
+W('roiling','/ˈrɔɪlɪŋ/','翻涌、翻腾的；正在动荡、搅动',
+ '水一团团翻起来、情绪在心里翻腾，都是 roiling 能写出的画面；重点是持续不平静、被搅动。',
+ 'roil + -ing；动作形式也可作形容词，描述翻腾、动荡的水、烟云、情绪等。',ROIL+[['roil + -ing → roiling','搅动的过程；持续翻腾、动荡的状态']],
+ 'roiling water 翻腾的水；roiling clouds 翻滚的云；a roiling debate 激烈动荡的争论。',
+ 'emotions roiling inside；roiling beneath the surface。',
+ 'roiling 可以是冷水翻腾、云团翻滚，boiling 的字面义是沸腾；两者都可比喻情绪，但具体画面不同。',
+ ('We watched the roiling water below the bridge.','我们望着桥下翻腾的水。'),('Conflicting emotions were roiling inside her.','相互冲突的情绪正在她心里翻腾。'),sources=S('roiling','roil'))
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zgj',ROOTS,WORDS)
+ extend_lessons()

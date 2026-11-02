@@ -1,0 +1,448 @@
+[
+  {
+    "word": "wrong",
+    "ipa": "英 /rɒŋ/；美 /rɔːŋ/",
+    "meaning": "错误的；不合适的；不公正的；出问题的",
+    "sense": "从歪了、不正这个旧画面，理解答案不对、路走错、待遇不公等现代用法。",
+    "split": "经古诺斯语 rangr、vrangr 和英语早期相关形式发展，旧义含歪曲、不对。现代 w 不发音；不是把 write 写改几个字母得到 wrong。",
+    "history": [
+      [
+        "古诺斯语 rangr / vrangr；英语早期 wrang 等形式",
+        "歪的、扭曲的；不对的"
+      ],
+      [
+        "中古英语 wrong → 英语 wrong",
+        "不正确、不合适、不公正；出毛病"
+      ]
+    ],
+    "explanation": "the wrong answer 错误答案，the wrong size 不合适的尺寸；go wrong 出岔子，wrong someone 是不公正地对待某人。What’s wrong? 可是怎么了，不一定在责怪谁做错。",
+    "usage": "be wrong about；go wrong；the wrong way；nothing wrong with；do someone wrong。",
+    "contrast": "wrong 不只表示事实判断错误，也可说不合适或不道德；incorrect 更偏不正确，不总能替代所有 wrong。",
+    "examples": [
+      [
+        "I think we took the wrong bus.",
+        "我想我们坐错公交车了。"
+      ],
+      [
+        "There is nothing wrong with asking for help.",
+        "求助没有什么不对。"
+      ],
+      [
+        "Something went wrong during the upload.",
+        "上传时出了点问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrong#English"
+    ]
+  },
+  {
+    "word": "wrongly",
+    "ipa": "英 /ˈrɒŋli/；美 /ˈrɔːŋli/",
+    "meaning": "错误地；不公正地",
+    "sense": "动作或判断朝了不对的方向，也可能让别人受了冤屈。",
+    "split": "wrong + -ly，把不正确、不公正的性质用来修饰动作、判断。",
+    "history": [
+      [
+        "古诺斯语 rangr / vrangr；英语早期 wrang 等形式",
+        "歪的、扭曲的；不对的"
+      ],
+      [
+        "中古英语 wrong → 英语 wrong",
+        "不正确、不合适、不公正；出毛病"
+      ],
+      [
+        "wrong → wrongly",
+        "不对的 → 错误地、不公正地"
+      ]
+    ],
+    "explanation": "wrongly assume 错误地以为；wrongly blamed 被错怪。两者一个偏判断错误，一个偏不公待遇。",
+    "usage": "wrongly assume；wrongly believe；be wrongly accused；be wrongly labelled。",
+    "contrast": "wrong 自己也可在某些固定结构中作副词，如 spell it wrong；wrongly 常直接修饰动词、分词，不能认为所有副词必须 -ly。",
+    "examples": [
+      [
+        "I had wrongly assumed that the museum was free.",
+        "我原先误以为博物馆免费。"
+      ],
+      [
+        "The parcel was wrongly labelled as fragile.",
+        "包裹被错误地标为易碎品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrongly#English"
+    ]
+  },
+  {
+    "word": "wrongful",
+    "ipa": "英 /ˈrɒŋfəl/；美 /ˈrɔːŋfəl/",
+    "meaning": "不正当的；不公正的；法律语境中非法或侵权的",
+    "sense": "不是简单算错一道题，而是某种行为不应这样做，侵犯了正当利益。",
+    "split": "wrong + -ful，形成描述不正当、不公行为的形容词；-ful 不是在这里按容器里装满错误逐字理解。",
+    "history": [
+      [
+        "古诺斯语 rangr / vrangr；英语早期 wrang 等形式",
+        "歪的、扭曲的；不对的"
+      ],
+      [
+        "中古英语 wrong → 英语 wrong",
+        "不正确、不合适、不公正；出毛病"
+      ],
+      [
+        "wrong + -ful → wrongful",
+        "不公、不当 → 不正当的、不合法的"
+      ]
+    ],
+    "explanation": "wrongful dismissal 不当解雇，wrongful conviction 错判。常见于正式、法律相关文字，具体法律认定还依所用制度和案件。",
+    "usage": "wrongful dismissal；wrongful conviction；a wrongful act。",
+    "contrast": "wrong answer 普通错误答案，不用 wrongful answer；wrongful 更关注行为不当、不公或侵害权利。",
+    "examples": [
+      [
+        "The documentary follows a campaign against a wrongful conviction.",
+        "纪录片跟拍了一场反对错判的行动。"
+      ],
+      [
+        "The article discusses the meaning of wrongful dismissal.",
+        "文章讨论不当解雇这个说法的含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrongful#English"
+    ]
+  },
+  {
+    "word": "wrongness",
+    "ipa": "英 /ˈrɒŋnəs/；美 /ˈrɔːŋnəs/",
+    "meaning": "错误；不当、不公的性质；不对劲的感觉",
+    "sense": "先不点名是哪件错事，而是把它哪里不对、为什么不当拿出来看。",
+    "split": "wrong + -ness，性质名词；可谈事实错误、道德不当，也可表达直觉中的不对劲。",
+    "history": [
+      [
+        "古诺斯语 rangr / vrangr；英语早期 wrang 等形式",
+        "歪的、扭曲的；不对的"
+      ],
+      [
+        "中古英语 wrong → 英语 wrong",
+        "不正确、不合适、不公正；出毛病"
+      ],
+      [
+        "wrong → wrongness",
+        "不对的 → 不对、不当这种性质"
+      ]
+    ],
+    "explanation": "the wrongness of an action 行为的不当；a sense of wrongness 一种不对劲的感觉。比 a mistake 更抽象，不主要用来数犯了几个错。",
+    "usage": "the wrongness of something；a sense of wrongness；recognize the wrongness。",
+    "contrast": "wrongness 是性质，wrongdoing 是不当行为；一份报告的 factual errors 常比 a list of wrongnesses 自然。",
+    "examples": [
+      [
+        "She immediately sensed the wrongness of the arrangement.",
+        "她立刻感到这个安排不对劲。"
+      ],
+      [
+        "The essay examines the moral wrongness of deception.",
+        "文章探讨欺骗在道德上的不当。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrongness#English"
+    ]
+  },
+  {
+    "word": "nice",
+    "ipa": "/naɪs/",
+    "meaning": "不错的；令人愉快的；友善的；精细、微妙的",
+    "sense": "现代最常见是让人觉得舒服、满意；但它的历史起点居然是不知道、无知。",
+    "split": "拉丁语 nescius 不知道的，由 ne- 不与知道的词干构成，经古法语进入英语。几个世纪里经过愚笨、挑剔、精细等多种用法，后来出现愉快、友善义；不是一次突然反义转换。",
+    "history": [
+      [
+        "拉丁语 nescius → 古法语 nice → 中古英语 nice / nyce",
+        "不知情、无知；愚笨等旧义"
+      ],
+      [
+        "英语 nice 的多阶段词义变化",
+        "曾含挑剔、精细等义；后来发展出令人愉快、友善等常用义"
+      ]
+    ],
+    "explanation": "a nice day 愉快的一天，be nice to someone 对人友善。a nice distinction 在正式语境却是细微而精确的区别；nice and warm 常说暖和得挺舒服。",
+    "usage": "nice to meet you；be nice to；have a nice time；nice and quiet；a nice distinction。",
+    "contrast": "nice 是宽泛、常用的肯定词，不一定赞到惊人。a nice distinction 也不是讨人喜欢的区别，而是精细区别。",
+    "examples": [
+      [
+        "It was nice of you to help us move.",
+        "你帮我们搬家，真是太好了。"
+      ],
+      [
+        "We had a nice quiet evening at home.",
+        "我们在家度过了一个安静愉快的晚上。"
+      ],
+      [
+        "The argument turns on a nice distinction between the two terms.",
+        "论证的关键在于这两个词之间一个细微而精确的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nice#English",
+      "https://www.etymonline.com/word/nice",
+      "https://www.ahdictionary.com/word/search.html?q=nice"
+    ]
+  },
+  {
+    "word": "nicely",
+    "ipa": "/ˈnaɪsli/",
+    "meaning": "友好地；漂亮地、妥当地；进展顺利地",
+    "sense": "做出来让人满意，或者对人说得好听、友善。",
+    "split": "nice + -ly。现代 e 保留为 nicely；副词继承 pleasant、satisfactory 等现代常用义，也可用于精细、恰当的程度。",
+    "history": [
+      [
+        "拉丁语 nescius → 古法语 nice → 中古英语 nice / nyce",
+        "不知情、无知；愚笨等旧义"
+      ],
+      [
+        "英语 nice 的多阶段词义变化",
+        "曾含挑剔、精细等义；后来发展出令人愉快、友善等常用义"
+      ],
+      [
+        "nice → nicely",
+        "令人满意、友善的 → 妥当、友善地"
+      ]
+    ],
+    "explanation": "ask nicely 好好地请求；fit nicely 很合适，come along nicely 进展顺利。不是只用来形容人漂亮。",
+    "usage": "ask nicely；work nicely；fit nicely；come along nicely；nicely done。",
+    "contrast": "nice 形容人或事物，nicely 说明动作怎样进行；speak nicely 是友善地说，look nice 是看起来不错。",
+    "examples": [
+      [
+        "If you ask nicely, she may lend you the book.",
+        "如果你好好开口，她也许会把书借给你。"
+      ],
+      [
+        "The new shelf fits nicely into the corner.",
+        "新架子放在角落里很合适。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicely#English"
+    ]
+  },
+  {
+    "word": "niceness",
+    "ipa": "/ˈnaɪsnəs/",
+    "meaning": "友善；和气；令人愉快的性质",
+    "sense": "把一个人待人舒服、体贴和气这一点，作为一种品质来谈。",
+    "split": "nice + -ness，形成抽象名词。现代常接友善、和气义，不是回到拉丁语无知义。",
+    "history": [
+      [
+        "拉丁语 nescius → 古法语 nice → 中古英语 nice / nyce",
+        "不知情、无知；愚笨等旧义"
+      ],
+      [
+        "英语 nice 的多阶段词义变化",
+        "曾含挑剔、精细等义；后来发展出令人愉快、友善等常用义"
+      ],
+      [
+        "nice → niceness",
+        "友善、令人愉快 → 友善、和气这一性质"
+      ]
+    ],
+    "explanation": "her genuine niceness 她真诚的友善；an appearance of niceness 表面的和气。这个词描述给人的友好感，不必等于所有深层道德品质。",
+    "usage": "genuine niceness；simple niceness；a reputation for niceness。",
+    "contrast": "niceness 强调和气、友善；kindness 更容易强调关心他人、愿意帮助。两者可重叠，不能只靠微笑就证明所有品德。",
+    "examples": [
+      [
+        "People remembered her for her patience and niceness.",
+        "人们记得她的耐心和友善。"
+      ],
+      [
+        "His niceness made it easy for new students to ask questions.",
+        "他的和气让新生敢于开口提问。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/niceness#English"
+    ]
+  },
+  {
+    "word": "simple",
+    "ipa": "/ˈsɪmpəl/",
+    "meaning": "简单的；朴素的；单纯的",
+    "sense": "从只有一层、没有很多层交织，去想结构不复杂、容易明白或不加装饰。",
+    "split": "经法语来自拉丁语 simplex 一重的，对照 duplex 两重的。历史构词含一与折叠、重数的部分；不是现代英语 sim + ple 两个独立词。",
+    "history": [
+      [
+        "拉丁语 simplex → 古法语 simple → 中古英语 symple",
+        "一重、一层；不复杂"
+      ],
+      [
+        "英语 simple",
+        "简单、朴素、不加修饰；某些语境也可贬称头脑简单"
+      ]
+    ],
+    "explanation": "a simple explanation 易懂解释，a simple meal 朴素的一餐，a simple design 简洁设计。说 a simple person 可能是在贬人头脑简单，要看语境。",
+    "usage": "a simple solution；keep it simple；a simple meal；plain and simple。",
+    "contrast": "simple 常肯定简洁，simplistic 却常批评把复杂问题想得过于简单。结构简单的任务也未必实际做起来 easy。",
+    "examples": [
+      [
+        "The instructions are simple and easy to follow.",
+        "说明简单明了，容易照着做。"
+      ],
+      [
+        "We had a simple meal of bread, soup and fruit.",
+        "我们简单吃了面包、汤和水果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simple#English"
+    ]
+  },
+  {
+    "word": "simply",
+    "ipa": "/ˈsɪmpli/",
+    "meaning": "简单地；仅仅；简直；朴素地",
+    "sense": "可以说表达没绕圈，也可以把多余解释拿走：事情就只是这样，或者实在就是这样。",
+    "split": "simple + -ly，历史上较长的 -lely 形式简化成 -ly，现代拼 simply。副词不只有动作简单这一义，还发展出仅仅、强调等用法。",
+    "history": [
+      [
+        "拉丁语 simplex → 古法语 simple → 中古英语 symple",
+        "一重、一层；不复杂"
+      ],
+      [
+        "英语 simple",
+        "简单、朴素、不加修饰；某些语境也可贬称头脑简单"
+      ],
+      [
+        "simple → simply",
+        "简单的 → 简单地、仅仅、强调程度"
+      ]
+    ],
+    "explanation": "explain simply 简单讲明白；simply because 仅仅因为；simply wonderful 简直太棒。put simply 相当于简单说来。",
+    "usage": "put simply；live simply；simply because；simply not possible。",
+    "contrast": "simply 可以加强语气，不总能译简单地。The view is simply beautiful 是景色实在太美，不是景色美得简单。",
+    "examples": [
+      [
+        "Could you explain the idea more simply?",
+        "能把这个想法讲得更简单些吗？"
+      ],
+      [
+        "I stayed home simply because I was tired.",
+        "我待在家里，只是因为累了。"
+      ],
+      [
+        "The final result was simply wonderful.",
+        "最后的结果简直太棒了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simply#English"
+    ]
+  },
+  {
+    "word": "simplify",
+    "ipa": "/ˈsɪmplɪfaɪ/",
+    "meaning": "简化；使容易理解",
+    "sense": "把不必要的环节、层次或说法减少，让事情更容易处理。",
+    "split": "借自法语 simplifier；现代可对应 simple 的词干 simpl- + -ify 使变成。历史借入与现代可分析的构词关系同时存在。",
+    "history": [
+      [
+        "拉丁语 simplex → 古法语 simple → 中古英语 symple",
+        "一重、一层；不复杂"
+      ],
+      [
+        "英语 simple",
+        "简单、朴素、不加修饰；某些语境也可贬称头脑简单"
+      ],
+      [
+        "法语 simplifier → 英语 simplify",
+        "使简单、简化"
+      ]
+    ],
+    "explanation": "simplify a process 简化流程；simplify an explanation 简化说明。过去式 simplified，动词 -fy 变 -fied。简化可以合理，也可能丢掉关键条件。",
+    "usage": "simplify the process；simplify the rules；simplify something for beginners。",
+    "contrast": "simplify 是做简化的动作，simple 是简单这一性质；把关键条件也删掉，可能得到 simplistic 那样过分简单化的结论。",
+    "examples": [
+      [
+        "The new form simplifies the registration process.",
+        "新表格简化了注册流程。"
+      ],
+      [
+        "She simplified the explanation without losing the main point.",
+        "她简化了解释，同时保留了要点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simplify#English"
+    ]
+  },
+  {
+    "word": "simplistic",
+    "ipa": "/sɪmˈplɪstɪk/",
+    "meaning": "过分简单化的",
+    "sense": "问题有好几层，却硬说只有一个原因；简单过头，漏掉了该考虑的东西。",
+    "split": "simple 的词干 simpl- + -istic，形成现代形容词。常带批评，不只是更长一点的 simple。",
+    "history": [
+      [
+        "拉丁语 simplex → 古法语 simple → 中古英语 symple",
+        "一重、一层；不复杂"
+      ],
+      [
+        "英语 simple",
+        "简单、朴素、不加修饰；某些语境也可贬称头脑简单"
+      ],
+      [
+        "simple + -istic → simplistic",
+        "简单 → 忽视复杂性的过度简单化"
+      ]
+    ],
+    "explanation": "a simplistic explanation 过分简单化的解释；a simplistic solution 把问题看得太简单的解决办法。通常质疑其省掉了关键因素。",
+    "usage": "a simplistic view；a simplistic explanation；overly simplistic。",
+    "contrast": "simple 可以是优点，simplistic 常是缺点。语言讲得简单清楚，不等于内容肤浅。",
+    "examples": [
+      [
+        "Blaming one person is a simplistic explanation for the failure.",
+        "把失败全怪在一个人身上，是过分简单化的解释。"
+      ],
+      [
+        "The article rejects a simplistic division between good and bad technology.",
+        "文章反对把技术简单分成好坏两类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simplistic#English"
+    ]
+  },
+  {
+    "word": "simpleton",
+    "ipa": "英 /ˈsɪmpəltən/；美 /ˈsɪmpəltən/",
+    "meaning": "傻瓜；头脑简单的人，贬称",
+    "sense": "把 simple 的头脑简单义变成人物称呼，有瞧不起人的意味。",
+    "split": "simple + 类似人名、姓氏构形的 -ton，形成固定人物称呼。不是 simple + tonne 吨，也不是可自由给所有形容词加的常用人名词规则。",
+    "history": [
+      [
+        "拉丁语 simplex → 古法语 simple → 中古英语 symple",
+        "一重、一层；不复杂"
+      ],
+      [
+        "英语 simple",
+        "简单、朴素、不加修饰；某些语境也可贬称头脑简单"
+      ],
+      [
+        "simple + -ton → simpleton",
+        "头脑简单 → 傻瓜这一贬称"
+      ]
+    ],
+    "explanation": "treat someone like a simpleton 把某人当傻子；小说人物可能这样骂人。不是称赞一个人生活朴素。",
+    "usage": "treat someone like a simpleton；be mistaken for a simpleton。",
+    "contrast": "simpleton 是带贬义的人物名词；a person with simple tastes 是品味朴素，意思完全不同。",
+    "examples": [
+      [
+        "Don’t treat me like a simpleton; I understand the problem.",
+        "别把我当傻子，我明白这个问题。"
+      ],
+      [
+        "The story shows that the supposed simpleton is the wisest person in the village.",
+        "故事说明，那个被认为是傻子的人，其实是村里最有智慧的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simpleton#English"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "C0132",
+    "meaning": "手臂；用臂抱住，或像手臂一样环抱、支撑",
+    "core": "BRACHI：伸出双臂，把东西抱住、撑住",
+    "image": "抱住一个人，是 embrace；像手臂一样撑住东西，是 brace；围在手臂、手腕上的饰物，是 bracelet。",
+    "intro": "较近拉丁 bracchium 手臂、前臂，更早借希腊 brakhion。现代医学组合形式 brachi-、brachio- 直接保留较多字母；日常 brace、embrace、bracelet 经法语变化，字形更短。",
+    "forms": "brace、bracelet、embrace 是同族不同借入形式。bracelet 还有法语小称历史，brace 的固定、支撑义由抱合、握牢等发展；不能把所有 brace 都只译成身体手臂。\n\n历史顺序是法语衣物名 brassière → 英语 brassiere → 缩短 bra → 复数 bras；较远接 bras、bracchium 手臂。\n\n经法语小称材料，较远接拉丁手臂词；不是现代 brace 动词加 let。\n\nembrace 经法语 embracier 含 en- 进入与 braz、brace 手臂，远连拉丁 bracchium、希腊 brakhion。去 e 加完整 -ed，/s/ 后读 /t/，拥抱与接纳义并行。",
+    "branches": [
+      [
+        "抱住、接受",
+        "embrace"
+      ],
+      [
+        "固定、撑住与准备承受",
+        "brace"
+      ],
+      [
+        "相应装置的复数",
+        "braces"
+      ],
+      [
+        "手臂、手腕上的饰物",
+        "bracelet"
+      ],
+      [
+        "bra、bras 与全称 brassiere：日常形式放前面学",
+        "bra · bras · brassiere"
+      ],
+      [
+        "bracelet → bracelets：手臂饰物名称的法语借词",
+        "bracelet · bracelets"
+      ],
+      [
+        "臂弯围住 → embrace → embraced",
+        "embraced"
+      ]
+    ],
+    "contrasts": "brace 支撑、绷紧；embrace 抱住或欣然接受；bracelet 是手链、手镯；braces 常为牙套、背带等，依语境分清。",
+    "practice": "She adjusted her bracelet and braced herself before stepping on stage.\n\n她整了整手链，登台前稳住了自己。",
+    "words": [
+      "brace",
+      "braces",
+      "bracelet",
+      "embrace",
+      "bra",
+      "bras",
+      "brassiere",
+      "bracelets",
+      "embraced"
+    ],
+    "exclude": {
+      "brachial artery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brachiocubital": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

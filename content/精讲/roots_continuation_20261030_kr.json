@@ -1,0 +1,130 @@
+[
+  {
+    "id": "A1942",
+    "meaning": "与动作相关、用于某事或起某作用的形容词、固定名词",
+    "core": "ATORY：先认整词，再判断关系、用途或作用",
+    "image": "exploratory 探索相关，declaratory 宣告相关，respiratory 呼吸相关；inflammatory 看激起情绪或炎症；observatory 是固定场所名。",
+    "intro": "同样结尾不意味着必须同一词性、同一中文后缀。observatory 名词和其他形容词的具体历史、用法需要分别理解。",
+    "forms": "拉丁 -atorius 等 → 英语 -atory；常接动作词干，拼写、词性随整词固定。",
+    "branches": [
+      [
+        "动作相关、用途或作用的性质",
+        "exploratory · declaratory · respiratory · inflammatory"
+      ],
+      [
+        "已经固定的场所名词",
+        "observatory"
+      ]
+    ],
+    "contrasts": "inflammatory 不等于 flammable；observatory 常作名词；-atory 的含义由词干和实际使用确定。",
+    "practice": "The exploratory study examined an inflammatory response.\n\n这项探索性研究考察了一种炎症反应。",
+    "words": [
+      "exploratory",
+      "declaratory",
+      "respiratory",
+      "inflammatory",
+      "observatory"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4230",
+    "meaning": "鼓的节奏、形状与相应角色、队伍",
+    "core": "DRUM：一面是敲击节奏，一面是圆筒外形",
+    "image": "drum → drummer；drumline 集体队列；drumbeat、drumstick、eardrum 各看声音、敲击工具和相似结构。",
+    "intro": "鼓手、鼓队、鼓点、滚筒不必硬背成孤立义项。先找声音、形状、角色中的一层，再接组合。",
+    "forms": "日耳曼鼓词 → drum；-er 人，line 队列，beat 节奏，stick 敲击工具，ear 耳。\n\n日耳曼鼓词具体直接借入或逆构路线有不同分析，声音、形状各自发展。\n\n短元音后单个 m，加 -ed、-ing、-er 都双写；有节奏的重复敲击也能形容雨声、手指和反复教导。",
+    "branches": [
+      [
+        "基础、人物与队伍",
+        "drum · drummer · drumline"
+      ],
+      [
+        "声音、工具与身体结构",
+        "drumbeat · drumstick · eardrum"
+      ],
+      [
+        "drum → drums：鼓、圆筒与敲鼓",
+        "drum · drums"
+      ],
+      [
+        "drum 的敲击、反复灌输及敲鼓的人",
+        "drum · drummed · drumming · drummer · drummers"
+      ]
+    ],
+    "contrasts": "drumline 是队伍，drummer 是人；drums 可说一套鼓；drum up 是招揽等固定用法。",
+    "practice": "The drummer led the drumline through a new drumbeat.\n\n鼓手带鼓队练了一种新鼓点。",
+    "words": [
+      "drum",
+      "drummer",
+      "drumline",
+      "drumbeat",
+      "drumstick",
+      "eardrum",
+      "drums",
+      "drummed",
+      "drumming",
+      "drummers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4416",
+    "meaning": "从相互碰撞到干预，再成为中性的波干涉术语",
+    "core": "INTERFERE：相互作用可妨碍，也能用来测量",
+    "image": "interfere → interference；interferometer 仪器，interferometry 方法；interferon 的名称取干扰病毒复制的相关命名背景。",
+    "intro": "日常语境常不欢迎干预，技术语境的干涉则可被精密利用。相长、相消都属于干涉，不只看成互相挡住。",
+    "forms": "entre- + ferir → interfere；-ence 现象；-o- 连接，-meter 仪器、-metry 测量方法。",
+    "branches": [
+      [
+        "动作与现象",
+        "interfere · interference"
+      ],
+      [
+        "仪器与技术",
+        "interferometer · interferometry"
+      ],
+      [
+        "固定生物学名称",
+        "interferon"
+      ]
+    ],
+    "contrasts": "in、with 搭配看插手领域与影响对象；干涉可相长可相消；-meter 与 -metry 区分仪器和方法。",
+    "practice": "The interferometer uses interference to make precise measurements.\n\n干涉仪利用干涉现象进行精密测量。",
+    "words": [
+      "interfere",
+      "interference",
+      "interferometer",
+      "interferometry",
+      "interferon"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3989",
+    "meaning": "工作、制造者的旧名称，仍在职业复合词中使用",
+    "core": "WRIGHT：做出、造出某物的人",
+    "image": "wright → playwright、millwright。",
+    "intro": "独立词较旧，复合词却实用。写剧本的人拼 playwright，正因它把作品当成精心做出的东西。",
+    "forms": "wyrhta 工作者 → wright；play 剧，mill 磨坊、相关机械。\n\n工匠材料接本族 work、制作的词族，不凭同音把它并成 write。",
+    "branches": [
+      [
+        "制造者与职业组合",
+        "wright · playwright · millwright"
+      ],
+      [
+        "wright 的作品制造者比喻",
+        "playwright · playwrights"
+      ]
+    ],
+    "contrasts": "wright、write、right 同音但来源和拼写不同；playwright 不拼作 playwrite。",
+    "practice": "The playwright described a village wright in her new play.\n\n剧作家在新剧里描写了一名乡村工匠。",
+    "words": [
+      "wright",
+      "playwright",
+      "millwright",
+      "playwrights"
+    ],
+    "exclude": {}
+  }
+]

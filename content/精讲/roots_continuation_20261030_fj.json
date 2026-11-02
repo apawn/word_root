@@ -1,0 +1,139 @@
+[
+  {
+    "id": "B3928",
+    "meaning": "绕个巧弯，可能是诀窍，也可能是欺骗",
+    "core": "TRICK：做法出巧，先看是在帮忙还是在骗人",
+    "image": "trick → tricky、trickery、trickster：事情棘手、行为骗人、人物耍计谋，各有侧重。",
+    "intro": "do the trick 常只是奏效；tricky question 未必有人挖坑；trickery 则较明确带欺骗评价。",
+    "forms": "古北法语 trique 等 → trick；trick + -y / -ery / -ster。\n\n古北法语欺骗词借入，更深来源有不同分析；现代技巧、表演等多支。",
+    "branches": [
+      [
+        "基础与事情性质",
+        "trick · tricky"
+      ],
+      [
+        "欺骗手段与人物",
+        "trickery · trickster"
+      ],
+      [
+        "trick → tricks：骗过判断与巧妙办法",
+        "trick · tricks"
+      ]
+    ],
+    "contrasts": "tricky question/trick question 难答与有意设套；trick/trickery 技巧可中性与欺骗手段。",
+    "practice": "The trickster used trickery to get out of a tricky situation.\n\n那个诡计人物靠骗人的手段摆脱了棘手局面。",
+    "words": [
+      "trick",
+      "tricky",
+      "trickery",
+      "trickster",
+      "tricks"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3615",
+    "meaning": "光让眼睛一亮，才智让头脑一亮",
+    "core": "BRILLIANT：耀眼的光，出色的想法",
+    "image": "brilliant → brilliantly；brilliance 把光彩、才华说成名词。",
+    "intro": "灯光、颜色和智慧共用明亮比喻；口语 Brilliant! 还可只是赞成、说太好了，不是在测智力。",
+    "forms": "brillare → briller、brillant → brilliant；+ -ly → brilliantly；-ant 对应 -ance → brilliance。",
+    "branches": [
+      [
+        "耀眼或杰出的性质",
+        "brilliant"
+      ],
+      [
+        "方式与抽象名词",
+        "brilliantly · brilliance"
+      ]
+    ],
+    "contrasts": "brilliant/flashy 才华出众与表面炫目；brilliant/brilliance 形容词与名词。",
+    "practice": "Her brilliant design worked brilliantly and showed real technical brilliance.\n\n她出色的设计运行得极好，体现了真正的高超技术。",
+    "words": [
+      "brilliant",
+      "brilliantly",
+      "brilliance"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3028",
+    "meaning": "糕饼和饼块形状，比奶油生日蛋糕更宽",
+    "core": "CAKE：一块糕饼，也可是一层结块",
+    "image": "cake → pancake、cupcake、cheesecake、shortcake；cakewalk、beefcake 接特定历史或比喻。",
+    "intro": "组合前半部可能说器具、原料、口感或比喻对象；不能所有带 cake 的词都套进同一张蛋糕食谱。",
+    "forms": "kaka → cake；pan/cup/cheese/short + cake；cake + walk；beef + cake 的现代比喻。\n\n北欧糕饼名称借入，又有团块及附着的动词发展。\n\n中古英语 pan 加 cake，有其他日耳曼语言对应形式的历史背景。\n\ntorta 饼 + 西班牙语小称 -illa → tortilla，经借入英语，复数 tortillas。墨西哥食物语境多是薄饼，西班牙食物语境可指蛋饼，不能由中文单一译名覆盖所有菜名。",
+    "branches": [
+      [
+        "基础与常见糕饼",
+        "cake · pancake · cupcake · cheesecake · shortcake"
+      ],
+      [
+        "特定历史和比喻",
+        "cakewalk · beefcake"
+      ],
+      [
+        "cake → cakes：蛋糕与结块",
+        "cake · cakes"
+      ],
+      [
+        "pancake → pancakes：平锅做的糕饼",
+        "pancake · pancakes"
+      ],
+      [
+        "tortilla：西班牙语小饼名的借用",
+        "tortilla · tortillas"
+      ]
+    ],
+    "contrasts": "pancake 的 pan 锅，不是全；cake 结块义与食品形状相关；cakewalk 的舞蹈历史与轻松比喻分开理解。",
+    "practice": "Making pancakes was a piece of cake after a little practice.\n\n练了几次后，做煎饼就成了小菜一碟。",
+    "words": [
+      "cake",
+      "pancake",
+      "cupcake",
+      "cheesecake",
+      "shortcake",
+      "cakewalk",
+      "beefcake",
+      "cakes",
+      "pancakes",
+      "tortilla",
+      "tortillas"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4263",
+    "meaning": "需要食物的饿，借成强烈想得到",
+    "core": "HUNGER：缺着这一口，所以很想要",
+    "image": "hunger 饥饿、渴求；hungry 描述谁处在这种状态。",
+    "intro": "hunger for knowledge 是求知欲，不是在说知识真能当午餐；抽象渴望借用了身体需要的力度。",
+    "forms": "hungor、hyngran、hungriġ 等旧英语词族 → hunger、hungry；现代 hunger + -y 对应 hungry。\n\n古英语 hungriġ 继承，ng 后 g 保留；现代 y 改 i 加完整比较尾。",
+    "branches": [
+      [
+        "饥饿感与渴求",
+        "hunger"
+      ],
+      [
+        "处于饥饿、渴求状态",
+        "hungry"
+      ],
+      [
+        "hungry → hungrier → hungriest：需要食物、强烈渴求",
+        "hungry · hungrier · hungriest"
+      ]
+    ],
+    "contrasts": "hunger/hungry 名词动词与形容词；hungry/angry 饿与生气；-er 不一定人物后缀。",
+    "practice": "The hungry students satisfied their hunger before returning to class.\n\n饥肠辘辘的学生先填饱肚子，再回教室。",
+    "words": [
+      "hunger",
+      "hungry",
+      "hungrier",
+      "hungriest"
+    ],
+    "exclude": {
+      "anti-hunger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

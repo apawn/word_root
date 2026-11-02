@@ -1,0 +1,235 @@
+[
+  {
+    "word": "county",
+    "ipa": "/ˈkaʊnti/",
+    "meaning": "县；郡〔行政区名称，具体层级依地区〕",
+    "sense": "先想一块划定边界、由地方机构管理的区域。英语国家的 county 制度各不相同，不能把它和中国县制的层级完全画等号。",
+    "split": "中古英语 countee 等经盎格鲁法语、古法语 conté，接拉丁 comitatus 伯爵的管辖区，关联 comes 伯爵这一称号。现代行政区名称延续下来，不要求今天仍由伯爵统治。",
+    "history": [
+      [
+        "拉丁 comitatus → 法语 conté → 中古英语 countee",
+        "伯爵的管辖区域"
+      ],
+      [
+        "现代 county",
+        "沿用的地方行政区名称"
+      ]
+    ],
+    "explanation": "a county boundary 县、郡界；the county council 地方郡议会。count 表伯爵与它有历史关系；count 数数则来自另一条 computare 词源路线。",
+    "usage": "a rural county；county offices。",
+    "contrast": "country 是国家、乡村，county 是一种地方行政区。多一个 r，范围和意思都变了。",
+    "examples": [
+      [
+        "The river forms the boundary between two counties.",
+        "这条河形成了两个县之间的边界。"
+      ],
+      [
+        "The county office is next to the library.",
+        "县政府办公处在图书馆旁边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/county"
+    ]
+  },
+  {
+    "word": "worldwide",
+    "ipa": "英 /ˌwɜːldˈwaɪd/；美 /ˈwɜːrldˌwaɪd/",
+    "meaning": "遍及世界的；在世界各地",
+    "sense": "把地图展开，范围伸到整个世界。它既可以站在名词前说全球性的，也可以站在动词旁说在全球各地。",
+    "split": "world 世界 + -wide 范围遍及……。wide 从宽广的空间关系发展为复合词里覆盖某一整个范围的后部。",
+    "history": [
+      [
+        "world + -wide",
+        "范围铺到全世界"
+      ],
+      [
+        "worldwide 作形容词或副词",
+        "全球性的；在全球各地"
+      ]
+    ],
+    "explanation": "worldwide attention 全球关注；sell worldwide 销往世界各地。具体是否每一国家都有，要看上下文，不靠一个词保证毫无例外。",
+    "usage": "a worldwide audience；available worldwide。",
+    "contrast": "worldwide 已经能作副词，不需要改成 worldwidely；nationwide 则把范围缩到一国之内。",
+    "examples": [
+      [
+        "The exhibition attracted worldwide attention.",
+        "这次展览引起了全球关注。"
+      ],
+      [
+        "The company sells its products worldwide.",
+        "这家公司向世界各地销售产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worldwide#English"
+    ]
+  },
+  {
+    "word": "nationwide",
+    "ipa": "/ˌneɪʃənˈwaɪd/",
+    "meaning": "全国性的；在全国范围内",
+    "sense": "不是只在一座城市试一试，而是把某件事的范围推到整个国家。",
+    "split": "nation 国家、国民整体 + -wide 遍及该范围。整个词既作形容词，也作副词。",
+    "history": [
+      [
+        "nation + -wide",
+        "范围遍及一国"
+      ],
+      [
+        "nationwide",
+        "全国性的；在全国范围内"
+      ]
+    ],
+    "explanation": "a nationwide survey 全国调查；operate nationwide 在全国经营。national 还可以说国家的、民族的等多种关系，nationwide 更明确强调覆盖范围。",
+    "usage": "a nationwide campaign；stores nationwide。",
+    "contrast": "nationwide 与 countrywide 在全国范围义上很接近；countywide 少一个 r，是全县、全郡。",
+    "examples": [
+      [
+        "The researchers carried out a nationwide survey.",
+        "研究人员开展了一次全国调查。"
+      ],
+      [
+        "The service is now available nationwide.",
+        "这项服务现在已覆盖全国。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/nationwide"
+    ]
+  },
+  {
+    "word": "countywide",
+    "ipa": "/ˌkaʊntiˈwaɪd/",
+    "meaning": "全县、全郡范围的；在全县、全郡",
+    "sense": "把县、郡的边界当作这一次的范围：各个镇、村共同参加，而不只是其中一处。",
+    "split": "county 县、郡 + -wide 遍及。拼写里是 county，不能读到一半自行补成 country 国家。",
+    "history": [
+      [
+        "county + -wide",
+        "范围覆盖一个县、郡"
+      ],
+      [
+        "countywide",
+        "全县、全郡范围的或在该范围内"
+      ]
+    ],
+    "explanation": "a countywide event 全县性活动；a countywide transport plan 全县交通计划。是覆盖范围说明，不自动意味着每个人都实际参加。",
+    "usage": "countywide services；a countywide survey。",
+    "contrast": "countywide 全县、全郡；countrywide 全国；worldwide 全球。比较时先盯住前面的完整词基。",
+    "examples": [
+      [
+        "The library organized a countywide reading challenge.",
+        "图书馆组织了一次全县阅读挑战活动。"
+      ],
+      [
+        "The new map shows bus routes countywide.",
+        "新地图显示了全县范围内的公交线路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/countywide#English"
+    ]
+  },
+  {
+    "word": "veracity",
+    "ipa": "/vəˈræsəti/",
+    "meaning": "真实性；诚实、说真话的品性〔较正式〕",
+    "sense": "一份讲述听起来很有道理，还要追问：它究竟和事实对不对得上？这个真实程度就是 veracity。",
+    "split": "经法语 véracité，接中世纪拉丁 veracitas，来自 verax 说真话的，与 verus 真实的相连。现代可与 veracious 对照学习，但不是把这个历史名词说成刚由英语临时造出的词。",
+    "history": [
+      [
+        "拉丁 verus → verax → veracitas；法语 véracité",
+        "真实 → 说真的 → 真实、诚实这种性质"
+      ],
+      [
+        "英语 veracity",
+        "陈述的真实性；人物诚实说真的品性"
+      ]
+    ],
+    "explanation": "the veracity of a claim 一项说法的真实性；question the veracity of an account 质疑叙述是否属实。通常不是日常夸朋友可靠时的首选口语词。",
+    "usage": "check the veracity；doubt someone’s veracity。",
+    "contrast": "credibility 可信度偏向是否值得相信，veracity 偏向是否真实；sincerity 真诚说的是态度，真诚的人也可能记错事实。",
+    "examples": [
+      [
+        "The reporter checked the veracity of the claim.",
+        "记者核实了这一说法的真实性。"
+      ],
+      [
+        "Several details made us question the veracity of his account.",
+        "几个细节让我们怀疑他的叙述是否属实。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/veracity"
+    ]
+  },
+  {
+    "word": "formative",
+    "ipa": "英 /ˈfɔːmətɪv/；美 /ˈfɔːrmətɪv/",
+    "meaning": "有塑造作用的；形成、发展阶段的",
+    "sense": "一块材料还在成形，受到的压力会改变最后的样子。人的经历、教育也会这样塑造习惯、观念，所以 formative years 是对成长影响很大的那些年。",
+    "split": "中古英语经法语 formatif、拉丁 formativus 一路借入，词族连接 formare 塑形。现代对照 form 与 -ative 有助理解，历史上并不只是今天的英语 form 临时加一段字母。",
+    "history": [
+      [
+        "拉丁 formare → formativus；法语 formatif",
+        "赋形、塑造 → 有成形作用的"
+      ],
+      [
+        "英语 formative",
+        "塑造发展的；教育中帮助学习改进的"
+      ]
+    ],
+    "explanation": "a formative experience 塑造一个人的经历；formative assessment 形成性评价，用反馈推动正在进行的学习。它的重点是改进，不只是在结尾报个分数。",
+    "usage": "formative years；a formative influence。",
+    "contrast": "formative 不限幼儿时期，也不只说物体外形。与 summative assessment 对照时看评价目的，不能只凭是否用试卷判断。",
+    "examples": [
+      [
+        "Working in the small theatre was a formative experience for her.",
+        "在那家小剧院工作的经历对她影响很深。"
+      ],
+      [
+        "The teacher used short discussions for formative assessment.",
+        "老师用简短讨论了解学生掌握情况，帮助他们继续改进。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/formative",
+      "https://www.cmu.edu/teaching/assessment/basics/formative-summative.html"
+    ]
+  },
+  {
+    "word": "summative",
+    "ipa": "/ˈsʌmətɪv/",
+    "meaning": "汇总性的；总结评价的",
+    "sense": "把一个阶段学到、做到的东西收拢起来，看看总体到了什么水平。像一个阶段结束时的总盘点。",
+    "split": "sum 总和、汇总这一词基与 -ative 结合，关联 summation 汇总、相加。一般义偏累积、汇总，在教育中常用于阶段学习成果的总结评价。",
+    "history": [
+      [
+        "sum 与 -ative 的组合",
+        "把各部分合起来看"
+      ],
+      [
+        "summative assessment 等用法",
+        "对阶段成果作总结评价"
+      ]
+    ],
+    "explanation": "summative assessment 总结性评价；a summative evaluation 总结评估。它常在单元或阶段末进行；得到的结果仍可用于帮助下一阶段改进。",
+    "usage": "a summative task；a summative assessment。",
+    "contrast": "formative 侧重反馈、帮助过程改进，summative 侧重判断已取得的成果；不是把所有平时活动和所有考试机械分成两类。",
+    "examples": [
+      [
+        "The final project serves as a summative assessment.",
+        "期末项目用来评价这一阶段的学习成果。"
+      ],
+      [
+        "The course combines formative feedback with summative tasks.",
+        "课程把帮助学习改进的反馈与总结评价任务结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/summative",
+      "https://www.cmu.edu/teaching/assessment/basics/formative-summative.html"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B2825",
+    "meaning": "把分散物固定、连接，以及抽象约束",
+    "core": "BIND：连起来，或让对象不能自由脱开",
+    "image": "bind → binding 看约束、装订；binder 看执行者、器具或材料。",
+    "intro": "绳子、书页、土壤与协议之间的联系，是固定、结合、约束的关系，不是都要出现一个绳结。",
+    "forms": "bindan → bind；过去式、分词 bound；-ing 可作性质、过程名词，-er 命名执行者或结合物。\n\nbundle 常接中古荷兰 bondel，也可能和古英语 byndele 合流；与 bind 是旧词族对应。\n\n人物、结合材料也有 binder 用法；办公例句先抓文件夹。\n\n与 bundle 比较聚在一起的画面；bunch 有经法语方言、佛兰德语一捆材料传入的分析，不是现代 bind 或 bundle 自由换字母的派生。",
+    "branches": [
+      [
+        "动作、性质与器具材料",
+        "bind · binding · binder"
+      ],
+      [
+        "bind 与 bundle：绑住，捆成的一份",
+        "bind · bundle · bundles"
+      ],
+      [
+        "binder → binders：把散页固定起来的器具",
+        "bind · binder · binders"
+      ],
+      [
+        "bunch：一束、一串，到挤成一团",
+        "bunch · bunches · bunched · bunching"
+      ]
+    ],
+    "contrasts": "binding 可以是约束性质或书的装订；binder 不总是人物。",
+    "practice": "The binder holds the pages together, while the binding keeps the book intact.\n\n活页夹固定散页，书的装订则让整本书保持完整。",
+    "words": [
+      "bind",
+      "binding",
+      "binder",
+      "bundle",
+      "bundles",
+      "binders",
+      "bunch",
+      "bunches",
+      "bunched",
+      "bunching"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4110",
+    "meaning": "值得、相称、合格的评价，以及否定和性质名词",
+    "core": "WORTHY：值得什么、符合什么标准，关系要说清",
+    "image": "worthy → unworthy；worthy → worthiness。",
+    "intro": "不要把一个具体用途、奖项或行为的评价扩大成一个人的全部价值。实际搭配会说明比较标准。",
+    "forms": "worth + -y → worthy；un- 否定；加 -ness 时 y 变 i。",
+    "branches": [
+      [
+        "性质、否定与名词",
+        "worthy · unworthy · worthiness"
+      ]
+    ],
+    "contrasts": "unworthy of 是相对于某项标准；worthiness 不简单等于金钱价格。",
+    "practice": "The panel discussed whether the project was worthy of support and how to assess its worthiness.\n\n评审组讨论项目是否值得支持，以及如何评估。",
+    "words": [
+      "worthy",
+      "unworthy",
+      "worthiness"
+    ],
+    "exclude": {
+      "love-worthiness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2925",
+    "meaning": "刷具、刷动与电刷；另有灌丛相关词义和组合",
+    "core": "BRUSH：先分刷具与灌丛，再看前半对象和后缀",
+    "image": "toothbrush、paintbrush、hairbrush 看用途；brushless 接电刷；underbrush、sagebrush 接灌丛。",
+    "intro": "同一拼写在工具与植被两路都常用，来源有联系分析，但现代不能逐词混译。",
+    "forms": "法语 broisse／brosse 刷具与 broce 等灌丛形式进入英语；-less 表没有，under- 表位置，具体植物名还可借相似外观。\n\n整个复合词加 es，sh 后复数读 iz。\n\nsh 后加 es，复数读 iz。",
+    "branches": [
+      [
+        "刷具、用法与设计",
+        "brush · toothbrush · paintbrush · hairbrush · airbrush · brushwork · brushless"
+      ],
+      [
+        "植被名称",
+        "underbrush · sagebrush"
+      ],
+      [
+        "hairbrush → hairbrushes：梳理头发的刷子",
+        "brush · hairbrush · hairbrushes"
+      ],
+      [
+        "toothbrush → toothbrushes：牙齿用途的刷子",
+        "brush · toothbrush · toothbrushes"
+      ]
+    ],
+    "contrasts": "brushless 说电刷，不是从来不清扫；sagebrush 通常不是烹饪的 sage。",
+    "practice": "The guide used a small brush to remove dust from a sign beside the sagebrush.\n\n向导用小刷子掸掉蒿灌木旁标牌上的灰尘。",
+    "words": [
+      "brush",
+      "toothbrush",
+      "paintbrush",
+      "hairbrush",
+      "airbrush",
+      "brushwork",
+      "brushless",
+      "underbrush",
+      "sagebrush",
+      "hairbrushes",
+      "toothbrushes"
+    ],
+    "exclude": {
+      "brush-turkey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brushy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

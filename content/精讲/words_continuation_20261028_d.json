@@ -1,0 +1,1278 @@
+[
+  {
+    "word": "real",
+    "ipa": "/ˈrɪəl/",
+    "meaning": "真实的；实际的；真正的",
+    "sense": "屏幕上是一座画出来的房子，眼前这座能走进去的，才是 a real house。",
+    "split": "借古法语 reel，源于晚期拉丁 reālis“实际的”，再接拉丁 rēs“事物”。real 里的 re- 不是表示“再次”的现代前缀。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ]
+    ],
+    "explanation": "real 可以排除假冒，也可以强调实际影响：a real problem 是需要认真处理的问题。real estate 是房地产的固定说法；real income 则常说扣除价格变化影响后的实际收入。",
+    "usage": "real life；a real problem；the real reason；real estate。",
+    "contrast": "real 强调确实存在或名副其实；true 更常判断说法是否符合事实。a real story 需看语境，a true story 明确说故事确有其事。",
+    "examples": [
+      [
+        "Is this a real diamond?",
+        "这是真钻石吗？"
+      ],
+      [
+        "The real problem is that nobody knows who is responsible.",
+        "真正的问题是没人知道谁负责。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/real#English"
+    ]
+  },
+  {
+    "word": "really",
+    "ipa": "/ˈrɪəli/",
+    "meaning": "真的；实际上；很、非常",
+    "sense": "先确认“这是真的”，再把这个肯定的劲头用来加强语气。",
+    "split": "real + -ly，-ly 形成副词；中古英语已有对应形式。这里后缀表示副词用法，不表示“小”或“可爱”。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ],
+      [
+        "英语 real + -ly → really",
+        "真实地 → 确实、很"
+      ]
+    ],
+    "explanation": "Did it really happen? 询问是否真发生；really useful 是很有用。Really? 单独问可表示惊讶或怀疑，语调决定态度。not really 通常是委婉的“不太是”。",
+    "usage": "really want；really useful；not really；Really?。",
+    "contrast": "really 修饰形容词时常近似 very，但 really 可以修饰动词：I really like it；不能照搬成 I very like it。",
+    "examples": [
+      [
+        "Do you really want to leave now?",
+        "你真的想现在离开吗？"
+      ],
+      [
+        "The map was really helpful.",
+        "这张地图很有帮助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/really#English"
+    ]
+  },
+  {
+    "word": "reality",
+    "ipa": "英 /riˈæləti/；美 /riˈæləti/",
+    "meaning": "现实；实际情况",
+    "sense": "脑中设想是一回事，真正过起来、发生出来的那一面是 reality。",
+    "split": "现代对应 real + -ity；-ity 表性质、状态。历史经法语 réalité 上接中世纪拉丁 reālitās，早期还有财产相关义，不应只画成英语 real 新加后缀。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "中世纪拉丁 reālitās → 法语 réalité",
+        "实际存在、实在性的相应名词"
+      ],
+      [
+        "英语 reality",
+        "现实；实际情况"
+      ]
+    ],
+    "explanation": "in reality 把实际情况与表面印象拉开；face reality 是接受现实。a reality 可数时，常说一种已经存在的事实或情况。virtual reality 是虚拟现实这一技术名称。",
+    "usage": "in reality；face reality；become a reality；virtual reality。",
+    "contrast": "reality 是实际状态，realism 是正视现实的态度或写实风格；两个名词不能只按中文的“现实”互换。",
+    "examples": [
+      [
+        "The job looked easy, but in reality it required years of practice.",
+        "这份工作看着容易，实际上需要多年的练习。"
+      ],
+      [
+        "Their idea has finally become a reality.",
+        "他们的想法终于变成了现实。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reality#English"
+    ]
+  },
+  {
+    "word": "realize",
+    "ipa": "/ˈrɪəlaɪz/",
+    "meaning": "意识到；实现；变现",
+    "sense": "原来模糊的事忽然在脑中“成了真的”：啊，原来是这样。也可以把计划真正做出来。",
+    "split": "real + -ize，-ize 常表示使成为或进入某种状态；形成与法语 réaliser 等相应形式有联系。不能把所有义项都死译为“使真实”。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ],
+      [
+        "real + -ize；与法语 réaliser 等对应",
+        "使成实际；使头脑清楚认识"
+      ],
+      [
+        "英语 realize",
+        "意识到；实现；把资产变成现金"
+      ]
+    ],
+    "explanation": "realize that 通常是意识到某事；realize a dream 是实现梦想。金融语境 realize a gain 表把账面收益变成已实现收益，realize assets 可指变现。",
+    "usage": "realize that；realize how；realize a dream；realize a gain。",
+    "contrast": "realize 常有此前没明白、现在明白了的转折；know 只说知道。I realized I was wrong 比 I knew I was wrong 多了认识发生变化的感觉。",
+    "examples": [
+      [
+        "I suddenly realized that I had left my keys at home.",
+        "我突然意识到钥匙落在家里了。"
+      ],
+      [
+        "She worked for years to realize her dream of opening a bakery.",
+        "她努力多年，实现了开一家面包店的梦想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/realize#English"
+    ]
+  },
+  {
+    "word": "realise",
+    "ipa": "/ˈrɪəlaɪz/",
+    "meaning": "意识到；实现〔realize 的常见英式拼写〕",
+    "sense": "看到 s 不必重新猜义，它和 realize 是同一个常用动词的两种拼写。",
+    "split": "real + -ise；-ise 与 -ize 是这一类动词的拼写变体。法语 réaliser 也是相关形式；这里不是再接一个独立词 ise。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ],
+      [
+        "real + -ise → realise",
+        "与 realize 对应的拼写形式"
+      ]
+    ],
+    "explanation": "realise 常用于英式英语，realize 在美式普遍，也用于部分英式编辑规范。两者用法和读音基本相同，一篇文章里保持所选拼写习惯即可。",
+    "usage": "realise that；realise the importance；realise an ambition。",
+    "contrast": "realise 和 release“释放”拼写相近，但词源和含义不同；意识到错误用 realise a mistake，不能写 release a mistake。",
+    "examples": [
+      [
+        "I did not realise how late it was.",
+        "我没意识到已经这么晚了。"
+      ],
+      [
+        "The project helped her realise a long-held ambition.",
+        "这个项目帮助她实现了长久以来的抱负。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/realise#English"
+    ]
+  },
+  {
+    "word": "realism",
+    "ipa": "/ˈrɪəlɪzəm/",
+    "meaning": "现实态度；现实主义；写实风格",
+    "sense": "画人时连皱纹也画出来，做计划时连预算不够也承认：先照着实际情况看。",
+    "split": "real + -ism；-ism 常形成立场、思想或风格名词。不同学科对 realism 有专门定义，不能由词尾推成同一种理论。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ],
+      [
+        "real + -ism → realism",
+        "现实取向；写实或现实主义"
+      ]
+    ],
+    "explanation": "日常说 a sense of realism，是对条件和困难有现实判断。文学、艺术中可说写实；哲学、国际关系中的 realism 要按学科理解。",
+    "usage": "a sense of realism；literary realism；the realism of the painting。",
+    "contrast": "realism 不自动等于 pessimism 悲观：承认困难后仍可行动。realism 是态度或风格，reality 是实际情况。",
+    "examples": [
+      [
+        "We need a little more realism about the cost.",
+        "我们需要更现实地看待费用。"
+      ],
+      [
+        "The film combines fantasy with moments of striking realism.",
+        "影片把幻想与一些非常写实的片段结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/realism#English"
+    ]
+  },
+  {
+    "word": "realist",
+    "ipa": "/ˈrɪəlɪst/",
+    "meaning": "现实的人；现实主义者；写实主义者",
+    "sense": "讨论计划时，总有人追问“钱从哪来、时间够不够”，这样的人可说 a realist。",
+    "split": "real + -ist，-ist 表持某种立场或从事某类活动的人；可与 realism 对照，但不据此断言所有学科名称的借入先后。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ],
+      [
+        "real + -ist → realist",
+        "按现实判断的人；特定现实主义的主张者"
+      ]
+    ],
+    "explanation": "I am a realist 常用来说明自己重视实际条件。an artistic realist 可说写实派人物；作修饰语时如 realist fiction 是现实主义小说。",
+    "usage": "a political realist；a realist approach；be a realist。",
+    "contrast": "realist 不等于 real person“真实存在的人”；这里 -ist 说的是立场或风格。",
+    "examples": [
+      [
+        "I am a realist: we cannot finish this with only two people.",
+        "我是个讲实际的人：只有两个人做不完这些。"
+      ],
+      [
+        "The novelist is often described as a social realist.",
+        "这位小说家常被称为社会现实主义作家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/realist#English"
+    ]
+  },
+  {
+    "word": "unreal",
+    "ipa": "/ʌnˈrɪəl/",
+    "meaning": "不真实的；恍如梦中的；惊人的〔口语〕",
+    "sense": "一切发生得太顺、太奇怪，像梦里的一幕，令人难以相信。",
+    "split": "un-（不）+ real（真实的）。un- 否定整个形容词，不是把单词拆成 u + nreal。",
+    "history": [
+      [
+        "拉丁 rēs → 晚期拉丁 reālis",
+        "事物 → 实际的"
+      ],
+      [
+        "古法语 reel → 英语 real",
+        "真实的、实际存在的"
+      ],
+      [
+        "un- + real → unreal",
+        "不真实；像不真实一样令人惊讶"
+      ]
+    ],
+    "explanation": "可用于虚构环境，也可描述真实经历带来的梦幻感。口语 That goal was unreal! 可能在夸进球惊人，并非说根本没进。",
+    "usage": "an unreal atmosphere；feel unreal；an unreal experience。",
+    "contrast": "unreal 说不真实或难以置信；unrealistic 更直接批评设想不切实际。unreal 的夸赞语气不能套到所有句子。",
+    "examples": [
+      [
+        "After so many years, seeing him again felt unreal.",
+        "过了这么多年再次见到他，感觉像做梦一样。"
+      ],
+      [
+        "The game creates a beautiful but unreal landscape.",
+        "游戏创造了美丽却不真实的景观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unreal#English"
+    ]
+  },
+  {
+    "word": "surreal",
+    "ipa": "/səˈrɪəl/",
+    "meaning": "超现实的；梦境般荒诞的",
+    "sense": "普通房间里站着一只穿西装的大鱼：东西都认得，组合起来却像梦。",
+    "split": "由 surrealism 逆构缩短而来，联系法语 surréalisme“超现实主义”；可用 sur- 超出 + real 真实理解材料，但英语较短的 surreal 不是必然先于 surrealism。",
+    "history": [
+      [
+        "法语 sur- + réalisme → surréalisme",
+        "超出通常现实的艺术命名"
+      ],
+      [
+        "英语 surrealism → surreal",
+        "由流派名称逆构，形容梦境般不合常理的感觉"
+      ]
+    ],
+    "explanation": "最初关联艺术流派，后来日常用来形容奇异、不像现实的经历；真实发生的事情也可以 feel surreal。不是每件奇怪的事都属于严格的超现实主义作品。",
+    "usage": "a surreal scene；a surreal experience；feel completely surreal。",
+    "contrast": "unreal 可泛说不真实或太惊人，surreal 更容易让人想到梦中那种熟悉元素之间不合常理的组合。",
+    "examples": [
+      [
+        "The empty airport at noon was a surreal sight.",
+        "中午空无一人的机场景象让人觉得像在梦里。"
+      ],
+      [
+        "It felt surreal to hear my own name announced on stage.",
+        "听到台上宣布自己的名字，感觉很不真实。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surreal#English"
+    ]
+  },
+  {
+    "word": "come",
+    "ipa": "/kʌm/",
+    "meaning": "来；来到；出现；达到",
+    "sense": "把位置想在说话者或指定目的地：人和事情正在朝这里靠近。",
+    "split": "由古英语 cuman 经中古英语 comen 延续，属于日耳曼语本族词；过去式 came、过去分词 come，不按普通动词一律加 -ed。",
+    "history": [
+      [
+        "古英语 cuman → 中古英语 comen",
+        "来到、到达"
+      ],
+      [
+        "英语 come",
+        "来；到达；发生"
+      ]
+    ],
+    "explanation": "Come here 是来到这里；come to an agreement 是达到共识；The answer came to me 是答案浮现在脑中。强调接近的参照点可以是说话者、听话者或约定地点。",
+    "usage": "come home；come from；come true；come to an agreement。",
+    "contrast": "come 朝语境中的中心走，go 往另一处走。电话里说 I’m coming 可以是朝听话者那里去，不能机械按中文“去”就用 go。",
+    "examples": [
+      [
+        "Can you come to my office after lunch?",
+        "午饭后你能来我办公室吗？"
+      ],
+      [
+        "The two sides finally came to an agreement.",
+        "双方终于达成了协议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/come#English"
+    ]
+  },
+  {
+    "word": "become",
+    "ipa": "/bɪˈkʌm/",
+    "meaning": "变成；成为；适合〔较正式〕",
+    "sense": "不仅走到一个地点，还进入一种新身份或状态：从学生成为老师。",
+    "split": "古英语 becuman 是 be- 与 cuman 的旧组合，原有到达、发生、适合等义，后来发展出现代“成为”。be- 这里不等于现代独立动词 be。",
+    "history": [
+      [
+        "古英语 cuman → 中古英语 comen",
+        "来到、到达"
+      ],
+      [
+        "古英语 becuman → 中古英语 becomen",
+        "来到、到达；适合"
+      ],
+      [
+        "英语 become",
+        "进入某种状态、成为"
+      ]
+    ],
+    "explanation": "become + 名词或形容词，如 become a doctor、become quiet。That colour becomes you 是较正式的“那个颜色很衬你”，不能按“你变成颜色”理解。",
+    "usage": "become clear；become aware of；become a member；become ill。",
+    "contrast": "be 表示已经处在状态，become 强调转入状态。He is angry 是他生气；He became angry 是他开始变得生气。",
+    "examples": [
+      [
+        "The reason became clear when we checked the records.",
+        "我们查过记录后，原因变清楚了。"
+      ],
+      [
+        "She became a teacher after working as an engineer.",
+        "她当过工程师，后来成为了教师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/become#English"
+    ]
+  },
+  {
+    "word": "coming",
+    "ipa": "/ˈkʌmɪŋ/",
+    "meaning": "即将到来的；来临；come 的 -ing 形式",
+    "sense": "日历上一页还没翻过来，但那一天已经在朝你走近。",
+    "split": "come 去词末不发音 e 加 -ing；古英语及中古英语已有相应分词形式，现代形容词和名词用法接此发展。",
+    "history": [
+      [
+        "古英语 cuman → 中古英语 comen",
+        "来到、到达"
+      ],
+      [
+        "英语 come",
+        "来；到达；发生"
+      ],
+      [
+        "come + -ing → coming",
+        "正在来；即将到来；来临"
+      ]
+    ],
+    "explanation": "the coming week 是接下来的一周；the coming of spring 是春天的到来；I’m coming 是我来了。并不是看到 -ing 都必须翻成“正在”。",
+    "usage": "the coming year；in the coming weeks；the coming of spring。",
+    "contrast": "coming 在时间名词前说即将到来；upcoming 也常如此。a coming event 不是某件事情在物理空间里走动。",
+    "examples": [
+      [
+        "We will discuss the budget in the coming weeks.",
+        "我们会在接下来的几周讨论预算。"
+      ],
+      [
+        "The coming of spring brought warmer days.",
+        "春天来临，天气暖和起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coming#English"
+    ]
+  },
+  {
+    "word": "income",
+    "ipa": "/ˈɪnkʌm/",
+    "meaning": "收入",
+    "sense": "想象一个家庭的账本：每月不断流进来的钱，就是 income。",
+    "split": "由中古英语 income 延续，可能承接古英语 incyme“进入”；对应 in-（向内）+ come。现代收入义从进来的东西、收益发展。",
+    "history": [
+      [
+        "中古英语 income；可能承接古英语 incyme",
+        "进入、进来的事物"
+      ],
+      [
+        "英语 income",
+        "流入的收益 → 收入"
+      ]
+    ],
+    "explanation": "可说工资、租金等收入，通常作不可数名词。income 并不自动等于花完费用后剩下的净利润；谈具体统计需看 gross、net 等限定。",
+    "usage": "annual income；a source of income；a low income；income tax。",
+    "contrast": "income 是收入，salary 是雇员的固定工资，profit 是收益减去相应成本后的利润；同一笔钱的观察角度不同。",
+    "examples": [
+      [
+        "Rent is her main source of income.",
+        "租金是她的主要收入来源。"
+      ],
+      [
+        "The family spends nearly half its income on housing.",
+        "这一家把将近一半的收入花在住房上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/income#English"
+    ]
+  },
+  {
+    "word": "comer",
+    "ipa": "英 /ˈkʌmə/；美 /ˈkʌmər/",
+    "meaning": "来的人；有发展前景的人",
+    "sense": "走进门来的人是 comer；在竞争里刚冒出头、很有潜力的人也能这样叫。",
+    "split": "come + -er，-er 表执行动作的人；中古英语已有 comere。现代常出现在 all comers、newcomer 等表达中。",
+    "history": [
+      [
+        "古英语 cuman → 中古英语 comen",
+        "来到、到达"
+      ],
+      [
+        "英语 come",
+        "来；到达；发生"
+      ],
+      [
+        "come + -er → comer",
+        "到来的人；后来也说前景看好者"
+      ]
+    ],
+    "explanation": "all comers 是所有前来的人，不论背景。a comer 表有前途者较带口语或体育色彩，普通介绍新同事更常用 newcomer。",
+    "usage": "all comers；open to all comers；a promising comer。",
+    "contrast": "comer 不等于所有语境的 visitor；访客是按访问身份称呼，comer 主要按“来到”这个动作称呼。",
+    "examples": [
+      [
+        "The race is open to all comers.",
+        "这场比赛任何人都可以报名参加。"
+      ],
+      [
+        "The young player was already being described as a comer.",
+        "这名年轻球员已经被视为很有前途的新秀。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/comer#English"
+    ]
+  },
+  {
+    "word": "need",
+    "ipa": "/niːd/",
+    "meaning": "需要；必要；需求",
+    "sense": "缺了这件东西，事情就办不成；need 指向这个缺口。",
+    "split": "中古英语合流了古英语表示必要的 nīed／nēd 与表示欲求的 nēod 等形式。现代 need 可作名词、普通动词，也有情态用法。",
+    "history": [
+      [
+        "古英语 nīed／nēd；nēod",
+        "必要、迫切需要；欲求"
+      ],
+      [
+        "中古英语 nede → 英语 need",
+        "需要；有必要"
+      ]
+    ],
+    "explanation": "I need help 是需要帮助，You need to rest 是有必要休息。needn’t 表没有必要；名词 in need 是处于困境、需要帮助。",
+    "usage": "need to do；need help；meet a need；in need。",
+    "contrast": "needn’t go 是不必去，mustn’t go 是禁止去。need 强调必要，want 常只是想要；二者在实际对话里也可重叠。",
+    "examples": [
+      [
+        "You need to save the file before closing it.",
+        "关闭文件前你需要先保存。"
+      ],
+      [
+        "The charity supports families in need.",
+        "这家慈善机构帮助有困难的家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/need#English"
+    ]
+  },
+  {
+    "word": "needed",
+    "ipa": "/ˈniːdɪd/",
+    "meaning": "需要的；need 的过去式、过去分词",
+    "sense": "缺口已经明确，正好能填这个缺口的东西就是 needed。",
+    "split": "need + -ed；词末 /d/ 后的 -ed 读 /ɪd/，因此 needed 是两个音节。过去分词可用于被动，也可修饰名词。",
+    "history": [
+      [
+        "古英语 nīed／nēd；nēod",
+        "必要、迫切需要；欲求"
+      ],
+      [
+        "中古英语 nede → 英语 need",
+        "需要；有必要"
+      ],
+      [
+        "need + -ed → needed",
+        "过去需要；被需要；所需的"
+      ]
+    ],
+    "explanation": "Help is needed 是现在需要帮助，不因 needed 有 -ed 就成了过去。We needed help 才由过去式说明当时需要。much-needed 常作带连字符修饰语。",
+    "usage": "the information needed；help is needed；more time was needed。",
+    "contrast": "needed 是否有过去时间，要看整个结构。is needed 是现在时的被动；was needed 才把需要放到过去。",
+    "examples": [
+      [
+        "No special equipment is needed.",
+        "不需要特殊设备。"
+      ],
+      [
+        "We needed more time to check the results.",
+        "我们当时需要更多时间检查结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needed#English"
+    ]
+  },
+  {
+    "word": "needless",
+    "ipa": "/ˈniːdləs/",
+    "meaning": "不必要的；无谓的",
+    "sense": "这段麻烦原本可以省掉，做了也没带来必要的好处。",
+    "split": "need + -less，-less 表没有；对应“没有必要”。中古英语已有同族形式，不是针 needle 的派生。",
+    "history": [
+      [
+        "古英语 nīed／nēd；nēod",
+        "必要、迫切需要；欲求"
+      ],
+      [
+        "中古英语 nede → 英语 need",
+        "需要；有必要"
+      ],
+      [
+        "need + -less → needless",
+        "没有必要的 → 多余、无谓的"
+      ]
+    ],
+    "explanation": "needless worry 是无谓的担心。Needless to say 是不用说、显然；它常用来引出听者大概已能猜到的结果。",
+    "usage": "needless delay；needless expense；needless to say。",
+    "contrast": "needless 常评价某事本可避免；unneeded 直接说没有被需要。needless 不是“没有针”。",
+    "examples": [
+      [
+        "A clear checklist can prevent needless delays.",
+        "清楚的检查清单可以避免不必要的延误。"
+      ],
+      [
+        "Needless to say, everyone was relieved when the child was found.",
+        "不用说，找到孩子后大家都松了口气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needless#English"
+    ]
+  },
+  {
+    "word": "needy",
+    "ipa": "/ˈniːdi/",
+    "meaning": "贫困的；过分需要关注的",
+    "sense": "一面是缺少生活必需品，一面是心里总觉得缺关爱，需要别人不断回应。",
+    "split": "接中古英语 nedy、古英语 nēdiġ 等形式；现代可对应 need + -y，-y 表带有这种性质。历史并非从现代英语才第一次造出。",
+    "history": [
+      [
+        "古英语 nīed／nēd；nēod",
+        "必要、迫切需要；欲求"
+      ],
+      [
+        "古英语 nēdiġ → 中古英语 nedy",
+        "处于需要、匮乏之中"
+      ],
+      [
+        "英语 needy",
+        "贫困的；情感上过度依赖关注的"
+      ]
+    ],
+    "explanation": "needy families 是生活贫困的家庭；a needy partner 可带负面评价，说伴侣不断索取关注。后一个意思并不说明这个人经济贫困。",
+    "usage": "needy families；the needy；emotionally needy。",
+    "contrast": "needy 描述匮乏或依赖，needed 表别人需要它。a needy person 和 a needed person 的方向正好不同。",
+    "examples": [
+      [
+        "The programme provides meals for needy families.",
+        "这个项目给贫困家庭提供餐食。"
+      ],
+      [
+        "He worried that asking for constant reassurance made him seem needy.",
+        "他担心不断要求安慰会显得过度依赖别人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needy#English"
+    ]
+  },
+  {
+    "word": "needful",
+    "ipa": "/ˈniːdfəl/",
+    "meaning": "必要的；所需的〔较正式或旧式〕",
+    "sense": "把当下确实该做、该有的那一部分挑出来。",
+    "split": "接古英语 nēodful 与中古英语 needeful；可对应 need + -ful。-ful 在此表示与需要有关、必要，不是“需要装得很满”。",
+    "history": [
+      [
+        "古英语 nīed／nēd；nēod",
+        "必要、迫切需要；欲求"
+      ],
+      [
+        "古英语 nēodful → 英语 needful",
+        "必要的；需要的"
+      ]
+    ],
+    "explanation": "现代通常用 necessary 或 needed 更自然。do the needful 在部分地区英语、尤其南亚商务英语中表示办理所需事项，跨地区沟通时写清具体动作更明确。",
+    "usage": "what is needful；needful information；do the needful。",
+    "contrast": "needful 不等于 needy；前者通常说事情必要，后者可说人贫困或过分依赖关注。",
+    "examples": [
+      [
+        "She supplied all that was needful for the journey.",
+        "她提供了旅途所需的一切。"
+      ],
+      [
+        "The older letter asks the clerk to do the needful.",
+        "这封旧信请办事员办理必要事项。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needful#English"
+    ]
+  },
+  {
+    "word": "love",
+    "ipa": "/lʌv/",
+    "meaning": "爱；喜爱；爱好",
+    "sense": "一个人或一件事让你愿意亲近、关心、反复回去。",
+    "split": "名词接古英语 lufu，动词接 lufian，经中古英语延续。是日耳曼语本族词，不需硬拆成更小的现代英语片段。",
+    "history": [
+      [
+        "古英语 lufu；lufian",
+        "爱；爱、喜爱这一动作"
+      ],
+      [
+        "中古英语 love → 英语 love",
+        "爱；喜爱；亲爱之情"
+      ]
+    ],
+    "explanation": "love a person 可以是家人、朋友或恋人之爱；love reading 是非常喜欢阅读。I’d love to 是很愿意。体育计分的 love 有“零分”用法，命名的更远解释存在争论，不借此反推爱情义。",
+    "usage": "fall in love；love doing something；I’d love to；with love。",
+    "contrast": "love 的分量由关系和语境决定：I love this soup 是夸汤好喝，不是表白；like 通常更轻一些。",
+    "examples": [
+      [
+        "I love the way she tells stories.",
+        "我很喜欢她讲故事的方式。"
+      ],
+      [
+        "He shows his love by making time for his family.",
+        "他通过抽时间陪家人表达爱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/love#English"
+    ]
+  },
+  {
+    "word": "loved",
+    "ipa": "/lʌvd/",
+    "meaning": "被爱的；love 的过去式、过去分词",
+    "sense": "爱落在这个人身上：他知道自己被关心、被珍惜。",
+    "split": "love 加 -d；过去式与分词接续古英语相应动词形式。结尾读 /vd/，-ed 不另外增加一个音节。",
+    "history": [
+      [
+        "古英语 lufu；lufian",
+        "爱；爱、喜爱这一动作"
+      ],
+      [
+        "中古英语 love → 英语 love",
+        "爱；喜爱；亲爱之情"
+      ],
+      [
+        "love + -ed → loved",
+        "曾喜爱；被爱、受喜爱的"
+      ]
+    ],
+    "explanation": "She loved it 是她当时很喜欢；She felt loved 是她感到自己被爱。a loved one 常指亲人或挚爱之人，复数 loved ones 很常见。",
+    "usage": "feel loved；a loved one；loved ones。",
+    "contrast": "loved 关注爱已经落在对象身上，lovable 关注这个对象讨人喜欢、值得爱，不保证事实上有谁爱他。",
+    "examples": [
+      [
+        "Every child deserves to feel loved.",
+        "每个孩子都值得感受到爱。"
+      ],
+      [
+        "She called her loved ones as soon as she arrived.",
+        "她一到就给亲人打了电话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loved#English"
+    ]
+  },
+  {
+    "word": "lovely",
+    "ipa": "/ˈlʌvli/",
+    "meaning": "可爱的；美好的；令人愉快的",
+    "sense": "天气、笑容或一顿饭，让你看见就觉得舒服、喜欢。",
+    "split": "接古英语 luflīċ，经中古英语延续；现代对应 love + -ly。这里 -ly 是形容词构词材料，不把 lovely 当成修饰动作的普通副词。",
+    "history": [
+      [
+        "古英语 lufu；lufian",
+        "爱；爱、喜爱这一动作"
+      ],
+      [
+        "古英语 luflīċ → 英语 lovely",
+        "惹人喜爱的 → 美好、令人愉快的"
+      ]
+    ],
+    "explanation": "a lovely day 可说天气或一天过得好；That’s lovely 常是温暖的赞许。英式口语尤其常见，也可夸人的态度亲切。",
+    "usage": "a lovely smile；a lovely day；lovely to meet you。",
+    "contrast": "lovely 是形容词：She has a lovely voice；不能用 She sings lovely 代替标准的 She sings beautifully。",
+    "examples": [
+      [
+        "We had a lovely evening by the river.",
+        "我们在河边度过了一个愉快的夜晚。"
+      ],
+      [
+        "It was lovely to see you again.",
+        "再次见到你真高兴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lovely#English"
+    ]
+  },
+  {
+    "word": "lover",
+    "ipa": "英 /ˈlʌvə/；美 /ˈlʌvər/",
+    "meaning": "恋人；情人；爱好者",
+    "sense": "有人把心放在某个人身上，也有人把热情放在书、音乐或自然上。",
+    "split": "love + -er，-er 表做某事的人；中古英语已有相应形式。具体是哪种爱，由前后搭配说明。",
+    "history": [
+      [
+        "古英语 lufu；lufian",
+        "爱；爱、喜爱这一动作"
+      ],
+      [
+        "中古英语 love → 英语 love",
+        "爱；喜爱；亲爱之情"
+      ],
+      [
+        "love + -er → lover",
+        "爱某人或某事的人"
+      ]
+    ],
+    "explanation": "a music lover 是音乐爱好者；his lover 则通常有恋爱、亲密关系意味，某些语境还暗示婚外情。介绍普通朋友不宜随便叫 my lover。",
+    "usage": "a book lover；nature lovers；former lovers。",
+    "contrast": "lover 单独谈人与人关系时比 fan 强得多；a coffee lover 却只是咖啡爱好者。",
+    "examples": [
+      [
+        "The town is popular with nature lovers.",
+        "这个小镇很受自然爱好者欢迎。"
+      ],
+      [
+        "The novel follows two lovers separated by war.",
+        "小说讲述两个因战争分离的恋人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lover#English"
+    ]
+  },
+  {
+    "word": "lovable",
+    "ipa": "/ˈlʌvəbəl/",
+    "meaning": "惹人喜爱的；可爱的",
+    "sense": "也许有点笨拙或淘气，却让人忍不住喜欢、愿意包容。",
+    "split": "love + -able；-able 表可被、值得，词末 e 常在此拼写中省去。也见 loveable，不能以为这两种拼写指不同性格。",
+    "history": [
+      [
+        "古英语 lufu；lufian",
+        "爱；爱、喜爱这一动作"
+      ],
+      [
+        "中古英语 love → 英语 love",
+        "爱；喜爱；亲爱之情"
+      ],
+      [
+        "love + -able → lovable",
+        "值得爱、容易让人喜爱的"
+      ]
+    ],
+    "explanation": "常用于人、动物或角色：a lovable character 不一定完美，可能缺点恰好增加亲切感。比 lovely 更突出对象让人产生喜爱之情。",
+    "usage": "a lovable child；a lovable character；a lovable rogue。",
+    "contrast": "lovable 是容易让人爱，loving 是主动给予爱。a loving parent 是充满关爱的家长，不只说他可爱。",
+    "examples": [
+      [
+        "The dog is noisy but very lovable.",
+        "这只狗虽然吵，却非常讨人喜欢。"
+      ],
+      [
+        "The actor turned a minor role into a lovable character.",
+        "这位演员把一个小角色演得很惹人喜爱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lovable#English"
+    ]
+  },
+  {
+    "word": "loveless",
+    "ipa": "/ˈlʌvləs/",
+    "meaning": "缺乏爱的；没有爱情的",
+    "sense": "两个人还坐在同一张餐桌旁，关心和亲近却已经不在了。",
+    "split": "love + -less；-less 表缺少。中古英语已有相应形式；这里否定的是爱，不是“被爱次数少”。",
+    "history": [
+      [
+        "古英语 lufu；lufian",
+        "爱；爱、喜爱这一动作"
+      ],
+      [
+        "中古英语 love → 英语 love",
+        "爱；喜爱；亲爱之情"
+      ],
+      [
+        "love + -less → loveless",
+        "缺少爱或爱情的"
+      ]
+    ],
+    "explanation": "a loveless marriage 常说婚姻形式仍在，却缺乏爱情；a loveless childhood 可说缺少关爱的童年。关系是否真实存在，与其中有没有温情是两件事。",
+    "usage": "a loveless marriage；a loveless relationship；a loveless childhood。",
+    "contrast": "loveless 不必等于 lonely 孤独：可以住在很多人当中，却感受不到爱。",
+    "examples": [
+      [
+        "The novel describes a loveless marriage.",
+        "小说描写了一段没有爱情的婚姻。"
+      ],
+      [
+        "She wanted to give her children the warmth missing from her own loveless childhood.",
+        "她想给孩子温暖，弥补自己缺少关爱的童年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loveless#English"
+    ]
+  },
+  {
+    "word": "lovesick",
+    "ipa": "/ˈlʌvsɪk/",
+    "meaning": "苦苦相思的；为情所困的",
+    "sense": "人没在眼前，心却总围着他转，连饭都不想好好吃。",
+    "split": "love（爱）+ sick（不适的）。两个成分并列组合，表示因爱情而苦恼，不是某种可由词名确诊的疾病。",
+    "history": [
+      [
+        "英语 love；sick",
+        "爱情；难受、不适"
+      ],
+      [
+        "love + sick → lovesick",
+        "因相思或爱情不顺而苦恼"
+      ]
+    ],
+    "explanation": "常用于文学或带一点调侃的描述，可能是想念、不被回应或失恋带来的心神不宁，不专指某一种恋爱结局。",
+    "usage": "a lovesick teenager；a lovesick expression；feel lovesick。",
+    "contrast": "lovesick 强调爱情引起的难受，homesick 是想家；二者都利用 sick 表情绪困扰，不直接等于感染性疾病。",
+    "examples": [
+      [
+        "The lovesick teenager kept checking his phone.",
+        "那个苦苦相思的少年不停地看手机。"
+      ],
+      [
+        "She wrote a song about a lovesick sailor.",
+        "她写了一首关于相思水手的歌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lovesick#English"
+    ]
+  },
+  {
+    "word": "lovelorn",
+    "ipa": "英 /ˈlʌvlɔːn/；美 /ˈlʌvlɔːrn/",
+    "meaning": "失恋的；为情忧伤的〔文学〕",
+    "sense": "想要的爱情失去了或得不到，只留下一个人发愁。",
+    "split": "love + lorn；lorn 是与 lose 同族的旧“失去、被抛下”的形式。不能把后半截看成普通现代名词，也不按 love + learn 理解。",
+    "history": [
+      [
+        "英语 love；旧形容词 lorn",
+        "爱情；失去、被遗弃的"
+      ],
+      [
+        "love + lorn → lovelorn",
+        "因失去或得不到爱情而忧伤"
+      ]
+    ],
+    "explanation": "比 lovesick 更有文学色彩，常描写失恋者或单相思者。可说 lovelorn poetry，强调作品里为情伤感的情绪。",
+    "usage": "a lovelorn poet；a lovelorn young man；lovelorn songs。",
+    "contrast": "lovelorn 偏爱情受挫的忧伤；loveless 直接说缺少爱，不必带着一个人思恋另一个人的画面。",
+    "examples": [
+      [
+        "The lovelorn poet filled his notebook with sad verses.",
+        "这位失恋的诗人在本子上写满伤感诗句。"
+      ],
+      [
+        "The film gently mocks its lovelorn hero.",
+        "影片温和地调侃着为情所困的男主角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lovelorn#English"
+    ]
+  },
+  {
+    "word": "lovemaking",
+    "ipa": "/ˈlʌvˌmeɪkɪŋ/",
+    "meaning": "性爱；做爱",
+    "sense": "这里的 make love 已是固定表达，说的是亲密的性行为。",
+    "split": "love + making，联系 make love 这一表达的名词化；早期 make love 有求爱、示爱用法，现代 lovemaking 常指性行为。两个来源成分并列，不把 love 画成 make 的祖先。",
+    "history": [
+      [
+        "英语 love；make／making",
+        "爱；做、进行"
+      ],
+      [
+        "make love → lovemaking",
+        "固定表达的名词形式，现代通常指性爱"
+      ]
+    ],
+    "explanation": "通常作不可数名词，语气相对委婉，见小说、电影评论或关系描述。它不是任何制作爱心礼物、表达关心行为的通称。",
+    "usage": "a scene of lovemaking；tender lovemaking；an intimate relationship。",
+    "contrast": "showing love 范围很广，包含照料和关心；lovemaking 在现代通常有明确的性意味，不能互换。",
+    "examples": [
+      [
+        "The film suggests intimacy without showing the lovemaking.",
+        "影片暗示了亲密关系，没有展示性爱过程。"
+      ],
+      [
+        "The novel describes their lovemaking in restrained language.",
+        "小说用克制的语言描写两人的性爱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lovemaking#English"
+    ]
+  },
+  {
+    "word": "help",
+    "ipa": "/help/",
+    "meaning": "帮助；改善；有帮助",
+    "sense": "一个人搬不动箱子，另一双手过来分担一点，让事情容易完成。",
+    "split": "来自古英语 help、helpan 等名词动词形式，经中古英语延续。现代过去式 helped；旧本族动词形式并不都照现代规则变化。",
+    "history": [
+      [
+        "古英语 help；helpan",
+        "帮助；帮助这一动作"
+      ],
+      [
+        "中古英语 help／helpen → 英语 help",
+        "帮助、协助；使情况好转"
+      ]
+    ],
+    "explanation": "help someone do 或 help someone to do 都可说帮助做事。This helps 表示这样有用。can’t help doing 是忍不住做，不能按“不能帮助做”直译。",
+    "usage": "help with；help someone do；help yourself to；can’t help laughing。",
+    "contrast": "help someone 是帮人，help oneself to food 是自己取食物。helpful 是带来帮助，不只是“愿意提供帮助”的口头态度。",
+    "examples": [
+      [
+        "Could you help me carry this box?",
+        "你能帮我搬这个箱子吗？"
+      ],
+      [
+        "A short break might help you concentrate.",
+        "短暂休息可能有助于你集中注意力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/help#English"
+    ]
+  },
+  {
+    "word": "helping",
+    "ipa": "/ˈhelpɪŋ/",
+    "meaning": "一份食物；帮助；help 的 -ing 形式",
+    "sense": "盛饭时勺子一次给你盛到盘里的那一份，就是 a helping。",
+    "split": "help + -ing；除了帮助的动作名词、分词用法，食物份量义与 help someone to food“给人取食物”相连。",
+    "history": [
+      [
+        "古英语 help；helpan",
+        "帮助；帮助这一动作"
+      ],
+      [
+        "中古英语 help／helpen → 英语 help",
+        "帮助、协助；使情况好转"
+      ],
+      [
+        "help + -ing → helping",
+        "帮助这一动作；由取食物用法发展出一份食物"
+      ]
+    ],
+    "explanation": "a second helping 是再来一份；helping hands 指帮手或伸出的援手。We are helping 中则只是动词形式，不要把所有 helping 都理解成餐点。",
+    "usage": "a helping of rice；a second helping；a helping hand。",
+    "contrast": "helping 是食物一次分给或取用的量，portion 范围更广，可以强调一部分或一份的大小。",
+    "examples": [
+      [
+        "Would you like a second helping of soup?",
+        "你还要再来一份汤吗？"
+      ],
+      [
+        "Thanks for giving us a helping hand.",
+        "谢谢你帮了我们一把。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helping#English"
+    ]
+  },
+  {
+    "word": "helpful",
+    "ipa": "/ˈhelpfəl/",
+    "meaning": "有帮助的；乐于助人的",
+    "sense": "一句说明正好解开问题，或一个人主动把你卡住的地方处理了。",
+    "split": "help + -ful；-ful 在这里造“具有帮助作用”的形容词。中古英语已有同形相关用法，不按字面译成“满是帮助”。",
+    "history": [
+      [
+        "古英语 help；helpan",
+        "帮助；帮助这一动作"
+      ],
+      [
+        "中古英语 help／helpen → 英语 help",
+        "帮助、协助；使情况好转"
+      ],
+      [
+        "help + -ful → helpful",
+        "提供帮助或能派上用场的"
+      ]
+    ],
+    "explanation": "a helpful guide 是能解决问题的指南；helpful staff 是愿意并能给顾客帮助的工作人员。helpful to someone、helpful for doing 常说明对象或用途。",
+    "usage": "helpful advice；a helpful suggestion；find something helpful。",
+    "contrast": "helpful 评价帮助作用，useful 评价有用途；a useful tool 不一定像 a helpful person 那样带有待人友善的意味。",
+    "examples": [
+      [
+        "The receptionist was friendly and helpful.",
+        "接待员亲切又乐于助人。"
+      ],
+      [
+        "It would be helpful to see a concrete example.",
+        "看一个具体例子会有帮助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helpful#English"
+    ]
+  },
+  {
+    "word": "helpless",
+    "ipa": "/ˈhelpləs/",
+    "meaning": "无助的；无能为力的",
+    "sense": "事情在眼前发生，你却没有办法改变，也没有力量照顾自己。",
+    "split": "help + -less，对应缺少帮助或行动能力；中古英语有 helples，相关更早形式属于日耳曼语本族词。",
+    "history": [
+      [
+        "古英语 help；helpan",
+        "帮助；帮助这一动作"
+      ],
+      [
+        "中古英语 help／helpen → 英语 help",
+        "帮助、协助；使情况好转"
+      ],
+      [
+        "help + -less → helpless",
+        "得不到帮助或无力应对的"
+      ]
+    ],
+    "explanation": "feel helpless 是感到无能为力；a helpless baby 强调需要照料，不是责怪婴儿没用。helpless with laughter 还可说笑得无法控制。",
+    "usage": "feel helpless；a helpless victim；helpless with laughter。",
+    "contrast": "helpless 强调无法应对，hopeless 强调没有希望，或口语里某方面很差；需要帮助的人不一定没有希望。",
+    "examples": [
+      [
+        "I felt helpless as I watched the water rise.",
+        "看着水位上涨，我感到无能为力。"
+      ],
+      [
+        "The newborn puppy was tiny and helpless.",
+        "刚出生的小狗又小又需要照料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helpless#English"
+    ]
+  },
+  {
+    "word": "helper",
+    "ipa": "英 /ˈhelpə/；美 /ˈhelpər/",
+    "meaning": "帮手；协助者",
+    "sense": "不是独自负责全部事情，而是在一旁分担步骤、递东西、完成部分任务的人。",
+    "split": "help + -er；-er 表做这个动作的人，接中古英语 helpere 等本族形式。不是把 helper 强制限定为某种职位等级。",
+    "history": [
+      [
+        "古英语 help；helpan",
+        "帮助；帮助这一动作"
+      ],
+      [
+        "中古英语 help／helpen → 英语 help",
+        "帮助、协助；使情况好转"
+      ],
+      [
+        "help + -er → helper",
+        "帮助做事的人"
+      ]
+    ],
+    "explanation": "可说志愿活动中的帮手、课堂助手，也用于某些软件名称里的辅助模块。具体职位须看语境，不能一律翻为秘书。",
+    "usage": "a volunteer helper；a classroom helper；a willing helper。",
+    "contrast": "helper 是宽泛的协助者；assistant 可是较明确的岗位或职称。两者都不保证对方只做体力劳动。",
+    "examples": [
+      [
+        "We need two helpers to set up the chairs.",
+        "我们需要两名帮手摆椅子。"
+      ],
+      [
+        "The teacher thanked the classroom helpers.",
+        "老师感谢了课堂小帮手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helper#English"
+    ]
+  },
+  {
+    "word": "helpline",
+    "ipa": "/ˈhelplaɪn/",
+    "meaning": "求助热线；咨询热线",
+    "sense": "遇到问题时，有一条能联系到提供帮助的人的电话线。",
+    "split": "help（帮助）+ line（电话线路）。两个现有成分组合成名词，line 在此说联络渠道，不是画在纸上的直线。",
+    "history": [
+      [
+        "英语 help；line",
+        "帮助；电话线路"
+      ],
+      [
+        "help + line → helpline",
+        "提供咨询或帮助的热线"
+      ]
+    ],
+    "explanation": "可用于技术、消费、健康或其他支持服务，不自动表示紧急报警号码；是否全天、免费须看具体服务。",
+    "usage": "call a helpline；a customer helpline；a confidential helpline。",
+    "contrast": "helpline 重在提供帮助；hotline 更泛指专用快速联络线，也可能是投诉、举报或机构间联络。",
+    "examples": [
+      [
+        "The company lists its customer helpline on the receipt.",
+        "公司在收据上印有客服热线。"
+      ],
+      [
+        "She called the helpline to ask about the application form.",
+        "她拨打咨询热线询问申请表的事情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helpline#English"
+    ]
+  },
+  {
+    "word": "great",
+    "ipa": "/ɡreɪt/",
+    "meaning": "很好的；伟大的；程度或规模大的",
+    "sense": "某件事超出平常水平：可以大在体积、强在程度，也可以好到让人赞叹。",
+    "split": "从古英语 grēat“大、粗、厚”等义经中古英语延续，后来发展出重要、出众和很好的评价。不是 grey 灰色加上 t。",
+    "history": [
+      [
+        "古英语 grēat → 中古英语 greet",
+        "大、厚、规模显著"
+      ],
+      [
+        "英语 great",
+        "很大的；重要出众的；很好的"
+      ]
+    ],
+    "explanation": "a great artist 是出色的艺术家；a great deal of time 是大量时间；Great! 是好极了。a great friend 常夸关系或品格，a big friend 更容易被听成身材。",
+    "usage": "a great idea；a great deal of；great importance；have a great time。",
+    "contrast": "great 常是赞许，也能只说程度：great pain 是剧痛，并不是“很棒的疼痛”。good 与 great 的强度差由语境决定。",
+    "examples": [
+      [
+        "That is a great idea.",
+        "那是个很棒的主意。"
+      ],
+      [
+        "She went to great lengths to make everyone feel welcome.",
+        "她花了很大心思，让每个人都觉得受到欢迎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/great#English"
+    ]
+  },
+  {
+    "word": "greatness",
+    "ipa": "/ˈɡreɪtnəs/",
+    "meaning": "伟大；卓越；巨大",
+    "sense": "从一次做得好，抬高到这个人或作品整体让人敬佩的品质。",
+    "split": "great + -ness；-ness 把形容词变成性质名词，古英语 grēatnes 已有对应形式。词义可接规模大，也可接卓越。",
+    "history": [
+      [
+        "古英语 grēat + -nes → grēatnes",
+        "巨大、重要的性质"
+      ],
+      [
+        "英语 greatness",
+        "伟大、卓越或巨大的程度"
+      ]
+    ],
+    "explanation": "the greatness of a leader 常谈成就与品格，achieve greatness 是取得卓越成就。通常不可数，不能把一个伟人直接叫 a greatness。",
+    "usage": "achieve greatness；the greatness of the work；true greatness。",
+    "contrast": "greatness 是品质或程度，a great 是某领域的杰出人物，如 one of the greats；词性和数法不同。",
+    "examples": [
+      [
+        "The greatness of the novel lies in its attention to ordinary lives.",
+        "这部小说的卓越之处在于它关注普通人的生活。"
+      ],
+      [
+        "She believed that kindness was part of true greatness.",
+        "她相信善良是真正伟大的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/greatness#English"
+    ]
+  }
+]

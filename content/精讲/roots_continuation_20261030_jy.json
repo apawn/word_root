@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B3568",
+    "meaning": "承认、确认与表示认可，以及过程和结果名词",
+    "core": "ACKNOWLEDGE：把事实、收到的内容或他人的存在认真回应出来",
+    "image": "acknowledge → acknowledging；acknowledgment 是承认、确认或致谢的名词。",
+    "intro": "不只背承认。确认邮件收到、向人点头、感谢贡献，都有让对方知道我已注意到的作用。",
+    "forms": "在 acknowledge 基础上加 -ing 时去 e；acknowledgment 的名词结构另看具体用法。\n\n中古英语 aknow、knowlechen 混合，不能按拉丁 ad- 加臆造词干拆分。",
+    "branches": [
+      [
+        "动作、过程和名词",
+        "acknowledge · acknowledging · acknowledgment"
+      ],
+      [
+        "acknowledge → acknowledged：承认、确认收到与感谢",
+        "acknowledge · acknowledged"
+      ]
+    ],
+    "contrasts": "确认收悉不自动等于赞同内容；acknowledging nod 可以是对人的简单回应。",
+    "practice": "She sent an acknowledgment after acknowledging receipt of the file.\n\n确认收到文件后，她发出了一条收悉回复。",
+    "words": [
+      "acknowledge",
+      "acknowledging",
+      "acknowledgment",
+      "acknowledged"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3290",
+    "meaning": "神、神性与美妙夸赞，以及占卜、推知的动词支线",
+    "core": "DIVINE：神圣这一线，也有占卜、猜知的相关动词",
+    "image": "divine → divinely；divinity 有平行借入史；diviner 接占卜、推知的人物义。",
+    "intro": "神圣、学科、角色和美食夸赞的用法不能只用神奇一句话代替。先看词性，再看文本主题。",
+    "forms": "dīvīnus 经 divin → divine 形容词；dīvīnāre 经 deviner 等 → 动词；dīvīnitās → divinity；divinour 等 → diviner。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "divine · divinely · divinity"
+      ],
+      [
+        "占卜、推知的人物",
+        "diviner"
+      ]
+    ],
+    "contrasts": "divinity 对应 /vɪ/，divine、divinely 多读 /vaɪ/；diviner 是角色名，不证明预言能力。",
+    "practice": "The folktale links the diviner’s prediction to divine power, an idea discussed in the course on divinity.\n\n民间故事把占卜者的预测联系到神力，神学课程则讨论了这种观念。",
+    "words": [
+      "divine",
+      "divinely",
+      "divinity",
+      "diviner"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4355",
+    "meaning": "从罗曼语叙事到传奇、爱情故事和浪漫感",
+    "core": "ROMANCE：旧时的语言、故事名称，后来走向爱情与浪漫",
+    "image": "romance 本身包含文学体裁、情感关系与浪漫气氛等用法。",
+    "intro": "词源起点不是因为罗马人天生浪漫。用罗曼语写的叙事作品形成故事名，再在不同历史阶段发展爱情、传奇等意义。",
+    "forms": "拉丁 Rōmānicē 以罗马式、罗曼语方式 → 古法语 romanz 语言、相应叙事 → romance。",
+    "branches": [
+      [
+        "故事、关系与氛围",
+        "romance"
+      ]
+    ],
+    "contrasts": "romance 的语言历史与现代 romance 爱情不能直接画等号；Romance languages 是罗曼语族。",
+    "practice": "The course traces romance from older narrative traditions to modern love stories.\n\n课程追溯 romance 从较早叙事传统到现代爱情故事的发展。",
+    "words": [
+      "romance"
+    ],
+    "exclude": {
+      "non-romance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "photo-romance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

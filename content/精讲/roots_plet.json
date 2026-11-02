@@ -5,7 +5,7 @@
     "core": "把少的那一块补上，让数量、内容或任务达到应有的完整程度。",
     "image": "想象一张还有空格的清单：全填好是 complete；把缺的物资送来是 supply；再加材料是 supplement；存量被抽走则是 deplete。",
     "intro": "拉丁语 plēre 的核心是“填满”。它常保存在 complēre、implēre、supplēre 等带前缀的动词里，分词词干能见到 plēt-。从填容器到完成任务，再到履行要求，这个动作逐渐走进抽象生活。plēnus“满的”属于同源的形容词支线，另列 plen-；两支有关，不必硬画成一个直接生出另一个。",
-    "forms": "ple-/plet- 来自拉丁语不同词形。complete、replete 保留明显的 -plete；complement、implement、supplement 保留 -plement；supply、comply、accomplish 经过法语等语言后，表面已经不那么像。-tion 名词有些早在拉丁语形成，甚至比对应英语动词更早出现。",
+    "forms": "ple-/plet- 来自拉丁语不同词形。complete、replete 保留明显的 -plete；complement、implement、supplement 保留 -plement；supply、comply、accomplish 经过法语等语言后，表面已经不那么像。-tion 名词有些早在拉丁语形成，甚至比对应英语动词更早出现。\n\n补满、补上不足的词族，连接供应动作和供使用的东西。\n\n完整形容词与英语完成动词的关系分开解释。\n\n拉丁 sub- 与 plere，经法语等到英语；辅音字母加 y，过去式改为 ied。\n\n拉丁 implementum 先成英语名词，后有实施动词，分词保留动词 ment 读音。\n\n拉丁填满词族，经形容词用法进入并有英语动词转用，现代去 e 加 ing。\n\n拉丁 implementum 补足、履行的借词，工具名与实施动词是相关支线，非必然先工具后执行故事。\n\nsupply 改 y 为 i，加完整 er，再加复数 s；补足、提供的拉丁词族。\n\ncompliment 与 complement 相关而异义；称赞、致意与补足、相配在现代拼写中分开。\n\nsupplement 接拉丁 supplementum 补足物，来自 supplere，含 sub- 与 plere 填满词族。现代复数、第三人称同形，名词与动词词尾读音有区别。\n\naccomplishment 接法语 acomplissement，远连拉丁 complere 填满词族。现代复数常数完成的成果、成就，也可说才艺。\n\nsupply 经法语、拉丁 supplere 补足，含 sub- 与 plere 填满词族。现代加 -ing 时 y 保留，常用 supply someone with 或 supply something to。",
     "branches": [
       [
         "把事情做完整",
@@ -38,6 +38,50 @@
       [
         "特殊位置的填充",
         "suppletion, suppletive, expletive, compline"
+      ],
+      [
+        "supply → supplies：补足所需与一批物资",
+        "supply · supplies"
+      ],
+      [
+        "complete → completed：填满、完成与完成状态",
+        "complete · completed"
+      ],
+      [
+        "supply → supplied：把所缺的补上",
+        "supply · supplied"
+      ],
+      [
+        "implement → implemented：把安排付诸实行",
+        "implement · implemented"
+      ],
+      [
+        "complete → completing：把缺的部分补齐，做完",
+        "complete · completing"
+      ],
+      [
+        "implement → implementing：把决定落实、付诸实施",
+        "implement · implementing"
+      ],
+      [
+        "supply → supplier → suppliers：供应者们",
+        "supply · supplier · suppliers"
+      ],
+      [
+        "完成、履行材料进入 compliment 的礼貌话",
+        "compliment · compliments · complimented · complimenting"
+      ],
+      [
+        "补满 → supplement → supplements",
+        "supplements"
+      ],
+      [
+        "补满、完成 → accomplishment → accomplishments",
+        "accomplishments"
+      ],
+      [
+        "补满、提供 → supply → supplying",
+        "supplying"
       ]
     ],
     "contrasts": "complement 是补足、相配；compliment 是赞美，它们同源而分工不同。complaint“抱怨”来自 plangere“捶击、哀叹”的另一族。supple“柔软”和 suppliant“恳求的”也不是“填满”词族。complete 不等于 perfect，deplete 也不保证已经耗到零。",
@@ -84,7 +128,20 @@
       "accomplishment",
       "accomplished",
       "expletive",
-      "compline"
+      "compline",
+      "supplies",
+      "completed",
+      "supplied",
+      "implemented",
+      "completing",
+      "implementing",
+      "suppliers",
+      "compliments",
+      "complimented",
+      "complimenting",
+      "supplements",
+      "accomplishments",
+      "supplying"
     ],
     "exclude": []
   },

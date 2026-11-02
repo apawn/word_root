@@ -5,7 +5,7 @@
     "core": "PORT：三个来源分别看",
     "image": "同样的字母，不要画成同一条祖先链",
     "intro": "这一页的 port- 是同形词族合页，需要先分清三条拉丁来源。**portāre 是携带**，所以有 transport、support、report；**porta 是门**，所以有 portal；**portus 是港口**，形成英语 port 的港口义。它们在更深层的词源上有联系，但英语单词的直接来路不同，不能互相替换。",
-    "forms": "**携带可以是实物，也可以是信息、责任和含义。** re- + portāre 把信息带回来，成为 report；sub- + portāre 从下面承担，成为 support；importāre“带入、传达”一支还发展出 important。sub- 在 p 前变成 sup-，in- 在 p 前变成 im-，是历史上的辅音同化。portal 则从 porta 走“门、入口”路线。",
+    "forms": "**携带可以是实物，也可以是信息、责任和含义。** re- + portāre 把信息带回来，成为 report；sub- + portāre 从下面承担，成为 support；importāre“带入、传达”一支还发展出 important。sub- 在 p 前变成 sup-，in- 在 p 前变成 im-，是历史上的辅音同化。portal 则从 porta 走“门、入口”路线。\n\nreport 接拉丁 re- 加 portare 带，reported 词尾读 /ɪd/；报道、汇报都不自动等于内容已证实。\n\nreport 接拉丁 re- 加 portare 带回来词族；reports 既数多份报告，也可作汇报的第三人称。\n\nsupport 接拉丁 sub- 加 portare，b 在 p 前同化；supported 在 /t/ 后加 /ɪd/。\n\n从下面承载的画面引申为支持人、事业、球队。\n\n英语可对应 report 加 er，历史另有法语 reporteur 借入路线。\n\n拉丁 importare 的 in 与 portare，英语有法语等传播路线。\n\n拉丁 ex- 加 portare，现代名词前重音、动词后重音。\n\n港口 portus、开口 porta 近源不同；软件移植动词的直接来源有分歧，不能只靠搬运联想定史。\n\nportare 携带、运输，不是港口名 port 的现场合成。\n\n动词后重音，与前重音运输名词分清。\n\nporch 经古法语 porche 接拉丁 porticus 有顶廊道，再接 porta 门、入口；与 port 的入口、通过材料比较，不等于现代 port 直接加词尾。\n\n与 support 比较支撑，并非拉丁 portare 派生。bracket 可能经法语 braguette 等旧服饰材料，其确切形状桥梁有争论；建筑支架到成对印刷符号的借形较清楚，后来又用于归组和区间。\n\ndeport 的驱逐义接法语、拉丁 deportare 运离、流放，现代加完整 -ed，/t/ 后读 /ɪd/；这里 port- 是携带。",
     "branches": [
       [
         "portāre：携带、承载",
@@ -18,6 +18,58 @@
       [
         "portus：港口",
         "port 的港口义"
+      ],
+      [
+        "report → reported：把信息带回来",
+        "report · reported"
+      ],
+      [
+        "report → reports：报告、报道；汇报",
+        "report · reports"
+      ],
+      [
+        "support → supported：从下面托住、帮助维持",
+        "support · supported"
+      ],
+      [
+        "support → supporter → supporters：托住、支持的一方",
+        "supporter · supporters"
+      ],
+      [
+        "reporter → reporters：把消息带回来的人",
+        "report · reporter · reporters"
+      ],
+      [
+        "import → imported：从外面带进来",
+        "import · imported"
+      ],
+      [
+        "export → exports：向外运出，商品出口与文件导出",
+        "export · exports"
+      ],
+      [
+        "port → ports：港口、开口、接口与同形动词",
+        "port · ports"
+      ],
+      [
+        "import → imports：运入与进口货物",
+        "import · imports"
+      ],
+      [
+        "portare 运送支：transported",
+        "transport · transported"
+      ],
+      [
+        "porch：门前的有顶空间",
+        "porch · porches"
+      ],
+      [
+        "bracket：支架 → 括号、档次、归组",
+        "bracket · brackets · bracketed · bracketing"
+      ],
+      [
+        "de- 离开 + port- 搬运 → deported",
+        "deported"
       ]
     ],
     "contrasts": "**import 与 export**：以所在国家、应用或系统为参照，前者向内带，后者向外带。名词通常重音在前，动词常在后。\n\n**porter 也有两条路线。** 搬运工来自 portātor“携带者”；门卫来自 portārius“守门者”。这两个词后来碰成了相同的英语拼写。\n\n**portable 与 transportable**：便携通常强调方便随人携带；可运输的东西可能仍需卡车或起重机。\n\n**important 不是“进口货更贵所以重要”。** 它连着 importāre 的“传达意义、关系重大”一支。用“有分量”记忆可以，编一段商品贸易故事当词源则不可以。\n\n**port 的软件移植义要保留来源分歧。** “把程序搬过去”很直观，但不能据此断定唯一词源；有词典把它联系到硬件接口。接口本身沿门、开口支理解。葡萄酒名 port 来自 Porto 城市名。",
@@ -60,7 +112,24 @@
       "transportable",
       "exportation",
       "deportment",
-      "comportment"
+      "comportment",
+      "reported",
+      "reports",
+      "supported",
+      "supporters",
+      "reporters",
+      "imported",
+      "exports",
+      "ports",
+      "imports",
+      "transported",
+      "porch",
+      "porches",
+      "bracket",
+      "brackets",
+      "bracketed",
+      "bracketing",
+      "deported"
     ]
   }
 ]

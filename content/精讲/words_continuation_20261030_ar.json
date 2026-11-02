@@ -1,0 +1,552 @@
+[
+  {
+    "word": "smoke",
+    "ipa": "英 /sməʊk/；美 /smoʊk/",
+    "meaning": "烟；冒烟；吸烟；烟熏",
+    "sense": "火里飘出的烟是起点；人吸烟、食物用烟熏、机器冒烟，都要靠对象分清动作。",
+    "split": "接古英语 smoca 名词和 smocian 动词等相关旧形。吸烟、熏食品是后来的专门用法，不要把所有动词例句都读成抽烟。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ]
+    ],
+    "explanation": "smoke rises 烟升起，smoke a cigarette 吸烟，smoke fish 熏鱼，go up in smoke 化为乌有。",
+    "usage": "smoke rises；smoke a cigarette；smoke fish；go up in smoke。",
+    "contrast": "smoke 燃烧等产生的烟；steam 常是蒸汽、可见水雾的日常叫法；fog 雾。看到白色一团不能只凭颜色定词。",
+    "examples": [
+      [
+        "Smoke was rising from the chimney.",
+        "烟正从烟囱里升起。"
+      ],
+      [
+        "The engine began to smoke on the hill.",
+        "发动机上坡时开始冒烟。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/smoke",
+      "https://en.wiktionary.org/wiki/smoke#English"
+    ]
+  },
+  {
+    "word": "smoking",
+    "ipa": "英 /ˈsməʊkɪŋ/；美 /ˈsmoʊkɪŋ/",
+    "meaning": "吸烟；冒烟、烟熏；正在冒烟的",
+    "sense": "把冒烟、吸烟当作活动；形容东西时也可以说它正在冒烟，不必然是人在抽。",
+    "split": "smoke 去末尾 e + -ing；相关分词、活动名词有中古英语及更旧形式。吸烟义随 tobacco 用法专门化。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + -ing → smoking",
+        "冒烟、烟熏；吸烟活动及分词用法"
+      ]
+    ],
+    "explanation": "No smoking. 禁止吸烟；a smoking chimney 冒烟烟囱。a smoking gun 比喻确凿证据，借刚开过火的枪的形象。",
+    "usage": "No smoking；quit smoking；a smoking chimney；a smoking gun。",
+    "contrast": "smoking 是活动或分词，smoker 是吸烟者、烟熏设备；smoking gun 常讲证据，未必在讨论真实枪。",
+    "examples": [
+      [
+        "Smoking is not allowed inside the building.",
+        "楼内不允许吸烟。"
+      ],
+      [
+        "The report did not contain the smoking gun that reporters expected.",
+        "报告里没有记者们期待的那种确凿证据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smoking#English"
+    ]
+  },
+  {
+    "word": "smoked",
+    "ipa": "英 /sməʊkt/；美 /smoʊkt/",
+    "meaning": "烟熏的；熏黑、烟色的；smoke 的过去式、分词",
+    "sense": "三文鱼是用烟熏过，玻璃则可做出暗暗的烟色；对象决定是哪种处理效果。",
+    "split": "smoke + -ed，中古英语已有同族分词。这里 -ed 在 /k/ 后读 /t/，不多加一个完整音节。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + -ed → smoked",
+        "经历烟熏；形成烟色、熏黑外观"
+      ]
+    ],
+    "explanation": "smoked salmon 烟熏三文鱼，smoked cheese 烟熏奶酪，smoked glass 烟色玻璃。",
+    "usage": "smoked salmon；smoked cheese；smoked glass。",
+    "contrast": "smoked 常说被熏处理过，smoky 常说有烟、带烟味；smoked fish 与 a smoky room 着眼点不同。",
+    "examples": [
+      [
+        "The sandwich contains smoked salmon and cucumber.",
+        "三明治里有烟熏三文鱼和黄瓜。"
+      ],
+      [
+        "The lamp has a shade made of smoked glass.",
+        "这盏灯的灯罩由烟色玻璃制成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smoked#English"
+    ]
+  },
+  {
+    "word": "smoker",
+    "ipa": "英 /ˈsməʊkə/；美 /ˈsmoʊkər/",
+    "meaning": "吸烟者；烟熏设备",
+    "sense": "做 smoke 动作的人可叫 smoker；用烟熏食物的设备也能用同一个执行者后缀。",
+    "split": "smoke + -er。-er 可指人，也可指做某事的器具，因此别把食谱里的 smoker 一概看成人。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + -er → smoker",
+        "吸烟者；执行烟熏的设备"
+      ]
+    ],
+    "explanation": "a heavy smoker 烟瘾大的人，a former smoker 曾吸烟的人，a food smoker 食品烟熏设备。",
+    "usage": "a heavy smoker；a former smoker；a food smoker。",
+    "contrast": "smoker 人或器具，smoking 活动，smoky 有烟的；换后缀后，句中承担的角色不同。",
+    "examples": [
+      [
+        "The survey asked whether participants were smokers.",
+        "调查询问参与者是否吸烟。"
+      ],
+      [
+        "He cooked the fish in an outdoor smoker.",
+        "他用室外烟熏设备制作了鱼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smoker#English"
+    ]
+  },
+  {
+    "word": "smoky",
+    "ipa": "英 /ˈsməʊki/；美 /ˈsmoʊki/",
+    "meaning": "烟雾弥漫的；有烟味的；烟色、低沉沙哑的",
+    "sense": "房间里飘着烟，食物里有熏香，颜色或声音也可借烟的朦胧、低暗感觉形容。",
+    "split": "smoke + -y，通常去末尾 e。中古英语已有同族形容词，后有味道、颜色、嗓音等专门用法。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + -y → smoky",
+        "有烟、像烟；烟味、烟色及嗓音比喻"
+      ]
+    ],
+    "explanation": "a smoky room 烟雾弥漫的房间，a smoky flavour 烟熏味，smoky eyes 烟熏眼妆。",
+    "usage": "a smoky room；a smoky flavour；a smoky voice。",
+    "contrast": "smoky 有烟或烟味，smoked 经烟熏处理；smokeless 少烟、无烟。smoky 的常规拼写没有词基末尾 e。",
+    "examples": [
+      [
+        "We left the smoky room and went outside.",
+        "我们离开烟雾弥漫的房间，走到外面。"
+      ],
+      [
+        "The cheese has a rich smoky flavour.",
+        "这块奶酪有浓郁的烟熏味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smoky#English"
+    ]
+  },
+  {
+    "word": "smokeless",
+    "ipa": "英 /ˈsməʊkləs/；美 /ˈsmoʊkləs/",
+    "meaning": "无烟的；少烟的",
+    "sense": "关注的是使用、燃烧时看得到的烟很少或没有；不是说东西完全不产生其他排放。",
+    "split": "smoke + -less，-less 表缺少、没有。工业、商品名称里常按可见烟量使用，不能由词形推断所有性质。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + -less → smokeless",
+        "缺少可见烟；少烟或无烟"
+      ]
+    ],
+    "explanation": "smokeless fuel 无烟燃料，a smokeless stove 少烟炉具。具体产品含义要看所指类别。",
+    "usage": "smokeless fuel；a smokeless stove；smokeless combustion。",
+    "contrast": "smokeless 少烟、无烟不等于 odourless 无味；看不见烟仍可有气味，两个感官指标不同。",
+    "examples": [
+      [
+        "The stove was designed to burn smokeless fuel.",
+        "这台炉子设计用于燃烧无烟燃料。"
+      ],
+      [
+        "The brochure describes it as a smokeless outdoor stove.",
+        "宣传册把它称作少烟户外炉具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smokeless#English"
+    ]
+  },
+  {
+    "word": "smokestack",
+    "ipa": "英 /ˈsməʊkstæk/；美 /ˈsmoʊkstæk/",
+    "meaning": "大烟囱；工厂、轮船的排烟筒",
+    "sense": "工厂、船上高高伸出的排烟筒；stack 在这里是高筒、烟囱，不是把烟堆成一摞。",
+    "split": "smoke + stack 烟囱、高直立构件。还可借指传统重工业的形象，如 smokestack industries。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + stack → smokestack",
+        "排烟的大烟囱；引申传统重工业形象"
+      ]
+    ],
+    "explanation": "a factory smokestack 工厂烟囱，smokestack industries 传统重工业。",
+    "usage": "a factory smokestack；a tall smokestack；smokestack industries。",
+    "contrast": "smokestack 通常让人想到工业、轮船大排烟筒；chimney 范围更广，也常用于住宅。",
+    "examples": [
+      [
+        "The factory’s smokestack rose above the town.",
+        "工厂烟囱高高耸立在小镇上方。"
+      ],
+      [
+        "The old ship had two tall smokestacks.",
+        "那艘老船有两根高烟囱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smokestack#English"
+    ]
+  },
+  {
+    "word": "smog",
+    "ipa": "英 /smɒɡ/；美 /smɑːɡ/",
+    "meaning": "烟雾、烟霾；污染性雾霾",
+    "sense": "空气像雾一样灰蒙蒙，还混着污染；名字把烟和雾压进了一个短词。",
+    "split": "smoke + fog 的混成词，20世纪初用于烟与雾混合的污染。现代 smog 也涵盖其他形成机制，不一定现场真有 fog 才能用。",
+    "history": [
+      [
+        "古英语 smoca、smocian 等 → 中古英语 smoke、smoken",
+        "烟；冒烟"
+      ],
+      [
+        "现代 smoke",
+        "烟；吸烟；以烟熏制等用法"
+      ],
+      [
+        "smoke + fog → smog〔混成〕",
+        "烟与雾的名称组合 → 污染性烟霾"
+      ]
+    ],
+    "explanation": "thick smog 浓重烟霾，a blanket of smog 笼罩的烟霾，photochemical smog 光化学烟雾。",
+    "usage": "thick smog；a blanket of smog；photochemical smog。",
+    "contrast": "fog 是雾，smog 强调污染性烟霾；混成来源是历史命名线索，不是今天每种烟霾都必须满足烟加天然雾。",
+    "examples": [
+      [
+        "A layer of smog hung over the city.",
+        "一层烟霾笼罩着城市。"
+      ],
+      [
+        "The mountains disappeared behind the smog.",
+        "群山消失在烟霾后面。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/smog",
+      "https://en.wiktionary.org/wiki/smog#English"
+    ]
+  },
+  {
+    "word": "heat",
+    "ipa": "/hiːt/",
+    "meaning": "热、热量；压力、激烈情绪；加热；预赛一组",
+    "sense": "手靠近炉子感到热；争论火气上来、压力逼人，也借热来讲。比赛中的一组 heat 是另一个固定用法。",
+    "split": "本族名词与动词分别有古英语旧形，与 hot 同族。比赛分组义可能经强烈的一轮努力、马匹热身跑等发展，不能编成天气热才叫预赛。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ]
+    ],
+    "explanation": "turn down the heat 调低火力，heat the soup 热汤，in the heat of the moment 一时激动；win your heat 赢得自己那组预赛。",
+    "usage": "turn down the heat；heat the soup；in the heat of the moment；a qualifying heat。",
+    "contrast": "heat 名词热、动词加热，hot 形容词热的。heat 的比赛义并不规定每一种比赛制度都一样。",
+    "examples": [
+      [
+        "Heat the soup gently for a few minutes.",
+        "把汤用小火热几分钟。"
+      ],
+      [
+        "She won her heat and reached the final.",
+        "她赢得了所在预赛小组的比赛，进入决赛。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/heat",
+      "https://en.wiktionary.org/wiki/heat#English"
+    ]
+  },
+  {
+    "word": "heating",
+    "ipa": "/ˈhiːtɪŋ/",
+    "meaning": "加热；供暖；供暖系统",
+    "sense": "把东西弄热的过程；家里说 the heating，往往就是让整间屋子暖起来的系统。",
+    "split": "heat + -ing，中古英语已有活动名词。供暖语境常由活动转指设备、系统，不必每次加 system 才成立。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ],
+      [
+        "heat + -ing → heating",
+        "加热过程 → 供暖及系统"
+      ]
+    ],
+    "explanation": "central heating 中央供暖，turn on the heating 开暖气，heating costs 取暖费用。",
+    "usage": "central heating；turn on the heating；heating costs。",
+    "contrast": "heating 系统或活动，heater 某件加热器；The heating is broken 可能是整套供暖出了问题。",
+    "examples": [
+      [
+        "We turned on the heating when the evenings became cold.",
+        "晚上冷起来后，我们开了暖气。"
+      ],
+      [
+        "The new windows helped reduce heating costs.",
+        "新窗户帮助降低了取暖费用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heating#English"
+    ]
+  },
+  {
+    "word": "heater",
+    "ipa": "英 /ˈhiːtə/；美 /ˈhiːtər/",
+    "meaning": "加热器；取暖器",
+    "sense": "专门把水、空气或其他东西加热的设备；前面的词通常说明热什么。",
+    "split": "heat + -er，后缀在这里形成器具名。不是凡是做饭、让人暖心的人都自然叫 heater。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ],
+      [
+        "heat + -er → heater",
+        "执行加热的器具"
+      ]
+    ],
+    "explanation": "a water heater 热水器，an electric heater 电暖器，a space heater 局部取暖器。",
+    "usage": "a water heater；an electric heater；a space heater。",
+    "contrast": "heater 通常指具体设备，heating 常指加热活动或供暖系统；hot water 是热水本身。",
+    "examples": [
+      [
+        "The water heater is in the cupboard.",
+        "热水器在柜子里。"
+      ],
+      [
+        "He switched off the electric heater before leaving.",
+        "离开前，他关掉了电暖器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heater#English"
+    ]
+  },
+  {
+    "word": "heated",
+    "ipa": "/ˈhiːtɪd/",
+    "meaning": "加热的；激烈、情绪激动的",
+    "sense": "座椅被加热会暖，讨论被情绪推高就会火热、激烈；两个场景共用热起来的形象。",
+    "split": "heat + -ed，/t/ 后 -ed 读 /ɪd/。分词形容词既保留实际受热，也发展出激动、争论激烈的用法。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ],
+      [
+        "heat + -ed → heated",
+        "受热、被加热；情绪激动、讨论激烈"
+      ]
+    ],
+    "explanation": "heated seats 加热座椅，a heated debate 激烈辩论，a heated exchange 激烈交锋。",
+    "usage": "heated seats；a heated debate；a heated exchange。",
+    "contrast": "heated debate 说情绪、交锋激烈；hot topic 热门话题不必人人吵起来。heated 不是简单比 hot 温度更高。",
+    "examples": [
+      [
+        "The car has heated seats.",
+        "这辆车有加热座椅。"
+      ],
+      [
+        "The proposal led to a heated debate.",
+        "提议引发了激烈辩论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heated#English"
+    ]
+  },
+  {
+    "word": "heatwave",
+    "ipa": "/ˈhiːtweɪv/",
+    "meaning": "热浪；持续异常炎热天气",
+    "sense": "炎热像一波天气过程持续压过来，不是短短一秒有热气扑脸。",
+    "split": "heat + wave 波、波次。这里 wave 借连续出现、扩展的一波，不是水面必须真有波浪。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ],
+      [
+        "heat + wave → heatwave",
+        "一波持续的异常炎热天气"
+      ]
+    ],
+    "explanation": "a summer heatwave 夏季热浪，a prolonged heatwave 持续热浪；也常写成两词 heat wave。",
+    "usage": "a summer heatwave；a prolonged heatwave；during the heatwave。",
+    "contrast": "heatwave 是一段炎热天气过程，a wave of heat 可更直观说一阵热气；具体气象判定标准因地区而异。",
+    "examples": [
+      [
+        "The heatwave lasted for more than a week.",
+        "这轮热浪持续了一周多。"
+      ],
+      [
+        "The park opened earlier during the heatwave.",
+        "热浪期间，公园提早开放。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heatwave#English"
+    ]
+  },
+  {
+    "word": "overheat",
+    "ipa": "英 /ˌəʊvəˈhiːt/；美 /ˌoʊvərˈhiːt/",
+    "meaning": "过热；使过热",
+    "sense": "热过了适合的程度，设备可能开始出问题；人或经济也可借这个过头的形象表达。",
+    "split": "over- 过量 + heat，中古英语已有 overheten 等相应形式。可不及物自己过热，也可及物把某物弄过热。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ],
+      [
+        "over- + heat → overheat",
+        "加热过量、温度过高；后有发展过猛比喻"
+      ]
+    ],
+    "explanation": "the engine overheats 发动机过热，an overheated room 过热的房间，an overheated economy 过热经济。",
+    "usage": "an engine overheats；avoid overheating；an overheated room。",
+    "contrast": "overheat 是过热，preheat 是提前加热，reheat 是再次加热；三个前缀分别讲程度、时间、重复。",
+    "examples": [
+      [
+        "The laptop overheated during the long video call.",
+        "长时间视频通话时，笔记本电脑过热了。"
+      ],
+      [
+        "Do not overheat the sauce.",
+        "别把酱汁加热过头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overheat#English"
+    ]
+  },
+  {
+    "word": "reheat",
+    "ipa": "/ˌriːˈhiːt/",
+    "meaning": "重新加热；把熟食热一下",
+    "sense": "东西已经热过、做过，现在凉了再热；不是从生到熟的整个过程都叫 reheat。",
+    "split": "re- 再次 + heat，明确重复加热。日常多用于已经做好的饭菜。",
+    "history": [
+      [
+        "古英语 hǣtu〔名词〕、hǣtan〔动词〕→ heat",
+        "热、热情；使热、变热，与 hot 同族"
+      ],
+      [
+        "现代 heat",
+        "热量、热度；加热；激烈情绪、压力及比赛分组等用法"
+      ],
+      [
+        "re- + heat → reheat",
+        "再次加热、重新热食物"
+      ]
+    ],
+    "explanation": "reheat the soup 重新热汤，reheat leftovers 热剩饭菜。",
+    "usage": "reheat the soup；reheat leftovers；reheat in the oven。",
+    "contrast": "reheat 再热，preheat 预先热设备；preheat the oven 与 reheat the food 的对象和时间关系不同。",
+    "examples": [
+      [
+        "I reheated the soup for lunch.",
+        "我把汤重新热了，当午饭喝。"
+      ],
+      [
+        "The instructions explain how to reheat the pie.",
+        "说明写了如何重新加热这块派。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reheat#English"
+    ]
+  }
+]

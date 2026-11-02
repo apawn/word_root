@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2946",
+    "meaning": "面包、碎屑和以饭代表生计；旧词的重新分析",
+    "core": "BREAD：一口主食能代表整份生计",
+    "image": "bread → breadcrumb、breadboard；breadwinner 挣饭钱的人；gingerbread 的 bread 是历史重分析，不只现代直拼。",
+    "intro": "食物名称、用品、生活比喻放在一起。技术里的面包板和导航里的面包屑都有具体画面，姜饼却要特别说明旧词怎样改形。",
+    "forms": "brēad → bread；bread + crumb/board/winner/basket；short/flat + bread；gingerbread 受 bread 影响改造。\n\nbread 通常不可数，breads 用于种类、产品等语境。\n\n与 bread 比较面食场景，不是由现代 bread 派生。pizza 借意大利语，远源未定；pizzeria 接 pizza 与表示店铺、场所的意大利语后缀材料。\n\n与 bread、pizza 作食物比较，不是 bread 的后代。pie 食物名称远源未定，有中古拉丁与喜鹊名 pica 的联系分析，不把喜鹊爱杂物的故事定为唯一来历。\n\n按日常烘焙食物对照，两个法语词不由英语 bread 派生。croissant 接月牙与生长词线，baguette 接棍、杖词线，各自按食物形象命名。",
+    "branches": [
+      [
+        "基本食物与碎屑",
+        "bread · breadcrumb"
+      ],
+      [
+        "挣钱与器具",
+        "breadwinner · breadboard · breadbasket"
+      ],
+      [
+        "糕点、饼形与旧词改造",
+        "shortbread · flatbread · gingerbread"
+      ],
+      [
+        "bread → breads：面包总体与不同种类",
+        "bread · breads"
+      ],
+      [
+        "pizza：面饼，到卖披萨的店",
+        "pizza · pizzas · pizzeria · pizzerias"
+      ],
+      [
+        "pie：馅包在饼皮里",
+        "pie · pies"
+      ],
+      [
+        "与 bread 对照：可颂与法棍的法语借名",
+        "croissant · croissants · baguette · baguettes"
+      ]
+    ],
+    "contrasts": "bread 常不可数，loaf/slice 计量；breadwinner 不限性别；gingerbread 不能只讲现代表面拆分。",
+    "practice": "The breadwinner brought bread and gingerbread home.\n\n家里主要挣钱的人带回了面包和姜饼。",
+    "words": [
+      "bread",
+      "breadcrumb",
+      "breadwinner",
+      "breadboard",
+      "breadbasket",
+      "shortbread",
+      "flatbread",
+      "gingerbread",
+      "breads",
+      "pizza",
+      "pizzas",
+      "pizzeria",
+      "pizzerias",
+      "pie",
+      "pies",
+      "croissant",
+      "croissants",
+      "baguette",
+      "baguettes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3214",
+    "meaning": "投掷、钉立、推介等多义；另有黑黏材料和容器同形词",
+    "core": "PITCH：多幅画分开看，不把所有意思硬塞一个动作",
+    "image": "pitch 投球 → pitcher 投手；pitcher 水壶另源；pitchfork 叉起投放的农具；音高不等于音量。",
+    "intro": "这个词尤其适合分支学习。能解释的中间环节讲清，历史不明处保留，不用万能的扔把球场、沥青、水壶全部串成故事。",
+    "forms": "picchen → pitch；pitch + -er/fork；pix → piċ → 材料 pitch；pichier → 容器 pitcher。\n\n动作 pitch 较早有插入、竖立等材料，后有投掷、设置等义；部分词义联系并不清楚。过去词尾 -ed 在 /tʃ/ 后读 /t/，不是 /ɪd/。\n\n投、搭起的 pitch 较早有插入、固定义，可能接古英语未见记录的相关形式；推介义近源联系不完全确定。现代加 -ing，沥青义 pitch 另源。\n\npitch 的投掷、插立词族形成球场、音高、推介等意义，具体衔接未必完全清楚；沥青 pitch 另源。现代加 -es，读 /ɪz/。",
+    "branches": [
+      [
+        "基本多义词与投手",
+        "pitch · pitcher"
+      ],
+      [
+        "农具组合",
+        "pitchfork"
+      ],
+      [
+        "pitch → pitched：搭起、投出与推介",
+        "pitched"
+      ],
+      [
+        "pitch → pitching：搭起、投球与推介",
+        "pitching"
+      ],
+      [
+        "pitch 多义分线 → pitches",
+        "pitches"
+      ]
+    ],
+    "contrasts": "pitch/volume 音高与音量；pitcher 投手和容器不同来路；pitcher/picture 注意 /k/。",
+    "practice": "The pitcher drank from a pitcher of water after pitching.\n\n投球后，投手倒了一壶里的水来喝。",
+    "words": [
+      "pitch",
+      "pitcher",
+      "pitchfork",
+      "pitched",
+      "pitching",
+      "pitches"
+    ],
+    "exclude": {
+      "pitch-black": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pitch-perfect": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3521",
+    "meaning": "箱子与胸部；胸部形态、声音等特征",
+    "core": "CHEST：箱子装东西，肋骨像箱子包住器官",
+    "image": "chest 箱、胸 → chested 具有某种胸部 → chesty 接具体搭配。",
+    "intro": "箱子到胸部有真实的历史比喻。两个形容词也要看用法：chested 多跟在体形描述后，chesty 可以描述咳嗽、声音。",
+    "forms": "kistē → cista → ċest → chest；chest + -ed/-y；chest of drawers 固定组合。",
+    "branches": [
+      [
+        "箱与胸的基本词",
+        "chest"
+      ],
+      [
+        "形态与相关特征",
+        "chested · chesty"
+      ]
+    ],
+    "contrasts": "chest/chestnut 不能按现代字母误拆；chested -ed 表具有；chesty cough 不是胸部丰满。",
+    "practice": "The broad-chested actor spoke in a deep, chesty voice.\n\n胸膛宽阔的演员用低沉、胸腔共鸣重的声音说话。",
+    "words": [
+      "chest",
+      "chested",
+      "chesty"
+    ],
+    "exclude": {}
+  }
+]

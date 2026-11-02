@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2760",
+    "meaning": "阅读；把文字、符号读成信息",
+    "core": "READ：从可见符号里解出意思",
+    "image": "不只眼睛扫到字，而是读懂字；表情、仪表、数据也能提供可解读的信息。",
+    "intro": "read 接古英语 rǣdan，早期包含劝告、解释、阅读等义，经中古英语 reden 演变。现代原形 /riːd/，过去式与过去分词 /red/；拼写相同不等于读音相同。",
+    "forms": "先看 read、reading、reader，再看 readable → readability，随后是 reread、unread、misread、proofread 这些前后添加的具体任务，readme 最后作为文件命名看。\n\nreader 的 read 读 /riːd/，不是过去式 /red/；人物、读本、读取装置等用法分场景。\n\n古英语解释、阅读词传承，reads 读 ri:dz，不沿过去式 red。\n\nread 的读取、解释用途名词化后，可以数具体活动、结果、理解版本。\n\n谜语 riddle 接古英语 raedels，与 read 的解释、猜解旧义相关；筛子 riddle 承 hriddel，筛、打孔和布满用法另路。这里不把两种 riddle 合成一个来源。",
+    "branches": [
+      [
+        "动作、活动和执行者",
+        "read · reading · reader"
+      ],
+      [
+        "易读这一性质",
+        "readable · readability"
+      ],
+      [
+        "重读、未读及其他处理",
+        "reread · unread · misread · proofread"
+      ],
+      [
+        "说明文件名称",
+        "readme"
+      ],
+      [
+        "read → reader → readers：读者、读本与读取工具",
+        "read · reader · readers"
+      ],
+      [
+        "read → reads：读懂文字与显示信息",
+        "read · reads"
+      ],
+      [
+        "reading → readings：诵读、读数与解读",
+        "reading · readings"
+      ],
+      [
+        "riddle 的猜解词族与另源筛孔词分路",
+        "read · riddle · riddles · riddled · riddling"
+      ]
+    ],
+    "contrasts": "reading／reader：活动或读数与人、设备。readable／unread：读得出与尚未读。readme 是“读我”命名，不把 me 当后缀。",
+    "practice": "The reader reread the instructions, then checked the unread note.\n\n读者重读了说明，接着查看那张还没读过的便条。",
+    "words": [
+      "read",
+      "reading",
+      "reader",
+      "readable",
+      "readability",
+      "reread",
+      "unread",
+      "misread",
+      "proofread",
+      "readme",
+      "readers",
+      "reads",
+      "readings",
+      "riddle",
+      "riddles",
+      "riddled",
+      "riddling"
+    ],
+    "exclude": {
+      "read-only": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "must-read": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-read": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3101",
+    "meaning": "活着、生活；活的、实时的",
+    "core": "LIVE：生命继续，或事件正在现场发生",
+    "image": "住在哪里、怎样过日子读 /lɪv/；活的动物、现场音乐读 /laɪv/。",
+    "intro": "动词 live 来自古英语 libban、lifian，读 /lɪv/；形容词 live 由 alive 去开头弱音而来，读 /laɪv/。这些与 life 相关，但现代的词性、读音要分别学。",
+    "forms": "living、livable、livability、relive、outlive 接动词生活这一支；livestock、livestream 接 /laɪv/ 的活的、实时这一支。liver 常见器官义是独立古词，不能按现代 live + -er 硬拆；livin 在原表里是专门蛋白质名称，本页略过。\n\n动词 lives 读 /lɪvz/，与 life 生命的复数 /laɪvz/ 同拼写、不同读音。\n\nlived 作为生活动词的过去形式读 /lɪvd/；与 live 直播、活的形容词读音另分。\n\n此 live 读 /laɪv/，与居住、生活动词的 /lɪv/ 读音分开。",
+    "branches": [
+      [
+        "生活与宜居",
+        "live · living · livable · livability"
+      ],
+      [
+        "时间上的再体验与超越",
+        "relive · outlive"
+      ],
+      [
+        "活的、实时的分支",
+        "livestock · livestream · liven"
+      ],
+      [
+        "同形提醒",
+        "liver"
+      ],
+      [
+        "live → lives：居住、生活的单数主语动作",
+        "live · lives"
+      ],
+      [
+        "live → lived：住过、生活过",
+        "live · lived"
+      ],
+      [
+        "live 的实时用法进入 livestream",
+        "livestream · livestreams · livestreamed · livestreaming"
+      ]
+    ],
+    "contrasts": "live／life：动词、形容词与名词；live 的 /lɪv/、/laɪv/ 两读。relive／relieve：重新体验与缓解不同。liver 器官名不按职业后缀解释。",
+    "practice": "They live near the theatre and often watch live music there.\n\n他们住在剧院附近，经常在那里听现场音乐。",
+    "words": [
+      "live",
+      "living",
+      "livable",
+      "livability",
+      "relive",
+      "outlive",
+      "livestock",
+      "livestream",
+      "liven",
+      "liver",
+      "lives",
+      "lived",
+      "livestreams",
+      "livestreamed",
+      "livestreaming"
+    ],
+    "exclude": {
+      "live-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-live": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "live-trap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "live-tweet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "livin": "livin 在现有词条中是专门蛋白质名，按用户偏好先不展开。"
+    }
+  }
+]

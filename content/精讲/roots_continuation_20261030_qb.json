@@ -1,0 +1,123 @@
+[
+  {
+    "id": "A1960",
+    "meaning": "动作、状态、性质；也可指具体发生的事",
+    "core": "-ENCE：从描述某人、某事，转到谈状态或过程本身",
+    "image": "converge 汇合 → convergence 汇合、趋同；excellent 出色的 → excellence 卓越。不是多出神秘概念，而是换成可以作为主语、宾语来谈的名词。",
+    "intro": "把几个词放在句子里看：She is excellent 是在赞她，Her excellence 是在谈她的出色。reference 可以是参考资料、提及；residence 可以是住所；occurrence 可以是一件发生的事。名词尾只提示用法方向，不代替整词含义。",
+    "forms": "与 -ance 的法语、拉丁历史密切相关，远接 -entia、-antia 等材料；现代不能只按 /əns/ 的读音判断拼 a 还是 e。常见 -ent／-ence 对应，如 excellent／excellence、abhorrent／abhorrence；convergence 则可对应 converge + -ence。许多词整体借入，人物名词、动词或形容词在现代英语里的长短顺序不自动等于出现年代。\n\n名词有英语派生或法语借入分析，动词后来由名词转用。\n\npreference 有法语、中世纪拉丁独立名词来源。\n\n同接拉丁 revereri 敬畏，re- 可加强，vereri 敬畏。reverence 对应状态名词 -ence，reverent 接现在分词 -ent，reverend 另接 -endus 应被敬重；-ial、-ly、否定 ir- 各完整解释，不能混成真理 ver-。",
+    "branches": [
+      [
+        "向同一点靠拢",
+        "converge · convergence"
+      ],
+      [
+        "使人打消念头",
+        "deter · deterrent · deterrence"
+      ],
+      [
+        "强烈排斥与疫病旧用语",
+        "abhor · abhorrent · abhorrence · pestilence"
+      ],
+      [
+        "表现突出与卓越",
+        "excel · excellent · excellence"
+      ],
+      [
+        "常见状态、关系与事件",
+        "confidence · presence · absence · existence · difference · occurrence"
+      ],
+      [
+        "资料、经验和认识",
+        "reference · experience · evidence · intelligence · science · conscience"
+      ],
+      [
+        "reference → references：指向资料、提及与推荐",
+        "reference · references"
+      ],
+      [
+        "prefer、preference → preferences：优先看待",
+        "prefer · preference · preferences"
+      ],
+      [
+        "revere 敬重 → reverence、reverent 等",
+        "revere · reverence · reverent · reverend · reverential · reverently · irreverent · irreverence"
+      ]
+    ],
+    "contrasts": "deterrent 是阻吓因素、相应形容词，deterrence 是威慑作用；excellence 卓越与 excellency 称谓分开；-ance／-ence 发音相近，拼写仍按词族；pestilence 常见于历史文学，不是某种特定病原体的精确名称。",
+    "practice": "The evidence showed a convergence of views and a shared commitment to excellence.\n\n证据显示观点逐渐趋同，大家也共同追求高水准。",
+    "words": [
+      "converge",
+      "convergence",
+      "deter",
+      "deterrent",
+      "deterrence",
+      "pestilence",
+      "abhor",
+      "abhorrent",
+      "abhorrence",
+      "excel",
+      "excellent",
+      "excellence",
+      "confidence",
+      "presence",
+      "absence",
+      "patience",
+      "audience",
+      "evidence",
+      "experience",
+      "influence",
+      "intelligence",
+      "conscience",
+      "science",
+      "convenience",
+      "competence",
+      "violence",
+      "sequence",
+      "consequence",
+      "negligence",
+      "difference",
+      "reference",
+      "independence",
+      "existence",
+      "residence",
+      "preference",
+      "interference",
+      "coincidence",
+      "occurrence",
+      "dependence",
+      "resilience",
+      "insistence",
+      "precedence",
+      "resurgence",
+      "inference",
+      "recurrence",
+      "abstinence",
+      "subsistence",
+      "deference",
+      "transcendence",
+      "ambivalence",
+      "condolence",
+      "subsidence",
+      "salience",
+      "subservience",
+      "transience",
+      "belligerence",
+      "references",
+      "prefer",
+      "preferences",
+      "revere",
+      "reverence",
+      "reverent",
+      "reverend",
+      "reverential",
+      "reverently",
+      "irreverent",
+      "irreverence"
+    ],
+    "exclude": {
+      "senescence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "penitence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

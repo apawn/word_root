@@ -1,0 +1,250 @@
+[
+  {
+    "id": "B2666",
+    "meaning": "女性晚辈亲属旧称，现代以侄女、外甥女为主",
+    "core": "NIECE：兄弟姐妹的女儿，从你这边看她是谁",
+    "image": "niece 先把家庭关系画面想清楚，再与 nephew、daughter 对照。",
+    "intro": "不必硬找现代前后缀，这个词是借入后延续的整体。中文分父系、母系称呼较细，英语常用一个 niece 覆盖。",
+    "forms": "neptis → neptia → nece → niece；旧时也有孙女等用法，现代不能照旧源直译。",
+    "branches": [
+      [
+        "现代亲属称呼",
+        "niece"
+      ]
+    ],
+    "contrasts": "niece /niːs/ 与 nice /naɪs/ 不同；也不能用它称自己的女儿。",
+    "practice": "My brother’s daughter is my niece.\n\n我哥哥的女儿是我的侄女。",
+    "words": [
+      "niece"
+    ],
+    "exclude": {
+      "great-niece": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "niece-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4519",
+    "meaning": "短促气流与鼓胀，鸟名 puffin 的关联未定",
+    "core": "PUFF：呼一下、喷一团，也能鼓起来",
+    "image": "puff → puffy、puffed、puffer；puffin 作为有争议词源的鸟名另看。",
+    "intro": "气从嘴里出去是一口，聚到物体里则显得鼓。用这两个方向串常用派生词；不要为了凑同根故事，把海鹦也讲成会膨成球。",
+    "forms": "pyf、pyffan → puff；-y 性质；-ed 结果；-er 人物物品；poffoun → puffin，远源未定。\n\n古英语吹气、拟声材料到现代 puff；名词可数烟气、气流的小团，动词可说吹、喘、鼓起，按场景分支。",
+    "branches": [
+      [
+        "气流与鼓胀性质、结果",
+        "puff · puffy · puffed"
+      ],
+      [
+        "鼓胀相关鱼名和外套",
+        "puffer"
+      ],
+      [
+        "关联有争议的鸟名",
+        "puffin"
+      ],
+      [
+        "puff 的短促气流与常见变化",
+        "puff · puffs · puffed · puffing"
+      ]
+    ],
+    "contrasts": "puffed 末尾 /t/，puffin 末尾 /ɪn/；puffy clouds 不等于每团都是烟，puffer jacket 也不必都填羽绒。",
+    "practice": "She wore a puffer jacket while watching a puffin beneath the puffy clouds.\n\n她穿着蓬松外套，看着蓬松云朵下的一只海鹦。",
+    "words": [
+      "puff",
+      "puffy",
+      "puffed",
+      "puffer",
+      "puffin",
+      "puffs",
+      "puffing"
+    ],
+    "exclude": {
+      "super-puff": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3295",
+    "meaning": "有力切划，伸向大幅削减与斜线符号",
+    "core": "SLASH：划出一道，或把数量猛削下去",
+    "image": "slash → slashing、slasher；backslash 则指反向斜线。",
+    "intro": "用动作看削减，用形状看符号，用 -er 看人物和类型。斜线写法和技术路径需按具体系统学习，不从一个词反推所有用途。",
+    "forms": "slash 远源未定；sh 后接 -ing、-er 不双写；back + slash → backslash。",
+    "branches": [
+      [
+        "动作、削减与相应人物类型",
+        "slash · slashing · slasher"
+      ],
+      [
+        "反向符号",
+        "backslash"
+      ]
+    ],
+    "contrasts": "slash / 与 backslash 方向不同；slasher 是恐怖作品的一支，不是所有惊悚片通称。",
+    "practice": "The report recommends slashing costs, with alternatives separated by a slash.\n\n报告建议大幅削减成本，并用斜线列出替代方案。",
+    "words": [
+      "slash",
+      "slashing",
+      "slasher",
+      "backslash"
+    ],
+    "exclude": {
+      "non-slash": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-slash": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3977",
+    "meaning": "眉部与前额，借高处边缘和旧文化评价发展",
+    "core": "BROW：眼睛上方的一道，再看具体复合词",
+    "image": "brow → eyebrow、unibrow；highbrow、lowbrow 进入文化趣味评价。",
+    "intro": "部位、地形、文化标签是三种语境。高低眉的旧智力联想留下了词，却不是可靠的头形判断科学。",
+    "forms": "brū → browe → brow；eye 眼、uni- 单一；high、low 的文化比喻带旧时代头形观念背景。\n\n眉毛整体按两道眉数，不是把每根毛另当一个 eyebrow。\n\nbrow 加 beat；早期是用严厉、傲慢的目光压倒对方，眉眼属于施压的人，不是殴打受害者的眉毛。",
+    "branches": [
+      [
+        "身体部位与外观名称",
+        "brow · eyebrow · unibrow"
+      ],
+      [
+        "文化趣味标签",
+        "highbrow · lowbrow"
+      ],
+      [
+        "brow 词族 eyebrow 的复数",
+        "eyebrow · eyebrows"
+      ],
+      [
+        "browbeat：用严厉脸色、声势压人",
+        "brow · browbeat · browbeats · browbeaten · browbeating"
+      ]
+    ],
+    "contrasts": "brow 不总等于眉毛本身；highbrow、lowbrow 的文化评价不能当作人的智力、价值测量。",
+    "practice": "She raised an eyebrow, then wiped the rain from her brow.\n\n她挑了挑眉，又擦掉额头上的雨水。",
+    "words": [
+      "brow",
+      "eyebrow",
+      "unibrow",
+      "highbrow",
+      "lowbrow",
+      "eyebrows",
+      "browbeat",
+      "browbeats",
+      "browbeaten",
+      "browbeating"
+    ],
+    "exclude": {
+      "browed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4275",
+    "meaning": "身体贴近表面的移动，伸向缓行、程序与取悦",
+    "core": "CRAWL：沿着表面一点点往前走",
+    "image": "crawl → crawler，动作、泳姿与相应人或程序分开。",
+    "intro": "手膝着地是入口，堵车缓行是比喻，程序沿链接访问是技术比喻。front crawl 的泳姿名则不能被慢这个常见联想限制。",
+    "forms": "krafla 等 → crawlen → crawl；+ -er → crawler；旧构形有反复抓挠背景，现代不要硬拆成 crab 加词尾。\n\ncrawl 接北欧爬、抓行材料；现代 crawled 用规则 -ed，crawler 加人物、工具后缀，网络爬虫是程序逐页访问的比喻。",
+    "branches": [
+      [
+        "移动动作及相关人物、机器、程序",
+        "crawl · crawler"
+      ],
+      [
+        "crawl 的贴地爬行、缓慢前进与爬虫",
+        "crawl · crawls · crawled · crawling · crawler · crawlers"
+      ]
+    ],
+    "contrasts": "crawl 泳姿不要求慢；crawler 也不自动是恶意程序；奉承义带负面态度。",
+    "practice": "The crawler visits pages while the traffic outside crawls along.\n\n爬虫访问着网页，外面的车流则缓慢挪动。",
+    "words": [
+      "crawl",
+      "crawler",
+      "crawls",
+      "crawled",
+      "crawling",
+      "crawlers"
+    ],
+    "exclude": {
+      "spider-crawl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3621",
+    "meaning": "扭束材料制成火把，后扩为手持照明和火焰工具",
+    "core": "TORCH：手上有光，但光不必每次来自燃烧",
+    "image": "torch → torchlight；blowtorch 保留火焰工具分支。",
+    "intro": "火把到英式手电筒靠照明功能连接。torchlight 可以是任一种光，blowtorch 却不能因为读到 torch 就误认成普通手电。",
+    "forms": "法语 torche → torch，更早常联系拉丁扭绕材料；torch + light；blow + torch。\n\n经法语借词，扭成束材料的拉丁远源是通常解释；现代按英美语境、光源区分火把和手电。",
+    "branches": [
+      [
+        "照明物与光",
+        "torch · torchlight"
+      ],
+      [
+        "喷出火焰的工具",
+        "blowtorch"
+      ],
+      [
+        "torch 的火把与英式手电义",
+        "torch · torches"
+      ]
+    ],
+    "contrasts": "torchlight 不要求有火；blowtorch 则不是普通手电筒。词源的重建中间形式不当作直接留存记录。",
+    "practice": "By torchlight, they found the missing tool beside the blowtorch.\n\n借着手电光，他们在喷灯旁找到了丢失的工具。",
+    "words": [
+      "torch",
+      "torchlight",
+      "blowtorch",
+      "torches"
+    ],
+    "exclude": {
+      "torchwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4436",
+    "meaning": "自然、未经世事的旧材料，发展出缺少经验的判断",
+    "core": "NAIVE：看得太简单，还没想到现实的曲折",
+    "image": "naive → naively、naivety，性质、方式和经验不足的状态。",
+    "intro": "先把天真与缺少经验连起来，不要只背幼稚一个贬词。语境可能轻责，也可能欣赏无心机；是否可靠要看具体判断。",
+    "forms": "nativus → 法语 naïve → naive；-ly 副词保留 e；naivety 是相应性质名词形式。",
+    "branches": [
+      [
+        "性质、方式与抽象名词",
+        "naive · naively · naivety"
+      ]
+    ],
+    "contrasts": "naive 与 native 同有更早词源材料，但今天不能互换；naively 不是诚实地的通用说法。",
+    "practice": "It was naive to assume that, and I now recognise my naivety.\n\n那么想很天真，如今我也认识到了自己当时经验不足。",
+    "words": [
+      "naive",
+      "naively",
+      "naivety"
+    ],
+    "exclude": {
+      "drug-naive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semi-naive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3889",
+    "meaning": "粘着不易分开，借到困境、持续与调整迟缓",
+    "core": "STICKY：碰上后，不容易马上脱开",
+    "image": "sticky → stickiness，形容词转性质名词；困难情形也靠不易摆脱理解。",
+    "intro": "从手上的糖浆进入，再理解棘手问题和抽象领域中的黏性。不必每次都译成真的胶，也不要把黏与硬当一个性质。",
+    "forms": "stick + -y → sticky；y 改 i + -ness → stickiness。",
+    "branches": [
+      [
+        "性质与性质名词",
+        "sticky · stickiness"
+      ]
+    ],
+    "contrasts": "sticky situation 是难处理的局面，非涂胶场景；stickiness 与 stiffness 不是同一个词。",
+    "practice": "The sticky mixture left a feeling of stickiness on his hands.\n\n这种黏糊糊的混合物让他双手也变得黏糊糊的。",
+    "words": [
+      "sticky",
+      "stickiness"
+    ],
+    "exclude": {
+      "sticky-note": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

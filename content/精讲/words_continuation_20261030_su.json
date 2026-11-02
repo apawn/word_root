@@ -1,0 +1,202 @@
+[
+  {
+    "word": "metalcore",
+    "ipa": "英 /ˈmetəlkɔː/；美 /ˈmetəlkɔːr/",
+    "meaning": "金属核〔音乐风格〕",
+    "sense": "把金属乐与硬核朋克的声音、节奏等材料融合起来的一类音乐。先把 metal 放在音乐分类里理解。",
+    "split": "metal 金属乐 + -core；后部从 hardcore punk 硬核朋克中抽出，继续形成相关音乐类型名。",
+    "history": [
+      [
+        "hardcore → 可复用的 -core",
+        "从既有音乐名抽出后部"
+      ],
+      [
+        "metal + -core → metalcore",
+        "金属乐与硬核朋克融合的类型"
+      ]
+    ],
+    "explanation": "a metalcore band 金属核乐队；a metalcore album 金属核专辑。类型内部风格也会有差异，词尾不列出每首歌的具体特征。",
+    "usage": "listen to metalcore；a metalcore festival。",
+    "contrast": "heavy metal 与 hardcore punk 是理解这个名称的两边；metalcore 是形成的融合类型，不能只按 metal 的普通材料义理解。",
+    "examples": [
+      [
+        "The band released a new metalcore album.",
+        "这支乐队发行了一张新的金属核专辑。"
+      ],
+      [
+        "The festival features several metalcore bands.",
+        "音乐节安排了几支金属核乐队演出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/metalcore#English"
+    ]
+  },
+  {
+    "word": "cottagecore",
+    "ipa": "英 /ˈkɒtɪdʒkɔː/；美 /ˈkɑːtɪdʒkɔːr/",
+    "meaning": "田园生活美学、乡间小屋风格",
+    "sense": "乡间小屋、花园、手工、烘焙、朴素布料，被组合成一种向往慢节奏乡村生活的审美，就是 cottagecore 的典型画面。",
+    "split": "cottage 乡间小屋 + 现代风格标签 -core。-core 从音乐分类等语境扩展到审美、网络文化命名，在这里不表示某种音乐节奏。",
+    "history": [
+      [
+        "-core 从类型名扩展到风格标签",
+        "以某主题为中心的一套审美"
+      ],
+      [
+        "cottage + -core → cottagecore",
+        "理想化朴素乡村生活的美学"
+      ]
+    ],
+    "explanation": "cottagecore fashion 田园风穿搭；a cottagecore aesthetic 田园美学。可谈服装、装饰、照片、生活想象，不必真的住在乡村。",
+    "usage": "cottagecore decor；cottagecore style。",
+    "contrast": "cottage 只是一种房屋；cottagecore 是围绕乡村生活组织的审美标签，常带理想化、怀旧的取向。",
+    "examples": [
+      [
+        "The room has a cottagecore feel, with dried flowers and handmade curtains.",
+        "房间摆着干花、挂着手工窗帘，很有田园美学的感觉。"
+      ],
+      [
+        "Her photographs celebrate the cottagecore aesthetic.",
+        "她的照片展现了对田园生活美学的喜爱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cottagecore#English"
+    ]
+  },
+  {
+    "word": "musculoskeletal",
+    "ipa": "英 /ˌmʌskjələʊˈskelɪtəl/；美 /ˌmʌskjəloʊˈskelɪtəl/",
+    "meaning": "肌肉骨骼的",
+    "sense": "把身体支撑、运动的肌肉和骨骼合起来讨论，就是 musculoskeletal。先抓住肌肉加骨架两个部分。",
+    "split": "musculo- 肌肉相关组合形式 + skeletal 骨骼的；前部接拉丁 musculus 肌肉，后部接 skeleton 词族。",
+    "history": [
+      [
+        "musculo- + skeletal",
+        "肌肉相关 + 骨骼相关"
+      ],
+      [
+        "musculoskeletal 的专业形容词",
+        "肌肉骨骼系统及相关问题"
+      ]
+    ],
+    "explanation": "the musculoskeletal system 肌肉骨骼系统；musculoskeletal pain 肌肉骨骼疼痛。这个形容词说明涉及的系统，不自动给出某一种病因。",
+    "usage": "a musculoskeletal examination；musculoskeletal structure。",
+    "contrast": "muscular 单说肌肉相关，也可说肌肉发达；skeletal 单说骨骼相关。musculoskeletal 把两方面放到同一系统里。",
+    "examples": [
+      [
+        "The lesson introduces the musculoskeletal system.",
+        "这节课介绍肌肉骨骼系统。"
+      ],
+      [
+        "The report describes musculoskeletal pain in the shoulder.",
+        "报告描述了肩部的肌肉骨骼疼痛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/musculoskeletal#English"
+    ]
+  },
+  {
+    "word": "ribosome",
+    "ipa": "英 /ˈraɪbəʊsəʊm/；美 /ˈraɪboʊsoʊm/",
+    "meaning": "核糖体",
+    "sense": "像细胞里按说明书装配蛋白质的小机器：读取信使 RNA 的信息，把氨基酸接成链。",
+    "split": "ribo- 接 ribonucleic acid 等核糖相关材料，-some 接希腊 soma 身体，在细胞结构名里作小体名称。是近代生物学命名。",
+    "history": [
+      [
+        "ribo- 核糖、核糖核酸相关 + -some 小体",
+        "按所含、所涉材料为结构命名"
+      ],
+      [
+        "ribosome",
+        "细胞中参与蛋白质合成的结构"
+      ]
+    ],
+    "explanation": "ribosomes in a cell 细胞中的核糖体；ribosome structure 核糖体结构。核糖体由 RNA 和蛋白质组成，承担蛋白质合成任务。",
+    "usage": "a ribosome subunit；protein synthesis at the ribosome。",
+    "contrast": "ribosome 是结构名称，RNA 是其中的重要分子材料之一。核糖体和细胞核也不是同一个结构，名字都有核字不能混为一处。",
+    "examples": [
+      [
+        "Ribosomes help cells make proteins.",
+        "核糖体帮助细胞制造蛋白质。"
+      ],
+      [
+        "The diagram shows a ribosome reading messenger RNA.",
+        "图示展示了核糖体读取信使 RNA 的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ribosome#English",
+      "https://www.genome.gov/genetics-glossary/Ribosome"
+    ]
+  },
+  {
+    "word": "riboflavin",
+    "ipa": "英 /ˌraɪbəʊˈfleɪvɪn/；美 /ˌraɪboʊˈfleɪvɪn/",
+    "meaning": "核黄素；维生素 B₂",
+    "sense": "读营养标签时遇到 riboflavin，先认出它就是维生素 B₂。这个较长名称把相关糖材料与黄色材料的词族接在一起。",
+    "split": "ribo(se)- 核糖相关材料 + flavin 黄素；flavin 的更早材料接拉丁 flavus 黄色。名称涉及化学结构、颜色的历史命名。",
+    "history": [
+      [
+        "ribo(se)- + flavin",
+        "核糖相关材料 + 黄素词族"
+      ],
+      [
+        "riboflavin 的固定物质名",
+        "维生素 B₂、核黄素"
+      ]
+    ],
+    "explanation": "riboflavin on a nutrition label 营养标签上的核黄素；riboflavin content 核黄素含量。它是维生素名称，不是所有黄色成分的通名。",
+    "usage": "dietary riboflavin；foods containing riboflavin。",
+    "contrast": "riboflavin 是维生素 B₂；ribosome 是核糖体。相同 ribo- 说明名称材料的联系，不表示两者是同一种物质。",
+    "examples": [
+      [
+        "The nutrition label lists riboflavin as vitamin B2.",
+        "营养标签将核黄素标为维生素 B₂。"
+      ],
+      [
+        "The article discusses riboflavin in everyday foods.",
+        "文章讨论了日常食物中的核黄素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/riboflavin#English",
+      "https://ods.od.nih.gov/factsheets/Riboflavin-Consumer/"
+    ]
+  },
+  {
+    "word": "cerebrum",
+    "ipa": "英 /ˈserɪbrəm/；美 /səˈriːbrəm/ 或 /ˈserəbrəm/",
+    "meaning": "大脑",
+    "sense": "脑的解剖图上，左右两个大脑半球组成的主要部分叫 cerebrum。它参与感觉整合、思考、记忆和自主运动等多种活动。",
+    "split": "借自拉丁 cerebrum 脑，经中古英语延续。英语通常把它作为完整解剖名称，不拆成现代 ce- + re- 等前缀。",
+    "history": [
+      [
+        "拉丁 cerebrum → 中古英语 cerebrum",
+        "脑的学术名称"
+      ],
+      [
+        "现代解剖学 cerebrum",
+        "大脑，通常指左右大脑半球这一主要部分"
+      ]
+    ],
+    "explanation": "the cerebrum and cerebellum 大脑与小脑；the structure of the cerebrum 大脑结构。复数可用 cerebra 或 cerebrums。",
+    "usage": "the two hemispheres of the cerebrum；a model of the cerebrum。",
+    "contrast": "日常 brain 常说整个脑或头脑；解剖名称 cerebrum 更具体。cerebellum 是小脑，名称相近但部位不同。",
+    "examples": [
+      [
+        "The model shows the two hemispheres of the cerebrum.",
+        "模型展示了大脑的两个半球。"
+      ],
+      [
+        "The diagram distinguishes the cerebrum from the cerebellum.",
+        "图示区分了大脑与小脑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cerebrum#English"
+    ]
+  }
+]

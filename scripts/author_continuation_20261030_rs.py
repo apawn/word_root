@@ -1,0 +1,118 @@
+"""Common words, semantic contrasts and independently used combining forms."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('mid','/mɪd/','中间的；中期的；一般般、不出色的〔口语〕',
+ '原先把位置放在中间，后来评价东西也能说卡在中间档：不算很差，但没什么亮点。That film was mid 常是这种随意评价。',
+ '接古英语 midd、midde，经中古英语延续，属于中间、居中的旧日耳曼语词族。现代口语把中间档引到质量一般，与 middling 等表达也有联系。',
+ [['古英语 midd、midde → 中古英语 mid','中间位置、时间中段'],['现代 mid 的一般般义','质量平平、没有特别出色的地方']],
+ 'mid to late October 十月中下旬；That game was mid. 那个游戏一般般。后一个是口语评价，正式评价中通常用更具体的说法。',
+ 'mid to late；a rather mid performance。','middle 常作独立名词或完整修饰语；mid 很多传统用法在组合中。口语 mid 说质量平平，不是把影片播放进度停在一半。',
+ ('We expect the work to finish in mid to late November.','我们预计工作会在十一月中下旬结束。'),('The acting was good, but the story was mid.','表演不错，但故事一般般。'),sources=['https://www.merriam-webster.com/dictionary/mid'])
+W('anti','常见 /ˈænti/；美式亦见 /ˈæntaɪ/','反对的；反对者；反对〔可独立使用〕',
+ '双方讨论一项提议，一边赞成，一边反对。反对那一边的人可叫 the antis；说某人 anti 某事，是说他持反对态度。',
+ '由 anti- 反对、相反的前缀材料转成独立形容词、名词等用法；其历史经拉丁、法语接希腊 anti。不是某个固定英语长词唯一的缩写。',
+ [['希腊 anti → 拉丁、法语及英语 anti-','对着、相反、反对等关系'],['anti 独立成词','反对的；反对者；反对']],
+ 'pros and antis 赞成者与反对者；be anti something 反对某事，较随意。名词复数 antis，不写成 anties。',
+ 'the antis；be anti the proposal。','ante- 常指在前、先于，anti- 常指反对、相反；不能凭读音相近就互换拼写和含义。',
+ ('The antis raised several practical objections.','反对者提出了几个实际问题。'),('She is not anti technology; she just dislikes this design.','她并不反对技术，只是不喜欢这个设计。'),sources=['https://www.merriam-webster.com/dictionary/anti'])
+W('jay','/dʒeɪ/','松鸦、蓝松鸦等鸟名；字母 J 的名称；旧称冒失、吵闹的人',
+ '日常鸟名里会看到 blue jay；交通词 jaywalking 里的 jay 却与旧时对某类冒失、粗俗人物的称呼有关，不是说鸟也要走人行横道。',
+ '鸟名经古法语 jai 等进入英语，常与晚期拉丁 gaius 联系，最远命名细节有争论。鸟名后来用于人物称呼；字母 J 的 jay 则是字母名称的同形用法。',
+ [['古法语 jai 等 → 英语鸟名 jay','相关鸟类的名称'],['人物比喻 jay；另有字母名称','吵闹、冒失等旧人物称呼；J 的读名']],
+ 'a blue jay 蓝松鸦；the letter J 字母 J，读 /dʒeɪ/。旧人物义主要帮助理解词源，现代普通介绍一个乡下人不必用它。',
+ 'a blue jay；a jay in the garden。','jaywalking 的前部不是 take a walk like a bird 那种直译；同一拼写的字母名称也不能拿来解释全部鸟名历史。',
+ ('A blue jay landed on the fence.','一只蓝松鸦落在篱笆上。'),('The child spotted a jay in the garden.','孩子在花园里发现了一只松鸦。'),sources=['https://www.etymonline.com/word/jaywalking'])
+W('jaywalk','英 /ˈdʒeɪwɔːk/；美 /ˈdʒeɪwɔːk/','不按交通规则横穿马路；乱穿马路',
+ '没有按相应人行过街规则穿过车流，英语里常叫 jaywalk。重点是过街方式，不是所有不走直线的步行。',
+ '从人物名词 jaywalker 逆构出动词，现代可按 jay + walk 理解；jay 有旧时冒失、不懂规矩者等人物称呼背景。二十世纪初美国交通语境传播，具体命名动机存在不同解释。',
+ [['jaywalker 的人物称呼','不按相应规则过街的人'],['由人物名词逆构的 jaywalk','不按规则横穿道路']],
+ 'jaywalk across a road 乱穿道路；jaywalk 作动词，jaywalking 可作相应活动名词。日常泛说过马路用 cross the road 就够。',
+ 'jaywalk across；someone was jaywalking。','jaywalk 自带不按过街规则的含义；cross 只说穿过。这个词的词义不代替各地具体交通规则。',
+ ('The film shows a character jaywalking across a busy road.','电影里有个角色在繁忙道路上乱穿马路。'),('He waited for the crossing signal rather than jaywalking.','他等候过街信号，没有乱穿马路。'),sources=['https://www.etymonline.com/word/jaywalking','https://en.wiktionary.org/wiki/jaywalk#English'])
+W('jaywalking','英 /ˈdʒeɪwɔːkɪŋ/；美 /ˈdʒeɪwɔːkɪŋ/','乱穿马路；不按规则横穿道路的活动或动作',
+ '把 jaywalk 这个过街动作当成一种行为来谈。traffic lessons about jaywalking 是谈这种过街行为，不是某个鸟类散步课程。',
+ '形式上对应 jaywalk + -ing；早期美国交通语境已出现 jaywalking。jay 的旧人物贬称背景与 walk 结合，活动名词后来常用于交通讨论。',
+ [['jay、walk 材料形成的交通词族','不合规则的过街行为'],['jaywalking 的动作名词、分词用法','这种行为本身；正在乱穿马路']],
+ 'discuss jaywalking 讨论乱穿马路；was jaywalking 正在乱穿马路。一个是谈活动，一个是句中的动词形式。',
+ 'a discussion of jaywalking；be jaywalking。','walking 步行是中性动作，jaywalking 加入特定道路行为及不合规则的评价；两者范围不同。',
+ ('The class discussed jaywalking and pedestrian crossings.','课堂上讨论了乱穿马路与人行过街设施。'),('The scene begins with a man jaywalking through traffic.','这段场景以一名男子穿过车流乱过马路开始。'),sources=['https://www.etymonline.com/word/jaywalking'])
+W('jaywalker','英 /ˈdʒeɪwɔːkə/；美 /ˈdʒeɪwɔːkər/','乱穿马路的人；不按规则过街的行人',
+ '不是泛指所有步行者，而是把某个行人按他不按规则过街的行为称呼。',
+ 'jay 的旧时冒失、不懂规矩者称呼与 walker 行走者结合；随后由人物词逆构 jaywalk 动词。现代对照 jaywalk 与 -er 很直观，但历史方向不是只看字数。',
+ [['jay 的人物称呼 + walker','被认为冒失、不按规则走路的人'],['交通中的 jaywalker；逆构关系连接 jaywalk','不按过街规则的行人；相应动词']],
+ 'a jaywalker crossing the road 乱穿马路的人；spot a jaywalker 看到一个乱穿马路的行人。是按特定行为称呼，不等于行人这个普遍身份。',
+ 'a jaywalker；watch for jaywalkers。','pedestrian 是行人，jaywalker 是特定不合规则过街行为中的人。后缀 -er 本身不带违规义，相关含义来自整个词族。',
+ ('The driver slowed down when a jaywalker stepped into the road.','一个乱穿马路的人走上道路时，司机减了速。'),('The cartoon shows a jaywalker ignoring a nearby crossing.','漫画画了一个人，不走旁边的过街设施而乱穿马路。'),sources=['https://en.wiktionary.org/wiki/jaywalker#English','https://en.wiktionary.org/wiki/jaywalk#English'])
+R('B3795','避开；防止某事发生','AVOID：让自己与不想碰到的对象错开',
+ 'avoid a puddle 绕开水坑；avoid a mistake 则是设法别犯错。前者是空间错开，后者把同样的关系放到结果上。',
+ 'avoid 经中古英语、法语相应形式，较早与倒空、清除相关，词族最终连接拉丁 vacuus 空的。现代避开义逐渐固定，不从 a + 一个现代独立词 void 机械造出所有义。',
+ 'avoid + -ance → avoidance；avoid + -able → avoidable；avoid + -ant → avoidant。后缀分别说动作、可能性、倾向性质。',
+ [['基本回避与动作名词','avoid · avoidance'],['可以避免与回避倾向','avoidable · avoidant']],
+ 'avoid doing something，不用 avoid to do；avoidable 可以避免与 inevitable 无法避免相对；avoidant 的具体专门用法按语境学。',
+ 'Careful planning can help us avoid avoidable delays.\n\n仔细规划能帮助我们避开本来可以避免的耽搁。','avoid avoidance avoidable avoidant')
+R('B3329','一对；两个相配、成组的东西','PAIR：先把两个看成一组',
+ 'a pair of shoes 两只鞋合成一双；pairwise comparison 则是把对象两两配起来比较。',
+ 'pair 经古法语 paire 接拉丁 paria 成对、相等者的复数材料，与 par 相等有关。',
+ 'pair + -wise → pairwise，后部表示按这种方式。pair 也可作动词，表示配成一对。',
+ [['一对与配对动作','pair'],['两两进行的方式','pairwise']],
+ 'repair 修理接另一条 re- + parare 准备、使就绪的历史，不能解释成把一对东西再拼回来。a pair of trousers 则把双腿结构的衣物作为一条来数。',
+ 'We paired the samples and made pairwise comparisons.\n\n我们把样本配成一对一对，进行两两比较。','pair pairwise')
+ROOTS[-1]['exclude']['repair']='常用修理义接法语、拉丁 reparare 词族，不是 pair 一对加 re- 的派生。'
+R('B3831','使害怕；惊吓及相应感觉','SCARE：一个刺激把人吓得一缩',
+ 'scary movie 是让人害怕的电影；scared child 是已经被吓到的孩子，方向不一样。',
+ 'scare 接中古英语 skerren 等使恐惧的动词材料，与北欧语相应形式有关；名词惊吓义与动词相连。',
+ 'scare + -ed → scared；scare + -y → scary，末尾 e 省掉；scare + crow → scarecrow，原是吓鸟、保护作物的装置。',
+ [['引发害怕的动作、事件','scare'],['感受与引发这种感受的性质','scared · scary'],['用来吓鸟的装置','scarecrow']],
+ 'scared 说感到害怕，scary 说让人害怕；a scarecrow 可以是稻草人，不要求真的穿一件乌鸦形状的衣服。',
+ 'The scary noise scared the children.\n\n那阵吓人的声音把孩子们吓到了。','scare scared scary scarecrow')
+R('B4000','力量；强项；把某物变强','STRENGTH：不仅能出力，也能承受、支撑',
+ '绳子的 strength 是承受拉力的能力；一个人的 strengths 是他擅长、靠得住的方面。',
+ 'strength 接古英语 strengþu，与 strong 同族，是旧抽象名词构词及元音变化留下的形式。现代不能只把 strong 原样接 th 写成 strongth。',
+ 'strong ↔ strength 是形容词、性质名词的旧对应；strength + -en → strengthen，使加强或变强。',
+ [['强壮、强度与优势','strong · strength'],['使变强、得到加强','strengthen']],
+ 'strength 不只肌肉力量，也有结构强度、信心与优势；strengthen ties 是加强联系，不是把绳子物理绑粗。',
+ 'Daily practice can strengthen your skills and reveal your strengths.\n\n每天练习能增强技能，也能让你看清自己的强项。','strong strength strengthen')
+R('B4074','退出、退下；退休；退到别处','RETIRE：从原来的活动、位置退出来',
+ 'retire from work 退休；retire to a quiet room 则是退到安静房间。不是每次都在谈年龄。',
+ 'retire 经法语 retirer，较早为 re- 回、后退 + tirer 拉。现代工作退休义是从退出、退离的关系发展而来。',
+ 'retire + -ment → retirement；retire + -ed → retired；retire + -ee → retiree。现代 tire 疲惫不能直接拿来解释 retire 的历史。',
+ [['退出与退休动作','retire'],['状态、阶段与人物','retired · retirement · retiree']],
+ 'retired teacher 是退休教师；tired teacher 是疲惫的教师。retirement 也可以指退出某项长期活动，不总等于达到某个固定年龄。',
+ 'The retired teacher enjoys retirement but still volunteers at the library.\n\n那位退休教师享受退休生活，也仍在图书馆做志愿者。','retire retired retirement retiree')
+R('B3457','提出理由、论证；争论','ARGUE：把理由摆出来，支持或反驳一种看法',
+ 'argue a point 可以理性论证，不要求脸红吵架；an argument 可以是一套理由，也可以是一场争执。',
+ 'argue 经古法语 arguer 接拉丁 arguere 显示、说明、证明、指责等材料。现代论证与争执从这些说清、质疑的关系展开。',
+ 'argue + -able → arguable，去末尾 e；argument 是同族名词。arguable 常说有理由可主张，也可能说尚有争议，需看上下文。',
+ [['提出理由与论证','argue · argument'],['可以主张、讨论的性质','arguable']],
+ 'argue with someone 与人争论，argue for a proposal 为提案辩护；a strong argument 是有力理由，不是声音特别大的争吵。',
+ 'She argued calmly and supported her argument with examples.\n\n她平静地论证，用例子支持自己的观点。','argue argument arguable')
+R('B3534','说话；演说；言语能力','SPEECH：说出来的语言，也可成为一场完整发言',
+ 'give a speech 发表演说；lose the power of speech 失去言语能力；speechless 则可能是惊讶得说不出话。',
+ 'speech 接古英语 spǣc、sprǣc 等，与 speak 的旧日耳曼语词族有关。是历史上相应的动作、结果名词，不是今天给 speak 随手加 ch。',
+ 'speak ↔ speech 是旧词族对应；speech + -less → speechless；speech + writer → speechwriter。',
+ [['说话、演说与能力','speak · speech'],['无话可说与代写演讲的人','speechless · speechwriter']],
+ 'speech 可数时常是一场演讲，不可数时可指言语；speechwriter 写演讲稿，并不因此就是台上发表演讲的人。',
+ 'The speechwriter’s moving speech left the audience speechless.\n\n演讲撰稿人写的动人讲稿，让听众久久说不出话。','speak speech speechless speechwriter')
+R('B4545','步行；走路的动作、用途或性质','WALKING：用脚一步步移动，再形成活动名称',
+ 'walking shoes 适合走路的鞋；go walking 去散步。jaywalking 则专指某类不按规则的过街行为。',
+ 'walking 从早期英语 walk 的相应分词、动作名词延续。jaywalk、jaywalking、jaywalker 是后来美国交通语境中发展的一组词。',
+ 'walk + -ing → walking；jaywalker 是人物称呼，jaywalk 有由其逆构的关系，现代可对照 jaywalk + -ing → jaywalking。按短词到长词读，不代表历史总按字数出现。',
+ [['基本行走与活动','walk · walking'],['前部的旧人物称呼背景','jay'],['交通中的固定行为及人物','jaywalk · jaywalking · jaywalker']],
+ 'jaywalking 不泛指所有步行；jay 的旧人物称呼与鸟名有历史比喻关系，不能理解成模仿鸟走路。',
+ 'We enjoyed walking around the town and used the crossings.\n\n我们愉快地在镇上步行游览，过马路时使用过街设施。','walk walking jay jaywalk jaywalking jaywalker')
+R('B4303','中间；时间中段；质量一般般的口语评价','MID：先定位在中间，再看是否在评价中间档',
+ 'midpoint 是中点，midair 在空中；口语说 a mid film，则常在说影片平平、没什么亮点。',
+ 'mid 从古英语 midd、midde 及更早日耳曼语中间材料延续，与 middle 同族。现代非正式评价进一步把中间档用于质量。',
+ 'mid + point → midpoint；mid + air → midair；amid 接较早 on middan 等中间位置表达，不是现代前缀公式的临时作品。',
+ [['中间位置与基本词族','mid · middle'],['具体位置与时间、空间参照','midpoint · midair · amid']],
+ 'midwife 中的 mid 是旧的 with 与、陪同材料，不是中间的妻子；mid 的口语平平义也不是 middle 这个名词在所有句中都能直接替代。',
+ 'At the midpoint of the story, the ball seems to hang in midair.\n\n故事进行到一半时，那个球仿佛悬在半空。','mid middle midpoint midair amid')
+R('B4301','反对的；反对者；反对的独立表达','ANTI：把反对关系单独说出来',
+ '一项计划有支持者，也有 the antis 反对者；独立 anti 把原来常见于词前的反对关系拿出来使用。',
+ 'anti 由 anti- 的构词材料转成独立词；其反对、相对关系经拉丁、法语接希腊 anti。与前缀总页相连，但这里重点是独立词的句法。',
+ 'anti 可作形容词、名词，也可在较随意表达中像 against 一样接对象；复数 antis。',
+ [['态度、性质','anti〔反对的〕'],['持反对意见的人','anti · antis〔反对者〕']],
+ 'anti 与 ante- 在先不同；antis 是人物名词复数，不能把每个带 anti- 的术语都当一个反对者。',
+ 'Some were enthusiastic, while the antis remained unconvinced.\n\n有些人很热心，反对者却仍未被说服。','anti')
+if __name__=='__main__':save('continuation_20261030_rs',ROOTS,WORDS)

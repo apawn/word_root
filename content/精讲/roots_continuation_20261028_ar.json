@@ -1,0 +1,233 @@
+[
+  {
+    "id": "B3667",
+    "meaning": "健康、完好；有益健康",
+    "core": "HEALTH：身体或一套系统运转得好",
+    "image": "从身体健康，扩展到关系、竞争等状态是否良好；telehealth 另接远程服务。",
+    "intro": "health 接古英语 hǣlþ，与完好、完整的旧词族有关。healthy 可说健康，也可说有益健康；healthful 偏重后者，不给日常用法强行分禁区。",
+    "forms": "health → healthy → unhealthy；health → healthful；tele- + health → telehealth。\n\n现代 health + care 复合，整体通常不可数；这里解释词义与用法。\n\nhealth 加 y，现代比较把末尾 y 改 i，再加完整 er、est。\n\n招呼用 hail 接北欧 heill 等健康、安好材料；冰雹 hail 接古英语 hægl、hagol，是另一来源。hails、hailed、hailing 能承接不同词线，不能全用冰雹解释。",
+    "branches": [
+      [
+        "健康及其反面",
+        "health · healthy · unhealthy"
+      ],
+      [
+        "有益健康与远程服务",
+        "healthful · telehealth"
+      ],
+      [
+        "health → healthcare：健康与医疗照护服务",
+        "health · healthcare"
+      ],
+      [
+        "healthy → healthier → healthiest：状态更好、最好",
+        "healthy · healthier · healthiest"
+      ],
+      [
+        "hail：祝好、招呼一支；冰雹另支",
+        "hail · hails · hailed · hailing"
+      ]
+    ],
+    "contrasts": "healthy 人、食物、习惯都可；healthful 侧重有益；unhealthy 与 unhappy 不同。",
+    "practice": "The clinic’s telehealth service helps people discuss healthy habits from home.\n\n诊所的远程服务让人们在家就能讨论健康习惯。",
+    "words": [
+      "health",
+      "healthy",
+      "unhealthy",
+      "healthful",
+      "telehealth",
+      "healthcare",
+      "healthier",
+      "healthiest",
+      "hail",
+      "hails",
+      "hailed",
+      "hailing"
+    ],
+    "exclude": {
+      "e-health": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3715",
+    "meaning": "等候；留意、侍候",
+    "core": "WAIT：先准备着，留意要来的事或需求",
+    "image": "等车是等待，餐桌服务是留意并接应；词义不能只按一个等字通吃。",
+    "intro": "wait 经法语形式接看守、留意来源；await 经古北法语相关构词而来。waiter 从侍从等旧义到餐厅服务员，不是所有等着的人都叫 waiter。",
+    "forms": "wait → waiting → waitlist；await 与 wait for 对照；waiter → waitress 放一起。\n\n法语看守、留意词接日耳曼来源；ed 在 t 后多一个音节。\n\nawait 借古北法语 awaitier 等，含 a- 向与 waitier 观察，较早有埋伏等待义。现代加 -ing 原词不改，常直接接等待的对象。\n\nwait 经法语接日耳曼看守、留心词族，后有待在原地期待。现代 -s，末尾 /ts/，名词等待段数与动词同形。",
+    "branches": [
+      [
+        "等待、候补、正式等候",
+        "wait · waiting · waitlist · await"
+      ],
+      [
+        "餐饮服务称谓",
+        "waiter · waitress"
+      ],
+      [
+        "wait → waited：留在原处等结果",
+        "wait · waited"
+      ],
+      [
+        "朝向、留意 → await → awaiting",
+        "awaiting"
+      ],
+      [
+        "wait 等待 → waits",
+        "waits"
+      ]
+    ],
+    "contrasts": "await a reply，不写 await for；waiter 服务员、waiting 等候中；候补名单 waitlist 不保证已经获得名额。",
+    "practice": "While we waited for a table, a waiter explained the waitlist.\n\n我们等餐桌时，一位服务员解释了候位名单。",
+    "words": [
+      "wait",
+      "waiting",
+      "waitlist",
+      "await",
+      "waiter",
+      "waitress",
+      "waited",
+      "awaiting",
+      "waits"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3843",
+    "meaning": "希望、盼望",
+    "core": "HOPE：心里盼好结果，觉得还有实现可能",
+    "image": "希望是基本动作和感受；-ful 带来希望，-less 看不到希望，后续副词再说明方式和程度。",
+    "intro": "hope 动词接古英语 hopian，名词也有相应旧形。hoping 在基础词交代，不与 hopping 跳跃混写。hopefully 可说但愿，hopelessly 有些搭配是程度夸张。",
+    "forms": "hope → hopeful → hopefully；hope → hopeless → hopelessly、hopelessness。\n\n本族希望名词、动词均有旧形式，现代形态重合。\n\n古英语 hopian 的本族希望词；保留词尾 e 加 d，与 hop 双写 p 的 hopped 分开。",
+    "branches": [
+      [
+        "希望与积极预期",
+        "hope · hopeful · hopefully"
+      ],
+      [
+        "无望与程度表达",
+        "hopeless · hopelessly · hopelessness"
+      ],
+      [
+        "hope → hopes：期待好结果",
+        "hope · hopes"
+      ],
+      [
+        "hope → hoped：希望与期待的过去",
+        "hope · hopes · hoped · hoping"
+      ]
+    ],
+    "contrasts": "hope 与 wish 按现实可能、句型区分；hopelessness 无望感、helplessness 无助；hopelessly in love 常是爱得无法自拔。",
+    "practice": "We remain hopeful, and hopefully tomorrow will bring better news.\n\n我们仍抱有希望，但愿明天会有更好的消息。",
+    "words": [
+      "hope",
+      "hopeful",
+      "hopefully",
+      "hopeless",
+      "hopelessly",
+      "hopelessness",
+      "hopes",
+      "hoped",
+      "hoping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3094",
+    "meaning": "近、接近",
+    "core": "NEAR：距离、时间或程度的间隔变小",
+    "image": "near 直接说近，nearly 说差一点到某程度，nearby 说周围一带，nearness 抽出接近状态。",
+    "intro": "near 竟然来自旧词的比较级 nēar，后来成为普通近义词；现代再说 nearer、nearest 并不矛盾，语言已重新组织词形。",
+    "forms": "near → nearly、nearby、nearness。\n\n古英语 near 原是 neah 的比较级，现代 near 已作基础词再接 er、est。",
+    "branches": [
+      [
+        "接近与程度",
+        "near · nearly"
+      ],
+      [
+        "位置与状态名词",
+        "nearby · nearness"
+      ],
+      [
+        "near → nearest：旧比较级成为现代基础词",
+        "near · nearer · nearest"
+      ]
+    ],
+    "contrasts": "near the station；a nearby shop；live nearby。nearly 几乎，nearby 附近，不能只按词尾长度猜词性。",
+    "practice": "A nearby shop is nearly empty because it is near closing time.\n\n附近一家商店快到打烊时间了，里面几乎没人。",
+    "words": [
+      "near",
+      "nearly",
+      "nearby",
+      "nearness",
+      "nearer",
+      "nearest"
+    ],
+    "exclude": {
+      "near-fall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "near-native": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2964",
+    "meaning": "跑、流动、持续运行",
+    "core": "RUN：向前流动、让过程持续进行",
+    "image": "腿在跑、水在流、机器在运转，都是不同对象上的连续推进。",
+    "intro": "run 接古英语与古诺尔斯语的相关形式，现代过去式 ran、过去分词 run；复合词常沿用变化。原目录的 ember“余烬”另接古英语 ǣmyrġe，不归 run，本页排除。",
+    "forms": "run → runner、runny；out- + run → outrun；over- + run → overrun；re- + run → rerun；runway、speedrun 分别看场地与流程。\n\nrun → ran → run；现代 run 汇合了较早相关动词的材料，ran 保留旧过去式的元音。\n\nrun 双写 n 加 -ing；运行、经营、连续等义承接 run 的不同支线，不都翻译成跑步。\n\n跑动延伸到机器运转、事务经营，也能将一段连续活动作为可数名词。\n\n本组与 run 比较速度、画面，不是现代 run 的后代。zoom 起于低沉嗡声的拟声材料，航空用法带来快速冲向、掠过，再有镜头变焦。",
+    "branches": [
+      [
+        "基本运行、人物与流动性质",
+        "run · runner · runny"
+      ],
+      [
+        "比较超越、越界和重复",
+        "outrun · overrun · rerun"
+      ],
+      [
+        "场地和游戏流程",
+        "runway · speedrun"
+      ],
+      [
+        "run 的过去形式 ran",
+        "run · ran"
+      ],
+      [
+        "running：跑动、流动与持续运转",
+        "run · running"
+      ],
+      [
+        "run → runs：跑、运行与一段行程",
+        "run · runs"
+      ],
+      [
+        "zoom：嗡地冲过去，到镜头拉近",
+        "zoom · zooms · zoomed · zooming"
+      ]
+    ],
+    "contrasts": "outrun 超过另一方、run out 用尽；overrun 超出边界；rerun 重播、重跑，remake 重新制作。ember 不是 run 的扩展词。",
+    "practice": "We reran the program after the first run overran its time limit.\n\n第一次运行超时后，我们重新运行了程序。",
+    "words": [
+      "run",
+      "runner",
+      "runny",
+      "outrun",
+      "overrun",
+      "rerun",
+      "runway",
+      "speedrun",
+      "ran",
+      "running",
+      "runs",
+      "zoom",
+      "zooms",
+      "zoomed",
+      "zooming"
+    ],
+    "exclude": {
+      "state-run": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "run-walk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ember": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

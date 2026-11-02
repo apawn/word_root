@@ -1,0 +1,817 @@
+[
+  {
+    "word": "rookie",
+    "ipa": "/ˈrʊki/",
+    "meaning": "新手；新兵；职业队新人",
+    "sense": "刚进这行、还在熟悉门道的人，口语可叫 rookie。球队里常说新人赛季，并不表示这个人从来没练过这项运动。",
+    "split": "十九世纪已有新兵义，确切来源未定；有 recruit 新兵、rook 的某些旧用法等解释。不能因为末尾 -ie 就把 rook 乌鸦 + 小可爱讲成确定词源。",
+    "history": [
+      [
+        "十九世纪 rookie、rookey 等",
+        "新兵；确切词源有分歧"
+      ],
+      [
+        "现代 rookie",
+        "新手、刚进入某职业或队伍的人"
+      ]
+    ],
+    "explanation": "a rookie mistake 新手常犯的错；a rookie season 新人赛季；a rookie driver 新手司机。",
+    "usage": "a rookie mistake；a promising rookie。",
+    "contrast": "rookie 说在这个领域、级别的新手，amateur 说业余者。职业新人可以是 rookie，同时已不是 amateur。",
+    "examples": [
+      [
+        "I made a rookie mistake and forgot to save the file.",
+        "我犯了个新手错误，忘了保存文件。"
+      ],
+      [
+        "The team signed a promising rookie.",
+        "球队签下了一位很有潜力的新人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rookie#English",
+      "https://www.etymonline.com/word/rookie"
+    ]
+  },
+  {
+    "word": "indie",
+    "ipa": "/ˈɪndi/",
+    "meaning": "独立制作的；独立音乐、电影等；独立创作者、公司",
+    "sense": "不靠大厂牌、大制片体系主导，自己或小团队按较独立方式制作、发行，常被叫 indie；后来也会指某种文化风格。",
+    "split": "independent 缩短后加 -ie；不是 India 印度、Indian 印度人的任意简写。",
+    "history": [
+      [
+        "independent",
+        "独立的、不依附的"
+      ],
+      [
+        "缩短 + -ie → indie",
+        "独立制作、相应音乐电影和创作者等"
+      ]
+    ],
+    "explanation": "an indie film 独立电影；indie music 独立音乐；an indie developer 独立开发者。",
+    "usage": "an indie game；an indie label。",
+    "contrast": "indie 不等于 amateur 业余；独立团队也可以技术成熟、商业成功。具体是否独立要看制作、发行等语境。",
+    "examples": [
+      [
+        "She directed a small indie film.",
+        "她执导了一部小成本独立电影。"
+      ],
+      [
+        "The festival supports indie game developers.",
+        "这个节日活动支持独立游戏开发者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indie#English"
+    ]
+  },
+  {
+    "word": "selfie",
+    "ipa": "/ˈselfi/",
+    "meaning": "自拍照",
+    "sense": "自己举起相机或手机，把自己拍进画面，得到的照片叫 selfie；和朋友一起也能拍一张合照式自拍。",
+    "split": "self 自己 + -ie，二十一世纪初在澳式英语中已有记录，后来广泛流行。这里 -ie 让名词口语化，不表示照片尺寸小。",
+    "history": [
+      [
+        "self + -ie",
+        "自己相关的口语名词构词"
+      ],
+      [
+        "selfie",
+        "通常由画中人自己拍摄的照片"
+      ]
+    ],
+    "explanation": "take a selfie 拍自拍；a group selfie 集体自拍。",
+    "usage": "take a selfie；a group selfie。",
+    "contrast": "selfie 通常强调自己拍自己，portrait 是肖像；别人替你拍的普通肖像照不自动叫 selfie。",
+    "examples": [
+      [
+        "We took a selfie in front of the station.",
+        "我们在车站前拍了张自拍合照。"
+      ],
+      [
+        "She sent me a selfie from the mountain summit.",
+        "她从山顶发来一张自拍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selfie#English",
+      "https://www.etymonline.com/word/-ie",
+      "https://www.etymonline.com/word/-y"
+    ]
+  },
+  {
+    "word": "barbie",
+    "ipa": "英 /ˈbɑːbi/；美 /ˈbɑːrbi/",
+    "meaning": "烧烤炉；烧烤聚会〔澳式口语等〕",
+    "sense": "澳大利亚朋友说 have a barbie，常是在约烧烤，不是在说要买一个芭比娃娃。",
+    "split": "barbecue 缩短后加 -ie → barbie；这里是小写普通名词。大写 Barbie 的玩偶品牌来自另外的命名。",
+    "history": [
+      [
+        "barbecue",
+        "烧烤、烧烤炉、烧烤聚会"
+      ],
+      [
+        "缩短 + -ie → barbie",
+        "相同场景的澳式等口语说法"
+      ]
+    ],
+    "explanation": "put food on the barbie 把食物放上烧烤炉；have a barbie 办烧烤聚会。",
+    "usage": "on the barbie；have a barbie。",
+    "contrast": "小写 barbie 的常见澳式烧烤义与大写 Barbie 玩偶名区分；这个口语词不是所有英语地区都同样常说。",
+    "examples": [
+      [
+        "We are having a barbie on Saturday.",
+        "我们周六要办烧烤聚会。"
+      ],
+      [
+        "He put the vegetables on the barbie.",
+        "他把蔬菜放上了烧烤炉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barbie#English"
+    ]
+  },
+  {
+    "word": "goalie",
+    "ipa": "英 /ˈɡəʊli/；美 /ˈɡoʊli/",
+    "meaning": "守门员〔口语〕",
+    "sense": "足球、冰球等比赛里负责守住球门的那个人，口语常叫 goalie。不是得分最多的人。",
+    "split": "goalkeeper、goaltender 等缩短并加 -ie；现代能看出 goal 球门的材料，但不能只译成小目标。",
+    "history": [
+      [
+        "goalkeeper、goaltender",
+        "守门员"
+      ],
+      [
+        "缩短 + -ie → goalie",
+        "守门员的口语名"
+      ]
+    ],
+    "explanation": "a football goalie 足球守门员；a hockey goalie 冰球守门员。",
+    "usage": "the team’s goalie；a brilliant goalie。",
+    "contrast": "goalie 是守门员，goalscorer 是进球者；同有 goal，不代表职责相同。",
+    "examples": [
+      [
+        "The goalie made an excellent save.",
+        "守门员作出了一次精彩扑救。"
+      ],
+      [
+        "She has played as a goalie since school.",
+        "她从上学时就开始当守门员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/goalie#English"
+    ]
+  },
+  {
+    "word": "vegetable",
+    "ipa": "/ˈvedʒtəbəl/",
+    "meaning": "蔬菜；植物的〔部分搭配〕",
+    "sense": "做饭时说 vegetables，通常是一盘菜里的青菜、胡萝卜等蔬菜。把它从植物这个大类别里分化出来，才有今天最熟悉的食物义。",
+    "split": "经法语接拉丁 vegetabilis 能生长、活着的，接 vegetare 使有活力等材料。虽然尾部像 -able，现代不是一个常用英语 veget 动词再临时拼成。",
+    "history": [
+      [
+        "拉丁 vegetabilis → 法语 vegetable → 英语 vegetable",
+        "能生长、有生命的植物等旧义"
+      ],
+      [
+        "现代 vegetable → veggie",
+        "蔬菜；缩短成口语称呼"
+      ],
+      [
+        "vegetarian 也可缩短为 veggie",
+        "素食者、素食的相关口语用法"
+      ]
+    ],
+    "explanation": "fresh vegetables 新鲜蔬菜；vegetable soup 蔬菜汤；vegetable oil 植物油，范围比日常一盘蔬菜更广。",
+    "usage": "fresh vegetables；vegetable soup。",
+    "contrast": "vegetable 蔬菜与 vegetarian 素食者、素食的不同；吃一顿蔬菜的人不自动就是长期素食者。",
+    "examples": [
+      [
+        "The soup contains several kinds of vegetables.",
+        "汤里有好几种蔬菜。"
+      ],
+      [
+        "They grow fresh vegetables behind the house.",
+        "他们在房后种新鲜蔬菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vegetable#English"
+    ]
+  },
+  {
+    "word": "veggie",
+    "ipa": "/ˈvedʒi/",
+    "meaning": "蔬菜〔口语，常复数〕；素食的；素食者〔口语〕",
+    "sense": "菜谱里 add some veggies 是加点蔬菜；a veggie burger 是素食汉堡。它可能缩自 vegetable，也可能接 vegetarian，按场景判断。",
+    "split": "vegetable 或 vegetarian 缩短，接 -ie；常见拼写有 gg，帮助对应 /dʒ/。不是一个字母 g 一律再读 /ɡ/。",
+    "history": [
+      [
+        "拉丁 vegetabilis → 法语 vegetable → 英语 vegetable",
+        "能生长、有生命的植物等旧义"
+      ],
+      [
+        "现代 vegetable → veggie",
+        "蔬菜；缩短成口语称呼"
+      ],
+      [
+        "vegetarian 也可缩短为 veggie",
+        "素食者、素食的相关口语用法"
+      ]
+    ],
+    "explanation": "fresh veggies 新鲜蔬菜；a veggie meal 素食餐；I’m a veggie 可是我是素食者的口语说法。",
+    "usage": "roasted veggies；a veggie burger。",
+    "contrast": "veggie、vegetarian 语境通常不自动等于 vegan 纯素；是否包含蛋奶等仍看具体食物和标识。",
+    "examples": [
+      [
+        "Add the chopped veggies to the pan.",
+        "把切好的蔬菜倒进锅里。"
+      ],
+      [
+        "She ordered a veggie burger.",
+        "她点了一个素食汉堡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/veggie#English"
+    ]
+  },
+  {
+    "word": "blond",
+    "ipa": "英 /blɒnd/；美 /blɑːnd/",
+    "meaning": "金色头发的；浅金色的；金发者",
+    "sense": "头发浅黄、金黄，可以说 blond hair；也能用作名词说金发的人。它说颜色，不表示一定染过头发。",
+    "split": "借法语 blond。更远日耳曼语联系有多种分析，不把“混合”或“失明”的假设路线硬当成今天颜色的唯一来源。",
+    "history": [
+      [
+        "古法语 blond 等 → 英语 blond、blonde",
+        "浅黄、金发的材料；更远来源有不同解释"
+      ],
+      [
+        "blond + -ie → blondie",
+        "金发者的昵称；浅色甜点的命名"
+      ]
+    ],
+    "explanation": "blond hair 金发；a blond child 金发孩子；blond wood 也可指浅金色木材。",
+    "usage": "blond hair；a natural blond。",
+    "contrast": "blond 与 blonde 都常见；传统用法对性别有拼写倾向，英语形容词的实际惯例并不绝对按性别划死。",
+    "examples": [
+      [
+        "He had blond hair when he was a child.",
+        "他小时候是金发。"
+      ],
+      [
+        "The room was furnished with pale blond wood.",
+        "房间配了浅金色木制家具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blond#English"
+    ]
+  },
+  {
+    "word": "blonde",
+    "ipa": "英 /blɒnd/；美 /blɑːnd/",
+    "meaning": "金发的；金发女性〔常见名词用法〕",
+    "sense": "和 blond 读音相同；a blonde 尤常指金发女性，作形容词也可见 blonde hair。末尾 e 常承接法语性别拼写传统。",
+    "split": "来自法语 blond 的相应阴性形式 blonde，英语保留两种常用拼写；现代用法有地区、文体差异，不是两个不同颜色。",
+    "history": [
+      [
+        "古法语 blond 等 → 英语 blond、blonde",
+        "浅黄、金发的材料；更远来源有不同解释"
+      ],
+      [
+        "blond + -ie → blondie",
+        "金发者的昵称；浅色甜点的命名"
+      ]
+    ],
+    "explanation": "blonde hair 金发；a blonde woman 金发女性；a natural blonde 天生金发者。",
+    "usage": "blonde hair；a natural blonde。",
+    "contrast": "blonde 是金发相关，不是 blondie 那种随意昵称；陌生人之间按发色叫人 blondie 可能显得不礼貌。",
+    "examples": [
+      [
+        "She had long blonde hair.",
+        "她留着长长的金发。"
+      ],
+      [
+        "The actor wore a blonde wig for the role.",
+        "演员为这个角色戴了金色假发。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blonde#English"
+    ]
+  },
+  {
+    "word": "blondie",
+    "ipa": "英 /ˈblɒndi/；美 /ˈblɑːndi/",
+    "meaning": "金发者的随意昵称；浅色布朗尼式甜点",
+    "sense": "一条是拿金发颜色叫人的口语昵称；另一条是甜点，像 brownie，却以浅金色、香草等风味为特点，常叫 blondie。",
+    "split": "blond + -ie；甜点借浅金色的材料命名。不是把 -ie 固定成女人，也不把每种 blondie 都理解成人。",
+    "history": [
+      [
+        "古法语 blond 等 → 英语 blond、blonde",
+        "浅黄、金发的材料；更远来源有不同解释"
+      ],
+      [
+        "blond + -ie → blondie",
+        "金发者的昵称；浅色甜点的命名"
+      ]
+    ],
+    "explanation": "a batch of blondies 一盘浅色布朗尼式甜点；人的称呼义要注意熟悉程度和语气。",
+    "usage": "bake blondies；a vanilla blondie。",
+    "contrast": "blondie 是随意昵称或甜点；blonde／blond 是通常说金发的词。不要把昵称当作对所有陌生人的中性称呼。",
+    "examples": [
+      [
+        "She baked a batch of vanilla blondies.",
+        "她烤了一盘香草味浅色布朗尼式甜点。"
+      ],
+      [
+        "The café sells brownies and blondies.",
+        "咖啡馆卖巧克力布朗尼和浅色布朗尼式甜点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blondie#English"
+    ]
+  },
+  {
+    "word": "quickie",
+    "ipa": "/ˈkwɪki/",
+    "meaning": "匆忙完成的短事、快作；短暂性行为〔口语〕",
+    "sense": "核心是短时间、很快来一下：作品、活动可这样称呼；但单独说 have a quickie 很容易让人想到短暂性行为，不能随便当成开短会的普通邀约。",
+    "split": "quick 快 + -ie；将快的性质变成一件快速完成的事。具体所指受场景影响很大。",
+    "history": [
+      [
+        "quick + -ie",
+        "快 → 快做的一件事"
+      ],
+      [
+        "quickie 的不同口语用法",
+        "快作、短活动；也有性行为义"
+      ]
+    ],
+    "explanation": "a quickie sketch 随手快画；a quickie meeting 可指短会，但工作场景直接说 a quick meeting 更清楚。",
+    "usage": "a quickie；a quickie sketch。",
+    "contrast": "quickie 是口语名词，不是 quick 的普通副词；做得快用 do it quickly，不写 do it quickie。",
+    "examples": [
+      [
+        "The meeting was a quickie, over in ten minutes.",
+        "这场会开得很短，十分钟就结束了。"
+      ],
+      [
+        "The sketch was only a quickie, not a finished design.",
+        "这张草图只是快速画的一笔，并非完成的设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quickie#English"
+    ]
+  },
+  {
+    "word": "bookie",
+    "ipa": "/ˈbʊki/",
+    "meaning": "收受赌注、开赔率的经纪人、庄家〔口语〕",
+    "sense": "别人到他那里下注，他提供赔率、收注和处理输赢，口语里这个人叫 bookie。不是写书的人。",
+    "split": "bookmaker 缩短后加 -ie；这里 book 是记录投注等词族用法，不能只按一本书猜成书商、作家。",
+    "history": [
+      [
+        "bookmaker",
+        "接受投注、经营相关业务的人"
+      ],
+      [
+        "缩短 + -ie → bookie",
+        "同义口语称呼"
+      ]
+    ],
+    "explanation": "place a bet with a bookie 向赌注经纪人下注；a local bookie 当地的赌注经纪人。",
+    "usage": "a bookie；the bookie’s odds。",
+    "contrast": "bookie 不是 bookseller 书商，也不是 author 作家。词形来自缩略的整体，不能删尾后就把 book 按最常见义硬套。",
+    "examples": [
+      [
+        "The novel’s character owed money to a bookie.",
+        "小说中的人物欠赌注经纪人钱。"
+      ],
+      [
+        "The reporter interviewed a retired bookie.",
+        "记者采访了一位退休的赌注经纪人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bookie#English"
+    ]
+  },
+  {
+    "word": "cabbie",
+    "ipa": "/ˈkæbi/",
+    "meaning": "出租车司机〔口语〕",
+    "sense": "路边出租车里开车的人，口语可以叫 cabbie。一个短称呼就把职业说出来。",
+    "split": "cab 出租车 + -ie，b 双写 → cabbie；也有 cabby 的拼写，但这里用常见的 cabbie。",
+    "history": [
+      [
+        "cab",
+        "出租车"
+      ],
+      [
+        "cab + -ie → cabbie",
+        "开出租车的人"
+      ]
+    ],
+    "explanation": "a friendly cabbie 友善的出租车司机；ask the cabbie for directions 向出租车司机问路。",
+    "usage": "a London cabbie；a local cabbie。",
+    "contrast": "cab 是车，cabbie 是司机；这个 -ie 不表示小出租车。",
+    "examples": [
+      [
+        "The cabbie knew a quieter route to the station.",
+        "出租车司机知道一条去车站更清静的路。"
+      ],
+      [
+        "A friendly cabbie helped us with the bags.",
+        "一位友善的出租车司机帮我们搬行李。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cabbie#English"
+    ]
+  },
+  {
+    "word": "bestie",
+    "ipa": "/ˈbesti/",
+    "meaning": "最好的朋友；死党〔口语〕",
+    "sense": "不是泛指认识的人，而是特别亲近、常一起分享事情的好朋友。bestie 的语气比 best friend 更随意、亲昵。",
+    "split": "best 最好的 + -ie；通常从 best friend 的关系理解，不是 best 动词胜过别人再形成的职业。",
+    "history": [
+      [
+        "best friend",
+        "关系最亲近的朋友"
+      ],
+      [
+        "best + -ie → bestie",
+        "好朋友、死党的亲昵口语称呼"
+      ]
+    ],
+    "explanation": "my bestie 我的死党；childhood besties 从小就是特别要好的朋友。",
+    "usage": "my bestie；old besties。",
+    "contrast": "bestie 不限女性，也不必是恋人；partner 可以指伴侣、合作伙伴，关系类型不同。",
+    "examples": [
+      [
+        "My bestie helped me move into the new flat.",
+        "我的死党帮我搬进新公寓。"
+      ],
+      [
+        "They have been besties since primary school.",
+        "他们从小学起就是特别要好的朋友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bestie#English"
+    ]
+  },
+  {
+    "word": "budgie",
+    "ipa": "/ˈbʌdʒi/",
+    "meaning": "虎皮鹦鹉〔口语〕",
+    "sense": "家里常养的那种小型长尾鹦鹉，英语口语常说 budgie；是 budgerigar 的短称，不是所有宠物鸟的统称。",
+    "split": "budgerigar 缩短后加 -ie；长名来自澳大利亚相关语言的借入传统，更远具体分析有分歧，这个短名不从 budget 预算而来。",
+    "history": [
+      [
+        "budgerigar",
+        "虎皮鹦鹉的完整名称"
+      ],
+      [
+        "缩短 + -ie → budgie",
+        "同一种鸟的日常短称"
+      ]
+    ],
+    "explanation": "a pet budgie 宠物虎皮鹦鹉；a blue budgie 蓝色虎皮鹦鹉。",
+    "usage": "a pet budgie；a budgie cage。",
+    "contrast": "budgie 是特定小鹦鹉，parrot 是更大类；它也不等于 birdie 所说的小鸟、鸟儿等用法。",
+    "examples": [
+      [
+        "A blue budgie sat on the perch.",
+        "一只蓝色虎皮鹦鹉停在栖木上。"
+      ],
+      [
+        "She keeps two budgies as pets.",
+        "她养了两只虎皮鹦鹉作宠物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/budgie#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/budgie"
+    ]
+  },
+  {
+    "word": "roomie",
+    "ipa": "/ˈruːmi/",
+    "meaning": "室友〔口语，尤美式〕",
+    "sense": "一起住的人，尤其同宿舍、同套住所的伙伴，口语会叫 roomie。不是形容房间很大。",
+    "split": "room 的材料 + -ie，可视作 roommate 的随意称呼。原来的空间名词变成与之相关的人。",
+    "history": [
+      [
+        "room、roommate",
+        "房间；室友"
+      ],
+      [
+        "room + -ie → roomie",
+        "室友的口语称呼"
+      ]
+    ],
+    "explanation": "my college roomie 我的大学室友；a new roomie 新室友。",
+    "usage": "my roomie；a former roomie。",
+    "contrast": "roomie 是室友；roomy 是宽敞的，虽然常同音，词性和词源用法不同。室友也未必总共用同一卧室。",
+    "examples": [
+      [
+        "My roomie left a note on the fridge.",
+        "室友在冰箱上留了张字条。"
+      ],
+      [
+        "She met her former college roomie for lunch.",
+        "她和以前的大学室友一起吃午饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roomie#English"
+    ]
+  },
+  {
+    "word": "meanie",
+    "ipa": "/ˈmiːni/",
+    "meaning": "讨厌鬼；刻薄、小气的人〔儿童式口语〕",
+    "sense": "不让别人加入游戏，或故意不分享，小孩可能气呼呼叫他 meanie。常是带孩子气的责怪，不是很正式的性格分析。",
+    "split": "mean 刻薄、不友善的这一形容词义 + -ie；与数学平均值 mean 无关。",
+    "history": [
+      [
+        "mean 的不友善、吝啬等义",
+        "待人不厚道"
+      ],
+      [
+        "mean + -ie → meanie",
+        "带孩子气的讨厌鬼、小气鬼称呼"
+      ]
+    ],
+    "explanation": "Don’t be a meanie. 别这么小气、讨厌；you meanie! 你这个讨厌鬼！语气可认真也可玩笑。",
+    "usage": "a meanie；don’t be a meanie。",
+    "contrast": "meanie 不是所有 mean 的义项都通用：a mean value 平均值不会变成数学上的 meanie。",
+    "examples": [
+      [
+        "Don’t be a meanie; let him join the game.",
+        "别这么小气，让他一起玩吧。"
+      ],
+      [
+        "She called her brother a meanie for hiding the toy.",
+        "哥哥藏起玩具，她就叫他讨厌鬼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meanie#English"
+    ]
+  },
+  {
+    "word": "yuppie",
+    "ipa": "/ˈjʌpi/",
+    "meaning": "雅皮士；追求体面消费的年轻城市专业人士",
+    "sense": "常让人想到二十世纪八十年代的城市白领形象：收入不错、重视事业与精致消费。这个标签往往带讽刺，不只是年轻上班族的中性总称。",
+    "split": "通常以 young urban professional 年轻城市专业人士的首字母材料加 -ie 理解；历史也有 upwardly mobile 等竞争性说法，不把每一种展开都当同一个确切造词记录。",
+    "history": [
+      [
+        "young urban professional 等缩略命名材料",
+        "年轻城市专业人士"
+      ],
+      [
+        "yuppie",
+        "八十年代流行并带讽刺色彩的社会标签"
+      ]
+    ],
+    "explanation": "yuppie culture 雅皮士文化；a yuppie lifestyle 雅皮士生活方式。",
+    "usage": "yuppie culture；a yuppie neighbourhood。",
+    "contrast": "yuppie 是特定社会文化标签；professional 是专业人士。不能见到年轻专业人士就自动加上物质主义的评价。",
+    "examples": [
+      [
+        "The film satirizes yuppie culture in the 1980s.",
+        "电影讽刺了八十年代的雅皮士文化。"
+      ],
+      [
+        "The article traces the changing image of the yuppie.",
+        "文章追溯雅皮士形象的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yuppie#English",
+      "https://www.etymonline.com/word/yuppie"
+    ]
+  },
+  {
+    "word": "plush",
+    "ipa": "/plʌʃ/",
+    "meaning": "长毛绒；毛绒的；豪华舒适的",
+    "sense": "摸上去厚厚软软、有绒毛，是 plush 的材质感觉；房间坐具很舒服、很讲究，也能说 plush，转到豪华舒适。",
+    "split": "借法语 peluche 绒毛、长毛绒的材料。柔软织物与奢华陈设的历史使用有联系；不是 plus 加一个表示小的 h。",
+    "history": [
+      [
+        "法语 peluche → 英语 plush",
+        "绒毛、长绒织物"
+      ],
+      [
+        "plush 的柔软、奢华用法 → plushie",
+        "毛绒的、豪华舒适的；毛绒玩具"
+      ]
+    ],
+    "explanation": "a plush toy 毛绒玩具；a plush hotel 豪华酒店；plush fabric 长毛绒面料。",
+    "usage": "a plush sofa；a plush toy。",
+    "contrast": "plush 形容旅馆可强调豪华舒适，不要求每堵墙都覆绒毛；plushie 则是具体玩具等口语名词。",
+    "examples": [
+      [
+        "The child hugged a plush rabbit.",
+        "孩子抱着一只毛绒兔子。"
+      ],
+      [
+        "They stayed in a plush hotel near the theatre.",
+        "他们住在剧院附近一家豪华舒适的酒店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plush#English"
+    ]
+  },
+  {
+    "word": "plushie",
+    "ipa": "/ˈplʌʃi/",
+    "meaning": "毛绒玩具〔口语〕",
+    "sense": "那只软软的、可以抱着的毛绒小熊，口语里可说 a plushie。-ie 把材质相关的东西变成一个亲切称呼。",
+    "split": "plush 长毛绒、毛绒的 + -ie；通常说 plush toy 的随意名称，不是只能指尺寸很小的玩具。",
+    "history": [
+      [
+        "法语 peluche → 英语 plush",
+        "绒毛、长绒织物"
+      ],
+      [
+        "plush 的柔软、奢华用法 → plushie",
+        "毛绒的、豪华舒适的；毛绒玩具"
+      ]
+    ],
+    "explanation": "a bear plushie 小熊毛绒玩具；collect plushies 收藏毛绒玩具。",
+    "usage": "a plushie；a collection of plushies。",
+    "contrast": "plushie 是物品名词，plush 既可指材质也可作形容词；说旅馆豪华用 plush hotel，不说 plushie hotel。",
+    "examples": [
+      [
+        "She keeps a small plushie on her desk.",
+        "她在桌上放着一个小毛绒玩具。"
+      ],
+      [
+        "The shop sells plushies of the game’s characters.",
+        "商店出售游戏角色的毛绒玩具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plushie#English"
+    ]
+  },
+  {
+    "word": "blanket",
+    "ipa": "/ˈblæŋkɪt/",
+    "meaning": "毯子；覆盖层；全面的；覆盖",
+    "sense": "先是一条盖在身上的毯子。雾像毯子铺满山谷，可以作动词 blanket；规定把所有情况一概罩住，就有 blanket ban 全面禁令。",
+    "split": "经古北法语相应形式，历史关联 blanc 白与白色毛织物名称；不是现代 blank 空白直接加一个万能 et。",
+    "history": [
+      [
+        "古北法语 blanket、blancet 等",
+        "白色毛织物、小白物等旧名称，关联 blanc 白"
+      ],
+      [
+        "英语 blanket",
+        "毯子；像毯子一样全面覆盖"
+      ],
+      [
+        "blanket 缩短 + -ie → blankie",
+        "毯子的儿童式、亲昵称呼"
+      ]
+    ],
+    "explanation": "a woollen blanket 羊毛毯；a blanket of snow 一层覆盖的雪；a blanket ban 全面禁令；fog blankets the valley 雾覆盖山谷。",
+    "usage": "a warm blanket；a blanket of；a blanket ban。",
+    "contrast": "blanket 说毯子或全面覆盖，sheet 常说薄床单、片；两种床品、材料形态不同。",
+    "examples": [
+      [
+        "She wrapped a blanket around her shoulders.",
+        "她把毯子裹在肩上。"
+      ],
+      [
+        "A thick fog blanketed the valley.",
+        "浓雾笼罩了山谷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blanket#English"
+    ]
+  },
+  {
+    "word": "blankie",
+    "ipa": "/ˈblæŋki/",
+    "meaning": "小毯子、安抚毯〔儿童式口语〕",
+    "sense": "小孩总抱着、睡觉离不开的那条毯子，家里可能亲昵地叫 blankie。重点是孩子气、亲近的称呼，不是一个正式材质分类。",
+    "split": "blanket 缩短，接 -ie → blankie；不是 blank 空白直接加 ie 就自动得到毯子。",
+    "history": [
+      [
+        "古北法语 blanket、blancet 等",
+        "白色毛织物、小白物等旧名称，关联 blanc 白"
+      ],
+      [
+        "英语 blanket",
+        "毯子；像毯子一样全面覆盖"
+      ],
+      [
+        "blanket 缩短 + -ie → blankie",
+        "毯子的儿童式、亲昵称呼"
+      ]
+    ],
+    "explanation": "a child’s blankie 孩子的安抚毯；bring your blankie 带上你的小毯子。",
+    "usage": "a favourite blankie；a baby’s blankie。",
+    "contrast": "blankie 比 blanket 更儿童式、亲昵；正式产品说明通常还会用 blanket，不把每条成人毯子都这样叫。",
+    "examples": [
+      [
+        "The toddler would not sleep without his blankie.",
+        "那个小孩没有小毯子就不肯睡。"
+      ],
+      [
+        "She packed the baby’s favourite blankie.",
+        "她装上了宝宝最喜欢的小毯子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blankie#English"
+    ]
+  },
+  {
+    "word": "self",
+    "ipa": "/self/",
+    "meaning": "自我；本人、自己这一身份或状态",
+    "sense": "说某人真实的性格、平常状态，或把目光回到那个人本身，就会谈到 self。her old self 是她原先熟悉的那种状态。",
+    "split": "延续古英语 self、sylf 等本人、相同、自己的材料。旧时可跟在人称词后面加强本人义，后来形成 myself、herself 等反身、强调形式。复数 selves。",
+    "history": [
+      [
+        "古英语 self、sylf",
+        "本人、自己的、同一个"
+      ],
+      [
+        "现代 self；myself 等",
+        "自我；反身、强调的复合词材料"
+      ]
+    ],
+    "explanation": "a sense of self 自我感；your true self 真实自我；be your old self 恢复平常的状态。",
+    "usage": "a sense of self；her true self。",
+    "contrast": "self 可作名词谈自我；普通句子里我自己常用 myself。I taught myself 是我自学，不能直接写 I taught self 来替换。",
+    "examples": [
+      [
+        "After a good night’s sleep, she felt like her old self again.",
+        "睡好一晚后，她又恢复了平常的状态。"
+      ],
+      [
+        "The story explores the character’s sense of self.",
+        "故事探索角色的自我感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/self#English",
+      "https://www.etymonline.com/word/self"
+    ]
+  },
+  {
+    "word": "barbecue",
+    "ipa": "英 /ˈbɑːbɪkjuː/；美 /ˈbɑːrbɪkjuː/",
+    "meaning": "烧烤；烧烤炉；烧烤聚会；烧烤食物",
+    "sense": "在户外烤食物，是 barbecue 的熟悉场景。这个词可以指做法、设备，也可以指大家聚在一起吃烧烤的活动。",
+    "split": "经美洲西班牙语 barbacoa 接加勒比地区阿拉瓦克语族相关的架高木架名称；从木架、烘烤做法走到食物、聚会。不是法语从胡子到尾巴的传说式拼词。",
+    "history": [
+      [
+        "加勒比地区相关木架名称 → 西班牙语 barbacoa",
+        "架在支柱上的木制结构等材料"
+      ],
+      [
+        "英语 barbecue",
+        "烧烤做法、用具、食物、聚会等用法"
+      ]
+    ],
+    "explanation": "have a barbecue 办烧烤聚会；barbecue sauce 烧烤酱；barbecue chicken 烧烤鸡肉。部分美国饮食传统还特指慢烤、烟熏等做法。",
+    "usage": "have a barbecue；barbecue sauce。",
+    "contrast": "barbecue 可说活动、食物和炉具，grill 更常突出烤架或直接烤制；二者日常会重合，不能只由中文烧烤断定每种地方饮食都完全相同。",
+    "examples": [
+      [
+        "We invited the neighbours to a barbecue.",
+        "我们邀请邻居来参加烧烤聚会。"
+      ],
+      [
+        "They barbecued vegetables in the garden.",
+        "他们在花园里烤蔬菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barbecue#English",
+      "https://www.etymonline.com/word/barbecue"
+    ]
+  }
+]

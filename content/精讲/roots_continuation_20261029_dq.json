@@ -1,0 +1,88 @@
+[
+  {
+    "id": "B3189",
+    "meaning": "大小、规格与调整规模",
+    "core": "SIZE：问它有多大、该用哪个规格",
+    "image": "先看 size，再把 sized 的具体尺寸和 sizable 的相当大分开；最后按超出、重设、缩减看前缀变化。",
+    "intro": "size 的大小义先接规定的量与规格，才成为现代通用大小词。施胶材料同形义另行保留来源不确定，不硬凑。",
+    "forms": "size → sized、sizable；over-、out- 超出 → oversize、outsize；re- 重设 → resize；down- 缩减 → downsize；共享 supersize。\n\n法语 assise 缩短形式的历史，尺寸义与施胶材料义分源处理。",
+    "branches": [
+      [
+        "核心与性质",
+        "size · sized · sizable"
+      ],
+      [
+        "超出通常尺寸",
+        "oversize · outsize · supersize"
+      ],
+      [
+        "调整方向",
+        "resize · downsize"
+      ],
+      [
+        "size → sizes：规定的量到大小、尺码",
+        "size · sizes"
+      ]
+    ],
+    "contrasts": "sizable 相当大，sized 常由修饰语交代多大；resize 不限定放大缩小，downsize 才说明缩小。",
+    "practice": "We resized the image without changing the size of the page.\n\n我们调整了图片大小，没有改变页面尺寸。",
+    "words": [
+      "size",
+      "sized",
+      "sizable",
+      "oversize",
+      "outsize",
+      "supersize",
+      "resize",
+      "downsize",
+      "sizes"
+    ],
+    "exclude": {
+      "life-size": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3237",
+    "meaning": "从金属检验到考试与测试",
+    "core": "TEST：给一个条件，看实际表现",
+    "image": "先看 test 这个动作，再读谁来测、重新测和能不能测；已有 pretest、testbed 一起归在本族。",
+    "intro": "检验义的历史接陶制器皿与金属检验，不是从考试纸张凭空生出。现代 test 能检验知识、产品、假设或耐心。",
+    "forms": "test → tester、testable；re- 再 → retest；pre- 预先 → pretest；test + bed → testbed。\n\n检验容器的名词发展到检验动作；testing 也能形容费力、考验人的情况。\n\ntest 的检验动作和检验事项有相连的词族，tests 形成 sts 辅音连接，tested 则增加 id 音节。",
+    "branches": [
+      [
+        "核心、执行者与可检验性",
+        "test · tester · testable"
+      ],
+      [
+        "先后与环境",
+        "pretest · retest · testbed"
+      ],
+      [
+        "test → testing：检验，以及考验人的",
+        "test · testing"
+      ],
+      [
+        "test → tests → tested：检验、考验与已试过",
+        "test · tests · tested"
+      ]
+    ],
+    "contrasts": "testable 不是已证实，retest 不是只复看旧报告；tester 可指人，也可指仪器、试用品。",
+    "practice": "The tester will retest the system after the update.\n\n更新后，测试人员将重新测试系统。",
+    "words": [
+      "test",
+      "tester",
+      "testable",
+      "pretest",
+      "retest",
+      "testbed",
+      "testing",
+      "tests",
+      "tested"
+    ],
+    "exclude": {
+      "high-test": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-test": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-test": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

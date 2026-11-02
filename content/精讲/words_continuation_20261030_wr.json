@@ -1,0 +1,308 @@
+[
+  {
+    "word": "lowest",
+    "ipa": "英 /ˈləʊɪst/；美 /ˈloʊɪst/",
+    "meaning": "最低的；程度、数量最少的；处于最低位置；low 的最高级",
+    "sense": "沿着一个高低刻度往下看，最底端的一项是 lowest。地势、价钱、分数、程度，都可以各自比较。",
+    "split": "low + -est，直接加，不双写 w。常用低义经古诺尔斯语 lágr、中古英语相关形式延续；牛叫义 low 接另一旧词，另分来源。",
+    "history": [
+      [
+        "古诺尔斯语 lágr → 中古英语相关形式 → low",
+        "低；数量、程度低"
+      ],
+      [
+        "low + -est → lowest",
+        "比较范围内最低、最少"
+      ]
+    ],
+    "explanation": "the lowest price 最低价；the lowest score 最低分；the lowest shelf 最下面的架子；at its lowest 处于最低点。",
+    "usage": "our lowest level；the lowest of the three。",
+    "contrast": "lowest 只标明比较尺度的低端，不自带好坏。最低价格可能有吸引力，最低分数则未必是想要的结果。",
+    "examples": [
+      [
+        "The lowest shelf is easy for the children to reach.",
+        "最下面一层架子，孩子们很容易够到。"
+      ],
+      [
+        "We compared the prices and chose the lowest one.",
+        "我们比较了价格，选了最低的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lowest#English",
+      "https://en.wiktionary.org/wiki/low#English"
+    ]
+  },
+  {
+    "word": "lightest",
+    "ipa": "/ˈlaɪtɪst/",
+    "meaning": "最轻的；颜色最浅的；程度最轻、最少的；light 的最高级",
+    "sense": "包拎起来最不费劲，是 lightest；颜色离深黑最远、看起来最浅，也可以是 lightest。现代两种常见意思同写，但历史来源要分开。",
+    "split": "light + -est。重量轻的 light 与光、明亮的 light 有不同词源，两路在古英语中已有相似拼写，各自延续到现代 light；按重量与明暗分别理解。",
+    "history": [
+      [
+        "古英语轻义 lēoht 一系；另路光义 lēoht 一系 → 同形 light",
+        "轻与光分源，现代同形"
+      ],
+      [
+        "各路 light + -est → lightest",
+        "最轻；颜色最浅等"
+      ]
+    ],
+    "explanation": "the lightest bag 最轻的包；the lightest shade 最浅的色调；the lightest touch 极轻的触碰。lightest 作程度比较，具体是哪种轻由对象决定。",
+    "usage": "the lightest of the boxes；the lightest blue。",
+    "contrast": "lighter 作打火机时是名词，lightest 在这里是 light 的最高级。识别词性后，再看具体比较的是重量还是颜色深浅。",
+    "examples": [
+      [
+        "I carried the lightest bag, and she took the heavier one.",
+        "我拿最轻的包，她拿了更重的那个。"
+      ],
+      [
+        "Choose the lightest shade of blue on the card.",
+        "选色卡上最浅的蓝色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightest#English",
+      "https://en.wiktionary.org/wiki/light#English"
+    ]
+  },
+  {
+    "word": "fastest",
+    "ipa": "英 /ˈfɑːstɪst/；美 /ˈfæstɪst/",
+    "meaning": "最快的；最快地；fast 的最高级",
+    "sense": "同样一段路、同一件事，速度排在最前的一项是 fastest。它能形容人或工具，也能直接说动作做得最快。",
+    "split": "fast + -est，词尾 /ɪst/，不双写 t。fast 继承古英语 faest、faeste，较早有牢固等义，速度义后来常用，其具体转变路线有讨论。",
+    "history": [
+      [
+        "古英语 fæst／fæste → fast",
+        "牢固等较早意义 → 迅速等现代分支"
+      ],
+      [
+        "fast + -est → fastest",
+        "速度最高的、最快地"
+      ]
+    ],
+    "explanation": "the fastest runner 跑得最快的人；the fastest route 用时最少的路线；runs fastest 跑得最快；the fastest way to ... 做……最快的方法。",
+    "usage": "the fastest of the group；works fastest。",
+    "contrast": "fastest 可直接修饰动词，如 runs fastest；fast 不必先变成一个 -ly 副词。fastest route 比的是用时，shortest route 比的是路程。",
+    "examples": [
+      [
+        "Which of these trains is the fastest?",
+        "这几班火车哪班最快？"
+      ],
+      [
+        "She types fastest when the room is quiet.",
+        "房间安静时，她打字最快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fastest#English",
+      "https://en.wiktionary.org/wiki/fast#English"
+    ]
+  },
+  {
+    "word": "slowest",
+    "ipa": "英 /ˈsləʊɪst/；美 /ˈsloʊɪst/",
+    "meaning": "最慢的；最慢地；slow 的最高级",
+    "sense": "同一段过程里，速度最低、花时间最多的一项，是 slowest。它可以说交通、做事速度，也可以说变化发生得最慢。",
+    "split": "slow + -est，保留 ow，不双写 w。slow 继承古英语 slāw，早有迟缓等义，现代既能作形容词，也有相应速度副词用法。",
+    "history": [
+      [
+        "古英语 slāw → slow",
+        "慢、迟缓"
+      ],
+      [
+        "slow + -est → slowest",
+        "比较范围里最慢；最慢地"
+      ]
+    ],
+    "explanation": "the slowest train 最慢的火车；the slowest part 最慢的一段；moves slowest 移动最慢；the slowest growth 最缓慢的增长。",
+    "usage": "the slowest of the three；at its slowest。",
+    "contrast": "slowest 说速度低，latest 说时间最晚。最慢出发或行进的车，不一定最后到达，还要看出发时间、路程和停站等。",
+    "examples": [
+      [
+        "This is the slowest train, but it stops near our house.",
+        "这是最慢的一班车，但它会停在我们家附近。"
+      ],
+      [
+        "The queue moves slowest around lunchtime.",
+        "午饭前后，队伍挪得最慢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slowest#English",
+      "https://en.wiktionary.org/wiki/slow#English"
+    ]
+  },
+  {
+    "word": "quietest",
+    "ipa": "/ˈkwaɪətɪst/",
+    "meaning": "最安静的；最平静、最少活动的；quiet 的最高级",
+    "sense": "声音最少，是 quietest；街区、时段或生意最少活动的时候，也可以沿着最少动静来理解。",
+    "split": "quiet + -est，通常读三个音节，不双写 t。quiet 经法语相关形式接拉丁 quiēs、quiētus 的休息、安宁词族。",
+    "history": [
+      [
+        "拉丁 quiēs／quiētus → 法语相关形式 → quiet",
+        "休息、安宁 → 安静、少活动"
+      ],
+      [
+        "quiet + -est → quietest",
+        "最安静；最少动静、活动"
+      ]
+    ],
+    "explanation": "the quietest room 最安静的房间；the quietest time 最清静的时段；the quietest street 最少动静的街；our quietest month 最清淡的月份〔看业务等语境〕。",
+    "usage": "the quietest corner；at its quietest。",
+    "contrast": "quiet 是安静，quite 是相当、很等副词，拼写和读音不同。quietest 也不总指绝对无声，它可是在所比对象里动静最少。",
+    "examples": [
+      [
+        "The back room is the quietest place to read.",
+        "后面的房间是读书最安静的地方。"
+      ],
+      [
+        "January is usually the shop’s quietest month.",
+        "一月通常是这家店生意最清淡的月份。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quietest#English",
+      "https://en.wiktionary.org/wiki/quiet#English"
+    ]
+  },
+  {
+    "word": "simpler",
+    "ipa": "英 /ˈsɪmplə/；美 /ˈsɪmplər/",
+    "meaning": "更简单的；更朴素、步骤更少的；simple 的比较级",
+    "sense": "多余的层次、零件或步骤拿掉一些，就是 simpler。它可以说结构更简单，也可以说表达更直接、外观更朴素。",
+    "split": "simple 去末尾 e，加完整比较级 -er，拼成 simpler。经法语 simple 接拉丁 simplex 一重的，与 duplex 两重的相对，历史材料带有一与折叠、重数的关系。",
+    "history": [
+      [
+        "拉丁 simplex → 法语 simple → 英语 simple",
+        "一重、不复杂 → 简单、朴素"
+      ],
+      [
+        "simple 去 e + -er → simpler",
+        "复杂程度更低、结构更简单"
+      ]
+    ],
+    "explanation": "a simpler design 更简单的设计；a simpler explanation 更直白的解释；make it simpler 让它更简单；simpler than ... 比……简单。",
+    "usage": "a much simpler method；simpler language。",
+    "contrast": "simpler 常用来比较复杂度，easier 常用来比较做起来是否费劲。简单的方法可能仍需要熟练技巧，容易操作的工具内部也可能很复杂。",
+    "examples": [
+      [
+        "Can you explain the idea in simpler language?",
+        "你能用更直白的话解释这个想法吗？"
+      ],
+      [
+        "We chose a simpler design with fewer moving parts.",
+        "我们选了一个更简单的设计，活动部件更少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simpler#English",
+      "https://en.wiktionary.org/wiki/simple#English"
+    ]
+  },
+  {
+    "word": "simplest",
+    "ipa": "/ˈsɪmplɪst/",
+    "meaning": "最简单的；最朴素、最不复杂的；simple 的最高级",
+    "sense": "把结构、步骤或表达的复杂度放到最低的一项，是 simplest。the simplest form 的核心画面就是尽量少一层、少一段。",
+    "split": "simple 去末尾 e，加完整最高级 -est，写 simplest。simple 经法语接拉丁 simplex 一重的，现代用最高级说明最不复杂、最朴素。",
+    "history": [
+      [
+        "拉丁 simplex → 法语 simple → 英语 simple",
+        "一重、不复杂"
+      ],
+      [
+        "simple 去 e + -est → simplest",
+        "给定范围内最简单、最朴素"
+      ]
+    ],
+    "explanation": "the simplest explanation 最简单的解释；the simplest form 最简单形式；the simplest solution 最简单方案；at its simplest 在最基本的形式下。",
+    "usage": "the simplest of the options；the simplest possible design。",
+    "contrast": "simplest 比较结构复杂度，easiest 比较做起来的难度。选 the simplest explanation 也仍要有依据，简单本身不保证解释正确。",
+    "examples": [
+      [
+        "The simplest solution was to move the meeting online.",
+        "最简单的办法是把会议改到线上。"
+      ],
+      [
+        "At its simplest, the game needs only paper and a pencil.",
+        "这个游戏用最基本的形式玩，只需要纸和一支铅笔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simplest#English",
+      "https://en.wiktionary.org/wiki/simple#English"
+    ]
+  },
+  {
+    "word": "narrower",
+    "ipa": "英 /ˈnærəʊə/；美 /ˈnæroʊər/",
+    "meaning": "更窄的；范围更小、差距更小的；narrow 的比较级",
+    "sense": "两边往中间收，通道更窄了；研究范围、选择或比分差距收小，也可以说 narrower。",
+    "split": "narrow + -er，直接加，不双写 w。narrow 继承古英语 nearu 空间受限、狭小等义，经中古英语 narow 等到现代。",
+    "history": [
+      [
+        "古英语 nearu → 中古英语 narow → narrow",
+        "空间受限、狭窄 → 范围有限、差距小"
+      ],
+      [
+        "narrow + -er → narrower",
+        "宽度、范围、差距更小"
+      ]
+    ],
+    "explanation": "a narrower road 更窄的路；a narrower focus 更集中的范围；a narrower gap 更小的差距；narrower than ... 比……窄。",
+    "usage": "much narrower；a narrower range。",
+    "contrast": "narrower 常比横向宽度、范围或差距，shorter 常比长度、时间。路更窄不一定更短，范围更窄也不一定内容更少或更浅。",
+    "examples": [
+      [
+        "The path becomes narrower near the river.",
+        "靠近河边时，小路变窄了。"
+      ],
+      [
+        "We need a narrower focus for a report of this length.",
+        "篇幅这么长的报告，需要把讨论范围收得更集中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrower#English",
+      "https://en.wiktionary.org/wiki/narrow#English"
+    ]
+  },
+  {
+    "word": "narrowest",
+    "ipa": "英 /ˈnærəʊɪst/；美 /ˈnæroʊɪst/",
+    "meaning": "最窄的；范围最小、差距最小的；narrow 的最高级",
+    "sense": "在一段路里找最挤、最窄的地方，或在几个差距里挑最小的一项，就是 narrowest。",
+    "split": "narrow + -est，保留 ow，不双写 w。源于古英语 nearu 的受限、狭小材料，现代直接形成最高级。",
+    "history": [
+      [
+        "古英语 nearu → narrow",
+        "狭窄、范围受限"
+      ],
+      [
+        "narrow + -est → narrowest",
+        "所比范围里宽度、范围或差距最小"
+      ]
+    ],
+    "explanation": "the narrowest part 最窄的一段；the narrowest gap 最小差距；by the narrowest margin 以极微小差距；the narrowest definition 最严格、范围最小的定义。",
+    "usage": "at its narrowest；the narrowest of the streets。",
+    "contrast": "at its narrowest 常指出同一物体最窄的位置；the narrowest street 则在几条街之间比较。比较范围不同，句子落点也不同。",
+    "examples": [
+      [
+        "The river is easiest to cross at its narrowest point.",
+        "这条河在最窄处最容易穿过。"
+      ],
+      [
+        "They won by the narrowest margin of the season.",
+        "他们以这个赛季最微小的差距获胜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrowest#English",
+      "https://en.wiktionary.org/wiki/narrow#English"
+    ]
+  }
+]

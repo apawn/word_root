@@ -1,0 +1,1094 @@
+[
+  {
+    "word": "play",
+    "ipa": "/pleɪ/",
+    "meaning": "玩；比赛；演奏；表演；播放；戏剧",
+    "sense": "先把自己投入一场活动：孩子做游戏，球员参加比赛，演员进入角色，音乐家让乐曲响起来。",
+    "split": "接古英语 plegian、plegan 等动词及 plega 一系名词，经中古英语延续。更远来源不完全确定，不靠现代字母再拆一条虚构古词根。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ]
+    ],
+    "explanation": "play football 通常不加冠词，play the piano 常加 the，play a role 是扮演角色，play a video 是播放。a play 是舞台剧，at play 可说在玩或某因素正在起作用。",
+    "usage": "play a game；play the guitar；play a role；a play by Shakespeare。",
+    "contrast": "play 强调参与、扮演或使内容响起，work 强调工作、运作；但 play a role in a process 也可用于严肃事件，不必是娱乐。",
+    "examples": [
+      [
+        "The children were playing in the garden.",
+        "孩子们在花园玩。"
+      ],
+      [
+        "She plays the violin in a local orchestra.",
+        "她在当地乐团拉小提琴。"
+      ],
+      [
+        "The theatre will stage a new play next month.",
+        "剧院下个月将上演一部新剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/play#English"
+    ]
+  },
+  {
+    "word": "playing",
+    "ipa": "/ˈpleɪɪŋ/",
+    "meaning": "演奏；进行游戏或比赛；play 的 -ing 形式",
+    "sense": "把动作摊开来看：曲子正由手指弹出，比赛正由参与者推进。",
+    "split": "play + -ing，保留 y，接中古英语相应形式。可作动词形式、动作名词或修饰语，不能只记一个进行时。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "play + -ing → playing",
+        "玩、表演、演奏的动作或相关性质"
+      ]
+    ],
+    "explanation": "her playing 是她的演奏，a playing field 是运动场，playing cards 是扑克牌。The radio is playing 是收音机在播放，不是机器自己做游戏。",
+    "usage": "piano playing；playing cards；a playing field；playing time。",
+    "contrast": "playing 的含义要先找 play 在当前句子的义项；比赛、演奏、播放不是每个场景都能用同一个“玩”字。",
+    "examples": [
+      [
+        "Her playing became more confident during the concert.",
+        "音乐会中，她的演奏越来越自信。"
+      ],
+      [
+        "The children spent the afternoon playing cards.",
+        "孩子们打牌度过了下午。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playing#English"
+    ]
+  },
+  {
+    "word": "player",
+    "ipa": "英 /ˈpleɪə/；美 /ˈpleɪər/",
+    "meaning": "球员；玩家；演奏者；播放器；参与方",
+    "sense": "活动里实际出手的那个人，或让录音视频播放出来的设备。",
+    "split": "play + -er，-er 可以表人或装置；接古英语 pleġere 等人物形式，后来随 play 的用法扩展。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "古英语 pleġere → 英语 player",
+        "参与游戏、运动的人；后来扩到演奏者等"
+      ],
+      [
+        "现代 player 的装置及参与方义",
+        "播放器；有影响的行动者"
+      ]
+    ],
+    "explanation": "a football player 是球员，a piano player 是演奏者，a media player 是播放器。a major player in the industry 是行业重要参与者。",
+    "usage": "a team player；a key player；a video player；a football player。",
+    "contrast": "player 不总是运动员；听到 software player 也不应按真人理解。a team player 还常夸能合作，不保证真的参加体育队。",
+    "examples": [
+      [
+        "She is the youngest player on the team.",
+        "她是队里最年轻的球员。"
+      ],
+      [
+        "The company became a major player in the market.",
+        "公司成了市场上的重要参与者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/player#English"
+    ]
+  },
+  {
+    "word": "playful",
+    "ipa": "/ˈpleɪfəl/",
+    "meaning": "爱玩的；调皮的；开玩笑的",
+    "sense": "不是严肃较劲，而是带着玩心，轻轻逗一下、试一下。",
+    "split": "play + -ful，-ful 说具有这种倾向，中古英语已有 pleiful 等相关形式。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "play + -ful → playful",
+        "爱玩、带玩笑意味的"
+      ]
+    ],
+    "explanation": "a playful puppy 是爱玩的小狗，a playful remark 是玩笑话。是否让别人舒服仍取决于内容和关系，playful 不自动等于无伤害。",
+    "usage": "a playful smile；a playful mood；playful teasing。",
+    "contrast": "playful 描述活泼、玩笑的态度，playable 说明能不能玩或演奏；词尾换了，评价对象也不同。",
+    "examples": [
+      [
+        "The puppy was energetic and playful.",
+        "小狗精力旺盛，又爱玩。"
+      ],
+      [
+        "She gave him a playful smile.",
+        "她朝他调皮地笑了笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playful#English"
+    ]
+  },
+  {
+    "word": "playable",
+    "ipa": "/ˈpleɪəbəl/",
+    "meaning": "可玩的；可演奏的；可供比赛的",
+    "sense": "把游戏、曲子或球场拿到手，条件允许它真正进入活动。",
+    "split": "play + -able，-able 表能够被做、适合进行。play 的不同义项分别对应游戏、乐曲、比赛条件。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "play + -able → playable",
+        "能玩、能演奏或适合比赛的"
+      ]
+    ],
+    "explanation": "a playable demo 是可试玩演示版，a playable pitch 是能比赛的球场，playable music 可说演奏得出来。强调基本能进行，不保证质量非常好。",
+    "usage": "a playable demo；a playable character；a playable pitch。",
+    "contrast": "playable 是可进行，enjoyable 是令人享受；一个程序能玩，不表示一定好玩。",
+    "examples": [
+      [
+        "The studio released a playable demo.",
+        "工作室发布了可试玩的演示版。"
+      ],
+      [
+        "The pitch was wet but still playable.",
+        "球场虽湿，但仍可以比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playable#English"
+    ]
+  },
+  {
+    "word": "playability",
+    "ipa": "/ˌpleɪəˈbɪləti/",
+    "meaning": "可玩性；可演奏性",
+    "sense": "不仅问它有没有启动，还问玩法能否顺手、条件是否适合持续玩下去。",
+    "split": "playable 对应性质名词，-able → -ability；也可分析 play + -ability。具体评价维度由游戏、乐器或场地语境给出。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "playable → playability",
+        "能玩、能演奏等方面的性质、程度"
+      ]
+    ],
+    "explanation": "游戏评论里可涉及操作、规则等如何让游戏可玩；乐器 playability 可说易于演奏的手感。不是一个所有领域统一计分的指标。",
+    "usage": "improve playability；the game’s playability；the playability of a guitar。",
+    "contrast": "playability 不等于 popularity：可玩或好上手与流行程度相关，却不是同一事实。",
+    "examples": [
+      [
+        "The update improved the game’s playability on smaller screens.",
+        "更新改善了游戏在小屏幕上的可玩性。"
+      ],
+      [
+        "The guitarist praised the instrument’s playability.",
+        "吉他手称赞了这件乐器的演奏手感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playability#English"
+    ]
+  },
+  {
+    "word": "gameplay",
+    "ipa": "/ˈɡeɪmpleɪ/",
+    "meaning": "玩法；游戏过程与操作体验",
+    "sense": "不是只看画面多漂亮，而是手里到底做什么、规则怎样回应你的选择。",
+    "split": "game（游戏）+ play（进行、玩法），组合强调游戏进行中的机制、互动和体验。",
+    "history": [
+      [
+        "英语 game；play",
+        "并列的构词材料"
+      ],
+      [
+        "game + play → gameplay",
+        "游戏实际怎样被玩起来"
+      ]
+    ],
+    "explanation": "fast-paced gameplay 是节奏快的玩法，gameplay footage 是实际游玩画面。story 和 graphics 可影响体验，但 gameplay 特别聚焦操作、规则、过程。",
+    "usage": "engaging gameplay；gameplay mechanics；gameplay footage。",
+    "contrast": "gameplay 不是 game title 游戏名，也不等于完整 game。评测可说画面普通但玩法出色。",
+    "examples": [
+      [
+        "The game has simple graphics but excellent gameplay.",
+        "游戏画面简单，但玩法出色。"
+      ],
+      [
+        "The video shows ten minutes of actual gameplay.",
+        "视频展示了十分钟实际游玩过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gameplay#English"
+    ]
+  },
+  {
+    "word": "replay",
+    "ipa": "动 /ˌriːˈpleɪ/；名 /ˈriːpleɪ/",
+    "meaning": "重放；重赛；回放片段",
+    "sense": "刚才那一段再来一次：可以重新看录制内容，也可以重新进行比赛。",
+    "split": "re-（再）+ play（播放、比赛），动词与名词常有重音差别，名词重音在前的读法常见。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "re- + play → replay",
+        "再播放、再进行；相应回放或重赛"
+      ]
+    ],
+    "explanation": "watch the replay 是看回放，replay a match 可是重赛。球赛 replay 需判断是比赛录影再播，还是规则下重新比赛。",
+    "usage": "an instant replay；watch a replay；replay the video。",
+    "contrast": "replay 不等于 redo 所有任务；playback 特别说已录内容播放，replay 还可以是实际比赛再举行。",
+    "examples": [
+      [
+        "The referee watched the replay.",
+        "裁判看了回放。"
+      ],
+      [
+        "The final will be replayed next week.",
+        "决赛将在下周重赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replay#English"
+    ]
+  },
+  {
+    "word": "playground",
+    "ipa": "/ˈpleɪɡraʊnd/",
+    "meaning": "游乐场；游戏活动场地",
+    "sense": "留出一片能跑、爬、荡秋千的地方，让孩子们自由活动。",
+    "split": "play（玩）+ ground（场地），按使用目的命名；与更早表示游戏场所的英语表达有同类联系。",
+    "history": [
+      [
+        "英语 play；ground",
+        "并列的构词材料"
+      ],
+      [
+        "play + ground → playground",
+        "用来游戏、活动的场地"
+      ]
+    ],
+    "explanation": "常指有儿童设施的活动场。比喻 a playground for the rich 是富人享乐之地，可能带批评，不一定真的有滑梯。",
+    "usage": "a school playground；playground equipment；in the playground。",
+    "contrast": "playground 多关注玩耍，playing field 多关注运动比赛；具体学校场地可能有重叠。",
+    "examples": [
+      [
+        "The children ran out to the playground.",
+        "孩子们跑到操场游戏区。"
+      ],
+      [
+        "The park has a new playground with climbing frames.",
+        "公园新建了带攀爬架的儿童游乐场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playground#English"
+    ]
+  },
+  {
+    "word": "playlist",
+    "ipa": "/ˈpleɪlɪst/",
+    "meaning": "播放列表",
+    "sense": "先把想听、想看的项目排成一列，播放器就能照着顺序或规则放。",
+    "split": "play（播放）+ list（清单），组合说待播放内容的选集与顺序。",
+    "history": [
+      [
+        "英语 play；list",
+        "并列的构词材料"
+      ],
+      [
+        "play + list → playlist",
+        "供播放的一组内容清单"
+      ]
+    ],
+    "explanation": "常说歌曲列表，也能是视频列表。a playlist 可以由人挑选，也可由系统生成；列表本身不必保存每份媒体文件。",
+    "usage": "create a playlist；add to a playlist；a workout playlist。",
+    "contrast": "playlist 是内容清单，player 是播放设备或软件；同在音乐应用里，但功能不同。",
+    "examples": [
+      [
+        "She made a playlist for the journey.",
+        "她为旅途建了一个播放列表。"
+      ],
+      [
+        "Add this song to your playlist.",
+        "把这首歌加进你的播放列表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playlist#English"
+    ]
+  },
+  {
+    "word": "playboy",
+    "ipa": "/ˈpleɪbɔɪ/",
+    "meaning": "花花公子；寻欢作乐的男子",
+    "sense": "把时间、金钱花在享乐和恋爱追逐上，给人不愿认真承担责任的印象。",
+    "split": "play（玩乐）+ boy（男子的相应称呼），形成成年男子生活方式的评价词，不单是玩耍的小男孩。",
+    "history": [
+      [
+        "英语 play；boy",
+        "并列的构词材料"
+      ],
+      [
+        "play + boy → playboy",
+        "以享乐、情场活动著称的男子"
+      ]
+    ],
+    "explanation": "通常带评价，也常用于人物报道、小说。语境可能强调财富和社交，不凭这个标签断定所有行为。大写时还可能是专名。",
+    "usage": "a wealthy playboy；a playboy lifestyle；a notorious playboy。",
+    "contrast": "playboy 与 player 都可能在口语关系评价中出现，但 player 更宽泛；普通球员、演奏者的 player 没有这个意味。",
+    "examples": [
+      [
+        "The novel portrays him as a wealthy playboy.",
+        "小说把他描写成一位富有的花花公子。"
+      ],
+      [
+        "He tried to leave his playboy image behind.",
+        "他试图摆脱花花公子的形象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playboy#English"
+    ]
+  },
+  {
+    "word": "screenplay",
+    "ipa": "/ˈskriːnpleɪ/",
+    "meaning": "电影剧本；影视剧本",
+    "sense": "拍摄前先把场景、人物动作和对白组织成可拍出来的文本。",
+    "split": "screen（银幕、屏幕）+ play（戏剧文本、表演作品），按面向银幕制作的用途形成。",
+    "history": [
+      [
+        "英语 screen；play",
+        "并列的构词材料"
+      ],
+      [
+        "screen + play → screenplay",
+        "供电影等影像作品拍摄的剧本"
+      ]
+    ],
+    "explanation": "write a screenplay 是写电影剧本；an adapted screenplay 是改编剧本。小说变成电影时，screenplay 通常要重新组织可见可听的场景。",
+    "usage": "an original screenplay；an adapted screenplay；write a screenplay。",
+    "contrast": "screenplay 不是电影本身的全部成片，novel 是小说；同一故事可以分别有小说、剧本和影片。",
+    "examples": [
+      [
+        "She adapted the novel into a screenplay.",
+        "她把小说改编成电影剧本。"
+      ],
+      [
+        "The screenplay won an award before filming began.",
+        "开拍前，剧本就获得了奖项。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screenplay#English"
+    ]
+  },
+  {
+    "word": "playwright",
+    "ipa": "/ˈpleɪraɪt/",
+    "meaning": "剧作家",
+    "sense": "把人物、对白和舞台行动搭成一出戏的人。",
+    "split": "play（戏剧）+ wright（工匠、制造者），借“造东西的人”称写剧者。不是 play + write 的直接拼写，也不因为发音像 right 就与正确有关。",
+    "history": [
+      [
+        "英语 play；wright〔制造者、工匠〕",
+        "并列的构词材料"
+      ],
+      [
+        "play + wright〔制造者、工匠〕 → playwright",
+        "创作舞台剧的人"
+      ]
+    ],
+    "explanation": "通常以舞台剧作者为中心，a novelist 以小说为中心，a screenwriter 写影视剧本。一个人也可以兼做几种创作。",
+    "usage": "a contemporary playwright；a celebrated playwright；a playwright’s work。",
+    "contrast": "playwright 的名词写 wright，playwriting 的写作活动却用 writing；不要把作者和活动的拼写机械照抄。",
+    "examples": [
+      [
+        "The playwright revised the final scene.",
+        "剧作家修改了最后一场戏。"
+      ],
+      [
+        "She is best known as a playwright rather than a novelist.",
+        "她最出名的身份是剧作家，而不是小说家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playwright#English"
+    ]
+  },
+  {
+    "word": "playwriting",
+    "ipa": "/ˈpleɪraɪtɪŋ/",
+    "meaning": "戏剧写作",
+    "sense": "想象演员怎样进场、怎样对话，再把这些写成可以排练的戏。",
+    "split": "play（舞台剧）+ writing（写作）。虽然作者叫 playwright，活动名的后半仍是 writing，不是把 wright 直接加 -ing。",
+    "history": [
+      [
+        "英语 play；writing",
+        "并列的构词材料"
+      ],
+      [
+        "play + writing → playwriting",
+        "创作舞台剧本的活动"
+      ]
+    ],
+    "explanation": "常见课程名称 playwriting workshop，通常训练对白、场景、行动结构等。不是所有“写游戏攻略”都叫 playwriting。",
+    "usage": "study playwriting；a playwriting course；a playwriting workshop。",
+    "contrast": "playwriting 是活动，playwright 是人；screenwriting 更明确说影视剧本写作。",
+    "examples": [
+      [
+        "She took a playwriting course at the local theatre.",
+        "她在当地剧院上了戏剧写作课。"
+      ],
+      [
+        "The workshop introduced the basics of playwriting.",
+        "工作坊介绍了戏剧写作的基础。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playwriting#English"
+    ]
+  },
+  {
+    "word": "playbook",
+    "ipa": "/ˈpleɪbʊk/",
+    "meaning": "战术手册；行动套路、策略",
+    "sense": "球队把某种局面该怎样跑位画进册子，后来也比喻组织反复采用的招数。",
+    "split": "play（战术、剧目等具体材料）+ book（册），不同历史场景可有剧本文本、战术集等义，现代常用战术与策略比喻。",
+    "history": [
+      [
+        "英语 play；book",
+        "并列的构词材料"
+      ],
+      [
+        "play + book → playbook",
+        "战术或剧目册；成套行动策略"
+      ]
+    ],
+    "explanation": "a coach’s playbook 是战术手册；follow the same playbook 是照同一套策略办。强调已组织、可复用的做法，不必真是纸书。",
+    "usage": "a familiar playbook；follow the playbook；a page from someone’s playbook。",
+    "contrast": "playbook 是策略集，rulebook 是规则集；一个说怎样争取成功，一个说哪些行为被允许。",
+    "examples": [
+      [
+        "The team added a new formation to its playbook.",
+        "球队把一种新阵型加进战术手册。"
+      ],
+      [
+        "The campaign followed a familiar playbook.",
+        "这场活动沿用了熟悉的策略套路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playbook#English"
+    ]
+  },
+  {
+    "word": "foreplay",
+    "ipa": "英 /ˈfɔːpleɪ/；美 /ˈfɔːrpleɪ/",
+    "meaning": "性前戏",
+    "sense": "在更进一步的性活动之前，双方进行的亲密互动。",
+    "split": "fore-（在前）+ play（亲密活动这一专门语境），不是所有比赛前热身的通用名称。",
+    "history": [
+      [
+        "英语 fore-；play",
+        "并列的构词材料"
+      ],
+      [
+        "fore- + play → foreplay",
+        "性活动前的亲密互动"
+      ]
+    ],
+    "explanation": "是性关系相关词，语气可中性。比喻用法也存在，但一般交际中不要用它来泛称会议预热或日常准备。",
+    "usage": "intimacy and foreplay；a discussion of foreplay；foreplay in a relationship。",
+    "contrast": "warm-up 是一般热身，foreplay 通常有明确性意味；共享“在前的活动”图像也不宜互换。",
+    "examples": [
+      [
+        "The guide discusses communication, consent, and foreplay.",
+        "指南讨论沟通、同意和性前戏。"
+      ],
+      [
+        "The couple talked openly about what foreplay meant to each of them.",
+        "这对伴侣坦诚谈论了各自对性前戏的理解。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foreplay#English"
+    ]
+  },
+  {
+    "word": "playmaker",
+    "ipa": "英 /ˈpleɪmeɪkə/；美 /ˈpleɪmeɪkər/",
+    "meaning": "组织进攻的球员；策动者",
+    "sense": "不一定亲自完成最后一击，而是传球、跑位和判断让整次进攻成形。",
+    "split": "play（战术、进攻配合）+ maker（促成者），以促成配合的作用命名球员。",
+    "history": [
+      [
+        "英语 play；maker",
+        "并列的构词材料"
+      ],
+      [
+        "play + maker → playmaker",
+        "策动比赛配合、组织进攻者"
+      ]
+    ],
+    "explanation": "足球、篮球等不同运动都可用，但具体位置和任务依项目。比喻商业或政治中也可说推动布局的关键人。",
+    "usage": "a creative playmaker；the team’s playmaker；a midfield playmaker。",
+    "contrast": "playmaker 强调组织机会，goalscorer 强调进球；同一个人可以两者兼有。",
+    "examples": [
+      [
+        "The playmaker created several chances with accurate passes.",
+        "这位组织进攻的球员用精准传球创造了几次机会。"
+      ],
+      [
+        "The team struggled after losing its main playmaker.",
+        "失去主要组织者后，球队打得很艰难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playmaker#English"
+    ]
+  },
+  {
+    "word": "playmaking",
+    "ipa": "/ˈpleɪmeɪkɪŋ/",
+    "meaning": "组织进攻；策动比赛配合",
+    "sense": "把原本散开的队员动作接成一次有目的的配合。",
+    "split": "play（比赛配合）+ making（促成），与 playmaker 的角色相对应，关注组织这一活动或能力。",
+    "history": [
+      [
+        "英语 play；making",
+        "并列的构词材料"
+      ],
+      [
+        "play + making → playmaking",
+        "组织战术、创造配合的过程"
+      ]
+    ],
+    "explanation": "可说 playmaking skills，重在阅读局面、创造机会。不是单指写戏剧，戏剧写作一般是 playwriting。",
+    "usage": "playmaking ability；playmaking skills；creative playmaking。",
+    "contrast": "playmaking 是比赛组织能力，playwriting 是剧本写作；二者同有 play，却选了不同义项。",
+    "examples": [
+      [
+        "Her playmaking gave the team more attacking options.",
+        "她的组织能力给球队带来了更多进攻选择。"
+      ],
+      [
+        "The coach values playmaking as much as scoring.",
+        "教练同样重视组织进攻和得分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playmaking#English"
+    ]
+  },
+  {
+    "word": "airplay",
+    "ipa": "英 /ˈeəpleɪ/；美 /ˈerpleɪ/",
+    "meaning": "电台、电视播放",
+    "sense": "歌不只是存在唱片或歌单里，而是被广播机构播给听众。",
+    "split": "air（广播、播送所用的空中传送意象）+ play（播放），形成广播播放的名词。",
+    "history": [
+      [
+        "英语 air；play",
+        "并列的构词材料"
+      ],
+      [
+        "air + play → airplay",
+        "音乐等经电台、电视播出的播放"
+      ]
+    ],
+    "explanation": "get airplay 是获得电台等播放机会；heavy airplay 是频繁播出。通常不可数，不把流媒体所有点击一律叫 airplay。",
+    "usage": "receive airplay；radio airplay；get little airplay。",
+    "contrast": "airplay 关注广播播出，playlist 是播放清单；进入清单不一定等于已获得某种广播播放量。",
+    "examples": [
+      [
+        "The song received little airplay at first.",
+        "这首歌最初很少在电台播出。"
+      ],
+      [
+        "Local radio gave the band regular airplay.",
+        "当地电台经常播放这支乐队的歌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/airplay#English"
+    ]
+  },
+  {
+    "word": "playmate",
+    "ipa": "/ˈpleɪmeɪt/",
+    "meaning": "玩伴",
+    "sense": "一起搭积木、追逐、玩游戏，不只是住在旁边而没一起玩的人。",
+    "split": "play（玩）+ mate（伙伴），按共同活动关系形成称呼。",
+    "history": [
+      [
+        "英语 play；mate",
+        "并列的构词材料"
+      ],
+      [
+        "play + mate → playmate",
+        "一起玩耍的伙伴"
+      ]
+    ],
+    "explanation": "日常常指儿童玩伴，也可说动物玩伴。不是所有 mate 都有恋爱含义；大写或特定品牌语境可能另有所指。",
+    "usage": "a childhood playmate；a favourite playmate；find a playmate。",
+    "contrast": "classmate 是同班关系，playmate 是一起玩的关系；一个人可以兼有，但并非总是同一群人。",
+    "examples": [
+      [
+        "Her cousin was her favourite playmate.",
+        "表亲是她最喜欢的玩伴。"
+      ],
+      [
+        "The puppy soon found a playmate in the neighbour’s dog.",
+        "小狗很快与邻居的狗成了玩伴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playmate#English"
+    ]
+  },
+  {
+    "word": "roleplay",
+    "ipa": "英 /ˈrəʊlpleɪ/；美 /ˈroʊlpleɪ/",
+    "meaning": "角色扮演；扮演角色",
+    "sense": "先暂时进入一个身份，再按那个身份说话、做选择。",
+    "split": "role（角色）+ play（表演、扮演），可作名词或动词；也常分开或用连字符写，本条保留连写词头。",
+    "history": [
+      [
+        "英语 role；play",
+        "并列的构词材料"
+      ],
+      [
+        "role + play → roleplay",
+        "承担设定角色进行模拟互动"
+      ]
+    ],
+    "explanation": "课堂可模拟顾客与店员，游戏可扮演虚构人物。用途是练习或娱乐，是否符合真实职业情况须看设计。",
+    "usage": "a roleplay exercise；roleplay a conversation；roleplay a customer。",
+    "contrast": "roleplay 是互动模拟，replay 是再放或重来；前者换身份，后者强调重复。",
+    "examples": [
+      [
+        "The students used roleplay to practise job interviews.",
+        "学生通过角色扮演练习求职面试。"
+      ],
+      [
+        "One student will roleplay the customer.",
+        "一名学生将扮演顾客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roleplay#English"
+    ]
+  },
+  {
+    "word": "wordplay",
+    "ipa": "英 /ˈwɜːdpleɪ/；美 /ˈwɜːrdpleɪ/",
+    "meaning": "文字游戏；双关等语言趣味",
+    "sense": "同一个声音或词意拐个弯，让听者同时看见两种意思。",
+    "split": "word（词语）+ play（巧妙、玩趣的运用），不一定是有输赢规则的游戏。",
+    "history": [
+      [
+        "英语 word；play",
+        "并列的构词材料"
+      ],
+      [
+        "word + play → wordplay",
+        "利用声音、意义等制造语言趣味"
+      ]
+    ],
+    "explanation": "包括双关、谐音、巧妙措辞等。a pun 是其中常见一种，wordplay 范围更宽；能否翻译要看语言结构。",
+    "usage": "clever wordplay；a joke based on wordplay；full of wordplay。",
+    "contrast": "wordplay 是语言技巧，play on words 是常见相应短语；不等于所有文字组成的 game。",
+    "examples": [
+      [
+        "The headline relies on clever wordplay.",
+        "标题靠巧妙的文字游戏制造趣味。"
+      ],
+      [
+        "Much of the wordplay is difficult to translate.",
+        "其中很多双关很难翻译。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wordplay#English"
+    ]
+  },
+  {
+    "word": "playthrough",
+    "ipa": "/ˈpleɪθruː/",
+    "meaning": "一次完整游玩；通关过程或实录",
+    "sense": "把游戏从某个起点一路玩到结束，把这轮过程作为一个整体。",
+    "split": "play（玩游戏）+ through（从头穿过到末端），由动作过程形成可数名词。",
+    "history": [
+      [
+        "英语 play；through",
+        "并列的构词材料"
+      ],
+      [
+        "play + through → playthrough",
+        "从开始到结束的一轮游玩"
+      ]
+    ],
+    "explanation": "a first playthrough 是第一次完整游玩；a video playthrough 是展示游戏过程的录像。是否完全通关或包含支线，要看作者如何限定。",
+    "usage": "a first playthrough；a complete playthrough；watch a playthrough。",
+    "contrast": "playthrough 是一轮过程，walkthrough 常是帮助别人照步骤推进的攻略；录像可以兼具二者功能。",
+    "examples": [
+      [
+        "I found more hidden areas on my second playthrough.",
+        "第二轮游玩时，我找到了更多隐藏区域。"
+      ],
+      [
+        "The channel posted a full playthrough of the game.",
+        "频道发布了这款游戏的完整游玩实录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playthrough#English"
+    ]
+  },
+  {
+    "word": "playroom",
+    "ipa": "/ˈpleɪruːm/",
+    "meaning": "游戏室；儿童活动室",
+    "sense": "把玩具、积木和活动空间集中到一间房，让人进去就能玩。",
+    "split": "play（玩耍）+ room（房间），按用途命名。",
+    "history": [
+      [
+        "英语 play；room",
+        "并列的构词材料"
+      ],
+      [
+        "play + room → playroom",
+        "供玩耍的房间"
+      ]
+    ],
+    "explanation": "常指儿童游戏室，也可依场所用于其他娱乐活动。房间里有没有床并不是这个名称的核心。",
+    "usage": "a children’s playroom；toys in the playroom；a bright playroom。",
+    "contrast": "playroom 主要用途是玩，classroom 是教学，bedroom 是睡觉；实际多用途房间的称呼依重点。",
+    "examples": [
+      [
+        "The hotel has a playroom for young children.",
+        "酒店有供幼儿使用的游戏室。"
+      ],
+      [
+        "They converted the spare room into a playroom.",
+        "他们把空房间改成了游戏室。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playroom#English"
+    ]
+  },
+  {
+    "word": "playset",
+    "ipa": "/ˈpleɪset/",
+    "meaning": "成套玩具；组合游乐设施",
+    "sense": "不是只有一件玩具，而是一组能一起构成场景或玩法的组件。",
+    "split": "play（游戏）+ set（成套物件），指成套玩具，也可指带滑梯等的户外组合设施。",
+    "history": [
+      [
+        "英语 play；set",
+        "并列的构词材料"
+      ],
+      [
+        "play + set → playset",
+        "供游戏的一套组件或设施"
+      ]
+    ],
+    "explanation": "a farm playset 可有农场、动物等配件；an outdoor playset 可有秋千滑梯。set 说明组合，不保证具体件数。",
+    "usage": "a toy playset；an outdoor playset；a castle playset。",
+    "contrast": "playset 是成套玩具或设施，playlist 是播放清单；set 与 list 在此决定物理组件和媒体项目的区别。",
+    "examples": [
+      [
+        "The child arranged the animals from the farm playset.",
+        "孩子摆放着农场玩具套装里的动物。"
+      ],
+      [
+        "They installed a wooden playset in the garden.",
+        "他们在花园装了一套木制游乐设施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playset#English"
+    ]
+  },
+  {
+    "word": "playpen",
+    "ipa": "/ˈpleɪpen/",
+    "meaning": "婴幼儿游戏围栏",
+    "sense": "留一小片围起来的空间，让婴幼儿在其中活动、玩耍。",
+    "split": "play（玩）+ pen（围栏、围起的空间），pen 在这里不是写字笔。",
+    "history": [
+      [
+        "英语 play；pen〔围栏〕",
+        "并列的构词材料"
+      ],
+      [
+        "play + pen〔围栏〕 → playpen",
+        "供幼儿玩耍的围栏空间"
+      ]
+    ],
+    "explanation": "通常指可移动或固定的幼儿游戏围栏。词名只是物品用途，不说明任何具体使用场景都无需成人照看。",
+    "usage": "a folding playpen；inside the playpen；set up a playpen。",
+    "contrast": "playpen 围出活动空间，crib／cot 通常是婴儿床；两者功能有别，不能只因都带栏杆就替换。",
+    "examples": [
+      [
+        "The baby was playing with blocks in the playpen.",
+        "宝宝在游戏围栏里玩积木。"
+      ],
+      [
+        "The family packed a folding playpen for the trip.",
+        "一家人为旅行带上了折叠游戏围栏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playpen#English"
+    ]
+  },
+  {
+    "word": "gunplay",
+    "ipa": "/ˈɡʌnpleɪ/",
+    "meaning": "交火；开枪行为〔叙述用语〕",
+    "sense": "故事中的枪声来回响起，作者用一个词概括动枪、交火的场面。",
+    "split": "gun（枪）+ play（使用、活动的专门义），是枪械使用或交火的名称，不因 play 就把它理解成安全游戏。",
+    "history": [
+      [
+        "英语 gun；play",
+        "并列的构词材料"
+      ],
+      [
+        "gun + play → gunplay",
+        "枪械交火等行动"
+      ]
+    ],
+    "explanation": "常见影视、小说或新闻叙述。The film has a lot of gunplay 是电影里枪战多，只描述内容，不给出任何操作步骤。",
+    "usage": "a scene of gunplay；violent gunplay；little gunplay。",
+    "contrast": "gunplay 不是玩具枪游戏的默认说法；play 在合成词里可表示操作活动，不承诺娱乐或无害。",
+    "examples": [
+      [
+        "The film relies more on suspense than gunplay.",
+        "这部电影更多依靠悬念，而不是枪战。"
+      ],
+      [
+        "The reviewer criticised the excessive gunplay.",
+        "评论者批评了过多的枪战场面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gunplay#English"
+    ]
+  },
+  {
+    "word": "playgroup",
+    "ipa": "/ˈpleɪɡruːp/",
+    "meaning": "幼儿游戏小组；幼儿活动班",
+    "sense": "几位幼儿在安排好的时间一起玩，由大人组织或陪同。",
+    "split": "play（玩）+ group（小组），按幼儿共同活动形式命名。",
+    "history": [
+      [
+        "英语 play；group",
+        "并列的构词材料"
+      ],
+      [
+        "play + group → playgroup",
+        "组织幼儿一起玩耍的小组"
+      ]
+    ],
+    "explanation": "不同地区可指较非正式的家长幼儿聚会，也可指学前活动班。具体是否属于学校、是否收费，要看服务安排。",
+    "usage": "join a playgroup；a local playgroup；a parent-and-child playgroup。",
+    "contrast": "playgroup 不自动等于完整日托服务；nursery、kindergarten 等名称也有地区差异，不能只靠词根判定制度。",
+    "examples": [
+      [
+        "She takes her son to a local playgroup on Tuesdays.",
+        "她周二带儿子去当地幼儿活动小组。"
+      ],
+      [
+        "The playgroup meets in the community hall.",
+        "幼儿游戏小组在社区礼堂活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playgroup#English"
+    ]
+  },
+  {
+    "word": "playdate",
+    "ipa": "/ˈpleɪdeɪt/",
+    "meaning": "约好的儿童玩耍聚会",
+    "sense": "家长先约个时间，让孩子们到一起玩。",
+    "split": "play（玩耍）+ date（约定的时间、会面），date 这里不必是恋爱约会。",
+    "history": [
+      [
+        "英语 play；date",
+        "并列的构词材料"
+      ],
+      [
+        "play + date → playdate",
+        "安排好的儿童玩耍会面"
+      ]
+    ],
+    "explanation": "have a playdate with a friend 是约朋友一起玩，多见北美家庭语境。安排的可能是家里、公园等场所。",
+    "usage": "arrange a playdate；a playdate with；host a playdate。",
+    "contrast": "playdate 是一次约定活动，playmate 是一起玩的伙伴；同一个玩伴可参加多次 playdates。",
+    "examples": [
+      [
+        "We arranged a playdate for Saturday afternoon.",
+        "我们约好周六下午让孩子们一起玩。"
+      ],
+      [
+        "Her daughter had a playdate with a classmate.",
+        "她女儿与一位同学约着玩了一次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playdate#English"
+    ]
+  },
+  {
+    "word": "playbill",
+    "ipa": "/ˈpleɪbɪl/",
+    "meaning": "戏剧海报；演出节目单",
+    "sense": "去看戏前，先看一张列着剧名、演员、演出信息的纸。",
+    "split": "play（戏剧）+ bill（告示、节目单），bill 在这里不是付款账单。",
+    "history": [
+      [
+        "英语 play；bill〔告示〕",
+        "并列的构词材料"
+      ],
+      [
+        "play + bill〔告示〕 → playbill",
+        "戏剧的告示或演出信息单"
+      ]
+    ],
+    "explanation": "可指宣传戏剧的海报，也可指剧院节目单。大写时可能是专名；具体资料是否包括演员表、文章等由出版物决定。",
+    "usage": "an old playbill；a theatre playbill；collect playbills。",
+    "contrast": "playbill 是演出信息，screenplay 是剧本内容；看过节目单不等于读完了对白和场景。",
+    "examples": [
+      [
+        "The archive holds playbills from nineteenth-century theatres.",
+        "档案馆保存着十九世纪剧院的演出海报。"
+      ],
+      [
+        "She kept the playbill as a souvenir.",
+        "她把节目单留下作纪念。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playbill#English"
+    ]
+  },
+  {
+    "word": "outplay",
+    "ipa": "/ˌaʊtˈpleɪ/",
+    "meaning": "比……表现更好；在比赛中压过",
+    "sense": "双方都在出招，但其中一方在关键配合、技术或策略上做得更好。",
+    "split": "out-（超过）+ play（比赛、发挥），形成及物动词比较双方表现。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "out- + play → outplay",
+        "比赛表现超过对手"
+      ]
+    ],
+    "explanation": "be outplayed 是被对手在场上压过。表现更好不保证最终分数必胜，所以报道里可以说 outplayed but lost。",
+    "usage": "outplay an opponent；be outplayed；outplay the opposition。",
+    "contrast": "outplay 比的是比赛表现，outscore 比的是得分；胜负、分数与过程评价可能不完全一致。",
+    "examples": [
+      [
+        "The visitors outplayed us for most of the match.",
+        "客队在比赛大部分时间里表现优于我们。"
+      ],
+      [
+        "They were outplayed but still managed to win.",
+        "他们场面上处于下风，却还是赢了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outplay#English"
+    ]
+  },
+  {
+    "word": "overplay",
+    "ipa": "/ˌəʊvəˈpleɪ/〔英〕；/ˌoʊvərˈpleɪ/〔美〕",
+    "meaning": "夸大；表演过火；播放过多",
+    "sense": "本来一点强调就够，却不断往上加，最后显得过头。",
+    "split": "over-（过度）+ play（表演、播放、发挥），在不同场景里分别说渲染过度、表演过火或频繁播放。",
+    "history": [
+      [
+        "古英语 plegian／plegan；plega",
+        "游戏、活动；游戏这一名词"
+      ],
+      [
+        "中古英语 pleyen／pleye → 英语 play",
+        "玩、比赛、表演、演奏；剧作等"
+      ],
+      [
+        "over- + play → overplay",
+        "表演、强调或播放超过适当程度"
+      ]
+    ],
+    "explanation": "overplay the danger 是夸大危险，overplay a role 是演得太用力。overplay one’s hand 比喻高估筹码、把优势用过头，反而失利。",
+    "usage": "overplay a role；overplay the importance；overplay one’s hand。",
+    "contrast": "overplay 是过度发挥或渲染，replay 是重来、重放；重复一次不一定就算播放过量。",
+    "examples": [
+      [
+        "The article overplays the risks and ignores the benefits.",
+        "文章夸大风险，忽略益处。"
+      ],
+      [
+        "He overplayed his hand and lost the support he needed.",
+        "他把自己的优势估得过高，反而失去了所需支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overplay#English"
+    ]
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "word": "bottom",
+    "ipa": "英 /ˈbɒtəm/；美 /ˈbɑːtəm/",
+    "meaning": "底部、最下端；末位；臀部；触底〔动词〕",
+    "sense": "杯子的下面、海的最深处、名单最后一行，都可以从最下面这一位置理解。人的 bottom 则是坐下时接触椅子的臀部。",
+    "split": "由古英语 botm 经中古英语延续，不是 bot + tom 的现代合成。动词触底、达到最低点接底部名词发展。",
+    "history": [
+      [
+        "古英语 botm → 中古英语 botme、botom → bottom",
+        "底部、基础、地面"
+      ],
+      [
+        "英语 bottom",
+        "最下部；最低位置；臀部；触底等"
+      ]
+    ],
+    "explanation": "at the bottom of 在……底部，the bottom of the page 页底，bottom out 触底、跌势见底。get to the bottom of 查清根本原因。",
+    "usage": "at the bottom；the bottom drawer；bottom out；get to the bottom of。",
+    "contrast": "bottom 最下部，base 基础、底座常强调支撑功能；at the bottom of a list 表排名最后，不一定物理上离地最近。",
+    "examples": [
+      [
+        "Your keys are at the bottom of the bag.",
+        "钥匙在包的底部。"
+      ],
+      [
+        "The answer is printed at the bottom of the page.",
+        "答案印在页底。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bottom#English"
+    ]
+  },
+  {
+    "word": "bottomless",
+    "ipa": "英 /ˈbɒtəmləs/；美 /ˈbɑːtəmləs/",
+    "meaning": "无底的；深不见底的；似乎无穷无尽的",
+    "sense": "向下望，看不到尽头；借来形容精力、需求或续杯服务时，抓的是一直用不完的感觉。",
+    "split": "bottom + -less，中古英语已有相应形式。字面无底与夸张极深、无限供给分语境理解。",
+    "history": [
+      [
+        "古英语 botm → 中古英语 botme、botom → bottom",
+        "底部、基础、地面"
+      ],
+      [
+        "英语 bottom",
+        "最下部；最低位置；臀部；触底等"
+      ],
+      [
+        "bottom + -less → bottomless",
+        "没有底；比喻深或多得仿佛没有尽头"
+      ]
+    ],
+    "explanation": "a bottomless pit 无底洞，bottomless energy 用不完的精力，bottomless coffee 可续杯咖啡。服务用语仍由具体规则限定。",
+    "usage": "a bottomless pit；bottomless energy；bottomless coffee。",
+    "contrast": "bottomless 仿佛没底，deep 深；深井有底仍可被夸张叫 bottomless，不把每处都当物理测量结论。",
+    "examples": [
+      [
+        "The old well looked like a bottomless pit.",
+        "那口老井看起来像个无底洞。"
+      ],
+      [
+        "The café offers bottomless coffee with breakfast.",
+        "这家咖啡馆早餐提供可续杯咖啡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bottomless#English"
+    ]
+  },
+  {
+    "word": "bottomed",
+    "ipa": "英 /ˈbɒtəmd/；美 /ˈbɑːtəmd/",
+    "meaning": "达到底部的；有某种底部的〔通常与修饰成分连用〕",
+    "sense": "当作 bottom 的过去式，是已经碰到底、降到底；描述器物时，则常是有怎样的底。",
+    "split": "bottom + -ed；一条是动词过去式、分词，一条是具有底部结构的形容词材料。带修饰成分的写法常见，但本条不另堆连字符词。",
+    "history": [
+      [
+        "古英语 botm → 中古英语 botme、botom → bottom",
+        "底部、基础、地面"
+      ],
+      [
+        "英语 bottom",
+        "最下部；最低位置；臀部；触底等"
+      ],
+      [
+        "bottom + -ed → bottomed",
+        "已经触底；有某种底部结构的"
+      ]
+    ],
+    "explanation": "prices bottomed out 价格触底，the boat bottomed on the mud 船底碰到泥底；具体含义靠动词结构判断。",
+    "usage": "bottomed out；bottomed on the mud；has bottomed out。",
+    "contrast": "bottomed 过去形式，bottomless 无底；bottomed out 表达到低点，不由词本身保证之后一定大幅反弹。",
+    "examples": [
+      [
+        "Sales bottomed out in January.",
+        "销量在一月降到了最低点。"
+      ],
+      [
+        "The boat bottomed on the mud at low tide.",
+        "退潮时船底碰到了淤泥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bottomed#English"
+    ]
+  },
+  {
+    "word": "parliament",
+    "ipa": "英 /ˈpɑːləmənt/；美 /ˈpɑːrləmənt/",
+    "meaning": "议会、国会",
+    "sense": "本来是一群人聚在一起商谈，后来专门叫议事、立法的机构。词的出发点是说话讨论，不是现代英语 part 加 lie。",
+    "split": "经法语 parlement，与 parler 说话和 -ment 动作名词材料有关。中古英语后来的 parliament 拼写受中世纪拉丁语相近形式影响；常用发音不逐字读出 ia。",
+    "history": [
+      [
+        "法语 parler 说话 + -ment → parlement",
+        "讨论、商谈、会议"
+      ],
+      [
+        "盎格鲁法语 parlement 等 → 中古英语 parlement → parliament",
+        "议事集会 → 议会；拼写受中世纪拉丁语形式影响"
+      ]
+    ],
+    "explanation": "a member of parliament 议会议员，a parliamentary debate 的机构基础是 parliament。Parliament 大写时可指特定议会，制度和权限依国家而异。",
+    "usage": "a member of parliament；address parliament；the parliament building。",
+    "contrast": "parliament 机构，government 政府，不能一律视作同一个组织；congress 也是某些制度下的议会名称，名称不能推出全部制度。",
+    "examples": [
+      [
+        "The proposal was debated in parliament.",
+        "这项提案在议会进行了辩论。"
+      ],
+      [
+        "She was elected a member of parliament.",
+        "她被选为议会议员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parliament#English"
+    ]
+  },
+  {
+    "word": "parliamentary",
+    "ipa": "英 /ˌpɑːləˈmentəri/；美 /ˌpɑːrləˈmentəri/",
+    "meaning": "议会的；符合议事规则的",
+    "sense": "给辩论、选举、委员会加一个标签：它属于议会或按相应议事程序进行。",
+    "split": "parliament + -ary，形成关系形容词。重音转到 /men/ 附近，不能完全按基础词的重音照搬。",
+    "history": [
+      [
+        "法语 parler 说话 + -ment → parlement",
+        "讨论、商谈、会议"
+      ],
+      [
+        "盎格鲁法语 parlement 等 → 中古英语 parlement → parliament",
+        "议事集会 → 议会；拼写受中世纪拉丁语形式影响"
+      ],
+      [
+        "parliament + -ary → parliamentary",
+        "与议会有关；按议事规则的"
+      ]
+    ],
+    "explanation": "a parliamentary debate 议会辩论，a parliamentary committee 议会委员会，parliamentary procedure 议事程序。",
+    "usage": "a parliamentary debate；a parliamentary committee；parliamentary procedure。",
+    "contrast": "parliamentary 议会相关，parliamentarian 人物或相关形容词；a parliamentary system 描写制度类型，不直接等于每一项具体政策。",
+    "examples": [
+      [
+        "The report was examined by a parliamentary committee.",
+        "报告由一个议会委员会审查。"
+      ],
+      [
+        "The chair explained the parliamentary procedure before the vote.",
+        "主持人在投票前解释了议事程序。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parliamentary#English"
+    ]
+  },
+  {
+    "word": "parliamentarian",
+    "ipa": "英 /ˌpɑːləmənˈteəriən/；美 /ˌpɑːrləmənˈteriən/",
+    "meaning": "议会议员；熟悉议事程序的人",
+    "sense": "一条是坐在议会里履职的人；另一条是懂开会、提案、表决规则，能指导程序的人。",
+    "split": "parliament + -arian，形成相关人物名称。议员与议事程序专家两种常见语境，不能只背其中一个。",
+    "history": [
+      [
+        "法语 parler 说话 + -ment → parlement",
+        "讨论、商谈、会议"
+      ],
+      [
+        "盎格鲁法语 parlement 等 → 中古英语 parlement → parliament",
+        "议事集会 → 议会；拼写受中世纪拉丁语形式影响"
+      ],
+      [
+        "parliament + -arian → parliamentarian",
+        "议会成员；议事程序专家等"
+      ]
+    ],
+    "explanation": "an experienced parliamentarian 资深议员，consult a parliamentarian 咨询议事程序专家；实际角色依机构和上下文。",
+    "usage": "an experienced parliamentarian；a senior parliamentarian；consult a parliamentarian。",
+    "contrast": "parliamentarian 人物，parliamentary 多修饰事物；并非所有被叫 parliamentarian 的人都在当议员，也可能负责程序咨询。",
+    "examples": [
+      [
+        "Several parliamentarians spoke against the proposal.",
+        "几位议员发言反对这项提案。"
+      ],
+      [
+        "The club consulted a parliamentarian about the voting rules.",
+        "俱乐部就投票规则咨询了一位议事程序专家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parliamentarian#English"
+    ]
+  },
+  {
+    "word": "bus",
+    "ipa": "/bʌs/",
+    "meaning": "公共汽车；用巴士运送；总线〔技术〕",
+    "sense": "很多人共乘的一辆公共车；这个名字实际上是较长的 omnibus 留下的尾巴。技术总线也借了共同输送通道的画面。",
+    "split": "omnibus 的截短，较长名称经法语交通用语接拉丁语 omnibus 给所有人。不是把 bus 三个字母各展开成一个英语词。",
+    "history": [
+      [
+        "拉丁语 omnibus〔给所有人的〕 → 法语公共车名称 omnibus",
+        "面向众人的公共车辆"
+      ],
+      [
+        "英语 omnibus 缩短 → bus",
+        "公共汽车；交通动词及技术总线等比喻"
+      ]
+    ],
+    "explanation": "take a bus 坐公交，by bus 乘公交，bus children to school 用巴士接送孩子，a data bus 数据总线。餐馆里 bus tables 收桌是另一条相关职业用法。",
+    "usage": "take the bus；a bus stop；by bus；a data bus。",
+    "contrast": "bus 车辆，coach 常指长途或旅游大巴但也有其他义；by bus 通常不加冠词，take the bus 则按具体搭配用冠词。",
+    "examples": [
+      [
+        "I usually go to work by bus.",
+        "我通常坐公交上班。"
+      ],
+      [
+        "The school buses the children to the museum.",
+        "学校用巴士把孩子们送到博物馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bus#English"
+    ]
+  },
+  {
+    "word": "minibus",
+    "ipa": "/ˈmɪnibʌs/",
+    "meaning": "小型公共汽车、小巴",
+    "sense": "能载一组乘客，但比通常想象的大巴更小的车。mini- 先把尺寸、容量缩小。",
+    "split": "mini- 小型 + bus 巴士，合成车辆名。名称没有规定全球统一的精确座位数。",
+    "history": [
+      [
+        "拉丁语 omnibus〔给所有人的〕 → 法语公共车名称 omnibus",
+        "面向众人的公共车辆"
+      ],
+      [
+        "英语 omnibus 缩短 → bus",
+        "公共汽车；交通动词及技术总线等比喻"
+      ],
+      [
+        "mini- + bus → minibus",
+        "小型巴士"
+      ]
+    ],
+    "explanation": "a school minibus 学校小巴，hire a minibus 租一辆小巴，a minibus service 小巴服务。",
+    "usage": "hire a minibus；a school minibus；travel by minibus。",
+    "contrast": "minibus 载客小巴，van 厢式车更泛，可载货也可载人；不能只看外形像就认定用途相同。",
+    "examples": [
+      [
+        "We hired a minibus for the group trip.",
+        "我们为集体出游租了一辆小巴。"
+      ],
+      [
+        "A school minibus picked up the children.",
+        "一辆学校小巴来接孩子们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/minibus#English"
+    ]
+  },
+  {
+    "word": "airbus",
+    "ipa": "英 /ˈeəbʌs/；美 /ˈerbʌs/",
+    "meaning": "大型客机、空中巴士；Airbus 为专名",
+    "sense": "把飞机看成在空中载很多乘客的公共交通工具，是这个合成词的直观画面。现实阅读大写 Airbus 常是航空制造企业或其飞机的专名。",
+    "split": "air 空中 + bus 巴士，先有大型客机等通称背景；大写专名使用需与普通名词区分。具体品牌名称不按一架真正飞起来的公路巴士理解。",
+    "history": [
+      [
+        "拉丁语 omnibus〔给所有人的〕 → 法语公共车名称 omnibus",
+        "面向众人的公共车辆"
+      ],
+      [
+        "英语 omnibus 缩短 → bus",
+        "公共汽车；交通动词及技术总线等比喻"
+      ],
+      [
+        "air + bus → airbus",
+        "空中载客交通工具；亦用于专名 Airbus"
+      ]
+    ],
+    "explanation": "an airbus 普通名词客机用法较少见，an Airbus aircraft 大写专名常见；a model of an Airbus 某型号空客飞机模型。",
+    "usage": "an Airbus aircraft；an Airbus model；a large airbus。",
+    "contrast": "airbus 通称与 Airbus 专名大小写不同；不是所有客机都可在品牌意义上叫 Airbus。",
+    "examples": [
+      [
+        "The museum displayed an old advertisement for an airbus service.",
+        "博物馆展出了一则旧空中巴士服务广告。"
+      ],
+      [
+        "He built a model of an Airbus aircraft.",
+        "他做了一架空客飞机模型。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/airbus#English"
+    ]
+  },
+  {
+    "word": "wealth",
+    "ipa": "/welθ/",
+    "meaning": "财富；富足；大量、丰富的资源",
+    "sense": "不只看每月流进来多少，还看积累、拥有多少有价值的东西。知识、经验很多，也能叫 a wealth of。",
+    "split": "接中古英语 welthe 等，与 weal 安好、福祉同族。可对照 weal + 旧抽象后缀 -th 认识；更早继承或类推形成有不同分析，不把重建旧形当成确实记录。",
+    "history": [
+      [
+        "古英语 wela〔繁荣、福祉〕等 → 中古英语 wele、welthe",
+        "安好、幸福、富足；-th 性质名词形成或类推有不同分析"
+      ],
+      [
+        "英语 wealth",
+        "财富、富足；大量有用资源"
+      ]
+    ],
+    "explanation": "personal wealth 个人财富，a wealth of experience 丰富经验，create wealth 创造财富。通常不可数，不说几只 wealth。",
+    "usage": "a wealth of information；personal wealth；create wealth。",
+    "contrast": "wealth 财富存量、富足，income 收入流入；一个时期收入高，不自动说明已积累很多财富。a wealth of details 不是给细节标价。",
+    "examples": [
+      [
+        "The library contains a wealth of information about local history.",
+        "图书馆里有丰富的地方史资料。"
+      ],
+      [
+        "She used part of her wealth to support the arts.",
+        "她用一部分财富支持艺术事业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wealth#English"
+    ]
+  },
+  {
+    "word": "wealthy",
+    "ipa": "/ˈwelθi/",
+    "meaning": "富有的、财富充足的",
+    "sense": "说一个人或家庭拥有很多有价值的资源，日常主要指经济富裕。",
+    "split": "wealth + -y，形成具有财富、富足性质的形容词，中古英语已有 welthy 等形式。",
+    "history": [
+      [
+        "古英语 wela〔繁荣、福祉〕等 → 中古英语 wele、welthe",
+        "安好、幸福、富足；-th 性质名词形成或类推有不同分析"
+      ],
+      [
+        "英语 wealth",
+        "财富、富足；大量有用资源"
+      ],
+      [
+        "wealth + -y → wealthy",
+        "拥有丰富财富的、富有的"
+      ]
+    ],
+    "explanation": "a wealthy family 富裕家庭，a wealthy country 富裕国家，the wealthy 富人群体。",
+    "usage": "a wealthy family；a wealthy donor；the wealthy。",
+    "contrast": "wealthy 与 rich 在富有义常接近；rich 还常指味道浓郁、颜色深等，不能都换 wealthy。",
+    "examples": [
+      [
+        "He grew up in a wealthy family.",
+        "他在一个富裕家庭长大。"
+      ],
+      [
+        "The project received help from several wealthy donors.",
+        "项目得到几位富有捐赠者的帮助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wealthy#English"
+    ]
+  }
+]

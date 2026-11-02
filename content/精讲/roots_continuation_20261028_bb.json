@@ -1,0 +1,188 @@
+[
+  {
+    "id": "B3866",
+    "meaning": "恢复完整、健康；愈合、修复",
+    "core": "HEAL：把受损、裂开的恢复好",
+    "image": "伤口合拢是直观画面，关系裂痕修复是常见比喻；别把过程、执行者和健康状态混成一个词。",
+    "intro": "heal 接古英语 hǣlan，同 health、whole 属完好、完整旧词族；不是把今天单词任意删改就算历史。healing、healer 各有对应旧形式。",
+    "forms": "heal → healing、healer；health 已精讲，放健康状态分支。\n\nheal 承古英语 hælan 使完整、康复，现代加 -ed，/l/ 后读 /d/。身体愈合与关系裂痕修复可以放在同一个完整的画面里理解。",
+    "branches": [
+      [
+        "修复动作、过程、作用者",
+        "heal · healing · healer"
+      ],
+      [
+        "相关健康状态",
+        "health"
+      ],
+      [
+        "whole 完整的词族 → heal → healed",
+        "healed"
+      ]
+    ],
+    "contrasts": "heal 与 heel 同音不同词；healing 过程、healer 作用者、health 状态；heal a rift 修复关系，不是医学治疗某个裂口。",
+    "practice": "The story describes healing as a slow process rather than a single dramatic moment.\n\n故事把恢复写成缓慢过程，而不是某个戏剧性瞬间。",
+    "words": [
+      "heal",
+      "healing",
+      "healer",
+      "health",
+      "healed"
+    ],
+    "exclude": {
+      "heal-all": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-heal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "healy-feely": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3004",
+    "meaning": "领会、理解；体谅与情理",
+    "core": "UNDERSTAND：意思进了脑中，处境也能想明白",
+    "image": "听懂内容、体谅人和认为反应情有可原，是从理解展开的三种常用角度。",
+    "intro": "understand 古英语已经表示理解，词中 under- 的早期语义桥梁有争议；不编站在下面所以懂的故事。已有基础、误解词复用，新增三种常见扩展。",
+    "forms": "understand → understanding、understandable → understandably；misunderstand → misunderstanding 另接误解分支。\n\n古英语 understandan 的历史组合清楚，站立到理解的具体语义路线仍有争议。",
+    "branches": [
+      [
+        "领会与体谅",
+        "understand · understanding"
+      ],
+      [
+        "能理解与情有可原",
+        "understandable · understandably"
+      ],
+      [
+        "误解及其结果",
+        "misunderstand · misunderstanding"
+      ],
+      [
+        "understand → understands：把意思弄明白",
+        "understand · understands · understood"
+      ]
+    ],
+    "contrasts": "understanding teacher 体谅人的老师，understandable explanation 能懂的解释；understandably upset 是难过也不奇怪。",
+    "practice": "An understanding teacher knows that mistakes are understandable when a topic is new.\n\n体谅学生的老师知道，新学内容时出错是可以理解的。",
+    "words": [
+      "understand",
+      "understanding",
+      "understandable",
+      "understandably",
+      "misunderstand",
+      "misunderstanding",
+      "understands",
+      "understood"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2713",
+    "meaning": "城市及全市范围、城市画面",
+    "core": "CITY：人们集中生活、工作的城市空间",
+    "image": "城市本体、全市覆盖、城市之间和整幅城市景观，各自对应不同扩展。",
+    "intro": "city 经古法语 cite 上接拉丁 cīvitās，早期兼有公民共同体、城市等背景。基础 city 和 intercity 已精讲，在这里复用；cityscape 的 scape 来自景观构词类推。",
+    "forms": "city → citywide、cityscape；inter- + city → intercity。\n\ncity 经法语接拉丁公民、城市共同体词族；复数只按现代拼写 y 改 ies。",
+    "branches": [
+      [
+        "城市与全市",
+        "city · citywide"
+      ],
+      [
+        "景观和城际联系",
+        "cityscape · intercity"
+      ],
+      [
+        "city → cities：城市的复数",
+        "city · cities"
+      ]
+    ],
+    "contrasts": "citywide 全市、intercity 城际；cityscape 整体城市画面、skyline 天际轮廓。",
+    "practice": "The citywide exhibition showed how the cityscape had changed.\n\n全市展览呈现了城市景观怎样变化。",
+    "words": [
+      "city",
+      "citywide",
+      "cityscape",
+      "intercity",
+      "cities"
+    ],
+    "exclude": {
+      "cross-city": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eco-city": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tri-city": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3001",
+    "meaning": "想法、思虑；事前事后与顾及",
+    "core": "THOUGHT：让事情在脑中走一遍",
+    "image": "可以提前想，也可以事后才补想；想过别人感受是体贴，漏了这一步就是欠考虑。",
+    "intro": "thought 名词接古英语 þōht，与 think 同词族；think 的过去、分词也同形 thought。已有 thoughtful、thoughtless 及部分后续副词名词复用，补足常用时间分支。",
+    "forms": "thought → thoughtful → thoughtfully、thoughtfulness；thought → thoughtless → thoughtlessly、thoughtlessness；forethought / afterthought 相邻对照。",
+    "branches": [
+      [
+        "想法与体贴考虑",
+        "thought · thoughtful · thoughtfully · thoughtfulness"
+      ],
+      [
+        "欠考虑及方式、性质",
+        "thoughtless · thoughtlessly · thoughtlessness"
+      ],
+      [
+        "提前与事后",
+        "forethought · afterthought"
+      ]
+    ],
+    "contrasts": "forethought 预先考虑，不是预言；afterthought 事后补想；thoughtlessly 不直接证明有意伤害。",
+    "practice": "A little forethought can keep an important need from becoming an afterthought.\n\n稍作事先考虑，就能避免把重要需求拖到事后才补想。",
+    "words": [
+      "thought",
+      "thoughtful",
+      "thoughtfully",
+      "thoughtfulness",
+      "thoughtless",
+      "thoughtlessly",
+      "thoughtlessness",
+      "forethought",
+      "afterthought"
+    ],
+    "exclude": {
+      "thought-out": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thought-world": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thought-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2549",
+    "meaning": "关闭、围合；近、紧密",
+    "core": "CLOSE：门可以关，距离可以近；注意 /z/ 和 /s/",
+    "image": "同一页先分关闭动作与近、亲密性质，再看执行者、比较级和抽象名词。",
+    "intro": "close 的关、近等用法与法语、拉丁关闭词族有关；形容词近常读 /s/，动词关读 /z/。closer 两路读音跟着变，foreclose 还包含法语排除与英语旧形式合流。",
+    "forms": "close → closely、closer、closeness；closet、enclose、disclose、foreclose 放围合、开合分支。已有词复用，新补比较级与名词读音、亲密性质及 foreclose。",
+    "branches": [
+      [
+        "关闭与亲近的基本词",
+        "close · closely · closer · closeness"
+      ],
+      [
+        "围合、收纳与打开、排除",
+        "closet · enclose · disclose · foreclose"
+      ]
+    ],
+    "contrasts": "closer look 的 s 清音，door closer 的 z 浊音；closeness 亲密状态，closure 是关闭、了结等，不能混用。",
+    "practice": "A closer look showed that the door closer was broken.\n\n仔细一看，发现闭门器坏了。",
+    "words": [
+      "close",
+      "closely",
+      "closer",
+      "closeness",
+      "closet",
+      "enclose",
+      "disclose",
+      "foreclose"
+    ],
+    "exclude": {
+      "close-mid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "close-knit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "close-grained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "A1828",
+    "meaning": "观察仪器的成分，把看不清、看不见的东西呈现出来",
+    "core": "-SCOPE：帮你观察，前面说明看什么、怎样看",
+    "image": "telescope 看远处，microscope 看微小物，oscilloscope 看变化的电信号。",
+    "intro": "观察不一定是眼睛直接望进去：听诊器把声音传来，示波器把信号画出。先问仪器让哪种信息可被察觉。",
+    "forms": "希腊 skopein 观察 → -skopion → 拉丁化 -scopium → 英语 -scope。",
+    "branches": [
+      [
+        "远近、方向与光学图形",
+        "telescope · microscope · periscope · kaleidoscope"
+      ],
+      [
+        "身体、转动与电信号",
+        "stethoscope · endoscope · gyroscope · oscilloscope"
+      ]
+    ],
+    "contrasts": "带 -scope 的仪器作用各异；不能一律翻成普通放大镜。",
+    "practice": "A microscope reveals tiny structures, while an oscilloscope reveals changing electrical signals.\n\n显微镜显出微小结构，示波器显出变化的电信号。",
+    "words": [
+      "telescope",
+      "microscope",
+      "periscope",
+      "kaleidoscope",
+      "stethoscope",
+      "endoscope",
+      "gyroscope",
+      "oscilloscope"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3039",
+    "meaning": "听觉来源的词族，连接声学研究、场所效果与原声音乐",
+    "core": "ACOUST-：先想声音怎样被听见",
+    "image": "acoustic → acoustics、acoustical → acoustically。",
+    "intro": "声学研究是学科，大厅声音条件是特性，原声演奏是音乐方式。词形相近，先靠名词、形容词、副词和搭配分工。",
+    "forms": "akouo 听 → akoustikos → acousticus → acoustic；-s 学科、特性，-al 形容词扩展，-ally 副词。",
+    "branches": [
+      [
+        "声音性质、学科与方式",
+        "acoustic · acoustics · acoustical · acoustically"
+      ]
+    ],
+    "contrasts": "acoustics 的学科义与场所效果义谓语习惯不同；acoustic guitar 也可通过麦克风扩音。",
+    "practice": "The acoustical engineer checked the hall’s acoustics before the band played acoustically.\n\n乐队作原声演出前，声学工程师检查了大厅的音响效果。",
+    "words": [
+      "acoustic",
+      "acoustics",
+      "acoustical",
+      "acoustically"
+    ],
+    "exclude": {
+      "semi-acoustic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4264",
+    "meaning": "由旧日愚傻、溺爱，转到温柔喜爱与轻抚",
+    "core": "FOND：心里喜欢，眼神、回忆、手势都能带着感情",
+    "image": "fond → fondly、fondness；fondle → fondling。",
+    "intro": "深情回忆是态度，喜爱是感情，爱抚是动作。旧词义提醒演变路径，现代例句则按实际搭配理解。",
+    "forms": "fonnen、fonned → fond；-ly 方式，-ness 情感、性质；-le 动作，fondle 去 e + -ing。",
+    "branches": [
+      [
+        "喜爱及其方式、情感",
+        "fond · fondly · fondness"
+      ],
+      [
+        "轻抚动作及进行形式",
+        "fondle · fondling"
+      ]
+    ],
+    "contrasts": "fondling 的动作义按 fondle + -ing；fond hope 有时仍带天真、不切实际的旧义。",
+    "practice": "Remembering the dog fondly, she recalled its fondness for gentle fondling.\n\n她深情想起那只狗，也想起它多爱被人温柔抚摸。",
+    "words": [
+      "fond",
+      "fondly",
+      "fondness",
+      "fondle",
+      "fondling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2811",
+    "meaning": "突然而急促的动作，与干肉借名分两路",
+    "core": "JERK：猛地一拉，动作就不连贯；肉干另有来源",
+    "image": "jerk → jerky〔动作性质〕；charqui → jerky〔肉干〕。",
+    "intro": "用动作画面记猛拉、顿挫，再把零食袋的肉干单独接回美洲原住民语言。相同拼写不必分享一个故事。",
+    "forms": "jerk 来源未定；jerk + -y → jerky；ch’arki → charqui → jerky 为食物名支线。\n\n动作词更早来源未定，可比较 yerk；讨厌者人物名词的来路有争议，不把它确定说成身体突动直接引申。食物 jerk 另分来源。\n\njerk 动作名词加 -y 的形容词再接副词、性质名词；肉干 jerky 接克丘亚语经西班牙语的另一条来源，不用于解释 jerkily。",
+    "branches": [
+      [
+        "急促动作及性质",
+        "jerk · jerky"
+      ],
+      [
+        "jerk：突然一拉、一顿；人物义另保留疑问",
+        "jerk · jerks · jerked · jerking"
+      ],
+      [
+        "jerky：动作一顿一顿的；肉干另源",
+        "jerk · jerky · jerkily · jerkiness"
+      ]
+    ],
+    "contrasts": "jerky 形容词与肉干名词不同源；a jerk 人物名带贬义。",
+    "practice": "The jerky ride ended with a sudden jerk.\n\n颠顿不稳的行程以猛地一顿结束了。",
+    "words": [
+      "jerk",
+      "jerky",
+      "jerks",
+      "jerked",
+      "jerking",
+      "jerkily",
+      "jerkiness"
+    ],
+    "exclude": {
+      "knee-jerk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jerker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4376",
+    "meaning": "近代缩短的人群词，再到围聚与犯罪集团人物",
+    "core": "MOB：人挤成一团，群体行动与普通人数不同",
+    "image": "mob → mobster；游戏 mob 也有 mobile 缩短的独立背景。",
+    "intro": "人群可能喧闹失控，粉丝也能因蜂拥而上作动词 mob。mobster 特别联系有组织犯罪，不能泛指所有围观者。",
+    "forms": "mobile vulgus → mobile → mob；-ster 人物名；游戏 mob 另接 mobile 活动角色名称。",
+    "branches": [
+      [
+        "人群、行为与犯罪集团成员",
+        "mob · mobster"
+      ]
+    ],
+    "contrasts": "mobster 不是所有人群成员；游戏 mob 不按现代倒造的英文首字母故事解释。",
+    "practice": "The article distinguishes an angry mob from an organised group of mobsters.\n\n文章区分了愤怒人群与有组织犯罪成员组成的集团。",
+    "words": [
+      "mob",
+      "mobster"
+    ],
+    "exclude": {
+      "rent-a-mob": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3645",
+    "meaning": "牙龈与植物胶两条来源，现代词形交叉出现",
+    "core": "GUM：嘴里的牙龈、嚼的胶，名称来自不同历史",
+    "image": "gum → gummy；胶、口香糖支 → gumball、bubblegum；gumshoe 接胶底鞋。",
+    "intro": "牙龈是身体部位，植物胶是材料。gummy 两支都能派生，读笑容、糖果、残渣这些搭配就能知道是哪一路。",
+    "forms": "goma → gum 牙龈；kommi → gummi → gome → gum 胶；-y 双写 m，ball 球。",
+    "branches": [
+      [
+        "两支原词与性质",
+        "gum · gummy"
+      ],
+      [
+        "口香糖、胶底相关复合",
+        "gumball · bubblegum · gumshoe"
+      ]
+    ],
+    "contrasts": "常见 Begum 女性尊称来自波斯语、突厥语头衔，不由胶义派生；另有罕见 be- + gum 动词同形。",
+    "practice": "The gumball machine stood beside shelves of gummy sweets and bubblegum.\n\n球形口香糖售卖机放在货架旁，架上有软糖和泡泡糖。",
+    "words": [
+      "gum",
+      "gummy",
+      "gumball",
+      "bubblegum",
+      "gumshoe"
+    ],
+    "exclude": {
+      "begum": "常见女性尊称接波斯、突厥语头衔；另有罕见 be- + gum 涂胶动词同形，分开看。",
+      "gummer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3860",
+    "meaning": "腕部名称，放在复合词前限定佩戴位置",
+    "core": "WRIST：手表、腕带戴在哪里，就看这个部位",
+    "image": "wrist → wristband、wristwatch。",
+    "intro": "先认手与前臂之间的腕，再把腕带、腕表按部位与物品组合。开头 w 保留在拼写里，不另发音。",
+    "forms": "古英语 wrist → wrist；wrist + band，wrist + watch。\n\n古英语继承，w 不发音，复数尾 sts。\n\nwrist 的 w 不发音；watch 后加复数增加 iz 音节。\n\n手腕、扳转、拧挤共享较远扭转材料；各自继承旧英语形式，不把现代 wrist 当作另外两词的直接母词。\n\nwrinkle 的较早动词材料通常联系古英语 gewrinclod、gewrinclian，名词的具体形成仍有不确定性；不把现代 wring 直接加 le 当唯一历史。\n\nwrest 承古英语 wraestan 与北欧同族词的扭、拧材料，可联系 wrist 的转动关节词族；现代夺取像用力扭拉过来。",
+    "branches": [
+      [
+        "身体部位及所戴物品",
+        "wrist · wristband · wristwatch"
+      ],
+      [
+        "wrist → wrists：手腕、转动处",
+        "wrist · wrists"
+      ],
+      [
+        "wrist 的两种佩戴物：腕带、手表及复数",
+        "wrist · wristband · wristbands · wristwatch · wristwatches"
+      ],
+      [
+        "日耳曼扭转词族的近亲：wrist、wrench、wring",
+        "wrist · wrench · wrenches · wring · wrung · wringing"
+      ],
+      [
+        "扭转同族的褶皱、猛扯与 wringer 惯用语",
+        "wrist · wring · wringer · wrench · wrenched · wrenching · wrinkle · wrinkles · wrinkled · wrinkling"
+      ],
+      [
+        "wrest、wrist 的扭转材料",
+        "wrist · wrest · wrests · wrested · wresting"
+      ]
+    ],
+    "contrasts": "a slap on the wrist 通常比喻轻微处罚；wrist 开头 w 不发音。",
+    "practice": "The wristband sat just above her wristwatch.\n\n腕带戴在腕表上方一点。",
+    "words": [
+      "wrist",
+      "wristband",
+      "wristwatch",
+      "wrists",
+      "wristbands",
+      "wristwatches",
+      "wrench",
+      "wrenches",
+      "wring",
+      "wrung",
+      "wringing",
+      "wringer",
+      "wrenched",
+      "wrenching",
+      "wrinkle",
+      "wrinkles",
+      "wrinkled",
+      "wrinkling",
+      "wrest",
+      "wrests",
+      "wrested",
+      "wresting"
+    ],
+    "exclude": {
+      "limp-wrist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

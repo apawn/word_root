@@ -1,0 +1,290 @@
+[
+  {
+    "word": "pipe",
+    "ipa": "/paɪp/",
+    "meaning": "管子、管道；管乐器；烟斗；用管输送、吹奏",
+    "sense": "一根中间空的管，气、水能从里面过；拿来吹可以发声，拿来输送就变管道。烟斗也接管状器物这一家。",
+    "split": "古英语 pīpe 已有乐器、通道义，和拉丁 pīpa、pipāre 鸣叫等拟声材料相关，借入、影响路线较早。现代 pipe 不是 pi + pe。",
+    "history": [
+      [
+        "古英语 pīpe → 中古英语 pipe",
+        "管状吹奏乐器、管道；与拉丁拟声词材料有关"
+      ],
+      [
+        "英语 pipe",
+        "中空管；吹奏、通过管路输送等动作"
+      ]
+    ],
+    "explanation": "a water pipe 水管，organ pipes 管风琴音管，pipe water into a building 把水经管道引入，pipe up 突然开口说话。",
+    "usage": "a water pipe；organ pipes；pipe water into；pipe up。",
+    "contrast": "pipe 常是输送或发声用的管，tube 更泛指中空管状物；实际器材命名有重叠，不用材质硬分绝对界线。",
+    "examples": [
+      [
+        "A water pipe burst beneath the road.",
+        "路下一根水管爆裂了。"
+      ],
+      [
+        "A child at the back suddenly piped up with a question.",
+        "后排一个孩子突然开口问了个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pipe#English"
+    ]
+  },
+  {
+    "word": "pipeline",
+    "ipa": "/ˈpaɪplaɪn/",
+    "meaning": "输送管线；处理流程；筹备中的项目渠道",
+    "sense": "把一段段管接成一条长路，东西沿它流动；信息、任务也能像这样逐步进入下一环。",
+    "split": "pipe 管道 + line 线路，先是管线，再借给信息处理、项目准备等连续流程。现代计算中的每一阶段不一定真有管子。",
+    "history": [
+      [
+        "古英语 pīpe → 中古英语 pipe",
+        "管状吹奏乐器、管道；与拉丁拟声词材料有关"
+      ],
+      [
+        "英语 pipe",
+        "中空管；吹奏、通过管路输送等动作"
+      ],
+      [
+        "pipe + line → pipeline",
+        "相连的管线 → 连续传送、处理的流程"
+      ]
+    ],
+    "explanation": "an oil pipeline 输油管道，a data pipeline 数据处理流程，in the pipeline 正在筹备、进行中；不保证所有筹备项目最后都会发布。",
+    "usage": "an oil pipeline；a data pipeline；in the pipeline。",
+    "contrast": "pipeline 是连贯输送或分阶段处理的路，deadline 是截止时间；in the pipeline 不是已经完成。",
+    "examples": [
+      [
+        "The pipeline carries water to the coast.",
+        "这条管线把水输送到沿海。"
+      ],
+      [
+        "Several new products are in the pipeline.",
+        "有几款新产品正在筹备中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pipeline#English"
+    ]
+  },
+  {
+    "word": "piper",
+    "ipa": "英 /ˈpaɪpə/；美 /ˈpaɪpər/",
+    "meaning": "吹笛、吹管乐器的人；风笛手",
+    "sense": "pipe 在这里选吹奏乐器那一支，-er 接人：拿着笛或风笛吹的人。",
+    "split": "pipe 去末尾 e + -er，中古英语已有 piper。不是安装水管的工人，那常叫 plumber。",
+    "history": [
+      [
+        "古英语 pīpe → 中古英语 pipe",
+        "管状吹奏乐器、管道；与拉丁拟声词材料有关"
+      ],
+      [
+        "英语 pipe",
+        "中空管；吹奏、通过管路输送等动作"
+      ],
+      [
+        "pipe 乐器、吹奏 + -er → piper",
+        "吹管乐器或风笛的人"
+      ]
+    ],
+    "explanation": "a Scottish piper 苏格兰风笛手，a lone piper 一位独奏风笛手；pay the piper 可比喻承担代价。",
+    "usage": "a Scottish piper；a lone piper；pay the piper。",
+    "contrast": "piper 音乐表演者，plumber 管道工；同一个 pipe 有两支义，人物词按习惯选，不是所有做管道工作的人都 piper。",
+    "examples": [
+      [
+        "A lone piper played outside the hall.",
+        "一位风笛手在大厅外独奏。"
+      ],
+      [
+        "The piper led the procession through the town.",
+        "风笛手领着队伍穿过小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/piper#English"
+    ]
+  },
+  {
+    "word": "drainpipe",
+    "ipa": "/ˈdreɪnpaɪp/",
+    "meaning": "排水管、落水管",
+    "sense": "把屋顶、地面等积水引走的管；drain 先告诉你它的任务是排水。",
+    "split": "drain 排走液体 + pipe 管。英式常可指外墙把屋顶水槽的雨水往下带的管，范围也可更一般。",
+    "history": [
+      [
+        "古英语 pīpe → 中古英语 pipe",
+        "管状吹奏乐器、管道；与拉丁拟声词材料有关"
+      ],
+      [
+        "英语 pipe",
+        "中空管；吹奏、通过管路输送等动作"
+      ],
+      [
+        "drain + pipe → drainpipe",
+        "排出雨水等液体的管道"
+      ]
+    ],
+    "explanation": "a blocked drainpipe 堵住的排水管，a leaking drainpipe 漏水的落水管；drainpipe trousers 借管子形状说窄直裤腿。",
+    "usage": "a blocked drainpipe；a leaking drainpipe；drainpipe trousers。",
+    "contrast": "drainpipe 排水，water supply pipe 供水；pipe 都是管，前半段告诉你水往哪类用途去。",
+    "examples": [
+      [
+        "Leaves had blocked the drainpipe.",
+        "树叶堵住了排水管。"
+      ],
+      [
+        "Rainwater ran down the drainpipe beside the window.",
+        "雨水沿窗边的落水管流下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drainpipe#English"
+    ]
+  },
+  {
+    "word": "stovepipe",
+    "ipa": "英 /ˈstəʊvpaɪp/；美 /ˈstoʊvpaɪp/",
+    "meaning": "炉烟管；信息各自封闭的渠道〔比喻〕",
+    "sense": "一根烟管直直向上，烟只在自己的管里走；组织中的信息若也只在一条竖道里流、不横向共享，就有 stovepipe 的比喻。",
+    "split": "stove 炉子 + pipe 管，先指炉烟管；直筒形状还能修饰帽子，隔离通道画面又扩展到组织信息。",
+    "history": [
+      [
+        "古英语 pīpe → 中古英语 pipe",
+        "管状吹奏乐器、管道；与拉丁拟声词材料有关"
+      ],
+      [
+        "英语 pipe",
+        "中空管；吹奏、通过管路输送等动作"
+      ],
+      [
+        "stove + pipe → stovepipe",
+        "炉子的烟管"
+      ],
+      [
+        "形状、通道比喻",
+        "直筒帽；封闭分隔的信息渠道"
+      ]
+    ],
+    "explanation": "a metal stovepipe 金属炉烟管，a stovepipe hat 高筒礼帽，stovepiped information 被分隔、不共享的信息。",
+    "usage": "a metal stovepipe；a stovepipe hat；stovepiped information。",
+    "contrast": "pipeline 常强调连续传送、阶段相接；stovepipe 的组织比喻常批评各走各路，缺少横向联系。",
+    "examples": [
+      [
+        "Smoke rose through the metal stovepipe.",
+        "烟沿金属炉烟管升起。"
+      ],
+      [
+        "The report criticizes the stovepiping of information between departments.",
+        "报告批评部门之间信息各自封闭、不相互共享。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stovepipe#English"
+    ]
+  },
+  {
+    "word": "raw",
+    "ipa": "英 /rɔː/；美 /rɔː/，部分美式 /rɑː/",
+    "meaning": "生的、未加工的；未经训练的；磨痛的、情绪刺痛的",
+    "sense": "食物还没煮、材料还没加工；再把没经过处理搬到数据、新手、刚发生的伤痛上。皮肤被磨得失去保护，也会觉得 raw。",
+    "split": "接古英语 hrēaw，开头旧辅音后来简化；与 crude 等词有更远同源关系。现代 raw 不拆成 r + aw。",
+    "history": [
+      [
+        "古英语 hrēaw → 中古英语 raw → raw",
+        "生的、未煮熟的"
+      ],
+      [
+        "英语扩展",
+        "未加工、未经训练；皮肤磨破、情绪未平复"
+      ]
+    ],
+    "explanation": "raw vegetables 生蔬菜，raw materials 原材料，raw data 原始数据，a raw recruit 新兵，raw emotion 未加掩饰或尚未平复的情绪。",
+    "usage": "raw materials；raw data；raw talent；raw emotion。",
+    "contrast": "raw data 是尚未充分处理的数据，不等于假数据；raw talent 是尚待训练的天赋，不是没有能力。",
+    "examples": [
+      [
+        "The report includes both raw data and a summary.",
+        "报告同时包含原始数据和摘要。"
+      ],
+      [
+        "His voice was raw after hours of shouting.",
+        "喊了几个小时后，他的嗓音嘶哑发涩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raw#English"
+    ]
+  },
+  {
+    "word": "rawness",
+    "ipa": "英 /ˈrɔːnəs/；美 /ˈrɔːnəs/",
+    "meaning": "生、未经加工的状态；粗粝感；刺痛、情绪未平复的状态",
+    "sense": "不把表面磨光、不把感情修饰平顺，保留刚出来的棱角和刺痛感；评论表演时也可能正是欣赏这种真实劲。",
+    "split": "raw + -ness，形成状态、性质名词。具体是材料未处理还是情绪直露，要跟着修饰对象读。",
+    "history": [
+      [
+        "古英语 hrēaw → 中古英语 raw → raw",
+        "生的、未煮熟的"
+      ],
+      [
+        "英语扩展",
+        "未加工、未经训练；皮肤磨破、情绪未平复"
+      ],
+      [
+        "raw + -ness → rawness",
+        "生、未经处理、刺痛或直接袒露的性质"
+      ]
+    ],
+    "explanation": "the rawness of his voice 嗓音的嘶哑粗粝，emotional rawness 情绪尚敏感、未平复，the rawness of the performance 表演的原生、粗粝感。",
+    "usage": "emotional rawness；the rawness of the voice；the rawness of the performance。",
+    "contrast": "rawness 可以是未打磨，也可有直接、真切的艺术评价；不是所有场合都译成缺点、粗制滥造。",
+    "examples": [
+      [
+        "The rawness of her voice suited the song.",
+        "她嗓音里的粗粝感很适合这首歌。"
+      ],
+      [
+        "The memoir preserves the emotional rawness of that year.",
+        "回忆录保留了那一年感情仍未平复的刺痛感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rawness#English"
+    ]
+  },
+  {
+    "word": "offline",
+    "ipa": "英 /ˌɒfˈlaɪn/；美 /ˌɔːfˈlaɪn/",
+    "meaning": "离线的、离线地；线下的；会后另谈的",
+    "sense": "原来接在一条线上，现在从线上脱开；电脑不联网，活动不在网上，会议里暂不公开展开的讨论，都能用不同层面的 offline。",
+    "split": "off- 脱开、不在 + line 线路。通信、计算中的离线后来扩展到实体活动；会议口语又借它说另找时间或小范围谈。",
+    "history": [
+      [
+        "off + line → offline",
+        "不接线路、不在网络上"
+      ],
+      [
+        "英语延伸",
+        "实体线下；把讨论移出当前会议"
+      ]
+    ],
+    "explanation": "work offline 离线工作，an offline event 线下活动，take it offline 会后另谈。最后一句在开会时未必真要断网。",
+    "usage": "work offline；an offline event；take the discussion offline。",
+    "contrast": "offline 可表示离线状态，也可指线下场景；offline map 离线地图仍可能显示在屏幕上，不一定是纸质。",
+    "examples": [
+      [
+        "Download the map so you can use it offline.",
+        "把地图下载下来，就能离线使用。"
+      ],
+      [
+        "Let’s take this discussion offline after the meeting.",
+        "这个话题我们会后另谈吧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offline#English"
+    ]
+  }
+]

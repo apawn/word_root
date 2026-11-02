@@ -1,0 +1,106 @@
+[
+  {
+    "id": "B3279",
+    "meaning": "向外送出、正式开始与重新启动",
+    "core": "LAUNCH：从准备状态送出去，让一项活动真正开始",
+    "image": "launch → launcher；relaunch 再次推出。基础词另辨船名的葡萄牙语、马来语背景。",
+    "intro": "发射、下水、产品发布有送出开始的画面；汽艇名称不是任何船能 launch 就都自动叫 launch。",
+    "forms": "lancea、lanceāre 经法语 → 动词 launch；launch + -er；re- + launch；船名另经 lancha 等。\n\n这里是投掷、向前送出的动词词族；船只名称 launch 另有借词路线。\n\n动词法语投掷词族与小船名的另一借词路径分开，现代 ing 指动作过程。\n\nlance 名词、动词经法语接拉丁 lancea、lanceare；更早源头有伊比利亚、凯尔特等解释未定。\n\n投矛、投出词族的动词支；小船同形词另源。",
+    "branches": [
+      [
+        "动作、工具与再次启动",
+        "launch · launcher · relaunch"
+      ],
+      [
+        "launch → launched：投出、下水与推出",
+        "launch · launched"
+      ],
+      [
+        "launch → launching：投出、下水到开始推出",
+        "launch · launching"
+      ],
+      [
+        "投出、长矛的拉丁法语词族：launch 与 lance",
+        "launch · lance · lances"
+      ],
+      [
+        "launch → launches：向前送出到启动",
+        "launch · launches"
+      ]
+    ],
+    "contrasts": "launch/release 发射推出与释放发行；launcher 工具；relaunch/restart 正式重推与重新开动；船名另源。",
+    "practice": "The new launcher was introduced at the product relaunch.\n\n新启动器在产品重新发布时推出。",
+    "words": [
+      "launch",
+      "launcher",
+      "relaunch",
+      "launched",
+      "launching",
+      "lance",
+      "lances",
+      "launches"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4181",
+    "meaning": "转一圈与社会、技术的重大翻转",
+    "core": "REVOLUTION：滚回、转一周，后来也说旧格局被彻底改变",
+    "image": "revolution → revolutionary、revolutionize，分变化、性质人物、使发生巨变。",
+    "intro": "机械转数不谈政治，革命性设计也不一定政治革命。revolutionise 是同词英式拼写，不为尾字母再拆新词族。",
+    "forms": "re- + volvere → revolvere → revolūtiō，经法语等 → revolution；revolution + -ary/-ize。\n\nrev 先缩略 revolution 一转、转数相关名词，再形成提高引擎转速的动词；不是现代 re- 再次加 v。短元音单音节词尾 v 接 -ed、-ing 时双写。",
+    "branches": [
+      [
+        "循环、巨变与派生",
+        "revolution · revolutionary · revolutionize"
+      ],
+      [
+        "revolution → rev → revved、revving：转动到提高转速",
+        "rev · revs · revved · revving"
+      ]
+    ],
+    "contrasts": "revolution/evolution/revolt 不同；revolutionary 非 reactionary；revolutionize 比 improve 强，但宣传语不等于实证。",
+    "practice": "The technological revolution introduced revolutionary methods.\n\n技术变革带来了突破性方法。",
+    "words": [
+      "revolution",
+      "revolutionary",
+      "revolutionize",
+      "rev",
+      "revs",
+      "revved",
+      "revving"
+    ],
+    "exclude": {
+      "revolutionise": "revolutionize 的常见英式拼写，词义、构词与主体相同，已在同条说明。"
+    }
+  },
+  {
+    "id": "B2907",
+    "meaning": "内部进行与把外在内容变成内在认识",
+    "core": "INTERNAL：边界里面；学习时也可说规则进入习惯",
+    "image": "internal → internally；internalize → internalization，动作与过程相邻。",
+    "intro": "公司内部、身体内部、内心是不同范围，语义核心都向里。内化不等于仅背会文字，也不保证外界批评一定正确。",
+    "forms": "internus、internālis → internal；internal + -ly/-ize/-ization。",
+    "branches": [
+      [
+        "内部性质与方式",
+        "internal · internally"
+      ],
+      [
+        "内化动作与过程",
+        "internalize · internalization"
+      ]
+    ],
+    "contrasts": "internally/internationally 内部与国际；internalize/memorize 内化与记忆；internalization 非物理吞入。",
+    "practice": "Practice helped the students internalize the rules.\n\n练习帮助学生把规则变成内在习惯。",
+    "words": [
+      "internal",
+      "internally",
+      "internalize",
+      "internalization"
+    ],
+    "exclude": {
+      "antero-internal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

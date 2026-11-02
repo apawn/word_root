@@ -1,0 +1,706 @@
+[
+  {
+    "word": "outta",
+    "ipa": "英 /ˈaʊtə/；美 /ˈaʊtə/，口语 t 常闪音",
+    "meaning": "从……出来；离开；用完〔out of 的随意写法〕",
+    "sense": "get outta here 是从这里出去；outta milk 是牛奶用完了。把 out of 快速连读后写成 outta，完整搭配的意思仍要保留。",
+    "split": "out of 在快速随意说话中弱化、连读 → outta。后半部分记录弱化的 of，不是另加一个有固定意义的英语 -ta 后缀。",
+    "history": [
+      [
+        "短语 out of：从里面到外面、离开等",
+        "与 out 的向外图景相接，完整短语也有用完等义"
+      ],
+      [
+        "快速连读 out of → outta",
+        "现代非正式写法记录语音，不改变各搭配的基本意思"
+      ]
+    ],
+    "explanation": "get outta here 是出去；outta time 是没时间了；outta milk 是牛奶用完。正式书写通常用完整 out of。",
+    "usage": "get outta here；outta time；outta milk。",
+    "contrast": "不能把所有 outta 都只译成出去：outta time、outta milk 说可用资源耗尽，还是要按整个短语理解。",
+    "examples": [
+      [
+        "We are outta milk, so I will have tea instead.",
+        "我们牛奶用完了，所以我改喝茶。"
+      ],
+      [
+        "I need to get outta this room for a minute.",
+        "我得离开这个房间一会儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outta#English",
+      "https://www.merriam-webster.com/dictionary/outta"
+    ]
+  },
+  {
+    "word": "anyways",
+    "ipa": "英 /ˈeniweɪz/；美 /ˈɛniweɪz/",
+    "meaning": "不管怎样；反正；话说回来〔随意说法〕",
+    "sense": "说了一段岔开的话，Anyways... 可以把话题拉回来；讲完困难再说 I went anyways，是“反正我还是去了”。",
+    "split": "有 any way、any ways 以任何方式的旧结构背景；末尾 -s 接历史副词属格材料，和 anyway 属同组现代用法。不是在数几个 anyway。",
+    "history": [
+      [
+        "any + way：任何方式的旧副词表达",
+        "原是分写的短语，有 any ways 等形式"
+      ],
+      [
+        "历史副词 -s → anyways",
+        "现代常用于不管怎样、转回话题，语体偏随意"
+      ]
+    ],
+    "explanation": "Anyways, what happened next? 是话说回来，后来怎样；do it anyways 是反正还是做。",
+    "usage": "Anyways, back to the plan.；do it anyways；go anyways。",
+    "contrast": "anyways 在一些随意口语、地区用法中自然；正式书写通常选 anyway。末尾 s 不是普通名词复数。",
+    "examples": [
+      [
+        "Anyways, what happened after the meeting?",
+        "话说回来，会议之后发生了什么？"
+      ],
+      [
+        "It was raining, but we went for a walk anyways.",
+        "当时在下雨，但我们还是去散步了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anyways#English",
+      "https://www.etymonline.com/word/anyways"
+    ]
+  },
+  {
+    "word": "awhile",
+    "ipa": "英 /əˈwaɪl/；美 /əˈwaɪl/",
+    "meaning": "一会儿〔副词〕",
+    "sense": "Stay awhile 是“待一会儿”。一个词已经把持续一小段时间的意思包进去，直接放在动作后。",
+    "split": "较早接古英语 ane hwile 一段时间的结构，合并发展为副词 awhile。现代也可从 a + while 的表面联系理解，但两种写法句法用途不同。",
+    "history": [
+      [
+        "古英语 ane hwile 一段时间 → 较早英语合写形式",
+        "时间短语凝结为副词"
+      ],
+      [
+        "awhile → 现代持续一会儿的用法",
+        "a while 仍可作独立名词短语"
+      ]
+    ],
+    "explanation": "wait awhile 是等一会儿；rest awhile 是休息一会儿。介词 for 后入门先用分写 for a while。",
+    "usage": "wait awhile；rest awhile；stay awhile。",
+    "contrast": "awhile 是副词，a while 是名词短语。通常写 wait awhile 或 wait for a while，不把两个结构机械叠在一起。",
+    "examples": [
+      [
+        "We sat awhile before starting the walk.",
+        "开始散步前，我们坐了一会儿。"
+      ],
+      [
+        "Stay awhile and have some tea.",
+        "待一会儿，喝点茶吧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awhile#English",
+      "https://www.etymonline.com/word/awhile"
+    ]
+  },
+  {
+    "word": "blah",
+    "ipa": "英 /blɑː/；美 /blɑː/、/blæ/",
+    "meaning": "无聊的空话；乏味的；提不起劲的",
+    "sense": "听见一长串没重点的话，可以用 blah 模仿那种“吧啦吧啦”的空洞感；说 the room looks blah，又是在说房间平淡、没意思。",
+    "split": "常作模仿无意义说话声的拟声词分析，后来又作形容词说平淡、乏味。更远联系其他语言的说法有不确定处。",
+    "history": [
+      [
+        "模仿无意义说话声 → blah 空话",
+        "用声音表达听起来没有重点的言语"
+      ],
+      [
+        "空洞、单调的感觉 → blah 乏味、提不起劲",
+        "从话语评价转为更宽的状态、外观评价"
+      ]
+    ],
+    "explanation": "blah blah blah 可替代省略的一串空话；a blah colour 是没精神的颜色；feel blah 是感觉提不起劲。",
+    "usage": "blah blah blah；a blah colour；feel blah。",
+    "contrast": "这是很随意的评价，语气可能显得不耐烦；不需要把每个重复 blah 都逐字翻成一个独立事实。",
+    "examples": [
+      [
+        "The room looked rather blah before we added the pictures.",
+        "挂上那些画之前，房间看起来挺单调。"
+      ],
+      [
+        "He kept saying blah, blah, blah instead of explaining the problem.",
+        "他不停地说些空话，却没有解释问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blah#English",
+      "https://www.etymonline.com/word/blah"
+    ]
+  },
+  {
+    "word": "judgement",
+    "ipa": "英、美 /ˈdʒʌdʒmənt/",
+    "meaning": "判断；判断力；判决〔judgment 的另一拼写〕",
+    "sense": "看到信息后下一个判断，是 a judgement；能不能判断得稳，是 judgement 这种能力；法院的正式决定也可用这个词。",
+    "split": "经古法语 jugement 接 jugier 判断，远接拉丁 iudicare、iudex，含 ius 法律、权利与说、宣判的材料。现代可用 judge + -ment 认名词关系，judgement 保留 e。",
+    "history": [
+      [
+        "拉丁法律、说的材料 → iudex、iudicare",
+        "判断、正式裁定的历史词线"
+      ],
+      [
+        "古法语 jugement → 英语 judgment、judgement",
+        "形成判断、判断力、判决等名词用法"
+      ]
+    ],
+    "explanation": "good judgement 是良好的判断力；make a judgement 是作判断；reserve judgement 是暂不下结论。",
+    "usage": "good judgement；make a judgement；reserve judgement。",
+    "contrast": "judgement 与 judgment 不是两种完全不同的判断；拼写分布随地区、领域有习惯差别，具体机构文件可沿用其写法。",
+    "examples": [
+      [
+        "She showed good judgement under pressure.",
+        "她在压力下表现出了良好的判断力。"
+      ],
+      [
+        "I will reserve judgement until I have read the full report.",
+        "读完完整报告前，我先不下结论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/judgement#English",
+      "https://www.etymonline.com/word/judgment"
+    ]
+  },
+  {
+    "word": "mistress",
+    "ipa": "英 /ˈmɪstrəs/；美 /ˈmɪstrəs/",
+    "meaning": "女主人〔旧用法等〕；精通者〔女性〕；情妇，婚外女性伴侣",
+    "sense": "旧故事里 mistress of the house 是女主人；mistress of her craft 说技艺精湛；某人的 mistress 在婚外关系语境里又是情妇。必须看完整搭配。",
+    "split": "经古法语 maistresse，maistre 主人、老师的阴性形式，含 -esse 后缀材料，远接拉丁 magister 负责人、老师。与 master 同族，现代英语词形已发生缩合、改音。",
+    "history": [
+      [
+        "拉丁 magister → 古法语 maistre、阴性 maistresse",
+        "负责人、老师等人物名的性别构词"
+      ],
+      [
+        "maistresse → 英语 mistress",
+        "女主人、教师、精通者等多种旧人物义"
+      ],
+      [
+        "英语特定关系用法 → 情妇等现代常见义",
+        "不由现代某一个义项反推全部词史"
+      ]
+    ],
+    "explanation": "mistress of the house 是女主人；mistress of her craft 是技艺精湛的女性；his mistress 在相应情节里可指其婚外伴侣。",
+    "usage": "mistress of the house；mistress of her craft；his mistress。",
+    "contrast": "master 与 mistress 有同族背景，现代范围却不一一对称；职业场景不能把所有女性 master 机械改成 mistress。",
+    "examples": [
+      [
+        "In the novel, the mistress of the house greeted the visitors.",
+        "小说里，女主人迎接了来客。"
+      ],
+      [
+        "She is a mistress of her craft.",
+        "她在自己的技艺领域造诣精湛。"
+      ],
+      [
+        "The novel reveals that he had a mistress.",
+        "小说揭示他有一位婚外女性伴侣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mistress#English",
+      "https://www.etymonline.com/word/mistress"
+    ]
+  },
+  {
+    "word": "mercury",
+    "ipa": "英 /ˈmɜːkjəri/；美 /ˈmɜːrkjəri/",
+    "meaning": "汞，水银；温度计读数、气温〔借代〕",
+    "sense": "常温下呈银白色液态的金属叫 mercury。旧温度计用汞柱显示温度，所以新闻里 the mercury fell 还可以是在说气温降了。",
+    "split": "金属名接中世纪拉丁 mercurius，联系 Mercury 行星、神名的炼金术命名背景；温度用法则来自汞在旧温度计里的用途。神名更远来源有商品、交易词族等不同分析。",
+    "history": [
+      [
+        "Mercury 名称 → 中世纪拉丁 mercurius 金属名",
+        "旧天体、金属相配的命名传统，具体联想常联系流动性"
+      ],
+      [
+        "英语 mercury → 汞；汞柱 → 温度读数的借代",
+        "从物质名称转指旧仪器显示的气温"
+      ]
+    ],
+    "explanation": "liquid mercury 是液态汞；a mercury thermometer 是汞温度计；the mercury fell 是气温下降，不是每次都在说一滴金属掉下去。",
+    "usage": "liquid mercury；a mercury thermometer；the mercury fell。",
+    "contrast": "元素名 mercury 通常小写；行星或神名 Mercury 通常大写。符号 Hg 接另一条希腊水、银名称材料，不是 mercury 的首字母。",
+    "examples": [
+      [
+        "The textbook describes mercury as a liquid metal at room temperature.",
+        "教材将汞描述为常温下呈液态的金属。"
+      ],
+      [
+        "By evening, the mercury had fallen below zero.",
+        "到傍晚，气温已降到零度以下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mercury#English",
+      "https://www.etymonline.com/word/Mercury"
+    ]
+  },
+  {
+    "word": "containers",
+    "ipa": "英 /kənˈteɪnəz/；美 /kənˈteɪnɚz/",
+    "meaning": "容器；集装箱〔复数〕",
+    "sense": "能把东西装住的盒、罐等是 containers；运输场景里又常专指大集装箱。大小不同，核心都是装住、保持在里面。",
+    "split": "contain + -er → container 容器，再加 -s → containers。contain 接拉丁 con- 一起 + tenere 保持的材料，经法语进入英语。",
+    "history": [
+      [
+        "拉丁 con- + tenere → continere → 法语、英语 contain",
+        "把东西保持在一起、范围内"
+      ],
+      [
+        "contain + -er → container → containers",
+        "-er 构物品名，再加复数 -s，词尾 /z/"
+      ]
+    ],
+    "explanation": "food containers 是食物容器；shipping containers 是货运集装箱；airtight containers 是密闭容器。",
+    "usage": "food containers；shipping containers；airtight containers。",
+    "contrast": "container 不只指集装箱；先看 food、shipping 等搭配，才能判断眼前是在说厨房里的盒子还是港口大箱子。",
+    "examples": [
+      [
+        "We put the leftovers in separate containers.",
+        "我们把剩菜分装进不同容器。"
+      ],
+      [
+        "The ship was loaded with shipping containers.",
+        "船上装满了货运集装箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/containers#English",
+      "https://www.etymonline.com/word/contain"
+    ]
+  },
+  {
+    "word": "crosses",
+    "ipa": "英 /ˈkrɒsɪz/；美 /ˈkrɔːsɪz/、/ˈkrɑːsɪz/",
+    "meaning": "十字架、十字记号等〔复数〕；横过，交叉，越过〔第三人称〕",
+    "sense": "纸上几个 × 或十字形，是 crosses；a path crosses a road 则是一条小路横过道路。先有交叉、横过的画面，再看是物还是动作。",
+    "split": "cross + -es → crosses，基础词末尾 /s/ 后加 /ɪz/。cross 远接拉丁 crux 十字架，经爱尔兰、北欧等传播线进入英语，后有十字形、交叉等用法。",
+    "history": [
+      [
+        "拉丁 crux → 爱尔兰语、北欧语等 → 英语 cross",
+        "早有十字架名，随后扩展十字形及相交动作"
+      ],
+      [
+        "cross + -es → crosses",
+        "名词复数、动词第三人称同形，多一个 /ɪz/ 音节"
+      ]
+    ],
+    "explanation": "draw crosses 是画十字记号；crosses the road 是横过马路；crosses a boundary 是越过界线。",
+    "usage": "draw crosses；crosses the road；crosses a boundary。",
+    "contrast": "crosses 是名词或动词形式；cross 生气的形容词不能因为前面有单数主语，就照样加 s。",
+    "examples": [
+      [
+        "She marked the wrong answers with crosses.",
+        "她用叉号标出了错题。"
+      ],
+      [
+        "The path crosses the road near the bridge.",
+        "这条小路在桥附近横过公路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crosses#English",
+      "https://www.etymonline.com/word/cross"
+    ]
+  },
+  {
+    "word": "curves",
+    "ipa": "英 /kɜːvz/；美 /kɜːrvz/",
+    "meaning": "曲线，弧线；弯道；身材曲线〔复数〕；弯曲〔第三人称〕",
+    "sense": "一根线弯过去形成 curve，几条就是 curves；道路往湖边弯过去，句子里也能说 the road curves。核心都是平顺地转弯、弯曲。",
+    "split": "curve 接拉丁 curvus 弯的、curvare 使弯曲。curve + -s → curves，保留末尾 e，/v/ 后读 /z/，词尾 /vz/。",
+    "history": [
+      [
+        "拉丁 curvus、curvare → 英语 curve",
+        "弯曲动作与曲线名称"
+      ],
+      [
+        "curve + -s → curves",
+        "名词复数、动词第三人称，词尾 /vz/"
+      ]
+    ],
+    "explanation": "smooth curves 是平滑曲线；sharp curves 是急弯；curves around the lake 是绕湖弯过去。形容人的 curves 时可说身材曲线。",
+    "usage": "smooth curves；sharp curves；curves around the lake。",
+    "contrast": "curves 强调弯曲形状、走向；corners 通常强调角、拐角。图线平顺弯过去和突然形成一个角，不是同一种形状。",
+    "examples": [
+      [
+        "The drawing uses smooth curves instead of straight lines.",
+        "这幅图用平滑曲线代替直线。"
+      ],
+      [
+        "The road curves around the lake.",
+        "公路绕着湖弯过去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curves#English",
+      "https://www.etymonline.com/word/curve"
+    ]
+  },
+  {
+    "word": "defines",
+    "ipa": "英、美 /dɪˈfaɪnz/",
+    "meaning": "定义；界定；决定其特点〔第三人称〕",
+    "sense": "把一个词、一份工作、一个范围的边界说清楚，就是 define。某个特点 defines a place，则是这个特点让地方显得独特。",
+    "split": "define + -s → defines，保留末尾 e，/n/ 后读 /z/。define 接拉丁 de- 加强 + finire 划界，远有 finis 边界、终点。",
+    "history": [
+      [
+        "拉丁 finis 边界 → finire 划界 → definire",
+        "加强划定范围、说清含义"
+      ],
+      [
+        "法语、拉丁材料 → 英语 define → defines",
+        "现代动词第三人称，词尾 /nz/"
+      ]
+    ],
+    "explanation": "defines the term 是给术语下定义；defines the role 是界定角色；defines the character of the place 是决定那地方的特点。",
+    "usage": "defines the term；defines the role；defines the limits。",
+    "contrast": "define 的界定不一定是字典里写释义，也能说划清职责、范围，或指出让某物成为它的关键特点。",
+    "examples": [
+      [
+        "The first paragraph defines the main term.",
+        "第一段给主要术语下了定义。"
+      ],
+      [
+        "The river defines the western edge of the town.",
+        "这条河界定了镇子的西侧边界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/defines#English",
+      "https://www.etymonline.com/word/define"
+    ]
+  },
+  {
+    "word": "delivers",
+    "ipa": "英 /dɪˈlɪvəz/；美 /dɪˈlɪvɚz/",
+    "meaning": "送达，交付；发表；实现；接生等〔第三人称〕",
+    "sense": "把包裹交到人手里、把演讲讲给听众、把承诺变成实际结果，都能用 delivers。现代先抓“把应到的东西交到目标那里”的画面。",
+    "split": "deliver + -s → delivers，词尾 /z/。deliver 经法语 delivrer 接拉丁 de- 离开 + liberare 使自由；较早释放、救出的词线在法语等阶段又有交付等义。",
+    "history": [
+      [
+        "拉丁 liber 自由 → liberare → 较晚 deliberare",
+        "较早有使自由、释放的材料"
+      ],
+      [
+        "古法语 delivrer → 英语 deliver",
+        "已有释放、交付、接生等用法，后续现代搭配分别发展"
+      ],
+      [
+        "deliver + -s → delivers",
+        "单数主语后的动词形式，词尾 /z/"
+      ]
+    ],
+    "explanation": "delivers parcels 是送包裹；delivers a speech 是发表演讲；delivers results 是做出成果；delivers a baby 可说接生。",
+    "usage": "delivers parcels；delivers a speech；delivers results。",
+    "contrast": "词源中的释放是历史背景；现代 deliver results 不该按字面译成释放结果，而是兑现期待、做出成果。",
+    "examples": [
+      [
+        "The company delivers parcels every morning.",
+        "这家公司每天早上送包裹。"
+      ],
+      [
+        "She delivers a clear speech without using notes.",
+        "她不用笔记就能清楚地发表演讲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/delivers#English",
+      "https://www.etymonline.com/word/deliver"
+    ]
+  },
+  {
+    "word": "demonstrates",
+    "ipa": "英 /ˈdemənstreɪts/；美 /ˈdɛmənstreɪts/",
+    "meaning": "演示，展示；证明；示威〔第三人称〕",
+    "sense": "老师实际做给你看，是 demonstrates；证据把某个结论显出来，也是 demonstrates；上街公开表达诉求，则是另一常见用法。核心画面可以记成清楚显出来。",
+    "split": "demonstrate + -s → demonstrates，词尾 /ts/。基础词接拉丁 de- 加强 + monstrare 显示，借分词词干 demonstrat- 等进入英语，不能把 de- 一概译成取消。",
+    "history": [
+      [
+        "拉丁 monstrare 显示 → de- + monstrare → demonstrare",
+        "强化指明、显示的材料"
+      ],
+      [
+        "demonstratus 等材料 → 英语 demonstrate",
+        "演示、证明，后来也有公开示威义"
+      ],
+      [
+        "demonstrate + -s → demonstrates",
+        "单数主语后的动词，词尾 /ts/"
+      ]
+    ],
+    "explanation": "demonstrates the method 是演示方法；demonstrates that... 是证明某结论；demonstrates peacefully 是和平示威。",
+    "usage": "demonstrates the method；demonstrates that；demonstrates peacefully。",
+    "contrast": "演示是让人看懂怎么做，证明是让人看见为什么可信；它们能共享显出来的记忆画面，但具体句型、对象不同。",
+    "examples": [
+      [
+        "She demonstrates the method before the students try it.",
+        "学生尝试前，她先演示这个方法。"
+      ],
+      [
+        "The experiment demonstrates that the material expands when heated.",
+        "实验表明，这种材料受热会膨胀。"
+      ],
+      [
+        "The group demonstrates peacefully outside the building.",
+        "这个团体在楼外和平示威。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/demonstrates#English",
+      "https://www.etymonline.com/word/demonstrate"
+    ]
+  },
+  {
+    "word": "exhibited",
+    "ipa": "英、美 /ɪɡˈzɪbɪtɪd/",
+    "meaning": "展出了；表现出了；被展示的〔过去式、过去分词〕",
+    "sense": "把画放出来给人看，是 exhibited；一个人表现出耐心、能力，也像把原来藏在内部的特质显出来。",
+    "split": "exhibit + -ed → exhibited，/t/ 后的 -ed 读 /ɪd/，多一个音节。基础词接拉丁 ex- 向外 + habere 持有，复合中 hab- 变 hib-，经 exhibere、exhibitus 等形成英语词。",
+    "history": [
+      [
+        "拉丁 ex- + habere → exhibere、exhibitus",
+        "把持有的东西向外呈现"
+      ],
+      [
+        "英语 exhibit + -ed → exhibited",
+        "展出、表现出的过去式或过去分词"
+      ]
+    ],
+    "explanation": "exhibited paintings 是展出了画；exhibited patience 是表现出耐心；was exhibited 是被展出。",
+    "usage": "exhibited paintings；exhibited patience；was exhibited at the museum。",
+    "contrast": "exhibited 可以展示具体物，也可以表现抽象特质；不要一见这个词就都译成办展览。",
+    "examples": [
+      [
+        "Her paintings were exhibited at the local gallery.",
+        "她的画在当地画廊展出过。"
+      ],
+      [
+        "He exhibited great patience during the delay.",
+        "延误期间，他表现出了很大的耐心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exhibited#English",
+      "https://www.etymonline.com/word/exhibit"
+    ]
+  },
+  {
+    "word": "gaps",
+    "ipa": "英、美 /ɡæps/",
+    "meaning": "空隙；差距；缺漏；间隔〔复数〕",
+    "sense": "栅栏缺了一截、两人的成绩差一截、记忆漏了一段，都能用 gaps。共同画面是两端之间少了、空着的一段。",
+    "split": "gap + -s → gaps，/p/ 后读 /s/，词尾 /ps/。gap 接古北欧 gap 空隙，和 gapa 张大嘴的材料有关。",
+    "history": [
+      [
+        "古北欧 gap、gapa → 英语 gap",
+        "张开、裂口、空隙的图景"
+      ],
+      [
+        "gap + -s → gaps",
+        "现代把空段用于空间、时间、差距、知识等"
+      ]
+    ],
+    "explanation": "gaps in the fence 是栅栏空隙；gaps in knowledge 是知识缺漏；age gaps 是年龄差距；gaps between trains 是班次间隔。",
+    "usage": "gaps in the fence；gaps in knowledge；gaps between events。",
+    "contrast": "gap 不保证真有一个洞：知识、时间、成绩之间的空段或距离，也可以借这个画面来讲。",
+    "examples": [
+      [
+        "There are small gaps between the boards.",
+        "木板之间有小缝隙。"
+      ],
+      [
+        "The course helped me fill the gaps in my knowledge.",
+        "这门课帮助我补上了知识缺漏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gaps#English",
+      "https://www.etymonline.com/word/gap"
+    ]
+  },
+  {
+    "word": "honors",
+    "ipa": "英 /ˈɒnəz/；美 /ˈɑːnɚz/",
+    "meaning": "荣誉，表彰；优等成绩资格〔按语境〕；尊重，履行〔第三人称，美式拼写〕",
+    "sense": "receive honors 是得到荣誉；honors a promise 则是认真对待、兑现承诺。一个是受人看重的结果，一个是把人或责任放在心上。",
+    "split": "honor + -s → honors，词尾 /z/。名词经法语接拉丁 honor 荣誉、尊重，动词也有 honorer、honorare 的来源线；英式常写 honours。",
+    "history": [
+      [
+        "拉丁 honor、honorare → 法语、英语 honor",
+        "荣誉、尊重及相应动作"
+      ],
+      [
+        "honor + -s → honors",
+        "名词复数、动词第三人称；h 通常不发音"
+      ]
+    ],
+    "explanation": "receive honors 是获表彰；graduate with honors 是以优异成绩等毕业的常见表达；honors a promise 是履行诺言。",
+    "usage": "receive honors；graduate with honors；honors a promise。",
+    "contrast": "honor 的履行义可理解为认真尊重承诺、约定，不一定是在给诺言颁奖。具体学校资格、称号则按该语境解释。",
+    "examples": [
+      [
+        "She received several honors for her work.",
+        "她因工作获得了多项荣誉。"
+      ],
+      [
+        "He always honors his promises.",
+        "他总是履行诺言。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/honors#English",
+      "https://www.etymonline.com/word/honor"
+    ]
+  },
+  {
+    "word": "insights",
+    "ipa": "英、美 /ˈɪnsaɪts/",
+    "meaning": "深入的认识；让人想通的发现〔复数〕",
+    "sense": "不只是多知道几条信息，而是忽然看清问题里为什么会这样。一次次这种能让你想通的认识，就可以叫 insights。",
+    "split": "in 向内 + sight 看见的材料 → insight；再加 -s → insights，/t/ 后读 /s/。中古英语已见心智里的看见、从内部理解的用法。",
+    "history": [
+      [
+        "中古英语 insight、insiht 等心理视觉用法",
+        "借心里看见、向内理解来讲认识"
+      ],
+      [
+        "insight + -s → insights",
+        "一条条深入认识、发现，词尾 /ts/"
+      ]
+    ],
+    "explanation": "insights into a problem 是对问题的深入认识；share insights 是分享有启发的发现；practical insights 是实际有用的认识。",
+    "usage": "insights into a problem；share insights；practical insights。",
+    "contrast": "information 可能只是告诉你发生了什么；insights 通常进一步让你看清原因、模式或关键联系。",
+    "examples": [
+      [
+        "The interviews gave us new insights into the problem.",
+        "这些访谈让我们对问题有了新的深入认识。"
+      ],
+      [
+        "She shared several practical insights from her experience.",
+        "她分享了几条从经验中得来的实用认识。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insights#English",
+      "https://www.etymonline.com/word/insight"
+    ]
+  },
+  {
+    "word": "jumps",
+    "ipa": "英、美 /dʒʌmps/",
+    "meaning": "跳跃；猛增，突然变化〔复数〕；跳，猛增，跳过〔第三人称〕",
+    "sense": "身体一下离地，是跳；价格一下变高，也像跳到新位置；话题突然跳到另一件事，同样可以用 jumps。",
+    "split": "jump + -s → jumps，/p/ 后读 /s/，词尾 /mps/。基础词深源不完全确定，拟声等有不同分析，现代从跳跃动作向突然变化、转移扩展。",
+    "history": [
+      [
+        "较早现代英语 jump 跳跃",
+        "更远来源不完全确定"
+      ],
+      [
+        "跳起、突然转移的画面 → 数值、话题等比喻",
+        "现代多义不需要额外硬拆"
+      ],
+      [
+        "jump + -s → jumps",
+        "名词复数或动词第三人称，词尾 /mps/"
+      ]
+    ],
+    "explanation": "high jumps 是高高的跳跃；jumps over a stream 是跳过小溪；jumps in price 是价格的突然上涨。",
+    "usage": "high jumps；jumps over a stream；jumps in price。",
+    "contrast": "jumps 不是所有时候都离地；数值、话题、进度的一下跨过去，也能借跳跃图景来表达。",
+    "examples": [
+      [
+        "The dog jumps over the small stream.",
+        "狗跳过那条小溪。"
+      ],
+      [
+        "The graph shows two sudden jumps in temperature.",
+        "图上显示了两次气温骤升。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jumps#English",
+      "https://www.etymonline.com/word/jump"
+    ]
+  },
+  {
+    "word": "lowered",
+    "ipa": "英 /ˈləʊəd/；美 /ˈloʊɚd/",
+    "meaning": "放低了；降低了；被放下的〔过去式、过去分词〕",
+    "sense": "箱子往下放、声音调低、价格降下来，都用 lowered。共同画面是从较高的位置、程度移到较低处。",
+    "split": "lower + -ed → lowered；基础 lower 是低的 low 的比较形式，后来用作使降低的动词。/ə/、/ɚ/ 后 -ed 读 /d/。",
+    "history": [
+      [
+        "low → lower 更低",
+        "比较形式提供向低处变化的材料"
+      ],
+      [
+        "lower 动词 + -ed → lowered",
+        "使降低的过去式、过去分词，词尾 /d/"
+      ]
+    ],
+    "explanation": "lowered the box 是把箱子放低；lowered her voice 是压低声音；lowered the price 是降低价格。",
+    "usage": "lowered the box；lowered her voice；lowered the price。",
+    "contrast": "lowered 既能说物理向下，也能说音量、数量、程度减小；翻译时按对象选放下、降低、压低。",
+    "examples": [
+      [
+        "He lowered the box carefully onto the floor.",
+        "他小心地把箱子放到地上。"
+      ],
+      [
+        "She lowered her voice when she entered the room.",
+        "她进房间时压低了声音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lowered#English",
+      "https://www.etymonline.com/word/lower"
+    ]
+  },
+  {
+    "word": "quantities",
+    "ipa": "英 /ˈkwɒntətiz/；美 /ˈkwɑːntətiz/",
+    "meaning": "数量；若干量，批量〔复数〕",
+    "sense": "一批批材料用了多少、一个个量有多大，都能说 quantities。large quantities of rice，就是大量米。",
+    "split": "quantity 的辅音字母 + y 词尾变复数：y 改 i，再加 -es → quantities，读音保留末尾 /i/ 再加 /z/。quantity 远接拉丁 quantus 多少、多大与 quantitas 数量。",
+    "history": [
+      [
+        "拉丁 quantus 多少、多大 → quantitas → 法语 quantité",
+        "把多少、多大的性质说成数量名词"
+      ],
+      [
+        "英语 quantity → quantities",
+        "y 改 i 加 -es，保留原词的 /i/ 音"
+      ]
+    ],
+    "explanation": "large quantities of water 是大量水；small quantities 是少量、少量的批次；quantities of material 是材料数量。",
+    "usage": "large quantities of water；small quantities；quantities of material。",
+    "contrast": "a quantity of 后可接水、米等不可数物；quantities 是量、批次的复数，不要求后面的物质也能逐个数。",
+    "examples": [
+      [
+        "The recipe needs only small quantities of each spice.",
+        "这份食谱每种香料都只需要少量。"
+      ],
+      [
+        "The workers moved large quantities of sand.",
+        "工人们搬运了大量沙子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quantities#English",
+      "https://www.etymonline.com/word/quantity"
+    ]
+  }
+]

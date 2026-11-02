@@ -1,0 +1,364 @@
+[
+  {
+    "word": "spoken",
+    "ipa": "英 /ˈspəʊkən/；美 /ˈspoʊkən/",
+    "meaning": "口头的、说出的；speak 的过去分词",
+    "sense": "纸上写的是 written English，嘴里说出来的是 spoken English。词形带过去分词身份，不表示所有搭配都发生在昨天。",
+    "split": "speak 的不规则过去分词，与 spoke 过去式对照；可从变化后的词干加 -n/-en 观察旧强变化材料，不是现代英语每个动词都换元音加 n。",
+    "history": [
+      [
+        "古英语 sprecan 等 → speak",
+        "说话"
+      ],
+      [
+        "英语不规则词形 speak/spoke/spoken",
+        "原形、过去式、过去分词"
+      ],
+      [
+        "分词形容词 spoken",
+        "说出来的、口头的；以某种方式说话的"
+      ]
+    ],
+    "explanation": "spoken English 英语口语，the spoken word 口头语言，have spoken 已经说过；soft-spoken 说话温和，well-spoken 谈吐好的。",
+    "usage": "spoken English；the spoken word；have spoken。",
+    "contrast": "spoke 过去式：She spoke；spoken 分词：She has spoken。口头英语用 spoken English，不写 spoke English 来作同一种定语。",
+    "examples": [
+      [
+        "Her spoken English improved during the trip.",
+        "旅行期间，她的英语口语提高了。"
+      ],
+      [
+        "We have already spoken about the problem.",
+        "我们已经谈过这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spoken#English"
+    ]
+  },
+  {
+    "word": "unspoken",
+    "ipa": "英 /ʌnˈspəʊkən/；美 /ʌnˈspoʊkən/",
+    "meaning": "没说出口的；不言而喻、心照不宣的",
+    "sense": "话没从嘴里出来，但双方可能都知道；也可能只是想说又咽回去，不能见 unspoken 就保证人人心领神会。",
+    "split": "un- 不、未 + spoken 说出的，否定是否说出口的状态；不是说语言永远无法表达。",
+    "history": [
+      [
+        "古英语 sprecan 等 → speak",
+        "说话"
+      ],
+      [
+        "英语不规则词形 speak/spoke/spoken",
+        "原形、过去式、过去分词"
+      ],
+      [
+        "分词形容词 spoken",
+        "说出来的、口头的；以某种方式说话的"
+      ],
+      [
+        "un- + spoken → unspoken",
+        "未说出口 → 默契、隐含等语境义"
+      ]
+    ],
+    "explanation": "an unspoken agreement 默契，an unspoken rule 不成文、默认的规则，unspoken fears 没说出口的恐惧。",
+    "usage": "an unspoken agreement；an unspoken rule；unspoken fears。",
+    "contrast": "unspoken 未说出口，unspeakable 无法形容、难以启齿等；前者有可能很普通，只是没人明说。",
+    "examples": [
+      [
+        "They had an unspoken agreement not to discuss the past.",
+        "他们心照不宣地不谈过去。"
+      ],
+      [
+        "Her unspoken fears kept her awake.",
+        "那些没说出口的恐惧让她无法入睡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unspoken#English"
+    ]
+  },
+  {
+    "word": "belief",
+    "ipa": "/bɪˈliːf/",
+    "meaning": "相信、信念、信仰",
+    "sense": "把一件事认作真的，或者把信任放在一个人、价值、信仰上；belief 可以谈相信这件事，也可以谈具体相信的内容。",
+    "split": "承接古英语 gelēafa 等旧信任词，中古形式的前段受 believe 类比影响。后来名词末音变成 /f/，和动词 believe /v/ 分开；不是 belief + -e 就必然能造任何动词。",
+    "history": [
+      [
+        "古英语 gelēafa 等信任、信仰词 → 中古英语 bileve 等",
+        "信任、相信；词形受 believe 影响"
+      ],
+      [
+        "英语 belief / believe",
+        "名词 /f/ 与动词 /v/ 的对应形成"
+      ]
+    ],
+    "explanation": "belief in someone 对某人的信任，the belief that 相信……的看法，religious beliefs 宗教信仰，beyond belief 难以置信。",
+    "usage": "belief in；the belief that；religious beliefs；beyond belief。",
+    "contrast": "belief 名词、believe 动词；believe someone 可相信某人的话，belief in someone 更自然对应对其能力、为人等有信任。",
+    "examples": [
+      [
+        "She never lost her belief in the team.",
+        "她从未失去对团队的信任。"
+      ],
+      [
+        "The decision was based on the belief that demand would grow.",
+        "决定基于需求会增长的看法。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/belief"
+    ]
+  },
+  {
+    "word": "disbelief",
+    "ipa": "/ˌdɪsbɪˈliːf/",
+    "meaning": "不相信、难以置信、惊愕",
+    "sense": "听完消息，第一反应是“怎么可能？”；不一定已做理性反驳，也可能只是惊讶到一下不敢相信。",
+    "split": "dis- 否定、反向 + belief 相信，形成不信的状态名词。很多常用搭配突出意外消息带来的震惊。",
+    "history": [
+      [
+        "古英语 gelēafa 等信任、信仰词 → 中古英语 bileve 等",
+        "信任、相信；词形受 believe 影响"
+      ],
+      [
+        "英语 belief / believe",
+        "名词 /f/ 与动词 /v/ 的对应形成"
+      ],
+      [
+        "dis- + belief → disbelief",
+        "不相信；难以相信的惊愕"
+      ]
+    ],
+    "explanation": "in disbelief 难以置信地，stare in disbelief 惊愕地盯着看，suspend disbelief 暂时接受虚构设定。",
+    "usage": "in disbelief；stare in disbelief；suspend disbelief。",
+    "contrast": "disbelief 常见震惊、不信；doubt 是怀疑、没把握，不必吃惊。suspend disbelief 是进入作品的约定，不等于证明设定真实。",
+    "examples": [
+      [
+        "She stared at the result in disbelief.",
+        "她难以置信地盯着结果。"
+      ],
+      [
+        "The fantasy asks readers to suspend disbelief.",
+        "这部幻想作品需要读者暂时接受虚构设定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disbelief#English"
+    ]
+  },
+  {
+    "word": "unbelief",
+    "ipa": "/ˌʌnbɪˈliːf/",
+    "meaning": "不信、缺乏信仰〔尤宗教或较正式语境〕",
+    "sense": "重点可以是没有相信、拒绝某项信仰，而不只是听到消息后一瞬间的惊愕。日常词频不如 disbelief 高，但宗教讨论里有它的位置。",
+    "split": "un- 不、无 + belief，已有中古英语对应形式。un- 和 dis- 都可否定，常用语境却分出不同倾向，不能只因中文都叫不信就忽略。",
+    "history": [
+      [
+        "古英语 gelēafa 等信任、信仰词 → 中古英语 bileve 等",
+        "信任、相信；词形受 believe 影响"
+      ],
+      [
+        "英语 belief / believe",
+        "名词 /f/ 与动词 /v/ 的对应形成"
+      ],
+      [
+        "un- + belief → unbelief",
+        "缺乏、拒绝信仰或相信"
+      ]
+    ],
+    "explanation": "religious unbelief 宗教上的不信，faith and unbelief 信与不信，a state of unbelief 不信状态。",
+    "usage": "faith and unbelief；religious unbelief。",
+    "contrast": "unbelief 常见宗教、较正式的不信状态；disbelief 更常是对某个消息的不信和惊愕。两者不是绝对互斥。",
+    "examples": [
+      [
+        "The essay explores the boundary between faith and unbelief.",
+        "文章探讨信仰与不信之间的界线。"
+      ],
+      [
+        "The character struggles with periods of unbelief.",
+        "这个人物挣扎于一段段失去信仰的时期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbelief#English"
+    ]
+  },
+  {
+    "word": "fortune",
+    "ipa": "英 /ˈfɔːtʃuːn/；美 /ˈfɔːrtʃən/",
+    "meaning": "运气、命运；大笔财富",
+    "sense": "命运把怎样的处境带给你，是 fortune；处境又常和财产连着，后来 a fortune 还能是一大笔钱。",
+    "split": "经法语接拉丁 fortūna，来自机会、运气相关词。财产义从人的境遇、社会地位等逐渐发展，不是因为幸运的人一定有钱。",
+    "history": [
+      [
+        "拉丁 fortūna → 法语 fortune → 英语 fortune",
+        "机遇、命运、运气；后来有财产财富义"
+      ],
+      [
+        "英语 fortune 的扩展",
+        "人生境况、地位 → 财富；a fortune 大笔钱"
+      ]
+    ],
+    "explanation": "good fortune 好运，make a fortune 赚大钱，cost a fortune 贵得要命，tell someone’s fortune 算命、预言命运。",
+    "usage": "good fortune；make a fortune；cost a fortune；tell someone’s fortune。",
+    "contrast": "fortune 可说运气也可说财富；fortunate 是幸运，不保证富有，wealthy 则直接说有钱。",
+    "examples": [
+      [
+        "It was good fortune that we met that day.",
+        "那天能碰上真是好运。"
+      ],
+      [
+        "The repairs cost a fortune.",
+        "维修花了一大笔钱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fortune#English"
+    ]
+  },
+  {
+    "word": "fortunate",
+    "ipa": "英 /ˈfɔːtʃənət/；美 /ˈfɔːrtʃənət/",
+    "meaning": "幸运的、有幸的；带来好结果的",
+    "sense": "事情恰好朝有利方向发展，自己受了好运照顾；be fortunate to do 就是有幸做成、遇到某事。",
+    "split": "接拉丁 fortūnātus 幸运、兴旺的，来自 fortūna。现代可对应 fortune + -ate，但 -ate 此处是形容词末尾，读弱化 /ət/，不按动词 /eɪt/。",
+    "history": [
+      [
+        "拉丁 fortūna → 法语 fortune → 英语 fortune",
+        "机遇、命运、运气；后来有财产财富义"
+      ],
+      [
+        "拉丁 fortūnātus → fortunate",
+        "受好运眷顾、幸运的"
+      ]
+    ],
+    "explanation": "be fortunate to do 有幸做，fortunate enough to 足够幸运得以，a fortunate coincidence 幸运巧合，fortunate in having 有幸拥有。",
+    "usage": "be fortunate to do；fortunate enough to；a fortunate coincidence。",
+    "contrast": "fortunate lucky 大量场合相近，fortunate 稍正式；wealthy 是富有，不等于所有幸运的人。",
+    "examples": [
+      [
+        "We were fortunate to find a room at short notice.",
+        "我们很幸运，临时还能找到房间。"
+      ],
+      [
+        "A fortunate coincidence brought them together again.",
+        "一个幸运的巧合让他们再次相遇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fortunate#English"
+    ]
+  },
+  {
+    "word": "fortunately",
+    "ipa": "英 /ˈfɔːtʃənətli/；美 /ˈfɔːrtʃənətli/",
+    "meaning": "幸运的是、幸好",
+    "sense": "先告诉听者，接下来这个事实让人松一口气：坏事可能发生，幸好结果没那么糟。",
+    "split": "fortunate + -ly，常作整句评价副词。不是说幸运的人做得很幸运，而是说整个结果值得庆幸。",
+    "history": [
+      [
+        "拉丁 fortūna → 法语 fortune → 英语 fortune",
+        "机遇、命运、运气；后来有财产财富义"
+      ],
+      [
+        "拉丁 fortūnātus → fortunate",
+        "受好运眷顾、幸运的"
+      ],
+      [
+        "fortunate + -ly → fortunately",
+        "以好运而言；幸好某件事如此"
+      ]
+    ],
+    "explanation": "Fortunately, ... 幸好……，fortunately for us 对我们来说幸运的是，fortunately enough 碰巧幸运地。",
+    "usage": "Fortunately, …；fortunately for us。",
+    "contrast": "fortunately 幸好，luckily 也常用；fortunate 是形容词，不能直接照副词位置写 Fortunate, we arrived。",
+    "examples": [
+      [
+        "Fortunately, no one was hurt.",
+        "幸好没人受伤。"
+      ],
+      [
+        "Fortunately for us, the last bus was late.",
+        "对我们来说幸运的是，末班车晚点了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fortunately#English"
+    ]
+  },
+  {
+    "word": "unfortunate",
+    "ipa": "英 /ʌnˈfɔːtʃənət/；美 /ʌnˈfɔːrtʃənət/",
+    "meaning": "不幸的、倒霉的；令人遗憾的、不恰当的",
+    "sense": "一次坏巧合把事情推向不利；评价某句话 unfortunate，也可能是在委婉说它说得不合适。",
+    "split": "un- 不 + fortunate 幸运的，否定好运；具体发展到令人遗憾、选择失当，并非每次都指惨剧。",
+    "history": [
+      [
+        "拉丁 fortūna → 法语 fortune → 英语 fortune",
+        "机遇、命运、运气；后来有财产财富义"
+      ],
+      [
+        "拉丁 fortūnātus → fortunate",
+        "受好运眷顾、幸运的"
+      ],
+      [
+        "un- + fortunate → unfortunate",
+        "不幸、不利；不妥、令人遗憾"
+      ]
+    ],
+    "explanation": "an unfortunate accident 不幸事故，an unfortunate choice of words 不恰当的措辞，It is unfortunate that 令人遗憾的是。",
+    "usage": "an unfortunate accident；an unfortunate choice of words；It is unfortunate that。",
+    "contrast": "unfortunate 可以委婉批评措辞，不一定本人非常倒霉；unlucky 更直接强调运气不佳。",
+    "examples": [
+      [
+        "It was an unfortunate choice of words.",
+        "那番措辞很不妥。"
+      ],
+      [
+        "An unfortunate accident delayed the opening.",
+        "一次不幸事故推迟了开幕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfortunate#English"
+    ]
+  },
+  {
+    "word": "unfortunately",
+    "ipa": "英 /ʌnˈfɔːtʃənətli/；美 /ʌnˈfɔːrtʃənətli/",
+    "meaning": "遗憾的是、不幸的是",
+    "sense": "给接下来的坏消息先标一个遗憾态度；常用于礼貌拒绝、说明不利结果，并不总是重大灾难。",
+    "split": "unfortunate + -ly，把不利、令人遗憾的性质转为整句评价。也可对照 unfortunately 与 fortunately 的否定关系。",
+    "history": [
+      [
+        "拉丁 fortūna → 法语 fortune → 英语 fortune",
+        "机遇、命运、运气；后来有财产财富义"
+      ],
+      [
+        "拉丁 fortūnātus → fortunate",
+        "受好运眷顾、幸运的"
+      ],
+      [
+        "unfortunate + -ly → unfortunately",
+        "遗憾地说，事情不利或不能如愿"
+      ]
+    ],
+    "explanation": "Unfortunately, ... 遗憾的是……，unfortunately for him 对他不幸的是；委婉说明没有名额、无法出席等也常用。",
+    "usage": "Unfortunately, …；unfortunately for someone。",
+    "contrast": "unfortunately 表遗憾，不是 unfortunately 必须用过去时；Unfortunately, I can’t come 是现在无法来的消息。",
+    "examples": [
+      [
+        "Unfortunately, the tickets are sold out.",
+        "遗憾的是，票已经卖完了。"
+      ],
+      [
+        "I would love to help, but unfortunately I am away that week.",
+        "我很想帮忙，可惜那周我不在。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfortunately#English"
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "A1750",
+    "meaning": "时间较早，空间、位置、次序在前",
+    "core": "FORE-：站在前面，也可以走在事情发生前",
+    "image": "forefinger、forefoot、foreshore、forecastle 说空间；foresee、foretell、foreshadow、forewarning 说时间。foreclose 一组单列历史辨析。",
+    "intro": "先问这个“前”是位置还是时间，再问词是否真的属于这一来源。forego 在先与 forgo 放弃要辨拼写；foreclose 的历史不能靠现代字母强拆。",
+    "forms": "古英语 fore- → fore-；fore- + finger/foot/shore/castle；fore- + runner/shadow/warning；forestall 经旧 foresteall 站在前面、拦截。\n\nfore 加 head 的组合承古英语；现代有保留 head 和缩短的不同读法。",
+    "branches": [
+      [
+        "前部的位置、人物与身体",
+        "forefront · foreman · forehead · forearm · forefinger · forefoot · forehand · foreskin · forebrain · foreground · forecourt · foreshore · forecastle"
+      ],
+      [
+        "先行、前辈与前言",
+        "forerunner · forefather · forego · foreword"
+      ],
+      [
+        "预知、预示与提前准备",
+        "foresee · foretell · forecast · foreknowledge · forethought · foreshadow · forewarning · forestall · foretaste · foreplay"
+      ],
+      [
+        "拼写近似而历史分路的对照",
+        "foreclose · foreclosure"
+      ],
+      [
+        "forehead → foreheads：头的前部",
+        "forehead · foreheads"
+      ]
+    ],
+    "contrasts": "forego/forgo 在先与放弃；foretell/foreshadow 直接预言与线索暗示；forecastle/forecast 船前部与预测；foreclose 不从提前关门推出全部来源。",
+    "practice": "The opening scene foreshadows the ending without giving us a clear forewarning.\n\n开场一幕暗示了结局，却没有给出明确预警。",
+    "words": [
+      "forefront",
+      "foreman",
+      "forehead",
+      "forearm",
+      "forefinger",
+      "forefoot",
+      "forehand",
+      "foreskin",
+      "forebrain",
+      "foreground",
+      "forecourt",
+      "foreshore",
+      "forecastle",
+      "forerunner",
+      "forefather",
+      "forego",
+      "foreword",
+      "foresee",
+      "foretell",
+      "forecast",
+      "foreknowledge",
+      "forethought",
+      "foreshadow",
+      "forewarning",
+      "forestall",
+      "foretaste",
+      "foreplay",
+      "foreclose",
+      "foreclosure",
+      "foreheads"
+    ],
+    "exclude": {
+      "fore-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-tried": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-strength": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-approval": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-flood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-elder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "foreland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-overman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

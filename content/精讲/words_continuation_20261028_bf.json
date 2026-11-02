@@ -1,0 +1,783 @@
+[
+  {
+    "word": "newsworthy",
+    "ipa": "英 /ˈnjuːzwɜːði/；美 /ˈnuːzwɜːrði/",
+    "meaning": "值得报道的；有新闻价值的",
+    "sense": "事情不只是发生了，还值得放到公众面前讲，才称 newsworthy。",
+    "split": "news + -worthy（值得……的），worthy 与 worth 有关；不是说这条新闻一定值某个价格。",
+    "history": [
+      [
+        "news；-worthy",
+        "并列构词部分"
+      ],
+      [
+        "newsworthy",
+        "值得作为新闻报道的"
+      ]
+    ],
+    "explanation": "a newsworthy event 有新闻价值的事件，make something newsworthy 使某事值得报道。是否值得涉及影响、时效等判断，不等于一定轰动。",
+    "usage": "a newsworthy event；a newsworthy development；consider newsworthy。",
+    "contrast": "newsworthy 值得报道，news 真消息、新闻这一名词本身不自动评价重要程度。",
+    "examples": [
+      [
+        "The discovery was considered newsworthy.",
+        "这项发现被认为值得报道。"
+      ],
+      [
+        "Not every change is a newsworthy event.",
+        "不是每一个变化都有新闻价值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsworthy#English"
+    ]
+  },
+  {
+    "word": "newscast",
+    "ipa": "英 /ˈnjuːzkɑːst/；美 /ˈnuːzkæst/",
+    "meaning": "新闻广播；新闻播报节目",
+    "sense": "不是一张报纸，而是通过电视、广播等把一组新闻播出来。",
+    "split": "news + -cast，cast 从 broadcast 等播送表达中类推；不是新闻人物的演员阵容 cast。",
+    "history": [
+      [
+        "news；-cast〔播送〕",
+        "并列构词部分"
+      ],
+      [
+        "newscast",
+        "广播、电视等新闻播报节目"
+      ]
+    ],
+    "explanation": "the evening newscast 晚间新闻，a local newscast 地方新闻节目。常指一档、一段播报，可数。",
+    "usage": "the evening newscast；a local newscast；watch a newscast。",
+    "contrast": "newscast 整档播报，newsflash 常是短快讯；两者都可能含同一事件，时长、节目组织不同。",
+    "examples": [
+      [
+        "The evening newscast opened with the election results.",
+        "晚间新闻以选举结果开场。"
+      ],
+      [
+        "She listened to the local newscast on the radio.",
+        "她用收音机听地方新闻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newscast#English"
+    ]
+  },
+  {
+    "word": "newscaster",
+    "ipa": "英 /ˈnjuːzkɑːstə/；美 /ˈnuːzkæstər/",
+    "meaning": "新闻播音员；新闻主播",
+    "sense": "newscast 是节目，newscaster 是把新闻讲给观众听的人。",
+    "split": "newscast + -er，-er 表执行播报活动的人；不是从 news 里直接截出一个 caster 就表示所有记者。",
+    "history": [
+      [
+        "newscast",
+        "播报新闻的节目、活动"
+      ],
+      [
+        "newscast + -er → newscaster",
+        "播报新闻的人"
+      ]
+    ],
+    "explanation": "a television newscaster 电视新闻主播，a radio newscaster 广播新闻播音员。实际工作有时兼采编，但词义重点是播报。",
+    "usage": "a television newscaster；a radio newscaster；an experienced newscaster。",
+    "contrast": "newscaster、newsreader 常重叠；reporter 记者更常突出采访、报道，不一定在演播室主持节目。",
+    "examples": [
+      [
+        "The newscaster introduced the next report.",
+        "新闻主播引出了下一篇报道。"
+      ],
+      [
+        "A familiar radio newscaster read the morning headlines.",
+        "一位听众熟悉的广播播音员播读了晨间头条。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newscaster#English"
+    ]
+  },
+  {
+    "word": "newsreader",
+    "ipa": "英 /ˈnjuːzriːdə/；美 /ˈnuːzriːdər/",
+    "meaning": "新闻播音员；新闻组阅读程序〔技术用法〕",
+    "sense": "可以是读新闻给你听的人，也可以是帮你读取旧式网络新闻组的程序。",
+    "split": "news + reader，reader 是 read + -er；人的播报角色与软件工具都是参与读取的名词用法，不说程序变成了人。",
+    "history": [
+      [
+        "news；reader〔read + -er〕",
+        "并列构词部分"
+      ],
+      [
+        "newsreader",
+        "新闻播读者；新闻组阅读软件"
+      ]
+    ],
+    "explanation": "a BBC newsreader 可指该机构新闻播音员，a Usenet newsreader 是读取、参与新闻组的软件。news 在技术名称中不限时事报道。",
+    "usage": "a television newsreader；a radio newsreader；a Usenet newsreader。",
+    "contrast": "newsreader 职业用法与 newscaster 近；普通阅读新闻的任何人通常直接说 a news reader、reader，具体职业称呼看语境。",
+    "examples": [
+      [
+        "The newsreader paused before announcing the result.",
+        "新闻播音员公布结果前停顿了一下。"
+      ],
+      [
+        "The old guide explains how to configure a newsreader for Usenet.",
+        "旧指南讲解怎样为 Usenet 配置新闻组阅读程序。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsreader#English"
+    ]
+  },
+  {
+    "word": "newsflash",
+    "ipa": "英 /ˈnjuːzflæʃ/；美 /ˈnuːzflæʃ/",
+    "meaning": "新闻快讯；突然插播的短消息",
+    "sense": "正常节目还在播，一条刚到的重要消息突然插进来，快速告诉观众。",
+    "split": "news + flash，flash 借快速、突然出现的感觉，不是真把灯泡闪在报纸上。",
+    "history": [
+      [
+        "news；flash",
+        "并列构词部分"
+      ],
+      [
+        "newsflash",
+        "短促、及时的新闻快讯"
+      ]
+    ],
+    "explanation": "a breaking newsflash 突发快讯。口语 Newsflash: ... 也可讽刺提醒明显事实，像“你还不知道吗”，语气可能不客气。",
+    "usage": "a newsflash about；interrupt with a newsflash；Newsflash: ...。",
+    "contrast": "newsflash 偏短消息，newsreel 旧式新闻影片，newsfeed 持续更新的信息流；媒介与组织方式不同。",
+    "examples": [
+      [
+        "The program was interrupted by a newsflash.",
+        "节目被一条新闻快讯打断了。"
+      ],
+      [
+        "A newsflash announced that the missing hikers had been found.",
+        "快讯宣布失踪徒步者已找到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsflash#English"
+    ]
+  },
+  {
+    "word": "newsreel",
+    "ipa": "英 /ˈnjuːzriːl/；美 /ˈnuːzriːl/",
+    "meaning": "新闻短片；新闻纪录影片〔尤旧式〕",
+    "sense": "电视普及前，影院里也能看新闻；它们被拍成一卷卷短影片。",
+    "split": "news + reel（胶片卷），从实体胶片媒介理解，不是把 news + real“真实”拼错。",
+    "history": [
+      [
+        "news；reel〔胶片卷〕",
+        "并列构词部分"
+      ],
+      [
+        "newsreel",
+        "记录、报道时事的短影片"
+      ]
+    ],
+    "explanation": "wartime newsreels 战时新闻影片，archive newsreel footage 馆藏新闻影像。今天常在纪录片、历史档案材料里遇见。",
+    "usage": "archive newsreel footage；a wartime newsreel；old newsreels。",
+    "contrast": "newsreel 是新闻影片形式，documentary 纪录片范围更广；旧新闻影像可以被后来的纪录片引用。",
+    "examples": [
+      [
+        "The documentary includes newsreel footage from the 1930s.",
+        "纪录片用了20世纪30年代的新闻影片素材。"
+      ],
+      [
+        "People once watched newsreels at the cinema.",
+        "人们过去曾在影院观看新闻短片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsreel#English"
+    ]
+  },
+  {
+    "word": "newswire",
+    "ipa": "英 /ˈnjuːzwaɪə/；美 /ˈnuːzwaɪər/",
+    "meaning": "通讯社新闻供稿线路、服务；新闻电讯",
+    "sense": "新闻不只送给一个读者，还通过一套供稿渠道迅速送到许多媒体。",
+    "split": "news + wire，wire 与早期有线电讯传稿背景相连；数字时代名称延续，不要求编辑桌边仍有那根旧电线。",
+    "history": [
+      [
+        "news；wire〔电讯线路〕",
+        "并列构词部分"
+      ],
+      [
+        "newswire",
+        "新闻电讯传送、供稿服务"
+      ]
+    ],
+    "explanation": "a newswire service 新闻电讯供稿服务，a story on the newswire 电讯线路上的报道。常与通讯社、媒体生产流程有关。",
+    "usage": "a newswire service；newswire reports；a story on the newswire。",
+    "contrast": "newswire 供稿服务与渠道，newsroom 编辑部工作场所、团队；一个编辑部可使用多种供稿渠道。",
+    "examples": [
+      [
+        "The editor saw the report on a newswire.",
+        "编辑在新闻电讯供稿中看到了这篇报道。"
+      ],
+      [
+        "The agency distributes stories through its newswire service.",
+        "通讯社通过新闻供稿服务分发报道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newswire#English"
+    ]
+  },
+  {
+    "word": "newsfeed",
+    "ipa": "英 /ˈnjuːzfiːd/；美 /ˈnuːzfiːd/",
+    "meaning": "新闻、动态信息流",
+    "sense": "不是一本固定顺序的书，而是一条不断往你面前补新内容的流。",
+    "split": "news + feed，feed 在技术语境指持续提供的内容流；不是给记者喂饭。也常分写 news feed。",
+    "history": [
+      [
+        "news；feed〔内容供应流〕",
+        "并列构词部分"
+      ],
+      [
+        "newsfeed",
+        "持续更新的新闻、动态内容流"
+      ]
+    ],
+    "explanation": "scroll through a newsfeed 刷动态流，a personalized newsfeed 个性化信息流。社交平台上的内容可包括朋友动态，不只政治时事。",
+    "usage": "scroll through a newsfeed；a personalized newsfeed；update the newsfeed。",
+    "contrast": "newsfeed 内容流，newsletter 定期通讯，newsgroup 按主题讨论区；都带 news，但交互、组织方式不同。",
+    "examples": [
+      [
+        "The app lets users customize their newsfeed.",
+        "应用让用户自定义信息流。"
+      ],
+      [
+        "I found the announcement while scrolling through my newsfeed.",
+        "我刷动态时看到了那则公告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsfeed#English"
+    ]
+  },
+  {
+    "word": "newsman",
+    "ipa": "英 /ˈnjuːzmæn/；美 /ˈnuːzmæn/",
+    "meaning": "新闻工作者；记者〔传统男性称谓〕",
+    "sense": "职业围着新闻采访、编辑、播报展开；传统名称用 man 指人。",
+    "split": "news + man，现代职业表达也常用 journalist、reporter，不必用 man 来指所有从业者。",
+    "history": [
+      [
+        "news；man",
+        "并列构词部分"
+      ],
+      [
+        "newsman",
+        "从事新闻工作的人的传统称谓"
+      ]
+    ],
+    "explanation": "a veteran newsman 资深新闻工作者，a local newsman 当地记者。常见于人物简介、较传统的新闻文体。",
+    "usage": "a veteran newsman；a local newsman；a television newsman。",
+    "contrast": "newsman 新闻职业人，newsboy 传统卖报、送报者；两个词不只是在说成年人、儿童年龄差。",
+    "examples": [
+      [
+        "The memoir was written by a veteran newsman.",
+        "回忆录由一位资深新闻工作者撰写。"
+      ],
+      [
+        "A local newsman interviewed the villagers.",
+        "一位当地记者采访了村民。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsman#English"
+    ]
+  },
+  {
+    "word": "newsboy",
+    "ipa": "英 /ˈnjuːzbɔɪ/；美 /ˈnuːzbɔɪ/",
+    "meaning": "报童；卖报、送报者",
+    "sense": "报纸需要从印刷、发行处到读者手里，街头叫卖或送到门口的人做这一步。",
+    "split": "news + boy，news 借指报纸，boy 是传统儿童、年轻男性的职业称呼。不是在新闻节目里演小孩。",
+    "history": [
+      [
+        "news；boy",
+        "并列构词部分"
+      ],
+      [
+        "newsboy",
+        "传统街头卖报、送报者称谓"
+      ]
+    ],
+    "explanation": "a street newsboy 街头报童，a newsboy cap 报童帽。历史语境常见，帽子名称后来成为服饰名称，不要求佩戴者真卖报。",
+    "usage": "a street newsboy；a newsboy cap；work as a newsboy。",
+    "contrast": "newsboy 卖报送报，newsreader 播读新闻；两者处在新闻传播的不同环节。",
+    "examples": [
+      [
+        "The old photograph shows a newsboy outside the station.",
+        "老照片里，一个报童站在车站外。"
+      ],
+      [
+        "He wore a wool newsboy cap.",
+        "他戴着一顶羊毛报童帽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsboy#English"
+    ]
+  },
+  {
+    "word": "hold",
+    "ipa": "英 /həʊld/；美 /hoʊld/",
+    "meaning": "拿住；保持；容纳；举办；抓握、控制；货舱〔另源〕",
+    "sense": "把东西保持在手里、位置上或某种状态里；船的货舱虽然也能装东西，历史上却另有来路。",
+    "split": "主要动作接古英语 healdan、中古英语 holden；过去式、分词 held /held/。货舱名词由 hole 的相关形式受 hold 影响改形，不能因为能装货就硬说从握住演变。",
+    "history": [
+      [
+        "古英语 healdan → hold；另一路 hole 相关形式受 hold 影响改形",
+        "拿住、维持；另有货舱名词来源"
+      ],
+      [
+        "现代 hold",
+        "保持、容纳、举办等；货舱另源同形"
+      ]
+    ],
+    "explanation": "hold a cup 拿杯子，hold the door 扶住门，hold a meeting 举办会议，the room holds fifty 容纳五十人。on hold 通话等候；the cargo hold 是货舱。",
+    "usage": "hold a meeting；hold the door；hold on；put on hold；take hold of。",
+    "contrast": "hold 可以保持位置、状态，并非都用手抓；hold a meeting 举办会议，不是字面把会捏在手里。货舱义另源同形。",
+    "examples": [
+      [
+        "Could you hold the door for me?",
+        "能替我扶一下门吗？"
+      ],
+      [
+        "The school will hold a meeting on Friday.",
+        "学校周五会开会。"
+      ],
+      [
+        "The luggage was stored in the aircraft’s hold.",
+        "行李存放在飞机货舱里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hold#English"
+    ]
+  },
+  {
+    "word": "holder",
+    "ipa": "英 /ˈhəʊldə/；美 /ˈhoʊldər/",
+    "meaning": "持有人；支架、容器、固定装置",
+    "sense": "谁手上持有某物，谁是 holder；一个装置替你夹住、托住某物，也叫 holder。",
+    "split": "hold + -er，后缀可表人、工具，不是所有词义都在说更拿得住的比较级。",
+    "history": [
+      [
+        "古英语 healdan → 中古英语 holden",
+        "保持、照看、拿住"
+      ],
+      [
+        "英语 hold",
+        "拿住、维持、容纳；举办；影响、控制等"
+      ],
+      [
+        "hold + -er → holder",
+        "持有的人；固定、容纳的物"
+      ]
+    ],
+    "explanation": "a passport holder 护照持有人，a cup holder 杯架，a candle holder 烛台。把前面限定物与人、物角色一起看。",
+    "usage": "a passport holder；a cup holder；a ticket holder；a candle holder。",
+    "contrast": "holder 持有者、支架，holding 常指持有状态或所持资产；a cup holder 不是经营茶杯的控股公司。",
+    "examples": [
+      [
+        "The car has two cup holders.",
+        "车里有两个杯架。"
+      ],
+      [
+        "Ticket holders can enter through the side door.",
+        "持票者可从侧门进入。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/holder#English"
+    ]
+  },
+  {
+    "word": "holding",
+    "ipa": "英 /ˈhəʊldɪŋ/；美 /ˈhoʊldɪŋ/",
+    "meaning": "持有；所持资产、藏品〔常复数〕；控制相关的",
+    "sense": "东西被你握着、拥有着；谈资产或馆藏时，重点是手上有哪些。",
+    "split": "hold + -ing，从持有、拥有义形成名词与修饰用法。holding company 控股公司中的 holding 也围绕持有股份、控制权益来理解。",
+    "history": [
+      [
+        "古英语 healdan → 中古英语 holden",
+        "保持、照看、拿住"
+      ],
+      [
+        "英语 hold",
+        "拿住、维持、容纳；举办；影响、控制等"
+      ],
+      [
+        "hold + -ing → holding",
+        "持有过程；持有的土地、证券、藏品等"
+      ]
+    ],
+    "explanation": "a museum’s holdings 博物馆馆藏，share holdings 所持股份，a holding company 控股公司。holdings 常用复数，但具体对象不只股票。",
+    "usage": "museum holdings；share holdings；a holding company；land holdings。",
+    "contrast": "holdings 资产、藏品集合，holder 是持有人或工具；博物馆的 holdings 可以是作品，持有作品的是 museum。",
+    "examples": [
+      [
+        "The museum has expanded its holdings of modern art.",
+        "博物馆扩充了现代艺术藏品。"
+      ],
+      [
+        "The report lists the company’s land holdings.",
+        "报告列出了公司的土地资产。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/holding#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/holding"
+    ]
+  },
+  {
+    "word": "uphold",
+    "ipa": "英 /ʌpˈhəʊld/；美 /ʌpˈhoʊld/",
+    "meaning": "支持、维护；维持〔决定等〕",
+    "sense": "把原本可能倒下、被否定的东西托住，让原则、决定继续站得住。",
+    "split": "up- + hold，中古英语已有 upholden；从托住、维持的动作理解支持、维护，不是只拿到更高楼层。",
+    "history": [
+      [
+        "古英语 healdan → 中古英语 holden",
+        "保持、照看、拿住"
+      ],
+      [
+        "英语 hold",
+        "拿住、维持、容纳；举办；影响、控制等"
+      ],
+      [
+        "up- + hold → uphold",
+        "托住、维持 → 支持原则、决定等"
+      ]
+    ],
+    "explanation": "uphold a principle 维护原则，uphold a decision 维持决定。法院报道中常说上级审查后维持原决定，但词本身也用于日常原则。",
+    "usage": "uphold a principle；uphold a decision；uphold standards。",
+    "contrast": "uphold 维护、维持，withhold 扣住不提供；相同后半 hold，前缀指向不同动作。",
+    "examples": [
+      [
+        "The organization aims to uphold high standards.",
+        "组织力求维护高标准。"
+      ],
+      [
+        "The appeal court upheld the original decision.",
+        "上诉法院维持了原决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uphold#English"
+    ]
+  },
+  {
+    "word": "withhold",
+    "ipa": "英 /wɪðˈhəʊld/、/wɪθˈhəʊld/；美 /wɪðˈhoʊld/、/wɪθˈhoʊld/",
+    "meaning": "扣留；拒不给予；不透露",
+    "sense": "本来可以交出去、说出去的，被自己按住留下，不往外放。",
+    "split": "with- 的旧反向、离开等用法 + hold，中古英语有 withholden；不是今天 with“和……一起”加拿住就能读懂。",
+    "history": [
+      [
+        "古英语 healdan → 中古英语 holden",
+        "保持、照看、拿住"
+      ],
+      [
+        "英语 hold",
+        "拿住、维持、容纳；举办；影响、控制等"
+      ],
+      [
+        "with- + hold → withhold",
+        "保留下、不交出或不透露"
+      ]
+    ],
+    "explanation": "withhold information 不透露信息，withhold payment 暂扣付款，withhold judgment 暂不下判断。动机、是否合法看实际语境，词义先说没有交出。",
+    "usage": "withhold information；withhold payment；withhold judgment。",
+    "contrast": "withhold 不交出，与 forget 忘记不同；withhold judgment 也不一定是作坏事，可是等信息充分再判断。",
+    "examples": [
+      [
+        "The report withheld the names of the children.",
+        "报告没有披露孩子们的姓名。"
+      ],
+      [
+        "I will withhold judgment until I have read the evidence.",
+        "看过证据前，我先不作判断。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/withhold#English"
+    ]
+  },
+  {
+    "word": "behold",
+    "ipa": "英 /bɪˈhəʊld/；美 /bɪˈhoʊld/",
+    "meaning": "看见；注视；看哪〔文学、较庄重〕",
+    "sense": "眼前景象值得停下来一看，像目光被留在了那里。",
+    "split": "接古英语 behealdan、中古英语 biholden，原动词已有持有、照管、观察、观看等义；可辨 be- + hold，但不凭现代拿住义硬造唯一观看路径。",
+    "history": [
+      [
+        "古英语 behealdan → 中古英语 biholden",
+        "持有、照看、观察等旧义并存"
+      ],
+      [
+        "英语 behold",
+        "看见、注视；呼唤别人注意"
+      ]
+    ],
+    "explanation": "behold a sight 看见景象，Lo and behold! 常在叙事中说没想到、瞧。较文学、庄重，也可故意戏剧化。过去、分词 beheld /bɪˈheld/。",
+    "usage": "a sight to behold；Lo and behold!；behold the view。",
+    "contrast": "behold 比 see 更庄重、文学化；日常问有没有看见钥匙，不必处处换成 behold。",
+    "examples": [
+      [
+        "The mountain at sunrise was a sight to behold.",
+        "日出时的山景令人叹为观止。"
+      ],
+      [
+        "Lo and behold, the missing key was in my pocket.",
+        "没想到，丢失的钥匙就在我口袋里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/behold#English"
+    ]
+  },
+  {
+    "word": "foothold",
+    "ipa": "英 /ˈfʊthəʊld/；美 /ˈfʊthoʊld/",
+    "meaning": "立足点；稳固起步地位",
+    "sense": "脚先找到能踩住的位置，人才能继续往上、往前；进入新领域也先要这样一小块位置。",
+    "split": "foot + hold，hold 为抓握、支撑点等名词；不是把脚长成一只手。",
+    "history": [
+      [
+        "foot；hold〔支撑、稳住的位置〕",
+        "并列构词部分"
+      ],
+      [
+        "foothold",
+        "能踩稳之处 → 初步稳固地位"
+      ]
+    ],
+    "explanation": "find a foothold 找落脚点，gain a foothold in a market 在市场取得初步立足地位。不必已经占据主要份额。",
+    "usage": "find a foothold；gain a foothold；a foothold in。",
+    "contrast": "foothold 初步立足点，stronghold 稳固据点；刚进入市场与已经成为某方大本营不是同一阶段。",
+    "examples": [
+      [
+        "She searched for a firm foothold on the rock.",
+        "她在岩石上寻找稳固落脚点。"
+      ],
+      [
+        "The publisher gained a foothold in the children’s book market.",
+        "出版社在童书市场取得了初步立足地位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foothold#English"
+    ]
+  },
+  {
+    "word": "ahold",
+    "ipa": "英 /əˈhəʊld/；美 /əˈhoʊld/",
+    "meaning": "抓住；取得联系〔常见于美式 get ahold of〕",
+    "sense": "手抓到物，或终于联系上一个人，都像原本够不到的现在接住了。",
+    "split": "a + hold 连写形成的名词用法，常见于 get ahold of；也常分写 get a hold of，英式常 get hold of。",
+    "history": [
+      [
+        "a；hold",
+        "并列构词部分"
+      ],
+      [
+        "ahold",
+        "抓握；在固定搭配中取得、联系上"
+      ]
+    ],
+    "explanation": "get ahold of someone 联系上某人，get ahold of a copy 弄到一份。非正式美式常见，正式文章可用 contact、obtain 等更直接表达。",
+    "usage": "get ahold of；get ahold of someone；get ahold of a copy。",
+    "contrast": "ahold 常在固定搭配中，on hold 是等待、搁置；get ahold of the office 是联系办公室，不是让办公室排队等。",
+    "examples": [
+      [
+        "I finally got ahold of the repair technician.",
+        "我终于联系上了维修技师。"
+      ],
+      [
+        "Can you get ahold of a copy of the old map?",
+        "你能弄到一份旧地图吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ahold#English"
+    ]
+  },
+  {
+    "word": "holdout",
+    "ipa": "英 /ˈhəʊldaʊt/；美 /ˈhoʊldaʊt/",
+    "meaning": "坚持不接受者；最后坚持原做法的人、地方",
+    "sense": "大多数人都答应或改变了，仍有一方守着不松口、没跟着变。",
+    "split": "由短语动词 hold out 形成名词，抓坚持、继续抵住的用法，不只是把东西向外举。",
+    "history": [
+      [
+        "hold；out〔hold out 的坚持用法〕",
+        "并列构词部分"
+      ],
+      [
+        "holdout",
+        "坚持不接受协议或仍守原做法者"
+      ]
+    ],
+    "explanation": "the last holdout 最后仍不答应的一方，a holdout against change 坚持反对改变者。态度可能顽固，也可能坚持原则，按叙述判断。",
+    "usage": "the last holdout；a lone holdout；a holdout against。",
+    "contrast": "holdout 是人、组织或仍守旧例之地，holding 常说持有状态、资产；多一个 out 不只是同义变体。",
+    "examples": [
+      [
+        "One small publisher remained a holdout against the new agreement.",
+        "一家小出版社仍坚持不接受新协议。"
+      ],
+      [
+        "The shop was one of the last holdouts still selling only film cameras.",
+        "这家店是少数仍只卖胶片相机的商店之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/holdout#English"
+    ]
+  },
+  {
+    "word": "holdover",
+    "ipa": "英 /ˈhəʊldəʊvə/；美 /ˈhoʊldoʊvər/",
+    "meaning": "遗留物；留任者；延续至今的事物",
+    "sense": "一轮已经过去，但某个习惯、东西或人还被留到了下一轮。",
+    "split": "由 hold over 留到以后、继续保留等短语形成名词。这里选延续义，其他技术同形义不一并展开。",
+    "history": [
+      [
+        "hold；over〔延续保留〕",
+        "并列构词部分"
+      ],
+      [
+        "holdover",
+        "从较早时期留下、延续的人或物"
+      ]
+    ],
+    "explanation": "a holdover from the past 过去留下的东西，a holdover employee 留任员工。可中性描述，也可嫌制度旧了。",
+    "usage": "a holdover from；a holdover employee；a holdover from the past。",
+    "contrast": "holdover 从旧时期延续，holdout 坚持不接受改变；一个旧安排可以是 holdover，不必有人主动抵制。",
+    "examples": [
+      [
+        "The custom is a holdover from an earlier era.",
+        "这个习俗是较早时代的遗留。"
+      ],
+      [
+        "A few holdover staff helped the new team settle in.",
+        "几位留任员工帮助新团队熟悉情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/holdover#English"
+    ]
+  },
+  {
+    "word": "stranglehold",
+    "ipa": "英 /ˈstræŋɡəlhəʊld/；美 /ˈstræŋɡəlhoʊld/",
+    "meaning": "扼制般的强力控制；紧勒控制动作〔字面义〕",
+    "sense": "像脖子被勒住，别人几乎没有转身、自由选择的空间；日常报道常借来描述垄断式控制。",
+    "split": "strangle（扼住、勒）+ hold（控制、抓握），字面动作形成比喻强力扼制。不是所有 hold 都含这层压制感。",
+    "history": [
+      [
+        "strangle；hold",
+        "并列构词部分"
+      ],
+      [
+        "stranglehold",
+        "紧勒的控制 → 几乎不留余地的掌控"
+      ]
+    ],
+    "explanation": "a stranglehold on a market 对市场的强力控制，break a stranglehold 打破扼制。通常带批评，不只说管理有序。",
+    "usage": "a stranglehold on；break the stranglehold；maintain a stranglehold。",
+    "contrast": "stranglehold 强烈限制选择，foothold 只说立足点；后者初步站稳不等于前者已经扼住全局。",
+    "examples": [
+      [
+        "The article examines one firm’s stranglehold on local distribution.",
+        "文章考察一家公司对当地分销渠道的强力控制。"
+      ],
+      [
+        "New publishers helped break the old group’s stranglehold.",
+        "新出版社帮助打破了旧集团的控制。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stranglehold#English"
+    ]
+  },
+  {
+    "word": "chokehold",
+    "ipa": "英 /ˈtʃəʊkhəʊld/；美 /ˈtʃoʊkhoʊld/",
+    "meaning": "控制颈部的擒抱；强力束缚、控制〔比喻〕",
+    "sense": "字面是颈部被控制的动作；比喻则说某种力量把人或系统勒得难以自由运转。",
+    "split": "choke（使窒息、卡住）+ hold（控制动作），先名词后也用作动词。比喻延伸抓强力限制、难以自由活动的感觉。",
+    "history": [
+      [
+        "choke；hold",
+        "并列构词部分"
+      ],
+      [
+        "chokehold",
+        "颈部控制动作 → 强力束缚、限制"
+      ]
+    ],
+    "explanation": "a chokehold on something 对某事的强力控制，break a chokehold 摆脱束缚。新闻、运动讨论中可见字面义，社会评论里可见比喻。",
+    "usage": "a chokehold on；break a chokehold；a debate about chokeholds。",
+    "contrast": "chokehold 与 stranglehold 的比喻都可强调压制；普通 hold 不一定有暴力、窒息或不当控制的含义。",
+    "examples": [
+      [
+        "The debate focused on the use of chokeholds.",
+        "讨论聚焦于颈部控制动作的使用。"
+      ],
+      [
+        "The outdated system had a chokehold on innovation.",
+        "过时系统严重束缚了创新。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chokehold#English"
+    ]
+  },
+  {
+    "word": "leasehold",
+    "ipa": "英 /ˈliːshəʊld/；美 /ˈliːshoʊld/",
+    "meaning": "租赁权益；按租契期限持有的〔房地产业用语〕",
+    "sense": "并非笼统说永远拥有这块地，而是按租契在约定期限里居住、使用、持有相应权益。",
+    "split": "lease（租契、租赁）+ hold（持有），组合围绕以租契为基础的持有关系。不能从词里直接猜统一租期。",
+    "history": [
+      [
+        "lease；hold〔持有〕",
+        "并列构词部分"
+      ],
+      [
+        "leasehold",
+        "租契下在约定期间使用、持有的权益"
+      ]
+    ],
+    "explanation": "a leasehold flat 租赁权益形式的公寓，buy the leasehold 取得相应租赁权益。具体权利内容随法律体系、租契不同，词义重点是租契与期限。",
+    "usage": "a leasehold flat；buy the leasehold；leasehold property。",
+    "contrast": "leasehold 与 freehold 在一些房产制度里是不同持有形式；freehold 的 free 也不表示买房不用付钱。",
+    "examples": [
+      [
+        "The listing describes the flat as leasehold.",
+        "房源说明写着这套公寓属于租赁权益形式。"
+      ],
+      [
+        "They acquired the leasehold of the old shop.",
+        "他们取得了旧店铺的租赁权益。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leasehold#English",
+      "https://dictionary.cambridge.org/dictionary/english/leasehold"
+    ]
+  }
+]

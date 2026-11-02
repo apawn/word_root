@@ -1,0 +1,147 @@
+"""Everyday shapes, channels, groups, people and objects."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C0165':dict(words=['channel','channels'],label='channel → channels：水道、通路与传播渠道',note='拉丁 canalis 经法语借入；电视、沟通和资源分配按通路理解。'),
+ 'C1340':dict(words=['design','designs'],label='design → designs：标出、构想到设计方案',note='拉丁标记词经法语借入，艺术用途另有意大利影响。'),
+ 'C0427':dict(words=['firm','firms'],label='firm → firms：稳固、确认签名与公司',note='形容词、动词和公司名词的借入路线各自说明。'),
+ 'B2558':dict(words=['gift','gifts'],label='gift → gifts：赠给的东西与天赋',note='北欧及本族相关词史，与 give 同族；天赋作比喻扩展。'),
+ 'B3902':dict(words=['style','styles'],label='style → styles：尖笔到表达方式',note='拉丁 stilus 经法语传入，写字工具联系写作及外观风格。'),
+ 'B3161':dict(words=['band','bands'],label='band → bands：条带、群体与乐队',note='条带义多路汇合；群体义经法语，较深联系绑在一起但细节未定。'),
+ 'B3390':dict(words=['land','lands','landing'],label='land → lands → landing：土地、落地和落脚处',note='本族陆地词，复数可指数块土地、国土；动词为着陆等。'),
+ 'C1118':dict(words=['prisoner','prisoners'],label='prisoner → prisoners：被拘禁的人',note='法语人物名词借入，现代可认 prison 与 er。'),
+ 'C0041':dict(words=['enemy','enemies'],label='enemy → enemies：不友好的一方',note='拉丁不与朋友组合，经法语演变后借入。'),
+ 'B2730':dict(words=['god','gods'],label='god → gods：神与多神传统中的诸神',note='日耳曼本族神祇词，不同文化语境区分大小写。'),
+ 'C0546':dict(words=['hero','heroes'],label='hero → heroes：英雄、楷模与故事主角',note='希腊英雄词经拉丁、法语等进入，更远来源不定。'),
+ 'B2687':dict(words=['hole','holes'],label='hole → holes：缺了一块、空进去',note='古英语孔洞词，抽象缺口与缺陷借同一画面理解。'),
+ 'C1582':dict(words=['inch','inches'],label='inch → inches：十二分之一到英寸',note='拉丁 uncia 早期借入古英语，现代长度单位及缓慢移动分开看。'),
+ 'B3391':dict(words=['lip','lips'],label='lip → lips：嘴唇与边缘',note='本族身体部位词扩展到器物边缘，与说话的表达相连。'),
+ 'B4292':dict(words=['lyric','lyrics'],label='lyric → lyrics：琴伴唱的诗到歌词',note='希腊 lyra 琴及相关形容词经拉丁、法语传入。'),
+ 'C0161':dict(words=['camera','cameras'],label='camera → cameras：暗室到摄影设备',note='希腊、拉丁拱顶房间词，camera obscura 的缩短后用于摄影。'),
+ 'C0622':dict(words=['joke','jokes'],label='joke → jokes：玩笑、笑话与说笑',note='拉丁 iocus 玩笑词借入，英语名词、动词用途分别看。'),
+}
+W('channels','/ˈtʃænəlz/','水道、通道、渠道；频道〔复数〕；引导〔第三人称单数〕',
+ '让水、信息或力量沿着一条路过去，这些路就是 channels。水道是实际的，电视和沟通渠道则把同样的通路功能搬到信息上。',
+ 'channel + -s，/l/ 后读 /z/。channel 经古法语 chanel 接拉丁 canālis 管道，与 canal 同源；动词由名词发展为把流动引入某条通路。',
+ [['拉丁 canālis → 古法语 chanel → channel','水道、管道 → 传播或流通的通路'],['channel + -s → channels','多个渠道、频道；单数主语引导流动']],
+ 'communication channels 沟通渠道；television channels 电视频道；channels water 引水。',
+ 'official channels 正式渠道；channels energy into a project 把精力投入项目。','渠道不一定是一条实体管子，关键是通过哪里传递。channel A into B 作动词时强调把 A 引向 B。',
+ ('The school uses several channels to contact parents.','学校通过几种渠道联系家长。'),('The pipe channels rainwater into a tank.','管道把雨水导入水箱。'),sources=['https://en.wiktionary.org/wiki/channels#English','https://en.wiktionary.org/wiki/channel#English'])
+W('designs','/dɪˈzaɪnz/','设计、图样、方案〔复数〕；设计、构思〔第三人称单数〕',
+ '先想好要做成什么样，再把形状、安排标出来，是 designs 的线索。名词数的是方案、图样，动词说谁在构思设计。',
+ 'design + -s，/n/ 后读 /z/。design 的名词、动词经法语等接拉丁 dēsignāre 标出、选定、构想，含 dē- 与 signāre 标记；艺术用途还受意大利 disegno 等影响。',
+ [['拉丁 dēsignāre → 法语等 → design','标定、构想 → 设计、图样、意图'],['design + -s → designs','多个方案、花样；单数主语设计']],
+ 'designs for a bridge 桥梁设计方案；floral designs 花卉图案；designs furniture 设计家具。',
+ 'compare the designs 比较方案；simple designs 简单图样。','designs 作名词不只指外观图案，也可指结构方案。have designs on something 是对某物有所图谋的习惯表达，常带负面意味。',
+ ('The architect showed us three designs for the library.','建筑师向我们展示了图书馆的三个设计方案。'),('She designs furniture for small rooms.','她为小房间设计家具。'),sources=['https://en.wiktionary.org/wiki/designs#English','https://en.wiktionary.org/wiki/design#English'])
+W('firms','英 /fɜːmz/；美 /fɜːrmz/','公司、商行〔复数〕；使稳固、变坚实〔第三人称单数〕',
+ 'firms 常指一家家经营业务的公司。它和 firm 稳固在远源上有关，但公司义走过签名、商号这一条更具体的历史路线。',
+ 'firm + -s，/m/ 后读 /z/。公司名词接意大利 firma 签名，传播也见德语 Firma 商号；较早拉丁 firmāre 确认、使稳固。稳固的形容词及动词另经法语或拉丁路线。',
+ [['拉丁 firmāre → 意大利 firma、德语等 → firm 公司','签名确认 → 商号、公司'],['firm + -s → firms；动词同形','多家公司；单数主语使坚实、明确']],
+ 'local firms 当地公司；law firms 律师事务所；firms up the plan 使计划更明确。',
+ 'small firms 小企业；firms offering advice 提供咨询的公司。','名词 firms 不是 firm 稳固的复数形容词。firm up 作动词常说把安排敲定、使细节明确，别只译成变硬。',
+ ('Several local firms helped fund the event.','当地几家公司帮助资助了这次活动。'),('Small firms often share offices to reduce costs.','小企业常共用办公室以降低成本。'),sources=['https://en.wiktionary.org/wiki/firms#English','https://www.etymonline.com/word/firm'])
+W('gifts','/ɡɪfts/','礼物、赠品；天赋〔复数〕；赠予〔第三人称单数〕',
+ '没有用交换直接换来，而是给到某人手里的东西，是 gifts。一个人天生特别擅长的能力，也像被赋予的礼物，所以叫 gifts。',
+ 'gift + -s，/t/ 后读 /s/。gift 的现代赠礼义有古诺尔斯 gift、gipt 等来源，与 give 同族；古英语也有婚礼赠与相关词。动词 gift 后由名词等发展。',
+ [['古诺尔斯及本族相关赠与词 → gift','给予的东西 → 礼物；比喻天生能力'],['gift + -s → gifts','多件礼物、多种天赋；单数主语赠予']],
+ 'birthday gifts 生日礼物；gifts for children 给孩子的礼物；musical gifts 音乐天赋。',
+ 'exchange gifts 交换礼物；make the most of your gifts 发挥自己的天赋。','gift 的天赋义不等于每项练出来的技能；它着眼于突出的自然能力。give gifts 是普通搭配，gift somebody something 作动词通常更正式或有特定语境。',
+ ('They exchanged small gifts at the end of the visit.','访问结束时，他们交换了小礼物。'),('The teacher encouraged her to develop her musical gifts.','老师鼓励她发展自己的音乐天赋。'),sources=['https://en.wiktionary.org/wiki/gifts#English','https://en.wiktionary.org/wiki/gift#English'])
+W('styles','/staɪlz/','风格、样式、做法〔复数〕；设计造型〔第三人称单数〕',
+ '同一件事，不同人会写成、做成、呈现成不同样子，这些方式就是 styles。重点是具有辨识度的表达或处理方式。',
+ 'style + -s，/l/ 后读 /z/。style 经法语接拉丁 stilus 写字尖笔；从用来写的笔联系到写法、表达方式，再扩到衣着、建筑等风格。',
+ [['拉丁 stilus → 法语 → style','写字尖笔 → 写法、表达及呈现方式'],['style + -s → styles','多种样式；单数主语设计某种造型']],
+ 'writing styles 写作风格；different styles of music 不同音乐风格；styles her hair 给她的头发做造型。',
+ 'teaching styles 教学方式；architectural styles 建筑风格。','style 与 fashion 有重叠，但 style 可说长期个人风格或处理方式，fashion 常强调一时流行。styles 不只局限于衣服。',
+ ('The course introduces several styles of painting.','课程介绍几种绘画风格。'),('The two teachers have very different teaching styles.','这两位老师的教学风格很不一样。'),sources=['https://en.wiktionary.org/wiki/styles#English','https://en.wiktionary.org/wiki/style#English'])
+W('bands','/bændz/','条带、环带；乐队、群体；频段〔复数〕',
+ '一条连续的带，是 bands 的一个画面；一群聚在一起行动、演奏的人，是另一个常用画面。它们的深层词史可能相连，具体路线不能只凭想象串死。',
+ 'band + -s，/d/ 后读 /z/。条带义汇合古英语 bend、古诺尔斯 band 和法语 bande 等；群体义经法语 bande，可能联系识别带或联结，乐队是群体义的后续扩展。',
+ [['本族、北欧、法语条带词；法语群体词 → band','带状物、联结；有组织的一群人'],['band + -s → bands；专业用途扩展','多条带、多支乐队；划出的频率或数值范围']],
+ 'rubber bands 橡皮筋；local bands 当地乐队；frequency bands 频段。',
+ 'bands of colour 一条条色带；bands playing at the festival 音乐节演出的乐队。','a band of volunteers 是一群志愿者，未必演奏音乐。频段、收入档等 bands 则把连续范围划成一带一带。',
+ ('Several local bands will play at the festival.','几支当地乐队将在音乐节演出。'),('She held the papers together with rubber bands.','她用橡皮筋把那些纸捆在一起。'),sources=['https://en.wiktionary.org/wiki/bands#English','https://www.etymonline.com/word/band'])
+W('lands','/lændz/','土地、国土、地区〔复数〕；着陆、落到、获得〔第三人称单数〕',
+ 'lands 可以把不同土地、远方地区一片片数出来；作动词时则是某个人或东西来到落脚处。land 原来的陆地画面仍很清楚。',
+ 'land + -s，/d/ 后读 /z/。land 继承古英语 land 陆地、土地等，名词及到岸相关动词有早期历史；复数和现在第三人称单数后来同形。',
+ [['古英语 land 等 → land 名词、动词','陆地、土地；到岸、使落地'],['land + -s → lands','多块土地、国土；单数主语落下、着陆']],
+ 'distant lands 遥远的国度；agricultural lands 农业用地；lands at noon 中午着陆。',
+ 'lands on the roof 落到屋顶；lands a role 得到一个角色。','土地作为总体资源常用 land 不可数；lands 常分开指不同地块、地区或国度。lands a job、lands a role 是成功获得的动词扩展。',
+ ('The story takes readers to distant lands.','故事把读者带到遥远的国度。'),('The plane lands at noon.','飞机中午着陆。'),sources=['https://en.wiktionary.org/wiki/lands#English','https://en.wiktionary.org/wiki/land#English'])
+W('prisoners','英 /ˈprɪzənəz/；美 /ˈprɪzənərz/','囚犯、被拘禁者、俘虏〔复数〕',
+ '人的行动被限制，不能自由离开拘禁的地方，就是 prisoners 的处境。战争中的俘虏也可叫 prisoners。',
+ 'prisoner + -s，末尾读 /z/。prisoner 经古法语 prisonier 等借入，现代可认 prison + -er；prison 较早接拉丁 prēnsiō 抓住的词族。这里的 er 指处在拘禁状态的人。',
+ [['拉丁抓住词族 → 法语 prison、prisonier → prisoner','拘禁处、被拘禁的人'],['prisoner + -s → prisoners','多位被拘禁者、囚犯或俘虏']],
+ 'prisoners of war 战俘；release prisoners 释放囚犯；take prisoners 俘虏、拘禁人员。',
+ 'prisoners held in the camp 被拘禁在营地的人；treat prisoners humanely 人道对待被拘禁者。','prisoners 是被关的人，prison guards 是看守。这个 er 不能套成主动执行监禁工作的人；词义要结合整个词的历史。',
+ ('The prisoners were allowed to receive letters.','被拘禁者获准收信。'),('The agreement included the release of prisoners of war.','协议包括释放战俘。'),sources=['https://en.wiktionary.org/wiki/prisoners#English','https://en.wiktionary.org/wiki/prisoner#English'])
+W('enemies','/ˈenəmiz/','敌人、敌对方；危害某物的因素〔复数〕',
+ '站到对立面、会伤害自己一方的人或力量，是 enemies。比喻中，阻碍目标、损害某种东西的因素也可这样叫。',
+ 'enemy 的辅音字母 + y 改 ies。拉丁 in- 不 + amīcus 朋友 → inimīcus 不友好的、敌人，经古法语 enemi 等演变为 enemy；现代形状已不与古典成分逐字对应。',
+ [['拉丁 inimīcus → 古法语 enemi → enemy','不是友好的一方 → 敌人、对立力量'],['enemy：y 改 ies → enemies','多名敌人、多种危害因素']],
+ 'make enemies 树敌；former enemies 昔日敌对双方；natural enemies 天敌。',
+ 'enemies of peace 和平的敌人；turn enemies into allies 化敌为盟。','对手 opponent 可以只是在比赛、讨论中与自己竞争，enemies 通常更有敌意。双方意见不同，不必直接把对方叫 enemies。',
+ ('The story follows two former enemies who become friends.','故事讲述两位昔日敌人后来成为朋友。'),('The island’s birds have few natural enemies.','岛上的鸟很少有天敌。'),sources=['https://en.wiktionary.org/wiki/enemies#English','https://en.wiktionary.org/wiki/enemy#English'])
+W('gods','英 /ɡɒdz/；美 /ɡɑːdz/','诸神、神祇〔复数〕',
+ '在谈有多位神的传统、神话或信仰体系时，把各位神分别数出来，就是 gods。它可以泛谈神祇，也可以说某个故事中的一群神。',
+ 'god + -s，/d/ 后读 /z/。god 继承古英语 god，属日耳曼本族词；更远来源有学术讨论，不凭现代拼写与 good 好直接划等号。',
+ [['古英语 god → god','神、被崇拜的神祇'],['god + -s → gods','多位神祇；不同传统中的诸神']],
+ 'Greek gods 希腊诸神；gods and goddesses 男神与女神；stories about the gods 诸神的故事。',
+ 'ancient gods 古代神祇；statues of gods 神像。','小写 gods 泛指多位神。大写 God 常在特定一神教语境指上帝；大小写和单复数要结合所指对象。',
+ ('The book introduces the gods of ancient Greece.','这本书介绍古希腊诸神。'),('The museum displays statues of several gods.','博物馆展出几位神祇的雕像。'),sources=['https://en.wiktionary.org/wiki/gods#English','https://en.wiktionary.org/wiki/god#English'])
+W('heroes','英 /ˈhɪərəʊz/；美 /ˈhɪroʊz/','英雄、受敬佩的人；故事男主角或主人公〔复数〕',
+ '做了值得敬佩的事、成为别人心中榜样的人，是 heroes。故事里的 hero 还可以是承担主要情节的主人公，角色未必处处完美。',
+ 'hero + -es → heroes，末尾读 /z/。hero 经拉丁 hērōs、法语等接希腊 hērōs 英雄，较早也有神话英雄背景；更早来源未定，不把保护词根分析当定论。',
+ [['希腊 hērōs → 拉丁、法语等 → hero','神话英雄 → 勇敢受敬佩的人；叙事主角'],['hero + -es → heroes','多位英雄或主人公']],
+ 'local heroes 当地英雄；childhood heroes 童年偶像；heroes of the story 故事主人公。',
+ 'ordinary people who became heroes 成为英雄的普通人；celebrate the heroes 赞颂英雄。','hero 的复数常写 heroes，和 photos 的拼写习惯不同，要连词记。叙事 hero 是角色位置，不能只靠这个词判断人物道德完美。',
+ ('The rescue team were welcomed home as heroes.','救援队回家时受到英雄般的欢迎。'),('The novel’s heroes come from very different backgrounds.','小说的几位主人公出身很不一样。'),sources=['https://en.wiktionary.org/wiki/heroes#English','https://en.wiktionary.org/wiki/hero#English'])
+W('holes','英 /həʊlz/；美 /hoʊlz/','孔、洞、坑；缺口、漏洞〔复数〕',
+ '本来该有东西的地方空了一块，或往里凹进去，就是 holes。衣服破洞、路面坑洞、解释中的漏洞，都可抓缺了一块的画面。',
+ 'hole + -s，/l/ 后读 /z/。hole 继承古英语 hol 孔洞，与 hollow 空的同族；证据、预算等抽象缺口是后来的用途。',
+ [['古英语 hol → hole','空进去、穿通的地方 → 孔洞、坑'],['hole + -s → holes；抽象扩展','多个孔洞；解释或安排中的缺失']],
+ 'holes in the road 路上的坑；holes in a theory 理论漏洞；dig holes 挖坑。',
+ 'socks with holes 有破洞的袜子；find holes in the argument 找出论证漏洞。','hole、whole 常同音：hole 是洞，whole 是完整的。holes in a story 强调故事说法有缺口、不自洽之处。',
+ ('There are small holes in the old fence.','旧篱笆上有几个小洞。'),('The reviewer found several holes in the argument.','评审者发现论证中有几个漏洞。'),sources=['https://en.wiktionary.org/wiki/holes#English','https://en.wiktionary.org/wiki/hole#English'])
+W('inches','/ˈɪntʃɪz/','英寸〔复数〕；缓慢移动〔第三人称单数〕',
+ '把一英尺分成十二份，其中一份是一英寸；inches 数的是这样的小段长度。动词 inch 则借很小一段一段的距离表达挪动。',
+ 'inch + -es，/tʃ/ 后增加 /ɪz/。拉丁 uncia 十二分之一早期借入古英语 ynce，经中古英语成为 inch；英语后来发展缓慢挪动的动词。',
+ [['拉丁 uncia → 古英语 ynce → inch','十二分之一 → 一英尺的十二分之一'],['inch + -es → inches；动词扩展','若干英寸；单数主语一点点移动']],
+ 'six inches 六英寸；inches away 相隔几英寸；inches forward 一点点前进。',
+ 'a few inches wide 几英寸宽；inches closer 慢慢靠近。','数字后的单位通常用复数，如 two inches。inch 的动词关注缓慢、小幅移动，不是在每次动作中严格量出一英寸。',
+ ('The shelf is twelve inches deep.','架子深十二英寸。'),('The queue inches forward as people enter the hall.','随着人们进入大厅，队伍一点点向前挪。'),sources=['https://en.wiktionary.org/wiki/inches#English','https://en.wiktionary.org/wiki/inch#English'])
+W('lips','/lɪps/','嘴唇；边缘、口沿〔复数〕',
+ '嘴巴上下柔软的边是 lips。器物开口处突出的边缘，也能按嘴唇的位置、形状来命名。',
+ 'lip + -s，/p/ 后读 /s/。lip 承古英语 lippa、lippe，经中古英语延续；身体部位义后扩展到杯沿等边缘，并进入说话、保密的习惯表达。',
+ [['古英语 lippa、lippe → lip','嘴唇 → 类似嘴唇的口沿、边缘'],['lip + -s → lips','双唇或多处唇状边缘']],
+ 'dry lips 干燥的嘴唇；press your lips together 抿紧嘴唇；read someone’s lips 看口型。',
+ 'a smile on her lips 嘴角带笑；My lips are sealed. 我会守口如瓶。','lips 常用复数谈上下嘴唇整体。read lips 是通过口型理解话语；My lips are sealed 是答应保密，不必按真的封住嘴唇理解。',
+ ('She pressed her lips together and waited.','她抿紧嘴唇等着。'),('He could read her lips through the window.','隔着窗户，他能看口型读出她的话。'),sources=['https://en.wiktionary.org/wiki/lips#English','https://en.wiktionary.org/wiki/lip#English'])
+W('lyrics','/ˈlɪrɪks/','歌词；抒情诗〔复数〕',
+ '一首歌中可以唱出来的那些文字，是日常最常见的 lyrics。旋律让歌有声音的走向，lyrics 则给它具体的话。',
+ 'lyric + -s，/k/ 后读 /s/。lyric 经法语 lyrique、拉丁 lyricus 接希腊 lyrikos，较早 lyra 里拉琴；琴伴唱的诗、抒情诗后来连到歌曲文字。',
+ [['希腊琴与琴伴诗词 → 拉丁、法语 → lyric','适合伴琴歌唱的诗 → 抒情诗、歌词'],['lyric + -s → lyrics','一首歌的歌词；多篇抒情诗']],
+ 'write lyrics 写歌词；the lyrics of a song 一首歌的歌词；remember the lyrics 记得歌词。',
+ 'lyrics and music 歌词和曲子；sing the wrong lyrics 唱错歌词。','一首歌的整套文字也通常说 the lyrics，用复数形式；不必每一行都单独数成一个 lyric。melody 是旋律，lyrics 是文字，两者可以由不同人创作。',
+ ('I remember the tune but not the lyrics.','我记得曲调，却不记得歌词。'),('She writes both the music and the lyrics for her songs.','她自己为歌曲作曲、作词。'),sources=['https://en.wiktionary.org/wiki/lyrics#English','https://www.etymonline.com/word/lyric'])
+W('cameras','英 /ˈkæmərəz/；美 /ˈkæmərəz/','照相机、摄像机、摄像头〔复数〕',
+ '把外面的景象收进一个装置里，再记录下来，是 cameras 的现代用途。较早的光学装置像暗房或暗箱，这也解释了名字为何接房间词。',
+ 'camera + -s，元音后读 /z/。camera 接拉丁 camera 拱顶房间，较早希腊 kamara；摄影设备义经 camera obscura 暗室、暗箱的缩短，再扩展到拍照录像设备。',
+ [['希腊、拉丁房间词 → camera obscura → camera','暗室投像装置 → 记录影像的设备'],['camera + -s → cameras','多台相机、摄像机或摄像头']],
+ 'digital cameras 数码相机；security cameras 监控摄像头；turn off the cameras 关掉摄像头。',
+ 'cameras on phones 手机上的摄像头；cameras recording the event 记录活动的摄像机。','camera 可拍静态照片，也可录制视频，靠具体设备、搭配判断。camera 与 chamber 同源，但 chamber 经法语走了另一条借入路线。',
+ ('The students used cameras to record the experiment.','学生用摄像机记录实验。'),('Please turn off your cameras during the break.','休息期间请关闭摄像头。'),sources=['https://en.wiktionary.org/wiki/cameras#English','https://www.etymonline.com/word/camera'])
+W('jokes','英 /dʒəʊks/；美 /dʒoʊks/','笑话、玩笑〔复数〕；开玩笑〔第三人称单数〕',
+ '说或做一件事，让人把它当作好笑、轻松的内容，是 jokes。名词数笑话、玩笑，动词说明某个人在说笑。',
+ 'joke + -s，/k/ 后读 /s/。joke 接拉丁 iocus 玩笑、游戏；英语动词有从名词形成或直接联系拉丁 iocārī 说笑的分析，现代 -s 变化则很规则。',
+ [['拉丁 iocus、相关说笑词 → joke','玩笑、游戏 → 笑话、说笑'],['joke + -s → jokes','多个笑话；单数主语开玩笑']],
+ 'tell jokes 讲笑话；play jokes on somebody 捉弄某人；jokes about the weather 拿天气开玩笑。',
+ 'a book of jokes 笑话集；jokes with her friends 与朋友说笑。','tell a joke 是讲一个笑话；make a joke about something 是拿某事说笑。主语 + jokes about 也能是动词结构，读懂句子位置再判断。',
+ ('He told a few jokes while we waited for the bus.','等公交车时，他讲了几个笑话。'),('She often jokes about her terrible cooking.','她常拿自己糟糕的厨艺开玩笑。'),sources=['https://en.wiktionary.org/wiki/jokes#English','https://en.wiktionary.org/wiki/joke#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zi',ROOTS,WORDS)
+ extend_lessons()

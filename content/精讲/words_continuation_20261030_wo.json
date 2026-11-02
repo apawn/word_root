@@ -1,0 +1,239 @@
+[
+  {
+    "word": "soup",
+    "ipa": "/suːp/",
+    "meaning": "汤；汤类食品",
+    "sense": "把食材放进液体里做成、能舀着喝或吃的食物，就是 soup。可以很清，也可以很浓，不由这个词限定一种配方。",
+    "split": "借法语 soupe，接晚期拉丁 suppa 浸在汤里的面包，更早来自日耳曼相关词族。名称的关注点从浸食材料发展到汤本身；与 supper、sop 的早期材料有关，不是英语 supper 直接缩成 soup。",
+    "history": [
+      [
+        "日耳曼相关浸食词 → 晚期拉丁 suppa → 法语 soupe",
+        "汤里浸的面包等材料 → 汤"
+      ],
+      [
+        "法语 soupe → 英语 soup",
+        "汤类食品"
+      ]
+    ],
+    "explanation": "vegetable soup 蔬菜汤；a bowl of soup 一碗汤；thick soup 浓汤；soup of the day 当日例汤。不同英语地区、菜系的具体汤品差别很大。",
+    "usage": "make soup；serve soup with bread。",
+    "contrast": "soup 作为食物总称常不可数，如 some soup；餐厅点单时 a soup 可按一份来数，soups 也可说几种汤。broth 常更强调汤汁、清汤或烹调用汤底，具体名称会重叠。",
+    "examples": [
+      [
+        "We made vegetable soup from the carrots left in the fridge.",
+        "我们用冰箱里剩下的胡萝卜做了蔬菜汤。"
+      ],
+      [
+        "She brought a bowl of hot soup and some bread.",
+        "她端来一碗热汤和一些面包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soup#English",
+      "https://www.etymonline.com/word/soup"
+    ]
+  },
+  {
+    "word": "soups",
+    "ipa": "/suːps/",
+    "meaning": "多种汤；几份汤〔点单等语境〕；soup 的可数复数",
+    "sense": "把汤当一类食物时不必数；区分番茄汤、蘑菇汤几种选择，或点几份汤时，就能说 soups。",
+    "split": "soup + -s，/p/ 后读 /s/。soup 经法语 soupe 接晚期拉丁 suppa 与更早日耳曼浸食词族，现代可数用法按种类、份量区分。",
+    "history": [
+      [
+        "日耳曼相关材料 → 晚期拉丁 suppa → 法语 soupe → soup",
+        "浸食、汤的词族 → 英语汤名"
+      ],
+      [
+        "soup + -s → soups",
+        "几种汤；约定场景里的几份汤"
+      ]
+    ],
+    "explanation": "two soups 两种或两份汤；homemade soups 家常汤品；a selection of soups 多种可选汤品。",
+    "usage": "soups on the menu；hot and cold soups。",
+    "contrast": "There is soup in the pot 说锅里有汤；The menu lists three soups 说菜单有三种汤。用复数时，通常能从语境看出你数的是种类还是份数。",
+    "examples": [
+      [
+        "The menu offers three soups, including a cold tomato soup.",
+        "菜单上有三种汤，其中一种是冷番茄汤。"
+      ],
+      [
+        "We ordered two soups and a plate of bread.",
+        "我们点了两份汤和一盘面包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soups#English",
+      "https://en.wiktionary.org/wiki/soup#English"
+    ]
+  },
+  {
+    "word": "soupy",
+    "ipa": "/ˈsuːpi/",
+    "meaning": "像汤一样稀的、浓稠流动的；浓雾弥漫的；过分感伤的〔部分口语语境〕",
+    "sense": "先想汤那种可以流动、带水分的质感：菜做得太稀像汤，可以说 soupy；雾像一锅浓汤，也能借这个感觉形容。",
+    "split": "soup + -y，-y 在这里形成像……的、带……性质的形容词，直接加在 p 后。部分情绪义是后来的比喻，具体要看语境。",
+    "history": [
+      [
+        "法语 soupe 等 → 英语 soup",
+        "汤"
+      ],
+      [
+        "soup + -y → soupy",
+        "汤一样的质感；再有雾浓、过分感伤等比喻"
+      ]
+    ],
+    "explanation": "a soupy mixture 稀得像汤的混合物；soupy fog 浓得像汤的雾；soupy sentiment 过分感伤的情绪表达。",
+    "usage": "too soupy；thick and soupy。",
+    "contrast": "soupy 不固定等于稀薄：食物语境可能说水分多、太稀，雾的语境却强调又浓又浑。共同点是像汤的质感，具体评价要看它修饰什么。",
+    "examples": [
+      [
+        "The mixture looked too soupy, so we let it cook a little longer.",
+        "混合物看着太稀，我们就让它多煮了一会儿。"
+      ],
+      [
+        "A soupy fog covered the harbour at dawn.",
+        "黎明时，浓雾笼罩着港口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soupy#English"
+    ]
+  },
+  {
+    "word": "tunnel",
+    "ipa": "/ˈtʌnəl/",
+    "meaning": "隧道、地下通道；挖隧道、掘进",
+    "sense": "从山下、地下或水底穿过去的一条长通道，是 tunnel。也能用作动词，说把这样一条通道挖出来。",
+    "split": "经古法语 tonel、tonnelle 等传入，与 tonne 桶的指小形式相连；英语较早有长筒形捕鸟网、管道等义，后来用于地下通道。和 ton 的桶形计量材料有历史联系，但不是现代英语 ton + -nel。",
+    "history": [
+      [
+        "古法语 tonne → tonel／tonnelle 等 → 早期英语 tunnel",
+        "桶形相关指小材料；长筒形网、管道"
+      ],
+      [
+        "英语 tunnel 的语义、词性扩展",
+        "地下通道、动物地道；动词挖通道"
+      ]
+    ],
+    "explanation": "a railway tunnel 铁路隧道；a tunnel under the river 河底隧道；tunnel through rock 在岩石中掘进；tunnel vision 字面是视野变窄，也常比喻眼光局限。",
+    "usage": "go through a tunnel；build a tunnel。",
+    "contrast": "tunnel 强调穿过障碍内部的通道，bridge 通过跨越障碍把两边接起来。tunnel vision 在日常讨论中常批评只盯着一点、忽略全局。",
+    "examples": [
+      [
+        "The train entered a tunnel beneath the hill.",
+        "火车驶入山下的一条隧道。"
+      ],
+      [
+        "The workers had to tunnel through a layer of hard rock.",
+        "工人们得穿过一层坚硬岩石掘进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tunnel#English",
+      "https://www.etymonline.com/word/tunnel"
+    ]
+  },
+  {
+    "word": "tunnels",
+    "ipa": "/ˈtʌnəlz/",
+    "meaning": "隧道、地下通道〔复数〕；挖通道〔tunnel 的第三人称单数〕",
+    "sense": "山体里的通道、地下连起来的通路，数多条时是 tunnels。作动词则说某个动物或机器在地下掘进。",
+    "split": "tunnel + -s，/l/ 后读 /z/。tunnel 接法语 tonel、tonnelle 等桶形指小材料，英语由管状网、管道等义发展到隧道，动词再由名词形成。",
+    "history": [
+      [
+        "法语桶形相关形式 → 英语 tunnel",
+        "管状物等早期意义 → 隧道"
+      ],
+      [
+        "tunnel 名词、动词 + -s → tunnels",
+        "多条隧道、地道；单数主语掘进"
+      ]
+    ],
+    "explanation": "railway tunnels 铁路隧道；underground tunnels 地下通道；tunnels beneath ... 在……下面打洞；tunnels through soil 在土里挖通路。",
+    "usage": "a network of tunnels；tunnels under the wall。",
+    "contrast": "tunnels 表通路，holes 只说洞、孔，本身不必延伸成一条路。The animal tunnels 中 tunnels 是动词，The tunnels are narrow 中才是复数名词。",
+    "examples": [
+      [
+        "The old town has a network of tunnels beneath its streets.",
+        "这座老城的街道下面有一片相连的地下通道。"
+      ],
+      [
+        "The animal tunnels beneath the fence.",
+        "这只动物在篱笆下面打洞穿过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tunnels#English",
+      "https://en.wiktionary.org/wiki/tunnel#English"
+    ]
+  },
+  {
+    "word": "tunneling",
+    "ipa": "/ˈtʌnəlɪŋ/",
+    "meaning": "挖隧道、掘进；tunnel 的美式常见 -ing 拼写；量子隧穿〔技术语境〕",
+    "sense": "沿着障碍内部开出一条通道，是日常的 tunneling。名词用法也能把这个掘进过程整体拿出来说。",
+    "split": "tunnel + -ing，美式常写一个 l：tunneling；英式常双写 l：tunnelling，读音通常相同。这里讲挖通道的常用义，量子物理另有固定术语义。",
+    "history": [
+      [
+        "法语相关形式 → 英语 tunnel",
+        "管状物、通道 → 隧道"
+      ],
+      [
+        "tunnel + -ing → tunneling〔美式常见〕",
+        "进行中的掘进；掘进这一过程"
+      ]
+    ],
+    "explanation": "tunneling through rock 在岩层中掘进；tunneling work 隧道掘进工程；a tunneling machine 隧道掘进机。技术文献中的 quantum tunneling 是专门术语，另按完整术语理解。",
+    "usage": "tunneling under a road；tunneling work at the site。",
+    "contrast": "tunneling 与 tunnelling 主要是拼写习惯差别，不表示挖的东西不同。英式常在加 -ing 时双写词尾 l，美式常保留一个。",
+    "examples": [
+      [
+        "Tunneling through the hard rock took longer than expected.",
+        "穿过这层硬岩掘进，比预计花了更长时间。"
+      ],
+      [
+        "The crew began tunneling under the road in spring.",
+        "施工队春天开始在道路下面掘进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tunneling#English",
+      "https://en.wiktionary.org/wiki/tunnel#English"
+    ]
+  },
+  {
+    "word": "tunnelling",
+    "ipa": "/ˈtʌnəlɪŋ/",
+    "meaning": "挖隧道、掘进；tunnel 的英式常见 -ing 拼写；隧穿〔技术语境〕",
+    "sense": "把 tunnel 当动作，就有正在挖通道的 tunnelling；英式拼写常多写一个 l，表达的动作和美式 tunneling 一样。",
+    "split": "tunnel + -ing，英式通常双写末尾 l，成 tunnelling；双写不增加一个音节，也不读两个独立的 /l/。",
+    "history": [
+      [
+        "英语 tunnel 名词 → 相应挖通道动词",
+        "隧道 → 打通道、掘进"
+      ],
+      [
+        "tunnel 双写 l + -ing → tunnelling〔英式常见〕",
+        "进行中的掘进；掘进过程"
+      ]
+    ],
+    "explanation": "tunnelling beneath a city 在城市下面掘进；tunnelling equipment 隧道掘进设备；tunnelling work 隧道掘进工作。",
+    "usage": "tunnelling through rock；a tunnelling project。",
+    "contrast": "写作时可按所用英式或美式习惯保持一致。tunnel 的重音在第一音节；这里英式双写 l 的习惯，不能机械推广成所有双音节词都双写尾辅音。",
+    "examples": [
+      [
+        "The tunnelling work continued beneath the station.",
+        "车站下面的隧道掘进工作继续进行。"
+      ],
+      [
+        "New equipment made tunnelling through the hillside easier.",
+        "新设备让穿过山坡掘进变得容易了一些。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tunnelling#English",
+      "https://en.wiktionary.org/wiki/tunnel#English"
+    ]
+  }
+]

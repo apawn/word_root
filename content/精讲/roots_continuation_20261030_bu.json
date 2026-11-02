@@ -1,0 +1,92 @@
+[
+  {
+    "id": "B2990",
+    "meaning": "条棒名词与刺、固定的旧动词；用途和粘附分组",
+    "core": "STICK：细棒；另一支是扎住、固定，再到粘住和坚持",
+    "image": "stick → sticky、sticker 接附着；条棒物按化妆、乐器、清扫、量测等用途分；slapstick 舞台道具到喜剧，nonstick 否定粘附。",
+    "intro": "名词、动词都有旧英语路径，不编成现代木棍临时变粘贴。chapstick 商标背景、joystick 命名动机未全确定，保留原有共享精讲。",
+    "forms": "stick—stuck—stuck；stick + -y/-er；lip/chap/drum/broom/match/dip/yard/slap/joy/candle + stick；non- + stick；stick + man。\n\nstick → stuck → stuck；stuck 作形容词常说无法移动、无法推进，be stuck on 也有着迷、偏爱等搭配义。\n\nticket 与 etiquette 经法语标签、便条词分化，较早接粘附、刺入的日耳曼语材料，与 stick 为历史同族；礼仪演化的具体小纸条故事有不同解释，不能当确定事实。\n\n标签便条词借入，按证明、记录用途扩展。\n\n古英语名词 sticca、动词 stician 各有传承，现代复数、三单同形。\n\n古英语 stician 词族与名词 sticca 分传，不把所有动作由现代木棍名词派生。\n\n具体命名动机有争议，杆状操作件的形态用途清楚。\n\n标签、便条的借词进入票证名称；动词由名词发展，ticketing 在不同场景可说售票工作或开违规通知。\n\nsticker 早有刺、附着者等用法，后来指黏性标签。现代复数 -s，贴纸为重点，不列罕见旧义。",
+    "branches": [
+      [
+        "基本词、附着和标签",
+        "stick · sticky · sticker · nonstick"
+      ],
+      [
+        "外形、用品和操控",
+        "lipstick · chapstick · drumstick · broomstick · matchstick · joystick · candlestick"
+      ],
+      [
+        "量测与比喻",
+        "dipstick · yardstick"
+      ],
+      [
+        "舞台和线条人物",
+        "slapstick · stickman"
+      ],
+      [
+        "stick 与 stuck：粘住、卡住",
+        "stick · stuck"
+      ],
+      [
+        "贴上的纸条：ticket 与 etiquette",
+        "stick · ticket · etiquette"
+      ],
+      [
+        "ticket → tickets：纸条、凭证与事务记录",
+        "ticket · tickets"
+      ],
+      [
+        "stick → sticks：小棍、刺入与固定不动",
+        "stick · sticks · stuck"
+      ],
+      [
+        "stick → sticking：固定住、粘住、坚持",
+        "stick · sticks · sticking"
+      ],
+      [
+        "stick 的控制器组合 joystick 及复数",
+        "stick · joystick · joysticks"
+      ],
+      [
+        "ticket 的票证、开票、违规通知及工作",
+        "ticket · ticketed · ticketing"
+      ],
+      [
+        "stick 黏附 + -er 物 → stickers",
+        "stickers"
+      ]
+    ],
+    "contrasts": "stuck 过去分词；lipstick 口红、chapstick 源商标；drumstick 鼓槌或鸡小腿；yardstick 标准；slapstick 肢体喜剧。",
+    "practice": "The sticker would not stick to the smooth nonstick surface.\n\n贴纸粘不住那块光滑的不粘表面。",
+    "words": [
+      "stick",
+      "sticky",
+      "sticker",
+      "nonstick",
+      "lipstick",
+      "chapstick",
+      "drumstick",
+      "broomstick",
+      "matchstick",
+      "joystick",
+      "candlestick",
+      "dipstick",
+      "yardstick",
+      "slapstick",
+      "stickman",
+      "stuck",
+      "ticket",
+      "etiquette",
+      "tickets",
+      "sticks",
+      "sticking",
+      "joysticks",
+      "ticketed",
+      "ticketing",
+      "stickers"
+    ],
+    "exclude": {
+      "strike-stick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "B4548",
+    "meaning": "铃声、击打与暗脏近形词，要分来源和读音",
+    "core": "DING：叮声与小磕痕；DINGY 另看暗脏",
+    "image": "ding /dɪŋ/；dingy /ˈdɪndʒi/，学习时放近对比，历史上不硬当直接派生。",
+    "intro": "同形、近形词尤其容易被一个画面误导。声音可模仿，凹痕可从碰击理解，灰扑扑的 dingy 则来自另一个方言材料。",
+    "forms": "击打 ding 接中古英语、可能北欧语材料；铃声 ding 拟声；常用 dingy 远源不确定，不按铃声加词尾推暗脏。",
+    "branches": [
+      [
+        "声音、碰损与近形对照",
+        "ding · dingy"
+      ]
+    ],
+    "contrasts": "ding 的 ng 与 dingy 中的 /ndʒ/ 不同；dingy 不是所有 dim 的同义替换。",
+    "practice": "A phone dinged in the dingy office.\n\n暗脏的办公室里，一部手机叮了一声。",
+    "words": [
+      "ding",
+      "dingy"
+    ],
+    "exclude": {
+      "dinger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4486",
+    "meaning": "引入、引导进入，由具体导入走向多种专业过程",
+    "core": "INDUCTION：把什么引入，要看领域",
+    "image": "induction 在入职、推理、电磁等场景中分别理解。",
+    "intro": "新员工被引入岗位是入职培训，从一些实例走向一般判断是归纳，电磁感应则是物理固定术语。不能只用一个汉语词包住所有领域。",
+    "forms": "拉丁 inducere、inductio 等引入材料 → induction。现代理解须对照 employment、reasoning、electromagnetic 等限定。",
+    "branches": [
+      [
+        "导入与领域专门义",
+        "induction"
+      ]
+    ],
+    "contrasts": "归纳与演绎不同；induction 的物理义也不是普通引导员工的字面过程。",
+    "practice": "The word induction has different meanings in staff training and physics.\n\ninduction 在员工培训和物理学里有不同意思。",
+    "words": [
+      "induction"
+    ],
+    "exclude": {
+      "self-induction": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meta-induction": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4415",
+    "meaning": "振动、共鸣的历史材料，走向活力与鲜明",
+    "core": "VIBRANT：像有生命力一样，鲜活地跳起来",
+    "image": "vibrant → vibrancy、vibrantly。",
+    "intro": "街区有活力、颜色鲜艳、声音有共鸣，现代都能用 vibrant。解释共通感觉，不要求实物每次真在震动。",
+    "forms": "拉丁 vibrare、vibrans → 法语 vibrant → 英语；-ant 改 -ancy 成性质名词；接 -ly 成方式副词。\n\n感受义缩自 vibration、vibrations；乐器 vibes 又有从 vibraphone 缩短的近路，较早都连振动材料。",
+    "branches": [
+      [
+        "性质、活力与表现方式",
+        "vibrant · vibrancy · vibrantly"
+      ],
+      [
+        "振动词族的缩短：vibe、vibes 的感受与氛围",
+        "vibrant · vibration · vibe · vibes"
+      ]
+    ],
+    "contrasts": "vibrancy 与 vibration 不同；vibrant 与 violent 也不同。",
+    "practice": "Vibrantly painted walls add vibrancy to the already vibrant street.\n\n色彩鲜明的墙面，为本就活跃的街道增添了鲜活感。",
+    "words": [
+      "vibrant",
+      "vibrancy",
+      "vibrantly",
+      "vibration",
+      "vibe",
+      "vibes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3993",
+    "meaning": "穿着与包覆，从人的衣服到物的外层",
+    "core": "CLAD：给人或实物覆上一层",
+    "image": "clad → cladding；ironclad 铁甲、牢靠性质另看固定发展。",
+    "intro": "人穿衣、墙披石材、光纤有包层，帮助连起覆盖这个核心。比喻 ironclad 还会走向牢不可破，不代表真的有铁。",
+    "forms": "clothe 的旧分词等形式 → clad；覆盖动词再发展；clad + -ing 双写 d → cladding。",
+    "branches": [
+      [
+        "穿着、覆盖与外层",
+        "clad · cladding"
+      ],
+      [
+        "铁甲及牢靠比喻",
+        "ironclad"
+      ]
+    ],
+    "contrasts": "clad 不是 cloud；cladding 不一律等于服装 clothing，也不一律是承重结构。",
+    "practice": "The stone-clad entrance contrasts with the wooden cladding above it.\n\n覆石的入口与上方木质外墙形成对比。",
+    "words": [
+      "clad",
+      "cladding",
+      "ironclad"
+    ],
+    "exclude": {
+      "black-clad": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4569",
+    "meaning": "共同体关系、共有与共同生活，专门语境也可强调群体边界",
+    "core": "COMMUNAL：这部分归这一群人共同使用",
+    "image": "communal → communally、communalism。",
+    "intro": "厨房共用的日常例子最容易进入；读到政治社会文本，再留意 communalism 在不同地区的专门重心。",
+    "forms": "communis → communalis → 法语 communal → 英语；-ly 方式；-ism 制度、取向。",
+    "branches": [
+      [
+        "共用性质、方式与制度",
+        "communal · communally · communalism"
+      ]
+    ],
+    "contrasts": "communal、public 的开放范围不总相同；communally、commonly 不是同义；communalism、communism 也不同。",
+    "practice": "The communal garden is communally maintained.\n\n公共花园由使用它的这群人共同维护。",
+    "words": [
+      "communal",
+      "communally",
+      "communalism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3681",
+    "meaning": "带一点水分的状态，以及补上水分的动作",
+    "core": "MOIST：留着水分，没干掉",
+    "image": "moist → moisten。",
+    "intro": "蛋糕不干、土壤微湿，从实物进入就清楚。形容词说目前状态，动词说把干的东西润湿或自己变湿。",
+    "forms": "古法语 moiste 等 → moist；moist + -en → moisten。moist 的 t 发音，moisten 中通常不发。",
+    "branches": [
+      [
+        "湿润状态与变化动作",
+        "moist · moisten"
+      ]
+    ],
+    "contrasts": "moist 不一定贬义；moisten 不一定浸透，不等于每次都 soak。",
+    "practice": "Moisten the dry cloth until it feels moist.\n\n把干布润湿，直到摸起来微湿。",
+    "words": [
+      "moist",
+      "moisten"
+    ],
+    "exclude": {
+      "moist-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4366",
+    "meaning": "确定任务、资源归属，进入能力、人物与重新安排",
+    "core": "ASSIGN：这件事，交给谁或定作什么用途",
+    "image": "assign → assignable、assignee；reassign 重新分配。",
+    "intro": "任务、房间、按键功能都可以分配。分配动作、能否分配、被分配到的人与重新安排，是相连而不同的层次。",
+    "forms": "拉丁 assignare → 法语相应形式 → assign；-able 可；-ee 接受者；re- 重新。",
+    "branches": [
+      [
+        "分配及相关能力、人物",
+        "assign · assignable · assignee"
+      ],
+      [
+        "重新安排",
+        "reassign"
+      ]
+    ],
+    "contrasts": "assignable 不等于已经 assigned；assignee 看接受者位置，不是执行分配动作的人。",
+    "practice": "The assignable task was assigned, then reassigned to another assignee.\n\n这项可分配任务先被指派，后来又改派给另一位接受者。",
+    "words": [
+      "assign",
+      "assignable",
+      "assignee",
+      "reassign"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4348",
+    "meaning": "咖啡因物质名，以及含有它的性质",
+    "core": "CAFFEINE：认物质，再看饮品里有没有",
+    "image": "caffeine → caffeinated。",
+    "intro": "名称来自咖啡相关材料，物质却不只在咖啡里出现。咖啡味、含咖啡因、精神振奋分别看，不能混为一个条件。",
+    "forms": "法语咖啡相关化学名称 → caffeine；-ated 或相应动词分词形成 caffeinated。",
+    "branches": [
+      [
+        "物质与含有性质",
+        "caffeine · caffeinated"
+      ]
+    ],
+    "contrasts": "caffeinated 可包括天然含有，不等于每次都额外添加咖啡因。",
+    "practice": "The list compares the caffeine content of several caffeinated drinks.\n\n清单比较了几种含咖啡因饮料的咖啡因含量。",
+    "words": [
+      "caffeine",
+      "caffeinated"
+    ],
+    "exclude": {
+      "caffeine-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

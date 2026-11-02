@@ -1,0 +1,82 @@
+[
+  {
+    "id": "B2606",
+    "meaning": "排泄物、排便；粗俗泛指、抱怨与评价",
+    "core": "SHIT：从身体词，扩成强烈情绪和东西、事情的泛称",
+    "image": "shitty camera 说相机烂；shitload of work 说工作多；shitshow 说场面糟；shitpost 则是网络中的特定帖子或发帖行为。",
+    "intro": "shit 接古英语排泄动作、物质名称的相应材料，属于古老词族。现代很多固定口语已经主要传递情绪、评价，不能全部按粪便字面翻。",
+    "forms": "shit + -y → shitty，双写 t；shit + load → shitload；shit + show → shitshow；shit + post → shitpost；bullshit 取胡扯、废话等固定发展。",
+    "branches": [
+      [
+        "基本词与质量评价",
+        "shit · shitty"
+      ],
+      [
+        "数量与混乱局面",
+        "shitload · shitshow"
+      ],
+      [
+        "废话、帖子及网络用法",
+        "bullshit · shitpost"
+      ]
+    ],
+    "contrasts": "shitload 指数量很多，不说明东西一定差；good shit 可能是粗俗夸奖；shitpost 也不必每次是试图让人信以为真的假信息。",
+    "practice": "The team had a shitload of work after the meeting turned into a shitshow.\n\n那场会搞成烂摊子后，团队多了一大堆工作。",
+    "words": [
+      "shit",
+      "shitty",
+      "shitload",
+      "shitshow",
+      "bullshit",
+      "shitpost"
+    ],
+    "exclude": {
+      "shit-sucking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shithead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dipshit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horseshit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitstorm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shithouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitbag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitfaced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shit-stirrer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chickenshit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "apeshit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shit-stabber": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3325",
+    "meaning": "母狗；粗鲁人物贬称；刻薄和抱怨的词族",
+    "core": "BITCH：动物名称与人物评价分开读",
+    "image": "bitch 在动物场景可指母狗，bitchy remark 常是刻薄话；bitch about 又是抱怨某事，不能都按动物来理解。",
+    "intro": "英语从古英语 bicce 延续动物名词，后来出现人物贬称；抱怨动词与刻薄形容词等又有后续交织。更远词源、个别扩义细节存在争论。",
+    "forms": "bitch + -y → bitchy。动物名词、人物辱骂、发牢骚动词与刻薄性质，分别按具体句子取义。",
+    "branches": [
+      [
+        "动物称呼与人物贬称",
+        "bitch"
+      ],
+      [
+        "说话态度和抱怨",
+        "bitch〔动词〕· bitchy"
+      ]
+    ],
+    "contrasts": "bitch 与 beach 发音、含义不同；bitchy 是带恶意的刻薄，不等于所有有根据的批评。",
+    "practice": "He stopped bitching and replaced the bitchy comment with a useful suggestion.\n\n他不再发牢骚，把那句刻薄话改成了有用的建议。",
+    "words": [
+      "bitch",
+      "bitchy"
+    ],
+    "exclude": {
+      "he-bitch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "she-bitch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bitch-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bih": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bitched": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

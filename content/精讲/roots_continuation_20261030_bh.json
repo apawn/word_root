@@ -1,0 +1,131 @@
+[
+  {
+    "id": "B4542",
+    "meaning": "运动类别到人物、体育风度和衣着",
+    "core": "SPORTS：运动这一类；后面说明人、风度还是服装",
+    "image": "已有 sport、sports 先读，sportsman/sportsperson 连着比较，sportsmanship 品格，sportswear 衣着。sportsbook 暂略较专门博彩义。",
+    "intro": "复数形式常作类别修饰，别把每个 s 当独立新词根。人物称呼里的男性成分不限制 sportsmanship 只能用于男性。",
+    "forms": "sport + -s；sports + man/person/wear；sports + -manship。",
+    "branches": [
+      [
+        "基本活动与人物",
+        "sport · sports · sportsman · sportsperson"
+      ],
+      [
+        "品格和服装",
+        "sportsmanship · sportswear"
+      ]
+    ],
+    "contrasts": "sportsman 通常男性、sportsperson 不指定；sportsmanship 风度不只是技术；sportswear 服装不同于全部运动器材。",
+    "practice": "The sportsperson showed good sportsmanship after losing the match.\n\n这位运动员输掉比赛后仍展现出良好体育风度。",
+    "words": [
+      "sport",
+      "sports",
+      "sportsman",
+      "sportsperson",
+      "sportsmanship",
+      "sportswear"
+    ],
+    "exclude": {
+      "sportsbook": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2586",
+    "meaning": "笑动作与笑声；好玩和荒唐评价分开",
+    "core": "LAUGH：笑出来；LAUGHTER：整体笑声",
+    "image": "laugh → laughing，再 laughter 旧名词，laughable 现代常作贬义评价；冷门 laugher 暂略。",
+    "intro": "笑不只高兴，也可能紧张或嘲讽；意思要连动作对象、语气一起读。laughter 的结尾不硬拆人物后缀。",
+    "forms": "laugh + -ing/-able；旧 hleahtor → laughter；gh 在 laugh 中读 /f/。\n\n古英语本族笑动词；现代过去式在 f 后读 t。\n\n古英语本族笑词；现代 gh 读 f，s 接在清辅音后。",
+    "branches": [
+      [
+        "动作、活动和声音",
+        "laugh · laughing · laughter"
+      ],
+      [
+        "可笑评价",
+        "laughable"
+      ],
+      [
+        "laugh → laughed：gh 读 f 的笑声",
+        "laugh · laughed"
+      ],
+      [
+        "laugh → laughs：笑声与发笑动作",
+        "laugh · laughs"
+      ]
+    ],
+    "contrasts": "laugh 有笑声、smile 可无声；laughter 不可数不同于 a laugh；laughable 常贬荒唐，不是夸幽默。",
+    "practice": "The laughable excuse made everyone burst out laughing.\n\n那个荒唐借口让大家突然笑了起来。",
+    "words": [
+      "laugh",
+      "laughing",
+      "laughter",
+      "laughable",
+      "laughed",
+      "laughs"
+    ],
+    "exclude": {
+      "laugh-out-loud": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "laugher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3559",
+    "meaning": "引导与方向；没有目标、指引的扩展",
+    "core": "DIRECTION：往哪儿去、怎样做；-less 缺少方向",
+    "image": "已有 direction、directional 先读，directionless 否定；misdirection、redirection 继续比较错误引导与重新导向。",
+    "intro": "方向也可抽象为目标、指导；无方向词不用几何学硬解。",
+    "forms": "direction + -al/-less；mis-/re- + direction。\n\n拉丁 directio 经法语或直接借入，英语复数发展常用指路、使用说明义。",
+    "branches": [
+      [
+        "方向、性质和缺少方向",
+        "direction · directional · directionless"
+      ],
+      [
+        "引导的变化",
+        "misdirection · redirection"
+      ],
+      [
+        "direction → directions：方向与一步步指示",
+        "direction · directions"
+      ]
+    ],
+    "contrasts": "directionless 没方向不同于 redirection 换方向；misdirection 误导；具体 direction 还可指导说明。",
+    "practice": "A clear direction helped the directionless team move forward.\n\n清楚的方向帮助迷失目标的团队继续前进。",
+    "words": [
+      "direction",
+      "directional",
+      "directionless",
+      "misdirection",
+      "redirection",
+      "directions"
+    ],
+    "exclude": {
+      "self-direction": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3300",
+    "meaning": "现金与不用实物现金的付款方式",
+    "core": "CASH：现金；CASHLESS：付款不用纸币硬币",
+    "image": "已有 cash 先读，再 cashless，把现金形式与是否付费分清。",
+    "intro": "钱箱到现金的历史已有基础词精讲。-less 此处多否定实物现金的使用，不否定交易金额。",
+    "forms": "cash + -less。",
+    "branches": [
+      [
+        "现金和支付形式",
+        "cash · cashless"
+      ]
+    ],
+    "contrasts": "cashless 无现金形式、free 免费；电子付款仍有资金转移。",
+    "practice": "The cashless café does not accept cash.\n\n这家采用无现金支付的咖啡馆不收实物现金。",
+    "words": [
+      "cash",
+      "cashless"
+    ],
+    "exclude": {
+      "e-cash": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

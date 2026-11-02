@@ -1,0 +1,85 @@
+[
+  {
+    "id": "B2955",
+    "meaning": "支付、薪酬；付出以结清或换取",
+    "core": "PAY：把应给的交出去，或把资源投入一件事",
+    "image": "钱从付款方送到收款方；不只付账，也能付出注意、努力。",
+    "intro": "pay 经古法语接拉丁 pācāre，语义有平息、满足到结清、支付的发展。现代普通过去式 paid，paid、paying 的角色关系不能混。",
+    "forms": "先学 pay、paid、paying、payment；payer 与 payee 一起对照方向，payable 说应付，repay、prepay、overpay 说时间和数量变化。工资放 payroll、paycheck、payday、paymaster 一组，场景复合词再读 payphone、paywall、payload、copay。\n\n法语付款名词借入，现代对应 pay 与 ment。\n\n法语接拉丁 pacare 使平静、满足，现代支付、回报义要分场景。\n\npayout 对应 pay out 的付出，payoff 对应 pay off 的给付、回报等用途，payday 为 pay 名词加 day。连写名词与分写动词短语各按语法认。\n\n与 pay 比较缴纳，不是 pay 派生。guild 融合古英语 gegield 共同体、gield 缴纳等义，又受北欧 gildi 影响；较远与 yield 的缴纳、回报旧词族有关，联系共同出资、互助团体。\n\nprepaid 是 prepay 的过去式、过去分词及常见形容词；paid 接 pay 的不规则词形，不补造一个现代普通 -ed 拼法。",
+    "branches": [
+      [
+        "支付与角色",
+        "pay · paid · paying · payment · payer · payee · payable"
+      ],
+      [
+        "回返、预付与过量",
+        "repay · prepay · overpay"
+      ],
+      [
+        "工资及负责发放",
+        "payroll · paycheck · payday · paymaster"
+      ],
+      [
+        "公共服务、网络与载荷",
+        "payphone · paywall · payload · copay"
+      ],
+      [
+        "payment → payments：付款与一笔笔款项",
+        "payment · payments"
+      ],
+      [
+        "pay → pays：付出、结清与值得",
+        "pay · pays · paid · paying"
+      ],
+      [
+        "payout、payoff、payday：给出去的钱、所得效果、付薪日",
+        "payout · payouts · payoff · payoffs · payday · paydays"
+      ],
+      [
+        "guild：旧缴纳、共同出资材料到行会",
+        "guild · guilds"
+      ],
+      [
+        "pre- 预先 + paid 已支付 → prepaid",
+        "prepaid"
+      ]
+    ],
+    "contrasts": "payer 付款，payee 收款。paid 已付、有报酬，payable 应付、可付。payload 不表示每件货都还欠运费；paying customer 与 paid employee 分处给钱、收钱两边。",
+    "practice": "The payer checked the payee’s name before making the payment.\n\n付款人在付款前核对了收款人姓名。",
+    "words": [
+      "pay",
+      "paid",
+      "paying",
+      "payment",
+      "payer",
+      "payee",
+      "payable",
+      "repay",
+      "prepay",
+      "overpay",
+      "payroll",
+      "paycheck",
+      "payday",
+      "paymaster",
+      "payphone",
+      "paywall",
+      "payload",
+      "copay",
+      "payments",
+      "pays",
+      "payout",
+      "payouts",
+      "payoff",
+      "payoffs",
+      "paydays",
+      "guild",
+      "guilds",
+      "prepaid"
+    ],
+    "exclude": {
+      "pay-as-you-go": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-pay": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "payless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

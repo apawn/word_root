@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3567",
+    "meaning": "狭长带状物及胶粘、记录；taper 常用义另源",
+    "core": "TAPE：同一条带，能粘、能量、也能记录",
+    "image": "tape → mixtape、videotape、audiotape；tapeworm 取带状外形；taper 渐细义另走蜡烛、火焰形状线。",
+    "intro": "把用途和形态分开，扩展就好懂。尤其 taper 的拼写看似 tape 加 r，最常用的渐细义却不是录制者。",
+    "forms": "tæppa → tape；mix/video/audio + tape；tape + worm；古英语 tapor 蜡烛旧词 → taper，与 tape 另分来路。\n\n带状物名称扩大为胶带、录音录像带；相关动词按对象选择。",
+    "branches": [
+      [
+        "基本带状材料及录制",
+        "tape · mixtape · videotape · audiotape"
+      ],
+      [
+        "动物外形",
+        "tapeworm"
+      ],
+      [
+        "同形分路：渐细",
+        "taper"
+      ],
+      [
+        "tape 的物件、黏贴与录制形式",
+        "tape · tapes · taped · taping"
+      ]
+    ],
+    "contrasts": "tape 不都粘，也不都录音；mixtape 可数字发布；taper 渐细不是 tape + -er 的普通人物义。",
+    "practice": "The tape marks where the wooden pole begins to taper.\n\n胶带标出了木杆开始逐渐变细的位置。",
+    "words": [
+      "tape",
+      "mixtape",
+      "videotape",
+      "audiotape",
+      "tapeworm",
+      "taper",
+      "tapes",
+      "taped",
+      "taping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3520",
+    "meaning": "载物车与搬运；人物、过程、推动方式",
+    "core": "CART：把货放上轮子，再推拉运走",
+    "image": "cart → carter 运货人 → carting 运输过程；pushcart 按推动方式命名；cartwheel 车轮与侧手翻比喻。",
+    "intro": "基本名词、动作、职业按一条运输线排。常用电子购物车是借名，carting 和卡丁车 karting 的拼写也要分清。",
+    "forms": "kartr/cræt → cart；cart + -er/-ing/wheel；push + cart。",
+    "branches": [
+      [
+        "基本车、搬运动作和职业",
+        "cart · carter · carting"
+      ],
+      [
+        "具体器物与外形比喻",
+        "pushcart · cartwheel"
+      ]
+    ],
+    "contrasts": "cart/car 载物推拉车与汽车常用名；carting/karting 搬运与卡丁车运动；Carter 姓氏不保证现职。",
+    "practice": "The carter was carting boxes from a pushcart into the shop.\n\n运货工正在把箱子从手推车上搬进店里。",
+    "words": [
+      "cart",
+      "carter",
+      "carting",
+      "pushcart",
+      "cartwheel"
+    ],
+    "exclude": {
+      "go-cart": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cartman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3546",
+    "meaning": "击打、炮组，电学借名与成组的一系列",
+    "core": "BATTERY：从一连串打击，走到成组器具和电学装置",
+    "image": "battery 打击、炮组 → 早期电装置组 → 电池；a battery of tests 保留一整组的感觉。",
+    "intro": "今天最熟的电池义并非最早。掌握炮组、电装置的借名关系，就不必把击打、电池、一系列测试背成互不相干的中文清单。",
+    "forms": "battuere → battre/batterie → battery；词源同族可联系 batter，但不是每个义都在现代英语临时加 -y 形成。\n\n法语打击、炮组材料借名早期电装置，现代电池可单节；复数 y 改 i 加 es。",
+    "branches": [
+      [
+        "击打、成组与电池的多义词",
+        "battery"
+      ],
+      [
+        "battery → batteries：从成组器具到电池",
+        "battery · batteries"
+      ]
+    ],
+    "contrasts": "battery 现代可只有单个电化学单元；battery life 依语境是续航或寿命；a battery of 一系列。",
+    "practice": "A battery of tests measured the battery’s performance.\n\n一系列测试测量了电池性能。",
+    "words": [
+      "battery",
+      "batteries"
+    ],
+    "exclude": {
+      "cross-battery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "battery-operated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "battery-powered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "B2638",
+    "meaning": "月亮、月光与月周期的比喻",
+    "core": "MOON：夜空里周期变化的月亮，也给光、时间和情绪借形象",
+    "image": "moon 为基础；moonlit、moonless 说夜色；moonbeam、moonshine、moonstone 说光或借光命名；moonrise 复用；honeymoon 接甜蜜时期。",
+    "intro": "月光石不是月球岩石，私酒不是月亮的液体，蜜月先有时期再有旅行义。形象帮助记忆，但不编成每个词都已证实的传说。",
+    "forms": "古英语 mōna → moon；moon + lit/-less/beam/shine/stone/rise；honey + moon → honeymoon。\n\nMonday 延续古英语月亮的所属形式加 day 的组合，是历史意译命名；今天不按现代 moon 的完整发音逐字拼读。",
+    "branches": [
+      [
+        "基础与可见状态",
+        "moon · moonlight · moonlit · moonless"
+      ],
+      [
+        "月光、升起与物品命名",
+        "moonbeam · moonshine · moonstone · moonrise"
+      ],
+      [
+        "甜蜜时期比喻",
+        "honeymoon"
+      ],
+      [
+        "moon → Monday：月亮之日",
+        "moon · Monday"
+      ]
+    ],
+    "contrasts": "moonbeam 一束、moonlight 整体；moonstone 非 moon rock；moonshine 现代常酒义；honeymoon 不一定旅行，蜜酒故事不作定论。",
+    "practice": "On their honeymoon, they walked beside a moonlit lake.\n\n蜜月期间，他们在月光照亮的湖边散步。",
+    "words": [
+      "moon",
+      "moonlight",
+      "moonlit",
+      "moonless",
+      "moonbeam",
+      "moonshine",
+      "moonstone",
+      "moonrise",
+      "honeymoon",
+      "Monday"
+    ],
+    "exclude": {
+      "moon-face": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-moon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sub-moon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moon-blind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moon-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quasi-moon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moonraker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

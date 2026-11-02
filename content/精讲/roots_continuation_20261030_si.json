@@ -1,0 +1,400 @@
+[
+  {
+    "id": "B4307",
+    "meaning": "生理功能相关的",
+    "core": "PHYSIOLOGICAL：看生物体怎样运作",
+    "image": "结构是什么样是一层，器官、身体怎样发挥作用是另一层；physiological 主要放在后一层说。",
+    "intro": "与 physiology 生理学相连，既可对应现代 -ical 形容词，也有拉丁 physiologicus 等相关借入分析；远接希腊自然、论述材料。",
+    "forms": "physiology → physiological → physiologically；这是词族学习对应，历史借入形式不必逐个按英语现造来推。",
+    "branches": [
+      [
+        "学科、功能",
+        "physiology"
+      ],
+      [
+        "相关性质和观察层面",
+        "physiological · physiologically"
+      ]
+    ],
+    "contrasts": "physiological 常重功能，anatomical 常重结构，psychological 常重心理。三方面可以在同一个研究中相互联系。",
+    "practice": "The study compares physiological responses in two species.\n\n这项研究比较了两个物种的生理反应。",
+    "words": [
+      "physiology",
+      "physiological",
+      "physiologically"
+    ],
+    "exclude": {
+      "electrophysiological": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurophysiological": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2618",
+    "meaning": "肯定、同意的回答或表达",
+    "core": "AFFIRMATIVE：在是否问题里站在 yes 这一边",
+    "image": "听见问题后回答“是”，或者点头表示同意，affirmative 及 affirmatively 抓的就是这种肯定方向。",
+    "intro": "中古英语、法语 affirmative 等接拉丁 affirmativus，与 affirmare 断言、肯定相连；副词相应发展，现代可按 -ly 理解。",
+    "forms": "affirm → affirmative → affirmatively；完整 affirmative 的来源有法语、拉丁语对应，不应只把它当现代英语临时拼接。",
+    "branches": [
+      [
+        "肯定性质或答复",
+        "affirmative"
+      ],
+      [
+        "肯定的方式",
+        "affirmatively"
+      ]
+    ],
+    "contrasts": "in the affirmative 表示作肯定回答；affirmatively 不是所有积极、正面语气的通用副词，需看是否真的在表达肯定。",
+    "practice": "She gave an affirmative answer and nodded affirmatively.\n\n她作了肯定回答，并点头表示同意。",
+    "words": [
+      "affirmative",
+      "affirmatively"
+    ],
+    "exclude": {
+      "trans-affirmative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3777",
+    "meaning": "障碍、堵塞；有意阻挠",
+    "core": "OBSTRUCTION：东西把通路挡住，或做法把进程挡住",
+    "image": "物理上挡住管道、道路，是 obstruction；程序上故意拖住一个过程，也能用同一阻挡画面理解。",
+    "intro": "拉丁 obstruere 筑起阻挡、堵住形成 obstructio，后进入英语 obstruction。-ist、-ism 分别发展相关人物、做法名称。",
+    "forms": "obstruct → obstruction → obstructionist／obstructionism；学习顺序能对照，历史名词也有拉丁语现成形式。",
+    "branches": [
+      [
+        "具体堵塞、阻挠",
+        "obstruction"
+      ],
+      [
+        "阻挠者及相关做法",
+        "obstructionist · obstructionism"
+      ]
+    ],
+    "contrasts": "obstruction 可以是无意造成的障碍；obstructionism 通常是在批评有意阻挡进程的策略。",
+    "practice": "The committee removed the obstruction but continued arguing about obstructionism.\n\n委员会排除了那个障碍，却还在争论是否存在有意阻挠。",
+    "words": [
+      "obstruction",
+      "obstructionist",
+      "obstructionism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3396",
+    "meaning": "毒性、有害程度；破坏性的比喻",
+    "core": "TOXICITY：把有毒、有害的性质作为一件事来谈",
+    "image": "toxic 形容某物有毒，toxicity 则把它的毒性、有害程度单独拿出来讨论；网络交往中也可借它说破坏性氛围。",
+    "intro": "toxic + -ity，形容词性质名词化。toxic 的词族远连希腊语与弓箭、箭毒有关的历史材料，现代毒性义已泛化。",
+    "forms": "toxic → toxicity；c 在 toxicity 中读 /s/，重音也调整。极专门的毒理派生可先通过已学词族理解。",
+    "branches": [
+      [
+        "有害性质的名词",
+        "toxicity"
+      ],
+      [
+        "常见表达",
+        "high toxicity；online toxicity"
+      ]
+    ],
+    "contrasts": "说毒性不等于只看一个有、没有的标签；词义是性质、程度，具体怎样评估取决于讨论的对象和条件。",
+    "practice": "The report discusses the toxicity of the substance.\n\n报告讨论了这种物质的毒性。",
+    "words": [
+      "toxicity"
+    ],
+    "exclude": {
+      "cytotoxicity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurotoxicity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2961",
+    "meaning": "ride 的过去分词；受困扰、支配的组合材料",
+    "core": "RIDDEN：从被骑乘、驾驭，到被某事缠住",
+    "image": "ride 的完成形式是 ridden；某些固定组合再借被压住、支配的感觉，表示受疾病、忧虑等困扰。",
+    "intro": "ride 的旧强变化保留在 ride—rode—ridden 中。相关过去分词后来进入形容词式组合，具体义由长期使用固定下来。",
+    "forms": "ride—rode—ridden；ridden 不是 rid 去除的过去分词。词尾 -en 这里属于旧分词形式，不是现代使成为动词后缀。",
+    "branches": [
+      [
+        "骑乘动作的分词",
+        "ridden"
+      ],
+      [
+        "常用语法结构",
+        "have ridden；be ridden〔视宾语、组合理解〕"
+      ]
+    ],
+    "contrasts": "I have ridden 是我骑过；I have rid myself of something 则是我摆脱了某物，两个动词及变化分开。",
+    "practice": "She has ridden a horse before.\n\n她以前骑过马。",
+    "words": [
+      "ridden"
+    ],
+    "exclude": {
+      "money-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "over-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "court-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sex-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "memory-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "storm-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cloud-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dust-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "passion-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "poverty-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sin-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "devil-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plague-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sorrow-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gout-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3501",
+    "meaning": "性别歧视的；持性别偏见的人",
+    "core": "SEXIST：把性别当成不公平评价、区别对待的理由",
+    "image": "因为对方是某个性别，就认定他不适合某件事；sexist 可以评价这种言论、做法，也可以指持这种偏见的人。",
+    "intro": "sex 性别材料 + -ist，沿 sexism 性别歧视的相关构词形成。-ist 在这组里既可形成相关人物名词，也可作形容词。",
+    "forms": "sex → sexism／sexist；这里 sex 指性别相关材料，不能把整个词简单理解成与性行为有关的人。",
+    "branches": [
+      [
+        "偏见、歧视现象",
+        "sexism"
+      ],
+      [
+        "性质与人物",
+        "sexist"
+      ]
+    ],
+    "contrasts": "a sexist comment 是带性别偏见的评论；a sexist 是持这种偏见的人。一个具体判断为什么被这样评价，要结合实际说法、行为。",
+    "practice": "She challenged the sexist assumption in the advertisement.\n\n她质疑了广告中带性别偏见的预设。",
+    "words": [
+      "sexism",
+      "sexist"
+    ],
+    "exclude": {
+      "semi-sexist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arch-sexist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4488",
+    "meaning": "感伤、怀旧、感情用事",
+    "core": "SENTIMENTAL：个人感情给东西加了一层分量",
+    "image": "一张旧车票不值钱，却因为是第一次旅行留下的而舍不得丢，这就是 sentimental value；说决定 sentimental，又可能批评太受感情影响。",
+    "intro": "sentiment 情感、感想 + -al 形成 sentimental；-ity 命名这种性质，un- 则否定相关形容词。",
+    "forms": "sentiment → sentimental → sentimentality／unsentimental；不同搭配可中性、温暖，也可带煽情过头的批评。",
+    "branches": [
+      [
+        "感情、怀旧性质",
+        "sentimental"
+      ],
+      [
+        "性质名称与另一态度",
+        "sentimentality · unsentimental"
+      ]
+    ],
+    "contrasts": "sentimental value 是情感价值，未必负面；unsentimental 常说不感情用事、清醒务实，也不自动表示冷酷。",
+    "practice": "The ring has sentimental value, though its price is low.\n\n这枚戒指价格不高，却有很大的情感价值。",
+    "words": [
+      "sentimental",
+      "sentimentality",
+      "unsentimental"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4267",
+    "meaning": "轨道的；眼眶的等专业用法",
+    "core": "ORBITAL：与 orbit 所说的环绕路线或眼眶有关",
+    "image": "orbital flight 是沿轨道飞行；医学里的 orbital area 可能指眼眶周围。先认 orbit 选择的是哪种环形、围绕结构。",
+    "intro": "借拉丁 orbitalis 等相关形容词形式，联系 orbita 轨迹、车辙及 orbit 的不同专门用法。现代可对应 orbit + -al。",
+    "forms": "orbit → orbital → suborbital；suborbital 在航天中常说亚轨道，在解剖等语境又有眼眶下方关系。",
+    "branches": [
+      [
+        "轨道、眼眶等相关性质",
+        "orbital"
+      ],
+      [
+        "相应的下方、未入轨关系",
+        "suborbital"
+      ]
+    ],
+    "contrasts": "suborbital flight 与持续绕行的 orbital flight 有别；原子中的 orbital 又是量子描述术语，不能机械当成行星路径。",
+    "practice": "The report compares orbital and suborbital flights.\n\n报告比较了轨道飞行与亚轨道飞行。",
+    "words": [
+      "orbital",
+      "suborbital"
+    ],
+    "exclude": {
+      "retro-orbital": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4533",
+    "meaning": "让步、承认；优惠；特许经营",
+    "core": "CONCESSION：把原来掌握的东西让出、给予一部分",
+    "image": "谈判时让出一个条件，是 concession；承认对方有一点道理，也是让出一部分立场；给某群人优惠又是让出一部分价格。",
+    "intro": "法语 concession 接拉丁 concessio，来自 concedere 让出、允许；现代发展出让步、优惠和特许经营等多种具体义。",
+    "forms": "concede 与 concession 相连；concession + -ary → concessionary，常说优惠价格、条件。不要只靠名词后缀把所有义一并翻出。",
+    "branches": [
+      [
+        "让步、优惠、授权等名词",
+        "concession"
+      ],
+      [
+        "优惠、优待的性质",
+        "concessionary"
+      ]
+    ],
+    "contrasts": "make a concession 是作出让步；concessionary fares 是优惠票价；a food concession 又可能是特许经营摊点，靠完整搭配选义。",
+    "practice": "The museum offers concessionary tickets to eligible visitors.\n\n博物馆为符合条件的访客提供优惠票。",
+    "words": [
+      "concession",
+      "concessionary"
+    ],
+    "exclude": {
+      "concessional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2727",
+    "meaning": "引导、输送的通道；管道系统",
+    "core": "DUCT：把空气、液体等导向别处的通路",
+    "image": "空调风沿着管路送到房间，身体中的液体沿导管输送；duct 关心的是让某物通过的管道、通路。",
+    "intro": "拉丁 ductus 引导、输送相关名词接 ducere 带领；中世纪拉丁等用法又明确指输水通道，英语沿用为管道名称。",
+    "forms": "duct → duct + work → ductwork；work 在这个复合词里把多段管道看成一整套结构。",
+    "branches": [
+      [
+        "单条管道、导管",
+        "duct"
+      ],
+      [
+        "建筑风管网络",
+        "ductwork"
+      ]
+    ],
+    "contrasts": "ductwork 常集合地说一整套通风、空调风管；pipe 也说管子，但两词的专业搭配各有习惯。",
+    "practice": "The technician checked the ductwork above the ceiling.\n\n技术人员检查了天花板上方的风管系统。",
+    "words": [
+      "duct",
+      "ductwork"
+    ],
+    "exclude": {
+      "ductal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4483",
+    "meaning": "扣环、扣紧；受压弯曲",
+    "core": "BUCKLE：扣具固定东西，材料也可能拱起、屈曲",
+    "image": "腰带用扣环扣住，是 buckle；薄材料受力鼓起、梁柱弯曲失稳，也可以说 buckle。先看主语是扣具、带子还是受力材料。",
+    "intro": "名词经古法语 bocle、boucle 接拉丁 buccula 颊带、盾面凸起等材料。扣具名转为扣紧动词，拱身、变形等历史用法又带出屈曲义。",
+    "forms": "buckle → buckling，去不发音 e；buckle up 是扣好安全带等，buckle under pressure 又能比喻压力下撑不住。",
+    "branches": [
+      [
+        "扣具、扣紧、变形",
+        "buckle"
+      ],
+      [
+        "动作过程及受力现象",
+        "buckling"
+      ]
+    ],
+    "contrasts": "buckling 可以是工程中的屈曲现象，不等于扣环坏了；也不能把 buckle 拆成 buck 雄鹿加一个固定“小”词尾。",
+    "practice": "The thin panel began buckling under pressure.\n\n薄板在压力下开始屈曲。",
+    "words": [
+      "buckle",
+      "buckling"
+    ],
+    "exclude": {
+      "buckler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "turnbuckle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2433",
+    "meaning": "废除；废除运动与人物",
+    "core": "ABOLITION：把一项制度、做法正式取消掉",
+    "image": "不是暂停一天，而是让某个制度、法律或惯例不再存在；这个废除动作是 abolition，相应人物、主张有另外的派生。",
+    "intro": "经法语 abolition 接拉丁 abolitio，联系 abolere 消除。英语可与 abolish 对照学习，但名词有自己的拉丁、法语借入历史。",
+    "forms": "abolish → abolition〔词族对应〕→ abolitionist／abolitionism；人物和运动词常见于废奴历史，也可依语境指其他废除主张。",
+    "branches": [
+      [
+        "废除行动",
+        "abolition"
+      ],
+      [
+        "主张者与相关运动、思想",
+        "abolitionist · abolitionism"
+      ]
+    ],
+    "contrasts": "reform 是改革，未必完全取消原制度；abolition 直接说废除。历史材料里要辨清具体要废除什么。",
+    "practice": "The book follows the campaign for the abolition of slavery.\n\n这本书追溯了争取废除奴隶制的运动。",
+    "words": [
+      "abolition",
+      "abolitionist",
+      "abolitionism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4507",
+    "meaning": "接、捕捉的人或装置",
+    "core": "CATCHER：抓住、接住某物的角色",
+    "image": "棒球里接球的角色可叫 catcher；flycatcher 按捕虫行为叫鸟，dreamcatcher 又是已经固定的物件名称。",
+    "intro": "catch + -er，人物、工具构词。后续复合词前部限定捕捉什么，但各名称可能有具体文化或生物学含义。",
+    "forms": "catch → catcher；fly + catcher → flycatcher；dream + catcher → dreamcatcher。复合形式可帮助理解命名，不等于穷尽所有文化意义。",
+    "branches": [
+      [
+        "接球、捕捉者",
+        "catcher"
+      ],
+      [
+        "按对象形成的固定名称",
+        "flycatcher · dreamcatcher"
+      ]
+    ],
+    "contrasts": "catcher 在棒球中是特定守备位置；flycatcher 是一类鸟的名称，不只是临时描述任何抓到苍蝇的人。",
+    "practice": "The catcher caught the ball behind the batter.\n\n捕手在击球手后方接住了球。",
+    "words": [
+      "catcher",
+      "flycatcher",
+      "dreamcatcher"
+    ],
+    "exclude": {
+      "eye-catcher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4190",
+    "meaning": "燃烧器；按用途命名的装置、位置",
+    "core": "BURNER：进行燃烧，或承担相关功能的部件",
+    "image": "炉灶上产生火焰的一处是 burner；飞机发动机的 afterburner 借后面再次燃烧的设计命名；backburner 又常出现在暂缓处理的比喻里。",
+    "intro": "burn + -er，并有旧日耳曼语相关人物、装置词汇合。后续复合词和习语按装置、位置发展，不都指一个燃烧的人。",
+    "forms": "burn → burner → afterburner／backburner；-er 可以指装置。on the back burner 也常分写成短语。",
+    "branches": [
+      [
+        "燃烧部件等",
+        "burner"
+      ],
+      [
+        "加力装置",
+        "afterburner"
+      ],
+      [
+        "后排炉位与暂缓比喻",
+        "backburner"
+      ]
+    ],
+    "contrasts": "put a plan on the back burner 是把计划暂放一边，通常不是烧毁计划；afterburner 则是特定动力装置名称。",
+    "practice": "We put the renovation plan on the back burner for a while.\n\n我们把翻修计划暂时放到了一边。",
+    "words": [
+      "burner",
+      "afterburner",
+      "backburner"
+    ],
+    "exclude": {
+      "log-burner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

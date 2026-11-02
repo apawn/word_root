@@ -5,7 +5,7 @@
     "core": "FAMILI = HOUSEHOLD / FAMILIAR",
     "image": "常在同一个家里相处 → 亲近 → 不再陌生",
     "intro": "**famili-** 从拉丁语 **familia**“家户、家内人员”来。它更早与 **famulus**“家仆、奴仆”相关，这反映的是当时的家户制度。现代学习先抓两条线：family 是“一家人”；familiar 是“像家里常见的人和东西一样，不陌生”。",
-    "forms": "**family** 来自 familia；**familiar** 来自 familiāris，经法语等路线进入英语；**familiarity** 来自 familiāritās，经过法语 familiarité。它们是一家词，但不全是用现代英语 family 逐个拼出来的。\n\n**familial** 是另一条法语借词，专门说“家庭相关”。**familiarize / familiarise** 与 **familiarization / familiarisation** 是常见拼写差异，意思不另立一套。\n\n**famulus 更早的来源存在不同分析**，本页不把有争议的远祖画成确定的演化链。",
+    "forms": "**family** 来自 familia；**familiar** 来自 familiāris，经法语等路线进入英语；**familiarity** 来自 familiāritās，经过法语 familiarité。它们是一家词，但不全是用现代英语 family 逐个拼出来的。\n\n**familial** 是另一条法语借词，专门说“家庭相关”。**familiarize / familiarise** 与 **familiarization / familiarisation** 是常见拼写差异，意思不另立一套。\n\n**famulus 更早的来源存在不同分析**，本页不把有争议的远祖画成确定的演化链。\n\nfamily 接拉丁 familia 家内人员词族；现代也按共同特点说语言家族、物种科等集合。",
     "branches": [
       [
         "一家人或同族的一组",
@@ -26,6 +26,10 @@
       [
         "多个住户与分类分组",
         "multifamily · subfamily · superfamily"
+      ],
+      [
+        "family → families：家庭、家族与类别",
+        "family · families"
       ]
     ],
     "contrasts": "**family / household**：家庭关系 / 共同居住的住户，可能重合但不是一回事。\n\n**familiar / familial**：熟悉的 / 家庭相关的。\n\n**familiar with / familiar to**：I am familiar with the place（我熟悉这个地方）；The place is familiar to me（这个地方让我感到熟悉）。\n\n**familiarity / familiarization**：已经有的熟悉程度 / 逐渐熟悉的过程。\n\n**subfamily → family → superfamily**：分组由小到大；不是生物从亚科“进化成”总科。",
@@ -44,7 +48,8 @@
       "overfamiliarity",
       "multifamily",
       "subfamily",
-      "superfamily"
+      "superfamily",
+      "families"
     ]
   }
 ]

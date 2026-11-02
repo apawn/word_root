@@ -1,0 +1,187 @@
+[
+  {
+    "id": "A1698",
+    "meaning": "亲昵称呼、小称；口语化的人、物名称",
+    "core": "-IE：把词说得更顺口、亲近，但未必都可爱",
+    "image": "self → selfie 自拍；cab → cabbie 出租车司机；best → bestie 死党；blanket 缩成 blankie 小毯子。有人、物，也有整个短语缩短的结果。",
+    "intro": "有些像给词换上一种熟人口气，有些则已经成了常用名词。goalie 不表示小球门，rookie 不一定是小孩子，meanie 还有孩子气的责怪。先看整个词指什么，再判断语气。",
+    "forms": "是 -y 小称、爱称类用法的常见拼写变体，早期在苏格兰语、苏格兰英语昵称中已有使用，后来广泛用于口语普通名词；更早来源的具体融合有不同解释，不与 rainy 形容词尾完全混同。常见先缩短再接尾：independent → indie、goalkeeper → goalie、budgerigar → budgie、blanket → blankie。cab → cabbie 有双写。cookie 借荷兰语 koekje 小糕点等材料，不是英语 cook 厨师直接加 -ie；rookie 的确切来源仍有争议。\n\nblank 接法语 blanc 白，blanket 接其小称、白色毛织物名称；现代 blanket 不必是白色，也不是空白加通用 et。\n\n能生长、有生命的旧词义，后来常用于可食用植物的蔬菜义。\n\n法语 blanc 相关名称借入，现代毯子不限白色。\n\nhoodie 用帽兜特征命名；beanie 接 bean 的头部俚语；复数都在完整 -ie 后加 -s。\n\nbookie 是 bookmaker 博彩用法的缩短形式并带 -ie，bookie 以 -ie 结尾，直接加 -s 写 bookies。\n\nself 自己 + 口语名词后缀 -ie → selfie 自拍；现代 selfies 直接在已经写成 -ie 的词后加 s，不是把一个不存在的 selfy 当作实际来源。\n\nveggie 缩短 vegetable 并采用 -ie 等口语名词形式；veggies 直接在已以 ie 结尾的词后加 s，不再多套一遍 y 变 i。这里先学常用的蔬菜义。",
+    "branches": [
+      [
+        "自己、独立创作与初来者",
+        "selfie · independent · indie · rookie"
+      ],
+      [
+        "食物与澳式烧烤",
+        "vegetable · vegetarian · veggie · barbie · blondie"
+      ],
+      [
+        "金发词形与随意昵称",
+        "blond · blonde · blondie"
+      ],
+      [
+        "人物关系和职业",
+        "goal · goalie · cab · cabbie · best · bestie · roommate · roomie · bookmaker · bookie"
+      ],
+      [
+        "亲昵、孩子气与软软的物品",
+        "budgie · mean · meanie · plush · plushie · blanket · blankie"
+      ],
+      [
+        "短活动与文化标签",
+        "quickie · yuppie"
+      ],
+      [
+        "一些熟悉的已固定词",
+        "movie · cookie · hoodie · sweetie · foodie · freebie"
+      ],
+      [
+        "blank 与 blanket：同一白色词的不同发展",
+        "blank · blanket"
+      ],
+      [
+        "vegetable → vegetables → veggie：蔬菜与口语缩短",
+        "vegetable · vegetables"
+      ],
+      [
+        "blanket → blankets：白色毛织物到覆盖物",
+        "blanket · blankets"
+      ],
+      [
+        "-ie 小称、熟称的衣物名及复数",
+        "hoodie · hoodies · beanie · beanies"
+      ],
+      [
+        "bookies：bookmaker 的口语短称",
+        "bookie · bookies"
+      ],
+      [
+        "self + -ie → selfie → selfies：自拍及复数",
+        "selfie · selfies"
+      ],
+      [
+        "vegetable → veggie → veggies：蔬菜的口语称呼",
+        "veggie · veggies"
+      ]
+    ],
+    "contrasts": "indie 不等于业余；barbie 的烧烤义带地区色彩；veggie 不自动等于 vegan；quickie 单独邀约可能有性行为歧义；roomie 室友与 roomy 宽敞常同音；-ie 也可带责怪、贬义，不能一律译成小可爱。",
+    "practice": "My bestie took a selfie while our cabbie helped load the bags.\n\n我的死党在自拍，出租车司机则帮忙装行李。",
+    "words": [
+      "rookie",
+      "independent",
+      "indie",
+      "self",
+      "selfie",
+      "barbecue",
+      "barbie",
+      "goal",
+      "goalie",
+      "vegetable",
+      "vegetarian",
+      "veggie",
+      "blond",
+      "blonde",
+      "blondie",
+      "quick",
+      "quickie",
+      "bookmaker",
+      "bookie",
+      "cab",
+      "cabbie",
+      "best",
+      "bestie",
+      "budgie",
+      "roommate",
+      "roomie",
+      "mean",
+      "meanie",
+      "yuppie",
+      "plush",
+      "plushie",
+      "blanket",
+      "blankie",
+      "movie",
+      "cookie",
+      "sweetie",
+      "hoodie",
+      "cutie",
+      "auntie",
+      "junkie",
+      "birdie",
+      "homie",
+      "smoothie",
+      "brownie",
+      "foodie",
+      "hottie",
+      "beanie",
+      "kiddie",
+      "freebie",
+      "goodie",
+      "wheelie",
+      "groupie",
+      "oldie",
+      "techie",
+      "baddie",
+      "roadie",
+      "normie",
+      "softie",
+      "baggie",
+      "townie",
+      "nightie",
+      "preemie",
+      "blank",
+      "vegetables",
+      "blankets",
+      "hoodies",
+      "beanies",
+      "bookies",
+      "selfies",
+      "veggies"
+    ],
+    "exclude": {
+      "maggie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "donkey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reggie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "minnie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "maddie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "avi": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goldie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fast-foodie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "commie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aggie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "walkie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "girlie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beastie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ozzie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sharpie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lassie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chewie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "burnie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "queenie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "doobie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nettie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rollie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bogie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wolfie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wedgie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dearie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "laddie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sammie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "druggie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "muskie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lambie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nudie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ralphie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "albie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "small-townie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bridie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "teenie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gillie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "juvie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loonie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shellie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smokie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

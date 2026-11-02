@@ -1,0 +1,115 @@
+[
+  {
+    "id": "B2462",
+    "meaning": "药物、医学与远程、生物医学",
+    "core": "MEDICINE：药物与医术；相关形容词分药用、医疗",
+    "image": "medicine 先抓药物和学科，medic 讲人；medicinal、medical 分清，再接远程医疗等共享词。",
+    "intro": "经法语接拉丁医治词族，medicine、medicinal、medical 各有不同借入形式，不能画成一个现代词随便换尾巴。",
+    "forms": "medicus → medicīna → medicine；medicīnālis → medicinal；medicālis → medical → medically；tele-/bio- + medicine。\n\nmedicine 经法语、拉丁 medicina 医术、药物词族，远连 medicus 医者；其更细形态来源有不同分析。现代复数 medicines 常数药品，医学这一领域通常不用复数来数。\n\nmedication 经法语、拉丁 medicatio 治疗名词进入，英语记录早于 medicate。复数 medications 常说不同药物；与 medicine 同远源，不把 medicine 写成其直接构词底。",
+    "branches": [
+      [
+        "药物、医护与性质",
+        "medicine · medic · medicinal · medical · medically"
+      ],
+      [
+        "远程与交叉领域",
+        "telemedicine · biomedicine · biomedical"
+      ],
+      [
+        "medicine → medicines：不同药品",
+        "medicines"
+      ],
+      [
+        "medic- 医治词族：medicine 与 medications",
+        "medications"
+      ]
+    ],
+    "contrasts": "medicine 药或学科，medic 人，medicinal 药用，medical 医学相关；telemedicine 的 tele- 表距离。",
+    "practice": "The medical school offers a course on telemedicine.\n\n医学院开设远程医疗课程。",
+    "words": [
+      "medicine",
+      "medic",
+      "medicinal",
+      "medical",
+      "medically",
+      "telemedicine",
+      "biomedicine",
+      "biomedical",
+      "medicines",
+      "medications"
+    ],
+    "exclude": {
+      "pseudo-medicine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3908",
+    "meaning": "医疗相关与医学判断角度",
+    "core": "MEDICAL：与医治有关；MEDICALLY：从医疗角度",
+    "image": "把 medicine、medic、medicinal 同族相邻复习；medical → medically，再接 biomedical。",
+    "intro": "medical 经法语接拉丁医生相关形容词，并非现代 medicine 的任意变形。副词 medically 是 medical + -ly。",
+    "forms": "拉丁 medicus 同族 → medicine／medic／medicinal／medical；medical + -ly；bio- + medical。\n\nremedy 接法语、拉丁 remedium，含 re- 与 mederi 治疗；与 medical、medicine 的治愈词族相连。现代又说补救方法、纠正问题，remedies 可是复数或第三人称。",
+    "branches": [
+      [
+        "同族基础与形容词",
+        "medicine · medic · medicinal · medical"
+      ],
+      [
+        "副词与交叉领域",
+        "medically · biomedical"
+      ],
+      [
+        "mederi 治疗 → remedy → remedies",
+        "remedy · remedies"
+      ]
+    ],
+    "contrasts": "medical 与 medicinal 侧重不同；medically 只限定医疗角度；medic 不保证具体职业资格。",
+    "practice": "The medically trained guide explained the history of medicinal plants.\n\n受过医疗训练的向导讲解了药用植物的历史。",
+    "words": [
+      "medicine",
+      "medic",
+      "medicinal",
+      "medical",
+      "medically",
+      "biomedical",
+      "remedy",
+      "remedies"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2528",
+    "meaning": "进入、使用与减少理解障碍",
+    "core": "ACCESS：能进去；ACCESSIBLE：能接近、用得上",
+    "image": "access 已精讲，紧接 accessible → inaccessible、accessibility。",
+    "intro": "拉丁接近词形成名词与关系形容词，经法语进入英语；现代扩展到设施、信息、文字理解。",
+    "forms": "access → 相关借入形容词 accessible；in- + accessible；accessible + -ity → accessibility。\n\nss 后 ed 读 t，不另加音节。",
+    "branches": [
+      [
+        "基本进入与可用性质",
+        "access · accessible"
+      ],
+      [
+        "否定与性质名词",
+        "inaccessible · accessibility"
+      ],
+      [
+        "access → accessed：访问、获取",
+        "access · accessed"
+      ]
+    ],
+    "contrasts": "available 有供应不保证 accessible 能用；inaccessible 不等于不存在；accessibility 不只坡道。",
+    "practice": "Better accessibility makes the service accessible to more people.\n\n改善无障碍性让更多人能使用这项服务。",
+    "words": [
+      "access",
+      "accessible",
+      "inaccessible",
+      "accessibility",
+      "accessed"
+    ],
+    "exclude": {
+      "e-access": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-access": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

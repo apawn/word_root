@@ -1,0 +1,173 @@
+[
+  {
+    "word": "yell",
+    "ipa": "/jel/",
+    "meaning": "大喊、叫喊；一声大叫",
+    "sense": "声音突然或持续地放大，用来把话传出去、表达情绪，就是 yell。愤怒会喊，兴奋、呼救也会喊，不能只记成骂人。",
+    "split": "古英语 giellan 经中古英语 yellen 传下。现代既作动词，也作一声叫喊的名词。",
+    "history": [
+      [
+        "古英语 giellan → 中古英语 yellen → yell",
+        "发出响亮、尖厉的叫声"
+      ],
+      [
+        "声音与表达的扩展",
+        "喊出内容；因愤怒、兴奋、呼救等大喊"
+      ]
+    ],
+    "explanation": "yell for help 大声呼救，yell at someone 对某人大喊、吼叫，yell out a name 大声喊出名字，give a yell 大叫一声。",
+    "usage": "yell for help；yell at；yell out。",
+    "contrast": "yell at 常带对人吼叫的感觉；yell to someone 可以强调距离远、为让对方听见而喊。场景、语气共同决定态度。",
+    "examples": [
+      [
+        "She yelled for help from the window.",
+        "她从窗口大声呼救。"
+      ],
+      [
+        "We heard the fans yell as the ball hit the net.",
+        "球入网时，我们听见球迷大喊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yell#English"
+    ]
+  },
+  {
+    "word": "yelling",
+    "ipa": "/ˈjelɪŋ/",
+    "meaning": "大喊、叫喊声",
+    "sense": "把大喊当成一项正在发生的活动，或整片声音来听，可以 yelling。",
+    "split": "yell + -ing；中古英语已有相应形式。这里可作活动名词，也可作正在叫喊的分词。",
+    "history": [
+      [
+        "古英语 giellan → 中古英语 yellen → yell",
+        "发出响亮、尖厉的叫声"
+      ],
+      [
+        "声音与表达的扩展",
+        "喊出内容；因愤怒、兴奋、呼救等大喊"
+      ],
+      [
+        "yell + -ing → yelling",
+        "叫喊的活动、声音"
+      ]
+    ],
+    "explanation": "stop yelling 别喊了，a lot of yelling 一片叫喊，yelling and cheering 叫喊与欢呼。",
+    "usage": "stop yelling；a lot of yelling。",
+    "contrast": "yelling 不保证在吵架；听到比赛中的 yelling，可能是兴奋、加油。a yell 强调一次，yelling 更容易把活动整体来看。",
+    "examples": [
+      [
+        "There was a lot of yelling after the final whistle.",
+        "终场哨后响起一片叫喊。"
+      ],
+      [
+        "They stopped yelling when the room became quiet.",
+        "房间安静下来后，他们不再喊了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yelling#English"
+    ]
+  },
+  {
+    "word": "snake",
+    "ipa": "/sneɪk/",
+    "meaning": "蛇；蜿蜒行进；细长疏通工具；阴险者〔贬义比喻〕",
+    "sense": "蛇贴地爬行、身体细长弯曲；道路、队列曲折延伸，也可以 snake。疏通管道的长软工具则借外形叫 a drain snake。",
+    "split": "承古英语 snaca，经中古英语 snake，联系日耳曼爬行、滑行的旧词族。物件形状、运动方式和文化中的阴险形象，形成不同扩展。",
+    "history": [
+      [
+        "古英语 snaca → 中古英语 snake",
+        "蛇；更早联系爬行、滑行词族"
+      ],
+      [
+        "细长、曲折动作的比喻",
+        "路蜿蜒、队列延伸；细长疏通工具"
+      ]
+    ],
+    "explanation": "a grass snake 草蛇，a drain snake 管道疏通工具，a path snakes through the hills 小路蜿蜒穿山，a snake in the grass 暗藏的阴险者。",
+    "usage": "a drain snake；snake through；a snake in the grass。",
+    "contrast": "把人称作 snake 是强负面评价；真实蛇的生物行为不由这个文化比喻来定义。serpent 常更文学、庄重。",
+    "examples": [
+      [
+        "A snake slid into the long grass.",
+        "一条蛇滑进高草里。"
+      ],
+      [
+        "The queue snaked around the corner.",
+        "队伍弯弯曲曲地延伸过街角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/snake#English"
+    ]
+  },
+  {
+    "word": "rattlesnake",
+    "ipa": "/ˈrætəlsneɪk/",
+    "meaning": "响尾蛇",
+    "sense": "尾端有能发出响声的结构，所以名称抓住 rattle 响声、响物这一特征。",
+    "split": "rattle + snake，由特征加动物名称组成复合词。通常指美洲相应响尾蛇类，不是所有会发声的蛇的随意称呼。",
+    "history": [
+      [
+        "古英语 snaca → 中古英语 snake",
+        "蛇；更早联系爬行、滑行词族"
+      ],
+      [
+        "rattle + snake → rattlesnake",
+        "带尾部响器的蛇类名称"
+      ]
+    ],
+    "explanation": "a rattlesnake’s rattle 响尾蛇的尾部响器，a rattlesnake habitat 响尾蛇栖息地。",
+    "usage": "a rattlesnake’s rattle；a rattlesnake habitat。",
+    "contrast": "rattle 在这里是响器、发响特征，不能只拿婴儿摇铃这一具体物品义推断名称。",
+    "examples": [
+      [
+        "The documentary showed a rattlesnake moving across the desert.",
+        "纪录片展示一条响尾蛇穿过沙地。"
+      ],
+      [
+        "The exhibit explains how a rattlesnake’s rattle makes sound.",
+        "展览解释响尾蛇的尾部响器怎样发声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rattlesnake#English",
+      "https://www.etymonline.com/word/rattlesnake"
+    ]
+  },
+  {
+    "word": "snakebite",
+    "ipa": "/ˈsneɪkbaɪt/",
+    "meaning": "蛇咬、蛇咬伤",
+    "sense": "snake 指来源，bite 指咬：既可说咬这一事件，也常说它造成的咬伤。",
+    "split": "snake + bite，按咬的动物来源构成复合名词。复数 snakebites，变化加在完整词末尾。",
+    "history": [
+      [
+        "古英语 snaca → 中古英语 snake",
+        "蛇；更早联系爬行、滑行词族"
+      ],
+      [
+        "snake + bite → snakebite",
+        "蛇的咬、相应咬伤"
+      ]
+    ],
+    "explanation": "a snakebite victim 蛇咬伤者，cases of snakebite 蛇咬伤病例。酒吧中的同名饮品等属于另行固定的名称，不接普通伤害句法。",
+    "usage": "a snakebite victim；cases of snakebite。",
+    "contrast": "snakebite 命名事件、伤害，不单凭这个词就说明蛇种、是否注入毒液、伤情程度。",
+    "examples": [
+      [
+        "Her grandfather told a story about surviving a snakebite.",
+        "她祖父讲过自己被蛇咬后幸存的故事。"
+      ],
+      [
+        "The report lists cases of snakebite from the region.",
+        "报告列出了这个地区的蛇咬伤病例。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/snakebite#English",
+      "https://www.merriam-webster.com/dictionary/snakebite"
+    ]
+  }
+]

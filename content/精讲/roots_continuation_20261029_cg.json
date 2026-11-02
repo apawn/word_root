@@ -1,0 +1,254 @@
+[
+  {
+    "id": "B3774",
+    "meaning": "在场、当前；呈上、展示；礼物与代表",
+    "core": "PRESENT：在眼前，或把东西放到别人眼前",
+    "image": "现代两种重音分别掌握；presence、presently 接在场分支，presentable、presenter、presentation 接展示分支，再对照 represent。",
+    "intro": "拉丁语 praesens 在场与相关 praesentāre 呈上，经法语形成英语词族。礼物也有把东西呈送到别人面前的历史联系。",
+    "forms": "present /ˈprezənt/ → presence、presently；present /prɪˈzent/ → presentable、presenter、presentation；represent 是代表、描绘；omnipresent 遍在另看。\n\nrepresentative 经法语或中世纪拉丁相应形容词借入，现代对应 represent 与 -ative；不能把所有历史画成现代英语临时加后缀。\n\npresent 作动词的重音在后，过去词尾增加音节。\n\n拉丁、法语呈现词族借入，代表义不等于每次重复提交。\n\n代表性形容词和代表名词的历史含法语、拉丁借入线。\n\n相关法语、拉丁呈现词族借入，现代第三人称单数与过去形式相邻。\n\n拉丁在场词族，不同名词、动词借入用途分别学习。\n\n拉丁展现词经法语等借入，现代代表、描绘、构成分开学。\n\n动词经法语接拉丁 praesentare，现代动词重音在后，ing 不改变词干。\n\n代表义缩自 representative；健身的一次缩自 repetition，名声义缩自 reputation。放在代表词旁比较缩略方法，不把这三个原词当成同一条派生链。",
+    "branches": [
+      [
+        "当前、在场与存在",
+        "present · presence · presently · omnipresent"
+      ],
+      [
+        "可展示状态、人物与活动",
+        "presentable · presenter · presentation"
+      ],
+      [
+        "代表与描绘",
+        "represent"
+      ],
+      [
+        "representative：由代表动作到代表者与典型样本",
+        "represent · representative"
+      ],
+      [
+        "present → presented：放到面前与展示",
+        "present · presented"
+      ],
+      [
+        "represent → represented：使呈现与代表",
+        "represent · represented"
+      ],
+      [
+        "representative → representatives：使他人呈现、在场的人",
+        "representative · representatives"
+      ],
+      [
+        "represent → represents → represented：呈现与代表",
+        "represent · represents · represented"
+      ],
+      [
+        "present → presents：礼物与呈现的不同重音",
+        "present · presents"
+      ],
+      [
+        "represent → representing：使某人某事在场",
+        "represent · representing"
+      ],
+      [
+        "present → presenting：把内容摆到眼前",
+        "present · presenting"
+      ],
+      [
+        "rep：代表，以及其他完整词的缩写",
+        "rep · reps"
+      ]
+    ],
+    "contrasts": "present 礼物与 presence 在场分清；presentation 不一定有幻灯片；presently 可是目前，也可是稍后。",
+    "practice": "The presenter gave a presentation that represented the views of everyone present.\n\n报告人作了一份代表所有在场者观点的报告。",
+    "words": [
+      "present",
+      "presence",
+      "presently",
+      "omnipresent",
+      "presentable",
+      "presenter",
+      "presentation",
+      "represent",
+      "representative",
+      "presented",
+      "represented",
+      "representatives",
+      "represents",
+      "presents",
+      "representing",
+      "presenting",
+      "rep",
+      "reps"
+    ],
+    "exclude": {
+      "all-present": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3031",
+    "meaning": "覆盖；外层、封面；附形似词 recover 辨析",
+    "core": "COVER：盖住表面，封面保护里面",
+    "image": "先学真正的 cover 词族；常用 recover 恢复放在最后作形似词辨析，不把它冒充覆盖的直接派生。",
+    "intro": "cover 经法语来自拉丁语 cooperīre 覆盖。softcover、hardcover 说书封面；recover 恢复义另来自 recuperāre，经法语发展。",
+    "forms": "cover → covering、coverage；uncover、undercover；hardcover ↔ softcover；最后单独分清 recover。\n\n拉丁遮盖词经法语借入，现代按覆盖对象发展多种常用义。\n\n法语 recovrer 接拉丁 recuperare，通常恢复义不能拆成现代 re 加 cover。\n\n两种名称按封面装订特征指整本书。\n\nuncover 在英语中由 un- + cover 形成，揭露的记录早于字面揭开覆盖物的记录。现代加完整 -ed，末尾 /d/，可说未覆盖或被揭露。",
+    "branches": [
+      [
+        "覆盖与范围",
+        "cover · covering · coverage"
+      ],
+      [
+        "揭开、隐蔽与封面种类",
+        "uncover · undercover · hardcover · softcover"
+      ],
+      [
+        "形似但常用恢复义另源",
+        "recover"
+      ],
+      [
+        "cover → covers：遮盖、封面与涉及",
+        "cover · covers"
+      ],
+      [
+        "recover → recovered：恢复与取回",
+        "recover · recovered"
+      ],
+      [
+        "cover 的硬、软封面组合与复数",
+        "hardcover · hardcovers · softcover · softcovers"
+      ],
+      [
+        "un- 反向 + cover 盖 → uncovered",
+        "uncovered"
+      ]
+    ],
+    "contrasts": "softcover 平装，不说内容温柔；recover 恢复、取回不按再盖一次硬推。",
+    "practice": "We uncovered a softcover copy and recovered the missing notes tucked inside.\n\n我们找到一本原先盖住的平装书，也找回了夹在里面的失踪笔记。",
+    "words": [
+      "cover",
+      "covering",
+      "coverage",
+      "uncover",
+      "undercover",
+      "hardcover",
+      "softcover",
+      "recover",
+      "covers",
+      "recovered",
+      "hardcovers",
+      "softcovers",
+      "uncovered"
+    ],
+    "exclude": {
+      "re-cover": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cover-shame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4136",
+    "meaning": "更向前；进一步；促进",
+    "core": "FURTHER：沿原方向再推进一点",
+    "image": "可以在路上往前，也可以在知识、计划和论证上往前；further 还可直接当促进的动词。",
+    "intro": "further 接古英语向前、比较程度形式，与 forth 等相关。它的现代比较功能不等于词源只是 far + ther。",
+    "forms": "further → furthermore、furtherance；分别是补充论点与正式的促进名词。",
+    "branches": [
+      [
+        "距离、程度与推动",
+        "further"
+      ],
+      [
+        "补充逻辑与促进过程",
+        "furthermore · furtherance"
+      ]
+    ],
+    "contrasts": "further information 更多信息；further a goal 推进目标；in furtherance of 为促进，偏正式。",
+    "practice": "We need further information before taking the proposal any further.\n\n进一步推进提议前，我们需要更多信息。",
+    "words": [
+      "further",
+      "furthermore",
+      "furtherance"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3266",
+    "meaning": "城镇；城镇内部、居民与行政名称",
+    "core": "TOWN：人们集中生活的一片地方",
+    "image": "从围场、聚落的旧义到城镇，再分市内位置、居民称呼、行政和居住区名称。",
+    "intro": "town 接古英语 tūn。township 的制度义与当地历史相关，midtown、downtown 的边界也不是全球统一。",
+    "forms": "town → township；downtown ↔ midtown、hometown、townhouse、crosstown；居民 townsfolk、townie 相邻。\n\n古英语 tun 的词史，城镇和城市的区别看当地惯例。",
+    "branches": [
+      [
+        "城镇、区域与市内位置",
+        "town · township · downtown · midtown · hometown · townhouse · crosstown"
+      ],
+      [
+        "居民整体与口语称呼",
+        "townsfolk · townie"
+      ],
+      [
+        "town → towns：围场、聚落到城镇",
+        "town · towns"
+      ]
+    ],
+    "contrasts": "township 不同国家含义不同；townsfolk 是居民整体，townie 口语、有时带对立语气。",
+    "practice": "The townsfolk planned a celebration in the old part of town.\n\n镇民们计划在老城区举行庆祝活动。",
+    "words": [
+      "town",
+      "township",
+      "downtown",
+      "midtown",
+      "hometown",
+      "townhouse",
+      "crosstown",
+      "townsfolk",
+      "townie",
+      "towns"
+    ],
+    "exclude": {
+      "towner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "townsite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2914",
+    "meaning": "说话、讲语言；说话者、话语与演讲",
+    "core": "SPEAK：把话说出来，角色与产物另看",
+    "image": "speak 是动作，speaker 是说话者或发声设备；speech 是旧相关名词，不能当作一条现代万能拼写规则。",
+    "intro": "speak 接古英语 specan，speech 接 spǣċ、sprǣċ 等旧形式，属于历史相关词族。过去 spoke、分词 spoken；更早形式关系不硬归成单一删音规则。",
+    "forms": "speak → speaking、speaker；相关名词 speech → speechless；newspeak 看已经讲过的固定命名。\n\nspeaks 是单数主语后的现在式，词尾 /s/；过去 spoke、分词 spoken 已另讲，不按规则加 ed。\n\n英语旧来人名词继承，发声音箱是后来用途。\n\nspeech 来自古英语话语名词，与 speak 为历史词族；现代复数 es。",
+    "branches": [
+      [
+        "动作、活动与角色",
+        "speak · speaking · speaker"
+      ],
+      [
+        "话语、演说与无言",
+        "speech · speechless · newspeak"
+      ],
+      [
+        "speak → speaks：说话、讲语言",
+        "speak · speaks"
+      ],
+      [
+        "speaker → speakers：说话者与发声设备",
+        "speaker · speakers"
+      ],
+      [
+        "speak、speech → speeches：说话与一次次演说",
+        "speak · speech · speeches"
+      ]
+    ],
+    "contrasts": "speak English，give a speech；speaker 可是人也可是音箱；speechless 不一定是永久失语。",
+    "practice": "The speaker’s speech left the audience speechless.\n\n演讲者的讲话让听众一时无言。",
+    "words": [
+      "speak",
+      "speaking",
+      "speaker",
+      "speech",
+      "speechless",
+      "newspeak",
+      "speaks",
+      "speakers",
+      "speeches"
+    ],
+    "exclude": {}
+  }
+]

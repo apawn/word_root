@@ -5,7 +5,7 @@
     "core": "SEQU / SECUT = FOLLOW",
     "image": "前面一步走出，后面一步跟上：可以是顺序、结果或紧追不放",
     "intro": "**sequ-/secut-** 来自拉丁语 **sequī**“跟随”。东西排着跟上是 sequence，排在后面是 subsequent，由前事带来的结果是 consequence。把目光和行动一直跟着目标走，就有 pursue；追着人伤害，则成了 persecute。",
-    "forms": "**sequ-** 常见于 sequence；**secut-** 来自拉丁语相关分词形式，见 prosecute、consecutive。法语音变让 pursue、ensue 不再保留完整 sequ。**second** 来自 secundus“跟在后面的”，时间单位“秒”又源于第二次六十分割。",
+    "forms": "**sequ-** 常见于 sequence；**secut-** 来自拉丁语相关分词形式，见 prosecute、consecutive。法语音变让 pursue、ensue 不再保留完整 sequ。**second** 来自 secundus“跟在后面的”，时间单位“秒”又源于第二次六十分割。\n\n秒接第二次六十分割；第二份食物和次品接次序、等级的 second 分支，各有固定名词用法。\n\n跟随词族的名词借入，结果本身未必不利。\n\n盎格鲁诺曼语接拉丁 prosequi，并有 persequi 影响，现代 ing 去 e。\n\n盎格鲁诺曼语接拉丁跟随材料；去 e 加完整 ed。\n\n经古法语 poursuir 等接拉丁 prosequi，pro- 向前加 sequi 跟随；现代 pursues、pursuers 分别是动词三单与人物词复数。\n\n经法语 suer、suivre 等词线接拉丁 sequi 跟随；跟着一件事追下去的画面联系法律追究。现代 sue someone for damages 中，直接对象是被起诉的一方，for 后是索求等内容。\n\nsecond 秒源于第二次细分的小份，second 第二本来接跟随、下一位的词族；sec、secs 是口语短称，a sec 常只表示一会儿，不保证正好一秒。\n\nsecond 秒的名称有第二次细分小份的历史背景；milli-、micro-、nano- 分别把秒缩为千分之一、百万分之一、十亿分之一。学习时按尺度比较，不表示一个单词由另一个单词演化。\n\n拉丁 sequi 跟随、分词 sequens → sequentia 相继，经法语等进入英语。sequence 保留词末 e 加 -s，/s/ 后复数、第三人称读 /ɪz/。\n\nprosecutor 接拉丁 prosequi 追随、继续进行的行为者词族，现代常说检察官、公诉人或提起诉讼的一方，具体制度称呼有差别。",
     "branches": [
       [
         "依次跟上",
@@ -34,6 +34,46 @@
       [
         "跟不上逻辑或跟得过头",
         "non sequitur · obsequious"
+      ],
+      [
+        "seconds：秒、第二份食物与次品",
+        "second · seconds"
+      ],
+      [
+        "consequence → consequences：跟在后面的结果",
+        "consequence · consequences"
+      ],
+      [
+        "pursue → pursuing：沿目标继续跟下去",
+        "pursue · pursuing"
+      ],
+      [
+        "pursue → pursued：跟着走、追求目标",
+        "pursue · pursued"
+      ],
+      [
+        "pursue：沿着目标一路跟进",
+        "pursue · pursues · pursued · pursuing · pursuer · pursuers"
+      ],
+      [
+        "sue：跟随、追求一条线到法律追究",
+        "sue · sues · sued · suing"
+      ],
+      [
+        "second → sec → secs：秒到一会儿",
+        "sec · secs"
+      ],
+      [
+        "同一秒的不同细分：毫秒、微秒、纳秒",
+        "milliseconds · microseconds · nanoseconds"
+      ],
+      [
+        "sequi 跟随 → sequence → sequences",
+        "sequences"
+      ],
+      [
+        "pro- 向前 + secut- 跟随 → prosecutors",
+        "prosecutors"
       ]
     ],
     "contrasts": "**subsequently / consequently**：随后 / 因此；时间先后不能直接当因果。\n\n**prosecute / persecute**：提起、进行公诉 / 迫害。相应 prosecution、persecution 也必须分清。\n\n**sequence / sequel**：一个序列或顺序 / 接续原故事的作品。\n\n**consecutive / concurrent**：一个接一个不中断 / 同一时段重叠进行。",
@@ -66,7 +106,24 @@
       "persecutor",
       "ensue",
       "non sequitur",
-      "obsequious"
+      "obsequious",
+      "seconds",
+      "consequences",
+      "pursuing",
+      "pursued",
+      "pursues",
+      "pursuers",
+      "sue",
+      "sues",
+      "sued",
+      "suing",
+      "sec",
+      "secs",
+      "milliseconds",
+      "microseconds",
+      "nanoseconds",
+      "sequences",
+      "prosecutors"
     ]
   }
 ]

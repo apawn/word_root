@@ -1,0 +1,133 @@
+[
+  {
+    "id": "B3060",
+    "meaning": "平展的一片：盘、护板、镀层按对象理解",
+    "core": "PLATE：一片铺开，再看用途",
+    "image": "plate → plating、platelet；nameplate、boilerplate、breastplate 分别选标牌、板材历史、胸前护板。",
+    "intro": "plate 的盘子和板片共享平展材料意象，组合却不能一律译成盘。boilerplate 的套话义和 breastplate 的马具义各有专门路径。",
+    "forms": "plate 的古法语扁平板片词族 → plate；plate + -ing/-let；name/boiler/breast + plate。\n\n金属薄片等旧义，经平面形状扩展到餐盘、牌板等。",
+    "branches": [
+      [
+        "基础、表层与小板",
+        "plate · plating · platelet"
+      ],
+      [
+        "标牌、固定材料与护胸",
+        "nameplate · boilerplate · breastplate"
+      ],
+      [
+        "plate → plates：薄平片、盘子与牌板",
+        "plate · plates"
+      ]
+    ],
+    "contrasts": "platelet 是血小板等专名，不是家里所有小餐盘的通用称呼；breastplate 胸甲与马胸带看对象。",
+    "practice": "The display includes a breastplate with decorative plating.\n\n展柜里有一件带装饰镀层的胸甲。",
+    "words": [
+      "plate",
+      "plating",
+      "platelet",
+      "nameplate",
+      "boilerplate",
+      "breastplate",
+      "plates"
+    ],
+    "exclude": {
+      "plater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3691",
+    "meaning": "日常吃什么，与有计划地调饮食",
+    "core": "DIET：一整套饮食，不只减肥",
+    "image": "diet → dieter 控制饮食者；dietitian 专业人员；议会 Diet 另按历史用法辨。",
+    "intro": "熊猫的 diet 可以只是竹子为主的食物构成。dieter 和 dietitian 身份不同，不能把自己在控制饮食当成专业资格。",
+    "forms": "díaita 生活安排 → diaeta → diete → diet；diet + -er；diet 与 -ician 类构词 → dietitian。\n\n饮食 diet 经法语、拉丁接希腊 diaita 生活方式，现代复数可说不同饮食习惯、饮食安排。饮食不等于一律减重，日常食物构成也可以叫 diet。",
+    "branches": [
+      [
+        "日常饮食与特别同形义",
+        "diet"
+      ],
+      [
+        "控制饮食者与专业职业",
+        "dieter · dietitian"
+      ],
+      [
+        "生活方式 → diet → diets",
+        "diets"
+      ]
+    ],
+    "contrasts": "diet 不等于永远减肥；dieter/dietitian 行为人物与职业；Diet 议会不编成开会吃饭。",
+    "practice": "The dietitian interviewed several dieters about their usual diet.\n\n营养师询问了几位节食者平时的饮食情况。",
+    "words": [
+      "diet",
+      "dieter",
+      "dietitian",
+      "diets"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2971",
+    "meaning": "发光、反光与表现出色",
+    "core": "SHINE：有光，也可让本事显出来",
+    "image": "shine → shiny、shiner；outshine 超过；shoeshine 擦鞋；sunshine、moonshine 各有既有组合义。",
+    "intro": "shone、shined 按用法留意，尤其擦亮鞋常 shined。shiner 乌眼青与 moonshine 私酿酒都不能只照字面猜到底。",
+    "forms": "sċīnan → shine；shine + -y/-er；out- + shine；shoe/sun/moon + shine。\n\n发光常 shone，擦亮鞋常 shined；照灯等用法有地区与搭配差异，不能简单规定及物动词一律 shined、不及物一律 shone。\n\n古英语 scinan 的发光词，现代 ing 去 e，发光和擦亮的过去形式另有搭配偏好。\n\n古英语发光动词的延续，现代三单 -s 不改变基础元音；名词复数另按具体用途认。\n\nshimmer 接古英语 scimerian，关联 scimian 等发光材料；与 shine 在较远重构层联系，不是现代 shine 直接改字母产生。\n\nshine 去 e 接 -y 成 shiny，比较、最高级再在形容词上变，不把整个 shiny 一次拆成不相干词尾。",
+    "branches": [
+      [
+        "基础与直接性质、事物",
+        "shine · shiny · shiner"
+      ],
+      [
+        "比较与擦亮服务",
+        "outshine · shoeshine"
+      ],
+      [
+        "自然光与特定引申",
+        "sunshine · moonshine"
+      ],
+      [
+        "shone 与 shined 的搭配倾向",
+        "shine · shone · shined"
+      ],
+      [
+        "shine → shining：发光，也显得出色",
+        "shine · shining"
+      ],
+      [
+        "shine → shines：发光、擦亮和表现出众",
+        "shine · shines"
+      ],
+      [
+        "shine 的较远发光词族与 shimmer 的柔光",
+        "shine · shimmer · shimmers · shimmered · shimmering"
+      ],
+      [
+        "shine → shiny → shinier、shiniest",
+        "shiny · shinier · shiniest"
+      ]
+    ],
+    "contrasts": "shine/flash 持续亮与短闪；shiny/bright 表面光泽与更广亮度；shiner 不全是擦亮的人。",
+    "practice": "After a shoeshine, his shiny shoes seemed to outshine the rest of his outfit.\n\n擦过鞋后，他锃亮的鞋几乎比其余衣着都抢眼。",
+    "words": [
+      "shine",
+      "shiny",
+      "shiner",
+      "outshine",
+      "shoeshine",
+      "sunshine",
+      "moonshine",
+      "shone",
+      "shined",
+      "shining",
+      "shines",
+      "shimmer",
+      "shimmers",
+      "shimmered",
+      "shimmering",
+      "shinier",
+      "shiniest"
+    ],
+    "exclude": {}
+  }
+]

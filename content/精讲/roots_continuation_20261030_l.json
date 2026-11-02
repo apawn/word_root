@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B2960",
+    "meaning": "骑乘、搭乘与压过原决定",
+    "core": "RIDE：坐在载体上随它移动",
+    "image": "先 ride、ridden、riding，再 rider；override 走压过分支，joyride、hayride、rideshare 各看活动。",
+    "intro": "古英语骑乘词保留 ride—rode—ridden 的变化。现代载体扩展到车与游乐设施，override 又有优先级压过的抽象义。",
+    "forms": "ride → rode → ridden；ride → riding、rider；over- + ride；joy/hay + ride；ride + share。\n\nrode 是过去式；ridden 是过去分词。\n\n古英语 ridan 本族传承，三单 rides 与过去式 rode 分开。\n\n古英语 ridere 已有角色名，现代可对应 ride 去 e 加完整 er。",
+    "branches": [
+      [
+        "动作、词形与人物",
+        "ride · ridden · riding · rider"
+      ],
+      [
+        "压过与不同乘坐活动",
+        "override · joyride · hayride · rideshare"
+      ],
+      [
+        "ride、rode、ridden：骑乘的三种形式",
+        "ride · rode · ridden"
+      ],
+      [
+        "ride → rides：骑着、乘着走，一趟乘坐",
+        "ride · rides"
+      ],
+      [
+        "rider → riders：骑乘的人；文件附加条款另发展",
+        "ride · rider · riders"
+      ]
+    ],
+    "contrasts": "drive 驾驶与 ride 搭乘有侧重；rode 是过去式，ridden 是过去分词；override 压过不同于 overload 超载。",
+    "practice": "The experienced rider had never ridden that horse before.\n\n那位经验丰富的骑手以前从未骑过那匹马。",
+    "words": [
+      "ride",
+      "ridden",
+      "riding",
+      "rider",
+      "override",
+      "joyride",
+      "hayride",
+      "rideshare",
+      "rode",
+      "rides",
+      "riders"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3461",
+    "meaning": "桌面、表格与餐桌用具",
+    "core": "TABLE：一块能摆东西、排信息的平面",
+    "image": "先桌子和表格，再大匙、桌布、餐具；最后转盘与已有时间表、桌面词。",
+    "intro": "最终来自拉丁 tabula 板、列表；早期日耳曼借词和法语词在英语中汇合。table 的动词义需要留意英美差异。",
+    "forms": "table + spoon/cloth/ware；turn + table；time + table → timetable；table + top → tabletop。\n\n拉丁 tabula 板、列表，经较早英语借入和法语影响形成现代词。\n\ncloths 为单块布的复数，和固定衣物名 clothes 区分。\n\n账单 tab 可能缩自 tabulation 或 tablet；Tab 键缩自 tabulator。小片、标签这支的更早来源不确定，不能全部归为拉丁 tabula。\n\n标签小片支远源不定，Tab 键则截短自 tabulator；tabbed 文档接界面标签，按 Tab 接键名。\n\ntable 提供平台材料；铁路转车盘、唱片播放设备按用途区别。",
+    "branches": [
+      [
+        "基本平面与安排",
+        "table · timetable · tabletop"
+      ],
+      [
+        "餐桌相关",
+        "tablespoon · tablecloth · tableware"
+      ],
+      [
+        "旋转平台",
+        "turntable"
+      ],
+      [
+        "table → tables：平面家具与排成行列的信息",
+        "table · tables"
+      ],
+      [
+        "tablecloth → tablecloths：桌面覆盖布",
+        "table · tablecloth · tablecloths"
+      ],
+      [
+        "tab 的截短支与标签支分开认识",
+        "table · tab · tabs"
+      ],
+      [
+        "tab 的标签、Tab 键动作及变化",
+        "tab · tabs · tabbed · tabbing"
+      ],
+      [
+        "turntable → turntables：转盘与唱盘机",
+        "turntable · turntables"
+      ]
+    ],
+    "contrasts": "table 议题动词有地区差异；tablespoon 的容量看地区；tableware 总称与 cutlery 不完全同范围。",
+    "practice": "The tablecloth and tableware were ready before the guests arrived.\n\n客人到来前，桌布和餐具都准备好了。",
+    "words": [
+      "table",
+      "timetable",
+      "tabletop",
+      "tablespoon",
+      "tablecloth",
+      "tableware",
+      "turntable",
+      "tables",
+      "tablecloths",
+      "tab",
+      "tabs",
+      "tabbed",
+      "tabbing",
+      "turntables"
+    ],
+    "exclude": {}
+  }
+]

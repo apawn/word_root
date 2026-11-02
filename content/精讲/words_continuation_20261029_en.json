@@ -1,0 +1,849 @@
+[
+  {
+    "word": "sea",
+    "ipa": "/siː/",
+    "meaning": "海；海洋；大片事物的比喻",
+    "sense": "一片与陆地相接的广大咸水水域；人群等铺满视野，也能像一片海一样描述。",
+    "split": "继承古英语 sǣ，属日耳曼古老水域词。更远来源有不同解释，不把凶猛、渗透等假说讲成确定现代意思。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ]
+    ],
+    "explanation": "at sea 在海上，by the sea 在海边，a sea of faces 一片人海；all at sea 也可说茫然无措。",
+    "usage": "at sea；by the sea；a sea of；go to sea。",
+    "contrast": "sea 与 see 看见同音不同源；ocean 常指全球较大洋域，具体地名、日常泛称各有习惯，不按大小一刀切。",
+    "examples": [
+      [
+        "We spent the summer by the sea.",
+        "我们在海边度过了夏天。"
+      ],
+      [
+        "She looked out at a sea of faces.",
+        "她望着眼前密密麻麻的人群。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sea#English"
+    ]
+  },
+  {
+    "word": "seashore",
+    "ipa": "英 /ˈsiːʃɔː/；美 /ˈsiːʃɔːr/",
+    "meaning": "海岸；海滨",
+    "sense": "海水与陆地交接、走到水边能踩到的那一带岸地。",
+    "split": "sea + shore 岸，按海的岸边组合。shore 并不只指沙滩，岩石岸也可包括。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + shore → seashore",
+        "海的岸边 → 海岸"
+      ]
+    ],
+    "explanation": "walk along the seashore 沿海岸走，seashore wildlife 海滨生物。",
+    "usage": "along the seashore；on the seashore；seashore wildlife。",
+    "contrast": "beach 海滩通常强调沙、石等岸滩地形，seashore 更泛指海岸边；海岸不一定全是沙。",
+    "examples": [
+      [
+        "We walked along the seashore at sunset.",
+        "日落时，我们沿海岸散步。"
+      ],
+      [
+        "The children explored the rocks on the seashore.",
+        "孩子们在海岸边的岩石间探索。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seashore#English"
+    ]
+  },
+  {
+    "word": "seacoast",
+    "ipa": "英 /ˈsiːkəʊst/；美 /ˈsiːkoʊst/",
+    "meaning": "海岸；沿海地带",
+    "sense": "把陆地临海的那条边以及附近沿海地带作为整体来看。",
+    "split": "sea + coast 海岸，复合强调海边区域；coast 单独在常见语境中本来也多指海岸。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + coast → seacoast",
+        "临海岸线与地带"
+      ]
+    ],
+    "explanation": "the northern seacoast 北部海岸，towns along the seacoast 沿海城镇。",
+    "usage": "along the seacoast；a rocky seacoast；a seacoast town。",
+    "contrast": "seacoast 和 seashore 有重合，前者更易概括沿海地域，后者常聚焦水陆相接的岸边。",
+    "examples": [
+      [
+        "Small fishing towns line the seacoast.",
+        "沿海分布着一些小渔镇。"
+      ],
+      [
+        "The road follows the rocky seacoast.",
+        "道路沿着岩石海岸延伸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seacoast#English"
+    ]
+  },
+  {
+    "word": "seafloor",
+    "ipa": "英 /ˈsiːflɔː/；美 /ˈsiːflɔːr/",
+    "meaning": "海底",
+    "sense": "把海水下面的地表想成海的地板；有山、有谷，并不真像室内地板一样平。",
+    "split": "sea + floor 底面、地面，形成海底名词。与已有 seabed 同义范围广泛重合。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + floor → seafloor",
+        "海的底面 → 海底"
+      ]
+    ],
+    "explanation": "map the seafloor 绘制海底地图，the deep seafloor 深海底部。",
+    "usage": "the deep seafloor；map the seafloor；seafloor features。",
+    "contrast": "seafloor 海底地表，undersea 海面下的；海底与水中不同深度不等同。",
+    "examples": [
+      [
+        "The expedition mapped a section of the seafloor.",
+        "考察队绘制了一片海底的地图。"
+      ],
+      [
+        "The camera recorded life on the seafloor.",
+        "摄像机记录了海底生物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seafloor#English"
+    ]
+  },
+  {
+    "word": "undersea",
+    "ipa": "英 /ˈʌndəsiː/；美 /ˈʌndərsiː/",
+    "meaning": "海底、海面下的",
+    "sense": "位置在海面以下，可以是在海床上，也可以是在水中，具体由后面名词决定。",
+    "split": "under- 在下 + sea，主要作形容词，现代常见海底电缆、海下探测等。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "under- + sea → undersea",
+        "海面下的"
+      ]
+    ],
+    "explanation": "an undersea cable 海底电缆，undersea exploration 海下探索。",
+    "usage": "an undersea cable；undersea exploration；an undersea volcano。",
+    "contrast": "undersea 位于海下，不是出海次数少；overseas 海外是另一空间关系。",
+    "examples": [
+      [
+        "An undersea cable connects the two islands.",
+        "一条海底电缆连接着两座岛。"
+      ],
+      [
+        "The documentary explores undersea volcanoes.",
+        "纪录片探索海底火山。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/undersea#English"
+    ]
+  },
+  {
+    "word": "seaward",
+    "ipa": "英 /ˈsiːwəd/；美 /ˈsiːwərd/",
+    "meaning": "朝海的；向海地",
+    "sense": "站在陆地上朝海看或移动，方向就是 seaward；不是某个固定的东南西北。",
+    "split": "sea + -ward 朝向，可作形容词、副词，历史中古英语已有相应形式。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + -ward → seaward",
+        "朝向海 → 向海的、向海地"
+      ]
+    ],
+    "explanation": "the seaward side 朝海一侧，look seaward 朝海看；也有 seawards 副词变体。",
+    "usage": "the seaward side；look seaward；move seaward。",
+    "contrast": "seaward 是方向，seaworthy 是适航能力；别把两个 -ward、-worthy 后部混成一个后缀。",
+    "examples": [
+      [
+        "The house has windows on its seaward side.",
+        "房子朝海的一侧开着窗。"
+      ],
+      [
+        "They looked seaward from the cliff.",
+        "他们从悬崖上朝海望去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaward#English"
+    ]
+  },
+  {
+    "word": "seawall",
+    "ipa": "英 /ˈsiːwɔːl/；美 /ˈsiːwɔːl/",
+    "meaning": "海堤；海岸防护墙",
+    "sense": "在海岸筑起一道屏障，减少海浪、潮水对岸地的冲击；不是用海水做的墙。",
+    "split": "sea + wall 墙，古英语已有相应组合。结构、材料可不同，统一抓住海岸防护用途。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + wall → seawall",
+        "海岸的防护墙 → 海堤"
+      ]
+    ],
+    "explanation": "build a seawall 建海堤，a concrete seawall 混凝土海堤；具体防护能力看工程条件。",
+    "usage": "a concrete seawall；build a seawall；repair the seawall。",
+    "contrast": "seawall 防护岸地，pier 栈桥向水中伸出供通行或停靠；功能不同。",
+    "examples": [
+      [
+        "Workers repaired the seawall after the storm.",
+        "风暴后，工人修复了海堤。"
+      ],
+      [
+        "A path runs along the top of the seawall.",
+        "海堤顶部沿线有一条小路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seawall#English"
+    ]
+  },
+  {
+    "word": "seascape",
+    "ipa": "/ˈsiːskeɪp/",
+    "meaning": "海景；海景画、照片",
+    "sense": "可以是眼前的海上景色，也可以是把这种景色画、拍下来的一件作品。",
+    "split": "sea + -scape，仿 landscape 景观的后部组合，表示某种景色、景象。不是 sea + escape 逃跑。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + -scape → seascape",
+        "海的景观 → 海景、海景作品"
+      ]
+    ],
+    "explanation": "a dramatic seascape 壮观海景，paint seascapes 画海景画。",
+    "usage": "a dramatic seascape；paint a seascape；a seascape photograph。",
+    "contrast": "seascape 可指景象或作品，seashore 则是海岸地点；不要求每幅海景画里都有沙滩。",
+    "examples": [
+      [
+        "The gallery displays several seascapes by local artists.",
+        "画廊展出几幅本地艺术家的海景画。"
+      ],
+      [
+        "The changing light transformed the seascape.",
+        "变化的光线改变了眼前的海景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seascape#English"
+    ]
+  },
+  {
+    "word": "seaport",
+    "ipa": "英 /ˈsiːpɔːt/；美 /ˈsiːpɔːrt/",
+    "meaning": "海港；海港城市",
+    "sense": "船能从海上来停靠、装卸和出入的港口，词也可以代指围绕港口形成的城市。",
+    "split": "sea + port 港，按与海运相接的用途组合。port 这里不是葡萄酒或计算机端口。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + port → seaport",
+        "海运港口 → 海港、港城"
+      ]
+    ],
+    "explanation": "a busy seaport 繁忙海港，an international seaport 国际海港。",
+    "usage": "a busy seaport；a major seaport；an international seaport。",
+    "contrast": "seaport 海运港，airport 航空港；harbour 更常强调供船停泊的水域，二者可有重合。",
+    "examples": [
+      [
+        "The town developed into a busy seaport.",
+        "小镇发展成了繁忙海港。"
+      ],
+      [
+        "The cargo arrived at the seaport yesterday.",
+        "货物昨天到达海港。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaport#English"
+    ]
+  },
+  {
+    "word": "seaplane",
+    "ipa": "/ˈsiːpleɪn/",
+    "meaning": "水上飞机",
+    "sense": "能在水面起降的飞机；名字用了 sea，但并不只能在咸水海面使用。",
+    "split": "sea + plane 飞机，按水面活动能力命名。不同机型用浮筒或机身等结构适应水面。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + plane → seaplane",
+        "水面起降的飞机 → 水上飞机"
+      ]
+    ],
+    "explanation": "a small seaplane 小型水上飞机，a seaplane flight 水上飞机航程。",
+    "usage": "a small seaplane；a seaplane flight；board a seaplane。",
+    "contrast": "seaplane 不是海船，plane 取飞机义；它也可能在湖面、河面使用。",
+    "examples": [
+      [
+        "The seaplane landed on the lake.",
+        "水上飞机降落在湖面。"
+      ],
+      [
+        "We took a seaplane to the island.",
+        "我们乘水上飞机去了岛上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaplane#English"
+    ]
+  },
+  {
+    "word": "seaway",
+    "ipa": "/ˈsiːweɪ/",
+    "meaning": "海路；海上航道",
+    "sense": "在水面上供船通行的路线，有的也指连通海洋的整套航运水道。",
+    "split": "sea + way 路线，古英语已有相应海路组合。现代可泛指海上路线，也见于具体航道名称。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + way → seaway",
+        "海上的通路 → 海路、航道"
+      ]
+    ],
+    "explanation": "a busy seaway 繁忙航道，an international seaway 国际航道；名称不要求水面真画了一条路。",
+    "usage": "a busy seaway；a major seaway；an international seaway。",
+    "contrast": "seaway 通路，seawall 防护墙；有共同 sea 不代表后部可以忽略。",
+    "examples": [
+      [
+        "The strait is a busy international seaway.",
+        "这道海峡是一条繁忙国际航道。"
+      ],
+      [
+        "The map shows the main seaways around the island.",
+        "地图标出了岛周围的主要海路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaway#English"
+    ]
+  },
+  {
+    "word": "seaman",
+    "ipa": "/ˈsiːmən/",
+    "meaning": "海员；水手；特定海军军衔",
+    "sense": "在船上从事航海工作的人；某些海军体系也把它用作具体等级称谓。",
+    "split": "sea + man，古英语已有 sǣmann。复数 seamen，不能因为后面是 man 就把海上任何男子都算职业海员。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + man → seaman",
+        "从事海上工作的人 → 海员"
+      ]
+    ],
+    "explanation": "an experienced seaman 有经验的海员，an able seaman 熟练水手、特定等级称呼。",
+    "usage": "an experienced seaman；a merchant seaman；an able seaman。",
+    "contrast": "seaman 人，seam 接缝、semen 精液是同音或近音的别词；具体语境与拼写很重要。",
+    "examples": [
+      [
+        "The experienced seaman noticed the change in the weather.",
+        "有经验的海员注意到了天气变化。"
+      ],
+      [
+        "He worked as a merchant seaman for many years.",
+        "他从事商船海员工作多年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaman#English"
+    ]
+  },
+  {
+    "word": "seafarer",
+    "ipa": "英 /ˈsiːfeərə/；美 /ˈsiːferər/",
+    "meaning": "航海者；海员",
+    "sense": "长期在海上航行、工作的人，比具体某个船上岗位更概括。",
+    "split": "sea + farer，farer 接 fare 行进、旅行的旧义，不是 far 远加一个随意字母。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + farer → seafarer",
+        "在海上旅行、工作的人 → 航海者"
+      ]
+    ],
+    "explanation": "an experienced seafarer 有经验的航海者，seafarers’ welfare 海员福利。",
+    "usage": "an experienced seafarer；seafarers’ welfare；the lives of seafarers。",
+    "contrast": "seafarer 通常不单指偶尔坐一次游船的游客；sea traveller 泛说海上旅客是更宽的描述。",
+    "examples": [
+      [
+        "The centre provides support for visiting seafarers.",
+        "中心为到访海员提供支持。"
+      ],
+      [
+        "The book describes the lives of early seafarers.",
+        "书中描写早期航海者的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seafarer#English"
+    ]
+  },
+  {
+    "word": "seafaring",
+    "ipa": "英 /ˈsiːfeərɪŋ/；美 /ˈsiːferɪŋ/",
+    "meaning": "航海的；海上生活、航海业",
+    "sense": "把在海上谋生、航行作为一种生活或活动来讲，也可修饰有航海传统的民族。",
+    "split": "sea + faring 行旅，旧有海上行进的组合。与 seafarer 人物相邻记，faring 不是把 fare 车费收起来。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + faring → seafaring",
+        "海上行旅 → 航海活动、航海的"
+      ]
+    ],
+    "explanation": "a seafaring life 航海生活，a seafaring nation 航海国家，seafaring traditions 航海传统。",
+    "usage": "a seafaring life；a seafaring nation；seafaring traditions。",
+    "contrast": "seafarer 人，seafaring 活动、性质；seafood 海鲜则是另一用途复合。",
+    "examples": [
+      [
+        "He left behind a seafaring life to settle inland.",
+        "他告别海上生活，到内陆定居。"
+      ],
+      [
+        "The museum celebrates the town’s seafaring traditions.",
+        "博物馆展示并纪念小镇的航海传统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seafaring#English"
+    ]
+  },
+  {
+    "word": "seagoing",
+    "ipa": "英 /ˈsiːɡəʊɪŋ/；美 /ˈsiːɡoʊɪŋ/",
+    "meaning": "出海航行的；用于海上航行的",
+    "sense": "不是只在港内、河湖里活动，而是面向海上航行的船舶等。",
+    "split": "sea + going，去、航行的进行形式作为复合修饰成分。成词强调用途或航行性质，不一定此刻正在海上。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + going → seagoing",
+        "面向海上航行 → 出海的、海用的"
+      ]
+    ],
+    "explanation": "a seagoing vessel 海船，a seagoing career 航海职业。",
+    "usage": "a seagoing vessel；a seagoing ship；a seagoing career。",
+    "contrast": "seagoing 说航行用途，seaworthy 说适航状态；原本海用的船也可能因损坏而不适航。",
+    "examples": [
+      [
+        "The harbour can accommodate large seagoing vessels.",
+        "港口能容纳大型海船。"
+      ],
+      [
+        "She trained for a seagoing career.",
+        "她接受培训，准备从事航海职业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seagoing#English"
+    ]
+  },
+  {
+    "word": "seaborne",
+    "ipa": "英 /ˈsiːbɔːn/；美 /ˈsiːbɔːrn/",
+    "meaning": "海运的；由海上载运、传播的",
+    "sense": "人或货物通过海路被带过来，重点是运输途径。",
+    "split": "sea + borne 被携带，borne 是 bear 携带的过去分词。不是 born 出生，不表示出生在海上。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + borne → seaborne",
+        "由海路携带 → 海运的"
+      ]
+    ],
+    "explanation": "seaborne trade 海运贸易，seaborne cargo 海运货物；具体对象也可为海上传播而来。",
+    "usage": "seaborne trade；seaborne cargo；seaborne transport。",
+    "contrast": "seaborne 路线，seagoing 航海用途，seaworthy 状态；三词信息焦点不同。",
+    "examples": [
+      [
+        "The port handles a large share of the country’s seaborne trade.",
+        "该港处理国内很大一部分海运贸易。"
+      ],
+      [
+        "The report tracks changes in seaborne cargo volumes.",
+        "报告追踪海运货量变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaborne#English"
+    ]
+  },
+  {
+    "word": "seaworthy",
+    "ipa": "英 /ˈsiːwɜːði/；美 /ˈsiːwɜːrði/",
+    "meaning": "适航的；适合海上航行的",
+    "sense": "船的状况、装备等能胜任相关航行，而不是只看外表漂不漂亮。",
+    "split": "sea + worthy 适合、配得上的，组合成海上航行合格状态的形容词。具体标准随航程与制度而定。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + worthy → seaworthy",
+        "能胜任海上航行 → 适航的"
+      ]
+    ],
+    "explanation": "a seaworthy vessel 适航船舶，make a boat seaworthy 使船恢复适航状态；不从名称保证所有天气下绝无风险。",
+    "usage": "a seaworthy vessel；remain seaworthy；make a boat seaworthy。",
+    "contrast": "seaworthy 适航，不是值得欣赏的海景；worthy 在这里接胜任、适合的功能。",
+    "examples": [
+      [
+        "The inspection found the vessel seaworthy.",
+        "检查认定船舶适航。"
+      ],
+      [
+        "They repaired the boat to make it seaworthy again.",
+        "他们修理船只，让它重新具备适航状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaworthy#English"
+    ]
+  },
+  {
+    "word": "seaweed",
+    "ipa": "/ˈsiːwiːd/",
+    "meaning": "海藻",
+    "sense": "日常对海里较大藻类的集合称呼；weeds 的杂草语气不代表它一定没用。",
+    "split": "sea + weed 植物、草类俗称，形成海藻类名词。现代科学分类不等于陆地杂草，许多种类可供食用或工业利用。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + weed → seaweed",
+        "海中草状生物 → 海藻"
+      ]
+    ],
+    "explanation": "dried seaweed 干海藻，seaweed on the beach 海滩上的海藻；通常作不可数集合名词，分种类时可用 seaweeds。",
+    "usage": "dried seaweed；edible seaweed；seaweed on the shore。",
+    "contrast": "seaweed 海藻与 seagrass 海草不同，后者是真正开花植物的海生类群；不因中文都像草就合并。",
+    "examples": [
+      [
+        "Seaweed washed up on the beach after the storm.",
+        "风暴后，海藻被冲上沙滩。"
+      ],
+      [
+        "The soup contains dried seaweed.",
+        "汤里有干海藻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seaweed#English"
+    ]
+  },
+  {
+    "word": "seagull",
+    "ipa": "/ˈsiːɡʌl/",
+    "meaning": "海鸥；鸥类的日常统称",
+    "sense": "海边常见的鸥类俗称，但并非每种都只在海上生活，内陆也能见到。",
+    "split": "sea + gull 鸥，后者为完整鸟名，不是 girl 女孩的变体。现代俗称覆盖多种鸥，不对应唯一物种。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + gull → seagull",
+        "海边鸥类的俗称"
+      ]
+    ],
+    "explanation": "a flock of seagulls 一群海鸥，seagulls over the harbour 港口上方的海鸥。",
+    "usage": "a flock of seagulls；a calling seagull；seagulls over the harbour。",
+    "contrast": "seagull 日常泛称，正式具体物种常用某某 gull；seabird 海鸟范围更广。",
+    "examples": [
+      [
+        "Seagulls circled above the fishing boats.",
+        "海鸥在渔船上方盘旋。"
+      ],
+      [
+        "A seagull landed on the roof beside us.",
+        "一只海鸥落在我们旁边的屋顶上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seagull#English"
+    ]
+  },
+  {
+    "word": "seashell",
+    "ipa": "/ˈsiːʃel/",
+    "meaning": "海贝壳；海生软体动物的壳",
+    "sense": "沙滩上捡到的螺壳、贝壳等，把海洋来源与壳这个部件组合起来。",
+    "split": "sea + shell 壳，形成海洋贝壳名词。所指是壳，不一定里面还有活体动物。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + shell → seashell",
+        "海洋动物的壳 → 海贝壳"
+      ]
+    ],
+    "explanation": "collect seashells 捡贝壳，a broken seashell 碎贝壳，a seashell pattern 贝壳纹样。",
+    "usage": "collect seashells；a broken seashell；a seashell necklace。",
+    "contrast": "seashell 是壳，shellfish 常指可食用贝、甲壳类动物；两者不是同样所指。",
+    "examples": [
+      [
+        "The children found seashells along the beach.",
+        "孩子们沿海滩发现了一些贝壳。"
+      ],
+      [
+        "The frame was decorated with small seashells.",
+        "相框用小贝壳装饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seashell#English"
+    ]
+  },
+  {
+    "word": "seabird",
+    "ipa": "英 /ˈsiːbɜːd/；美 /ˈsiːbɜːrd/",
+    "meaning": "海鸟",
+    "sense": "生活、取食与海洋联系密切的鸟类统称；包括许多不同种类，并不是只会游泳的鸟。",
+    "split": "sea + bird，按生活环境命名。哪些类群归入海鸟有具体生态、研究语境，不从拼写推出统一物种。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + bird → seabird",
+        "与海洋生活密切相关的鸟类"
+      ]
+    ],
+    "explanation": "a seabird colony 海鸟群落，seabird nesting sites 海鸟繁殖地。",
+    "usage": "a seabird colony；seabird nesting sites；seabird populations。",
+    "contrast": "seabird 海鸟大类，seagull 鸥类俗称范围较窄；penguin 企鹅、albatross 信天翁等也属于不同海鸟类群。",
+    "examples": [
+      [
+        "The cliffs support a large seabird colony.",
+        "悬崖上栖息着一个庞大的海鸟群落。"
+      ],
+      [
+        "The survey recorded changes in seabird populations.",
+        "调查记录了海鸟种群的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seabird#English"
+    ]
+  },
+  {
+    "word": "seasick",
+    "ipa": "/ˈsiːsɪk/",
+    "meaning": "晕船的",
+    "sense": "坐船受运动影响，感觉恶心、不舒服；名字说海上发病，但湖面乘船也会遇到。",
+    "split": "sea + sick 不舒服、恶心，中古英语已有对应表达。成词特指晕船，不等于在海上感染任意疾病。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "sea + sick → seasick",
+        "船上运动引发不适 → 晕船的"
+      ]
+    ],
+    "explanation": "feel seasick 感到晕船，get seasick 晕船；作为词义学习，不据此判断每种恶心的原因。",
+    "usage": "feel seasick；get seasick；a seasick passenger。",
+    "contrast": "seasick 晕船，homesick 想家；都以 sick 结尾，前部决定实际固定词义。",
+    "examples": [
+      [
+        "I felt seasick during the crossing.",
+        "渡海途中，我觉得晕船。"
+      ],
+      [
+        "A seasick passenger lay quietly on the bench.",
+        "一位晕船乘客安静地躺在长椅上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seasick#English"
+    ]
+  },
+  {
+    "word": "seasickness",
+    "ipa": "/ˈsiːsɪknəs/",
+    "meaning": "晕船；晕船不适",
+    "sense": "把晕船的状态作为一种不适来讲，而不是拿形容词直接充当名词。",
+    "split": "seasick + -ness，性质状态名词；也能按 sea + sickness 理解。这里 -ness 不表示人。",
+    "history": [
+      [
+        "古英语 sǣ → 中古英语 see → sea",
+        "海；日耳曼古老水域词，更远来历有争论"
+      ],
+      [
+        "现代 sea 词族",
+        "海域、海水 → 岸边、航行、海洋生物等复合词"
+      ],
+      [
+        "seasick + -ness → seasickness",
+        "晕船的 → 晕船状态、不适"
+      ]
+    ],
+    "explanation": "suffer from seasickness 晕船，a bout of seasickness 一阵晕船不适；通常不可数。",
+    "usage": "suffer from seasickness；a bout of seasickness；seasickness during a voyage。",
+    "contrast": "I feel seasick 形容词，I suffer from seasickness 名词；不是 I feel seasickness 的机械替换。",
+    "examples": [
+      [
+        "Seasickness spoiled the first day of the voyage.",
+        "晕船影响了航程的第一天。"
+      ],
+      [
+        "She had never experienced seasickness before that trip.",
+        "那次旅行前，她从未体验过晕船。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seasickness#English"
+    ]
+  }
+]

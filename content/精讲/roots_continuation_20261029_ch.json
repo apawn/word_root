@@ -1,0 +1,209 @@
+[
+  {
+    "id": "B2620",
+    "meaning": "未来；前途；未来风格与未来主义",
+    "core": "FUTURE：将要存在，与人们想象的未来分开",
+    "image": "future 是未来本身或将来的；futuristic 是风格，futurist 是人，futurism 是思想或历史艺术运动。",
+    "intro": "future 经法语来自拉丁语 futūrus 将要存在的。现代 -istic、-ist、-ism 分别改变性质、人物与思想运动的表达。",
+    "forms": "future → futuristic、futurist、futurism；三者互相对照，不把风格与历史运动直接画等号。\n\nfuture 经法语接拉丁 futurus 将存在、将成为的材料，属 esse 是的历史变位体系。复数既可说不同未来走向，也可在金融语境中作期货名称。",
+    "branches": [
+      [
+        "时间、前途与风格",
+        "future · futuristic"
+      ],
+      [
+        "人物与思想运动",
+        "futurist · futurism"
+      ],
+      [
+        "future → futures：可能的未来与期货",
+        "futures"
+      ]
+    ],
+    "contrasts": "今天的建筑可以 futuristic；不代表它是未来才建，也不代表一定属于历史 Futurism。",
+    "practice": "The futurist discussed whether futuristic cities would really improve our future lives.\n\n未来趋势研究者讨论：充满未来感的城市是否真能改善未来生活。",
+    "words": [
+      "future",
+      "futuristic",
+      "futurist",
+      "futurism",
+      "futures"
+    ],
+    "exclude": {
+      "non-future": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "future-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "futurity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3809",
+    "meaning": "休息、安宁、支托；另源的剩余",
+    "core": "REST：休息与剩下分两条来路",
+    "image": "休息、支撑部位及不安是一组；the rest 的剩余来自法语、拉丁语另一支，不把二者编成同一现代派生。",
+    "intro": "休息接旧英语，余下接拉丁语 restāre 经法语。arrest 的旧拉丁语站住、停住背景与后者词族相关，不能直接按英语休息加 ar- 理解。",
+    "forms": "rest → restful ↔ restless → restlessness；unrest 群体不安；armrest、headrest、restroom 看固定用途；arrest 单看其拉丁语历史。\n\n休息 rest 承古英语 ræstan 等日耳曼材料；剩下、依归一支经法语 rester、拉丁 restare。现代同形 -s，复数与第三人称按语法辨认。",
+    "branches": [
+      [
+        "休息、宁静与不安",
+        "rest · restful · restless · restlessness · unrest"
+      ],
+      [
+        "支托与固定设施名",
+        "armrest · headrest · restroom"
+      ],
+      [
+        "另一条旧拉丁分支的相关词",
+        "arrest"
+      ],
+      [
+        "rest 休息与剩下分线 → rests",
+        "rests"
+      ]
+    ],
+    "contrasts": "restful 放松，restless 静不下；unrest 常说群体动荡。the rest 其余不是睡觉；arrest 也不是英语休息的直接派生。",
+    "practice": "After a restless night, she rested in the armchair and let her hand lie on the armrest.\n\n辗转一夜后，她在扶手椅上休息，把手搁在扶手上。",
+    "words": [
+      "rest",
+      "restful",
+      "restless",
+      "restlessness",
+      "unrest",
+      "armrest",
+      "headrest",
+      "restroom",
+      "arrest",
+      "rests"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3855",
+    "meaning": "认真、当真；严肃；严重",
+    "core": "SERIOUS：态度当真，问题也可能分量很重",
+    "image": "同一词既说人怎么对待事，也说事有多严重；不是所有 serious 都译不开心、面无表情。",
+    "intro": "serious 经法语接拉丁语 sērius 等形式，更远来源不强作定论。现代 -ly、-ness 分别表达方式与性质。",
+    "forms": "serious → seriously、seriousness。",
+    "branches": [
+      [
+        "态度与问题程度",
+        "serious"
+      ],
+      [
+        "方式、语气与性质",
+        "seriously · seriousness"
+      ]
+    ],
+    "contrasts": "take seriously 当回事；Are you serious? 你认真的吗？seriousness 可是认真态度，也可是严重程度。",
+    "practice": "She seriously considered the seriousness of the problem before making a decision.\n\n作决定前，她认真考虑了问题的严重程度。",
+    "words": [
+      "serious",
+      "seriously",
+      "seriousness"
+    ],
+    "exclude": {
+      "self-serious": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3444",
+    "meaning": "最近；新近程度",
+    "core": "RECENT：从现在回头看，距离还不远",
+    "image": "recent 形容事物，recently 给动作标时间，recency 把新近程度作为一个指标。",
+    "intro": "recent 来自拉丁语 recēns 新鲜、新近的，英语词干 recent-。后续 -ly、-cy 改变表达功能。",
+    "forms": "recent → recently、recency。\n\nrinse 通常经法语追到使清新、用水洗的拉丁材料；不是现代 recent 改字母而来。",
+    "branches": [
+      [
+        "事物与动作的近期",
+        "recent · recently"
+      ],
+      [
+        "新近程度这一性质",
+        "recency"
+      ],
+      [
+        "拉丁新鲜材料的不同路线：recent 与 rinse",
+        "recent · rinse · rinses · rinsed · rinsing"
+      ]
+    ],
+    "contrasts": "recent 不等于 current；recency 距今远近不等于 frequency 发生频率；recently 不强制只用一种时态。",
+    "practice": "The recent report compares the recency of updates across files changed recently.\n\n近期报告比较了最近修改过的文件各自更新距今多久。",
+    "words": [
+      "recent",
+      "recently",
+      "recency",
+      "rinse",
+      "rinses",
+      "rinsed",
+      "rinsing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3687",
+    "meaning": "结婚；婚姻；再次结婚与未婚状态",
+    "core": "MARRY：动作、关系与状态分开",
+    "image": "marry 是动作，married 是状态，marriage 是关系或概念；un-、re- 再分别说明否定与再次。",
+    "intro": "marry 经法语来自拉丁语结婚词族；marriage 经法语相关名词进入英语。现代 y 变 i 的形式变化在 married、remarried 中可见。",
+    "forms": "marry → married → unmarried；marriage 是相关名词；re- + marry → remarry。\n\n法语 mariage 名词整体借入，英语加复数 s。\n\nmarry 经法语 marier 接拉丁 maritare，与 maritus 丈夫相连，更远来源未定。加 -ing 时 y 保留，不套过去式改 i 的规则。",
+    "branches": [
+      [
+        "动作、状态与关系",
+        "marry · married · marriage"
+      ],
+      [
+        "否定状态与再次结婚",
+        "unmarried · remarry"
+      ],
+      [
+        "marriage → marriages：婚姻关系与结合",
+        "marriage · marriages"
+      ],
+      [
+        "marry → marrying：成婚与结合",
+        "marrying"
+      ]
+    ],
+    "contrasts": "marry someone；be married to someone；marriage 婚姻，wedding 婚礼；unmarried 不说明是否有恋爱伴侣。",
+    "practice": "They married young, and the book follows the changes in their marriage.\n\n他们年轻时结婚，书中讲述了他们婚姻中的变化。",
+    "words": [
+      "marry",
+      "married",
+      "marriage",
+      "unmarried",
+      "remarry",
+      "marriages",
+      "marrying"
+    ],
+    "exclude": {
+      "marry-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2494",
+    "meaning": "早晨；上午",
+    "core": "MORNING：一天前段，既可早晨也可上午",
+    "image": "日常直接结合时间搭配记忆：in the morning，tomorrow morning，on Monday morning。",
+    "intro": "morning 经中古英语 morwenynge 来自清晨旧词加后缀，现代可联系 morn。它不从 mourn 悼念而来。",
+    "forms": "morning；morn 是较旧、文学性的相关形式，本组先掌握现代常用词。\n\n本族清晨词的旧派生延续，现代复数常说每逢早晨。",
+    "branches": [
+      [
+        "日常时间与问候",
+        "morning"
+      ],
+      [
+        "morning → mornings：一次次清晨",
+        "morning · mornings"
+      ]
+    ],
+    "contrasts": "morning 上午与 dawn 破晓范围不同；mourning 悼念虽同音，词源和意思分开。",
+    "practice": "Good morning. We will discuss the plan tomorrow morning.\n\n早上好。我们明天上午讨论计划。",
+    "words": [
+      "morning",
+      "mornings"
+    ],
+    "exclude": {
+      "morning-land": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-morning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

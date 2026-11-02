@@ -1,0 +1,124 @@
+"""Molecular, junk, ironic, stamps and counter formations."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+M=[['拉丁 mōlēs 一团、质量 → 现代拉丁 molecula','通过指小构词，称很小的物质单元'],['法语 molécule → molecule','微小单元名称逐渐具有现代分子含义'],['molecule → molecular','与分子有关的性质、层面']]
+W('molecule','英 /ˈmɒlɪkjuːl/；美 /ˈmɑːlɪkjuːl/','分子；极微小的一点',
+ '原子像小零件，若干原子通过化学键结合成一个单元，就能构成分子。水分子由两个氢原子和一个氧原子组成，是最熟悉的例子。',
+ '借法语 molécule，接现代拉丁 molecula，它是拉丁 mōlēs 一团、质量的指小形式。词尾 -cule 保留指小构词的历史，现代科学义后来逐步明确。',M[:2],
+ 'a water molecule 一个水分子，the shape of a molecule 分子的形状；molecule 在较少见的修辞中也可泛说极微小的一点。',
+ 'a water molecule；the shape of a molecule。',
+ 'atom 原子与 molecule 分子不是同一级名称；分子可以包含同种或不同种原子，氧气 O₂ 也有分子。',
+ ('A water molecule contains two hydrogen atoms and one oxygen atom.','一个水分子包含两个氢原子和一个氧原子。'),('The model shows the shape of the molecule.','模型展示了这个分子的形状。'),sources=['https://en.wiktionary.org/wiki/molecule#English','https://www.etymonline.com/word/molecular'])
+W('molecular','英 /məˈlekjʊlə/；美 /məˈlekjələr/','分子的；涉及分子层面的',
+ '不是看一整杯水，而是放大到分子怎样排列、怎样作用；这种观察层面就 molecular。',
+ '现代对应 molecule 去末尾 e 加 -ar，形成形容词；历史也可能通过法语 moléculaire、现代拉丁 molecularis 的相应形式进入。',M,
+ 'molecular structure 分子结构，molecular biology 分子生物学，at the molecular level 在分子层面。',
+ 'molecular structure；at the molecular level。',
+ 'molecular 是形容词，molecule 是单元名称；intermolecular 分子之间、intramolecular 一个分子内部，前缀区分作用位置。',
+ ('The researchers studied the material’s molecular structure.','研究人员考察了这种材料的分子结构。'),('The change can be explained at the molecular level.','这种变化能从分子层面得到解释。'),sources=['https://en.wiktionary.org/wiki/molecular#English','https://www.etymonline.com/word/molecular'])
+R('B4270','从微小物质单元到分子层面的性质与位置','MOLECULAR：放大到分子，再看作用发生在里面还是之间','molecule → molecular；inter- 之间、intra- 内部、bio- 生物相关。',
+ 'molecule 的指小词尾保留命名历史，molecular 把名称变成性质。两种位置前缀尤其适合对照：分子内与分子间不是同一尺度。',
+ 'mōlēs → 指小 molecula → 法语 molécule → molecule；-ar 形容词，另有法语、拉丁相应形式。',
+ [['分子与相关性质','molecule · molecular'],['相互位置与领域','intramolecular · intermolecular · biomolecular']],
+ '原子与分子分清；-cule 指小是词源，不能凭词尾判断具体分子有多大。',
+ 'The molecular model shows one molecule, while the diagram also marks intermolecular interactions.\n\n分子模型展示一个分子，图中还标出了分子间作用。','molecule molecular intramolecular intermolecular biomolecular')
+J=[['中古英语 junk 等旧船缆词','旧绳索、船上废弃材料，深源未定'],['废船材 → 杂物、废旧品等','再扩展到低劣内容及毒品俚语'],['另源 junk 船名','经葡萄牙等语言联系马来、爪哇大船名称']]
+W('junk','/dʒʌŋk/','废旧杂物；低劣东西；扔掉；〔另源〕中国式帆船',
+ '抽屉里堆着不想要、没什么用的杂物，是 junk；邮件、食物等若被看作低劣或无用，也会借这个词评价。',
+ '杂物义接中古英语旧缆绳、船上废材名，深源不确定；逐渐扩大到废旧物。帆船义是另一借词，经葡萄牙等语言联系马来、爪哇大船名称。',J,
+ 'a pile of junk 一堆废旧杂物，junk mail 垃圾邮件，junk food 垃圾食品，junk an old machine 报废旧机器；a Chinese junk 则是帆船。',
+ 'a pile of junk；junk mail；junk an old machine。',
+ 'junk 不一定毫无再利用价值，也可能是旧材料；帆船 junk 不能理解成破船的固定称呼。',
+ ('The shed was full of old tools and other junk.','棚子里堆满旧工具和其他杂物。'),('They decided to junk the broken printer.','他们决定把坏打印机报废。'),sources=['https://en.wiktionary.org/wiki/junk#English','https://www.etymonline.com/word/junk'])
+W('junky','/ˈdʒʌŋki/','破烂、低劣的；杂物堆积的',
+ '东西松松垮垮、做工差，像堆破烂，就 junky；房间里到处是杂物，也可以用这个性质形容。',
+ 'junk + -y，形容充满杂物、像废旧品的性质。',J[:2]+[['junk + -y → junky','杂物多；破烂、质量低劣']],
+ 'a junky old car 破旧车，junky furniture 低劣家具，a junky room 杂物堆积的房间。',
+ 'a junky old car；junky furniture。',
+ 'junky 常作形容词；人物名 junkie 以 -ie 结尾，词源联系毒品俚语那一路，注意整词用法。',
+ ('They replaced the junky chairs with sturdy wooden ones.','他们把破烂椅子换成了结实的木椅。'),('The room looked junky after years of storing unused things.','多年堆放闲置物品后，房间显得杂乱破旧。'))
+W('junkie','/ˈdʒʌŋki/','〔贬称〕吸毒成瘾者；〔口语、夸张〕对某事着迷的人',
+ '先是毒品俚语形成的人物称呼，后来 news junkie、adrenaline junkie 借依赖得离不开的夸张画面，说特别迷新闻、追求刺激的人。',
+ 'junk 的毒品俚语义 + 人物后缀 -ie；不是简单给普通杂物加可爱尾巴。爱好者义从强烈依赖的比喻扩展。',J[:2]+[['毒品俚语 junk + -ie → junkie','成瘾者称呼 → 对某活动着迷的人']],
+ 'a news junkie 新闻迷，an adrenaline junkie 追求刺激的人。称具体吸毒者的用法带贬意；爱好用法常是本人或熟人夸张。',
+ 'a news junkie；an adrenaline junkie。',
+ '兴趣比喻不表示医学诊断；junky 破烂的与 junkie 人物称呼同音，常用拼写有区别。',
+ ('He calls himself a news junkie and reads several papers every morning.','他自称新闻迷，每天早上看好几份报纸。'),('The character is dismissed as a junkie by the people around him.','周围的人只把这个角色当作瘾君子，不屑一顾。'))
+R('B3622','旧船缆、废材变成杂物名，再区分品质和人物词','JUNK：旧东西堆成一堆，评价与人物称呼再分支','junk → junky、junkyard；junkie 接毒品俚语及爱好比喻。',
+ '废旧物这一路解释杂物、低劣品质和废品场；人物名要接特定旧俚语再看夸张用法。帆船 junk 是另一来源。',
+ '中古英语旧船缆词 → junk 杂物；-y 性质，yard 场地；junkie 的 -ie 标人物。',
+ [['杂物、性质及场地','junk · junky · junkyard'],['人物称呼及强烈爱好比喻','junkie']],
+ '帆船义另源；junky 常形容词，junkie 常人物名；爱好比喻不等于诊断。',
+ 'The junkyard was filled with junky old cars.\n\n废品场里满是破旧汽车。','junk junky junkyard junkie')
+Ir=[['希腊 eirōneía、eirōnikós 一族','佯装、反话及相关态度'],['拉丁、法语相应形式 → 英语 ironic','具有反讽、讽刺或预期落差的性质']]
+W('ironic','英 /aɪˈrɒnɪk/；美 /aɪˈrɑːnɪk/','反讽的；具有讽刺意味的',
+ '嘴上说真棒，眼前却糟透了，是言语反讽；反噪声活动偏偏用大喇叭，也因结果和初衷相反而显得 ironic。',
+ '借晚期拉丁 īrōnicus，接希腊 eirōnikós，并有法语相应形式；学习时对应 irony 去掉 -y 接 -ic，得到 ironic；这说明形式关系，历史还有借入过程。',Ir,
+ 'an ironic tone 反讽语气，an ironic twist 带讽刺意味的转折，It is ironic that ... 讽刺的是……。',
+ 'an ironic tone；an ironic twist；It is ironic that。',
+ '日常 ironic 有时宽泛说巧合、奇怪；较精确表达时，最好能指出话面与本意、预期与结果之间的落差。',
+ ('“Wonderful weather,” she said in an ironic tone as the rain poured down.','大雨倾盆时，她用反讽的语气说：“天气可真好。”'),('It was ironic that the anti-noise campaign began with loudspeakers.','反噪声活动居然用大喇叭开场，颇有讽刺意味。'))
+R('B4168','话面与本意、预期与结果之间的反讽落差','IRONY：你以为朝这边，话意或结果却转向另一边','irony → ironic。',
+ '既可以是说反话，也可以是事情的发展反过来讽刺了原本的期待。不要只背讽刺两个字，要指出落差在哪里。',
+ '希腊 eirōneía、eirōnikós 经拉丁、法语相应形式；irony 名词，ironic 形容性质。',
+ [['反讽现象与性质','irony · ironic']],
+ 'ironic 不总是嘲笑某个人；单纯意外与反讽落差在精确写作里要分清。',
+ 'She noticed the irony and described the result as ironic.\n\n她看出了其中的反讽意味，认为结果颇具讽刺性。','irony ironic')
+St=[['古英语 stempan、中古英语 stampen','捣、猛踩；元音形式曾受邻近语言影响'],['猛压、打下 → 印记及盖印工具','压下去，留下一个形状'],['官方印记 → 邮票','证明费用已付的标记转到贴纸形式']]
+W('stamp','/stæmp/','跺脚；盖章、印记、印章；邮票',
+ '脚猛地踩下去是 stamp；印章用力压下去留下图样，也是 stamp。邮票再从证明已付邮资的标记发展。',
+ '承中古英语 stampen 及古英语 stempan 等捣、踏词，元音发展可能受北欧形式影响。由猛压扩展到印记、工具，再到邮资标签。',St,
+ 'stamp one’s feet 跺脚，stamp a document 给文件盖章，a postage stamp 邮票，stamp out a problem 根除问题。',
+ 'stamp a document；a postage stamp；stamp out。',
+ 'rubber stamp 是橡皮印章，也能比喻形式上照准；stamp 不都指贴在信封上的邮票。',
+ ('The clerk stamped the form and returned it to me.','办事员在表格上盖章后还给了我。'),('She collects stamps from different countries.','她收集不同国家的邮票。'))
+W('stamper','英 /ˈstæmpə/；美 /ˈstæmpər/','盖印、冲压工具；执行盖印的人',
+ 'stamp 是压出印记的动作，stamper 是把这个动作完成的工具或人；具体形状由要印、压的东西决定。',
+ 'stamp + -er，形成执行者、工具名；印制工业里也可指复制唱片、光盘等所用的压模。',St[:2]+[['stamp + -er → stamper','执行盖印、冲压的人或工具']],
+ 'a date stamper 日期印章，a rubber stamper 橡皮印章工具，a record stamper 唱片压模。',
+ 'a date stamper；a record stamper。',
+ 'stamper 通常是工具、执行者；邮票仍说 stamp，不给贴纸随意加 -er。',
+ ('The clerk used a date stamper on each envelope.','办事员用日期印章在每个信封上盖了印。'),('A metal stamper was used to press the records.','这些唱片用金属压模压制。'))
+R('B3885','猛踩、猛压留下印记，再到盖章与邮票','STAMP：压下去，留一个可辨认的痕迹','stamp → stamper；timestamp 把时间记录作为标记。',
+ '脚踩与盖章共享向下用力的动作，邮票则是标记用途进一步转移。timestamp 不一定真有墨章，而是留下时间信息。',
+ 'stempan、stampen → stamp；-er 工具、人物；time + stamp → timestamp。',
+ [['印记、工具与盖印者','stamp · stamper'],['时间标记','timestamp']],
+ 'stamp 可以印章或邮票，stamper 常工具、人；timestamp 不要求纸面盖章。',
+ 'The date stamper left a clear stamp on the envelope.\n\n日期印章在信封上留下了清晰印记。','stamp stamper timestamp')
+Ct=[['拉丁 contrā → 法语 contre、相关 counter- 形式','在对面、相反、反对'],['英语 counter- 的扩展','反向、抵消、回应；也表示位置、职能相对应']]
+W('counterpart','英 /ˈkaʊntəpɑːt/；美 /ˈkaʊntərpɑːrt/','对应的人、物；职能相当者',
+ '你在一家公司负责财务，对面公司做相同工作的那个人，就是你的 counterpart。位置在另一边，角色却可以对应。',
+ 'counter- 对面、对应 + part，早期有法律文书相对应副本等用法，并与法语 contrepartie 相关。后来广泛说功能、位置相对应的人物。',Ct+[['中古英语 conterpart 等 → counterpart','对应部分、文书副本 → 对应者']],
+ 'her French counterpart 她在法国的同职者，a digital counterpart 某物的数字对应版本，meet one’s counterpart 会见相应职务的人。',
+ 'a counterpart in；one’s counterpart。',
+ 'counterpart 不自动是 opponent 对手；也不要求两个对应物在所有细节上完全相同。',
+ ('The director met her counterpart from the other museum.','馆长会见了另一家博物馆的相应负责人。'),('The digital version has features that its printed counterpart lacks.','数字版本具备纸质对应版本没有的功能。'))
+W('counterintuitive','英 /ˌkaʊntərɪnˈtjuːɪtɪv/；美 /ˌkaʊntərɪnˈtuːɪtɪv/','违反直觉的、乍想出乎意料的',
+ '脑中第一反应觉得应该这样，结果或办法偏偏朝另一个方向，就是 counterintuitive。重点是和直觉不一致。',
+ 'counter- 与……相反 + intuitive 直觉的；前缀作用于整个形容词。',Ct+[['counter- + intuitive','与直觉方向相反']],
+ 'a counterintuitive result 违反直觉的结果，a counterintuitive approach 乍想反常的方法；可写 seem counterintuitive。',
+ 'a counterintuitive result；seem counterintuitive。',
+ 'counterintuitive 不表示一定错误，也不表示一定高明；是否可靠仍要看实际依据。',
+ ('At first, her solution seemed counterintuitive.','起初，她的解决办法似乎违背直觉。'),('The result is counterintuitive, but the measurements are clear.','结果虽然违背直觉，测量数据却很清楚。'))
+W('counterexample','英 /ˈkaʊntərɪɡzɑːmpəl/；美 /ˈkaʊntərɪɡzæmpəl/','反例',
+ '有人说所有天鹅都白，你拿出一只黑天鹅：它不是只提出异议，而是用一个具体实例反驳全部如此的断言。',
+ 'counter- 反驳、相反 + example 实例，构成用来推翻某种普遍断言的具体例子。',Ct+[['counter- + example → counterexample','反驳普遍断言的实例']],
+ 'provide a counterexample 给出反例，find a counterexample 找到反例，a counterexample to a claim 某断言的反例。',
+ 'provide a counterexample；a counterexample to。',
+ '反驳所有情形都如此，一个有效反例就足够；但不能因此随便推翻只说通常、大多数的统计说法。',
+ ('A black swan is a counterexample to the claim that all swans are white.','黑天鹅是所有天鹅都白这一说法的反例。'),('Can you find a counterexample to this rule?','你能找到这条规则的反例吗？'))
+W('counterpunch','英 /ˈkaʊntəpʌntʃ/；美 /ˈkaʊntərpʌntʃ/','还击的一拳；反击',
+ '对手先出拳，你回应的一拳就是 counterpunch；讨论竞争、辩论时，也能借来形容还击。',
+ 'counter- 回应、反击 + punch 一拳，既可名词，也可动词，指回应对手进攻的反击。',Ct+[['counter- + punch → counterpunch','回应进攻的一拳或反击']],
+ 'land a counterpunch 一记反击打中，a sharp counterpunch 有力反击；从拳击扩展到竞争行动。',
+ 'land a counterpunch；a sharp counterpunch。',
+ 'counterpunch 突出回应先前攻势，punch 则只说一拳，不规定谁先出手。',
+ ('The boxer landed a counterpunch in the final round.','拳手在最后一回合打中一记反击。'),('The company’s reply was a sharp counterpunch in the public debate.','公司在公开争论中的答复是一记有力反击。'))
+R('A1730','对面、反向、抵消、回应，前缀不只一种中文','COUNTER-：朝相反方向，也能站到对应位置','counterpart 对应者；counteract 抵消；counterexample 反例；counterpunch 反击。',
+ '先看两边的关系：相对应、朝反向、抵消效果、回应攻击，都是对面这一画面的不同发展。逐词选合适中文。',
+ '拉丁 contrā 经法语 contre 等 → counter-；接名词、动词、形容词形成相应复合词。',
+ [['对应位置和主体','counterpart · counterparty'],['抵消、平衡与效果','counteract · counterbalance · counterweight · counterproductive'],['思想、推理和主张','counterintuitive · counterexample · counterfactual · counterclaim · counterpoint'],['方向与回应行动','counterclockwise · counterpunch · countermeasure · counterstrike · counterintelligence'],['文化取向','counterculture · countercultural']],
+ 'counterpart 不一定敌手；counterintuitive 不一定错；反例针对的断言范围要看清。',
+ 'Her counterpart offered a counterexample to the apparently intuitive claim.\n\n与她同职的对方人员，给那个看似符合直觉的说法举了一个反例。','counterpart counterparty counteract counterbalance counterweight counterproductive counterintuitive counterexample counterfactual counterclaim counterpoint counterclockwise counterpunch countermeasure counterstrike counterintelligence counterculture countercultural')
+if __name__=='__main__':save('continuation_20261030_mf',ROOTS,WORDS)

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B2812",
+    "meaning": "熊；另源的承载、忍受、生育",
+    "core": "BEAR：熊与承载分两条来路",
+    "image": "动物一支独立看；动词一支用肩上承着东西，串起承担、忍受、带来结果与生育。",
+    "intro": "名词来自古英语 bera，动词来自 beran。born 是旧过去分词分化出的出生形式；birth 与生育词族有历史亲缘，不是熊生孩子的联想。",
+    "forms": "bear → bearer、bearing、bearable → unbearable → unbearably；forbear → forbearance；born → reborn；birth → childbirth、birthday、birthplace、birthright、birthrate。动物支 bearish、bugbear、bearskin 另放一组。\n\n古英语 bera 动物名和 beran 承载动词分开看。\n\nbeaver 接古英语 beofor、befer，远源通常联系重叠构形的棕褐色、明亮颜色材料。与 bear 的动物名有远处颜色命名关系；不是 bear 承担动词的派生，也没有现代后缀 -ver。",
+    "branches": [
+      [
+        "承载、忍受与克制",
+        "bear · bearer · bearing · bearable · unbearable · unbearably · forbear · forbearance"
+      ],
+      [
+        "出生及其相关词",
+        "born · reborn · birth · childbirth · birthday · birthplace · birthright · birthrate"
+      ],
+      [
+        "动物名的复合与比喻",
+        "bearish · bugbear · bearskin"
+      ],
+      [
+        "bear → bears：熊与承载动词分支",
+        "bear · bears"
+      ],
+      [
+        "beaver：与熊的动物名比较远古颜色命名",
+        "beaver · beavers"
+      ]
+    ],
+    "contrasts": "be born 出生，通常其他承载用 borne；bearing 可说举止或关系；bearish 看跌来自市场中 bear 的名词义。",
+    "practice": "Bear in mind that a small change can make the wait more bearable.\n\n记住，小小的改变也能让等待更容易忍受。",
+    "words": [
+      "bear",
+      "bearer",
+      "bearing",
+      "bearable",
+      "unbearable",
+      "unbearably",
+      "forbear",
+      "forbearance",
+      "born",
+      "reborn",
+      "birth",
+      "childbirth",
+      "birthday",
+      "birthplace",
+      "birthright",
+      "birthrate",
+      "bearish",
+      "bugbear",
+      "bearskin",
+      "bears",
+      "beaver",
+      "beavers"
+    ],
+    "exclude": {
+      "he-bear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "she-bear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "barrel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "berth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bear-whelp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bearcat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

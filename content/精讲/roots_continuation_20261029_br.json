@@ -1,0 +1,53 @@
+[
+  {
+    "id": "B2816",
+    "meaning": "引导、领先；另源另读的金属铅",
+    "core": "LEAD：/liːd/ 带方向，/led/ 是铅",
+    "image": "两个同形词分开看。引导一支按带路扩展，金属一支按材料、颜色和重量扩展。",
+    "intro": "引导来自古英语 lǣdan，金属来自 lēad。前者过去式 led，后者材料名称仍拼 lead。",
+    "forms": "lead /liːd/ → leader → leadership、leading；再看 mislead、misleading。金属 lead /led/ → leaded → unleaded；leaden 是材料形容词及其比喻。\n\n引导动词 lead /liːd/ → led /led/ → led；金属名 lead /led/ 另有来源。\n\nlead 带领读 /liːd/，leader、leaders 保留这个元音；人物后缀 -er 不把金属铅名词的 /led/ 带进来。\n\n本次重点是 /liːd/ 引导词族，leads 可是现在动词或相关复数；金属铅的旧词来源另认。",
+    "branches": [
+      [
+        "带领、领先及其偏离",
+        "lead · leader · leadership · leading · mislead · misleading"
+      ],
+      [
+        "金属铅与材料用法",
+        "leaded · unleaded · leaden"
+      ],
+      [
+        "lead 与 led：读音也发生变化",
+        "lead · led"
+      ],
+      [
+        "lead → leader → leaders：带领与带领者",
+        "lead · leader · leaders"
+      ],
+      [
+        "lead → leads：带领与线索、连接线",
+        "lead · leads"
+      ]
+    ],
+    "contrasts": "leading 通常 /ˈliːdɪŋ/，排版行距 /ˈledɪŋ/；带领过去式 led；leaden feet 是沉重的比喻。",
+    "practice": "The leader led the team through the museum’s display of lead objects.\n\n带队者领着团队走过博物馆的铅制品展区。",
+    "words": [
+      "lead",
+      "leader",
+      "leadership",
+      "leading",
+      "mislead",
+      "misleading",
+      "leaded",
+      "unleaded",
+      "leaden",
+      "led",
+      "leaders",
+      "leads"
+    ],
+    "exclude": {
+      "lead-out": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lead-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eka-lead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

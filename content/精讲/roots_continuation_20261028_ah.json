@@ -1,0 +1,61 @@
+[
+  {
+    "id": "B2648",
+    "meaning": "左侧；政治左翼；leave 过去形式另源",
+    "core": "LEFT：先分清向左，还是已经离开、尚有剩余",
+    "image": "Turn left 朝左走；two tickets left 还剩两票；同形词先看句子在问方向还是剩余。",
+    "intro": "方向 left 接古英语 lyft 等；left 作为 leave 的过去式、过去分词另接留下动词历史。政治 left 来自法国议会座位的方向传统，不能用手的惯用侧或旧词偏见推断政治性格。",
+    "forms": "left 先讲主要分支，leftward 看方向，lefty 看左手人物和口语政治义，leftist → leftism 看持立场者与思想倾向。",
+    "branches": [
+      [
+        "方向及惯用手",
+        "left · leftward · lefty"
+      ],
+      [
+        "政治立场与思想",
+        "leftist · leftism"
+      ]
+    ],
+    "contrasts": "lefty 左撇子不必是政治左翼；leftist 人，leftism 思想。left 剩余不是由方向词临时推出，回到 leave 词族理解。",
+    "practice": "She turned left and noticed that only one seat was left by the window.\n\n她向左转头，发现窗边只剩一个座位。",
+    "words": [
+      "left",
+      "leftward",
+      "lefty",
+      "leftist",
+      "leftism"
+    ],
+    "exclude": {
+      "post-left": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "centre-left": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "left-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "left-leaning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-left": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3447",
+    "meaning": "数量、程度较少；减少",
+    "core": "LESS：与参照相比，这一边分量更少",
+    "image": "钱花得少，时间用得少，可能性低一些；核心是比较，不只是绝对很少。",
+    "intro": "less 接古英语 lǣs、lǣssa，经中古英语发展；现代多作 little 的比较形式。lesser、lessen 分别形成较小、次要的形容词与减少的动词。",
+    "forms": "less 先讲数量和程度，lesser 看较不重要等固定搭配，lessen 看减轻动作。unless、nevertheless 等连接表达按当前偏好暂缓，不在这一页扩写。",
+    "branches": [
+      [
+        "比较、性质与变化",
+        "less · lesser · lessen"
+      ]
+    ],
+    "contrasts": "less water 与 a lesser role 选词不同；lessen /ˈlesən/ 是减少，lesson 同音却是课。",
+    "practice": "A shorter meeting left us with less tension and helped lessen the workload.\n\n会议缩短后，紧张少了些，也帮助减轻了工作负担。",
+    "words": [
+      "less",
+      "lesser",
+      "lessen"
+    ],
+    "exclude": {
+      "unless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nevertheless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

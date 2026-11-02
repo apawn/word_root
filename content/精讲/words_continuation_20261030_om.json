@@ -1,0 +1,286 @@
+[
+  {
+    "word": "scrutinize",
+    "ipa": "/ˈskruːtənaɪz/",
+    "meaning": "仔细检查、审视",
+    "sense": "不是扫一眼，而是把细节拿到眼前，看看哪里有问题。合同、照片、账目、表情都能被 scrutinize。",
+    "split": "scrutiny 去末 y + -ize → scrutinize，对应仔细审查的动词。更早接拉丁 scrutari 搜查；与 screw 螺丝无关。-ise 变体见 scrutinise。",
+    "history": [
+      [
+        "晚期拉丁、法语审查词接拉丁 scrutari 搜查",
+        "仔细搜索、查看"
+      ],
+      [
+        "scrutiny → scrutinize／scrutinise",
+        "审查名词派生成仔细检查的动作"
+      ]
+    ],
+    "explanation": "scrutinize the details 细查细节；scrutinize the evidence 审视证据；scrutinize a face 仔细端详面孔。",
+    "usage": "scrutinize the details；scrutinize the evidence。",
+    "contrast": "scrutinize 强调仔细看、检查，不代表已经证实有错；criticize 批评则直接表达评价。",
+    "examples": [
+      [
+        "She scrutinized the photograph for signs of editing.",
+        "她仔细查看照片，寻找编辑痕迹。"
+      ],
+      [
+        "The committee will scrutinize the spending figures.",
+        "委员会将仔细审查支出数字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrutinize#English"
+    ]
+  },
+  {
+    "word": "stab",
+    "ipa": "/stæb/",
+    "meaning": "刺、戳；一下刺痛；尝试",
+    "sense": "尖头向前戳一下，是 stab；心里忽然疼一下也像被刺。have a stab at it 则把“朝目标试一下”借成试着做。",
+    "split": "早见苏格兰英语及中古英语相关形式，常联系尖杆、木桩的 stob、stub 词族，也有盖尔语等解释，具体早源未定。尝试、刺痛是后来常用分支。",
+    "history": [
+      [
+        "苏格兰、中古英语 stabbe 等尖杆、刺击材料 → stab",
+        "常联系 stob、stub 等，具体早源有不同解释"
+      ],
+      [
+        "刺一下 → 一阵刺痛、一次尝试；back + stab",
+        "动作、感受与背后伤害的比喻"
+      ]
+    ],
+    "explanation": "a stab of pain 一阵刺痛；a stab of guilt 一阵内疚；have a stab at 尝试；stab at a button 用手指猛戳按钮。",
+    "usage": "a stab of；have a stab at。",
+    "contrast": "have a stab at a problem 只是试着解决，不是用武器刺题目；a stab of guilt 是突如其来的内疚，不必真有身体伤。",
+    "examples": [
+      [
+        "I have never solved one before, but I will have a stab at it.",
+        "我以前没解过这种题，不过我愿意试试。"
+      ],
+      [
+        "She felt a sudden stab of guilt.",
+        "她忽然感到一阵内疚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stab#English"
+    ]
+  },
+  {
+    "word": "render",
+    "ipa": "英 /ˈrendə/；美 /ˈrendər/",
+    "meaning": "使成为；提供、作出；翻译、表现；渲染；熬出油脂；抹灰层",
+    "sense": "可以先分几种场景：render it useless 让它变得无用；render assistance 提供帮助；render a scene 把场景表现成图像。不要每次都死译成渲染。",
+    "split": "经古法语 rendre 接拉丁 reddere 给回及后来 rendere 形式。交出、呈现与结果状态等意义较早已分化；烹饪熬出脂肪、建筑抹灰等也有固定用法。",
+    "history": [
+      [
+        "拉丁 red- 回 + dare 给的材料 → reddere 给回",
+        "晚期、通俗拉丁 rendere 等形式"
+      ],
+      [
+        "古法语 rendre → 中古英语 renderen → render",
+        "交出、呈现、译出、使成某状态等"
+      ],
+      [
+        "render + -er → renderer",
+        "做呈现动作的人、软件或硬件过程"
+      ]
+    ],
+    "explanation": "render someone speechless 使人说不出话；render assistance 提供帮助；render into English 译成英语；render an image 渲染图像。",
+    "usage": "render something useless；render into；render an image。",
+    "contrast": "render 在图形学里是把数据、模型算成可见表示，不只指加滤镜或 AI 画图；render someone helpless 是使某人无助，不是画出那个人。",
+    "examples": [
+      [
+        "The update rendered the old files unreadable.",
+        "更新使旧文件无法读取。"
+      ],
+      [
+        "The program renders the model as a shaded image.",
+        "程序把模型渲染成带明暗效果的图像。"
+      ],
+      [
+        "The poem was rendered into English.",
+        "这首诗被译成了英语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/render#English",
+      "https://www.etymonline.com/word/render"
+    ]
+  },
+  {
+    "word": "renderer",
+    "ipa": "英 /ˈrendərə/；美 /ˈrendərər/",
+    "meaning": "渲染器；作呈现、处理的人或装置",
+    "sense": "render 是把数据、模型表现成图像的动作，renderer 就是完成这件事的软件、硬件过程或系统。-er 在这里常指工具。",
+    "split": "render + -er → renderer，中古英语已有相应人物名。现代图形计算把它固定用作渲染组件名；较少见行业义另按处理对象理解。",
+    "history": [
+      [
+        "拉丁 red- 回 + dare 给的材料 → reddere 给回",
+        "晚期、通俗拉丁 rendere 等形式"
+      ],
+      [
+        "古法语 rendre → 中古英语 renderen → render",
+        "交出、呈现、译出、使成某状态等"
+      ],
+      [
+        "render + -er → renderer",
+        "做呈现动作的人、软件或硬件过程"
+      ],
+      [
+        "render + -er → renderer",
+        "进行呈现、处理的人或工具 → 图形渲染组件"
+      ]
+    ],
+    "explanation": "a 3D renderer 三维渲染器；a software renderer 软件渲染器；the browser’s renderer 浏览器渲染组件。",
+    "usage": "a 3D renderer；a software renderer。",
+    "contrast": "renderer 是做渲染的工具、过程组件，render 可指动作或渲染结果；它也不同于单纯保存已有图片的查看器。",
+    "examples": [
+      [
+        "The renderer calculates shadows from the scene data.",
+        "渲染器根据场景数据计算阴影。"
+      ],
+      [
+        "The application uses a separate renderer for the preview.",
+        "这个应用使用单独的渲染器生成预览。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/renderer#English"
+    ]
+  },
+  {
+    "word": "axe",
+    "ipa": "/æks/",
+    "meaning": "斧、斧头；裁撤、取消；砍削",
+    "sense": "木头上一斧砍下去，是 axe 的实物动作；节目、预算、岗位被“砍掉”，也能借它作动词。",
+    "split": "承古英语 æx，经中古英语多种拼写延续；ax 是常见变体，尤其美式。砍削工具名作动词，再带出取消、裁撤比喻。",
+    "history": [
+      [
+        "古英语 æx → 中古英语 ax、axe 等 → axe",
+        "砍削工具名"
+      ],
+      [
+        "axe 名词 → 动词裁撤、取消；ax 变体拼写",
+        "从砍掉实物借到砍掉计划、岗位"
+      ]
+    ],
+    "explanation": "a wood axe 砍木斧；axe a programme 砍掉节目；get the axe 被裁撤、取消；have an axe to grind 有自己的私心、目的。",
+    "usage": "get the axe；axe a programme；have an axe to grind。",
+    "contrast": "axe 与 ax 是拼写变体，读音相同；axes 可是 axe 的复数 /ˈæksɪz/，也可能是 axis 的复数 /ˈæksiːz/，语境与读音要分。",
+    "examples": [
+      [
+        "An old axe hung beside the workshop door.",
+        "车间门旁挂着一把旧斧头。"
+      ],
+      [
+        "The channel axed the programme after one season.",
+        "频道在播出一季后砍掉了这个节目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/axe#English"
+    ]
+  },
+  {
+    "word": "raven",
+    "ipa": "/ˈreɪvən/",
+    "meaning": "渡鸦；渡鸦般乌黑的",
+    "sense": "体形较大的黑色鸦科鸟，是 raven；raven hair 就借它羽毛的乌黑光泽来写头发。不是所有黑鸟都能直接这样分类。",
+    "split": "承古英语 hræfn 等鸟名，更早常联系鸣叫的拟声材料。乌黑修饰义从鸟名转出；旧动词 raven 吞食另接法语 raviner、拉丁抢掠材料，读音也可不同。",
+    "history": [
+      [
+        "古英语 hræfn、后期相关形式 → 中古英语 raven → raven",
+        "鸟名，更早常联系粗哑鸣叫的拟声材料"
+      ],
+      [
+        "raven 鸟名 → raven 乌黑、有光泽的修饰义",
+        "另有吞食旧动词，接法语拉丁来源而非鸟名"
+      ]
+    ],
+    "explanation": "a common raven 普通渡鸦；raven hair 乌黑头发；故事里的象征含义随文化作品而变，不是鸟本身的固定道德属性。",
+    "usage": "a raven；raven hair。",
+    "contrast": "raven、crow 是不同通俗鸟名，不能只靠黑色分；ravenous 饥饿贪食的并不是由渡鸦鸟名直接加后缀而成。",
+    "examples": [
+      [
+        "A raven called from the top of the ruined tower.",
+        "一只渡鸦在废塔顶上鸣叫。"
+      ],
+      [
+        "The portrait shows a woman with raven hair.",
+        "肖像画中是一位头发乌黑的女子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raven#English",
+      "https://www.etymonline.com/word/raven"
+    ]
+  },
+  {
+    "word": "sol",
+    "ipa": "溶胶：英 /sɒl/、美 /sɑːl/；唱名：英 /səʊl/、美 /soʊl/",
+    "meaning": "溶胶；唱名 sol；〔天文〕火星日",
+    "sense": "化学里 sol 是一种流动胶体体系；音乐里 do re mi 后面的 sol 是唱名。火星任务说某个 sol 又在数当地太阳日，这几路不能合成一个意思。",
+    "split": "化学 sol 来自 solution 的缩短材料，在 hydrosol 等词中出现。音乐唱名接中世纪赞歌词首音节；火星日接拉丁 sol 太阳。不是 aerosol 里的 sol 表示太阳。",
+    "history": [
+      [
+        "solution 的缩短材料 -sol → sol 溶胶；cyto- + sol → cytosol",
+        "科学词里的分散体系和细胞液相"
+      ],
+      [
+        "音乐 sol 来自唱名传统；太阳、火星日等另接拉丁 sol",
+        "同形而不同源，不构成同一条现代词根"
+      ]
+    ],
+    "explanation": "a colloidal sol 溶胶；sing sol 唱 sol；a Martian sol 一个火星太阳日。秘鲁货币名 sol 另经西班牙太阳词，不与化学材料混用。",
+    "usage": "a colloidal sol；sing sol；a Martian sol。",
+    "contrast": "化学 sol 不等于普通真溶液，细粒子分散并非都变成分子或离子；唱名在首调中按音阶位置，固定唱名中则对应 G。",
+    "examples": [
+      [
+        "The paper describes a sol containing tiny solid particles.",
+        "论文描述了一种含微小固体颗粒的溶胶。"
+      ],
+      [
+        "The teacher asked the class to sing sol after fa.",
+        "老师让全班在 fa 后唱 sol。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sol#English",
+      "https://www.merriam-webster.com/dictionary/sol"
+    ]
+  },
+  {
+    "word": "cytosol",
+    "ipa": "英 /ˈsaɪtəʊsɒl/；美 /ˈsaɪtəsɑːl/",
+    "meaning": "细胞质基质、细胞溶胶",
+    "sense": "把细胞器和膜结构另放一边，细胞质里的液相部分就是 cytosol。可以想成细胞内部的液体环境，但不是一碗纯水。",
+    "split": "cyto- 细胞 + sol 科学中的液相、溶胶材料 → cytosol。不是 cyto- + 太阳，也不等于整个细胞质的另一个随意名字。",
+    "history": [
+      [
+        "solution 的缩短材料 -sol → sol 溶胶；cyto- + sol → cytosol",
+        "科学词里的分散体系和细胞液相"
+      ],
+      [
+        "cyto- + sol → cytosol",
+        "细胞质中排除细胞器、膜等后的液相部分"
+      ]
+    ],
+    "explanation": "proteins in the cytosol 细胞质基质中的蛋白质；the cytosol of a cell 细胞的细胞质基质。里面含水、离子和多种分子。",
+    "usage": "in the cytosol；the cytosol of。",
+    "contrast": "cytoplasm 通常包含细胞质基质及相应细胞器等，cytosol 特别说液相；二者不要全都只背成细胞液。",
+    "examples": [
+      [
+        "The diagram shows several proteins in the cytosol.",
+        "图示展示了细胞质基质中的几种蛋白质。"
+      ],
+      [
+        "The chapter distinguishes cytosol from the rest of the cytoplasm.",
+        "这一章把细胞质基质与细胞质的其他部分区分开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cytosol#English",
+      "https://www.merriam-webster.com/dictionary/cytosol"
+    ]
+  }
+]

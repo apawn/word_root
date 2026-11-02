@@ -1,0 +1,220 @@
+[
+  {
+    "id": "B4408",
+    "meaning": "能否用起来，与使用起来是否顺手",
+    "core": "USABLE：拿到手，能不能真正用上",
+    "image": "usable → usability；unusable 否定可用性。",
+    "intro": "usable 先过能用这一关，usability 再谈使用的方便程度。不能用与还没用，是两个问题。",
+    "forms": "use + -able 去末尾 e → usable；usable + -ity 对应 usability，-able 改为 -ability；un- 否定。",
+    "branches": [
+      [
+        "可用、好用与不能用",
+        "usable · usability · unusable"
+      ]
+    ],
+    "contrasts": "usable 不保证使用体验出色；unusable 不是 unused；usability 也不是系统运行时间指标 availability 的通用替代。",
+    "practice": "The old file is usable, but the interface has poor usability.\n\n旧文件还能用，但界面使用起来不方便。",
+    "words": [
+      "usable",
+      "usability",
+      "unusable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4370",
+    "meaning": "朝外方向与外在表现，由空间走向观察层面",
+    "core": "OUTWARD：往外看，或只看外表那一层",
+    "image": "outward → outwardly；outwards 是朝外的副词形式。",
+    "intro": "门向外开是空间方向，一个人外表冷静是观察层面。外表没有露出来，并不等于心里完全没有变化。",
+    "forms": "out + -ward 方向材料，接古英语相关形式；outward + -ly 成副词，outwards 接副词 -s。",
+    "branches": [
+      [
+        "朝外、外在表现",
+        "outward · outwardly · outwards"
+      ]
+    ],
+    "contrasts": "outwardly calm 只说表面冷静；outwards 是朝外，不能替换成 outwardly calm 的那个方式副词。",
+    "practice": "Outwardly calm, she pushed the door outwards.\n\n她表面镇定，把门向外推开。",
+    "words": [
+      "outward",
+      "outwardly",
+      "outwards"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3193",
+    "meaning": "不经逐步刻意思考就抓到，或设计得容易直接理解",
+    "core": "INTUITIVE：还没讲完步骤，脑中已经抓到意思",
+    "image": "intuitive → intuitively；counterintuitive 是与这种直接预期相反。",
+    "intro": "经验可以把复杂判断练成直觉，清楚的界面也可让操作顺着人的预期走。词源的看，帮助连接直接把握，不能据此把直觉当眼见事实。",
+    "forms": "in- 朝向 + tueri 看 → intueri、intuitivus → intuitive；-ly 方式；counter- 相反。",
+    "branches": [
+      [
+        "直观性质与判断方式",
+        "intuitive · intuitively"
+      ],
+      [
+        "违背直觉预期",
+        "counterintuitive"
+      ]
+    ],
+    "contrasts": "intuitive 不保证正确，counterintuitive 不表示必然错误；直观易用也不是无需任何学习。",
+    "practice": "The counterintuitive result challenged what we intuitively expected.\n\n这个违反直觉的结果，挑战了我们直觉上的预期。",
+    "words": [
+      "intuitive",
+      "intuitively",
+      "counterintuitive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4388",
+    "meaning": "关在外面，从排除行为到排除性质",
+    "core": "EXCLUSION：把某人、某物挡在范围之外",
+    "image": "exclusion → exclusionary。",
+    "intro": "一个是排除这件事，一个是规则、做法具有这种效果。学习时用资格门槛的画面理解，再按语境判断具体对象。",
+    "forms": "拉丁 excludere、exclusio 等 → exclusion；exclusion + -ary 成形容词。",
+    "branches": [
+      [
+        "排除及其性质",
+        "exclusion · exclusionary"
+      ]
+    ],
+    "contrasts": "exclusion 与 exclusionary 词性不同；exclusive 的独家、高档义不随意套进 exclusionary。",
+    "practice": "The report links social exclusion to exclusionary practices.\n\n报告把社会排斥与具有排斥性的做法联系起来。",
+    "words": [
+      "exclusion",
+      "exclusionary"
+    ],
+    "exclude": {
+      "self-exclusion": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4202",
+    "meaning": "袖口与腕部约束，和同形拍打词分开理解",
+    "core": "CUFF：围住手腕的一圈；拍打另有来源",
+    "image": "cuff → handcuff、handcuffs；词形缩短后 cuff 也可说铐住。",
+    "intro": "袖口与手铐都围着腕部，构词关系可以直观理解；但同形的打击义不能靠这个画面编成历史。",
+    "forms": "中古英语 cuffe 等衣物名 → cuff；hand + cuff → handcuff；常用复数 handcuffs。拍打 cuff 有不同的可能北欧来源。\n\n衣物 cuff 与手铐名有联系；拍击动词的历史单独处理，不能编成袖口打人。\n\n此支接手腕铐具，不接拍击义 cuff 的另源支。\n\nlink 接链环、连接义；复数数扣具。",
+    "branches": [
+      [
+        "袖口、腕部圈套与手铐",
+        "cuff · handcuff · handcuffs"
+      ],
+      [
+        "cuff → cuffs：袖口、手铐及另源拍击用法",
+        "cuff · cuffs · handcuff · handcuffs"
+      ],
+      [
+        "cuff 的组合 handcuff 及 handcuffed",
+        "cuff · handcuff · handcuffed"
+      ],
+      [
+        "cuff + link → cufflink → cufflinks：连接袖口的小扣",
+        "cuff · cufflink · cufflinks"
+      ]
+    ],
+    "contrasts": "off the cuff 是即兴，不是脱下手铐；cuff 的拍打义与衣物义不强并同源。",
+    "practice": "The dictionary distinguishes shirt cuffs from handcuffs.\n\n词典把衬衫袖口与手铐区分开。",
+    "words": [
+      "cuff",
+      "handcuff",
+      "handcuffs",
+      "cuffs",
+      "handcuffed",
+      "cufflink",
+      "cufflinks"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4133",
+    "meaning": "舞台相关，或像表演一样夸张外露",
+    "core": "THEATRICAL：像站在台上，把动作和情绪放大",
+    "image": "theatrical → theatrically、theatricality。",
+    "intro": "舞台需要让后排也看清、听清；日常用 theatrical，可能就说动作像在演一场戏。要从语境分中性舞台关联与夸张评价。",
+    "forms": "theatre 的戏剧材料接 -ical 等历史形式 → theatrical；-ly 方式；-ity 性质。",
+    "branches": [
+      [
+        "舞台性质、方式与表现感",
+        "theatrical · theatrically · theatricality"
+      ]
+    ],
+    "contrasts": "theatrical equipment 是戏剧设备，不是在批评设备做作；theatrical gesture 才常有夸张表现的意味。",
+    "practice": "Her theatrical gesture was delivered theatrically, adding to the scene’s theatricality.\n\n她用舞台化的方式做出夸张动作，增强了场面的戏剧感。",
+    "words": [
+      "theatrical",
+      "theatrically",
+      "theatricality"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1731",
+    "meaning": "从掌舵、控制材料走向计算机和网络领域",
+    "core": "CYBER-：今天多指网络，远源却是掌舵",
+    "image": "cyberpunk、cyberspace 看技术文化与空间；cybersecurity、cybercrime 等看风险与活动。",
+    "intro": "掌舵画面帮助理解控制、通信学科名 cybernetics 的远源。现代 cyber- 已扩为网络相关，不能逐词死译成船舵。",
+    "forms": "希腊 kybernetes 舵手等 → cybernetics；缩取 cyber- 再构词。后半决定空间、安全、犯罪、文化、活动等类别。\n\ncyber 接 cybernetics、cybernetic 的构词材料，远处是希腊 kybernētēs 掌舵者、kybernan 掌舵、控制；现代组合形式又可独立作形容词，表示计算机、网络相关。",
+    "branches": [
+      [
+        "技术空间与文化",
+        "cyberspace · cyberpunk"
+      ],
+      [
+        "安全、攻击与犯罪",
+        "cybersecurity · cyberattack · cybercrime · cyberbullying"
+      ],
+      [
+        "其他网络活动语境",
+        "cyberwarfare · cybersex"
+      ],
+      [
+        "cyber：掌舵、控制词族到计算机网络相关",
+        "cyber"
+      ]
+    ],
+    "contrasts": "cyber- 不等于每个词都涉及违法；cyberpunk 流派也不是单纯一切霓虹灯装饰。",
+    "practice": "The article contrasts cyberpunk fiction with real issues of cybersecurity and cybercrime.\n\n文章把赛博朋克小说与现实中的网络安全、网络犯罪问题作了对照。",
+    "words": [
+      "cyberspace",
+      "cyberpunk",
+      "cybersecurity",
+      "cyberattack",
+      "cybercrime",
+      "cyberbullying",
+      "cyberwarfare",
+      "cybersex",
+      "cyber"
+    ],
+    "exclude": {
+      "cyber-dependent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cyber-enabled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3536",
+    "meaning": "想睡的性质、带睡意的方式与困倦状态",
+    "core": "SLEEPY：眼皮开始沉，动作也慢下来",
+    "image": "sleepy → sleepily、sleepiness。",
+    "intro": "sleepy 形容人困，sleepily 形容怎样说、怎样动，sleepiness 是睡意本身。安静小镇的 sleepy 比喻也由缺少活力、节奏缓慢理解。",
+    "forms": "sleep + -y；sleepy 改 y 为 i 接 -ly、-ness。",
+    "branches": [
+      [
+        "困倦性质、方式与状态",
+        "sleepy · sleepily · sleepiness"
+      ]
+    ],
+    "contrasts": "sleepiness 不是睡眠时长；sleepiness 与 sleeplessness 分别是困意、缺少睡眠或失眠状态。",
+    "practice": "Feeling sleepy, she answered sleepily and wrote down her level of sleepiness.\n\n她感到困倦，带着睡意应答，并记下困意的程度。",
+    "words": [
+      "sleepy",
+      "sleepily",
+      "sleepiness"
+    ],
+    "exclude": {}
+  }
+]

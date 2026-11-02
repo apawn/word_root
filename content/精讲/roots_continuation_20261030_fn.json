@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B2440",
+    "meaning": "硬骨架带来支撑、形状和硬度比喻",
+    "core": "BONE：撑起身体，也撑起结构比喻",
+    "image": "bone → bony、boneless；身体部位接 jawbone、cheekbone、tailbone；herringbone 借鱼骨形；bonehead、boner 分俚语路径。",
+    "intro": "骨词族可以描述材料、位置、形状，或用来骂人。比喻不是事实解剖，尤其 boner 不意味着那里真有骨头。",
+    "forms": "bān → bone；bone + -y/-less；jaw/cheek/tail/collar/back/fish/herring + bone；bone + head。\n\n本族骨词，实体与抽象骨架场景结合。",
+    "branches": [
+      [
+        "基础与有骨、无骨",
+        "bone · bony · boneless"
+      ],
+      [
+        "身体部位与鱼骨",
+        "backbone · collarbone · jawbone · cheekbone · tailbone · fishbone"
+      ],
+      [
+        "形状、地点与俚语",
+        "herringbone · wishbone · boneyard · bonehead · boner"
+      ],
+      [
+        "bone → bones：骨头与支撑轮廓",
+        "bone · bones"
+      ]
+    ],
+    "contrasts": "bony/boneless 骨多、骨显与无骨；cheekbone/jawbone 颧骨颌骨；boner 的不同义不统一画成剔骨者。",
+    "practice": "The bony fish was harder to eat than the boneless chicken.\n\n多刺的鱼比去骨鸡肉更难吃得方便。",
+    "words": [
+      "bone",
+      "bony",
+      "boneless",
+      "backbone",
+      "collarbone",
+      "jawbone",
+      "cheekbone",
+      "tailbone",
+      "fishbone",
+      "herringbone",
+      "wishbone",
+      "boneyard",
+      "bonehead",
+      "boner",
+      "bones"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3978",
+    "meaning": "视线进不来，或信息没有被看见",
+    "core": "BLIND：失明、挡视线、信息未知各有语境",
+    "image": "blind → blindness、blindly、blinder；blindfold 保留独特词形变化；blindside 接侧面未防备的比喻。",
+    "intro": "实际视力、临时遮挡和不察觉问题是不同使用场景。blind test 说不知道相关信息，play a blinder 反是表现惊艳。",
+    "forms": "古英语 blind → blind；+ -ness/-ly/-er；旧 blindfelled 等受 fold 影响 → blindfold；blind + side → blindside。",
+    "branches": [
+      [
+        "基础、状态与方式",
+        "blind · blindness · blindly"
+      ],
+      [
+        "遮视线工具与突然未防备",
+        "blindfold · blinder · blindside"
+      ]
+    ],
+    "contrasts": "blindfold/blinders 蒙眼与常挡两侧视野；blindly 字面和判断方式分；play a blinder 是赞出色。",
+    "practice": "With the blindfold on, she reached blindly for the object on the table.\n\n蒙着眼，她摸索着伸手找桌上的物品。",
+    "words": [
+      "blind",
+      "blindness",
+      "blindly",
+      "blindfold",
+      "blinder",
+      "blindside"
+    ],
+    "exclude": {
+      "race-blind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moon-blind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gender-blind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

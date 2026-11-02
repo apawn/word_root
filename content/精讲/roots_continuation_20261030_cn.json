@@ -1,0 +1,160 @@
+[
+  {
+    "id": "B4597",
+    "meaning": "马及部位、用途；力量、体量与工具比喻",
+    "core": "HORSE：真实的马，也借力量、体量给别物命名",
+    "image": "horse → horsehair、horseback、horseman；horsepower 力量、racehorse 竞赛、workhorse/warhorse 比喻，horseradish 单讲旧加强义。",
+    "intro": "已有多数常见合成精讲复用。horseradish 不解释成给马吃的萝卜，冷门与粗俗变体本轮略。",
+    "forms": "horse + hair/back/man/power/radish；race/work/war + horse。\n\nhorses 在 /s/ 后增加 /ɪz/；horse 是古英语 hors 的延续，现代动词搭配另按语境理解。\n\n本组与 horse 作步态场景比较，不是由现代英语 horse 派生。gallop 经古法语 galoper、waloper 等，或接法兰克语善跑的重建组合，不把猜测当确定记录。\n\n与 horse 作马步场景比较，不是 horse 的后代。canter 的马步义缩自 Canterbury pace 等；prance 远源未定，马昂首高步与人的炫耀走姿都很早。\n\n较远日耳曼语马 + 仆从组成职务名，经法语 mareschal 进入英语，职务地位与功能扩大；动词由职务名转来，表示排列、组织、调配。美式常见单 l，英式常见双 l 分词。\n\n与 horse 比较外形、动物类别，不认定直接同源。zebra 经欧洲语言传入，意大利语、葡萄牙语形式相关；更远有拉丁野马等不同分析，来源仍不确定。",
+    "branches": [
+      [
+        "基本动物与相关部位、人物",
+        "horse · horsehair · horseback · horseman"
+      ],
+      [
+        "力量、用途和比喻",
+        "horsepower · racehorse · workhorse · warhorse"
+      ],
+      [
+        "旧加强义植物名",
+        "horseradish"
+      ],
+      [
+        "horse → horses：马；horse around 的胡闹",
+        "horse · horses"
+      ],
+      [
+        "gallop：马飞快奔驰，到做事飞快",
+        "gallop · gallops · galloped · galloping"
+      ],
+      [
+        "canter 与 prance：轻快跑步、昂首高抬步",
+        "canter · canters · cantered · cantering · prance · prances · pranced · prancing"
+      ],
+      [
+        "marshal：管马的职务 → 维持秩序者 → 调配组织",
+        "marshal · marshals · marshaled · marshalled · marshaling · marshalling"
+      ],
+      [
+        "zebra → zebras：与马比较的斑马名",
+        "zebra · zebras"
+      ]
+    ],
+    "contrasts": "pony 小型马不等于所有幼马；horsehair 按材料命名；horseradish 非马食萝卜，wasabi 另种植物。",
+    "practice": "The horseman brushed the horse before the ride.\n\n骑手出发骑行前给马刷了刷毛。",
+    "words": [
+      "horse",
+      "horsehair",
+      "horseback",
+      "horseman",
+      "horsepower",
+      "racehorse",
+      "workhorse",
+      "warhorse",
+      "horseradish",
+      "horses",
+      "gallop",
+      "gallops",
+      "galloped",
+      "galloping",
+      "canter",
+      "canters",
+      "cantered",
+      "cantering",
+      "prance",
+      "prances",
+      "pranced",
+      "prancing",
+      "marshal",
+      "marshals",
+      "marshaled",
+      "marshalled",
+      "marshaling",
+      "marshalling",
+      "zebra",
+      "zebras"
+    ],
+    "exclude": {
+      "horse-comb": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horse-leech": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horseshit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horse-wain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3620",
+    "meaning": "围合院地与作业场；码、量杆另源",
+    "core": "YARD：一块围地；另一条是量长度的杆",
+    "image": "yard → yardage、yardstick 接测量；orchard 接旧院园词；庭院、墓地、造修船与废料材料场按用途分组。",
+    "intro": "院子与长度单位码必须分源；大部分场所合成接院地，而 yardage、yardstick 接量杆。旧 orchard 末部与 yard 同族，首部细节保留不同分析。",
+    "forms": "yardage：yard + -age；yardstick：yard + stick；场地：back/court/grave/vine/ship/church/school/barn/farm/junk/scrap/dock/boat/lumber/brick/bone + yard。\n\n院子与码来自不同古英语词，现代同形同音。\n\nyard 为本族继承；garden、gardener 各有法语借入路线。现代 garden 加 er 有助认形，不表示 gardener 必定在英语里现场造出。\n\n古英语 orceard、ortgeard 等，可能接 wyrt 植物 + geard 园地，词形也受拉丁 hortus 园影响的分析。现代不是 orchard 直接从 orchid 兰花派生。",
+    "branches": [
+      [
+        "两条基本义与测量",
+        "yard · yardage · yardstick"
+      ],
+      [
+        "旧果园与日常院地",
+        "orchard · backyard · courtyard · schoolyard · barnyard · farmyard"
+      ],
+      [
+        "墓地和种植地",
+        "graveyard · churchyard · vineyard"
+      ],
+      [
+        "船只作业",
+        "shipyard · dockyard · boatyard"
+      ],
+      [
+        "废料与材料场",
+        "junkyard · scrapyard · lumberyard · brickyard · boneyard"
+      ],
+      [
+        "yard → yards：院地与杆长单位",
+        "yard · yards"
+      ],
+      [
+        "围地同族的不同路线：yard 与 garden、gardener",
+        "yard · garden · gardener · gardeners · gardening"
+      ],
+      [
+        "orchard → orchards：旧园地词组合到果园",
+        "orchard · orchards"
+      ]
+    ],
+    "contrasts": "yard 院地与码分源；orchard 非 or+chard；dockyard 场地、drydock 设施；junkyard/scrapyard 常重叠；graveyard shift 深夜班非墓地工作。",
+    "practice": "We bought three yards of cloth and carried it across the yard.\n\n我们买了三码布，提着它穿过院子。",
+    "words": [
+      "yard",
+      "yardage",
+      "yardstick",
+      "orchard",
+      "backyard",
+      "courtyard",
+      "schoolyard",
+      "barnyard",
+      "farmyard",
+      "graveyard",
+      "churchyard",
+      "vineyard",
+      "shipyard",
+      "dockyard",
+      "boatyard",
+      "junkyard",
+      "scrapyard",
+      "lumberyard",
+      "brickyard",
+      "boneyard",
+      "yards",
+      "garden",
+      "gardener",
+      "gardeners",
+      "gardening",
+      "orchards"
+    ],
+    "exclude": {
+      "yard-sale": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yarder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "B3348",
+    "meaning": "拍击发响，走向鼓掌、工具与掌声比喻",
+    "core": "CLAP：两面一碰，啪的一声",
+    "image": "clap → clapping、clapper；thunderclap 与 claptrap 分别借爆响和掌声。",
+    "intro": "拍手是最熟悉的入口，但别把 clap 缩成鼓掌：拍肩、爆响、钟内撞击部件也能接起来。外墙 clapboard 保留另一条借词历史。",
+    "forms": "clæppan → clappen → clap；双写 p 接 -ing、-er；claptrap 早期是博掌声的噱头，外墙 clapboard 由 clapholt 改形。\n\nclap 接古英语、古诺尔斯等日耳曼拍击材料；clapped 双写 p，拍手鼓掌是常见分支，不等于所有 clap 都是称赞。",
+    "branches": [
+      [
+        "拍击、动作和发响部件",
+        "clap · clapping · clapper"
+      ],
+      [
+        "复合词与分源木板名",
+        "thunderclap · claptrap · clapboard"
+      ],
+      [
+        "clap 的拍响、鼓掌及现代变化",
+        "clap · claps · clapped · clapping"
+      ]
+    ],
+    "contrasts": "clap 不必表达赞赏；-er 可造物名。clapboard 的两路用法不能全按现代 clap + board 解释。",
+    "practice": "A thunderclap interrupted the clapping.\n\n一声霹雳打断了掌声。",
+    "words": [
+      "clap",
+      "clapping",
+      "clapper",
+      "thunderclap",
+      "claptrap",
+      "clapboard",
+      "claps",
+      "clapped"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2217",
+    "meaning": "痛苦、病与病理变化，构词重心由后半部分决定",
+    "core": "PATHO：先抓疾病，再问病因、过程或变化",
+    "image": "pathogen → pathogenic；pathogenesis 看形成过程；pathology、pathophysiology 各有研究重点。",
+    "intro": "patho- 带来疾病的方向，后半部分才回答是谁致病、怎样发生、研究什么。别只把所有长词统一翻成病理。",
+    "forms": "希腊 pathos → patho-；-gen 因子、产生相关；-genic 性质；-genesis 发生；-logy 研究；physiology 功能。",
+    "branches": [
+      [
+        "致病因子与性质",
+        "pathogen · pathogenic"
+      ],
+      [
+        "发生过程与疾病研究",
+        "pathogenesis · pathology · pathophysiology"
+      ]
+    ],
+    "contrasts": "pathogenesis 是过程、机制，pathogen 是因子；pathology 不仅是一句抽象的有病。",
+    "practice": "The paper describes a pathogen and discusses its role in pathogenesis.\n\n论文描述一种病原体，并讨论它在发病过程中的作用。",
+    "words": [
+      "pathogen",
+      "pathogenic",
+      "pathogenesis",
+      "pathology",
+      "pathophysiology"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2024",
+    "meaning": "法语承拉丁的在上、超过或附加材料",
+    "core": "SUR：在原有层面之上，再越过或加上一层",
+    "image": "surmount 克服障碍，surname 是附加名的借词改形，surreal 则来自超现实主义名称。",
+    "intro": "同样的 sur- 在借词里留下不同搭配。要抓住上、超出、附加的方向，再看整词怎样进入英语，不能把词形相同当作同一天临时拼成。",
+    "forms": "法语 sur- 承拉丁 super；surmonter → surmount；surnom 等 → surname 部分仿译；surrealism → surreal 逆构。",
+    "branches": [
+      [
+        "越过障碍与附加名字",
+        "surmount · surname"
+      ],
+      [
+        "超出现实的梦境感",
+        "surreal"
+      ]
+    ],
+    "contrasts": "surreal 较短，却由 surrealism 逆构；surname 的 name 是借入时的替换材料，不能只按现代拼装叙述。",
+    "practice": "It felt surreal to hear a stranger call out my surname.\n\n听到陌生人喊出我的姓，感觉像在梦里。",
+    "words": [
+      "surmount",
+      "surname",
+      "surreal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3880",
+    "meaning": "身体不适、疾病，也能说恶心；复合词限定原因",
+    "core": "SICKNESS：不舒服这件事，前面的词再说是哪一种",
+    "image": "sickness → seasickness、homesickness；身体不适与想家的难受靠感受比喻相连。",
+    "intro": "sickness 是 sick 的状态名词，不必每次都指一个明确病名。sea 把它限定为晕船，home 则把难受感转向离家思乡。",
+    "forms": "sick + -ness，古英语已有相应形式；seasick + -ness；homesickness 与德语 Heimweh 仿译背景有关。",
+    "branches": [
+      [
+        "不适状态与具体感受",
+        "sickness · seasickness · homesickness"
+      ]
+    ],
+    "contrasts": "sickness 可泛疾病，也可按搭配说恶心；homesickness 是思乡，不等于房屋本身有毛病。",
+    "practice": "Seasickness and homesickness made the voyage feel longer.\n\n晕船和思乡让航程显得更漫长。",
+    "words": [
+      "sickness",
+      "seasickness",
+      "homesickness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3619",
+    "meaning": "控制行进方向，抽象引导也像掌舵；牛名另源",
+    "core": "STEER：让正在走的东西朝对的方向走",
+    "image": "steer → steerable、steerage、understeer；starboard 的历史也接船上操舵材料。",
+    "intro": "先分动力与方向，再把掌舵借给谈话、行动路线。steerage 的舱位名经过区域名称转义，不能直接从现代统舱外观猜来历。",
+    "forms": "stēoran、stȳran → steer；-able 能被操纵；-age 装置、动作与舱位名；under- 不足；牛名另承 stēor。\n\n古英语 steoran、styran 的方向动词，与公牛名 steer 近源不同。",
+    "branches": [
+      [
+        "引导方向与可操控性质",
+        "steer · steerable"
+      ],
+      [
+        "操舵相关名称与不足响应",
+        "steerage · understeer · starboard"
+      ],
+      [
+        "steer → steering：掌舵、控制方向与引导",
+        "steer · steering"
+      ]
+    ],
+    "contrasts": "steer 不等于所有驾驶动作；steer 牛名分源；understeer 说响应不足，非车底操舵。",
+    "practice": "She steered the steerable model boat toward the bank.\n\n她操控那艘可转向的模型船驶向岸边。",
+    "words": [
+      "steer",
+      "steerable",
+      "steerage",
+      "understeer",
+      "starboard",
+      "steering"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3617",
+    "meaning": "不易弯曲、改变，从材料刚性借到制度与态度",
+    "core": "RIGID：形状不肯变，规则也不肯让",
+    "image": "rigid → rigidly、rigidity，性质、方式与抽象性质名词。",
+    "intro": "用一把不能弯的硬尺记住主画面，再理解不灵活的安排。材料上这可能是优点，处事上却可能成为问题。",
+    "forms": "rigēre → rigidus → rigide → rigid；-ly 方式；-ity 性质且重音改变。",
+    "branches": [
+      [
+        "性质、方式与抽象名词",
+        "rigid · rigidly · rigidity"
+      ]
+    ],
+    "contrasts": "rigid 不等于所有 solid；rigidity 刚性与 strength 强度不完全相同。",
+    "practice": "The rigid schedule was enforced rigidly, revealing the system’s rigidity.\n\n僵硬的时间安排被毫不变通地执行，显出了制度的僵化。",
+    "words": [
+      "rigid",
+      "rigidly",
+      "rigidity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3898",
+    "meaning": "表面细长条带，借作军衔、类型等标记",
+    "core": "STRIPE：一条长色带，成了可辨认的花纹",
+    "image": "stripe → striped、stripy；pinstripe 是细条纹。",
+    "intro": "一道色带是 stripe，有这种花色是 striped 或 stripy。军衔与立场类型义再借条纹作为标记的功能。",
+    "forms": "strîpe 等 → stripe；+ -ed 变 striped；去 e + -y 变 stripy，亦见 stripey；pin 指细针般窄。\n\nstripe 条纹接中古荷兰语、低地德语等色带材料。现代保留 e 加 -s，/p/ 后读 /s/；of different stripes 又以不同花色比喻不同类型。",
+    "branches": [
+      [
+        "条纹与带条纹的性质",
+        "stripe · striped · stripy"
+      ],
+      [
+        "细条纹",
+        "pinstripe"
+      ],
+      [
+        "stripe → stripes：条纹与类别",
+        "stripes"
+      ]
+    ],
+    "contrasts": "striped /straɪpt/ 与 stripped /strɪpt/ 要分清；stripy 不要求某种独有的条纹数量。",
+    "practice": "The striped shirt has a narrow stripe beside each wider band.\n\n条纹衬衫每一道宽色带旁都有一条窄纹。",
+    "words": [
+      "stripe",
+      "striped",
+      "stripy",
+      "pinstripe",
+      "stripes"
+    ],
+    "exclude": {
+      "stripey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4429",
+    "meaning": "旧抛投、转动材料发展为扭曲，织造经线名词另保留",
+    "core": "WARP：平直的形状或判断，被带歪了",
+    "image": "warp → warped → warping；经线义另以织布场景理解。",
+    "intro": "木板翘曲是最直观入口，再看判断、叙述的扭曲。warp 经线是古老名词，不用强编成线歪了的现代故事。",
+    "forms": "weorpan → werpen 等 → warp 动词；wearp → warp 经线；-ed 结果，-ing 动作、过程。",
+    "branches": [
+      [
+        "变形动作、结果与过程",
+        "warp · warped · warping"
+      ],
+      [
+        "织造经线和整经",
+        "warp · warping"
+      ]
+    ],
+    "contrasts": "warp 常含偏离应有形状；织造 warping 是整经。科幻 warp speed 不宜当普通物理事实。",
+    "practice": "The panel was warping, and the warped corner no longer fitted.\n\n板材正在翘曲，翘起的一角已经合不上了。",
+    "words": [
+      "warp",
+      "warped",
+      "warping"
+    ],
+    "exclude": {}
+  }
+]

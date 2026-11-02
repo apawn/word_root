@@ -1,0 +1,102 @@
+"""Tail: position, shape, hairstyles, vehicles and uncertain cocktail history."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+T=[['古英语 tæġel、tæġl → 中古英语 tail 等 → tail','尾、尾部；更远有尾毛、细长物等分析'],['后端、细长形与跟随','动物尾 → 车尾、队尾、文字结尾；tail 跟在后面'],['具体组合','ponytail、pigtail 发型；dovetail 尾形榫接；tailpipe、tailback 车与位置；动物尾特征名称']]
+W('tail','/teɪl/','尾巴、尾部；后端、末尾；跟踪、尾随',
+ '与 head 前端对着看，拖在后面那一段是 tail；警探跟在某人后面，也借尾随的动词画面。',
+ '继承古英语 tæġel 等尾名，后来按形状、位置扩到物件后部和结尾。法律旧 tail 限定继承等另有法语裁切词源，当前普通尾义不从它推。',T,
+ 'a dog’s tail 狗尾巴，the tail of a queue 队尾，tail a suspect 跟踪嫌疑人，tail off 逐渐减弱，heads or tails 硬币正反面猜选。',
+ 'a dog’s tail；the tail end；tail off；heads or tails。',
+ 'tail 尾与 tale 故事同音，不同词；tails 还可说燕尾服等，不能所有复数都画成多条动物尾巴。',
+ ('The dog wagged its tail.','狗摇了摇尾巴。'),('The detective tailed the suspect through the market.','侦探跟着嫌疑人穿过市场。'),
+ sources=['https://www.etymonline.com/word/tail','https://en.wiktionary.org/wiki/tail#English'])
+W('ponytail','英 /ˈpəʊniteɪl/；美 /ˈpoʊniteɪl/','马尾辫、束在脑后的长发',
+ '把头发往后扎成一束，后面垂着像小马尾巴；名字借外形，不要求真的编成三股辫。',
+ 'pony 小马 + tail 尾巴，现代发型名称。pony 的小马义是马种、体型名称，不保证每只都尚未成年。',T[:2]+[['pony + tail → ponytail','像小马尾一样后垂的束发']],
+ 'wear a ponytail 扎马尾，tie hair in a ponytail 把头发束成马尾，a high ponytail 高马尾。',
+ 'wear a ponytail；a high ponytail；tie hair in a ponytail。',
+ 'ponytail 可以只扎不编，braid 明确编织发辫；pigtails 常说两束或两辫，实际发型看上下文。',
+ ('She tied her hair in a ponytail before running.','跑步前她把头发扎成了马尾。'),('A high ponytail kept her hair away from her face.','高马尾让头发不再挡脸。'),
+ sources=['https://www.etymonline.com/word/ponytail','https://en.wiktionary.org/wiki/ponytail#English'])
+W('pigtail','/ˈpɪɡteɪl/','猪尾；发辫、双马尾之一；尾辫状短线等',
+ '先是猪尾，再借卷曲、细长束的外形；说头发常见复数 pigtails，两边各扎一束或编一辫。',
+ 'pig 猪 + tail 尾，动物实义与形状引申并存。技术里 pigtail 可指接出一截的短引线，也借尾巴形状。',T[:1]+[['pig + tail → pigtail','猪尾'],['形状借喻','发辫、束发；短尾状线材等']],
+ 'wear pigtails 扎双辫、双束发，a braided pigtail 编好的发辫，a cable pigtail 尾辫式短接线。',
+ 'wear pigtails；braided pigtails；a cable pigtail。',
+ 'pigtails 不一定每次都编织；ponytail 通常指后面一束，发型约定要结合数量、修饰词。',
+ ('The girl wore her hair in two pigtails.','女孩把头发扎成了两束辫。'),('The illustration shows a pig with a curly pigtail.','插图画了一只卷着猪尾巴的小猪。'))
+W('dovetail','/ˈdʌvteɪl/','鸽尾；燕尾榫；严丝合缝地接合、吻合',
+ '榫头一端展开，像鸟尾，嵌进对应凹口后彼此扣住；两个安排恰好互相补上，也能说 dovetail。',
+ 'dove 鸽子 + tail 尾，按木工榫形命名，再由名词转动词，比喻紧密配合。中文燕尾榫译名不代表英文前半其实是 swallow 燕子。',T[:2]+[['dove + tail → dovetail','像鸽尾形的榫接部位'],['动词与比喻','接合；计划、意见等吻合']],
+ 'a dovetail joint 燕尾榫接，dovetail with 与……吻合，dovetail two schedules 把两套时间衔接好。',
+ 'a dovetail joint；dovetail with；dovetail neatly。',
+ 'dovetail 强调拼接得合适，不只是 overlap 有共同部分；dove 在这里是鸟 /dʌv/，不是 dive 的过去式 /doʊv/。',
+ ('The drawer is held together with dovetail joints.','抽屉通过燕尾榫接合。'),('Her plans dovetail neatly with ours.','她的计划和我们的计划衔接得恰到好处。'),
+ sources=['https://www.etymonline.com/word/dovetail','https://en.wiktionary.org/wiki/dovetail#English'])
+W('tailpipe','/ˈteɪlpaɪp/','排气尾管、排气管',
+ '汽车尾部把废气送出去的管口，名称按后端位置抓画面；现代也可泛说车辆的排气出口。',
+ 'tail 后端 + pipe 管，取车辆尾部的空间关系。不会因为车没有动物尾巴就不能用 tail。',T[:2]+[['tail + pipe → tailpipe','车尾排气管，或相应排气出口']],
+ 'a car’s tailpipe 汽车排气尾管，tailpipe emissions 尾气排放，a damaged tailpipe 损坏的尾管。',
+ 'a car’s tailpipe；tailpipe emissions；a damaged tailpipe。',
+ 'tailpipe 是排气系统末端管，不是 fuel pipe 燃油管；不同车辆的排气出口实际位置也可能不同。',
+ ('Smoke came from the old car’s tailpipe.','旧车排气管冒出了烟。'),('The mechanic replaced the damaged tailpipe.','机械师更换了损坏的排气尾管。'))
+W('tailback','/ˈteɪlbæk/','堵车长队〔英式〕；靠后的进攻后卫、跑卫〔美式橄榄球〕',
+ '堵点后面拖起一条长尾巴，是英式交通 tailback；美式球场里则说进攻队列靠后位置的队员。',
+ 'tail 尾、后端 + back 后部、后卫，按位置组合。两类专业语境分开，不把开车的人全译成后卫。',T[:2]+[['tail + back → tailback','交通后拖长队；球场后方角色']],
+ 'a long tailback 堵车长龙，tailbacks on the motorway 高速公路拥堵长队，the team’s tailback 球队跑卫。',
+ 'a long tailback；motorway tailbacks；the team’s tailback。',
+ 'tailback 英式交通义和美式体育义不同；tailgate 则可车尾门、跟车等，back 和 gate 不能只按后面两个字混用。',
+ ('The accident caused a long tailback.','事故造成了长长的堵车队伍。'),('The team’s tailback scored in the second half.','球队的跑卫在下半场得分。'),
+ sources=['https://www.merriam-webster.com/dictionary/tailback','https://en.wiktionary.org/wiki/tailback#English'])
+W('tailspin','/ˈteɪlspɪn/','飞机螺旋下坠；失控下滑、混乱',
+ '一边转一边掉下去，给人控制不住、越来越糟的感觉；打击把生活、组织弄乱，也可以 throw into a tailspin。',
+ 'tail + spin 的航空名称，后比喻失控恶化。词形能帮记后端与旋转，却不是一切带尾旋转都构成航空同一状态。',T[:2]+[['tail + spin → tailspin','航空螺旋下坠名称'],['失控下坠的比喻','情绪、生活、组织陷入混乱']],
+ 'go into a tailspin 进入失控下滑，throw someone into a tailspin 使某人陷入慌乱，an emotional tailspin 情绪失控。',
+ 'go into a tailspin；throw into a tailspin；an emotional tailspin。',
+ 'tailspin 比普通 decline 更有失控、旋落感；比喻失控不等于飞机事故真的发生。',
+ ('The bad news sent the whole team into a tailspin.','坏消息让整个团队乱了阵脚。'),('The film shows a damaged plane entering a tailspin.','电影里一架受损飞机开始螺旋下坠。'))
+W('oxtail','英 /ˈɒksteɪl/；美 /ˈɑːksteɪl/','牛尾；烹调用牛尾肉',
+ '牛的尾部拿来作为肉食部位，就从动物解剖名进入菜谱；不是只吃某一种性别、年龄的牛才有这个商品名。',
+ 'ox 牛 + tail 尾，旧英语已有相应所有格组合，后来固定为 oxtail。现代食物名范围按食材商品使用。',T[:1]+[['ox + tail 的旧组合 → oxtail','牛尾及相应肉料']],
+ 'oxtail soup 牛尾汤，braised oxtail 炖牛尾，oxtail stew 牛尾炖菜。',
+ 'oxtail soup；braised oxtail；oxtail stew。',
+ 'oxtail 是尾部肉，tailbone 是骨骼名称；菜谱不把两词当完全相同的整份原料。',
+ ('The café serves oxtail soup on Fridays.','咖啡馆每逢周五供应牛尾汤。'),('She cooked the oxtail slowly with vegetables.','她把牛尾和蔬菜一起慢慢炖。'))
+W('cottontail','英 /ˈkɒtənteɪl/；美 /ˈkɑːtənteɪl/','棉尾兔〔一类兔的俗名〕',
+ '尾巴像一小团白棉花，所以名字抓住最显眼的小白尾；不是兔子尾里真的长出棉花纤维。',
+ 'cotton 棉 + tail 尾，按外观命名棉尾兔属等兔类名称。词尾 tail 在这里借身体特征代整只动物。',T[:1]+[['cotton + tail → cottontail','以棉团样尾巴命名的兔']],
+ 'a cottontail rabbit 棉尾兔，a cottontail in the garden 花园里的棉尾兔，watch a cottontail 观察棉尾兔。',
+ 'a cottontail rabbit；a cottontail in the garden；watch a cottontail。',
+ 'cottontail 是动物俗名，不泛指所有尾巴白的兔子；命名意象与严格分类范围仍分开。',
+ ('A cottontail rabbit hid beneath the hedge.','一只棉尾兔藏在树篱下。'),('The cottontail’s white tail flashed as it ran away.','棉尾兔跑开时，白尾巴一闪一闪。'))
+W('swallowtail','英 /ˈswɒləʊteɪl/；美 /ˈswɑːloʊteɪl/','燕尾形、燕尾；凤蝶等蝶类名称',
+ '燕子的尾巴分成两叉，衣服下摆、旗边也能借这种外形；有些蝴蝶翅上伸出尾突，也以这个词命名。',
+ 'swallow 燕子 + tail 尾，先选鸟名 swallow，不是吞咽动词；再按尾形用于服装、旗帜和凤蝶类俗称。',T[:1]+[['swallow + tail → swallowtail','燕尾与燕尾形物件'],['动物名称借用','翅有尾突等特征的蝶类名称']],
+ 'a swallowtail butterfly 凤蝶，a swallowtail flag 燕尾旗，a swallowtail shape 燕尾形。',
+ 'a swallowtail butterfly；a swallowtail flag；a swallowtail shape。',
+ 'swallowtail 的 swallow 是燕子；dovetail 里的 dove 是鸽子，中文有时都带燕尾两字，英语材料不相同。',
+ ('A swallowtail butterfly landed on the flowers.','一只凤蝶落在花上。'),('The banner had a swallowtail edge.','旗帜边缘呈燕尾形。'))
+W('wagtail','/ˈwæɡteɪl/','鹡鸰〔一类常摆尾的小鸟〕',
+ '小鸟走走停停，长尾上下摆动，名字直接像“摇尾巴者”；不是所有会摇尾的动物都叫它。',
+ 'wag 摇摆 + tail 尾；中古英语较早还见 wagstert，后段由较旧的尾名换成 tail，现代形式透明。',T[:1]+[['旧 wagstert 等 → wagtail','以摆尾特征命名的鸟']],
+ 'a pied wagtail 白鹡鸰类俗名，a wagtail by the stream 溪边鹡鸰，watch a wagtail 观察鹡鸰。',
+ 'a wagtail；a wagtail by the stream；watch a wagtail。',
+ 'wagtail 是鸟名，a dog wagging its tail 仍是狗摇尾，不把动词短语自动当成这个鸟的分类。',
+ ('A wagtail bobbed along the edge of the stream.','一只鹡鸰沿溪边点动着前行。'),('We watched the wagtail flick its long tail.','我们看着鹡鸰抖动它的长尾。'))
+W('cocktail','英 /ˈkɒkteɪl/；美 /ˈkɑːkteɪl/','鸡尾酒；混合物、混合因素；冷盘拼配等',
+ '现代核心是把几种材料混成一份：饮料、果品，甚至造成问题的多重因素；不必想象酒里泡着公鸡尾巴。',
+ '表面 cock + tail，旧有马尾姿态、杂血马等相关用法，但饮料名称为什么沿用它没有定论。马种混合、提振精神等只是不同解释，不拿彩色羽毛装杯传说充史实。',
+ [['cock、tail 组合及旧马相关用法','形态与较早材料可查，连接解释不一'],['英语 cocktail〔饮料〕','混合酒，命名转移缘由未定'],['混合物引申','果品拼配、因素混合等']],
+ 'a fruit cocktail 水果拼盘、混合水果，a cocktail party 鸡尾酒会，a cocktail of factors 多种因素混合。',
+ 'a cocktail party；a fruit cocktail；a cocktail of factors。',
+ 'cocktail 不只酒，但具体 a cocktail 通常先按饮料语境看；tail 羽尾的字面材料不能直接推出确定饮料命名故事。',
+ ('She ordered a cocktail before dinner.','晚饭前她点了一杯鸡尾酒。'),('The delay resulted from a cocktail of problems.','延误是多种问题混在一起造成的。'),
+ sources=['https://www.etymonline.com/word/cocktail','https://en.wiktionary.org/wiki/cocktail#English'])
+R('B3088','后端、细长下垂与尾形特征','TAIL：位置像尾，形状像尾，动作跟在后面','tail → ponytail、pigtail 发型；tailgate、tailpipe、taillight 车尾；dovetail 榫接；动物俗名按尾特征；cocktail 饮料史未定。',
+ '同一个尾意象可以说位置、形状和动作，具体构词前半要选对。swallow 燕子、dove 鸽子不能都因中文燕尾译名而混成同一词。',
+ 'tæġel → tail；pony/pig/dove/ox/cotton/swallow/wag + tail；tail + gate/pipe/light/back/spin/bone/wind；cocktail 饮料义另辨不确定。',
+ [['基础与发型','tail · ponytail · pigtail'],['位置、车尾和失控比喻','tailgate · tailpipe · taillight · tailback · tailwind · tailspin · tailbone'],['接合、食材和动物特征','dovetail · oxtail · cottontail · swallowtail · wagtail · fishtail · yellowtail'],['饮料命名有争议的支线','cocktail']],
+ 'tail/tale 尾与故事同音；dovetail/swallowtail 鸽燕材料不同；ponytail 不必编辫；cocktail 不编彩羽酒杯定源。',
+ 'Her ponytail swung as she followed the wagtail along the path.\n\n她沿小路跟着鹡鸰走，马尾辫随步子摆动。','tail ponytail pigtail tailgate tailpipe taillight tailback tailwind tailspin tailbone dovetail oxtail cottontail swallowtail wagtail fishtail yellowtail cocktail')
+if __name__=='__main__':save('continuation_20261030_gc',ROOTS,WORDS)

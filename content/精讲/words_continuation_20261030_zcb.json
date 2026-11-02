@@ -1,0 +1,546 @@
+[
+  {
+    "word": "casualties",
+    "ipa": "/ˈkæʒuəltiz/",
+    "meaning": "伤亡者；受损者、损失〔复数〕",
+    "sense": "事故、冲突等不幸事件造成的人命伤亡，是 casualties 的常见义；一项变化中被牺牲、受损的事物，也能借这个词说。",
+    "split": "casualty 连 casual 的偶发材料与名词尾 -ty，中古英语已有不幸事件等义，后来转到损失。现代 y 改 i，加 -es，读 /tiz/。",
+    "history": [
+      [
+        "偶发、意外材料 → casualty",
+        "偶发之事、不幸事件 → 损失、伤亡者"
+      ],
+      [
+        "casualty → casualties：y 改 i，加 -es",
+        "多位伤亡者、受损对象或损失"
+      ]
+    ],
+    "explanation": "civilian casualties 平民伤亡者；report casualties 报告伤亡；casualties of a change 变化中的受损者。",
+    "usage": "avoid casualties 避免伤亡；one of the casualties 受损对象之一。",
+    "contrast": "casualties 通常可包括受伤与遇难的人，不能一概译成死亡人数。抽象比喻里也未必说人死亡，可能说某个项目、事业受到损害。",
+    "examples": [
+      [
+        "The article discusses civilian casualties in the fictional conflict.",
+        "文章讨论了那场虚构冲突中的平民伤亡。"
+      ],
+      [
+        "The small library was one of the casualties of the budget cuts.",
+        "小图书馆是经费削减中受损的项目之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/casualties#English",
+      "https://en.wiktionary.org/wiki/casualty#English"
+    ]
+  },
+  {
+    "word": "catches",
+    "ipa": "/ˈkætʃɪz/",
+    "meaning": "抓住、接住、赶上〔第三人称单数〕；接球、捕获物、隐藏条件〔复数〕",
+    "sense": "移动的东西被接住，是 catches；一句话抓住注意力，也能说 catches attention。名词的隐藏条件则像把人卡住的地方。",
+    "split": "catch 经法语捕捉、追猎材料接拉丁抓取词族。现代 /tʃ/ 后加 -es，读 /ɪz/；名词复数和动词三单同形，过去式另用 caught。",
+    "history": [
+      [
+        "拉丁抓取材料 → 法语、英语 catch",
+        "捕捉、接住 → 赶上、吸引、卡住等用法"
+      ],
+      [
+        "catch + -es → catches",
+        "某人抓到；多次接球、捕获或隐藏条件"
+      ]
+    ],
+    "explanation": "catches the ball 接住球；catches a train 赶上火车；catches the eye 引人注目。",
+    "usage": "excellent catches 漂亮的接球；hidden catches 隐藏的不利条件。",
+    "contrast": "catches a train 说成功赶上，chases a train 则说追着跑，未必赶上。两词历史相关，现代动作重点不同。",
+    "examples": [
+      [
+        "She catches the ball with one hand.",
+        "她用一只手接住球。"
+      ],
+      [
+        "The offer has several catches.",
+        "这个提议里有几个隐藏的不利条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/catches#English",
+      "https://en.wiktionary.org/wiki/catch#English"
+    ]
+  },
+  {
+    "word": "committees",
+    "ipa": "/kəˈmɪtiz/",
+    "meaning": "委员会、受托办事小组〔复数〕",
+    "sense": "一群人被交付一类事情，一起研究、决定或安排，是 committee；有几组承担不同事情，就是 committees。",
+    "split": "committee 通常分析为 commit 交托 + -ee 受托方，也有盎格鲁法语相关来源分析。现代整个 committee 加 -s，/i/ 后读 /z/，普通委员会义重音在中间。",
+    "history": [
+      [
+        "交托词族 → committee：英语后缀或法语相关路线",
+        "受托的一方 → 受托办事群体"
+      ],
+      [
+        "committee + -s → committees",
+        "多组委员会、办事小组"
+      ]
+    ],
+    "explanation": "school committees 学校委员会；committees of volunteers 志愿者组成的委员会；serve on committees 在委员会任职。",
+    "usage": "several committees 几个委员会；different committees 不同办事小组。",
+    "contrast": "committee 一个词就能表示一群人，committees 才表示多个这样的群体。普通这个词不照末尾 ee 拼写读成长重音 /iː/。",
+    "examples": [
+      [
+        "The school has several committees.",
+        "学校设有几个委员会。"
+      ],
+      [
+        "Different committees planned the exhibition and the concert.",
+        "不同委员会分别筹划了展览和音乐会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/committees#English",
+      "https://en.wiktionary.org/wiki/committee#English"
+    ]
+  },
+  {
+    "word": "cries",
+    "ipa": "/kraɪz/",
+    "meaning": "哭泣、喊叫〔第三人称单数〕；哭声、呼喊〔复数〕",
+    "sense": "一个人在哭，是 cries 的动作；房里传来一声声呼喊，也是 cries 的名词。它不只讲流眼泪，还保留高声叫出来的用法。",
+    "split": "cry 经古法语 crier 借入，更早拉丁路线有不同解释。现代把 y 改 i，加 -es，读音仍 /aɪ/ 加 /z/，不是另读 /ɪz/。",
+    "history": [
+      [
+        "古法语 crier → 英语 cry",
+        "呼喊 → 哭泣；更早来源仍有讨论"
+      ],
+      [
+        "cry → cries：y 改 i，加 -es",
+        "某人哭、喊；多声呼喊、哭声"
+      ]
+    ],
+    "explanation": "cries for help 求救呼喊；cries with joy 高兴得哭；cries out 喊出声。",
+    "usage": "loud cries 大声呼喊；the baby cries 婴儿哭。",
+    "contrast": "cries of joy 可以是高兴的叫声，不一定在哭泣。cries for help 则先抓住大声呼救，不要只按眼泪解释。",
+    "examples": [
+      [
+        "The baby cries when the room becomes too noisy.",
+        "房间太吵时，婴儿会哭。"
+      ],
+      [
+        "They heard cries of joy from the crowd.",
+        "他们听见人群里传来欢呼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cries#English",
+      "https://en.wiktionary.org/wiki/cry#English"
+    ]
+  },
+  {
+    "word": "cycles",
+    "ipa": "/ˈsaɪkəlz/",
+    "meaning": "周期、一轮轮过程；自行车等〔复数〕；循环、骑车〔第三人称单数〕",
+    "sense": "开始、发展、结束后又回来，是 cycles 的周期画面；骑车的 cycles 则连着车轮和 bicycle 的缩短用法。两条现代义要看对象。",
+    "split": "周期 cycle 经希腊 kyklos 圆、轮，走拉丁、法语路线；车辆义后来缩自 bicycle 等。现代加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "希腊 kyklos → 拉丁、法语 → cycle 周期",
+        "圆、轮 → 重复的一轮过程"
+      ],
+      [
+        "车辆词缩短的 cycle；cycle + -s → cycles",
+        "多个周期、车辆；某人循环或骑车"
+      ]
+    ],
+    "explanation": "life cycles 生命周期；seasonal cycles 季节循环；cycles to work 骑车上班。",
+    "usage": "several cycles 几轮循环；cycles through the colours 按顺序循环显示颜色。",
+    "contrast": "cycles 不一定是自行车。water cycles 讲水循环，she cycles 可能说她骑车；周期义在历史上早于车辆词的缩短义。",
+    "examples": [
+      [
+        "The lesson explains the life cycles of butterflies.",
+        "这节课讲解蝴蝶的生命周期。"
+      ],
+      [
+        "She cycles to work when the weather is fine.",
+        "天气好时，她骑车上班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cycles#English",
+      "https://en.wiktionary.org/wiki/cycle#English"
+    ]
+  },
+  {
+    "word": "disabilities",
+    "ipa": "/ˌdɪsəˈbɪlətiz/",
+    "meaning": "残障、不同的能力受限情况〔复数〕",
+    "sense": "某些身体、感官、认知等功能与日常活动受到限制，可以用 disabilities 谈这些不同情况。这个词描述特定方面，不是对整个人能做什么的一句总判定。",
+    "split": "现代 disability 可对照 dis- + ability，较早能力材料经拉丁 habilitas、法语到 ability。名词复数 y 改 i，再加 -es，读 /tiz/。",
+    "history": [
+      [
+        "ability 的能力词族；dis- + ability → disability",
+        "能力 → 某方面的能力受限状态"
+      ],
+      [
+        "disability → disabilities：y 改 i，加 -es",
+        "不同残障或多种能力受限情况"
+      ]
+    ],
+    "explanation": "people with disabilities 残障人士；students with disabilities 有残障的学生；different disabilities 不同残障情况。",
+    "usage": "access for people with disabilities 方便残障人士使用、进入的条件；support students with disabilities 支持有残障的学生。",
+    "contrast": "disabilities 是具体状况的复数，不表示每个人的需求一样。讨论环境、学习或活动时，仍要看具体受限方面与需要。",
+    "examples": [
+      [
+        "The museum welcomes visitors with disabilities.",
+        "博物馆欢迎残障访客。"
+      ],
+      [
+        "The project involved students with different disabilities.",
+        "项目有不同残障情况的学生参与。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disabilities#English",
+      "https://en.wiktionary.org/wiki/disability#English"
+    ]
+  },
+  {
+    "word": "discusses",
+    "ipa": "/dɪˈskʌsɪz/",
+    "meaning": "讨论、商议；论述〔第三人称单数〕",
+    "sense": "把问题拿出来，从不同方面看、交换意见，是 discusses。书或文章也能作主语，表示它具体论述了某个主题。",
+    "split": "discuss 接拉丁 dis- 分开与 quatere 摇动形成的 discutere、discussus，经法语发展出细察、讨论。现代直接在 discuss 后加 -es，读 /ɪz/，原有 ss 都保留。",
+    "history": [
+      [
+        "拉丁 discutere、discussus → 法语、英语 discuss",
+        "打散、细察 → 讨论、论述"
+      ],
+      [
+        "discuss + -es → discusses",
+        "某人讨论；某篇文章论述"
+      ]
+    ],
+    "explanation": "discusses the problem 讨论问题；discusses how it works 论述它怎样运作；discusses the plan with us 与我们讨论方案。",
+    "usage": "discusses several examples 讨论几个例子；discusses the theme at length 详细论述主题。",
+    "contrast": "discuss 通常直接接讨论对象：discusses the plan。with 接一起讨论的人，不需要再在宾语前加 about 来套谈论的中文结构。",
+    "examples": [
+      [
+        "The chapter discusses three possible explanations.",
+        "这一章讨论了三种可能的解释。"
+      ],
+      [
+        "She discusses the plan with her team.",
+        "她和团队讨论这个方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discusses#English",
+      "https://en.wiktionary.org/wiki/discuss#English"
+    ]
+  },
+  {
+    "word": "drums",
+    "ipa": "/drʌmz/",
+    "meaning": "鼓；圆筒、桶、滚筒〔复数〕；敲鼓、连续敲击〔第三人称单数〕",
+    "sense": "敲起来响的乐器是 drums；外形像鼓的圆筒容器也能叫 drums。桌上手指连续敲，动词同样能用 drums。",
+    "split": "drum 通常连中古荷兰、低地德语相关鼓词，也有从较长鼓词逆构的分析，具体路线未定。现代加 -s，/m/ 后读 /z/。",
+    "history": [
+      [
+        "日耳曼相关鼓词 → drum",
+        "鼓及鼓击；直接借入、逆构等分析有别"
+      ],
+      [
+        "声音、形状扩展；drum + -s → drums",
+        "多面鼓、圆桶；某人敲鼓或连续敲击"
+      ]
+    ],
+    "explanation": "play the drums 打鼓；oil drums 油桶；drums his fingers on the table 用手指连续敲桌子。",
+    "usage": "a set of drums 一套鼓；metal drums 金属圆桶。",
+    "contrast": "drums 在乐队里通常说鼓，在仓库里可能说圆桶。动词 drums 可只是反复敲击，不要求手边真有一面鼓。",
+    "examples": [
+      [
+        "She plays the drums in a band.",
+        "她在乐队里打鼓。"
+      ],
+      [
+        "He drums his fingers on the table while waiting.",
+        "他等候时用手指连续敲着桌子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drums#English",
+      "https://en.wiktionary.org/wiki/drum#English"
+    ]
+  },
+  {
+    "word": "enjoys",
+    "ipa": "/ɪnˈdʒɔɪz/",
+    "meaning": "喜欢、享受；享有〔第三人称单数〕",
+    "sense": "做某件事时得到快乐，是 enjoys；本身拥有有利条件，也能说 enjoys，说这项好处归它享有。",
+    "split": "enjoy 经古法语 enjoier 接 joy 的喜悦词族，较早连拉丁 gaudium。现代结尾 y 前是元音字母 o，直接加 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁喜悦材料 → 法语 enjoier → enjoy",
+        "感到喜悦 → 喜欢、享受；享有有利条件"
+      ],
+      [
+        "enjoy + -s → enjoys",
+        "某人喜欢；某人或某物享有"
+      ]
+    ],
+    "explanation": "enjoys reading 喜欢阅读；enjoys the music 享受音乐；enjoys a good reputation 享有良好声誉。",
+    "usage": "enjoys herself 玩得开心；enjoys a clear view 拥有开阔视野。",
+    "contrast": "enjoys 后接活动常用 -ing：enjoys swimming，不用 enjoys to swim。享有声誉、位置等用法则不一定在说某人有明确的快乐感受。",
+    "examples": [
+      [
+        "She enjoys reading by the window.",
+        "她喜欢坐在窗边阅读。"
+      ],
+      [
+        "The school enjoys a good reputation.",
+        "这所学校享有良好声誉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enjoys#English",
+      "https://en.wiktionary.org/wiki/enjoy#English"
+    ]
+  },
+  {
+    "word": "implied",
+    "ipa": "/ɪmˈplaɪd/",
+    "meaning": "暗示了、隐含的〔过去式、过去分词及形容词〕",
+    "sense": "没把话全说出来，但意思已经放在里面，是 implied。形容一个要求 implied，则是它虽没明说，却能从情境中理解。",
+    "split": "imply 经法语接拉丁 implicare 卷入、包含，连 in- 与 plicare。现代把 y 改 i，加完整 -ed；读音保留 /aɪ/，尾 /d/，不新增音节。",
+    "history": [
+      [
+        "拉丁 implicare → 法语、英语 imply",
+        "卷入、包含 → 间接表明"
+      ],
+      [
+        "imply → implied：y 改 i，加 -ed",
+        "曾暗示；未直接说出的"
+      ]
+    ],
+    "explanation": "implied that… 暗示……；an implied meaning 隐含意思；implied rather than stated 暗含而未明说。",
+    "usage": "implied criticism 没有直说的批评；implied by the context 由语境暗示。",
+    "contrast": "implied 是内容发出的暗示，inferred 是接收者作出的推断。不能因为读者想到某件事，就认定作者一定 implied 了它。",
+    "examples": [
+      [
+        "Her tone implied that she was not convinced.",
+        "她的语气暗示她还没有信服。"
+      ],
+      [
+        "The meaning was implied rather than directly stated.",
+        "这个意思是暗含的，没有直接说出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/implied#English",
+      "https://en.wiktionary.org/wiki/imply#English"
+    ]
+  },
+  {
+    "word": "incoming",
+    "ipa": "/ˈɪnkʌmɪŋ/",
+    "meaning": "进来的、收到的；即将就任的、接任的",
+    "sense": "朝这里来的，是 incoming；消息是进入接收端，负责人是进入职位。先问从谁的角度看向里来，方向就清楚了。",
+    "split": "in 向里 + coming，coming 为 come 去末尾 e 加完整 -ing。这里整个形式固定作修饰进来、接任对象的形容词，不把它拆成 income 收入加 -ing。",
+    "history": [
+      [
+        "本族 come、coming 与 in 方向材料",
+        "来 → 朝里面来"
+      ],
+      [
+        "in + coming → incoming",
+        "进来的；正在进入职位、即将接任的"
+      ]
+    ],
+    "explanation": "incoming mail 收到的邮件；incoming calls 呼入电话；the incoming manager 即将接任的经理。",
+    "usage": "incoming messages 收到的信息；incoming students 新入学学生。",
+    "contrast": "incoming 与 outgoing 相对，进入还是出去要看接收、发送或任职的角度。incoming manager 说接任者，不是在说经理每次走进门。",
+    "examples": [
+      [
+        "The screen shows incoming messages.",
+        "屏幕显示收到的消息。"
+      ],
+      [
+        "The incoming manager met the team on Monday.",
+        "即将接任的经理周一见了团队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incoming#English",
+      "https://en.wiktionary.org/wiki/coming#English"
+    ]
+  },
+  {
+    "word": "minerals",
+    "ipa": "/ˈmɪnərəlz/",
+    "meaning": "矿物；无机营养元素〔复数，依语境〕",
+    "sense": "岩石由什么矿物构成，是 minerals 的地质场景；谈食物成分时，这个词又常指无机营养元素。先看文章在讲岩石还是营养。",
+    "split": "mineral 经法语、中世纪拉丁矿石相关形式借入，连 minera、minerale。现代直接加 -s，/l/ 后读 /z/；min- 在这里不单拆成小。",
+    "history": [
+      [
+        "中世纪拉丁矿石材料 → 法语、英语 mineral",
+        "矿石相关 → 矿物"
+      ],
+      [
+        "mineral + -s → minerals；相关语境扩展",
+        "多种矿物；营养语境的无机元素"
+      ]
+    ],
+    "explanation": "minerals in rocks 岩石里的矿物；a collection of minerals 一批矿物标本；vitamins and minerals 维生素与矿物质。",
+    "usage": "identify the minerals 辨认矿物；different minerals 不同矿物。",
+    "contrast": "minerals 与 miners 矿工不是同一个词尾变化。前者谈矿物等物质，后者谈进行采矿的人；营养用法也不能直接按矿物标本的形状去想。",
+    "examples": [
+      [
+        "The students identified minerals in the rock samples.",
+        "学生们辨认了岩石样本中的矿物。"
+      ],
+      [
+        "The museum has a collection of colourful minerals.",
+        "博物馆收藏了一批色彩丰富的矿物标本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/minerals#English",
+      "https://en.wiktionary.org/wiki/mineral#English"
+    ]
+  },
+  {
+    "word": "miners",
+    "ipa": "英 /ˈmaɪnəz/；美 /ˈmaɪnərz/",
+    "meaning": "矿工、采矿者〔复数〕",
+    "sense": "在矿井里、矿场上开采矿物的人，是 miners。词尾表人，核心工作对象是 mine 的矿业义。",
+    "split": "mine 矿井、开采的法语借词路线，与所属代词 mine 我的分开。现代 mine 去末尾 e，加完整 -er 成 miner，再加复数 -s，读 /z/。",
+    "history": [
+      [
+        "矿业 mine + -er → miner",
+        "矿井、开采 → 从事开采的人"
+      ],
+      [
+        "miner + -s → miners",
+        "多位矿工、采矿者"
+      ]
+    ],
+    "explanation": "coal miners 煤矿工人；miners at the site 矿场上的矿工；a group of miners 一群矿工。",
+    "usage": "the miners’ work 矿工们的工作；miners in the photograph 照片里的矿工。",
+    "contrast": "miners 与 minors 未成年人常同音，靠拼写和语境判断。minerals 是矿物，不是给 miner 再加一个表人的后缀。",
+    "examples": [
+      [
+        "The photograph shows a group of miners.",
+        "照片里是一群矿工。"
+      ],
+      [
+        "The museum tells the stories of local miners.",
+        "博物馆讲述了当地矿工的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/miners#English",
+      "https://en.wiktionary.org/wiki/miner#English"
+    ]
+  },
+  {
+    "word": "neighborhoods",
+    "ipa": "英 /ˈneɪbəhʊdz/；美 /ˈneɪbərhʊdz/",
+    "meaning": "街区、邻里地区〔复数，常用美式拼写〕",
+    "sense": "人们各自生活的一片片附近地区，是 neighborhoods。它既能让人想到街道房屋，也常带着生活在那里的邻里关系。",
+    "split": "现代对应 neighbor + -hood；较早邻里词形有后来换成 -hood 的历史。整个 neighborhood 再加复数 -s，/d/ 后读 /z/；neighbourhoods 是保留 u 的对应拼写。",
+    "history": [
+      [
+        "邻居 neighbor；较早邻里词形 → neighborhood",
+        "邻居关系、周围地区；hood 形成状态、集合范围"
+      ],
+      [
+        "neighborhood + -s → neighborhoods",
+        "多个街区、邻里地区"
+      ]
+    ],
+    "explanation": "different neighborhoods 不同街区；quiet neighborhoods 安静街区；neighborhoods around the station 车站周边街区。",
+    "usage": "old neighborhoods 老街区；walk through the neighborhoods 穿过各片街区。",
+    "contrast": "neighbors 是人，neighborhoods 是附近的一片地区或邻里整体。-hood 在这里是词尾，与衣服上的兜帽 hood 分开。",
+    "examples": [
+      [
+        "We walked through several old neighborhoods.",
+        "我们走过了几个老街区。"
+      ],
+      [
+        "The map shows the city’s different neighborhoods.",
+        "地图展示了城市里不同的街区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neighborhoods#English",
+      "https://en.wiktionary.org/wiki/neighborhood#English"
+    ]
+  },
+  {
+    "word": "obtaining",
+    "ipa": "/əbˈteɪnɪŋ/",
+    "meaning": "获得、取得〔现在分词、动名词〕；适用、存在〔正式用法〕",
+    "sense": "想要的信息、物品或许可，经过寻找、申请等终于拿到，是 obtaining。它较正式，强调取得到手。",
+    "split": "obtain 经法语 obtenir 接拉丁 obtinere，含 ob- 与 tenere 持有、握住。现代直接加完整 -ing；末尾音节虽重读，拼写 ai 是元音字母组合，不双写 n。",
+    "history": [
+      [
+        "拉丁 obtinere → 法语 obtenir → obtain",
+        "握住、占有 → 取得、获得"
+      ],
+      [
+        "obtain + -ing → obtaining",
+        "正在取得；取得的过程；另有正式存在义"
+      ]
+    ],
+    "explanation": "obtaining information 获取信息；obtaining a copy 取得副本；a way of obtaining access 获得访问机会的方法。",
+    "usage": "difficulty obtaining materials 难以取得材料；before obtaining permission 获得许可之前。",
+    "contrast": "obtain 比 get 正式。obtaining 也保留少见的条件、规则存在或适用义，日常学习先掌握获得这一支。",
+    "examples": [
+      [
+        "Obtaining a clear copy took some time.",
+        "取得一份清晰副本花了一些时间。"
+      ],
+      [
+        "She is obtaining information from several sources.",
+        "她正在从几个来源获取信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obtaining#English",
+      "https://en.wiktionary.org/wiki/obtain#English"
+    ]
+  },
+  {
+    "word": "remembers",
+    "ipa": "英 /rɪˈmembəz/；美 /rɪˈmembərz/",
+    "meaning": "记得、想起；记着要做〔第三人称单数〕",
+    "sense": "一个人、一件事仍在心里，想得起来，是 remembers；记得去做某件事，则是没让该做的事从脑中漏掉。",
+    "split": "remember 经古法语 remembrer 接晚期拉丁 rememorari：re- 再 + memorari 记着，中间 b 是历史音变插入。现代直接加 -s，英音元音、美音 /r/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 memor、rememorari → 法语 remembrer → remember",
+        "放在心上 → 再想起、记住；历史插入 b"
+      ],
+      [
+        "remember + -s → remembers",
+        "某人记得、想起或记着去做"
+      ]
+    ],
+    "explanation": "remembers the day 记得那天；remembers meeting her 记得见过她；remembers to bring the key 记得带钥匙。",
+    "usage": "still remembers 仍记得；remembers her name 记得她的名字。",
+    "contrast": "remembers doing 是记得做过；remembers to do 是记得要做、没有忘记执行。两者的动作时间方向不同。",
+    "examples": [
+      [
+        "She remembers meeting him at the library.",
+        "她记得曾在图书馆见过他。"
+      ],
+      [
+        "He always remembers to bring his notebook.",
+        "他总记得带笔记本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remembers#English",
+      "https://en.wiktionary.org/wiki/remember#English"
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B3642",
+    "meaning": "出现、外观与再现",
+    "core": "APPEAR：看得见了，也可说看起来怎样",
+    "image": "appear 后接 appearance 外观或露面；再把 disappear、reappear 的反向与再次对照。",
+    "intro": "词族接拉丁显露，经法语进入英语。外观与事实需要区分，但不必把出现都解释成表面假象。",
+    "forms": "appear → appearance；dis- → disappear；re- → reappear。\n\nappear 经法语接拉丁 apparere，历史 ad- 加 parere 显露；appeared 的 -ed 读 /d/。\n\nappear 由显现发展出给人印象，appears 后面的补语决定具体用法。\n\ndis- 与 appear 的英语构形，也受法语相应形式影响。\n\n法语 aparoir 接拉丁 apparere，英语去 e 加 ing。\n\nappearance 经法语、拉丁名词传入，现代可对照动词理解，但历史不是简单现场加后缀。\n\ndisappear 是出现的逆转，现代加 -s，/r/ 等后读 /z/。消失是从视野、可察觉范围中不见，并不自动等于物质不存在。",
+    "branches": [
+      [
+        "基本词与名词",
+        "appear · appearance"
+      ],
+      [
+        "消失与重现",
+        "disappear · reappear"
+      ],
+      [
+        "appear → appeared：进入视线、显得如此",
+        "appear · appeared"
+      ],
+      [
+        "appear → appears：出现与显得",
+        "appear · appears"
+      ],
+      [
+        "disappear → disappeared：从视野里不见了",
+        "appear · disappear · disappeared"
+      ],
+      [
+        "appear → appearing：显到眼前、登场或似乎如此",
+        "appear · appearing"
+      ],
+      [
+        "appear、appearance → appearances：出现与外在印象",
+        "appear · appearance · appearances"
+      ],
+      [
+        "dis- 逆转 + appear 出现 → disappears",
+        "disappears"
+      ]
+    ],
+    "contrasts": "appear to be 表印象；disappear 通常不及物；appearance 可外观也可是一次露面。",
+    "practice": "The message disappeared and then reappeared on the screen.\n\n消息消失后，又在屏幕上出现。",
+    "words": [
+      "appear",
+      "appearance",
+      "disappear",
+      "reappear",
+      "appeared",
+      "appears",
+      "disappeared",
+      "appearing",
+      "appearances",
+      "disappears"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3063",
+    "meaning": "暗、黑暗状态与变暗",
+    "core": "DARK：缺光、色深，再看抽象阴暗",
+    "image": "dark 基本性质之后读 darkness 状态、darken 变化、darkly 方式；已有 darkroom、darknet 一起参看。",
+    "intro": "古英语继承词，更远来源不定。比喻义要依搭配，不把所有深色事物都附加负面价值。",
+    "forms": "dark → darkness、darken、darkly；dark + room、net。\n\ndark 继承古英语 deorc，比较形式可比缺光、颜色深，也可比处境阴暗等抽象义。",
+    "branches": [
+      [
+        "性质、状态、变化与方式",
+        "dark · darkness · darken · darkly"
+      ],
+      [
+        "已有复合词",
+        "darkroom · darknet"
+      ],
+      [
+        "dark → darker → darkest：光线、颜色与处境",
+        "dark · darker · darkest"
+      ]
+    ],
+    "contrasts": "dark blue 深蓝不是黑；darken 变化；in the dark 还可蒙在鼓里；darkly comic 黑色幽默。",
+    "practice": "The sky darkened, and the valley fell into darkness.\n\n天色变暗，山谷陷入黑暗。",
+    "words": [
+      "dark",
+      "darkness",
+      "darken",
+      "darkly",
+      "darkroom",
+      "darknet",
+      "darker",
+      "darkest"
+    ],
+    "exclude": {
+      "wine-dark": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glow-in-the-dark": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dark-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "darkside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dark-zilla": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "darkling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

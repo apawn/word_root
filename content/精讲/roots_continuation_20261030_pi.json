@@ -1,0 +1,48 @@
+[
+  {
+    "id": "A1696",
+    "meaning": "最高程度的比较材料，现代规则与旧固定形式分开",
+    "core": "-EST：在比较范围里，达到最高或最前",
+    "image": "long → longer → longest；first、next 保留较旧的最高级材料，已形成固定词义。",
+    "intro": "现代 longest 直接看成长的最高程度；first、next 的历史却藏得更深，不能照今天拼写造出 fir、nex 来背。最高级还需要知道在什么范围里比较。",
+    "forms": "古英语 -est、-ost 等最高级尾延续为现代 -est，常与 -er 比较级配对。longest 可对应 long + -est；first 接 fore 等旧的前、最前材料；next 原有近的旧最高级。常规拼写如 big → biggest 双写，happy → happiest 改 y 为 i，但不是所有形容词都直接加尾。\n\nsoon → sooner → soonest，-est 也可接时间副词；现代常见 as soon as possible、the sooner the better 等表达。\n\ntall 说人、树、建筑等自身从底到顶的高度；比较形式按规则加 er、est，不双写已有的双 l。",
+    "branches": [
+      [
+        "现代比较与最高程度",
+        "long · longer · longest"
+      ],
+      [
+        "旧最高级固定为独立词",
+        "first · next"
+      ],
+      [
+        "soon 的比较与最高程度",
+        "soon · sooner · soonest"
+      ],
+      [
+        "tall → taller → tallest：向上长的高度",
+        "tall · taller · tallest"
+      ]
+    ],
+    "contrasts": "longer 更长与 longest 最长不同；first 不写 onest，next 也不能反推一个独立现代基础词 nex。用 most 的比较结构与 -est 结构按具体词选择。",
+    "practice": "The next task is to find the longest route among the three shown.\n\n下一个任务是在图示三条路线中找出最长的一条。",
+    "words": [
+      "long",
+      "longer",
+      "longest",
+      "first",
+      "next",
+      "soon",
+      "sooner",
+      "soonest",
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    "exclude": {
+      "winningest": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "damnedest": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

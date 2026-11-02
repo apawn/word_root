@@ -1,0 +1,546 @@
+[
+  {
+    "word": "promoted",
+    "ipa": "英 /prəˈməʊtɪd/；美 /prəˈmoʊtɪd/",
+    "meaning": "提拔、推广、促进了〔过去式、过去分词〕",
+    "sense": "把人往职位前面推，把产品往公众面前推，把事情往更容易发生的方向推，都是 promoted 的常见分支。",
+    "split": "promote + -d，/t/ 后读 /ɪd/。promote 接拉丁 pro- 向前与 movere 移动形成的 promovere、promot- 材料。",
+    "history": [
+      [
+        "拉丁 promovere、promot- → promote",
+        "向前推动 → 提升、促进、推广"
+      ],
+      [
+        "promote 去 e + -ed → promoted",
+        "提升、推广等动作已发生"
+      ]
+    ],
+    "explanation": "promoted to manager 提拔为经理；promoted the book 推广了书；promoted cooperation 促进合作。",
+    "usage": "was promoted 得到晋升；widely promoted 广泛宣传。",
+    "contrast": "promoted a person 常是提拔，promoted a product 常是推广。promotion 也是这两条用法的对应名词，不能只背成升职。",
+    "examples": [
+      [
+        "She was promoted to team leader.",
+        "她被提拔为组长。"
+      ],
+      [
+        "The event promoted local music and crafts.",
+        "活动推广了本地音乐与手工艺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/promoted#English",
+      "https://en.wiktionary.org/wiki/promote#English"
+    ]
+  },
+  {
+    "word": "replacing",
+    "ipa": "/rɪˈpleɪsɪŋ/",
+    "meaning": "替换、更换；接替〔现在分词、动名词〕",
+    "sense": "原来的位置还需要有人、东西来占，但放进去的换成了另一位、另一件，就是 replacing。",
+    "split": "replace 去 e 加 -ing。re- 再、回与 place 放置结合，重新放置的背景发展为替换、接替。",
+    "history": [
+      [
+        "re- + place → replace",
+        "重新放到位置上 → 用一个接替另一个"
+      ],
+      [
+        "replace 去 e 加 -ing → replacing",
+        "正在替换、接替"
+      ]
+    ],
+    "explanation": "replacing the old chairs 更换旧椅子；replacing someone on a team 接替队中某人；replacing A with B 用 B 换掉 A。",
+    "usage": "replacing a broken part 更换坏零件；a tool replacing manual work 接替手工劳动的工具。",
+    "contrast": "replacing A with B，A 是被换掉的，B 是换入的；A is replaced by B 则把 A 放成被动主语。",
+    "examples": [
+      [
+        "We are replacing the old chairs with lighter ones.",
+        "我们正把旧椅子换成更轻的椅子。"
+      ],
+      [
+        "Replacing the damaged part took only a few minutes.",
+        "更换损坏的零件只花了几分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replacing#English",
+      "https://en.wiktionary.org/wiki/replace#English"
+    ]
+  },
+  {
+    "word": "smiling",
+    "ipa": "/ˈsmaɪlɪŋ/",
+    "meaning": "微笑、露出笑容〔现在分词及分词形容词〕",
+    "sense": "嘴角展开，脸上出现一点笑意，就是 smiling。它可以表示友好、开心，也可能只是礼貌地保持神态。",
+    "split": "smile 去 e 加 -ing。中古英语已有 smilen，来源可能联系低地德语、北欧等相应笑词；名词 smile 后来从动作发展。",
+    "history": [
+      [
+        "中古英语 smilen → smile",
+        "微笑；更早来源有相关语言的不同分析"
+      ],
+      [
+        "smile 去 e 加 -ing → smiling",
+        "正在微笑；形容带笑的神态"
+      ]
+    ],
+    "explanation": "smiling at someone 朝某人微笑；a smiling face 笑脸；smiling politely 礼貌地笑着。",
+    "usage": "kept smiling 一直保持微笑；smiling to herself 自己微微笑。",
+    "contrast": "smiling 说表情，不必每次都能断定内心非常快乐。laughing 更常伴随笑声，smiling 可以只是脸上带笑。",
+    "examples": [
+      [
+        "She was smiling as she opened the letter.",
+        "她打开信时脸上带着笑。"
+      ],
+      [
+        "A smiling volunteer showed us the way.",
+        "一位面带微笑的志愿者给我们指了路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smiling#English",
+      "https://en.wiktionary.org/wiki/smile#English"
+    ]
+  },
+  {
+    "word": "stating",
+    "ipa": "/ˈsteɪtɪŋ/",
+    "meaning": "陈述、声明；明确写出〔现在分词、动名词〕",
+    "sense": "不只是暗示，让别人自己猜，而是把情况、观点明确说出来或写下来，就是 stating。",
+    "split": "state 去 e 加 -ing。state 经法语、拉丁 status 所处状态等材料进入英语，动词有把情况、内容明确提出的发展。",
+    "history": [
+      [
+        "法语、拉丁 status 等 → 英语 state",
+        "所处状态等名词材料 → 陈述、规定内容的动词"
+      ],
+      [
+        "state 去 e 加 -ing → stating",
+        "正在明确说出、写出"
+      ]
+    ],
+    "explanation": "stating the facts 陈述事实；stating that 声明、说……；a sign stating the rules 写明规则的牌子。",
+    "usage": "stating the obvious 说显而易见的事；stating your opinion 明确说出观点。",
+    "contrast": "stating 强调表述明确，不保证说出的内容就正确。statement 是陈述内容或声明的名词；state 的州、状态等名词义也不用于解释每个正在陈述的句子。",
+    "examples": [
+      [
+        "The letter begins by stating the purpose of the visit.",
+        "信的开头明确说明了访问目的。"
+      ],
+      [
+        "I am simply stating what happened.",
+        "我只是在陈述发生的事情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stating#English",
+      "https://en.wiktionary.org/wiki/state#English"
+    ]
+  },
+  {
+    "word": "suspected",
+    "ipa": "/səˈspektɪd/",
+    "meaning": "怀疑、猜想了；疑似的〔过去式、过去分词及形容词〕",
+    "sense": "线索让人觉得某件事可能是真的，但还没有确定，就是 suspected。它可以猜某个原因，也可以怀疑某人做了什么。",
+    "split": "suspect + -ed，/t/ 后读 /ɪd/，沿动词后重音。suspect 经法语接拉丁 suspectus，较早 sub- 与 specere 看结合，古代向上看等义后来与猜疑相连。",
+    "history": [
+      [
+        "拉丁 suspectus → 法语、英语 suspect",
+        "观看、打量的旧材料 → 猜疑、认为可能"
+      ],
+      [
+        "suspect + -ed → suspected",
+        "已产生怀疑；形容尚待确认的情况"
+      ]
+    ],
+    "explanation": "suspected that 怀疑、猜想……；suspected of doing 被怀疑做了某事；a suspected error 疑似错误。",
+    "usage": "suspected a mistake 怀疑有错；long suspected 早已怀疑。",
+    "contrast": "suspected 不等于已证实。suspect 作名词嫌疑人常前重音，suspected 这个分词保留动词后重音。",
+    "examples": [
+      [
+        "We suspected that the figures were wrong.",
+        "我们怀疑那些数字有误。"
+      ],
+      [
+        "She suspected a mistake in the address.",
+        "她怀疑地址里有个错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suspected#English",
+      "https://en.wiktionary.org/wiki/suspect#English"
+    ]
+  },
+  {
+    "word": "traded",
+    "ipa": "/ˈtreɪdɪd/",
+    "meaning": "交易、交换了；从事买卖了〔过去式、过去分词〕",
+    "sense": "你拿出一样，我拿出一样，通过约定互换，是 traded 的交易画面；既可以是商业买卖，也可以只是交换东西。",
+    "split": "trade + -d，/d/ 后读 /ɪd/。trade 经中古低地德语路径、轨迹词进入英语，后来发展惯常做法、行业与商业活动，和 tread 踩踏词族有关。",
+    "history": [
+      [
+        "中古低地德语路径材料 → 英语 trade",
+        "惯常走的路、做法 → 行业、商业"
+      ],
+      [
+        "trade 去 e + -ed → traded",
+        "买卖、互换发生了"
+      ]
+    ],
+    "explanation": "traded goods 买卖货物；traded stories 互相讲故事；traded A for B 用 A 换 B。",
+    "usage": "traded with nearby towns 与邻镇贸易；traded places 互换位置。",
+    "contrast": "traded A for B 中 A 是拿出去的、B 是换回的。trade 与 Latin tradere 交付的相似字形不能直接当成确定来源。",
+    "examples": [
+      [
+        "The children traded stickers after school.",
+        "孩子们放学后交换贴纸。"
+      ],
+      [
+        "The two towns traded grain and cloth.",
+        "两个镇子互相交易粮食和布料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traded#English",
+      "https://en.wiktionary.org/wiki/trade#English"
+    ]
+  },
+  {
+    "word": "translated",
+    "ipa": "英 /trænzˈleɪtɪd/，也有 /trɑːnzˈleɪtɪd/；美 /trænzˈleɪtɪd/",
+    "meaning": "翻译了；转化、转成了〔过去式、过去分词〕",
+    "sense": "把同一层意思从一种语言带到另一种语言，是 translated；把想法带到实际行动，也能沿用转化的方向感。",
+    "split": "translate + -d，/t/ 后读 /ɪd/。translate 经法语 translater 或拉丁 translatus 借入，后者是 transferre 搬运过去的分词，含 trans- 跨过与 lat- 被带的材料。",
+    "history": [
+      [
+        "拉丁 translatus、法语 translater → translate",
+        "带到另一边 → 翻译、转化"
+      ],
+      [
+        "translate 去 e + -ed → translated",
+        "翻译、转化已经发生"
+      ]
+    ],
+    "explanation": "translated into English 译成英语；translated from French 从法语译来；translated ideas into action 把想法转成行动。",
+    "usage": "widely translated 广泛被翻译的；translated the meaning into simpler words 用更简单的话转述意思。",
+    "contrast": "translated from 指来源，translated into 指目标。不是每个 translate 都在换语言，也可以说计划、经验转成另一种结果。",
+    "examples": [
+      [
+        "The story was translated into several languages.",
+        "这个故事被译成了几种语言。"
+      ],
+      [
+        "They translated the idea into a practical design.",
+        "他们把想法转成了实际设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/translated#English",
+      "https://en.wiktionary.org/wiki/translate#English"
+    ]
+  },
+  {
+    "word": "tricks",
+    "ipa": "/trɪks/",
+    "meaning": "诡计；技巧、窍门；戏法；一墩牌等〔复数〕；欺骗〔第三人称单数〕",
+    "sense": "用一个别人没预料到的巧办法，让结果显得惊人或让人判断失误，就是 tricks 的共同感觉。它可以是骗人的，也可以是有用的小技巧。",
+    "split": "trick + -s，/k/ 后读 /s/。trick 从古北法语 trique 等欺骗词进入英语，更深有拉丁、日耳曼等不同分析；后来有机巧方法、表演等义。",
+    "history": [
+      [
+        "古北法语欺骗词 → trick",
+        "欺骗办法 → 技巧、戏法及固定游戏用法"
+      ],
+      [
+        "trick + -s → tricks",
+        "多个技巧、诡计、戏法；某人欺骗"
+      ]
+    ],
+    "explanation": "magic tricks 魔术；useful tricks 实用窍门；plays tricks on someone 捉弄某人。",
+    "usage": "tricks someone into doing something 骗某人做某事；card tricks 纸牌戏法。",
+    "contrast": "tricks 可能中性地说窍门，也可能贬义地说诡计，要看目的和对象。the trick is to do something 还常用于说明关键做法。",
+    "examples": [
+      [
+        "The magician showed the children a few simple tricks.",
+        "魔术师给孩子们表演了几个简单戏法。"
+      ],
+      [
+        "She taught us some useful tricks for organising notes.",
+        "她教了我们一些整理笔记的实用窍门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tricks#English",
+      "https://en.wiktionary.org/wiki/trick#English"
+    ]
+  },
+  {
+    "word": "twins",
+    "ipa": "/twɪnz/",
+    "meaning": "双胞胎；相配的一对〔复数〕；使结为一对、结对〔第三人称单数〕",
+    "sense": "同一次怀孕出生的一对孩子，是 twins 的常见意思。两件相配、相似的东西，也能借这个成对的形象来称呼。",
+    "split": "twin + -s，/n/ 后读 /z/。twin 接古英语 getwinn、twinn 等，远源联系 two 两个的概念，现代还有形容词、结对动词用法。",
+    "history": [
+      [
+        "古英语 getwinn、twinn 等 → twin",
+        "两个一组、双生等材料"
+      ],
+      [
+        "twin + -s → twins",
+        "双胞胎、相配的一对；某机构使两地等结对"
+      ]
+    ],
+    "explanation": "identical twins 同卵双胞胎；the twins 那对双胞胎；twin towns 姐妹城市，前置 twin 通常单数。",
+    "usage": "a pair of twins 一对双胞胎；the twins’ room 双胞胎的房间。",
+    "contrast": "twins 不保证长得一模一样，双胞胎有不同类型。twin beds 是两张单人床的常见搭配，也不是专门给双胞胎的床。",
+    "examples": [
+      [
+        "The twins attend the same school.",
+        "双胞胎在同一所学校上学。"
+      ],
+      [
+        "The two kittens looked almost like twins.",
+        "两只小猫看起来几乎像双胞胎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/twins#English",
+      "https://en.wiktionary.org/wiki/twin#English"
+    ]
+  },
+  {
+    "word": "associates",
+    "ipa": "名词英 /əˈsəʊsiəts/、美 /əˈsoʊsiəts/；动词英 /əˈsəʊsieɪts/、美 /əˈsoʊsieɪts/；/si/ 也常读 /ʃi/",
+    "meaning": "同事、伙伴、合伙人等〔复数〕；联系、联想〔第三人称单数〕",
+    "sense": "一起做事、彼此有关系的人，是 associates；脑中把两件事连起来，是动词 associates。",
+    "split": "associate + -s；名词尾部弱读 /əts/，动词保留 /eɪts/。较早拉丁 ad- 与 sociare 联合到 associare、associatus，d 在 s 前同化。",
+    "history": [
+      [
+        "拉丁 associare、associatus → associate",
+        "联合、联系 → 相联的人或联系动作"
+      ],
+      [
+        "associate + -s → associates",
+        "多位伙伴；或某人把对象联系起来，名词动词词尾分读"
+      ]
+    ],
+    "explanation": "business associates 生意伙伴；close associates 关系密切的同事、伙伴；associates the song with a place 把歌与某地联系起来。",
+    "usage": "her former associates 她以前的同事、伙伴；associates with someone 与某人来往。",
+    "contrast": "associates 不一定都是亲密朋友，常说工作、活动关系。看到和 people、business 一起多是人物名词；后面接 A with B 常是联想、联系动词。",
+    "examples": [
+      [
+        "She met several former business associates at the event.",
+        "她在活动上遇到了几位以前的生意伙伴。"
+      ],
+      [
+        "He associates that song with his first journey abroad.",
+        "他把那首歌与第一次出国旅行联系在一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/associates#English",
+      "https://en.wiktionary.org/wiki/associate#English"
+    ]
+  },
+  {
+    "word": "beans",
+    "ipa": "/biːnz/",
+    "meaning": "豆、豆类、豆粒〔复数〕",
+    "sense": "植物结出的一个个豆粒，是 beans 的直接形象。食品名称里有时也把形状像豆的种子沿用这个名称，如 coffee beans。",
+    "split": "bean + -s，/n/ 后读 /z/。bean 承古英语 bean，经中古英语 bene 等延续，属于日耳曼语言的旧豆名，更远来源有不同分析。",
+    "history": [
+      [
+        "古英语 bean → 中古英语 bene → bean",
+        "豆类、豆粒名称"
+      ],
+      [
+        "bean + -s → beans",
+        "多个豆粒、豆类食材；也见于咖啡豆等名称"
+      ]
+    ],
+    "explanation": "green beans 四季豆等青豆荚；coffee beans 咖啡豆；baked beans 焗豆。",
+    "usage": "a bowl of beans 一碗豆子；spill the beans 泄露秘密，是固定表达。",
+    "contrast": "beans 是普通复数，bean 作前置修饰通常单数。spill the beans 的秘密义是惯用语，理解时不要求真的有豆子洒出来。",
+    "examples": [
+      [
+        "She added the beans to the soup.",
+        "她把豆子加进汤里。"
+      ],
+      [
+        "The shop sells coffee beans from several regions.",
+        "商店出售来自几个地区的咖啡豆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beans#English",
+      "https://en.wiktionary.org/wiki/bean#English"
+    ]
+  },
+  {
+    "word": "commons",
+    "ipa": "英 /ˈkɒmənz/；美 /ˈkɑːmənz/",
+    "meaning": "公用地、共享资源；平民；下议院〔特定称呼常大写〕",
+    "sense": "不只归一个人使用，而是共同生活的人可以共享的部分，是 commons 的核心画面。历史上它也称普通民众，议会称呼又有 the Commons。",
+    "split": "common 的公共、共同性质名词化后形成 common、commons 等用法。common 经法语接拉丁 communis；s 不只是把一个普通形容词随意变复数，而是已固定的名词形式。",
+    "history": [
+      [
+        "拉丁 communis → 法语、英语 common",
+        "共同、公共 → 公共地、普通民众等名词"
+      ],
+      [
+        "commons 的固定名词用法",
+        "公用地、共享资源；特定制度里的平民代表院称呼"
+      ]
+    ],
+    "explanation": "village commons 村庄公用地；the House of Commons 下议院；digital commons 数字共享资源。",
+    "usage": "shared commons 共享资源领域；on the commons 在公用地上。",
+    "contrast": "commons 具体指土地、资源还是议会，看搭配和大写。common 作形容词还能表示常见的，那并不等于每个 commons 都只是常见事物。",
+    "examples": [
+      [
+        "The villagers gathered on the commons.",
+        "村民们聚集在公用地上。"
+      ],
+      [
+        "The House of Commons debated the proposal.",
+        "下议院辩论了这项提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commons#English",
+      "https://en.wiktionary.org/wiki/common#English"
+    ]
+  },
+  {
+    "word": "conservatives",
+    "ipa": "英 /kənˈsɜːvətɪvz/；美 /kənˈsɜːrvətɪvz/",
+    "meaning": "保守的人；保守派〔复数〕",
+    "sense": "面对变化，更倾向先保留已有安排、传统或做法的人，可以叫 conservatives。政治中也有相应立场、派别名称，具体内容随社会而不同。",
+    "split": "conservative + -s，/v/ 后读 /z/。conservative 经法语 conservatif 接拉丁 conservare 保持，性质词再转称持这种态度、立场的人。",
+    "history": [
+      [
+        "拉丁 conservare → 法语 conservatif → conservative",
+        "保持、保留 → 倾向维持已有安排的性质"
+      ],
+      [
+        "人物名词 conservative + -s → conservatives",
+        "多位持保守态度或相应政治立场的人"
+      ]
+    ],
+    "explanation": "political conservatives 政治保守派；social conservatives 社会保守派；conservatives in a debate 辩论中的保守一方。",
+    "usage": "conservatives and reformers 保守派与改革派；fiscal conservatives 财政上持保守立场的人。",
+    "contrast": "conservatives 作为普通名词可说一类立场；大写 Conservatives 可能是特定政党、团体成员。conserve 是保留、保护的动作，不是同一个人物名词。",
+    "examples": [
+      [
+        "The proposal divided conservatives and reformers.",
+        "提案使保守派与改革派产生分歧。"
+      ],
+      [
+        "Some conservatives argued for keeping the old system.",
+        "一些保守派主张保留旧制度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conservatives#English",
+      "https://en.wiktionary.org/wiki/conservative#English"
+    ]
+  },
+  {
+    "word": "contacts",
+    "ipa": "名词英 /ˈkɒntækts/、美 /ˈkɑːntækts/；动词也读 /kənˈtækts/",
+    "meaning": "联系人、人脉；接触、联系；隐形眼镜〔复数〕；联系〔第三人称单数〕",
+    "sense": "原本是彼此碰到、接上，后来变成人与人的联络。contacts 可以说认识的人、通讯录里的联系人；眼镜语境又可能是 contact lenses 的缩称。",
+    "split": "contact + -s，/t/ 后读 /s/。contact 借拉丁 contactus，接 com- 一起与 tangere 触碰所成 contingere 的材料；英语先有接触名词，再有联络和动词等。",
+    "history": [
+      [
+        "拉丁 contactus → 英语 contact",
+        "触碰、接触 → 联系与认识的人"
+      ],
+      [
+        "contact + -s；contact lenses 缩称 contacts",
+        "多个联系人、接触；也可指隐形眼镜或动词联系"
+      ]
+    ],
+    "explanation": "business contacts 生意人脉；add someone to your contacts 把某人加进通讯录；wear contacts 戴隐形眼镜。",
+    "usage": "contacts a supplier 联系供应商；close contacts 密切联系或接触者，所指看语境。",
+    "contrast": "contacts 在手机里常是联系人，在眼镜话题里可能是隐形眼镜。动词 contacts 直接接联系对象，不必照中文再加多余介词。",
+    "examples": [
+      [
+        "She has useful contacts in the publishing industry.",
+        "她在出版业有一些有帮助的人脉。"
+      ],
+      [
+        "The assistant contacts each visitor before the event.",
+        "助理在活动前联系每位来访者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contacts#English",
+      "https://en.wiktionary.org/wiki/contact#English"
+    ]
+  },
+  {
+    "word": "deserved",
+    "ipa": "英 /dɪˈzɜːvd/；美 /dɪˈzɜːrvd/",
+    "meaning": "值得、应得了；应有的〔过去式、过去分词及形容词〕",
+    "sense": "因为之前的行为、努力或处境，这个结果落到他身上是相称的，就是 deserved。结果可以是表扬，也可以是批评。",
+    "split": "deserve + -d，/v/ 后读 /d/。deserve 经法语接拉丁 deservire 尽力服务，de- 在这里加强，后来发展值得、应得。",
+    "history": [
+      [
+        "拉丁 deservire → 法语 → deserve",
+        "尽力服务 → 因行为、处境而值得得到"
+      ],
+      [
+        "deserve 去 e + -ed → deserved",
+        "过去值得、应得到；形容应有、实至名归"
+      ]
+    ],
+    "explanation": "deserved praise 应得的表扬；deserved a break 应该休息一下；a deserved success 实至名归的成功。",
+    "usage": "well deserved 当之无愧的；deserved better 本应得到更好的待遇。",
+    "contrast": "deserved 不保证结果已经真的给到，只说明应得；received 才明确说收到。描述应有结果时可正面也可负面。",
+    "examples": [
+      [
+        "The team deserved the praise it received.",
+        "团队配得上所得到的赞扬。"
+      ],
+      [
+        "After all that work, she deserved a rest.",
+        "做了那么多工作之后，她该休息一下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deserved#English",
+      "https://en.wiktionary.org/wiki/deserve#English"
+    ]
+  },
+  {
+    "word": "dining",
+    "ipa": "/ˈdaɪnɪŋ/",
+    "meaning": "用餐、吃正餐〔现在分词、动名词及相关修饰用法〕",
+    "sense": "坐下来正式或好好吃一顿，是 dining 的常见感觉。餐厅、餐桌等名称，也用它说明这个地方、东西是为用餐准备的。",
+    "split": "dine 去 e 加 -ing → dining，只有一个 n。dine 借古法语 disner 等，更远通常接拉丁打破禁食的材料，主餐时间习惯后来发生变化。",
+    "history": [
+      [
+        "古法语 disner 等 → dine",
+        "较早打破禁食、进餐材料 → 现代用餐"
+      ],
+      [
+        "dine 去 e 加 -ing → dining",
+        "正在用餐；或修饰用餐场所、家具等"
+      ]
+    ],
+    "explanation": "dining with friends 与朋友用餐；a dining room 餐厅、饭厅；a dining table 餐桌。",
+    "usage": "outdoor dining 户外用餐；fine dining 精致餐饮。",
+    "contrast": "dining 通常比 eating 更突出正餐、用餐场合；旧词源的打破禁食不要求今天每个 dine 都是吃早餐。",
+    "examples": [
+      [
+        "We are dining with friends tonight.",
+        "我们今晚和朋友一起用餐。"
+      ],
+      [
+        "The hotel has a quiet dining room.",
+        "酒店有一间安静的餐厅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dining#English",
+      "https://en.wiktionary.org/wiki/dine#English"
+    ]
+  }
+]

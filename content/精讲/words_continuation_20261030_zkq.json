@@ -1,0 +1,767 @@
+[
+  {
+    "word": "omelet",
+    "ipa": "英 /ˈɒmlət/；美 /ˈɑːmlət/",
+    "meaning": "煎蛋饼；蛋包〔omelette 的拼写变体〕",
+    "sense": "鸡蛋打散，在锅里煎成一片，可以折起来包住馅料，这类蛋饼常叫 omelet。它的词名早期恰好也联系薄片、刀刃的扁平形状。",
+    "split": "整体借法语 omelette，常见拼写也有 omelet。更早通常追到法语 alemette、alemele 等变化，传统分析再接拉丁 lamella 薄小片，是 lamina 薄片的指小形式。",
+    "history": [
+      [
+        "拉丁 lamina 薄片 → lamella 薄小片 → 法语刀刃形状词",
+        "重新划分词界等早期步骤属于传统词源分析，保留其可能性"
+      ],
+      [
+        "法语词形、音序变化 → omelette → omelet",
+        "扁平食物的形状连接了薄片与蛋饼名称"
+      ]
+    ],
+    "explanation": "a cheese omelet 是奶酪蛋饼；a plain omelet 是原味煎蛋饼；make an omelet 是做煎蛋饼。",
+    "usage": "a cheese omelet；a plain omelet；make an omelet。",
+    "contrast": "omelet 与 omelette 是同一个词的拼写形式；scrambled eggs 常说炒散的蛋。蛋饼具体是否包馅，取决于做法与菜单。",
+    "examples": [
+      [
+        "She ordered a cheese omelet for breakfast.",
+        "她早餐点了一份奶酪蛋饼。"
+      ],
+      [
+        "The menu offers a plain omelet with salad.",
+        "菜单上有配沙拉的原味煎蛋饼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/omelet#English",
+      "https://www.etymonline.com/word/omelet"
+    ]
+  },
+  {
+    "word": "café",
+    "ipa": "英 /ˈkæfeɪ/；美 /kæˈfeɪ/",
+    "meaning": "咖啡馆；供应饮料、简餐的小店",
+    "sense": "坐下来喝咖啡，也可能吃个三明治或一份简餐的小店，就是 café。英语里它主要说场所，词源里的法语 café 也可以直接说咖啡。",
+    "split": "借法语 café，远接土耳其 kahve、阿拉伯 qahwa 的咖啡借词链。英语可写 café 或 cafe；重音符号保留法语来历，去掉它也不改变基本词义。",
+    "history": [
+      [
+        "阿拉伯、土耳其咖啡词 → 法语 café",
+        "饮品名称也用于售卖饮品的场所"
+      ],
+      [
+        "法语 café → 英语 café、cafe",
+        "现代英语通常指咖啡馆、简餐店"
+      ]
+    ],
+    "explanation": "a small café 是小咖啡馆；a pavement café 是有临街露天座位的咖啡馆；meet at a café 是约在咖啡馆见面。",
+    "usage": "a small café；a pavement café；meet at a café。",
+    "contrast": "café 与 cafe 是同一词的拼写形式；coffee 是咖啡饮品。说喝一杯咖啡，英语通常是 a coffee，而不是照法语含义直接说 a café。",
+    "examples": [
+      [
+        "We met at a small café near the station.",
+        "我们在车站附近的一家小咖啡馆见面。"
+      ],
+      [
+        "The café serves soup and sandwiches at lunchtime.",
+        "咖啡馆午间供应汤和三明治。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/café#English",
+      "https://www.etymonline.com/word/cafe"
+    ]
+  },
+  {
+    "word": "penis",
+    "ipa": "英、美 /ˈpiːnɪs/",
+    "meaning": "阴茎〔标准解剖用词〕",
+    "sense": "penis 是男性外生殖器阴茎的标准名称，也涉及尿液通过尿道排出。它是医学、身体知识中的普通名词。",
+    "split": "整体借拉丁 pēnis，拉丁语里有身体部位与尾巴相关的含义。英语现代不把它拆成 pen 加一个后缀；pencil 则经 penicillus 小刷子，字面小尾巴，联系这个拉丁词。",
+    "history": [
+      [
+        "拉丁 pēnis 尾巴、身体部位名称 → 英语 penis",
+        "更远印欧层面的含义先后有讨论，不用一个身体比喻包办全部历史"
+      ],
+      [
+        "同一拉丁词族另有小尾巴、刷子等指小形式",
+        "pencil 的画笔历史与此相连，现代解剖词并非从英语铅笔义演变"
+      ]
+    ],
+    "explanation": "the penis 是该身体器官；penile 是相关形容词；an anatomical description of the penis 是对阴茎的解剖描述。",
+    "usage": "the penis；penile；an anatomical description。",
+    "contrast": "penis 是身体名称，penile 是相关形容词。pencil 经小刷子这条词源线与其早期拉丁材料相连；pen 的羽毛词源则是另一路。",
+    "examples": [
+      [
+        "The anatomy diagram labels the penis and the bladder.",
+        "解剖图标出了阴茎和膀胱。"
+      ],
+      [
+        "The leaflet explains how urine passes through the penis.",
+        "小册子解释了尿液怎样经阴茎排出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/penis#English",
+      "https://www.etymonline.com/word/penis",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/penis"
+    ]
+  },
+  {
+    "word": "aisle",
+    "ipa": "英、美 /aɪl/",
+    "meaning": "座位、货架之间的通道；教堂侧廊",
+    "sense": "电影院两排座位之间、超市两边货架之间，留给人走路的那条空间，就是 aisle。先想夹在成排物体之间的通道。",
+    "split": "经古法语 ele 侧翼，接拉丁 ala 翼。ala 常与 axilla 翼、上臂、腋的材料联系，可能为相关或缩合形式；aisle 中 s 是受 isle 拼写影响后来加上的，现代不发音。",
+    "history": [
+      [
+        "拉丁 ala 翼 → 法语 ele → 英语早期教堂侧部名称",
+        "建筑侧翼的空间发展出侧廊等意思"
+      ],
+      [
+        "拼写受 isle 等影响 → aisle；通道义扩展",
+        "现代用于座位、车辆、商店货架等之间的过道"
+      ]
+    ],
+    "explanation": "an aisle seat 是靠过道座位；the centre aisle 是中间过道；walk down the aisle 可实际沿过道走，也可在婚礼语境说走向婚姻。",
+    "usage": "an aisle seat；the centre aisle；walk down the aisle。",
+    "contrast": "aisle、isle 和 I’ll 常读得一样，但意思分别是通道、小岛、I will。aisle 的 s 是历史拼写影响，看到它不必加读 /s/。",
+    "examples": [
+      [
+        "Please keep the aisle clear.",
+        "请保持过道畅通。"
+      ],
+      [
+        "She chose an aisle seat on the train.",
+        "她在火车上选了一个靠过道座位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aisle#English",
+      "https://www.etymonline.com/word/aisle"
+    ]
+  },
+  {
+    "word": "altar",
+    "ipa": "英 /ˈɔːltə/；美 /ˈɔːltɚ/",
+    "meaning": "祭坛；祭台；教堂圣坛",
+    "sense": "宗教仪式中用于献祭、供奉或举行相关礼仪的台、桌状设施，可以叫 altar。先想仪式的中心位置，而不是普通吃饭的桌子。",
+    "split": "接拉丁 altare，经古英语 alter、altar，也受法语 auter 等形式影响。更远可能与祭献、焚献材料有关，拉丁 altus 高可能影响了形式；不能把它定成 alt- 高加固定 -ar。",
+    "history": [
+      [
+        "拉丁 altare → 古英语、法语相关形式 → altar",
+        "近源借入链较清楚，远处形成仍有不同分析"
+      ],
+      [
+        "拉丁式拼写恢复、宗教与婚礼语境扩展",
+        "现代祭坛义之外，the altar 在婚姻表达中也有象征用法"
+      ]
+    ],
+    "explanation": "a stone altar 是石祭坛；stand before the altar 是站在祭坛前；an altarpiece 是祭坛上方或后方的宗教艺术作品。",
+    "usage": "a stone altar；before the altar；an altarpiece。",
+    "contrast": "altar 是祭坛，alter 是改变，二者常读得一样而词源、用法不同。altarpiece 的 piece 是一件作品，基础词 altar 仍按祭坛理解。",
+    "examples": [
+      [
+        "A stone altar stood at the centre of the room.",
+        "房间中央立着一座石祭坛。"
+      ],
+      [
+        "The painting once hung above the altar.",
+        "这幅画过去挂在祭坛上方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/altar#English",
+      "https://www.etymonline.com/word/altar"
+    ]
+  },
+  {
+    "word": "aurora",
+    "ipa": "英 /ɔːˈrɔːrə/；美 /əˈrɔːrə/",
+    "meaning": "极光；曙光〔较文学〕",
+    "sense": "夜空中像光带、帷幕一样展开的自然光景，是 aurora 的常用现代画面，多见于高纬地区。这个名字原来却联系黎明、曙光。",
+    "split": "整体接拉丁 Aurora 黎明女神、曙光名称，更远连 *aus- 曙光、发亮词族。east 的远古词源也在这个方向；不把 aurora 的字母 aur- 当成金属金的直接词根。",
+    "history": [
+      [
+        "拉丁 Aurora 黎明名称 → 英语 aurora 曙光",
+        "名称接早期黎明、发亮词族，与 east 有更远联系"
+      ],
+      [
+        "aurora borealis 北方曙光等命名 → 极光义",
+        "借曙光名称形容天空光景，并不是说极光就是日出"
+      ]
+    ],
+    "explanation": "an aurora 是一次极光景象；aurora borealis 是北极光；aurora australis 是南极光。",
+    "usage": "an aurora；aurora borealis；aurora australis。",
+    "contrast": "aurora 是自然发光现象名称，dawn 是日出前后的黎明时段。名称中的曙光比喻与现代科学成因要分开：极光与粒子进入大气、同气体相互作用有关。",
+    "examples": [
+      [
+        "A green aurora stretched across the night sky.",
+        "一道绿色极光横贯夜空。"
+      ],
+      [
+        "The photograph captured an aurora above the mountains.",
+        "照片拍下了群山上方的一次极光景象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aurora#English",
+      "https://www.etymonline.com/word/aurora",
+      "https://spaceplace.nasa.gov/aurora/en/",
+      "https://www.etymonline.com/word/east"
+    ]
+  },
+  {
+    "word": "turf",
+    "ipa": "英 /tɜːf/；美 /tɝːf/",
+    "meaning": "草皮；草地；地盘、专属范围；铺草皮",
+    "sense": "连着草根、薄土的一块草皮，是 turf 的实体画面。属于自己的场地、熟悉的领域，也像自己脚下这一片草地，于是有地盘、主场的比喻。",
+    "split": "承古英语 turf、tyrf 草皮、草地，来自日耳曼对应词族。英语后来形成铺草皮动词，也有场地、某群体活动范围等扩展。",
+    "history": [
+      [
+        "古英语 turf 草、根、土连在一起的草皮 → turf",
+        "实体草皮与草地区域两类用法保留"
+      ],
+      [
+        "草地、活动场地 → turf 地盘、领域；铺草皮动词",
+        "现代体育、园地与抽象工作范围都可出现"
+      ]
+    ],
+    "explanation": "natural turf 是天然草皮；home turf 是主场、熟悉地盘；a turf war 是为地盘、职责范围而起的争斗。",
+    "usage": "natural turf；home turf；a turf war。",
+    "contrast": "grass 常说草这种植物；turf 常强调连根、连土的草皮或铺成的草地。on home turf 也可在工作、讨论语境说处于熟悉领域。",
+    "examples": [
+      [
+        "Fresh turf covered the repaired section of the field.",
+        "修补过的那片场地铺上了新草皮。"
+      ],
+      [
+        "She felt confident discussing the topic on her own turf.",
+        "谈到自己熟悉的领域，她很有信心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/turf#English",
+      "https://www.etymonline.com/word/turf"
+    ]
+  },
+  {
+    "word": "turfed",
+    "ipa": "英 /tɜːft/；美 /tɝːft/",
+    "meaning": "铺了草皮；赶了出去〔常见于 turf out 等搭配〕",
+    "sense": "地面铺上草皮，可以说 was turfed。英式口语里，turfed out 又常说被赶出去、被迫离开，两个用法要靠搭配分开。",
+    "split": "turf + 完整 -ed → turfed，/f/ 后后缀读 /t/。基础词 turf 草皮承古英语，名词形成铺草皮动词；赶出的口语义是后来的动词搭配分支。",
+    "history": [
+      [
+        "turf 草皮 → turf 给地面铺草皮",
+        "实体名词转作相应动作动词"
+      ],
+      [
+        "turf + -ed → turfed；turf out 的口语用法",
+        "现代过去形式按是否接 out 等词判断具体动作"
+      ]
+    ],
+    "explanation": "newly turfed ground 是新铺草皮的地面；turfed out of somewhere 是被赶出某处；turfed out of bed 是被催赶着起床。",
+    "usage": "newly turfed ground；turfed out of；turfed out of bed。",
+    "contrast": "The garden was turfed 谈铺草皮；we were turfed out 谈被赶走。不要只按基础名词草地，把每个 turfed 都理解成园艺动作。",
+    "examples": [
+      [
+        "The small courtyard was turfed before the opening.",
+        "小院子在开放前铺上了草皮。"
+      ],
+      [
+        "We were turfed out of the room when the next class arrived.",
+        "下一班学生到来时，我们被赶出了房间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/turfed#English",
+      "https://www.etymonline.com/word/turf",
+      "https://en.wiktionary.org/wiki/turf#English"
+    ]
+  },
+  {
+    "word": "syrup",
+    "ipa": "英、美 /ˈsɪrəp/",
+    "meaning": "糖浆；浓甜液体",
+    "sense": "倒出来慢慢流、味道很甜的浓稠液体，是 syrup 的常见画面。枫糖浆、水果糖浆，都可以用它。",
+    "split": "经法语 sirop、意大利语相关形式等接阿拉伯 sharab 饮品、shariba 喝的词族。英语整体借入后集中到浓甜液体义，不是现代英语用一个通用 syr- 直接造出的词。",
+    "history": [
+      [
+        "阿拉伯喝、饮品词族 → 欧洲语言 sirop 等 → syrup",
+        "早期借词指含糖饮品、浓甜液体"
+      ],
+      [
+        "现代糖浆、相似浓甜液体",
+        "sherbet、sorbet 经不同借入路线与同一饮用词族相连"
+      ]
+    ],
+    "explanation": "maple syrup 是枫糖浆；fruit in syrup 是糖水水果；a little syrup 是一点糖浆。",
+    "usage": "maple syrup；fruit in syrup；a little syrup。",
+    "contrast": "syrup 常强调浓甜液体，juice 常说果汁；实际食品仍看配方和名称。syrup 与 sherbet、sorbet 的联系是更早饮用词族，不是它们现代吃法完全相同。",
+    "examples": [
+      [
+        "She poured a little syrup over the pancakes.",
+        "她在薄饼上淋了一点糖浆。"
+      ],
+      [
+        "The peaches were preserved in syrup.",
+        "桃子保存在糖水中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/syrup#English",
+      "https://www.etymonline.com/word/syrup"
+    ]
+  },
+  {
+    "word": "syrupy",
+    "ipa": "英、美 /ˈsɪrəpi/",
+    "meaning": "糖浆似的；黏稠甜的；甜腻、过分煽情的",
+    "sense": "像糖浆一样浓、甜、黏，是 syrupy。声音、音乐也能甜得过头，听起来腻、像刻意煽情，也可以这样形容。",
+    "split": "syrup 糖浆 + 完整 -y 带有某种性质 → syrupy，原词不改。syrup 本身是阿拉伯饮品词族经欧洲语言借入的整词。",
+    "history": [
+      [
+        "阿拉伯饮品词族 → syrup 糖浆",
+        "现代先有浓稠甜液体的核心画面"
+      ],
+      [
+        "syrup + -y → syrupy",
+        "物质特征可以比喻声音、风格过甜、过度感伤"
+      ]
+    ],
+    "explanation": "a syrupy liquid 是糖浆似液体；a syrupy voice 是甜得发腻的声音；a syrupy ballad 是过于煽情的抒情歌。",
+    "usage": "a syrupy liquid；a syrupy voice；a syrupy ballad。",
+    "contrast": "sweet 可以是自然的甜美，syrupy 比喻声音或艺术风格时常带嫌太甜、太感伤的评价。物质用法则可以只是中性描述黏稠。",
+    "examples": [
+      [
+        "The mixture became thick and syrupy.",
+        "混合物变得浓稠，像糖浆一样。"
+      ],
+      [
+        "He disliked the song’s syrupy sentimentality.",
+        "他不喜欢这首歌甜腻过头的感伤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/syrupy#English",
+      "https://www.etymonline.com/word/syrup",
+      "https://www.merriam-webster.com/dictionary/syrupy"
+    ]
+  },
+  {
+    "word": "sherbet",
+    "ipa": "英 /ˈʃɜːbət/；美 /ˈʃɝːbət/",
+    "meaning": "果味冰甜点；酸甜起泡糖粉〔用法有地区差异〕",
+    "sense": "sherbet 在美国菜单里常是果味冰甜点，有的带奶成分；英国糖果店里的 sherbet 又可能是酸甜、会起泡的糖粉。先看菜单还是糖果场景。",
+    "split": "经土耳其 şerbet、波斯 sharbat，远接阿拉伯 sharba(t) 饮品、shariba 喝。早期英语 sorbet 等形式也在这条借词历史里；现代整体认作食品名。",
+    "history": [
+      [
+        "阿拉伯饮品词 → 波斯、土耳其饮品名 → 英语早期形式",
+        "原来常说加糖的清凉饮品"
+      ],
+      [
+        "饮品 → 冰甜点、相关糖粉等地区用法",
+        "现代英美语境的具体所指可能不同，不强给所有场合一个配方"
+      ]
+    ],
+    "explanation": "orange sherbet 是橙味冰甜点；a scoop of sherbet 是一球相应冰甜点；sherbet powder 是酸甜起泡糖粉。",
+    "usage": "orange sherbet；a scoop of sherbet；sherbet powder。",
+    "contrast": "sherbet 与 sorbet 有共同借词历史，现代名称用法却有地区差异。读菜单时前者常是一种果味冰甜点；英式糖果语境要另想糖粉。",
+    "examples": [
+      [
+        "They served orange sherbet after lunch.",
+        "午饭后，他们端上了橙味冰甜点。"
+      ],
+      [
+        "The sweet shop sold little packets of sherbet.",
+        "糖果店出售一小包一小包的酸甜起泡糖粉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sherbet#English",
+      "https://www.etymonline.com/word/sherbet",
+      "https://www.collinsdictionary.com/dictionary/english/sherbet",
+      "https://www.merriam-webster.com/dictionary/sherbet"
+    ]
+  },
+  {
+    "word": "sorbet",
+    "ipa": "英 /ˈsɔːbeɪ/；美 /sɔːrˈbeɪ/",
+    "meaning": "雪葩；常用水果制成的冰甜点",
+    "sense": "把果味做成细滑、冰凉的甜点，菜单上常叫 sorbet，中文也译雪葩。它让人先想到水果、清凉的冰感。",
+    "split": "现代英语主要再次借法语 sorbet，远处经欧洲、土耳其、波斯借词链接阿拉伯饮品词族。英语早期也有 sorbet 形式，后来与 sherbet 的形式、意义分开发展。",
+    "history": [
+      [
+        "阿拉伯饮品词族 → 土耳其等 → 早期英语 sorbet、sherbet 相关形式",
+        "原来是清凉饮品名称"
+      ],
+      [
+        "十九世纪英语重新借法语 sorbet → 现代冰甜点义",
+        "同源词分路借入，所以拼写相近而现代用法有差异"
+      ]
+    ],
+    "explanation": "lemon sorbet 是柠檬雪葩；fruit sorbet 是水果冰甜点；a scoop of sorbet 是一球雪葩。",
+    "usage": "lemon sorbet；fruit sorbet；a scoop of sorbet。",
+    "contrast": "sorbet 通常指果味冰甜点；sherbet 在不同地区还可能指另一类冰甜点或起泡糖粉。两词同源，现代具体食品按当地用法与配方理解。",
+    "examples": [
+      [
+        "She chose lemon sorbet for dessert.",
+        "她选了柠檬雪葩作甜点。"
+      ],
+      [
+        "The menu lists a different fruit sorbet each day.",
+        "菜单每天列出一种不同的水果雪葩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sorbet#English",
+      "https://www.etymonline.com/word/sorbet",
+      "https://www.collinsdictionary.com/dictionary/english/sorbet"
+    ]
+  },
+  {
+    "word": "felon",
+    "ipa": "英、美 /ˈfelən/",
+    "meaning": "重罪犯；犯重罪的人",
+    "sense": "felon 在常见法律、新闻英语里指犯了 felony 这一类重罪的人。它是在给人分类；具体所犯的罪，要由后面的叙述交代。",
+    "split": "经古法语 felon 恶人、叛逆者等，接中世纪拉丁 fello、fellon-。更远来源有日耳曼等不同解释，尚有争议；现代不把它硬译成某种确定身体动作。",
+    "history": [
+      [
+        "古法语、中世纪拉丁恶人词族 → felon",
+        "早期用法比今天的特定罪类称呼更宽"
+      ],
+      [
+        "现代常见犯重罪者义",
+        "与 felony 重罪类别、felonious 相关形容词组成学习词族"
+      ]
+    ],
+    "explanation": "a convicted felon 是被判重罪的人；a former felon 可在具体叙事中说曾犯重罪的人；a felon in the story 是故事中的重罪犯。",
+    "usage": "a convicted felon；a former felon；a felon in the story。",
+    "contrast": "felon 说人，felony 说罪类。convicted felon 中 convicted 进一步说明已经定罪；不应把所有普通语境的 criminal 都机械换成 felon。",
+    "examples": [
+      [
+        "The novel follows a convicted felon after his release.",
+        "小说讲述一位被判过重罪的人获释后的经历。"
+      ],
+      [
+        "The character is described as a felon in the court records.",
+        "法庭记录把这个人物记为重罪犯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/felon#English",
+      "https://www.etymonline.com/word/felon",
+      "https://www.merriam-webster.com/dictionary/felon"
+    ]
+  },
+  {
+    "word": "felony",
+    "ipa": "英、美 /ˈfeləni/",
+    "meaning": "重罪〔一种犯罪类别，尤见美式法律语境〕",
+    "sense": "法律把犯罪分成不同类别，felony 常说其中较严重的一类，中文通常译重罪。它说的是罪行、罪类，不是犯这类罪的人。",
+    "split": "经法语 felonie 邪恶、犯罪等名词，来自 felon 恶人、邪恶的词族。现代可用 felon + 名词 -y 理解对应，历史上却有法语整词借入的过程。",
+    "history": [
+      [
+        "法语 felon → felonie → 英语 felony",
+        "早期涵盖背叛、恶行、犯罪等宽义"
+      ],
+      [
+        "法律语境中形成特定重罪类别用法",
+        "现代含义依法律体系，不用词根来决定具体法定界限"
+      ]
+    ],
+    "explanation": "a felony charge 是重罪指控；convicted of a felony 是被判犯有重罪；felony and misdemeanour 是重罪与轻罪的类别对照。",
+    "usage": "a felony charge；convicted of a felony；felony and misdemeanour。",
+    "contrast": "felony 是罪行类别，felon 是人，felonious 是相关形容词。英语资料里的具体分类要按其制度背景理解，不能只靠“很严重”这个日常感受判断。",
+    "examples": [
+      [
+        "The character was convicted of a felony in the novel.",
+        "小说中，这个人物被判犯有重罪。"
+      ],
+      [
+        "The law student learned the difference between a felony and a misdemeanour.",
+        "法学院学生学习了重罪与轻罪的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/felony#English",
+      "https://www.etymonline.com/word/felony",
+      "https://www.merriam-webster.com/dictionary/felony"
+    ]
+  },
+  {
+    "word": "felonious",
+    "ipa": "英 /fəˈləʊniəs/；美 /fəˈloʊniəs/",
+    "meaning": "重罪的；构成重罪的；凶恶犯罪的〔正式〕",
+    "sense": "把某种行为放在 felony 的罪类、犯罪性质下描述，可以用 felonious。它是较正式的性质形容词，常见于法律或犯罪叙事。",
+    "split": "felony 的 y 变为 i，再加完整 -ous 性质形容词词尾 → felonious。基础名词来自法语犯罪词族；末尾 -ious 在这里包含词基的拼写变化与 -ous。",
+    "history": [
+      [
+        "法语 felonie → 英语 felony",
+        "形成犯罪、重罪类别名词"
+      ],
+      [
+        "felony 变 y 为 i + -ous → felonious",
+        "形成相关性质形容词，旧英语形式曾有 felonous 等"
+      ]
+    ],
+    "explanation": "felonious conduct 是构成重罪的行为；felonious intent 是重罪意图；felonious activity 是相关犯罪活动。",
+    "usage": "felonious conduct；felonious intent；felonious activity。",
+    "contrast": "felonious 不是日常泛说讨厌、做得差的普通形容词。felony 是名词类别，felonious 修饰相应行为或意图，语域更正式。",
+    "examples": [
+      [
+        "The report describes the conduct as felonious.",
+        "报告把那项行为描述为构成重罪。"
+      ],
+      [
+        "The novel traces the character’s gradual involvement in felonious activity.",
+        "小说追踪了这个人物逐渐卷入犯罪活动的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/felonious#English",
+      "https://www.etymonline.com/word/felonious"
+    ]
+  },
+  {
+    "word": "cavalier",
+    "ipa": "英 /ˌkævəˈlɪə/；美 /ˌkævəˈlɪr/",
+    "meaning": "漫不经心的；轻慢的；骑士、骑马者〔历史名词〕",
+    "sense": "别人很认真，你却像什么都不当回事，态度轻松过头、带点轻慢，就是 cavalier 的常见现代用法。它早先却是骑马者、骑士的名称。",
+    "split": "接意大利 cavaliere、晚期拉丁 caballarius 骑马者，来自 caballus 马。现代可把 caval- 的马词族与 cavalry、cavalcade 对照，整词形式由借入历史形成。",
+    "history": [
+      [
+        "拉丁 caballus 马 → caballarius 骑马者 → 意大利 cavaliere → cavalier",
+        "英语名词先有骑马者、骑士、贵族人物等用法"
+      ],
+      [
+        "骑士、贵族式人物评价 → 洒脱、随便 → 轻慢",
+        "现代形容态度时常批评对事情不够认真"
+      ]
+    ],
+    "explanation": "a cavalier attitude 是漫不经心的态度；cavalier about details 是不把细节当回事；a cavalier approach 是轻率的处理方式。",
+    "usage": "a cavalier attitude；cavalier about；a cavalier approach。",
+    "contrast": "现代形容词 cavalier 常带批评，不等于单纯 brave 勇敢。历史名词里 Cavalier 也可指特定王党人物，看到大写需看时代背景。",
+    "examples": [
+      [
+        "She disliked his cavalier attitude towards deadlines.",
+        "她不喜欢他对截止时间满不在乎的态度。"
+      ],
+      [
+        "The museum displayed a portrait of a seventeenth-century cavalier.",
+        "博物馆展出了一幅十七世纪骑士人物肖像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cavalier#English",
+      "https://www.etymonline.com/word/cavalier"
+    ]
+  },
+  {
+    "word": "cavalry",
+    "ipa": "英、美 /ˈkævəlri/",
+    "meaning": "骑兵；沿用骑兵名称的机动部队",
+    "sense": "想象一队骑马行动的士兵，就是 cavalry 的历史核心。现代某些机械化等部队也沿用这个名称，所以看到它还要看时代、装备背景。",
+    "split": "经法语 cavalerie、意大利 cavalleria 骑马部队，接 cavaliere 骑马者与拉丁 caballus 马。-erie/-ry 的历史名词材料把骑马者相关活动、群体名词化。",
+    "history": [
+      [
+        "拉丁 caballus 马 → 意大利骑马者、骑马部队词 → 法语 cavalerie",
+        "从骑马的人形成兵种、部队名称"
+      ],
+      [
+        "英语 cavalry",
+        "历史骑马部队与现代保留名称的机动编制都可出现"
+      ]
+    ],
+    "explanation": "a cavalry regiment 是骑兵团；mounted cavalry 是骑马部队；cavalry uniforms 是骑兵制服。",
+    "usage": "a cavalry regiment；mounted cavalry；cavalry uniforms。",
+    "contrast": "cavalier 原来是骑马者，cavalry 把这类士兵作为兵种、群体来说。现代名称可能延续旧传统，不要求每个叫 cavalry 的部队都仍骑马。",
+    "examples": [
+      [
+        "The painting shows cavalry crossing a river.",
+        "画中是正在渡河的骑兵。"
+      ],
+      [
+        "The museum’s collection includes old cavalry uniforms.",
+        "博物馆藏有旧骑兵制服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cavalry#English",
+      "https://www.etymonline.com/word/cavalry",
+      "https://www.merriam-webster.com/dictionary/cavalry"
+    ]
+  },
+  {
+    "word": "cavalcade",
+    "ipa": "英 /ˌkævəlˈkeɪd/；美 /ˌkævəlˈkeɪd/",
+    "meaning": "行进的队列；车队、骑马队；接连出现的一系列",
+    "sense": "人、马或车辆一队接一队从眼前经过，是 cavalcade 的画面。也可以把节目、人物接连登场比作一支热闹队列。",
+    "split": "整体经法语 cavalcade 接意大利 cavalcata、cavalcare 骑马，远接拉丁 caballus 马。后来英语从整词截出 -cade，用来造 motorcade 等队列名称；不是古拉丁先有一个英语 -cade。",
+    "history": [
+      [
+        "拉丁马词族 → 意大利骑马、骑行词 → 法语 cavalcade",
+        "早期有骑马出行、骑乘队列义"
+      ],
+      [
+        "英语 cavalcade → 各类行进队列、接连展示",
+        "马以外的车辆、人物也可成为队列"
+      ]
+    ],
+    "explanation": "a cavalcade of cars 是一支车队；a colourful cavalcade 是色彩鲜明的游行队列；a cavalcade of performers 是接连登场的一群表演者。",
+    "usage": "a cavalcade of cars；a colourful cavalcade；a cavalcade of performers。",
+    "contrast": "cavalcade 常带行进、连续展示的画面；cavalry 是兵种名称。motorcade 的后半后来借用 cavalcade 的形式，特别指机动车队。",
+    "examples": [
+      [
+        "A cavalcade of cars moved slowly through the town.",
+        "一支车队缓缓穿过城镇。"
+      ],
+      [
+        "The festival opened with a colourful cavalcade of performers.",
+        "节庆以一队色彩鲜明的表演者登场开幕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cavalcade#English",
+      "https://www.etymonline.com/word/cavalcade"
+    ]
+  },
+  {
+    "word": "limb",
+    "ipa": "英、美 /lɪm/",
+    "meaning": "肢体；手臂、腿；树的大枝",
+    "sense": "从身体主体伸出去、能活动的部分，像手臂、腿，是 limb。树干上伸出去的大枝也像树的肢体，所以也可以叫 limb。",
+    "split": "承古英语 lim 肢体、身体部分，经过中古英语发展为 limb；末尾 b 不发音。现代整个 limb 是词基，limbless 等词再在它后面加词尾。",
+    "history": [
+      [
+        "古英语 lim 身体部分、肢体 → limb",
+        "保留身体伸出部分的基本意思"
+      ],
+      [
+        "身体肢体 → 树的大枝、相关比喻",
+        "go out on a limb 把冒险站到枝头的画面用于承担判断风险"
+      ]
+    ],
+    "explanation": "an injured limb 是受伤肢体；a large limb 是大树枝；go out on a limb 是冒风险表态、作判断。",
+    "usage": "an injured limb；a large limb；go out on a limb。",
+    "contrast": "branch 泛指树枝、分支，limb 在树木语境常是较大的主枝。go out on a limb 常说作出可能被证明错误、让自己承担风险的判断或支持。",
+    "examples": [
+      [
+        "The doctor examined the injured limb.",
+        "医生检查了受伤的肢体。"
+      ],
+      [
+        "The tree lost a large limb during the storm.",
+        "风暴中，那棵树断了一根大枝。"
+      ],
+      [
+        "I will go out on a limb and say the plan might work.",
+        "我冒点风险作个判断：这个计划也许能行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/limb#English",
+      "https://www.etymonline.com/word/limb"
+    ]
+  },
+  {
+    "word": "limbless",
+    "ipa": "英、美 /ˈlɪmləs/",
+    "meaning": "没有肢体的；无肢的",
+    "sense": "limb 是肢体，limbless 就是没有肢体。像蛇那种靠整个身体移动、看不到手臂和腿的形态，可以用这个词描述。",
+    "split": "limb 肢体 + 完整 -less 没有 → limbless。b 在 limb 本身不发音，加后缀后也不恢复读出，整个词读 /ˈlɪmləs/。",
+    "history": [
+      [
+        "古英语 lim 肢体 → limb",
+        "现代保留身体伸出部分的基本画面"
+      ],
+      [
+        "limb + -less → limbless",
+        "直接表示缺少这个名词所说的部分"
+      ]
+    ],
+    "explanation": "a limbless body 是无肢的身体；a limbless creature 是无肢生物；limbless movement 是无肢形态下的移动。",
+    "usage": "a limbless body；a limbless creature；limbless movement。",
+    "contrast": "-less 说缺少某物，limbless 的词尾在否定肢体的存在。它不是说肢体数量少一点，而是按相应语境描述无肢形态。",
+    "examples": [
+      [
+        "The snake’s limbless body moved through the grass.",
+        "蛇的无肢身体在草间移动。"
+      ],
+      [
+        "The drawing shows an imaginary limbless creature.",
+        "图画展示了一种想象中的无肢生物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/limbless#English",
+      "https://www.etymonline.com/word/limb"
+    ]
+  },
+  {
+    "word": "jade",
+    "ipa": "英、美 /dʒeɪd/",
+    "meaning": "玉；玉石；玉色〔另有不同来源的旧词〕",
+    "sense": "玉雕、玉镯这类物品中的玉，英语常叫 jade。颜色可以有多种，不只一种绿色；专业珠宝语境还会区分具体材料。",
+    "split": "玉石义经法语 le jade、早期 l’ejade，接西班牙 piedra de la ijada 腰腹之石的名称。它源于早期相关命名观念，不是现代医学用途；英语另有旧 jade 疲惫的马，来源不同。",
+    "history": [
+      [
+        "西班牙相关玉石名 → 法语词界重新划分 → jade",
+        "法语早期 l’ejade 被重新理解为 le jade，形成现代词形"
+      ],
+      [
+        "jade 玉石；另源旧马名 jade → 疲倦动词",
+        "两条同形线分开，jaded 走旧马名这条历史支线"
+      ]
+    ],
+    "explanation": "a jade carving 是玉雕；a jade bracelet 是玉镯；jade green 是玉绿色。",
+    "usage": "a jade carving；a jade bracelet；jade green。",
+    "contrast": "jade 是玉石的通用名称之一，珠宝学里常涉及 jadeite、nephrite 等材料。它不是所有绿色石头的总称，也不能只凭这个词确定颜色或具体矿物。",
+    "examples": [
+      [
+        "The museum displayed a small jade carving.",
+        "博物馆展出了一件小玉雕。"
+      ],
+      [
+        "She kept the jade bracelet in a wooden box.",
+        "她把玉镯收在木盒里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jade#English",
+      "https://www.etymonline.com/word/jade",
+      "https://www.gia.edu/jade-description"
+    ]
+  },
+  {
+    "word": "jaded",
+    "ipa": "英、美 /ˈdʒeɪdɪd/",
+    "meaning": "厌倦的；见得太多而失去兴致的；疲惫的",
+    "sense": "好东西看过太多，同类场面经历太多，现在再来一遍也提不起劲，就是 jaded。它常带一种见惯了、腻了、很难再惊喜的感觉。",
+    "split": "jade 使疲倦的旧动词去末尾 e，加完整 -ed → jaded，/d/ 后读 /ɪd/。这条 jade 来自旧时疲惫、不中用的马名，远源不明，与玉石借词分开。",
+    "history": [
+      [
+        "旧 jade 疲惫的马 → jade 使疲倦、变迟钝",
+        "从疲马名称发展出使失去活力的动词"
+      ],
+      [
+        "jade + -ed → jaded",
+        "现代形容经历、享受太多而厌倦，也可说精神疲惫"
+      ]
+    ],
+    "explanation": "a jaded audience 是看惯一切、难再感到新鲜的观众；feel jaded 是觉得倦怠；a jaded critic 是见多而不易惊喜的评论者。",
+    "usage": "a jaded audience；feel jaded；a jaded critic。",
+    "contrast": "tired 可以只是需要休息；jaded 常多了重复经历、兴趣被磨掉的意味。玉石 jade 的字形相同，不是这条厌倦义的来源。",
+    "examples": [
+      [
+        "Even the jaded critics seemed impressed by the performance.",
+        "连见多识广、很难再惊喜的评论者都似乎被演出打动了。"
+      ],
+      [
+        "After a week of receptions, she felt jaded.",
+        "接连参加一周招待活动后，她感到厌倦疲惫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jaded#English",
+      "https://www.etymonline.com/word/jaded",
+      "https://www.etymonline.com/word/jade"
+    ]
+  }
+]

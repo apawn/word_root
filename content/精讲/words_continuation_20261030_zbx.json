@@ -1,0 +1,548 @@
+[
+  {
+    "word": "canvas",
+    "ipa": "/ˈkænvəs/",
+    "meaning": "帆布、厚实粗布；画布、画布上的画；施展创作的空间〔比喻〕",
+    "sense": "帐篷上那种厚实耐用的布，是 canvas；画家把画布绷好，在上面画画，也叫 canvas。blank canvas 又能比喻一块等你去创造的空白。",
+    "split": "经盎格鲁法语 canevaz、古法语相关形式，接通俗拉丁重建形 *cannapaceus 麻制的，较早连拉丁 cannabis、希腊 kannabis 麻。星号表示重建，不是已见拼写；现代布料不要求一律由麻制作。",
+    "history": [
+      [
+        "希腊、拉丁麻的名称 → *cannapaceus → 法语布料词",
+        "麻 → 麻制的 → 厚实布料"
+      ],
+      [
+        "法语 → 英语 canvas",
+        "粗布、帆布 → 绘画表面、画作 → 创作空间"
+      ]
+    ],
+    "explanation": "a canvas bag 帆布包；oil on canvas 布面油画；a blank canvas 空白画布、待发挥的空间。",
+    "usage": "a piece of canvas 一块帆布；stretch a canvas 绷画布。",
+    "contrast": "canvas 作材料常不可数，一张画布或一幅布面画可以数。canvass 多一个 s，通常是征询、细查等动词，不是画布的普通拼写。",
+    "examples": [
+      [
+        "She carried her books in a canvas bag.",
+        "她用帆布包装着书。"
+      ],
+      [
+        "The empty room was a blank canvas for the designer.",
+        "对设计师来说，空房间是一块可尽情创作的空白画布。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/canvas#English",
+      "https://www.etymonline.com/word/canvas"
+    ]
+  },
+  {
+    "word": "canvases",
+    "ipa": "/ˈkænvəsɪz/",
+    "meaning": "画布、画布上的画〔复数〕",
+    "sense": "一张张等待落笔的画布，或者一幅幅画在布上的作品，是 canvases。这里把材料做成的单件对象数起来了。",
+    "split": "canvas 的麻制布料名经法语进入英语。现代表示多张画布、布面画，在词尾 /s/ 后加 -es，读 /ɪz/；写 canvases，不是 canvass。",
+    "history": [
+      [
+        "麻制材料名 → 法语、英语 canvas",
+        "厚布 → 画布、布面画"
+      ],
+      [
+        "canvas + -es → canvases",
+        "多张画布、多幅画作"
+      ]
+    ],
+    "explanation": "large canvases 大幅画布、布面作品；blank canvases 空白画布；paintings on small canvases 画在小画布上的作品。",
+    "usage": "three canvases 三张画布或三幅作品；canvases in the studio 画室中的画布、画作。",
+    "contrast": "a roll of canvas 是一卷材料，several canvases 常是几张或几幅成件对象。复数表达把材料名转到具体载体上。",
+    "examples": [
+      [
+        "Several blank canvases leaned against the wall.",
+        "几张空白画布靠在墙边。"
+      ],
+      [
+        "The exhibition includes six large canvases.",
+        "展览包括六幅大幅布面画作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/canvases#English",
+      "https://en.wiktionary.org/wiki/canvas#English"
+    ]
+  },
+  {
+    "word": "canvass",
+    "ipa": "/ˈkænvəs/",
+    "meaning": "征询意见、调查；争取支持、拉票",
+    "sense": "把一个个相关的人问过去，看看他们怎么想、是否支持，是 canvass。它常强调有范围、有目的地征询。",
+    "split": "由 canvas 的旧拼写及在帆布中翻动、筛查的旧用法扩展，先有仔细检查，后来有征询、争取支持。具体语义转折不能只凭布料画面完全还原；现代通常用双 s 的 canvass 区分。",
+    "history": [
+      [
+        "canvas 的旧用法、拼写 → canvass",
+        "帆布中翻动、筛查 → 仔细检视"
+      ],
+      [
+        "英语 canvass 的进一步发展",
+        "向相关人征询意见、争取支持"
+      ]
+    ],
+    "explanation": "canvass opinions 征询意见；canvass residents 征询居民意见；canvass for support 争取支持。",
+    "usage": "canvass views on a plan 征询对方案的看法；canvass the area 在某区域逐一征询。",
+    "contrast": "canvass 与 canvas 同音，现代常用意义靠拼写、句法区分。canvass opinions 是调查意见，不是把意见画到帆布上。",
+    "examples": [
+      [
+        "The team will canvass residents about the new park.",
+        "团队将就新公园征询居民意见。"
+      ],
+      [
+        "We need to canvass opinions before choosing a design.",
+        "选设计前，我们需要征询意见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/canvass#English",
+      "https://www.etymonline.com/word/canvas"
+    ]
+  },
+  {
+    "word": "canvassing",
+    "ipa": "/ˈkænvəsɪŋ/",
+    "meaning": "征询意见、调查、争取支持〔现在分词、动名词〕",
+    "sense": "带着一个问题，有计划地向相关的人收集意见，是 canvassing。重点是征询或争取，不是已经得到了所有人的同意。",
+    "split": "canvass 由 canvas 的历史用法发展出检视、征询义，现代拼写已有双 s。直接在整个 canvass 后加完整 -ing，不再添第三个 s。",
+    "history": [
+      [
+        "canvas 的旧翻动、筛查用法 → canvass",
+        "仔细检查 → 征询、争取支持"
+      ],
+      [
+        "canvass + -ing → canvassing",
+        "正在征询；征询意见这一活动"
+      ]
+    ],
+    "explanation": "canvassing opinions 征询意见；canvassing for support 争取支持；canvassing local residents 向当地居民征询。",
+    "usage": "a day of canvassing 一天的征询活动；canvassing views on the proposal 收集对提案的看法。",
+    "contrast": "canvassing 一般带明确对象或范围，常比随口问一个朋友更系统。它的目的可能是了解意见，也可能是争取支持，要看后面的内容。",
+    "examples": [
+      [
+        "The team is canvassing opinions on the new design.",
+        "团队正在征询对新设计的意见。"
+      ],
+      [
+        "She spent the afternoon canvassing residents about the park.",
+        "她花了一下午向居民征询对公园的看法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/canvassing#English",
+      "https://en.wiktionary.org/wiki/canvass#English"
+    ]
+  },
+  {
+    "word": "ranch",
+    "ipa": "英 /rɑːntʃ/；美 /ræntʃ/",
+    "meaning": "牧场；经营牧场；牧场沙拉酱〔美式食物用法〕",
+    "sense": "大片土地上养牛、马等牲畜的经营场所，是 ranch 的常见画面。它不是只看一片草地，还常包含围栏、住处和经营活动。",
+    "split": "借美洲西班牙 rancho 小农场、成组住处，较早有一起吃住的人群义；经 ranchear 安顿，连到法语 ranger 安置、rang 行列，和 range、rank 走不同借入路线。",
+    "history": [
+      [
+        "法语 ranger、rang → 西班牙 ranchear、rancho",
+        "安置、行列 → 成组吃住的人、住处与小农场"
+      ],
+      [
+        "美洲西班牙 rancho → 英语 ranch",
+        "牧场；后来有牧场经营动词及相关名称扩展"
+      ]
+    ],
+    "explanation": "a cattle ranch 养牛牧场；work on a ranch 在牧场工作；ranch dressing 牧场沙拉酱。",
+    "usage": "a family ranch 家庭经营的牧场；a ranch in the hills 山地里的牧场。",
+    "contrast": "ranch 常突出牲畜饲养，farm 是更宽泛的农场词。食物里的 ranch 常省自 ranch dressing，不是在把牧场土地加进食物。",
+    "examples": [
+      [
+        "Her family runs a cattle ranch.",
+        "她家经营一座养牛牧场。"
+      ],
+      [
+        "They spent the summer working on a ranch.",
+        "他们整个夏天都在一座牧场工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranch#English",
+      "https://www.etymonline.com/word/ranch"
+    ]
+  },
+  {
+    "word": "ranches",
+    "ipa": "英 /ˈrɑːntʃɪz/；美 /ˈræntʃɪz/",
+    "meaning": "牧场〔复数〕；经营牧场〔第三人称单数〕",
+    "sense": "地图上几处经营牲畜饲养的地方，是 ranches。每一处可能有住处、放牧土地和附属设施，复数数的是一个个经营场所。",
+    "split": "ranch 经美洲西班牙 rancho，较早连到法语 ranger 安置。现代在 /tʃ/ 后加 -es，读 /ɪz/；写 ranches，保留完整词干。",
+    "history": [
+      [
+        "法语安置词族 → 西班牙 rancho → 英语 ranch",
+        "人群、住处、小农场 → 牧场"
+      ],
+      [
+        "ranch + -es → ranches",
+        "多座牧场；经营牧场的动词三单同形"
+      ]
+    ],
+    "explanation": "cattle ranches 养牛牧场；family ranches 家庭牧场；ranches along the river 河边的牧场。",
+    "usage": "several ranches 几座牧场；large ranches 大型牧场。",
+    "contrast": "ranches 的 /ɪz/ 是复数或三单尾，不是又给 ranch 增加了另一层职业后缀。rancher 才常指牧场经营者。",
+    "examples": [
+      [
+        "Several ranches lie beyond the hills.",
+        "山丘那边分布着几座牧场。"
+      ],
+      [
+        "The book describes life on small family ranches.",
+        "这本书描写了小型家庭牧场的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranches#English",
+      "https://en.wiktionary.org/wiki/ranch#English"
+    ]
+  },
+  {
+    "word": "throne",
+    "ipa": "英 /θrəʊn/；美 /θroʊn/",
+    "meaning": "王座、宝座；王位、统治地位",
+    "sense": "君主坐的那把有身份象征的座椅，是 throne。谁坐上去代表谁掌权，所以它也能从座椅转指王位。",
+    "split": "经古法语 trone、拉丁 thronus 接希腊 thronos 高座、座椅。更远常比较 *dher- 稳固支撑，与拉丁 firmus 的材料相连；不是英语 firm 加出 throne。早期英语有神圣宝座用法。",
+    "history": [
+      [
+        "希腊 thronos → 拉丁 thronus → 法语 trone → throne",
+        "高座、宝座；英语早期也指神圣座位"
+      ],
+      [
+        "座位象征的语义扩展",
+        "君主的座椅 → 王位、统治地位"
+      ]
+    ],
+    "explanation": "sit on the throne 坐在王座上、在位；ascend the throne 登基；heir to the throne 王位继承人。",
+    "usage": "a golden throne 金色王座；claim the throne 声称有权继承王位。",
+    "contrast": "throne 与 thrown 同音，后者是 throw 的过去分词。the throne 既能是实物座椅，也能说王位，靠句子判断。",
+    "examples": [
+      [
+        "The king sat on a wooden throne.",
+        "国王坐在木制王座上。"
+      ],
+      [
+        "She was the heir to the throne.",
+        "她是王位继承人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/throne#English",
+      "https://www.etymonline.com/word/throne",
+      "https://www.etymonline.com/word/firm"
+    ]
+  },
+  {
+    "word": "thrones",
+    "ipa": "英 /θrəʊnz/；美 /θroʊnz/",
+    "meaning": "王座、宝座；王位〔复数〕",
+    "sense": "不同王国的几把王座，或者不同统治者的几个王位，都能说 thrones。座椅和权位两个层面保留在同一个词里。",
+    "split": "throne 经希腊 thronos、拉丁 thronus、法语 trone 传入。现代直接加 -s，/n/ 后读 /z/；与 throw 的 thrown 不是同一词源。",
+    "history": [
+      [
+        "希腊、拉丁、法语的座位词 → throne",
+        "高座、宝座 → 王位"
+      ],
+      [
+        "throne + -s → thrones",
+        "多把王座、多个王位"
+      ]
+    ],
+    "explanation": "golden thrones 金色王座；empty thrones 空着的王座；claim different thrones 争取不同王位。",
+    "usage": "the thrones of rival kingdoms 敌对王国的王位；two thrones 两把王座。",
+    "contrast": "thrones 可以数实体，也可以数不同统治地位。不是出现复数就一定有几把椅子摆在面前。",
+    "examples": [
+      [
+        "Two carved thrones stood at the end of the hall.",
+        "大厅尽头放着两把雕花王座。"
+      ],
+      [
+        "The story follows families competing for different thrones.",
+        "故事写了几个家族争夺不同王位的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thrones#English",
+      "https://en.wiktionary.org/wiki/throne#English"
+    ]
+  },
+  {
+    "word": "lawn",
+    "ipa": "英 /lɔːn/；美 /lɔːn/，亦有 /lɑːn/",
+    "meaning": "草坪；细平布〔另源用法〕",
+    "sense": "房前一片保持平整、定期修剪的草地，是 lawn。它常带人照料过的地面画面，不是所有荒野草地都叫 lawn。",
+    "split": "草地义经中古英语 launde、较早现代英语 laune 接古法语 lande 空地、荒原。更早有高卢或日耳曼来源分析，与 land 可作远源对照，细节不强定；薄布 lawn 另可能接法国 Laon 地名。",
+    "history": [
+      [
+        "古法语 lande → 中古英语 launde → laune、lawn",
+        "林间空地、荒地 → 草地"
+      ],
+      [
+        "现代草坪义；另有地名来源的布料同形词",
+        "修剪照料的草地；两条来源分开"
+      ]
+    ],
+    "explanation": "mow the lawn 修剪草坪；a front lawn 前院草坪；sit on the lawn 坐在草坪上。",
+    "usage": "a small lawn 一小片草坪；cotton lawn 细棉布〔布料语境〕。",
+    "contrast": "grass 是草或草这种植物，lawn 是种着草、通常有人照料的地面。薄布 lawn 在衣料语境另认，不要把两条来源合成一种材料。",
+    "examples": [
+      [
+        "We sat on the lawn after lunch.",
+        "午饭后我们坐在草坪上。"
+      ],
+      [
+        "He mows the lawn on Saturday mornings.",
+        "他周六早晨修剪草坪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawn#English",
+      "https://www.etymonline.com/word/lawn"
+    ]
+  },
+  {
+    "word": "lawns",
+    "ipa": "英 /lɔːnz/；美 /lɔːnz/，亦有 /lɑːnz/",
+    "meaning": "草坪〔复数〕；细平布的种类或布匹〔另源用法〕",
+    "sense": "一户人家一片、一个花园一块，几片修剪照料的草地就是 lawns。复数数的是一处处草坪，不是在数每一根草。",
+    "split": "草坪 lawn 经法语 lande、英语 launde 等，较早来源有高卢、日耳曼不同分析。现代直接加 -s，/n/ 后读 /z/；布料同形词来源另分。",
+    "history": [
+      [
+        "法语空地材料 → lawn",
+        "空地、草地 → 照料过的草坪"
+      ],
+      [
+        "lawn + -s → lawns",
+        "多片草坪；布料词的复数按衣料语境辨认"
+      ]
+    ],
+    "explanation": "green lawns 绿草坪；neatly kept lawns 整齐照料的草坪；lawns around the house 房子周围的草坪。",
+    "usage": "front lawns 各家前院草坪；walk past the lawns 从草坪边走过。",
+    "contrast": "lawns 不是 grasses 的完全替代。grasses 可以说多种草，lawns 通常说草坪场地；一片 lawn 里面也可以有多种草。",
+    "examples": [
+      [
+        "The houses have small front lawns.",
+        "这些房子前面都有小草坪。"
+      ],
+      [
+        "Neatly kept lawns surrounded the museum.",
+        "博物馆四周是整齐照料的草坪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawns#English",
+      "https://en.wiktionary.org/wiki/lawn#English"
+    ]
+  },
+  {
+    "word": "slit",
+    "ipa": "/slɪt/",
+    "meaning": "细长开口、裂口；切开一道口子",
+    "sense": "在纸或布上划开一条又窄又长的口子，是 slit。它首先让你看切开的缝，不是切下来的一整片东西。",
+    "split": "接中古英语 slitten 与古英语 slitan 撕裂、切开材料；slice 经法语走另一条相关路线，slate 的碎片词也可比较旧日耳曼切裂材料。现代 slit 是整体，常见过去式、分词仍是 slit。",
+    "history": [
+      [
+        "古英语 slitan → 中古英语 slitten → slit",
+        "撕裂、切开 → 开一道细长口子"
+      ],
+      [
+        "英语 slit 的动作和结果名词",
+        "切开 → 细长的缝、狭口"
+      ]
+    ],
+    "explanation": "a narrow slit 一道窄缝；a slit in the fabric 布上的裂口；slit the envelope 划开信封。",
+    "usage": "a slit in the curtain 窗帘上的细缝；slit open 划开。",
+    "contrast": "slit 常强调口子狭长；slice 常强调切下薄片。slit 与 slot 也不能只因外形近就认定同源，slot 的具体来源另有讨论。",
+    "examples": [
+      [
+        "A narrow slit in the curtain let in the light.",
+        "窗帘上的一道细缝透进了光。"
+      ],
+      [
+        "She used a letter opener to slit the envelope.",
+        "她用拆信刀划开了信封。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slit#English",
+      "https://www.etymonline.com/word/slit",
+      "https://www.etymonline.com/word/slate"
+    ]
+  },
+  {
+    "word": "slits",
+    "ipa": "/slɪts/",
+    "meaning": "细缝、细长开口〔复数〕；切开口子〔第三人称单数〕",
+    "sense": "一排窄窄的通气缝，是 slits；某个人在纸上划出一道口子，动词也写 slits。核心是窄长的切口。",
+    "split": "slit 的本族旧材料接古英语 slitan 撕裂、切开。现代直接加 -s，/t/ 后读 /s/；它是名词复数或现在时三单，不是新的过去式。",
+    "history": [
+      [
+        "古英语切裂材料 → slit",
+        "切开 → 狭长开口"
+      ],
+      [
+        "slit + -s → slits",
+        "多道细缝；某人切开口子"
+      ]
+    ],
+    "explanation": "ventilation slits 通气细缝；slits in the fabric 布上的几道口子；slits open an envelope 划开信封。",
+    "usage": "two narrow slits 两道窄缝；light through the slits 从细缝透来的光。",
+    "contrast": "slits 看切口的形状，holes 泛指洞，slices 常是切下来的片。一个对象被划了几道缝，不等于它已被切成几片。",
+    "examples": [
+      [
+        "Light entered through narrow slits in the wall.",
+        "光从墙上的几道窄缝透进来。"
+      ],
+      [
+        "He slits the envelope open with a letter opener.",
+        "他用拆信刀划开信封。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slits#English",
+      "https://en.wiktionary.org/wiki/slit#English"
+    ]
+  },
+  {
+    "word": "slice",
+    "ipa": "/slaɪs/",
+    "meaning": "薄片、一片；切片；份额〔比喻〕",
+    "sense": "从面包上切下一片，有一定面积却比较薄，这一片是 slice。作动词就说把东西切成这样的片；整体的一份也能借这个画面讲。",
+    "split": "经法语 esclice、esclis 碎片及 esclicier 切裂材料进入，较早通常接重建的法兰克、日耳曼切裂词。它与 slit 同族近源路线不同，不是现代 slit 换成 ice。",
+    "history": [
+      [
+        "旧日耳曼切裂材料 → 法语 esclice、esclicier → slice",
+        "切裂、碎片 → 切下来的薄片"
+      ],
+      [
+        "英语 slice 的动作、比喻用法",
+        "切片；从整体分出一份"
+      ]
+    ],
+    "explanation": "a slice of bread 一片面包；slice the tomatoes 把番茄切片；a slice of the profits 利润的一份。",
+    "usage": "a thin slice 一片薄片；a slice of cake 一片蛋糕。",
+    "contrast": "slice 通常突出相对薄而有面积的一片，piece 是更宽泛的一块。slice of cake 的厚薄依食物和切法而定，不是固定尺寸。",
+    "examples": [
+      [
+        "Would you like a slice of bread?",
+        "你要一片面包吗？"
+      ],
+      [
+        "Please slice the tomatoes thinly.",
+        "请把番茄切成薄片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slice#English",
+      "https://www.etymonline.com/word/slice"
+    ]
+  },
+  {
+    "word": "slices",
+    "ipa": "/ˈslaɪsɪz/",
+    "meaning": "薄片、一片片〔复数〕；切片〔第三人称单数〕",
+    "sense": "盘里一片片面包，是 slices；厨师把食物一片片切出来，动词也写 slices。切出的结果和切的动作紧挨着记。",
+    "split": "slice 经法语碎片、切裂材料，较早与 slit 相关。现代整个 slice 后加 -s，/s/ 后读 /ɪz/；拼写保留已有 e，不再添第二个 e。",
+    "history": [
+      [
+        "旧切裂材料 → 法语、英语 slice",
+        "切下的碎片 → 薄片、切片"
+      ],
+      [
+        "slice + -s → slices",
+        "多个薄片；某人把食物切片"
+      ]
+    ],
+    "explanation": "two slices of bread 两片面包；thin slices 薄片；slices the cucumber 给黄瓜切片。",
+    "usage": "slices of lemon 柠檬片；cut into slices 切成片。",
+    "contrast": "two slices of bread 数两片，不能把不可数的 bread 随意写成 two breads 来表达同一意思。slices 提供了片这个计量形状。",
+    "examples": [
+      [
+        "She put two slices of bread on the plate.",
+        "她把两片面包放在盘子上。"
+      ],
+      [
+        "He slices the cucumber very thinly.",
+        "他把黄瓜切得很薄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slices#English",
+      "https://en.wiktionary.org/wiki/slice#English"
+    ]
+  },
+  {
+    "word": "sliced",
+    "ipa": "/slaɪst/",
+    "meaning": "切成片的；切片了〔过去式、过去分词及形容词〕",
+    "sense": "原来一整条面包，现在变成一片片，就是 sliced bread 的状态。它先说明切成片，不自动说明煮过或烤过。",
+    "split": "slice 的法语切裂来源连旧日耳曼材料。现代去末尾 e 加完整 -ed；词尾 /s/ 是清辅音，-ed 读 /t/，所以 sliced 只有一个音节。",
+    "history": [
+      [
+        "法语切裂、碎片材料 → 英语 slice",
+        "切下薄片；把东西切片"
+      ],
+      [
+        "slice 去 e + -ed → sliced",
+        "已经切片；切成片的"
+      ]
+    ],
+    "explanation": "sliced bread 切片面包；thinly sliced tomatoes 薄切番茄片；sliced into pieces 切成一片片。",
+    "usage": "freshly sliced 刚切片的；sliced cheese 奶酪片。",
+    "contrast": "sliced 说形状处理，toasted 才说烤过。可以先 sliced 再 toasted，但两步不是同一个意思。",
+    "examples": [
+      [
+        "She bought a loaf of sliced bread.",
+        "她买了一条切片面包。"
+      ],
+      [
+        "He sliced the cheese and put it on a plate.",
+        "他把奶酪切成片，放到盘子上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sliced#English",
+      "https://en.wiktionary.org/wiki/slice#English"
+    ]
+  },
+  {
+    "word": "slicing",
+    "ipa": "/ˈslaɪsɪŋ/",
+    "meaning": "切片、切开〔现在分词、动名词〕",
+    "sense": "刀一次次过去，把整体分成片，这个过程是 slicing。它可以讲厨房动作，也能比喻把整体按某种方式切分。",
+    "split": "slice 经法语切裂材料借入，与 slit 有旧词族联系。现代去末尾 e 加完整 -ing，c 在 i 前仍读 /s/；不是另有一个 -cing 后缀。",
+    "history": [
+      [
+        "旧切裂词族 → 法语、英语 slice",
+        "碎片、薄片 → 切片动作"
+      ],
+      [
+        "slice 去 e + -ing → slicing",
+        "正在切片；切片这个过程"
+      ]
+    ],
+    "explanation": "slicing bread 切面包片；slicing vegetables 给蔬菜切片；a slicing motion 一个切片动作。",
+    "usage": "before slicing 切片前；slicing into thin pieces 切成薄片。",
+    "contrast": "slicing 强调切成片的过程；chopping 常突出剁、切成块的动作。现实动作会重叠，但两词关注的形状和动作感不同。",
+    "examples": [
+      [
+        "She was slicing bread for lunch.",
+        "她正在切面包片准备午饭。"
+      ],
+      [
+        "Slicing the vegetables took only a few minutes.",
+        "给蔬菜切片只花了几分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slicing#English",
+      "https://en.wiktionary.org/wiki/slice#English"
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "B3294",
+    "meaning": "箭的实体与表示方向的箭形符号",
+    "core": "ARROW：尖端指向哪里，视线就跟到哪里",
+    "image": "arrow → arrowhead。",
+    "intro": "整支箭和前端尖头先分清，再把形状迁移到路牌和图表。不同图里的箭头可表示方向、过程或关系，要结合图例。",
+    "forms": "古英语 earh、earw- → 中古英语 arwe → arrow；head 在 arrowhead 中说尖端、头部。\n\narrow 承古英语及可能的北欧相应箭名，远连弓的词族；箭头符号是较晚的图形借用。现代复数 -s 在元音后读 /z/。",
+    "branches": [
+      [
+        "整支箭与尖头",
+        "arrow · arrowhead"
+      ],
+      [
+        "arrow → arrows：箭与指向标记",
+        "arrows"
+      ]
+    ],
+    "contrasts": "实体 arrow 是整支箭；图中的 arrow 常直接指箭头符号。",
+    "practice": "The arrowhead was damaged, so the archer replaced the arrow.\n\n箭头坏了，弓箭手换了一支箭。",
+    "words": [
+      "arrow",
+      "arrowhead",
+      "arrows"
+    ],
+    "exclude": {
+      "arrow-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arrowsmith": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3301",
+    "meaning": "短促有劲的冲击，扩展为冲刺、少量、风采与草率",
+    "core": "DASH：一下冲出去，也能一下打碎、泼入一点",
+    "image": "dash → dashing；slapdash 说草率；dashboard 的历史联系挡泥飞溅。",
+    "intro": "动作的短促、有劲是很好的记忆起点，但不同分支要各配场景：赶路、调味、希望破灭、人物风采。",
+    "forms": "中古英语 daschen 等可能接北欧词；-ing 形成分词、形容词；slap + dash → slapdash；dash + board → dashboard。\n\ndash 的旧猛击、急冲义有北欧来源分析；dashed hopes 是希望像被打碎，dashes 另可指破折号、少量添入。",
+    "branches": [
+      [
+        "急冲及风采",
+        "dash · dashing"
+      ],
+      [
+        "草率做法",
+        "slapdash"
+      ],
+      [
+        "历史挡泥板与现代面板",
+        "dashboard"
+      ],
+      [
+        "dash 的急冲、打碎与短横符号",
+        "dash · dashes · dashed"
+      ]
+    ],
+    "contrasts": "dashing 可潇洒；slapdash 批评马虎；dashboard 最初挡的是飞溅泥水。",
+    "practice": "He dashed off a note, but the result looked slapdash.\n\n他匆匆写了张便条，结果显得很马虎。",
+    "words": [
+      "dash",
+      "dashing",
+      "slapdash",
+      "dashboard",
+      "dashes",
+      "dashed"
+    ],
+    "exclude": {
+      "dash-dotted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dasher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4158",
+    "meaning": "手边准备好，到及时行动、促使和提示",
+    "core": "PROMPT：随时拿得出来，回应及时；也拿出线索带动下一步",
+    "image": "prompt → promptly、prompter。",
+    "intro": "一个词有三种常用词性：及时的回复、促使讨论、提供提示。把场景放在一起，便能看懂写作提示、舞台提词及电脑提示之间的联系。",
+    "forms": "prō- 向前 + emere 拿 → prōmere → prōmptus；经法语、拉丁进入英语；-ly 方式，-er 人物或工具。\n\n拉丁 pro 加 emere 的历史；t 后 ed 读 id。",
+    "branches": [
+      [
+        "及时与行动方式",
+        "prompt · promptly"
+      ],
+      [
+        "给出提示的角色、工具",
+        "prompter"
+      ],
+      [
+        "prompt → prompted：推到行动、提示",
+        "prompt · prompted"
+      ]
+    ],
+    "contrasts": "prompt 的词性先看句法；prompter 可以提词员或提词器。",
+    "practice": "The prompter supplied a cue promptly when the actor forgot his line.\n\n演员忘词时，提词员及时给了提示。",
+    "words": [
+      "prompt",
+      "promptly",
+      "prompter",
+      "prompted"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4561",
+    "meaning": "捕鱼者及复合词；动物名有独立命名历史",
+    "core": "FISHER：按捕鱼活动叫人，复合词再加限定",
+    "image": "fisher → fisherman；kingfisher 是翠鸟名称。",
+    "intro": "fisher 先抓捕鱼者，fisherman 再加人物后项。翠鸟名称含 fisher，但渔貂的 fisher 常用动物义另有借词来源，不能把所有同形词都当捕鱼的人。",
+    "forms": "古英语 fisċere → fisher；fisher + man → fisherman；king’s fisher → kingfisher。渔貂义另接法语动物、毛皮词。",
+    "branches": [
+      [
+        "捕鱼者通称",
+        "fisher · fisherman"
+      ],
+      [
+        "捕鱼鸟的名称",
+        "kingfisher"
+      ]
+    ],
+    "contrasts": "kingfisher 名称不是所有种类只吃鱼的保证；fisher 另有渔貂义。",
+    "practice": "A fisherman watched a kingfisher dive towards the water.\n\n渔民看见一只翠鸟向水面俯冲。",
+    "words": [
+      "fisher",
+      "fisherman",
+      "kingfisher"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3794",
+    "meaning": "可用、可获得的状态及其否定",
+    "core": "AVAILABILITY：需要的时候，是否拿得到、用得上",
+    "image": "availability → unavailability；bioavailability 是专门领域的生物利用度。",
+    "intro": "日常先看时间、库存和场地条件。bioavailability 已有独立精讲，它有专门的生物、药学含义，不等于货架有没有货。",
+    "forms": "available → availability；un- 否定可用状态；bio- 连接专门生物学用法。",
+    "branches": [
+      [
+        "可用及不可用",
+        "availability · unavailability"
+      ],
+      [
+        "专门利用度名称",
+        "bioavailability"
+      ]
+    ],
+    "contrasts": "不可用可能暂时；生物利用度与库存可得性分清。",
+    "practice": "Check room availability before announcing a date; unavailability could force a change.\n\n公布日期前先查房间能否使用，否则可能不得不改期。",
+    "words": [
+      "availability",
+      "unavailability",
+      "bioavailability"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4188",
+    "meaning": "绑住、结合的动作，进入装订、约束和吸引",
+    "core": "BINDING：把东西连住、固定住，或把人吸引住",
+    "image": "binding → bookbinding；spellbinding 用魔法束住人的画面说入迷。",
+    "intro": "书页被固定成册、约定对人有约束力、故事把注意力紧紧抓住，都能沿连接、束住来理解。具体中文随场景走。",
+    "forms": "bind + -ing → binding；book + binding → bookbinding；spell 咒语 + binding → spellbinding。\n\nbinding 名词可以数书的装订、封装结构，滑雪等器具也有连接固定件。",
+    "branches": [
+      [
+        "结合与装订",
+        "binding · bookbinding"
+      ],
+      [
+        "吸引注意的比喻",
+        "spellbinding"
+      ],
+      [
+        "bind 的书籍装订结构与职业组合",
+        "binding · bindings · bookbinder · bookbinders"
+      ]
+    ],
+    "contrasts": "binding 不都译正在绑；spellbinding 说令人入迷，spellbound 说被迷住的状态。",
+    "practice": "The book’s binding was plain, but the story was spellbinding.\n\n书的装帧很朴素，故事却扣人心弦。",
+    "words": [
+      "binding",
+      "bookbinding",
+      "spellbinding",
+      "bindings",
+      "bookbinder",
+      "bookbinders"
+    ],
+    "exclude": {
+      "non-binding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

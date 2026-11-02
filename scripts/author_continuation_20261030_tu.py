@@ -1,0 +1,96 @@
+"""Examples, titles, characters, careers and familiar guys."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C0369':dict(words=['example','exemplary','exemplify'],label='拿出一例：example 的常用词族',note='example、exemplary、exemplify 同接 exemplum；更早 eximere 是取出，由 ex- 与 emere 较早的取义相连。词族不是从现代购买行为硬推出来的。'),
+ 'A1772':dict(words=['title','titular'],label='标题、头衔与名义：title 到 titular',note='titular 经法语、拉丁语形容词借入，与 title 同接 titulus；现代可用 titul- + -ar 认识，不按英语 title 原样接尾拼写。'),
+ 'A1760':dict(words=['title','titled','entitle','entitled'],label='名为、有头衔与自认应得',note='titled 接 title + -ed；entitled 接 entitle + -ed。entitled to 常说有资格、权利，单独评价人 entitled 则常贬称自认理应受优待。'),
+ 'A1833':dict(words=['title','entitle','entitled','entitlement'],label='补齐头衔、赋予资格与相应名词的基础',note='title 与 entitle、entitlement 的同族联系需要先从标签、标题、头衔及资格理解；各词已有独立借入、扩展史。'),
+ 'A1862':dict(words=['character','characterize','characterization'],label='先认识特征、角色与字符，再读 characterize',note='character 接希腊语刻印材料，经法语、拉丁语进入英语。characterize、characterization 在此基础上表达描述特征与相应刻画、表征。'),
+ 'B2669':dict(words=['car','career'],label='有轮车辆与道路：career 的同源背景',note='career 经法语 carrière 道路、赛道等接与 carrus 车辆有关的道路名称；与 car 有更早同源联系，但职业义不是现代英语 car 加 -eer。'),
+ 'A1776':dict(words=['guy','guys'],label='单个人到口语群体称呼：guy、guys',note='guy 的人称义与历史人名及人物偶像称呼的泛化有关；guys 是常用复数，you guys 在一些口语语境可称混合性别群体。'),
+}
+W('example','英 /ɪɡˈzɑːmpəl/；美 /ɪɡˈzæmpəl/','例子、实例；榜样；警示性事例',
+ '从一类事物里拿出一个，让别人看懂其余的，就是举例。拿出值得学的人或做法，也就成为榜样。',
+ '经法语 essemple、example 等接拉丁语 exemplum 例子、样本、模式，更早联系 eximere 取出；ex- 向外，emere 较早有取义。',
+ [['eximere 取出 → exemplum','拿出来作为样本、模式或警示的事例'],['法语相关形式 → 英语 example','例子；可效仿或引以为戒的事例']],
+ 'for example 例如；give an example 举个例子；set an example 树立榜样；make an example of someone 惩罚某人以警示他人。',
+ 'a good example of something；follow someone’s example。','example 可以好也可以坏，核心是可拿来说明的一例；exemplary 常赞好到足以成为榜样，二者不能一概都译成优秀。',
+ ('Could you give me an example?','你能给我举个例子吗？'),('She sets a good example for the younger players.','她为较年轻的球员树立了好榜样。'),sources=['https://www.etymonline.com/word/example','https://en.wiktionary.org/wiki/example#English'])
+W('exemplary','/ɪɡˈzempləri/','堪称楷模的、出色的；起警示作用的〔某些搭配〕',
+ '好到可以拿给别人看：“就照这个学。”这就是最常见的 exemplary。某些惩罚语境则取拿出来警示别人的另一面。',
+ '经法语 exemplaire、拉丁语 exemplaris 等与 exemplum 榜样、事例相连。现代可与 example 的词干 exempl- 和关系形容词材料对照。',
+ [['exemplum → exemplaris 等','可作例子、模式的'],['英语 exemplary 的评价分支','值得效仿的；某些搭配中起惩戒示范作用的']],
+ 'exemplary behaviour 模范行为；an exemplary record 出色的记录；exemplary conduct 堪称表率的表现。惩罚等专门搭配另按语境取警示义。',
+ 'an exemplary employee；exemplary service。','example 只说一例，exemplary 的普通评价通常包含值得效仿的赞赏；不要把 an example of bad practice 理解成 exemplary practice。',
+ ('Her conduct was exemplary throughout the trip.','整个旅途中，她的表现堪称表率。'),('The team has an exemplary safety record.','这个团队的安全记录非常出色。'),sources=['https://www.etymonline.com/word/exemplary','https://en.wiktionary.org/wiki/exemplary#English'])
+W('exemplify','/ɪɡˈzemplɪfaɪ/','是……的典型例子；举例说明',
+ '一个具体事物把抽象特点摆在眼前，就能说它 exemplifies 这个特点；人也能拿例子来说明观点。',
+ '经法语 exemplifier、中世纪拉丁语 exemplificare 等，接 exemplum 例子与使成、做的材料。英语不是近期单纯把 example 原样接 -ify。',
+ [['exemplum + 制作、使成材料 → exemplificare 等','拿例子说明、展示'],['英语 exemplify','作为典型体现；用例子说明']],
+ 'exemplify a trend 典型体现某种趋势；exemplify a principle 举例说明原则；be exemplified by 在……身上得到典型体现。',
+ 'exemplify the problem；exemplify good practice。','illustrate 也能说明，范围较广；exemplify 常突出用一个具体实例把一般特点、原则体现出来。原形尾 -fy 变过去式 exemplified。',
+ ('This small town exemplifies the changes taking place across the region.','这座小镇典型地体现了整个地区正在发生的变化。'),('The teacher used a short story to exemplify the principle.','老师用一个短故事举例说明这项原则。'),sources=['https://www.etymonline.com/word/example','https://en.wiktionary.org/wiki/exemplify#English'])
+W('title','/ˈtaɪtəl/','标题、书名；头衔、称号；冠军；所有权等',
+ '像给书、人或资格挂上一个名称标签：书的名字、人的职衔、赢下的冠军称号，都可以叫 title。某些场景也说拥有某物的权利。',
+ '接拉丁语 titulus 铭文、标签、标题、称号，经法语 title 与较早英语 titul 等路径延续，更远来源未定。由标识名称扩展到身份、资格与权利。',
+ [['拉丁语 titulus → 法语、英语相关形式','铭文、标签、标题与称号'],['现代 title 的主要分支','书名；职衔、称号；冠军、所有权等']],
+ 'the title of a book 书名；a job title 职位名称；win the title 赢得冠军；title to property 对财产的所有权。也能作动词给……命名。',
+ 'a title page；the world title。','title 是名称或称号，topic 是主题。书的 title 可以很短，主题却是书讨论的内容；体育 title 通常是冠军名号。',
+ ('What is the title of the book?','这本书叫什么名字？'),('She won the national title last year.','她去年获得了全国冠军。'),sources=['https://www.etymonline.com/word/title','https://en.wiktionary.org/wiki/title#English'])
+W('titled','/ˈtaɪtəld/','名为……的；有头衔、封号的',
+ '一本书已经被冠上某个名字，可以说 titled；一个家族具有贵族等头衔，也可以这样修饰。',
+ 'title + -ed。由给出标题、称号的动词形成分词，也用于拥有头衔这一状态。',
+ [['title 名称、称号及命名动词 + -ed','已经被命名、冠上称号的'],['titled 的常见修饰用法','名为某书名；有贵族等头衔的']],
+ 'a book titled “Home” 一本名为《家》的书；a titled family 有贵族头衔的家族；a titled aristocrat 有封号的贵族。',
+ 'a film titled “The River”；titled nobility。','titled 可以直接接作品名称；entitled 也可表示名为。entitled to something 的有资格义则是另一种搭配，不能把 to 随意删掉。',
+ ('She wrote a short story titled “The Window”.','她写了一个名为《窗》的短篇故事。'),('He came from a titled family.','他出身于一个有贵族头衔的家族。'))
+W('titular','英 /ˈtɪtjʊlə/；美 /ˈtɪtʃələr/','名义上的、空有头衔的；与标题同名的',
+ '人挂着某个头衔，却未必掌实权，是 titular head；人物名字就是作品名字，则可说 titular character。',
+ '经法语 titulaire、拉丁语 titularis 等接 titulus 标题、头衔。词干 titul- 与 -ar 关系形容词材料相连，保留名号与题名两面。',
+ [['titulus → titularis、titulaire 等','与标题、头衔有关的'],['英语 titular 的常用分支','名义上的；与作品标题同名的']],
+ 'the titular head 名义上的首脑；the titular character 与作品同名的角色；the titular role 同名角色。',
+ 'a titular leader；a titular hero。','titular 不总是空有名号的贬义。the titular character 只说明角色名与标题相同，不能据此说角色无实权。',
+ ('He was the titular head, but others made the decisions.','他是名义上的负责人，决定却由别人作出。'),('She plays the titular character in the film “Anna”.','她在电影《安娜》中饰演与片名同名的主角。'),sources=['https://www.etymonline.com/word/titular','https://en.wiktionary.org/wiki/titular#English'])
+W('entitled','/ɪnˈtaɪtəld/','有资格、有权得到的；名为……的；自认应受优待的',
+ 'be entitled to a copy 说有资格拿到一份；a book entitled “Home” 说书名；He’s entitled. 则常批评人觉得一切优待都理应归自己。',
+ 'entitle + -ed；entitle 经法语接拉丁语给出标题、称号的材料，延伸到赋予资格、权利。自认理应得到优待的评价义又由应得感发展。',
+ [['entitle 给名称、赋资格 + -ed','名为；有资格、权利的'],['entitled 的人物评价','自认无需付出就理应获得优待，常为贬义']],
+ 'be entitled to something 有权得到某物；be entitled to do 有权做某事；an entitled attitude 自认理应受优待的态度。',
+ 'feel entitled to something；a novel entitled “Home”。','entitled to 的资格可以是中性客观描述；an entitled person 常是负面评价。不能把这两种语气混成所有有权得到都叫自私。',
+ ('Every team member is entitled to a copy of the notes.','每位组员都有资格获得一份笔记。'),('The essay is entitled “A Quiet Street”.','这篇文章题为《安静的街道》。'),('His entitled attitude annoyed the other volunteers.','他那种自认理应受优待的态度让其他志愿者很不满。'),sources=['https://www.etymonline.com/word/entitle','https://www.oxfordlearnersdictionaries.com/definition/english/entitled','https://en.wiktionary.org/wiki/entitled#English'])
+W('character','英 /ˈkærɪktə/；美 /ˈkærəktər/','性格、品质；特征；角色；字符',
+ '一个人与别人不同的那套特点，是 character；作者给人物安排的特点组成角色；写下的一个符号，也保留了刻印、标记的老画面。',
+ '经法语、拉丁语接希腊语 kharakter 刻印工具、印记等，与 kharassein 刻写相连。刻出的区别标记，较早已被用于独有特点的比喻。',
+ [['希腊语刻印材料 → 法语、拉丁语、英语 character','印记、文字符号；独有特点'],['多条现代意义','性格、品质；作品人物；字符']],
+ 'a strong character 坚强的性格；a fictional character 虚构角色；Chinese characters 汉字；the character of a town 小镇特色。',
+ 'a person of good character；special characters。','character 的角色义指故事里的人物，actor 是扮演角色的演员；字符义则是书写、编码中的符号单位。',
+ ('The novel has several memorable characters.','小说里有几个令人难忘的角色。'),('Her character was shaped by years of hard work.','多年的艰苦工作塑造了她的性格。'),('The password must contain a special character.','密码须包含一个特殊字符。'),sources=['https://www.etymonline.com/word/character','https://en.wiktionary.org/wiki/character#English'])
+W('career','英 /kəˈrɪə/；美 /kəˈrɪr/','职业生涯；快速冲行〔动词〕',
+ '把多年工作看成一路走过的历程，而不只眼下一个职位，就是 career。旧的道路、疾驰画面在动词 career 中仍很明显。',
+ '法语 carriere 道路、赛道经意大利语、普罗旺斯语等路径，接拉丁语与 carrus 车辆相关的车行道路材料。由行进路线扩展为人生、职业历程。',
+ [['车辆相关道路材料 → 法语 carriere → 英语 career','道路、赛道；快速行进的路程'],['生涯义与保留的动词','职业历程；快速冲行']],
+ 'a career in medicine 医学职业生涯；change careers 转行；career development 职业发展；career down a hill 疾冲下坡。',
+ 'a long teaching career；a career change。','job 常指一份工作、岗位，career 常把工作历程、发展方向合起来看。一段 career 可以包括先后从事的多份 jobs。',
+ ('She built a successful career in engineering.','她在工程领域建立了成功的职业生涯。'),('The empty cart careered down the slope.','空车沿斜坡疾冲而下。'),sources=['https://www.etymonline.com/word/career','https://en.wiktionary.org/wiki/career#English'])
+W('guy','/ɡaɪ/','男人、家伙〔口语〕；拉索、牵索〔另源〕',
+ '日常说 a nice guy，就是一个不错的人、男人。帐篷等语境的 guy 则可能指固定用的拉索，走另一条历史。',
+ '人称义由 Guy Fawkes 的人物偶像称呼泛化，经衣着怪异者等义转成普通家伙、男人。拉索义另经法语 guie 等引导、支撑材料而来。',
+ [['Guy Fawkes 人物偶像称呼 → guy 的人称义','怪相人物等 → 普通男人、家伙'],['法语 guie 等 → guy 的索具义','引导、固定用的小绳索、拉索']],
+ 'a nice guy 不错的人；that guy over there 那边那个人；guy ropes 帐篷拉绳。普通人称义复数 guys。',
+ 'a friendly guy；a guy wire。','guy 的人称义很口语，正式描写可按对象用 man、person；索具义常在 ropes、wires 等器材语境中出现。',
+ ('He seems like a nice guy.','他看起来是个不错的人。'),('The tent was held in place by guy ropes.','帐篷由拉绳固定着。'),sources=['https://www.etymonline.com/word/guy','https://en.wiktionary.org/wiki/guy#English'])
+W('guys','/ɡaɪz/','男人们、伙计们；各位、你们〔某些口语语境〕',
+ '既可能指几个男人，也常在 you guys 中随意称呼面前的一群人。具体是否只指男性，要看场景和说话习惯。',
+ 'guy + 复数 -s；元音后 -s 读 /z/。口语群体称呼在复数使用中扩大，不要求每个语境都严格对应多个男人。',
+ [['guy 男人、家伙 + -s','几个男人、家伙'],['you guys 等口语群体称呼','在一些语境中可指混合性别群体的你们']],
+ 'those guys 那些人、那些男人；you guys 你们；Hi, guys! 各位好。属于随意称呼，群体和个人对此的习惯不同。',
+ 'a couple of guys；see you guys later。','guys 作第三人称描写时常指男性，作当面群体称呼时范围可能更广。正式场合可用 everyone 等更中性的群体称呼。',
+ ('Two guys were waiting by the door.','两个男人正在门边等着。'),('Are you guys ready to leave?','你们准备好出发了吗？'))
+def extend_lessons():
+    extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+    save('continuation_20261030_tu',ROOTS,WORDS)
+    extend_lessons()

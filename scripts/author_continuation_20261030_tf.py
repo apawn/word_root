@@ -1,0 +1,98 @@
+"""Further common manner and degree words, without literal suffix glosses."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'A1740':dict(words=['spontaneous','spontaneously','scarce','scarcely','cautious','cautiously','exponent','exponential','exponentially','hasty','hastily','unsuccessful','unsuccessfully','forceful','forcefully','rightful','rightfully','blatant','blatantly'],label='自发、稀少、谨慎与方式强弱',note='scarce → scarcely 有几乎不的语义发展；hasty → hastily 拼写 y 变 i。exponentially 在数学中有具体指数含义，口语还可宽泛强调变化迅速。'),
+ 'A1699':dict(words=['hasty','hastily'],label='匆忙形容词与相应副词',note='hasty 的现代形式可按 haste + -y 认识，但历史还与较早法语 hastif、hasti 等形式相连；hasty + -ly → hastily。'),
+}
+W('spontaneously','英 /spɒnˈteɪniəsli/；美 /spɑːnˈteɪniəsli/','自发地；未经预先安排地；自然涌现地',
+ '没有事先喊口令、排计划，事情自己从当时的情境里发生。听众自发鼓掌，念头自然冒出来，都可以这样说。',
+ 'spontaneous 自发的 + -ly；更早接拉丁 spontaneus 自愿、自发词族，联系自身意愿、推动的材料。',
+ [['spontaneous 的自愿、自发性质','非外部预先安排的反应、发生'],['spontaneous + -ly → spontaneously','自发地；自然发生、涌现地']],
+ 'applaud spontaneously 自发鼓掌；arise spontaneously 自然出现；laugh spontaneously 自然地笑出来。科学术语中的自发还要按该领域定义理解。',
+ 'respond spontaneously；an idea came spontaneously。','spontaneously 重在没有预先安排或外在指令；suddenly 重在时间上突然。一个动作可以两者都有，也可以只是其中一个。',
+ ('The audience spontaneously began to clap.','观众自发地鼓起掌来。'),('The idea came to her spontaneously during the walk.','散步时，她自然地冒出了这个念头。'))
+W('scarce','英 /skeəs/；美 /skers/','稀缺的、不足的；不容易得到的',
+ '需要的人多，可供拿到的东西少。scarce 不只数有多少，也常暗示不够用、难找到。',
+ '经中古英语接古法语 escars 等吝啬、少量材料，更远来源未定，联系拉丁摘出、挑选材料只是其中一种分析。现代固定为供应少、不足。',
+ [['法语少量、吝啬等旧材料 → 英语 scarce','不充分、给得少'],['现代 scarce','可得数量少；相对需求不足']],
+ 'scarce resources 稀缺资源；water is scarce 水很缺；jobs are scarce 工作机会少。与需要、可得性常有联系。',
+ 'make oneself scarce；scarce supplies。','rare 常说少见，scarce 常说不够、难得到。一种 rare bird 是少见的鸟；scarce water 强调水不够用。',
+ ('Water becomes scarce during the dry season.','旱季水会变得短缺。'),('Affordable rooms are scarce in this area.','这一带价格负担得起的房间很难找。'))
+W('scarcely','英 /ˈskeəsli/；美 /ˈskersli/','几乎不、几乎没有；勉强、刚刚',
+ '数量或程度少到只剩一点边缘。scarcely hear 是几乎听不见，scarcely enough 则像刚刚挨到够用的线。',
+ 'scarce 稀少、不足 + -ly；由数量不足的材料发展为几乎不、勉强达到的副词。现代不能每次硬译成稀少地。',
+ [['scarce 的不充足性质 + -ly','数量、程度接近没有或不足'],['scarcely 的固定副词用法','几乎不；只勉强达到']],
+ 'scarcely any time 几乎没有时间；could scarcely hear 几乎听不清；scarcely enough 勉强够。句子一般已含否定意味，不必再机械加 not。',
+ 'scarcely visible；scarcely enough room。','scarcely、hardly 在几乎不的用法接近；scarcely 不是 simply rarely 很少发生。前者程度接近零，后者常说频率低。',
+ ('I could scarcely hear her over the noise.','噪声太大，我几乎听不见她说话。'),('There was scarcely enough room for the two boxes.','地方勉强够放下那两个箱子。'))
+W('cautiously','/ˈkɔːʃəsli/','谨慎地、小心翼翼地；有所保留地',
+ '知道可能有风险、信息还不齐，所以动作慢一点、判断留一点余地。既能说走路，也能说态度。',
+ 'cautious 谨慎的 + -ly；更早接拉丁 cautio 防备、谨慎及 cavere 留心、防范的词族。',
+ [['caution 相关词族 → cautious','留心可能的风险'],['cautious + -ly → cautiously','小心行动；保留判断空间']],
+ 'move cautiously 小心移动；respond cautiously 谨慎回应；cautiously optimistic 谨慎乐观：有希望，同时不把结论说满。',
+ 'proceed cautiously；cautiously approach。','cautiously 不必等于害怕；它可以是有意识地控制风险、等更多信息。carelessly 则是疏忽、不小心。',
+ ('She stepped cautiously onto the icy path.','她小心翼翼地踏上结冰的小路。'),('The team remained cautiously optimistic about the result.','团队对结果仍持谨慎乐观态度。'))
+W('exponentially','英 /ˌekspəʊˈnenʃəli/；美 /ˌekspoʊˈnenʃəli/','以指数方式；迅速增长地〔口语中有较宽泛用法〕',
+ '最容易想的例子是每隔同样时间翻一倍：先一份、再两份、四份、八份。指数变化看的是乘法比例。',
+ 'exponential 指数的 + -ly；exponential 又接 exponent 指数词族。数学意义保留指数函数关系，口语常借来强调变化越来越快。',
+ [['exponent → exponential','指数 → 指数形式的'],['exponential + -ly → exponentially','按指数关系变化；口语再作快速增长的强调']],
+ 'grow exponentially 按指数增长；decay exponentially 指数衰减。正倍率大于一可增长，在零与一之间可衰减，所以并不只指越变越大。',
+ 'increase exponentially；an exponentially decaying signal。','线性变化可每步加同样数量，指数变化可每步乘同样比例。口语的快速不一定满足精确数学定义，读技术文本时要分清。',
+ ('The number doubled every hour, growing exponentially.','数量每小时翻一倍，呈指数增长。'),('The signal decayed exponentially over time.','信号随时间呈指数衰减。'))
+W('hasty','/ˈheɪsti/','匆忙的；草率、欠考虑的',
+ '时间赶得太紧，动作做得快，考虑可能没跟上。hasty 常比普通 quick 多一点仓促、没想周全的感觉。',
+ '现代对应 haste 匆忙 + -y；中古英语形式也可能受较早法语 hastif、hasti 等影响。不同分析都与匆忙、急促的词族有关。',
+ [['haste 及法语相邻形式的匆忙材料','急迫、行动很快'],['英语 hasty','匆忙的；再说考虑不足、草率的']],
+ 'a hasty decision 草率决定；a hasty departure 匆忙离开；a hasty reply 仓促回复。是否带明显批评，要看搭配。',
+ 'a hasty conclusion；a hasty breakfast。','quick 可以只是高效、迅速；hasty 经常暗示急于完成、可能忽略细节。二者不能在所有表扬句里互换。',
+ ('They made a hasty decision without checking the facts.','他们没有核实事实就草率作了决定。'),('After a hasty breakfast, she left for the station.','匆匆吃过早餐后，她便动身去车站。'),sources=['https://www.etymonline.com/word/hasty','https://en.wiktionary.org/wiki/hasty#English'])
+W('hastily','/ˈheɪstɪli/','匆忙地；草率地',
+ '动作像被时间推着走。可能只是来不及，也可能因为太赶而没有检查、考虑充分。',
+ 'hasty + -ly，词末 y 变 i；较早英语已有相关副词。匆忙的性质转为做事方式。',
+ [['hasty 匆忙、草率的 + -ly','拼写 y 变 i'],['hastily','赶着做；缺少充分考虑地做']],
+ 'leave hastily 匆忙离开；hastily written 匆匆写成的；hastily agree 草率同意。动作、决定都可以被评价。',
+ 'hastily prepared；reply hastily。','hastily 不只是速度快，还可能暗示缺少准备。quickly 作速度说明时更中性。',
+ ('He hastily packed his bag and ran out.','他匆忙收好包，跑了出去。'),('The proposal had been hastily prepared.','提案是仓促准备出来的。'))
+W('unsuccessfully','/ˌʌnsəkˈsesfəli/','未能成功地；没有达到目的地',
+ '努力、申请或尝试发生了，但结果没有达到想要的目标。重点在这一次没成功。',
+ 'unsuccessful 不成功的 + -ly；也可按 un- 否定 + successfully 认识，success 词族更早接继起、结果的发展。',
+ [['successful 成功的 → unsuccessful','否定达到目标的结果'],['unsuccessful + -ly → unsuccessfully','做过尝试，但未获得所求结果']],
+ 'try unsuccessfully 尝试但未成功；apply unsuccessfully 申请未成功；search unsuccessfully 寻找却没找到。修饰尝试、行动的结果。',
+ 'attempt unsuccessfully；unsuccessfully seek help。','unsuccessfully 评价某次行动的结果，不直接给一个人贴永久失败的标签。failed to do 与 tried unsuccessfully 有时可表达相近意思。',
+ ('She tried unsuccessfully to open the old window.','她试着打开旧窗户，但没能打开。'),('We searched unsuccessfully for the missing key.','我们找了那把丢失的钥匙，却没有找到。'))
+W('forcefully','英 /ˈfɔːsfəli/；美 /ˈfɔːrsfəli/','有力地、强烈地；强有力地',
+ '用足力量把动作做出来，或把观点说得坚定、很有冲击力。力道可以在手上，也可以在表达里。',
+ 'forceful 有力的 + -ly；force + -ful 形成充满力量这一性质，再转成方式副词。',
+ [['force + -ful → forceful','有力量、力度的'],['forceful + -ly → forcefully','有力行动；强烈表达']],
+ 'speak forcefully 说得强有力；argue forcefully 有力论证；push forcefully 用力推。语境决定身体力量还是论述力度。',
+ 'respond forcefully；state a point forcefully。','forcefully 强调有力；forcibly 常强调使用强力、强迫。把观点说得有力，不等于强迫别人接受。',
+ ('She forcefully explained why the plan needed to change.','她有力地说明了为什么计划需要调整。'),('He pushed the heavy gate forcefully.','他用力推那扇沉重的大门。'))
+W('rightfully','/ˈraɪtfəli/','正当地；按应有权利地；理所应当地',
+ '某物本该属于谁，某种认可本来就值得谁得到，rightfully 把这份正当、应得说出来。',
+ 'rightful 合法、正当、应得的 + -ly；较早中古英语已有相关形式。right 的正当、权利材料在此词族中发展。',
+ [['right + -ful → rightful','有正当资格、归属的'],['rightful + -ly → rightfully','按应有资格；合乎正当地']],
+ 'rightfully belong to 正当地属于；rightfully proud 有充分理由自豪；rightfully claim 合理主张。具体理由仍由上下文给出。',
+ 'rightfully hers；rightfully recognized。','rightly 常说判断、做法正确；rightfully 更突出资格、应得或正当理由。有时二者接近，但侧重点不同。',
+ ('The painting rightfully belongs to the museum.','这幅画本该属于博物馆。'),('She was rightfully proud of her achievement.','她有充分理由为自己的成就感到自豪。'))
+W('blatant','/ˈbleɪtənt/','明目张胆的；十分明显而令人反感的',
+ '坏事、错误或不尊重就摆在眼前，明显到很难装作没看见。blatant 通常把明显和负面评价绑在一起。',
+ 'Edmund Spenser 在十六世纪文学中用 blatant 描写吵闹的怪兽；来源有拟叫声、相关旧词或拉丁 blatire 等分析，不能强定唯一词根。后来从喧闹刺耳发展为刺眼地明显。',
+ [['文学造词 blatant beast 的喧闹形象','令人反感、难忽略的声音'],['一般词汇的语义发展','喧闹、刺眼 → 明显而不加掩饰的坏现象']],
+ 'a blatant lie 明摆着的谎言；blatant disregard 公然无视；a blatant error 显而易见的错误。通常不拿它中性称赞一种美。',
+ 'blatant disrespect；a blatant contradiction。','obvious 可以中性说明明显；blatant 常带不满、批评。它不必证明行为一定故意，重点是问题十分显眼。',
+ ('The claim was a blatant lie.','那个说法明摆着是谎言。'),('The report contained a blatant error.','报告里有一个十分明显的错误。'),sources=['https://www.etymonline.com/word/blatant','https://en.wiktionary.org/wiki/blatant#English'])
+W('blatantly','/ˈbleɪtəntli/','明目张胆地；明显得令人反感地',
+ '问题不是藏得很深，而是直接摆出来，旁人很容易看到。常带一句这也太明显了的批评。',
+ 'blatant 明显而令人反感的 + -ly。副词把负面评价用于行为、性质或一句话的真假。',
+ [['blatant 的公然、显眼性质','问题难以掩饰'],['blatant + -ly → blatantly','公开地表现问题；明显地不对、失当']],
+ 'blatantly false 明显虚假的；blatantly unfair 明显不公的；blatantly ignore 公然无视。与明显负面的词搭配很常见。',
+ 'blatantly obvious；blatantly disregard。','plainly、obviously 更容易中性使用；blatantly 通常顺便表达批评。blatantly unfair 不只是在汇报看得清。',
+ ('The statement was blatantly false.','那份声明明显不实。'),('The player blatantly ignored the rules.','那名运动员公然无视规则。'))
+def extend_lessons():
+    extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+    save('continuation_20261030_tf',ROOTS,WORDS)
+    extend_lessons()

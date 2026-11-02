@@ -1,0 +1,122 @@
+[
+  {
+    "id": "B2643",
+    "meaning": "轰鸣、强劲增长与荷兰语杆件的不同来源",
+    "core": "BOOM：听声音、看增长；杆件另有来路",
+    "image": "boom → booming / boomer / kaboom；bumpkin 联系荷兰语树、杆的小称一线。",
+    "intro": "不要把一切都画成爆炸：话筒 boom 是杆，baby boom 是出生数量激增，bumpkin 的旧形象也从另一历史线来。",
+    "forms": "拟声 boom；增长义比喻形成；荷兰 boom → 杆件 boom；boomken 等 → bumpkin；ka- 加强，-ing、-er 形成相应词。",
+    "branches": [
+      [
+        "响声与强劲增长",
+        "boom · booming · kaboom"
+      ],
+      [
+        "世代与另一来源的人物词",
+        "boomer · bumpkin"
+      ]
+    ],
+    "contrasts": "boomer 世代名不等于所有老年人；bumpkin 有贬义；吊杆 boom 不是轰响才得名。",
+    "practice": "The boomer spoke in a booming voice while a microphone boom hung overhead.\n\n那位婴儿潮世代成员洪亮地说着话，头顶悬着话筒吊杆。",
+    "words": [
+      "boom",
+      "booming",
+      "kaboom",
+      "boomer",
+      "bumpkin"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4163",
+    "meaning": "靠虚假取得好处，及实施者",
+    "core": "FRAUD：表象骗人；FRAUDSTER：实施的人",
+    "image": "fraud 行为、骗局或冒牌者 → fraudster 人物称呼。",
+    "intro": "先看可数性和句子：evidence of fraud 说欺诈证据，a fraud 可能说骗子、骗局，feel like a fraud 又可只是觉得自己不配。",
+    "forms": "fraus / fraud- → fraude → fraud；fraud + -ster。\n\nfraudulent 借法语、拉丁 fraudulentus 欺骗的，来自 fraus 欺骗词干。现代可与 fraud 对照，但不是临时在英语 fraud 后机械加一个常用后缀。",
+    "branches": [
+      [
+        "欺诈与实施者",
+        "fraud · fraudster"
+      ],
+      [
+        "fraud 欺骗词族 → fraudulent",
+        "fraudulent"
+      ]
+    ],
+    "contrasts": "fraud 不等于任何出错；feel like a fraud 不必是自认诈骗；suspected 不等于已证实。",
+    "practice": "The article describes evidence of fraud linked to an alleged fraudster.\n\n文章描述了与一名被指控的诈骗者有关的欺诈证据。",
+    "words": [
+      "fraud",
+      "fraudster",
+      "fraudulent"
+    ],
+    "exclude": {
+      "e-fraud": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4565",
+    "meaning": "活下来这一目标，及提前准备的人",
+    "core": "SURVIVAL：活下来；SURVIVALIST：提前围绕生存作准备的人",
+    "image": "survival → survivalist；survivor 幸存者另按经历理解。",
+    "intro": "想活下去是一件事，把可能的紧急情况作为重点提前准备又是一种取向。词尾帮助区分身份，不把所有幸存者都归成同一群体。",
+    "forms": "survive → survival；survival + -ist。",
+    "branches": [
+      [
+        "生存目标与准备者",
+        "survival · survivalist"
+      ]
+    ],
+    "contrasts": "survivalist 不是 survivor 的随意长拼写；词本身不规定统一政治立场。",
+    "practice": "The survivalist discusses survival as a problem to prepare for.\n\n那位生存准备者把生存当成需要预先准备的问题来讨论。",
+    "words": [
+      "survival",
+      "survivalist"
+    ],
+    "exclude": {
+      "self-survival": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2771",
+    "meaning": "膝部、以膝着地与相应部件",
+    "core": "KNEE：开头 k 不读；KNEEL：靠膝着地",
+    "image": "knee → kneel；kneecap 按盖在膝前的骨性部位命名。",
+    "intro": "先区分站着屈膝和跪地。拼写保存旧开头，现代 knee、kneel、kneecap 都不能逐字读出 k。",
+    "forms": "cnēow → knee；cnēowlian → kneel；knee + cap → kneecap；kneel 的过去式、分词 knelt / kneeled。\n\nknees 的 k 不发音，复数读 /niːz/；on your knees 说跪着的姿态。\n\nkneel 承古英语膝部动作词；kneeled 和 knelt 都是现代过去式、分词，knelt 是后来类推形成，并非必然更古老。",
+    "branches": [
+      [
+        "部位、动作与骨性名称",
+        "knee · kneel · kneecap"
+      ],
+      [
+        "knee → knees：膝盖、衣裤膝部与姿势",
+        "knee · knees"
+      ],
+      [
+        "knee 与 kneel：膝盖和跪下",
+        "knee · kneel · kneels · kneeled · knelt · kneeling"
+      ]
+    ],
+    "contrasts": "knee 开头 k 静音；knees 末尾 /z/；knelt 与 kneeled 都可用；kneeling 不只宗教或臣服。",
+    "practice": "She knelt on one knee beside the model of a kneecap.\n\n她在膝盖骨模型旁单膝跪下。",
+    "words": [
+      "knee",
+      "kneel",
+      "kneecap",
+      "knees",
+      "kneels",
+      "kneeled",
+      "knelt",
+      "kneeling"
+    ],
+    "exclude": {
+      "knee-high": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "knee-deep": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "knee-jerk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "knee-breeches": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kneed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "word": "winemaker",
+    "ipa": "英 /ˈwaɪnmeɪkə/；美 /ˈwaɪnmeɪkər/",
+    "meaning": "葡萄酒酿造者、酿酒师",
+    "sense": "把葡萄、发酵与后续处理变成一款酒的人或酿造方。不是只会倒酒、推荐酒的服务人员。",
+    "split": "wine 葡萄酒 + maker 制作者；中古英语已有 wynmaker 等写法。可以说现代组合，也保留很早的复合词历史。",
+    "history": [
+      [
+        "拉丁 vīnum → 早期日耳曼语借词 → 古英语 wīn → wine",
+        "葡萄酒；英语保留早期借入的酒名"
+      ],
+      [
+        "wine + maker → 中古英语 wynmaker → winemaker",
+        "制作葡萄酒的人"
+      ]
+    ],
+    "explanation": "a local winemaker 当地酿酒师，an experienced winemaker 有经验的酿酒师，meet the winemaker 见酿酒者。",
+    "usage": "a local winemaker；an experienced winemaker；meet the winemaker。",
+    "contrast": "winemaker 酿酒，winegrower 栽培酿酒葡萄，sommelier 侍酒师常负责选酒与服务；一个人可兼任，但名称侧重点不同。",
+    "examples": [
+      [
+        "The winemaker explained how the grapes were selected.",
+        "酿酒师解释了怎样挑选葡萄。"
+      ],
+      [
+        "Several local winemakers took part in the festival.",
+        "几位当地酿酒师参加了节庆活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/winemaker#English"
+    ]
+  },
+  {
+    "word": "wino",
+    "ipa": "英 /ˈwaɪnəʊ/；美 /ˈwaɪnoʊ/",
+    "meaning": "酒鬼〔俚语，通常带贬义〕",
+    "sense": "把人贴上老喝酒、喝得失控的标签，口气不客气；不是爱品葡萄酒者的中性职业名。",
+    "split": "wine + 人物名词尾 -o，形成俚语称呼。另有粒子物理学同形 wino，来自 W 与 -ino 的命名，读音、来源另辨，不并入酒义。",
+    "history": [
+      [
+        "拉丁 vīnum → 早期日耳曼语借词 → 古英语 wīn → wine",
+        "葡萄酒；英语保留早期借入的酒名"
+      ],
+      [
+        "wine + -o → wino",
+        "常饮酒者的贬义俚称"
+      ]
+    ],
+    "explanation": "a wino 常见于小说、旧报道或人物对白，可能带污名。阅读知道意思即可，称呼真实的人更宜用具体、尊重的说法。",
+    "usage": "a wino；the word wino；a character called a wino。",
+    "contrast": "wine lover 爱酒者中性得多，wino 通常贬义；不要把所有喝葡萄酒的人都叫 wino。",
+    "examples": [
+      [
+        "The narrator dismisses the old man as a wino.",
+        "叙述者轻蔑地把老人叫作酒鬼。"
+      ],
+      [
+        "The editor replaced wino with a more respectful description.",
+        "编辑把 wino 换成了更尊重人的描述。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wino#English"
+    ]
+  },
+  {
+    "word": "ghostwriter",
+    "ipa": "英 /ˈɡəʊstraɪtə/；美 /ˈɡoʊstraɪtər/",
+    "meaning": "代笔者、代笔作家",
+    "sense": "真正把文字写出来的人，作品主要以别人的名字出现；ghost 借看不见的身影来表现幕后写作。",
+    "split": "ghost 幽灵、隐身的存在 + writer 作者，合成幕后代笔者的名称。两个材料并列组合，不是 ghost 先变成 writer。",
+    "history": [
+      [
+        "古英语 wrītan → write",
+        "刻写、写"
+      ],
+      [
+        "write + -er → writer",
+        "从事写作的人"
+      ],
+      [
+        "ghost + writer → ghostwriter",
+        "在署名者背后写作的人"
+      ]
+    ],
+    "explanation": "hire a ghostwriter 雇代笔者，work with a ghostwriter 与代笔者合作，a memoir’s ghostwriter 回忆录代笔者。合作可以公开承认，不保证永远没人知道。",
+    "usage": "hire a ghostwriter；work with a ghostwriter；a memoir’s ghostwriter。",
+    "contrast": "ghostwriter 代笔侧重实际写作与主要署名者分离；editor 编辑侧重整理修改，coauthor 合著者通常共同署名，具体工作仍可重叠。",
+    "examples": [
+      [
+        "She worked with a ghostwriter on her memoir.",
+        "她和一位代笔作家合作完成回忆录。"
+      ],
+      [
+        "The ghostwriter interviewed him before drafting the first chapter.",
+        "代笔作家先采访了他，再起草第一章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ghostwriter#English"
+    ]
+  },
+  {
+    "word": "speechwriter",
+    "ipa": "英 /ˈspiːtʃraɪtə/；美 /ˈspiːtʃraɪtər/",
+    "meaning": "演讲稿撰写人",
+    "sense": "替发言人把要说的话整理成能讲给听众听的稿子；speech 在这里是一场讲话，不是语言能力本身。",
+    "split": "speech 演讲 + writer 撰稿者，按写作对象命名。说话的人与写稿的人可以不同。",
+    "history": [
+      [
+        "古英语 wrītan → write",
+        "刻写、写"
+      ],
+      [
+        "write + -er → writer",
+        "从事写作的人"
+      ],
+      [
+        "speech + writer → speechwriter",
+        "以演讲稿为工作对象的写作者"
+      ]
+    ],
+    "explanation": "a political speechwriter 政治演讲稿撰写人，the chief speechwriter 首席演讲撰稿人，work as a speechwriter 做演讲撰稿工作。",
+    "usage": "a political speechwriter；the chief speechwriter；work as a speechwriter。",
+    "contrast": "speechwriter 写稿，speaker 演讲者；speechwriter 可做代笔，但词本身只说稿件类型，不保证署名、合作方式。",
+    "examples": [
+      [
+        "The speechwriter revised the opening paragraph.",
+        "演讲撰稿人修改了开头一段。"
+      ],
+      [
+        "A good speechwriter thinks about how the words will sound aloud.",
+        "好的演讲撰稿人会考虑文字念出来是什么感觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speechwriter#English"
+    ]
+  },
+  {
+    "word": "driverless",
+    "ipa": "英 /ˈdraɪvələs/；美 /ˈdraɪvərləs/",
+    "meaning": "无人驾驶的、没有司机的",
+    "sense": "车里没有坐着负责驾驶的司机；-less 拿掉的是 driver，不是车没动力、没法移动。",
+    "split": "driver + -less，表示没有驾驶员。现代常用于自动驾驶车辆，也可只描述某一刻无人驾驶的状态，须看上下文。",
+    "history": [
+      [
+        "古英语 drīfan → drive",
+        "驱使向前、赶动"
+      ],
+      [
+        "drive + -er → driver",
+        "驱动的人或物；司机"
+      ],
+      [
+        "driver + -less → driverless",
+        "没有驾驶员的"
+      ]
+    ],
+    "explanation": "a driverless train 无人驾驶列车，a driverless car 无人驾驶汽车，driverless technology 无人驾驶技术。",
+    "usage": "a driverless train；a driverless car；driverless technology。",
+    "contrast": "driverless 描述没有司机，不直接保证是哪级自动化、更不自动保证任何情况下都安全；automatic 自动也未必说整车无人驾驶。",
+    "examples": [
+      [
+        "The airport uses a driverless train between terminals.",
+        "机场用无人驾驶列车连接航站楼。"
+      ],
+      [
+        "The article discusses public attitudes toward driverless cars.",
+        "文章讨论公众对无人驾驶汽车的态度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/driverless#English"
+    ]
+  },
+  {
+    "word": "screwdriver",
+    "ipa": "英 /ˈskruːdraɪvə/；美 /ˈskruːdraɪvər/",
+    "meaning": "螺丝刀；螺丝起子；同名鸡尾酒",
+    "sense": "让螺丝旋进、旋出的工具。driver 不只赶车的人，也可把某物推进去的器具。",
+    "split": "screw 螺丝 + driver 驱动器具，合成工具名。酒名是后来同形用法，常指伏特加加橙汁，不靠某个未经确证的酒吧故事来硬解释命名。",
+    "history": [
+      [
+        "古英语 drīfan → drive",
+        "驱使向前、赶动"
+      ],
+      [
+        "drive + -er → driver",
+        "驱动的人或物；司机"
+      ],
+      [
+        "screw + driver → screwdriver",
+        "驱动螺丝的工具；后来也作酒名"
+      ]
+    ],
+    "explanation": "a Phillips screwdriver 十字螺丝刀，a flathead screwdriver 一字螺丝刀，tighten a screw with a screwdriver 用螺丝刀拧紧螺丝。",
+    "usage": "a Phillips screwdriver；a flathead screwdriver；use a screwdriver。",
+    "contrast": "screwdriver 拧螺丝，wrench/spanner 常拧螺母、螺栓；driver 在工具名里不必是人。",
+    "examples": [
+      [
+        "She tightened the loose screw with a screwdriver.",
+        "她用螺丝刀拧紧了松动的螺丝。"
+      ],
+      [
+        "There is a small screwdriver in the toolbox.",
+        "工具箱里有一把小螺丝刀。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screwdriver#English"
+    ]
+  },
+  {
+    "word": "piledriver",
+    "ipa": "英 /ˈpaɪlˌdraɪvə/；美 /ˈpaɪlˌdraɪvər/",
+    "meaning": "打桩机；猛烈的一击〔比喻〕；摔角动作名",
+    "sense": "把长桩向地下打进去的机器；pile 在这里是承重用的桩，driver 是把它驱入的东西。",
+    "split": "pile 桩 + driver 打入器具，合成工程机器名。也见分写 pile driver；这里保留不带连字符的词头。体育、口语可借强烈向下冲击的形象。",
+    "history": [
+      [
+        "古英语 drīfan → drive",
+        "驱使向前、赶动"
+      ],
+      [
+        "drive + -er → driver",
+        "驱动的人或物；司机"
+      ],
+      [
+        "pile〔桩〕+ driver → piledriver",
+        "把桩打入地面的机器；再有猛烈冲击的比喻"
+      ]
+    ],
+    "explanation": "a piledriver on the construction site 工地打桩机，the noise of a piledriver 打桩机噪声；报道中 a piledriver of a shot 可形容势大力沉的射门。",
+    "usage": "a piledriver；the noise of a piledriver；a piledriver of a shot。",
+    "contrast": "pile 在此不是 a pile of books 一堆书；driver 在此是机器，不能译为开一堆东西的人。",
+    "examples": [
+      [
+        "We could hear the piledriver from the construction site.",
+        "我们能听见工地打桩机的声音。"
+      ],
+      [
+        "The engineer checked the position of the piledriver.",
+        "工程师检查了打桩机的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/piledriver#English"
+    ]
+  }
+]

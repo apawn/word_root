@@ -1,0 +1,928 @@
+[
+  {
+    "word": "god",
+    "ipa": "英 /ɡɒd/；美 /ɡɑːd/",
+    "meaning": "神；神灵；上帝〔常大写 God〕",
+    "sense": "神话、宗教里具有超越凡人力量的存在；说一个神，与把某一位神当专称，写法会不同。",
+    "split": "接古英语 god、经中古英语延续，属日耳曼语继承词。不能仅凭拼写把 god 当作 good“好”的缩写。",
+    "history": [
+      [
+        "古英语 god → 中古英语 god",
+        "神、神灵"
+      ],
+      [
+        "英语 god / God",
+        "神；特定信仰中用作专称的上帝、神"
+      ]
+    ],
+    "explanation": "a Greek god 指一位希腊神，God 在一神教语境常作专称；the gods 可指众神。也可夸张称极受崇拜的人，a guitar god 是吉他界大神。",
+    "usage": "a god of；the gods；believe in God；a guitar god。",
+    "contrast": "god 神与 good 好不是今天可直接互换的词；goddess 明确女性神祇。不同信仰中的指称按上下文理解。",
+    "examples": [
+      [
+        "The statue represents a god of the sea.",
+        "雕像表现的是一位海神。"
+      ],
+      [
+        "The novel imagines a world in which the gods live among humans.",
+        "小说设想了一个众神与人类共同生活的世界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/god#English"
+    ]
+  },
+  {
+    "word": "goddess",
+    "ipa": "英 /ˈɡɒdəs/；美 /ˈɡɑːdəs/",
+    "meaning": "女神；被赞美女性〔比喻〕",
+    "sense": "神话里的女性神祇；赞人时也借女神形象表达仰慕。",
+    "split": "god + -ess，中古英语有 goddesse；-ess 是传统女性称谓后缀，接时出现 dd。",
+    "history": [
+      [
+        "古英语 god → 中古英语 god",
+        "神、神灵"
+      ],
+      [
+        "英语 god / God",
+        "神；特定信仰中用作专称的上帝、神"
+      ],
+      [
+        "god + -ess → goddess",
+        "女性神祇；比喻受赞美的女性"
+      ]
+    ],
+    "explanation": "a goddess of wisdom 是智慧女神。称现实女性 goddess 可能是夸赞或亲昵称呼，不是普通职业称谓。",
+    "usage": "a goddess of；a Greek goddess；a statue of a goddess。",
+    "contrast": "goddess 是神话身份或夸张称呼；queen 是女王、王后等身份，也可比喻，但来路不同。",
+    "examples": [
+      [
+        "Athena is a Greek goddess associated with wisdom.",
+        "雅典娜是与智慧有关的希腊女神。"
+      ],
+      [
+        "The painting shows a goddess standing beside a river.",
+        "画中一位女神站在河边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/goddess#English"
+    ]
+  },
+  {
+    "word": "godlike",
+    "ipa": "英 /ˈɡɒdlaɪk/；美 /ˈɡɑːdlaɪk/",
+    "meaning": "像神一样的；非凡的",
+    "sense": "力量、能力或威严超出常人，像把神话里的本领搬到眼前。",
+    "split": "god + -like（像……的），不是 like 作喜欢的动词。",
+    "history": [
+      [
+        "god；-like",
+        "并列组合的两部分"
+      ],
+      [
+        "godlike",
+        "具有神一般特征的"
+      ]
+    ],
+    "explanation": "godlike powers 是神一般的力量，godlike status 是近乎被奉为神的地位；可以夸张，也能批评别人自视过高。",
+    "usage": "godlike powers；godlike status；a godlike figure。",
+    "contrast": "godlike 强调像神的能力或地位，godly 常说虔诚、合乎宗教道德；很能打不自动等于虔诚。",
+    "examples": [
+      [
+        "The hero gains godlike powers near the end of the story.",
+        "故事接近结尾时，主角获得了神一般的力量。"
+      ],
+      [
+        "Fans gave the singer an almost godlike status.",
+        "歌迷几乎把这位歌手捧到了神一般的地位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godlike#English"
+    ]
+  },
+  {
+    "word": "demigod",
+    "ipa": "英 /ˈdemiɡɒd/；美 /ˈdemiɡɑːd/",
+    "meaning": "半神；被极度崇拜的人",
+    "sense": "一脚在神的世界，一脚在人间；神话常用来称神与凡人的后代。",
+    "split": "demi-（半）+ god，模仿拉丁 semideus 的半神构词。不同神话体系中的具体身份并不完全一样。",
+    "history": [
+      [
+        "demi-〔半〕；god",
+        "并列组合的两部分"
+      ],
+      [
+        "demigod",
+        "半神；被奉为近乎神明的人"
+      ]
+    ],
+    "explanation": "a demigod 可指半神英雄，也可夸张说某名人被当成不可质疑的人物。不是宗教史上所有较小的神都按统一血缘比例划分。",
+    "usage": "a mythical demigod；a demigod of；treat someone as a demigod。",
+    "contrast": "demigod 是身份、类别，godlike 是像神的特征；普通人能被比作 godlike，不等于神话中真的有神的父母。",
+    "examples": [
+      [
+        "The game lets players choose a demigod as their hero.",
+        "游戏让玩家选择一位半神当主角。"
+      ],
+      [
+        "His followers treated him as a demigod.",
+        "追随者几乎把他奉为神明。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/demigod#English"
+    ]
+  },
+  {
+    "word": "godly",
+    "ipa": "英 /ˈɡɒdli/；美 /ˈɡɑːdli/",
+    "meaning": "虔诚的；敬神的；合乎宗教道德的",
+    "sense": "生活按信仰里认为正当的方式来过，心里常把神放在前面。",
+    "split": "god + -ly，这里的 -ly 形成形容词，与古英语相应形容词形式有联系；不是因为以 ly 结尾就一定是副词。",
+    "history": [
+      [
+        "古英语 god → 中古英语 god",
+        "神、神灵"
+      ],
+      [
+        "英语 god / God",
+        "神；特定信仰中用作专称的上帝、神"
+      ],
+      [
+        "god + 形容词后缀 -ly → godly",
+        "敬神、虔诚的"
+      ]
+    ],
+    "explanation": "a godly life 是虔诚生活，a godly person 是敬神的人。常见于宗教、历史语境，评价标准来自说话人的信仰背景。",
+    "usage": "a godly life；a godly person；godly conduct。",
+    "contrast": "godly 虔诚，godlike 像神；friendly、lovely 一样提醒你：-ly 结尾也能是形容词。",
+    "examples": [
+      [
+        "The text describes his ideal of a godly life.",
+        "文本描写了他心目中虔诚生活的理想。"
+      ],
+      [
+        "She was respected as a kind and godly woman.",
+        "人们敬重她，认为她善良而虔诚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godly#English"
+    ]
+  },
+  {
+    "word": "ungodly",
+    "ipa": "英 /ʌnˈɡɒdli/；美 /ʌnˈɡɑːdli/",
+    "meaning": "不虔诚的；邪恶的〔评价用语〕；离谱的〔口语〕",
+    "sense": "宗教评价里说不合敬神的规范；日常抱怨时把程度夸张成“这也太不像话了”。",
+    "split": "un-（不）+ godly，中古英语已有 ungodli 等形式。夸张口语义从不合宜、恶劣的评价延伸。",
+    "history": [
+      [
+        "古英语 god → 中古英语 god",
+        "神、神灵"
+      ],
+      [
+        "英语 god / God",
+        "神；特定信仰中用作专称的上帝、神"
+      ],
+      [
+        "godly → un- + godly → ungodly",
+        "不虔诚；引申为离谱、令人难受的"
+      ]
+    ],
+    "explanation": "an ungodly hour 常抱怨起得太早或时间太不合适；an ungodly amount 表示多得离谱，并不真在讨论宗教身份。",
+    "usage": "at an ungodly hour；an ungodly amount；an ungodly noise。",
+    "contrast": "ungodly 不虔诚或强烈贬评，godless 可说不信神；日常 ungodly hour 不能机械翻作无神论的时刻。",
+    "examples": [
+      [
+        "We had to leave at an ungodly hour.",
+        "我们得在早得离谱的时间出发。"
+      ],
+      [
+        "The old machine made an ungodly noise.",
+        "那台旧机器发出吵得要命的声音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ungodly#English"
+    ]
+  },
+  {
+    "word": "godless",
+    "ipa": "英 /ˈɡɒdləs/；美 /ˈɡɑːdləs/",
+    "meaning": "不信神的；无神的；邪恶的〔贬评〕",
+    "sense": "字面说没有神、没有对神的信仰；有些说话人还会把自己的道德指责加上去。",
+    "split": "god + -less（无、缺少）；整词表示无神、不信神，部分用法还带说话人的道德评价。",
+    "history": [
+      [
+        "god；-less",
+        "并列组合的两部分"
+      ],
+      [
+        "godless",
+        "不承认神；也可带说话人的贬评"
+      ]
+    ],
+    "explanation": "a godless society 可描述一个被认为没有宗教信仰的社会，也可能是立场很强的指责。词中的“无神”不构成对现实人群善恶的客观证明。",
+    "usage": "a godless world；a godless society；describe someone as godless。",
+    "contrast": "godless 与 atheist 可能涉及相近信仰态度，但 godless 更容易带贬斥；不能自动译成邪恶且当作事实。",
+    "examples": [
+      [
+        "The character struggles to find meaning in what he sees as a godless world.",
+        "角色努力在他眼中无神的世界里寻找意义。"
+      ],
+      [
+        "The pamphlet condemned its opponents as godless.",
+        "小册子把反对者斥为不敬神的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godless#English"
+    ]
+  },
+  {
+    "word": "godforsaken",
+    "ipa": "英 /ˌɡɒdfəˈseɪkən/；美 /ˌɡɑːdfərˈseɪkən/",
+    "meaning": "荒凉偏僻的；糟糕得像被遗弃的",
+    "sense": "地方又远又冷清，抱怨的人觉得连神都把这里忘了。",
+    "split": "god + forsaken，forsaken 是 forsake“抛弃”的过去分词。理解为被神遗弃的，不是 god for saken。",
+    "history": [
+      [
+        "god；forsaken〔被抛弃的〕",
+        "并列组合的两部分"
+      ],
+      [
+        "godforsaken",
+        "像被神遗弃一样荒凉、令人沮丧"
+      ]
+    ],
+    "explanation": "a godforsaken place 常含强烈抱怨、嫌弃；不只陈述距离远。用于别人家乡时会显得轻蔑。",
+    "usage": "a godforsaken place；a godforsaken town；some godforsaken corner。",
+    "contrast": "remote 偏远可中性，godforsaken 把荒凉、不满等主观感受也带出来。",
+    "examples": [
+      [
+        "The narrator complains about the godforsaken hotel where he is staying.",
+        "叙述者抱怨自己住的旅馆又偏又糟。"
+      ],
+      [
+        "They waited for the bus in a godforsaken corner of the industrial estate.",
+        "他们在工业区一个荒凉角落等公交。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godforsaken#English"
+    ]
+  },
+  {
+    "word": "godfather",
+    "ipa": "英 /ˈɡɒdfɑːðə/；美 /ˈɡɑːdfɑːðər/",
+    "meaning": "教父；重要奠基者；犯罪组织头目〔特定语境〕",
+    "sense": "本来是宗教生活里承担引导、支持角色的男性，后来也比喻扶持某领域或控制某组织的大人物。",
+    "split": "接古英语 godfæder，经中古英语 godfader；god + father。这里 father 不是一定有血缘的父亲。",
+    "history": [
+      [
+        "古英语 godfæder → 中古英语 godfader",
+        "宗教关系中的教父"
+      ],
+      [
+        "英语 godfather",
+        "教父；引申为奠基、扶持或掌控者"
+      ]
+    ],
+    "explanation": "a child’s godfather 是教父；the godfather of a musical style 可夸某风格的奠基人物。犯罪题材中的 the Godfather 常指黑帮头目，具体看故事。",
+    "usage": "be someone’s godfather；the godfather of；a mafia godfather。",
+    "contrast": "godfather 不等于 grandfather 祖父；宗教身份也不因名称就自动等于法律监护人，不能把两个身份混写。",
+    "examples": [
+      [
+        "His uncle agreed to be his daughter’s godfather.",
+        "他叔叔答应当他女儿的教父。"
+      ],
+      [
+        "The documentary calls the musician a godfather of modern jazz.",
+        "纪录片称这位音乐人为现代爵士乐的一位奠基者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godfather#English"
+    ]
+  },
+  {
+    "word": "godmother",
+    "ipa": "英 /ˈɡɒdmʌðə/；美 /ˈɡɑːdmʌðər/",
+    "meaning": "教母；扶持者〔引申〕",
+    "sense": "宗教生活里支持孩子成长的女性；童话把帮人一把的角色写成 fairy godmother。",
+    "split": "接古英语 godmōdor，经中古英语 godmoder，god + mother；与 godfather 平行，不是祖母 grandmother。",
+    "history": [
+      [
+        "古英语 godmōdor → 中古英语 godmoder",
+        "宗教关系中的教母"
+      ],
+      [
+        "英语 godmother",
+        "教母；比喻扶持、帮助的人"
+      ]
+    ],
+    "explanation": "a child’s godmother 是教母，a fairy godmother 是童话里的仙女教母，也可比喻关键时刻带来帮助的人。",
+    "usage": "be someone’s godmother；a fairy godmother；ask someone to be a godmother。",
+    "contrast": "godmother 关系来自宗教或比喻，grandmother 来自家族代际；不要只因都有 mother 混成奶奶。",
+    "examples": [
+      [
+        "She asked her closest friend to be the baby’s godmother.",
+        "她请最亲近的朋友当宝宝的教母。"
+      ],
+      [
+        "In the story, a fairy godmother helps the girl reach the palace.",
+        "故事里，一位仙女教母帮助女孩抵达王宫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godmother#English"
+    ]
+  },
+  {
+    "word": "godsend",
+    "ipa": "英 /ˈɡɒdsend/；美 /ˈɡɑːdsend/",
+    "meaning": "天赐之物；及时的大帮助",
+    "sense": "正急得没办法，忽然来了最需要的帮助，像老天专门送来的。",
+    "split": "源于 God’s send 一类旧表达，其中 send 有派送、所送之物的名词用法；今天可借 god + send 记意，但不是“上帝发送”这句话的普通时态。",
+    "history": [
+      [
+        "God’s send",
+        "被看作神送来的帮助、好处"
+      ],
+      [
+        "英语 godsend",
+        "意外而极有用的帮助者或事物"
+      ]
+    ],
+    "explanation": "a godsend to someone 对某人简直是救星；帮助者可以是人，也可以是工具、时间或机会。日常使用未必声明宗教信仰。",
+    "usage": "a real godsend；a godsend to；prove a godsend。",
+    "contrast": "godsend 强调来得正好、帮助很大，gift 礼物更普通；有人帮你解决麻烦，也可叫 a godsend。",
+    "examples": [
+      [
+        "The extra week was a godsend to our small team.",
+        "多出来的一周对我们的小团队真是及时雨。"
+      ],
+      [
+        "My neighbor was a godsend when I moved into the flat.",
+        "我搬进公寓时，邻居帮了大忙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godsend#English"
+    ]
+  },
+  {
+    "word": "gossip",
+    "ipa": "英 /ˈɡɒsɪp/；美 /ˈɡɑːsɪp/",
+    "meaning": "闲话；八卦；爱传闲话的人；闲聊他人私事",
+    "sense": "原来是关系近、能坐下说话的人，后来转向这些人聚在一起谈别人的私事。",
+    "split": "古英语 godsibb 指教亲、教父母一类宗教亲缘，上接 god + sib“亲属”；中古英语 godsib、godsybbe 扩到亲近朋友，后来形成 gossip。不是现代 go + sip“边走边喝”的构词。",
+    "history": [
+      [
+        "古英语 godsibb〔god + sib〕",
+        "宗教亲缘关系中的人"
+      ],
+      [
+        "中古英语 godsib / godsybbe",
+        "亲近朋友、熟人"
+      ],
+      [
+        "英语 gossip",
+        "闲聊者 → 闲话、议论私事；也作动词"
+      ]
+    ],
+    "explanation": "gossip about someone 是议论某人的私事，a piece of gossip 是一条八卦。来源可能不可靠，但词不保证每一条都假；重点是议论别人私生活。",
+    "usage": "gossip about；a piece of gossip；office gossip；a terrible gossip。",
+    "contrast": "gossip 侧重私事闲谈，rumor 强调未经证实的传闻，可关于政策、产品等并非私人生活。",
+    "examples": [
+      [
+        "I do not want to spread gossip about a colleague.",
+        "我不想传播同事的八卦。"
+      ],
+      [
+        "They were gossiping about a famous actor.",
+        "他们在聊一位名演员的私事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gossip#English"
+    ]
+  },
+  {
+    "word": "giddy",
+    "ipa": "/ˈɡɪdi/",
+    "meaning": "头晕的；兴奋得晕乎乎的；令人眩晕的",
+    "sense": "身体像在打转，或者高兴得脑子轻飘飘，稳不下来。",
+    "split": "接古英语 gidiġ、gydiġ，经中古英语 gidi 等；更早构词与 god 及形容词后缀相连，旧观念说被神灵附身、失常，后来转向眩晕、兴奋。不是现代 gid + dy。",
+    "history": [
+      [
+        "古英语 gidiġ / gydiġ",
+        "旧观念中被神灵控制、失常"
+      ],
+      [
+        "中古英语 gidi → 英语 giddy",
+        "晕眩；兴奋得飘飘然"
+      ]
+    ],
+    "explanation": "feel giddy 可说头晕，giddy with excitement 是兴奋得晕乎乎。at a giddy height 强调高得让人发晕，不要求人在开心。",
+    "usage": "feel giddy；giddy with excitement；giddy heights。",
+    "contrast": "giddy 与 dizzy 都能说眩晕；giddy 更常另有兴奋、轻飘飘的意味。历史观念不是现代对身体症状的原因解释。",
+    "examples": [
+      [
+        "The spinning ride made me feel giddy.",
+        "旋转游乐设施让我头晕。"
+      ],
+      [
+        "The children were giddy with excitement before the trip.",
+        "出发前，孩子们兴奋得晕乎乎的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/giddy#English"
+    ]
+  },
+  {
+    "word": "music",
+    "ipa": "/ˈmjuːzɪk/",
+    "meaning": "音乐；乐曲；悦耳之声〔比喻〕",
+    "sense": "声音按节奏、旋律等组织起来，能听、能演奏，也能传达情绪。",
+    "split": "经法语 musique、拉丁 mūsica 接古希腊 mousikē，与缪斯 Mousa 有关。希腊的旧范围比今天音乐更广，不是现代 muse 加一个任意 c。",
+    "history": [
+      [
+        "古希腊 Mousa → mousikē",
+        "缪斯 → 与缪斯诸艺有关的技艺"
+      ],
+      [
+        "拉丁 mūsica → 法语 musique → 中古英语 musik",
+        "音乐"
+      ],
+      [
+        "英语 music",
+        "音乐；乐曲"
+      ]
+    ],
+    "explanation": "listen to music 是听音乐；通常不可数，一首音乐说 a piece of music。music to my ears 是听来令人高兴的消息，不一定真有曲子。",
+    "usage": "listen to music；play music；a piece of music；music to my ears。",
+    "contrast": "music 音乐范围广，song 通常有歌词、可唱。纯器乐可以是 music，不一定是 song。",
+    "examples": [
+      [
+        "I listen to music while cooking.",
+        "我做饭时听音乐。"
+      ],
+      [
+        "The news that the project could continue was music to our ears.",
+        "项目能继续的消息，让我们听了很高兴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/music#English"
+    ]
+  },
+  {
+    "word": "musical",
+    "ipa": "/ˈmjuːzɪkəl/",
+    "meaning": "音乐的；有音乐天赋的；音乐剧",
+    "sense": "把某件事和音乐联系起来；说一个人 musical，常是说他听、唱、演奏比较有感觉。",
+    "split": "现代对应 music + -al；历史经法语、中世纪拉丁 mūsicālis 接 mūsica。名词音乐剧从 musical comedy 等名称缩短发展。",
+    "history": [
+      [
+        "古希腊 Mousa → mousikē",
+        "缪斯 → 与缪斯诸艺有关的技艺"
+      ],
+      [
+        "拉丁 mūsica → 法语 musique → 中古英语 musik",
+        "音乐"
+      ],
+      [
+        "英语 music",
+        "音乐；乐曲"
+      ],
+      [
+        "mūsicālis → musical；现代对应 music + -al",
+        "音乐的；有音乐感的"
+      ],
+      [
+        "musical〔名词〕",
+        "音乐剧、音乐剧电影"
+      ]
+    ],
+    "explanation": "a musical instrument 是乐器，a musical child 是有音乐天赋的孩子。see a musical 是看一部音乐剧，不是随便听一段音乐。",
+    "usage": "a musical instrument；musical talent；a stage musical。",
+    "contrast": "musical 形容词或可数名词，music 通常不可数。I like music 是喜欢音乐，I like musicals 是喜欢音乐剧。",
+    "examples": [
+      [
+        "She comes from a very musical family.",
+        "她来自一个很有音乐氛围、家人有音乐才能的家庭。"
+      ],
+      [
+        "We saw a musical at the theatre last night.",
+        "昨晚我们在剧院看了一部音乐剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/musical#English"
+    ]
+  },
+  {
+    "word": "musically",
+    "ipa": "/ˈmjuːzɪkəli/",
+    "meaning": "在音乐上；以音乐方式；悦耳地",
+    "sense": "暂且只从音乐这个角度看，或说明声音、表现带着音乐感。",
+    "split": "musical + -ly，中古英语有 musicallye 等相应副词；不是去掉 musical 的 al 再生一个同音词。",
+    "history": [
+      [
+        "古希腊 Mousa → mousikē",
+        "缪斯 → 与缪斯诸艺有关的技艺"
+      ],
+      [
+        "拉丁 mūsica → 法语 musique → 中古英语 musik",
+        "音乐"
+      ],
+      [
+        "英语 music",
+        "音乐；乐曲"
+      ],
+      [
+        "musical + -ly → musically",
+        "从音乐上说；带音乐感地"
+      ]
+    ],
+    "explanation": "musically talented 是有音乐天赋，musically speaking 是从音乐角度说。修饰 talented 时，不是在说某人正唱着一句话。",
+    "usage": "musically talented；musically gifted；musically speaking。",
+    "contrast": "musically 修饰角度、方式；musical 直接修饰人或物。a musical child 与 a musically gifted child 两种结构不同。",
+    "examples": [
+      [
+        "The children are musically talented.",
+        "这些孩子很有音乐天赋。"
+      ],
+      [
+        "Musically, the second half of the concert was stronger.",
+        "从音乐表现看，音乐会下半场更出色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/musically#English"
+    ]
+  },
+  {
+    "word": "musician",
+    "ipa": "/mjuˈzɪʃən/",
+    "meaning": "音乐人；乐手；音乐家",
+    "sense": "把音乐唱出来、演奏出来、创作出来的人；不一定已经成名。",
+    "split": "经古法语 musicien 到中古英语 musician、musicien；现代对应 music + -ian 或后缀形式 -ician，词尾 c 的音随构词变为 /ʃ/。不把 -ician 理解成魔法师的专用尾巴。",
+    "history": [
+      [
+        "古希腊 Mousa → mousikē",
+        "缪斯 → 与缪斯诸艺有关的技艺"
+      ],
+      [
+        "拉丁 mūsica → 法语 musique → 中古英语 musik",
+        "音乐"
+      ],
+      [
+        "古法语 musicien → 英语 musician",
+        "从事音乐创作、表演等的人"
+      ]
+    ],
+    "explanation": "a professional musician 是职业音乐人，an amateur musician 是业余音乐人。singer 可在 musician 的广义范围内；实际职业介绍按个人分工。",
+    "usage": "a professional musician；a talented musician；a jazz musician。",
+    "contrast": "musician 不等于必须懂所有 musicology 音乐学研究；音乐表演、创作与学术研究可以交叉，但角色不同。",
+    "examples": [
+      [
+        "Several local musicians performed at the festival.",
+        "几位当地音乐人在节庆上表演。"
+      ],
+      [
+        "She works as a musician and teaches piano.",
+        "她从事音乐工作，也教钢琴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/musician#English"
+    ]
+  },
+  {
+    "word": "musicianship",
+    "ipa": "/mjuˈzɪʃənʃɪp/",
+    "meaning": "音乐素养；音乐技艺、表现能力",
+    "sense": "不只弹对音，还能把节奏、音色、表达合成好听的音乐，这些能力合起来就是 musicianship。",
+    "split": "musician + -ship，-ship 在这里指能力、素质，不是船。",
+    "history": [
+      [
+        "musician",
+        "从事音乐的人"
+      ],
+      [
+        "musician + -ship → musicianship",
+        "音乐人的技艺、素养"
+      ]
+    ],
+    "explanation": "excellent musicianship 夸音乐技艺与理解，develop musicianship 是培养综合音乐能力。不同教学体系具体训练项目会有差别。",
+    "usage": "excellent musicianship；develop musicianship；technical skill and musicianship。",
+    "contrast": "musicianship 能力、素养，musician 人；炫技可以体现部分技巧，但不自动代表完整音乐表达好。",
+    "examples": [
+      [
+        "The performance showed remarkable musicianship.",
+        "这场表演展现了出色的音乐素养。"
+      ],
+      [
+        "Playing with others helped her develop her musicianship.",
+        "与别人合奏帮助她提高了音乐表现能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/musicianship#English"
+    ]
+  },
+  {
+    "word": "law",
+    "ipa": "/lɔː/",
+    "meaning": "法律；法规；法学；规律、定律",
+    "sense": "人们把规则定下来，作为共同遵守、判断事情的依据；科学里也借来称稳定规律。",
+    "split": "古英语 lagu 借自古诺尔斯语 lǫg，后者原是 lag“放置、层次”等词的复数，抓“确立下来的规则”。law 与拉丁 lēx 来的 legal 意思相关，来路不同。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ]
+    ],
+    "explanation": "the law 法律体系，a law 一条法律；study law 学法学。the laws of physics 是物理定律，不是议会制定的法案。",
+    "usage": "by law；break the law；study law；a law of nature。",
+    "contrast": "law 法律或规律，rule 规则范围更广；并非家里每条 rule 都是国家法律。law 和 legal 不能只按相同中文就视作现代派生。",
+    "examples": [
+      [
+        "She decided to study law at university.",
+        "她决定在大学学法学。"
+      ],
+      [
+        "The novel imagines a society with very different laws.",
+        "小说设想了一个法律很不一样的社会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/law#English"
+    ]
+  },
+  {
+    "word": "lawyer",
+    "ipa": "英 /ˈlɔːjə/、/ˈlɔɪə/；美 /ˈlɔːjər/、/ˈlɔɪər/",
+    "meaning": "律师；法律专业从业者",
+    "sense": "把法律当专业工作来做的人，而不只是会背几条规定。",
+    "split": "中古英语 lawiere、lawier、lawer 等，现代对应 law + -yer；-yer 是表从业者的后缀形式，不是独立词 year。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ],
+      [
+        "law + -yer → lawyer",
+        "以法律为专业工作的人"
+      ]
+    ],
+    "explanation": "a corporate lawyer 公司法律业务律师，a criminal lawyer 刑事业务律师。具体资格、职责和职称因司法体系不同，不能用一个词替所有地区定执业门槛。",
+    "usage": "a lawyer specializing in；a corporate lawyer；consult a lawyer。",
+    "contrast": "lawyer 是广义职业名称，judge 法官是在相应职位上审理裁判的人；律师不自动就是法官。",
+    "examples": [
+      [
+        "Her brother works as a lawyer.",
+        "她哥哥是律师。"
+      ],
+      [
+        "The story follows a young lawyer working on her first major case.",
+        "故事围绕一位年轻律师办理首个大案展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawyer#English"
+    ]
+  },
+  {
+    "word": "lawsuit",
+    "ipa": "英 /ˈlɔːsuːt/；美 /ˈlɔːsuːt/",
+    "meaning": "诉讼；民事诉讼案件",
+    "sense": "争议没能在双方之间解决，进入法院处理的案件程序。",
+    "split": "law + suit，suit 在这里是诉讼、请求，不是西装。不能把所有出现法庭的刑事案件一概叫 lawsuit。",
+    "history": [
+      [
+        "law；suit〔诉讼〕",
+        "并列组合的两部分"
+      ],
+      [
+        "lawsuit",
+        "进入法院处理的诉讼案件"
+      ]
+    ],
+    "explanation": "file a lawsuit 是提起诉讼，settle a lawsuit 是和解解决诉讼；a lawsuit against someone 表示针对某人的诉讼。这些是词语搭配，不说明现实案件结果。",
+    "usage": "file a lawsuit；bring a lawsuit；a lawsuit against；settle a lawsuit。",
+    "contrast": "lawsuit 是案件、程序，lawyer 是专业从业者；court 是法院。英文 suit 单独也可能指诉讼，先看上下文。",
+    "examples": [
+      [
+        "The novel opens with a lawsuit between two neighbors.",
+        "小说以两位邻居之间的一场诉讼开场。"
+      ],
+      [
+        "The article reports that the lawsuit was settled.",
+        "文章报道说，该诉讼已通过和解解决。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawsuit#English"
+    ]
+  },
+  {
+    "word": "lawful",
+    "ipa": "/ˈlɔːfəl/",
+    "meaning": "合法的；法律认可的",
+    "sense": "把行为、身份或用途放到法律规则旁边核对，落在允许、认可的范围内。",
+    "split": "law + -ful，中古英语有 laweful，也与相近的 leful、leveful 等旧形式发生合流。-ful 表具有相应性质，不是“装满法律条文”。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ],
+      [
+        "中古英语 laweful 等 → lawful",
+        "合乎法律、被法律认可的"
+      ]
+    ],
+    "explanation": "lawful use 是合法使用，lawful authority 是合法权限或获认可的权威。是否真合某地法律，要看现实制度，词本身只是作出这一描述。",
+    "usage": "lawful use；lawful authority；a lawful purpose。",
+    "contrast": "lawful 与 legal 常相近；moral 道德的关注面不同，合乎法律不自动回答所有道德判断。",
+    "examples": [
+      [
+        "The document explains the lawful use of the material.",
+        "文件说明了材料的合法使用方式。"
+      ],
+      [
+        "The character questions whether the order came from a lawful authority.",
+        "角色质疑命令是否来自合法权威。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawful#English"
+    ]
+  },
+  {
+    "word": "lawfully",
+    "ipa": "/ˈlɔːfəli/",
+    "meaning": "合法地；依法地",
+    "sense": "事情是怎样做的？按法律允许的方式来做。",
+    "split": "lawful + -ly，中古英语有 lawefully 等副词形式。-ly 接整个 lawful，不拆成 law + fully“完全地”。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ],
+      [
+        "lawful + -ly → lawfully",
+        "以合乎法律的方式"
+      ]
+    ],
+    "explanation": "lawfully obtained 是合法取得的，lawfully present 是依法在场、居留等语境描述；不凭这两个词推断具体手续。",
+    "usage": "lawfully obtained；act lawfully；lawfully acquired。",
+    "contrast": "lawful 直接修饰人、事物或行为名词；lawfully 常修饰动作、分词。lawfully obtained records 是合法取得的记录。",
+    "examples": [
+      [
+        "The report states that the records were lawfully obtained.",
+        "报告称这些记录是合法取得的。"
+      ],
+      [
+        "The story asks whether the official acted lawfully.",
+        "故事提出一个问题：官员的行动是否合法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawfully#English"
+    ]
+  },
+  {
+    "word": "unlawful",
+    "ipa": "/ʌnˈlɔːfəl/",
+    "meaning": "不合法的；法律不允许的",
+    "sense": "本来要在法律允许的范围内，这件事却落到了范围外。",
+    "split": "un-（不）+ lawful，中古英语已有 unlawful；un- 否定整体，不是 less 的同一后缀写法。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ],
+      [
+        "lawful → un- + lawful → unlawful",
+        "不合乎法律、未获法律允许的"
+      ]
+    ],
+    "explanation": "unlawful conduct 是违法行为，unlawful use 是非法使用。法律文体有时对 unlawful、illegal 的选择有具体习惯，不能只靠词根发明通用严格等级。",
+    "usage": "unlawful conduct；unlawful use；unlawful interference。",
+    "contrast": "unlawful 是对行为合法性的判断，lawless 常描写缺乏秩序、无视法律的状态；不是词尾不同而完全同一使用场景。",
+    "examples": [
+      [
+        "The article describes the company’s conduct as unlawful.",
+        "文章称该公司的行为违法。"
+      ],
+      [
+        "The fictional court found that the search was unlawful.",
+        "虚构故事中的法院认定那次搜查违法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unlawful#English"
+    ]
+  },
+  {
+    "word": "lawless",
+    "ipa": "/ˈlɔːləs/",
+    "meaning": "无法无天的；缺乏法治秩序的",
+    "sense": "规则像管不住人，暴力、犯罪或任意行事成了常态。",
+    "split": "law + -less（缺少），中古英语有 laweles；常说没有法律约束、无视法律的状态。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ],
+      [
+        "law + -less → lawless",
+        "缺乏法律约束、秩序的"
+      ]
+    ],
+    "explanation": "a lawless region 是秩序混乱的地区，lawless behavior 是无法无天的行为。多带强烈负面评价，不只是某条规则技术性不适用。",
+    "usage": "a lawless region；lawless behavior；a lawless society。",
+    "contrast": "lawless 常描述整体秩序或态度，unlawful 常判断特定行为不合法；一件 unlawful act 不等于整个地区都是 lawless。",
+    "examples": [
+      [
+        "The film is set in a lawless frontier town.",
+        "电影背景是一个无法无天的边境小镇。"
+      ],
+      [
+        "Residents were tired of the gangs’ lawless behavior.",
+        "居民受够了帮派无法无天的行为。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawless#English"
+    ]
+  },
+  {
+    "word": "lawlessness",
+    "ipa": "/ˈlɔːləsnəs/",
+    "meaning": "无法无天；秩序失控、缺乏法治的状态",
+    "sense": "不只某人一次犯规，而是规则普遍约束不了人的局面。",
+    "split": "lawless + -ness，先由 law + -less 得形容词，再加 -ness 说状态。",
+    "history": [
+      [
+        "古诺尔斯语 lǫg → 古英语 lagu",
+        "原意为放下、确立的事物 → 法、规章"
+      ],
+      [
+        "中古英语 lawe → 英语 law",
+        "法律、规则、定律"
+      ],
+      [
+        "law → lawless → lawlessness",
+        "法律 → 无法无天的 → 无法无天的状态"
+      ]
+    ],
+    "explanation": "a period of lawlessness 是秩序失控的一段时期，restore order after lawlessness 是在混乱后恢复秩序。政治报道中的评价仍要看证据、说话人。",
+    "usage": "a period of lawlessness；widespread lawlessness；violence and lawlessness。",
+    "contrast": "lawlessness 状态名词，lawless 形容词；lawlessness 不等于只是尚未给新事物立专项法律。",
+    "examples": [
+      [
+        "The novel describes a period of violence and lawlessness.",
+        "小说描写了一段暴力横行、秩序失控的时期。"
+      ],
+      [
+        "The documentary examines the causes of lawlessness in the region.",
+        "纪录片考察该地区秩序失控的原因。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawlessness#English"
+    ]
+  }
+]

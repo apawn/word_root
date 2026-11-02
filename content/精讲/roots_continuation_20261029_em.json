@@ -1,0 +1,122 @@
+[
+  {
+    "id": "B4609",
+    "meaning": "狗、用途犬名与坚持、劣势",
+    "core": "DOG：从动物出发，读用途和行为比喻",
+    "image": "doggy 亲昵称呼紧接 dog；bulldog、sheepdog 讲用途，underdog 弱势，dogged 顽强。",
+    "intro": "dog 古英语已有，更远来源不定，不编拟声或外语借入假说。dogged 的形容词与动词分词读音尤其值得区分。",
+    "forms": "dog → doggy、dogged；bull、sheep、under + dog；共享 watchdog、dogfight。\n\ndogs 的 /ɡ/ 发音保留，词尾 /z/；动词 dog 用紧跟的画面表达持续困扰。\n\n动词 dog 用紧跟不放的形象；形容词 dogged 的旧负面评价后来发展出顽强义，末尾 -ed 读 /ɪd/，和动词过去式 /dɒɡd/、/dɔːɡd/ 分清。",
+    "branches": [
+      [
+        "基本词、昵称与性格",
+        "dog · doggy · dogged"
+      ],
+      [
+        "用途与竞争位置",
+        "bulldog · sheepdog · underdog · watchdog · dogfight"
+      ],
+      [
+        "dog → dogs：狗；困扰、紧跟",
+        "dog · dogs"
+      ],
+      [
+        "dog 的追随纠缠与 dogged 顽强坚持",
+        "dog · dogs · dogged · dogging · doggedly · doggedness"
+      ]
+    ],
+    "contrasts": "underdog 不等于必败；doggy 不一定幼犬；dogged /ˈdɒɡɪd/ 坚持与 /dɒɡd/ 被纠缠分词分开。",
+    "practice": "The underdog won through dogged determination.\n\n不被看好的一方凭顽强决心赢了。",
+    "words": [
+      "dog",
+      "doggy",
+      "dogged",
+      "bulldog",
+      "sheepdog",
+      "underdog",
+      "watchdog",
+      "dogfight",
+      "dogs",
+      "dogging",
+      "doggedly",
+      "doggedness"
+    ],
+    "exclude": {
+      "she-dog": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-fox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-nose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-ear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "doggo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-eared": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dogfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slumdog": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2738",
+    "meaning": "击打、击败与节奏、态度",
+    "core": "BEAT：一下下敲击，形成节拍与多条比喻",
+    "image": "基本 beat、beaten 相邻，再看器具、不可战胜与音乐态度词；甲虫 beetle 不硬收进敲打词源。",
+    "intro": "古英语击打词族。beetle 的甲虫义接 bite 咬的历史词，不因拼写近就写成 beat 的派生；用户先略生僻义，本页不展开古槌 beetle 等。",
+    "forms": "beat → beaten、beater、unbeatable；up、off、drum + beat；共享 heartbeat、downbeat、deadbeat、beatbox。\n\nun- + beaten；比赛不败是没有输，不一定每场都赢。打蛋、击打等其他分支的未被处理义按具体对象看。\n\n本族强变化动词；beating 还可作动作或节律名词。\n\n继承古英语 beatan；s 作复数节拍或三单动作。\n\n与 beat 作反复击打的近义比较，不是现代 beat 的派生。pelt 动词远源有不同分析；毛皮名词另接法语皮肤材料、拉丁 pellis 等分析，不能把毛皮说成由砸打而来。",
+    "branches": [
+      [
+        "动作、结果与器具",
+        "beat · beaten · beater · unbeatable"
+      ],
+      [
+        "节奏与态度",
+        "upbeat · offbeat · downbeat · drumbeat · heartbeat · beatbox"
+      ],
+      [
+        "已有相关人物词",
+        "deadbeat"
+      ],
+      [
+        "unbeaten：没有被击败",
+        "beat · beaten · unbeaten"
+      ],
+      [
+        "beat → beating：击打、打败与节拍",
+        "beat · beating"
+      ],
+      [
+        "beat → beats：反复敲击、节拍与胜过",
+        "beat · beats · beating · beaten"
+      ],
+      [
+        "pelt：接连砸打，到急奔",
+        "pelt · pelts · pelted · pelting"
+      ]
+    ],
+    "contrasts": "beat 对手、win 比赛；unbeatable 无法打败与 unbeaten 尚未输不同；upbeat 不等于 beat up。",
+    "practice": "The unbeaten team stayed upbeat before the next match.\n\n尚未败过的球队在下一场比赛前保持乐观。",
+    "words": [
+      "beat",
+      "beaten",
+      "beater",
+      "unbeatable",
+      "upbeat",
+      "offbeat",
+      "downbeat",
+      "drumbeat",
+      "heartbeat",
+      "beatbox",
+      "deadbeat",
+      "unbeaten",
+      "beating",
+      "beats",
+      "pelt",
+      "pelts",
+      "pelted",
+      "pelting"
+    ],
+    "exclude": {
+      "cross-beat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beetle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beaty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "afrobeat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beatable": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

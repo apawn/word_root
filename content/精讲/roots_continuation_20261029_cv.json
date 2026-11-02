@@ -1,0 +1,144 @@
+[
+  {
+    "id": "B4580",
+    "meaning": "后部、在后面；落后及背后推动",
+    "core": "HIND：后方的位置，再到进度和原因",
+    "image": "hind legs 是后腿，behind the house 是屋后；behind schedule 把后方位置借给进度。",
+    "intro": "后方分支接古英语 hindan、behindan 等，hindsight 则是回头看过去。雌鹿 hind 有另一来源，不拿动物行为编造位置词源。",
+    "forms": "hind 后部 → behind 在后；hindsight 事后回看。",
+    "branches": [
+      [
+        "后方与在后面",
+        "hind · behind"
+      ],
+      [
+        "事后回看",
+        "hindsight"
+      ]
+    ],
+    "contrasts": "hind legs 不说 behind legs；behind schedule 是落后计划；a hind 雌鹿另源。",
+    "practice": "The dog’s hind feet were hidden behind the chair.\n\n狗的后脚藏在椅子后面。",
+    "words": [
+      "hind",
+      "behind",
+      "hindsight"
+    ],
+    "exclude": {
+      "hind-body": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2926",
+    "meaning": "建造过程、建筑物；抽象建设",
+    "core": "BUILDING：做出来的过程，和建成的东西分开",
+    "image": "a building 是一座建筑，shipbuilding 是造船过程；peacebuilding 再把建立的动作借给社会和平。",
+    "intro": "building 是 build 的 -ing 名词及形式。遇到复合词先判断后半说实体还是过程，不把所有 building 都译成大楼。",
+    "forms": "build → building；ship、home、body、world、peace + building 分别建造、塑造不同对象；outbuilding 却是附属建筑实体。",
+    "branches": [
+      [
+        "基础及实体",
+        "building · outbuilding"
+      ],
+      [
+        "制造和塑造过程",
+        "shipbuilding · homebuilding · bodybuilding · worldbuilding"
+      ],
+      [
+        "社会和平建设",
+        "peacebuilding"
+      ]
+    ],
+    "contrasts": "shipbuilding 造船不等于船上建筑；building 的实体、过程要看可数性和前面的对象。",
+    "practice": "The old building now houses a museum of shipbuilding.\n\n这座老建筑如今是一家造船博物馆。",
+    "words": [
+      "building",
+      "outbuilding",
+      "shipbuilding",
+      "homebuilding",
+      "bodybuilding",
+      "worldbuilding",
+      "peacebuilding"
+    ],
+    "exclude": {
+      "a-building": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "institution-building": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3408",
+    "meaning": "过程、处理；处理过的与处理主体",
+    "core": "PROCESS：东西经过一套步骤，变成结果",
+    "image": "申请、数据、食品都可以 process；processed 是处理过，processor 是处理它的设备、机构等。",
+    "intro": "process 经法语接拉丁向前推进、进程词族。派生词保留处理关系，但不自动交代采用了什么算法、工艺或决定。",
+    "forms": "process → processed；process + -or → processor。\n\nprocess 加 or，食品、数据、原料等对象让作用物形成不同专门用途。",
+    "branches": [
+      [
+        "过程、处理结果和主体",
+        "process · processed · processor"
+      ],
+      [
+        "processor → processors：按处理作用命名人、器具",
+        "processor · processors"
+      ]
+    ],
+    "contrasts": "processed 申请已处理不等于 approved 获批；processor 不只电脑芯片；process、processing、processor 各有句法角色。",
+    "practice": "The processor handled the data, and the processed results were stored.\n\n处理器处理了数据，处理后的结果被保存了下来。",
+    "words": [
+      "process",
+      "processed",
+      "processor",
+      "processors"
+    ],
+    "exclude": {
+      "cross-process": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cryo-process": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3781",
+    "meaning": "公园、园区；停车与专门场区",
+    "core": "PARK：一片区域，或把东西安放在一处",
+    "image": "park 作名词是园地、专用区域，作动词常是停车；parking 看停车安排，parkside 看公园边位置。",
+    "intro": "park 经法语接围地历史。不同现代词各自固定：parkway 景观道路，ballpark 棒球场及粗估，skatepark 轮式运动场。",
+    "forms": "park → parking；park + side → parkside；parkland 园地；parkway 道路；ball、skate + park 看场区。\n\n围地的名词发展为公园等，集中安放的动词发展为停车。\n\npark 场地名转放置、停车动词；k 后 ed 读 t。",
+    "branches": [
+      [
+        "基础与停车",
+        "park · parking"
+      ],
+      [
+        "公园周边和道路",
+        "parkside · parkland · parkway"
+      ],
+      [
+        "专用运动场区",
+        "ballpark · skatepark"
+      ],
+      [
+        "park → parks：围起的场区与停车",
+        "park · parks"
+      ],
+      [
+        "park → parked：圈出的场地到把车停放好",
+        "park · parked"
+      ]
+    ],
+    "contrasts": "parkside 不是 parking；parkway 不是停车场；ballpark figure 是大概数，不是精确报价。",
+    "practice": "The parkside café offers free parking near the skatepark.\n\n公园旁的咖啡馆提供免费停车，位置靠近滑板场。",
+    "words": [
+      "park",
+      "parking",
+      "parkside",
+      "parkland",
+      "parkway",
+      "ballpark",
+      "skatepark",
+      "parks",
+      "parked"
+    ],
+    "exclude": {
+      "parker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "parklife": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

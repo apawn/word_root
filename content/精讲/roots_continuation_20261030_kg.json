@@ -1,0 +1,148 @@
+[
+  {
+    "id": "B4562",
+    "meaning": "自由、特定权利，走向授权经营及其他许可、系列名称",
+    "core": "FRANCHISE：历史起点是获准享有权利",
+    "image": "franchise → franchisee 接受授权；franchisor 授出授权。",
+    "intro": "商业角色看许可方向，体育、选举、影视则按各自固定语境理解。不要看到 franchise 就只想到连锁餐厅。",
+    "forms": "franc 自由 → franchise；-ee 接受者，-or 行为方。",
+    "branches": [
+      [
+        "基础词与相对角色",
+        "franchise · franchisee · franchisor"
+      ]
+    ],
+    "contrasts": "franchisee 获授权，franchisor 授权；film franchise 说系列作品。",
+    "practice": "The franchisor gave the new franchisee a training schedule.\n\n授权方给新加盟商一份培训安排。",
+    "words": [
+      "franchise",
+      "franchisee",
+      "franchisor"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3646",
+    "meaning": "帝国、帝权及扩张体系相关的性质、主张与人",
+    "core": "IMPERIAL：先看帝国与帝权，再分派生词的角色",
+    "image": "imperial → imperialism、imperialist、imperialistic。",
+    "intro": "皇室、帝国行政的 imperial，与主张或实行对外扩张的 imperialism 不应在所有语境里直接互换。",
+    "forms": "拉丁 imperium 统治、权力 → imperialis → imperial；-ism 体系，-ist 人，-istic 相应性质。",
+    "branches": [
+      [
+        "性质与体系",
+        "imperial · imperialism"
+      ],
+      [
+        "人与相关性质",
+        "imperialist · imperialistic"
+      ]
+    ],
+    "contrasts": "imperial 可中性描述历史帝国机构；imperialistic 常评价扩张、支配倾向。",
+    "practice": "The chapter contrasts imperial administration with imperialism.\n\n这一章比较帝国行政与帝国主义。",
+    "words": [
+      "imperial",
+      "imperialism",
+      "imperialist",
+      "imperialistic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3140",
+    "meaning": "细小颗粒的物质与相关用途、质地",
+    "core": "POWDER：把物质看成细小颗粒组成的粉",
+    "image": "powder → powdery；gunpowder 是固定复合名称。",
+    "intro": "面粉、化妆粉、细雪等对象不同，粉状的共同形态让同一个词能扩展到不同领域。",
+    "forms": "法语 poudre 等上接拉丁 pulvis、pulver- 尘、粉；-y 形成粉状、覆粉等性质。",
+    "branches": [
+      [
+        "物质、用途与质地",
+        "powder · gunpowder · powdery"
+      ]
+    ],
+    "contrasts": "powder 是粉状物，powdery 形容粉状、像粉或覆粉；gunpowder 是特定材料名称。",
+    "practice": "A powdery layer covered the old box.\n\n一个粉状薄层覆在旧盒子上。",
+    "words": [
+      "powder",
+      "gunpowder",
+      "powdery"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4286",
+    "meaning": "符合现实的可行性，以及接近真实的表现",
+    "core": "REALISTIC：一问做不做得到，一问像不像实际情况",
+    "image": "realistic → realistically；unrealistic 否定；photorealistic 强调照片般逼真。",
+    "intro": "期限、预算、目标主要看可行性；绘画、图形、表演主要看表现。先判断在谈哪一种实际。",
+    "forms": "realist + -ic → realistic；-ally 副词，un- 否定；photo- 照片相关。",
+    "branches": [
+      [
+        "性质、副词与否定",
+        "realistic · realistically · unrealistic"
+      ],
+      [
+        "照片般的表现效果",
+        "photorealistic"
+      ]
+    ],
+    "contrasts": "realistic 不等于 real；realistically 不等于 really；不现实的期限与不逼真的画面是不同对象。",
+    "practice": "Realistically, the team needs another week to make the graphics more realistic.\n\n实事求是地说，团队还需要一周，让图形更逼真。",
+    "words": [
+      "realistic",
+      "realistically",
+      "unrealistic",
+      "photorealistic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4116",
+    "meaning": "夹紧与剪切两条同形来源，扩到片段、工具与船名",
+    "core": "CLIP：夹住东西与剪下一段要分线理解",
+    "image": "clip → clipping、clipper；clipboard 用夹持义；clipper 帆船看快速移动相关命名。",
+    "intro": "把两条最基本的动作区分开，回形针、剪报、视频片段、夹板的关系就清楚了。",
+    "forms": "clyppan 抱紧 → 夹持 clip；klippa 剪 → 剪切 clip；-ing 过程或结果，-er 人或器具。\n\n古英语抱紧一支与北欧剪切一支，后来成为同形词。\n\n取古英语 clyppan 拥抱、夹持的支，不接剪切片段的另一来源。\n\nclip 取夹持的一支，和剪切片段的另一来源分开。\n\n剪切 clip 接北欧材料，夹紧支接古英语 clyppan；两条现代同形都可双写 p 加完整 -ed，短促言语又联系剪短支。",
+    "branches": [
+      [
+        "基础与夹持用品",
+        "clip · clipboard"
+      ],
+      [
+        "剪下物与器具、船名",
+        "clipping · clipper"
+      ],
+      [
+        "clip → clips：夹子和剪出的片段",
+        "clip · clips"
+      ],
+      [
+        "夹持 clip 的纸张用品组合",
+        "clip · paperclip · paperclips"
+      ],
+      [
+        "clipboard → clipboards：夹纸板、暂存内容工具",
+        "clip · clipboard · clipboards"
+      ],
+      [
+        "clipped：剪短、夹住与短促语气",
+        "clip · clipped"
+      ]
+    ],
+    "contrasts": "clip 的片段义不等于夹子；clippers 工具常用复数；船名词源有不确定处。",
+    "practice": "She put the clipping on the clipboard and secured it with a clip.\n\n她把剪报放在夹板上，用夹子固定。",
+    "words": [
+      "clip",
+      "clipboard",
+      "clipping",
+      "clipper",
+      "clips",
+      "paperclip",
+      "paperclips",
+      "clipboards",
+      "clipped"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "word": "bind",
+    "ipa": "/baɪnd/",
+    "meaning": "捆绑、连接；使黏合；装订；约束",
+    "sense": "把散开的东西固定在一起，或让它不能随便离开，是 bind。绳子能绑住手，规则也能像看不见的绳子一样约束行为。",
+    "split": "承接古英语 bindan，经中古英语 binden 留传。过去式、过去分词 bound，不规则；不是现代 bin 垃圾箱加 d。",
+    "history": [
+      [
+        "古英语 bindan → 中古英语 binden → bind",
+        "绑、束、连接"
+      ],
+      [
+        "实体和抽象扩展",
+        "把材料黏合、书页装订；让承诺、义务产生约束"
+      ]
+    ],
+    "explanation": "bind the branches together 把树枝绑一起，bind a book 装订书，bind the mixture 使混合物黏合，be bound by an agreement 受协议约束。in a bind 是处于困境。",
+    "usage": "bind together；bind a book；be bound by；in a bind。",
+    "contrast": "bind 不只用绳子，黏合剂、制度关系也能 bind。tie 常说打结、系住；bind 更强调固定、连接或约束的效果。",
+    "examples": [
+      [
+        "The roots help bind the soil together.",
+        "根系帮助把土壤固定在一起。"
+      ],
+      [
+        "Their shared experience bound the group together.",
+        "共同经历把这群人紧密联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bind#English"
+    ]
+  },
+  {
+    "word": "binding",
+    "ipa": "/ˈbaɪndɪŋ/",
+    "meaning": "有约束力的；装订、封装部分；绑带、连接固定物",
+    "sense": "协议 binding，是它对相关人形成约束；书的 binding，则把书页固定为一本书的装订结构。一个看抽象约束，一个看具体结合。",
+    "split": "bind + -ing，中古英语已有 byndynge。可作性质形容词，也可命名连接、装订过程及相关构件，不能每次都译成正在绑。",
+    "history": [
+      [
+        "古英语 bindan → 中古英语 binden → bind",
+        "绑、束、连接"
+      ],
+      [
+        "实体和抽象扩展",
+        "把材料黏合、书页装订；让承诺、义务产生约束"
+      ],
+      [
+        "bind + -ing → binding",
+        "约束性质；装订、连接过程与结构"
+      ]
+    ],
+    "explanation": "a binding agreement 有约束力的协议，legally binding 具有法律约束力，the book’s binding 书的装订、封装结构。具体法律效力依情境判断，词本身是性质标签。",
+    "usage": "a binding agreement；legally binding；the book’s binding。",
+    "contrast": "binding 不只是书脊那一小段，也可说整套装订、封装。nonbinding recommendation 是不具约束力的建议，不等于完全没有参考价值。",
+    "examples": [
+      [
+        "The agreement is binding on both parties.",
+        "协议对双方都有约束力。"
+      ],
+      [
+        "The old book’s binding needed repair.",
+        "旧书的装订部分需要修理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/binding#English"
+    ]
+  },
+  {
+    "word": "binder",
+    "ipa": "英 /ˈbaɪndə/；美 /ˈbaɪndər/",
+    "meaning": "活页夹；黏合、结合剂；装订者、装订器",
+    "sense": "散纸用活页夹收拢，粉末用结合剂连起来，书页由装订者固定起来，都有 binder 把东西连成整体的功能。",
+    "split": "bind + -er，中古英语已有 byndere。-er 可命名人物、器具或材料，核心是起结合、固定作用。",
+    "history": [
+      [
+        "古英语 bindan → 中古英语 binden → bind",
+        "绑、束、连接"
+      ],
+      [
+        "实体和抽象扩展",
+        "把材料黏合、书页装订；让承诺、义务产生约束"
+      ],
+      [
+        "bind + -er → binder",
+        "执行或帮助结合、装订的人物、器具、材料"
+      ]
+    ],
+    "explanation": "a ring binder 环形活页夹，a binding agent／binder 结合剂，a bookbinder 装订工。材料语境中的 binder 不一定就是常见液体胶水。",
+    "usage": "a ring binder；a binder in a mixture；bookbinder。",
+    "contrast": "binder 不是每次都指装订工。文件夹是把纸组织固定，材料里的 binder 是把其他成分结合起来。",
+    "examples": [
+      [
+        "She keeps the notes in a ring binder.",
+        "她把笔记放在环形活页夹里。"
+      ],
+      [
+        "The mixture contains a binder that holds the particles together.",
+        "混合物中含有一种把颗粒结合起来的黏结剂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/binder#English"
+    ]
+  },
+  {
+    "word": "unworthy",
+    "ipa": "英 /ʌnˈwɜːði/；美 /ʌnˈwɝːði/",
+    "meaning": "不值得的；不配、不相称的",
+    "sense": "一份工作不值得这样大费周章，或一种行为与某人的身份不相称，都可用 unworthy。通常要看它不配什么、不相称于什么。",
+    "split": "un- 否定 + worthy；中古英语已有 unworthy。worthy 联系 worth 的价值、值得，否定的是相应评价关系，不是一个人所有方面的价值。",
+    "history": [
+      [
+        "worth → worthy",
+        "有价值、值得、符合某种要求"
+      ],
+      [
+        "unworthy／worthiness",
+        "不值得、不相称；值得、合格这一性质"
+      ]
+    ],
+    "explanation": "unworthy of attention 不值得注意，unworthy of the honour 不配这份荣誉，behaviour unworthy of a leader 不符合领导身份的行为。",
+    "usage": "unworthy of attention；unworthy of the honour。",
+    "contrast": "unworthy 常带明确评价标准，worthless 更强地说毫无价值。一个行为 unworthy，不等于应把整个人概括成一文不值。",
+    "examples": [
+      [
+        "The claim was unworthy of serious attention.",
+        "这个说法不值得认真关注。"
+      ],
+      [
+        "He considered the remark unworthy of a close friend.",
+        "他觉得亲近朋友不该说那样的话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unworthy#English"
+    ]
+  },
+  {
+    "word": "worthiness",
+    "ipa": "英 /ˈwɜːðinəs/；美 /ˈwɝːðinəs/",
+    "meaning": "值得、相称的性质；合格程度",
+    "sense": "不是只问有没有价值，而是问值不值得某种认可、是否达到某个用途的要求。这层值得、合格的评价可以叫 worthiness。",
+    "split": "worthy + -ness，y 变 i；中古英语已有 worthynesse。由形容词转成性质名词。",
+    "history": [
+      [
+        "worth → worthy",
+        "有价值、值得、符合某种要求"
+      ],
+      [
+        "unworthy／worthiness",
+        "不值得、不相称；值得、合格这一性质"
+      ],
+      [
+        "worthy + -ness → worthiness",
+        "值得、相称或合格这一性质"
+      ]
+    ],
+    "explanation": "the worthiness of a cause 一项事业的正当、值得支持之处，assess worthiness 评估是否值得、是否相称。更具体的复合词如 roadworthiness 则看特定用途要求。",
+    "usage": "the worthiness of a cause；assess worthiness。",
+    "contrast": "worthiness 是评价性质，worth 可以更直接说价值。讨论 worthy of an award 时，是对该奖项标准的判断，不能自动等同于人生总体价值。",
+    "examples": [
+      [
+        "No one questioned the worthiness of the cause.",
+        "没人质疑这项事业值得支持。"
+      ],
+      [
+        "The committee debated the project’s worthiness of further funding.",
+        "委员会讨论了这个项目是否值得继续资助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worthiness#English"
+    ]
+  },
+  {
+    "word": "brush",
+    "ipa": "/brʌʃ/",
+    "meaning": "刷子；刷、轻擦；灌丛；电刷",
+    "sense": "一束细毛固定在把手上，是熟悉的刷子；手臂轻轻擦过物体也可说 brush。野外的 brush 却常是成片矮树、灌木。",
+    "split": "刷具义经古法语 broisse、brosse；灌丛义接 broce 等旧形式。远源涉及刷毛、枝丛等不同分析，不把野灌木直接说成现代刷子的发明来源。",
+    "history": [
+      [
+        "古法语 broisse／brosse → 中古英语 brusshe → brush",
+        "刷具、刷毛相关名称"
+      ],
+      [
+        "古法语 broce／broche 等 → brush 灌丛义",
+        "矮树、灌木丛；远处与刷具词源的联系有不同分析"
+      ],
+      [
+        "现代器具与外形、动作扩展",
+        "刷、轻擦；电刷；按用途命名具体刷具"
+      ]
+    ],
+    "explanation": "brush your hair 梳头，brush your teeth 刷牙，brush against the wall 轻擦墙面，a brush with danger 一次与危险的短暂接触，thick brush 茂密灌丛。",
+    "usage": "brush your hair；brush against；a brush with；thick brush。",
+    "contrast": "brush 可以是工具、动作，也可是植被。刷牙通常说 brush your teeth，不把 toothbrush 直接当所有语境的常规动词替代。",
+    "examples": [
+      [
+        "She brushed the dust off her coat.",
+        "她掸掉了外套上的灰尘。"
+      ],
+      [
+        "The path disappeared into thick brush.",
+        "小路消失在茂密灌丛中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brush#English"
+    ]
+  },
+  {
+    "word": "toothbrush",
+    "ipa": "/ˈtuːθbrʌʃ/",
+    "meaning": "牙刷",
+    "sense": "tooth 告诉你清洁对象，brush 告诉你工具类型。组合后叫牙刷，当然可以刷很多颗牙，不是只许刷一颗。",
+    "split": "tooth 牙 + brush 刷子。英语复合名词前半经常用单数来表类别，不因实际有多颗牙就变成 teethbrush。",
+    "history": [
+      [
+        "古法语 broisse／brosse → 中古英语 brusshe → brush",
+        "刷具、刷毛相关名称"
+      ],
+      [
+        "tooth + brush → toothbrush",
+        "以牙齿为清洁对象的刷具"
+      ]
+    ],
+    "explanation": "an electric toothbrush 电动牙刷，a toothbrush holder 牙刷架。普通复数 toothbrushes，词尾刷具整体加复数。",
+    "usage": "an electric toothbrush；a toothbrush holder。",
+    "contrast": "toothbrush 是工具，toothpaste 是牙膏；brush your teeth 是动作。前半单数 tooth 不限定一次清洁一颗牙。",
+    "examples": [
+      [
+        "She packed her toothbrush before leaving.",
+        "她出发前把牙刷装进了行李。"
+      ],
+      [
+        "The hotel provided a toothbrush and toothpaste.",
+        "酒店提供了一支牙刷和牙膏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toothbrush#English"
+    ]
+  },
+  {
+    "word": "brushless",
+    "ipa": "/ˈbrʌʃləs/",
+    "meaning": "无刷的；无需刷具的",
+    "sense": "在 motor 旁边，brushless 说电机不用传统电刷来完成相应换向接触。这里的刷不是拿来扫灰尘的刷子。",
+    "split": "brush + -less 没有、无需。机械语境接电刷这一特定部件义；别的语境也可按普通刷具理解。",
+    "history": [
+      [
+        "古法语 broisse／brosse → 中古英语 brusshe → brush",
+        "刷具、刷毛相关名称"
+      ],
+      [
+        "brush 的电刷义 + -less → brushless",
+        "无刷电机等技术名称"
+      ]
+    ],
+    "explanation": "a brushless motor 无刷电机，a brushless design 无刷设计。词说明结构类别，本身不提供具体性能、效率数值。",
+    "usage": "a brushless motor；a brushless design。",
+    "contrast": "brushless 不表示整个设备完全没有运动接触，也不表示无需清洁。它针对的是相应电刷部件。",
+    "examples": [
+      [
+        "The tool uses a brushless motor.",
+        "这个工具使用无刷电机。"
+      ],
+      [
+        "The brochure compares brushed and brushless designs.",
+        "宣传册比较了有刷与无刷设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brushless#English"
+    ]
+  },
+  {
+    "word": "underbrush",
+    "ipa": "英 /ˈʌndəbrʌʃ/；美 /ˈʌndərbrʌʃ/",
+    "meaning": "林下灌丛、矮生植被",
+    "sense": "高树下面还长着矮树、灌木和其他密生植物，这一层可以叫 underbrush。重点是森林下面那层植被，不是放在桌下的刷子。",
+    "split": "under- 在下面 + brush 灌丛义。与刷具主线分开，从植被位置形成名称。",
+    "history": [
+      [
+        "古法语 broce／broche 等 → brush 灌丛义",
+        "矮树、灌木丛；远处与刷具词源的联系有不同分析"
+      ],
+      [
+        "under- + brush 灌丛 → underbrush",
+        "林木下方的灌木、小树等植被"
+      ]
+    ],
+    "explanation": "dense underbrush 茂密林下灌丛，push through the underbrush 穿过林下灌丛。通常作不可数集合性名称。",
+    "usage": "dense underbrush；push through the underbrush。",
+    "contrast": "underbrush 和 undergrowth 常有重叠；brushwood 更常说灌木、细枝或作燃料的枝条，具体指向看语境。",
+    "examples": [
+      [
+        "The hikers pushed through dense underbrush.",
+        "徒步者穿过茂密的林下灌丛。"
+      ],
+      [
+        "Small birds sheltered in the underbrush.",
+        "小鸟躲在林下灌丛里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underbrush#English"
+    ]
+  },
+  {
+    "word": "sagebrush",
+    "ipa": "/ˈseɪdʒbrʌʃ/",
+    "meaning": "蒿属灌木〔尤指北美荒漠蒿灌木〕",
+    "sense": "一种常见于北美干旱地带、带芳香的灌木名称。它闻起来、外观上让人联想到 sage 鼠尾草，所以借 sage 命名，但不是同一属植物。",
+    "split": "sage 鼠尾草相关名称 + brush 灌木丛。名称借相似的气味、外观，常指 Artemisia 蒿属的一些灌木，不由 sage 智者来解释。",
+    "history": [
+      [
+        "古法语 broce／broche 等 → brush 灌丛义",
+        "矮树、灌木丛；远处与刷具词源的联系有不同分析"
+      ],
+      [
+        "sage + brush → sagebrush",
+        "借鼠尾草相似特征命名的蒿属灌木"
+      ]
+    ],
+    "explanation": "sagebrush habitat 蒿灌木生境，sagebrush country 蒿灌木分布的地带。不同地区和具体名称可能指不同种，普通词不等于只有一个物种。",
+    "usage": "sagebrush habitat；sagebrush country。",
+    "contrast": "sagebrush 通常是蒿属，烹饪里常见的 sage 则通常是鼠尾草属。相似俗名不保证植物亲缘、食用用途相同。",
+    "examples": [
+      [
+        "The trail crosses open sagebrush country.",
+        "步道穿过开阔的蒿灌木地带。"
+      ],
+      [
+        "The study mapped sagebrush habitat in the valley.",
+        "研究绘制了山谷中的蒿灌木生境分布。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sagebrush#English",
+      "https://www.nps.gov/colm/learn/nature/big-sagebrush.htm"
+    ]
+  }
+]

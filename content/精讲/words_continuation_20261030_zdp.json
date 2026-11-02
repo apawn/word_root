@@ -1,0 +1,716 @@
+[
+  {
+    "word": "scrolls",
+    "ipa": "英 /skrəʊlz/；美 /skroʊlz/",
+    "meaning": "卷轴、卷纹〔复数〕；滚动查看〔第三人称单数〕",
+    "sense": "博物馆里的几份纸卷是 scrolls；程序让一段内容移过去，动词也用 scrolls。先分清是物件还是动作。",
+    "split": "scroll + -s，/l/ 后读 /z/。基础词经法语纸片、纸卷材料进入英语，词形受 roll 影响。",
+    "history": [
+      [
+        "法语纸片、卷轴材料 → 英语 scroll",
+        "书写纸卷；名词后来发展动词"
+      ],
+      [
+        "scroll + -s → scrolls",
+        "多份卷轴；它滚动内容"
+      ]
+    ],
+    "explanation": "ancient scrolls 古代卷轴；the text scrolls 文字滚动。",
+    "usage": "handwritten scrolls 手写卷轴；scrolls across the screen 滚过屏幕。",
+    "contrast": "scrolls 的复数不会自动变成屏幕动作；ancient、handwritten 等修饰语通常选出实物卷轴。",
+    "examples": [
+      [
+        "The archive keeps several damaged scrolls.",
+        "档案馆保存着几份受损卷轴。"
+      ],
+      [
+        "The text scrolls slowly across the screen.",
+        "文字缓慢滚过屏幕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrolls#English",
+      "https://www.etymonline.com/word/scroll"
+    ]
+  },
+  {
+    "word": "scrolled",
+    "ipa": "英 /skrəʊld/；美 /skroʊld/",
+    "meaning": "滚动查看了；有卷纹的、卷曲的",
+    "sense": "把内容移动着看了一段，可以说 scrolled；物件的形容词用法也可说带卷轴般的卷纹。",
+    "split": "scroll + 完整的 -ed，/l/ 后读 /d/。动词从卷轴名发展，屏幕滚动义是后来的应用。",
+    "history": [
+      [
+        "scroll 名词 → 动词",
+        "卷轴相关动作，后来用于屏幕内容移动"
+      ],
+      [
+        "scroll + -ed → scrolled",
+        "过去滚动查看；卷纹、卷曲的状态"
+      ]
+    ],
+    "explanation": "scrolled down 向下滚动查看了；scrolled through the list 滚动看过列表。",
+    "usage": "scrolled back to the beginning 滚回开头；scrolled ironwork 有卷纹的铁艺。",
+    "contrast": "scrolled through 说明沿内容移动着看，不等于读懂了列表里的每一项。",
+    "examples": [
+      [
+        "I scrolled down to the last comment.",
+        "我往下滚动看到了最后一条评论。"
+      ],
+      [
+        "She scrolled through the photos on her phone.",
+        "她滑动着浏览手机里的照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrolled#English",
+      "https://www.etymonline.com/word/scroll"
+    ]
+  },
+  {
+    "word": "scrolling",
+    "ipa": "英 /ˈskrəʊlɪŋ/；美 /ˈskroʊlɪŋ/",
+    "meaning": "滚动查看；正在滚动的",
+    "sense": "窗口像一个小取景框，内容从框里不断移过；这个持续移动、查看的过程就是 scrolling。",
+    "split": "scroll + -ing，词形不变。纸卷与卷轴的旧名词先发展动词，现代屏幕过程再用 ing 形式表达。",
+    "history": [
+      [
+        "scroll 的卷轴名 → 屏幕滚动动词",
+        "把一段段内容显示出来"
+      ],
+      [
+        "scroll + -ing → scrolling",
+        "滚动的过程、正在进行的动作"
+      ]
+    ],
+    "explanation": "scrolling through messages 滑动浏览消息；smooth scrolling 平滑滚动。",
+    "usage": "keep scrolling 继续滚动查看；scrolling text 滚动文字。",
+    "contrast": "scrolling 指内容在可见区域里移动；swiping 是手指划过的动作，划一下可能触发滚动，也可能切换页面。",
+    "examples": [
+      [
+        "He kept scrolling until he found the date.",
+        "他继续往下翻，直到找到日期。"
+      ],
+      [
+        "The scrolling text was difficult to read.",
+        "滚动的文字不容易看清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrolling#English",
+      "https://www.etymonline.com/word/scroll"
+    ]
+  },
+  {
+    "word": "tabbed",
+    "ipa": "/tæbd/",
+    "meaning": "带标签的、以标签页组织的；加了标签；按 Tab 移动了",
+    "sense": "内容被分成一个个能点选的标签页，是 tabbed；在文字输入中也可表示用 Tab 键跳到下一位置。",
+    "split": "tab 双写末尾 b，加完整的 -ed → tabbed，读 /d/。标签页接小标签名，键盘动作接 Tab 键名，两条近源分开看。",
+    "history": [
+      [
+        "tab 的小标签支与 Tab 键截短支",
+        "可分别形成加标签、按键移动的动作"
+      ],
+      [
+        "tab + -ed → tabbed〔双写 b〕",
+        "过去动作；带标签页的状态"
+      ]
+    ],
+    "explanation": "a tabbed interface 标签页界面；tabbed browsing 标签页浏览。",
+    "usage": "tabbed to the next field 用 Tab 跳到下一输入栏；tabbed sections 带标签的分区。",
+    "contrast": "tabbed interface 是按标签组织内容，未必在说使用者按过键盘 Tab 键。",
+    "examples": [
+      [
+        "The application has a tabbed interface.",
+        "这个应用采用标签页界面。"
+      ],
+      [
+        "She tabbed to the next field on the form.",
+        "她按 Tab 跳到了表单的下一输入栏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tabbed#English",
+      "https://www.etymonline.com/word/tab"
+    ]
+  },
+  {
+    "word": "tabbing",
+    "ipa": "/ˈtæbɪŋ/",
+    "meaning": "按 Tab 移动；加标签的过程",
+    "sense": "从当前输入位置按 Tab 跳到下一处，持续做这件事，可以说 tabbing；给材料加标签也能用这个动词形式。",
+    "split": "tab 双写 b 加 -ing → tabbing，双写不让 /b/ 多读一遍。基础词有小标签、Tab 键的不同支。",
+    "history": [
+      [
+        "标签名／Tab 键名 → tab 动词",
+        "加标签；按 Tab 移动"
+      ],
+      [
+        "tab + -ing → tabbing〔双写 b〕",
+        "相应动作的过程"
+      ]
+    ],
+    "explanation": "tabbing between fields 在输入栏之间按 Tab 移动；tabbing through a form 按 Tab 逐栏移动。",
+    "usage": "tabbing to the next box 按 Tab 到下一框；tabbing pages 给书页加标签。",
+    "contrast": "tabbing 通常说 Tab 键或加标签动作；单纯用鼠标点另一个标签页，直接说 switching tabs 往往更清楚。",
+    "examples": [
+      [
+        "Tabbing between the fields was quicker than using the mouse.",
+        "按 Tab 在输入栏间移动比用鼠标快。"
+      ],
+      [
+        "She was tabbing the pages she wanted to discuss.",
+        "她正在给想讨论的书页加标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tabbing#English",
+      "https://www.etymonline.com/word/tab"
+    ]
+  },
+  {
+    "word": "clicks",
+    "ipa": "/klɪks/",
+    "meaning": "咔哒声、点击次数〔复数〕；点击、合拍、突然明白〔第三人称单数〕",
+    "sense": "短促一声声咔哒可数成 clicks；点击次数也这样数。作动词时，它也能说人合拍、脑中忽然想通。",
+    "split": "拟声 click + -s，/k/ 后读 /s/。鼠标动作和比喻用法沿基础词扩展。",
+    "history": [
+      [
+        "拟声 click",
+        "轻脆短响；相应动作"
+      ],
+      [
+        "click + -s → clicks",
+        "多个响声、点击；它点击、合拍、想通"
+      ]
+    ],
+    "explanation": "a few clicks 几次点击；everything clicks 一切突然想通。",
+    "usage": "clicks on the link 点击链接；clicks with the team 与团队合拍。",
+    "contrast": "clicks 可统计操作次数，不能单凭这个词推断有多少不同的人操作。",
+    "examples": [
+      [
+        "The page was only two clicks away.",
+        "再点两下就能到那个页面。"
+      ],
+      [
+        "After a few examples, the pattern suddenly clicks.",
+        "看几个例子后，这个规律突然就明白了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clicks#English",
+      "https://en.wiktionary.org/wiki/click#English"
+    ]
+  },
+  {
+    "word": "clicked",
+    "ipa": "/klɪkt/",
+    "meaning": "点击了；发出咔哒声；突然明白了；合拍了",
+    "sense": "鼠标按下的一声、门锁扣上的一声，都可说 clicked。想法终于扣到一起，也借这个词说突然懂了。",
+    "split": "click + -ed，/k/ 后词尾读 /t/。拟声基础发展动作，再有理解、相处的比喻。",
+    "history": [
+      [
+        "拟声 click → 点击、扣合声",
+        "先有短促清脆声音的材料"
+      ],
+      [
+        "click + -ed → clicked",
+        "过去动作；也说突然理解、彼此合拍"
+      ]
+    ],
+    "explanation": "clicked the button 点击了按钮；it clicked 想通了。",
+    "usage": "the lock clicked 锁咔哒一响；we clicked 我们合得来。",
+    "contrast": "it clicked 形容突然理解，不要求真实听见声音；We clicked 通常说人与人很合拍。",
+    "examples": [
+      [
+        "I clicked the link in the message.",
+        "我点了消息里的链接。"
+      ],
+      [
+        "When she drew the diagram, the idea finally clicked.",
+        "她把图画出来后，我终于明白了这个想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clicked#English",
+      "https://en.wiktionary.org/wiki/click#English"
+    ]
+  },
+  {
+    "word": "tapped",
+    "ipa": "/tæpt/",
+    "meaning": "轻敲、轻点了；取用、选中了",
+    "sense": "手指轻碰一下，是 tapped；把资源接入使用，也可说 tapped。前者抓轻触，后者抓接上、取用。",
+    "split": "tap 双写 p 加 -ed，/p/ 后读 /t/。轻敲支接中古英语 tappen；取用支接古英语放流、桶塞相关词，历史分别看。",
+    "history": [
+      [
+        "轻敲 tap；另支放流、取用 tap",
+        "不同近源词形汇合"
+      ],
+      [
+        "tap + -ed → tapped〔双写 p〕",
+        "过去轻触、取用、选人等动作"
+      ]
+    ],
+    "explanation": "tapped the screen 轻点了屏幕；tapped local expertise 利用了当地专长。",
+    "usage": "tapped on the window 轻敲了窗；tapped for the role 被选中担任角色。",
+    "contrast": "tapped for a role 是被选中，tapped on the shoulder 是肩膀被轻拍，介词和宾语帮你选义。",
+    "examples": [
+      [
+        "She tapped the screen twice.",
+        "她轻点了两下屏幕。"
+      ],
+      [
+        "The project tapped the knowledge of local farmers.",
+        "项目利用了当地农民的知识。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tapped#English",
+      "https://www.etymonline.com/word/tap"
+    ]
+  },
+  {
+    "word": "tapping",
+    "ipa": "/ˈtæpɪŋ/",
+    "meaning": "轻敲、轻点；取用、接入的过程",
+    "sense": "手指轻轻点、铅笔轻轻敲，都是 tapping；项目取用某种资源时也能用它，理解时分开动作支。",
+    "split": "tap 双写 p 加 -ing。轻敲词与放流取用词近源不同，这个 ing 只表示各自动作的进行、过程。",
+    "history": [
+      [
+        "tap 的轻敲支／放流、取用支",
+        "不同来源的同形动词"
+      ],
+      [
+        "tap + -ing → tapping〔双写 p〕",
+        "轻敲、取用动作的过程"
+      ]
+    ],
+    "explanation": "tapping on the desk 轻敲桌子；tapping into experience 利用经验。",
+    "usage": "a tapping sound 轻敲声；tapping the screen 轻点屏幕。",
+    "contrast": "tapping 常是短而轻的接触；pressing 更突出施加压力、按住，实际动作是否重叠要看语境。",
+    "examples": [
+      [
+        "He was tapping his pencil on the desk.",
+        "他正用铅笔轻敲桌面。"
+      ],
+      [
+        "Tapping into local experience helped the team.",
+        "利用当地经验帮到了团队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tapping#English",
+      "https://www.etymonline.com/word/tap"
+    ]
+  },
+  {
+    "word": "swipe",
+    "ipa": "/swaɪp/",
+    "meaning": "划、刷过；挥打；顺手偷走；一记挥击、挖苦",
+    "sense": "手或东西迅速扫过一段距离，是 swipe 的好画面：手指划屏、卡片刷过读卡器，都能这样说；口语里也能说顺手拿走。",
+    "split": "早期名词说挥臂重击，动词由它发展。可能与 sweep 方言变体或旧 swip、swaip 挥打词有关，不能确定只由现代 sweep 改拼来。",
+    "history": [
+      [
+        "旧挥打、扫过材料 → swipe 名词〔具体关系未定〕",
+        "一记挥击、扫击"
+      ],
+      [
+        "swipe 动词及新场景",
+        "挥过；偷拿；卡片刷过、手指划屏"
+      ]
+    ],
+    "explanation": "swipe the screen 划屏；swipe a card 刷卡；take a swipe at someone 挖苦、攻击某人。",
+    "usage": "swipe left 向左划；swipe a biscuit 顺手偷拿一块饼干。",
+    "contrast": "swipe 是划过，tap 是短暂点一下；take a swipe at 也可说言语攻击，不一定真挥拳。",
+    "examples": [
+      [
+        "Swipe left to see the next photo.",
+        "向左划，查看下一张照片。"
+      ],
+      [
+        "Who tried to swipe my last biscuit?",
+        "谁想顺手拿走我最后那块饼干？"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/swipe",
+      "https://en.wiktionary.org/wiki/swipe#English"
+    ]
+  },
+  {
+    "word": "swipes",
+    "ipa": "/swaɪps/",
+    "meaning": "划过、刷卡、偷拿〔第三人称单数〕；划动、挥击、挖苦〔复数〕",
+    "sense": "一次次手指划动可以数成 swipes；主语是一个人，说他划、刷、偷拿，也用 swipes。",
+    "split": "swipe + -s，末尾 e 保留，/p/ 后读 /s/。动作由较早挥打、扫过的用途扩展。",
+    "history": [
+      [
+        "挥击 swipe → 刷过、划动、顺手拿走",
+        "扫过动作的场景扩展"
+      ],
+      [
+        "swipe + -s → swipes",
+        "它做相应动作；多次划动、挥击等"
+      ]
+    ],
+    "explanation": "a few swipes 几次划动；swipes a card 刷卡。",
+    "usage": "swipes across the screen 在屏幕上划过；swipes at the policy 对那项政策的挖苦。",
+    "contrast": "复数 swipes 可能是屏幕手势，也可能是攻击、挖苦，后接 at 时留意对象。",
+    "examples": [
+      [
+        "A few swipes brought me to the photo I wanted.",
+        "划了几下，我找到了想看的照片。"
+      ],
+      [
+        "She swipes her card at the station gate.",
+        "她在车站闸口刷卡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swipes#English",
+      "https://www.etymonline.com/word/swipe"
+    ]
+  },
+  {
+    "word": "swiped",
+    "ipa": "/swaɪpt/",
+    "meaning": "划过、刷过了；挥打了；顺手偷走了",
+    "sense": "手指刷地划过去、卡片刷过机器，是 swiped。若宾语是别人的东西，口语也可能说偷拿了。",
+    "split": "swipe 去末尾 e，加完整的 -ed → swiped；/p/ 后词尾读 /t/。",
+    "history": [
+      [
+        "swipe 的挥过动作 → 划屏、刷卡、偷拿",
+        "动作画面进入不同生活场景"
+      ],
+      [
+        "swipe + -ed → swiped〔去 e〕",
+        "过去的相应动作"
+      ]
+    ],
+    "explanation": "swiped the card 刷了卡；swiped through the photos 划动浏览了照片。",
+    "usage": "swiped my pen 顺手拿走了我的笔；swiped at the ball 挥手打了那球。",
+    "contrast": "刷卡、划屏与偷拿共享拼写，但对象与语境能区分；不能见到 swiped 就一律译成偷。",
+    "examples": [
+      [
+        "He swiped his card and entered the building.",
+        "他刷卡进了大楼。"
+      ],
+      [
+        "Someone swiped my pen during the meeting.",
+        "开会时有人顺手拿走了我的笔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swiped#English",
+      "https://www.etymonline.com/word/swipe"
+    ]
+  },
+  {
+    "word": "swiping",
+    "ipa": "/ˈswaɪpɪŋ/",
+    "meaning": "划动、刷过；挥击、顺手偷拿的过程",
+    "sense": "手指还在一下一下扫过屏幕，可以说 swiping。卡片刷过、手挥过去的动作也沿相同画面理解。",
+    "split": "swipe 去 e 加 -ing → swiping。基础词有挥打、扫过的历史，手机手势是后来的对象变化。",
+    "history": [
+      [
+        "swipe 的扫过、挥打动作",
+        "扩到刷卡与屏幕手势等场景"
+      ],
+      [
+        "swipe + -ing → swiping〔去 e〕",
+        "正在划动、刷过等；相应过程"
+      ]
+    ],
+    "explanation": "swiping through photos 划动浏览照片；swiping a card 刷卡。",
+    "usage": "keep swiping 继续划；swiping across the screen 从屏幕上划过。",
+    "contrast": "swiping 说手势，scrolling 说内容的滚动呈现；手势和结果可以同时发生，但说话焦点不同。",
+    "examples": [
+      [
+        "She was swiping through her holiday photos.",
+        "她正划动浏览度假照片。"
+      ],
+      [
+        "She opened the door by swiping her card.",
+        "她刷卡打开了门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swiping#English",
+      "https://www.etymonline.com/word/swipe"
+    ]
+  },
+  {
+    "word": "drags",
+    "ipa": "/dræɡz/",
+    "meaning": "拖、拖动；拖延、过得慢〔第三人称单数〕；拖累、乏味事〔复数〕",
+    "sense": "东西贴着面被拉走，是 drags；时间像被拖着不肯走，也可以用它说事情拖沓。",
+    "split": "drag + -s，/ɡ/ 后读 /z/。拖拉动词有中古英语、北欧相关来源，界面拖动是现代场景扩展。",
+    "history": [
+      [
+        "中古英语 draggen 等 → drag",
+        "拖拉、牵引"
+      ],
+      [
+        "drag + -s → drags",
+        "它拖动；时间或事情拖沓；多个拖累"
+      ]
+    ],
+    "explanation": "drags the chair 拖椅子；the meeting drags 会议拖拖拉拉。",
+    "usage": "drags a file into a folder 把文件拖进文件夹；time drags 时间过得慢。",
+    "contrast": "drags 的物理动作有阻力感；时间义把这种费劲、迟缓的感觉借过去。",
+    "examples": [
+      [
+        "She drags the file into a new folder.",
+        "她把文件拖进新文件夹。"
+      ],
+      [
+        "The afternoon drags when there is nothing to do.",
+        "无事可做时，下午过得格外慢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drags#English",
+      "https://en.wiktionary.org/wiki/drag#English"
+    ]
+  },
+  {
+    "word": "hovers",
+    "ipa": "英 /ˈhɒvəz/；美 /ˈhʌvərz/",
+    "meaning": "悬停；在附近徘徊；指针停留〔第三人称单数〕",
+    "sense": "直升机待在空中同一处，人在门边徘徊，指针停在图标附近，都可用 hovers。抓住在某处附近留着的画面。",
+    "split": "hover + -s，读 /z/。hover 经中古英语 hoveren，较早 hoven 的悬浮、逗留材料加旧动作成分；更远分析未定。",
+    "history": [
+      [
+        "hoven 等 → hoveren → hover",
+        "悬浮、微动、逗留"
+      ],
+      [
+        "hover + -s → hovers",
+        "它悬停、在附近停留"
+      ]
+    ],
+    "explanation": "hovers above the ground 在地面上方悬停；hovers near the door 在门附近徘徊。",
+    "usage": "hovers over an icon 指针停在图标上；hovers around a value 在某个数值附近波动。",
+    "contrast": "hovers around a number 不必想成数字飞在空中，而是上下小幅变化、整体留在附近。",
+    "examples": [
+      [
+        "The helicopter hovers above the field.",
+        "直升机在田野上方悬停。"
+      ],
+      [
+        "The temperature hovers around ten degrees.",
+        "温度在十度左右徘徊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hovers#English",
+      "https://www.etymonline.com/word/hover"
+    ]
+  },
+  {
+    "word": "hovered",
+    "ipa": "英 /ˈhɒvəd/；美 /ˈhʌvərd/",
+    "meaning": "悬停了；在附近徘徊、停留了",
+    "sense": "已经在某处附近留过一阵，是 hovered。可以是空中飞行，也可以是人在门旁迟迟没离开。",
+    "split": "hover + -ed，英式元音后、美式 /r/ 后词尾读 /d/；不另添 /ɪd/。",
+    "history": [
+      [
+        "中古英语 hoveren → hover",
+        "在附近悬浮、徘徊、微动"
+      ],
+      [
+        "hover + -ed → hovered",
+        "过去在某处或附近停留"
+      ]
+    ],
+    "explanation": "hovered over the field 在田野上方悬停了；hovered by the door 在门旁徘徊。",
+    "usage": "hovered over the button 指针停在按钮上；prices hovered 价格徘徊。",
+    "contrast": "hovered 着重留在附近；passed 着重经过同一个位置，动作的时间感觉不同。",
+    "examples": [
+      [
+        "A bird hovered above the garden.",
+        "一只鸟在花园上方悬停。"
+      ],
+      [
+        "He hovered by the door, unsure whether to enter.",
+        "他在门旁徘徊，拿不准要不要进去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hovered#English",
+      "https://www.etymonline.com/word/hover"
+    ]
+  },
+  {
+    "word": "cursors",
+    "ipa": "英 /ˈkɜːsəz/；美 /ˈkɜːrsərz/",
+    "meaning": "光标、游标〔复数〕",
+    "sense": "显示当前位置、会随着操作移动的标记，是 cursors。可以是一条闪烁竖线，也可以是其他定位形状。",
+    "split": "拉丁 cursor 跑者接 currere 跑，英语借给移动指示件；现代 cursor 加 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁 currere → cursor",
+        "跑；跑者"
+      ],
+      [
+        "英语 cursor → cursors",
+        "移动指示件、光标；多个光标"
+      ]
+    ],
+    "explanation": "text cursors 文本光标；blinking cursors 闪烁的光标。",
+    "usage": "move the cursors 移动光标；different cursors 不同光标形状。",
+    "contrast": "cursor 取可移动定位的用途，不要求它真的跑得快；多个编辑位置也可各有一个光标。",
+    "examples": [
+      [
+        "The editor displayed two cursors in the document.",
+        "编辑器在文档中显示了两个光标。"
+      ],
+      [
+        "The cursors blinked in the empty text boxes.",
+        "光标在空文本框里闪烁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cursors#English",
+      "https://en.wiktionary.org/wiki/cursor#English"
+    ]
+  },
+  {
+    "word": "pointers",
+    "ipa": "英 /ˈpɔɪntəz/；美 /ˈpɔɪntərz/",
+    "meaning": "指针、指示物；实用建议〔复数〕",
+    "sense": "把注意力指到某处的东西，是 pointers；别人给你几句能上手的建议，也像给你指个方向。",
+    "split": "point 指向 + -er → pointer，再加 -s。point 的较远材料接拉丁 punctum 刺出的点、尖端。",
+    "history": [
+      [
+        "point + -er → pointer",
+        "按指向作用命名指示物、提供方向的东西"
+      ],
+      [
+        "pointer + -s → pointers",
+        "多个指针、指示物；几条建议"
+      ]
+    ],
+    "explanation": "mouse pointers 鼠标指针；a few pointers 几条实用建议。",
+    "usage": "pointers on writing 写作上的指点；laser pointers 激光指示笔。",
+    "contrast": "给建议时 pointers 常是短而实用的指点；编程 pointers 则有内存地址的专门义，要由语境区分。",
+    "examples": [
+      [
+        "The coach gave me a few pointers on footwork.",
+        "教练给了我几条步法上的指点。"
+      ],
+      [
+        "The display showed pointers for both users.",
+        "显示屏上能看到两位使用者各自的指针。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pointers#English",
+      "https://en.wiktionary.org/wiki/pointer#English"
+    ]
+  },
+  {
+    "word": "login",
+    "ipa": "英 /ˈlɒɡɪn/；美 /ˈlɑːɡɪn/",
+    "meaning": "登录；登录名、登录信息；登录用的",
+    "sense": "进入账户或系统的那次登录、所用身份信息，可以叫 login。把“登记进入”这个动作固定成一个名称，就容易懂。",
+    "split": "由动词短语 log in 连写为名词、定语。log 取记录、登记的一支，经航海 logbook 联系旧木质测速用具；不接希腊 logos。",
+    "history": [
+      [
+        "log 的记录义 + in → log in",
+        "记录、登记进入系统的动作"
+      ],
+      [
+        "短语固定为 login",
+        "一次登录；登录身份信息及相关功能名"
+      ]
+    ],
+    "explanation": "a login page 登录页；a successful login 一次成功登录。",
+    "usage": "login details 登录信息；your login 登录名、登录信息〔看上下文〕。",
+    "contrast": "标准表达中 login 常作名词、定语，动作写 log in：a login page，但 log in to an account。",
+    "examples": [
+      [
+        "The login page asked for my username.",
+        "登录页要求填写用户名。"
+      ],
+      [
+        "Her first login was recorded on Monday.",
+        "她的首次登录记录在星期一。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/login",
+      "https://en.wiktionary.org/wiki/login#English"
+    ]
+  },
+  {
+    "word": "logins",
+    "ipa": "英 /ˈlɒɡɪnz/；美 /ˈlɑːɡɪnz/",
+    "meaning": "登录次数、登录记录；登录身份信息〔复数〕",
+    "sense": "把一次次登录或不同账户的登录信息当成可数项，就用 logins。先看是在数进入次数，还是在说不同身份。",
+    "split": "log in 动词短语 → login 名词，再加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "log in → login",
+        "登录动作固定成名词"
+      ],
+      [
+        "login + -s → logins",
+        "多次登录、多个登录身份信息"
+      ]
+    ],
+    "explanation": "successful logins 成功登录记录；separate logins 不同登录身份。",
+    "usage": "failed logins 失败登录尝试；recent logins 最近的登录。",
+    "contrast": "logins 不一定是不同的人：同一个人可多次登录，也可有多个登录身份。",
+    "examples": [
+      [
+        "The report listed twenty successful logins.",
+        "报告列出了二十次成功登录。"
+      ],
+      [
+        "The two accounts use separate logins.",
+        "两个账户使用不同的登录信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/logins#English",
+      "https://www.etymonline.com/word/login"
+    ]
+  },
+  {
+    "word": "logout",
+    "ipa": "英 /ˈlɒɡaʊt/；美 /ˈlɑːɡaʊt/",
+    "meaning": "退出登录；注销登录的动作、功能",
+    "sense": "结束这次登录、离开已登录状态，这个动作或功能叫 logout。out 给离开，log 仍接登记、记录的一支。",
+    "split": "动词短语 log out 固定为名词、定语 logout；与 login 同属计算机登录用语。",
+    "history": [
+      [
+        "log 的记录义 + out → log out",
+        "结束登录、退出已登录状态"
+      ],
+      [
+        "log out → logout",
+        "退出登录这个动作或相应功能名称"
+      ]
+    ],
+    "explanation": "a logout button 退出登录按钮；automatic logout 自动退出登录。",
+    "usage": "after logout 退出登录后；the logout time 退出登录时间。",
+    "contrast": "logout 常是名词、定语，动作通常写 log out；close a window 只是关闭窗口，词义上并不自动等于退出账户。",
+    "examples": [
+      [
+        "The logout button was at the top of the page.",
+        "退出登录按钮在页面顶部。"
+      ],
+      [
+        "The system recorded the logout time.",
+        "系统记录了退出登录的时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/logout#English",
+      "https://en.wiktionary.org/wiki/log#English"
+    ]
+  }
+]

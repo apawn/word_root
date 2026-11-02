@@ -1,0 +1,152 @@
+[
+  {
+    "id": "B4067",
+    "meaning": "自我价值、成就感和可能的自高",
+    "core": "PROUD：把自己或成果看得高，可能自豪也可能傲慢",
+    "image": "proud → proudly，两种褒贬场景用例句分开。",
+    "intro": "古英语近源明确，法语勇武等背景及更早形成细节有不同分析。现代意思不强按单一褒贬推出。",
+    "forms": "proud + -ly；be proud of/to；too proud to。",
+    "branches": [
+      [
+        "性质与方式",
+        "proud · proudly"
+      ]
+    ],
+    "contrasts": "proud/arrogant 褒贬范围不同；proud of you 常赞许；proudly display 是表达方式。",
+    "practice": "The proud parent displayed the photograph proudly.\n\n那位自豪的家长很得意地展示了照片。",
+    "words": [
+      "proud",
+      "proudly"
+    ],
+    "exclude": {
+      "house-proud": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "purse-proud": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3157",
+    "meaning": "得到更多；收益、增长和获益者",
+    "core": "GAIN：原来没有或较少，现在获得、增加",
+    "image": "gain → gainer、gainful，动作或增量、参与方、收入性质相邻。",
+    "intro": "收益名词与取得动词有北欧、法语交汇背景，来源侧重有不同分析。增加未必都值得庆祝，依增加的对象判断。",
+    "forms": "gain + -er/-ful；gain on 追近；gain experience 获取经验。\n\n名动词有北欧、法语等相关历史，现代不强压成唯一来路。\n\n名词与北欧、法语背景相连，动词也接法语 gagner；保留不同路径。\n\n法语取得动词及相关收益名词各有背景，现代 ing 直接加。\n\n现代对应 gainful 加 -ly，gainful 内层 gain 加 -ful；gainfully employed 常说有收入地就业，不保证工资高或工作令人满足。\n\nregain 经法语 regaigner 接重新获得的构词，常说找回失去的控制、信心、位置。re- 在此确有再次、恢复的作用。",
+    "branches": [
+      [
+        "获得、获益方与有报酬",
+        "gain · gainer · gainful"
+      ],
+      [
+        "gain → gained：获得与增加",
+        "gain · gained"
+      ],
+      [
+        "gain → gains：得到的收益与取得进步",
+        "gain · gains"
+      ],
+      [
+        "gain → gaining：增加、逐步得到",
+        "gain · gains · gaining"
+      ],
+      [
+        "gainfully：能取得收入、回报的方式",
+        "gainful · gainfully"
+      ],
+      [
+        "re- 再 + gain 获得 → regain",
+        "regain"
+      ]
+    ],
+    "contrasts": "gain/win 搭配不同；gainer 不保证长期赢家；gainful 有收入不等于有成就感。",
+    "practice": "She gained experience while looking for gainful employment.\n\n她在寻找有报酬工作的同时积累了经验。",
+    "words": [
+      "gain",
+      "gainer",
+      "gainful",
+      "gained",
+      "gains",
+      "gaining",
+      "gainfully",
+      "regain"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4071",
+    "meaning": "恢复状态；找回丢失物和控制",
+    "core": "RECOVER：把丢掉的拿回，让状态恢复",
+    "image": "recover → recovery → recovering → recoverable，复用已有 recover 精讲。",
+    "intro": "recovery 保留法语名词路径，不能仅用现代 -y 替代历史。恢复、正在恢复、能否恢复三个阶段与性质分开。",
+    "forms": "recover + -ing/-able；recovery 与 recover 同族，法语名词借入；另有 re-cover 再覆盖的现代组合，非本页恢复义。",
+    "branches": [
+      [
+        "找回、过程与可能性",
+        "recover · recovery · recovering · recoverable"
+      ]
+    ],
+    "contrasts": "recovery 与 repair 不同；recovering 非 recovered；recoverable 非已经恢复；recover 恢复非 re-cover 再盖。",
+    "practice": "The files were recoverable, and the recovery took an hour.\n\n文件可以恢复，恢复过程花了一小时。",
+    "words": [
+      "recover",
+      "recovery",
+      "recovering",
+      "recoverable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4034",
+    "meaning": "共事共享伙伴；共同身份、情谊与学术成员",
+    "core": "FELLOW：把财物放一起的人，再到同群体伙伴",
+    "image": "fellow → fellowship，人物、共同关系和学术身份相邻。",
+    "intro": "古北欧共享财物背景与现代同伴关系相连。学术身份依机构而异，-ship 表关系而非船。",
+    "forms": "旧 fé + lag；fellow + -ship；fellow 作修饰语可表示共同身份。\n\nfellow 经古英语接古北欧 felagi，含财物与放下一份、共同投入的材料。现代可说同伴、伙计、学院或学会成员，身份义按机构看。",
+    "branches": [
+      [
+        "伙伴与关系、资助",
+        "fellow · fellowship"
+      ],
+      [
+        "共出一份的伙伴 → fellow → fellows",
+        "fellows"
+      ]
+    ],
+    "contrasts": "fellow 非 fell；fellow students 性别不限；research fellow 非一律教授；fellowship 并非船。",
+    "practice": "The research fellow valued the fellowship of the small team.\n\n那位研究员珍惜小团队里的伙伴情谊。",
+    "words": [
+      "fellow",
+      "fellowship",
+      "fellows"
+    ],
+    "exclude": {
+      "race-fellow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3205",
+    "meaning": "通风透光开口；玻璃片、窗台、有窗无窗与屏幕窗口",
+    "core": "WINDOW：像让风和光进来的眼睛，再借给屏幕区域",
+    "image": "window → windowpane、windowsill；windowed、windowless 相邻对照，复用基础词已有精讲。",
+    "intro": "旧 wind-eye 结构是来源，不要求每个现代窗必须正对风。屏幕窗口借开口、视区形象，不与产品专名混为一体。",
+    "forms": "旧 vindr + auga → vindauga；window + pane/sill/-ed/-less。",
+    "branches": [
+      [
+        "窗与部位",
+        "window · windowpane · windowsill"
+      ],
+      [
+        "有窗、窗口化与无窗",
+        "windowed · windowless"
+      ]
+    ],
+    "contrasts": "windowpane 玻璃、windowsill 台面；windowless 不一定黑；windowed 模式非某系统专用；pane/pain 同音异词。",
+    "practice": "The cat sat on the windowsill and watched rain on the windowpane.\n\n猫坐在窗台上，看着雨水打在窗玻璃上。",
+    "words": [
+      "window",
+      "windowpane",
+      "windowsill",
+      "windowed",
+      "windowless"
+    ],
+    "exclude": {}
+  }
+]

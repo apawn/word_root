@@ -1,0 +1,146 @@
+[
+  {
+    "word": "colored",
+    "ipa": "英 /ˈkʌləd/；美 /ˈkʌlərd/",
+    "meaning": "有颜色的、彩色的；着色的；受某种感情影响的",
+    "sense": "原本纸、水或判断被带上一层颜色；看得见的颜色和情绪滤镜都能这样理解。",
+    "split": "color + -ed；英式常拼 coloured。既可分词说被涂色，也可形容有颜色；修饰判断的用法接 color 影响、使带倾向的动词义。",
+    "history": [
+      [
+        "拉丁 color → 法语 colour、colur → 英语 color、colour",
+        "颜色；英美常见拼写不同"
+      ],
+      [
+        "现代 color",
+        "颜色；涂色；使判断带上某种倾向"
+      ],
+      [
+        "color + -ed → colored",
+        "有颜色、经着色；比喻受感情影响"
+      ]
+    ],
+    "explanation": "colored paper 彩纸，colored glass 彩色玻璃，a view colored by anger 被愤怒影响的看法。作英美当代族群称呼时，colored 常有过时、冒犯意味，不能当普通彩色义照搬称人。",
+    "usage": "colored paper；colored glass；colored by experience。",
+    "contrast": "colored 有颜色或被着色，colorful 常多彩、鲜明；colored paper 可以只有一种颜色，colorful display 往往是很多色彩。",
+    "examples": [
+      [
+        "The children cut shapes from colored paper.",
+        "孩子们用彩纸剪出各种形状。"
+      ],
+      [
+        "His judgment was colored by his earlier experience.",
+        "他的判断受到先前经历的影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/colored#English"
+    ]
+  },
+  {
+    "word": "colorist",
+    "ipa": "英 /ˈkʌlərɪst/；美 /ˈkʌlərɪst/",
+    "meaning": "配色、上色师；擅长用色的画家；染发师〔依行业〕",
+    "sense": "专门把颜色安排、调配、做出来的人：漫画上色、绘画用色、头发染色都可有这个角色。",
+    "split": "color + -ist，按用色、配色工作或专长命名。具体职业范围看行业，不是指某人身体有颜色。",
+    "history": [
+      [
+        "拉丁 color → 法语 colour、colur → 英语 color、colour",
+        "颜色；英美常见拼写不同"
+      ],
+      [
+        "现代 color",
+        "颜色；涂色；使判断带上某种倾向"
+      ],
+      [
+        "color + -ist → colorist",
+        "用色专家、上色或染色人员"
+      ]
+    ],
+    "explanation": "a comic-book colorist 漫画上色师，a skilled colorist 擅用色者，a hair colorist 染发师。",
+    "usage": "a comic-book colorist；a skilled colorist；a hair colorist。",
+    "contrast": "colorist 说用色角色，illustrator 插画师说创作插画；同一人可兼任，但一幅漫画的线稿和上色也可分工。另有肤色歧视语境的用法，需随上下文辨别。",
+    "examples": [
+      [
+        "The colorist gave each scene a different mood.",
+        "上色师给每个场景配出了不同氛围。"
+      ],
+      [
+        "She asked the hair colorist for a softer shade.",
+        "她请染发师选一个更柔和的色调。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/colorist#English"
+    ]
+  },
+  {
+    "word": "colorway",
+    "ipa": "英 /ˈkʌləweɪ/；美 /ˈkʌlərweɪ/",
+    "meaning": "配色；某款产品的一套颜色版本",
+    "sense": "鞋的款式一样，一双蓝白、一双黑金，是不同 colorways；看的是同一设计怎样配颜色。",
+    "split": "color + way 方式，固定用于纺织、时尚、产品等的配色版本。英式也可见 colourway，不是通向颜色的一条真实道路。",
+    "history": [
+      [
+        "拉丁 color → 法语 colour、colur → 英语 color、colour",
+        "颜色；英美常见拼写不同"
+      ],
+      [
+        "现代 color",
+        "颜色；涂色；使判断带上某种倾向"
+      ],
+      [
+        "color + way → colorway",
+        "一个设计采用的具体颜色组合、版本"
+      ]
+    ],
+    "explanation": "a new colorway 新配色，available in three colorways 有三套配色可选。",
+    "usage": "a new colorway；three colorways；a limited colorway。",
+    "contrast": "color 可能单一颜色，colorway 常整套搭配；palette 调色板、色彩体系范围更广，不必对应同款产品版本。",
+    "examples": [
+      [
+        "The shoes are available in three colorways.",
+        "这款鞋有三套配色可选。"
+      ],
+      [
+        "The new colorway combines dark green with cream.",
+        "新配色把深绿与奶油色组合在一起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/colorway#English"
+    ]
+  },
+  {
+    "word": "foreknowledge",
+    "ipa": "英 /fɔːˈnɒlɪdʒ/；美 /fɔːrˈnɑːlɪdʒ/",
+    "meaning": "预知；事先知情",
+    "sense": "事情还没发生，你已经知道会是什么；侧重先前知晓，不只猜测。",
+    "split": "fore- 预先、在前 + knowledge 知识。前缀说明知晓发生在事情前面，不能只因自己担心未来就叫 foreknowledge。",
+    "history": [
+      [
+        "中古英语 knowleche 等 → knowledge",
+        "知道、认识形成的名词；结尾不是现代 -edge"
+      ],
+      [
+        "fore- + knowledge → foreknowledge",
+        "事情发生前就已有的知识、了解"
+      ]
+    ],
+    "explanation": "foreknowledge of events 对事件的预知，with no foreknowledge 毫不事先知情。可见于小说情节、哲学、日常说明。",
+    "usage": "foreknowledge of；with no foreknowledge；have foreknowledge。",
+    "contrast": "foreknowledge 强调事先知道，prediction 预测强调判断未来的行为、说法；做过预测不保证已经知道真相。",
+    "examples": [
+      [
+        "She entered the room with no foreknowledge of the surprise.",
+        "她走进房间时，事先完全不知道那个惊喜。"
+      ],
+      [
+        "The novel gives the reader foreknowledge of the ending.",
+        "小说让读者预先知道了结局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foreknowledge#English"
+    ]
+  }
+]

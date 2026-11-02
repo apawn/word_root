@@ -1,0 +1,115 @@
+[
+  {
+    "id": "B3500",
+    "meaning": "空心管路线，与植物块茎的膨大路线分开",
+    "core": "TUBE：空心的管；TUBER：膨大的块，别硬接",
+    "image": "tube → tubing/tubal/tubeless/nanotube；tuber 植物义来自另一拉丁名词。",
+    "intro": "管形和膨大形恰好相反，摆在一起更容易识别。无内胎是少了一层特定内胎，纳米管是指定尺度，两者都须补清限定对象。",
+    "forms": "tubus → tube；tube 去 e 加 -ing/-al，接 -less；nano- + tube。另线 tūber 隆起 → tuber。\n\n法语 tube 接拉丁 tubus，根本画面是里面有空通路的管。",
+    "branches": [
+      [
+        "管、材料与相关性质",
+        "tube · tubing · tubal"
+      ],
+      [
+        "没有内胎和微观尺度",
+        "tubeless · nanotube"
+      ],
+      [
+        "形似字母、另源块茎",
+        "tuber"
+      ],
+      [
+        "tube → tubes：中空管与管状包装",
+        "tube · tubes"
+      ]
+    ],
+    "contrasts": "tuber 不由空心管加人物后缀而来；tubing 材料常不可数；tubeless 不等于无气；nano- 不保证直径恰好一纳米。",
+    "practice": "The display placed a potato tuber beside a model of a nanotube to contrast their shapes.\n\n展台把土豆块茎放在纳米管模型旁，对比两者的形状。",
+    "words": [
+      "tube",
+      "tubing",
+      "tubal",
+      "tubeless",
+      "nanotube",
+      "tuber",
+      "tubes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4439",
+    "meaning": "可利用的资源、提供资源与善用办法",
+    "core": "RESOURCE：有东西可调用，还要安排到位",
+    "image": "resource → resourcing 配置；resourceful 善于想办法、利用可用条件。",
+    "intro": "有资源、给资源和会用资源是三层意思。人手紧缺时仍能足智多谋，但不能拿一句聪明解决所有资源缺口。",
+    "forms": "resource 名词转动词；resource + -ing → resourcing；resource + -ful → resourceful。",
+    "branches": [
+      [
+        "资源、配置与能力",
+        "resource · resourcing · resourceful"
+      ]
+    ],
+    "contrasts": "resourcing 不只实物；resourceful 不是资源很多的简单同义词。",
+    "practice": "The resourceful manager still needed adequate resourcing.\n\n足智多谋的经理仍需要充足资源保障。",
+    "words": [
+      "resource",
+      "resourcing",
+      "resourceful"
+    ],
+    "exclude": {
+      "e-resource": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2980",
+    "meaning": "贴面滑动，及器具、下降和泥流的扩展",
+    "core": "SLIDE：贴着表面动，或像那样逐渐往下",
+    "image": "slide → slider；slither 是相关旧动词的蜿蜒滑行；mudslide、landslide 看下移材料；slideshow 连续展示演示页。",
+    "intro": "从动作分名词：滑梯让人滑，控件可滑动，演示页又固定成展示材料。别因词形近就把所有 -er 都看成人。",
+    "forms": "slīdan → slide/slid；slide + -er；slidrian 等 → slither；mud/land + slide；slide + show。\n\n古英语 slidan 继承，去 e 加完整 ing；过去式另为 slid。\n\nslide 去 e 加完整 er；小汉堡是固定词义，不能靠滑动字面推导全部细节。\n\nslither 经 slidrian、slidder 等历史形式联系 slide，含旧反复动作材料；不是把现代 slide 直接加 -er。\n\nslide 承古英语 slidan 滑动，后来有可滑动的器具、图片等名词义。现代保留 e 加 -s，/d/ 后读 /z/；幻灯片义联系投影图片的旧用法。",
+    "branches": [
+      [
+        "动作、部件与蜿蜒滑行",
+        "slide · slider · slither"
+      ],
+      [
+        "材料下移与展示组合",
+        "mudslide · landslide · slideshow"
+      ],
+      [
+        "slide → sliding：贴着表面移动",
+        "slide · sliding"
+      ],
+      [
+        "slider → sliders：滑块、拉链头与固定菜名",
+        "slider · sliders"
+      ],
+      [
+        "slide 与 slither 的滑行动作",
+        "slide · slither · slithers · slithered · slithering"
+      ],
+      [
+        "slide → slides：滑动、滑梯与演示页",
+        "slides"
+      ]
+    ],
+    "contrasts": "slide 一页、deck 一套；slider 可是控件或小汉堡；slither 后半不是现代人物后缀；mudslide 不涵盖所有山体滑坡。",
+    "practice": "The final slide shows how the mudslide moved down the slope.\n\n最后一页演示展示了泥流怎样沿坡下移。",
+    "words": [
+      "slide",
+      "slider",
+      "slither",
+      "mudslide",
+      "landslide",
+      "slideshow",
+      "sliding",
+      "sliders",
+      "slithers",
+      "slithered",
+      "slithering",
+      "slides"
+    ],
+    "exclude": {}
+  }
+]

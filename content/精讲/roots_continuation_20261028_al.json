@@ -1,0 +1,165 @@
+[
+  {
+    "id": "B3390",
+    "meaning": "土地、陆地、地区；降落",
+    "core": "LAND：脚能落下的一片地，也能成为拥有、生活和想象的区域",
+    "image": "土地归谁、上面长什么、相对海岸在哪里，都能从 land 向外展开。",
+    "intro": "land 接古英语 land。landscape 的现代形式受荷兰语 landschap 影响，不能把同源词都写成现代英语 land 直接造出来；fatherland 的现代借译背景也单独说明。",
+    "forms": "land 先讲名词与降落、获得的动词，再按所有关系 landowner → landowning、landlord／landlady／landless 归组；地理位置、到岸与地面交通、土地植被用途、核心和想象世界分开，避免把许多地名堆进词族。\n\n本族岛加土地的复合词，后来受 isle 影响添写不发音 s。\n\n本族陆地词与动词用途相连，楼梯平台按落脚处理解。\n\n本族陆地词，复数可指数块土地、国土；动词为着陆等。\n\n古英语 land 的本族陆地名词，动词扩到降落、到岸、拿到机会等。\n\nlawn 经法语 lande、英语 launde，法语词更早有高卢或日耳曼分析；远源细节不强定，现代 grass lawn 与布料同形词另分。\n\n草地 lawn 借法语，与 land 的远源关系有不同分析；组合不接另源薄布 lawn。\n\n陆地通信线路背景早于今日常见固定电话用法，不能把所有时期都限定为同一种接线材料。\n\nlandscape 借荷兰语 landschap，先在英语中说风景画，后泛指景观。现代保留 e 加 -s，/p/ 后读 /s/，并非所有历史借入都按现代最具体含义先出现。",
+    "branches": [
+      [
+        "土地及所有关系",
+        "land · landowner · landowning · landless · landlord · landlady"
+      ],
+      [
+        "景观、标记与空间位置",
+        "landscape · landmark · mainland · inland · upland · lowland · highland · landlocked · landmass · headland · landform · landward"
+      ],
+      [
+        "抵达、地面通信与地表事件",
+        "landfall · lander · landline · landslide · landfill · overland"
+      ],
+      [
+        "农业、草木和园地",
+        "farmland · cropland · rangeland · grassland · woodland · timberland · parkland"
+      ],
+      [
+        "水湿、干旱与荒野",
+        "wetland · marshland · swampland · dryland · moorland · wasteland"
+      ],
+      [
+        "核心、交界与社会世界",
+        "heartland · borderland · gangland"
+      ],
+      [
+        "归属与幻想地区",
+        "homeland · motherland · fatherland · wonderland · fairyland · island"
+      ],
+      [
+        "island → islands：岛与土地；后来添上的 s",
+        "island · islands"
+      ],
+      [
+        "land → landing：陆地、落地与着陆点",
+        "land · landing"
+      ],
+      [
+        "land → lands → landing：土地、落地和落脚处",
+        "land · lands · landing"
+      ],
+      [
+        "land → landed：到达地面与成功得到",
+        "land · lands · landed · landing"
+      ],
+      [
+        "land 与 lawn：本族土地词和法语空地借词的比较",
+        "land · lawn · lawns"
+      ],
+      [
+        "lawn + mower → lawnmower：草坪割草机",
+        "lawn · lawnmower · lawnmowers"
+      ],
+      [
+        "landline → landlines：固定电话与通信线路",
+        "landline · landlines"
+      ],
+      [
+        "land 土地 + -scape 状态 → landscapes",
+        "landscapes"
+      ]
+    ],
+    "contrasts": "landless 无土地所有，landlocked 无海岸；mainland 主陆与 inland 内陆不同。landslide 滑坡、悬殊获胜，landfall 到陆、登陆。landscape 风景、格局，landmark 地标、里程碑。",
+    "practice": "The landowner pointed out a landmark beyond the farmland, where woodland met wetland.\n\n土地所有者指着农地远处的一处地标，那里林地与湿地相接。",
+    "words": [
+      "land",
+      "landowner",
+      "landowning",
+      "landless",
+      "landlord",
+      "landlady",
+      "landscape",
+      "landmark",
+      "mainland",
+      "inland",
+      "upland",
+      "lowland",
+      "highland",
+      "landlocked",
+      "landmass",
+      "headland",
+      "landform",
+      "landward",
+      "landfall",
+      "lander",
+      "landline",
+      "landslide",
+      "landfill",
+      "overland",
+      "farmland",
+      "cropland",
+      "rangeland",
+      "grassland",
+      "woodland",
+      "timberland",
+      "parkland",
+      "wetland",
+      "marshland",
+      "swampland",
+      "dryland",
+      "moorland",
+      "wasteland",
+      "heartland",
+      "borderland",
+      "gangland",
+      "homeland",
+      "motherland",
+      "fatherland",
+      "wonderland",
+      "fairyland",
+      "island",
+      "islands",
+      "landing",
+      "lands",
+      "landed",
+      "lawn",
+      "lawns",
+      "lawnmower",
+      "lawnmowers",
+      "landlines",
+      "landscapes"
+    ],
+    "exclude": {
+      "morning-land": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "netherlands": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "portland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "iceland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "midland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sire-land": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "land-leech": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cloud-cuckoo-land": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kirkland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lakeland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "southland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neverland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rockland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "land-salamander": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "northland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "netherland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "westland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bushland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wildland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eastland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "copland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vineland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "outland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wheatland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lackland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flatland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scrubland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "landsman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "foreland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heathland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "playland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

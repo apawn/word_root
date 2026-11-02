@@ -1,0 +1,374 @@
+[
+  {
+    "word": "rock",
+    "ipa": "英 /rɒk/；美 /rɑːk/",
+    "meaning": "岩石、石块；摇动；摇滚乐",
+    "sense": "石头的硬与稳，和摇篮的来回动，是同形词的不同来路；不要先说石头都摇起来才变音乐。",
+    "split": "岩石义接古英语相关形式及法语影响，更远来历不明；摇动动词继承古英语 roccian。音乐 rock 从 rock and roll 缩短，接摇动分支。",
+    "history": [
+      [
+        "英语 rock 岩石；古英语相关形式与后续法语影响",
+        "石块、岩体；更远来源不明"
+      ],
+      [
+        "另一路古英语 roccian → rock",
+        "来回摇动"
+      ],
+      [
+        "rock and roll → rock",
+        "摇动词参与音乐命名 → 摇滚音乐"
+      ]
+    ],
+    "explanation": "a large rock 大石块，rock the baby 摇哄婴儿，rock music 摇滚音乐；be someone’s rock 比喻坚定支柱。",
+    "usage": "a large rock；rock the cradle；rock music；a rock of support。",
+    "contrast": "rock 岩石与 rock 摇动是分开的历史词；rockstar 已精讲走音乐义，bedrock 基岩走石头义。",
+    "examples": [
+      [
+        "She gently rocked the baby to sleep.",
+        "她轻轻摇哄宝宝入睡。"
+      ],
+      [
+        "A large rock blocked the path.",
+        "一块大石头挡住了小路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rock#English"
+    ]
+  },
+  {
+    "word": "rocky",
+    "ipa": "英 /ˈrɒki/；美 /ˈrɑːki/",
+    "meaning": "多岩石的；崎岖、困难的；不稳定的",
+    "sense": "路上石头多，不好走；关系或事业开头 rocky，就像一路磕磕绊绊。",
+    "split": "rock + -y，可接岩石、崎岖义，也有摇动、不稳分支。困难和不稳定的比喻会相互靠近，不必强编成所有句子只有一个起点。",
+    "history": [
+      [
+        "英语 rock 岩石；古英语相关形式与后续法语影响",
+        "石块、岩体；更远来源不明"
+      ],
+      [
+        "另一路古英语 roccian → rock",
+        "来回摇动"
+      ],
+      [
+        "rock and roll → rock",
+        "摇动词参与音乐命名 → 摇滚音乐"
+      ],
+      [
+        "rock + -y → rocky",
+        "多石、崎岖；也可不稳 → 困难不顺"
+      ]
+    ],
+    "explanation": "a rocky coast 岩石海岸，a rocky start 不顺开局，a rocky relationship 不稳定关系。",
+    "usage": "a rocky coast；a rocky start；a rocky relationship。",
+    "contrast": "rocky start 不一定真的遇到石头；a solid start 稳健开局与 rocky 不顺的对比是比喻。",
+    "examples": [
+      [
+        "We climbed a narrow path along the rocky coast.",
+        "我们沿岩石海岸的一条窄路攀行。"
+      ],
+      [
+        "The project had a rocky start but improved later.",
+        "项目开局不顺，后来有所好转。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rocky#English"
+    ]
+  },
+  {
+    "word": "rocking",
+    "ipa": "英 /ˈrɒkɪŋ/；美 /ˈrɑːkɪŋ/",
+    "meaning": "摇摆的；摇动；口语也可指音乐很带劲",
+    "sense": "基本是一来一回地摇，最熟悉的 rocking chair 是能来回摇的椅子。",
+    "split": "rock 摇动 + -ing，规则动作形式与形容词；音乐语境还能带热烈、很有节奏感的口语评价。",
+    "history": [
+      [
+        "另一路古英语 roccian → rock",
+        "来回摇动"
+      ],
+      [
+        "rock and roll → rock",
+        "摇动词参与音乐命名 → 摇滚音乐"
+      ],
+      [
+        "rock + -ing → rocking",
+        "来回摇动的状态、动作"
+      ]
+    ],
+    "explanation": "a rocking chair 摇椅，a rocking motion 摇摆动作；rocking the boat 字面摇船，也可比喻扰乱既有局面。",
+    "usage": "a rocking chair；a rocking motion；rocking the boat。",
+    "contrast": "rocking 摇动，rocky 多石、不稳；rocking chair 不是岩石做的椅子。",
+    "examples": [
+      [
+        "She sat in a rocking chair by the window.",
+        "她坐在窗边的摇椅上。"
+      ],
+      [
+        "The gentle rocking motion made him sleepy.",
+        "轻柔摇摆让他困了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rocking#English"
+    ]
+  },
+  {
+    "word": "rocker",
+    "ipa": "英 /ˈrɒkə/；美 /ˈrɑːkər/",
+    "meaning": "摇椅；摇动部件；摇滚乐手",
+    "sense": "可以是能摇的椅子或机构，也可以是玩摇滚音乐的人；先看在家具、机械还是音乐里。",
+    "split": "rock + -er，接摇动形成器具名，接摇滚音乐又形成人物称呼；音乐义不是 rock 石头的执行者。",
+    "history": [
+      [
+        "另一路古英语 roccian → rock",
+        "来回摇动"
+      ],
+      [
+        "rock and roll → rock",
+        "摇动词参与音乐命名 → 摇滚音乐"
+      ],
+      [
+        "rock + -er → rocker",
+        "摇动器物；摇滚音乐活动者"
+      ]
+    ],
+    "explanation": "a wooden rocker 木摇椅，a rock musician、a rocker 摇滚乐手；a rocker switch 翘板开关按来回翘动形状命名。",
+    "usage": "a wooden rocker；a rocker switch；a veteran rocker。",
+    "contrast": "-er 可物可人，rocker 不全是歌手；机械部件义也要按对象确认。",
+    "examples": [
+      [
+        "The old rocker creaked when she sat down.",
+        "她坐下时，旧摇椅吱呀作响。"
+      ],
+      [
+        "The veteran rocker released a new album.",
+        "资深摇滚乐手发布了新专辑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rocker#English"
+    ]
+  },
+  {
+    "word": "rocksteady",
+    "ipa": "英 /ˈrɒkstedi/；美 /ˈrɑːkstedi/",
+    "meaning": "极稳的；牙买加的一种音乐类型",
+    "sense": "形容状态时是稳得像块石头；音乐名则是一种具体的牙买加流行音乐风格，不能只按字面稳去想旋律。",
+    "split": "rock + steady，形容词可联系岩石般稳定；音乐用法与牙买加舞乐的特定命名历史相关，不把两个义机械说成完全同一个故事。",
+    "history": [
+      [
+        "英语 rock 岩石；古英语相关形式与后续法语影响",
+        "石块、岩体；更远来源不明"
+      ],
+      [
+        "另一路古英语 roccian → rock",
+        "来回摇动"
+      ],
+      [
+        "rock and roll → rock",
+        "摇动词参与音乐命名 → 摇滚音乐"
+      ],
+      [
+        "rock + steady → rocksteady",
+        "稳定的形容词；另有具体音乐类型名"
+      ]
+    ],
+    "explanation": "rocksteady support 坚定支持，rocksteady music 洛克斯特迪音乐；也常见 rock-steady 形容词变体，保留在正文。",
+    "usage": "rocksteady support；rocksteady music；a rocksteady rhythm。",
+    "contrast": "rocksteady 音乐名不是所有稳定节拍的音乐；reggae 雷鬼与它有关，但不是随意互换的同一个名称。",
+    "examples": [
+      [
+        "Her support remained rocksteady throughout the crisis.",
+        "危机中，她的支持始终坚定。"
+      ],
+      [
+        "The playlist includes Jamaican rocksteady from the 1960s.",
+        "播放列表中有二十世纪六十年代的牙买加洛克斯特迪音乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rocksteady#English"
+    ]
+  },
+  {
+    "word": "sheetrock",
+    "ipa": "/ˈʃiːtrɒk/；美 /ˈʃiːtrɑːk/",
+    "meaning": "石膏板；源自 Sheetrock 品牌名的称呼",
+    "sense": "室内墙面常见的板材名称；不是从山上切下的一整片岩石。",
+    "split": "sheet 片、板 + rock 石，原为 Sheetrock 品牌名，口语中也作石膏板泛称。品牌与通用材料名 drywall、gypsum board 的范围不要完全等同。",
+    "history": [
+      [
+        "英语 rock 岩石；古英语相关形式与后续法语影响",
+        "石块、岩体；更远来源不明"
+      ],
+      [
+        "Sheetrock 品牌名 → sheetrock 的泛用称呼",
+        "板状石膏材料名称"
+      ]
+    ],
+    "explanation": "sheetrock panels 石膏板材，install sheetrock 安装石膏板；原品牌规范常大写 Sheetrock。",
+    "usage": "sheetrock panels；install sheetrock；a sheetrock wall。",
+    "contrast": "sheetrock 不等于所有墙板，品牌本身也仍有专指；写正式材料规格时要按实际产品名称。",
+    "examples": [
+      [
+        "The workers installed sheetrock on the interior walls.",
+        "工人在室内墙面安装了石膏板。"
+      ],
+      [
+        "The damaged sheetrock was replaced after the leak.",
+        "漏水后，受损石膏板被更换。"
+      ]
+    ],
+    "sources": [
+      "https://www.usg.com/en-US/about-usg/history",
+      "https://en.wiktionary.org/wiki/sheetrock#English"
+    ]
+  },
+  {
+    "word": "stage",
+    "ipa": "/steɪdʒ/",
+    "meaning": "舞台；阶段；组织上演、举行",
+    "sense": "演员站的舞台是一处位置；事情发展到哪一步，也可以看成处在某个阶段。",
+    "split": "经古法语位置、居处相关词进入英语，上接站立词族。现代舞台与阶段义各有发展；厨师实习的 stage /stɑːʒ/ 是后来的法语借词，另有读法。",
+    "history": [
+      [
+        "古法语 estage 居处、位置 → 中古英语 stage",
+        "所处位置、平台"
+      ],
+      [
+        "现代 stage",
+        "表演舞台；发展阶段；组织上演活动"
+      ]
+    ],
+    "explanation": "on stage 在舞台上，at this stage 在这一阶段，stage a concert 举办音乐会，stage a protest 组织抗议。",
+    "usage": "on stage；at this stage；an early stage；stage an event。",
+    "contrast": "stage 阶段常是过程的一段，step 步骤常是一次具体行动；同一 stage 中可以有多步。",
+    "examples": [
+      [
+        "At this stage, we need more information.",
+        "在这个阶段，我们需要更多信息。"
+      ],
+      [
+        "The school staged a play at the end of term.",
+        "学校在学期末上演了一部戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stage#English"
+    ]
+  },
+  {
+    "word": "onstage",
+    "ipa": "形容词、副词常 /ˌɒnˈsteɪdʒ/；美 /ˌɑːnˈsteɪdʒ/",
+    "meaning": "在舞台上；登台的",
+    "sense": "从幕后走到观众看得见的表演区域，也可修饰舞台上的角色、表现。",
+    "split": "on + stage，既可连写 onstage，也常分写 on stage。复合用法主要指表演舞台，不是所有抽象阶段。",
+    "history": [
+      [
+        "古法语 estage 居处、位置 → 中古英语 stage",
+        "所处位置、平台"
+      ],
+      [
+        "现代 stage",
+        "表演舞台；发展阶段；组织上演活动"
+      ],
+      [
+        "on + stage → onstage",
+        "处于表演舞台上"
+      ]
+    ],
+    "explanation": "walk onstage 走上舞台，an onstage role 台上角色；go onstage 上场。",
+    "usage": "walk onstage；an onstage performance；appear onstage。",
+    "contrast": "onstage 台上，backstage 后台，offstage 台外；at this stage 的阶段义不能随意换成 onstage。",
+    "examples": [
+      [
+        "The singer walked onstage to loud applause.",
+        "歌手在热烈掌声中走上舞台。"
+      ],
+      [
+        "Her onstage confidence surprised her friends.",
+        "她在台上的自信让朋友们惊讶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/onstage#English"
+    ]
+  },
+  {
+    "word": "upstage",
+    "ipa": "/ʌpˈsteɪdʒ/；修饰用法也见 /ˈʌpsteɪdʒ/",
+    "meaning": "舞台后部、向后部；抢风头",
+    "sense": "剧场方位中是离观众更远的一侧；日常动词则说把别人的注意力、光彩抢走。",
+    "split": "up + stage，旧时倾斜舞台后部较高，形成向后走为 upstage 的名称。演员位置与注意力转移又发展出抢戏、抢风头义；今天舞台不必真的倾斜。",
+    "history": [
+      [
+        "古法语 estage 居处、位置 → 中古英语 stage",
+        "所处位置、平台"
+      ],
+      [
+        "现代 stage",
+        "表演舞台；发展阶段；组织上演活动"
+      ],
+      [
+        "up + stage → upstage",
+        "旧舞台后部较高 → 后部方位；另有抢戏比喻"
+      ]
+    ],
+    "explanation": "move upstage 向舞台后部移动，upstage another performer 抢另一个演员的戏；be upstaged by 被某人抢风头。",
+    "usage": "move upstage；upstage someone；be upstaged by。",
+    "contrast": "upstage 后部不等于上台，onstage 才是台上；动词 upstage 某人则重在抢注意力。",
+    "examples": [
+      [
+        "The actor moved upstage during the scene.",
+        "演员在这场戏中向舞台后部移动。"
+      ],
+      [
+        "The child’s funny remark upstaged the formal speech.",
+        "孩子有趣的一句话抢走了正式演讲的风头。"
+      ]
+    ],
+    "sources": [
+      "https://www.nps.gov/wotr/learn/historyculture/language-of-the-theater.htm",
+      "https://en.wiktionary.org/wiki/upstage#English"
+    ]
+  },
+  {
+    "word": "stagecraft",
+    "ipa": "英 /ˈsteɪdʒkrɑːft/；美 /ˈsteɪdʒkræft/",
+    "meaning": "舞台艺术、技术；舞台表现技艺",
+    "sense": "把一场戏真正呈现在台上所需的技巧，包括布景、灯光、安排和表演呈现等。",
+    "split": "stage 舞台 + craft 技艺，形成剧场实践的集合称呼。不同课程、评论里侧重技术或表现能力可有差别。",
+    "history": [
+      [
+        "古法语 estage 居处、位置 → 中古英语 stage",
+        "所处位置、平台"
+      ],
+      [
+        "现代 stage",
+        "表演舞台；发展阶段；组织上演活动"
+      ],
+      [
+        "stage + craft → stagecraft",
+        "舞台实践技艺 → 舞台艺术、技术"
+      ]
+    ],
+    "explanation": "learn stagecraft 学舞台技艺，stagecraft skills 舞台技术能力；不只雕刻一件舞台工艺品。",
+    "usage": "learn stagecraft；stagecraft skills；effective stagecraft。",
+    "contrast": "stagecraft 舞台实现与表现，playwriting 剧本写作；两种创作工作相互配合但不相同。",
+    "examples": [
+      [
+        "The course introduces students to lighting and other stagecraft skills.",
+        "课程向学生介绍灯光及其他舞台技术。"
+      ],
+      [
+        "The production impressed us with its imaginative stagecraft.",
+        "演出富有想象力的舞台呈现给我们留下深刻印象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stagecraft#English"
+    ]
+  }
+]

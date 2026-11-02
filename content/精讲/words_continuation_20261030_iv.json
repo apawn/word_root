@@ -1,0 +1,266 @@
+[
+  {
+    "word": "compose",
+    "ipa": "英 /kəmˈpəʊz/；美 /kəmˈpoʊz/",
+    "meaning": "创作、作曲；组成；安排构图；使平静、镇定",
+    "sense": "把音符、句子、画面元素组织成一件完整作品。情绪乱了再把自己整理好，compose yourself 就是先定定神。",
+    "split": "借法语 composer，是对拉丁 compōnere 放在一起的改造形式，法语 poser 也参与词形影响。不是所有字母 pose 都直接由拉丁 pōnere 原样变来。",
+    "history": [
+      [
+        "拉丁 com- + pōnere → compōnere，分词 compositus",
+        "放到一起、组合；分词词干 composit-"
+      ],
+      [
+        "不同借入路线",
+        "法语 composer → compose；拉丁 compositiō、法语 composicion → composition"
+      ],
+      [
+        "英语 compose 的动作扩展",
+        "组织作品、构成整体；整理情绪使镇静"
+      ]
+    ],
+    "explanation": "compose music 作曲，compose an email 写邮件，compose a picture 安排构图，compose yourself 定定神，be composed of 由……组成。",
+    "usage": "compose music；compose an email；compose yourself；be composed of。",
+    "contrast": "A is composed of B 是整体由部分组成；B composes A 可说部分构成整体，方向要看主语。compose yourself 不是为自己作一首曲子。",
+    "examples": [
+      [
+        "She composed a short piece for the piano.",
+        "她创作了一首钢琴小曲。"
+      ],
+      [
+        "He paused to compose himself before speaking.",
+        "他停下来定了定神，再开口说话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compose#English"
+    ]
+  },
+  {
+    "word": "composer",
+    "ipa": "英 /kəmˈpəʊzə/；美 /kəmˈpoʊzər/",
+    "meaning": "作曲家；创作者〔较宽用法〕",
+    "sense": "把音符组织成乐曲的人。日常单独说 composer 通常先想到作曲家，不能把所有写一封邮件的人都叫专业 composer。",
+    "split": "compose 去 e + -er，从事者名词。虽然 compose 的对象可以很多，composer 的常用身份义集中在音乐创作。",
+    "history": [
+      [
+        "拉丁 com- + pōnere → compōnere，分词 compositus",
+        "放到一起、组合；分词词干 composit-"
+      ],
+      [
+        "不同借入路线",
+        "法语 composer → compose；拉丁 compositiō、法语 composicion → composition"
+      ],
+      [
+        "compose + -er → composer",
+        "创作者，尤指作曲者、作曲家"
+      ]
+    ],
+    "explanation": "a film composer 电影配乐作曲家，a classical composer 古典音乐作曲家，the composer of the piece 这首曲子的作者。",
+    "usage": "a film composer；a classical composer；the composer of the piece。",
+    "contrast": "composer 作曲家，songwriter 歌曲作者可涉及旋律、歌词等，performer 表演者；同一人能兼任，但名字说的工作不同。",
+    "examples": [
+      [
+        "The composer wrote the score for the film.",
+        "作曲家为电影创作了配乐。"
+      ],
+      [
+        "The programme lists the composer beside each piece.",
+        "节目单在每首曲子旁列出了作曲者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composer#English"
+    ]
+  },
+  {
+    "word": "composition",
+    "ipa": "英 /ˌkɒmpəˈzɪʃən/；美 /ˌkɑːmpəˈzɪʃən/",
+    "meaning": "组成、成分；作文、作品；作曲；构图",
+    "sense": "整体由什么拼成、怎样安排，是 composition。化学看成分，作文看句子组织，音乐看乐音，绘画看元素摆放，核心都是部分如何成整体。",
+    "split": "经法语 composicion 或直接接拉丁 compositiō，来自 compōnere 的旧分词 composit-。现代与 compose 对应，但名词并非英语随手把 compose 的结尾改成 sition。",
+    "history": [
+      [
+        "拉丁 com- + pōnere → compōnere，分词 compositus",
+        "放到一起、组合；分词词干 composit-"
+      ],
+      [
+        "不同借入路线",
+        "法语 composer → compose；拉丁 compositiō、法语 composicion → composition"
+      ],
+      [
+        "英语的对应词与现代扩展",
+        "composer 人物；compositional 性质；decompose/decomposition 分开、分解"
+      ]
+    ],
+    "explanation": "chemical composition 化学成分，write a composition 写作文，musical composition 作曲或音乐作品，the composition of a painting 一幅画的构图。",
+    "usage": "chemical composition；write a composition；musical composition；the composition of a painting。",
+    "contrast": "composition 可说过程，也可说结果、结构或作品；chemical composition 不是化学作文，a piano composition 是钢琴作品，不是钢琴的金属成分。",
+    "examples": [
+      [
+        "The analysis revealed the chemical composition of the sample.",
+        "分析揭示了样本的化学成分。"
+      ],
+      [
+        "The class discussed the composition of the painting.",
+        "全班讨论了那幅画的构图。"
+      ],
+      [
+        "She performed one of her own compositions.",
+        "她演奏了自己创作的一首作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composition#English",
+      "https://www.etymonline.com/word/composition"
+    ]
+  },
+  {
+    "word": "compositional",
+    "ipa": "英 /ˌkɒmpəˈzɪʃənəl/；美 /ˌkɑːmpəˈzɪʃənəl/",
+    "meaning": "组成、成分或创作相关的；组合式的",
+    "sense": "看前文正在讲什么：材料的 compositional differences 是成分差异，作曲里的 compositional technique 是创作技法，语言学里又可讲部分如何决定整体意思。",
+    "split": "composition + -al，相关形容词。语义学专门义强调整体意义由部分意义及其组合结构决定，不是只把几个词义无序相加。",
+    "history": [
+      [
+        "拉丁 com- + pōnere → compōnere，分词 compositus",
+        "放到一起、组合；分词词干 composit-"
+      ],
+      [
+        "不同借入路线",
+        "法语 composer → compose；拉丁 compositiō、法语 composicion → composition"
+      ],
+      [
+        "composition + -al → compositional",
+        "关于组成、创作的；某些领域指由部分与结构组合而成"
+      ]
+    ],
+    "explanation": "compositional differences 成分差异，compositional techniques 创作技法，compositional meaning 组合性意义。",
+    "usage": "compositional differences；compositional techniques；compositional meaning。",
+    "contrast": "compositional 要补清领域；The dog bit the man 与 The man bit the dog 用相同词却结构角色不同，不能把组合性理解成忽略顺序、结构的词义相加。",
+    "examples": [
+      [
+        "The study compares compositional differences between the samples.",
+        "研究比较样本之间的成分差异。"
+      ],
+      [
+        "The lecture introduces the composer’s main compositional techniques.",
+        "讲座介绍那位作曲家的主要创作技法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compositional#English",
+      "https://plato.stanford.edu/entries/compositionality/"
+    ]
+  },
+  {
+    "word": "decomposition",
+    "ipa": "英 /ˌdiːkɒmpəˈzɪʃən/；美 /ˌdiːkɑːmpəˈzɪʃən/",
+    "meaning": "分解、腐解；将整体拆成部分的分析",
+    "sense": "原来合在一起，现在拆开：落叶逐渐腐解，数学把复杂对象分成较易处理的组成。不是所有 decomposition 都在描述腐烂。",
+    "split": "de- 分开、解除 + composition，或对应 decompose 与过程名词形式。来源说明可联系法语 décomposition 及相应英语构词关系，不把每种分解都假定恰好倒放一次最初制造。",
+    "history": [
+      [
+        "拉丁 com- + pōnere → compōnere，分词 compositus",
+        "放到一起、组合；分词词干 composit-"
+      ],
+      [
+        "不同借入路线",
+        "法语 composer → compose；拉丁 compositiō、法语 composicion → composition"
+      ],
+      [
+        "de- + composition → decomposition",
+        "从整体到部分；在生物、化学、数学等各有具体分解义"
+      ]
+    ],
+    "explanation": "the decomposition of leaves 落叶分解，chemical decomposition 化学分解，matrix decomposition 矩阵分解，task decomposition 任务分解。",
+    "usage": "the decomposition of leaves；matrix decomposition；task decomposition。",
+    "contrast": "生物腐解只是一个分支；数学分解不意味着数值烂掉。化学分解产物也不必等于原来制造时用过的每样原料。",
+    "examples": [
+      [
+        "The fallen leaves are at different stages of decomposition.",
+        "落叶处于不同的分解阶段。"
+      ],
+      [
+        "The diagram shows a decomposition of the task into smaller steps.",
+        "图中展示了把任务分解成较小步骤的方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decomposition#English"
+    ]
+  },
+  {
+    "word": "fibrinogen",
+    "ipa": "/faɪˈbrɪnədʒən/，中间也可保留 /əʊ/、/oʊ/",
+    "meaning": "纤维蛋白原，参与凝血的一种血浆蛋白",
+    "sense": "血凝块里的纤维蛋白像形成网的材料，fibrinogen 是能够转成它的前体。中文的原也在提醒你：还没转成最终的 fibrin。",
+    "split": "fibrin 纤维蛋白 + 连接元音 -o- + -gen 生成、来源相关成分。名字指可形成纤维蛋白的前体蛋白，不是 gene 基因直接塞在末尾。",
+    "history": [
+      [
+        "希腊生育、产生一组词根 → 科学构词 -gen",
+        "生成、引起者；可命名物质或来源"
+      ],
+      [
+        "fibrin + -o- + -gen → fibrinogen",
+        "与形成纤维蛋白相关的前体名称"
+      ],
+      [
+        "凝血过程中的具体对应",
+        "纤维蛋白原转为纤维蛋白"
+      ]
+    ],
+    "explanation": "plasma fibrinogen 血浆纤维蛋白原，a fibrinogen test 纤维蛋白原检测，fibrinogen levels 纤维蛋白原水平。",
+    "usage": "plasma fibrinogen；a fibrinogen test；fibrinogen levels。",
+    "contrast": "fibrinogen 前体与 fibrin 形成后的纤维蛋白分开；词尾解释名称关系，不能单凭名字推出某个检测值的具体含义。",
+    "examples": [
+      [
+        "The diagram shows fibrinogen being converted into fibrin.",
+        "图中展示纤维蛋白原转变为纤维蛋白。"
+      ],
+      [
+        "The report lists the fibrinogen level in the sample.",
+        "报告列出了样本中的纤维蛋白原水平。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fibrinogen#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/fibrinogen",
+      "https://www.merriam-webster.com/dictionary/fibrinogen"
+    ]
+  },
+  {
+    "word": "hallucinogen",
+    "ipa": "英 /həˈluːsɪnədʒən/；美 /həˈluːsənədʒən/，也有其他重音形式",
+    "meaning": "致幻物质、致幻剂",
+    "sense": "重点不是一种幻觉本身，而是能引发幻觉、改变感知的那类物质。-gen 把引发者和产生的现象分开。",
+    "split": "hallucination 幻觉的 hallucin- 词干 + 连接元音 -o- + -gen 引起者。不是把完整 hallucination 后不作变化地再接 ogen。",
+    "history": [
+      [
+        "希腊生育、产生一组词根 → 科学构词 -gen",
+        "生成、引起者；可命名物质或来源"
+      ],
+      [
+        "hallucination 的词干 + -o- + -gen → hallucinogen",
+        "能够诱发幻觉的物质名称"
+      ]
+    ],
+    "explanation": "a hallucinogen 致幻物质，the effects of hallucinogens 致幻物质的作用，research on hallucinogens 关于致幻物质的研究。",
+    "usage": "a hallucinogen；the effects of hallucinogens。",
+    "contrast": "hallucination 是感知经验，hallucinogen 是可能引发它的物质；hallucinogenic 是相关性质形容词。名字不表示它只会产生一种完全相同的体验。",
+    "examples": [
+      [
+        "The chapter explains how a hallucinogen can alter perception.",
+        "这一章解释致幻物质如何改变感知。"
+      ],
+      [
+        "The glossary distinguishes a hallucinogen from a hallucination.",
+        "词汇表区分了致幻物质和幻觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hallucinogen#English",
+      "https://www.merriam-webster.com/dictionary/hallucinogen"
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B2616",
+    "meaning": "男孩；少年气与按角色命名的男性称呼",
+    "core": "BOY：年龄、风格和固定角色分开看",
+    "image": "boy 可以说男孩，但 cowboy、busboy 等固定角色未必未成年；boyish 是少年气，boyhood 才是少年时期。",
+    "intro": "boy 接中古英语，更远来源不确定。后缀区分阶段与风格，复合词还会保留旧式工作人员称谓或社会标签，不能逐个机械翻男孩。",
+    "forms": "boy → boyhood、boyish；cowboy、paperboy、busboy 按角色；fanboy、tomboy、wonderboy、loverboy 按各自固定标签理解。\n\nboy 的 y 前是元音字母 o，加 s 保留 y；boy 的更远来源未定。\n\n与 boy 比较年龄、称呼，不由 boy 派生。中古英语 ladde 有年轻男仆、地位较低男子等旧义，来源可能接北欧但不确定；后来年轻男子义常变得熟络、亲切。",
+    "branches": [
+      [
+        "男孩、时期与少年气",
+        "boy · boyhood · boyish · schoolboy"
+      ],
+      [
+        "工作与角色",
+        "cowboy · paperboy · newsboy · busboy"
+      ],
+      [
+        "粉丝、风格和评价",
+        "fanboy · tomboy · wonderboy"
+      ],
+      [
+        "关系、绰号及旧学词",
+        "boyfriend · loverboy · playboy · superboy"
+      ],
+      [
+        "boy → boys：男孩、男儿称呼",
+        "boy · boys"
+      ],
+      [
+        "lad：另源的小伙子、男孩",
+        "lad · lads"
+      ]
+    ],
+    "contrasts": "boy 不等于 son；cowboy 不是牛的儿子；busboy 不是公交司机；tomboy 不直接说明身份、取向。",
+    "practice": "The former paperboy recalled his boyhood dream of becoming a cowboy.\n\n这位从前的送报童回忆起儿时想当牛仔的梦想。",
+    "words": [
+      "boy",
+      "boyhood",
+      "boyish",
+      "schoolboy",
+      "cowboy",
+      "paperboy",
+      "newsboy",
+      "busboy",
+      "fanboy",
+      "tomboy",
+      "wonderboy",
+      "boyfriend",
+      "loverboy",
+      "playboy",
+      "superboy",
+      "boys",
+      "lad",
+      "lads"
+    ],
+    "exclude": {
+      "e-boy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kitchen-boy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "donkey-boy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "char-boy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bendy-boy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ladyboy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "boyo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "doughboy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2657",
+    "meaning": "儿子；继子、教子及亲昵称呼",
+    "core": "SON：亲子关系，和年龄分开",
+    "image": "son 五十岁也还是儿子；stepson、grandson、godson 分别按继亲、代际、宗教关系来认。",
+    "intro": "son 由古英语 sunu 延续，与 sun 同音但非同一个来源。sonny 是称呼形式，可能亲昵，也可能轻慢，不是正式年龄标签。",
+    "forms": "son → sonny；step- 继亲 → stepson；grand- 跨一代 → grandson；god- 教亲关系 → godson。\n\nsons 与 suns 在常见口音中同音，但 son 接古英语 sunu，sun 太阳另源。",
+    "branches": [
+      [
+        "儿子与亲昵称呼",
+        "son · sonny"
+      ],
+      [
+        "继亲、代际和教亲关系",
+        "stepson · grandson · godson"
+      ],
+      [
+        "son → sons：儿子们",
+        "son · sons"
+      ]
+    ],
+    "contrasts": "son 不是 sun；sonny 不是 sunny；stepson 继子、godson 教子都不自动等于 adopted son 养子。",
+    "practice": "Her adult son chose a birthday present for his godson.\n\n她已经成年的儿子，为自己的教子选了一份生日礼物。",
+    "words": [
+      "son",
+      "sonny",
+      "stepson",
+      "grandson",
+      "godson",
+      "sons"
+    ],
+    "exclude": {
+      "son-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "son-out-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

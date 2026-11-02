@@ -1,0 +1,190 @@
+[
+  {
+    "id": "B2852",
+    "meaning": "推动、驱赶、驾驶及传动",
+    "core": "DRIVE：给方向或力量，让事物往前走",
+    "image": "车有人开，机器有部件传力，研究被好奇心推动；漂流 drift 则突出随力而走。",
+    "intro": "drive 接古英语 drīfan，远早于汽车。drove、driven 不规则变化要一起认；drift 是相关旧词族的历史名词形，不是现代 drive 随手加 t。",
+    "forms": "drive → driving、driver、driven、drivable；drivetrain、driveshaft 连在机械分支；overdrive 过度或高强度；drift 单列历史相关形。\n\ndrove 作动词是 drive 的过去式；同族名词 drove 是被赶在一起的兽群，in droves 又说成群结队。\n\ndriver 现代认形为 drive 去 e 加 -er，早有相应人物形式，计算机用法是后来的技术引申。\n\n本族驱赶、推动动词，汽车、动机、存储设备等用途后扩展。",
+    "branches": [
+      [
+        "动作、状态、执行者和可驾驶性",
+        "drive · driving · driver · driven · drivable"
+      ],
+      [
+        "传动、强度及相关旧形",
+        "drivetrain · driveshaft · overdrive · drift"
+      ],
+      [
+        "既有精讲复合词",
+        "driveway · hyperdrive"
+      ],
+      [
+        "drive 到 drove、driven",
+        "drive · drove · driven"
+      ],
+      [
+        "drive → driver → drivers：驾驶者、推动因素与驱动程序",
+        "drive · driver · drivers"
+      ],
+      [
+        "drive → drives：推动、驾驶与驱动力",
+        "drive · drives"
+      ]
+    ],
+    "contrasts": "driver 驱动程序、drive 可指驱动器；driven /drɪv/ 不读 /draɪv/；汽车 overdrive 不等于 speeding。",
+    "practice": "Curiosity drove the team to study how a boat drifts when no one is driving it.\n\n好奇心推动团队研究无人驾驶时船怎样漂流。",
+    "words": [
+      "drive",
+      "driving",
+      "driver",
+      "driven",
+      "drivable",
+      "drivetrain",
+      "driveshaft",
+      "overdrive",
+      "drift",
+      "driveway",
+      "hyperdrive",
+      "drove",
+      "drivers",
+      "drives"
+    ],
+    "exclude": {
+      "war-drive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-drive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "driveline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2834",
+    "meaning": "建造、逐步构成",
+    "core": "BUILD：把部分一点点搭成整体",
+    "image": "材料搭房，协作建团队，可靠行动积出信任，都是逐步构成的画面。",
+    "intro": "build 接古英语造屋相关动词，ui 读 /ɪ/；built 是过去、分词。building 既说过程又说结果，builder 可是人、企业、工具。",
+    "forms": "build → builder、building、buildable；rebuild 已有精讲，放回重建分支。\n\nbuild → built → built；built 可直接作分词，也可在体格描写中作形容词。\n\n-ing 的名词分支可指建成物，buildings 是建筑物复数。\n\n古英语建造动词传承，三单保留 d，过去式 built 是不规则形式。\n\n与 build 比较搭建空间；booth 经古丹麦等北欧临时住所词，相关居住材料可比较更远同源，不能写成现代 build 直接派生。\n\nrebuild 含重新建造的关系，过去式沿 build → built 换为 rebuilt；没有加 -ed。实体重建与恢复信任等比喻都常见。",
+    "branches": [
+      [
+        "建造与执行者、结果、能力",
+        "build · builder · building · buildable"
+      ],
+      [
+        "再次建造",
+        "rebuild"
+      ],
+      [
+        "build 与 built：建成与体格",
+        "build · built"
+      ],
+      [
+        "build → building → buildings：建成的一座座整体",
+        "building · buildings"
+      ],
+      [
+        "build → builds：一层层建成、形成",
+        "build · builds"
+      ],
+      [
+        "booth：临时小屋，到小隔间、摊位",
+        "booth · booths"
+      ],
+      [
+        "re- 再 + build → rebuilt",
+        "rebuilt"
+      ]
+    ],
+    "contrasts": "builder 人或工具，building 活动或物；built 已建，buildable 能建；build trust 是积累信任。",
+    "practice": "The builder checked whether the proposed building was buildable.\n\n营造商检查了拟建建筑能否实际建造。",
+    "words": [
+      "build",
+      "builder",
+      "building",
+      "buildable",
+      "rebuild",
+      "built",
+      "buildings",
+      "builds",
+      "booth",
+      "booths",
+      "rebuilt"
+    ],
+    "exclude": {
+      "post-build": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-build": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-build": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2612",
+    "meaning": "思想、记忆、心意；留意照看",
+    "core": "MIND：把事情放在心里，想、记、顾到它",
+    "image": "头脑能想，提醒使想起，留意则不把事情放到脑后；minder 是照管人，reminder 是提醒物。",
+    "intro": "mind 接古英语 mynd、ġemynd 的记忆、思想词族。remind 历史上用旧记住义加 re-；mindful 有古英语记性好的前身，后来留意、顾及义常见。",
+    "forms": "mind → remind → reminder；minded 说明倾向；mindful → mindfully、mindfulness 相邻；mindless → mindlessly 相邻，再讲 mastermind、minder。mindset 已精讲复用。\n\nmind 接古英语 mynd／ġemynd 记忆、思想词族；minds 既可作复数，也可作动词第三人称。\n\n英语 re- 与 mind 的记起、记住用法结合，现代三单加 s。\n\n英语 re 与 mind 记起材料，过去式 d 后的 ed 多一个音节。\n\nremind 在英语内由 re- + mind 动词形成；现代加 -ing 原词不改，提醒行动与让人联想起某物两种常见结构一起说明。",
+    "branches": [
+      [
+        "头脑、提醒和倾向",
+        "mind · remind · reminder · minded · mindset"
+      ],
+      [
+        "留心及其副词、名词",
+        "mindful · mindfully · mindfulness"
+      ],
+      [
+        "缺少思考及副词",
+        "mindless · mindlessly"
+      ],
+      [
+        "策划与照管的人",
+        "mastermind · minder"
+      ],
+      [
+        "mind → minds：想法、心智；介意、照看",
+        "mind · minds"
+      ],
+      [
+        "remind → reminds：把事情再带回心里",
+        "mind · remind · reminds"
+      ],
+      [
+        "remind → reminded：被带回记忆里的事",
+        "remind · reminds · reminded"
+      ],
+      [
+        "re- 再 + mind 想起 → reminding",
+        "reminding"
+      ]
+    ],
+    "contrasts": "remember 自己记得、remind 使人记起；minder 照看人、reminder 提醒物；mindfulness 不等于脑中塞满想法。",
+    "practice": "The reminder helped me stay mindful of the deadline instead of working mindlessly.\n\n提醒让我记着截止时间，没有只是机械地干活。",
+    "words": [
+      "mind",
+      "remind",
+      "reminder",
+      "minded",
+      "mindset",
+      "mindful",
+      "mindfully",
+      "mindfulness",
+      "mindless",
+      "mindlessly",
+      "mastermind",
+      "minder",
+      "minds",
+      "reminds",
+      "reminded",
+      "reminding"
+    ],
+    "exclude": {
+      "like-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "double-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ur-mind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nevermind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "minding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mind-boggling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mind-numbing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mindfuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "megamind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

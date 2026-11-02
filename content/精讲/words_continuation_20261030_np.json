@@ -1,0 +1,491 @@
+[
+  {
+    "word": "purser",
+    "ipa": "英 /ˈpɜːsə/；美 /ˈpɜːrsər/",
+    "meaning": "船上事务长、财务事务人员；乘务长",
+    "sense": "purse 是钱袋，purser 最好先想成负责保管船上钱袋、账目的人。岗位后来也涉及旅客事务，在船、飞机上各有相应职责。",
+    "split": "purse 去 e + -er → purser，按管理财务的职责命名，后来随船舶、航空服务发展扩大职责范围。不是每位拿钱包的人都叫 purser。",
+    "history": [
+      [
+        "purse 钱袋、财物 → purse 的相关职业名称",
+        "掌管钱、账目的人"
+      ],
+      [
+        "purse + -er → purser",
+        "船上事务、财务人员；客船或飞机的相关服务管理角色"
+      ]
+    ],
+    "explanation": "the ship’s purser 船上事务长；a flight purser 航班乘务长；the purser’s office 事务长办公室。",
+    "usage": "the ship’s purser；a flight purser。",
+    "contrast": "purser 是岗位名称，purse 是钱袋、钱包；具体职务范围随运营安排而异。",
+    "examples": [
+      [
+        "The ship’s purser checked the passenger accounts.",
+        "船上事务长核对了旅客账目。"
+      ],
+      [
+        "The flight purser spoke to the cabin crew.",
+        "航班乘务长向客舱乘务员交代了事情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purser#English"
+    ]
+  },
+  {
+    "word": "unambitious",
+    "ipa": "/ˌʌnæmˈbɪʃəs/",
+    "meaning": "没有大抱负的；目标不高的",
+    "sense": "人不想追求很高的位置、成就，可以 unambitious；计划只打算做一点点，也能说目标不高。它说追求的高度，不直接判定人懒不懒。",
+    "split": "un- 否定 + ambitious → unambitious。前缀否定有抱负、目标宏大的性质，随 ambitious 的人物、计划用法分别展开。",
+    "history": [
+      [
+        "ambition → ambitious",
+        "追求成就、地位等；也可说计划目标很高"
+      ],
+      [
+        "un- + ambitious → unambitious",
+        "缺少这类抱负，或目标设得不高"
+      ]
+    ],
+    "explanation": "an unambitious plan 目标不高的计划；seem unambitious 看来没什么大抱负。",
+    "usage": "an unambitious plan；an unambitious target。",
+    "contrast": "unambitious 不等于 incompetent 没能力，也不等于 lazy 懒；能力、努力与追求高度是不同观察面。",
+    "examples": [
+      [
+        "The committee criticised the target as unambitious.",
+        "委员会批评这个目标定得太低。"
+      ],
+      [
+        "He was content with a quiet life and seemed unambitious.",
+        "他满足于平静生活，似乎没有很大的抱负。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unambitious#English"
+    ]
+  },
+  {
+    "word": "eyed",
+    "ipa": "/aɪd/",
+    "meaning": "有眼的、具有某种眼睛的；eye 的过去式、过去分词",
+    "sense": "blue-eyed 是有蓝眼睛的，wide-eyed 是睁大眼睛的。这里 -ed 可以表示“具有”，不要求先发生一个“给它装眼睛”的动作；He eyed the box 则真的在用 eye 打量的过去式。",
+    "split": "有眼性质承中古英语 eyed 等，对应 eye + 性质后缀 -ed。现代 eyed 也可来自 eye 动词加 -d。两类形式碰巧相同，要用句子结构辨认。",
+    "history": [
+      [
+        "中古英语 eyed、eied 等 → eyed",
+        "有眼的，具有某种眼睛、眼状结构的"
+      ],
+      [
+        "eye + 性质后缀 -ed；另有 eye 动词的过去、分词 eyed",
+        "具有……眼睛；看过、打量过"
+      ]
+    ],
+    "explanation": "blue-eyed 蓝眼睛的；wide-eyed 睁大眼睛的、天真的；eyed the door 打量了门口。ed 在 eyed 中读 /d/，全词一音节。",
+    "usage": "blue-eyed；wide-eyed；eyed the room。",
+    "contrast": "a blue-eyed child 的 eyed 表具有；She eyed the child 的 eyed 是过去动作，不能只凭词尾统一解释。",
+    "examples": [
+      [
+        "A blue-eyed child stood by the window.",
+        "一个蓝眼睛的孩子站在窗边。"
+      ],
+      [
+        "She eyed the unfamiliar machine with curiosity.",
+        "她好奇地打量着那台陌生机器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eyed#English"
+    ]
+  },
+  {
+    "word": "oath",
+    "ipa": "英 /əʊθ/；美 /oʊθ/",
+    "meaning": "誓言、宣誓；〔较旧〕咒骂",
+    "sense": "普通 promise 是答应，oath 是把承诺、陈述放进郑重宣誓的框架，强调作证、承担责任。故事里 mutter an oath 也可能只是低声骂一句。",
+    "split": "承古英语 āþ，经中古英语 ooth、oth 等到 oath，日耳曼旧词。起誓会调用神圣、权威名称，轻慢使用这些名称又与咒骂用法发生历史联系。",
+    "history": [
+      [
+        "古英语 āþ → 中古英语 ooth、oth 等 → oath",
+        "郑重誓言、以权威作见证的承诺"
+      ],
+      [
+        "庄重起誓用语 → 某些咒骂义",
+        "宣誓语与轻慢使用神圣名称的历史联系"
+      ]
+    ],
+    "explanation": "take an oath 宣誓；an oath of office 就职誓言；under oath 在宣誓保证下；break an oath 违背誓言。",
+    "usage": "take an oath；under oath；break an oath。",
+    "contrast": "oath 比一般 promise 更正式、郑重；咒骂义多由故事、旧语境识别，不必把每个 swear 都译成骂人。",
+    "examples": [
+      [
+        "The new officials took an oath of office.",
+        "新任官员宣读了就职誓言。"
+      ],
+      [
+        "The character refused to break his oath.",
+        "故事中的人物拒绝违背誓言。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oath#English"
+    ]
+  },
+  {
+    "word": "gentrification",
+    "ipa": "/ˌdʒentrɪfɪˈkeɪʃən/",
+    "meaning": "街区绅士化、中产阶层化",
+    "sense": "一个原本较低收入的街区吸引更富裕居民和投资，房屋、店铺、价格及居民构成都变了，原住民还可能被高成本挤走。gentrification 说的是这整套变化，不只是街道刷了新漆。",
+    "split": "gentry 较高社会阶层 + -ification，对应 gentrify。社会学家 Ruth Glass 在 1964 年以此命名伦敦相关街区变化，借旧阶层词描述新一轮居民、空间重组。",
+    "history": [
+      [
+        "拉丁语 -ficāre、-ficātiō 相关构词 → -ify、-ification",
+        "使成为、使发生相应变化；相应过程、结果名词"
+      ],
+      [
+        "英语 -ify ↔ -ification",
+        "动词与过程名词对应，也可按名词词干 + -ification 理解"
+      ],
+      [
+        "gentry／gentrify → gentrification",
+        "街区的阶层构成、居住成本与空间用途变化"
+      ]
+    ],
+    "explanation": "neighbourhood gentrification 街区绅士化；debates about gentrification 关于街区阶层化变化的争议。",
+    "usage": "neighbourhood gentrification；the effects of gentrification。",
+    "contrast": "renovation 是翻修，gentrification 还涉及居民阶层、成本和用途变化；不能把任何一次修路都直接叫绅士化。",
+    "examples": [
+      [
+        "The study examines how gentrification changed the neighbourhood.",
+        "研究考察绅士化怎样改变了这个街区。"
+      ],
+      [
+        "Residents debated the benefits and costs of gentrification.",
+        "居民讨论了街区绅士化的收益与代价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gentrification#English",
+      "https://www.ucl.ac.uk/bartlett/ideas/100-years-bartlett/ruth-glass-and-coining-gentrification"
+    ]
+  },
+  {
+    "word": "personification",
+    "ipa": "英 /pəˌsɒnɪfɪˈkeɪʃən/；美 /pərˌsɑːnɪfɪˈkeɪʃən/",
+    "meaning": "拟人；人格化；某种品质的化身",
+    "sense": "说“风在低语”，把人的行为给了风，是 personification。说某人是耐心的化身，则像把“耐心”这个抽象品质变成了眼前的人。",
+    "split": "personify 与 personification 对应，现代可用 person + -ification 识别，把事物赋予人的性质、形象及其结果。-ify 动词到 -ification 名词有词尾替换，不是 personify 后直接保留 y 再加全套后缀。",
+    "history": [
+      [
+        "拉丁语 -ficāre、-ficātiō 相关构词 → -ify、-ification",
+        "使成为、使发生相应变化；相应过程、结果名词"
+      ],
+      [
+        "英语 -ify ↔ -ification",
+        "动词与过程名词对应，也可按名词词干 + -ification 理解"
+      ],
+      [
+        "personify → personification",
+        "赋予人性、人的形象；把品质具体体现出来"
+      ]
+    ],
+    "explanation": "the personification of patience 耐心的化身；use personification 使用拟人手法。",
+    "usage": "use personification；the personification of。",
+    "contrast": "personification 给非人的东西人的特征，simile 明说像什么；某些表达会兼有多种修辞，不能只凭一个词机械判定。",
+    "examples": [
+      [
+        "The poet uses personification to make the wind seem alive.",
+        "诗人用拟人让风仿佛有了生命。"
+      ],
+      [
+        "To the children, she was the personification of kindness.",
+        "在孩子们眼里，她就是善良的化身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/personification#English"
+    ]
+  },
+  {
+    "word": "desertification",
+    "ipa": "英 /dɪˌzɜːtɪfɪˈkeɪʃən/；美 /dɪˌzɜːrtɪfɪˈkeɪʃən/",
+    "meaning": "荒漠化",
+    "sense": "原来还能长草、耕种的旱地，土壤、植被和生产能力逐步退化，是 desertification 的关键画面。它不要求最后变成全是沙丘的沙漠。",
+    "split": "desert 荒漠 + -ification，对应 desertify 使荒漠化。专业定义特别指干旱、半干旱及干旱亚湿润地区的土地退化，因素包括气候变动、人类活动等。",
+    "history": [
+      [
+        "拉丁语 -ficāre、-ficātiō 相关构词 → -ify、-ification",
+        "使成为、使发生相应变化；相应过程、结果名词"
+      ],
+      [
+        "英语 -ify ↔ -ification",
+        "动词与过程名词对应，也可按名词词干 + -ification 理解"
+      ],
+      [
+        "desert／desertify → desertification",
+        "旱地区域土地退化的过程"
+      ]
+    ],
+    "explanation": "combat desertification 防治荒漠化；the causes of desertification 荒漠化成因；land affected by desertification 受荒漠化影响的土地。",
+    "usage": "combat desertification；the causes of desertification。",
+    "contrast": "desertification 不只是现有沙漠自然向外扩张；drought 干旱说水分短缺状况，也不能与荒漠化过程完全等同。",
+    "examples": [
+      [
+        "The report links desertification to the loss of productive land.",
+        "报告把荒漠化与土地生产能力丧失联系起来。"
+      ],
+      [
+        "The project studies ways to combat desertification in drylands.",
+        "项目研究防治旱地荒漠化的方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/desertification#English",
+      "https://www.unccd.int/article-1-use-terms",
+      "https://www.unccd.int/unccd-faq"
+    ]
+  },
+  {
+    "word": "thoracotomy",
+    "ipa": "英 /ˌθɔːrəˈkɒtəmi/；美 /ˌθɔːrəˈkɑːtəmi/",
+    "meaning": "开胸术、胸廓切开术",
+    "sense": "thoraco- 指胸部，-tomy 指切开。合起来先读懂“切开胸部以进入胸腔”这层名称，不会因为词长就以为它一定切除了某个器官。",
+    "split": "thoraco- 胸 + -tomy 切开，都是希腊语来源的医学构词材料。现代术语按部位与切开动作组成。",
+    "history": [
+      [
+        "希腊语 tomē 切割、切口，上接 temnein 切",
+        "-tomy 以切开、切割为命名核心"
+      ],
+      [
+        "部位结合形式 + -tomy",
+        "以部位说明相应切开术；anatomy 另有剖开研究的历史"
+      ]
+    ],
+    "explanation": "a thoracotomy 开胸术；the term thoracotomy 开胸术这一术语。词形说明部位与进入方式，具体目的另看上下文。",
+    "usage": "a thoracotomy；the term thoracotomy。",
+    "contrast": "-tomy 是切开，-ectomy 常是切除，-stomy 常是造口；名称相似但不是同一种动作。",
+    "examples": [
+      [
+        "The glossary defines thoracotomy as an operation to open the chest.",
+        "词汇表把 thoracotomy 解释为开胸手术。"
+      ],
+      [
+        "The diagram labels the chest incision used in a thoracotomy.",
+        "图中标出了开胸术使用的胸部切口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thoracotomy#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/thoracotomy"
+    ]
+  },
+  {
+    "word": "laparotomy",
+    "ipa": "英 /ˌlæpəˈrɒtəmi/；美 /ˌlæpəˈrɑːtəmi/",
+    "meaning": "剖腹术、开腹术",
+    "sense": "laparo- 指腹部，-tomy 指切开。laparotomy 的名字抓住切开腹壁进入腹腔这一层，不是某一种病名。",
+    "split": "laparo- 腹部、腹壁 + -tomy 切开，现代医学按希腊语来源的结合形式组成相应术语。",
+    "history": [
+      [
+        "希腊语 tomē 切割、切口，上接 temnein 切",
+        "-tomy 以切开、切割为命名核心"
+      ],
+      [
+        "部位结合形式 + -tomy",
+        "以部位说明相应切开术；anatomy 另有剖开研究的历史"
+      ]
+    ],
+    "explanation": "a laparotomy 开腹术；an exploratory laparotomy 探查性剖腹术。这里只需认清部位与动作。",
+    "usage": "a laparotomy；an exploratory laparotomy。",
+    "contrast": "laparotomy 切开与 laparoscopy 腹腔镜检查、操作的命名重点不同，不能只因共享 laparo- 就当成同一个词。",
+    "examples": [
+      [
+        "The textbook explains the meaning of laparotomy.",
+        "教科书解释了开腹术这个名称。"
+      ],
+      [
+        "The glossary distinguishes laparotomy from laparoscopy.",
+        "词汇表区分了开腹术与腹腔镜检查、操作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laparotomy#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/laparotomy"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "ipa": "英 /ˈɪləstreɪt/；美 /ˈɪləstreɪt/",
+    "meaning": "举例说明；表明；给……配图",
+    "sense": "原来像给暗处打光，让人看清；后来把例子、图画摆出来，让人看懂。illustrate a point 可以只用一个故事，不一定真的画画。",
+    "split": "由 illustration 等回构，并有拉丁语 illustratus 的影响，上接 illustrare 照亮、使清楚，in- 同化为 il- + lustrare 照亮。英语后来发展举例说明、配图等常用义。",
+    "history": [
+      [
+        "拉丁语 illustrare 照亮、使清楚 → illustratus、illustratio 等",
+        "光照与使人明白的比喻"
+      ],
+      [
+        "英语 illustration 等 → illustrate，也有拉丁分词形式影响",
+        "举例说明、配图说明；+ -or、-ive"
+      ]
+    ],
+    "explanation": "illustrate a point 举例说明一个观点；illustrate a book 给书配图；illustrate how 展示怎样。",
+    "usage": "illustrate a point；illustrate a book；illustrate how。",
+    "contrast": "illustrate 强调让抽象内容具体可懂；并不每次都等于画插画，也不自动意味着严格证明。",
+    "examples": [
+      [
+        "This example illustrates why the rule matters.",
+        "这个例子说明了这条规则为什么重要。"
+      ],
+      [
+        "She was asked to illustrate a children’s book.",
+        "有人请她为一本童书画插图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustrate#English",
+      "https://www.etymonline.com/word/illustrate"
+    ]
+  },
+  {
+    "word": "illustrator",
+    "ipa": "英 /ˈɪləstreɪtə/；美 /ˈɪləstreɪtər/",
+    "meaning": "插画师、绘制插图的人",
+    "sense": "illustrate a book 是给书配图，illustrator 就是画这些图的人。人物、场景、解释图都可能是工作内容，不必只画一种风格。",
+    "split": "现代可拆 illustrate 去 e + -or；历史也有晚期拉丁语 illustrator 照亮、启发者的对应形式。英语从使人明白者发展到绘制插图者。",
+    "history": [
+      [
+        "拉丁语 illustrare 照亮、使清楚 → illustratus、illustratio 等",
+        "光照与使人明白的比喻"
+      ],
+      [
+        "英语 illustration 等 → illustrate，也有拉丁分词形式影响",
+        "举例说明、配图说明；+ -or、-ive"
+      ],
+      [
+        "illustrate + -or／拉丁对应形式 → illustrator",
+        "启发、说明者 → 画插图的人"
+      ]
+    ],
+    "explanation": "a children’s book illustrator 童书插画师；a freelance illustrator 自由职业插画师。",
+    "usage": "a book illustrator；a freelance illustrator。",
+    "contrast": "illustrator 按配图工作命名，artist 范围更广；大写 Illustrator 也可能是软件专名，要看大小写和场景。",
+    "examples": [
+      [
+        "The illustrator gave each character a distinctive shape.",
+        "插画师给每个角色设计了鲜明的外形。"
+      ],
+      [
+        "The author and illustrator worked closely together.",
+        "作者与插画师密切合作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustrator#English",
+      "https://www.etymonline.com/word/illustrate"
+    ]
+  },
+  {
+    "word": "illustrative",
+    "ipa": "英 /ɪˈlʌstrətɪv/；美 /ɪˈlʌstrətɪv/",
+    "meaning": "说明性的；用作例证的",
+    "sense": "illustrative examples 是拿来帮你看懂的例子，illustrative figures 是说明问题的数字、图示。它强调起说明作用，不保证样本完整或数值就是最后结果。",
+    "split": "对应 illustrate + -ive，使用 illustrat- 词干，去末尾 e 加 -ive → illustrative。形成具有说明、展示作用的形容词。",
+    "history": [
+      [
+        "拉丁语 illustrare 照亮、使清楚 → illustratus、illustratio 等",
+        "光照与使人明白的比喻"
+      ],
+      [
+        "英语 illustration 等 → illustrate，也有拉丁分词形式影响",
+        "举例说明、配图说明；+ -or、-ive"
+      ],
+      [
+        "illustrat- + -ive → illustrative",
+        "用于说明、展示、举例的"
+      ]
+    ],
+    "explanation": "an illustrative example 说明性例子；for illustrative purposes 为了说明；illustrative of 体现、说明……。",
+    "usage": "an illustrative example；for illustrative purposes。",
+    "contrast": "illustrative 与 illustrated 不同：前者说有说明作用，后者常说已经配图的。",
+    "examples": [
+      [
+        "The figures are included for illustrative purposes.",
+        "这些数字列出来是为了便于说明。"
+      ],
+      [
+        "The case is illustrative of a wider problem.",
+        "这个案例说明了一个更广泛的问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustrative#English"
+    ]
+  },
+  {
+    "word": "hatch",
+    "ipa": "/hætʃ/",
+    "meaning": "孵化、出壳；策划；舱口、小门；画排线",
+    "sense": "小鸡 hatch 是从蛋里出来，a hatch 是船、墙、机器上的小门或开口，hatch a plan 则像把计划悄悄孵出来。绘画里的 hatch 还可说画细密排线。",
+    "split": "舱口、小门义承古英语 hæc，联系围栏、门一族；孵化义承中古英语 hacchen 等，早期路线不同。画排线借法语 hacher 刻、切细线；策划比喻接孵化支。",
+    "history": [
+      [
+        "古英语 hæc → hatch 门、开口；中古英语 hacchen 等 → hatch 孵化",
+        "门、开口与孵化为不同近源路线"
+      ],
+      [
+        "法语 hacher 刻细线 → hatch 排线；孵化支 + -ery",
+        "绘画排线另有借入路线；孵化场"
+      ]
+    ],
+    "explanation": "eggs hatch 蛋孵化、小动物出壳；hatch a plan 策划计划；an escape hatch 逃生舱口；hatch shading 排线明暗。",
+    "usage": "eggs hatch；hatch a plan；an escape hatch。",
+    "contrast": "hatch 的同形义先分来源，再看 hatchery 孵化场、hatchback 后掀背车等复合词各接哪支。",
+    "examples": [
+      [
+        "The chicks hatched early in the morning.",
+        "小鸡一大早出壳了。"
+      ],
+      [
+        "They hatched a plan to surprise their teacher.",
+        "他们策划了一个给老师惊喜的计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hatch#English"
+    ]
+  },
+  {
+    "word": "hatchery",
+    "ipa": "/ˈhætʃəri/",
+    "meaning": "孵化场、育苗场",
+    "sense": "把鱼卵、禽蛋等集中孵化、照料的设施，是 hatchery。-ery 让你从孵化动作转到专门进行这项活动的地方。",
+    "split": "hatch 孵化 + -ery 场所后缀 → hatchery。它接孵化这条线，而不是舱口那条线。",
+    "history": [
+      [
+        "古英语 hæc → hatch 门、开口；中古英语 hacchen 等 → hatch 孵化",
+        "门、开口与孵化为不同近源路线"
+      ],
+      [
+        "hatch 孵化 + -ery → hatchery",
+        "专门进行孵化、早期培育的场所"
+      ]
+    ],
+    "explanation": "a fish hatchery 鱼类孵化育苗场；a poultry hatchery 家禽孵化场。",
+    "usage": "a fish hatchery；a poultry hatchery。",
+    "contrast": "hatchery 强调孵化、早期培育设施；farm 范围更宽，不一定专门做这一步。",
+    "examples": [
+      [
+        "The fish hatchery releases young fish into the river.",
+        "这家育苗场把幼鱼放流到河里。"
+      ],
+      [
+        "The eggs were sent to a poultry hatchery.",
+        "这些蛋被送到了家禽孵化场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hatchery#English"
+    ]
+  }
+]

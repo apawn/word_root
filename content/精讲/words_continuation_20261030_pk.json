@@ -1,0 +1,1729 @@
+[
+  {
+    "word": "equip",
+    "ipa": "/ɪˈkwɪp/",
+    "meaning": "装备、配备；使有能力",
+    "sense": "人要登山，你给他靴子、绳索；新人要做事，你给他知识、技能：都是让人带齐需要的东西。",
+    "split": "借法语 équiper，早期常用于船只的配员、装备，远接日耳曼语船只材料。不是 e- 电子加 quip。",
+    "history": [
+      [
+        "法语 esquiper、équiper 等装备船只的材料",
+        "原与日耳曼语船只、配员材料相关"
+      ],
+      [
+        "英语 equip → equipment",
+        "配备；所配备的器材与设备"
+      ]
+    ],
+    "explanation": "equip someone with something 为某人配备……；equip someone to do 使某人具备做事能力；equipped 双写 p。",
+    "usage": "equip with；equip to do；be equipped for。",
+    "contrast": "equip 强调提供完成任务所需，decorate 是装饰；好看不等于装备齐全。",
+    "examples": [
+      [
+        "The rooms are equipped with small kitchens.",
+        "房间配有小厨房。"
+      ],
+      [
+        "The course equips students to work independently.",
+        "课程使学生具备独立工作的能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/equip#English"
+    ]
+  },
+  {
+    "word": "equipment",
+    "ipa": "/ɪˈkwɪpmənt/",
+    "meaning": "设备、器材、装备",
+    "sense": "把露营用的帐篷、炉具、工具合起来谈，叫 equipment。它指一组完成事情所需的东西，不必每件都是大型机器。",
+    "split": "equip + -ment，与法语 équipement 对应；这里 -ment 指装备活动所提供的器材。",
+    "history": [
+      [
+        "法语 esquiper、équiper 等装备船只的材料",
+        "原与日耳曼语船只、配员材料相关"
+      ],
+      [
+        "英语 equip → equipment",
+        "配备；所配备的器材与设备"
+      ],
+      [
+        "equip + -ment → equipment",
+        "配备的器材、工具，整体称呼"
+      ]
+    ],
+    "explanation": "camping equipment 露营装备；a piece of equipment 一件设备；通常不可数，不按普通复数加 s。",
+    "usage": "camping equipment；a piece of equipment。",
+    "contrast": "equipment 常作整体不可数；要数件数说 two pieces of equipment，不能机械写 two equipments。",
+    "examples": [
+      [
+        "No special equipment is needed for the activity.",
+        "这项活动不需要特殊设备。"
+      ],
+      [
+        "The laboratory bought three pieces of equipment.",
+        "实验室买了三件设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/equipment#English"
+    ]
+  },
+  {
+    "word": "argue",
+    "ipa": "英 /ˈɑːɡjuː/；美 /ˈɑːrɡjuː/",
+    "meaning": "争论、争吵；论证、主张",
+    "sense": "可以是两个人各不相让地争，也可以是作者安静地拿理由支持观点。共同点是把自己的主张推到台面上。",
+    "split": "经法语 arguer 接拉丁 arguere 显示、证明、指责；不是只从今天吵架义往回解释。",
+    "history": [
+      [
+        "拉丁 arguere 显示、证明、指责 → 法语 arguer",
+        "把理由、指控摆出来"
+      ],
+      [
+        "英语 argue；拉丁 argumentum 经法语 → argument",
+        "论证、争论；理由或争吵"
+      ]
+    ],
+    "explanation": "argue with someone 与某人争论；argue about a topic 争论话题；argue that 主张；argue for/against 为某观点提供支持或反对理由。",
+    "usage": "argue that；argue with；argue for/against。",
+    "contrast": "argue that 在论文里通常是提出论证，不一定是发火。quarrel 更聚焦争吵、失和。",
+    "examples": [
+      [
+        "They argued about who should pay.",
+        "他们为该谁付钱争论。"
+      ],
+      [
+        "The author argues that the policy needs to change.",
+        "作者论证这项政策需要改变。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/argue#English"
+    ]
+  },
+  {
+    "word": "argument",
+    "ipa": "英 /ˈɑːɡjumənt/；美 /ˈɑːrɡjumənt/",
+    "meaning": "争论、争吵；理由、论证；参数〔计算机〕",
+    "sense": "日常 an argument 可是一场争吵；写作里 an argument 则是一条有理由支撑的主张。先看场景，再决定中文。",
+    "split": "经法语接拉丁 argumentum 证明、理由；现代对应 argue 去 e 加 -ment。计算机的参数义是另一项专门发展。",
+    "history": [
+      [
+        "拉丁 arguere 显示、证明、指责 → 法语 arguer",
+        "把理由、指控摆出来"
+      ],
+      [
+        "英语 argue；拉丁 argumentum 经法语 → argument",
+        "论证、争论；理由或争吵"
+      ],
+      [
+        "argumentum → argument",
+        "理由、论证；争论事件；后有技术用法"
+      ]
+    ],
+    "explanation": "have an argument 争吵；an argument for/against 支持、反对理由；a convincing argument 有说服力的论证；pass an argument 向函数传参。",
+    "usage": "have an argument；a strong argument；a function argument。",
+    "contrast": "argument 不总是情绪冲突；a strong argument 可能在夸逻辑有力。编程中的 argument 也不是函数之间在吵架。",
+    "examples": [
+      [
+        "They had an argument about the budget.",
+        "他们为预算吵了一架。"
+      ],
+      [
+        "She presented a clear argument for keeping the library open.",
+        "她给出了保留图书馆开放的清晰理由。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/argument#English"
+    ]
+  },
+  {
+    "word": "basement",
+    "ipa": "/ˈbeɪsmənt/",
+    "meaning": "地下室；地下楼层",
+    "sense": "一栋房子主要生活层的下面，还有一层或部分一层在地面以下，这就是 basement。可以储物，也可以装修成使用空间。",
+    "split": "base 基底 + -ment，形成建筑较低部分、地下层的名词；这里不是给动词一律加尾表示动作。",
+    "history": [
+      [
+        "base 底部 + -ment → basement",
+        "建筑的底部、较低楼层"
+      ],
+      [
+        "常见现代 basement",
+        "全部或部分低于地面的楼层"
+      ]
+    ],
+    "explanation": "in the basement 在地下室；a basement flat 地下层公寓；basement storage 地下室储物空间。",
+    "usage": "in the basement；a basement flat。",
+    "contrast": "basement 是位置、楼层，cellar 常尤其指储藏用地下室；basement 可以是有人生活、工作的空间。",
+    "examples": [
+      [
+        "We keep the bicycles in the basement.",
+        "我们把自行车放在地下室。"
+      ],
+      [
+        "The basement has been converted into a studio.",
+        "地下室已改成工作室。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/basement#English"
+    ]
+  },
+  {
+    "word": "imprisonment",
+    "ipa": "/ɪmˈprɪzənmənt/",
+    "meaning": "监禁；关押",
+    "sense": "imprison 是把人关起来，imprisonment 是这种失去自由的处境、持续时间或处罚。它不是只指监狱那栋楼。",
+    "split": "经法语 emprisonnement 等，与 imprison + -ment 对应；im- 进入 + prison 监狱的材料，再形成行为、状态名词。",
+    "history": [
+      [
+        "法语 prison、emprisonner 等 → imprison",
+        "进入监狱 → 关押"
+      ],
+      [
+        "emprisonnement／imprison + -ment → imprisonment",
+        "监禁的行为、状态或刑罚"
+      ]
+    ],
+    "explanation": "a term of imprisonment 一段监禁刑期；life imprisonment 终身监禁；false imprisonment 非法拘禁等法律名称，具体定义按语境。",
+    "usage": "a term of imprisonment；life imprisonment。",
+    "contrast": "prison 是监狱，imprisonment 是关押、监禁；描述建筑翻修不用 imprisonment renovation。",
+    "examples": [
+      [
+        "The sentence included a period of imprisonment.",
+        "判决包含一段监禁。"
+      ],
+      [
+        "The book describes his years of imprisonment.",
+        "书中描写了他被关押的那些年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imprisonment#English"
+    ]
+  },
+  {
+    "word": "embarrass",
+    "ipa": "英 /ɪmˈbærəs/；美 /ɪmˈbærəs/",
+    "meaning": "使尴尬、使难堪",
+    "sense": "你正在大家面前说话，别人忽然揭出一件糗事，让你不知道脸往哪放，就是 embarrass you。",
+    "split": "借法语 embarrasser 阻碍、使困窘，关联西班牙等语言的相关形式，细部借入路径有分歧。不是英语 bare 裸的简单加前后缀。",
+    "history": [
+      [
+        "法语 embarrasser，接西班牙等罗曼语相关形式",
+        "阻碍、困住；更远路径有分歧"
+      ],
+      [
+        "英语 embarrass → embarrassment",
+        "使局促难堪；尴尬及使人难堪的事"
+      ]
+    ],
+    "explanation": "embarrass someone 使某人尴尬；be embarrassed about/by 因……难堪；embarrassing 说事情令人尴尬。",
+    "usage": "embarrass someone；be embarrassed about。",
+    "contrast": "embarrassed 是人感到难堪，embarrassing 是人或事使别人难堪；要看谁承受、谁造成。",
+    "examples": [
+      [
+        "Please do not embarrass me in front of everyone.",
+        "请别让我在大家面前难堪。"
+      ],
+      [
+        "The unexpected praise embarrassed him.",
+        "突如其来的夸奖让他有些不好意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embarrass#English"
+    ]
+  },
+  {
+    "word": "embarrassment",
+    "ipa": "英 /ɪmˈbærəsmənt/；美 /ɪmˈbærəsmənt/",
+    "meaning": "尴尬、难堪；令人难堪的人或事",
+    "sense": "当众念错名字时那阵脸热，是 embarrassment；一个总让组织出糗的事件，也能叫 an embarrassment。",
+    "split": "embarrass + -ment，既能指尴尬状态，也能把造成这种状态的人、事作为可数名词。",
+    "history": [
+      [
+        "法语 embarrasser，接西班牙等罗曼语相关形式",
+        "阻碍、困住；更远路径有分歧"
+      ],
+      [
+        "英语 embarrass → embarrassment",
+        "使局促难堪；尴尬及使人难堪的事"
+      ],
+      [
+        "embarrass + -ment → embarrassment",
+        "局促难堪；引起难堪的对象"
+      ]
+    ],
+    "explanation": "to my embarrassment 令我尴尬的是；die of embarrassment 尴尬得要命的夸张说法；an embarrassment to 对……是个难堪。",
+    "usage": "to my embarrassment；an embarrassment to。",
+    "contrast": "embarrassment 不一定是严重羞耻；一句夸奖也能引起它。shame 往往更重地涉及羞耻、过错评价。",
+    "examples": [
+      [
+        "To my embarrassment, I had forgotten her name.",
+        "令我尴尬的是，我忘了她的名字。"
+      ],
+      [
+        "The failed event became an embarrassment to the organisers.",
+        "活动失败让组织者很难堪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embarrassment#English"
+    ]
+  },
+  {
+    "word": "amusement",
+    "ipa": "/əˈmjuːzmənt/",
+    "meaning": "愉悦、逗乐；娱乐消遣",
+    "sense": "一件小事让你嘴角上扬，觉得有趣好笑，这份轻松的乐趣是 amusement。也能说供人玩乐的活动。",
+    "split": "经法语 amusement，现代对应 amuse 去 e 加 -ment；amuse 的逗乐、消遣义形成相应名词。",
+    "history": [
+      [
+        "法语 amuser → amusement",
+        "使消遣、逗乐 → 相应乐趣"
+      ],
+      [
+        "英语 amuse／amusement",
+        "使觉得有趣；乐趣与消遣"
+      ]
+    ],
+    "explanation": "to someone’s amusement 令某人觉得好笑；for amusement 为消遣；an amusement park 游乐园。",
+    "usage": "to my amusement；for amusement；an amusement park。",
+    "contrast": "amusement 常是有趣、好笑的轻松感，amazement 是惊讶；拼写近但感受不同。",
+    "examples": [
+      [
+        "She watched the puppy with amusement.",
+        "她觉得有趣地看着那只小狗。"
+      ],
+      [
+        "The town has several places of amusement.",
+        "镇上有几处娱乐场所。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/amusement#English"
+    ]
+  },
+  {
+    "word": "enlightenment",
+    "ipa": "/ɪnˈlaɪtənmənt/",
+    "meaning": "启发、开明；领悟；启蒙运动",
+    "sense": "原来像在暗处摸索，忽然有人把事情照明，你懂了，这个画面帮助记 enlightenment。历史、宗教里各有专门用法。",
+    "split": "enlighten 使明白 + -ment；en- 与 light 光的材料，用光照比喻理解。大写 the Enlightenment 是欧洲思想史中的启蒙运动。",
+    "history": [
+      [
+        "en- + light 等 → enlighten",
+        "使有光 → 使明白、启发"
+      ],
+      [
+        "enlighten + -ment → enlightenment",
+        "明白、领悟；历史与宗教的专门命名"
+      ]
+    ],
+    "explanation": "seek enlightenment 寻求理解、领悟；the Enlightenment 启蒙运动；spiritual enlightenment 精神、宗教上的觉悟。",
+    "usage": "seek enlightenment；the Enlightenment。",
+    "contrast": "历史上的 Enlightenment 与某人终于听懂一道题，不是同一层面的称呼；都借明亮比喻理解，但具体定义不同。",
+    "examples": [
+      [
+        "I asked the expert for enlightenment on the issue.",
+        "我请专家把这个问题讲明白。"
+      ],
+      [
+        "The course explores thinkers of the Enlightenment.",
+        "课程探讨启蒙运动时期的思想家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enlightenment#English"
+    ]
+  },
+  {
+    "word": "entitle",
+    "ipa": "/ɪnˈtaɪtəl/",
+    "meaning": "使有权享有；给……题名",
+    "sense": "一张票让你有权进入，一个资格让你可享某项服务，就是 entitle you to。它还保留给书、作品取标题的用法。",
+    "split": "经法语接晚期拉丁 intitulare，in- 与 titulus 标题、名号材料；现代可对应 en- + title，不只限于头衔。",
+    "history": [
+      [
+        "晚期拉丁 intitulare → 法语 entiteler 等",
+        "给以名称、头衔"
+      ],
+      [
+        "英语 entitle → entitlement",
+        "命名；使享有权利 → 相应权利或应得感"
+      ]
+    ],
+    "explanation": "entitle someone to something 使某人有权享有；be entitled to do 有权做；a book entitled ... 一本题为……的书。",
+    "usage": "be entitled to；a book entitled。",
+    "contrast": "entitled to 说权利、资格，不只是想要；a film entitled ... 则在报片名，不是在说电影索要待遇。",
+    "examples": [
+      [
+        "The ticket entitles you to free entry.",
+        "这张票使你可以免费入场。"
+      ],
+      [
+        "She wrote a book entitled Small Changes.",
+        "她写了一本题为《小改变》的书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entitle#English"
+    ]
+  },
+  {
+    "word": "entitlement",
+    "ipa": "/ɪnˈtaɪtəlmənt/",
+    "meaning": "应享的权利、待遇；理所当然的应得感",
+    "sense": "按规则你能享有的假期是 entitlement；一个人觉得别人处处该让着自己，则是 a sense of entitlement。一个谈资格，一个评价心态。",
+    "split": "entitle + -ment，保留词末 e；名词可指享有的权利，也发展出主观应得感。",
+    "history": [
+      [
+        "晚期拉丁 intitulare → 法语 entiteler 等",
+        "给以名称、头衔"
+      ],
+      [
+        "英语 entitle → entitlement",
+        "命名；使享有权利 → 相应权利或应得感"
+      ],
+      [
+        "entitle + -ment → entitlement",
+        "相应权利、待遇；认为自己理应享有的心态"
+      ]
+    ],
+    "explanation": "holiday entitlement 应享假期；entitlement to benefits 享有福利的资格；a sense of entitlement 理所当然的应得感。",
+    "usage": "holiday entitlement；a sense of entitlement。",
+    "contrast": "entitlement 不总是贬义：正式列出的假期权利是中性。带贬义的常是没有依据却自认应得的心态。",
+    "examples": [
+      [
+        "The contract explains your holiday entitlement.",
+        "合同说明了你享有的假期。"
+      ],
+      [
+        "His sense of entitlement annoyed the rest of the group.",
+        "他那种理所当然的应得感让其他组员反感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entitlement#English"
+    ]
+  },
+  {
+    "word": "impair",
+    "ipa": "英 /ɪmˈpeə/；美 /ɪmˈper/",
+    "meaning": "损害、削弱〔功能、能力〕",
+    "sense": "东西还在，却不再像原来那样看得清、判断得准、运转得好，就是它的功能被 impaired。",
+    "split": "经法语 empeirier 接拉丁使变差的材料，核心关联 peior 更差。不是 im- 不加 pair 配对。",
+    "history": [
+      [
+        "拉丁 peior 更差 → peiorare 等 → 法语 empeirier",
+        "使变差、减损"
+      ],
+      [
+        "英语 impair → impairment",
+        "损害功能；功能受损的状态"
+      ]
+    ],
+    "explanation": "impair judgement 削弱判断力；impair hearing 损害听力；impaired performance 受影响的表现。",
+    "usage": "impair judgement；impair hearing。",
+    "contrast": "impair 重在使能力、功能变弱；repair 是修理，不能把两词按看似相同的 pair 当作简单正反词。",
+    "examples": [
+      [
+        "Lack of sleep can impair judgement.",
+        "缺觉可能影响判断力。"
+      ],
+      [
+        "The damage impaired the machine’s performance.",
+        "损坏影响了机器的性能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impair#English"
+    ]
+  },
+  {
+    "word": "impairment",
+    "ipa": "英 /ɪmˈpeəmənt/；美 /ɪmˈpermənt/",
+    "meaning": "损伤、功能受损；减值〔财务〕",
+    "sense": "某项能力或功能打了折扣，是 impairment。财务里谈资产减值，则是把价值受损作为一个专门问题。",
+    "split": "经法语相关名词，现代对应 impair + -ment；从减损、变差走向各领域的受损状态。",
+    "history": [
+      [
+        "拉丁 peior 更差 → peiorare 等 → 法语 empeirier",
+        "使变差、减损"
+      ],
+      [
+        "英语 impair → impairment",
+        "损害功能；功能受损的状态"
+      ],
+      [
+        "impair + -ment 的名词对应",
+        "能力受损；特定领域的价值减损"
+      ]
+    ],
+    "explanation": "hearing impairment 听力受损；visual impairment 视力受损；an impairment loss 减值损失。",
+    "usage": "hearing impairment；visual impairment。",
+    "contrast": "impairment 不自动说明功能完全丧失；程度与具体情形要看上下文。财务义也不是在说资产听力不好。",
+    "examples": [
+      [
+        "The device helps people with hearing impairment.",
+        "这款设备帮助听力受损的人。"
+      ],
+      [
+        "The report recorded an impairment loss on the asset.",
+        "报告记载了该项资产的减值损失。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impairment#English"
+    ]
+  },
+  {
+    "word": "endow",
+    "ipa": "/ɪnˈdaʊ/",
+    "meaning": "捐资设立；赋予〔能力、品质〕",
+    "sense": "拿出财产让某个机构、职位能长期运作，是 endow；说一个人生来有好嗓子，也能说 endowed with a fine voice。",
+    "split": "经法语 endouer 接拉丁 dotare，关联 dos 赠予、嫁妆等财产材料；不是 end 结束加 ow。",
+    "history": [
+      [
+        "拉丁 dos 赠予、嫁妆 → dotare → 法语 endouer",
+        "提供财产、禀赋等"
+      ],
+      [
+        "英语 endow → endowment",
+        "资助、赋予；捐赠基金、禀赋"
+      ]
+    ],
+    "explanation": "endow a scholarship 捐资设奖学金；endow a chair 捐资设教席；be endowed with 具有、被赋予某种禀赋。",
+    "usage": "endow a scholarship；be endowed with。",
+    "contrast": "endow 常涉及较持久的资助或禀赋，give 范围更广；随手递一支笔通常不用 endow。",
+    "examples": [
+      [
+        "The donation will endow a scholarship.",
+        "这笔捐款将用于设立奖学金。"
+      ],
+      [
+        "She is endowed with a remarkable memory.",
+        "她有着出众的记忆力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endow#English"
+    ]
+  },
+  {
+    "word": "endowment",
+    "ipa": "/ɪnˈdaʊmənt/",
+    "meaning": "捐赠、捐赠基金；天赋、禀赋",
+    "sense": "大学有一笔长期支持办学的钱，可叫 endowment；一个人的天然才能，也叫 natural endowment。都有被给予、所拥有的材料。",
+    "split": "endow + -ment，既说捐资、所捐财产，也说与生俱来的品质、能力。基金通常长期管理使用，不是每次把全部本金立刻花掉。",
+    "history": [
+      [
+        "拉丁 dos 赠予、嫁妆 → dotare → 法语 endouer",
+        "提供财产、禀赋等"
+      ],
+      [
+        "英语 endow → endowment",
+        "资助、赋予；捐赠基金、禀赋"
+      ],
+      [
+        "endow + -ment → endowment",
+        "捐赠与捐赠基金；自然禀赋"
+      ]
+    ],
+    "explanation": "a university endowment 大学捐赠基金；an endowment fund 捐赠基金；natural endowments 天然禀赋。",
+    "usage": "an endowment fund；natural endowments。",
+    "contrast": "endowment 可指基金整体，donation 可以是一次捐款；具体资助安排须看文本，不能当作同一种固定合同。",
+    "examples": [
+      [
+        "The university’s endowment supports research and scholarships.",
+        "大学的捐赠基金支持研究和奖学金。"
+      ],
+      [
+        "Training helped her develop her natural endowments.",
+        "训练帮助她发挥了天然禀赋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endowment#English"
+    ]
+  },
+  {
+    "word": "enrich",
+    "ipa": "/ɪnˈrɪtʃ/",
+    "meaning": "使富裕；充实、使丰富；使富集",
+    "sense": "不只把钱包变鼓，也能把文章内容、人生体验变厚实：原来单薄的东西多了有价值的成分。",
+    "split": "借法语 enrichir 等，现代对应 en- 使成为 + rich 丰富、富有；不同领域把丰富具体化为钱、内容或物质比例。",
+    "history": [
+      [
+        "法语 enrichir 等 → 英语 enrich",
+        "使富裕；使内容更丰富"
+      ],
+      [
+        "enrich + -ment → enrichment",
+        "变丰富的过程或增加的成分、活动"
+      ]
+    ],
+    "explanation": "enrich an experience 丰富体验；enrich the soil 改善土壤养分；enrich oneself 使自己富有；技术上的富集须看具体物质。",
+    "usage": "enrich an experience；enrich the soil。",
+    "contrast": "enrich 是增加某种价值或成分，不只是数量无限增加；更多无关字句未必 enrich an essay。",
+    "examples": [
+      [
+        "Travel can enrich your understanding of other cultures.",
+        "旅行能丰富你对其他文化的理解。"
+      ],
+      [
+        "Compost enriches the soil.",
+        "堆肥能增加土壤的养分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enrich#English"
+    ]
+  },
+  {
+    "word": "enrichment",
+    "ipa": "/ɪnˈrɪtʃmənt/",
+    "meaning": "充实、丰富；富集；拓展活动",
+    "sense": "让环境、学习、内容不再单调，是 enrichment。动物园给动物增加可探索、可活动的东西，也常叫 environmental enrichment。",
+    "split": "enrich + -ment，把变丰富的过程、手段名词化；学科里还可指提高某种成分比例的富集。",
+    "history": [
+      [
+        "法语 enrichir 等 → 英语 enrich",
+        "使富裕；使内容更丰富"
+      ],
+      [
+        "enrich + -ment → enrichment",
+        "变丰富的过程或增加的成分、活动"
+      ],
+      [
+        "enrich + -ment → enrichment",
+        "充实过程；拓展活动；成分富集"
+      ]
+    ],
+    "explanation": "educational enrichment 学习拓展；environmental enrichment 环境丰富化；soil enrichment 土壤增肥。",
+    "usage": "educational enrichment；environmental enrichment。",
+    "contrast": "enrichment 不总是钱变多；课外拓展、动物活动环境都能用。技术富集义则有特定量化含义。",
+    "examples": [
+      [
+        "The school offers enrichment activities after class.",
+        "学校提供课后拓展活动。"
+      ],
+      [
+        "The zoo introduced new forms of environmental enrichment.",
+        "动物园增加了新的环境丰富化措施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enrichment#English"
+    ]
+  },
+  {
+    "word": "embodiment",
+    "ipa": "英 /ɪmˈbɒdimənt/；美 /ɪmˈbɑːdimənt/",
+    "meaning": "体现；化身；具体表现",
+    "sense": "诚实是抽象品质，一个人在每件小事里都做出来，你就能把他看作诚实的 embodiment：品质有了看得见的样子。",
+    "split": "embody + -ment，保留词末 y；em- 进入与 body 身体的材料，从给以具体形体走到体现抽象性质。",
+    "history": [
+      [
+        "em- + body → embody",
+        "使有形体；体现"
+      ],
+      [
+        "embody + -ment → embodiment",
+        "具体体现某品质、观念的人或物"
+      ]
+    ],
+    "explanation": "the embodiment of something 某物的体现、化身；常作单数，较正式。可以是褒义品质，也可以是负面特点。",
+    "usage": "the embodiment of；a living embodiment。",
+    "contrast": "embodiment 不只说身体存在；把某理念清楚表现出来的设计、制度，也能是它的 embodiment。",
+    "examples": [
+      [
+        "For her students, she was the embodiment of patience.",
+        "在学生眼里，她是耐心的化身。"
+      ],
+      [
+        "The design is an embodiment of the team’s values.",
+        "这个设计体现了团队的价值观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embodiment#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/embodiment"
+    ]
+  },
+  {
+    "word": "assortment",
+    "ipa": "英 /əˈsɔːtmənt/；美 /əˈsɔːrtmənt/",
+    "meaning": "各种各样的一组；混合品种",
+    "sense": "一盒里有不同口味的饼干，不是同款堆很多，而是一组有不同种类的东西，可以叫 an assortment。",
+    "split": "assort 把东西分组、搭配 + -ment，前者接法语 assortir 等按类安排的材料，关联 sort 种类。",
+    "history": [
+      [
+        "法语 assortir → assort",
+        "按种类安排、配成一组"
+      ],
+      [
+        "assort + -ment → assortment",
+        "分配、搭配后的一组；多种东西的集合"
+      ]
+    ],
+    "explanation": "an assortment of something 各式各样的……；a wide assortment 品种丰富的一组；an assortment of tools 一堆不同工具。",
+    "usage": "an assortment of；a wide assortment。",
+    "contrast": "assortment 强调里面有不同种类；a large quantity 只说数量多，不保证品种多。",
+    "examples": [
+      [
+        "The box contains an assortment of biscuits.",
+        "盒里装着各种饼干。"
+      ],
+      [
+        "She arrived with a strange assortment of tools.",
+        "她带来了一组稀奇古怪的工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assortment#English"
+    ]
+  },
+  {
+    "word": "enact",
+    "ipa": "/ɪˈnækt/",
+    "meaning": "制定、通过〔法律〕；扮演、上演",
+    "sense": "把议案变成正式规则，是 enact；把故事里的场面实际演出来，也可用 enact。两个场景都含让内容落实成行动、形式。",
+    "split": "en- 使成为与 act 行动、法案材料结合；act 上接法语、拉丁 actum，不能只按现代演员的 act 回推全部含义。",
+    "history": [
+      [
+        "en- 使成为 + act 法案、行动等 → enact",
+        "使成为正式法案；把情节做出来"
+      ],
+      [
+        "enact + -ment → enactment",
+        "制定；制定的法规；演出、再现"
+      ]
+    ],
+    "explanation": "enact a law 制定法律；enact legislation 立法；enact a scene 表演场景；后者较正式。",
+    "usage": "enact a law；enact a scene。",
+    "contrast": "enact a law 是制定、通过，enforce a law 是执行；有法案不等于已经有效执法。",
+    "examples": [
+      [
+        "The parliament enacted a new law.",
+        "议会通过了一部新法律。"
+      ],
+      [
+        "The students enacted a scene from the play.",
+        "学生们表演了剧中的一个场景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enact#English"
+    ]
+  },
+  {
+    "word": "enactment",
+    "ipa": "/ɪˈnæktmənt/",
+    "meaning": "制定、通过；法规；表演、再现",
+    "sense": "enactment 可以是规则正式落地的过程，也可以是已通过的一项法规；谈戏剧时又能是把情节演出来。",
+    "split": "enact + -ment，动作、结果两种名词作用并存；意义要随 enact 的法律、表演分支走。",
+    "history": [
+      [
+        "en- 使成为 + act 法案、行动等 → enact",
+        "使成为正式法案；把情节做出来"
+      ],
+      [
+        "enact + -ment → enactment",
+        "制定；制定的法规；演出、再现"
+      ],
+      [
+        "enact + -ment → enactment",
+        "立法活动、成文法规；演绎活动"
+      ]
+    ],
+    "explanation": "the enactment of a law 法律的制定；a legislative enactment 立法规定；the enactment of a scene 场景演绎。",
+    "usage": "the enactment of；a legislative enactment。",
+    "contrast": "enactment 不等于 enforcement 执法；一个看制定或规定，一个看如何使规则被遵守。",
+    "examples": [
+      [
+        "The debate continued after the enactment of the law.",
+        "法律通过后，争论仍在继续。"
+      ],
+      [
+        "Their enactment of the final scene was moving.",
+        "他们对最后一幕的演绎很动人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enactment#English"
+    ]
+  },
+  {
+    "word": "embankment",
+    "ipa": "/ɪmˈbæŋkmənt/",
+    "meaning": "堤岸；路堤、铁路路基的填筑体",
+    "sense": "把土石堆成一条抬高的长带，用来挡水或托住道路、铁路，这样的结构叫 embankment。",
+    "split": "embank 筑堤 + -ment，前者对应 em- 与 bank 堤岸、土埂材料；这里 bank 不取金融银行义。",
+    "history": [
+      [
+        "em- + bank → embank",
+        "用堤岸围护、筑起土堤"
+      ],
+      [
+        "embank + -ment → embankment",
+        "筑起的堤岸、土石填筑体"
+      ]
+    ],
+    "explanation": "a river embankment 河堤；a railway embankment 铁路路堤；walk along the embankment 沿堤岸走。",
+    "usage": "a river embankment；a railway embankment。",
+    "contrast": "embankment 不只防洪，也可支撑道路；bridge 是跨越空处的桥，不能把所有抬高的路段都叫桥。",
+    "examples": [
+      [
+        "They walked along the river embankment.",
+        "他们沿河堤步行。"
+      ],
+      [
+        "The railway runs along a high embankment.",
+        "铁路沿着高高的路堤延伸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embankment#English"
+    ]
+  },
+  {
+    "word": "allot",
+    "ipa": "英 /əˈlɒt/；美 /əˈlɑːt/",
+    "meaning": "分配、拨给〔时间、资源等〕",
+    "sense": "手里有有限的时间、座位、钱，你给每个人划出一份，是 allot。常比 give 更让人想到事先划定份额。",
+    "split": "经法语 aloter 接向某份额分派的材料，与 lot 份额相关。现代过去式 allotted、分词 allotting 双写 t。",
+    "history": [
+      [
+        "法语 aloter，à 与 lot 份额等 → allot",
+        "把一份份东西分给不同对象"
+      ],
+      [
+        "allot + -ment → allotment",
+        "分配的份额；分出供种植的小块土地"
+      ]
+    ],
+    "explanation": "allot time to something 为某事分配时间；allot someone a place 给某人分配名额；the allotted time 规定的时间。",
+    "usage": "allot time to；the allotted time。",
+    "contrast": "allot 常指把有限资源分份，allow 是允许；allow time 留出时间与 allot time 分配时间语义相近但构造不同。",
+    "examples": [
+      [
+        "We allotted ten minutes to each speaker.",
+        "我们给每位发言者分配了十分钟。"
+      ],
+      [
+        "Each family was allotted a small plot of land.",
+        "每户人家分到了一小块土地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/allot#English"
+    ]
+  },
+  {
+    "word": "allotment",
+    "ipa": "英 /əˈlɒtmənt/；美 /əˈlɑːtmənt/",
+    "meaning": "分配、份额；小块租用菜地〔英〕",
+    "sense": "分给你的那一份是 allotment；英国日常还常说一块租来种菜、种水果的小菜地，正是被分出来的一块地。",
+    "split": "接法语 alotement 等，现代对应 allot + -ment；份额义延伸到特定的小块园地。",
+    "history": [
+      [
+        "法语 aloter，à 与 lot 份额等 → allot",
+        "把一份份东西分给不同对象"
+      ],
+      [
+        "allot + -ment → allotment",
+        "分配的份额；分出供种植的小块土地"
+      ],
+      [
+        "allotment 的份额与土地用法",
+        "分配及份额；城镇附近供个人耕种的小块地"
+      ]
+    ],
+    "explanation": "a water allotment 配给水量；an allotment of time 分配的时间；grow vegetables on an allotment 在租来的菜地种菜。",
+    "usage": "an allotment of；rent an allotment。",
+    "contrast": "allotment 的菜地义有地域习惯，不能看见任何花园就一律改叫 allotment；garden 范围更广。",
+    "examples": [
+      [
+        "She grows tomatoes on her allotment.",
+        "她在租来的小菜地上种番茄。"
+      ],
+      [
+        "Each team received the same allotment of time.",
+        "每个团队分到的时间相同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/allotment#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/allotment"
+    ]
+  },
+  {
+    "word": "refurbish",
+    "ipa": "英 /ˌriːˈfɜːbɪʃ/；美 /ˌriːˈfɜːrbɪʃ/",
+    "meaning": "翻新、整修",
+    "sense": "旧房间、旧电脑还值得继续用，你修整、更换部分东西，让它重新有好状态，就是 refurbish。",
+    "split": "re- 再 + furbish 擦亮、修整，后者接法语 forbir、furbiss- 等材料，再远有日耳曼语来源。不是把整个词尾当某种鱼 fish。",
+    "history": [
+      [
+        "法语 forbir、furbiss- 等 → 英语 furbish",
+        "擦亮、修整"
+      ],
+      [
+        "re- 再 + furbish → refurbish → refurbishment",
+        "重新修整、翻新；翻新活动"
+      ]
+    ],
+    "explanation": "refurbish a building 整修建筑；a refurbished laptop 翻新笔记本；常含清洁、修理、更换等组合工作。",
+    "usage": "refurbish a building；a refurbished laptop。",
+    "contrast": "refurbish 是整修到可继续用的状态，demolish 是拆毁；refurbished 也不等于全新出厂。",
+    "examples": [
+      [
+        "The hotel refurbished all its guest rooms.",
+        "酒店翻新了所有客房。"
+      ],
+      [
+        "He bought a refurbished computer.",
+        "他买了一台翻新电脑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refurbish#English"
+    ]
+  },
+  {
+    "word": "refurbishment",
+    "ipa": "英 /ˌriːˈfɜːbɪʃmənt/；美 /ˌriːˈfɜːrbɪʃmənt/",
+    "meaning": "翻新、整修工程",
+    "sense": "refurbish 是动手翻新，refurbishment 是这项翻新工作：店面为了它暂停营业，之后以更好的状态重新开门。",
+    "split": "refurbish + -ment；re- 再的材料还在，-ment 把整修的过程、工程名词化。",
+    "history": [
+      [
+        "法语 forbir、furbiss- 等 → 英语 furbish",
+        "擦亮、修整"
+      ],
+      [
+        "re- 再 + furbish → refurbish → refurbishment",
+        "重新修整、翻新；翻新活动"
+      ],
+      [
+        "refurbish + -ment → refurbishment",
+        "翻新活动或具体整修工程"
+      ]
+    ],
+    "explanation": "closed for refurbishment 因整修关闭；a major refurbishment 大规模翻新；undergo refurbishment 进行整修。",
+    "usage": "closed for refurbishment；undergo refurbishment。",
+    "contrast": "refurbishment 可以更新设备、装修，并不意味着建筑结构全部重建；reconstruction 更突出重建。",
+    "examples": [
+      [
+        "The library is closed for refurbishment.",
+        "图书馆因整修关闭。"
+      ],
+      [
+        "The refurbishment gave the old shop a brighter interior.",
+        "翻新让老店内部明亮起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refurbishment#English"
+    ]
+  },
+  {
+    "word": "atone",
+    "ipa": "英 /əˈtəʊn/；美 /əˈtoʊn/",
+    "meaning": "弥补过错；赎罪",
+    "sense": "做错后不只说一句算了，而是想通过行动补回来、重新和好，就是 atone。词的旧画面很直观：回到一条心。",
+    "split": "来自 at one 处于一致、和好的旧短语，保留 one 的旧读音材料；不是 a- 加现代 tone 音调。后来的动词用于弥补过错。",
+    "history": [
+      [
+        "中古英语 at one、atonen 等",
+        "处于一致、和好状态"
+      ],
+      [
+        "atonement 与后来的动词 atone",
+        "和解 → 补偿过错、赎罪；名词记录早于该动词记录"
+      ]
+    ],
+    "explanation": "atone for a mistake 为错误作弥补；atone for wrongdoing 赎过。通常用 for 接所弥补的过错。",
+    "usage": "atone for；try to atone。",
+    "contrast": "atone 强调补过、赎罪，apologise 强调道歉；一句道歉可能是其中一步，未必已弥补实际伤害。",
+    "examples": [
+      [
+        "He tried to atone for his mistake by helping with the repairs.",
+        "他帮忙维修，试图弥补自己的过错。"
+      ],
+      [
+        "The novel asks whether a person can atone for past wrongdoing.",
+        "小说追问人能否为过去的过错赎罪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/atone#English",
+      "https://www.etymonline.com/word/atonement"
+    ]
+  },
+  {
+    "word": "atonement",
+    "ipa": "英 /əˈtəʊnmənt/；美 /əˈtoʊnmənt/",
+    "meaning": "补偿过错；赎罪；和解〔宗教等语境〕",
+    "sense": "关系被伤害后，付出行动去补过、重新求得和解，这件事是 atonement。宗教里有更具体的解释，需按文本理解。",
+    "split": "以 at one 和好的旧材料加名词尾形成。现代与 atone 对应，但名词的早期记录在动词之前，不能画成英语动词必定先有。",
+    "history": [
+      [
+        "中古英语 at one、atonen 等",
+        "处于一致、和好状态"
+      ],
+      [
+        "atonement 与后来的动词 atone",
+        "和解 → 补偿过错、赎罪；名词记录早于该动词记录"
+      ],
+      [
+        "atonement 的后续意义",
+        "从一致、和解走向补过、赎罪"
+      ]
+    ],
+    "explanation": "atonement for a wrong 为过错作弥补；in atonement for 为补过；an act of atonement 一项补过行动。",
+    "usage": "in atonement for；an act of atonement。",
+    "contrast": "atonement 侧重处理过错与修复关系，不是任意损失的普通 compensation 补偿；宗教义尤其不能只译成付钱。",
+    "examples": [
+      [
+        "He volunteered in atonement for the harm he had caused.",
+        "他做志愿工作，弥补自己造成的伤害。"
+      ],
+      [
+        "The story explores guilt and atonement.",
+        "故事探讨内疚与赎罪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/atonement#English",
+      "https://www.etymonline.com/word/atonement"
+    ]
+  },
+  {
+    "word": "embezzle",
+    "ipa": "/ɪmˈbezəl/",
+    "meaning": "侵吞、挪用〔受托管理的钱财〕",
+    "sense": "钱由你经手、保管，你却偷偷转成自己的利益，这类行为常用 embezzle。它的重心是滥用已被交付的信任。",
+    "split": "经法语 embesiler 等偷走、使消失的材料，词形发展为 embezzle；较远词源未明，不编出一个英语 bezzle 偷。",
+    "history": [
+      [
+        "法语 embesiler 等 → 中古英语 embesilen",
+        "偷走、使东西消失；更远来源未明"
+      ],
+      [
+        "英语 embezzle → embezzlement",
+        "侵吞自己受托管理的财物；这一行为"
+      ]
+    ],
+    "explanation": "embezzle money 侵吞钱款；embezzle funds from an organisation 侵吞机构资金。通常对象是自己被委托处理的钱财。",
+    "usage": "embezzle money；embezzle funds。",
+    "contrast": "steal 范围更广；embezzle 特别突出受托管理后侵占，不是每一次街头盗窃都用这个词。",
+    "examples": [
+      [
+        "The accountant was accused of embezzling company funds.",
+        "会计被指控侵吞公司资金。"
+      ],
+      [
+        "The audit found that money had been embezzled.",
+        "审计发现有钱款被侵吞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embezzle#English"
+    ]
+  },
+  {
+    "word": "embezzlement",
+    "ipa": "/ɪmˈbezəlmənt/",
+    "meaning": "侵吞、挪用受托钱财的行为",
+    "sense": "embezzle 是把受托的钱据为己有，embezzlement 是作为问题、案件来讨论的这种行为。",
+    "split": "embezzle + -ment，保留词末 e；名词尾把侵吞行为作为整体来谈。",
+    "history": [
+      [
+        "法语 embesiler 等 → 中古英语 embesilen",
+        "偷走、使东西消失；更远来源未明"
+      ],
+      [
+        "英语 embezzle → embezzlement",
+        "侵吞自己受托管理的财物；这一行为"
+      ],
+      [
+        "embezzle + -ment → embezzlement",
+        "受托管理的钱财被侵占的行为"
+      ]
+    ],
+    "explanation": "an embezzlement case 侵吞资金案件；accused of embezzlement 被指控侵吞钱财；investigate embezzlement 调查相关行为。",
+    "usage": "accused of embezzlement；an embezzlement case。",
+    "contrast": "embezzlement 的定义围绕受托财物，fraud 欺诈的范围更广；报道中的指控也不等于已经定罪。",
+    "examples": [
+      [
+        "The bank reported suspected embezzlement.",
+        "银行报告了涉嫌侵吞资金的情况。"
+      ],
+      [
+        "The film follows an investigation into embezzlement.",
+        "影片围绕一项资金侵吞调查展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embezzlement#English"
+    ]
+  },
+  {
+    "word": "amazement",
+    "ipa": "/əˈmeɪzmənt/",
+    "meaning": "惊讶、惊奇",
+    "sense": "完全没想到竟会这样，你一时瞪大眼睛，心里冒出“真的？”——这阵强烈惊奇是 amazement。",
+    "split": "amaze 去 e 加 -ment；amaze 的旧材料有使迷惑、震惊等，现代常指使惊奇。不是 amusement 的拼写变体。",
+    "history": [
+      [
+        "旧 amaze 等材料",
+        "使迷惑、震惊 → 使惊奇"
+      ],
+      [
+        "amaze + -ment → amazement",
+        "强烈惊讶的状态"
+      ]
+    ],
+    "explanation": "to my amazement 令我惊讶的是；in amazement 惊讶地；watch with amazement 惊奇地观看。",
+    "usage": "to my amazement；in amazement。",
+    "contrast": "amazement 是惊奇，amusement 是觉得有趣、好笑；你可能两者都有，也可能只惊讶并不开心。",
+    "examples": [
+      [
+        "To my amazement, the old watch still worked.",
+        "令我惊讶的是，那块旧表竟然还能走。"
+      ],
+      [
+        "The children stared in amazement.",
+        "孩子们惊奇地盯着看。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/amazement#English"
+    ]
+  },
+  {
+    "word": "reinstate",
+    "ipa": "/ˌriːɪnˈsteɪt/",
+    "meaning": "使复职；恢复〔资格、制度等〕",
+    "sense": "原有的职位被取消、服务被停止，后来又恢复回来，就是 reinstate。需要先有一个曾经存在、后来中断的状态。",
+    "split": "re- 再 + instate 安置、任命；instate 关联 state 状态、地位材料，不能把它只记成某个美国州的动作。",
+    "history": [
+      [
+        "re- 再 + instate 安置、任命 → reinstate",
+        "放回原有职位、状态"
+      ],
+      [
+        "reinstate + -ment → reinstatement",
+        "恢复职务、资格、制度等的过程或结果"
+      ]
+    ],
+    "explanation": "reinstate an employee 让员工复职；reinstate a rule 恢复规则；reinstate someone as something 恢复某人的职位。",
+    "usage": "reinstate someone as；reinstate a service。",
+    "contrast": "reinstate 重恢复原来地位，hire 是雇用，未必以前就在这里任职。",
+    "examples": [
+      [
+        "She was reinstated as team captain.",
+        "她恢复了队长职务。"
+      ],
+      [
+        "The company reinstated the cancelled service.",
+        "公司恢复了先前取消的服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reinstate#English"
+    ]
+  },
+  {
+    "word": "reinstatement",
+    "ipa": "/ˌriːɪnˈsteɪtmənt/",
+    "meaning": "复职；恢复原有状态、资格",
+    "sense": "人重新回到原岗位、旧服务重新开放，这个恢复的结果或过程叫 reinstatement。",
+    "split": "reinstate + -ment，保留末尾 e；re- 再的意义帮助理解恢复，不是首次建立。",
+    "history": [
+      [
+        "re- 再 + instate 安置、任命 → reinstate",
+        "放回原有职位、状态"
+      ],
+      [
+        "reinstate + -ment → reinstatement",
+        "恢复职务、资格、制度等的过程或结果"
+      ],
+      [
+        "reinstate + -ment → reinstatement",
+        "复职、恢复资格或原有安排"
+      ]
+    ],
+    "explanation": "reinstatement to a post 恢复原职；the reinstatement of a service 服务恢复；seek reinstatement 要求复职。",
+    "usage": "seek reinstatement；the reinstatement of。",
+    "contrast": "reinstatement 常指回到先前状态，replacement 是换成另一人、物；恢复原人不等于找人替换。",
+    "examples": [
+      [
+        "The workers called for her reinstatement.",
+        "工人们要求让她复职。"
+      ],
+      [
+        "The reinstatement of the bus route helped local residents.",
+        "公交线路恢复方便了当地居民。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reinstatement#English"
+    ]
+  },
+  {
+    "word": "ail",
+    "ipa": "/eɪl/",
+    "meaning": "使不适、困扰；有问题〔较正式〕",
+    "sense": "What ails you? 问的是哪里不舒服、什么在困扰你。也可以问一个行业究竟出了什么毛病，语气常较书面。",
+    "split": "由古英语 eglan、eglian 困扰等延续，经中古英语到 ail；属于本族日耳曼语材料，不是 ale 啤酒。",
+    "history": [
+      [
+        "古英语 eglan、eglian → 中古英语 eilen",
+        "困扰、折磨"
+      ],
+      [
+        "英语 ail → ailment",
+        "使不适、使有问题；病痛、疾患"
+      ]
+    ],
+    "explanation": "what ails someone 什么使某人不适；what ails the economy 经济有什么问题；ailing 作形容词常说状况不佳的。",
+    "usage": "what ails；an ailing industry。",
+    "contrast": "ail 较正式，日常问身体不适更常说 What’s wrong?；ale 则是另一种来源的啤酒名。",
+    "examples": [
+      [
+        "The doctor asked what was ailing him.",
+        "医生问他哪里不舒服。"
+      ],
+      [
+        "The article examines what ails the industry.",
+        "文章分析了这个行业的问题所在。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ail#English"
+    ]
+  },
+  {
+    "word": "ailment",
+    "ipa": "/ˈeɪlmənt/",
+    "meaning": "小病、病痛；疾患",
+    "sense": "感冒、腰酸这些身体毛病，可以统称 ailments。它常让人想到一种不舒服，不一定已经指明精确的病名。",
+    "split": "ail 困扰、使不适 + -ment，把身体的不适、疾患作为名词谈。",
+    "history": [
+      [
+        "古英语 eglan、eglian → 中古英语 eilen",
+        "困扰、折磨"
+      ],
+      [
+        "英语 ail → ailment",
+        "使不适、使有问题；病痛、疾患"
+      ],
+      [
+        "ail + -ment → ailment",
+        "病痛、不适或一种疾患"
+      ]
+    ],
+    "explanation": "a minor ailment 小病；a common ailment 常见病痛；a stomach ailment 胃部毛病。",
+    "usage": "a minor ailment；a common ailment。",
+    "contrast": "ailment 是身体毛病的较概括称呼，disease 常说较明确的疾病；具体轻重仍看文本。",
+    "examples": [
+      [
+        "The clinic treats common minor ailments.",
+        "诊所处理常见的小病小痛。"
+      ],
+      [
+        "He missed the trip because of a stomach ailment.",
+        "他因胃部不适没能参加旅行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ailment#English"
+    ]
+  },
+  {
+    "word": "mistreatment",
+    "ipa": "/ˌmɪsˈtriːtmənt/",
+    "meaning": "虐待；不当对待",
+    "sense": "本应被照顾、被公平对待，却受到伤害、粗暴或不公的待遇，这种坏的对待叫 mistreatment。",
+    "split": "mistreat + -ment，mis- 错、不当地与 treat 对待，再用名词尾说行为、状况。",
+    "history": [
+      [
+        "mis- + treat → mistreat",
+        "不当、伤害性地对待"
+      ],
+      [
+        "mistreat + -ment → mistreatment",
+        "这种对待的行为或经历"
+      ]
+    ],
+    "explanation": "mistreatment of animals 虐待动物；report mistreatment 举报虐待；allegations of mistreatment 不当对待的指控。",
+    "usage": "mistreatment of；report mistreatment。",
+    "contrast": "mistreatment 的 treat 常是对待，不必局限医疗治疗失误；普通 treatment 也不只医学义。",
+    "examples": [
+      [
+        "The shelter investigates reports of animal mistreatment.",
+        "收容机构调查虐待动物的举报。"
+      ],
+      [
+        "The workers described years of mistreatment.",
+        "工人们讲述了多年受到的不当对待。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mistreatment#English"
+    ]
+  },
+  {
+    "word": "ointment",
+    "ipa": "/ˈɔɪntmənt/",
+    "meaning": "软膏、药膏；膏剂",
+    "sense": "不像水一样倒出来，也不像药片吞下去，而是膏状、涂在皮肤表面的制剂，常叫 ointment。",
+    "split": "接中古英语 oinement、法语 oignement 等，来自涂抹的动词材料，远接拉丁 ungere 涂抹。后来词形像 oint + -ment，不要另编一个现代 oin。",
+    "history": [
+      [
+        "拉丁 ungere → 法语 oindre、oignement 等",
+        "涂抹 → 涂抹用的制剂"
+      ],
+      [
+        "中古英语 oinement → ointment",
+        "膏状外用制剂"
+      ]
+    ],
+    "explanation": "a tube of ointment 一管软膏；apply ointment 涂软膏；a fly in the ointment 固定比喻美中不足、扫兴因素。",
+    "usage": "a tube of ointment；a fly in the ointment。",
+    "contrast": "ointment 说剂型，不是所有药都叫 ointment；cream 乳膏、lotion 洗剂在具体制剂上有差别。",
+    "examples": [
+      [
+        "She put the tube of ointment in the cabinet.",
+        "她把那管软膏放进柜子。"
+      ],
+      [
+        "The instructions explain how the ointment should be stored.",
+        "说明书解释了软膏的保存方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ointment#English"
+    ]
+  },
+  {
+    "word": "fulfil",
+    "ipa": "/fʊlˈfɪl/",
+    "meaning": "履行、实现；满足〔条件、需要〕",
+    "sense": "要求留下一个缺口，你把它填满：承诺做到、条件达到、愿望实现，都可以用 fulfil。",
+    "split": "承接古英语 fullfyllan 充分填满，接 full 与 fill 的旧形式；fulfil 是常见英式拼写，不是比 fulfill 少做一半。",
+    "history": [
+      [
+        "古英语 full + fyllan → fullfyllan",
+        "充分填满"
+      ],
+      [
+        "中古英语 fulfillen → fulfil、fulfill → fulfilment 等",
+        "填足 → 达成要求、履行；满足感"
+      ]
+    ],
+    "explanation": "fulfil a promise 履行承诺；fulfil a requirement 满足要求；fulfil an ambition 实现抱负；英式常用 fulfil。",
+    "usage": "fulfil a promise；fulfil a requirement。",
+    "contrast": "fulfil 与 fulfill 主要是拼写习惯差异，不分实现程度；过去式 fulfilled 在两种习惯里都常见。",
+    "examples": [
+      [
+        "The course fulfils the entry requirements.",
+        "这门课满足入学要求。"
+      ],
+      [
+        "She worked hard to fulfil her ambition.",
+        "她努力实现自己的抱负。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fulfil#English"
+    ]
+  },
+  {
+    "word": "fulfill",
+    "ipa": "/fʊlˈfɪl/",
+    "meaning": "履行、实现；满足〔fulfil 的常见美式拼写〕",
+    "sense": "看到末尾两个 l，仍是把承诺、要求填实、做到位的那个动词。含义和 fulfil 基本相同。",
+    "split": "由古英语 fullfyllan 经中古英语延续；现代 full 与 fill 的材料已合为一个词。fulfill 常见于美式，名词常写 fulfillment。",
+    "history": [
+      [
+        "古英语 full + fyllan → fullfyllan",
+        "充分填满"
+      ],
+      [
+        "中古英语 fulfillen → fulfil、fulfill → fulfilment 等",
+        "填足 → 达成要求、履行；满足感"
+      ]
+    ],
+    "explanation": "fulfill a duty 履行职责；fulfill a dream 实现梦想；fulfilled 是过去式、过去分词。",
+    "usage": "fulfill a duty；fulfill a dream。",
+    "contrast": "fulfill 不是简单的 fill 填装：fulfill a duty 是尽责，不能译成把职责装进容器。",
+    "examples": [
+      [
+        "He fulfilled every promise he made.",
+        "他兑现了自己许下的每一个承诺。"
+      ],
+      [
+        "The new system fulfills our basic needs.",
+        "新系统满足了我们的基本需要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fulfill#English"
+    ]
+  },
+  {
+    "word": "fulfilment",
+    "ipa": "/fʊlˈfɪlmənt/",
+    "meaning": "履行、实现；满足感、成就感",
+    "sense": "事情终于做到，是 fulfilment；做着有意义的工作，感到内心充实，也叫 fulfilment。外部任务和内部感受是两条常用分支。",
+    "split": "fulfil + -ment，基于充分填满的旧词族；常见英式 fulfilment，美式常写 fulfillment。",
+    "history": [
+      [
+        "古英语 full + fyllan → fullfyllan",
+        "充分填满"
+      ],
+      [
+        "中古英语 fulfillen → fulfil、fulfill → fulfilment 等",
+        "填足 → 达成要求、履行；满足感"
+      ],
+      [
+        "fulfil + -ment → fulfilment",
+        "要求得到满足；愿望实现后的充实感"
+      ]
+    ],
+    "explanation": "the fulfilment of a promise 承诺兑现；personal fulfilment 个人满足感；order fulfilment 订单履约，涉及处理、配送等业务过程。",
+    "usage": "personal fulfilment；the fulfilment of；order fulfilment。",
+    "contrast": "fulfilment 的满足感常与意义、潜能发挥相连，不只是一时开心；订单语境又是具体业务名词。",
+    "examples": [
+      [
+        "She finds fulfilment in teaching.",
+        "她在教学中获得充实感。"
+      ],
+      [
+        "The team is responsible for order fulfilment.",
+        "这个团队负责订单履约。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fulfilment#English"
+    ]
+  },
+  {
+    "word": "bereavement",
+    "ipa": "/bɪˈriːvmənt/",
+    "meaning": "丧亲；丧亲后的悲痛处境",
+    "sense": "身边重要的人去世，留下的人面对失去、调整生活，这种丧亲的处境是 bereavement。",
+    "split": "bereave + -ment；bereave 的古英语材料原指剥夺、使失去，现代相关用法尤其聚焦亲近者去世。",
+    "history": [
+      [
+        "古英语 bereafian 等 → bereave",
+        "使失去、剥夺"
+      ],
+      [
+        "bereave + -ment → bereavement",
+        "尤指因死亡失去亲近者的处境"
+      ]
+    ],
+    "explanation": "bereavement leave 丧亲假；support after bereavement 丧亲后的支持；a family bereavement 家中有人去世。",
+    "usage": "bereavement leave；a family bereavement。",
+    "contrast": "bereavement 特指丧亲相关处境，grief 是悲痛感，范围可更广；普通失望不是 bereavement。",
+    "examples": [
+      [
+        "She took bereavement leave after her father died.",
+        "父亲去世后，她请了丧亲假。"
+      ],
+      [
+        "The organisation offers support after bereavement.",
+        "机构为丧亲者提供支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bereavement#English"
+    ]
+  },
+  {
+    "word": "enlistment",
+    "ipa": "/ɪnˈlɪstmənt/",
+    "meaning": "入伍、参军；招募、征集",
+    "sense": "名字被登记进队伍，成为其中一员，是 enlistment 的旧画面。现代常见于参军，也能说招募帮助。",
+    "split": "enlist + -ment；en- 进入与 list 名册相连，入册走向加入、征集。",
+    "history": [
+      [
+        "en- + list → enlist",
+        "列入名册 → 参军、招募帮助"
+      ],
+      [
+        "enlist + -ment → enlistment",
+        "入伍行为、服役登记；征集帮助"
+      ]
+    ],
+    "explanation": "army enlistment 陆军入伍；the date of enlistment 入伍日期；voluntary enlistment 志愿参军。",
+    "usage": "voluntary enlistment；the date of enlistment。",
+    "contrast": "enlistment 常用于入伍、登记加入，不等于所有招聘 hiring；是否自愿要看制度与修饰语。",
+    "examples": [
+      [
+        "The record gives his date of enlistment.",
+        "档案记载了他的入伍日期。"
+      ],
+      [
+        "The campaign encouraged voluntary enlistment.",
+        "宣传活动鼓励志愿参军。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enlistment#English"
+    ]
+  },
+  {
+    "word": "entangle",
+    "ipa": "/ɪnˈtæŋɡəl/",
+    "meaning": "缠住；使陷入复杂关系",
+    "sense": "绳子、渔网把东西绞在一起，难以分开，是 entangle；人陷入复杂纠纷，也像被一张关系网缠住。",
+    "split": "en- 进入 + tangle 缠结，中古英语已有相关形式。不是说任何联系 connection 都难以脱身。",
+    "history": [
+      [
+        "en- 进入 + tangle 缠结 → entangle",
+        "使陷入纠缠、复杂关系"
+      ],
+      [
+        "entangle + -ment → entanglement",
+        "缠住状态；复杂牵连；特定学科的纠缠"
+      ]
+    ],
+    "explanation": "be entangled in a net 被网缠住；be entangled in a dispute 卷入纠纷；entangle something with something 使纠缠。",
+    "usage": "be entangled in；entangle with。",
+    "contrast": "entangle 常突出难分开、难摆脱，connect 只说连接；连接充电线不一定叫 entangle。",
+    "examples": [
+      [
+        "The rope became entangled in the branches.",
+        "绳子缠在了树枝上。"
+      ],
+      [
+        "They were entangled in a long dispute.",
+        "他们陷入了一场漫长的纠纷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entangle#English"
+    ]
+  },
+  {
+    "word": "entanglement",
+    "ipa": "/ɪnˈtæŋɡəlmənt/",
+    "meaning": "缠结、牵连；纠缠〔物理等〕",
+    "sense": "一团绳的缠住，或复杂关系带来的牵连，都叫 entanglement。物理里的量子纠缠借了这个名字，但不是两根绳真的拴在一起。",
+    "split": "entangle + -ment，保留词末 e。日常的缠结画面进入专门命名后，不能替代学科定义。",
+    "history": [
+      [
+        "en- 进入 + tangle 缠结 → entangle",
+        "使陷入纠缠、复杂关系"
+      ],
+      [
+        "entangle + -ment → entanglement",
+        "缠住状态；复杂牵连；特定学科的纠缠"
+      ],
+      [
+        "entangle + -ment → entanglement",
+        "缠结状态、牵连；特定学科概念"
+      ]
+    ],
+    "explanation": "avoid entanglement 避免卷入；political entanglements 政治牵连；quantum entanglement 量子纠缠。",
+    "usage": "political entanglements；quantum entanglement。",
+    "contrast": "日常 entanglement 常带难以摆脱之义；quantum entanglement 是专门物理概念，不按人与人的纠纷、烦恼来理解。",
+    "examples": [
+      [
+        "The country hoped to avoid further political entanglements.",
+        "这个国家希望避免进一步的政治牵连。"
+      ],
+      [
+        "The lecture introduced the idea of quantum entanglement.",
+        "讲座介绍了量子纠缠的概念。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entanglement#English"
+    ]
+  },
+  {
+    "word": "enslavement",
+    "ipa": "/ɪnˈsleɪvmənt/",
+    "meaning": "奴役；使沦为奴隶的过程、状态",
+    "sense": "把人当作可控制、可剥夺自由的对象，使其沦为奴隶，这种过程、状态是 enslavement。它是沉重的历史和现实用词。",
+    "split": "enslave + -ment，en- 使成为与 slave 奴隶相连；保留动词末尾 e，形成行为、状态名词。",
+    "history": [
+      [
+        "en- + slave → enslave",
+        "使成为奴隶、加以奴役"
+      ],
+      [
+        "enslave + -ment → enslavement",
+        "奴役过程；受奴役的状态"
+      ]
+    ],
+    "explanation": "the enslavement of people 对人的奴役；escape enslavement 逃离奴役；历史材料中常与 forced labour 强迫劳动等讨论。",
+    "usage": "the enslavement of；escape enslavement。",
+    "contrast": "enslavement 不只是普通忙碌或不喜欢工作，核心涉及自由、人格被剥夺和奴役控制。",
+    "examples": [
+      [
+        "The exhibition documents the enslavement of thousands of people.",
+        "展览记录了数千人遭奴役的历史。"
+      ],
+      [
+        "The novel follows a family’s escape from enslavement.",
+        "小说讲述一家人逃离奴役的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enslavement#English"
+    ]
+  },
+  {
+    "word": "astonish",
+    "ipa": "英 /əˈstɒnɪʃ/；美 /əˈstɑːnɪʃ/",
+    "meaning": "使十分惊讶",
+    "sense": "事情太出乎意料，你像突然被震住了一样，这件事 astonishes you。现代不必真有雷声，旧画面却很有助于记忆。",
+    "split": "接中古英语 astonen、astonien 等，联系法语 estoner，使震惊；更远有拉丁雷声材料。现代词形受 -ish 动词类推影响，不是 stone 石头加后缀就能概括。",
+    "history": [
+      [
+        "古法语 estoner 等 → 中古英语 astonen 等",
+        "使震惊、发懵；远源有雷击般震动的材料"
+      ],
+      [
+        "受 -ish 动词形式影响 → astonish → astonishment",
+        "使惊讶；强烈惊讶的状态"
+      ]
+    ],
+    "explanation": "astonish someone 使某人惊讶；be astonished at/by 对……十分惊讶；astonishing 修饰令人惊讶的事。",
+    "usage": "astonish someone；be astonished at。",
+    "contrast": "astonish 通常比 surprise 力度强；astonished 说感到惊讶，astonishing 说造成惊讶。",
+    "examples": [
+      [
+        "Her speed astonished everyone.",
+        "她的速度让所有人十分惊讶。"
+      ],
+      [
+        "I was astonished to find the door unlocked.",
+        "发现门没锁，我很吃惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/astonish#English",
+      "https://www.etymonline.com/word/astonish"
+    ]
+  },
+  {
+    "word": "astonishment",
+    "ipa": "英 /əˈstɒnɪʃmənt/；美 /əˈstɑːnɪʃmənt/",
+    "meaning": "十分惊讶、惊愕",
+    "sense": "astonish 是把人惊住，astonishment 是人心里那份强烈的意外感。常用来引出意想不到的结果。",
+    "split": "astonish + -ment，接旧震惊、发懵的动词词族；这里名词尾说心理状态。",
+    "history": [
+      [
+        "古法语 estoner 等 → 中古英语 astonen 等",
+        "使震惊、发懵；远源有雷击般震动的材料"
+      ],
+      [
+        "受 -ish 动词形式影响 → astonish → astonishment",
+        "使惊讶；强烈惊讶的状态"
+      ],
+      [
+        "astonish + -ment → astonishment",
+        "强烈惊讶、惊愕"
+      ]
+    ],
+    "explanation": "to someone’s astonishment 令某人十分惊讶的是；in astonishment 惊愕地；express astonishment 表示惊讶。",
+    "usage": "to my astonishment；in astonishment。",
+    "contrast": "astonishment 和 amazement 常相近；amusement 却是觉得有趣、逗乐，别因词形相似混记。",
+    "examples": [
+      [
+        "To our astonishment, she solved the problem in seconds.",
+        "令我们惊讶的是，她几秒钟就解决了问题。"
+      ],
+      [
+        "He stared at the result in astonishment.",
+        "他惊愕地盯着结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/astonishment#English"
+    ]
+  },
+  {
+    "word": "encroach",
+    "ipa": "英 /ɪnˈkrəʊtʃ/；美 /ɪnˈkroʊtʃ/",
+    "meaning": "侵占；逐渐侵入、蚕食",
+    "sense": "本来属于你的空间、时间，被别的东西一点点挤进来、占过去，是 encroach。像工作不断挤进私人时间。",
+    "split": "借法语 encrochier 抓取、侵占，en- 与 croc 钩的材料；远接日耳曼语。不要按今天拼写拆出一个现代 croach。",
+    "history": [
+      [
+        "法语 en- + croc 钩 → encrochier",
+        "抓取、侵占"
+      ],
+      [
+        "英语 encroach → encroachment",
+        "逐渐侵入别人的空间、时间、权利等"
+      ]
+    ],
+    "explanation": "encroach on/upon something 侵占、侵害；development encroaches on farmland 开发逐渐侵入农田。",
+    "usage": "encroach on；encroach upon。",
+    "contrast": "encroach 常带越过应有边界、逐渐侵占的感觉，approach 只是靠近；并非所有接近都有侵犯。",
+    "examples": [
+      [
+        "Work began to encroach on her weekends.",
+        "工作开始侵占她的周末。"
+      ],
+      [
+        "New housing is encroaching on the farmland.",
+        "新建住宅正逐渐侵占农田。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encroach#English"
+    ]
+  },
+  {
+    "word": "encroachment",
+    "ipa": "英 /ɪnˈkrəʊtʃmənt/；美 /ɪnˈkroʊtʃmənt/",
+    "meaning": "侵占、蚕食；逐渐侵入",
+    "sense": "encroach 是越界挤进来，encroachment 是这种边界被一点点推走的过程。可以谈土地，也可以谈权利、私人生活。",
+    "split": "encroach + -ment，把侵占行为、趋势名词化；保留旧抓取材料发展出的越界意味。",
+    "history": [
+      [
+        "法语 en- + croc 钩 → encrochier",
+        "抓取、侵占"
+      ],
+      [
+        "英语 encroach → encroachment",
+        "逐渐侵入别人的空间、时间、权利等"
+      ],
+      [
+        "encroach + -ment → encroachment",
+        "逐步侵入、侵占的过程"
+      ]
+    ],
+    "explanation": "encroachment on privacy 对隐私的侵扰；urban encroachment 城市扩张侵占周边土地；resist encroachment 抵制侵占。",
+    "usage": "encroachment on；urban encroachment。",
+    "contrast": "encroachment 往往有侵占评价，expansion 扩张本身更中性；扩到别人的空间时才突出前者。",
+    "examples": [
+      [
+        "Residents opposed further encroachment on the park.",
+        "居民反对继续侵占公园。"
+      ],
+      [
+        "The essay discusses the encroachment of work on family life.",
+        "文章讨论工作对家庭生活的侵占。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encroachment#English"
+    ]
+  }
+]

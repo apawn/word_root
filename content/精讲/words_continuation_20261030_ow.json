@@ -1,0 +1,570 @@
+[
+  {
+    "word": "spectroscopy",
+    "ipa": "英 /spekˈtrɒskəpi/；美 /spekˈtrɑːskəpi/",
+    "meaning": "光谱学；光谱分析；谱学",
+    "sense": "把混在一起的信号按波长、频率等分开，看哪里强、哪里弱，就像读一组有特征的条码，用来研究材料和过程。",
+    "split": "spectro- 谱相关 + -scopy 观察、研究 → spectroscopy。近代科学构词结合拉丁、希腊材料，不是“用眼睛看鬼”的逐字翻译。",
+    "history": [
+      [
+        "spectrum 光谱、谱等材料 + 希腊 skopein 观察的构词形式",
+        "研究不同成分如何分布成谱"
+      ],
+      [
+        "spectro- + -scopy → spectroscopy",
+        "光谱学、光谱分析等谱学方法"
+      ]
+    ],
+    "explanation": "infrared spectroscopy 红外光谱学；atomic spectroscopy 原子光谱学；spectroscopy techniques 谱学技术。现代范围不只肉眼可见光。",
+    "usage": "infrared spectroscopy；atomic spectroscopy；spectroscopy techniques。",
+    "contrast": "spectroscope、spectrometer 常指仪器，spectroscopy 指方法、研究领域；不能把学科名当每一台具体仪器的名称。",
+    "examples": [
+      [
+        "The laboratory uses infrared spectroscopy to study the sample.",
+        "实验室用红外光谱法研究样品。"
+      ],
+      [
+        "Spectroscopy can reveal information that is invisible to the naked eye.",
+        "谱学方法能揭示肉眼看不到的信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spectroscopy#English",
+      "https://www.merriam-webster.com/dictionary/spectroscopy"
+    ]
+  },
+  {
+    "word": "colonoscopy",
+    "ipa": "英 /ˌkɒləˈnɒskəpi/；美 /ˌkɑːləˈnɑːskəpi/",
+    "meaning": "结肠镜检查",
+    "sense": "重点是用镜子相关仪器看结肠里面。名字先告诉你看哪里、用哪类检查方式，不直接告诉你发现了什么病。",
+    "split": "colono- 结肠 + -scopy 观察、检查；-o- 起连接作用。colon 在此是身体部位，不是标点冒号。",
+    "history": [
+      [
+        "希腊 kolon 结肠；skopein 观察的构词材料",
+        "所看对象是结肠"
+      ],
+      [
+        "colono- + -scopy → colonoscopy",
+        "用结肠镜检查结肠内部"
+      ]
+    ],
+    "explanation": "a colonoscopy 一次结肠镜检查；a colonoscopy report 检查报告；undergo a colonoscopy 接受检查。",
+    "usage": "undergo a colonoscopy；a colonoscopy report。",
+    "contrast": "colonoscopy 是检查过程，colonoscope 是相应仪器；做了检查不等于检查结果必定异常。",
+    "examples": [
+      [
+        "The report describes the findings from the colonoscopy.",
+        "报告描述了结肠镜检查的发现。"
+      ],
+      [
+        "The leaflet explains what a colonoscopy examines.",
+        "说明页解释了结肠镜检查观察什么。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/colonoscopy#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/colonoscopy"
+    ]
+  },
+  {
+    "word": "laparoscopy",
+    "ipa": "英 /ˌlæpəˈrɒskəpi/；美 /ˌlæpəˈrɑːskəpi/",
+    "meaning": "腹腔镜检查；腹腔镜诊疗过程",
+    "sense": "通过腹壁的小切口放入腹腔镜，看腹部内部；同类方法也能配合手术操作。把词先记成“腹部里的镜下观察”。",
+    "split": "laparo- 腰侧、腹部材料 + -scopy 观察；近代构词也联系德语 Laparoskopie。不要把前半误拆成英语 lap 大腿。",
+    "history": [
+      [
+        "希腊 lapara 腰侧、腹侧 + 观察材料",
+        "腹部相关的观察命名"
+      ],
+      [
+        "laparo- + -scopy；近代德语相应术语 → laparoscopy",
+        "腹腔镜检查，也用于相关手术过程称呼"
+      ]
+    ],
+    "explanation": "diagnostic laparoscopy 诊断性腹腔镜检查；laparoscopy findings 腹腔镜所见。名称本身不说明某人的病因、具体处理。",
+    "usage": "diagnostic laparoscopy；undergo laparoscopy。",
+    "contrast": "laparoscopy 与 colonoscopy 看入的路径、部位不同；两者有镜检材料，不等于同一种检查。",
+    "examples": [
+      [
+        "The article compares laparoscopy with open surgery.",
+        "文章比较腹腔镜方式与开放手术。"
+      ],
+      [
+        "The diagram shows how laparoscopy allows the abdomen to be examined.",
+        "图解展示腹腔镜检查如何让人观察腹部内部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laparoscopy#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/laparoscopy",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/laparoscopy"
+    ]
+  },
+  {
+    "word": "surrealism",
+    "ipa": "/səˈrɪəlɪzəm/",
+    "meaning": "超现实主义；相关艺术风格",
+    "sense": "钟表像软布垂下来，普通物体以不合日常逻辑的方式相遇。超现实主义借梦与无意识打开创作，但不只是一种画得奇怪的技巧。",
+    "split": "借法语 surréalisme，sur- 超出 + réalisme 现实主义。法语命名关联 Apollinaire，Breton 在 1920 年代推动运动；英语 surreal 后来由相应流派、人物词逆构。",
+    "history": [
+      [
+        "法语 sur- 超出 + réalisme 现实主义 → surréalisme",
+        "超出现实常规的运动名称，关联梦与无意识"
+      ],
+      [
+        "英语 surrealism、surrealist；后来逆构 surreal",
+        "超现实主义及相关人物；梦境般的形容词"
+      ]
+    ],
+    "explanation": "surrealism in art 艺术中的超现实主义；literary surrealism 文学超现实主义。作品可以细节写实，也可以抽象、自动生成式探索，不统一成唯一画法。",
+    "usage": "literary surrealism；the influence of surrealism。",
+    "contrast": "surreal 是梦境般、荒诞的形容词，surrealism 是运动、风格名称；一场真实而奇异的经历可 feel surreal，不自动成为艺术流派作品。",
+    "examples": [
+      [
+        "The exhibition explores the influence of surrealism on design.",
+        "展览探讨超现实主义对设计的影响。"
+      ],
+      [
+        "Dreams and unexpected combinations play an important role in surrealism.",
+        "梦与出人意料的组合在超现实主义中占有重要位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surrealism#English",
+      "https://www.etymonline.com/word/surrealism",
+      "https://www.vam.ac.uk/articles/surrealism-and-design"
+    ]
+  },
+  {
+    "word": "surrealist",
+    "ipa": "/səˈrɪəlɪst/",
+    "meaning": "超现实主义者；超现实主义的",
+    "sense": "a surrealist 可以是采用这类创作、思想的艺术家；surrealist art 则把同一个词用来修饰作品。",
+    "split": "与法语 surréaliste、英语 surrealism 对应，可识别 sur-、real、-ist 的材料。英语不能一律假定先有短形容词 surreal，再按今天顺序造出所有长词。",
+    "history": [
+      [
+        "法语 sur- 超出 + réalisme 现实主义 → surréalisme",
+        "超出现实常规的运动名称，关联梦与无意识"
+      ],
+      [
+        "英语 surrealism、surrealist；后来逆构 surreal",
+        "超现实主义及相关人物；梦境般的形容词"
+      ]
+    ],
+    "explanation": "a surrealist painter 超现实主义画家；surrealist imagery 超现实主义意象；surrealist techniques 相关手法。人物名和修饰语都常见。",
+    "usage": "a surrealist painter；surrealist imagery；surrealist techniques。",
+    "contrast": "surrealist 指人物或相关流派性质，surrealism 指运动、思想、风格；同样 -ist 不要求每个人的作品都长同一个样子。",
+    "examples": [
+      [
+        "The museum displays work by several surrealist artists.",
+        "博物馆展出了几位超现实主义艺术家的作品。"
+      ],
+      [
+        "She studies the use of everyday objects in surrealist art.",
+        "她研究超现实主义艺术如何使用日常物品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surrealist#English",
+      "https://www.nationalgallery.org.uk/paintings/glossary/surrealist"
+    ]
+  },
+  {
+    "word": "nontrivial",
+    "ipa": "英 /ˌnɒnˈtrɪviəl/；美 /ˌnɑːnˈtrɪviəl/",
+    "meaning": "不简单的；不可小看的；非平凡的〔数学等〕",
+    "sense": "表面只改一个按钮，背后却牵动很多规则，可以说是 a nontrivial change。数学里还可能特指排除最简单、退化情况的结果。",
+    "split": "non- 不 + trivial 简单、琐碎的 → nontrivial。技术词组的具体排除条件由定义决定，不能只靠词根猜。",
+    "history": [
+      [
+        "trivial 琐碎、简单的 + non- 否定",
+        "不是可以轻易略过的小事"
+      ],
+      [
+        "nontrivial 在数学、计算等领域的专门化",
+        "非显然、非最简单或非平凡的"
+      ]
+    ],
+    "explanation": "a nontrivial task 不简单的任务；a nontrivial result 非显然的结果；a nontrivial solution 非平凡解。齐次线性系统中常排除全零解，其他领域须看定义。",
+    "usage": "a nontrivial task；a nontrivial result；a nontrivial solution。",
+    "contrast": "nontrivial 不等于 impossible 不可能，也不总是 intractable 难以处理；一个结果可能不显然，却仍能用简洁方法得到。",
+    "examples": [
+      [
+        "Making the two systems work together is a nontrivial task.",
+        "让两套系统协同工作并不简单。"
+      ],
+      [
+        "The proof establishes a nontrivial result.",
+        "这个证明确立了一个并非显而易见的结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nontrivial#English"
+    ]
+  },
+  {
+    "word": "booze",
+    "ipa": "/buːz/",
+    "meaning": "酒〔口语〕；喝酒、痛饮",
+    "sense": "聊天时不细分葡萄酒、啤酒，统称这些酒为 booze；动词也常有喝得不少、流连酒局的语气。",
+    "split": "现代拼法承接方言和旧 bouse、bouze 等，接中古英语、荷兰语饮酒材料。词在酒商 E. G. Booz 之前已经存在，不能说完全由他的姓造出。",
+    "history": [
+      [
+        "中古英语 bous、bouse 等；与荷兰饮酒材料相关",
+        "酒、饮酒；更早来源未定"
+      ],
+      [
+        "英语 booze → boozer、boozy",
+        "酒、喝酒；常喝者或酒馆；带酒意、酒多的"
+      ]
+    ],
+    "explanation": "booze 通常作不可数名词；buy booze 买酒；go out boozing 出去喝酒。语体口语，有时带不赞同。",
+    "usage": "buy booze；too much booze；go out boozing。",
+    "contrast": "booze 不是所有饮料；正式中性的总称常用 alcoholic drinks，日常 drink 也要看是否特指酒。",
+    "examples": [
+      [
+        "There was no booze at the family lunch.",
+        "这次家庭午餐没有酒。"
+      ],
+      [
+        "He used to go boozing with colleagues after work.",
+        "他以前下班后常和同事出去喝酒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/booze#English",
+      "https://www.etymonline.com/word/booze"
+    ]
+  },
+  {
+    "word": "boozer",
+    "ipa": "英 /ˈbuːzə/；美 /ˈbuːzər/",
+    "meaning": "常喝酒的人〔口语〕；酒馆〔英式口语〕",
+    "sense": "说人时是常喝酒、喝得多的人，说地点时在英式口语里可直接是一家酒馆。不是所有 -er 都只能指人。",
+    "split": "booze + -er，去末尾 e → boozer；人物义按喝酒的人理解，酒馆义是与喝酒有关地点的口语用法。",
+    "history": [
+      [
+        "中古英语 bous、bouse 等；与荷兰饮酒材料相关",
+        "酒、饮酒；更早来源未定"
+      ],
+      [
+        "英语 booze → boozer、boozy",
+        "酒、喝酒；常喝者或酒馆；带酒意、酒多的"
+      ],
+      [
+        "booze + -er → boozer",
+        "人物或酒馆的口语称呼"
+      ]
+    ],
+    "explanation": "a heavy boozer 酒喝得很多的人；the local boozer 当地酒馆。称人 boozer 往往有评价，不只是客观说喝过一杯。",
+    "usage": "a heavy boozer；the local boozer。",
+    "contrast": "a boozer 可能是人，也可能是酒馆；I met him at the boozer 里的 at 帮你认出地点。",
+    "examples": [
+      [
+        "The novel portrays the landlord as a heavy boozer.",
+        "小说把房东描写为一个常常大量饮酒的人。"
+      ],
+      [
+        "They met at the local boozer after the match.",
+        "比赛后，他们在当地酒馆见面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boozer#English"
+    ]
+  },
+  {
+    "word": "boozy",
+    "ipa": "/ˈbuːzi/",
+    "meaning": "酒多的；带醉意的；带酒味的",
+    "sense": "一顿聚餐大家喝了很多酒，可以是 a boozy lunch；甜点酒味明显，也可用 boozy。它不只判断人已经喝醉。",
+    "split": "booze + -y，去词末 e → boozy；-y 让酒这个名词变成相关性质词。",
+    "history": [
+      [
+        "中古英语 bous、bouse 等；与荷兰饮酒材料相关",
+        "酒、饮酒；更早来源未定"
+      ],
+      [
+        "英语 booze → boozer、boozy",
+        "酒、喝酒；常喝者或酒馆；带酒意、酒多的"
+      ],
+      [
+        "booze + -y → boozy",
+        "有酒意、酒味或大量饮酒的性质"
+      ]
+    ],
+    "explanation": "a boozy lunch 酒喝得多的午餐；boozy laughter 带醉意的笑声；a boozy dessert 带明显酒味的甜点。",
+    "usage": "a boozy evening；boozy laughter；a boozy dessert。",
+    "contrast": "boozy 比 alcoholic 更口语、更有气氛与程度色彩；boozy dessert 也不是在给甜点下人物饮酒问题的判断。",
+    "examples": [
+      [
+        "The memoir describes long, boozy evenings with friends.",
+        "回忆录描写了与朋友们长时间饮酒的夜晚。"
+      ],
+      [
+        "The review praised the rich, boozy dessert.",
+        "评论称赞了那道浓郁、带酒味的甜点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boozy#English"
+    ]
+  },
+  {
+    "word": "comb",
+    "ipa": "英 /kəʊm/；美 /koʊm/",
+    "meaning": "梳子；梳理；仔细搜寻",
+    "sense": "梳齿一条条穿过头发，不放过一缕；把这个动作移到搜查，就变成一片片仔细找。",
+    "split": "接古英语 camb，经中古英语延续；更早词族与齿状材料相关。现代动词由名词使用发展，b 不发音。",
+    "history": [
+      [
+        "古英语 camb → 中古英语 comb → comb",
+        "带齿的梳具；日耳曼语传统的梳子名称"
+      ],
+      [
+        "英语 comb 名词转动词；+ -ed → combed",
+        "梳理；像梳齿扫过一样细查；梳过的"
+      ]
+    ],
+    "explanation": "comb your hair 梳头；comb through documents 仔细查阅文件；comb an area 搜遍一个地区。honeycomb 蜂巢也保留旧 comb 的巢脾义，不按蜂蜜梳头理解。",
+    "usage": "comb your hair；comb through documents；comb the area。",
+    "contrast": "comb 搜索时强调细致扫过，browse 常较随意浏览；comb /kəʊm/ 不读末尾 /b/。",
+    "examples": [
+      [
+        "She used a wide comb to untangle her hair.",
+        "她用一把宽齿梳把头发梳开。"
+      ],
+      [
+        "The team combed through the records for missing details.",
+        "团队仔细查阅记录，寻找遗漏的细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/comb#English"
+    ]
+  },
+  {
+    "word": "combed",
+    "ipa": "英 /kəʊmd/；美 /koʊmd/",
+    "meaning": "梳理过的；精梳的；comb 的过去式、分词",
+    "sense": "头发梳顺是 combed，棉纤维经梳理、去掉部分较短纤维等处理后也可叫 combed cotton。",
+    "split": "comb + -ed → combed；b 仍不发音，末尾 -ed 读 /d/，不另增一个完整音节。",
+    "history": [
+      [
+        "古英语 camb → 中古英语 comb → comb",
+        "带齿的梳具；日耳曼语传统的梳子名称"
+      ],
+      [
+        "英语 comb 名词转动词；+ -ed → combed",
+        "梳理；像梳齿扫过一样细查；梳过的"
+      ],
+      [
+        "comb + -ed → combed",
+        "梳理后的状态；搜查动作的过去形式"
+      ]
+    ],
+    "explanation": "neatly combed hair 梳得整齐的头发；combed cotton 精梳棉；combed through 仔细搜查过。另有具冠、具梳齿结构的形容用法，依所指实物理解。",
+    "usage": "neatly combed hair；combed cotton；combed through the files。",
+    "contrast": "combed 不自动指染过、烫过；combed cotton 说明工艺，不仅是成品表面看着平整。",
+    "examples": [
+      [
+        "He arrived with neatly combed hair.",
+        "他到场时头发梳得整整齐齐。"
+      ],
+      [
+        "The label says the shirt is made from combed cotton.",
+        "标签写着这件衬衫采用精梳棉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/combed#English"
+    ]
+  },
+  {
+    "word": "anthropogenic",
+    "ipa": "/ˌænθrəpəˈdʒenɪk/",
+    "meaning": "人为的；人类活动造成的",
+    "sense": "变化不是自然过程单独带来的，人类活动参与造成它，就是 anthropogenic。常说排放、气候影响，不要求每次都有故意破坏。",
+    "split": "anthropo- 人、人类 + -genic 产生、来源相关 → anthropogenic。现代常用义是人类活动造成的，不是凡看见 -genic 就一律读成基因。",
+    "history": [
+      [
+        "希腊生、产生的 gen- 材料 → -genic",
+        "产生、起源于；现代也可泛表相关性质"
+      ],
+      [
+        "前半材料 + -genic 构成近代科学词",
+        "人类活动、低温、酮、肿瘤、神经等不同对象"
+      ]
+    ],
+    "explanation": "anthropogenic emissions 人为排放；anthropogenic climate change 人类活动造成的气候变化；anthropogenic sources 人为来源。",
+    "usage": "anthropogenic emissions；anthropogenic sources。",
+    "contrast": "anthropogenic 交代来源，artificial 常强调人工制造、与天然对比；人为排放不需要是为了制造排放而设计的产品。",
+    "examples": [
+      [
+        "The report separates anthropogenic emissions from natural sources.",
+        "报告把人为排放与自然来源区分开。"
+      ],
+      [
+        "The researchers studied anthropogenic changes to the coastline.",
+        "研究者考察人类活动造成的海岸线变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anthropogenic#English"
+    ]
+  },
+  {
+    "word": "cryogenic",
+    "ipa": "英 /ˌkraɪəˈdʒenɪk/；美 /ˌkraɪoʊˈdʒenɪk/",
+    "meaning": "低温的；超低温相关的",
+    "sense": "不是普通冬天有点冷，而是科学工程里制造、使用很低温度的环境、设备与过程。",
+    "split": "cryo- 冷、冰霜材料 + -genic → cryogenic，原有产生低温的意思，范围又扩为处于、适用这类温度的。cryo- 不是英语 cry 哭。",
+    "history": [
+      [
+        "希腊生、产生的 gen- 材料 → -genic",
+        "产生、起源于；现代也可泛表相关性质"
+      ],
+      [
+        "前半材料 + -genic 构成近代科学词",
+        "人类活动、低温、酮、肿瘤、神经等不同对象"
+      ],
+      [
+        "cryo- + -genic → cryogenic",
+        "产生很低温度，或与很低温度有关"
+      ]
+    ],
+    "explanation": "cryogenic storage 低温储存；cryogenic cooling 低温冷却；cryogenic equipment 低温设备。具体温区依领域约定，不给所有语境强塞一个唯一边界。",
+    "usage": "cryogenic storage；cryogenic cooling；cryogenic equipment。",
+    "contrast": "cryogenic 是低温相关，不自动是科幻中的人体冷冻复活；也不是任何冷藏箱都自然适合这个专业称呼。",
+    "examples": [
+      [
+        "The laboratory uses cryogenic equipment to study materials at very low temperatures.",
+        "实验室用低温设备研究极低温度下的材料。"
+      ],
+      [
+        "The article explains the challenges of cryogenic storage.",
+        "文章解释了低温储存面临的难题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cryogenic#English",
+      "https://www.merriam-webster.com/dictionary/cryogenic"
+    ]
+  },
+  {
+    "word": "ketogenic",
+    "ipa": "英 /ˌkiːtəʊˈdʒenɪk/；美 /ˌkiːtoʊˈdʒenɪk/",
+    "meaning": "生酮的；与酮体生成有关的",
+    "sense": "keto- 指向酮相关材料，-genic 指向产生：核心是与身体生成酮体这个过程有关，不是词尾自己承诺减重效果。",
+    "split": "keto- 酮 + -genic 产生、相关 → ketogenic；常见于 ketogenic diet 生酮饮食和代谢讨论。",
+    "history": [
+      [
+        "希腊生、产生的 gen- 材料 → -genic",
+        "产生、起源于；现代也可泛表相关性质"
+      ],
+      [
+        "前半材料 + -genic 构成近代科学词",
+        "人类活动、低温、酮、肿瘤、神经等不同对象"
+      ],
+      [
+        "keto- + -genic → ketogenic",
+        "促进或涉及酮体生成"
+      ]
+    ],
+    "explanation": "a ketogenic diet 生酮饮食；ketogenic metabolism 生酮相关代谢。饮食名称指特定组成及代谢取向，不把所有少吃一顿饭都叫生酮饮食。",
+    "usage": "a ketogenic diet；ketogenic metabolism。",
+    "contrast": "ketogenic 描述酮体生成相关性质，ketone 是酮、酮体等相应物质名；一个说性质，一个指物质。",
+    "examples": [
+      [
+        "The textbook explains why the diet is described as ketogenic.",
+        "教材解释为什么这种饮食被称为生酮饮食。"
+      ],
+      [
+        "The review discusses research on ketogenic diets.",
+        "综述讨论了关于生酮饮食的研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ketogenic#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/ketogenic-diet"
+    ]
+  },
+  {
+    "word": "oncogenic",
+    "ipa": "英 /ˌɒŋkəʊˈdʒenɪk/；美 /ˌɑːŋkoʊˈdʒenɪk/",
+    "meaning": "致肿瘤的；与肿瘤形成有关的",
+    "sense": "重点是某种变化、因素与肿瘤的形成相关，或有促成肿瘤的能力。不是说整个词就是一个具体肿瘤。",
+    "split": "onco- 肿块、肿瘤 + -genic 产生、相关 → oncogenic。与 oncogene 癌基因的相关材料可对照，但 -genic 不是处处等于 gene 基因。",
+    "history": [
+      [
+        "希腊生、产生的 gen- 材料 → -genic",
+        "产生、起源于；现代也可泛表相关性质"
+      ],
+      [
+        "前半材料 + -genic 构成近代科学词",
+        "人类活动、低温、酮、肿瘤、神经等不同对象"
+      ],
+      [
+        "onco- + -genic → oncogenic",
+        "与肿瘤形成有关，或有致肿瘤性质"
+      ]
+    ],
+    "explanation": "oncogenic mutations 致瘤突变；oncogenic pathways 致瘤相关通路；oncogenic potential 致瘤潜能。potential 强调潜能，不直接说每种情形都已形成肿瘤。",
+    "usage": "oncogenic mutations；oncogenic potential。",
+    "contrast": "oncogenic 形容致瘤性质，oncology 是肿瘤学；形容词与学科名不能直接替换。",
+    "examples": [
+      [
+        "The study examines the oncogenic potential of the mutation.",
+        "研究考察该突变的致瘤潜能。"
+      ],
+      [
+        "The lecture introduces several oncogenic pathways.",
+        "讲座介绍了几条致瘤相关通路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oncogenic#English",
+      "https://www.merriam-webster.com/dictionary/oncogenic"
+    ]
+  },
+  {
+    "word": "neurogenic",
+    "ipa": "英 /ˌnjʊərəˈdʒenɪk/；美 /ˌnʊrəˈdʒenɪk/",
+    "meaning": "神经源性的；由神经因素引起或控制的",
+    "sense": "现象从神经组织、神经控制这一边来解释，便可用 neurogenic。重点常在来源，而不是产生了一条新神经。",
+    "split": "neuro- 神经 + -genic 发生、来源相关 → neurogenic；在不同术语里可说神经引起、控制，也可能涉及神经组织形成。",
+    "history": [
+      [
+        "希腊生、产生的 gen- 材料 → -genic",
+        "产生、起源于；现代也可泛表相关性质"
+      ],
+      [
+        "前半材料 + -genic 构成近代科学词",
+        "人类活动、低温、酮、肿瘤、神经等不同对象"
+      ],
+      [
+        "neuro- + -genic → neurogenic",
+        "神经来源、神经引起或相关生成性质"
+      ]
+    ],
+    "explanation": "neurogenic causes 神经源性原因；neurogenic inflammation 神经源性炎症；具体术语由所在医学、生物学语境限定。",
+    "usage": "neurogenic causes；neurogenic inflammation。",
+    "contrast": "neurogenic 不只是日常 nervous 紧张的；它通常是专业的来源、机制描述。",
+    "examples": [
+      [
+        "The textbook distinguishes neurogenic causes from other mechanisms.",
+        "教材把神经源性原因与其他机制区分开。"
+      ],
+      [
+        "The paper discusses neurogenic inflammation.",
+        "论文讨论神经源性炎症。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neurogenic#English",
+      "https://www.merriam-webster.com/dictionary/neurogenic"
+    ]
+  }
+]

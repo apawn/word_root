@@ -1,0 +1,399 @@
+[
+  {
+    "word": "twice",
+    "ipa": "/twaɪs/",
+    "meaning": "两次；两倍",
+    "sense": "同一件事发生两回，是 twice；某个量是另一个的两倍，也是 twice。先分清在数次数，还是在比数量。",
+    "split": "古英语 twīges 等经中古英语 twies、twise 发展而来，含二、双的旧材料和副词性属格词尾 -es。现代 -ce 是这里的历史拼写结果，不是 cease 停止的缩写。",
+    "history": [
+      [
+        "古英语 twīges → 中古英语 twies、twise",
+        "二次、两倍的副词形式"
+      ],
+      [
+        "现代 twice",
+        "两次；两倍"
+      ]
+    ],
+    "explanation": "twice a week 每周两次；twice as large 两倍大；think twice 再想想、慎重考虑，不强制要求脑中恰好只想两回。",
+    "usage": "twice a day；twice as much；think twice。",
+    "contrast": "two times 也能表达两次，但日常常用 twice；twice as much 是两倍，不是多出两倍。",
+    "examples": [
+      [
+        "I have read the book twice.",
+        "这本书我读过两遍。"
+      ],
+      [
+        "The new bag costs twice as much as the old one.",
+        "新包的价格是旧包的两倍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/twice#English"
+    ]
+  },
+  {
+    "word": "gazette",
+    "ipa": "/ɡəˈzet/",
+    "meaning": "公报；〔某些报纸名称中的〕报；在公报上公布",
+    "sense": "一本定期刊出官方通知的刊物，可以叫 gazette；也常作为报纸名称的一部分，不是所有普通报纸都得这样叫。",
+    "split": "经法语 gazette 接意大利语 gazzetta、威尼斯语 gazeta。通常把新闻纸的名称与当时的小额硬币、阅读费用联系起来，更远命名细节有争论；不从 gaze 凝视硬拆。",
+    "history": [
+      [
+        "威尼斯、意大利新闻纸名称 → 法语 gazette",
+        "早期新闻纸，与小额硬币名称等联系"
+      ],
+      [
+        "英语 gazette",
+        "报纸名称；官方公报；公报刊载的动词"
+      ]
+    ],
+    "explanation": "an official gazette 官方公报；the local Gazette 地方报纸名称；gazette 作动词较正式，指在公报公布。",
+    "usage": "publish in the gazette；a government gazette。",
+    "contrast": "newspaper 是通用报纸；gazette 常用于名称或官方刊物。gazetteer 地名辞典有相关出版史，不能照后缀直接猜成所有记者。",
+    "examples": [
+      [
+        "The appointment was published in the official gazette.",
+        "这项任命刊登在官方公报上。"
+      ],
+      [
+        "She found the old notice in a copy of the local Gazette.",
+        "她在一份当地报纸里找到了那则旧通知。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/gazetteer"
+    ]
+  },
+  {
+    "word": "gazetteer",
+    "ipa": "英 /ˌɡæzəˈtɪə/；美 /ˌɡæzəˈtɪr/",
+    "meaning": "地名辞典；地理名称索引",
+    "sense": "查到一个镇名，书里告诉你它在哪里、有怎样的基本地理情况；这类按地名查阅的工具就是 gazetteer。",
+    "split": "相关早期词可指新闻撰写者，与 gazette、法语人物后缀材料有关。地名辞典义因十七世纪末一部为新闻读者、新闻人提供地理解释的书名传播开，后来成为此类工具书名称。",
+    "history": [
+      [
+        "gazette 词族及早期 gazetteer 人物称呼",
+        "与新闻、新闻撰写者有关"
+      ],
+      [
+        "十七世纪末相关地理手册书名 → 后来的通用名词",
+        "供人查询地名、地理情况的工具书"
+      ]
+    ],
+    "explanation": "a historical gazetteer 历史地名辞典；a digital gazetteer 数字地名索引。现代常见这个义时，-eer 并不说明它必是个人。",
+    "usage": "consult a gazetteer；a geographical gazetteer。",
+    "contrast": "atlas 主要按地图展示，gazetteer 主要按地名提供条目、索引；一本书也可能同时含地图和地名索引。",
+    "examples": [
+      [
+        "She checked the village’s old name in a historical gazetteer.",
+        "她在历史地名辞典里查了那个村子的旧名。"
+      ],
+      [
+        "The digital gazetteer lists several places with the same name.",
+        "数字地名索引列出了几个同名地点。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/gazetteer"
+    ]
+  },
+  {
+    "word": "racket",
+    "ipa": "/ˈrækɪt/",
+    "meaning": "球拍；吵闹声；敲诈、诈骗等非法勾当",
+    "sense": "球场上是球拍，楼上传来的是吵闹声，犯罪小说里又可能是敲诈生意。不要看到一个中文义就把其他场景全部套进去。",
+    "split": "球拍义经法语相关形式进入，最远来源有争论；吵闹义常视为拟声一类来源。非法勾当义的具体发展也有不同解释，不能把三义排成确定的球拍敲响然后必然诈骗的故事。",
+    "history": [
+      [
+        "法语球拍、手掌游戏词族 → 球拍 racket",
+        "击球器具这一历史分支"
+      ],
+      [
+        "吵闹 racket；后有非法勾当等义",
+        "另一路材料；具体扩义关系仍有争论"
+      ]
+    ],
+    "explanation": "a tennis racket 网球拍；make a racket 吵得很；a protection racket 收保护费的敲诈勾当。racketeer 取的是非法勾当义。",
+    "usage": "a badminton racket；a terrible racket；run a racket。",
+    "contrast": "racquet 是球拍义的另一常见拼写；noise 范围很广，racket 的声音义通常带嘈杂、让人受不了的评价。",
+    "examples": [
+      [
+        "She left her tennis racket by the door.",
+        "她把网球拍放在门边。"
+      ],
+      [
+        "The old machine made a terrible racket.",
+        "那台旧机器吵得不得了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/racket"
+    ]
+  },
+  {
+    "word": "racketeer",
+    "ipa": "英 /ˌrækɪˈtɪə/；美 /ˌrækɪˈtɪr/",
+    "meaning": "从事有组织敲诈、诈骗等勾当的人",
+    "sense": "把恐吓、敲诈或欺诈组织成一门长期生意的人；不是普通拿着球拍打球的人。",
+    "split": "racket 非法勾当 + -eer，从事某种活动的人。二十世纪二十年代美国犯罪相关语境中传播，不取球拍这一同形词义。",
+    "history": [
+      [
+        "racket 的非法勾当义 + -eer",
+        "以该类勾当为活动的人"
+      ],
+      [
+        "现代 racketeer",
+        "有组织敲诈、诈骗等活动的参与者"
+      ]
+    ],
+    "explanation": "a racketeer in a crime novel 犯罪小说里的敲诈者；racketeering 是相应活动名词。在小说、历史叙述中常见，人物称呼带强烈犯罪色彩。",
+    "usage": "a notorious racketeer；a gang of racketeers。",
+    "contrast": "不是 racket 的每种义都能加同一个人物解释：tennis player 才是网球选手；racketeer 取非法勾当的固定发展。",
+    "examples": [
+      [
+        "The novel follows a racketeer who controls the city’s clubs.",
+        "小说围绕一个控制城里多家俱乐部的犯罪头目展开。"
+      ],
+      [
+        "The film portrays the racketeer as charming but ruthless.",
+        "影片把那个敲诈团伙人物描写得有魅力，却冷酷无情。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/racket"
+    ]
+  },
+  {
+    "word": "afterburner",
+    "ipa": "英 /ˈɑːftəbɜːnə/；美 /ˈæftərbɜːrnər/",
+    "meaning": "〔喷气发动机〕加力燃烧室；加力燃烧装置",
+    "sense": "发动机后段再进行燃烧，取得额外推力。先抓住在后部进一步燃烧这层画面，不把它猜成事后把废物烧掉的炉子。",
+    "split": "after- 后部、随后 + burner 燃烧装置；burner 是 burn + -er。技术词中的 after 对应发动机气流顺序中的后段。",
+    "history": [
+      [
+        "burn + -er → burner",
+        "燃烧装置"
+      ],
+      [
+        "after- + burner → afterburner",
+        "在喷气发动机后段增加推力的燃烧装置"
+      ]
+    ],
+    "explanation": "an engine with an afterburner 带加力装置的发动机；with the afterburner on 开着加力。它是具体技术部件名称，不是每一发动机都具有。",
+    "usage": "use an afterburner；an aircraft’s afterburner。",
+    "contrast": "burner 泛指燃烧器等；afterburner 则有专门位置和用途。after 在这里不表示设备等飞机停下后才使用。",
+    "examples": [
+      [
+        "The museum display explains how an afterburner increases thrust.",
+        "博物馆展板解释了加力装置如何增加推力。"
+      ],
+      [
+        "The model shows the afterburner at the rear of the engine.",
+        "模型展示了发动机后部的加力燃烧室。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/afterburner",
+      "https://www.grc.nasa.gov/www/k-12/airplane/aturba.html"
+    ]
+  },
+  {
+    "word": "afterbirth",
+    "ipa": "英 /ˈɑːftəbɜːθ/；美 /ˈæftərbɜːrθ/",
+    "meaning": "胞衣；分娩后排出的胎盘及相关胎膜",
+    "sense": "不是说孩子出生后的全部生活，而是一个固定生育词：胎儿出生后排出的胎盘、胎膜等。",
+    "split": "after- 在……之后 + birth 出生、分娩；按排出时间先后形成名称。其他日耳曼语也有相应复合词。",
+    "history": [
+      [
+        "after- + birth",
+        "在胎儿出生后排出的相关组织"
+      ],
+      [
+        "固定名词 afterbirth",
+        "胞衣，胎盘及相关胎膜的统称"
+      ]
+    ],
+    "explanation": "the afterbirth 常作整体称呼；a chapter about the afterbirth 介绍胞衣的一章。它是具体名词，不是 after birth 两词作出生之后的通用时间短语。",
+    "usage": "the delivery of the afterbirth；the placenta and afterbirth。",
+    "contrast": "placenta 专指胎盘；afterbirth 可统括随后排出的胎盘及相关胎膜，不能当作所有产后现象的名字。",
+    "examples": [
+      [
+        "The textbook explains what the afterbirth consists of.",
+        "课本解释了胞衣由哪些部分组成。"
+      ],
+      [
+        "The class learned that the afterbirth is delivered after the baby.",
+        "课堂上大家学到，胞衣在婴儿出生后排出。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/afterbirth"
+    ]
+  },
+  {
+    "word": "enigma",
+    "ipa": "/ɪˈnɪɡmə/",
+    "meaning": "谜；让人捉摸不透的人或事物",
+    "sense": "线索摆在那里，却总猜不出他为什么这样做；这个人或这件事就像一个没有解开的谜。",
+    "split": "借拉丁 aenigma，上接古希腊 ainigma 谜语、含蓄难解的话。不是英语 en- 前缀加一个独立词 igma。",
+    "history": [
+      [
+        "希腊 ainigma → 拉丁 aenigma",
+        "谜语、难解的话"
+      ],
+      [
+        "英语 enigma",
+        "谜；难以理解的人或事物"
+      ]
+    ],
+    "explanation": "remain an enigma 仍是谜；an enigma to someone 对某人而言难以理解。通常是可数名词，a complete enigma 强调完全摸不透。",
+    "usage": "a puzzling enigma；remain an enigma。",
+    "contrast": "mystery 范围更广；enigma 常突出此人、此事让人难以解读。puzzle 还可指专为解答设计的游戏题。",
+    "examples": [
+      [
+        "Her sudden departure remains an enigma.",
+        "她突然离去的原因仍是个谜。"
+      ],
+      [
+        "Even after years of friendship, he was an enigma to me.",
+        "即便做了多年朋友，我还是觉得他让人捉摸不透。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enigma#English"
+    ]
+  },
+  {
+    "word": "enigmatic",
+    "ipa": "/ˌenɪɡˈmætɪk/",
+    "meaning": "谜一般的；令人费解、捉摸不透的",
+    "sense": "他只是笑了一下，你猜不出那是在同意、讽刺，还是另有隐情；那就是 an enigmatic smile。",
+    "split": "经拉丁 aenigmaticus、法语 énigmatique 等，接希腊 ainigmatikos；与 enigma 的旧词干 ainigmat- 相应。现代可对应 enigma 与 -tic，不能把中间的 t 当作随意插入的秘密含义。",
+    "history": [
+      [
+        "希腊 ainigma／ainigmat- → ainigmatikos",
+        "谜 → 与谜、难解的话有关的"
+      ],
+      [
+        "拉丁、法语相应形式 → 英语 enigmatic",
+        "谜一般、难以理解的性质"
+      ]
+    ],
+    "explanation": "an enigmatic smile 难以捉摸的微笑；an enigmatic remark 令人费解的话。并不一定等于说话者故意撒谎，也可能只是表达含蓄。",
+    "usage": "an enigmatic figure；an enigmatic answer。",
+    "contrast": "enigma 是人或事物这个谜，enigmatic 是其性质；ambiguous 有歧义可明确说存在几种解读，enigmatic 更强调整体难捉摸。",
+    "examples": [
+      [
+        "She gave him an enigmatic smile.",
+        "她朝他露出一个令人捉摸不透的微笑。"
+      ],
+      [
+        "The painting’s enigmatic title puzzled visitors.",
+        "这幅画谜一般的标题让参观者困惑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enigmatic#English"
+    ]
+  },
+  {
+    "word": "allay",
+    "ipa": "/əˈleɪ/",
+    "meaning": "减轻、平息〔恐惧、疑虑等〕",
+    "sense": "疑虑像扬起的一阵波浪；说明情况，让它慢慢落下去，便可说 allay fears。记住是缓和不安，不是证明从此一切毫无风险。",
+    "split": "古英语 ālecgan 经中古英语 alayen 等延续，对应旧 a- 与 lay 放下的材料。从放下、压下、使停止等发展为现代平息不安。历史还受近形词交织影响，不只是今天 all 全部 + lay。",
+    "history": [
+      [
+        "古英语 ālecgan → 中古英语 alayen",
+        "放下、压下、平息等"
+      ],
+      [
+        "现代 allay",
+        "缓和恐惧、疑虑、担忧"
+      ]
+    ],
+    "explanation": "allay fears 缓解恐惧；allay concerns 减轻担忧；allay suspicions 消除或减轻怀疑。常直接接这些名词，不用 to 接受安抚的人。",
+    "usage": "allay someone’s fears；allay doubts。",
+    "contrast": "alleviate 也说减轻，但可搭配痛苦、负担等更广对象；allay 常与情绪、疑虑相配。allay 不直接等于确认某说法是真的。",
+    "examples": [
+      [
+        "The clear explanation helped allay our fears.",
+        "清楚的解释帮助缓解了我们的恐惧。"
+      ],
+      [
+        "The extra details did little to allay her suspicions.",
+        "新增的细节没怎么减轻她的怀疑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/allay#English"
+    ]
+  },
+  {
+    "word": "inlay",
+    "ipa": "动词 /ɪnˈleɪ/；名词 /ˈɪnleɪ/",
+    "meaning": "镶嵌；嵌入的装饰材料或图案",
+    "sense": "不是把花纹随手画在表面，而是把另一种材料嵌进底材里，让表面形成图案。",
+    "split": "in- 向里 + lay 放、安置。动词说把材料嵌入；名词说镶入物或相应装饰，常见读法把重音移到前面。",
+    "history": [
+      [
+        "in- + lay",
+        "把材料放入另一材料的表面等处"
+      ],
+      [
+        "inlay 的动词与名词",
+        "镶嵌；嵌入的装饰或材料"
+      ]
+    ],
+    "explanation": "inlay wood with shell 用贝壳镶嵌木器；a pearl inlay 珍珠、贝母等镶嵌装饰；过去式、分词 inlaid，随 lay—laid 的形式变化。",
+    "usage": "a decorative inlay；be inlaid with。",
+    "contrast": "overlay 覆在上面，inlay 强调嵌进去；贴上去的装饰不自动就叫 inlay。动词、名词重音常不同。",
+    "examples": [
+      [
+        "The box has a delicate wooden inlay.",
+        "盒子上有精致的木质镶嵌图案。"
+      ],
+      [
+        "The craftsperson inlaid the lid with pieces of shell.",
+        "工匠用贝壳片镶嵌盒盖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inlay#English"
+    ]
+  },
+  {
+    "word": "belay",
+    "ipa": "动词常读 /bɪˈleɪ/；名词亦见 /ˈbiːleɪ/",
+    "meaning": "系牢绳索；〔攀登〕用绳索保护；绳索保护安排",
+    "sense": "绳索不再松散放着，而是被管理、系牢；攀登中便指用绳索系统为攀登者提供保护。",
+    "split": "古英语 belecgan 经中古英语 beleggen、bileggen 延续，旧 be- 有周围、覆盖的关系，加 lay 旧形式。覆盖、围住、系牢等义后来发展出航海、攀登专门用法；不是 be 是 + lay 躺。",
+    "history": [
+      [
+        "古英语 belecgan → 中古英语相关形式",
+        "围住、覆盖、安置等旧义"
+      ],
+      [
+        "后来的航海、攀登 belay",
+        "系牢；用绳索保护及其安排"
+      ]
+    ],
+    "explanation": "belay a climber 为攀登者提供绳索保护；a belay 是保护安排、站点等专门名词。Belay that order! 在航海风格表达中还可说取消那道命令。",
+    "usage": "learn to belay；a belay system。",
+    "contrast": "lay 是宽泛安置，belay 已形成专门义；relay 转播、接力又是另一词，不能因为都押 /leɪ/ 就认为用法相同。",
+    "examples": [
+      [
+        "The instructor demonstrated how climbers belay one another.",
+        "教练演示了攀登者如何互相提供绳索保护。"
+      ],
+      [
+        "The novel uses “Belay that order!” in a scene aboard a ship.",
+        "小说在一段船上场景中用了“取消那道命令！”的表达。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/belay#English"
+    ]
+  }
+]

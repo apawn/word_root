@@ -1,0 +1,44 @@
+[
+  {
+    "id": "B2835",
+    "meaning": "燃烧、热痛和炽烈感受；过程、结果和器具",
+    "core": "BURN：火在作用，热在刺激，也借来讲热烈情绪",
+    "image": "burn → burning → burned、burnt 两种结果形式相邻；burner 器具；sunburn、heartburn 已有；brimstone 接旧燃石名。",
+    "intro": "北欧与古英语动词合流，名词小溪另源。brimstone 旧名不从现代 brim 乱拆；burnt、burned 不设绝对地域词性禁令。",
+    "forms": "burn + -ing/-ed/-er；burnt 旧 -t 形式；sun/heart + burn；brimstone 接旧 burning + stone。\n\n本族与北欧旧形式合流；现代燃烧动词三单、灼伤名词复数同形。",
+    "branches": [
+      [
+        "基本动作、过程和结果",
+        "burn · burning · burned · burnt"
+      ],
+      [
+        "器具和感觉相关",
+        "burner · sunburn · heartburn"
+      ],
+      [
+        "旧物质名",
+        "brimstone"
+      ],
+      [
+        "burn → burns：燃烧与灼伤",
+        "burn · burns"
+      ]
+    ],
+    "contrasts": "burning 过程、burned/burnt 过去结果；burner 器具不只人；burn 小溪另源；heartburn 不能按心真的起火理解。",
+    "practice": "The burner was still on, and the toast was burnt.\n\n炉头还开着，吐司已经焦了。",
+    "words": [
+      "burn",
+      "burning",
+      "burned",
+      "burnt",
+      "burner",
+      "sunburn",
+      "heartburn",
+      "brimstone",
+      "burns"
+    ],
+    "exclude": {
+      "burnie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

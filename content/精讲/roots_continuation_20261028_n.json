@@ -1,0 +1,261 @@
+[
+  {
+    "id": "B2803",
+    "meaning": "向下；降低；绒羽〔另源〕",
+    "core": "DOWN：向低处的方向，与柔软绒羽分开",
+    "image": "从山上下来是方向主线；轻软绒羽另有来历，不靠“掉下来”凑同源。",
+    "intro": "down 的方向义来自古英语较长的下山表达逐渐缩短；羽绒义来自古诺尔斯语 dúnn。countdown、meltdown 等说明向下如何用于数值与结构，downy 则属于绒毛一支。",
+    "forms": "动词短语常分写，名词可连写：count down／countdown、melt down／meltdown。downtown 的 down 不保证地势低；touchdown 在航空与运动中具体要求不同。\n\n这里比较绒羽名，不接方向 down；duvet 经法语的绒羽小称材料借入，英语 down 不是它的直接母词。",
+    "branches": [
+      [
+        "方向及减少",
+        "down · downward · downwards"
+      ],
+      [
+        "城市及时间",
+        "downtown · downstate · sundown · downtime"
+      ],
+      [
+        "关键过程与影响",
+        "countdown · meltdown · showdown · knockdown"
+      ],
+      [
+        "评价和情绪",
+        "downside · downer · lowdown · downbeat"
+      ],
+      [
+        "绒羽来源",
+        "down · downy"
+      ],
+      [
+        "绒羽 down 的同族借词 duvet 及复数",
+        "down · duvet · duvets"
+      ]
+    ],
+    "contrasts": "downside：缺点；downward：向下的。downtown：市中心；downstate：某州的相对南部等地区。downy：绒毛的，不是垂下的。",
+    "practice": "At sundown, we went downtown and got the lowdown on the next day’s event.\n\n日落时我们去了市中心，打听到了第二天活动的内情。",
+    "words": [
+      "down",
+      "downward",
+      "downwards",
+      "downtown",
+      "downstate",
+      "sundown",
+      "downtime",
+      "touchdown",
+      "countdown",
+      "meltdown",
+      "showdown",
+      "knockdown",
+      "downside",
+      "downer",
+      "lowdown",
+      "downbeat",
+      "downy",
+      "duvet",
+      "duvets"
+    ],
+    "exclude": {
+      "lower-down": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "steep-down": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smackdown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "downforce": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dumbed-down": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hoedown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "downtempo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "downrange": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2497",
+    "meaning": "世界；人世；领域",
+    "core": "WORLD：一整套人、环境与规则组成的天地",
+    "image": "地球上的人类社会是一种 world，一部小说搭出的社会也可以是一种。",
+    "intro": "world 的古英语祖先 weorold 更早与“人的时代、存在”有关。现代可说全球，也可说某种生活领域。underworld、netherworld 保留上下世界的神话图像，worldbuilding 则是创作过程。",
+    "forms": "worldly 的 -ly 是形容词材料；worldbuilding 的 building 是构建，不是实体楼房。worldview 说观点，worldbuilding 说设定；它们都可在中文语境出现世界观，但英语不应混用。\n\n古英语 weorold 的人、时代相关历史组合，现代可数不同世界、领域。",
+    "branches": [
+      [
+        "世界与生活经验",
+        "world · worldly · worldview"
+      ],
+      [
+        "神话、幻想与游戏",
+        "underworld · netherworld · otherworld · dreamworld · overworld"
+      ],
+      [
+        "构建与跨域",
+        "worldbuilding · transworld"
+      ],
+      [
+        "world → worlds：整体天地与不同生活圈",
+        "world · worlds"
+      ]
+    ],
+    "contrasts": "world：世界或领域；Earth：行星。worldly：世俗、练达；worldwide：全球范围。overworld 不自动等于 open world。",
+    "practice": "Her worldly experience helped her create a convincing fictional world.\n\n现实处世经验帮助她创造了可信的虚构世界。",
+    "words": [
+      "world",
+      "worldly",
+      "worldview",
+      "underworld",
+      "netherworld",
+      "otherworld",
+      "dreamworld",
+      "overworld",
+      "worldbuilding",
+      "transworld",
+      "worlds"
+    ],
+    "exclude": {
+      "thought-world": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-world": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "world-historical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "world-weary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waterworld": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3045",
+    "meaning": "端部；结束；目的",
+    "core": "END：碰到边界，或走到过程最后",
+    "image": "绳子有端头，故事有结局，行动也有想达到的目的。",
+    "intro": "end 是古英语 ende 的后代。ending 看如何收尾，endless 看没有尽头，endgame 看最后阶段，bookend 回到实体两端并发展出首尾呼应的比喻。",
+    "forms": "at the end 与 in the end 分清位置时点和最终结果。-ing 不只表示现在进行；ending 可独立作结局名词。endless 的 -less 否定终点；upend 是翻动、打乱，不只是结束。\n\nended 的 -ed 读 /ɪd/；ended up 常说最后结果，ended in 常交代结局。\n\n本族尽头词延续，目标义与事情所朝向的终点相连。\n\n器物名转为安排在两端的动作，现代三单、名词复数同形。\n\nend 给章节、文章末尾的位置，note 给补充说明。\n\nending 是 end 结束的动作、结果名词，后来是末尾部分；复数 -s，故事结局、词尾变化等都常见。",
+    "branches": [
+      [
+        "核心与收尾",
+        "end · ending · endless"
+      ],
+      [
+        "时间与阶段",
+        "weekend · endgame · endpoint"
+      ],
+      [
+        "翻转与两端",
+        "upend · bookend"
+      ],
+      [
+        "end → ended：结束；最终落到某种结果",
+        "end · ended"
+      ],
+      [
+        "end → ends：末端、结束与目的",
+        "end · ends"
+      ],
+      [
+        "bookend → bookends：支撑书列两端，也比喻前后呼应",
+        "end · bookend · bookends"
+      ],
+      [
+        "end 的文末注释组合",
+        "end · endnote · endnotes"
+      ],
+      [
+        "end + -ing → endings",
+        "endings"
+      ]
+    ],
+    "contrasts": "in the end：最后结果；at the end of：在某物、某时段末端。endgame 是最后阶段，不等于已经 game over。",
+    "practice": "In the end, a different ending helped bookend the story more clearly.\n\n最后，换一个结局让故事首尾呼应得更清楚了。",
+    "words": [
+      "end",
+      "ending",
+      "endless",
+      "weekend",
+      "endgame",
+      "endpoint",
+      "upend",
+      "bookend",
+      "ended",
+      "ends",
+      "bookends",
+      "endnote",
+      "endnotes",
+      "endings"
+    ],
+    "exclude": {
+      "by-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "game-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "end-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bell-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fore-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fag-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "endo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ender": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nose-ender": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2500",
+    "meaning": "最后；上一个；持续〔分源〕",
+    "core": "LAST：排到末位，与撑过时间的动作分开看",
+    "image": "末班车是顺序最后；电池能撑多久是持续。",
+    "intro": "last 的最后义与 latest 有旧词形联系；持续动词另接古英语 lǣstan。outlast 接持续一侧，lastly 接列举最后一项，不把一个词义的历史直接移给另一义。",
+    "forms": "last week 不加 the 说上周，the last week 要由具体语境判断。last for + 时长说持续，lastly 是条列副词。everlast 较少用且与 everlasting 逆构有关，日常先掌握更常见形式。\n\n持续动词接古英语 laestan，与最后形容词的近源路径分开。\n\n持续动词接古英语 læstan，和表示最后的形容词分开辨析。",
+    "branches": [
+      [
+        "顺序与列举",
+        "last · lastly"
+      ],
+      [
+        "时间持续",
+        "last · outlast"
+      ],
+      [
+        "last → lasted：维持了多久",
+        "last · lasted"
+      ],
+      [
+        "last → lasts：持续到某时、经用",
+        "last · lasts"
+      ]
+    ],
+    "contrasts": "last：最后、上一个；latest：最新。lastly：最后一点；at last：终于。",
+    "practice": "Lastly, choose equipment that will last rather than simply buying the latest model.\n\n最后一点，挑能耐用的设备，而非只买最新款。",
+    "words": [
+      "last",
+      "lastly",
+      "outlast",
+      "lasted",
+      "lasts"
+    ],
+    "exclude": {
+      "last-named": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "last-ditch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "everlast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3130",
+    "meaning": "静止；仍然；静态与停止",
+    "core": "STILL：状态不变，动作停住",
+    "image": "静静坐着是不动，仍住这里是不变，交通停住则是所有推进都止住。",
+    "intro": "still 的静止、仍然等义在原精讲中已分场景说明。standstill 把完全停住变成名词，stillness 把寂静、静止变成性质；stillborn、stillbirth 又是出生时无生命的特定名称。",
+    "forms": "still 的蒸馏器义另由 distil 相关截短而来，不当作本组这些生命、静止词的祖先。stillborn 用 born 分词，stillbirth 用 birth 名词，两者词性不同。",
+    "branches": [
+      [
+        "静止与不变",
+        "still · stillness · standstill"
+      ],
+      [
+        "生命与出生的特定名称",
+        "stillborn · stillbirth"
+      ]
+    ],
+    "contrasts": "stillness 不必绝对无声，silence 更强调声音。stillborn 与 premature 不是同一个概念，不把词源当医学分类标准。",
+    "practice": "For a moment, everything seemed to come to a standstill in the evening stillness.\n\n傍晚的寂静中，有一刻仿佛一切都停了下来。",
+    "words": [
+      "still",
+      "stillness",
+      "standstill",
+      "stillborn",
+      "stillbirth"
+    ],
+    "exclude": {
+      "stone-still": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stiller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stillman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

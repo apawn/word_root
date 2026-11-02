@@ -1,0 +1,148 @@
+[
+  {
+    "id": "B2706",
+    "meaning": "铜的材料、颜色与按外观命名的动物",
+    "core": "COPPER：材料名可以转成颜色形象",
+    "image": "copper → coppery；copper + head → copperhead。",
+    "intro": "铜线看材料，铜色头发看相似，铜头蛇看固定命名。认清三层，就不会把像铜都当成由铜制成。",
+    "forms": "Cyprium、cuprum 等 → 日耳曼借词路径 → copper；-y 性质，head 头。",
+    "branches": [
+      [
+        "金属与相似性质",
+        "copper · coppery"
+      ],
+      [
+        "按头部外观的动物名",
+        "copperhead"
+      ]
+    ],
+    "contrasts": "coppery 不一定含铜；不同地区 copperhead 可指不同蛇类。",
+    "practice": "The copper roof reflected a coppery light.\n\n铜屋顶反射出铜色光泽。",
+    "words": [
+      "copper",
+      "coppery",
+      "copperhead"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3538",
+    "meaning": "具备资格、符合条件，以及给说法加限制",
+    "core": "QUALIFY：判断具备什么性质、条件，或给断言限定范围",
+    "image": "qualify → qualifier；disqualify 使失去资格。",
+    "intro": "比赛入围、职业资质、限定一句话，中文看着不同，却都与性质、条件和范围有关。具体意思仍看句法。",
+    "forms": "拉丁 qualis 怎样的、哪种 + facere 使成 → 法语相关形式 → qualify；-er 人或限定成分，dis- 取消。\n\n法语、拉丁 qualis 与使成材料，现代 ing 保留 y。",
+    "branches": [
+      [
+        "条件、限定与相反动作",
+        "qualify · qualifier · disqualify"
+      ],
+      [
+        "qualify → qualifying：使够条件，或限定说法",
+        "qualify · qualifying"
+      ]
+    ],
+    "contrasts": "qualify for 符合资格；qualify as 具备某身份；qualify a statement 是给断言加限定。",
+    "practice": "The final match will decide which team qualifies for the tournament.\n\n最后一场比赛将决定哪队获得参赛资格。",
+    "words": [
+      "qualify",
+      "qualifier",
+      "disqualify",
+      "qualifying"
+    ],
+    "exclude": {
+      "self-qualify": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3007",
+    "meaning": "醒来词族的不规则形式，另分清社会语境的形容词",
+    "core": "WOKE：先认 WAKE 的过去式，再看清醒的比喻",
+    "image": "wake → woke → woken；awake 与醒着、醒来的相关用法一起看；woke 形容词有独立语用发展。",
+    "intro": "普通语法与社会标签要分两层。woken 在完成时、被动式里的常用作用，也不能只凭现代政治义来解释。",
+    "forms": "醒来词族 → wake／awake；woke 过去式，woken 常用过去分词；woke 形容词由清醒扩为社会警觉、标签。",
+    "branches": [
+      [
+        "醒着、醒来与不规则词形",
+        "wake · awake · woke · woken"
+      ]
+    ],
+    "contrasts": "I woke；I have woken；I was woken；政治标签语境须看说话者态度。",
+    "practice": "I woke early, but my brother had not yet woken.\n\n我醒得早，哥哥却还没有醒。",
+    "words": [
+      "wake",
+      "awake",
+      "woke",
+      "woken"
+    ],
+    "exclude": {
+      "woke-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4419",
+    "meaning": "魔法相关，以及像魔法般美妙的感觉",
+    "core": "MAGICAL：既可指故事魔法，也可赞叹体验美妙",
+    "image": "magical → magically。",
+    "intro": "a magical spell 常说魔法咒语；a magical evening 则可能只是美妙、令人难忘。副词 magically 也可以表达这种比喻。",
+    "forms": "magic 的借词历史 → magical；-al 相关性质，-ly 副词。",
+    "branches": [
+      [
+        "性质与方式",
+        "magical · magically"
+      ]
+    ],
+    "contrasts": "magical experience 不保证声称发生真实超自然事件；看名词、语气与故事场景。",
+    "practice": "The lights made the garden feel magical.\n\n灯光让花园显得美妙如梦。",
+    "words": [
+      "magical",
+      "magically"
+    ],
+    "exclude": {
+      "non-magical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quasi-magical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3333",
+    "meaning": "身体硬甲与钉子、钉牢动作，再按尺寸形成预览比喻",
+    "core": "NAIL：身体的甲，物件的钉，以及钉准、钉牢",
+    "image": "nail → fingernail、toenail、thumbnail；thumbnail 再有缩略图、简述。",
+    "intro": "先分身体、钉子两个常用对象；动词与小图比喻分别从固定动作和指甲尺寸展开。",
+    "forms": "nægl、næglan → nail；finger 手指、toe 脚趾、thumb 拇指；thumb 的 b 静音。\n\n名词的指甲、钉子都是 nails；动词 nail 的完成得很出色等义也能形成第三人称 nails。\n\n古英语甲、钉及相关动词材料；nailed it 为常见成功、准确完成的口语。\n\n香料 clove 经法语 clou de girofle 接拉丁 clavus 钉子，以花蕾像钉子的形状命名；蒜瓣 clove 则接古英语 clufu 裂开的块，与 cleave 分裂词族有关。不能让钉子一条线包办两种名词。",
+    "branches": [
+      [
+        "基础与身体位置",
+        "nail · fingernail · toenail · thumbnail"
+      ],
+      [
+        "nail → nails：指甲、钉子与做得漂亮",
+        "nail · nails"
+      ],
+      [
+        "nail → nailed、nailing：钉牢到准确做到",
+        "nail · nailed · nailing"
+      ],
+      [
+        "clove：香料像钉子；蒜瓣另源",
+        "clove · cloves"
+      ]
+    ],
+    "contrasts": "nail it 可是准确完成；thumbnail 不必真指甲大小；toenail 不是整个脚趾。",
+    "practice": "The thumbnail showed a close view of a painted fingernail.\n\n缩略图显示了一片涂过指甲油的手指甲特写。",
+    "words": [
+      "nail",
+      "fingernail",
+      "toenail",
+      "thumbnail",
+      "nails",
+      "nailed",
+      "nailing",
+      "clove",
+      "cloves"
+    ],
+    "exclude": {
+      "frost-nail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

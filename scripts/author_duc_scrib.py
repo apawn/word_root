@@ -3,7 +3,7 @@ from lesson_authoring import entry as E,save
 D=['拉丁语：dūcere','带领；引导；拉出']
 PRODUCE=[D,['拉丁语：prōdūcere','向前带出；产生'],['英语：produce','生产；拿出；产生']]
 REDUCE=[D,['拉丁语：redūcere','带回；使回到某种状态'],['古法语：reduire / reducer','带回；转变'],['英语：reduce','减少；使变成较小或较低状态']]
-INTRO=[D,['拉丁语：intrōdūcere','带到里面'],['古法语：introduire','引入'],['英语：introduce','介绍；引进']]
+INTRO=[D,['拉丁语：intrōdūcere','带到里面'],['英语 introduce：接拉丁动词或从 introduction 逆构','引入、带进来 → 介绍、引进']]
 INDUCE=[D,['拉丁语：indūcere','带入；引起'],['英语：induce','引起；促使']]
 SEDUCE=[D,['拉丁语：sēdūcere','带到一旁；引离原路'],['英语：seduce','诱惑；引诱']]
 DEDUCE=[D,['拉丁语：dēdūcere','引出；推导'],['英语：deduce','根据线索推断']]
@@ -47,7 +47,7 @@ E('reduction','/rɪˈdʌkʃən/','减少；降低；缩减的量',
 ('The changes led to a reduction in waste.','这些变化减少了浪费。'),('The store announced a ten percent reduction in prices.','商店宣布降价百分之十。')),
 E('introduce','英 /ˌɪntrəˈdjuːs/；美 /ˌɪntrəˈduːs/','介绍；引进；开始采用',
 'introduce 就是“带进来”：把一个陌生人带进你的认识范围，把一个新点子或新制度带进某个场景。',
-'拉丁语 intrō（向内）+ dūcere（带领），经法语传入。intro- 这里表示进入，不表示“第一”。',INTRO,
+'较早拉丁 intrō- 向内 + dūcere 带领形成 intrōdūcere。英语 introduce 有直接接拉丁动词或从 introduction 逆构的分析；intro- 的核心是向内、引入。',INTRO,
 '介绍人、介绍话题、引进产品都保留引入的感觉。introduce someone to something 也可表示让某人初次接触一种活动或知识。',
 'introduce A to B（把 A 介绍给 B）；introduce a new rule（引入新规则）；introduce a topic（引出话题）。',
 'introduce 强调开始接触或进入；explain 强调讲明白。介绍了一个概念，不一定已经解释清楚。',
@@ -135,7 +135,7 @@ E('inducement','英 /ɪnˈdjuːsmənt/；美 /ɪnˈduːsmənt/','诱因；促使
 ('Free training was an inducement to join the company.','免费培训是吸引人加入这家公司的一个条件。'),('They offered no inducement for customers to renew.','他们没有提供吸引顾客续订的优惠条件。')),
 E('seducer','英 /sɪˈdjuːsə/；美 /sɪˈduːsər/','引诱者；勾引者',
 'seducer 是靠魅力、承诺或欲望让别人动心的人。文学中常指勾引他人的角色，语气比“有魅力的人”重。',
-'seduce + -er；末尾已有 e，只加 r。',SEDUCE+[['英语：seducer','实施引诱的人']],
+'seduce 去末尾 e，加完整表人后缀 -er。',SEDUCE+[['英语：seducer','实施引诱的人']],
 '-er 把动作换成做动作的人。它强调这个人对别人施加诱惑，不能因为某人长得好看就直接称他 seducer。',
 'a charming seducer（迷人的勾引者）；play the seducer（扮演引诱者）。',
 'admirer 是爱慕者；seducer 是试图引诱的一方。两者的主动行为和语气不同。',
@@ -394,11 +394,11 @@ E('scripture','英 /ˈskrɪptʃə/；美 /ˈskrɪptʃər/','宗教经典；经�
 ('The speaker quoted a passage of scripture.','演讲者引用了一段经文。'),('The course compares scriptures from several religious traditions.','这门课程比较几个宗教传统的经典。')),
 E('subscriber','英 /səbˈskraɪbə/；美 /səbˈskraɪbər/','订阅者；订户；定期支持者',
 'subscriber 是已经说好“以后继续给我这个内容或服务”的人。可以是付费订户，也可以是免费通讯的订阅者。',
-'subscribe + -er，表示进行订阅或支持的人；词尾已有 e，只加 r。',SUBSCRIBE+[['英语：subscriber','订阅、支持的一方']],
+'subscribe 去结尾不发音 e，加完整后缀 -er，表示进行订阅或支持的人。',SUBSCRIBE+[['英语：subscriber','订阅、支持的一方']],
 '它强调持续关系，不只是偶然看过一次。subscriber 数量统计的是订阅关系，未必等于每一期都实际阅读的人数。',
 'a paying subscriber（付费订户）；newsletter subscribers（通讯订阅者）；gain subscribers（增加订阅者）。',
 'reader 是读者，subscriber 是订阅者。有人读到转发内容却没有订阅，也有人订阅却暂时没读。',
-('Subscribers receive the report every Friday.','订阅者每周五收到报告。'),('The magazine has gained a thousand new subscribers.','这本杂志新增了一千名订户。')),
+('Every subscriber receives the report on Friday.','每位订阅者周五收到报告。'),('The magazine welcomed a new subscriber.','杂志迎来了一位新订户。')),
 E('prescribe','/prɪˈskraɪb/','开处方；规定',
 'prescribe 是把该怎么做先定下来：医生开出药物要求，规则规定步骤。它常带一定专业或制度权威。',
 '拉丁语 prae-（预先、在前）+ scrībere（写），形成 praescrībere“预先写明、规定”。',PRESCRIBE,
@@ -481,7 +481,7 @@ E('inscribe','/ɪnˈskraɪb/','刻写；题写；铭记',
 ('Their names were inscribed on the memorial.','他们的名字刻在纪念碑上。'),('She inscribed the book to her first teacher.','她在赠书上题词，献给自己的第一位老师。')),
 E('prescriber','英 /prɪˈskraɪbə/；美 /prɪˈskraɪbər/','开处方者；作出规定者',
 'prescriber 是决定并开出处方的一方。这个词把注意力放在“谁作出用药或处理要求”这个角色上。',
-'prescribe + -er；词末已有 e，只加 r。',PRESCRIBE+[['英语：prescriber','开处方或规定的一方']],
+'prescribe 去末尾 e，加完整表人后缀 -er。',PRESCRIBE+[['英语：prescriber','开处方或规定的一方']],
 '常见于医疗服务说明，使用这个称呼时不必重复某一种职业头衔。谁有处方权限取决于具体制度，词本身不作规定。',
 'contact the prescriber（联系开方者）；an authorized prescriber（获授权的开方者）；prescriber information（开方者信息）。',
 'prescriber 负责开出处方；pharmacist 是药剂师，两种角色不能仅凭单词画等号。',

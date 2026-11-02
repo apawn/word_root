@@ -1,0 +1,84 @@
+[
+  {
+    "id": "B2707",
+    "meaning": "花木名称；颜色、前景、花苞与果实；木材借名",
+    "core": "ROSE：花的色、香和形象向外延伸",
+    "image": "rose → rosy；rosebud、rosehip 植物部位相邻；rosewater 已有；rosewood 单讲香气、色泽借名而非树种直拆。",
+    "intro": "花名与 rise 过去式 rose 分源；远借入路径不强作唯一结论。rosewood 不直接认作玫瑰枝材。",
+    "forms": "rose + -y，去 e；rose + bud/hip/water/wood；hip 在果名里不是臀部。\n\n花名早接拉丁 rosa 并有法语影响，rise 过去式 rose 是独立同形词。",
+    "branches": [
+      [
+        "花、颜色与乐观",
+        "rose · rosy"
+      ],
+      [
+        "花苞、果实和制品",
+        "rosebud · rosehip · rosewater"
+      ],
+      [
+        "借名木材",
+        "rosewood"
+      ],
+      [
+        "rose → roses：花木与美好前景的比喻",
+        "rose · roses"
+      ]
+    ],
+    "contrasts": "rosebud 花苞、rosehip 果；rosewood 非玫瑰枝；rosy 描述可有过度乐观语气；rose 花与 rose 上升过去式分源。",
+    "practice": "The rosebuds opened, adding a rosy colour to the garden.\n\n玫瑰花苞绽放，给花园添上了粉红色。",
+    "words": [
+      "rose",
+      "rosy",
+      "rosebud",
+      "rosehip",
+      "rosewater",
+      "rosewood",
+      "roses"
+    ],
+    "exclude": {
+      "rose-coloured": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rose-hued": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3841",
+    "meaning": "可坐位置、席位和地位；容量与移除",
+    "core": "SEAT：有地方坐，也借座位表示位置、职位",
+    "image": "seat → seater；backseat 原有；unseat → unseated 保持相邻，由动作到结果。",
+    "intro": "seat 近源与 sit 旧同族但不是现代随意变元音。seater 容量组合按搭配认识；un- 在 unseat 里形成移除动作。",
+    "forms": "seat + -er；back + seat；un- + seat → unseat；unseat + -ed。\n\n北欧、较早英语座位词族相互联系，现代 seat 也有给人安排座位的动词。\n\n古英语、北欧座位材料的关系有不同分析；现代动词 ed 读 id。",
+    "branches": [
+      [
+        "座位、容量和后座",
+        "seat · seater · backseat"
+      ],
+      [
+        "失位动作及结果",
+        "unseat · unseated"
+      ],
+      [
+        "sit／seat → seats：坐的位置与安排入座",
+        "seat · seats"
+      ],
+      [
+        "seat → seated：座位到安排坐下",
+        "seat · seated"
+      ]
+    ],
+    "contrasts": "seater 常看数量搭配，不只人物；unseat 与 resign 施动不同；unseated 的 -ed 在 t 后另读 /ɪd/。",
+    "practice": "The horse unseated its rider, who fell beside the fence.\n\n马把骑手掀了下来，骑手摔在篱笆旁。",
+    "words": [
+      "seat",
+      "seater",
+      "backseat",
+      "unseat",
+      "unseated",
+      "seats",
+      "seated"
+    ],
+    "exclude": {
+      "seat-mile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "seat-of-the-pants": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

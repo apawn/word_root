@@ -1,0 +1,75 @@
+[
+  {
+    "id": "B4186",
+    "meaning": "工作；运作；加工；共同工作",
+    "core": "WORKING：在做事，也可说明怎样做、做什么",
+    "image": "working 既是 work 的形式，也已形成多种形容和活动名词。复合词先看前面说材料、共同关系，还是勤奋程度。",
+    "intro": "working 由 work + -ing 形成。woodworking、metalworking 说加工对象，coworking 的 co- 说共同，hardworking 说工作态度。",
+    "forms": "working → hardworking；wood + working、metal + working；co- + working。",
+    "branches": [
+      [
+        "基本用法与勤奋",
+        "working · hardworking"
+      ],
+      [
+        "加工材料与共享办公",
+        "woodworking · metalworking · coworking"
+      ]
+    ],
+    "contrasts": "woodworking 木工，coworking 共享办公；共用办公空间不保证同属一个公司。",
+    "practice": "The hardworking designer uses a coworking space for office tasks and a workshop for woodworking.\n\n这位勤奋的设计师在共享办公空间处理文书，在工作坊做木工。",
+    "words": [
+      "working",
+      "hardworking",
+      "woodworking",
+      "metalworking",
+      "coworking"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4253",
+    "meaning": "making：制作、形成、促成",
+    "core": "MAKING：前面是什么，就看在形成什么",
+    "image": "物品可以被制造，规则、和平、配对关系等也可以被形成或促成。部分复合词还有固定专门义。",
+    "intro": "making 是 make 去 e 加 -ing 的形式。不同复合词的前部分可说产物、活动目标或固定领域，不是所有 making 都限于手工造物。",
+    "forms": "making → filmmaking、winemaking、steelmaking、dressmaking、papermaking；抽象成果看 rulemaking、policymaking、peacemaking；matchmaking、bookmaking、playmaking 等固定用法各自看。",
+    "branches": [
+      [
+        "基本形成与制作活动",
+        "making · filmmaking · winemaking · steelmaking · dressmaking · papermaking"
+      ],
+      [
+        "规范、和平与家庭相关活动",
+        "rulemaking · policymaking · peacemaking · homemaking · lovemaking"
+      ],
+      [
+        "已形成固定用法的组合",
+        "matchmaking · printmaking · playmaking · bookmaking · watchmaking"
+      ]
+    ],
+    "contrasts": "papermaking 造纸，不是 paperwork 文书；rulemaking 制定，enforcement 执行；bookmaking 等固定用法不要只逐字猜。",
+    "practice": "The centre offers practical courses in filmmaking, dressmaking and papermaking.\n\n中心开设电影制作、服装裁制和造纸实践课程。",
+    "words": [
+      "making",
+      "filmmaking",
+      "winemaking",
+      "steelmaking",
+      "dressmaking",
+      "papermaking",
+      "rulemaking",
+      "policymaking",
+      "peacemaking",
+      "homemaking",
+      "lovemaking",
+      "matchmaking",
+      "printmaking",
+      "playmaking",
+      "bookmaking",
+      "watchmaking"
+    ],
+    "exclude": {
+      "game-making": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

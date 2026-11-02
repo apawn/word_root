@@ -1,0 +1,212 @@
+[
+  {
+    "id": "B2920",
+    "meaning": "什么时候；询问时间及其常见扩展",
+    "core": "WHEN：在时间线上找一个点",
+    "image": "where 在地图上问哪儿，when 在时间线上问哪一刻；whenever 则把具体时间点放开。",
+    "intro": "when 从古英语 hwonne 经中古英语形式延续，是时间疑问词材料。先理解何时，再看 ever 如何把时间限制放开。",
+    "forms": "when + ever → whenever。whence 另有来自何处的历史地点材料，现代非常书面，本页不为追求数量强行并讲。",
+    "branches": [
+      [
+        "基本时间询问",
+        "when"
+      ],
+      [
+        "不限定具体时点",
+        "whenever"
+      ]
+    ],
+    "contrasts": "when／how long：时间点／时长；since when／by when：起始点／最迟时间；间接问题 when it starts 不倒装。",
+    "practice": "When will the room be ready? Do you know when the cleaners finish?\n\n房间什么时候准备好？你知道清洁人员什么时候结束吗？",
+    "words": [
+      "when",
+      "whenever"
+    ],
+    "exclude": {
+      "whence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3247",
+    "meaning": "从不、任何时候都不；否定的固定扩展",
+    "core": "NEVER：把 ever 的时间范围整个否掉",
+    "image": "ever 把可能时间打开，never 则说一次也没有；nevertheless 又把旧的强调组合固定成尽管如此。",
+    "intro": "古英语 nǣfre 相当于旧否定 ne + æfre，后来成为 never。它可以真说从未，也可在某些固定短语里加强否定，不能逐字把 never mind 译为永远没有头脑。",
+    "forms": "旧 ne + ever 的对应 → never；never + the + less → nevertheless；never + more → nevermore。日常“别介意、算了”通常写 never mind 两词。",
+    "branches": [
+      [
+        "时间上的全面否定",
+        "ever · never"
+      ],
+      [
+        "固定让步副词",
+        "nevertheless"
+      ],
+      [
+        "文学中不再发生",
+        "nevermore"
+      ]
+    ],
+    "contrasts": "never 通常不再配普通标准否定：I have never seen it。nevertheless 不表示永远更少；口语 never mind 通常分写，不把罕见合写形式当基础词强记。",
+    "practice": "She had never tried it before; nevertheless, she agreed to learn.\n\n她从没试过；尽管如此，她还是答应学。",
+    "words": [
+      "ever",
+      "never",
+      "nevertheless",
+      "nevermore"
+    ],
+    "exclude": {
+      "never-ending": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "never-dying": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "never-nude": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nevermind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neverland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2794",
+    "meaning": "一段时间；值得投入的时间、同时段或昔日",
+    "core": "WHILE：先抓住一段时间，再看它被怎样限定",
+    "image": "a while 一会儿；meanwhile 这段时间的另一边；worthwhile 值得花这段时间；erstwhile 曾经那个时候的。",
+    "intro": "while 的名词从古英语 hwīl 延续。常见扩展保留时间段、时间投入等关系，比只记它作连词时的中文更容易看出整族联系。",
+    "forms": "mean〔居间〕+ while → meanwhile；worth + while → worthwhile；erst〔从前〕+ while → erstwhile。此处先讲名词、动词及这些常用组合。\n\n较早接古英语 ane hwile 一段时间的结构，后来合写成副词 awhile；现代 a while 仍可作名词短语，尤其跟在 for 等介词后。",
+    "branches": [
+      [
+        "一段时间与消磨时间",
+        "while"
+      ],
+      [
+        "同一时段的另一件事",
+        "meanwhile"
+      ],
+      [
+        "值得花时间",
+        "worthwhile"
+      ],
+      [
+        "从前的关系",
+        "erstwhile"
+      ],
+      [
+        "a while → awhile：停留一会儿",
+        "awhile"
+      ]
+    ],
+    "contrasts": "a while／awhile 要看名词与副词结构；meanwhile 不表示事后；erstwhile 较书面；worthwhile 可以评价学习、工作是否值得，并不只说金钱。",
+    "practice": "Wait a while; meanwhile, we can look for something worthwhile to read.\n\n等一会儿吧；这期间我们可以找点值得读的东西。",
+    "words": [
+      "while",
+      "meanwhile",
+      "worthwhile",
+      "erstwhile",
+      "awhile"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3288",
+    "meaning": "必须；有充分理由推断；必需之物",
+    "core": "MUST：要求必须发生，或判断几乎必然如此",
+    "image": "规定写着 you must go，是要求；看灯亮着说 she must be home，是依据迹象推断。",
+    "intro": "must 来自一支旧情态动词的过去形式，后来固定承担现代的现在情态任务。不规则历史不能拿来强造 musted；也不能把同形的葡萄汁名词或霉味词族并成一个“必须”来源。",
+    "forms": "must + 动词原形；a must 是由必须做、看等抽象成必需之物；musty 不由这个情态动词派生。带连字符的复合词按当前整理规则暂不列。",
+    "branches": [
+      [
+        "要求与推断",
+        "must"
+      ],
+      [
+        "名词化的固定用法",
+        "must：a must"
+      ]
+    ],
+    "contrasts": "must not 是禁止，don’t have to 是没有义务；he must 不加 s；must have done 是对过去的推断，和当时被要求做某事并不相同。",
+    "practice": "You must be hungry after the walk; a proper lunch is a must.\n\n走了这么久你一定饿了；好好吃顿午饭必不可少。",
+    "words": [
+      "must"
+    ],
+    "exclude": {
+      "must-have": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "must-read": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "must-buy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "must-learn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "musty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3231",
+    "meaning": "更好；改善；提高后的状态",
+    "core": "BETTER：先有比较，再把更好变成改善的动作",
+    "image": "This is better 判断更好了；better your skills 则把“变得更好”作为努力的方向。",
+    "intro": "better 由古英语 betera 等形式延续，今天担任 good、well 的比较级，与 best 同支历史；不是现代 good 按规则加 -er 改写出来。名词、动词再依具体用法理解。",
+    "forms": "good／well → better → best 是现代比较关系；better + -ment → betterment。排序把它们放一起帮助学习，不把这种对应误写成历史上每个词由前一个拼出来。",
+    "branches": [
+      [
+        "基本评价及比较",
+        "good · well · better · best"
+      ],
+      [
+        "改善及改善结果",
+        "betterment"
+      ]
+    ],
+    "contrasts": "better 可以是形容词、副词、动词；had better 常给较强建议，后接动词原形；more better 通常是重复比较，不作为标准表达。",
+    "practice": "The new method is better, but there is still room for betterment.\n\n新方法更好，但仍有改进空间。",
+    "words": [
+      "good",
+      "well",
+      "better",
+      "best",
+      "betterment"
+    ],
+    "exclude": {
+      "bettering": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4134",
+    "meaning": "正在去、进行；进行中的、面向外部的等固定扩展",
+    "core": "GOING：镜头放在行进、进行的过程上",
+    "image": "go 是去，going 能把动作展开成正在去；ongoing 的事情还在进行，easygoing 的人相处起来不紧绷。",
+    "intro": "going 与古英语 go 的分词、后来的 -ing 形式有关，名词、形容词也有各自发展。读完整组合，不能把 outgoing 的外向义只译成正在出去。",
+    "forms": "go + -ing → going；on + going → ongoing；out + going → outgoing；easy + going → easygoing；sea + going → seagoing。be going to 也固定用于将来计划、迹象。\n\ngo 的 going 与 to 在表示将来、打算的结构中连读弱化，形成 gonna 这种非正式写法；保留主语对应的 be。",
+    "branches": [
+      [
+        "基本动作形式",
+        "go · going"
+      ],
+      [
+        "继续进行",
+        "ongoing"
+      ],
+      [
+        "面向外部及性格",
+        "outgoing · easygoing"
+      ],
+      [
+        "适于海上的",
+        "seagoing"
+      ],
+      [
+        "going to 的口语连读：gonna",
+        "gonna"
+      ]
+    ],
+    "contrasts": "outgoing 可以说外向，也可说即将离任；ongoing 不等于没完没了的负面评价；going 不是每次都真的从一处移动到另一处。",
+    "practice": "The outgoing director left an ongoing project to an easygoing successor.\n\n即将离任的主管把一个仍在进行的项目交给了随和的继任者。",
+    "words": [
+      "go",
+      "going",
+      "ongoing",
+      "outgoing",
+      "easygoing",
+      "seagoing",
+      "gonna"
+    ],
+    "exclude": {
+      "temple-going": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mosque-going": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "synagogue-going": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "friend",
+    "ipa": "/frend/",
+    "meaning": "朋友；支持者、相助者；加为好友",
+    "sense": "愿意相处、互相信任的人，也可能是一位在困难中伸手帮助的人。",
+    "split": "接古英语 frēond、frīond，历史形式与爱、亲爱这一词族相关；不是现代 free + end“自由结束”。常用读音里 ie 是 /e/。",
+    "history": [
+      [
+        "古英语 frēond / frīond → 中古英语 frend 等",
+        "朋友；更早形式与爱、亲爱的人有关"
+      ],
+      [
+        "英语 friend",
+        "朋友；相助者；社交平台好友"
+      ]
+    ],
+    "explanation": "a close friend 是好友，make friends with 是与人交朋友，a friend of mine 是我的一位朋友；社交平台动词 friend someone 是加好友。",
+    "usage": "a close friend；make friends with；a friend of mine；be friends with。",
+    "contrast": "friend 是关系，friendly 是态度。店员对你很 friendly，不一定已经成了你的 friend。",
+    "examples": [
+      [
+        "We have been friends since school.",
+        "我们从上学时就是朋友。"
+      ],
+      [
+        "A friend of mine recommended this book.",
+        "我的一位朋友推荐了这本书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/friend#English"
+    ]
+  },
+  {
+    "word": "friendly",
+    "ipa": "/ˈfrendli/",
+    "meaning": "友好的；适合、方便……的；友谊赛",
+    "sense": "像朋友那样容易接近、不带敌意；工具对用户也能显得好相处。",
+    "split": "friend + -ly，接古英语 frēondlīċ、中古英语 frendly 等；这里 -ly 构成形容词。名词 a friendly 又可指友谊赛、热身赛。",
+    "history": [
+      [
+        "古英语 frēond / frīond → 中古英语 frend 等",
+        "朋友；更早形式与爱、亲爱的人有关"
+      ],
+      [
+        "古英语 frēondlīċ → 中古英语 frendly → friendly",
+        "像朋友般友好；适宜相处、使用"
+      ]
+    ],
+    "explanation": "a friendly smile 是友好微笑，a friendly atmosphere 是友善气氛；user-friendly 常说用户容易使用，作词族搭配理解即可。",
+    "usage": "be friendly to；a friendly smile；a friendly atmosphere；a football friendly。",
+    "contrast": "friendly 是形容词，不因 -ly 就拿来替代所有副词：She spoke in a friendly way 很自然，不通常说 She spoke friendly 来表达标准书面语。",
+    "examples": [
+      [
+        "The staff were friendly and helpful.",
+        "工作人员友好又乐于帮忙。"
+      ],
+      [
+        "The two teams played a friendly before the season began.",
+        "两队在赛季开始前踢了场友谊赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/friendly#English"
+    ]
+  },
+  {
+    "word": "friendship",
+    "ipa": "/ˈfrendʃɪp/",
+    "meaning": "友谊；朋友关系",
+    "sense": "不只指某位朋友，而是两人之间持续的信任、相伴关系。",
+    "split": "friend + -ship，接古英语 frēondsċiepe 等；-ship 表关系、状态，和 ship“船”不是这里的同一用法。",
+    "history": [
+      [
+        "古英语 frēond / frīond → 中古英语 frend 等",
+        "朋友；更早形式与爱、亲爱的人有关"
+      ],
+      [
+        "古英语 frēondsċiepe → 中古英语 frendshipe → friendship",
+        "朋友关系、友谊"
+      ]
+    ],
+    "explanation": "a lasting friendship 是长久友谊，form a friendship 是建立朋友关系。泛说友谊可不可数，某一段友谊可数。",
+    "usage": "a close friendship；a lasting friendship；form a friendship。",
+    "contrast": "friend 是人，friendship 是关系；friendliness 是友善态度，并不保证已经形成亲密友谊。",
+    "examples": [
+      [
+        "Their friendship lasted for more than forty years.",
+        "他们的友谊持续了四十多年。"
+      ],
+      [
+        "Shared interests helped a friendship develop.",
+        "共同兴趣帮助一段友谊慢慢发展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/friendship#English"
+    ]
+  },
+  {
+    "word": "befriend",
+    "ipa": "/bɪˈfrend/",
+    "meaning": "与……结交；友好帮助、陪伴",
+    "sense": "看见一个人独处，主动靠近交朋友、给他支持。",
+    "split": "be- + friend，be- 是历史动词构词前缀，不是现代 be 动词与 friend 名词的一句缩写。整词接与人结友、友好相待。",
+    "history": [
+      [
+        "古英语 frēond / frīond → 中古英语 frend 等",
+        "朋友；更早形式与爱、亲爱的人有关"
+      ],
+      [
+        "英语 friend",
+        "朋友；相助者；社交平台好友"
+      ],
+      [
+        "be- + friend → befriend",
+        "主动结交；以朋友方式帮助"
+      ]
+    ],
+    "explanation": "befriend a newcomer 是与新来者交朋友，befriend someone who is lonely 是陪伴、帮助孤独者。主动友好与互相深交仍是不同阶段。",
+    "usage": "befriend a newcomer；befriend someone at school；a volunteer who befriends。",
+    "contrast": "befriend 常突出主动接近、支持，be friends with 描述已经是朋友；两者不完全只是时态不同。",
+    "examples": [
+      [
+        "She befriended a new student who knew nobody in the class.",
+        "她主动和班里谁都不认识的新同学交朋友。"
+      ],
+      [
+        "The volunteer befriended an elderly neighbour.",
+        "志愿者与一位年长邻居结交并给予陪伴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/befriend#English"
+    ]
+  },
+  {
+    "word": "friendless",
+    "ipa": "/ˈfrendləs/",
+    "meaning": "没有朋友的；缺少友伴的",
+    "sense": "身边缺少能亲近、支持的人，不等于不喜欢交朋友。",
+    "split": "friend + -less，接古英语 frēondlēas、中古英语 frendles；-less 表缺少前面的对象。",
+    "history": [
+      [
+        "古英语 frēond / frīond → 中古英语 frend 等",
+        "朋友；更早形式与爱、亲爱的人有关"
+      ],
+      [
+        "古英语 frēondlēas → 中古英语 frendles → friendless",
+        "缺少朋友、支持者的"
+      ]
+    ],
+    "explanation": "alone and friendless 是孤身而无朋友，feel friendless 是觉得缺少友伴。常带孤立、无人支持的感受。",
+    "usage": "alone and friendless；feel friendless；a friendless stranger。",
+    "contrast": "friendless 没朋友，unfriendly 不友好；一个友善的人初到陌生城市也可能暂时 friendless。",
+    "examples": [
+      [
+        "The novel begins with a friendless young traveller.",
+        "小说开头是一位没有朋友的年轻旅人。"
+      ],
+      [
+        "She felt friendless during her first week in the city.",
+        "初到城里的第一周，她觉得身边没有朋友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/friendless#English"
+    ]
+  },
+  {
+    "word": "unfriend",
+    "ipa": "/ʌnˈfrend/",
+    "meaning": "解除好友关系；从好友名单删除",
+    "sense": "原来在好友名单里，现在把这个连接取消。",
+    "split": "现代常用动词是 un-（取消）+ friend 动词；历史另有 unfriend“不友者、敌人”名词，不能只因很早有同拼写就说社交平台功能自古存在。",
+    "history": [
+      [
+        "现代动词组合：un- + friend",
+        "取消好友关系；另有早期同形名词"
+      ],
+      [
+        "社交平台中的 unfriend",
+        "从好友列表移除"
+      ]
+    ],
+    "explanation": "unfriend someone 是从平台好友关系中移除；不一定宣布现实中永不来往。过去式 unfriended，-ed 读 /ɪd/。",
+    "usage": "unfriend someone；be unfriended；unfriend an account。",
+    "contrast": "unfriend 取消好友，unfollow 取消关注，block 阻止联系或访问等；各平台功能不同，不能当同一按钮。",
+    "examples": [
+      [
+        "She unfriended an account she no longer recognized.",
+        "她把一个已经认不出的账号从好友名单移除了。"
+      ],
+      [
+        "Being unfriended online does not explain the whole relationship.",
+        "网上被解除好友，并不能说明整段现实关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfriend#English"
+    ]
+  },
+  {
+    "word": "boyfriend",
+    "ipa": "/ˈbɔɪfrend/",
+    "meaning": "男朋友；男性恋爱伴侣",
+    "sense": "现代日常不只说这位朋友是男性，而是通常标明恋爱关系。",
+    "split": "boy + friend，整词形成了男恋爱伴侣的固定常用义；词里的 boy 不表示对方必须是未成年男孩。",
+    "history": [
+      [
+        "英语 boy；friend",
+        "并列组合的两部分"
+      ],
+      [
+        "boy + friend → boyfriend",
+        "男性恋爱伴侣"
+      ]
+    ],
+    "explanation": "her boyfriend 是她的男友，a former boyfriend 是前男友；旧用法、特定语境也可指男性朋友，但现代通常先理解恋爱关系。",
+    "usage": "her boyfriend；a former boyfriend；meet someone’s boyfriend。",
+    "contrast": "a male friend 明确普通男性朋友，boyfriend 通常是男友；想避免别人误会关系时不要只按两个词的字面相加。",
+    "examples": [
+      [
+        "She introduced us to her boyfriend.",
+        "她把男朋友介绍给我们。"
+      ],
+      [
+        "Her boyfriend works at the local museum.",
+        "她男朋友在当地博物馆工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boyfriend#English"
+    ]
+  },
+  {
+    "word": "girlfriend",
+    "ipa": "英 /ˈɡɜːlfrend/；美 /ˈɡɜːrlfrend/",
+    "meaning": "女朋友；女性恋爱伴侣；女性朋友〔部分语境〕",
+    "sense": "通常是恋爱中的女伴，但某些女性说与 girlfriends 相聚，也可能只是女性朋友们。",
+    "split": "girl + friend，现代恋爱关系义已固定；girl 在这里不限定只能指未成年女孩。普通女友伴义在部分地区、说话方式中仍存在。",
+    "history": [
+      [
+        "英语 girl；friend",
+        "并列组合的两部分"
+      ],
+      [
+        "girl + friend → girlfriend",
+        "女性恋爱伴侣；特定语境的女性朋友"
+      ]
+    ],
+    "explanation": "his girlfriend 通常是他的女友；a group of girlfriends 在一些语境可是一群女性朋友。关系不清时用 female friend、partner 等更明确。",
+    "usage": "her girlfriend；a former girlfriend；meet someone’s girlfriend。",
+    "contrast": "girlfriend 与 female friend 不总相同；不要仅凭说话者性别就替对方确定关系，仍按整句和背景判断。",
+    "examples": [
+      [
+        "His girlfriend is studying architecture.",
+        "他的女朋友在学建筑。"
+      ],
+      [
+        "She introduced her girlfriend to her family.",
+        "她把女朋友介绍给家人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/girlfriend#English"
+    ]
+  },
+  {
+    "word": "write",
+    "ipa": "/raɪt/",
+    "meaning": "写；创作；写入",
+    "sense": "先在表面留下有意义的痕迹，后来键盘输入、数据保存也都能叫写。",
+    "split": "接古英语 wrītan，经中古英语 writen，早与刻划、划出痕迹有关。现代开头 w 不发音；过去式 wrote /rəʊt/（英）、/roʊt/（美），过去分词 written /ˈrɪtən/。",
+    "history": [
+      [
+        "古英语 wrītan → 中古英语 writen",
+        "刻划、写出文字"
+      ],
+      [
+        "英语 write",
+        "书写；创作；写入数据"
+      ]
+    ],
+    "explanation": "write a letter 是写信，write a novel 是创作小说，write to someone 是给人写信；write data to disk 是把数据写入磁盘。",
+    "usage": "write a letter；write about；write to；write down；write data to。",
+    "contrast": "write /raɪt/ 与 right 常同音但词源不同。write 关注写下或创作，不一定是用笔，作者在电脑上也在 write。",
+    "examples": [
+      [
+        "Please write your name at the top of the page.",
+        "请在页顶写上姓名。"
+      ],
+      [
+        "She writes stories for children.",
+        "她为儿童写故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/write#English"
+    ]
+  },
+  {
+    "word": "writing",
+    "ipa": "/ˈraɪtɪŋ/",
+    "meaning": "写作；书写；文字、作品",
+    "sense": "既可以看人正在写，也可以看他已经写出的文字与表达风格。",
+    "split": "write 去掉末尾 e 后加 -ing，接古英语 wrīting 等形式；只有一个 t，不写 writting。",
+    "history": [
+      [
+        "古英语 wrītan → 中古英语 writen",
+        "刻划、写出文字"
+      ],
+      [
+        "古英语 wrīting → 中古英语 writing → writing",
+        "书写活动；写成的内容"
+      ]
+    ],
+    "explanation": "creative writing 是创意写作，in writing 是以书面形式，her writing 是她的文风或作品；writing skills 是写作能力。",
+    "usage": "in writing；creative writing；writing skills；a piece of writing。",
+    "contrast": "writing 可以是写作、文风，handwriting 具体是手写字迹；文章内容优秀，不一定字写得整齐。",
+    "examples": [
+      [
+        "Please confirm the arrangement in writing.",
+        "请以书面形式确认安排。"
+      ],
+      [
+        "Her writing is clear and direct.",
+        "她的文字清楚直接。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/writing#English"
+    ]
+  },
+  {
+    "word": "written",
+    "ipa": "/ˈrɪtən/",
+    "meaning": "写成的；书面的；write 的过去分词",
+    "sense": "话没有只停在嘴边，已经落成文字，可以再看、保存、核对。",
+    "split": "write 的过去分词，可辨历史 -en 分词后缀及元音变化。write /raɪt/ → wrote → written /ˈrɪtən/，不是把 -en 直接加到原形读音后。",
+    "history": [
+      [
+        "古英语 wrītan → 中古英语 writen",
+        "刻划、写出文字"
+      ],
+      [
+        "英语 write",
+        "书写；创作；写入数据"
+      ],
+      [
+        "write → wrote → written",
+        "书写动作的过去式与过去分词变化"
+      ]
+    ],
+    "explanation": "a written agreement 是书面协议，written instructions 是书面说明；has written 是完成时结构。形容词强调形式，具体效力不由这个词单独决定。",
+    "usage": "a written agreement；written instructions；a written reply。",
+    "contrast": "written 是书面的，spoken 是口头的；a written reply 不等于只能手写，打字回复也属于书面。",
+    "examples": [
+      [
+        "We received written instructions before the visit.",
+        "访问前我们收到书面说明。"
+      ],
+      [
+        "She has written three books on local history.",
+        "她已写了三本当地历史著作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/written#English"
+    ]
+  },
+  {
+    "word": "writer",
+    "ipa": "英 /ˈraɪtə/；美 /ˈraɪtər/",
+    "meaning": "作者；作家；写作者",
+    "sense": "把想法变成文字的人，不一定只写长篇小说，也可能写剧本、报道、技术说明。",
+    "split": "write 去掉末尾 e 后加 -er，上接古英语 wrītere 等。-er 表写的人，也可能用于写入设备等技术名称，具体看后接对象。",
+    "history": [
+      [
+        "古英语 wrītan → 中古英语 writen",
+        "刻划、写出文字"
+      ],
+      [
+        "古英语 wrītere → 中古英语 writer → writer",
+        "记录、创作文字的人"
+      ]
+    ],
+    "explanation": "a fiction writer 是小说作者，a technical writer 是技术文档作者，a freelance writer 是自由撰稿人。有没有出版作品、是不是职业写作，靠上下文。",
+    "usage": "a freelance writer；a technical writer；a writer of fiction。",
+    "contrast": "writer 范围很宽，novelist 特指小说家，author 常强调某作品作者；一本说明书的撰稿者也可以是 writer。",
+    "examples": [
+      [
+        "She works as a technical writer.",
+        "她从事技术文档写作。"
+      ],
+      [
+        "The writer visited the town before beginning the novel.",
+        "作者动笔写小说前到访了小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/writer#English"
+    ]
+  },
+  {
+    "word": "overwrite",
+    "ipa": "英 /ˌəʊvəˈraɪt/；美 /ˌoʊvərˈraɪt/",
+    "meaning": "覆盖写入；写得过多、过度修饰",
+    "sense": "已有一层内容，新文字再压上去；数据里旧内容可能被替代，文风里则可能堆得过头。",
+    "split": "over-（覆盖、过度）+ write，过去式 overwrote、过去分词 overwritten，与 write 的不规则变化一致。",
+    "history": [
+      [
+        "古英语 wrītan → 中古英语 writen",
+        "刻划、写出文字"
+      ],
+      [
+        "英语 write",
+        "书写；创作；写入数据"
+      ],
+      [
+        "over- + write → overwrite",
+        "在上面写；过量写作"
+      ]
+    ],
+    "explanation": "overwrite a file 是覆盖文件中的旧内容，overwritten prose 是过度铺陈的文字。改写作品用 rewrite 更泛，不都意味着数据覆盖。",
+    "usage": "overwrite a file；overwrite existing data；overwritten prose。",
+    "contrast": "overwrite 常替代已有内容，append 是接到末尾；写入发生的位置、旧内容是否保留是关键差别。",
+    "examples": [
+      [
+        "The program asked before overwriting the existing file.",
+        "覆盖已有文件前，程序先询问了确认。"
+      ],
+      [
+        "The editor thought the opening chapter was overwritten.",
+        "编辑觉得开篇写得过分铺陈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overwrite#English"
+    ]
+  },
+  {
+    "word": "underwrite",
+    "ipa": "英 /ˌʌndəˈraɪt/；美 /ˌʌndərˈraɪt/",
+    "meaning": "承保；承销；资助、保证经费",
+    "sense": "不只是说支持，而是把名字、责任或资金放到承诺下面，愿意承担相应风险。",
+    "split": "under- + write，古英语 underwrītan 有在下方签署等义；后来保险、融资语境以签名承担责任形成专业用法。不能把现代承保、承销说成在纸下面随便写字。",
+    "history": [
+      [
+        "古英语 wrītan → 中古英语 writen",
+        "刻划、写出文字"
+      ],
+      [
+        "古英语 underwrītan → 中古英语 underwriten",
+        "写在下方、签署"
+      ],
+      [
+        "underwrite 的保证、金融用法",
+        "以资金或风险承担支持某事"
+      ]
+    ],
+    "explanation": "underwrite an event 是保证活动经费，underwrite insurance 是承保；证券发行里还有承销义。几种业务的具体责任不同，不能只译成借钱。",
+    "usage": "underwrite an event；underwrite a policy；underwrite an issue。",
+    "contrast": "underwrite 可能承担风险、保证经费，sponsor 是赞助更泛；赞助者是否有保证全部缺口的责任，要看约定，不能只按英文词推合同。",
+    "examples": [
+      [
+        "A local foundation underwrote the exhibition.",
+        "当地基金会为展览提供了经费保障。"
+      ],
+      [
+        "The article explains how insurers underwrite policies.",
+        "文章解释了保险机构如何承保保单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underwrite",
+      "https://dictionary.cambridge.org/us/dictionary/english/underwrite",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/underwrite"
+    ]
+  }
+]

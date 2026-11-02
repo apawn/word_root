@@ -1,0 +1,163 @@
+[
+  {
+    "id": "B4065",
+    "meaning": "外层剥离，结果状态与工具按动作串起",
+    "core": "PEEL：沿表面把外层去掉，或外层自己掉下来",
+    "image": "peel → peeled、peeler，动作、已去皮状态、工具依次看。",
+    "intro": "水果、贴纸、油漆都提供外层脱离的画面。厨房工具名透明，警察旧称与披萨铲等同形义则保留各自来源。",
+    "forms": "pilian、peler → pelen → peel；-ed 状态，-er 工具、执行者；Peel 专名义另辨。",
+    "branches": [
+      [
+        "剥除、结果与削皮工具",
+        "peel · peeled · peeler"
+      ]
+    ],
+    "contrasts": "peeled 不等于 cooked；peeler 的工具义与警察旧称近源不同。",
+    "practice": "She used a peeler and put the peeled apples aside.\n\n她用削皮器削皮，把去皮苹果放到一旁。",
+    "words": [
+      "peel",
+      "peeled",
+      "peeler"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3758",
+    "meaning": "穿过表层进到内部，名词进一步说过程与程度",
+    "core": "PENETRATE：表面挡着，仍往里穿、往里渗",
+    "image": "penetrate → penetration，先动作，后过程、程度与相应领域比喻。",
+    "intro": "厚雾、土壤给实体阻碍；谜团、市场给抽象边界。每个搭配都要指出什么在进入什么，不能只背一个渗透中文词。",
+    "forms": "penetrare → penetratus、penetratio → penetrate、penetration；现代 -ate 动词与 -ation 名词对应。",
+    "branches": [
+      [
+        "深入动作与渗透程度",
+        "penetrate · penetration"
+      ]
+    ],
+    "contrasts": "enter 进入较宽，penetrate 常强调深入或越过阻碍；penetration 的具体衡量看上下文。",
+    "practice": "The study measures how deeply water penetrates and records the penetration depth.\n\n研究测量水渗入多深，并记录渗透深度。",
+    "words": [
+      "penetrate",
+      "penetration"
+    ],
+    "exclude": {
+      "penetrator": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3498",
+    "meaning": "青蛙形体、叫声与跳跃分别提供命名线索",
+    "core": "FROG：跳跃的身体和呱叫的嗓音，两条线索都常用",
+    "image": "frog → froggy、bullfrog；leapfrog 接跳背游戏和超越比喻。",
+    "intro": "蛙般形态、沙哑嗓音、牛吼般叫声、跳过前者，各自抓一个具体特征。并非每个含 frog 的同形名都能由动物形状确定推导。",
+    "forms": "frocga → frogge → frog；-y 双写 g；bull 牛吼形象；leap 跳。",
+    "branches": [
+      [
+        "动物、蛙般性质与牛蛙",
+        "frog · froggy · bullfrog"
+      ],
+      [
+        "跳跃游戏与超越",
+        "leapfrog"
+      ]
+    ],
+    "contrasts": "bullfrog 不是雄蛙的泛称；froggy voice 看沙哑声音。",
+    "practice": "The child watched a bullfrog and then hopped around like a little froggy.\n\n孩子看着牛蛙，随后像只小青蛙一样跳来跳去。",
+    "words": [
+      "frog",
+      "froggy",
+      "bullfrog",
+      "leapfrog"
+    ],
+    "exclude": {
+      "frogger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3921",
+    "meaning": "低边浅盘的承载功能，材料变了名称仍沿用",
+    "core": "TRAY：一片浅平承载面，把小物一起托住",
+    "image": "tray → ashtray，ash 限定所盛的是烟灰；设备托盘、界面托盘又借其承载形象。",
+    "intro": "木制浅盘是较早形态，现代金属、塑料都能做 tray。betray 虽然结尾相同，接的是法语、拉丁语交付的词族，不属于托盘派生。",
+    "forms": "treg、trig → trei、trey → tray；ash + tray → ashtray。\n\n古英语 treg、trig 继承，现代不限制木制；元音加 y 后直接加 s。",
+    "branches": [
+      [
+        "浅盘、托槽与烟灰缸",
+        "tray · ashtray"
+      ],
+      [
+        "tray → trays：木浅盘到各种承载盘",
+        "tray · trays"
+      ]
+    ],
+    "contrasts": "tray 与 plate 按用途、形态辨；betray 里的 tray 不是这个托盘词。",
+    "practice": "The empty ashtray stood on a metal tray.\n\n空烟灰缸放在金属托盘上。",
+    "words": [
+      "tray",
+      "ashtray",
+      "trays"
+    ],
+    "exclude": {
+      "e-tray": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "betray": "betray 来自 be- 与中古英语背叛相关材料，上接法语、拉丁语交付词族，与托盘 tray 分源。"
+    }
+  },
+  {
+    "id": "B3686",
+    "meaning": "热油脂烹饪与相应设备，幼鱼同形义另辨",
+    "core": "FRY：锅里煎炸，与水里鱼苗是两条词源线",
+    "image": "fry → fryer；烹饪动词可以涵盖煎与炸，设备名再按方式限定。",
+    "intro": "煎蛋与油炸食物都可在 fry 范围内，a frying pan、deep fryer 把器具讲具体。鱼苗 fry 另有来源，不编成厨艺故事。",
+    "forms": "frigere → frire → fryen → fry；fry + -er 保留 y；幼鱼词源另辨。\n\n烹饪动词 fry 经法语接拉丁 frigere；辅音字母加 y 在 fried 里变 i，frying 则保留 y。\n\n煎炸 fry 接法语 frire、拉丁 frigere，现代第三人称、食物复数 y 改 i 加 -es，读 /fraɪz/。鱼苗 fry 是另源，常用同形复数 fry。",
+    "branches": [
+      [
+        "煎炸动作与设备、食材名",
+        "fry · fryer"
+      ],
+      [
+        "fry → fried／frying：煎炸动作的两种形式",
+        "fry · fried · frying"
+      ],
+      [
+        "fry → fries：薯条与煎炸动作",
+        "fries"
+      ]
+    ],
+    "contrasts": "fry 不只等于深油炸；fry 鱼苗通常单复数同形，来源与烹饪义不同。",
+    "practice": "The cook fried potatoes in a fryer while the lesson’s next page discussed fish fry.\n\n厨师用炸锅炸土豆，而课本下一页谈的是鱼苗。",
+    "words": [
+      "fry",
+      "fryer",
+      "fried",
+      "frying",
+      "fries"
+    ],
+    "exclude": {
+      "stir-fry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4276",
+    "meaning": "政府性质，非政府与政府之间分两种关系",
+    "core": "GOVERNMENTAL：先认政府，再看 non- 和 inter- 如何限定",
+    "image": "governmental → nongovernmental、intergovernmental。",
+    "intro": "non- 把对象排除在政府类别之外，inter- 则把视线放在多个政府之间。两者不能都粗译成国际组织，也不能与非营利标准混为一谈。",
+    "forms": "government + -al → governmental；non- 非；inter- 之间。",
+    "branches": [
+      [
+        "政府、非政府与政府间关系",
+        "governmental · nongovernmental · intergovernmental"
+      ]
+    ],
+    "contrasts": "nongovernmental 说非政府，intergovernmental 说政府之间；nonprofit 说是否营利，分类标准不同。",
+    "practice": "The meeting brought governmental, intergovernmental and nongovernmental representatives together.\n\n会议汇集了政府、政府间机构和非政府团体的代表。",
+    "words": [
+      "governmental",
+      "nongovernmental",
+      "intergovernmental"
+    ],
+    "exclude": {
+      "non-governmental": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

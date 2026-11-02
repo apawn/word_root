@@ -1,0 +1,498 @@
+[
+  {
+    "word": "on",
+    "ipa": "英 /ɒn/；美 /ɑːn/、/ɔːn/",
+    "meaning": "在……上；处于运转或继续的状态；关于",
+    "sense": "画挂在墙上、杯子放在桌上，都有东西贴着或依托一个表面的感觉。设备接通、事情继续，也常用 on。",
+    "split": "古英语 on／an 的本族词延续，与德语 an 等同源。它很早就不只表示上方，不能把每种现代搭配都硬还原成桌面上的东西。",
+    "history": [
+      [
+        "古英语 on／an",
+        "在、向、依托某处等"
+      ],
+      [
+        "现代 on",
+        "表面关系；开启、继续；日期、主题等固定用法"
+      ]
+    ],
+    "explanation": "on the wall 在墙上，不要求位于墙顶；The light is on 灯开着；carry on 继续。on Monday、a book on birds 分别是日期和主题的习惯用法。",
+    "usage": "on the table；turn on；on Monday；a report on。",
+    "contrast": "on 常突出表面接触，above 只说位置更高，不要求碰到；on 和 in 在交通、媒介等搭配里还要看习惯。",
+    "examples": [
+      [
+        "There is a small clock on the wall.",
+        "墙上有一个小钟。"
+      ],
+      [
+        "Please leave the light on.",
+        "请让灯开着。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/on"
+    ]
+  },
+  {
+    "word": "online",
+    "ipa": "英 /ˌɒnˈlaɪn/；美 /ˌɑːnˈlaɪn/",
+    "meaning": "在线的；在网上",
+    "sense": "设备接到通信线路，后来最熟悉的线路就是网络：查资料、上课、付款都能 online。",
+    "split": "on + line，先有与线路、系统相连的技术用法，随计算机网络普及发展出今天的上网、网上办事义。",
+    "history": [
+      [
+        "on + line",
+        "接入线路、系统"
+      ],
+      [
+        "online 的现代网络用法",
+        "连接网络；通过网络进行"
+      ]
+    ],
+    "explanation": "online shopping 是网上购物；go online 是上网；an online course 是网课。既可修饰名词，也可直接跟动词说 do it online。",
+    "usage": "go online；available online；an online course。",
+    "contrast": "online 不保证实时同步：录播课程也可以是 online；live 强调直播或现场，offline 表离线、线下，要按语境分。",
+    "examples": [
+      [
+        "You can renew the ticket online.",
+        "你可以在网上续票。"
+      ],
+      [
+        "The course includes both online lessons and classroom practice.",
+        "课程既有网课，也有课堂练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/online#English"
+    ]
+  },
+  {
+    "word": "onto",
+    "ipa": "英 /ˈɒntə/、/ˈɒntu/；美 /ˈɑːntə/、/ˈɑːntu/",
+    "meaning": "到……上；朝向并到达某个表面或位置",
+    "sense": "猫从地板跳到桌面：on 更像拍下已经在上面的照片，onto 更容易让你看到移动过去的过程。",
+    "split": "on + to，参照 into 一类形式形成连写的介词。历史上的两个材料合为一个词，但今天不是所有相邻的 on to 都要合写。",
+    "history": [
+      [
+        "on + to",
+        "表面关系 + 朝向"
+      ],
+      [
+        "onto",
+        "移动到表面、位置；其他固定扩展"
+      ]
+    ],
+    "explanation": "jump onto the sofa 跳到沙发上；copy files onto a drive 把文件复制到一个盘上。be onto something 可说有了线索、想法有价值，是固定引申。",
+    "usage": "climb onto；step onto；copy onto。",
+    "contrast": "go on to explain 是接着解释，on 属于 go on，to 引出 explain；这里不能写成 go onto explain。",
+    "examples": [
+      [
+        "The cat jumped onto the kitchen table.",
+        "猫跳到了厨房桌上。"
+      ],
+      [
+        "She copied the photos onto a new drive.",
+        "她把照片复制到一个新硬盘上。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/onto"
+    ]
+  },
+  {
+    "word": "am",
+    "ipa": "强读 /æm/；弱读 /əm/、/m/",
+    "meaning": "是、处于〔be 与 I 搭配的现在式〕",
+    "sense": "I am ready 把“我”和“准备好”接起来；I am working 里，am 帮你把镜头对准正在进行的动作。",
+    "split": "古英语 eom／eam 经中古英语 am、em 演变而来，属于古老的“存在”动词材料；不是 a- 前缀加 m，也不是现代 be 改一个规则词尾。",
+    "history": [
+      [
+        "古英语 eom／eam → 中古英语 am／em",
+        "第一人称单数的“是”"
+      ],
+      [
+        "现代 am",
+        "be 这套动词里与 I 搭配的现在式"
+      ]
+    ],
+    "explanation": "I am a teacher 说身份；I am tired 说状态；I am waiting 构成进行时。常缩成 I’m；问句 Am I late? 把 am 提前。",
+    "usage": "I am；I’m；Am I ...?。",
+    "contrast": "am 用于 I 的现在式，不用于 he，也不在 can 后直接保留：I can be there，不能写 I can am there。",
+    "examples": [
+      [
+        "I am ready to leave.",
+        "我准备好出发了。"
+      ],
+      [
+        "Am I using the right form?",
+        "我用的形式对吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/am#English"
+    ]
+  },
+  {
+    "word": "is",
+    "ipa": "/ɪz/",
+    "meaning": "是、处于〔be 的第三人称单数现在式〕",
+    "sense": "The door is open 把门和开着的状态连起来；She is reading 中，is 则和 reading 一起构成正在读。",
+    "split": "从古英语 is 延续，远接古老的存在动词形式；与德语 ist、拉丁语 est 等同源。相似是共同历史，不是英语从这些现代词临时借来。",
+    "history": [
+      [
+        "古英语 is",
+        "第三人称单数现在式"
+      ],
+      [
+        "现代 is",
+        "用于 he、she、it 及单数名词等"
+      ]
+    ],
+    "explanation": "The train is late 说单数事物的状态；Is the train late? 变问句；is not 常缩成 isn’t。The work is finished 可表达被完成的状态或被动关系，需结合上下文。",
+    "usage": "he is；it is；is not；Is it ...?。",
+    "contrast": "is 不是任何中文“是”的必需译词：I like tea 不加 is；a red car 也不能在 red 前无故塞 is。",
+    "examples": [
+      [
+        "The room is quieter now.",
+        "房间现在安静些了。"
+      ],
+      [
+        "Is your brother coming with us?",
+        "你哥哥会和我们一起去吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/is#English"
+    ]
+  },
+  {
+    "word": "are",
+    "ipa": "强读 英 /ɑː/；美 /ɑːr/；弱读 英 /ə/；美 /ər/",
+    "meaning": "是、处于〔be 与 you、we、they 等搭配的现在式〕",
+    "sense": "You are ready 不管说一个你还是多个你，都用 are；We are ready 把一组人和准备好的状态接起来。",
+    "split": "中古英语 are／aren 与古英语复数形式有关，在多种方言形式竞争中成为现代常用式。它属于 be 的历史形式系统，不是单独的词根 ar 加 e。",
+    "history": [
+      [
+        "古英语相关复数形式 → 中古英语 are／aren",
+        "旧的存在动词变位形式"
+      ],
+      [
+        "现代 are",
+        "you 以及复数主语等的现在式"
+      ]
+    ],
+    "explanation": "you are 可缩成 you’re；There are two chairs 说有两把椅子；Are you ready? 是问句。you 指一个人也仍用 are。",
+    "usage": "you are；we are；they are；there are。",
+    "contrast": "you’re 是 you are；your 是你的。are 与表示面积单位“公亩”的名词 are 另有词源和读音，不要混在一起。",
+    "examples": [
+      [
+        "You are the first person to arrive.",
+        "你是第一个到的人。"
+      ],
+      [
+        "There are three messages for you.",
+        "有三条给你的留言。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/are",
+      "https://en.wiktionary.org/wiki/are#English"
+    ]
+  },
+  {
+    "word": "was",
+    "ipa": "强读 英 /wɒz/；美 /wʌz/、/wɑːz/；弱读 /wəz/",
+    "meaning": "曾是、当时处于〔be 的常用单数过去式〕",
+    "sense": "I am tired 是我现在累；I was tired 把同一状态放到过去某个时候。",
+    "split": "古英语 wæs 经中古英语 was 延续，来自 wes- 这支古老动词材料，与 be 的 b- 形式不同源头，后来在同一套动词里分工。",
+    "history": [
+      [
+        "古英语 wæs → 中古英语 was",
+        "过去的存在、状态形式"
+      ],
+      [
+        "现代 was",
+        "常用于 I、he、she、it 等的过去式"
+      ]
+    ],
+    "explanation": "I was at home 说过去在家；She was reading 构成过去进行时；The window was broken 可涉及被动或破损状态。不是所有过去时句子都要加 was。",
+    "usage": "I was；it was；was not／wasn’t。",
+    "contrast": "He went home 已有动词 went，不能写 He was went home；was 之后要按具体结构选择形容词、地点、分词等。",
+    "examples": [
+      [
+        "I was at the station when you called.",
+        "你打电话时，我在车站。"
+      ],
+      [
+        "The shop was closed yesterday.",
+        "商店昨天没开门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/was#English"
+    ]
+  },
+  {
+    "word": "were",
+    "ipa": "强读 英 /wɜː/；美 /wɜːr/；弱读 英 /wə/；美 /wər/",
+    "meaning": "曾是、当时处于；也用于部分非真实假设",
+    "sense": "We were late 是我们当时迟到了；If I were you 则不是说我过去真是你，而是假设换到你的位置。",
+    "split": "从古英语 wǣre、wǣron、wǣren 等相关过去式、虚拟式，经中古英语 were／weren 延续，与 was 属同一历史分支。",
+    "history": [
+      [
+        "古英语 wǣre／wǣron 等 → 中古英语 were／weren",
+        "旧的过去、假设形式"
+      ],
+      [
+        "现代 were",
+        "you、复数主语的过去式；部分非真实假设"
+      ]
+    ],
+    "explanation": "You were right 中 you 一个或多个都用 were；They were waiting 是过去进行时。If I were you 是常见正式假设表达，不可只记成“复数的 was”。",
+    "usage": "you were；we were；they were；if I were you。",
+    "contrast": "were 是动词形式；where 是哪里。we’re 是 we are 的缩写，拼写也不同。非真实假设的 were 不能一概套到所有带 if 的过去事件上。",
+    "examples": [
+      [
+        "We were halfway home when it started to rain.",
+        "开始下雨时，我们回家的路已经走了一半。"
+      ],
+      [
+        "If I were you, I would ask for a clearer explanation.",
+        "换作我，我会要求解释得更清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/were#English"
+    ]
+  },
+  {
+    "word": "being",
+    "ipa": "/ˈbiːɪŋ/",
+    "meaning": "处于、表现为〔be 的 -ing 形式〕；存在；生物、存在物",
+    "sense": "a human being 是一个活生生的人；He is being rude 是他眼下表现得粗鲁，把镜头放到此刻的行为上。",
+    "split": "be + -ing，中古英语已有名词“存在、状态”，后来也指存在的个体。现代同时用作动词的现在分词、动名词和相关名词。",
+    "history": [
+      [
+        "be + -ing",
+        "把存在、处于某状态作为过程或事情来表达"
+      ],
+      [
+        "being 的名词和动词用法",
+        "存在；存在物；处于、表现为"
+      ]
+    ],
+    "explanation": "being honest 诚实这件事；a living being 一个生命个体；The road is being repaired 表正在被修，不是道路在修理别的东西。",
+    "usage": "a human being；being honest；is being repaired。",
+    "contrast": "He is rude 常给总体性格判断，He is being rude 更容易指这次表现；不能据此把每个状态都改成进行式，如 I am knowing 不合通常用法。",
+    "examples": [
+      [
+        "Thank you for being honest with me.",
+        "谢谢你对我坦诚。"
+      ],
+      [
+        "The bridge is being repaired this week.",
+        "这座桥本周正在维修。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/being"
+    ]
+  },
+  {
+    "word": "maybe",
+    "ipa": "/ˈmeɪbi/",
+    "meaning": "也许；可能",
+    "sense": "还没把话说死，在整句话前留一点可能性：Maybe she is busy，也许她正忙。",
+    "split": "由中古英语 it may be 一类短语省略、合并而来，材料是 may + be；短语逐渐固定为一个副词。",
+    "history": [
+      [
+        "it may be／may be",
+        "它可能是、可能如此"
+      ],
+      [
+        "maybe",
+        "固定成表示可能性的副词"
+      ]
+    ],
+    "explanation": "Maybe tomorrow 也许明天；Maybe I’m wrong 也许我错了。也可在回答时说 Maybe，表示可能，但没有确定答应。",
+    "usage": "maybe later；Maybe you’re right。",
+    "contrast": "maybe 一个词是副词；may be 两个词里 be 仍是动词：She may be busy。不能写 She maybe busy 来替代它。",
+    "examples": [
+      [
+        "Maybe we should check the address again.",
+        "也许我们该再核对一下地址。"
+      ],
+      [
+        "The package may be delayed; maybe it will arrive tomorrow.",
+        "包裹可能延误了；也许明天会到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maybe#English"
+    ]
+  },
+  {
+    "word": "wannabe",
+    "ipa": "英 /ˈwɒnəbi/；美 /ˈwɑːnəbi/",
+    "meaning": "想成为某种人、模仿名人的人〔非正式，常含贬意〕",
+    "sense": "一身摇滚明星的打扮，却还没成名，旁人带点嘲笑地说 a rock star wannabe：看得出他很想成为那种人。",
+    "split": "把 want to be 的口语读法写成一个词：want to → wanna，再与 be 合在一起；二十世纪后期流行。",
+    "history": [
+      [
+        "want to be 的口语形式",
+        "想成为"
+      ],
+      [
+        "wannabe 作为名词及修饰语",
+        "想成为、模仿某类人物的人"
+      ]
+    ],
+    "explanation": "a celebrity wannabe 想当名人的人；a wannabe actor 可带轻视意味。描述自己的愿望通常直接用 want to be，不必给自己贴这个标签。",
+    "usage": "a rock star wannabe；a wannabe celebrity。",
+    "contrast": "aspiring actor 通常中性地说有志当演员的人；wannabe 常有“只是想装成、还没到那地步”的评价，不是所有追梦者的中性称呼。",
+    "examples": [
+      [
+        "The film follows a group of rock star wannabes.",
+        "电影讲述了一群想当摇滚明星的人的故事。"
+      ],
+      [
+        "Calling her a wannabe sounded unnecessarily dismissive.",
+        "叫她 wannabe，听起来实在有些轻视人。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/wannabe"
+    ]
+  },
+  {
+    "word": "not",
+    "ipa": "英 /nɒt/；美 /nɑːt/",
+    "meaning": "不；并非；没有〔否定〕",
+    "sense": "先有一个判断，再用 not 把它否掉：ready 准备好，not ready 没准备好。注意它到底否定哪一部分。",
+    "split": "中古英语 not 是 noht／naht 的弱读形式，较早材料有“一点也不、没有东西”的意思，远接古英语否定词和表示事物的 wiht；不是现代 no 后随意加 t。",
+    "history": [
+      [
+        "古英语 nāwiht 等 → 中古英语 noht／naht",
+        "没有任何东西；一点也不"
+      ],
+      [
+        "弱读、简化为 not",
+        "通用否定词"
+      ]
+    ],
+    "explanation": "is not、do not、cannot 是常见组合；I hope not 希望不是这样。Not all 是并非全部，不等于 none 一个也没有。",
+    "usage": "not ready；do not agree；not all。",
+    "contrast": "not 通常不直接放在名词前代替 no：no money 或 not much money；一般现在时否定普通动词常要 do，如 I do not know。",
+    "examples": [
+      [
+        "I do not agree with the last point.",
+        "我不同意最后一点。"
+      ],
+      [
+        "Not all the seats are taken.",
+        "并不是所有座位都有人占了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/not#English"
+    ]
+  },
+  {
+    "word": "no",
+    "ipa": "英 /nəʊ/；美 /noʊ/",
+    "meaning": "不、不是〔回答〕；没有、一个也没有〔限定名词〕",
+    "sense": "No 是直接把答案否掉；no tickets 是票的数量为零。相同读音在句子里承担两种常见任务。",
+    "split": "回答词 no 与古英语 nā／nō 等相连，较早有“不曾、从不”材料；名词前的 no 则接古英语 nān“没有一个”及 none 的历史形式。两路后来同形。",
+    "history": [
+      [
+        "古英语 nā／nō 与 nān 的相关历史",
+        "回答否定与没有一个的不同材料"
+      ],
+      [
+        "现代 no",
+        "否定回答；名词前表示没有"
+      ]
+    ],
+    "explanation": "No, thanks 不用了，谢谢；no water 没有水；no books 没有书。no longer 不再；no better 没有更好，属于固定比较用法。",
+    "usage": "No, thank you；no time；no longer。",
+    "contrast": "no + 名词：no information；not + 相应结构：not enough information。no 本身不等于 know 知道，虽然读音相同。",
+    "examples": [
+      [
+        "There is no milk left in the fridge.",
+        "冰箱里没牛奶了。"
+      ],
+      [
+        "No, I have not seen that message.",
+        "没有，我没看到那条消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/no#English"
+    ]
+  },
+  {
+    "word": "whatnot",
+    "ipa": "英 /ˈwɒtnɒt/；美 /ˈwʌtnɑːt/",
+    "meaning": "诸如此类的东西；其他杂七杂八的东西",
+    "sense": "列到“电线、旧充电器……”懒得再细数，补一句 and whatnot，就是“还有那些零零碎碎的”。",
+    "split": "what + not，早期与省略的 what may I not say 一类说法有关，带“还有什么不能列的”那种放开列举的感觉，后来固定指其他类似东西。",
+    "history": [
+      [
+        "what + not 的省略列举用法",
+        "还可以列出其他种种"
+      ],
+      [
+        "whatnot",
+        "其他杂项、诸如此类的东西"
+      ]
+    ],
+    "explanation": "常用在列举末尾 and whatnot，语气随意；正式清单宜把必要项目写清楚，不能只靠它告诉读者具体范围。",
+    "usage": "tools and whatnot；cables and whatnot。",
+    "contrast": "whatnot 不是疑问句 what not 的任意替身；and whatnot 约等于 and other similar things，而不是否定前面刚列的东西。",
+    "examples": [
+      [
+        "The drawer is full of cables, batteries and whatnot.",
+        "抽屉里塞满了电线、电池和各种零碎东西。"
+      ],
+      [
+        "We talked about work, travel and whatnot.",
+        "我们聊了工作、旅行之类的事。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/whatnot"
+    ]
+  },
+  {
+    "word": "notwithstanding",
+    "ipa": "英 /ˌnɒtwɪðˈstændɪŋ/；美 /ˌnɑːtwɪθˈstændɪŋ/，亦有 /ð/ 读法",
+    "meaning": "尽管；不受……妨碍〔较正式的介词用法〕",
+    "sense": "前面确实有一块绊脚石，但它最终没有挡住事情发生：有困难，仍然往下走。",
+    "split": "not + withstanding，withstand 里 with- 保留“对抗”，standing 接 stand。中古英语仿中世纪拉丁 non obstante“没有挡住”一类结构形成。",
+    "history": [
+      [
+        "not + withstanding；对应 non obstante",
+        "不构成阻碍"
+      ],
+      [
+        "notwithstanding 介词用法",
+        "尽管存在某个情况"
+      ]
+    ],
+    "explanation": "notwithstanding the delay 尽管有所延误；也可后置：the delay notwithstanding。常见于正式说明，这里先掌握后接名词的用法。",
+    "usage": "notwithstanding the difficulties；the weather notwithstanding。",
+    "contrast": "notwithstanding 不是 not with + standing“没有和站立”；despite 在日常表达中通常更轻便。它引出不利因素，不是否认那个因素存在。",
+    "examples": [
+      [
+        "Notwithstanding the delay, the meeting ended on time.",
+        "尽管有所延误，会议仍按时结束了。"
+      ],
+      [
+        "The bad weather notwithstanding, the visitors enjoyed the trip.",
+        "尽管天气不好，游客们还是很享受这次旅行。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/notwithstanding"
+    ]
+  }
+]

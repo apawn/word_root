@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B3516",
+    "meaning": "擦、揉及摩擦；擦除材料到橡胶",
+    "core": "RUB：表面贴着动，能搓热、擦掉，也能显出纹路",
+    "image": "rub → rubbing 擦揉、拓片；rubber 擦除物 → 橡胶及制品，比赛同形词另源。",
+    "intro": "rubber 的材料义有实在用途来路，不必死背橡胶和擦为什么同族。rubbing 的拓片也把纸上擦、底纹显的过程讲清。",
+    "forms": "rubben → rub；rub + -ing/-er 双写 b；比赛 rubber 更早来源不明。\n\nrub 的更远来源未定，现代 rubbed 双写 b 加完整 -ed；rub off、rub it in、rub someone the wrong way 等按完整搭配理解。",
+    "branches": [
+      [
+        "擦揉动作与拓片",
+        "rub · rubbing"
+      ],
+      [
+        "擦除物和材料",
+        "rubber"
+      ],
+      [
+        "rub：来回摩擦、擦掉与影响",
+        "rub · rubs · rubbed"
+      ]
+    ],
+    "contrasts": "rub/wipe/scrub 摩擦、擦拭和用力刷洗；rubber/eraser 地区用法；比赛 rubber 不硬套橡胶。",
+    "practice": "She rubbed the paper with a crayon to make a rubbing, then used a rubber on a stray pencil mark.\n\n她用蜡笔在纸上擦出拓印，再用橡皮擦掉一处多余的铅笔印。",
+    "words": [
+      "rub",
+      "rubbing",
+      "rubber",
+      "rubs",
+      "rubbed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3980",
+    "meaning": "抓附着攀爬，及数量、地位的上升",
+    "core": "CLIMB：有支点地攀上去，数值也能往上走",
+    "image": "climb → climber 人、植物 → climbing 活动、攀缘性质。",
+    "intro": "把人攀岩、藤爬墙和价格上涨放在一起。climb 的 b 在这些常用形式中都不读，方向却不永远只能向上。",
+    "forms": "climban → climb；climb + -er/-ing，b 不读。\n\nclamber 可能接 climb、旧过去式 clamb 的反复动作形式，也有北欧同族材料分析；保留路线不确定性，现代动作常手脚并用、跨越障碍。\n\nclimb 承古英语 climban 等攀爬名，古时过去变化较复杂，后来常用规则 -ed。现代字母 b 常不发音，climbed 读 /klaɪmd/。",
+    "branches": [
+      [
+        "基本攀爬、执行者与活动",
+        "climb · climber · climbing"
+      ],
+      [
+        "clamber 与 climb 的可能反复攀爬联系",
+        "climb · clamber · clambers · clambered · clambering"
+      ],
+      [
+        "climb → climbed：攀爬、上升与过去形式",
+        "climbed"
+      ]
+    ],
+    "contrasts": "climb down 可以向下；climber 可是植物；social climber 不只是中性努力向上。",
+    "practice": "The climber watched a climbing rose while climbing the garden steps.\n\n那位攀登者走上花园台阶时，看着一株攀缘蔷薇。",
+    "words": [
+      "climb",
+      "climber",
+      "climbing",
+      "clamber",
+      "clambers",
+      "clambered",
+      "clambering",
+      "climbed"
+    ],
+    "exclude": {
+      "anti-climb": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2679",
+    "meaning": "花和开花；花的环境、季节、植物种类命名",
+    "core": "FLOWER：先看花，再看前面限定季节、地点或植物",
+    "image": "flower → flowery；May/elder/sun/wild/wall/bell/corn + flower 选不同命名点。",
+    "intro": "多数复合名能抓直观画面，但植物俗名不保证一名一物。elderflower 的 elder 是接骨木，不是更年长的；wallflower 还可借名形容社交中不显眼的人。",
+    "forms": "法语 flor 等 → flower；flower + -y；May/elder/sun/wild/wall/bell/corn + flower。\n\n用途名不限制只能种开花植物。\n\n与 flower 比较花卉，不从拉丁 flos 派生。lilac 经法语等接土耳其 leylak 植物名，较远来源有争论；植物名再借给花色、香气。",
+    "branches": [
+      [
+        "基本花及样子",
+        "flower · flowery"
+      ],
+      [
+        "季节、种类与环境花名",
+        "mayflower · elderflower · sunflower · wildflower · wallflower · bellflower · cornflower"
+      ],
+      [
+        "flower + pot → flowerpot → flowerpots：花盆",
+        "flower · flowerpot · flowerpots"
+      ],
+      [
+        "lilac：另源的丁香花与浅紫色",
+        "lilac · lilacs"
+      ]
+    ],
+    "contrasts": "elderflower/elderberry 花与果；mayflower 地区俗名需辨种；wallflower 的人物比喻别只按花盆猜。",
+    "practice": "Wildflowers grew beside the elderflower bushes.\n\n接骨木花丛旁长着野花。",
+    "words": [
+      "flower",
+      "flowery",
+      "mayflower",
+      "elderflower",
+      "sunflower",
+      "wildflower",
+      "wallflower",
+      "bellflower",
+      "cornflower",
+      "flowerpot",
+      "flowerpots",
+      "lilac",
+      "lilacs"
+    ],
+    "exclude": {
+      "flower-strewn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3334",
+    "meaning": "准备办事的装备，再到机械传动和适配",
+    "core": "GEAR：一套办事家伙什，机器里也有一套传动装置",
+    "image": "gear 装备、齿轮、挡位 → headgear 头部装备；gearbox 齿轮箱；switchgear 开关设备。",
+    "intro": "装备义更宽、更早。不要拿最熟的齿轮去硬解释头盔、露营器材，先看组合选装备还是机械那支。",
+    "forms": "gervi → gere → gear；head + gear；gear + box；switch + gear。\n\ngear 远接古北欧或古英语装备、准备材料，后来用于机械齿轮、传动装置。现代复数常说齿轮、挡位，一般装备的 gear 则通常不可数。",
+    "branches": [
+      [
+        "装备及头戴物",
+        "gear · headgear"
+      ],
+      [
+        "机械和电气设备",
+        "gearbox · switchgear"
+      ],
+      [
+        "装备 → gear → gears：齿轮、挡位",
+        "gears"
+      ]
+    ],
+    "contrasts": "gear 装备义通常不可数；headgear 不一定帽子；gear up/be geared to 准备与针对、适配。",
+    "practice": "The camping gear included protective headgear.\n\n露营装备里包括防护头具。",
+    "words": [
+      "gear",
+      "headgear",
+      "gearbox",
+      "switchgear",
+      "gears"
+    ],
+    "exclude": {}
+  }
+]

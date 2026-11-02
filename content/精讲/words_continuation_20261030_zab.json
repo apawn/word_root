@@ -1,0 +1,512 @@
+[
+  {
+    "word": "clay",
+    "ipa": "/kleɪ/",
+    "meaning": "黏土、陶土",
+    "sense": "一团细细的土，加水后能捏、能塑形，干了或烧过以后又能变硬：这是 clay 最直接的画面。",
+    "split": "继承古英语 clæg 黏土，较早日耳曼重构形式常写 *klaijaz。部分研究把它与拉丁 gluten 等黏性词比较，但这条远源联系有争议，不能画成 clay 由拉丁词借来。",
+    "history": [
+      [
+        "古英语 clæg → 中古英语、现代 clay",
+        "黏、细、可塑的土"
+      ],
+      [
+        "实物性质到现代用法",
+        "制陶、塑形材料；也比喻可被塑造的东西"
+      ]
+    ],
+    "explanation": "work with clay 用陶土做东西；a clay pot 陶罐；shape the clay 给黏土塑形。",
+    "usage": "wet clay 湿黏土；clay soil 黏土质土壤。feet of clay 比喻令人失望的根本弱点。",
+    "contrast": "clay 是材料，pottery 常说制陶工艺或陶器。clay 平常不可数；谈不同种类的黏土时，也可能见 clays。",
+    "examples": [
+      [
+        "She shaped the wet clay into a small bowl.",
+        "她把湿陶土捏成了一个小碗。"
+      ],
+      [
+        "The garden has heavy clay soil.",
+        "花园里的土壤黏重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clay#English",
+      "https://www.etymonline.com/word/clay"
+    ]
+  },
+  {
+    "word": "glued",
+    "ipa": "/ɡluːd/",
+    "meaning": "粘住、粘好了；紧盯、牢牢待在某处〔过去式、过去分词〕",
+    "sense": "两件东西用胶贴在一起，分不开；人的目光、身体仿佛也被粘住，便有 glued to the screen 等比喻。",
+    "split": "glue 去 e + -ed → glued，元音 /uː/ 后读 /d/。glue 名词经古法语 glu 接拉丁胶词；动词也有法语 gluer、gluier 的借入路线。",
+    "history": [
+      [
+        "拉丁 gluten 等 → 古法语 glu、gluer 等 → glue",
+        "胶；用胶粘接"
+      ],
+      [
+        "glue 去 e + -ed → glued",
+        "粘好了；比喻目光或人被吸住、移不开"
+      ]
+    ],
+    "explanation": "glued together 粘在一起；glued to the screen 盯着屏幕；eyes glued to something 目不转睛地看。",
+    "usage": "glued the handle back on 把把手重新粘上；remained glued to the chair 一直坐着不动。",
+    "contrast": "glued to the screen 通常是被内容吸引，不是身体真的涂了胶。实体粘接则要看 together、on 等动作结构。",
+    "examples": [
+      [
+        "He glued the broken pieces together.",
+        "他把碎片粘到了一起。"
+      ],
+      [
+        "The children sat with their eyes glued to the screen.",
+        "孩子们坐着，目不转睛地看屏幕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glued#English",
+      "https://www.etymonline.com/word/glue"
+    ]
+  },
+  {
+    "word": "gluing",
+    "ipa": "/ˈɡluːɪŋ/",
+    "meaning": "用胶粘接〔现在分词、动名词及相关名词〕",
+    "sense": "不是只把两块东西放在一起，而是涂上胶，让它们贴牢；gluing 说的就是这个操作过程。",
+    "split": "glue 去 e 加 -ing → gluing，u 保留，读 /uːɪŋ/。动词胶合经法语相关形式接胶的名称，远处连拉丁 gluten。",
+    "history": [
+      [
+        "法语 gluer、gluier 等 → 英语 glue",
+        "用胶接合；与胶名词历史相联"
+      ],
+      [
+        "glue 去 e 加 -ing → gluing",
+        "正在粘接；或粘接这项活动"
+      ]
+    ],
+    "explanation": "gluing the parts together 把部件粘合；gluing a picture onto a card 把图片粘到卡片上。",
+    "usage": "cutting and gluing 裁剪、粘贴；a gluing task 一项粘接工作。",
+    "contrast": "gluing 是动作过程；glued 常说已经粘好了。gluing 在一些数学语境也借用拼接的形象，本页先掌握日常胶合义。",
+    "examples": [
+      [
+        "She is gluing the pictures onto the poster.",
+        "她正在把图片粘到海报上。"
+      ],
+      [
+        "Let the pieces dry after gluing them together.",
+        "把碎片粘到一起后，让它们晾干。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gluing#English",
+      "https://www.etymonline.com/word/glue"
+    ]
+  },
+  {
+    "word": "peak",
+    "ipa": "/piːk/",
+    "meaning": "山峰、顶点、峰值；达到最高点的、最繁忙的；达到峰值",
+    "sense": "先看一座尖尖的山顶：往上爬，到这里已经最高。把高度换成数量、状态，就有 peak 的峰值、高峰意思。",
+    "split": "名词 peak 是尖处义 pike 的变体；山顶再扩为数量、状态的最高点。动词由这个名词发展为达到顶点；不把所有地名 Peak 的历史都归成同一来源。",
+    "history": [
+      [
+        "尖物义 pike → 变体 peak",
+        "尖处、突出的顶端 → 山峰"
+      ],
+      [
+        "最高处的空间形象 → 数量、活动的 peak",
+        "峰值、高峰；动词达到最高点"
+      ]
+    ],
+    "explanation": "a mountain peak 山峰；at its peak 处于巅峰；peak hours 高峰时段；sales peak 销量达到最高点。",
+    "usage": "reach a peak 达到峰值；peak performance 最佳表现。",
+    "contrast": "peak 指最高点或高峰；peek 是偷看、一瞥；pique 另有激起兴趣、使恼火等义。三者可能同音，拼写与搭配决定意思。",
+    "examples": [
+      [
+        "Snow covered the mountain peak.",
+        "积雪覆盖了山峰。"
+      ],
+      [
+        "Demand tends to peak in the summer.",
+        "需求往往在夏季达到最高点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peak#English",
+      "https://www.etymonline.com/word/peak"
+    ]
+  },
+  {
+    "word": "peaks",
+    "ipa": "/piːks/",
+    "meaning": "山峰、峰值〔复数〕；达到顶点〔第三人称单数〕",
+    "sense": "一条山脉可以不止一个尖顶，一条曲线也可能反复上升到几个高点，这些都是 peaks。动词则说某项数量何时升到最高。",
+    "split": "peak + -s，/k/ 后读 /s/。peak 接尖处义 pike 的变体，先是尖顶、山峰，再扩到数量高点。",
+    "history": [
+      [
+        "pike 尖处的变体 → peak",
+        "突出的顶端 → 山峰、峰值"
+      ],
+      [
+        "peak + -s → peaks",
+        "多个山峰、峰值；某项数量达到最高"
+      ]
+    ],
+    "explanation": "snowy peaks 雪峰；peaks in demand 需求高峰；demand peaks at noon 需求中午达到高峰。",
+    "usage": "peaks and valleys 峰与谷，也比喻高低起伏；the highest peaks 最高的山峰。",
+    "contrast": "the peaks 是名词复数；the curve peaks 是动词三单。peaks in a graph 可以是多个局部高点，不一定全部等高。",
+    "examples": [
+      [
+        "The distant peaks were covered in cloud.",
+        "远处的山峰笼罩在云中。"
+      ],
+      [
+        "Traffic peaks around six in the evening.",
+        "车流量在傍晚六点左右达到高峰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peaks#English",
+      "https://www.etymonline.com/word/peak"
+    ]
+  },
+  {
+    "word": "peaked",
+    "ipa": "动词 /piːkt/；有尖顶的可读 /piːkt/、/ˈpiːkɪd/；憔悴义 /ˈpiːkɪd/",
+    "meaning": "达到顶点了；有尖顶、帽舌的；憔悴的、气色不好的",
+    "sense": "曲线爬到最高处，是动词 peaked；屋顶或帽子长出尖处，是形容词的一支。描写人气色差的 peaked，常多读一个音节，是另需认出的旧用法。",
+    "split": "动词 peak + -ed，/k/ 后读 /t/；尖顶性质也可由 peak 加形容词 ed 理解。憔悴义接旧动词 peak 看起来瘦弱，其与尖处、消瘦的联系只有推测，不作确定的一条演化。",
+    "history": [
+      [
+        "peak 尖顶、最高点 → peaked 的动词与尖顶形容词",
+        "达到峰值；具有尖顶、帽舌等"
+      ],
+      [
+        "旧动词 peak 瘦弱、衰弱 → peaked /ˈpiːkɪd/",
+        "憔悴义；与尖处义的更远关系不确定"
+      ]
+    ],
+    "explanation": "sales peaked in June 销量六月达到峰值；a peaked cap 有帽舌的帽子；look peaked 看起来憔悴。",
+    "usage": "a peaked roof 尖顶屋顶；peaked at 100 在 100 达峰。",
+    "contrast": "图表中的 peaked 通常 /piːkt/；说人憔悴通常 /ˈpiːkɪd/。这个形容词用法不代表普通过去式 ed 都要读成一个音节。",
+    "examples": [
+      [
+        "Visitor numbers peaked in August.",
+        "游客人数在八月达到高峰。"
+      ],
+      [
+        "He wore a dark peaked cap.",
+        "他戴着一顶深色有帽舌的帽子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peaked#English",
+      "https://www.etymonline.com/word/peak"
+    ]
+  },
+  {
+    "word": "peaking",
+    "ipa": "/ˈpiːkɪŋ/",
+    "meaning": "达到高峰、达到最佳状态〔现在分词、动名词〕",
+    "sense": "曲线还在向上，正走到最高的那一段；运动员也可能在关键时点进入最佳状态，这些过程能用 peaking。",
+    "split": "peak + -ing，直接加 ing，不双写 k。peak 动词由尖顶、最高点名词发展。",
+    "history": [
+      [
+        "尖处义 pike 的变体 peak → peak 动词",
+        "最高点 → 达到最高点"
+      ],
+      [
+        "peak + -ing → peaking",
+        "正在达峰；也可谈最佳状态出现的时机"
+      ]
+    ],
+    "explanation": "peaking in summer 在夏季达峰；peaking at the right time 在合适时机达到最佳状态。",
+    "usage": "peaking demand 正在达峰的需求；demand is peaking 需求正在达到高峰。",
+    "contrast": "peaking 是达峰，peeking 是偷看。不是任意上升都能叫 peaking，它把注意放在最高点、最佳状态附近。",
+    "examples": [
+      [
+        "Demand is peaking earlier than expected this year.",
+        "今年需求达峰的时间比预期早。"
+      ],
+      [
+        "The athlete hopes to be peaking when the final begins.",
+        "这位运动员希望在决赛开始时进入最佳状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peaking#English",
+      "https://www.etymonline.com/word/peak"
+    ]
+  },
+  {
+    "word": "belongs",
+    "ipa": "英 /bɪˈlɒŋz/；美 /bɪˈlɔːŋz/",
+    "meaning": "属于；应在某处；有归属〔第三人称单数〕",
+    "sense": "一本书有它该放的架子，一个人有让自己感觉自在的群体：belongs 可以讲所有关系，也可以讲“放在这里才合适”。",
+    "split": "belong + -s，/ŋ/ 后读 /z/。中古英语 belongen 接 be- 与 longen 适合、与之有关等材料，更早关联古英语相应用法。",
+    "history": [
+      [
+        "中古英语 be- 与 longen → belong",
+        "与某处、某人有关，合适处在其中"
+      ],
+      [
+        "belong + -s → belongs",
+        "某物属于某人；某人、某物应在某处"
+      ]
+    ],
+    "explanation": "belongs to someone 属于某人；belongs here 应在这里；belongs with the other books 应和其他书放一起。",
+    "usage": "belongs in a museum 值得放到博物馆；belongs to a group 是某个团体的一员。",
+    "contrast": "belongs to 讲所属或群体；belongs on、in 等常讲应放的位置。一般不用 is belonged to 来说普通的属于关系。",
+    "examples": [
+      [
+        "This book belongs on the top shelf.",
+        "这本书应该放在最上层书架。"
+      ],
+      [
+        "The bicycle belongs to my sister.",
+        "这辆自行车是我姐姐的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/belongs#English",
+      "https://en.wiktionary.org/wiki/belong#English"
+    ]
+  },
+  {
+    "word": "burns",
+    "ipa": "英 /bɜːnz/；美 /bɜːrnz/",
+    "meaning": "燃烧；灼痛〔第三人称单数〕；烧伤、烫伤〔复数〕",
+    "sense": "火在消耗燃料，或高温让皮肤受到伤害，是这组 burns 的常用画面。它可以说东西烧着，也可以数几处灼伤。",
+    "split": "burn + -s，/n/ 后读 /z/。现代燃烧词受本族与北欧旧动词合流、音序调整等影响。苏格兰等语境里的 burn 小溪另接古英语水流词。",
+    "history": [
+      [
+        "本族与北欧旧燃烧形式 → 现代 burn",
+        "燃着、使燃烧；灼伤名词等扩展"
+      ],
+      [
+        "burn + -s → burns",
+        "某物在燃烧；多处烧伤、烫伤；同形水流词另有词史"
+      ]
+    ],
+    "explanation": "the fire burns 火在燃烧；burns brightly 烧得很旺；minor burns 轻度烧伤。",
+    "usage": "burns fuel 消耗燃料；a candle burns 蜡烛燃烧。",
+    "contrast": "burns 是现在三单或名词复数；burned、burnt 才是常见过去形式。阅读苏格兰地理材料时，burns 也可能是小溪，不能照火来理解。",
+    "examples": [
+      [
+        "The candle burns for several hours.",
+        "这支蜡烛能燃烧好几个小时。"
+      ],
+      [
+        "The stove burns less fuel than the old one.",
+        "这个炉子比旧炉子消耗的燃料少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/burns#English",
+      "https://en.wiktionary.org/wiki/burn#English"
+    ]
+  },
+  {
+    "word": "celebrated",
+    "ipa": "英 /ˈselɪbreɪtɪd/；美 /ˈseləbreɪtɪd/",
+    "meaning": "庆祝、纪念了；著名的、备受赞誉的〔过去式、过去分词及形容词〕",
+    "sense": "大家聚起来纪念、赞颂，是 celebrated 的动作背景。一个人或作品被许多人赞颂，就成了“享有盛名的”。",
+    "split": "celebrate + -d，/t/ 后读 /ɪd/。celebrate 接拉丁 celebrare、celebratus，与 celeber 人多、著名等材料相连。",
+    "history": [
+      [
+        "拉丁 celeber、celebrare、celebratus → 英语 celebrate",
+        "聚集、公开纪念、赞颂 → 庆祝"
+      ],
+      [
+        "celebrate 去 e + -ed → celebrated",
+        "庆祝、纪念了；也形容广受赞誉"
+      ]
+    ],
+    "explanation": "celebrated a birthday 庆祝了生日；a celebrated writer 著名作家；celebrated for something 因某事享有盛名。",
+    "usage": "a celebrated performance 备受称赞的演出；celebrated with friends 和朋友一起庆祝。",
+    "contrast": "celebrated 作形容词通常带赞誉，比单纯 famous 更有受到推崇的意味。celebrity 则是名人这个名词。",
+    "examples": [
+      [
+        "We celebrated the end of the project with a picnic.",
+        "我们用一次野餐庆祝项目结束。"
+      ],
+      [
+        "The museum holds works by several celebrated artists.",
+        "博物馆收藏了几位著名艺术家的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebrated#English",
+      "https://en.wiktionary.org/wiki/celebrate#English"
+    ]
+  },
+  {
+    "word": "counties",
+    "ipa": "/ˈkaʊntiz/",
+    "meaning": "县、郡等行政区〔复数〕",
+    "sense": "把一片地区划作一个管理单位，今天常见的名称之一就是 county；counties 是不止一个这样的行政区。不同国家的具体制度不一样。",
+    "split": "county 改 y 为 i 加 -es → counties。county 经盎格鲁法语、古法语 conté 等接拉丁 comitatus 伯爵管辖区，与 comes 伯爵相关。",
+    "history": [
+      [
+        "拉丁 comitatus → 法语 conté → 英语 county",
+        "伯爵辖地 → 延续为县、郡等行政区名称"
+      ],
+      [
+        "county → counties",
+        "多个相应行政区"
+      ]
+    ],
+    "explanation": "neighbouring counties 邻近的县、郡；rural counties 乡村地区的县；counties across the country 全国各县、郡等。",
+    "usage": "three counties 三个县、郡；county boundaries 县界，前置 county 常用单数。",
+    "contrast": "counties 是县、郡；countries 是国家。只多一个 r，所指数的地理单位却不同。现代 county 不要求仍由伯爵统治。",
+    "examples": [
+      [
+        "The river flows through three counties.",
+        "这条河流经三个县。"
+      ],
+      [
+        "Several neighbouring counties share the same transport service.",
+        "几个邻县共用同一套交通服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counties#English",
+      "https://en.wiktionary.org/wiki/county#English"
+    ]
+  },
+  {
+    "word": "indicates",
+    "ipa": "/ˈɪndɪkeɪts/",
+    "meaning": "表明、显示；指示、指出〔第三人称单数〕",
+    "sense": "一条线索、一根箭头把注意力指到某个结论或方向，是 indicates。它常是在给迹象，不一定已经把全部事实证明完。",
+    "split": "indicate + -s，/t/ 后读 /s/。indicate 有从 indication 逆构或借拉丁 indicatus 词干的分析，较早都接 indicare 指出及 in-、dicare 材料。",
+    "history": [
+      [
+        "拉丁 indicare、indicatus；indication 等 → indicate",
+        "指出、指明；英语构形与借入有不同分析"
+      ],
+      [
+        "indicate + -s → indicates",
+        "某物显示、表明、指示"
+      ]
+    ],
+    "explanation": "indicates that 表明……；indicates a change 显示变化；an arrow indicates the direction 箭头指方向。",
+    "usage": "evidence indicates 证据显示；the label indicates 标签注明。",
+    "contrast": "indicates 常给出迹象或提示；proves 明确说证明。说 evidence indicates 时，还要看迹象强弱和具体论证。",
+    "examples": [
+      [
+        "The arrow indicates the way to the exit.",
+        "箭头指向出口的方向。"
+      ],
+      [
+        "The survey indicates that more people are cycling to work.",
+        "调查显示，骑车上班的人更多了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indicates#English",
+      "https://www.etymonline.com/word/indicate"
+    ]
+  },
+  {
+    "word": "knocked",
+    "ipa": "英 /nɒkt/；美 /nɑːkt/",
+    "meaning": "敲、撞了；撞倒、使受到冲击〔过去式、过去分词〕",
+    "sense": "一下碰到、敲到，发出响声或让东西换了位置，就是 knocked 的实体画面；信心、计划被冲击，也会沿用这个动词。",
+    "split": "knock + -ed，/k/ 后读 /t/，开头 k 不发音。knock 继承古英语 cnocian、cnucian 等形式。",
+    "history": [
+      [
+        "古英语 cnocian、cnucian → knock",
+        "敲击、碰撞"
+      ],
+      [
+        "knock + -ed → knocked",
+        "敲击发生了；与 over、off 等表示造成的位置变化"
+      ]
+    ],
+    "explanation": "knocked on the door 敲了门；knocked over a cup 碰倒杯子；knocked off a shelf 从架子上碰落。",
+    "usage": "knocked his confidence 打击了他的信心；knocked the price down 压低了价格。",
+    "contrast": "knocked on 只说敲某表面；knocked over 说明东西倒了；knocked off 常说明从原位置掉下来。后面的小词决定结果。",
+    "examples": [
+      [
+        "She knocked on the door and waited.",
+        "她敲了敲门，然后等着。"
+      ],
+      [
+        "I accidentally knocked the cup off the table.",
+        "我不小心把杯子碰下了桌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knocked#English",
+      "https://en.wiktionary.org/wiki/knock#English"
+    ]
+  },
+  {
+    "word": "suggesting",
+    "ipa": "英 /səˈdʒestɪŋ/；美 /səɡˈdʒestɪŋ/，也读 /səˈdʒestɪŋ/",
+    "meaning": "建议、提议；暗示、使想到〔现在分词、动名词〕",
+    "sense": "把一个办法放到别人面前供考虑，是建议；把一条线索放到眼前，让人想到某个可能，是暗示。suggesting 说这样的提示正在发生。",
+    "split": "suggest + -ing，直接加 ing。suggest 借拉丁 suggerere 的分词 suggestus；sub- 在 g 前同化为 sug-，gerere 是带来。",
+    "history": [
+      [
+        "拉丁 sub- 与 gerere → suggerere、suggestus → suggest",
+        "带到下面、供上 → 提出想法、提示"
+      ],
+      [
+        "suggest + -ing → suggesting",
+        "正在建议；或某条线索正在使人想到"
+      ]
+    ],
+    "explanation": "suggesting a change 提议改变；suggesting that 暗示、建议说；Are you suggesting...? 你是在说……吗？",
+    "usage": "suggesting a visit to the museum 建议去博物馆；evidence suggesting a link 暗示存在联系的证据。",
+    "contrast": "suggest doing something 可接 ing 活动；一般不说 suggest someone to do 来表示建议某人做。suggesting 也不总是在给行动建议，可能是在暗示一种情况。",
+    "examples": [
+      [
+        "Are you suggesting that we start again?",
+        "你是建议我们重新开始吗？"
+      ],
+      [
+        "She kept suggesting new ways to organise the room.",
+        "她不断提出整理这个房间的新办法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suggesting#English",
+      "https://en.wiktionary.org/wiki/suggest#English"
+    ]
+  },
+  {
+    "word": "indication",
+    "ipa": "/ˌɪndɪˈkeɪʃən/",
+    "meaning": "迹象、表明；指示",
+    "sense": "一件事没有把全部真相说完，却像手指一样指向某个可能，这样的线索就是 an indication。",
+    "split": "现代可与 indicate + -ion 配套理解；真实历史接法语 indication 或拉丁 indicatio、indicationem，英语名词记录早于常用动词 indicate，不能只说英语先有动词再造名词。",
+    "history": [
+      [
+        "拉丁 indicare → indicatio、indicationem → 法语或直接借入英语",
+        "指出、指明 → 指示行为、迹象"
+      ],
+      [
+        "英语 indication；与后来的 indicate 配套",
+        "事情存在或可能发生的一条线索"
+      ]
+    ],
+    "explanation": "an indication of something 某事的迹象；an indication that 表明某事的迹象；give an indication of 大致表明。",
+    "usage": "a clear indication 明确迹象；no indication of change 没有变化的迹象。",
+    "contrast": "indication 给出线索，不一定是完整证明。indicate 是表明这个动作；indicator 则常是提供线索的指标、指示物。",
+    "examples": [
+      [
+        "The long queue was an indication of the café’s popularity.",
+        "长队表明这家咖啡馆很受欢迎。"
+      ],
+      [
+        "There was no indication that the meeting would be delayed.",
+        "没有迹象表明会议会推迟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indication#English",
+      "https://www.etymonline.com/word/indication"
+    ]
+  }
+]

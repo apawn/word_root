@@ -1,0 +1,670 @@
+[
+  {
+    "word": "abolish",
+    "ipa": "英 /əˈbɒlɪʃ/；美 /əˈbɑːlɪʃ/",
+    "meaning": "废除、废止",
+    "sense": "一条旧规矩原来大家都得遵守，现在正式把它撤掉，不再让它继续存在，这就是 abolish。",
+    "split": "经中古英语、法语 abolir 的 aboliss- 等形式接拉丁 abolere；末尾 -ish 属这段借入历史，不是 childish 那个表示有点像的后缀。",
+    "history": [
+      [
+        "拉丁 abolere → 法语 abolir、abolition",
+        "消除、废止；废止行为"
+      ],
+      [
+        "英语 abolish、abolition",
+        "废除；废除这一行为或状态"
+      ]
+    ],
+    "explanation": "abolish a law 废除法律；abolish a system 废除制度；abolish a practice 废止惯例。",
+    "usage": "abolish a law；abolish a tax。",
+    "contrast": "abolish 通常彻底废止制度、规定等；suspend 是暂时停止，之后可能恢复。",
+    "examples": [
+      [
+        "The new law abolished the outdated restriction.",
+        "新法律废除了那条过时的限制。"
+      ],
+      [
+        "The school decided to abolish the ranking system.",
+        "学校决定废除排名制度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/abolish#English"
+    ]
+  },
+  {
+    "word": "abolition",
+    "ipa": "英 /ˌæbəˈlɪʃən/；美 /ˌæbəˈlɪʃən/",
+    "meaning": "废除、废止；废奴",
+    "sense": "abolish 是把制度撤掉的动作，abolition 则把废除这件事作为名词来谈。历史文章里不带具体宾语时，常要看是否在说废奴。",
+    "split": "经法语 abolition 接拉丁 abolitio、abolition-。与 abolish 同族，但不是把完整 abolish 后面机械拼成 abolishtion；借入的词形不同。",
+    "history": [
+      [
+        "拉丁 abolere → 法语 abolir、abolition",
+        "消除、废止；废止行为"
+      ],
+      [
+        "英语 abolish、abolition",
+        "废除；废除这一行为或状态"
+      ]
+    ],
+    "explanation": "the abolition of slavery 废除奴隶制；campaign for the abolition of 为废除……而奔走。",
+    "usage": "the abolition of；support abolition。",
+    "contrast": "abolition 是废除本身；abolitionism 是废除某种制度、尤其奴隶制的主张或运动，不能只因都译成废奴就忽略词性。",
+    "examples": [
+      [
+        "They campaigned for the abolition of the death penalty.",
+        "他们为废除死刑而奔走。"
+      ],
+      [
+        "The chapter examines the abolition of slavery.",
+        "这一章考察奴隶制的废除。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/abolition#English",
+      "https://www.etymonline.com/word/-tion"
+    ]
+  },
+  {
+    "word": "subduction",
+    "ipa": "/səbˈdʌkʃən/",
+    "meaning": "俯冲；一个板块进入另一个板块下方的过程",
+    "sense": "两块缓慢相向移动的板块遇到一起，其中一块斜着进入另一块下面，向地幔下降，这个过程叫 subduction。",
+    "split": "接拉丁 subductio，与 subducere 从下方拉、移走的材料相联：sub- 下方 + ducere 引、带；duct- 是相应变化词干，再有名词尾。",
+    "history": [
+      [
+        "拉丁 sub- + ducere → subducere、subductio",
+        "从下方拉、移走等动作材料"
+      ],
+      [
+        "地质英语 subduction",
+        "板块在汇聚处进入另一板块下方"
+      ]
+    ],
+    "explanation": "a subduction zone 俯冲带；plate subduction 板块俯冲。地质义不能只译成一般的减少。",
+    "usage": "a subduction zone；plate subduction。",
+    "contrast": "subduction 是板块进入另一个下方；subtraction 是数学相减。二者都可能看见 sub-，动作词根却不同。",
+    "examples": [
+      [
+        "The diagram shows subduction beneath the continent.",
+        "示意图展示了大陆下方的板块俯冲。"
+      ],
+      [
+        "Scientists study earthquakes along the subduction zone.",
+        "科学家研究这条俯冲带沿线的地震。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subduction#English",
+      "https://www.usgs.gov/special-topics/subduction-zone-science/science/introduction-subduction-zones-amazing-events"
+    ]
+  },
+  {
+    "word": "excessive",
+    "ipa": "/ɪkˈsesɪv/",
+    "meaning": "过量的；过度的",
+    "sense": "不是单纯很多，而是超过合适、必要或允许的程度，多得成了问题，这才叫 excessive。",
+    "split": "经法语 excessif 接中世纪拉丁 excessivus，现代对应 excess 过量 + -ive；历史与超出、越过界限的材料相联。",
+    "history": [
+      [
+        "excess；法语 excessif、拉丁 excessivus 等",
+        "超出界限、过量的相关材料"
+      ],
+      [
+        "英语 excessive",
+        "超过合适程度的"
+      ]
+    ],
+    "explanation": "excessive noise 过大噪声；excessive costs 过高成本；excessive use 过度使用。",
+    "usage": "excessive pressure；excessive spending。",
+    "contrast": "large 是量大，excessive 还判断多得不合适；大项目的费用很高，也不一定就 excessive。",
+    "examples": [
+      [
+        "The machine stopped because of excessive heat.",
+        "机器因过热停了下来。"
+      ],
+      [
+        "The report criticized excessive spending on decoration.",
+        "报告批评在装修上花费过度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excessive#English",
+      "https://www.etymonline.com/word/-ive"
+    ]
+  },
+  {
+    "word": "cumulative",
+    "ipa": "/ˈkjuːmjələtɪv/",
+    "meaning": "逐渐累积的；累计的",
+    "sense": "今天一点，明天一点，以前的没有清零，新的继续往上加，最终的效果或总数就是 cumulative。",
+    "split": "接拉丁 cumulare 堆积、cumulatus 等材料与 -ive；也可与英语 cumulate 对应。与 accumulate、accumulation 同族，但不是把 accumulation 直接换一段尾就能说明全部历史。",
+    "history": [
+      [
+        "拉丁 cumulus → cumulare、cumulatus",
+        "一堆 → 堆积起来"
+      ],
+      [
+        "英语 cumulative",
+        "由接连增加而形成、累计的"
+      ]
+    ],
+    "explanation": "a cumulative effect 累积效应；cumulative sales 累计销量；cumulative total 累计总数。",
+    "usage": "a cumulative effect；a cumulative total。",
+    "contrast": "cumulative 说历次加起来，annual 说每年的；annual sales 与 cumulative sales 的统计区间不同。",
+    "examples": [
+      [
+        "The cumulative effect of small delays was significant.",
+        "一次次小延误累积起来，影响很大。"
+      ],
+      [
+        "The chart shows cumulative sales since January.",
+        "图表显示了一月以来的累计销量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cumulative#English",
+      "https://www.etymonline.com/word/cumulative"
+    ]
+  },
+  {
+    "word": "degenerative",
+    "ipa": "/dɪˈdʒenərətɪv/",
+    "meaning": "退行性的；逐渐退化、恶化的",
+    "sense": "原有结构、功能随着过程慢慢变差，degenerative 常用来形容这种退化性质；在医学里常修饰 disease、condition。",
+    "split": "与 degenerate 退化的动词、形容词材料相联，加 -ive；现代对应词族关系，不必据此假定每个医学术语都是临时英语拼词。",
+    "history": [
+      [
+        "degenerate",
+        "退化、失去原有状态的材料"
+      ],
+      [
+        "degenerative",
+        "具有或引起退化性质的"
+      ]
+    ],
+    "explanation": "a degenerative disease 退行性疾病；degenerative changes 退行性变化。具体病程要看具体疾病，不能从后缀推定速度。",
+    "usage": "a degenerative condition；degenerative changes。",
+    "contrast": "degenerative 说明变化性质，infective 说明感染有关的致病作用；退化不等于感染。",
+    "examples": [
+      [
+        "The article explains the term degenerative disease.",
+        "文章解释了“退行性疾病”这个术语。"
+      ],
+      [
+        "The report described degenerative changes in the joint.",
+        "报告描述了关节的退行性变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/degenerative#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/degenerative"
+    ]
+  },
+  {
+    "word": "coerce",
+    "ipa": "英 /kəʊˈɜːs/；美 /koʊˈɜːrs/",
+    "meaning": "强迫；胁迫",
+    "sense": "对方本来不愿意，却被威胁、强力或压力逼着做，这叫 coerce。重点不是说服他想通，而是压着他不得不做。",
+    "split": "借拉丁 coercere，关联 co- 一起 + arcere 围住、限制的材料；从约束走到强迫。现代不能拆成 co + 一个独立英语 erce。",
+    "history": [
+      [
+        "拉丁 co- + arcere → coercere",
+        "一起收拢、围住、约束"
+      ],
+      [
+        "英语 coerce → coercive",
+        "强迫；带强制、胁迫性质的"
+      ]
+    ],
+    "explanation": "coerce someone into doing something 胁迫某人做某事；be coerced into 被迫……。",
+    "usage": "coerce someone into signing；coerce someone into agreeing。",
+    "contrast": "persuade 侧重说服，coerce 侧重强迫；同样得到了同意，不代表过程相同。",
+    "examples": [
+      [
+        "They tried to coerce him into signing the statement.",
+        "他们试图逼他签下声明。"
+      ],
+      [
+        "She said she had been coerced into accepting the deal.",
+        "她说自己是被迫接受这笔交易的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coerce#English"
+    ]
+  },
+  {
+    "word": "coercive",
+    "ipa": "英 /kəʊˈɜːsɪv/；美 /koʊˈɜːrsɪv/",
+    "meaning": "强制的；胁迫性的",
+    "sense": "不是只下了一个建议，而是用后果、惩罚或强力把人逼向某个选择；这种手段、权力可以说 coercive。",
+    "split": "对应 coerce 去 e 加 -ive → coercive，形容具有强迫性质或作用。",
+    "history": [
+      [
+        "拉丁 co- + arcere → coercere",
+        "一起收拢、围住、约束"
+      ],
+      [
+        "英语 coerce → coercive",
+        "强迫；带强制、胁迫性质的"
+      ]
+    ],
+    "explanation": "coercive measures 强制措施；coercive power 强制性权力；coercive tactics 胁迫手段。",
+    "usage": "coercive measures；coercive pressure。",
+    "contrast": "coercive 常突出逼迫，compulsory 常突出按规则必须做；要看措施实际怎样起作用，不只是换个正式说法。",
+    "examples": [
+      [
+        "The committee opposed the use of coercive tactics.",
+        "委员会反对使用胁迫手段。"
+      ],
+      [
+        "The essay examines the limits of coercive power.",
+        "文章探讨强制性权力的边界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coercive#English"
+    ]
+  },
+  {
+    "word": "vindicate",
+    "ipa": "/ˈvɪndɪkeɪt/",
+    "meaning": "证明无辜；证明判断、做法正确",
+    "sense": "别人说你错了、冤枉了你，后来证据站到了你这边，vindicate 就是替你洗清指责，或证明你当初判断对了。",
+    "split": "借拉丁 vindicatus，接 vindicare 主张权利、保护、申辩等材料。历史词族义广，现代 vindicate 不能直接按 vindictive 的报复来理解。",
+    "history": [
+      [
+        "拉丁 vindicare、vindicta 等",
+        "主张权利、保护、申辩、报复等相关意义材料"
+      ],
+      [
+        "英语 vindicate 与 vindictive",
+        "证明无辜、证明正确；另一支是爱报复的"
+      ]
+    ],
+    "explanation": "vindicate someone’s decision 证明某人的决定正确；be vindicated by evidence 得到证据支持、洗清指责。",
+    "usage": "vindicate a decision；vindicate someone’s position。",
+    "contrast": "vindicate 常是在受到质疑后得到证明；vindictive 是爱报复。相近词干走出了不同常用义。",
+    "examples": [
+      [
+        "The later results vindicated her decision to wait.",
+        "后来的结果证明她决定等待是正确的。"
+      ],
+      [
+        "New evidence vindicated the accused researcher.",
+        "新证据洗清了那位被指责的研究者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vindicate#English"
+    ]
+  },
+  {
+    "word": "vindictive",
+    "ipa": "/vɪnˈdɪktɪv/",
+    "meaning": "爱报复的；怀恨在心的",
+    "sense": "一点得罪也记很久，有机会就想让对方难受，vindictive 常在批评这种强烈的报复心。",
+    "split": "来自拉丁 vindicta 复仇等材料与 -ive；和 vindicate 同属较远历史词族，却不是“证明正确”的形容词。",
+    "history": [
+      [
+        "拉丁 vindicare、vindicta 等",
+        "主张权利、保护、申辩、报复等相关意义材料"
+      ],
+      [
+        "英语 vindicate 与 vindictive",
+        "证明无辜、证明正确；另一支是爱报复的"
+      ]
+    ],
+    "explanation": "a vindictive person 爱记仇、报复的人；vindictive behaviour 报复行为。",
+    "usage": "a vindictive attack；a vindictive response。",
+    "contrast": "vindictive 与 vengeful 都可说报复心；vindicate 的今天常用义是洗清指责、证明正确，不能望形乱译。",
+    "examples": [
+      [
+        "She described the dismissal as a vindictive act.",
+        "她认为这次解雇是一次报复行为。"
+      ],
+      [
+        "He became bitter and vindictive after the dispute.",
+        "争执后，他变得怨恨而爱报复。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vindictive#English"
+    ]
+  },
+  {
+    "word": "recessive",
+    "ipa": "/rɪˈsesɪv/",
+    "meaning": "隐性的〔遗传学〕；退缩、后退的〔较少用〕",
+    "sense": "在简单的显隐性遗传例子里，一种等位基因对应的性状被另一种掩住，没有表现出来；recessive 的常用科学义就是这种隐性关系。不是说它不存在。",
+    "split": "与拉丁 recedere 后退及其变化词干 recess- 相联，或经新拉丁 recessivus；-ive 构成形容词。退到后面的历史画面被用于遗传学命名，不代表基因真的往后走。",
+    "history": [
+      [
+        "拉丁 recedere → recess-、recessivus 等",
+        "后退、退居的材料"
+      ],
+      [
+        "遗传学 recessive",
+        "在相应显隐性关系中被掩盖的"
+      ]
+    ],
+    "explanation": "a recessive allele 隐性等位基因；a recessive trait 隐性性状。常见常染色体简单模型里通常需两个相应隐性拷贝才表现；具体遗传方式仍要看所讨论的情况。",
+    "usage": "a recessive allele；recessive inheritance。",
+    "contrast": "recessive 不等于罕见、较弱或有害；dominant 也不等于在人群中一定占多数。这些词说的是性状表达关系。",
+    "examples": [
+      [
+        "The lesson uses a simple example of a recessive trait.",
+        "这节课用一个简单例子讲隐性性状。"
+      ],
+      [
+        "The researchers studied the inheritance of a recessive allele.",
+        "研究者研究了一种隐性等位基因的遗传。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recessive#English",
+      "https://www.genome.gov/genetics-glossary/Recessive-Traits-Alleles"
+    ]
+  },
+  {
+    "word": "combat",
+    "ipa": "名词英 /ˈkɒmbæt/、美 /ˈkɑːmbæt/；动词也常同音",
+    "meaning": "战斗；对抗、打击",
+    "sense": "可以是真正交战，也可以把污染、欺诈当成要对抗的问题：不是只讨论它，而是主动采取措施去压制它。",
+    "split": "名词、动词经法语 combat、combattre 的材料进入英语；com- 一起与 battre 打相联。不是 comb 梳子 + at。",
+    "history": [
+      [
+        "法语 combattre，关联 com- 与 battre 打",
+        "交战、战斗的材料"
+      ],
+      [
+        "英语 combat → combative",
+        "战斗；打击问题；好斗、好争论的"
+      ]
+    ],
+    "explanation": "in combat 在战斗中；combat pollution 防治污染；combat fraud 打击欺诈。动词直接接宾语，不必加 against。",
+    "usage": "combat crime；combat pollution。",
+    "contrast": "combat 是对抗、采取措施，不保证已经打赢；eliminate 才明确强调消除。",
+    "examples": [
+      [
+        "The soldiers had been trained for combat.",
+        "士兵接受过作战训练。"
+      ],
+      [
+        "The city introduced new measures to combat air pollution.",
+        "这座城市推出新措施防治空气污染。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/combat#English",
+      "https://www.etymonline.com/word/combat"
+    ]
+  },
+  {
+    "word": "combative",
+    "ipa": "英 /ˈkɒmbətɪv/；美 /kəmˈbætɪv/",
+    "meaning": "好斗的；爱争辩的；斗志强的",
+    "sense": "别人说一句，他马上顶一句，总像准备迎战，这种态度叫 combative；未必真要动手，也可能是辩论中的强硬。",
+    "split": "combat + -ive；把战斗引申为倾向于交锋、争论的姿态。",
+    "history": [
+      [
+        "法语 combattre，关联 com- 与 battre 打",
+        "交战、战斗的材料"
+      ],
+      [
+        "英语 combat → combative",
+        "战斗；打击问题；好斗、好争论的"
+      ]
+    ],
+    "explanation": "a combative attitude 好斗的态度；a combative interview 交锋激烈的访谈。",
+    "usage": "a combative tone；a combative style。",
+    "contrast": "combative 是好交锋，competitive 是求胜、想做得比别人好；竞争心强不一定爱吵架。",
+    "examples": [
+      [
+        "He adopted a combative tone during the interview.",
+        "采访时，他的语气带着强烈的交锋意味。"
+      ],
+      [
+        "Her combative style divided the audience.",
+        "她强硬好辩的风格让观众评价不一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/combative#English"
+    ]
+  },
+  {
+    "word": "deductive",
+    "ipa": "/dɪˈdʌktɪv/",
+    "meaning": "演绎的；基于演绎推理的",
+    "sense": "先有一般规则，再看眼前情况符合什么条件，按规则推出结论，这是 deductive reasoning 的典型方向。",
+    "split": "与拉丁 deducere 引出、推出的词族相联；现代对应 deduct + -ive，推理义可与 deduce、deduction 一起记，不等于把金额扣掉的全部场景。",
+    "history": [
+      [
+        "拉丁 deducere，de- + ducere",
+        "引出、推出"
+      ],
+      [
+        "deduction、deductive 等推理用法",
+        "由前提依规则推出结论"
+      ]
+    ],
+    "explanation": "deductive reasoning 演绎推理；a deductive argument 演绎论证。结论靠不靠谱，还要看前提与推导是否成立。",
+    "usage": "deductive reasoning；a deductive argument。",
+    "contrast": "deductive 通常从前提按规则推出结论；inductive 常从观察归纳一般规律。演绎这个标签本身不保证前提真实。",
+    "examples": [
+      [
+        "The course introduces deductive reasoning through simple examples.",
+        "课程用简单例子介绍演绎推理。"
+      ],
+      [
+        "Her deductive argument relied on two stated assumptions.",
+        "她的演绎论证依赖两个明确说出的假设。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deductive#English"
+    ]
+  },
+  {
+    "word": "compressive",
+    "ipa": "/kəmˈpresɪv/",
+    "meaning": "压缩的；受压的；产生挤压作用的",
+    "sense": "从两端往里压，让东西承受挤压，这个压的方向就是 compressive 的核心，工程里常用来修饰力、应力、强度。",
+    "split": "compress 压缩 + -ive；compress 的历史接拉丁 com- 一起与 premere 压及 compress- 等变化材料。",
+    "history": [
+      [
+        "拉丁 com- + premere → compress- 等",
+        "一起压、压紧"
+      ],
+      [
+        "compress + -ive → compressive",
+        "与挤压、压缩作用有关的"
+      ]
+    ],
+    "explanation": "compressive force 压力；compressive stress 压应力；compressive strength 抗压强度。",
+    "usage": "compressive stress；compressive strength。",
+    "contrast": "compressive 是往里压；tensile 是拉伸的。材料抗压强，不代表抗拉也同样强。",
+    "examples": [
+      [
+        "The sample was tested under a compressive load.",
+        "样品在压缩载荷下接受测试。"
+      ],
+      [
+        "The report compares the compressive strength of the two materials.",
+        "报告比较两种材料的抗压强度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compressive#English"
+    ]
+  },
+  {
+    "word": "extractive",
+    "ipa": "/ɪkˈstræktɪv/",
+    "meaning": "提取的；采掘的；榨取性的",
+    "sense": "把东西从原来的地方拿出来，extractive 保留这个取出的画面。采矿是取资源；批评某种关系时，则可能说它只顾榨取价值。",
+    "split": "extract + -ive；历史接拉丁 ex- 向外 + trahere 拉及 extract- 变化词干。",
+    "history": [
+      [
+        "拉丁 ex- + trahere → extract-",
+        "向外拉、取出"
+      ],
+      [
+        "extractive",
+        "与提取、采掘有关；引申为榨取性的"
+      ]
+    ],
+    "explanation": "extractive industries 采掘业；an extractive process 提取过程。批评语境 an extractive model 常强调只取走价值、不充分回馈。",
+    "usage": "extractive industries；extractive practices。",
+    "contrast": "extractive 强调把资源、价值取出来；productive 强调生产。两词描述的角度不同，不能只当褒贬词机械互换。",
+    "examples": [
+      [
+        "Mining is a major extractive industry in the region.",
+        "采矿是该地区重要的采掘业。"
+      ],
+      [
+        "The author criticizes the platform’s extractive business model.",
+        "作者批评该平台榨取价值的商业模式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/extractive#English"
+    ]
+  },
+  {
+    "word": "interrogative",
+    "ipa": "英 /ˌɪntəˈrɒɡətɪv/；美 /ˌɪntəˈrɑːɡətɪv/",
+    "meaning": "疑问的；表示提问的；疑问词、疑问结构",
+    "sense": "把“他来了”换成“他来了吗”，句子转向提问。interrogative 在语法里给这种疑问形式贴标签，也可说带询问意味的口气。",
+    "split": "接晚期拉丁 interrogativus，与 interrogare 询问的材料相联；现代对应 interrogate 与 -ive。词尾变化后不是简单拼成 interrogateive。",
+    "history": [
+      [
+        "拉丁 interrogare、interrogativus",
+        "询问；用于提问的"
+      ],
+      [
+        "英语 interrogative",
+        "疑问形式；带询问意味的"
+      ]
+    ],
+    "explanation": "an interrogative sentence 疑问句；an interrogative pronoun 疑问代词；an interrogative tone 询问的口气。",
+    "usage": "an interrogative sentence；an interrogative pronoun。",
+    "contrast": "interrogative 说疑问形式或性质，interrogation 常是审问、详细盘问。问一句普通问题也能用疑问句，不等于在审讯。",
+    "examples": [
+      [
+        "The exercise asks students to change the sentence into the interrogative form.",
+        "练习让学生把句子改成疑问形式。"
+      ],
+      [
+        "She repeated his name in an interrogative tone.",
+        "她用询问的口气重复了他的名字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interrogative#English"
+    ]
+  },
+  {
+    "word": "infective",
+    "ipa": "/ɪnˈfektɪv/",
+    "meaning": "能引起感染的；具有感染作用的",
+    "sense": "重点是能让感染发生：病原体仍有这种作用时，可以说它 infective。常见于医学、实验报告，不是日常“笑声很有感染力”的首选。",
+    "split": "历史接拉丁 infectivus、inficere 染入、使受污染的材料；现代可与 infect + -ive 对应，但有借入词形的历史。",
+    "history": [
+      [
+        "拉丁 inficere、infectivus",
+        "染入、使受污染；具有相应作用"
+      ],
+      [
+        "医学英语 infective",
+        "能引起感染的"
+      ]
+    ],
+    "explanation": "an infective agent 能引起感染的因子；remain infective 保持感染能力。",
+    "usage": "an infective agent；remain infective。",
+    "contrast": "infective 与 infectious 在医学语境有重合；日常形容笑声、热情有感染力通常用 infectious，不随便替换成 infective。",
+    "examples": [
+      [
+        "The study examined how long the virus remained infective.",
+        "研究考察这种病毒能在多长时间内保持感染能力。"
+      ],
+      [
+        "The sample was tested for infective agents.",
+        "样本接受了感染因子检测。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/infective#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/infective"
+    ]
+  },
+  {
+    "word": "correlative",
+    "ipa": "英 /kəˈrelətɪv/；美 /kəˈrelətɪv/",
+    "meaning": "相互关联的；成对呼应的",
+    "sense": "两个部分不是孤零零各说各话，而是相互对应、一起起作用，这叫 correlative。语法里的 both…and… 就是一对呼应形式。",
+    "split": "可按 correlate + -ive 或 cor- 与 relative 的相应材料理解；历史上属于共同关联、相互对应的词族，别从后缀推导因果。",
+    "history": [
+      [
+        "correlate、relative 等关联材料",
+        "联系、对应"
+      ],
+      [
+        "correlative",
+        "相互关联、配对呼应的"
+      ]
+    ],
+    "explanation": "correlative conjunctions 呼应连词；a correlative relationship 相互关联的关系。这里先讲形容词，不另列连词本身为词条。",
+    "usage": "correlative conjunctions；correlative terms。",
+    "contrast": "correlative 是相互关联；causal 是因果的。一起变化不自动证明一个造成另一个。",
+    "examples": [
+      [
+        "The grammar chapter explains correlative conjunctions.",
+        "语法这一章解释成对呼应的连词。"
+      ],
+      [
+        "The study found a correlative relationship but did not establish causation.",
+        "研究发现了关联关系，但没有确定因果关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/correlative#English"
+    ]
+  },
+  {
+    "word": "descriptive",
+    "ipa": "/dɪˈskrɪptɪv/",
+    "meaning": "描述性的；描写生动的",
+    "sense": "告诉你它是什么样、发生了什么，是 descriptive 的基本方向；如果文字细节鲜明，还能说描写得很生动。",
+    "split": "与拉丁 describere 描写及 descript- 变化词干相联，再接 -ive；现代把 describe、description、descriptive 一起看，不把剩下的 descript 当作必须单背的常用动词。",
+    "history": [
+      [
+        "拉丁 describere → descript- 等",
+        "写下、描写的材料"
+      ],
+      [
+        "英语 descriptive",
+        "以描述为性质、用途；描写鲜明的"
+      ]
+    ],
+    "explanation": "a descriptive passage 描写段落；descriptive statistics 描述统计；descriptive grammar 描述实际用法的语法研究。",
+    "usage": "descriptive language；a descriptive account。",
+    "contrast": "descriptive 侧重描述，prescriptive 侧重规定应该怎样；predictive 侧重预测。三个形容词回答的问题不同。",
+    "examples": [
+      [
+        "The essay opens with a descriptive passage about the harbour.",
+        "文章开头描写了港口的景象。"
+      ],
+      [
+        "The report is descriptive and makes no forecast.",
+        "报告只作描述，没有作预测。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/descriptive#English"
+    ]
+  }
+]

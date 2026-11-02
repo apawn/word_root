@@ -1,0 +1,168 @@
+"""Common news vocabulary, promises, scouting and public decisions."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ return ['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+EXISTING_ROOT_ADDITIONS={
+ 'B2827':dict(words='coup coups'.split(),label='coup：另源的决定性一击',note='与 blow 的一击义作近义比较，不是现代 blow 派生。coup 经法语 colp、coup 接拉丁 colaphus、希腊 kolaphos 一击；政变义常缩自 coup d’état，成功的一招又是常用引申。'),
+ 'B2667':dict(words='drone drones droned droning'.split(),label='drone：雄蜂、持续嗡声与无人机',note='雄蜂名承古英语 dran 等；低沉持续声、相关动词可能有独立拟声形成，不能都写成现代雄蜂名逐步派生。无人机命名又是较晚技术用法，词形关联不等于只因嗡嗡声而得名的唯一证明。'),
+ 'B2741':dict(words='scout scouts scouted scouting'.split(),label='scout：从听取到侦察、寻找人才',note='与 listen 比较听取信息，不是现代 listen 派生。侦察 scout 接法语 escouter 听，上接拉丁 auscultare；具体英语动词亦有从旧警卫称呼形成的分析。另源的蔑视动词暂不展开。'),
+ 'C0751':dict(words='pledge pledges pledged pledging'.split(),label='pledge：另源的担保、郑重承诺',note='与 promise 比较承诺，不从拉丁 mittere 派生。pledge 经法语 plege 担保、保证物，较远可能接法兰克保证、负责材料；名词、动词英语形成各有借入线。'),
+ 'C0415':dict(words='referendum referendums referenda'.split(),label='referendum：交回大家决定的事项',note='接拉丁 referendum 应交回决定的事项，是 referre 相关动形词中性形式；re- 回、ferre 带。经法语或德语进入英语成为公投名称，复数 referendums、referenda 并存。'),
+ 'C1252':dict(words='asylum asylums'.split(),label='asylum：另源的不容侵入、庇护',note='与 safe、refuge 比较庇护，不从拉丁 salvus 派生。asylum 经拉丁接希腊 asylon、asylos 不受侵犯，a- 无 + syle 扣押权；保护、庇护所与历史收容机构义分别学习。'),
+ 'C0083':dict(words='artillery'.split(),label='artillery：战争器具到火炮、炮兵',note='经法语 artillerie、artillier 提供战争器具，远源有拉丁 ars 技艺、articulum 关节或法语 atillier 装备等分析，不能把 art 一支写成唯一已证实。现代范围收窄为火炮，也称相关兵种。'),
+}
+COUP=[['希腊 kolaphos 一击 → 拉丁 colaphus 等 → 法语 colp、coup','一击、打击'],['英语 coup：决定性行动、巧妙成功；政变常缩自 coup d’état','现代英语 p 通常不发音']]
+DRONE=[['古英语 dran 等雄蜂名；另有模仿持续声的材料','声音、动词可能独立形成，不强定一条英语派生线'],['现代 drone：雄蜂、嗡声、单调讲话、无人机等','无人机是较晚命名，不能只凭声音编唯一来源']]
+SCOUT=[['法语 escouter 听 ← 拉丁 auscultare 听取','英语旧警卫称呼也可能参与动词形成'],['侦察、搜集信息 → 侦察者；再寻找人才、地点','童军活动名称又接侦察、探索的角色']]
+PLEDGE=[['法语 plege 担保、保证物，较远可能接法兰克保证材料','不是现代 promise 的直接派生'],['英语 pledge：保证物、承诺；动词郑重承诺、作担保','旧名词与动词的不同义项不必同时进入英语']]
+REFERENDUM=[['拉丁 re- 回 + ferre 带 → referre 交回、提交','相关 referendum：应当交回考虑的事项'],['经法语或德语 → 英语 referendum 公投','把特定问题交给选民整体作决定']]
+ASYLUM=[['希腊 a- 无 + syle 扣押权 → asylos 不受侵犯','名词 asylon 庇护之所 → 拉丁 asylum'],['英语庇护所、保护 → 历史收容机构等','现代 seek asylum 常说寻求庇护，不是在找医院']]
+W('coup','/kuː/','政变；出色的一招、意外取得的成功',
+ '关键时刻突然打出决定性的一手，是理解 coup 的好画面。政治里常是政变，谈工作、宣传时又可夸一招漂亮的成功。',
+ '经法语 coup、colp 一击，接拉丁、希腊相应的一击材料；英语政变义常缩自 coup d’état。现代末尾 p 不发音，不能照字母读成 coop 鸡舍。',COUP,
+ 'a military coup 是军事政变；a publicity coup 是宣传上很成功的一招；具体是坏事还是被夸赞，要看对象。',
+ 'a military coup；a failed coup；a publicity coup。',
+ 'coup 读 /kuː/，coop 鸡舍读 /kuːp/；一次出色的商业 coup 不一定涉及推翻政府。',
+ ('The novel opens with news of a military coup.','小说以一场军事政变的消息开篇。'),('Securing the interview was a major publicity coup.','争取到那场采访是宣传上的一次重大成功。'),sources=S('coup','coup'))
+W('coups','/kuːz/','政变；出色的一招、成功行动〔复数〕',
+ '多次政变，或几次出人意料的成功，都可用 coups。复数多了 s，但原来的 p 仍不读。',
+ 'coup + -s，读 /z/，整个词 /kuːz/；不是按末尾书面 p 把后缀读成 /s/。',COUP+[['coup + -s → coups','p 仍不发音，/uː/ 后 -s 读 /z/']],
+ 'military coups 说政治事件；publicity coups 说一招招宣传成功，须保留搭配提供的语气。',
+ 'failed coups；military coups；publicity coups。',
+ 'coups 的字母 ps 不按普通 /ps/ 处理，法国借词发音已成为英语习惯；cups 杯子的 /kʌps/ 是另一个词。',
+ ('The book compares several failed coups.','书中比较了几次失败的政变。'),('The editor described the exclusive interviews as publicity coups.','编辑把几场独家采访称作宣传上的漂亮战果。'),sources=S('coups','coup'))
+W('drone','英 /drəʊn/；美 /droʊn/','无人机；雄蜂；低沉持续的嗡声；单调地讲',
+ '听到一种低低、持续不变的嗡声，是 a drone；人讲话没起伏、没完没了，也可以 drone on。今天新闻里 a drone 又最常指无人机。',
+ '雄蜂名承古英语 dran 等，可能拟声；嗡声、相关动词可能另有独立拟声形成。无人机是较晚技术命名，不把雄蜂、讲话、飞机全编成一个必然先后故事。',DRONE,
+ 'a camera drone 是航拍无人机；the drone of an engine 是引擎持续嗡声；drone on about something 是单调没完地说。',
+ 'a camera drone；a male bee called a drone；drone on；the drone of an engine。',
+ 'drone 说无人机时是设备名，drone on 则说人或声音单调持续；a drone overhead 先认物件，he drones on 先认动作。',
+ ('A drone filmed the coastline from above.','一架无人机从空中拍摄了海岸线。'),('Please do not drone on about the same point.','请别再围着同一个观点单调地讲个没完。'),sources=S('drone','drone'))
+W('drones','英 /drəʊnz/；美 /droʊnz/','无人机、雄蜂、嗡声〔复数〕；单调地讲〔第三人称单数〕',
+ '天空里几架无人机，是 drones；讲台上一个人平平地念很久，也是 he drones on。前者数物件，后者听语调。',
+ 'drone + -s，/n/ 后读 /z/；名词复数、动词三单同形，末尾 e 保留。',DRONE+[['drone + -s → drones','多个相应名词；或它嗡鸣、某人单调地说']],
+ 'camera drones 数航拍设备；worker bees and drones 对照工蜂、雄蜂；drones on 写单调说话。',
+ 'camera drones；male drones；drones on about details。',
+ 'drones 不必都是军事设备，也不必是在说声音；农业、摄影等上下文里常是无人机。',
+ ('The film crew used two drones to record the valley.','摄制组用了两架无人机拍摄山谷。'),('He drones on about details that nobody asked for.','他单调地唠叨着没人问起的细节。'),sources=S('drones','drone'))
+W('droned','英 /drəʊnd/；美 /droʊnd/','低沉嗡鸣了；单调地讲了',
+ '风扇低低地响了很久，或一个人没起伏地讲个不停，过去都可以用 droned。它是声音、讲话动词的过去形式，不是无人机的复数。',
+ 'drone 去末尾 e，加完整 -ed → droned，/n/ 后读 /d/；声音动词有自己的拟声形成线，不必经现代无人机名词才形成。',DRONE+[['drone 去 e + -ed → droned','过去嗡鸣、单调持续地说']],
+ 'droned in the background 是背景里持续低响；droned on for an hour 写单调讲了一小时。',
+ 'droned on；droned in the background；droned through the speech。',
+ 'droned 强调低沉、单调、持续，shouted 强调大声喊；都能发声，听觉印象却不同。',
+ ('The engine droned in the background.','引擎在背景里持续发出低沉嗡声。'),('He droned on for an hour without taking questions.','他单调地讲了一个小时，期间也不接受提问。'),sources=S('droned','drone'))
+W('droning','英 /ˈdrəʊnɪŋ/；美 /ˈdroʊnɪŋ/','正在低沉嗡鸣、单调地讲；单调持续的',
+ '声音一直维持同一个低音，像没有高低起伏的长线，就是 droning。拿来写人说话，通常有听得乏味的感觉。',
+ 'drone 去末尾 e，加完整 -ing → droning；过程形式也可作形容词，如 a droning voice。',DRONE+[['drone 去 e + -ing → droning','持续嗡鸣、讲话；或声音单调的性质']],
+ 'a droning engine 是低沉持续响的引擎；droning on about something 是围绕某事没完地讲。',
+ 'a droning voice；the droning of an engine；droning on。',
+ 'droning 不等于 quiet，声音可以相当响；重点是持续、单调，而非音量一定很小。',
+ ('The droning engine made conversation difficult.','引擎持续的嗡声让人难以交谈。'),('She was tired of him droning on about the meeting.','她听腻了他围着那场会议单调地唠叨。'),sources=S('droning','drone'))
+W('scout','/skaʊt/','侦察者；球探、星探；童军成员；查看、寻找',
+ '先去看一圈、听一听，再把情况带回来，是 scout 的好画面。替球队找有潜力的球员，也像到外面搜集人才线索。',
+ '侦察一支接法语 escouter 听取，上接拉丁 auscultare；具体英语动词也有从旧警卫称呼形成的分析。侦察、探索又扩到寻找地点、人才与童军角色。',SCOUT,
+ 'a talent scout 是星探、人才发掘者；scout for locations 是找合适地点；scout out a venue 是先去查看场地。',
+ 'a talent scout；a scout troop；scout for locations；scout out a place。',
+ 'scout 偏出去搜集情况、寻找合适对象，search 更广；童军 Scout 又是组织角色，不表示每个成员都是军事侦察兵。',
+ ('A talent scout noticed her at a local concert.','一位星探在当地音乐会上注意到了她。'),('The film crew went to scout for locations.','摄制组去寻找拍摄地点。'),sources=S('scout','scout'))
+W('scouts','/skaʊts/','侦察者、球探、星探；童军成员〔复数〕；查看寻找〔第三人称单数〕',
+ '几位球探站在场边观察，是 scouts；他替影片寻找地点，是 he scouts for locations。一个数人，一个说在做什么。',
+ 'scout + -s，/t/ 后读 /s/；人称名词复数与动词三单同形，组织名称、身份头衔按语境也可大写。',SCOUT+[['scout + -s → scouts','多个搜集信息、寻找人才的人；或某人查看']],
+ 'talent scouts 是人才发掘者；football scouts 是球探；Scouts 在组织语境常是童军成员。',
+ 'talent scouts；football scouts；scouts for new locations。',
+ 'scouts 找到潜力不表示已经正式录用；recruiters 更直接涉及招募，具体工作可能有重叠。',
+ ('Several scouts watched the young player closely.','几位球探密切观察着那位年轻球员。'),('She scouts for new filming locations in the city.','她在城里寻找新的拍摄地点。'),sources=S('scouts','scout'))
+W('scouted','/ˈskaʊtɪd/','查看寻找过；侦察过；被发掘了',
+ '剧组提前去看拍摄地点，是 scouted the area；年轻球员被球探注意到、发掘出来，是 was scouted。',
+ 'scout + 完整 -ed，/t/ 后读 /ɪd/，增加一个音节。过去式、过去分词，谁去找与谁被找到由句型决定。',SCOUT+[['scout + -ed → scouted','过去查看、寻找；或某人被发掘']],
+ 'scouted for a location 写找场地；was scouted by a club 写被俱乐部发掘。',
+ 'scouted the area；scouted for locations；was scouted at a match。',
+ 'was scouted 常只是被注意、发掘，不保证已经签合同；was signed 才更直接写签约结果。',
+ ('The director scouted several villages for the film.','导演为那部影片查看了几个村庄。'),('She was scouted by a club while still at school.','她还在上学时就被一家俱乐部发掘了。'),sources=S('scouted','scout'))
+W('scouting','/ˈskaʊtɪŋ/','侦察、寻找地点或人才；童军活动',
+ '在各处找合适拍摄地，或看比赛找好苗子，这种搜集情况的过程是 scouting。童军语境里，它也指相应活动与教育。',
+ 'scout + -ing；较早过程名词表示侦察，后来童军组织借用探索、侦察角色命名活动。不是英语里所有带 -ing 的词都只当现在进行时。',SCOUT+[['scout + -ing → scouting','查看、寻找活动；再有童军活动名称']],
+ 'location scouting 是勘景；talent scouting 是发掘人才；scouting activities 可在童军组织语境说探索、野外等活动。',
+ 'location scouting；talent scouting；scouting for a venue。',
+ 'scouting 可以是活动名词，They are scouting 才是具体进行句；Scouting 作组织运动名时常大写。',
+ ('The crew spent a week scouting locations.','摄制组花了一周寻找拍摄地点。'),('His job involves scouting young musicians.','他的工作包括发掘年轻音乐人才。'),sources=S('scouting','scout'))
+W('pledge','/pledʒ/','郑重承诺、保证；保证物；承诺做、捐出、担保',
+ '不只是随口说一句，而是把自己的话、信誉或某件东西放上去作保证，是 pledge 的核心。承诺捐款，是先郑重认下这份责任。',
+ '经法语 plege 担保、保证物，较远可能接法兰克保证、负责材料。英语动词也接法语 plegier；从保证物到郑重承诺，不把所有义的记录顺序简化成同时出现。',PLEDGE,
+ 'make a pledge 是作郑重承诺；pledge to do 是承诺做；pledge money to a charity 是认捐，实际支付可能稍后发生。',
+ 'a pledge of support；pledge to help；pledge money；keep a pledge。',
+ 'pledge 常比普通 promise 更郑重、公开；pledge a donation 是认捐，donate 描写实际捐出时更直接。',
+ ('They made a pledge to support the project.','他们郑重承诺支持这个项目。'),('Several businesses agreed to pledge money to the charity.','几家企业同意向那家慈善机构认捐。'),sources=S('pledge','pledge'))
+W('pledges','/ˈpledʒɪz/','郑重承诺、认捐款〔复数〕；承诺、担保〔第三人称单数〕',
+ '筹款时大家先承诺的金额，是 pledges；竞选者在台上郑重说会做某事，是 pledges to do it。',
+ 'pledge + -s，/dʒ/ 后后缀读 /ɪz/；保留基础词 e，不另加一个 e。',PLEDGE+[['pledge + -s → pledges','多个郑重承诺、认捐；或某人承诺']],
+ 'campaign pledges 是竞选承诺；donation pledges 是认捐；pledges support 是郑重保证支持。',
+ 'keep pledges；campaign pledges；pledges to help。',
+ 'pledges 数认下的责任、承诺，不保证都已兑现；payments 更明确说已经或将要支付的一笔笔款。',
+ ('The organisers received pledges from local businesses.','组织者收到了本地企业的认捐承诺。'),('In the speech, she pledges to improve the library.','演讲中，她承诺改善图书馆。'),sources=S('pledges','pledge'))
+W('pledged','/pledʒd/','郑重承诺了；认捐了；用作担保了',
+ '已经公开认下某件事，是 pledged；已经承诺拿出一笔钱，也叫 pledged，但钱未必已经转过去。',
+ 'pledge 去末尾 e，加完整 -ed → pledged，/dʒ/ 后读 /d/，不另加音节；过去式、过去分词。',PLEDGE+[['pledge 去 e + -ed → pledged','过去承诺；或已被拿来作保证']],
+ 'pledged to help 是承诺过帮助；pledged support 是保证支持；pledged funds 常指已经认捐的款项。',
+ 'pledged support；pledged to return；pledged money to the appeal。',
+ 'pledged his watch 作担保物和 promised to buy a watch 是不同事件；看宾语、to 结构，不只认中文保证。',
+ ('She pledged to return the following week.','她郑重承诺下周会回来。'),('The company pledged funds for the new reading room.','公司承诺为新阅览室提供资金。'),sources=S('pledged','pledge'))
+W('pledging','/ˈpledʒɪŋ/','正在郑重承诺、认捐、作担保',
+ '会上一个接一个站出来认捐，是 pledging；公开说自己会承担某件事，也是在把责任认到自己身上。',
+ 'pledge 去末尾 e，加完整 -ing → pledging；保留 dg 的 /dʒ/ 音，不因去掉 e 改成 /ɡ/。',PLEDGE+[['pledge 去 e + -ing → pledging','承诺、认捐、担保的过程']],
+ 'pledging support 是正在表达郑重支持；pledging money 是认捐活动，不直接说明支付步骤。',
+ 'pledging support；pledging funds；pledging to help。',
+ 'pledging 后接名词可说认捐某物，pledging to do 后接动作；pledging help 与 pledging to help 结构不同，意思可相近。',
+ ('Local groups are pledging support for the project.','本地团体正在郑重表示支持这个项目。'),('People began pledging money during the event.','活动期间，人们开始认捐。'),sources=S('pledging','pledge'))
+W('referendum','/ˌrefəˈrendəm/','公民投票；就特定议题进行的公投',
+ '把一个问题交回选民，让大家直接投票决定，是 referendum 的好画面。它通常问某个具体问题，不只是选谁来代表自己。',
+ '接拉丁 referendum 应当交回考虑的事项，是 referre 交回的相关动形词形式；re- 回 + ferre 带。经法语或德语借入，英语成了公投的名称。',REFERENDUM,
+ 'hold a referendum on something 是就某事举行公投；vote in a referendum 是参加公投。具体效力、议题随制度而异，这里掌握词义结构。',
+ 'hold a referendum；a referendum on the proposal；a national referendum。',
+ 'referendum 多是对议题作直接选择，election 多是选出担任职位、代表的人；vote 则能覆盖两类投票行为。',
+ ('The town held a referendum on the proposal.','镇上就那项提案举行了公投。'),('The documentary explains how a referendum differs from an election.','纪录片解释了公投与选举的区别。'),sources=S('referendum','referendum'))
+W('referendums','/ˌrefəˈrendəmz/','公民投票、公投〔referendum 的英语规则复数〕',
+ '不同议题、不同日期分别举行的几场公投，是 referendums。把它当已经进入英语的名词，直接加 -s 就能表示复数。',
+ 'referendum + -s，/m/ 后读 /z/；保留 -um。这是现代英语常用复数，不需要一见拉丁词尾就全部强制改成 -a。',REFERENDUM+[['referendum + -s → referendums','按英语规则形成公投复数']],
+ 'several referendums 数几场公投；national referendums 说明全国范围，具体投票资格、规则另由场景说明。',
+ 'local referendums；several referendums；the results of referendums。',
+ 'referendums 与 referenda 都可用作现代公投复数，不能简单把 -s 形式判为语法错误；一篇文章可保持同一习惯。',
+ ('The book compares referendums held in different decades.','书中比较了不同年代举行的公投。'),('The archive contains reports on several local referendums.','档案里保存着几场地方公投的报告。'),sources=S('referendums','referendum'))
+W('referenda','/ˌrefəˈrendə/','公民投票、公投〔referendum 的另一复数形式〕',
+ '看到末尾 -a，不必当新词重新背；它是 referendum 的一种复数写法。读文章时，把几场公投的整体意思先认出来。',
+ '沿用拉丁中性形式的 -um → -a，对应 referendum → referenda。严格回看拉丁原结构，是多个应提交的事项；现代英语已常用作公投复数。',REFERENDUM+[['referendum 的 -um → -a → referenda','现代英语中与 referendums 并用']],
+ 'several referenda 与 several referendums 都可以指几场公投；作复数时相应说 referenda were held。',
+ 'local referenda；national referenda；referenda were held。',
+ 'referenda 不是 referendum 的另一种单数；These referenda were... 与 This referendum was... 的数要匹配。',
+ ('Several referenda were held during that period.','那段时期举行了几场公投。'),('The study compares the turnout in two referenda.','研究比较了两场公投的投票参与率。'),sources=S('referenda','referendum'))
+W('asylum','/əˈsaɪləm/','庇护、保护；庇护所；收容机构、精神病院〔历史用法〕',
+ '外面有人追赶、迫害，进入一个不应再受侵扰的地方，是 asylum 更早的核心画面。新闻里 seek asylum 常说寻求庇护，不是在找一家医院。',
+ '经拉丁 asylum 接希腊 asylon 庇护之所、asylos 不受侵犯，a- 无 + syle 扣押权。保护、庇护所，再到收容机构的历史用法，各支按场景理解。',ASYLUM,
+ 'seek asylum 是寻求庇护，grant asylum 是给予庇护；an old asylum 在历史建筑、小说中可能是旧收容机构或精神病院。',
+ 'seek asylum；grant asylum；a place of asylum；an old asylum。',
+ 'asylum 在新闻中常是不可数的保护，在历史机构语境可数；不能只凭字典某条医院义就把 seek asylum 译成求住院。',
+ ('The family sought asylum after fleeing the conflict.','一家人在逃离冲突后寻求庇护。'),('The exhibition traces the history of an old asylum.','展览梳理了一所旧收容机构的历史。'),sources=S('asylum','asylum'))
+W('asylums','/əˈsaɪləmz/','庇护所；旧时收容机构、精神病院〔复数〕',
+ '历史资料里几处安置、收容人的机构，可能写 asylums；现代谈抽象的政治庇护，则通常不靠这个复数来数几份保护。',
+ 'asylum + -s，/m/ 后读 /z/；保留 -um，不强制套成一个拉丁变格。这里主要数具体场所、机构。',ASYLUM+[['asylum + -s → asylums','多个具体庇护所或历史收容机构']],
+ 'old asylums、Victorian asylums 多见于历史叙述；机构的实际功能要结合时代、限定词。',
+ 'old asylums；records from asylums；the history of asylums。',
+ 'asylums 是具体机构的复数，asylum seekers 是寻求庇护的人；不能把求庇护者一概理解成精神病院病人。',
+ ('The historian studied records from several old asylums.','历史学者研究了几所旧收容机构的档案。'),('Some former asylums have been converted into housing.','一些以前的收容机构已经改建成住宅。'),sources=S('asylums','asylum'))
+W('artillery','英 /ɑːˈtɪləri/；美 /ɑrˈtɪləri/','火炮、大炮〔统称〕；炮兵、炮兵部队',
+ '不像士兵手里的一把小枪，而是较重的火炮这一类，统称 artillery。按作用转指负责这些火炮的兵种，也叫 artillery。',
+ '经法语 artillerie，接 artillier 提供战争器具；远源有技艺、关节、装备等不同分析。较早可指多种发射器具，后来收窄到火炮，再命名相应兵种。',
+ [['法语 artillier 提供战争器具 → artillerie','远源有拉丁 ars、articulum 或法语 atillier 等分析，未统一'],['英语战争发射器具 → 火炮统称；再称相关部队','现代通常不可数，数一门可说 a piece of artillery']],
+ 'heavy artillery 是重炮；artillery fire 是炮火；an artillery unit 是炮兵单位。学习时先分武器统称与使用它的部队。',
+ 'heavy artillery；artillery fire；a piece of artillery；an artillery unit。',
+ 'artillery 通常不可数，数具体火炮用 guns、pieces of artillery；artillery units 是一支支部队，不是火炮数量。',
+ ('The museum displays a piece of nineteenth-century artillery.','博物馆展出了一门十九世纪的火炮。'),('The soldiers could hear artillery in the distance.','士兵们能听到远处的炮声。'),sources=S('artillery','artillery'))
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zie',ROOTS,WORDS)
+ extend_lessons()

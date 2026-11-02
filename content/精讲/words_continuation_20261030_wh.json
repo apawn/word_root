@@ -1,0 +1,342 @@
+[
+  {
+    "word": "watching",
+    "ipa": "英 /ˈwɒtʃɪŋ/；美 /ˈwɑːtʃɪŋ/",
+    "meaning": "正在看、观察、留意；watch 的 -ing 形式；观看这一活动",
+    "sense": "目光持续跟着人或事物的变化走，是 watching。看比赛、看人表演、留意锅里的水，都有持续关注的感觉。",
+    "split": "watch + -ing，原词 ch 发 /tʃ/，直接接 /ɪŋ/，不双写 h。watch 的动词继承古英语 wæċċan 等清醒、守望材料；这里讲观察动词。",
+    "history": [
+      [
+        "古英语清醒、守望词族 → watch",
+        "守望、留心看"
+      ],
+      [
+        "watch + -ing → watching",
+        "进行中的观看；观看活动"
+      ]
+    ],
+    "explanation": "watching TV 看电视；watching a match 看比赛；watching for ... 留意等待……；watching over ... 照看、守护……。",
+    "usage": "enjoy watching；was watching the door。",
+    "contrast": "watching 常带持续观察，looking at 强调把目光投向，seeing 强调看见。看电视通常说 watching TV，不必加 the；看这台电视机的外壳则是另一种具体对象。",
+    "examples": [
+      [
+        "We were watching the birds build a nest.",
+        "我们正在看鸟筑巢。"
+      ],
+      [
+        "She enjoys watching old films at the weekend.",
+        "她喜欢周末看老电影。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watching#English",
+      "https://en.wiktionary.org/wiki/watch#English"
+    ]
+  },
+  {
+    "word": "leaving",
+    "ipa": "/ˈliːvɪŋ/",
+    "meaning": "正在离开；留下；使处于某状态；leave 的 -ing 形式",
+    "sense": "自己走开，或把某个东西留在原处，都是 leave 的动词用法。leaving 可以说正在离开，也可以说明留下了什么后果。",
+    "split": "leave 去掉末尾不发音的 e，加 -ing，读音里的 /iːv/ 保留。离开、留下动词接古英语 lǣfan；假期、许可名词 leave 接另一古英语 lēaf，不合并来源。",
+    "history": [
+      [
+        "古英语 lǣfan → 动词 leave",
+        "留下、离开"
+      ],
+      [
+        "leave 去 e + -ing → leaving",
+        "进行中的离开、留下；相应动作"
+      ]
+    ],
+    "explanation": "leaving home 离家；leaving a message 留言；leaving the door open 让门开着；before leaving 离开前；leaving aside ... 暂且不论……。",
+    "usage": "thinking of leaving；leaving for London。",
+    "contrast": "leaving London 是离开伦敦，leaving for London 是动身去伦敦。leaving the lights on 说离开时让灯仍亮着，on 表保留的状态。",
+    "examples": [
+      [
+        "We are leaving for the station in ten minutes.",
+        "我们十分钟后动身去车站。"
+      ],
+      [
+        "Please check the windows before leaving the house.",
+        "离家前请检查窗户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leaving#English",
+      "https://en.wiktionary.org/wiki/leave#English"
+    ]
+  },
+  {
+    "word": "growing",
+    "ipa": "英 /ˈɡrəʊɪŋ/；美 /ˈɡroʊɪŋ/",
+    "meaning": "正在生长、增加；逐渐变得；不断增长的",
+    "sense": "从小到大、从少到多，或者一步步进入新状态，都能说 growing。a growing problem 是问题越来越大，不只是植物在长。",
+    "split": "grow + -ing，保留 ow，不双写 w。grow 接古英语 grōwan 生长；普通进行形式是 growing，过去式另用 grew，过去分词 grown。",
+    "history": [
+      [
+        "古英语 grōwan → grow",
+        "生长；逐渐增加、改变"
+      ],
+      [
+        "grow + -ing → growing",
+        "生长、增加中；逐渐变得；增长的"
+      ]
+    ],
+    "explanation": "growing flowers 种花、正在生长的花〔看结构〕；growing demand 不断增长的需求；growing older 渐渐年长；growing tired 逐渐疲惫。",
+    "usage": "a growing number of ...；is growing fast。",
+    "contrast": "is growing 强调正在发展，has grown 说已经长大或增长了。growing tomatoes 作动作时是种番茄；The tomatoes are growing 则明确说番茄正在生长。",
+    "examples": [
+      [
+        "There is growing interest in the local history project.",
+        "人们对这个地方历史项目的兴趣越来越浓。"
+      ],
+      [
+        "The children are growing more confident each week.",
+        "孩子们每周都变得更有信心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/growing#English",
+      "https://en.wiktionary.org/wiki/grow#English"
+    ]
+  },
+  {
+    "word": "starting",
+    "ipa": "英 /ˈstɑːtɪŋ/；美 /ˈstɑːrtɪŋ/",
+    "meaning": "正在开始、启动；开始时的；start 的 -ing 形式",
+    "sense": "事情刚从还没做跨到动手做，就是 starting。用它修饰 point、salary 等名词时，常标出开始时的位置或数值。",
+    "split": "start + -ing，直接拼接，不双写 t；原词末尾是 rt 两个辅音字母，不双写 t。start 接古英语 styrtan 突然跃起等材料。",
+    "history": [
+      [
+        "古英语 styrtan → 中古英语 sterten → start",
+        "突然跃起、冲出 → 开始、启动"
+      ],
+      [
+        "start + -ing → starting",
+        "开始中的动作；起始位置或条件"
+      ]
+    ],
+    "explanation": "starting now 从现在开始；starting point 起点；starting salary 起薪；starting to understand 开始理解；starting from ... 从……起。",
+    "usage": "starting a new job；the starting line。",
+    "contrast": "starting a car 是启动车，a starting point 是用作起点的位置或思路。starting 修饰名词时不一定说某个物体正在开始，它也可以指出起始阶段。",
+    "examples": [
+      [
+        "I am starting to understand how the pieces fit together.",
+        "我开始明白这些部分是怎样配合起来的了。"
+      ],
+      [
+        "This example is a useful starting point for the discussion.",
+        "这个例子很适合作为讨论的起点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starting#English",
+      "https://en.wiktionary.org/wiki/start#English"
+    ]
+  },
+  {
+    "word": "becoming",
+    "ipa": "/bɪˈkʌmɪŋ/",
+    "meaning": "正在成为、变得；合宜的、相衬的〔较正式〕；become 的 -ing 形式",
+    "sense": "人、事物一步步进入新状态，是 becoming；另一个较正式用法说衣着、举止与人相合，看起来合适。",
+    "split": "become 去掉不发音 e 加 -ing，不双写 m；come 变 coming 也同样。become 继承古英语 becuman，历史 be- + cuman，早有来到、发生、适合等义。",
+    "history": [
+      [
+        "古英语 be- + cuman → becuman → become",
+        "来到、适合等 → 进入某种状态、成为"
+      ],
+      [
+        "become 去 e + -ing → becoming",
+        "正在成为；另保留相衬、合宜的形容词用法"
+      ]
+    ],
+    "explanation": "becoming clear 逐渐清楚；becoming popular 越来越流行；becoming a habit 渐渐形成习惯；a becoming colour 较正式说衬人的颜色。",
+    "usage": "is becoming easier；becoming more common。",
+    "contrast": "being 常说处在某状态，becoming 强调转入、逐渐进入。He is being quiet 是他此刻很安静，He is becoming quiet 是他渐渐安静下来。",
+    "examples": [
+      [
+        "The instructions are becoming clearer with each example.",
+        "每看一个例子，这些说明就更容易理解一些。"
+      ],
+      [
+        "Working from the library is becoming a habit.",
+        "在图书馆工作正逐渐成为一种习惯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/becoming#English",
+      "https://en.wiktionary.org/wiki/become#English"
+    ]
+  },
+  {
+    "word": "workers",
+    "ipa": "英 /ˈwɜːkəz/；美 /ˈwɜːrkərz/",
+    "meaning": "劳动者、工作人员；工人；worker 的复数",
+    "sense": "从事某项工作的人是 workers。可以在工厂，也可以在办公室、医院或社区里，具体职业要看前面的修饰。",
+    "split": "worker + -s，词尾 /z/。worker 对应 work + -er 做事的人，接中古英语相应形式；work 的词族继承早期英语劳动、制作词。",
+    "history": [
+      [
+        "早期英语工作词族 → work；中古英语相应人物形式 → worker",
+        "工作 → 从事工作的人"
+      ],
+      [
+        "worker + -s → workers",
+        "多位劳动者、工作人员"
+      ]
+    ],
+    "explanation": "factory workers 工厂工人；office workers 办公室职员；health workers 医务、卫生工作者；social workers 社会工作者；seasonal workers 季节性工作人员。",
+    "usage": "workers at the site；workers in the industry。",
+    "contrast": "workers 强调做工作的人，employees 强调受雇关系。有些 workers 自雇或从事志愿工作；具体身份仍看上下文，不能只凭一个词断定雇佣安排。",
+    "examples": [
+      [
+        "The workers arrived early to set up the stage.",
+        "工作人员早早到场搭舞台。"
+      ],
+      [
+        "The café provides a quiet lunch spot for local office workers.",
+        "这家咖啡馆为附近的办公室职员提供了安静的午餐去处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workers#English",
+      "https://en.wiktionary.org/wiki/worker#English"
+    ]
+  },
+  {
+    "word": "boys",
+    "ipa": "/bɔɪz/",
+    "meaning": "男孩们；男儿、伙计们〔依语境〕；boy 的复数",
+    "sense": "最常见就是多个男孩；熟人之间说 the boys，也可能是在说一群男性朋友、同伴，年龄不一定都小。",
+    "split": "boy + -s；y 前是元音字母 o，直接加 s，不变成 boies。boy 接中古英语 boie、boye，更远来源有多种解释，未作确定古词拆分。",
+    "history": [
+      [
+        "中古英语 boie／boye → boy",
+        "男孩、年轻男性等用法，远源未定"
+      ],
+      [
+        "boy + -s → boys",
+        "多个男孩；依语境扩展的群体称呼"
+      ]
+    ],
+    "explanation": "two boys 两个男孩；boys and girls 男孩女孩；the boys in the team 队里的男孩、男队员；a night out with the boys 和男性朋友聚会的一晚。",
+    "usage": "the younger boys；a group of boys。",
+    "contrast": "boys 是复数，boy’s 常是一个男孩的，boys’ 是多个男孩的。称成年男性为 boys 时有熟悉、亲昵等语气，正式介绍身份时通常用 men。",
+    "examples": [
+      [
+        "The two boys carried the box together.",
+        "两个男孩一起抬了那个箱子。"
+      ],
+      [
+        "The boys’ coats were hanging by the door.",
+        "男孩们的外套挂在门边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boys#English",
+      "https://en.wiktionary.org/wiki/boy#English"
+    ]
+  },
+  {
+    "word": "fans",
+    "ipa": "/fænz/",
+    "meaning": "扇子、风扇；爱好者、支持者；扇动、煽动〔动词形式〕",
+    "sense": "扇具和爱好者有两条来源：前者是让空气流动的工具，后者是热心支持某人或某事的人。现在同写 fans，阅读时按场景分辨。",
+    "split": "fan + -s，/n/ 后读 /z/。扇具 fan 接古英语 fann，远源拉丁 vannus 扬谷器；爱好者 fan 通常视为 fanatic 的截短，两路独立。",
+    "history": [
+      [
+        "拉丁 vannus → 古英语 fann → 扇具 fan；另路 fanatic → 爱好者 fan",
+        "扬谷、扇风器具；热衷某事的人"
+      ],
+      [
+        "各路 fan + -s → fans",
+        "多把扇子、多位支持者；单数主语扇动、助长"
+      ]
+    ],
+    "explanation": "football fans 球迷；music fans 乐迷；electric fans 电风扇；fans the flames 扇旺火焰，也可比喻助长冲突、情绪。",
+    "usage": "fans of the band；fans in every room。",
+    "contrast": "fans of a team 是球队支持者，fans in a room 可能是房间里的风扇，也可能是球迷。具体对象由场景决定；fan 作动词的第三人称也写 fans。",
+    "examples": [
+      [
+        "The singer stayed to talk to the fans after the show.",
+        "演出结束后，歌手留下来和歌迷聊天。"
+      ],
+      [
+        "We put electric fans in the two warmest rooms.",
+        "我们在最热的两个房间里放了电风扇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fans#English",
+      "https://en.wiktionary.org/wiki/fan#English"
+    ]
+  },
+  {
+    "word": "details",
+    "ipa": "/ˈdiːteɪlz, dɪˈteɪlz/",
+    "meaning": "细节；具体资料；详细说明、列出〔detail 的第三人称单数〕",
+    "sense": "把整件事拆开看，一个个小地方就是 details。表格让你填 details 时，通常要的是姓名、地址、联系方式等具体资料。",
+    "split": "detail + -s，/l/ 后读 /z/。借法语 detail，接 detailler 切成小块，含 de- 与 tailler 切的材料；切细的画面扩展为小部分、细节。",
+    "history": [
+      [
+        "法语 detailler → detail → 英语 detail",
+        "切成小块 → 细节、具体说明"
+      ],
+      [
+        "detail 名词、动词 + -s → details",
+        "多个细节、具体信息；单数主语详细列出"
+      ]
+    ],
+    "explanation": "contact details 联系方式；personal details 个人资料；payment details 付款相关资料；give details 提供详情；details the changes 详细列出变动。",
+    "usage": "check the details；further details。",
+    "contrast": "in detail 表详细地，通常用单数形式；details 是可数的一个个信息点。Please explain in detail 与 Please give more details 都可表达说得更具体，结构不同。",
+    "examples": [
+      [
+        "Please check the contact details before sending the form.",
+        "提交表格前，请核对联系方式。"
+      ],
+      [
+        "The final section details the changes made this month.",
+        "最后一节详细列出了本月作出的变动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/details#English",
+      "https://en.wiktionary.org/wiki/detail#English"
+    ]
+  },
+  {
+    "word": "parts",
+    "ipa": "英 /pɑːts/；美 /pɑːrts/",
+    "meaning": "部分、零件；地区；角色、声部；分开、使分开〔part 的第三人称单数〕",
+    "sense": "一个整体拆开后，各块是 parts：机器有零件，故事有部分，戏里有角色，合唱里有声部。作动词时，就是分开。",
+    "split": "part + -s，/t/ 后读 /s/。部分名词接拉丁 pars、part- 经法语等路线借入；分开动词经法语 partir 传入同一词族。",
+    "history": [
+      [
+        "拉丁 pars／part- 及相应法语名词、动词 → part",
+        "整体的一份；分成各份、分开"
+      ],
+      [
+        "part 名词、动词 + -s → parts",
+        "多个部分、零件、角色等；单数主语分开"
+      ]
+    ],
+    "explanation": "spare parts 备用零件；equal parts 相等的份量；parts of the book 书的部分内容；in these parts 在这一带；parts her hair 把头发分开、分缝。",
+    "usage": "different parts；the parts of a machine。",
+    "contrast": "parts of the book 指这本书里的一些部分，不自动指完整内容。take part in 是参加的固定搭配，part 在这里通常不用复数。",
+    "examples": [
+      [
+        "The machine arrived in several separate parts.",
+        "这台机器分成几个独立部件送来。"
+      ],
+      [
+        "She parts her hair in the middle.",
+        "她把头发梳成中分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parts#English",
+      "https://en.wiktionary.org/wiki/part#English"
+    ]
+  }
+]

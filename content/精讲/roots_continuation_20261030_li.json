@@ -1,0 +1,245 @@
+[
+  {
+    "id": "B4350",
+    "meaning": "与困难周旋、维持下去；披盖同形词另辨",
+    "core": "COPE：困难还在，但你能处理眼前的局面",
+    "image": "cope → coped、coping；建筑 coping 另从披盖义理解。",
+    "intro": "不要把 cope 夸大成彻底解决。一边是人的应对，一边是墙顶的覆盖，同形词按来源和场景分别记。",
+    "forms": "couper、coupen → cope 应对；-ed 过去，-ing 过程；cappa → cope 披风 → 建筑顶盖支线。\n\n现代 cope 接法语打击、交锋材料，交手到应对的关系；copes 是第三人称单数，通常接 with 表应付对象。宗教披风 cope 是另源名词。",
+    "branches": [
+      [
+        "应对及其时态、过程",
+        "cope · coped · coping"
+      ],
+      [
+        "cope → copes：应付、处理眼前困难",
+        "cope · copes"
+      ]
+    ],
+    "contrasts": "cope with 常需 with；coping skills 是应对能力；建筑 coping 不从心理应对引申。",
+    "practice": "They coped with the change by sharing the work.\n\n他们分担工作，来应对变化。",
+    "words": [
+      "cope",
+      "coped",
+      "coping",
+      "copes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4227",
+    "meaning": "短暂浸入、下低，发展为蘸酱、低处和相应工具",
+    "core": "DIP：往下轻轻入一下，再提起来",
+    "image": "dip → dipped、dipper；dipstick；dippy 的口语傻气义单列来源。",
+    "intro": "用面包蘸酱记动作，用温度曲线的低处记下降，用舀水勺记工具。dippy 的傻气义不硬编成脑子泡水的历史。",
+    "forms": "dyppan → dip；-ed 过去状态，-er 人或物，-y 性质；stick 棒状测量物。\n\ndip 接古英语 dyppan 等浸入材料。dips、dipping 既可写动作，也可由现代名词义理解；曲线 dip 本身不保证随后反弹。",
+    "branches": [
+      [
+        "动作、状态与工具",
+        "dip · dipped · dipper · dipstick"
+      ],
+      [
+        "不同来源分析的口语性质",
+        "dippy"
+      ],
+      [
+        "dip：轻蘸、低下去与短暂浏览",
+        "dip · dips · dipping"
+      ]
+    ],
+    "contrasts": "dip 不必是长时间浸泡；dipped headlights 说灯光；dippy 的不同义不能只靠一个联想统包。",
+    "practice": "She dipped the spoon into the cheese dip.\n\n她把勺子伸进奶酪蘸酱里。",
+    "words": [
+      "dip",
+      "dipped",
+      "dipper",
+      "dipstick",
+      "dippy",
+      "dips",
+      "dipping"
+    ],
+    "exclude": {
+      "dip-coat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dipshit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4027",
+    "meaning": "按标准评估，再把判断重新拿出来衡量",
+    "core": "EVALUATION：先评价，再决定是否需要重新评价",
+    "image": "evaluation → reevaluation。",
+    "intro": "第一次评估是 evaluation；补了数据、换了条件，再做则是 reevaluation。它表示过程重来，不预设结论。",
+    "forms": "evaluate → evaluation；re- + evaluation → reevaluation。",
+    "branches": [
+      [
+        "评估与重新评估",
+        "evaluation · reevaluation"
+      ]
+    ],
+    "contrasts": "再评估可以保留原判断；of 后接评估对象。",
+    "practice": "A careful evaluation made later reevaluation easier.\n\n仔细的初次评估让之后的重新评估更容易。",
+    "words": [
+      "evaluation",
+      "reevaluation"
+    ],
+    "exclude": {
+      "self-evaluation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2106",
+    "meaning": "一半、半途、半场，另辨近形 halter",
+    "core": "HALF：看整体分成两份后的位置、时段",
+    "image": "half → halfway、halftime；halter 只作近形比较。",
+    "intro": "halfway 是到一半的位置或进度，halftime 是比赛中场；这些都有清楚的一半关系。halter 的绳带历史另讲，不拿它硬扩展一半。",
+    "forms": "half + way → halfway；half + time → halftime；halter 承古英语 hælfter，与现代 half- 拼接不同。",
+    "branches": [
+      [
+        "一半与相应位置、时段",
+        "half · halfway · halftime"
+      ],
+      [
+        "近形而另辨历史",
+        "halter"
+      ]
+    ],
+    "contrasts": "halfway 可空间也可进度；halftime 常作中场休息；halter 不是一半衣服的词源。",
+    "practice": "We were halfway through the match when halftime arrived.\n\n比赛进行到一半，到了中场休息。",
+    "words": [
+      "half",
+      "halfway",
+      "halftime",
+      "halter"
+    ],
+    "exclude": {
+      "half-time": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-year": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-life": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-read": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-open": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-remember": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-human": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-deal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-turn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-price": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-blood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-built": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-ball": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-truth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-expect": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-island": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-finished": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-broken": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-royal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-moon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-ray": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-dollar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-monthly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-bound": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-angel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-naked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-cousin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-asleep": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-rep": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-bat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-pipe": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-identical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-embrace": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-awake": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-witch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-breed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-demon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-integral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-halt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-wizard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-baked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-yearly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-hardy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-metallic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-bred": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-pint": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-sibling-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-caste": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-jokingly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-witted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-elven": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-timbered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-sib": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3829",
+    "meaning": "请教、商议，区分动作、专业人士和业务",
+    "core": "CONSULTANT：把专业意见带到问题面前的人",
+    "image": "consult → consultant、consultation；consultancy 说业务或机构。",
+    "intro": "先看谁在做什么：你 consult 人或资料，consultant 给专业服务，consultation 是咨询过程，consultancy 是业务、机构等。",
+    "forms": "consulere、consultāre → consulter → consult 词族；-ant 人物，-ation 动作，-ancy 状态或业务、机构。\n\n法语 consulter 接拉丁 consultare、consulere 商议考虑，现代 ing 直接相加。\n\nconsultant 早期可说求询者，后来常指能提供专业意见的人。现代复数 -s，末尾 /nts/；具体顾问角色取决于领域。",
+    "branches": [
+      [
+        "咨询动作、人物、过程与业务",
+        "consult · consultant · consultation · consultancy"
+      ],
+      [
+        "consult → consulting：请教、商议与查阅",
+        "consult · consulting"
+      ],
+      [
+        "consult + -ant → consultant → consultants",
+        "consultants"
+      ]
+    ],
+    "contrasts": "consultant 不只说外部公司；consultancy 可说工作、公司，不当作一个顾问的人名词。",
+    "practice": "The consultant arranged a consultation with the client.\n\n顾问安排了与客户的一次商谈。",
+    "words": [
+      "consult",
+      "consultant",
+      "consultation",
+      "consultancy",
+      "consulting",
+      "consultants"
+    ],
+    "exclude": {
+      "e-consultant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2846",
+    "meaning": "身体或注意力扎入，扩展为向下急冲、投入",
+    "core": "DIVE：先扎进水里，再扎进一项事情",
+    "image": "dive → diver；skydive、nosedive 说明入空中或向下俯冲。",
+    "intro": "水下、空中、研究里都能有一头扎入的画面。但动作形式、运动项目、专名还要各按实际用法理解。",
+    "forms": "dūfan、dȳfan → diven → dive；-er 人物；sky 天空，nose 机头或向前俯下的部位。\n\ndive 接古英语两个相关浸入动词的合流，dived 是规则过去式、分词；北美常见过去式 dove 是后起类推，不等于原封不动保留古英语强变化。",
+    "branches": [
+      [
+        "入水与人物",
+        "dive · diver"
+      ],
+      [
+        "空中运动与俯冲、猛跌",
+        "skydive · nosedive"
+      ],
+      [
+        "dive 的规则形式与潜水者",
+        "dive · dives · dived · diver · divers"
+      ]
+    ],
+    "contrasts": "dived、dove 都可作过去式；diver 不只跳水；dip 常是短暂蘸一下，dive 更像投入、潜入。",
+    "practice": "The diver watched a bird dive into the sea.\n\n潜水员看着一只鸟扎进海里。",
+    "words": [
+      "dive",
+      "diver",
+      "skydive",
+      "nosedive",
+      "dives",
+      "dived",
+      "divers"
+    ],
+    "exclude": {}
+  }
+]

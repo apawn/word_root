@@ -1,0 +1,546 @@
+[
+  {
+    "word": "reminds",
+    "ipa": "/rɪˈmaɪndz/",
+    "meaning": "提醒；使想起〔第三人称单数〕",
+    "sense": "一件事本来在心里，后来没放在眼前；某句话、某个东西把它再带回来，就是 reminds。",
+    "split": "remind + -s，/d/ 后读 /z/。remind 是英语 re- 再与 mind 的记住、想起用法结合形成的动词。",
+    "history": [
+      [
+        "re- + mind → remind",
+        "让事情再次进入心里、记忆里"
+      ],
+      [
+        "remind + -s → reminds",
+        "某人提醒；某物让人想起"
+      ]
+    ],
+    "explanation": "reminds me of home 让我想起家；reminds her to call 提醒她打电话；reminds us that 提醒我们某事。",
+    "usage": "a note that reminds me 一张提醒我的便条；reminds someone about a meeting 提醒某人有会。",
+    "contrast": "reminds me of 常说联想起什么；reminds me to 后说要记得做什么。remind 把对象写出来，remember 则常是自己记得。",
+    "examples": [
+      [
+        "This song reminds me of our school trip.",
+        "这首歌让我想起学校那次出游。"
+      ],
+      [
+        "The note reminds him to bring his keys.",
+        "便条提醒他带钥匙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reminds#English",
+      "https://en.wiktionary.org/wiki/remind#English"
+    ]
+  },
+  {
+    "word": "reserves",
+    "ipa": "英 /rɪˈzɜːvz/；美 /rɪˈzɜːrvz/",
+    "meaning": "储备、后备力量；保护区〔复数〕；保留、预订〔第三人称单数〕",
+    "sense": "现在先不全用掉，留一份以后用，是 reserves 的储备义。把一片土地保留下来保护自然，也成了 reserve 保护区。",
+    "split": "reserve + -s，/v/ 后读 /z/。reserve 经古法语接拉丁 reservare，核心 servare 保留，re- 在词里帮助表达留住、保留下来。",
+    "history": [
+      [
+        "拉丁 reservare → 法语 → reserve",
+        "保留、留住 → 储备、保留地等"
+      ],
+      [
+        "reserve + -s → reserves",
+        "多项储备、保护区；某人预留、预订"
+      ]
+    ],
+    "explanation": "water reserves 储备水量；nature reserves 自然保护区；reserves a table 预订餐桌。",
+    "usage": "reserves of energy 精力储备；the team’s reserves 队伍的后备成员。",
+    "contrast": "reserves 可指存下的资源，也可指保留下的区域。reserves a room 是动词预订房间，不能把每处 reserves 都译为储备物资。",
+    "examples": [
+      [
+        "The region has several nature reserves.",
+        "这个地区有几处自然保护区。"
+      ],
+      [
+        "She reserves the room for the weekly reading group.",
+        "她为每周阅读小组预订这个房间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reserves#English",
+      "https://en.wiktionary.org/wiki/reserve#English"
+    ]
+  },
+  {
+    "word": "transactions",
+    "ipa": "/trænˈzækʃənz/",
+    "meaning": "交易；办理的事务、业务操作〔复数〕",
+    "sense": "双方之间有东西、权利或信息来往，一件事办成了一笔，便可叫 transaction。transactions 把这些一笔笔的往来数出来。",
+    "split": "transaction + -s，/n/ 后读 /z/。transaction 接拉丁 transigere、transactio 及法语，较早 trans- 与 agere 做、办理相连；现代可与 action 词族对照。",
+    "history": [
+      [
+        "拉丁 transigere、transactio → 法语等 → transaction",
+        "办理、办完事务 → 一笔业务、交易"
+      ],
+      [
+        "transaction + -s → transactions",
+        "多笔交易、多项具体业务操作"
+      ]
+    ],
+    "explanation": "record transactions 记录交易；business transactions 商业交易；online transactions 在线交易。",
+    "usage": "a list of transactions 交易清单；process transactions 处理交易、业务操作。",
+    "contrast": "transactions 常把一次完整办理当单位；payment 更聚焦付款。计算机系统里的 transaction 也有专门的成组操作含义，未必都在转钱。",
+    "examples": [
+      [
+        "The system records all transactions automatically.",
+        "系统自动记录所有交易。"
+      ],
+      [
+        "The daily report lists all the transactions.",
+        "日报列出了所有交易。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transactions#English",
+      "https://en.wiktionary.org/wiki/transaction#English"
+    ]
+  },
+  {
+    "word": "winds",
+    "ipa": "风的复数 /wɪndz/；缠绕动词 /waɪndz/",
+    "meaning": "风、气流〔复数〕；缠绕、蜿蜒〔第三人称单数〕",
+    "sense": "空气流动是一条词史，绳子绕圈、道路转弯是另一条。两者都拼 winds，却分别读 /wɪndz/ 和 /waɪndz/。",
+    "split": "风名词 wind + -s 接古英语 wind；缠绕动词 wind + -s 接古英语 windan。两者的 s 都读 /z/，词干元音不同。",
+    "history": [
+      [
+        "古英语 wind → 风 wind /wɪnd/；古英语 windan → 绕 wind /waɪnd/",
+        "不同历史词族，同形保留下来"
+      ],
+      [
+        "分别加 -s → winds",
+        "多个风向、风；或某物绕行、某人缠绕"
+      ]
+    ],
+    "explanation": "strong winds 强风；the road winds through the hills 道路蜿蜒穿山；winds thread onto a spool 把线绕到线轴上。",
+    "usage": "cold winds 寒风；winds its way 蜿蜒前行。",
+    "contrast": "先看名词还是绕的动作，再读元音。缠绕动词的过去式 wound /waʊnd/，也与伤口 wound /wuːnd/ 同形而不同音。",
+    "examples": [
+      [
+        "Strong winds delayed the ferry.",
+        "大风让渡船延误了。"
+      ],
+      [
+        "The road winds through the forest.",
+        "道路蜿蜒穿过森林。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/winds#English",
+      "https://en.wiktionary.org/wiki/wind#English"
+    ]
+  },
+  {
+    "word": "aims",
+    "ipa": "/eɪmz/",
+    "meaning": "目标、目的〔复数〕；瞄准、旨在〔第三人称单数〕",
+    "sense": "心里先立一个要到达的点，这是 aims 的目标义；动作朝那个点去，就是旨在、瞄向。",
+    "split": "aim + -s，/m/ 后读 /z/。aim 经古法语估量、计算词接拉丁 aestimare，英语由估算、筹划发展为朝目标用力。",
+    "history": [
+      [
+        "拉丁 aestimare → 古法语 → aim",
+        "估量、筹划 → 指向目标、意图"
+      ],
+      [
+        "aim + -s → aims",
+        "多个目标；某人、项目旨在做到某事"
+      ]
+    ],
+    "explanation": "the aims of the project 项目目标；aims to improve 旨在改善；aims at reducing 以减少为目标。",
+    "usage": "common aims 共同目标；aims the camera at 把相机对准。",
+    "contrast": "aims to 后接动词原形，aims at 后常接名词或 ing；名词 aims 则可以被 the、our 等修饰。目标不等于已实现的成果。",
+    "examples": [
+      [
+        "The project has three main aims.",
+        "这个项目有三个主要目标。"
+      ],
+      [
+        "The course aims to make writing clearer.",
+        "课程旨在让写作更清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aims#English",
+      "https://en.wiktionary.org/wiki/aim#English"
+    ]
+  },
+  {
+    "word": "campaigns",
+    "ipa": "/kæmˈpeɪnz/，也读 /kəmˈpeɪnz/",
+    "meaning": "有组织的宣传、行动；竞选、战役等〔复数〕；参加宣传、争取〔第三人称单数〕",
+    "sense": "为了一个目标，连续做一组相互配合的事，就是 campaigns 的现代核心。可以宣传阅读，也可以竞选、争取改变。",
+    "split": "campaign + -s，/n/ 后读 /z/。campaign 经法语 campagne 接意大利 campagna、后期拉丁 campania，远处 campus 平地；野外战事的背景后来扩成各类持续行动。",
+    "history": [
+      [
+        "拉丁平原材料 → 意大利、法语 campagne → campaign",
+        "野外、军事行动背景 → 战役"
+      ],
+      [
+        "组织行动的比喻扩展；campaign + -s → campaigns",
+        "宣传、竞选等多次行动；也可说某人开展行动"
+      ]
+    ],
+    "explanation": "advertising campaigns 广告活动；election campaigns 竞选活动；campaigns for change 为改变开展行动。",
+    "usage": "reading campaigns 阅读推广行动；campaigns against waste 反浪费行动。",
+    "contrast": "campaigns 通常有目标和持续安排，比一次普通 event 更强调多步协同。它并不总指军事作战。",
+    "examples": [
+      [
+        "The library runs campaigns to encourage reading.",
+        "图书馆开展推广阅读的活动。"
+      ],
+      [
+        "She campaigns for safer cycling routes.",
+        "她为更安全的骑行路线奔走倡议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/campaigns#English",
+      "https://en.wiktionary.org/wiki/campaign#English"
+    ]
+  },
+  {
+    "word": "creatures",
+    "ipa": "英 /ˈkriːtʃəz/；美 /ˈkriːtʃərz/",
+    "meaning": "生物、动物；想象中的生灵〔复数〕",
+    "sense": "把一个活着的东西当作一种独立生命来看，可以叫 creature。日常常说动物，小说里也用来称奇异的生灵。",
+    "split": "creature + -s，末尾读 /z/。creature 借古法语，接后期拉丁 creatura 被创造出的东西、生命，属 creare 创造词族。",
+    "history": [
+      [
+        "后期拉丁 creatura → 古法语 → creature",
+        "被创造物、生命 → 生物、动物等"
+      ],
+      [
+        "creature + -s → creatures",
+        "多种、多只生物；也可为想象的生灵"
+      ]
+    ],
+    "explanation": "sea creatures 海洋生物；small creatures 小动物；strange creatures 奇异生物。",
+    "usage": "creatures of habit 习惯性很强的人；living creatures 活物。",
+    "contrast": "creatures 一般说生命、动物，creators 是创造者；两者同源却角色不同。生物义是普通词语用法，不要求句子在讨论某种宗教立场。",
+    "examples": [
+      [
+        "The rock pool was full of tiny creatures.",
+        "岩石水洼里满是微小的生物。"
+      ],
+      [
+        "The story features several imaginary creatures.",
+        "故事中出现了几种想象的生灵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creatures#English",
+      "https://en.wiktionary.org/wiki/creature#English"
+    ]
+  },
+  {
+    "word": "fighters",
+    "ipa": "英 /ˈfaɪtəz/；美 /ˈfaɪtərz/",
+    "meaning": "战斗者、斗士、拳击手等〔复数〕；战斗机〔复数〕",
+    "sense": "不肯轻易退下、持续去争取或交手的人，可以叫 fighters。军事航空里，又把专为作战设计的一类飞机沿用这个行动者名称。",
+    "split": "fighter + -s，末尾读 /z/。古英语已有 feohtere 等人物名词，现代可与 fight + -er 对照；飞机义是后来的扩展。",
+    "history": [
+      [
+        "古英语相应人物名词 → fighter；与 fight 相联",
+        "交战、搏斗的人 → 特定运动选手、斗士等"
+      ],
+      [
+        "fighter + -s → fighters",
+        "多位搏斗、争取的人；也数战斗机"
+      ]
+    ],
+    "explanation": "professional fighters 职业搏击选手；fighters for change 为改变而努力的人；fighter pilots 战斗机飞行员。",
+    "usage": "two fighters in the ring 擂台上的两位选手；historic fighters 历史上的战斗机，具体看展览语境。",
+    "contrast": "fighters 可以是人，也可以是飞机；fighter 作前置修饰如 fighter pilots 时通常单数。比喻斗士强调坚持争取，不必真在打斗。",
+    "examples": [
+      [
+        "The two fighters shook hands after the match.",
+        "两位选手赛后握了手。"
+      ],
+      [
+        "The museum displays several early fighters.",
+        "博物馆展出了几架早期战斗机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fighters#English",
+      "https://en.wiktionary.org/wiki/fighter#English"
+    ]
+  },
+  {
+    "word": "meters",
+    "ipa": "英 /ˈmiːtəz/；美 /ˈmiːtərz/",
+    "meaning": "米〔美式复数〕；计量仪表〔复数〕；计量、装表等〔动词第三人称单数〕",
+    "sense": "路有多长，可以用 meters 数；水、电等用了多少，可以看 meters 仪表。两个常见名词都与测量有关，却不只有一条完全相同的进入英语路线。",
+    "split": "meter + -s，末尾读 /z/。长度单位借法语 mètre，美式写 meters、英式写 metres。仪表义有从 -meter 组合词抽出及旧计量者名词发展的分析，诗律 meter 又经拉丁 metrum 等较早传入。",
+    "history": [
+      [
+        "法语 mètre → 长度 meter；其他计量、诗律路径 → 同形 meter",
+        "共有测量背景，不同借入、抽取与发展路线"
+      ],
+      [
+        "meter + -s → meters",
+        "多个米、仪表；也可为计量动作三单"
+      ]
+    ],
+    "explanation": "two hundred meters 两百米；water meters 水表；parking meters 停车计时收费表。",
+    "usage": "electricity meters 电表；meters and centimeters 米和厘米，美式长度拼写。",
+    "contrast": "英式长度单位写 metres，但仪表仍写 meters。读到 meters 先看数值和对象，判断是在量长度还是在数仪表。",
+    "examples": [
+      [
+        "The path is two hundred meters long.",
+        "这条小路长两百米。"
+      ],
+      [
+        "The workers checked the water meters.",
+        "工人检查了水表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meters#English",
+      "https://en.wiktionary.org/wiki/meter#English"
+    ]
+  },
+  {
+    "word": "negotiations",
+    "ipa": "英 /nɪˌɡəʊʃiˈeɪʃənz/；美 /nɪˌɡoʊʃiˈeɪʃənz/",
+    "meaning": "谈判、协商〔复数及常用复数表达〕",
+    "sense": "各方需要的东西不完全一样，于是来回谈条件，寻找能一起接受的安排，这个过程常说 negotiations。",
+    "split": "negotiation + -s，/n/ 后读 /z/。negotiation 借法语 négociation 或拉丁 negotiatio 商务、交易活动；现代与 negotiate 去 e 加 ion 的关系可配套理解，历史不要求英语动词先出现。",
+    "history": [
+      [
+        "拉丁 negotiatio → 法语或直接 → negotiation",
+        "商务、交易活动 → 协商条件"
+      ],
+      [
+        "negotiation + -s → negotiations",
+        "多轮、多项谈判；英语常以复数谈整个协商过程"
+      ]
+    ],
+    "explanation": "begin negotiations 开始谈判；negotiations over a contract 合同谈判；negotiations between two sides 双方协商。",
+    "usage": "lengthy negotiations 长时间谈判；resume negotiations 恢复谈判。",
+    "contrast": "negotiations 不只是聊天，通常要调整条件、达成安排。talks 在这种语境也可说会谈，agreement 则是可能达成的结果。",
+    "examples": [
+      [
+        "The two sides began negotiations over the new schedule.",
+        "双方开始就新日程进行协商。"
+      ],
+      [
+        "The agreement followed several weeks of negotiations.",
+        "协议是在几周谈判后达成的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negotiations#English",
+      "https://en.wiktionary.org/wiki/negotiation#English"
+    ]
+  },
+  {
+    "word": "owns",
+    "ipa": "英 /əʊnz/；美 /oʊnz/",
+    "meaning": "拥有；承认、承担〔第三人称单数〕",
+    "sense": "某物算在这个人名下，归他拥有，就是 owns。现代还可以把错误、责任认到自己这边，表示承认、承担。",
+    "split": "own + -s，/n/ 后读 /z/。own 形容词接古英语 agen，与 agan 拥有的旧分词相关；现代动词又与旧拥有动词、owner 等相互关联。",
+    "history": [
+      [
+        "古英语 agen、agan 等 → own 的形容、动词路径",
+        "属于自己的、拥有；现代动词另有历史发展"
+      ],
+      [
+        "own + -s → owns",
+        "某人拥有；或承认、对某事负责"
+      ]
+    ],
+    "explanation": "owns a house 拥有房子；owns the business 是企业所有者；owns up to a mistake 承认错误。",
+    "usage": "owns several books 拥有几本书；owns her decision 为自己的决定负责。",
+    "contrast": "owns 是有所有关系，uses 只是使用。owns up to 是承认的固定短语，up、to 一起看；my own 则是形容词自己的。",
+    "examples": [
+      [
+        "She owns the small bookshop near the station.",
+        "她是车站附近那家小书店的店主。"
+      ],
+      [
+        "He owns up to his mistakes.",
+        "他会承认自己的错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/owns#English",
+      "https://en.wiktionary.org/wiki/own#English"
+    ]
+  },
+  {
+    "word": "quoted",
+    "ipa": "英 /ˈkwəʊtɪd/；美 /ˈkwoʊtɪd/",
+    "meaning": "引用、引述了；报了价〔过去式、过去分词〕",
+    "sense": "原来已经有的一句话，把它拿出来重说，是 quoted；把愿意收取的金额报给对方，也是 quoted。",
+    "split": "quote + -d，/t/ 后读 /ɪd/。quote 接法语 coter、中世纪拉丁 quotare 的编号、标注章节材料，后来发展引用与报价。",
+    "history": [
+      [
+        "中世纪拉丁 quotare → 法语 coter → 英语 quote",
+        "标明出处、编号 → 引用；另有报价"
+      ],
+      [
+        "quote 去 e + -ed → quoted",
+        "原话已被引用；价格已报出"
+      ]
+    ],
+    "explanation": "quoted a poem 引用了一首诗；quoted in the article 被文章引述；quoted a price 报了价格。",
+    "usage": "quoted out of context 脱离上下文地引用；the price quoted 报出的价格。",
+    "contrast": "quoted speech 是引述的话，quoted price 是报价。引用原话通常要忠实；reported、paraphrased 可描述不同的转述方式。",
+    "examples": [
+      [
+        "The article quoted several lines from the speech.",
+        "文章引用了演讲中的几句话。"
+      ],
+      [
+        "The builder quoted a price for the repairs.",
+        "建筑工人报出了维修价格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quoted#English",
+      "https://en.wiktionary.org/wiki/quote#English"
+    ]
+  },
+  {
+    "word": "sorts",
+    "ipa": "英 /sɔːts/；美 /sɔːrts/",
+    "meaning": "种类、类型〔复数〕；分类、整理、处理〔第三人称单数〕",
+    "sense": "把相似的东西归成一类，能得到不同 sorts；动手把东西分开归位，就是动词 sorts。",
+    "split": "sort + -s，/t/ 后读 /s/。名词经法语 sorte、动词有法语 sortir 的背景，最终接拉丁份额、类别相关词族。",
+    "history": [
+      [
+        "法语 sorte、sortir 等 → 英语 sort",
+        "份额、类别及分配材料 → 类型、分类"
+      ],
+      [
+        "sort + -s → sorts",
+        "多个种类；某人分类、整理"
+      ]
+    ],
+    "explanation": "all sorts of 各种各样的；different sorts 不同种类；sorts the files 整理文件。",
+    "usage": "sorts out the problem 把问题处理好；sorts by date 按日期排序。",
+    "contrast": "sorts 是种类时常与 of 连用；sorts out 是解决、理顺的动词短语。of sorts 在某些表达中还有勉强算是、某种的语气。",
+    "examples": [
+      [
+        "The shop sells all sorts of handmade gifts.",
+        "店里卖各种手工礼物。"
+      ],
+      [
+        "She sorts the letters by date.",
+        "她按日期整理信件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sorts#English",
+      "https://en.wiktionary.org/wiki/sort#English"
+    ]
+  },
+  {
+    "word": "souls",
+    "ipa": "英 /səʊlz/；美 /soʊlz/",
+    "meaning": "灵魂、心灵；人〔复数〕",
+    "sense": "把人内在的生命、精神与感受作为一个整体来看，是 souls 的灵魂、心灵义。文学或口语里又会用一颗颗灵魂代指一个个人。",
+    "split": "soul + -s，/l/ 后读 /z/。soul 继承古英语 sawol，更远来源不确定；不把海洋、湖泊等假说当成确定词根故事。",
+    "history": [
+      [
+        "古英语 sawol → 英语 soul",
+        "生命、灵魂、内心等旧观念"
+      ],
+      [
+        "soul + -s → souls",
+        "多个灵魂、心灵；也借代人"
+      ]
+    ],
+    "explanation": "kind souls 善良的人；lost souls 迷惘的人；not a soul 一个人也没有，否定搭配用单数。",
+    "usage": "the souls of the characters 角色的内心；a few brave souls 几位勇敢的人。",
+    "contrast": "souls 指人常带文学、亲切或感情色彩；people 更中性。音乐名 soul 通常是不可数风格名称，不因多首歌就直接当 souls 用。",
+    "examples": [
+      [
+        "A few brave souls went swimming in the cold sea.",
+        "几位勇敢的人下到冰冷的海里游泳。"
+      ],
+      [
+        "The novel explores the private worlds of lonely souls.",
+        "小说探讨了孤独者的内心天地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/souls#English",
+      "https://en.wiktionary.org/wiki/soul#English"
+    ]
+  },
+  {
+    "word": "cleared",
+    "ipa": "英 /klɪəd/；美 /klɪrd/",
+    "meaning": "清除、腾空了；变晴、变清楚了；获准、洗清嫌疑等〔过去式、过去分词〕",
+    "sense": "眼前挡着东西，移掉以后就能看清、走过，是 cleared 的核心方向。桌面清空、道路畅通、天空放晴都可用这个变化。",
+    "split": "clear + -ed，结尾读 /d/。clear 经法语 cler 等接拉丁 clarus 清亮、明朗，动词发展出移去阻碍、使明确等义。",
+    "history": [
+      [
+        "拉丁 clarus → 法语 cler → clear",
+        "明亮、清楚、无阻挡；使成这种状态"
+      ],
+      [
+        "clear + -ed → cleared",
+        "遮挡、物品等已去除；也可指得到许可、洗清嫌疑等"
+      ]
+    ],
+    "explanation": "cleared the table 收拾了桌子；cleared the path 清理通路；the sky cleared 天空放晴。",
+    "usage": "cleared for use 获准使用；cleared of suspicion 洗清嫌疑，具体程序由上下文说明。",
+    "contrast": "cleared something 通常主语在清除、移走；the sky cleared 是天气自己变晴。clearance 是相应名词，在不同场景可指许可、清理或间隙等。",
+    "examples": [
+      [
+        "We cleared the table after dinner.",
+        "饭后我们收拾了桌子。"
+      ],
+      [
+        "The sky cleared just before sunset.",
+        "临近日落时，天空放晴了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cleared#English",
+      "https://en.wiktionary.org/wiki/clear#English"
+    ]
+  },
+  {
+    "word": "protests",
+    "ipa": "名词英 /ˈprəʊtests/、美 /ˈproʊtests/；动词英 /prəˈtests/，美也读 /ˈproʊtests/",
+    "meaning": "抗议、异议〔复数〕；抗议、坚称〔第三人称单数〕",
+    "sense": "把自己的不同意明确说到公开场合，是 protests 的常用意思；在某些句子里，动词也可表示坚持声明自己怎样。",
+    "split": "protest + -s，/t/ 后读 /s/。protest 接拉丁 pro- 公开、向前与 testari 作证所成 protestari，经法语及中古英语传下。",
+    "history": [
+      [
+        "拉丁 protestari → 法语、英语 protest",
+        "公开作证、声明 → 表达反对、坚称"
+      ],
+      [
+        "protest + -s → protests",
+        "多次抗议、异议；某人抗议、坚持声明"
+      ]
+    ],
+    "explanation": "peaceful protests 和平抗议；protests against a decision 对决定的抗议；protests that 坚称、抗议说。",
+    "usage": "written protests 书面异议；protests his innocence 坚称自己无辜。",
+    "contrast": "protests 作为名词在前重音，英式动词常后重音；美式动词也常前重音。protests that 后有时是在坚称，不一定是反对 that 从句所说的内容。",
+    "examples": [
+      [
+        "The decision led to several peaceful protests.",
+        "这项决定引发了几次和平抗议。"
+      ],
+      [
+        "He protests that he was only trying to help.",
+        "他辩称自己只是想帮忙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/protests#English",
+      "https://en.wiktionary.org/wiki/protest#English"
+    ]
+  }
+]

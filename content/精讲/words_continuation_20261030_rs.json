@@ -1,0 +1,202 @@
+[
+  {
+    "word": "mid",
+    "ipa": "/mɪd/",
+    "meaning": "中间的；中期的；一般般、不出色的〔口语〕",
+    "sense": "原先把位置放在中间，后来评价东西也能说卡在中间档：不算很差，但没什么亮点。That film was mid 常是这种随意评价。",
+    "split": "接古英语 midd、midde，经中古英语延续，属于中间、居中的旧日耳曼语词族。现代口语把中间档引到质量一般，与 middling 等表达也有联系。",
+    "history": [
+      [
+        "古英语 midd、midde → 中古英语 mid",
+        "中间位置、时间中段"
+      ],
+      [
+        "现代 mid 的一般般义",
+        "质量平平、没有特别出色的地方"
+      ]
+    ],
+    "explanation": "mid to late October 十月中下旬；That game was mid. 那个游戏一般般。后一个是口语评价，正式评价中通常用更具体的说法。",
+    "usage": "mid to late；a rather mid performance。",
+    "contrast": "middle 常作独立名词或完整修饰语；mid 很多传统用法在组合中。口语 mid 说质量平平，不是把影片播放进度停在一半。",
+    "examples": [
+      [
+        "We expect the work to finish in mid to late November.",
+        "我们预计工作会在十一月中下旬结束。"
+      ],
+      [
+        "The acting was good, but the story was mid.",
+        "表演不错，但故事一般般。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/mid"
+    ]
+  },
+  {
+    "word": "anti",
+    "ipa": "常见 /ˈænti/；美式亦见 /ˈæntaɪ/",
+    "meaning": "反对的；反对者；反对〔可独立使用〕",
+    "sense": "双方讨论一项提议，一边赞成，一边反对。反对那一边的人可叫 the antis；说某人 anti 某事，是说他持反对态度。",
+    "split": "由 anti- 反对、相反的前缀材料转成独立形容词、名词等用法；其历史经拉丁、法语接希腊 anti。不是某个固定英语长词唯一的缩写。",
+    "history": [
+      [
+        "希腊 anti → 拉丁、法语及英语 anti-",
+        "对着、相反、反对等关系"
+      ],
+      [
+        "anti 独立成词",
+        "反对的；反对者；反对"
+      ]
+    ],
+    "explanation": "pros and antis 赞成者与反对者；be anti something 反对某事，较随意。名词复数 antis，不写成 anties。",
+    "usage": "the antis；be anti the proposal。",
+    "contrast": "ante- 常指在前、先于，anti- 常指反对、相反；不能凭读音相近就互换拼写和含义。",
+    "examples": [
+      [
+        "The antis raised several practical objections.",
+        "反对者提出了几个实际问题。"
+      ],
+      [
+        "She is not anti technology; she just dislikes this design.",
+        "她并不反对技术，只是不喜欢这个设计。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/anti"
+    ]
+  },
+  {
+    "word": "jay",
+    "ipa": "/dʒeɪ/",
+    "meaning": "松鸦、蓝松鸦等鸟名；字母 J 的名称；旧称冒失、吵闹的人",
+    "sense": "日常鸟名里会看到 blue jay；交通词 jaywalking 里的 jay 却与旧时对某类冒失、粗俗人物的称呼有关，不是说鸟也要走人行横道。",
+    "split": "鸟名经古法语 jai 等进入英语，常与晚期拉丁 gaius 联系，最远命名细节有争论。鸟名后来用于人物称呼；字母 J 的 jay 则是字母名称的同形用法。",
+    "history": [
+      [
+        "古法语 jai 等 → 英语鸟名 jay",
+        "相关鸟类的名称"
+      ],
+      [
+        "人物比喻 jay；另有字母名称",
+        "吵闹、冒失等旧人物称呼；J 的读名"
+      ]
+    ],
+    "explanation": "a blue jay 蓝松鸦；the letter J 字母 J，读 /dʒeɪ/。旧人物义主要帮助理解词源，现代普通介绍一个乡下人不必用它。",
+    "usage": "a blue jay；a jay in the garden。",
+    "contrast": "jaywalking 的前部不是 take a walk like a bird 那种直译；同一拼写的字母名称也不能拿来解释全部鸟名历史。",
+    "examples": [
+      [
+        "A blue jay landed on the fence.",
+        "一只蓝松鸦落在篱笆上。"
+      ],
+      [
+        "The child spotted a jay in the garden.",
+        "孩子在花园里发现了一只松鸦。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/jaywalking"
+    ]
+  },
+  {
+    "word": "jaywalk",
+    "ipa": "英 /ˈdʒeɪwɔːk/；美 /ˈdʒeɪwɔːk/",
+    "meaning": "不按交通规则横穿马路；乱穿马路",
+    "sense": "没有按相应人行过街规则穿过车流，英语里常叫 jaywalk。重点是过街方式，不是所有不走直线的步行。",
+    "split": "从人物名词 jaywalker 逆构出动词，现代可按 jay + walk 理解；jay 有旧时冒失、不懂规矩者等人物称呼背景。二十世纪初美国交通语境传播，具体命名动机存在不同解释。",
+    "history": [
+      [
+        "jaywalker 的人物称呼",
+        "不按相应规则过街的人"
+      ],
+      [
+        "由人物名词逆构的 jaywalk",
+        "不按规则横穿道路"
+      ]
+    ],
+    "explanation": "jaywalk across a road 乱穿道路；jaywalk 作动词，jaywalking 可作相应活动名词。日常泛说过马路用 cross the road 就够。",
+    "usage": "jaywalk across；someone was jaywalking。",
+    "contrast": "jaywalk 自带不按过街规则的含义；cross 只说穿过。这个词的词义不代替各地具体交通规则。",
+    "examples": [
+      [
+        "The film shows a character jaywalking across a busy road.",
+        "电影里有个角色在繁忙道路上乱穿马路。"
+      ],
+      [
+        "He waited for the crossing signal rather than jaywalking.",
+        "他等候过街信号，没有乱穿马路。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/jaywalking",
+      "https://en.wiktionary.org/wiki/jaywalk#English"
+    ]
+  },
+  {
+    "word": "jaywalking",
+    "ipa": "英 /ˈdʒeɪwɔːkɪŋ/；美 /ˈdʒeɪwɔːkɪŋ/",
+    "meaning": "乱穿马路；不按规则横穿道路的活动或动作",
+    "sense": "把 jaywalk 这个过街动作当成一种行为来谈。traffic lessons about jaywalking 是谈这种过街行为，不是某个鸟类散步课程。",
+    "split": "形式上对应 jaywalk + -ing；早期美国交通语境已出现 jaywalking。jay 的旧人物贬称背景与 walk 结合，活动名词后来常用于交通讨论。",
+    "history": [
+      [
+        "jay、walk 材料形成的交通词族",
+        "不合规则的过街行为"
+      ],
+      [
+        "jaywalking 的动作名词、分词用法",
+        "这种行为本身；正在乱穿马路"
+      ]
+    ],
+    "explanation": "discuss jaywalking 讨论乱穿马路；was jaywalking 正在乱穿马路。一个是谈活动，一个是句中的动词形式。",
+    "usage": "a discussion of jaywalking；be jaywalking。",
+    "contrast": "walking 步行是中性动作，jaywalking 加入特定道路行为及不合规则的评价；两者范围不同。",
+    "examples": [
+      [
+        "The class discussed jaywalking and pedestrian crossings.",
+        "课堂上讨论了乱穿马路与人行过街设施。"
+      ],
+      [
+        "The scene begins with a man jaywalking through traffic.",
+        "这段场景以一名男子穿过车流乱过马路开始。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/jaywalking"
+    ]
+  },
+  {
+    "word": "jaywalker",
+    "ipa": "英 /ˈdʒeɪwɔːkə/；美 /ˈdʒeɪwɔːkər/",
+    "meaning": "乱穿马路的人；不按规则过街的行人",
+    "sense": "不是泛指所有步行者，而是把某个行人按他不按规则过街的行为称呼。",
+    "split": "jay 的旧时冒失、不懂规矩者称呼与 walker 行走者结合；随后由人物词逆构 jaywalk 动词。现代对照 jaywalk 与 -er 很直观，但历史方向不是只看字数。",
+    "history": [
+      [
+        "jay 的人物称呼 + walker",
+        "被认为冒失、不按规则走路的人"
+      ],
+      [
+        "交通中的 jaywalker；逆构关系连接 jaywalk",
+        "不按过街规则的行人；相应动词"
+      ]
+    ],
+    "explanation": "a jaywalker crossing the road 乱穿马路的人；spot a jaywalker 看到一个乱穿马路的行人。是按特定行为称呼，不等于行人这个普遍身份。",
+    "usage": "a jaywalker；watch for jaywalkers。",
+    "contrast": "pedestrian 是行人，jaywalker 是特定不合规则过街行为中的人。后缀 -er 本身不带违规义，相关含义来自整个词族。",
+    "examples": [
+      [
+        "The driver slowed down when a jaywalker stepped into the road.",
+        "一个乱穿马路的人走上道路时，司机减了速。"
+      ],
+      [
+        "The cartoon shows a jaywalker ignoring a nearby crossing.",
+        "漫画画了一个人，不走旁边的过街设施而乱穿马路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jaywalker#English",
+      "https://en.wiktionary.org/wiki/jaywalk#English"
+    ]
+  }
+]

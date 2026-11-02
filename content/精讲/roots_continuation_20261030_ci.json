@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B2571",
+    "meaning": "银金属；银色光泽与按颜色命名",
+    "core": "SILVER：银这种材料，也借它的颜色、亮度给别物命名",
+    "image": "silver → silvery、silverware；silversmith 职业、quicksilver 旧名、silverfish 与 silverback 外形命名复用或新写。",
+    "intro": "金属与颜色不混。silverware 可非银餐具，silverfish 非鱼、quicksilver 非银，已有旧精讲一起对照。",
+    "forms": "silver + -y/ware/back/fish/smith；quick + silver 的 quick 有旧活的义。\n\n与 silver 比较银和钱币，不从 silver 派生。sterling 早期指英国银便士，远源有星形币图加小称 -ling 等分析但不确定；足值、符合标准再引申为出色、可靠。",
+    "branches": [
+      [
+        "材料、光泽和器物",
+        "silver · silvery · silverware"
+      ],
+      [
+        "工艺和旧金属名",
+        "silversmith · quicksilver"
+      ],
+      [
+        "按外观叫动物",
+        "silverfish · silverback"
+      ],
+      [
+        "sterling：银币、足值 → 英镑、优良可靠",
+        "sterling"
+      ]
+    ],
+    "contrasts": "silver 颜色不保证材质；silverware 尤美式可普通餐具；silverback 成熟雄性称呼，不是独立物种。",
+    "practice": "Silvery light fell on the old silverware.\n\n银色光线落在旧银器上。",
+    "words": [
+      "silver",
+      "silvery",
+      "silverware",
+      "silversmith",
+      "quicksilver",
+      "silverfish",
+      "silverback",
+      "sterling"
+    ],
+    "exclude": {
+      "silver-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "silverman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "silver-tongued": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3702",
+    "meaning": "品尝、味道；体验、喜好与得体判断",
+    "core": "TASTE：先尝一点来判断，再把判断借给审美和经历",
+    "image": "taste → tasting、taster、tasty；tasteful → tastefully 与 tasteless 相邻；distaste → distasteful 相邻；foretaste、aftertaste 按前后体验。",
+    "intro": "法语旧接触、试尝背景不用硬翻到每个现代句子。tasty 美味与 tasteful 有品位分开，是本组学习重点。tastefully 讲得体方式，distasteful 讲引起反感。",
+    "forms": "taste + -ing/-er/-y/-less/-ful；tasteful + -ly；dis- + taste → distaste → distasteful；fore-/after + taste。\n\n法语触摸、尝试、品尝材料进入英语，较远拉丁分析不宜写死。\n\ntaste 经法语 taster 尝、触碰等，远接拉丁材料且可能受 gustare 尝影响。现代去 e 加完整 -ed，/t/ 后读 /ɪd/。",
+    "branches": [
+      [
+        "尝、品鉴与好吃",
+        "taste · tasting · taster · tasty"
+      ],
+      [
+        "审美、得体与否定",
+        "tasteful · tastefully · tasteless"
+      ],
+      [
+        "反感和令人反感",
+        "distaste · distasteful"
+      ],
+      [
+        "预尝与余味",
+        "foretaste · aftertaste"
+      ],
+      [
+        "taste → tastes：尝、味道与个人喜好",
+        "taste · tastes"
+      ],
+      [
+        "taste 尝、体验 → tasted",
+        "tasted"
+      ]
+    ],
+    "contrasts": "tasty 食物好吃、tasteful 雅致得体；taste good 系动词后形容词；distaste 感受、distasteful 令人反感；foretaste 事前、aftertaste 事后。",
+    "practice": "The meal was tasty, and the room was tastefully decorated.\n\n饭菜好吃，房间也布置得雅致。",
+    "words": [
+      "taste",
+      "tasting",
+      "taster",
+      "tasty",
+      "tasteful",
+      "tastefully",
+      "tasteless",
+      "distaste",
+      "distasteful",
+      "foretaste",
+      "aftertaste",
+      "tastes",
+      "tasted"
+    ],
+    "exclude": {
+      "taste-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

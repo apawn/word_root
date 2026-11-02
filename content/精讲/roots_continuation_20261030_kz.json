@@ -1,0 +1,163 @@
+[
+  {
+    "id": "B3233",
+    "meaning": "第一位希腊字母，扩作开始、序列和阶段标记",
+    "core": "ALPHA：先是字母名称，再按约定标记第一、早期阶段",
+    "image": "alpha；alphabet 历史由 alpha + beta 两个字母名称组成。",
+    "intro": "字母在序列排第一，所以能借作开始、早期版本等标记。科学符号、软件阶段里的具体含义，还要看领域约定。",
+    "forms": "腓尼基、希伯来相关字母名 aleph → 希腊 alpha → 拉丁、英语 alpha；alpha + beta → alphabet。\n\n希腊头两个字母名的历史合称。",
+    "branches": [
+      [
+        "字母与字母表名称",
+        "alpha · beta · alphabet"
+      ],
+      [
+        "alphabet → alphabets：不同字母体系",
+        "alphabet · alphabets"
+      ]
+    ],
+    "contrasts": "alpha 不表示在所有对象上都是最好、最强；alpha test 是阶段名称。",
+    "practice": "The alpha version is ready for early testing.\n\nalpha 版本已经可以进行早期测试。",
+    "words": [
+      "alpha",
+      "beta",
+      "alphabet",
+      "alphabets"
+    ],
+    "exclude": {
+      "alprazolam": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alpha-lactam": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3176",
+    "meaning": "把重量背在身上，扩到责任、忧虑与覆盖物",
+    "core": "BURDEN：需要承受的重量，可以是实物也可以是责任",
+    "image": "burden → burdensome；overburden 动词负担过度，名词看上方覆盖层。",
+    "intro": "担子这幅画面足够串起常用义。地质名词再按位置理解，重音和普通动词也有区别。",
+    "forms": "byrden 等 → burden，联系承载词族；-some 性质，over- 过度或在上面。",
+    "branches": [
+      [
+        "负担与性质",
+        "burden · burdensome"
+      ],
+      [
+        "过重与上方覆盖物",
+        "overburden"
+      ]
+    ],
+    "contrasts": "burden 比 task 更强调压力；overburden 名词和动词重音、意思不同。",
+    "practice": "The burdensome process threatened to overburden the small office.\n\n繁重流程使小办公室面临不堪重负的局面。",
+    "words": [
+      "burden",
+      "burdensome",
+      "overburden"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3184",
+    "meaning": "石匠职业、砖石工艺和产物，再到保存石匠象征的社团词",
+    "core": "MASON：人物、工艺、作品与社团要分层看",
+    "image": "mason → masonry、masonic；free + mason → Freemason → Freemasonry；stonemason 明确石材工匠。",
+    "intro": "历史象征能解释社团名称，现代成员却不必从事石工。构词后缀再帮助区分人物、工艺、整体与性质。",
+    "forms": "maçon 等 → mason；-ry 工艺、产物、整体，-ic 性质；free 的最初命名含义有讨论。",
+    "branches": [
+      [
+        "职业、工艺与砌体",
+        "mason · stonemason · masonry"
+      ],
+      [
+        "成员、整体与性质",
+        "freemason · freemasonry · masonic"
+      ]
+    ],
+    "contrasts": "masonry 不等于 masons；masonic 读音变；现代 Freemason 不必是石匠，free 不直译免费。",
+    "practice": "The mason examined the old masonry beside the Masonic hall.\n\n石匠查看了共济会会堂旁的旧砖石结构。",
+    "words": [
+      "mason",
+      "stonemason",
+      "masonry",
+      "freemason",
+      "freemasonry",
+      "masonic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3959",
+    "meaning": "快速移动、及时行动的性质，以及按飞行特征命名的鸟",
+    "core": "SWIFT：一面是快，一面是雨燕的固定名称",
+    "image": "swift → swiftly、swiftness。",
+    "intro": "形容词、方式副词、性质名词可放一条线上；雨燕则是按特征命名后固定下来的动物词。",
+    "forms": "古英语 swift、swiftlīce、swiftnes → 现代对应词；-ly 方式，-ness 性质。",
+    "branches": [
+      [
+        "性质、鸟名与派生",
+        "swift · swiftly · swiftness"
+      ]
+    ],
+    "contrasts": "swift action 可书面表达迅速果断；swift 与 swallow 鸟名不同；快不自动等于正确。",
+    "practice": "The swift response showed how swiftly the team could work.\n\n迅速回应展现了团队行动可以多么快捷。",
+    "words": [
+      "swift",
+      "swiftly",
+      "swiftness"
+    ],
+    "exclude": {
+      "swift-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "swift-footed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4329",
+    "meaning": "引起分歧与没有多少分歧的性质",
+    "core": "CONTROVERSIAL：看人们是否容易产生争论",
+    "image": "controversial → controversially；uncontroversial 否定争议性质。",
+    "intro": "争议程度与真假、重要程度不是同一条尺度。先看句子是在呈现事实还是说明人们的分歧。",
+    "forms": "controversy + -al → controversial；-ly 副词，un- 否定。",
+    "branches": [
+      [
+        "性质、方式与否定",
+        "controversial · controversially · uncontroversial"
+      ]
+    ],
+    "contrasts": "controversial 不自动错误，uncontroversial 不自动不重要；争议可随群体、语境变化。",
+    "practice": "An uncontroversial introduction led into the controversial proposal.\n\n没有争议的引言之后，是那个引起分歧的提案。",
+    "words": [
+      "controversial",
+      "controversially",
+      "uncontroversial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4530",
+    "meaning": "启动一个机制，扩到事件与情绪反应的触发",
+    "core": "TRIGGER：小触点开启后续反应",
+    "image": "trigger → triggered、triggering。",
+    "intro": "启动装置、事件导火点、情绪触发都有开始反应的共同点。它通常说直接触发因素，不一定说明全部原因。",
+    "forms": "trekken 拉 → trekker → tricker、trigger；-ed 已触发状态，-ing 过程、性质。",
+    "branches": [
+      [
+        "装置、因素与动作",
+        "trigger"
+      ],
+      [
+        "被触发与引发反应",
+        "triggered · triggering"
+      ]
+    ],
+    "contrasts": "trigger 不必是全部根本原因；triggered 可说系统或情绪；triggering 的反应依对象不同。",
+    "practice": "The sensor triggered the alarm, and the triggered warning stopped the test.\n\n传感器触发了警报，启动的警示让测试停止。",
+    "words": [
+      "trigger",
+      "triggered",
+      "triggering"
+    ],
+    "exclude": {
+      "trigger-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hair-trigger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

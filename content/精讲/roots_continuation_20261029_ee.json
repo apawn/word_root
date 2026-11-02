@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B2764",
+    "meaning": "毛发、造型、护理工具与细线比喻",
+    "core": "HAIR：整片头发与单根发丝，再看工具和造型",
+    "image": "按状态、职业活动、工具用品来读；hairline、hairpin 的比喻接细线与发夹形状。",
+    "intro": "hair 继承古英语毛发词。现代复合词大多清楚，但整体 hair 不可数、单根 a hair 可数的区别很实用。",
+    "forms": "hair → hairy、haired、hairless；hair + line、dresser、dressing、stylist、styling、dryer、brush、pin、piece、ball；short + hair。\n\nhair 接古英语 hǣr；毛发整体常不可数，hairs 数一根根头发、毛。\n\n刷子按用途命名，发夹又按形状引申为急转弯。",
+    "branches": [
+      [
+        "核心与毛发状态",
+        "hair · hairy · haired · hairless · hairline"
+      ],
+      [
+        "职业、活动与造型",
+        "hairdresser · hairdressing · hairstylist · hairstyling · hairstyle · haircut · hairdo · haircare"
+      ],
+      [
+        "工具与用品",
+        "hairdryer · hairbrush · hairpin · hairpiece"
+      ],
+      [
+        "毛团与动物名称",
+        "hairball · shorthair"
+      ],
+      [
+        "hair → hairs：一头毛发与一根根毛发",
+        "hair · hairs"
+      ],
+      [
+        "hair 的用品组合：发刷、发夹及复数",
+        "hair · hairbrush · hairbrushes · hairpin · hairpins"
+      ]
+    ],
+    "contrasts": "hairstyle 结果，hairstyling 活动，hairstylist 人；hair 整体不可数，a hair 单根可数；hairpin bend 是形状比喻。",
+    "practice": "The hairstylist used a hairbrush and hairpins to create the hairstyle.\n\n发型师用发刷和发夹做出了这个发型。",
+    "words": [
+      "hair",
+      "hairy",
+      "haired",
+      "hairless",
+      "hairline",
+      "hairdresser",
+      "hairdressing",
+      "hairstylist",
+      "hairstyling",
+      "hairstyle",
+      "haircut",
+      "hairdo",
+      "haircare",
+      "hairdryer",
+      "hairbrush",
+      "hairpin",
+      "hairpiece",
+      "hairball",
+      "shorthair",
+      "hairs",
+      "hairbrushes",
+      "hairpins"
+    ],
+    "exclude": {
+      "hair-trigger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horsehair": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

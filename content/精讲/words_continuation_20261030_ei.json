@@ -1,0 +1,408 @@
+[
+  {
+    "word": "trail",
+    "ipa": "/treɪl/",
+    "meaning": "小径、踪迹；拖在后面、跟踪、落后",
+    "sense": "衣角拖在身后，动物走过留下踪迹，人沿着踪迹走出小路：这些画面都能围绕跟在后面、留下一路痕迹理解。",
+    "split": "经中古英语接古法语 trailler，拖、追踪；更远通常联系拉丁拖拉词族，但具体链条保留可能性。名词从拖随物、痕迹扩到小径。",
+    "history": [
+      [
+        "古法语 trailler → 中古英语 trailen → trail",
+        "拖着走、循迹追踪；更远通常联系拉丁拖拉词族"
+      ],
+      [
+        "拖行留下的痕迹 → trail 名词",
+        "踪迹、路径、小径"
+      ],
+      [
+        "在后、沿路与开路",
+        "trailer 跟在后面；trailhead 起点；trailblazer 标路、开拓者"
+      ]
+    ],
+    "explanation": "a hiking trail 徒步小径，a trail of footprints 一串脚印，trail behind 落在后面，trail off 声音渐弱，an audit trail 可追查的记录链。",
+    "usage": "a hiking trail；a trail of footprints；trail behind；trail off。",
+    "contrast": "trail 路径、痕迹或跟随，trial 试验、审判，字母顺序不同；trail behind 可说分数落后，不一定真的在跑。",
+    "examples": [
+      [
+        "We followed a narrow trail through the woods.",
+        "我们沿一条窄小径穿过树林。"
+      ],
+      [
+        "Their team trailed by five points at half time.",
+        "半场时，他们队落后五分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trail#English",
+      "https://www.etymonline.com/word/trail"
+    ]
+  },
+  {
+    "word": "trailer",
+    "ipa": "英 /ˈtreɪlə/；美 /ˈtreɪlər/",
+    "meaning": "拖车、挂车；活动房车；影片预告片",
+    "sense": "车跟在另一辆车后面被拖着走，很好理解；预告片名称也保留跟在正片后面的旧放映背景，今天通常提前放，名称却留下了。",
+    "split": "trail + -er，跟随者、拖随物，再指挂车等。电影义与早期附在正片后面的宣传短片有关，不把现代播放位置倒推为词名原意。",
+    "history": [
+      [
+        "古法语 trailler → 中古英语 trailen → trail",
+        "拖着走、循迹追踪；更远通常联系拉丁拖拉词族"
+      ],
+      [
+        "拖行留下的痕迹 → trail 名词",
+        "踪迹、路径、小径"
+      ],
+      [
+        "trail + -er → trailer",
+        "跟随、拖在后面的东西 → 挂车"
+      ],
+      [
+        "电影宣传短片旧放映位置",
+        "曾跟在正片之后 → 今天常见预告片"
+      ]
+    ],
+    "explanation": "a movie trailer 电影预告片，a travel trailer 旅行拖挂房车，a trailer attached to a car 汽车挂着的拖车。",
+    "usage": "a movie trailer；a travel trailer；watch the trailer。",
+    "contrast": "trailer 预告片不是整部电影；拖车 trailer 与能自行行驶的房车 motorhome 不完全相同。",
+    "examples": [
+      [
+        "We watched the trailer before buying tickets.",
+        "买票前，我们看了预告片。"
+      ],
+      [
+        "The car was pulling a small trailer.",
+        "汽车拖着一辆小挂车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trailer#English"
+    ]
+  },
+  {
+    "word": "trailhead",
+    "ipa": "/ˈtreɪlhed/",
+    "meaning": "步道起点、小径入口",
+    "sense": "一条徒步路线从这里进入：可能有路线牌、地图、停车点。head 在这里是路线的头、开始处。",
+    "split": "trail 小径 + head 头、起点；不是路上某个人的脑袋，也不是整片山区最高峰。",
+    "history": [
+      [
+        "古法语 trailler → 中古英语 trailen → trail",
+        "拖着走、循迹追踪；更远通常联系拉丁拖拉词族"
+      ],
+      [
+        "拖行留下的痕迹 → trail 名词",
+        "踪迹、路径、小径"
+      ],
+      [
+        "trail + head → trailhead",
+        "小径的头 → 步道入口、起点"
+      ]
+    ],
+    "explanation": "meet at the trailhead 在步道入口碰面，a trailhead sign 步道入口标牌，drive to the trailhead 开车到步道起点。",
+    "usage": "meet at the trailhead；a trailhead sign；drive to the trailhead。",
+    "contrast": "trailhead 通常起点、入口，summit 山顶是另一位置；从入口出发不保证路线一定上山。",
+    "examples": [
+      [
+        "We met at the trailhead at seven.",
+        "我们七点在步道入口碰面。"
+      ],
+      [
+        "A map at the trailhead showed two routes.",
+        "步道入口的地图画出了两条路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trailhead#English"
+    ]
+  },
+  {
+    "word": "trailblazer",
+    "ipa": "英 /ˈtreɪlbleɪzə/；美 /ˈtreɪlbleɪzər/",
+    "meaning": "开路者、先驱、开拓者",
+    "sense": "先有人沿路做标记，后面的人才知道怎么走；比喻到工作、艺术，就是先试出一条新路的人。",
+    "split": "trail 路 + blaze 作路标的动作 + -er。这里 blaze 不是生火烧山，而是在树等处留下辨路标记的那支词义。",
+    "history": [
+      [
+        "古法语 trailler → 中古英语 trailen → trail",
+        "拖着走、循迹追踪；更远通常联系拉丁拖拉词族"
+      ],
+      [
+        "拖行留下的痕迹 → trail 名词",
+        "踪迹、路径、小径"
+      ],
+      [
+        "trail + blaze〔作路标〕+ -er → trailblazer",
+        "标出路线的人 → 带头开辟新领域的人"
+      ]
+    ],
+    "explanation": "a trailblazer in science 科学领域的先驱，a musical trailblazer 音乐开拓者，be regarded as a trailblazer 被视为先驱。",
+    "usage": "a trailblazer in；a musical trailblazer；a technological trailblazer。",
+    "contrast": "trailblazer 强调开新路，leader 领导者不一定第一个开路；blaze 此处作标记，不把故事编成点火清路。",
+    "examples": [
+      [
+        "She was a trailblazer in documentary filmmaking.",
+        "她是纪录片创作领域的开拓者。"
+      ],
+      [
+        "The museum honours local trailblazers in science.",
+        "博物馆纪念本地科学先驱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trailblazer#English"
+    ]
+  },
+  {
+    "word": "trailblazing",
+    "ipa": "/ˈtreɪlbleɪzɪŋ/",
+    "meaning": "开创性的、开辟新路的",
+    "sense": "一项研究、一种做法以前没人这样做，它给后人开了路，就可以说 trailblazing。",
+    "split": "trail + blazing，对应 blaze a trail 开路、作标记的 -ing 形式，也作性质形容词；与 trailblazer 的人物名相邻记。",
+    "history": [
+      [
+        "古法语 trailler → 中古英语 trailen → trail",
+        "拖着走、循迹追踪；更远通常联系拉丁拖拉词族"
+      ],
+      [
+        "拖行留下的痕迹 → trail 名词",
+        "踪迹、路径、小径"
+      ],
+      [
+        "trail + blazing → trailblazing",
+        "开路的行动 → 开创性的性质"
+      ]
+    ],
+    "explanation": "trailblazing work 开创性工作，a trailblazing researcher 开创道路的研究者，trailblazing research 开创性研究。",
+    "usage": "trailblazing work；trailblazing research；a trailblazing career。",
+    "contrast": "trailblazer 是先驱人物，trailblazing 形容工作、人物具有开拓性；new 新不一定达到开创的程度。",
+    "examples": [
+      [
+        "The award recognized her trailblazing research.",
+        "奖项表彰了她的开创性研究。"
+      ],
+      [
+        "His trailblazing work inspired younger designers.",
+        "他的开创性工作启发了年轻设计师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trailblazing#English"
+    ]
+  },
+  {
+    "word": "rank",
+    "ipa": "/ræŋk/",
+    "meaning": "等级、军衔、名次、行列；给……排名、处于某名次；难闻的、十足的〔另源形容词〕",
+    "sense": "把一排人或事物摆出先后，就是 rank 的排名画面；但 rank smell 难闻气味走另一条旧词源，不能理解成高级气味。",
+    "split": "行列名词经法语接入英语，再发展等级和排名动词。难闻、过度的形容词接古英语 ranc，历史分开，不都从队伍名次生出来。",
+    "history": [
+      [
+        "古法语 ranc、rang 等 → 中古英语 rank",
+        "行列 → 地位、等级、排名；较远为日耳曼语背景"
+      ],
+      [
+        "rank 名词 → 排列、评级的动词",
+        "把对象放入次序；处于某名次"
+      ],
+      [
+        "古英语 ranc → 另一路形容词 rank",
+        "旺盛、过度等旧义 → 难闻、十足等现代义；不与排名硬接"
+      ]
+    ],
+    "explanation": "military rank 军衔，rank first 排第一，rank among the best 名列前茅，the rank and file 普通成员，a rank smell 刺鼻臭味。",
+    "usage": "military rank；rank first；rank among；the rank and file；a rank smell。",
+    "contrast": "rank 排名可按不同标准，不能自动等于品质；rank 形容难闻与 ranking 评级不在同一条意思链。",
+    "examples": [
+      [
+        "The school ranks among the best in the region.",
+        "学校名列当地前茅。"
+      ],
+      [
+        "A rank smell came from the old drain.",
+        "旧排水沟飘出一股刺鼻臭味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rank#English",
+      "https://www.etymonline.com/word/rank"
+    ]
+  },
+  {
+    "word": "ranked",
+    "ipa": "/ræŋkt/",
+    "meaning": "列入排名的、有评级的；被排在某位的",
+    "sense": "对象已经被放进一个排名系统；游戏 ranked matches 常说计入等级、排名的对局，不是每一局都有高水平玩家。",
+    "split": "排名动词 rank + -ed，过去分词也可作形容词；末尾 -ed 在这里读 /t/，不多加一个 /ɪd/ 音节。",
+    "history": [
+      [
+        "古法语 ranc、rang 等 → 中古英语 rank",
+        "行列 → 地位、等级、排名；较远为日耳曼语背景"
+      ],
+      [
+        "rank 名词 → 排列、评级的动词",
+        "把对象放入次序；处于某名次"
+      ],
+      [
+        "rank + -ed → ranked",
+        "已被排名、计入评级的"
+      ]
+    ],
+    "explanation": "a highly ranked university 排名靠前的大学，ranked matches 排位对局，ranked second 排名第二。",
+    "usage": "a highly ranked university；ranked matches；ranked second。",
+    "contrast": "ranked 有排名或评级，highly ranked 才说明排名高；ranked 本身不保证最高或第一。",
+    "examples": [
+      [
+        "She chose a highly ranked university.",
+        "她选了一所排名靠前的大学。"
+      ],
+      [
+        "He prefers ranked matches to casual games.",
+        "比起休闲对局，他更喜欢排位赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranked#English"
+    ]
+  },
+  {
+    "word": "outrank",
+    "ipa": "/ˌaʊtˈræŋk/",
+    "meaning": "级别高于、排名超过",
+    "sense": "把两个人、机构放在同一套等级里比，一个在另一个之上；这里 out- 是超过，不是走出队伍。",
+    "split": "out- 超过 + rank 等级、排名，形成比较级别高低的动词，后面可直接接比较对象。",
+    "history": [
+      [
+        "古法语 ranc、rang 等 → 中古英语 rank",
+        "行列 → 地位、等级、排名；较远为日耳曼语背景"
+      ],
+      [
+        "rank 名词 → 排列、评级的动词",
+        "把对象放入次序；处于某名次"
+      ],
+      [
+        "out- + rank → outrank",
+        "在等级、名次等方面高于"
+      ]
+    ],
+    "explanation": "outrank an officer 级别高于某军官，outrank a competitor 排名超过竞争者，outrank someone in seniority 资历级别更高。",
+    "usage": "outrank someone；outrank a competitor；outrank in seniority。",
+    "contrast": "outrank 侧重等级、名次，outperform 表现更好；职位高不等于每件事做得更好。",
+    "examples": [
+      [
+        "She outranks him in the organization.",
+        "她在机构里的级别高于他。"
+      ],
+      [
+        "The new model outranked its rivals in the survey.",
+        "新型号在调查排名中超过了对手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outrank#English"
+    ]
+  },
+  {
+    "word": "ray",
+    "ipa": "/reɪ/",
+    "meaning": "光线、射线；一线希望；鳐鱼〔另来源〕",
+    "sense": "太阳往外射出一条光，可想成轮辐向外伸；海里扁平的 ray 却是鱼名，不是因为它会发射太阳光。",
+    "split": "光线经法语接拉丁 radius，杆、辐条等；鱼名经法语接拉丁 raia，较远来源不明。两条路径不能只因形似就合并。",
+    "history": [
+      [
+        "拉丁 radius → 古法语 rai → 中古英语 → ray〔光线〕",
+        "杆、辐条、向外伸出的线 → 光线"
+      ],
+      [
+        "拉丁 raia → 古法语 raie → 英语 ray〔鳐鱼〕",
+        "鱼名；较远来源不明，与光线分开"
+      ],
+      [
+        "复合词分别接两义",
+        "sunray 接光线；stingray 接鳐鱼"
+      ]
+    ],
+    "explanation": "a ray of sunlight 一缕阳光，a ray of hope 一线希望，gamma rays 伽马射线，a ray swimming near the bottom 靠近水底游动的鳐鱼。",
+    "usage": "a ray of sunlight；a ray of hope；gamma rays；a ray of light。",
+    "contrast": "ray 鱼与光线同拼写异源；ray of hope 是希望像暗处透来一线光的比喻，不是鱼带来了希望的固定故事。",
+    "examples": [
+      [
+        "A ray of sunlight fell across the desk.",
+        "一缕阳光落在桌面上。"
+      ],
+      [
+        "A ray glided over the sandy seabed.",
+        "一条鳐鱼滑游过沙质海底。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ray#English",
+      "https://www.etymonline.com/word/ray"
+    ]
+  },
+  {
+    "word": "sunray",
+    "ipa": "/ˈsʌnreɪ/",
+    "meaning": "太阳光线、一缕阳光",
+    "sense": "太阳照来的一道光，sun 指来源，ray 指一道光线；不是新的光学单位。",
+    "split": "sun 太阳 + ray 光线，组成来源明确的光线名称。也常用分写 sun ray，词义不变。",
+    "history": [
+      [
+        "拉丁 radius → 古法语 rai → 中古英语 → ray〔光线〕",
+        "杆、辐条、向外伸出的线 → 光线"
+      ],
+      [
+        "sun + ray → sunray",
+        "太阳发出的光线"
+      ]
+    ],
+    "explanation": "a golden sunray 一道金色阳光，sunrays through the clouds 穿过云层的阳光，the first sunrays 最初照来的阳光。",
+    "usage": "golden sunrays；sunrays through the clouds；the first sunrays。",
+    "contrast": "sunray 常一道光，sunlight 泛指阳光；ray 的鱼名不是本词的构词基础。",
+    "examples": [
+      [
+        "A sunray slipped through the curtains.",
+        "一缕阳光透过窗帘。"
+      ],
+      [
+        "Golden sunrays lit the clouds.",
+        "金色阳光照亮了云层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sunray#English"
+    ]
+  },
+  {
+    "word": "stingray",
+    "ipa": "/ˈstɪŋreɪ/",
+    "meaning": "魟、带尾刺的鳐类",
+    "sense": "ray 这里是扁平的鱼；sting 提醒这种鳐类有能造成刺伤的尾刺，不是在说一束会蜇人的光。",
+    "split": "sting 刺、蜇 + ray 鳐鱼，按尾部刺的特征命名；并不是所有 ray 都能随意换成 stingray。",
+    "history": [
+      [
+        "拉丁 raia → 古法语 raie → 英语 ray〔鳐鱼〕",
+        "鱼名；较远来源不明，与光线分开"
+      ],
+      [
+        "sting + ray〔鱼〕→ stingray",
+        "具有尾刺特征的鳐类名称"
+      ]
+    ],
+    "explanation": "a stingray gliding over sand 在沙上滑游的魟，a stingray’s tail 魟的尾部，watch a stingray 观察魟。",
+    "usage": "a stingray’s tail；watch a stingray；a stingray gliding over sand。",
+    "contrast": "stingray 是鳐类中的一类，ray 范围更广；名称的 sting 接刺，不接动词 sing 唱歌。",
+    "examples": [
+      [
+        "A stingray glided past the reef.",
+        "一条魟从礁旁滑游而过。"
+      ],
+      [
+        "The guide pointed out the stingray’s long tail.",
+        "向导指给我们看魟的长尾巴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stingray#English"
+    ]
+  }
+]

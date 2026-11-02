@@ -1,0 +1,273 @@
+[
+  {
+    "id": "B3162",
+    "meaning": "模仿取笑与认真模拟分场景，嘲弄名词另接",
+    "core": "MOCK：仿着做，可能在取笑，也可能在演练",
+    "image": "mock → mockery；先看是在谈人际态度，还是练习、测试用途。",
+    "intro": "模仿本身不决定态度。mock someone 常是嘲笑，mock exam 却是为正式考试作准备；mockery 则通常回到讥讽、形同儿戏。",
+    "forms": "mocquer、moquier → mokken → mock；mokerie、moquerie → mockery，可对应 mock + -ery。\n\nmock 经法语 mocquer 等，远源未定。mockery 还有法语名词独立借入的历史，不能只按现代短词在前的顺序倒排年代。taunt、jeer 另源，放在这里比较嘲弄方式，不主张它们由 mock 派生。",
+    "branches": [
+      [
+        "嘲笑、模拟与嘲弄名词",
+        "mock · mockery"
+      ],
+      [
+        "mock：取笑、模仿与模拟；taunt、jeer 作近义比较",
+        "mock · mocks · mocked · mocking · mockingly · mocker · mockers · mockery · mockeries"
+      ]
+    ],
+    "contrasts": "mock 的形容词用法可中性；mockery 常带贬义，不能机械互换。",
+    "practice": "The mock interview was serious practice, without any mockery.\n\n这场模拟面试是认真练习，没有任何嘲弄。",
+    "words": [
+      "mock",
+      "mockery",
+      "mocks",
+      "mocked",
+      "mocking",
+      "mockingly",
+      "mocker",
+      "mockers",
+      "mockeries"
+    ],
+    "exclude": {
+      "mock-heroic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2042",
+    "meaning": "从自然、生成到机体功能，学科与康复职业各有用法",
+    "core": "PHYSIO-：这组重点看身体怎样运作",
+    "image": "physiology → physiologic、physiological；physiotherapy、physiotherapist 则接物理治疗的固定学科、职业名称。",
+    "intro": "古希腊自然、生成的材料，后来在生理学中关注生命机能。物理治疗名称里的 physio- 也有自身学科用法，不能把治疗直接译成研究身体功能。",
+    "forms": "physis → physio-；-logy 研究，-logic、-logical 相关性质；therapy 治疗，therapist 相应从业者。",
+    "branches": [
+      [
+        "机能研究与性质",
+        "physiology · physiologic · physiological"
+      ],
+      [
+        "物理治疗与职业",
+        "physiotherapy · physiotherapist"
+      ]
+    ],
+    "contrasts": "physiologic 与 physiological 不强行划分理论、实际；physiotherapy 是固定的物理治疗名称。",
+    "practice": "The physiology lesson explains physiologic changes during movement.\n\n生理学课程解释运动过程中的生理变化。",
+    "words": [
+      "physiology",
+      "physiologic",
+      "physiological",
+      "physiotherapy",
+      "physiotherapist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4518",
+    "meaning": "提供满足感的性质，否定与副词围绕效果展开",
+    "core": "SATISFYING：期待的那一下终于落稳了",
+    "image": "satisfying → unsatisfying、satisfyingly，看是否带来满足，以及怎样让人满足。",
+    "intro": "不仅是达到最低标准，还可以是听到合适声响、看到问题解决后的舒服感。否定形式说明这种回应没有充分出现。",
+    "forms": "satisfy → satisfying；un- 否定；satisfying + -ly。",
+    "branches": [
+      [
+        "满足效果、否定与方式",
+        "satisfying · unsatisfying · satisfyingly"
+      ]
+    ],
+    "contrasts": "satisfying 令人满足，satisfied 感到满足；satisfyingly 与 satisfactorily 的强调点可不同。",
+    "practice": "After an unsatisfying first draft, the ending became satisfyingly clear.\n\n第一稿让人不尽兴，后来结尾终于清楚得令人满足。",
+    "words": [
+      "satisfying",
+      "unsatisfying",
+      "satisfyingly"
+    ],
+    "exclude": {
+      "self-satisfying": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3807",
+    "meaning": "铺在下面的垫面，再借给纠缠成片的纤维",
+    "core": "MAT：一片平垫，或像垫子一样结成一层",
+    "image": "mat → doormat，door 限定放在门口；材料名也带出铺垫、缠结动作。",
+    "intro": "瑜伽垫、门垫先给平面形状和用途。毛发纠结成片用同样的纤维层形象，doormat 的受气包比喻则接被踩在脚下。",
+    "forms": "matta → meatte → matte → mat；door + mat。\n\n古英语承晚期拉丁 matta 草垫，更远有闪米特语言联系的分析。\n\n实物门垫中性，人物用法通常带受欺负、过度退让的语气。",
+    "branches": [
+      [
+        "垫子、缠结与门垫比喻",
+        "mat · doormat"
+      ],
+      [
+        "mat → mats：平面垫子和缠结层",
+        "mat · mats"
+      ],
+      [
+        "mat 的门口组合 doormat 及复数",
+        "mat · doormat · doormats"
+      ]
+    ],
+    "contrasts": "mat 不只指地毯；doormat 指人时通常是任人摆布的比喻。",
+    "practice": "He wiped his shoes on the doormat before stepping onto the new mat.\n\n他先在门垫上擦了擦鞋，再踩上新垫子。",
+    "words": [
+      "mat",
+      "doormat",
+      "mats",
+      "doormats"
+    ],
+    "exclude": {
+      "matty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3510",
+    "meaning": "虫状形体与钻入比喻，复合名称分别看实指",
+    "core": "WORM：细长扭动的形体，也能借来讲钻入、萦绕",
+    "image": "worm、wormy 作基础；动物、寄生虫、书迷、绕脑旋律等复合词各有命名重点。wormwood 则另看旧植物名改形。",
+    "intro": "earthworm、tapeworm 等看生物；bookworm、earworm 看比喻；wormhole 看洞道命名。ringworm、wormwood 提醒我们：眼前拼写不保证真有虫，也不保证原先这样拆。",
+    "forms": "wyrm、wurm → worm；-y 性质；earth、silk、tape、hook、heart、book、ear、hole 各限定形状、所在或用途；wermōd → wormwood 是另一历史。\n\n字面损伤书页的小虫，另有沉浸书中的人的比喻。\n\nworm 承古英语 wyrm、wurm，旧时动物范围比现代日常更宽。现代复数多说蠕虫、蚯蚓等；计算机蠕虫程序借蠕动、传播的形象命名。",
+    "branches": [
+      [
+        "基础形体与动物、寄生虫名称",
+        "worm · wormy · earthworm · silkworm · tapeworm · hookworm · heartworm"
+      ],
+      [
+        "比喻与形态借名",
+        "bookworm · earworm · wormhole · ringworm"
+      ],
+      [
+        "旧植物名的改形",
+        "wormwood"
+      ],
+      [
+        "bookworm → bookworms：蛀书虫与爱书人",
+        "bookworm · bookworms"
+      ],
+      [
+        "worm → worms：虫与蠕虫程序",
+        "worms"
+      ]
+    ],
+    "contrasts": "ringworm 是真菌感染名，heartworm 指寄生虫；wormwood 原名不能硬拆成现代 worm + wood。",
+    "practice": "The bookworm read about earthworms while an earworm played in her head.\n\n这位书迷读着蚯蚓资料，一段旋律却在脑中反复盘旋。",
+    "words": [
+      "worm",
+      "wormy",
+      "earthworm",
+      "silkworm",
+      "tapeworm",
+      "hookworm",
+      "heartworm",
+      "bookworm",
+      "earworm",
+      "wormhole",
+      "ringworm",
+      "wormwood",
+      "bookworms",
+      "worms"
+    ],
+    "exclude": {
+      "worm-star": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rye-worm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3467",
+    "meaning": "身体部位性质与由旧术语扩展的口语评价分开",
+    "core": "ANAL：先认部位，口语里再认过分较真的评价",
+    "image": "anal → anally，形容性质与副词方式对应。",
+    "intro": "部位词是中性描述；口语人物评价另有精神分析术语传播背景。把词义历史讲清，不把旧理论当成对当事人的事实诊断。",
+    "forms": "anus → ānālis → anal；anal + -ly → anally。",
+    "branches": [
+      [
+        "性质与方面、方式",
+        "anal · anally"
+      ]
+    ],
+    "contrasts": "anal about details 常带嫌意；anally 与 annually 每年不同。",
+    "practice": "The passage uses anal as a casual criticism of excessive fussiness.\n\n这段话把 anal 当作随意批评过分较真的用语。",
+    "words": [
+      "anal",
+      "anally"
+    ],
+    "exclude": {
+      "anal-retentive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4023",
+    "meaning": "随流而动的动作、状态、人物与漂来物",
+    "core": "DRIFT：没有固定牵引，顺着外力逐渐移动",
+    "image": "drift → adrift、drifter、driftwood，动作、状态、人物、物件依次区分。",
+    "intro": "湖面小船给漂流状态，辗转生活给人物比喻，水里漂来的木头给实物复合词。get the drift 的大意则看基础词条的整体理解。",
+    "forms": "drift；a- 处于 → adrift；-er 人物；wood 木头 → driftwood。\n\ndrift 与 drive 的更早日耳曼材料同族，名词的英语近源有继承构词或借入分析；动词由名词发展，漂移、疏远、主题转移各依语境。",
+    "branches": [
+      [
+        "漂移、状态与人物",
+        "drift · adrift · drifter"
+      ],
+      [
+        "漂来的木头",
+        "driftwood"
+      ],
+      [
+        "drift：顺着外力，逐渐移动、偏离",
+        "drift · drifts · drifted · drifting · drifter · drifters"
+      ]
+    ],
+    "contrasts": "adrift 是状态，drifter 是人物；driftwood 是漂木，不是所有木材。",
+    "practice": "The drifter watched driftwood float past the boat lying adrift.\n\n漂泊者看着浮木从漂流的小船旁经过。",
+    "words": [
+      "drift",
+      "adrift",
+      "drifter",
+      "driftwood",
+      "drifts",
+      "drifted",
+      "drifting",
+      "drifters"
+    ],
+    "exclude": {
+      "mid-drift": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1841",
+    "meaning": "小个体、小物或较小形式，具体词还需接各自历史",
+    "core": "-LET：把较小的个体或物件单独命名",
+    "image": "booklet、droplet 等现代透明；cutlet 等还有外语整词借入路线，不把所有词都当英语临时相加。",
+    "intro": "一本小册子、一滴小水珠、一头小猪，都可看尺寸或幼小个体。starlet 还带新秀角色用法，applet 则是较小的应用程序名称。",
+    "forms": "英语 -let 与法语小称构词材料相关；book + -let，drop + -let；islet、cutlet 等需接各自借词路线。",
+    "branches": [
+      [
+        "小册、纸片与小个体",
+        "booklet · leaflet · piglet · islet · droplet"
+      ],
+      [
+        "科学、技术与角色名称",
+        "platelet · singlet · wavelet · applet · starlet"
+      ],
+      [
+        "外语借入的菜名",
+        "cutlet"
+      ]
+    ],
+    "contrasts": "后缀提供小称线索，但 platelet 血小板不是小盘子食具；cutlet 的最早构词也不是英语 cut 加 -let。",
+    "practice": "The booklet uses droplets and wavelets to explain the idea.\n\n小册子用小水滴与小波来解释这个想法。",
+    "words": [
+      "booklet",
+      "leaflet",
+      "platelet",
+      "piglet",
+      "islet",
+      "droplet",
+      "singlet",
+      "starlet",
+      "wavelet",
+      "applet",
+      "cutlet"
+    ],
+    "exclude": {
+      "quizlet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

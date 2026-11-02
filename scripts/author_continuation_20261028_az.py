@@ -1,0 +1,173 @@
+"""Thank, win, fun, ask: practical extension chains and misleading translations."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[f'{a}；{b}','并列构词部分'],[w,m]]
+THANK=[['古英语 þanc〔名词〕、þancian〔动词〕→ 中古英语 thank / thanken','感念、感谢；表达谢意'],['英语 thank、thanks','感谢；谢意、谢谢']]
+W('thank','/θæŋk/','感谢；归因、归责于〔特定表达〕',
+ '把别人给的帮助记在心里，再把这份感激说给对方。',
+ '接古英语 þancian、中古英语 thanken，与 þanc“思想、感念、感谢”相连。更早与 think 的思考词族相关，但今天不是把 think 换元音就随意得到所有意思。',THANK,
+ 'thank someone for something 感谢某人的某事，Thank you 是 thank 接 you 的表达。have someone to thank for 也可说某事归因于某人，坏事时可能带反讽。',
+ 'thank someone for；thank you；have someone to thank for；thank goodness。',
+ 'Thank you 对、Thanks 对，Thanks you 通常不对；前者 thank 是动词，后者 thanks 是感谢表达的另一词形。',
+ ('I thanked her for waiting.','我感谢她等我。'),('We have our neighbors to thank for the beautiful garden.','花园这么漂亮，多亏了邻居们。'))
+W('thanks','/θæŋks/','谢谢；谢意；感谢',
+ '一句短短的“谢谢”，也能把谢意当作东西说“送上感谢”。',
+ '接中古英语 thanks、thankes，古英语有复数 þancas。s 有名词复数历史，不是把 thank 的第三人称动词拿来直接感谢你。',THANK+[['古英语 þancas → 英语 thanks','谢意的复数形式 → 常用感谢表达']],
+ 'Thanks for your help 谢谢帮助，many thanks 非常感谢，thanks to 多亏、由于。thanks to 有时讽刺坏后果，不必每次都有真心感谢。',
+ 'thanks for；many thanks；thanks to；No, thanks。',
+ 'thanks for 后接感谢的事情，thanks to 后接带来结果的人、因素。No, thanks 婉拒，不是没感谢。',
+ ('Thanks for sending the notes.','谢谢你发来笔记。'),('Thanks to your map, we found the village easily.','多亏你的地图，我们轻松找到了村庄。'))
+W('thankful','/ˈθæŋkfəl/','感激的；庆幸的',
+ '有人帮到自己，或坏事没发生，心里松一口气，觉得值得感谢。',
+ 'thank + -ful，古英语 þancful、中古英语 thankful 等已有对应形式；-ful 表充满、带有这种感受。',THANK+[['thank + -ful；旧形容词形式延续','感激、庆幸的']],
+ 'thankful for 感谢某事，thankful that 庆幸某个事实。常含坏结果被避开后的松口气，但也能普通表达感激。',
+ 'thankful for；thankful that；deeply thankful。',
+ 'thankful 与 grateful 都可感激；thankful 常适合庆幸顺利脱险等语境，不能硬分成只对事、只对人。',
+ ('I am thankful for your support.','我感谢你的支持。'),('We were thankful that the rain stopped before the ceremony.','我们很庆幸仪式前雨停了。'))
+W('thankfully','/ˈθæŋkfəli/','感激地；幸好；幸亏',
+ '可以描述怎么道谢，也可以给整个句子加上“还好结果没那么糟”。',
+ 'thankful + -ly；古英语 þancfullīċe、中古英语 thankfully 等有相应形式。现代句子副词常表达幸好，不必译成某个人正在感激地做动作。',THANK+[['thankful + -ly → thankfully','怀感激地；对结果感到庆幸']],
+ 'accept thankfully 感激地接受；Thankfully, we arrived in time 是幸好及时到了。后者语气来自说话人对结果的庆幸。',
+ 'Thankfully, ...；accept thankfully；smile thankfully。',
+ 'thankfully 幸好，hopefully 但愿；前者通常庆幸实际情况，后者常表达尚未确定的愿望。',
+ ('Thankfully, we found the missing bag before leaving.','幸好，我们出发前找到了丢失的包。'),('She smiled thankfully as he held the door.','他替她扶住门，她感激地笑了笑。'),
+ sources=['https://en.wiktionary.org/wiki/thankfully#English','https://dictionary.cambridge.org/dictionary/english/thankfully'])
+W('thankfulness','/ˈθæŋkfəlnəs/','感激；庆幸之情',
+ '不再直接说我感激，而把心里这份谢意、庆幸当成一种感受来描述。',
+ 'thankful + -ness，先 thank + -ful 得感激的，再名词化。不是 thank + fullness 物理装满。',THANK+[['thank → thankful → thankfulness','感谢 → 感激的 → 感激、庆幸之情']],
+ 'a feeling of thankfulness 感激之情，express thankfulness 表达感激；日常 gratitude 也常见。较抽象，适合描写情绪、态度。',
+ 'a feeling of thankfulness；express thankfulness；deep thankfulness。',
+ 'thankfulness 感受，thanks 感谢表达或谢意；写一句 thanks 可以表达 thankfulness，但词的语法位置不同。',
+ ('She felt a quiet thankfulness as the family gathered.','家人团聚时，她心里有一份安静的感激。'),('His letter expressed deep thankfulness for their kindness.','他在信里对大家的善意表达了深深感激。'))
+W('thankless','/ˈθæŋkləs/','吃力不讨好的；无人感激的；不感恩的〔另义〕',
+ '事情做了不少，却没有人道谢、重视，像谢意一直没落到这份工作上。',
+ 'thank + -less（缺少谢意等），中古英语已有 thankles。缺少的可能是别人给的感谢，不一定说执行者自己忘恩负义。',THANK+[['thank + -less → thankless','未获感激、回报；另可说不感恩']],
+ 'a thankless task 吃力不讨好的任务，a thankless job 不获感激的工作。最值得先记的是任务、工作的搭配。',
+ 'a thankless task；a thankless job；thankless work。',
+ 'thankful worker 感激的员工，thankless task 不受感谢的任务；不能机械把后一词组理解成任务本人没有礼貌。',
+ ('Cleaning up after every event is a thankless task.','每场活动后收拾残局，是件吃力不讨好的活。'),('She did the thankless work that kept the project running.','她做着那些不获重视、却维系项目运转的工作。'))
+R('B3263','感谢、感念与庆幸','THANK：把得到的帮助记在心里，再表达谢意','thank 是感谢动作，thanks 是谢谢、谢意；thankless task 则是做了却少人感激。',
+ 'thank 接古英语 þancian，与 þanc 感念、思想的旧词族有关。thanks 保留名词复数历史；thankful、thankfully 有对应旧形。',
+ 'thank → thanks；thank → thankful → thankfully、thankfulness；thankless 单列不受感谢的任务义。',
+ [['感谢动作与表达','thank · thanks'],['感受、副词与抽象名词','thankful · thankfully · thankfulness'],['未获感谢的另一方向','thankless']],
+ 'Thank you / Thanks，不写 Thanks you；thankfully 幸好、hopefully 但愿；thankless task 说工作不受感谢，不是工作忘恩负义。',
+ 'Thanks for doing such a thankless task; we are truly thankful.\n\n谢谢你做这件吃力不讨好的事，我们真心感激。',
+ 'thank thanks thankful thankfully thankfulness thankless')
+WIN=[['古英语 winnan / ġewinnan → 中古英语 winnen','努力、争取；获得、征服'],['英语 win','赢；获得；争取到']]
+W('win','/wɪn/','赢；获胜；赢得、争取到；胜利〔名词〕',
+ '从努力争取，到终于把胜利、奖项或信任拿到手。',
+ '接古英语 winnan、相关 ġewinnan，中古英语 winnen；旧义有劳作、努力、争取，现代赢得义突出结果。过去式、分词 won /wʌn/，不读作 /wɒn/。',WIN,
+ 'win a match 赢比赛，win a prize 获奖，win someone’s trust 赢得信任；a win 一场胜利。直接赢过某个人常用 beat someone。',
+ 'win a match；win a prize；win support；a narrow win。',
+ 'win the game 赢比赛，beat the other team 打败对手；不能照中文赢了他就处处写 win him。win him over 则是把他争取过来。',
+ ('Our team won the final match.','我们队赢了决赛。'),('Her honesty won our trust.','她的诚实赢得了我们的信任。'))
+W('winner','英 /ˈwɪnə/；美 /ˈwɪnər/','获胜者；成功、受欢迎的事物',
+ '在比赛里拿到胜利的人，也可借来称一个很受欢迎、做得成功的选择。',
+ 'win + -er，双写 n；中古英语已有 wynner、wynnere 等。不是英语 winter 冬天少一个 t 的词义联系。',WIN+[['win + -er → winner','获胜者；成功、讨喜的事物']],
+ 'the winner of a prize 获奖者，a clear winner 明显胜者；The recipe is a winner 夸菜谱成功、大家喜欢。',
+ 'the winner of；a clear winner；a prize winner；a real winner。',
+ 'winner 是获胜者或成功事物，winning 既可形容获胜也可表示讨喜；winner 不保证一个人从此所有事都成功。',
+ ('The winner received a small trophy.','获胜者得到一座小奖杯。'),('This simple recipe is a winner with children.','这道简单菜很受孩子欢迎。'))
+W('winning','/ˈwɪnɪŋ/','获胜的；有助取胜的；讨人喜欢的',
+ '比赛中是赢的一方；笑容、举止若能把人心“赢过来”，就显得讨喜。',
+ 'win + -ing，双写 n；由分词用法发展形容词，既有比赛胜利义，也有迷人、可亲义。',WIN+[['win + -ing → winning','获胜、带来胜利；能赢得好感']],
+ 'the winning team 胜队，a winning strategy 有效制胜策略，a winning smile 迷人的微笑。最后一种不需要刚拿到冠军。',
+ 'the winning team；a winning strategy；a winning smile。',
+ 'winning smile 讨喜，winner’s smile 胜者的笑；二者可重叠，但一个描写魅力，一个说明笑容属于谁。',
+ ('The winning team thanked the crowd.','胜队向观众道谢。'),('She greeted the visitors with a winning smile.','她带着讨喜的微笑迎接来访者。'))
+W('winnings','/ˈwɪnɪŋz/','赢得的钱、奖品；所得奖金',
+ '胜利是 win，赢完实际拿到手的钱或奖品是 winnings。',
+ 'winning + -s，由赢取、所得之物的名词用法形成常用复数。通常配复数语法，不等于每一笔日常工资。',WIN+[['winning〔赢取、所得〕+ -s → winnings','因获胜而得到的钱或奖品']],
+ 'collect your winnings 领取赢得的钱，share the winnings 分享奖金；博彩、竞赛等语境常见。',
+ 'collect the winnings；share the winnings；tournament winnings。',
+ 'winnings 获胜所得，earnings 劳动、经营等收入更广；winning 单数形容词不等于一笔奖金。',
+ ('They shared the quiz winnings equally.','他们平分了知识竞赛赢来的奖金。'),('Her tournament winnings paid for the next trip.','比赛奖金支付了她下一次出行的费用。'))
+W('winless','/ˈwɪnləs/','未尝胜绩的；没有赢过的〔某段范围内〕',
+ '比赛打了一些，但统计这一段还没有一场胜利。',
+ 'win + -less（没有），不是说永远没有可能赢；范围通常由赛季、连续场次等上下文界定。',WIN+[['win + -less → winless','没有获胜记录的']],
+ 'a winless season 一个未赢一场的赛季，a winless streak 一段不胜纪录。平局也可能让 winless 延续，并非都输了。',
+ 'a winless season；a winless streak；remain winless。',
+ 'winless 无胜，losing 全输或落败要另看；一队五连平可以 winless，却不是五连败。',
+ ('The team remained winless after five matches.','五场比赛后，这支队仍未尝胜绩。'),('A late goal ended their winless streak.','一粒末段进球终结了他们的不胜纪录。'))
+W('winnable','/ˈwɪnəbəl/','有望赢的；可以争取获胜的',
+ '局面不保证能赢，但仍有路可走、胜利够得着。',
+ 'win + -able，双写 n；-able 表可实现的可能，不是过去式赢过。',WIN+[['win + -able → winnable','可以获胜、争取到的']],
+ 'a winnable game 有希望赢的比赛，a winnable seat 有望争取到的席位。评价可能会出错，不是事实结果已经确定。',
+ 'a winnable game；a winnable contest；a winnable seat。',
+ 'winnable 有获胜可能，won 已赢；一个 winnable game 最后仍可能输掉。',
+ ('The coach believed the game was still winnable.','教练认为比赛仍有希望赢。'),('They focused their effort on winnable contests.','他们把精力放在有望取胜的竞争中。'))
+R('B2541','努力争取到；赢、获胜','WIN：把想要的胜利、奖励或信任争取到手','先努力争取，再看胜者、成功特征、实际所得，最后分未获胜和仍可赢。',
+ 'win 接古英语努力、争取词族；won /wʌn/ 是过去、分词。winner、winning、winnable 双写 n；winnings 是获胜所得的常用复数名词。',
+ 'win → winner、winning → winnings；winless 与 winnable 相邻对照。',
+ [['动作、胜者和制胜特征','win · winner · winning'],['所得与获胜可能','winnings · winless · winnable']],
+ 'win a game、beat a team；winning smile 迷人笑容；winless 可能包括平局，winnable 不等于 already won。',
+ 'The winless team still believed the next game was winnable.\n\n这支未尝胜绩的球队仍相信下一场有希望赢。',
+ 'win winner winning winnings winless winnable')
+FUN=[['中古英语 fon / fonne 等有关愚弄、傻的词形','愚弄、玩笑；更早来源不完全确定'],['英语 fun','玩笑、乐趣；令人愉快的']]
+W('fun','/fʌn/','乐趣；有趣的事；令人愉快的',
+ '活动让人愿意参与、觉得开心，不一定要笑出声。',
+ '与中古英语 fon、fonne 等愚弄、傻的旧词形相关，更早细节不确定；早期有骗局、恶作剧义，后来娱乐、乐趣义常用。形容词用法是名词的后续发展。',FUN,
+ 'have fun 玩得开心，for fun 为好玩，a fun activity 有趣活动。一般说 a lot of fun，不说 a fun 来数一次乐趣；make fun of 则是取笑。',
+ 'have fun；for fun；a lot of fun；a fun activity；make fun of。',
+ 'fun 让人觉得好玩、愉快，funny 常是好笑或奇怪；a fun trip 不保证途中有人一直讲笑话。',
+ ('We had a lot of fun at the picnic.','野餐时我们玩得很开心。'),('She learns new songs just for fun.','她学新歌纯粹是为了好玩。'))
+W('funny','/ˈfʌni/','好笑的；奇怪的；有点不舒服的〔口语〕',
+ '一件事偏离正常预期，可以让你笑，也可以让你觉得哪里不对。',
+ 'fun + -y，双写 n；与 fun 早期玩笑、愚弄等用法相连，发展出逗笑和奇怪两大常见方向。',FUN+[['fun + -y → funny','引人发笑；怪异、不对劲']],
+ 'a funny joke 好笑的笑话，a funny smell 怪味，feel funny 感觉有点不舒服。a funny person 可夸幽默，也可能说人古怪，需看语境。',
+ 'a funny joke；a funny smell；feel funny；funny enough。',
+ 'That is funny 可能好笑，也可能奇怪；That is fun 更直接说好玩。别把闻到 funny smell 译成闻到好笑味道。',
+ ('The film was so funny that we could not stop laughing.','电影太好笑，我们笑个不停。'),('There is a funny smell in the kitchen.','厨房有股怪味。'),
+ sources=['https://en.wiktionary.org/wiki/funny#English','https://dictionary.cambridge.org/dictionary/english/funny'])
+W('unfunny','/ʌnˈfʌni/','不好笑的；令人笑不出来的',
+ '本来想逗人笑，结果一点不逗，甚至让人尴尬。',
+ 'un-（不）+ funny，否定搞笑、有幽默感的性质；不是因为没有安排娱乐活动。',FUN+[['funny → un- + funny → unfunny','不好笑、缺乏幽默效果']],
+ 'an unfunny joke 不好笑的笑话，an unfunny comedy 不好笑的喜剧。常带批评，指幽默效果落空。',
+ 'an unfunny joke；an unfunny comedy；painfully unfunny。',
+ 'unfunny 不好笑，boring 无聊；一个悲剧场景不搞笑但仍可能引人入胜，不能自动归 boring。',
+ ('The joke was unfunny and went on too long.','笑话不好笑，还讲得太长。'),('The review called the comedy painfully unfunny.','影评认为这部喜剧不好笑得令人难受。'))
+W('funnily','/ˈfʌnəli/','滑稽地；奇怪地；说来也巧',
+ 'funny 的好笑和奇怪两条路，都能变成说明方式、评论整句的副词。',
+ 'funny + -ly，y 变 i，写 funnily；常见发音中间弱化成 /ə/。不是 funnyly。',FUN+[['funny + -ly → funnily','以滑稽、奇怪方式；评说巧合']],
+ 'funnily enough 常用来说来也巧、奇怪的是；并不保证后面是笑话。talk funnily 可说说话方式古怪。',
+ 'funnily enough；look at someone funnily；speak funnily。',
+ 'funnily enough 常评论巧合，funny enough 也可表示足够好笑；比较语法位置，不能见 enough 就硬翻足够。',
+ ('Funnily enough, I was just thinking about you.','说来也巧，我刚才正想到你。'),('He looked at me funnily when I asked for three menus.','我说要三份菜单时，他有点奇怪地看着我。'))
+W('funfair','英 /ˈfʌnfeə/；美 /ˈfʌnfer/','游乐场；流动游乐集市〔尤英式〕',
+ '有旋转设施、游戏摊位、灯光音乐，逛进去是为了玩。',
+ 'fun + fair，fair 是集市、游艺会，不是公平的形容词。',C('fun','fair〔游艺集市〕','funfair','提供游乐设施、游戏摊位的场所、游艺会'),
+ 'a traveling funfair 流动游乐场，funfair rides 游乐设施；有时是临时搭起，也可泛说游乐场景。',
+ 'a traveling funfair；funfair rides；at the funfair。',
+ 'funfair 游艺场所，a fair result 公平结果；fair 的集市义与公平义不是在这个词里合并成同一个意思。',
+ ('The children spent the afternoon at the funfair.','孩子们下午在游乐场玩。'),('Bright lights covered the funfair rides.','游乐设施上布满明亮灯光。'))
+R('B3612','玩笑、乐趣；好笑与奇怪','FUN：让人愿意参与、感到愉快','fun 好玩，funny 可能好笑也可能古怪；从最常见场景理解，别只背有趣两个字。',
+ 'fun 与旧愚弄、玩笑词形有关，更早来源有不确定性。funny 由 fun + -y 发展出好笑、奇怪两路；funnily 常评论巧合。',
+ 'fun → funny → unfunny、funnily；funfair 解释场所，funhouse 已有精讲复用。',
+ [['乐趣和好笑、奇怪','fun · funny · unfunny · funnily'],['游乐场所','funfair · funhouse']],
+ 'fun trip 好玩之旅，funny smell 怪味；unfunny 不等于所有不幽默的内容都无聊；fair 在 funfair 是集市。',
+ 'The funfair was fun, though the clown’s joke was unfunny.\n\n游乐场很好玩，不过小丑的笑话不好笑。',
+ 'fun funny unfunny funnily funfair funhouse')
+ASK=[['古英语 āscian → 中古英语 asken / axen','询问、请求'],['英语 ask','问、请求；要求某个价钱']]
+W('ask','英 /ɑːsk/；美 /æsk/','问；请求；要求；开价',
+ '把不知道的信息、想得到的帮助或想要的价格，向对方提出来。',
+ '接古英语 āscian，中古英语有 asken、axen 等旧形式。这里给常见英美标准读音；不是现代 as + k 两部分构词。',ASK,
+ 'ask a question 问问题，ask someone to help 请求帮忙，ask for information 索取信息。ask $20 开价二十美元，a big ask 口语说很高的要求。',
+ 'ask a question；ask someone to；ask for；ask about；a big ask。',
+ 'ask someone a question 不加 for，ask for help 要帮助；request 较正式，不能把所有 ask 的结构原样搬过去。',
+ ('Can I ask you a question?','我能问你一个问题吗？'),('They asked me to bring a copy of the report.','他们请我带一份报告。'),('Finishing this by tomorrow is a big ask.','明天前做完，要求挺高的。'))
+W('asking','英 /ˈɑːskɪŋ/；美 /ˈæskɪŋ/','询问、请求；所要求的〔如 asking price〕',
+ '卖家把想拿到的价钱先提出来，这个“要价”不等于最后成交价。',
+ 'ask + -ing，有古英语、中古英语对应分词形式；asking price 中像形容词一样说明所开出的价格。',ASK+[['ask + -ing → asking','询问、请求；价格等被开出的、所要求的']],
+ 'the asking price 要价，for the asking 是只要开口就能得到。普通 I am asking 是我正在问，按句中结构分。',
+ 'the asking price；below the asking price；for the asking。',
+ 'asking price 卖方要价，sale price、final price 才可能描述实际出售、最后价格；不能见 asking 就认定已经成交。',
+ ('The asking price was higher than we expected.','要价比我们预计的高。'),('Help was available for the asking.','只要开口，就有人帮忙。'))
+R('B2539','询问、提出请求或价格','ASK：把想知道、想要的向别人提出来','问问题、请帮忙、开价，都是把一项需求摆到对方面前。',
+ 'ask 接古英语 āscian、中古英语 asken、axen 等形式。asking 在常规分词之外，重点说明要价和只需开口两种常用表达。',
+ 'ask → asking：先看动词句型，再看 asking price、for the asking。',
+ [['基本询问与请求','ask'],['常用分词搭配','asking']],
+ 'ask a question，ask for help；asking price 是要价，不保证等于成交价。',
+ 'We asked about the asking price before making a decision.\n\n我们作决定前问了要价。',
+ 'ask asking')
+if __name__=='__main__':save('continuation_20261028_az',ROOTS,WORDS)

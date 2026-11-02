@@ -1,0 +1,436 @@
+[
+  {
+    "word": "scholarship",
+    "ipa": "英 /ˈskɒləʃɪp/；美 /ˈskɑːlərʃɪp/",
+    "meaning": "奖学金；学问、学术研究及成果",
+    "sense": "学生说拿到一份 scholarship，通常是学习资助；书评夸 the scholarship，可能是在夸考证、研究有分量，和钱无关。",
+    "split": "scholar + -ship，-ship 表性质、活动、成就或身份等，不是船。学术性质、研究和资助学习的制度用法后来共存。",
+    "history": [
+      [
+        "scholar 学者、学习者 + -ship",
+        "学者的学问、研究活动与成果"
+      ],
+      [
+        "资助学习的专门用法",
+        "奖学金、助学资助"
+      ]
+    ],
+    "explanation": "win a scholarship 获得奖学金，a full scholarship 全额奖学金，historical scholarship 历史研究，sound scholarship 扎实学问。",
+    "usage": "win a scholarship；a full scholarship；historical scholarship；sound scholarship。",
+    "contrast": "scholarship 不一律可数：a scholarship 常是一项资助，scholarship 学问常不可数。good scholarship 也不等于奖学金金额高。",
+    "examples": [
+      [
+        "She won a scholarship to study engineering.",
+        "她获得奖学金去学工程。"
+      ],
+      [
+        "The book is admired for its careful scholarship.",
+        "这本书因研究严谨而受到赞赏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scholarship#English"
+    ]
+  },
+  {
+    "word": "scholarly",
+    "ipa": "英 /ˈskɒləli/；美 /ˈskɑːlərli/",
+    "meaning": "学术的、学者式的；有学问的",
+    "sense": "像学者那样认真查证、讨论，也可指面向学术研究的著作、期刊；不是只把句子写得很难读。",
+    "split": "scholar + -ly，形容词词尾，表示与学者、学问有关。这里不是副词，a scholarly article 直接修饰文章。",
+    "history": [
+      [
+        "scholar 学者、学习者 + -ship",
+        "学者的学问、研究活动与成果"
+      ],
+      [
+        "scholar + -ly → scholarly",
+        "学者的、学术性的"
+      ]
+    ],
+    "explanation": "a scholarly article 学术文章，a scholarly journal 学术期刊，scholarly research 学术研究，a scholarly manner 学者般的举止。",
+    "usage": "a scholarly article；a scholarly journal；scholarly research。",
+    "contrast": "scholarly 强调学问、研究性质；scholarship 在资助义里说钱。scholarly book 不一定艰涩，也不因这个形容词就免于批评。",
+    "examples": [
+      [
+        "She published a scholarly article on medieval trade.",
+        "她发表了一篇关于中世纪贸易的学术文章。"
+      ],
+      [
+        "The museum catalogue is scholarly but easy to read.",
+        "博物馆图录有学术深度，也容易读。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scholarly#English"
+    ]
+  },
+  {
+    "word": "unsuitable",
+    "ipa": "/ʌnˈsuːtəbl/",
+    "meaning": "不适合的、不合宜的",
+    "sense": "东西未必坏，只是放在这件事、这个人或这个时机里不合适：礼服可能很好，却不适合爬山。",
+    "split": "un- 不 + suitable 适合的；suitable 对应 suit + -able。否定的是与当前用途相合的关系，不一定否定东西本身的价值。",
+    "history": [
+      [
+        "suit 相合、适合 → suitable",
+        "与用途、对象合得上"
+      ],
+      [
+        "suitable 的否定、副词",
+        "unsuitable 不适合；suitably 以合适方式、达到适当程度"
+      ]
+    ],
+    "explanation": "unsuitable for children 不适合儿童，unsuitable for the task 不适合任务，an unsuitable choice 不合适的选择。",
+    "usage": "unsuitable for；unsuitable to do；an unsuitable choice。",
+    "contrast": "unsuitable 不等于 useless 完全无用，也不自动等于 dangerous 危险；要补明对谁、什么用途不适合。",
+    "examples": [
+      [
+        "These shoes are unsuitable for walking on rough ground.",
+        "这双鞋不适合在崎岖地面行走。"
+      ],
+      [
+        "The room was unsuitable for a large meeting.",
+        "那个房间不适合开大型会议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsuitable#English"
+    ]
+  },
+  {
+    "word": "suitably",
+    "ipa": "/ˈsuːtəbli/",
+    "meaning": "合适地、适当地；达到应有程度地",
+    "sense": "衣服与场合合上，反应与消息相称；有时是认真说适当，有时略带打趣说果然足够惊讶。",
+    "split": "suitable + -ly，-able 形容词的副词形式变为 -ably。不是 suit + ably 能干地两个词。",
+    "history": [
+      [
+        "suit 相合、适合 → suitable",
+        "与用途、对象合得上"
+      ],
+      [
+        "suitable 的否定、副词",
+        "unsuitable 不适合；suitably 以合适方式、达到适当程度"
+      ],
+      [
+        "suitable → suitably",
+        "合适性质 → 以合适方式、适当程度"
+      ]
+    ],
+    "explanation": "suitably dressed 穿着得体，suitably qualified 资格合适的，suitably impressed 受到应有程度的震撼，常带轻松语气。",
+    "usage": "suitably dressed；suitably qualified；suitably impressed。",
+    "contrast": "suitably impressed 不能机械译适当地被印下；impressed 在这里是留下深刻印象。suitably 强调符合情境，不只是程度高。",
+    "examples": [
+      [
+        "Please arrive suitably dressed for the ceremony.",
+        "请穿着适合典礼的服装到场。"
+      ],
+      [
+        "The children were suitably impressed by the enormous model.",
+        "孩子们看到巨大的模型，果然大受震撼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suitably#English"
+    ]
+  },
+  {
+    "word": "strip",
+    "ipa": "/strɪp/",
+    "meaning": "长条；地带；连环漫画；剥去、脱去；剥夺",
+    "sense": "名词看形状，是窄长一条；动词看动作，把表面那层取掉，或把某人拥有的东西拿走。",
+    "split": "长条名词常联系 stripe 或中古低地德语 strippe；剥去动词接古英语剥夺、劫掠相关形式。两路可作形象联想，但不把全部历史压成先撕出一条布的故事。",
+    "history": [
+      [
+        "名词 strip 的路线",
+        "长条；联系 stripe 或中古低地德语相应形式，远源未定"
+      ],
+      [
+        "动词 strip 的旧英语路线",
+        "剥夺、脱去 → 去覆盖层、取走"
+      ]
+    ],
+    "explanation": "a strip of paper 一条纸，a strip of land 一条地带，a comic strip 连环漫画，strip paint off 剥去油漆，strip someone of power 剥夺权力。",
+    "usage": "a strip of paper；a comic strip；strip paint off；strip someone of。",
+    "contrast": "strip 长条与 stripe 条纹相关却不是同一个现代词；strip 除衣物外还可剥油漆、绝缘层、权利。stripped/stripping 双写 p。",
+    "examples": [
+      [
+        "Cut the paper into narrow strips.",
+        "把纸剪成细条。"
+      ],
+      [
+        "The committee stripped him of his title.",
+        "委员会撤销了他的头衔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strip#English"
+    ]
+  },
+  {
+    "word": "stripper",
+    "ipa": "英 /ˈstrɪpə/；美 /ˈstrɪpər/",
+    "meaning": "剥除工具、脱漆剂等；脱衣舞表演者",
+    "sense": "前面如果有 paint，通常是在去油漆；舞台人物语境则可能是脱衣舞表演者。都与去掉覆盖物有关，但对象不同。",
+    "split": "strip + -er，双写 p。-er 可指做动作的人、工具，也可指帮助去掉材料的药剂。",
+    "history": [
+      [
+        "动词 strip 的旧英语路线",
+        "剥夺、脱去 → 去覆盖层、取走"
+      ],
+      [
+        "strip + -er → stripper",
+        "去除覆盖物的人、工具、药剂；表演者"
+      ]
+    ],
+    "explanation": "paint stripper 脱漆剂，a wire stripper 剥线钳，a stage stripper 脱衣舞表演者。",
+    "usage": "paint stripper；a wire stripper；a stage stripper。",
+    "contrast": "stripper 不一律译脱衣舞者；电工工具语境的 stripper 不是人。striper 只有一个 p，可能说有条纹者，读音也不同。",
+    "examples": [
+      [
+        "The toolbox contained a wire stripper and a screwdriver.",
+        "工具箱里有剥线钳和螺丝刀。"
+      ],
+      [
+        "The novel follows the life of a nightclub stripper.",
+        "小说讲述一位夜总会脱衣舞表演者的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stripper#English"
+    ]
+  },
+  {
+    "word": "striptease",
+    "ipa": "/ˈstrɪptiːz/",
+    "meaning": "脱衣舞、逐渐脱衣的挑逗性表演",
+    "sense": "strip 是脱去，tease 是逗引；合起来强调借逐步脱衣制造期待的舞台表演形式。",
+    "split": "strip + tease，两个动词材料合成表演名词，也能转作表演这种舞的动词。tease 最后读 /z/，不是 /s/。",
+    "history": [
+      [
+        "动词 strip 的旧英语路线",
+        "剥夺、脱去 → 去覆盖层、取走"
+      ],
+      [
+        "strip + tease → striptease",
+        "脱去 + 逗引 → 特定舞台表演形式"
+      ]
+    ],
+    "explanation": "a striptease act 脱衣舞节目，a history of striptease 脱衣舞表演史，perform a striptease 表演脱衣舞。",
+    "usage": "a striptease act；perform a striptease；the history of striptease。",
+    "contrast": "striptease 是一种表演名称，不等于所有脱衣动作；换衣服通常直接说 change clothes 或 get undressed。",
+    "examples": [
+      [
+        "The book includes a chapter on the history of striptease.",
+        "书中有一章介绍脱衣舞表演的历史。"
+      ],
+      [
+        "The film follows a performer preparing a striptease act.",
+        "电影跟拍一位演员准备脱衣舞节目的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/striptease#English"
+    ]
+  },
+  {
+    "word": "outstrip",
+    "ipa": "/ˌaʊtˈstrɪp/",
+    "meaning": "超过、超越；把……甩在后面",
+    "sense": "两边都在往前，一边快得把另一边留在后面；需求跑过供应、成绩超过预期，都可 outstrip。",
+    "split": "out- 胜过 + 旧的快速移动 strip 是一种解释，也有联系 outstrike 等形式的看法，来路不完全确定。不是比别人脱得更多；那只是后来可作的双关。",
+    "history": [
+      [
+        "out- + 旧快速前行形式；具体分析有争议",
+        "跑得更快、越过"
+      ],
+      [
+        "英语 outstrip",
+        "实际速度或数量、成就超过"
+      ]
+    ],
+    "explanation": "demand outstrips supply 需求超过供给，outstrip expectations 超过预期，outstrip competitors 超越竞争者。",
+    "usage": "outstrip supply；outstrip expectations；outstrip competitors。",
+    "contrast": "outstrip 不一定是竞争胜负：成本增长超过收入也可说 costs outstrip income。outstripped/outstripping 双写 p。",
+    "examples": [
+      [
+        "Demand for the tickets quickly outstripped supply.",
+        "门票需求很快超过了供应。"
+      ],
+      [
+        "Her progress outstripped all our expectations.",
+        "她的进步超出了我们所有人的预期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outstrip#English",
+      "https://www.etymonline.com/word/outstrip"
+    ]
+  },
+  {
+    "word": "interpret",
+    "ipa": "英 /ɪnˈtɜːprɪt/；美 /ɪnˈtɜːrprɪt/",
+    "meaning": "解释、解读、理解为；口译；演绎作品",
+    "sense": "把不明白的信号、话、动作转成可理解的意思；口译是帮两边跨语言理解，艺术家也会用表演给作品一种理解。",
+    "split": "经法语接拉丁 interpretārī，来自 interpres 中间人、传达者。inter- 在中间较清楚，后半远源有贸易、引导等不同解释，不虚构现代英语 pret 小词。",
+    "history": [
+      [
+        "拉丁 interpres → interpretārī",
+        "中间人、传达者 → 解释、转达意思"
+      ],
+      [
+        "法语相关形式 → 英语 interpret 等",
+        "解释、理解、口译；名词、人物词各有借入路线"
+      ],
+      [
+        "现代专门用法",
+        "艺术演绎；计算机解释执行"
+      ]
+    ],
+    "explanation": "interpret the results 解读结果，interpret silence as agreement 把沉默理解为同意，interpret for someone 为人作口译，interpret a role 演绎角色。",
+    "usage": "interpret the results；interpret A as B；interpret for；interpret a role。",
+    "contrast": "interpret 不保证理解正确；I interpreted it as approval 只是说我这样理解。translate 常用于书面翻译，interpret 常指现场口语或手语传达，也有更广解释义。",
+    "examples": [
+      [
+        "How do you interpret these results?",
+        "你怎样解读这些结果？"
+      ],
+      [
+        "She interpreted for the visitors during the meeting.",
+        "开会时，她为来访者作口译。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interpret#English",
+      "https://www.etymonline.com/word/interpret"
+    ]
+  },
+  {
+    "word": "interpretation",
+    "ipa": "英 /ɪnˌtɜːprəˈteɪʃən/；美 /ɪnˌtɜːrprəˈteɪʃən/",
+    "meaning": "解释、解读；口译；艺术演绎方式",
+    "sense": "同一段沉默，有人当同意，有人当犹豫；每一种赋予的意思都是一种 interpretation。演奏同一首曲子也可有不同处理。",
+    "split": "经法语接拉丁 interpretātiō，动作名词。现代对应 interpret + -ation；历史有自己的借入路线，不必把所有义写成英语临时加尾巴。",
+    "history": [
+      [
+        "拉丁 interpres → interpretārī",
+        "中间人、传达者 → 解释、转达意思"
+      ],
+      [
+        "法语相关形式 → 英语 interpret 等",
+        "解释、理解、口译；名词、人物词各有借入路线"
+      ],
+      [
+        "现代专门用法",
+        "艺术演绎；计算机解释执行"
+      ],
+      [
+        "interpretātiō → interpretacion → interpretation",
+        "解释过程、理解结果；现代对应 interpret + -ation"
+      ]
+    ],
+    "explanation": "an interpretation of the data 数据解读，open to interpretation 可有不同解释，simultaneous interpretation 同声传译，her interpretation of the song 她对歌曲的演绎。",
+    "usage": "an interpretation of；open to interpretation；simultaneous interpretation。",
+    "contrast": "interpretation 是对意思的理解、呈现，不等于 objective fact 客观事实；同声传译中的 interpretation 又是跨语言传达活动。",
+    "examples": [
+      [
+        "The evidence allows more than one interpretation.",
+        "证据可以有不止一种解读。"
+      ],
+      [
+        "Her interpretation of the song was quiet and restrained.",
+        "她演绎这首歌时安静而克制。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interpretation#English"
+    ]
+  },
+  {
+    "word": "interpreter",
+    "ipa": "英 /ɪnˈtɜːprɪtə/；美 /ɪnˈtɜːrprɪtər/",
+    "meaning": "口译员、手语传译员；解释者；计算机解释器",
+    "sense": "在人之间传达话语或手语的是 interpreter；电脑中承担读取、执行程序指令这类工作的程序，也借用解释者这个角色名。",
+    "split": "接法语、晚期拉丁相应人物词，现代对应 interpret + -er。不是所有 -er 都说明只在英语里首次新造，计算机义是后来的角色转用。",
+    "history": [
+      [
+        "拉丁 interpres → interpretārī",
+        "中间人、传达者 → 解释、转达意思"
+      ],
+      [
+        "法语相关形式 → 英语 interpret 等",
+        "解释、理解、口译；名词、人物词各有借入路线"
+      ],
+      [
+        "现代专门用法",
+        "艺术演绎；计算机解释执行"
+      ],
+      [
+        "法语、拉丁人物词 → interpreter",
+        "解释、传译的人；现代对照 interpret + -er"
+      ],
+      [
+        "计算机角色用法",
+        "负责解释、执行指令的程序"
+      ]
+    ],
+    "explanation": "a conference interpreter 会议口译员，a sign language interpreter 手语传译员，a language interpreter 程序语言解释器。",
+    "usage": "a conference interpreter；a sign language interpreter；a language interpreter。",
+    "contrast": "interpreter 不只口头说话者，手语也在内；计算机解释器的内部可结合编译等步骤，不能把字面逐行解释当作所有实现的完整定义。",
+    "examples": [
+      [
+        "A sign language interpreter stood beside the speaker.",
+        "一位手语传译员站在发言人旁边。"
+      ],
+      [
+        "The interpreter reported an error in the command.",
+        "解释器报告命令中有一个错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interpreter#English"
+    ]
+  },
+  {
+    "word": "reinterpret",
+    "ipa": "英 /ˌriːɪnˈtɜːprɪt/；美 /ˌriːɪnˈtɜːrprɪt/",
+    "meaning": "重新解读、重新演绎",
+    "sense": "材料可能没换，但换了背景、证据或表演角度，再把它读出另一层意思。",
+    "split": "re- 再次 + interpret。可以重新研究同一批资料，也可以用新风格演旧作品，不等于把它错解。",
+    "history": [
+      [
+        "拉丁 interpres → interpretārī",
+        "中间人、传达者 → 解释、转达意思"
+      ],
+      [
+        "法语相关形式 → 英语 interpret 等",
+        "解释、理解、口译；名词、人物词各有借入路线"
+      ],
+      [
+        "现代专门用法",
+        "艺术演绎；计算机解释执行"
+      ],
+      [
+        "re- + interpret → reinterpret",
+        "再次赋予解释、以新方式演绎"
+      ]
+    ],
+    "explanation": "reinterpret the evidence 重新解读证据，reinterpret a classic 重新演绎经典，reinterpret the past 重新解释过去。",
+    "usage": "reinterpret the evidence；reinterpret a classic；reinterpret the past。",
+    "contrast": "reinterpret 说再解释，misinterpret 说解释错；新解释不保证正确，也不必故意推翻原来的一切。",
+    "examples": [
+      [
+        "New evidence led historians to reinterpret the event.",
+        "新证据使历史学家重新解读那件事。"
+      ],
+      [
+        "The director reinterpreted the classic play for a modern audience.",
+        "导演为现代观众重新演绎了那部经典戏剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reinterpret#English"
+    ]
+  }
+]

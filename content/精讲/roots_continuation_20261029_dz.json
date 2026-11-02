@@ -1,0 +1,72 @@
+[
+  {
+    "id": "B3315",
+    "meaning": "船舶、运输与船上人员",
+    "core": "SHIP：从船到发运，再分用途、动力和职责",
+    "image": "先把 ship、shipping、shipment、shipper 的动作与角色排在一起，再看造船、船主、船长与各种船名。",
+    "intro": "船舶词继承古英语 sċip，现代发运义不限定海运。skipper 船长经荷兰语相关形式借入；relationship 截短的粉丝 ship 和 -ship 后缀分别另源。",
+    "forms": "ship → shipping、shipment、shipper；drop + ship；ship + yard、builder、owner、mate；flag、battle、steam、war、air、space、star + ship；ship + wreck。\n\n船名与运输动词有较老历史，发运义后来不限船运。\n\n本族船名、动词，运输义不再限于海路；过去式双写 p。\n\nshipment 是装运、运送的动作名词，也指一次运送的一批货。现代 ship 不限海运，复数 -s 数批次或货批。",
+    "branches": [
+      [
+        "发运过程、货物与主体",
+        "ship · shipping · shipment · shipper · dropship"
+      ],
+      [
+        "造船与船上职责",
+        "shipbuilding · shipyard · shipbuilder · shipowner · shipmate · skipper · shipboard"
+      ],
+      [
+        "代表、用途与动力",
+        "flagship · battleship · warship · gunship · steamship · airship"
+      ],
+      [
+        "航天载具与事故",
+        "spaceship · starship · shipwreck"
+      ],
+      [
+        "ship → ships：船与发运",
+        "ship · ships"
+      ],
+      [
+        "ship → shipped：把东西发运出去",
+        "ship · shipped"
+      ],
+      [
+        "ship 运送 + -ment → shipments",
+        "shipments"
+      ]
+    ],
+    "contrasts": "shipper 不是 skipper；shipping 不限海运；battleship 是战列舰，不是全部军舰；gunship 现代可指航空载具。",
+    "practice": "The shipbuilder delivered the vessel to its new shipowner.\n\n造船商把船交付给新船主。",
+    "words": [
+      "ship",
+      "shipping",
+      "shipment",
+      "shipper",
+      "dropship",
+      "shipbuilding",
+      "shipyard",
+      "shipbuilder",
+      "shipowner",
+      "shipmate",
+      "skipper",
+      "shipboard",
+      "flagship",
+      "battleship",
+      "warship",
+      "gunship",
+      "steamship",
+      "airship",
+      "spaceship",
+      "starship",
+      "shipwreck",
+      "ships",
+      "shipped",
+      "shipments"
+    ],
+    "exclude": {
+      "ship-rigged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shipman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

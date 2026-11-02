@@ -1,0 +1,166 @@
+[
+  {
+    "id": "B4068",
+    "meaning": "多条旧义汇入现代朋克文化名称与性质",
+    "core": "PUNK：先看是在谈音乐文化，还是贬称、木材",
+    "image": "punk → punky。",
+    "intro": "词的历史不总是一根直线。文化名称可从旧贬称借来，但今天谈朋克音乐，并不是在给所有乐迷下人格判断。",
+    "forms": "punk 的更早来源、关系有争论；punk rock 形成音乐文化分支，-y 再形成性质词。",
+    "branches": [
+      [
+        "文化、旧义与相应性质",
+        "punk · punky"
+      ]
+    ],
+    "contrasts": "punky wood 说朽木；punky haircut 说风格；同形不等于一个中文译义覆盖全部。",
+    "practice": "The band’s punky style attracted new listeners.\n\n乐队的朋克风格吸引了新听众。",
+    "words": [
+      "punk",
+      "punky"
+    ],
+    "exclude": {
+      "post-punk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "punk-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anarcho-punk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3785",
+    "meaning": "计费出租车的缩略名称，扩成飞机地面滑行",
+    "core": "TAXI：先是按程载客的车，后来也说飞机在地面移动",
+    "image": "taxicab、taxi；taxi → taxiway。",
+    "intro": "词的短长不等于年龄顺序：taxi、taxicab 都从较长的计费出租车名称缩来。飞机滑行义再从车辆意象接出去。",
+    "forms": "Taxameter → taximètre → taximeter cab → taxicab、taxi；way 通道。",
+    "branches": [
+      [
+        "出租车名称与滑行通道",
+        "taxi · taxicab · taxiway"
+      ]
+    ],
+    "contrasts": "taxiing 仍在地面；taxiway 与 runway 分工不同；taxicab 不代表另一等级服务。",
+    "practice": "From the taxi, we could see planes moving along the taxiway.\n\n从出租车里，我们能看到飞机沿滑行道移动。",
+    "words": [
+      "taxi",
+      "taxicab",
+      "taxiway"
+    ],
+    "exclude": {
+      "e-taxi": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1815",
+    "meaning": "把能否、适合与可接受的性质名词化",
+    "core": "-ABILITY：把能不能、好不好用变成可讨论的性质",
+    "image": "从 -able 到 -ability：可读、可再用、可维护、可承受等各有具体对象。",
+    "intro": "同一个词尾只帮你认出名词这一层，真正的理解还在前半：reusability 问能否再用，serviceability 问能否使用或检修，favorability 说好感或有利程度。",
+    "forms": "-able 相应变 -ability，通常可理解为性质形容词 + -ity；并非每个词都能机械译成被……的能力。",
+    "branches": [
+      [
+        "使用、适配与长期运作",
+        "usability · reusability · serviceability · suitability · adaptability · workability · sustainability · maintainability · scalability"
+      ],
+      [
+        "预测、识别与追踪",
+        "predictability · readability · traceability · repeatability · believability · deniability"
+      ],
+      [
+        "接受、评价与可负担",
+        "favorability · tolerability · affordability · desirability · respectability · notability"
+      ],
+      [
+        "其他具体能力",
+        "manoeuvrability · survivability · dependability · marketability · playability · excitability · enforceability · livability"
+      ]
+    ],
+    "contrasts": "同后缀不表示同一种能力；reusability 与回收加工不同；tolerability 与效果不同。",
+    "practice": "The design balances affordability, serviceability and reusability.\n\n设计兼顾可负担性、检修便利性和重复使用能力。",
+    "words": [
+      "usability",
+      "reusability",
+      "serviceability",
+      "suitability",
+      "adaptability",
+      "workability",
+      "sustainability",
+      "maintainability",
+      "scalability",
+      "predictability",
+      "readability",
+      "traceability",
+      "repeatability",
+      "believability",
+      "deniability",
+      "favorability",
+      "tolerability",
+      "affordability",
+      "desirability",
+      "respectability",
+      "notability",
+      "manoeuvrability",
+      "survivability",
+      "dependability",
+      "marketability",
+      "playability",
+      "excitability",
+      "enforceability",
+      "livability"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3704",
+    "meaning": "把事业承担起来的人，及其活动、精神与性质",
+    "core": "ENTREPRENEUR：把一个想法接到手里，组织起来做",
+    "image": "entrepreneur → entrepreneurship、entrepreneurial。",
+    "intro": "人、活动、性质分开：创业者是 entrepreneur，创业这件事和精神是 entrepreneurship，相关能力和态度是 entrepreneurial。",
+    "forms": "entreprendre 承担 + -eur 人物 → entrepreneur；-ship 活动、品质，-ial 性质。\n\n法语 entreprendre 加表人 eur，英语借整个词后加复数 s。",
+    "branches": [
+      [
+        "创业者、活动与性质",
+        "entrepreneur · entrepreneurship · entrepreneurial"
+      ],
+      [
+        "entrepreneur → entrepreneurs：把事情承担起来的人",
+        "entrepreneur · entrepreneurs"
+      ]
+    ],
+    "contrasts": "创业者不必已经富有；entrepreneurial 也可说组织内部的开创精神；词尾各有语法角色。",
+    "practice": "The entrepreneur teaches entrepreneurial skills in an entrepreneurship course.\n\n这位创业者在创业课程里教授创业能力。",
+    "words": [
+      "entrepreneur",
+      "entrepreneurship",
+      "entrepreneurial",
+      "entrepreneurs"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4417",
+    "meaning": "夜间精怪的旧观念，转成噩梦与可怕经历",
+    "core": "NIGHTMARE：从传说里的压迫者，转向人的可怕体验",
+    "image": "nightmare → nightmarish。",
+    "intro": "今天先用噩梦、糟糕经历理解；历史 mare 是旧精怪名称，所以夜里的母马不是可靠词源。",
+    "forms": "night 夜 + mare 旧精怪词 → nightmare；-ish 像……的 → nightmarish。\n\nnightmare 的 mare 是旧日梦魇精怪名，与母马名分源。词义由精怪转向压迫感，再常说噩梦、难熬经历；现代加 -s，保留 e。",
+    "branches": [
+      [
+        "噩梦体验与相应性质",
+        "nightmare · nightmarish"
+      ],
+      [
+        "night + mare 梦魇精怪 → nightmares",
+        "nightmares"
+      ]
+    ],
+    "contrasts": "nightmarish 不必实际睡着；-ish 在这里不等于程度必然很轻；mare 不取现代母马义。",
+    "practice": "What began as a small delay became a nightmarish journey.\n\n最初的一点延误，后来变成了一趟噩梦般的旅程。",
+    "words": [
+      "nightmare",
+      "nightmarish",
+      "nightmares"
+    ],
+    "exclude": {
+      "mid-nightmare": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

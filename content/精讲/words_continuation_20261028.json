@@ -1,0 +1,3689 @@
+[
+  {
+    "word": "myxedema",
+    "ipa": "/ˌmɪksəˈdiːmə/",
+    "meaning": "黏液性水肿",
+    "sense": "皮肤下面的组织出现胶样改变，让“肿”带上黏液样的特点。",
+    "split": "myx- 黏液 + edema 水肿；十九世纪形成的医学名称，也拼作 myxoedema。",
+    "history": [
+      [
+        "希腊语 myxa；oidēma",
+        "黏液；肿胀"
+      ],
+      [
+        "近代医学 myx- + edema → myxedema",
+        "用黏液样改变命名的一类水肿性病变"
+      ]
+    ],
+    "explanation": "通常出现在甲状腺功能减退相关的医学描述里。这里的“黏液”解释命名画面，并不是说皮肤下面装着鼻涕；也不能把任意肿胀都叫 myxedema。",
+    "usage": "myxedema；myxedema coma；the term myxedema。",
+    "contrast": "edema 是水肿的宽泛名称；myxedema 有特定病理和临床含义。拼写中的 myx- 不表示肌肉，肌肉常见形式是 myo-。",
+    "examples": [
+      [
+        "The textbook explains the origin of the term myxedema.",
+        "教材解释了“黏液性水肿”这个名称的来源。"
+      ],
+      [
+        "Myxedema and ordinary edema are discussed in separate sections.",
+        "黏液性水肿与一般水肿在不同章节讨论。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/myxedema",
+      "https://en.wiktionary.org/wiki/myxedema"
+    ]
+  },
+  {
+    "word": "myxogastrid",
+    "ipa": "/ˌmɪksəʊˈɡæstrɪd/",
+    "meaning": "黏菌类生物〔Myxogastria 类群成员〕",
+    "sense": "在腐木、落叶等地方观察到的一类能形成黏质营养体的生物。",
+    "split": "类群名 Myxogastria 的相关成员名称，myxo- 表示黏液，后半联系希腊 gastr- 腹部；-id 表示类群成员。不是现代英语 gastric 的派生词。",
+    "history": [
+      [
+        "希腊语 myxa；gastēr",
+        "黏液；腹部"
+      ],
+      [
+        "生物分类名 Myxogastria",
+        "黏菌中的一个类群"
+      ],
+      [
+        "英语 myxogastrid",
+        "该类群的成员"
+      ]
+    ],
+    "explanation": "这是专业分类语境中的词，日常更容易见到 slime mold。传统名称里有 mold，并不意味着这些生物在现代分类中就是普通真菌。这里解释名称，不用词根替代生物分类。",
+    "usage": "a myxogastrid；myxogastrid diversity；a myxogastrid specimen。",
+    "contrast": "myxogastrid 是成员名，Myxogastria 是类群名。不要把它理解成胃病患者；gastr- 在这个历史名称里只是构词成分。",
+    "examples": [
+      [
+        "The survey recorded a myxogastrid on a decaying log.",
+        "调查在一段腐木上记录到一种黏菌类生物。"
+      ],
+      [
+        "Each myxogastrid specimen received a separate label.",
+        "每份黏菌类标本都贴上了独立标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/myxogastrid#English"
+    ]
+  },
+  {
+    "word": "amenable",
+    "ipa": "/əˈmiːnəbl/",
+    "meaning": "愿意接受的；易于配合的；可受某种处理的",
+    "sense": "提出一个建议，对方愿意听，也愿意顺着这个方向商量。",
+    "split": "借自盎格鲁法语 amenable，来自 amener 带来、带领 + -able；更早经 mener 联系后期拉丁 minare 驱赶。不是 a- + mean + able。",
+    "history": [
+      [
+        "拉丁 minari → 后期 minare",
+        "威吓 → 驱赶"
+      ],
+      [
+        "法语 mener；amener",
+        "带领；带来"
+      ],
+      [
+        "盎格鲁法语 amenable → 英语 amenable",
+        "可被带来或要求负责 → 愿意配合；可作某种处理"
+      ]
+    ],
+    "explanation": "be amenable to a suggestion 是愿意接受建议；a problem amenable to analysis 是可用分析方法处理的问题。to 后面通常接名词或动名词；现代日常重点往往是可合作，而不是服从威胁。",
+    "usage": "amenable to change；amenable to discussion；amenable to analysis。",
+    "contrast": "amiable 说人友善可亲，amenable 说对某个建议或安排愿意配合。一个人平时 amiable，也可能不 amenable to this proposal。",
+    "examples": [
+      [
+        "She was amenable to changing the meeting time.",
+        "她愿意调整开会时间。"
+      ],
+      [
+        "Not every aspect of the problem is amenable to numerical analysis.",
+        "这个问题并非每个方面都适合用数值分析处理。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/amenable",
+      "https://dictionary.cambridge.org/dictionary/english/amenable"
+    ]
+  },
+  {
+    "word": "argent",
+    "ipa": "英 /ˈɑːdʒənt/；美 /ˈɑːrdʒənt/",
+    "meaning": "银；银色、白色〔尤用于纹章〕",
+    "sense": "看一面纹章盾牌，银白的那片颜色有一个专门的名称。",
+    "split": "中古英语借自古法语 argent，来自拉丁 argentum 银。是历史借词，不是英语 arg + ent。",
+    "history": [
+      [
+        "拉丁 argentum",
+        "银"
+      ],
+      [
+        "古法语 argent → 中古英语 argent",
+        "银、银钱"
+      ],
+      [
+        "英语 argent",
+        "银；纹章中的银色或白色"
+      ]
+    ],
+    "explanation": "日常谈金属通常说 silver；argent 常见于纹章描述或文学表达。纹章里银色可以用白色表现，不能机械地理解成盾牌一定覆盖真银。",
+    "usage": "a shield argent；argent and azure；the tincture argent。",
+    "contrast": "argent 是银色这一名称，Argentine 通常涉及阿根廷；argentine 小写还可指银色的，必须看大小写和语境。",
+    "examples": [
+      [
+        "The heraldic description uses argent for the white field.",
+        "纹章说明用 argent 表示白色底面。"
+      ],
+      [
+        "The design combines argent with a deep blue.",
+        "这个图案将银白色与深蓝色搭配。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/argent#English"
+    ]
+  },
+  {
+    "word": "argentine",
+    "ipa": "英 /ˈɑːdʒəntaɪn/；美 /ˈɑːrdʒəntaɪn/",
+    "meaning": "银色的；含银的；银色鱼类的名称",
+    "sense": "月光下的一层银白光泽，或因这种颜色得名的鱼。",
+    "split": "银色义经古法语 argentin，远接拉丁 argentum 银；-in／-ine 是相关形容词形式。此处讲小写的银色词，不把它当作 Argentina 的普通派生义。",
+    "history": [
+      [
+        "拉丁 argentum",
+        "银"
+      ],
+      [
+        "古法语 argentin → 中古英语 argentyne",
+        "银色的"
+      ],
+      [
+        "英语 argentine",
+        "银色的；某些银色鱼类的名称"
+      ]
+    ],
+    "explanation": "这是较少见的颜色词，也用作鱼类名称。普通写作表达银色用 silvery 更自然。表示阿根廷的通常写 Argentine，虽与银的名称有历史关联，现代所指已经不同。",
+    "usage": "an argentine sheen；argentine colouring；a European argentine。",
+    "contrast": "小写 argentine 的银色义与大写 Argentine 的国名相关义要分开。读音另有末尾 /tiːn/ 的变体。",
+    "examples": [
+      [
+        "The poet described an argentine sheen on the water.",
+        "诗人描写了水面上的银白光泽。"
+      ],
+      [
+        "The catalogue lists the European argentine among the silver-coloured fish.",
+        "目录将欧洲银鱼列在银色鱼类之中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/argentine#English"
+    ]
+  },
+  {
+    "word": "Argentina",
+    "ipa": "英 /ˌɑːdʒənˈtiːnə/；美 /ˌɑːrdʒənˈtiːnə/",
+    "meaning": "阿根廷",
+    "sense": "地图上的南美国家，其名字里保留了“银”的历史线索。",
+    "split": "国名联系拉丁 argentum 银及相应的形容词形式，与 Río de la Plata“银河”地区的历史命名有关。不是英语 argent 直接加 a 临时组成。",
+    "history": [
+      [
+        "拉丁 argentum；argentinus",
+        "银；银的"
+      ],
+      [
+        "相关地区的历史命名",
+        "联系拉普拉塔河的“银”名称"
+      ],
+      [
+        "英语国名 Argentina",
+        "阿根廷"
+      ]
+    ],
+    "explanation": "它是专有名词，首字母大写。词源说明名称怎样形成，不表示这个国家各处都有银矿。表示该国的人或事物，可见 Argentine、Argentinian。",
+    "usage": "in Argentina；travel to Argentina；Argentina’s capital。",
+    "contrast": "Argentina 是国家名；Argentine 或 Argentinian 可作相关形容词或居民名称。不要用 Argentina food 代替 Argentine food。",
+    "examples": [
+      [
+        "She spent a semester studying in Argentina.",
+        "她在阿根廷学习了一个学期。"
+      ],
+      [
+        "The exhibition includes photographs taken in Argentina.",
+        "展览包括在阿根廷拍摄的照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/Argentina#English"
+    ]
+  },
+  {
+    "word": "crossfit",
+    "ipa": "英 /ˈkrɒsfɪt/；美 /ˈkrɔːsfɪt/",
+    "meaning": "参加 CrossFit 式综合体能训练〔动词用法〕",
+    "sense": "一次训练把举重、跑跳等不同项目放在一起。",
+    "split": "联系 cross-discipline fitness 跨项目体能训练及专名 CrossFit；本库的小写 crossfit 是由该名称形成的动词用法，不来自希腊语 krossos。",
+    "history": [
+      [
+        "英语 cross；fitness",
+        "跨项目；体能"
+      ],
+      [
+        "训练体系名称 CrossFit",
+        "综合多种训练形式的专名"
+      ],
+      [
+        "小写动词 crossfit",
+        "参加这类训练"
+      ]
+    ],
+    "explanation": "这是较少见的小写动词。正式介绍训练体系通常保留 CrossFit 的专名拼写，日常也可说 do CrossFit。这里的 cross 是跨项目，不是生气，也不是画十字。",
+    "usage": "do CrossFit；a CrossFit workout；crossfit regularly〔小写动词用法〕。",
+    "contrast": "CrossFit 是具体训练体系的名称；cross-training 是交叉训练的宽泛说法，二者范围不同。",
+    "examples": [
+      [
+        "She prefers to say that she does CrossFit.",
+        "她更习惯说自己参加 CrossFit 训练。"
+      ],
+      [
+        "The article uses crossfit as a verb for taking part in those workouts.",
+        "文章用 crossfit 这个动词表示参加这类训练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crossfit#English"
+    ]
+  },
+  {
+    "word": "crossfire",
+    "ipa": "英 /ˈkrɒsfaɪə/；美 /ˈkrɔːsfaɪər/",
+    "meaning": "交叉火力；夹击；争端中的波及",
+    "sense": "两边的火力或指责交错，中间的人被夹在其中。",
+    "split": "英语 cross- 交叉 + fire 火力，英语内部复合。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + fire → crossfire",
+        "不同方向的火力；引申为争执的夹击"
+      ]
+    ],
+    "explanation": "caught in the crossfire 可以真指被交火波及，也可说员工、孩子等被双方争执牵连。比喻义仍保留“夹在两边中间”的关系。",
+    "usage": "caught in the crossfire；an exchange of crossfire；political crossfire。",
+    "contrast": "gunfire 只说枪声或射击；crossfire 强调不同方向交错，常突出中间人被波及。",
+    "examples": [
+      [
+        "The workers were caught in the crossfire between the two departments.",
+        "员工被卷入两个部门的争执。"
+      ],
+      [
+        "The report described civilians caught in the crossfire.",
+        "报道描述了被交火波及的平民。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crossfire#English"
+    ]
+  },
+  {
+    "word": "crossbar",
+    "ipa": "英 /ˈkrɒsbɑː/；美 /ˈkrɔːsbɑːr/",
+    "meaning": "横杆；球门横梁",
+    "sense": "两根竖柱之间横着一根杆。",
+    "split": "cross- 横向 + bar 杆，中古英语已有相应组合。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + bar → crossbar",
+        "横跨两侧的杆"
+      ]
+    ],
+    "explanation": "足球门上方的横梁、高跳架上的横杆，都能用 crossbar。自行车语境也可指车架上方的横管；具体物件由前后文决定。",
+    "usage": "hit the crossbar；clear the crossbar；a bicycle crossbar。",
+    "contrast": "crossbar 是横杆，goalpost 是球门立柱。球打中哪一部分不能互换。",
+    "examples": [
+      [
+        "The ball struck the crossbar and bounced back.",
+        "球击中横梁后弹了回来。"
+      ],
+      [
+        "The jumper cleared the crossbar on her second attempt.",
+        "她第二次试跳越过了横杆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crossbar#English"
+    ]
+  },
+  {
+    "word": "crosstown",
+    "ipa": "英 /ˈkrɒstaʊn/；美 /ˈkrɔːstaʊn/",
+    "meaning": "横穿城镇的；到城镇另一边",
+    "sense": "从城市这一头去另一头，而不是只在同一个街区转。",
+    "split": "cross- 横跨 + town 城镇，复合后作形容词或副词。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + town → crosstown",
+        "横穿城镇；位于城镇另一头"
+      ]
+    ],
+    "explanation": "a crosstown bus 是横穿城镇的公交车；travel crosstown 可直接表示穿城。美式报道也用 crosstown rivals 表示同城另一边的对手，不一定说一条具体路线。",
+    "usage": "a crosstown bus；crosstown traffic；crosstown rivals。",
+    "contrast": "downtown 是市中心，crosstown 关注横穿城市或城市另一端；穿城路线不一定经过中心。",
+    "examples": [
+      [
+        "We took a crosstown bus to the museum.",
+        "我们乘坐穿城公交车去了博物馆。"
+      ],
+      [
+        "The two crosstown rivals met in the final.",
+        "两支同城对手在决赛相遇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crosstown#English"
+    ]
+  },
+  {
+    "word": "crosstalk",
+    "ipa": "英 /ˈkrɒstɔːk/；美 /ˈkrɔːstɔːk/",
+    "meaning": "串扰；相互影响；相声",
+    "sense": "本来各走各路的信号或信息，跑到彼此的通道里。",
+    "split": "cross- 交叉 + talk 说话，英语复合；相声义是这个英语词在中文表演介绍中的专门用法。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + talk → crosstalk",
+        "交叉交谈；通道间干扰"
+      ],
+      [
+        "特定学科和文化语境",
+        "信号串扰；通路交流；中国相声"
+      ]
+    ],
+    "explanation": "电子学中是一个通道的信号干扰另一通道；生物学中可说通路之间的相互影响。介绍中国表演时，crosstalk 又可指相声，不能一律译成串扰。",
+    "usage": "reduce crosstalk；crosstalk between pathways；a crosstalk performance。",
+    "contrast": "电子学中的 crosstalk 往往是不希望出现的干扰；生物通路中的 crosstalk 可以是正常相互作用，不能统一加上有害评价。",
+    "examples": [
+      [
+        "Better shielding reduced crosstalk between the cables.",
+        "更好的屏蔽减少了电缆间的串扰。"
+      ],
+      [
+        "The festival included a crosstalk performance in Mandarin.",
+        "节日活动安排了一场普通话相声表演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crosstalk#English"
+    ]
+  },
+  {
+    "word": "crossrail",
+    "ipa": "英 /ˈkrɒsreɪl/；美 /ˈkrɔːsreɪl/",
+    "meaning": "横档；横穿城市的铁路线路",
+    "sense": "一根横着连接两侧的条木，或一条横穿城区的铁路线。",
+    "split": "cross- 横跨 + rail 栏杆、轨道，英语复合。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + rail → crossrail",
+        "横向栏杆；横穿城市的铁路"
+      ]
+    ],
+    "explanation": "家具和构架里常是横档；交通语境可指穿城铁路。大写 Crossrail 还可能是具体项目名称，阅读历史报道时要区分普通名词与专名。",
+    "usage": "a wooden crossrail；a chair crossrail；a crossrail scheme。",
+    "contrast": "crossbar 与 crossrail 都能说横向构件；实际名称依构造习惯决定。rail 不总是铁路，可能只是栏杆或条木。",
+    "examples": [
+      [
+        "A wooden crossrail connected the two side frames.",
+        "一根木横档连接着两侧框架。"
+      ],
+      [
+        "The diagram shows a crossrail linking the eastern and western districts.",
+        "示意图展示了一条连接东西城区的穿城铁路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crossrail#English"
+    ]
+  },
+  {
+    "word": "crossbody",
+    "ipa": "英 /ˈkrɒsbɒdi/；美 /ˈkrɔːsbɑːdi/",
+    "meaning": "斜挎的；横越身体的；横身扑压〔摔跤动作〕",
+    "sense": "包带从一侧肩膀斜过胸前，包落在另一侧。",
+    "split": "cross- 横过 + body 身体，英语复合。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + body → crossbody",
+        "横过身体；斜挎；相关动作名"
+      ]
+    ],
+    "explanation": "购物时最常见 crossbody bag 斜挎包。摔跤里的 a crossbody 是身体横着扑向对手的动作名，不能按包的词义翻译。",
+    "usage": "a crossbody bag；a crossbody strap；a crossbody move。",
+    "contrast": "shoulder bag 只说明肩背，crossbody bag 进一步说明带子斜跨身体。两种背法可能使用同一个包。",
+    "examples": [
+      [
+        "She carried a small crossbody bag on the walk.",
+        "她散步时背着一个小斜挎包。"
+      ],
+      [
+        "The detachable crossbody strap can be adjusted.",
+        "可拆卸的斜挎带可以调节长度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crossbody#English"
+    ]
+  },
+  {
+    "word": "crosswind",
+    "ipa": "英 /ˈkrɒswɪnd/；美 /ˈkrɔːswɪnd/",
+    "meaning": "侧风；横风",
+    "sense": "你往前走，风却从侧面吹过来。",
+    "split": "cross- 横向 + wind 风，wind 在这里读 /wɪnd/。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "cross- + wind → crosswind",
+        "横过行进方向的风"
+      ]
+    ],
+    "explanation": "跑道、道路、骑行路线都有自身的前进方向，crosswind 是相对这个方向说的。它不一定严格成九十度，但有横向风的成分。",
+    "usage": "a strong crosswind；crosswind conditions；a crosswind landing。",
+    "contrast": "headwind 是迎面风，tailwind 是顺风，crosswind 是侧风。风向要相对行进方向判断。",
+    "examples": [
+      [
+        "A strong crosswind made the ride more difficult.",
+        "强侧风增加了骑行的难度。"
+      ],
+      [
+        "The exercise compared headwinds, tailwinds, and crosswinds.",
+        "练习比较了逆风、顺风和侧风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crosswind#English"
+    ]
+  },
+  {
+    "word": "crossbreed",
+    "ipa": "英 /ˈkrɒsbriːd/；美 /ˈkrɔːsbriːd/",
+    "meaning": "杂交；杂交品种",
+    "sense": "让不同品种的个体繁殖后代，或说由此得到的后代。",
+    "split": "cross 使杂交 + breed 繁殖，英语复合；既作动词也作名词。",
+    "history": [
+      [
+        "英语 cross-",
+        "横跨；交叉；不同事物相交"
+      ],
+      [
+        "英语 cross；breed",
+        "使不同品系交配；繁殖"
+      ],
+      [
+        "crossbreed",
+        "杂交；杂交产生的后代"
+      ]
+    ],
+    "explanation": "a crossbreed 是杂交后代；crossbreed A with B 是把两个品种进行杂交。动词变化为 crossbred、crossbred，不是 crossbreeded。",
+    "usage": "crossbreed A with B；a crossbreed dog；crossbred cattle。",
+    "contrast": "crossbreed 常说不同品种的后代；purebred 表示纯种。这里描述血统来源，本身不评价个体好坏。",
+    "examples": [
+      [
+        "The dog is a crossbreed with a short brown coat.",
+        "这是一只棕色短毛的杂交犬。"
+      ],
+      [
+        "The breeders crossbred two varieties of sheep.",
+        "育种者让两个品种的羊进行了杂交。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crossbreed#English"
+    ]
+  },
+  {
+    "word": "mina",
+    "ipa": "/ˈmaɪnə/",
+    "meaning": "迈纳〔古代重量、货币单位〕",
+    "sense": "先称出一定重量的银，再按这份重量计算财富。",
+    "split": "经拉丁 mina 借自希腊 mnā，远接古代近东的度量衡名称；不是英语 mine 去掉 e。",
+    "history": [
+      [
+        "古代近东的度量衡名称",
+        "称量贵金属等物品的单位"
+      ],
+      [
+        "希腊 mnā → 拉丁 mina",
+        "重量及相应的货币计量单位"
+      ],
+      [
+        "英语 mina",
+        "历史文本中的迈纳"
+      ]
+    ],
+    "explanation": "不同地区、年代的实际重量可能不同，不能只看到 mina 就换算成一个永远固定的克数。在一些古希腊体系里，mina 与 talent、drachma 有配套关系。",
+    "usage": "a mina of silver；several minas；an ancient mina。",
+    "contrast": "mina 是历史单位；mineral 不是由 mina 构成，mine 也不是这个古希腊词的普通英语派生。",
+    "examples": [
+      [
+        "The inscription records a payment of one mina of silver.",
+        "铭文记录了一迈纳白银的付款。"
+      ],
+      [
+        "The historian compared the value of the mina in different cities.",
+        "历史学家比较了不同城市中迈纳的价值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mina#English"
+    ]
+  },
+  {
+    "word": "drosophila",
+    "ipa": "英 /drɒˈsɒfɪlə/；美 /droʊˈsɑːfɪlə/",
+    "meaning": "果蝇〔果蝇属成员〕",
+    "sense": "实验室小瓶里的一只小果蝇；名称却藏着“喜爱露水”的画面。",
+    "split": "来自属名 Drosophila，dros- 露水 + -phila 爱好者；不是现代 fruit 加 fly 的缩写。",
+    "history": [
+      [
+        "希腊 drosos；philos",
+        "露水；喜爱的"
+      ],
+      [
+        "属名 Drosophila",
+        "以“爱露水”命名的果蝇属"
+      ],
+      [
+        "英语 drosophila",
+        "这个属中的果蝇"
+      ]
+    ],
+    "explanation": "普通名词可小写，正式属名 Drosophila 大写并常用斜体。fruit fly 的日常范围更宽；谈具体实验物种时，名称后的种加词也有作用。",
+    "usage": "a drosophila；drosophila genetics；Drosophila melanogaster。",
+    "contrast": "词源中的露水是命名线索，不是实验饲养说明；不能由名字推断这种昆虫只能在露水里生活。",
+    "examples": [
+      [
+        "The student observed a drosophila under the microscope.",
+        "学生在显微镜下观察一只果蝇。"
+      ],
+      [
+        "The experiment used Drosophila melanogaster.",
+        "实验使用了黑腹果蝇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drosophila#English"
+    ]
+  },
+  {
+    "word": "drosometer",
+    "ipa": "英 /drəʊˈsɒmɪtə/；美 /droʊˈsɑːmətər/",
+    "meaning": "露量计",
+    "sense": "清晨测量一个表面到底凝结了多少露水。",
+    "split": "经法语 drosomètre，drosos 露水 + -mètre 测量仪；英语对应 -meter。",
+    "history": [
+      [
+        "希腊 drosos",
+        "露水"
+      ],
+      [
+        "法语 drosomètre → 英语 drosometer",
+        "测量表面露水沉积量的仪器"
+      ]
+    ],
+    "explanation": "词尾 meter 在这里是测量仪，不是长度单位米。它关注露水沉积，具体装置和读数方式须看仪器说明。",
+    "usage": "a drosometer reading；measure dew with a drosometer；a calibrated drosometer。",
+    "contrast": "rain gauge 测降雨，drosometer 测凝结在表面的露水，二者对应不同的水分形成方式。",
+    "examples": [
+      [
+        "The researcher checked the drosometer at sunrise.",
+        "研究人员在日出时检查露量计。"
+      ],
+      [
+        "A drosometer was used to compare dew deposition at the two sites.",
+        "研究用露量计比较两处地点的露水沉积量。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/drosometer",
+      "https://en.wiktionary.org/wiki/drosometer"
+    ]
+  },
+  {
+    "word": "parietal",
+    "ipa": "/pəˈraɪətəl/",
+    "meaning": "壁的；顶骨的；顶叶的",
+    "sense": "把身体里的空腔想成房间，再找到围住房间的壁。",
+    "split": "借自拉丁 parietalis 壁的，来自 paries，词干 pariet-，加形容词成分 -alis。",
+    "history": [
+      [
+        "拉丁 paries，词干 pariet-",
+        "墙、壁"
+      ],
+      [
+        "拉丁 parietalis → 英语 parietal",
+        "壁的；用于相关解剖结构"
+      ]
+    ],
+    "explanation": "parietal layer 是贴着体腔壁的一层；parietal bone 是顶骨；parietal lobe 是大脑顶叶。几种译法都联系所处部位，但不能把每个 parietal 都译为顶叶。",
+    "usage": "the parietal bone；the parietal lobe；the parietal layer。",
+    "contrast": "parietal 常相对于 visceral：前者联系体壁，后者联系脏器表面。具体结构仍需搭配名词确认。",
+    "examples": [
+      [
+        "The diagram labels the parietal bone.",
+        "示意图标出了顶骨。"
+      ],
+      [
+        "The lecture distinguishes the parietal layer from the visceral layer.",
+        "讲座区分了壁层与脏层。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/parietal",
+      "https://en.wiktionary.org/wiki/parietal"
+    ]
+  },
+  {
+    "word": "sphincter",
+    "ipa": "英 /ˈsfɪŋktə/；美 /ˈsfɪŋktər/",
+    "meaning": "括约肌",
+    "sense": "一圈肌肉像能收紧的束口，收缩时让开口变窄。",
+    "split": "经后期拉丁 sphincter，来自希腊 sphinktēr 收紧者、束带或收缩肌，关联 sphingein 收紧。",
+    "history": [
+      [
+        "希腊 sphingein；sphinktēr",
+        "收紧；束带、收缩肌"
+      ],
+      [
+        "后期拉丁 sphincter → 英语 sphincter",
+        "围住开口、能使之收缩的肌肉"
+      ]
+    ],
+    "explanation": "这是按结构和作用命名的肌肉名称，不只专指肛门一处。读到某个具体 sphincter，前面的部位名决定所指。更远词源不确定，不从现代字母强行继续拆。",
+    "usage": "a sphincter muscle；the anal sphincter；the pyloric sphincter。",
+    "contrast": "sphincter 是肌肉结构；opening 是开口本身。Sphinx 狮身人面像的传统词源联系收紧或扼住，但不应把它画成括约肌的祖先。",
+    "examples": [
+      [
+        "The model shows a ring of muscle forming a sphincter.",
+        "模型展示了一圈形成括约肌的肌肉。"
+      ],
+      [
+        "The glossary lists several sphincters by location.",
+        "词汇表按部位列出了几种括约肌。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/sphincter",
+      "https://en.wiktionary.org/wiki/sphincter"
+    ]
+  },
+  {
+    "word": "scape",
+    "ipa": "/skeɪp/",
+    "meaning": "花葶；昆虫触角柄节；柱身",
+    "sense": "从植物基部抽出一根不带叶的花梗，像一根细长的杆。",
+    "split": "此处名词借自拉丁 scapus 柄、柱身，远接希腊 skapos；动词 scape“逃脱”是 escape 的缩略，另源。",
+    "history": [
+      [
+        "希腊 skapos → 拉丁 scapus",
+        "杆、柄、柱身"
+      ],
+      [
+        "英语名词 scape",
+        "花葶；触角柄节；柱身"
+      ]
+    ],
+    "explanation": "植物学常指从根部或地下结构抽出的无叶花梗；昆虫学指触角最基部的一节。共同点是细长支撑部分，不代表这些结构在生物学上是同一种器官。",
+    "usage": "a flowering scape；the scape of an antenna；a leafless scape。",
+    "contrast": "landscape 的 -scape 关联日耳曼语的形态或状态成分，不是本页的拉丁 scapus；escape 的缩略动词也另源。",
+    "examples": [
+      [
+        "A tall scape rose above the leaves.",
+        "一根高高的花葶伸出了叶丛。"
+      ],
+      [
+        "The drawing identifies the scape at the base of the antenna.",
+        "图中标出了触角基部的柄节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scape#English"
+    ]
+  },
+  {
+    "word": "scapus",
+    "ipa": "/ˈskeɪpəs/",
+    "meaning": "柄；柱身；某些生物的干状部分",
+    "sense": "找一个结构中细长、像杆或柄的支撑部分。",
+    "split": "新拉丁技术用法沿用拉丁 scapus 柄、柱身，英语借入。",
+    "history": [
+      [
+        "拉丁 scapus",
+        "杆、柄、柱身"
+      ],
+      [
+        "新拉丁术语及英语 scapus",
+        "特定结构的柄或干状部分"
+      ]
+    ],
+    "explanation": "这是比 scape 更保留拉丁外形的技术词，常见于结构描述。不同学科可能用它指不同的杆状部分，不能看到单词就认定一定是花葶。复数可见 scapi。",
+    "usage": "the scapus of a column；a short scapus；scapi〔复数〕。",
+    "contrast": "scape 与 scapus 可有相近所指，但具体文献的命名习惯不同；scapus 不是 scapula 肩胛骨的普通缩写。",
+    "examples": [
+      [
+        "The description gives the length of the scapus.",
+        "描述中列出了该柄状部分的长度。"
+      ],
+      [
+        "The architectural glossary defines scapus as the shaft of a column.",
+        "建筑词汇表把 scapus 解释为柱身。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/scapus",
+      "https://en.wiktionary.org/wiki/scapus"
+    ]
+  },
+  {
+    "word": "glabrous",
+    "ipa": "/ˈɡleɪbrəs/",
+    "meaning": "无毛的；表面光滑的",
+    "sense": "叶片表面没有细毛，手感和外观看起来很平滑。",
+    "split": "来自拉丁 glaber 光滑、无毛，词干 glabr-，加英语形容词成分 -ous。",
+    "history": [
+      [
+        "拉丁 glaber，词干 glabr-",
+        "光滑、无毛"
+      ],
+      [
+        "英语 glabrous",
+        "无毛的；表面光滑的"
+      ]
+    ],
+    "explanation": "植物描述中，glabrous leaves 重点是叶表没有毛；人体解剖也可说 glabrous skin。不要一看到 smooth 的中文提示，就忽略无毛这个分类特征。",
+    "usage": "glabrous leaves；a glabrous stem；glabrous skin。",
+    "contrast": "hairless 也是无毛，使用范围更日常；glabrous 是较专业的描述词。glossy 是有光泽，光亮表面不一定无毛。",
+    "examples": [
+      [
+        "The plant has glabrous leaves with smooth edges.",
+        "这株植物的叶片无毛，边缘平滑。"
+      ],
+      [
+        "The key distinguishes glabrous stems from hairy stems.",
+        "检索表区分无毛茎与有毛茎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glabrous#English"
+    ]
+  },
+  {
+    "word": "glabella",
+    "ipa": "/ɡləˈbelə/",
+    "meaning": "眉间；三叶虫头部的中轴隆起",
+    "sense": "两条眉毛之间、鼻根上方那一小片区域。",
+    "split": "新拉丁 glabella 联系拉丁 glabellus 较光滑、无毛的，是 glaber 的相关小称形式。",
+    "history": [
+      [
+        "拉丁 glaber → glabellus",
+        "光滑、无毛 → 相应小称形式"
+      ],
+      [
+        "新拉丁 glabella → 英语 glabella",
+        "眉间；另用于某些节肢动物头部的隆起"
+      ]
+    ],
+    "explanation": "人体语境指眉间区域；古生物文献描述三叶虫时，可指头部中央的隆起。它不是眼皮，也不等于两眉中的任何一条。",
+    "usage": "the glabella；the glabella of a trilobite；the region above the nose。",
+    "contrast": "glabella 是部位名称，glabrous 是无毛的形容词。不能把一个物体“没有毛”直接说成 it is a glabella。",
+    "examples": [
+      [
+        "The illustration marks the glabella between the eyebrows.",
+        "插图标出了两眉之间的眉间。"
+      ],
+      [
+        "The fossil has a clearly defined glabella.",
+        "这块化石的头部中轴隆起轮廓清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glabella#English"
+    ]
+  },
+  {
+    "word": "glabellar",
+    "ipa": "/ɡləˈbelər/",
+    "meaning": "眉间的；与 glabella 有关的",
+    "sense": "把观察范围限定在两眉之间的区域。",
+    "split": "glabella + -ar，构成表示与该部位有关的形容词。",
+    "history": [
+      [
+        "英语技术名词 glabella",
+        "眉间；相关结构的中轴隆起"
+      ],
+      [
+        "glabella + -ar → glabellar",
+        "与该部位有关的"
+      ]
+    ],
+    "explanation": "glabellar region 是眉间区域，glabellar lines 是眉间纹。古生物语境也可修饰三叶虫相应部位，因此先看研究对象。",
+    "usage": "the glabellar region；glabellar lines；a glabellar furrow。",
+    "contrast": "glabellar 不等于 glabrous。前者定位部位，后者描述无毛这一表面特征。",
+    "examples": [
+      [
+        "The drawing shows the glabellar region in profile.",
+        "图中以侧面展示眉间区域。"
+      ],
+      [
+        "The description notes a shallow glabellar furrow in the fossil.",
+        "描述指出化石的中轴隆起上有一道浅沟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glabellar#English"
+    ]
+  },
+  {
+    "word": "glabrate",
+    "ipa": "/ˈɡleɪbreɪt/",
+    "meaning": "近乎无毛的；逐渐变光滑、脱毛的",
+    "sense": "叶子原本有些细毛，长大后越来越光滑。",
+    "split": "拉丁 glabratus，是 glabrare 使无毛、使光滑的过去分词，远接 glaber。",
+    "history": [
+      [
+        "拉丁 glaber → glabrare",
+        "无毛、光滑 → 使无毛"
+      ],
+      [
+        "拉丁 glabratus → 英语 glabrate",
+        "变得光滑或近乎无毛的"
+      ]
+    ],
+    "explanation": "这是植物形态等专业描述中的少见形容词，可表示近乎无毛，也可强调逐渐失去毛。不是所有以 -ate 结尾的英语词都应当成动词。",
+    "usage": "glabrate leaves；a glabrate surface；become glabrate。",
+    "contrast": "glabrous 直接描述无毛状态；glabrate 可能强调近乎无毛或逐渐变无毛。具体释义随文献习惯核对。",
+    "examples": [
+      [
+        "The mature leaves are nearly glabrate.",
+        "成熟叶片近乎无毛。"
+      ],
+      [
+        "The botanical description calls the surface glabrate.",
+        "植物学描述将该表面称为近乎无毛。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/glabrate",
+      "https://en.wiktionary.org/wiki/glabrate"
+    ]
+  },
+  {
+    "word": "glabrescent",
+    "ipa": "/ɡleɪˈbresənt/",
+    "meaning": "渐变无毛的；逐渐变光滑的",
+    "sense": "不是突然剃掉，而是随着生长，表面的细毛渐渐少了。",
+    "split": "来自拉丁 glabrescens，动词 glabrescere 变无毛的现在分词；-escent 常保留逐渐进入某种状态的意思。",
+    "history": [
+      [
+        "拉丁 glaber → glabrescere",
+        "无毛 → 变得无毛"
+      ],
+      [
+        "拉丁 glabrescens → 英语 glabrescent",
+        "正在逐渐变光滑、无毛的"
+      ]
+    ],
+    "explanation": "植物描述里常说叶片或茎随成熟变得无毛。它让读者留意变化过程，而不是只记录拍照时看起来平不平。",
+    "usage": "glabrescent leaves；a glabrescent stem；become glabrescent。",
+    "contrast": "glabrescent 比 glabrous 更突出渐变；glabrate 的部分用法与它重叠，不能机械地划成完全不同的等级。",
+    "examples": [
+      [
+        "The young stems are hairy but become glabrescent with age.",
+        "幼茎有毛，但随生长逐渐变得无毛。"
+      ],
+      [
+        "The guide describes the upper leaf surface as glabrescent.",
+        "指南将叶片上表面描述为渐变无毛。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/glabrescent",
+      "https://en.wiktionary.org/wiki/glabrescent"
+    ]
+  },
+  {
+    "word": "staphylococcus",
+    "ipa": "英 /ˌstæfɪləˈkɒkəs/；美 /ˌstæfɪləˈkɑːkəs/",
+    "meaning": "葡萄球菌",
+    "sense": "显微镜下，一些球形细胞聚成像葡萄串一样的团。",
+    "split": "来自属名 Staphylococcus，staphylo- 葡萄串 + -coccus 球状细菌，名称描述聚集形态。",
+    "history": [
+      [
+        "希腊 staphylē；kokkos",
+        "葡萄串；粒、核"
+      ],
+      [
+        "分类名 Staphylococcus",
+        "以成串聚集的球形细胞命名"
+      ],
+      [
+        "英语 staphylococcus",
+        "该属的细菌"
+      ]
+    ],
+    "explanation": "单数 staphylococcus，复数 staphylococci。正式属名首字母大写，普通成员名可小写；名称本身不能说明样本的具体种类或性质。",
+    "usage": "a staphylococcus；staphylococci；Staphylococcus aureus。",
+    "contrast": "staphylo- 关注葡萄串般的聚集，strepto- 常关注链状排列；不要把两种菌名仅因都有 -coccus 就混成同一个名称。",
+    "examples": [
+      [
+        "The diagram compares a staphylococcus with a chain of cocci.",
+        "示意图比较了葡萄球菌与一串链状球菌。"
+      ],
+      [
+        "The glossary gives staphylococci as the plural of staphylococcus.",
+        "词汇表列出 staphylococci 是 staphylococcus 的复数。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/staphylococcus",
+      "https://en.wiktionary.org/wiki/staphylococcus"
+    ]
+  },
+  {
+    "word": "staphyloplasty",
+    "ipa": "/ˈstæfɪləʊˌplæsti/",
+    "meaning": "悬雍垂或软腭成形术",
+    "sense": "名称里那颗“小葡萄”在这里指悬雍垂等软腭区域。",
+    "split": "staphylo- 在此表示悬雍垂、软腭区域，+ -plasty 成形修复；不是对葡萄球菌作修复。",
+    "history": [
+      [
+        "希腊 staphylē",
+        "葡萄串；又用于悬雍垂的形似命名"
+      ],
+      [
+        "医学结合形式 staphylo- + -plasty",
+        "悬雍垂或软腭的成形修复"
+      ],
+      [
+        "英语 staphyloplasty",
+        "相关成形术名称"
+      ]
+    ],
+    "explanation": "这是手术名称的词汇解释：前半定位结构，后半说成形修复。具体文献所指范围可涉及悬雍垂及软腭，应以该文献的定义为准。",
+    "usage": "the term staphyloplasty；a description of staphyloplasty；staphyloplasty terminology。",
+    "contrast": "-plasty 是成形修复，-tomy 是切开；staphylo- 也不总表示葡萄球菌，要看它与什么结合。",
+    "examples": [
+      [
+        "The medical glossary defines staphyloplasty under palatal surgery.",
+        "医学词汇表在腭部手术项下解释了 staphyloplasty。"
+      ],
+      [
+        "The translator checked the meaning of staphylo- in staphyloplasty.",
+        "译者核对了 staphyloplasty 中 staphylo- 的含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staphyloplasty#English"
+    ]
+  },
+  {
+    "word": "squamous",
+    "ipa": "/ˈskweɪməs/",
+    "meaning": "有鳞的；鳞状的；扁平鳞状细胞的",
+    "sense": "一片片扁平的鳞片，叠出薄薄的表面。",
+    "split": "经中古英语，来自拉丁 squamosus 有鳞的，基于 squama 鳞。",
+    "history": [
+      [
+        "拉丁 squama → squamosus",
+        "鳞片 → 有鳞、似鳞的"
+      ],
+      [
+        "英语 squamous",
+        "有鳞的；解剖和组织学中的鳞状"
+      ]
+    ],
+    "explanation": "普通形态描述是鳞片状；组织学中的 squamous epithelium 则指细胞形状扁平的上皮，不是人体表面长了鱼鳞。专业固定搭配要整体读。",
+    "usage": "squamous epithelium；squamous cells；a squamous surface。",
+    "contrast": "scaly 是日常的鳞状、起屑；squamous 多用于专业描述。一个组织被称为 squamous，本身不说明是否病变。",
+    "examples": [
+      [
+        "The slide shows a layer of squamous cells.",
+        "切片展示了一层鳞状细胞。"
+      ],
+      [
+        "The lesson compares squamous and columnar epithelium.",
+        "课程比较了鳞状上皮与柱状上皮。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/squamous",
+      "https://en.wiktionary.org/wiki/squamous"
+    ]
+  },
+  {
+    "word": "stroma",
+    "ipa": "英 /ˈstrəʊmə/；美 /ˈstroʊmə/",
+    "meaning": "基质；支撑组织；叶绿体基质",
+    "sense": "一层铺开的底子，别的结构安在它里面或上面。",
+    "split": "经拉丁 stroma，来自希腊 strōma 铺垫物、床垫，联系铺开之意。",
+    "history": [
+      [
+        "希腊 stornymi → strōma",
+        "铺开 → 铺垫物、床垫"
+      ],
+      [
+        "拉丁及科学术语 stroma",
+        "承托、容纳其他结构的基底"
+      ],
+      [
+        "英语 stroma",
+        "器官基质；叶绿体基质等"
+      ]
+    ],
+    "explanation": "器官中的 stroma 常指支持组织，与承担主要功能的 parenchyma 对比；叶绿体里的 stroma 则指类囊体周围的基质。它们共享命名画面，具体物质和结构不同。",
+    "usage": "the stroma of an organ；chloroplast stroma；stromata〔复数〕。",
+    "contrast": "stroma 与 storm 风暴无关。器官基质和叶绿体基质不能只因同名就说成相同组织。",
+    "examples": [
+      [
+        "The diagram separates the stroma from the functional tissue.",
+        "示意图区分了基质与功能组织。"
+      ],
+      [
+        "The enzyme is located in the chloroplast stroma.",
+        "这种酶位于叶绿体基质中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stroma#English"
+    ]
+  },
+  {
+    "word": "stromal",
+    "ipa": "英 /ˈstrəʊməl/；美 /ˈstroʊməl/",
+    "meaning": "基质的；与支撑组织有关的",
+    "sense": "把注意力放到托住其他结构的那层组织。",
+    "split": "stroma + -al，构成与基质有关的形容词。",
+    "history": [
+      [
+        "英语技术名词 stroma",
+        "基质、支撑组织"
+      ],
+      [
+        "stroma + -al → stromal",
+        "基质的"
+      ]
+    ],
+    "explanation": "stromal cells 是基质细胞；stromal tissue 是基质组织。形容词只指出关系，不能据此判断某种细胞的全部功能或状态。",
+    "usage": "stromal cells；stromal tissue；the stromal compartment。",
+    "contrast": "stromal 与 structural 都可能让人想到支撑，但前者限定 stroma 这一专业结构，不能任意换成宽泛的“结构性的”。",
+    "examples": [
+      [
+        "The stain makes the stromal tissue easier to see.",
+        "染色使基质组织更容易辨认。"
+      ],
+      [
+        "The researchers compared stromal cells from the two samples.",
+        "研究人员比较了两份样本中的基质细胞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stromal#English"
+    ]
+  },
+  {
+    "word": "biostrome",
+    "ipa": "/ˈbaɪəʊstrəʊm/",
+    "meaning": "生物层〔层状生物成因沉积体〕",
+    "sense": "生物遗骸或生长构造像毯子一样铺成一层。",
+    "split": "bio- 生物 + strome，后者联系希腊 strōma 铺垫物；是地质学命名。",
+    "history": [
+      [
+        "希腊 bios；strōma",
+        "生命；铺开的垫层"
+      ],
+      [
+        "地质术语 biostrome",
+        "生物成因、呈层状铺展的沉积体"
+      ]
+    ],
+    "explanation": "地质学关注它较平铺、层状的外形，区别于较明显隆起成丘的生物建造体。不是所有含化石岩层都自动叫 biostrome，要看形成过程和构造。",
+    "usage": "a coral biostrome；a fossil biostrome；a layered biostrome。",
+    "contrast": "biostrome 常强调层状铺展；bioherm 常强调丘状、透镜状的生物建造。两者都是地质术语，别用现代生物床的日常意思替代。",
+    "examples": [
+      [
+        "The geologists mapped a thin coral biostrome.",
+        "地质学家绘制了一层薄珊瑚生物层的分布图。"
+      ],
+      [
+        "The outcrop exposes a biostrome rich in fossil remains.",
+        "露头显露出一层富含化石遗骸的生物层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/biostrome#English",
+      "https://www.merriam-webster.com/dictionary/biostrome"
+    ]
+  },
+  {
+    "word": "playa",
+    "ipa": "/ˈplaɪə/",
+    "meaning": "干盐湖盆；季节性积水后干涸的平坦盆地",
+    "sense": "干燥地区的一片低平地，积水蒸发后又露出地面。",
+    "split": "借自西班牙语 playa 海滩，远源常联系后期拉丁 plagia 及希腊 plagios 斜的；英文俚语 playa“玩家、花花公子”则来自 player 的读音，另源。",
+    "history": [
+      [
+        "西班牙语 playa",
+        "海滩、岸边平地"
+      ],
+      [
+        "英语地貌术语 playa",
+        "会积水又干涸的平坦盆地"
+      ]
+    ],
+    "explanation": "英语地理学的 playa 不等于所有沙滩，通常说干旱地区可暂时积水的平坦湖盆。水完全蒸发后，可能露出盐类或细沉积物。",
+    "usage": "a dry playa；a playa lake；the surface of a playa。",
+    "contrast": "playa /ˈplaɪə/ 的地貌义与模仿 player 的俚语 /ˈpleɪə/ 分源、分读音。beach 则是普通的海滩、湖滨。",
+    "examples": [
+      [
+        "After the water evaporated, a pale crust covered the playa.",
+        "水蒸发后，干湖盆表面覆盖了一层浅色硬壳。"
+      ],
+      [
+        "The survey mapped sediment across the playa.",
+        "调查绘制了整个干湖盆的沉积物分布。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playa#English"
+    ]
+  },
+  {
+    "word": "plage",
+    "ipa": "/plɑːʒ/；亦读 /pleɪdʒ/",
+    "meaning": "海滨浴场、海滩；太阳谱斑",
+    "sense": "普通场景是海边的一片沙滩，天文学场景则是太阳上较亮的一片区域。",
+    "split": "借自法语 plage 海滩，通常经意大利 piaggia、后期拉丁 plagia 联系希腊 plagios 斜的；天文学的亮区义是后来的术语用法。",
+    "history": [
+      [
+        "希腊 plagios → 后期拉丁 plagia",
+        "斜的 → 斜坡、岸边"
+      ],
+      [
+        "意大利 piaggia → 法语 plage",
+        "海岸、海滩"
+      ],
+      [
+        "英语 plage",
+        "海滩；后来也指太阳上的亮区"
+      ]
+    ],
+    "explanation": "英文本来就是较少见的借词；介绍度假海滩时可能见到，太阳物理文献则常译谱斑。名称相同不代表太阳上有沙滩，是词在新领域中获得新所指。",
+    "usage": "a seaside plage；a solar plage；bright plage regions。",
+    "contrast": "plage 不是 plague 瘟疫，词尾读音也不同。太阳谱斑与 sunspot 太阳黑子是不同的观测特征。",
+    "examples": [
+      [
+        "The old brochure calls the resort beach a plage.",
+        "旧宣传册把度假区的海滩称为 plage。"
+      ],
+      [
+        "The image shows a bright plage near the sunspot.",
+        "图像显示黑子附近的一片明亮谱斑。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/plage",
+      "https://en.wiktionary.org/wiki/plage"
+    ]
+  },
+  {
+    "word": "plagioclase",
+    "ipa": "英 /ˈpleɪdʒiəkleɪz/；美 /ˈpleɪdʒiəkleɪs/",
+    "meaning": "斜长石",
+    "sense": "观察矿物沿固定方向裂开的面，两个方向之间不是直角。",
+    "split": "科学命名由 plagio- 斜的 + -clase 裂开构成，英语形式联系德语 Plagioklas。",
+    "history": [
+      [
+        "希腊 plagios；klasis",
+        "斜的；裂开"
+      ],
+      [
+        "德语 Plagioklas → 英语 plagioclase",
+        "以斜交解理命名的斜长石类矿物"
+      ]
+    ],
+    "explanation": "这是一类长石的名称，常涉及钠、钙成分的变化。词源关注解理角度，不是说晶体一定歪着长，也不是只凭颜色就能确定。",
+    "usage": "plagioclase feldspar；plagioclase crystals；sodium-rich plagioclase。",
+    "contrast": "feldspar 是长石的大类，plagioclase 是其中一类。-clase 说裂开，与 classroom 的 class 不同。",
+    "examples": [
+      [
+        "The rock contains small plagioclase crystals.",
+        "这块岩石含有小的斜长石晶体。"
+      ],
+      [
+        "The sample was rich in plagioclase feldspar.",
+        "样本富含斜长石。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/plagioclase",
+      "https://en.wiktionary.org/wiki/plagioclase"
+    ]
+  },
+  {
+    "word": "plagiocephaly",
+    "ipa": "/ˌpleɪdʒiəˈsefəli/",
+    "meaning": "斜头畸形；头颅不对称",
+    "sense": "从上方看，头颅轮廓两侧不对称，主轴显得偏斜。",
+    "split": "plagio- 斜的 + -cephaly 头部状态，科学和医学构词。",
+    "history": [
+      [
+        "希腊 plagios；kephalē",
+        "斜的；头"
+      ],
+      [
+        "医学 plagio- + -cephaly → plagiocephaly",
+        "描述头颅偏斜、不对称的名称"
+      ]
+    ],
+    "explanation": "这个名称描述形态，具体成因不能由构词直接推断。阅读医学材料时，词前的限定词和整段说明比单纯拆词更能确定讨论对象。",
+    "usage": "the term plagiocephaly；a description of plagiocephaly；cranial asymmetry。",
+    "contrast": "-cephaly 是头部状态的名词成分，cephalic 是头部的形容词；plagio- 在此不表示抄袭。",
+    "examples": [
+      [
+        "The glossary explains plagiocephaly as an asymmetry of the skull.",
+        "词汇表将斜头畸形解释为头颅不对称。"
+      ],
+      [
+        "The diagram illustrates the head shape discussed under plagiocephaly.",
+        "示意图展示了斜头畸形一节讨论的头形。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/medical/plagiocephaly",
+      "https://en.wiktionary.org/wiki/plagiocephaly",
+      "https://www.merriam-webster.com/dictionary/plagiocephaly"
+    ]
+  },
+  {
+    "word": "plagiotropic",
+    "ipa": "/ˌpleɪdʒiəˈtrəʊpɪk/",
+    "meaning": "斜向生长的；横向生长的",
+    "sense": "植物的一条枝不直直向上，而是向斜侧或近水平处伸出去。",
+    "split": "plagio- 斜的 + -tropic 朝向、生长方向的，科学构词。",
+    "history": [
+      [
+        "希腊 plagios；tropos",
+        "斜的；转向、方向"
+      ],
+      [
+        "英语植物学 plagiotropic",
+        "主轴偏离竖直方向生长的"
+      ]
+    ],
+    "explanation": "描述的是相对于竖直方向的生长取向，常用于枝、根等。它不是说植物长错了，也不自动说明由哪一种刺激引起。",
+    "usage": "plagiotropic growth；plagiotropic branches；a plagiotropic axis。",
+    "contrast": "orthotropic 常指主轴竖直取向，plagiotropic 指偏离竖直方向；这些是形态描述，不是优劣判断。",
+    "examples": [
+      [
+        "The plant produced several plagiotropic branches.",
+        "这株植物长出了几条斜向生长的枝。"
+      ],
+      [
+        "The study compared orthotropic and plagiotropic growth.",
+        "研究比较了直向与斜向生长。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/plagiotropic",
+      "https://en.wiktionary.org/wiki/plagiotropic"
+    ]
+  },
+  {
+    "word": "cinque",
+    "ipa": "/sɪŋk/；亦读 /sæŋk/",
+    "meaning": "五点的牌、骰面或骨牌",
+    "sense": "看一颗骰子，上面有五个点。",
+    "split": "经中古英语和法语 cinq，来自拉丁 quinque 的历史变体；拼写另受相关罗曼语形式影响。",
+    "history": [
+      [
+        "拉丁 quinque，亦见 cinque 一类形式",
+        "五"
+      ],
+      [
+        "法语 cinq → 中古英语 cynk",
+        "五"
+      ],
+      [
+        "英语 cinque",
+        "牌、骰子等的五点"
+      ]
+    ],
+    "explanation": "这是游戏计点或历史语境的少见词，不代替现代日常数字 five。读音可能与 sink 相同，但意义和来源不同。",
+    "usage": "a cinque；the cinque on a die；a cinque of dominoes。",
+    "contrast": "cinque 不是 sink 的拼写变体。数五个东西通常直接说 five，不说 cinque apples。",
+    "examples": [
+      [
+        "The old gaming manual calls a five on the die a cinque.",
+        "旧游戏手册把骰子的五点称为 cinque。"
+      ],
+      [
+        "The player rolled a cinque and moved five spaces.",
+        "玩家掷出五点，前进了五格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cinque#English"
+    ]
+  },
+  {
+    "word": "cinquain",
+    "ipa": "/ˈsɪŋkeɪn/；亦读 /sɪŋˈkeɪn/",
+    "meaning": "五行诗；五行诗节",
+    "sense": "把一段短诗压成五行，行数本身就是名字。",
+    "split": "借自法语 cinquain，基于 cinq 五；远源是拉丁 quinque。",
+    "history": [
+      [
+        "拉丁 quinque → 法语 cinq",
+        "五"
+      ],
+      [
+        "法语 cinquain → 英语 cinquain",
+        "五个一组 → 五行诗节"
+      ]
+    ],
+    "explanation": "最宽泛的核心是五行。英语诗歌中有按音节数二、四、六、八、二编排的形式，课堂也有按词类或词数编排的变体；不要把某一种课堂模板说成所有 cinquain 的唯一规则。",
+    "usage": "write a cinquain；a five-line cinquain；a cinquain exercise。",
+    "contrast": "quatrain 是四行诗节，cinquain 是五行。cinquain 的定义不要求押韵方式永远相同。",
+    "examples": [
+      [
+        "Each student wrote a cinquain about the sea.",
+        "每位学生写了一首关于海的五行诗。"
+      ],
+      [
+        "The teacher explained the syllable pattern of this cinquain.",
+        "老师解释了这首五行诗的音节排列。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/cinquain",
+      "https://en.wiktionary.org/wiki/cinquain"
+    ]
+  },
+  {
+    "word": "quinquepartite",
+    "ipa": "/ˌkwɪŋkwɪˈpɑːrtaɪt/",
+    "meaning": "分成五部分的；由五方组成的",
+    "sense": "一张整体图被划成五块，或一项安排由五方参与。",
+    "split": "quinque- 五 + partite 分成部分的；与拉丁 quinquepartitus 的构词对应。",
+    "history": [
+      [
+        "拉丁 quinque；partitus",
+        "五；分成部分的"
+      ],
+      [
+        "英语 quinquepartite",
+        "五部分的；五方的"
+      ]
+    ],
+    "explanation": "这是正式、少见的数量形容词。普通写作多说 divided into five parts；读植物、建筑或正式安排时，也可能见到 quinquepartite。",
+    "usage": "a quinquepartite division；a quinquepartite structure；a quinquepartite arrangement。",
+    "contrast": "tripartite 是三部分或三方，quinquepartite 是五部分或五方；partite 指分组，不是 party 聚会的意思。",
+    "examples": [
+      [
+        "The chart shows a quinquepartite division of the material.",
+        "图表把材料分成五部分。"
+      ],
+      [
+        "The author proposes a quinquepartite structure for the book.",
+        "作者提出全书分为五部分的结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quinquepartite#English"
+    ]
+  },
+  {
+    "word": "quasar",
+    "ipa": "英 /ˈkweɪzɑː/；美 /ˈkweɪzɑːr/",
+    "meaning": "类星体",
+    "sense": "远处看着像一颗星的亮点，实际上是极明亮的活动星系核。",
+    "split": "由 quasi-stellar radio source 类星射电源一语缩合而来，quasi- 像、近似 + stellar 星的；不是一个普通的 -ar 后缀派生。",
+    "history": [
+      [
+        "英语 quasi-stellar radio source",
+        "像恒星点源的射电源"
+      ],
+      [
+        "二十世纪命名 quasar",
+        "由这组词缩合的名称"
+      ],
+      [
+        "现代天文学 quasar",
+        "极明亮的活动星系核这一类天体"
+      ]
+    ],
+    "explanation": "词源保留早期观测和命名背景，现代 quasar 不要求每个对象都属于射电很强的那一支。名字里的“像星”是外观线索，不能据此把它归为普通恒星。",
+    "usage": "a distant quasar；quasar light；a radio-loud quasar。",
+    "contrast": "star 是恒星，quasar 是活动星系核的名称。看起来像点源与天体真正是什么，需要分开。",
+    "examples": [
+      [
+        "The telescope detected light from a distant quasar.",
+        "望远镜探测到来自遥远类星体的光。"
+      ],
+      [
+        "The lecture explains why a quasar is not an ordinary star.",
+        "讲座解释了为什么类星体不是普通恒星。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/quasar",
+      "https://science.nasa.gov/universe/galaxies/active-galaxies/"
+    ]
+  },
+  {
+    "word": "quasiparticle",
+    "ipa": "英 /ˌkweɪzaɪˈpɑːtɪkl/；美 /ˌkweɪzaɪˈpɑːrtɪkl/",
+    "meaning": "准粒子",
+    "sense": "许多粒子的共同活动，可以像一个粒子那样跟踪和计算。",
+    "split": "quasi- 近似、仿佛 + particle 粒子，英语科学复合词。",
+    "history": [
+      [
+        "拉丁 quasi → 英语 quasi-",
+        "仿佛；近似"
+      ],
+      [
+        "quasi- + particle → quasiparticle",
+        "表现得像粒子的集体激发或有效实体"
+      ]
+    ],
+    "explanation": "准粒子是描述多体系统行为的重要概念，不是说科学家随意想象一个假粒子。名称强调可按粒子方式处理，具体所指随物理系统而变。",
+    "usage": "a quasiparticle excitation；quasiparticle interactions；a quasiparticle model。",
+    "contrast": "quasi- 的“近似”不是伪造。quasiparticle 与 elementary particle 基本粒子在概念层次上不同。",
+    "examples": [
+      [
+        "The model describes the excitation as a quasiparticle.",
+        "模型把这种激发描述为准粒子。"
+      ],
+      [
+        "The lecture introduced quasiparticle interactions in solids.",
+        "讲座介绍了固体中的准粒子相互作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quasiparticle#English",
+      "https://www.merriam-webster.com/dictionary/quasiparticle"
+    ]
+  },
+  {
+    "word": "pectin",
+    "ipa": "/ˈpektɪn/",
+    "meaning": "果胶",
+    "sense": "水果里的一类多糖，在合适条件下能帮助果酱凝成胶状。",
+    "split": "借自法语 pectine，命名联系 pectique，再追到希腊 pēktikos 能凝结的、pēgnymi 使凝固。",
+    "history": [
+      [
+        "希腊 pēgnymi → pēktos／pēktikos",
+        "使凝固 → 凝结的、能凝结的"
+      ],
+      [
+        "法语 pectique；pectine",
+        "相关化学命名；果胶"
+      ],
+      [
+        "英语 pectin",
+        "植物来源的果胶"
+      ]
+    ],
+    "explanation": "词根抓住凝胶特性。果胶存在于植物细胞壁中，也用于食品制作；实际凝胶条件取决于果胶类型及配方，不能理解成它遇水必然马上凝固。",
+    "usage": "fruit pectin；apple pectin；add pectin to jam。",
+    "contrast": "pectin 是果胶，gelatin 是明胶，来源与成分不同，配方中不一定能直接等量替换。",
+    "examples": [
+      [
+        "The recipe uses pectin to help the jam set.",
+        "配方用果胶帮助果酱凝固。"
+      ],
+      [
+        "The students extracted pectin from citrus peel.",
+        "学生从柑橘皮中提取了果胶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pectin#English"
+    ]
+  },
+  {
+    "word": "pectic",
+    "ipa": "/ˈpektɪk/",
+    "meaning": "果胶的；果胶酸相关的",
+    "sense": "给一种物质贴上“与果胶这一类有关”的标签。",
+    "split": "形态联系 pectin 与 -ic；科学命名也直接联系希腊 pēktikos 能凝结的，历史中的 pectic acid 与 pectine 名称相关，不能只按现代长短推先后。",
+    "history": [
+      [
+        "希腊 pēktikos",
+        "能使凝结的"
+      ],
+      [
+        "近代化学 pectic／pectique 一类命名",
+        "果胶酸及相关物质的"
+      ],
+      [
+        "英语 pectic",
+        "果胶或果胶酸相关的"
+      ]
+    ],
+    "explanation": "pectic substances 常指一组相关的果胶物质；pectic acid 是果胶酸这一化学名称。不是所有能让液体变稠的物质都能叫 pectic。",
+    "usage": "pectic acid；pectic substances；pectic polysaccharides。",
+    "contrast": "pectin 是名词果胶，pectic 是相关形容词；pectoral 胸部的属于另一词根，不要按前几个字母归族。",
+    "examples": [
+      [
+        "The paper examines pectic substances in plant cell walls.",
+        "论文考察了植物细胞壁中的果胶物质。"
+      ],
+      [
+        "Pectic acid appears in the glossary as a separate chemical term.",
+        "词汇表将果胶酸列为独立化学术语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pectic#English"
+    ]
+  },
+  {
+    "word": "hysteropexy",
+    "ipa": "英 /ˌhɪstəˈrɒpeksi/；美 /ˌhɪstəˈrɑːpeksi/",
+    "meaning": "子宫固定术",
+    "sense": "名称说的是把子宫固定在某个位置的手术。",
+    "split": "hystero- 子宫 + -pexy 固定，后半联系希腊 pēxis 固定。",
+    "history": [
+      [
+        "希腊 hystera；pēxis",
+        "子宫；固定"
+      ],
+      [
+        "医学 hystero- + -pexy → hysteropexy",
+        "子宫固定的手术名称"
+      ]
+    ],
+    "explanation": "读这个词时，前半告诉你器官，后半告诉你处理类型。它不是子宫切除术，不能只看到 hystero- 就忽略不同的术式词尾。",
+    "usage": "the term hysteropexy；a description of hysteropexy；hysteropexy terminology。",
+    "contrast": "-pexy 是固定，-ectomy 是切除，-tomy 是切开。这里只解释名称，不用拆词推断某份病历的具体操作。",
+    "examples": [
+      [
+        "The translator distinguished hysteropexy from hysterectomy.",
+        "译者区分了子宫固定术与子宫切除术。"
+      ],
+      [
+        "The glossary explains the suffix in hysteropexy.",
+        "词汇表解释了 hysteropexy 中的词尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hysteropexy#English"
+    ]
+  },
+  {
+    "word": "rheopexy",
+    "ipa": "/ˈriːəʊˌpeksi/",
+    "meaning": "震凝；流变凝结现象",
+    "sense": "某些胶体在特定扰动或剪切条件下，反而更快形成凝胶。",
+    "split": "rheo- 流动 + -pexy 固定、凝结，科学复合。",
+    "history": [
+      [
+        "希腊相关成分 rheo-；-pexy",
+        "流动；固定、凝结"
+      ],
+      [
+        "英语流变学 rheopexy",
+        "在一定扰动条件下加快凝胶形成的现象"
+      ]
+    ],
+    "explanation": "这是专业流变术语，有些文献也用来讨论随剪切时间增强的结构或黏度变化。阅读时要查看作者采用的定义和实验条件，不能泛化成“所有东西越搅越稠”。",
+    "usage": "rheopexy in a colloid；a study of rheopexy；rheopexy and thixotropy。",
+    "contrast": "不要把 rheopexy 与所有 shear thickening 都完全等同；时间依赖、实验方式和各文献定义都可能重要。",
+    "examples": [
+      [
+        "The experiment examined rheopexy in a colloidal sample.",
+        "实验考察了一份胶体样本的震凝现象。"
+      ],
+      [
+        "The author defines rheopexy before comparing the test results.",
+        "作者先定义震凝，再比较测试结果。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/rheopexy",
+      "https://en.wiktionary.org/wiki/rheopexy"
+    ]
+  },
+  {
+    "word": "rheopectic",
+    "ipa": "/ˌriːəʊˈpektɪk/",
+    "meaning": "呈震凝现象的；流变凝结的",
+    "sense": "用一个形容词说明样本呈现刚才讨论的震凝行为。",
+    "split": "联系 rheopexy／rheopecty 的形容词形式，词干使用 rheopect-，加 -ic；不是现代 pectin 果胶派生出的物性词。",
+    "history": [
+      [
+        "科学术语 rheopexy／rheopecty",
+        "震凝、相关流变现象"
+      ],
+      [
+        "rheopect- + -ic → rheopectic",
+        "呈这种行为的"
+      ]
+    ],
+    "explanation": "rheopectic behaviour 是相应的流变表现。要按实验的时间尺度、施加条件和作者定义来理解，不把词源中的凝固当成永远不可逆。",
+    "usage": "rheopectic behaviour；a rheopectic sample；rheopectic properties。",
+    "contrast": "rheopectic 是形容词，rheopexy 是现象名。pectic 则与果胶或果胶酸有关，三者不能随意互换。",
+    "examples": [
+      [
+        "The suspension showed rheopectic behaviour under the test conditions.",
+        "悬浮液在测试条件下呈现震凝行为。"
+      ],
+      [
+        "The chart compares two samples with different rheopectic properties.",
+        "图表比较了两份震凝性质不同的样本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rheopectic#English"
+    ]
+  },
+  {
+    "word": "fistula",
+    "ipa": "英 /ˈfɪstjʊlə/；美 /ˈfɪstʃələ/",
+    "meaning": "瘘；瘘管",
+    "sense": "两个部位之间出现一条像管道的通路。",
+    "split": "借自拉丁 fistula 管、笛、管状通道；医学沿用其管道的形象。",
+    "history": [
+      [
+        "拉丁 fistula",
+        "管、笛；管状通道"
+      ],
+      [
+        "医学英语 fistula",
+        "身体部位之间的通道、瘘"
+      ]
+    ],
+    "explanation": "常指通常不相通的器官或表面间出现异常通路；某些医疗语境也指人工建立的通路，所以不能把每次出现的 fistula 都判断为自然形成。复数常见 fistulas 或 fistulae。",
+    "usage": "an arteriovenous fistula；a fistula opening；fistulas。",
+    "contrast": "fistula 是通路名称，fissure 是裂隙；两者形象和所指不同。具体情况必须连着部位名称读。",
+    "examples": [
+      [
+        "The diagram shows a fistula between the two structures.",
+        "示意图显示两个结构之间的一条瘘管。"
+      ],
+      [
+        "The glossary lists fistulae as a plural of fistula.",
+        "词汇表列出 fistulae 是 fistula 的一种复数形式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fistula#English",
+      "https://www.merriam-webster.com/dictionary/fistula"
+    ]
+  },
+  {
+    "word": "talus",
+    "ipa": "/ˈteɪləs/",
+    "meaning": "距骨；崖脚碎石堆〔另源〕",
+    "sense": "人体语境里是踝部的一块骨；山地语境里则是崖脚堆着的碎石。",
+    "split": "距骨义直接借自拉丁 talus 踝骨；碎石堆义借自法语 talus 斜坡，是独立传入的同形词。",
+    "history": [
+      [
+        "并列来源：拉丁 talus；法语 talus",
+        "踝骨；斜坡"
+      ],
+      [
+        "英语 talus 的两支",
+        "解剖学的距骨；地貌学的坡脚碎石堆"
+      ]
+    ],
+    "explanation": "the talus 在踝关节图里指距骨；a talus slope 在地貌描述里常是碎石坡。不能从医学义推导出“骨头变成石堆”的词源故事。",
+    "usage": "the talus bone；a talus slope；a talus field。",
+    "contrast": "talus 的两个义项要分源。tarsus 也用于足部结构，但不是 talus 的复数；距骨义复数可见 tali。",
+    "examples": [
+      [
+        "The anatomical model labels the talus above the heel bone.",
+        "解剖模型标出了跟骨上方的距骨。"
+      ],
+      [
+        "Loose rocks covered the talus below the cliff.",
+        "松散岩石覆盖着悬崖下方的碎石堆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/talus#English"
+    ]
+  },
+  {
+    "word": "transept",
+    "ipa": "/ˈtrænsept/",
+    "meaning": "耳堂；教堂的横向翼部",
+    "sense": "从上看一座十字形教堂，中间向左右伸出的横臂。",
+    "split": "经法语 transept，来自新拉丁 transeptum；trans- 横跨 + 拉丁 saeptum 围栏、隔断。",
+    "history": [
+      [
+        "拉丁 trans-；saeptum",
+        "横跨；围栏、隔断"
+      ],
+      [
+        "新拉丁 transeptum → 法语 transept",
+        "教堂横向部分"
+      ],
+      [
+        "英语 transept",
+        "耳堂、横翼"
+      ]
+    ],
+    "explanation": "常在教堂长轴上横向展开，两侧可称 north transept、south transept。并非所有教堂都有这种十字平面，名称要对应实际建筑。",
+    "usage": "the north transept；the south transept；the nave and transept。",
+    "contrast": "nave 是中殿，transept 是横向部分；sept- 在这里联系隔断，不能按 seven 的数词来源解释。",
+    "examples": [
+      [
+        "Sunlight entered through the window in the north transept.",
+        "阳光从北耳堂的窗户照进来。"
+      ],
+      [
+        "The plan marks the crossing of the nave and transept.",
+        "平面图标出了中殿与耳堂的交会处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transept#English"
+    ]
+  },
+  {
+    "word": "seta",
+    "ipa": "/ˈsiːtə/",
+    "meaning": "刚毛；刺毛；苔藓蒴柄",
+    "sense": "一根细而有一定硬度的小毛，或像细柄一样托着孢蒴。",
+    "split": "借自拉丁 seta／saeta 刚毛；生物学借用为结构名称。",
+    "history": [
+      [
+        "拉丁 saeta／seta",
+        "刚毛"
+      ],
+      [
+        "英语 seta",
+        "刚毛；苔藓中托住孢蒴的细柄"
+      ]
+    ],
+    "explanation": "昆虫等动物学语境常说刚毛，苔藓学中常译蒴柄。复数 setae 通常读 /ˈsiːtiː/；不同学科的具体结构不能互换。",
+    "usage": "a sensory seta；setae on the body；the seta of a moss。",
+    "contrast": "seta 不是英语 set 的单数形式。hair 是普通毛发，seta 是特定生物结构的名称。",
+    "examples": [
+      [
+        "A single seta projected from the surface.",
+        "一根刚毛从表面伸出。"
+      ],
+      [
+        "The moss capsule was supported by a slender seta.",
+        "苔藓的孢蒴由一根细长蒴柄托着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seta#English"
+    ]
+  },
+  {
+    "word": "setose",
+    "ipa": "英 /ˈsiːtəʊs/；美 /ˈsiːtoʊs/",
+    "meaning": "具刚毛的；多刺毛的",
+    "sense": "表面不是光溜溜的，而是布着一根根刚毛。",
+    "split": "来自拉丁 setosus，seta 刚毛 + 表示具有某物的形容词成分。",
+    "history": [
+      [
+        "拉丁 seta → setosus",
+        "刚毛 → 具刚毛的"
+      ],
+      [
+        "英语 setose",
+        "表面带刚毛、刺毛的"
+      ]
+    ],
+    "explanation": "植物或动物描述中都可用，重点是有刚毛这一表面特征。与柔软绒毛相比，它通常让人想到较硬、较明显的毛。",
+    "usage": "setose legs；a setose surface；setose margins。",
+    "contrast": "setose 是有刚毛，glabrous 是无毛；两者在分类检索中往往能帮助区分外形。",
+    "examples": [
+      [
+        "The insect has strongly setose legs.",
+        "这种昆虫的腿上长着明显的刚毛。"
+      ],
+      [
+        "The description notes a setose margin on each leaf.",
+        "描述指出每片叶子的边缘都有刚毛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/setose#English",
+      "https://www.merriam-webster.com/dictionary/setose"
+    ]
+  },
+  {
+    "word": "buccal",
+    "ipa": "/ˈbʌkəl/",
+    "meaning": "颊的；口腔的；颊侧的",
+    "sense": "先把视线放到脸颊内侧，再判断牙齿或黏膜靠哪一边。",
+    "split": "拉丁 bucca 脸颊 + 形容词成分 -al；形态上是 bucc- + -al。",
+    "history": [
+      [
+        "拉丁 bucca",
+        "脸颊"
+      ],
+      [
+        "英语 buccal",
+        "颊的；相关口腔结构的"
+      ]
+    ],
+    "explanation": "buccal mucosa 是颊黏膜；牙科的 buccal surface 是牙齿朝向脸颊的一面。某些用法范围较宽，涉及口腔，但不能处处把它当 oral 的完全同义词。",
+    "usage": "buccal mucosa；the buccal surface；a buccal swab。",
+    "contrast": "buccal 是颊侧，lingual 是舌侧；两者定位不同。读音与 buckle 接近，拼写和来源却不同。",
+    "examples": [
+      [
+        "The diagram labels the buccal surface of the tooth.",
+        "示意图标出了牙齿的颊侧面。"
+      ],
+      [
+        "The glossary translates buccal mucosa as the lining of the cheek.",
+        "词汇表把 buccal mucosa 解释为脸颊内侧的黏膜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buccal#English"
+    ]
+  },
+  {
+    "word": "buccolingual",
+    "ipa": "/ˌbʌkəʊˈlɪŋɡwəl/",
+    "meaning": "颊舌的；颊舌向的",
+    "sense": "从牙齿朝脸颊的一面，量到朝舌头的一面。",
+    "split": "bucco- 颊 + lingual 舌的，英语专业复合。",
+    "history": [
+      [
+        "拉丁来源的 bucco-；lingual",
+        "颊；舌的"
+      ],
+      [
+        "牙科英语 buccolingual",
+        "涉及颊侧与舌侧；沿两侧之间方向的"
+      ]
+    ],
+    "explanation": "buccolingual width 常指牙齿颊舌方向的宽度。它是一个定位方向词，不是把“会说两种语言”与脸颊凑在一起。",
+    "usage": "buccolingual width；the buccolingual dimension；buccolingual movement。",
+    "contrast": "lingual 在这里是解剖学的舌，不是语言学习；bilingual 双语的属于另一种现代用法。",
+    "examples": [
+      [
+        "The technician measured the buccolingual width of the model tooth.",
+        "技术人员测量了模型牙齿的颊舌向宽度。"
+      ],
+      [
+        "The arrow indicates the buccolingual direction.",
+        "箭头表示颊舌方向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buccolingual#English"
+    ]
+  },
+  {
+    "word": "sulcus",
+    "ipa": "/ˈsʌlkəs/",
+    "meaning": "沟；沟状凹陷",
+    "sense": "像犁在地面划出一条沟，器官表面也有类似的凹槽。",
+    "split": "直接借自拉丁 sulcus 犁沟、沟槽；解剖和地质领域各自借用。",
+    "history": [
+      [
+        "拉丁 sulcus",
+        "犁沟、沟槽"
+      ],
+      [
+        "科学英语 sulcus",
+        "器官表面或地质表面的沟状结构"
+      ]
+    ],
+    "explanation": "脑表面的 sulcus 是脑沟，两个隆起之间的凹陷。其他组织也可用；复数 sulci 常读 /ˈsʌlsaɪ/，不能按单数机械加一个音节。",
+    "usage": "the central sulcus；a shallow sulcus；sulci and gyri。",
+    "contrast": "sulcus 是沟，gyrus 是回、隆起。两者像山谷与山脊，相邻却不是同一个结构。",
+    "examples": [
+      [
+        "The model shows a deep sulcus between the two folds.",
+        "模型展示了两个褶皱之间的一条深沟。"
+      ],
+      [
+        "The students labelled the major sulci on the diagram.",
+        "学生在图上标出了主要脑沟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sulcus#English"
+    ]
+  },
+  {
+    "word": "hyoid",
+    "ipa": "/ˈhaɪɔɪd/",
+    "meaning": "舌骨；舌骨的；U 形的",
+    "sense": "一块弯成马蹄或字母 U 状的骨。",
+    "split": "经新拉丁、希腊 hyoeidēs 一类形式，按希腊字母 upsilon 的形状命名，后半 -oid 表示像……的。",
+    "history": [
+      [
+        "希腊字母 upsilon 的形状；-oeidēs",
+        "U 形；像……的"
+      ],
+      [
+        "解剖名称 hyoid",
+        "按形状命名的舌骨；相关形容词"
+      ]
+    ],
+    "explanation": "hyoid bone 是舌骨；单独 the hyoid 也可指这块骨。中文名称说位置，英语历史名称说形状，两个命名角度并不相同。",
+    "usage": "the hyoid bone；the hyoid apparatus；hyoid movement。",
+    "contrast": "hyo- 这里不表示舌的普通词根；舌常见 gloss-、lingu-。也不要把 hyoid 与 thyroid 甲状腺的相似词尾当作同一结构。",
+    "examples": [
+      [
+        "The diagram places the hyoid above the larynx.",
+        "示意图将舌骨标在喉的上方。"
+      ],
+      [
+        "The model shows the U-shaped outline of the hyoid bone.",
+        "模型展示了舌骨的 U 形轮廓。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hyoid#English",
+      "https://www.merriam-webster.com/dictionary/hyoid"
+    ]
+  },
+  {
+    "word": "lecithin",
+    "ipa": "/ˈlesɪθɪn/",
+    "meaning": "卵磷脂；商业用卵磷脂混合物",
+    "sense": "蛋黄中的一类磷脂相关物质，名称保留了最初材料的线索。",
+    "split": "借自法语 lécithine，十九世纪以希腊 lekithos 蛋黄命名，-ine 是物质名称成分。",
+    "history": [
+      [
+        "希腊 lekithos",
+        "蛋黄"
+      ],
+      [
+        "法语科学命名 lécithine → 英语 lecithin",
+        "由蛋黄研究命名的卵磷脂"
+      ]
+    ],
+    "explanation": "化学语境可联系磷脂酰胆碱；食品等商业语境也常指含多种磷脂的混合物。名称出自蛋黄，不代表所有市售 lecithin 都由鸡蛋提取。",
+    "usage": "soy lecithin；sunflower lecithin；lecithin as an emulsifier。",
+    "contrast": "lecithin 与 protein 蛋白质不是同一类物质。soy lecithin 的 soy 直接说明原料，不能因名字有“卵”就改译为蛋制品。",
+    "examples": [
+      [
+        "The ingredient list includes soy lecithin.",
+        "配料表包括大豆卵磷脂。"
+      ],
+      [
+        "Lecithin is used as an emulsifier in this recipe.",
+        "这个配方用卵磷脂作乳化剂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lecithin#English",
+      "https://www.merriam-webster.com/dictionary/lecithin"
+    ]
+  },
+  {
+    "word": "hirsute",
+    "ipa": "英 /hɜːˈsjuːt/；美 /hərˈsuːt/",
+    "meaning": "多毛的；长着粗毛的",
+    "sense": "不是一层细薄的绒，而是明显可见的一丛丛毛。",
+    "split": "借自拉丁 hirsutus 多毛、蓬乱的，英语保留为形容词。",
+    "history": [
+      [
+        "拉丁 hirsutus",
+        "多毛、长粗毛的"
+      ],
+      [
+        "英语 hirsute",
+        "多毛的；植物等表面具粗毛的"
+      ]
+    ],
+    "explanation": "可用于人、动物或植物描述。谈人的外貌时语气较书面，有时略带幽默；植物学则是具体表面特征。",
+    "usage": "a hirsute face；hirsute stems；a hirsute appearance。",
+    "contrast": "hairy 是日常词，hirsute 更书面或专业。glabrous 是无毛，方向正相反。",
+    "examples": [
+      [
+        "The guide describes the plant as having hirsute stems.",
+        "指南将这株植物的茎描述为具粗毛。"
+      ],
+      [
+        "The portrait shows a remarkably hirsute man.",
+        "肖像画的是一名毛发十分浓密的男子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hirsute#English"
+    ]
+  },
+  {
+    "word": "hirsutulous",
+    "ipa": "/hərˈsuːtʃələs/",
+    "meaning": "微具粗毛的；有细小或稀疏毛的",
+    "sense": "毛很细小或很稀疏，需要仔细看才明显。",
+    "split": "英语 hirsute 多毛的 + -ulous 带小称意味的形容词成分，形成程度较轻的技术描述。",
+    "history": [
+      [
+        "拉丁 hirsutus → 英语 hirsute",
+        "多毛、长粗毛的"
+      ],
+      [
+        "hirsute + -ulous → hirsutulous",
+        "略具细小或稀疏毛的"
+      ]
+    ],
+    "explanation": "主要见于植物形态描述，表示毛的程度较轻，不宜直接按日常“毛茸茸”渲染得很浓密。不同分类文献的描述尺度也可能不同。",
+    "usage": "hirsutulous leaves；a hirsutulous surface；hirsutulous stems。",
+    "contrast": "hirsutulous 与 hirsute 有程度差别；glabrous 则是无毛，不应拿来表示“毛少但仍有”。",
+    "examples": [
+      [
+        "The young leaves have a hirsutulous surface.",
+        "幼叶表面微具细毛。"
+      ],
+      [
+        "The description distinguishes hirsutulous stems from glabrous ones.",
+        "描述区分了微具毛的茎与无毛的茎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hirsutulous#English",
+      "https://www.merriam-webster.com/dictionary/hirsutulous"
+    ]
+  },
+  {
+    "word": "uvea",
+    "ipa": "英 /ˈjuːviə/；美 /ˈjuːviə/",
+    "meaning": "葡萄膜",
+    "sense": "眼球中间一层带色素、富含血管的组织，名称让人想到葡萄。",
+    "split": "中古拉丁 uvea 葡萄样的，来自拉丁 uva 葡萄；是按外观形成的解剖名称。",
+    "history": [
+      [
+        "拉丁 uva → 中古拉丁 uvea",
+        "葡萄 → 葡萄样的"
+      ],
+      [
+        "英语解剖名 uvea",
+        "包括虹膜、睫状体、脉络膜的葡萄膜"
+      ]
+    ],
+    "explanation": "这是眼球的一层结构名称，不是仅指虹膜，也不是视网膜。词源只解释“葡萄”这一名称，不能据此推断生理功能。",
+    "usage": "the uvea；parts of the uvea；the iris and uvea。",
+    "contrast": "uvea 是葡萄膜这一整体，iris 是其中的虹膜；retina 视网膜是另一层结构。",
+    "examples": [
+      [
+        "The diagram shows the three main parts of the uvea.",
+        "示意图展示了葡萄膜的三个主要部分。"
+      ],
+      [
+        "The glossary distinguishes the uvea from the retina.",
+        "词汇表区分了葡萄膜与视网膜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uvea#English"
+    ]
+  },
+  {
+    "word": "uveitis",
+    "ipa": "/ˌjuːviˈaɪtɪs/",
+    "meaning": "葡萄膜炎",
+    "sense": "把结构名 uvea 加上炎症这个意思。",
+    "split": "uvea 葡萄膜 + -itis 炎症，连接时使用 uve- 一类形式。",
+    "history": [
+      [
+        "医学名词 uvea",
+        "葡萄膜"
+      ],
+      [
+        "uve- + -itis → uveitis",
+        "葡萄膜的炎症名称"
+      ]
+    ],
+    "explanation": "名称说明炎症涉及的结构，不能只凭词尾判断原因或严重程度。读到 anterior、posterior 等限定词时，还要分别理解它们表示的位置。",
+    "usage": "anterior uveitis；posterior uveitis；the term uveitis。",
+    "contrast": "-itis 表示炎症，不等于某一种病原感染。uveitis 与 conjunctivitis 结膜炎涉及的结构不同。",
+    "examples": [
+      [
+        "The glossary explains the difference between uveitis and conjunctivitis.",
+        "词汇表解释了葡萄膜炎与结膜炎的区别。"
+      ],
+      [
+        "The chapter groups uveitis by the part of the eye involved.",
+        "本章按所涉及的眼部部位对葡萄膜炎分类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uveitis#English",
+      "https://www.merriam-webster.com/dictionary/uveitis"
+    ]
+  },
+  {
+    "word": "brome",
+    "ipa": "英 /brəʊm/；美 /broʊm/",
+    "meaning": "雀麦〔禾草〕；溴的旧称〔另源〕",
+    "sense": "草地上有一种禾草，名字经拉丁属名传来。",
+    "split": "禾草义来自新拉丁属名 Bromus，接希腊 bromos 燕麦；旧化学 brome“溴”来自另一个表示臭味的希腊词，经法语传入。",
+    "history": [
+      [
+        "并列的希腊词：bromos；brōmos",
+        "燕麦；臭味"
+      ],
+      [
+        "不同命名：Bromus；法语 brome",
+        "禾草属名；化学元素名"
+      ],
+      [
+        "英语 brome",
+        "雀麦；另有溴的旧称"
+      ]
+    ],
+    "explanation": "普通植物语境的 brome grass 是雀麦类禾草。现代英语元素名通常用 bromine；旧化学书里 brome 的意思要另查，不要把草名解释成臭味草。",
+    "usage": "brome grass；a brome species；a stand of brome。",
+    "contrast": "同形词不一定同源：植物的 brome 联系燕麦词，化学的 brome 联系臭味词。",
+    "examples": [
+      [
+        "Brome grass grew along the edge of the field.",
+        "田边长着雀麦。"
+      ],
+      [
+        "The botanist recorded three brome species in the survey.",
+        "植物学家在调查中记录了三种雀麦属植物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brome#English"
+    ]
+  },
+  {
+    "word": "novena",
+    "ipa": "英 /nəʊˈviːnə/；美 /noʊˈviːnə/",
+    "meaning": "九日敬礼；连续九日的祈祷",
+    "sense": "把祈祷安排成连续九天的一组。",
+    "split": "经教会拉丁 novena，来自拉丁 novenus 每九个、九个一组，远接 novem 九。",
+    "history": [
+      [
+        "拉丁 novem → novenus",
+        "九 → 九个一组的"
+      ],
+      [
+        "教会拉丁 novena → 英语 novena",
+        "连续九日的敬礼或祈祷"
+      ]
+    ],
+    "explanation": "常见于天主教语境，名称强调九日这一安排。它不是一般九天假期，也不等于所有宗教中的固定祈祷形式。",
+    "usage": "a novena；a nine-day novena；begin a novena。",
+    "contrast": "novena 的 nov- 是九这一数词来源；novel、novelty 的新义词根不能据拼写混入。",
+    "examples": [
+      [
+        "The parish began a novena before the feast.",
+        "堂区在瞻礼前开始了九日敬礼。"
+      ],
+      [
+        "The booklet contains prayers for each day of the novena.",
+        "小册子收录了九日敬礼每天的祈祷文。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/novena#English"
+    ]
+  },
+  {
+    "word": "novenary",
+    "ipa": "英 /nəʊˈviːnəri/；美 /ˈnɑːvəneri/",
+    "meaning": "九个一组；九的、由九组成的",
+    "sense": "把物品分组，每组正好九个。",
+    "split": "来自拉丁 novenarius 与九有关的，基于 novem 九及 novenus 每九个。",
+    "history": [
+      [
+        "拉丁 novem；novenus",
+        "九；每九个"
+      ],
+      [
+        "拉丁 novenarius → 英语 novenary",
+        "九个一组；与九有关的"
+      ]
+    ],
+    "explanation": "这是少见的书面数词用语，可作名词或形容词。普通表达通常直接说 a group of nine 或 consisting of nine。",
+    "usage": "a novenary；a novenary arrangement；a novenary group。",
+    "contrast": "novenary 不是 November 的现代缩写。数字构词不能从今天月份序号直接反推所有历史词形。",
+    "examples": [
+      [
+        "The glossary defines a novenary as a group of nine.",
+        "词汇表将 novenary 解释为九个一组。"
+      ],
+      [
+        "The diagram presents a novenary arrangement of symbols.",
+        "示意图把符号排成九个一组的结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/novenary#English",
+      "https://www.merriam-webster.com/dictionary/novenary"
+    ]
+  },
+  {
+    "word": "comity",
+    "ipa": "英 /ˈkɒmɪti/；美 /ˈkɑːməti/",
+    "meaning": "礼让；和睦；相互尊重或承认",
+    "sense": "彼此可能意见不同，但仍愿意保持礼貌和合作。",
+    "split": "经中古英语 comite，来自拉丁 comitas 礼貌、和蔼，关联 comis 和蔼可亲的。不能只拆成现代英语 com- 一起 + -ity。",
+    "history": [
+      [
+        "拉丁 comis → comitas",
+        "和蔼的 → 礼貌、友善"
+      ],
+      [
+        "中古英语 comite → 英语 comity",
+        "礼让、和睦；实体之间的相互尊重"
+      ]
+    ],
+    "explanation": "可说议会讨论中的礼让，也出现在国际或司法语境中，表达不同实体间的尊重、合作或承认。后者的具体规则随语境而定，词本身不等于条约义务。",
+    "usage": "a spirit of comity；political comity；international comity。",
+    "contrast": "comity 说关系和态度，committee 是委员会。两词读音和拼写相近，却不是单复数或同一个词的变形。",
+    "examples": [
+      [
+        "The debate was conducted in a spirit of comity.",
+        "辩论以相互礼让的精神进行。"
+      ],
+      [
+        "The essay discusses comity between different institutions.",
+        "文章讨论了不同机构之间的相互尊重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/comity#English"
+    ]
+  },
+  {
+    "word": "thyratron",
+    "ipa": "英 /ˈθaɪrətrɒn/；美 /ˈθaɪrətrɑːn/",
+    "meaning": "闸流管",
+    "sense": "把电路中的开关想成一道可控制通断的门。",
+    "split": "以希腊 thyra 门 + 仪器名成分 -tron 命名，原为商品名称，后来用于一类充气电子管。",
+    "history": [
+      [
+        "希腊 thyra；仪器命名 -tron",
+        "门；装置"
+      ],
+      [
+        "技术名称 thyratron",
+        "用“门”的画面命名受控通断器件"
+      ],
+      [
+        "英语 thyratron",
+        "闸流管"
+      ]
+    ],
+    "explanation": "常见于电子设备历史或专门电路材料，核心是一类可控气体放电管。不要把它直接等同于现代任何半导体开关。",
+    "usage": "a thyratron switch；a thyratron circuit；a gas-filled thyratron。",
+    "contrast": "thyratron 是电子器件；thyroid 甲状腺也有形状命名史，但两者不是一种结构，更不是彼此派生。",
+    "examples": [
+      [
+        "The old circuit used a thyratron as a switch.",
+        "旧电路用闸流管作开关。"
+      ],
+      [
+        "The manual includes a diagram of the thyratron circuit.",
+        "手册包括一张闸流管电路图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thyratron#English"
+    ]
+  },
+  {
+    "word": "hymen",
+    "ipa": "/ˈhaɪmən/",
+    "meaning": "处女膜〔阴道口周围的黏膜组织〕",
+    "sense": "阴道口周围的一圈或一部分黏膜组织，不必想成完全封住的薄盖。",
+    "split": "经法语、后期拉丁 hymen，来自希腊 hymēn 膜、薄皮。",
+    "history": [
+      [
+        "希腊 hymēn",
+        "薄皮、膜"
+      ],
+      [
+        "后期拉丁及法语 hymen → 英语 hymen",
+        "特定部位的黏膜组织名称"
+      ]
+    ],
+    "explanation": "中文传统名称容易带来误解：它是解剖结构，其形态不能可靠判断一个人是否有过性行为。大写 Hymen 还可指婚姻神，不能只按同拼写推导两者的全部历史。",
+    "usage": "the hymen；hymenal tissue；the shape of the hymen。",
+    "contrast": "本页的膜是组织名称，不是一层人人完全相同的密封片；也不是英语 hymn 赞美诗。",
+    "examples": [
+      [
+        "The anatomy diagram labels the hymen at the vaginal opening.",
+        "解剖图在阴道口处标出了处女膜。"
+      ],
+      [
+        "The textbook discusses variation in the shape of the hymen.",
+        "教材讨论了处女膜形态的差异。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/hymen",
+      "https://en.wiktionary.org/wiki/hymen"
+    ]
+  },
+  {
+    "word": "hymenium",
+    "ipa": "/haɪˈmiːniəm/",
+    "meaning": "子实层；真菌的产孢层",
+    "sense": "在真菌子实体表面找一层真正产生孢子的细胞。",
+    "split": "新拉丁技术词，基于希腊 hymēn 膜，加 -ium 命名成分。",
+    "history": [
+      [
+        "希腊 hymēn",
+        "膜、薄层"
+      ],
+      [
+        "新拉丁 hymenium → 英语 hymenium",
+        "真菌中产生孢子的细胞层"
+      ]
+    ],
+    "explanation": "蘑菇的菌褶等结构可承载子实层；hymenium 是那层组织，不是整个蘑菇。复数 hymenia，也见 hymeniums。",
+    "usage": "the hymenium；a spore-bearing hymenium；hymenia〔复数〕。",
+    "contrast": "hymenium 是产孢的层，hymenophore 是承载它的部分，层与支撑结构不能混成一个。",
+    "examples": [
+      [
+        "The microscope revealed the cells of the hymenium.",
+        "显微镜显示出子实层的细胞。"
+      ],
+      [
+        "The diagram marks the hymenium on the surface of the gill.",
+        "示意图在菌褶表面标出了子实层。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/hymenium",
+      "https://en.wiktionary.org/wiki/hymenium"
+    ]
+  },
+  {
+    "word": "hymenophore",
+    "ipa": "/ˈhaɪmənəfɔːr/",
+    "meaning": "子实层托；承载子实层的部分",
+    "sense": "把菌褶或孔状面看成托住产孢细胞层的架子。",
+    "split": "来自新拉丁 hymenophorum，hymeno- 在此联系 hymenium 子实层，后半 -phore 表示承载。",
+    "history": [
+      [
+        "新拉丁 hymenium；-phorum",
+        "子实层；承载的部分"
+      ],
+      [
+        "英语 hymenophore",
+        "承载子实层的结构"
+      ]
+    ],
+    "explanation": "不同真菌可有菌褶、孔、齿等不同形式的子实层托。hymenophore 的外形与表面的 hymenium 要分层理解。",
+    "usage": "a gilled hymenophore；a poroid hymenophore；the surface of the hymenophore。",
+    "contrast": "-phore 是承载，-phobe 是害怕或排斥；一个字母相近不能当作同一词尾。",
+    "examples": [
+      [
+        "The specimen has a poroid hymenophore.",
+        "这份标本具有孔状子实层托。"
+      ],
+      [
+        "The hymenium covers the exposed surface of the hymenophore.",
+        "子实层覆盖在子实层托的外露表面。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/hymenophore",
+      "https://en.wiktionary.org/wiki/hymenophore"
+    ]
+  },
+  {
+    "word": "hymenomycete",
+    "ipa": "/ˌhaɪmənəʊˈmaɪsiːt/",
+    "meaning": "伞菌类真菌〔传统分类名称〕",
+    "sense": "一类真菌的产孢表面在发育中暴露出来，旧分类以此作划分。",
+    "split": "hymeno- 膜、子实层 + mycete 真菌，联系历史类群名 Hymenomycetes。",
+    "history": [
+      [
+        "希腊 hymēn；mykēs",
+        "膜；真菌"
+      ],
+      [
+        "旧类群名 Hymenomycetes",
+        "依据子实层发育等特征划分"
+      ],
+      [
+        "英语 hymenomycete",
+        "传统类群中的一个成员"
+      ]
+    ],
+    "explanation": "常见于历史或分类学材料，不能把旧类群直接当作现代所有真菌分类的统一等级。这个成员名也不只凭日常“像一把伞”来判断。",
+    "usage": "a hymenomycete；hymenomycete classification；a hymenomycete specimen。",
+    "contrast": "hymenomycete 是生物成员名，hymenium 是组织层。分类名称的历史与现代范围要分别说明。",
+    "examples": [
+      [
+        "The older key identifies the specimen as a hymenomycete.",
+        "旧检索表将标本归入传统的伞菌类。"
+      ],
+      [
+        "The curator explained the historical use of hymenomycete.",
+        "馆员解释了 hymenomycete 的历史用法。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/hymenomycete",
+      "https://en.wiktionary.org/wiki/hymenomycete"
+    ]
+  },
+  {
+    "word": "hymenoplasty",
+    "ipa": "/ˈhaɪmənəʊˌplæsti/",
+    "meaning": "处女膜成形术",
+    "sense": "先认出组织名称，再用词尾说明这是成形或重建的术式名。",
+    "split": "hymen + -o- + -plasty，-o- 为连接元音，-plasty 为成形修复。",
+    "history": [
+      [
+        "医学 hymen；-plasty",
+        "处女膜；成形修复"
+      ],
+      [
+        "hymen-o-plasty → hymenoplasty",
+        "相关组织的成形手术名称"
+      ]
+    ],
+    "explanation": "这是医学名称的构词解释。名称中的重建不意味着能够重建或证明某种性经历；组织外观与性经历不能简单对应。",
+    "usage": "the term hymenoplasty；a discussion of hymenoplasty；hymenoplasty terminology。",
+    "contrast": "-plasty 说成形修复，-tomy 说切开。不能看到相同组织名就把不同术式译成同一个中文名称。",
+    "examples": [
+      [
+        "The glossary distinguishes hymenoplasty from hymenotomy.",
+        "词汇表区分了处女膜成形术与处女膜切开术。"
+      ],
+      [
+        "The translator checked the suffix in hymenoplasty.",
+        "译者核对了 hymenoplasty 中的词尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hymenoplasty#English"
+    ]
+  },
+  {
+    "word": "hymenorrhaphy",
+    "ipa": "/ˌhaɪməˈnɒrəfi/",
+    "meaning": "处女膜缝合术",
+    "sense": "名称用“缝合”限定对该组织所做的处理。",
+    "split": "hymen + -o- + -rrhaphy 缝合，后半联系希腊 rhaphē 缝、缝合。",
+    "history": [
+      [
+        "医学 hymen；希腊来源 -rrhaphy",
+        "处女膜；缝合"
+      ],
+      [
+        "hymen-o-rrhaphy → hymenorrhaphy",
+        "相关组织的缝合术名称"
+      ]
+    ],
+    "explanation": "这是较少见的技术名称，强调缝合；有时在讨论重建时与 hymenoplasty 相邻出现，但范围和命名角度不同。它也不能作为性经历的证明。",
+    "usage": "the term hymenorrhaphy；hymenorrhaphy in a glossary；a definition of hymenorrhaphy。",
+    "contrast": "-rrhaphy 是缝合，-rrhea 是流出；形近词尾表示不同动作。",
+    "examples": [
+      [
+        "The dictionary defines hymenorrhaphy as a suturing procedure.",
+        "词典将 hymenorrhaphy 解释为一种缝合术。"
+      ],
+      [
+        "The exercise contrasts the endings of hymenorrhaphy and hymenotomy.",
+        "练习比较了 hymenorrhaphy 与 hymenotomy 的词尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hymenorrhaphy#English"
+    ]
+  },
+  {
+    "word": "hymenotomy",
+    "ipa": "/ˌhaɪməˈnɒtəmi/",
+    "meaning": "处女膜切开术",
+    "sense": "结构名之后接上切开的动作，组成一个术式名称。",
+    "split": "hymen + -otomy 切开，后半联系希腊表示切割的构词材料。",
+    "history": [
+      [
+        "医学 hymen；-otomy",
+        "处女膜；切开"
+      ],
+      [
+        "英语 hymenotomy",
+        "该组织的切开术名称"
+      ]
+    ],
+    "explanation": "词尾说明切开，不能自动推断为完全切除。遇到具体医学描述，应由正文确认操作范围，而不是把中文名称当作完整过程。",
+    "usage": "the term hymenotomy；a description of hymenotomy；hymenotomy and hymenoplasty。",
+    "contrast": "-tomy 切开，-ectomy 切除；两者只差几个字母，含义却不同。",
+    "examples": [
+      [
+        "The terminology chart lists hymenotomy under incision procedures.",
+        "术语表把处女膜切开术列在切开类术式中。"
+      ],
+      [
+        "The student identified the cutting suffix in hymenotomy.",
+        "学生辨认出了 hymenotomy 中表示切开的词尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hymenotomy#English"
+    ]
+  },
+  {
+    "word": "porphyry",
+    "ipa": "英 /ˈpɔːfəri/；美 /ˈpɔːrfəri/",
+    "meaning": "斑岩",
+    "sense": "细密的岩石底子里嵌着较大的晶体，早期著名的品种呈紫红色。",
+    "split": "经法语及拉丁传统，接希腊 porphyritēs lithos 紫色的石头，远接 porphyra 紫色、紫染料。",
+    "history": [
+      [
+        "希腊 porphyra → porphyritēs lithos",
+        "紫色 → 紫色石头"
+      ],
+      [
+        "法语 porfire 等 → 英语 porphyry",
+        "斑岩；后来也按斑状结构扩展名称"
+      ]
+    ],
+    "explanation": "今天说 porphyry 不要求每块岩石都是紫色，重点往往是大晶体嵌在较细基质中的结构。词源解释早期命名，不能取代现代岩石分类。",
+    "usage": "red porphyry；a porphyry intrusion；a porphyry sample。",
+    "contrast": "porphyry 是岩石名称，porphyritic 是描述斑状结构的形容词；granite 是另一种岩石名称，不能只按是否有花纹替换。",
+    "examples": [
+      [
+        "The column was carved from red porphyry.",
+        "这根柱子由红色斑岩雕成。"
+      ],
+      [
+        "The geologist examined a porphyry sample containing large crystals.",
+        "地质学家检查了一份含大晶体的斑岩样本。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/porphyry",
+      "https://en.wiktionary.org/wiki/porphyry"
+    ]
+  },
+  {
+    "word": "porphyritic",
+    "ipa": "英 /ˌpɔːfəˈrɪtɪk/；美 /ˌpɔːrfəˈrɪtɪk/",
+    "meaning": "斑岩的；斑状的",
+    "sense": "大晶体像一块块明显的斑点，嵌在更细的岩石基底里。",
+    "split": "英语经中古拉丁 porphyriticus，接希腊 porphyritikos，关联紫色石头的名称；不只是在现代 porphyry 后直接加 -tic。",
+    "history": [
+      [
+        "希腊 porphyritēs → porphyritikos",
+        "斑岩 → 与之有关的"
+      ],
+      [
+        "中古拉丁 porphyriticus → 英语 porphyritic",
+        "斑岩的；具有斑状结构的"
+      ]
+    ],
+    "explanation": "porphyritic texture 说大晶体与细基质的对比。形容词后来按结构使用，不要求颜色必须紫红。",
+    "usage": "porphyritic texture；porphyritic rock；porphyritic granite。",
+    "contrast": "purple 只是颜色，porphyritic 是岩石结构描述。看到词根的紫色线索，仍须按现代专业义翻译。",
+    "examples": [
+      [
+        "The rock has a clearly porphyritic texture.",
+        "这块岩石具有清楚的斑状结构。"
+      ],
+      [
+        "Large crystals make the porphyritic structure easy to recognize.",
+        "较大的晶体让斑状结构容易辨认。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/porphyritic",
+      "https://en.wiktionary.org/wiki/porphyritic"
+    ]
+  },
+  {
+    "word": "porphyrin",
+    "ipa": "英 /ˈpɔːfɪrɪn/；美 /ˈpɔːrfərɪn/",
+    "meaning": "卟啉",
+    "sense": "一类环状分子骨架，中心位置可与金属结合。",
+    "split": "借自德语 Porphyrin，联系 Hämatoporphyrin 的缩短名称，远接希腊 porphyra 紫色。",
+    "history": [
+      [
+        "希腊 porphyra",
+        "紫色"
+      ],
+      [
+        "科学名称 Hämatoporphyrin → Porphyrin",
+        "相关化合物名称及缩短形式"
+      ],
+      [
+        "英语 porphyrin",
+        "卟啉这一类化合物"
+      ]
+    ],
+    "explanation": "它是化学类名，不是单一颜料的商标。血红素等物质涉及金属与卟啉骨架的组合；命名有颜色线索，但不能靠颜色识别所有相关分子。",
+    "usage": "a porphyrin ring；porphyrin chemistry；a metal porphyrin。",
+    "contrast": "porphyry 是岩石，porphyrin 是化合物类别；两者共享紫色命名材料，不是岩石在英语里派生出了化学物质。",
+    "examples": [
+      [
+        "The diagram shows a metal ion at the centre of the porphyrin ring.",
+        "示意图显示卟啉环中心的金属离子。"
+      ],
+      [
+        "The course introduces the chemistry of porphyrins.",
+        "课程介绍卟啉类化合物的化学。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/porphyrin#English"
+    ]
+  },
+  {
+    "word": "porphyrophobia",
+    "ipa": "英 /ˌpɔːfɪrəˈfəʊbiə/；美 /ˌpɔːrfərəˈfoʊbiə/",
+    "meaning": "紫色恐惧〔少见术语〕",
+    "sense": "少见的术语，把害怕的对象直接写成紫色。",
+    "split": "porphyro- 紫色 + -phobia 恐惧，古典成分组合。",
+    "history": [
+      [
+        "希腊 porphyra；phobos",
+        "紫色；恐惧"
+      ],
+      [
+        "英语 porphyrophobia",
+        "针对紫色的恐惧这一术语名称"
+      ]
+    ],
+    "explanation": "常见于专门词汇表或恐惧对象的列举，日常表达通常说 a fear of purple。词表收录一个名称，不意味着凭“不喜欢紫色”就能作临床判断。",
+    "usage": "the term porphyrophobia；a fear of purple；porphyrophobia in a glossary。",
+    "contrast": "dislike 是不喜欢，phobia 一类名称涉及恐惧；不能把普通颜色偏好都升级成这个术语。",
+    "examples": [
+      [
+        "The glossary lists porphyrophobia as a fear of purple.",
+        "词汇表将 porphyrophobia 列为对紫色的恐惧。"
+      ],
+      [
+        "The writer explains porphyrophobia in plain language.",
+        "作者用浅显的语言解释了紫色恐惧这个名称。"
+      ]
+    ],
+    "sources": [
+      "https://www.ncbi.nlm.nih.gov/medgen/1796030",
+      "https://en.wiktionary.org/wiki/porphyrophobia"
+    ]
+  },
+  {
+    "word": "streptococcus",
+    "ipa": "英 /ˌstreptəˈkɒkəs/；美 /ˌstreptəˈkɑːkəs/",
+    "meaning": "链球菌",
+    "sense": "一颗颗球形细胞排成链，而不是团成葡萄串。",
+    "split": "联系分类名 Streptococcus，strepto- 扭转、链状 + -coccus 球状细菌。",
+    "history": [
+      [
+        "希腊 streptos；kokkos",
+        "扭转、可弯的；粒"
+      ],
+      [
+        "分类名 Streptococcus → 英语 streptococcus",
+        "以链状排列命名的球菌"
+      ]
+    ],
+    "explanation": "单数 streptococcus，复数 streptococci。链状是名称画面，具体属、种与样本性质不能只由这个词根推断。",
+    "usage": "a streptococcus；streptococci；a chain of streptococci。",
+    "contrast": "staphylococcus 的名称强调葡萄串般的团簇，streptococcus 强调链状；二者不是同一种菌的两种拼法。",
+    "examples": [
+      [
+        "The image shows streptococci arranged in a chain.",
+        "图像显示链状排列的链球菌。"
+      ],
+      [
+        "The glossary contrasts streptococcus with staphylococcus.",
+        "词汇表比较了链球菌与葡萄球菌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/streptococcus#English"
+    ]
+  },
+  {
+    "word": "strepsirrhine",
+    "ipa": "/ˈstrepsɪraɪn/",
+    "meaning": "湿鼻类灵长动物；湿鼻类的",
+    "sense": "狐猴等灵长动物的分类名称，历史命名留意鼻孔的弯曲外形。",
+    "split": "来自类群名 Strepsirrhini，希腊 strepsis 转曲 + rhin- 鼻；英语成员名称为 strepsirrhine。",
+    "history": [
+      [
+        "希腊 strepsis；rhin-",
+        "转曲；鼻"
+      ],
+      [
+        "分类名 Strepsirrhini",
+        "按鼻部特征命名的灵长类群"
+      ],
+      [
+        "英语 strepsirrhine",
+        "湿鼻类成员；与之相关的"
+      ]
+    ],
+    "explanation": "常指狐猴、懒猴等所属的一支灵长类。名称的古典字面含义与现代分类依据不能完全画等号，也不是所有鼻子湿的动物都属于这个类群。",
+    "usage": "a strepsirrhine primate；strepsirrhine diversity；a strepsirrhine skull。",
+    "contrast": "strepsirrhine 与 haplorhine 是分类对比名；“湿鼻”“简鼻”这类中文标签要放回灵长类系统中理解。",
+    "examples": [
+      [
+        "The exhibit includes a model of a strepsirrhine skull.",
+        "展览包括一个湿鼻类灵长动物头骨模型。"
+      ],
+      [
+        "The course compares strepsirrhine and haplorhine primates.",
+        "课程比较湿鼻类与简鼻类灵长动物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strepsirrhine#English"
+    ]
+  },
+  {
+    "word": "serous",
+    "ipa": "英 /ˈsɪərəs/；美 /ˈsɪrəs/",
+    "meaning": "浆液的；浆液性的",
+    "sense": "较清、较稀的液体，与黏稠脓液的画面不同。",
+    "split": "经法语 séreux，来自拉丁 serosus，基于 serum 乳清、液体部分。",
+    "history": [
+      [
+        "拉丁 serum → serosus",
+        "乳清、液体部分 → 浆液样的"
+      ],
+      [
+        "法语 séreux → 英语 serous",
+        "浆液的；与浆膜有关的"
+      ]
+    ],
+    "explanation": "serous fluid 是浆液，serous membrane 是浆膜。这个形容词描述液体性质或结构关系，不能单凭“清亮”推断是否正常。",
+    "usage": "serous fluid；a serous membrane；a serous cavity。",
+    "contrast": "serous 是浆液性的，serious 是严肃、严重的；两者只差一个字母，读音和来源都不同。",
+    "examples": [
+      [
+        "The diagram shows the two layers of a serous membrane.",
+        "示意图展示了浆膜的两层。"
+      ],
+      [
+        "The glossary distinguishes serous fluid from mucus.",
+        "词汇表区分了浆液与黏液。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serous#English"
+    ]
+  },
+  {
+    "word": "serosa",
+    "ipa": "英 /sɪˈrəʊsə/；美 /sɪˈroʊsə/",
+    "meaning": "浆膜",
+    "sense": "覆盖某些器官表面的光滑薄层，与邻近结构之间有少量液体。",
+    "split": "新拉丁 tunica serosa 浆液性的膜，省略前面的名词后用 serosa 表示浆膜。",
+    "history": [
+      [
+        "拉丁 serum；serosus",
+        "乳清、液体部分；浆液性的"
+      ],
+      [
+        "新拉丁 tunica serosa",
+        "浆液性的膜"
+      ],
+      [
+        "英语 serosa",
+        "浆膜"
+      ]
+    ],
+    "explanation": "serosa 是结构名，serous 是形容词。解剖材料中还会与 mucosa 黏膜、adventitia 外膜等对照，不能只按“都是一层膜”互换。",
+    "usage": "the serosa；a serosal layer；the intestinal serosa。",
+    "contrast": "serosa 浆膜与 mucosa 黏膜的结构、位置不同；英文名词和中文译名都应配合器官语境。",
+    "examples": [
+      [
+        "The outer layer is labelled serosa in the diagram.",
+        "示意图把外层标为浆膜。"
+      ],
+      [
+        "The chapter compares the serosa with the mucosa.",
+        "本章比较了浆膜与黏膜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serosa#English"
+    ]
+  },
+  {
+    "word": "subserous",
+    "ipa": "英 /ˌsʌbˈsɪərəs/；美 /ˌsʌbˈsɪrəs/",
+    "meaning": "浆膜下的；略呈浆液状的〔少见〕",
+    "sense": "位于一层浆膜下面，而不是膜的表面。",
+    "split": "sub- 在下 + serous 浆膜相关的；较少见用法里 sub- 也可表示程度稍低。",
+    "history": [
+      [
+        "英语 serous",
+        "浆液或浆膜相关的"
+      ],
+      [
+        "sub- + serous → subserous",
+        "浆膜下的；另有略呈浆液状的用法"
+      ]
+    ],
+    "explanation": "解剖中通常定位浆膜下的组织；若词典另列“略浆液状”，则是 sub- 程度义，不能在同一句里强行兼用两种解释。",
+    "usage": "subserous tissue；a subserous layer；a subserous location。",
+    "contrast": "subserous 是浆膜下，submucous 是黏膜下；所参照的膜不同。也常见 subserosal 这一形式。",
+    "examples": [
+      [
+        "The label points to the subserous tissue.",
+        "标注指向浆膜下组织。"
+      ],
+      [
+        "The description places the structure in a subserous layer.",
+        "描述将该结构定位在浆膜下层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subserous#English"
+    ]
+  },
+  {
+    "word": "serac",
+    "ipa": "/səˈræk/；亦读 /seˈræk/",
+    "meaning": "冰塔；冰川裂隙之间的陡峭冰块",
+    "sense": "冰川被裂隙切开，留下耸立、棱角分明的冰块。",
+    "split": "借自瑞士法语 sérac，原与一种乳清奶酪的名称相连，因形状相似用于冰塔；更早联系拉丁 serum 乳清。",
+    "history": [
+      [
+        "拉丁 serum → 地区罗曼语相关奶酪名称",
+        "乳清 → 乳制品名"
+      ],
+      [
+        "瑞士法语 sérac",
+        "奶酪；以外形相似称冰塔"
+      ],
+      [
+        "英语 serac",
+        "冰川裂隙间的冰塔"
+      ]
+    ],
+    "explanation": "现代登山或冰川描述通常指冰塔。名称里有乳清的远源，不代表冰块含有奶，也不必把一般冰柱都叫 serac。",
+    "usage": "a towering serac；a field of seracs；serac collapse。",
+    "contrast": "icicle 是挂着的冰柱，serac 是冰川裂隙分割出的较大冰体；形成背景和尺度不同。",
+    "examples": [
+      [
+        "A tall serac rose above the glacier.",
+        "一座高冰塔耸立在冰川上。"
+      ],
+      [
+        "The photograph shows several seracs separated by deep crevasses.",
+        "照片展示了被深冰隙分隔的几座冰塔。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/serac",
+      "https://en.wiktionary.org/wiki/serac"
+    ]
+  },
+  {
+    "word": "sputum",
+    "ipa": "/ˈspjuːtəm/",
+    "meaning": "痰；从呼吸道咳出的分泌物",
+    "sense": "咳出来、再从口中吐出的呼吸道分泌物。",
+    "split": "新拉丁沿用拉丁 sputum 吐出之物，来自 spuere 吐。",
+    "history": [
+      [
+        "拉丁 spuere → sputum",
+        "吐 → 吐出之物"
+      ],
+      [
+        "医学英语 sputum",
+        "咳出的呼吸道分泌物、痰"
+      ]
+    ],
+    "explanation": "sputum sample 是痰标本。它可能混有唾液，但词义不等于普通 saliva；读到取样或化验名称时，必须分清所指材料。",
+    "usage": "a sputum sample；sputum production；a sputum specimen。",
+    "contrast": "saliva 是唾液，sputum 侧重咳出的呼吸道分泌物。不能仅凭它们都从口出来就互译。",
+    "examples": [
+      [
+        "The laboratory labelled the container as a sputum sample.",
+        "实验室将容器标为痰标本。"
+      ],
+      [
+        "The glossary distinguishes sputum from saliva.",
+        "词汇表区分了痰与唾液。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sputum#English"
+    ]
+  },
+  {
+    "word": "exspuition",
+    "ipa": "/ˌekspjuˈɪʃən/",
+    "meaning": "吐出；吐唾〔罕用〕",
+    "sense": "把口中的东西向外吐出的动作。",
+    "split": "借自拉丁 exspuitio，联系 exspuere，ex- 向外 + spuere 吐；保留较明显的拉丁词形。",
+    "history": [
+      [
+        "拉丁 ex- + spuere → exspuere",
+        "向外吐"
+      ],
+      [
+        "拉丁 exspuitio → 英语 exspuition",
+        "吐出的动作名称"
+      ]
+    ],
+    "explanation": "现代普通交流直接说 spitting。exspuition 主要在旧词典或历史技术文本出现，不适合为了显得正式而替换所有 spit。",
+    "usage": "the act of exspuition；exspuition in an old text；spitting。",
+    "contrast": "exspuition 是动作名，sputum 是吐出物之一；动作与材料不能混成同一词性、同一所指。",
+    "examples": [
+      [
+        "The old glossary defines exspuition as the act of spitting.",
+        "旧词汇表将 exspuition 解释为吐出的动作。"
+      ],
+      [
+        "The editor replaced the rare word exspuition with spitting.",
+        "编辑把罕见的 exspuition 换成了 spitting。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exspuition#English"
+    ]
+  },
+  {
+    "word": "fellatio",
+    "ipa": "英 /fəˈleɪʃiəʊ/；美 /fəˈleɪʃioʊ/",
+    "meaning": "口交〔对阴茎的口部性刺激〕",
+    "sense": "医学、性健康或正式文本中，一个限定具体行为的名称。",
+    "split": "学术借自拉丁 fellatio，来自 fellare 吮吸的动作名词；不由英语 fall 或 fell 生成。",
+    "history": [
+      [
+        "拉丁 fellare → fellatio",
+        "吮吸 → 对应动作名称"
+      ],
+      [
+        "英语 fellatio",
+        "特定口部性行为的正式用语"
+      ]
+    ],
+    "explanation": "它的范围比 oral sex 更窄，后者是口部性行为的总称。这个词语域较正式，词源只用于解释名称，不承载对个人行为的道德判断。",
+    "usage": "the term fellatio；fellatio and oral sex；a definition of fellatio。",
+    "contrast": "fellatio 不等于口交总称 oral sex；也不是 fellow 伙伴或 fall 跌落的派生词。",
+    "examples": [
+      [
+        "The health glossary defines fellatio in neutral language.",
+        "性健康词汇表用中性语言解释了 fellatio。"
+      ],
+      [
+        "The glossary lists fellatio as one form of oral sex.",
+        "词汇表将 fellatio 列为口部性行为的一种。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fellatio#English"
+    ]
+  },
+  {
+    "word": "labial",
+    "ipa": "/ˈleɪbiəl/",
+    "meaning": "唇的；唇音的；唇状结构的",
+    "sense": "两片嘴唇参与发音；植物和动物结构也可能借用嘴唇的外形。",
+    "split": "拉丁 labium 唇及相关形容词形式进入英语；词干 labi-，-al 表示与之有关。",
+    "history": [
+      [
+        "拉丁 labium；labialis",
+        "唇；唇的"
+      ],
+      [
+        "英语 labial",
+        "唇的；涉及唇发音的；唇状结构的"
+      ]
+    ],
+    "explanation": "语言学里的 labial consonant 是涉及嘴唇的辅音总称；牙科的 labial surface 常指朝嘴唇的一面，和朝脸颊的 buccal surface 要按部位区分。",
+    "usage": "a labial consonant；the labial surface；labial movement。",
+    "contrast": "labial 范围比 bilabial 宽：后者特别强调双唇共同参与。lingual 则联系舌。",
+    "examples": [
+      [
+        "The lesson introduces several labial consonants.",
+        "课程介绍了几个唇音。"
+      ],
+      [
+        "The arrow points to the labial surface of the tooth.",
+        "箭头指向牙齿的唇侧面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/labial#English"
+    ]
+  },
+  {
+    "word": "bilabial",
+    "ipa": "/baɪˈleɪbiəl/",
+    "meaning": "双唇音；双唇的",
+    "sense": "上下嘴唇合拢，再释放或让气流通过鼻腔。",
+    "split": "bi- 二、双 + labial 唇的，英语构成的语音术语。",
+    "history": [
+      [
+        "英语 labial",
+        "唇的、唇音的"
+      ],
+      [
+        "bi- + labial → bilabial",
+        "涉及双唇的；双唇音"
+      ]
+    ],
+    "explanation": "英语 /p/、/b/、/m/ 是常见双唇辅音。a bilabial 可直接作名词表示一个双唇音；不是只要嘴唇动一下就都算双唇音。",
+    "usage": "a bilabial stop；a bilabial nasal；bilabial consonants。",
+    "contrast": "bilabial 用上下唇，labiodental 用唇和牙，例如 /f/、/v/；发音部位不同。",
+    "examples": [
+      [
+        "The sound /m/ is a bilabial nasal.",
+        "/m/ 是双唇鼻音。"
+      ],
+      [
+        "The students compared bilabial and labiodental consonants.",
+        "学生比较了双唇音与唇齿音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bilabial#English"
+    ]
+  },
+  {
+    "word": "labium",
+    "ipa": "/ˈleɪbiəm/",
+    "meaning": "唇状结构；阴唇；昆虫下唇",
+    "sense": "把一个边缘褶皱或成对结构看成嘴唇样的部分。",
+    "split": "学术借自拉丁 labium 唇，按形似用于不同解剖或植物结构。",
+    "history": [
+      [
+        "拉丁 labium",
+        "唇"
+      ],
+      [
+        "技术英语 labium",
+        "某个唇状结构；各学科的具体名称"
+      ]
+    ],
+    "explanation": "人体语境常见复数 labia，涉及外阴的褶皱；昆虫学中的 labium 常指下唇。复数不是单数 labium 的英文一般加 s 形式。",
+    "usage": "the insect labium；labia〔复数〕；a liplike labium。",
+    "contrast": "同一拉丁名称在不同对象上有不同所指；不能把昆虫图中的 labium 按人体部位翻译。",
+    "examples": [
+      [
+        "The diagram labels the labium among the insect mouthparts.",
+        "示意图在昆虫口器中标出了下唇。"
+      ],
+      [
+        "The glossary gives labia as the plural of labium.",
+        "词汇表列出 labia 是 labium 的复数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/labium#English"
+    ]
+  },
+  {
+    "word": "labiate",
+    "ipa": "/ˈleɪbiət/",
+    "meaning": "唇形的；具有唇状部分的",
+    "sense": "一朵花的花冠像张开的嘴，上下各有一片唇形部分。",
+    "split": "联系新拉丁 labiatus 具唇的，基于 labium 唇；英语用作植物形态等描述。",
+    "history": [
+      [
+        "拉丁 labium → 新拉丁 labiatus",
+        "唇 → 具唇的"
+      ],
+      [
+        "英语 labiate",
+        "唇形的；具唇状结构的"
+      ]
+    ],
+    "explanation": "常说 labiate flowers 或 labiate corolla。它描述形态，也可出现在旧植物分类的相关名称中；具体类群不能只靠像嘴这一点认定。",
+    "usage": "a labiate corolla；labiate flowers；a labiate form。",
+    "contrast": "labial 常说与唇有关，labiate 常说外形具有唇状部分；植物学语境尤其要分清。",
+    "examples": [
+      [
+        "The flower has a distinctly labiate corolla.",
+        "这朵花具有明显的唇形花冠。"
+      ],
+      [
+        "The guide illustrates several labiate flowers.",
+        "指南画出了几种唇形花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/labiate#English",
+      "https://www.merriam-webster.com/dictionary/labiate"
+    ]
+  },
+  {
+    "word": "bilabiate",
+    "ipa": "/baɪˈleɪbiət/",
+    "meaning": "二唇形的；具有两唇的",
+    "sense": "花冠分出上唇和下唇，看得出两个部分。",
+    "split": "bi- 二 + labiate 具唇的，形态学复合。",
+    "history": [
+      [
+        "英语 labiate",
+        "具唇状部分的"
+      ],
+      [
+        "bi- + labiate → bilabiate",
+        "具有两个唇状部分的"
+      ]
+    ],
+    "explanation": "植物描述中的 bilabiate corolla 强调二唇分化。它和语音学 bilabial 都有双唇线索，但一个描述花或其他结构，一个描述发音。",
+    "usage": "a bilabiate corolla；bilabiate flowers；a bilabiate opening。",
+    "contrast": "bilabiate 不是 bilabial 的另一种随意拼写。-ate 与 -al 在这些固定术语中的领域不同。",
+    "examples": [
+      [
+        "The sage flower has a bilabiate corolla.",
+        "鼠尾草的花具有二唇形花冠。"
+      ],
+      [
+        "The drawing separates the two parts of the bilabiate flower.",
+        "图中区分了二唇形花的两个部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bilabiate#English"
+    ]
+  },
+  {
+    "word": "infralabial",
+    "ipa": "/ˌɪnfrəˈleɪbiəl/",
+    "meaning": "下唇下方的；下唇鳞的",
+    "sense": "沿爬行动物下唇附近找一排鳞片。",
+    "split": "infra- 在下 + labial 唇的，专业定位形容词，也可名词化。",
+    "history": [
+      [
+        "拉丁来源 infra-；labial",
+        "在下；唇的"
+      ],
+      [
+        "英语 infralabial",
+        "位于下唇处或其下方；相关唇鳞"
+      ]
+    ],
+    "explanation": "爬行动物描述常用 infralabial scales 下唇鳞，并通过数量、排列作形态记录；不是指位于整个动物身体下面的所有鳞。",
+    "usage": "infralabial scales；the infralabial row；count the infralabials。",
+    "contrast": "infra- 在下，supra- 在上；infralabial 与 supralabial 对照的是嘴唇位置。",
+    "examples": [
+      [
+        "The description records eight infralabial scales on each side.",
+        "描述记录了每侧八枚下唇鳞。"
+      ],
+      [
+        "The photograph clearly shows the infralabial row.",
+        "照片清楚显示了下唇鳞列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/infralabial#English"
+    ]
+  },
+  {
+    "word": "sublabial",
+    "ipa": "/ˌsʌbˈleɪbiəl/",
+    "meaning": "唇下的；唇下方的",
+    "sense": "以嘴唇为参照，定位它下面的组织或区域。",
+    "split": "sub- 在下 + labial 唇的，专业定位词。",
+    "history": [
+      [
+        "英语 labial",
+        "唇的"
+      ],
+      [
+        "sub- + labial → sublabial",
+        "位于唇下的"
+      ]
+    ],
+    "explanation": "这个词只给出相对位置，具体哪种组织或结构由后面的名词决定。动物形态文献与人体描述的范围也须分别理解。",
+    "usage": "the sublabial region；a sublabial structure；a sublabial location。",
+    "contrast": "sublabial 与 sublingual 舌下的不同；lip 与 tongue 不能因为都在口部就混同。",
+    "examples": [
+      [
+        "The label indicates the sublabial region.",
+        "标注指出了唇下区域。"
+      ],
+      [
+        "The chart distinguishes sublabial from sublingual locations.",
+        "图表区分了唇下与舌下的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sublabial#English"
+    ]
+  },
+  {
+    "word": "supralabial",
+    "ipa": "/ˌsuːprəˈleɪbiəl/",
+    "meaning": "上唇的、上唇上方的；上唇鳞",
+    "sense": "沿爬行动物上颌、靠嘴边的一排鳞片。",
+    "split": "supra- 在上 + labial 唇的，可作形容词，名词常指上唇鳞。",
+    "history": [
+      [
+        "拉丁来源 supra-；labial",
+        "在上；唇的"
+      ],
+      [
+        "英语 supralabial",
+        "上唇相关的；上唇鳞"
+      ]
+    ],
+    "explanation": "a supralabial 可以指一枚上唇鳞，supralabial scales 明说一排鳞片。记录头部鳞片时，位置与数量往往都重要。",
+    "usage": "supralabial scales；the supralabial row；the first supralabial。",
+    "contrast": "supralabial 在上，infralabial 在下；superior 的一般上方义不能代替所有固定鳞片名称。",
+    "examples": [
+      [
+        "The first supralabial is smaller than the next one.",
+        "第一枚上唇鳞比下一枚小。"
+      ],
+      [
+        "The drawing labels the supralabial scales along the upper jaw.",
+        "图中标出了上颌边缘的上唇鳞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supralabial#English"
+    ]
+  },
+  {
+    "word": "mycology",
+    "ipa": "英 /maɪˈkɒlədʒi/；美 /maɪˈkɑːlədʒi/",
+    "meaning": "真菌学",
+    "sense": "研究真菌是什么、怎样生长，以及它们和环境的关系。",
+    "split": "myco- 真菌 + -logy 学科；科学名称经新拉丁及欧洲语言传统形成，不能仅凭现代英语外形确定首次在哪种语言造词。",
+    "history": [
+      [
+        "希腊 mykēs；-logia",
+        "真菌；研究、论述"
+      ],
+      [
+        "近代科学 mycology",
+        "研究真菌的学科"
+      ]
+    ],
+    "explanation": "蘑菇只是容易看到的一部分，mycology 也涉及酵母、霉菌等。研究对象是现代定义下的真菌，不是所有名字里出现 myco- 的生物。",
+    "usage": "study mycology；a course in mycology；medical mycology。",
+    "contrast": "mycology 是真菌学，microbiology 是微生物学，mythology 是神话学；拼写近但范围不同。",
+    "examples": [
+      [
+        "She took a course in mycology.",
+        "她修读了一门真菌学课程。"
+      ],
+      [
+        "The museum has a collection used for teaching mycology.",
+        "博物馆有一批用于真菌学教学的藏品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mycology#English"
+    ]
+  },
+  {
+    "word": "mycoplasma",
+    "ipa": "/ˌmaɪkəʊˈplæzmə/",
+    "meaning": "支原体",
+    "sense": "名称带着真菌的历史线索，但现代分类中是一类细菌。",
+    "split": "来自属名 Mycoplasma，myco- 真菌 + plasma 成形之物；是历史科学命名，不能用字面决定现代分类。",
+    "history": [
+      [
+        "希腊 mykēs；plasma",
+        "真菌；成形之物"
+      ],
+      [
+        "分类名 Mycoplasma",
+        "历史观察形成的名称"
+      ],
+      [
+        "英语 mycoplasma",
+        "支原体；相关类群的细菌"
+      ]
+    ],
+    "explanation": "这类细菌缺少通常意义上的细胞壁。词根里的 myco- 不表示它们就是霉菌；具体种名与样本语境仍须另外确认。",
+    "usage": "a mycoplasma；mycoplasma contamination；Mycoplasma pneumoniae。",
+    "contrast": "mycoplasma 属于细菌一支，mycology 研究真菌；不要按共享前缀将二者归入同一现代生物大类。",
+    "examples": [
+      [
+        "The laboratory checked the cell culture for mycoplasma contamination.",
+        "实验室检查了细胞培养物是否有支原体污染。"
+      ],
+      [
+        "The lecture explains why mycoplasmas are not fungi.",
+        "讲座解释了为什么支原体不是真菌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mycoplasma#English",
+      "https://www.merriam-webster.com/dictionary/mycoplasma"
+    ]
+  },
+  {
+    "word": "ascomycete",
+    "ipa": "/ˌæskəʊˈmaɪsiːt/",
+    "meaning": "子囊菌",
+    "sense": "真菌把孢子装在名为子囊的小囊里。",
+    "split": "来自类群名 Ascomycetes 的成员名，asco- 囊 + -mycete 真菌；现代常联系子囊菌门 Ascomycota。",
+    "history": [
+      [
+        "希腊 askos；mykēs",
+        "囊；真菌"
+      ],
+      [
+        "科学分类 Ascomycetes／Ascomycota",
+        "按子囊等特征命名的类群"
+      ],
+      [
+        "英语 ascomycete",
+        "子囊菌类成员"
+      ]
+    ],
+    "explanation": "核心辨认点是子囊这一结构。并非只指看起来像蘑菇的真菌，许多酵母和霉菌也在相关类群中。",
+    "usage": "an ascomycete fungus；ascomycete spores；ascomycete diversity。",
+    "contrast": "ascomycete 用子囊作命名线索，basidiomycete 联系担子；袋状与承托状的产孢结构不同。",
+    "examples": [
+      [
+        "The sample contained spores from an ascomycete.",
+        "样本含有一种子囊菌的孢子。"
+      ],
+      [
+        "The course compares ascomycete and basidiomycete fungi.",
+        "课程比较了子囊菌与担子菌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ascomycete#English",
+      "https://www.merriam-webster.com/dictionary/ascomycete"
+    ]
+  },
+  {
+    "word": "zygomycete",
+    "ipa": "/ˌzaɪɡəʊˈmaɪsiːt/",
+    "meaning": "接合菌〔传统分类名称〕",
+    "sense": "按接合等生殖特征命名的一类真菌，常出现在旧分类材料里。",
+    "split": "zygo- 接合、轭 + -mycete 真菌，经 Zygomycetes／Zygomycota 一类历史类群名形成成员名。",
+    "history": [
+      [
+        "希腊 zygon；mykēs",
+        "轭、连接；真菌"
+      ],
+      [
+        "旧科学类群 Zygomycetes／Zygomycota",
+        "接合菌类的名称"
+      ],
+      [
+        "英语 zygomycete",
+        "传统类群成员"
+      ]
+    ],
+    "explanation": "原先合在一个类群中的生物，现代系统分类已作不同处理。历史材料里的 zygomycete 仍有阅读价值，但不能不加说明地当成现行统一分类。",
+    "usage": "a zygomycete；zygomycete classification；an older zygomycete group。",
+    "contrast": "zygomycete 的传统类群与现代重新划分的类群需要对照；名称有接合，不代表所有接合过程都属于它。",
+    "examples": [
+      [
+        "The older textbook places the mold among the zygomycetes.",
+        "旧教材将这种霉菌归入接合菌类。"
+      ],
+      [
+        "The lecturer explained changes in zygomycete classification.",
+        "讲师解释了接合菌分类的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zygomycete#English",
+      "https://www.merriam-webster.com/dictionary/zygomycete"
+    ]
+  },
+  {
+    "word": "zygomycosis",
+    "ipa": "/ˌzaɪɡəʊmaɪˈkəʊsɪs/",
+    "meaning": "接合菌病〔历史性统称〕",
+    "sense": "旧医学分类按致病真菌的传统类群为感染命名。",
+    "split": "传统类群 Zygomycota 的命名成分 + -osis 病理状态；不是把 zygote 合子加一个表示霉菌的任意词尾。",
+    "history": [
+      [
+        "传统真菌类群 Zygomycota",
+        "接合菌类"
+      ],
+      [
+        "医学名称 zygomycosis",
+        "由传统相关类群引起的真菌感染统称"
+      ]
+    ],
+    "explanation": "随着真菌分类变化，现代材料常使用更具体的感染名称。因此旧文本中的 zygomycosis 要结合年代、病原及现代术语对照，不能简单套作所有霉菌感染。",
+    "usage": "the older term zygomycosis；a report of zygomycosis；zygomycosis terminology。",
+    "contrast": "mycosis 是真菌感染的广义名，zygomycosis 是历史上更窄的一组名称；不等于一般皮肤真菌病。",
+    "examples": [
+      [
+        "The review explains the historical use of zygomycosis.",
+        "综述解释了接合菌病这一名称的历史用法。"
+      ],
+      [
+        "The editor replaced zygomycosis with a more specific term where the organism was known.",
+        "在病原已知之处，编辑用更具体的名称替换了接合菌病。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zygomycosis#English"
+    ]
+  },
+  {
+    "word": "orogeny",
+    "ipa": "英 /ɒˈrɒdʒəni/；美 /ɔːˈrɑːdʒəni/",
+    "meaning": "造山作用；造山运动",
+    "sense": "地壳在构造作用下变形、隆起，形成山系。",
+    "split": "经法语 orogénie，oro- 山 + -geny 形成、产生，来自古希腊命名材料。",
+    "history": [
+      [
+        "希腊 oros；产生相关词干",
+        "山；形成"
+      ],
+      [
+        "法语 orogénie → 英语 orogeny",
+        "形成山系的构造过程"
+      ]
+    ],
+    "explanation": "地质学中关注地壳变形、碰撞、隆升等相互关联的过程，不是说一座沙堆堆高了也叫 orogeny。可以指一个地区一段地质时期的造山事件。",
+    "usage": "a period of orogeny；mountain building and orogeny；a major orogeny。",
+    "contrast": "orogeny 讲形成过程，orography 讲山地的描述、分布和地形；过程与地形信息不同。",
+    "examples": [
+      [
+        "The rocks record a major period of orogeny.",
+        "这些岩石记录了一次重要的造山时期。"
+      ],
+      [
+        "The lecture linked orogeny to the collision of continents.",
+        "讲座将造山作用与大陆碰撞联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orogeny#English"
+    ]
+  },
+  {
+    "word": "orogenesis",
+    "ipa": "英 /ˌɒrəʊˈdʒenɪsɪs/；美 /ˌɔːroʊˈdʒenəsɪs/",
+    "meaning": "造山作用；山系形成",
+    "sense": "用更完整的“形成”词尾说山怎样产生。",
+    "split": "oro- 山 + genesis 形成、起源，科学构词。",
+    "history": [
+      [
+        "希腊 oros；genesis",
+        "山；形成、产生"
+      ],
+      [
+        "英语 orogenesis",
+        "造山作用、山系形成过程"
+      ]
+    ],
+    "explanation": "在地质学中通常与 orogeny 意思接近，具体作者可能有自己的术语偏好。不要为了拆词就编出二者在所有文献中都严格分工的规则。",
+    "usage": "continental orogenesis；a model of orogenesis；the stages of orogenesis。",
+    "contrast": "orogenesis 与 orogeny 常为近义术语；genesis 说形成，不是 genetic 基因的唯一含义。",
+    "examples": [
+      [
+        "The model describes the early stages of orogenesis.",
+        "模型描述了造山作用的早期阶段。"
+      ],
+      [
+        "The paper compares two explanations of continental orogenesis.",
+        "论文比较了两种大陆造山作用的解释。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orogenesis#English"
+    ]
+  },
+  {
+    "word": "orogenic",
+    "ipa": "英 /ˌɒrəʊˈdʒenɪk/；美 /ˌɔːroʊˈdʒenɪk/",
+    "meaning": "造山的；造山作用相关的",
+    "sense": "给一段地质运动、一个带状区域加上造山这一属性。",
+    "split": "与 orogeny 相应的形容词，使用 orogen- + -ic；现代形态可联系造山过程名。",
+    "history": [
+      [
+        "英语地质术语 orogeny",
+        "造山作用"
+      ],
+      [
+        "orogen- + -ic → orogenic",
+        "与造山过程有关的"
+      ]
+    ],
+    "explanation": "orogenic belt 是造山带，orogenic event 是造山事件。不能只因为地势高就直接把地点称为 orogenic；通常是在讨论形成背景。",
+    "usage": "an orogenic belt；an orogenic event；orogenic deformation。",
+    "contrast": "orogenic 讲造山背景；orographic 多讲地形和山地造成的效果，尤其气象搭配。",
+    "examples": [
+      [
+        "The map outlines an ancient orogenic belt.",
+        "地图勾勒出一条古造山带。"
+      ],
+      [
+        "The study dates the main orogenic event.",
+        "研究确定了主要造山事件的年代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orogenic#English",
+      "https://www.merriam-webster.com/dictionary/orogenic"
+    ]
+  },
+  {
+    "word": "orography",
+    "ipa": "英 /ɒˈrɒɡrəfi/；美 /ɔːˈrɑːɡrəfi/",
+    "meaning": "山地地形；山岳描述、山岳学",
+    "sense": "把一个地区的山脉位置、高低和形态描述出来。",
+    "split": "oro- 山 + -graphy 描述、记录，科学构词。",
+    "history": [
+      [
+        "希腊 oros；-graphia",
+        "山；描述、记录"
+      ],
+      [
+        "英语 orography",
+        "山地的描述与研究；山地地形本身"
+      ]
+    ],
+    "explanation": "既可说研究和描述，也可说一个地区实际的山地地形。气象材料关注山地怎样改变气流，常由此接到 orographic。",
+    "usage": "the orography of a region；regional orography；a description of the orography。",
+    "contrast": "orography 不是 geography 的拼写变体；它把范围收窄到山地地形。",
+    "examples": [
+      [
+        "The model includes the detailed orography of the region.",
+        "模型纳入了该地区详细的山地地形。"
+      ],
+      [
+        "The map gives a clear picture of the island’s orography.",
+        "地图清楚呈现了岛屿的山地地形。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orography#English"
+    ]
+  },
+  {
+    "word": "orographic",
+    "ipa": "英 /ˌɒrəˈɡræfɪk/；美 /ˌɔːrəˈɡræfɪk/",
+    "meaning": "山地地形的；地形抬升造成的",
+    "sense": "湿空气遇到山坡被迫上升，天气因此发生变化。",
+    "split": "orography 的相应形容词形式，orograph- + -ic。",
+    "history": [
+      [
+        "英语 orography",
+        "山地地形及其描述"
+      ],
+      [
+        "orograph- + -ic → orographic",
+        "山地地形的；与其影响有关的"
+      ]
+    ],
+    "explanation": "orographic rainfall 是地形雨，orographic lift 是地形抬升。这里不在说山怎么形成，而在说已有山地怎样影响空气和降水。",
+    "usage": "orographic rainfall；orographic lift；an orographic effect。",
+    "contrast": "orogenic 说造山，orographic 说山地地形及其影响；后者在气象搭配里尤其常见。",
+    "examples": [
+      [
+        "Moist air produced orographic rainfall on the windward slope.",
+        "湿空气在迎风坡形成地形雨。"
+      ],
+      [
+        "The forecast model accounts for orographic effects.",
+        "预报模型考虑了地形影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orographic#English"
+    ]
+  },
+  {
+    "word": "oread",
+    "ipa": "/ˈɔːriæd/",
+    "meaning": "山林仙女；山岳宁芙",
+    "sense": "希腊神话中，与山地相联系的女性自然精灵。",
+    "split": "经拉丁 Oreas、Oread-，来自希腊 Oreias 山地的宁芙，基于 oros 山。",
+    "history": [
+      [
+        "希腊 oros → Oreias",
+        "山 → 山地宁芙"
+      ],
+      [
+        "拉丁 Oreas → 英语 oread",
+        "山岳仙女、山岳宁芙"
+      ]
+    ],
+    "explanation": "这是神话与文学名称，不是山里生活的真实生物分类。复数 oreads，也可在古典语境见 Oreades。",
+    "usage": "an oread；the oreads of the mountains；an oread in mythology。",
+    "contrast": "oread 是山地宁芙，dryad 常联系树木，naiad 常联系淡水；名称对应不同的自然领域。",
+    "examples": [
+      [
+        "The poem imagines an oread watching over the valley.",
+        "诗中想象一位山岳仙女守望着山谷。"
+      ],
+      [
+        "The painting shows oreads among the rocks.",
+        "画中描绘了岩石间的山岳宁芙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oread#English"
+    ]
+  },
+  {
+    "word": "oronym",
+    "ipa": "英 /ˈɒrənɪm/；美 /ˈɔːrənɪm/",
+    "meaning": "山名；山地地名",
+    "sense": "地图上标在一座山旁边、用来称呼它的名字。",
+    "split": "oro- 山 + -onym 名称，地名学构词。",
+    "history": [
+      [
+        "希腊 oros；onyma／onoma",
+        "山；名称"
+      ],
+      [
+        "英语 oronym",
+        "山或山地的地名"
+      ]
+    ],
+    "explanation": "这是地名学术语，关注山叫什么而不是山怎样形成。也有材料用同形词讨论相同读音的词组边界，这种用法与本页的山名义要分开核对。",
+    "usage": "an ancient oronym；the origin of an oronym；a list of oronyms。",
+    "contrast": "toponym 是地名总称，oronym 是山地地名的一类；不是所有地名都叫 oronym。",
+    "examples": [
+      [
+        "The historian traced the oronym to an older local language.",
+        "历史学家将这个山名追溯到一种更早的当地语言。"
+      ],
+      [
+        "The atlas preserves several traditional oronyms.",
+        "地图集保留了几个传统山名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oronym#English"
+    ]
+  }
+]

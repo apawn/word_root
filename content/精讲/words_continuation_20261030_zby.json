@@ -1,0 +1,546 @@
+[
+  {
+    "word": "completing",
+    "ipa": "/kəmˈpliːtɪŋ/",
+    "meaning": "完成、填完、使完整〔现在分词、动名词〕",
+    "sense": "剩下的部分一项项补齐，让事情从没做完变成做完，就是 completing。填表、做练习、完成一段学习都可用。",
+    "split": "complete 接拉丁 complere、completus 填满、完成，经法语或直接拉丁形容词借入后有动词用法。现代去末尾 e，加完整 -ing。",
+    "history": [
+      [
+        "拉丁 complere、completus → complete",
+        "填满、完整 → 做完、补齐"
+      ],
+      [
+        "complete 去 e + -ing → completing",
+        "正在完成；做完某事这个过程"
+      ]
+    ],
+    "explanation": "completing a form 填完表格；completing the course 完成课程；completing the picture 补全画面。",
+    "usage": "after completing the task 完成任务后；completing the final stage 完成最后阶段。",
+    "contrast": "completing 表示完成这一动作的过程；complete 作形容词说完整、已完备，两种词性不要只按中文完成来混用。",
+    "examples": [
+      [
+        "She is completing the final part of the project.",
+        "她正在完成项目的最后一部分。"
+      ],
+      [
+        "Completing the course took him six months.",
+        "他花了六个月完成这门课程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/completing#English",
+      "https://en.wiktionary.org/wiki/complete#English"
+    ]
+  },
+  {
+    "word": "consulting",
+    "ipa": "/kənˈsʌltɪŋ/",
+    "meaning": "请教、咨询、商议；查阅；咨询业务〔现在分词、动名词及相关用法〕",
+    "sense": "问题拿不准，去问有经验的人，是 consulting；自己把资料翻出来找依据，也是在 consulting 资料。都强调找信息、征求意见。",
+    "split": "consult 经法语 consulter 接拉丁 consultare，属于 consulere 商议、考虑的相关加强形式。现代直接加完整 -ing，仍用动词后重音。",
+    "history": [
+      [
+        "拉丁 consulere、consultare → 法语、英语 consult",
+        "商议、考虑 → 请教、查阅"
+      ],
+      [
+        "consult + -ing → consulting",
+        "正在请教或查阅；相关咨询业务"
+      ]
+    ],
+    "explanation": "consulting a dictionary 查词典；consulting an expert 请教专家；consulting with colleagues 与同事商议。",
+    "usage": "a consulting firm 咨询公司；consulting the notes 查阅笔记。",
+    "contrast": "consult a person 或 consult a book 都可直接接宾语，consult with someone 常强调双方商议。咨询业务是这套请教、提供专业意见的固定名词用法。",
+    "examples": [
+      [
+        "She is consulting a dictionary.",
+        "她正在查词典。"
+      ],
+      [
+        "We are consulting with the team about the schedule.",
+        "我们正在和团队商议时间安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consulting#English",
+      "https://en.wiktionary.org/wiki/consult#English"
+    ]
+  },
+  {
+    "word": "cooling",
+    "ipa": "/ˈkuːlɪŋ/",
+    "meaning": "冷却、降温；冷淡下来、平静下来〔现在分词、动名词〕",
+    "sense": "热度慢慢下来，是 cooling。杯里的水能降温，人对某件事的热情也能降温，用同一画面表示没那么热烈了。",
+    "split": "cool 接古英语 col、colian，凉与情绪平静的联系很早。现代直接加完整 -ing；这里讲冷却动作，不是把口语很酷硬套成越来越时髦。",
+    "history": [
+      [
+        "古英语 col、colian → cool",
+        "温度不高、冷却；情绪平静"
+      ],
+      [
+        "cool + -ing → cooling",
+        "正在降温；冷却过程；热情变淡"
+      ]
+    ],
+    "explanation": "cooling water 冷却用水，也可按句子指正在冷却的水；a cooling breeze 凉爽的微风；cooling enthusiasm 逐渐冷却的热情。",
+    "usage": "a cooling system 冷却系统；cooling down 冷静下来、降温。",
+    "contrast": "cooling water 的词组结构要看上下文：可以是用于冷却的水，也可以是正在降温的水。-ing 形式不总只说明现在进行时。",
+    "examples": [
+      [
+        "The soup is cooling on the table.",
+        "汤正放在桌上慢慢变凉。"
+      ],
+      [
+        "His enthusiasm was cooling after several delays.",
+        "接连几次延误后，他的热情慢慢冷却了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cooling#English",
+      "https://en.wiktionary.org/wiki/cool#English"
+    ]
+  },
+  {
+    "word": "corners",
+    "ipa": "英 /ˈkɔːnəz/；美 /ˈkɔːrnərz/",
+    "meaning": "角落、拐角〔复数〕；逼入困境、转弯〔第三人称单数〕",
+    "sense": "两条边碰到一起的地方，是 corners；把人逼到难以退出的位置，动词也说 corners。转弯则沿着拐角改变方向。",
+    "split": "corner 经盎格鲁诺曼 cornere、法语 corne，较早接拉丁 cornu 角。角落义在法语相关材料中发展，不直接说古典 cornu 就是房间角落。现代加 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁 cornu → 法语、盎格鲁诺曼角状、角落词 → corner",
+        "角 → 两边相交处；逼入角落的动作"
+      ],
+      [
+        "corner + -s → corners",
+        "多个角落、拐角；某主体逼近、转弯"
+      ]
+    ],
+    "explanation": "the corners of the room 房间各角落；street corners 街角；corners him with a question 用问题把他问住。",
+    "usage": "round the corners 绕过拐角；cut corners 走捷径、省掉该做的步骤。",
+    "contrast": "cut corners 常批评为了省事而省去应做的步骤，不只说把纸的四角剪掉。字面角落和固定比喻要一起学。",
+    "examples": [
+      [
+        "Dust had gathered in the corners of the room.",
+        "房间各角落积了灰。"
+      ],
+      [
+        "The reporter corners him with a difficult question.",
+        "记者用一个难题把他问住了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/corners#English",
+      "https://en.wiktionary.org/wiki/corner#English"
+    ]
+  },
+  {
+    "word": "detected",
+    "ipa": "/dɪˈtektɪd/",
+    "meaning": "察觉到了、探测出了、查明了〔过去式、过去分词〕",
+    "sense": "东西原来藏着、不明显，经过观察或工具检查被发现，是 detected。重点是终于察觉到它存在，不必已经弄懂所有原因。",
+    "split": "detect 借拉丁 detectus，来自 de- 去掉 + tegere 盖住形成的 detegere。现代加完整 -ed，/t/ 后读 /ɪd/，最后多一个音节。",
+    "history": [
+      [
+        "拉丁 detegere、detectus → detect",
+        "去掉遮盖 → 揭露、发现"
+      ],
+      [
+        "detect + -ed → detected",
+        "已经察觉、探测出来"
+      ]
+    ],
+    "explanation": "detected an error 发现错误；detected a change 察觉变化；detected a signal 探测到信号。",
+    "usage": "easily detected 容易发现的；detected in the sample 在样品中检测到。",
+    "contrast": "detected a problem 是发现了问题，solved a problem 才是解决了它。探测到某个信号也不自动说明已知道它的来源。",
+    "examples": [
+      [
+        "The program detected an error in the file.",
+        "程序发现文件里有个错误。"
+      ],
+      [
+        "She detected a slight change in his tone.",
+        "她察觉到他的语气有细微变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/detected#English",
+      "https://en.wiktionary.org/wiki/detect#English"
+    ]
+  },
+  {
+    "word": "donated",
+    "ipa": "英 /dəʊˈneɪtɪd/；美 /ˈdoʊneɪtɪd/",
+    "meaning": "捐赠了、捐出的〔过去式、过去分词〕",
+    "sense": "把自己有的东西拿出来，交给某个事业或需要的人，不以买卖交换为目的，是 donated。物品、钱或时间都能成为这一份付出。",
+    "split": "英语 donate 从更早的 donation 逆构，远接拉丁 donum 礼物、donare 赠与。现代 donate 去结尾 e，加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 donare、donatio → 法语、英语 donation → donate",
+        "赠与、捐赠名词 → 英语逆构动词"
+      ],
+      [
+        "donate 去 e + -ed → donated",
+        "已经捐赠；捐出来的"
+      ]
+    ],
+    "explanation": "donated books 捐出的书；donated money 捐了钱；donated her time 付出时间作贡献。",
+    "usage": "donated to the library 捐给图书馆；a donated collection 捐赠的收藏。",
+    "contrast": "现代学习可以先看 donate 再看 donation，历史记录却是英语名词较早。donated 也不等于 lend 借出，通常不期待原物归还。",
+    "examples": [
+      [
+        "She donated her old books to the library.",
+        "她把旧书捐给了图书馆。"
+      ],
+      [
+        "The chairs were donated by local residents.",
+        "这些椅子是当地居民捐赠的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/donated#English",
+      "https://en.wiktionary.org/wiki/donate#English"
+    ]
+  },
+  {
+    "word": "encountered",
+    "ipa": "英 /ɪnˈkaʊntəd/；美 /ɪnˈkaʊntərd/",
+    "meaning": "遇到了、遭遇了〔过去式、过去分词〕",
+    "sense": "向前做事时，一个人或一件事迎面碰上来，是 encountered。对象可能是陌生人、一个新词，也可能是没预料到的困难。",
+    "split": "encounter 经法语 encontre、encontrer，相连晚期拉丁 incontra 在面前、相对。现代直接加完整 -ed，英音元音、美音 /r/ 后接 /d/。",
+    "history": [
+      [
+        "拉丁 incontra → 法语相遇、交锋材料 → encounter",
+        "在面前、相对 → 遇到、遭遇"
+      ],
+      [
+        "encounter + -ed → encountered",
+        "已经碰见、面对过"
+      ]
+    ],
+    "explanation": "encountered a problem 遇到问题；encountered a new word 遇到生词；encountered difficulties 碰到困难。",
+    "usage": "first encountered 首次遇到；encountered on the journey 旅途中碰到的。",
+    "contrast": "encountered 可以谈中性的新事物，不必每次都译成倒霉地遭遇。meeting 常可事先安排，encounter 则常有碰上、实际接触到的感觉。",
+    "examples": [
+      [
+        "We encountered a problem near the end of the project.",
+        "项目快结束时，我们碰到了一个问题。"
+      ],
+      [
+        "She noted the new words she encountered in the book.",
+        "她记下了书里遇到的生词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encountered#English",
+      "https://en.wiktionary.org/wiki/encounter#English"
+    ]
+  },
+  {
+    "word": "exploring",
+    "ipa": "英 /ɪkˈsplɔːrɪŋ/；美 /ɪkˈsplɔːrɪŋ/",
+    "meaning": "探索、查探、探究〔现在分词、动名词〕",
+    "sense": "还没完全熟悉，就一步步走进去看、问、试，是 exploring。可以探索街道，也可以探索某种可能的做法。",
+    "split": "explore 接拉丁 explorare，有法语 explorer 借入或从 exploration 逆构的分析；拉丁内部常见的呼喊解释有异说。现代去末尾 e，加完整 -ing。",
+    "history": [
+      [
+        "拉丁 explorare；法语 explorer 或英语 exploration → explore",
+        "调查、查探 → 探索；近源分析不只一条"
+      ],
+      [
+        "explore 去 e + -ing → exploring",
+        "正在探索；逐步深入了解"
+      ]
+    ],
+    "explanation": "exploring the city 探索城市；exploring an idea 探讨想法；exploring different options 研究不同选择。",
+    "usage": "a day spent exploring 一天探索的经历；exploring how it works 探究它怎样运作。",
+    "contrast": "exploring an option 只是认真了解可能性，不表示已经决定采用。它强调还在找路、摸清情况。",
+    "examples": [
+      [
+        "We spent the morning exploring the old town.",
+        "我们花了一上午探索老城区。"
+      ],
+      [
+        "The team is exploring several ways to solve the problem.",
+        "团队正在研究解决问题的几种办法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exploring#English",
+      "https://en.wiktionary.org/wiki/explore#English"
+    ]
+  },
+  {
+    "word": "filmed",
+    "ipa": "/fɪlmd/",
+    "meaning": "拍摄了、被拍成影像的〔过去式、过去分词〕",
+    "sense": "把现场或表演记录成可观看的影像，是 filmed。即使现在用数字设备，仍然能说 filmed，不要求相机里一定装胶片。",
+    "split": "film 接古英语 filmen 薄皮、膜，摄影薄层、胶片用法发展出拍摄动词。现代直接加完整 -ed，/m/ 后读 /d/，不另增加一个 /ɪd/。",
+    "history": [
+      [
+        "古英语薄膜材料 → film → 摄影胶片、电影",
+        "薄层载体 → 影像作品；拍摄动作"
+      ],
+      [
+        "film + -ed → filmed",
+        "已经拍摄；被记录成影像"
+      ]
+    ],
+    "explanation": "filmed the performance 拍下演出；filmed on location 实地拍摄；filmed in the village 在村里拍摄。",
+    "usage": "a filmed interview 拍摄的访谈；filmed with a small camera 用小相机拍下。",
+    "contrast": "filmed 抓住记录为活动影像，photographed 常指拍静态照片。film 的历史胶片材料不限制今天的设备选择。",
+    "examples": [
+      [
+        "They filmed the play in a small theatre.",
+        "他们在一座小剧场拍摄了这出戏。"
+      ],
+      [
+        "The interview was filmed in the artist’s studio.",
+        "访谈是在艺术家的工作室拍摄的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/filmed#English",
+      "https://en.wiktionary.org/wiki/film#English"
+    ]
+  },
+  {
+    "word": "guided",
+    "ipa": "/ˈɡaɪdɪd/",
+    "meaning": "带领了、引导的；有向导的〔过去式、过去分词及形容词〕",
+    "sense": "有人帮你认路、安排观看顺序，是 guided；一个原则帮你决定往哪走，也能说判断 guided by 这个原则。",
+    "split": "guide 经古法语 guier、guider，较早通常连日耳曼指路词。现代去末尾 e 加完整 -ed，词干 /d/ 后读 /ɪd/，形成 guided。",
+    "history": [
+      [
+        "法语指路材料 → 英语 guide",
+        "带路 → 指导、引导决定"
+      ],
+      [
+        "guide 去 e + -ed → guided",
+        "被带领、引导；有向导安排的"
+      ]
+    ],
+    "explanation": "a guided tour 有导游带领的参观；guided us through the town 带我们穿过城镇；guided by a principle 受原则引导。",
+    "usage": "guided reading 有指导的阅读；guided the discussion 引导了讨论。",
+    "contrast": "guided tour 不只是随便走一圈，而是有人或安排好的讲解提供指引。guided by experience 讲经验引导判断，也不要求真有个向导站旁边。",
+    "examples": [
+      [
+        "She guided us through the old town.",
+        "她带我们穿过了老城区。"
+      ],
+      [
+        "We joined a guided tour of the museum.",
+        "我们参加了博物馆的导览参观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guided#English",
+      "https://en.wiktionary.org/wiki/guide#English"
+    ]
+  },
+  {
+    "word": "heels",
+    "ipa": "/hiːlz/",
+    "meaning": "脚后跟、鞋跟；高跟鞋〔口语复数〕；紧跟〔第三人称单数〕",
+    "sense": "脚的后部是 heels，鞋底在这里垫高的部分也是 heels。口语把有高跟的鞋直接叫 heels，就是用突出部分代指整双鞋。",
+    "split": "heel 接古英语 hela，经中古英语 hele；更早联系日耳曼足部材料。现代直接加 -s，/l/ 后读 /z/；不能因结尾像 el 就给 heel 编一个现代反复动作后缀。",
+    "history": [
+      [
+        "古英语 hela → heel",
+        "脚后部 → 鞋的对应部位、后端"
+      ],
+      [
+        "heel + -s → heels；部分代整体的用法",
+        "多只脚后跟、鞋跟 → 高跟鞋；动词三单同形"
+      ]
+    ],
+    "explanation": "high heels 高跟鞋；the heels of the shoes 鞋跟；on their heels 紧跟在他们后面。",
+    "usage": "low heels 低跟鞋；at her heels 紧跟着她。",
+    "contrast": "heels 和 heals 治愈同音，拼写和句子结构要分清。wearing heels 常直接说穿高跟鞋，不是把脚后跟当衣服穿上。",
+    "examples": [
+      [
+        "The shoes have low heels.",
+        "这双鞋的鞋跟很低。"
+      ],
+      [
+        "She changed out of her heels after the party.",
+        "聚会后，她换下了高跟鞋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heels#English",
+      "https://en.wiktionary.org/wiki/heel#English"
+    ]
+  },
+  {
+    "word": "achievements",
+    "ipa": "/əˈtʃiːvmənts/",
+    "meaning": "成就、做出的成果〔复数〕",
+    "sense": "投入努力，真正做成了一些事，这些结果是 achievements。它常让人想到值得认可的完成和进步，不只是随手做过的动作。",
+    "split": "achievement 经法语 achevement，法语已有 achever 加名词词尾的结构，现代可对应 achieve + -ment。现在直接加 -s，/t/ 后读 /s/；不是把英语动词当唯一历史起点。",
+    "history": [
+      [
+        "法语 achever → achevement → 英语 achievement",
+        "完成 → 做成的事、成就"
+      ],
+      [
+        "achievement + -s → achievements",
+        "多项成就、完成的成果"
+      ]
+    ],
+    "explanation": "academic achievements 学业成就；personal achievements 个人成就；proud of her achievements 为她的成就自豪。",
+    "usage": "celebrate achievements 庆祝成就；major achievements 重大成果。",
+    "contrast": "achievements 侧重做成了什么，abilities 侧重有怎样的能力。能力能帮助取得成果，但还没做出来时不能把二者直接当同义词。",
+    "examples": [
+      [
+        "She was proud of her students’ achievements.",
+        "她为学生们的成就感到自豪。"
+      ],
+      [
+        "The exhibition celebrates the engineer’s achievements.",
+        "展览展示并肯定了那位工程师的成果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/achievements#English",
+      "https://en.wiktionary.org/wiki/achievement#English"
+    ]
+  },
+  {
+    "word": "addressing",
+    "ipa": "/əˈdresɪŋ/",
+    "meaning": "对……讲话；着手处理；写明寄达地址〔现在分词、动名词〕",
+    "sense": "把话朝着一群人说，是 addressing；把注意力和行动朝着问题放过去，也是 addressing。写信封地址则是在标明它要去向谁、哪里。",
+    "split": "address 经古法语 adrecier，较早连拉丁 directus 与重建的 *addirectiare 使直、引导材料。现代直接加 -ing，两个 s 都保留，动词重音在后。",
+    "history": [
+      [
+        "拉丁使直、引导材料 → 法语 adrecier → address",
+        "朝一定方向引 → 对人讲话、把事引向处理"
+      ],
+      [
+        "address + -ing → addressing",
+        "正在讲话、着手处理或写寄达地址"
+      ]
+    ],
+    "explanation": "addressing the audience 向听众讲话；addressing a problem 处理问题；addressing an envelope 写信封地址。",
+    "usage": "a way of addressing concerns 回应顾虑的方式；addressing the main issue 着手处理主要问题。",
+    "contrast": "addressing a problem 表示在面对、处理它，不保证已经 solved。addressing an audience 则是讲话对象，不是在写听众的家庭住址。",
+    "examples": [
+      [
+        "She is addressing the audience.",
+        "她正在向听众讲话。"
+      ],
+      [
+        "The meeting focused on addressing the main problem.",
+        "会议重点是着手处理主要问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/addressing#English",
+      "https://en.wiktionary.org/wiki/address#English"
+    ]
+  },
+  {
+    "word": "batteries",
+    "ipa": "/ˈbætəriz/",
+    "meaning": "电池；成组器具、炮组；一连串测试等〔复数〕",
+    "sense": "手电筒里装的一节节电池，是 batteries。历史上 battery 有成组器具的用法，电学借来这个名字后，现代单个电池也能叫 a battery。",
+    "split": "battery 经法语 batterie，连 battre、拉丁 battuere 打击，炮火、炮组义启发早期电装置的成组命名。现代把 y 改 i，加 -es，读 /iz/。",
+    "history": [
+      [
+        "法语打击、炮组材料 → 电学借名 battery",
+        "成组器具 → 早期电装置组 → 现代电池"
+      ],
+      [
+        "battery → batteries：y 改 i，加 -es",
+        "多节电池、多组器具等"
+      ]
+    ],
+    "explanation": "replace the batteries 更换电池；rechargeable batteries 充电电池；batteries of tests 一连串测试。",
+    "usage": "two batteries 两节电池；batteries for the torch 手电筒用电池。",
+    "contrast": "battery 的历史成组义不要求现代每次都指一串电池。a battery 可以是一个，batteries 才是普通复数；a battery of tests 另说成套测试。",
+    "examples": [
+      [
+        "The torch needs two batteries.",
+        "这支手电筒需要两节电池。"
+      ],
+      [
+        "She put fresh batteries in the radio.",
+        "她给收音机装上了新电池。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/batteries#English",
+      "https://en.wiktionary.org/wiki/battery#English"
+    ]
+  },
+  {
+    "word": "travels",
+    "ipa": "/ˈtrævəlz/",
+    "meaning": "旅行经历、行程〔复数〕；旅行、移动、传播〔第三人称单数〕",
+    "sense": "一个人在各地走过的行程，可以合称 travels；声音、光或消息向外传，也可用 travels，说它从一处到了另一处。",
+    "split": "travel 来自中古英语 travail 的变体，经法语辛劳、跋涉材料发展旅行义；更早刑具词族的具体转义仍有疑问。现代直接加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "古法语 travail、travailler → 中古英语 travail、travel",
+        "辛劳、跋涉 → 旅行；更早转义不强定"
+      ],
+      [
+        "travel + -s → travels",
+        "行程、旅行经历；某人或事物移动、传播"
+      ]
+    ],
+    "explanation": "on her travels 在她旅行途中；travels abroad 到国外旅行；sound travels 声音传播。",
+    "usage": "a book about his travels 讲述他旅行经历的书；news travels fast 消息传得快。",
+    "contrast": "travel 泛谈旅行活动时常不可数，travels 常把多次行程、经历合在一起讲。a travel 不是每次都能直接替代 a trip。",
+    "examples": [
+      [
+        "She often travels by train.",
+        "她常坐火车旅行。"
+      ],
+      [
+        "He wrote a book about his travels.",
+        "他写了一本讲旅行经历的书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/travels#English",
+      "https://en.wiktionary.org/wiki/travel#English"
+    ]
+  },
+  {
+    "word": "struggled",
+    "ipa": "/ˈstrʌɡəld/",
+    "meaning": "费力应对了、挣扎了〔过去式、过去分词〕",
+    "sense": "遇到阻力，花了很大劲去做，是 struggled。可能是提重物，也可能是理解内容、说出一句话；它先强调过程吃力。",
+    "split": "struggle 接中古英语 struglen 等，较远来源未定。现代去末尾 e，加完整 -ed，/l/ 后读 /d/；没有另一个独立的 -gled 词尾。",
+    "history": [
+      [
+        "中古英语 struglen 等 → struggle",
+        "身体挣扎 → 费力应对各种困难"
+      ],
+      [
+        "struggle 去 e + -ed → struggled",
+        "过去费过力、挣扎过"
+      ]
+    ],
+    "explanation": "struggled to understand 努力理解却觉得困难；struggled with the task 做任务很吃力；struggled against the current 逆流挣扎。",
+    "usage": "struggled to lift it 费力想把它抬起；struggled for words 一时很难找到合适的话。",
+    "contrast": "struggled 不单独告诉你最后成功还是失败。struggled but finished 表示做得吃力但完成了，后面的结果仍要另外说。",
+    "examples": [
+      [
+        "He struggled to lift the heavy box.",
+        "他费力想抬起那个重箱子。"
+      ],
+      [
+        "She struggled with the task but finished it.",
+        "她做这项任务很吃力，但还是完成了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/struggled#English",
+      "https://en.wiktionary.org/wiki/struggle#English"
+    ]
+  }
+]

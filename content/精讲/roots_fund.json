@@ -5,7 +5,7 @@
     "core": "FUND = BOTTOM / FOUNDATION",
     "image": "楼有地基，事业有资金，深刻则一路触到底",
     "intro": "**fund-** 这一页从拉丁语 **fundus**“底部、地基、地产”出发。found 是打基础、建立；foundation 是托住后续东西的底层；fundamental 是抽掉就站不住的根本。财产与储备的支线留下 fund，而 profound 则把“底部”带到很深的程度。",
-    "forms": "**fundāre**“建立”经法语留下 found，名词路线留下 foundation。**fundāmentum** 留下 fundament 及 fundamental。**profundus** 留下 profound，相关名词 profundity 的读音会改变。注意同形：find 的过去式 found 不属于这一支；铸造义 found 来自 **fundere**“倾倒”，另列在 fund-/fus- 中。",
+    "forms": "**fundāre**“建立”经法语留下 found，名词路线留下 foundation。**fundāmentum** 留下 fundament 及 fundamental。**profundus** 留下 profound，相关名词 profundity 的读音会改变。注意同形：find 的过去式 found 不属于这一支；铸造义 found 来自 **fundere**“倾倒”，另列在 fund-/fus- 中。\n\nfund 接底、基础的拉丁和法语材料；funds 常统称可用资金，也可说多个基金或作资助动词的形式。\n\n本组讲拉丁 fundare 建立；与 find 的过去式 found、铸造动词分开。\n\n拉丁底部、地产词经法语等发展为储备、资金，英语动词后转用。\n\n拉丁 fundatio 经法语 fondacion，接 fundare 奠基、建立。\n\n建立接拉丁 fundare 经法语；founding member 是创立时就参与的成员。\n\n创立者 founder 经法语接拉丁 fundator、fundare 奠基；现代可按 found 创立 + -er 人理解。founder 沉没、失败的动词另经法语 fondrer，和创立者分支分别讲。",
     "branches": [
       [
         "奠基与创办",
@@ -30,6 +30,30 @@
       [
         "严守基本教义",
         "fundamentalism · fundamentalist"
+      ],
+      [
+        "fund 与 funds：作为支撑的可用资金",
+        "fund · funds"
+      ],
+      [
+        "found → founded：打基础与建立",
+        "found · founded"
+      ],
+      [
+        "fund → funded：财产底子到提供资金",
+        "fund · funded"
+      ],
+      [
+        "foundation → foundations：在最下面撑住整体的基础",
+        "foundation · foundations"
+      ],
+      [
+        "found → founding：打基础、建立；同形铸造另分",
+        "found · founding"
+      ],
+      [
+        "奠定基础 → founder → founders",
+        "founders"
       ]
     ],
     "contrasts": "**found / find**：创办的过去式 founded；找到的过去式 found。\n\n**founder / funder**：创办人 / 出资方，不一定同一人。founder 作动词还可指沉没、失败。\n\n**funding / fundraising**：资金支持 / 筹集资金的活动。\n\n**fundamental / fundamentalist**：根本的 / 坚持特定基本教义的人，不能把后者当作“初学者”。",
@@ -55,7 +79,13 @@
       "defund",
       "crowdfund",
       "superfund",
-      "fundament"
+      "fundament",
+      "funds",
+      "founded",
+      "funded",
+      "foundations",
+      "founding",
+      "founders"
     ]
   }
 ]

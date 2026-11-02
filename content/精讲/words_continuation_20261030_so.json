@@ -1,0 +1,35 @@
+[
+  {
+    "word": "info",
+    "ipa": "英 /ˈɪnfəʊ/；美 /ˈɪnfoʊ/",
+    "meaning": "信息、资料〔非正式〕",
+    "sense": "information 太长，聊天、界面或简短说明里常缩成 info；就是信息，语气比完整形式随意。",
+    "split": "information 的截短形式，保留开头几个字母和发音。它是英语较晚形成的缩词，不是一个单独来自拉丁语的 in- + fo 词。",
+    "history": [
+      [
+        "information → info",
+        "把长名词截短"
+      ],
+      [
+        "非正式 info 的广泛使用",
+        "信息、资料，常见于消息和界面"
+      ]
+    ],
+    "explanation": "more info 更多信息；contact info 联系信息；useful info 有用的资料。通常不可数，不能照普通可数名词说 an info。",
+    "usage": "send the info；for more info。",
+    "contrast": "正式文章一般更常写 information；info 的缩短不改变基本意思，也不表示这些资料一定简短。",
+    "examples": [
+      [
+        "Thanks for the useful info.",
+        "谢谢这些有用的信息。"
+      ],
+      [
+        "You can find more info on the website.",
+        "你可以在网站上找到更多信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/info#English"
+    ]
+  }
+]

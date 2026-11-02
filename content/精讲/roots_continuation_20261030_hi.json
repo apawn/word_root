@@ -1,0 +1,153 @@
+[
+  {
+    "id": "A1835",
+    "meaning": "形成动作、使成为、按某性质行动的动词词尾变体",
+    "core": "-ISE：常与 -ize 对应，但先确认真是这个后缀",
+    "image": "realise、revolutionise、scrutinise 等接动作；许多词有 -ize 拼法；merchandise 则是旧法语名词借词的对照。",
+    "intro": "这组让名词、形容词材料转到动作。英美拼写是习惯，不是每个以 ise 结尾的单词都能按使成为拆；merchandise 商品尤其别套错。",
+    "forms": "希腊 -izein 等经拉丁、法语和英语构词 → -ise/-ize；scrutiny → scrutinise；revolution + -ise；merchandise 名词接法语 marchandise，单独分支。",
+    "branches": [
+      [
+        "认识、核查与根本改变",
+        "realise · scrutiny · scrutinise · revolutionise"
+      ],
+      [
+        "强调、排序、展示和宣传",
+        "emphasise · prioritise · visualise · publicise"
+      ],
+      [
+        "恢复、激活和统一",
+        "revitalise · energise · standardise"
+      ],
+      [
+        "同形结尾对照",
+        "merchandise"
+      ]
+    ],
+    "contrasts": "-ise/-ize 常是拼写变体，不由 s/z 决定义；英式规范也有 -ize；merchandise 的结尾不按这一使成为词尾强拆。",
+    "practice": "They scrutinised the plan before trying to revolutionise the process.\n\n他们仔细审查计划后，才尝试彻底改造流程。",
+    "words": [
+      "realise",
+      "scrutiny",
+      "scrutinise",
+      "revolutionise",
+      "emphasise",
+      "prioritise",
+      "visualise",
+      "publicise",
+      "revitalise",
+      "energise",
+      "standardise",
+      "merchandise"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4041",
+    "meaning": "张开的空口、差距和范围间隔",
+    "core": "GAP：中间隔着一截，可能是空间、时间、知识或能量",
+    "image": "gap → stopgap 临时补缺；bandgap 把间隔放到能带等科学范围中。",
+    "intro": "空隙不总是坏事，但需要连上的地方有缺口，就能 fill 或 bridge the gap。技术词还需确认间隔在哪个维度。",
+    "forms": "gap/gapa → gap；stop + gap；band + gap。\n\ngasp 的来源有不确定性，可比较北欧 geispa、gapa 的张开用途；现代 gasp 不能直接按 gap 加 s 造词来讲。\n\ngape 与 gap 的张口、敞开材料相关；具体本族延续与北欧借入的分析有不同。现代 gaped 的 -ed 在 /p/ 后读 /t/。\n\ngap 接古北欧张口、空隙材料，与 gape 张大嘴有关；加 -s 成 gaps，/p/ 后读 /s/。",
+    "branches": [
+      [
+        "基本空隙、差距与补缺",
+        "gap · stopgap"
+      ],
+      [
+        "能量等范围间隔",
+        "bandgap"
+      ],
+      [
+        "gap 与 gasp：张开嘴的可能词源联系",
+        "gap · gasp · gasps · gasped · gasping"
+      ],
+      [
+        "gape：嘴张开，开口也张大",
+        "gap · gape · gapes · gaped · gaping"
+      ],
+      [
+        "gap → gaps：空隙到差距、间隔",
+        "gaps"
+      ]
+    ],
+    "contrasts": "gap/crack 空隙与裂缝；stopgap 临时方案不保证根治；bandgap 是能量差等，别照空间缝猜。",
+    "practice": "A stopgap solution filled the gap until the full system was ready.\n\n完整系统就绪前，一个临时方案先填上了缺口。",
+    "words": [
+      "gap",
+      "stopgap",
+      "bandgap",
+      "gasp",
+      "gasps",
+      "gasped",
+      "gasping",
+      "gape",
+      "gapes",
+      "gaped",
+      "gaping",
+      "gaps"
+    ],
+    "exclude": {
+      "gap-toothed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3798",
+    "meaning": "制作、造成某物的人、机构或器物",
+    "core": "MAKER：前面写做什么，后面标出制造角色",
+    "image": "maker 与前段结合，能说人、公司、设备；automaker 的 auto 是汽车，boilermaker 另有饮品借名。",
+    "intro": "前半段指定制作什么：汽车、衣服、玩具是产品，电影、法律是作品和规则；配对、机会等还会借制作形成抽象角色名。",
+    "forms": "make 去 e + -er → maker；auto/dress/toy/boiler 等 + maker；已有组合的比喻、器物义分别看正文。",
+    "branches": [
+      [
+        "基本角色与制造业",
+        "maker · automaker · carmaker · dressmaker · shoemaker · toymaker · boilermaker"
+      ],
+      [
+        "创造作品与产业",
+        "filmmaker · winemaker · watchmaker · printmaker · hitmaker"
+      ],
+      [
+        "规则、关系、机会与赛场",
+        "lawmaker · playmaker · homemaker · matchmaker · bookmaker · rainmaker · kingmaker · moneymaker"
+      ],
+      [
+        "器物与活动空间",
+        "pacemaker · coffeemaker · makerspace"
+      ]
+    ],
+    "contrasts": "maker 不只个人；automaker 不是自动化机器；dressmaker 不按制衣者性别分；boilermaker 看职业还是菜单。",
+    "practice": "The toymaker and dressmaker shared a makerspace.\n\n玩具制作人和制衣师共用一处创客空间。",
+    "words": [
+      "maker",
+      "automaker",
+      "carmaker",
+      "dressmaker",
+      "shoemaker",
+      "toymaker",
+      "boilermaker",
+      "filmmaker",
+      "winemaker",
+      "watchmaker",
+      "printmaker",
+      "hitmaker",
+      "lawmaker",
+      "playmaker",
+      "homemaker",
+      "matchmaker",
+      "bookmaker",
+      "rainmaker",
+      "kingmaker",
+      "moneymaker",
+      "pacemaker",
+      "coffeemaker",
+      "makerspace"
+    ],
+    "exclude": {
+      "tree-maker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "widow-maker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tent-maker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cuckold-maker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

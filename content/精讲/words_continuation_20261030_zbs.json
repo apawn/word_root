@@ -1,0 +1,546 @@
+[
+  {
+    "word": "lasted",
+    "ipa": "英 /ˈlɑːstɪd/；美 /ˈlæstɪd/",
+    "meaning": "持续了、维持了；耐用了〔过去式、过去分词〕",
+    "sense": "从开始到结束，一件事撑住了一段时间，是 lasted。问演出 lasted 多久，就是问它从开场到结束走过多长时间。",
+    "split": "持续动词 last 接古英语 laestan。最后的形容词 last 接另一条 latost 等近源路径，不能混成一次现代派生。动词加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "古英语 laestan → 动词 last",
+        "持续、维持；与最后形容词分近源"
+      ],
+      [
+        "last + -ed → lasted",
+        "持续过；维持了某段时间"
+      ]
+    ],
+    "explanation": "lasted two hours 持续了两小时；lasted until midnight 一直持续到午夜；lasted for years 用了多年。",
+    "usage": "lasted longer than expected 比预期持续更久；the meeting lasted… 会议持续了……。",
+    "contrast": "lasted 不表示最后一次做了什么；它是持续动词。a show that lasted two hours 是演了两小时，不是排在最后的节目。",
+    "examples": [
+      [
+        "The concert lasted two hours.",
+        "音乐会持续了两小时。"
+      ],
+      [
+        "Those shoes lasted for years.",
+        "那双鞋穿了好多年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lasted#English",
+      "https://en.wiktionary.org/wiki/last#English"
+    ]
+  },
+  {
+    "word": "prevented",
+    "ipa": "/prɪˈventɪd/",
+    "meaning": "防止了、阻止了〔过去式、过去分词〕",
+    "sense": "事情还没发生，先把它拦住，是 prevented。它常着眼于结果：由于某个阻碍，原本可能发生的事没发生。",
+    "split": "prevent 接拉丁 praevenire、praeventus：prae- 在前 + venire 来，历史有抢先、走在前的画面。现代加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 praevenire、praeventus → 英语 prevent",
+        "先来到、抢先 → 事先阻止"
+      ],
+      [
+        "prevent + -ed → prevented",
+        "阻止了某事；使人未能做成"
+      ]
+    ],
+    "explanation": "prevented a mistake 避免了一次错误；prevented us from leaving 使我们无法离开；prevented further damage 避免了进一步损坏。",
+    "usage": "prevented the door from closing 挡得门关不上；prevented an accident 避免事故。",
+    "contrast": "prevent someone from doing 强调让动作没做成，stop someone doing 有时也能说停下已开始的动作。理解 prevented 时先找它拦住了什么。",
+    "examples": [
+      [
+        "Heavy snow prevented us from leaving.",
+        "大雪使我们无法离开。"
+      ],
+      [
+        "The final check prevented a mistake.",
+        "最后一次检查避免了一次错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prevented#English",
+      "https://en.wiktionary.org/wiki/prevent#English"
+    ]
+  },
+  {
+    "word": "sells",
+    "ipa": "/selz/",
+    "meaning": "出售、推销；卖得怎样〔第三人称单数〕",
+    "sense": "店里把商品交给买家、换来钱，是 sells；说 a book sells well，则是书卖得好，不是书自己站出来做生意。",
+    "split": "sell 继承古英语 sellan，旧有给予、交付等宽义，出售义很早就有。现代 sell + -s，/l/ 后读 /z/；过去式另用 sold。",
+    "history": [
+      [
+        "古英语 sellan → sell",
+        "交付、给予 → 收钱出售"
+      ],
+      [
+        "sell + -s → sells",
+        "某人出售；某种东西销售得怎样"
+      ]
+    ],
+    "explanation": "sells books 卖书；sells well 卖得好；sells an idea 推销一个想法、让人接受。",
+    "usage": "a shop that sells flowers 一家卖花的店；sells for ten pounds 售价为十英镑。",
+    "contrast": "sells 是现在时的三单，不是名词 sales。sales 说销售活动或销量；sells 则在句中做出售、卖得怎样的动作。",
+    "examples": [
+      [
+        "The shop sells secondhand books.",
+        "这家店卖二手书。"
+      ],
+      [
+        "Her new novel sells well.",
+        "她的新小说卖得很好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sells#English",
+      "https://en.wiktionary.org/wiki/sell#English"
+    ]
+  },
+  {
+    "word": "sentenced",
+    "ipa": "/ˈsentənst/",
+    "meaning": "宣判了、被判处〔过去式、过去分词〕",
+    "sense": "sentence 作名词可以是判决；作动词就把判决施加给某人。was sentenced 讲的是某人被法院判处了什么。",
+    "split": "sentence 经法语接拉丁 sententia 意见、判断，连到 sentire 感到、认为。现代去末尾 e 加完整 -ed，/s/ 后读 /t/。",
+    "history": [
+      [
+        "拉丁 sententia → 法语、英语 sentence",
+        "意见、判断 → 判决；同名词也发展出句子义"
+      ],
+      [
+        "sentence 去 e + -ed → sentenced",
+        "宣判、判处的过去形式"
+      ]
+    ],
+    "explanation": "was sentenced to… 被判处……；sentenced the defendant 对被告宣判；sentenced in court 在法庭被宣判。",
+    "usage": "sentenced to a fine 被判罚款；sentenced after the trial 审理后被宣判。",
+    "contrast": "sentenced 通常接判决这一支，不是随便把东西写成句子。它也不是 send 的过去式 sent；拼写、读音和来源都应分开。",
+    "examples": [
+      [
+        "The judge sentenced the defendant to a fine.",
+        "法官判处被告缴纳罚款。"
+      ],
+      [
+        "The character is sentenced in the final chapter.",
+        "故事里的角色在最后一章被宣判。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentenced#English",
+      "https://en.wiktionary.org/wiki/sentence#English"
+    ]
+  },
+  {
+    "word": "treatments",
+    "ipa": "/ˈtriːtmənts/",
+    "meaning": "处理方式；治疗；对待、表现题材的方式〔复数〕",
+    "sense": "同一个对象，可以有几种处理办法；同一个题材，也可以有不同写法或画法。这些 treatments 都在说怎样对待、怎样处理。",
+    "split": "treatment 现代可对照 treat + -ment，也有法语 traitement 对应；treat 较远接拉丁 tractare 处理。现代 treatment + -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 tractare → 法语、英语 treat；treatment 与 traitement 对照",
+        "处理、对待 → 处理的过程或方式"
+      ],
+      [
+        "treatment + -s → treatments",
+        "不同处理办法；治疗、题材表现方式等"
+      ]
+    ],
+    "explanation": "different treatments 不同处理方式；treatments of the same theme 对同一主题的不同表现；surface treatments 表面处理。",
+    "usage": "two treatments of the story 对故事的两种处理；available treatments 可采用的治疗方式。",
+    "contrast": "treatments 不都在讲医疗。美术、文学里的 treatments 常指怎样表现一个题材；材料加工里则是处理方法。",
+    "examples": [
+      [
+        "The artists used different treatments of the same theme.",
+        "几位艺术家用不同方式表现了同一主题。"
+      ],
+      [
+        "The chapter compares several surface treatments.",
+        "这一章比较了几种表面处理方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/treatments#English",
+      "https://en.wiktionary.org/wiki/treatment#English"
+    ]
+  },
+  {
+    "word": "variations",
+    "ipa": "英 /ˌveəriˈeɪʃənz/；美 /ˌveriˈeɪʃənz/",
+    "meaning": "变化、差异；变式、变奏〔复数〕",
+    "sense": "有一个基本样子，在它上面改一点，得到几种 variations。也可以比较不同时间、地方的差别，看它们怎样不一样。",
+    "split": "variation 经法语 variacion 接拉丁 variatio、variare 改变。现代能联系 vary，但名词有自己的借入历史；现在直接加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 varius、variare、variatio → 法语、英语 variation",
+        "不同、多样 → 改变、差别、变式"
+      ],
+      [
+        "variation + -s → variations",
+        "多种变化、差别或基本样式的改编"
+      ]
+    ],
+    "explanation": "variations in colour 颜色差异；variations on a theme 一个主题的多种变式；seasonal variations 季节变化。",
+    "usage": "slight variations 细微差异；several variations of the pattern 几种图案变式。",
+    "contrast": "variations on a theme 常保留可辨认的主题，再改变节奏、细节或表达。它不是把完全无关的东西都随便叫成同一主题的变化。",
+    "examples": [
+      [
+        "The tiles have slight variations in colour.",
+        "这些瓷砖的颜色有细微差异。"
+      ],
+      [
+        "She played three variations on the same theme.",
+        "她演奏了同一主题的三段变奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/variations#English",
+      "https://en.wiktionary.org/wiki/variation#English"
+    ]
+  },
+  {
+    "word": "acknowledged",
+    "ipa": "英 /əkˈnɒlɪdʒd/；美 /əkˈnɑːlɪdʒd/",
+    "meaning": "承认了、确认收到；致谢了、认可的〔过去式、过去分词〕",
+    "sense": "不装作不知道，而是明确表示我知道了、这确实如此，是 acknowledged。对帮过自己的人，也可表示我记得并感谢你的帮助。",
+    "split": "acknowledge 由中古英语 aknow 与 knowlechen 的认识、承认动词混合，不能把开头硬拆成拉丁 ad-。现代去 e 加完整 -ed，/dʒ/ 后读 /d/。",
+    "history": [
+      [
+        "中古英语 aknow、knowlechen → acknowledge",
+        "认识、承认 → 明确认可、确认"
+      ],
+      [
+        "acknowledge 去 e + -ed → acknowledged",
+        "承认过、确认了；公认的"
+      ]
+    ],
+    "explanation": "acknowledged a mistake 承认错误；acknowledged receipt 确认收到；an acknowledged expert 公认的专家。",
+    "usage": "acknowledged her help 感谢她的帮助；acknowledged the message 确认收到消息。",
+    "contrast": "acknowledged a message 只说明对收到消息作了确认，不保证同意其中内容。承认事实、确认收到、致谢几义靠宾语区分。",
+    "examples": [
+      [
+        "She acknowledged her mistake.",
+        "她承认了自己的错误。"
+      ],
+      [
+        "The author acknowledged his teachers in the preface.",
+        "作者在前言中向老师们致谢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acknowledged#English",
+      "https://en.wiktionary.org/wiki/acknowledge#English"
+    ]
+  },
+  {
+    "word": "advances",
+    "ipa": "英 /ədˈvɑːnsɪz/；美 /ədˈvænsɪz/",
+    "meaning": "进展、进步；预付款〔复数〕；前进、推进〔第三人称单数〕",
+    "sense": "往前迈了几步，是 advances 的进展义；把本来以后才付的钱先交出，是预付款义。作动词则是把人、事或计划往前推。",
+    "split": "advance 借法语 avancier，较远接晚期拉丁 ab ante 前方，英语的 d 后来类推加入。现代加 -s，原词尾 /s/ 后读 /ɪz/。",
+    "history": [
+      [
+        "晚期拉丁 ab ante → 法语 avancier → advance",
+        "前方、向前 → 推进、预先给付；英语后来添 d"
+      ],
+      [
+        "advance + -s → advances",
+        "各项进展、预付款；某主体向前推进"
+      ]
+    ],
+    "explanation": "advances in technology 技术进步；advances the story 推动情节；cash advances 预付的钱款。",
+    "usage": "recent advances 最近的进展；advances towards the door 朝门前进。",
+    "contrast": "advances 不只一种名词义；谈技术常是进步，谈付款可指预付，谈人际关系还可能指主动示好。不要只背一个中文强套。",
+    "examples": [
+      [
+        "The chapter describes advances in printing technology.",
+        "这一章介绍了印刷技术的进步。"
+      ],
+      [
+        "Each scene advances the story.",
+        "每一幕都推动了故事的发展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advances#English",
+      "https://en.wiktionary.org/wiki/advance#English"
+    ]
+  },
+  {
+    "word": "allegations",
+    "ipa": "/ˌæləˈɡeɪʃənz/",
+    "meaning": "尚待证实的指控、说法〔复数〕",
+    "sense": "有人把怀疑的事情正式提出来，但事情还没被证实，这些就是 allegations。重点在有人这样指称，不在于它已成事实。",
+    "split": "allegation 经古法语 alegacion 或直接借拉丁 allegatio，连到 allegare 提出、举作证据。现代加 -s，/n/ 后读 /z/；不是必须先经现代英语 allege 才有名词。",
+    "history": [
+      [
+        "拉丁 allegare、allegatio → 法语或直接英语 allegation",
+        "提出主张、举证 → 提出的指控"
+      ],
+      [
+        "allegation + -s → allegations",
+        "多项待查的指控、说法"
+      ]
+    ],
+    "explanation": "deny allegations 否认指控；investigate allegations 调查指控；allegations of misconduct 对不当行为的指控。",
+    "usage": "serious allegations 严重的指控；respond to the allegations 回应这些指控。",
+    "contrast": "allegations 是有人提出的说法，不能在转述时直接删去这个词，把尚待证实的事写成已经认定的事实。",
+    "examples": [
+      [
+        "She denied the allegations.",
+        "她否认了这些指控。"
+      ],
+      [
+        "The report examines the allegations in detail.",
+        "报告详细审视了这些指控。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/allegations#English",
+      "https://en.wiktionary.org/wiki/allegation#English"
+    ]
+  },
+  {
+    "word": "anticipated",
+    "ipa": "英 /ænˈtɪsɪpeɪtɪd/；美 /ænˈtɪsəpeɪtɪd/",
+    "meaning": "预料到了、期待的；事先考虑到〔过去式、过去分词〕",
+    "sense": "事情还没到眼前，你已经在心里看见它、算到它，是 anticipated。若对象是好事，语境还能带出盼望的意味。",
+    "split": "anticipate 连拉丁 anti- 在前与 capere 拿取形成的 anticipare，有借拉丁分词或从 anticipation 逆构分析。现代去 e 加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 anticipare、anticipatus；较早 anticipation → anticipate",
+        "事先取得、抢先 → 预料、预先考虑"
+      ],
+      [
+        "anticipate 去 e + -ed → anticipated",
+        "已经料到；事先期待的"
+      ]
+    ],
+    "explanation": "as anticipated 正如预料；anticipated problems 预料到的问题；a highly anticipated book 备受期待的书。",
+    "usage": "earlier than anticipated 比预料的早；anticipated the question 事先料到了这个问题。",
+    "contrast": "anticipated 不总是高兴地盼望，也可以料到困难。anticipated problems 是预料中的问题，不是盼着问题发生。",
+    "examples": [
+      [
+        "The work took longer than we had anticipated.",
+        "这项工作比我们预料的花了更长时间。"
+      ],
+      [
+        "It was the most anticipated book of the season.",
+        "这是那一季最受期待的一本书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anticipated#English",
+      "https://en.wiktionary.org/wiki/anticipate#English"
+    ]
+  },
+  {
+    "word": "bleeding",
+    "ipa": "/ˈbliːdɪŋ/",
+    "meaning": "流血；渗色、不断流失〔现在分词、动名词及相关名词〕",
+    "sense": "原本在里面的东西不断流出来，是 bleeding 的共同画面：血从伤口流，染料向旁边渗，资源也能借这个词说不断流失。",
+    "split": "bleed 接古英语 bledan，早已由血的日耳曼材料形成；blood 和 bleed 的元音差来自旧变化。现代 bleed 直接加 -ing，两个 e 都保留。",
+    "history": [
+      [
+        "古英语血的材料 → bledan → bleed",
+        "流血；后来扩展渗开、持续流失"
+      ],
+      [
+        "bleed + -ing → bleeding",
+        "正在流出；流血、渗色这类过程"
+      ]
+    ],
+    "explanation": "a bleeding finger 流血的手指；colours bleeding into each other 颜色相互渗开；bleeding money 不断亏钱〔比喻〕。",
+    "usage": "bleeding ink 渗开的墨水；a bleeding wound 出血的伤口。",
+    "contrast": "bleeding 里的 bleed 不是 blood 后面加过去词尾。colour bleeding、ink bleeding 往往是颜色越过原边界，不是说颜料有血。",
+    "examples": [
+      [
+        "In the story, he noticed his finger was bleeding.",
+        "故事里，他发现自己的手指在流血。"
+      ],
+      [
+        "The ink is bleeding into the paper.",
+        "墨水正在向纸张里渗开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bleeding#English",
+      "https://en.wiktionary.org/wiki/bleed#English"
+    ]
+  },
+  {
+    "word": "careers",
+    "ipa": "英 /kəˈrɪəz/；美 /kəˈrɪrz/",
+    "meaning": "职业生涯、事业道路〔复数〕；快速冲行〔第三人称单数〕",
+    "sense": "一个人多年工作的走向像一条路，是 career；几个人各自走过的职业道路，就是 careers。作动词时它还保留在路上猛冲的老画面。",
+    "split": "career 经法语 carriere 的道路、赛道材料，较远接拉丁车辆、车行道路词族。现代直接加 -s，英音 /ə/ 后接 /z/，美音保留 /r/。",
+    "history": [
+      [
+        "车行道路材料 → 法语 carriere → career",
+        "赛道、行进路程 → 人生与职业历程"
+      ],
+      [
+        "career + -s → careers",
+        "多段或多人的职业生涯；某物快速冲行"
+      ]
+    ],
+    "explanation": "careers in teaching 教学领域的职业道路；change careers 改行；careers across the field 快速冲过田野。",
+    "usage": "their early careers 他们职业生涯的早期；different careers 不同职业道路。",
+    "contrast": "jobs 是一份份工作，careers 常把多年经历连成发展道路。动词 careers 较少见，遇到车或人猛冲的句子时可辨认即可。",
+    "examples": [
+      [
+        "They began their careers at the same school.",
+        "他们在同一所学校开始了职业生涯。"
+      ],
+      [
+        "The exhibition explores the careers of three artists.",
+        "这个展览回顾了三位艺术家的创作生涯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/careers#English",
+      "https://en.wiktionary.org/wiki/career#English"
+    ]
+  },
+  {
+    "word": "celebrities",
+    "ipa": "/səˈlebrətiz/，也读 /sɪˈlebrɪtiz/",
+    "meaning": "名人、公众熟知的人〔复数〕",
+    "sense": "很多人都知道他们、关注他们，这些有名的人是 celebrities。职业可以不同，共同点是公众知名度。",
+    "split": "celebrity 接法语、拉丁 celebritas，先有名气等意义，再转指有名的人。现代把结尾 y 改成 i，加 -es；不是从 celebrate 随意删字母形成。",
+    "history": [
+      [
+        "拉丁 celeber、celebritas → 法语、英语 celebrity",
+        "人多、著名、名声等 → 有名的人"
+      ],
+      [
+        "celebrity → celebrities：y 改 i，加 -es",
+        "多位名人"
+      ]
+    ],
+    "explanation": "local celebrities 当地名人；television celebrities 电视名人；photographs of celebrities 名人照片。",
+    "usage": "several celebrities 几位名人；celebrities at the event 活动中的名人。",
+    "contrast": "celebrities 强调出名，不保证他们都是演员，也不等于 experts 专家。celebrate 是庆祝、赞颂的动词，同族联系不等于现代直接派生。",
+    "examples": [
+      [
+        "Several celebrities attended the exhibition.",
+        "几位名人出席了展览。"
+      ],
+      [
+        "The magazine publishes interviews with local celebrities.",
+        "这本杂志刊登对当地名人的采访。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebrities#English",
+      "https://en.wiktionary.org/wiki/celebrity#English"
+    ]
+  },
+  {
+    "word": "contributing",
+    "ipa": "/kənˈtrɪbjuːtɪŋ/",
+    "meaning": "贡献、提供；促成、起作用〔现在分词、动名词〕",
+    "sense": "每个人拿出自己的一份，是 contributing；几个因素各推了一把、合起来造成某个结果，也叫 contributing。",
+    "split": "拉丁 con- 一起 + tribuere 分给、付出，形成 contribuere，英语接 contributus 材料。现代 contribute 去末尾 e，加完整 -ing。",
+    "history": [
+      [
+        "拉丁 contribuere、contributus → contribute",
+        "一起付出 → 贡献、提供一份"
+      ],
+      [
+        "contribute 去 e + -ing → contributing",
+        "正在贡献；作为促成结果的因素"
+      ]
+    ],
+    "explanation": "contributing ideas 提供想法；contributing to the project 为项目出力；a contributing factor 促成因素。",
+    "usage": "contributing articles 投稿；contributing to the delay 造成延误的因素之一。",
+    "contrast": "contributing to a result 不保证结果是好事。lack of planning is contributing to delays 就是计划不足也在造成延误。",
+    "examples": [
+      [
+        "Everyone is contributing ideas to the project.",
+        "每个人都在为项目提供想法。"
+      ],
+      [
+        "Poor lighting was a contributing factor.",
+        "光线不佳是促成问题的因素之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contributing#English",
+      "https://en.wiktionary.org/wiki/contribute#English"
+    ]
+  },
+  {
+    "word": "essays",
+    "ipa": "名词 /ˈeseɪz/；动词 /eˈseɪz/",
+    "meaning": "短文、论说文〔复数〕；尝试〔第三人称单数，较正式〕",
+    "sense": "围绕一个题目，用一篇文章试着想清楚、说清楚，是 essay 的文章画面。几篇这样的文章，是 essays。",
+    "split": "essay 借法语 essai 尝试、检验，较远接拉丁 exagium 称量。现代元音字母 a 后接 y，直接加 -s，y 不改，词尾读 /z/；名动词重音不同。",
+    "history": [
+      [
+        "拉丁 exagium → 法语 essai → essay",
+        "称量、检验 → 尝试、探讨题目的文章"
+      ],
+      [
+        "essay + -s → essays",
+        "多篇短文；较正式动词三单可表示尝试"
+      ]
+    ],
+    "explanation": "write essays 写短文；a collection of essays 一部随笔或论说文集；essays on art 谈艺术的文章。",
+    "usage": "student essays 学生作文；critical essays 评论文章。",
+    "contrast": "essays 通常是文章名词复数，重音在前。动词的尝试义较少见，重音在后；先掌握最常用的写作、文章场景即可。",
+    "examples": [
+      [
+        "The students wrote essays about their hometowns.",
+        "学生们写了介绍各自家乡的文章。"
+      ],
+      [
+        "She published a collection of essays on art.",
+        "她出版了一部谈艺术的文集。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/essays#English",
+      "https://en.wiktionary.org/wiki/essay#English"
+    ]
+  },
+  {
+    "word": "fathers",
+    "ipa": "英 /ˈfɑːðəz/；美 /ˈfɑːðərz/",
+    "meaning": "父亲们；创始者、先驱们〔复数〕；成为……之父〔第三人称单数〕",
+    "sense": "几位父亲是 fathers；把某个领域最早奠基的人比作父亲，也会称它的 fathers。后者是来源、开创的比喻。",
+    "split": "father 继承古英语 faeder，经中古英语 fader；与拉丁 pater 是远处同源关系，不是借来的拉丁词。现代加 -s，/ð/ 后接英音 /ə/ 或美音 /ər/，再读 /z/。",
+    "history": [
+      [
+        "古英语 faeder → 中古英语 fader → father",
+        "父亲；后来比喻创始者、先驱"
+      ],
+      [
+        "father + -s → fathers",
+        "多位父亲、先驱；动词三单同形"
+      ]
+    ],
+    "explanation": "fathers and children 父亲与孩子们；founding fathers 奠基者、创始者；the fathers of a movement 某运动的先驱。",
+    "usage": "their fathers 他们的父亲；fathers at the school 学校里的孩子父亲们。",
+    "contrast": "fathers 是复数，father’s 带撇号常表示父亲的，fathers’ 则常表示多位父亲的。先分清复数，再看有没有所有格标记。",
+    "examples": [
+      [
+        "Several fathers helped at the school fair.",
+        "几位父亲在学校义卖活动上帮忙。"
+      ],
+      [
+        "The book describes the fathers of the movement.",
+        "这本书介绍了那场运动的奠基者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fathers#English",
+      "https://en.wiktionary.org/wiki/father#English"
+    ]
+  }
+]

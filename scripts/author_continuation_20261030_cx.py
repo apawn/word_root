@@ -1,0 +1,70 @@
+"""Boat: action, people and boats named by power or purpose."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+B=[['古英语 bāt → 中古英语 bot、boot 等 → boat','船、较小的船舶；更远与劈木等联系的解释不强定'],['英语 boat 与用途、动力合成','乘船、划船；按帆、桨、牵引和渡运给船命名']]
+def H(f,m):return B+[[f,m]]
+W('boat','英 /bəʊt/；美 /boʊt/','船、小船；乘船、划船等〔动词〕',
+ '浮在水上载人、载物的工具。日常常指较小船只，但实际名称也有传统例外，不靠一个绝对尺寸界线区分 boat、ship。',
+ '本族词，接古英语 bāt，经中古英语延续。更远常联系劈开的木材等重建，近源先记可靠旧形；动词由船名发展。',B,
+ 'by boat 乘船，a fishing boat 渔船，rock the boat 字面摇船，也可比喻打乱既有局面；in the same boat 同处一种处境。',
+ 'by boat；a fishing boat；rock the boat；in the same boat。',
+ 'boat 常较小、ship 常较大型，但用名有例外；in the same boat 是处境相同，不要求两个人真一起坐船。',
+ ('We crossed the lake by boat.','我们乘船穿过了湖。'),('We are all in the same boat with this difficult deadline.','面对这个紧迫期限，我们的处境都一样。'))
+W('boating','英 /ˈbəʊtɪŋ/；美 /ˈboʊtɪŋ/','乘船、划船、泛舟活动',
+ '不先限定是帆船还是机动小船，而是统称在水上用船活动，常见休闲语境。',
+ 'boat + -ing，活动名词、分词用法。-ing 不是每次都必须译成正在，go boating 是去泛舟、玩船。',H('boat + -ing → boating','乘船、用船活动'),
+ 'go boating 去泛舟，a boating holiday 水上游船假期，boating equipment 舟艇活动装备。',
+ 'go boating；a boating holiday；boating equipment。',
+ 'boating 泛称，rowing 明确划桨，sailing 明确帆航等；不见 boating 就断言一定双手划桨。',
+ ('They went boating on the lake after lunch.','午饭后他们去湖上泛舟。'),('The club organizes boating activities for its members.','俱乐部为会员组织舟艇活动。'))
+W('boatman','英 /ˈbəʊtmən/；美 /ˈboʊtmən/','船夫、操船者',
+ '以操船、运人等为工作的人；故事里常是在河上把旅客送到对岸的船夫。',
+ 'boat + man，来自中古英语 boteman 等旧组合，复数 boatmen。职业现代也可用 boat operator 等不限定性别的表达。',H('boat + man → boatman','操船、以船运人为业者'),
+ 'a local boatman 当地船夫，hire a boatman 请船夫，an experienced boatman 有经验的操船者。',
+ 'a local boatman；an experienced boatman；hire a boatman。',
+ 'boatman 常职业操船，passenger 乘客；不是船上每一个男性乘客都自然叫 boatman。',
+ ('The boatman took us across the river.','船夫送我们过了河。'),('An experienced boatman guided the small vessel through the channel.','一位有经验的操船者引导小船穿过水道。'))
+W('boater','英 /ˈbəʊtə/；美 /ˈboʊtər/','乘船、玩船者；平顶硬草帽',
+ '用船活动的人是 boater；过去晴天坐船常戴的平顶硬草帽，也借这类活动称呼来叫。',
+ 'boat + -er，中古英语已有人物形式。草帽义由与乘船活动的关联命名，后来成为特定帽型名称。',H('boat + -er → boater','用船者；借活动关联命名平顶硬草帽'),
+ 'recreational boaters 休闲玩船者，a straw boater 平顶草帽，wear a boater 戴平顶草帽。',
+ 'recreational boaters；a straw boater；wear a boater。',
+ 'boater 人物义比 boatman 职业更宽，boater 帽子义不要求佩戴者一定在船上。',
+ ('The harbour is popular with recreational boaters.','这个港口很受休闲玩船者欢迎。'),('He wore a straw boater in the summer parade.','夏日游行时，他戴了一顶平顶草帽。'))
+W('sailboat','英 /ˈseɪlbəʊt/；美 /ˈseɪlboʊt/','帆船〔尤美式〕',
+ '竖起帆，利用风来推动，是命名重点。即使另有辅助发动机，也可以仍叫 sailboat。',
+ 'sail 帆 + boat 船，按主要帆航用途、动力结构命名；英式也常用 sailing boat。',H('sail + boat → sailboat','以帆航为特点的船'),
+ 'a small sailboat 小帆船，sail a sailboat 驾帆船，a sailboat mast 帆船桅杆。',
+ 'a small sailboat；a sailboat mast；sail a sailboat。',
+ 'sailboat 帆船，sail 单独可帆、航行；不是一块帆布就等于一整艘船。',
+ ('A small sailboat crossed the bay.','一艘小帆船驶过海湾。'),('They lowered the sailboat’s sail before entering the harbour.','进港前，他们降下了帆船的帆。'))
+W('rowboat','英 /ˈrəʊbəʊt/；美 /ˈroʊboʊt/','划艇、用桨划的小船〔尤美式〕',
+ '人握桨划水，船就前进；名字直接说划行这种动力。',
+ 'row 划桨 + boat 船。row 这里读 /rəʊ/、/roʊ/，不读吵架的 /raʊ/。英式也常说 rowing boat。',H('row + boat → rowboat','以划桨行进的小船'),
+ 'rent a rowboat 租划艇，a wooden rowboat 木划艇，row a rowboat 划小船。',
+ 'a wooden rowboat；rent a rowboat；row a rowboat。',
+ 'rowboat 划桨船，motorboat 机动船；row 的划桨义与 a row 争吵读音、来源用法不同。',
+ ('We rented a rowboat for an hour.','我们租了一小时划艇。'),('A wooden rowboat was tied to the dock.','一条木划艇系在码头边。'))
+W('tugboat','英 /ˈtʌɡbəʊt/；美 /ˈtʌɡboʊt/','拖船',
+ '船体可以不大，但很有力气，负责拖、推或协助更大的船移动。不是船越大才越会拖。',
+ 'tug 用力拉 + boat 船，按协助其他船移动的任务命名。实际可拖也可推。',H('tug + boat → tugboat','拖推、协助其他船舶移动的船'),
+ 'a harbour tugboat 港口拖船，a powerful tugboat 有力拖船，tugboats guide a ship 拖船协助引导船只。',
+ 'a harbour tugboat；a powerful tugboat；a tugboat crew。',
+ 'tugboat 协助移动，ferryboat 渡运人车；两者都能在港口出现，主要任务不同。',
+ ('A tugboat helped the large ship enter the harbour.','拖船协助大船进港。'),('The tugboat pushed the barge toward the dock.','拖船把驳船推向码头。'))
+W('ferryboat','英 /ˈferibəʊt/；美 /ˈferiboʊt/','渡船',
+ '两岸或岛与陆地之间来回接送乘客、车辆的船。路线服务比具体船形更能抓住用途。',
+ 'ferry 渡运 + boat 船，按运输任务命名，常可直接简称 ferry。',H('ferry + boat → ferryboat','渡运乘客、车辆等的船'),
+ 'take a ferryboat 乘渡船，a ferryboat service 渡船服务，a car ferryboat 载车渡船。',
+ 'take a ferryboat；a ferryboat service；a ferryboat crossing。',
+ 'ferryboat 渡运用途，rowboat 划桨动力；渡船可以有不同动力和大小，不是固定的一种小木船。',
+ ('The ferryboat carries passengers between the islands.','渡船在岛屿之间运送乘客。'),('We watched the cars drive onto the ferryboat.','我们看着汽车驶上渡船。'))
+R('B2943','船；活动、人物、动力和用途命名','BOAT：浮水载人载物，前面的词说明动力或任务','boat → boating、boatman、boater；sailboat、rowboat、motorboat、speedboat、powerboat 按动力；tugboat、ferryboat、lifeboat、gunboat 按用途；住所、场所与比喻再分组。',
+ '多数常见合成已有精讲，在船的基本画面下复习；生僻海事职务和历史艇名暂略。分类看侧重点，不当互斥的技术分类表。',
+ 'boat + -ing/-er/man/load；sail/row/motor/speed/power/tug/ferry/life/gun/river/house + boat；boat + house/yard。',
+ [['基本词、活动和人物','boat · boating · boatman · boater'],['动力、速度和航区','sailboat · rowboat · motorboat · speedboat · powerboat · riverboat'],['任务与运量','tugboat · ferryboat · lifeboat · gunboat · boatload'],['住所、场所和比喻','houseboat · boathouse · boatyard · showboat · dreamboat']],
+ 'boating 泛称、rowing 划桨；boater 人或帽；sailboat可有辅助机；tugboat可推也可拖；boat/ship没有处处适用的单一大小线。',
+ 'A tugboat guided the ferryboat past a small sailboat.\n\n拖船引导渡船驶过一艘小帆船。',
+ 'boat boating boatman boater sailboat rowboat motorboat speedboat powerboat riverboat tugboat ferryboat lifeboat gunboat boatload houseboat boathouse boatyard showboat dreamboat')
+if __name__=='__main__':save('continuation_20261030_cx',ROOTS,WORDS)

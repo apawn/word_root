@@ -1,0 +1,183 @@
+[
+  {
+    "id": "B4586",
+    "meaning": "抓刮表面，带出痕迹、工具、触觉和比喻",
+    "core": "SCRATCH：划一下表面，浅痕和刮人的感觉都跟着来",
+    "image": "scratch → scratchy、scratcher；from scratch 从体育起点线走到从头开始。",
+    "intro": "触觉能串起多数词，固定短语再单独配画面：起点线是 from scratch，浅表了解是 scratch the surface。",
+    "forms": "scracchen 等 → scratch；-y 性质，-er 人或工具。更早近形词来源未定。",
+    "branches": [
+      [
+        "动作、感受与工具",
+        "scratch · scratchy · scratcher"
+      ]
+    ],
+    "contrasts": "scratchy 可以形容声音；scratcher 不只人；from scratch 是从基本起点做。",
+    "practice": "They made the cat scratcher from scratch.\n\n他们从头动手做了那个猫抓用品。",
+    "words": [
+      "scratch",
+      "scratchy",
+      "scratcher"
+    ],
+    "exclude": {
+      "scratch-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3479",
+    "meaning": "勇敢、能干的旧义，分出热切、敏锐、强烈",
+    "core": "KEEN：心思有劲、感受很深、眼力很敏锐",
+    "image": "keen → keener、keenly、keenness。",
+    "intro": "现代可用锐、强的画面串联，但历史上不必认定一切都从刀刃义开始。比较级、方式、抽象品质各放在自己的位置。",
+    "forms": "cēne → kene → keen；比较级 -er，人物 -er，-ly 方式，-ness 品质。",
+    "branches": [
+      [
+        "性质、比较与方式",
+        "keen · keener · keenly"
+      ],
+      [
+        "抽象品质",
+        "keenness"
+      ]
+    ],
+    "contrasts": "keen on 与 keen to 语法不同；keenly 可说深切痛苦；keenness 的 nn 来自词干与后缀相接。",
+    "practice": "Her keenness to learn made her keenly aware of every mistake.\n\n强烈的学习愿望，让她敏锐意识到每一次错误。",
+    "words": [
+      "keen",
+      "keener",
+      "keenly",
+      "keenness"
+    ],
+    "exclude": {
+      "keen-witted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3736",
+    "meaning": "植物顶端、剪取与收成，再看出露、栽跟头的分支",
+    "core": "CROP：顶端能收，外边能裁，地下东西也能冒出来",
+    "image": "crop → outcrop、cropper；cropland 是种作物的土地。",
+    "intro": "主线用作物与裁剪理解，地质 outcrop 用露出来的部分理解；come a cropper 则整组认识，历史细节不硬编。",
+    "forms": "cropp → crop；out- 出露，land 土地；cropper 的摔倒义可能联系旧顶部、头部义。\n\n植物顶端等旧义，连接收取作物与剪短、裁去边缘。",
+    "branches": [
+      [
+        "作物、裁剪与土地",
+        "crop · cropland"
+      ],
+      [
+        "出露与固定习语",
+        "outcrop · cropper"
+      ],
+      [
+        "crop → crops：植物顶端、收成与裁剪",
+        "crop · crops"
+      ]
+    ],
+    "contrasts": "crop up 是冒出来；outcrop 是出露部分；come a cropper 是栽跟头，不按每个 -er 都造人物。",
+    "practice": "A new problem cropped up near the rocky outcrop.\n\n岩石露头附近又冒出了一个新问题。",
+    "words": [
+      "crop",
+      "cropland",
+      "outcrop",
+      "cropper",
+      "crops"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4480",
+    "meaning": "整理、打扮及相应过程、材料，复合后明确领域",
+    "core": "DRESSING：给某物整理、处理，具体材料随对象变化",
+    "image": "dress → dressing；hairdressing 用 hair 限定头发造型。",
+    "intro": "给人穿衣、给食物加调味、给伤口敷料，现代 dressing 已各有固定分支；hairdressing 则直接把范围拉到头发处理。",
+    "forms": "dress + -ing → dressing；hair 头发 + dressing → hairdressing。\n\n法语 dresser 接使直、摆正词族，连衣裙名是后来的专门化。",
+    "branches": [
+      [
+        "动作与多义名词",
+        "dress · dressing"
+      ],
+      [
+        "头发造型领域",
+        "hairdressing"
+      ],
+      [
+        "dress → dresses：整理、穿衣到一件件连衣裙",
+        "dress · dresses"
+      ]
+    ],
+    "contrasts": "salad dressing 沙拉调味汁，wound dressing 伤口敷料；hairdressing 不是给头发穿衣服。",
+    "practice": "She studied hairdressing and later opened a small salon.\n\n她学习美发，后来开了一家小沙龙。",
+    "words": [
+      "dress",
+      "dressing",
+      "hairdressing",
+      "dresses"
+    ],
+    "exclude": {
+      "cross-dressing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3481",
+    "meaning": "同一、身份的关系，走向识别、证件与认同",
+    "core": "IDENTIFICATION：把眼前对象和正确身份对上号",
+    "image": "identity → identify → identification；misidentification 是对错了身份。",
+    "intro": "身份是什么、怎样认出、如何证明，三个层次分别用词。-ification 这层名词形式要看完整，误识别再由 mis- 给方向。",
+    "forms": "identité、identifier 等法语词族 → identity、identify、identification；-ify 对应 -ification，mis- 错误。",
+    "branches": [
+      [
+        "身份、识别与识别名词",
+        "identity · identify · identification"
+      ],
+      [
+        "识别错误",
+        "misidentification"
+      ]
+    ],
+    "contrasts": "identification 可直接说证件；with 常引心理认同对象；不是每次都逐字译成识别。",
+    "practice": "Accurate identification helps prevent misidentification.\n\n准确识别有助于避免认错对象。",
+    "words": [
+      "identity",
+      "identify",
+      "identification",
+      "misidentification"
+    ],
+    "exclude": {
+      "self-identification": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4054",
+    "meaning": "邀请的行为、信息与受邀参加的活动性质",
+    "core": "INVITATION：邀请一发出，活动可以按受邀制组织",
+    "image": "invite → invitation → invitational。",
+    "intro": "invite 是邀请，invitation 是邀请本身或邀请函，invitational 则常落到受邀参加的比赛、活动上。",
+    "forms": "invite 词族 → invitation；-al 形成性质，再转为赛事名词。\n\n法语借入或从 invitation 反构的历史可能并存，更早构成不强拆。\n\n按现代词形学动词和名词，历史上 invitation 借入较早，invite 有借入及逆构分析。",
+    "branches": [
+      [
+        "动作、信息与活动类型",
+        "invite · invitation · invitational"
+      ],
+      [
+        "invite → invited：邀请与招致",
+        "invite · invited"
+      ],
+      [
+        "invite、invitation → invitations：邀请与邀请函",
+        "invite · invitation · invitations"
+      ]
+    ],
+    "contrasts": "invitational 不只一个形容词，也可名词说邀请赛；invitation 本身不是参赛选手。",
+    "practice": "The invitation arrived a month before the invitational tournament.\n\n邀请函在邀请赛前一个月寄到。",
+    "words": [
+      "invite",
+      "invitation",
+      "invitational",
+      "invited",
+      "invitations"
+    ],
+    "exclude": {
+      "e-invitation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

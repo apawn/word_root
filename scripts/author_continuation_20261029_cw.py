@@ -1,0 +1,100 @@
+"""Fly and flight: forms, insects and specialized compounds."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[a+'；'+b,'并列构词部分'],[w,m]]
+FL=[['古英语 flēogan；昆虫名词 flēoge 等','飞行动词与飞虫名词的历史相关词族'],['英语 fly','飞、快速移动；苍蝇；不同复合词各有固定对象']]
+W('fly','/flaɪ/','飞；乘飞机；迅速移动；苍蝇',
+ '人在飞机里、鸟在空中、东西快速穿过，都能用飞的动作；名词则常是苍蝇。',
+ '动词接古英语 flēogan，昆虫名词有 flēoge 等相关历史形式。不规则动词 fly—flew—flown；flies 既能是苍蝇复数，也能是动词第三人称单数。',FL,
+ 'fly to London 飞往伦敦，time flies 时间飞逝；a fly 一只苍蝇。裤子的 fly 另指前开口结构，不能看到它就译虫；That won’t fly 口语可说那说不通、行不通。',
+ 'fly to；time flies；on the fly；a house fly。',
+ 'fly 飞，flee 逃离是另一个动词；fly—flew—flown 与 flee—fled—fled 分开。',
+ ('We flew to the island early in the morning.','我们清早乘飞机去了那座岛。'),('A fly landed on the window.','一只苍蝇落在窗上。'))
+W('flying','/ˈflaɪɪŋ/','飞行；飞着的；迅速而顺利的〔固定搭配〕',
+ '既是飞的过程，也能描绘东西正在空中运动；a flying start 则像起步就已经有了速度。',
+ 'fly + -ing，现代保留 y，不改成 fliing；相应历史分词形式可上接古英语。固定比喻逐项记，不把每个 flying 都译正在飞。',FL+[['fly + -ing → flying','飞行过程、飞着的 → 部分速度、顺利比喻']],
+ 'a flying bird 飞鸟，a fear of flying 对飞行的恐惧；get off to a flying start 开局顺利，pass with flying colours 出色通过。',
+ 'a flying bird；a flying start；flying lessons；with flying colours。',
+ 'flying colours 是固定的出色成功表达，不是颜料在飞；flying 也与 flight 航班、飞行名词的句法位置不同。',
+ ('She is taking flying lessons.','她正在学习驾驶飞机。'),('The project got off to a flying start.','项目开局非常顺利。'))
+W('flight','/flaɪt/','飞行；航班；一段楼梯；另有逃离义',
+ '飞行可以是一段旅程，所以一班飞机也叫 flight；楼梯则把连续一段台阶看成一组向上、向下的行程。',
+ '飞行义接古英语 flyht，与 fly 历史相关；逃离义还与古英语 flēon 逃跑的词族交叠，不把两条旧动词都当成现代 fly。同一个 -ight 不构成现代通用飞行后缀。',
+ [['古英语 flyht 飞行；另有逃离相关旧形式','分别联系飞与逃的历史词族'],['英语 flight','飞行、航班；逃离；连续一段楼梯等固定义']],
+ 'book a flight 订航班，in flight 飞行中，a flight of stairs 一段楼梯；flight from danger 逃离危险，依上下文别误译成所有人都坐飞机逃走。',
+ 'a direct flight；catch a flight；a flight of stairs；in flight。',
+ 'flight 航班，fly 动作；a flight of stairs 通常指两平台之间连续一段台阶，不一定等于一整层楼的所有楼梯。',
+ ('Our flight leaves at six in the morning.','我们的航班早上六点起飞。'),('The office is up two flights of stairs.','办公室要上两段楼梯才能到。'),sources=['https://en.wiktionary.org/wiki/flight#English','https://www.etymonline.com/word/flight'])
+W('flyer','英 /ˈflaɪə/；美 /ˈflaɪər/','飞行者；常乘飞机者；传单',
+ '能飞、经常乘飞机的人是一支；街头发的一张宣传纸也叫 flyer，是固定的传单义。',
+ 'fly + -er，形成飞行者等名词；传单义是后来独立固定的引申，不把传单一定曾被从飞机扔下写成唯一来源。也有 flier 拼写，两种在不同地区、编辑习惯里分布不同。',FL+[['fly + -er → flyer','飞行者、乘机者；后来也指宣传单页']],
+ 'a frequent flyer 常乘飞机的人，hand out flyers 发传单；flyer 在宣传语里也可泛指单页广告。',
+ 'a frequent flyer；hand out flyers；a promotional flyer。',
+ 'flyer 传单不等于所有报纸、册子；flier 与 flyer 常是同词拼写变体，不能武断说其中一种一律错。',
+ ('She is a frequent flyer because of her work.','她因工作经常乘飞机。'),('Volunteers handed out flyers for the concert.','志愿者为音乐会发传单。'))
+W('butterfly','英 /ˈbʌtəflaɪ/；美 /ˈbʌtərflaɪ/','蝴蝶；蝶泳；紧张不安〔复数搭配〕',
+ '先是蝴蝶；紧张时肚子里像有小翅膀乱扑腾，就借 butterflies 说那种心慌感。',
+ '古英语 buterflēoge 已有 butter 黄油 + fly 飞虫的组合；为什么用黄油命名有颜色、旧俗等不同解释，不能定成蝴蝶真的吃奶油。蝶泳和紧张感是后来的比喻。',
+ [['古英语 buterflēoge → butterfly','黄油相关部分 + 飞虫；具体命名动机不确定'],['butterfly、butterflies 的固定引申','蝴蝶；蝶泳；肚中扑腾般紧张感']],
+ 'a butterfly on a flower 花上的蝴蝶，swim butterfly 游蝶泳；have butterflies in your stomach 紧张、心里七上八下。',
+ 'a butterfly；butterfly wings；swim butterfly；have butterflies。',
+ 'butterfly 不是 flutter by 两词颠倒的真实词源；have butterflies 是情绪比喻，不是说肚里真的有昆虫。',
+ ('A butterfly settled on the flower.','一只蝴蝶落在花上。'),('I had butterflies in my stomach before the interview.','面试前，我心里七上八下。'),sources=['https://en.wiktionary.org/wiki/butterfly#English','https://www.etymonline.com/word/butterfly'])
+W('dragonfly','/ˈdræɡənflaɪ/','蜻蜓',
+ '一个固定昆虫名：修长身体、张开的翅膀和飞行动作，让名字保留了 dragon 的想象色彩。',
+ 'dragon 龙 + fly 飞虫，透明的历史组合；具体为什么选 dragon 的命名细节不能仅靠外形比喻确定。词根 fly 在旧动物名里比现代苍蝇分类宽。',C('dragon 龙','fly 飞虫','dragonfly','蜻蜓的固定昆虫名'),
+ 'a dragonfly over a pond 池塘上飞的蜻蜓；名字里的 dragon 不意味着它属于神话动物或会喷火。',
+ 'a dragonfly；dragonfly wings；a dragonfly over the water。',
+ 'dragonfly 蜻蜓与 butterfly 蝴蝶是不同昆虫；结尾有 fly 也不说明它们属于现代生物分类的真蝇。',
+ ('A dragonfly hovered above the pond.','一只蜻蜓悬停在池塘上方。'),('She photographed a dragonfly resting on a reed.','她拍下了一只停在芦苇上的蜻蜓。'))
+W('mayfly','/ˈmeɪflaɪ/','蜉蝣',
+ '常在水边成群出现的飞虫，成虫阶段很短，但此前往往已在水里生活相当一段时间。',
+ 'May 五月 + fly 飞虫，按部分地区显著的季节出现现象命名。不是所有种类、所有地区都只在五月出现；也不能从名字或朝生暮死说法推出整个生命只有一天。',C('May 五月','fly 飞虫','mayfly','按季节出现特点命名的蜉蝣'),
+ 'mayflies over a river 河面上的蜉蝣；生命周期的大部分通常在水中幼期，成虫短暂是另一阶段。不同种类、环境持续时间不同。',
+ 'a mayfly；a swarm of mayflies；mayfly nymphs。',
+ 'mayfly 的 May 是月份，不是表示可能的 may；fly 是旧飞虫泛称，不等于现代真蝇分类。',
+ ('Mayflies gathered above the river at dusk.','黄昏时，蜉蝣在河面上聚集。'),('The guide explains that a mayfly spends much of its life in water.','讲解说明，蜉蝣一生中有很长一段时间生活在水里。'),sources=['https://en.wiktionary.org/wiki/mayfly#English','https://genent.cals.ncsu.edu/insect-identification/order-ephemeroptera/'])
+W('gadfly','/ˈɡædflaɪ/','叮咬牲畜的虻类飞虫；不断质疑、刺激他人思考的人',
+ '像虻叮一下，让牛无法安稳待着；放到人群里，就是总追问、把大家从安逸里戳醒的人。',
+ 'gad 旧尖刺、赶牲畜的尖杆 + fly，常按叮刺的画面解释；历史还与游走等用法交缠，命名细节不必强定唯一。人物义由持续刺激、烦扰的比喻形成。',C('gad 旧尖刺、尖杆词','fly 飞虫','gadfly','叮扰牲畜的虫 → 持续刺激、质疑的人'),
+ 'a political gadfly 不断质疑权力、惯例的政界批评者，an intellectual gadfly 不断刺激思想的人；语气可欣赏其追问，也可嫌其烦扰。',
+ 'a political gadfly；an intellectual gadfly；a gadfly to the establishment。',
+ 'gadfly 不一定只是爱找碴的坏人，评价看语境；buzzkill 更偏扫兴，gadfly 更偏不断刺激、挑战现状。',
+ ('The columnist became a gadfly to the local authorities.','专栏作者成了不断质疑当地当局的人。'),('The essay describes Socrates as an intellectual gadfly.','文章把苏格拉底描述为不断刺激人们思考的人。'),sources=['https://en.wiktionary.org/wiki/gadfly#English','https://www.etymonline.com/word/gadfly'])
+W('flycatcher','英 /ˈflaɪkætʃə/；美 /ˈflaɪkætʃər/','鹟等捕飞虫的鸟；捕蝇器',
+ '名字直接说捕捉飞虫者；最常见是以捕捉飞虫为特点的鸟名，器具语境也可指捕蝇装置。',
+ 'fly 飞虫 + catcher 捕捉者。按食性、功能命名；鸟名所涵盖分类有专门范围，不是所有吃过苍蝇的鸟都随时改叫 flycatcher。',C('fly 飞虫','catcher 捕捉者','flycatcher','捕飞虫鸟类名称；也有捕蝇器用法'),
+ 'a spotted flycatcher 斑鹟，a flycatcher in the garden 花园里的鹟；自然观察时要看具体种名、地区。',
+ 'a spotted flycatcher；a flycatcher on a branch；a garden flycatcher。',
+ 'flycatcher 常见是鸟，flytrap 常见是陷阱或捕虫植物名；不能只把两者都译成抓苍蝇的就抹掉对象。',
+ ('A flycatcher waited on the branch.','一只鹟停在枝上等候。'),('The birdwatcher photographed a spotted flycatcher.','观鸟者拍到了一只斑鹟。'))
+W('flytrap','/ˈflaɪtræp/','捕蝇器；捕虫植物相关名称',
+ '让苍蝇进去后不易逃出的装置；植物名里也借这个捕住小虫的画面。',
+ 'fly 苍蝇、飞虫 + trap 陷阱，按功能形成名词；Venus flytrap 捕蝇草是固定植物名称，不能据词根判断所有具体结构。',C('fly 苍蝇、飞虫','trap 陷阱','flytrap','捕蝇装置；也用于捕虫植物名称'),
+ 'a sticky flytrap 黏性捕蝇装置，a Venus flytrap 捕蝇草；前者是器具，后者是植物，先看完整短语。',
+ 'a sticky flytrap；a Venus flytrap；a flytrap near the window。',
+ 'flytrap 不等于 flycatcher 鸟名；flytrap 的 trap 是功能部分，不代表捕蝇草是人为制造的器具。',
+ ('A flytrap hung near the window.','窗边挂着一个捕蝇器。'),('The classroom has a Venus flytrap in a pot.','教室里有一盆捕蝇草。'))
+W('flywheel','/ˈflaɪwiːl/','飞轮；持续积累、推动的机制〔比喻〕',
+ '一个转起来后能储存旋转能量的轮子，帮助减缓快慢波动；商业文章再借它说越转越顺的累积作用。',
+ 'fly 快速运动的关联义 + wheel 轮；固定机械名词，不是轮子必须离地飞。商业飞轮是现代比喻，不自动证明某业务一定会增长。',C('fly 快速运动的关联','wheel 轮','flywheel','储存旋转能量的机械飞轮 → 持续积累的比喻'),
+ 'an engine flywheel 发动机飞轮，a flywheel effect 飞轮效应；机械装置和商业比喻要分层理解。',
+ 'an engine flywheel；flywheel energy storage；a flywheel effect。',
+ 'flywheel 飞轮与 gear 齿轮不同：飞轮靠旋转惯量储能、缓和波动，齿轮重点在齿的啮合传动，部件功能可能组合。',
+ ('The mechanic inspected the engine’s flywheel.','机械师检查了发动机飞轮。'),('The article uses a flywheel as a metaphor for steady momentum.','文章用飞轮比喻持续积累的推动力。'))
+W('flyweight','/ˈflaɪweɪt/','蝇量级；轻小的人或物',
+ '用一只苍蝇的轻小来命名较低体重等级；这是固定级别名，不是运动员真的像苍蝇一样轻。',
+ 'fly 苍蝇的轻小联想 + weight 体重、级别，形成拳击等项目的体重级别名称；后来也可形容很轻、很小的人或东西。',C('fly 苍蝇的轻小联想','weight 体重、级别','flyweight','较低体重等级的固定名称；轻小对象'),
+ 'a flyweight boxer 蝇量级拳手，the flyweight division 蝇量级组别；具体上下限依项目、组织、时期，不由词名统一决定。',
+ 'a flyweight boxer；the flyweight division；a flyweight champion。',
+ 'flyweight 固定体重等级，不等于所有轻的人都属于这个竞赛组；lightweight 也有自己的级别和普通轻量义。',
+ ('She interviewed a former flyweight champion.','她采访了一位前蝇量级冠军。'),('The boxer moved into the flyweight division.','这名拳手转入蝇量级组别。'))
+R('B2862','飞行、航班；苍蝇与飞虫复合词','FLY：飞的动作与飞虫名词，两层分别学','fly—flew—flown 是动作，a fly 是虫；flight、flyer、flying 接飞行分支，昆虫、鸟、机械词再各自成组。',
+ '飞行动词与飞虫名词都接古英语相关形式。flight 的逃离义另与 flee 旧词族交叠；动物名里的 fly 是历史泛称，不能替代现代生物分类。',
+ 'fly → flying、flight、flyer；butterfly、dragonfly、mayfly、gadfly 为昆虫相关名；flycatcher、flytrap 看捕捉对象；flywheel、flyweight 是固定专业词。',
+ [['飞行与航班','fly · flying · flight · flyer'],['飞虫及相关引申','butterfly · dragonfly · mayfly · gadfly · firefly'],['捕虫鸟类和装置','flycatcher · flytrap'],['机械与体重级别','flywheel · flyweight'],['已学口语词','superfly']],
+ 'fly 不等于 flee；butterfly 命名原因不确定；mayfly 短成虫期不等于整个生命只有一天；flyer 可是传单。',
+ 'Before the flight, she read a flyer about butterflies.\n\n登机前，她读了一张介绍蝴蝶的宣传单。',
+ 'fly flying flight flyer butterfly dragonfly mayfly gadfly firefly flycatcher flytrap flywheel flyweight superfly')
+if __name__=='__main__':save('continuation_20261029_cw',ROOTS,WORDS)

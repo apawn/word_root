@@ -1,0 +1,202 @@
+[
+  {
+    "word": "pit",
+    "ipa": "/pɪt/",
+    "meaning": "坑、凹陷；矿井、维修区；果核；使对抗；去核",
+    "sense": "地上的洞是 pit，樱桃里的核也叫 pit，却来自另一条借词。pit teams against each other 又是让两队对阵；pit cherries 则是去核。",
+    "split": "坑义接古英语 pytt，早期借词路线联系拉丁 puteus 井等，具体音变有讨论。果核义借荷兰语 pit。对抗动词从把竞争者放入相应场地的旧用法扩展。",
+    "history": [
+      [
+        "古英语 pytt，经早期借词联系拉丁 puteus",
+        "坑、井、下凹处；再有维修区、对抗场景"
+      ],
+      [
+        "荷兰语 pit → 英语 pit 果核",
+        "种核、果实内部硬核；与凹坑直接来源不同"
+      ]
+    ],
+    "explanation": "a deep pit 深坑，an orchestra pit 乐池，a pit stop 维修站停靠，a cherry pit 樱桃核，pit A against B 使A与B对阵。",
+    "usage": "a deep pit；a pit stop；a cherry pit；pit A against B。",
+    "contrast": "pit 水果核与坑义的直接来源不同。pitted cherries 通常是已去核的樱桃，pitted surface 则是布满小凹坑的表面，结果方向随动词义变化。",
+    "examples": [
+      [
+        "The workers found a deep pit beneath the floor.",
+        "工人在地板下面发现一个深坑。"
+      ],
+      [
+        "The contest pits experienced players against newcomers.",
+        "比赛让有经验的选手与新人对阵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pit#English"
+    ]
+  },
+  {
+    "word": "pitter",
+    "ipa": "英 /ˈpɪtə/；美 /ˈpɪtər/",
+    "meaning": "水果去核器",
+    "sense": "樱桃、橄榄里面的硬核拿出来，可以用 pitter。这个 -er 命名的是工具，pit 取果核、去核义。",
+    "split": "pit 去果核 + -er，双写 t。与坑、矿井义的 pitman 不同，也和表示淅沥声的旧同形动词分开。",
+    "history": [
+      [
+        "荷兰语 pit → 英语 pit 果核",
+        "种核、果实内部硬核；与凹坑直接来源不同"
+      ],
+      [
+        "pit 去核 + -er → pitter",
+        "去除水果硬核的工具"
+      ]
+    ],
+    "explanation": "a cherry pitter 樱桃去核器，an olive pitter 橄榄去核器。工具按操作对象进一步命名。",
+    "usage": "a cherry pitter；an olive pitter。",
+    "contrast": "pitter 负责去核，peeler 负责去皮。fruit 的 pit 是内部硬核，不是果皮外面一个小凹坑。",
+    "examples": [
+      [
+        "She used a cherry pitter before making the pie.",
+        "做派前，她用去核器给樱桃去核。"
+      ],
+      [
+        "The olive pitter was kept in the kitchen drawer.",
+        "橄榄去核器放在厨房抽屉里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pitter#English"
+    ]
+  },
+  {
+    "word": "praiseworthy",
+    "ipa": "英 /ˈpreɪzwɜːði/；美 /ˈpreɪzwɝːði/",
+    "meaning": "值得赞扬的、可嘉的",
+    "sense": "不只是已经有人夸，而是这件事确有值得夸的地方。praiseworthy 把 praise 赞扬和 worthy 值得接得很直观。",
+    "split": "praise + worthy，保留 praise 的末尾 e。praise 更早经法语 preisier 等联系估价、重视、赞扬；worthy 给出值得的评价关系。",
+    "history": [
+      [
+        "法语 preisier 等 → praise",
+        "重视价值 → 表达赞扬"
+      ],
+      [
+        "praise + worthy → praiseworthy",
+        "值得赞扬、可嘉的"
+      ]
+    ],
+    "explanation": "a praiseworthy effort 值得赞扬的努力，a praiseworthy initiative 可嘉的倡议，be praiseworthy for 因……值得赞扬。",
+    "usage": "a praiseworthy effort；a praiseworthy initiative。",
+    "contrast": "praised 是已经受到赞扬，praiseworthy 是值得赞扬，未必已经有人公开夸过。/z/ 与 worthy 的 /ð/ 连起来，仍是两个清楚成分。",
+    "examples": [
+      [
+        "Their effort to make the material accessible was praiseworthy.",
+        "他们让材料更易理解的努力值得赞扬。"
+      ],
+      [
+        "The report highlights several praiseworthy initiatives.",
+        "报告强调了几项可嘉的倡议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/praiseworthy#English"
+    ]
+  },
+  {
+    "word": "nondiscrimination",
+    "ipa": "/ˌnɒndɪˌskrɪmɪˈneɪʃən/，美式开头常 /ˌnɑːn-/",
+    "meaning": "不歧视；平等对待原则、做法",
+    "sense": "discrimination 在这里取歧视义，non- 否定这种不公区别待遇。它说对待人的原则，而不是看不出两件东西有什么不同。",
+    "split": "non- 不 + discrimination。discrimination 的辨别、区别与不公平差别待遇两类意义，进入这个政策词时重点落在后一类。",
+    "history": [
+      [
+        "discriminate／discrimination",
+        "辨别、区别；社会语境中也发展出歧视义"
+      ],
+      [
+        "non- + discrimination → nondiscrimination",
+        "不进行歧视性区别对待"
+      ]
+    ],
+    "explanation": "a nondiscrimination policy 不歧视政策，the principle of nondiscrimination 不歧视原则，nondiscrimination in access 平等、不歧视地获得服务等。具体政策范围由文本交代。",
+    "usage": "a nondiscrimination policy；the principle of nondiscrimination。",
+    "contrast": "nondiscrimination 不表示取消所有与任务相关的判断标准，也不等于一个人没有辨别能力。语境已把 discrimination 选定为歧视。",
+    "examples": [
+      [
+        "The organisation published a nondiscrimination policy.",
+        "组织公布了一项不歧视政策。"
+      ],
+      [
+        "The chapter discusses nondiscrimination in access to public services.",
+        "这一章讨论获得公共服务时的不歧视原则。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nondiscrimination#English"
+    ]
+  },
+  {
+    "word": "toilet",
+    "ipa": "/ˈtɔɪlət/，也读 /ˈtɔɪlɪt/",
+    "meaning": "马桶、便器；厕所；梳洗、打扮〔旧用〕",
+    "sense": "名字不是一开始就在说排泄器具。它从布、梳妆用品和梳洗活动走到梳洗空间，再委婉地指厕所、马桶。",
+    "split": "借法语 toilette，为 toile 布的小称；toile 更早联系拉丁 tēla 织物。英语和法语的梳洗、更衣、房间等意义发展影响了现代卫生设施用法。",
+    "history": [
+      [
+        "法语 toile 布 → toilette 小布、衣物相关用品",
+        "梳妆台上的布、用品与梳洗活动相互转称"
+      ],
+      [
+        "英语 toilet 的进一步发展",
+        "梳洗、更衣 → 梳洗空间 → 厕所、卫生器具"
+      ]
+    ],
+    "explanation": "flush the toilet 冲马桶，a public toilet 公共厕所，toilet paper 卫生纸。英式口语可用 toilet 问厕所位置；美式对话常用 bathroom、restroom 问空间，用 toilet 说器具。",
+    "usage": "flush the toilet；a public toilet；toilet paper。",
+    "contrast": "toilet 与 bathroom 不总是同一个对象：前者可指器具，后者常是房间。历史阅读中的 at her toilet 可能是在梳洗、打扮，要看年代和语境。",
+    "examples": [
+      [
+        "The toilet is at the end of the corridor.",
+        "厕所在走廊尽头。"
+      ],
+      [
+        "The plumber repaired the toilet.",
+        "水管工修好了马桶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toilet#English",
+      "https://www.etymonline.com/word/toilet"
+    ]
+  },
+  {
+    "word": "toiletry",
+    "ipa": "/ˈtɔɪlətri/，也读 /ˈtɔɪlɪtri/",
+    "meaning": "洗漱、个人梳洗用品〔常用复数 toiletries〕",
+    "sense": "出门带的香皂、洗发水、牙膏等，可合称 toiletries。这里保存 toilet 较早的梳洗意思，所以范围不只是清洁马桶的产品。",
+    "split": "toilet 旧梳洗、整理仪容义 + -ry，形成用品名词。通常复数 toiletries，词尾 y 变 ies。",
+    "history": [
+      [
+        "法语 toile 布 → toilette 小布、衣物相关用品",
+        "梳妆台上的布、用品与梳洗活动相互转称"
+      ],
+      [
+        "toilet 旧梳洗义 + -ry → toiletry",
+        "洗漱、个人整理用品"
+      ]
+    ],
+    "explanation": "pack your toiletries 收拾洗漱用品，complimentary toiletries 免费洗漱用品，a toiletry bag 洗漱包。可数单件用 a toiletry，日常更常一组用品合称 toiletries。",
+    "usage": "pack toiletries；complimentary toiletries；a toiletry bag。",
+    "contrast": "toiletries 接个人梳洗义，toilet cleaner 则明确是清洁厕所、马桶的清洁剂，所指不一样。",
+    "examples": [
+      [
+        "She packed her toiletries in a small bag.",
+        "她把洗漱用品装进小包。"
+      ],
+      [
+        "The hotel provides basic toiletries.",
+        "酒店提供基本洗漱用品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toiletry#English",
+      "https://www.etymonline.com/word/toilet"
+    ]
+  }
+]

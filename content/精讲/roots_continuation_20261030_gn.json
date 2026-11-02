@@ -1,0 +1,116 @@
+[
+  {
+    "id": "B4083",
+    "meaning": "外壳、包层，及其结构、材质和比喻",
+    "core": "SHELL：包在外面的一层，拿掉内容也能只剩壳",
+    "image": "shell → eggshell、clamshell、tortoiseshell、softshell；shellac 是鳞片状虫胶命名；shuck 去外层但更早来源不明。",
+    "intro": "先分动物壳、外层结构、外观借名。猫毛、眼镜框、软件命令环境都能借壳的某一点，不必真有同一材料。",
+    "forms": "sċell → shell；egg/clam/tortoise/soft/nut/bomb/sea + shell；shell + fish；shell + lac；shuck 的旧关联带不确定性。\n\n古英语 scell 的继承；炮弹、外框等现代分支按语境，不混成同一种外壳。\n\n和 shell 比较外层覆盖，不是现代 shell 的派生。种壳 hull 承古英语 hulu；船体一支有种荚形状比喻、与船舱词混合等不同分析。\n\n和 shell 比较外壳场景，不由 shell 或拉丁 testa 直接派生。龟义 turtle 改自法语 tortue 等，可能受更早斑鸠词 turtle 影响；斑鸠那支接拉丁 turtur，与龟并非同一种来历。\n\n这是与 shell、shellfish 对照认识动物与食材，不表示这些词同源。squid、prawn 更远来源不明确；clam 常联系夹紧的旧词；mussel 接拉丁小鼠的名称材料；scallop 经古法语壳名。\n\nshale 可能是中古英语 shell、husk 相关 schale 的专门化，表示容易分开的薄层，也可能受德语相应地层词影响；保留可能性，不说现代英语 shell 直接改拼成页岩。",
+    "branches": [
+      [
+        "基本外壳与去壳",
+        "shell · shuck"
+      ],
+      [
+        "不同外壳和结构",
+        "eggshell · clamshell · tortoiseshell · softshell · nutshell · seashell"
+      ],
+      [
+        "生物、材料和事件比喻",
+        "shellfish · shellac · bombshell"
+      ],
+      [
+        "shell → shells：包在外面的壳与去壳动作",
+        "shell · shells"
+      ],
+      [
+        "hull：外壳、船体与去壳",
+        "hull · hulls"
+      ],
+      [
+        "turtle：另源的龟类名称",
+        "turtle · turtles"
+      ],
+      [
+        "水生动物名称对照：乌贼、虾、几类贝",
+        "squid · prawn · prawns · clam · clams · mussel · mussels · scallop · scallops"
+      ],
+      [
+        "壳、薄层词族的地质支线 → shale 页岩",
+        "shale"
+      ]
+    ],
+    "contrasts": "shellac 不是贝壳胶；tortoiseshell 纹样可为仿制；walk on eggshells 常说人际小心；shuck 不硬定为现代 shell 的直接变形。",
+    "practice": "The clamshell box held tortoiseshell glasses beside a broken eggshell.\n\n翻盖盒里放着玳瑁纹眼镜，旁边是一片破蛋壳。",
+    "words": [
+      "shell",
+      "shuck",
+      "eggshell",
+      "clamshell",
+      "tortoiseshell",
+      "softshell",
+      "nutshell",
+      "seashell",
+      "shellfish",
+      "shellac",
+      "bombshell",
+      "shells",
+      "hull",
+      "hulls",
+      "turtle",
+      "turtles",
+      "squid",
+      "prawn",
+      "prawns",
+      "clam",
+      "clams",
+      "mussel",
+      "mussels",
+      "scallop",
+      "scallops",
+      "shale"
+    ],
+    "exclude": {
+      "shell-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shell-less": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shell-pad": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shelly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shellie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3022",
+    "meaning": "成团的云；遮挡光线，再到模糊判断",
+    "core": "CLOUD：一团东西挡住了原本清楚的视线",
+    "image": "cloud → cloudy 多云、浑浊；clouded 被蒙蔽；cloudless 没有云。技术云另借抽象网络画法。",
+    "intro": "古词先有岩块、团块义，后来把天空那一团叫云。看不清、心里蒙上一层阴影，都有遮蔽画面可抓。",
+    "forms": "clūd → cloud；cloud + -y/-ed/-less。\n\n古英语 clud 原为岩块、石堆等，后转指天空团状云；云计算另有技术比喻。",
+    "branches": [
+      [
+        "基本团块和直接状态",
+        "cloud · cloudy"
+      ],
+      [
+        "被遮挡和去掉云层",
+        "clouded · cloudless"
+      ],
+      [
+        "cloud → clouds：从团块到天空的云",
+        "cloud · clouds"
+      ]
+    ],
+    "contrasts": "cloudy/overcast 多云与云层满布；cloudless 夜里也能用；技术 cloud 不是真把文件存进水汽。",
+    "practice": "A cloudy sky did not cloud her judgment, and by evening the sky was cloudless.\n\n多云的天空没影响她的判断，到傍晚天空也无云了。",
+    "words": [
+      "cloud",
+      "cloudy",
+      "clouded",
+      "cloudless",
+      "clouds"
+    ],
+    "exclude": {
+      "cloud-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cloud-cuckoo-land": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

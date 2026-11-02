@@ -1,0 +1,98 @@
+[
+  {
+    "id": "B4330",
+    "meaning": "帮助的性质、方式及反面",
+    "core": "HELPFUL：有用地帮上忙，或愿意伸手帮人",
+    "image": "help → helpful → helpfully/helpfulness；unhelpful 则是否定帮助效果或合作态度。",
+    "intro": "把人的态度与事情的效果都留住。热心的人可以给出无用建议；有用的地图并没有人的感情，也能 helpful。",
+    "forms": "help + -ful；helpful + -ly/-ness；un- + helpful。",
+    "branches": [
+      [
+        "帮助及其性质、方式",
+        "help · helpful · helpfully · helpfulness"
+      ],
+      [
+        "无益、不配合",
+        "unhelpful"
+      ]
+    ],
+    "contrasts": "helpfully 描动作；helpfulness 评性质；unhelpful 帮不上忙，helpless 自己无力应对。",
+    "practice": "She helpfully explained why the earlier advice had been unhelpful.\n\n她热心解释了先前的建议为什么没有帮助。",
+    "words": [
+      "help",
+      "helpful",
+      "helpfully",
+      "helpfulness",
+      "unhelpful"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3833",
+    "meaning": "宪法、体质的构成背景，以及合宪与宪政词族",
+    "core": "CONSTITUTIONAL：先分国家框架，还是人的构成",
+    "image": "constitution → constitutional → constitutionally；constitutionality 问是否合宪；unconstitutional 否定合宪；-ism/-ist 表理念与人物。",
+    "intro": "从构成方式到基本制度、身体构成，各有落点。宪政概念强调怎样约束权力，和单个措施是否合宪也不是同一层问题。",
+    "forms": "constitution + -al；constitutional + -ly/-ity/-ism/-ist；un- + constitutional。",
+    "branches": [
+      [
+        "构成、性质与角度",
+        "constitution · constitutional · constitutionally"
+      ],
+      [
+        "符合性与否定",
+        "constitutionality · unconstitutional"
+      ],
+      [
+        "理念与主张者",
+        "constitutionalism · constitutionalist"
+      ]
+    ],
+    "contrasts": "constitutionally 也可说天性；constitutionality 不等于宪法；质疑合宪性不预设结果；constitutionalism 不只指有成文宪法。",
+    "practice": "The constitutionalist discussed both constitutionalism and the measure’s constitutionality.\n\n那位宪政主义者讨论了宪政理念，也讨论了这项措施是否合宪。",
+    "words": [
+      "constitution",
+      "constitutional",
+      "constitutionally",
+      "constitutionality",
+      "unconstitutional",
+      "constitutionalism",
+      "constitutionalist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3438",
+    "meaning": "鬼魂形象引出的淡影、幕后与消失",
+    "core": "GHOST：人不在眼前，影子却仿佛还在",
+    "image": "ghost → ghostly 像鬼的；ghosting 断联或残影；ghostwriter 幕后代笔。",
+    "intro": "不必真讨论鬼是否存在；现代常借模糊存在、幕后身份和突然消失来说明现象。不同场景的方向甚至相反，要跟对象看。",
+    "forms": "gāst → gost → ghost；ghost + -ly/-ing；ghost + writer。\n\n古英语 gast 继承；拼写 h 受荷兰语、印刷传统影响。",
+    "branches": [
+      [
+        "鬼魂与气氛",
+        "ghost · ghostly"
+      ],
+      [
+        "消失、残影与幕后角色",
+        "ghosting · ghostwriter"
+      ],
+      [
+        "ghost → ghosts：灵魂到鬼魂、淡影",
+        "ghost · ghosts"
+      ]
+    ],
+    "contrasts": "gh 在这里读 /ɡ/；ghostly 是形容词；ghosting 不只社交；ghostwriter 本人存在，只是通常不以作者身份署名。",
+    "practice": "The ghostwriter described a ghostly town in the opening chapter.\n\n代笔作者在开篇描绘了一座幽灵般的城镇。",
+    "words": [
+      "ghost",
+      "ghostly",
+      "ghosting",
+      "ghostwriter",
+      "ghosts"
+    ],
+    "exclude": {
+      "errand-ghost": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

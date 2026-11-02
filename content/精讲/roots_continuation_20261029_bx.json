@@ -1,0 +1,84 @@
+[
+  {
+    "id": "B3065",
+    "meaning": "死亡；终结；强烈修辞和固定组合",
+    "core": "DEATH：生命终止，也能借作夸张与比喻",
+    "image": "death 是名词，不要与 die 动词、dead 形容词混用。复合词有些是实际临终，有些只借死亡的强烈画面。",
+    "intro": "death 接古英语 dēaþ。deathbed 抓临终时刻，deathly 抓死一般的样子，deathless 抓不朽，deathtrap 抓危险。",
+    "forms": "death → deathly、deathless；deathbed、deathtrap；游戏名称 deathmatch 单看固定用法。\n\n本族死亡词延续，抽象状态与可数事件分开。",
+    "branches": [
+      [
+        "基本概念与形容、程度",
+        "death · deathly · deathless"
+      ],
+      [
+        "处境、危险和游戏名称",
+        "deathbed · deathtrap · deathmatch"
+      ],
+      [
+        "death → deaths：死亡与一例例死亡事件",
+        "death · deaths"
+      ]
+    ],
+    "contrasts": "deathly pale 是惨白；scared to death 是吓坏的夸张；deathtrap 不保证已有死亡，也不必是蓄意机关。",
+    "practice": "The deathly silence made the old house feel like a deathtrap.\n\n死一般的寂静，让那座老房子仿佛成了致命险境。",
+    "words": [
+      "death",
+      "deathly",
+      "deathless",
+      "deathbed",
+      "deathtrap",
+      "deathmatch",
+      "deaths"
+    ],
+    "exclude": {
+      "self-death": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "death-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "death-stiffness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deathcore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2974",
+    "meaning": "兴趣；利益、利害关系；利息",
+    "core": "INTEREST：关注与得失，都可能与你有关",
+    "image": "不要只用兴趣一种译法。懂得利害关系这一面，才容易理解 interested parties、disinterested。",
+    "intro": "interest 经法语接拉丁语 interesse 相关、有影响等用法，中世纪还有补偿、权益背景；兴趣与利息等现代义各有发展，不编成单一步骤。",
+    "forms": "interest → interested；interesting → interestingly；否定对照 uninteresting、uninterested；再看 disinterest、disinterested 的利益与兴趣两面。\n\n与自己相关、影响自己，能帮助区分关注的兴趣与涉及的利益。",
+    "branches": [
+      [
+        "兴趣来源与人的感受",
+        "interest · interested · interesting · interestingly"
+      ],
+      [
+        "乏味与不感兴趣",
+        "uninteresting · uninterested"
+      ],
+      [
+        "私利牵涉与公正",
+        "disinterest · disinterested"
+      ],
+      [
+        "interest → interests：兴趣、利益与牵涉其中",
+        "interest · interests"
+      ]
+    ],
+    "contrasts": "I’m interested，the topic is interesting；disinterested observer 通常是不偏不倚，并非冷淡不关心。",
+    "practice": "An interested student asked an interesting question, and a disinterested expert assessed the answer.\n\n一位感兴趣的学生提出了有意思的问题，一位无利害关系的专家评估了回答。",
+    "words": [
+      "interest",
+      "interested",
+      "interesting",
+      "interestingly",
+      "uninteresting",
+      "uninterested",
+      "disinterest",
+      "disinterested",
+      "interests"
+    ],
+    "exclude": {
+      "interest-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-interest": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3375",
+    "meaning": "试验、试用、审理；实际检验的过程",
+    "core": "TRIAL：放到实际条件下检验",
+    "image": "trial → pretrial、mistrial、retrial；法庭扩展集中在后面。",
+    "intro": "与 try 同族但保留法语名词路径。常见 trial 不拆成 tri- 三；表三数的术语另源，暂略。",
+    "forms": "法语 trier 与名词 -al；pre-/mis-/re- + trial。\n\n法语试、挑选词族，名词有独立借入历史。",
+    "branches": [
+      [
+        "检验与试用",
+        "trial"
+      ],
+      [
+        "审理相关",
+        "pretrial · mistrial · retrial"
+      ],
+      [
+        "trial → trials：试验、审理与考验",
+        "trial · trials"
+      ]
+    ],
+    "contrasts": "trial 过程、verdict 结果；retrial 不等于 appeal；免费试用和法庭审理依语境分译。",
+    "practice": "The trial ended without a verdict, and a retrial was later ordered.\n\n审理结束时未作出裁决，后来又决定重新审理。",
+    "words": [
+      "trial",
+      "pretrial",
+      "mistrial",
+      "retrial",
+      "trials"
+    ],
+    "exclude": {
+      "counter-trial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3920",
+    "meaning": "没有多少预告就出现、变化",
+    "core": "SUDDEN：还没来得及准备，事情就发生",
+    "image": "sudden → suddenly → suddenness，先性质，再发生方式，最后性质名词。",
+    "intro": "近源经法语接拉丁语突然义；保留旧形，不靠现代字母拼出新故事。突然和快速分开讲。",
+    "forms": "sudden + -ly/-ness；suddenness 拼写保留两个相邻 n。",
+    "branches": [
+      [
+        "性质、方式、性质名词",
+        "sudden · suddenly · suddenness"
+      ]
+    ],
+    "contrasts": "sudden/suddenly 词性不同；suddenness/speed 突发与速度不同；all of a sudden 是常用短语。",
+    "practice": "The sudden silence made us look up.\n\n突然安静下来，我们便抬头看了看。",
+    "words": [
+      "sudden",
+      "suddenly",
+      "suddenness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3358",
+    "meaning": "玻璃材料；杯、镜片与相关器具",
+    "core": "GLASS：一块材料，按用途变成杯、镜片和器具名",
+    "image": "glass → glassy、glassware；eyeglass、spyglass 光学一组，hourglass、glasshouse 等合成词归用途，再讲 glazier 职业。",
+    "intro": "材料名与制品名分清可数性。旧派生 glazier 不强拆成现代比较级，冷门人物变体暂略。",
+    "forms": "glass + -y/ware；eye/spy/hour + glass；glass + house；glazier 接中古英语旧人物派生。\n\n材料名扩展到杯子、镜片与眼镜，glass 材料总体与 glasses 可数、固定复数用法分开。",
+    "branches": [
+      [
+        "材料及性质、制品",
+        "glass · glassy · glassware"
+      ],
+      [
+        "镜片与观察",
+        "eyeglass · spyglass"
+      ],
+      [
+        "器具、建筑与职业",
+        "hourglass · glasshouse · glazier"
+      ],
+      [
+        "glass → glasses：玻璃器皿与眼镜",
+        "glass · glasses"
+      ]
+    ],
+    "contrasts": "glass 材料与 a glass 杯子不同；glassy eyes 非戴眼镜；glazier 玻璃工、glacier 冰川。",
+    "practice": "The glazier replaced the glass while I cleaned my eyeglasses.\n\n玻璃工更换玻璃时，我擦了擦自己的眼镜。",
+    "words": [
+      "glass",
+      "glassy",
+      "glassware",
+      "eyeglass",
+      "spyglass",
+      "hourglass",
+      "glasshouse",
+      "glazier",
+      "glasses"
+    ],
+    "exclude": {
+      "chimney-glass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glasser": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glassman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

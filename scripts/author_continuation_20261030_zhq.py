@@ -1,0 +1,160 @@
+"""Plod, trudge, trek, slog: different kinds of effortful progress."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ return ['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+EXISTING_ROOT_ADDITIONS={
+ 'B3515':dict(words='plod plods plodded plodding plodder plodders trudge trudges trudged trudging'.split(),label='plod、trudge：一步一步费劲地走',note='本组与 walk 作步态、语气比较，不是现代 walk 的派生词。plod 来源未定，可能模拟沉重脚步；trudge 来源未定，较早已有费力步行义。不为没有证据的远源强造拆分。'),
+ 'B4098':dict(words='trek treks trekked trekking trekker trekkers'.split(),label='trek：长途、费力的行程',note='经南非荷兰语 trek 与荷兰 trekken 行进、拉接入英语，较早有牛车旅程背景；与 track 的更远材料可能相关，不是现代 track 改元音派生。'),
+ 'B2504':dict(words='slog slogs slogged slogging'.split(),label='slog：咬着牙苦干、苦走',note='本组与 work 比较用力程度，不是现代 work 的后代。slog 较早是重击，可能为 slug 击打材料的变体，后来有苦干、吃力步行义。'),
+}
+PLOD=[['plod 来源未定，可能模拟沉重、缓慢脚步','较早已有缓慢而耐心地行走、做事等材料'],['一步步费力推进 → plodding / plodder','既可肯定坚持，也可嫌缺少灵气、沉闷']]
+TRUDGE=[['trudge 来源未定','英语较早已有步行、疲惫而费力行走义'],['疲惫、沉重地走 → 名词一次苦走','学习用负重、泥地、长路的画面，不把它当作已证实远源']]
+TREK=[['荷兰 trekken 拉、行进 → 南非荷兰语 trek','较早英语使用有牛车旅程、迁移背景'],['英语名词、动词 → 现代长途或费力步行、旅程','现代去遥远办公室一趟，也可半开玩笑说 a trek']]
+SLOG=[['slog 较早指重击，可能接 slug 击打材料','不是把现代 slug 蛞蝓的动物义套过来'],['重击 → 苦干；后来又可说吃力走路','现代 slog 常把费劲、漫长的投入写出来']]
+W('plod','英 /plɒd/；美 /plɑd/','沉重缓慢地走；耐心而费力地做下去',
+ '脚步不快，却一步接一步往前，是 plod；对着一堆材料慢慢啃，也可 plod through。语气可能是踏实，也可能嫌闷。',
+ '来源未定，可能模拟沉重缓慢的脚步声；英语较早已有慢慢行走、耐心苦干等用法，不硬拆现代前后缀。',PLOD,
+ 'plod along 缓缓前进；plod through a report 慢慢啃完报告。',
+ 'plod home 拖着沉重步子回家；plod on 继续慢慢做下去。',
+ 'plod 有费力、单调、仍继续的感觉，stroll 常是悠闲散步；走得慢的原因、语气不同。',
+ ('We had to plod through the thick mud.','我们只好在厚泥里一步步费力前行。'),('I will plod through the remaining chapters tonight.','今晚我会耐着性子，把剩下几章慢慢啃完。'),sources=S('plod','plod'))
+W('plods','英 /plɒdz/；美 /plɑdz/','沉重缓慢地走；慢慢苦干〔第三人称单数〕',
+ '每天不声不响做一点，虽然不快却持续推进，可以说 plods on。也可能嫌人没有新意，只是一步一步闷头做。',
+ 'plod + -s，读 /z/；基础词的远源未定，现代这层三单很清楚。',PLOD+[['plod + -s → plods','他或它缓慢、费力地继续']],
+ 'plods through paperwork 慢慢处理文书；plods along。',
+ 'plods home；plods on with the task。',
+ 'plods 不是完全不动，stalls 才常说停滞；慢慢推进仍然有进展。',
+ ('He plods through the paperwork every Friday.','每周五，他都耐着性子慢慢处理文书。'),('The old horse plods along the path.','老马沿着小路缓慢、沉重地走着。'),sources=S('plods','plod'))
+W('plodded','英 /ˈplɒdɪd/；美 /ˈplɑdɪd/','沉重缓慢地走了；耐心苦干下去了',
+ '刚才累得不想走，却仍一步步挪回家，叫 plodded。也能说闷头做了好久，终于把工作推过去。',
+ 'plod 双写 d 加完整 -ed，/d/ 后读 /ɪd/；短元音重读单音节的规则变化。',PLOD+[['plod + -ed → plodded','双写 d，过去缓慢而费力地推进']],
+ 'plodded home 拖着沉重步子回家；plodded through the forms。',
+ 'plodded on for hours；plodded across the field。',
+ 'plodded through 强调处理得慢、耐心或单调，skimmed through 是很快浏览；两种读法相反。',
+ ('We plodded home in the rain.','我们冒雨拖着沉重步子回家。'),('She plodded through the forms until they were all complete.','她耐着性子一份份填，直到表格都填完。'),sources=S('plodded','plod'))
+W('plodding','英 /ˈplɒdɪŋ/；美 /ˈplɑdɪŋ/','缓慢费力地推进；勤恳却沉闷、缺少变化的',
+ '步子沉重却不停，工作耐心却不灵巧，是 plodding。评论 a plodding story 时，往往嫌故事节奏拖沓、少变化。',
+ 'plod 双写 d 加 -ing；分词能写动作过程，也有缓慢、勤恳而沉闷的形容词用法。',PLOD+[['plod + -ing → plodding','双写 d，缓慢推进；也可评价节奏沉闷']],
+ 'plodding through a task；a plodding pace 沉闷缓慢的节奏。',
+ 'a plodding worker；plodding along the road。',
+ 'plodding 可以肯定坚持，也能批评缺少活力；diligent 主要夸认真，不一定含慢、闷。',
+ ('We were still plodding through the long report.','我们还在耐着性子慢慢啃那份长报告。'),('The film’s plodding pace made the evening feel very long.','电影节奏拖沓，感觉这个晚上特别漫长。'),sources=S('plodding','plod'))
+W('plodder','英 /ˈplɒdə/；美 /ˈplɑdɚ/','慢慢苦干、勤恳但欠灵气的人',
+ '不是一下就想出巧办法，但愿意一点点做完的人，可以说 a plodder。既可自谦踏实，也可被人嫌不够灵活。',
+ 'plod 双写 d，加完整 -er；不是比较级，而是做这种动作的人。',PLOD+[['plod + -er → plodder','双写 d，慢慢苦干的人']],
+ 'a steady plodder 踏实慢慢做的人；a patient plodder。',
+ 'describe oneself as a plodder；a reliable plodder。',
+ 'plodder 不等于 failure；不快、不灵巧的人也能靠持续投入做好事。',
+ ('I am a plodder rather than a quick thinker.','我不是反应快的那种人，更靠一点点踏实做。'),('The team valued him as a reliable plodder.','团队看重他，觉得他虽不灵巧却踏实可靠。'),sources=S('plodder','plod'))
+W('plodders','英 /ˈplɒdəz/；美 /ˈplɑdɚz/','慢慢苦干、踏实而欠灵气的人〔复数〕',
+ '一群不求花巧、靠耐心把任务磨完的人，可以叫 plodders。语气可能自谦，也可能含不够聪明灵活的贬意。',
+ 'plodder + -s，读 /z/；plod 双写 d 加 -er 成人称名词，再加复数。',PLOD+[['plod → plodder → plodders','缓慢苦干，到苦干者，再到多人']],
+ 'steady plodders 踏实慢干的人；patient plodders。',
+ 'a team of plodders；dismiss someone as plodders。',
+ 'plodders 评价做事节奏、方法，beginners 只说经验阶段；老手也可能稳扎稳打、不靠灵光一现。',
+ ('The project needs patient plodders as well as people with bright ideas.','项目既需要有好点子的人，也需要耐心踏实做的人。'),('They joked that they were plodders who would get there eventually.','他们开玩笑说自己只是慢慢做的人，但最终总能做成。'),sources=S('plodders','plod'))
+W('trudge','/trʌdʒ/','疲惫、吃力地走；一段费劲的步行',
+ '背着重包，脚又酸，仍拖着步子赶路，是 trudge。重点是步行很费力、有疲态，不一定真的拖地。',
+ '来源未定；较早英语已有步行，尤其疲惫、费力地走的意思，后来有一次苦走的名词。不要凭字母像别词就编出拆分。',TRUDGE,
+ 'trudge home 拖着疲惫步子回家；a long trudge 一段漫长苦走。',
+ 'trudge through snow；trudge up a hill。',
+ 'trudge 强调沉重、疲惫，trek 更强调长途、费力行程；长途徒步可以很开心，不一定步步都疲惫。',
+ ('We had to trudge through the snow to reach the cabin.','我们得在雪里费力走，才能到小屋。'),('It was a long trudge back to the station.','走回车站的那段路漫长又费劲。'),sources=S('trudge','trudge'))
+W('trudges','/ˈtrʌdʒɪz/','疲惫、吃力地走〔第三人称单数〕；几段苦走',
+ '每天背着东西爬坡，步子沉得很，是 trudges uphill。名词复数也可说反复几段漫长、累人的步行。',
+ 'trudge + -s，拼写只添 -s，/dʒ/ 后读 /ɪz/；动词三单与名词复数同形。',TRUDGE+[['trudge + -s → trudges','他或她费力步行；多次这样的路程']],
+ 'trudges up the hill；long trudges through snow。',
+ 'trudges home after work；trudges across the field。',
+ 'trudges 有疲惫、费力的感觉，walks 不自带这种评价；同一段路可因心情、负重不同而不同。',
+ ('He trudges up the hill with a heavy backpack.','他背着重包，吃力地往坡上走。'),('The journey involved several long trudges through deep snow.','那趟行程里，有几段路得在深雪里长时间苦走。'),sources=S('trudges','trudge'))
+W('trudged','/trʌdʒd/','疲惫、吃力地走了',
+ '下班累得够呛，还一步步走回去，是 trudged home。它让人看见脚步沉重，不只是交代走路回家。',
+ 'trudge 去 e 加完整 -ed，/dʒ/ 后读 /d/，不增加 /ɪd/ 音节。',TRUDGE+[['trudge + -ed → trudged','过去费力、疲惫地步行']],
+ 'trudged home；trudged through the rain；trudged uphill。',
+ 'trudged for hours；trudged back to the car。',
+ 'trudged 可写心情沉重，也可只是身体疲劳；不必从一个词就推定人一定伤心。',
+ ('They trudged back to the car after the long hike.','长途徒步后，他们拖着疲惫的步子走回车旁。'),('I trudged home in the pouring rain.','我冒着大雨，疲惫地走回家。'),sources=S('trudged','trudge'))
+W('trudging','/ˈtrʌdʒɪŋ/','正在疲惫、费力地步行',
+ '每迈一步都像得再使点劲，背包压着肩，路还没完，是 trudging。它直接把步行的辛苦放进画面。',
+ 'trudge 去 e 加 -ing；/dʒ/ 保留，表示疲惫步行的过程。',TRUDGE+[['trudge + -ing → trudging','费力步行的过程']],
+ 'trudging through mud 在泥里吃力地走；trudging uphill。',
+ 'trudging home；tired of trudging across town。',
+ 'trudging 比 walking 更突出费力、沉重；不表示一步不前，仍然在走。',
+ ('We spent an hour trudging through the mud.','我们在泥里吃力地走了一个小时。'),('She was trudging uphill with two heavy bags.','她提着两个重包，正费力地往坡上走。'),sources=S('trudging','trudge'))
+W('trek','/trek/','长途、费力的旅程；长途跋涉、徒步',
+ '一走好几个小时，翻山、穿林，路不轻松，是 a trek。日常也可夸张地说：办公室太远，去一趟就是个 trek。',
+ '借南非荷兰语 trek，接荷兰 trekken 行进、拉。英语早有牛车旅程、迁移背景，后来泛指长途、费力的行程，不是现代 track 的换字母形式。',TREK,
+ 'a mountain trek 山地徒步；trek across the hills 跋涉过丘陵。',
+ 'a long trek to the office；trek for several days。',
+ 'trek 更有距离长、路线费劲的感觉，walk 范围更广；楼下随便散两步通常不必说 trek。',
+ ('We planned a three-day trek through the mountains.','我们计划在山里徒步三天。'),('It is quite a trek from my desk to the other building.','从我工位走到另一栋楼，可真够远的。'),sources=S('trek','trek'))
+W('treks','/treks/','长途、费力的旅程〔复数〕；长途跋涉〔第三人称单数〕',
+ '几次山地长途徒步是 treks；他每周背着包走很远，也可以说 he treks。都是完整 trek 加 -s，句子决定词性。',
+ 'trek + -s，/k/ 后读 /s/；名词复数和动词三单同形。',TREK+[['trek + -s → treks','多次长途行程，或他、她长途跋涉']],
+ 'guided treks 有向导的长途徒步；treks across the valley。',
+ 'mountain treks；treks to the far side of town。',
+ 'treks 不必都是登山，journeys 也不限步行；现代 trek 常把长、费劲的感觉带进去。',
+ ('The company organises guided treks in the mountains.','那家公司组织有向导带领的山地徒步。'),('She treks across town to visit her grandmother every Sunday.','每周日，她都穿过大半座城去看奶奶。'),sources=S('treks','trek'))
+W('trekked','/trekt/','长途跋涉、徒步了',
+ '昨天沿山路走了很久，终于到达营地，可以说 trekked。这个词强调行程的长度、辛苦或冒险感。',
+ 'trek 双写 k，加完整 -ed；/k/ 后读 /t/ → /trekt/。和常见结尾已为 ck 的词不同，这里确实写 kk。',TREK+[['trek + -ed → trekked','双写 k，过去完成长途跋涉']],
+ 'trekked through the forest；trekked for hours；trekked across the hills。',
+ 'trekked to a remote village；had trekked all day。',
+ 'trekked 指跋涉行进，tracked 是追踪、记录；可能远源相关的词，也有不同现代构词和意思。',
+ ('We trekked through the forest for six hours.','我们在森林里跋涉了六个小时。'),('They trekked to a remote village in the hills.','他们长途步行，来到山里一个偏远村庄。'),sources=S('trekked','trek'))
+W('trekking','/ˈtrekɪŋ/','长途跋涉、徒步旅行',
+ '把长路、山野、背包连起来，就是常见的 trekking。它可说正在走的过程，也能当作一种户外活动名称。',
+ 'trek 双写 k 加 -ing；词源经南非荷兰语、荷兰语进入，不把拼写中 kk 当作另一个词根。',TREK+[['trek + -ing → trekking','双写 k，跋涉过程或徒步活动']],
+ 'go trekking 去长途徒步；trekking boots 徒步靴。',
+ 'trekking in the hills；a trekking route。',
+ 'trekking 强调步行、跋涉，camping 强调露营住宿；两种活动常一起发生，但不是同一件事。',
+ ('They spent the holiday trekking in the hills.','他们假期一直在山里徒步。'),('Good boots made the trekking much more comfortable.','好靴子让长途徒步舒服多了。'),sources=S('trekking','trek'))
+W('trekker','英 /ˈtrekə/；美 /ˈtrekɚ/','长途徒步、跋涉的人',
+ '背着包，一段段走长路、翻山路的人，可以叫 a trekker。强调参加徒步跋涉的人，而不是所有出门旅游的人。',
+ '现代可看 trek 双写 k 加完整 -er；英语历史来源也有直接借荷兰 trekker 的分析，不把现代拆分强当唯一借入路径。',TREK+[['trek + -er 对应 trekker；也有荷兰语借入分析','现代指长途徒步、跋涉者']],
+ 'an experienced trekker 有经验的徒步者；a solo trekker 独自跋涉的人。',
+ 'a mountain trekker；advice for a trekker。',
+ 'tourist 范围广，可以乘车观光，trekker 更着眼于步行跋涉；不是所有旅行者都背包走长路。',
+ ('An experienced trekker joined us for the final stage.','一位有经验的徒步者加入了我们的最后一段行程。'),('The lone trekker reached the village before dark.','那位独自跋涉的人在天黑前到了村庄。'),sources=S('trekker','trek'))
+W('trekkers','英 /ˈtrekəz/；美 /ˈtrekɚz/','长途徒步、跋涉的人〔复数〕',
+ '一队背包走山路的人是 trekkers。它数的是人，treks 数的则是一趟趟行程。',
+ 'trekker + -s，读 /z/；基础名词与 trek 加 -er 对应，也可能接荷兰 trekker 借入材料。',TREK+[['trekker + -s → trekkers','多个长途徒步者']],
+ 'a group of trekkers 一队徒步者；experienced trekkers。',
+ 'trekkers on the mountain trail；equipment for trekkers。',
+ 'trekkers 是走长路的人，trekking 是活动；a group of trekkers 与 a day of trekking 分别说人、事。',
+ ('The trekkers reached the camp before sunset.','徒步者们在日落前到达营地。'),('The trail is popular with experienced trekkers.','那条路线很受有经验的徒步者欢迎。'),sources=S('trekkers','trek'))
+W('slog','英 /slɒɡ/；美 /slɑɡ/','苦干；吃力地走；重击；一段艰苦工作',
+ '任务又长又累，只能咬着牙做，是 slog。a hard slog 很常见，像一步一步顶着阻力磨过去。它也保留用力击打的意思。',
+ '较早英语指重击，可能是 slug 击打材料的变体；后来有苦干，再有顽强、吃力步行义。不能从 slug 蛞蝓直接推出这条来历。',SLOG,
+ 'a hard slog 一场苦干；slog through a report 费力读完报告。',
+ 'slog away 埋头苦干；slog uphill 吃力爬坡。',
+ 'work 只说工作，slog 常突出时间长、费劲、很难轻松做完；不必把每次工作都说成苦干。',
+ ('Finishing the report was a hard slog.','写完那份报告真是一场苦干。'),('We had to slog through deep mud to reach the road.','我们得在深泥里费力走，才能到公路上。'),sources=S('slog','slog'))
+W('slogs','英 /slɒɡz/；美 /slɑɡz/','苦干、吃力地走〔第三人称单数〕；几段艰苦工作',
+ '他每天对着单调的表格埋头做，是 slogs away；几次漫长又费劲的任务，也可数成 slogs。',
+ 'slog + -s，读 /z/；名词复数与动词三单同形，基础词较早重击义之后发展出苦干义。',SLOG+[['slog + -s → slogs','他或她苦干；多段苦活']],
+ 'slogs away at the paperwork；long slogs 几段漫长苦活。',
+ 'slogs uphill；slogs through the files。',
+ 'slogs away 强调持续苦干，puts off 强调拖着不做；难而继续与难而推后是两种行为。',
+ ('She slogs away at the accounts every evening.','她每天晚上都埋头苦算账目。'),('The early stages were long slogs with little visible progress.','前几个阶段都是长时间苦干，却看不出多少进展。'),sources=S('slogs','slog'))
+W('slogged','英 /slɒɡd/；美 /slɑɡd/','苦干了；费力走过了；用力击打了',
+ '刚才顶着疲惫把难活磨完，或走过一段泥地，可以说 slogged。球场等语境里，也可说用力把球击出去。',
+ 'slog 双写 g 加完整 -ed，/ɡ/ 后读 /d/；不另加 /ɪd/。',SLOG+[['slog + -ed → slogged','双写 g，过去苦干、苦走或重击']],
+ 'slogged through the work；slogged uphill；slogged the ball。',
+ 'slogged away for hours；slogged through the mud。',
+ 'slogged through 强调费劲推进，glided through 常像顺畅轻松完成；后者借滑行的画面，语气相反。',
+ ('We slogged through the paperwork until midnight.','我们苦干到半夜，才把那些文书工作推进完。'),('The batter slogged the ball towards the boundary.','击球手用力把球击向边界。'),sources=S('slogged','slog'))
+W('slogging','英 /ˈslɒɡɪŋ/；美 /ˈslɑɡɪŋ/','正在苦干、吃力前行；用力击打',
+ '活一时做不完，人仍一段段往前磨，是 slogging。它不像轻松做事，更像投入持续的力气，顶着单调和疲劳。',
+ 'slog 双写 g 加 -ing；短元音重读单音节的规则变化。',SLOG+[['slog + -ing → slogging','双写 g，苦干、费力行进或重击的过程']],
+ 'slogging away at a task 埋头苦干；slogging through mud。',
+ 'slogging uphill；slogging through a long document。',
+ 'slogging 不等于没有结果；它写过程辛苦，能不能成功要看后文，不能只凭费劲就判断失败。',
+ ('They were slogging away at the repairs all weekend.','他们整个周末都在埋头苦干，忙着修缮。'),('After an hour of slogging uphill, we finally saw the cabin.','吃力爬坡一个小时后，我们终于看见了小屋。'),sources=S('slogging','slog'))
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zhq',ROOTS,WORDS)
+ extend_lessons()

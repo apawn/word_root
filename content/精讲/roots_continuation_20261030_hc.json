@@ -1,0 +1,60 @@
+[
+  {
+    "id": "B3760",
+    "meaning": "改变形态、面貌、性质和运作方式",
+    "core": "TRANSFORM：从一种样子，变成另一种样子",
+    "image": "transform → transformation 转变过程、结果；transformer 转换装置；transformative 造成深刻改变的。",
+    "intro": "先看动作与结果，再看执行转换的装置和具有变革作用的性质。变压器只是这份广义转换中的一个特定器物名称。",
+    "forms": "trāns- + fōrmāre → trānsfōrmāre → transform；transform + -ation/-er；transformātīvus → transformative。",
+    "branches": [
+      [
+        "改变、改变的过程",
+        "transform · transformation"
+      ],
+      [
+        "执行者和变革性质",
+        "transformer · transformative"
+      ]
+    ],
+    "contrasts": "transformer/adapter 具体装置类型不能全等；transformative 突出深刻改变；专名 Transformer 需看领域。",
+    "practice": "The new approach transformed the project and had a transformative effect on the team.\n\n新方法改造了项目，也给团队带来了深刻改变。",
+    "words": [
+      "transform",
+      "transformation",
+      "transformer",
+      "transformative"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3572",
+    "meaning": "准备好的器具、办事手段与器具的配置",
+    "core": "INSTRUMENT：办事靠的工具，发声、测量或达成目的",
+    "image": "instrument → instrumental 与器乐有关、发挥关键作用 → instrumentation 整体配置、配器。",
+    "intro": "乐器和测量仪器都来自器具；抽象手段也一样是在帮助办事。instrumental in 这一常用结构尤其值得从工具帮助成事来懂。",
+    "forms": "īnstruere → īnstrūmentum → instrument；instrumentālis/instrument + -al → instrumental；instrument + -ation。\n\n拉丁 instrumentum 经法语借入，乐器、仪器和手段各有现代用途。",
+    "branches": [
+      [
+        "器具、手段与相应作用",
+        "instrument · instrumental"
+      ],
+      [
+        "器具系统与音乐配器",
+        "instrumentation"
+      ],
+      [
+        "instrument → instruments：配备好的工具",
+        "instrument · instruments"
+      ]
+    ],
+    "contrasts": "instrument 乐器不只弦乐器；instrumental in doing 常说关键作用；instrumentation 看实验还是音乐领域。",
+    "practice": "Better instrumentation was instrumental in improving the experiment.\n\n更好的仪器配置对改进实验发挥了关键作用。",
+    "words": [
+      "instrument",
+      "instrumental",
+      "instrumentation",
+      "instruments"
+    ],
+    "exclude": {}
+  }
+]

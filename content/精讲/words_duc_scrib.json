@@ -407,7 +407,7 @@
     "ipa": "英 /ˌɪntrəˈdjuːs/；美 /ˌɪntrəˈduːs/",
     "meaning": "介绍；引进；开始采用",
     "sense": "introduce 就是“带进来”：把一个陌生人带进你的认识范围，把一个新点子或新制度带进某个场景。",
-    "split": "拉丁语 intrō（向内）+ dūcere（带领），经法语传入。intro- 这里表示进入，不表示“第一”。",
+    "split": "较早拉丁 intrō- 向内 + dūcere 带领形成 intrōdūcere。英语 introduce 有直接接拉丁动词或从 introduction 逆构的分析；intro- 的核心是向内、引入。",
     "history": [
       [
         "拉丁语：dūcere",
@@ -418,12 +418,8 @@
         "带到里面"
       ],
       [
-        "古法语：introduire",
-        "引入"
-      ],
-      [
-        "英语：introduce",
-        "介绍；引进"
+        "英语 introduce：接拉丁动词或从 introduction 逆构",
+        "引入、带进来 → 介绍、引进"
       ]
     ],
     "explanation": "介绍人、介绍话题、引进产品都保留引入的感觉。introduce someone to something 也可表示让某人初次接触一种活动或知识。",
@@ -440,7 +436,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/introduce#English"
+      "https://en.wiktionary.org/wiki/introduce#English",
+      "https://www.etymonline.com/word/introduce"
     ]
   },
   {
@@ -1162,12 +1159,8 @@
         "带到里面"
       ],
       [
-        "古法语：introduire",
-        "引入"
-      ],
-      [
-        "英语：introduce",
-        "介绍；引进"
+        "英语 introduce：接拉丁动词或从 introduction 逆构",
+        "引入、带进来 → 介绍、引进"
       ],
       [
         "英语：reintroduce",
@@ -1188,7 +1181,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/reintroduce#English"
+      "https://en.wiktionary.org/wiki/reintroduce#English",
+      "https://www.etymonline.com/word/introduce"
     ]
   },
   {
@@ -1237,7 +1231,7 @@
     "ipa": "英 /sɪˈdjuːsə/；美 /sɪˈduːsər/",
     "meaning": "引诱者；勾引者",
     "sense": "seducer 是靠魅力、承诺或欲望让别人动心的人。文学中常指勾引他人的角色，语气比“有魅力的人”重。",
-    "split": "seduce + -er；末尾已有 e，只加 r。",
+    "split": "seduce 去末尾 e，加完整表人后缀 -er。",
     "history": [
       [
         "拉丁语：dūcere",
@@ -2101,7 +2095,7 @@
     "ipa": "英 /səbˈskraɪbə/；美 /səbˈskraɪbər/",
     "meaning": "订阅者；订户；定期支持者",
     "sense": "subscriber 是已经说好“以后继续给我这个内容或服务”的人。可以是付费订户，也可以是免费通讯的订阅者。",
-    "split": "subscribe + -er，表示进行订阅或支持的人；词尾已有 e，只加 r。",
+    "split": "subscribe 去结尾不发音 e，加完整后缀 -er，表示进行订阅或支持的人。",
     "history": [
       [
         "拉丁语：scrībere",
@@ -2125,12 +2119,12 @@
     "contrast": "reader 是读者，subscriber 是订阅者。有人读到转发内容却没有订阅，也有人订阅却暂时没读。",
     "examples": [
       [
-        "Subscribers receive the report every Friday.",
-        "订阅者每周五收到报告。"
+        "Every subscriber receives the report on Friday.",
+        "每位订阅者周五收到报告。"
       ],
       [
-        "The magazine has gained a thousand new subscribers.",
-        "这本杂志新增了一千名订户。"
+        "The magazine welcomed a new subscriber.",
+        "杂志迎来了一位新订户。"
       ]
     ],
     "sources": [
@@ -2672,7 +2666,7 @@
     "ipa": "英 /prɪˈskraɪbə/；美 /prɪˈskraɪbər/",
     "meaning": "开处方者；作出规定者",
     "sense": "prescriber 是决定并开出处方的一方。这个词把注意力放在“谁作出用药或处理要求”这个角色上。",
-    "split": "prescribe + -er；词末已有 e，只加 r。",
+    "split": "prescribe 去末尾 e，加完整表人后缀 -er。",
     "history": [
       [
         "拉丁语：scrībere",

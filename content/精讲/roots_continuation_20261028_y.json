@@ -1,0 +1,157 @@
+[
+  {
+    "id": "B3250",
+    "meaning": "学校、学习机构；相关人员与场所",
+    "core": "SCHOOL：把教学和学习组织到一起",
+    "image": "老师、学生、上课房间和课后活动，用 school 把共同的学习场景连起来。",
+    "intro": "school 是很早进入英语的借词，接拉丁 schola 和古希腊 scholē；希腊词有闲暇到学习讨论等发展。scholar 属于相关古借词分支，不是现代拼写随意变形；鱼群 school 另有来源。",
+    "forms": "先学 school、scholar，再把学校里的人 schoolboy、schooler、schoolteacher、schoolmaster、schoolmate 放一起；场所 schoolroom、schoolyard、schoolhouse 和时间 preschool、afterschool、schoolwork 随后。\n\n学习场所 school 接希腊 schole 闲暇、学习活动的路线；鱼群 school 接荷兰语相关词，是另一来源。\n\nscholastic 经法语、拉丁接希腊 scholastikos；学校相关义和经院哲学义依具体语境判断。\n\n晚期拉丁 scholaris 经古英语 scolere 等传下，与 school 同族，词尾 ar 有历史来源。\n\nschooling 是学校教育、训练的行为名词，school + -ing；鱼成群的 school 另源，不能从学校教育推出。这里保留常用受教育义与训练用法。",
+    "branches": [
+      [
+        "机构与历史学习者",
+        "school · scholar"
+      ],
+      [
+        "学生、教师与同伴",
+        "schoolboy · schooler · schoolteacher · schoolmaster · schoolmate"
+      ],
+      [
+        "场所和学习安排",
+        "schoolroom · schoolyard · schoolhouse · preschool · afterschool · schoolwork"
+      ],
+      [
+        "school → schools：学校、流派；鱼群另源",
+        "school · schools"
+      ],
+      [
+        "school／scholar／scholastic：学校词族的不同借入路线",
+        "school · scholar · scholastic"
+      ],
+      [
+        "scholar → scholars：学习者与专门研究者",
+        "school · scholar · scholars"
+      ],
+      [
+        "school 教育、训练 → schooling",
+        "schooling"
+      ]
+    ],
+    "contrasts": "schoolmate 同校，classmate 同班；scholar 多为学者，schooler 常带阶段修饰；after school 时间短语不必连写。",
+    "practice": "The schoolteacher met an old schoolmate outside the schoolyard.\n\n那位学校教师在操场外遇到了一位老同学。",
+    "words": [
+      "school",
+      "scholar",
+      "schoolboy",
+      "schooler",
+      "schoolteacher",
+      "schoolmaster",
+      "schoolmate",
+      "schoolroom",
+      "schoolyard",
+      "schoolhouse",
+      "preschool",
+      "afterschool",
+      "schoolwork",
+      "schools",
+      "scholastic",
+      "scholars",
+      "schooling"
+    ],
+    "exclude": {
+      "e-school": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "school-ready": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "schoolcraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2595",
+    "meaning": "一个人；个人身份与人格化",
+    "core": "PERSON：把一个具体个体从群体中认出来",
+    "image": "一位乘客、一位发言人、亲自到场的本人；先把具体人和所扮角色联系起来。",
+    "intro": "person 经法语接拉丁 persōna，早有面具、角色等含义，后发展出人、个体。更早来源仍有争议，不用“声音穿过面具”的流行故事当确定拆分。",
+    "forms": "person、personal、personhood 先讲个人、性质和地位；impersonate、personify 分别是扮成别人和体现、拟人。spokesperson、layperson、businessperson、chairperson 按前半限定角色。\n\npersonnel 直接借法语相应集合名词，较早由人的、个人的性质词名词化；与 personal 同源异形，读音重音和现代用法均不同。\n\n拉丁 persona 经法语等借入；日常复数 people 与正式 persons 并看。",
+    "branches": [
+      [
+        "个体、个人与地位",
+        "person · personal · personhood"
+      ],
+      [
+        "扮演与体现",
+        "impersonate · personify"
+      ],
+      [
+        "社会角色",
+        "spokesperson · layperson · businessperson · chairperson"
+      ],
+      [
+        "personal 与 personnel：个人的和人员",
+        "person · personal · personnel"
+      ],
+      [
+        "person → persons：一个人到正式逐人计数",
+        "person · persons"
+      ]
+    ],
+    "contrasts": "personal／personnel：个人的与人员。personhood／personality：地位与个性。impersonate 模仿某个人，personify 使概念有人的形象或具体体现品质。",
+    "practice": "The spokesperson explained the issue to a layperson in person.\n\n发言人当面向一位外行解释了这个问题。",
+    "words": [
+      "person",
+      "personal",
+      "personhood",
+      "impersonate",
+      "personify",
+      "spokesperson",
+      "layperson",
+      "businessperson",
+      "chairperson",
+      "personnel",
+      "persons"
+    ],
+    "exclude": {
+      "person-day": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "person-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2437",
+    "meaning": "连续七天；日历的一周",
+    "core": "WEEK：七天组成一个重复使用的时间单位",
+    "image": "每周一次说频率，一周长说持续时长，周中和周末再划出不同位置。",
+    "intro": "week 接古英语 wice、wucu，经中古英语 weke 延续。先记现代一周七天，避免把更早周期相关词源讲成现代每个细义的唯一解释。",
+    "forms": "week、weekly 讲单位与频率，再看 weeklong 的持续时长；midweek、weekday、weeknight、weekend 按一周里的位置分。workweek 侧重工作周，biweekly 有歧义，沿用已有辨析。\n\nweeks 直接加 s，词尾读 ks；两周和两周的写法按句型分别说明。\n\nweek 与 end 的现代组合，具体所指依作息习惯判断。",
+    "branches": [
+      [
+        "单位、频率与时长",
+        "week · weekly · weeklong · biweekly"
+      ],
+      [
+        "周内位置和工作安排",
+        "midweek · weekday · weeknight · weekend · workweek"
+      ],
+      [
+        "week → weeks：一周与多周",
+        "week · weeks"
+      ],
+      [
+        "weekend → weekends：一周尾段与休息时段",
+        "weekend · weekends"
+      ]
+    ],
+    "contrasts": "weekly 每周一次或按周计算，weeklong 持续一周；weeknight 平日晚间，不等于 nightly 每晚。",
+    "practice": "The weekly class moved to midweek during our weeklong visit.\n\n我们那次为期一周的探访期间，每周的课调到了周中。",
+    "words": [
+      "week",
+      "weekly",
+      "weeklong",
+      "midweek",
+      "weekday",
+      "weeknight",
+      "weekend",
+      "workweek",
+      "biweekly",
+      "weeks",
+      "weekends"
+    ],
+    "exclude": {}
+  }
+]

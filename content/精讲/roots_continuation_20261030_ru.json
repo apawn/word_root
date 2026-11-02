@@ -1,0 +1,285 @@
+[
+  {
+    "id": "A2129",
+    "meaning": "与某方向、地区有关的旧形容词尾",
+    "core": "ERN：把方向名放进南部、北部等性质关系",
+    "image": "north 北方，northern 北部的；east 东方，eastern 东部的。先认方向，再认形容性质。",
+    "intro": "-ern 接中古英语及古英语 -erne 等形式，历史更早涉及日耳曼语词干与后缀的重新划分。现代学习可把几个方向词并排对照。",
+    "forms": "north ↔ northern；south ↔ southern；east ↔ eastern；west ↔ western。southern 的元音与 south 不同，要连同整词读音记。",
+    "branches": [
+      [
+        "南北",
+        "north · northern；south · southern"
+      ],
+      [
+        "东西",
+        "east · eastern；west · western"
+      ]
+    ],
+    "contrasts": "northern 通常作形容词，north 还可作方向名词、副词；modern 的结尾不是这里的 -ern，不能由拼写相似硬拆。",
+    "practice": "The northern route passes through the western hills.\n\n北线穿过西部的山丘。",
+    "words": [
+      "north",
+      "northern",
+      "south",
+      "southern",
+      "east",
+      "eastern",
+      "west",
+      "western"
+    ],
+    "exclude": {
+      "north-northwestern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "west-northwestern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "east-southeastern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "south-southeastern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "east-northeastern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "north-northeastern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "south-southwestern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "west-southwestern": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2045",
+    "meaning": "次数副词中旧词尾的拼写发展",
+    "core": "CE：once、twice、thrice 里留下的旧副词尾",
+    "image": "一次、两次、三次，并排读 once、twice、thrice；不是给任何数字随意加 ce 都能造出常用词。",
+    "intro": "这些形式接早期英语次数副词及副词性 -es 的历史；尾部在后来的音形变化中出现 -ce 拼写。现代 -ce 更适合作为这些固定词的对应线索。",
+    "forms": "one ↔ once；two ↔ twice；three ↔ thrice。由旧形发展到今天，元音、词干也有变化，不是现代词加尾部的一步公式。",
+    "branches": [
+      [
+        "一次、两次",
+        "one · once；two · twice"
+      ],
+      [
+        "三次及现代通用表达",
+        "three · thrice；three times"
+      ]
+    ],
+    "contrasts": "thrice 较书面，three times 更通用；once 也有从前、一旦等其他用法，这页先串次数关系。",
+    "practice": "She checked it once, then twice, and finally thrice.\n\n她检查了一遍，又检查第二遍，最后查到第三遍。",
+    "words": [
+      "one",
+      "once",
+      "two",
+      "twice",
+      "three",
+      "thrice"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1953",
+    "meaning": "名词复数等形式中的词尾材料",
+    "core": "ES：先认基本词，再看复数是否有固定的常用含义",
+    "image": "sensibility 是感受能力等抽象性质；sensibilities 常集中说人的审美、情感倾向。并非所有复数都只是在数几个实物。",
+    "intro": "-es 是英语复数词尾 -s 系统中的形式，承接早期英语相应词尾。现代拼写会与词尾音、y 等字母变化配套；成词后也可能形成固定用法。",
+    "forms": "sensibility 去 y 加 ies → sensibilities；cloth 与 clothes 有旧复数及后续专门化关系。-es 在不同词里不总额外多读一个音节。",
+    "branches": [
+      [
+        "基本词与固定复数用法",
+        "sensibility · sensibilities"
+      ],
+      [
+        "衣料与服装集合的历史关系",
+        "cloth · clothes"
+      ]
+    ],
+    "contrasts": "clothes 衣服不等于 cloths 几块布；mythos 是希腊来源的完整借词，不是英语 myth 加 -es 的普通复数。",
+    "practice": "The designer’s sensibilities influenced both the cloth and the finished clothes.\n\n设计师的审美影响了布料选择，也影响了成衣。",
+    "words": [
+      "sensibility",
+      "sensibilities",
+      "cloth",
+      "clothes"
+    ],
+    "exclude": {
+      "mythos": "来自希腊语 mythos 的完整借词，不是 myth 按英语 -es 规则形成的复数。"
+    }
+  },
+  {
+    "id": "A2130",
+    "meaning": "状态、关系等抽象名词的旧构词材料",
+    "core": "RED：旧的状态、关系尾部，不是红色 red",
+    "image": "hatred 是憎恨这种状态；kindred 说亲属关系、相近性质。名字里都有 red，不代表情感或亲戚真的被染红。",
+    "intro": "-red 经中古英语 -rede、-reden 等接古英语 -rǣden，形成状态、关系等抽象名词。现代只在有限词里保留，另有些旧形式改用别的后缀。",
+    "forms": "hate 与 hatred 对照；kin + 旧关系尾部 → kindred，词中 d 是历史音形发展的一部分。neighborred 一类形式后来更换为 -hood，形成现代 neighborhood。\n\n现代加完整 ing，不另把 bor 当一个英语后缀。",
+    "branches": [
+      [
+        "情感状态",
+        "hate · hatred"
+      ],
+      [
+        "亲属与相近关系",
+        "kin · kindred"
+      ],
+      [
+        "后来被 -hood 重塑的形式",
+        "neighbor · neighborhood"
+      ],
+      [
+        "neighbor → neighboring：邻居到相邻",
+        "neighbor · neighboring"
+      ]
+    ],
+    "contrasts": "kindred 不从 kind 友善 + red 红色猜；neighborhood 的现代词尾是 -hood，旧历史与现代拆分要分层看。",
+    "practice": "They found kindred spirits in the quiet neighborhood.\n\n他们在安静的街区里找到了志趣相投的人。",
+    "words": [
+      "hate",
+      "hatred",
+      "kin",
+      "kindred",
+      "neighbor",
+      "neighborhood",
+      "neighboring"
+    ],
+    "exclude": {
+      "brotherhood": "现代按 brother + -hood 理解，不把近义的旧词尾关系当作现代仍保留 -red。"
+    }
+  },
+  {
+    "id": "A2222",
+    "meaning": "某种工作、活动相关人物的旧词尾变体",
+    "core": "YER：人物后缀的旧形式，在 lawyer 等词中保留",
+    "image": "lawyer 是从事法律事务的人；glazier 安装、处理玻璃。人物词的尾部拼法不同，不表示每一个都是新的职业规则。",
+    "intro": "-yer 与中古英语 -iere、-ere 等人物词尾的发展有关，也可能受法语 -ier 加强。它与常见 -er 是历史相近材料，现代不能随意给每项工作改成 yer。",
+    "forms": "law + -yer → lawyer；glazier 则接 glass 的旧人物派生及词尾变化，可与 glaze 联系学习。glazier 的 -ier 在这里不是更怎样的比较级。",
+    "branches": [
+      [
+        "法律事务人物",
+        "law · lawyer"
+      ],
+      [
+        "玻璃工作人物的近亲词尾",
+        "glass · glazier"
+      ]
+    ],
+    "contrasts": "lawyer 是法律职业人物，不等于任何懂一点 law 的人；glazier 不是 glacier 冰川，注意拼写与发音差别。",
+    "practice": "The glazier asked a lawyer to read the contract.\n\n那位玻璃安装工请律师看了合同。",
+    "words": [
+      "law",
+      "lawyer",
+      "glass",
+      "glazier"
+    ],
+    "exclude": {
+      "sawyer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bowyer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2237",
+    "meaning": "拉丁形容词比较形式中的更……材料",
+    "core": "IOR：旧比较形式留下的高低、年长年幼与内外关系",
+    "image": "superior 对着较高，inferior 对着较低；senior、junior 对着年长年幼；interior、exterior 则说内外。今天都按固定英语词学。",
+    "intro": "接拉丁比较级 -ior 的相应形式；借入英语后形成各自固定用法。拉丁语法中的比较关系，并不要求今天每个英语句子都出现两个比较对象。",
+    "forms": "superior、inferior；senior、junior；interior、exterior；anterior、posterior；prior、ulterior。词干历史各异，不能一概拿现代英语短词直接加 ior。\n\n也有美式学校毕业年级用法，不一概译老人。",
+    "branches": [
+      [
+        "高低与相对级别",
+        "superior · inferior"
+      ],
+      [
+        "年长、年幼与资历",
+        "senior · junior"
+      ],
+      [
+        "内外及前后位置",
+        "interior · exterior · anterior · posterior"
+      ],
+      [
+        "在前与更远、隐藏目的",
+        "prior · ulterior"
+      ],
+      [
+        "senior → seniors：比较级借词的人物复数",
+        "senior · seniors"
+      ]
+    ],
+    "contrasts": "superior to 通常不用 superior than；ulterior motive 常说另有企图；behavior 的结尾来自另一组词形影响，不按更……的比较级解释。",
+    "practice": "The exterior looked plain, but the interior was carefully designed.\n\n外面看起来朴素，内部却经过细心设计。",
+    "words": [
+      "superior",
+      "inferior",
+      "senior",
+      "junior",
+      "interior",
+      "exterior",
+      "anterior",
+      "posterior",
+      "prior",
+      "ulterior",
+      "seniors"
+    ],
+    "exclude": {
+      "behavior": "英语行为名词的历史结尾受 havour 等形式影响，不按拉丁比较级 -ior 解释。"
+    }
+  },
+  {
+    "id": "A1817",
+    "meaning": "规律、安排、管理或知识领域的相应名称材料",
+    "core": "NOMY：从规则、安排，走向管理与知识领域",
+    "image": "autonomy 自己作主；economy 早与家务管理有关；astronomy 关注星体规律。共同材料不是每次都在说现代法律条文。",
+    "intro": "经法语 -nomie、拉丁 -nomia 接希腊 nomos 规则、习惯及安排关系。各复合词的学科、管理等含义逐渐固定。",
+    "forms": "auto- 自己与相应 nomia 形成 autonomy；oikos 家的材料与 nomia 形成 economy 的旧词；astron 星与 nomia 对应 astronomy。ergonomics、ergonomic 也用 nomos 的规律材料，但结尾已经换成相应形式。\n\n后缀意义是复数，ies 是拼写变化结果。",
+    "branches": [
+      [
+        "自己管理与生活经济",
+        "autonomy · economy"
+      ],
+      [
+        "星体、食物与田地领域",
+        "astronomy · gastronomy · agronomy"
+      ],
+      [
+        "分类与工作安排",
+        "taxonomy；ergonomics · ergonomic"
+      ],
+      [
+        "economy → economies：y 结尾名词复数",
+        "economy · economies"
+      ]
+    ],
+    "contrasts": "economy 不能只从现代 eco 环保解释；gastronomy 是饮食文化、烹调知识等领域，不等于所有胃部相关学科；-nomy 也不与 -logy 在所有词中任意互换。",
+    "practice": "Her interests range from astronomy to gastronomy.\n\n她的兴趣从天文学一直延伸到饮食文化。",
+    "words": [
+      "autonomy",
+      "economy",
+      "astronomy",
+      "gastronomy",
+      "agronomy",
+      "taxonomy",
+      "ergonomics",
+      "ergonomic",
+      "economies"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2965",
+    "meaning": "说过；say 的过去式、过去分词；上述的",
+    "core": "SAID：说的动作已发生，或回指刚才提过的对象",
+    "image": "She said hello. 她打了招呼；the said document 则是较正式的上述文件。相同形式已发展出回指用法。",
+    "intro": "said 接古英语 sǣde、sægde 等过去式及相应分词形式，经中古英语延续。拼写 ai 在这里读 /e/，与 say 的 /eɪ/ 不同。",
+    "forms": "say—said—said；un- + said → unsaid；afore- + said → aforesaid。unsaid 常说没有说出口，aforesaid 则说前面已经提过。",
+    "branches": [
+      [
+        "基本说话的过去、分词形式",
+        "say · said"
+      ],
+      [
+        "未说出口与前文回指",
+        "unsaid · aforesaid"
+      ]
+    ],
+    "contrasts": "said 的 ai 不读 say 的元音；aforesaid 正式，日常常直接复述对象或说 mentioned earlier。unsaid 还与 unsay 收回言论的形式关系相连，按上下文读。",
+    "practice": "She said very little and left her strongest objection unsaid.\n\n她话说得很少，把最强烈的反对意见留在了心里。",
+    "words": [
+      "say",
+      "said",
+      "unsaid",
+      "aforesaid"
+    ],
+    "exclude": {}
+  }
+]

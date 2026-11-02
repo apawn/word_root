@@ -1,0 +1,141 @@
+[
+  {
+    "id": "B3706",
+    "meaning": "波形、摆动、信心动摇与传播分析",
+    "core": "WAVE：来回起伏的画面，进入手势、感受和物理量",
+    "image": "wave → wavy、waver；wavelength、waveform、wavefront、wavefunction 按波的描述分；waveguide、wavelet 按引导与分析分；其他复合词另组。",
+    "intro": "水波名词与摆动动词的历史路线汇合，不是一条字母链包办所有。waver 动摇不是人物后缀 -er；wavy 去 e 加 y。",
+    "forms": "wafian、waven → 动词 wave；旧 wawe 等 → 名词 wave；wave + -y/-let；wave + guide；waver 保留旧反复动作词史。\n\n水波名词和摆动动词的较早词形不同，现代拼写靠拢，保留两路背景。\n\nwaver 与 wave 的旧来回摆材料相关，近源有北欧、古英语等分析差别。英语早期犹豫义记录很早，不能把一张摆动意象图当成全部历史先后。\n\nwave 动词承古英语 wafian 摆动、起伏等材料。现代去 e 加完整 -ing，挥手、旗帜飘动与招手示意等义按对象理解。",
+    "branches": [
+      [
+        "基础、形状与动摇",
+        "wave · wavy · waver"
+      ],
+      [
+        "波的描述和引导分析",
+        "wavelength · waveform · wavefront · wavefunction · waveguide · wavelet"
+      ],
+      [
+        "其他领域复合词",
+        "microwave · shortwave · heatwave · brainwave"
+      ],
+      [
+        "wave → waves：水的起伏、手的摆动与一波波事件",
+        "wave · waves"
+      ],
+      [
+        "waver：来回动，也在选择、信念上摇摆",
+        "wave · waver · wavers · wavered · wavering · unwavering · unwaveringly"
+      ],
+      [
+        "wave → waving：来回摇动、挥手",
+        "waving"
+      ]
+    ],
+    "contrasts": "wave/waive 同音异词；waver/waiver 易混；wavy 形状与 waving 动作不同；wavelet 不等于 wavelength。",
+    "practice": "She drew a wavy line to represent a wave.\n\n她画了一条波浪线来表示一个波。",
+    "words": [
+      "wave",
+      "wavy",
+      "waver",
+      "wavelength",
+      "waveform",
+      "wavefront",
+      "wavefunction",
+      "waveguide",
+      "wavelet",
+      "microwave",
+      "shortwave",
+      "heatwave",
+      "brainwave",
+      "waves",
+      "wavers",
+      "wavered",
+      "wavering",
+      "unwavering",
+      "unwaveringly",
+      "waving"
+    ],
+    "exclude": {
+      "blow-wave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3838",
+    "meaning": "次数密、常去与次数稀少",
+    "core": "FREQUENT：像人挤在一起那样，事情也能在时间上密集",
+    "image": "frequent → frequently；infrequent 加否定。基础词的形容词、动词读音先分开。",
+    "intro": "频繁不等于永远，少见不等于绝无。frequent 作动词是常去某地，不只是形容事情次数多。",
+    "forms": "frequēns → frequent 形容词；frequentāre 经法语 → frequent 动词；frequent + -ly；in- + frequent。\n\nfrequency 接拉丁 frequentia 众多、聚集等名词，现代可对照 frequent 与 -cy；物理频率是反复次数的专门化。\n\nfrequency 接拉丁 frequentia 聚集、众多，后来有经常发生、频率义。现代辅音字母 + y 改 i 加 -es，末尾 /siz/，不另多一音节。",
+    "branches": [
+      [
+        "频率与常去",
+        "frequent · frequently"
+      ],
+      [
+        "次数少",
+        "infrequent"
+      ],
+      [
+        "frequent 与 frequency：出现得密与出现的频率",
+        "frequent · frequency"
+      ],
+      [
+        "frequent → frequency → frequencies",
+        "frequencies"
+      ]
+    ],
+    "contrasts": "形容词前重音、动词后重音；frequently 副词；infrequent 非不可能。",
+    "practice": "A frequent visitor comes here frequently.\n\n一位常客经常来这里。",
+    "words": [
+      "frequent",
+      "frequently",
+      "infrequent",
+      "frequency",
+      "frequencies"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2735",
+    "meaning": "宣告、禁止与 banal 的历史；banner 另源对照",
+    "core": "BAN：公开作出命令，现代常落到“不准”；相似拼写须另辨",
+    "image": "ban 的 banned、banning 在本条说明；banal 是经法语绕到平庸的历史旁支；banner 是形近异源对照，不列作 ban 的后代。",
+    "intro": "banal 不能直接按现代禁止拼出陈腐，banner 更不是禁止者。把真正词族与形近词分清，才有用。",
+    "forms": "旧日耳曼宣告词 → ban；法语管辖、公用背景 → banal；日耳曼旗帜词经法语 → banner〔另源〕。\n\n本族宣告词与北欧同族词交汇，现代禁止义结合语境。\n\nban 承古英语 bannan 宣布、命令及北欧、法语相关影响，后突出禁止。现代 -s，/n/ 后读 /z/，禁令复数与第三人称动词同形。",
+    "branches": [
+      [
+        "命令、禁止",
+        "ban"
+      ],
+      [
+        "法语历史旁支",
+        "banal"
+      ],
+      [
+        "形近异源对照，不属 ban 派生",
+        "banner"
+      ],
+      [
+        "ban → banned：命令、禁止",
+        "ban · banned"
+      ],
+      [
+        "ban 公开宣告、禁止 → bans",
+        "bans"
+      ]
+    ],
+    "contrasts": "a ban on 与 ban something 句法不同；banal 陈腐非所有普通；banner 不从 ban + -er。",
+    "practice": "The banner announced a ban on smoking.\n\n横幅上宣布禁止吸烟。",
+    "words": [
+      "ban",
+      "banal",
+      "banner",
+      "banned",
+      "bans"
+    ],
+    "exclude": {
+      "banning": "ban 的规则 -ing 形式，双写 n 已在 ban 条内说明，不另立重复词头。"
+    }
+  }
+]

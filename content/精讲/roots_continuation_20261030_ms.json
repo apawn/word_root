@@ -1,0 +1,213 @@
+[
+  {
+    "id": "B4169",
+    "meaning": "贴面刮去薄层，动作、状态、工具和用品相连",
+    "core": "SHAVE：不是切一大块，而是薄薄削去表面",
+    "image": "shave → shaved、shaver；aftershave 看剃后用品。",
+    "intro": "从刮胡须迁移到削薄冰、缩短时间，核心是少量去掉。剃后用品按时间命名，工具按动作命名。",
+    "forms": "sċafan → shaven → shave；-ed 状态，-er 工具、人；after- 之后。\n\nshave 承古英语 sceafan 刮削，现代去 e 加 -ing。剃须、削去薄层和所削下的薄屑，都沿刮削画面理解。",
+    "branches": [
+      [
+        "动作、完成状态与工具",
+        "shave · shaved · shaver"
+      ],
+      [
+        "剃后用品",
+        "aftershave"
+      ],
+      [
+        "shave 刮、削 → shaving",
+        "shaving"
+      ]
+    ],
+    "contrasts": "shave 可削减时间；shaved ice 是刨冰；aftershave 是用品名。",
+    "practice": "He put the shaver beside the aftershave after he had shaved.\n\n刮完胡子后，他把剃须刀放在须后水旁。",
+    "words": [
+      "shave",
+      "shaved",
+      "shaver",
+      "aftershave",
+      "shaving"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2710",
+    "meaning": "薄石片成为写字板，板上名单再形成安排义",
+    "core": "SLATE：石板上能写，名单、安排和清旧账就接起来",
+    "image": "slate → slated。",
+    "intro": "材料看屋顶，写字板看名单与排期，clean slate 看擦掉旧记录；严厉批评义另按动词分支读。",
+    "forms": "esclate 碎片 → sclate、slate；材料 → 写字板 → 名单、安排；-ed 承各动词状态。\n\nslit 的本族材料与 slice、slate 的法语碎片词常比较旧日耳曼切裂材料；借入近源不同，更远法兰克词形为重建，不能当现代互相改字母。",
+    "branches": [
+      [
+        "材料、名单及相应状态",
+        "slate · slated"
+      ],
+      [
+        "切裂、碎片的历史对照：slate、slit 与 slice",
+        "slate · slit · slits · slice · slices · sliced · slicing"
+      ]
+    ],
+    "contrasts": "slated for 安排与 slated by critics 受批评分清；计划并不等于保证。",
+    "practice": "The building with the slate roof was slated for renovation.\n\n那栋石板瓦屋顶的建筑被列入翻修计划。",
+    "words": [
+      "slate",
+      "slated",
+      "slit",
+      "slits",
+      "slice",
+      "slices",
+      "sliced",
+      "slicing"
+    ],
+    "exclude": {
+      "slater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slaty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2996",
+    "meaning": "长幅扫过，扩展到视线、搜查与全面取胜",
+    "core": "SWEEP：一划带过一大片，再看谁在扫",
+    "image": "sweep → sweeper；过去、完成形式 swept。",
+    "intro": "清扫实体、目光掠过、风席卷和奖项包揽都能沿一幅扫动图像记。-er 既可以人物，也可以设备。",
+    "forms": "swepen → sweep；swept 不规则过去、分词；-er 执行者、工具。\n\nsweep → swept → swept；sweep 的具体早期形式路径有不同解释，不把现代形式硬画成唯一音变路线。\n\n中古英语 swepen，现代三单与名词复数同形；ing 也有全面、广泛形容词义。\n\ner 可命名人或设备，体育角色为另一个已固定场景。\n\nswipe 可能是 sweep 方言变体，也可能有其他旧挥打词参与；历史细节未定。现代滑屏、刷卡与偷拿分别解释，不把 sweep 当确定的直接现代词基。\n\nswoop 很可能延续古英语 swapan 扫、挥动的方言材料，与 sweep 较早形式有关；猛禽扑下的名动用法有各自发展，不硬说现代 sweep 改几个字母便产生 swoop。\n\n旧 sweep stake 表赢走所有赌注，后来成竞赛、抽奖等名称；stakes 取赌注一线。现代尤其美式也可用 a sweepstakes，不机械由结尾 s 判为多个活动。\n\n与 sweep 比较动作，并非 sweep 派生。whisk 的名动词分别接北欧语草束、扫动和快速动作等材料；搅打工具与迅速移动由扫动关系连起来，不一律由现代打蛋器造出所有动词义。",
+    "branches": [
+      [
+        "扫动及执行者",
+        "sweep · sweeper"
+      ],
+      [
+        "sweep 与 swept：一片扫过",
+        "sweep · swept"
+      ],
+      [
+        "sweep → sweeps、sweeping：从一端扫到另一端",
+        "sweep · sweeps · sweeping"
+      ],
+      [
+        "sweeper → sweepers：扫除者、工具与角色",
+        "sweep · sweeper · sweepers"
+      ],
+      [
+        "swipe 的扫过动作与 sweep 的可能历史联系",
+        "sweep · swipe · swipes · swiped · swiping"
+      ],
+      [
+        "swoop：弧线般掠下，与旧扫动材料的联系",
+        "swoop · swoops · swooped · swooping"
+      ],
+      [
+        "sweepstakes：把赌注一扫而得的旧画面",
+        "sweepstakes"
+      ],
+      [
+        "whisk：快速扫动 → 搅打、迅速带走",
+        "whisk · whisks · whisked · whisking"
+      ]
+    ],
+    "contrasts": "a clean sweep 常包揽、全面成功；sweeper 看人、机器或体育角色。",
+    "practice": "The sweeper swept the path in a few broad strokes.\n\n清扫者几下大幅扫动就扫完了小路。",
+    "words": [
+      "sweep",
+      "sweeper",
+      "swept",
+      "sweeps",
+      "sweeping",
+      "sweepers",
+      "swipe",
+      "swipes",
+      "swiped",
+      "swiping",
+      "swoop",
+      "swoops",
+      "swooped",
+      "swooping",
+      "sweepstakes",
+      "whisk",
+      "whisks",
+      "whisked",
+      "whisking"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3810",
+    "meaning": "豆的植物、食物名称，头的俚语另生帽名",
+    "core": "BEAN：豆粒、豆茎、具体豆类，与头形比喻分支",
+    "image": "bean → soybean、beanstalk、beanbag；bean 头 → beanie。",
+    "intro": "植物各部分按前后项看，大豆是具体种类，豆袋装填豆状小颗粒。贴头帽则要先走头的俚语，不按食物用途理解。",
+    "forms": "bēan → bean；soy、stalk、bag 各限定类型、部位、容器；头义 bean + -ie → beanie。\n\n古英语 bean，经中古英语 bene，远源有不同分析；现代普通复数 s。\n\nbean 指头的俚语加小称 -ie，形成帽子名称。\n\ntofu 经日语 tōfu 接汉语豆腐；soy、soya 经荷兰语接日语酱油名，后来也用于大豆及制品。这些是借词历史，与英语 bean 对照食材，不能都拆成 bean 派生。",
+    "branches": [
+      [
+        "豆与具体种类、部位",
+        "bean · soybean · beanstalk"
+      ],
+      [
+        "填充物与头部俚语扩展",
+        "beanbag · beanie"
+      ],
+      [
+        "bean → beans：豆类名称的本族传承",
+        "bean · beans"
+      ],
+      [
+        "bean 的头部俚语 → beanie → beanies",
+        "bean · beanie · beanies"
+      ],
+      [
+        "豆类食物名：tofu、soy、soya",
+        "tofu · soy · soya"
+      ]
+    ],
+    "contrasts": "coffee bean 通名不保证豆科；beanie 普通帽义接头的俚语。",
+    "practice": "Wearing a beanie, she checked the beanstalks in the garden.\n\n她戴着便帽，查看花园里的豆茎。",
+    "words": [
+      "bean",
+      "soybean",
+      "beanstalk",
+      "beanbag",
+      "beanie",
+      "beans",
+      "beanies",
+      "tofu",
+      "soy",
+      "soya"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3044",
+    "meaning": "动物山羊与胡型比喻、译经文化形成的复合",
+    "core": "GOAT：下巴毛能给胡型命名，替罪羊则要看文化故事",
+    "image": "goat → goatee；scape + goat → scapegoat。",
+    "intro": "外形像山羊是胡型，替众人担罪是仪式与翻译的旧故事。两支各有依据，不能只按山羊性格乱讲词源。",
+    "forms": "gāt → goat；-ee 在 goatee 里是指小命名；scape 是 escape 旧缩短，scapegoat 源于译经。\n\ngoat 接古英语 gāt 等日耳曼旧名称；goats 在 /t/ 后加 /s/，不另加音节。",
+    "branches": [
+      [
+        "动物与外形相似名称",
+        "goat · goatee"
+      ],
+      [
+        "文化复合及归责比喻",
+        "scapegoat"
+      ],
+      [
+        "goat → goats：山羊的复数",
+        "goat · goats"
+      ]
+    ],
+    "contrasts": "scapegoat 通常暗示不公归责；goatee 后缀不按被雇用者的受事义理解。",
+    "practice": "The man with the goatee refused to become a scapegoat.\n\n那个留山羊胡的男人不愿当替罪羊。",
+    "words": [
+      "goat",
+      "goatee",
+      "scapegoat",
+      "goats"
+    ],
+    "exclude": {
+      "he-goat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "she-goat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -5,7 +5,7 @@
     "core": "JUNG / JUNCT = JOIN",
     "image": "原来分开的两部分，接成一个关系",
     "intro": "**先想两块积木接到一起。** 拉丁语 iungere 表示连接、联合，iūnctus 是相关分词形式。人接入群体是 join，骨头接合处是 joint，道路接到一起的地方是 junction。再往抽象处走，把任务加到一个人身上，就能出现 enjoin“责令”。",
-    "forms": "jung- / junct- 是拉丁词干的历史变化；join 则是经过法语演变后的样子。它们不是任意替换的拼写规则。ad- 常表示接到旁边，con- 强调共同，dis- 把接着的东西分开；in- 在 injunction 这条线里表示附加在上面。像 subjunctive、adjoint 这样的术语，词源只提供入口，不能代替现代专业定义。",
+    "forms": "jung- / junct- 是拉丁词干的历史变化；join 则是经过法语演变后的样子。它们不是任意替换的拼写规则。ad- 常表示接到旁边，con- 强调共同，dis- 把接着的东西分开；in- 在 injunction 这条线里表示附加在上面。像 subjunctive、adjoint 这样的术语，词源只提供入口，不能代替现代专业定义。\n\n拉丁接合词族经法语进入英语；加入团体与把两件东西连接共享接在一起的画面。\n\n拉丁连接词经法语借入，英语现代词形变化规则。\n\n拉丁 iungere 经法语 joindre 借入，三单 n 后读 z。\n\njoint 经法语接拉丁 iunctus 已连接、iungere 连接。现代复数可指关节、接合处、口语场所等，后起俚语的命名联系有不确定处。",
     "branches": [
       [
         "连接与参与",
@@ -30,6 +30,22 @@
       [
         "接话与回应",
         "rejoin · rejoinder"
+      ],
+      [
+        "join → joined：接到一起与加入",
+        "join · joined"
+      ],
+      [
+        "join → joined → joining：接合与加入",
+        "join · joined · joining"
+      ],
+      [
+        "join → joins：接上、加入",
+        "join · joins"
+      ],
+      [
+        "连接 → joint → joints",
+        "joints"
       ]
     ],
     "contrasts": "**join / joint / junction**：连接这个动作；连接处或共同的；几条线汇接的点。\n\n**junction / juncture**：路口等实际接点；事情发展的某个关头。\n\n**enjoin / rejoin / subjoin**：施加要求；重新加入或接话；把内容附在后面。\n\n**conjunction / disjunction**：逻辑里的“且”与“或”。词根帮你建立画面，真假规则仍按逻辑定义。",
@@ -75,7 +91,11 @@
       "sejoin",
       "subjoin",
       "subjoinder",
-      "surrejoinder"
+      "surrejoinder",
+      "joined",
+      "joining",
+      "joins",
+      "joints"
     ]
   }
 ]

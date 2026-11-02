@@ -1,0 +1,90 @@
+[
+  {
+    "id": "A1768",
+    "meaning": "拉丁名词形式和科学名称传统，具体类别看整词",
+    "core": "-IUM：名字像科学，不代表全是金属、元素或真实物质",
+    "image": "常用元素按来源线索记；ammonium 铵离子、mycelium 菌丝体、adamantium 虚构金属另外分；auditorium、colloquium 是另一类拉丁名词借词。",
+    "intro": "sodium 联系 soda，potassium 联系 potash，radium 联系射线，iridium 联系彩虹，thorium 借神名。-ium 是命名形式，不能代替物质类别。",
+    "forms": "拉丁 -ium 等名词形式进入英语借词；近代科学沿用拉丁化命名 → 大量元素、物质名；现代也用来造虚构科学感名称。\n\nsodium 的名称取 soda 词基加 -ium；soda 的化学物质义与现代汽水义分开，钠与这些化合物不是同一物质。\n\nstadium 保留希腊 stadion 经拉丁 stadium 的借词形式；与近代元素命名分开阅读。stadion 更早来源有争论，这里从长度单位、跑道讲到体育场。\n\n拉丁 alumen、近代 alumina 等命名背景，两种元素名在近代形成不同常用拼法。\n\nauditorium 加 -s 成 auditoriums；auditoria 沿拉丁名词复数形式，不是把字母 a 当新的地点后缀。",
+    "branches": [
+      [
+        "常用元素与矿物、性质线索",
+        "sodium · aluminium · potassium · calcium · barium · radium · iridium · osmium"
+      ],
+      [
+        "神话、天体、放射性等名称",
+        "thorium · uranium · plutonium · helium"
+      ],
+      [
+        "离子、同位素与菌丝结构",
+        "ammonium · deuterium · mycelium"
+      ],
+      [
+        "拉丁活动、场所名词",
+        "auditorium · colloquium"
+      ],
+      [
+        "虚构科学材料",
+        "adamantium"
+      ],
+      [
+        "soda → sodium：材料名称进入元素命名",
+        "soda · sodium"
+      ],
+      [
+        "stadium：希腊词经拉丁 -ium 形式借入的另一条路线",
+        "stadium · stadiums"
+      ],
+      [
+        "aluminium、aluminum：同一元素的常见英美名称",
+        "aluminium · aluminum"
+      ],
+      [
+        "-ium 场所名称及 auditoria 复数",
+        "auditorium · auditoriums · auditoria"
+      ]
+    ],
+    "contrasts": "aluminium/aluminum 英美对应，alumina 氧化铝另物；ammonium 非元素；helium 非金属；mycelium 真菌；adamantium 虚构。",
+    "practice": "The list included real elements, an ammonium ion and the fictional metal adamantium.\n\n列表包括真实元素、铵离子，以及虚构金属 adamantium。",
+    "words": [
+      "sodium",
+      "aluminium",
+      "potassium",
+      "calcium",
+      "barium",
+      "radium",
+      "iridium",
+      "osmium",
+      "thorium",
+      "uranium",
+      "plutonium",
+      "helium",
+      "ammonium",
+      "deuterium",
+      "mycelium",
+      "auditorium",
+      "colloquium",
+      "adamantium",
+      "soda",
+      "stadium",
+      "stadiums",
+      "aluminum",
+      "auditoriums",
+      "auditoria"
+    ],
+    "exclude": {
+      "beryllium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gallium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "niobium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thallium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "caesium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "magisterium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "euphonium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cerium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tellurium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yttrium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gadolinium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "technetium": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "word": "marriages",
+    "ipa": "/ˈmærɪdʒɪz/",
+    "meaning": "婚姻、婚姻关系〔复数〕；融合、结合〔比喻〕",
+    "sense": "把一段婚姻关系看成一个整体，几段或几对人的婚姻，就是 marriages。比喻里也能把两种东西的融合叫 marriage。",
+    "split": "marriage 借古法语 mariage，接 marier 结婚、拉丁 maritare。现代可对照 marry 与 -age 认词族，但名词有独立借入历史；加复数 -s，/dʒ/ 后读 /ɪz/。",
+    "history": [
+      [
+        "拉丁 maritare → 法语 marier、mariage → marriage",
+        "结婚 → 婚姻关系、结合"
+      ],
+      [
+        "marriage + -s → marriages",
+        "多段婚姻；多种融合"
+      ]
+    ],
+    "explanation": "successful marriages 幸福、美满的婚姻；arranged marriages 包办、安排的婚姻；different marriages 不同婚姻。",
+    "usage": "marriages in the novel 小说里的婚姻关系；marriages of styles 风格的融合。",
+    "contrast": "marriages 通常数婚姻关系，weddings 数婚礼。婚礼是仪式，婚姻是两人持续的关系，不能随意互换。",
+    "examples": [
+      [
+        "The novel follows three very different marriages.",
+        "小说描写了三段很不一样的婚姻。"
+      ],
+      [
+        "Their grandparents both had long, happy marriages.",
+        "他们两边的祖辈都有长久幸福的婚姻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/marriages#English",
+      "https://en.wiktionary.org/wiki/marriage#English"
+    ]
+  },
+  {
+    "word": "migrants",
+    "ipa": "/ˈmaɪɡrənts/",
+    "meaning": "迁移者、移居者；迁徙动物〔复数〕",
+    "sense": "从一个地方移到另一个地方生活、工作的人，可以是 migrants。随季节迁走的鸟等动物，也能这样说。",
+    "split": "migrant 接拉丁 migrare 迁移的现在分词 migrans、migrant-，可能经法语借入；英语先有形容词，后常作人物名词。现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 migrare → migrans、migrant- → migrant",
+        "正在迁移的 → 迁移者"
+      ],
+      [
+        "migrant + -s → migrants",
+        "多位迁移者；多只迁徙动物"
+      ]
+    ],
+    "explanation": "seasonal migrants 季节性迁移者；rural migrants 从农村迁出的人；migrants arriving in a city 来到城市的移居者。",
+    "usage": "support for migrants 对移居者的支持；birds that are migrants 迁徙鸟类。",
+    "contrast": "migrants 不自动说明国籍、停留多久或迁移原因；可以在一国内移动，也可以跨国。不能只凭这个词补出法律身份。",
+    "examples": [
+      [
+        "The exhibition tells the stories of migrants who moved to the city.",
+        "展览讲述了迁居这座城市的人们的故事。"
+      ],
+      [
+        "Some of these birds are seasonal migrants.",
+        "这些鸟中有些会季节性迁徙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/migrants#English",
+      "https://en.wiktionary.org/wiki/migrant#English"
+    ]
+  },
+  {
+    "word": "notices",
+    "ipa": "英 /ˈnəʊtɪsɪz/；美 /ˈnoʊtɪsɪz/",
+    "meaning": "告示、通知〔复数〕；注意到〔第三人称单数〕",
+    "sense": "贴出来让大家知道的一条条信息，是 notices；某个人看到了别人没留意的细节，也可以说 notices。共同点是让某事进入认知。",
+    "split": "notice 借法语 notice，接拉丁 notitia 知悉，与 notus 已知的词族相关；英语名词转动词。现代加 -s，词尾 /s/ 后读 /ɪz/。",
+    "history": [
+      [
+        "拉丁 notitia → 法语 notice → 英语名词 notice",
+        "知悉 → 让人知道的信息"
+      ],
+      [
+        "名词转动词；notice + -s → notices",
+        "多条告示；某人察觉到"
+      ]
+    ],
+    "explanation": "public notices 公告；notices on the board 布告栏上的通知；notices small changes 留意到细微变化。",
+    "usage": "read the notices 读通知；notices that… 注意到……。",
+    "contrast": "notices 作动词是察觉，不要求主动仔细观察。名词 notice 还可说预先告知，这时不一定是一张纸。",
+    "examples": [
+      [
+        "The entrance is covered with notices about the event.",
+        "入口贴满了这场活动的通知。"
+      ],
+      [
+        "She always notices small changes in the room.",
+        "她总能注意到房间里的细微变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/notices#English",
+      "https://en.wiktionary.org/wiki/notice#English"
+    ]
+  },
+  {
+    "word": "personalities",
+    "ipa": "英 /ˌpɜːsəˈnælətiz/；美 /ˌpɜːrsəˈnælətiz/",
+    "meaning": "性格、个性〔复数〕；知名人物、鲜明人物〔复数〕",
+    "sense": "几个人各有怎样的一套脾气、反应和处事方式，是 different personalities。这个词也能直接数那些有鲜明公众形象的人。",
+    "split": "personality 接法语 personalité、中世纪拉丁 personalitas，较早表示作为人的性质；现代可对应 personal + -ity。复数把末尾 y 改 i，加 -es，尾读 /tiz/。",
+    "history": [
+      [
+        "拉丁 persona、personalis → 法语等名词 → personality",
+        "人、个人的 → 个性、性格"
+      ],
+      [
+        "personality 的 y 改 i + -es → personalities",
+        "不同性格；鲜明或知名的人物"
+      ]
+    ],
+    "explanation": "different personalities 不同性格；strong personalities 很有主见、个性鲜明的人；television personalities 电视名人。",
+    "usage": "contrasting personalities 截然不同的性格；well-known personalities 知名人物。",
+    "contrast": "personalities 不只是好性格，也不只等于 famous people。看上下文是在比较人的性格，还是把某些公众人物一个个数出来。",
+    "examples": [
+      [
+        "The sisters have very different personalities.",
+        "姐妹俩的性格很不一样。"
+      ],
+      [
+        "Several television personalities attended the event.",
+        "几位电视名人出席了活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/personalities#English",
+      "https://en.wiktionary.org/wiki/personality#English"
+    ]
+  },
+  {
+    "word": "recordings",
+    "ipa": "英 /rɪˈkɔːdɪŋz/；美 /rɪˈkɔːrdɪŋz/",
+    "meaning": "录音、录像、录制品〔复数〕",
+    "sense": "声音或画面已经被保存下来，之后可以重听、重看，一份份这样的内容就是 recordings。它们是成果，不只是在录制这个动作。",
+    "split": "record 经法语 recorder 接拉丁 recordari 记住，连 cor、cord- 心的旧记忆比喻。record 加完整 -ing 形成过程及成果名词；recording 再加复数 -s，尾 /ŋz/。",
+    "history": [
+      [
+        "拉丁 recordari → 法语 recorder → record",
+        "记住 → 记载、保存声音影像"
+      ],
+      [
+        "record + -ing → recording；再加 -s → recordings",
+        "录制过程 → 多份录制内容"
+      ]
+    ],
+    "explanation": "audio recordings 录音；video recordings 录像；old recordings 旧录制品。",
+    "usage": "listen to the recordings 听录音；recordings of interviews 访谈录音、录像。",
+    "contrast": "recordings 是可数录制内容；recording 泛说录制过程时常不数。一份 recording 也不一定对应一张实体光盘。",
+    "examples": [
+      [
+        "We listened to recordings of the interviews.",
+        "我们听了访谈录音。"
+      ],
+      [
+        "The archive contains several early video recordings.",
+        "档案中保存着几份早期录像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recordings#English",
+      "https://en.wiktionary.org/wiki/recording#English"
+    ]
+  },
+  {
+    "word": "respects",
+    "ipa": "/rɪˈspekts/",
+    "meaning": "尊重、顾及〔第三人称单数〕；方面、敬意、问候〔复数用法〕",
+    "sense": "把对方的需要、边界放在心上，是 respects。in some respects 把事情分成几个观察方面；pay respects 则是表达敬意、致意。",
+    "split": "respect 接法语 respect、拉丁 respectus，连 re- 回与 specere 看，较早回头看、顾及。现代加 -s，/t/ 后读 /s/；名词复数有固定搭配发展。",
+    "history": [
+      [
+        "拉丁 respicere、respectus → 法语、英语 respect",
+        "回头看、顾及 → 尊重、考虑"
+      ],
+      [
+        "respect + -s → respects",
+        "某人尊重；若干方面、表达的敬意"
+      ]
+    ],
+    "explanation": "respects your decision 尊重你的决定；in many respects 在许多方面；pay one’s respects 致意、表达敬意。",
+    "usage": "in all respects 在各方面；give someone my respects 代我向某人致意。",
+    "contrast": "respect 泛说尊重常不可数；respects 在方面、致意这些用法里要整体看搭配。不是每个 respect 都只是把敬意数成一份两份。",
+    "examples": [
+      [
+        "She respects our decision to wait.",
+        "她尊重我们再等等的决定。"
+      ],
+      [
+        "The two plans are similar in several respects.",
+        "这两个计划在几个方面相似。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/respects#English",
+      "https://en.wiktionary.org/wiki/respect#English"
+    ]
+  },
+  {
+    "word": "specialists",
+    "ipa": "/ˈspeʃəlɪsts/",
+    "meaning": "专家、专门人员〔复数〕",
+    "sense": "不是每件事都做一点，而是在一个领域里研究、工作得很深的人，是 specialists。",
+    "split": "specialist 借法语 spécialiste，现代可对应 special + 表从事者的完整 -ist；special 经拉丁 specialis 接 species 种类。现代加复数 -s，尾 /sts/。",
+    "history": [
+      [
+        "拉丁 species、specialis → 法语 spécialiste → specialist",
+        "某一类、专门的 → 专门研究或工作的人"
+      ],
+      [
+        "specialist + -s → specialists",
+        "多位专家、专门人员"
+      ]
+    ],
+    "explanation": "language specialists 语言专家；technical specialists 技术专门人员；a team of specialists 专家团队。",
+    "usage": "specialists in a field 某领域专家；consult specialists 向专家请教。",
+    "contrast": "specialists 说明专门领域，不保证他对所有领域都懂。specialists in music 是音乐领域专家，不能省掉领域就推成全能。",
+    "examples": [
+      [
+        "The museum invited specialists to examine the painting.",
+        "博物馆请专家来研究这幅画。"
+      ],
+      [
+        "Language specialists helped prepare the guide.",
+        "语言专家协助编写了这份指南。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/specialists#English",
+      "https://en.wiktionary.org/wiki/specialist#English"
+    ]
+  },
+  {
+    "word": "consuming",
+    "ipa": "英 /kənˈsjuːmɪŋ/；美 /kənˈsuːmɪŋ/",
+    "meaning": "消耗、吃喝、耗费；占满心神的〔现在分词、动名词、形容词〕",
+    "sense": "把食物、能量、时间一点点用掉，是 consuming。一个念头占得心里满满的，也像把注意力全吃掉，可以是 consuming。",
+    "split": "consume 经古法语 consumer 接拉丁 consumere，con- 加强 + sumere 拿取，较早完全取用、耗尽。现代 consume 去 e 加完整 -ing。",
+    "history": [
+      [
+        "拉丁 con- + sumere → consumere → consume",
+        "完全取用 → 消耗、吞没"
+      ],
+      [
+        "consume 去 e + -ing → consuming",
+        "正在消耗；占据心神的"
+      ]
+    ],
+    "explanation": "consuming energy 消耗能源；consuming food 吃食物；a consuming interest 占据全部心神的兴趣。",
+    "usage": "consuming resources 消耗资源；a consuming passion 强烈到占满心思的热爱。",
+    "contrast": "consuming 不自动表示消耗完了；过程可能仍在进行。形容词用法强调某种感受抓住全部注意力。",
+    "examples": [
+      [
+        "The old machine is consuming too much energy.",
+        "这台旧机器耗能太多。"
+      ],
+      [
+        "Music became a consuming interest for her.",
+        "音乐成了她全心投入的兴趣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consuming#English",
+      "https://en.wiktionary.org/wiki/consume#English"
+    ]
+  },
+  {
+    "word": "contracted",
+    "ipa": "/kənˈtræktɪd/",
+    "meaning": "收缩了、缩小了；订约了、承包的；染上了〔过去式、过去分词〕",
+    "sense": "把散开的东西拉到一起，空间就缩紧；把双方拉进一个约定，就订了约。contracted 的这些常用意思，都可从收拢、形成关系来理解。",
+    "split": "拉丁 con- 一起 + trahere 拉 → contrahere，经相关法语、拉丁形式接英语 contract 动词。现代加完整 -ed，/t/ 后读 /ɪd/，保持动词后重音。",
+    "history": [
+      [
+        "拉丁 contrahere → 法语、英语 contract 动词",
+        "拉在一起 → 收缩、订约；另有招致、染上义"
+      ],
+      [
+        "contract + -ed → contracted",
+        "已经收缩、订约、染上等"
+      ]
+    ],
+    "explanation": "contracted in the cold 冷时收缩了；contracted to provide… 订约提供……；a contracted form 缩约形式。",
+    "usage": "contracted services 外包、依合同提供的服务；contracted a disease 染上某种疾病。",
+    "contrast": "contracted 作过去动词不能照名词 contract 的前重音读。具体是收缩、订约还是染上，要看后面接的对象和介词。",
+    "examples": [
+      [
+        "The material contracted as it cooled.",
+        "材料冷却时收缩了。"
+      ],
+      [
+        "The company contracted to supply the costumes.",
+        "公司签约供应戏服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contracted#English",
+      "https://en.wiktionary.org/wiki/contract#English"
+    ]
+  },
+  {
+    "word": "costumes",
+    "ipa": "英 /ˈkɒstjuːmz/；美 /ˈkɑːstuːmz/",
+    "meaning": "戏服、装扮服装；某时期或群体的服饰〔复数〕",
+    "sense": "演员穿上就能让人认出角色、年代的衣服，是 costumes。节日里专为扮成某个人物准备的衣服，也这样说。",
+    "split": "costume 经法语接意大利语 costume 风俗、风尚，较早拉丁 consuetudo。与 custom 同源但借入路线不同；从时代风尚走向符合角色、时代的服饰。现代加 -s，/m/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 consuetudo → 意大利语、法语 costume → 英语借词",
+        "习惯、风尚 → 角色或时代相符的衣着"
+      ],
+      [
+        "costume + -s → costumes",
+        "多套戏服、装扮服装"
+      ]
+    ],
+    "explanation": "stage costumes 舞台戏服；historical costumes 历史服饰；costumes for the play 这部戏的戏服。",
+    "usage": "wear costumes 穿装扮服装；design the costumes 设计戏服。",
+    "contrast": "costumes 不泛指每一件日常衣服；clothes 更普通。它强调角色、场合或某种传统风格。",
+    "examples": [
+      [
+        "The actors tried on their costumes before rehearsal.",
+        "演员们排练前试穿了戏服。"
+      ],
+      [
+        "The exhibition includes costumes from several periods.",
+        "展览陈列了几个时期的服饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/costumes#English",
+      "https://en.wiktionary.org/wiki/costume#English"
+    ]
+  },
+  {
+    "word": "develops",
+    "ipa": "/dɪˈveləps/",
+    "meaning": "发展、开发；逐渐形成、产生〔第三人称单数〕",
+    "sense": "原来还不成熟、不明显的东西，一步步展开、变得成形，是 develops。可以是能力增长，也可以是问题逐渐出现。",
+    "split": "develop 借法语 développer，较早解开包裹、展开；包裹材料更远来源未定。抽象潜能展开走向发展、产生。现代加 -s，/p/ 后读 /s/。",
+    "history": [
+      [
+        "古法语 desveloper → 法语 développer → develop",
+        "解开、展开 → 逐渐形成、发展"
+      ],
+      [
+        "develop + -s → develops",
+        "某事发展；某主体开发、产生"
+      ]
+    ],
+    "explanation": "develops a skill 培养技能；develops software 开发软件；a problem develops 问题逐渐出现。",
+    "usage": "develops over time 随时间发展；develops into… 发展成……。",
+    "contrast": "develops 不只讲好转。能力能发展，问题也能形成；方向好坏由对象和语境决定。",
+    "examples": [
+      [
+        "The story develops slowly at first.",
+        "故事起初展开得很慢。"
+      ],
+      [
+        "She develops new exercises for the class.",
+        "她为班级设计新的练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/develops#English",
+      "https://en.wiktionary.org/wiki/develop#English"
+    ]
+  },
+  {
+    "word": "doubled",
+    "ipa": "/ˈdʌbəld/",
+    "meaning": "加倍了、变成两倍；弯折了〔过去式、过去分词〕",
+    "sense": "原来一份，现在变成两份那么多，是 doubled。double over、double up 还可借对折画面说弯下身子等。",
+    "split": "动词 double 经古法语 dobler 接拉丁 duplare 使成两倍；形容词另经 duplus 同族路线。现代 double 去末尾 e，加完整 -ed，/l/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 duplare → 法语 dobler → 英语 double 动词",
+        "使成两倍 → 加倍；对折、弯折"
+      ],
+      [
+        "double 去 e + -ed → doubled",
+        "已经成为或使成两倍"
+      ]
+    ],
+    "explanation": "doubled in size 大小变成两倍；doubled the amount 把数量加倍；doubled over 弯下身。",
+    "usage": "almost doubled 几乎翻倍；doubled up with laughter 笑得弯下腰。",
+    "contrast": "doubled 是变成原来的两倍，不是增加到三倍。a doubled number 与 a number increased by two 也不相同，后者只加二。",
+    "examples": [
+      [
+        "The number of pages doubled after the revision.",
+        "修改后页数变成了原来的两倍。"
+      ],
+      [
+        "He doubled over with laughter.",
+        "他笑得弯下了腰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/doubled#English",
+      "https://en.wiktionary.org/wiki/double#English"
+    ]
+  },
+  {
+    "word": "economies",
+    "ipa": "英 /ɪˈkɒnəmiz/；美 /ɪˈkɑːnəmiz/",
+    "meaning": "经济体系〔复数〕；节约、节省措施〔复数用法〕",
+    "sense": "不同地方各自如何生产、分配、交换资源，可以分别说 economies。另一个常见方向是少花资源办同样的事，也就是节约。",
+    "split": "economy 经法语、拉丁接希腊 oikonomia 家务管理，oikos 家与分配、管理材料相关；从持家扩大到资源管理。现代末尾 y 改 i，加 -es，尾读 /miz/。",
+    "history": [
+      [
+        "希腊 oikonomia → 拉丁、法语 → economy",
+        "管理家庭资源 → 经济体系、节省"
+      ],
+      [
+        "economy 的 y 改 i + -es → economies",
+        "多个经济体系；若干节约"
+      ]
+    ],
+    "explanation": "local economies 地方经济；different economies 不同经济体系；make economies 节省开支、作节约。",
+    "usage": "economies of scale 规模经济、规模扩大带来的节约；economies in space 节省空间。",
+    "contrast": "economies 不总是在数国家。讲 make economies 或 economies of scale 时，重心可能是减少耗费、提高资源利用。",
+    "examples": [
+      [
+        "The book compares the economies of three fictional islands.",
+        "这本书比较了三个虚构岛屿的经济体系。"
+      ],
+      [
+        "Sharing the room allowed small economies in space.",
+        "合用房间让空间得到了一点节省。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/economies#English",
+      "https://en.wiktionary.org/wiki/economy#English"
+    ]
+  },
+  {
+    "word": "excluded",
+    "ipa": "/ɪkˈskluːdɪd/",
+    "meaning": "被排除的、不包括的；排除了〔过去式、过去分词〕",
+    "sense": "某个东西被留在范围外，或某个人没被允许加入，就是 excluded。那道门有时是真门，有时是名单、定义或计算范围。",
+    "split": "拉丁 ex- 向外 + claudere 关，复合成 excludere，再借入英语 exclude。现代去 e 加完整 -ed，词干末 /d/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 ex- + claudere → excludere → exclude",
+        "关在外面 → 不包括、不让进入"
+      ],
+      [
+        "exclude 去 e + -ed → excluded",
+        "已经排除；处于被排除状态"
+      ]
+    ],
+    "explanation": "excluded from the group 被排除在群体外；costs excluded 不含某些费用；excluded the possibility 排除了可能性。",
+    "usage": "feel excluded 感到被冷落、被排斥；excluded from the list 不在名单范围内。",
+    "contrast": "excluded 可以是有意不准参加，也可以只是规则或计算没有包括。不要只凭词形推断是谁故意针对谁。",
+    "examples": [
+      [
+        "The appendix was excluded from the page count.",
+        "附录没有计入页数。"
+      ],
+      [
+        "She felt excluded from the conversation.",
+        "她觉得自己插不进谈话，像被排斥在外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excluded#English",
+      "https://en.wiktionary.org/wiki/exclude#English"
+    ]
+  },
+  {
+    "word": "expects",
+    "ipa": "/ɪkˈspekts/",
+    "meaning": "预料、期待；要求〔第三人称单数〕",
+    "sense": "心里先留一个位置，觉得某件事应该会来，是 expects。它可能是判断，也可能是对别人提出应当做到的标准。",
+    "split": "expect 接拉丁 exspectare，ex- 向外 + spectare 看，较早向外望着等。现代在整个动词后加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 ex- + spectare → exspectare → expect",
+        "望着等 → 预料、期待、要求"
+      ],
+      [
+        "expect + -s → expects",
+        "某主体预料、期望或要求"
+      ]
+    ],
+    "explanation": "expects to return 预料会回来；expects a reply 期待回复；expects us to listen 要求我们听。",
+    "usage": "expects that… 预料……；expects a lot of someone 对某人要求很高。",
+    "contrast": "expects 不保证结果发生，也不都表示高兴。She expects trouble 是她预料会有麻烦，不是她盼着出麻烦。",
+    "examples": [
+      [
+        "He expects to finish the draft tomorrow.",
+        "他预料明天能写完初稿。"
+      ],
+      [
+        "The teacher expects everyone to listen carefully.",
+        "老师要求大家认真听。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/expects#English",
+      "https://en.wiktionary.org/wiki/expect#English"
+    ]
+  },
+  {
+    "word": "feeds",
+    "ipa": "/fiːdz/",
+    "meaning": "喂养、供应〔第三人称单数〕；信息流、供料源等〔复数〕",
+    "sense": "把需要的东西持续送进去，是 feeds：给动物送食物，给机器送材料，给屏幕送内容。后面这些一股股内容也能叫 feeds。",
+    "split": "feed 动词继承古英语 fedan，与 food 有旧同族关系；名词沿供应材料、内容等方向发展。现代加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 fedan → feed",
+        "喂养 → 持续供应、输入"
+      ],
+      [
+        "feed + -s → feeds",
+        "某人喂养、某物供给；多个内容流或供料源"
+      ]
+    ],
+    "explanation": "feeds the birds 喂鸟；feeds data into… 把数据输入……；news feeds 新闻信息流。",
+    "usage": "video feeds 视频流；feeds information to someone 向某人提供信息。",
+    "contrast": "feeds 作动词和作名词读音相同。看它是在说谁把东西送进去，还是在数接收到的几路内容。",
+    "examples": [
+      [
+        "She feeds the birds every morning.",
+        "她每天早晨喂鸟。"
+      ],
+      [
+        "The screen shows two live video feeds.",
+        "屏幕显示着两路实时视频。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/feeds#English",
+      "https://en.wiktionary.org/wiki/feed#English"
+    ]
+  },
+  {
+    "word": "highlighted",
+    "ipa": "/ˈhaɪlaɪtɪd/",
+    "meaning": "突出显示了、强调了；标亮的〔过去式、过去分词〕",
+    "sense": "在一大片内容里，让某些地方像被光照亮一样跳出来，就是 highlighted。可以真的给文字上色，也可以在讲话中强调。",
+    "split": "highlight 由 high 与 light 合成，画面亮处、高光发展为重要内容；名词转相关动词。现代加完整 -ed，词尾 /t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "high + light → highlight",
+        "明亮、显眼部分 → 精彩处、重点"
+      ],
+      [
+        "highlight 动词 + -ed → highlighted",
+        "已经让内容显眼；已经强调"
+      ]
+    ],
+    "explanation": "highlighted text 标亮文字；highlighted the problem 强调了问题；highlighted in yellow 用黄色标亮。",
+    "usage": "the highlighted sentence 标亮的句子；highlighted a difference 突出指出差异。",
+    "contrast": "highlighted 的比喻义不要求真有颜色。报告 highlighted an issue，只是把这件事作为值得注意的重点提出来。",
+    "examples": [
+      [
+        "She highlighted the key sentence in yellow.",
+        "她用黄色标亮了关键句。"
+      ],
+      [
+        "The discussion highlighted a gap in our plan.",
+        "讨论突出暴露了我们计划中的一个缺口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highlighted#English",
+      "https://en.wiktionary.org/wiki/highlight#English"
+    ]
+  }
+]

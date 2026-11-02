@@ -1,0 +1,159 @@
+[
+  {
+    "id": "A1903",
+    "meaning": "属于、来自某处的名称形式，扩展到矿物、化石和物质",
+    "core": "-ITE：前项给来历，后缀给它一个成员、材料式名称",
+    "image": "bauxite 地名、lignite 木、ammonite 羊角神名；kryptonite 仿材料命名。",
+    "intro": "不要把所有 -ite 都当同一种矿物：有矿石、煤、化石，也有人物和生物化学类别。以具体前项和整词定义为准。",
+    "forms": "希腊 -itēs 经拉丁、法语发展；另一化学盐后缀 -ite 与 -ate 的命名体系有关，逐词辨。",
+    "branches": [
+      [
+        "矿石、煤与矿物名称",
+        "bauxite · lignite · calcite · magnetite · pyrite · ferrite"
+      ],
+      [
+        "天外来源与古生物名称",
+        "meteorite · ammonite"
+      ],
+      [
+        "其他物质及虚构命名",
+        "dynamite · kryptonite"
+      ],
+      [
+        "人物、生物化学与形状名称",
+        "socialite · metabolite · dendrite"
+      ]
+    ],
+    "contrasts": "相同词尾不等于相同分类；bauxite 不是单一纯矿物，ammonite 是动物、化石，kryptonite 是虚构材料。",
+    "practice": "The display separated bauxite ore, an ammonite fossil and a fictional kryptonite prop.\n\n展台把铝土矿、菊石化石和虚构氪石道具分开放置。",
+    "words": [
+      "bauxite",
+      "lignite",
+      "calcite",
+      "magnetite",
+      "pyrite",
+      "ferrite",
+      "meteorite",
+      "ammonite",
+      "dynamite",
+      "kryptonite",
+      "socialite",
+      "metabolite",
+      "dendrite"
+    ],
+    "exclude": {
+      "aphrodite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quartzite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "muscovite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bentonite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "inositol": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fluorite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "andesite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thermite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "perovskite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sulfite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "samsonite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "laterite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "carbonite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nanite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kimberlite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aragonite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cordite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jadeite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "biotite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "labradorite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4282",
+    "meaning": "用力拉、搬运，到货运业务、角色和全面检修",
+    "core": "HAUL：费劲把东西拉过来、运过去",
+    "image": "haul → haulage、hauler；overhaul 还要接航海检视的历史。",
+    "intro": "动作、业务、承运者按后缀连着记。overhaul 从旧索具检查发展为整套检修，不能只按现代搬运逐字翻译。",
+    "forms": "haler、halen 等旧拉取词 → haul；-age 活动、费用；-er 执行者；overhaul 有航海词史。\n\nhaul 经中古英语 halen 等接法语、日耳曼拉拖材料；所获一批东西的名词可联系收网所得，长途名词又指运输距离。",
+    "branches": [
+      [
+        "运输动作、业务及承运者",
+        "haul · haulage · hauler"
+      ],
+      [
+        "全面检修、改革",
+        "overhaul"
+      ],
+      [
+        "haul 的费力拉运与所得",
+        "haul · hauls · hauled · hauling"
+      ]
+    ],
+    "contrasts": "a haul 可一批收获；hauler 可以公司、车辆；overhaul 名词、动词常有重音差别。",
+    "practice": "The hauler arranged an overhaul of the truck before the long haul.\n\n长途运输前，承运方安排给卡车大修。",
+    "words": [
+      "haul",
+      "haulage",
+      "hauler",
+      "overhaul",
+      "hauls",
+      "hauled",
+      "hauling"
+    ],
+    "exclude": {
+      "anti-haul": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backhaul": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3738",
+    "meaning": "植物、材料与振动簧片，形容词再借细长和音色",
+    "core": "REED：一根细长苇秆，也能成为发声材料的名字",
+    "image": "reed → reedy。",
+    "intro": "实体芦苇、簧片部件与声音性质连起来看。材料名转功能名后，即便换材料，名称也可能继续使用。",
+    "forms": "hrēod → reed；-y 具有、类似相应特征。",
+    "branches": [
+      [
+        "植物、乐器部件及相关性质",
+        "reed · reedy"
+      ]
+    ],
+    "contrasts": "reed 不保证所有现代簧片都用真芦苇；reedy 声音是细高音色评价。",
+    "practice": "The clarinet reed produced a thin, reedy note.\n\n单簧管簧片发出一个高细的音。",
+    "words": [
+      "reed",
+      "reedy"
+    ],
+    "exclude": {
+      "bur-reed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reeder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3675",
+    "meaning": "木片旧名变勺，再按容器量与勺类细分",
+    "core": "SPOON：凹处能盛东西，一次盛多少就是 spoonful",
+    "image": "spoon → spoonful；teaspoon、tablespoon 说明具体勺类。",
+    "intro": "器具、动作、所盛的量分三层看。-ful 在本词是数量名词后缀，和有某性质的形容词用法不同。",
+    "forms": "spōn 木片 → spoon 勺；-ful 所容纳量；tea、table 限定勺名。\n\n古英语 spon 木片，经英语及北欧相关词发展器具名。",
+    "branches": [
+      [
+        "器具、所盛量与具体勺类",
+        "spoon · spoonful · teaspoon · tablespoon"
+      ],
+      [
+        "spoon → spoons：木片材料到勺",
+        "spoon · spoons"
+      ]
+    ],
+    "contrasts": "spoonfuls 常规复数；不说明勺子大小时，不自行当成一个固定毫升数。",
+    "practice": "She measured one spoonful with the tablespoon.\n\n她用大汤匙量了一勺。",
+    "words": [
+      "spoon",
+      "spoonful",
+      "teaspoon",
+      "tablespoon",
+      "spoons"
+    ],
+    "exclude": {
+      "spoon-feed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spooner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

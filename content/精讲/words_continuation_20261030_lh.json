@@ -1,0 +1,453 @@
+[
+  {
+    "word": "ash",
+    "ipa": "/æʃ/",
+    "meaning": "灰、灰烬；白蜡树、白蜡木〔另源〕",
+    "sense": "火熄后留下的细灰是 ash；a pile of ashes 是一堆灰烬。但 an ash tree 是活的白蜡树，不是烧焦的树，两条来源恰好同形。",
+    "split": "灰烬承古英语 æsce，经中古英语 asshe 等；树名承古英语 æsc。更早日耳曼语形式也不同，不把树名解释为灰烬演变。",
+    "history": [
+      [
+        "灰烬：古英语 æsce → 中古英语 asshe → ash",
+        "燃烧后留下的灰；又作灰色、残余比喻"
+      ],
+      [
+        "树木：古英语 æsc → ash",
+        "白蜡树及其木材；与灰烬是不同来源"
+      ]
+    ],
+    "explanation": "wood ash 木灰，volcanic ash 火山灰，reduce something to ashes 烧成灰，an ash tree 一棵白蜡树，ash wood 白蜡木。",
+    "usage": "wood ash；volcanic ash；an ash tree。",
+    "contrast": "ash、ashes 依用法可说灰或残余；火山灰是喷出的细碎物质，不是把普通木灰吹上天。树名语境另辨。",
+    "examples": [
+      [
+        "A layer of ash covered the cold fireplace.",
+        "冷下来的壁炉里覆着一层灰。"
+      ],
+      [
+        "An ash tree shaded the garden gate.",
+        "一棵白蜡树为花园门口遮阴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ash#English",
+      "https://www.etymonline.com/word/ash"
+    ]
+  },
+  {
+    "word": "ashtray",
+    "ipa": "/ˈæʃtreɪ/",
+    "meaning": "烟灰缸",
+    "sense": "接住 ash 的 tray：不只是灰，还可以装烟蒂。复合词点出了容器所收的东西。",
+    "split": "ash 灰 + tray 托盘、浅容器，组合成专门盛烟灰、烟蒂的器具名称。",
+    "history": [
+      [
+        "灰烬：古英语 æsce → 中古英语 asshe → ash",
+        "燃烧后留下的灰；又作灰色、残余比喻"
+      ],
+      [
+        "ash + tray → ashtray",
+        "接烟灰、放烟蒂的容器"
+      ]
+    ],
+    "explanation": "an empty ashtray 空烟灰缸，empty the ashtray 清空烟灰缸，a glass ashtray 玻璃烟灰缸。",
+    "usage": "empty the ashtray；a glass ashtray。",
+    "contrast": "tray 是宽泛托盘，ashtray 是特定用途容器；形状可以不是普通托盘那样扁平。",
+    "examples": [
+      [
+        "An empty ashtray stood on the outdoor table.",
+        "户外桌上放着一个空烟灰缸。"
+      ],
+      [
+        "He washed the glass ashtray and put it away.",
+        "他洗净玻璃烟灰缸，把它收了起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ashtray#English"
+    ]
+  },
+  {
+    "word": "ashy",
+    "ipa": "/ˈæʃi/",
+    "meaning": "含灰的、覆灰的；灰似的、灰白的",
+    "sense": "东西上落了灰，或颜色、外观像灰一样，都可能 ashy。形容皮肤时，也常说干燥后表面灰白的样子。",
+    "split": "ash 灰烬 + -y，中古英语已有相应形式。-y 可以说有灰，也可以说像灰，按对象判断。",
+    "history": [
+      [
+        "灰烬：古英语 æsce → 中古英语 asshe → ash",
+        "燃烧后留下的灰；又作灰色、残余比喻"
+      ],
+      [
+        "ash + -y → ashy",
+        "有灰、像灰；灰白外观"
+      ]
+    ],
+    "explanation": "ashy ground 覆灰地面，an ashy colour 灰似的颜色，ashy skin 干燥显灰白的皮肤。",
+    "usage": "ashy ground；ashy skin。",
+    "contrast": "ashy 不只说脏：颜色、皮肤外观可以只是相似；ashen face 更常突出受到惊吓等后脸色惨白。",
+    "examples": [
+      [
+        "The fire left an ashy patch on the ground.",
+        "火在地上留下了一片覆灰的痕迹。"
+      ],
+      [
+        "Her hands looked dry and ashy in the cold weather.",
+        "天冷时，她的双手显得干燥、灰白。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ashy#English"
+    ]
+  },
+  {
+    "word": "ashen",
+    "ipa": "/ˈæʃən/",
+    "meaning": "灰白的、脸色惨白的；白蜡木制的〔另源〕",
+    "sense": "人的脸突然失去血色，像灰一样白，可说 ashen。若读到 an ashen shaft，可能是在说白蜡木做的杆，得换到树木支线。",
+    "split": "灰白义承中古英语相应形式，可对应 ash 灰 + -en；木制义承古英语 æscen，对应 ash 白蜡树 + 材料后缀 -en。两条 ash 来源分开。",
+    "history": [
+      [
+        "灰烬：古英语 æsce → 中古英语 asshe → ash",
+        "燃烧后留下的灰；又作灰色、残余比喻"
+      ],
+      [
+        "树木：古英语 æsc → ash",
+        "白蜡树及其木材；与灰烬是不同来源"
+      ],
+      [
+        "派生词分支",
+        "ashtray 烟灰缸；ashy、ashen 灰似的，ashen 另可指白蜡木制的"
+      ]
+    ],
+    "explanation": "an ashen face 惨白的脸，turn ashen 脸色变得惨白；ashen woodwork 等材料用法较文学、专门，先能识别即可。",
+    "usage": "an ashen face；turn ashen。",
+    "contrast": "ashen 常说灰白而无血色，不是一般健康肤色；木制义的 -en 像 wooden 的材料后缀。",
+    "examples": [
+      [
+        "He turned ashen when he heard the news.",
+        "听到消息，他脸色一下惨白。"
+      ],
+      [
+        "She sat silently, her face ashen.",
+        "她默默坐着，脸色灰白。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ashen#English"
+    ]
+  },
+  {
+    "word": "bride",
+    "ipa": "/braɪd/",
+    "meaning": "新娘、即将结婚或刚结婚的女性",
+    "sense": "不是所有妻子都一直称 bride；这个词把镜头放在婚礼前后、作为新人的身份上。",
+    "split": "承古英语 brȳd，经中古英语 bride 到现代；有日耳曼语同源词，更早来源仍有争论，不把婚俗猜测写成确定词根。",
+    "history": [
+      [
+        "古英语 brȳd → bride",
+        "将结婚或新婚的女性；更远来源有争论"
+      ],
+      [
+        "婚礼前后的人物身份",
+        "将结婚、新婚的女性"
+      ]
+    ],
+    "explanation": "the bride and groom 新娘和新郎，the bride’s family 新娘的家人。作品、婚礼安排等语境中也可以单独说 the bride。",
+    "usage": "the bride and groom；the bride’s family。",
+    "contrast": "bride 是婚礼人物身份，wife 是婚姻关系身份；bridal 是相关形容词，bridesmaid 是伴娘。",
+    "examples": [
+      [
+        "The bride entered the room with her sister.",
+        "新娘和姐姐一起走进房间。"
+      ],
+      [
+        "The bride and groom thanked their guests.",
+        "新娘和新郎感谢了来宾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bride#English"
+    ]
+  },
+  {
+    "word": "bridal",
+    "ipa": "/ˈbraɪdəl/",
+    "meaning": "新娘的、婚礼的",
+    "sense": "bridal dress 是新娘礼服，bridal suite 是婚礼、新婚相关套房。它今天像一个普通的相关形容词，但来历里藏着一场婚宴。",
+    "split": "古英语 brȳdealo 是 brȳd 新娘 + ealu 麦芽酒，指婚宴。婚宴名词后来转作相关形容词，末尾又被理解得像 -al；现代可联想 bride + -al，历史却不只这一刀。",
+    "history": [
+      [
+        "古英语 brȳd → bride",
+        "将结婚或新婚的女性；更远来源有争论"
+      ],
+      [
+        "古英语 brȳd + ealu → brȳdealo",
+        "新娘酒宴、婚宴"
+      ],
+      [
+        "婚宴名词 → bridal 形容词",
+        "婚礼、新娘相关；后来受 bride + -al 的形式理解影响"
+      ]
+    ],
+    "explanation": "a bridal gown 新娘礼服，a bridal suite 新婚套房，a bridal shop 婚纱、婚礼用品店。",
+    "usage": "a bridal gown；a bridal suite；a bridal shop。",
+    "contrast": "bridal 与 bridle 马勒同音而来源不同；bridal party 通常说婚礼中伴随新人的人员组合，不只是一次聚会。",
+    "examples": [
+      [
+        "The shop displays bridal gowns in the window.",
+        "店铺橱窗里展示着婚纱。"
+      ],
+      [
+        "They booked the bridal suite for the wedding night.",
+        "他们为新婚之夜订了新婚套房。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bridal#English",
+      "https://www.etymonline.com/word/bridal"
+    ]
+  },
+  {
+    "word": "touristy",
+    "ipa": "英 /ˈtʊərɪsti/；美 /ˈtʊrɪsti/",
+    "meaning": "游客味很浓的、迎合游客的；典型游客式的",
+    "sense": "一家街边店摆满纪念品、菜单专为游客设计，可能被说 touristy。重点常是很像供游客消费的地方，有时带不够本地、太商业化的评价。",
+    "split": "tourist + -y；-y 把游客这个人物名词变成具有相应特点的形容词。",
+    "history": [
+      [
+        "tourist 游客",
+        "tour 旅行词族中指旅行、游览的人"
+      ],
+      [
+        "tourist + -y / -ic",
+        "touristy、touristic 描述旅游相关、游客特征或迎合游客的性质"
+      ]
+    ],
+    "explanation": "a touristy area 游客味浓的区域，a touristy restaurant 面向游客的餐馆，do touristy things 做常见游客活动。褒贬由说话人决定。",
+    "usage": "a touristy area；do touristy things。",
+    "contrast": "tourist 是人，touristy 是性质；touristy 不自动等于差，也不是所有受欢迎的地方都因此失去价值。",
+    "examples": [
+      [
+        "We left the touristy streets and found a quiet café.",
+        "我们离开游客扎堆的街道，找到一家安静咖啡馆。"
+      ],
+      [
+        "They spent a day doing touristy things around the city.",
+        "他们花了一天在城里体验常见游客活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/touristy#English"
+    ]
+  },
+  {
+    "word": "touristic",
+    "ipa": "英 /tʊəˈrɪstɪk/；美 /tʊˈrɪstɪk/",
+    "meaning": "旅游的、游客相关的；迎合游客的",
+    "sense": "touristic 常出现在较正式的旅游讨论里，说明某项活动、区域与旅游有关；也能表达专供游客的特点。",
+    "split": "tourist + -ic，形成相关性质形容词，使用也受到法语 touristique 等近形词影响。",
+    "history": [
+      [
+        "tourist 游客",
+        "tour 旅行词族中指旅行、游览的人"
+      ],
+      [
+        "tourist + -y / -ic",
+        "touristy、touristic 描述旅游相关、游客特征或迎合游客的性质"
+      ]
+    ],
+    "explanation": "touristic activities 旅游活动，touristic development 旅游开发，touristic appeal 旅游吸引力。tourism、tourist 作前置修饰的表达也很常见。",
+    "usage": "touristic activities；touristic appeal。",
+    "contrast": "touristy 往往更口语、更容易带游客味的评价；touristic 常较正式，但两者意义有重合，不画绝对褒贬界线。",
+    "examples": [
+      [
+        "The report considers the island’s touristic appeal.",
+        "报告讨论了这座岛对游客的吸引力。"
+      ],
+      [
+        "The old railway now has a mainly touristic role.",
+        "这条旧铁路现在主要承担旅游用途。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/touristic#English"
+    ]
+  },
+  {
+    "word": "aunt",
+    "ipa": "英常 /ɑːnt/；美常 /ænt/，也读 /ɑːnt/",
+    "meaning": "姑母、姨母、伯母、婶母、舅母等",
+    "sense": "英语把中文里按爸爸妈妈哪一边、血亲还是姻亲细分的好几种称呼，装进 aunt 这个较大的盒子。需要说明时再补 my mother’s sister 等。",
+    "split": "借盎格鲁法语 aunte、古法语 ante，上接拉丁 amita，原指父亲的姐妹；进入英语后范围扩大，不只对应中文姑母。",
+    "history": [
+      [
+        "拉丁 amita",
+        "原指父亲的姐妹"
+      ],
+      [
+        "古法语 ante、盎格鲁法语 aunte → aunt",
+        "现代涵盖父母双方姐妹及相应姻亲等"
+      ]
+    ],
+    "explanation": "my aunt 我的姑姨等，Aunt Mary 玛丽阿姨，my aunt and uncle 我的姑姨及其配偶等，具体中文称谓要按关系翻译。",
+    "usage": "my aunt；Aunt Mary；my mother’s sister。",
+    "contrast": "aunt 的 /ænt/ 读法可与 ant 蚂蚁同音；/ɑːnt/ 也通行，不能简单说所有美国人只读一种。",
+    "examples": [
+      [
+        "My aunt is my mother’s younger sister.",
+        "我的这位姨妈是我妈妈的妹妹。"
+      ],
+      [
+        "Aunt Mary sent us a postcard.",
+        "玛丽阿姨寄来一张明信片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aunt#English",
+      "https://www.etymonline.com/word/aunt"
+    ]
+  },
+  {
+    "word": "auntie",
+    "ipa": "/ˈɑːnti/ 或 /ˈænti/",
+    "meaning": "阿姨、姑姨等的亲昵称呼；〔部分文化〕熟悉的女性长辈",
+    "sense": "aunt 是亲属类别，auntie 更像叫一声阿姨、姑姑那样亲近。某些文化里也会这样称呼没有血缘关系的熟悉女性长辈。",
+    "split": "aunt + -ie，亲昵、小称后缀，另有 aunty 拼写。不是把姨母年龄变小，而是称呼的语气更亲近。",
+    "history": [
+      [
+        "拉丁 amita",
+        "原指父亲的姐妹"
+      ],
+      [
+        "古法语 ante、盎格鲁法语 aunte → aunt",
+        "现代涵盖父母双方姐妹及相应姻亲等"
+      ],
+      [
+        "aunt + -ie → auntie",
+        "亲昵称呼；一些文化中也用于熟悉女性长辈"
+      ]
+    ],
+    "explanation": "Auntie Jane 简阿姨，visit my auntie 去看姑姨等。是否适合称呼陌生人，要看当地习惯、双方关系。",
+    "usage": "Auntie Jane；my auntie。",
+    "contrast": "auntie 的亲昵不保证对所有人都合适；普通正式介绍可用 aunt。中文也要按实际亲属关系翻译。",
+    "examples": [
+      [
+        "The children ran to greet Auntie Jane.",
+        "孩子们跑去迎接简阿姨。"
+      ],
+      [
+        "I used to stay with my auntie during the holidays.",
+        "假期里，我过去常住在姑妈家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auntie#English"
+    ]
+  },
+  {
+    "word": "span",
+    "ipa": "/spæn/",
+    "meaning": "跨度、范围、时间段；横跨、延续",
+    "sense": "把拇指和小指张开，一头到另一头之间有一段距离，旧 span 就能这样量。后来桥跨多远、事情持续多久，都能用这个跨度画面理解。",
+    "split": "名词承古英语 spann，动词联系古英语 spannan 伸展、连接。由空间两端之间的距离扩到时间、内容范围。",
+    "history": [
+      [
+        "古英语 spann、spannan → span",
+        "张开的手掌量出的距离；伸展、连接"
+      ],
+      [
+        "空间跨度 → 时间范围",
+        "桥的跨距、时间段；动词横跨、延续"
+      ]
+    ],
+    "explanation": "a short span of time 一小段时间，attention span 注意力能持续的时间，span the river 横跨河流，a career spanning decades 延续数十年的职业生涯。",
+    "usage": "a span of；attention span；span several decades。",
+    "contrast": "span 说覆盖的范围，不一定是统计平均寿命；lifespan、wingspan、timespan 的前项会明确量的是哪一种跨度。",
+    "examples": [
+      [
+        "The bridge spans the narrow river.",
+        "桥横跨那条窄河。"
+      ],
+      [
+        "Her career spans more than thirty years.",
+        "她的职业生涯延续了三十多年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/span#English",
+      "https://www.etymonline.com/word/span"
+    ]
+  },
+  {
+    "word": "spanner",
+    "ipa": "英 /ˈspænə/；美 /ˈspænər/",
+    "meaning": "扳手；〔习语〕妨碍顺利进行的东西",
+    "sense": "扳手卡住螺母来拧紧、松开。若一把工具掉进运行的机器里，就会卡住，所以 a spanner in the works 比喻使计划受阻的麻烦。",
+    "split": "工具词历史联系德语 Spanner，来自 spannen 绷紧、连接等，与英语 span 同族。现代可对应 span + -er，但不是因为它跨一座桥而得名。",
+    "history": [
+      [
+        "古英语 spann、spannan → span",
+        "张开的手掌量出的距离；伸展、连接"
+      ],
+      [
+        "空间跨度 → 时间范围",
+        "桥的跨距、时间段；动词横跨、延续"
+      ],
+      [
+        "德语 Spanner → spanner",
+        "较早机械绷紧工具 → 扳手；再有计划受阻的习语"
+      ]
+    ],
+    "explanation": "an adjustable spanner 活动扳手，tighten a nut with a spanner 用扳手拧紧螺母，throw a spanner in the works 使事情横生障碍。",
+    "usage": "an adjustable spanner；a spanner in the works。",
+    "contrast": "普通扳手在英式英语中常用 spanner，美式常用 wrench；美式 spanner 也有较专门的工具范围，不能绝对说没人用。",
+    "examples": [
+      [
+        "He tightened the nut with a spanner.",
+        "他用扳手拧紧螺母。"
+      ],
+      [
+        "The delivery delay threw a spanner in the works.",
+        "送货延误打乱了计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spanner#English",
+      "https://www.etymonline.com/word/spanner"
+    ]
+  },
+  {
+    "word": "spank",
+    "ipa": "/spæŋk/",
+    "meaning": "打屁股；狠揍；〔比喻〕大败",
+    "sense": "这个词常说手掌或扁平物拍打屁股；体育口语里也可把压倒性击败夸张说成 spank。先认识常见动作和比喻。",
+    "split": "常见拍打义来源不确定，可能与拍击的拟声有关。虽与 span 拼写接近，不能直接断成 span + -k 就证明来历。",
+    "history": [
+      [
+        "较早拍打动词 spank",
+        "可能拟声，更早来源未定"
+      ],
+      [
+        "字面与比喻",
+        "拍打屁股 → 大败对手等口语扩展"
+      ]
+    ],
+    "explanation": "spank someone 打某人屁股，spank the opposition 大败对手〔口语〕。体育里常是夸张说一方大胜。",
+    "usage": "spank someone；spank the opposition。",
+    "contrast": "spank 的常用义不要混入 span 的跨距；spanking 在某些固定说法中另有强烈、崭新的程度用法，不能见字就都译成打。",
+    "examples": [
+      [
+        "The character threatens to spank anyone who breaks the rule.",
+        "这个角色威胁要打任何违规者的屁股。"
+      ],
+      [
+        "The home team spanked their rivals in the final.",
+        "主队在决赛中大败对手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spank#English",
+      "https://www.etymonline.com/word/spank"
+    ]
+  }
+]

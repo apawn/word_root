@@ -1,0 +1,87 @@
+[
+  {
+    "id": "B3221",
+    "meaning": "海洋、岸地、海上活动与晕船",
+    "core": "SEA：把后面的地形、人物、活动分组读",
+    "image": "先看岸边和海底，再读航行交通与人员，最后区分生物和晕船；同一基本词下也有明确的小词族。",
+    "intro": "sea 继承古英语水域词，更远来源存在争论。海员的 fare 接旅行，seaborne 的 borne 接携带；seasickness 则是 seasick 的状态名词。",
+    "forms": "sea + shore、coast、floor、wall、-ward、-scape；sea + man、farer、faring、going、borne、worthy；sea + weed、gull、shell、bird；seasick → seasickness。\n\n古英语 sae 的日耳曼继承，更远来源有争论，现代加复数 s。\n\n和 sea 比较海洋场景，不是 sea 派生。coral 经法语、拉丁 corallium 接希腊 korallion，较远可能接闪米特语，但细节未定。",
+    "branches": [
+      [
+        "核心与已有常用词",
+        "sea · seaside · seafront · seaboard · seawater · seafood · seabed · subsea"
+      ],
+      [
+        "岸地、方向与景色",
+        "seashore · seacoast · seafloor · undersea · seaward · seawall · seascape"
+      ],
+      [
+        "交通与海员",
+        "seaport · seaplane · seaway · seaman · seafarer · seafaring · seagoing · seaborne · seaworthy"
+      ],
+      [
+        "海洋生物",
+        "seaweed · seagull · seashell · seabird"
+      ],
+      [
+        "晕船小词族",
+        "seasick · seasickness"
+      ],
+      [
+        "sea → seas：海域、海上状况",
+        "sea · seas"
+      ],
+      [
+        "coral：另源的珊瑚、珊瑚色",
+        "coral · corals"
+      ]
+    ],
+    "contrasts": "seagoing 用途，seaborne 运输途径，seaworthy 适航状态；seasick 形容词，seasickness 名词；seagull 不只一种鸟。",
+    "practice": "The seafarer watched seabirds from the seagoing vessel.\n\n海员从海船上观看海鸟。",
+    "words": [
+      "sea",
+      "seaside",
+      "seafront",
+      "seaboard",
+      "seawater",
+      "seafood",
+      "seabed",
+      "subsea",
+      "seashore",
+      "seacoast",
+      "seafloor",
+      "undersea",
+      "seaward",
+      "seawall",
+      "seascape",
+      "seaport",
+      "seaplane",
+      "seaway",
+      "seaman",
+      "seafarer",
+      "seafaring",
+      "seagoing",
+      "seaborne",
+      "seaworthy",
+      "seaweed",
+      "seagull",
+      "seashell",
+      "seabird",
+      "seasick",
+      "seasickness",
+      "seas",
+      "coral",
+      "corals"
+    ],
+    "exclude": {
+      "sea-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-ground": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-rim": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-robber": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-nymph": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "seagrass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "seahawk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

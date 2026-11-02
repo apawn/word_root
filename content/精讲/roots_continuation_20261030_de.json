@@ -1,0 +1,53 @@
+[
+  {
+    "id": "B3118",
+    "meaning": "雪的状态、形状、天气、出行与比喻",
+    "core": "SNOW：先看飘落和积成白层，再看它怎样阻路、融化、被做成物件",
+    "image": "snow → snowy；snowflake、snowball、snowman 从片、球、人形展开；天气、交通、融雪分组；植物与迁居人物另列。",
+    "intro": "snowball 的增大、snowbound 的被困都有直观动作。snowdrop 是花，snowbird 可是避寒者，不把所有复合词机械译为雪加后项。",
+    "forms": "古英语 snāw → snow；snowy 保留 snāwiġ 老形；snow + flake/ball/man/storm/mobile/shoe/melt/bird/plow；snow + -bound。",
+    "branches": [
+      [
+        "基础、性质与形状",
+        "snow · snowy · snowflake · snowball · snowman"
+      ],
+      [
+        "天气、积雪与融水",
+        "snowstorm · snowpack · snowmelt"
+      ],
+      [
+        "雪地活动与受阻",
+        "snowboard · snowmobile · snowshoe · snowplow · snowbound"
+      ],
+      [
+        "植物和人物比喻",
+        "snowdrop · snowbird"
+      ]
+    ],
+    "contrasts": "snowy 不一定正在 snowing；snowball 可比喻增长；snowbound 已受阻，非仅有雪；snowmobile/snowplow 功能不同；snowdrop 花，snowbird 有人物义。",
+    "practice": "The snowbound village waited for the snowplow while the children built a snowman.\n\n村庄被雪封住，大家等铲雪车来，孩子们则在堆雪人。",
+    "words": [
+      "snow",
+      "snowy",
+      "snowflake",
+      "snowball",
+      "snowman",
+      "snowstorm",
+      "snowpack",
+      "snowmelt",
+      "snowboard",
+      "snowmobile",
+      "snowshoe",
+      "snowplow",
+      "snowbound",
+      "snowdrop",
+      "snowbird"
+    ],
+    "exclude": {
+      "snow-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snow-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snows": "snow 的规则复数或动词第三人称，已在 snow 条内说明，不另立重复词头。",
+      "sno-go": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

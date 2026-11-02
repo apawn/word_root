@@ -1,0 +1,136 @@
+[
+  {
+    "id": "A2028",
+    "meaning": "下方、里面一层；低于标准、数量或应有程度",
+    "core": "UNDER-：位置在下，或程度还没够",
+    "image": "underpants 穿在里面；underfunded 经费不够；underrated 评价偏低。一个在空间上低，一组把低移到数量、能力和评价。",
+    "intro": "别把 under- 都看成完全没有。understaffed 有员工但不够，underemployed 有工作却工时或技能利用不足，underrepresented 有代表但相对基准偏少。undermine 则保留从下方挖松支撑的画面，走向破坏信任、削弱基础。",
+    "forms": "延续古英语 under，现代可作独立介词、副词，也用于复合构词。空间义很早就引申到等级、控制、低于标准等。很多词直接接完整英语词基，但 understand、undertake 等旧复合词有更长历史，不能只用今天“在下面”强推所有义。understand 的 under- 究竟怎样与理解相连仍有争议，不把站在下面所以懂讲成定论。分词形容词 underfunded 等不要求先列一个少用动词；underlay 还需区分垫层名词、独立动词与 underlie 的过去式。",
+    "branches": [
+      [
+        "位置、内外层与下方",
+        "under · underneath · underpants · underwear · undergarment · underground · underwater"
+      ],
+      [
+        "低估、轻描淡写与克制",
+        "underrate · underrated · underestimate · underestimation · understate · understated · understatement"
+      ],
+      [
+        "画线与构成基础",
+        "underline · underlining · underlie · underlay"
+      ],
+      [
+        "代表、服务、钱与人手不足",
+        "underrepresented · underserved · underfunded · understaffed"
+      ],
+      [
+        "利用、工作与动力不足",
+        "underutilized · underemployed · underemployment · underpowered"
+      ],
+      [
+        "保障、表现与研究不足",
+        "underinsured · underperform · underperformance · understudied"
+      ],
+      [
+        "林冠下方的一层",
+        "understory · understorey"
+      ],
+      [
+        "从下面削弱支撑",
+        "undermine"
+      ]
+    ],
+    "contrasts": "underrated 被低估与 understated 低调克制分清；underlining 画线与 underlying 潜在分清；underemployed 不等于 unemployed；understory 的 story 是层；understand 不靠字面编确定词源。",
+    "practice": "The understaffed library serves an underserved area, and its value is often underrated.\n\n这家人手不足的图书馆服务着一个服务不足的地区，它的价值还常被低估。",
+    "words": [
+      "under",
+      "underneath",
+      "undermine",
+      "underrate",
+      "underrated",
+      "understate",
+      "understated",
+      "underline",
+      "underlining",
+      "underpants",
+      "underrepresented",
+      "underserved",
+      "underfunded",
+      "understaffed",
+      "underutilized",
+      "underemployed",
+      "underpowered",
+      "underlie",
+      "underlying",
+      "underlay",
+      "understory",
+      "understorey",
+      "underestimate",
+      "underestimation",
+      "underinsured",
+      "underperform",
+      "underperformance",
+      "undergarment",
+      "understudy",
+      "understudied",
+      "understand",
+      "understood",
+      "understanding",
+      "underground",
+      "underwear",
+      "underwater",
+      "underway",
+      "undergraduate",
+      "undergo",
+      "undertake",
+      "underage",
+      "underworld",
+      "understatement",
+      "underdog",
+      "underside",
+      "undercut",
+      "underscore",
+      "underprivileged",
+      "undersea",
+      "underpaid",
+      "underweight",
+      "underbelly",
+      "undercurrent",
+      "undergrowth",
+      "underpin",
+      "underfoot",
+      "underclass",
+      "undertone",
+      "undersized",
+      "underpass",
+      "underwrite",
+      "undercarriage",
+      "underhanded",
+      "undertow",
+      "underarm",
+      "undervalue",
+      "underemployment",
+      "undernourished",
+      "undershirt",
+      "underwire",
+      "underdevelopment",
+      "underfloor",
+      "underbrush",
+      "undercoat",
+      "underachiever",
+      "underpayment"
+    ],
+    "exclude": {
+      "under-sergeant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "underwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "under-steward": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "under-hedging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "under-kimono": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "undersecretary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "underhill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "undercard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "undersigned": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "understeer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

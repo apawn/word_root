@@ -1,0 +1,756 @@
+[
+  {
+    "word": "joy",
+    "ipa": "/dʒɔɪ/",
+    "meaning": "喜悦；令人高兴的事物",
+    "sense": "不只是状态还不错，而是心里明显涌起高兴、想笑或想分享的那股喜悦。",
+    "split": "经法语 joie 接拉丁 gaudium 等喜悦词。不可数说喜悦感，a joy 可数说带来喜悦的人、事或经历。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "英语 joy 词族",
+        "喜悦本身；感到、表现出喜悦及乐趣"
+      ]
+    ],
+    "explanation": "jump for joy 高兴得跳起来，tears of joy 喜极而泣；a joy to read 读起来令人愉快的作品。",
+    "usage": "tears of joy；jump for joy；bring joy；a joy to。",
+    "contrast": "joy 强调喜悦，happiness 范围较宽；a joy 可说一件乐事，不是只能量化成一小块情绪。",
+    "examples": [
+      [
+        "Her face lit up with joy.",
+        "她的脸因喜悦亮了起来。"
+      ],
+      [
+        "The book is a joy to read.",
+        "这本书读起来很愉快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joy#English"
+    ]
+  },
+  {
+    "word": "joyful",
+    "ipa": "/ˈdʒɔɪfəl/",
+    "meaning": "喜悦的；充满欢乐的",
+    "sense": "欢乐显出来，写在笑声、场面或人的表情上。",
+    "split": "joy + -ful 充满……的，中古英语已有相应形式。不是 joy + full 两个词在句中任意连写。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "英语 joy 词族",
+        "喜悦本身；感到、表现出喜悦及乐趣"
+      ],
+      [
+        "joy + -ful → joyful",
+        "喜悦 → 充满喜悦、欢乐的"
+      ]
+    ],
+    "explanation": "a joyful reunion 欢乐的重逢，joyful news 喜讯，a joyful celebration 欢乐庆典。",
+    "usage": "a joyful reunion；a joyful celebration；joyful laughter。",
+    "contrast": "joyful 是形容词，joy 是名词；tears of joy 喜悦的眼泪，a joyful smile 喜悦的微笑。",
+    "examples": [
+      [
+        "It was a joyful reunion after years apart.",
+        "分别多年后的重逢令人喜悦。"
+      ],
+      [
+        "Joyful laughter filled the room.",
+        "欢乐笑声充满了房间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joyful#English"
+    ]
+  },
+  {
+    "word": "joyfully",
+    "ipa": "/ˈdʒɔɪfəli/",
+    "meaning": "欢欢喜喜地；喜悦地",
+    "sense": "做动作时带着明显快乐，像迎上去时不由自主笑了出来。",
+    "split": "joyful + -ly 成副词，历史有中古英语对应形式；-ful + -ly 合成 -fully，不能少掉该有的 l。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "英语 joy 词族",
+        "喜悦本身；感到、表现出喜悦及乐趣"
+      ],
+      [
+        "joyful + -ly → joyfully",
+        "喜悦的 → 喜悦地行动"
+      ]
+    ],
+    "explanation": "greet someone joyfully 欢喜地迎接，laugh joyfully 开怀大笑；修饰动作表现。",
+    "usage": "greet joyfully；laugh joyfully；announce joyfully。",
+    "contrast": "joyful celebration 用形容词，celebrate joyfully 用副词；joyfully 不改成名词去作 a joyfully。",
+    "examples": [
+      [
+        "The children greeted their grandparents joyfully.",
+        "孩子们欢欢喜喜地迎接祖父母。"
+      ],
+      [
+        "She joyfully announced that the team had won.",
+        "她喜悦地宣布团队获胜了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joyfully#English"
+    ]
+  },
+  {
+    "word": "joyless",
+    "ipa": "/ˈdʒɔɪləs/",
+    "meaning": "缺少欢乐的；乏味、苦闷的",
+    "sense": "事情照样在进行，却没有让人觉得轻松、快乐的那一部分。",
+    "split": "joy + -less 缺少……的，形成没有喜悦的状态、性质。并不一定等于每一刻都痛苦哭泣。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "英语 joy 词族",
+        "喜悦本身；感到、表现出喜悦及乐趣"
+      ],
+      [
+        "joy + -less → joyless",
+        "喜悦 → 缺乏喜悦的"
+      ]
+    ],
+    "explanation": "a joyless existence 乏味苦闷的生活，a joyless routine 没乐趣的日常；评价的是缺乏欢乐，不说明全部外在条件。",
+    "usage": "a joyless life；a joyless routine；a joyless task。",
+    "contrast": "joyless 缺乐趣，killjoy 扫别人兴的人；一个人自己生活 joyless，不必就去做 killjoy。",
+    "examples": [
+      [
+        "The novel describes a joyless routine of work and sleep.",
+        "小说描述了一种只有工作和睡觉、毫无乐趣的日常。"
+      ],
+      [
+        "The room felt formal and joyless.",
+        "房间给人的感觉拘谨而没有欢乐气息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joyless#English"
+    ]
+  },
+  {
+    "word": "enjoy",
+    "ipa": "/ɪnˈdʒɔɪ/",
+    "meaning": "喜欢、享受；享有",
+    "sense": "做这件事时觉得愉快，愿意投入其中；享有权利、景色等时，又说自己拥有这种好处。",
+    "split": "经古法语 enjoier 等借入，认形可用 en- 与 joy 的词族关系，但不是现代英语随便给 joy 加 en 就产生所有享有义。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "古法语 enjoier → 中古英语 enjoyen → enjoy",
+        "给予、感受喜悦 → 喜欢、享受；享有"
+      ]
+    ],
+    "explanation": "enjoy music 喜欢音乐，enjoy reading 喜欢阅读；enjoy a right 享有权利，enjoy the view 欣赏景色；Enjoy yourself 玩得开心。",
+    "usage": "enjoy doing；enjoy yourself；enjoy the view；enjoy a right。",
+    "contrast": "enjoy 后接动名词 doing，通常不说 enjoy to do；I enjoyed myself 是我玩得很开心，不是我自恋地喜欢我自己。",
+    "examples": [
+      [
+        "I enjoy reading on the train.",
+        "我喜欢在火车上读书。"
+      ],
+      [
+        "We enjoyed the view from the hill.",
+        "我们欣赏了山丘上的景色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enjoy#English"
+    ]
+  },
+  {
+    "word": "enjoyable",
+    "ipa": "/ɪnˈdʒɔɪəbəl/",
+    "meaning": "令人愉快的；有乐趣的",
+    "sense": "事情本身让参与者能感到乐趣，不必达到惊心动魄、终生难忘的程度。",
+    "split": "enjoy + -able 可……的，形容能够让人享受其中乐趣的。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "古法语 enjoier → 中古英语 enjoyen → enjoy",
+        "给予、感受喜悦 → 喜欢、享受；享有"
+      ],
+      [
+        "enjoy + -able → enjoyable",
+        "享受 → 能带来乐趣的"
+      ]
+    ],
+    "explanation": "an enjoyable evening 愉快夜晚，an enjoyable experience 有乐趣的经历；既能说轻松消遣，也能说有挑战却有乐趣的活动。",
+    "usage": "an enjoyable evening；an enjoyable experience；make learning enjoyable。",
+    "contrast": "enjoyable 事物令人愉快，joyful 人、场面充满喜悦；一节 enjoyable 的课可以很安静，不一定满屋欢呼。",
+    "examples": [
+      [
+        "We had an enjoyable evening with friends.",
+        "我们和朋友度过了一个愉快夜晚。"
+      ],
+      [
+        "The teacher made the lesson enjoyable.",
+        "老师让这堂课很有乐趣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enjoyable#English"
+    ]
+  },
+  {
+    "word": "enjoyment",
+    "ipa": "/ɪnˈdʒɔɪmənt/",
+    "meaning": "乐趣；享受；享有〔较正式〕",
+    "sense": "不只说做了什么，而是把从中得到的那份乐趣、享受拿出来谈。",
+    "split": "enjoy + -ment 动作、状态名词；也能沿 enjoy 的享有分支用于某些正式权利、使用表达。",
+    "history": [
+      [
+        "拉丁 gaudium、gaudia → 法语 joie → 中古英语 joye",
+        "喜悦、快乐"
+      ],
+      [
+        "古法语 enjoier → 中古英语 enjoyen → enjoy",
+        "给予、感受喜悦 → 喜欢、享受；享有"
+      ],
+      [
+        "enjoy + -ment → enjoyment",
+        "享受、享有 → 乐趣、享受状态或享有"
+      ]
+    ],
+    "explanation": "get enjoyment from reading 从读书中得到乐趣，for your enjoyment 供你欣赏、享受；the enjoyment of a right 享有某项权利是较正式用法。",
+    "usage": "get enjoyment from；for enjoyment；a source of enjoyment；the enjoyment of。",
+    "contrast": "enjoyment 是乐趣、享受的名词，entertainment 是娱乐活动、内容；一个人独自散步可有 enjoyment，却不必观看娱乐节目。",
+    "examples": [
+      [
+        "Reading gives her a great deal of enjoyment.",
+        "阅读带给她很多乐趣。"
+      ],
+      [
+        "The garden was created for everyone’s enjoyment.",
+        "花园是建给大家欣赏、享用的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enjoyment#English"
+    ]
+  },
+  {
+    "word": "joyride",
+    "ipa": "/ˈdʒɔɪraɪd/",
+    "meaning": "兜风；尤指擅开别人车辆的兜风",
+    "sense": "目的主要是寻乐，而不是到达一个地方；新闻、英式用法里常特别带未经允许开走车辆的意思。",
+    "split": "joy 快乐 + ride 乘车行程，形成寻乐车程名称；固定违法用法不能只按两个好听的词淡化成普通旅游。",
+    "history": [
+      [
+        "joy 快乐；ride 乘车行程",
+        "并列构词部分"
+      ],
+      [
+        "joyride",
+        "寻乐兜风；常特指擅用他人车辆"
+      ]
+    ],
+    "explanation": "go for a joyride 去兜风，take a car for a joyride 擅自开车去寻乐的意味常见；日常中性的开车兜风也常直接说 go for a drive。",
+    "usage": "go for a joyride；take a car for a joyride；a joyride in a story。",
+    "contrast": "joyride 不必都是合法愉快的旅行；joyful 描述快乐，不能据此替 joyride 的使用场景取消擅用含义。",
+    "examples": [
+      [
+        "The film begins with an unauthorised joyride.",
+        "电影以一次擅自开车兜风开场。"
+      ],
+      [
+        "The police report describes the car as having been taken for a joyride.",
+        "警方报告称，这辆车被人擅自开去兜风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joyride#English"
+    ]
+  },
+  {
+    "word": "joystick",
+    "ipa": "/ˈdʒɔɪstɪk/",
+    "meaning": "操纵杆；游戏摇杆",
+    "sense": "手把杆推向不同方向，机器、飞机或游戏对象作出相应动作；重点是控制。",
+    "split": "外形可认 joy + stick，早期用于飞机控制杆；为什么选 joy 的命名关系并不清楚，不能编成玩游戏开心所以才有这个词。",
+    "history": [
+      [
+        "早期航空用 joystick",
+        "操纵飞机的控制杆；joy 命名原因不明"
+      ],
+      [
+        "现代 joystick",
+        "机械、游戏等的摇杆、操纵杆"
+      ]
+    ],
+    "explanation": "a flight joystick 飞行操纵杆，a game joystick 游戏摇杆；现代不只在娱乐设备上使用。",
+    "usage": "a joystick；move the joystick；a joystick controller。",
+    "contrast": "joystick 摇杆是控制器的一类；gamepad 手柄可有多个按钮、摇杆，不能把整个手柄和其中一个杆永远等同。",
+    "examples": [
+      [
+        "The simulator is controlled with a joystick.",
+        "模拟器用操纵杆控制。"
+      ],
+      [
+        "She moved the joystick to guide the character.",
+        "她推动摇杆来控制角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joystick#English"
+    ]
+  },
+  {
+    "word": "bed",
+    "ipa": "/bed/",
+    "meaning": "床；底层、河床等；花坛、苗床",
+    "sense": "先是让人躺着的承托处；下面托着水、植物、材料的一层，也可以借 bed 说。",
+    "split": "继承古英语 bedd，最远来源有不同推测，不把古人挖坑睡觉说成已证实的唯一词源。床与层、地块用法在历史中发展出多条固定分支。",
+    "history": [
+      [
+        "古英语 bedd → 中古英语 bed、bedde → bed",
+        "休息、躺卧处；床与铺垫、地块等旧用法"
+      ],
+      [
+        "现代 bed 的空间引申",
+        "床、底层、承托处；河底、苗床、测试平台等"
+      ]
+    ],
+    "explanation": "go to bed 去睡觉，make the bed 整理床铺；a flower bed 花坛，a river bed 河床，a bed of sand 一层沙。",
+    "usage": "go to bed；make the bed；a flower bed；a bed of。",
+    "contrast": "go to bed 通常不加 the，说上床休息；sit on the bed 是坐在这张具体床上。bed 也不是每次都指床架。",
+    "examples": [
+      [
+        "I went to bed early last night.",
+        "我昨晚早早上床睡觉了。"
+      ],
+      [
+        "The stones rested on a bed of sand.",
+        "石头铺在一层沙上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bed#English"
+    ]
+  },
+  {
+    "word": "bedding",
+    "ipa": "/ˈbedɪŋ/",
+    "meaning": "寝具；铺垫材料；花坛栽培相关用法",
+    "sense": "床上用来铺盖的东西作为一个总类；给动物垫卧处的草、木屑等也可这样说。",
+    "split": "bed + -ing，双写 d，古英语已有相应寝具名词。园艺 bedding plants 另取花坛栽植的 bed 分支，不是给植物盖被子。",
+    "history": [
+      [
+        "古英语 bedd → 中古英语 bed、bedde → bed",
+        "休息、躺卧处；床与铺垫、地块等旧用法"
+      ],
+      [
+        "现代 bed 的空间引申",
+        "床、底层、承托处；河底、苗床、测试平台等"
+      ],
+      [
+        "bed + -ing → bedding",
+        "床、铺垫 → 寝具、垫料；花坛栽培相关用法"
+      ]
+    ],
+    "explanation": "clean bedding 干净寝具，animal bedding 动物垫料；bedding plants 常指供花坛季节栽植的植物。通常不是一条床单的单数名称。",
+    "usage": "clean bedding；wash the bedding；animal bedding；bedding plants。",
+    "contrast": "bedding 总称，bedsheet 床单，bedspread 床罩；不必床上的每个部件都分别叫 a bedding。",
+    "examples": [
+      [
+        "The guest room has fresh bedding.",
+        "客房换上了干净寝具。"
+      ],
+      [
+        "The farmer spread dry straw as bedding for the animals.",
+        "农夫铺上干稻草，给动物作垫料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedding#English"
+    ]
+  },
+  {
+    "word": "bedsheet",
+    "ipa": "/ˈbedʃiːt/",
+    "meaning": "床单",
+    "sense": "铺在床垫上或作为盖单使用的大片薄布，把它与厚被子、装饰床罩分开。",
+    "split": "bed 床 + sheet 一大片薄材料、布单，也常分写 bed sheet。sheet 在这里不是一张纸，靠 bed 选中寝具用法。",
+    "history": [
+      [
+        "bed 床；sheet 布单",
+        "并列构词部分"
+      ],
+      [
+        "bedsheet",
+        "用于床铺的大幅薄布单"
+      ]
+    ],
+    "explanation": "a cotton bedsheet 棉床单，change the bedsheets 换床单；a fitted sheet 是带松紧贴合床垫的床笠式床单。",
+    "usage": "a cotton bedsheet；clean bedsheets；change the bedsheets。",
+    "contrast": "bedsheet 床单，bedspread 盖在床上的罩布，blanket 毯子；同为 bedding，功能、厚薄不同。",
+    "examples": [
+      [
+        "She changed the bedsheet before the guest arrived.",
+        "客人来前，她换了床单。"
+      ],
+      [
+        "The clean bedsheets were folded in the cupboard.",
+        "干净床单叠好放在柜子里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedsheet#English"
+    ]
+  },
+  {
+    "word": "bedspread",
+    "ipa": "/ˈbedspred/",
+    "meaning": "床罩；床上罩毯",
+    "sense": "床铺整理好后，再铺在外面的一大层罩布，常让整张床看起来整洁、有装饰效果。",
+    "split": "bed 床 + spread 铺开的覆盖物，复合为床上外罩名称。不是表示床自己越扩越大的动作。",
+    "history": [
+      [
+        "bed 床；spread 铺开的覆盖物",
+        "并列构词部分"
+      ],
+      [
+        "bedspread",
+        "铺盖在床面外部的床罩"
+      ]
+    ],
+    "explanation": "a patterned bedspread 带图案床罩，a quilted bedspread 绗缝床罩；某些也兼有保暖用途，不只装饰。",
+    "usage": "a patterned bedspread；a quilted bedspread；spread a bedspread。",
+    "contrast": "bedspread 外罩，bedsheet 薄床单；quilt 绗缝被褥类名称与某些床罩会交叠，但不完全同义。",
+    "examples": [
+      [
+        "A colourful bedspread brightened the room.",
+        "色彩鲜艳的床罩让房间亮了起来。"
+      ],
+      [
+        "He folded the bedspread and placed it on a chair.",
+        "他叠起床罩，放到椅子上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedspread#English"
+    ]
+  },
+  {
+    "word": "bedside",
+    "ipa": "/ˈbedsaɪd/",
+    "meaning": "床边；床边的",
+    "sense": "床旁伸手可及、坐着陪伴的位置；家具、灯和照料活动都能与它连用。",
+    "split": "bed 床 + side 边，形成床边位置名词及修饰语。不限医院病床。",
+    "history": [
+      [
+        "bed 床；side 边",
+        "并列构词部分"
+      ],
+      [
+        "bedside",
+        "床旁位置及相关的"
+      ]
+    ],
+    "explanation": "a bedside table 床头柜，a bedside lamp 床头灯；at someone’s bedside 在某人床边；bedside manner 指医护与患者相处的态度。",
+    "usage": "a bedside lamp；a bedside table；at the bedside；bedside manner。",
+    "contrast": "bedside 床旁，不等于 bedtime 就寝时间；bedside lamp 不要求只在 bedtime 才能开。",
+    "examples": [
+      [
+        "She left a glass of water on the bedside table.",
+        "她在床头柜上放了一杯水。"
+      ],
+      [
+        "He sat at his father’s bedside and read aloud.",
+        "他坐在父亲床边，大声读书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedside#English"
+    ]
+  },
+  {
+    "word": "bedbug",
+    "ipa": "/ˈbedbʌɡ/",
+    "meaning": "臭虫；床虱",
+    "sense": "一种常躲在寝具、家具等缝隙附近的小虫，名字按常见藏身处来叫。",
+    "split": "bed 床 + bug 虫，形成固定昆虫名；并不是床上所有小虫都归为 bedbug，也不是软件 bug 在床上出现。",
+    "history": [
+      [
+        "bed 床；bug 虫",
+        "并列构词部分"
+      ],
+      [
+        "bedbug",
+        "以寝具附近藏身习性命名的臭虫"
+      ]
+    ],
+    "explanation": "look for bedbugs 检查是否有臭虫，a bedbug infestation 臭虫滋生；复数 bedbugs。",
+    "usage": "bedbugs；look for bedbugs；a bedbug infestation。",
+    "contrast": "bedbug 是特定虫名，不等于所有会咬人的 insect；词名也不证明它只待在床上。",
+    "examples": [
+      [
+        "The hotel inspected the rooms for bedbugs.",
+        "酒店检查了房间是否有臭虫。"
+      ],
+      [
+        "The article explains how bedbugs got their name.",
+        "文章解释了臭虫这个英语名称的来历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedbug#English"
+    ]
+  },
+  {
+    "word": "sunbed",
+    "ipa": "/ˈsʌnbed/",
+    "meaning": "日光浴躺椅；日光浴机器",
+    "sense": "一类是户外躺着晒太阳的椅子；另一类是在室内用灯照射、使皮肤晒黑的设备。",
+    "split": "sun 太阳、日晒 + bed 躺卧处，形成两种与日光浴相关的器具名称。室内设备不是真把太阳装进床里。",
+    "history": [
+      [
+        "sun 日晒；bed 躺卧处",
+        "并列构词部分"
+      ],
+      [
+        "sunbed",
+        "日晒躺椅或室内晒黑设备"
+      ]
+    ],
+    "explanation": "sunbeds by the pool 泳池旁躺椅，a salon sunbed 美容场所的日光浴设备；具体是哪种，看场景和设施。",
+    "usage": "a poolside sunbed；a salon sunbed；sunbeds by the pool。",
+    "contrast": "sunbed 可是躺椅或晒黑设备，sunroom 日光房是一间房；不能只因 sun 相同就混成一种物件。",
+    "examples": [
+      [
+        "Several sunbeds stood beside the pool.",
+        "泳池旁摆着几张日光浴躺椅。"
+      ],
+      [
+        "The brochure describes the salon’s sunbed facilities.",
+        "宣传册介绍了店里的日光浴设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sunbed#English"
+    ]
+  },
+  {
+    "word": "seabed",
+    "ipa": "/ˈsiːbed/",
+    "meaning": "海底",
+    "sense": "海水下面承托着这一片水的底部，可以是泥沙，也可以有岩石等地形。",
+    "split": "sea 海 + bed 底部、承托层，取 bed 的底层分支。不是专门摆在海边给人睡的床。",
+    "history": [
+      [
+        "sea 海；bed 底部、承托层",
+        "并列构词部分"
+      ],
+      [
+        "seabed",
+        "海水下的底部"
+      ]
+    ],
+    "explanation": "the rocky seabed 多岩石海底，the seabed below the ship 船下海底；可泛指海底地形、表层。",
+    "usage": "on the seabed；the rocky seabed；map the seabed。",
+    "contrast": "seabed 海底，seafront 海滨，seaboard 沿海地区；同在海附近，空间位置完全不同。",
+    "examples": [
+      [
+        "The survey mapped part of the seabed.",
+        "勘测绘制了一部分海底地形。"
+      ],
+      [
+        "The anchor rested on the seabed.",
+        "锚落在海底。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seabed#English"
+    ]
+  },
+  {
+    "word": "riverbed",
+    "ipa": "英 /ˈrɪvəbed/；美 /ˈrɪvərbed/",
+    "meaning": "河床",
+    "sense": "水沿着河道流，下面那片承托、引导水流的底部就是河床；水干了，河床还在。",
+    "split": "river 河 + bed 底部，形成河道底层名称。不是河岸边的一块草地。",
+    "history": [
+      [
+        "river 河；bed 底部",
+        "并列构词部分"
+      ],
+      [
+        "riverbed",
+        "河水流经的河道底部"
+      ]
+    ],
+    "explanation": "a dry riverbed 干涸河床，a rocky riverbed 多石河床；即使暂时没有河水也可这样称呼。",
+    "usage": "a dry riverbed；a rocky riverbed；sediment on the riverbed。",
+    "contrast": "riverbed 河底，riverbank 河岸，riverfront 滨河地带；一个在水流下面，一个在侧边，一个常指沿河活动区域。",
+    "examples": [
+      [
+        "The riverbed was exposed during the drought.",
+        "干旱时河床露了出来。"
+      ],
+      [
+        "Smooth stones covered the riverbed.",
+        "光滑石头铺满河床。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/riverbed#English"
+    ]
+  },
+  {
+    "word": "bedrock",
+    "ipa": "英 /ˈbedrɒk/；美 /ˈbedrɑːk/",
+    "meaning": "基岩；根本基础",
+    "sense": "松散土壤下面常有较坚实的岩层；比喻中，一项信念、制度也可以像这种稳固基础。",
+    "split": "bed 底层、承托层 + rock 岩石，形成地质基岩名，再比喻根本基础；基岩也可能出露地表，不要求永远藏在泥下。",
+    "history": [
+      [
+        "bed 底层；rock 岩石",
+        "并列构词部分"
+      ],
+      [
+        "bedrock",
+        "坚实基岩 → 根本、稳固基础"
+      ]
+    ],
+    "explanation": "exposed bedrock 出露基岩，the bedrock of trust 信任的根本基础；名词通常不可数。",
+    "usage": "the bedrock of；exposed bedrock；a bedrock principle。",
+    "contrast": "bedrock 是基础层、根本原则，bedside 床边；a bedrock belief 根本信念，不是放在床头的信仰用品。",
+    "examples": [
+      [
+        "The builders reached solid bedrock below the soil.",
+        "施工人员在土层下抵达了坚实基岩。"
+      ],
+      [
+        "Mutual trust is the bedrock of their partnership.",
+        "相互信任是他们合作的根本基础。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedrock#English"
+    ]
+  },
+  {
+    "word": "embed",
+    "ipa": "/ɪmˈbed/",
+    "meaning": "嵌入；牢牢置于；内嵌",
+    "sense": "不只是放在表面，而是塞进、固定进某个承托环境或结构里，让它成为其中一部分。",
+    "split": "em- 使置入 + bed 底层、承托处，形成置于其中、嵌住的动词；也有 imbed 拼写。词尾加 -ed 时为 embedded，双写 d。",
+    "history": [
+      [
+        "古英语 bedd → 中古英语 bed、bedde → bed",
+        "休息、躺卧处；床与铺垫、地块等旧用法"
+      ],
+      [
+        "现代 bed 的空间引申",
+        "床、底层、承托处；河底、苗床、测试平台等"
+      ],
+      [
+        "em- + bed → embed",
+        "置于承托处 → 牢牢嵌入、置入"
+      ]
+    ],
+    "explanation": "embed a stone in concrete 把石头嵌进混凝土，embed a video in a page 在页面内嵌视频；values embedded in culture 融入文化的价值观。",
+    "usage": "embed in；embed a video；deeply embedded；embedded in culture。",
+    "contrast": "embed 强调成为环境、结构的一部分；attach 附着、连接范围更宽，不一定嵌到内部。",
+    "examples": [
+      [
+        "The artist embedded coloured stones in the wall.",
+        "艺术家把彩色石头嵌入墙中。"
+      ],
+      [
+        "The page has an embedded video.",
+        "页面里内嵌了一段视频。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/embed#English"
+    ]
+  },
+  {
+    "word": "flatbed",
+    "ipa": "/ˈflætbed/",
+    "meaning": "平板货车、平板装载面；平板式的",
+    "sense": "一块平坦承载面，让货物、纸张等平放上去；不同设备各用这块平面做自己的事。",
+    "split": "flat 平的 + bed 承载底面。车辆上是开放平板货台，扫描仪里是可平放原稿的玻璃平台。",
+    "history": [
+      [
+        "flat 平的；bed 承载面",
+        "并列构词部分"
+      ],
+      [
+        "flatbed",
+        "平坦装载面及采用它的车辆、扫描设备"
+      ]
+    ],
+    "explanation": "a flatbed truck 平板货车，a flatbed scanner 平板扫描仪；单说 a flatbed 常在车辆语境。",
+    "usage": "a flatbed truck；a flatbed scanner；a flatbed trailer。",
+    "contrast": "flatbed 说承载面或设备设计，flat sheet 是平面床单，不能因为都平、都带床的联想就互译。",
+    "examples": [
+      [
+        "The stone slabs arrived on a flatbed truck.",
+        "石板由一辆平板货车运来。"
+      ],
+      [
+        "She placed the photograph on the flatbed scanner.",
+        "她把照片放到平板扫描仪上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flatbed#English"
+    ]
+  },
+  {
+    "word": "testbed",
+    "ipa": "/ˈtestbed/",
+    "meaning": "试验平台；测试环境",
+    "sense": "先搭一个可控制的环境，让新想法、设备或系统在这里试，再决定怎样继续。",
+    "split": "test 测试 + bed 基础、承托平台，比喻可开展试验的基底。可以是实体设备，也可以是软件环境，不是真拿床来睡一晚作测试。",
+    "history": [
+      [
+        "test 测试；bed 基础、承托平台",
+        "并列构词部分"
+      ],
+      [
+        "testbed",
+        "供验证系统、想法的试验平台或环境"
+      ]
+    ],
+    "explanation": "a testbed for new technology 新技术试验平台，a software testbed 软件测试环境；能支持测试，不保证模拟了现实所有条件。",
+    "usage": "a testbed for；a software testbed；serve as a testbed。",
+    "contrast": "testbed 供实验的平台、环境，test case 一项具体测试案例；一个 testbed 可以运行很多 test cases。",
+    "examples": [
+      [
+        "The small network served as a testbed for the new software.",
+        "这张小网络用作新软件的试验平台。"
+      ],
+      [
+        "The lab built a testbed for evaluating the sensors.",
+        "实验室搭了一个评估传感器的试验平台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/testbed#English"
+    ]
+  }
+]

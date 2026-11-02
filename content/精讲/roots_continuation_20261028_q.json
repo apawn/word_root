@@ -1,0 +1,124 @@
+[
+  {
+    "id": "B2468",
+    "meaning": "人；男子；复合词里的身份、角色",
+    "core": "MAN：先认出人，再看前面限定了什么角色",
+    "image": "同样站着一个人，前面换成 mail、horse、middle，身份就变成邮递员、骑手或中间人。",
+    "intro": "man 接古英语 man、mann，早期可泛指人，也有男性义。现代独立 man 常指成年男子；mankind、manslaughter 等保留人的泛义，职业复合词中的 -man 则有各自沿用习惯，不能一刀切。复数常变为 -men，非重读词尾 -man 常弱读 /mən/。",
+    "forms": "把自身扩展 manhood、manly、mankind 放在前面，再按社会工作、骑乘技艺、历史身份和其他构词展开。manner 来自法语及拉丁语的另一条历史，不能因为写着 man- 就当成本页的“人”。spokesman 的 spoke 接说话，merman 的 mer- 接旧时海、水域成分。\n\n中古英语 gentle 与 man 组合，可能仿法语 gentilhomme；复数只变 man 为 men。\n\n与 man 比较称呼、语气，不是现代 man 的派生。dude 早为纽约俚语，来历未定；Yankee Doodle 的缩变是研究分析，不当成无争议结论。",
+    "branches": [
+      [
+        "人及自身扩展",
+        "man · manhood · manly · mankind · manpower · manhandle"
+      ],
+      [
+        "现代及一般社会角色",
+        "freshman · foreman · spokesman · layman · middleman · mailman · taxman · anchorman · gentleman · nobleman"
+      ],
+      [
+        "家宅、教会与历史身份",
+        "manservant · footman · churchman · freedman · frontiersman"
+      ],
+      [
+        "骑乘、技艺与职业",
+        "horseman · helmsman · swordsman · marksman · cavalryman · infantryman · plowman · cattleman"
+      ],
+      [
+        "形象与其他复合词",
+        "caveman · merman · superman · manhole · manhunt · manslaughter"
+      ],
+      [
+        "gentleman → gentlemen：礼貌人物称呼的复数",
+        "gentleman · gentlemen · man · men"
+      ],
+      [
+        "dude：从讲究穿着的男子，到哥们、家伙",
+        "dude · dudes"
+      ]
+    ],
+    "contrasts": "manhood／mankind：男性成年阶段与整个人类。horseman／cavalryman：骑手与军人身份。freedman：freed 留下从奴役中获释这一经历。manhole：检修入口，不是所有孔洞。",
+    "practice": "The foreman asked a skilled horseman to explain the job in layman’s terms.\n\n领班请一位熟练骑手用外行听得懂的话解释这项工作。",
+    "words": [
+      "man",
+      "manhood",
+      "manly",
+      "mankind",
+      "manpower",
+      "manhandle",
+      "freshman",
+      "foreman",
+      "spokesman",
+      "layman",
+      "middleman",
+      "mailman",
+      "taxman",
+      "anchorman",
+      "churchman",
+      "footman",
+      "horseman",
+      "helmsman",
+      "swordsman",
+      "marksman",
+      "cavalryman",
+      "plowman",
+      "cattleman",
+      "frontiersman",
+      "freedman",
+      "caveman",
+      "merman",
+      "manhole",
+      "manhunt",
+      "manslaughter",
+      "gentleman",
+      "nobleman",
+      "infantryman",
+      "manservant",
+      "superman",
+      "gentlemen",
+      "men",
+      "dude",
+      "dudes"
+    ],
+    "exclude": {
+      "he-man": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-made": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-month": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-rate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-bag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "manner": "manner 的法语、拉丁语词源与 man“人”不同，不按拼写误作同源。",
+      "man-killer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-wolf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "seal-man": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "batman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-marking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mans": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spiderman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "baseman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ironman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "portman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hillman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hardman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hellman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wolfman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deadman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingsman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "peterman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bellman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pressman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "manhunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "megaman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bookman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "swingman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leatherman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "backman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bossman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "badman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "landsman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "youngman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "overman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

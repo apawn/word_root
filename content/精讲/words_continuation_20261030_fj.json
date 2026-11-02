@@ -1,0 +1,413 @@
+[
+  {
+    "word": "trick",
+    "ipa": "/trɪk/",
+    "meaning": "诡计、恶作剧；戏法、技巧、诀窍；一墩牌；欺骗",
+    "sense": "事情看似这样，其实有人换了个巧妙做法：可能骗你，也可能只是教你一个省力诀窍。先看目的，不把每个 trick 都当诈骗。",
+    "split": "从古北法语 trique 等欺骗词进入英语，更深有拉丁、日耳曼等不同分析。后来发展出机巧方法、表演技巧等用法，不靠英语现代字母继续硬拆。",
+    "history": [
+      [
+        "古北法语 trique、相关欺骗动词 → 英语 trick",
+        "诡计、欺骗；更远来源有争议"
+      ],
+      [
+        "英语手段、技巧、表演等引申",
+        "骗术，也可只是让事情办成的诀窍"
+      ],
+      [
+        "英语派生",
+        "tricky 棘手或狡猾；trickery 欺骗手段；trickster 耍计谋的人"
+      ]
+    ],
+    "explanation": "play a trick on someone 捉弄某人，a magic trick 魔术，the trick is to… 诀窍是，do the trick 奏效；纸牌游戏中 trick 是一轮各出牌组成的一墩。",
+    "usage": "play a trick on；a magic trick；the trick is to；do the trick。",
+    "contrast": "trick 可以中性地说诀窍，也可说欺骗；skill 能力、技术不必有突然出巧招的感觉。",
+    "examples": [
+      [
+        "The trick is to add the flour slowly.",
+        "诀窍是慢慢加面粉。"
+      ],
+      [
+        "A little oil should do the trick.",
+        "加一点油应该就管用了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/trick",
+      "https://en.wiktionary.org/wiki/trick#English"
+    ]
+  },
+  {
+    "word": "tricky",
+    "ipa": "/ˈtrɪki/",
+    "meaning": "棘手的、容易出错的；狡猾的",
+    "sense": "看着简单，里面却有坑，做时需要拿捏；说人时则可能指对方爱使小手段。",
+    "split": "trick + -y，组成有机巧、欺骗特点的性质；再发展出难处理、需技巧的常用义。",
+    "history": [
+      [
+        "古北法语 trique、相关欺骗动词 → 英语 trick",
+        "诡计、欺骗；更远来源有争议"
+      ],
+      [
+        "英语手段、技巧、表演等引申",
+        "骗术，也可只是让事情办成的诀窍"
+      ],
+      [
+        "trick + -y → tricky",
+        "狡猾；事情不易处理、容易踩坑"
+      ]
+    ],
+    "explanation": "a tricky question 棘手问题，a tricky situation 难办局面，tricky to explain 不容易解释。",
+    "usage": "a tricky question；a tricky situation；tricky to handle。",
+    "contrast": "tricky 可以只是操作麻烦，不保证有人设局；a trick question 更明确是有意设置圈套或误导的问题。",
+    "examples": [
+      [
+        "Parking here can be tricky.",
+        "在这里停车可能有点难。"
+      ],
+      [
+        "That is a tricky question to answer in one sentence.",
+        "那问题很难用一句话回答。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tricky#English"
+    ]
+  },
+  {
+    "word": "trickery",
+    "ipa": "/ˈtrɪkəri/",
+    "meaning": "欺骗、诡计、骗人的手段",
+    "sense": "把一套耍手段、蒙人的做法合起来说，重心已经偏向欺骗，不是泛指熟练手艺。",
+    "split": "trick + -ery，构成行为、手段一类的集合或抽象名词。常作不可数名词，不把每一个小伎俩都数成 a trickery。",
+    "history": [
+      [
+        "古北法语 trique、相关欺骗动词 → 英语 trick",
+        "诡计、欺骗；更远来源有争议"
+      ],
+      [
+        "trick + -ery → trickery",
+        "欺骗行为、诡计手段"
+      ]
+    ],
+    "explanation": "political trickery 政治诡计，deception and trickery 欺骗与诡计，resort to trickery 诉诸骗人的手段。",
+    "usage": "resort to trickery；political trickery；expose the trickery。",
+    "contrast": "trick 可中性说技巧，trickery 通常有骗人评价；a magic trick 的表演不必被称为恶意 trickery。",
+    "examples": [
+      [
+        "They won through trickery rather than skill.",
+        "他们靠诡计而非本事获胜。"
+      ],
+      [
+        "The investigation exposed the trickery behind the scheme.",
+        "调查揭出了计划背后的骗人手段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trickery#English"
+    ]
+  },
+  {
+    "word": "trickster",
+    "ipa": "英 /ˈtrɪkstə/；美 /ˈtrɪkstər/",
+    "meaning": "骗子、恶作剧者；神话中的诡计角色",
+    "sense": "经常靠聪明手段捉弄、欺骗别人，或在故事里专门打乱规矩的人物；不一定永远只扮坏人。",
+    "split": "trick + -ster，人物后缀。神话、民间故事借来命名机敏、越界、爱捉弄的角色类型，-ster 本身不保证男女或善恶。",
+    "history": [
+      [
+        "古北法语 trique、相关欺骗动词 → 英语 trick",
+        "诡计、欺骗；更远来源有争议"
+      ],
+      [
+        "trick + -ster → trickster",
+        "耍诡计、捉弄别人的人物"
+      ],
+      [
+        "叙事研究用法",
+        "带诡计与越界特点的角色类型"
+      ]
+    ],
+    "explanation": "a clever trickster 机灵的诡计人物，a trickster figure 诡计角色，expose a trickster 揭穿骗子。",
+    "usage": "a clever trickster；a trickster figure；a notorious trickster。",
+    "contrast": "trickster 是人或角色，trickery 是行为手段；神话 trickster 不应不看故事就一律翻成现实诈骗犯。",
+    "examples": [
+      [
+        "The trickster persuaded the villagers to follow his absurd plan.",
+        "那个爱耍计谋的人劝村民照着他的荒唐计划做。"
+      ],
+      [
+        "The story features a fox as its trickster figure.",
+        "故事让一只狐狸充当诡计角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trickster#English"
+    ]
+  },
+  {
+    "word": "brilliant",
+    "ipa": "/ˈbrɪljənt/",
+    "meaning": "明亮耀眼的；才华出众的；极好的",
+    "sense": "灯光亮得耀眼，人的点子也亮得让人“哇，想得真妙”；从眼睛看到的光，借到头脑和表现。",
+    "split": "借法语 brillant，原为 briller 闪耀的分词形式，再接意大利语 brillare。更远与绿柱石名称联系的分析未完全确定，不把 brilliant 直接拆成英语 brill + ant 蚂蚁。",
+    "history": [
+      [
+        "意大利语 brillare → 法语 briller、brillant → 英语 brilliant",
+        "闪耀、发亮 → 光彩夺目的"
+      ],
+      [
+        "从光彩到表现出众",
+        "才智、点子、表演也可以让人眼前一亮"
+      ],
+      [
+        "英语派生",
+        "brilliantly 以出色方式；brilliance 才华、光辉"
+      ]
+    ],
+    "explanation": "brilliant sunshine 灿烂阳光，a brilliant idea 绝妙点子，a brilliant scientist 杰出科学家。英式口语 Brilliant! 也可直接说“太好了”。",
+    "usage": "brilliant sunshine；a brilliant idea；a brilliant performance；Brilliant!。",
+    "contrast": "brilliant 说才智时赞聪明、出色，不是 physically bright 的字面亮度；flashy 可以只是浮华抢眼，未必真有才华。",
+    "examples": [
+      [
+        "The garden was full of brilliant colours.",
+        "花园里满是鲜艳夺目的色彩。"
+      ],
+      [
+        "She came up with a brilliant solution.",
+        "她想出了一个绝妙的解决办法。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/brilliant",
+      "https://en.wiktionary.org/wiki/brilliant#English"
+    ]
+  },
+  {
+    "word": "brilliantly",
+    "ipa": "/ˈbrɪljəntli/",
+    "meaning": "出色地；耀眼地、灿烂地",
+    "sense": "事情做得让人眼前一亮，或光真的亮得耀眼；副词沿着 brilliant 的两条常用意思走。",
+    "split": "brilliant + -ly，描述动作、表现方式；仍保留前面的重音和 /lj/ 衔接，不把 -ant 读成一个独立重音。",
+    "history": [
+      [
+        "意大利语 brillare → 法语 briller、brillant → 英语 brilliant",
+        "闪耀、发亮 → 光彩夺目的"
+      ],
+      [
+        "从光彩到表现出众",
+        "才智、点子、表演也可以让人眼前一亮"
+      ],
+      [
+        "英语派生",
+        "brilliantly 以出色方式；brilliance 才华、光辉"
+      ],
+      [
+        "brilliant + -ly → brilliantly",
+        "耀眼地；做得出色地"
+      ]
+    ],
+    "explanation": "perform brilliantly 表现出色，brilliantly designed 设计精妙，shine brilliantly 灿烂发光。",
+    "usage": "perform brilliantly；work brilliantly；brilliantly designed；shine brilliantly。",
+    "contrast": "brilliantly 夸完成方式，brilliance 把这种光彩或才华当名词来谈；work brilliantly 也可简单说特别管用。",
+    "examples": [
+      [
+        "The team performed brilliantly under pressure.",
+        "团队在压力下表现出色。"
+      ],
+      [
+        "The stars shone brilliantly above the desert.",
+        "群星在沙漠上空灿烂闪耀。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brilliantly#English"
+    ]
+  },
+  {
+    "word": "brilliance",
+    "ipa": "/ˈbrɪljəns/",
+    "meaning": "光辉、耀眼；卓越才华、出色表现",
+    "sense": "不是再说它很亮，而是把那种亮、那份出众拿出来当一件事谈：光彩，或令人佩服的才华。",
+    "split": "由 brilliant 形成相应 -ance 名词，末尾 -ant 对应变为 -ance，并与法语 brillance 等比较。读音末尾 /ns/，不是 brilliance 里还必须读一个 t。",
+    "history": [
+      [
+        "意大利语 brillare → 法语 briller、brillant → 英语 brilliant",
+        "闪耀、发亮 → 光彩夺目的"
+      ],
+      [
+        "从光彩到表现出众",
+        "才智、点子、表演也可以让人眼前一亮"
+      ],
+      [
+        "英语派生",
+        "brilliantly 以出色方式；brilliance 才华、光辉"
+      ],
+      [
+        "brilliant → brilliance",
+        "从耀眼、杰出到光辉、才华这类名词"
+      ]
+    ],
+    "explanation": "technical brilliance 高超技术，a moment of brilliance 一次灵光乍现的精彩表现，the brilliance of the colours 色彩的鲜明光彩。",
+    "usage": "technical brilliance；a moment of brilliance；sheer brilliance。",
+    "contrast": "brilliance 才华或表现，intelligence 智力范围更广；一次 brilliant move 可以体现 brilliance，却不等于评价一个人所有方面。",
+    "examples": [
+      [
+        "Everyone admired the brilliance of her argument.",
+        "大家都佩服她论证的精妙。"
+      ],
+      [
+        "The photograph captures the brilliance of the autumn colours.",
+        "照片捕捉到了秋色色彩的绚烂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brilliance#English"
+    ]
+  },
+  {
+    "word": "cake",
+    "ipa": "/keɪk/",
+    "meaning": "蛋糕、糕饼；块状物；结块、厚厚附着",
+    "sense": "不只想生日奶油蛋糕：早期可以是一块糕饼，后来像饼块一样结成一层的泥、粉，也能用 cake。",
+    "split": "从古诺尔斯语 kaka 借入，英语经中古时期传下；更远来源有争议，不能因为都是厨房词就直接说来自拉丁 coquere 烹煮。",
+    "history": [
+      [
+        "古诺尔斯语 kaka → 中古英语 cake → cake",
+        "糕、饼状食物；更深来源有争议"
+      ],
+      [
+        "英语食物与团块形状",
+        "蛋糕、饼；块状物；结块、厚厚附着"
+      ],
+      [
+        "常用食物组合",
+        "pan + cake → pancake；cup/cheese/short + cake 等"
+      ]
+    ],
+    "explanation": "a slice of cake 一片蛋糕，a cake of soap 一块肥皂，boots caked with mud 糊满厚泥的靴子，a piece of cake 小菜一碟。",
+    "usage": "a slice of cake；a birthday cake；caked with mud；a piece of cake。",
+    "contrast": "cake 的食品边界随地区、菜名而异；a piece of cake 是轻松容易的固定比喻，不要求事情甜。",
+    "examples": [
+      [
+        "She baked a cake for his birthday.",
+        "她为他的生日烤了一个蛋糕。"
+      ],
+      [
+        "Our boots were caked with mud.",
+        "我们的靴子糊满了厚泥。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cake",
+      "https://en.wiktionary.org/wiki/cake#English"
+    ]
+  },
+  {
+    "word": "pancake",
+    "ipa": "/ˈpænkeɪk/",
+    "meaning": "薄煎饼、烤盘饼；使压平、摊平",
+    "sense": "把面糊放到平锅里摊开成饼，名称抓住 pan 锅和 cake 饼；厚薄、甜咸随做法变，不只一种早餐配方。",
+    "split": "中古英语已有 pancake 等，可按 pan + cake 理解；也可能承接或受低地德语对应组合影响，不把首次组合必然限定为现代英语发明。",
+    "history": [
+      [
+        "古诺尔斯语 kaka → 中古英语 cake → cake",
+        "糕、饼状食物；更深来源有争议"
+      ],
+      [
+        "中古英语 pan、cake 组合 → pancake",
+        "平锅制作的糕饼；与其他日耳曼语相应词有关"
+      ],
+      [
+        "扁平形状引申",
+        "压平、摊平等动词用法"
+      ]
+    ],
+    "explanation": "pancakes with syrup 配糖浆的煎饼，a stack of pancakes 一叠煎饼，as flat as a pancake 非常平。",
+    "usage": "a stack of pancakes；pancakes with syrup；as flat as a pancake。",
+    "contrast": "pan 是平锅、烹调用器，不能把 pancake 的 pan- 读成希腊组合形式“全部”；各种 pancake 也并非都薄得像纸。",
+    "examples": [
+      [
+        "We made pancakes for breakfast.",
+        "我们做了煎饼当早餐。"
+      ],
+      [
+        "The box was crushed as flat as a pancake.",
+        "盒子被压得扁扁的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pancake#English"
+    ]
+  },
+  {
+    "word": "hunger",
+    "ipa": "英 /ˈhʌŋɡə/；美 /ˈhʌŋɡər/",
+    "meaning": "饥饿；强烈渴望；渴求",
+    "sense": "肚子空着催你去找吃的；心里有个空缺强烈想填满，也能说 hunger for knowledge、success。",
+    "split": "名词接古英语 hungor 等，动词也有旧英语 hyngran 等路径，后受名词词形影响；不是 hunger 里 -er 必然表示“一个做 hung 的人”。",
+    "history": [
+      [
+        "古英语 hungor、hyngran、hungriġ 等 → 英语 hunger、hungry",
+        "饿的感受、感到饿、饿的状态，旧词族并行传下"
+      ],
+      [
+        "从食物需要到其他渴求",
+        "饥饿 → 强烈想得到知识、成功等"
+      ]
+    ],
+    "explanation": "feel hunger 感到饥饿，fight hunger 应对饥饿问题，a hunger for knowledge 求知欲，hunger for change 渴望改变。",
+    "usage": "feel hunger；satisfy hunger；a hunger for；hunger for change。",
+    "contrast": "hunger 可说生理饥饿，也可强烈追求；hungry 是相应形容词，不能把 I am hungry 普通说法换成 I am hunger。",
+    "examples": [
+      [
+        "The long walk gave him a fierce hunger.",
+        "长途步行让他饿得厉害。"
+      ],
+      [
+        "She has a real hunger for knowledge.",
+        "她有强烈的求知欲。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/hunger",
+      "https://en.wiktionary.org/wiki/hunger#English"
+    ]
+  },
+  {
+    "word": "hungry",
+    "ipa": "/ˈhʌŋɡri/",
+    "meaning": "饥饿的；渴求的",
+    "sense": "肚子想吃东西，或人强烈想要一次机会、一个结果；形容的是“有这份饥饿或渴望”的状态。",
+    "split": "继承古英语 hungriġ 等，现代对应 hunger + -y，词形变为 hungr-y。不是把 hunger 原样接成 hungery，/ɡ/ 仍要读出来。",
+    "history": [
+      [
+        "古英语 hungor、hyngran、hungriġ 等 → 英语 hunger、hungry",
+        "饿的感受、感到饿、饿的状态，旧词族并行传下"
+      ],
+      [
+        "从食物需要到其他渴求",
+        "饥饿 → 强烈想得到知识、成功等"
+      ],
+      [
+        "古英语 hungriġ → hungry",
+        "对应 hunger 的形容词；饿、渴求的"
+      ]
+    ],
+    "explanation": "feel hungry 饿了，hungry for success 渴望成功，a hungry child 饥饿的孩子。电脑、机器的 power-hungry 在组合里说耗电多的。",
+    "usage": "feel hungry；hungry for success；go hungry；a hungry child。",
+    "contrast": "hungry 饿，angry 生气，开头和含义都不同；hungry for 还可接机会、关注等，未必是要吃的东西。",
+    "examples": [
+      [
+        "Are you hungry yet?",
+        "你已经饿了吗？"
+      ],
+      [
+        "The young players are hungry for success.",
+        "这些年轻球员渴望成功。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hungry#English"
+    ]
+  }
+]

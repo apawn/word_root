@@ -1,0 +1,235 @@
+[
+  {
+    "id": "B4194",
+    "meaning": "溪流；连续流动；流式传送及相关形式",
+    "core": "STREAM：不是一块块孤立地给，而是一股连续通过",
+    "image": "一股溪水、连续涌来的消息、不断送来的音视频，都能借 stream 的流动来理解；streamline 又把焦点放到流得顺不顺。",
+    "intro": "stream 从古英语 strēam 延续，属于日耳曼语流动词族。现代连续数据传输借用了流的画面，主播等人物称呼又由动词形成。",
+    "forms": "stream + -ing → streaming；stream + -er → streamer；stream + line → streamline；streamline + -ed → streamlined。mainstream 主流、upstream／downstream 上下游、bloodstream 血流等各有固定参照。\n\n旧 streamer 可说飘带，现代主播名又对应流式播送动作，不讲成彩带变成人的单一路线。",
+    "branches": [
+      [
+        "流及其位置关系",
+        "stream · upstream · downstream · midstream · airstream · bloodstream"
+      ],
+      [
+        "媒体传送与相关人、服务",
+        "streaming · streamer · livestream"
+      ],
+      [
+        "形状与流程理顺",
+        "streamline · streamlined"
+      ],
+      [
+        "被多数采用的方向",
+        "mainstream"
+      ],
+      [
+        "stream 的连续流动、流式播送与主播、彩带",
+        "stream · streamed · streamer · streamers · livestream · livestreams · livestreamed · livestreaming"
+      ]
+    ],
+    "contrasts": "streaming 不保证实时直播；streamer 可以是彩带、主播、平台；streamlined 理顺流程不等于只裁人；upstream 不自动指地图上的北面。",
+    "practice": "The streamer used a streamlined setup to broadcast live music.\n\n主播用一套简洁顺畅的设备配置直播音乐。",
+    "words": [
+      "stream",
+      "upstream",
+      "downstream",
+      "midstream",
+      "airstream",
+      "bloodstream",
+      "streaming",
+      "streamer",
+      "livestream",
+      "streamline",
+      "streamlined",
+      "mainstream",
+      "streamed",
+      "streamers",
+      "livestreams",
+      "livestreamed",
+      "livestreaming"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2439",
+    "meaning": "冬季；像冬天的寒冷；在某地度冬",
+    "core": "WINTER：季节名称与冬天般的性质分开",
+    "image": "winter clothes 冬衣说明用途、季节；a wintry morning 描写寒冷感觉，哪怕日历上还没到冬季。",
+    "intro": "winter 从古英语延续，和多种日耳曼语冬季名同族，更远来源未完全确定。它既是名词，也能作修饰语、过冬动词。",
+    "forms": "winter + -y → wintry，常见词形中省缩非重读元音；mid- + winter → midwinter；winter + time → wintertime。不是每个冬季的名词都必须把 winter 改为 wintry。\n\nwinter 承古英语，远源有不同分析，现代复数数一个个冬季，也可作过冬的第三人称动词。-s 读 /z/。",
+    "branches": [
+      [
+        "季节与过冬",
+        "winter"
+      ],
+      [
+        "寒冷、萧瑟的性质",
+        "wintry"
+      ],
+      [
+        "冬季时段",
+        "midwinter · wintertime"
+      ],
+      [
+        "winter 冬季 → winters",
+        "winters"
+      ]
+    ],
+    "contrasts": "wintry 可形容非冬季的天气；winter 作动词 winter in a place 是在某处过冬；不是因为听起来像 wind 就确认冬天词源是多风的季节。",
+    "practice": "The birds winter on the coast, where even midwinter can be mild.\n\n这些鸟在海岸过冬，那里即使隆冬也可能很温和。",
+    "words": [
+      "winter",
+      "wintry",
+      "midwinter",
+      "wintertime",
+      "winters"
+    ],
+    "exclude": {
+      "wintergreen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "winterbourne": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2682",
+    "meaning": "男性、雄性的；相应状态和属性",
+    "core": "MALE：名称、性质和抽象状态三种用法",
+    "image": "male bird 的 male 修饰鸟；a male 可在相应分类语境中指雄性个体；maleness 则讨论这种状态或属性。",
+    "intro": "male 经古法语 masle 接拉丁 masculus、mas 的人物、动物性别材料。female 的历史接 femella、femina，英语形式后来受 male 影响，近形不代表 female 从 male 前加 fe- 派生。",
+    "forms": "male + -ness → maleness；male 与 female 是现代对应词，但近源不同。male、mail 常同音，语义不能由发音判断。\n\n拉丁 masculus 经法语借入，与 female 不是现代加减前缀关系。",
+    "branches": [
+      [
+        "名称及性质",
+        "male"
+      ],
+      [
+        "状态和属性名词",
+        "maleness"
+      ],
+      [
+        "另源的现代对应",
+        "female"
+      ],
+      [
+        "male → males：男性、雄性",
+        "male · males"
+      ]
+    ],
+    "contrasts": "maleness 不自动表示强壮、支配等性格；male 可以修饰人、动物等，具体人物称呼与分类语境的名词习惯不同；female 的 fe- 不是否定前缀。",
+    "practice": "The guide explains how the male and female birds differ in appearance.\n\n指南解释了雄鸟和雌鸟在外形上的区别。",
+    "words": [
+      "male",
+      "maleness",
+      "female",
+      "males"
+    ],
+    "exclude": {
+      "all-male": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alta-male": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shemale": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2933",
+    "meaning": "犯罪、罪行；犯罪相关性质、现象及研究",
+    "core": "CRIME：先分人、行为，再分整体性质与研究领域",
+    "image": "crime 是罪行，criminal 可是罪犯或犯罪的；criminality 概括犯罪现象、性质，criminology 则是研究领域。",
+    "intro": "crime 经法语接拉丁 crimen 指控、过错、罪行等材料。criminal 保留拉丁 crimin- 词干中的 n；现代看到 n 不必当成另添的神秘前缀。",
+    "forms": "crime ↔ criminal 是历史同族借词的对应；criminal ↔ criminality 是性质名词关系；crimin- + -logy → criminology；cyber- + crime → cybercrime。具体英语借入先后不按字数决定。\n\n拉丁 crimen 经法语借入，更远来源有讨论。",
+    "branches": [
+      [
+        "行为与人物性质",
+        "crime · criminal"
+      ],
+      [
+        "行为现象及性质",
+        "criminality"
+      ],
+      [
+        "研究领域和人物",
+        "criminology · criminologist"
+      ],
+      [
+        "网络环境中的犯罪",
+        "cybercrime"
+      ],
+      [
+        "crime → crimes：指控、罪行",
+        "crime · crimes"
+      ]
+    ],
+    "contrasts": "crime 是事，criminal 可说人；criminality 通常不可数；criminology 是研究领域，criminality 是行为、性质或现象；比喻说 a crime against good taste 不一定在声称违法。",
+    "practice": "The criminologist studied changes in crime rather than a single criminal’s story.\n\n犯罪学家研究了犯罪现象的变化，而不只是一名罪犯的故事。",
+    "words": [
+      "crime",
+      "criminal",
+      "criminality",
+      "criminology",
+      "criminologist",
+      "cybercrime",
+      "crimes"
+    ],
+    "exclude": {
+      "e-crime": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hate-crime": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "crime-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "enviro-crime": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2802",
+    "meaning": "横条、扶栏、铁轨；另有斥责动词等同形词",
+    "core": "RAIL：长条支撑、引导的主线，与猛烈抱怨的另源用法分开",
+    "image": "handrail 扶手栏杆，railway 铁路，derail 离开轨道；rail against a plan 却是激烈抨击计划，词源不必硬串到火车。",
+    "intro": "栏杆、钢轨这支接法语 reille 等和拉丁 regula 直杆、规则材料；斥责的 rail 来自另一条法语 railler 等路线。相同拼写可以承载不同来源。",
+    "forms": "rail + -ing → railing；de- + rail 的法语对应 → derail；derail + -ment 的相应关系 → derailment。railway、railroad、monorail、handrail 等保留杆、轨的材料；鸟名 rail 另有来源，此处不扩展冷门物种。\n\nrail 轨、栏杆与 way 道路组合成铁路名；复数加在整个复合词末尾，way 的元音字母 + y 不改为 i。\n\n栏杆 rail 经法语接拉丁 regula 直条、规则的材料；痛斥、抱怨 rail 另接法语 raillier 等声音、嘲弄词线。现代复数与第三人称同形，/lz/。",
+    "branches": [
+      [
+        "横条和围护结构",
+        "rail · railing · handrail · guardrail"
+      ],
+      [
+        "铁路系统与车辆",
+        "railway · railroad · monorail · railcar"
+      ],
+      [
+        "离开正常轨道",
+        "derail · derailment"
+      ],
+      [
+        "另源动词的辨别",
+        "rail against：激烈斥责"
+      ],
+      [
+        "rail + way → railway → railways",
+        "railways"
+      ],
+      [
+        "rail → rails：栏杆、轨条与痛斥分源",
+        "rails"
+      ]
+    ],
+    "contrasts": "rail 是轨或横杆，train 是列车；derailment 脱轨不等于 collision 相撞；railing 可指整段栏杆，也能是另源抱怨动词的 -ing 形式。",
+    "practice": "A heated argument nearly derailed the discussion about the new railway.\n\n一场激烈争论险些把关于新铁路的讨论带偏。",
+    "words": [
+      "rail",
+      "railing",
+      "handrail",
+      "guardrail",
+      "railway",
+      "railroad",
+      "monorail",
+      "railcar",
+      "derail",
+      "derailment",
+      "railways",
+      "rails"
+    ],
+    "exclude": {
+      "rail-based": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pro-rail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "crossrail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "railgun": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "word": "werewolf",
+    "ipa": "英 /ˈweəwʊlf/、/ˈwɪəwʊlf/；美 /ˈwerwʊlf/、/ˈwɪrwʊlf/",
+    "meaning": "狼人",
+    "sense": "传说里能在人与狼的形态之间变化的角色。故事常加上满月设定，但满月不是这个名称的字面组成。",
+    "split": "古英语 werewulf 接 wer 人、男性 + wulf 狼，经中古英语 werwolf 延续。were- 保留旧的人材料，与现代 be 的过去式 were 来源不同。",
+    "history": [
+      [
+        "古英语 wer + wulf → werewulf",
+        "人 + 狼的复合名称"
+      ],
+      [
+        "中古英语 werwolf → werewolf",
+        "传说中会变狼的人"
+      ]
+    ],
+    "explanation": "a werewolf story 狼人故事；turn into a werewolf 变成狼人。复数 werewolves，与 wolf → wolves 的词尾变化相同。",
+    "usage": "a werewolf legend；stories about werewolves。",
+    "contrast": "werewolf 是传说生物名；wolf 是狼。开头虽写 were，却不是把过去的某个动作放进复合词。",
+    "examples": [
+      [
+        "The story is about a man who becomes a werewolf.",
+        "故事讲一个会变成狼人的男人。"
+      ],
+      [
+        "The children enjoyed the legend about werewolves.",
+        "孩子们很喜欢那个关于狼人的传说。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/werewolf",
+      "https://en.wiktionary.org/wiki/werewolf#English"
+    ]
+  },
+  {
+    "word": "agrochemical",
+    "ipa": "英 /ˌæɡrəʊˈkemɪkəl/；美 /ˌæɡroʊˈkemɪkəl/",
+    "meaning": "农用化学品；农用化学的",
+    "sense": "把农业生产中使用的化学品放到一个类别里，例如化肥、农药等，可以用 agrochemical。",
+    "split": "agro- 农业相关 + chemical 化学的、化学品。前部接田地、农业的拉丁、希腊相关命名词族。",
+    "history": [
+      [
+        "agro- + chemical",
+        "农业用途 + 化学品"
+      ],
+      [
+        "agrochemical 的名词、形容词用法",
+        "农用化学品；与此相关的"
+      ]
+    ],
+    "explanation": "agrochemical use 农用化学品使用；an agrochemical company 农化公司。可作可数名词说一种制品，也可作形容词。",
+    "usage": "agrochemical products；the agrochemical industry。",
+    "contrast": "fertilizer 是肥料，pesticide 是农药等杀生物剂类别；agrochemical 是更宽的农业用途化学品类别。",
+    "examples": [
+      [
+        "The report tracks agrochemical use on local farms.",
+        "报告追踪了当地农场使用农用化学品的情况。"
+      ],
+      [
+        "She works for an agrochemical company.",
+        "她在一家农化公司工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/agrochemical#English"
+    ]
+  },
+  {
+    "word": "servomotor",
+    "ipa": "英 /ˈsɜːvəʊˌməʊtə/；美 /ˈsɜːrvoʊˌmoʊtər/",
+    "meaning": "伺服电动机、伺服马达",
+    "sense": "发出转到某个角度的目标，装置再根据反馈调整电机运动，让位置、速度等跟上目标，这类电机可叫 servomotor。",
+    "split": "接法语 servo-moteur 等近代工程命名，其中 servo 联系拉丁 servus 仆役，motor 是运动者、发动装置材料。现代可认作 servo- + motor。",
+    "history": [
+      [
+        "法语近代 servo-moteur 命名",
+        "服从控制指令的动力装置画面"
+      ],
+      [
+        "英语 servomotor",
+        "伺服系统中的电动机"
+      ]
+    ],
+    "explanation": "a servomotor controller 伺服电机控制器；a servomotor drives the arm 伺服电机驱动机械臂。反馈、控制器与电机通常共同构成工作系统。",
+    "usage": "a small servomotor；servomotor position control。",
+    "contrast": "motor 是更广的电机、发动装置名称；servomotor 说明它在伺服控制中的用途、配合方式，不只说马达体积小。",
+    "examples": [
+      [
+        "A servomotor controls the angle of the robot arm.",
+        "伺服电机控制机械臂的角度。"
+      ],
+      [
+        "The controller sends a new position command to the servomotor.",
+        "控制器向伺服电机发送了新的位置指令。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/servomotor#English"
+    ]
+  },
+  {
+    "word": "paleolithic",
+    "ipa": "英 /ˌpæliəˈlɪθɪk/ 或 /ˌpeɪliəˈlɪθɪk/；美 /ˌpeɪliəˈlɪθɪk/",
+    "meaning": "旧石器时代的〔也写 palaeolithic，时代名常大写〕",
+    "sense": "考古学把史前石器文化分期，Paleolithic 是旧石器时代；名字把旧与石的材料接在一起。",
+    "split": "paleo- 古、旧 + lith- 石 + -ic 形容词材料。十九世纪考古学分期命名采用这些希腊材料，与 neolithic 新石器时代形成对照。",
+    "history": [
+      [
+        "希腊古、旧 + 石相关材料",
+        "进入近代考古学分期名称"
+      ],
+      [
+        "Paleolithic、paleolithic",
+        "旧石器时代；属于这一时期的"
+      ]
+    ],
+    "explanation": "Paleolithic tools 旧石器时代工具；a Paleolithic site 旧石器时代遗址。古旧是命名线索，具体分期需按考古学和地区背景理解。",
+    "usage": "Paleolithic art；the Paleolithic period。",
+    "contrast": "paleolithic 与 neolithic 的前部是旧与新；两者都是石器时代术语，不能把旧直接当成某件现代石器用久了。",
+    "examples": [
+      [
+        "The museum displays Paleolithic stone tools.",
+        "博物馆展出了旧石器时代的石制工具。"
+      ],
+      [
+        "The researchers studied paintings from a Paleolithic site.",
+        "研究人员研究了一处旧石器时代遗址的绘画。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/paleolithic",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/palaeolithic"
+    ]
+  },
+  {
+    "word": "picosecond",
+    "ipa": "/ˈpiːkəʊˌsekənd/；美 /ˈpiːkoʊˌsekənd/",
+    "meaning": "皮秒；一万亿分之一秒",
+    "sense": "一秒分成一万亿份，其中一份就是一皮秒。先记数量级，再把它放进超短时间测量的场景。",
+    "split": "国际单位制前缀 pico- 10 的负十二次方 + second 秒。pico- 名称接西班牙语 pico 小点、小量等命名材料。",
+    "history": [
+      [
+        "pico- 10⁻¹² + second",
+        "一万亿分之一秒"
+      ],
+      [
+        "picosecond、符号 ps",
+        "极短时间的计量单位"
+      ]
+    ],
+    "explanation": "a few picoseconds 几皮秒；picosecond pulses 皮秒脉冲。1 ns 纳秒 = 1000 ps 皮秒，数字与单位要一起读。",
+    "usage": "a picosecond interval；measured in picoseconds。",
+    "contrast": "pico- 是一万亿分之一，tera- 是一万亿倍，数量方向相反；ps 的 p 小写，不能与大写 P 的前缀符号混用。",
+    "examples": [
+      [
+        "The delay was measured in picoseconds.",
+        "这个延迟以皮秒计量。"
+      ],
+      [
+        "One nanosecond equals one thousand picoseconds.",
+        "一纳秒等于一千皮秒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/picosecond#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  },
+  {
+    "word": "bridezilla",
+    "ipa": "/ˌbraɪdˈzɪlə/",
+    "meaning": "对婚礼安排过度苛求、难相处的新娘〔口语、贬意或戏谑〕",
+    "sense": "婚礼筹备中，别人把一位新娘描写得控制欲很强、事事苛求，可能叫她 bridezilla。这个称呼是在作评价，不是中性身份名。",
+    "split": "bride 新娘 + -zilla；后部从 Godzilla 哥斯拉的名字重新切分，借怪兽的夸张画面形容难应付、过度强势。",
+    "history": [
+      [
+        "Godzilla → 类比词尾 -zilla",
+        "从怪兽名抽出夸张评价材料"
+      ],
+      [
+        "bride + -zilla → bridezilla",
+        "对苛求、难应付的新娘的带评价称呼"
+      ]
+    ],
+    "explanation": "be called a bridezilla 被叫作苛刻新娘；a bridezilla stereotype 苛刻新娘的刻板印象。有人自嘲，也有人用它责备别人，语气很关键。",
+    "usage": "the bridezilla label；a joke about a bridezilla。",
+    "contrast": "bride 是中性的新娘；bridezilla 自带夸张和负面评价，不能只当更随意、更亲切的 bride 使用。",
+    "examples": [
+      [
+        "She disliked being labelled a bridezilla for asking for a clear schedule.",
+        "她只是要求日程清楚，却被贴上苛刻新娘的标签，为此很不高兴。"
+      ],
+      [
+        "The comedy exaggerates the bridezilla stereotype.",
+        "这部喜剧夸大了苛刻新娘的刻板形象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bridezilla#English"
+    ]
+  },
+  {
+    "word": "slugfest",
+    "ipa": "/ˈslʌɡfest/",
+    "meaning": "激烈的对打；硬碰硬的较量；火力旺盛的比赛〔口语〕",
+    "sense": "双方你一拳我一拳，或者在辩论、比赛中轮番强攻，很有 slugfest 的感觉。也可说棒球中进攻、得分猛烈的比赛。",
+    "split": "slug 在这里是重击，不是蛞蝓；加 -fest 集中进行某种活动的事件名材料，形成美式口语。",
+    "history": [
+      [
+        "slug 重击 + -fest 活动",
+        "连续、激烈地互相攻击的画面"
+      ],
+      [
+        "slugfest 的体育与比喻用法",
+        "激烈对打；高强度较量"
+      ]
+    ],
+    "explanation": "a boxing slugfest 拳击对攻战；a political slugfest 政治恶斗；an offensive slugfest 进攻火力旺盛的比赛。具体攻击可以是拳头、言辞或比赛进攻。",
+    "usage": "turn into a slugfest；a verbal slugfest。",
+    "contrast": "debate 可以是平和讨论；slugfest 更强调相互猛攻、硬碰硬。slug 取重击义，能帮助把握这个词强烈的对抗感。",
+    "examples": [
+      [
+        "The debate turned into a verbal slugfest.",
+        "辩论变成了一场激烈的唇枪舌剑。"
+      ],
+      [
+        "The two teams produced a high-scoring slugfest.",
+        "两队打出了一场得分很高的进攻大战。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slugfest#English"
+    ]
+  },
+  {
+    "word": "vaporwave",
+    "ipa": "英 /ˈveɪpəweɪv/；美 /ˈveɪpərweɪv/",
+    "meaning": "蒸汽波〔电子音乐及视觉美学类型〕",
+    "sense": "怀旧的电子声、经过处理的旧音乐片段，加上早期电脑、商场广告般的视觉气氛，是蒸汽波常让人想到的画面。",
+    "split": "vapor(ware) 相关截短材料 + 音乐风格词尾 -wave，形成二十一世纪初期的类型名称。vaporware 原指宣传过却迟迟未推出的软件等产品。",
+    "history": [
+      [
+        "音乐分类中的 -wave 与 vaporware 相关材料",
+        "近代网络文化的类比造词"
+      ],
+      [
+        "vaporwave",
+        "一类电子音乐及相邻视觉美学"
+      ]
+    ],
+    "explanation": "vaporwave music 蒸汽波音乐；a vaporwave aesthetic 蒸汽波美学。类型作品多样，名称不规定每张图必须使用同一颜色或元素。",
+    "usage": "a vaporwave album；vaporwave artwork。",
+    "contrast": "这里的 wave 给流派、风格关系；vaporwave 不是一般蒸汽形成的物理波。中文蒸汽波是固定文化名称。",
+    "examples": [
+      [
+        "The playlist includes several vaporwave tracks.",
+        "歌单里有几首蒸汽波曲目。"
+      ],
+      [
+        "The artwork combines old computer graphics with a vaporwave aesthetic.",
+        "这幅作品把旧电脑图形和蒸汽波美学结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vaporwave#English"
+    ]
+  },
+  {
+    "word": "bedridden",
+    "ipa": "/ˈbedrɪdən/",
+    "meaning": "卧床不起的",
+    "sense": "因生病、衰弱等原因，不能正常离床活动。先抓住被困在床上这个处境，而不是只是今天喜欢躺着。",
+    "split": "古英语 bedreda、bedrida 等先有卧床者名称，接 bed 床 + rida 骑乘者材料；后来成为形容词，并类比强变化过去分词获得 -en，形成 bedridden。",
+    "history": [
+      [
+        "古英语 bed + rida 的人物名称",
+        "长期在床上的人"
+      ],
+      [
+        "形容词化、类比分词形态 → bedridden",
+        "因病、衰弱等卧床不起的"
+      ]
+    ],
+    "explanation": "be bedridden 卧床不起；a bedridden patient 卧床病人。通常说活动能力因身体原因受到限制，不能泛指所有在床上休息的人。",
+    "usage": "remain bedridden；care for a bedridden relative。",
+    "contrast": "bedridden 的历史不只是现代 bed + ride 的过去分词直接相加；理解今天的用法时，重点是无法正常离床活动。",
+    "examples": [
+      [
+        "He was bedridden for several weeks after the illness.",
+        "那场病之后，他卧床不起了几个星期。"
+      ],
+      [
+        "She helped care for a bedridden relative.",
+        "她帮忙照顾一位卧床不起的亲属。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/bedridden",
+      "https://en.wiktionary.org/wiki/bedridden#English"
+    ]
+  },
+  {
+    "word": "playoff",
+    "ipa": "英 /ˈpleɪɒf/；美 /ˈpleɪɔːf/",
+    "meaning": "附加赛；季后赛；决胜赛",
+    "sense": "常规比赛之后还要再打一轮或几轮，来决定晋级、打破平局或产生冠军，这样的比赛可以叫 playoff。",
+    "split": "由动词短语 play off 进行决胜、加赛形成名词；后来后半 -off 又被重新分析，用于其他比赛名称。",
+    "history": [
+      [
+        "play off 的比赛用法",
+        "通过继续比赛分出结果"
+      ],
+      [
+        "名词 playoff → 类比 -off",
+        "附加赛、季后赛等；再形成比赛命名模式"
+      ]
+    ],
+    "explanation": "make the playoffs 打进季后赛；a playoff game 一场季后赛；win a playoff 赢得附加赛。经常用复数 playoffs 说整段赛事。",
+    "usage": "a playoff spot；the playoff round。",
+    "contrast": "不同运动的 playoff 赛制不同，不能一律译成决赛 final；可能有多轮、多个晋级阶段。",
+    "examples": [
+      [
+        "The team reached the playoffs for the first time.",
+        "这支球队首次打进季后赛。"
+      ],
+      [
+        "A playoff was needed to break the tie.",
+        "需要打一场附加赛来打破平局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playoff#English"
+    ]
+  }
+]

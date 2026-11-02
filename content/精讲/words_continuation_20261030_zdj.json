@@ -1,0 +1,715 @@
+[
+  {
+    "word": "wrinkle",
+    "ipa": "/ˈrɪŋkəl/",
+    "meaning": "皱纹、褶皱；小问题、新变化；起皱、使起皱",
+    "sense": "平面被挤出一条折痕，是 wrinkle。计划本来平顺，中间冒出一点需要理顺的问题，也可以说 a wrinkle。",
+    "split": "词族通常接中古英语 wrinklen，较早联系古英语 gewrinclod 起皱的、gewrinclian 弯曲起皱，与日耳曼扭转材料有关。名词的具体形成未全确定，常联系动词。",
+    "history": [
+      [
+        "古英语相关弯曲、起皱材料 → 中古英语 wrinklen",
+        "把表面挤成弯折"
+      ],
+      [
+        "wrinkle 名词、动词及比喻",
+        "表面褶皱；需要理顺的小问题、新变化"
+      ]
+    ],
+    "explanation": "a wrinkle in the cloth 布上的褶；a wrinkle in the plan 计划里的小问题。",
+    "usage": "iron out a wrinkle 熨平褶皱、理顺问题；wrinkle the fabric 把布弄皱。",
+    "contrast": "字首 w 不发音。把问题说成 wrinkle，像在平顺表面发现一处折痕，常暗示还需要整理、处理。",
+    "examples": [
+      [
+        "There was a wrinkle in the cloth.",
+        "布上有一条褶。"
+      ],
+      [
+        "The missing key added a wrinkle to the plan.",
+        "丢失的钥匙给计划添了一个小麻烦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrinkle#English",
+      "https://www.etymonline.com/word/wrinkle"
+    ]
+  },
+  {
+    "word": "wrinkles",
+    "ipa": "/ˈrɪŋkəlz/",
+    "meaning": "皱纹、褶皱、小问题〔复数〕；起皱〔第三人称单数〕",
+    "sense": "一条条折痕是 wrinkles；布料容易自己皱起来，也能说 it wrinkles。",
+    "split": "wrinkle 的历史通常接旧弯曲、起皱词族，现代整词加 -s，/l/ 后读 /z/。名词和动词形式相同。",
+    "history": [
+      [
+        "旧起皱材料 → wrinkle 名词、动词",
+        "褶皱及形成褶皱的动作"
+      ],
+      [
+        "wrinkle + -s → wrinkles",
+        "多条皱褶、小问题；某物起皱"
+      ]
+    ],
+    "explanation": "wrinkles in the shirt 衬衫褶皱；wrinkles easily 容易起皱。",
+    "usage": "iron out the wrinkles 熨平褶皱、理顺问题；a few wrinkles 几处小问题。",
+    "contrast": "问题义 wrinkles 可以是方案、流程里需要调整的细节；具体严重程度仍随上下文。",
+    "examples": [
+      [
+        "She ironed the wrinkles out of the shirt.",
+        "她把衬衫上的褶皱熨平。"
+      ],
+      [
+        "This fabric wrinkles easily.",
+        "这种布容易起皱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrinkles#English",
+      "https://en.wiktionary.org/wiki/wrinkle#English"
+    ]
+  },
+  {
+    "word": "wrinkled",
+    "ipa": "/ˈrɪŋkəld/",
+    "meaning": "起皱了、有褶皱的；皱起了",
+    "sense": "原来平滑的布、纸、皮肤表面出现了折痕，就是 wrinkled。鼻子皱一下，也可用这个动作。",
+    "split": "wrinkle 去词末 e，加完整 -ed，/l/ 后读 /d/。现代形成过程清楚，较早仍接弯曲起皱词族。",
+    "history": [
+      [
+        "wrinkle 起皱、使起皱",
+        "表面形成折痕"
+      ],
+      [
+        "wrinkle 去 e + -ed → wrinkled",
+        "起皱的结果；过去皱起了"
+      ]
+    ],
+    "explanation": "a wrinkled shirt 皱衬衫；wrinkled her nose 皱起鼻子。",
+    "usage": "wrinkled paper 皱纸；a wrinkled surface 有褶皱的表面。",
+    "contrast": "wrinkled 可以写长期状态，也可以写当下做过的皱鼻动作。看表面、时间、对象，不只按一个年龄含义去译。",
+    "examples": [
+      [
+        "He wore a wrinkled shirt.",
+        "他穿着一件皱衬衫。"
+      ],
+      [
+        "She wrinkled her nose at the smell.",
+        "她闻到气味后皱了皱鼻子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrinkled#English",
+      "https://en.wiktionary.org/wiki/wrinkle#English"
+    ]
+  },
+  {
+    "word": "wrinkling",
+    "ipa": "/ˈrɪŋklɪŋ/",
+    "meaning": "正在起皱、弄皱；起皱过程",
+    "sense": "表面一点点收成褶、鼻子正皱起来，是 wrinkling。它把 wrinkle 的折痕画面放到过程中。",
+    "split": "wrinkle 去 e 加 -ing；常用读音里 /əl/ 在加后缀时可压成 /l/，所以通常 /ˈrɪŋklɪŋ/。",
+    "history": [
+      [
+        "wrinkle 的起皱动作",
+        "收缩、弯折形成表面褶"
+      ],
+      [
+        "wrinkle 去 e + -ing → wrinkling",
+        "正在起皱；起皱这件事"
+      ]
+    ],
+    "explanation": "wrinkling the cloth 把布弄皱；wrinkling her nose 正在皱鼻子。",
+    "usage": "prevent wrinkling 避免起皱；wrinkling around the edges 边缘正在起褶。",
+    "contrast": "wrinkle 是完整现代词，不必把末尾 le 每次都当作新的小后缀来翻译。加 ing 时先按去 e 的拼写规律识别。",
+    "examples": [
+      [
+        "The paper was wrinkling around the wet edges.",
+        "纸张湿边缘正在起褶。"
+      ],
+      [
+        "She stood by the door, wrinkling her nose.",
+        "她站在门边，皱着鼻子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrinkling#English",
+      "https://en.wiktionary.org/wiki/wrinkle#English"
+    ]
+  },
+  {
+    "word": "wrenched",
+    "ipa": "/rentʃt/",
+    "meaning": "猛扭了、猛拉了、夺过了；扭伤了",
+    "sense": "抓住把手，突然用力扭拉，把它弄开，是 wrenched。重点是用力、突然，甚至因此受伤或受冲击。",
+    "split": "wrench 承古英语扭转材料，现代加完整 -ed，清辅音 /tʃ/ 后读 /t/，不加一个 /ɪd/ 音节。",
+    "history": [
+      [
+        "古英语 wrencan 等 → wrench",
+        "用力扭、拉、转"
+      ],
+      [
+        "wrench + -ed → wrenched",
+        "过去猛拉、扭伤等；相应结果"
+      ]
+    ],
+    "explanation": "wrenched the door open 猛拉开门；wrenched free 用力挣脱。",
+    "usage": "wrenched from his hand 从他手里猛夺走；wrenched her ankle 扭伤了脚踝。",
+    "contrast": "wrenched 末尾 /tʃt/ 接得紧。它突出带力的扭拉，普通 turn、pull 的力度不一定这么强。",
+    "examples": [
+      [
+        "He wrenched the stuck door open.",
+        "他猛地拉开卡住的门。"
+      ],
+      [
+        "She wrenched the bag from his hand.",
+        "她用力从他手里夺过包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrenched#English",
+      "https://en.wiktionary.org/wiki/wrench#English"
+    ]
+  },
+  {
+    "word": "wrenching",
+    "ipa": "/ˈrentʃɪŋ/",
+    "meaning": "正在猛扭、猛拉；令人痛苦的、揪心的",
+    "sense": "物体被猛扯的力量感，放到感情上就像心里也被扯了一下。wrenching 因而既写动作，也能形容揪心。",
+    "split": "wrench 的扭拉动词接古英语材料，现代加 -ing；造成痛苦的形容词义由强烈扭扯感扩展。",
+    "history": [
+      [
+        "wrench 猛扭、扯动",
+        "用力改变位置或拉开"
+      ],
+      [
+        "wrench + -ing → wrenching",
+        "进行动作；痛苦、揪心的性质"
+      ]
+    ],
+    "explanation": "wrenching the door open 正在猛拉开门；a wrenching separation 痛苦的分离。",
+    "usage": "a wrenching decision 令人痛苦的决定；wrenching free 正在挣脱。",
+    "contrast": "形容词 wrenching 常指造成强烈情感痛苦。先抓用力撕扯的感受，再看是现实动作还是内心体验。",
+    "examples": [
+      [
+        "He was wrenching at the stuck handle.",
+        "他正在用力扭拉卡住的把手。"
+      ],
+      [
+        "Leaving the old home was a wrenching experience.",
+        "离开旧家是一段令人痛苦的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrenching#English",
+      "https://en.wiktionary.org/wiki/wrench#English"
+    ]
+  },
+  {
+    "word": "grips",
+    "ipa": "/ɡrɪps/",
+    "meaning": "抓握、握法、把手、控制〔复数〕；抓住、吸引〔第三人称单数〕",
+    "sense": "手把东西紧紧抓住，是 grips 的动作；可抓的把手、抓住的方式，也能用名词 grips 来说。故事把注意力抓牢，同样可以 grips the reader。",
+    "split": "grip 的名词、动词接古英语及相关抓握词族，现代加 -s，/p/ 后读 /s/。",
+    "history": [
+      [
+        "古英语抓握材料 → grip 名词、动词",
+        "抓牢；握法、把手、控制及吸引比喻"
+      ],
+      [
+        "grip + -s → grips",
+        "多种握法、把手；某物抓住、吸引"
+      ]
+    ],
+    "explanation": "rubber grips 橡胶把手；grips the rail 抓住栏杆；come to grips with 开始认真应对。",
+    "usage": "grips the reader 吸引读者；different grips 不同握法。",
+    "contrast": "come to grips with a problem 像真正动手抓住问题，常指开始面对、理解并处理它。实际句义按完整短语读。",
+    "examples": [
+      [
+        "The bicycle has rubber grips on the handlebars.",
+        "自行车车把上装着橡胶握把。"
+      ],
+      [
+        "The story grips the reader from the first page.",
+        "故事从第一页就抓住读者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grips#English",
+      "https://en.wiktionary.org/wiki/grip#English"
+    ]
+  },
+  {
+    "word": "gripped",
+    "ipa": "/ɡrɪpt/",
+    "meaning": "紧抓住了；被强烈吸引、影响的",
+    "sense": "手抓紧栏杆不放，是 gripped；故事、情绪把一个人的注意力抓住，也能说 gripped。",
+    "split": "grip 接旧抓握词族，短重读音节后双写 p，加完整 -ed，/p/ 后读 /t/。",
+    "history": [
+      [
+        "grip 的抓牢与控制、吸引用法",
+        "实物抓握 → 注意力、情绪被占住"
+      ],
+      [
+        "grip 双写 p + -ed → gripped",
+        "过去抓住；被强烈吸引、影响"
+      ]
+    ],
+    "explanation": "gripped the rail 抓紧栏杆；gripped by the story 被故事吸引。",
+    "usage": "gripped her hand 紧握她的手；gripped by fear 被恐惧攫住。",
+    "contrast": "was gripped by 常写人被某种感受、故事牢牢占住，字面上未必有一只手。形象仍是抓住不放。",
+    "examples": [
+      [
+        "He gripped the rail with both hands.",
+        "他双手紧抓栏杆。"
+      ],
+      [
+        "The audience was gripped by the story.",
+        "观众被故事深深吸引。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gripped#English",
+      "https://en.wiktionary.org/wiki/grip#English"
+    ]
+  },
+  {
+    "word": "stiffened",
+    "ipa": "/ˈstɪfənd/",
+    "meaning": "变硬了、绷直了；使硬、使强硬了",
+    "sense": "原来能弯的地方变得硬直，是 stiffened。人听到某句话，身体一下绷住，也能写 stiffened。",
+    "split": "stiff 硬直 + -en → stiffen，现代整个词加 -ed，/n/ 后读 /d/。物理硬直向态度、反应等场景扩展。",
+    "history": [
+      [
+        "stiff + -en → stiffen",
+        "使变硬直、变强硬"
+      ],
+      [
+        "stiffen + -ed → stiffened",
+        "过去变硬、使硬；已绷紧的状态"
+      ]
+    ],
+    "explanation": "a stiffened collar 硬挺领子；stiffened at the question 听到问题后绷住了。",
+    "usage": "stiffened the fabric 使布变硬挺；his posture stiffened 他的姿态绷直了。",
+    "contrast": "stiffened 可及物也可不及物：某物让布硬起来，或人自己绷紧。主语和后面对象说明谁发生变化。",
+    "examples": [
+      [
+        "The fabric stiffened as it dried.",
+        "布干燥时变得硬挺。"
+      ],
+      [
+        "He stiffened when he heard his name.",
+        "听到自己的名字，他身体一绷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stiffened#English",
+      "https://en.wiktionary.org/wiki/stiffen#English"
+    ]
+  },
+  {
+    "word": "stiffening",
+    "ipa": "/ˈstɪfənɪŋ/",
+    "meaning": "正在变硬、使硬；加硬材料、变强硬过程",
+    "sense": "软的东西逐渐挺起来，是 stiffening。给衣物加的硬衬材料，也能按这种作用称作 stiffening。",
+    "split": "stiff + -en → stiffen，再加 -ing；动作形式也形成过程、加硬材料等名词。",
+    "history": [
+      [
+        "stiff + -en → stiffen",
+        "使硬、变硬"
+      ],
+      [
+        "stiffen + -ing → stiffening",
+        "变硬过程；用于加硬的材料"
+      ]
+    ],
+    "explanation": "stiffening fabric 使布变硬；stiffening in the collar 领子里的加硬衬料。",
+    "usage": "a stiffening of attitudes 态度的强硬化；stiffening material 加硬材料。",
+    "contrast": "名词 stiffening 可以指过程，也可指起加硬作用的材料。看到 in the collar、material 等，便容易认出器物用途。",
+    "examples": [
+      [
+        "The tailor added stiffening to the collar.",
+        "裁缝在领子里加了硬衬。"
+      ],
+      [
+        "She noticed him stiffening at the question.",
+        "她注意到他听见问题后身体绷紧了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stiffening#English",
+      "https://en.wiktionary.org/wiki/stiffen#English"
+    ]
+  },
+  {
+    "word": "spanners",
+    "ipa": "英 /ˈspænəz/；美 /ˈspænərz/",
+    "meaning": "扳手〔复数，常见英式〕",
+    "sense": "夹住螺母、螺栓的合适部位，借长柄把它扳转的工具，是 spanners。先抓固定、绷紧、扳转的功能。",
+    "split": "spanner 的工具名历史联系德语 Spanner、spannen 绷紧、连接，与英语 span 同族。现代整词加 -s，尾 /z/。",
+    "history": [
+      [
+        "德语相关工具、绷紧材料 → spanner",
+        "与英语 span 同族的工具名称"
+      ],
+      [
+        "spanner + -s → spanners",
+        "多把扳手"
+      ]
+    ],
+    "explanation": "a set of spanners 一套扳手；adjustable spanners 活动扳手。",
+    "usage": "spanners in the toolbox 工具箱里的扳手；use the spanners 使用扳手。",
+    "contrast": "英式常说 spanner，美式相近工具常说 wrench。a spanner in the works 还比喻让事情卡住、出问题的意外障碍。",
+    "examples": [
+      [
+        "The mechanic arranged the spanners by size.",
+        "修理工按大小摆好扳手。"
+      ],
+      [
+        "The toolbox held several spanners.",
+        "工具箱里放着几把扳手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spanners#English",
+      "https://en.wiktionary.org/wiki/spanner#English"
+    ]
+  },
+  {
+    "word": "crumples",
+    "ipa": "/ˈkrʌmpəlz/",
+    "meaning": "揉皱、压皱；塌软、失去支撑〔第三人称单数〕",
+    "sense": "纸被挤成一团乱褶，是 crumples；物体失去撑开的形状，甚至人一下软下去，也可借这个画面。",
+    "split": "crumple 经中古英语 crumplen 等接弯曲 crump 词族的反复形式。现代整词加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "弯曲 crump 词族 → 中古英语 crumplen → crumple",
+        "揉、压成不规则褶皱"
+      ],
+      [
+        "crumple + -s → crumples",
+        "某人揉皱；某物塌软、起乱褶"
+      ]
+    ],
+    "explanation": "crumples the paper 把纸揉皱；crumples into a heap 塌成一堆。",
+    "usage": "crumples easily 容易皱塌；crumples the cloth 把布弄皱。",
+    "contrast": "crumple 突出乱折、失去撑开的形状；crumble 常突出碎裂成小块、碎屑。二者拼写近，画面重点不同。",
+    "examples": [
+      [
+        "He crumples the note in his hand.",
+        "他把便条在手里揉成一团。"
+      ],
+      [
+        "The thin box crumples under the weight.",
+        "薄盒子被重量压得塌软了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crumples#English",
+      "https://en.wiktionary.org/wiki/crumple#English"
+    ]
+  },
+  {
+    "word": "crumpled",
+    "ipa": "/ˈkrʌmpəld/",
+    "meaning": "揉皱了、压皱的；塌软了",
+    "sense": "平整纸张变成一团乱褶、撑开的盒子压塌了，都是 crumpled 的画面。",
+    "split": "crumple 接旧弯曲词族，现代去 e 加完整 -ed，/l/ 后读 /d/。分词常直接修饰皱纸、皱衣物。",
+    "history": [
+      [
+        "crump 的弯曲材料 → crumple",
+        "反复弯折、揉皱"
+      ],
+      [
+        "crumple 去 e + -ed → crumpled",
+        "过去弄皱、塌软；揉皱后的状态"
+      ]
+    ],
+    "explanation": "a crumpled note 皱便条；crumpled clothes 皱衣服。",
+    "usage": "crumpled the paper up 把纸揉成团；a crumpled box 压皱的盒子。",
+    "contrast": "crumpled 可以只是皱、塌，还没有碎裂。要说一块块碎掉，crumble 那条碎屑画面更适合。",
+    "examples": [
+      [
+        "A crumpled note lay beside the bin.",
+        "垃圾桶旁放着一张皱便条。"
+      ],
+      [
+        "She crumpled the paper into a ball.",
+        "她把纸揉成一团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crumpled#English",
+      "https://en.wiktionary.org/wiki/crumple#English"
+    ]
+  },
+  {
+    "word": "crumpling",
+    "ipa": "/ˈkrʌmplɪŋ/",
+    "meaning": "正在揉皱、压塌；皱塌过程",
+    "sense": "表面一层层乱折，物体正在失去原来展开的形状，就是 crumpling。",
+    "split": "crumple 去词末 e，加 -ing；常用读音可把 /əl/ 压成 /l/，形成 /ˈkrʌmplɪŋ/。",
+    "history": [
+      [
+        "crumple 的弯折、皱塌动作",
+        "揉出不规则褶皱，或失去支撑"
+      ],
+      [
+        "crumple 去 e + -ing → crumpling",
+        "正在揉、压皱；相应过程"
+      ]
+    ],
+    "explanation": "crumpling the paper 正在揉纸；crumpling under pressure 受压正在皱塌。",
+    "usage": "the sound of crumpling paper 揉纸声；crumpling into a heap 塌成一堆。",
+    "contrast": "wrinkling 常强调出现一条条褶，crumpling 更容易想到挤成许多乱折或皱塌成团。具体程度仍看场景。",
+    "examples": [
+      [
+        "He stood crumpling the paper in his hand.",
+        "他站在那里，把纸在手里揉着。"
+      ],
+      [
+        "The thin box was crumpling under the books.",
+        "薄盒子被上面的书压得正在皱塌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crumpling#English",
+      "https://en.wiktionary.org/wiki/crumple#English"
+    ]
+  },
+  {
+    "word": "sawmills",
+    "ipa": "英 /ˈsɔːmɪlz/；美 /ˈsɔːmɪlz/，也有 /ɑː/ 读法",
+    "meaning": "锯木厂、锯木设备〔复数〕",
+    "sense": "把原木送进去，用锯加工成木料的场所或设备，是 sawmills。saw 给加工工具，mill 给加工设施。",
+    "split": "saw 锯 + mill 加工设备、工厂 → sawmill，再加 -s，/l/ 后读 /z/。mill 很早接拉丁磨石相关材料，后来扩大到各类加工设施。",
+    "history": [
+      [
+        "saw + mill → sawmill",
+        "按锯切加工命名设施、工厂"
+      ],
+      [
+        "sawmill + -s → sawmills",
+        "多家锯木厂、多台相应设备"
+      ]
+    ],
+    "explanation": "old sawmills 旧锯木厂；sawmills powered by water 水力锯木厂。",
+    "usage": "sawmills near the forest 林区附近的锯木厂；work in sawmills 在锯木厂工作。",
+    "contrast": "saw 在这里是切割工具的词，不是看见的过去式。mill 也已扩大为加工设施，不限磨面粉的磨坊。",
+    "examples": [
+      [
+        "Several sawmills stood near the forest.",
+        "林区附近有几家锯木厂。"
+      ],
+      [
+        "The museum describes old sawmills in the region.",
+        "博物馆介绍了这一带的旧锯木厂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sawmills#English",
+      "https://en.wiktionary.org/wiki/sawmill#English"
+    ]
+  },
+  {
+    "word": "handsaw",
+    "ipa": "英 /ˈhændsɔː/；美 /ˈhændsɔː/，也读 /ˈhændsɑː/",
+    "meaning": "手锯",
+    "sense": "手拿着锯柄，来回移动带齿刀片切木料，就是 handsaw。hand 把手动使用方式说清。",
+    "split": "hand + saw 的英语组合；hand 继承手部旧词，工具 saw 继承古英语 sagu。整个词按使用方式命名。",
+    "history": [
+      [
+        "hand + saw → handsaw",
+        "手动使用的锯"
+      ],
+      [
+        "固定工具名称",
+        "用手操控、来回锯切的器具"
+      ]
+    ],
+    "explanation": "a sharp handsaw 锋利手锯；cut with a handsaw 用手锯切。",
+    "usage": "a handsaw with a wooden handle 木柄手锯；hang up the handsaw 挂好手锯。",
+    "contrast": "手锯的 saw 取锯子名。它告诉你大致的手动器具类型，具体齿形、尺寸还要看实物。",
+    "examples": [
+      [
+        "He cut the branch with a handsaw.",
+        "他用手锯切树枝。"
+      ],
+      [
+        "The handsaw hung beside the hammer.",
+        "手锯挂在锤子旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handsaw#English"
+    ]
+  },
+  {
+    "word": "handsaws",
+    "ipa": "英 /ˈhændsɔːz/；美 /ˈhændsɔːz/，也读 /ˈhændsɑːz/",
+    "meaning": "手锯〔复数〕",
+    "sense": "多把手拿着来回锯切的工具，是 handsaws。手动用途保持不变，复数只数整把器具。",
+    "split": "hand + saw → handsaw，现代整词加 -s；元音后复数读 /z/，w 不另发辅音。",
+    "history": [
+      [
+        "hand + saw → handsaw",
+        "手动锯的组合名"
+      ],
+      [
+        "handsaw + -s → handsaws",
+        "多把手锯"
+      ]
+    ],
+    "explanation": "sharp handsaws 锋利手锯；old handsaws 旧手锯。",
+    "usage": "handsaws on the wall 墙上的手锯；a collection of handsaws 一组收藏手锯。",
+    "contrast": "前面的 hand 说明用途、操控方式，通常保持单数。复数落在最后 saw 上。",
+    "examples": [
+      [
+        "Old handsaws hung on the workshop wall.",
+        "车间墙上挂着旧手锯。"
+      ],
+      [
+        "The collection includes handsaws of different sizes.",
+        "藏品包括不同大小的手锯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handsaws#English",
+      "https://en.wiktionary.org/wiki/handsaw#English"
+    ]
+  },
+  {
+    "word": "hacksaws",
+    "ipa": "英 /ˈhæksɔːz/；美 /ˈhæksɔːz/，也读 /ˈhæksɑːz/",
+    "meaning": "钢锯、弓形锯〔复数〕",
+    "sense": "细齿锯片绷在框架里，用来锯切金属等材料的工具，常是 hacksaws。hack 给切削动作，saw 给锯子。",
+    "split": "hack 砍、切削 + saw 工具 → hacksaw，再加复数 -s，元音后读 /z/。",
+    "history": [
+      [
+        "hack + saw → hacksaw",
+        "切削用途的锯具"
+      ],
+      [
+        "hacksaw + -s → hacksaws",
+        "多把钢锯、框架锯"
+      ]
+    ],
+    "explanation": "small hacksaws 小钢锯；hacksaws in the workshop 车间里的钢锯。",
+    "usage": "use hacksaws 使用钢锯；frames of the hacksaws 钢锯框架。",
+    "contrast": "hack 在此为切削材料，和今天计算机领域的 hack 用法分开。复合工具名先认它的物理用途。",
+    "examples": [
+      [
+        "The toolbox held two hacksaws.",
+        "工具箱里放着两把钢锯。"
+      ],
+      [
+        "The students compared the blades of the hacksaws.",
+        "学生们比较了几把钢锯的锯片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hacksaws#English",
+      "https://en.wiktionary.org/wiki/hacksaw#English"
+    ]
+  },
+  {
+    "word": "jigsaw",
+    "ipa": "英 /ˈdʒɪɡsɔː/；美 /ˈdʒɪɡsɔː/，也读 /ˈdʒɪɡsɑː/",
+    "meaning": "曲线锯；拼图；需要拼合的复杂整体",
+    "sense": "锯片快速上下往复、切出曲线，是 jigsaw 的工具画面。早期拼图可由这种锯切开图板，工具名后来就进入拼图名称。",
+    "split": "jig 快速上下动作的材料 + saw 锯 → jigsaw。jig 的更早来源未定；jigsaw puzzle 原有用这类锯切出拼图片的背景，后来 jigsaw 可单独指拼图。",
+    "history": [
+      [
+        "jig + saw → jigsaw",
+        "快速上下运动的锯"
+      ],
+      [
+        "jigsaw puzzle → jigsaw 的拼图用法",
+        "由切图板工具进入拼图名称；再比喻待拼合的整体"
+      ]
+    ],
+    "explanation": "a jigsaw puzzle 拼图；a piece of the jigsaw 整体中的一块线索、拼图块。",
+    "usage": "use a jigsaw 使用曲线锯；complete a jigsaw 拼完拼图。",
+    "contrast": "不是先有拼图玩具，再按玩具给锯命名。工具名在前，拼图名称借它发展；现代不要求每张纸质拼图仍由锯切。",
+    "examples": [
+      [
+        "He used a jigsaw to cut a curved shape.",
+        "他用曲线锯切出弯曲形状。"
+      ],
+      [
+        "The missing letter was one piece of the jigsaw.",
+        "那封遗失的信是拼出事情全貌的一块线索。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jigsaw#English",
+      "https://www.etymonline.com/word/jigsaw"
+    ]
+  },
+  {
+    "word": "jigsaws",
+    "ipa": "英 /ˈdʒɪɡsɔːz/；美 /ˈdʒɪɡsɔːz/，也读 /ˈdʒɪɡsɑːz/",
+    "meaning": "曲线锯；拼图〔复数〕",
+    "sense": "车间里多把曲线锯，或桌上多盒拼图，都可以叫 jigsaws。工具与游戏的命名联系，需要靠场景选择。",
+    "split": "jig + saw → jigsaw，原工具名进入 jigsaw puzzle，再可简称 jigsaw；现代各义加复数 -s，元音后读 /z/。",
+    "history": [
+      [
+        "上下运动的锯名 jigsaw → 拼图名称",
+        "工具用途形成新的物品名"
+      ],
+      [
+        "jigsaw + -s → jigsaws",
+        "多把曲线锯；多份拼图"
+      ]
+    ],
+    "explanation": "electric jigsaws 电动曲线锯；children’s jigsaws 儿童拼图。",
+    "usage": "complete jigsaws 拼拼图；jigsaws in the workshop 车间里的曲线锯。",
+    "contrast": "electric、blade、wood 容易指工具；pieces、picture、puzzle 容易指拼图。两个义都能数多个。",
+    "examples": [
+      [
+        "The shop sells jigsaws for children.",
+        "店里卖儿童拼图。"
+      ],
+      [
+        "Two electric jigsaws stood on the workbench.",
+        "工作台上放着两把电动曲线锯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jigsaws#English",
+      "https://en.wiktionary.org/wiki/jigsaw#English"
+    ]
+  },
+  {
+    "word": "wringer",
+    "ipa": "英 /ˈrɪŋə/；美 /ˈrɪŋər/",
+    "meaning": "挤水机、拧干装置；the wringer 喻艰难折腾",
+    "sense": "把湿衣物里的水压挤出来的装置，是 wringer。人被一轮轮压力折腾，便可比喻被送过这种挤压装置。",
+    "split": "wring 拧挤 + -er，较早也可指拧水者，后来命名设备。旧式设备常用滚筒挤水，不一定真的反向扭布；名称保留相应去水作用。",
+    "history": [
+      [
+        "wring + -er → wringer",
+        "拧、挤水的执行者；后来相应设备"
+      ],
+      [
+        "put someone through the wringer",
+        "让人经历严厉盘问、艰难折腾"
+      ]
+    ],
+    "explanation": "an old wringer 旧挤水机；put someone through the wringer 把某人狠狠折腾一番。",
+    "usage": "a clothes wringer 衣物挤水机；been through the wringer 经历了痛苦折腾。",
+    "contrast": "现代读物里常见的是 the wringer 这个惯用语。它借挤压的经历说压力很大，具体可能是盘问、考试或一段艰难过程。",
+    "examples": [
+      [
+        "The museum displayed an old clothes wringer.",
+        "博物馆展出了一台旧衣物挤水机。"
+      ],
+      [
+        "The long interview put me through the wringer.",
+        "漫长面试把我狠狠折腾了一番。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wringer#English",
+      "https://www.etymonline.com/word/wring"
+    ]
+  }
+]

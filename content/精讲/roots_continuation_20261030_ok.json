@@ -1,0 +1,297 @@
+[
+  {
+    "id": "B3003",
+    "meaning": "踩踏动作与接地表面，伸向谨慎行事和重新做胎面",
+    "core": "TREAD：脚踩在哪，轮胎也有贴地的那一面",
+    "image": "tread → treading；retread 接重新做胎面或重走；treadmill 是相关复合词。",
+    "intro": "动作看落脚，名词看脚步、踏面、胎面。处理事情小心像挑落脚处，重复老路像又踩一次，形象能帮你串起比喻。",
+    "forms": "tredan → treden → tread；+ -ing；re- 再次；tread + mill → treadmill。\n\n经法语 trot、troter，接法兰克语重建 *trotton 与日耳曼踏行材料。和 tread 可作历史同族比较，不是现代 tread 加 -ot。\n\ntrot 双写 t 加完整 -er；马、信使、作食材的四足兽脚等义都很早，不必编成某一现代义必先于另一义。",
+    "branches": [
+      [
+        "动作及进行、活动形式",
+        "tread · treading"
+      ],
+      [
+        "重新处理与相关装置",
+        "retread · treadmill"
+      ],
+      [
+        "trot：快而有节奏的小跑",
+        "trot · trots · trotted · trotting"
+      ],
+      [
+        "trotter：善快步跑的马；作为食材的蹄脚",
+        "trot · trotter · trotters"
+      ]
+    ],
+    "contrasts": "tread /tred/ 与 thread /θred/ 不同；retread 轮胎接胎面义，不能只理解又踩一脚。",
+    "practice": "The discussion was treading water, so she chose to tread carefully.\n\n讨论一直没有进展，于是她选择谨慎处理。",
+    "words": [
+      "tread",
+      "treading",
+      "retread",
+      "treadmill",
+      "trot",
+      "trots",
+      "trotted",
+      "trotting",
+      "trotter",
+      "trotters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3834",
+    "meaning": "叶片样的薄层与衬托，挫败动词另接踩踏材料",
+    "core": "FOIL：一张薄片，也能是让别人更显眼的衬托",
+    "image": "foil → tinfoil；airfoil、hydrofoil 是相关翼面名；挫败动词分源。",
+    "intro": "先分名词薄片和动词挫败。珠宝衬箔使它显亮，衬托人物也把对比放大；机翼、水翼再看薄翼面形状与作用。",
+    "forms": "folia → 法语相关叶片词 → foil；fouler → foil 挫败；tin 锡；air 空气；hydro- 水。",
+    "branches": [
+      [
+        "薄片、衬托与相应复合名",
+        "foil · tinfoil · airfoil · hydrofoil"
+      ],
+      [
+        "同形的挫败动作",
+        "foil"
+      ]
+    ],
+    "contrasts": "tinfoil 日常旧称不保证材料真是锡；airfoil 不同于整架飞机；foil 挫败不是箔纸义临时转用。",
+    "practice": "The quiet character acts as a foil for the loud one.\n\n安静的人物衬出了另一个人物的聒噪。",
+    "words": [
+      "foil",
+      "tinfoil",
+      "airfoil",
+      "hydrofoil"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1682",
+    "meaning": "继亲关系的旧前缀，与迈步的 step 分源",
+    "core": "STEP-：婚姻带来的继亲关系，别按走一步来拆",
+    "image": "stepfather、stepmother 先看父母，再看继子女与继兄弟姐妹。",
+    "intro": "step- 的早期材料关联失去亲属、孤儿等背景，现代继亲关系不要求父母已去世。它不是“走进一家人”的现代步伐故事。",
+    "forms": "古英语 stēop- 等继亲材料延续；接 father、mother、child、brother、sister 等；dad、mom 为较口语父母称呼。",
+    "branches": [
+      [
+        "继父母及口语称呼",
+        "stepfather · stepmother · stepdad · stepmom"
+      ],
+      [
+        "继子女",
+        "stepchild · stepson · stepdaughter"
+      ],
+      [
+        "继兄弟姐妹",
+        "stepbrother · stepsister"
+      ]
+    ],
+    "contrasts": "stepbrother 与 half brother 同父异母或同母异父的关系不相同；现代 step- 不根据亲属是否健在来逐字翻旧源。",
+    "practice": "Her stepfather has a son who is now her stepbrother.\n\n她的继父有一个儿子，如今成了她的继兄弟。",
+    "words": [
+      "stepfather",
+      "stepmother",
+      "stepdad",
+      "stepmom",
+      "stepchild",
+      "stepson",
+      "stepdaughter",
+      "stepbrother",
+      "stepsister"
+    ],
+    "exclude": {
+      "step-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "step-porn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "step-incest": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stepfather-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stepmother-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stepbrother-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stepsister-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3368",
+    "meaning": "人名形成的功率单位，后缀与数量前缀扩展",
+    "core": "WATT：一秒里，能量传递得有多快",
+    "image": "watt → wattage；kilowatt、megawatt 扩大数量单位。",
+    "intro": "用每秒一焦耳建立功率画面，再把千瓦、兆瓦看成单位倍数。用电总量还要考虑时间，不能与瓦数混作一件事。",
+    "forms": "Watt 人名 → watt；-age 瓦数；kilo- 千；mega- 百万；符号 W、kW、MW。\n\nmega- 在科学单位中表示一百万，watt 以 James Watt 姓名命名功率单位。megawatts 是功率，不是累计电量，词尾 /ts/。\n\nkilowatt 是功率单位，watt 以 James Watt 命名；joule、joules 是能量、功单位，以 James Prescott Joule 命名。两条人名来源不同，这里放在一起对照功率与能量，不把 joule 当 watt 的派生词。\n\n功率单位以 James Watt 命名，现代单位词 watt 小写，复数 watts；单位符号 W 大写，不加 s。1 W = 1 J/s，功率与能量分清。",
+    "branches": [
+      [
+        "单位与功率数值",
+        "watt · wattage"
+      ],
+      [
+        "数量单位扩展",
+        "kilowatt · megawatt"
+      ],
+      [
+        "mega- + watt → megawatt → megawatts：百万瓦",
+        "megawatt · megawatts"
+      ],
+      [
+        "千瓦和焦耳：做功有多快，与总共多少能量",
+        "kilowatts · joule · joules"
+      ],
+      [
+        "Watt 人名 → watt → watts",
+        "watts"
+      ]
+    ],
+    "contrasts": "watt 功率与 watt-hour 能量不同；单位普通名小写、人名大写、符号 W 大写。",
+    "practice": "The wattage is expressed in watts or kilowatts.\n\n功率数值用瓦或千瓦表示。",
+    "words": [
+      "watt",
+      "wattage",
+      "kilowatt",
+      "megawatt",
+      "megawatts",
+      "kilowatts",
+      "joule",
+      "joules",
+      "watts"
+    ],
+    "exclude": {
+      "watt-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micro-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nano-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kilo-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pico-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tera-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "giga-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3586",
+    "meaning": "长杆尖头与刺取动作，植物同形词有另一条材料",
+    "core": "SPEAR：尖端先碰到目标，再借成带头力量",
+    "image": "spear → speared；spearhead 从矛头走向牵头；spearmint 按植物命名材料另看。",
+    "intro": "动作可以出现在博物馆、餐桌和项目管理三个场景。植物嫩茎、薄荷名称另有 spire 等相关词形材料，不强讲成每片叶子都是武器。",
+    "forms": "spere → spear；-ed 过去式、分词；head 尖头；植物 spear 亦接 spire 改形材料。\n\n武器 spear 承古英语 spere 等日耳曼词，远源有不同分析。植物嫩芽 spear 另是 spire 的变体，可能又受武器名影响。保留 e 加 -s，末尾 /z/。",
+    "branches": [
+      [
+        "实体名与刺取动作变化",
+        "spear · speared"
+      ],
+      [
+        "矛头到带头推进",
+        "spearhead"
+      ],
+      [
+        "植物名称",
+        "spearmint"
+      ],
+      [
+        "spear 矛，与 spire 相关的嫩芽名",
+        "spears"
+      ]
+    ],
+    "contrasts": "spear an olive 是叉起橄榄；spearhead a project 是带头推进；spearmint 不靠现代矛字面强定唯一命名依据。",
+    "practice": "The person who spearheaded the exhibition showed us a bronze spear.\n\n牵头办展的人给我们看了一支青铜矛。",
+    "words": [
+      "spear",
+      "speared",
+      "spearhead",
+      "spearmint",
+      "spears"
+    ],
+    "exclude": {
+      "spearman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2229",
+    "meaning": "向后、反向或背景材料，复合词各限定一种关系",
+    "core": "BACK-：回到后面，或看原来没放在前台的部分",
+    "image": "backflip 向后翻；backlash 反向反应；backstory 先前背景故事。",
+    "intro": "前面的 back 不只有返回地点，也能说反向动作、前情背景。后半决定这是翻转、反弹还是叙述材料。",
+    "forms": "back + flip；back + lash；back + story，现代复合构词；连写词作为整体再发展比喻。",
+    "branches": [
+      [
+        "反向动作与反应",
+        "backflip · backlash"
+      ],
+      [
+        "前情背景",
+        "backstory"
+      ]
+    ],
+    "contrasts": "backstory 发生在主要情节之前，不是把故事倒着读；backlash 通常回应先前举措，也不是任意反对。",
+    "practice": "The backstory helps explain the later backlash.\n\n前情背景有助于解释后来的强烈反弹。",
+    "words": [
+      "backflip",
+      "backlash",
+      "backstory"
+    ],
+    "exclude": {
+      "back-class": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-formation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-translation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-translate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-annotation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-transliteration": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "back-ganging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3314",
+    "meaning": "从植物饮食材料形成素食者，再到实践与理念名词",
+    "core": "VEGETARIAN：先认吃法，再分人、性质和实践",
+    "image": "vegetarian → vegetarianism；同一核心，前者指人或性质，后者指实践、理念。",
+    "intro": "vegetarian 不是只吃几种蔬菜的字面限制。常用范围围绕不吃肉、鱼等，具体蛋奶差别还会用更多限定词说明。",
+    "forms": "vegetable 部分词干 + -arian → vegetarian；+ -ism → vegetarianism。\n\nvegetarian 的植物词基与 vegetable、vegetation、vegetate 都接拉丁 vegetare 使有活力、生长词族。先认植物，再分植物总称与闲散度日的比喻；vegetate 与 vegetation 的直接形成关系有不同可能。",
+    "branches": [
+      [
+        "人物、性质与相应实践",
+        "vegetarian · vegetarianism"
+      ],
+      [
+        "veget- 生长、有活力 → vegetable、vegetation、vegetate",
+        "vegetable · vegetation · vegetate"
+      ]
+    ],
+    "contrasts": "vegetarian 与 vegan 范围不同；-ism 可命名实践或理念，不一律翻成政治主义。",
+    "practice": "As a vegetarian, she enjoyed reading about the history of vegetarianism.\n\n作为素食者，她喜欢阅读素食史。",
+    "words": [
+      "vegetarian",
+      "vegetarianism",
+      "vegetable",
+      "vegetation",
+      "vegetate"
+    ],
+    "exclude": {
+      "demi-vegetarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2817",
+    "meaning": "软木材料转为塞子、封塞动作，再分性质与工具",
+    "core": "CORK：轻软树皮材料，成了塞瓶口的东西",
+    "image": "cork → corky；corkscrew 是螺旋拔塞工具。",
+    "intro": "材料、物品和动作是三层。先认软木，再认瓶塞与塞住；corky 则要按质地或感官评价选择含义。",
+    "forms": "荷兰、西班牙相关词 → cork，更早拉丁归属有不同解释；-y 性质；cork + screw 螺旋工具。",
+    "branches": [
+      [
+        "材料、物品与性质",
+        "cork · corky"
+      ],
+      [
+        "拔塞工具",
+        "corkscrew"
+      ]
+    ],
+    "contrasts": "cork 不是 Cork 城市名的材料来源；corky 气味义常是负面判断，非所有木香。",
+    "practice": "The corkscrew pulled the cork from the bottle.\n\n开瓶器把瓶塞从瓶口拔了出来。",
+    "words": [
+      "cork",
+      "corky",
+      "corkscrew"
+    ],
+    "exclude": {
+      "corker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

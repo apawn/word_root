@@ -1,0 +1,308 @@
+[
+  {
+    "word": "groove",
+    "ipa": "/ɡruːv/",
+    "meaning": "沟槽、凹槽；节奏律动；熟悉顺畅的做事状态",
+    "sense": "先看到一道细长的槽，物件沿槽滑动；再想节奏或工作进入了顺畅轨道。get into a groove 就有逐渐合拍、顺手的感觉。",
+    "split": "经斯堪的纳维亚语或荷兰语的坑、沟词进入英语，与更早挖、凿的日耳曼语材料相连；具体来源有不同路径。后有狭长槽、唱片纹路及节奏、惯例等引申。",
+    "history": [
+      [
+        "北欧或荷兰语相关坑、沟材料 → groove",
+        "挖出的凹处；后来狭长沟槽"
+      ],
+      [
+        "唱片、规律动作等现代分支",
+        "唱片纹路；节奏律动、熟悉的状态"
+      ]
+    ],
+    "explanation": "a groove in the wood 木头上的凹槽；a deep groove 深槽；a steady groove 稳定的音乐律动；get into a groove 找到节奏、做顺手。",
+    "usage": "cut a groove；get back into the groove。",
+    "contrast": "groove 是向下凹的槽，ridge 是向上凸的脊；比喻工作状态时 groove 常说合拍、顺手，也可按语境说固定套路。",
+    "examples": [
+      [
+        "The wheel fits into a narrow groove.",
+        "轮子嵌在一道窄槽里。"
+      ],
+      [
+        "After a few minutes, the band settled into a steady groove.",
+        "几分钟后，乐队进入了稳定的律动。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/groove",
+      "https://en.wiktionary.org/wiki/groove#English"
+    ]
+  },
+  {
+    "word": "groovy",
+    "ipa": "/ˈɡruːvi/",
+    "meaning": "律动舒服的；很棒、很酷的〔常带复古口语色彩〕",
+    "sense": "音乐节奏合拍，让人忍不住跟着摆动，后来也用来夸东西很棒。今天说 That’s groovy，常会有复古或玩笑的味道。",
+    "split": "groove 去末尾 e 加 -y；较早可指有沟槽的。很棒的俚语义与爵士乐 in the groove 演奏合拍、状态好等表达有关，二十世纪中期尤其流行。",
+    "history": [
+      [
+        "groove + -y → groovy",
+        "较早与沟槽相关的形容词"
+      ],
+      [
+        "爵士乐 in the groove 等 → 俚语 groovy",
+        "合拍、表现好 → 很棒、很酷"
+      ]
+    ],
+    "explanation": "a groovy bass line 律动舒服的低音线；a groovy tune 很带感的曲子；That’s groovy! 真棒！常用于轻松、带年代感的表达。",
+    "usage": "a groovy rhythm；groovy clothes。",
+    "contrast": "groovy 的夸赞语气带风格，普通场合 good、great 更中性。不能因为有 -y 就把现代 groovy 全部译成有凹槽的。",
+    "examples": [
+      [
+        "The song has a groovy bass line.",
+        "那首歌的低音线很带感。"
+      ],
+      [
+        "He wore a groovy jacket from the seventies.",
+        "他穿着一件很有七十年代酷劲的夹克。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/groovy",
+      "https://en.wiktionary.org/wiki/groovy#English"
+    ]
+  },
+  {
+    "word": "glimmer",
+    "ipa": "英 /ˈɡlɪmə/；美 /ˈɡlɪmər/",
+    "meaning": "微弱闪光；微光；一丝希望或迹象",
+    "sense": "远处黑暗里有一点光，亮度不大，却让人看见方向。a glimmer of hope 就把这一点微光搬到希望上。",
+    "split": "中古英语已有相关动词，可能借自或关联荷兰语、低地德语发光词；与 *glim- 发光材料相连，尾部可能是反复、延展成分。现代微弱发光义后来占主导，具体路径保留不确定性。",
+    "history": [
+      [
+        "中古英语与相关日耳曼语发光材料",
+        "发光；后来偏向微弱发光"
+      ],
+      [
+        "现代 glimmer 名词、动词",
+        "微光、微闪；一丝希望或理解"
+      ]
+    ],
+    "explanation": "a glimmer of light 一点微光；a glimmer of hope 一线希望；a glimmer of understanding 一点理解的迹象；lights glimmered 灯光微闪。",
+    "usage": "a faint glimmer；glimmer in the distance。",
+    "contrast": "glimmer 常把微弱、不太稳定的亮点突出出来；glare 则常刺眼。词尾 -er 在这里属于词的历史，不是普通表示人的名词后缀。",
+    "examples": [
+      [
+        "A light glimmered through the trees.",
+        "一点灯光透过树木微微闪着。"
+      ],
+      [
+        "The news offered a glimmer of hope.",
+        "那个消息带来了一线希望。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/glimmer",
+      "https://en.wiktionary.org/wiki/glimmer#English"
+    ]
+  },
+  {
+    "word": "soggy",
+    "ipa": "英 /ˈsɒɡi/；美 /ˈsɑːɡi/",
+    "meaning": "湿软的、浸湿发沉的",
+    "sense": "面包泡了汤，原来的脆劲没了，变成软塌塌的一团。soggy 不只说表面有水，还常让人想到被水浸软、浸重。",
+    "split": "可能由旧方言 sog 沼泽、湿透等材料加 -y 形成；更早来源不明，与 soak 等是否相连也不宜说死。现代常说湿透而软、沉的状态。",
+    "history": [
+      [
+        "旧 sog 湿地、浸透等材料；来源不定",
+        "柔软潮湿、被浸透"
+      ],
+      [
+        "可能加 -y → soggy",
+        "湿软、湿重的现代形容词"
+      ]
+    ],
+    "explanation": "soggy bread 湿软的面包；soggy ground 泥泞湿软的地；soggy shoes 湿透的鞋；a soggy sandwich 被水汽或汁浸软的三明治。",
+    "usage": "go soggy；wet and soggy。",
+    "contrast": "wet 范围宽，soggy 常突出湿得软塌、发沉、失去原有质感。脆饼变 soggy，丢掉的正是脆。",
+    "examples": [
+      [
+        "The cereal went soggy in the milk.",
+        "麦片泡在牛奶里变软了。"
+      ],
+      [
+        "Our shoes were soggy after the walk through the wet grass.",
+        "走过湿草地后，我们的鞋都湿透了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/soggy",
+      "https://en.wiktionary.org/wiki/soggy#English"
+    ]
+  },
+  {
+    "word": "cuddly",
+    "ipa": "/ˈkʌdli/",
+    "meaning": "软乎乎让人想抱的；喜欢依偎拥抱的",
+    "sense": "毛绒玩具又软又蓬，抱起来舒服；小猫喜欢贴着人，也能说 cuddly。这个词抓住想抱、好抱或爱依偎的感觉。",
+    "split": "cuddle 去末尾 e 加 -y，表示适合拥抱或爱拥抱。cuddle 更远来源不确定，常有方言、儿语背景的解释，不能因为读音就硬配某个拉丁词根。",
+    "history": [
+      [
+        "cuddle",
+        "亲近地抱住、依偎；更早来源不定"
+      ],
+      [
+        "cuddle + -y → cuddly",
+        "让人想抱、抱着舒服；爱依偎"
+      ]
+    ],
+    "explanation": "a cuddly toy 适合抱着的毛绒玩具；a cuddly kitten 爱依偎的小猫；soft and cuddly 软乎乎很好抱。",
+    "usage": "a big cuddly bear；a cuddly pet。",
+    "contrast": "cuddly 不仅是 cute 可爱，还添了身体贴近、抱着舒服的感觉。说人时也可能形容体态软乎、亲切，语境和双方关系会影响语气。",
+    "examples": [
+      [
+        "She slept with a soft, cuddly toy.",
+        "她抱着一个软乎乎的毛绒玩具睡觉。"
+      ],
+      [
+        "The kitten is playful and cuddly.",
+        "那只小猫爱玩，也喜欢依偎在人身边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cuddly",
+      "https://en.wiktionary.org/wiki/cuddly#English"
+    ]
+  },
+  {
+    "word": "grunt",
+    "ipa": "/ɡrʌnt/",
+    "meaning": "发出低沉短促声；哼声；口语：基层苦力或步兵等",
+    "sense": "搬重物时从喉咙里挤出一声“嗯”，或不耐烦地哼一声，是 grunt。声音低、短，通常没说成完整句子。",
+    "split": "接古英语 grunnettan、grunian 等低哼声词族，通常认为有拟声背景。后来的名词除声音外，也有做基层重活的人、军中步兵等俚语用法。",
+    "history": [
+      [
+        "古英语 grunian、grunnettan 等",
+        "低哼、咕哝；可能拟声"
+      ],
+      [
+        "现代 grunt 动词、名词",
+        "低短声音；后来人物俚语分支"
+      ]
+    ],
+    "explanation": "grunt with effort 用力时哼出声；grunt a reply 哼哼着回应；a grunt of agreement 表示同意的低哼；grunt work 单调费力的基础活。",
+    "usage": "give a grunt；do the grunt work。",
+    "contrast": "grunt 描写声音短而低；groan 常较拖长，突出疼、累或抱怨。grunt work 是固定搭配，指费力又琐碎的基础工作。",
+    "examples": [
+      [
+        "He grunted as he lifted the heavy box.",
+        "他搬起重箱子时低哼了一声。"
+      ],
+      [
+        "She did most of the grunt work on the project.",
+        "项目里大多数费力又琐碎的基础工作都是她做的。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/grunt",
+      "https://en.wiktionary.org/wiki/grunt#English"
+    ]
+  },
+  {
+    "word": "disgruntled",
+    "ipa": "/dɪsˈɡrʌntəld/",
+    "meaning": "心怀不满的、闷闷不乐而抱怨的",
+    "sense": "觉得自己被亏待，嘴上咕哝、心里不服。disgruntled 常比普通 unhappy 多一点不满和怨气。",
+    "split": "接 disgruntle 的分词形容词，旧结构为 dis-〔这里可能加强〕+ gruntle 嘟囔、抱怨 + -ed；gruntle 与 grunt 低哼词族相连。后来表示满意的玩笑词 gruntled 是逆构形成，不能反过来充当最早来源。",
+    "history": [
+      [
+        "grunt → 旧 gruntle",
+        "低哼 → 嘟囔、抱怨"
+      ],
+      [
+        "dis- + gruntle + -ed → disgruntled",
+        "处于不满、抱怨的状态"
+      ]
+    ],
+    "explanation": "disgruntled customers 心怀不满的顾客；a disgruntled employee 不满的员工；disgruntled about the delay 对延误感到不满。",
+    "usage": "look disgruntled；leave someone disgruntled。",
+    "contrast": "这里 dis- 历史上可能加强，不能机械按“不 + 满意”还原成一个古老的 gruntled。现代直接把 disgruntled 当心怀不满的常用形容词。",
+    "examples": [
+      [
+        "Disgruntled passengers waited for news of the delayed train.",
+        "心怀不满的乘客等着延误列车的消息。"
+      ],
+      [
+        "She was disgruntled about the sudden change of plan.",
+        "她对计划突然改变感到不满。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/disgruntled",
+      "https://en.wiktionary.org/wiki/disgruntled#English"
+    ]
+  },
+  {
+    "word": "shrewd",
+    "ipa": "/ʃruːd/",
+    "meaning": "精明的、判断敏锐的；精于实际事务的",
+    "sense": "别人还没看出门道，他已经看出哪里合算、哪里有问题。shrewd 常夸人能抓住实际利害，也可能带精于盘算的味道。",
+    "split": "中古英语 shreued 接旧 shrewe 恶人等材料和形容词词尾，早期有邪恶、恶意义。后来转为狡黠、机敏，再弱化或转向实际判断敏锐。不是现代动词 shrew 的普通过去式。",
+    "history": [
+      [
+        "中古英语 shrewe + 形容词材料 → shreued",
+        "早期恶意、狡黠等负面评价"
+      ],
+      [
+        "现代 shrewd",
+        "精明、洞察敏锐；有时仍带善于算计感"
+      ]
+    ],
+    "explanation": "a shrewd observer 敏锐的观察者；a shrewd choice 精明的选择；a shrewd businesswoman 精明的女商人；shrewd judgment 敏锐判断。",
+    "usage": "a shrewd assessment；a shrewd move。",
+    "contrast": "clever 范围广，shrewd 多说看得准、懂实际利害。它常是赞许，但放进竞争、交易场景也可能让人感到算得很精。",
+    "examples": [
+      [
+        "She is a shrewd judge of character.",
+        "她看人很准。"
+      ],
+      [
+        "Moving the shop closer to the station was a shrewd decision.",
+        "把商店搬到车站附近是个精明的决定。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/shrewd",
+      "https://en.wiktionary.org/wiki/shrewd#English"
+    ]
+  },
+  {
+    "word": "gully",
+    "ipa": "/ˈɡʌli/",
+    "meaning": "流水冲出的沟壑、冲沟；沟道",
+    "sense": "雨水一次次顺坡往下跑，在泥地里冲出一条沟，逐渐挖深。这样的水流通道就是 gully 的常见画面。",
+    "split": "可能改自中古英语 golet 水道等，接法语 golet 的狭口、通道词族，再与拉丁 gula 喉咙材料相连；具体变形路径不完全确定。现代把 gully 作为整体认读。",
+    "history": [
+      [
+        "中古英语 golet 等水道词；可能接法语狭口材料",
+        "细长水道、通道"
+      ],
+      [
+        "可能改形成 gully",
+        "流水冲出的沟；沟道"
+      ]
+    ],
+    "explanation": "a deep gully 深沟壑；water ran down the gully 水沿沟流下；gully erosion 冲沟侵蚀；a narrow gully 窄沟。",
+    "usage": "cross a gully；the bottom of the gully。",
+    "contrast": "gully 常由流水冲蚀形成；ditch 常说人为挖的沟。实际命名有重叠，区别帮助想画面，不必把所有地名硬划成同一种尺寸。",
+    "examples": [
+      [
+        "Rainwater had cut a deep gully in the hillside.",
+        "雨水在山坡上冲出了一条深沟。"
+      ],
+      [
+        "We followed the narrow gully down to the stream.",
+        "我们沿着窄沟走到溪边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/gully",
+      "https://en.wiktionary.org/wiki/gully#English"
+    ]
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "word": "breastplate",
+    "ipa": "/ˈbrestpleɪt/",
+    "meaning": "胸甲、护胸；防止马鞍后滑的胸带",
+    "sense": "护甲前面挡在胸口的一片；马具里的同名物件却多是胸前带具，作用是稳住马鞍，不一定是一块钢板。",
+    "split": "breast 胸 + plate 板片，来自中古英语相应组合。plate 选扁平板片而非吃饭盘子义；后有不同专门器物名称。",
+    "history": [
+      [
+        "breast 胸；plate 板片",
+        "部位与护板两个材料"
+      ],
+      [
+        "中古英语 brestplate → breastplate",
+        "胸部护甲；后来也指相应胸前器具"
+      ]
+    ],
+    "explanation": "a metal breastplate 金属胸甲，a decorated breastplate 饰纹胸甲，a horse’s breastplate 马的胸带。",
+    "usage": "a metal breastplate；a decorated breastplate；a horse’s breastplate。",
+    "contrast": "breastplate 的 plate 不必是餐盘；马具义说固定鞍的胸前带具，与骑手胸甲不同。",
+    "examples": [
+      [
+        "The knight wore a polished breastplate.",
+        "骑士穿着擦亮的胸甲。"
+      ],
+      [
+        "The rider checked the horse’s breastplate before setting off.",
+        "骑手出发前检查了马的胸带。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breastplate#English"
+    ]
+  },
+  {
+    "word": "diet",
+    "ipa": "/ˈdaɪət/",
+    "meaning": "日常饮食；特定饮食安排；控制饮食；议会〔特定名称〕",
+    "sense": "你平时把哪些东西吃进肚里，那一整套就是 diet；on a diet 往往是在按某种安排控制吃什么，不等于 diet 这个词永远只说减肥。",
+    "split": "饮食义经法语、拉丁接希腊 díaita 的生活安排。议会义有中世纪 dieta 会议等路径，并受 dies 日联想影响；不是议员聚餐直接变议会。",
+    "history": [
+      [
+        "希腊 díaita → 拉丁 diaeta → 法语 diete 等 → diet",
+        "生活、饮食安排 → 常吃的食物、受控制的饮食"
+      ],
+      [
+        "中世纪 dieta 的议事路径",
+        "日常事务、会议等用法，并与拉丁 dies 日发生联想"
+      ],
+      [
+        "饮食义派生",
+        "dieter 控制饮食的人；dietitian 饮食营养专业人员"
+      ]
+    ],
+    "explanation": "a varied diet 多样饮食，a panda’s diet 熊猫食物构成，go on a diet 开始控制饮食；the Diet 在特定国家、历史背景可指议会。",
+    "usage": "a varied diet；a diet of；go on a diet；the Diet。",
+    "contrast": "diet 日常饮食不一定限制食量；diet cola 是饮料配方或标示用法，不由这个词就能推定任何人应该喝什么。",
+    "examples": [
+      [
+        "Bamboo makes up most of the panda’s diet.",
+        "竹子占了熊猫食物的大部分。"
+      ],
+      [
+        "The book compares the diets of several animal species.",
+        "这本书比较了几种动物的食物构成。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/diet",
+      "https://en.wiktionary.org/wiki/diet#English"
+    ]
+  },
+  {
+    "word": "dieter",
+    "ipa": "英 /ˈdaɪətə/；美 /ˈdaɪətər/",
+    "meaning": "控制饮食的人、节食者",
+    "sense": "正在按某种饮食安排调整吃法的人，常指为了体重目标而这样做；-er 是做这件事的人。",
+    "split": "diet 动词控制饮食 + -er，普通小写人物词。人名 Dieter 的德语来源另论，不把所有名字译成节食者。",
+    "history": [
+      [
+        "希腊 díaita → 拉丁 diaeta → 法语 diete 等 → diet",
+        "生活、饮食安排 → 常吃的食物、受控制的饮食"
+      ],
+      [
+        "diet + -er → dieter",
+        "采取控制饮食行动的人"
+      ]
+    ],
+    "explanation": "a group of dieters 一组控制饮食的人，advice for dieters 面向节食者的建议，a dieter’s diary 饮食控制记录。",
+    "usage": "a group of dieters；a dieter’s diary；experienced dieters。",
+    "contrast": "dieter 是执行饮食控制的人，dietitian 是专业职业；自己节食并不自动获得专业职业称号。",
+    "examples": [
+      [
+        "The survey asked dieters about their eating habits.",
+        "调查询问了节食者的饮食习惯。"
+      ],
+      [
+        "Each dieter kept a diary during the study.",
+        "研究期间，每位控制饮食的参与者都记了日记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dieter#English"
+    ]
+  },
+  {
+    "word": "dietitian",
+    "ipa": "/ˌdaɪəˈtɪʃən/",
+    "meaning": "营养师、饮食营养专业人员",
+    "sense": "专门研究、安排饮食营养的从业者；说的是专业职业，不是正在节食的人。",
+    "split": "以 diet 为基础的专业人物构词，对应 -ician 一类后缀，拼写 dietitian 还受 dietetic 等词形影响；另见 dietician 拼法。不是 diet + 一个独立的 itian。",
+    "history": [
+      [
+        "希腊 díaita → 拉丁 diaeta → 法语 diete 等 → diet",
+        "生活、饮食安排 → 常吃的食物、受控制的饮食"
+      ],
+      [
+        "diet 与 -ician 类职业构词，受相关词形影响 → dietitian",
+        "饮食营养领域专业人员"
+      ]
+    ],
+    "explanation": "a registered dietitian 注册营养师〔相应制度称号〕，a hospital dietitian 医院营养师，consult a dietitian 咨询营养师。",
+    "usage": "a hospital dietitian；a registered dietitian；consult a dietitian。",
+    "contrast": "dietitian 专业称谓，dieter 节食者；nutritionist 与 dietitian 的正式资格关系随地区制度变化，词根本身不能给出统一资格等级。",
+    "examples": [
+      [
+        "The hospital hired a new dietitian.",
+        "医院聘请了一位新的营养师。"
+      ],
+      [
+        "The dietitian spoke to the students about food labels.",
+        "营养师向学生讲解了食品标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dietitian#English"
+    ]
+  },
+  {
+    "word": "shine",
+    "ipa": "/ʃaɪn/",
+    "meaning": "发光、反光；照耀；擦亮；表现出色；光泽",
+    "sense": "灯能自己发光，金属能把光反回来，都能 shine；人把本事用出来，也像在人群中发亮。",
+    "split": "继承古英语 sċīnan 等发光词族，旧有强变化，常见过去式 shone；擦鞋、擦亮常用 shined，部分其他用法也会见 shined。不是每个语境只有一种过去式。",
+    "history": [
+      [
+        "古英语 sċīnan → 中古英语 shinen → shine",
+        "发光、反光；显得出众"
+      ],
+      [
+        "打磨与才华引申",
+        "把表面擦亮；人在表现上发光"
+      ],
+      [
+        "现代派生组合",
+        "shiny、shiner、outshine、shoeshine；sunshine、moonshine"
+      ]
+    ],
+    "explanation": "the sun shines 阳光照耀，shine a light on 照亮、揭示，shine at something 在某方面出色，shine shoes 擦亮鞋，a glossy shine 亮泽。",
+    "usage": "shine a light on；shine through；shine at；shine shoes。",
+    "contrast": "shine 可以持续亮，flash 常突然一闪；shone 英常 /ʃɒn/、美常 /ʃoʊn/，别直接按 shine 的 /aɪ/ 读。",
+    "examples": [
+      [
+        "The sun shone through the window.",
+        "阳光从窗户照进来。"
+      ],
+      [
+        "She really shines when working with children.",
+        "和孩子们一起工作时，她特别能发挥所长。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/shine",
+      "https://en.wiktionary.org/wiki/shine#English"
+    ]
+  },
+  {
+    "word": "shiny",
+    "ipa": "/ˈʃaɪni/",
+    "meaning": "有光泽的、闪亮的",
+    "sense": "表面亮得能引起注意，像刚擦过的皮鞋、亮片、金属壳；不保证东西真是新的。",
+    "split": "shine + -y，去掉末尾 e，形容能发光、反光或有亮泽的性质。",
+    "history": [
+      [
+        "古英语 sċīnan → 中古英语 shinen → shine",
+        "发光、反光；显得出众"
+      ],
+      [
+        "打磨与才华引申",
+        "把表面擦亮；人在表现上发光"
+      ],
+      [
+        "shine + -y → shiny",
+        "有明显光泽、亮闪闪的"
+      ]
+    ],
+    "explanation": "shiny shoes 锃亮皮鞋，a shiny surface 光亮表面，a shiny new gadget 亮眼的新玩意。",
+    "usage": "shiny shoes；a shiny surface；shiny metal。",
+    "contrast": "shiny 常突出表面光泽，bright 更广，可说光强、颜色鲜艳或头脑聪明；shiny person 并不普通地表示聪明人。",
+    "examples": [
+      [
+        "The table had a shiny black surface.",
+        "桌子表面乌黑发亮。"
+      ],
+      [
+        "He polished his shoes until they were shiny.",
+        "他把鞋擦得锃亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shiny#English"
+    ]
+  },
+  {
+    "word": "shiner",
+    "ipa": "英 /ˈʃaɪnə/；美 /ˈʃaɪnər/",
+    "meaning": "发亮物、擦亮者；淤青的眼圈〔口语〕；银亮小鱼等",
+    "sense": "看修饰和场景：可以是让东西亮起来的人、银光小鱼；日常 get a shiner 却常指眼周青肿的“乌眼青”。",
+    "split": "shine + -er，人物、事物命名，再有淤眼圈等口语用法。乌眼青的具体命名比喻不强定，不简单说眼睛真的开始发灯光。",
+    "history": [
+      [
+        "古英语 sċīnan → 中古英语 shinen → shine",
+        "发光、反光；显得出众"
+      ],
+      [
+        "shine + -er → shiner",
+        "发亮或使亮的主体"
+      ],
+      [
+        "英语口语和动物命名",
+        "淤青眼圈；某些银亮鱼的俗名"
+      ]
+    ],
+    "explanation": "get a shiner 落下一个乌眼青，a shoe shiner 擦鞋者，small shiners 银亮小鱼。",
+    "usage": "get a shiner；a shoe shiner；small shiners。",
+    "contrast": "a shiner 的淤眼圈义不等于任何黑眼珠；鱼名 shiner 也不只对应一种唯一鱼种。",
+    "examples": [
+      [
+        "He came home with a shiner after the match.",
+        "比赛后，他顶着一个乌眼青回家。"
+      ],
+      [
+        "Small shiners flashed near the surface of the stream.",
+        "银亮小鱼在溪水表面附近闪动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shiner#English"
+    ]
+  },
+  {
+    "word": "outshine",
+    "ipa": "/ˌaʊtˈʃaɪn/",
+    "meaning": "比……更亮；胜过、使相形见绌",
+    "sense": "两盏灯摆一起，这盏更亮；两个人同场表现，一个亮得让另一个不那么显眼。",
+    "split": "out- 超过 + shine，构成比较性动词，不是 out 出去 + shine 亮就只能表示到外面晒太阳。",
+    "history": [
+      [
+        "古英语 sċīnan → 中古英语 shinen → shine",
+        "发光、反光；显得出众"
+      ],
+      [
+        "打磨与才华引申",
+        "把表面擦亮；人在表现上发光"
+      ],
+      [
+        "out- + shine → outshine",
+        "亮过、表现超过"
+      ]
+    ],
+    "explanation": "outshine the stars 比星光更亮，outshine the competition 表现超过竞争者，outshine a colleague 使同事相形见绌。",
+    "usage": "outshine the competition；outshine everyone；outshine the stars。",
+    "contrast": "outshine 超过别人，shine 只说自己亮或出色；shone、outshone 的关系也可一起记。",
+    "examples": [
+      [
+        "The young actor outshone the more famous stars.",
+        "这位年轻演员的表现盖过了更出名的明星。"
+      ],
+      [
+        "The bright planet seemed to outshine the nearby stars.",
+        "那颗明亮行星仿佛比附近的恒星还亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outshine#English"
+    ]
+  },
+  {
+    "word": "shoeshine",
+    "ipa": "/ˈʃuːʃaɪn/",
+    "meaning": "擦鞋、擦鞋服务；擦亮后的鞋面光泽",
+    "sense": "把皮鞋表面擦出光泽，动作、服务和完成的效果都可由 shoe + shine 命名。",
+    "split": "shoe 鞋 + shine 擦亮、光泽，两个成分并列组合。名词可指服务或光泽，不能一律当正在照鞋的光源。",
+    "history": [
+      [
+        "古英语 sċīnan → 中古英语 shinen → shine",
+        "发光、反光；显得出众"
+      ],
+      [
+        "打磨与才华引申",
+        "把表面擦亮；人在表现上发光"
+      ],
+      [
+        "shoe + shine → shoeshine",
+        "擦鞋动作、服务，或鞋面亮泽"
+      ]
+    ],
+    "explanation": "a shoeshine stand 擦鞋摊，get a shoeshine 找人擦鞋，a good shoeshine 擦得很亮的效果或一次好服务。",
+    "usage": "a shoeshine stand；get a shoeshine；a good shoeshine。",
+    "contrast": "shoeshine 服务或效果，shoe polish 常指鞋油；有时 shine 表服务，仍不能把所有名词都按材料来买。",
+    "examples": [
+      [
+        "He stopped at a shoeshine stand near the station.",
+        "他在车站附近的擦鞋摊前停了下来。"
+      ],
+      [
+        "A good shoeshine made the old shoes look smart again.",
+        "把鞋仔细擦亮后，旧鞋又显得精神了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shoeshine#English"
+    ]
+  }
+]

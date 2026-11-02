@@ -1,0 +1,413 @@
+[
+  {
+    "word": "testosterone",
+    "ipa": "英 /teˈstɒstərəʊn/；美 /teˈstɑːstəroʊn/",
+    "meaning": "睾酮、睾丸激素",
+    "sense": "先把长词看成化学命名：test- 联系睾丸，后半联系甾醇、酮。它命名一种甾体激素，名字有发现、研究来源的痕迹。",
+    "split": "经德语 Testosteron 借入；test(is) 睾丸的组合形式 + -o- + ster(ol) 甾醇部分 + -one 酮类结尾。也常把后部合看 -sterone 激素命名成分。",
+    "history": [
+      [
+        "希腊等组合词的词干、连接元音形式 → 科学英语 -o-",
+        "把前后成分接起来，通常没有独立词义"
+      ],
+      [
+        "testis 的组合形式 + sterol 部分 + -one → Testosteron → testosterone",
+        "近代化学激素名"
+      ]
+    ],
+    "explanation": "testosterone levels 睾酮水平，testosterone production 睾酮生成；人体不同性别都可有这种激素，主要产生部位、水平不同。",
+    "usage": "testosterone production；testosterone levels。",
+    "contrast": "激素名不等于一个人的性格判断；日常所谓充满 testosterone 是比喻，不能当作实际测量。",
+    "examples": [
+      [
+        "The study measured testosterone levels in the samples.",
+        "研究测量了样品中的睾酮水平。"
+      ],
+      [
+        "The chapter explains the role of testosterone in human development.",
+        "本章解释睾酮在人类发育中的作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/testosterone#English",
+      "https://www.etymonline.com/word/testosterone",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/testosterone"
+    ]
+  },
+  {
+    "word": "shambolic",
+    "ipa": "英 /ʃæmˈbɒlɪk/；美 /ʃæmˈbɑːlɪk/",
+    "meaning": "乱七八糟的、组织混乱的",
+    "sense": "时间表对不上、人不知道去哪、现场没人管，这种失去组织的乱局可以 shambolic。它比只说有点凌乱更像在批评管理。",
+    "split": "来自 shambles 一片混乱，可能按 symbolic 等词形改造成 shambolic；也有 shambles + -o- + -ic 的分析。具体构形有不同解释，整体联系混乱义明确。",
+    "history": [
+      [
+        "希腊等组合词的词干、连接元音形式 → 科学英语 -o-",
+        "把前后成分接起来，通常没有独立词义"
+      ],
+      [
+        "shambles 一片混乱 → shambolic",
+        "可能受 symbolic 等词形影响；组织失序的"
+      ]
+    ],
+    "explanation": "a shambolic performance 乱成一团的表现，a shambolic start 混乱开局，shambolic planning 混乱规划，英式常见。",
+    "usage": "shambolic planning；a shambolic performance。",
+    "contrast": "shambolic 主要说组织、执行混乱；房间略有几本书没放好，不一定需要这么重的评价。",
+    "examples": [
+      [
+        "The event got off to a shambolic start.",
+        "活动开场就乱成一团。"
+      ],
+      [
+        "Shambolic planning left several teams without a schedule.",
+        "规划混乱，导致几个团队连日程都没有。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shambolic#English",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/shambolic"
+    ]
+  },
+  {
+    "word": "bullying",
+    "ipa": "/ˈbʊliɪŋ/",
+    "meaning": "欺凌、霸凌；威吓的、欺凌的",
+    "sense": "仗着力量、地位、人数或掌握的信息，让别人难以抵抗地反复受欺负，就是 bullying 的核心画面。它可以是动作，也可形容威吓的做派。",
+    "split": "bully + -ing，保留 y。由欺负、威吓动词形成活动名词、分词形容词。校园等常用定义强调实际或感知的力量不平衡，以及反复发生或很可能反复发生。",
+    "history": [
+      [
+        "bully 欺负、威吓 → bullying",
+        "反复压迫、欺凌的活动名与分词"
+      ],
+      [
+        "cyber- + bullying → cyberbullying",
+        "通过数字网络进行的欺凌"
+      ]
+    ],
+    "explanation": "school bullying 校园欺凌，bullying behaviour 欺凌行为，a bullying manner 威吓人的态度。",
+    "usage": "bullying behaviour；school bullying。",
+    "contrast": "一次平等争执与典型反复欺凌要分别理解；不符合某一定义的伤害行为，也不因此就变得合理。",
+    "examples": [
+      [
+        "The school investigated reports of bullying.",
+        "学校调查了欺凌举报。"
+      ],
+      [
+        "His bullying manner made the meeting tense.",
+        "他咄咄逼人的态度让会议气氛紧张。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bullying#English",
+      "https://www.stopbullying.gov/bullying/what-is-bullying"
+    ]
+  },
+  {
+    "word": "cyberbullying",
+    "ipa": "英 /ˈsaɪbəbʊliɪŋ/；美 /ˈsaɪbərbʊliɪŋ/",
+    "meaning": "网络欺凌、网络霸凌",
+    "sense": "欺凌转到群聊、评论、社交平台等地方，网络让伤害内容能反复传播、随时被看见，这就是 cyberbullying 的场景。",
+    "split": "cyber- 数字网络 + bullying 欺凌，现代组合词；cyber- 限定发生媒介、环境。",
+    "history": [
+      [
+        "bully 欺负、威吓 → bullying",
+        "反复压迫、欺凌的活动名与分词"
+      ],
+      [
+        "cyber- + bullying → cyberbullying",
+        "利用数字通信媒介的欺凌"
+      ]
+    ],
+    "explanation": "online harassment and cyberbullying 网络骚扰与网络欺凌，reports of cyberbullying 网络欺凌报告。",
+    "usage": "cyberbullying incidents；cyberbullying prevention。",
+    "contrast": "cyberbullying 不是所有网上不同意见；它关注伤害、威吓、羞辱等欺凌行为及相应关系背景。",
+    "examples": [
+      [
+        "The report describes cyberbullying in group chats.",
+        "报告描述了群聊中的网络欺凌。"
+      ],
+      [
+        "The workshop discussed how cyberbullying differs from an ordinary online disagreement.",
+        "研讨会讨论网络欺凌与普通网上争执的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cyberbullying#English"
+    ]
+  },
+  {
+    "word": "undesirable",
+    "ipa": "英 /ˌʌndɪˈzaɪərəbəl/；美 /ˌʌndɪˈzaɪrəbəl/",
+    "meaning": "不希望出现的、不合意的；不受欢迎的",
+    "sense": "结果、变化或行为不是人们想要的，就是 undesirable。它常说副作用、后果、情况不理想，并不只是外表没有吸引力。",
+    "split": "un- 否定 + desirable 合意、值得追求的。原词来自 desire 去 e + -able。",
+    "history": [
+      [
+        "desire 想要 → desirable 值得想要、合意的",
+        "评价适宜、吸引人的性质"
+      ],
+      [
+        "un- + desirable → undesirable",
+        "不合意、不希望出现的"
+      ]
+    ],
+    "explanation": "undesirable effects 不希望的影响，an undesirable outcome 不理想结果，undesirable behaviour 不受欢迎的行为。",
+    "usage": "undesirable consequences；undesirable effects。",
+    "contrast": "undesirable 是相对于目标、价值的评价；用来称人还可能带排斥性，不能随手当中性人物类别。",
+    "examples": [
+      [
+        "The change had several undesirable effects.",
+        "变化带来了几个不希望出现的影响。"
+      ],
+      [
+        "The team tried to avoid an undesirable outcome.",
+        "团队试图避免不理想的结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/undesirable#English"
+    ]
+  },
+  {
+    "word": "dwell",
+    "ipa": "/dwel/",
+    "meaning": "居住；停留；反复想着、详谈",
+    "sense": "现代先抓“待在一个地方”：人住在屋里，注意力也能停在旧事上。dwell on a mistake 就是脑子反复停在那个错误上。",
+    "split": "承古英语 dwellan 误导等词，与同族耽搁、停留义共同演变；中古英语里由耽搁、留下走到居住。现代停留核心便于串联，但不是古义一开始就只指住房。",
+    "history": [
+      [
+        "古英语 dwellan 误导、使迷惑；同族有耽搁义",
+        "早期各日耳曼语言词义发展不同"
+      ],
+      [
+        "中古英语 dwellen 耽搁、停留 → 住下 → dwell",
+        "现代居住；注意力持续停在某事上"
+      ]
+    ],
+    "explanation": "dwell in a place 居住于某地，dwell on the past 老想着过去，dwell on a point 详谈某点。过去式 dwelt，也用 dwelled。",
+    "usage": "dwell in；dwell on；dwell upon。",
+    "contrast": "居住义 dwell 较书面，日常 live 更常见；dwell on 不只是想起，而常是停留得久、反复或详细讨论。",
+    "examples": [
+      [
+        "The story describes people who dwell in remote valleys.",
+        "故事描写住在偏远山谷里的人们。"
+      ],
+      [
+        "She did not want to dwell on the mistake.",
+        "她不想反复纠结那个错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dwell#English",
+      "https://www.etymonline.com/word/dwell"
+    ]
+  },
+  {
+    "word": "dwelling",
+    "ipa": "/ˈdwelɪŋ/",
+    "meaning": "住所、住宅；dwell 的现在分词",
+    "sense": "dwell 是住，dwelling 就是让人住下的地方。它比较中性、书面，能涵盖各种居住建筑，不只独栋房子。",
+    "split": "dwell + -ing；中古英语已有停留、居所名词，逐步定型为住所。现代也仍可作动词分词。",
+    "history": [
+      [
+        "古英语 dwellan 误导、使迷惑；同族有耽搁义",
+        "早期各日耳曼语言词义发展不同"
+      ],
+      [
+        "中古英语 dwellen 耽搁、停留 → 住下 → dwell",
+        "现代居住；注意力持续停在某事上"
+      ],
+      [
+        "dwell + -ing → dwelling",
+        "停留、居住活动 → 居所、住宅"
+      ]
+    ],
+    "explanation": "a small dwelling 小住所，human dwellings 人类居所，a dwelling place 居住地。",
+    "usage": "a rural dwelling；a dwelling place。",
+    "contrast": "dwelling 强调住人用途；building 建筑物范围更广，仓库、车站也可以是 building。",
+    "examples": [
+      [
+        "A small dwelling stood beside the river.",
+        "河边有一处小住宅。"
+      ],
+      [
+        "The map marks the old human dwellings.",
+        "地图标出了旧时的人类居所。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dwelling#English"
+    ]
+  },
+  {
+    "word": "dweller",
+    "ipa": "英 /ˈdwelə/；美 /ˈdwelər/",
+    "meaning": "居民、居住者",
+    "sense": "住在什么地方的人，就是相应 dweller。city dweller 城市居民，cave dweller 洞穴居住者；前面的地点给出身份范围。",
+    "split": "dwell + -er，承中古英语 dweller。-er 由居住动作形成相应人物名。",
+    "history": [
+      [
+        "古英语 dwellan 误导、使迷惑；同族有耽搁义",
+        "早期各日耳曼语言词义发展不同"
+      ],
+      [
+        "中古英语 dwellen 耽搁、停留 → 住下 → dwell",
+        "现代居住；注意力持续停在某事上"
+      ],
+      [
+        "dwell + -er → dweller",
+        "住在某类地方的人"
+      ]
+    ],
+    "explanation": "city dwellers 城市居民，rural dwellers 乡村居民，cave dwellers 洞穴居住者。",
+    "usage": "city dwellers；urban dwellers。",
+    "contrast": "dweller 通常带地点限定，不像 resident 那样在更多行政、身份语境中独立使用。",
+    "examples": [
+      [
+        "City dwellers often depend on public transport.",
+        "城市居民常依赖公共交通。"
+      ],
+      [
+        "The exhibition reconstructs the homes of early cave dwellers.",
+        "展览重建了早期洞穴居民的住处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dweller#English"
+    ]
+  },
+  {
+    "word": "monorail",
+    "ipa": "英 /ˈmɒnəreɪl/；美 /ˈmɑːnəreɪl/",
+    "meaning": "单轨铁路、单轨列车",
+    "sense": "普通铁路常见两根平行钢轨；monorail 让车沿一条承载、导向轨道结构行走。mono- 数的是轨，不是只有一节车厢。",
+    "split": "借自法语 monorail，等于 mono- 单一 + rail 轨道，近代交通名称。",
+    "history": [
+      [
+        "希腊 monos 独一、单个 → mono-",
+        "一个、单一；具体数的对象由后部决定"
+      ],
+      [
+        "mono- + 事物、性质或学科成分",
+        "单轨、单神、单一克隆、单不饱和等各数不同对象"
+      ]
+    ],
+    "explanation": "a monorail system 单轨系统，take the monorail 乘单轨列车。",
+    "usage": "a monorail system；a monorail train。",
+    "contrast": "单轨列车可以多节；one 在名字里不规定车厢数量或车站数量。",
+    "examples": [
+      [
+        "We took the monorail to the terminal.",
+        "我们乘单轨列车去了航站楼。"
+      ],
+      [
+        "The city built a monorail system above the road.",
+        "城市在道路上方建了单轨系统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/monorail#English"
+    ]
+  },
+  {
+    "word": "monotheistic",
+    "ipa": "英 /ˌmɒnəʊθiˈɪstɪk/；美 /ˌmɑːnəθiˈɪstɪk/",
+    "meaning": "一神教的、信奉唯一神的",
+    "sense": "mono- 数一个，theistic 指神的信仰；合在一起说只信奉一个神。它描述信仰结构，不是说宗教里只有一位人物。",
+    "split": "mono- + theistic；也与 monotheism 一神教的 -ism／-istic 形式配套，the- 接希腊 theos 神。",
+    "history": [
+      [
+        "希腊 monos 独一、单个 → mono-",
+        "一个、单一；具体数的对象由后部决定"
+      ],
+      [
+        "mono- + theistic → monotheistic",
+        "信奉唯一神的性质"
+      ]
+    ],
+    "explanation": "a monotheistic religion 一神教，monotheistic belief 一神信仰。",
+    "usage": "a monotheistic tradition；monotheistic belief。",
+    "contrast": "monotheism 名词说信仰体系，monotheistic 形容词说性质；多神信仰常用 polytheistic。",
+    "examples": [
+      [
+        "The course compares monotheistic and polytheistic traditions.",
+        "课程比较一神与多神信仰传统。"
+      ],
+      [
+        "The text describes a monotheistic belief system.",
+        "文本描述了一套一神信仰体系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/monotheistic#English"
+    ]
+  },
+  {
+    "word": "monoclonal",
+    "ipa": "英 /ˌmɒnəˈkləʊnəl/；美 /ˌmɑːnəˈkloʊnəl/",
+    "meaning": "单克隆的",
+    "sense": "从一个细胞克隆这一条来源出发，便是 monoclonal。单克隆抗体名称里的单，强调来源克隆与相应一致特性。",
+    "split": "mono- 单一 + clonal 克隆的。clonal 来自 clone + -al；现代生物学形容词，不必把所有单克隆形成都说成必然经过基因工程。",
+    "history": [
+      [
+        "希腊 monos 独一、单个 → mono-",
+        "一个、单一；具体数的对象由后部决定"
+      ],
+      [
+        "mono- + clonal → monoclonal",
+        "来自单一细胞克隆的"
+      ]
+    ],
+    "explanation": "a monoclonal antibody 单克隆抗体，a monoclonal cell population 单克隆细胞群。",
+    "usage": "monoclonal antibodies；a monoclonal cell population。",
+    "contrast": "monoclonal 的单不是只存在一个抗体分子；可以有许多具有相应一致来源、特性的分子。",
+    "examples": [
+      [
+        "The researchers compared monoclonal and polyclonal antibodies.",
+        "研究人员比较了单克隆抗体与多克隆抗体。"
+      ],
+      [
+        "The assay uses a monoclonal antibody.",
+        "这项检测使用一种单克隆抗体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/monoclonal#English",
+      "https://goldbook.iupac.org/terms/view/09680"
+    ]
+  },
+  {
+    "word": "monounsaturated",
+    "ipa": "英 /ˌmɒnəʊʌnˈsætʃəreɪtɪd/；美 /ˌmɑːnoʊʌnˈsætʃəreɪtɪd/",
+    "meaning": "单不饱和的",
+    "sense": "食品、脂肪酸语境里，mono- 数的是碳链上一处碳碳双键。单不饱和脂肪这长名称，核心就是这一结构提示。",
+    "split": "mono- 单一 + unsaturated 不饱和的；unsaturated 为 un- + saturated。营养语境通常指脂肪酸链含一个碳碳双键。",
+    "history": [
+      [
+        "希腊 monos 独一、单个 → mono-",
+        "一个、单一；具体数的对象由后部决定"
+      ],
+      [
+        "mono- + unsaturated → monounsaturated",
+        "在脂肪酸语境中，碳链有一个碳碳双键"
+      ]
+    ],
+    "explanation": "monounsaturated fatty acids 单不饱和脂肪酸，monounsaturated fats 单不饱和脂肪。",
+    "usage": "monounsaturated fatty acids；monounsaturated fat content。",
+    "contrast": "mono- 不表示只有一条脂肪分子；它在这里限定不饱和结构的数目。食物可含多种脂肪，不必整瓶油只含这一类。",
+    "examples": [
+      [
+        "The chart compares saturated, monounsaturated and polyunsaturated fatty acids.",
+        "图表比较饱和、单不饱和与多不饱和脂肪酸。"
+      ],
+      [
+        "The label lists the monounsaturated fat content.",
+        "标签列出了单不饱和脂肪含量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/monounsaturated#English",
+      "https://extension.okstate.edu/fact-sheets/dietary-fat-and-cholesterol"
+    ]
+  }
+]

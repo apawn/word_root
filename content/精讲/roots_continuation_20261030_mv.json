@@ -1,0 +1,181 @@
+[
+  {
+    "id": "B2708",
+    "meaning": "金属锡的旧名，延伸到容器与尖薄音色",
+    "core": "TIN：薄金属能做罐，敲起来的声音也给了形容词",
+    "image": "tin → tinfoil、tinny。",
+    "intro": "材料名保留在器具名里，实际成分却可能变化。tinfoil 日常可指铝箔，tinny 则抓住薄金属敲响时的听觉印象。",
+    "forms": "古英语 tin → tin；foil 箔形成复合；-y 性质，tinny 双写 n。",
+    "branches": [
+      [
+        "材料、薄箔与声音性质",
+        "tin · tinfoil · tinny"
+      ]
+    ],
+    "contrasts": "a tin 容器不等于纯锡制品；tinny 评价音色，不只评价大小声。",
+    "practice": "The little radio on the biscuit tin produced a tinny sound.\n\n饼干罐上的小收音机发出尖薄的声音。",
+    "words": [
+      "tin",
+      "tinfoil",
+      "tinny"
+    ],
+    "exclude": {
+      "pre-tin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tin-pot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tink": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3668",
+    "meaning": "烘烤动作、烤面包及旧饮酒习惯形成的祝酒义",
+    "core": "TOAST：面包烤黄、身体暖和，祝酒再看旧习",
+    "image": "toast → toaster、toasty。",
+    "intro": "动作、食物、工具、暖和感觉很容易连起来。祝酒词则要补上酒里曾放烤面包增味的历史背景，不能只靠现代早餐场景推断。",
+    "forms": "torrere，tostus → toster → toast；-er 工具、人；-y 特点、感觉。",
+    "branches": [
+      [
+        "烘烤、工具与温暖感觉",
+        "toast · toaster · toasty"
+      ]
+    ],
+    "contrasts": "a slice of toast 是面包；a toast to someone 是祝酒。",
+    "practice": "The toaster made the bread crisp while the kitchen grew warm and toasty.\n\n面包机把面包烤脆，厨房也变得暖烘烘。",
+    "words": [
+      "toast",
+      "toaster",
+      "toasty"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3089",
+    "meaning": "快速甩动，连接鞭、搅打、猛甩损伤与敏捷犬名",
+    "core": "WHIP：快快甩过去，再看人、物如何移动",
+    "image": "whip → whiplash；whippet 的犬名可能接迅速移动义与 -et。",
+    "intro": "奶油靠反复快速搅打，物品可以迅速掏出，头颈猛甩又产生伤名。党鞭这一人物称呼要补狩猎督导术语的历史。",
+    "forms": "wippen、whippen → whip；lash 鞭梢、抽打；-et 指小，whippet 词源通常作可能解释。\n\nwhip 的较早英语义包括快速来回摆动，远源未定。现代双写 p 加完整 -ed，/p/ 后读 /t/；鞭打、迅速移动、搅打分场景。",
+    "branches": [
+      [
+        "甩动与猛甩名称",
+        "whip · whiplash"
+      ],
+      [
+        "可能接敏捷动作的犬名",
+        "whippet"
+      ],
+      [
+        "whip 快速摆动、鞭打 → whipped",
+        "whipped"
+      ]
+    ],
+    "contrasts": "whiplash 伤名不意味着真的挨鞭；whippet 是犬种名。",
+    "practice": "The whippet whipped round the corner and vanished.\n\n惠比特犬飞快转过拐角，不见了。",
+    "words": [
+      "whip",
+      "whiplash",
+      "whippet",
+      "whipped"
+    ],
+    "exclude": {
+      "whipper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2525",
+    "meaning": "不合情理的判断，再到荒诞风格与创作者",
+    "core": "ABSURD：常理在这里走不通",
+    "image": "absurd → absurdly、absurdity；absurdist 看风格、人物。",
+    "intro": "离谱价格是日常判断；荒诞戏剧则可能故意让常理失效，表现人物处境。-ist 把词带入风格与创作者领域。",
+    "forms": "absurdus → absurd；-ly 方式，-ity 性质，-ist 人或风格。",
+    "branches": [
+      [
+        "性质、方式与风格人物",
+        "absurd · absurdly · absurdity · absurdist"
+      ]
+    ],
+    "contrasts": "absurdist 可以是艺术风格，未必是批评创作者荒唐。",
+    "practice": "The absurdity of the rules inspired an absurdist comedy.\n\n规则的荒唐启发了一部荒诞喜剧。",
+    "words": [
+      "absurd",
+      "absurdly",
+      "absurdity",
+      "absurdist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2715",
+    "meaning": "人名先命名发动机，再命名燃料与车辆",
+    "core": "DIESEL：一位发明者的姓，进入日常燃料名",
+    "image": "diesel → biodiesel。",
+    "intro": "这组靠人名借词史来记。发动机、燃料和车辆共用名称，bio- 再提示与生物来源相关的燃料。",
+    "forms": "Diesel 姓氏 → Diesel engine → diesel；bio- + diesel → biodiesel。",
+    "branches": [
+      [
+        "燃料、设备与生物来源扩展",
+        "diesel · biodiesel"
+      ]
+    ],
+    "contrasts": "Diesel 原是姓氏，不作伪词根拆分；biodiesel 与某台发动机的适用性是另一个问题。",
+    "practice": "The report compares diesel with biodiesel as fuels.\n\n报告比较了柴油与生物柴油这两类燃料。",
+    "words": [
+      "diesel",
+      "biodiesel"
+    ],
+    "exclude": {
+      "e-diesel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4481",
+    "meaning": "尺寸、维度、量纲，副词说明考察的方面",
+    "core": "DIMENSIONAL：先问正在量尺寸、数维度，还是核对量纲",
+    "image": "dimensional → dimensionally；multi- 多维，inter- 维度之间。",
+    "intro": "加工零件关心尺寸，数学空间关心维度，物理公式关心量纲。把语境放进来，长词就不容易混成一个模糊的立体感。",
+    "forms": "dimensio → dimension → dimensional；-ly 方面、方式，multi- 多，inter- 在……之间。",
+    "branches": [
+      [
+        "性质、方面与维度扩展",
+        "dimensional · dimensionally · multidimensional · interdimensional"
+      ]
+    ],
+    "contrasts": "dimensionally consistent 只说量纲对得上；并非整条公式都已得到证明。",
+    "practice": "The dimensional check showed that the equation was not dimensionally consistent.\n\n量纲检查显示，方程的量纲并不一致。",
+    "words": [
+      "dimensional",
+      "dimensionally",
+      "multidimensional",
+      "interdimensional"
+    ],
+    "exclude": {
+      "over-dimensional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "top-dimensional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "n-dimensional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "infinite-dimensional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3805",
+    "meaning": "兄弟般的伙伴，发展成口语朋友与熟络性质",
+    "core": "PAL：像老朋友一样能凑在一起",
+    "image": "pal → pally。",
+    "intro": "pal 的近源是罗姆语的兄弟、伙伴词。熟络可以友好，也可能因关系、场合显得不合适，称呼时尤其看语气。",
+    "forms": "phral／pal 兄弟、伙伴 → 英语 pal；pal + -y → pally，双写 l。",
+    "branches": [
+      [
+        "朋友与亲近关系",
+        "pal · pally"
+      ]
+    ],
+    "contrasts": "医学名词 palsy 承 paralysis 一族；与 pal 不能按同一个来源解释。另有较少见的友好形容词同形用法。",
+    "practice": "He became pally with an old pal’s brother.\n\n他跟一位老朋友的兄弟熟络起来了。",
+    "words": [
+      "pal",
+      "pally"
+    ],
+    "exclude": {
+      "e-pal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "palsy": "医学名词来自 paralysis 一族；另有与 pal 相关的较少见同形友好义，分开理解。"
+    }
+  }
+]

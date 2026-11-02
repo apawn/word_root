@@ -1,0 +1,268 @@
+[
+  {
+    "id": "B4492",
+    "meaning": "试过；经过考验、可靠的",
+    "core": "TRIED：已经试过这一点，能走向经验、验证的评价",
+    "image": "a tried method 常强调用过、验证过；an untried method 还没有这样的使用记录。",
+    "intro": "tried 是 try 的过去式、过去分词，中古英语已有相应形式。过去分词进一步作形容词，能表示经考验的。",
+    "forms": "try → tried，y 改为 i 加 -ed；un- + tried → untried。顺着词形理解经历状态，不把词尾当成另一个独立词。",
+    "branches": [
+      [
+        "经过尝试与考验",
+        "try · tried"
+      ],
+      [
+        "尚未尝试、验证",
+        "untried"
+      ]
+    ],
+    "contrasts": "tried and tested 经过验证；untried 未经验证不等于已经证明有错。try 的尝试、审理等义也要依对象判断。",
+    "practice": "We compared a tried method with an untried one.\n\n我们比较了一种经过验证的方法与一种尚未试验的方法。",
+    "words": [
+      "try",
+      "tried",
+      "untried"
+    ],
+    "exclude": {
+      "fore-tried": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2819",
+    "meaning": "出生；与出生阶段、顺序或新生有关",
+    "core": "BORN：把出生看成一条时间界线",
+    "image": "unborn 还没出生，newborn 刚出生，firstborn 是头一个出生的；reborn 还可比喻重新焕发生机。",
+    "intro": "born 承接古英语 boren 等 bear 的过去分词形式，后来在出生相关用法中与 borne 的分工固定。不是一个需要按规则加 ed 的现代基本动词。",
+    "forms": "un- + born → unborn；new + born → newborn；re- + born → reborn；first + born → firstborn。stillborn 的 still 在这里有静止、无生气的历史关系。",
+    "branches": [
+      [
+        "基本出生关系",
+        "bear · born"
+      ],
+      [
+        "时间与出生顺序",
+        "unborn · newborn · firstborn"
+      ],
+      [
+        "新生及特定状态",
+        "reborn · stillborn · freeborn"
+      ]
+    ],
+    "contrasts": "was born 是出生这一固定结构，不写 was borned；borne 多用于承受、运送等分词关系；stillborn 也可比喻计划未能真正开始。",
+    "practice": "Her firstborn was born in a small town.\n\n她的第一个孩子出生在一座小镇。",
+    "words": [
+      "bear",
+      "born",
+      "unborn",
+      "newborn",
+      "firstborn",
+      "reborn",
+      "stillborn",
+      "freeborn"
+    ],
+    "exclude": {
+      "full-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hell-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "foreign-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "native-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2581",
+    "meaning": "写下的；书面的；write 的过去分词",
+    "core": "WRITTEN：从写的动作，看到已经留下的文字",
+    "image": "written instructions 是写下来的说明；handwritten 靠手写，typewritten 用打字机等打出；unwritten 是没有落成文字。",
+    "intro": "written 是 write 的不规则过去分词形式，属于古老强变化动词的延续。现代 write—wrote—written 的元音和尾部有配套变化。",
+    "forms": "write—wrote—written；hand + written → handwritten；type + written → typewritten；un- + written → unwritten。",
+    "branches": [
+      [
+        "基本词形和书面关系",
+        "write · written"
+      ],
+      [
+        "形成文字的方法",
+        "handwritten · typewritten"
+      ],
+      [
+        "没有落成文字",
+        "unwritten"
+      ]
+    ],
+    "contrasts": "a written rule 和 an unwritten rule 都可能存在；前者写明，后者靠约定、习惯默认。written by 后面引出作者，不表示作者每次都亲笔写。",
+    "practice": "The handwritten note explained an unwritten rule.\n\n那张手写便条说明了一条不成文的规矩。",
+    "words": [
+      "write",
+      "written",
+      "handwritten",
+      "typewritten",
+      "unwritten"
+    ],
+    "exclude": {
+      "above-written": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2503",
+    "meaning": "网状结构；相互连接的系统；建立联系",
+    "core": "NETWORK：先看到节点之间有连接",
+    "image": "一张渔网有绳结与网线；计算机、道路、人际关系也能按这种连接结构理解。",
+    "intro": "net + work，早期网状构造义逐步扩展到线路、传播、社会关系等连接系统。现代 network 也可作动词，表示联网或建立人际联系。",
+    "forms": "network + -ed → networked。词中 work 这里是构造、制成物等关系，不是每次都直译成网正在工作。",
+    "branches": [
+      [
+        "网状构造和系统",
+        "net · network"
+      ],
+      [
+        "连接后的状态",
+        "networked"
+      ]
+    ],
+    "contrasts": "network 不只互联网；networked 不一定无线。network 作动词谈人时常说建立、维护联系，不是把人接上电缆。",
+    "practice": "The network links several networked devices.\n\n这个网络连接着几台联网设备。",
+    "words": [
+      "net",
+      "network",
+      "networked"
+    ],
+    "exclude": {
+      "e-network": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4389",
+    "meaning": "讲述；透露内情、能说明问题的",
+    "core": "TELLING：一个细节像在替事实开口",
+    "image": "讲故事是 storytelling；a telling detail 则是很能说明问题的细节，不要求细节真的会讲话。",
+    "intro": "tell + -ing 的动作形式进一步产生有力、显露信息的形容词义；tellingly 再把这一评价变成副词。",
+    "forms": "tell + -ing → telling；story + telling → storytelling；telling + -ly → tellingly。讲述动作与显露信息的评价在语境中分开读。",
+    "branches": [
+      [
+        "讲述动作与故事",
+        "tell · telling · storytelling"
+      ],
+      [
+        "颇能说明问题的方式",
+        "tellingly"
+      ]
+    ],
+    "contrasts": "tellingly 是作者提示某细节有意味，不是事实自动作出的全部结论；tell 与 say 的基本句法差异仍需保留。",
+    "practice": "Tellingly, her storytelling left out the central event.\n\n颇能说明问题的是，她讲故事时跳过了最关键的那件事。",
+    "words": [
+      "tell",
+      "telling",
+      "storytelling",
+      "tellingly"
+    ],
+    "exclude": {
+      "telling-to": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "truth-telling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4319",
+    "meaning": "聚集、会议；国会及其成员称呼",
+    "core": "CONGRESS：人走到一起，再形成集会、机构",
+    "image": "大型会议可以是 a congress；美国 Congress 则是特定立法机构的名称，两者需看大小写和上下文。",
+    "intro": "接拉丁 congressus 聚集、会合，与 con- 一起、gradi 行走相连。会议、政治机构义是这条会合关系的后续发展。",
+    "forms": "congress + man → congressman；congress + woman → congresswoman。复数分别是 congressmen、congresswomen，不在整个词最后机械加 s。",
+    "branches": [
+      [
+        "集会、机构",
+        "congress"
+      ],
+      [
+        "成员的性别称呼",
+        "congressman · congresswoman"
+      ]
+    ],
+    "contrasts": "congress 不等于每一种 parliament 的正式名称；美国常用 congresswoman 称众议院女议员，参议员通常叫 senator。",
+    "practice": "The congresswoman spoke at an international congress.\n\n那位女国会议员在一次国际大会上发言。",
+    "words": [
+      "congress",
+      "congressman",
+      "congresswoman"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4538",
+    "meaning": "争斗、战斗；处理某种冲突的动作",
+    "core": "FIGHTING：先问在和谁、什么作斗争",
+    "image": "firefighting 对付火或应急问题，bullfighting 斗牛，infighting 把冲突放到团体内部。前部改变对手、范围或场景。",
+    "intro": "fighting 承接古英语及中古英语 fight 的分词、动作名词形式，对应现代 fight + -ing。现代名词、形容词、动词形式各看句子结构。",
+    "forms": "fight + -ing → fighting；fire + fighting → firefighting；bull + fighting → bullfighting；in- + fighting → infighting。",
+    "branches": [
+      [
+        "基本动作及形式",
+        "fight · fighting"
+      ],
+      [
+        "对象、场景",
+        "firefighting · bullfighting"
+      ],
+      [
+        "内部发生的争斗",
+        "infighting"
+      ]
+    ],
+    "contrasts": "infighting 常指消耗组织的内部争斗；fighting spirit 却可褒义说斗志，不能见到 fighting 就一概译成打架。",
+    "practice": "The team spent more time on infighting than on solving problems.\n\n团队花在内斗上的时间，比解决问题的时间还多。",
+    "words": [
+      "fight",
+      "fighting",
+      "firefighting",
+      "bullfighting",
+      "infighting"
+    ],
+    "exclude": {
+      "z-fighting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cockfighting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "warfighting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2966",
+    "meaning": "寻找；主动寻求、争取",
+    "core": "SEEK：带着目标去找、去争取",
+    "image": "seek advice 寻求建议；seek a solution 找解决办法；seeker 则是正在这样寻找、争取的人。",
+    "intro": "seek 从古英语 sēcan 等经中古英语延续，与其他日耳曼语的寻找词同源。词源关系是追寻，不要求对象必须是丢失的实物。",
+    "forms": "seek—sought—sought；seek + -ing → seeking；seek + -er → seeker。seeker 也有更早相应人物名词的延续背景。\n\nseek → sought → sought；sought 接古英语 sohte 等旧过去形式，与现代原形有较大字面差别。\n\n接北欧 rann 房屋加 saka 搜查的组合，后半与 seek 所属的寻找材料相关；现代常说翻箱倒柜、洗劫，不把 sack 袋子当确定原始后半。\n\nseeker 是 seek + 行为者 -er，复数 -s。job seekers 求职者、adventure seekers 寻求冒险的人，前面的词说明在寻什么。",
+    "branches": [
+      [
+        "基本寻找和正在寻求",
+        "seek · seeking"
+      ],
+      [
+        "寻求的人、装置",
+        "seeker"
+      ],
+      [
+        "seek 与 sought：主动寻求的过去",
+        "seek · sought"
+      ],
+      [
+        "ransack：旧北欧语的搜屋材料",
+        "seek · ransack · ransacks · ransacked · ransacking"
+      ],
+      [
+        "seek 寻找 + -er → seekers",
+        "seekers"
+      ]
+    ],
+    "contrasts": "seek help 不加 seek for 来逐字对齐中文寻求；look for 也能说找，但 seek 在寻求机会、建议、解决方案等表达中较正式。",
+    "practice": "The job seeker is seeking advice about interviews.\n\n这位求职者正在寻求面试方面的建议。",
+    "words": [
+      "seek",
+      "seeking",
+      "seeker",
+      "sought",
+      "ransack",
+      "ransacks",
+      "ransacked",
+      "ransacking",
+      "seekers"
+    ],
+    "exclude": {}
+  }
+]

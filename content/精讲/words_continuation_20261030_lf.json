@@ -1,0 +1,388 @@
+[
+  {
+    "word": "witch",
+    "ipa": "/wɪtʃ/",
+    "meaning": "女巫、巫师；从事巫术的人",
+    "sense": "故事里会施法的人叫 witch，现代最熟悉的是女巫形象。但历史和现代信仰中的称谓有变化，不能认定任何语境都只能说女性、只能是邪恶角色。",
+    "split": "承中古英语 wicche，上接古英语 wicce、wicca 及相关施巫术动词 wiccian。更早来源有不同解释，不能直接拆成 wise 或随意断言是能唤醒死者的人。",
+    "history": [
+      [
+        "古英语 wicce、wicca，联系 wiccian",
+        "施巫术者；更早来源未定"
+      ],
+      [
+        "中古英语 wicche → witch",
+        "巫术人物，现代常指女巫，也有不同文化、自我称谓用法"
+      ]
+    ],
+    "explanation": "a witch in a fairy tale 童话里的女巫，dress as a witch 打扮成女巫。现代有些宗教、文化实践者也用此词自称，须按本人及场景理解。",
+    "usage": "dress as a witch；a witch’s spell。",
+    "contrast": "witch 与 which 同音。wizard 常见于男性巫师形象，但不是所有作品都严格按性别、同一套规则分称。",
+    "examples": [
+      [
+        "The witch in the story could turn stones into birds.",
+        "故事里的女巫能把石头变成鸟。"
+      ],
+      [
+        "She dressed as a witch for the costume party.",
+        "她在化装舞会上扮成女巫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/witch#English",
+      "https://www.etymonline.com/word/witch"
+    ]
+  },
+  {
+    "word": "witchcraft",
+    "ipa": "英 /ˈwɪtʃkrɑːft/；美 /ˈwɪtʃkræft/",
+    "meaning": "巫术、魔法技艺",
+    "sense": "witch 是施法的人，witchcraft 是那个人所施展、学习的一套技艺或实践。craft 在这里是本领，不是船。",
+    "split": "witch + craft 技艺，古英语 wiċċecræft 已有这个组合，经中古英语延续到现代。",
+    "history": [
+      [
+        "古英语 wicce、wicca，联系 wiccian",
+        "施巫术者；更早来源未定"
+      ],
+      [
+        "中古英语 wicche → witch",
+        "巫术人物，现代常指女巫，也有不同文化、自我称谓用法"
+      ],
+      [
+        "witch + craft → witchcraft",
+        "巫术实践、技艺"
+      ]
+    ],
+    "explanation": "practise witchcraft 施行巫术，accused of witchcraft 被指控施巫术，a history of witchcraft 巫术史。也可夸张说某技术神奇得像魔法。",
+    "usage": "practise witchcraft；accused of witchcraft。",
+    "contrast": "历史中的巫术指控不等于被指控者真的做过所说的事；witchcraft 的含义也会随时代、文化变化。",
+    "examples": [
+      [
+        "The novel mixes witchcraft with everyday village life.",
+        "小说把巫术和日常乡村生活交织在一起。"
+      ],
+      [
+        "The museum explains how accusations of witchcraft spread.",
+        "博物馆解释巫术指控怎样传播。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/witchcraft#English"
+    ]
+  },
+  {
+    "word": "witching",
+    "ipa": "/ˈwɪtʃɪŋ/",
+    "meaning": "与巫术有关的；迷人的；witch 的 -ing 形式",
+    "sense": "常见在 the witching hour：仿佛巫术、怪事出没的深夜时分。这个词会给时间、气氛或人物添一点神秘、像施法的感觉。",
+    "split": "witch + -ing；中古英语已有相应形式。由施巫术动作形成名词、形容词等，现代重点认识固定说法 the witching hour。",
+    "history": [
+      [
+        "古英语 wicce、wicca，联系 wiccian",
+        "施巫术者；更早来源未定"
+      ],
+      [
+        "中古英语 wicche → witch",
+        "巫术人物，现代常指女巫，也有不同文化、自我称谓用法"
+      ],
+      [
+        "witch + -ing → witching",
+        "施巫术的活动；相关、像能施法的性质"
+      ]
+    ],
+    "explanation": "the witching hour 传说中鬼魅巫术出没的夜间时刻，也会被戏称为一段容易闹腾的时间。不要当作有统一科学定义的整点时刻。",
+    "usage": "the witching hour；a witching atmosphere。",
+    "contrast": "witching 不一定说真的在施法；文学中的迷人义像某人把你迷住。witch 与 witching 仍是人物、动作或性质的区别。",
+    "examples": [
+      [
+        "In the story, the forest changes at the witching hour.",
+        "故事里，森林到了巫术出没的夜间时分就会变化。"
+      ],
+      [
+        "We stayed up talking until the witching hour.",
+        "我们熬到深夜还在聊天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/witching#English"
+    ]
+  },
+  {
+    "word": "witchy",
+    "ipa": "/ˈwɪtʃi/",
+    "meaning": "有女巫气息的、像巫术的",
+    "sense": "尖帽、烛光、神秘装饰放在一起，让人想到女巫故事，这种风格可形容为 witchy。它说联想、气氛，未必说真的有魔法。",
+    "split": "witch + -y，给人物词加像其特点的性质后缀。",
+    "history": [
+      [
+        "古英语 wicce、wicca，联系 wiccian",
+        "施巫术者；更早来源未定"
+      ],
+      [
+        "中古英语 wicche → witch",
+        "巫术人物，现代常指女巫，也有不同文化、自我称谓用法"
+      ],
+      [
+        "witch + -y → witchy",
+        "像巫师、带巫术气息的"
+      ]
+    ],
+    "explanation": "a witchy look 女巫风格的造型，a witchy atmosphere 神秘如巫术的氛围，witchy decorations 女巫主题装饰。常见于轻松的风格描述。",
+    "usage": "a witchy look；witchy decorations。",
+    "contrast": "witchy 是较随意的性质描述，不等于已经确认某人的信仰或实践；也不要仅凭外貌给真人贴身份标签。",
+    "examples": [
+      [
+        "Candles and dark flowers gave the room a witchy feel.",
+        "烛光和深色花朵让房间有种女巫故事里的气氛。"
+      ],
+      [
+        "She chose a witchy hat for her costume.",
+        "她为化装造型选了一顶女巫风格的帽子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/witchy#English"
+    ]
+  },
+  {
+    "word": "bewitch",
+    "ipa": "/bɪˈwɪtʃ/",
+    "meaning": "对……施魔法；使着迷、迷住",
+    "sense": "字面上像女巫给人施了法；比喻里，一段音乐、一处风景美得让人挪不开注意力，也能把人 bewitch。",
+    "split": "中古英语 bewicchen 等，对应 be- + witch。be- 在这里参与形成作用到对象身上的动词，不是 be 动词单独加在名词前。",
+    "history": [
+      [
+        "古英语 wicce、wicca，联系 wiccian",
+        "施巫术者；更早来源未定"
+      ],
+      [
+        "中古英语 wicche → witch",
+        "巫术人物，现代常指女巫，也有不同文化、自我称谓用法"
+      ],
+      [
+        "构词与比喻",
+        "witchcraft 巫术；bewitch 像被施法一样吸引住"
+      ]
+    ],
+    "explanation": "bewitch someone with a song 用歌声迷住某人，be bewitched by the scenery 被景色迷住。常有文学、浪漫或奇幻色彩。",
+    "usage": "be bewitched by；bewitch the audience。",
+    "contrast": "字面施法和比喻着迷要分场景；普通吸引可用 attract，bewitch 更有仿佛被施法的魅力。",
+    "examples": [
+      [
+        "The fairy used a song to bewitch the traveller.",
+        "仙女用一首歌给旅人施了魔法。"
+      ],
+      [
+        "The audience was bewitched by her voice.",
+        "观众被她的嗓音迷住了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bewitch#English"
+    ]
+  },
+  {
+    "word": "bubble",
+    "ipa": "/ˈbʌbəl/",
+    "meaning": "气泡、泡沫；冒泡；泡沫般的封闭圈子或虚涨",
+    "sense": "水里鼓起一个薄薄的小圆包，里面是气，就是 bubble。它好看却容易破，于是又能比喻虚涨、脆弱的繁荣；待在自己的 bubble 则像被一层膜与外界隔开。",
+    "split": "中古英语已有相应形式，通常联系冒泡的拟声，并可能受荷兰语、低地德语等近形词影响；具体路径不宜只画成一条确定借词线。",
+    "history": [
+      [
+        "中古英语 bubble、相关西欧近形词",
+        "与咕噜冒泡的拟声有关；具体借入路线未完全确定"
+      ],
+      [
+        "水中气泡 → 空而易破的东西",
+        "泡沫、虚涨的计划或市场等比喻"
+      ]
+    ],
+    "explanation": "blow bubbles 吹泡泡，the soup is bubbling 汤在冒泡，a housing bubble 房地产泡沫，live in a bubble 活在封闭的小圈子里。",
+    "usage": "blow bubbles；bubble up；live in a bubble。",
+    "contrast": "bubble 是可数气泡，也可作动词。价格涨不自动证明是 bubble；这个比喻带有缺乏实质支撑、可能破裂的判断。",
+    "examples": [
+      [
+        "Tiny bubbles rose through the water.",
+        "小气泡从水里升起来。"
+      ],
+      [
+        "The soup began to bubble gently.",
+        "汤开始轻轻地冒泡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bubble#English",
+      "https://www.etymonline.com/word/bubble"
+    ]
+  },
+  {
+    "word": "bubbly",
+    "ipa": "/ˈbʌbli/",
+    "meaning": "充满气泡的；活泼开朗的；〔口语〕香槟等起泡酒",
+    "sense": "饮料一串串冒泡，人说话又快又热情，也像快乐不断冒出来，所以 bubbly 还能说性格活泼。口语中 a glass of bubbly 则直接指一杯起泡酒。",
+    "split": "bubble + -y，词尾 e 去掉形成 bubbly。由有泡泡的性质发展出人的活泼感；再有用性质词称呼起泡酒的名词用法。",
+    "history": [
+      [
+        "中古英语 bubble、相关西欧近形词",
+        "与咕噜冒泡的拟声有关；具体借入路线未完全确定"
+      ],
+      [
+        "bubble + -y → bubbly",
+        "多泡泡 → 活泼开朗；起泡酒的口语称呼"
+      ]
+    ],
+    "explanation": "a bubbly personality 活泼开朗的性格，bubbly water 有气泡的水，a bottle of bubbly 一瓶起泡酒。",
+    "usage": "a bubbly personality；a glass of bubbly。",
+    "contrast": "bubbly 说外在活泼、热情，不等于一个人任何时候都没有烦恼；形容水时则是实在的气泡。",
+    "examples": [
+      [
+        "She has a warm, bubbly personality.",
+        "她性格热情开朗。"
+      ],
+      [
+        "They opened a bottle of bubbly to celebrate.",
+        "他们开了一瓶起泡酒庆祝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bubbly#English"
+    ]
+  },
+  {
+    "word": "bubblegum",
+    "ipa": "/ˈbʌbəlɡʌm/",
+    "meaning": "泡泡糖；甜美轻快的流行音乐或相应风格",
+    "sense": "这类 gum 有弹性，嚼过能吹成 bubble，所以叫 bubblegum。后来音乐也借它的甜、轻快、容易入口来描述风格。",
+    "split": "bubble 气泡 + gum 口香糖，复合词。音乐、颜色等用法由泡泡糖的形象和常见特点引申。",
+    "history": [
+      [
+        "中古英语 bubble、相关西欧近形词",
+        "与咕噜冒泡的拟声有关；具体借入路线未完全确定"
+      ],
+      [
+        "bubble + gum → bubblegum",
+        "能吹泡的口香糖 → 甜美轻快风格、相应粉红色等"
+      ]
+    ],
+    "explanation": "chew bubblegum 嚼泡泡糖，bubblegum pop 甜美轻快的流行音乐，bubblegum pink 泡泡糖粉色。",
+    "usage": "chew bubblegum；bubblegum pop；bubblegum pink。",
+    "contrast": "bubblegum 是 chewing gum 的一种，突出能吹泡；不是所有口香糖都以吹大泡为设计用途。",
+    "examples": [
+      [
+        "He blew a large bubble with his bubblegum.",
+        "他用泡泡糖吹了一个大泡。"
+      ],
+      [
+        "The shop played cheerful bubblegum pop.",
+        "店里放着甜美轻快的流行音乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bubblegum#English"
+    ]
+  },
+  {
+    "word": "bubbler",
+    "ipa": "英 /ˈbʌblə/；美 /ˈbʌblər/",
+    "meaning": "冒泡装置；鱼缸曝气装置；〔部分地区〕饮水喷泉",
+    "sense": "让水里咕噜冒泡的东西，叫 bubbler。鱼缸里的冒泡装置是一个直观例子；有些地区还用这个词称公共饮水喷泉。",
+    "split": "bubble + -er，去词尾 e；-er 在这里指产生相应作用的装置，不限于人。",
+    "history": [
+      [
+        "中古英语 bubble、相关西欧近形词",
+        "与咕噜冒泡的拟声有关；具体借入路线未完全确定"
+      ],
+      [
+        "bubble + -er → bubbler",
+        "冒泡的东西、装置；地区性饮水喷泉名称"
+      ]
+    ],
+    "explanation": "an aquarium bubbler 鱼缸冒泡装置，a drinking bubbler 饮水喷泉。饮水设施的这种叫法带地区差异，普通 fountain 更易被广泛理解。",
+    "usage": "an aquarium bubbler；a drinking bubbler。",
+    "contrast": "bubbler 有多个设备义，先看鱼缸、公共饮水等场景；并非所有有泡的饮料本身都叫 bubbler。",
+    "examples": [
+      [
+        "The bubbler sent a stream of bubbles through the aquarium.",
+        "冒泡装置往鱼缸里送出一串串气泡。"
+      ],
+      [
+        "The children stopped at the park’s bubbler for a drink.",
+        "孩子们在公园的饮水喷泉旁停下来喝水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bubbler#English"
+    ]
+  },
+  {
+    "word": "identical",
+    "ipa": "/aɪˈdentɪkəl/，也读 /ɪˈdentɪkəl/",
+    "meaning": "完全一样的；同一个的",
+    "sense": "两把钥匙看起来毫无分别，可以 identical；有时强调的不是两个相似物，而正是同一个东西。先问语境是在比较两份，还是确认同一件。",
+    "split": "identic + -al，历史联系中古拉丁 identicus、晚期拉丁 identitās，最终联系 idem 相同。不要按英文 identity 去掉任意字母当作全部借入历史。",
+    "history": [
+      [
+        "拉丁 idem 相同 → identitās、identicus",
+        "同一、相同的性质"
+      ],
+      [
+        "identic + -al → identical",
+        "相同的、完全一样的"
+      ]
+    ],
+    "explanation": "identical copies 完全一样的副本，be identical to 与……相同，identical twins 同卵双胞胎。日常也会把很像夸张说成 identical。",
+    "usage": "be identical to；identical copies；identical twins。",
+    "contrast": "similar 是相似，identical 通常要求相关方面一致；同卵双胞胎也不是生活经历、性格、所有细节都绝对相同。",
+    "examples": [
+      [
+        "The two boxes looked identical from the outside.",
+        "两个盒子从外面看一模一样。"
+      ],
+      [
+        "Your answer is identical to mine.",
+        "你的答案和我的完全一样。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identical#English",
+      "https://www.etymonline.com/word/identical"
+    ]
+  },
+  {
+    "word": "identically",
+    "ipa": "/aɪˈdentɪkəli/，也读 /ɪˈdentɪkəli/",
+    "meaning": "完全一样地、以相同方式",
+    "sense": "衣服怎样穿、零件怎样做，处理方式完全一样，就用 identically 把一样加到动作上。",
+    "split": "identical + -ly，形容词变副词；书写为 identically，保留原词 -al 再加 -ly。",
+    "history": [
+      [
+        "拉丁 idem 相同 → identitās、identicus",
+        "同一、相同的性质"
+      ],
+      [
+        "identic + -al → identical",
+        "相同的、完全一样的"
+      ],
+      [
+        "identical + -ly → identically",
+        "以相同方式、完全一样地"
+      ]
+    ],
+    "explanation": "identically dressed 穿着一样，identically sized 大小相同，respond identically 作出相同反应。专业 identically zero 说恒等于零。",
+    "usage": "identically dressed；respond identically。",
+    "contrast": "identical boxes 形容盒子，identically labelled boxes 形容贴标签的方式；副词可以隔着 labelled 说明怎样相同。",
+    "examples": [
+      [
+        "The twins were dressed identically for the photograph.",
+        "拍照时，双胞胎穿得一模一样。"
+      ],
+      [
+        "The two devices responded identically to the same signal.",
+        "两个装置对同一信号作出了相同反应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identically#English"
+    ]
+  }
+]

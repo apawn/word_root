@@ -1,0 +1,758 @@
+[
+  {
+    "word": "hock",
+    "ipa": "英 /hɒk/；美 /hɑk/",
+    "meaning": "典当〔口语〕；〔in hock〕欠债、处于典当状态；后腿关节〔另源〕",
+    "sense": "把手表押在店里，先借一笔钱，口语可说 hock the watch；in hock 则像被债务拴住。菜谱里的 ham hock 却是猪肘、腿节，另走一条词源。",
+    "split": "债务、典当线由 in hock 等用法接荷兰 hok 围栏、监禁材料，再形成典当动词。动物后腿关节接古英语脚跟筋材料；酒名还另接德国地名，不能合讲。",
+    "history": [
+      [
+        "荷兰 hok 围栏、监禁等材料 → in hock",
+        "相关俚语发展到欠债、典当状态"
+      ],
+      [
+        "hock 名词 → 典当动词",
+        "动物后腿关节接古英语材料；葡萄酒名接德语地名，均另源"
+      ]
+    ],
+    "explanation": "hock a watch 典当手表；be in hock 欠债、抵押着；a ham hock 猪肘、猪腿节。",
+    "usage": "deep in hock 欠债很深；get something out of hock 把典当物赎回。",
+    "contrast": "hock 典当较口语，pawn 同样常见且更中性；ham hock 不拿债务解释，先看食物语境。",
+    "examples": [
+      [
+        "In the story, he has to hock his watch to pay the rent.",
+        "故事里，他不得不典当手表来付房租。"
+      ],
+      [
+        "The soup was made with beans and a ham hock.",
+        "汤是用豆子和猪肘做的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hock#English",
+      "https://www.etymonline.com/word/hock"
+    ]
+  },
+  {
+    "word": "hocks",
+    "ipa": "英 /hɒks/；美 /hɑks/",
+    "meaning": "典当〔第三人称单数〕；动物后腿关节、猪肘等〔复数〕",
+    "sense": "小说人物一缺钱就把旧物拿去典当，动词可用 hocks；菜谱里几块猪腿节，也写 hocks，但属于另一来源的名词复数。",
+    "split": "hock + -s，/k/ 后读 /s/；同形词尾既可接典当动词，也可接后腿关节、食材名词，两条来源分开。",
+    "history": [
+      [
+        "荷兰 hok 围栏、监禁等材料 → in hock",
+        "相关俚语发展到欠债、典当状态"
+      ],
+      [
+        "hock 名词 → 典当动词",
+        "动物后腿关节接古英语材料；葡萄酒名接德语地名，均另源"
+      ],
+      [
+        "hock + -s → hocks",
+        "他典当；或多个后腿关节、腿节食材"
+      ]
+    ],
+    "explanation": "hocks his belongings 典当财物；ham hocks 猪肘、猪腿节。",
+    "usage": "smoked hocks 烟熏猪肘；hocks a watch。",
+    "contrast": "hocks 是食物还是动作，靠句子中的 ham、smoked 或动作宾语判断；不是同一个古词从身体部位变成借钱。",
+    "examples": [
+      [
+        "The character hocks his belongings whenever money runs short.",
+        "那个角色一缺钱，就典当自己的东西。"
+      ],
+      [
+        "Smoked ham hocks gave the soup a rich flavour.",
+        "烟熏猪肘给汤添了浓郁风味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hocks#English",
+      "https://www.etymonline.com/word/hock"
+    ]
+  },
+  {
+    "word": "hocked",
+    "ipa": "英 /hɒkt/；美 /hɑkt/",
+    "meaning": "典当了；被押在典当店了",
+    "sense": "东西先交给店里作押物，再拿到钱，过去的这个动作口语可写 hocked。物品仍可能日后赎回，不等于普通卖断。",
+    "split": "hock 典当动词 + 完整 -ed，/k/ 后读 /t/；当前取荷兰 hok 相关债务材料这一支。",
+    "history": [
+      [
+        "荷兰 hok 围栏、监禁等材料 → in hock",
+        "相关俚语发展到欠债、典当状态"
+      ],
+      [
+        "hock 名词 → 典当动词",
+        "动物后腿关节接古英语材料；葡萄酒名接德语地名，均另源"
+      ],
+      [
+        "hock + -ed → hocked",
+        "过去把东西典当，或已被典当"
+      ]
+    ],
+    "explanation": "hocked his guitar 典当吉他；hocked jewellery 典当珠宝。",
+    "usage": "had hocked the watch；was hocked for cash。",
+    "contrast": "hocked 典当与 sold 卖出不同：前者以押物借钱，可能通过还款赎回；具体故事有没有赎回，要看后文。",
+    "examples": [
+      [
+        "He hocked his guitar to cover the urgent expense.",
+        "他典当了吉他，应付那笔急需支出。"
+      ],
+      [
+        "She later bought back the watch she had hocked.",
+        "她后来赎回了自己典当过的手表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hocked#English",
+      "https://www.etymonline.com/word/hock"
+    ]
+  },
+  {
+    "word": "hocking",
+    "ipa": "英 /ˈhɒkɪŋ/；美 /ˈhɑkɪŋ/",
+    "meaning": "正在典当；典当物品的活动",
+    "sense": "把旧物送去作押物换取借款，这个过程口语可叫 hocking。放回故事里看，它写人物眼前的筹钱动作。",
+    "split": "hock + -ing；这里接典当动词，而非动物关节名词。现代过程形式清楚，基础词的同形来源仍应区分。",
+    "history": [
+      [
+        "荷兰 hok 围栏、监禁等材料 → in hock",
+        "相关俚语发展到欠债、典当状态"
+      ],
+      [
+        "hock 名词 → 典当动词",
+        "动物后腿关节接古英语材料；葡萄酒名接德语地名，均另源"
+      ],
+      [
+        "hock + -ing → hocking",
+        "典当的过程、活动"
+      ]
+    ],
+    "explanation": "hocking jewellery 典当珠宝；hocking a watch 典当手表。",
+    "usage": "hocking possessions 典当财物；consider hocking something。",
+    "contrast": "hocking 与 pawning 可指同一类典当动作；两词是同义关系，不表示必然同源。",
+    "examples": [
+      [
+        "The novel describes him hocking his last valuable possession.",
+        "小说描写他典当最后一件值钱物品。"
+      ],
+      [
+        "She considered hocking the necklace but decided to keep it.",
+        "她考虑过典当项链，最后决定留下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hocking#English",
+      "https://www.etymonline.com/word/hock"
+    ]
+  },
+  {
+    "word": "pawns",
+    "ipa": "英 /pɔːnz/；美 /pɔnz/",
+    "meaning": "棋兵、被利用的人〔复数〕；典当〔第三人称单数，另源〕",
+    "sense": "棋盘前排的一排小兵是 pawns；人被大人物当工具摆布，也可叫 pawns。小说里有人 pawns a watch，则是典当手表，另一个词源。",
+    "split": "pawn + -s，/n/ 后读 /z/。棋兵线来自法语步兵词、拉丁 ped- 脚；典当线接法语押物词，不能把两种意思都用脚解释。",
+    "history": [
+      [
+        "典当线：法语 pan、pant 押物，可能接日耳曼材料",
+        "更远来源未定，不能硬定来自布料"
+      ],
+      [
+        "押物名词 → pawn 典当动词",
+        "另源棋兵线接法语步兵、拉丁 ped- 脚，不解释典当"
+      ],
+      [
+        "另一棋兵线：拉丁步行者、步兵材料 → pawn → pawns",
+        "多个兵、被摆布者；典当三单同形但另源"
+      ]
+    ],
+    "explanation": "chess pawns 棋兵；political pawns 被当作政治棋子的人；pawns his watch 典当手表。",
+    "usage": "use people as pawns 把人当棋子利用；a row of pawns。",
+    "contrast": "pawns 作被利用者时是棋兵比喻；pawns valuables 是典当动作，不能把押物也说成在下棋。",
+    "examples": [
+      [
+        "The pawns stood in a row at the start of the game.",
+        "开局时，兵排成一行。"
+      ],
+      [
+        "The workers did not want to be used as pawns in the dispute.",
+        "工人们不想在争端中被当作棋子利用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pawns#English",
+      "https://www.etymonline.com/word/pawn"
+    ]
+  },
+  {
+    "word": "pawned",
+    "ipa": "英 /pɔːnd/；美 /pɔnd/",
+    "meaning": "典当了；被用作押物了",
+    "sense": "把戒指留在店里作押物，拿一笔借款，过去做了这件事，就是 pawned。它对应押物这一支，不是棋兵的动作。",
+    "split": "pawn 典当动词 + 完整 -ed，/n/ 后读 /d/；动词由押物名词转来，经法语押物词接更早日耳曼材料，远源未定。",
+    "history": [
+      [
+        "典当线：法语 pan、pant 押物，可能接日耳曼材料",
+        "更远来源未定，不能硬定来自布料"
+      ],
+      [
+        "押物名词 → pawn 典当动词",
+        "另源棋兵线接法语步兵、拉丁 ped- 脚，不解释典当"
+      ],
+      [
+        "pawn + -ed → pawned",
+        "过去典当或已被典当"
+      ]
+    ],
+    "explanation": "pawned a watch 典当手表；pawned jewellery 典当珠宝。",
+    "usage": "had pawned the ring；pawned for a loan。",
+    "contrast": "pawned 是交物作押借钱，sold 是卖出；典当物有赎回这一可能，不能把两种交易一概混译。",
+    "examples": [
+      [
+        "The musician pawned his guitar to pay the rent.",
+        "那位音乐家典当吉他来付房租。"
+      ],
+      [
+        "She returned to reclaim the ring she had pawned.",
+        "她回去赎回了自己典当过的戒指。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pawned#English",
+      "https://www.etymonline.com/word/pawn"
+    ]
+  },
+  {
+    "word": "pawning",
+    "ipa": "英 /ˈpɔːnɪŋ/；美 /ˈpɔnɪŋ/",
+    "meaning": "正在典当；典当活动",
+    "sense": "先留下值钱物，拿到暂时用的钱，这种把物品作为借款押物的活动，就是 pawning。它不是简单把所有权直接卖给下一位买家。",
+    "split": "pawn + -ing，当前用典当动词一支；棋兵名词虽同形，并非这项借款活动的来历。",
+    "history": [
+      [
+        "典当线：法语 pan、pant 押物，可能接日耳曼材料",
+        "更远来源未定，不能硬定来自布料"
+      ],
+      [
+        "押物名词 → pawn 典当动词",
+        "另源棋兵线接法语步兵、拉丁 ped- 脚，不解释典当"
+      ],
+      [
+        "pawn + -ing → pawning",
+        "以物作押借款的过程、活动"
+      ]
+    ],
+    "explanation": "pawning possessions 典当财物；pawning jewellery 典当珠宝。",
+    "usage": "consider pawning something；a story about pawning a watch。",
+    "contrast": "pawning 和 hocking 在典当语境可相近，hocking 较口语；共同意思不要求历史来源相同。",
+    "examples": [
+      [
+        "The film shows him pawning his watch before leaving town.",
+        "电影里，他离开小镇前典当了手表。"
+      ],
+      [
+        "She thought about pawning the camera but changed her mind.",
+        "她想过典当相机，后来改了主意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pawning#English",
+      "https://www.etymonline.com/word/pawn"
+    ]
+  },
+  {
+    "word": "pawnbrokers",
+    "ipa": "英 /ˈpɔːnˌbrəʊkəz/；美 /ˈpɔnˌbroʊkɚz/",
+    "meaning": "典当商〔复数〕",
+    "sense": "收下手表、首饰等押物，按押物借出钱的经营者，叫 pawnbrokers。这里的 pawn 是押物，broker 是经营、经手这一类事务的人。",
+    "split": "pawnbroker + -s，读 /z/；内层 pawn 押物 + broker。pawn 的棋兵来源不参与这个复合词。",
+    "history": [
+      [
+        "典当线：法语 pan、pant 押物，可能接日耳曼材料",
+        "更远来源未定，不能硬定来自布料"
+      ],
+      [
+        "押物名词 → pawn 典当动词",
+        "另源棋兵线接法语步兵、拉丁 ped- 脚，不解释典当"
+      ],
+      [
+        "pawn + broker → pawnbroker → pawnbrokers",
+        "经手押物借贷业务者及其复数"
+      ]
+    ],
+    "explanation": "local pawnbrokers 当地典当商；licensed pawnbrokers 有许可的典当商。",
+    "usage": "pawnbrokers and jewellers；visit pawnbrokers。",
+    "contrast": "pawnbrokers 是经营者，pawnshops 是经营场所；一个说人或机构，一个说店。",
+    "examples": [
+      [
+        "The street had several pawnbrokers and jewellery shops.",
+        "那条街上有几家典当商和珠宝店。"
+      ],
+      [
+        "The documentary interviewed local pawnbrokers.",
+        "纪录片采访了当地典当商。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pawnbrokers#English",
+      "https://www.etymonline.com/word/pawnbroker"
+    ]
+  },
+  {
+    "word": "pawnshops",
+    "ipa": "英 /ˈpɔːnʃɒps/；美 /ˈpɔnʃɑps/",
+    "meaning": "典当店、当铺〔复数〕",
+    "sense": "街上几家店收押物、办理典当，人们也可能在里面买到未被赎回的物品，这些店叫 pawnshops。",
+    "split": "pawnshop + -s，/p/ 后读 /s/；内层 pawn 押物 + shop 店，与棋兵的 pawn 不同源。",
+    "history": [
+      [
+        "典当线：法语 pan、pant 押物，可能接日耳曼材料",
+        "更远来源未定，不能硬定来自布料"
+      ],
+      [
+        "押物名词 → pawn 典当动词",
+        "另源棋兵线接法语步兵、拉丁 ped- 脚，不解释典当"
+      ],
+      [
+        "pawn + shop → pawnshop → pawnshops",
+        "办理典当业务的场所及其复数"
+      ]
+    ],
+    "explanation": "local pawnshops 当地当铺；pawnshops selling used instruments 卖二手乐器的当铺。",
+    "usage": "visit pawnshops；a row of pawnshops。",
+    "contrast": "pawnshops 的主要词义联系押物借款业务，second-hand shops 是二手商店；两者可能都卖旧货，但经营模式不必一样。",
+    "examples": [
+      [
+        "He searched local pawnshops for a second-hand guitar.",
+        "他在当地当铺找二手吉他。"
+      ],
+      [
+        "Two pawnshops stood near the old railway station.",
+        "旧火车站附近有两家当铺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pawnshops#English",
+      "https://www.etymonline.com/word/pawnshop"
+    ]
+  },
+  {
+    "word": "wagered",
+    "ipa": "英 /ˈweɪdʒəd/；美 /ˈweɪdʒɚd/",
+    "meaning": "押了赌注；拿某物押某个结果了",
+    "sense": "双方说好，猜错的人请咖啡，就可以说 wagered a cup of coffee。押的可以是钱，也可以是别的有价值的东西。",
+    "split": "wager + 完整 -ed，读 /d/；wager 动词来自较早的赌注、质押名词，名词经法语保证、押物材料而来。",
+    "history": [
+      [
+        "法语 wageure、wagiere 等 → wager 名词",
+        "质押、保证，也用于赌注"
+      ],
+      [
+        "wager 名词 → wager 动词",
+        "拿钱、物押一个不确定结果"
+      ],
+      [
+        "wager + -ed → wagered",
+        "过去拿价值押某结果"
+      ]
+    ],
+    "explanation": "wagered money on a race 把钱押在比赛上；wagered that 打赌认为。",
+    "usage": "wagered a small sum；wagered a cup of coffee。",
+    "contrast": "wagered 与 bet 过去式可近义，wagered 语气通常更正式；不是 wage 工资的过去式 waged。",
+    "examples": [
+      [
+        "They wagered a cup of coffee on who would arrive first.",
+        "他们打赌谁先到，输的人请一杯咖啡。"
+      ],
+      [
+        "He wagered that the old car would start on the first try.",
+        "他打赌那辆旧车一次就能发动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wagered#English",
+      "https://www.etymonline.com/word/wager"
+    ]
+  },
+  {
+    "word": "wagering",
+    "ipa": "英 /ˈweɪdʒərɪŋ/；美 /ˈweɪdʒərɪŋ/",
+    "meaning": "正在打赌；下注、投注活动",
+    "sense": "把有价值的东西押在尚未确定的结果上，这项活动叫 wagering。新闻或正式文章里，这个词比随口说 betting 更常显得书面。",
+    "split": "wager + -ing；动词由名词转用后加现代过程尾，英式在元音开头后缀前读出 r。",
+    "history": [
+      [
+        "法语 wageure、wagiere 等 → wager 名词",
+        "质押、保证，也用于赌注"
+      ],
+      [
+        "wager 名词 → wager 动词",
+        "拿钱、物押一个不确定结果"
+      ],
+      [
+        "wager + -ing → wagering",
+        "拿价值押结果的过程、活动"
+      ]
+    ],
+    "explanation": "sports wagering 体育投注；wagering money 押钱打赌。",
+    "usage": "a history of wagering；wagering on the outcome 押某结果。",
+    "contrast": "wagering 一般比 betting 正式；I bet 在日常还可纯表确信，wagering 更常把注意力放在真实押注活动。",
+    "examples": [
+      [
+        "The museum display described the history of wagering on horse races.",
+        "博物馆展板介绍了赛马投注的历史。"
+      ],
+      [
+        "The article examined changes in online wagering.",
+        "文章考察了网上投注的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wagering#English",
+      "https://www.etymonline.com/word/wager"
+    ]
+  },
+  {
+    "word": "staked",
+    "ipa": "/steɪkt/",
+    "meaning": "用桩固定、支撑了；标定、主张了；押上、拿来冒险了",
+    "sense": "给番茄苗插支撑桩，是 staked the plants；拿自己的名声去保证一件事，是 staked his reputation。两种现代画面好记，但更远历史不全连得上。",
+    "split": "stake 去 e 加完整 -ed，/k/ 后读 /t/。木桩线接古英语 staca；赌注、拿利益冒险这一线与木桩怎么相接未定，不把挂赌注在桩上的故事当事实。",
+    "history": [
+      [
+        "古英语 staca → stake 木桩 → 固定、支撑、标定",
+        "用桩钉住、圈出某处"
+      ],
+      [
+        "stake 赌注、利益的具体远源联系未定",
+        "拿价值押结果，不能把赌注挂桩的传说当确定事实"
+      ],
+      [
+        "stake + -ed → staked",
+        "过去支撑、标定、主张，或押上某种价值"
+      ]
+    ],
+    "explanation": "staked the plants 用桩撑苗；staked a claim 主张权利、划定位置；staked his reputation 押上声誉。",
+    "usage": "staked out the area 标定区域，也可写监视地点；staked everything on 把一切押在。",
+    "contrast": "staked his reputation on 说拿声誉作保证，guessed 只是猜；前者多了自己会承担名誉损失的意味。",
+    "examples": [
+      [
+        "We staked the young trees to keep them upright.",
+        "我们用桩把幼树撑直。"
+      ],
+      [
+        "She staked her reputation on the accuracy of the report.",
+        "她以自己的声誉保证报告准确。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staked#English",
+      "https://www.etymonline.com/word/stake"
+    ]
+  },
+  {
+    "word": "gambles",
+    "ipa": "/ˈɡæmbəlz/",
+    "meaning": "赌博、冒险押结果〔第三人称单数〕；冒险举动〔复数〕",
+    "sense": "他用不确定的结果作赌注，是 he gambles；一次可能成、也可能损失很大的决定，则是 a gamble，多个就是 gambles。",
+    "split": "gamble + -s，/l/ 后读 /z/；动词三单与名词复数同形，基础词接 game 的旧玩乐材料，具体近路有分析差别。",
+    "history": [
+      [
+        "古英语 gamen 玩乐与相关动词 → 较早 gammlen、gamel 等材料",
+        "与 game 家族相关，具体近路不止一种分析"
+      ],
+      [
+        "gamble → 拿价值冒险；现代屈折、人物词",
+        "字母 b 可能受 gambol 影响，但不能把两词认作同源"
+      ],
+      [
+        "gamble + -s → gambles",
+        "他或它拿价值冒险；多次冒险举动"
+      ]
+    ],
+    "explanation": "gambles on the outcome 押结果；risky gambles 风险大的冒险举动。",
+    "usage": "gambles with his reputation 拿声誉冒险；take gambles。",
+    "contrast": "gambles 不必都发生在赌场；a risky career move 也可能被说成 a gamble，重点是押上重要东西、结果不确定。",
+    "examples": [
+      [
+        "The character gambles away his savings in the novel.",
+        "小说里，那个角色把积蓄都赌光了。"
+      ],
+      [
+        "The film explores the gambles people take when changing careers.",
+        "电影探讨了人们转行时做出的冒险决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gambles#English",
+      "https://www.etymonline.com/word/gamble"
+    ]
+  },
+  {
+    "word": "gambled",
+    "ipa": "/ˈɡæmbəld/",
+    "meaning": "赌博、冒险押结果了",
+    "sense": "没预订住宿，赌到时候会有空房，就是 gambled on finding a room。它说过去把希望押在一个不保证会发生的结果上。",
+    "split": "gamble 去 e 加完整 -ed，/l/ 后读 /d/；原词干有 /əl/，-ed 不另加 /ɪd/ 音节。",
+    "history": [
+      [
+        "古英语 gamen 玩乐与相关动词 → 较早 gammlen、gamel 等材料",
+        "与 game 家族相关，具体近路不止一种分析"
+      ],
+      [
+        "gamble → 拿价值冒险；现代屈折、人物词",
+        "字母 b 可能受 gambol 影响，但不能把两词认作同源"
+      ],
+      [
+        "gamble + -ed → gambled",
+        "过去赌博，或押某不确定结果作决定"
+      ]
+    ],
+    "explanation": "gambled on 依赖、押某不确定情况；gambled away 赌掉。",
+    "usage": "gambled that 打赌、冒险认为；gambled with his future 拿未来冒险。",
+    "contrast": "gambled on 说明知道结果没保证却押上去，counted on 常是指望、依靠；风险感和确信程度不同。",
+    "examples": [
+      [
+        "We gambled on finding a room without booking ahead.",
+        "我们没提前订房，赌到时能找到住处。"
+      ],
+      [
+        "He gambled that the weather would stay dry.",
+        "他冒险认定天气会一直干爽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gambled#English",
+      "https://www.etymonline.com/word/gamble"
+    ]
+  },
+  {
+    "word": "gambling",
+    "ipa": "/ˈɡæmblɪŋ/",
+    "meaning": "赌博活动；正在赌博、拿重要东西冒险",
+    "sense": "拿钱或其他价值押输赢，这项活动叫 gambling；gambling with someone’s future 则把别人的未来放在风险里，是比喻用法。",
+    "split": "gamble 去 e 加 -ing，常读 /ˈɡæmblɪŋ/。gamble 由 game 旧玩乐词族相应动词发展，不能按现代 game 加一个 -ble 简单拼出。",
+    "history": [
+      [
+        "古英语 gamen 玩乐与相关动词 → 较早 gammlen、gamel 等材料",
+        "与 game 家族相关，具体近路不止一种分析"
+      ],
+      [
+        "gamble → 拿价值冒险；现代屈折、人物词",
+        "字母 b 可能受 gambol 影响，但不能把两词认作同源"
+      ],
+      [
+        "gamble + -ing → gambling",
+        "赌博活动，或拿某种价值冒险的过程"
+      ]
+    ],
+    "explanation": "gambling losses 赌博损失；gambling on the result 押结果；gambling with lives 拿生命冒险。",
+    "usage": "a history of gambling；gambling away money 赌掉钱。",
+    "contrast": "gambling 是押价值赌输赢，gaming 可泛说玩电子游戏等；语境不同，不能把所有 gaming 都译成赌博。",
+    "examples": [
+      [
+        "The novel describes the effect of gambling on the family.",
+        "小说描写赌博对这个家庭的影响。"
+      ],
+      [
+        "Critics said the decision was gambling with the town’s future.",
+        "批评者说，这个决定是在拿小镇的未来冒险。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gambling#English",
+      "https://www.etymonline.com/word/gamble"
+    ]
+  },
+  {
+    "word": "gamblers",
+    "ipa": "英 /ˈɡæmbləz/；美 /ˈɡæmblɚz/",
+    "meaning": "赌博者；爱拿重要东西冒险的人〔复数〕",
+    "sense": "有人把钱押在牌、赛果上，是 gamblers；文章也能这样形容赌上一切求成功的冒险者，未必真在牌桌边。",
+    "split": "gambler + -s，读 /z/；内层 gamble 去 e 加 -er 人物尾。现代角色名既可取具体赌博，也可取冒险比喻。",
+    "history": [
+      [
+        "古英语 gamen 玩乐与相关动词 → 较早 gammlen、gamel 等材料",
+        "与 game 家族相关，具体近路不止一种分析"
+      ],
+      [
+        "gamble → 拿价值冒险；现代屈折、人物词",
+        "字母 b 可能受 gambol 影响，但不能把两词认作同源"
+      ],
+      [
+        "gamble + -er → gambler → gamblers",
+        "进行赌博、冒险押结果的人及其复数"
+      ]
+    ],
+    "explanation": "professional gamblers 职业赌博者；compulsive gamblers 有强迫性赌博行为的人。",
+    "usage": "a group of gamblers；gamblers in the story。",
+    "contrast": "gamblers 是押风险的一方，bookmakers 常是经营接收投注的一方；不同角色不应只用一个赌徒混过。",
+    "examples": [
+      [
+        "The film follows three gamblers over one weekend.",
+        "电影跟随三位赌客，讲述一个周末的经历。"
+      ],
+      [
+        "The novel portrays the founders as bold gamblers.",
+        "小说把创办者描绘成大胆的冒险者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gamblers#English",
+      "https://www.etymonline.com/word/gamble"
+    ]
+  },
+  {
+    "word": "bets",
+    "ipa": "/bets/",
+    "meaning": "赌注、打赌〔复数〕；下注、确信〔第三人称单数〕",
+    "sense": "一笔笔押下的钱、作出的打赌，是 bets；说 someone bets that… 也可能只是他确信某件事，不一定真拿钱。",
+    "split": "bet + -s，/t/ 后读 /s/；名词复数、动词三单同形。bet 远源未定，口语确信用法后来发展，不硬指定来自 better。",
+    "history": [
+      [
+        "十六世纪 bet 名词、动词等俚语材料",
+        "押上价值赌结果，远源未定"
+      ],
+      [
+        "现代赌注、下注与 I bet 等口语",
+        "确信、猜测的语气未必对应真实下注"
+      ],
+      [
+        "bet + -s → bets",
+        "多笔赌注；他下注或表示确信"
+      ]
+    ],
+    "explanation": "place bets 下注；small bets 小额赌注；hedge your bets 留多手准备。",
+    "usage": "bets on the result 押赛果；all bets are off 一切都说不准了。",
+    "contrast": "bets 是押注或确信，bids 是报价；竞拍里举牌叫价，不因为有输赢就改用 bets。",
+    "examples": [
+      [
+        "The story follows a man who keeps making reckless bets.",
+        "故事讲一个不断鲁莽下注的男人。"
+      ],
+      [
+        "She bets that we will arrive before sunset.",
+        "她确信我们会在日落前赶到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bets#English",
+      "https://www.etymonline.com/word/bet"
+    ]
+  },
+  {
+    "word": "bettors",
+    "ipa": "英 /ˈbetəz/；美 /ˈbetɚz/",
+    "meaning": "下注者、打赌的人〔复数〕",
+    "sense": "一边有人接收投注，另一边把钱押在某个赛果上的那些人，就是 bettors。词写参与下注的一方。",
+    "split": "bettor + -s，读 /z/；内层 bet 双写 t 加完整 -or，尤其常见于美式；不是 better 更好的加复数。",
+    "history": [
+      [
+        "十六世纪 bet 名词、动词等俚语材料",
+        "押上价值赌结果，远源未定"
+      ],
+      [
+        "现代赌注、下注与 I bet 等口语",
+        "确信、猜测的语气未必对应真实下注"
+      ],
+      [
+        "bet + -or → bettor → bettors",
+        "下注者及其复数，保留完整人物后缀 -or"
+      ]
+    ],
+    "explanation": "sports bettors 体育投注者；bettors at the racecourse 赛马场的下注者。",
+    "usage": "a group of bettors；experienced bettors。",
+    "contrast": "bettors 下注，bookmakers 经营接收投注；同一事件中的两边角色要区分。",
+    "examples": [
+      [
+        "The documentary interviewed bettors at the racecourse.",
+        "纪录片采访了赛马场的下注者。"
+      ],
+      [
+        "The article compared how bettors and bookmakers viewed the result.",
+        "文章比较了下注者和博彩经营者如何看待结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bettors#English",
+      "https://www.etymonline.com/word/bet"
+    ]
+  },
+  {
+    "word": "bookies",
+    "ipa": "/ˈbʊkiz/",
+    "meaning": "接收投注、经营赌注业务的人或机构〔口语复数〕",
+    "sense": "顾客把赌注交给他们，他们按约定接注、支付输赢，这些人或机构口语叫 bookies。book 在这里连着投注记录，不是书店售货。",
+    "split": "bookie + -s → bookies；bookie 是 bookmaker 博彩义的口语缩短形式，带 -ie。复数直接在 -ie 后加 -s。",
+    "history": [
+      [
+        "book + maker → bookmaker",
+        "较早可说制作书籍的人"
+      ],
+      [
+        "记录投注的 book、make a book 等 → 博彩经营者；bookie 短称",
+        "bookmakers、bookies 是各自人物名词的复数"
+      ],
+      [
+        "bookmaker → bookie → bookies",
+        "博彩经营者的口语短称及其复数"
+      ]
+    ],
+    "explanation": "local bookies 当地接注者；bookies at the racecourse 赛马场的接注商。",
+    "usage": "bets placed with bookies；bookies and bettors。",
+    "contrast": "bookies 接收投注，booksellers 卖书；词里都有 book，却选了记录册、书籍的不同具体用法。",
+    "examples": [
+      [
+        "The novel describes several bookies working near the racecourse.",
+        "小说描写了几位在赛马场附近经营接注的人。"
+      ],
+      [
+        "The report examined how bookies kept records of bets.",
+        "报告考察了接注商如何记录赌注。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bookies#English",
+      "https://www.etymonline.com/word/bookie"
+    ]
+  },
+  {
+    "word": "bookmakers",
+    "ipa": "英 /ˈbʊkˌmeɪkəz/；美 /ˈbʊkˌmeɪkɚz/",
+    "meaning": "经营接收投注的人或机构；制书者〔较早义〕",
+    "sense": "现代体育新闻里的 bookmakers 多半在接收投注、定赔率；不是在写书、装订书。后者却是这个组合更早真实存在的用途。",
+    "split": "bookmaker + -s，读 /z/；内层 book + maker。较早制书者义，后来博彩义联系记录投注的 book、make a book 等表达，不是从作家职业直接变赌客。",
+    "history": [
+      [
+        "book + maker → bookmaker",
+        "较早可说制作书籍的人"
+      ],
+      [
+        "记录投注的 book、make a book 等 → 博彩经营者；bookie 短称",
+        "bookmakers、bookies 是各自人物名词的复数"
+      ],
+      [
+        "bookmaker + -s → bookmakers",
+        "多个经营接收投注者，也可按较早义指制书者"
+      ]
+    ],
+    "explanation": "bookmakers and bettors 博彩经营者与下注者；online bookmakers 网上接注机构。",
+    "usage": "odds offered by bookmakers；records kept by bookmakers。",
+    "contrast": "bookmakers 通常经营接注业务，gamblers、bettors 是下注者；不是每个下注的人都在当 bookmaker。",
+    "examples": [
+      [
+        "The documentary explained how bookmakers recorded bets.",
+        "纪录片解释了博彩经营者如何记录投注。"
+      ],
+      [
+        "The article compared the odds offered by different bookmakers.",
+        "文章比较了不同接注机构给出的赔率。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bookmakers#English",
+      "https://www.etymonline.com/word/bookmaker"
+    ]
+  }
+]

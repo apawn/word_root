@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B4476",
+    "meaning": "稳住位置、节奏与情绪",
+    "core": "STEADY：不晃、不乱、忽高忽低的变化少",
+    "image": "steady → steadily/steadiness；unsteady 否定稳定；rocksteady 另有音乐类型的固定名称。",
+    "intro": "稳的对象可以是手、收入、脚步或心态。先问什么保持稳定，不把它自动理解成慢，也不把它理解成绝不变化。",
+    "forms": "stedy 等 → steady；steady 的 y 变 i 加 -ly/-ness；un- + steady；rock + steady。\n\nstead 接古英语 stede 位置、稳定等词，steady 接 stead + -y；instead 接 in stead 在某人的位置上这一旧短语。",
+    "branches": [
+      [
+        "稳定、方式与性质",
+        "steady · steadily · steadiness"
+      ],
+      [
+        "不稳及固定组合",
+        "unsteady · rocksteady"
+      ],
+      [
+        "stead 位置与 instead 替代",
+        "stead · instead · steady"
+      ]
+    ],
+    "contrasts": "steady 不必慢；steadily 的趋势不要求每秒完全同速；unsteady 不必弱；rocksteady 音乐名要按流派语境理解。",
+    "practice": "She moved steadily, and the steadiness of her hands kept the cup from spilling.\n\n她稳稳地移动，手很稳，杯里的水没有洒出来。",
+    "words": [
+      "steady",
+      "steadily",
+      "steadiness",
+      "unsteady",
+      "rocksteady",
+      "stead",
+      "instead"
+    ],
+    "exclude": {
+      "steady-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2330",
+    "meaning": "性质、状态名词词尾；与 -ity 同源",
+    "core": "-ETY：把一种感受、性质当作状态来说",
+    "image": "anxiety 表不安这种状态；这里的 -ety 远接拉丁 -(i)tās，与 -ity 属同一抽象名词系列。",
+    "intro": "同拼写还有用于拟声、表情词的词尾。anxiety 走拉丁抽象名词路线，不用反复作响那种拟声解释。",
+    "forms": "拉丁 -(i)tās → -ity/-ety 等名词词尾；anxius → anxietās → anxiety。现代可比较 anxious/anxiety，但词是借入的，不必假定英语先自行替换词尾。",
+    "branches": [
+      [
+        "不安的状态名词",
+        "anxiety"
+      ]
+    ],
+    "contrasts": "状态名词 -ety 与表情拟声 -ety 分源；anxious/anxiety 读音和重音有变化，不是所有形容词都能照样加 -ety。",
+    "practice": "The uncertainty caused anxiety, not merely a moment of surprise.\n\n不确定性引起了忧虑，而不只是短暂惊讶。",
+    "words": [
+      "anxiety"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3708",
+    "meaning": "额外加上的好处、款项或奖励",
+    "core": "BONUS：本来已有一份，又多一件好事",
+    "image": "bonus 源于拉丁好的；工资外奖金、游戏加分和方便条件，都可落在额外好处上。",
+    "intro": "先分本来就有的部分与另外增加的部分，便能理解奖金之外的用法。",
+    "forms": "拉丁 bonus 好的 → 英语 bonus 额外好处；bonuses 复数。\n\nbonus 借拉丁 bonus 好的，在英语中成为额外奖励名词。现代规则加 -es，/s/ 后读 /ɪz/，不因拉丁外形就强制用拉丁式复数。",
+    "branches": [
+      [
+        "额外好处的不同场景",
+        "bonus"
+      ],
+      [
+        "bonus → bonuses：额外好处、奖金",
+        "bonuses"
+      ]
+    ],
+    "contrasts": "bonus 不只金钱；bonuses 是英语复数；bonus 的 -us 不等于英语 us。",
+    "practice": "Finishing early was good; the unexpected bonus made it even better.\n\n提前做完就很好了，意外奖金让人更高兴。",
+    "words": [
+      "bonus",
+      "bonuses"
+    ],
+    "exclude": {
+      "bonus-less": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-bonus": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3343",
+    "meaning": "宗教建筑和太阳穴两条同形词路线",
+    "core": "TEMPLE：寺庙与太阳穴同拼写，来路分别看",
+    "image": "templum → 神殿、寺庙；tempora → 太阳穴 → 眼镜腿。",
+    "intro": "这些是同形词最值得掌握的场景。眼镜腿靠头两侧的位置联系太阳穴，不必强拉出宗教寓意。",
+    "forms": "templum → tempel → 建筑 temple；tempora → 法语 temple → 头侧 temple。更深切分、伸展等远源解释有争论，不作唯一故事。\n\n宗教建筑 temple 接拉丁 templum，远源有划定空间等不同解释；太阳穴 temple 另经法语接拉丁 tempora、tempus 词族。现代复数 -s。",
+    "branches": [
+      [
+        "建筑与身体位置分源",
+        "temple"
+      ],
+      [
+        "temple 宗教建筑与太阳穴分线",
+        "temples"
+      ]
+    ],
+    "contrasts": "temple 不只佛寺；太阳穴不是由寺庙义在英语里演化；眼镜腿义抓两侧位置。",
+    "practice": "After visiting the temple, she adjusted the temple of her glasses.\n\n参观寺庙后，她调整了一侧眼镜腿。",
+    "words": [
+      "temple",
+      "temples"
+    ],
+    "exclude": {
+      "temple-going": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "temple-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2663",
+    "meaning": "从舅舅扩大的男性长辈亲属称谓",
+    "core": "UNCLE：英语合并的一类亲属，中文要按关系细分",
+    "image": "avunculus 母亲兄弟 → oncle → uncle，现代还包括父亲兄弟、相关姻亲和亲昵称呼。",
+    "intro": "亲属词的历史范围和今天范围可以不同。学习时既看旧来路，也用现代具体关系确认中文称谓。",
+    "forms": "avus → avunculus → oncle → uncle；旧小称形态不是现代英语里可任意套用的 -cle。\n\nuncle 经法语接拉丁 avunculus，历史上指母亲的兄弟，现代范围更广。",
+    "branches": [
+      [
+        "亲属关系与称呼",
+        "uncle"
+      ],
+      [
+        "uncle → uncles：父母兄弟及相关姻亲",
+        "uncle · uncles"
+      ]
+    ],
+    "contrasts": "un- 不是否定；uncle 不标父母哪一边或长幼；Uncle + 名字也可能称无血缘的熟悉长辈。",
+    "practice": "Uncle David is a family friend, while Uncle James is my father’s brother.\n\n戴维叔叔是家庭朋友，詹姆斯叔叔则是我父亲的兄弟。",
+    "words": [
+      "uncle",
+      "uncles"
+    ],
+    "exclude": {
+      "great-uncle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "uncle-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-uncle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

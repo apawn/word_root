@@ -1,0 +1,62 @@
+[
+  {
+    "id": "B2861",
+    "meaning": "合适、强健、装配；另源阵发",
+    "core": "FIT：对得上条件；另一路 fitful 说一阵一阵",
+    "image": "先看衣服合身、物件合用和身体状态，再按安装装备读 fitting、refit；fitful 单列阵发词源。",
+    "intro": "适合义更远来源不明，发作、一阵义也不确定；不能把未知处编成确定故事。fitness 与 fitful 的 fit 在这里不走同一条语义路。",
+    "forms": "fit → fitness、fitter、unfit、fitting、befit、refit；共享 outfit、misfit、retrofit、crossfit；名词 fit 阵发 → fitful。\n\nfit 双写 t 加 -ed，分词形容词说剪裁、安装好的性质；动词过去和分词 fitted、fit 有实际用法差异，不照搬某一地区的单一形式为全球规则。\n\n适合动词加 s；一阵、发作名词的复数也同形，来源另不明确。\n\noutfit 接 out- + fit 的装备、配备动作，先有出行装备义，后有整套服装、团队等用法。现代 -s 可是名词复数或动词第三人称。",
+    "branches": [
+      [
+        "基本性质与比较、否定",
+        "fit · fitness · fitter · unfit"
+      ],
+      [
+        "合宜与安装装备",
+        "fitting · befit · refit · retrofit · outfit · misfit"
+      ],
+      [
+        "特定运动词",
+        "crossfit"
+      ],
+      [
+        "另源的一阵阵",
+        "fitful"
+      ],
+      [
+        "fitted：剪裁贴合、配套装配与过去动作",
+        "fit · fitted · fitting"
+      ],
+      [
+        "fit → fits：适合与突然一阵两条词史",
+        "fit · fits"
+      ],
+      [
+        "配备齐全 → outfit → outfits",
+        "outfits"
+      ]
+    ],
+    "contrasts": "fitter 比较级与职业名分开；fitting 合宜，fitful 断续；fit 与 suit 衣物搭配看尺寸与风格。",
+    "practice": "The fitter checked whether the new shelf would fit.\n\n安装工检查新搁板是否装得下。",
+    "words": [
+      "fit",
+      "fitness",
+      "fitter",
+      "unfit",
+      "fitting",
+      "befit",
+      "refit",
+      "retrofit",
+      "outfit",
+      "misfit",
+      "crossfit",
+      "fitful",
+      "fitted",
+      "fits",
+      "outfits"
+    ],
+    "exclude": {
+      "fitment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

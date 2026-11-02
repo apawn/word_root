@@ -1,0 +1,158 @@
+[
+  {
+    "id": "B3986",
+    "meaning": "机会、掷骰的旧义，分出风险与杂乱的方向",
+    "core": "HAZARD：机会可能带来损失，交给机会也可能没章法",
+    "image": "hazard → hazardous；hap + hazard → haphazard；biohazard 用 bio- 限定生物危险。",
+    "intro": "hazardous 说危险，haphazard 说杂乱，差别来自整体用法。两者可以同时形容同一件事，却不能因此当同义词。",
+    "forms": "hasard、hasart → hazard；-ous 性质；hap 机会；bio- 生物。\n\nhazard 经法语骰子机会游戏名发展到风险、危险源，远处阿拉伯语等解释未定。现代 -s，名词危险因素或动词冒险说出。",
+    "branches": [
+      [
+        "危险与性质、来源",
+        "hazard · hazardous · biohazard"
+      ],
+      [
+        "机会带出的无章法",
+        "haphazard"
+      ],
+      [
+        "hazard 骰戏、风险 → hazards",
+        "hazards"
+      ]
+    ],
+    "contrasts": "远源有争论；hazard a guess 是姑且猜；haphazard 与 hazardous 不互换。",
+    "practice": "The haphazard storage of tools created a hazard.\n\n工具随意乱放，造成了安全隐患。",
+    "words": [
+      "hazard",
+      "hazardous",
+      "biohazard",
+      "haphazard",
+      "hazards"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3748",
+    "meaning": "混合、融入及相应过程、工具；近形失误词另辨历史",
+    "core": "BLEND：混得协调，过程与工具各有后缀",
+    "image": "blend → blending、blender；blunder 单列历史线索。",
+    "intro": "把配料搅到一起可直观记住 blend。blunder 的历史可能涉及混乱词等影响，但今天不能把它当 blender 的拼写变体。",
+    "forms": "blandan、blanda 等 → blend；-ing 过程，-er 工具；blunder 另有北欧来源等分析。\n\nblunder 接北欧闭眼、乱撞等来源线索，或有混乱词族影响；与本页 blend 作辨析，不能把现代 blend 加 -er 当成确定来历。\n\nblend 继承或借入古英语 blandan、古北欧 blanda 等混合材料，现代 -s，/d/ 后读 /z/。名词复数说混合品，动词说融为一体。",
+    "branches": [
+      [
+        "混合动作、过程与工具",
+        "blend · blending · blender"
+      ],
+      [
+        "近形与历史比较",
+        "blunder"
+      ],
+      [
+        "blunder：乱闯，到犯下大错",
+        "blunder · blunders · blundered · blundering"
+      ],
+      [
+        "blend 混合 → blends",
+        "blends"
+      ]
+    ],
+    "contrasts": "blender /e/ 与 blunder /ʌ/ 区别；blend in 是融入；make a blunder 是犯大错。",
+    "practice": "Careful blending produced a balanced blend of flavours.\n\n仔细调和带来了均衡的混合风味。",
+    "words": [
+      "blend",
+      "blending",
+      "blender",
+      "blunder",
+      "blunders",
+      "blundered",
+      "blundering",
+      "blends"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3766",
+    "meaning": "住处转为客栈，再看经营者与旧住客名称",
+    "core": "INN：给过路人一处吃住的落脚点",
+    "image": "inn → innkeeper；inmate 作为旧住居称谓演变的比较。",
+    "intro": "innkeeper 经营旅馆，inmate 现代却常指被关押者、机构住民，不能因为旧词中有住居关系就把所有现代住客叫 inmate。",
+    "forms": "古英语 inn → inn；keeper 经营、管理的人；inmate 的 mate 联系同住关系，但现代整体义已变化。",
+    "branches": [
+      [
+        "客栈与经营者",
+        "inn · innkeeper"
+      ],
+      [
+        "旧住居称谓的现代变化",
+        "inmate"
+      ]
+    ],
+    "contrasts": "inn 不等于介词 in；现代旅馆客人用 guest 等；inmate 不作普通旅客称谓。",
+    "practice": "The innkeeper welcomed us to the little inn.\n\n店主欢迎我们来到这家小客栈。",
+    "words": [
+      "inn",
+      "innkeeper",
+      "inmate"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3550",
+    "meaning": "挤压、堵住、果酱及音乐的不同支线",
+    "core": "JAM：先分出抽屉、面包和乐队三种场景",
+    "image": "jam → jammer、jammy；logjam 是堵塞支线的复合。",
+    "intro": "堵塞像挤得动不了，果酱像水果压成一团，音乐即兴则有另一些历史解释。画面可帮记，不把猜想冒充全词族唯一来历。",
+    "forms": "jam 的更远来源未定；-er 人或工具，-y 性质，均双写 m；log 原木。",
+    "branches": [
+      [
+        "基础多义与干扰、演奏者",
+        "jam · jammer"
+      ],
+      [
+        "果酱、幸运及堵塞复合",
+        "jammy · logjam"
+      ]
+    ],
+    "contrasts": "音乐 jam 不取堵塞义；jammy 可说幸运；果酱义常不可数。",
+    "practice": "After the jam session, they ate toast with jam.\n\n即兴合奏结束后，他们吃了抹果酱的吐司。",
+    "words": [
+      "jam",
+      "jammer",
+      "jammy",
+      "logjam"
+    ],
+    "exclude": {
+      "jam-pack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jam-packed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4084",
+    "meaning": "易受惊、缩回，扩到社交腼腆与回避",
+    "core": "SHY：想靠近时缩一点，也可主动避开难题",
+    "image": "shy → shyly、shyness、shying；过去式 shied 与 -ing 拼法不同。",
+    "intro": "人的害羞、马的惊退、回避困难都能用缩回的画面。数量 shy of 又是不到某条线，不必拿社交情绪硬译。",
+    "forms": "scēoh、shei → shy；-ly 方式，-ness 状态，-ing 动作，三者保留 y；shied 改 y 为 i。",
+    "branches": [
+      [
+        "性质、表现与状态",
+        "shy · shyly · shyness"
+      ],
+      [
+        "正在回避、退缩",
+        "shying"
+      ]
+    ],
+    "contrasts": "shy 不等于能力低；shy away from 可非社交；shy of 数量是差一点到。",
+    "practice": "Despite her shyness, she did not shy away from the challenge.\n\n尽管有些害羞，她并没有回避挑战。",
+    "words": [
+      "shy",
+      "shyly",
+      "shyness",
+      "shying"
+    ],
+    "exclude": {
+      "love-shy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "B3317",
+    "meaning": "短促切击、切块与断续画面，筷子前项的来源另辨",
+    "core": "CHOP：一下下切开，波动也可以短而碎",
+    "image": "chop → chopped、chopper、choppy；chopstick 单列前项争论。",
+    "intro": "切好的状态、执行切割的工具、碎而不连贯的性质依次学。筷子的 stick 好认，前半历史则不能只看今天最熟的剁义。",
+    "forms": "choppen、chappen → chop；-ed、-er、-y 均双写 p；chopstick 复合中的 chop 旧义有争论。\n\n砍切 chop 远源不完全确定，可能有法语和日耳曼语材料；名词一击、切下块到肉排。另有交易、来回改变一支接古英语 ceapian，不把所有 chop and change 硬归刀切。",
+    "branches": [
+      [
+        "切击、状态与工具",
+        "chop · chopped · chopper"
+      ],
+      [
+        "短碎波动",
+        "choppy"
+      ],
+      [
+        "前项历史另辨的餐具",
+        "chopstick"
+      ],
+      [
+        "chop → chops、chopping：砍切与排骨块",
+        "chop · chops · chopped · chopping"
+      ]
+    ],
+    "contrasts": "choppy 不一定大浪；chopper 可直升机；chopsticks 常作一双餐具的复数表达。",
+    "practice": "The chopper produced finely chopped vegetables.\n\n切碎器把蔬菜切得很细。",
+    "words": [
+      "chop",
+      "chopped",
+      "chopper",
+      "choppy",
+      "chopstick",
+      "chops",
+      "chopping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4305",
+    "meaning": "品牌截段与广播混成，形成通用节目名和角色",
+    "core": "PODCAST：系列节目可以按需听，创作活动和人物再加后缀",
+    "image": "podcast → podcasting、podcaster。",
+    "intro": "节目、制作活动、创作者三层连着记。品牌词源属于命名历史，现代节目范围已经扩展。",
+    "forms": "iPod 的 pod + broadcast 的 cast → podcast；-ing 活动，-er 人物。\n\npodcast 的 pod 接 iPod 品牌截段，cast 接 broadcast 截段，现代节目名已超出原设备使用范围。",
+    "branches": [
+      [
+        "节目、活动与创作者",
+        "podcast · podcasting · podcaster"
+      ],
+      [
+        "podcast → podcasts；podcaster → podcasters",
+        "podcast · podcasts · podcaster · podcasters"
+      ]
+    ],
+    "contrasts": "不要求 iPod；podcast 可系列或一期；podcaster 不是普通听众。",
+    "practice": "The podcaster explained how podcasting changed her working life.\n\n播客创作者讲述了做播客怎样改变她的工作生活。",
+    "words": [
+      "podcast",
+      "podcasting",
+      "podcaster",
+      "podcasts",
+      "podcasters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1794",
+    "meaning": "方向词加朝向形式，-s 形成常见副词",
+    "core": "-WARDS：先定上、下、内、外，再加朝那个方向",
+    "image": "onwards、inwards 与 upwards、downwards、outwards、各方位词一组认识。",
+    "intro": "方向本身由前项给出，-wards 让它变成朝该方向。onwards 再延伸为时间从某点往后。",
+    "forms": "-ward 方向 + 副词 -s；up、down、in、out、north、east、south、west 给出具体方向。",
+    "branches": [
+      [
+        "继续前进与内外上下",
+        "onwards · inwards · outwards · upwards · downwards"
+      ],
+      [
+        "地理方位",
+        "northwards · eastwards · southwards · westwards"
+      ]
+    ],
+    "contrasts": "-s 不是复数；-ward、-wards 副词常有地区偏好；形容词通常 -ward。",
+    "practice": "From the gate onwards, the path curved inwards towards the garden.\n\n从大门开始，小路向花园内部弯去。",
+    "words": [
+      "onwards",
+      "inwards",
+      "outwards",
+      "upwards",
+      "downwards",
+      "northwards",
+      "eastwards",
+      "southwards",
+      "westwards"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3820",
+    "meaning": "成群动物与照看、赶牧的人",
+    "core": "HERD：一群动物需要照料，牧人名称按动物细分",
+    "image": "herd → herder、herdsman；shepherd、cowherd 说明照看什么。",
+    "intro": "herd 是群，herder 是人；旧牧人词在 sheep、cow 等复合里保留，才会出现看似没有 -er 的 shepherd、cowherd。",
+    "forms": "heord 动物群；hyrde、hierde 牧人词族；现代 herder 带 -er，herdsman 带 man。\n\n古英语 heord 动物群与牧人词族形成关系；动词用于照看、驱赶牲畜，也用于引导人群。现代 herd animals、herd people 的语气须看场景，不等于所有人群都应叫牲畜群。",
+    "branches": [
+      [
+        "动物群与牧人通称",
+        "herd · herder · herdsman"
+      ],
+      [
+        "按动物限定的牧人",
+        "shepherd · cowherd"
+      ],
+      [
+        "herd → herds、herded、herding：成群与赶成一群",
+        "herd · herds · herded · herding"
+      ]
+    ],
+    "contrasts": "herd 与 heard 同音；shepherd 不是简单把 sheep 原拼写贴到 herd；对人的 herd 比喻常有被集中赶的感觉。",
+    "practice": "The herder watched the herd while the shepherd checked the sheep.\n\n牧人看着兽群，牧羊人则查看羊群。",
+    "words": [
+      "herd",
+      "herder",
+      "herdsman",
+      "shepherd",
+      "cowherd",
+      "herds",
+      "herded",
+      "herding"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4482",
+    "meaning": "有意义、有分量或有暗示，区分方式与抽象性质",
+    "core": "MEANINGFUL：不只做了，还传达意思、产生分量",
+    "image": "meaningful → meaningfully、meaningfulness。",
+    "intro": "真正参与看效果，意味深长看暗示，meaningfulness 则把意义感本身拿来讨论。不是每处都直译成有重要意义。",
+    "forms": "meaning + -ful → meaningful；-ly 方式，-ness 性质。",
+    "branches": [
+      [
+        "性质、方式与意义感",
+        "meaningful · meaningfully · meaningfulness"
+      ]
+    ],
+    "contrasts": "meaningfully 可说眼神暗示；-fully 来自 -ful + -ly；meaningfulness 通常抽象不可数。",
+    "practice": "The volunteers contributed meaningfully and found the work meaningful.\n\n志愿者作出了实质贡献，也觉得工作有意义。",
+    "words": [
+      "meaningful",
+      "meaningfully",
+      "meaningfulness"
+    ],
+    "exclude": {}
+  }
+]

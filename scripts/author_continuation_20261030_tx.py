@@ -1,0 +1,91 @@
+"""Core motion and food verbs: past forms, homographs and retained old patterns."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B2964':dict(words=['run','ran'],label='run 的过去形式 ran',note='run → ran → run；现代 run 汇合了较早相关动词的材料，ran 保留旧过去式的元音。'),
+ 'B2979':dict(words=['sit','sat'],label='坐下、坐着的过去与分词 sat',note='sit → sat → sat；与 set 的放置动作不要混淆。'),
+ 'B2545':dict(words=['stand','stood'],label='站住、保持立场的过去形式 stood',note='stand → stood → stood；stood 的 oo 读 /ʊ/。'),
+ 'B2854':dict(words=['eat','ate','eaten'],label='eat、ate、eaten 的常用三式',note='ate 是一般过去，eaten 是过去分词；ate 在英式中可听到 /eɪt/、/et/ 等常见读音。'),
+ 'B2542':dict(words=['drink','drank','drunk'],label='drink、drank、drunk 的元音变化',note='drank 是过去式，drunk 是过去分词；drunk 另有醉的常用形容词义，已分别说明。'),
+ 'B2852':dict(words=['drive','drove','driven'],label='drive 到 drove、driven',note='drove 作动词是 drive 的过去式；同族名词 drove 是被赶在一起的兽群，in droves 又说成群结队。'),
+ 'B2609':dict(words=['fall','fell','fallen'],label='自己倒下与使它倒下：两套 fell 用法',note='fall → fell → fallen；另一个同族使役动词 fell 是使倒下、砍倒，过去式 felled。'),
+ 'B2862':dict(words=['fly','flew','flown'],label='fly、flew、flown 的常用三式',note='flew /fluː/ 是过去式，flown /fləʊn/ 或 /floʊn/ 是过去分词。'),
+ 'B2866':dict(words=['forget','forgot','forgotten'],label='forget 到 forgot、forgotten',note='forget 接旧 for- 与取得、掌握材料；忘记义在较早英语中已经存在，不能把助记的失去抓握画面当成有记录的物理义先后史。'),
+}
+W('ran','/ræn/','跑了、运行了、经营过；run 的过去式',
+ 'run 的跑、流动、运转、经营放进过去，形式变成 ran。看主语是人、机器、水，还是经营者，就能找到具体分支。',
+ '现代 run 汇合了较早英语中相关的跑、流动与使跑动词材料；古英语 rinnan、irnan 等有 ran 一类过去形式，后延续为现代 ran。',
+ [['较早相关跑动词及 ran 等过去形式','跑、流动及对应过去'],['现代 run → ran → run','一般过去 ran；过去分词 run']],
+ 'ran home 跑回家；ran the shop 经营过商店；ran out of time 时间用完了；ran smoothly 运行顺利。',
+ 'ran a business；ran across the field。','ran 是一般过去，run 也承担过去分词：She ran the shop；She has run it for years。词形相同的 run 不一定都是现在时。',
+ ('He ran across the field to catch the dog.','他跑过田野去追那只狗。'),('She ran a small bookshop for ten years.','她经营过一家小书店，做了十年。'),sources=['https://www.etymonline.com/word/run','https://en.wiktionary.org/wiki/ran#English'])
+W('sat','/sæt/','坐着、坐下了；sit 的过去式、过去分词',
+ '把坐的姿势或坐下的动作放在过去，用 sat。The box sat on the shelf 又可说箱子一直待在架子上。',
+ '接古英语 sittan 的过去式 sæt 等旧强变位形式；现代过去分词也采用 sat，较早另有 sitten 等。',
+ [['古英语 sittan、sæt 等','坐及相应过去形式'],['现代 sit → sat → sat','过去与过去分词同形']],
+ 'sat down 坐下了；sat by the window 坐在窗边；sat still 一动不动地坐着；have sat here 已在这里坐着。',
+ 'sat beside a friend；sat on the floor。','sit 是坐、处于位置，set 通常是放置：She sat down；She set the bag down。sat 的 /æ/ 不同于 set 的 /e/。',
+ ('We sat by the window and watched the rain.','我们坐在窗边看雨。'),('The old box sat untouched on the shelf for years.','那只旧箱子在架子上放了多年，一直没人动。'),sources=['https://www.etymonline.com/word/sit','https://en.wiktionary.org/wiki/sat#English'])
+W('stood','/stʊd/','站着、站住了；坚持、处于某位置；stand 的过去式、过去分词',
+ '过去人站在那里，某样东西立在那里，或一个人守着立场不退，都可以用 stood。',
+ '接古英语 standan 的过去式 stod 等旧强变位形式，现代过去分词也用 stood。词干里元音和 n 的不同都有较早历史。',
+ [['古英语 standan、stod 等','站立、保持位置及其过去形式'],['现代 stand → stood → stood','过去和过去分词同形']],
+ 'stood at the door 站在门边；stood up 起身站起；stood firm 坚持不退；stood out 显眼、出众。',
+ 'stood beside the gate；stood her ground。','stood 的 oo 读 /ʊ/，与 food 的 /uː/ 不同。was standing 常描写当时正在站着，stood 则可直接叙述过去的站立状态或动作。',
+ ('He stood at the door, waiting for us.','他站在门边等我们。'),('She stood firm despite the criticism.','尽管受到批评，她仍坚持立场。'),sources=['https://www.etymonline.com/word/stand','https://en.wiktionary.org/wiki/stood#English'])
+W('ate','英 /eɪt/ 或 /et/；美 /eɪt/','吃了；eat 的过去式',
+ '过去把食物吃下去，形式用 ate。eat 的“耗掉、侵蚀”比喻也能放进过去，但日常最先掌握吃饭这一支。',
+ '接古英语 etan 的过去式 æt 等旧形式，经中古英语与后续语音变化延续。现代拼写、读音保留 eat 的不规则变位。',
+ [['古英语 etan、æt 等','吃及相应过去形式'],['现代 eat → ate → eaten','一般过去 ate；过去分词 eaten']],
+ 'ate breakfast 吃了早饭；ate an apple 吃了苹果；ate out 在外面吃饭了；ate up the food 把食物吃完了。',
+ 'ate together；ate too quickly。','ate 是一般过去，eaten 常用于完成结构：I ate earlier；I’ve already eaten。英式 /et/ 与 /eɪt/ 都能遇到。',
+ ('We ate breakfast outside.','我们在外面吃了早饭。'),('She ate the apple on the way home.','回家路上，她吃了那个苹果。'),sources=['https://www.etymonline.com/word/eat','https://en.wiktionary.org/wiki/ate#English'])
+W('drank','/dræŋk/','喝了；drink 的过去式',
+ '水、茶、其他饮料喝下去这件事在过去发生，就用 drank。它本身不等于喝酒，更不等于喝醉。',
+ '接古英语 drincan 的过去式 dranc 等，属于较早以元音变化区别时态的词族。现代仍有 drink、drank、drunk 三种主要形式。',
+ [['古英语 drincan、dranc、druncen 等','喝及相应过去、分词形式'],['现代 drink → drank → drunk','一般过去 drank；过去分词 drunk']],
+ 'drank some water 喝了些水；drank tea 喝茶了；drank from a cup 用杯子喝；drank in the view 饱览景色〔比喻〕。',
+ 'drank slowly；drank a glass of milk。','drank 是动词过去式，drunk 还可作醉了的形容词。He drank water 不含喝醉的意思；He was drunk 才说醉了。',
+ ('He drank a glass of water after the walk.','散步后，他喝了一杯水。'),('We drank tea and talked for an hour.','我们喝着茶聊了一个小时。'),sources=['https://www.etymonline.com/word/drink','https://en.wiktionary.org/wiki/drank#English'])
+W('drove','英 /drəʊv/；美 /droʊv/','开车了、驱赶了、促使了；兽群〔另为同族名词〕',
+ '动词里，车被驾驶、人被某股力量推动；名词里，一群牲畜被赶着走。这两面都能联系 drive 的推动、驱赶。',
+ '动词接古英语 drifan 的过去式 draf 等。名词 drove 另承接古英语 draf 赶在一起的牲畜、赶牲畜的行动等，与 drive 同族。',
+ [['古英语 drifan、draf 的动词变位','驱赶、推动的过去形式'],['同族名词 draf → drove','被赶在一起的兽群；in droves 成群结队']],
+ 'drove home 开车回家了；drove the sheep away 赶走了羊；a drove of cattle 一群牛；arrive in droves 成群涌来。',
+ 'drive → drove → driven；in droves。','drove 作过去式，完成时通常用 driven。in droves 用的是复数名词，不是把过去式任意加 s。',
+ ('She drove home before dark.','她在天黑前开车回到了家。'),('Fans arrived in droves for the concert.','歌迷成群结队地赶来听音乐会。'),sources=['https://www.etymonline.com/word/drove','https://en.wiktionary.org/wiki/drove#English'])
+W('fell','/fel/','落下、倒下了〔fall 过去式〕；砍倒、击倒〔另一同族动词〕',
+ '树自己倒了：The tree fell；有人把树砍倒：They felled the tree。fell 在第一句是过去式，在第二种动词里却是原形。',
+ 'fall 的过去 fell 接古英语 feoll。使倒下的独立动词 fell 接古英语 fællan、fyllan，是与 fall 同族的使役形式：让它倒下。',
+ [['古英语 feallan、feoll → fall、fell','自己落下、倒下的过去表达'],['古英语使役动词 fællan 等 → fell','使某物倒下、砍倒']],
+ 'fell asleep 睡着了；fell down 跌倒了；fell in love 爱上了；fell a tree 砍倒一棵树。',
+ 'fall → fell → fallen；fell → felled → felled。','have fallen 是倒下的完成表达；have felled 是已经砍倒某物。看 fell 后面是否直接接被砍倒的对象，有助于分清两套动词。',
+ ('The branch fell into the river.','树枝落进了河里。'),('The workers felled the damaged tree.','工人们砍倒了那棵受损的树。'),sources=['https://www.etymonline.com/word/fell','https://en.wiktionary.org/wiki/fell#English'])
+W('flew','/fluː/','飞了、乘飞机去了；飞逝了；fly 的过去式',
+ '鸟飞过河，人坐飞机离开，或者聊得开心时光飞逝，都可用 flew 把 fly 的画面放进过去。',
+ 'fly 接古英语 fleogan 等飞行词族，过去形式有不同元音；flew 延续这套较早强变位的变化。',
+ [['古英语 fly 的飞行词族及过去形式','在空中移动；相应旧过去表达'],['现代 fly → flew → flown','一般过去 flew；过去分词 flown']],
+ 'flew across the river 飞过河；flew to a city 乘飞机去某城；time flew 时间飞逝；flew into a rage 勃然大怒。',
+ 'flew away；the days flew by。','flew /fluː/ 是过去式，flown 的元音不同。flew 与 flu 流感在常见读音中同音，但词源和意义不同。',
+ ('The bird flew across the river.','那只鸟飞过了河。'),('Time flew while we were talking.','我们聊天时，时间过得飞快。'),sources=['https://www.etymonline.com/word/fly','https://en.wiktionary.org/wiki/flew#English'])
+W('flown','英 /fləʊn/；美 /floʊn/','已经飞过、已乘飞机前往；fly 的过去分词',
+ '跟 has、have、had 连起来，把飞行接到已经发生的经历；还可说某物是空运来的。',
+ '接 fly 的较早分词材料，现代保留 -n 结尾，形成 fly、flew、flown 的三式。词形变化标记语法，不是飞行变成另一类动作。',
+ [['fly 词族的较早飞行分词形式','已进行的飞行动作'],['现代 fly → flew → flown','flown 用于完成结构、被动等']],
+ 'has flown to Paris 已乘飞机去了巴黎；flown in by helicopter 由直升机空运进来；time has flown 时间已飞快过去。',
+ 'have never flown before；flown across the ocean。','flew 是一般过去；flown 是过去分词：She flew yesterday；She has flown before。常见 flown 的元音类似 flow。',
+ ('I have never flown in a helicopter.','我从未坐过直升机。'),('The supplies were flown to the island.','补给品被空运到了岛上。'),sources=['https://www.etymonline.com/word/fly','https://en.wiktionary.org/wiki/flown#English'])
+W('forgot','英 /fəˈɡɒt/；美 /fərˈɡɑːt/','忘了、没记住；forget 的过去式',
+ '脑子里该叫出来的记忆没叫出来，或者要办的事没记住。forgot to lock 是忘了去锁，forgot locking 则偏向忘了已经锁过这件事。',
+ 'forget 接古英语 forgietan，for- 在此常作失去、离开等理解，gietan 联系取得、掌握。可用脑中没抓住助记，但较早实际记录已是忘记，不应虚构物理义先行的故事。',
+ [['古英语 forgietan → 后来 forget','较早已有忘记、忽略义'],['现代 forget → forgot → forgotten','一般过去 forgot；常见过去分词 forgotten']],
+ 'forgot the name 忘了名字；forgot to call 忘了打电话；forgot about the appointment 忘了约定；forgot where it was 忘了在哪里。',
+ 'completely forgot；forgot to bring the key。','forget to do 常说该做却忘了做；forget doing 常说不记得做过。forgot 是过去式，完成时常用 forgotten。',
+ ('I forgot to bring my notebook.','我忘了带笔记本。'),('She forgot where she had parked the car.','她忘了自己把车停在哪里。'),sources=['https://www.etymonline.com/word/forget','https://en.wiktionary.org/wiki/forgot#English'])
+def extend_lessons():
+    extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+    save('continuation_20261030_tx',ROOTS,WORDS)
+    extend_lessons()

@@ -5,7 +5,7 @@
     "core": "PROB = TEST / PROVE / APPROVE",
     "image": "拿来检验：站得住吗？合格吗？值得认可吗？",
     "intro": "**prob-** 的出发点是拉丁语 **probus**“好的、可靠的、正直的”，以及动词 **probāre**“检验、证明、认可”。可以想象一件东西拿来验收：先 **probe** 探查，用证据 **prove** 它符合要求，再 **approve** 表示认可；这是一幅帮助理解的画面，不是三个英语词互相演化的历史顺序。",
-    "forms": "**prob- / prov- / proof**：同一拉丁词族经过不同借入路线，留下不同拼写。prove 常经法语动词，proof 有独立的名词历史，probe 则保留较明显的 b。不要把它们画成现代英语 prove → proof → probe。\n\n**probable 与 provable** 都和“可信、能证明”相关，但今天一个是“很可能”，另一个是“可证明”。**probity** 直接保留“正直品格”这一支。\n\n**approve** 的 ap- 是拉丁 ad- 在 p 前的同化；**reprove / reprobate** 中的 re- 随历史词义走向不认可、拒绝，不能固定套用“再次”。**improbable** 的 im- 则是否定前缀 in- 在 p 前的同化。\n\n**opprobrium** 虽然拼写里有 prob，却来自拉丁语 probrum“耻辱、责难”一支，不应塞进 probus“好的”这一词族。**improve** 也不是 im- + prove，历史上另有“有益、获利”的来源。",
+    "forms": "**prob- / prov- / proof**：同一拉丁词族经过不同借入路线，留下不同拼写。prove 常经法语动词，proof 有独立的名词历史，probe 则保留较明显的 b。不要把它们画成现代英语 prove → proof → probe。\n\n**probable 与 provable** 都和“可信、能证明”相关，但今天一个是“很可能”，另一个是“可证明”。**probity** 直接保留“正直品格”这一支。\n\n**approve** 的 ap- 是拉丁 ad- 在 p 前的同化；**reprove / reprobate** 中的 re- 随历史词义走向不认可、拒绝，不能固定套用“再次”。**improbable** 的 im- 则是否定前缀 in- 在 p 前的同化。\n\n**opprobrium** 虽然拼写里有 prob，却来自拉丁语 probrum“耻辱、责难”一支，不应塞进 probus“好的”这一词族。**improve** 也不是 im- + prove，历史上另有“有益、获利”的来源。\n\n好的、可靠的词族与检验、认可相连，过去词尾读 d。\n\n拉丁检验、认可词族经法语等借入，现代还可说结果证明是。\n\n拉丁 approbare 经法语借入，ad 在 p 前同化；批准与赞同有不同结构。\n\n法语 prover 接拉丁 probare，检验、证实的画面保留到现代。\n\nproofread 可能从较早 proofreader 反构；现代可以分辨 proof、read 两个部分。\n\n组合形容隔音性质，也可转动词表示做隔音处理。\n\n名词接中世纪拉丁 proba 检查，远接 probare 测试；动词既有名词转用也有拉丁词影响。英语动词抽象调查记录早于其具体用探针检查的用法，不把所有动词义倒排成先物后喻。",
     "branches": [
       [
         "拿出证据",
@@ -38,6 +38,34 @@
       [
         "经受影响、形成防护",
         "waterproof · soundproof · foolproof"
+      ],
+      [
+        "approve → approved：检验、认可与批准",
+        "approve · approved"
+      ],
+      [
+        "prove → proved：检验与证实",
+        "prove · proved"
+      ],
+      [
+        "approve → approving：认可与正式批准",
+        "approve · approved · approving · approval"
+      ],
+      [
+        "prove → proves：用结果把可靠性摆出来",
+        "prove · proves"
+      ],
+      [
+        "proof 的校样支：校对动作与校对者",
+        "proofread · proofreads · proofreader · proofreaders"
+      ],
+      [
+        "proof 的抵挡义进入 soundproof",
+        "soundproof · soundproofs · soundproofed"
+      ],
+      [
+        "probe：探查器具与深入追问",
+        "probe · probes · probed · probing"
       ]
     ],
     "contrasts": "**prove / probe / approve**：证明结论 / 深入探查 / 表示认可或批准。\n\n**probable / provable / proven**：很可能 / 可证明 / 已证明。**unproven / disproved / unprovable**：还未证实 / 已证伪 / 在相关条件内无法证明。\n\n**approval / approbation / probation**：认可、批准 / 较书面的赞许 / 试用与考察。**probate** 是遗嘱、遗产事务中的词。\n\n**disprove / disapprove / reprove**：证伪主张 / 不赞同 / 责备行为。\n\n**proofread** 现在读 /riːd/，过去读 /red/；**reprobate** 名词、形容词末尾 /ət/，动词末尾 /eɪt/。",
@@ -86,7 +114,18 @@
       "foolproof",
       "bulletproof",
       "soundproof",
-      "fireproof"
+      "fireproof",
+      "approved",
+      "proved",
+      "approving",
+      "proves",
+      "proofreads",
+      "proofreaders",
+      "soundproofs",
+      "soundproofed",
+      "probes",
+      "probed",
+      "probing"
     ],
     "exclude": {
       "opprobrium": "来自拉丁语 probrum“耻辱、责难”，不是 probus“好、可靠”这一词族；见 Etymonline opprobrium、Wiktionary opprobrium。"

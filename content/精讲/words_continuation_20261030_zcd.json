@@ -1,0 +1,547 @@
+[
+  {
+    "word": "seas",
+    "ipa": "/siːz/",
+    "meaning": "海域、海洋〔复数〕；海上波浪状况〔常用复数〕",
+    "sense": "地图上不同的几片海，是 seas；航海时说 rough seas，又常把海面持续起伏的波浪状况整体说出来。",
+    "split": "sea 继承古英语 sae，经中古英语发展，更远来源有不同分析。现代直接加 -s，元音后读 /z/，和 sees 同音。",
+    "history": [
+      [
+        "古英语 sae → 中古英语 see → sea",
+        "海、水域；更远词源未定"
+      ],
+      [
+        "sea + -s → seas",
+        "多片海域；海面波浪状况"
+      ]
+    ],
+    "explanation": "rough seas 波涛汹涌的海面；calm seas 平静海面；the open seas 开阔海域。",
+    "usage": "warm seas 温暖海域；sail across the seas 跨海航行。",
+    "contrast": "rough seas 不一定在数几片不同海洋，常说海浪状况。seas 与 sees 看见、seize 抓住可同音，书写和句法帮助判断。",
+    "examples": [
+      [
+        "The ship crossed warm seas.",
+        "船驶过温暖的海域。"
+      ],
+      [
+        "Rough seas delayed the journey.",
+        "汹涌海浪耽误了行程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seas#English",
+      "https://en.wiktionary.org/wiki/sea#English"
+    ]
+  },
+  {
+    "word": "securing",
+    "ipa": "英 /sɪˈkjʊərɪŋ/；美 /sɪˈkjʊrɪŋ/",
+    "meaning": "固定、使安全；争取得到〔现在分词、动名词〕",
+    "sense": "让东西不容易松动、失去或遭破坏，是 securing；把原本还没确定能拿到的机会稳稳争取下来，也叫 securing。",
+    "split": "secure 借拉丁 securus 安全、无忧虑，含 se- 离开、没有与 cura 忧虑。现代去结尾 e，加完整 -ing，/r/ 在元音前读出。",
+    "history": [
+      [
+        "拉丁 securus → 英语 secure",
+        "没有忧虑、安全 → 使稳固、确保取得"
+      ],
+      [
+        "secure 去 e + -ing → securing",
+        "正在固定、保护或争取得到"
+      ]
+    ],
+    "explanation": "securing the rope 固定绳索；securing a place 争取到名额；securing support 争取支持。",
+    "usage": "a way of securing the door 固定门的方法；securing the materials 固定材料或取得材料〔看语境〕。",
+    "contrast": "securing support 常指争取得到支持，不是给支持上锁。securing a board 则可能真是固定木板，宾语决定具体动作。",
+    "examples": [
+      [
+        "She is securing the papers with a clip.",
+        "她正用夹子固定文件。"
+      ],
+      [
+        "Securing a place on the course took some effort.",
+        "争取到这门课的名额费了一番力气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/securing#English",
+      "https://en.wiktionary.org/wiki/secure#English"
+    ]
+  },
+  {
+    "word": "sensors",
+    "ipa": "英 /ˈsensəz/；美 /ˈsensərz/",
+    "meaning": "传感器、感知装置〔复数〕",
+    "sense": "环境里有光、热、移动等变化，装置能察觉并给出信号，这些装置是 sensors。像给机器配上能感知某类变化的感官。",
+    "split": "sensor 连拉丁 sentire 感知的 sens- 词干与执行者词尾 -or，现代可和 sense 对照。名词加 -s，英音元音、美音 /r/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 sentire、sens- → 现代 sensor",
+        "感知 → 执行感知、探测的装置"
+      ],
+      [
+        "sensor + -s → sensors",
+        "多个传感器"
+      ]
+    ],
+    "explanation": "temperature sensors 温度传感器；motion sensors 运动感应器；sensors in the device 设备里的传感器。",
+    "usage": "light sensors 光传感器；signals from the sensors 传感器发出的信号。",
+    "contrast": "sensor 强调感知、探测，不保证它自己完成后续决定和动作。sensors 与 censors 审查者常同音，拼写和应用对象不同。",
+    "examples": [
+      [
+        "The device uses two temperature sensors.",
+        "这台装置使用两个温度传感器。"
+      ],
+      [
+        "The diagram shows where the sensors are placed.",
+        "示意图显示了传感器安装的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensors#English",
+      "https://en.wiktionary.org/wiki/sensor#English"
+    ]
+  },
+  {
+    "word": "shells",
+    "ipa": "/ʃelz/",
+    "meaning": "壳、外壳；炮弹等〔复数〕；去壳、炮击〔第三人称单数〕",
+    "sense": "包在外面的硬层，是 shells 的核心。海边捡到的贝壳、坚果壳、物件的外框都能由这个画面理解；其他固定分支仍看语境。",
+    "split": "shell 接古英语 scell 等外壳词，较远联系切分、剥离材料。现代直接加 -s，/l/ 后读 /z/；去壳动词与炮击动词各由相关名词义发展。",
+    "history": [
+      [
+        "古英语 scell → shell",
+        "外面的硬层 → 外框、弹壳等"
+      ],
+      [
+        "shell + -s → shells",
+        "多个外壳；某人去壳或按炮弹支作动词"
+      ]
+    ],
+    "explanation": "sea shells 海贝壳；nut shells 坚果壳；shells the peas 给豌豆去荚。",
+    "usage": "empty shells 空壳；shells on the beach 沙滩上的贝壳。",
+    "contrast": "shells 作动作也要看宾语：shells peas 是去荚，不能因另有炮击义就误读。词义从壳分支扩展后，各自有固定对象。",
+    "examples": [
+      [
+        "The children collected shells on the beach.",
+        "孩子们在海滩上捡贝壳。"
+      ],
+      [
+        "She shells the peas before dinner.",
+        "晚饭前她给豌豆去荚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shells#English",
+      "https://en.wiktionary.org/wiki/shell#English"
+    ]
+  },
+  {
+    "word": "speeches",
+    "ipa": "/ˈspiːtʃɪz/",
+    "meaning": "演说、讲话、致辞〔复数〕",
+    "sense": "一次正式对听众说的一段话，是 a speech；活动里有几个人轮流讲话，就是 several speeches。这里在数一场场讲话。",
+    "split": "speech 继承古英语 spǣċ、sprǣċ，经中古英语 speche，与 speak 有历史词族关系。现代 /tʃ/ 后加 -es，读 /ɪz/，形成 speeches。",
+    "history": [
+      [
+        "古英语话语名词 → speech",
+        "讲话、语言 → 一篇或一次演说"
+      ],
+      [
+        "speech + -es → speeches",
+        "多篇演说、多次致辞"
+      ]
+    ],
+    "explanation": "give speeches 发表演说；short speeches 简短致辞；opening speeches 开场讲话。",
+    "usage": "a collection of speeches 一部演说集；speeches at the ceremony 仪式上的致辞。",
+    "contrast": "speech 谈说话能力、语言现象时常不可数；speeches 则通常是一次次或一篇篇具体讲话，不是把能力随意数成几份。",
+    "examples": [
+      [
+        "The ceremony included three short speeches.",
+        "仪式安排了三段简短致辞。"
+      ],
+      [
+        "She listened to the speeches carefully.",
+        "她认真听了这些讲话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speeches#English",
+      "https://en.wiktionary.org/wiki/speech#English"
+    ]
+  },
+  {
+    "word": "steering",
+    "ipa": "英 /ˈstɪərɪŋ/；美 /ˈstɪrɪŋ/",
+    "meaning": "掌舵、转向；引导〔现在分词、动名词及相关名词〕",
+    "sense": "让车、船往选定方向走，是 steering；把讨论带向一个主题，也像替它掌方向，所以能说 steering the discussion。",
+    "split": "方向动词 steer 接古英语 steoran、styran 等，现代直接加完整 -ing。它与同形的公牛名 steer 近源分开；这里不从牛名派生。",
+    "history": [
+      [
+        "古英语掌舵、引导词 → steer",
+        "控制船的方向 → 泛指引导"
+      ],
+      [
+        "steer + -ing → steering",
+        "转向、掌舵的过程；相关系统、机构名称"
+      ]
+    ],
+    "explanation": "a steering wheel 方向盘；power steering 助力转向；steering the discussion 引导讨论。",
+    "usage": "a steering committee 指导委员会；steering the boat 操纵船的方向。",
+    "contrast": "steering committee 是负责方向、协调的小组，不是每位成员都在开车。实物转向和组织引导共用方向的比喻。",
+    "examples": [
+      [
+        "She was steering the boat towards the shore.",
+        "她正在把船驶向岸边。"
+      ],
+      [
+        "He is steering the discussion towards practical questions.",
+        "他正在把讨论引向实际问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steering#English",
+      "https://en.wiktionary.org/wiki/steer#English"
+    ]
+  },
+  {
+    "word": "substances",
+    "ipa": "/ˈsʌbstənsɪz/",
+    "meaning": "物质、材料〔复数〕",
+    "sense": "瓶里、岩石里或样品中有哪几种东西组成的物质，可以说 substances。它常把材料种类分开谈，不要求每一种都有固定外形。",
+    "split": "substance 经法语接拉丁 substantia，连 sub- 在下与 stare 站形成的 substare 支撑、存在。现代直接加 -s，词干末尾 /s/ 后读 /ɪz/，保留已有 e。",
+    "history": [
+      [
+        "拉丁 substare、substantia → 法语、英语 substance",
+        "在下支撑、存在 → 实质、物质"
+      ],
+      [
+        "substance + -s → substances",
+        "不同物质、材料种类"
+      ]
+    ],
+    "explanation": "different substances 不同物质；natural substances 天然物质；substances in the sample 样品中的物质。",
+    "usage": "identify the substances 辨认物质；solid substances 固体物质。",
+    "contrast": "substances 常数种类或可区分的物质。substance 作实质内容时常不可数，the argument has no substance 是说论点缺乏实质，不是在数材料。",
+    "examples": [
+      [
+        "The samples contain different substances.",
+        "这些样品含有不同物质。"
+      ],
+      [
+        "The class compared how several substances dissolve in water.",
+        "课堂上比较了几种物质在水中的溶解情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/substances#English",
+      "https://en.wiktionary.org/wiki/substance#English"
+    ]
+  },
+  {
+    "word": "upgraded",
+    "ipa": "/ʌpˈɡreɪdɪd/",
+    "meaning": "升级了、提高等级的〔过去式、过去分词〕",
+    "sense": "原来的等级不够用，把它往更高一级调整，是 upgraded。可以换设备、提升服务等级，也可以改善某项设施。",
+    "split": "英语 up 向上 + grade 等级 → upgrade。现代去结尾 e 加完整 -ed，词干 /d/ 后读 /ɪd/，所以 upgraded 末尾有单独音节。",
+    "history": [
+      [
+        "grade 等级 + up 向上 → upgrade",
+        "向更高等级调整；英语内部构词"
+      ],
+      [
+        "upgrade 去 e + -ed → upgraded",
+        "已经升级、改进或提高等级"
+      ]
+    ],
+    "explanation": "upgraded the equipment 升级了设备；an upgraded version 升级版本；upgraded facilities 改善过的设施。",
+    "usage": "upgraded to a larger room 升到更大房间；recently upgraded 最近升级过的。",
+    "contrast": "upgraded 表示做了升级，不保证每个方面都更适合所有人。updated 只强调更新到新状态，未必提高等级。",
+    "examples": [
+      [
+        "The library upgraded its computer equipment.",
+        "图书馆升级了电脑设备。"
+      ],
+      [
+        "We stayed in an upgraded room.",
+        "我们住进了升级后的房间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upgraded#English",
+      "https://en.wiktionary.org/wiki/upgrade#English"
+    ]
+  },
+  {
+    "word": "attributes",
+    "ipa": "名词 /ˈætrɪbjuːts/；动词 /əˈtrɪbjuːts/",
+    "meaning": "特征、属性、优点〔复数〕；把……归于〔第三人称单数〕",
+    "sense": "人或物身上具备的特点，是 attributes；认为某个结果应算在某个原因头上，动词也用 attributes。一个说被赋予的性质，一个说把归属分派过去。",
+    "split": "拉丁 ad- 朝向在 t 前同化，与 tribuere 分派形成 attribuere。名词接 attributum 被赋予的东西，动词接相关分词材料。现代加 -s，/t/ 后读 /s/，名词前重音、动词后重音。",
+    "history": [
+      [
+        "拉丁 attribuere、attributum 等 → attribute 名词、动词",
+        "分派给 → 特性、属性；把结果归给原因"
+      ],
+      [
+        "attribute + -s → attributes",
+        "多个特征；某人把某事归于某因"
+      ]
+    ],
+    "explanation": "personal attributes 个人特质；useful attributes 有用的特性；attributes success to practice 把成功归于练习。",
+    "usage": "the attributes of the material 材料的属性；attributes the delay to traffic 把延误归于交通。",
+    "contrast": "动词 attributes A to B 的方向是把 A 归到 B。名词 attributes 则是在数特点，两种句法与重音要一起记。",
+    "examples": [
+      [
+        "Patience is one of her strongest attributes.",
+        "耐心是她最突出的优点之一。"
+      ],
+      [
+        "She attributes her success to regular practice.",
+        "她把成功归于经常练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attributes#English",
+      "https://en.wiktionary.org/wiki/attribute#English"
+    ]
+  },
+  {
+    "word": "baked",
+    "ipa": "/beɪkt/",
+    "meaning": "烘烤了、烤制的〔过去式、过去分词及形容词〕",
+    "sense": "把食物放进干热环境，热量逐渐让它熟，是 baked。面包、蛋糕、土豆都能这样说，重点是烘烤这种加热方式。",
+    "split": "bake 继承古英语 bacan 的烘烤词。现代去末尾 e，加完整 -ed；/k/ 是清辅音，所以 -ed 读 /t/，baked 只有一个音节。",
+    "history": [
+      [
+        "古英语 bacan → 中古英语 baken → bake",
+        "烘烤、用干热使熟"
+      ],
+      [
+        "bake 去 e + -ed → baked",
+        "已经烘烤；烤制的"
+      ]
+    ],
+    "explanation": "baked bread 烤好的面包；a baked potato 烤土豆；freshly baked 刚烤好的。",
+    "usage": "baked a cake 烤了蛋糕；oven-baked 烤箱烤制的〔组合表达〕。",
+    "contrast": "baked 不只是蛋糕专用词。boiled 突出煮，fried 突出煎炸，baked 抓干热烘烤；同一食物也可能有不同做法。",
+    "examples": [
+      [
+        "She baked a cake for the party.",
+        "她为聚会烤了一个蛋糕。"
+      ],
+      [
+        "The kitchen smelled of freshly baked bread.",
+        "厨房里有刚烤好面包的香气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/baked#English",
+      "https://en.wiktionary.org/wiki/bake#English"
+    ]
+  },
+  {
+    "word": "coloured",
+    "ipa": "英 /ˈkʌləd/；美 /ˈkʌlərd/",
+    "meaning": "有颜色的、着色的；影响了看法〔过去式、过去分词及形容词〕",
+    "sense": "给原来不显眼的东西添上色彩，是 coloured。若经历让一个人看事情带上某种色彩，也能说那段经历 coloured 他的看法。",
+    "split": "colour 是 color 的对应拼写，经法语接拉丁 color。现代词干末尾是 r，直接加完整 -ed，保留 u；英音元音、美音 /r/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 color → 法语、英语 colour、color",
+        "颜色、外观 → 着色；给判断带来某种色彩"
+      ],
+      [
+        "colour + -ed → coloured",
+        "着过色的、有颜色的；看法受影响了"
+      ]
+    ],
+    "explanation": "coloured paper 彩纸；brightly coloured 色彩鲜艳的；coloured his opinion 影响了他的看法。",
+    "usage": "coloured pencils 彩色铅笔；coloured by experience 受经历影响的。",
+    "contrast": "coloured 与 colored 在这里对应拼写。有颜色是实物义，coloured her judgement 则说判断受某个因素影响，常带主观色彩。",
+    "examples": [
+      [
+        "The children used coloured paper for the decorations.",
+        "孩子们用彩纸做装饰。"
+      ],
+      [
+        "Her early experience coloured her view of the city.",
+        "早年的经历影响了她对这座城市的看法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coloured#English",
+      "https://en.wiktionary.org/wiki/colour#English"
+    ]
+  },
+  {
+    "word": "cracking",
+    "ipa": "/ˈkrækɪŋ/",
+    "meaning": "裂开、发出裂声；解开难题〔现在分词、动名词〕；很棒的〔口语形容词〕",
+    "sense": "听见咔的一声，表面出现裂纹，是 cracking；难题终于找到突破口，也像把外壳打开，所以能说 cracking a puzzle。",
+    "split": "crack 接古英语 cracian 尖响材料，裂开与拟声联系密切。现代直接加完整 -ing，词尾已有 ck，不再添一个 k。很棒的褒义是另一个固定口语发展。",
+    "history": [
+      [
+        "古英语尖响材料 → crack",
+        "爆裂声 → 裂开、裂缝；后来有解开、突破等义"
+      ],
+      [
+        "crack + -ing → cracking",
+        "正在裂、发声或解题；也有固定口语褒义"
+      ]
+    ],
+    "explanation": "cracking ice 正在裂开的冰；cracking a puzzle 解开谜题；a cracking performance 很棒的表演〔口语〕。",
+    "usage": "the sound of cracking wood 木头开裂声；cracking jokes 讲笑话。",
+    "contrast": "cracking a joke 是说笑话，不是把笑话弄坏；a cracking game 可能是在夸比赛精彩。遇到固定搭配，要由宾语或所修饰对象判断。",
+    "examples": [
+      [
+        "The ice is cracking near the edge.",
+        "边缘附近的冰正在开裂。"
+      ],
+      [
+        "Cracking the puzzle took her an hour.",
+        "解开谜题花了她一小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cracking#English",
+      "https://en.wiktionary.org/wiki/crack#English"
+    ]
+  },
+  {
+    "word": "enabling",
+    "ipa": "/ɪˈneɪblɪŋ/",
+    "meaning": "使能够、提供条件；启用〔现在分词、动名词及形容词〕",
+    "sense": "某个人原本做不到，现在有了资源、条件或权限能做，是 enabling。电脑里启用功能，就是让原本没起作用的功能可以工作。",
+    "split": "英语 en- 使 + able 能够的 → enable。现代去末尾 e，加完整 -ing，读 /blɪŋ/，不把 -bling 当成这里独立的后缀。",
+    "history": [
+      [
+        "en- + able → enable",
+        "使成为能够的 → 提供条件、启用"
+      ],
+      [
+        "enable 去 e + -ing → enabling",
+        "正在使能够；提供实现条件的"
+      ]
+    ],
+    "explanation": "enabling access 让访问成为可能；enabling the team to continue 使团队能继续；enabling a feature 启用功能。",
+    "usage": "an enabling environment 有利于发挥能力的环境；enabling change 为变化提供条件。",
+    "contrast": "enable someone to do 是使某人能做，主语通常提供条件。enable a feature 则把某功能开起来，不只是说明它在一般意义上有能力。",
+    "examples": [
+      [
+        "The grant is enabling the team to continue its work.",
+        "这笔资助使团队能够继续工作。"
+      ],
+      [
+        "The tutorial explains enabling and disabling the feature.",
+        "教程说明了怎样启用和停用该功能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enabling#English",
+      "https://en.wiktionary.org/wiki/enable#English"
+    ]
+  },
+  {
+    "word": "enrolled",
+    "ipa": "英 /ɪnˈrəʊld/；美 /ɪnˈroʊld/",
+    "meaning": "报名了、登记了；已入学、已注册的〔过去式、过去分词〕",
+    "sense": "把名字正式放进班级、机构或项目的名册，成为其中一员，是 enrolled。它强调正式登记，不只是随便听说或临时路过。",
+    "split": "经盎格鲁法语 enroller：en- 进入 + rolle 登记卷，较早接拉丁 rotulus。现代 enrol 加 -ed 前双写 l；enroll 已有两个 l，直接加 -ed，两路都写 enrolled，尾 /d/。",
+    "history": [
+      [
+        "拉丁卷轴材料 → 法语 enroller → enrol、enroll",
+        "列入登记卷 → 报名、招收"
+      ],
+      [
+        "enrol 双写 l + -ed；enroll 直接加 -ed → enrolled",
+        "已经报名、登记或注册"
+      ]
+    ],
+    "explanation": "enrolled in a course 报了一门课；enrolled students 已注册学生；enrolled at the school 在该校入学。",
+    "usage": "newly enrolled 新报名、入学的；enrolled her in the class 给她报了这个班。",
+    "contrast": "enrolled 可以说自己报名，也可以说别人替某人登记或学校招收。常见结构是 enrol in、enrol on 或 enrol at，随课程、机构与地区用法变化。",
+    "examples": [
+      [
+        "She enrolled in a drawing course.",
+        "她报了一门绘画课。"
+      ],
+      [
+        "The school welcomed the newly enrolled students.",
+        "学校欢迎新入学的学生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enrolled#English",
+      "https://en.wiktionary.org/wiki/enroll#English",
+      "https://en.wiktionary.org/wiki/enrol#English"
+    ]
+  },
+  {
+    "word": "excluding",
+    "ipa": "/ɪkˈskluːdɪŋ/",
+    "meaning": "不包括、不计入；排除、拒绝纳入〔现在分词、动名词及介词用法〕",
+    "sense": "先画一个范围，把某项留在外面，是 excluding。清单里说明不包括谁，或讨论时没让某人参与，都能用它表达。",
+    "split": "exclude 接拉丁 excludere：ex- 向外 + claudere 关闭，复合词中为 -cludere。现代去末尾 e，加完整 -ing；形式也可固定作不包括的介词用法。",
+    "history": [
+      [
+        "拉丁 ex- + claudere → excludere → exclude",
+        "关在外面 → 不让进入、排除"
+      ],
+      [
+        "exclude 去 e + -ing → excluding",
+        "正在排除；列举范围时表示不包括"
+      ]
+    ],
+    "explanation": "excluding the guide 不包括向导；excluding breaks 不算休息时间；excluding someone from a discussion 不让某人参与讨论。",
+    "usage": "excluding transport 不包括交通；excluding one item 除去一项。",
+    "contrast": "excluding 和 including 方向相反。写一共几人 excluding the guide 时，导游在那个数字之外，不要把他再算进已经给出的总数。",
+    "examples": [
+      [
+        "The group has ten people, excluding the guide.",
+        "小组有十个人，不包括向导。"
+      ],
+      [
+        "They were criticised for excluding new members from the discussion.",
+        "他们因不让新成员参与讨论而受到批评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excluding#English",
+      "https://en.wiktionary.org/wiki/exclude#English"
+    ]
+  },
+  {
+    "word": "forgetting",
+    "ipa": "英 /fəˈɡetɪŋ/；美 /fərˈɡetɪŋ/",
+    "meaning": "忘记、遗忘〔现在分词、动名词〕",
+    "sense": "本来该留在脑中的名字、事情或动作，没有记住，是 forgetting。keep forgetting 则说这种漏掉反复出现。",
+    "split": "forget 继承古英语 forgietan 的忘记词，for- 与丧失、偏离有关，gietan 与获得同族。现代末尾重读闭音节，先双写 t，再加完整 -ing。",
+    "history": [
+      [
+        "古英语 forgietan → forget",
+        "忘记；不是现代 for 为了加 get 的临时组合"
+      ],
+      [
+        "forget 双写 t + -ing → forgetting",
+        "正在遗忘；忘记这件事"
+      ]
+    ],
+    "explanation": "keep forgetting names 总忘记名字；forgetting to bring the key 忘记带钥匙；without forgetting… 同时不忘……。",
+    "usage": "forgetting a password 忘记密码；forgetting what happened 忘记发生过什么。",
+    "contrast": "forgetting to do 说该做的事没记着去做，forgetting doing 说对做过的事失去记忆。过去式 forgot、过去分词 forgotten 则是另一组变化。",
+    "examples": [
+      [
+        "I keep forgetting his name.",
+        "我总是忘记他的名字。"
+      ],
+      [
+        "Forgetting a password can be frustrating.",
+        "忘记密码会让人很烦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forgetting#English",
+      "https://en.wiktionary.org/wiki/forget#English"
+    ]
+  }
+]

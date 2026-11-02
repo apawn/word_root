@@ -1,0 +1,528 @@
+[
+  {
+    "word": "threat",
+    "ipa": "/θret/",
+    "meaning": "威胁、威胁的话；危险迹象、危险来源",
+    "sense": "有人说要伤害、处罚你，是 a threat；洪水逼近、设备可能损坏，也能成为 a threat，不一定有一个故意恐吓的人。",
+    "split": "承古英语 þrēat，经中古英语 thret、threte 等到现代；旧义有人群、压力、困扰、威胁，现代危险、恐吓义突出。",
+    "history": [
+      [
+        "古英语 þrēat",
+        "人群、压迫、困扰、威胁等旧义"
+      ],
+      [
+        "中古英语 → 现代 threat",
+        "威胁表达；可能造成损害的来源、迹象"
+      ]
+    ],
+    "explanation": "make a threat 发出威胁，a threat to wildlife 对野生动物的威胁，under threat 受到威胁，the threat of rain 下雨的可能迹象。",
+    "usage": "a threat to；under threat；make a threat。",
+    "contrast": "threat 是名词，threaten 是常用动词；表示潜在危险时，不必有人的恶意。",
+    "examples": [
+      [
+        "The storm posed a threat to the coastal villages.",
+        "暴风雨威胁着沿海村庄。"
+      ],
+      [
+        "She refused to be intimidated by his threats.",
+        "她不肯被他的威胁吓住。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/threat#English"
+    ]
+  },
+  {
+    "word": "threaten",
+    "ipa": "/ˈθretən/，也可读 /ˈθretn̩/",
+    "meaning": "威胁、扬言；危及；预示不好的事",
+    "sense": "把危险压到面前：人可以扬言要做坏事，洪水可以危及村庄，乌云可以预示要下雨。动作、迹象都能 threaten。",
+    "split": "承中古英语 thretenen、古英语 þrēatnian，现代对应 threat + 动词 -en。不是在 threat 后加了一个表示多次的音节。",
+    "history": [
+      [
+        "古英语 þrēat",
+        "人群、压迫、困扰、威胁等旧义"
+      ],
+      [
+        "古英语 þrēatnian → threaten",
+        "迫使、威胁；现代对应 threat + -en"
+      ]
+    ],
+    "explanation": "threaten to leave 扬言离开，threaten someone with something 用某事威胁某人，threaten the harvest 危及收成。",
+    "usage": "threaten to do；threaten someone with。",
+    "contrast": "threaten to do 的主语可以有意扬言，也可能事情眼看要发生，如 a wall threatened to collapse；具体看主语。",
+    "examples": [
+      [
+        "The rising water threatened the bridge.",
+        "上涨的水位危及那座桥。"
+      ],
+      [
+        "He threatened to cancel the meeting.",
+        "他扬言要取消会议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/threaten#English"
+    ]
+  },
+  {
+    "word": "threatening",
+    "ipa": "/ˈθretənɪŋ/，也读 /ˈθretnɪŋ/",
+    "meaning": "威胁性的、来势不妙的；threaten 的现在分词",
+    "sense": "声音让你觉得有人要动手，是 threatening；乌云让你觉得暴雨将至，也能 threatening。它把正在威胁或显出危险的状态放在眼前。",
+    "split": "threaten + -ing；中古英语已有相应形式。可作进行动作，也可作形容词；threat + -en 是更里层动词结构。",
+    "history": [
+      [
+        "古英语 þrēat",
+        "人群、压迫、困扰、威胁等旧义"
+      ],
+      [
+        "古英语 þrēatnian → threaten",
+        "迫使、威胁；现代对应 threat + -en"
+      ],
+      [
+        "threaten + -ing → threatening",
+        "正在威胁，或显出可能伤害的性质；-ly 再说方式"
+      ]
+    ],
+    "explanation": "a threatening tone 威胁语气，threatening clouds 来势不妙的云，threatening behaviour 带威胁性的行为。",
+    "usage": "a threatening tone；threatening clouds。",
+    "contrast": "threatening 不只说对方明确讲了威胁话，也可来自姿态、环境；threatened 则常说受到威胁的对象。",
+    "examples": [
+      [
+        "His threatening tone made the room fall silent.",
+        "他威胁性的语气让房间安静下来。"
+      ],
+      [
+        "Threatening clouds gathered above the hills.",
+        "来势不妙的云在山丘上空聚集。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/threatening#English"
+    ]
+  },
+  {
+    "word": "threateningly",
+    "ipa": "/ˈθretənɪŋli/",
+    "meaning": "带威胁地、咄咄逼人地；显出危险地",
+    "sense": "threatening 说姿态的性质，threateningly 说怎样靠近、站着或发声，让对方感到可能受害。",
+    "split": "threatening + -ly，完整保留 -ing，再把性质变成方式副词。",
+    "history": [
+      [
+        "古英语 þrēat",
+        "人群、压迫、困扰、威胁等旧义"
+      ],
+      [
+        "古英语 þrēatnian → threaten",
+        "迫使、威胁；现代对应 threat + -en"
+      ],
+      [
+        "threaten → threatening → threateningly",
+        "威胁动作 → 威胁性质 → 以这种方式"
+      ]
+    ],
+    "explanation": "move threateningly 带威胁地逼近，lean threateningly towards someone 咄咄逼人地向某人探身，loom threateningly 显出危险地逼近、笼罩。",
+    "usage": "move threateningly；loom threateningly。",
+    "contrast": "threateningly 是副词，threatening 是分词、形容词；两者不是加 -ly 后就表示危险一定发生。",
+    "examples": [
+      [
+        "The stranger stepped threateningly towards the doorway.",
+        "陌生人带着威胁意味向门口逼近。"
+      ],
+      [
+        "Dark clouds loomed threateningly over the field.",
+        "乌云来势不妙地笼罩田野。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/threateningly#English"
+    ]
+  },
+  {
+    "word": "tobacco",
+    "ipa": "英 /təˈbækəʊ/；美 /təˈbækoʊ/",
+    "meaning": "烟草；制成烟草制品的烟叶等",
+    "sense": "可以说田里生长的烟草植物，也可以说收获、处理后的烟叶材料。cigarette、cigar 是制品，tobacco 则更像植物、原料这一层。",
+    "split": "借西班牙语 tabaco。更早通常联系加勒比语言，烟叶卷、烟管等历史记载有差异，也有其他来源讨论，不能确定简化为某个岛名。",
+    "history": [
+      [
+        "西班牙语 tabaco → 英语 tobacco",
+        "烟草名称进入英语"
+      ],
+      [
+        "加勒比语言等更远来源",
+        "烟叶卷、吸烟管等旧记载存在差异，具体远源未全定"
+      ]
+    ],
+    "explanation": "grow tobacco 种烟草，tobacco leaves 烟叶，a tobacco field 烟草田。物质义通常不可数，不用一支 tobacco 代替 cigarette。",
+    "usage": "grow tobacco；tobacco leaves。",
+    "contrast": "tobacco 是植物、材料词，cigarette 是卷烟制品；不同层次的东西不能只因都译到烟就互换。",
+    "examples": [
+      [
+        "The farm once grew tobacco.",
+        "这座农场过去种过烟草。"
+      ],
+      [
+        "The museum displayed bundles of dried tobacco leaves.",
+        "博物馆展示了成束的干烟叶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tobacco#English",
+      "https://www.etymonline.com/word/tobacco"
+    ]
+  },
+  {
+    "word": "tobacconist",
+    "ipa": "英 /təˈbækənɪst/；美 /təˈbækənɪst/",
+    "meaning": "烟草商；烟草店",
+    "sense": "以经营烟草、相关制品为业的人是 tobacconist；a tobacconist’s 常把 shop 省掉，直接说那家店。",
+    "split": "tobacco + 连接的 -n- + -ist，形成职业人物名词。中间多出的 n 要看见，不把后半误认成一个独立 conist。",
+    "history": [
+      [
+        "西班牙语 tabaco → 英语 tobacco",
+        "烟草名称进入英语"
+      ],
+      [
+        "加勒比语言等更远来源",
+        "烟叶卷、吸烟管等旧记载存在差异，具体远源未全定"
+      ],
+      [
+        "tobacco + -n- + -ist",
+        "tobacconist 烟草商、烟草店"
+      ]
+    ],
+    "explanation": "a local tobacconist 当地烟草商，at the tobacconist’s 在烟草店，a tobacconist’s shop 烟草店。",
+    "usage": "a tobacconist’s shop；at the tobacconist’s。",
+    "contrast": "-ist 在这里是职业角色，不是任何接触烟草的人都称 tobacconist；店铺用法常通过所有格省略 shop。",
+    "examples": [
+      [
+        "The tobacconist’s shop occupied a narrow building near the station.",
+        "烟草店开在车站附近一栋窄楼里。"
+      ],
+      [
+        "The tobacconist arranged the display in the window.",
+        "烟草商整理了橱窗陈列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tobacconist#English"
+    ]
+  },
+  {
+    "word": "pad",
+    "ipa": "/pæd/",
+    "meaning": "垫、衬垫；肉垫；拍纸本；操作面板；住处〔口语〕；填衬",
+    "sense": "手、脚或物件接触的一块区域，常能帮记 pad：膝垫、猫爪肉垫、书写纸本、触控面板。但不同义不都从同一种软材料直接来。",
+    "split": "较早有草铺垫、软垫义，来源不明，可能合流多个词。纸本、操作区域等后来扩展；轻步行走的动词又有荷兰语路径等来源分析。",
+    "history": [
+      [
+        "pad 早期软铺垫、草垫等",
+        "更远来源不明，可能合流了多个近形词"
+      ],
+      [
+        "名词用途扩展",
+        "垫、肉垫、成叠纸本、平面操作区、降落场等"
+      ],
+      [
+        "pad 填衬 → padding",
+        "缓冲填料，也比喻凑数内容；步行动词另有历史线索"
+      ]
+    ],
+    "explanation": "a mouse pad 鼠标垫，a writing pad 拍纸本，a cat’s paw pads 猫爪肉垫，pad a seat 给座位加衬垫，my pad 我的住处〔口语〕。",
+    "usage": "a writing pad；pad a seat；paw pads。",
+    "contrast": "keypad、touchpad 都能用平面操作区理解，不必认为它们必须柔软；公寓俗称 pad 也不是一块真正的座垫。",
+    "examples": [
+      [
+        "She wrote the number on a pad of paper.",
+        "她把号码写在一本拍纸本上。"
+      ],
+      [
+        "Soft pads protected the chair legs from scratching the floor.",
+        "柔软垫片垫在椅腿下，防止刮花地板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pad#English",
+      "https://www.etymonline.com/word/pad"
+    ]
+  },
+  {
+    "word": "padding",
+    "ipa": "/ˈpædɪŋ/",
+    "meaning": "衬垫、缓冲填料；凑数内容；填充",
+    "sense": "包里塞一层软料，能缓冲保护，是 padding；文章为了显得长，塞了没用的话，也像往里面填空，就是 padding 的贬义用法。",
+    "split": "pad 填衬 + -ing，双写 d；动作名词又指所用填料。计算机等领域还可指为满足长度、布局等要求加入的填充。",
+    "history": [
+      [
+        "pad 早期软铺垫、草垫等",
+        "更远来源不明，可能合流了多个近形词"
+      ],
+      [
+        "pad + -ing → padding",
+        "填衬动作、材料 → 凑数内容、技术填充"
+      ]
+    ],
+    "explanation": "protective padding 防护衬料，extra padding 额外填充，unnecessary padding 多余凑数内容。网页布局的 padding 指元素内边距，是固定技术用法。",
+    "usage": "protective padding；unnecessary padding。",
+    "contrast": "padding 不总是坏：保护填料、数据填充可能有功能，批评文章 padding 才说无用凑数；网页 padding 与外边距 margin 不同。",
+    "examples": [
+      [
+        "The case has thick padding to protect the instrument.",
+        "盒子里有厚衬垫保护乐器。"
+      ],
+      [
+        "The editor removed several paragraphs of padding.",
+        "编辑删掉了几段凑数文字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/padding#English"
+    ]
+  },
+  {
+    "word": "helipad",
+    "ipa": "/ˈhelipæd/",
+    "meaning": "直升机起降坪",
+    "sense": "给 helicopter 直升机起降的一块场地，就是 helipad。pad 在这里是一块指定起降区域，不是必须塞满海绵的软垫。",
+    "split": "heli- 从 helicopter 缩出 + pad 场坪。helicopter 更早的词源本可拆为 helico- 螺旋 + -pter 翼，但 heli- 是后来从整词截取出的组合形式。",
+    "history": [
+      [
+        "pad 早期软铺垫、草垫等",
+        "更远来源不明，可能合流了多个近形词"
+      ],
+      [
+        "名词用途扩展",
+        "垫、肉垫、成叠纸本、平面操作区、降落场等"
+      ],
+      [
+        "heli- + pad → helipad",
+        "直升机的指定起降区"
+      ]
+    ],
+    "explanation": "a rooftop helipad 屋顶直升机坪，land on a helipad 降落在直升机坪，a hospital helipad 医院直升机坪。",
+    "usage": "a rooftop helipad；land on a helipad。",
+    "contrast": "helipad 是场地，不是 helicopter 本身；heli- 的现代截取边界与古希腊语词源边界不同。",
+    "examples": [
+      [
+        "The helicopter landed on the rooftop helipad.",
+        "直升机降落在屋顶起降坪。"
+      ],
+      [
+        "The hospital’s helipad was clearly marked.",
+        "医院直升机坪有清晰标记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/helipad#English"
+    ]
+  },
+  {
+    "word": "forecasting",
+    "ipa": "英 /ˈfɔːkɑːstɪŋ/；美 /ˈfɔːrkæstɪŋ/",
+    "meaning": "预测、预报；预测过程和方法",
+    "sense": "不是只拿到一个明天会怎样的答案，而是持续收集信息、估计未来，这套活动叫 forecasting。天气、需求、产量等都可预测。",
+    "split": "forecast + -ing，中古英语已有相应形式。fore- 预先，cast 在旧组合里取筹划、考虑等义，不仅是字面把球扔向前。",
+    "history": [
+      [
+        "fore- 预先 + casten 筹划、打算的旧义",
+        "先作安排，后来偏向预测未来"
+      ],
+      [
+        "forecast → forecasting",
+        "预测活动、过程、方法"
+      ]
+    ],
+    "explanation": "weather forecasting 天气预报，demand forecasting 需求预测，forecasting methods 预测方法，improve forecasting accuracy 提高预测准确度。",
+    "usage": "weather forecasting；demand forecasting。",
+    "contrast": "forecast 可是一项预测结果，forecasting 常看过程、方法；预测有依据也仍可能有误差，不等于已经发生的记录。",
+    "examples": [
+      [
+        "Better data improved weather forecasting.",
+        "更好的数据改进了天气预报。"
+      ],
+      [
+        "The company uses demand forecasting to plan production.",
+        "公司通过需求预测安排生产。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forecasting#English",
+      "https://www.etymonline.com/word/forecast"
+    ]
+  },
+  {
+    "word": "forecaster",
+    "ipa": "英 /ˈfɔːkɑːstə/；美 /ˈfɔːrkæstər/",
+    "meaning": "预测者、预报员；预测程序",
+    "sense": "forecasting 是预测工作，forecaster 是负责做这件事的人；软件在执行预测时，也可以按功能叫 forecaster。",
+    "split": "forecast + -er，人物、工具后缀。前项 forecast 已经是整体动词，不把 forecaster 只理解成站在前面扔东西的人。",
+    "history": [
+      [
+        "fore- 预先 + casten 筹划、打算的旧义",
+        "先作安排，后来偏向预测未来"
+      ],
+      [
+        "forecast → forecasting",
+        "预测活动、过程、方法"
+      ],
+      [
+        "forecast + -er → forecaster",
+        "作预测的人、程序"
+      ]
+    ],
+    "explanation": "a weather forecaster 天气预报员，economic forecasters 经济预测者，a statistical forecaster 统计预测程序或预测者，按场景判断。",
+    "usage": "a weather forecaster；a forecaster predicts。",
+    "contrast": "forecaster 不一定是电视上播天气的人，也可能从事建模分析，或直接指程序。",
+    "examples": [
+      [
+        "The forecaster predicted heavy rain for the weekend.",
+        "预报员预测周末会有大雨。"
+      ],
+      [
+        "Several forecasters revised their estimates after the new data arrived.",
+        "新数据到来后，几位预测者修订了估计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forecaster#English"
+    ]
+  },
+  {
+    "word": "selfish",
+    "ipa": "/ˈselfɪʃ/",
+    "meaning": "自私的、只顾自己的",
+    "sense": "不是只要为自己想一点就算 selfish，而是把自己的好处放得过重，别人会怎样不管。共享的最后一份全拿走，不顾后来的人，就很容易被这样评价。",
+    "split": "self 自己 + -ish，形成以自我为中心的性质。-ish 在这里是特点后缀，不是把自私减弱成有一点点。",
+    "history": [
+      [
+        "self 自己 + -ish → selfish",
+        "过多、只顾自己的利益，忽视他人"
+      ],
+      [
+        "个人利益的过分优先",
+        "忽视他人的利益、感受"
+      ]
+    ],
+    "explanation": "a selfish decision 自私决定，be selfish about something 在某事上只顾自己，It was selfish of me to do that 我那么做很自私。",
+    "usage": "a selfish decision；selfish of someone to do。",
+    "contrast": "selfish 的批评在于过度忽略他人；照顾基本需要、合理拒绝，并不能只凭动作表面就判为自私。",
+    "examples": [
+      [
+        "Taking all the food without asking was selfish.",
+        "不问别人就把食物全拿走，很自私。"
+      ],
+      [
+        "It was selfish of me to expect everyone to change their plans.",
+        "我指望每个人都为我改计划，太自私了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selfish#English"
+    ]
+  },
+  {
+    "word": "selfishly",
+    "ipa": "/ˈselfɪʃli/",
+    "meaning": "自私地、只顾自己地",
+    "sense": "selfish 给行为贴上性质，selfishly 则放进具体动作里：他怎样分配、要求、选择，只顾自己的好处。",
+    "split": "selfish + -ly，性质变成方式副词，里面 self + -ish 仍是以自己利益为中心。",
+    "history": [
+      [
+        "self 自己 + -ish → selfish",
+        "过多、只顾自己的利益，忽视他人"
+      ],
+      [
+        "-ly 与 -ness",
+        "自私地行动；自私这种性质"
+      ]
+    ],
+    "explanation": "act selfishly 自私行事，behave selfishly 表现自私，selfishly demand 自私地要求。",
+    "usage": "act selfishly；behave selfishly。",
+    "contrast": "a selfish choice 是名词前形容词；choose selfishly 说选择方式。批评某次行为，不必自动断言这个人每件事都如此。",
+    "examples": [
+      [
+        "He selfishly kept the best seat for himself.",
+        "他自私地把最好的座位留给了自己。"
+      ],
+      [
+        "She admitted that she had acted selfishly.",
+        "她承认自己当时行事自私。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selfishly#English"
+    ]
+  },
+  {
+    "word": "selfishness",
+    "ipa": "/ˈselfɪʃnəs/",
+    "meaning": "自私、只顾自己的性质",
+    "sense": "讨论的不是哪一个具体动作，而是其中那份只顾自己的倾向，就把 selfish 变成 selfishness。",
+    "split": "selfish + -ness，性质、状态名词。-ness 不把人变成另一种人物称谓。",
+    "history": [
+      [
+        "self 自己 + -ish → selfish",
+        "过多、只顾自己的利益，忽视他人"
+      ],
+      [
+        "-ly 与 -ness",
+        "自私地行动；自私这种性质"
+      ]
+    ],
+    "explanation": "an act of selfishness 自私行为，because of selfishness 因为自私，criticise someone’s selfishness 批评某人的自私。通常不可数。",
+    "usage": "an act of selfishness；someone’s selfishness。",
+    "contrast": "selfishness 是抽象性质，不能拿来直接指一个人；说 a selfish person，而不是把 selfishness 当人物名词。",
+    "examples": [
+      [
+        "His selfishness damaged the friendship.",
+        "他的自私伤害了友谊。"
+      ],
+      [
+        "She regretted the selfishness of her earlier demands.",
+        "她后悔先前的要求太自私。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selfishness#English"
+    ]
+  },
+  {
+    "word": "unselfish",
+    "ipa": "/ʌnˈselfɪʃ/",
+    "meaning": "无私的、肯顾及他人的",
+    "sense": "做决定时也把别人的需要算进去，愿意让出方便、分享资源，是 unselfish。重点是没有只顾自己。",
+    "split": "un- 否定 + selfish。不是把 self 自己整个人删掉，而是否定其过度只顾自己的性质。",
+    "history": [
+      [
+        "self 自己 + -ish → selfish",
+        "过多、只顾自己的利益，忽视他人"
+      ],
+      [
+        "-ly 与 -ness",
+        "自私地行动；自私这种性质"
+      ],
+      [
+        "un- + selfish → unselfish",
+        "肯顾及他人的、无私的"
+      ]
+    ],
+    "explanation": "an unselfish act 无私行为，an unselfish teammate 肯为团队着想的队友，unselfish play 体育中愿意配合、传球等团队打法。",
+    "usage": "an unselfish act；an unselfish teammate。",
+    "contrast": "unselfish 不要求任何时候牺牲自己的一切；这个词评价是否顾及别人、愿意分享协作。",
+    "examples": [
+      [
+        "It was an unselfish act to share the limited supplies.",
+        "愿意分享有限物资，是无私的行为。"
+      ],
+      [
+        "Her unselfish play created chances for her teammates.",
+        "她愿意配合的打法为队友创造了机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unselfish#English"
+    ]
+  }
+]

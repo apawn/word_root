@@ -1,0 +1,433 @@
+[
+  {
+    "word": "identify",
+    "ipa": "/aɪˈdentɪfaɪ/",
+    "meaning": "认出、确认身份；鉴定；找出；认同",
+    "sense": "照片里的人和眼前这个人对上了，或给未知植物找到了名字：把“这是谁、这是什么”确认下来。",
+    "split": "借法语 identifier，接 identité、identique 等相同词族，远连拉丁 idem“同一个”。-ify 对应使成某种关系的动词材料，不是英文 identify = idea 想法 + 某个尾巴。",
+    "history": [
+      [
+        "拉丁 idem 这一“相同”词族 → 法语 identité、identifier 等",
+        "把对象认作同一个；确定身份"
+      ],
+      [
+        "法语 identifier → 英语 identify",
+        "认出、鉴定；认同"
+      ]
+    ],
+    "explanation": "identify a person 认出某人，identify a problem 找出问题，identify as 认同自己是某身份，identify with a character 对角色有共鸣。",
+    "usage": "identify the cause；identify as；identify with；identify someone by。",
+    "contrast": "identify with 是把自己和别人经历对上、产生共鸣；identify someone 则是认出身份，with 有无会改变句法和意思。",
+    "examples": [
+      [
+        "Can you identify the bird in this photograph?",
+        "你能认出照片里的鸟是什么鸟吗？"
+      ],
+      [
+        "Many readers identify with the main character.",
+        "许多读者对主角有共鸣。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/identify",
+      "https://en.wiktionary.org/wiki/identify#English"
+    ]
+  },
+  {
+    "word": "identifiable",
+    "ipa": "/aɪˌdentɪˈfaɪəbəl/",
+    "meaning": "可辨认的、能确认身份的",
+    "sense": "虽换了衣服、画面有点模糊，仍能看出是谁；也可说某个规律、特征清楚到能认出来。",
+    "split": "identify + -able，y 在后缀前变 i，形成 identifi-able；表示能被识别，不是已经辨认完的 identified。",
+    "history": [
+      [
+        "拉丁 idem 这一“相同”词族 → 法语 identité、identifier 等",
+        "把对象认作同一个；确定身份"
+      ],
+      [
+        "法语 identifier → 英语 identify",
+        "认出、鉴定；认同"
+      ],
+      [
+        "identify + -able → identifiable",
+        "能够被认出、区分"
+      ]
+    ],
+    "explanation": "easily identifiable 容易识别，an identifiable pattern 可辨认规律，personally identifiable information 可识别个人身份的信息。",
+    "usage": "easily identifiable；an identifiable pattern；an identifiable feature。",
+    "contrast": "identifiable 是能辨认，identical 是相同；两件 identical 的制服可能反而让不同人难以 identifiable，意思不互换。",
+    "examples": [
+      [
+        "The building is easily identifiable by its red roof.",
+        "这栋楼凭红屋顶很容易认出来。"
+      ],
+      [
+        "The study found no identifiable pattern.",
+        "研究没有发现可辨认的规律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identifiable#English"
+    ]
+  },
+  {
+    "word": "identifier",
+    "ipa": "英 /aɪˈdentɪfaɪə/；美 /aɪˈdentɪfaɪər/",
+    "meaning": "标识符、识别码；识别者、识别工具",
+    "sense": "一串号码或名字，像给对象挂上名牌，让系统知道正在说哪一个；不一定是身份证号码。",
+    "split": "identify + -er，y 变 i，命名做识别的人、工具或用于识别的信息。计算机中的 identifier 常就是程序里某个名称。",
+    "history": [
+      [
+        "拉丁 idem 这一“相同”词族 → 法语 identité、identifier 等",
+        "把对象认作同一个；确定身份"
+      ],
+      [
+        "法语 identifier → 英语 identify",
+        "认出、鉴定；认同"
+      ],
+      [
+        "identify + -er → identifier",
+        "识别的人、东西；标识符"
+      ]
+    ],
+    "explanation": "a unique identifier 唯一标识符，a user identifier 用户标识，an identifier in code 代码里的标识符。",
+    "usage": "a unique identifier；a user identifier；a valid identifier。",
+    "contrast": "identifier 是用来识别的符号或主体，identity 是身份、同一性；有编号不等于这个编号在所有系统中都唯一。",
+    "examples": [
+      [
+        "Each order has a unique identifier.",
+        "每笔订单都有一个唯一标识符。"
+      ],
+      [
+        "Choose a clear identifier for the variable.",
+        "给变量选一个清楚的标识符。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identifier#English"
+    ]
+  },
+  {
+    "word": "newspaperman",
+    "ipa": "英 /ˈnjuːzpeɪpəmæn/；美 /ˈnuːzpeɪpərmæn/",
+    "meaning": "报人、报社男记者或编辑",
+    "sense": "在报业里写新闻、编辑报道的人；man 在这里接从业者，不是只负责把报纸递到门口的那个人。",
+    "split": "newspaper 报纸 + man，报业人物称呼。newspaper 本身是 news 消息 + paper 纸、报刊的组合。",
+    "history": [
+      [
+        "news + paper → newspaper",
+        "报载新闻的刊物"
+      ],
+      [
+        "newspaper + man → newspaperman",
+        "报业中的男性从业者"
+      ]
+    ],
+    "explanation": "a veteran newspaperman 资深报人，a local newspaperman 当地报人。可用于旧报业回忆、人物介绍，不一定仅指外出采访记者。",
+    "usage": "a veteran newspaperman；a local newspaperman；an experienced newspaperman。",
+    "contrast": "newspaperman 报业从业者，paperboy 送报男孩等称呼侧重递送；journalist 范围更广，也不突出性别。",
+    "examples": [
+      [
+        "The veteran newspaperman knew everyone in town.",
+        "这位资深报人认识镇上每个人。"
+      ],
+      [
+        "He began his career as a local newspaperman.",
+        "他最初在地方报业开始职业生涯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newspaperman#English"
+    ]
+  },
+  {
+    "word": "scare",
+    "ipa": "英 /skeə/；美 /sker/",
+    "meaning": "吓、使害怕；惊吓、恐慌",
+    "sense": "突然一声响，把人心里吓一跳；做动作是 scare，受到这一下的感觉是一场 scare。",
+    "split": "来自中古英语 skerren 等，接古诺尔斯语 skirra 的惊吓、避开相关用法。现代词形经历变化，不是 s- + care“去关心”。",
+    "history": [
+      [
+        "古诺尔斯语 skirra → 中古英语 skerren 等 → scare",
+        "使害怕、避开等旧义，进入吓唬词族"
+      ],
+      [
+        "英语 scare 名词、动词",
+        "吓人；一次惊吓或恐慌"
+      ]
+    ],
+    "explanation": "scare someone 吓某人，scare away 吓跑，give someone a scare 吓某人一跳，a health scare 健康疑虑引起的惊慌。",
+    "usage": "scare away；give someone a scare；scare easily；a false scare。",
+    "contrast": "scare 可突然吓，也可借担忧施压；care 关心和 scare 不按现代加字母构成反义词。",
+    "examples": [
+      [
+        "The loud bang scared the dog.",
+        "巨响吓到了狗。"
+      ],
+      [
+        "You gave me quite a scare!",
+        "你真把我吓了一大跳！"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/scare",
+      "https://en.wiktionary.org/wiki/scare#English"
+    ]
+  },
+  {
+    "word": "scared",
+    "ipa": "英 /skeəd/；美 /skerd/",
+    "meaning": "害怕的、受惊的",
+    "sense": "吓人的东西在外面，害怕的感受落到你身上；scared 站在那个“被吓到的人”的角度。",
+    "split": "scare + -ed，分词发展为常用形容词；末尾 /d/，不是再添一个完整 /ɪd/ 音节。",
+    "history": [
+      [
+        "古诺尔斯语 skirra → 中古英语 skerren 等 → scare",
+        "使害怕、避开等旧义，进入吓唬词族"
+      ],
+      [
+        "scare + -ed → scared",
+        "被吓到；处于害怕状态"
+      ]
+    ],
+    "explanation": "scared of the dark 怕黑，scared to ask 不敢问，scared that… 担心会……，scared stiff 吓呆了。",
+    "usage": "scared of；scared to；scared that；scared stiff。",
+    "contrast": "scared 是感到害怕，scary 通常说令人害怕；a scared child 是怕了的孩子，a scary story 是吓人的故事。",
+    "examples": [
+      [
+        "The child was scared of the dark.",
+        "孩子怕黑。"
+      ],
+      [
+        "I was scared to ask another question.",
+        "我不敢再问一个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scared#English"
+    ]
+  },
+  {
+    "word": "trend",
+    "ipa": "/trend/",
+    "meaning": "趋势、倾向；流行风尚；朝某方向发展",
+    "sense": "把一段时间里的点连起来，看大体往哪走；流行也是人群偏好朝某方向移动，不只是今天一件孤立小事。",
+    "split": "接古英语 trendan、中古英语 trenden 的转、滚等旧动作，再发展出朝某方向延伸、事情走势。现代含义不能只按“滚圈”逐字翻。",
+    "history": [
+      [
+        "古英语 trendan → 中古英语 trenden",
+        "转、滚动等旧动作"
+      ],
+      [
+        "英语方向、走势用法 → trend",
+        "河道等朝某方向延伸，再借到事情发展倾向"
+      ],
+      [
+        "流行与趋势组合",
+        "trendy 时髦；trending 正热；trendsetter 带起潮流；uptrend、downtrend 走势方向"
+      ]
+    ],
+    "explanation": "an upward trend 上升趋势，a trend towards… 朝向……的趋势，fashion trends 时尚趋势，prices trend upward 价格趋升。",
+    "usage": "a trend towards；follow a trend；a growing trend；trend upward。",
+    "contrast": "trend 指方向、倾向，不保证一路没有起伏，也不保证将来一定延续；fad 常突出一阵短时风潮。",
+    "examples": [
+      [
+        "The figures show a clear downward trend.",
+        "这些数字显示出清楚的下降趋势。"
+      ],
+      [
+        "There is a growing trend towards remote work.",
+        "远程办公正成为越来越明显的趋势。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/trend",
+      "https://en.wiktionary.org/wiki/trend#English"
+    ]
+  },
+  {
+    "word": "trending",
+    "ipa": "/ˈtrendɪŋ/",
+    "meaning": "正在成为热门的、热议中的；呈某种趋势的",
+    "sense": "大家这会儿正往这个话题聚，讨论度往上走；网上热榜常用它，不是表示这个话题永远最重要。",
+    "split": "trend + -ing，由正在发展、形成趋势的分词用法扩展到热门话题形容词。",
+    "history": [
+      [
+        "古英语 trendan → 中古英语 trenden",
+        "转、滚动等旧动作"
+      ],
+      [
+        "英语方向、走势用法 → trend",
+        "河道等朝某方向延伸，再借到事情发展倾向"
+      ],
+      [
+        "trend + -ing → trending",
+        "正在呈趋势；网络上正热议"
+      ]
+    ],
+    "explanation": "a trending topic 热议话题，trending searches 热门搜索，trending upward 呈上升趋势。",
+    "usage": "a trending topic；trending searches；trending upward。",
+    "contrast": "trending 说此刻走热，trendy 说符合时髦风尚；一个 trending 灾害话题不该因此翻成时髦灾害。",
+    "examples": [
+      [
+        "The interview became a trending topic overnight.",
+        "这段采访一夜之间成了热议话题。"
+      ],
+      [
+        "Searches for the song are trending upward.",
+        "这首歌的搜索量呈上升趋势。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trending#English"
+    ]
+  },
+  {
+    "word": "trendy",
+    "ipa": "/ˈtrendi/",
+    "meaning": "时髦的、追逐潮流的",
+    "sense": "穿着、店铺、说法正合眼下流行的那一套；可以赞时新，也可以暗示只是跟风。",
+    "split": "trend 流行趋势 + -y，形成符合当下潮流的性质。",
+    "history": [
+      [
+        "古英语 trendan → 中古英语 trenden",
+        "转、滚动等旧动作"
+      ],
+      [
+        "英语方向、走势用法 → trend",
+        "河道等朝某方向延伸，再借到事情发展倾向"
+      ],
+      [
+        "trend + -y → trendy",
+        "时髦、随潮流的"
+      ]
+    ],
+    "explanation": "a trendy café 时髦咖啡馆，trendy clothes 时髦衣服，a trendy neighbourhood 新潮街区。",
+    "usage": "a trendy café；trendy clothes；a trendy neighbourhood。",
+    "contrast": "trendy 符合潮流，stylish 可说品味好而不必追当季；trending 说正在走热，两者不能只因同根就互换。",
+    "examples": [
+      [
+        "They opened a trendy café near the station.",
+        "他们在车站附近开了家时髦咖啡馆。"
+      ],
+      [
+        "She prefers comfortable clothes to trendy ones.",
+        "比起时髦衣服，她更喜欢穿着舒服的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trendy#English"
+    ]
+  },
+  {
+    "word": "trendsetter",
+    "ipa": "英 /ˈtrendˌsetə/；美 /ˈtrendˌsetər/",
+    "meaning": "潮流引领者、开风气者",
+    "sense": "别人还没开始，你先带起一种穿法、做法，后来大家跟上；setter 在这里是把风尚立起来的角色。",
+    "split": "trend 趋势 + setter〔set + -er〕，命名建立、推动某种风尚的人或事物，不是只会观察趋势的人。",
+    "history": [
+      [
+        "古英语 trendan → 中古英语 trenden",
+        "转、滚动等旧动作"
+      ],
+      [
+        "英语方向、走势用法 → trend",
+        "河道等朝某方向延伸，再借到事情发展倾向"
+      ],
+      [
+        "trend + setter → trendsetter",
+        "带起风尚、让别人跟随的主体"
+      ]
+    ],
+    "explanation": "a fashion trendsetter 时尚引领者，a cultural trendsetter 文化风尚引领者，become a trendsetter 成为开风气者。",
+    "usage": "a fashion trendsetter；a cultural trendsetter；become a trendsetter。",
+    "contrast": "trendsetter 带起潮流，follower 跟随；trendy 只说符合时尚，不证明自己首创。",
+    "examples": [
+      [
+        "The designer became a trendsetter in street fashion.",
+        "这位设计师成了街头时尚的引领者。"
+      ],
+      [
+        "The small studio has proved to be a cultural trendsetter.",
+        "这家小工作室已经显示出引领文化风尚的作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trendsetter#English"
+    ]
+  },
+  {
+    "word": "uptrend",
+    "ipa": "/ˈʌptrend/",
+    "meaning": "上升趋势、向上走势",
+    "sense": "点线上下晃，但把一段时间放在一起看，大体往上走；不要求每一步都比上一步高。",
+    "split": "up 向上 + trend 趋势，方向组合名词。说用户数、价格、需求等都可以，不限金融。",
+    "history": [
+      [
+        "古英语 trendan → 中古英语 trenden",
+        "转、滚动等旧动作"
+      ],
+      [
+        "英语方向、走势用法 → trend",
+        "河道等朝某方向延伸，再借到事情发展倾向"
+      ],
+      [
+        "up + trend → uptrend",
+        "总体向上的走势"
+      ]
+    ],
+    "explanation": "an uptrend in demand 需求上升走势，a steady uptrend 稳定上升趋势，a continuing uptrend 持续上升走势。",
+    "usage": "an uptrend in；a steady uptrend；a continuing uptrend。",
+    "contrast": "uptrend 一段时间总体向上，an increase 可以只说一次增加；uptrend 本身不保证下一次仍上升。",
+    "examples": [
+      [
+        "The survey shows an uptrend in public transport use.",
+        "调查显示公共交通使用量呈上升趋势。"
+      ],
+      [
+        "The uptrend continued despite a small decline in May.",
+        "虽然五月小幅下降，总体上升趋势仍在继续。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uptrend#English"
+    ]
+  },
+  {
+    "word": "downtrend",
+    "ipa": "/ˈdaʊntrend/",
+    "meaning": "下降趋势、向下走势",
+    "sense": "与 uptrend 相反，整体朝低处走；中间偶尔反弹不一定就改变总体方向。",
+    "split": "down 向下 + trend 趋势，与 uptrend 对称组合，不把 down 当情绪低落的唯一意思。",
+    "history": [
+      [
+        "古英语 trendan → 中古英语 trenden",
+        "转、滚动等旧动作"
+      ],
+      [
+        "英语方向、走势用法 → trend",
+        "河道等朝某方向延伸，再借到事情发展倾向"
+      ],
+      [
+        "down + trend → downtrend",
+        "总体向下的走势"
+      ]
+    ],
+    "explanation": "a downtrend in sales 销量下降趋势，a long downtrend 长期下行走势，reverse a downtrend 扭转下降趋势。",
+    "usage": "a downtrend in；a long downtrend；reverse a downtrend。",
+    "contrast": "downtrend 是方向，low 是水平；数值很高也可以处于 downtrend，数值很低也可能正处于 uptrend。",
+    "examples": [
+      [
+        "The chart shows a downtrend in paper consumption.",
+        "图表显示纸张用量呈下降趋势。"
+      ],
+      [
+        "The recent increase did not end the longer downtrend.",
+        "最近的增加并没有结束更长期的下降趋势。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downtrend#English"
+    ]
+  }
+]

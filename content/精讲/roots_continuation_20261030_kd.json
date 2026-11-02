@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B3856",
+    "meaning": "光被遮后的空间、色调与细微变化，以及可疑比喻和技术、植物名称",
+    "core": "SHADE：挡光后的暗与深浅变化，再分开看固定词义",
+    "image": "shade → shady 物理阴凉或可疑评价；shader 图形计算；nightshade 古老植物名。",
+    "intro": "同一画面能延伸到颜色、遮蔽和可信度，但固定植物名称还需要实际来源说明。",
+    "forms": "sceadu 等 → shade；-y 性质、-er 执行者和程序；night + shade 的植物名在古英语已存在。\n\n本族 sceadu 传承，与 shadow 同源但现代有用法分工。\n\n灯具上的罩子通过遮挡、散射等方式改变照明，复合词在最后加 -s。",
+    "branches": [
+      [
+        "基础与性质",
+        "shade · shady"
+      ],
+      [
+        "器具、技术与植物名",
+        "shader · nightshade · lampshade"
+      ],
+      [
+        "shade → shades：阴影、遮光物与深浅色调",
+        "shade · shades"
+      ],
+      [
+        "shade 的遮光物与 lampshades",
+        "lampshade · lampshades"
+      ]
+    ],
+    "contrasts": "shady 地点可舒服，shady deal 可疑；shader 比涂阴影范围宽；nightshade 不只一种植物。",
+    "practice": "The shader renders a shady garden with several shades of green.\n\n着色器把阴凉花园渲染成多种深浅的绿色。",
+    "words": [
+      "shade",
+      "shady",
+      "shader",
+      "nightshade",
+      "lampshade",
+      "shades",
+      "lampshades"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4443",
+    "meaning": "弯回成圈，到声音、程序和信息的循环与参与",
+    "core": "LOOP：返回前面，形成圈或重复",
+    "image": "loop → loopy 看圈状、俚语性质；looper 看循环器具或动物动作。",
+    "intro": "绳圈是很直观的出发画面。循环播放、程序回路和让人及时知情的 in the loop，再分别看实际关系。",
+    "forms": "中古英语 loupe 等 → loop；更早来源未定；-y 性质、-er 执行者和器具。\n\nloop 较早指布、绳等弯回形成的圈，远源未定；现代环形与循环义同样常用，复数或第三人称 -s 读 /s/。",
+    "branches": [
+      [
+        "圈、循环与性质",
+        "loop · loopy"
+      ],
+      [
+        "器具、程序与动物名",
+        "looper"
+      ],
+      [
+        "loop 环圈 → loops",
+        "loops"
+      ]
+    ],
+    "contrasts": "loopy 不等于所有 looping；程序循环可以结束；in the loop 说及时知情。",
+    "practice": "The musician used a looper to keep the melody playing on a loop.\n\n音乐人用循环效果器，让旋律不断循环播放。",
+    "words": [
+      "loop",
+      "loopy",
+      "looper",
+      "loops"
+    ],
+    "exclude": {
+      "helix-loop-helix": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hyperloop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

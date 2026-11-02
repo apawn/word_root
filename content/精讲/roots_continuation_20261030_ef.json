@@ -1,0 +1,126 @@
+[
+  {
+    "id": "B4012",
+    "meaning": "把值得纪念的事公开重视、赞颂",
+    "core": "CELEBRATE：不只开心，也是在说这件事值得专门纪念",
+    "image": "celebrate → celebration、celebratory；celebrant 分仪式角色与部分庆祝参与者用法。",
+    "intro": "celebrate culture 可赞颂展示文化，不一定办生日派对；celebrant 仪式主持人也不自动是 celebrity 名人。",
+    "forms": "celebrāre、celebrātus → celebrate；celebrātiō 经法语 → celebration；-ory 形容；celebrāns 经法语 → celebrant。\n\n法语、拉丁名词独立借入，英语现代与 celebrate 对照认形。\n\n拉丁 celebrare、celebratus 接 celeber，分词后来也形容著名、受赞誉的人与作品。\n\n拉丁 celebrare 等材料，英语去 e 加 ing。\n\ncelebrate 接拉丁 celebrare、celebratus 聚集致敬、赞颂等，远源不定。现代保留 e 加 -s，可说庆祝，也可说作品赞颂某种生活。",
+    "branches": [
+      [
+        "动作、活动和气氛",
+        "celebrate · celebration · celebratory"
+      ],
+      [
+        "仪式人物",
+        "celebrant"
+      ],
+      [
+        "celebration → celebrations：庆祝与庆祝活动",
+        "celebration · celebrations"
+      ],
+      [
+        "celebrate → celebrated：庆祝与受到广泛赞誉",
+        "celebrate · celebrated"
+      ],
+      [
+        "celebrate → celebrating：把值得纪念的事公开庆祝",
+        "celebrate · celebrated · celebrating"
+      ],
+      [
+        "聚众、赞颂 → celebrate → celebrates",
+        "celebrates"
+      ]
+    ],
+    "contrasts": "celebrate直接接对象，congratulate someone on 另句型；celebrant非celebrity；celebratory气氛非庆祝活动名词。",
+    "practice": "They celebrated the success with a celebratory dinner.\n\n他们以庆祝聚餐来庆贺成功。",
+    "words": [
+      "celebrate",
+      "celebration",
+      "celebratory",
+      "celebrant",
+      "celebrations",
+      "celebrated",
+      "celebrating",
+      "celebrates"
+    ],
+    "exclude": {
+      "over-celebrate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3556",
+    "meaning": "海洋与岸边位置、研究领域",
+    "core": "OCEAN：大片海水本体，再分岸边和对海洋的研究",
+    "image": "ocean → oceanside、oceanfront；oceanography 接海洋研究。",
+    "intro": "side、front 说位置，-graphy 在学科名说记录、研究的传统构词，不能把海边旅馆当海洋学家。",
+    "forms": "Ōkeanós 等经拉丁法语 → ocean；ocean + side/front；ocean + -graphy 等 → oceanography。",
+    "branches": [
+      [
+        "海洋与岸边",
+        "ocean · oceanside · oceanfront"
+      ],
+      [
+        "研究领域",
+        "oceanography"
+      ]
+    ],
+    "contrasts": "oceanside/oceanfront 位置侧重不同；oceanography 学科非海景本身。",
+    "practice": "The oceanside town has a centre for oceanography.\n\n海边小镇有一处海洋研究中心。",
+    "words": [
+      "ocean",
+      "oceanside",
+      "oceanfront",
+      "oceanography"
+    ],
+    "exclude": {
+      "ur-ocean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ocean-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "paleo-ocean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "exo-ocean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2737",
+    "meaning": "动物、球具、击打与扑动的同形词",
+    "core": "BAT：先分蝙蝠与球棒，再接各自的扩展",
+    "image": "bat → batting、batter、batsman 接击打；batty、batwing 接动物形象；batter 的面糊有搅打名词史。",
+    "intro": "先分来源，再看现代构词。蝙蝠不是棒的动物版本，面糊不是击球手的作品名；batting 在缝纫里还能是填充料。",
+    "forms": "batt、法语 batte 等 → 球棒bat；bakke 等 → 动物bat；bate 扑动到眨眼；bat + -ing/-er/-s-man；bat + -y/wing；bateure → 面糊batter。\n\n球棒 bat 的来源有古英语、凯尔特和法语相应材料；动物名另接中古英语 bakke 等变化。现代 bat + -s，词尾 /ts/；动物不是因像球棒才得名。",
+    "branches": [
+      [
+        "多源基础",
+        "bat"
+      ],
+      [
+        "击打、人物与材料",
+        "batting · batter · batsman"
+      ],
+      [
+        "动物形象与外形",
+        "batty · batwing"
+      ],
+      [
+        "bats：蝙蝠与球棒分源",
+        "bats"
+      ]
+    ],
+    "contrasts": "动物bat非bird；batter人物/猛击/面糊三义分；batting击球与棉絮分；batwing服装说形状；batty非从球棒打头定源。",
+    "practice": "The batter practised batting while a bat circled above the field.\n\n击球手练习击球时，一只蝙蝠在球场上空盘旋。",
+    "words": [
+      "bat",
+      "batting",
+      "batter",
+      "batsman",
+      "batty",
+      "batwing",
+      "bats"
+    ],
+    "exclude": {
+      "half-bat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "batman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "batmobile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "batgirl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

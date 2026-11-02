@@ -1,0 +1,249 @@
+"""Common -able words, missing bases, and the limits of surface splitting."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+Fo=[['拉丁 formido → formidare、formidabilis','恐惧 → 令人畏惧的'],['法语 formidable → 英语 formidable','可怕；强大、艰巨到令人敬畏']]
+W('formidable','英 /ˈfɔːmɪdəbəl/ 或 /fəˈmɪdəbəl/；美 /ˈfɔːrmɪdəbəl/','强大得令人敬畏的；难以对付的；艰巨的',
+ '对手实力强到你不敢小看，任务大到让你先吸一口气，这种带着敬畏、难度的强大就是 formidable。',
+ '经法语接拉丁 formidabilis，来自 formidare 害怕、formido 恐惧。它不是现代 form 形成 + able 可形成。',Fo,
+ 'a formidable opponent 强大的对手；a formidable task 艰巨任务；formidable expertise 深厚到令人敬畏的专业本领。',
+ 'a formidable challenge；a formidable reputation。',
+ 'formidable 不必等于邪恶、可憎；你尊敬的专家也可以 formidable，因为能力让人不敢小看。',
+ ('She proved a formidable opponent in the debate.','辩论中，她证明自己是个强劲的对手。'),('Restoring the building was a formidable task.','修复这座建筑是一项艰巨任务。'),sources=['https://en.wiktionary.org/wiki/formidable#English','https://www.etymonline.com/word/formidable'])
+Rc=[['recognize、recognise','认出、承认的同一常用动词的拼写变体'],['-able → recognizable、recognisable；再加 un-','认得出的；认不出的']]
+W('recognise','/ˈrekəɡnaɪz/','认出；承认；认可〔recognize 的常见英式拼写〕',
+ '看到熟悉的脸，脑子里对上号；或承认一个事实、认可某种地位，都可用 recognise。换成 s，基本用法不换。',
+ '与 recognize 同源，历史接拉丁 recognoscere 再认、承认等材料；-ise 与 -ize 是这里的拼写变体，不分成两个意思。',Rc,
+ 'recognise someone 认出某人；recognise that 承认、认识到某事；recognise an achievement 肯定成就。',
+ 'recognise a voice；recognise that。',
+ 'recognise 是认出、承认；realise 是意识到、实现。认出了这张脸，与意识到自己认错人，是不同动作。',
+ ('I recognised her voice immediately.','我一下就认出了她的声音。'),('They recognise the need for better communication.','他们承认需要更好的沟通。'))
+W('recognizable','/ˈrekəɡnaɪzəbəl/','认得出的；可辨认的',
+ '脸换了发型、声音隔着电话，你还是能对上号，这就叫 recognizable：保留着足以被认出来的特征。',
+ 'recognize 去 e 加 -able → recognizable；不是表示已经被认出的过去分词，而是具有可辨认性。',Rc,
+ 'a recognizable voice 可辨认的声音；instantly recognizable 一眼、一听就能认出来。',
+ 'instantly recognizable；a recognizable pattern。',
+ 'recognizable 是能认出，recognized 可说已被认出或被公认；可辨认不等于有正式认可。',
+ ('The melody was instantly recognizable.','这段旋律一听就能认出来。'),('The logo remains recognizable even at a small size.','标志缩得很小，仍然认得出来。'))
+W('recognisable','/ˈrekəɡnaɪzəbəl/','认得出的；可辨认的〔recognizable 的拼写变体〕',
+ '和 recognizable 同样表示能认出来；文章选用 recognise 系列时，就常对应写 recognisable。',
+ 'recognise 去 e 加 -able；s 与 z 的差别是这组词的拼写习惯，常用意义不变。',Rc,
+ 'easily recognisable 很容易辨认；a recognisable style 辨识度高的风格。',
+ 'instantly recognisable；easily recognisable。',
+ 'recognisable 与 recognizable 不用人为分成英式人脸、美式物品等不同意思；只需保持拼写习惯一致。',
+ ('Her style is easily recognisable.','她的风格很容易认出来。'),('The tower is a recognisable feature of the skyline.','这座塔是天际线上很有辨识度的地标。'))
+W('unrecognizable','/ˌʌnˈrekəɡnaɪzəbəl/','认不出的；面目全非的',
+ '原来的地方变得太多，你走到跟前也对不上记忆，这种几乎认不出来的状态就是 unrecognizable。',
+ 'un- 不 + recognizable 可辨认的；先否定整个形容词，不是另造一个常用动词 unrecognize 来解释。',Rc,
+ 'almost unrecognizable 几乎认不出；change beyond recognition 与其意思相近。',
+ 'almost unrecognizable；completely unrecognizable。',
+ 'unrecognizable 是看不出原貌；unrecognized 是未被认出、未获认可。一个侧重辨认困难，一个侧重实际未认出或认可状态。',
+ ('The street was almost unrecognizable after the rebuilding.','重建后，这条街几乎认不出来了。'),('The recording made his voice unrecognizable.','录音让他的声音听起来完全认不出来。'))
+Ic=[['古法语 entrechange 等 → 英语 interchange','相互交换的材料'],['interchange + -able → interchangeable','能互换、替换使用的']]
+W('interchange','动词英 /ˌɪntəˈtʃeɪndʒ/、美 /ˌɪntərˈtʃeɪndʒ/；名词重音常在前','互换、交流；立交枢纽、换乘处',
+ '两边交换想法、把两个位置互换，是动作；道路、交通线路交会、让人换到另一条线的地方，也可叫 interchange。',
+ '经法语相应形式，现代可对应 inter- 相互 + change 改换；名词、动词各有用法与重音习惯。',Ic,
+ 'an interchange of ideas 思想交流；a motorway interchange 高速公路立交枢纽；interchange parts 互换部件。',
+ 'an interchange of ideas；a road interchange。',
+ 'interchange 是交换或交会处，intersection 是交叉路口等；交通中不能只凭中文都像路口就忽略道路结构。',
+ ('The workshop encouraged an interchange of ideas.','研讨会鼓励交流想法。'),('Take the next exit after the interchange.','过了立交枢纽后，从下一个出口离开。'))
+W('interchangeable','英 /ˌɪntəˈtʃeɪndʒəbəl/；美 /ˌɪntərˈtʃeɪndʒəbəl/','可互换的；可替换使用的',
+ '这个零件装在两台机器上都合适，换来换去也能用，就是 interchangeable。词语若在某些句子里能互换，也可这样说。',
+ 'interchange + -able；常用拼写保留 change 的 e，帮助保留 g 的 /dʒ/ 读音。',Ic,
+ 'interchangeable parts 可互换零件；be interchangeable with 与……可互换。',
+ 'interchangeable with；interchangeable parts。',
+ 'interchangeable 要有具体使用条件；两词意思近似，不代表在所有句子里完全 interchangeable。',
+ ('The two cameras use interchangeable lenses.','这两款相机使用可互换镜头。'),('These terms are not interchangeable in this context.','在这个语境里，这两个术语不能互换。'))
+Pa=[['拉丁 palatum → 英语 palate','上腭、口腔顶部'],['味觉引申；palatable','味觉、品味；吃得下、能接受的']]
+W('palate','/ˈpælət/','腭、上腭；味觉、品味',
+ '先是嘴巴上面的那一片；后来用嘴里的部位代指品尝能力，所以一个人会不会品酒，也可说他的 palate。',
+ '借拉丁 palatum，上腭的身体名词再引申为味觉、辨别味道的能力。更远来源未定，不必编造拉丁字母拆词。',Pa,
+ 'the roof of the mouth 与身体义相关；a refined palate 讲究、敏锐的味觉；please the palate 取悦味蕾。',
+ 'a refined palate；suit the palate。',
+ 'palate 是腭、味觉；palette 是调色板、配色；pallet 是货托。常见口音里读音接近，却不是一个词。',
+ ('The tea has a flavour that appeals to a delicate palate.','这茶的滋味合乎细腻的品味。'),('The dentist examined his palate.','牙医检查了他的腭部。'))
+W('palatable','/ˈpælətəbəl/','可口的；尚能入口的；可以接受的',
+ '食物吃起来还行，是 palatable；一个方案原本让人反感，修改后让人能接受，也叫 more palatable。都是能让人咽得下的画面。',
+ 'palate 味觉、腭的材料 + -able，末尾 e 在常用拼写中不保留；从味觉接受扩展到心理上接受。',Pa,
+ 'make something palatable 使……可口、可接受；palatable to voters 让选民能够接受的。',
+ 'more palatable；palatable to。',
+ 'palatable 有时只是吃得下、能接受，未必 delicious 美味绝伦；方案 palatable 也不等于人人热烈支持。',
+ ('The sauce made the vegetables more palatable.','酱汁让蔬菜更容易入口。'),('They revised the proposal to make it more palatable to residents.','他们修改提案，让居民更容易接受。'))
+W('avoidable','/əˈvɔɪdəbəl/','可以避免的',
+ '不是命中注定非发生不可，本来有办法绕开、预防的错误或损失，就是 avoidable。',
+ 'avoid + -able；强调存在避免的可能，不断言当时每个人都已经知道具体怎样避免。',
+ [['avoid','避开、避免'],['avoid + -able → avoidable','可以避免的']],
+ 'an avoidable mistake 可避免的错误；avoidable delays 本可避免的延误。',
+ 'entirely avoidable；an avoidable accident。',
+ 'avoidable 是可避免，inevitable 是不可避免；unavoidable 才是否定 avoidable。',
+ ('The review identified several avoidable mistakes.','复盘发现了几处本可避免的错误。'),('Better planning could have prevented these avoidable delays.','更好的规划本来能防止这些可避免的延误。'))
+Cu=[['custom','习惯、惯例；按客户要求的定制'],['custom + -ize → customize → customizable','按需求调整、定制；可定制的']]
+W('customize','/ˈkʌstəmaɪz/','定制；按个人需求调整',
+ '不是只能接受统一版本，而是换颜色、布局、功能，把它调成适合自己的样子，这叫 customize。',
+ 'custom 的定制材料 + -ize 构成动词；这里不是把海关 customs 的 s 删掉去解释。',Cu,
+ 'customize a dashboard 定制仪表盘；customize settings 调整设置；customize a product 定制产品。',
+ 'customize settings；customize the layout。',
+ 'customize 侧重按需求调整，personalize 常更突出个人特色；两者有重合，不能在所有产品里硬分两个固定功能。',
+ ('You can customize the layout of the home screen.','你可以按自己的需要调整主屏布局。'),('The workshop customizes bicycles for individual riders.','这家工坊按每位骑行者的需求定制自行车。'))
+W('customizable','/ˈkʌstəmaɪzəbəl/','可定制的；可按需求调整的',
+ '颜色、按钮、流程能按你的需要改，就叫 customizable；不是说已经改好了，而是允许、支持你这样改。',
+ 'customize 去 e 加 -able → customizable；它把定制动作改成产品、界面的可调整性质。',Cu,
+ 'a customizable interface 可定制界面；customizable options 可调整选项。',
+ 'highly customizable；a customizable template。',
+ 'customizable 是可以定制；customized 是已经定制过的。一个说能力，一个说完成后的状态。',
+ ('The app has a customizable toolbar.','这个应用有可定制的工具栏。'),('They sell customizable notebooks in several sizes.','他们出售多种尺寸的可定制笔记本。'))
+W('retractable','/rɪˈtræktəbəl/','可缩回的；可收起的',
+ '圆珠笔尖按一下伸出来，再按一下收回去；这种能收回原处的结构就是 retractable。',
+ 'retract + -able；retract 的词族接拉丁 re- 回 + trahere 拉、tract- 变化词干。',
+ [['拉丁 re- + trahere、tract- → retract','向回拉、收回'],['retract + -able → retractable','可缩回、收起的']],
+ 'a retractable roof 可开合、收起的屋顶；a retractable pen 可伸缩笔尖的笔；retractable landing gear 可收放起落架。',
+ 'a retractable roof；retractable landing gear。',
+ 'retractable 是能收回原位；detachable 是能拆下来。部件可缩回，不意味着能取下来单独放。',
+ ('The stadium has a retractable roof.','这座体育场有可开合的屋顶。'),('She clicked the retractable pen before writing.','她按出伸缩笔的笔尖，开始写字。'))
+Dt=[['古法语 destachier 等 → 英语 detach','解开、分离的材料；与 attach 有历史联系'],['detach → detachable','分开、拆下；可以拆下的']]
+W('detach','/dɪˈtætʃ/','拆下；分离；使抽离',
+ '把原来连在一起的部分解开、拿下来，是 detach；把自己从情绪、争执中抽离，也可比喻地用。',
+ '经古法语 destachier 的材料进入英语，与 attach 连接的词族相联；现代可比较 attach 接上、detach 拆开，但不把 tach 当作常用英语词。',Dt,
+ 'detach A from B 把 A 从 B 上分开；detach oneself from 从……抽离。',
+ 'detach the cable；detach from。',
+ 'detach 突出分开连接，destroy 是毁坏；一个可拆卸部件 detach 后仍可完好。',
+ ('Detach the strap from the bag.','把带子从包上拆下来。'),('She tried to detach herself from the argument.','她试着从这场争论中抽身。'))
+W('detachable','/dɪˈtætʃəbəl/','可拆卸的；可分离的',
+ '背包带、相机配件能从主体上拿下来，就叫 detachable；是否方便重新装上，还看产品设计。',
+ '法语有 détachable，英语也对应 detach + -able；让拆下变成物品具有的性质。',Dt,
+ 'a detachable hood 可拆卸风帽；a detachable strap 可拆卸肩带。',
+ 'a detachable keyboard；a detachable cover。',
+ 'detachable 说连接部分可拆，portable 说便于携带；可拆不一定轻便，便携也不一定可拆。',
+ ('The jacket has a detachable hood.','这件夹克的风帽可以拆下来。'),('The tablet comes with a detachable keyboard.','这台平板配有可拆卸键盘。'))
+Ac=[['晚期拉丁 appropiare → 古法语 aprochier','靠近；与 prope 近的材料相联'],['英语 approach → approachable','接近；处理事情的方式；可接近、平易近人的']]
+W('approach','英 /əˈprəʊtʃ/；美 /əˈproʊtʃ/','靠近；着手处理；接洽；方法',
+ '人向门口走近，是 approach；你从哪个角度接近一个问题，也就是怎样着手处理它。作名词常说这套办法。',
+ '经古法语接晚期拉丁 appropiare 靠近，关联拉丁 prope 近。没有一个常用英语 proach 可以独立拿来解释。',Ac,
+ 'approach a problem 处理问题；approach someone about something 就某事接洽某人；an approach to learning 学习方法。',
+ 'approach the entrance；an approach to。',
+ '动词 approach 通常直接接对象：approach the door；名词方法常用 an approach to the problem。不要把两个结构混在一起。',
+ ('We slowed down as we approached the village.','靠近村庄时，我们放慢了速度。'),('She suggested a different approach to the problem.','她提出了一种处理这个问题的新方法。'))
+W('approachable','英 /əˈprəʊtʃəbəl/；美 /əˈproʊtʃəbəl/','平易近人的；容易接近、易于理解的',
+ '遇到问题敢去问他，不怕被摆脸色，这种让人愿意接近的人叫 approachable。用在学科、文章上，也可说不那么吓人、容易入门。',
+ 'approach + -able；从能走近、接触的意义，发展到心理上容易亲近、内容容易进入。',Ac,
+ 'an approachable teacher 平易近人的老师；an approachable introduction 易读的入门介绍。',
+ 'friendly and approachable；an approachable style。',
+ 'approachable 说人好接近，available 说有空、可用；一个老师很亲切，也可能当天没空。',
+ ('The new manager is friendly and approachable.','新经理友善、平易近人。'),('The book offers an approachable introduction to astronomy.','这本书提供了容易入门的天文学介绍。'))
+Fa=[['古英语 fæþm 等','张开的双臂、怀抱；以臂展相关的长度计量'],['英语 fathom','英寻；测水深；引申为探明、理解'],['un- + fathom + -able → unfathomable','难以探究、理解的']]
+W('fathom','/ˈfæðəm/','理解、弄明白；测水深；英寻〔长度单位〕',
+ '先想像把深度探到底：fathom 原有长度、测深的联系；脑子里探不透别人为何这么做，就会说 cannot fathom。',
+ '延续古英语与双臂张开、怀抱、计量有关的材料。英寻后来定为六英尺；由测深转向理解的画面有助记忆，不需要编成每次测量都直接拿手臂量海。',Fa,
+ 'cannot fathom why/how 想不明白为何、怎样；a depth of ten fathoms 十英寻深。',
+ 'cannot fathom why；fathom the reason。',
+ 'fathom 现代日常动词常见于 cannot fathom，表示很难理解；普通听懂一句话通常用 understand，不必刻意换正式词。',
+ ('I cannot fathom why he refused the offer.','我想不明白他为什么拒绝那个提议。'),('The chart gives the depth in fathoms.','海图用英寻标注深度。'))
+W('unfathomable','/ʌnˈfæðəməbəl/','难以理解的；深不可测的',
+ '海太深，像探不到底；动机太奇怪，像脑子也摸不到底。unfathomable 用这份探不透的感觉说深度或理解困难。',
+ 'un- 不 + fathom 测深、理解 + -able；可看作否定 fathomable 能探明、理解的。',Fa,
+ 'an unfathomable mystery 难以理解的谜；for some unfathomable reason 出于某种令人费解的原因。',
+ 'unfathomable depths；an unfathomable reason。',
+ 'unfathomable 是难探透、难理解；invisible 是看不见。一个谜写在纸上看得清楚，也可能 unfathomable。',
+ ('For some unfathomable reason, the file had been renamed.','不知出于什么令人费解的原因，文件被改名了。'),('The ocean seemed to have unfathomable depths.','大海仿佛深不可测。'))
+Pe=[['拉丁 perire → 法语 perir、periss-','消逝、死亡、毁灭'],['英语 perish → perishable','死亡、消亡；会腐坏、不耐储存的']]
+W('perish','/ˈperɪʃ/','死亡、丧生；消亡、毁灭',
+ '生命、事物没能继续存活、存在下去，是 perish。常比普通 die 更正式、带悲剧或危险场景。',
+ '经古法语 perir 及 periss- 词干形式接拉丁 perire，历史对应 per- 穿过与 ire 去的材料；已经形成消逝、死亡的整体词义，不能今天只按走过去直译。',Pe,
+ 'perish in a fire 在火灾中丧生；perish from hunger 因饥饿死亡；perish the thought 是较戏剧化的千万别这么想。',
+ 'perish in；perish from。',
+ 'perish 多为不及物，表示自身死亡、消亡；kill 是使别的生命死亡的及物动词。',
+ ('Many plants perished in the severe frost.','许多植物在严霜中枯死了。'),('The report records those who perished at sea.','报告记载了那些在海上丧生的人。'))
+W('perishable','英 /ˈperɪʃəbəl/；美 /ˈperɪʃəbəl/','易腐坏的；不耐储存的；易腐食品〔复数〕',
+ '牛奶、鲜鱼放久了会坏，perishable goods 就是这类保存时间受限制、容易变质的东西。',
+ '与中古英语、法语相应形式相关，现代对应 perish + -able；从会消亡、损坏集中到商品尤其食品容易腐坏。',Pe,
+ 'perishable food 易腐食品；perishable goods 易腐货物；perishables 作复数名词说这类商品。',
+ 'perishable goods；perishable products。',
+ 'perishable 说容易变质，edible 说能吃；食品可食用但易坏，两词判断的不是同一件事。',
+ ('The shop has a separate section for perishable goods.','商店设有专门存放易腐商品的区域。'),('Fresh berries are highly perishable.','鲜浆果很容易变质。'))
+W('arguable','英 /ˈɑːɡjuəbəl/；美 /ˈɑːrɡjuəbəl/','有理由主张的；可争论、有疑问的',
+ '这说法能提出理由支持，但还不是铁板钉钉；arguable 因而可以从“有理由这样说”，也可以从“还值得争论”两面表达。',
+ 'argue 去 e 加 -able → arguable；-able 保留可以论证、讨论的意义，具体是在支持主张还是质疑确定性，要看句子。',
+ [['argue','争论；提出理由论证'],['argue + -able → arguable','有理由主张；可争论的']],
+ 'It is arguable that… 可以提出理由认为……；an arguable point 是可以论证、也可有争议的观点。',
+ 'It is arguable that；an arguable case。',
+ 'arguable 不是 unarguable 无可争辩的；副词 arguably 常表示可以说、按一种有依据的看法，并非绝对断言。',
+ ('It is arguable that the simpler design works better.','有理由认为，较简单的设计效果更好。'),('Whether the change was necessary remains arguable.','这次改动是否必要，仍有讨论余地。'))
+Qu=[['拉丁 quantus 等数量材料 → 中世纪拉丁 quantificare 等','多少；用数量来表达'],['英语 quantify → quantifiable','量化；能量化的']]
+W('quantify','英 /ˈkwɒntɪfaɪ/；美 /ˈkwɑːntɪfaɪ/','量化；确定、表达数量',
+ '只说“影响挺大”还很模糊；改成节省几小时、少花多少钱，就是在尝试 quantify：给影响一个数量表达。',
+ '接中世纪拉丁相应数量构词，现代可认 quant- 数量 + -ify 使成、表示成。不能以为加上数字就自动准确。',Qu,
+ 'quantify the impact 量化影响；quantify the benefits 量化收益；hard to quantify 难以量化。',
+ 'quantify the cost；difficult to quantify。',
+ 'quantify 是给出数量表达，qualify 常说取得资格、加以限定；一个突出多少，一个常与资格、条件有关。',
+ ('The team tried to quantify the time saved by the new tool.','团队试着量化新工具节省的时间。'),('Some benefits are difficult to quantify.','有些好处很难用数字表达。'))
+W('quantifiable','英 /ˈkwɒntɪfaɪəbəl/；美 /ˈkwɑːntɪfaɪəbəl/','可量化的；可用数量表示的',
+ '能给它一个数量、尺度来表达，就叫 quantifiable；例如节省的时间可计量，感受是否值得也许没那么容易量化。',
+ 'quantify 的 y 改 i，加 -able → quantifiable；读音仍保留 /faɪ/，字母改写不等于把发音改成短 i。',Qu,
+ 'quantifiable results 可量化结果；quantifiable benefits 可量化收益。',
+ 'a quantifiable impact；quantifiable evidence。',
+ 'quantifiable 是可以量化，quantified 是已经量化；可量化的指标也可能被测错，不自动等于可靠。',
+ ('The project produced quantifiable improvements in speed.','项目让速度有了可量化的提升。'),('We need clear, quantifiable goals.','我们需要清楚、可以量化的目标。'))
+W('unlockable','英 /ʌnˈlɒkəbəl/；美 /ʌnˈlɑːkəbəl/','可解锁的；也可指无法上锁的〔取决于拆法〕',
+ '游戏里的隐藏角色能靠完成任务解锁，是 unlockable。谈坏锁、没有锁的设施时，同一个词也可能表示无法锁上；必须读上下文。',
+ '两种括号：unlock + -able → 能解锁；un- + lockable → 不能上锁。un- 在前者属于 unlock 解锁的动作，在后者是否定整个可上锁形容词。',
+ [['unlock + -able','可以解锁的'],['un- + lockable','不能上锁的；与上一行是两种分析，不是先后演变']],
+ 'unlockable characters 可解锁角色；描述门时最好明确写 cannot be locked 或 can be unlocked，避免双义。',
+ 'unlockable content；an unlockable character。',
+ '前缀位置相同不代表作用范围相同。unreadable 通常是不能读、难读；unlockable 的两个拆法是特别直观的结构歧义例子。',
+ ('The game includes several unlockable characters.','游戏里有几个可解锁角色。'),('The report called the door unlockable, meaning that it could not be locked.','报告把这扇门称为 unlockable，意思是它无法上锁。'),sources=['https://en.wiktionary.org/wiki/unlockable#English'])
+W('forgivable','英 /fəˈɡɪvəbəl/；美 /fərˈɡɪvəbəl/','可原谅的；情有可原的',
+ '做错了，但考虑原因、程度，别人觉得还能放下、不必一直追究，可以说 forgivable。',
+ 'forgive 去 e 加 -able → forgivable；将原谅这个动作转成错误、疏忽具有的可原谅性质。',
+ [['forgive','原谅、不再因过错责怪'],['forgive + -able → forgivable','可以原谅的']],
+ 'a forgivable mistake 可原谅的错误；an entirely forgivable oversight 完全情有可原的疏忽。',
+ 'a forgivable error；quite forgivable。',
+ 'forgivable 是评价可原谅，forgiven 是已经被原谅；认为可以原谅，不保证当事人已经原谅。',
+ ('It was a forgivable mistake for a beginner.','对初学者来说，这是个情有可原的错误。'),('Her confusion was forgivable given the unclear instructions.','说明写得不清楚，她感到困惑是可以理解的。'))
+Fp=[['中古英语 flap 等；动词常解释为拟声材料','拍打、摆动'],['flap 的慌乱、使慌乱用法 → unflappable','不易被扰乱、临事镇定的']]
+W('flap','/flæp/','拍打、扑扇；活动片、盖片；慌乱〔尤英式〕',
+ '鸟翅膀一上一下拍，松布被风掀得来回动，都可说 flap。名词还能说能翻动的盖片，或一阵慌乱。',
+ '中古英语已有 flap 一类形式，动词常认为与拍打声、动作的拟声有关。身体或物体乱动的画面，又通到忙乱、惊慌用法。',Fp,
+ 'flap one’s wings 扑扇翅膀；a pocket flap 口袋盖片；get in a flap 慌起来〔常见英式〕。',
+ 'flap its wings；a flap of fabric。',
+ 'flap 说反复拍动或活动盖片；flip 常说快速翻一下，频率、动作画面不同。',
+ ('The bird flapped its wings and rose into the air.','鸟扑扇翅膀，飞了起来。'),('A loose flap of fabric covered the opening.','一片松动的布盖着开口。'))
+W('unflappable','/ʌnˈflæpəbəl/','临危不乱的；遇事沉着的',
+ '周围的人急得团团转，他仍能稳稳地处理事情，这种不容易被弄慌的人叫 unflappable。',
+ 'un- 不 + flap 使慌乱的材料 + -able，p 双写；不是不会扇翅膀，而是不容易被扰乱。',Fp,
+ 'an unflappable manner 沉着的态度；remain unflappable 保持镇定。',
+ 'an unflappable leader；remain unflappable。',
+ 'unflappable 侧重压力中不慌，indifferent 是不关心；镇定的人可能非常在乎，只是不乱。',
+ ('The unflappable nurse calmly reorganized the crowded waiting room.','沉着的护士平静地重新安排拥挤的候诊室。'),('He remained unflappable when the presentation equipment failed.','演示设备出故障时，他仍然镇定自若。'),sources=['https://en.wiktionary.org/wiki/unflappable#English','https://www.etymonline.com/word/unflappable'])
+Cp=[['拉丁 componere → compositus → 法语 compost','放到一起、混合的材料'],['英语 compost → compostable','堆肥；可以堆肥处理的']]
+W('compost','英 /ˈkɒmpɒst/；美 /ˈkɑːmpoʊst/','堆肥；把有机物作堆肥处理',
+ '落叶、厨余等有机物经过分解形成可改善土壤的材料，叫 compost；把材料这样处理，也可用作动词。',
+ '经古北法语接拉丁 compositus，与 componere 放到一起相联。原先混合的材料，在英语中固定到堆肥等用法；不是所有混合物都叫 compost。',Cp,
+ 'a compost heap 堆肥堆；add compost to soil 给土壤加入堆肥；compost food scraps 将厨余作堆肥处理。',
+ 'a compost heap；compost leaves。',
+ 'compost 是处理形成的堆肥、相应过程；普通 soil 土壤并不等同于 compost。',
+ ('They added compost to the vegetable beds.','他们给菜畦加入了堆肥。'),('The school composts leaves from the playground.','学校把操场上的落叶作堆肥处理。'))
+W('compostable','英 /ˈkɒmpɒstəbəl/；美 /ˈkɑːmpoʊstəbəl/','可堆肥处理的',
+ '不是只说最终会变碎，而是材料能在相应堆肥条件下分解、进入堆肥过程。产品写 compostable，还要看是哪种处理条件。',
+ 'compost + -able；由处理动作形成可接受这种处理的性质。这个词尾本身不说明家庭、工业条件或需要多长时间。',Cp,
+ 'compostable packaging 可堆肥包装；industrially compostable 适于工业堆肥条件。标为 compostable 的塑料未必能在家用堆肥箱中处理。',
+ 'compostable packaging；compostable materials。',
+ 'compostable 与 biodegradable 可生物降解相关但不完全相同；可堆肥也不自动等于可投进普通塑料回收。读具体标识与处理条件。',
+ ('The label says the packaging is compostable under industrial conditions.','标签说明这种包装可在工业堆肥条件下处理。'),('The café asked its supplier about compostable cups.','咖啡馆向供应商了解可堆肥杯子的情况。'),sources=['https://en.wiktionary.org/wiki/compostable#English','https://www.epa.gov/trash-free-waters/frequently-asked-questions-about-plastic-recycling-and-composting'])
+W('refillable','/ˌriːˈfɪləbəl/','可再次装满、补充的',
+ '墨水用完还能加，瓶子空了还能补装内容物，这类设计就叫 refillable。它强调可以补充，不是只能用掉就扔。',
+ 'refill 再装满 + -able；refill 对应 re- 再次 + fill 装满。',
+ [['re- + fill → refill','再次装满、补充'],['refill + -able → refillable','可补充使用的']],
+ 'a refillable pen 可加墨的笔；a refillable bottle 可补装的瓶子；a refillable cartridge 可补充的墨盒等。',
+ 'a refillable container；a refillable pen。',
+ 'refillable 是能补充，reusable 是能再用；可重复使用的物品不一定需要往里补充内容物。',
+ ('She uses a refillable fountain pen.','她用一支可以加墨的钢笔。'),('The shop sells shampoo in refillable bottles.','这家店用可补装的瓶子出售洗发水。'))
+R('A1677','能、可以、适合、值得，或容易处于某种状态','-ABLE：先问“这件事能对它做吗”，再看固定用法','readable 能读、好读；detachable 能拆下；forgivable 可以原谅。perishable 则是容易坏，formidable 是强大得令人敬畏，不能全部死译成能被。',
+ '最有用的是从动作想到物品、人的性质：customize 按需求调整，customizable 就是可以这样调整；approach 走近、接洽，approachable 就是好接近。能力、可能性、适合程度和评价会交叠，具体意思仍要连对象一起记。',
+ '接法语 -able、拉丁 -abilis，属于更广的 -bilis 系列；和 -ible 有历史关系，现代拼写不能只靠听音选择。readable 等可以在英语中接本源词继续构词；其他词可能整体借入。它与独立词 able 的历史来源不同，虽长期被使用者联想在一起。常见去 e：recognize → recognizable、forgive → forgivable；保留 e：changeable、interchangeable；y 改 i：quantify → quantifiable。unflappable 的 p 双写。formidable 的 formid- 接恐惧材料，不是 form 形成。',
+ [['辨认与英美拼写','recognize · recognise · recognizable · recognisable · unrecognizable'],['互换、定制和拆装','interchange · interchangeable · customize · customizable · retract · retractable · detach · detachable'],['接近、味觉与接受','approach · approachable · palate · palatable'],['探明、避免与保存','fathom · unfathomable · avoid · avoidable · perish · perishable'],['论证、计量与原谅','argue · arguable · quantify · quantifiable · forgive · forgivable'],['结构歧义和固定历史','lock · unlock · unlockable · flap · unflappable · formidable'],['循环使用和处理','refill · refillable · compost · compostable']],
+ 'customizable 可定制与 customized 已定制分开；forgivable 可原谅与 forgiven 已原谅分开；unlockable 的 unlock + able 与 un + lockable 可有不同意思；palatable 可以只是能接受，未必美味。',
+ 'The detachable cover is washable, and the refillable bottle is designed to be reusable.\n\n可拆卸的盖子能清洗，这个可补充使用的瓶子也设计为可以重复使用。',
+ 'formidable recognize recognise recognizable recognisable unrecognizable interchange interchangeable palate palatable avoid avoidable customize customizable retract retractable detach detachable approach approachable fathom unfathomable perish perishable argue arguable quantify quantifiable lock unlock unlockable forgive forgivable flap unflappable refill refillable compost compostable available valuable suitable reliable remarkable acceptable considerable affordable sustainable variable miserable notable profitable enjoyable renewable accountable desirable questionable predictable noticeable understandable respectable fashionable adjustable disposable knowledgeable payable unforgettable despicable preferable reputable playable manageable identifiable sizable taxable foreseeable undeniable relatable measurable attributable punishable believable readable removable wearable imaginable unthinkable advisable dependable inflatable lovable negotiable achievable reusable agreeable laughable unbeatable conceivable downloadable preventable unimaginable debatable unbreakable adaptable workable observable attainable pleasurable unmistakable objectionable obtainable marketable transferable doable detectable programmable enforceable actionable allowable expendable hospitable likable regrettable verifiable controllable scalable printable rechargeable replaceable bearable unattainable distinguishable enviable forgettable searchable impressionable treatable presentable executable livable passable recoverable traceable redeemable irrevocable breathable changeable refundable excitable impassable expandable reachable answerable repeatable recyclable unreachable collectable foldable unquestionable viewable washable walkable consumable drinkable unexplainable chargeable solvable watchable selectable winnable teachable countable configurable reportable provable testable quotable tunable deployable deliverable breakable employable extendable tradable transportable definable fixable addressable maneuverable exploitable saleable clickable exchangeable survivable stackable billable explainable editable repairable unsinkable shareable maintainable bookable dispensable adoptable discoverable electable bankable lockable reviewable bendable switchable purchasable buildable degradable drivable trainable insurable translatable')
+for x in WORDS:
+ if x['word']=='formidable':x['sources'].append('https://www.etymonline.com/word/-able')
+if __name__=='__main__':save('continuation_20261030_pv',ROOTS,WORDS)

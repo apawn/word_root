@@ -1,0 +1,580 @@
+[
+  {
+    "word": "ancestors",
+    "ipa": "英 /ˈænsestəz/；美 /ˈænsestərz/",
+    "meaning": "祖先、先辈；前身〔复数〕",
+    "sense": "在我们之前生活、把后代一路接到今天的人，是 ancestors。事物、物种也可以沿发展线往前找自己的祖先、前身。",
+    "split": "ancestor + -s，结尾读 /z/。ancestor 经法语 ancestre、ancessor 接拉丁 antecessor 先行者，来自 ante- 在前与 cedere 行进的词族。",
+    "history": [
+      [
+        "拉丁 antecedere、antecessor → 古法语 → ancestor",
+        "走在前面 → 前人、祖先"
+      ],
+      [
+        "ancestor + -s → ancestors",
+        "多位祖先、先辈；多个发展前身"
+      ]
+    ],
+    "explanation": "distant ancestors 远祖；common ancestors 共同祖先；honour ancestors 敬奉先人。",
+    "usage": "the ancestors of a machine 一种机器的早期前身；learn about ancestors 了解祖先。",
+    "contrast": "ancestors 通常指家系里更早的世代，descendants 是后代，方向相反。词形经过法语变化，现代不容易直接看出 ante 在前。",
+    "examples": [
+      [
+        "The family kept records of their ancestors.",
+        "这家人保存着祖先的记录。"
+      ],
+      [
+        "The museum shows the ancestors of modern computers.",
+        "博物馆展示现代计算机的早期前身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ancestors#English",
+      "https://en.wiktionary.org/wiki/ancestor#English"
+    ]
+  },
+  {
+    "word": "buttons",
+    "ipa": "/ˈbʌtənz/",
+    "meaning": "纽扣；按钮〔复数〕；扣纽扣〔第三人称单数〕",
+    "sense": "衣服上一个凸起小结扣住两边，是 button；机器、屏幕上按一下就起作用的小控制点，也叫 button。",
+    "split": "button + -s，/n/ 后读 /z/。button 借古法语 boton 芽、凸起、纽扣，联系 bouter 推、突出；现代控制按钮由用途扩展。",
+    "history": [
+      [
+        "古法语 bouter、boton → button",
+        "突出的小结 → 衣服纽扣"
+      ],
+      [
+        "button + -s → buttons；控制点扩展",
+        "多颗纽扣、多个按钮；某人扣好衣服"
+      ]
+    ],
+    "explanation": "shirt buttons 衬衫纽扣；control buttons 控制按钮；push someone’s buttons 触动、惹恼某人，口语。",
+    "usage": "press the buttons 按按钮；buttons up the coat 扣好外套。",
+    "contrast": "buttons 的纽扣和按钮靠用途区分。press a button 指按下控制，button a shirt 则是给衬衫扣扣子。",
+    "examples": [
+      [
+        "Two buttons were missing from the shirt.",
+        "衬衫少了两颗纽扣。"
+      ],
+      [
+        "The device has three control buttons.",
+        "设备有三个控制按钮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buttons#English",
+      "https://en.wiktionary.org/wiki/button#English"
+    ]
+  },
+  {
+    "word": "compelling",
+    "ipa": "/kəmˈpelɪŋ/",
+    "meaning": "强迫、驱使〔现在分词〕；令人信服、极有吸引力的〔形容词〕",
+    "sense": "力量强到你难以无视，是 compelling。证据强，让人很难不信；故事吸引人，让人很难不继续看。",
+    "split": "compel 双写 l 加完整 -ing。compel 经法语接拉丁 compellere，com- 加强或共同与 pellere 推；现代 ing 从强烈驱使发展形容词用法。",
+    "history": [
+      [
+        "拉丁 com- + pellere → compellere → 法语 → compel",
+        "驱到一起、逼迫 → 强烈驱使"
+      ],
+      [
+        "compel 双写 l + -ing → compelling",
+        "正在迫使；有强大说服力、吸引力的"
+      ]
+    ],
+    "explanation": "compelling evidence 有力证据；a compelling reason 令人信服的理由；a compelling story 引人入胜的故事。",
+    "usage": "compelling someone to act 迫使某人行动；a compelling argument 有说服力的论点。",
+    "contrast": "compelling 形容故事不表示故事真的在强迫人，而是吸引力强。compelling reasons 指理由很有分量，未必是在夸娱乐性。",
+    "examples": [
+      [
+        "She gave a compelling reason for the change.",
+        "她为变更提出了很有说服力的理由。"
+      ],
+      [
+        "The novel tells a compelling story.",
+        "小说讲了一个引人入胜的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compelling#English",
+      "https://en.wiktionary.org/wiki/compel#English"
+    ]
+  },
+  {
+    "word": "compiled",
+    "ipa": "/kəmˈpaɪld/",
+    "meaning": "汇编、编制、汇集；编译了〔过去式、过去分词〕",
+    "sense": "材料散在各处，把它们找来、整理成能一起使用的一份，就是 compiled；程序编译又是后来固定的技术用法。",
+    "split": "compile 去 e 加完整 -ed，/l/ 后读 /d/。compile 经法语 compiler 接拉丁 compilare，较早有搜掠、汇集材料义，现代整理义通常中性。",
+    "history": [
+      [
+        "拉丁 compilare → 法语 compiler → compile",
+        "搜掠、汇集材料 → 汇编、编制"
+      ],
+      [
+        "compile 去 e + -ed → compiled",
+        "已经整理汇成；技术语境已编译"
+      ]
+    ],
+    "explanation": "compiled a list 编制清单；compiled from records 根据记录汇编；compiled code 编译后的代码。",
+    "usage": "carefully compiled 精心编制的；compiled a report 汇编报告。",
+    "contrast": "compiled 不一定是原创每一条内容，常强调把材料汇集、整理。技术里的 compile 有具体转换含义，和普通把文件收进一个文件夹并不相同。",
+    "examples": [
+      [
+        "She compiled a list of useful books.",
+        "她编了一份实用书目。"
+      ],
+      [
+        "The report was compiled from local records.",
+        "报告根据当地记录汇编而成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compiled#English",
+      "https://en.wiktionary.org/wiki/compile#English"
+    ]
+  },
+  {
+    "word": "complications",
+    "ipa": "英 /ˌkɒmplɪˈkeɪʃənz/；美 /ˌkɑːmpləˈkeɪʃənz/",
+    "meaning": "复杂情况、额外麻烦；并发症〔复数〕",
+    "sense": "原来一件事还好办，又缠进别的关系、问题，让处理更难，就是 complications。医学里也借来说病程中附加的问题。",
+    "split": "complication + -s，/n/ 后读 /z/。complication 经法语接拉丁 complicatio，基于 com- 与 plicare 折在一起、纠缠，名词有独立借入史。",
+    "history": [
+      [
+        "拉丁 complicare → complicatio → 法语 → complication",
+        "折在一起、缠住 → 额外问题、复杂情况"
+      ],
+      [
+        "complication + -s → complications",
+        "多种复杂情况；医学里的并发问题"
+      ]
+    ],
+    "explanation": "unexpected complications 意外麻烦；avoid complications 避免节外生枝；further complications 更多复杂情况。",
+    "usage": "complications in the plan 计划中的复杂问题；medical complications 医学并发症。",
+    "contrast": "complications 不只医学用语，一般计划、关系里多出来的麻烦也常这样说。名词的独立借入史和现代 complicate 动词的对应关系可以同时理解。",
+    "examples": [
+      [
+        "The extra stop added complications to the journey.",
+        "多停这一站给旅程添了麻烦。"
+      ],
+      [
+        "The plot develops unexpected complications.",
+        "情节出现了意想不到的复杂变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complications#English",
+      "https://en.wiktionary.org/wiki/complication#English"
+    ]
+  },
+  {
+    "word": "debates",
+    "ipa": "/dɪˈbeɪts/",
+    "meaning": "辩论、讨论〔复数〕；辩论、权衡〔第三人称单数〕",
+    "sense": "观点有分歧，双方拿出理由来回交锋，是 debates。一个人也能在心里把两种办法来回权衡。",
+    "split": "debate + -s，/t/ 后读 /s/。debate 经法语 debatre、debat 等接击打、争斗词族，从动作交锋转到观点交锋。",
+    "history": [
+      [
+        "拉丁 battuere、法语 batre、debatre 等 → debate",
+        "击打、争斗 → 辩论、讨论"
+      ],
+      [
+        "debate + -s → debates",
+        "多场辩论；某人讨论、反复权衡"
+      ]
+    ],
+    "explanation": "public debates 公开辩论；debates over the plan 围绕计划的争论；debates whether to go 权衡要不要去。",
+    "usage": "school debates 学校辩论；debates the issue 讨论议题。",
+    "contrast": "debates 可以是正式活动，也可泛指观点讨论。argues 有时带争吵味，debates 更常让人想到围绕问题交换理由，但实际语气仍由上下文决定。",
+    "examples": [
+      [
+        "The class held debates on different topics.",
+        "班里围绕不同话题举行了辩论。"
+      ],
+      [
+        "She debates whether to change the design.",
+        "她权衡着要不要改设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/debates#English",
+      "https://en.wiktionary.org/wiki/debate#English"
+    ]
+  },
+  {
+    "word": "delays",
+    "ipa": "/dɪˈleɪz/",
+    "meaning": "延误、耽搁〔复数〕；推迟、拖延〔第三人称单数〕",
+    "sense": "原来应该往前走、按时发生的事，停了一下、往后挪了，就是 delays。可以数几次延误，也可以说什么使事情延后。",
+    "split": "delay + -s，元音后读 /z/，ay 保留。delay 的名词、动词分别接古法语 delaie、delaiier，含留下、让停留的旧 laier，较远有拉丁、法兰克语等不同分析。",
+    "history": [
+      [
+        "古法语 delaie、delaiier → 英语名词、动词 delay",
+        "让停留 → 延误、推迟"
+      ],
+      [
+        "delay + -s → delays",
+        "多次延误；某人、某事推迟活动"
+      ]
+    ],
+    "explanation": "traffic delays 交通延误；unexpected delays 意外耽搁；delays the start 推迟开始时间。",
+    "usage": "causes delays 造成延误；delays leaving 推迟出发。",
+    "contrast": "delays doing something 后面可接 ing，不直接说 delays to do。名词和动词都有自己的借入路线，现代同形不代表只在英语里临时互转。",
+    "examples": [
+      [
+        "The roadworks caused long delays.",
+        "道路施工造成了长时间延误。"
+      ],
+      [
+        "Heavy rain delays the start of the game.",
+        "大雨使比赛推迟开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/delays#English",
+      "https://en.wiktionary.org/wiki/delay#English"
+    ]
+  },
+  {
+    "word": "shifted",
+    "ipa": "/ˈʃɪftɪd/",
+    "meaning": "移动、转变、更换了〔过去式、过去分词〕",
+    "sense": "重心、位置、话题从原来那边挪到另一边，就是 shifted。不一定挪很远，关键是重点或所在处变了。",
+    "split": "shift + -ed，/t/ 后读 /ɪd/。shift 接古英语 sciftan 分配、安排，后来发展更换、移动、轮班等用法。",
+    "history": [
+      [
+        "古英语 sciftan → shift",
+        "分配、安排 → 更换、移动"
+      ],
+      [
+        "shift + -ed → shifted",
+        "位置、重点或状态已改变"
+      ]
+    ],
+    "explanation": "shifted the chair 挪椅子；shifted the focus 转移重点；shifted to a new topic 转向新话题。",
+    "usage": "shifted slightly 稍微移动；shifted from A to B 从 A 转向 B。",
+    "contrast": "shifted 可直接带被挪动的对象，也可说主语自己转变。the focus shifted 是重点变了，she shifted the focus 是她让重点变了。",
+    "examples": [
+      [
+        "He shifted the chair closer to the table.",
+        "他把椅子挪得更靠近桌子。"
+      ],
+      [
+        "The discussion shifted to the schedule.",
+        "讨论转到了日程安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shifted#English",
+      "https://en.wiktionary.org/wiki/shift#English"
+    ]
+  },
+  {
+    "word": "shifting",
+    "ipa": "/ˈʃɪftɪŋ/",
+    "meaning": "移动、转变、更换〔现在分词及形容词〕",
+    "sense": "位置、重心仍在往另一边挪，是 shifting。像脚下的沙不断移动，也可形容条件一直变、难站稳。",
+    "split": "shift + -ing，直接相加。shift 延续古英语分配、安排词族，现代移动、更换等义由旧动作背景发展。",
+    "history": [
+      [
+        "古英语 sciftan → shift",
+        "分配、安排 → 移动、更换"
+      ],
+      [
+        "shift + -ing → shifting",
+        "正在挪动、转变；不断变化的"
+      ]
+    ],
+    "explanation": "shifting the focus 转移重点；shifting priorities 不断变化的重点；shifting sand 流沙、移动的沙。",
+    "usage": "shifting from one task to another 从一个任务转向另一个；shifting position 改变位置、立场。",
+    "contrast": "shifting 强调正在变化、容易变；shifted 是已经变过的过去形式。shifting sands 也可比喻不稳定、不断变化的局势。",
+    "examples": [
+      [
+        "The team is shifting its focus to repairs.",
+        "团队正在把重点转到维修上。"
+      ],
+      [
+        "The guide warned us about the shifting sand.",
+        "向导提醒我们留意不断移动的沙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shifting#English",
+      "https://en.wiktionary.org/wiki/shift#English"
+    ]
+  },
+  {
+    "word": "pond",
+    "ipa": "英 /pɒnd/；美 /pɑːnd/",
+    "meaning": "池塘、小池",
+    "sense": "先想一片被围拦、蓄住的水，就是 pond 的老画面。今天也能说自然形成的小水域，不限人工挖出的池子。",
+    "split": "中古英语 pond 是 pound 圈围场所那一支的变体，联系旧 pyndan 围住、拦水等材料；和一磅重量、反复捶打的 pound 分源，更远来源未明。",
+    "history": [
+      [
+        "圈围、拦水词族；pound 的围栏一支 → pond",
+        "被堤岸围拦的水域"
+      ],
+      [
+        "池水名称的范围扩展",
+        "也指自然小水域；口语可用 the pond 打趣大西洋"
+      ]
+    ],
+    "explanation": "a garden pond 花园池塘；a fish pond 鱼塘；by the pond 池塘边。",
+    "usage": "across the pond 到大西洋另一边，英美往来语境的诙谐说法；a small pond 小池。",
+    "contrast": "pond 常比 lake 所说的湖小，但日常名称不靠一个统一尺寸分界。词源的人工围水画面，也不要求今天每个 pond 都是人造。",
+    "examples": [
+      [
+        "There is a pond behind the house.",
+        "房子后面有个池塘。"
+      ],
+      [
+        "Ducks swam across the pond.",
+        "鸭子游过池塘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pond#English",
+      "https://www.etymonline.com/word/pond"
+    ]
+  },
+  {
+    "word": "ponds",
+    "ipa": "英 /pɒndz/；美 /pɑːndz/",
+    "meaning": "池塘、小池〔复数〕",
+    "sense": "一片片能聚住水的小水域，就是 ponds。可以是花园水景，也可以是野外的小池。",
+    "split": "pond + -s，/d/ 后读 /z/。pond 是 pound 圈围一支的旧变体，从围住、拦蓄水域发展，不与重量名词混成一条来源。",
+    "history": [
+      [
+        "圈围、拦水词族 → 中古英语 pond",
+        "围住的水域 → 池塘、小池"
+      ],
+      [
+        "pond + -s → ponds",
+        "多个池塘、自然小水域"
+      ]
+    ],
+    "explanation": "garden ponds 花园池塘；small ponds 小池塘；ponds and streams 池塘与溪流。",
+    "usage": "ponds in the park 公园里的池塘；wildlife ponds 供野生生物栖息的池塘。",
+    "contrast": "ponds 通常说较小、相对静止的水域，streams 则是流动溪水。pond 不因为和 pound 同族，就读成 /paʊnd/，元音要单独记。",
+    "examples": [
+      [
+        "The park has two small ponds.",
+        "公园有两个小池塘。"
+      ],
+      [
+        "The ponds reflected the evening sky.",
+        "池塘映出了傍晚天空。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ponds#English",
+      "https://en.wiktionary.org/wiki/pond#English"
+    ]
+  },
+  {
+    "word": "portions",
+    "ipa": "英 /ˈpɔːʃənz/；美 /ˈpɔːrʃənz/",
+    "meaning": "份、部分；一份份食物〔复数〕；分份〔第三人称单数〕",
+    "sense": "把整体分开，每人、每次拿到一份，就是 portions；餐馆里也常说盘中一份有多大。",
+    "split": "portion + -s，/n/ 后读 /z/。portion 名词经法语或直接接拉丁 portio 份额；分份动词还有法语 porcioner、中世纪拉丁 portionare 的借入路线。",
+    "history": [
+      [
+        "拉丁 portio → 法语或英语 portion；另有分份动词借入",
+        "份额、部分；把东西分成份"
+      ],
+      [
+        "portion + -s → portions",
+        "多份食物、多个部分；某人分份"
+      ]
+    ],
+    "explanation": "large portions 大份食物；equal portions 等份；portions of the text 文章的一些部分。",
+    "usage": "divide into portions 分成几份；portions out the food 把食物分给大家。",
+    "contrast": "portions 不只指吃的，一段时间、文章、地区也可划成部分。servings 更突出供一人一次吃用的一份，portion 使用更广。",
+    "examples": [
+      [
+        "The café serves generous portions.",
+        "咖啡馆给的分量很足。"
+      ],
+      [
+        "We divided the cake into equal portions.",
+        "我们把蛋糕切成相等的几份。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portions#English",
+      "https://en.wiktionary.org/wiki/portion#English"
+    ]
+  },
+  {
+    "word": "recalled",
+    "ipa": "英 /rɪˈkɔːld/；美 /rɪˈkɔːld/，也 /rɪˈkɑːld/",
+    "meaning": "想起、回忆；召回了〔过去式、过去分词〕",
+    "sense": "把离开的东西叫回来，是 recalled；记忆也能像这样重新回到脑中，所以有想起、回忆义。",
+    "split": "recall + -ed，/l/ 后读 /d/。recall 是 re- 回与 call 召唤的组合，可能参照拉丁 revocare、法语 rappeler 等相应构词。",
+    "history": [
+      [
+        "re- + call → recall",
+        "叫回 → 召回；在脑中唤回"
+      ],
+      [
+        "recall + -ed → recalled",
+        "已回想起来；已召回"
+      ]
+    ],
+    "explanation": "recalled a name 想起名字；recalled the event 回忆事件；recalled a product 召回产品。",
+    "usage": "recalled from a trip 从行程中召回；vividly recalled 清楚回想起。",
+    "contrast": "recalled 可说人想起记忆，也可说机构把人、物召回。回忆动词 recalled 是后重音，别按名词 recall 的部分前重音用法套读。",
+    "examples": [
+      [
+        "She recalled the name after a moment.",
+        "过了一会儿，她想起了那个名字。"
+      ],
+      [
+        "The company recalled the faulty lamps.",
+        "公司召回了有问题的灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recalled#English",
+      "https://en.wiktionary.org/wiki/recall#English"
+    ]
+  },
+  {
+    "word": "reduces",
+    "ipa": "英 /rɪˈdjuːsɪz/；美 /rɪˈduːsɪz/",
+    "meaning": "减少、降低；使变成较小状态〔第三人称单数〕",
+    "sense": "把多的带到少，把高的带到低，是 reduces。词源先有带回来的动作，现代常看结果缩小、降低。",
+    "split": "reduce + -s，/s/ 后读 /ɪz/。reduce 接拉丁 reducere，re- 回与 ducere 带领，经法语相应形式进入英语。",
+    "history": [
+      [
+        "拉丁 re- + ducere → reducere → 法语、英语 reduce",
+        "带回 → 带到另一状态，后来常指较低状态"
+      ],
+      [
+        "reduce + -s → reduces",
+        "某因素使数量、程度下降"
+      ]
+    ],
+    "explanation": "reduces waste 减少废物；reduces the cost 降低成本；reduces something to a simpler form 化为较简单的形式。",
+    "usage": "reduces by half 减半；reduces to half 减到一半。",
+    "contrast": "reduces 常有被降低的对象，the change reduces costs 的 change 是起作用的原因。reduce by 后说减少量，reduce to 后说最终值，两者要分清。",
+    "examples": [
+      [
+        "The new layout reduces the amount of walking.",
+        "新布局减少了来回走动。"
+      ],
+      [
+        "The program reduces the image to half its size.",
+        "程序把图像缩到原来的一半。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reduces#English",
+      "https://en.wiktionary.org/wiki/reduce#English"
+    ]
+  },
+  {
+    "word": "regulated",
+    "ipa": "/ˈreɡjəleɪtɪd/",
+    "meaning": "调节、管理、监管了；受规则管理的〔过去式、过去分词〕",
+    "sense": "不是任它忽高忽低、随意行动，而是按一定准则把状态管住、调好，就是 regulated。",
+    "split": "regulate 去 e 加完整 -ed，/t/ 后读 /ɪd/。regulate 接后期拉丁 regulare、regulatus，根在 regula 直尺、准则，与 regere 引导、使直相关。",
+    "history": [
+      [
+        "拉丁 regula → regulare、regulatus → regulate",
+        "直尺、准则 → 按准则调节、管理"
+      ],
+      [
+        "regulate 去 e + -ed → regulated",
+        "已被调节；受规则约束"
+      ]
+    ],
+    "explanation": "regulated the temperature 调节了温度；a regulated activity 受监管的活动。",
+    "usage": "carefully regulated 仔细调节、严格管理的；regulated by a mechanism 由某机制调节。",
+    "contrast": "regulated 可以是装置自动调节，也可以是机构、规则管理。具体是温控还是制度监管，由宾语和 by 后面的施动者说明。",
+    "examples": [
+      [
+        "The device regulated the temperature automatically.",
+        "设备自动调节了温度。"
+      ],
+      [
+        "The activity is regulated by a set of clear rules.",
+        "这项活动受一套明确规则管理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/regulated#English",
+      "https://en.wiktionary.org/wiki/regulate#English"
+    ]
+  },
+  {
+    "word": "scales",
+    "ipa": "/skeɪlz/",
+    "meaning": "秤；刻度、尺度、音阶；鳞片〔复数〕；攀登、调整规模〔第三人称单数〕",
+    "sense": "这里要分三幅画：梯子的一层层帮助理解等级、刻度、音阶；碗盘承东西带出秤；薄片覆盖身体则是鳞片。",
+    "split": "scale + -s，/l/ 后读 /z/。尺度、攀登线接拉丁 scala 梯子；秤线接北欧 skal 碗盘；鳞片线经法语 escale 接日耳曼来源，近源不同。",
+    "history": [
+      [
+        "拉丁 scala；北欧 skal；法语 escale 等 → 不同 scale",
+        "梯子与尺度；秤盘；壳、鳞片三条来源"
+      ],
+      [
+        "scale + -s → scales",
+        "多个刻度、音阶、鳞片；常用秤名；某人攀登、调规模"
+      ]
+    ],
+    "explanation": "kitchen scales 厨房秤；musical scales 音阶；fish scales 鱼鳞。",
+    "usage": "scales a wall 攀墙；scales the image 缩放图像；tip the scales 使天平倾向、起决定作用。",
+    "contrast": "scales 有时是一台秤的固定复数形式，不一定是几台。鱼鳞、秤、音阶同形，不适合硬讲成鱼鳞一层层最后变成了称重设备。",
+    "examples": [
+      [
+        "She weighed the flour on the kitchen scales.",
+        "她用厨房秤称了面粉。"
+      ],
+      [
+        "The child practised musical scales every day.",
+        "孩子每天练音阶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scales#English",
+      "https://en.wiktionary.org/wiki/scale#English"
+    ]
+  },
+  {
+    "word": "segments",
+    "ipa": "名词常 /ˈseɡmənts/；动词 /seɡˈments/，也有前重音",
+    "meaning": "部分、段、片；细分群体〔复数〕；分段〔第三人称单数〕",
+    "sense": "把一个整体分成几段，每一段是 segment；橘子的一瓣、节目的一节、市场的一组人，都可以按部分来理解。",
+    "split": "segment + -s，/t/ 后读 /s/。segment 借拉丁 segmentum 切下的一块，与 secare 切相连，seg- 是拉丁词形留下的变化；英语后来转作分段动词。",
+    "history": [
+      [
+        "拉丁 secare → segmentum → 英语 segment",
+        "切 → 切下的一块、整体的一段"
+      ],
+      [
+        "segment + -s → segments",
+        "多个部分、细分群体；某人把整体分段"
+      ]
+    ],
+    "explanation": "orange segments 橘瓣；market segments 细分市场；segments of a programme 节目的各节。",
+    "usage": "divide into segments 分成几段；segments the data 将数据分段。",
+    "contrast": "segments 常强调整体中可单独识别的一段。section、part 也说部分，但未必带切分为连续段的感觉；技术领域又会有专门定义。",
+    "examples": [
+      [
+        "She divided the orange into segments.",
+        "她把橘子分成一瓣瓣。"
+      ],
+      [
+        "The programme has three short segments.",
+        "节目分为三个简短部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/segments#English",
+      "https://en.wiktionary.org/wiki/segment#English"
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "B2948",
+    "meaning": "黄油材料、香味与触感各自进入组合",
+    "core": "BUTTER：香、润、滑；组合不全是配方",
+    "image": "butter → buttery；buttermilk、buttercream 接乳品；butterscotch 糖品；butterball 形状；butternut、buttercup、butterfly 各按名称历史。",
+    "intro": "buttery texture 可只说手感；butternut squash 不是黄油拌坚果；旧 buttery 贮藏室另源。不要把一切组合都当成原料清单。",
+    "forms": "butter + -y/ball/scotch；butter + milk/cream/nut/cup/fly；buttery 房间义另接法语贮藏词。",
+    "branches": [
+      [
+        "基础与黄油般性质",
+        "butter · buttery"
+      ],
+      [
+        "食品和形状",
+        "buttermilk · buttercream · butterscotch · butterball · butternut"
+      ],
+      [
+        "植物与昆虫名称",
+        "buttercup · butterfly"
+      ]
+    ],
+    "contrasts": "buttery 触感与配料；butterscotch 后段未定；butterball 形状比喻；buttermilk、buttercream 具体产品并非逐字配方。",
+    "practice": "The buttery biscuits tasted of butterscotch.\n\n油润的饼干带着黄油糖的风味。",
+    "words": [
+      "butter",
+      "buttery",
+      "buttermilk",
+      "buttercream",
+      "butterscotch",
+      "butterball",
+      "butternut",
+      "buttercup",
+      "butterfly"
+    ],
+    "exclude": {
+      "butter-ham": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3026",
+    "meaning": "炭火旧义、矿物煤与木炭材料",
+    "core": "COAL：先分矿物煤和旧炭块用法",
+    "image": "coal → coalfield；charcoal 木炭及画材；collier 煤业人物、运煤船。",
+    "intro": "charcoal 词史比“char 烧焦 + coal”表面拆分复杂，char 动词可能逆构。collier 的 -ier 和煤词干变化也一起交代。",
+    "forms": "col → coal；charcole → charcoal；coler、colier → collier；coal + field → coalfield。\n\n与 coal 比较燃料，coke 焦炭来自英格兰北部词，可能接旧 colke 核心、木炭等材料，远源不定。饮料 Coke 缩略 Coca-Cola，可卡因俗称 coke 缩略 cocaine，各自有来源。",
+    "branches": [
+      [
+        "煤与煤田",
+        "coal · coalfield"
+      ],
+      [
+        "木炭与煤业人物工具",
+        "charcoal · collier"
+      ],
+      [
+        "coke：焦炭一支；饮料、药物名称缩略另支",
+        "coke · cokes"
+      ]
+    ],
+    "contrasts": "coal/charcoal 矿物煤与木炭；collier/collar 煤业人物船与领子；char/charcoal 留意逆构方向。",
+    "practice": "The collier carried coal, while the artist carried charcoal for drawing.\n\n运煤船载着煤，画家则带着绘画用的炭笔。",
+    "words": [
+      "coal",
+      "coalfield",
+      "charcoal",
+      "collier",
+      "coke",
+      "cokes"
+    ],
+    "exclude": {
+      "coal-smoke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3723",
+    "meaning": "装在一起的一套，动物幼崽另源",
+    "core": "KIT：容器到成套装备；KITTY 不全接这支",
+    "image": "kit → toolkit、rootkit；kit 幼崽接 kitten 等缩短；kitty 猫称呼、钱池分别辨来源。",
+    "intro": "kitty 公款的起源未定，不能因为可以放进包就当成确定的 kit + -y 历史。rootkit 则明确取技术权限与套件材料。",
+    "forms": "kitte 等容器名 → kit 成套用品；tool/root + kit；kitten、kitling → kit 幼崽；kitty 两路另辨。\n\nkit 是成套用品，不仅一只箱子。\n\nkit 较早指木桶等容器，可能借荷兰语相应词，远源未定；后来由容器转称里面的一套用品、工具与装配套件。复数 -s，词尾 /ts/。",
+    "branches": [
+      [
+        "成套装备与同形基础",
+        "kit"
+      ],
+      [
+        "猫昵称、公共款与软件套件",
+        "kitty · toolkit · rootkit"
+      ],
+      [
+        "toolkit → toolkits：成套工具、资源",
+        "kit · toolkit · toolkits"
+      ],
+      [
+        "容器 → 随身物品 → kits",
+        "kits"
+      ]
+    ],
+    "contrasts": "kit/toolkit 成套用品与特定工具包；kitty 猫与公款同形；rootkit 不泛指任何管理员软件。",
+    "practice": "We used money from the kitty to buy a repair kit.\n\n我们用公用款买了一套维修工具。",
+    "words": [
+      "kit",
+      "kitty",
+      "toolkit",
+      "rootkit",
+      "toolkits",
+      "kits"
+    ],
+    "exclude": {
+      "kittle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3010",
+    "meaning": "东西沾了水，或把它弄出水分",
+    "core": "WET：湿的，也能说弄湿",
+    "image": "wet → wetter、wettest 规则比较；wetland、wetsuit 各有自然环境、服装功能专名。",
+    "intro": "wet paint 说漆还没干，不要求正在下雨；wetsuit 湿式潜水服名称也有具体设计原理，不能只理解成任何湿衣服。",
+    "forms": "wǣt、wǣtan 等 → wet；wet + -er/-est → wetter、wettest；wet + land/suit。\n\n动词和形容词各有古英语相关材料；过去式 wet、wetted 均用，wetted 双写 t 加完整 -ed，不能把 wets 只当形容词的错误复数。",
+    "branches": [
+      [
+        "湿与弄湿基础",
+        "wet"
+      ],
+      [
+        "湿地与服装组合",
+        "wetland · wetsuit"
+      ],
+      [
+        "wet 的动词变化：使湿、变湿",
+        "wet · wets · wetted · wetting"
+      ]
+    ],
+    "contrasts": "wet/damp 湿与微潮；wetter 比较级与专门名词看语境；wet paint 不等于雨水。",
+    "practice": "The wetsuit was still wet when we left the wetland.\n\n我们离开湿地时，湿式潜水服仍是湿的。",
+    "words": [
+      "wet",
+      "wetland",
+      "wetsuit",
+      "wets",
+      "wetted",
+      "wetting"
+    ],
+    "exclude": {
+      "wet-leasing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wetter": "日常比较级 wetter 已解释；湿润剂等独立名词较专门，暂不单列。"
+    }
+  }
+]

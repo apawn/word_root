@@ -1,0 +1,479 @@
+[
+  {
+    "id": "A2301",
+    "meaning": "alphabet 的字母缩短材料",
+    "core": "ALPHA-：在字符词族里，先认字母这一半",
+    "image": "alphanumeric 把字母和数字归为一类：常见于账号、编号和密码规则。这里 alpha- 给字母，numeric 给数字。",
+    "intro": "本页这一用法由 alphabet 缩短形成，较深处接希腊字母名称 alpha、beta。它与 alpha 表第一、领先等另一组用法需要按词区分。",
+    "forms": "alphabet → alpha-；alpha- + numeric → alphanumeric。alphabetic、alphabetical 是完整字母表词族的相邻形容词。\n\nt 后加 s，尾 ts。",
+    "branches": [
+      [
+        "字母表及排列性质",
+        "alphabet · alphabetical"
+      ],
+      [
+        "字母数字类字符",
+        "alphanumeric"
+      ],
+      [
+        "alphabet → alphabets：名词 s 复数",
+        "alphabet · alphabets"
+      ]
+    ],
+    "contrasts": "alphanumeric 本身通常把字母、数字归为允许字符类；若规则要求至少一个字母和一个数字，还要另外写清楚。",
+    "practice": "The identifier contains eight alphanumeric characters.\n\n这个标识符包含八个字母数字字符。",
+    "words": [
+      "alphabet",
+      "alphabetical",
+      "alphanumeric",
+      "alphabets"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1690",
+    "meaning": "一万亿倍，10¹²",
+    "core": "TERA-：比 giga- 再大一千倍的数量级",
+    "image": "GB 到 TB 每上一级乘一千：十进制一千 GB 是一 TB。先把 tera- 记成一万亿，单位再看后面。",
+    "intro": "国际单位制采用的前缀，名称与希腊 teras 巨物、怪物的材料相关。不要凭拼写把它当成 tetra- 四的普通同义形式。",
+    "forms": "tera- 10¹² + byte 字节 → terabyte。作为标准前缀符号写大写 T，TB 的 B 又指 byte，不是小写 b 的 bit。\n\ntera- 接希腊 teras 奇物、巨物、怪物等材料，现代十进制 TB 表示万亿字节；学习倍率按现代约定，旧词义只帮助记住大尺度。",
+    "branches": [
+      [
+        "数据数量级的相邻对照",
+        "byte · gigabyte · terabyte"
+      ],
+      [
+        "tera-：从巨物的名称材料到万亿倍",
+        "terabytes"
+      ]
+    ],
+    "contrasts": "tera- 在 SI 中是精确的十进制数量级；TiB 的二进制单位另有名称。看硬盘、系统容量时同时核对数值和单位。",
+    "practice": "The archive occupies one terabyte of storage.\n\n这个资料库占用一太字节的存储空间。",
+    "words": [
+      "byte",
+      "gigabyte",
+      "terabyte",
+      "terabytes"
+    ],
+    "exclude": {
+      "tera-amp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tera-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tera-volt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tera-ohm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tera-joule": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "terahertz": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1837",
+    "meaning": "四〔quadri- 的缩短〕",
+    "core": "QUAD-：先数四个，再看是在数什么",
+    "image": "quadcopter 数四个旋翼，quadruped 数四足。后部决定四的对象，quad- 提供数量。",
+    "intro": "quad- 是 quadri- 等四相关材料的缩短形式，远接拉丁 quattuor 四。现代英语技术名称中可按此类比构词。",
+    "forms": "quad- + copter → quadcopter；quadruped 是相邻拉丁四、足材料词族，帮助对照数量与对象。",
+    "branches": [
+      [
+        "四足动物的相邻数量材料",
+        "quadruped"
+      ],
+      [
+        "四旋翼飞行器",
+        "quadcopter"
+      ]
+    ],
+    "contrasts": "quadcopter 中的 quad 数旋翼；不能因为 drone 常有四旋翼，就把一切 drone 都译为 quadcopter。",
+    "practice": "The quadcopter has four rotors.\n\n这架四旋翼飞行器有四个旋翼。",
+    "words": [
+      "quadruped",
+      "quadcopter"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1707",
+    "meaning": "半、部分",
+    "core": "DEMI-：有一部分性质，未必是整整一半",
+    "image": "demigod 的古代神话用法常说半神，也能夸一个人被人崇拜得像神。这里的半常是身份、性质上的部分关系。",
+    "intro": "经盎格鲁法语 demi 半，接拉丁 dimidius 一半的词族。进入英语后，部分、不完全的关系在固定词中发展。",
+    "forms": "demi- 半、部分 + god 神 → demigod。不同神话传统对半神身份的说法各有背景，现代又有崇拜名人的比喻。",
+    "branches": [
+      [
+        "半神及被过度崇拜的人",
+        "demigod"
+      ]
+    ],
+    "contrasts": "demigod 的比喻可带夸张、批评或敬仰语气；普通 hero 英雄不一定暗示被当神崇拜。",
+    "practice": "His fans treated the singer like a demigod.\n\n歌迷把那位歌手捧得像神一样。",
+    "words": [
+      "demigod"
+    ],
+    "exclude": {
+      "demi-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "demi-cannon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "demi-vegetarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "demi-matte": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1711",
+    "meaning": "二、两个",
+    "core": "DUO-：把数量明确落在两个",
+    "image": "duo 是二人组合，duopoly 是两家主要主体控制的市场。一个是人物组合，一个是经济结构。",
+    "intro": "来自拉丁 duo 二。duo 还经意大利语等音乐用语进入英语；duopoly 又借 monopoly 的后部类比造词。",
+    "forms": "duo 二人组合；duo- 二 + 垄断词族的 -poly → duopoly。不能把后者误拆为 duo + poly- 许多。",
+    "branches": [
+      [
+        "二人组合",
+        "duo"
+      ],
+      [
+        "两个主要主体的市场",
+        "duopoly"
+      ]
+    ],
+    "contrasts": "a duo 可说音乐二重奏组合、搭档；duopoly 是市场结构，并不是两人一起唱歌或两人组成的普通公司。",
+    "practice": "The market is dominated by a duopoly.\n\n这个市场由两家主要企业主导。",
+    "words": [
+      "duo",
+      "duopoly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1708",
+    "meaning": "六",
+    "core": "HEXA-：从六这个数量认识十六进制的前半",
+    "image": "hexadecimal 不是六进制，而是十六进制；hexa- 六与 decimal 里的十这一材料组合，形成完整名称。",
+    "intro": "经拉丁化 hexa- 接希腊 hex 六。hexadecimal 是现代技术词，借六、十的材料表达十六这一进制。",
+    "forms": "hexa- 六 + decimal 十相关 → hexadecimal；相应实际用法以 0–9 和 A–F 表示十六种数码。",
+    "branches": [
+      [
+        "十六进制及相关表示",
+        "hexadecimal"
+      ]
+    ],
+    "contrasts": "hexa- 单独给六，但完整 hexadecimal 是十六进制。拆分帮助记词，最终要按固定的技术定义理解。",
+    "practice": "The colour is written as a hexadecimal code.\n\n这个颜色用十六进制代码表示。",
+    "words": [
+      "hexadecimal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2384",
+    "meaning": "回声",
+    "core": "ECHO-：声音出去，再从环境中返回",
+    "image": "蝙蝠发出声音，听返回来的回声判断周围物体，echolocation 把回声与定位接起来。",
+    "intro": "来自希腊 echo 回声、延续的声音，经拉丁、法语等相关形式进入英语。现代科学把 echo 接到定位等技术名称。",
+    "forms": "echo 回声 + location 定位 → echolocation。这个复合表示利用回声来获取位置、环境信息。",
+    "branches": [
+      [
+        "回声",
+        "echo"
+      ],
+      [
+        "利用回声定位",
+        "echolocation"
+      ]
+    ],
+    "contrasts": "echolocation 的关键是用返回的声音判断环境；有声音并不自动构成定位。它也不等于所有无线电雷达技术。",
+    "practice": "Bats use echolocation to navigate in the dark.\n\n蝙蝠利用回声定位在黑暗中辨路。",
+    "words": [
+      "echo",
+      "echolocation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1858",
+    "meaning": "自动程序、机器人相关的缩短材料",
+    "core": "-BOT：把某种任务交给自动执行的主体",
+    "image": "chatbot 的 chat 给任务：聊天、对话。bot 给执行者：一个自动回应的软件系统。",
+    "intro": "bot 从 robot 截短；robot 更早借自捷克语，其词族与劳动有关。截短后的 bot 又进入聊天、搜索等现代复合。",
+    "forms": "robot → bot；chat 聊天 + bot → chatbot。长词变短，再拿短词参与复合，是现代构词常见路径。\n\n现代网络 bot 缩略 robot；bots 是多个自动程序、软件代理。词形与老虫名 bot 相同，不表示网络程序从虫名直接演变，现代任务也可能有益或有害。",
+    "branches": [
+      [
+        "完整名称与缩短",
+        "robot · bot"
+      ],
+      [
+        "对话任务的自动系统",
+        "chatbot"
+      ],
+      [
+        "robot → bot → bots：软件自动执行者的短称",
+        "bot · bots"
+      ]
+    ],
+    "contrasts": "bot 不一定有实体身体，也不一定使用生成式人工智能；chatbot 特别把任务限定到对话，具体能力因系统而异。",
+    "practice": "The chatbot helps visitors find opening hours.\n\n聊天机器人帮助访客查询开放时间。",
+    "words": [
+      "robot",
+      "bot",
+      "chatbot",
+      "bots"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2171",
+    "meaning": "向内、在里面",
+    "core": "INTRO-：把方向从外部转向内部",
+    "image": "introversion 在心理学词族里说内向；introvert 是相应人物名或动词形式，introverted 形容性格内向。",
+    "intro": "来自拉丁 intro 向内、里面，作为前部进入近代学术命名。心理学里的词义经历了专门定义和日常概括。",
+    "forms": "intro- 向内 + vert- 转 → introvert；对应名词 introversion，形容词 introverted。ver-/vert- 在拉丁相关词干中有不同形式。",
+    "branches": [
+      [
+        "内向者及相关性质、倾向",
+        "introvert · introverted · introversion"
+      ]
+    ],
+    "contrasts": "introversion 不是害羞的简单同义词：内向者也能自在社交，日常常侧重更偏好安静、独处和较少刺激的环境。",
+    "practice": "She is introverted but enjoys talking with close friends.\n\n她性格内向，但喜欢和亲近的朋友聊天。",
+    "words": [
+      "introvert",
+      "introverted",
+      "introversion"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2403",
+    "meaning": "转向；相应状态、过程的历史词族后部",
+    "core": "-VERSION：沿转向的材料理解内向这一名称",
+    "image": "introversion 把向内与转向连起来，后来成为心理倾向的名称；先用方向记材料，再按现代性格用法理解。",
+    "intro": "version 及相关 -version 词形接拉丁 versio 转动、转向，联系 vertere 转。英语不同完整词往往经拉丁、法语或近代学术命名分别传入。",
+    "forms": "intro- 向内 + vers- 转的相关词干 + 名词材料 → introversion；introvert、introverted 是这一小词族的相应形式。",
+    "branches": [
+      [
+        "向内的词族",
+        "introvert · introverted · introversion"
+      ]
+    ],
+    "contrasts": "词末相同的 version 还可以是版本名称，但 introversion 不应译成里面的版本。历史的转向材料与现代独立词的全部意思不能混用。",
+    "practice": "The article discusses introversion and social preferences.\n\n文章讨论了内向倾向与社交偏好。",
+    "words": [
+      "introvert",
+      "introverted",
+      "introversion"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1893",
+    "meaning": "时期、时节；节期〔旧义〕",
+    "core": "-TIDE：保留下来的某段时间、节期",
+    "image": "Yuletide 说圣诞时节。这个 tide 让你把注意放到一年里的那段时间，而不是海边。",
+    "intro": "来自古英语 tid 时间、时段、节日等，经中古英语复合词保留。现代独立 tide 最常说潮汐，但更早时间义仍在固定词里。",
+    "forms": "Yule 传统冬季节日、圣诞相关名称 + -tide 时节 → Yuletide。也有小写 yuletide 的节期写法。",
+    "branches": [
+      [
+        "圣诞时节的传统名称",
+        "yuletide"
+      ]
+    ],
+    "contrasts": "Yuletide 有传统、文学、贺词色彩；普通日常说 Christmas season 更透明。这里学习的是固定词里保存的旧义。",
+    "practice": "The family gathered at Yuletide.\n\n全家在圣诞时节团聚。",
+    "words": [
+      "yuletide"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1745",
+    "meaning": "自身的、特有的〔德语材料〕",
+    "core": "EIGEN-：某个系统自身具有的特征",
+    "image": "eigenvalue 是特征值。对一个线性变换，某些非零向量经过变换，只变成自身的某个倍数；这个倍数就是特征值，也允许变成零。",
+    "intro": "借自德语 eigen 自己的、特有的。eigenvalue 是德语 Eigenwert 的部分翻译：前部保留德语，后部 value 翻译 Wert。",
+    "forms": "德语 Eigenwert → 英语 eigenvalue；eigen- 特有的 + value 值。它是数学术语，不是日常个人价值的评价。",
+    "branches": [
+      [
+        "线性代数中的特征值",
+        "eigenvalue"
+      ]
+    ],
+    "contrasts": "方向图景适合先理解实数情形；正式数学用 Av = λv、v 不为零定义。eigenvalue 是 λ，不能与那个向量 v 混为同一个对象。",
+    "practice": "The students calculated the eigenvalues of the matrix.\n\n学生们计算了这个矩阵的特征值。",
+    "words": [
+      "eigenvalue"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2210",
+    "meaning": "四〔希腊四的相关形式〕",
+    "core": "TESSARA-：在 tesseract 中看四维这个四",
+    "image": "点、线、面、立方体继续向更多维推广，tesseract 是四维的立方体对应物。这个四在数维度。",
+    "intro": "来自希腊 tessara、tessares 四的相关形式，与 tetra- 是相邻数量材料。十九世纪造词 tesseract 采用四与射线的希腊材料。",
+    "forms": "tessara- 四 + aktis 射线相关材料 → tesseract。现代词中缩合为 tesseract，不把末尾 act 当英语行动。",
+    "branches": [
+      [
+        "四维立方体的名称",
+        "tesseract"
+      ]
+    ],
+    "contrasts": "tetrahedron 是三维四面体；tesseract 是四维超立方体。前部都联系四，但四个面与四个维度不是一回事。",
+    "practice": "The book explains the tesseract through lower-dimensional analogies.\n\n这本书用较低维度的类比解释四维超立方体。",
+    "words": [
+      "tesseract"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2090",
+    "meaning": "拟声、加强等历史分析；本例来源不确定",
+    "core": "KER-：在固定词中认形，不硬定统一词义",
+    "image": "kerfuffle 像一阵乱哄哄的风波。可以借声音记这个词，但不能把这个记忆画面冒充已经证实的来源。",
+    "intro": "ker- 常见于拟声、加强性质的词形；kerfuffle 的近源联系苏格兰 curfuffle，前部也有盖尔语来源等分析，确切路径不确定。",
+    "forms": "苏格兰 curfuffle 等 → 英语 kerfuffle；后部与 fuffle 弄乱相关。ker- + fuffle 是可用的认形分析，不证明前部有唯一确定词源。",
+    "branches": [
+      [
+        "非正式的吵闹、风波",
+        "kerfuffle"
+      ]
+    ],
+    "contrasts": "这里不把 ker- 当可随意套用的高频前缀；掌握 kerfuffle 的语气和搭配更实用。",
+    "practice": "The change caused quite a kerfuffle.\n\n这个改动引起了好一阵风波。",
+    "words": [
+      "kerfuffle"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2277",
+    "meaning": "离子相关",
+    "core": "IONO-：把对象接到带电粒子上",
+    "image": "ionosphere 是电离层，大气中电离显著的区域。iono- 给离子，sphere 给层域这一命名关系。",
+    "intro": "由英语 ion 离子 + 连接元音 o 形成组合材料；ion 的更早名称接希腊行走、移动的词族，来自近代电化学命名。",
+    "forms": "ion + -o- → iono-；iono- + sphere → ionosphere。sphere 在此说大气区域，不是一个单独固体球。",
+    "branches": [
+      [
+        "离子",
+        "ion"
+      ],
+      [
+        "大气电离区域",
+        "ionosphere"
+      ]
+    ],
+    "contrasts": "ionosphere 是按电离特征认识的大气区域，不能简单等同于按温度分层定义的某一个大气层；不同划分依据可以重叠。",
+    "practice": "The ionosphere affects the propagation of some radio signals.\n\n电离层会影响某些无线电信号的传播。",
+    "words": [
+      "ion",
+      "ionosphere"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2352",
+    "meaning": "道路、路程",
+    "core": "ODO-：沿路走了多远",
+    "image": "odometer 记录汽车累计走过的路程；仪表上的数字跟着旅程不断增加。",
+    "intro": "来自希腊 hodos 道路、路径，进入近代测量仪器词族。英语中也有 hodometer 等历史相邻形式，现代常用 odometer。",
+    "forms": "odo- 路程 + -meter 测量仪 → odometer。前部给测量对象，后部给仪器。",
+    "branches": [
+      [
+        "车辆累计里程仪",
+        "odometer"
+      ]
+    ],
+    "contrasts": "odometer 记录累计路程；speedometer 测当前速度。一个回答走了多远，一个回答现在多快。",
+    "practice": "The odometer showed eighty thousand kilometres.\n\n里程表显示累计行驶了八万公里。",
+    "words": [
+      "odometer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2392",
+    "meaning": "摆动、振荡相关",
+    "core": "OSCILLO-：把来回变化变成可观察的曲线",
+    "image": "oscilloscope 是示波器，可以把随时间变化的信号画成波形；先想屏幕上一条随信号起伏的线。",
+    "intro": "接拉丁 oscillare 摆动的词族及近代科学组合形式。oscillation、oscillate 也是这组振荡材料的相邻英语词。",
+    "forms": "oscillate 振荡；oscillation 振荡这一现象；oscillo- + -scope 观察装置 → oscilloscope。相关词往往分别经过近代学术命名。",
+    "branches": [
+      [
+        "振荡动作与现象",
+        "oscillate · oscillation"
+      ],
+      [
+        "观察信号的仪器",
+        "oscilloscope"
+      ]
+    ],
+    "contrasts": "示波器显示信号波形，不只是测频率；频率、幅度和变化过程等都可能从具体测量中观察。oscillate 还可以比喻观点来回摇摆。",
+    "practice": "The engineer examined the signal on an oscilloscope.\n\n工程师用示波器查看信号。",
+    "words": [
+      "oscillate",
+      "oscillation",
+      "oscilloscope"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1726",
+    "meaning": "七",
+    "core": "HEPTA-：七个、七项的数量材料",
+    "image": "heptathlon 是七项全能，参加者完成七个规定项目，再按规则计分；hepta- 给七，后部给竞赛关系。",
+    "intro": "来自希腊 hepta 七，经学术构词进入现代体育名称。不同赛制的七项具体项目可不同，名称本身只提供数量线索。",
+    "forms": "hepta- 七 + -athlon 竞赛 → heptathlon。athlete、athletics 是相邻竞赛材料词族，但并不是这个词的七项内容清单。",
+    "branches": [
+      [
+        "七项全能",
+        "heptathlon"
+      ]
+    ],
+    "contrasts": "heptathlon 不等于第七次比赛；它是一项包含七个分项的全能赛事。具体项目需要看室内、室外等赛事设置。",
+    "practice": "She competes in the heptathlon.\n\n她参加七项全能比赛。",
+    "words": [
+      "heptathlon"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2323",
+    "meaning": "magnet、magnetic 的缩短材料",
+    "core": "MAG-：把磁这一技术关系放到前面",
+    "image": "maglev 把磁与悬浮合在一起：用磁力实现悬浮的技术、列车。它是现代长词缩短再拼合。",
+    "intro": "mag- 缩自 magnetic 等，lev 缩自 levitation 悬浮；maglev 通常分析为 magnetic levitation 的缩合。",
+    "forms": "magnetic + levitation → maglev。magnetic 的词族更早与 magnet 磁铁相连，levitation 则来自轻、抬起等历史材料。",
+    "branches": [
+      [
+        "磁性相关基础词",
+        "magnet · magnetic"
+      ],
+      [
+        "磁悬浮技术及列车",
+        "maglev"
+      ]
+    ],
+    "contrasts": "maglev 可以指技术，也可指采用这种技术的列车；不能把所有电力驱动列车都叫磁悬浮。",
+    "practice": "The passengers boarded the maglev train.\n\n乘客登上了磁悬浮列车。",
+    "words": [
+      "magnet",
+      "magnetic",
+      "maglev"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2155",
+    "meaning": "转动、变化的历史材料",
+    "core": "TROPO-：在对流层中，看空气持续运动的画面",
+    "image": "troposphere 是最靠近地面的主要大气层，天气现象多发生在这一层；它的命名与空气混合、对流运动联系。",
+    "intro": "来自希腊 tropos 转、方式等词族，经近代大气科学命名形成 troposphere。这层里的空气运动、混合，给命名提供了直观画面。",
+    "forms": "tropo- 转动、变化 + sphere 层域 → troposphere。sphere 在现代大气术语中常说一层区域。",
+    "branches": [
+      [
+        "地面附近的大气层",
+        "troposphere"
+      ]
+    ],
+    "contrasts": "troposphere 是对流层；stratosphere 是平流层。两层名称提供命名线索，具体高度和温度特征要按大气科学定义理解。",
+    "practice": "Most weather occurs in the troposphere.\n\n大多数天气现象发生在对流层。",
+    "words": [
+      "troposphere"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "A2002",
+    "meaning": "性质、状态、行为；某些职位或任职期间",
+    "core": "CY：把某种情况或身份，拿出来作为一个名词",
+    "image": "efficient 说机器办事利落，efficiency 说它的效率；captain 是队长，captaincy 说队长职务。词尾把镜头从描述或人，移到状态、职务。",
+    "intro": "-cy 在英语中承接拉丁 -cia、-tia 等抽象名词词尾的材料，部分词经法语进入，和 -acy、-ancy、-ency 等形式有历史关系。最常见的学习对应有 efficient／efficiency、accurate／accuracy、resident／residency。它不只表示性质，也能命名 captaincy、chaplaincy 一类职务。",
+    "forms": "-ent 常对应 -ency，-ant 常对应 -ancy；部分 -ate 形容词对应 -acy，如 accurate／accuracy。这是认形线索，不是见到任何英文词都能自由替换。许多词的借入历史不同；occupancy 对应 occupant，不能只按 occupation 职业猜义。\n\n法语 tenir 的分词名词化，经盎格鲁法语借入。",
+    "branches": [
+      [
+        "性质与程度",
+        "efficient · efficiency；accurate · accuracy；fluent · fluency；deficient · deficiency"
+      ],
+      [
+        "状态与行为",
+        "pregnancy · expectancy · dependency · redundancy · truancy"
+      ],
+      [
+        "居住和偿债情况",
+        "residency · occupancy · tenancy；solvency · insolvency · bankruptcy"
+      ],
+      [
+        "身份、职务及任期",
+        "consultancy · captaincy · chaplain · chaplaincy · incumbent · incumbency"
+      ],
+      [
+        "tenant → tenants：持有、使用空间的人",
+        "tenant · tenants"
+      ]
+    ],
+    "contrasts": "deficiency 不足／difference 差别；occupancy 居住占用／occupation 职业等多义；truant、truancy 不等于所有缺课；incumbency 在任状态，不是连任结果。",
+    "practice": "The review found a deficiency in accuracy, even though efficiency had improved.\n\n评审发现准确性仍有不足，尽管效率已提高。",
+    "words": [
+      "emergency",
+      "efficient",
+      "efficiency",
+      "pregnant",
+      "pregnancy",
+      "accurate",
+      "accuracy",
+      "bankrupt",
+      "bankruptcy",
+      "advocate",
+      "advocacy",
+      "transparent",
+      "transparency",
+      "resident",
+      "residency",
+      "dependent",
+      "dependency",
+      "decent",
+      "decency",
+      "expectant",
+      "expectancy",
+      "consult",
+      "consultancy",
+      "infant",
+      "infancy",
+      "redundant",
+      "redundancy",
+      "tenant",
+      "tenancy",
+      "fluent",
+      "fluency",
+      "captain",
+      "captaincy",
+      "buoyant",
+      "buoyancy",
+      "normal",
+      "normalcy",
+      "inadequate",
+      "inadequacy",
+      "relevant",
+      "relevancy",
+      "solvent",
+      "solvency",
+      "insolvent",
+      "insolvency",
+      "numeracy",
+      "recent",
+      "recency",
+      "deficient",
+      "deficiency",
+      "occupy",
+      "occupant",
+      "occupancy",
+      "truant",
+      "truancy",
+      "chaplain",
+      "chaplaincy",
+      "incumbent",
+      "incumbency",
+      "tenants"
+    ],
+    "exclude": {
+      "e-literacy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-residency": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "insurgency": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "conservancy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "idiocy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ascendancy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "malignancy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vibrancy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vagrancy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "episcopacy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "obstinacy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "illegitimacy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "profligacy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "magistracy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

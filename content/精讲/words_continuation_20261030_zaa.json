@@ -1,0 +1,546 @@
+[
+  {
+    "word": "employers",
+    "ipa": "英 /ɪmˈplɔɪəz/；美 /ɪmˈplɔɪərz/",
+    "meaning": "雇主、用人单位〔复数〕",
+    "sense": "提供岗位、雇人工作的一方，是 employers。它可以是个人，也可以是公司、学校等机构。",
+    "split": "employ + -er → employer，再加 -s，末尾 /z/。employ 经法语接拉丁 implicare 等卷入、使参与材料，后来有雇用义。",
+    "history": [
+      [
+        "法语等 → employ；加 -er → employer",
+        "使参与、使用人力 → 雇人的一方"
+      ],
+      [
+        "employer + -s → employers",
+        "多位雇主、多家用人单位"
+      ]
+    ],
+    "explanation": "local employers 当地雇主；potential employers 潜在用人单位；employers and employees 雇主与雇员。",
+    "usage": "major employers 主要用人单位；meet employers 与招聘方见面。",
+    "contrast": "employers 雇别人，employees 受雇工作。er 与 ee 在这组里把劳动关系的两方区分开，不只笼统译成工作人员。",
+    "examples": [
+      [
+        "Several local employers attended the careers fair.",
+        "几家当地用人单位参加了招聘会。"
+      ],
+      [
+        "The survey asked employers about the skills they needed.",
+        "调查询问用人单位需要哪些技能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/employers#English",
+      "https://en.wiktionary.org/wiki/employer#English"
+    ]
+  },
+  {
+    "word": "focusing",
+    "ipa": "英 /ˈfəʊkəsɪŋ/；美 /ˈfoʊkəsɪŋ/",
+    "meaning": "聚焦；集中注意力〔现在分词、动名词〕",
+    "sense": "散开的光线收向一点，镜头里的东西变清楚；散开的注意力收向一件事，思路也更集中。这就是 focusing 的两幅常见画面。",
+    "split": "focus + -ing → focusing，focussing 双写 s 也是标准拼法。focus 借拉丁炉灶名称，近代科学用作会聚点，再发展注意中心和动词。",
+    "history": [
+      [
+        "拉丁 focus 炉灶 → 科学的会聚点 → 英语 focus",
+        "中心点 → 注意、活动的中心"
+      ],
+      [
+        "focus + -ing → focusing／focussing",
+        "正在聚焦；集中注意这一活动"
+      ]
+    ],
+    "explanation": "focusing on the details 注意细节；focusing the camera 调焦；focusing attention on something 把注意力集中到某事。",
+    "usage": "focusing on one task 专心做一件事；a focusing ring 调焦环。",
+    "contrast": "focusing on 可是不及物结构，后接注意对象；focusing attention 是及物结构，attention 是被集中的东西。focusing、focussing 两种拼写都可认。",
+    "examples": [
+      [
+        "We are focusing on the most urgent tasks first.",
+        "我们正先集中处理最紧急的任务。"
+      ],
+      [
+        "She was focusing the camera when the bird flew away.",
+        "她正给相机调焦时，鸟飞走了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/focusing#English",
+      "https://en.wiktionary.org/wiki/focus#English"
+    ]
+  },
+  {
+    "word": "handled",
+    "ipa": "/ˈhændəld/",
+    "meaning": "处理、应付了；拿过、触碰过〔过去式、过去分词〕",
+    "sense": "先是手拿着、摆弄一个东西，后来扩大成把一件事情接到自己手里去处理。handled 说这件事已经接过、做过了。",
+    "split": "handle + -d，/l/ 后结尾读 /d/。handle 的把手名词、用手处理动词在古英语已有相应形式；不是现代才拼手和一个小尾巴。",
+    "history": [
+      [
+        "古英语 handle、handlian 等 → handle",
+        "手可握的部位；用手接触、处理"
+      ],
+      [
+        "handle 去 e + -ed → handled",
+        "物品被拿过；事务被处理、应对"
+      ]
+    ],
+    "explanation": "handled with care 小心轻放；handled the situation 处理了局面；handled by the office 由办公室处理。",
+    "usage": "well handled 处理得好；handled a difficult question 应对了一个难题。",
+    "contrast": "handled a problem 通常说应对过，不一定彻底解决。handled a fragile object 则可能真的在谈手如何拿物。",
+    "examples": [
+      [
+        "The complaint was handled quickly.",
+        "投诉很快得到了处理。"
+      ],
+      [
+        "The old book must be handled with care.",
+        "这本旧书必须小心翻拿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handled#English",
+      "https://en.wiktionary.org/wiki/handle#English"
+    ]
+  },
+  {
+    "word": "hosted",
+    "ipa": "英 /ˈhəʊstɪd/；美 /ˈhoʊstɪd/",
+    "meaning": "主办、接待、主持了；托管、提供网络服务〔过去式、过去分词〕",
+    "sense": "把人或活动接到自己提供的场地里，安排它顺利进行，是 hosted。网络里也把程序、网站放到服务环境里运行，称为托管。",
+    "split": "host + -ed，/t/ 后读 /ɪd/。这里 host 用主人、接待者一支，经法语 oste、hoste 接拉丁 hospitem；英语由名词发展接待、主办动词。",
+    "history": [
+      [
+        "拉丁 hospitem → 古法语 hoste 等 → host",
+        "主人、宾客相关称呼 → 接待、主办"
+      ],
+      [
+        "host + -ed → hosted",
+        "活动、来客已被接待；网络服务被托管"
+      ]
+    ],
+    "explanation": "hosted a meeting 主办了会议；hosted by the library 由图书馆主办；a hosted website 一个托管的网站。",
+    "usage": "hosted visitors 接待了来客；hosted a radio programme 主持了广播节目。",
+    "contrast": "hosted 不总等于正式组织所有工作，也可以说提供场地、接待或担任主持；具体职责看宾语和场景。",
+    "examples": [
+      [
+        "The library hosted a discussion with local writers.",
+        "图书馆举办了一场与当地作家的座谈。"
+      ],
+      [
+        "Our neighbours hosted us for the weekend.",
+        "邻居周末接待了我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hosted#English",
+      "https://en.wiktionary.org/wiki/host#English"
+    ]
+  },
+  {
+    "word": "jumped",
+    "ipa": "/dʒʌmpt/",
+    "meaning": "跳了；猛增、突然移动；仓促转到〔过去式、过去分词〕",
+    "sense": "脚离开地面，一下换了位置；数字、话题也可能不是慢慢过渡，而是突然跨过去。jumped 把这种突然变化放在过去。",
+    "split": "jump + -ed，/p/ 后读 /t/，末尾 /mpt/。jump 更早来源有拟声、日耳曼语等不同推测，这里不把某一种当确定来历。",
+    "history": [
+      [
+        "早期英语 jump → 现代 jump",
+        "跳跃；更远来源不确定"
+      ],
+      [
+        "jump + -ed → jumped",
+        "跳跃发生了；也比喻突然上升、转移"
+      ]
+    ],
+    "explanation": "jumped over a puddle 跳过水洼；jumped to a conclusion 仓促下结论；prices jumped 价格猛涨。",
+    "usage": "jumped at the chance 抓住机会；jumped from one topic to another 话题跳来跳去。",
+    "contrast": "jumped over 是跨过障碍；jumped at an opportunity 是欣然抓住机会。固定介词会改变整个搭配的意思。",
+    "examples": [
+      [
+        "The child jumped over the puddle.",
+        "孩子跳过了水洼。"
+      ],
+      [
+        "She jumped at the chance to join the project.",
+        "她欣然抓住机会，加入了这个项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jumped#English",
+      "https://en.wiktionary.org/wiki/jump#English"
+    ]
+  },
+  {
+    "word": "maintaining",
+    "ipa": "/meɪnˈteɪnɪŋ/",
+    "meaning": "维持、保养；坚持认为〔现在分词、动名词〕",
+    "sense": "东西正在往下掉，用手托住，不让原有状态失去：这是 maintaining 的历史画面。现代可以维持质量、保养机器，也可一直坚持某个说法。",
+    "split": "maintain + -ing，直接加 ing。maintain 借古法语 maintenir，接晚期拉丁 manutenere，含 manu 用手与 tenere 握住。",
+    "history": [
+      [
+        "晚期拉丁 manu 与 tenere → 法语 maintenir → maintain",
+        "用手握住 → 维持、支撑"
+      ],
+      [
+        "maintain + -ing → maintaining",
+        "正在维持、保养；持续坚持某个观点"
+      ]
+    ],
+    "explanation": "maintaining standards 维持标准；maintaining equipment 保养设备；maintaining that 坚持认为。",
+    "usage": "maintaining contact 保持联系；maintaining a balance 保持平衡。",
+    "contrast": "maintaining 强调使状态持续；improving 强调变好。maintaining that 后跟观点，不是在维修一句话。maintenance 是对应名词，拼写发生变化。",
+    "examples": [
+      [
+        "The team is maintaining regular contact with the residents.",
+        "团队正与居民保持经常联系。"
+      ],
+      [
+        "Maintaining the equipment takes time and careful planning.",
+        "保养设备需要时间和周密安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maintaining#English",
+      "https://en.wiktionary.org/wiki/maintain#English"
+    ]
+  },
+  {
+    "word": "newspapers",
+    "ipa": "英 /ˈnjuːzpeɪpəz/；美 /ˈnuːzpeɪpərz/",
+    "meaning": "报纸；报社、新闻报刊机构〔复数〕",
+    "sense": "把一批新的消息定期印到纸上，就有 newspapers 的基本形象。后来说几家 newspaper，也可能是在说办报的机构。",
+    "split": "news + paper → newspaper，再加 -s，末尾 /z/。英语组合词；news 中的 s 已是基础词的一部分，复数只再加到整个 newspaper 后面。",
+    "history": [
+      [
+        "news + paper → newspaper",
+        "新闻与纸张组合 → 定期发行的报纸"
+      ],
+      [
+        "newspaper + -s → newspapers",
+        "多份、多个报纸品种；多家报刊机构"
+      ]
+    ],
+    "explanation": "read newspapers 看报；local newspapers 当地报纸；daily newspapers 日报。",
+    "usage": "a pile of newspapers 一摞报纸；newspapers reported that 多家报纸报道说。",
+    "contrast": "papers 有时也能简称报纸，但还可能是文件、论文；newspapers 的所指更明确。many newspapers 可能按份数或刊名数，具体看句子。",
+    "examples": [
+      [
+        "Old newspapers covered the table.",
+        "旧报纸铺满了桌面。"
+      ],
+      [
+        "Several newspapers reported the opening of the new museum.",
+        "多家报纸报道了新博物馆开馆的消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newspapers#English",
+      "https://en.wiktionary.org/wiki/newspaper#English"
+    ]
+  },
+  {
+    "word": "powered",
+    "ipa": "英 /ˈpaʊəd/；美 /ˈpaʊərd/",
+    "meaning": "提供动力、驱动了；由……驱动的〔过去式、过去分词〕",
+    "sense": "东西要动、机器要工作，后面得有一股能量或能力把它带起来。powered 常用来交代这股动力来自哪里。",
+    "split": "power + -ed，结尾读 /d/。power 经法语接通俗拉丁 *potere 能够，与拉丁 potis、posse 同族；英语由能力、力量名词发展动力动词。",
+    "history": [
+      [
+        "通俗拉丁 *potere → 法语 → power",
+        "能够 → 能力、力量、动力"
+      ],
+      [
+        "power + -ed → powered",
+        "供给动力；由某种能源、技术驱动"
+      ]
+    ],
+    "explanation": "powered by electricity 由电力驱动；a battery powered device 电池供电设备；powered the machine 给机器提供动力。",
+    "usage": "powered by a small motor 由小马达驱动；the engine powered the boat 发动机驱动船。",
+    "contrast": "powered 交代动力、支撑技术或推动因素；powerful 形容力量强。powered by 不一定只说电池，也可能说明别的能源或技术。",
+    "examples": [
+      [
+        "The small pump is powered by a battery.",
+        "这个小泵由电池供电。"
+      ],
+      [
+        "A quiet motor powered the boat across the lake.",
+        "一个安静的马达驱动小船穿过湖面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/powered#English",
+      "https://en.wiktionary.org/wiki/power#English"
+    ]
+  },
+  {
+    "word": "ratings",
+    "ipa": "/ˈreɪtɪŋz/",
+    "meaning": "评分、评级；收视、收听指标〔复数〕",
+    "sense": "把表现放到一个尺度上评一评，得到 rating；ratings 可以数不同评分。广播电视里又用它谈有多少人收看、收听的衡量结果。",
+    "split": "rate 去 e 加 -ing → rating，再加 -s，/ŋ/ 后读 /z/。rate 的数值、评定支经法语等接拉丁 rata 核定份额，联系 reri 计算、判断。",
+    "history": [
+      [
+        "拉丁相关核定、计算材料 → rate → rating",
+        "评定、数值 → 评分、指标"
+      ],
+      [
+        "rating + -s → ratings",
+        "多项评级、评分；也用于观众规模指标"
+      ]
+    ],
+    "explanation": "high ratings 高评分、良好收视；customer ratings 顾客评分；television ratings 电视收视指标。",
+    "usage": "compare the ratings 比较评分；the ratings for the programme 节目的收视指标或评价，需看上下文。",
+    "contrast": "ratings 不总是口碑：a show has high ratings 常说收视好，positive reviews 才明确是正面评价。具体平台可能使用自己的评分尺度。",
+    "examples": [
+      [
+        "The hotel received high ratings from its guests.",
+        "酒店得到了住客的高评分。"
+      ],
+      [
+        "The programme’s ratings improved after the change.",
+        "节目调整后，收视表现有所改善。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ratings#English",
+      "https://en.wiktionary.org/wiki/rating#English"
+    ]
+  },
+  {
+    "word": "reads",
+    "ipa": "/riːdz/",
+    "meaning": "阅读；读作；显示〔第三人称单数〕；可读的作品、读物〔名词复数〕",
+    "sense": "眼睛沿着文字走，脑中理解它，是 reads 的基本动作。仪表上的字数也能说“读出来是……”，一本读起来有意思的作品还可叫 a good read。",
+    "split": "read + -s，/d/ 后读 /z/，这里词干读 /riːd/。read 接古英语 raedan 的解释、劝告、阅读材料；同拼写的过去式读 /red/。",
+    "history": [
+      [
+        "古英语解释、阅读词 → read",
+        "解释符号、文字 → 阅读；也扩展到显示值"
+      ],
+      [
+        "read + -s → reads",
+        "某人阅读、某处显示；也可数某类读物"
+      ]
+    ],
+    "explanation": "reads every night 每晚阅读；the sign reads 标牌写着；the meter reads 仪表显示。",
+    "usage": "easy reads 容易读的作品；reads aloud 朗读。",
+    "contrast": "reads 的元音是 /iː/；过去式 read 的 /e/ 不带到这里。a good read 是读起来好的作品，不是说某个人读得好。",
+    "examples": [
+      [
+        "She reads for half an hour before bed.",
+        "她睡前读半小时书。"
+      ],
+      [
+        "The sign reads “Please use the other entrance.”",
+        "牌子上写着：“请走另一个入口。”"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reads#English",
+      "https://en.wiktionary.org/wiki/read#English"
+    ]
+  },
+  {
+    "word": "recovered",
+    "ipa": "英 /rɪˈkʌvəd/；美 /rɪˈkʌvərd/",
+    "meaning": "恢复了；找回、取回了〔过去式、过去分词〕",
+    "sense": "失去的状态、力量、物品或数据重新回来了，是 recovered 的常见感觉。既可以是人恢复，也可以是别人把东西找回来。",
+    "split": "recover + -ed，结尾读 /d/。恢复、取回的 recover 经法语 recovrer 等接拉丁 recuperare；不能当作现代 re- 再次 + cover 覆盖。",
+    "history": [
+      [
+        "拉丁 recuperare → 法语 recovrer 等 → recover",
+        "取回、恢复"
+      ],
+      [
+        "recover + -ed → recovered",
+        "状态已恢复；或物品、数据等已找回"
+      ]
+    ],
+    "explanation": "recovered from the journey 从旅途劳累中恢复；recovered the file 找回了文件；fully recovered 完全恢复。",
+    "usage": "recovered his balance 恢复平衡；recovered after a setback 受挫后恢复。",
+    "contrast": "recovered from 常说明从什么影响中恢复；recovered something 中宾语是找回的东西。重新覆盖另有 recover、re-cover 构形，不与普通恢复义混讲。",
+    "examples": [
+      [
+        "We recovered the missing file from a backup.",
+        "我们从备份中找回了丢失的文件。"
+      ],
+      [
+        "She soon recovered her confidence after the setback.",
+        "受挫后，她很快恢复了信心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recovered#English",
+      "https://en.wiktionary.org/wiki/recover#English"
+    ]
+  },
+  {
+    "word": "refers",
+    "ipa": "英 /rɪˈfɜːz/；美 /rɪˈfɜːrz/",
+    "meaning": "提到；指的是；查阅、转交〔第三人称单数〕",
+    "sense": "话说到这里，再把注意力带向另一个对象：提到某人、指代某事、让人去查资料或转找别人，都能沿这个方向理解。",
+    "split": "refer + -s，末尾 /z/，不双写 r。refer 接拉丁 re- 回与 ferre 带、承载，经法语和直接拉丁借入路径到英语。",
+    "history": [
+      [
+        "拉丁 referre → 法语或直接 → refer",
+        "带回、转向 → 提到、参照、转交"
+      ],
+      [
+        "refer + -s → refers",
+        "第三人称主语作出上述指向动作"
+      ]
+    ],
+    "explanation": "refers to 指的是、提到；refers readers to a page 让读者参看某页；refers to a dictionary 查词典。",
+    "usage": "What does this word refer to? 这个词指什么？the report refers to earlier work 报告提到前人的工作。",
+    "contrast": "refers to 常不能漏掉 to；refers someone to 后有被引导的人和去处。双写 r 出现在 referring、referred 等形式，这里只加 s。",
+    "examples": [
+      [
+        "The word refers to a kind of sea bird.",
+        "这个词指一种海鸟。"
+      ],
+      [
+        "The guide refers readers to the final chapter for more examples.",
+        "指南请读者参看最后一章，那里有更多例子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refers#English",
+      "https://en.wiktionary.org/wiki/refer#English"
+    ]
+  },
+  {
+    "word": "strikes",
+    "ipa": "/straɪks/",
+    "meaning": "击打、打动；突然想到〔第三人称单数〕；罢工、打击等〔名词复数〕",
+    "sense": "一股动作打到目标，是击打；一个想法忽然撞进脑中，是突然想到。集体停工的 strikes 则是一条已经固定的社会用法。",
+    "split": "strike + -s，/k/ 后读 /s/。strike 接古英语 strican 等，击打是重要语义分支；罢工义联系放下工具、降帆等场景的路线有不同解释。",
+    "history": [
+      [
+        "古英语 strican → 中古英语 striken → strike",
+        "旧动作词 → 击打及多种突然作用"
+      ],
+      [
+        "strike + -s → strikes",
+        "某物击中、使想到；多次打击、罢工等"
+      ]
+    ],
+    "explanation": "lightning strikes 雷击；it strikes me that 我忽然想到；transport strikes 交通行业罢工。",
+    "usage": "strikes a balance 取得平衡；strikes me as strange 让我觉得奇怪。",
+    "contrast": "strikes 可是动词，也可是复数名词；过去式常是 struck，不是 strikes。strike a balance 是固定的达到平衡，不必想象真的敲打天平。",
+    "examples": [
+      [
+        "It strikes me that we have met before.",
+        "我忽然觉得我们以前见过。"
+      ],
+      [
+        "The clock strikes twelve at midnight.",
+        "时钟在午夜敲十二下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strikes#English",
+      "https://en.wiktionary.org/wiki/strike#English"
+    ]
+  },
+  {
+    "word": "suits",
+    "ipa": "/suːts/；英式也读 /sjuːts/",
+    "meaning": "套装、西装；诉讼、纸牌花色等〔复数〕；适合、合用〔第三人称单数〕",
+    "sense": "衣服几件配成一套，是 suits 的常见名词义；某个安排与人的需要相配，是动词 suits。诉讼、花色等义也有各自固定场景。",
+    "split": "suit + -s，/t/ 后读 /s/。suit 借法语 suite、siute，远接拉丁 sequi 跟随；随从、追随到配套衣服、追诉等用法并行发展。",
+    "history": [
+      [
+        "拉丁 sequi → 法语 suite、siute → suit",
+        "跟随、相连的材料 → 套装、诉讼等"
+      ],
+      [
+        "suit + -s → suits",
+        "多套衣服、多个花色或诉讼；或某事适合"
+      ]
+    ],
+    "explanation": "business suits 商务套装；suits me fine 很适合我；the four suits 四种纸牌花色。",
+    "usage": "wear suits 穿西装；suits your needs 符合你的需要。",
+    "contrast": "suits me 可以是时间安排、风格适合我；fits me 更常说尺寸合身。This jacket fits me but does not suit me，尺寸对，风格却不合适。",
+    "examples": [
+      [
+        "Friday afternoon suits me fine.",
+        "周五下午我很方便。"
+      ],
+      [
+        "Most guests wore dark suits.",
+        "多数来宾穿着深色西装。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suits#English",
+      "https://en.wiktionary.org/wiki/suit#English"
+    ]
+  },
+  {
+    "word": "tracking",
+    "ipa": "/ˈtrækɪŋ/",
+    "meaning": "追踪、跟踪；记录变化〔现在分词、动名词及相关名词〕",
+    "sense": "沿着留下的脚印继续找，便知道目标去了哪里。现代也沿着位置、数据和事件记录持续看变化，称为 tracking。",
+    "split": "track + -ing，直接加 ing，ck 保留。track 经法语 trac 等进入英语，更早来源可能日耳曼语，具体路径未定。",
+    "history": [
+      [
+        "法语 trac → 中古英语、现代 track",
+        "痕迹、路径 → 沿迹追踪"
+      ],
+      [
+        "track + -ing → tracking",
+        "正在追踪；位置、进度、变化的持续记录"
+      ]
+    ],
+    "explanation": "tracking a parcel 追踪包裹；tracking progress 记录进展；a tracking number 运单追踪号。",
+    "usage": "tracking changes 跟踪修改；tracking wildlife 追踪野生动物。",
+    "contrast": "tracking 通常强调随时间连续跟进；checking 可以只是某个时点看一眼。track 的录音轨、曲目等义也是通路、记录相关的专业发展。",
+    "examples": [
+      [
+        "I am tracking the parcel on the courier’s website.",
+        "我正在快递公司的网站上追踪包裹。"
+      ],
+      [
+        "We are tracking changes in the lake’s water level.",
+        "我们正在持续记录湖泊水位的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tracking#English",
+      "https://en.wiktionary.org/wiki/track#English"
+    ]
+  },
+  {
+    "word": "applying",
+    "ipa": "/əˈplaɪɪŋ/",
+    "meaning": "应用、涂抹、施加；申请〔现在分词、动名词〕",
+    "sense": "把东西贴到目标上：知识用到问题上，涂料抹到表面上，自己朝一个机会提出申请。applying 把这些方向放进动作过程。",
+    "split": "apply + -ing，保留 y，不写成 appliing。apply 接拉丁 ad- 与 plicare 所成 applicare，经法语传入，ad 在 p 前同化为 ap-。",
+    "history": [
+      [
+        "拉丁 applicare → 法语 → apply",
+        "使贴近、附上 → 施用、应用、提出申请"
+      ],
+      [
+        "apply + -ing → applying",
+        "正在施用、应用或申请；y 保留"
+      ]
+    ],
+    "explanation": "applying for a job 申请职位；applying to a university 申请大学；applying paint 涂油漆。",
+    "usage": "applying a rule to a case 把规则用于某个情况；applying pressure 施加压力。",
+    "contrast": "applying for 常介绍想得到的职位、机会；applying to 可介绍向哪个机构申请。applied 改 y 为 i，applying 在 ing 前保留 y。",
+    "examples": [
+      [
+        "She is applying for a job at the museum.",
+        "她正在申请博物馆的一个职位。"
+      ],
+      [
+        "The students are applying the method to a new problem.",
+        "学生们正把这个方法用于一个新问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/applying#English",
+      "https://en.wiktionary.org/wiki/apply#English"
+    ]
+  }
+]

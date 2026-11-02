@@ -1,0 +1,580 @@
+[
+  {
+    "word": "amazed",
+    "ipa": "/əˈmeɪzd/",
+    "meaning": "惊讶的、吃惊的；使吃惊了〔过去式、过去分词〕",
+    "sense": "事情超出预想，人一下愣住、觉得不可思议，就是 amazed。可以是惊喜，也可以是惊讶于一个糟糕的事实。",
+    "split": "amaze 接古英语 āmāsian 一类使迷乱、震惊的材料，与 maze 的旧义相关，更远来历不定。现代 amaze 去 e 加完整 -ed，/z/ 后读 /d/。",
+    "history": [
+      [
+        "古英语迷乱、震惊材料 → amaze",
+        "让人一时转不过来 → 使吃惊"
+      ],
+      [
+        "amaze 去 e + -ed → amazed",
+        "已经使吃惊；人处于惊讶状态"
+      ]
+    ],
+    "explanation": "be amazed at something 对某事吃惊；be amazed to see… 看到……很惊讶。",
+    "usage": "an amazed expression 惊讶的表情；amazed by the result 对结果吃惊。",
+    "contrast": "amazed 常说人的感受，amazing 常说引起这种感受的人或事。惊讶不自动等于赞同。",
+    "examples": [
+      [
+        "I was amazed at how quickly she learned.",
+        "她学得那么快，让我很惊讶。"
+      ],
+      [
+        "His calm response amazed everyone in the room.",
+        "他镇定的回应让屋里所有人都吃了一惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/amazed#English",
+      "https://en.wiktionary.org/wiki/amaze#English"
+    ]
+  },
+  {
+    "word": "parked",
+    "ipa": "英 /pɑːkt/；美 /pɑːrkt/",
+    "meaning": "停放了、停着的；暂时搁置了〔过去式、过去分词〕",
+    "sense": "把车放到一个位置，让它在那里待着，是 parked。把一个问题先放一边，暂时不处理，也可以借这个画面说 parked。",
+    "split": "park 场地名经法语 parc，较远联系日耳曼围起场地的材料。由把东西集中、放置发展出停车等动词义；现代直接加完整 -ed，/k/ 后读 /t/。",
+    "history": [
+      [
+        "围起的场地 → park 名词、相关放置动词",
+        "集中放置 → 停放车辆"
+      ],
+      [
+        "park + -ed → parked",
+        "车辆已经停放；问题暂放一旁"
+      ]
+    ],
+    "explanation": "a parked car 停着的车；parked outside 停在外面；parked the issue 暂时搁置问题。",
+    "usage": "parked near the entrance 停在入口附近；parked for the night 停放过夜。",
+    "contrast": "parked car 是已经停好的车，parking space 是停车位。比喻里 parked 常是暂放，不一定永久放弃。",
+    "examples": [
+      [
+        "She parked the car beside the library.",
+        "她把车停在图书馆旁。"
+      ],
+      [
+        "We parked the question until the next meeting.",
+        "我们把这个问题留到下次会议再讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parked#English",
+      "https://en.wiktionary.org/wiki/park#English"
+    ]
+  },
+  {
+    "word": "prescribed",
+    "ipa": "/prɪˈskraɪbd/",
+    "meaning": "规定了、指定的；开了处方〔过去式、过去分词〕",
+    "sense": "先把应当怎么做写下来，让后面的行动照着走，就是 prescribed。规章能规定做法，医生也能用处方指定用药。",
+    "split": "拉丁 prae- 在前 + scribere 写 → praescribere 预先写下、规定，经借入形成 prescribe。现代去 e 加完整 -ed，/b/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 prae- + scribere → praescribere → prescribe",
+        "预先写下 → 规定应当怎么做"
+      ],
+      [
+        "prescribe 去 e + -ed → prescribed",
+        "已经规定、指定；已经开具处方"
+      ]
+    ],
+    "explanation": "the prescribed method 规定的方法；a prescribed reading list 指定阅读书单；prescribed medicine 处方药物。",
+    "usage": "follow the prescribed steps 按规定步骤做；prescribed by the rules 规则所规定的。",
+    "contrast": "prescribed 是事先指定，不表示事情一定已经照办。prescribe 是规定、开处方；describe 是描述，前缀不同，方向也不同。",
+    "examples": [
+      [
+        "The teacher prescribed a reading list for the course.",
+        "老师为这门课指定了阅读书单。"
+      ],
+      [
+        "The team followed the prescribed steps.",
+        "团队按规定的步骤操作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prescribed#English",
+      "https://en.wiktionary.org/wiki/prescribe#English"
+    ]
+  },
+  {
+    "word": "cracks",
+    "ipa": "/kræks/",
+    "meaning": "裂缝、裂纹〔复数〕；裂开、发出裂响、说出〔第三人称单数〕",
+    "sense": "完整的表面出现细长开口，是 cracks。动词 cracks 可以说东西裂开，也能出现在 cracks jokes 讲笑话这类固定表达里。",
+    "split": "crack 接古英语 cracian 等尖锐响声材料，常看作拟声来源；响裂与破开相互联系。现代加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "古英语响裂材料 → crack",
+        "尖锐响声 → 裂开、裂缝"
+      ],
+      [
+        "crack + -s → cracks",
+        "多条裂纹；某物裂开、某人说笑话等"
+      ]
+    ],
+    "explanation": "cracks in the wall 墙上的裂缝；cracks a joke 讲个笑话；cracks under pressure 压力下撑不住。",
+    "usage": "small cracks 细小裂纹；cracks in the plan 计划里的漏洞。",
+    "contrast": "cracks in a plan 借破口说漏洞。cracks jokes 是固定搭配，不用把 jokes 想成被敲裂的物件。",
+    "examples": [
+      [
+        "Small cracks appeared in the dry ground.",
+        "干燥的地面上出现了细小裂缝。"
+      ],
+      [
+        "He often cracks jokes during rehearsal.",
+        "排练时他常讲笑话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cracks#English",
+      "https://en.wiktionary.org/wiki/crack#English"
+    ]
+  },
+  {
+    "word": "dancers",
+    "ipa": "英 /ˈdɑːnsəz/；美 /ˈdænsərz/",
+    "meaning": "舞者、舞蹈演员；跳舞的人〔复数〕",
+    "sense": "舞台上或舞池里正在跳舞的几个人，是 dancers。它先告诉你这些人跳舞，不自动表示每个人都以跳舞为职业。",
+    "split": "dance 经古法语、盎格鲁诺曼语 dancer、dauncer 等借入，更远来源未定。现代 dance 去 e 加完整表人后缀 -er → dancer，再加复数 -s；尾读 /z/。",
+    "history": [
+      [
+        "法语跳舞动词 → 英语 dance",
+        "跳舞活动"
+      ],
+      [
+        "dance 去 e + -er → dancer；dancer + -s → dancers",
+        "跳舞的人 → 多位舞者"
+      ]
+    ],
+    "explanation": "ballet dancers 芭蕾舞演员；professional dancers 职业舞者；young dancers 年轻舞者。",
+    "usage": "a group of dancers 一群舞者；experienced dancers 有经验的舞者。",
+    "contrast": "dance、dancer、dancers 是活动、一个做这件事的人、多个这样的人。dancer 的完整后缀是 -er，即使拼写看起来只比 dance 多了 r。",
+    "examples": [
+      [
+        "The dancers waited quietly behind the curtain.",
+        "舞者们在幕布后安静等候。"
+      ],
+      [
+        "Several dancers joined the final rehearsal.",
+        "几位舞者参加了最后一次排练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dancers#English",
+      "https://en.wiktionary.org/wiki/dancer#English"
+    ]
+  },
+  {
+    "word": "directing",
+    "ipa": "/dəˈrektɪŋ/，也读 /daɪˈrektɪŋ/",
+    "meaning": "引导、指挥、指导；执导〔现在分词、动名词〕",
+    "sense": "让人知道朝哪里走，让团队知道下一步做什么，是 directing。导演把演员、镜头等安排到共同方向，也用这个词。",
+    "split": "direct 接拉丁 dirigere、directus 的使直、引导材料，经法语或拉丁借入；更早有 dis- 加 regere 的构成。现代在整个 direct 后加完整 -ing。",
+    "history": [
+      [
+        "拉丁 dirigere、directus → direct",
+        "使方向正、引导 → 指挥、安排"
+      ],
+      [
+        "direct + -ing → directing",
+        "正在引导、指挥；执导过程"
+      ]
+    ],
+    "explanation": "directing traffic 指挥交通；directing a film 执导影片；directing attention to… 把注意力引向……。",
+    "usage": "directing the team 指导团队；experience in directing 执导经验。",
+    "contrast": "directing 不只用于拍电影。看被引导的是车辆、注意力、人员，还是一部作品的制作。",
+    "examples": [
+      [
+        "A volunteer was directing visitors to the hall.",
+        "一位志愿者在引导访客前往大厅。"
+      ],
+      [
+        "She enjoys directing short plays.",
+        "她喜欢执导短剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/directing#English",
+      "https://en.wiktionary.org/wiki/direct#English"
+    ]
+  },
+  {
+    "word": "dumped",
+    "ipa": "/dʌmpt/",
+    "meaning": "倾倒了、丢下了；甩掉了〔过去式、过去分词〕",
+    "sense": "不是仔细安放，而是把一堆东西一下倒下、丢在那里，是 dumped。用在人或责任上，常带不顾对方、把麻烦推走的意味。",
+    "split": "dump 接中古英语 dumpen、dompen 等落下、重放材料，较远可能与北欧词或拟声有关，未定。现代直接加完整 -ed，/p/ 后读 /t/。",
+    "history": [
+      [
+        "中古英语落下、重放材料 → dump",
+        "重重放下 → 倾倒、随手丢下"
+      ],
+      [
+        "dump + -ed → dumped",
+        "已经倾倒；比喻丢弃、推给别人"
+      ]
+    ],
+    "explanation": "dumped the bags 丢下袋子；dumped on the floor 倒在地板上；dumped the work on someone 把活推给别人。",
+    "usage": "dumped the contents 倒出里面的东西；dumped by a partner 被伴侣甩了〔口语〕。",
+    "contrast": "dumped 常比 put、placed 粗重随意。be dumped on someone 说事情被推给他，和把物体倒在他身上要靠语境分清。",
+    "examples": [
+      [
+        "He dumped the wet clothes into the basket.",
+        "他把湿衣服一股脑丢进篮子。"
+      ],
+      [
+        "All the extra work was dumped on one person.",
+        "额外的活全被推给了一个人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dumped#English",
+      "https://en.wiktionary.org/wiki/dump#English"
+    ]
+  },
+  {
+    "word": "entrepreneurs",
+    "ipa": "英 /ˌɒntrəprəˈnɜːz/；美 /ˌɑːntrəprəˈnɜːrz/",
+    "meaning": "创业者、企业创办者〔复数〕",
+    "sense": "看见一个机会，愿意组织人和资源，把事情办起来的人，是 entrepreneurs。核心在承担、发起事业，不只是职位上叫老板。",
+    "split": "英语借法语 entrepreneur，接 entreprendre 承担、着手：法语 entre- 加 prendre 拿取，-eur 表人。英语借入整个词，再加复数 -s，尾读 /z/。",
+    "history": [
+      [
+        "法语 entreprendre → entrepreneur → 英语借词",
+        "承担、着手 → 发起和经营事业的人"
+      ],
+      [
+        "entrepreneur + -s → entrepreneurs",
+        "多位创业者"
+      ]
+    ],
+    "explanation": "young entrepreneurs 年轻创业者；local entrepreneurs 当地创业者；entrepreneurs starting a business 创办企业的人。",
+    "usage": "a group of entrepreneurs 一群创业者；support for entrepreneurs 对创业者的支持。",
+    "contrast": "不必把英语单词硬拆成 entre 和 preneur 两个常用英语部分。法语里的承担动作，才是理解整词的历史入口。",
+    "examples": [
+      [
+        "The workshop brought together local entrepreneurs.",
+        "这场研讨活动把当地创业者聚到了一起。"
+      ],
+      [
+        "Two entrepreneurs described how they started their shop.",
+        "两位创业者讲了他们如何开起那家店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entrepreneurs#English",
+      "https://en.wiktionary.org/wiki/entrepreneur#English"
+    ]
+  },
+  {
+    "word": "explored",
+    "ipa": "英 /ɪkˈsplɔːd/；美 /ɪkˈsplɔːrd/",
+    "meaning": "探索了、考察了；探讨了〔过去式、过去分词〕",
+    "sense": "走到不熟悉的地方看看，或把一个问题摊开研究，是 explored。重点是为了了解而考察，未必已经得出答案。",
+    "split": "explore 接法语 explorer、拉丁 explorare 考察材料，也有由较早 exploration 回构的分析。拉丁词内部与呼喊等材料的关系有争议；现代 explore 去 e 加完整 -ed，尾 /d/。",
+    "history": [
+      [
+        "拉丁 explorare 等材料 → 法语、英语 explore",
+        "考察、察看 → 探索地方或问题"
+      ],
+      [
+        "explore 去 e + -ed → explored",
+        "已经考察、探讨过"
+      ]
+    ],
+    "explanation": "explored the area 探索该地区；explored several ideas 探讨了几个想法；explored in detail 详细讨论了。",
+    "usage": "explored a possibility 探索某种可能；explored the town 逛着了解那座城镇。",
+    "contrast": "explored 是深入看过、想过；discovered 更强调发现了某物。探索过一个办法，不表示最后采用了它。",
+    "examples": [
+      [
+        "We explored the old town on foot.",
+        "我们步行逛了老城区。"
+      ],
+      [
+        "The class explored several possible endings to the story.",
+        "全班探讨了这个故事几种可能的结局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/explored#English",
+      "https://en.wiktionary.org/wiki/explore#English"
+    ]
+  },
+  {
+    "word": "finances",
+    "ipa": "/ˈfaɪnænsɪz/，也读 /faɪˈnænsɪz/",
+    "meaning": "财务状况、财力、资金〔复数名词〕；资助〔第三人称单数〕",
+    "sense": "一个人或机构有多少钱、要付多少钱、钱安排得怎样，合起来是 finances。动词 finances 则说谁提供资金，让一件事办得成。",
+    "split": "finance 经法语 finance，接 finer 结清、结束，较早 fin、拉丁 finis 终点。结清款项走向资金、财务。现代加 -s，/s/ 后读 /ɪz/；词首或词尾重音都存在，不能简单按名词、动词一刀切。",
+    "history": [
+      [
+        "拉丁 finis → 法语结清款项材料 → finance",
+        "结束、结清 → 资金与财务"
+      ],
+      [
+        "finance + -s → finances",
+        "整体财务状况；某主体提供资金"
+      ]
+    ],
+    "explanation": "personal finances 个人财务；the club’s finances 俱乐部财务；finances the project 为项目提供资金。",
+    "usage": "manage the finances 管理财务；review the finances 查看收支、财务状况。",
+    "contrast": "finances 常把收支和资金状况一起说，不只是手头现金。finance 作不可数名词也能讲金融或资金安排，复数不是所有语境都能替换。",
+    "examples": [
+      [
+        "She looks after the club’s finances.",
+        "她负责俱乐部的财务。"
+      ],
+      [
+        "The foundation finances the art project.",
+        "基金会为这个艺术项目提供资金。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/finances#English",
+      "https://en.wiktionary.org/wiki/finance#English"
+    ]
+  },
+  {
+    "word": "finishes",
+    "ipa": "/ˈfɪnɪʃɪz/",
+    "meaning": "完成、结束〔第三人称单数〕；表面处理效果、终局〔复数〕",
+    "sense": "事情做到终点，是 finishes。木材或金属加工到最后，外表呈现的那一层效果，也能叫 finishes，比如哑光、亮光效果。",
+    "split": "finish 经法语 finir 的 finiss- 等材料，接拉丁 finire 结束、finis 终点。词内 -ish 不是 childish 的现代形容词后缀。现代加 -es，/ʃ/ 后读 /ɪz/。",
+    "history": [
+      [
+        "拉丁 finis、finire → 法语 finir → 英语 finish",
+        "到终点 → 完成、收尾"
+      ],
+      [
+        "finish + -es → finishes",
+        "某事结束；多种最终表面效果或结尾"
+      ]
+    ],
+    "explanation": "finishes work 完成工作、下班；different finishes 不同表面处理效果；close finishes 胜负接近的结局。",
+    "usage": "finishes at six 六点结束；wood finishes 木材表面涂饰、处理效果。",
+    "contrast": "finish 作名词不只等于 end。家具的 finish 说外表处理，a smooth finish 是摸起来或看起来平滑的表面效果。",
+    "examples": [
+      [
+        "Her class finishes at four.",
+        "她的课四点结束。"
+      ],
+      [
+        "The table is available in several different finishes.",
+        "这款桌子有几种不同的表面处理效果可选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/finishes#English",
+      "https://en.wiktionary.org/wiki/finish#English"
+    ]
+  },
+  {
+    "word": "framed",
+    "ipa": "/freɪmd/",
+    "meaning": "装框了、构建了、表述了；被诬陷的〔过去式、过去分词〕",
+    "sense": "给照片加一个框，是 framed。给问题选一个看法、摆出一套说法，也像替它装框；诬陷别人则是把假罪名套到他身上。",
+    "split": "frame 接古英语 framian、fremman 推进、做成等材料，构建与框架名词历史交汇。现代 frame 去 e 加完整 -ed，/m/ 后读 /d/。",
+    "history": [
+      [
+        "古英语推进、做成材料 → frame",
+        "做成、搭构 → 框架；安排、表述"
+      ],
+      [
+        "frame 去 e + -ed → framed",
+        "已经装框、表述；被套上假罪名"
+      ]
+    ],
+    "explanation": "a framed photograph 装框的照片；framed as a question 以问题形式表述；was framed 被诬陷。",
+    "usage": "carefully framed wording 斟酌过的措辞；framed the debate 设定讨论的框架。",
+    "contrast": "framed a question 说怎样提出、组织这个问题，不是给文字真的加木框。被诬陷的含义则带虚假指控，要从上下文辨认。",
+    "examples": [
+      [
+        "She framed the photograph and put it on the shelf.",
+        "她把照片装框后放到架子上。"
+      ],
+      [
+        "He framed the issue as a question of trust.",
+        "他把这件事表述成一个信任问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/framed#English",
+      "https://en.wiktionary.org/wiki/frame#English"
+    ]
+  },
+  {
+    "word": "hotter",
+    "ipa": "英 /ˈhɒtə/；美 /ˈhɑːtər/",
+    "meaning": "更热、更烫的；更辣、更热门的〔比较级〕",
+    "sense": "两样东西相比，有一样温度更高，就是 hotter。说食物时，也可能是在比辣度；说话题时，可能比关注度。",
+    "split": "hot 继承古英语 hāt 等热的材料，经中古英语 hot、hoot 到现代。现代重读短元音后单个辅音 t，双写 t 再加完整比较级 -er → hotter。",
+    "history": [
+      [
+        "古英语 hāt → 中古英语 hot 等 → hot",
+        "热 → 辣、热门等语境扩展"
+      ],
+      [
+        "hot 双写 t + -er → hotter",
+        "相关尺度上更热、更辣或更热门"
+      ]
+    ],
+    "explanation": "hotter than yesterday 比昨天热；a hotter curry 更辣的咖喱；hotter water 更热的水。",
+    "usage": "getting hotter 越来越热；a hotter topic 更热门的话题。",
+    "contrast": "hotter 只表示比较，不必达到最高。a hotter curry 常比较辣度，不能只按盘子温度理解。",
+    "examples": [
+      [
+        "The room became hotter in the afternoon.",
+        "下午房间里变得更热了。"
+      ],
+      [
+        "This curry is hotter than the one we had yesterday.",
+        "这道咖喱比我们昨天吃的更辣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hotter#English",
+      "https://en.wiktionary.org/wiki/hot#English"
+    ]
+  },
+  {
+    "word": "hottest",
+    "ipa": "英 /ˈhɒtɪst/；美 /ˈhɑːtɪst/",
+    "meaning": "最热、最烫的；最辣、最热门的〔最高级〕",
+    "sense": "在说到的几样东西里，把热度、辣度或关注度放在最高一档，就是 hottest。比较范围要从句子里找，不默认全世界。",
+    "split": "hot 接古英语 hāt 热的继承材料。现代双写末尾 t，再加完整最高级 -est → hottest；不是先把 hotter 保留 er 再加 est。",
+    "history": [
+      [
+        "古英语 hāt 等 → 英语 hot",
+        "热的核心感觉及相关比喻"
+      ],
+      [
+        "hot 双写 t + -est → hottest",
+        "比较范围中热度等最高"
+      ]
+    ],
+    "explanation": "the hottest day 最热的一天；the hottest part 最热的部分；the hottest sauce 最辣的酱。",
+    "usage": "the hottest room 最热的房间；one of the hottest topics 最热门的话题之一。",
+    "contrast": "hottest 常与 the 搭配。one of the hottest topics 是最热门话题中的一个，不是说只有这一个话题排名第一。",
+    "examples": [
+      [
+        "It was the hottest day of our trip.",
+        "那是我们这次旅行中最热的一天。"
+      ],
+      [
+        "He chose the hottest sauce on the menu.",
+        "他选了菜单上最辣的酱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hottest#English",
+      "https://en.wiktionary.org/wiki/hot#English"
+    ]
+  },
+  {
+    "word": "lasts",
+    "ipa": "英 /lɑːsts/；美 /læsts/",
+    "meaning": "持续、维持；耐用、经用〔第三人称单数〕",
+    "sense": "一件事从开始延续到结束，或一件东西用了一阵仍然能用，是 lasts。抓住时间上撑得住、没有结束这个感觉。",
+    "split": "持续动词 last 继承古英语 lǣstan 跟随、履行、延续材料；表示最后的形容词接另一条较晚、最迟材料。现代动词加 -s，尾读 /sts/。",
+    "history": [
+      [
+        "古英语 lǣstan → 动词 last",
+        "履行、延续 → 持续、经用"
+      ],
+      [
+        "last + -s → lasts",
+        "某事持续；某物耐用"
+      ]
+    ],
+    "explanation": "lasts an hour 持续一小时；lasts for years 能用多年；lasts longer 持续更久。",
+    "usage": "as long as it lasts 在它仍持续的时候；the feeling lasts 感觉持续。",
+    "contrast": "lasts 是动词三单。the last chapter 的 last 是最后的，不用因为 chapter 是复数就给形容词加 s。",
+    "examples": [
+      [
+        "The lesson lasts forty minutes.",
+        "这节课持续四十分钟。"
+      ],
+      [
+        "This bag lasts longer than my old one.",
+        "这个包比我原来的那个更耐用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lasts#English",
+      "https://en.wiktionary.org/wiki/last#English"
+    ]
+  },
+  {
+    "word": "leagues",
+    "ipa": "/liːɡz/",
+    "meaning": "联盟、联赛〔复数〕；水平档次〔固定表达〕",
+    "sense": "几支球队或几个团体绑到同一个组织里，可以组成 leagues。in a different league 借分组比赛说水平属于另一档。",
+    "split": "联盟义 league 经法语 ligue、意大利语 lega，接拉丁 ligare 绑、联结。现代加复数 -s，/ɡ/ 后读 /z/。距离单位 league 另接古法语、拉丁 leuga 等材料，不属于这条绑在一起的来源。",
+    "history": [
+      [
+        "拉丁 ligare → 意大利语 lega、法语 ligue → league",
+        "绑在一起 → 联盟、组织化联赛"
+      ],
+      [
+        "league + -s → leagues；分组比喻",
+        "多个联盟、联赛；水平档次"
+      ]
+    ],
+    "explanation": "local leagues 地方联赛；sports leagues 体育联赛；leagues ahead 远远领先〔口语〕。",
+    "usage": "different leagues 不同联赛；in another league 高出一档、属于另一水平。",
+    "contrast": "league 可以是组织，也可以是联赛层级；leagues ahead 常是程度夸张，不必真的拿古代距离单位计算。",
+    "examples": [
+      [
+        "Several local leagues use the same sports centre.",
+        "几个地方联赛共用这座体育中心。"
+      ],
+      [
+        "Her new drawings are leagues ahead of her earlier work.",
+        "她的新画作比早期作品进步了一大截。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leagues#English",
+      "https://en.wiktionary.org/wiki/league#English"
+    ]
+  },
+  {
+    "word": "listings",
+    "ipa": "/ˈlɪstɪŋz/",
+    "meaning": "刊登条目、目录条目；节目表、房源等信息〔复数〕",
+    "sense": "在网站、报纸或目录里，一项项列出的公开信息，是 listings。房源只是常见一种，节目、职位、商品也能成为条目。",
+    "split": "list 的清单支发展列出动词，再有 list + 完整 -ing → listing，表示列出过程或刊登条目。现代 listing 加复数 -s，/ŋ/ 后读 /z/；船身倾斜的同形 list 另源。",
+    "history": [
+      [
+        "list 清单、列出 → listing",
+        "把信息逐项列出 → 一项刊登信息"
+      ],
+      [
+        "listing + -s → listings",
+        "多项公开、目录或清单信息"
+      ]
+    ],
+    "explanation": "job listings 招聘信息；property listings 房源信息；TV listings 电视节目表。",
+    "usage": "check the listings 查看条目信息；local listings 当地分类、节目信息等。",
+    "contrast": "listings 说列出的信息，不必是某个纸本目录。listing 作动作名词可说列举过程，这里的复数则通常数具体条目。",
+    "examples": [
+      [
+        "She checked the job listings after lunch.",
+        "午饭后她查看了招聘信息。"
+      ],
+      [
+        "The guide includes listings for local theatres.",
+        "这份指南收录了当地剧院的条目信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/listings#English",
+      "https://en.wiktionary.org/wiki/listing#English"
+    ]
+  }
+]

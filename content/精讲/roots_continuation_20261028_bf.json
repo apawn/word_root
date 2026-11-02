@@ -1,0 +1,145 @@
+[
+  {
+    "id": "B3924",
+    "meaning": "新闻、消息及其传播",
+    "core": "NEWS：新消息经什么媒介、由谁送到人眼前",
+    "image": "播报成节目，胶片成新闻短片，供稿成电讯服务，持续更新成信息流；人物按职责再分。",
+    "intro": "news 与 new 的新事物用法有关，虽带 s，现代通常作为不可数整体名词。newscast、newsreel、newswire 的后半成分解释媒介；newsreader 软件义接旧新闻组技术。",
+    "forms": "newsworthy 先讲价值；newscast → newscaster 与 newsreader 放一起；newsflash、newsreel、newswire、newsfeed 分清快讯、影像、供稿、动态流；newsman、newsboy 分职业。",
+    "branches": [
+      [
+        "新闻与价值",
+        "news · newsworthy"
+      ],
+      [
+        "播报与播报者",
+        "newscast · newscaster · newsreader"
+      ],
+      [
+        "不同传播形式",
+        "newsflash · newsreel · newswire · newsfeed"
+      ],
+      [
+        "职业和既有媒体词",
+        "newsman · newsboy · newspaper · newsletter · newsroom · newsstand · newsprint · newsagent · newsgroup"
+      ]
+    ],
+    "contrasts": "news 不因 s 就写 news are；newscast 节目、newscaster 人；newsfeed 动态流与 newsgroup 讨论区不同；newsreel 的 reel 是胶片卷。",
+    "practice": "The newsreader opened the newscast with a newsworthy discovery reported on the newswire.\n\n新闻播音员以电讯供稿里一项值得报道的发现为新闻节目开场。",
+    "words": [
+      "news",
+      "newsworthy",
+      "newscast",
+      "newscaster",
+      "newsreader",
+      "newsflash",
+      "newsreel",
+      "newswire",
+      "newsfeed",
+      "newsman",
+      "newsboy",
+      "newspaper",
+      "newsletter",
+      "newsroom",
+      "newsstand",
+      "newsprint",
+      "newsagent",
+      "newsgroup"
+    ],
+    "exclude": {
+      "news-house": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-news": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2879",
+    "meaning": "拿住、维持、保持、容纳；货舱另源",
+    "core": "HOLD：把物、位置或状态保持住",
+    "image": "手里拿住，原则托住，信息扣住，立足点站住；货舱即使能装东西，也不能假装与这套动作同源。",
+    "intro": "hold 主动作接古英语 healdan；held 是过去、分词。货舱名词另接 hole 相关形式，因 hold 影响改形。behold 的旧动词本有观察义，with- 在 withhold 里也不是今日一起义。",
+    "forms": "hold → holder、holding；uphold / withhold 对照维护与扣住；behold 看、foothold 立足，ahold 联系抓取；holdout / holdover 对照坚持者与遗留者；控制比喻、租契持有分组。\n\nhold → held → held；较早过去式 heold 与旧分词形式的历史不完全相同，现代过去分词后来也采用 held。\n\n从把东西稳住，理解保持位置、装得下及说法成立。\n\n中古英语 houshold 的共同维持一家背景，现代 s 数家庭、住户单位。\n\n本族 hold 加完整 er，可指人或器物，复数再加 s。\n\nhold 加 ing 形成名词，复数可说财产、土地、馆藏等。\n\nheld 是不规则过去分词，组合先可作性质词，再可作手持设备名。\n\n停止名词 halt 经法语、意大利语追到德语 halten 持有、止住的命令形式，与 hold 同族。另有古英语走路不稳、迟疑的 halt，halting speech 断续讲话主要接后一线，不能全部由现代军令新造。",
+    "branches": [
+      [
+        "拿住、持有者与持有物",
+        "hold · holder · holding"
+      ],
+      [
+        "托住、扣住、观看",
+        "uphold · withhold · behold"
+      ],
+      [
+        "立足、联系、坚持和遗留",
+        "foothold · ahold · holdout · holdover · stronghold"
+      ],
+      [
+        "强力控制与租契权益",
+        "stranglehold · chokehold · leasehold"
+      ],
+      [
+        "既有家庭单位精讲",
+        "household"
+      ],
+      [
+        "hold 与 held：拿着、保持与举办",
+        "hold · held"
+      ],
+      [
+        "hold → holds：抓住、容纳与持续有效",
+        "hold · holds"
+      ],
+      [
+        "household → households：共同生活的一户",
+        "household · households"
+      ],
+      [
+        "hold → holder → holders：持有者与固定容纳物",
+        "hold · holder · holders"
+      ],
+      [
+        "holding → holdings：所持有、保有的东西",
+        "hold · holding · holdings"
+      ],
+      [
+        "hand + held → handheld：拿在手中的",
+        "hold · held · handheld · handhelds"
+      ],
+      [
+        "halt：与 hold 同族的停止；断续、迟疑另有旧词线",
+        "halt · halts · halted · halting"
+      ]
+    ],
+    "contrasts": "foothold 立足点、stronghold 稳固据点、stranglehold 强力扼制；holding 资产、holder 持有人；holdout 坚持者、holdover 遗留者。货舱另源。",
+    "practice": "The last holdout withheld support but agreed to hold another meeting.\n\n最后仍未答应的一方保留了支持，却同意再开一次会。",
+    "words": [
+      "hold",
+      "holder",
+      "holding",
+      "uphold",
+      "withhold",
+      "behold",
+      "foothold",
+      "ahold",
+      "holdout",
+      "holdover",
+      "stronghold",
+      "stranglehold",
+      "chokehold",
+      "leasehold",
+      "household",
+      "held",
+      "holds",
+      "households",
+      "holders",
+      "holdings",
+      "handheld",
+      "handhelds",
+      "halt",
+      "halts",
+      "halted",
+      "halting"
+    ],
+    "exclude": {
+      "mini-hold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

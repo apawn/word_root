@@ -1,0 +1,251 @@
+[
+  {
+    "word": "steady",
+    "ipa": "/ˈstedi/",
+    "meaning": "稳的、稳定的；持续均匀的；使稳定、稳住",
+    "sense": "端着水杯手不晃，心里遇事不慌，水流一直差不多，都抓住不乱动、不忽上忽下的感觉。",
+    "split": "接中古英语 stedy 等，常联系 stead 位置 + -y，也有继承、受相关日耳曼语形式影响等历史解释。ea 在这里读 /e/，不是 /iː/。",
+    "history": [
+      [
+        "中古英语 stedy 等 → steady",
+        "稳定、站得住；联系 stead 位置的词族及相关日耳曼语形式"
+      ],
+      [
+        "英语性质扩展",
+        "手不抖、情绪不乱、速度均匀、收入持续等"
+      ]
+    ],
+    "explanation": "a steady hand 稳的手，a steady income 稳定收入，steady rain 持续均匀的雨，steady progress 稳步进展，steady yourself 稳住身体或情绪。",
+    "usage": "a steady hand；a steady income；steady progress；steady yourself。",
+    "contrast": "steady 不等于 slow 慢：速度很快也可以稳定；a steady rain 不保证是小雨。go steady 还可说维持固定恋爱关系，是特定旧式搭配。",
+    "examples": [
+      [
+        "Keep the camera steady while I take the picture.",
+        "我拍照时，把相机拿稳。"
+      ],
+      [
+        "She steadied herself against the wall.",
+        "她扶着墙稳住身体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steady#English"
+    ]
+  },
+  {
+    "word": "steadily",
+    "ipa": "/ˈstedɪli/",
+    "meaning": "稳定地、均匀地；持续地、稳步地",
+    "sense": "把 steady 放到变化过程里：步子、工作或增长一直保持着节奏，不是一下冲高、一下停住。",
+    "split": "steady 的 y 变 i + -ly → steadily。这个副词既可描述身体动作，也可描述一段时间内的趋势。",
+    "history": [
+      [
+        "中古英语 stedy 等 → steady",
+        "稳定、站得住；联系 stead 位置的词族及相关日耳曼语形式"
+      ],
+      [
+        "英语性质扩展",
+        "手不抖、情绪不乱、速度均匀、收入持续等"
+      ],
+      [
+        "steady → steadily",
+        "稳定性质 → 以稳定、持续的方式"
+      ]
+    ],
+    "explanation": "walk steadily 稳稳地走，work steadily 持续有节奏地工作，increase steadily 稳步增加，rain steadily 雨持续地下。",
+    "usage": "walk steadily；work steadily；increase steadily。",
+    "contrast": "steadily 强调稳定、连续趋势，不必每一秒完全同速；steadily increasing 不等于 suddenly increasing 突然增长。",
+    "examples": [
+      [
+        "The river rose steadily through the night.",
+        "河水整夜持续上涨。"
+      ],
+      [
+        "She worked steadily until the task was finished.",
+        "她一直有条不紊地工作，直到任务完成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steadily#English"
+    ]
+  },
+  {
+    "word": "steadiness",
+    "ipa": "/ˈstedinəs/",
+    "meaning": "稳定、平稳；沉着、稳健",
+    "sense": "不去讲动作本身，而是看手、声音、表现有多稳；这份稳定就是 steadiness。",
+    "split": "steady 的 y 变 i + -ness；-ness 把性质做成名词。可说物理稳定，也可说情绪和表现稳定。",
+    "history": [
+      [
+        "中古英语 stedy 等 → steady",
+        "稳定、站得住；联系 stead 位置的词族及相关日耳曼语形式"
+      ],
+      [
+        "英语性质扩展",
+        "手不抖、情绪不乱、速度均匀、收入持续等"
+      ],
+      [
+        "steady → steadiness",
+        "稳定的 → 稳定性质、程度"
+      ]
+    ],
+    "explanation": "the steadiness of her hand 她手的稳定程度，steadiness under pressure 压力下的沉着，steadiness of performance 表现的稳定。",
+    "usage": "the steadiness of；steadiness under pressure；steadiness of performance。",
+    "contrast": "steadiness 不等于僵硬不动：稳定表现也可持续调整。stiffness 则更强调硬、僵或不易弯。",
+    "examples": [
+      [
+        "The job requires steadiness of hand and close attention.",
+        "这份工作要求手稳，并且专注。"
+      ],
+      [
+        "Her steadiness under pressure reassured the team.",
+        "她在压力下的沉着让团队安心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steadiness#English"
+    ]
+  },
+  {
+    "word": "unsteady",
+    "ipa": "/ʌnˈstedi/",
+    "meaning": "不稳的、摇晃的；不均匀、不稳定的",
+    "sense": "站着晃、声音发颤、收入忽多忽少，都可以是原本该稳的东西没稳住。",
+    "split": "un- 不 + steady，否定稳定性质；也有使不稳的动词用法，但形容词最常见。",
+    "history": [
+      [
+        "中古英语 stedy 等 → steady",
+        "稳定、站得住；联系 stead 位置的词族及相关日耳曼语形式"
+      ],
+      [
+        "英语性质扩展",
+        "手不抖、情绪不乱、速度均匀、收入持续等"
+      ],
+      [
+        "un- + steady → unsteady",
+        "身体、节奏、状态等不稳"
+      ]
+    ],
+    "explanation": "unsteady on your feet 站立不稳，an unsteady voice 发颤的声音，unsteady income 不稳定收入，an unsteady table 摇晃桌子。",
+    "usage": "unsteady on your feet；an unsteady voice；an unsteady table。",
+    "contrast": "unsteady 不自动等于 weak 弱：桌子可能很结实但放得不平。unstable 更广说结构或状态容易发生变化，很多场合有重叠。",
+    "examples": [
+      [
+        "The table was unsteady on the uneven floor.",
+        "地板不平，桌子放着直晃。"
+      ],
+      [
+        "His voice was unsteady when he read the letter.",
+        "他读信时声音有些发颤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsteady#English"
+    ]
+  },
+  {
+    "word": "bonus",
+    "ipa": "英 /ˈbəʊnəs/；美 /ˈboʊnəs/",
+    "meaning": "额外奖金；额外好处、奖励、加分",
+    "sense": "原本已经拿到或预期有一份，另外又多了件好事；工资外的奖金只是其中一类。",
+    "split": "借拉丁 bonus 好的，进入英语后固定为额外的好处、款项等名词。不能把 bon + us 按现代英语我们来拆；复数 bonuses。",
+    "history": [
+      [
+        "拉丁 bonus 好的 → 英语 bonus",
+        "好的额外之物、附加利益"
+      ],
+      [
+        "现代常用范围",
+        "额外奖金、游戏加分、额外好处"
+      ]
+    ],
+    "explanation": "a performance bonus 绩效奖金，a bonus point 奖励分，an added bonus 额外好处，as a bonus 另外还。",
+    "usage": "a performance bonus；a bonus point；an added bonus；as a bonus。",
+    "contrast": "bonus 不保证是钱：住处离海近可算 a bonus。奖金通常额外给付，salary 是固定薪酬概念，两者不能只按收入互换。",
+    "examples": [
+      [
+        "She received a bonus for finishing the project early.",
+        "她因提前完成项目获得一笔奖金。"
+      ],
+      [
+        "The room was comfortable, and the sea view was a bonus.",
+        "房间很舒服，海景更是额外的惊喜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bonus#English"
+    ]
+  },
+  {
+    "word": "temple",
+    "ipa": "/ˈtempəl/",
+    "meaning": "寺庙、神殿等宗教建筑；太阳穴；眼镜腿〔后两者另一路〕",
+    "sense": "景点是寺庙，揉头是在揉太阳穴，修眼镜可能是在调眼镜腿；三个场景先分好，别想成脑袋里有座寺。",
+    "split": "建筑义接拉丁 templum，经古英语已有借词，包含宗教专用区域、神殿背景。太阳穴义经法语接拉丁 tempora 头侧部位，眼镜腿沿此位置得名；不是神殿义在英语里变来。",
+    "history": [
+      [
+        "拉丁 templum → 古英语 tempel → temple",
+        "祭祀、占卜的专用区域 → 宗教建筑"
+      ],
+      [
+        "另线拉丁 tempora → 法语 temple → 英语 temple",
+        "头侧太阳穴 → 眼镜两侧支脚"
+      ]
+    ],
+    "explanation": "an ancient temple 古庙，a Buddhist temple 佛寺，rub your temples 揉太阳穴，the temples of the glasses 眼镜腿。也可比喻 a temple of art 艺术殿堂。",
+    "usage": "an ancient temple；a Buddhist temple；rub your temples；the temples of glasses。",
+    "contrast": "temple 不限定某一种宗教；具体建筑应按其传统名称理解。太阳穴的 temple 与时间 time 无直接现代构词关系，不能拿时间流逝硬编解释。",
+    "examples": [
+      [
+        "We visited an ancient temple outside the city.",
+        "我们参观了城外的一座古庙。"
+      ],
+      [
+        "She rubbed her temples and closed her eyes.",
+        "她揉了揉太阳穴，闭上眼睛。"
+      ],
+      [
+        "The optician adjusted the temples of my glasses.",
+        "验光配镜师调整了我的眼镜腿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/temple#English",
+      "https://www.etymonline.com/word/temple"
+    ]
+  },
+  {
+    "word": "uncle",
+    "ipa": "/ˈʌŋkəl/",
+    "meaning": "伯父、叔父、舅舅、姑父、姨父等；对某些长辈的亲昵称呼",
+    "sense": "英语把中文按父母两边、长幼、血亲姻亲分得很细的一些称谓，收进同一个 uncle；到底哪位，要补上下文。",
+    "split": "经法语 oncle 接拉丁 avunculus 母亲的兄弟，形态联系 avus 祖父的小称。历史母系较具体，现代英语范围扩大；不能拆成否定 un- + cle。",
+    "history": [
+      [
+        "拉丁 avus → avunculus",
+        "祖父 → 小称形式，指母亲的兄弟"
+      ],
+      [
+        "法语 oncle → 英语 uncle",
+        "舅舅义扩大为父母兄弟及相关姻亲称谓"
+      ]
+    ],
+    "explanation": "my mother’s brother 我的舅舅，my uncle 伯叔舅等，Uncle John 约翰叔叔，a family friend called Uncle 被孩子叫叔叔的家庭朋友。say uncle 在北美俚语里可说认输，来历不宜硬编。",
+    "usage": "my uncle；Uncle John；an uncle by marriage；say uncle。",
+    "contrast": "uncle 不区分伯、叔、舅，不自动说明年龄大于父母；uncle by marriage 指姻亲。Uncle 作称呼不保证有血缘。",
+    "examples": [
+      [
+        "My uncle is my mother’s younger brother.",
+        "我的舅舅是我妈妈的弟弟。"
+      ],
+      [
+        "We called our parents’ close friend Uncle David.",
+        "我们把父母的好友叫作戴维叔叔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncle#English",
+      "https://www.etymonline.com/word/uncle"
+    ]
+  }
+]

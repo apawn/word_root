@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B4306",
+    "meaning": "冷、寒意，以及恐惧与轻松两种情绪扩展",
+    "core": "CHILL：身体冷、心里发凉，也能叫人冷静放松",
+    "image": "chill → chilly 寒冷、冷淡；chilling 令人惊惧；chilled 已冷却；chiller 冷却设备或恐怖作品。",
+    "intro": "温度与心情共享冷的形象，却可能朝相反评价走。口语 a chill person 是随和，a chilly reception 则是冷淡。",
+    "forms": "ċiele/ċele、ċilian → chill；chill + -y/-ing/-ed/-er。",
+    "branches": [
+      [
+        "冷的性质、结果与感受",
+        "chill · chilly · chilled"
+      ],
+      [
+        "引发寒意与设备作品",
+        "chilling · chiller"
+      ]
+    ],
+    "contrasts": "chill/chilly 口语评价不同；chilled 不等于 frozen；chilling effect 可说抑制表达；chiller 不必家用冰箱。",
+    "practice": "On a chilly evening, we chilled at home with chilled juice and a chilling film.\n\n凉飕飕的傍晚，我们在家放松，喝着冷果汁，看一部令人胆寒的电影。",
+    "words": [
+      "chill",
+      "chilly",
+      "chilled",
+      "chilling",
+      "chiller"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3185",
+    "meaning": "拖拉、阻碍的画面及表演、赛车的专门用法",
+    "core": "DRAG：拖着走，扩展到拖慢、扫兴；专门义另辨",
+    "image": "drag → dragging；dragnet 拖网、拉网搜查；dragster 赛车。变装表演 drag 的来源不强定。",
+    "intro": "先用阻力和拖长理解日常搭配，再按舞台、赛车上下文切换专门意思。相同拼写不能把每条路线都解释成物体贴地移动。",
+    "forms": "dragan/draga 等 → drag；drag + -ing/net；赛车 drag + -ster；服饰表演义另有未定解释。\n\n古英语、北欧拉词相关形式汇合，普通拖动义与表演专义要按语境分开。\n\n拖着移动的画面移到界面操作，也可表达时间过得慢。",
+    "branches": [
+      [
+        "拖拉、拖沓及搜查",
+        "drag · dragging · dragnet"
+      ],
+      [
+        "直线加速赛车",
+        "dragster"
+      ],
+      [
+        "drag → dragged：费力把东西拖走",
+        "drag · dragged"
+      ],
+      [
+        "drag 的拖拽、拖延与规则变化",
+        "drag · drags · dragged · dragging"
+      ]
+    ],
+    "contrasts": "drag on 是拖延；dragging your feet 可比喻迟迟不办；dragster 不指拖车；变装词的来源不编成唯一事实。",
+    "practice": "The discussion was dragging, and everyone wanted to stop dragging their feet.\n\n讨论很拖沓，大家都想结束迟迟不作决定的状态。",
+    "words": [
+      "drag",
+      "dragging",
+      "dragnet",
+      "dragster",
+      "dragged",
+      "drags"
+    ],
+    "exclude": {
+      "de-drag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drag-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drag-chain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lally-drags": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4289",
+    "meaning": "建立的行为、已形成制度及其重新恢复",
+    "core": "ESTABLISHMENT：建立起来的过程、事物，也可重新建立",
+    "image": "establishment → reestablishment；前者可指建立、机构或权势集团，后者主要说重建、恢复。",
+    "intro": "名词有过程和结果两面，再加 re- 通常重新启动建立这一动作。不要把前一个词每个义项都机械复制进长词。",
+    "forms": "establish + -ment → establishment；re- + establishment → reestablishment。\n\n机构、经营场所可以数为 establishments；the Establishment 常指掌权的社会圈层、既有权势体系，不能把所有复数都译成建制派。",
+    "branches": [
+      [
+        "建立、制度及重建",
+        "establishment · reestablishment"
+      ],
+      [
+        "establishment 的复数与不同义项",
+        "establishments"
+      ]
+    ],
+    "contrasts": "establishment 可是机构或权势集团；reestablishment 主要看重建对象，不必完全照旧。",
+    "practice": "The reestablishment of the service required a new arrangement.\n\n恢复这项服务需要重新作安排。",
+    "words": [
+      "establishment",
+      "reestablishment",
+      "establishments"
+    ],
+    "exclude": {
+      "anti-establishment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "disestablishment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

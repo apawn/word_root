@@ -5,7 +5,7 @@
     "core": "PAN = BREAD",
     "image": "一块面包：可以拿来吃，也可以与别人分着吃",
     "intro": "拉丁语 pānis 的本义就是“面包”。最值得先学的是那条人际路线：com- 一起 + pānis 面包，形成“共食的伙伴”，再走到 companion、company 和 accompany。另一些词保留食品本义，或由存放面包的地方、容器得名。",
-    "forms": "pan- / pani- 是拉丁语 pānis 在借词与组合词中的形式。意大利语 pane、西班牙语 pan、葡萄牙语 pão 都延续这条来源；日语 pan 又从葡萄牙语借入。这里不包括希腊语 pan-“全部”，也不把英语 pan“锅”硬归进来。",
+    "forms": "pan- / pani- 是拉丁语 pānis 在借词与组合词中的形式。意大利语 pane、西班牙语 pan、葡萄牙语 pão 都延续这条来源；日语 pan 又从葡萄牙语借入。这里不包括希腊语 pan-“全部”，也不把英语 pan“锅”硬归进来。\n\ncompany 经法语接共同吃面包的同伴词族；companies 常指公司、团体，陪伴义通常不这样数。\n\naccompaniment 借法语 accompagnement，accompanist 对应 accompany 与 -ist；一起吃面包的更远画面经过同伴、陪同再进入音乐用途。\n\ncompanion 经法语接晚期拉丁 companio 共同吃面包的人，后来泛指同伴、伴侣。现代加 -s，词尾 /nz/，不是每段关系都必须真的分面包。",
     "branches": [
       [
         "人与人相伴",
@@ -42,6 +42,18 @@
       [
         "少见专业词",
         "impanation, panivorous"
+      ],
+      [
+        "company → companies：结伴、团体到公司",
+        "company · companies"
+      ],
+      [
+        "同伴、陪伴材料走到伴奏与伴奏者",
+        "accompaniment · accompaniments · accompanist · accompanists"
+      ],
+      [
+        "com- 一起 + pan- 面包 → companions",
+        "companions"
       ]
     ],
     "contrasts": "company 的公司义、陪伴义出自同一伙伴词族；companion 不是现代英语 company 加一个人称词尾。\n\npan-“面包”和 pan-“全部”只是拼写重合。panivorous 指吃面包，不是“什么都吃”。\n\n食品名可以借到英语，也可以保留原语复数：panelle、panini 的词尾不能按普通英语词缀乱切。\n\npanatella 等雪茄名称是由食物的形状借名；panettone 才是甜面包，不要看着像就混为一物。",
@@ -80,7 +92,11 @@
       "panatella",
       "panatela",
       "panetela",
-      "panetella"
+      "panetella",
+      "companies",
+      "accompaniments",
+      "accompanists",
+      "companions"
     ]
   }
 ]

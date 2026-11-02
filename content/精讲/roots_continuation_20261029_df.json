@@ -1,0 +1,119 @@
+[
+  {
+    "id": "B3043",
+    "meaning": "深、深度；深入、加深",
+    "core": "DEEP：从表面往内部走，而非只碰表层",
+    "image": "水有物理深度，理解、感情也有深入程度；depth 把深拿来量，deepen 把深变成变化动作。",
+    "intro": "deep 接古英语 dēop，古早已有具体和抽象用法。depth 是历史 -th 名词对应，deepen 的 -en 则形成动词，不能把后缀一概而论。",
+    "forms": "deep → depth；deep → deepen；deep → deeply；deep + water → deepwater。\n\ndeep 继承古英语 dēop，具体深度和严肃、强烈的抽象用法很早已有。\n\ndepth 与 deep、-th 性质名词对应，历史有元音变化与类比材料。现代复数常说多处深度、最深处、程度，末尾 /pθs/。",
+    "branches": [
+      [
+        "性质、深度与变化",
+        "deep · depth · deepen · deeply"
+      ],
+      [
+        "深水用途",
+        "deepwater"
+      ],
+      [
+        "deep → deeper → deepest：深度、理解与感受",
+        "deep · deeper · deepest"
+      ],
+      [
+        "deep、depth → depths：深处与深度",
+        "depths"
+      ]
+    ],
+    "contrasts": "depth 名词，deepen 动词，deeply 副词；deepwater port 深水港，in deep water 可比喻陷入麻烦。",
+    "practice": "The in-depth discussion deepened our understanding.\n\n深入讨论加深了我们的理解。",
+    "words": [
+      "deep",
+      "depth",
+      "deepen",
+      "deeply",
+      "deepwater",
+      "deeper",
+      "deepest",
+      "depths"
+    ],
+    "exclude": {
+      "deep-set": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "knee-deep": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deep-throat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deep-seated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deep-grounded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2999",
+    "meaning": "教导、展示；教师、教学和可教性",
+    "core": "TEACH：指给人看、讲给人懂，再让人学会",
+    "image": "teach 是动作，teacher 是人，teaching 是活动或内容，teachable 是能教、愿学或适合教的特点。",
+    "intro": "teach 继承古英语指示、展示、教导词，过去式、分词 taught。现代 -er、-ing、-able 改变句法角色，不改变教与学两端的方向。",
+    "forms": "teach → teacher、teaching、teachable；teach—taught—taught 单独记不规则变化。\n\nteach → taught → taught；taught 承接古英语 tæhte、tæht 等旧过去材料。\n\nteacher 对应 teach 加 -er，有较早本族形式；teachers 词尾读 /z/。\n\n古英语 taecan 的展示、教导词，现代过去形式 taught，三单多 /ɪz/ 音节。\n\nteaching 承古英语教学的行为名词，后来也指教导的内容。现代复数 teachings 常说教诲、学说，不是简单数几次上课。",
+    "branches": [
+      [
+        "动作、人物、活动、性质",
+        "teach · teacher · teaching · teachable"
+      ],
+      [
+        "teach 与 taught：指给人看、教会的过去",
+        "teach · taught"
+      ],
+      [
+        "teach → teacher → teachers：教与教的人",
+        "teach · teacher · teachers"
+      ],
+      [
+        "teach → teaches：指给人看，让人学会",
+        "teach · teaches"
+      ],
+      [
+        "teach → teaching → teachings：传授的内容",
+        "teachings"
+      ]
+    ],
+    "contrasts": "teach 教，learn 学；teaching 不是教师复数；teachable moment 教育契机，不是会学习的一分钟。",
+    "practice": "The teacher used a teachable moment to teach a useful lesson.\n\n老师抓住一次教育契机，教了一个有用的道理。",
+    "words": [
+      "teach",
+      "teacher",
+      "teaching",
+      "teachable",
+      "taught",
+      "teachers",
+      "teaches",
+      "teachings"
+    ],
+    "exclude": {
+      "teach-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-teach": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4028",
+    "meaning": "精确无差；要求、索取与严格标准",
+    "core": "EXACT：按标准核得准，也能要求对方付出",
+    "image": "形容词 exact 准确，exactly 正好；动词 exact 索取、要求，exacting 由这一支说任务、人要求高。",
+    "intro": "exact 接拉丁 exigere 的分词 exactus，历史有驱动、要求、检查测量等用法。现代按两支读，比把所有词义都硬塞进精确好懂。",
+    "forms": "exact 精确 → exactly；exact 要求、索取 → exacting。",
+    "branches": [
+      [
+        "精确、正好",
+        "exact · exactly"
+      ],
+      [
+        "要求高与费心力",
+        "exacting"
+      ]
+    ],
+    "contrasts": "exact time 准确时间；exact a price 要求付出代价；exacting work 要求高，不是正在精确。",
+    "practice": "The exacting task required us to follow the instructions exactly.\n\n这项要求很高的任务，需要我们准确遵照说明。",
+    "words": [
+      "exact",
+      "exactly",
+      "exacting"
+    ],
+    "exclude": {}
+  }
+]

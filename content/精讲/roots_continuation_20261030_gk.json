@@ -1,0 +1,89 @@
+[
+  {
+    "id": "B4118",
+    "meaning": "灌木和天然林野；同形机械套筒另分支",
+    "core": "BUSH：枝条密成一团，再放大到一片林野",
+    "image": "bush → bushy；bushland 地带、bushcraft 技能、bushman 人；bushing 机械词另源；rebuke 经法语斥退词走来。",
+    "intro": "主要学习线是植物外形和自然环境。套筒义与斥责词虽然会出现在词源关联里，也要交代中间语言和不确定处。",
+    "forms": "日耳曼灌丛词 → bush；bush + -y/land/craft/man；机械 bush + -ing；法语 rebuker → rebuke。",
+    "branches": [
+      [
+        "灌丛与外形",
+        "bush · bushy"
+      ],
+      [
+        "林野环境、技能和居民",
+        "bushland · bushcraft · bushman · bushfire"
+      ],
+      [
+        "同形机械词及间接关联",
+        "bushing · rebuke"
+      ]
+    ],
+    "contrasts": "bushy/bushing 外形与机械件；bushman 生活描述与大写族群旧称靠语境分；rebuke 不是 re + book。",
+    "practice": "The bushman taught bushcraft beside a patch of bushland.\n\n这位熟悉林野的人在一片天然林地旁教野外生活技能。",
+    "words": [
+      "bush",
+      "bushy",
+      "bushland",
+      "bushcraft",
+      "bushman",
+      "bushfire",
+      "bushing",
+      "rebuke"
+    ],
+    "exclude": {
+      "bush-hen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4140",
+    "meaning": "许可、授许可与接许可",
+    "core": "LICENSE：给谁一项有条件的允许",
+    "image": "license 许可、授许可；licensor 给出去；licensee 接过来。",
+    "intro": "把角色画成一条箭头就够了。使用许可不是把所有权一起交出，英美拼写差异也不会改变双方关系。",
+    "forms": "licēre → licentia → licence/license；license + -or/-ee → licensor/licensee。\n\n法语 licence 接拉丁 licentia，动词与名词有相应借入；英式名词常 licence，动词 license。\n\n法语、拉丁允许词族，英式动词仍常拼 license，名词常 licence。\n\nleisure 经法语 leisir、loisir 的名词化不定式，接 licere 被允许；不从现代 license 直接换拼写。\n\n词源接法语 licence、拉丁 licentia 许可，远连 licere 被允许。美式 license 可作名词动词；英式通常名词 licence、动词 license，复数相应有 licences。",
+    "branches": [
+      [
+        "许可与授权动作",
+        "license"
+      ],
+      [
+        "许可两端的角色",
+        "licensor · licensee"
+      ],
+      [
+        "license → licensed：得到许可、授权",
+        "license · licensed · licence"
+      ],
+      [
+        "license → licensing：授予、取得许可的过程",
+        "license · licence · licensing"
+      ],
+      [
+        "许可、空闲的拉丁词族：license 与 leisure",
+        "license · leisure · leisurely"
+      ],
+      [
+        "license → licenses：许可文件与授权动作",
+        "licenses"
+      ]
+    ],
+    "contrasts": "licensor/licensee 授出与接受；license/ownership 许可与所有权；英式名词常为 licence。",
+    "practice": "The licensor granted the licensee a license to use the design.\n\n许可方授给被许可方一项使用该设计的许可。",
+    "words": [
+      "license",
+      "licensor",
+      "licensee",
+      "licensed",
+      "licence",
+      "licensing",
+      "leisure",
+      "leisurely",
+      "licenses"
+    ],
+    "exclude": {
+      "license-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

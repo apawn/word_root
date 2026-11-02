@@ -1,0 +1,167 @@
+[
+  {
+    "id": "A1780",
+    "meaning": "性质形容词词尾；另一组糖类命名词尾",
+    "core": "-OSE：形容词与糖名，两路历史要分开",
+    "image": "comatose 在形容人处于昏迷；maltose、lactose、fructose 却是糖的名称。拼写相同，语法功能和命名历史不同。",
+    "intro": "形容词 -ose 联系拉丁 -osus 具有某性质，与 -ous 同源；糖类 -ose 则在十九世纪法语化学命名中推广，与 glucose、cellulose 等名称及后续类比相连。",
+    "forms": "coma 的旧扩展词干 comat- + 性质 -ose → comatose；malt + 糖名 -ose → maltose；lact-、fruct- 等分别提供乳、果实等命名线索。",
+    "branches": [
+      [
+        "性质形容词",
+        "coma · comatose"
+      ],
+      [
+        "糖类名称",
+        "glucose · dextrose · fructose · lactose · maltose"
+      ]
+    ],
+    "contrasts": "不要用糖来解释 comatose；糖名的前部常提示早期来源或性质，但不限定今天只有那里能找到该物质。",
+    "practice": "The glossary separates comatose from sugar names such as maltose and lactose.\n\n词汇表把 comatose 与麦芽糖、乳糖这样的糖名分开说明。",
+    "words": [
+      "coma",
+      "comatose",
+      "glucose",
+      "dextrose",
+      "fructose",
+      "lactose",
+      "maltose"
+    ],
+    "exclude": {
+      "galactose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mannose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "agarose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "xylose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1934",
+    "meaning": "胺类及相关历史命名材料",
+    "core": "-AMINE：认出化学命名线索，再看完整物质",
+    "image": "amine 是胺类名称；dopamine、histamine 等在词尾保留这组材料，但它们各是特定物质，身体作用不能只由后缀猜。",
+    "intro": "amine 从 ammonia 氨的相关词基与 -ine 化学词尾形成；后进入新物质名称。不同名称可用缩写、截短、旧名组合，现代分类仍需看结构。",
+    "forms": "ammonia → amine 的命名关系；DOPA + amine → dopamine；histidine 部分词形 + amine → histamine；glutamine 又属于谷氨酸酰胺相关名称。",
+    "branches": [
+      [
+        "基础名称与命名材料",
+        "ammonia · amine"
+      ],
+      [
+        "神经、生理相关物质",
+        "dopamine · histamine"
+      ],
+      [
+        "氨基酸、氨基糖等名称",
+        "glutamine · glucosamine"
+      ]
+    ],
+    "contrasts": "amine 胺与 amide 酰胺不同；仅凭英语词尾不能判断所有分子的完整官能团、作用。glutamine 的结构尤其要连着完整名称理解。",
+    "practice": "The lesson compares amine names such as dopamine and histamine.\n\n这节课对照了 dopamine、histamine 等含胺类命名材料的名称。",
+    "words": [
+      "ammonia",
+      "amine",
+      "dopamine",
+      "histamine",
+      "glutamine",
+      "glucosamine"
+    ],
+    "exclude": {
+      "monoamine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "diamine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "diphenhydramine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4532",
+    "meaning": "尼古丁名称词族及近形化学名",
+    "core": "NICOTINE：从历史人名来的物质名，近形词各看完整名称",
+    "image": "nicotine 是尼古丁；nicotinic acid 是烟酸；nicotinamide 是烟酰胺。拼写相近反映命名历史，现代所指是不同物质。",
+    "intro": "法语 nicotine 以与欧洲烟草传播相关的 Jean Nicot 姓氏等材料命名，英语借入；之后的化学研究形成 nicotinic、nicotinamide 等名称。",
+    "forms": "nicotine → nicotinic〔相关形容词〕；nicotinic acid → nicotinamide〔烟酸的酰胺名称〕。后一名称的关键尾部是 amide。",
+    "branches": [
+      [
+        "基础物质名称",
+        "nicotine"
+      ],
+      [
+        "相关形容词及固定术语",
+        "nicotinic"
+      ],
+      [
+        "烟酸酰胺名称",
+        "nicotinamide"
+      ]
+    ],
+    "contrasts": "烟酰胺的另一英文名 niacinamide 与 nicotinamide 同指一种物质；不能因为含 nicotin- 就把它直接当尼古丁。",
+    "practice": "The glossary distinguishes nicotine, nicotinic acid and nicotinamide.\n\n词汇表区分了尼古丁、烟酸和烟酰胺。",
+    "words": [
+      "nicotine",
+      "nicotinic",
+      "nicotinamide"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1920",
+    "meaning": "化学名称里的历史词尾材料",
+    "core": "-ENE：识别命名家族，同时保留旧名称的差异",
+    "image": "styrene 是苯乙烯，acetylene 是乙炔，kerosene 是煤油，graphene 是石墨烯；它们共享词尾拼写，却不都属于同一种物质类别。",
+    "intro": "希腊名称构词材料进入近代化学，常与法语、德语等命名传播相连。十九世纪从 methylene 等旧名抽出的 -ene 被系统推广，另有商品名、旧名延续。",
+    "forms": "Styrax + -ene → styrene；旧 acetyl 材料 + -ene → acetylene；keros 蜡 + -ene → kerosene；carrot 相关词基 → carotene。每条需按实际命名史读。\n\n希腊、拉丁、法语借词史；奖励义来自胡萝卜大棒的比喻。",
+    "branches": [
+      [
+        "常见燃料、色素名称",
+        "kerosene · carrot · carotene"
+      ],
+      [
+        "化学物质、材料词族",
+        "acetyl · acetylene · styrene · polystyrene · xylene · graphene"
+      ],
+      [
+        "carrot → carrots：植物名与奖励诱因",
+        "carrot · carrots"
+      ]
+    ],
+    "contrasts": "现代系统命名中的词尾规则，不足以覆盖所有历史通名；乙炔是炔烃，煤油是混合物，不能只看 -ene 归成同一类。",
+    "practice": "The lesson explains why styrene and acetylene cannot be classified by their English endings alone.\n\n这节课说明，不能只凭英文词尾就把苯乙烯和乙炔归为同一类。",
+    "words": [
+      "kerosene",
+      "carrot",
+      "carotene",
+      "acetyl",
+      "acetylene",
+      "styrene",
+      "polystyrene",
+      "xylene",
+      "graphene",
+      "carrots"
+    ],
+    "exclude": {
+      "diene": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "naphthalene": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1881",
+    "meaning": "化学相关的近代构词材料",
+    "core": "CHEMO-：把治疗等活动与化学物质联系起来",
+    "image": "therapy 是治疗，前面加 chemo- 后，chemotherapy 表示化学治疗；现代日常谈癌症治疗时常遇到这个词。",
+    "intro": "从近代拉丁化学、炼金术相关 chemia、chemicus 的复合词中抽取 chemo-，远连希腊相关材料。现代科学将它用于化学作用、处理等领域。",
+    "forms": "chemo- + therapy → chemotherapy；chemo 在某些日常语境又是 chemotherapy 的简称。具体所指治疗内容仍由完整语境决定。",
+    "branches": [
+      [
+        "常用治疗名称",
+        "chemotherapy"
+      ]
+    ],
+    "contrasts": "chemo- 给的是化学相关关系，不是一种固定药物；同样也不能把所有用药都按日常习惯叫化疗。",
+    "practice": "The article explains the term chemotherapy.\n\n文章解释了化学治疗这个术语。",
+    "words": [
+      "chemotherapy"
+    ],
+    "exclude": {
+      "chemotherapeutic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chemokine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

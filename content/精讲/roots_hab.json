@@ -5,7 +5,7 @@
     "core": "HAB / HIB = HAVE · HOLD",
     "image": "先想“手里拿着、自己保持着”，再看拿出来、按住、住下来几条方向",
     "intro": "**先想手里拿着一件东西，再想一个人保持某种状态。** 拉丁语 habēre 可以表示拿着、拥有、保持。拿出来给人看，是 exhibit；按住不让它发展，是 inhibit；挡住某事，是 prohibit。habit 来自习性、状态这一支，habitat 来自“常住在那里”。able 则走过“合手、合用 → 有能力”的变化。看起来差很远的 debt、due、duty，都经过 dēbēre“欠、应当”这一支相连。",
-    "forms": "hab- 与复合词中的 hib- 是这一拉丁词族的形态变化；habit-、hibit- 常与其分词或进一步构词有关。habitāre 是 habēre 的反复式，发展为居住；habilis 发展出 able。独立单词 able 与 -able 后缀历史来源不同，不能把所有以 -able 结尾的词都归入本族。debility、debilitate、debile 的深层词源有争议，本页保留为比较旁支，图从 dēbilis“虚弱”开始；不把它们画作 habēre 的确定后代。indubitable、indubitably 来自 dubitāre“怀疑”，不属于这一族。",
+    "forms": "hab- 与复合词中的 hib- 是这一拉丁词族的形态变化；habit-、hibit- 常与其分词或进一步构词有关。habitāre 是 habēre 的反复式，发展为居住；habilis 发展出 able。独立单词 able 与 -able 后缀历史来源不同，不能把所有以 -able 结尾的词都归入本族。debility、debilitate、debile 的深层词源有争议，本页保留为比较旁支，图从 dēbilis“虚弱”开始；不把它们画作 habēre 的确定后代。indubitable、indubitably 来自 dubitāre“怀疑”，不属于这一族。\n\n拉丁拥有、保持词族经法语形成衣着、状态、习惯等意义。\n\n中古英语 due 加名词材料，远源是欠、应有词族。\n\n英语 en- 使成为与 able 能够构形，过去式 l 后读 d。\n\n拉丁 prohibere 的 pro 与 habere 保持词族，英语过去式多一个 /ɪd/ 音节。\n\n英语内部 en 与 able 的组合，现代三单在 l 后读 z。\n\n法语 inhabitant 接拉丁 inhabitans 居住着的分词，现代名词末尾 ant 再加 s。\n\n现代 dis 加 ability，再按 y 改 i 加 es 构复数；不据此给人的整体价值下判断。\n\n英语 en- 使加 able，现代去 e 加完整 ing，计算机用法是启用功能。\n\nex- 向外 + 拉丁 habere 持有 → exhibere，词干 hab- 在复合词中变 hib-；英语 exhibit 加 -ed，/t/ 后读 /ɪd/。\n\n拉丁 exhibere 拿出、展示，经分词 exhibitus、exhibitum 等进入英语。exhibits 既可说展品，也可说表现某种性质的动词第三人称。\n\nexhibition 接拉丁 exhibitio 展示，exhibere 字面拿出来，含 ex- 与 habere 持有。-ion 名词形式，复数 -s。",
     "branches": [
       [
         "合用 → 有能力",
@@ -38,6 +38,50 @@
       [
         "供给生活所需",
         "prebend · provender"
+      ],
+      [
+        "habit → habits：保持的状态与惯常做法",
+        "habit · habits"
+      ],
+      [
+        "duty → duties：应做的事与应缴的税",
+        "duty · duties"
+      ],
+      [
+        "enable → enabled：让某件事成为可能",
+        "able · enable · enabled"
+      ],
+      [
+        "prohibit → prohibited：挡在前面，不让发生",
+        "prohibit · prohibited"
+      ],
+      [
+        "enable → enables：补上条件，让它能做",
+        "able · enable · enables"
+      ],
+      [
+        "inhabit、inhabitant → inhabitants：居住其中者",
+        "inhabit · inhabitant · inhabitants"
+      ],
+      [
+        "ability、disability → disabilities：能力受限的不同情况",
+        "ability · disability · disabilities"
+      ],
+      [
+        "able → enable → enabling：使具备能力、提供条件",
+        "able · enable · enabling"
+      ],
+      [
+        "exhibit → exhibited：拿出来展示，表现出",
+        "exhibited"
+      ],
+      [
+        "ex- 向外 + hab-/hib- 持有 → exhibits",
+        "exhibits"
+      ],
+      [
+        "ex- 向外 + hibit- 持有 → exhibitions",
+        "exhibitions"
       ]
     ],
     "contrasts": "**exhibit / inhibit / prohibit**：拿出来展示；按住、抑制；用规则或力量阻止。\n\n**habitable / inhabitable / uninhabitable / uninhabited**：前两个现代通常都表示能住；第三个不能住；第四个只是没人住。\n\n**due / overdue / undue**：应到的、应有的；已经超过期限；不应有或过分的。\n\n**debt / debit / debtor**：债务；借方记项或扣款；欠债一方。debt 和 debtor 的 b 不发音，debit 的 b 发音。\n\n**ability / disability / debility**：能力；残障或功能限制；虚弱。三者不能靠字形近似混当同一概念。",
@@ -126,7 +170,18 @@
       "rehab",
       "uninhabited",
       "cohabit",
-      "cohabitation"
+      "cohabitation",
+      "habits",
+      "duties",
+      "enabled",
+      "prohibited",
+      "enables",
+      "inhabitants",
+      "disabilities",
+      "enabling",
+      "exhibited",
+      "exhibits",
+      "exhibitions"
     ],
     "exclude": [
       "indubitable",

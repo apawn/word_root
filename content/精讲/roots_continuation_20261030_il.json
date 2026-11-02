@@ -1,0 +1,133 @@
+[
+  {
+    "id": "B2685",
+    "meaning": "砍削、反复削价，与技术探索的现代分支",
+    "core": "HACK：动手弄通是一条线，受雇写手又有别的来路",
+    "image": "hack → hacking / hacker / hackathon / hacky；hacksaw 回到工具，haggle 接旧变体的反复动作。",
+    "intro": "技术探索、临时补丁和入侵都是现代常见义，靠上下文分开。不要为了一个统一故事，把出租车、写手、干咳全硬塞到砍木头里。",
+    "forms": "hacken → hack；hack + -ing/-er/-y/-athon/saw；haggen + 反复动作词尾 → haggle；hackney 截短是另线。\n\nhack 取砍、切削材料，不取现代计算机技巧用法。\n\nhaggle 接旧 haggen 砍的反复动作材料，与 hack 的旧砍切材料相连；较早指笨拙切砍，后有议价义。人物 haggler 较早也有拙工义，不把一切人物用法都当新近价格动词的产物。\n\n砍的 hack 承古英语相关材料；计算机用法来自较晚技术俚语，词史有两路 hack 汇合等分析，不断言入侵就是砍开电脑。现代 hack + -ed，/k/ 后读 /t/。",
+    "branches": [
+      [
+        "技术探索、参与者与方案",
+        "hack · hacking · hacker · hackathon · hacky"
+      ],
+      [
+        "切削工具与价格争论",
+        "hacksaw · haggle"
+      ],
+      [
+        "hacksaw → hacksaws：切削用途的锯",
+        "hack · hacksaw · hacksaws"
+      ],
+      [
+        "haggle：像一点点削价一样讨价还价",
+        "haggle · haggles · haggled · haggling · haggler · hagglers"
+      ],
+      [
+        "hack → hacked：砍、改装与系统入侵",
+        "hacked"
+      ]
+    ],
+    "contrasts": "hacker 不只指入侵者；hackathon 是集中开发活动；haggle 不等于以物易物。",
+    "practice": "The hacker built a prototype at the hackathon, then replaced its hacky parts.\n\n那位技术爱好者在集中开发活动中做出了原型，随后替换了其中东拼西凑的部分。",
+    "words": [
+      "hack",
+      "hacking",
+      "hacker",
+      "hackathon",
+      "hacky",
+      "hacksaw",
+      "haggle",
+      "hacksaws",
+      "haggles",
+      "haggled",
+      "haggling",
+      "haggler",
+      "hagglers",
+      "hacked"
+    ],
+    "exclude": {
+      "hackman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3183",
+    "meaning": "遮住一层，再看是否解除遮盖",
+    "core": "MASK：脸、感受、信息，都可能被挡住",
+    "image": "mask → masked；unmask 把遮盖撤掉。",
+    "intro": "实体面具是最直观的入口，抽象掩饰和技术遮罩各补清作用对象。masked 不等于原信息从世界上消失。",
+    "forms": "masque → mask；接 -ed，前接逆转 un-。\n\n面具义借法语、意大利语材料，更深来源未定。",
+    "branches": [
+      [
+        "遮盖、状态与揭开",
+        "mask · masked · unmask"
+      ],
+      [
+        "mask → masks：遮住脸到掩饰",
+        "mask · masks"
+      ]
+    ],
+    "contrasts": "masked 的 -ed 读 /t/；unmask 中 un- 撤销动作；技术遮罩不等于永久删除。",
+    "practice": "The masked character finally unmasks.\n\n那个戴面具的角色终于摘下面具。",
+    "words": [
+      "mask",
+      "masked",
+      "unmask",
+      "masks"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2236",
+    "meaning": "北欧聚落地名成分，及学校名称转成运动名",
+    "core": "-BY：许多英国地名里的村镇；RUGBY 要经校名理解",
+    "image": "býr → 地名 -by；Rugby → Rugby School → rugby football → rugby。",
+    "intro": "这是历史地名成分，不是现代随手造运动名的通用词尾。Rugby 的整条历史还涉及更早地名拼写，不能只看现在字母切一刀。",
+    "forms": "古诺尔斯 býr 聚落 → 地名成分 -by；学校命名的运动另经专名转普通名词。",
+    "branches": [
+      [
+        "地名、学校与运动",
+        "rugby"
+      ]
+    ],
+    "contrasts": "-by 不等于介词 by 的在旁边；rugby 也不由 rug 地毯 + by 组成。",
+    "practice": "Rugby takes its name from Rugby School.\n\nrugby 这项运动以拉格比学校得名。",
+    "words": [
+      "rugby"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2684",
+    "meaning": "鸭与低头潜下的动作，另分布料和昵称",
+    "core": "DUCK：鸟名和下潜动作相连，帆布不是鸭毛布",
+    "image": "duck → duckling / ducky；ducks 的常规复数放在基础词里理解。",
+    "intro": "让动作帮助记忆：低头避树枝、回避问题。遇见棉帆布、亲昵称呼时再分来源，不把所有同形用法都讲成鸭子的故事。",
+    "forms": "duce、ducken 等 → duck；接 -ling、-y。另线荷兰 doek → 布料 duck。\n\n鸭名通常联系潜下的旧动作词，现代 duck 动词也说低头避开；布料 duck 来自荷兰 doek，另源。\n\nduck 动词从潜入水下扩大为低头闪避，再有避谈问题。鸭子名与潜水动作有古老关系，但不能把所有动词义都说成从现代鸭子名词新造出来。",
+    "branches": [
+      [
+        "鸟、幼鸟与小称",
+        "duck · duckling · ducky"
+      ],
+      [
+        "duck → ducks：鸭；低头躲开",
+        "duck · ducks"
+      ],
+      [
+        "duck → ducked、ducking：身子往下一闪",
+        "duck · ducked · ducking"
+      ]
+    ],
+    "contrasts": "duck a question 是回避；cotton duck 不是鸭毛；ducky 的称呼分支远源不定，just ducky 可能反讽。",
+    "practice": "The child watched the ducklings while holding a rubber ducky.\n\n孩子拿着橡皮玩具鸭，看着那群小鸭。",
+    "words": [
+      "duck",
+      "duckling",
+      "ducky",
+      "ducks",
+      "ducked",
+      "ducking"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "word": "tour",
+    "ipa": "英 /tʊə/、/tɔː/；美 /tʊr/、/tɔr/",
+    "meaning": "参观；游览；巡回活动；带领参观",
+    "sense": "不是只从 A 去 B，而是沿一串地点走一圈、逐处看；音乐家到多地演出，也可以用这个路线画面。",
+    "split": "经法语 tour、tourner 接拉丁转动词族，发展为绕行、游历等。另源法语 tour 塔的同形词不用于解释日常旅游。",
+    "history": [
+      [
+        "拉丁 tornare 转动、车削 → 法语 tourner、tour → 英语 tour",
+        "转动 → 绕行、行程"
+      ],
+      [
+        "现代 tour 词族",
+        "巡游、参观、巡演；轮廓另经法语绕行组合"
+      ]
+    ],
+    "explanation": "a guided tour 导览，a city tour 城市游览，go on tour 巡演；tour the museum 参观博物馆。",
+    "usage": "a guided tour；a walking tour；go on tour；tour a country。",
+    "contrast": "trip 泛指一趟行程，tour 常含串联地点、游览或巡回安排；一次 tour 也可以在同一座建筑中。",
+    "examples": [
+      [
+        "The guide gave us a tour of the old library.",
+        "导览员带我们参观了老图书馆。"
+      ],
+      [
+        "The band is going on tour next month.",
+        "乐队下个月要开始巡演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tour#English"
+    ]
+  },
+  {
+    "word": "tourist",
+    "ipa": "英 /ˈtʊərɪst/；美 /ˈtʊrɪst/",
+    "meaning": "游客；旅游者",
+    "sense": "离开平日生活的地方去游览、观光的人，突出游玩参观的身份。",
+    "split": "tour + -ist，相关活动者后缀，形成旅游者名词。不是取决于是否跟团，独自旅行也可能是 tourist。",
+    "history": [
+      [
+        "拉丁 tornare 转动、车削 → 法语 tourner、tour → 英语 tour",
+        "转动 → 绕行、行程"
+      ],
+      [
+        "现代 tour 词族",
+        "巡游、参观、巡演；轮廓另经法语绕行组合"
+      ],
+      [
+        "tour + -ist → tourist",
+        "游览者 → 游客"
+      ]
+    ],
+    "explanation": "a tourist attraction 旅游景点，a tourist guide 游客指南、导游，tourist information 旅游信息。",
+    "usage": "a tourist attraction；tourist information；a foreign tourist。",
+    "contrast": "tourist 游览者，traveller 旅行者范围更广；不能仅靠一个词判断人的旅行风格高低。",
+    "examples": [
+      [
+        "The old town attracts tourists from many countries.",
+        "老城吸引了许多国家的游客。"
+      ],
+      [
+        "We picked up a map at the tourist information centre.",
+        "我们在游客信息中心拿了一张地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tourist#English"
+    ]
+  },
+  {
+    "word": "tourism",
+    "ipa": "英 /ˈtʊərɪzəm/；美 /ˈtʊrɪzəm/",
+    "meaning": "旅游活动；旅游业",
+    "sense": "把游客出行、住宿、参观等连成一整片活动和产业，而不是只说一个游客。",
+    "split": "tour + -ism，构成旅游活动、产业名词。这里 -ism 不必译主义，主要形成领域或活动名称。",
+    "history": [
+      [
+        "拉丁 tornare 转动、车削 → 法语 tourner、tour → 英语 tour",
+        "转动 → 绕行、行程"
+      ],
+      [
+        "现代 tour 词族",
+        "巡游、参观、巡演；轮廓另经法语绕行组合"
+      ],
+      [
+        "tour + -ism → tourism",
+        "旅游活动及产业"
+      ]
+    ],
+    "explanation": "the tourism industry 旅游业，domestic tourism 国内旅游，sustainable tourism 可持续旅游。",
+    "usage": "the tourism industry；domestic tourism；international tourism。",
+    "contrast": "tourist 人，tourism 活动产业；通常不可数，不说 many tourisms 泛指许多旅游活动。",
+    "examples": [
+      [
+        "Tourism is an important source of income for the island.",
+        "旅游业是岛上的重要收入来源。"
+      ],
+      [
+        "The report examines the growth of domestic tourism.",
+        "报告研究国内旅游的增长。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tourism#English"
+    ]
+  },
+  {
+    "word": "tourer",
+    "ipa": "英 /ˈtʊərə/；美 /ˈtʊrər/",
+    "meaning": "旅行用车辆；旅行者",
+    "sense": "常见英式车辆语境，是适合长距离旅行的一类车；也可按人物理解为巡游、旅行者。",
+    "split": "tour + -er，能形成活动者，也可按旅游用途形成车辆名称，具体如 touring car、touring motorcycle 的简称用法。",
+    "history": [
+      [
+        "拉丁 tornare 转动、车削 → 法语 tourner、tour → 英语 tour",
+        "转动 → 绕行、行程"
+      ],
+      [
+        "现代 tour 词族",
+        "巡游、参观、巡演；轮廓另经法语绕行组合"
+      ],
+      [
+        "tour + -er → tourer",
+        "旅行者；按长途旅行用途称车辆"
+      ]
+    ],
+    "explanation": "a comfortable tourer 舒适旅行车，a touring motorcycle 长途旅行摩托；先看是否在车评中。",
+    "usage": "a comfortable tourer；a long-distance tourer；a classic tourer。",
+    "contrast": "tourer 可能是车辆，不一定游客；tourist 更常指观光游客。",
+    "examples": [
+      [
+        "The motorcycle is a comfortable long-distance tourer.",
+        "这辆摩托车适合舒适长途旅行。"
+      ],
+      [
+        "The museum displays a classic open-top tourer.",
+        "博物馆展出一辆经典敞篷旅行车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tourer#English"
+    ]
+  },
+  {
+    "word": "contour",
+    "ipa": "英 /ˈkɒntʊə/；美 /ˈkɑːntʊr/",
+    "meaning": "轮廓；等高线；顺着形状塑造",
+    "sense": "沿物体外缘走一圈看到的形状；地图把同一高度的点连起来，也形成一条轮廓般的线。",
+    "split": "借法语 contour，接 contourner 绕行、勾勒；可对应 con- + tour 的历史转动组合。不是 con 骗人 + 英语旅游。",
+    "history": [
+      [
+        "拉丁 tornare 转动、车削 → 法语 tourner、tour → 英语 tour",
+        "转动 → 绕行、行程"
+      ],
+      [
+        "现代 tour 词族",
+        "巡游、参观、巡演；轮廓另经法语绕行组合"
+      ],
+      [
+        "法语 contourner → contour → 英语 contour",
+        "绕行外形 → 轮廓、等高线"
+      ]
+    ],
+    "explanation": "the contours of the hills 山丘轮廓，contour lines 等高线；contour makeup 妆容修饰脸部立体轮廓。",
+    "usage": "the contours of；contour lines；follow the contours。",
+    "contrast": "contour 看形状轮廓，tour 看行程；地图 contour line 连同高度，不是任意一条旅行路线。",
+    "examples": [
+      [
+        "The path follows the contours of the hillside.",
+        "小路顺着山坡地形延伸。"
+      ],
+      [
+        "Contour lines on the map show changes in elevation.",
+        "地图上的等高线显示海拔变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contour#English"
+    ]
+  }
+]

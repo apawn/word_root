@@ -1,0 +1,135 @@
+[
+  {
+    "id": "B3257",
+    "meaning": "二分之一；旧义还有一侧",
+    "core": "HALF：整体的一半，也曾表示站在哪一边",
+    "image": "half 一半，halve 动手分半，behalf 则要走回一侧、旁边的旧义才能理解代表。",
+    "intro": "half 接古英语 healf，l 常不发音；halves /v/ 与 halve 的 /v/ 对照。behalf 来自 bī healfe 在某人一侧，不按现代一半义硬拼。",
+    "forms": "half ↔ halve；halfway、halftime 分路程与比赛时段；behalf 单列一侧旧义的历史。\n\n名词 half 复数写 halves，l 常不发音；halves 也可对应动词 halve 的第三人称单数。",
+    "branches": [
+      [
+        "半与减半",
+        "half · halve"
+      ],
+      [
+        "进程、时段和代表关系",
+        "halfway · halftime · behalf"
+      ],
+      [
+        "half → halves：一半、多份一半与减半",
+        "half · halves"
+      ]
+    ],
+    "contrasts": "half 名词、形容词，halve 动词；half asleep 是半睡半醒，不一定测出50%睡着；on behalf of 代表某人，不是代他一半。",
+    "practice": "On behalf of the team, she asked to halve the meeting time.\n\n她代表团队请求把会议时间减半。",
+    "words": [
+      "half",
+      "halve",
+      "halfway",
+      "halftime",
+      "behalf",
+      "halves"
+    ],
+    "exclude": {
+      "half-world": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-solid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-plane": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-bath": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-op": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-baked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scrum-half": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-pant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "halfback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-pounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-brained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "halfling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3186",
+    "meaning": "高兴、满意、乐意；幸运旧背景",
+    "core": "HAPPY：从处境顺遂到心里舒服",
+    "image": "笑着高兴、对结果满意、乐意帮忙，都是常见现代用法；unhappy 则不一定只说伤心。",
+    "intro": "happy 早期有幸运义，与 hap 好运及相关旧形式有关。happily 仍可说幸好；名词和副词接后缀时 y 常变 i。",
+    "forms": "happy → happily、happiness；unhappy → unhappily、unhappiness，正反两组各自相邻。\n\nhappy 与 hap 运气词族相连，较早有幸运义；现代比较形式把 y 变 i，不能把所有派生都硬译成幸运。",
+    "branches": [
+      [
+        "高兴、乐意、幸福感",
+        "happy · happily · happiness"
+      ],
+      [
+        "不开心、不满及其方式、状态",
+        "unhappy · unhappily · unhappiness"
+      ],
+      [
+        "happy → happier → happiest：更开心、最开心",
+        "happy · happier · happiest"
+      ]
+    ],
+    "contrasts": "happy to help 乐意帮；unhappy with 对……不满意；happily 可评论幸运结果，hopefully 常表达但愿。",
+    "practice": "She was happy to help, but unhappy with the lack of planning.\n\n她乐意帮忙，却对缺乏规划不满意。",
+    "words": [
+      "happy",
+      "happily",
+      "happiness",
+      "unhappy",
+      "unhappily",
+      "unhappiness",
+      "happier",
+      "happiest"
+    ],
+    "exclude": {
+      "gun-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dance-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flag-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gate-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trigger-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snap-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2553",
+    "meaning": "买；买账；买回或买断权益",
+    "core": "BUY：付出代价，把东西换过来",
+    "image": "先想付钱换物，再理解用行动换时间、在心里接受说法这两种比喻。",
+    "intro": "buy 接古英语 bycġan。buying、buyer 保留这个动作；buy back、buy out 合写成名词后，分别强调买回与收购权益。",
+    "forms": "buy → buying、buyer；buy back → buyback；buy out → buyout。\n\nbuy 加人物 er，再加 s，可指普通买家或职业采购人员。\n\n古英语 bycgan 传承，现代元音字母加 y 直接加 s，过去式另用 bought。",
+    "branches": [
+      [
+        "购买及参与者",
+        "buy · buying · buyer"
+      ],
+      [
+        "回购与收购",
+        "buyback · buyout"
+      ],
+      [
+        "buyer → buyers：作出购买的一方",
+        "buy · buyer · buyers"
+      ],
+      [
+        "buy → buys：付钱取得；值得买的东西",
+        "buy · buys"
+      ]
+    ],
+    "contrasts": "I don’t buy it 是不信；buy time 是争取时间。buyback 买回，buyout 买下企业或权益。",
+    "practice": "The buyer asked for more time, but the seller didn’t buy his explanation.\n\n买家要求更多时间，但卖家不相信他的解释。",
+    "words": [
+      "buy",
+      "buying",
+      "buyer",
+      "buyback",
+      "buyout",
+      "buyers",
+      "buys"
+    ],
+    "exclude": {
+      "buy-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "must-buy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-buy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aby": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

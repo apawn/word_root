@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B2862",
+    "meaning": "飞行、航班；苍蝇与飞虫复合词",
+    "core": "FLY：飞的动作与飞虫名词，两层分别学",
+    "image": "fly—flew—flown 是动作，a fly 是虫；flight、flyer、flying 接飞行分支，昆虫、鸟、机械词再各自成组。",
+    "intro": "飞行动词与飞虫名词都接古英语相关形式。flight 的逃离义另与 flee 旧词族交叠；动物名里的 fly 是历史泛称，不能替代现代生物分类。",
+    "forms": "fly → flying、flight、flyer；butterfly、dragonfly、mayfly、gadfly 为昆虫相关名；flycatcher、flytrap 看捕捉对象；flywheel、flyweight 是固定专业词。\n\nflew /fluː/ 是过去式，flown /fləʊn/ 或 /floʊn/ 是过去分词。\n\n飞行、逃离词族的较早联系要分别看，现代也有航班与楼梯等用法。\n\n古英语相关飞行、飞虫词；现代 y 改 i 加 es，读音仍 ai。\n\nfirefly 里的辅音字母 l 后 y 改 i 加 -es；整个复合词在最后变化。\n\nbutterfly 承古英语 buttorfleoge，字面材料是 butter 与 fly，但命名动机有不同解释。现代 y 变 i 加 -es；butterflies in the stomach 是紧张时扑腾感的比喻。\n\nflyer 早有飞行者义，后有广泛散发的传单义。现代复数 -s；-er 前保留 y，另有 flier 拼写。",
+    "branches": [
+      [
+        "飞行与航班",
+        "fly · flying · flight · flyer"
+      ],
+      [
+        "飞虫及相关引申",
+        "butterfly · dragonfly · mayfly · gadfly · firefly"
+      ],
+      [
+        "捕虫鸟类和装置",
+        "flycatcher · flytrap"
+      ],
+      [
+        "机械与体重级别",
+        "flywheel · flyweight"
+      ],
+      [
+        "已学口语词",
+        "superfly"
+      ],
+      [
+        "fly、flew、flown 的常用三式",
+        "fly · flew · flown"
+      ],
+      [
+        "flight → flights：飞行、航班与一段楼梯",
+        "flight · flights"
+      ],
+      [
+        "fly → flies：飞行动词三单与飞虫复数",
+        "fly · flies"
+      ],
+      [
+        "fly 的飞虫名称及复合词末尾变复数",
+        "firefly · fireflies"
+      ],
+      [
+        "butter + fly 古复合词 → butterflies",
+        "butterflies"
+      ],
+      [
+        "fly + -er → flyers",
+        "flyers"
+      ]
+    ],
+    "contrasts": "fly 不等于 flee；butterfly 命名原因不确定；mayfly 短成虫期不等于整个生命只有一天；flyer 可是传单。",
+    "practice": "Before the flight, she read a flyer about butterflies.\n\n登机前，她读了一张介绍蝴蝶的宣传单。",
+    "words": [
+      "fly",
+      "flying",
+      "flight",
+      "flyer",
+      "butterfly",
+      "dragonfly",
+      "mayfly",
+      "gadfly",
+      "firefly",
+      "flycatcher",
+      "flytrap",
+      "flywheel",
+      "flyweight",
+      "superfly",
+      "flew",
+      "flown",
+      "flights",
+      "flies",
+      "fireflies",
+      "butterflies",
+      "flyers"
+    ],
+    "exclude": {
+      "fly-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fly-tip": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fly-bitten": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "A1878",
+    "meaning": "写下、记下、成图的结果，不限一种记录媒介",
+    "core": "-GRAM：把信息留下来，成为文字、图像或相应记录",
+    "image": "telegram 看传递文字，electrocardiogram 看心电记录，angiogram 等看影像结果；anagram、monogram 又各有字母组合历史。",
+    "intro": "前半交代记录对象或组织方式，后半常指写成、记成的东西。医学中图像名也能借指检查，不能只靠后缀去禁用真实的日常表达。",
+    "forms": "希腊 gramma 文字、记号，接 graphein 写；-gram 记录、图像等；angio- 血管，electro- 电，cardio- 心。",
+    "branches": [
+      [
+        "文字、字母组合与图形",
+        "telegram · monogram · anagram · pentagram · enneagram · hologram"
+      ],
+      [
+        "身体检查的记录、影像",
+        "electrocardiogram · mammogram · sonogram · angiogram"
+      ]
+    ],
+    "contrasts": "-gram 常偏记录结果，-graphy 常偏记录、成像过程，但具体词有整词历史和日常转指。",
+    "practice": "The exhibit compares a telegram, a sonogram and an angiogram as different kinds of records.\n\n展览把电报、超声图和血管造影图作为不同记录作比较。",
+    "words": [
+      "telegram",
+      "hologram",
+      "monogram",
+      "anagram",
+      "pentagram",
+      "mammogram",
+      "sonogram",
+      "electrocardiogram",
+      "enneagram",
+      "angiogram"
+    ],
+    "exclude": {
+      "e-gram": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "n-gram": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "q-gram": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skip-gram": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3342",
+    "meaning": "缺少毛发、覆盖或修饰的性质，状态名词接着展开",
+    "core": "BALD：表面少了覆盖，头发、花纹、修饰都可借这个画面",
+    "image": "bald → baldness；白头海雕名另看动物白斑的历史用法。",
+    "intro": "头顶、轮胎、陈述给三个常用场景。现代可用少覆盖助记，但最早词源仍有不同解释，不把助记强当唯一历史起点。",
+    "forms": "balled、ballid、bald → bald；-ness 状态；bald eagle 名称里的白头义另辨。",
+    "branches": [
+      [
+        "光秃性质与状态",
+        "bald · baldness"
+      ]
+    ],
+    "contrasts": "bald 秃与 bold 大胆不同；bald eagle 不是没有头部羽毛。",
+    "practice": "The bald man gave a bald account of the facts.\n\n那位秃头男子直白地讲了事实。",
+    "words": [
+      "bald",
+      "baldness"
+    ],
+    "exclude": {
+      "baldy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3737",
+    "meaning": "火光、亮色与标记分支，衣物和状态各接一支",
+    "core": "BLAZE：亮得像火，白斑和路标另有近源",
+    "image": "blaze → blazer、ablaze；blaze a trail 要接标路支，不说烧出道路。",
+    "intro": "火光给强亮形象，鲜艳夹克由显眼命名，ablaze 描述处在灿亮、燃烧状态。马脸白斑与树上路标则保留另一条借入史。",
+    "forms": "blaese → blaze 火光；白斑词借入 → 标记 blaze；-er 显眼物、衣物名；a- 处于 → ablaze。\n\n火焰义接古英语相关形式，白斑、树皮路标义经另一近源借入；blaze a trail 的开路意义不从纵火硬推。\n\nblaze 发光、燃烧 + -er 的名物用法，衣服义有鲜艳划艇夹克背景；blazers 是复数。现代 blazer 也能颜色素净，不由旧命名限制。",
+    "branches": [
+      [
+        "火光、衣物与灿亮状态",
+        "blaze · blazer · ablaze"
+      ],
+      [
+        "blaze 的火光、亮色与开路标记",
+        "blaze · blazes · blazed · blazing"
+      ],
+      [
+        "blaze → blazer → blazers：亮眼到夹克名",
+        "blazers"
+      ]
+    ],
+    "contrasts": "现代 blazer 不限红色；ablaze with lights 不必真着火；blaze a trail 接标路历史。",
+    "practice": "Her bright blazer stood out on the street ablaze with lights.\n\n她的亮色便上衣在灯火通明的街上十分显眼。",
+    "words": [
+      "blaze",
+      "blazer",
+      "ablaze",
+      "blazes",
+      "blazed",
+      "blazing",
+      "blazers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4156",
+    "meaning": "水多到地面湿软，动词再借数量淹没的画面",
+    "core": "SWAMP：地被水浸透，事情也能多到把人淹没",
+    "image": "swamp → swampy、swampland，湿地、性质、地带分别看；be swamped 接忙不过来的比喻。",
+    "intro": "地面饱水是实景，任务超过承受能力是比喻。只要把涌来东西的量和接不住的状态连起来，办公搭配就很容易懂。",
+    "forms": "swamp 最早来源未定；-y 性质；land 地带；swamp 名词转淹没、压倒动词。",
+    "branches": [
+      [
+        "湿地、性质与地带",
+        "swamp · swampy · swampland"
+      ]
+    ],
+    "contrasts": "swampy 地面与 humid 空气不同；swamped with work 不是办公室真进水。",
+    "practice": "They surveyed the swampy swampland before returning to an office swamped with messages.\n\n他们调查湿软的沼泽地，回来却发现办公室消息多得处理不过来。",
+    "words": [
+      "swamp",
+      "swampy",
+      "swampland"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1919",
+    "meaning": "化学饱和母体命名词尾，本组重点看基本烷烃",
+    "core": "-ANE：先认烷烃系列，再用前半区分碳骨架",
+    "image": "methane、ethane、propane、butane、hexane、octane 依碳数连接；前四个词干有历史命名来源。",
+    "intro": "把碳骨架想成一节节接起来，直链基本序列可按 1、2、3、4、6、8 碳比较。开链烷烃的通式 CₙH₂ₙ₊₂ 有适用范围，环状等另看名称，不随意套公式。",
+    "forms": "-ane 化学命名词尾；meth- 1、eth- 2、prop- 3、but- 4、hex- 6、oct- 8；前四个词干并非都直接来自普通数字词。",
+    "branches": [
+      [
+        "基本碳数序列",
+        "methane · ethane · propane · butane · hexane · octane"
+      ]
+    ],
+    "contrasts": "urbane、germane 的结尾不是此处烷烃后缀；octane rating 是抗爆性指标，不是辛烷体积分数。",
+    "practice": "The chart places methane, ethane, propane and butane in order of carbon count.\n\n图表按碳原子数排列甲烷、乙烷、丙烷和丁烷。",
+    "words": [
+      "methane",
+      "ethane",
+      "propane",
+      "butane",
+      "hexane",
+      "octane"
+    ],
+    "exclude": {
+      "urbane": "urbane 来自城市、文雅相关拉丁法语词族，结尾不属于烷烃命名后缀。",
+      "germane": "germane 来自同族、密切相关的拉丁法语材料，结尾不属于烷烃命名后缀。"
+    }
+  },
+  {
+    "id": "B3309",
+    "meaning": "押注不确定结果，动作、冒险事与人物名称相连",
+    "core": "GAMBLE：把投入押到未定结果上，可能赢也可能输",
+    "image": "gamble → gambler，基础动作与参与者分开。",
+    "intro": "字面是下注，比喻则是带不确定性的决定。评价要看投入、后果与考虑程度，词本身不能替你算成败。",
+    "forms": "gamble 的 game 同族历史见基础词条；去 e + -er → gambler。\n\ngamble 接 game 旧玩乐词族的相应动词，具体近路有分析差别；b 的进入可能受 gambol 影响，但两者来源不同。现代加词尾认形，不用 game 加 -ble 硬拼。",
+    "branches": [
+      [
+        "下注、冒险与参与者",
+        "gamble · gambler"
+      ],
+      [
+        "gamble：由玩乐材料到押上价值冒险",
+        "gamble · gambles · gambled · gambling · gambler · gamblers"
+      ]
+    ],
+    "contrasts": "a gamble 可是一次风险决定；gambler 是人物，语气可按场景褒贬。",
+    "practice": "The gambler admitted that the whole plan was a gamble.\n\n那位爱冒险的人承认，整个计划就是一场押注。",
+    "words": [
+      "gamble",
+      "gambler",
+      "gambles",
+      "gambled",
+      "gambling",
+      "gamblers"
+    ],
+    "exclude": {
+      "gamble-play": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2633",
+    "meaning": "古老昆虫名，蚁巢与食性动物按用途组合",
+    "core": "ANT：先看蚂蚁，再看巢在哪里、谁以它为食",
+    "image": "ant → anthill、anteater，动物、巢丘、食性名称分开。",
+    "intro": "透明复合词不一定告诉全部生物分类。食蚁习性可以多次在不同动物中出现，完整俗名需要结合具体动物身份理解。",
+    "forms": "aemete 等 → amete、amte、ante 等 → ant；hill 丘，eater 吃者。\n\nant 由中古英语 ampte 等缩短，远接古英语 æmette，传统词源分析联系咬、切下。现代 -s，末尾 /nts/，完整动物名 ant 直接带复数词尾。",
+    "branches": [
+      [
+        "蚂蚁、蚁丘与食蚁动物",
+        "ant · anthill · anteater"
+      ],
+      [
+        "ant 蚂蚁 → ants",
+        "ants"
+      ]
+    ],
+    "contrasts": "anteater 不是蚂蚁自己吃东西的动作名；它按吃蚂蚁的动物角色命名。",
+    "practice": "The anteater searched near the anthill as ants moved along the ground.\n\n蚂蚁在地面移动，食蚁兽在蚁丘附近寻找食物。",
+    "words": [
+      "ant",
+      "anthill",
+      "anteater",
+      "ants"
+    ],
+    "exclude": {
+      "ant-bed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ant-hill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3868",
+    "meaning": "没有希望与不擅长，方式、状态名词依次展开",
+    "core": "HOPELESS：看不到出路，也可说某方面怎么都做不好",
+    "image": "hopeless → hopelessly、hopelessness；具体搭配区分困境、技能评价与程度夸张。",
+    "intro": "hope 是希望，-less 否定这份希望。hopeless at maths 常是说数学差，不必按人生毫无希望理解；hopelessly lost 则常夸张说彻底迷路。",
+    "forms": "hope + -less → hopeless，保留 e；-ly 方式、程度；-ness 状态。",
+    "branches": [
+      [
+        "无望性质、方式与状态",
+        "hopeless · hopelessly · hopelessness"
+      ]
+    ],
+    "contrasts": "hopeless at 某技能差不等于整个人没有价值；hopelessness 是感到或处于无望的状态名词。",
+    "practice": "He was hopeless at reading maps and became hopelessly lost.\n\n他很不擅长看地图，结果彻底迷路了。",
+    "words": [
+      "hopeless",
+      "hopelessly",
+      "hopelessness"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "B2854",
+    "meaning": "吃；吃过、食客、餐馆与过量",
+    "core": "EAT：把食物吃进去，也借来表示消耗",
+    "image": "先把 eat—ate—eaten 记牢，再看 -er 吃的人、-ery 吃的场所，以及 over- 吃过量。",
+    "intro": "eat 是古英语继承词，不规则形式有历史基础。英语日常短语 eat out、eat up 也很实用，不必把短语逐一当词根新造词。",
+    "forms": "eat → eaten、eater、eatery；over- + eat → overeat，过去式 overate，分词 overeaten。\n\nate 是一般过去，eaten 是过去分词；ate 在英式中可听到 /eɪt/、/et/ 等常见读音。\n\neat 继承古英语 etan，eating 直接加 -ing；过去 ate、分词 eaten 已另讲。\n\n焦虑动词承古英语 fretan 吞吃，与 eat 的吃材料同族，磨耗义也可能受法语摩擦词影响。吉他品、交织装饰纹样是另源 fret，列同形说明时不把它们接进吞吃历史。\n\neat 接古英语 etan，远处同族为吃的古老词根；eats 是现在时第三人称单数，也有口语食物名词用法。",
+    "branches": [
+      [
+        "基本动作与分词",
+        "eat · eaten"
+      ],
+      [
+        "执行者与场所",
+        "eater · eatery"
+      ],
+      [
+        "过量",
+        "overeat"
+      ],
+      [
+        "eat、ate、eaten 的常用三式",
+        "eat · ate · eaten"
+      ],
+      [
+        "eat → eating：进食、耗用与用餐用途",
+        "eat · eating"
+      ],
+      [
+        "fret：吃尽、磨耗到焦虑；同形品、纹样另源",
+        "eat · fret · frets · fretted · fretting · fretful · fretfully · fretfulness"
+      ],
+      [
+        "eat → eats：吃，也有消耗时间的比喻",
+        "eat · eats"
+      ]
+    ],
+    "contrasts": "eater 人或动物，eatery 地方；I have eaten 不说 I have ate。",
+    "practice": "The picky eater finally found an eatery he liked.\n\n那个挑食的人终于找到一家自己喜欢的餐馆。",
+    "words": [
+      "eat",
+      "eaten",
+      "eater",
+      "eatery",
+      "overeat",
+      "ate",
+      "eating",
+      "fret",
+      "frets",
+      "fretted",
+      "fretting",
+      "fretful",
+      "fretfully",
+      "fretfulness",
+      "eats"
+    ],
+    "exclude": {
+      "eat-all-you-can": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleep-eat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3397",
+    "meaning": "公平、合理、尚可；另源的展会",
+    "core": "FAIR：先看搭配，再判断是哪条意思",
+    "image": "公平、合理与尚可是形容词分支；书展、游乐集市接另一条历史来源，别把所有 fair 都译公平。",
+    "intro": "形容词接古英语美、合宜词族，集市名词经法语接拉丁节庆。fairground、funfair 走集市游乐分支，fairway 接其他场地通路用法，已有精讲一同参看。",
+    "forms": "fair → unfair、fairness、fairly；集市分支 → fairground、funfair；共享 fairway。",
+    "branches": [
+      [
+        "核心与后缀、否定",
+        "fair · unfair · fairness · fairly"
+      ],
+      [
+        "相关复合词",
+        "fairway · fairground · funfair"
+      ]
+    ],
+    "contrasts": "fairly easy 程度相当，不是公平地容易；fair 与 fare 同音不同源；book fair 是展会。",
+    "practice": "In fairness to the team, the task was fairly difficult.\n\n公允地看，这项任务对团队来说确实比较难。",
+    "words": [
+      "fair",
+      "unfair",
+      "fairness",
+      "fairly",
+      "fairway",
+      "fairground",
+      "funfair"
+    ],
+    "exclude": {
+      "fair-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

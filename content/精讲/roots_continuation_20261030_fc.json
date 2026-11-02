@@ -1,0 +1,137 @@
+[
+  {
+    "id": "B2521",
+    "meaning": "分辨得出、理解得清，到实践做得好",
+    "core": "SKILL：懂得怎么区分，才能知道怎么做好",
+    "image": "skill → skilled、skillful；shilling 作为旧币名和不确定远源对照，不能按现代能力加 -ing。",
+    "intro": "skillful/skilful 为常见英美拼法差异；skilled 人有技能，skilled work 工作需要技能。",
+    "forms": "skil、skilja → skill；skill 相关旧动词、名词 + -ed → skilled；skill + -ful；shilling 另经 scilling 传下，远源有争议。\n\n古诺尔斯语辨别、理解的词族发展出实践能力。",
+    "branches": [
+      [
+        "技能、熟练与技巧",
+        "skill · skilled · skillful"
+      ],
+      [
+        "旧币名与远源对照",
+        "shilling"
+      ],
+      [
+        "skill → skills：能分辨，再能熟练做好",
+        "skill · skills"
+      ]
+    ],
+    "contrasts": "skill/ability 范围；skilled/skillful 侧重但可重叠；skilful 拼写；shilling 不作现代 skill 的进行时。",
+    "practice": "The skilled artist showed skillful use of colour.\n\n熟练的艺术家展现了娴熟的色彩运用。",
+    "words": [
+      "skill",
+      "skilled",
+      "skillful",
+      "shilling",
+      "skills"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3484",
+    "meaning": "拉、抽、画出的旧动作，按对象形成不同现代义",
+    "core": "DRAFT：画出初稿、抽取款项、引来气流，各有对象",
+    "image": "draft → draftsman、drafter；drafty、updraft、downdraft 气流分支；overdraft 支取分支。",
+    "intro": "draft/draught 同源不同地区拼写习惯，不把草稿、冷风、支取凭证都译成一个草稿；同源动作可分出多种结果。",
+    "forms": "拉取旧词族 → draught、draght → draft；draft + -s-man/-er/-y；up-/down-/over- + draft。\n\ndraft 与 draught 接旧拉、拖材料，现代过去尾 t 后读 id。\n\n草稿沿拉出、写出材料的发展；redraft 直接用已经固定的起草义构词，不逐字拉动文件。",
+    "branches": [
+      [
+        "草稿与起草制图人物",
+        "draft · draftsman · drafter"
+      ],
+      [
+        "漏风与上下气流",
+        "drafty · updraft · downdraft"
+      ],
+      [
+        "支取超过余额",
+        "overdraft"
+      ],
+      [
+        "draft → drafted：写出初稿、草拟",
+        "draft · drafted"
+      ],
+      [
+        "draft 的初稿支：起草、重新起草",
+        "draft · drafts · drafting · redraft · redrafts · redrafted · redrafting"
+      ]
+    ],
+    "contrasts": "drafty/windy 室内漏风与风大；updraft/downdraft 方向；overdraft 非多存的钱；draft 初稿非定稿。",
+    "practice": "The drafter worked on the draft in a drafty room.\n\n起草者在一间漏风的房间里修改草稿。",
+    "words": [
+      "draft",
+      "draftsman",
+      "drafter",
+      "drafty",
+      "updraft",
+      "downdraft",
+      "overdraft",
+      "drafted",
+      "drafts",
+      "drafting",
+      "redraft",
+      "redrafts",
+      "redrafted",
+      "redrafting"
+    ],
+    "exclude": {
+      "drafthouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3943",
+    "meaning": "呈现方式与另一路描绘、代表的拉丁名词",
+    "core": "PRESENTATION：把东西呈到别人面前；旁支 representation 按独立历史理解",
+    "image": "presentation → presentational；representation 接拉丁 repraesentātiō，经法语到英语，常用义非重新做一次展示。",
+    "intro": "展示讲法、图形表征、群体代表是不同范围；现代可拆的词形不代替实际借词先后。",
+    "forms": "praesentātiō 等 → presentation；presentation + -al；repraesentātiō 经法语 → representation，现代对应 represent + -ation。",
+    "branches": [
+      [
+        "展示与展示方式",
+        "presentation · presentational"
+      ],
+      [
+        "描绘、表征及代表",
+        "representation"
+      ]
+    ],
+    "contrasts": "presentational/representational 呈现与表征性质；representation/presentation 常用义不同；re- 此处不强定再次。",
+    "practice": "The presentation used a visual representation of the network.\n\n展示使用了一张网络图来表示结构。",
+    "words": [
+      "presentation",
+      "presentational",
+      "representation"
+    ],
+    "exclude": {
+      "re-presentation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-presentation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3419",
+    "meaning": "尊称与穿衣动词分来源",
+    "core": "DON：名词尊称接 dominus，穿上是 do on 缩合",
+    "image": "don 的名词、动词两支用法，保留在一个基础词里辨清。",
+    "intro": "大学学者、黑帮首领、男性尊称为名词背景；don a coat 的穿衣动作不从掌权者派生。",
+    "forms": "dominus 经西班牙、意大利等 → don 名词；英语 do on → don 动词。",
+    "branches": [
+      [
+        "名词尊称与另源穿衣动词",
+        "don"
+      ]
+    ],
+    "contrasts": "don/doff 穿上脱下；donned、donning 双写 n；donner 的南非用法另接 thunder 同族材料，不视为同族。",
+    "practice": "The don donned his coat before the lecture.\n\n那位大学教师在讲课前穿上了外套。",
+    "words": [
+      "don"
+    ],
+    "exclude": {
+      "donny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "donner": "常见于特定地区的动词来源接 Afrikaans donder、Dutch donder 雷，与穿衣 don 分源；极少见 don+-er 人物义暂略。"
+    }
+  }
+]

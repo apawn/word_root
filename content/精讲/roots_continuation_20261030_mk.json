@@ -1,0 +1,203 @@
+[
+  {
+    "id": "B3091",
+    "meaning": "黄铜的材料、声音与行为比喻，火盆名另辨",
+    "core": "BRASS：金属色泽、响亮声音和硬脸面的联想分开看",
+    "image": "brass → brazen、brassy；brazier 的火盆义接另一煤火词。",
+    "intro": "同一材料能提供不同感官和态度画面：亮色、铜管声、厚脸皮。火盆的词源则看余烬，不能把外观金属当作全部历史依据。",
+    "forms": "bræs → brass；旧 -en 材料形容词 → brazen；-y → brassy；brazier 火盆借法语煤火器具名。",
+    "branches": [
+      [
+        "材料与相关性质",
+        "brass · brazen · brassy"
+      ],
+      [
+        "同形工匠义及另源火盆",
+        "brazier"
+      ]
+    ],
+    "contrasts": "brazen 常批评厚颜；brassy 可中性声音描述；火盆名不等于黄铜制品的通称。",
+    "practice": "A brassy fanfare announced the arrival of the top brass.\n\n响亮的铜管乐宣告高层人物到来。",
+    "words": [
+      "brass",
+      "brazen",
+      "brassy",
+      "brazier"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4433",
+    "meaning": "与用途、场合相配的性质及评价方式",
+    "core": "FITTING：这个安排放在这里，正好合适",
+    "image": "fitting → fittingly。",
+    "intro": "fitting 有合适的形容词义，也有配件、试穿等名词义；fittingly 副词主要从恰当这一面展开。",
+    "forms": "fit + -ing → fitting；-ly → fittingly。",
+    "branches": [
+      [
+        "合适与恰当的方式",
+        "fitting · fittingly"
+      ]
+    ],
+    "contrasts": "fittingly 不是配件的副词形式；句首常评价整个安排很应景。",
+    "practice": "The fitting tribute was delivered, fittingly, by her oldest friend.\n\n这份恰当的致敬由她最老的朋友表达，也十分合适。",
+    "words": [
+      "fitting",
+      "fittingly"
+    ],
+    "exclude": {
+      "self-fitting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3593",
+    "meaning": "鲨鱼名称与掠食、盘剥的现代人物联想",
+    "core": "SHARK：现代可把盘剥者想成追逐猎物的人",
+    "image": "shark 的动物义和人物义连着记，历史方向保留疑问。",
+    "intro": "现代画面很清楚，词源却没有同样确定。先掌握动物和常见人物复合，不为冷门玩笑、作品名扩张词表。",
+    "forms": "鱼名来源未定；旧恶棍人物词常联系德语 Schurke，两路关系有争论。\n\nshark 更远来源不定，鱼名与骗子、掠夺者词之间的先后关系也有争论；现代可用鲨鱼掠食的画面理解逐利者比喻，不能把画面当确定的最早时间线。",
+    "branches": [
+      [
+        "动物与人物评价",
+        "shark"
+      ],
+      [
+        "shark → sharks：鲨鱼与逐利者的比喻",
+        "shark · sharks"
+      ]
+    ],
+    "contrasts": "loan shark 含盘剥评价；现代比喻不能当成全部生物学事实。",
+    "practice": "The article contrasts the animal shark with the metaphor in loan shark.\n\n文章区分了鲨鱼本身与 loan shark 里的比喻。",
+    "words": [
+      "shark",
+      "sharks"
+    ],
+    "exclude": {
+      "shark-jumping": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sharknado": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shark-finned": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sharky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3170",
+    "meaning": "猛丢、倾卸与成堆废物，凹坑近形词另辨",
+    "core": "DUMP：一股脑倒下、扔开；dimple 则看小坑词史",
+    "image": "dump → dumper；dumpy、dimple 的来源分别讲。",
+    "intro": "现代倾倒画面可以解释垃圾场、自卸车、关系中的甩掉。dimple 的小凹坑与 dumpy 的矮胖义，需要各自保留旧词来源和不确定性。",
+    "forms": "dumpen、dompen → dump；-er 人物、设备；dimple 联系旧小坑指小形式；dumpy 矮胖义未定。\n\n中古英语相关形式，远源不定；不是英语 dum 加 p。\n\ndump 可能借北欧语突然落下、抛落等材料，远源不定。现代加 -ing 不双写 p，倾倒、抛弃、倾销等具体义按对象讲。",
+    "branches": [
+      [
+        "倾倒、场地与设备",
+        "dump · dumper"
+      ],
+      [
+        "形状与近形词",
+        "dumpy · dimple"
+      ],
+      [
+        "dump → dumped：重重放下到倾倒、丢弃",
+        "dump · dumped"
+      ],
+      [
+        "dump → dumping：一下倒下、抛下",
+        "dumping"
+      ]
+    ],
+    "contrasts": "dimple 凹陷与 pimple 凸起分清；dumpy 不能机械全从倒垃圾推演。",
+    "practice": "The dumper unloaded soil beside the rubbish dump.\n\n自卸搬运车在垃圾场旁卸下泥土。",
+    "words": [
+      "dump",
+      "dumper",
+      "dumpy",
+      "dimple",
+      "dumped",
+      "dumping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2530",
+    "meaning": "一点的牌变成王牌形象，优秀义进入人物和动词",
+    "core": "ACE：从一号牌到出色、王牌，规则不同地位也不同",
+    "image": "ace 的牌名、高手、发球得分与考试动词；无性恋简称另源。",
+    "intro": "从数字一点走到纸牌，再从高位牌走到优秀，并不是一直表示最高。新的 asexual 截短义按现代身份语境辨认。",
+    "forms": "拉丁 as 一、单位 → 法语 as → ace；牌与体育、口语扩展；另有 asexual → ace。",
+    "branches": [
+      [
+        "牌、高手和出色表现",
+        "ace"
+      ]
+    ],
+    "contrasts": "A 牌不在所有规则最大；ace a test 泛说考得很好。",
+    "practice": "The ace pilot also aced the training test.\n\n那位王牌飞行员在训练考试中也表现出色。",
+    "words": [
+      "ace"
+    ],
+    "exclude": {
+      "ace-aro": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aro-ace": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3539",
+    "meaning": "精细、柔软到易损，处理方式随场景变轻",
+    "core": "DELICATE：东西精细，动作和措辞都不能太粗",
+    "image": "delicate → delicately、delicacy。",
+    "intro": "玻璃、味道、家庭问题各有不同脆弱处。delicacy 把性质变名词，也可命名单独一道精美吃食。",
+    "forms": "拉丁 delicatus 经中古英语 → delicate；-ly 方式，-acy 性质及相关事物。\n\ndeli 缩略 delicatessen；长词经德语美食的复数形式、法语精美词线接拉丁 delicatus，与 delicate 远同族。英语店铺名后来按一个店来数，不受德语原复数限制。",
+    "branches": [
+      [
+        "性质、处理方式与珍馐",
+        "delicate · delicately · delicacy"
+      ],
+      [
+        "delicatessen → deli：精美食物到熟食店",
+        "deli"
+      ]
+    ],
+    "contrasts": "delicate question 是敏感问题；a delicacy 可数指美食，性质义常不可数。",
+    "practice": "She handled the delicate question delicately.\n\n她谨慎处理了那个敏感问题。",
+    "words": [
+      "delicate",
+      "delicately",
+      "delicacy",
+      "deli"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4404",
+    "meaning": "侧身闪开实体，进一步回避问题和责任",
+    "core": "DODGE：不正面碰上，身子或话题往旁边挪",
+    "image": "dodge → dodger、dodgy；dodgeball 是运动复合。",
+    "intro": "实体球、棘手问题都能被闪开。人物看 -er，可靠性评价看 -y，运动名字则让球回到最直观的场景。",
+    "forms": "旧方言移动词 → dodge，确切来源未定；去末尾 e 接 -er、-y；ball 球。\n\ndodge 旧义在言语、行动上左右转移，较远来源不明，可能联系方言 dodd；字面闪避与抽象回避都很早，不硬排成先身体后所有比喻。去 e 后接 -ed、-ing，-ed 在 /dʒ/ 后读 /d/。",
+    "branches": [
+      [
+        "闪躲、人物与不可靠性质",
+        "dodge · dodger · dodgy"
+      ],
+      [
+        "运动名称",
+        "dodgeball"
+      ],
+      [
+        "dodge → dodges、dodged、dodging：闪开与绕开",
+        "dodge · dodges · dodged · dodging"
+      ]
+    ],
+    "contrasts": "dodgy 不都说不诚实的人；dodgeball 玩法可以包含接球。",
+    "practice": "The dodger tried to dodge another awkward question.\n\n那个机灵耍滑的人又试图回避一个尴尬问题。",
+    "words": [
+      "dodge",
+      "dodger",
+      "dodgy",
+      "dodgeball",
+      "dodges",
+      "dodged",
+      "dodging"
+    ],
+    "exclude": {}
+  }
+]

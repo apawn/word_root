@@ -1,0 +1,1092 @@
+[
+  {
+    "word": "logged",
+    "ipa": "英 /lɒɡd/；美 /lɔːɡd/，也读 /lɑːɡd/",
+    "meaning": "记录了；登录了；采伐了〔过去形式〕",
+    "sense": "把发生的事按顺序留下一笔，是 logged；电脑显示 logged in，是已经进入了账户会话。换到林业场景，它又可能是在说采伐树木。",
+    "split": "log 双写 g，加完整 -ed → logged，/ɡ/ 后读 /d/。原木名 log 远源未定；航海曾用木片与绳测速，相关记录叫 logbook，后来 log 扩展成各类日志、记录。",
+    "history": [
+      [
+        "木片测速 → logbook 航海记录 → log 记录",
+        "由具体航海工具关联到记事簿名称"
+      ],
+      [
+        "记录动词、电脑登录及采伐动词 + -ed → logged",
+        "几种常用义在各自场景里辨认"
+      ]
+    ],
+    "explanation": "logged the results 是记录了结果；logged in 是登录了；logged out 是退出了；a logged area 可说经过采伐的地区。",
+    "usage": "logged the results；logged in；logged out。",
+    "contrast": "logged in 描述登录动作或已登录状态，单独 logged a message 通常是记录消息。log 的原木义和日志义有关联，但远源本身还没有定论。",
+    "examples": [
+      [
+        "The program logged every change to the file.",
+        "程序记录了文件的每一次改动。"
+      ],
+      [
+        "She logged in and opened the course page.",
+        "她登录后打开了课程页面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/logged#English",
+      "https://www.etymonline.com/word/log"
+    ]
+  },
+  {
+    "word": "loops",
+    "ipa": "英、美 /luːps/",
+    "meaning": "环圈；循环〔复数〕；绕成环、循环播放〔第三人称单数〕",
+    "sense": "一根绳弯过去又接回附近，形成 loop；一段指令走到末尾又回去运行，也像绕了一圈。loops 就把这些圈、循环数出来。",
+    "split": "loop + -s → loops，/p/ 后读 /s/。中古英语较早指布、绳等的折回、圈，可能有凯尔特语等来源，远源未定；后来用于反复运行的程序、音视频片段。",
+    "history": [
+      [
+        "布、绳折回形成的圈 → loop",
+        "空间上弯回的形状"
+      ],
+      [
+        "环形路径 → 重复运行、播放 → loops",
+        "现代名词复数和动词第三人称同形"
+      ]
+    ],
+    "explanation": "loops of rope 是一圈圈绳；nested loops 是嵌套循环；loops a video 是让视频循环播放。",
+    "usage": "loops of rope；nested loops；loops a video。",
+    "contrast": "程序里的 loops 强调某些步骤重复执行，实际运行次数由程序条件决定。音乐里的 loops 是可反复播放的短片段。",
+    "examples": [
+      [
+        "The rope lay in loose loops on the floor.",
+        "绳子松松地盘成几圈，放在地上。"
+      ],
+      [
+        "The program uses two loops to process the list.",
+        "这个程序用两个循环处理列表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loops#English",
+      "https://www.etymonline.com/word/loop"
+    ]
+  },
+  {
+    "word": "morals",
+    "ipa": "英 /ˈmɒrəlz/；美 /ˈmɔːrəlz/",
+    "meaning": "道德观、行为准则；故事的寓意〔复数〕",
+    "sense": "遇到一件事，你觉得什么能做、什么不该做，这套判断就是 morals。故事最后想让人学会的道理，也可以叫 a moral。",
+    "split": "moral 作名词，加 -s → morals。经法语、拉丁 moralis 有关行为习惯的，来自 mos，变化词干 mor-；原先的风俗、行为进一步关联到善恶准则。",
+    "history": [
+      [
+        "拉丁 mos、moris 风俗、行为 → moralis → moral",
+        "由习俗、行为谈到合宜的行为准则"
+      ],
+      [
+        "名词道德准则与故事教训 → morals",
+        "现代常用复数说一个人或社会的道德观"
+      ]
+    ],
+    "explanation": "personal morals 是个人道德观；a person with strong morals 是有坚定道德准则的人；the morals of the stories 是这些故事的寓意。",
+    "usage": "personal morals；strong morals；the morals of the stories。",
+    "contrast": "morals 是道德观，morale 是士气、精神状态。一个团队 morale 很高，是大家有劲头；它并不直接评价团队的道德。",
+    "examples": [
+      [
+        "The novel asks how people keep their morals under pressure.",
+        "小说探讨人在压力下怎样守住自己的道德准则。"
+      ],
+      [
+        "The children discussed the morals of the two stories.",
+        "孩子们讨论了那两个故事的寓意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/morals#English",
+      "https://www.etymonline.com/word/moral"
+    ]
+  },
+  {
+    "word": "mutations",
+    "ipa": "英、美 /mjuːˈteɪʃənz/",
+    "meaning": "突变；变异；改变〔复数〕",
+    "sense": "把遗传信息想成一串很长的文字，序列里出现变化，就可以帮助理解 mutations。这里是记忆比喻，实际发生变化的是遗传物质的序列。",
+    "split": "mutation + -s → mutations。经法语、拉丁 mutatio 改变，接 mutare 改变及 -tion 动作名词材料。英语 mutation 比 mutate 更早，不能把今天方便的拆法当成出现顺序。",
+    "history": [
+      [
+        "拉丁 mutare 改变 → mutatio → mutation",
+        "早期英语泛指改变、变化"
+      ],
+      [
+        "生物学的序列改变义 → mutations",
+        "现代复数可数不同突变或突变事件"
+      ]
+    ],
+    "explanation": "genetic mutations 是基因突变；mutations in a gene 是某个基因中的突变；identify mutations 是识别突变。",
+    "usage": "genetic mutations；mutations in a gene；identify mutations。",
+    "contrast": "mutations 说发生的改变，effects 说改变带来的影响。两者要分开：有些突变影响明显，有些并没有明显影响；也并非所有突变都能传给后代。",
+    "examples": [
+      [
+        "The diagram marks three mutations in the DNA sequence.",
+        "图中标出了这段 DNA 序列的三处突变。"
+      ],
+      [
+        "The chapter explains why different mutations can have different effects.",
+        "这一章解释了为什么不同突变可能产生不同影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mutations#English",
+      "https://www.etymonline.com/word/mutation",
+      "https://www.genome.gov/genetics-glossary/Mutation"
+    ]
+  },
+  {
+    "word": "nicer",
+    "ipa": "英 /ˈnaɪsə/；美 /ˈnaɪsɚ/",
+    "meaning": "更好的；更令人愉快的；更友善的",
+    "sense": "住起来更舒服、相处起来更友善，都能用 nicer。它是一个温和的好评，具体好在哪里，要靠后面的对象补出来。",
+    "split": "nice 去末尾 e，加完整比较级 -er → nicer。nice 经法语接拉丁 nescius 不知道，历史上经历愚昧、挑剔、精细、合意等不同用法，才发展出今天常见的好、友善。",
+    "history": [
+      [
+        "拉丁 nescius → 法语 nice → 英语 nice",
+        "早期义与现代好评相差很远，意义多次转移"
+      ],
+      [
+        "精细、合意到令人愉快、友善 → nicer",
+        "现代比较级沿用现今常用义"
+      ]
+    ],
+    "explanation": "a nicer room 是更舒适、称心的房间；nicer to someone 是对某人更友善；nicer weather 是更好的天气。",
+    "usage": "a nicer room；nicer to someone；much nicer。",
+    "contrast": "nicer 只给宽泛的好评。说房间时可进一步用 brighter 更亮、quieter 更安静，说人时用 kinder 更体贴，会让意思更具体。",
+    "examples": [
+      [
+        "The room looks much nicer with the new curtains.",
+        "换上新窗帘后，房间好看多了。"
+      ],
+      [
+        "He has been nicer to his classmates lately.",
+        "他最近对同学更友善了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicer#English",
+      "https://www.etymonline.com/word/nice"
+    ]
+  },
+  {
+    "word": "offences",
+    "ipa": "英 /əˈfensɪz/；美 /əˈfensɪz/",
+    "meaning": "违法、违规行为；冒犯行为〔复数〕",
+    "sense": "做了一件越过规则界线的事，是 an offence；一件件数出来，就是 offences。界线可以是法律、比赛规则，也可以是让人觉得受到冒犯的行为准则。",
+    "split": "offence 保留末尾 e，加 -s → offences；/s/ 后这一复数读 /ɪz/。英式 offence 对应美式 offense。经法语、拉丁 offensa，接 offendere 击向、触犯，含 ob- 对着与 fend- 击。",
+    "history": [
+      [
+        "拉丁 offendere 击向、触犯 → offensa → offence",
+        "具体碰撞、伤害扩展到违犯、冒犯"
+      ],
+      [
+        "可数的违法、违规或冒犯事件 → offences",
+        "现代复数根据所在规则、场合确定含义"
+      ]
+    ],
+    "explanation": "minor offences 是轻微违法、违规行为；criminal offences 是刑事犯罪行为；repeated offences 是反复发生的违规。",
+    "usage": "minor offences；criminal offences；repeated offences。",
+    "contrast": "offence 的冒犯感常作不可数，如 take offence 感到被冒犯。offences 作复数时，通常在数某一次次行为；是否属于犯罪要看实际语境。",
+    "examples": [
+      [
+        "The novel mentions several offences committed by the character.",
+        "小说提到了这个人物犯下的几项罪行。"
+      ],
+      [
+        "The referee explained which offences had led to the penalties.",
+        "裁判解释了哪些违规行为导致了处罚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offences#English",
+      "https://www.etymonline.com/word/offence"
+    ]
+  },
+  {
+    "word": "receptors",
+    "ipa": "英 /rɪˈseptəz/；美 /rɪˈseptɚz/",
+    "meaning": "受体〔复数〕",
+    "sense": "细胞里或表面有些分子，能和特定物质结合并引起细胞反应，这些分子就是 receptors。可把它们想成能识别特定来客的接收位置。",
+    "split": "receptor + -s → receptors。经法语、拉丁 receptor 接纳者，来自 recipere 接收；历史构词可认 re- + cept- 取、接纳 + -or。现代生物学用途是后来发展的专门意义。",
+    "history": [
+      [
+        "拉丁 recipere 接纳 → receptor 接纳者 → 英语 receptor",
+        "早期英语曾说接纳、藏匿他人的人"
+      ],
+      [
+        "接收概念用于细胞层面的分子作用 → receptors",
+        "现代常说能结合特定物质并引起作用的受体"
+      ]
+    ],
+    "explanation": "cell receptors 是细胞受体；receptors on the cell surface 是细胞表面受体；bind to receptors 是与受体结合。",
+    "usage": "cell receptors；bind to receptors；receptors on the cell surface。",
+    "contrast": "接收位置是帮助理解的比喻。受体有的在细胞表面，有的在细胞内部；receptors 与普通 receiver 接收设备的使用范围不同。",
+    "examples": [
+      [
+        "The diagram shows receptors on the surface of a cell.",
+        "图中展示了细胞表面的受体。"
+      ],
+      [
+        "The textbook explains how molecules bind to specific receptors.",
+        "教材解释了分子怎样与特定受体结合。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/receptors#English",
+      "https://www.etymonline.com/word/receptor",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/receptor"
+    ]
+  },
+  {
+    "word": "statues",
+    "ipa": "英 /ˈstætʃuːz/；美 /ˈstætʃuːz/",
+    "meaning": "雕像；塑像〔复数〕",
+    "sense": "把人或动物的形象做成一件立体物品，摆在那里供人观看，就是 statue；多个是 statues。词史中的画面是被立起、摆设出来的形象。",
+    "split": "statue 保留末尾 e，加 -s → statues，末尾 /uːz/。经法语 statue 接拉丁 statua 雕像，关联 statuere 使站立、树立，远连 stare 站。",
+    "history": [
+      [
+        "拉丁 stare 站 → statuere 树立 → statua 雕像",
+        "把形象立起、设置出来"
+      ],
+      [
+        "法语 statue → 英语 statue → statues",
+        "现代复数数一座座立体雕像"
+      ]
+    ],
+    "explanation": "marble statues 是大理石雕像；statues of animals 是动物雕像；a row of statues 是一排雕像。",
+    "usage": "marble statues；statues of animals；a row of statues。",
+    "contrast": "statues 是雕像，statutes 是法规、成文法，后者多一个 t。sculpture 则更宽，可以说雕塑艺术，也可以说具体雕塑作品。",
+    "examples": [
+      [
+        "Two stone statues stand beside the entrance.",
+        "入口两旁立着两座石像。"
+      ],
+      [
+        "The exhibition includes statues of several animals.",
+        "展览里有几种动物的雕像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/statues#English",
+      "https://www.etymonline.com/word/statue"
+    ]
+  },
+  {
+    "word": "trailers",
+    "ipa": "英 /ˈtreɪləz/；美 /ˈtreɪlɚz/",
+    "meaning": "拖车；电影、节目预告片〔复数〕",
+    "sense": "跟在别的车辆后面被拖着走，是 trailer；看电影前播放的宣传短片，也叫 trailer。一个在说车辆，一个在说影片宣传材料。",
+    "split": "trail 跟随、拖行 + -er → trailer，再加 -s。电影名称与胶片尾部、附随材料的历史有关；词源资料对确切联系保留可能性，不必编成唯一的影院播放故事。",
+    "history": [
+      [
+        "trail 跟随 → trailer 跟随者、被拖行的东西",
+        "后来用于被车辆牵引的拖车"
+      ],
+      [
+        "电影胶片尾部相关名称 → 宣传短片 trailer → trailers",
+        "今天通常在正片前或网上观看预告片"
+      ]
+    ],
+    "explanation": "camping trailers 是露营拖车；film trailers 是电影预告片；watch trailers online 是在网上看预告片。",
+    "usage": "camping trailers；film trailers；watch trailers online。",
+    "contrast": "trailer 在今天的位置未必在后面，预告片常在正片前播放。现代用法已经固定为片种名，理解历史关联与今天摆放位置要分开。",
+    "examples": [
+      [
+        "The website has trailers for three upcoming films.",
+        "网站上有三部即将上映电影的预告片。"
+      ],
+      [
+        "Several trailers were parked beside the campsite.",
+        "露营地旁停着几辆拖车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trailers#English",
+      "https://www.etymonline.com/word/trailer"
+    ]
+  },
+  {
+    "word": "transforming",
+    "ipa": "英 /trænsˈfɔːmɪŋ/；美 /trænsˈfɔːrmɪŋ/",
+    "meaning": "使改观；转变；正在改变〔分词、动名词〕",
+    "sense": "原来一个样，经过改变后让人觉得成了另一番模样，是 transforming。可以改变外观，也可以改变一个地方怎样被使用、一项工作怎样完成。",
+    "split": "transform + 完整 -ing → transforming，原词不改。经法语 transformer 接拉丁 trans- 越过、转变 + formare 赋形 → transformare 改变形态。",
+    "history": [
+      [
+        "拉丁 transformare 改变形态 → 法语 → transform",
+        "早期英语常描写形状的显著改变"
+      ],
+      [
+        "性质、用途、状态等义扩大 + -ing → transforming",
+        "现代可以描述正在发生的深刻变化"
+      ]
+    ],
+    "explanation": "transforming a room 是让房间大变样；transforming something into something 是把某物转变成另一种样子；transforming the way we work 是改变工作方式。",
+    "usage": "transforming a room；transforming into；transforming the way。",
+    "contrast": "change 可以只是某处有变动；transforming 往往强调变化显著，整体面貌、功能或性质有了不同。它本身并不保证变化一定更好。",
+    "examples": [
+      [
+        "The volunteers are transforming an empty lot into a garden.",
+        "志愿者们正把一块空地改成花园。"
+      ],
+      [
+        "The new tool is transforming the way the team shares ideas.",
+        "新工具正在改变团队交流想法的方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transforming#English",
+      "https://www.etymonline.com/word/transform"
+    ]
+  },
+  {
+    "word": "underwent",
+    "ipa": "英 /ˌʌndəˈwent/；美 /ˌʌndɚˈwent/",
+    "meaning": "经历了；经受了〔undergo 的过去式〕",
+    "sense": "一段变化、检验或困难发生在某个人、某个东西身上，说它 underwent 这一过程。重点在成为经历者，而非主动去完成一个动作。",
+    "split": "undergo 的 go 换成不规则过去式 went → underwent。undergo 接古英语 undergan，后发展出承受、经历过程义；went 原属于 wend 词族，后来补入 go 的过去式。",
+    "history": [
+      [
+        "古英语 undergan 承担等 → undergo 承受、经历",
+        "由承担扩展到经受一个过程"
+      ],
+      [
+        "go 的补充式过去时 went → underwent",
+        "现代过去分词另为 undergone"
+      ]
+    ],
+    "explanation": "underwent changes 是经历了变化；underwent repairs 是接受了修缮；underwent testing 是经过了测试。",
+    "usage": "underwent changes；underwent repairs；underwent testing。",
+    "contrast": "underwent 是过去式，可直接接主语；has undergone 用过去分词。underwent changes 常把变化落到具体的承受者身上，叙述比 changed 更着重变化过程。",
+    "examples": [
+      [
+        "The old theatre underwent major repairs.",
+        "旧剧院经历了大规模修缮。"
+      ],
+      [
+        "The design underwent several changes before publication.",
+        "设计在出版前经历了几次修改。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underwent#English",
+      "https://www.etymonline.com/word/undergo"
+    ]
+  },
+  {
+    "word": "villains",
+    "ipa": "英、美 /ˈvɪlənz/",
+    "meaning": "恶人；反派角色〔复数〕",
+    "sense": "故事里推动坏事、给主角制造威胁的角色，常叫 villains。也可以用在现实叙述中，称造成坏结果、被认为负有责任的人。",
+    "split": "villain + -s → villains，/n/ 后读 /z/。经法语 vilain 接中世纪拉丁 villanus 田庄劳作者，源于 villa 田庄；阶层贬称后来发展成品行恶劣的人、故事反派。",
+    "history": [
+      [
+        "拉丁 villa 田庄 → villanus → 法语 vilain",
+        "原先的身份名称带上了阶层性的贬低"
+      ],
+      [
+        "粗鄙、恶人等贬义 → 故事反派 villain → villains",
+        "意义变化反映历史偏见，不能用来判断农民的品格"
+      ]
+    ],
+    "explanation": "the heroes and villains 是正面人物与反派；memorable villains 是令人难忘的反派；portray someone as a villain 是把某人描绘成坏人。",
+    "usage": "heroes and villains；memorable villains；the villains of the story。",
+    "contrast": "villain 是人物评价或叙事角色，criminal 是违反刑法的人。小说反派未必有已经被判定的犯罪身份，喜剧里也可以有很滑稽的 villains。",
+    "examples": [
+      [
+        "The film gives its villains surprisingly funny dialogue.",
+        "电影给反派安排了出人意料的搞笑台词。"
+      ],
+      [
+        "The children took turns playing heroes and villains.",
+        "孩子们轮流扮演英雄和反派。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/villains#English",
+      "https://www.etymonline.com/word/villain"
+    ]
+  },
+  {
+    "word": "ambitions",
+    "ipa": "英、美 /æmˈbɪʃənz/",
+    "meaning": "志向；抱负；想实现的目标〔复数〕",
+    "sense": "心里有些还没实现、很想做到的事，就是 ambitions。可以是当作家、学会一项技能，也可以是追求职位、影响力。",
+    "split": "ambition + -s → ambitions。拉丁 amb- 周围 + ire 走 → ambire 四处走动，ambitio 特指为争取支持、名望而奔走，后经法语等进入英语。",
+    "history": [
+      [
+        "拉丁四处奔走、求取支持 → ambitio",
+        "政治求取名望的用法发展出求进的欲望"
+      ],
+      [
+        "早期常带贬义的 ambition → 中性、正面志向 → ambitions",
+        "现代可数一项项想实现的目标"
+      ]
+    ],
+    "explanation": "career ambitions 是职业志向；literary ambitions 是文学抱负；achieve one’s ambitions 是实现自己的志向。",
+    "usage": "career ambitions；literary ambitions；achieve one’s ambitions。",
+    "contrast": "ambitions 可大可小，并不自动等于贪图权力。是否有过度求取、野心的贬义，要看描述的目标与上下文。",
+    "examples": [
+      [
+        "Her ambitions include writing a novel and learning another language.",
+        "她的目标包括写一部小说和再学一门语言。"
+      ],
+      [
+        "The biography traces his early ambitions as a musician.",
+        "传记追溯了他早年想成为音乐家的抱负。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ambitions#English",
+      "https://www.etymonline.com/word/ambition"
+    ]
+  },
+  {
+    "word": "beginnings",
+    "ipa": "英、美 /bɪˈɡɪnɪŋz/",
+    "meaning": "开端；起源；起步阶段〔复数〕",
+    "sense": "一件事刚刚露出头、刚开始形成，是 beginning。谈一个机构、人物从哪里起步、经历过怎样的最初阶段，常用 beginnings。",
+    "split": "begin 重读末节，双写 n 加完整 -ing → beginning，再加 -s → beginnings。begin 承古英语 beginnan，含 be- 与来源未定的 ginnan 材料。",
+    "history": [
+      [
+        "古英语 beginnan 开始、着手 → begin",
+        "远处可能联系打开，但尚不能定成唯一解释"
+      ],
+      [
+        "begin + -ing → beginning 名词 + -s → beginnings",
+        "现代复数可统说起源、早期阶段"
+      ]
+    ],
+    "explanation": "humble beginnings 是起步时条件普通；the beginnings of a friendship 是一段友谊初露的阶段；new beginnings 是新的开始。",
+    "usage": "humble beginnings；the beginnings of；new beginnings。",
+    "contrast": "a beginning 可以指一次开头；beginnings 常把最早的几步、起源背景合起来说。humble beginnings 侧重出身、起步条件普通，未必形容一个人谦虚。",
+    "examples": [
+      [
+        "The museum tells the story of the town’s beginnings.",
+        "博物馆讲述了这座城镇的起源。"
+      ],
+      [
+        "The company grew from humble beginnings in a small workshop.",
+        "这家公司从一间小作坊起步，逐渐发展壮大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beginnings#English",
+      "https://www.etymonline.com/word/begin"
+    ]
+  },
+  {
+    "word": "births",
+    "ipa": "英 /bɜːθs/；美 /bɜːrθs/",
+    "meaning": "出生；诞生事件〔复数〕",
+    "sense": "一个新生命来到世上，是一次 birth；把这些出生事件一件件记录，就是 births。也可比喻新事物的诞生，但说出生统计时尤其常见。",
+    "split": "birth + -s → births，末尾 /θs/。birth 的现代形式经北欧语等日耳曼材料承接生育名词，与 bear 生育同族；历史 -th 表动作、过程。",
+    "history": [
+      [
+        "日耳曼 bear 生育词族 → 出生过程名 → birth",
+        "北欧语相关形式影响了现代英语形式"
+      ],
+      [
+        "出生事件与新事物诞生义 + -s → births",
+        "现代复数常用于登记、统计和家族叙述"
+      ]
+    ],
+    "explanation": "record births 是登记出生；births and deaths 是出生与死亡事件；the number of births 是出生次数、出生人数的统计表达。",
+    "usage": "record births；births and deaths；the number of births。",
+    "contrast": "births 数出生事件，babies 指婴儿。The records list births 是列出出生记录；不应把 births 在任何句子里都直接换成 babies。",
+    "examples": [
+      [
+        "The old register lists births in the village.",
+        "旧登记册列出了村里的出生记录。"
+      ],
+      [
+        "The chart compares births and deaths over ten years.",
+        "图表比较了十年间的出生与死亡数量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/births#English",
+      "https://www.etymonline.com/word/birth"
+    ]
+  },
+  {
+    "word": "breakup",
+    "ipa": "英、美 /ˈbreɪkʌp/",
+    "meaning": "分手；关系破裂；解体、分裂",
+    "sense": "原先连在一起的一对人、一个组织，后来分开了，这次分开就是 a breakup。它把 break up 的动作变成了可以谈论的一件事。",
+    "split": "break 打破、分开 + up 表拆散、完成 → 短语 break up，再转作名词 breakup。break 承古英语 brecan 打碎、破坏；名词还可写 break-up。",
+    "history": [
+      [
+        "break up 把整体拆散、使连接解体",
+        "用于物体、群体及人际关系等"
+      ],
+      [
+        "动词短语名词化 → breakup",
+        "现代可数分手事件，也可描述组织、整体解体"
+      ]
+    ],
+    "explanation": "a painful breakup 是痛苦的分手；the breakup of a band 是乐队解散；after the breakup 是分开之后。",
+    "usage": "a painful breakup；the breakup of；after the breakup。",
+    "contrast": "breakup 是名词，如 their breakup；动词通常分开写，如 they broke up。关系结束的人可以谈一次 breakup，机构、大片整体的解体也能使用。",
+    "examples": [
+      [
+        "The song describes life after a breakup.",
+        "这首歌描写了分手后的生活。"
+      ],
+      [
+        "The documentary explains the breakup of the band.",
+        "纪录片讲述了这支乐队解散的经过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakup#English",
+      "https://www.etymonline.com/word/breakup"
+    ]
+  },
+  {
+    "word": "checkout",
+    "ipa": "英、美 /ˈtʃekaʊt/",
+    "meaning": "结账、付款流程；付款处；退房手续",
+    "sense": "购物车里的东西选好了，进入付款这一关，是 checkout；在酒店住完，办理离店手续，也叫 checkout。",
+    "split": "check + out 的动词短语转为名词 checkout。check out 的几种用途分别发展出付款处、付款流程、退房等名词义，现代也用于网页上的购物付款环节。",
+    "history": [
+      [
+        "check out 的相关办结、核验动作 → checkout 名词",
+        "名词历史还有飞行培训等较早用途"
+      ],
+      [
+        "商店付款与酒店退房用法 → 网上 checkout",
+        "同一个名词在具体服务场景中确定所指"
+      ]
+    ],
+    "explanation": "at the checkout 是在付款处；proceed to checkout 是进入结账；checkout time 是退房时间；guest checkout 是无需注册账户的购物结账。",
+    "usage": "at the checkout；proceed to checkout；checkout time。",
+    "contrast": "checkout 作名词常连写；check out 作动词通常分开写。酒店 checkout time 要理解成退房时间，购物网站 checkout 则是付款流程。",
+    "examples": [
+      [
+        "There was a short queue at the checkout.",
+        "付款处排着一小队人。"
+      ],
+      [
+        "The hotel lists its checkout time on the booking page.",
+        "酒店在预订页面上注明了退房时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checkout#English",
+      "https://www.etymonline.com/word/checkout"
+    ]
+  },
+  {
+    "word": "chefs",
+    "ipa": "英、美 /ʃefs/",
+    "meaning": "厨师；主厨〔复数〕",
+    "sense": "在专业厨房里负责制作菜肴的人，是 chef；多个就是 chefs。这个称呼原本强调厨房里的带头人，后来也广泛用于专业厨师。",
+    "split": "chef + -s → chefs，ch 读 /ʃ/，/f/ 后 -s 读 /s/。借法语 chef，缩自 chef de cuisine 厨房之首，远连拉丁 caput 头的词族。",
+    "history": [
+      [
+        "拉丁头的词族 → 法语 chef 头、负责人",
+        "身体的头引申为组织的带头者"
+      ],
+      [
+        "chef de cuisine 厨房之首 → 英语 chef → chefs",
+        "现代可指主厨，也可较宽地说专业厨师"
+      ]
+    ],
+    "explanation": "restaurant chefs 是餐厅厨师；head chefs 是主厨；young chefs 是年轻厨师。",
+    "usage": "restaurant chefs；head chefs；young chefs。",
+    "contrast": "cooks 广泛说做饭的人，chefs 常带专业厨房、职业技能的意味。chef 与 chief 远处同族，但借入英语的时间、形式与使用位置不同。",
+    "examples": [
+      [
+        "The chefs worked together on a new menu.",
+        "厨师们一起设计了一份新菜单。"
+      ],
+      [
+        "The programme follows three young chefs in their first restaurant jobs.",
+        "节目跟拍了三位刚开始在餐厅工作的年轻厨师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chefs#English",
+      "https://www.etymonline.com/word/chef"
+    ]
+  },
+  {
+    "word": "chronicles",
+    "ipa": "英 /ˈkrɒnɪkəlz/；美 /ˈkrɑːnɪkəlz/",
+    "meaning": "编年史、连续记事〔复数〕；按进程记述〔第三人称单数〕",
+    "sense": "事情一件件发生，把它们沿着时间记下来，就是 chronicles 的画面。它既能说这样的记录，也能说一本书、一个节目正在这样记述。",
+    "split": "chronicle 保留末尾 e，加 -s → chronicles。经法语 cronicle、cronique、拉丁 chronica 接希腊 khronika 按时间的记事，来自 khronos 时间；末尾 -le 的形成受到借词变化影响。",
+    "history": [
+      [
+        "希腊 khronos 时间 → khronika 记事 → 拉丁、法语 chronicle",
+        "时间顺序构成记录的主线"
+      ],
+      [
+        "英语名词及其记述动词 + -s → chronicles",
+        "复数记录、第三人称记述同形"
+      ]
+    ],
+    "explanation": "medieval chronicles 是中世纪编年记录；chronicles the journey 是记述旅程的经过；chronicles a family’s history 是按进程记述家族史。",
+    "usage": "medieval chronicles；chronicles the journey；chronicles the history of。",
+    "contrast": "chronicles 往往让人注意事件怎样随时间展开。records 是更宽的记录词；chronicles 不要求每一页都用年份作标题。",
+    "examples": [
+      [
+        "The historian compared several medieval chronicles.",
+        "历史学家对比了几部中世纪编年记录。"
+      ],
+      [
+        "The book chronicles the journey of a young musician.",
+        "这本书记述了一位年轻音乐家的成长历程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chronicles#English",
+      "https://www.etymonline.com/word/chronicle"
+    ]
+  },
+  {
+    "word": "classmates",
+    "ipa": "英 /ˈklɑːsmeɪts/；美 /ˈklæsmeɪts/",
+    "meaning": "同班同学；同一课程的同学〔复数〕",
+    "sense": "和你一起在同一个班、同一门课里上课的人，是 classmates。class 给出共同的班级，mate 给出一起参与的同伴。",
+    "split": "class 班级 + mate 同伴 → classmate，保留末尾 e，加 -s → classmates，结尾 /ts/。这是英语中的复合词，两个部分都能独立使用。",
+    "history": [
+      [
+        "class 班级 + mate 同伴 → classmate",
+        "把同伴关系限定在班级、课堂"
+      ],
+      [
+        "classmate + -s → classmates",
+        "现代复数可以说当前或过去的同班同学"
+      ]
+    ],
+    "explanation": "former classmates 是以前的同班同学；my classmates 是我的同学；classmates from school 是学生时代的同班同学。",
+    "usage": "former classmates；my classmates；meet old classmates。",
+    "contrast": "classmates 比 schoolmates 范围更具体：schoolmates 可以只是同校。具体语境里 class 还可能指某届学生，仍要看学校怎样使用这个称呼。",
+    "examples": [
+      [
+        "She asked her classmates to read the first draft.",
+        "她请同学们读了初稿。"
+      ],
+      [
+        "Several former classmates met again at the exhibition.",
+        "几位以前的同班同学在展览上再次见面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/classmates#English",
+      "https://www.etymonline.com/word/classmate"
+    ]
+  },
+  {
+    "word": "conditioned",
+    "ipa": "英、美 /kənˈdɪʃənd/",
+    "meaning": "调理、训练过；使习惯于了；受某因素影响的",
+    "sense": "反复接触一种环境、练习一种反应，后来变得习惯如此，可以说 conditioned。把材料调到所需状态，也可以用这个词。",
+    "split": "condition + 完整 -ed → conditioned，/n/ 后读 /d/。condition 经法语接拉丁 condicio 约定、条件，联系 con- 共同 + dicere 说；后来名词转成使达到某状态的动词。",
+    "history": [
+      [
+        "拉丁 condicio 约定、条件 → condition 状态、条件",
+        "晚期又与另一拼形 conditio 混合"
+      ],
+      [
+        "条件名转动词：设条件、调到所需状态 → conditioned",
+        "现代还用来谈训练、习惯与条件反应"
+      ]
+    ],
+    "explanation": "conditioned to respond 是经训练或影响而习惯作出某种反应；a conditioned response 是条件反应；conditioned leather 是经过护理的皮革。",
+    "usage": "conditioned to respond；a conditioned response；conditioned by experience。",
+    "contrast": "conditioned by 说受到某种经历、环境影响；conditioned to do 说形成了做某事的习惯、反应。词义范围比严格实验中的条件反射更宽。",
+    "examples": [
+      [
+        "The story shows how the character was conditioned to obey every rule.",
+        "故事展示了这个人物怎样逐渐习惯服从每条规则。"
+      ],
+      [
+        "The leather was cleaned and conditioned before the bag was displayed.",
+        "皮包展出前，皮革经过了清洁和护理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conditioned#English",
+      "https://www.etymonline.com/word/condition"
+    ]
+  },
+  {
+    "word": "coupons",
+    "ipa": "英 /ˈkuːpɒnz/；美 /ˈkuːpɑːnz/，也读 /ˈkjuːpɑːnz/",
+    "meaning": "优惠券；可兑换的票券〔复数〕",
+    "sense": "拿着它就能兑换优惠、物品或某项权益的小票，是 coupon；多个就是 coupons。今天它也可以只是一张电子券。",
+    "split": "coupon + -s → coupons，/n/ 后读 /z/。借法语 coupon 剪下的一片，来自 couper 切；早期债券附有可剪下领取利息的小票，后来发展成折扣、兑换券。",
+    "history": [
+      [
+        "法语 couper 切 → coupon 切下的小片",
+        "早期票据可以剪下后呈交兑换"
+      ],
+      [
+        "票券名称扩展到折扣、兑换用途 → coupons",
+        "现代纸质券、电子券都能使用这个名字"
+      ]
+    ],
+    "explanation": "discount coupons 是折扣券；digital coupons 是电子优惠券；redeem coupons 是兑换、使用优惠券。",
+    "usage": "discount coupons；digital coupons；redeem coupons。",
+    "contrast": "coupons 可以承载优惠，codes 则是输入的代码。电子优惠券可能带代码，也可能直接保存在账户里；两者的关注点不同。",
+    "examples": [
+      [
+        "She kept the coupons in a small envelope.",
+        "她把优惠券放在一个小信封里。"
+      ],
+      [
+        "The app stores all my digital coupons in one place.",
+        "这个应用把我的电子优惠券都放在同一个地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coupons#English",
+      "https://www.etymonline.com/word/coupon"
+    ]
+  },
+  {
+    "word": "currents",
+    "ipa": "英 /ˈkʌrənts/；美 /ˈkɜːrənts/",
+    "meaning": "水流；电流；思潮、趋势〔复数〕",
+    "sense": "看似是一片水，里面却有向某个方向运动的流，是 currents。抽象地说，某种想法在人群中流传，也可以像一股思潮。",
+    "split": "current + -s → currents，末尾 /nts/。经法语 corant 正在跑、流动的，远接拉丁 currere 跑；流动的形容词后来转成水流等名词。",
+    "history": [
+      [
+        "拉丁 currere 跑 → 法语 corant → current 流动的",
+        "先由动作描写流动状态"
+      ],
+      [
+        "名词水流、电流与思潮等义 → currents",
+        "现代复数数不同流向、流动或社会趋势"
+      ]
+    ],
+    "explanation": "ocean currents 是洋流；air currents 是气流；electric currents 是电流；political currents 是政治思潮。",
+    "usage": "ocean currents；air currents；political currents。",
+    "contrast": "currents 作名词才有这里的复数。current 作形容词表示当前的，如 current events；即使 events 是复数，current 也不加 s。",
+    "examples": [
+      [
+        "The map shows the main ocean currents.",
+        "地图标出了主要洋流。"
+      ],
+      [
+        "The novel reflects several intellectual currents of its time.",
+        "这部小说反映了当时的几股思想潮流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/currents#English",
+      "https://www.etymonline.com/word/current"
+    ]
+  },
+  {
+    "word": "deported",
+    "ipa": "英 /dɪˈpɔːtɪd/；美 /dɪˈpɔːrtɪd/",
+    "meaning": "被驱逐出境了；被流放、强制迁走了〔过去形式〕",
+    "sense": "一个人被当局强制移出所在国家，常说 was deported。历史叙述里，它也可以描述被强制运离原居地、被流放。",
+    "split": "deport + 完整 -ed → deported，/t/ 后读 /ɪd/。驱逐义经法语 déporter 接拉丁 de- 离开 + portare 携带 → deportare 运离、放逐。",
+    "history": [
+      [
+        "拉丁 deportare 运离、放逐 → 法语 → 英语 deport",
+        "强调强制把人移离某处"
+      ],
+      [
+        "deport + -ed → deported",
+        "现代过去形式，报道与历史文本中常见被动用法"
+      ]
+    ],
+    "explanation": "was deported from 是被驱逐离开某国；was deported to 是被遣送到某地；deported people 是遭驱逐、遣送的人。",
+    "usage": "was deported from；was deported to；people who were deported。",
+    "contrast": "deported 强调当局的强制遣送，emigrated 强调离开原国家迁居的行为。仅看 moved away 搬走，并不能推出发生了驱逐。",
+    "examples": [
+      [
+        "In the novel, the character was deported and separated from his friends.",
+        "小说中，这个人物遭到驱逐，与朋友们分开。"
+      ],
+      [
+        "The documentary tells the stories of families who were deported.",
+        "纪录片讲述了那些遭强制迁走的家庭的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deported#English",
+      "https://www.etymonline.com/word/deport"
+    ]
+  },
+  {
+    "word": "deposited",
+    "ipa": "英 /dɪˈpɒzɪtɪd/；美 /dɪˈpɑːzɪtɪd/",
+    "meaning": "存入了；放置了；留下沉积了〔过去形式〕",
+    "sense": "把东西放下来，留在某个地方，是 deposited。钱可以存入账户，河流可以把泥沙留下，人物也可以把一摞东西放在桌上。",
+    "split": "deposit + 完整 -ed → deposited，末尾 /tɪd/。接拉丁 de- 放下、离开 + ponere 放置 → deponere，分词 depositus；pon-、posit- 是同一动词的不同词干。",
+    "history": [
+      [
+        "拉丁 deponere 放下 → depositus → 英语 deposit",
+        "英语较早用于把东西交给别人保管、作保证"
+      ],
+      [
+        "存放、放置、留下沉积等义 + -ed → deposited",
+        "具体对象可以是钱、物品或自然沉积物"
+      ]
+    ],
+    "explanation": "deposited money 是存入了钱；deposited sediment 是留下了沉积物；deposited a pile of books 是放下一摞书。",
+    "usage": "deposited money；deposited sediment；deposited on the table。",
+    "contrast": "deposited 的共同点是东西被放下、留下。银行语境里它说存入动作；河流语境里它说泥沙落留，中文译法随对象变化。",
+    "examples": [
+      [
+        "She deposited the money into her account.",
+        "她把钱存进了账户。"
+      ],
+      [
+        "The river deposited a layer of sand along the bank.",
+        "河流沿岸留下了一层沙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deposited#English",
+      "https://www.etymonline.com/word/deposit"
+    ]
+  },
+  {
+    "word": "deserted",
+    "ipa": "英 /dɪˈzɜːtɪd/；美 /dɪˈzɜːrtɪd/",
+    "meaning": "离弃、擅离了；空无一人的",
+    "sense": "原来有人在的地方，人走光了，显得空寂，就是 deserted。它可以直接描写街道、车站的样子，不必说明这些人为什么离开。",
+    "split": "desert 动词重读后节，加完整 -ed → deserted，/t/ 后读 /ɪd/。经法语等接拉丁 deserere 放弃，含 de- 解开与 serere 连接、排列，核心是断开联系、离弃。",
+    "history": [
+      [
+        "拉丁 deserere 放弃、解开联系 → desert",
+        "后来也说擅离职责、抛弃某人"
+      ],
+      [
+        "desert + -ed → deserted，发展为状态形容词",
+        "现代常形容人已离开、空无一人的场所"
+      ]
+    ],
+    "explanation": "a deserted street 是空无一人的街道；a deserted station 是空寂的车站；deserted a friend 是离弃了朋友。",
+    "usage": "a deserted street；a deserted station；deserted by everyone。",
+    "contrast": "deserted 的重音在后，desert 沙漠这一名词通常重音在前。deserted street 描述没人，不要求那条街在沙漠里。",
+    "examples": [
+      [
+        "The square was deserted when we arrived.",
+        "我们到达时，广场上空无一人。"
+      ],
+      [
+        "The story begins at a deserted railway station.",
+        "故事从一座空寂的火车站开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deserted#English",
+      "https://www.etymonline.com/word/desert"
+    ]
+  },
+  {
+    "word": "enhancing",
+    "ipa": "英 /ɪnˈhɑːnsɪŋ/；美 /ɪnˈhænsɪŋ/",
+    "meaning": "提升；增强；改善效果〔分词、动名词〕",
+    "sense": "原来已经有某种好处，再把亮度、吸引力、清晰度往上提一点，是 enhancing。原来的东西还在，它的某项效果变得更突出。",
+    "split": "enhance 去末尾 e，加完整 -ing → enhancing。经法语 enhauncer、enhaucier 接拉丁抬高的词族，关联 altus 高；具体拼写经历过多种语言形式的影响。",
+    "history": [
+      [
+        "拉丁、法语抬高、使更高 → enhance",
+        "较早用来提升地位、声望等"
+      ],
+      [
+        "提高品质、效果的常用义 + -ing → enhancing",
+        "现代可说提升体验、增强细节、改善环境"
+      ]
+    ],
+    "explanation": "enhancing the experience 是提升体验；enhancing the image 是增强图像效果；enhancing the atmosphere 是改善氛围。",
+    "usage": "enhancing the experience；enhancing the image；enhancing the atmosphere。",
+    "contrast": "enhancing 常强调把某一品质、效果做得更好；transforming 常强调整体面貌、功能有明显转变。两者程度、关注点不同。",
+    "examples": [
+      [
+        "The new lighting is enhancing the colours in the painting.",
+        "新灯光让画中的色彩更显鲜明。"
+      ],
+      [
+        "The project focuses on enhancing the visitor experience.",
+        "这个项目着重改善参观体验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enhancing#English",
+      "https://www.etymonline.com/word/enhance"
+    ]
+  },
+  {
+    "word": "explores",
+    "ipa": "英 /ɪkˈsplɔːz/；美 /ɪkˈsplɔːrz/",
+    "meaning": "探索；探讨；仔细了解〔第三人称单数〕",
+    "sense": "不急着认定答案，先到不同地方看看、沿不同方向想想，是 explores。主语可以是旅行者，也可以是一部正在探讨问题的书。",
+    "split": "explore 保留末尾 e，加 -s → explores，/r/ 或长元音后读 /z/。远接拉丁 explorare 探查；传统分析联系 ex- 向外与 plorare 呼喊，但第二部分及狩猎解释有异说。",
+    "history": [
+      [
+        "拉丁 explorare 探查 → 法语、英语 exploration 词族 → explore",
+        "英语近源可能是 exploration 逆构，也可能有法语借入"
+      ],
+      [
+        "考察地方、研究问题等义 + -s → explores",
+        "现代主语既可以是人，也可以是作品、研究"
+      ]
+    ],
+    "explanation": "explores an island 是探索岛屿；explores a question 是探讨问题；explores different options 是考察不同选择。",
+    "usage": "explores an island；explores a question；explores different options。",
+    "contrast": "explores 强调寻找、了解的过程，discovers 强调找到了什么。一本书 explores a problem，不等于它已经给出了唯一结论。",
+    "examples": [
+      [
+        "The book explores the relationship between music and memory.",
+        "这本书探讨音乐与记忆的关系。"
+      ],
+      [
+        "She explores the old town on foot.",
+        "她步行探访老城区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/explores#English",
+      "https://www.etymonline.com/word/explore"
+    ]
+  },
+  {
+    "word": "fibers",
+    "ipa": "英 /ˈfaɪbəz/；美 /ˈfaɪbɚz/",
+    "meaning": "纤维；细丝状结构〔复数〕",
+    "sense": "布面放大后，能看到一根根细丝，这些就是 fibers。身体、植物材料里细长的结构，也能用这个名字。",
+    "split": "fiber + -s → fibers，常见美式拼写；英式对应 fibre、fibres。经拉丁 fibra 细丝、内脏等材料，英语早期义与身体部位有关，更远来源不定。",
+    "history": [
+      [
+        "拉丁 fibra → 英语 fibre、fiber",
+        "较早身体部位用法后来发展到细丝状结构"
+      ],
+      [
+        "动物、植物与纺织材料中的纤维义 → fibers",
+        "现代复数可以数一根根纤维或不同纤维材料"
+      ]
+    ],
+    "explanation": "cotton fibers 是棉纤维；muscle fibers 是肌纤维；synthetic fibers 是合成纤维；optical fibers 是光纤。",
+    "usage": "cotton fibers；muscle fibers；synthetic fibers。",
+    "contrast": "fibers 强调组成材料的细丝；threads 通常是把纤维纺、捻成的线。说食物中的膳食纤维时，fiber 又常作不可数总称。",
+    "examples": [
+      [
+        "The microscope reveals tiny fibers in the fabric.",
+        "显微镜下可以看到织物中的细小纤维。"
+      ],
+      [
+        "The label says the blanket contains both natural and synthetic fibers.",
+        "标签上写着，这条毯子含有天然纤维和合成纤维。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fibers#English",
+      "https://www.etymonline.com/word/fiber"
+    ]
+  },
+  {
+    "word": "flirting",
+    "ipa": "英 /ˈflɜːtɪŋ/；美 /ˈflɜːrtɪŋ/",
+    "meaning": "调情；带着玩味考虑、尝试；接近〔分词、动名词〕",
+    "sense": "用轻松、带点暧昧的方式表示吸引、好感，是 flirting。flirting with an idea 则像先和一个想法碰一碰，还没认真决定采用它。",
+    "split": "flirt + 完整 -ing → flirting，原词不改。flirt 较早指突然轻动、轻弹等，后来发展出轻佻求爱义；拟声、flit 或其他语言影响均有分析，确切路线未定。",
+    "history": [
+      [
+        "轻快、短促动作等旧用法 → flirt",
+        "远源与求爱义的具体衔接有不同解释"
+      ],
+      [
+        "暧昧互动与短暂接近的比喻 + -ing → flirting",
+        "现代 with 后既可以接人，也可以接想法、风险"
+      ]
+    ],
+    "explanation": "flirting with someone 是和某人调情；flirting with the idea of doing 是初步动念、考虑做某事；flirting with disaster 是冒着出大问题的风险。",
+    "usage": "flirting with someone；flirting with the idea of；flirting with disaster。",
+    "contrast": "flirting 表现出玩味、暧昧，不等于已经建立恋爱关系。flirting with an idea 也常意味着还停留在试着想想的阶段。",
+    "examples": [
+      [
+        "The scene shows the two characters flirting at a party.",
+        "这一幕展示了两个人物在派对上调情。"
+      ],
+      [
+        "She is flirting with the idea of opening a small bookshop.",
+        "她有点动念，想开一家小书店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flirting#English",
+      "https://www.etymonline.com/word/flirt"
+    ]
+  },
+  {
+    "word": "gamers",
+    "ipa": "英 /ˈɡeɪməz/；美 /ˈɡeɪmɚz/",
+    "meaning": "游戏玩家；电子游戏玩家〔复数〕",
+    "sense": "喜欢玩游戏、经常参与游戏的人，是 gamer；说这一群人，用 gamers。今天单独听到这个词，常会想到电子游戏玩家。",
+    "split": "game 的游戏活动词族 + -er 行为者 → gamer，再加 -s → gamers。现代构词对照时，game 的末尾 e 与 -er 不重复写；较早的 gamer 范围还包括运动、其他游戏参与者。",
+    "history": [
+      [
+        "英语 game 的活动 + -er → gamer",
+        "早期表示参加游戏、运动等活动的人"
+      ],
+      [
+        "电子游戏与桌面游戏语境中的玩家义 → gamers",
+        "现代电子游戏玩家是尤其常见的使用范围"
+      ]
+    ],
+    "explanation": "casual gamers 是休闲玩家；experienced gamers 是有经验的玩家；console gamers 是主机游戏玩家。",
+    "usage": "casual gamers；experienced gamers；console gamers。",
+    "contrast": "gamers 不自动等于职业选手。professionals、professional players 才进一步说明以比赛、游戏相关活动为职业；普通爱好者也可以自称 gamers。",
+    "examples": [
+      [
+        "The club welcomes gamers of all experience levels.",
+        "这个社团欢迎各种经验水平的玩家。"
+      ],
+      [
+        "The article asks gamers what makes a story memorable.",
+        "文章询问玩家，什么样的故事令人难忘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gamers#English",
+      "https://www.etymonline.com/word/gamer"
+    ]
+  },
+  {
+    "word": "generators",
+    "ipa": "英 /ˈdʒenəreɪtəz/；美 /ˈdʒenəreɪtɚz/",
+    "meaning": "发电机；发生器；生成器〔复数〕",
+    "sense": "输入某些东西，持续产生所需输出的装置、工具，可以叫 generator。发电机输出电能，信号发生器输出信号，名字生成器输出名字。",
+    "split": "generator + -s → generators。拉丁 generare 产生、生成 → generator 产生者，历史上可认 gener- 与 -ator 行为者材料；现代可与 generate 产生对照。",
+    "history": [
+      [
+        "拉丁 generare 产生 → generator 产生者",
+        "英语早期也可泛指造成、产生事物的人或原因"
+      ],
+      [
+        "机器、设备及软件工具名称 → generators",
+        "现代语境决定生成的是电、信号还是内容"
+      ]
+    ],
+    "explanation": "electric generators 是发电机；signal generators 是信号发生器；name generators 是名字生成器。",
+    "usage": "electric generators；signal generators；name generators。",
+    "contrast": "generator 强调产生输出，motor 强调把能量转成运动。发电机是能量转换装置；软件生成器则按程序输出数据或内容。",
+    "examples": [
+      [
+        "The exhibition includes several early electric generators.",
+        "展览中有几台早期发电机。"
+      ],
+      [
+        "The website compares name generators for fictional characters.",
+        "网站比较了几种给虚构人物起名的生成器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generators#English",
+      "https://www.etymonline.com/word/generator"
+    ]
+  }
+]

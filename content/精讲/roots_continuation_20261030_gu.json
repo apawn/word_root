@@ -1,0 +1,116 @@
+[
+  {
+    "id": "B2693",
+    "meaning": "按月的频率，及 bi- 带来的两种读法",
+    "core": "MONTHLY：每月；加 bi- 后频率可能含混",
+    "image": "monthly 每月一次；bimonthly 可隔月一次，也可每月两次。",
+    "intro": "monthly 可以修饰账单，也能作副词说付款频率。bimonthly 的两种约定用法不能靠前缀一个双字就消除，实际安排最好写明。",
+    "forms": "month + -ly → monthly；bi- + monthly → bimonthly。",
+    "branches": [
+      [
+        "基本按月及双频读法",
+        "monthly · bimonthly"
+      ]
+    ],
+    "contrasts": "bimonthly 要看是 every two months 还是 twice a month；monthly 本身通常每月，不是每两月。",
+    "practice": "We pay monthly, but the newsletter comes every two months; its editor calls it bimonthly.\n\n我们每月付款，通讯则每两月发行一次；编辑称它为 bimonthly。",
+    "words": [
+      "monthly",
+      "bimonthly"
+    ],
+    "exclude": {
+      "half-monthly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-monthly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thrice-monthly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2982",
+    "meaning": "说出的口语和没说出口的内容",
+    "core": "SPOKEN：先分 speak、spoke、spoken，再看是否说出口",
+    "image": "speak → spoken；unspoken 没说出口；outspoken 直言不讳。",
+    "intro": "分词能描述口头语言，不只用于完成时。un- 否定说出口，outspoken 则说人敢把意见直说，两种方向摆在一起容易记。",
+    "forms": "speak/spoke/spoken 是不规则词形；un- + spoken；out- + spoken。",
+    "branches": [
+      [
+        "说话与口头形式",
+        "speak · spoken"
+      ],
+      [
+        "没明说与敢直说",
+        "unspoken · outspoken"
+      ]
+    ],
+    "contrasts": "spoke/spoken 过去式与过去分词；unspoken/unspeakable 没说与难以启齿；spoken English 口语。",
+    "practice": "The outspoken speaker explained the unspoken rule in clear spoken English.\n\n那位直言不讳的发言者用清楚的英语口语解释了默认规则。",
+    "words": [
+      "speak",
+      "spoken",
+      "unspoken",
+      "outspoken"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2927",
+    "meaning": "信任、信仰和认为某事为真；否定各有常见语境",
+    "core": "BELIEF：心里接受它是真的，或者把信任放在它上面",
+    "image": "believe 动词 ↔ belief 名词；disbelief 不敢信；unbelief 尤常说缺乏信仰。",
+    "intro": "先分动词、名词，再分两种不信。belief 末尾 /f/，believe 末尾 /v/，拼写和声音一起记。",
+    "forms": "gelēafa 等旧词 → belief，词形受 believe 影响；dis-/un- + belief。\n\n本族信任词发展，belief 的名词复数保留 f，和动词 believes 区分。",
+    "branches": [
+      [
+        "相信动作与信念名词",
+        "believe · belief"
+      ],
+      [
+        "不相信的两类常见语境",
+        "disbelief · unbelief"
+      ],
+      [
+        "belief → beliefs：信任与相信的内容",
+        "belief · beliefs"
+      ]
+    ],
+    "contrasts": "belief/believe 名词与动词，/f/ 与 /v/；disbelief/unbelief 惊愕不信与常见宗教不信倾向。",
+    "practice": "Her belief was strong, but she listened to the news in disbelief.\n\n她信念坚定，但听到消息时仍难以置信。",
+    "words": [
+      "believe",
+      "belief",
+      "disbelief",
+      "unbelief",
+      "beliefs"
+    ],
+    "exclude": {
+      "self-belief": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4113",
+    "meaning": "运气眷顾及不利、遗憾；形容词和整句评价",
+    "core": "FORTUNATE：命运刚好把事情推向好的一边",
+    "image": "fortune → fortunate → fortunately；unfortunate → unfortunately 放在否定支一起。",
+    "intro": "先看运气，不把幸运误解成富有。两个副词常给整句加庆幸或遗憾态度；unfortunate 的措辞不妥义也很实用。",
+    "forms": "fortūna → fortune；fortūnātus → fortunate；fortunate + -ly；un- + fortunate → unfortunate → unfortunately。",
+    "branches": [
+      [
+        "运气、幸运与庆幸评价",
+        "fortune · fortunate · fortunately"
+      ],
+      [
+        "不利与遗憾评价",
+        "unfortunate · unfortunately"
+      ]
+    ],
+    "contrasts": "fortunate/wealthy 幸运与富有；fortunate -ate 在此读弱化音；unfortunate words 可说措辞不妥。",
+    "practice": "Fortunately, the unfortunate delay did not cost us a fortune.\n\n幸好，这次倒霉的延误没有让我们损失一大笔钱。",
+    "words": [
+      "fortune",
+      "fortunate",
+      "fortunately",
+      "unfortunate",
+      "unfortunately"
+    ],
+    "exclude": {}
+  }
+]

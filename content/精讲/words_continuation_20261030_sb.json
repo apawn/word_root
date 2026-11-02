@@ -1,0 +1,234 @@
+[
+  {
+    "word": "tilt",
+    "ipa": "/tɪlt/",
+    "meaning": "倾斜；使倾斜；倾向、偏向",
+    "sense": "本来是直的、平衡的，现在向一侧偏过去。头可以 tilt，判断或局势也可以像天平一样向一边偏。",
+    "split": "中古英语 tilten 较早有倒下、推倒等义，接古英语不稳的相关材料；后来常说使倾斜、进入斜的位置。旧的骑枪比武、棚盖等同形关系更复杂。",
+    "history": [
+      [
+        "古英语不稳词族 → 中古英语 tilten",
+        "不稳、倒下、使倒下"
+      ],
+      [
+        "现代常见 tilt",
+        "倾斜、使倾斜；偏向的比喻"
+      ]
+    ],
+    "explanation": "tilt your head 歪头；a slight tilt 轻微倾斜；tilt the balance 使天平、局势向一方偏。on tilt 也见于扑克、游戏里情绪失控的口语。",
+    "usage": "tilt to one side；tilt the balance。",
+    "contrast": "lean 倾身、倚靠也能说斜，tilt 常突出原来方向发生偏转；full tilt 全速的固定表达另有旧用法背景。",
+    "examples": [
+      [
+        "She tilted her head to one side.",
+        "她把头歪向一边。"
+      ],
+      [
+        "The new evidence tilted the balance in her favour.",
+        "新证据让判断更偏向对她有利的一边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tilt"
+    ]
+  },
+  {
+    "word": "colon",
+    "ipa": "英 /ˈkəʊlən/；美 /ˈkoʊlən/",
+    "meaning": "冒号；结肠〔两条历史意义分支〕",
+    "sense": "写字时是上下两个点的符号“:”；身体里则是大肠的一部分。看到 colon，先看是在谈标点还是身体。",
+    "split": "标点义经拉丁 colon 接希腊 kōlon 肢节、句中分节，从句子的较大部分发展到分隔它的符号。结肠义接另一希腊 kolon 肠道名称，古希腊首元音长短与前者不同，最远来源未定。",
+    "history": [
+      [
+        "希腊 kōlon 肢节、分句 → 拉丁 colon → 标点名",
+        "由句子的部分到标示边界的冒号"
+      ],
+      [
+        "希腊 kolon → 拉丁 colon → 解剖名称",
+        "结肠；现代英语同形同音"
+      ]
+    ],
+    "explanation": "a colon before a list 列表前的冒号；the colon in a diagram 图里的结肠。医学词与标点词分别走自己的派生、组合路线。",
+    "usage": "use a colon；a section of the colon。",
+    "contrast": "semicolon 是分号；colonize 殖民接另一条 colonus 移居者、农夫词族，不由冒号或结肠直接加 -ize 解释。",
+    "examples": [
+      [
+        "Use a colon before the list of ingredients.",
+        "配料列表前用一个冒号。"
+      ],
+      [
+        "The diagram shows the position of the colon.",
+        "示意图标出了结肠的位置。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/colon",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/colon"
+    ]
+  },
+  {
+    "word": "camel",
+    "ipa": "/ˈkæməl/",
+    "meaning": "骆驼；驼色的〔修饰用法等〕",
+    "sense": "最直观是背上有驼峰的骆驼；a camel coat 在服装里则常说驼色大衣，借动物毛色给颜色命名。",
+    "split": "经早期英语、法语相关形式接拉丁 camelus、希腊 kamelos，更早来自闪米特语一类动物名称，与希伯来 gamal、阿拉伯语 jamal 等对应。不是英语 cam + el 两个现代词根。",
+    "history": [
+      [
+        "闪米特语动物名 → 希腊 kamelos → 拉丁 camelus",
+        "跨语言传播的骆驼名称"
+      ],
+      [
+        "早期英语、法语相应形式 → camel",
+        "动物名；按毛色等形成修饰用法"
+      ]
+    ],
+    "explanation": "a camel caravan 骆驼商队；a camel coat 驼色大衣。现实骆驼可有一个或两个驼峰，单说 camel 不限定某一种。",
+    "usage": "a camel in the desert；camel hair；a camel coat。",
+    "contrast": "camel coat 在服装语境常说颜色、材料风格，具体材质要看说明；不把动物名每次都只翻成一头骆驼。",
+    "examples": [
+      [
+        "The camel rested in the shade.",
+        "骆驼在阴凉处休息。"
+      ],
+      [
+        "She wore a camel coat and a dark scarf.",
+        "她穿着驼色大衣，围着深色围巾。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/camel"
+    ]
+  },
+  {
+    "word": "chap",
+    "ipa": "/tʃæp/",
+    "meaning": "家伙、小伙子、男人〔英式口语〕；使皮肤皲裂、干裂",
+    "sense": "人物名词是带随意口气的某个男人；皮肤相关动词说表面干裂。读句子时先分清是哪一种。",
+    "split": "人物义缩自 chapman，较早指商人、顾客，接古英语 ceapman 交易的人，后来泛指家伙。皮肤动词接中古英语 chappen 裂开，可能与 chop 等切裂材料有关，远源未定。",
+    "history": [
+      [
+        "chapman 商人、顾客 → chap",
+        "称普通男人的随意人物词"
+      ],
+      [
+        "中古英语 chappen → chap 动词",
+        "裂开、使皮肤皲裂的另一分支"
+      ]
+    ],
+    "explanation": "a friendly chap 友善的家伙；a young chap 年轻男子；cold winds chap the lips 冷风使嘴唇干裂。过去式、分词 chapped 双写 p。",
+    "usage": "a decent chap；chap the skin。",
+    "contrast": "cheap 便宜的与人物 chap 的旧交易词族有关；chapped 干裂的却接裂开动词。不要只看相同字母就合成一条故事。",
+    "examples": [
+      [
+        "A cheerful chap opened the door.",
+        "一个笑呵呵的男子开了门。"
+      ],
+      [
+        "The cold wind chapped her lips.",
+        "冷风使她的嘴唇干裂了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/chap"
+    ]
+  },
+  {
+    "word": "chapped",
+    "ipa": "/tʃæpt/",
+    "meaning": "〔皮肤、嘴唇〕干裂、皲裂的",
+    "sense": "冬天嘴唇表面干得发紧、出现小裂口，便是 chapped lips。它比泛泛的 dry 更具体，已经说到裂开。",
+    "split": "chap 的皮肤干裂动词 + -ed，双写 p。末尾 /p/ 后 -ed 读 /t/，整个词不额外加一个 /ɪd/ 音节。",
+    "history": [
+      [
+        "chap：使表面干裂",
+        "与中古英语裂开动词相连"
+      ],
+      [
+        "chap + -ed → chapped",
+        "已经干裂的表面状态"
+      ]
+    ],
+    "explanation": "chapped lips 干裂的嘴唇；chapped hands 皲裂的手。这里 chap 取皮肤动词义，不取男人、家伙的人物名词。",
+    "usage": "dry, chapped skin；chapped hands。",
+    "contrast": "dry 只说干，chapped 进一步说干裂状态；cracked 裂开的适用对象更广，玻璃、地面等也能用。",
+    "examples": [
+      [
+        "Her lips were chapped after the windy walk.",
+        "顶着风走了一段路后，她的嘴唇干裂了。"
+      ],
+      [
+        "His hands were dry and chapped in winter.",
+        "冬天他的双手干燥皲裂。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/chap"
+    ]
+  },
+  {
+    "word": "gill",
+    "ipa": "/ɡɪl/〔鳃、菌褶等常见义〕",
+    "meaning": "鳃；菌褶；腮部〔部分习语〕",
+    "sense": "鱼用鳃从水里取得氧；蘑菇帽下面一片片像薄鳃的结构，也叫 gills。先看到薄片、部位的形象，再看具体对象。",
+    "split": "中古英语 gille、gylle 接北欧语相关材料，与丹麦语、挪威语等鳃名相连；更远与唇、颌部位词的关系有重建分析，未完全确定。后来按形状、部位相似扩到菌褶及习语。",
+    "history": [
+      [
+        "北欧语相关材料 → 中古英语 gille、gylle",
+        "鳃的名称，更远关系不完全确定"
+      ],
+      [
+        "英语 gill 的相似部位与比喻扩展",
+        "鳃；蘑菇菌褶；腮部相关习语"
+      ]
+    ],
+    "explanation": "fish gills 鱼鳃；mushroom gills 菌褶；green around the gills 脸色发青、显得恶心不舒服；full to the gills 满得不能再满。",
+    "usage": "a fish’s gills；the gills under a mushroom cap。",
+    "contrast": "鱼鳃 gill 读 /ɡɪl/；旧液量单位 gill 读 /dʒɪl/，另接法语计量、容器名称。鳃、菌褶的复数 gills 读 /ɡɪlz/。",
+    "examples": [
+      [
+        "Fish use their gills to take oxygen from water.",
+        "鱼用鳃从水里取得氧。"
+      ],
+      [
+        "The mushroom had pale gills beneath its cap.",
+        "那只蘑菇的菌帽下面有浅色菌褶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gill#English"
+    ]
+  },
+  {
+    "word": "spectroscopic",
+    "ipa": "英 /ˌspektrəˈskɒpɪk/；美 /ˌspektrəˈskɑːpɪk/",
+    "meaning": "光谱的；光谱学、光谱分析的",
+    "sense": "把光里的信息摊成一排谱线或强弱分布，再用它研究物质；spectroscopic 描写与这类谱观察、分析有关的方法、证据。",
+    "split": "由 spectro- 谱与 -scopic 观察的相应形式构成，也有法语 spectroscopique 的借词对应。spectro- 接拉丁 spectrum 形象、呈现等词族，-scopic 接希腊 skopein 观察。",
+    "history": [
+      [
+        "拉丁 spectrum 材料与希腊观察材料进入科学构词",
+        "谱与观察两层关系"
+      ],
+      [
+        "spectro- + -scopic；法语相应形式",
+        "与光谱观察、分析有关的性质"
+      ]
+    ],
+    "explanation": "spectroscopic analysis 光谱分析；spectroscopic evidence 光谱证据；spectroscopic methods 光谱方法。并不局限于人眼能看到的彩色条纹。",
+    "usage": "spectroscopic data；spectroscopic observations。",
+    "contrast": "spectroscopy 是学科、分析活动名词，spectroscopic 是相关性质；spectrometer 则是测谱仪器的名称。",
+    "examples": [
+      [
+        "The researchers presented spectroscopic evidence for the compound’s structure.",
+        "研究人员展示了支持该化合物结构的光谱证据。"
+      ],
+      [
+        "The laboratory uses spectroscopic methods to study the sample.",
+        "实验室用光谱方法研究样品。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/spectroscopic"
+    ]
+  }
+]

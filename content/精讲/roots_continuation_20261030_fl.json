@@ -1,0 +1,140 @@
+[
+  {
+    "id": "B3432",
+    "meaning": "把对象和某个身份、名称对上",
+    "core": "IDENTIFY：这一个，到底是谁、是什么",
+    "image": "identify → identifiable 能被识别；identifier 用于识别。identify with 还能说经历对上、产生共鸣。",
+    "intro": "“同一个”的旧核心能连接认出身份与认同；但 identify a problem 也常只是找出问题，未必在查一个人的证件。",
+    "forms": "idem 同一个 → 法语 identité、identifier 等 → identify；identify + -able/-er，y 变 i。\n\n相同词族经法语进入英语，identified 把 y 变 i 加 ed。\n\n法语 identifier 借入，远连拉丁 idem 同一个；ing 前保留 y。\n\nidentify 经法语 identifier 接 identité 身份、同一性词族。现代辅音字母 + y 改 i 加 -es，读 /aɪz/ 结尾，不多一音节。",
+    "branches": [
+      [
+        "识别与认同动作",
+        "identify"
+      ],
+      [
+        "识别可能与识别依据",
+        "identifiable · identifier"
+      ],
+      [
+        "identify → identified：认出同一个、确定身份",
+        "identify · identified"
+      ],
+      [
+        "identify → identifying：把对象和身份对上",
+        "identify · identifying"
+      ],
+      [
+        "identity → identify → identifies",
+        "identifies"
+      ]
+    ],
+    "contrasts": "identify/identify with 认出与共鸣；identifiable/identical 能认出与相同；identifier/identity 标识与身份。",
+    "practice": "The identifier makes each record identifiable.\n\n标识符让每条记录都能被区分出来。",
+    "words": [
+      "identify",
+      "identifiable",
+      "identifier",
+      "identified",
+      "identifying",
+      "identifies"
+    ],
+    "exclude": {
+      "self-identify": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3357",
+    "meaning": "把新闻放进刊物，再命名报业从业者",
+    "core": "NEWSPAPER：新闻刊物；NEWSPAPERMAN：报业人物",
+    "image": "news + paper → newspaper；newspaper + man → newspaperman。",
+    "intro": "现代 newspaper 可以有网络版，不是离开纸张就绝不能这样叫。报人和送报者的工作角色也要分。",
+    "forms": "news + paper → newspaper；newspaper + man → newspaperman。",
+    "branches": [
+      [
+        "刊物",
+        "newspaper"
+      ],
+      [
+        "报业人物",
+        "newspaperman"
+      ]
+    ],
+    "contrasts": "newspaperman/paperboy 报业采编等与递送；newspaper/journalist 刊物与更广的新闻从业者。",
+    "practice": "The newspaperman wrote for a local newspaper.\n\n这位报人为一家地方报纸撰稿。",
+    "words": [
+      "newspaper",
+      "newspaperman"
+    ],
+    "exclude": {
+      "e-newspaper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4512",
+    "meaning": "吓人的动作，落到人的害怕状态",
+    "core": "SCARE → SCARED：吓到了，所以害怕",
+    "image": "scare 动作、一次惊吓 → scared 受惊、害怕；和 scary 吓人的角度对照。",
+    "intro": "别把两种形容词都只背“害怕”：scared 是里面的感受，scary 是让人产生这种感受的性质。",
+    "forms": "skirra → skerren 等 → scare；scare + -ed → scared。",
+    "branches": [
+      [
+        "吓与惊吓",
+        "scare"
+      ],
+      [
+        "感到害怕",
+        "scared"
+      ]
+    ],
+    "contrasts": "scared/scary 感受者与造成感受的事物；scare/care 不按加 s 构成反义。",
+    "practice": "The sudden noise scared me, and I was too scared to move.\n\n突然的响声吓到了我，我怕得不敢动。",
+    "words": [
+      "scare",
+      "scared"
+    ],
+    "exclude": {
+      "scaredy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scaredy-cat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4101",
+    "meaning": "像沿一条路走，观察总体方向",
+    "core": "TREND：看一串变化，不只看一个点",
+    "image": "trend → trending、trendy、trendsetter；uptrend/downtrend 用上下标方向。",
+    "intro": "正热议不等于时髦，时髦不等于首创；走势向上也不等于数值本来就高。把方向、热度、风尚角色分别理解。",
+    "forms": "trendan、trenden 转动等 → 朝某方向延伸 → trend 趋势；+ -ing/-y；trend + setter；up/down + trend。\n\n本族转、滚、延伸的旧词发展为趋势，现代网络流行义后扩展。",
+    "branches": [
+      [
+        "基础与流行状态",
+        "trend · trending · trendy"
+      ],
+      [
+        "带起潮流的角色",
+        "trendsetter"
+      ],
+      [
+        "总体方向",
+        "uptrend · downtrend"
+      ],
+      [
+        "trend → trends：朝哪个方向走",
+        "trend · trends"
+      ]
+    ],
+    "contrasts": "trending/trendy 热议与时髦；trendsetter/follower 引领与跟随；uptrend/high 方向与水平。",
+    "practice": "The trendy café became a trending topic, and its visitor numbers showed an uptrend.\n\n这家时髦咖啡馆成了热门话题，到访人数也呈上升趋势。",
+    "words": [
+      "trend",
+      "trending",
+      "trendy",
+      "trendsetter",
+      "uptrend",
+      "downtrend",
+      "trends"
+    ],
+    "exclude": {
+      "trend-busting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

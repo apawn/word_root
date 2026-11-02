@@ -1,0 +1,145 @@
+"""Bay's homonyms; capacity in circuits; forest loss and regrowth."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+B=[['法语 baie、晚期拉丁 baia → bay〔海湾〕','海岸、湖岸凹进去的水域；深源不定'],['古法语 baee、开口词 → bay〔建筑、隔间〕','开口、柱间空处 → 车位、装卸区、舱格等'],['法语 baie、拉丁 bāca 等果实词 → bay〔月桂〕','浆果 → 月桂树、月桂叶'],['法语 bai、拉丁 badius → bay〔马色〕','棕红色'],['古法语 bayer 等 → bay〔吠叫〕、at bay 习语','猎犬追逼的吠叫 → 受困、阻住逼近']]
+W('bay','/beɪ/','海湾；隔间、装卸区；月桂；棕红色〔马〕；吠叫',
+ '地图上的湾、车站或工厂里划出的格位、汤里的月桂叶，都能见到 bay，但不是每种都能从海湾演变出来。',
+ '海湾接法语 baie、拉丁 baia；建筑隔间接开口词 baee；月桂接果实词；马色接 bai、badius；犬吠接 bayer。多条旧词路线同形，不能硬串成湾里长树、树下有马。',B,
+ 'a sheltered bay 避风海湾，a loading bay 装卸区，a bay window 凸窗，bay leaves 月桂叶，a bay horse 棕红马；keep at bay 阻止靠近、控制住。',
+ 'a loading bay；a bay window；bay leaves；a bay horse；keep at bay。',
+ 'keep problems at bay 是阻住问题，不是把问题带到海湾；bay leaves 是月桂叶，不是生长在湾边的一切叶子。',
+ ('Small boats were anchored in the bay.','小船停泊在海湾里。'),('The truck stopped at the loading bay.','卡车停在装卸区。'),('She added a bay leaf to the soup.','她往汤里加了一片月桂叶。'),('Careful planning kept the problems at bay.','周密规划使问题没有冒出来。'),
+ sources=['https://en.wiktionary.org/wiki/bay#English','https://www.etymonline.com/word/bay'])
+W('bayside','/ˈbeɪsaɪd/','海湾边、湾边地区；海湾边的',
+ '地点贴着湾岸一带，side 在这里是边上、附近区域，不是海湾的内心。',
+ 'bay 海湾 + side 边、旁，合成地方名词或修饰位置的词。接海湾分支，不接月桂、马色。',B[:1]+[['bay + side → bayside','湾岸附近地区、湾边的']],
+ 'a bayside town 海湾边小镇，a bayside café 湾边咖啡馆，walk along the bayside 沿湾边走。',
+ 'a bayside town；a bayside café；along the bayside。',
+ 'bayside 在湾旁，seaside 在海边更宽；名称常入地名，具体哪座名为 Bayside 的地方要看上下文。',
+ ('We stayed in a small bayside town.','我们住在海湾边的一座小镇。'),('The bayside café has tables outside.','那家湾边咖啡馆在外面设有座位。'))
+W('bayfront','/ˈbeɪfrʌnt/','湾岸、临湾地带；临湾的',
+ '面向海湾、靠着水边的一线地带，front 有朝向水面的前沿感觉。',
+ 'bay 海湾 + front 前沿，合成临湾地点、建筑的称呼，名词或修饰语均可。',B[:1]+[['bay + front → bayfront','面向海湾的岸线地带、临湾的']],
+ 'a bayfront hotel 临湾旅馆，the bayfront promenade 湾岸步道，bayfront property 临湾房产。',
+ 'a bayfront hotel；the bayfront promenade；bayfront property。',
+ 'bayfront 较强调面对湾的一线位置，bayside 较宽泛说湾边；具体地产广告用词仍需看真实位置，不单凭名称保证景观。',
+ ('The bayfront hotel overlooks the water.','临湾旅馆俯瞰水面。'),('They walked along the bayfront promenade.','他们沿湾岸步道散步。'))
+R('B3873','海湾与临湾位置；其他 bay 同形来源','BAY：先分哪条历史，再接湾岸的位置词','bay 内分海湾、建筑隔间、月桂、马色、犬吠等来源；bayside、bayfront 只接海湾分支。',
+ '同拼写不保证一条词根线。keep at bay 不放到海湾去，bay leaf 也不是任意海边叶片。',
+ '法语 baie 等 → 海湾 bay；海湾 + side/front；其他 bay 接开口、果实、马色、吠叫的不同旧形式。',
+ [['多源基础词','bay'],['海湾岸边位置','bayside · bayfront']],
+ '海湾与 loading bay 隔间不同来源；月桂叶、马色另源；keep at bay 追逼语境的习语；bayside/bayfront 位置侧重略不同。',
+ 'The bayside town built a new bayfront promenade.\n\n海湾边小镇修建了一条新湾岸步道。','bay bayside bayfront')
+C=[['拉丁 capax〔词干 capac-〕、capācitās → 法语 capacité → capacity','能容纳 → 容量、能力'],['现代 capacit- 技术词干','接器件、性质后缀，命名储电能力和器件']]
+W('capacitor','英 /kəˈpæsɪtə/；美 /kəˈpæsɪtər/','电容器',
+ '电路里能把正负电荷分开储存、在电场中存能量的器件。可以借能暂存的“小容器”联想，但它不是一只装满电流的水桶。',
+ '从 capacity 容量词族的 capacit- + -or 构成器件名，名字强调储电能力。与 capacitance 同族，不表示 capacitor 是一个会装东西的人。',
+ C+[['capacit- + -or → capacitor','具有储电能力的器件']],
+ 'a capacitor in a circuit 电路中的电容器，a capacitor’s value 电容器标称电容量，a variable capacitor 可变电容器。',
+ 'a capacitor；a variable capacitor；a capacitor in a circuit。',
+ 'capacitor 是器件，capacitance 是电容量；电池和电容器都可与储能有关，但机制不等同。',
+ ('The diagram shows a capacitor beside the resistor.','图中电阻旁边画着一个电容器。'),('The technician identified the capacitor on the board.','技术人员认出了电路板上的电容器。'),
+ sources=['https://en.wiktionary.org/wiki/capacitor#English','https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance'])
+W('capacitance','/kəˈpæsɪtəns/','电容、电容量〔物理量〕',
+ '比较在相同电压下能分开储存多少电荷；这项能力的量就是 capacitance，不是器件本身的尺寸名称。',
+ '由 capacity 相关词干 capacit- + -ance，专化为电学储电能力。-ance 形成性质名词，不说 capacity 原样加 ance。',
+ C+[['capacit- + -ance → capacitance','储电能力对应的电学量']],
+ 'measure capacitance 测电容量，a capacitance value 电容值，capacitance in farads 以法拉计的电容量。',
+ 'measure capacitance；a capacitance value；capacitance in farads。',
+ 'capacitance 是量，capacitor 是物件；电容量不等于此刻电荷量，测量与使用条件也要区分。',
+ ('The instrument measures capacitance.','这台仪器测量电容量。'),('The textbook gives capacitance in farads.','教材用法拉表示电容量。'),
+ sources=['https://en.wiktionary.org/wiki/capacitance#English','https://www.etymonline.com/word/capacitance','https://openstax.org/books/university-physics-volume-2/pages/8-1-capacitors-and-capacitance'])
+W('capacitive','/kəˈpæsɪtɪv/','电容性的、与电容作用有关的',
+ '某个元件、系统利用电容效应工作，或表现出这种电学性质；不是笼统说容量特别大。',
+ 'capacity 词族的 capacit- + -ive，形成电容性质相关的形容词。',C+[['capacit- + -ive → capacitive','电容性的、利用电容效应的']],
+ 'a capacitive sensor 电容式传感器，a capacitive touchscreen 电容式触摸屏，capacitive coupling 电容耦合。',
+ 'a capacitive sensor；a capacitive touchscreen；capacitive coupling。',
+ 'capacitive 是电学性质，不等于 capable 有能力的；capacitive screen 并不在说屏幕像仓库一样能装很多东西。',
+ ('The device uses a capacitive sensor.','这个装置使用电容式传感器。'),('The manual identifies the screen as capacitive.','手册注明屏幕采用电容式技术。'))
+W('incapacity','/ˌɪnkəˈpæsɪti/','无能力、缺乏能力；不能履行职责的状态',
+ '本来要求能理解、工作或完成某项任务，这方面能力却缺失或不足。不是只说这只杯子容量小。',
+ 'in- 否定 + capacity 能力；与拉丁、法语的对应否定名词有历史联系，现代直接看没有相应能力。',C[:1]+[['in- + capacity → incapacity','缺少相应能力、不能履职的状态']],
+ 'incapacity to act 无力行动，incapacity for work 无法工作的状态，temporary incapacity 暂时丧失能力。法律、医疗语境有具体定义。',
+ 'incapacity to；incapacity for work；temporary incapacity。',
+ 'incapacity 较正式，说能力缺失、无法履行；unwillingness 不愿意是态度，不能因为不想做就判为做不到。',
+ ('The report described his temporary incapacity for work.','报告描述了他暂时无法工作的状态。'),('The novel portrays a leader’s incapacity to make decisions.','小说描绘了一位领导者无力作决定的处境。'))
+W('overcapacity','英 /ˌəʊvəkəˈpæsɪti/；美 /ˌoʊvərkəˈpæsɪti/','产能过剩、容量过剩',
+ '能造、能装的量比实际需要多：厂房和机器都备着，却没有那么多订单把它们用满。',
+ 'over- 过多 + capacity 能力、产能，名词说可供能力超出需求。',C[:1]+[['over- + capacity → overcapacity','供应、生产能力相对需求过多']],
+ 'industrial overcapacity 工业产能过剩，excess capacity and overcapacity 过剩能力，overcapacity in the industry 行业产能过剩。',
+ 'industrial overcapacity；overcapacity in；reduce overcapacity。',
+ 'overcapacity 常过剩产能，overload 常实际负荷超出能承受的限度；有多余工厂与把一台机器压得太满方向不同。',
+ ('The industry faced overcapacity after demand fell.','需求下降后，行业面临产能过剩。'),('The report links idle factories to overcapacity.','报告把闲置工厂与产能过剩联系起来。'))
+R('B4222','容纳、能力、产能与电学储电能力','CAPACITY：能装、能做多少，再分器件、物理量与是否过剩','capacity 为基础，incapacity、overcapacity 分缺少能力与多余产能；capacitor、capacitance、capacitive 集中讲电学分支。',
+ 'capacity 的能力义和体积义不同。电容器是物件，电容量是量；产能过剩也不等于机器超负荷。',
+ 'capax、capācitās 经法语 → capacity；in-/over- + capacity；capacit- + -or/-ance/-ive。',
+ [['一般能力和数量','capacity · incapacity · overcapacity'],['电学器件、量与性质','capacitor · capacitance · capacitive']],
+ 'capacitor/量capacitance/形容capacitive；incapacity 非不愿意；overcapacity 过剩产能非 overload 超负荷。',
+ 'The textbook explains a capacitor and its capacitance.\n\n教材解释了电容器及其电容量。','capacity incapacity overcapacity capacitor capacitance capacitive')
+F=[['中世纪拉丁 forestis → 古法语 forest → 中古英语 forest → forest','林地、狩猎保留地等 → 森林'],['更早来源存在不同分析','常联系 foris 外面，也有其他日耳曼或法律背景分析，不能强定唯一链']]
+def FH(f,m):return F[:1]+[[f,m]]
+W('forest','英 /ˈfɒrɪst/；美 /ˈfɔːrɪst/','森林；林立的大量事物〔比喻〕',
+ '一大片树木组成的林地；很多桅杆、高楼、天线密密立着，也可像 a forest of masts 那样借森林作比喻。',
+ '经古法语 forest 接中世纪拉丁 forestis，历史还涉及狩猎保留地。更早常联系 foris 外部，但有其他分析，不把 outside + 木头当唯一已证事实，也不从现代 for + rest 拆成休息场所。',F,
+ 'a dense forest 茂密森林，forest animals 森林动物，a forest of masts 桅杆林；cannot see the forest for the trees 因细节而看不清整体〔亦有 wood 版本〕。',
+ 'a dense forest；forest animals；a forest of；the forest for the trees。',
+ 'forest 大片森林，wood/woods 也可林地，实际用法有地区和语境差别；历史 royal forest 不保证每一寸都密密长树。',
+ ('A dense forest covered the hillside.','山坡上覆盖着茂密森林。'),('A forest of masts filled the harbour.','港口里桅杆林立。'),
+ sources=['https://en.wiktionary.org/wiki/forest#English','https://www.etymonline.com/word/forest'])
+W('forested','英 /ˈfɒrɪstɪd/；美 /ˈfɔːrɪstɪd/','被森林覆盖的、有林的',
+ '山坡、地区上面树木成林，形容覆盖状态，不保证这片林全是人刚种下去的。',
+ 'forest + -ed，既可对应动词分词，也有形容词覆盖的用法。forest 末尾 /t/，加 -ed 通常读 /ɪd/。',FH('forest + -ed → forested','覆盖着森林的、成林的'),
+ 'a forested hillside 有林山坡，heavily forested 森林覆盖密集，a forested region 林区。',
+ 'a forested hillside；heavily forested；a forested region。',
+ 'forested 描述树木覆盖，deforested 则已失去林地；forested 不等于一定原始森林或一定人工林。',
+ ('The road runs through a heavily forested valley.','道路穿过一条森林密布的山谷。'),('The island’s interior is densely forested.','岛屿内陆森林茂密。'))
+W('forester','英 /ˈfɒrɪstə/；美 /ˈfɔːrɪstər/','林业人员、护林或森林管理人员',
+ '工作是照看、管理林地，考虑树木、生长和利用，不只是碰巧走进林子的人。',
+ '中古英语 forester 借古法语 forestier，现代可对应 forest + -er。保留旧职业名借入史，不把每个 -er 都当现代现造。',FH('古法语 forestier → 中古英语 forester → forester','管理、守护森林的人员'),
+ 'a professional forester 专业林业人员，work as a forester 从事林业管理，a local forester 当地林业人员。',
+ 'a professional forester；work as a forester；a local forester。',
+ 'forester 职业，hiker 徒步者；forest ranger 与 forester 职责可重叠，具体岗位依机构，不是所有住在林边的人都自动是林务人员。',
+ ('The forester checked the health of the trees.','林业人员检查了树木的健康状况。'),('We spoke to a local forester about the woodland.','我们向当地林业人员了解了这片林地。'))
+W('forestry','英 /ˈfɒrɪstri/；美 /ˈfɔːrɪstri/','林业、森林经营与管理领域',
+ '把种植、管理、保护、利用森林作为一整套工作、学科来说，不指一位管树林的人。',
+ '有古法语 foresterie 等历史背景，接 forest、forester 的职业领域词族。现代可从森林管理这个整体理解，不随意把 -ry 当树木复数后缀。',FH('古法语 foresterie 等 → forestry','森林管理、林业这一领域'),
+ 'study forestry 学林业，sustainable forestry 可持续林业，a forestry department 林业部门。',
+ 'study forestry；sustainable forestry；a forestry department。',
+ 'forester 人，forestry 行业、学科；forest 森林本体。林业不只伐木，范围还包括经营管理等。',
+ ('She studied forestry at university.','她在大学学习林业。'),('The course covers sustainable forestry.','这门课涵盖可持续林业。'))
+W('deforest','英 /diːˈfɒrɪst/；美 /diːˈfɔːrɪst/','清除森林、使失去森林覆盖',
+ '原来地上是一片林，树被大片移除，土地不再有原来的森林覆盖；de- 在这里去掉。',
+ 'de- 去除 + forest，构成移除林地覆盖的动词，与法语对应动词也有联系。不是对森林不给分。',FH('de- + forest → deforest','使土地失去森林覆盖'),
+ 'deforest an area 清除某地森林，deforested land 失林土地，a deforested hillside 被清除林木的山坡。',
+ 'deforest an area；deforested land；a deforested hillside。',
+ 'deforest 强调大片失去森林，不是修剪某一根树枝；reforest 是重新造林的相反方向，实际成林还涉及时间与条件。',
+ ('Large areas were deforested for farmland.','大片森林被清除，改作农田。'),('The map shows how much land has been deforested.','地图显示有多少土地已失去森林覆盖。'))
+W('deforestation','英 /diːˌfɒrɪˈsteɪʃən/；美 /diːˌfɔːrɪˈsteɪʃən/','森林砍伐、毁林；失去森林覆盖的过程',
+ '把森林成片变没这件事作为过程、现象来谈；不只是今天某个人砍了一根枝条。',
+ 'deforest + -ation，名词命名森林覆盖被清除的过程。重音落在 -sta- 处，不能照 deforest 原重音直接拖尾。',FH('deforest + -ation → deforestation','森林消失、被清除的过程'),
+ 'the rate of deforestation 森林砍伐速度，reduce deforestation 减少毁林，causes of deforestation 毁林原因。',
+ 'the rate of deforestation；reduce deforestation；causes of deforestation。',
+ 'deforestation 森林减少或被改作其他用途的过程，forestry 林业领域；两者不是负面与正面的同一个后缀变形。',
+ ('The report tracks deforestation over twenty years.','报告追踪了二十年的森林减少情况。'),('The class discussed the causes of deforestation.','课堂讨论了毁林的原因。'))
+W('reforest','英 /ˌriːˈfɒrɪst/；美 /ˌriːˈfɔːrɪst/','重新造林、使重新成林',
+ '原来森林被移除或受损，再让那片地长起森林；re- 说重新，和 deforest 去掉森林的方向相反。',
+ 're- 再、重新 + forest，构成恢复森林的动词。具体怎样恢复，按上下文的项目做法理解。',FH('re- + forest → reforest','使土地再次有森林'),
+ 'reforest the hillside 使山坡重新成林，reforest damaged land 恢复受损地的森林，a plan to reforest 重新造林计划。',
+ 'reforest the hillside；reforest damaged land；a plan to reforest。',
+ 'reforest 是恢复方向，不保证种下苗木就已长成成熟森林；reforestation 把这个过程当名词讨论。',
+ ('The community plans to reforest the hillside.','社区计划让山坡重新成林。'),('The project aims to reforest land cleared decades ago.','项目旨在恢复几十年前被清除林木的土地。'))
+W('reforestation','英 /riːˌfɒrɪˈsteɪʃən/；美 /riːˌfɔːrɪˈsteɪʃən/','重新造林、森林恢复',
+ '原来有林、后来没了或受损，再让林地恢复，不是简单把所有空地都种成同一种树。',
+ 'reforest + -ation；reforest 对应 re- 再 + forest。名字说明重新成林的方向，不保证一个项目已经长成成熟森林。',FH('re- + forest → reforest；加 -ation → reforestation','重新恢复森林的过程'),
+ 'a reforestation project 重新造林项目，reforestation efforts 森林恢复工作，fund reforestation 资助重新造林。',
+ 'a reforestation project；reforestation efforts；fund reforestation。',
+ 'reforestation 重新恢复林地，afforestation 常在原本较长期无林土地造林；具体专业界定看材料，两者都不等于已经形成成熟天然林。',
+ ('The community started a reforestation project.','社区启动了一个重新造林项目。'),('The plan includes long-term support for reforestation.','计划包括对森林恢复的长期支持。'))
+R('B3298','森林、林业人员与失林、恢复过程','FOREST：一大片林地，再问谁管理、怎样失去和恢复','forest → forested；forester、forestry 分人物领域；deforest → deforestation 与 reforestation 对看；rainforest 接气候环境。',
+ 'forest 的深源有不同分析，近源法语、拉丁路径可靠。失去森林和重新造林是过程，不能把种下一批苗等同已经恢复全部森林生态。',
+ 'forestis 经法语 → forest；forest + -ed；forestier、foresterie → forester、forestry；de-/re- + forest；-ation 命名过程。',
+ [['林地与覆盖','forest · forested · rainforest'],['人员与领域','forester · forestry'],['失林、恢复的过程','deforest · deforestation · reforest · reforestation']],
+ 'forest 非 for + rest；forester 人、forestry 领域；deforestation 失林、reforestation 恢复；forested 不保证原始或人工。',
+ 'The forester studied deforestation and helped plan reforestation.\n\n林业人员研究毁林情况，并帮助规划森林恢复。','forest forested rainforest forester forestry deforest deforestation reforest reforestation')
+if __name__=='__main__':save('continuation_20261030_dr',ROOTS,WORDS)

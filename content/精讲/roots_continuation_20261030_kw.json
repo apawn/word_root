@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A1733",
+    "meaning": "相同、同类、相似；具体相同在哪里由后部与领域决定",
+    "core": "HOMO：共同点是出发点，整词定义仍须具体",
+    "image": "homogeneous、homophone、homonym 等看相同的维度；homolog、homocysteine 看专业关系；homophobia 相关词还涉及缩短成分。",
+    "intro": "不能把所有 homo- 都翻成完全一样，也不能把希腊 homos 相同与拉丁 homo 人直接混成一条词源。专业词、社会词各有自己的约定。",
+    "forms": "希腊 homos → homo-、hom-；-genous 来源性质，-log 相应关系；cysteine 化合物名，morphism 结构映射；-phobe 从相应恐惧、敌意词族形成。",
+    "branches": [
+      [
+        "均一、同音与同名",
+        "homogeneous · homogenous · homophone · homonym"
+      ],
+      [
+        "同源、同系与结构关系",
+        "homologous · homolog · homocysteine · homomorphism · homozygous"
+      ],
+      [
+        "性取向及相关社会态度词",
+        "homosexuality · homosexual · homoerotic · homophobia · homophobe · homophobic"
+      ]
+    ],
+    "contrasts": "homogenous 有 homogeneous 变体用法；生物同源不要求完全相同；homomorphism 不保证可逆；-phobe 社会用法不等于临床诊断。",
+    "practice": "The lesson contrasts identical spelling, common ancestry, and a structure preserving map.\n\n这一课对比相同拼写、共同来源和保结构映射三种不同关系。",
+    "words": [
+      "homogeneous",
+      "homogenous",
+      "homophone",
+      "homonym",
+      "homologous",
+      "homolog",
+      "homocysteine",
+      "homomorphism",
+      "homozygous",
+      "homosexuality",
+      "homosexual",
+      "homoerotic",
+      "homophobia",
+      "homophobe",
+      "homophobic"
+    ],
+    "exclude": {}
+  }
+]

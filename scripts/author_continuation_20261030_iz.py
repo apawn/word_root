@@ -1,0 +1,145 @@
+"""Rebelling, knocking, peacefulness, teenage words and traps."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('rebelling','/rɪˈbelɪŋ/','反抗、叛逆这一行为；正在反抗',
+ '不再照着别人给的要求走，主动顶回去、抵抗。可以是政治反抗，也可以是孩子对过严规则的不服。',
+ 'rebel 动词 + -ing，因末尾音节重读而双写 l；名词过程用法在中古英语已有。来源联系拉丁 rebellāre、法语 rebeller，不接英语 bell 铃。',
+ [['拉丁 rebellāre → 法语 rebeller → rebel 动词','反抗；现代动词后重读 /rɪˈbel/'],['rebel + -ing → rebelling','反抗行为、感觉或进行中的动作']],
+ 'rebelling against rules 反抗规则，rebelling against convention 反抗惯例，an act of rebelling 一次反抗行为。',
+ 'rebelling against；an act of rebelling。',
+ 'rebelling 跟随动词后重读，名词 rebel 反抗者却常前重读。rebellion 是更固定的反抗、叛乱名词，不必每次都换成 rebelling。',
+ ('The teenagers were rebelling against the strict rules.','青少年们正在反抗那些严苛规则。'),('She saw her decision as a way of rebelling against convention.','她把自己的决定看作反抗惯例的一种方式。'))
+R('B4157','反过来抵抗，与人物、事件、态度和动作的区分','REBEL：不再照要求走，起而反抗','rebel → rebelling；rebellion 反抗事件或状态；rebellious 反抗、叛逆的性质。',
+ '从作战的远源走到政治和日常抵抗，不要把所有 rebel 都译成正式武装叛乱。名词、动词重音也要分开。',
+ 're- + bellāre → rebellāre；法语 rebelle/rebeller → rebel；接 -ing 时双写 l。',
+ [['人物、性质、事件与动作','rebel · rebellious · rebellion · rebelling']],
+ '名词 rebel 前重读，动词及 rebelling 后重读；不是英语铃 bell 加前缀。',
+ 'The rebellious character sees rebelling as a way to express disagreement.\n\n那个叛逆角色把反抗看作表达不同意见的方式。','rebel rebellious rebellion rebelling')
+K=[['古英语 cnocian 等 → 中古英语 knokken → knock','敲、击打，远处可能有拟声关系'],['动作和声音扩展','敲门、碰击；批评、挫折等'],['固定组合、人物与物件','knocker 门环或批评者；knockoff 仿品；knockout 击倒或淘汰制']]
+W('knock','英 /nɒk/；美 /nɑːk/','敲、碰撞；敲击声；打击、挫折；批评',
+ '手指敲门是 knock，杯子被碰倒也可能是 knock；信心像挨了一下，叫 take a knock。言语上贬低别人，也借这个击打的感觉。',
+ '接古英语 cnocian、cnucian 等旧形式。现代开头 k 不发音；实体击打、声响扩到批评、挫折，不是英语 no 加 ck。',K[:2],
+ 'knock on the door 敲门，knock a glass over 碰倒杯子，take a knock 受挫，Don’t knock it. 别贬它、别急着批评。',
+ 'knock on；knock over；take a knock；don’t knock it。',
+ 'knock 与 tap 都可敲，knock 常更有撞击、敲门感，tap 常较轻；knockdown 等固定组合也不能脱离后半只看一次击打。',
+ ('Someone knocked on the door.','有人敲门。'),('The setback knocked her confidence.','这次挫折打击了她的信心。'))
+W('knocker','英 /ˈnɒkə/；美 /ˈnɑːkər/','门环、叩门器；敲击者；爱贬低、批评的人〔口语〕',
+ '门上吊一个能提起敲响的金属件，是 a door knocker；口语里的 knocker 也可能是总给人泼冷水、贬低事情的人。',
+ 'knock + -er，可命名执行者或器具。批评者义接 knock 贬低；常见门环不是一位站在门里的敲门人。',K[:2]+[['knock + -er → knocker','敲击装置、人物；贬低者这一评价']],
+ 'a brass door knocker 黄铜门环，a heavy knocker 厚重叩门器，the knockers 对某事爱挑刺、贬低的人。knockers 另有胸部的粗俗复数俚语，读语境识别。',
+ 'a brass door knocker；a heavy knocker。',
+ 'knocker 不总是人；复数 knockers 的人物评价、身体俚语与普通多个门环分语境，不把它们都算同一物件。',
+ ('The old door had a brass knocker.','旧门上有一个黄铜门环。'),('The article answered the project’s knockers.','文章回应了那些贬低这个项目的人。'))
+W('knockoff','英 /ˈnɒkɒf/；美 /ˈnɑːkɔːf/，也读 /ˈnɑːkɑːf/','仿品、廉价模仿品',
+ '看起来借了别人的设计，却不是原作、原版，常被叫 knockoff。语气通常嫌它只是模仿，不是另有独创。',
+ '由 knock off 的做出、赶制等用法形成固定名词，后来常指模仿品。不能按 knock 敲 + off 离开直译成掉下来的敲击。',K[:1]+[['knock off 的赶制、模仿用法 → knockoff','模仿现成设计的产品，常指廉价仿品']],
+ 'a cheap knockoff 廉价仿品，a knockoff of a designer bag 某设计师包款的仿品，spot a knockoff 认出仿品。',
+ 'a cheap knockoff；a knockoff of；spot a knockoff。',
+ 'knockoff 主要评价模仿、非原版；counterfeit 更明确涉及假冒真实来源、真品身份的说法，不能仅凭一个口语标签概括全部法律性质。',
+ ('The watch turned out to be a cheap knockoff.','那块表原来是廉价仿品。'),('The reviewer called the film a knockoff of an earlier comedy.','评论者说这部电影只是对一部早期喜剧的模仿。'))
+W('knockout','英 /ˈnɒkaʊt/；美 /ˈnɑːkaʊt/','击倒获胜；淘汰赛制；令人惊艳的人或物〔口语〕',
+ '拳击里让对手不能按规则继续比赛，可以是 knockout；赛制里输了就离开，是 knockout format。夸外观、表现惊艳，又把强烈冲击感借来。',
+ 'knock out 的固定名词、修饰形式。由击倒、退出的动作形成体育用法，后来扩到惊人效果；不是每个 knockout 都真的使人失去意识。',K[:2]+[['knock out → knockout','击倒获胜、淘汰制'],['强烈效果的口语扩展','令人惊艳的人、作品等']],
+ 'win by knockout 以击倒方式获胜，a knockout tournament 淘汰赛，a knockout performance 极出色的表现。',
+ 'win by knockout；a knockout tournament；a knockout performance。',
+ '淘汰制 knockout 是赛程结构，不要求参赛者被打晕。a knockout 作人物赞美又比较随意，正式场合按具体表现描述更清楚。',
+ ('The cup uses a knockout format.','这项杯赛采用淘汰制。'),('She gave a knockout performance in the final scene.','她在最后一幕的表现极其出色。'))
+R('B3379','敲击及批评、仿制、击倒和淘汰的固定扩展','KNOCK：一下碰击，组合词再各自固定','knock → knocker；knockdown、knockout 看结果和赛制；knockoff 看仿制义。',
+ '别只靠字面猜整词。knocker 能是物件，knockout 能是赛制，knockoff 甚至和敲击声音没什么现代直接关系。',
+ 'cnocian → knock；knock + -er；knock down/out/off 的固定用法形成名词、修饰形式。',
+ [['基础动作与器具、人物','knock · knocker'],['结果、赛制与模仿品','knockdown · knockout · knockoff']],
+ 'k 不发音；knockout 赛制不是打晕赛；knockoff 是模仿品，knocker 不总是人。',
+ 'The knock on the door came from a visitor who admired the old brass knocker.\n\n敲门的是一位欣赏那旧黄铜门环的访客。','knock knocker knockdown knockout knockoff')
+W('peacefulness','/ˈpiːsfəlnəs/','安宁、平和；和平、不具攻击性的状态',
+ '湖边无人喧哗的宁静，或一个人不以冲突回应的平和，都可用这个名词表达。具体是环境、内心还是行为，要看前后文。',
+ 'peaceful + -ness，peace + -ful 先说平和、安宁，再把性质变成名词。不是 peace + fullness 的满额。',
+ [['拉丁 pax → 法语 pais/pes → 英语 peace','和平、安宁'],['peace + -ful → peaceful；再接 -ness','安宁的性质 → peacefulness 这一状态']],
+ 'the peacefulness of the garden 花园的宁静，a sense of peacefulness 平和感，the peacefulness of the gathering 集会的和平状态。',
+ 'the peacefulness of；a sense of peacefulness。',
+ 'peacefulness 常突出平静、平和的性质，peace 可更直接说和平、和解。安静 quietness 与平和有交叠，但 quiet 不一定说明没有敌意。',
+ ('She enjoyed the peacefulness of the garden.','她喜欢花园里的宁静。'),('The music gave him a sense of peacefulness.','音乐让他感到平和。'))
+R('B4430','和平、安宁的性质、方式与状态名词','PEACEFUL：平和的；PEACEFULLY：平和地；PEACEFULNESS：平和状态','peaceful → peacefully / peacefulness。',
+ '不只说国家有没有战争，也可说环境、神态和互动。换词尾是在换句子里承担的任务。',
+ 'peace + -ful；peaceful 接 -ly、-ness。',
+ [['性质、方式和状态','peaceful · peacefully · peacefulness']],
+ 'peacefully 副词，peacefulness 名词；环境安静不一定与所有社会关系都和平同义。',
+ 'They sat peacefully, enjoying the peacefulness of the room.\n\n他们平静地坐着，享受房间里的安宁。','peaceful peacefully peacefulness')
+E=[['数词 thirteen 到 nineteen 的 -teen','十三到十九这一组年龄的名称基础'],['teen、teenage、teenager 的形成与重分析','现代常把 teen 当 teenager 缩称；但 teen 名词本身也有更早记录'],['teeny 极小的另线','tiny 的口语变化，不必经过青少年词义']]
+W('teen','/tiːn/','十三至十九岁的青少年；青少年相关的',
+ '英语 thirteen、fourteen 一直到 nineteen 都有 -teen，这段年龄被装进 teen 这个短词。中文青少年可用得更宽，英语这个数词线更具体。',
+ '现代常用作 teenager 的缩称；年龄基础接 -teen 数词尾，teen 名词也有早于现代 teenager 的记录，所以不把全部历史画成较长词先出现再被剪短。',E[:2],
+ 'a teen reader 青少年读者，teen fiction 青少年小说，in her teens 在她十几岁时，early teens 十几岁的前段。',
+ 'a teen reader；teen fiction；in her teens；early teens。',
+ 'teen 的常规年龄是十三到十九，不把所有未成年人都自动包括；teeny 极小的常用形容词又走 tiny 的另一路。',
+ ('The library has a reading club for teens.','图书馆设有青少年读书俱乐部。'),('She started writing stories in her early teens.','她十三四岁时就开始写故事。'),sources=['https://en.wiktionary.org/wiki/teen#English','https://www.etymonline.com/word/teenager'])
+W('teenaged','/ˈtiːneɪdʒd/','十三至十九岁的；青少年时期的',
+ 'ten years old 十岁，teenaged 则把年龄直接归到十三至十九这一段。它是修饰人的形容词，不是又一类更年轻的少年。',
+ 'teen 年龄段 + aged 有相应年龄的，或对应 teenage 加 -d 的形态。末尾 aged 在此读 /eɪdʒd/，整词没有额外的 /ɪd/。',E[:2]+[['teen + aged → teenaged','处在十三至十九岁年龄段的']],
+ 'a teenaged daughter 十几岁的女儿，teenaged readers 青少年读者，her teenaged years 她的青少年时期。',
+ 'a teenaged daughter；teenaged readers。',
+ 'teenaged 与 teenage 常可在形容词位置交叠，teenager 才是人称名词；不说 a teenaged 就自动当一个人的常规名词称呼。',
+ ('They have a teenaged daughter.','他们有个十几岁的女儿。'),('The programme was designed for teenaged readers.','这个项目是为青少年读者设计的。'))
+W('teeny','/ˈtiːni/','极小的、很小很小的〔口语〕',
+ 'tiny 已经很小，teeny 像把语气说得更轻、更可爱：就那么一点点。它通常不在说年龄。',
+ '常用形容词是 tiny 的变化形式，带口语、童语或夸张色彩。另有由 teen 形成的少见人物名词同形，但不能拿它解释极小这一常用义。',E[2:]+[['tiny → teeny','极小这一性质的口语变体']],
+ 'a teeny bit 极少一点，a teeny hole 小小的洞，a teeny mistake 小小的错误。',
+ 'a teeny bit；a teeny hole；a teeny mistake。',
+ 'teeny 的大小义不是 teen + -y 的青少年性质，也不是精确单位。说 a teeny problem 常有淡化、玩笑意味。',
+ ('There is a teeny hole in the fabric.','布上有个小小的洞。'),('Could you move it a teeny bit to the left?','你能把它往左挪一点点吗？'),sources=['https://en.wiktionary.org/wiki/teeny#English','https://www.etymonline.com/word/teeny'])
+R('B3153','十三至十九的年龄词族，另分 tiny 的口语变体','TEEN：看年龄；TEENY：通常看大小，来源另说','teen / teenage → teenager、teenaged；preteen 指十几岁前阶段；teeny 极小的另接 tiny。',
+ '数字给 teen 年龄范围，大小给 teeny 的常用义。现代缩称关系也不等于整段词史一定是长词先出、短词后出。',
+ '-teen 数词尾 → 年龄表达；teen + age；teenage + -er；teen + aged。tiny 变体 → teeny。',
+ [['年龄与人物','teen · teenage · teenaged · teenager · preteen'],['另一来源的大小形容词','teeny']],
+ 'teen 通常十三到十九；teeny 极小不按青少年拆；teen 名词也有早于现代 teenager 的记录。',
+ 'The teenaged reader found a teeny note inside the book.\n\n那位青少年读者在书里发现了一张小纸条。','teen teenage teenaged teenager preteen teeny')
+T=[['古英语 træppe/treppe → trap','圈套、捕捉装置；更远联系踩、踏的一组词'],['实体捕捉 → 情境圈套','困住、使落入不利处境；装置也可按拦截功能命名'],['不同组合与派生','trapper 行为者；entrap 经法语相关词；claptrap 原是博取掌声的噱头']]
+W('trap','/træp/','陷阱、圈套；困住；存水弯等拦截装置；trap 音乐〔固定领域义〕',
+ '进得去、出不来，是直观陷阱；让人选了才发现不利的安排，也是圈套。水管里的 trap 则靠留住一段水隔开气味，功能换了。',
+ '常用圈套义接古英语 træppe、treppe，更远联系踩、踏。地质 trap 岩一词另经瑞典语台阶名称，肌肉 traps 又是 trapezius 的缩称，不全由捕兽故事发展。',T,
+ 'fall into a trap 落入圈套，be trapped in a room 被困房间，a poverty trap 贫困陷阱，a drain trap 排水存水弯。trap 也有固定音乐类型名称。',
+ 'fall into a trap；be trapped in；a poverty trap；a drain trap。',
+ 'trap 作动词不要求有人特意设捕兽器，风雪也能把人困住。具体装置、地质、音乐等词义看场景，不靠一个圈套解释全部。',
+ ('They were trapped in the lift for twenty minutes.','他们被困在电梯里二十分钟。'),('The question was designed as a trap.','那个问题被设计成了圈套。'))
+W('trapper','英 /ˈtræpə/；美 /ˈtræpər/','用陷阱捕动物的人，尤指以此为业者',
+ '不是凡遇见圈套的人，而是使用捕捉装置捕动物的那个角色。历史故事里常涉及以捕获动物、皮毛等为业的人。',
+ 'trap + -er，双写 p，加行为者词尾；也与法语 trappeur 对应。现代各地区另有俚语义，常用历史职业义先看捕捉动作。',T[:2]+[['trap + -er → trapper','以陷阱捕动物的人']],
+ 'a fur trapper 捕皮毛兽的猎人，a trapper’s cabin 捕兽者小屋，the life of a trapper 捕兽者的生活。',
+ 'a fur trapper；a trapper’s cabin。',
+ 'trapper 强调捕捉方式，hunter 猎人范围更广；prey 被捕猎的动物不是 trapper。',
+ ('The museum describes the daily life of a trapper.','博物馆介绍捕兽者的日常生活。'),('The story begins in an old trapper’s cabin.','故事从一间旧捕兽者小屋开始。'))
+W('entrap','/ɪnˈtræp/','使落入陷阱、困住；诱使陷入不利或违法处境',
+ '不只是说前面有个圈套，而是让某人进去、被套住。可以是实体困住，也可通过诱导让人做出不利选择。',
+ '经中古法语 entrapper、entraper 等，现代对应 en- 使进入 + trap 圈套。词尾动词变化 entrapped、entrapping 双写 p。',T[:2]+[['法语 entraper → entrap','使落入圈套；现代可按 en- + trap 理解']],
+ 'entrap someone in a scheme 把某人套进计划，entrap someone into doing something 诱使某人做某事，entrapped air 被困住的空气。',
+ 'entrap in；entrap into；entrapped air。',
+ 'entrap 强调困住、诱入，普通 trap 用法更广；法律上的 entrapment 是相关专门概念，不把每种圈套自动当作同一法律判断。',
+ ('The character tries to entrap his rival in a dishonest scheme.','角色试图把对手套进一个不诚实的计划。'),('Small bubbles of air became entrapped in the material.','微小气泡被困在材料内部。'))
+W('entrapment','/ɪnˈtræpmənt/','困住、诱入圈套；诱捕犯罪问题及相关抗辩〔法律〕',
+ 'entrap 是使人落入圈套，entrapment 把这件事或这种受困状态拿出来。法律讨论还会问：是否是执法者诱使当事人做了原本不会做的犯罪行为。',
+ 'entrap + -ment，形成过程、状态名词。后缀本身不表示法律，专门法律义是整词在该领域的固定发展。',T[:2]+[['entrap + -ment → entrapment','被困、诱捕的过程或状态；相应法律概念']],
+ 'air entrapment 空气滞留，entrapment in a mechanism 夹困在机械装置中，an entrapment defence 以诱捕问题为依据的抗辩〔法律文本〕。',
+ 'air entrapment；an entrapment defence。',
+ '普通受困义与法律抗辩义分开。美国法律语境的 entrapment 有特定条件，不能单凭英文看起来像陷阱就替所有事件下同一结论。',
+ ('The report examines air entrapment during the manufacturing process.','报告研究制造过程中的空气滞留。'),('The legal textbook explains the concept of entrapment.','法律教材解释了诱捕犯罪及相关抗辩的概念。'),sources=['https://en.wiktionary.org/wiki/entrapment#English','https://www.law.cornell.edu/wex/entrapment'])
+W('mousetrap','/ˈmaʊstræp/','捕鼠器；设法困住用户等的圈套〔特定用法〕',
+ 'mouse 说明要捕什么，trap 是捕捉装置。现代还可借鼠标 mouse 的另一义，命名让网页用户难以退出的设计。',
+ 'mouse 鼠 + trap，组合词中古英语已有相应形式。网络同形用法借 computer mouse，不是说电脑里有一只真老鼠。',T[:1]+[['mouse + trap → mousetrap','捕鼠装置'],['mouse 的计算机用法参与比喻','把用户困在页面、操作流程中的设计']],
+ 'an old mousetrap 旧捕鼠器，a model mousetrap 捕鼠器模型，a website mousetrap 困住网页用户的设计。',
+ 'an old mousetrap；a model mousetrap。',
+ '复数通常 mousetraps，不因 mouse 复数是 mice 就把整个组合改成 micetraps。mouse 是前置限定，数的变化落在整个词的末尾。',
+ ('The museum displays several old mousetraps.','博物馆展出了几种旧捕鼠器。'),('The illustration labels each part of the mousetrap.','插图标出了捕鼠器的各部分。'))
+W('claptrap','/ˈklæptræp/','空话、胡扯；哗众取宠的废话',
+ '话说得漂亮，专为换来掌声，听完却没多少实质内容。像布一个能捕到鼓掌的圈套，这就是它最初的舞台画面。',
+ 'clap 鼓掌 + trap 圈套，早期舞台术语指博取掌声的噱头，后来扩成浮夸、空洞的话。不是一种会夹住双手的实体装置。',T[:2]+[['clap + trap → claptrap','舞台上专为赚掌声的噱头'],['舞台效果扩成语言评价','哗众取宠的空话、胡扯']],
+ 'empty claptrap 空洞废话，dismiss a claim as claptrap 斥某种说辞为胡扯，sentimental claptrap 煽情而空洞的话。通常作不可数名词。',
+ 'empty claptrap；dismiss as claptrap；sentimental claptrap。',
+ 'claptrap 带强烈贬评，不是每次鼓掌都虚假，也不是所有幽默舞台技巧都没有价值；它评价说辞的空洞和讨好效果。',
+ ('She dismissed the speech as empty claptrap.','她认为那番演讲只是空洞废话。'),('The review criticised the sentimental claptrap in the final scene.','评论批评最后一幕充满空洞煽情的话。'),sources=['https://en.wiktionary.org/wiki/claptrap#English','https://www.etymonline.com/word/claptrap'])
+R('B3558','困住、诱入圈套与捕捉不同目标的组合','TRAP：进去了，出不来；也可捕掌声','trap → trapper；entrap → entrapment；mousetrap、flytrap、deathtrap、trapdoor 各有具体对象或形状；claptrap 捕的是掌声。',
+ '实体圈套是入口，贫困陷阱、空气夹困、哗众取宠各自换了被困、被捕的对象。别把地质岩名、音乐类型和所有俚语强挤成同一张捕兽图。',
+ 'træppe → trap；接 -er；法语 entraper → entrap + -ment；mouse/fly/death/clap + trap；trap + door。',
+ [['捕捉、操作者和诱入过程','trap · trapper · entrap · entrapment'],['具体对象、危险处境与机关','mousetrap · flytrap · deathtrap · trapdoor'],['从舞台噱头到空话','claptrap']],
+ 'mousetraps 不把前半改 mice；claptrap 通常不可数、带贬义；entrapment 法律义不覆盖所有普通圈套。',
+ 'The museum contrasts an old mousetrap with the figurative trap in the word claptrap.\n\n博物馆把旧捕鼠器与 claptrap 一词里的比喻圈套作了对照。','trap trapper entrap entrapment mousetrap flytrap deathtrap trapdoor claptrap')
+if __name__=='__main__':save('continuation_20261030_iz',ROOTS,WORDS)

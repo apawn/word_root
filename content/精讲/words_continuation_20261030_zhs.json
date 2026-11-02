@@ -1,0 +1,750 @@
+[
+  {
+    "word": "hikes",
+    "ipa": "/haɪks/",
+    "meaning": "徒步、远足〔第三人称单数〕；提高价格等；远足、涨幅〔复数〕",
+    "sense": "周末上山步行可以说 hikes；账单里的 price hikes 是一次次涨价。前者走路，后者把数字往上提，基础词两支分别说明。",
+    "split": "hike + -s，/k/ 后读 /s/；动词三单、名词复数同形。不能把提价义直接解释成价格真的在山里走。",
+    "history": [
+      [
+        "hike 徒步支：英语方言材料，来源未定",
+        "较早有用力走、离开等意思"
+      ],
+      [
+        "上提、提高价格等支发展",
+        "上提义可能与 hitch 相接，不把所有义硬说成登山向上"
+      ],
+      [
+        "hike + -s → hikes",
+        "他或她徒步、提高；多次远足、提价"
+      ]
+    ],
+    "explanation": "hikes in the hills；price hikes 涨价；interest-rate hikes 加息。",
+    "usage": "weekend hikes；hikes the fee 提高费用。",
+    "contrast": "hikes 是提高时常暗示明显上涨，cuts 才是降低；同一个 hike 还可说远足，要靠宾语定意思。",
+    "examples": [
+      [
+        "She hikes in the hills every weekend.",
+        "她每周末都在山里徒步。"
+      ],
+      [
+        "The notice announced further price hikes.",
+        "通知宣布还会进一步涨价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hikes#English",
+      "https://www.etymonline.com/word/hike"
+    ]
+  },
+  {
+    "word": "hiked",
+    "ipa": "/haɪkt/",
+    "meaning": "徒步、远足了；提高、上提了",
+    "sense": "昨天走了一段山路，是 hiked；票价被一下往上调，也可说 hiked。两个画面都常见，不只背成爬山。",
+    "split": "hike 去 e 加完整 -ed，/k/ 后读 /t/；不增加 /ɪd/ 音节。",
+    "history": [
+      [
+        "hike 徒步支：英语方言材料，来源未定",
+        "较早有用力走、离开等意思"
+      ],
+      [
+        "上提、提高价格等支发展",
+        "上提义可能与 hitch 相接，不把所有义硬说成登山向上"
+      ],
+      [
+        "hike + -ed → hiked",
+        "过去徒步，或把数值、物件往上提"
+      ]
+    ],
+    "explanation": "hiked through the forest；hiked the price；hiked up his trousers。",
+    "usage": "hiked for three hours；fees were hiked。",
+    "contrast": "hiked the price 是提价，hiked the trail 是沿路徒步；同样作及物动词，宾语决定分支。",
+    "examples": [
+      [
+        "We hiked through the forest to the lake.",
+        "我们穿过森林，徒步到了湖边。"
+      ],
+      [
+        "The company hiked the delivery fee last month.",
+        "那家公司上个月提高了配送费。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hiked#English",
+      "https://www.etymonline.com/word/hike"
+    ]
+  },
+  {
+    "word": "hikers",
+    "ipa": "英 /ˈhaɪkəz/；美 /ˈhaɪkɚz/",
+    "meaning": "徒步、远足者〔复数〕",
+    "sense": "沿山路、乡野路线走一段的人，是 hikers。它说参加步行活动的人，不是那些提高价格的人。",
+    "split": "hiker + -s，读 /z/；hike 去 e 加完整 -er，再取复数。",
+    "history": [
+      [
+        "hike 徒步支：英语方言材料，来源未定",
+        "较早有用力走、离开等意思"
+      ],
+      [
+        "上提、提高价格等支发展",
+        "上提义可能与 hitch 相接，不把所有义硬说成登山向上"
+      ],
+      [
+        "hike → hiker → hikers",
+        "徒步动作，到徒步者，再到多人"
+      ]
+    ],
+    "explanation": "experienced hikers；a group of hikers；a trail for hikers。",
+    "usage": "hikers carrying backpacks；local hikers。",
+    "contrast": "hikers 着眼于徒步活动，climbers 更着眼于攀登；走山路不一定需要攀爬岩壁。",
+    "examples": [
+      [
+        "The hikers reached the lake before noon.",
+        "徒步者们中午前到了湖边。"
+      ],
+      [
+        "The narrow trail is popular with experienced hikers.",
+        "那条窄路很受有经验的徒步者欢迎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hikers#English",
+      "https://www.etymonline.com/word/hike"
+    ]
+  },
+  {
+    "word": "hitchhikes",
+    "ipa": "/ˈhɪtʃhaɪks/",
+    "meaning": "搭便车旅行〔第三人称单数〕",
+    "sense": "自己不一直走，也没开车，而是沿路搭过路人的车前进，是 hitchhikes。行程像一段段借别人的车接起来。",
+    "split": "hitchhike + -s，/k/ 后读 /s/；hitch 的挂接画面与 hike 结合，形成搭便车这个整体词。",
+    "history": [
+      [
+        "hitch 挂接、借助移动车辆 + hike",
+        "较早名词、动词已有顺车行进的组合"
+      ],
+      [
+        "hitchhike 搭便车 → hitchhiker",
+        "搭乘过路车辆的人，不一定自己拥有车辆"
+      ],
+      [
+        "hitchhike + -s → hitchhikes",
+        "他或她沿路搭便车"
+      ]
+    ],
+    "explanation": "hitchhikes across the country；hitchhikes from town to town。",
+    "usage": "usually hitchhikes；hitchhikes with a friend。",
+    "contrast": "hitchhikes 说搭便车，hikes 说徒步；人可以一段步行、一段搭车，但不能把两个动词直接互换。",
+    "examples": [
+      [
+        "In the novel, he hitchhikes from town to town.",
+        "小说里，他搭着便车，在一个个城镇之间旅行。"
+      ],
+      [
+        "The character hitchhikes across the country with a small backpack.",
+        "那个角色背着小包，搭便车穿越全国。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hitchhikes#English",
+      "https://www.etymonline.com/word/hitchhike"
+    ]
+  },
+  {
+    "word": "hitchhiked",
+    "ipa": "/ˈhɪtʃhaɪkt/",
+    "meaning": "搭便车旅行了",
+    "sense": "曾经一路搭过路车辆到了某地，可以说 hitchhiked。它交代出行方式，不是说坐了付费的长途客车。",
+    "split": "hitchhike 去 e 加完整 -ed，/k/ 后读 /t/；复合词按末尾 hike 的规则变形。",
+    "history": [
+      [
+        "hitch 挂接、借助移动车辆 + hike",
+        "较早名词、动词已有顺车行进的组合"
+      ],
+      [
+        "hitchhike 搭便车 → hitchhiker",
+        "搭乘过路车辆的人，不一定自己拥有车辆"
+      ],
+      [
+        "hitchhike + -ed → hitchhiked",
+        "过去沿路搭便车前进"
+      ]
+    ],
+    "explanation": "hitchhiked across Europe；hitchhiked to the coast。",
+    "usage": "hitchhiked for several days；had hitchhiked there。",
+    "contrast": "hitchhiked 是搭便车，took a taxi 是乘出租车；普通交通叙述中两者不是同一种服务。",
+    "examples": [
+      [
+        "She hitchhiked to the coast during her student years.",
+        "学生时代，她曾搭便车去海边。"
+      ],
+      [
+        "The memoir describes how they hitchhiked across Europe.",
+        "回忆录讲了他们如何搭便车穿越欧洲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hitchhiked#English",
+      "https://www.etymonline.com/word/hitchhike"
+    ]
+  },
+  {
+    "word": "hitchhiking",
+    "ipa": "/ˈhɪtʃhaɪkɪŋ/",
+    "meaning": "搭便车旅行；正在沿路搭车",
+    "sense": "一段段借过路车辆走远路，这种出行方式叫 hitchhiking。可以说一次正在进行的行程，也可当作活动名词谈。",
+    "split": "hitchhike 去 e 加 -ing；外层变化落在末尾，不把 hitch 和 hike 各自都改一遍。",
+    "history": [
+      [
+        "hitch 挂接、借助移动车辆 + hike",
+        "较早名词、动词已有顺车行进的组合"
+      ],
+      [
+        "hitchhike 搭便车 → hitchhiker",
+        "搭乘过路车辆的人，不一定自己拥有车辆"
+      ],
+      [
+        "hitchhike + -ing → hitchhiking",
+        "沿路搭便车的过程、活动"
+      ]
+    ],
+    "explanation": "go hitchhiking；a hitchhiking trip；hitchhiking across the country。",
+    "usage": "a story about hitchhiking；was hitchhiking north。",
+    "contrast": "carpooling 常是事先合乘、拼车安排，hitchhiking 常是沿途搭过路车辆；都能同车，组织方式不同。",
+    "examples": [
+      [
+        "The documentary follows two friends hitchhiking across the country.",
+        "纪录片跟拍两个朋友搭便车穿越全国。"
+      ],
+      [
+        "His travel diary contains several stories about hitchhiking.",
+        "他的旅行日记里有几个搭便车的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hitchhiking#English",
+      "https://www.etymonline.com/word/hitchhike"
+    ]
+  },
+  {
+    "word": "hitchhiker",
+    "ipa": "英 /ˈhɪtʃhaɪkə/；美 /ˈhɪtʃhaɪkɚ/",
+    "meaning": "搭便车旅行的人",
+    "sense": "站在路边等过路车捎一段的人，是 a hitchhiker。词里保留了借车走路程的意思，最外层 -er 指做这事的人。",
+    "split": "hitchhike 去 e 加完整 -er；不要只写 -r，完整人称后缀仍是 -er。",
+    "history": [
+      [
+        "hitch 挂接、借助移动车辆 + hike",
+        "较早名词、动词已有顺车行进的组合"
+      ],
+      [
+        "hitchhike 搭便车 → hitchhiker",
+        "搭乘过路车辆的人，不一定自己拥有车辆"
+      ],
+      [
+        "hitchhike + -er → hitchhiker",
+        "沿路搭便车的人"
+      ]
+    ],
+    "explanation": "a hitchhiker by the road；pick up a hitchhiker 捎上搭便车者。",
+    "usage": "a lone hitchhiker；a hitchhiker carrying a backpack。",
+    "contrast": "hitchhiker 指搭便车者，hiker 指徒步者；同样背着包，前进方式可能不同。",
+    "examples": [
+      [
+        "The story begins with a hitchhiker waiting beside a country road.",
+        "故事从一个在乡间路边等车的搭便车者开始。"
+      ],
+      [
+        "The driver offered the hitchhiker a lift to the next town.",
+        "司机愿意捎那位搭便车者到下一个镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hitchhiker#English",
+      "https://www.etymonline.com/word/hitchhike"
+    ]
+  },
+  {
+    "word": "hitchhikers",
+    "ipa": "英 /ˈhɪtʃhaɪkəz/；美 /ˈhɪtʃhaɪkɚz/",
+    "meaning": "搭便车旅行的人〔复数〕",
+    "sense": "几个人沿路借车旅行，是 hitchhikers。它数的是人，hitchhiking 才是他们做的事。",
+    "split": "hitchhiker + -s，读 /z/；先由 hitchhike 去 e 加 -er 表人，再用复数。",
+    "history": [
+      [
+        "hitch 挂接、借助移动车辆 + hike",
+        "较早名词、动词已有顺车行进的组合"
+      ],
+      [
+        "hitchhike 搭便车 → hitchhiker",
+        "搭乘过路车辆的人，不一定自己拥有车辆"
+      ],
+      [
+        "hitchhike → hitchhiker → hitchhikers",
+        "搭便车，到搭车者，再到多人"
+      ]
+    ],
+    "explanation": "two hitchhikers；hitchhikers beside the road；stories told by hitchhikers。",
+    "usage": "a group of hitchhikers；pick up hitchhikers。",
+    "contrast": "passengers 是所有乘客，hitchhikers 特指搭便车的那类旅行者；乘车的人不一定都是沿路拦车。",
+    "examples": [
+      [
+        "Two hitchhikers stood beside the road with their bags.",
+        "两个搭便车者带着包，站在路边。"
+      ],
+      [
+        "The book collects stories told by hitchhikers.",
+        "那本书收集了搭便车旅行者讲述的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hitchhikers#English",
+      "https://www.etymonline.com/word/hitchhike"
+    ]
+  },
+  {
+    "word": "backpacks",
+    "ipa": "/ˈbækpæks/",
+    "meaning": "背包〔复数〕；背包徒步、旅行〔第三人称单数〕",
+    "sense": "学生背着的几个包，是 backpacks；他背着装备轻装旅行，也可以说 he backpacks。先认物件，再看它变成旅行方式。",
+    "split": "backpack + -s，/k/ 后读 /s/；back 背部 + pack 行囊先成名词，后来有背包旅行动词。",
+    "history": [
+      [
+        "back 背部 + pack 行囊 → backpack 名词",
+        "把装备背在背上的包"
+      ],
+      [
+        "由背包名词发展出背包徒步、旅行的动词",
+        "再有 backpacker 与复数 backpackers"
+      ],
+      [
+        "backpack + -s → backpacks",
+        "多个背包，或他、她背包旅行"
+      ]
+    ],
+    "explanation": "school backpacks 学生背包；backpacks around the country。",
+    "usage": "carry heavy backpacks；backpacks through the hills。",
+    "contrast": "backpacks 是背在背上的包，suitcases 通常是手提、拉行的箱子；装东西的功能相同，携带方式不同。",
+    "examples": [
+      [
+        "The students left their backpacks by the door.",
+        "学生们把背包放在门边。"
+      ],
+      [
+        "She backpacks through the hills every summer.",
+        "她每年夏天都背着包在山里徒步旅行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backpacks#English",
+      "https://www.etymonline.com/word/backpack"
+    ]
+  },
+  {
+    "word": "backpacked",
+    "ipa": "/ˈbækpækt/",
+    "meaning": "背着装备徒步、旅行了",
+    "sense": "过去背着包走山路、换地方住，来一趟相对轻装的旅行，可以说 backpacked。重点是旅行方式，不只碰巧拎了一个包。",
+    "split": "backpack + 完整 -ed，/k/ 后读 /t/；词尾已有 ck，不再加一个 k。",
+    "history": [
+      [
+        "back 背部 + pack 行囊 → backpack 名词",
+        "把装备背在背上的包"
+      ],
+      [
+        "由背包名词发展出背包徒步、旅行的动词",
+        "再有 backpacker 与复数 backpackers"
+      ],
+      [
+        "backpack + -ed → backpacked",
+        "过去背包徒步、旅行"
+      ]
+    ],
+    "explanation": "backpacked across Europe；backpacked through the mountains。",
+    "usage": "backpacked for a month；had backpacked there before。",
+    "contrast": "backpacked 是以背包方式旅行，packed a backpack 只是把包收拾好；准备行囊和已经出行不同。",
+    "examples": [
+      [
+        "We backpacked through the mountains for a week.",
+        "我们背着包在山里徒步旅行了一周。"
+      ],
+      [
+        "She backpacked around Europe after graduation.",
+        "毕业后，她背包游历了欧洲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backpacked#English",
+      "https://www.etymonline.com/word/backpack"
+    ]
+  },
+  {
+    "word": "backpackers",
+    "ipa": "英 /ˈbækpækəz/；美 /ˈbækpækɚz/",
+    "meaning": "背包旅行者、背包徒步者〔复数〕",
+    "sense": "把主要行李背在身上，一站站走、一处处住的旅行者，常叫 backpackers。它可能是山野徒步，也可能是轻装跨城旅行。",
+    "split": "backpacker + -s，读 /z/；backpack 加完整 -er 成人称名词，再加复数。",
+    "history": [
+      [
+        "back 背部 + pack 行囊 → backpack 名词",
+        "把装备背在背上的包"
+      ],
+      [
+        "由背包名词发展出背包徒步、旅行的动词",
+        "再有 backpacker 与复数 backpackers"
+      ],
+      [
+        "backpack → backpacker → backpackers",
+        "背包旅行动作，到旅行者，再到多人"
+      ]
+    ],
+    "explanation": "a hostel for backpackers 背包客旅舍；experienced backpackers。",
+    "usage": "backpackers on the trail；a group of backpackers。",
+    "contrast": "backpackers 不必都是 hitchhikers；背包说行李、旅行方式，搭便车说某段路怎么乘车。",
+    "examples": [
+      [
+        "The hostel is popular with backpackers.",
+        "那家旅舍很受背包客欢迎。"
+      ],
+      [
+        "The backpackers carried enough food for three days.",
+        "背包徒步者们带了够吃三天的食物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backpackers#English",
+      "https://www.etymonline.com/word/backpack"
+    ]
+  },
+  {
+    "word": "straggle",
+    "ipa": "/ˈstræɡəl/",
+    "meaning": "走散、掉在后面；零零散散地延伸",
+    "sense": "队伍往前走，有人慢慢落到后面、离开整队，是 straggle。几间房子沿路零散排开，也像没聚拢的一队。",
+    "split": "接日耳曼行进材料，具体近源未定，有北欧或旧英语动作词反复派生等分析。不是现代 struggle 挣扎换一个元音造出来。",
+    "history": [
+      [
+        "较早 straggle：偏离路径、同伴，走散",
+        "接日耳曼行进材料，具体近源有不同分析"
+      ],
+      [
+        "离散、掉队 → 人落后、事物零散延伸",
+        "人群、房屋、枝条都可以形成不整齐的一线"
+      ]
+    ],
+    "explanation": "straggle behind 掉队、落在后面；houses straggle along the road。",
+    "usage": "straggle into camp 零零散散来到营地；straggle across the hillside。",
+    "contrast": "struggle 强调费劲挣扎，straggle 强调分散、掉队；一个人可在努力跟上，也可因闲聊而落后。",
+    "examples": [
+      [
+        "Try not to straggle behind the group.",
+        "尽量别落在队伍后面。"
+      ],
+      [
+        "A few houses straggle along the hillside.",
+        "几幢房子零零散散分布在山坡上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/straggle#English",
+      "https://www.etymonline.com/word/straggle"
+    ]
+  },
+  {
+    "word": "straggles",
+    "ipa": "/ˈstræɡəlz/",
+    "meaning": "落在后面、走散；零散延伸〔第三人称单数〕",
+    "sense": "每次集合他都比别人晚一截，是 straggles behind；一排篱笆疏疏落落伸过去，也能说 straggles。",
+    "split": "straggle + -s，读 /z/；基础动词接旧行进材料，现代加三单，不因词形近就混成 struggle。",
+    "history": [
+      [
+        "较早 straggle：偏离路径、同伴，走散",
+        "接日耳曼行进材料，具体近源有不同分析"
+      ],
+      [
+        "离散、掉队 → 人落后、事物零散延伸",
+        "人群、房屋、枝条都可以形成不整齐的一线"
+      ],
+      [
+        "straggle + -s → straggles",
+        "他或它落后、走散，或零散延伸"
+      ]
+    ],
+    "explanation": "straggles behind the others；a hedge straggles along the path。",
+    "usage": "straggles into camp；straggles down the hill。",
+    "contrast": "straggles 不一定是迷路，gets lost 才说失去路线；还看得见队伍，也可能落在后面。",
+    "examples": [
+      [
+        "He often straggles behind the rest of the group.",
+        "他常常落在队伍其他人后面。"
+      ],
+      [
+        "An untidy hedge straggles along the path.",
+        "一道不整齐的篱笆沿小路稀稀落落地伸展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/straggles#English",
+      "https://www.etymonline.com/word/straggle"
+    ]
+  },
+  {
+    "word": "straggled",
+    "ipa": "/ˈstræɡəld/",
+    "meaning": "走散、掉队了；零零散散地延伸、到达了",
+    "sense": "大家没一起到，而是一小拨一小拨慢慢进来，可以说 straggled in。散乱是重点，不必每个人都不知道去哪里。",
+    "split": "straggle 去 e 加完整 -ed，读 /d/；保留词干原有双 g，不额外再加。",
+    "history": [
+      [
+        "较早 straggle：偏离路径、同伴，走散",
+        "接日耳曼行进材料，具体近源有不同分析"
+      ],
+      [
+        "离散、掉队 → 人落后、事物零散延伸",
+        "人群、房屋、枝条都可以形成不整齐的一线"
+      ],
+      [
+        "straggle + -ed → straggled",
+        "过去分散、落后，或零零散散到达"
+      ]
+    ],
+    "explanation": "straggled into the room；straggled behind；straggled along the road。",
+    "usage": "straggled back to camp；houses straggled across the slope。",
+    "contrast": "straggled in 是零零散散、可能迟缓地进来，marched in 更像齐整、果断地进；场面组织不同。",
+    "examples": [
+      [
+        "The walkers straggled back to camp before dark.",
+        "步行的人们在天黑前零零散散回到营地。"
+      ],
+      [
+        "The last few guests straggled in after dinner had begun.",
+        "晚饭开始后，最后几位客人才陆陆续续进来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/straggled#English",
+      "https://www.etymonline.com/word/straggle"
+    ]
+  },
+  {
+    "word": "straggling",
+    "ipa": "/ˈstræɡəlɪŋ/",
+    "meaning": "正在走散、掉队；零散、杂乱延伸的",
+    "sense": "走路的人被拉成松松的一线，是 straggling；头发、枝条杂乱向外伸，也可用这张散开的画面。",
+    "split": "straggle 去 e 加 -ing；分词写分散移动，也可形容稀疏、杂乱的排列。",
+    "history": [
+      [
+        "较早 straggle：偏离路径、同伴，走散",
+        "接日耳曼行进材料，具体近源有不同分析"
+      ],
+      [
+        "离散、掉队 → 人落后、事物零散延伸",
+        "人群、房屋、枝条都可以形成不整齐的一线"
+      ],
+      [
+        "straggle + -ing → straggling",
+        "走散的过程，或不整齐延伸的性质"
+      ]
+    ],
+    "explanation": "a straggling line of walkers；straggling branches 零乱伸出的枝条。",
+    "usage": "straggling behind；a straggling village 房屋分散的村庄。",
+    "contrast": "straggling 是分散、零乱，straight 是直；一条直路两边的房屋也可能分布得零零散散。",
+    "examples": [
+      [
+        "A straggling line of walkers crossed the field.",
+        "步行的人们拉成松散的一线，走过田野。"
+      ],
+      [
+        "She trimmed the straggling branches.",
+        "她修剪了那些零乱伸出的枝条。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/straggling#English",
+      "https://www.etymonline.com/word/straggle"
+    ]
+  },
+  {
+    "word": "straggler",
+    "ipa": "英 /ˈstræɡlə/；美 /ˈstræɡlɚ/",
+    "meaning": "掉队、落后、晚来的人或动物；零散伸出的东西",
+    "sense": "大伙已经走到前面，还有一个人没跟上，就是 a straggler。也可说最后才来的人，植物里则可能是一根多伸出的零乱枝条。",
+    "split": "straggle 去 e 加完整 -er；后缀常指做事者，现代也能指散出来、伸出来的东西。",
+    "history": [
+      [
+        "较早 straggle：偏离路径、同伴，走散",
+        "接日耳曼行进材料，具体近源有不同分析"
+      ],
+      [
+        "离散、掉队 → 人落后、事物零散延伸",
+        "人群、房屋、枝条都可以形成不整齐的一线"
+      ],
+      [
+        "straggle + -er → straggler",
+        "落在后面、偏离整队的人或动物等"
+      ]
+    ],
+    "explanation": "wait for a straggler；the last straggler；a straggler from the flock。",
+    "usage": "a lone straggler；round up a straggler 找回掉队者。",
+    "contrast": "straggler 是队伍或一组中的落后者，loner 常指习惯独处的人；暂时没跟上不等于喜欢独来独往。",
+    "examples": [
+      [
+        "The guide waited for the last straggler.",
+        "导游等着最后那个掉队的人。"
+      ],
+      [
+        "A straggler from the flock stood near the gate.",
+        "羊群里一只掉队的羊站在门边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/straggler#English",
+      "https://www.etymonline.com/word/straggle"
+    ]
+  },
+  {
+    "word": "stragglers",
+    "ipa": "英 /ˈstræɡləz/；美 /ˈstræɡlɚz/",
+    "meaning": "掉队、落后、晚来的人或动物〔复数〕",
+    "sense": "前面的人都到了，后面还陆陆续续有人来，这些人可叫 stragglers。强调相对整队、整组落后，不必是永久落后。",
+    "split": "straggler + -s，读 /z/；straggle 去 e 加 -er 表个体，再取复数。",
+    "history": [
+      [
+        "较早 straggle：偏离路径、同伴，走散",
+        "接日耳曼行进材料，具体近源有不同分析"
+      ],
+      [
+        "离散、掉队 → 人落后、事物零散延伸",
+        "人群、房屋、枝条都可以形成不整齐的一线"
+      ],
+      [
+        "straggle → straggler → stragglers",
+        "分散、掉队，到掉队个体，再到复数"
+      ]
+    ],
+    "explanation": "the last few stragglers；wait for stragglers；stragglers from the herd。",
+    "usage": "round up the stragglers；stragglers arriving late。",
+    "contrast": "stragglers 可能只是走得慢、最后到，losers 才常指输的人；晚一点跟上不表示比赛输了。",
+    "examples": [
+      [
+        "We stopped at the gate to wait for the stragglers.",
+        "我们在门边停下，等掉队的人跟上。"
+      ],
+      [
+        "A few stragglers arrived as the chairs were being put away.",
+        "椅子都开始收了，还有几位晚来的人陆续到场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stragglers#English",
+      "https://www.etymonline.com/word/straggle"
+    ]
+  },
+  {
+    "word": "wayfarer",
+    "ipa": "英 /ˈweɪfeərə/；美 /ˈweɪˌferɚ/",
+    "meaning": "旅人、行路人〔较文学，常指徒步〕",
+    "sense": "旧故事里，一个人沿着长路走，天黑投宿，是 a wayfarer。比 traveller 更有在路上、慢慢走来的文学画面。",
+    "split": "way 道路 + fare 旧动词行进、旅行，再有 -er 表人。wayfare 动词记录较晚，不能把现代学习先学短动词当成确定历史。",
+    "history": [
+      [
+        "way 道路 + fare 旧动词行进、旅行的材料",
+        "fare 承古英语 faran 等，不是在这里说票价"
+      ],
+      [
+        "构成旅人名词 wayfarer",
+        "wayfare 动词记录较晚，不以学习先后倒置历史"
+      ]
+    ],
+    "explanation": "a weary wayfarer 疲惫的行路人；a lone wayfarer。",
+    "usage": "shelter for a wayfarer；the wayfarer on the road。",
+    "contrast": "fare 在这里是行进的旧动词，不是票价；wayfarer 不是按是否付车费来划分的旅客。",
+    "examples": [
+      [
+        "A weary wayfarer stopped at the inn.",
+        "一位疲惫的行路人在客栈停下。"
+      ],
+      [
+        "The poem follows a lone wayfarer through the hills.",
+        "那首诗跟随一位孤独旅人走过群山。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wayfarer#English",
+      "https://www.etymonline.com/word/wayfarer"
+    ]
+  },
+  {
+    "word": "wayfarers",
+    "ipa": "英 /ˈweɪfeərəz/；美 /ˈweɪˌferɚz/",
+    "meaning": "旅人、行路人〔复数，较文学〕",
+    "sense": "几个人沿路长途行进，故事里可写 wayfarers。它自带一点旧时旅途、在路上讨生活或找落脚处的画面。",
+    "split": "wayfarer + -s，读 /z/；内部仍是 way、fare 行进与人称 -er，不把复数当成购买多张车票。",
+    "history": [
+      [
+        "way 道路 + fare 旧动词行进、旅行的材料",
+        "fare 承古英语 faran 等，不是在这里说票价"
+      ],
+      [
+        "构成旅人名词 wayfarer",
+        "wayfare 动词记录较晚，不以学习先后倒置历史"
+      ],
+      [
+        "wayfarer + -s → wayfarers",
+        "多个旅人、行路人"
+      ]
+    ],
+    "explanation": "weary wayfarers 疲惫的行路人；shelter for wayfarers。",
+    "usage": "wayfarers along the road；a group of wayfarers。",
+    "contrast": "wayfarers 较文学，travellers 更普通；是否走路也要结合上下文，不能把文学词机械当作精确交通分类。",
+    "examples": [
+      [
+        "The inn offered food and shelter to wayfarers.",
+        "客栈为过路旅人提供食宿。"
+      ],
+      [
+        "The painting shows wayfarers resting beside a stream.",
+        "画里是几位旅人在溪边歇脚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wayfarers#English",
+      "https://www.etymonline.com/word/wayfarer"
+    ]
+  },
+  {
+    "word": "wanderers",
+    "ipa": "英 /ˈwɒndərəz/；美 /ˈwɑndərɚz/",
+    "meaning": "漫游、漂泊、四处游走的人或动物〔复数〕",
+    "sense": "没有长期固定在一处，走过一个地方又去另一个地方的人，是 wanderers。它可以有自由感，也可以有漂泊、无归处的感觉。",
+    "split": "wanderer + -s，读 /z/；wander 加完整 -er 成做漫游动作的人，再取复数。基础词承古英语 wandrian 等材料。",
+    "history": [
+      [
+        "古英语 wandrian 等 → wander 四处游走",
+        "不是 wonder 惊奇的现代派生"
+      ],
+      [
+        "wander + -er → wanderer；再加 -s",
+        "漫游动作，到漫游者，再到多人"
+      ]
+    ],
+    "explanation": "restless wanderers 不肯久留的漫游者；wanderers far from home。",
+    "usage": "a group of wanderers；nomads and wanderers。",
+    "contrast": "wanderers 不一定是 lost people 迷路者；有人知道自己在哪，只是没有固定目的地或住所。",
+    "examples": [
+      [
+        "The novel follows a group of wanderers searching for a place to settle.",
+        "小说写了一群漂泊者寻找落脚之地的经历。"
+      ],
+      [
+        "The island has long attracted artists and restless wanderers.",
+        "那座岛长期吸引着艺术家和不愿久留一处的漫游者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wanderers#English",
+      "https://www.etymonline.com/word/wander"
+    ]
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "word": "ding",
+    "ipa": "/dɪŋ/",
+    "meaning": "叮声、发叮声；小凹痕、碰伤",
+    "sense": "手机叮一下是一个 ding，车门轻轻磕出的小坑也叫 a ding。一个取声音，一个取碰撞、损伤，要分着看。",
+    "split": "铃声义拟声；击打义接中古英语 dingen 等，与北欧语击打材料有联系。现代小凹痕义从碰击发展，不把所有义都定成手机提示音的后代。",
+    "history": [
+      [
+        "中古英语 dingen 等击打材料 → ding",
+        "击打，后来也说碰出小凹痕"
+      ],
+      [
+        "模仿铃声的 ding",
+        "叮的一声；与击打词可能有声音联系，不硬定同一词源"
+      ],
+      [
+        "另有方言 dingy 脏、暗淡",
+        "常用 dingy 不是铃响加 -y"
+      ]
+    ],
+    "explanation": "a small ding on the door 门上的小磕痕；The phone dinged 手机叮了一声；ding the paint 磕伤漆面。口语也可说被扣分、遭拒等，要看上下文。",
+    "usage": "a small ding；the phone dinged；ding the paint。",
+    "contrast": "dingy 常用义是暗脏、破旧，读 /ˈdɪndʒi/，不能只看拼法就读成“叮声很多的”。",
+    "examples": [
+      [
+        "The phone dinged as a new message arrived.",
+        "新消息到来时，手机叮了一声。"
+      ],
+      [
+        "There is a small ding in the car door.",
+        "车门上有个小凹痕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ding#English",
+      "https://www.etymonline.com/word/ding"
+    ]
+  },
+  {
+    "word": "dingy",
+    "ipa": "/ˈdɪndʒi/",
+    "meaning": "暗脏的；灰暗破旧的",
+    "sense": "墙上积着旧污渍，光线又暗，房间显得灰扑扑、没人好好打理，就是 dingy。",
+    "split": "常用暗脏义接肯特等方言脏的词，远源未定，可能联系 dung 材料。与 ding 叮声 + -y 的罕见另义分开，不能拿后者解释日常 dingy room。",
+    "history": [
+      [
+        "中古英语 dingen 等击打材料 → ding",
+        "击打，后来也说碰出小凹痕"
+      ],
+      [
+        "模仿铃声的 ding",
+        "叮的一声；与击打词可能有声音联系，不硬定同一词源"
+      ],
+      [
+        "另有方言 dingy 脏、暗淡",
+        "常用 dingy 不是铃响加 -y"
+      ]
+    ],
+    "explanation": "a dingy room 暗脏房间；a dingy corridor 灰暗破旧的走廊；dingy curtains 发暗显旧的窗帘。常把光线、污旧、欠打理的感觉合在一起。",
+    "usage": "a dingy room；a dingy corridor；dingy curtains。",
+    "contrast": "dim 主要说光弱；dingy 更常加上脏旧、不悦目的感受。灯光柔和的整洁房间可以 dim，却不一定 dingy。",
+    "examples": [
+      [
+        "The office was small and dingy.",
+        "办公室狭小而且暗脏。"
+      ],
+      [
+        "Fresh paint transformed the dingy corridor.",
+        "重新刷漆让灰暗破旧的走廊焕然一新。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dingy#English",
+      "https://www.etymonline.com/word/dingy"
+    ]
+  },
+  {
+    "word": "vibrant",
+    "ipa": "/ˈvaɪbrənt/",
+    "meaning": "充满活力的；鲜艳的；响亮有共鸣的",
+    "sense": "街区人来人往、活动丰富，像一直在跳动，就是 vibrant；颜色明亮鲜活、声音有共鸣，也带这种强烈生命感。",
+    "split": "借法语 vibrant，上接拉丁 vibrans、vibrare 振动。可与 vibrate 对照理解，但不把现代鲜艳颜色说成真的在机械抖动。",
+    "history": [
+      [
+        "拉丁 vibrare 挥动、振动 → vibrans → 法语 vibrant",
+        "振动、共鸣的性质"
+      ],
+      [
+        "英语 vibrant → vibrantly、vibrancy",
+        "有活力、鲜明；相应方式、状态"
+      ]
+    ],
+    "explanation": "a vibrant city 有活力的城市；vibrant colours 鲜艳色彩；a vibrant voice 响亮、富共鸣的嗓音。",
+    "usage": "a vibrant community；vibrant colours；a vibrant voice。",
+    "contrast": "vibrant 强调鲜活、活跃，violent 是暴力的、剧烈的；不能因拼写相近就把热闹城市写成暴力城市。",
+    "examples": [
+      [
+        "The district has a vibrant arts scene.",
+        "这个地区的艺术活动很活跃。"
+      ],
+      [
+        "The painting uses vibrant colours.",
+        "这幅画用了鲜艳的色彩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vibrant#English"
+    ]
+  },
+  {
+    "word": "vibrancy",
+    "ipa": "/ˈvaɪbrənsi/",
+    "meaning": "活力；色彩鲜明度；鲜活感",
+    "sense": "vibrant 说这条街很有活力，vibrancy 把那股人气、能量、鲜活感拿出来单独谈。",
+    "split": "对应 vibrant 的 -ant 改为 -ancy → vibrancy，形成状态、性质名词；承接同样的拉丁振动材料，不拆成 vibran + 任意独立词 cy。",
+    "history": [
+      [
+        "拉丁 vibrare 挥动、振动 → vibrans → 法语 vibrant",
+        "振动、共鸣的性质"
+      ],
+      [
+        "英语 vibrant → vibrantly、vibrancy",
+        "有活力、鲜明；相应方式、状态"
+      ],
+      [
+        "vibrant → vibrancy",
+        "活跃、鲜明、共鸣等性质的名词"
+      ]
+    ],
+    "explanation": "the vibrancy of the city 城市活力；colour vibrancy 色彩鲜活度；cultural vibrancy 文化活力。",
+    "usage": "cultural vibrancy；the vibrancy of the colours。",
+    "contrast": "vibrancy 说活力或鲜明感，vibration 更直接说振动；照片 colours 的 vibrancy 通常不是画面在抖。",
+    "examples": [
+      [
+        "The market adds vibrancy to the neighbourhood.",
+        "集市为街区增添了活力。"
+      ],
+      [
+        "The new print preserves the vibrancy of the original colours.",
+        "新的印刷品保留了原作色彩的鲜活感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vibrancy#English"
+    ]
+  },
+  {
+    "word": "vibrantly",
+    "ipa": "/ˈvaɪbrəntli/",
+    "meaning": "充满活力地；鲜艳地",
+    "sense": "把活力、明亮感放进动作：画得鲜明、表演得有生命力，都能用 vibrantly。",
+    "split": "vibrant + -ly → vibrantly；保留末尾 t，形成方式副词。与名词 vibrancy 的词尾变化分开记。",
+    "history": [
+      [
+        "拉丁 vibrare 挥动、振动 → vibrans → 法语 vibrant",
+        "振动、共鸣的性质"
+      ],
+      [
+        "英语 vibrant → vibrantly、vibrancy",
+        "有活力、鲜明；相应方式、状态"
+      ],
+      [
+        "vibrant + -ly → vibrantly",
+        "以鲜明、有活力的方式"
+      ]
+    ],
+    "explanation": "vibrantly coloured 色彩鲜艳的；vibrantly painted 画得鲜明的；a vibrantly performed piece 表演得很有活力的作品。",
+    "usage": "vibrantly coloured；vibrantly painted。",
+    "contrast": "vibrantly 不是 violently 剧烈地、暴力地；画面鲜活与动作猛烈是不同描述。",
+    "examples": [
+      [
+        "The walls were vibrantly painted in blue and yellow.",
+        "墙壁被刷成鲜明的蓝色和黄色。"
+      ],
+      [
+        "The dancers performed vibrantly throughout the show.",
+        "舞者们整场都表演得很有活力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vibrantly#English"
+    ]
+  },
+  {
+    "word": "clad",
+    "ipa": "/klæd/",
+    "meaning": "穿着……的；覆盖着……的；包覆",
+    "sense": "衣服包住人，金属板包住建筑，都可以从 clad 的覆盖画面理解。常看 clad in 后面具体披、覆了什么。",
+    "split": "接 clothe 的旧过去式、分词形式；后来 clad 自身也用于包覆这个动词。不是英语 cloud 去元音形成，现代 clothe 也常用 clothed。",
+    "history": [
+      [
+        "clothe 的中古英语过去式、分词形式 → clad",
+        "穿着、被覆盖的"
+      ],
+      [
+        "clad 形容词再形成覆盖动词；clad + -ing",
+        "包覆；覆盖层材料"
+      ]
+    ],
+    "explanation": "clad in black 穿着黑衣；clad in stone 覆有石材；clad a wall 包覆墙面。作技术动词可说 cladding、cladded 等形式。",
+    "usage": "clad in black；clad in stone；clad a wall。",
+    "contrast": "clad 与 cloud 云不同；clad in black 重点说穿着颜色，不自动表示盔甲或特殊职业。",
+    "examples": [
+      [
+        "The guide was clad in a bright coat.",
+        "向导穿着一件亮色外套。"
+      ],
+      [
+        "The lower walls are clad in stone.",
+        "下部墙面覆着石材。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clad#English"
+    ]
+  },
+  {
+    "word": "cladding",
+    "ipa": "/ˈklædɪŋ/",
+    "meaning": "外覆层；包覆材料；覆盖",
+    "sense": "建筑外面另加的一层板材、保护层，就是常见 cladding。它像给实物穿外衣，但材料和用途可能是装饰、隔热或保护等。",
+    "split": "clad + -ing → cladding，短元音后双写 d。-ing 不仅表示正在动作，也能把覆盖材料、结构命名成名词。",
+    "history": [
+      [
+        "clothe 的中古英语过去式、分词形式 → clad",
+        "穿着、被覆盖的"
+      ],
+      [
+        "clad 形容词再形成覆盖动词；clad + -ing",
+        "包覆；覆盖层材料"
+      ],
+      [
+        "clad + -ing → cladding",
+        "包覆动作及外层材料、结构"
+      ]
+    ],
+    "explanation": "external cladding 外墙覆层；wooden cladding 木质覆层；metal cladding 金属包覆层。也见于光纤等技术对象的外层。",
+    "usage": "external cladding；wooden cladding；metal cladding。",
+    "contrast": "cladding 是覆盖层，不一定承担建筑主要承重；clothing 则通常是人的衣服，虽有共同历史材料，现代对象不同。",
+    "examples": [
+      [
+        "The building has wooden cladding on the upper floor.",
+        "这座建筑的上层覆有木质外墙材料。"
+      ],
+      [
+        "The diagram labels the core and cladding of the optical fibre.",
+        "图中标出了光纤的纤芯和包层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cladding#English"
+    ]
+  },
+  {
+    "word": "communal",
+    "ipa": "/kəˈmjuːnəl/",
+    "meaning": "共有、共用的；社区的；群体相关的",
+    "sense": "厨房不是某一家独享，而是住在这里的人一起用，就是 a communal kitchen。词先说共同体、共用关系，未必在讲政治制度。",
+    "split": "借法语 communal，上接晚期拉丁 communalis、拉丁 communis 共同。现代可联想 commune、common 词族，不把它当 communicate 交流的机械缩写。",
+    "history": [
+      [
+        "拉丁 communis 共同 → 晚期拉丁 communalis → 法语 communal",
+        "社区相关、共同使用的"
+      ],
+      [
+        "英语 communal → communally、communalism",
+        "共同地；共同生活或群体主义等名词"
+      ]
+    ],
+    "explanation": "a communal kitchen 共用厨房；communal facilities 公用设施；communal life 共同生活。南亚等语境 communal 还可能涉及宗教群体关系，须看限定。",
+    "usage": "a communal kitchen；communal facilities；communal life。",
+    "contrast": "communal 通常强调某群体共用，public 更宽；宿舍住户的 communal kitchen 不保证街上所有人都可使用。",
+    "examples": [
+      [
+        "Residents share a communal kitchen on each floor.",
+        "住户共用各楼层的厨房。"
+      ],
+      [
+        "The garden provides space for communal activities.",
+        "花园为社区共同活动提供空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/communal#English"
+    ]
+  },
+  {
+    "word": "communally",
+    "ipa": "/kəˈmjuːnəli/",
+    "meaning": "共同地；以群体共用、共同行动的方式",
+    "sense": "东西归大家一起管理，饭由大家一起准备，communally 交代这种共同使用、共同承担的方式。",
+    "split": "communal + -ly → communally；原有 l 再接 -ly 写两个 l，读音仍按自然副词处理。",
+    "history": [
+      [
+        "拉丁 communis 共同 → 晚期拉丁 communalis → 法语 communal",
+        "社区相关、共同使用的"
+      ],
+      [
+        "英语 communal → communally、communalism",
+        "共同地；共同生活或群体主义等名词"
+      ],
+      [
+        "communal + -ly → communally",
+        "由群体共同地、共用地"
+      ]
+    ],
+    "explanation": "communally owned 共同拥有；communally managed 共同管理；live communally 过共同生活。",
+    "usage": "communally owned；communally managed；live communally。",
+    "contrast": "communally 说共同行动、共享方式；commonly 说通常、普遍，不能把共同所有写成“经常所有”。",
+    "examples": [
+      [
+        "The land is communally owned.",
+        "这片土地由群体共同拥有。"
+      ],
+      [
+        "The residents prepare meals communally.",
+        "住户们一起准备饭菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/communally#English"
+    ]
+  },
+  {
+    "word": "communalism",
+    "ipa": "/kəˈmjuːnəlɪzəm/",
+    "meaning": "共同生活、共享财责的制度或主张；宗教群体本位倾向〔南亚语境等〕",
+    "sense": "一条意思强调共同生活、共享财物与责任；另一条在南亚政治社会讨论中，常说把本群体尤其宗教群体利益推到排他位置。两条不能混成一个好坏判断。",
+    "split": "communal + -ism → communalism；-ism 形成制度、取向等名词。不同语境中的共同体边界，带出不同固定用法。",
+    "history": [
+      [
+        "拉丁 communis 共同 → 晚期拉丁 communalis → 法语 communal",
+        "社区相关、共同使用的"
+      ],
+      [
+        "英语 communal → communally、communalism",
+        "共同地；共同生活或群体主义等名词"
+      ],
+      [
+        "communal + -ism → communalism",
+        "共同生活制度，或特定群体本位倾向"
+      ]
+    ],
+    "explanation": "discuss communalism 讨论共同生活制度或群体主义；communalism in politics 政治中的群体本位问题。要由文本的地区、议题判断，不单看词尾。",
+    "usage": "communalism in politics；the meaning of communalism。",
+    "contrast": "communalism 不是 communism 共产主义的拼写变体；共用厨房也不自动等于宗教群体冲突。",
+    "examples": [
+      [
+        "The essay uses communalism to describe shared property and responsibilities.",
+        "文章用 communalism 描述共享财产和责任的共同生活制度。"
+      ],
+      [
+        "In this political discussion, communalism refers to exclusionary religious group loyalties.",
+        "在这段政治讨论中，communalism 指带排他性的宗教群体忠诚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/communalism#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/communalism"
+    ]
+  },
+  {
+    "word": "moist",
+    "ipa": "/mɔɪst/",
+    "meaning": "湿润的；微湿的",
+    "sense": "蛋糕内部有水分、口感不干，土壤有一点湿度又没泡在水里，都能说 moist。通常不是水往下滴的程度。",
+    "split": "经中古英语接古法语 moiste 等湿润词；更早或混合拉丁霉、葡萄汁等材料，不能定成唯一清楚的现代拆分。",
+    "history": [
+      [
+        "古法语 moiste 等 → 中古英语 moist → moist",
+        "微湿、有水分；更早拉丁材料关系未定"
+      ],
+      [
+        "moist + -en → moisten",
+        "使微湿、变湿润"
+      ]
+    ],
+    "explanation": "moist soil 湿润土壤；a moist cake 湿润松软的蛋糕；moist eyes 含泪湿润的眼睛。评价常随对象变化，蛋糕 moist 可以是称赞。",
+    "usage": "moist soil；a moist cake；moist eyes。",
+    "contrast": "moist 常中性或正面说保留水分；damp 在房间、衣物上常让人想到不舒服的潮气，两者仍有重叠。",
+    "examples": [
+      [
+        "The soil should be moist rather than waterlogged.",
+        "土壤应当湿润，而不是积水。"
+      ],
+      [
+        "The cake stayed moist for several days.",
+        "蛋糕好几天都没有变干。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moist#English"
+    ]
+  },
+  {
+    "word": "moisten",
+    "ipa": "/ˈmɔɪsən/",
+    "meaning": "使湿润；变湿润",
+    "sense": "原来偏干，补一点水分让它微湿，就是 moisten。动作可以很轻，不要求整件东西浸在水里。",
+    "split": "moist + -en → moisten，-en 构成变成、使成为某种状态的动词。词中 t 通常不发音。",
+    "history": [
+      [
+        "古法语 moiste 等 → 中古英语 moist → moist",
+        "微湿、有水分；更早拉丁材料关系未定"
+      ],
+      [
+        "moist + -en → moisten",
+        "使微湿、变湿润"
+      ],
+      [
+        "moist + -en → moisten",
+        "变得、使变得湿润"
+      ]
+    ],
+    "explanation": "moisten a cloth 把布弄湿；moisten your lips 润一下嘴唇；moisten the soil 润湿土壤。",
+    "usage": "moisten a cloth；moisten your lips；moisten the soil。",
+    "contrast": "moisten 是增加一点水分，soak 通常是浸泡、浸透；前者不必达到后者程度。",
+    "examples": [
+      [
+        "She moistened a cloth with a little water.",
+        "她用一点水把布润湿。"
+      ],
+      [
+        "His eyes moistened as he read the letter.",
+        "他读信时眼眶湿润了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moisten#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/moisten"
+    ]
+  },
+  {
+    "word": "assignable",
+    "ipa": "/əˈsaɪnəbəl/",
+    "meaning": "可分配的；可指定、归属的；可转让的〔依语境〕",
+    "sense": "任务可以指派给某个人，按键可以指定一种功能，都是 assignable。核心是能给它确定负责者、用途、归属。",
+    "split": "assign + -able → assignable；assign 接拉丁 assignare 指派、指定材料，g 在这些现代形式中不发音。",
+    "history": [
+      [
+        "拉丁 assignare 指定、分配等 → 法语、英语 assign",
+        "给任务、资源确定归属"
+      ],
+      [
+        "assign + -able → assignable",
+        "可以分配、指定或转让的"
+      ]
+    ],
+    "explanation": "an assignable task 可指派的任务；assignable buttons 可自定义分配功能的按钮；an assignable cause 可确定归属的原因，专门用法由领域限定。",
+    "usage": "assignable tasks；assignable buttons；an assignable cause。",
+    "contrast": "assignable 说能分配，assigned 说已经分配；可指定功能的按钮也不表示已经选好了功能。",
+    "examples": [
+      [
+        "The controller has four assignable buttons.",
+        "控制器有四个可自定义功能的按钮。"
+      ],
+      [
+        "Each task is assignable to a member of the team.",
+        "每项任务都可指派给团队中的一名成员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assignable#English"
+    ]
+  },
+  {
+    "word": "caffeinated",
+    "ipa": "/ˈkæfɪneɪtɪd/",
+    "meaning": "含咖啡因的；受咖啡因影响而精神振奋的",
+    "sense": "不只咖啡：茶或某些饮料含咖啡因，也可以是 caffeinated。它说含有这种物质，不要求后来人工加进去。",
+    "split": "caffeine + -ated 对应 caffeinated；也可按相关动词 caffeinate 的分词识别。-ated 不是让你把整词读成 café + 任意 nated。",
+    "history": [
+      [
+        "caffeine 咖啡因；接法语咖啡相关化学名称",
+        "特定物质名称"
+      ],
+      [
+        "caffeine + -ated，或对应 caffeinate 的分词 → caffeinated",
+        "含咖啡因的；受咖啡因刺激的"
+      ]
+    ],
+    "explanation": "caffeinated drinks 含咖啡因饮料；caffeinated coffee 含咖啡因咖啡，与 decaffeinated 对照；口语人也可说 heavily caffeinated，带喝过不少后兴奋的感觉。",
+    "usage": "caffeinated drinks；caffeinated coffee。",
+    "contrast": "caffeinated 不是只有咖啡味；咖啡风味与是否含咖啡因，是不同属性。",
+    "examples": [
+      [
+        "The menu marks caffeinated drinks with a small symbol.",
+        "菜单用一个小符号标出含咖啡因的饮料。"
+      ],
+      [
+        "She asked whether the tea was caffeinated.",
+        "她问这种茶是否含咖啡因。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/caffeinated#English"
+    ]
+  }
+]

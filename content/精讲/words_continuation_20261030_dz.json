@@ -1,0 +1,300 @@
+[
+  {
+    "word": "sand",
+    "ipa": "/sænd/",
+    "meaning": "沙、砂；用砂磨平；撒沙",
+    "sense": "一粒粒很小、抓起来会从指缝漏走的材料；细硬颗粒能磨掉表面不平处，于是 sand 也能作打磨动词。",
+    "split": "继承古英语 sand，经中古英语多个形式到现代。由材料名发展出铺撒、打磨等动作，不能从 and 前面多一个 s 来拆义。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "现代用途、形状比喻",
+        "颗粒材料 → 铺撒、磨削；沙地景观、游戏及相关命名"
+      ]
+    ],
+    "explanation": "fine sand 细沙，a grain of sand 一粒沙，sand the wood 打磨木头，sand a road 在路面撒沙。sand 常不可数，sands 可大片沙地、沙滩。",
+    "usage": "fine sand；a grain of sand；sand the wood；sand a road。",
+    "contrast": "sand 颗粒材料，soil 土壤，dust 灰尘各有侧重；sand 动词打磨未必拿一把松沙直接擦，可用砂纸、相应工具。",
+    "examples": [
+      [
+        "The children played in the sand.",
+        "孩子们在沙里玩。"
+      ],
+      [
+        "Sand the surface before painting it.",
+        "涂漆前先打磨表面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sand#English"
+    ]
+  },
+  {
+    "word": "sandy",
+    "ipa": "/ˈsændi/",
+    "meaning": "多沙的、含沙的；沙色的、浅黄褐色的",
+    "sense": "海滩、土壤中沙很多；头发是浅黄褐色，也可借沙色叫 sandy，不是说头发里真落满了沙。",
+    "split": "古英语 sandiġ → 中古英语 sandi、sondy 等 → sandy，现代对应 sand + -y。颜色义借沙的典型浅黄褐印象。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "古英语 sandiġ → sandy；对应 sand + -y",
+        "有沙、含沙的；像沙一样的颜色"
+      ]
+    ],
+    "explanation": "a sandy beach 沙滩，sandy soil 沙质土壤，sandy hair 浅黄褐色头发。",
+    "usage": "a sandy beach；sandy soil；sandy hair。",
+    "contrast": "sandy 含沙或沙色，sand 动词打磨；sandy hair 不保证头发脏，也不是所有沙的颜色都完全相同。",
+    "examples": [
+      [
+        "The plants grow well in sandy soil.",
+        "这些植物在沙质土壤里长得很好。"
+      ],
+      [
+        "He had sandy hair and bright blue eyes.",
+        "他头发浅黄褐，眼睛湛蓝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandy#English"
+    ]
+  },
+  {
+    "word": "sanding",
+    "ipa": "/ˈsændɪŋ/",
+    "meaning": "砂磨、打磨；撒沙；正在进行相应动作",
+    "sense": "用细硬颗粒把粗表面一点点磨顺；道路作业中也能说在表面撒沙，两个动作都从 sand 的用途来。",
+    "split": "sand + -ing，中古英语已有相应动作名词。现代工序名不一定表示动作此刻正在发生，the sanding took an hour 是整个打磨过程。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "sand + -ing → sanding",
+        "打磨、撒沙的过程；相应分词"
+      ]
+    ],
+    "explanation": "sanding the floor 打磨地板，sanding dust 打磨产生的粉尘，after sanding 打磨后。",
+    "usage": "sanding the floor；sanding dust；after sanding。",
+    "contrast": "sanding 是磨削工序，painting 涂漆是另一工序；sander 工具，sanding 动作过程。",
+    "examples": [
+      [
+        "The table needs sanding before it is painted.",
+        "桌子上漆前需要打磨。"
+      ],
+      [
+        "The sanding took longer than expected.",
+        "打磨所花时间比预期更长。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sanding#English"
+    ]
+  },
+  {
+    "word": "sander",
+    "ipa": "英 /ˈsændə/；美 /ˈsændər/",
+    "meaning": "砂磨机、打磨工具；打磨者、撒沙器等",
+    "sense": "替你让砂纸、磨料持续运动来磨平表面的工具。-er 可以是工具，不必有一个人就叫撒沙人。",
+    "split": "sand 打磨、撒沙 + -er，按动作形成执行者、器具名。现代日常先掌握电动打磨工具。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "sand + -er → sander",
+        "进行打磨、撒沙的人或器具"
+      ]
+    ],
+    "explanation": "an electric sander 电动砂磨机，a belt sander 砂带机，a handheld sander 手持打磨机。",
+    "usage": "an electric sander；a belt sander；a handheld sander。",
+    "contrast": "sander 机器、sandpaper 砂纸，机器可带动砂纸工作；sandpit 里玩沙的孩子不因此都叫 sander。",
+    "examples": [
+      [
+        "She used an electric sander on the old table.",
+        "她用电动砂磨机打磨旧桌子。"
+      ],
+      [
+        "The sander left the surface much smoother.",
+        "砂磨机让表面平滑多了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sander#English"
+    ]
+  },
+  {
+    "word": "sandcastle",
+    "ipa": "英 /ˈsændkɑːsəl/；美 /ˈsændkæsəl/",
+    "meaning": "沙堡",
+    "sense": "把沙堆成城墙、塔楼一类形状，castle 的城堡概念接到材料 sand 上。可以很小，也可做得很复杂。",
+    "split": "sand + castle 城堡，材料名与造型名并列组合；castle 的 t 不单独读出。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "sand + castle → sandcastle",
+        "用沙塑成的城堡模型"
+      ]
+    ],
+    "explanation": "build a sandcastle 堆沙堡，a sandcastle on the beach 沙滩上的沙堡，wash away a sandcastle 冲掉沙堡。",
+    "usage": "build a sandcastle；a sandcastle on the beach；wash away a sandcastle。",
+    "contrast": "sandcastle 是造型作品，不等于 sandhill 自然或一般沙丘；城堡材料松散，不是实际防御建筑。",
+    "examples": [
+      [
+        "The children built a sandcastle near the water.",
+        "孩子们在水边堆了个沙堡。"
+      ],
+      [
+        "A wave washed the sandcastle away.",
+        "一个浪把沙堡冲掉了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandcastle#English"
+    ]
+  },
+  {
+    "word": "sandpit",
+    "ipa": "/ˈsændpɪt/",
+    "meaning": "沙坑；儿童玩沙池；采沙坑",
+    "sense": "有沙的一块坑、围出的区域，可以给孩子玩，也可在工程、地理语境中是取沙地点。",
+    "split": "古英语 sandpytt → 中古英语 sandpitte 等 → sandpit，现代对应 sand + pit 坑。复合词历史很早，不只现代游乐场才造。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "古英语 sandpytt → sandpit；对应 sand + pit",
+        "有沙的坑、取沙处 → 儿童玩沙区域等"
+      ]
+    ],
+    "explanation": "play in the sandpit 在沙池里玩，a school sandpit 学校沙池，an old sandpit 旧采沙坑。",
+    "usage": "play in the sandpit；a school sandpit；an old sandpit。",
+    "contrast": "sandpit 儿童设施英式常见，美式常说 sandbox；sandbox 软件隔离环境是同一沙盒词的后起比喻，不是 sandpit 全部场景都能照搬。",
+    "examples": [
+      [
+        "The children spent the afternoon in the sandpit.",
+        "孩子们下午一直在沙池里玩。"
+      ],
+      [
+        "The path passed an old sandpit.",
+        "小路经过一个旧采沙坑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandpit#English"
+    ]
+  },
+  {
+    "word": "sandhill",
+    "ipa": "/ˈsændhɪl/",
+    "meaning": "沙丘、沙质小山",
+    "sense": "一处主要由沙构成的隆起，hill 指小山、丘；名称让你先看到材料与地形。",
+    "split": "sand + hill，合成沙质丘陵、沙丘名。也出现在 sandhill crane 沙丘鹤等名称，不能仅由一个动物名字推断它永远只住沙丘。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "sand + hill → sandhill",
+        "沙构成的丘、沙质小山"
+      ]
+    ],
+    "explanation": "low sandhills 低矮沙丘，a path over the sandhill 越过沙丘的小路，among the sandhills 沙丘间。",
+    "usage": "low sandhills；over the sandhill；among the sandhills。",
+    "contrast": "sandhill 沙质地形，sandcastle 人造沙堡；dune 常特指风等塑成的沙丘，不只一座 hill 含沙就能推断同样形成机制。",
+    "examples": [
+      [
+        "The path wound among low sandhills.",
+        "小路在低矮沙丘间蜿蜒。"
+      ],
+      [
+        "We climbed the sandhill to see the sea.",
+        "我们爬上沙丘去看海。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandhill#English"
+    ]
+  },
+  {
+    "word": "sandpiper",
+    "ipa": "英 /ˈsændpaɪpə/；美 /ˈsændpaɪpər/",
+    "meaning": "鹬类小涉禽〔多种鸟的常用名称〕",
+    "sense": "常在岸边、浅水边走动觅食的小涉禽；piper 借鸣声像细管发出的尖细音来命名，不是真的带着一根笛子。",
+    "split": "sand 沙、沙岸 + piper 吹管者，借栖息环境与鸣声组合成鸟名。它是一组常用鸟名材料，不当所有沙滩鸟的总称。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "sand + piper → sandpiper",
+        "沙岸活动、发出管音般鸣声的鸟名"
+      ]
+    ],
+    "explanation": "a sandpiper on the shore 岸边的鹬，a flock of sandpipers 一群鹬，sandpipers feeding in shallow water 浅水觅食的鹬类。",
+    "usage": "a flock of sandpipers；sandpipers on the shore；a small sandpiper。",
+    "contrast": "sandpiper 鹬类涉禽，seagull 海鸥不同；常用名有多种，准确识别看完整种名与外形。",
+    "examples": [
+      [
+        "A small sandpiper ran along the water’s edge.",
+        "一只小鹬沿水边跑动。"
+      ],
+      [
+        "We watched sandpipers feeding in the shallow water.",
+        "我们看着鹬类在浅水中觅食。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandpiper#English"
+    ]
+  },
+  {
+    "word": "sandman",
+    "ipa": "/ˈsændmæn/",
+    "meaning": "睡魔、带来睡意的撒沙人〔民间传说〕",
+    "sense": "故事说他往眼睛撒沙让人犯困，像眼睛累时有沙粒、想揉眼的感觉；这是民间形象，不是睡眠的实际生理解释。",
+    "split": "现代材料为 sand + man，人物形象有欧洲民间传说背景，德语 Sandmann 等也参与传播。不同作品细节不同，不强定一个唯一的最初故事。",
+    "history": [
+      [
+        "古英语 sand → 中古英语 sand、sond → sand",
+        "沙、砂；本族继承词"
+      ],
+      [
+        "sand + man；欧洲民间传说中的相应人物 → sandman",
+        "撒沙带来睡意的虚构人物"
+      ]
+    ],
+    "explanation": "the Sandman 睡魔，a story about the Sandman 睡魔故事，the Sandman is coming 睡意来了〔童话式表达〕。",
+    "usage": "the Sandman；a story about the Sandman；the Sandman is coming。",
+    "contrast": "sandman 传说人物，sander 现代常打磨机；作品同名人物可能另有设定，不能把所有版本都当同一剧情。",
+    "examples": [
+      [
+        "The bedtime story featured the Sandman.",
+        "睡前故事里出现了睡魔。"
+      ],
+      [
+        "“The Sandman is coming,” she said as the child yawned.",
+        "孩子打哈欠时，她说：“睡魔要来了。”"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandman#English",
+      "https://www.etymonline.com/word/sandman"
+    ]
+  }
+]

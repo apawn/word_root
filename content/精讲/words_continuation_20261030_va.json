@@ -1,0 +1,377 @@
+[
+  {
+    "word": "hence",
+    "ipa": "/hens/",
+    "meaning": "因此、由此；从现在起〔某时之后〕；从这里〔较旧、文学〕",
+    "sense": "脚步从这里出发，时间从现在往后算，推理从这个事实接下去。hence 用同一种由此出发的方向感连起几个意思。",
+    "split": "接古英语 heonan 从这里、离开这里，经中古英语 henne、hennes 等，末尾有旧副词属格 -s；后来写 ce 保留 /s/。与 here 的指示材料同族，逻辑因此义是后来的扩展。",
+    "history": [
+      [
+        "古英语 heonan → henne／hennes → hence",
+        "从这里；较后保留副词 s 的声音"
+      ],
+      [
+        "时间、逻辑扩展",
+        "从此刻起；从这个事实出发，因此"
+      ]
+    ],
+    "explanation": "hence the name 名称由此而来；hence the delay 因此延误；two years hence 两年之后，较书面；henceforth 从今以后。",
+    "usage": "hence the difference；a week hence。",
+    "contrast": "hence 常连接推论，可后接名词短语：The road was closed, hence the delay。它不总是因为；说原因本身常用 because，说由原因推出的结果才常用 hence。",
+    "examples": [
+      [
+        "The road was closed, hence the delay.",
+        "道路封闭了，因此发生延误。"
+      ],
+      [
+        "No one knows what the town will look like fifty years hence.",
+        "没有人知道五十年后小镇会是什么样子。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/hence",
+      "https://en.wiktionary.org/wiki/hence#English"
+    ]
+  },
+  {
+    "word": "prop",
+    "ipa": "英 /prɒp/；美 /prɑːp/",
+    "meaning": "支撑物；支撑；另源：道具",
+    "sense": "顶住门、托住架子的东西，是支撑物 prop；演员拿在手里的杯子、假信件，也可能叫 prop，但道具义来自另一个缩短过程。",
+    "split": "支撑义可能经中古荷兰语 proppe 支柱、塞子等，更远来源不定。道具义则由 properties 的舞台用品用法缩成 props，再出现单数 prop；两线不能画成支柱必然变道具。",
+    "history": [
+      [
+        "支撑线：较早荷兰语等 → prop",
+        "支撑物；后来也作动词支撑"
+      ],
+      [
+        "道具线：properties → props → prop",
+        "舞台用品 → 缩短复数 → 相应单数"
+      ]
+    ],
+    "explanation": "a wooden prop 木支撑；prop the door open 把门撑开；a stage prop 舞台道具；a prop table 道具桌。动词过去式 propped，双写 p。",
+    "usage": "prop something against a wall；a film prop。",
+    "contrast": "a prop in a play 常说道具，不一定承担支撑重量的功能。props to someone 致敬某人，又是 proper respects 等词组的另一缩短。",
+    "examples": [
+      [
+        "She used a chair to prop the door open.",
+        "她用一把椅子把门撑开。"
+      ],
+      [
+        "The actor picked up the letter that served as a prop.",
+        "演员拿起了那封用作道具的信。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/prop",
+      "https://en.wiktionary.org/wiki/prop#English"
+    ]
+  },
+  {
+    "word": "props",
+    "ipa": "英 /prɒps/；美 /prɑːps/",
+    "meaning": "道具；支撑物〔复数〕；致敬、认可〔口语〕",
+    "sense": "舞台后台摆着一桌 props，通常是道具；有人做得漂亮，你说 props to her，是把应得的认可给她。",
+    "split": "道具 props 较早由 properties 舞台用品缩短，并产生单数 prop。致敬 props 通常解释为 proper respects、proper recognition 等缩短加复数形式；普通支撑物复数则直接由另源 prop 加 -s。",
+    "history": [
+      [
+        "properties → props；另有 prop + -s",
+        "舞台道具；或另源支撑物的复数"
+      ],
+      [
+        "proper respects 等词组缩短 → props",
+        "应得的尊重、认可 → 口语致敬"
+      ]
+    ],
+    "explanation": "stage props 舞台道具；a props department 道具部门；give someone props 给某人认可；Props to the team! 向团队致敬！",
+    "usage": "props for the show；props to everyone who helped。",
+    "contrast": "props to someone 常是非正式认可，并非把道具送给对方。说剧组准备 props 则回到道具义，不能用致敬一义硬套。",
+    "examples": [
+      [
+        "The crew checked all the props before the performance.",
+        "工作人员在演出前检查了全部道具。"
+      ],
+      [
+        "Props to everyone who stayed late to finish the work.",
+        "向所有加班完成工作的人致敬。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/props",
+      "https://www.etymonline.com/word/prop",
+      "https://en.wiktionary.org/wiki/props#English"
+    ]
+  },
+  {
+    "word": "livery",
+    "ipa": "/ˈlɪvəri/；亦 /ˈlɪvri/",
+    "meaning": "识别所属的制服、服色；车辆统一涂装；车马出租、马匹寄养服务等",
+    "sense": "老时候给随从统一发衣服，衣服就标明属于谁。今天一排公交车穿上同一种颜色和标志，也可以说同一种 livery。",
+    "split": "经法语 livree 已交付、发给的东西，接 livrer 交付，更早与 liberare 释放、交付词族相连。发给的给养、衣物发展为制服、所属标记；车马服务义另沿供养、服务分支保留。",
+    "history": [
+      [
+        "法语 livrer → livree → livery",
+        "交付 → 发给的给养、衣物"
+      ],
+      [
+        "制服、供给服务等分支",
+        "制服、识别所属的涂装；车马服务"
+      ]
+    ],
+    "explanation": "a bus in the company’s livery 公司统一涂装的公交车；a new airline livery 航空公司新涂装；servants in livery 穿制服的仆役，历史场景常见。",
+    "usage": "a blue and white livery；a livery stable。",
+    "contrast": "车辆 livery 主要是识别所属的配色、图样，不是肝脏 liver 加 -y。英语另有与肝脏有关的同形形容词，这里解释的是制服、涂装这一条来源。",
+    "examples": [
+      [
+        "The buses now carry the company’s blue and white livery.",
+        "这些公交车如今采用公司的蓝白统一涂装。"
+      ],
+      [
+        "The aircraft appeared in a new livery for the anniversary.",
+        "那架飞机为周年纪念换上了新涂装。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/livery",
+      "https://en.wiktionary.org/wiki/livery#English"
+    ]
+  },
+  {
+    "word": "alumnus",
+    "ipa": "/əˈlʌmnəs/",
+    "meaning": "校友、曾就读者；传统形式尤指男性",
+    "sense": "学校曾经把一个人培养起来，这个人离开后回看母校，就是 alumnus 的校园关系。不是泛指今天仍在上课的所有学生。",
+    "split": "借拉丁 alumnus 受养育者、学生，来自 alere 喂养、培养的旧材料。与 altus 高的所含长起来材料有历史联系，但不是英语 altitude 的缩写。传统复数 alumni。",
+    "history": [
+      [
+        "拉丁 alere → alumnus",
+        "喂养、培养 → 受培养者、学生"
+      ],
+      [
+        "英语 alumnus",
+        "曾在某校学习的人；复数 alumni"
+      ]
+    ],
+    "explanation": "an alumnus of the university 这所大学的一位校友；a distinguished alumnus 杰出校友；传统性别形式另有 alumna。",
+    "usage": "a former pupil；an alumnus of this school。",
+    "contrast": "alumnus 常尤其指男性校友，alumna 为女性形式。校友不总要求已经取得学位，具体学校活动的资格范围按其定义；普通毕业生也常说 graduate。",
+    "examples": [
+      [
+        "He is an alumnus of the local university.",
+        "他是当地大学的校友。"
+      ],
+      [
+        "A distinguished alumnus returned to speak to the students.",
+        "一位杰出校友回校给学生演讲。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/alumnus",
+      "https://www.etymonline.com/word/altitude",
+      "https://en.wiktionary.org/wiki/alumnus#English"
+    ]
+  },
+  {
+    "word": "alumni",
+    "ipa": "/əˈlʌmnaɪ/",
+    "meaning": "校友们；alumnus 的传统复数形式",
+    "sense": "一批曾在这所学校学习的人重新聚在一起，就是一群 alumni。校园里 alumni office、alumni event 常用它统称校友群体。",
+    "split": "保留拉丁 alumnus → alumni 的复数变化，英语借入后继续使用。较早 alumnus 接 alere 养育、培养；现代复数语境可泛指校友群体，不必都是男性。",
+    "history": [
+      [
+        "拉丁 alumnus → alumni",
+        "受培养者、学生的单数 → 复数"
+      ],
+      [
+        "英语校园用法",
+        "校友群体；传统男性或混合群体形式"
+      ]
+    ],
+    "explanation": "an alumni association 校友会；alumni events 校友活动；alumni of the school 这所学校的校友们；the alumni are ... 校友们……。",
+    "usage": "meet other alumni；the alumni network。",
+    "contrast": "传统标准形式里 alumni 是复数：one alumnus，several alumni。作定语 alumni event 不表示一个叫 alumni 的人；日常还有缩短用法，读正式校园文字先认这组变化。",
+    "examples": [
+      [
+        "Alumni from different years attended the reunion.",
+        "不同届的校友参加了聚会。"
+      ],
+      [
+        "The university invited its alumni to share career advice.",
+        "大学邀请校友分享职业经验。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/alumnus",
+      "https://en.wiktionary.org/wiki/alumni#English"
+    ]
+  },
+  {
+    "word": "alumna",
+    "ipa": "/əˈlʌmnə/",
+    "meaning": "女校友；曾就读于某机构的女性",
+    "sense": "同样是受学校培养后成为校友，alumna 是传统拉丁词形里指女性的那一个。",
+    "split": "借拉丁 alumnus 的阴性形式 alumna，承接受养育、受培养的词族。英语保留这一性别形式，对应复数 alumnae。",
+    "history": [
+      [
+        "拉丁 alumnus／alumna",
+        "同一受培养、学生词族的不同性别形式"
+      ],
+      [
+        "英语 alumna；复数 alumnae",
+        "一位女校友；相应传统复数"
+      ]
+    ],
+    "explanation": "an alumna of the college 这所学院的一位女校友；a notable alumna 知名女校友；a recent alumna 近年离校的女校友。",
+    "usage": "the college’s first alumna to ...；a school alumna。",
+    "contrast": "alumna 是单数，alumnae 是复数；末音分别常为 /ə/、/iː/。不要因为中文都能说校友，就把词形和动词单复数一起混用。",
+    "examples": [
+      [
+        "She is an alumna of the college.",
+        "她是这所学院的女校友。"
+      ],
+      [
+        "The school invited an alumna to open the exhibition.",
+        "学校邀请一位女校友为展览揭幕。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/alumnus",
+      "https://en.wiktionary.org/wiki/alumna#English"
+    ]
+  },
+  {
+    "word": "alumnae",
+    "ipa": "/əˈlʌmniː/",
+    "meaning": "女校友们；alumna 的传统复数",
+    "sense": "alumna 是一位，alumnae 是多位。看见一所女子学院的 alumnae association，指的就是女校友会。",
+    "split": "保留拉丁阴性名词 alumna → alumnae 的复数形式。英语在校园称呼中沿用，词尾 ae 在这个常见英语读法中合为 /iː/。",
+    "history": [
+      [
+        "拉丁 alumna → alumnae",
+        "受培养的女性、女学生 → 相应复数"
+      ],
+      [
+        "英语 alumnae",
+        "传统女校友复数；末尾 /iː/"
+      ]
+    ],
+    "explanation": "the alumnae of the college 学院的女校友们；an alumnae association 女校友会；an alumnae reunion 女校友聚会。",
+    "usage": "meet fellow alumnae；the alumnae returned。",
+    "contrast": "alumnae 与 alumni 都是复数，但末音与传统性别范围不同：alumnae /niː/，alumni /naɪ/。不是所有拉丁 ae 都在英语里采用同一读法，这里按此词记。",
+    "examples": [
+      [
+        "The college welcomed its alumnae back for the anniversary.",
+        "学院欢迎女校友们返校参加周年纪念。"
+      ],
+      [
+        "Several alumnae volunteered to mentor new students.",
+        "几位女校友自愿担任新生的导师。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/alumnus",
+      "https://en.wiktionary.org/wiki/alumnae#English"
+    ]
+  },
+  {
+    "word": "cactus",
+    "ipa": "/ˈkæktəs/",
+    "meaning": "仙人掌类植物；一株仙人掌",
+    "sense": "日常可先想能储水的厚茎、常见的刺；它是植物类群的名称，不是所有带刺、耐旱的植物都自动叫 cactus。",
+    "split": "英语接植物学拉丁名称 Cactus，较早拉丁 cactus 借希腊 kaktos，原指一种带刺植物，并非一开始就专指美洲仙人掌。植物学后来把旧名转用于相应类群，更远来源不定。",
+    "history": [
+      [
+        "希腊 kaktos → 拉丁 cactus",
+        "旧时某种带刺植物的名称"
+      ],
+      [
+        "植物学名称 → 英语 cactus",
+        "现代仙人掌类植物名称"
+      ]
+    ],
+    "explanation": "a small cactus 一株小仙人掌；a cactus flower 仙人掌花；cacti、cactuses 均可作复数。",
+    "usage": "grow a cactus；a cactus in a pot。",
+    "contrast": "cactus 是可数名词，一株用 a cactus；多株可用 cacti 或 cactuses。succulent 多肉植物范围更广，不能把所有多肉都叫 cactus。",
+    "examples": [
+      [
+        "She grows a small cactus on the windowsill.",
+        "她在窗台上养了一株小仙人掌。"
+      ],
+      [
+        "The cactus produced a bright pink flower.",
+        "那株仙人掌开出了一朵鲜粉色的花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cactus#English"
+    ]
+  },
+  {
+    "word": "cacti",
+    "ipa": "/ˈkæktaɪ/",
+    "meaning": "仙人掌〔cactus 的一种复数〕",
+    "sense": "不是另一种植物，而是不止一株 cactus。常见书面形式 cacti 保留了拉丁样式的复数。",
+    "split": "cactus → cacti，保留拉丁名词 -us → -i 的相应词形；英语同时有普通复数 cactuses。这个模式只适用于采用这种变化的词，不能套给 bus 等所有 -us。",
+    "history": [
+      [
+        "cactus",
+        "一株仙人掌、仙人掌类植物"
+      ],
+      [
+        "拉丁式 cacti；英语式 cactuses",
+        "两种常见复数形式"
+      ]
+    ],
+    "explanation": "several cacti 几株仙人掌；a collection of cacti 一批收藏、栽培的仙人掌；desert cacti 沙漠仙人掌。",
+    "usage": "cacti in pots；cacti are growing。",
+    "contrast": "cacti 的末尾常读 /taɪ/，不是英语 tea 的读法；标准复数 cacti 后不再加 s。cactuses 也成立，并非看到 s 就错误。",
+    "examples": [
+      [
+        "Several cacti stood in pots near the window.",
+        "几株仙人掌种在窗边的花盆里。"
+      ],
+      [
+        "The guide pointed out different kinds of cacti.",
+        "导游指出了不同种类的仙人掌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cacti#English",
+      "https://en.wiktionary.org/wiki/cactus#English"
+    ]
+  },
+  {
+    "word": "fungi",
+    "ipa": "/ˈfʌŋɡaɪ/、/ˈfʌndʒaɪ/ 等",
+    "meaning": "真菌〔fungus 的复数〕",
+    "sense": "蘑菇、霉菌、酵母等都在真菌这个范围里。fungi 把多个成员或这一类生物放在一起说，不只是许多蘑菇。",
+    "split": "fungus → fungi，保留拉丁相应复数形式；fungus 原有蘑菇等义，现代用于真菌类群。英语也有 funguses，用法和语域有差异；g 读 /ɡ/、/dʒ/ 等变体都有使用。",
+    "history": [
+      [
+        "拉丁 fungus／fungi → 英语对应借词",
+        "蘑菇等旧称；单复数形式"
+      ],
+      [
+        "现代生物学 fungi",
+        "真菌，范围含蘑菇、霉菌、酵母等"
+      ]
+    ],
+    "explanation": "different fungi 不同真菌；soil fungi 土壤真菌；the study of fungi 真菌研究；Fungi 作分类群名称时常大写。",
+    "usage": "fungi grow；fungi in the forest。",
+    "contrast": "fungi 通常是复数，配 are、grow；一种真菌用 a fungus。fungus 不等于 bacteria 细菌，也不等于所有可见的蘑菇；它们是不同范围的名称。",
+    "examples": [
+      [
+        "Many fungi help break down dead plant material.",
+        "许多真菌帮助分解死亡的植物物质。"
+      ],
+      [
+        "The book describes fungi found in local woodlands.",
+        "书中介绍了本地林地里的真菌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fungi#English",
+      "https://en.wiktionary.org/wiki/fungus#English"
+    ]
+  }
+]

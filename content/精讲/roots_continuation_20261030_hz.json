@@ -1,0 +1,138 @@
+[
+  {
+    "id": "B4273",
+    "meaning": "学习研究的人、学问与学习资助",
+    "core": "SCHOLAR：研究者的学问，也能连到资助学习",
+    "image": "scholar → scholarly 学术的；scholarship 既是学问研究，也可是一份奖学金。",
+    "intro": "看名词对象最管用：拿到的常是资助，称赞一本书时则常是其研究。-ly 在这里形成形容词。",
+    "forms": "scholar + -ly/-ship；scholar 自身远接学校、学习词族。\n\nscholarship 起初说学者身份、学问，后来指供学习的资助。现代复数常数奖学金项目，学术研究、学问义一般不靠普通复数来数。",
+    "branches": [
+      [
+        "人物、学术性质与学问资助",
+        "scholar · scholarly · scholarship"
+      ],
+      [
+        "scholar + -ship → scholarships",
+        "scholarships"
+      ]
+    ],
+    "contrasts": "scholarly 不是副词；scholarship 学问常不可数、奖学金可数；学术性不等于难读。",
+    "practice": "The scholar used the scholarship to continue her scholarly research.\n\n那位学者用奖学金继续她的学术研究。",
+    "words": [
+      "scholar",
+      "scholarly",
+      "scholarship",
+      "scholarships"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4259",
+    "meaning": "与人、用途和场合相合",
+    "core": "SUITABLE：不问东西绝对好坏，先问配不配",
+    "image": "suitable → suitably；unsuitable 否定适合关系。",
+    "intro": "同一双鞋适合室内，却不适合登山。把用途说清楚，适合、不适合就不会变成空泛的好、坏。",
+    "forms": "suit + -able → suitable；suitable → suitably；un- + suitable。",
+    "branches": [
+      [
+        "相合、相应方式与不合",
+        "suitable · suitably · unsuitable"
+      ]
+    ],
+    "contrasts": "unsuitable 不等于无用；suitably 要看场合、程度；-able 到副词变 -ably。",
+    "practice": "He was suitably dressed for dinner, but his shoes were unsuitable for the muddy path.\n\n他的晚餐穿着得体，但鞋子不适合走泥路。",
+    "words": [
+      "suitable",
+      "suitably",
+      "unsuitable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4241",
+    "meaning": "窄长形状、剥去动作与超越词的不同历史",
+    "core": "STRIP：长条看形状，剥去看动作，outstrip 另辨",
+    "image": "strip → stripper/striptease；airstrip 是窄长跑道；outstrip 超过，不靠脱衣义解释。",
+    "intro": "形状和动作可以互相帮助记忆，但历史上名词、动词和快速前行组合不宜硬画为单线。",
+    "forms": "长条名词的低地德语、stripe 相关路线；旧英语剥夺动词 → strip；-er、tease；outstrip 快速前行相关的多种解释。\n\n长条名词常联系低地德语相应条带名称，剥除动词接古英语剥夺等材料。两路现代用法可作画面联想，但不强编成先把衣服撕成长条的历史。\n\n去掉覆盖物的 strip 承古英语相关剥去、抢取材料；与长条名词 strip 的词史要分别看。双写 p 加完整 -ed，读 /strɪpt/。",
+    "branches": [
+      [
+        "长条与剥除动作",
+        "strip · airstrip"
+      ],
+      [
+        "执行角色与表演",
+        "stripper · striptease"
+      ],
+      [
+        "超越",
+        "outstrip"
+      ],
+      [
+        "strip → strips：长条与去除覆盖层的两条词史",
+        "strips"
+      ],
+      [
+        "strip → stripped：剥去、去掉与精简",
+        "stripped"
+      ]
+    ],
+    "contrasts": "stripper 看上下文可为工具或人；striptease 不等于普通换衣；outstrip 不从比别人脱更多确定演化。",
+    "practice": "The factory’s output outstripped demand for the metal strips.\n\n工厂金属条的产量超过了需求。",
+    "words": [
+      "strip",
+      "airstrip",
+      "stripper",
+      "striptease",
+      "outstrip",
+      "strips",
+      "stripped"
+    ],
+    "exclude": {
+      "stripling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4467",
+    "meaning": "在材料与理解之间传达、解释意思",
+    "core": "INTERPRET：把话、信号、作品带到可理解的一边",
+    "image": "interpret → interpretation/interpreter；reinterpret 重新解释，misinterpret 解释错。",
+    "intro": "从中间传达者的角色看，口译、数据解读和演绎作品就能连起来。理解仍可能有不同版本或错误，词本身不保证解释为真。",
+    "forms": "interpres → interpretārī → interpret；interpretātiō、人物词等各自借入；re-/mis- + interpret。\n\n拉丁解释者、解释动作词族经法语借入，不强定更早的 pret 字母含义。\n\n拉丁 interpretari 接 interpres 中间传达者，经法语传入；更远后半来历有争议。\n\n法语、拉丁 interpretari 接 interpres 传达者，更早后半成分有不同解释；t 后 ed 读 id。",
+    "branches": [
+      [
+        "解释、结果与传达角色",
+        "interpret · interpretation · interpreter"
+      ],
+      [
+        "重新解读与误解",
+        "reinterpret · misinterpret"
+      ],
+      [
+        "interpretation → interpretations：解释、理解与演绎",
+        "interpretation · interpretations"
+      ],
+      [
+        "interpret → interpreting：把意思传过去、讲明白",
+        "interpret · interpreting · interpretation"
+      ],
+      [
+        "interpret → interpreted：传达意义、理解与演绎",
+        "interpret · interpreted"
+      ]
+    ],
+    "contrasts": "后半远源有争议；interpreter 可是手语传译员或程序；interpretation 可能只是看法；reinterpret 不等于 misinterpret。",
+    "practice": "The interpreter explained the first interpretation, then helped us reinterpret the evidence.\n\n传译员解释了最初的解读，又帮助我们重新理解证据。",
+    "words": [
+      "interpret",
+      "interpretation",
+      "interpreter",
+      "reinterpret",
+      "misinterpret",
+      "interpretations",
+      "interpreting",
+      "interpreted"
+    ],
+    "exclude": {}
+  }
+]

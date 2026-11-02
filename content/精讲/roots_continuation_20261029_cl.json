@@ -1,0 +1,127 @@
+[
+  {
+    "id": "B2524",
+    "meaning": "板、桌子；伙食、委员会；船侧与登乘",
+    "core": "BOARD：一块平面，几条固定的历史分支",
+    "image": "木板能做桌子、招牌、器材；桌上饭菜形成伙食义，围桌议事形成委员会义。船侧旧义与这些形式早已交叠。",
+    "intro": "先分清 board 的木板、桌子分支和船侧、登乘分支，再按用途阅读复合词。dashboard 要回到马车挡泥板，starboard 要回到掌舵侧，不能靠今天的 dash、star 主义硬猜。",
+    "forms": "board → boarder；aboard、onboard、overboard 围绕登乘和船侧；显示工具、运动器材、家居与乐器各自成组。\n\n古英语木板与船侧词史交叠，委员会和登交通工具的用途分别解释。\n\n古英语 bord 的板、桌与船侧历史交叠，登乘和提供伙食按现代语境分清。\n\nboard 的板、桌面材料进入具体家具名，不要求所有现代用途都是桌面。\n\n实物与计算机用法各有用途扩展，组合的后半仍为板、面板材料。\n\nmother、main 在这里限定中心、主要地位；不是木板材料的字面限制。\n\n乐器板状共鸣结构与现代音效控制面板，按各自对象理解。",
+    "branches": [
+      [
+        "板、桌子及其社会用法",
+        "board · boarder · boardroom"
+      ],
+      [
+        "登乘、船侧与海岸",
+        "aboard · onboard · overboard · starboard · seaboard · shipboard"
+      ],
+      [
+        "书写、显示和控制面板",
+        "keyboard · billboard · dashboard · scoreboard · leaderboard · clipboard · switchboard · blackboard · chalkboard · whiteboard · storyboard"
+      ],
+      [
+        "材料和家居部件",
+        "cardboard · sideboard · headboard · backboard"
+      ],
+      [
+        "运动、跳板与棋盘",
+        "skateboard · longboard · snowboard · surfboard · hoverboard · springboard · chessboard · checkerboard"
+      ],
+      [
+        "凸棱、共鸣与指板",
+        "washboard · soundboard · fingerboard · fretboard"
+      ],
+      [
+        "board → boards：木板、桌边议事与登上",
+        "board · boards"
+      ],
+      [
+        "board → boarding：从船侧到登乘；伙食另分支",
+        "board · boarding"
+      ],
+      [
+        "board 的两种家具组合：橱柜与餐边柜",
+        "board · cupboard · cupboards · sideboard · sideboards"
+      ],
+      [
+        "board 的夹纸板、按键面板组合及复数",
+        "board · clipboard · clipboards · keyboard · keyboards"
+      ],
+      [
+        "board 的主电路板组合及复数",
+        "board · motherboard · motherboards · mainboard · mainboards"
+      ],
+      [
+        "soundboard → soundboards：共鸣板与音效面板",
+        "soundboard · soundboards"
+      ]
+    ],
+    "contrasts": "board 食宿不是 bored 无聊；aboard 在船上，abroad 在国外；starboard 不是星星板，dashboard 不是冲刺板。",
+    "practice": "The board discussed the new dashboard before everyone boarded the train.\n\n董事会讨论了新数据看板，随后大家上了火车。",
+    "words": [
+      "board",
+      "boarder",
+      "boardroom",
+      "aboard",
+      "onboard",
+      "overboard",
+      "starboard",
+      "seaboard",
+      "shipboard",
+      "keyboard",
+      "billboard",
+      "dashboard",
+      "scoreboard",
+      "leaderboard",
+      "clipboard",
+      "switchboard",
+      "blackboard",
+      "chalkboard",
+      "whiteboard",
+      "storyboard",
+      "cardboard",
+      "sideboard",
+      "headboard",
+      "backboard",
+      "skateboard",
+      "longboard",
+      "snowboard",
+      "surfboard",
+      "hoverboard",
+      "springboard",
+      "chessboard",
+      "checkerboard",
+      "washboard",
+      "soundboard",
+      "fingerboard",
+      "fretboard",
+      "boards",
+      "boarding",
+      "cupboard",
+      "cupboards",
+      "sideboards",
+      "clipboards",
+      "keyboards",
+      "motherboard",
+      "motherboards",
+      "mainboard",
+      "mainboards",
+      "soundboards"
+    ],
+    "exclude": {
+      "above-board": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "boardwalk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "paperboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "baseboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "clapboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shuffleboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "floorboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flipboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plasterboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "breadboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "signboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pegboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fiberboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

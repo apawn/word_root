@@ -1,0 +1,179 @@
+[
+  {
+    "id": "B4328",
+    "meaning": "进入、开始；初期、姓名首字母与初始状态",
+    "core": "INITIAL：位于开头；INITIALIZE：把起始条件准备好",
+    "image": "initial → initially → initialize；名字首字母和签署动作直接在 initial 中按场景解释。",
+    "intro": "拉丁进入、开始的词系借入，不硬拆成否定 in-；最初状态可能后来改变。",
+    "forms": "inīre → initium → initiālis → initial；initial + -ly/-ize。",
+    "branches": [
+      [
+        "开头、最初与起始设置",
+        "initial · initially · initialize"
+      ]
+    ],
+    "contrasts": "initial 不保证最终；initially 起初、eventually 最后；initialize/reset/restart 具体操作含义不由词形保证一致。",
+    "practice": "Initially, the program initializes the counter to its initial value.\n\n起初，程序把计数器设为初始值。",
+    "words": [
+      "initial",
+      "initially",
+      "initialize"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4057",
+    "meaning": "想要的那一块没有、不足；失去光彩的组合",
+    "core": "LACK：欠一块、不够；LACKLUSTER：少光泽、没起色",
+    "image": "lack 掌握动词与名词句式，再 lackluster；冷门 lackland 暂略。",
+    "intro": "未记录旧词形只作假说，学习从可靠中古英语开始。实际表达先弄清 lack money 与 a lack of money。",
+    "forms": "lack + luster；英式常见 lacklustre。\n\n中古英语 lak、lakken 的近源可靠，更早分析有分歧；不把重建形式当实际古英语记录。\n\n中古英语材料的不同来源分析保留；现代加 s。\n\n英式 lacklustre 与美式 lackluster 对应，lack 缺少与 lustre 光泽组成；不是两个不同强度的形容词。\n\nlack 的来源有低地日耳曼借入或未记录本族相应词等分析，不能硬说古英语已有确定词形。现代 lack + -ed，/k/ 后读 /t/。",
+    "branches": [
+      [
+        "欠缺和表现平淡",
+        "lack · lackluster"
+      ],
+      [
+        "lack → lacking：缺少、不具备",
+        "lack · lacking"
+      ],
+      [
+        "lack → lacks：少了所需的东西",
+        "lack · lacks"
+      ],
+      [
+        "lacklustre：缺少光彩，到表现平淡",
+        "lackluster · lacklustre"
+      ],
+      [
+        "lack → lacked：缺少、未具备",
+        "lacked"
+      ]
+    ],
+    "contrasts": "动词 lack 直接接对象，名词 a lack of；lackluster 平淡无光不一定惨败。",
+    "practice": "The lackluster performance showed a lack of preparation.\n\n平淡的表现显出了准备不足。",
+    "words": [
+      "lack",
+      "lackluster",
+      "lacking",
+      "lacks",
+      "lacklustre",
+      "lacked"
+    ],
+    "exclude": {
+      "lack-all": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lack-life": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lack-love": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lack-grace": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lack-pity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lackland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4146",
+    "meaning": "旧扼、咬、烦扰到现代心理担忧；原因与感受",
+    "core": "WORRY：一件事揪住心，自己担心或使人担心",
+    "image": "worry → worried、worrying 对照感受和原因，再 worrisome、worrier；每个词落到角色。",
+    "intro": "旧动作到烦扰、担忧有历史过程，今天常用心理义。worried 与 worrying 先分好，理解例句会容易很多。",
+    "forms": "worry + -ed/-ing/-some/-er；-ed/-er 变 y 为 i，-ing 保留 y。\n\n古英语扼、勒到中古英语咬住、撕扯，再有心理困扰；现代三单和复数改 y 为 ies。\n\n现代担忧来自旧烦扰、心理困扰材料；worryingly 与 worrisomely 基底分别是 worrying、worrisome，worrier 旧义与现代易担心者义也要分开年代。\n\n和 worry 比较烦扰的场景，不是 worry 的派生。harry 承古英语 hergian 侵扰、劫掠，与古日耳曼军队材料相关；人名 Harry 另源。",
+    "branches": [
+      [
+        "动作与担忧状态",
+        "worry · worried"
+      ],
+      [
+        "令人担忧与爱担心的人",
+        "worrying · worrisome · worrier"
+      ],
+      [
+        "worry → worries：心里被某件事揪住",
+        "worry · worries"
+      ],
+      [
+        "worry：从旧揪扼材料到担心；两种令人担忧副词",
+        "worry · worrying · worryingly · worrier · worriers · worrisome · worrisomely · worried · unworried"
+      ],
+      [
+        "harry：从侵扰到接连催逼",
+        "harry · harries · harried · harrying"
+      ]
+    ],
+    "contrasts": "worried 感受、worrying/worrisome 原因；worrier 人不同于 warrior 战士；worry about 与 worry someone 句型分清。",
+    "practice": "The worrier was worried by the worrying news.\n\n这个爱操心的人因令人担忧的消息而发愁。",
+    "words": [
+      "worry",
+      "worried",
+      "worrying",
+      "worrisome",
+      "worrier",
+      "worries",
+      "worryingly",
+      "worriers",
+      "worrisomely",
+      "unworried",
+      "harry",
+      "harries",
+      "harried",
+      "harrying"
+    ],
+    "exclude": {
+      "worry-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2989",
+    "meaning": "从一点铺开到更大范围；扩散、撒布和表页",
+    "core": "SPREAD：摊开、抹开、传开，都在扩大范围",
+    "image": "spread → spreader → spreadsheet；已有 widespread、bedspread 共享，分别看广泛与床上铺盖。",
+    "intro": "铺开的动作能接实体、消息和数据表。过去、分词同形，靠句子时态识别。",
+    "forms": "spread—spread—spread；spread + -er/sheet；wide/bed + spread。\n\n古英语 spraedan 的本族动作词，ing 直接加；过去形式仍是 spread。\n\nspread 取铺开的覆盖物名词义，不是床在扩展。\n\n现代可指电子表格文件，也可依语境指相应表格工具。\n\n和 spread 比较分布，不是 spread 派生。scatter 承中古英语 scateren，较早可说挥霍、驱散，可能与 shatter 的旧形相关并受北欧影响，不把 shatter 今天碎裂义硬定为每一支的起点。\n\nspread 承日耳曼铺开、展开词族。现代 -s，末尾 /dz/；第三人称扩散、涂开与名词涂抹食品等同形。",
+    "branches": [
+      [
+        "动作与执行者",
+        "spread · spreader"
+      ],
+      [
+        "表页与覆盖物、广泛性",
+        "spreadsheet · bedspread · widespread"
+      ],
+      [
+        "spread → spreading：向四周铺开、传开",
+        "spread · spreading"
+      ],
+      [
+        "bedspread → bedspreads：铺在床上的外罩",
+        "spread · bedspread · bedspreads"
+      ],
+      [
+        "spreadsheet → spreadsheets：铺开的表页到电子表格",
+        "spreadsheet · spreadsheets"
+      ],
+      [
+        "scatter：另源的散开、散落",
+        "scatter · scatters · scattered · scattering"
+      ],
+      [
+        "spread 铺开、扩散 → spreads",
+        "spreads"
+      ]
+    ],
+    "contrasts": "spreadsheet 表、spreader 撒布工具；butter spreader 不是酱料；spread 三态同形，读音不换成 speed。",
+    "practice": "The spreadsheet tracks where the spreader has distributed the seeds.\n\n表格记录撒布器已经在哪些地方播了种。",
+    "words": [
+      "spread",
+      "spreader",
+      "spreadsheet",
+      "bedspread",
+      "widespread",
+      "spreading",
+      "bedspreads",
+      "spreadsheets",
+      "scatter",
+      "scatters",
+      "scattered",
+      "scattering",
+      "spreads"
+    ],
+    "exclude": {}
+  }
+]

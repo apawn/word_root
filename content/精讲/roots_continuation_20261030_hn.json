@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B3371",
+    "meaning": "从事工作的人，以及共同工作、木作和个案角色",
+    "core": "WORKER：先看做什么，再看与谁一起做",
+    "image": "worker → coworker；woodworker 做木作；caseworker 按个案持续跟进。",
+    "intro": "worker 抓的是从事工作的人。组合词前半部分可能说材料、协作关系，也可能说工作组织方式，不能都只翻成工人。",
+    "forms": "work + -er → worker；co-/wood/case + worker。",
+    "branches": [
+      [
+        "工作角色与协作",
+        "worker · coworker"
+      ],
+      [
+        "材料、个案决定职责",
+        "woodworker · caseworker"
+      ]
+    ],
+    "contrasts": "worker 范围比工厂工人广；coworker 是工作关系；caseworker 依机构承担具体职责。",
+    "practice": "My coworker introduced me to the caseworker handling the application.\n\n同事把我介绍给负责跟进申请的个案工作者。",
+    "words": [
+      "worker",
+      "coworker",
+      "woodworker",
+      "caseworker"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2832",
+    "meaning": "向广泛受众播出，以及再次播出",
+    "core": "BROADCAST：信息向外广撒，再播便是 rebroadcast",
+    "image": "broadcast 广播；broadcaster 播出机构或主持等角色；rebroadcast 重播、转播。",
+    "intro": "像撒种一样广撒，是记忆入口；现代节目、网络和信号各有技术方式，不必真像种子四散飞。",
+    "forms": "broad + cast → broadcast；broadcast + -er；re- + broadcast。\n\n英语 broad 与 cast 构词，从撒播种子转到广泛传信息。\n\n广撒种子的旧画面进入广播；broadcasters 可以是人，也可以是播送机构。",
+    "branches": [
+      [
+        "播出与角色",
+        "broadcast · broadcaster"
+      ],
+      [
+        "再次发出",
+        "rebroadcast"
+      ],
+      [
+        "broadcast → broadcasting：像撒种子一样广泛传出",
+        "broadcast · broadcasting"
+      ],
+      [
+        "broadcast 的大范围播送及人员、机构名称",
+        "broadcast · broadcasts · broadcaster · broadcasters"
+      ]
+    ],
+    "contrasts": "broadcaster 可指机构，也可指从业者；rebroadcast 不等于重新录制，也不必是直播。",
+    "practice": "The broadcaster decided to rebroadcast the original broadcast.\n\n播出机构决定重播原来的节目。",
+    "words": [
+      "broadcast",
+      "broadcaster",
+      "rebroadcast",
+      "broadcasting",
+      "broadcasts",
+      "broadcasters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3207",
+    "meaning": "把事跟进到底、实际做出",
+    "core": "EXECUTE：计划不只放在纸上，而是照着做完",
+    "image": "execute 动作 → execution 过程、方式 → executable 能执行的文件或方案。",
+    "intro": "从实行看现代分支最清楚：计划、舞蹈动作、程序、刑罚都可能作执行对象。对象决定意思，不要被某个强烈义项盖住整个词。",
+    "forms": "ex- + sequī → exsequī/exsecūtus → executer → execute；exsecūtiō → execution；execute + -able。\n\nexecutive 接拉丁执行、完成的词干及 -ivus 形容词材料；行政、企业管理和管理者名词均接实际施行这一条支线。\n\n法语接拉丁 exsequi、exsecutus，原含跟随到底、实行；现代刑罚义单独看宾语。\n\n拉丁执行、跟进到底的词族，行政、企业管理人员义后来发展。",
+    "branches": [
+      [
+        "实行与完成",
+        "execute · execution"
+      ],
+      [
+        "能够执行",
+        "executable"
+      ],
+      [
+        "execute 与 executive：把事付诸实行",
+        "execute · execution · executive"
+      ],
+      [
+        "execute → executed：把计划、指令实行到底",
+        "execute · executed"
+      ],
+      [
+        "executive → executives：负责把事情落实的管理者",
+        "execute · executive · executives"
+      ]
+    ],
+    "contrasts": "execute 的 cut 不是英语切割；execution 可夸完成得好；executable 不能推出安全或跨系统通用。",
+    "practice": "Good execution turns a plan into action; an executable turns instructions into a running program.\n\n好的执行把计划落实；可执行程序把指令带进运行。",
+    "words": [
+      "execute",
+      "execution",
+      "executable",
+      "executive",
+      "executed",
+      "executives"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4045",
+    "meaning": "问候词族与哀叹、遗憾词的历史区别",
+    "core": "GREET / REGRET：迎面打招呼，和回头感到可惜分开",
+    "image": "greet → greeting/greeter；regret → regretful/regretfully、regrettable/regrettably。",
+    "intro": "拼写像不等于可以直拆。regret 联系哭泣、哀叹那一路，不能说再向人问好就成后悔；普通 greet 与哭泣方言词的深层联系也不能当成定论。",
+    "forms": "grētan → greet；greet + -ing/-er。另线 regreter → regret；regret + -ful/-able；对应副词 -fully/-ably。\n\n后半可能接日耳曼哭泣词，近源不等于现代英语 greet；新变化接整个 regret。\n\ngreeting 承古英语 greting、gretan 问候词族，现代复数常说问候、祝词。greetings 也可整体作为问候表达，动词正在打招呼则不加复数 -s。\n\ngreet 承古英语 gretan 接触、接近、问候等，远源未定，现代问候义更常用。加完整 -ed，/t/ 后读 /ɪd/，也可说某个景象迎面而来。",
+    "branches": [
+      [
+        "问候与迎宾",
+        "greet · greeting · greeter"
+      ],
+      [
+        "遗憾及感受者",
+        "regret · regretful · regretfully"
+      ],
+      [
+        "令人生憾的事及评价",
+        "regrettable · regrettably"
+      ],
+      [
+        "regret 的哀叹支线与 greet 的问候分开",
+        "regret · regrets · regretted · regretting"
+      ],
+      [
+        "greet → greeting → greetings",
+        "greetings"
+      ],
+      [
+        "接触、迎接 → greet → greeted",
+        "greeted"
+      ]
+    ],
+    "contrasts": "regret 不是再问候；regret doing 与 regret to inform 结构意义不同；regretful 有遗憾感，regrettable 事情令人遗憾。",
+    "practice": "The greeter regretfully told us that, regrettably, the visit had been cancelled.\n\n接待员带着惋惜的心情告诉我们，很遗憾，参观取消了。",
+    "words": [
+      "greet",
+      "greeting",
+      "greeter",
+      "regret",
+      "regretful",
+      "regretfully",
+      "regrettable",
+      "regrettably",
+      "regrets",
+      "regretted",
+      "regretting",
+      "greetings",
+      "greeted"
+    ],
+    "exclude": {}
+  }
+]

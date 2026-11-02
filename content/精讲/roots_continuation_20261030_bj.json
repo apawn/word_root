@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2953",
+    "meaning": "小隔间与系统单元；牢房、细胞、电池与网络",
+    "core": "CELL：分出来的小房间；也借指系统里的小单元",
+    "image": "cell → cellmate 接牢房；cellular 同源旁支，supercell 既有精讲共享；celled 常带限定的组合形式暂略。",
+    "intro": "各学科借用小单元形象，不把它们编成牢房依次变电池、再变身体细胞的单线。",
+    "forms": "cell 接拉丁 cella；cell + mate；super- + cell；cellula → cellular 为同源旁支。\n\n拉丁小房间词扩展到生物、电学等领域的单元名称。",
+    "branches": [
+      [
+        "小室与同住者",
+        "cell · cellmate"
+      ],
+      [
+        "相关小单元和既有词",
+        "cellular · supercell"
+      ],
+      [
+        "cell → cells：小隔间与各类细胞、单元",
+        "cell · cells"
+      ]
+    ],
+    "contrasts": "cellmate 同牢房不只同监狱；cell/sell 同音不同源；cellular 生物与移动通信按场景分。",
+    "practice": "The word cell can name a small room or a basic unit in a larger system.\n\ncell 既能指小房间，也能指较大系统中的基本单元。",
+    "words": [
+      "cell",
+      "cellmate",
+      "cellular",
+      "supercell",
+      "cells"
+    ],
+    "exclude": {
+      "cell-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "celled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4459",
+    "meaning": "细胞、小单元的形容词；数量、内外和层次分组",
+    "core": "CELLULAR：由细胞或小单元组成、与它们相关",
+    "image": "cell、cellular 先读；unicellular/multicellular 比数量，intracellular/extracellular/intercellular 比位置，subcellular 比层级。",
+    "intro": "大量已有细胞组合词复用精讲，按意义重新组织。不把肝细胞等偏专门扩展全塞进来。",
+    "forms": "cellula + -āris → cellular；uni-/multi-/intra-/extra-/inter-/sub- + cellular。",
+    "branches": [
+      [
+        "基本形容词",
+        "cell · cellular"
+      ],
+      [
+        "数量",
+        "unicellular · multicellular"
+      ],
+      [
+        "位置与层次",
+        "intracellular · extracellular · intercellular · subcellular"
+      ]
+    ],
+    "contrasts": "intra- 内、extra- 外、inter- 之间；uni-/multi- 数量；sub- 低于细胞层级。hepatocellular 专门词暂略。",
+    "practice": "The diagram contrasts intracellular structures with the extracellular space.\n\n图示对照了细胞内结构与细胞外空间。",
+    "words": [
+      "cell",
+      "cellular",
+      "unicellular",
+      "multicellular",
+      "intracellular",
+      "extracellular",
+      "intercellular",
+      "subcellular"
+    ],
+    "exclude": {
+      "hepatocellular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3727",
+    "meaning": "使升高、提出、筹集和养育；与 rise 对照",
+    "core": "RAISE：让对象上来、增加或成长",
+    "image": "raise → raising、raiser；fundraise 已有共享，保留原词逆构说明；重点对照刚写的 rise。",
+    "intro": "借入北欧使动形式，与本族 rise 有历史联系但现代句型不同。筹款、养育不能只靠中文提高猜宾语。",
+    "forms": "raise—raised—raised；raise + -ing/-er；fundraise 可能由 fundraising 逆构。\n\nraise 接北欧 reisa，与 rise 历史使动同族形式相连；raised 是 raise 的过去形式，rise 的过去式是 rose。\n\n北欧 reisa 与 rise 的旧使动同族材料，现代三单结尾读 iz。",
+    "branches": [
+      [
+        "动作、活动和执行者",
+        "raise · raising · raiser"
+      ],
+      [
+        "筹集资金",
+        "fundraise"
+      ],
+      [
+        "rise／raise → raised：自己升起与使升高",
+        "rise · raise · raised"
+      ],
+      [
+        "raise → raises：使升起、使增加",
+        "raise · raises"
+      ]
+    ],
+    "contrasts": "raise 使升、rise 自升；raising prices 提价、rising prices 涨价中的价格；raiser 与 razor 多口音同音不同词。",
+    "practice": "Raising funds helped the school raise the standard of its equipment.\n\n筹集资金帮助学校提高了设备水平。",
+    "words": [
+      "raise",
+      "raising",
+      "raiser",
+      "fundraise",
+      "rise",
+      "raised",
+      "raises"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4595",
+    "meaning": "引人敬畏、惊叹到口语赞叹",
+    "core": "AWESOME：原本令人敬畏，今天也常说太棒",
+    "image": "已有 awesome → awesomeness、awesomely，按形容词、性质名词、方式程度副词连读。",
+    "intro": "和 awful 同有 awe 背景，现代评价却常不同，不能只按同源就把两个词都译成糟糕或敬畏。",
+    "forms": "awe + -some → awesome；awesome + -ness/-ly。",
+    "branches": [
+      [
+        "赞叹、性质与程度",
+        "awesome · awesomeness · awesomely"
+      ]
+    ],
+    "contrasts": "awesomeness 名词特点、awesomely 副词；awesome/awful 同有历史联系但现代语气不一。",
+    "practice": "The awesome performance was awesomely energetic.\n\n那场精彩表演精力充沛得惊人。",
+    "words": [
+      "awesome",
+      "awesomeness",
+      "awesomely"
+    ],
+    "exclude": {}
+  }
+]

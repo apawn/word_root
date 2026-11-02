@@ -1,0 +1,36 @@
+[
+  {
+    "id": "C1311",
+    "meaning": "七；拉丁语数字词的组合材料",
+    "core": "SEPT-：七；月份名保留旧排序，英语本族数字另走自己的历史",
+    "image": "September 今天是九月，里面却留着拉丁七的线索。它像一张没有随新排法改名的旧编号，帮助记住数字词根。",
+    "intro": "拉丁 septem 意为七；September 的名称保留了旧罗马日历以三月起算时的第七月序号。英语 seven 也是远层同源词，但经日耳曼语、古英语继承，不是直接从拉丁 septem 借入。",
+    "forms": "本页把 September 与已精讲的 seven、seventh、seventeen、seventy 对照。前者是拉丁月份名的借词，后面一组是英语本族数字及其形式；相同概念和远层词源联系，不等于现代互相换字母。",
+    "branches": [
+      [
+        "月份借词",
+        "September"
+      ],
+      [
+        "远层同源比较：英语数字词族",
+        "seven seventh seventeen seventy"
+      ]
+    ],
+    "contrasts": "September 的七是旧命名信息，现代月份仍为第九。拼写相同的 sept- 还可能属于隔开、围隔的另一个词族，学习时分别看来源。",
+    "practice": "September is the ninth month today, although its name preserves an older seven.\n\nSeptember 今天是第九个月，名称却保留了更早的七。",
+    "words": [
+      "September",
+      "seven",
+      "seventh",
+      "seventeen",
+      "seventy"
+    ],
+    "exclude": {
+      "septennial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    },
+    "checked_sources": [
+      "https://www.etymonline.com/word/September",
+      "https://www.etymonline.com/word/seven"
+    ]
+  }
+]

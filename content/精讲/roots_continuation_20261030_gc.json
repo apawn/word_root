@@ -1,0 +1,72 @@
+[
+  {
+    "id": "B3088",
+    "meaning": "后端、细长下垂与尾形特征",
+    "core": "TAIL：位置像尾，形状像尾，动作跟在后面",
+    "image": "tail → ponytail、pigtail 发型；tailgate、tailpipe、taillight 车尾；dovetail 榫接；动物俗名按尾特征；cocktail 饮料史未定。",
+    "intro": "同一个尾意象可以说位置、形状和动作，具体构词前半要选对。swallow 燕子、dove 鸽子不能都因中文燕尾译名而混成同一词。",
+    "forms": "tæġel → tail；pony/pig/dove/ox/cotton/swallow/wag + tail；tail + gate/pipe/light/back/spin/bone/wind；cocktail 饮料义另辨不确定。\n\n车辆后端借尾部命名，与 head 的前端相对；复数在最后 light 上变化。\n\n动物尾巴承古英语 taegl 等材料；现代跟踪动词从在后跟随扩展。带尾形容 tailed 的记录早于现代跟随动词，不能全当动作过去式。",
+    "branches": [
+      [
+        "基础与发型",
+        "tail · ponytail · pigtail"
+      ],
+      [
+        "位置、车尾和失控比喻",
+        "tailgate · tailpipe · taillight · tailback · tailwind · tailspin · tailbone"
+      ],
+      [
+        "接合、食材和动物特征",
+        "dovetail · oxtail · cottontail · swallowtail · wagtail · fishtail · yellowtail"
+      ],
+      [
+        "饮料命名有争议的支线",
+        "cocktail"
+      ],
+      [
+        "tail 的后部进入车辆尾灯",
+        "taillight · taillights"
+      ],
+      [
+        "tail 从尾巴到跟在尾后、逐渐减弱",
+        "tail · tails · tailed · tailing"
+      ]
+    ],
+    "contrasts": "tail/tale 尾与故事同音；dovetail/swallowtail 鸽燕材料不同；ponytail 不必编辫；cocktail 不编彩羽酒杯定源。",
+    "practice": "Her ponytail swung as she followed the wagtail along the path.\n\n她沿小路跟着鹡鸰走，马尾辫随步子摆动。",
+    "words": [
+      "tail",
+      "ponytail",
+      "pigtail",
+      "tailgate",
+      "tailpipe",
+      "taillight",
+      "tailback",
+      "tailwind",
+      "tailspin",
+      "tailbone",
+      "dovetail",
+      "oxtail",
+      "cottontail",
+      "swallowtail",
+      "wagtail",
+      "fishtail",
+      "yellowtail",
+      "cocktail",
+      "taillights",
+      "tails",
+      "tailed",
+      "tailing"
+    ],
+    "exclude": {
+      "de-tail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-tail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tail-pole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tail-shedding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ring-tailed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stub-tail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drabble-tail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitetail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

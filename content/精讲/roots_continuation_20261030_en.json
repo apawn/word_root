@@ -1,0 +1,211 @@
+[
+  {
+    "id": "B2622",
+    "meaning": "结束、结局与似乎不结束的状态",
+    "core": "ENDING：故事到了哪里收尾，或事情有没有完",
+    "image": "ending → unending，先抓结束，再看否定的是结束这件事。",
+    "intro": "a happy ending 是好结局，unending questions 是问题没完没了；一个名结局，一个形容持续。",
+    "forms": "end + -ing → ending；un- + ending → unending。",
+    "branches": [
+      [
+        "结局与无休止",
+        "ending · unending"
+      ]
+    ],
+    "contrasts": "unending/unfinished 持续不停与尚未完成；ending 名词不要和 every -ing 进行时等同。",
+    "practice": "The unending discussion finally reached an ending.\n\n没完没了的讨论终于结束了。",
+    "words": [
+      "ending",
+      "unending"
+    ],
+    "exclude": {
+      "never-ending": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3413",
+    "meaning": "无特定方向到随机、随意，再分技术与口语",
+    "core": "RANDOM：没有事先固定一个结果，但随机也可以有明确机制",
+    "image": "random → randomly、randomness、randomization；rando 为口语人物分支。",
+    "intro": "随机不自动等概率，随机化不是肉眼看着乱；日常不相干评论与技术随机分配要放回场景。",
+    "forms": "randon、randoun → at random → random；random + -ly/-ness/-ization；random 词基 + -o。",
+    "branches": [
+      [
+        "基础、方式、性质和过程",
+        "random · randomly · randomness · randomization"
+      ],
+      [
+        "口语陌生人物",
+        "rando"
+      ]
+    ],
+    "contrasts": "randomness/equal probability 不同；randomization 过程；rando 口语可冒犯，stranger 较中性。",
+    "practice": "Randomization determined the order, and the cards were presented randomly.\n\n随机化确定了顺序，卡片按随机顺序呈现。",
+    "words": [
+      "random",
+      "randomly",
+      "randomness",
+      "randomization",
+      "rando"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3305",
+    "meaning": "午间一餐，再扩到时间、盒子、场所",
+    "core": "LUNCH：一顿饭可以带出吃饭时间和随身饭盒",
+    "image": "lunch → lunchtime、lunchbox、lunchroom，按用途把组合放到基础词旁边。",
+    "intro": "午餐义的历史和早期一块食物、luncheon 等纠缠，源头不定不妨碍记常见搭配。",
+    "forms": "luncheon 等旧便餐词 → 现代 lunch；lunch + time/box/room。\n\n便餐、午餐相关旧词发展，较早来源保留不确定性。\n\nbrunch 缩合早餐 breakfast 与午餐 lunch，两顿合在一起的画面也在词里合在一起；不是另有一个独立的 br- 早晨词根。",
+    "branches": [
+      [
+        "基础餐食及时间、容器、地点",
+        "lunch · lunchtime · lunchbox · lunchroom"
+      ],
+      [
+        "lunch → lunches：午餐与吃午餐",
+        "lunch · lunches"
+      ],
+      [
+        "breakfast + lunch → brunch：早午餐",
+        "brunch"
+      ]
+    ],
+    "contrasts": "have lunch 常无冠词；a business lunch 具体活动；lunchroom 场所不是饭盒。",
+    "practice": "At lunchtime, she opened her lunchbox in the lunchroom.\n\n午餐时间，她在餐厅里打开了饭盒。",
+    "words": [
+      "lunch",
+      "lunchtime",
+      "lunchbox",
+      "lunchroom",
+      "lunches",
+      "brunch"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2947",
+    "meaning": "装东西的篮子及其形状、食物供应比喻",
+    "core": "BASKET：能盛东西，也能借来命名运动和产粮区",
+    "image": "basket → basketry、basketball；breadbasket 面包篮到粮仓，wastebasket 接废物用途。",
+    "intro": "词根远源有争议，从可靠篮子节点开始即可；篮球运动与一个篮球的可数用法分清。",
+    "forms": "法语相应篮子词 → basket；basket + -ry；basket + ball；bread/waste + basket。\n\n盎格鲁法语借词，更远凯尔特、拉丁联系有争议。\n\n现代可用金属、塑料等材料。",
+    "branches": [
+      [
+        "基础容器与编织工艺",
+        "basket · basketry"
+      ],
+      [
+        "运动和不同用途",
+        "basketball · breadbasket · wastebasket"
+      ],
+      [
+        "basket → baskets：篮子、球篮与一篮量",
+        "basket · baskets"
+      ],
+      [
+        "basket 的废物容器组合及复数",
+        "basket · wastebasket · wastebaskets"
+      ]
+    ],
+    "contrasts": "basket/bucket 篮桶不同；play basketball 无冠词而 a basketball 指球；breadbasket 地区比喻非土地形状。",
+    "practice": "The basketry class made a small breadbasket.\n\n编篮课做了一只小面包篮。",
+    "words": [
+      "basket",
+      "basketry",
+      "basketball",
+      "breadbasket",
+      "wastebasket",
+      "baskets",
+      "wastebaskets"
+    ],
+    "exclude": {
+      "e-basket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3541",
+    "meaning": "感到缺少、渴望，再评价值不值得想要",
+    "core": "DESIRE：心里想得到，和东西本身是否可取分两步",
+    "image": "desire → desirable → desirability，同基动作、性质、性质名词放在一起。",
+    "intro": "desirable 历史经法语借入，现代拆分可帮助记忆；星辰远源有争议，保留确定的渴望词链。",
+    "forms": "dēsīderāre 经法语 → desire；法语 desirable → desirable；desirable 对应 desirability。\n\ndesire 接法语和拉丁 desiderare 渴望；更深与星辰有关的解释有争议，精讲不把故事当定论。\n\n拉丁 desiderare 经法语借入，更深星辰联系有争论。",
+    "branches": [
+      [
+        "渴望、可取与吸引程度",
+        "desire · desirable · desirability"
+      ],
+      [
+        "desire → desired：想要得到的结果",
+        "desire · desired"
+      ],
+      [
+        "desire → desires：心里想得到的东西",
+        "desire · desires"
+      ]
+    ],
+    "contrasts": "desire/want 语体；desirable/desired 可取与实际想要；desirability/availability 吸引力与能获得。",
+    "practice": "The desirable location increased the flat’s desirability.\n\n理想的地段提高了公寓的吸引力。",
+    "words": [
+      "desire",
+      "desirable",
+      "desirability",
+      "desired",
+      "desires"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3159",
+    "meaning": "暂时交给别人，后来归还",
+    "core": "LOAN：借出与借入是同一交易的两边",
+    "image": "loan → loaner、loanee，分出借者或替用品，与接收方、租借球员。",
+    "intro": "画作借展也可以 loan，不是每个 loan 都指银行业务；loaner 代步车与 loner 独行者别看混。",
+    "forms": "古诺斯 lán 经中古英语 → loan；loan + -er/-ee；与 lend 同族。\n\nlend 与 loan 属同族而进入英语的路径不同；lent 是 lend 的过去式、过去分词。暂时借出可以转为提供帮助、增添气氛或可信度。\n\n北欧借词与 lend 同族，钱、书、设备等都能借出。\n\n古英语 laenan 到中古英语 lenen，历史加 d，现代加完整 ing。\n\nlender 现代对应 lend + -er，另可能继承古英语 laenere 后随 lend 增 d 的词形。复数 -s，指借出方，不是借入方。\n\nlend 承古英语 lænan 的词族，中古英语带 d 的旧过去式形影响了现代原形。现代 -s，/d/ 后读 /z/；借出与赋予某种效果都可。",
+    "branches": [
+      [
+        "借贷与相关人物、借用物",
+        "loan · loaner · loanee"
+      ],
+      [
+        "lend 与 lent：暂借给别人",
+        "lend · lent · loan · lender"
+      ],
+      [
+        "loan → loans：暂借之物与借出",
+        "loan · loans"
+      ],
+      [
+        "lend → lending：把东西暂给别人使用",
+        "lend · lending"
+      ],
+      [
+        "lend、loan → lender → lenders",
+        "lenders"
+      ],
+      [
+        "lend 借出 → lends",
+        "lends"
+      ]
+    ],
+    "contrasts": "loan/borrow 借出借入；loaner/loner 借用物与独行者；loanee 语境决定接收方或租借球员。",
+    "practice": "The garage loaned us a car as a loaner.\n\n修理厂借给我们一辆车临时代步。",
+    "words": [
+      "loan",
+      "loaner",
+      "loanee",
+      "lend",
+      "lent",
+      "lender",
+      "loans",
+      "lending",
+      "lenders",
+      "lends"
+    ],
+    "exclude": {
+      "on-loan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loan-back": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-loan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

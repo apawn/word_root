@@ -1,0 +1,377 @@
+[
+  {
+    "word": "sprint",
+    "ipa": "/sprɪnt/",
+    "meaning": "短跑、冲刺；短时间集中完成的一轮工作",
+    "sense": "最后一段路把速度一下提满，短时间全力跑。工作里的一轮 sprint 也借这种集中推进的画面。",
+    "split": "较早英语 sprint 有跳起、窜出义，很可能改自 sprenten，并与古诺斯 spretta 等跳起材料有关；具体路径不是完全确定。后来发展为短距离全速跑。",
+    "history": [
+      [
+        "较早 sprenten／sprint；可能有斯堪的纳维亚来源",
+        "跳起、窜出"
+      ],
+      [
+        "现代 sprint",
+        "短距离冲刺；比喻集中推进的一轮"
+      ]
+    ],
+    "explanation": "sprint to the bus 冲向公交车；a final sprint 最后冲刺；a hundred-metre sprint 百米短跑；a design sprint 一轮集中的设计工作。",
+    "usage": "break into a sprint；sprint for the finish line。",
+    "contrast": "run 可泛指跑，sprint 把短时间全速冲刺突出出来。工作语境 sprint 的具体时长由采用的流程决定，词本身不固定等于某几天。",
+    "examples": [
+      [
+        "She sprinted to catch the bus.",
+        "她冲刺跑去赶公交车。"
+      ],
+      [
+        "He saved his energy for the final sprint.",
+        "他留着体力作最后冲刺。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sprint",
+      "https://en.wiktionary.org/wiki/sprint#English"
+    ]
+  },
+  {
+    "word": "sprinter",
+    "ipa": "英 /ˈsprɪntə/；美 /ˈsprɪntər/",
+    "meaning": "短跑运动员；擅长冲刺的人",
+    "sense": "把速度在短距离里迅速拉满的人，是 sprinter。重点是爆发式速度，不是一直慢慢跑得远。",
+    "split": "sprint 短距离全速跑 + -er 表动作执行者，专门指参加短跑的选手，也能用于短距离比赛中的自行车手等。",
+    "history": [
+      [
+        "sprint",
+        "短距离全力跑、冲刺"
+      ],
+      [
+        "sprint + -er → sprinter",
+        "参加或擅长短程冲刺的人"
+      ]
+    ],
+    "explanation": "a talented sprinter 有天赋的短跑选手；an Olympic sprinter 奥运短跑运动员；a powerful sprinter 爆发力强的冲刺选手。",
+    "usage": "a hundred-metre sprinter；a track sprinter。",
+    "contrast": "runner 范围广，sprinter 特指短距离速度这一型。跑长距离的人通常 distance runner，不能仅因为也会跑就都叫 sprinter。",
+    "examples": [
+      [
+        "The young sprinter won the hundred-metre race.",
+        "那位年轻短跑选手赢得了百米比赛。"
+      ],
+      [
+        "She is a strong sprinter but prefers longer races.",
+        "她冲刺能力很强，但更喜欢较长距离的比赛。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sprint",
+      "https://en.wiktionary.org/wiki/sprinter#English"
+    ]
+  },
+  {
+    "word": "sprinting",
+    "ipa": "/ˈsprɪntɪŋ/",
+    "meaning": "短跑、冲刺；sprint 的 -ing 形式",
+    "sense": "速度一下提上来，短时间全力向前。sprinting 可以把这段动作当作正在发生的事，也可以当运动项目来说。",
+    "split": "sprint + -ing，-ing 形成进行结构中的分词，也形成动作名词。承接短距离全速跑这一现代分支。",
+    "history": [
+      [
+        "sprint",
+        "短程冲刺、全速跑"
+      ],
+      [
+        "sprint + -ing → sprinting",
+        "冲刺动作；短跑项目"
+      ]
+    ],
+    "explanation": "was sprinting 正在冲刺；sprinting down the road 沿路飞奔；good at sprinting 擅长短跑；sprinting practice 短跑练习。",
+    "usage": "a burst of sprinting；sprinting toward the finish。",
+    "contrast": "sprinting 是全力短程跑，jogging 常是慢跑。-ing 是否表达正在，要看 was sprinting 等结构；I enjoy sprinting 说喜欢这项运动。",
+    "examples": [
+      [
+        "He was sprinting toward the finish line.",
+        "他正在向终点线冲刺。"
+      ],
+      [
+        "She prefers sprinting to jogging.",
+        "相比慢跑，她更喜欢短跑。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sprint",
+      "https://en.wiktionary.org/wiki/sprinting#English"
+    ]
+  },
+  {
+    "word": "curing",
+    "ipa": "英 /ˈkjʊərɪŋ/；美 /ˈkjʊrɪŋ/",
+    "meaning": "治愈；腌制、处理保存；固化、养护；cure 的 -ing 形式",
+    "sense": "共同的老线索是照料、处理，但今天 curing 已分成几种固定工艺或过程：食物处理好便于保存，材料逐步达到所需状态。",
+    "split": "cure 经法语、拉丁 curare 照料、治疗等借入，接名词 cura 关心、照料；cure 去末尾 e 加 -ing。食品保存和材料处理是后来专门化的用法。",
+    "history": [
+      [
+        "拉丁 cura、curare → 法语／英语 cure",
+        "照料、处理；治疗、治好"
+      ],
+      [
+        "cure + -ing → curing",
+        "过程名词或分词；各领域形成具体含义"
+      ]
+    ],
+    "explanation": "curing meat 腌制等处理肉食；curing concrete 混凝土养护；resin curing 树脂固化。混凝土养护涉及合适的水分、温度等条件，不能把各种 curing 都当作自然晾干。",
+    "usage": "the curing process；salt curing；curing time。",
+    "contrast": "treating 泛说处理、治疗，curing 在疾病语境常含治好的目标；在食品、材料语境要用相应工艺术语，不能照搬治愈。",
+    "examples": [
+      [
+        "The book explains several methods of curing meat.",
+        "那本书介绍了几种处理保存肉食的方法。"
+      ],
+      [
+        "The resin needs time for curing.",
+        "树脂固化需要时间。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cure",
+      "https://en.wiktionary.org/wiki/curing#English",
+      "https://www.concrete.org/frequentlyaskedquestions.aspx?faqid=789"
+    ]
+  },
+  {
+    "word": "cured",
+    "ipa": "英 /kjʊəd/；美 /kjʊrd/",
+    "meaning": "治好了的；经过腌制等保存处理的；固化了的；cure 的过去式、过去分词",
+    "sense": "过程走到了结果：病或毛病被治好，肉食经过保存处理，材料完成固化。cured 后面是什么对象，决定该怎样翻译。",
+    "split": "cure 去词末 e 加 -ed，末尾读 /d/。继承拉丁 curare 照料、处理词族，通过英语各专业用法发展出不同完成状态。",
+    "history": [
+      [
+        "拉丁 curare → 英语 cure",
+        "照料、治疗；后来食品和材料处理"
+      ],
+      [
+        "cure + -ed → cured",
+        "处理或治愈的过去动作；相应完成状态"
+      ]
+    ],
+    "explanation": "cured meat 腌制等处理过的肉；fully cured resin 完全固化的树脂；cured of a habit 改掉某个习惯。",
+    "usage": "cured ham；cured of the desire to do something。",
+    "contrast": "cured meat 说保存处理，并不直接等于 cooked meat 熟肉。具体食品是否加热，要由做法和语境判断。",
+    "examples": [
+      [
+        "The shop sells cheese, bread and cured meats.",
+        "那家店卖奶酪、面包和腌制肉食。"
+      ],
+      [
+        "That rough boat trip cured him of his desire to go sailing.",
+        "那次颠簸的乘船经历让他再也不想去航海了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cure",
+      "https://en.wiktionary.org/wiki/cured#English"
+    ]
+  },
+  {
+    "word": "specify",
+    "ipa": "/ˈspesɪfaɪ/",
+    "meaning": "明确指出；具体说明、规定",
+    "sense": "只说“买几个”还不够，把数量、颜色、时间点一项项点明，就是 specify。让听的人知道究竟是哪一项。",
+    "split": "经古法语 specifier、especefier 等，上接晚期拉丁 specificare 特别提到；与 specific、species 的种类、具体对象词族相连，词尾 -fy 对应做、使成为的拉丁材料。英语 specify 的借入早于现代 specific 的普遍使用。",
+    "history": [
+      [
+        "晚期拉丁 specificare → 古法语相关形式",
+        "特别点名、明确说出"
+      ],
+      [
+        "英语 specify",
+        "把哪一项、什么要求说具体"
+      ]
+    ],
+    "explanation": "specify the date 明确日期；specify a size 说明尺寸；specify that 明确规定某事；specify what is needed 说清需要什么。",
+    "usage": "please specify；specify the exact amount。",
+    "contrast": "specific 是具体的，specify 是说具体的动作；specification 是详细要求、规格等名词。这是同族对应，不必假定三个现代英语词按出现顺序互相新造。",
+    "examples": [
+      [
+        "Please specify the size and colour you want.",
+        "请说明你想要的尺寸和颜色。"
+      ],
+      [
+        "The instructions specify that the lid must be closed.",
+        "说明中明确要求盖子必须合上。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/specify",
+      "https://en.wiktionary.org/wiki/specify#English"
+    ]
+  },
+  {
+    "word": "specifying",
+    "ipa": "/ˈspesɪfaɪɪŋ/",
+    "meaning": "明确指出、具体说明；specify 的 -ing 形式",
+    "sense": "要求还在被一项项说清楚：哪天、几个、什么尺寸。specifying 把点明细节这个动作接进句子里。",
+    "split": "specify + -ing，保留词末 y，所以拼 specifying；-fy 的 /faɪ/ 后接 -ing，读音有 /aɪɪŋ/ 的衔接。",
+    "history": [
+      [
+        "specify；法语、拉丁的明确点名词族",
+        "具体说出、指定"
+      ],
+      [
+        "specify + -ing → specifying",
+        "说明细节这一动作或进行中的指定"
+      ]
+    ],
+    "explanation": "without specifying a date 没说明日期；a note specifying the size 一张说明尺寸的便条；specifying what to bring 说明要带什么。",
+    "usage": "by specifying the details；a form specifying requirements。",
+    "contrast": "specified 加 -ed 时 y 变 i；specifying 加 -ing 时保留 y。按后接的词尾分别记，不能一律把 y 改成 i。",
+    "examples": [
+      [
+        "He sent a message specifying the meeting place.",
+        "他发来一条消息，说明了见面地点。"
+      ],
+      [
+        "She agreed without specifying a date.",
+        "她同意了，但没有说明日期。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/specify",
+      "https://en.wiktionary.org/wiki/specifying#English"
+    ]
+  },
+  {
+    "word": "specified",
+    "ipa": "/ˈspesɪfaɪd/",
+    "meaning": "已明确指出的、指定的；specify 的过去式、过去分词",
+    "sense": "不是随便某个地方，而是已经说清楚的那个地方。the specified place 就把范围钉到了指定位置。",
+    "split": "specify 词末 y 变 i，再加 -ed 得 specified；-ed 读 /d/。作为分词形容词，表示内容已被明确规定或指出。",
+    "history": [
+      [
+        "specify",
+        "点明、具体说明"
+      ],
+      [
+        "specify + -ed → specified",
+        "已说明、已指定；分词形容词"
+      ]
+    ],
+    "explanation": "the specified time 指定时间；the specified amount 规定数量；as specified 按照说明；unless otherwise specified 除非另有说明。",
+    "usage": "within the specified period；the name specified on the form。",
+    "contrast": "specified 强调已经写明、说定；specific 强调具体明确。a specific place 可是某个具体地方，the specified place 通常指先前已指定的地方。",
+    "examples": [
+      [
+        "Please arrive at the specified time.",
+        "请在指定时间到达。"
+      ],
+      [
+        "The package must not exceed the specified weight.",
+        "包裹不能超过规定重量。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/specify",
+      "https://en.wiktionary.org/wiki/specified#English"
+    ]
+  },
+  {
+    "word": "unspecified",
+    "ipa": "/ˌʌnˈspesɪfaɪd/",
+    "meaning": "未说明的；未具体指定的",
+    "sense": "只知道会有一笔费用，却没说到底多少。那个空着没点明的细节，就是 unspecified。",
+    "split": "un- 不 + specified 已明确说明的，是否定的分词形容词。specified 来自 specify 的过去分词。",
+    "history": [
+      [
+        "specify → specified",
+        "明确说出 → 已说明的"
+      ],
+      [
+        "un- + specified → unspecified",
+        "未明确说出、尚未指定的"
+      ]
+    ],
+    "explanation": "an unspecified amount 未说明的数量；an unspecified date 未定明的日期；for unspecified reasons 因未说明的原因。",
+    "usage": "at an unspecified time；an unspecified number of people。",
+    "contrast": "unspecified 只说没有明确给出信息；unknown 说不知道。日期可以已确定却未对外说明，仍叫 unspecified。",
+    "examples": [
+      [
+        "The event was postponed to an unspecified date.",
+        "活动被推迟到一个尚未说明的日期。"
+      ],
+      [
+        "The report mentioned an unspecified number of complaints.",
+        "报告提到了一些投诉，但没说明数量。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/specify",
+      "https://en.wiktionary.org/wiki/unspecified#English"
+    ]
+  },
+  {
+    "word": "frack",
+    "ipa": "/fræk/",
+    "meaning": "对油气井进行水力压裂",
+    "sense": "把压力送入地下岩层，打开裂隙，让油气更容易流向井里。frack 把 fracture 破裂、裂开这条线缩成一个短动词。",
+    "split": "工业动词缩短自 fracture 相关材料，常见 frack 拼写；k 保持 /k/，再有 fracked、fracking。另有科幻作品里的替代粗话 frack，属于不同用法来源。",
+    "history": [
+      [
+        "fracture 相关工业材料 → 缩短 frack",
+        "对岩层、油气井实施压裂"
+      ],
+      [
+        "frack → fracked、fracking",
+        "技术动词及过去、-ing 形式"
+      ]
+    ],
+    "explanation": "frack a well 对一口井实施水力压裂；plans to frack 计划实施压裂。技术中的 hydraulic 指利用流体压力，具体操作不是这个短词本身能说明完的。",
+    "usage": "frack for gas；a well that has been fracked。",
+    "contrast": "frack 是具体技术动词，drill 是钻进、钻井。钻井与压裂可以是开发中的不同环节，不能只当同一个动作的两个名字。",
+    "examples": [
+      [
+        "The company planned to frack the well after drilling.",
+        "公司计划在钻井后对那口井实施水力压裂。"
+      ],
+      [
+        "The report explains why some wells are fracked.",
+        "报告解释了为什么有些井会进行水力压裂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frack#English",
+      "https://www.usgs.gov/mission-areas/water-resources/science/hydraulic-fracturing"
+    ]
+  },
+  {
+    "word": "fracking",
+    "ipa": "/ˈfrækɪŋ/",
+    "meaning": "水力压裂〔油气开采技术〕",
+    "sense": "把岩层中的通道打开，让原本难流动的油气更容易进井。新闻里的 fracking 通常是在谈这项技术或相关活动。",
+    "split": "frack + -ing，frack 缩短自 fracture 相关材料；名词化后通常指 hydraulic fracturing 水力压裂。另有用作替代粗话的形容词分支，读新闻技术语境时分开。",
+    "history": [
+      [
+        "fracture 相关材料 → frack",
+        "压裂的缩短动词"
+      ],
+      [
+        "frack + -ing → fracking",
+        "压裂活动；固定技术名词"
+      ]
+    ],
+    "explanation": "fracking operations 水力压裂作业；fracking fluid 压裂液；a debate about fracking 关于水力压裂的讨论。理解名词先抓流体压力使岩层出现裂隙这一机制。",
+    "usage": "hydraulic fracturing；a fracking site。",
+    "contrast": "fracking 与 cracking 都有裂开的字面联想，前者在常见新闻语境是具体油气技术名称；不能把所有 cracking 都译成水力压裂。",
+    "examples": [
+      [
+        "The article explains how fracking helps release gas from rock.",
+        "文章解释了水力压裂如何帮助岩层中的天然气释放出来。"
+      ],
+      [
+        "The documentary examines the debate about fracking.",
+        "那部纪录片探讨了围绕水力压裂的争论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fracking#English",
+      "https://www.usgs.gov/mission-areas/water-resources/science/hydraulic-fracturing"
+    ]
+  }
+]

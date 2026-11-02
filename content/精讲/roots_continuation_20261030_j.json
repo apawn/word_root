@@ -1,0 +1,243 @@
+[
+  {
+    "id": "B4098",
+    "meaning": "踪迹、通路与持续追踪",
+    "core": "TRACK：从留下的轨迹到记录变化",
+    "image": "track 后接 tracker 执行者，再按运动服、触控板、轨旁、无轨分具体后部。",
+    "intro": "法语踪迹词借入英语，更远来源有争论。录音曲目、软件跟踪不是都由实体铁路直接造出来。",
+    "forms": "track → tracker、trackless；track + suit、pad、side；共享 soundtrack、racetrack、backtrack、tracklist。\n\n法语足迹词借入，更早可能日耳曼来源，避免直接硬接拉丁 trahere。\n\n法语 trac 的更早来源可能日耳曼语，具体路径未定；不强连拉丁 trahere。\n\n法语 trac 接中古英语，更早可能日耳曼来源；不能硬接拉丁拖拉词。\n\ntrack 提供跟踪手指移动的功能画面。\n\n原来载体上的记录轨道，再借指电影声音和发行的配乐。\n\ntrack 经法语 trac，较早来源未定，可能接日耳曼拖行材料。tracker 加 -er，untracked 中 un- 是否定，tracked 是加 -ed 的过去分词形容形式。\n\n经南非荷兰语 trek 与荷兰 trekken 行进、拉接入英语，较早有牛车旅程背景；与 track 的更远材料可能相关，不是现代 track 改元音派生。",
+    "branches": [
+      [
+        "基本轨迹与记录主体",
+        "track · tracker"
+      ],
+      [
+        "运动与设备、位置",
+        "tracksuit · trackpad · trackside · trackless"
+      ],
+      [
+        "已有复合词",
+        "soundtrack · racetrack · backtrack · tracklist"
+      ],
+      [
+        "track → tracks：足迹、路径与曲目",
+        "track · tracks"
+      ],
+      [
+        "track → tracking：沿痕迹持续找位置",
+        "track · tracking"
+      ],
+      [
+        "track → tracked：沿踪迹跟下去",
+        "track · tracked"
+      ],
+      [
+        "trackpad → trackpads：感知移动的操作面",
+        "track · trackpad · trackpads"
+      ],
+      [
+        "track 的电影声音记录支及复数",
+        "soundtrack · soundtracks"
+      ],
+      [
+        "track 的追踪者与未留下轨迹的状态",
+        "track · tracker · trackers · tracked · untracked"
+      ],
+      [
+        "trek：长途、费力的行程",
+        "trek · treks · trekked · trekking · trekker · trekkers"
+      ]
+    ],
+    "contrasts": "tracker 可人可设备；trackpad 触控板不同于 mousepad；trackside 在边旁。",
+    "practice": "The tracker kept track of the team’s progress.\n\n跟踪工具持续记录了团队进展。",
+    "words": [
+      "track",
+      "tracker",
+      "tracksuit",
+      "trackpad",
+      "trackside",
+      "trackless",
+      "soundtrack",
+      "racetrack",
+      "backtrack",
+      "tracklist",
+      "tracks",
+      "tracking",
+      "tracked",
+      "trackpads",
+      "soundtracks",
+      "trackers",
+      "untracked",
+      "trek",
+      "treks",
+      "trekked",
+      "trekking",
+      "trekker",
+      "trekkers"
+    ],
+    "exclude": {
+      "off-track": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "double-track": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "track-mounted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trackage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3613",
+    "meaning": "选择行为、可选项与精选性质",
+    "core": "CHOICE：是选择本身，也是可选的那一个",
+    "image": "把 choice 与已写 choose、chosen、choosy 放一起，对照动作、结果、选项与选择习惯。",
+    "intro": "choice 借法语选择词，和 choose 有历史亲缘，不是现代临时改字母规则。",
+    "forms": "choose → chosen、choosy；相关借词 choice。\n\n法语借入和本族相关形式共同参与发展，与 choose 不是简单改字母关系。",
+    "branches": [
+      [
+        "相关动作、人物习惯与名词",
+        "choose · chosen · choosy · choice"
+      ],
+      [
+        "choice → choices：选择、选项与决定",
+        "choice · choices"
+      ]
+    ],
+    "contrasts": "choose 动词、choice 名词；choice 作精选形容词不等于 choosy 挑剔。",
+    "practice": "The choosy customer made her choice.\n\n讲究的顾客作出了选择。",
+    "words": [
+      "choose",
+      "chosen",
+      "choosy",
+      "choice",
+      "choices"
+    ],
+    "exclude": {
+      "anti-choice": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pro-choice": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3929",
+    "meaning": "认真思量与值得重视的数量",
+    "core": "CONSIDER：认真看进心里；CONSIDERABLE：大到值得重视",
+    "image": "基本 consider 后接 considerable 固定常用义，reconsider 已精讲共享。",
+    "intro": "拉丁思量词经法语进入英语，更远的星辰说保留不确定。后缀可帮助记忆，不能替代实际固定词义。",
+    "forms": "consider → considerable；re- + consider → reconsider。\n\nconsidered 可说经过思考，也可在 be considered 中引出判断；更深的星辰词源联系有讨论。\n\nconsidering 常说正在权衡，也能在 considering the weather 等结构里把一个条件纳入判断。\n\n名词有法语和拉丁独立借入路线，更远星辰词源分析有分歧。\n\n法语接拉丁 considerare，深层星辰解释保留不确定性。\n\nconsideration 经法语、拉丁 consideratio 仔细看、考虑的名词进入。现代复数常数考虑因素，细致体谅的态度通常按整体用单数。\n\nconsiderate 接拉丁 consideratus，早期考虑周全，后来强调顾及他人感受；不是现代直接用 consider 加动词使动 -ate。considerare 更远的观星说有争议，不作为确定历史。",
+    "branches": [
+      [
+        "思量、程度与重复",
+        "consider · considerable · reconsider"
+      ],
+      [
+        "consider → considered：考虑过；被认为",
+        "consider · considered"
+      ],
+      [
+        "consider → considering：把事情放进考虑",
+        "consider · considering"
+      ],
+      [
+        "consider → consideration：认真看、纳入思量",
+        "consider · consideration"
+      ],
+      [
+        "consider → considers：把事情放在心里认真掂量",
+        "consider · considers"
+      ],
+      [
+        "consider → consideration → considerations",
+        "considerations"
+      ],
+      [
+        "consider 考虑 → considerate 替别人考虑",
+        "considerate"
+      ]
+    ],
+    "contrasts": "consider doing；considerable 相当大而非仅可考虑；considerate 体贴另词。",
+    "practice": "After considerable discussion, we reconsidered the plan.\n\n经过充分讨论，我们重新考虑了方案。",
+    "words": [
+      "consider",
+      "considerable",
+      "reconsider",
+      "considered",
+      "considering",
+      "consideration",
+      "considers",
+      "considerations",
+      "considerate"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2915",
+    "meaning": "直、直接与使变直",
+    "core": "STRAIGHT：不弯；STRAIGHTFORWARD：不绕；STRAIGHTEN：理直",
+    "image": "straight 已在 stretch 家族精讲，本页接简单坦率与变直、理顺动作。",
+    "intro": "straight 为伸展词旧分词分化，现代形容词再派生动词 straighten 和复合 straightforward。",
+    "forms": "straight → straightforward、straighten。",
+    "branches": [
+      [
+        "状态、表达与变化",
+        "straight · straightforward · straighten"
+      ]
+    ],
+    "contrasts": "straightforward 直接不等于无礼；straighten out 也可澄清；straight 的历史不替代现代词性。",
+    "practice": "A straightforward conversation helped straighten things out.\n\n一次坦率交谈帮助把事情理顺。",
+    "words": [
+      "straight",
+      "straightforward",
+      "straighten"
+    ],
+    "exclude": {
+      "straight-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2866",
+    "meaning": "忘记、易忘事与难忘",
+    "core": "FORGET：先分谁忘、什么被忘",
+    "image": "已有 forget、forgetful、unforgettable，共享加入 forgettable，区分记性与作品印象。",
+    "intro": "古英语忘记动词，forget + -able 是被忘的可能性，不是记忆动作主体。",
+    "forms": "forget → forgetful、forgettable → unforgettable。\n\nforget 接旧 for- 与取得、掌握材料；忘记义在较早英语中已经存在，不能把助记的失去抓握画面当成有记录的物理义先后史。",
+    "branches": [
+      [
+        "动作、人物记性与对象印象",
+        "forget · forgetful · forgettable · unforgettable"
+      ],
+      [
+        "forget 到 forgot、forgotten",
+        "forget · forgot · forgotten"
+      ]
+    ],
+    "contrasts": "forgetful 容易忘事，forgettable 不出彩容易被忘；unforgettable 难以忘记。",
+    "practice": "The forgetful reviewer could not recall the forgettable film.\n\n那位健忘的评论者想不起那部平淡电影。",
+    "words": [
+      "forget",
+      "forgetful",
+      "forgettable",
+      "unforgettable",
+      "forgot",
+      "forgotten"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3079",
+    "meaning": "失去与压缩中的信息损失",
+    "core": "LOSS：损失；LOSSLESS、LOSSY：看原数据能否完整还原",
+    "image": "loss 已精讲，本页将无损、有损配对讲清，不混淆文件故障与编码损失。",
+    "intro": "loss 来自 lose 词族，技术后缀 -less、-y 分别表示无损和有损性质。",
+    "forms": "loss → lossless、lossy。",
+    "branches": [
+      [
+        "基本损失与技术属性",
+        "loss · lossless · lossy"
+      ]
+    ],
+    "contrasts": "lossless 无损不保证存储永不损坏；lossy 不保证感知上明显差；loose 松是别词。",
+    "practice": "Lossless and lossy compression make different trade-offs.\n\n无损与有损压缩采用不同取舍。",
+    "words": [
+      "loss",
+      "lossless",
+      "lossy"
+    ],
+    "exclude": {}
+  }
+]

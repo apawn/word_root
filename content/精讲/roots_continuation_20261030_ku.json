@@ -1,0 +1,50 @@
+[
+  {
+    "id": "A1969",
+    "meaning": "旧小称后缀及词形变化，按证据分开确定与不确定来源",
+    "core": "OCK：小称常藏在旧词里，现代不必仍表示小",
+    "image": "bullock、hillock 等看小称；maggot 看旧虫名变化；paddock 分围场与古蛙名；其他词的远源分析另列。",
+    "intro": "这一组不能整齐地画成同一种公式。小称可能凝固、变音，也可能只是某种尚未确定的分析；先学真实常用意思，再看来源的确定程度。",
+    "forms": "古英语 -uc、-oc 等 → -ock；现代各词看历史词干、变体，不照字母机械拆分。\n\n这里与 donkey 对照命名材料，不把 burrito 当 -ock 派生词。西班牙语 burro 驴 + 小称 -ito → burrito，食物为何如此命名没有定论；现代英语借来指卷饼等。",
+    "branches": [
+      [
+        "较清楚的小称及固定身体词",
+        "bullock · hillock · buttock"
+      ],
+      [
+        "旧名、同形与词形变化",
+        "maggot · paddock"
+      ],
+      [
+        "远源分析有讨论的物件、动物名",
+        "husk · hulk · donkey · tussock · shuck"
+      ],
+      [
+        "常用形容词与同形鱼名分开",
+        "bleak"
+      ],
+      [
+        "与 donkey 对照：burrito 的西班牙语小驴名称",
+        "burrito · burritos"
+      ]
+    ],
+    "contrasts": "现代 bullock 不一定小；paddock 围场不能按蛙解释；hulk、husk、donkey 不定作唯一小称来源；bleak 的常用形容词另源。",
+    "practice": "A donkey waited in the paddock beside a tussock of grass.\n\n一头驴在围场里的一簇草旁等着。",
+    "words": [
+      "bullock",
+      "hillock",
+      "buttock",
+      "maggot",
+      "paddock",
+      "husk",
+      "hulk",
+      "donkey",
+      "tussock",
+      "shuck",
+      "bleak",
+      "burrito",
+      "burritos"
+    ],
+    "exclude": {}
+  }
+]

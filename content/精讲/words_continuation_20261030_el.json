@@ -1,0 +1,609 @@
+[
+  {
+    "word": "pool",
+    "ipa": "/puːl/",
+    "meaning": "水潭、游泳池；一滩；共同资源；台球；汇集",
+    "sense": "水聚在一处是 pool，人才、资金凑在一起也叫 pool；但台球名称还有共同下注的旧背景，不是从游泳比赛直接变来。",
+    "split": "水体继承古英语 pōl。合资、台球等另接法语 poule 一类共同赌注词，远源有不同解释；现代资源池既保留汇集义，也容易与水池比喻相连。",
+    "history": [
+      [
+        "古英语 pōl → 中古英语 pool 等 → pool〔水体〕",
+        "水潭、积水；现代也简称游泳池"
+      ],
+      [
+        "法语 poule 等 → pool〔合资、游戏分支〕",
+        "共同赌注等 → 台球、共同资金资源；较远词源有争议"
+      ],
+      [
+        "现代汇集画面",
+        "水聚起来；资金、人力聚起来，两条常见路径在理解上可互相帮助"
+      ]
+    ],
+    "explanation": "a swimming pool 游泳池，a pool of water 一滩水，a talent pool 人才库，pool resources 汇集资源，play pool 打台球。",
+    "usage": "a swimming pool；a talent pool；pool resources；play pool。",
+    "contrast": "pool 台球与 swimming pool 游泳池看搭配；pool resources 是把资源集中，不是把钱倒进水里。",
+    "examples": [
+      [
+        "The children were swimming in the pool.",
+        "孩子们在游泳池里游泳。"
+      ],
+      [
+        "The two teams pooled their resources.",
+        "两个团队汇集了各自资源。"
+      ],
+      [
+        "We played pool after dinner.",
+        "晚饭后，我们打了台球。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pool#English",
+      "https://www.etymonline.com/word/pool"
+    ]
+  },
+  {
+    "word": "poolside",
+    "ipa": "/ˈpuːlsaɪd/",
+    "meaning": "游泳池边；池边的、在池边",
+    "sense": "位置就在池子旁边，常见于旅馆、休闲活动；side 是边，不是分给一半游泳池。",
+    "split": "pool 池 + side 边，形成地点、性质表达。at the poolside、a poolside chair 都围绕池旁位置。",
+    "history": [
+      [
+        "古英语 pōl → 中古英语 pool 等 → pool〔水体〕",
+        "水潭、积水；现代也简称游泳池"
+      ],
+      [
+        "pool + side → poolside",
+        "池边地点；位于池边的"
+      ]
+    ],
+    "explanation": "a poolside chair 池边椅，a poolside café 池边咖啡馆，relax by the poolside 在池边休息。",
+    "usage": "a poolside chair；a poolside café；relax by the poolside。",
+    "contrast": "poolside 在池边，不保证在水里；a poolside meal 是池边用餐，不是漂在池中吃饭。",
+    "examples": [
+      [
+        "We had lunch at a poolside café.",
+        "我们在池边咖啡馆吃了午饭。"
+      ],
+      [
+        "She left her towel on a poolside chair.",
+        "她把毛巾留在了池边椅上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poolside#English"
+    ]
+  },
+  {
+    "word": "whirlpool",
+    "ipa": "英 /ˈwɜːlpuːl/；美 /ˈwɜːrlpuːl/",
+    "meaning": "漩涡；涡流浴池；混乱旋涡〔比喻〕",
+    "sense": "水绕着中心打转，形成漩涡；也可借来说一个人卷进忙乱、情绪或事件，像被旋转的水带进去。",
+    "split": "现代可拆 whirl 旋转 + pool 水体；较早英语有相近的旋转水体词、组合互相影响。不是 wheel 车轮 + pool。",
+    "history": [
+      [
+        "古英语 pōl → 中古英语 pool 等 → pool〔水体〕",
+        "水潭、积水；现代也简称游泳池"
+      ],
+      [
+        "whirl + pool → whirlpool",
+        "旋转水体 → 漩涡"
+      ],
+      [
+        "旋转水流的场景扩展",
+        "涡流浴池；卷入混乱的比喻"
+      ]
+    ],
+    "explanation": "a whirlpool in the river 河中漩涡，a whirlpool bath 涡流浴池，a whirlpool of activity 忙乱活动的旋涡。",
+    "usage": "a whirlpool in the river；a whirlpool bath；a whirlpool of activity。",
+    "contrast": "whirlpool 水体旋转，pool 不必旋转；whirlwind 是旋风，后半项说水还是风要分清。",
+    "examples": [
+      [
+        "A whirlpool formed near the rocks.",
+        "岩石旁形成了一个漩涡。"
+      ],
+      [
+        "The office became a whirlpool of activity before the launch.",
+        "发布前，办公室忙成了一团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whirlpool#English"
+    ]
+  },
+  {
+    "word": "cesspool",
+    "ipa": "/ˈsespuːl/",
+    "meaning": "污水坑、粪池；污浊腐败之地〔比喻〕",
+    "sense": "原是收集污水、污物的坑；把某处骂作 a cesspool，就是说那里充满令人厌恶的腐败、恶意等。",
+    "split": "旧有 sesspool 等形式，整个词来源有争议，可能涉及厕所、污水、排气排水旧词和 pool 的影响；不能把 cess 硬定为某个拉丁词根，再编唯一故事。",
+    "history": [
+      [
+        "早期 sesspool、cesspool 等形式",
+        "收污水、污物的坑；具体更早来源不定"
+      ],
+      [
+        "污物容器 → 比喻场所",
+        "充斥腐败、恶意等的地方"
+      ]
+    ],
+    "explanation": "an old cesspool 旧污水坑，a cesspool of corruption 腐败渊薮，a cesspool of abuse 充满辱骂的地方。",
+    "usage": "an old cesspool；a cesspool of corruption；a cesspool of abuse。",
+    "contrast": "cesspool 比喻义贬斥很强；pool 普通池子不带相同恶臭、腐败判断，词源不确定也不妨碍掌握实际搭配。",
+    "examples": [
+      [
+        "The workers found an old cesspool behind the house.",
+        "工人在屋后发现一个旧污水坑。"
+      ],
+      [
+        "The forum had become a cesspool of abuse.",
+        "论坛变成了辱骂充斥的地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cesspool#English",
+      "https://www.etymonline.com/word/cesspool"
+    ]
+  },
+  {
+    "word": "bright",
+    "ipa": "/braɪt/",
+    "meaning": "明亮的、鲜艳的；聪明的、开朗的；有希望的",
+    "sense": "灯亮让人看清，颜色亮很醒目；人脑子灵、情绪有光，前景让人看到希望，也借 bright 来形容。",
+    "split": "接古英语 beorht、bryht 等，较早词形有音位顺序变化，逐渐到 bright。gh 现代不发音；抽象聪明、乐观等义不是每次都说实物发光。",
+    "history": [
+      [
+        "古英语 beorht、bryht 等 → 中古英语 bright → bright",
+        "发光、明亮、鲜明"
+      ],
+      [
+        "从亮到抽象评价",
+        "聪明、活泼；前景光明"
+      ],
+      [
+        "继承与派生",
+        "brightness、brightly 有早期形式；brighten 变亮；brights 亮色、远光灯"
+      ]
+    ],
+    "explanation": "bright sunlight 明亮阳光，bright colours 鲜艳颜色，a bright child 聪明孩子，a bright future 光明前景。",
+    "usage": "bright sunlight；bright colours；a bright child；a bright future。",
+    "contrast": "bright 可以光强或颜色鲜艳，不只颜色浅；a bright child 常说聪明，不是孩子在发出照明光。",
+    "examples": [
+      [
+        "The room was bright and cheerful.",
+        "房间明亮又让人心情愉快。"
+      ],
+      [
+        "She has a bright future ahead of her.",
+        "她前途光明。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bright#English"
+    ]
+  },
+  {
+    "word": "brightness",
+    "ipa": "/ˈbraɪtnəs/",
+    "meaning": "亮度、明亮；聪慧",
+    "sense": "把亮到什么程度、明亮这件事当名词；调屏幕 brightness，就是调它看起来有多亮。",
+    "split": "接古英语 beorhtnes 等经中古英语传下，现代可对应 bright + -ness，不必说是最近英语才拼出的新词。",
+    "history": [
+      [
+        "古英语 beorht、bryht 等 → 中古英语 bright → bright",
+        "发光、明亮、鲜明"
+      ],
+      [
+        "beorhtnes → 中古英语 brightnesse 等 → brightness",
+        "明亮的性质、程度"
+      ],
+      [
+        "现代透明构词 bright + -ness",
+        "亮度；也可借聪明义说聪慧"
+      ]
+    ],
+    "explanation": "screen brightness 屏幕亮度，adjust the brightness 调亮度，the brightness of the room 房间的明亮程度。",
+    "usage": "screen brightness；adjust the brightness；reduce the brightness。",
+    "contrast": "brightness 亮度，contrast 对比度，saturation 饱和度是不同设置；颜色鲜艳不等于所有亮度参数都最大。",
+    "examples": [
+      [
+        "I reduced the screen brightness before reading.",
+        "阅读前，我调低了屏幕亮度。"
+      ],
+      [
+        "The white walls increased the room’s brightness.",
+        "白墙让房间更显明亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brightness#English"
+    ]
+  },
+  {
+    "word": "brightly",
+    "ipa": "/ˈbraɪtli/",
+    "meaning": "明亮地、鲜艳地；开朗地",
+    "sense": "灯怎么亮、颜色怎么显眼、一个人怎么开朗回应，brightly 把 bright 的性质接到动作上。",
+    "split": "接古英语 beorhtlice 经中古英语 brightliche 等，现代对应 bright + -ly。它不只用在光线，也可修饰笑、回答。",
+    "history": [
+      [
+        "古英语 beorht、bryht 等 → 中古英语 bright → bright",
+        "发光、明亮、鲜明"
+      ],
+      [
+        "beorhtlice → brightliche → brightly",
+        "以明亮、鲜明等方式"
+      ],
+      [
+        "现代引申",
+        "开朗地微笑、回答"
+      ]
+    ],
+    "explanation": "shine brightly 明亮照耀，brightly coloured 色彩鲜艳的，smile brightly 灿烂地笑，answer brightly 开朗回答。",
+    "usage": "shine brightly；brightly coloured；smile brightly；answer brightly。",
+    "contrast": "brightly 修饰动作，brightness 是性质名词；brightly coloured 说鲜艳，不是衣服一定自己发光。",
+    "examples": [
+      [
+        "The stars shone brightly above the hills.",
+        "群星在山丘上空明亮闪耀。"
+      ],
+      [
+        "She smiled brightly and waved us inside.",
+        "她灿烂一笑，挥手让我们进去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brightly#English"
+    ]
+  },
+  {
+    "word": "brighten",
+    "ipa": "/ˈbraɪtən/",
+    "meaning": "使变亮、变亮；使高兴、振奋起来",
+    "sense": "房间变亮、天放晴，或听到好消息眼神和心情亮起来，都可用 brighten；往往不只是加一盏灯。",
+    "split": "bright + 动词 -en，可对应使变亮；历史上中古英语已有 brightenen 等相关形式，更早也有变亮动词。",
+    "history": [
+      [
+        "古英语 beorht、bryht 等 → 中古英语 bright → bright",
+        "发光、明亮、鲜明"
+      ],
+      [
+        "bright + -en → brighten；早期已有相应动词形式",
+        "使变亮、变得更亮"
+      ],
+      [
+        "明亮画面的情绪引申",
+        "让心情、表情活泼起来"
+      ]
+    ],
+    "explanation": "brighten the room 让房间明亮，brighten up 放晴、振作，brighten someone’s day 让某人一天更愉快。",
+    "usage": "brighten the room；brighten up；brighten someone’s day。",
+    "contrast": "brighten 可及物也可不及物：the flowers brightened the room / her face brightened；不是每次都要加宾语。",
+    "examples": [
+      [
+        "Fresh flowers brightened the room.",
+        "鲜花让房间明快起来。"
+      ],
+      [
+        "Her face brightened when she saw us.",
+        "看到我们，她脸上露出了喜色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brighten#English"
+    ]
+  },
+  {
+    "word": "brights",
+    "ipa": "/braɪts/",
+    "meaning": "鲜艳颜色、亮色衣物；远光灯〔美式常见〕",
+    "sense": "衣服里的 brights 是醒目的亮色；开车时 your brights 常指远光灯。复数名词用法要靠场景选。",
+    "split": "bright + -s，形容词变成一类亮的东西的复数名词。现代常见亮色、远光灯两类，不是 bright 普通形容词都有复数。",
+    "history": [
+      [
+        "古英语 beorht、bryht 等 → 中古英语 bright → bright",
+        "发光、明亮、鲜明"
+      ],
+      [
+        "bright + -s → brights",
+        "鲜艳颜色、亮色衣物；高亮远光灯"
+      ]
+    ],
+    "explanation": "wear brights 穿亮色衣服，mix neutrals and brights 混搭中性色和亮色，turn off your brights 关远光灯。",
+    "usage": "wear brights；neutrals and brights；turn off your brights。",
+    "contrast": "brights 远光灯常对应 high beams；bright lights 则泛指明亮灯光，不能每次都当驾驶灯位。",
+    "examples": [
+      [
+        "She likes to mix neutrals with brights.",
+        "她喜欢混搭中性色与亮色。"
+      ],
+      [
+        "He turned off his brights as another car approached.",
+        "另一辆车靠近时，他关掉了远光灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brights#English"
+    ]
+  },
+  {
+    "word": "repayment",
+    "ipa": "/rɪˈpeɪmənt/ 或 /ˌriːˈpeɪmənt/",
+    "meaning": "偿还、归还；偿还款、还款",
+    "sense": "之前借入或欠下的，现在把钱还回去；re- 在这儿常有回去、偿还，不只是随便又付一次。",
+    "split": "repay + -ment 形成动作、款项名词，也可现代对照 re- + payment。pay 的较早法语、拉丁背景不在每次还款时重新造一遍。",
+    "history": [
+      [
+        "pay → payment；法语 paiement 等有对应历史",
+        "支付 → 支付行为、款项"
+      ],
+      [
+        "前缀与 repay 的派生",
+        "re- 还回；over- 过多；under- 不足；non- 未支付"
+      ],
+      [
+        "repay + -ment → repayment",
+        "偿还行为；归还的一笔款"
+      ]
+    ],
+    "explanation": "loan repayment 贷款偿还，monthly repayments 每月还款，repayment of a debt 偿还债务。",
+    "usage": "loan repayment；monthly repayments；repayment of a debt。",
+    "contrast": "repayment 归还欠款，payment 一般支付；prepayment 提前支付，时间在前不一定是偿还过去欠款。",
+    "examples": [
+      [
+        "They made the final repayment in June.",
+        "他们在六月付了最后一笔还款。"
+      ],
+      [
+        "The letter explained the repayment schedule.",
+        "信中解释了还款安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/repayment#English"
+    ]
+  },
+  {
+    "word": "overpayment",
+    "ipa": "英 /ˌəʊvəˈpeɪmənt/；美 /ˌoʊvərˈpeɪmənt/",
+    "meaning": "多付款、超付；多付的金额",
+    "sense": "本该付一百，结果付了一百二十，多出来那部分或多付这件事，就是 overpayment。",
+    "split": "over- 超过应有数量 + payment 支付，形成支付过多的名词，不是从楼上付款。",
+    "history": [
+      [
+        "pay → payment；法语 paiement 等有对应历史",
+        "支付 → 支付行为、款项"
+      ],
+      [
+        "前缀与 repay 的派生",
+        "re- 还回；over- 过多；under- 不足；non- 未支付"
+      ],
+      [
+        "over- + payment → overpayment",
+        "超过应付金额的支付、差额"
+      ]
+    ],
+    "explanation": "an overpayment of rent 房租多付，refund an overpayment 退还多付款，recover an overpayment 收回多付款。",
+    "usage": "refund an overpayment；an overpayment of rent；recover an overpayment。",
+    "contrast": "overpayment 数量超过应付；prepayment 提前付只说明时间，提前支付不代表多付。",
+    "examples": [
+      [
+        "The company refunded the overpayment.",
+        "公司退还了多付款。"
+      ],
+      [
+        "An accounting error caused an overpayment of rent.",
+        "记账错误导致房租多付。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overpayment#English"
+    ]
+  },
+  {
+    "word": "underpayment",
+    "ipa": "英 /ˌʌndəˈpeɪmənt/；美 /ˌʌndərˈpeɪmənt/",
+    "meaning": "少付、支付不足；少付金额",
+    "sense": "该给的没有给够：可以账单少付，也可劳动报酬低于应付或合理标准，需看具体讨论。",
+    "split": "under- 低于应有数量 + payment。under 不说偷偷在桌下给钱，而说数量不足。",
+    "history": [
+      [
+        "pay → payment；法语 paiement 等有对应历史",
+        "支付 → 支付行为、款项"
+      ],
+      [
+        "前缀与 repay 的派生",
+        "re- 还回；over- 过多；under- 不足；non- 未支付"
+      ],
+      [
+        "under- + payment → underpayment",
+        "低于应付、相应标准的支付"
+      ]
+    ],
+    "explanation": "an underpayment of tax 税款少付，correct an underpayment 补正少付款，underpayment of wages 工资少付。",
+    "usage": "correct an underpayment；underpayment of wages；an underpayment of tax。",
+    "contrast": "underpayment 付得不够，nonpayment 没付；underpayment 的判断标准要看账单、约定或上下文。",
+    "examples": [
+      [
+        "The error resulted in an underpayment of wages.",
+        "错误导致工资少付。"
+      ],
+      [
+        "They corrected the underpayment the following month.",
+        "他们在下个月补正了少付金额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underpayment#English"
+    ]
+  },
+  {
+    "word": "nonpayment",
+    "ipa": "/ˌnɒnˈpeɪmənt/〔英〕；/ˌnɑːnˈpeɪmənt/〔美〕",
+    "meaning": "未付款、不支付、欠付",
+    "sense": "款项到了该支付的环节，却没有支付；重点是没付，不是只比应付金额少了一点。",
+    "split": "non- 否定 + payment，中古英语已有 nonpayement 等形式。non 说否定，不是时间前后或金额高低。",
+    "history": [
+      [
+        "pay → payment；法语 paiement 等有对应历史",
+        "支付 → 支付行为、款项"
+      ],
+      [
+        "前缀与 repay 的派生",
+        "re- 还回；over- 过多；under- 不足；non- 未支付"
+      ],
+      [
+        "non- + payment → nonpayment",
+        "应付款项未支付"
+      ]
+    ],
+    "explanation": "nonpayment of rent 未付租金，nonpayment of fees 未缴费用，due to nonpayment 因未付款。",
+    "usage": "nonpayment of rent；nonpayment of fees；due to nonpayment。",
+    "contrast": "nonpayment 未付，late payment 迟付，underpayment 少付；描述的是不同维度，不宜混译。",
+    "examples": [
+      [
+        "The reminder concerned nonpayment of the membership fee.",
+        "提醒涉及尚未缴纳会员费。"
+      ],
+      [
+        "The account was suspended due to nonpayment.",
+        "账户因未付款而暂停。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonpayment#English"
+    ]
+  },
+  {
+    "word": "swim",
+    "ipa": "/swɪm/",
+    "meaning": "游泳、游过；漂浮、浸满；眼前晃动、眩晕〔引申〕",
+    "sense": "人在水里让身体前进是 swim；眼前的东西像在水里晃来晃去，也可说 the room swam，不必真有水进屋。",
+    "split": "继承古英语 swimman，经中古英语到 swim。水中活动分支逐步有漂浮、浸在液体等扩展；旧英语另有眩晕名词，相关用法不宜都硬定为现代游泳的直接新造。",
+    "history": [
+      [
+        "古英语 swimman → 中古英语 swymmen → swim",
+        "游泳、漂浮等水中活动"
+      ],
+      [
+        "不规则变化与派生",
+        "swim—swam—swum；swimming、swimmer 双写 m；swimwear 为衣物总称"
+      ]
+    ],
+    "explanation": "go for a swim 去游一会儿，swim across the river 游过河，swim in the sea 在海里游泳，swim—swam—swum。",
+    "usage": "go for a swim；swim across；swim in the sea；swim—swam—swum。",
+    "contrast": "swam 过去式，swum 过去分词：she swam / she has swum；常见 swimming、swimmer 双写 m，不是 swiming。",
+    "examples": [
+      [
+        "She swam across the lake.",
+        "她游过了湖。"
+      ],
+      [
+        "We went for a swim before breakfast.",
+        "早饭前，我们去游了一会儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swim#English"
+    ]
+  },
+  {
+    "word": "swimming",
+    "ipa": "/ˈswɪmɪŋ/",
+    "meaning": "游泳、游泳运动；正在游泳",
+    "sense": "把游泳当一项活动说：swimming is fun 是游泳很有意思；is swimming 则把镜头放到正在进行的动作。",
+    "split": "swim 双写 m + -ing，中古英语已有对应活动名词。swimming pool 的 swimming 说明池子的用途。",
+    "history": [
+      [
+        "古英语 swimman → 中古英语 swymmen → swim",
+        "游泳、漂浮等水中活动"
+      ],
+      [
+        "swim + -ing → swimming〔双写 m〕",
+        "游泳活动；进行中的游泳动作"
+      ]
+    ],
+    "explanation": "go swimming 去游泳，a swimming pool 游泳池，swimming lessons 游泳课，swimming goggles 游泳镜。",
+    "usage": "go swimming；a swimming pool；swimming lessons；swimming goggles。",
+    "contrast": "go swimming 常不加 to；swimming 作活动名词时不因很多人游便随便加复数 -s。",
+    "examples": [
+      [
+        "Swimming is her favourite sport.",
+        "游泳是她最喜欢的运动。"
+      ],
+      [
+        "The children are swimming in the shallow end.",
+        "孩子们正在浅水区游泳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swimming#English"
+    ]
+  },
+  {
+    "word": "swimmer",
+    "ipa": "英 /ˈswɪmə/；美 /ˈswɪmər/",
+    "meaning": "游泳者、会游泳的人",
+    "sense": "做游泳这个动作的人；a strong swimmer 强调游泳能力好，不一定是职业运动员。",
+    "split": "swim 双写 m + -er，人物名词；中古英语已有 swimmere 等形式。",
+    "history": [
+      [
+        "古英语 swimman → 中古英语 swymmen → swim",
+        "游泳、漂浮等水中活动"
+      ],
+      [
+        "swim + -er → swimmer〔双写 m〕",
+        "游泳的人、游泳者"
+      ]
+    ],
+    "explanation": "a strong swimmer 游泳能力强的人，a beginner swimmer 初学游泳者，a competitive swimmer 竞技游泳者。",
+    "usage": "a strong swimmer；a competitive swimmer；an experienced swimmer。",
+    "contrast": "swimmer 人，swimming 活动，swimwear 衣物；职业与业余要靠上下文，不由 -er 自带专业资格。",
+    "examples": [
+      [
+        "She is a strong swimmer.",
+        "她游泳能力很强。"
+      ],
+      [
+        "The swimmers gathered beside the pool.",
+        "游泳者在池边集合。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swimmer#English"
+    ]
+  },
+  {
+    "word": "swimwear",
+    "ipa": "英 /ˈswɪmweə/；美 /ˈswɪmwer/",
+    "meaning": "泳装〔衣物总称〕",
+    "sense": "游泳时穿的衣服这一类，不特指某一套女式或男式泳衣；商店里的分类名称常见它。",
+    "split": "swim 游泳 + wear 穿用的衣物，wear 在复合词后面可作衣物总称，不是让游泳这个动作磨损。",
+    "history": [
+      [
+        "古英语 swimman → 中古英语 swymmen → swim",
+        "游泳、漂浮等水中活动"
+      ],
+      [
+        "swim + wear → swimwear",
+        "用于游泳的衣物类别"
+      ]
+    ],
+    "explanation": "a swimwear collection 泳装系列，children’s swimwear 儿童泳装，shop for swimwear 买泳装。",
+    "usage": "children’s swimwear；a swimwear collection；shop for swimwear。",
+    "contrast": "swimwear 常不可数总称，swimsuit 可一件具体泳装；a piece of swimwear 可以数某一件。",
+    "examples": [
+      [
+        "The shop sells children’s swimwear.",
+        "店里卖儿童泳装。"
+      ],
+      [
+        "She designed a new swimwear collection.",
+        "她设计了一套新泳装系列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swimwear#English"
+    ]
+  }
+]

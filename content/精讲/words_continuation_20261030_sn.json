@@ -1,0 +1,104 @@
+[
+  {
+    "word": "byte",
+    "ipa": "/baɪt/",
+    "meaning": "字节",
+    "sense": "电脑存数据时的一小组二进制位，现代通常八个 bit 合成一 byte；它像一个常用的小包装单位。",
+    "split": "近代计算机术语，把 bite 咬下一小块的拼写改成 byte，以免与 bit 混淆。它是命名变形，不是 by 加表示技术的 -te。",
+    "history": [
+      [
+        "bite 的小口、小块命名意象",
+        "计算机早期数据分组的命名材料"
+      ],
+      [
+        "改拼 byte",
+        "字节，现代通常为八比特"
+      ]
+    ],
+    "explanation": "one byte 一个字节；a byte of data 一个字节的数据；byte size 字节大小。符号常用大写 B，小写 b 通常表示 bit。",
+    "usage": "read a byte；bytes of data。",
+    "contrast": "byte 读 /baɪt/，bit 读 /bɪt/；现代八比特对应一字节，历史上 byte 的长度曾有其他约定。",
+    "examples": [
+      [
+        "The program reads one byte at a time.",
+        "程序每次读取一个字节。"
+      ],
+      [
+        "Eight bits make up one byte in this format.",
+        "在这种格式中，八个比特组成一个字节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/byte#English",
+      "https://physics.nist.gov/cuu/Units/binary.html"
+    ]
+  },
+  {
+    "word": "gigabyte",
+    "ipa": "/ˈɡɪɡəbaɪt/",
+    "meaning": "吉字节；通常十亿字节",
+    "sense": "byte 太小，文件、存储空间一大就改用 gigabyte 计数；现代十进制的一 GB 是十亿字节。",
+    "split": "giga- 十亿倍 + byte 字节，形成数据容量单位。计算机历史中也曾以这个名称指二进制的 2 的三十次方字节；现代 GiB 可明确表示后者。",
+    "history": [
+      [
+        "giga- + byte → gigabyte",
+        "用十亿倍率放大字节单位"
+      ],
+      [
+        "容量标记的现代区分",
+        "GB 通常十亿字节；GiB 明确二进制量"
+      ]
+    ],
+    "explanation": "a file of two gigabytes 两吉字节文件；gigabytes of storage 以吉字节计的存储空间。阅读设备、系统显示时留意采用的计数习惯。",
+    "usage": "a few gigabytes；storage in gigabytes。",
+    "contrast": "gigabit 计比特，gigabyte 计字节；在相同十进制前缀下，一 gigabyte 对应八 gigabits。不要只看首字母 G。",
+    "examples": [
+      [
+        "The video file takes up two gigabytes of storage.",
+        "这个视频文件占用两吉字节存储空间。"
+      ],
+      [
+        "The program displays file sizes in gigabytes.",
+        "程序以吉字节显示文件大小。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gigabyte#English",
+      "https://physics.nist.gov/cuu/Units/binary.html"
+    ]
+  },
+  {
+    "word": "childfree",
+    "ipa": "/ˌtʃaɪldˈfriː/",
+    "meaning": "选择不生育的；无孩子在场的〔依语境〕",
+    "sense": "说人的生活选择时，通常是不打算要孩子；说一场晚餐、一个周末时，也可只是这段时间没有孩子在场。",
+    "split": "child 孩子 + free 没有、不受……影响的，形成现代复合形容词；连写与带连字符形式都能见到。free 在这里不表示免费。",
+    "history": [
+      [
+        "child + free",
+        "不带孩子、没有孩子的关系"
+      ],
+      [
+        "现代人物、场景用法",
+        "主动不生育；某段时间无孩子在场"
+      ]
+    ],
+    "explanation": "a childfree couple 选择不育的伴侣；a childfree evening 没有孩子在场的一晚。先看说生活选择还是临时安排。",
+    "usage": "remain childfree；a childfree weekend。",
+    "contrast": "childless 只从字面说没有孩子，可能带不如愿的含义；childfree 常突出自主选择，也有临时无孩子在场的中性用法。",
+    "examples": [
+      [
+        "They have decided to remain childfree.",
+        "他们决定不生育孩子。"
+      ],
+      [
+        "The grandparents babysat so the couple could enjoy a childfree evening.",
+        "祖父母照看孩子，让这对伴侣能享受一个不用带孩子的晚上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childfree#English",
+      "https://en.wiktionary.org/wiki/child-free#English"
+    ]
+  }
+]

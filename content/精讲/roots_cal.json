@@ -5,7 +5,7 @@
     "core": "把声音发出去，让人听见、过来，或知道某人某物叫什么。",
     "image": "想象一个人在广场上发声：叫大家来议事，连到 council；报出月初与日期，连到 calendar；报来客名字，连到 nomenclature。",
     "intro": "拉丁语 calāre 的本质是“呼叫、正式宣布”。同源的 clāmāre 更突出喊、宣告，形成 claim 一大支。classis“分组、等级”传统上也联系召集而来的人群，但这条更深的解释并非完全确定，所以 class 的图从有记录的 classis 开始。各支之间是家族关系，不是所有英语词都从同一个短字母块直接拼出来。",
-    "forms": "cal- 见于 calendar、intercalate；concilium“会议”走到 council、conciliate、reconcile；classis 走到 class、classic、classify；clāmāre 的 clam-/claim- 分支另有专题。拉丁语和法语的旧变化解释了不同词形，现代英语不把这些拼写自由互换。",
+    "forms": "cal- 见于 calendar、intercalate；concilium“会议”走到 council、conciliate、reconcile；classis 走到 class、classic、classify；clāmāre 的 clam-/claim- 分支另有专题。拉丁语和法语的旧变化解释了不同词形，现代英语不把这些拼写自由互换。\n\nclaim 经法语接拉丁 clāmāre 呼喊、宣称词族，名词和动词有平行借入路线。\n\nclass 接法语 classe、拉丁 classis；与召集 calare 的传统联系有不确定性，不把两者画成已证实的逐步变化。\n\n拉丁呼喊词经法语借入，声称与认领根据宾语区分。\n\n拉丁 concilium 经法语、盎格鲁法语，和 counsel 的 consilium 近源区分。\n\nclassmate 是英语复合词，末尾保留 e 加 -s，/t/ 后读 /s/。同班、同一课程的同学与更宽的 schoolmates 可对照。",
     "branches": [
       [
         "召集议事的人",
@@ -30,6 +30,26 @@
       [
         "同源的喊出、主张支线",
         "claim, reclaim, acclaim, proclaim"
+      ],
+      [
+        "claim → claims：声称、主张与索取",
+        "claim · claims"
+      ],
+      [
+        "class → classes：班级、类别、阶层与归类",
+        "class · classes"
+      ],
+      [
+        "claim → claiming：把要求或说法提出来",
+        "claim · claiming"
+      ],
+      [
+        "council → councils：聚起来议事的机构",
+        "council · councils"
+      ],
+      [
+        "class 班级 + mate 同伴 → classmates",
+        "classmates"
       ]
     ],
     "contrasts": "council 来自 concilium“会议”；counsel 的直接来源是 consilium“意见、计划”，更深来历有不同解释，本页不把两者画成一条确定的祖先链。callous、callus 来自“硬皮、胼胝”的另一支；calorie 的 cal- 是“热”，不能按字母混归。classical 不是“课堂的”；classroom 才直接以现代 class“班级”组成。",
@@ -104,7 +124,12 @@
       "disclaimer",
       "declaim",
       "declamation",
-      "declamatory"
+      "declamatory",
+      "claims",
+      "classes",
+      "claiming",
+      "councils",
+      "classmates"
     ],
     "exclude": []
   },
@@ -114,7 +139,7 @@
     "core": "把一句话或一个要求明确地说出来，让别人听见并回应。",
     "image": "同一个人站出来发声：说“这是我的”是 claim；喊“太好了”连到 acclaim；向公众宣布连到 proclaim；惊讶脱口而出连到 exclaim。",
     "intro": "来自拉丁语 clāmāre“喊、呼叫、宣布”。它与 calāre 同源，但不是 calāre 在英语里加一个 m 就变成 clam-。现代常用词已不一定需要大声：claim 可以安静地写在申请表上，acclaim 也可以体现为很多好评。记住发声的意图，比记一个僵硬的“喊”字更有用。",
-    "forms": "clam- 保留在 proclamation、exclamation、clamor；claim 常见于动词 claim、proclaim、exclaim、reclaim。许多 -ation 名词在拉丁语里已经形成，英语的动词和名词分别借入，不能一概当成现代动词加词尾。exclaim 甚至可能由较早的 exclamation 反构。",
+    "forms": "clam- 保留在 proclamation、exclamation、clamor；claim 常见于动词 claim、proclaim、exclaim、reclaim。许多 -ation 名词在拉丁语里已经形成，英语的动词和名词分别借入，不能一概当成现代动词加词尾。exclaim 甚至可能由较早的 exclamation 反构。\n\nclaim 经法语接拉丁 clamare；补上现代 claims 的主张、要求和第三人称用法，实际路线按逐词说明读。\n\n喊出、宣布的历史背景，声称本身不判定真假。\n\nproclaim 接拉丁 proclamare 公开喊出，英语拼写受 claim 影响。现代加 -ed，/m/ 后读 /d/，强调公开、郑重宣布等。",
     "branches": [
       [
         "提出权利与说法",
@@ -147,6 +172,18 @@
       [
         "演说与朗诵",
         "declaim, declamation, declamatory"
+      ],
+      [
+        "clamare → claim → claims：宣称、提出主张",
+        "claim · claims"
+      ],
+      [
+        "claim → claimed：声称、要求与主张",
+        "claim · claimed"
+      ],
+      [
+        "pro- 向外 + clam- 喊 → proclaimed",
+        "proclaimed"
       ]
     ],
     "contrasts": "claim 是提出说法或要求，prove 才是证明；exclaim 是带情绪说出，proclaim 是公开宣告。declaim 的 de- 常被解释为加强，不是撤销；disclaim 才有否认、放弃主张的路线。clam“蛤蜊”不是 clāmāre 的后代，climb“爬”也不因拼写相似而属于这里。",
@@ -173,7 +210,10 @@
       "disclaimer",
       "declaim",
       "declamation",
-      "declamatory"
+      "declamatory",
+      "claims",
+      "claimed",
+      "proclaimed"
     ],
     "exclude": []
   }

@@ -1,0 +1,235 @@
+[
+  {
+    "id": "B4087",
+    "meaning": "不紧、松弛，借到力度、责任和未满负荷",
+    "core": "SLACK：绳子松下来，人也可能松了劲",
+    "image": "slack → slacken；slacker 是不尽力的人，先基本状态再看变化、人物。",
+    "intro": "一截垂下的松绳能帮你理解余量；没有拉满的业务能理解清淡。是否偷懒由人物、责任场景决定，不能每次都带责备。",
+    "forms": "slæc、slacian → slack；-en 变化；-er 人；slacks 长裤另记固定复数。\n\nslouch 较早名词说懒散者，来源未定，可能北欧并与 slack 的松、垂材料相关；现代 no slouch 反而是夸有本领。\n\nslouch 早期人物名词远源未定，或有北欧松垮材料联系；slouchy 加 -y 写姿态、衣物的松垮性质，不据衣服松垮判穿着者能力。",
+    "branches": [
+      [
+        "松弛与减弱的变化",
+        "slack · slacken"
+      ],
+      [
+        "偷懒人物评价",
+        "slacker"
+      ],
+      [
+        "slouch 的松垮姿态与 slack 的远近比较",
+        "slack · slouch · slouches · slouched · slouching"
+      ],
+      [
+        "slouchy：松松垮垮的姿态、衣物",
+        "slouch · slouchy"
+      ]
+    ],
+    "contrasts": "slack 业务淡不等于员工懒；slacks 常是长裤名，不能只按松绳翻；slacken 不要求完全停住。",
+    "practice": "As the rain slackened, they pulled the slack rope tighter.\n\n雨势减弱后，他们把松绳拉紧了些。",
+    "words": [
+      "slack",
+      "slacken",
+      "slacker",
+      "slouch",
+      "slouches",
+      "slouched",
+      "slouching",
+      "slouchy"
+    ],
+    "exclude": {
+      "slack-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slacked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3054",
+    "meaning": "鼹鼠、痣、单位等同形词分源，不能硬串一个根",
+    "core": "MOLE：字一样，先看场景是哪条来源",
+    "image": "mole → molehill 属动物分支；molar 有单位相关性质，也有另源牙齿义。",
+    "intro": "鼹鼠和内鬼能靠潜伏形象连接；皮肤痣、物质的量单位和墨西哥酱则要分开。一个整体音形不代表一个共同演化故事。",
+    "forms": "māl → mole 痣；molle 等 → mole 鼹鼠；德语 Mol → mole 单位；mōlli → 西班牙 mole → 英语酱名。",
+    "branches": [
+      [
+        "动物与潜伏比喻",
+        "mole · molehill"
+      ],
+      [
+        "痣及数量单位等同形词",
+        "mole · molar"
+      ]
+    ],
+    "contrasts": "molar 单位性质与臼齿相关义分源；mole 不是固定克数，molehill 是鼹鼠堆土而非摩尔单位之丘。",
+    "practice": "The mole left a molehill in the garden.\n\n鼹鼠在花园里留下了一个土丘。",
+    "words": [
+      "mole",
+      "molehill",
+      "molar"
+    ],
+    "exclude": {
+      "mole-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whack-a-mole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moley": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4504",
+    "meaning": "骑乘座具与装鞍，借到把负担扣给人",
+    "core": "SADDLE：坐上去的座，装上去也会成为负担",
+    "image": "saddle → saddling，实体座具、装鞍动作与责任负担比喻一起学。",
+    "intro": "用马鞍与自行车座记实物，再用 saddled with 记不情愿的负担。更早与坐的材料关联有解释，不硬讲成现代前后缀。",
+    "forms": "sadol、相应旧动词 → saddle；去 e 接 -ing → saddling；saddle someone with 是常用比喻结构。",
+    "branches": [
+      [
+        "座具、动作及 -ing 形式",
+        "saddle · saddling"
+      ]
+    ],
+    "contrasts": "saddle 不是 sad 悲伤的派生；saddled with 有负担意味，不能总替代中性的 give。",
+    "practice": "She was saddling the horse beside a spare saddle.\n\n她在一副备用马鞍旁给马备鞍。",
+    "words": [
+      "saddle",
+      "saddling"
+    ],
+    "exclude": {
+      "saddleback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "saddler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3464",
+    "meaning": "忧虑、哀痛的旧词，形容词写充满悲伤的样子",
+    "core": "SORROW：心里沉沉的难过，不只是说一句抱歉",
+    "image": "sorrow → sorrowful，感受、伤心事与带悲意的性质。",
+    "intro": "从悲伤感受进入，复数可说伤心事，-ful 再写表情、声音。sorry、sore 看着像，却不能据此画成同一演化链。",
+    "forms": "sorg、sorh → sorwe 等 → sorrow；旧 sorhful → sorrowful，现代对应 -ful。\n\n古英语 sorg、sorh 词族传承；sorrowful 有旧复合词历史，现代可辨 sorrow、-ful，再加完整 -ly。",
+    "branches": [
+      [
+        "悲伤与相应性质",
+        "sorrow · sorrowful"
+      ],
+      [
+        "sorrow 的忧伤、具体伤心事与方式副词",
+        "sorrow · sorrows · sorrowful · sorrowfully"
+      ]
+    ],
+    "contrasts": "sorrow 与 sorry 不是简单的名词、形容词派生对；sorrowful 不自动是道歉。",
+    "practice": "Her sorrow was clear in her sorrowful voice.\n\n她忧伤的声音清楚显出了内心的悲痛。",
+    "words": [
+      "sorrow",
+      "sorrowful",
+      "sorrows",
+      "sorrowfully"
+    ],
+    "exclude": {
+      "sorrow-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4585",
+    "meaning": "成文法律规定的性质，具体规则仍需看原文",
+    "core": "STATUTORY：要求写在相应法律里",
+    "image": "statutory 与 statute 成文法配对记，先学常见形容词用法。",
+    "intro": "statutory requirement 是法律规定的要求，statutory body 是依法设立的机构。这是词语性质说明，不靠词源推定某地目前有哪些具体规定。",
+    "forms": "statute 对应 statutory 的关系形容词，历史接拉丁 statu- 等法令材料；不是 statue 雕像加词尾。",
+    "branches": [
+      [
+        "成文法相关性质",
+        "statutory"
+      ]
+    ],
+    "contrasts": "statue 雕像、statute 法规必须看清字母；statutory 说法定依据，voluntary 说自愿，两者不是同一分类标准。",
+    "practice": "The report lists the statutory requirements separately.\n\n报告把法定要求单独列出。",
+    "words": [
+      "statutory"
+    ],
+    "exclude": {
+      "extra-statutory": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "statutorily": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3252",
+    "meaning": "黏稠焦油及历史防水、铺路名称，计算机缩略词分源",
+    "core": "TAR：旧时黑黏材料，留下铺面和罩布名字",
+    "image": "tar → tarmac、tarpaulin；计算机 tar 是独立缩略词。",
+    "intro": "历史材料把路面和防水布连起来，现代材料可能已更换。识字形要接历史，理解眼前物品还要接现代实际。",
+    "forms": "teoru → tar；tar + macadam 缩成 tarmac；tar 与厚布材料形成 tarpaulin；tape archive 缩成计算机 tar。",
+    "branches": [
+      [
+        "物质与铺面、防水罩布",
+        "tar · tarmac · tarpaulin"
+      ],
+      [
+        "同形缩略词",
+        "tar"
+      ]
+    ],
+    "contrasts": "tarmac 不总是跑道；tarpaulin 不保证真涂焦油；tarry 延误动词又是另一条来源，不能全挂在物质 tar 上。",
+    "practice": "A tarpaulin covered the equipment beside the tarmac road.\n\n铺装公路旁的设备上盖着防水篷布。",
+    "words": [
+      "tar",
+      "tarmac",
+      "tarpaulin"
+    ],
+    "exclude": {
+      "tar-black": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tarry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4380",
+    "meaning": "呼吸、通道受阻，扩到情绪和临场表现",
+    "core": "CHOKE：本来该通的东西，突然卡住了",
+    "image": "choke → choker；chokehold 为相关控制姿势、控制比喻。",
+    "intro": "用通道堵住记主动作，再分排水沟堵塞、情绪哽咽和压力下失常。choker 的首饰义是物品名称，不按窒息字面硬译。",
+    "forms": "aceocian → acheken、choken → choke；去 e 接 -er；choke + hold。",
+    "branches": [
+      [
+        "受阻动作与贴颈饰物",
+        "choke · choker"
+      ],
+      [
+        "控制姿势与控制比喻",
+        "chokehold"
+      ]
+    ],
+    "contrasts": "choked up 多可说情绪哽咽，未必真被食物噎住；choker 首饰不等于使用效果必然使人窒息。",
+    "practice": "She wore a choker and got choked up during the speech.\n\n她戴着颈圈项链，讲话时一度哽咽。",
+    "words": [
+      "choke",
+      "choker",
+      "chokehold"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3635",
+    "meaning": "可变形后恢复的性质，借到变化响应与灵活性",
+    "core": "ELASTIC：拉开能回来，变化时也看响应多大",
+    "image": "elastic → elasticity；inelastic 加否定，先性质、名词再看学科差别。",
+    "intro": "橡皮筋让恢复画面直观；经济学则用相对变化响应建立另一个专门定义。不要把两个学科都缩成能不能拉长。",
+    "forms": "elastos → elasticus → elastique → elastic；-ity 性质，c 变读 /s/；in- 否定。",
+    "branches": [
+      [
+        "弹性性质与名词",
+        "elastic · elasticity"
+      ],
+      [
+        "缺乏弹性的性质",
+        "inelastic"
+      ]
+    ],
+    "contrasts": "elastic 不是所有柔软材料；inelastic 经济义不自动等于完全不变；物理、经济的专业量需分别理解。",
+    "practice": "The elastic material recovered, while the other showed an inelastic change.\n\n弹性材料恢复了原状，另一种材料则出现了非弹性变化。",
+    "words": [
+      "elastic",
+      "elasticity",
+      "inelastic"
+    ],
+    "exclude": {
+      "elastomer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elastin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "viscoelastic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

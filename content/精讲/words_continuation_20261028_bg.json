@@ -1,0 +1,439 @@
+[
+  {
+    "word": "job",
+    "ipa": "英 /dʒɒb/；美 /dʒɑːb/",
+    "meaning": "工作；任务；岗位；一项处理作业",
+    "sense": "既可以是长期靠它挣钱的职位，也可以是眼前这一件要做完的活。",
+    "split": "早期有 jobbe of work“一份工作”等表达，更早来源不确定。与一块、一团或戳、切等词的联系有不同假说，不选一个讲成定论。",
+    "history": [
+      [
+        "早期英语 jobbe of work 一类表达",
+        "一件、一份工作；更早来源不确定"
+      ],
+      [
+        "英语 job",
+        "任务；有报酬的工作岗位"
+      ]
+    ],
+    "explanation": "get a job 找到工作，do a good job 做得好，a repair job 一次修理活，a print job 一项打印作业。job 通常可数。",
+    "usage": "get a job；do a good job；a repair job；a print job；job satisfaction。",
+    "contrast": "job 一份工作、任务通常可数；work 一般劳动、工作量常不可数。a lot of work 与 several jobs 可以同时成立。",
+    "examples": [
+      [
+        "She got a job at the local library.",
+        "她在当地图书馆找到了一份工作。"
+      ],
+      [
+        "Cleaning the windows is my job today.",
+        "今天擦窗是我的任务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/job#English"
+    ]
+  },
+  {
+    "word": "jobless",
+    "ipa": "英 /ˈdʒɒbləs/；美 /ˈdʒɑːbləs/",
+    "meaning": "没有工作的；失业的",
+    "sense": "眼下没有工作岗位；与只是今天休假、不用上班的状态分开。",
+    "split": "job + -less（没有），形容缺少工作、就业岗位的状态。",
+    "history": [
+      [
+        "早期英语 jobbe of work 一类表达",
+        "一件、一份工作；更早来源不确定"
+      ],
+      [
+        "英语 job",
+        "任务；有报酬的工作岗位"
+      ],
+      [
+        "job + -less → jobless",
+        "没有工作、处于失业状态的"
+      ]
+    ],
+    "explanation": "jobless workers 失业劳动者，the jobless 失业人群。新闻统计的具体口径由材料交代，不能从词本身推统一身份资格。",
+    "usage": "jobless workers；the jobless；remain jobless。",
+    "contrast": "jobless 没工作，与 off work 休假、暂不工作不同；在放年假的人并不因此 jobless。",
+    "examples": [
+      [
+        "He remained jobless for several months.",
+        "他有几个月一直没找到工作。"
+      ],
+      [
+        "The program helps jobless workers develop new skills.",
+        "项目帮助失业者培养新技能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jobless#English"
+    ]
+  },
+  {
+    "word": "joblessness",
+    "ipa": "英 /ˈdʒɒbləsnəs/；美 /ˈdʒɑːbləsnəs/",
+    "meaning": "失业；无工作状态",
+    "sense": "从某个人没工作，转到讨论一段时间、一个地区的无工作状态。",
+    "split": "jobless + -ness，链条 job → jobless → joblessness；不要把 -lessness 看成没有内部结构的一整块。",
+    "history": [
+      [
+        "早期英语 jobbe of work 一类表达",
+        "一件、一份工作；更早来源不确定"
+      ],
+      [
+        "英语 job",
+        "任务；有报酬的工作岗位"
+      ],
+      [
+        "job → jobless → joblessness",
+        "工作 → 无工作的 → 无工作状态"
+      ]
+    ],
+    "explanation": "long-term joblessness 长期失业，high joblessness 高失业水平。常见于社会、经济讨论；比率如何定义看相应数据。",
+    "usage": "long-term joblessness；high joblessness；reduce joblessness。",
+    "contrast": "joblessness 状态名词，jobless 形容词或 the jobless 集合称呼；不是所有表示无工作的人、事都能用同一语法位置。",
+    "examples": [
+      [
+        "The report examines the effects of long-term joblessness.",
+        "报告考察长期失业的影响。"
+      ],
+      [
+        "Joblessness remained high in the region.",
+        "该地区失业水平仍然很高。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joblessness#English"
+    ]
+  },
+  {
+    "word": "jobseeker",
+    "ipa": "英 /ˈdʒɒbsiːkə/；美 /ˈdʒɑːbsiːkər/",
+    "meaning": "求职者",
+    "sense": "不是已经没有工作这一状态，而是正在寻找工作的行动身份。",
+    "split": "job + seeker，seeker 是 seek + -er，表寻找的人；可与分写 job seeker 对照。",
+    "history": [
+      [
+        "job；seeker〔seek + -er〕",
+        "并列构词部分"
+      ],
+      [
+        "jobseeker",
+        "正在寻找工作的人"
+      ]
+    ],
+    "explanation": "advice for jobseekers 给求职者的建议，a first-time jobseeker 首次求职者。已经有工作、准备换岗位的人也可以求职。",
+    "usage": "a first-time jobseeker；support for jobseekers；a jobseeker’s skills。",
+    "contrast": "jobseeker 求职者与 jobless 失业者不完全重合；一个说行动，一个说当前就业状态。",
+    "examples": [
+      [
+        "The workshop helps jobseekers prepare for interviews.",
+        "工作坊帮助求职者准备面试。"
+      ],
+      [
+        "The fair attracted both new graduates and experienced jobseekers.",
+        "招聘会既吸引应届毕业生，也吸引有经验的求职者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jobseeker#English"
+    ]
+  },
+  {
+    "word": "jobsite",
+    "ipa": "英 /ˈdʒɒbsaɪt/；美 /ˈdʒɑːbsaɪt/",
+    "meaning": "工作现场；施工工地",
+    "sense": "不是公司注册在哪，而是这份施工、维修等工作实际发生的地方。",
+    "split": "job + site（场地），尤其常用于建筑、施工现场；site 在这里先取实体地点义。",
+    "history": [
+      [
+        "job；site〔现场〕",
+        "并列构词部分"
+      ],
+      [
+        "jobsite",
+        "开展具体工作的场地、工地"
+      ]
+    ],
+    "explanation": "on the jobsite 在工地、工作现场，jobsite equipment 现场设备。求职网站通常要从上下文另辨 jobs website 等，不把此词一律当网站。",
+    "usage": "on the jobsite；jobsite equipment；a busy jobsite。",
+    "contrast": "jobsite 工作现场，jobseeker 求职者；一个说任务发生地点，一个说找工作的人。",
+    "examples": [
+      [
+        "The equipment arrived at the jobsite before sunrise.",
+        "设备天亮前运到了工地。"
+      ],
+      [
+        "The manager visited the jobsite to check progress.",
+        "经理到现场查看进度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jobsite#English"
+    ]
+  },
+  {
+    "word": "blowjob",
+    "ipa": "英 /ˈbləʊdʒɒb/；美 /ˈbloʊdʒɑːb/",
+    "meaning": "口交〔特指对阴茎的口腔性刺激；粗俗口语〕",
+    "sense": "整体是性行为的粗俗名称，不能照普通 blow“吹气”加 job“工作”猜成一项吹气任务。",
+    "split": "20世纪美国俚语，来自 blow off 的旧性俚语用法与 job 组合。普通 blow 的字面意义不足以解释整词，不编吹乐器之类的确定起源故事。",
+    "history": [
+      [
+        "美国俚语 blow off 的相关性行为用法 + job",
+        "俚语组合背景"
+      ],
+      [
+        "英语 blowjob",
+        "对阴茎的口交行为的粗俗称呼"
+      ]
+    ],
+    "explanation": "give someone a blowjob 是常见结构。词的粗俗语域很明显，医学、正式性教育通常用 oral sex、fellatio 等更中性的术语。",
+    "usage": "give someone a blowjob；a crude blowjob joke；the term blowjob。",
+    "contrast": "blowjob 属 oral sex 的一种具体指向；oral sex 范围更广，也不是普通工作任务 job。",
+    "examples": [
+      [
+        "In the adult comedy, he makes an awkward request for a blowjob.",
+        "成人喜剧里，他尴尬地提出了口交请求。"
+      ],
+      [
+        "The editor removed a crude blowjob joke from the script.",
+        "编辑从剧本里删去了一则粗俗的口交笑话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blowjob#English"
+    ]
+  },
+  {
+    "word": "site",
+    "ipa": "/saɪt/",
+    "meaning": "地点；场地；遗址；网站；选址、设置于",
+    "sense": "某件事、某座设施落在的那块地方；互联网上也用它叫一个有地址、能访问的站点。",
+    "split": "经盎格鲁诺曼、中古英语接拉丁 situs“位置、地点”，与 sinere“放置”等旧义相关。不是 sight“视觉、景象”的缩写。",
+    "history": [
+      [
+        "拉丁 situs → 盎格鲁诺曼 site → 中古英语 site",
+        "放置位置、地点"
+      ],
+      [
+        "英语 site",
+        "场地、地点；网站；把设施设在某处"
+      ]
+    ],
+    "explanation": "a building site 建筑工地，an archaeological site 考古遗址，a website 网站。动词 site a building near the road 是把建筑设在路旁。",
+    "usage": "a building site；an archaeological site；a historic site；site a building。",
+    "contrast": "site 地点，sight 视力、景象，cite 引用，三者常同音 /saɪt/，写法和来源不同。",
+    "examples": [
+      [
+        "The museum stands on the site of an old factory.",
+        "博物馆建在旧工厂原址。"
+      ],
+      [
+        "The new station will be sited near the main road.",
+        "新车站将设在主路附近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/site#English"
+    ]
+  },
+  {
+    "word": "website",
+    "ipa": "/ˈwebsaɪt/",
+    "meaning": "网站",
+    "sense": "同一个网络地址体系下，一组彼此关联、供访问的网页组成一个站。",
+    "split": "web（万维网）+ site（站点）→ website：把相关网页与功能组织在一起的网络站点。",
+    "history": [
+      [
+        "web〔万维网〕；site",
+        "并列构词部分"
+      ],
+      [
+        "website",
+        "互相组织、关联的网页站点"
+      ]
+    ],
+    "explanation": "visit a website 访问网站，the official website 官方网站。网站可能分布在多台服务器，不能把一个网站定义成必须只放在一台机器上。",
+    "usage": "visit a website；the official website；a website address。",
+    "contrast": "website 网站整体，webpage 单个网页；一个 website 往往包含多个 webpages。",
+    "examples": [
+      [
+        "The museum’s website lists its opening hours.",
+        "博物馆网站列出了开放时间。"
+      ],
+      [
+        "She built a website for the village history project.",
+        "她为村史项目建了一个网站。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/website#English"
+    ]
+  },
+  {
+    "word": "onsite",
+    "ipa": "英 /ˌɒnˈsaɪt/；美 /ˌɑːnˈsaɪt/",
+    "meaning": "现场的；在现场",
+    "sense": "人、服务或设备直接到了工作发生的地方，不是远程在别处处理。",
+    "split": "on + site，也常写 on-site，两种写法同义。site 这里通常取实体现场义。",
+    "history": [
+      [
+        "on；site〔现场〕",
+        "并列构词部分"
+      ],
+      [
+        "onsite",
+        "在指定工作、活动现场"
+      ]
+    ],
+    "explanation": "onsite support 现场支持，work onsite 到现场办公。网站上进行的活动通常说 online，不直接套 onsite。",
+    "usage": "onsite support；an onsite visit；work onsite。",
+    "contrast": "onsite 在实体现场，与 online 在线不同；一次 onsite meeting 也可能同时有网络参会者，词先说明现场位置。",
+    "examples": [
+      [
+        "The company provides onsite technical support.",
+        "公司提供现场技术支持。"
+      ],
+      [
+        "An engineer will inspect the equipment onsite.",
+        "工程师会到现场检查设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/onsite#English"
+    ]
+  },
+  {
+    "word": "offsite",
+    "ipa": "英 /ˌɒfˈsaɪt/；美 /ˌɔːfˈsaɪt/",
+    "meaning": "在场外、外部地点的；离开主要现场地",
+    "sense": "不在本部、当前工作场地，而是在另一个位置完成或保存。",
+    "split": "off-（离开、在外）+ site，另常写 off-site；实体位置离开原场地，不等于断网。",
+    "history": [
+      [
+        "off-；site",
+        "并列构词部分"
+      ],
+      [
+        "offsite",
+        "离主要场地，在外部地点"
+      ]
+    ],
+    "explanation": "offsite storage 场外存储，an offsite meeting 外部场所会议。数据备份在别处可叫 offsite，不自动说明是否联网。",
+    "usage": "offsite storage；an offsite meeting；offsite backup。",
+    "contrast": "offsite 场外，offline 离线；一份远程云备份可 offsite 又 online，两个维度不同。",
+    "examples": [
+      [
+        "The records are kept in offsite storage.",
+        "记录存放在场外库房。"
+      ],
+      [
+        "The team held an offsite meeting to plan the next project.",
+        "团队到外部场所开会规划下一个项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offsite#English"
+    ]
+  },
+  {
+    "word": "sitewide",
+    "ipa": "/ˈsaɪtwaɪd/",
+    "meaning": "全场地的；全站的；覆盖整个地点、站点地",
+    "sense": "修改不是只动一个房间、一页，而是覆盖整个场地或网站。",
+    "split": "site + -wide（遍及……范围），site 可指实体场所或网站。wide 不是仅测网页横向宽度。",
+    "history": [
+      [
+        "site；-wide",
+        "并列构词部分"
+      ],
+      [
+        "sitewide",
+        "覆盖整个场地或网站范围"
+      ]
+    ],
+    "explanation": "a sitewide update 全站更新，sitewide rules 全场规则，apply sitewide 在全站应用。先看当前说的是哪种 site。",
+    "usage": "a sitewide update；sitewide rules；apply sitewide。",
+    "contrast": "sitewide 整个站点，citywide 全市，countrywide 全国；范围由前面的名词决定。",
+    "examples": [
+      [
+        "The design change was applied sitewide.",
+        "设计修改应用到了全站。"
+      ],
+      [
+        "The contractor introduced sitewide safety rules.",
+        "承包商推行了覆盖整个工地的安全规则。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sitewide#English"
+    ]
+  },
+  {
+    "word": "fansite",
+    "ipa": "/ˈfænsaɪt/",
+    "meaning": "粉丝网站",
+    "sense": "围绕某部作品、演员或球队聚资料、消息，让喜欢它的人有个集中看内容的地方。",
+    "split": "fan（粉丝）+ site（网站），常由粉丝建设、维护，但词的重点是面向粉丝、围绕喜爱对象。",
+    "history": [
+      [
+        "fan〔粉丝〕；site〔网站〕",
+        "并列构词部分"
+      ],
+      [
+        "fansite",
+        "面向某对象粉丝的网站"
+      ]
+    ],
+    "explanation": "a music fansite 音乐粉丝站，a fansite devoted to a series 某系列剧的粉丝站。可能包含档案、讨论、作品资料。",
+    "usage": "a music fansite；run a fansite；a fansite devoted to。",
+    "contrast": "fansite 按对象、受众命名，不自动等于 official website 官方网站；是否获官方运营、授权看具体情况。",
+    "examples": [
+      [
+        "A fan built a fansite for the old television series.",
+        "一位粉丝为那部老剧建了粉丝网站。"
+      ],
+      [
+        "The fansite collects interviews and production photographs.",
+        "粉丝站汇集了访谈和制作照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fansite#English"
+    ]
+  },
+  {
+    "word": "gravesite",
+    "ipa": "/ˈɡreɪvsaɪt/",
+    "meaning": "墓地位置；墓址",
+    "sense": "重点是埋葬处所在的那个具体地点，不是泛指整片墓园。",
+    "split": "grave（坟墓）+ site（地点），grave 取名词义，不是严重、严肃的形容词。",
+    "history": [
+      [
+        "grave〔坟墓〕；site",
+        "并列构词部分"
+      ],
+      [
+        "gravesite",
+        "坟墓所在位置、墓址"
+      ]
+    ],
+    "explanation": "visit a gravesite 探访墓地，mark a gravesite 标出墓址；可以是墓园里的一处，也可能在其他地方。",
+    "usage": "visit a gravesite；a marked gravesite；the family gravesite。",
+    "contrast": "gravesite 具体墓址，cemetery 常是整片墓园；一座 cemetery 可以有许多 gravesites。",
+    "examples": [
+      [
+        "They placed flowers at the gravesite.",
+        "他们在墓前放了花。"
+      ],
+      [
+        "The map marks the location of the old gravesite.",
+        "地图标出了旧墓址的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gravesite#English"
+    ]
+  }
+]

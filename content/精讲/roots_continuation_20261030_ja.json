@@ -1,0 +1,145 @@
+[
+  {
+    "id": "B2624",
+    "meaning": "处理过的兽皮材料，以及仿制材料和相似质感",
+    "core": "LEATHER：皮革是材料，像皮革是另一层关系",
+    "image": "leather → leathery 看质感；leatherette 看替代材料；leatherback 看动物外形命名。",
+    "intro": "同一个具体材料，可以成为形容质感、命名仿品、描述动物的出发点。扩展不等于这些东西都由皮革做成。",
+    "forms": "古英语 leþer → leather；-y 性质，-ette 在此表仿制；leather + back 是外形命名。\n\n名称截自法语 gants de Suède 瑞典手套，材料义为绒面革；与英语 leather 比较类别，不由英语 leather 派生。",
+    "branches": [
+      [
+        "材料、质感与仿制",
+        "leather · leathery · leatherette"
+      ],
+      [
+        "动物名称",
+        "leatherback"
+      ],
+      [
+        "leather 对照：suede 绒面革",
+        "suede"
+      ]
+    ],
+    "contrasts": "leather 是材料；leathery 是相似质感；leatherette 是替代材料。",
+    "practice": "The guide compared a leather bag with a leatherette cover and a plant’s leathery leaves.\n\n讲解员把皮包、仿皮封面和植物坚韧的叶子作了对照。",
+    "words": [
+      "leather",
+      "leathery",
+      "leatherette",
+      "leatherback",
+      "suede"
+    ],
+    "exclude": {
+      "shoe-leather": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spur-leather": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leatherhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leatherman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4132",
+    "meaning": "呈现、表征，以及错误呈现和具象风格",
+    "core": "REPRESENTATION：用一种形式让对象被看见、被表达",
+    "image": "representation → representational；misrepresentation 是歪曲、错误呈现。",
+    "intro": "词族里有图像、语言表达、政治代表等不同领域，先看谁在代表或呈现什么，再看后缀和前缀。",
+    "forms": "拉丁 repraesentāre、repraesentātiō → 法语 → 英语 representation；-al 形成相关形容词，mis- 引入错误、歪曲。\n\nrepresentation 接法语、拉丁 repraesentatio 展示，re- 在此可能加强，不一律再来一次。现代复数常说图像表征、不同描绘，也可说正式陈述。",
+    "branches": [
+      [
+        "呈现与表征性质",
+        "representation · representational"
+      ],
+      [
+        "错误呈现",
+        "misrepresentation"
+      ],
+      [
+        "使呈现在眼前 → representation → representations",
+        "representations"
+      ]
+    ],
+    "contrasts": "representational 与 representative 不相同；misrepresentation 也不只是画得不好看。",
+    "practice": "The article discusses representation in art and the difference between representational and abstract painting.\n\n文章讨论艺术中的再现，以及具象绘画和抽象绘画的区别。",
+    "words": [
+      "representation",
+      "representational",
+      "misrepresentation",
+      "representations"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2454",
+    "meaning": "狼及围绕狼形成的习性、群体和传说名称",
+    "core": "WOLF：动物名，扩展看吃相、群体与故事形象",
+    "image": "wolf → wolfpack 狼群；wolfman 狼人；wolf down 借急吞的形象。",
+    "intro": "复合词后半很有用：pack 指群体，man 指人物。动词 wolf 则借狼的习性来描述动作。",
+    "forms": "古英语 wulf → wolf；wolf + pack／man；复数 wolves。\n\nf 对应 v，名词狼的复数 wolves 与动词 wolf 的第三人称单数 wolfs 分开。",
+    "branches": [
+      [
+        "动物与群体",
+        "wolf · wolfpack"
+      ],
+      [
+        "传说角色",
+        "wolfman"
+      ],
+      [
+        "wolf → wolves：狼的复数",
+        "wolf · wolves"
+      ]
+    ],
+    "contrasts": "wolfman 不等于研究狼的人；wolves 是名词的通常复数。",
+    "practice": "The story follows a wolfman who watches a wolfpack from the forest.\n\n故事写一个狼人从森林里观察狼群。",
+    "words": [
+      "wolf",
+      "wolfpack",
+      "wolfman",
+      "wolves"
+    ],
+    "exclude": {
+      "he-wolf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-wolf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "she-wolf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wolf-grey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wolfie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3015",
+    "meaning": "棉这种材料，以及借颜色、质感、外形形成的名称",
+    "core": "COTTON：柔软白纤维，是材料，也能是外形参照",
+    "image": "cotton → cottonwood 种毛似棉；cottontail 尾似棉团；cottonmouth 看嘴内颜色或口干感觉。",
+    "intro": "这些扩展词各自借用了棉的一个特点。记住画面，比把每个整词硬译成棉加物件更清楚。",
+    "forms": "阿拉伯语 quṭn 经地中海语言、法语进入英语；cotton + wood／tail／mouth 构成直观名称。\n\n这里只比较纤维材料，合成纤维名不由英语 cotton 派生。nylon 是人为造出的名称；spandex 是 expands 的字母重排，表达弹性伸展的联想。\n\ncalico 接印度港口 Calicut 的名称变体，现代英国常说本色平纹棉布，美国也常说印花棉布；花杂色联想又进入 calico cat 三花猫等。",
+    "branches": [
+      [
+        "棉与树木外形",
+        "cotton · cottonwood"
+      ],
+      [
+        "动物和感觉的命名",
+        "cottontail · cottonmouth"
+      ],
+      [
+        "与 cotton 对照：nylon、spandex 的现代造名",
+        "nylon · spandex"
+      ],
+      [
+        "Calicut 地名 → calico 棉布 → 花色用法",
+        "calico"
+      ]
+    ],
+    "contrasts": "cottonwood 不是棉株；cottonmouth 的两个常用义分别借白色和干燥触感。",
+    "practice": "The child compared cottonwood seeds and a cottontail’s tail to little balls of cotton.\n\n孩子把棉白杨的种子和棉尾兔的尾巴都比作小棉团。",
+    "words": [
+      "cotton",
+      "cottonwood",
+      "cottontail",
+      "cottonmouth",
+      "nylon",
+      "spandex",
+      "calico"
+    ],
+    "exclude": {}
+  }
+]

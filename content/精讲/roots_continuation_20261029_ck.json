@@ -1,0 +1,68 @@
+[
+  {
+    "id": "B3155",
+    "meaning": "聚会、政党；一方与多方参与",
+    "core": "PARTY：聚在一边的人，或事情的一方",
+    "image": "同一个 party，在生日场景是聚会，在选举场景是政党，在合同里是一方。",
+    "intro": "party 经法语接分开、分成部分的词族，与 part 相关。分出的一方或一群人，形成不同固定用法；现代每个义项仍要看场景。",
+    "forms": "party → multiparty 多方、多党；counter- 相对一方 → counterparty。连字符的聚会复合词本轮暂略。\n\nparty 从一部分、一方走向团体等分支；parties 也可能是参加聚会的动词形式。",
+    "branches": [
+      [
+        "基本词及多方",
+        "party · multiparty"
+      ],
+      [
+        "交易中的对方",
+        "counterparty"
+      ],
+      [
+        "party → parties：聚会、政党与参与各方",
+        "party · parties"
+      ]
+    ],
+    "contrasts": "a party to the agreement 是协议一方；a party at home 是家里的聚会。counterparty 不是敌对政党。",
+    "practice": "Each party to the agreement received the counterparty’s contact details.\n\n协议各方都收到了对方的联系方式。",
+    "words": [
+      "party",
+      "multiparty",
+      "counterparty",
+      "parties"
+    ],
+    "exclude": {
+      "all-party": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "after-party": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-party": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "party-coloured": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "party-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4260",
+    "meaning": "取得与接受；令人屏息、费心和照料",
+    "core": "TAKING：先看 take，再认固定组合",
+    "image": "take 能拿东西、采取行动；与 breath、pains、care 组合后，需要保留各自固定搭配的画面。",
+    "intro": "taking 是 take 的 -ing 形式。breathtaking 联系拿走呼吸的比喻；painstaking 联系 take pains 费心；caretaking 联系 take care 照料。不要把 painstaking 错拆成 pain + staking。",
+    "forms": "take → taking；breath + taking → breathtaking；pains + taking → painstaking；care + taking → caretaking。",
+    "branches": [
+      [
+        "基础形式",
+        "taking"
+      ],
+      [
+        "屏息惊叹、认真费心及照料",
+        "breathtaking · painstaking · caretaking"
+      ]
+    ],
+    "contrasts": "breathtaking 景物等令人惊叹；painstaking 人或工作认真细致。taking 与 taken 的语法形式不同。",
+    "practice": "The breathtaking exhibition was the result of painstaking work.\n\n令人惊叹的展览，是认真细致工作的成果。",
+    "words": [
+      "taking",
+      "breathtaking",
+      "painstaking",
+      "caretaking"
+    ],
+    "exclude": {
+      "prize-taking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

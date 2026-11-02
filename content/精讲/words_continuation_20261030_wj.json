@@ -1,0 +1,342 @@
+[
+  {
+    "word": "cousins",
+    "ipa": "/ˈkʌzənz/",
+    "meaning": "堂兄弟姐妹、表兄弟姐妹；较远亲属等；cousin 的复数",
+    "sense": "你和叔伯姑舅姨的孩子，通常互为 cousins。英语这个常用词不细分堂、表，也不直接标出男女性别或谁年长。",
+    "split": "cousin + -s，/n/ 后读 /z/。经古法语 cosin、cosine 等接拉丁 consobrinus 亲属词，原来母方关系较具体，后来称谓范围扩大。",
+    "history": [
+      [
+        "拉丁 consobrinus → 古法语 cosin／cosine → cousin",
+        "较具体的母方亲属 → 堂表等亲属称谓"
+      ],
+      [
+        "cousin + -s → cousins",
+        "多位堂表兄弟姐妹；更远亲属依关系说明"
+      ]
+    ],
+    "explanation": "first cousins 通常是父母互为兄弟姐妹的堂表兄弟姐妹；second cousins 关系更远；my cousins 我的堂表亲们。较远关系要用修饰语说明。",
+    "usage": "two of my cousins；cousins on my mother’s side。",
+    "contrast": "cousins 不自动等于同龄人，也不说明性别。中文翻译要根据家族关系补成堂哥、表妹等；单凭英语这个词补不出这些细节。",
+    "examples": [
+      [
+        "Two of my cousins live in the same town.",
+        "我的两位堂表亲住在同一个镇上。"
+      ],
+      [
+        "We are first cousins; our mothers are sisters.",
+        "我们是表亲，我们的母亲是姐妹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cousins#English",
+      "https://en.wiktionary.org/wiki/cousin#English"
+    ]
+  },
+  {
+    "word": "parents",
+    "ipa": "/ˈpeərənts/〔英〕；/ˈperənts/〔美〕",
+    "meaning": "父母、家长；养育〔parent 的第三人称单数〕",
+    "sense": "和孩子构成父母、养育关系的人，是 parents。说到学校通知时，常包括承担这层角色的家长，不只是在追生物学上的来源。",
+    "split": "parent + -s，/t/ 后读 /s/。经法语接拉丁 parens、parentem 生育者，来自 parere 生育的分词材料；现代含义扩展到养育关系，动词还可说抚养。",
+    "history": [
+      [
+        "拉丁 parere → parens／parentem → 法语、英语 parent",
+        "生育者 → 父母、家长及养育关系"
+      ],
+      [
+        "parent 名词、动词 + -s → parents",
+        "多位父母、家长；单数主语抚养"
+      ]
+    ],
+    "explanation": "my parents 我的父母；parents and children 家长和孩子；adoptive parents 养父母；parents’ evening 家长会、家长沟通活动〔常见英式〕。",
+    "usage": "parents of young children；a meeting for parents。",
+    "contrast": "my parents 常指我的父母二人，a parent 是一位家长。parents 是复数，parent’s 是一位家长的，parents’ 是多位家长的所有格。",
+    "examples": [
+      [
+        "The school invited parents to see the children’s work.",
+        "学校邀请家长来看孩子们的作品。"
+      ],
+      [
+        "My parents taught me how to cook a few simple meals.",
+        "我父母教会了我做几道简单的饭菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parents#English",
+      "https://en.wiktionary.org/wiki/parent#English"
+    ]
+  },
+  {
+    "word": "sisters",
+    "ipa": "英 /ˈsɪstəz/；美 /ˈsɪstərz/",
+    "meaning": "姐姐、妹妹；团体姐妹、修女等；sister 的复数",
+    "sense": "同一家庭关系中的姐姐、妹妹都叫 sisters，英语不靠这个词本身区分长幼。共同生活、信仰或目标的团体也会借用姐妹称呼。",
+    "split": "sister + -s，词尾 /z/。继承古英语 sweostor 等亲属词，现代形式也受北欧 systir 等同族形式影响；-ter 不作职业后缀。",
+    "history": [
+      [
+        "古英语 sweostor 及北欧同族形式影响 → sister",
+        "姐妹；延伸为团体姐妹等称呼"
+      ],
+      [
+        "sister + -s → sisters",
+        "多位姐妹；部分场景指修女等"
+      ]
+    ],
+    "explanation": "older sisters 姐姐们；younger sisters 妹妹们；twin sisters 双胞胎姐妹；brothers and sisters 兄弟姐妹；the sisters at a convent 修道院的修女们。",
+    "usage": "two sisters；sisters who grew up together。",
+    "contrast": "sisters 不说明是否同龄。若要明确姐姐、妹妹，就加 older／elder 或 younger；sibling 则把兄弟姐妹的性别区别也放宽。",
+    "examples": [
+      [
+        "The sisters run a small bookshop together.",
+        "这对姐妹一起经营一家小书店。"
+      ],
+      [
+        "She has two younger sisters and an older brother.",
+        "她有两个妹妹和一个哥哥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sisters#English",
+      "https://en.wiktionary.org/wiki/sister#English"
+    ]
+  },
+  {
+    "word": "brothers",
+    "ipa": "英 /ˈbrʌðəz/；美 /ˈbrʌðərz/",
+    "meaning": "哥哥、弟弟；团体兄弟、同伴等；brother 的复数",
+    "sense": "家庭里的哥哥和弟弟都叫 brothers。某些团体也借兄弟关系表达同伴、共同信念或相互支持。",
+    "split": "brother + -s，词尾 /z/，th 仍读浊音 /ð/。brother 继承古英语 brōþor 等古老亲属词，现代普通复数按 -s 形成。",
+    "history": [
+      [
+        "古英语 brōþor → brother",
+        "兄弟；古老亲属称谓"
+      ],
+      [
+        "brother + -s → brothers",
+        "多位兄弟；团体同伴等引申"
+      ]
+    ],
+    "explanation": "older brothers 哥哥们；younger brothers 弟弟们；twin brothers 双胞胎兄弟；brothers in arms 战友。",
+    "usage": "the two brothers；brothers and sisters。",
+    "contrast": "brothers 是日常兄弟的普通复数；brethren 多见于宗教、团体或庄重表达。说家里两个兄弟时通常用 two brothers，不必换成 brethren。",
+    "examples": [
+      [
+        "The brothers take turns cooking dinner.",
+        "兄弟俩轮流做晚饭。"
+      ],
+      [
+        "My younger brothers both enjoy drawing.",
+        "我的两个弟弟都喜欢画画。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brothers#English",
+      "https://en.wiktionary.org/wiki/brother#English"
+    ]
+  },
+  {
+    "word": "daughters",
+    "ipa": "英 /ˈdɔːtəz/；美 /ˈdɔːtərz, ˈdɑːtərz/",
+    "meaning": "女儿们；daughter 的复数",
+    "sense": "女儿是和父母的关系，年龄不会把这层关系改掉：孩子可以是 daughter，已经成年的女性也仍是父母的 daughter。",
+    "split": "daughter + -s，词尾 /z/。继承古英语 dohtor，经中古英语 doughter 等延续；现代 gh 不发音，不把它读成 /ɡ/ 或 /f/。",
+    "history": [
+      [
+        "古英语 dohtor → 中古英语 doughter → daughter",
+        "女儿；古老亲属词"
+      ],
+      [
+        "daughter + -s → daughters",
+        "多位女儿"
+      ]
+    ],
+    "explanation": "two daughters 两个女儿；adult daughters 已成年的女儿；sons and daughters 儿女；their daughters’ names 他们几位女儿的名字。",
+    "usage": "both daughters；her eldest daughter。",
+    "contrast": "daughters 说多位女儿，daughter’s 说一个女儿的，daughters’ 说多位女儿的。son 与 daughter 表亲子关系，不能只按人物当前年龄理解。",
+    "examples": [
+      [
+        "Their daughters visit every summer.",
+        "他们的女儿们每年夏天都来探望。"
+      ],
+      [
+        "She taught both of her daughters to swim.",
+        "她教会了两个女儿游泳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/daughters#English",
+      "https://en.wiktionary.org/wiki/daughter#English"
+    ]
+  },
+  {
+    "word": "sons",
+    "ipa": "/sʌnz/",
+    "meaning": "儿子们；son 的复数",
+    "sense": "从父母的角度看男性子女，就是 sons。它说家庭关系，不限定是小孩；成年后这层称谓仍然成立。",
+    "split": "son + -s，/n/ 后读 /z/。son 继承古英语 sunu；太阳 sun 接另一条词源，sons 与 suns 常见读音相同只是同音。",
+    "history": [
+      [
+        "古英语 sunu → 中古英语相关形式 → son",
+        "儿子"
+      ],
+      [
+        "son + -s → sons",
+        "多个儿子"
+      ]
+    ],
+    "explanation": "two sons 两个儿子；sons and daughters 儿女；their sons’ school 他们儿子们的学校；a father and his sons 一位父亲和他的儿子们。",
+    "usage": "both sons；their youngest son。",
+    "contrast": "sons 与 suns 都可读 /sʌnz/。sons 是儿子们，suns 是太阳等恒星的复数，听到时靠语境分辨，写作时靠拼写区分。",
+    "examples": [
+      [
+        "Both of their sons work in the same city.",
+        "他们的两个儿子都在同一座城市工作。"
+      ],
+      [
+        "He built the shelves with help from his sons.",
+        "他在儿子们的帮助下做好了这些架子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sons#English",
+      "https://en.wiktionary.org/wiki/son#English"
+    ]
+  },
+  {
+    "word": "uncles",
+    "ipa": "/ˈʌŋkəlz/",
+    "meaning": "叔、伯、舅、姑父、姨父等；uncle 的复数",
+    "sense": "英语把几种中文分得很细的长辈称谓收进 uncle：可能是父母的兄弟，也可能是相关姻亲。uncles 指其中不止一位。",
+    "split": "uncle 已有 e，加 s，词尾 /z/。经法语 oncle 接拉丁 avunculus，原指母亲的兄弟，形态与 avus 祖父的指小材料相连；现代称谓范围扩大。",
+    "history": [
+      [
+        "拉丁 avus／avunculus → 法语 oncle → uncle",
+        "历史上较具体的舅舅称谓 → 现代较广的亲属称谓"
+      ],
+      [
+        "uncle + -s → uncles",
+        "多位叔伯舅或相应男性姻亲等"
+      ]
+    ],
+    "explanation": "my uncles 我的叔伯舅等；uncles and aunts 叔伯姑舅姨等长辈；Uncle David 称呼戴维叔叔、舅舅等，具体亲属关系另由背景说明。",
+    "usage": "two of my uncles；an uncle on my father’s side。",
+    "contrast": "uncles 不自带父方、母方信息。若要明确，可加 on my mother’s side 或直接说明 my mother’s brother；un- 在这个词里也不是现代否定前缀。",
+    "examples": [
+      [
+        "Two of my uncles came to help us move.",
+        "我的两位叔叔来帮我们搬家。"
+      ],
+      [
+        "My uncles and aunts meet here every winter.",
+        "我的叔伯姑舅姨等长辈每年冬天都在这里聚会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncles#English",
+      "https://en.wiktionary.org/wiki/uncle#English"
+    ]
+  },
+  {
+    "word": "aunts",
+    "ipa": "英常见 /ɑːnts/；美常见 /ænts/，也有 /ɑːnts/",
+    "meaning": "姑、姨、婶、伯母、舅母等；aunt 的复数",
+    "sense": "aunt 可以指父母的姐妹，也可以指相关姻亲。英语不靠 aunt 这一个词把姑、姨、婶、舅母等关系一一分开。",
+    "split": "aunt + -s，/t/ 后读 /s/，结尾 /nts/。经盎格鲁法语 aunte、古法语 ante 接拉丁 amita，原指父亲的姐妹，现代范围扩大。",
+    "history": [
+      [
+        "拉丁 amita → 法语 ante／aunte → aunt",
+        "原来较具体的姑母称谓 → 现代较广的关系称谓"
+      ],
+      [
+        "aunt + -s → aunts",
+        "多位姑姨及相应女性姻亲等"
+      ]
+    ],
+    "explanation": "my aunts 我的姑姨等；Aunt Mary 玛丽阿姨、姑妈等〔具体关系看背景〕；great-aunts 通常指祖父母的姐妹等上一辈亲属。",
+    "usage": "aunts and uncles；one of my aunts。",
+    "contrast": "有些口音 aunts 与 ants 蚂蚁们同音，另一些口音元音不同。听懂要靠语境，亲属关系细节则要靠背景补出。",
+    "examples": [
+      [
+        "One of my aunts taught me to bake bread.",
+        "我的一位姨妈教会了我烤面包。"
+      ],
+      [
+        "We visited our aunts and uncles during the holiday.",
+        "假期里，我们看望了叔伯姑舅姨等长辈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aunts#English",
+      "https://en.wiktionary.org/wiki/aunt#English"
+    ]
+  },
+  {
+    "word": "moms",
+    "ipa": "美常见 /mɑːmz/；其他口音也有 /mɒmz/",
+    "meaning": "妈妈们；mom 的复数〔常见美式家庭口语〕",
+    "sense": "mom 是家庭里亲切、日常的妈妈称呼。说几位母亲，或一群以妈妈身份参加活动的人，就用 moms。",
+    "split": "mom + -s，/m/ 后读 /z/。mom 通常视为 momma 等儿童、家庭称呼的缩短；跨语言妈妈类声音相似，不足以证明直接借自某个现代外语词。",
+    "history": [
+      [
+        "儿童、家庭称呼 momma 等 → mom",
+        "妈妈的日常称呼"
+      ],
+      [
+        "mom + -s → moms",
+        "多位妈妈"
+      ]
+    ],
+    "explanation": "new moms 新手妈妈；moms and dads 爸爸妈妈们；a group of moms 一群妈妈。mom 常见美式，mum 在许多英式语境常见，地区内也有变化。",
+    "usage": "working moms；moms at the school。",
+    "contrast": "moms 是多位妈妈，Mom’s 可说妈妈的，也可缩写 Mom is／Mom has。mother 较中性正式，mom 更有家庭口语色彩。",
+    "examples": [
+      [
+        "Several moms helped organise the school picnic.",
+        "几位妈妈帮忙组织了学校野餐。"
+      ],
+      [
+        "The group gives new moms a chance to meet each other.",
+        "这个小组让新手妈妈们有机会互相认识。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moms#English",
+      "https://en.wiktionary.org/wiki/mom#English"
+    ]
+  },
+  {
+    "word": "dads",
+    "ipa": "/dædz/",
+    "meaning": "爸爸们；dad 的复数〔家庭口语〕",
+    "sense": "dad 是爸爸的日常称呼。dads 说不止一位爸爸，常出现在学校、家庭活动或一群父亲的交流场景里。",
+    "split": "dad + -s，/d/ 后读 /z/，结尾 /dz/。早期现代英语已有 dad、dadd、dadde 等，通常联系儿童易发的 da 类声音，具体更早路线未定。",
+    "history": [
+      [
+        "早期家庭、儿童称呼 dad 等 → dad",
+        "爸爸；不是按规则把 father 缩成 dad"
+      ],
+      [
+        "dad + -s → dads",
+        "多位爸爸"
+      ]
+    ],
+    "explanation": "moms and dads／mums and dads 爸爸妈妈们；new dads 新手爸爸；dads at the event 参加活动的爸爸们。",
+    "usage": "a group of dads；dads and their children。",
+    "contrast": "dads 是复数；Dad’s car 常是爸爸的车；the dads’ cars 是这些爸爸们的车。dad 是家庭口语，father 用在较正式身份说明中也很常见。",
+    "examples": [
+      [
+        "The dads took turns carrying the picnic bags.",
+        "爸爸们轮流提野餐袋。"
+      ],
+      [
+        "The workshop welcomes both new moms and new dads.",
+        "这场活动欢迎新手妈妈和新手爸爸参加。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dads#English",
+      "https://en.wiktionary.org/wiki/dad#English"
+    ]
+  }
+]

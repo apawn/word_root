@@ -1,0 +1,70 @@
+[
+  {
+    "id": "B2570",
+    "meaning": "红色；颜色变化；固定名称与象征",
+    "core": "RED：先看颜色，再看已经约定的用法",
+    "image": "红色词很容易组合，但现代意义不能都按字面猜。植物、修订、光谱、服装和人群标签各有具体背景。",
+    "intro": "red 接古英语 rēad。reddish 是微红，redness 是发红状态，redden 是变红；后面的复合词要逐个看历史与用法。",
+    "forms": "red → reddish、redness、redden；redhead → redheaded；redwood；redline → redlining；redshift 与 infrared 对照；redshirt、redneck、redskin 放在人群称呼和固定语境中看。\n\nruddy 承古英语 rudig，与 rudu 红色、red 的早期词族相连。现代不按 red 的表面字母临时拼接；英式口语还可弱化 bloody 作加强语。",
+    "branches": [
+      [
+        "颜色、变化和发色",
+        "red · reddish · redness · redden · redhead · redheaded"
+      ],
+      [
+        "植物名称",
+        "redwood"
+      ],
+      [
+        "标记与技术术语",
+        "redline · redlining · redshift · infrared"
+      ],
+      [
+        "服装称呼与社会标签",
+        "redshirt · redneck · redskin"
+      ],
+      [
+        "旧 rudu 红色 → ruddy 红润",
+        "ruddy"
+      ]
+    ],
+    "contrasts": "redder 更红，reddish 微红，redden 变红；redlining 的修订义与歧视性划区义分开。带贬义的人群标签不是群体的客观性质。",
+    "practice": "The reddish clouds reddened further as the sun sank behind the redwoods.\n\n太阳落到红杉后方时，微红的云彩变得更红了。",
+    "words": [
+      "red",
+      "reddish",
+      "redness",
+      "redden",
+      "redhead",
+      "redheaded",
+      "redwood",
+      "redline",
+      "redlining",
+      "redshift",
+      "infrared",
+      "redshirt",
+      "redneck",
+      "redskin",
+      "ruddy"
+    ],
+    "exclude": {
+      "blue-red": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yellow-red": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-pencil": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-gum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-capped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-billed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-diaper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reddy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-toothed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redfin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redwing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

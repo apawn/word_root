@@ -5,7 +5,7 @@
     "core": "LIG = BIND",
     "image": "从物理上的绑，到人与人之间的联系和责任",
     "intro": "lig- 来自拉丁动词 **ligāre**“绑、系、连接”。绑在一起的可以是骨骼、材料，也可以是国家、信任或责任。这个词根的价值正在于：同一个具体动作，在不同语境中形成了不同的抽象关系。",
-    "forms": "**lig- 并不总以原拼写留在英语里。** ligāmentum → ligament 保留得较明显；alligāre 经法语形成 ally；religāre 经 relier 形成 rely；obligāre 经法语形成 oblige，而另一条借入路线保留 obligate。古代前缀同化、法语音变与英语派生要分别看，不能总结成一个“lig 随时可变成 ly”的规则。",
+    "forms": "**lig- 并不总以原拼写留在英语里。** ligāmentum → ligament 保留得较明显；alligāre 经法语形成 ally；religāre 经 relier 形成 rely；obligāre 经法语形成 oblige，而另一条借入路线保留 obligate。古代前缀同化、法语音变与英语派生要分别看，不能总结成一个“lig 随时可变成 ly”的规则。\n\n拉丁 ad- 与 ligare，经法语到英语；名词、动词重音分别标。\n\n拉丁 obligatio 经法语借入，较早 ligare 绑住，现代复数 s。\n\n联盟义经法语、意大利语接拉丁 ligare；距离单位 league 属另一来源。\n\n现代 y 在 -s、-ed 前变化，在 -ing 前保留；拼写变化与古代 ligare 的历史变化分开。\n\nrally 经法语 rallier 重新联合，远连 alligare、lig- 绑定词族。现代 y 变 i 加 -es，集会、球赛回合与重新振作等按对象辨认。",
     "branches": [
       [
         "实物连接",
@@ -30,6 +30,26 @@
       [
         "把音符连在一起",
         "legato"
+      ],
+      [
+        "ally → allies：绑到同一阵线的人",
+        "ally · allies · alliance"
+      ],
+      [
+        "obligation → obligations：把人约束住的责任",
+        "obligation · obligations"
+      ],
+      [
+        "league → leagues：绑在一起的联盟、联赛",
+        "league · leagues"
+      ],
+      [
+        "lig- 的系牢材料进入 rely 与现代词形",
+        "rely · relies · relied · relying"
+      ],
+      [
+        "重新聚合 → rally → rallies",
+        "rallies"
       ]
     ],
     "contrasts": "**ally 与 alienate**：前者属于“绑在一起”，后者来自 alius“别的”，虽然意义可以作对比，却不是同一个词根。\n\n**release** 表示释放，可帮助联想“解除约束”，但它追溯到拉丁语 relaxāre，不能放在 ligāre 的直系演化图里。\n\n**religion** 与 religāre 的关系存在词源争议，另有与 relegere 联系的传统分析；不要把“重新把人绑到神身上”当作已经确定的历史。\n\n**league** 的“联盟、联赛”义属于本组；旧长度单位“里格”属于另一条来源。",
@@ -63,7 +83,14 @@
       "ligation",
       "ligand",
       "ligase",
-      "legato"
+      "legato",
+      "allies",
+      "obligations",
+      "leagues",
+      "relies",
+      "relied",
+      "relying",
+      "rallies"
     ]
   }
 ]

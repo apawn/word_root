@@ -1,0 +1,248 @@
+[
+  {
+    "word": "deploy",
+    "ipa": "/dɪˈplɔɪ/",
+    "meaning": "部署、调配；展开；使系统投入使用",
+    "sense": "折拢的东西展开到能用的位置，是旧画面。后来队伍放到需要的位置、人员资源安排上场、软件投入运行，都能叫 deploy。",
+    "split": "借法语 déployer 等展开词，接拉丁 dis- 分开 + plicare 折叠。与 display 有共同历史材料；不是现代 de- 加 ploy 策略临时拼成。",
+    "history": [
+      [
+        "拉丁 dis- 分开 + plicare 折叠 → 法语 desploiier、déployer",
+        "把折拢的东西展开"
+      ],
+      [
+        "英语 deploy → 部署兵力、资源、系统；+ -able、re-",
+        "展开到可用位置；可部署；再次、重新部署"
+      ]
+    ],
+    "explanation": "deploy resources 调配资源；deploy a team 部署团队；deploy an application 部署应用；deploy a parachute 展开降落伞。",
+    "usage": "deploy resources；deploy an application。",
+    "contrast": "develop 是开发，deploy 是放到可用环境、位置；软件写好未必已部署，部署也未必等于向所有人公开发布。",
+    "examples": [
+      [
+        "The organiser deployed volunteers at each entrance.",
+        "组织者在各入口安排了志愿者。"
+      ],
+      [
+        "The team deployed the application to a test environment.",
+        "团队把应用部署到测试环境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deploy#English",
+      "https://www.etymonline.com/word/deploy"
+    ]
+  },
+  {
+    "word": "deployable",
+    "ipa": "/dɪˈplɔɪəbəl/",
+    "meaning": "可部署的、可展开使用的",
+    "sense": "东西已经能被放到需要的位置展开、投入用，就是 deployable。它说可用来部署，不是保证任何地方都能立刻用。",
+    "split": "deploy + -able，并有法语 déployable 对应形式；保留 y。形容词接可被部署，也可在专门语境中作可部署资源的名词。",
+    "history": [
+      [
+        "拉丁 dis- 分开 + plicare 折叠 → 法语 desploiier、déployer",
+        "把折拢的东西展开"
+      ],
+      [
+        "英语 deploy → 部署兵力、资源、系统；+ -able、re-",
+        "展开到可用位置；可部署；再次、重新部署"
+      ],
+      [
+        "deploy + -able／法语对应形式 → deployable",
+        "能展开、部署使用的性质"
+      ]
+    ],
+    "explanation": "deployable equipment 可部署设备；a deployable package 可部署软件包；deployable resources 可调配资源。",
+    "usage": "deployable equipment；a deployable package。",
+    "contrast": "deployable 不是已经 deployed；前者讲可部署性，后者讲动作已经发生或相应状态。",
+    "examples": [
+      [
+        "The exercise used lightweight, deployable equipment.",
+        "演练使用了轻便、可部署的设备。"
+      ],
+      [
+        "The build produces a deployable software package.",
+        "构建过程生成可部署的软件包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deployable#English"
+    ]
+  },
+  {
+    "word": "redeploy",
+    "ipa": "/ˌriːdɪˈplɔɪ/",
+    "meaning": "重新部署；调配到其他岗位、位置",
+    "sense": "原来放在一处的人员、资源，改放到新的需要处，是 redeploy。re- 不只可能重复原动作，也可意味着重新安排。",
+    "split": "re- 再次、重新 + deploy → redeploy，现代军事、组织、技术场景均可使用。不是把部署完全撤销后的唯一表达。",
+    "history": [
+      [
+        "拉丁 dis- 分开 + plicare 折叠 → 法语 desploiier、déployer",
+        "把折拢的东西展开"
+      ],
+      [
+        "英语 deploy → 部署兵力、资源、系统；+ -able、re-",
+        "展开到可用位置；可部署；再次、重新部署"
+      ],
+      [
+        "re- + deploy → redeploy",
+        "再次部署，或改变部署位置、用途"
+      ]
+    ],
+    "explanation": "redeploy staff 重新调配员工；redeploy resources 重新分配资源；redeploy an application 重新部署应用。",
+    "usage": "redeploy staff；redeploy resources。",
+    "contrast": "redeploy 是重新安排用途、位置，dismiss 是解雇，withdraw 是撤回；具体动作可能有关，却不是同义词。",
+    "examples": [
+      [
+        "The organisation redeployed staff to the busiest office.",
+        "机构把员工重新调配到最忙的办公室。"
+      ],
+      [
+        "The team redeployed the application after correcting the configuration.",
+        "团队改正配置后重新部署了应用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/redeploy#English"
+    ]
+  },
+  {
+    "word": "outdoorsy",
+    "ipa": "英 /aʊtˈdɔːzi/；美 /aʊtˈdɔːrzi/",
+    "meaning": "喜欢户外活动的；适合、有户外风格的",
+    "sense": "周末更想徒步、露营而不是一直待屋里，可以说 outdoorsy。衣物、活动也能说有户外生活风格，不只描写一个人。",
+    "split": "outdoors + -y → outdoorsy，保留 s 并读 /z/。outdoors 的 s 有旧副词词尾、短语发展背景，不当成门 doors 的普通复数来解释整词。",
+    "history": [
+      [
+        "outdoor、out of doors 等旧表达 → outdoors",
+        "在户外，-s 带旧副词材料"
+      ],
+      [
+        "outdoors + -y、-man",
+        "喜欢、适合户外生活；户外活动爱好者"
+      ]
+    ],
+    "explanation": "an outdoorsy person 喜欢户外的人；an outdoorsy family 爱户外活动的家庭；an outdoorsy style 户外风格。",
+    "usage": "an outdoorsy person；an outdoorsy style。",
+    "contrast": "outdoor 常是户外场所、用途的修饰语，outdoorsy 更常说爱好、风格；不是任何 outdoor lamp 都天然适合改叫 outdoorsy lamp。",
+    "examples": [
+      [
+        "She is outdoorsy and spends most weekends hiking.",
+        "她喜欢户外活动，大多数周末都去徒步。"
+      ],
+      [
+        "The shop sells casual clothes with an outdoorsy style.",
+        "店里卖带户外风格的休闲衣服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outdoorsy#English"
+    ]
+  },
+  {
+    "word": "outdoorsman",
+    "ipa": "英 /aʊtˈdɔːzmən/；美 /aʊtˈdɔːrzmən/",
+    "meaning": "户外活动爱好者〔传统上指男子〕",
+    "sense": "常去徒步、钓鱼、野外活动的人，传统称呼中可叫 outdoorsman。它不表示这个人没有房屋、只能睡外面。",
+    "split": "outdoors + -man → outdoorsman，复数 outdoorsmen。词形保留男性人物材料，泛指不限定性别的人也常用 outdoor enthusiast。",
+    "history": [
+      [
+        "outdoor、out of doors 等旧表达 → outdoors",
+        "在户外，-s 带旧副词材料"
+      ],
+      [
+        "outdoors + -y、-man",
+        "喜欢、适合户外生活；户外活动爱好者"
+      ],
+      [
+        "outdoors + -man → outdoorsman",
+        "经常参与户外活动的男子称呼"
+      ]
+    ],
+    "explanation": "a keen outdoorsman 热衷户外活动的人；an experienced outdoorsman 经验丰富的户外活动者。",
+    "usage": "a keen outdoorsman；an experienced outdoorsman。",
+    "contrast": "outdoorsman 不等于 homeless person 无家可归者，也不保证每个人有专业野外技能；它先说活动偏好、生活方式。",
+    "examples": [
+      [
+        "Her father is a keen outdoorsman who enjoys fishing and walking.",
+        "她父亲热衷户外活动，喜欢钓鱼和步行。"
+      ],
+      [
+        "The biography describes him as an experienced outdoorsman.",
+        "传记把他描述为经验丰富的户外活动者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outdoorsman#English"
+    ]
+  },
+  {
+    "word": "scotch",
+    "ipa": "英 /skɒtʃ/；美 /skɑːtʃ/",
+    "meaning": "制止、打消；划痕、划线〔旧〕；Scotch 苏格兰威士忌",
+    "sense": "scotch a rumour 是把传言压下、打消；hopscotch 里的旧 scotch 是地上划的线。酒名 Scotch 却是苏格兰相关称呼，不是传言被砍成酒。",
+    "split": "切划义由中古英语 scocchen 等接盎格鲁法语 escocher；垫住防滚动的 scotch 又有未定来源材料，参与阻止等义。大写 Scotch 则由 Scottish 缩短，不能全归入切划根。",
+    "history": [
+      [
+        "中古英语 scocchen 接法语 escocher 等切划材料",
+        "切口、划线；后有阻止、扑灭等动词义"
+      ],
+      [
+        "另有垫块 scotch，来源未定；Scottish 缩短成 Scotch",
+        "阻止义有近形材料交汇；苏格兰称呼另源"
+      ]
+    ],
+    "explanation": "scotch a rumour 打消传言；scotch a plan 阻止计划；Scotch whisky 苏格兰威士忌；旧划线义见 hopscotch。",
+    "usage": "scotch a rumour；scotch a plan；Scotch whisky。",
+    "contrast": "hopscotch 不是跳苏格兰；butterscotch 后半来源有不同解释，不靠糖果名字反推所有 scotch 都同源。",
+    "examples": [
+      [
+        "The clear statement scotched the rumour.",
+        "明确声明打消了传言。"
+      ],
+      [
+        "The glossary distinguishes the verb scotch from Scotch whisky.",
+        "术语表把动词 scotch 与 Scotch whisky 的酒名区分开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scotch#English",
+      "https://www.merriam-webster.com/dictionary/scotch"
+    ]
+  },
+  {
+    "word": "brigadier",
+    "ipa": "英 /ˌbrɪɡəˈdɪə/；美 /ˌbrɪɡəˈdɪr/",
+    "meaning": "准将；旅级军官称呼",
+    "sense": "brigade 是旅级部队，brigadier 历史上接带领这类部队的人。现代常作为军衔、头衔读，不能只把它当“任何带着一群士兵的人”。",
+    "split": "借法语 brigadier，由 brigade + -ier 形成人物词。英语所指头衔要结合国家、年代，不能从同一个汉语准将推所有军制完全一致。",
+    "history": [
+      [
+        "法语 brigade 部队 + -ier 人物材料 → brigadier",
+        "旅级指挥者称呼，后进入军衔名称"
+      ],
+      [
+        "英语借入 brigadier",
+        "具体军衔制度因体系而异，不按词尾推所有等级"
+      ]
+    ],
+    "explanation": "Brigadier + 姓名 准将头衔；a retired brigadier 一位退役准将；也可和 brigade 旅配对记。",
+    "usage": "a retired brigadier；Brigadier + name。",
+    "contrast": "brigadier 与 brigade 部队名不同；brigadier、brigadier general 在各体系的用法不能仅凭英文多一个词就机械排等级。",
+    "examples": [
+      [
+        "The biography follows the career of a retired brigadier.",
+        "传记追踪了一位退役准将的经历。"
+      ],
+      [
+        "The brigadier addressed the assembled officers.",
+        "准将向集合的军官讲话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brigadier#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/brigadier"
+    ]
+  }
+]

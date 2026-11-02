@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B3472",
+    "meaning": "去掉遮盖、修饰；只剩最低限度",
+    "core": "BARE：外层没了，剩下本来的东西",
+    "image": "bare → barely；barefoot → barefooted；bareback、threadbare、barefaced 看哪里无遮盖及其比喻。",
+    "intro": "bare essentials 留下必需品，barely 擦着最低线；threadbare 露线是磨旧，barefaced lie 是连掩饰都不做。",
+    "forms": "bær、barian → bare；bærlīce → barely；bare + foot/back/face；thread + bare。",
+    "branches": [
+      [
+        "裸露与最低限度",
+        "bare · barely"
+      ],
+      [
+        "脚部与马背",
+        "barefoot · barefooted · bareback"
+      ],
+      [
+        "露线、露面与抽象引申",
+        "threadbare · barefaced"
+      ]
+    ],
+    "contrasts": "bare/bear 同音不同；barely 近否定不再随意加 not；bareback 马无鞍非骑手裸背；threadbare 磨薄露线。",
+    "practice": "The bare room had a threadbare carpet and barely any furniture.\n\n空荡荡的房间里有一张磨薄的地毯，几乎没什么家具。",
+    "words": [
+      "bare",
+      "barely",
+      "barefoot",
+      "barefooted",
+      "bareback",
+      "threadbare",
+      "barefaced"
+    ],
+    "exclude": {
+      "bare-butt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bare-bum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bare-arse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3235",
+    "meaning": "把远端文件载到本地",
+    "core": "DOWNLOAD：从网络那端拿到自己的设备上",
+    "image": "download → downloadable、downloader，分动作、文件可用方式、执行工具。",
+    "intro": "down 是传输方向的约定画面，不是文件真的从天空掉下；可下载不代表免费，也不代表已经下载。",
+    "forms": "down + load → download；download + -able/-er。\n\n同一个传入动作，用名词、时态、过程形式分别表达。",
+    "branches": [
+      [
+        "动作、可下载与执行工具",
+        "download · downloadable · downloader"
+      ],
+      [
+        "download → downloads、downloaded、downloading",
+        "download · downloads · downloaded · downloading"
+      ]
+    ],
+    "contrasts": "download/upload 方向相对；downloadable/downloaded 可能与完成；downloader 工具非文件性质。",
+    "practice": "The downloader saved the downloadable guide.\n\n下载器保存了那份可下载指南。",
+    "words": [
+      "download",
+      "downloadable",
+      "downloader",
+      "downloads",
+      "downloaded",
+      "downloading"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2874",
+    "meaning": "长成的结果，再加方向、范围",
+    "core": "GROWN：grow 生长之后，看看长到哪里、长成什么样",
+    "image": "grown → overgrown、ingrown、homegrown；分过度覆盖、向内、本地培育。",
+    "intro": "in- 在 ingrown 里是方向，不是否定；overgrown 花园说植物长得过密，并非长成就是坏事。",
+    "forms": "grōwan → grow → grown；over-/in-/home- + grown。",
+    "branches": [
+      [
+        "长成与不同生长方向",
+        "grown · overgrown · ingrown · homegrown"
+      ]
+    ],
+    "contrasts": "grown/overgrown 长成与过度覆盖；ingrown 的 in 不是 not；homegrown 可本土人才不只花园植物。",
+    "practice": "Homegrown plants had left the little garden overgrown.\n\n自己种的植物长得很密，把小花园覆盖了。",
+    "words": [
+      "grown",
+      "overgrown",
+      "ingrown",
+      "homegrown"
+    ],
+    "exclude": {
+      "full-grown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grown-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moss-grown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3119",
+    "meaning": "把东西抬起来；也把限制拿开、情绪托起",
+    "core": "LIFT：向上抬，或从原处拿走",
+    "image": "lift → lifted、lifter；uplift 抬升振奋；airlift、forklift、chairlift、deadlift、facelift、shoplift 按运输、工具、动作等分。",
+    "intro": "lift spirits 是精神上升，lift a ban 是限制被拿走，give a lift 是搭车；不能只用举起来一个中文覆盖所有场景。",
+    "forms": "lypta 经 liften → lift；lift + -ed/-er；up-/air-/fork-/chair-/dead-/face-/shop- + lift。\n\n动词接北欧 lypta 的举升材料，ing 展示过程；限制被抬走也是常用比喻。\n\nlift 接古北欧 lypta 提起，远连空气、上方的日耳曼词族。现代复数、动词第三人称同形，常用电梯、搭便车、提起、振奋等义。",
+    "branches": [
+      [
+        "基础、结果与执行者",
+        "lift · lifted · lifter"
+      ],
+      [
+        "向上提升与运输装置",
+        "uplift · airlift · forklift · chairlift"
+      ],
+      [
+        "锻炼、外观与偷拿",
+        "deadlift · facelift · shoplift"
+      ],
+      [
+        "lift → lifting：把东西往上提",
+        "lift · lifting"
+      ],
+      [
+        "向上移动 → lift → lifts",
+        "lifts"
+      ]
+    ],
+    "contrasts": "lift/elevator 英美电梯名称；lift a ban 解除；lifter 非所有电梯的替换名称；专用组合看前项作用。",
+    "practice": "The airlift brought supplies and lifted people’s spirits.\n\n空运带来了物资，也让人们精神一振。",
+    "words": [
+      "lift",
+      "lifted",
+      "lifter",
+      "uplift",
+      "airlift",
+      "forklift",
+      "chairlift",
+      "deadlift",
+      "facelift",
+      "shoplift",
+      "lifting",
+      "lifts"
+    ],
+    "exclude": {}
+  }
+]

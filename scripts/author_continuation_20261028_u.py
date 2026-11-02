@@ -1,0 +1,148 @@
+"""Top: surfaces, highest positions, and compounds named by location."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,name,meaning):return [[f'英语 {a}；{b}','并列组合的两部分'],[f'{a} + {b} → {name}',meaning]]
+TOP=[['古英语 topp → 中古英语 top / toppe','顶部、顶端、最高处'],['英语 top','顶面；最高位置；居首、超过']]
+W('top','英 /tɒp/；美 /tɑːp/','顶部；上衣；最高的；居首；超过',
+ '把视线向上移到最上面；换成排名表，最上面又成了第一名。',
+ '接古英语 topp，经中古英语 top、toppe 延续。更远来源有不确定处，不按字母硬拆；陀螺 top 的历史也不宜靠“它有个顶”强行解释。',TOP,
+ 'the top of the page 是页顶，a bottle top 是瓶盖，a cotton top 是棉上衣。top the chart 是登上榜首，top last year’s result 是超过去年成绩。',
+ 'at the top；on top of；a top priority；top the list。',
+ 'top 可以是表面或位置，peak 更突出尖峰、峰值；top student 是优秀学生，不是在学生身体顶上。',
+ ('Write your name at the top of the page.','把姓名写在页顶。'),('The song topped the chart for three weeks.','这首歌连续三周位居榜首。'),('She wore a simple blue top.','她穿了一件简单的蓝色上衣。'))
+W('tops','英 /tɒps/；美 /tɑːps/','至多〔口语〕；极好的〔口语〕',
+ '数量碰到顶就不再加，评价碰到顶则是非常好。',
+ 'top + -s 的口语用法；也可能是普通复数“多个顶部”，要分清。作“至多”“极好”时已是固定用法，不能只按名词复数翻。',TOP+[['top + -s → tops 的口语用法','上限；极好']],
+ 'ten minutes, tops 是最多十分钟，This place is tops 是这地方棒极了。评价义略带旧式口语色彩，读懂即可，不必处处替代 excellent。',
+ 'ten minutes, tops；a hundred dollars, tops；be tops。',
+ 'tops 的“至多”不是 top ten“前十名”；同样的 top 意象，一个指上限，一个指排名靠前。',
+ ('It should take twenty minutes, tops.','最多应该花二十分钟。'),('For homemade soup, this little café is tops.','论自制汤，这家小咖啡馆棒极了。'))
+W('topmost','英 /ˈtɒpməʊst/；美 /ˈtɑːpmoʊst/','最高的；最上面的',
+ '好几层架子一层层往上看，一直找到最上面那一层。',
+ 'top + -most，-most 表处于某方向最远端或最高程度。它加强位置，不是 most 单独当复数数量词来解释。',TOP+[['top + -most → topmost','处于最上端的']],
+ 'the topmost shelf 是最高一层架子，the topmost branches 是树梢最高的枝条；多用于清楚标明垂直位置。也有 topˈmost 的重音变体。',
+ 'the topmost shelf；the topmost branch；the topmost layer。',
+ 'topmost 强调最上端；top priority 更是抽象重要性，用 topmost priority 往往不如固定的 top priority 自然。',
+ ('The old box was on the topmost shelf.','旧箱子在最上层架子上。'),('Sunlight touched the topmost branches first.','阳光最先照到最高处的枝条。'))
+W('atop','英 /əˈtɒp/；美 /əˈtɑːp/','在……顶上；在……上方',
+ '把一个东西放到另一个东西的顶面上，像帽子落到头顶。',
+ 'a-（在……上）+ top，a- 是旧式位置构词成分，与 alone、about 等词不能只凭同一个字母全部混作同义。',TOP+[['a- + top → atop','在顶部、顶上']],
+ 'a house atop a hill 是山顶上的房子。偏简洁的书面、叙事表达，常相当于 on top of，不需要再机械追加一个 of。',
+ 'atop a hill；sit atop；perched atop a roof。',
+ 'atop 表位置，top 作动词可表示超过或登顶。The bird sat atop the sign 是鸟坐在牌子顶上，不是鸟超过了牌子。',
+ ('A small chapel stands atop the hill.','小山顶上立着一座小教堂。'),('The cat sat atop a stack of boxes.','猫坐在一摞箱子顶上。'))
+W('topping','英 /ˈtɒpɪŋ/；美 /ˈtɑːpɪŋ/','食物上的配料；顶层装饰',
+ '底下是冰淇淋、披萨或蛋糕，上面再放一层带味道、口感的东西。',
+ 'top + -ing，双写 p 后加后缀；从顶部放置的东西发展为食物配料名词。也有其他专业、旧式用法，先记餐饮高频义。',TOP+[['top + -ing → topping','加在食物表面的配料']],
+ 'pizza toppings 是披萨配料，a chocolate topping 是巧克力顶料；可撒碎坚果，也可浇酱汁，不必是整片盖住的硬物。',
+ 'pizza toppings；a chocolate topping；choose your toppings。',
+ 'topping 放在上面，filling 常包在里面；同是巧克力，也可能分别作 topping 或 filling。',
+ ('Choose two toppings for your pizza.','给你的披萨选两种配料。'),('She added a crunchy nut topping to the dessert.','她在甜点上加了香脆坚果顶料。'))
+W('topper','英 /ˈtɒpə/；美 /ˈtɑːpər/','放在顶部的物件；床垫加层；成绩居首者〔地区用法〕',
+ '不是替换底下整个东西，而是在顶上额外加一层或一个装饰。',
+ 'top + -er，双写 p；与中古英语 toppor 等相连，现有多个特定语境义，不把 -er 一律只当职业的人。',TOP+[['top + -er → topper','顶上加物；也可指居首者']],
+ 'mattress topper 是铺在床垫上的垫层，cake topper 是蛋糕顶部装饰；印度英语等语境可指考试成绩第一名的人。',
+ 'a mattress topper；a cake topper；an exam topper。',
+ 'topping 常是可食用配料，cake topper 常是顶端装饰物，未必可食用；购买时要看实际材料。',
+ ('A thin mattress topper made the bed more comfortable.','薄薄一层床垫加垫让床更舒适了。'),('They chose a small wooden cake topper for the wedding.','他们为婚礼选了一个小木制蛋糕顶饰。'))
+W('topless','英 /ˈtɒpləs/；美 /ˈtɑːpləs/','无顶的；上身未穿衣的',
+ 'top 可能是盖子、顶篷，也可能是上衣；去掉哪一种，要看所说对象。',
+ 'top + -less，-less 表没有。它不是“顶比较少”，而是缺少相关顶盖或上衣。',TOP+[['top + -less → topless','没有顶盖；未穿上衣的']],
+ 'a topless container 可指无盖容器，a topless bus 可指无顶观光巴士；形容人时常指上身裸露。这个词在娱乐、海滩等语境也有特定联想。',
+ 'a topless bus；a topless container；sunbathe topless。',
+ 'topless 可以说人未穿上衣，headless 是没有头，hatless 是没戴帽；身体部位和衣物不能混着翻。',
+ ('Tourists explored the city on a topless bus.','游客乘无顶观光巴士游览城市。'),('The picture shows a topless runner crossing the finish line.','照片中，一名未穿上衣的跑者正冲过终点线。'))
+W('topple','英 /ˈtɒpəl/；美 /ˈtɑːpəl/','倒下；推倒；推翻',
+ '东西先失去平衡，顶端偏出去，整个就翻倒了。',
+ 'top + -le，-le 是旧式动词构词后缀，在一些词里有反复、小动作等关联；不能拿它当独立单词。topple 已固定表示倾倒、推翻。',TOP+[['top + -le → topple','失衡倒下；使倾覆']],
+ 'a tower topples 是塔倒下，topple a stack 是碰倒一摞东西；topple a government 是推翻政府的常见比喻。既可不及物也可带宾语。',
+ 'topple over；topple from a shelf；topple a leader。',
+ 'top 是居首、超过，topple 是失衡倒下；多出的 -le 使它成为另一个动作词，不能把 top the list 写成 topple the list。',
+ ('The pile of books toppled over.','那摞书倒了。'),('A sudden gust toppled the empty chair.','一阵突来的风吹倒了空椅子。'))
+W('desktop','英 /ˈdesktɒp/；美 /ˈdesktɑːp/','桌面；台式电脑；电脑桌面',
+ '最早先想桌子的顶面，后来是放在桌上用的电脑，再到屏幕里的工作桌面。',
+ 'desk（书桌）+ top（顶面），由物理桌面扩展成台式电脑简称及图形界面比喻。多义有关联，但不代表每次说 desktop 都同时指三者。',C('desk','top','desktop','书桌表面 → 台式电脑、图形桌面'),
+ 'a desktop computer 是台式电脑，save to the desktop 是保存到系统桌面；a desktop application 常指个人电脑上的应用。',
+ 'a desktop computer；the desktop background；on the desktop。',
+ 'desktop 相对 laptop 常指台式对便携电脑；图形 desktop 是界面概念，laptop 也有自己的 desktop。',
+ ('She uses a desktop computer for editing videos.','她用台式电脑剪辑视频。'),('Save the file to your desktop.','把文件保存到桌面。'))
+W('laptop','英 /ˈlæptɒp/；美 /ˈlæptɑːp/','笔记本电脑；便携电脑',
+ '相对放在桌上的大电脑，体积收小到可以摆在坐着时的大腿上。',
+ 'lap（坐着时大腿形成的承放处）+ top，仿 desktop 造词；不是 lap“跑一圈”与冠军 top 的组合。',C('lap','top','laptop','可放膝上使用的便携电脑'),
+ '日常主要指可合盖、便携的电脑，并不要求真放腿上工作。a laptop charger 是笔记本电源，a laptop bag 是电脑包。',
+ 'a laptop computer；a laptop charger；open a laptop。',
+ 'laptop 通常有相连键盘与显示屏，tablet 是平板；可拆键盘、二合一设备的分类按具体产品，不靠词源一刀切。',
+ ('She opened her laptop to take notes.','她打开笔记本电脑记笔记。'),('I left my laptop charger at the office.','我把笔记本电源落在办公室了。'))
+W('tabletop','英 /ˈteɪbəltɒp/；美 /ˈteɪbəltɑːp/','桌面；桌面用的；桌上进行的',
+ '活动的场地缩到一张桌子的顶面，物件、模型或游戏就在上面展开。',
+ 'table（桌子）+ top（顶面），可指实体桌面，也修饰摆在桌上使用或进行的东西。',C('table','top','tabletop','桌子顶面；桌上使用或进行的'),
+ 'a wooden tabletop 是木桌面，tabletop games 是桌上游戏，a tabletop model 是桌面模型。不是所有 tabletop 都涉及电脑。',
+ 'a wooden tabletop；tabletop games；a tabletop display。',
+ 'tabletop 泛指桌面用途，desktop 的现代常用义还包括电脑；同样有 top，不要把 tabletop game 一律译为电脑游戏。',
+ ('The tabletop was covered with maps and photographs.','桌面上铺满地图和照片。'),('They meet every week to play tabletop games.','他们每周见面玩桌上游戏。'))
+W('countertop','英 /ˈkaʊntətɒp/；美 /ˈkaʊntərtɑːp/','操作台面；柜台面',
+ '厨房下面是柜子，上面那片用来切配、摆东西的平面是重点。',
+ 'counter（柜台、操作台）+ top（顶面）。这里 counter 不是“反对”的前缀，也不是数数的动作。',C('counter','top','countertop','柜台、操作台的上表面'),
+ '厨房装修、清洁叙述常见；a stone countertop 是石质台面。英式厨房语境也常说 worktop。',
+ 'a kitchen countertop；wipe the countertop；a stone countertop。',
+ 'counter 是柜台这个整体或工作面，countertop 更明确说上面的台面材料与表面；tablet 则不是桌面这种构词。',
+ ('Wipe the countertop after preparing the food.','备餐后擦干净操作台面。'),('They installed a new stone countertop.','他们安装了新的石质台面。'))
+W('stovetop','英 /ˈstəʊvtɒp/；美 /ˈstoʊvtɑːp/','炉灶台面；灶上烹饪的',
+ '锅放在灶眼上烹饪，位置在炉灶上面，而不是烤箱内部。',
+ 'stove（炉灶）+ top（上部），常特指带炉头的灶面；修饰食谱或器具时可表示用于灶上。',C('stove','top','stovetop','炉灶上部、灶面'),
+ 'clean the stovetop 是清洁灶面，stovetop cooking 是灶上烹饪。stove 在不同地区的器具用法略不同，先按厨房实物理解。',
+ 'clean the stovetop；stovetop cooking；a stovetop kettle。',
+ 'stovetop 在灶上，oven 是封闭烤箱；一个炉灶组合可能两者都有，食谱不能因此随意换烹饪位置。',
+ ('The kettle is on the stovetop.','水壶在灶上。'),('Grease had collected around the stovetop burners.','灶眼周围积了油污。'))
+W('rooftop','英 /ˈruːftɒp/；美 /ˈruːftɑːp/','屋顶；屋顶平台',
+ '从屋里再向上走到建筑外侧的顶面，可能看见整片城市。',
+ 'roof（屋顶）+ top（顶部表面），强调屋顶上方区域，也可作修饰语表示在屋顶设置。',C('roof','top','rooftop','屋顶的上表面、屋顶区域'),
+ 'a rooftop garden 是屋顶花园，rooftop terrace 是屋顶露台；shout from the rooftops 是到处公开宣告的习语，不需真的爬屋顶。',
+ 'a rooftop garden；a rooftop terrace；shout from the rooftops。',
+ 'roof 是房屋覆盖结构，rooftop 更让人看到上表面和活动区域；ceiling 是室内抬头看到的天花板。',
+ ('They grow vegetables in a rooftop garden.','他们在屋顶花园种菜。'),('From the hotel rooftop, we could see the river.','从酒店屋顶，我们看得到河流。'))
+W('hilltop','英 /ˈhɪltɒp/；美 /ˈhɪltɑːp/','小山顶；丘顶',
+ '沿山坡往上走，到这座丘陵最高处，脚下就是 hilltop。',
+ 'hill（小山、丘陵）+ top（顶部），前半说明是哪种东西的顶端。',C('hill','top','hilltop','丘陵、小山的顶部'),
+ 'a hilltop village 是山顶村庄；on a hilltop 是在一处小山顶。hill 和 mountain 的日常划分不以单词本身给出全球统一高度线。',
+ 'a hilltop village；on a hilltop；a hilltop castle。',
+ 'hilltop 是小山顶，hillside 是山坡；都在山上，但不是同一部位。',
+ ('A ruined castle stands on the hilltop.','小山顶上立着一座城堡遗迹。'),('The hilltop village overlooks the valley.','山顶村庄俯瞰山谷。'))
+W('treetop','英 /ˈtriːtɒp/；美 /ˈtriːtɑːp/','树梢；树冠上部',
+ '目光顺着树干爬上去，直到最高的一片枝叶。',
+ 'tree（树）+ top（顶部），常用复数 treetops 描写成片树木的上方。',C('tree','top','treetop','树的最高枝叶部分'),
+ 'above the treetops 是在树梢上方，a treetop walkway 是树冠高度的步道。不是指砍下来的树顶木料才可使用。',
+ 'above the treetops；among the treetops；a treetop walkway。',
+ 'treetop 是树的顶端区域，treehouse 是建在树上的小屋；小屋未必位于树的最高点。',
+ ('Birds were calling from the treetops.','鸟儿在树梢鸣叫。'),('Mist drifted just above the treetops.','薄雾在树梢上方缓缓飘过。'))
+W('topsoil','英 /ˈtɒpsɔɪl/；美 /ˈtɑːpsɔɪl/','表土；土壤表层',
+ '脚下土壤也分层，靠近地表、常有较多有机物的一层是重点。',
+ 'top（上层）+ soil（土壤），按土层位置命名，不是“质量最顶尖的土”。',C('top','soil','topsoil','土壤的表层'),
+ '园艺、农业和侵蚀讨论常见。a layer of topsoil 是一层表土，具体厚度、养分随地点而异，不凭名称保证最肥沃。',
+ 'a layer of topsoil；topsoil erosion；add topsoil。',
+ 'topsoil 是表层土，subsoil 是其下土层；compost 是堆肥材料，可能加入土壤，并不就是 topsoil 的另一拼法。',
+ ('Heavy rain washed away some of the topsoil.','大雨冲走了部分表土。'),('They spread a fresh layer of topsoil over the garden.','他们给花园铺了一层新表土。'))
+W('hardtop','英 /ˈhɑːdtɒp/；美 /ˈhɑːrdtɑːp/','硬顶；硬顶汽车',
+ '车顶用硬质结构罩住，而不是可折叠的软布篷。',
+ 'hard（硬的）+ top（车顶），可指硬质车顶、带这种车顶的车；汽车史中某些车身类别还有更细用法。',C('hard','top','hardtop','硬质车顶；相应车体'),
+ 'a removable hardtop 是可拆卸硬顶。词不保证车顶固定不能开启，某些车型的硬顶也能折叠收纳。',
+ 'a removable hardtop；a hardtop model；a hardtop roof。',
+ 'hardtop 与 soft top 比较车顶材料、构造；hardcover 是书的硬封面。后半不同，别把硬皮书说成 hardtop book。',
+ ('The car has a removable hardtop.','这辆车配有可拆卸硬顶。'),('They restored a classic hardtop from the nineteen-sixties.','他们修复了一辆二十世纪六十年代的经典硬顶汽车。'))
+W('blacktop','英 /ˈblæktɒp/；美 /ˈblæktɑːp/','沥青路面；铺了沥青的场地〔尤美〕',
+ '路面表层铺上深色沥青，远看是一片黑色硬面。',
+ 'black（黑色）+ top（表面），用外观命名路面材料和铺成的道路、活动区域；也可作动词说铺沥青。',C('black','top','blacktop','深色沥青铺面；所铺场地'),
+ '美式学校叙述中 the blacktop 可指铺面操场，公路叙述则是沥青路面。并非任一黑色上衣都用这个连写复合词。',
+ 'a blacktop road；a stretch of blacktop；play on the blacktop。',
+ 'blacktop 是铺面，a black top 分开可以是黑色上衣；top 在两个结构里选了不同义项。',
+ ('The children played basketball on the blacktop.','孩子们在沥青铺面的场地上打篮球。'),('The gravel road gave way to smooth blacktop.','碎石路逐渐接上了平整的沥青路。'))
+R('B3469','顶部、上表面；最高位置','TOP：从底下往上看到最上面','屋顶、树梢、山顶都在上面；到了榜单，顶部就成第一名。',
+ 'top 接古英语 topp、中古英语 top、toppe，更远来源仍有不确定处。顶部、上衣、最高等级等用法可相互联想，但不是每个同拼写义都能编成一条确定故事。stop 是另一词源，不拆成 s + top。',
+ '先看 top 及 tops、topmost、atop、topping、topper、topless、topple，再按桌面、建筑自然顶面、材料车顶分组。desktop、laptop 都与电脑相关，但 laptop 也有 desktop 界面。',
+ [['基本词与扩展','top · tops · topmost · atop · topping · topper · topless · topple'],['桌面与操作面','desktop · laptop · tabletop · countertop · stovetop · worktop'],['建筑与自然顶部','rooftop · hilltop · mountaintop · treetop · topside'],['材料、路面与车顶','topsoil · hardtop · blacktop']],
+ 'desktop／laptop：桌面电脑与便携电脑；桌面界面不只台式机有。top／topple：居首与倾倒。topping／topper：配料与顶部加物，具体看对象。',
+ 'She placed the laptop on the tabletop and looked out over the rooftops.\n\n她把笔记本电脑放到桌面上，望向窗外成片屋顶。',
+ 'top tops topmost atop topping topper topless topple desktop laptop tabletop countertop stovetop rooftop hilltop mountaintop treetop topside worktop topsoil hardtop blacktop')
+ROOTS[-1]['exclude']['stop']='stop 上接古英语 stoppian 等，并非 s + top；不归入顶部词族。'
+if __name__=='__main__':save('continuation_20261028_u',ROOTS,WORDS)

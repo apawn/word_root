@@ -1,0 +1,410 @@
+[
+  {
+    "word": "flee",
+    "ipa": "/fliː/",
+    "meaning": "逃离；逃跑、避开",
+    "sense": "身后有危险，人赶紧离开现场。flee 的重点是为了避开危险或难以承受的处境而走。",
+    "split": "接古英语 fleon、flion 逃离等；历史上与飞行 fly 的形式有交叠，但现代 flee 的常用过去式、过去分词是 fled。更远的印欧语连接有争议，无须强补成确定故事。",
+    "history": [
+      [
+        "古英语 fleon、flion → 中古英语相关形式",
+        "逃走、避开"
+      ],
+      [
+        "现代 flee → fled → fled",
+        "逃离；与飞行 fly 的常用变位分开"
+      ]
+    ],
+    "explanation": "flee the city 逃离那座城；flee from danger 逃离危险；flee to safety 逃到安全处。可直接接离开的地点，也可用 from、to 标方向。",
+    "usage": "flee a burning building；flee from the scene。",
+    "contrast": "flee 是逃离，fly 通常是飞行；flee 不要求用脚跑，也可以乘车离开。flight 在不同搭配里仍可说飞行或逃亡。",
+    "examples": [
+      [
+        "People began to flee the burning building.",
+        "人们开始逃离着火的大楼。"
+      ],
+      [
+        "The birds fled when the dog came closer.",
+        "狗靠近时，鸟儿纷纷逃开。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/flee",
+      "https://en.wiktionary.org/wiki/flee#English"
+    ]
+  },
+  {
+    "word": "fled",
+    "ipa": "/fled/",
+    "meaning": "逃离了、逃跑了；flee 的过去式、过去分词",
+    "sense": "危险逼近，已经离开原处，就是 fled。这个词交代逃离，不保证已经到达安全的目的地。",
+    "split": "flee 的古英语祖形原有强变化；fled 这套带词尾的过去形式在中古英语时期出现，并受斯堪的纳维亚语影响。现代为 flee、fled、fled。",
+    "history": [
+      [
+        "古英语 fleon 等逃离词；中古英语形成 fled",
+        "逃离动词的变位在历史中改换"
+      ],
+      [
+        "现代 fled",
+        "逃离的过去式、过去分词"
+      ]
+    ],
+    "explanation": "fled the country 逃离了那个国家；fled from the fire 逃离火灾；had fled before help arrived 帮助到来前已离开。",
+    "usage": "fled in panic；fled to a nearby village。",
+    "contrast": "flew 常说飞了，fled 说逃了。The birds fled 指因惊动而离开；The birds flew 指飞行这一动作，侧重点不同。",
+    "examples": [
+      [
+        "They fled the house when the fire spread.",
+        "火势蔓延时，他们逃出了房子。"
+      ],
+      [
+        "The family had fled to a nearby village.",
+        "那一家人已经逃到附近一个村庄。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/flee",
+      "https://en.wiktionary.org/wiki/fled#English"
+    ]
+  },
+  {
+    "word": "lent",
+    "ipa": "/lent/",
+    "meaning": "借出了；提供了、增添了；lend 的过去式、过去分词",
+    "sense": "东西暂时交给别人用，后来还回来，是 lent；把支持、信心或某种气氛带给事情，也沿着给予、提供这条线。",
+    "split": "lend 接古英语 lænan 等暂时给予词族；现代原形的 d 与旧过去形式及 bend、send 等类推有关。lent 是现在常用的过去式、过去分词。",
+    "history": [
+      [
+        "古英语 lænan 及后续原形、过去形式变化",
+        "暂借给别人；给予使用"
+      ],
+      [
+        "现代 lend → lent → lent",
+        "借出；提供帮助或增添某种性质"
+      ]
+    ],
+    "explanation": "lent me a book 借给我一本书；lent a hand 帮了忙；lent support 提供了支持；lent warmth to the room 给房间增添温暖感。",
+    "usage": "lent it to a friend；lent credibility to the story。",
+    "contrast": "lent 与借入的 borrowed 方向不同：She lent me a book；I borrowed a book from her。大写 Lent 又是基督教四旬期的名称，另有来源。",
+    "examples": [
+      [
+        "She lent me a book for the weekend.",
+        "她借给我一本书，让我周末看。"
+      ],
+      [
+        "The warm lighting lent the room a cozy feel.",
+        "暖色灯光给房间增添了舒适温馨的感觉。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/lend",
+      "https://en.wiktionary.org/wiki/lent#English"
+    ]
+  },
+  {
+    "word": "learnt",
+    "ipa": "英 /lɜːnt/；美 /lɝːnt/",
+    "meaning": "学会了、得知了；learn 的过去式、过去分词之一",
+    "sense": "原来不会，后来会了；原来不知道，后来听说了。learnt 与 learned 都能把这些变化放到过去。",
+    "split": "learn 接古英语 leornian 学习、求知；现代既有 learned，也有词尾读 /t/ 的 learnt，后者较常见于英式。两种形式不代表两种不同的学习内容。",
+    "history": [
+      [
+        "古英语 leornian → learn",
+        "学习、取得知识；后来也说得知"
+      ],
+      [
+        "现代 learned／learnt",
+        "常见过去式、过去分词的两套形式"
+      ]
+    ],
+    "explanation": "learnt to swim 学会了游泳；learnt that 得知某事；learnt from experience 从经验中学到；learnt a lesson 得到教训。",
+    "usage": "have learnt a lot；learnt the hard way。",
+    "contrast": "learnt 与动词 learned 的意思相同；a learned scholar 中 learned 通常读两个音节，表示博学的，不能机械换成 a learnt scholar。",
+    "examples": [
+      [
+        "She learnt to swim when she was seven.",
+        "她七岁时学会了游泳。"
+      ],
+      [
+        "I have learnt a lot from working with him.",
+        "和他一起工作让我学到了很多。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/learn",
+      "https://en.wiktionary.org/wiki/learnt#English"
+    ]
+  },
+  {
+    "word": "showed",
+    "ipa": "英 /ʃəʊd/；美 /ʃoʊd/",
+    "meaning": "展示了、说明了；露出了；show 的过去式，也可作过去分词",
+    "sense": "把照片拿给别人看、把做法演示出来、让事实显出来，过去都可用 showed。",
+    "split": "show 接古英语 sceawian 看、观察；中古英语发展出让人看见、展示的用法。现代 showed 是 show + -ed 的规则过去形式，也有过去分词用法。",
+    "history": [
+      [
+        "古英语 sceawian → 中古英语 show 相关形式",
+        "看、观察 → 展示、让看见"
+      ],
+      [
+        "show + -ed → showed",
+        "过去展示、说明、显露"
+      ]
+    ],
+    "explanation": "showed me the photo 给我看了照片；showed us how 演示给我们看；showed interest 表现出兴趣；showed up 出现、到场。",
+    "usage": "showed the way；showed that something was wrong。",
+    "contrast": "showed 可直接说过去；has shown 是常见完成表达，也能见到 has showed。I showed him the door 按场景可能是指给他看门的位置，也可能是请他走。",
+    "examples": [
+      [
+        "She showed me how to fold the paper.",
+        "她给我演示了怎么折那张纸。"
+      ],
+      [
+        "The test showed that the battery was weak.",
+        "测试表明电池电力不足。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/show",
+      "https://en.wiktionary.org/wiki/showed#English"
+    ]
+  },
+  {
+    "word": "shown",
+    "ipa": "英 /ʃəʊn/；美 /ʃoʊn/",
+    "meaning": "被展示、已说明；show 的常用过去分词",
+    "sense": "东西已经让人看见、道理已经由事实显出来。have shown 看展示的结果，is shown 看被呈现的内容。",
+    "split": "show 原接古英语看、观察的弱变化动词材料；现代 shown 带 -n 的分词形式是在后续英语中发展出来的，并非完整保留一个古英语原形。",
+    "history": [
+      [
+        "较早 show 的看、展示词族",
+        "由看发展出让人看见"
+      ],
+      [
+        "后起分词 shown → 现代常用形式",
+        "have shown；be shown"
+      ]
+    ],
+    "explanation": "has shown progress 已表现出进步；is shown below 如下所示；was shown around 有人带着参观；shown on the map 在地图上标出。",
+    "usage": "as shown in the picture；have shown an interest。",
+    "contrast": "shown 是分词：The results have shown a change。直接叙述过去通常用 showed：The results showed a change。",
+    "examples": [
+      [
+        "The route is shown on the map.",
+        "路线在地图上标出来了。"
+      ],
+      [
+        "She has shown great patience with the children.",
+        "她对孩子们表现出了很大的耐心。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/show",
+      "https://en.wiktionary.org/wiki/shown#English"
+    ]
+  },
+  {
+    "word": "rang",
+    "ipa": "/ræŋ/",
+    "meaning": "响了铃、打了电话；ring〔鸣响〕的过去式",
+    "sense": "铃声响起来，或电话把对方呼叫起来。rang 是听声音这条 ring 的过去式。",
+    "split": "鸣响 ring 接古英语 hringan，与圆环 hring 是不同来源的材料。现代鸣响动词保留 ring、rang、rung 这一元音换形组。",
+    "history": [
+      [
+        "古英语 hringan 等鸣响词族",
+        "使铃响、发出响声"
+      ],
+      [
+        "现代 ring → rang → rung",
+        "响铃、打电话的原形、过去式、分词"
+      ]
+    ],
+    "explanation": "the bell rang 铃响了；the phone rang 电话响了；rang her mother 给妈妈打了电话，尤其英式常见；rang out 清楚响起。",
+    "usage": "rang twice；rang the doorbell。",
+    "contrast": "ringed 常说围成圈、作环形标记；rang 说鸣响。rang 是 /æ/，rung 是 /ʌ/，和 sing、sang、sung 一起听更好记。",
+    "examples": [
+      [
+        "The phone rang while we were eating.",
+        "我们吃饭时电话响了。"
+      ],
+      [
+        "She rang the doorbell and waited.",
+        "她按了门铃，随后等着。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ring",
+      "https://en.wiktionary.org/wiki/rang#English"
+    ]
+  },
+  {
+    "word": "rung",
+    "ipa": "/rʌŋ/",
+    "meaning": "ring〔鸣响〕的过去分词；另源名词：梯级、等级",
+    "sense": "has rung 是已经响过；a rung 则是一根能踩上去的梯子横档。爬高一格，就又能比喻地位升了一层。",
+    "split": "鸣响分词 rung 属 ring、rang、rung 的旧变位词族；梯级名词另接古英语 hrung 杆、横木等。两者现代同音同形，不能说梯级由响铃变来。",
+    "history": [
+      [
+        "鸣响 ring 的过去分词 → rung",
+        "已经响过、已经打过电话"
+      ],
+      [
+        "古英语 hrung → 名词 rung",
+        "杆、横档 → 梯级；比喻等级"
+      ]
+    ],
+    "explanation": "has rung three times 已响三次；a broken rung 断裂的梯级；the bottom rung of the ladder 梯子最下一档，也可比喻起步层级。",
+    "usage": "have rung the bell；climb to the next rung。",
+    "contrast": "rung 作名词可以数：two rungs；作分词接 has rung 等结构。先认句子作用，便能把两个来源分清。",
+    "examples": [
+      [
+        "The bell has already rung twice.",
+        "铃已经响了两次。"
+      ],
+      [
+        "He placed his foot on the next rung of the ladder.",
+        "他把脚踩到梯子的下一根横档上。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ring",
+      "https://en.wiktionary.org/wiki/rung#English"
+    ]
+  },
+  {
+    "word": "sank",
+    "ipa": "/sæŋk/",
+    "meaning": "下沉了、沉没了；心一沉；sink 的常用过去式",
+    "sense": "原来在上面，后来往下没进去。船沉进水里，脚陷进泥里，心情突然低落，都能用这个往下的画面。",
+    "split": "sink 接古英语 sincan，旧过去式 sanc、分词 suncen 等。现代常用组为 sink、sank、sunk，保留旧元音换形的对应。",
+    "history": [
+      [
+        "古英语 sincan、sanc 等",
+        "下沉、没入及其过去形式"
+      ],
+      [
+        "现代 sink → sank → sunk",
+        "沉下；比喻状态向下变化"
+      ]
+    ],
+    "explanation": "the boat sank 船沉了；sank into a chair 一屁股坐进椅子；her heart sank 她心一沉；sank into the mud 陷进泥里。",
+    "usage": "sank slowly；sank below the surface。",
+    "contrast": "sank 往往说某一次过去下沉；sunk 是常见分词。形容心一沉并不描述身体器官真的移动，是借下沉表达失望或担忧。",
+    "examples": [
+      [
+        "The stone sank to the bottom of the pond.",
+        "石头沉到了池塘底。"
+      ],
+      [
+        "My heart sank when I saw the empty room.",
+        "看见空空的房间，我心里一沉。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sink",
+      "https://en.wiktionary.org/wiki/sank#English"
+    ]
+  },
+  {
+    "word": "sunk",
+    "ipa": "/sʌŋk/",
+    "meaning": "已沉下、陷入的；sink 的常用过去分词，也有过去式用法",
+    "sense": "已经沉进水里，或把时间、精力投入进去难再拿回来。sunk 常让人看到深入其中的结果。",
+    "split": "接 sink 的旧分词材料，古英语 suncen 等；现代常记 sink、sank、sunk。sunk 也能见作过去式，不必把读到的每个 sunk 都判成拼错。",
+    "history": [
+      [
+        "古英语 sincan、suncen 等",
+        "下沉及相应分词"
+      ],
+      [
+        "现代 sunk",
+        "沉下、深陷；投入其中的结果"
+      ]
+    ],
+    "explanation": "has sunk 已沉下；was sunk 被击沉；sunk into the mud 陷进泥里；sunk time into a project 已把大量时间投入项目。",
+    "usage": "the ship has sunk；deeply sunk into something。",
+    "contrast": "sunken 也可作形容词，说沉没的或凹下的：a sunken ship。sunk 与 sunken 的常用位置不同，不能处处无差别互换。",
+    "examples": [
+      [
+        "The boat had sunk before help arrived.",
+        "救援到来前，船已经沉了。"
+      ],
+      [
+        "They have sunk months of work into the project.",
+        "他们已经把几个月的工作投入这个项目。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sink",
+      "https://en.wiktionary.org/wiki/sunk#English"
+    ]
+  },
+  {
+    "word": "shone",
+    "ipa": "英 /ʃɒn/；美 /ʃoʊn/",
+    "meaning": "照耀、发光了；表现出色；shine 的过去式、过去分词之一",
+    "sense": "阳光穿过窗户，金属反出亮光；一个人在自己擅长的事情上格外出色，也像亮了起来。",
+    "split": "shine 接古英语 scinan，旧过去式 scan 等；现代 shone 延续这条发光词族的强变化材料。它与规则形式 shined 并存，用法有搭配和地区倾向。",
+    "history": [
+      [
+        "古英语 scinan、scan 等",
+        "发光、照亮及旧过去形式"
+      ],
+      [
+        "现代 shone 与 shined 并存",
+        "发光常 shone；具体搭配有差别"
+      ]
+    ],
+    "explanation": "the sun shone 阳光照耀；her talent shone through 她的才华显露出来；shone a light into the room 把光照进房间。",
+    "usage": "shone brightly；shone in the final performance。",
+    "contrast": "英式 shone 常读 /ʃɒn/，美式常 /ʃoʊn/。擦亮鞋通常 shined；不能仅凭是否接宾语就给所有 shine 用法划死界线。",
+    "examples": [
+      [
+        "The sun shone through a gap in the clouds.",
+        "阳光从云层的缝隙里照下来。"
+      ],
+      [
+        "Her confidence shone through during the interview.",
+        "面试时，她的自信自然显露出来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/shine",
+      "https://en.wiktionary.org/wiki/shone#English"
+    ]
+  },
+  {
+    "word": "shined",
+    "ipa": "/ʃaɪnd/",
+    "meaning": "擦亮了；照射、发光了；shine 的规则过去式、过去分词",
+    "sense": "把鞋擦到能反光，是 shined。手电照出一道光，也会见 shined a light，尤其在美式表达里。",
+    "split": "shine + -ed，承接古老的发光词族；使表面发亮、擦鞋是后来发展的及物用法。现代 shined 与 shone 并存，擦亮鞋特别常用 shined。",
+    "history": [
+      [
+        "古英语发光词族 → shine",
+        "发光、反光；后来使表面亮起来"
+      ],
+      [
+        "shine + -ed → shined",
+        "擦亮；部分照射、发光用法"
+      ]
+    ],
+    "explanation": "shined his shoes 擦亮鞋；shined a flashlight into the box 用手电照进盒子；has shined in this role 在这个角色上表现出色。",
+    "usage": "freshly shined shoes；shined a light on the path。",
+    "contrast": "shined 的元音仍 /aɪ/；shone 的读音另记。发光或照灯的实际选择有变体，学习时先记擦鞋 shined、阳光 shone 这两组稳妥搭配。",
+    "examples": [
+      [
+        "He shined his shoes before the ceremony.",
+        "仪式前，他擦亮了鞋。"
+      ],
+      [
+        "She shined a flashlight into the dark cupboard.",
+        "她用手电照进黑暗的橱柜。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/shine",
+      "https://en.wiktionary.org/wiki/shined#English"
+    ]
+  }
+]

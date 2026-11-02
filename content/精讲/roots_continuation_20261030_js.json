@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A2376",
+    "meaning": "共享场所、活动或组织关系的人物与动物名称",
+    "core": "-MATE：有共同处境或所属关系，不保证一定是好友",
+    "image": "roommate 同住、teammate 同队、cellmate 同牢房；stablemate 同厩或同机构；inmate 已收窄常用义。",
+    "intro": "mate 的同伴关系很有生产力，前半告诉你共享什么。但每个整词也有使用历史，inmate 就不能只按现在的自由拼词猜。",
+    "forms": "mate 伙伴借自中古低地德语等形式，更早联系共同用餐；与地点、活动、组织词组合。\n\ninmate 较早指同处一屋、在他人租屋内居住者，后指收容机构内的人。首成分通常联系 in 内部，也有原先是 inn 的分析；现代常见义是囚犯。",
+    "branches": [
+      [
+        "居住、学习与同行",
+        "roommate · housemate · flatmate · classmate · schoolmate · shipmate"
+      ],
+      [
+        "团队、组织与特殊处境",
+        "teammate · bandmate · stablemate · cellmate · inmate"
+      ],
+      [
+        "in + mate → inmate → inmates",
+        "inmates"
+      ]
+    ],
+    "contrasts": "-mate 不自动等于亲密朋友；inmate 常说囚犯，stablemate 不取稳定的 stable。",
+    "practice": "The bandmate and former roommate later became his label stablemate.\n\n那位乐队伙伴兼旧室友，后来又与他成为同唱片公司的艺人。",
+    "words": [
+      "roommate",
+      "housemate",
+      "flatmate",
+      "classmate",
+      "schoolmate",
+      "shipmate",
+      "teammate",
+      "bandmate",
+      "stablemate",
+      "cellmate",
+      "inmate",
+      "inmates"
+    ],
+    "exclude": {
+      "age-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "train-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "farm-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plane-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "breakfast-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2754",
+    "meaning": "恳切请求、乞讨与人物名词，固定搭配又有自己的转折",
+    "core": "BEG：请求更迫切；BEGGAR：人物或固定动词",
+    "image": "beg → begging；beggar 与之关系清楚，远源和先后仍有争议。",
+    "intro": "日常先学真实句型，再把不可靠的词源故事放下。go begging、beggar belief 不按每个字逐字翻。",
+    "forms": "中古英语 beggen、beggere 等；更早来源有不同分析；-ing 前双写 g，beggar 拼写 -ar。",
+    "branches": [
+      [
+        "动作、过程与人物",
+        "beg · begging · beggar"
+      ]
+    ],
+    "contrasts": "go begging 是无人利用、认领；beggar belief 是难以置信；词源不能只凭后缀猜定。",
+    "practice": "The child kept begging for another story about the beggar.\n\n孩子一直央求再讲一个关于乞讨者的故事。",
+    "words": [
+      "beg",
+      "begging",
+      "beggar"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4599",
+    "meaning": "接受教育、训练的状态，以及缺少相应训练",
+    "core": "EDUCATED：受过教育或相应训练；UNEDUCATED：缺少这一层",
+    "image": "educated → uneducated。",
+    "intro": "修饰 person、guess、ear 等对象时，要看实际评价的知识、训练范围。不要把一个标签扩大成全部能力。",
+    "forms": "educate + -ed → educated；un- 形成相应否定状态。",
+    "branches": [
+      [
+        "状态与否定",
+        "educated · uneducated"
+      ]
+    ],
+    "contrasts": "uneducated 不自动等于愚笨；uneducated ear 常是音乐等方面缺少训练。",
+    "practice": "The course gives students an educated understanding of sounds that an uneducated ear might miss.\n\n课程帮助学生理解未经训练的耳朵可能忽略的声音。",
+    "words": [
+      "educated",
+      "uneducated"
+    ],
+    "exclude": {
+      "self-educated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

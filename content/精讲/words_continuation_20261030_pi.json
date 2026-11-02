@@ -1,0 +1,36 @@
+[
+  {
+    "word": "next",
+    "ipa": "/nekst/",
+    "meaning": "下一个的；接下来的；紧接着；相邻的",
+    "sense": "排队时紧跟在后面那个人、日历上紧接着的一周，都叫 next。旧核心是最近，后来沿顺序走向下一个。",
+    "split": "接古英语 niehsta、nyhsta 等，原是 neah 近的最高级最近，经中古英语 nexte 到现代 next。不是一个现代英语 nex 加 t，也不与 nexus 的拉丁连接根硬并。",
+    "history": [
+      [
+        "古英语 neah 近 → niehsta、nyhsta 等最高级",
+        "空间、位置或关系上最近的"
+      ],
+      [
+        "中古英语 nexte → next",
+        "相邻；顺序、时间上接下来的"
+      ]
+    ],
+    "explanation": "the next person 下一个人；next week 下周；come next 接下来；next to 在旁边。next week 通常不加 the，若以过去某时为参照可用 the next week。",
+    "usage": "next week；the next person；next to；what comes next。",
+    "contrast": "next 的历史最高级已经固定成独立词，今天不是每次在说最接近；next to the door 是门旁，而非门的未来一周。",
+    "examples": [
+      [
+        "I will call you next week.",
+        "我下周给你打电话。"
+      ],
+      [
+        "Which step comes next?",
+        "接下来是哪一步？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/next#English",
+      "https://www.etymonline.com/word/next"
+    ]
+  }
+]

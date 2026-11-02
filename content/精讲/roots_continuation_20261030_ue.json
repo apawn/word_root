@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B3246",
+    "meaning": "不、没有；旧否定成分留下的常用词",
+    "core": "NE：给时间、数量、事物加一个否定",
+    "image": "时间上没有一次，是 never；数量上一个也没有，是 none；努力最后什么也没留下，可说 come to naught。",
+    "intro": "古英语 ne 是常见否定词。它与其他材料结合形成一批现代熟词；今天 ne 本身通常不独立使用，重点学仍在生活中出现的后代。",
+    "forms": "never 接 ne + æfre〔任何时候〕；none 接 ne + an〔一个〕。naught、nought 接 na + wiht〔任何事物、东西〕的旧复合及其音变。no 的旧副词来源可接 ne + a〔曾、总〕，限定词 no 又与 none 的后续发展相连，不能给所有 no 只画一条现代拆分。\n\nnobody 是没有人，nowhere 是没有地方；两者本身已有否定意义，常用标准表达无需再加一个 not 才能否定。",
+    "branches": [
+      [
+        "一般否定与时间",
+        "no · not · never"
+      ],
+      [
+        "数量与事物",
+        "none · nothing"
+      ],
+      [
+        "归零与一无所获",
+        "naught · nought"
+      ],
+      [
+        "同族词义转变",
+        "naughty"
+      ],
+      [
+        "nobody 与 nowhere：把人、地点归到没有",
+        "no · nobody · nowhere"
+      ]
+    ],
+    "contrasts": "none 要按所指对象决定搭配，不能由古词源“not one”就认定现代永远只能接单数。naughty 从旧时无用、恶劣的词族发展，现代说孩子时常弱化为淘气。",
+    "practice": "None of the keys worked, and all our efforts came to naught.\n\n所有钥匙都打不开，我们的一番努力全白费了。",
+    "words": [
+      "no",
+      "not",
+      "never",
+      "none",
+      "nothing",
+      "naught",
+      "nought",
+      "naughty",
+      "nobody",
+      "nowhere"
+    ],
+    "exclude": {
+      "ne": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1961",
+    "meaning": "旧 to- 的分开义；另源 to 与时间、方向的结合",
+    "core": "TO-：同样拼写，先分清两条历史",
+    "image": "今天、今晚、明天，原来像“在这一天、在这夜里、在次日早晨”的短语；词用久了，写成了一个词。",
+    "intro": "旧英语还有另一个表示分开、毁裂的 to-，许多相关动词已消失或很古旧。today、tonight、tomorrow、together 接的是介词 to 与后词结合的另一来源；学习时把仍常用的这一组讲清。",
+    "forms": "时间、方向材料 to + day／night／旧 morgen〔早晨〕；together 接 to + gædere〔聚在一起〕。这里的 to 可有在、于、向等旧用法，不能一律翻成现代“去做”。表示分裂的旧 to- 与这组不是一个词源。",
+    "branches": [
+      [
+        "当下与随后时间",
+        "today · tonight · tomorrow"
+      ],
+      [
+        "聚到一处",
+        "together"
+      ]
+    ],
+    "contrasts": "tonight 表示今晚，tomorrow 表示明天。旧分裂前缀 to- 不宜拿来解释这些常用时间词。",
+    "practice": "We will stay together tonight and leave tomorrow.\n\n我们今晚待在一起，明天离开。",
+    "words": [
+      "today",
+      "tonight",
+      "tomorrow",
+      "together"
+    ],
+    "exclude": {
+      "to-name": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "to-night": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

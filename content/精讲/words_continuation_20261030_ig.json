@@ -1,0 +1,406 @@
+[
+  {
+    "word": "tube",
+    "ipa": "英 /tjuːb/；美 /tuːb/",
+    "meaning": "管子、管状物；软管包装；伦敦地铁〔the Tube〕",
+    "sense": "一根中间空、能让东西通过或装进东西的长圆管；牙膏挤压包装和地铁隧道都借这种形状得名。",
+    "split": "借法语 tube，接拉丁 tubus 管。伦敦 the Tube 源于管状隧道的称呼，不是所有城市地铁都惯叫同一个专名。",
+    "history": [
+      [
+        "拉丁 tubus → 法语 tube → 英语 tube",
+        "空心圆管，联系 tuba 号管等词"
+      ],
+      [
+        "英语具体形状和命名",
+        "软管包装、地铁隧道、器材等"
+      ]
+    ],
+    "explanation": "a metal tube 金属管，a tube of toothpaste 一管牙膏，a test tube 试管，take the Tube 坐伦敦地铁。英式 tube 也常发 /tʃuːb/。",
+    "usage": "a metal tube；a tube of toothpaste；a test tube；the Tube。",
+    "contrast": "tube 常强调管形、管状容器，pipe 常突出输送管路，二者有交叠。YouTube 是专名，不能据此把每个视频都叫一个 tube。",
+    "examples": [
+      [
+        "The liquid flows through a narrow tube.",
+        "液体流过一根细管。"
+      ],
+      [
+        "I bought a tube of toothpaste.",
+        "我买了一管牙膏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tube#English"
+    ]
+  },
+  {
+    "word": "tubing",
+    "ipa": "英 /ˈtjuːbɪŋ/；美 /ˈtuːbɪŋ/",
+    "meaning": "管材、管路；乘充气内胎漂流或滑行",
+    "sense": "供应商卖的是一段段管材；旅游活动里的 tubing 则是人坐在充气圈上，顺水或雪坡滑行，tube 指的物件换了。",
+    "split": "tube 去 e + -ing。可形成材料集合名词，也可命名使用充气内胎进行的活动，不一律是正在装管。",
+    "history": [
+      [
+        "拉丁 tubus → 法语 tube → 英语 tube",
+        "空心圆管，联系 tuba 号管等词"
+      ],
+      [
+        "英语具体形状和命名",
+        "软管包装、地铁隧道、器材等"
+      ],
+      [
+        "tube + -ing → tubing",
+        "管材、管路；使用充气圈的滑行活动"
+      ]
+    ],
+    "explanation": "plastic tubing 塑料管材，rubber tubing 橡胶管，a length of tubing 一段管子，river tubing 充气圈漂流。",
+    "usage": "plastic tubing；rubber tubing；a length of tubing；river tubing。",
+    "contrast": "tubing 作管材通常不可数，数一段可用 a length of tubing；活动义不等于乘船 rafting 的每种形式。",
+    "examples": [
+      [
+        "The machine uses flexible plastic tubing.",
+        "机器使用柔韧的塑料管路。"
+      ],
+      [
+        "The brochure lists river tubing as one of the activities.",
+        "宣传册把充气圈漂流列为一项活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tubing#English"
+    ]
+  },
+  {
+    "word": "tubal",
+    "ipa": "英 /ˈtjuːbəl/；美 /ˈtuːbəl/",
+    "meaning": "管的、管道的，尤指身体管状结构",
+    "sense": "tube 是那根管，tubal 是和那根管有关的性质；在解剖语境，身体也有运送物质、连接部位的管状结构。",
+    "split": "tube + -al，去掉末尾 e 再接性质词尾。它常用于解剖名称，具体是哪一管由上下文决定。",
+    "history": [
+      [
+        "拉丁 tubus → 法语 tube → 英语 tube",
+        "空心圆管，联系 tuba 号管等词"
+      ],
+      [
+        "英语具体形状和命名",
+        "软管包装、地铁隧道、器材等"
+      ],
+      [
+        "tube + -al → tubal",
+        "管状结构相关的"
+      ]
+    ],
+    "explanation": "tubal anatomy 管道解剖，tubal function 管道功能，tubal pregnancy 输卵管妊娠这一专门医学名词。",
+    "usage": "tubal anatomy；tubal function；tubal structure。",
+    "contrast": "tubal 不单凭词尾就限定所有场合都是输卵管，也不等于 tuber 块茎的。先找文本正在讨论哪种管。",
+    "examples": [
+      [
+        "The lecture introduced basic tubal anatomy.",
+        "讲座介绍了基本的管道解剖。"
+      ],
+      [
+        "The model shows a tubal structure with an opening at each end.",
+        "模型展示了两端都有开口的管状结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tubal#English"
+    ]
+  },
+  {
+    "word": "tubeless",
+    "ipa": "英 /ˈtjuːbləs/；美 /ˈtuːbləs/",
+    "meaning": "无内胎的；没有管子的",
+    "sense": "轮胎里省去独立那层充气内胎，靠相应胎体、轮圈等结构保持气密；不是外胎、空气都没了。",
+    "split": "tube + -less，无、没有。轮胎用法里的 tube 特指 inner tube 内胎，必须补回省掉的对象。",
+    "history": [
+      [
+        "拉丁 tubus → 法语 tube → 英语 tube",
+        "空心圆管，联系 tuba 号管等词"
+      ],
+      [
+        "英语具体形状和命名",
+        "软管包装、地铁隧道、器材等"
+      ],
+      [
+        "tube + -less → tubeless",
+        "无管的；轮胎语境无独立内胎的"
+      ]
+    ],
+    "explanation": "tubeless tyres 无内胎轮胎，a tubeless setup 无内胎配置，tubeless wheels 适配无内胎方案的车轮。",
+    "usage": "tubeless tyres；a tubeless setup；tubeless wheels。",
+    "contrast": "tubeless 不等于 airless 无气，也不保证永不扎破。构词只告诉你没有独立内胎，不包办全部性能。",
+    "examples": [
+      [
+        "The bicycle is fitted with tubeless tyres.",
+        "这辆自行车装了无内胎轮胎。"
+      ],
+      [
+        "The review compares tubeless tyres with tyres that use inner tubes.",
+        "评测比较了无内胎轮胎与使用内胎的轮胎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tubeless#English"
+    ]
+  },
+  {
+    "word": "nanotube",
+    "ipa": "英 /ˈnænəʊtjuːb/；美 /ˈnænoʊtuːb/",
+    "meaning": "纳米管",
+    "sense": "把空心管的形状缩到纳米尺度；常见碳纳米管，但管状微结构不只用碳做。",
+    "split": "nano- 纳米尺度 + tube 管。nano- 在单位中表示十亿分之一，名称强调尺度，不要求所有纳米管的直径都恰好一纳米。",
+    "history": [
+      [
+        "拉丁 tubus → 法语 tube → 英语 tube",
+        "空心圆管，联系 tuba 号管等词"
+      ],
+      [
+        "英语具体形状和命名",
+        "软管包装、地铁隧道、器材等"
+      ],
+      [
+        "nano- + tube → nanotube",
+        "纳米尺度的管状结构"
+      ]
+    ],
+    "explanation": "a carbon nanotube 碳纳米管，nanotube structures 纳米管结构，a nanotube sample 纳米管样品。",
+    "usage": "a carbon nanotube；nanotube structures；a nanotube sample。",
+    "contrast": "nanotube 不等于缩小版普通塑料水管；微观材料和结构决定其性质。nano- 说量级，不说明材料、长度或用途都一样。",
+    "examples": [
+      [
+        "The diagram shows a carbon nanotube.",
+        "图中展示了一根碳纳米管。"
+      ],
+      [
+        "Researchers compared nanotubes made from different materials.",
+        "研究人员比较了不同材料制成的纳米管。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nanotube#English"
+    ]
+  },
+  {
+    "word": "tuber",
+    "ipa": "英 /ˈtjuːbə/；美 /ˈtuːbər/",
+    "meaning": "块茎；膨大贮藏器官、结节等",
+    "sense": "想植物把养分攒进一个鼓起来的地下部分；土豆就是常见块茎。核心是膨大，不是空心管。",
+    "split": "植物、解剖名词来自拉丁 tūber 隆起、肿块。这一常用义不是 tube + -er；另有较少见 tube 行为者同形词，需分源。",
+    "history": [
+      [
+        "另源拉丁 tūber → tuber",
+        "隆起、肿块 → 膨大的植物贮藏器官"
+      ],
+      [
+        "英语植物、解剖用法",
+        "膨大的贮藏部位；结节状突出结构"
+      ]
+    ],
+    "explanation": "a potato tuber 土豆块茎，underground tubers 地下块茎，tuber growth 块茎生长。土豆块茎是膨大茎，不能把所有地下贮藏器官都叫根。",
+    "usage": "a potato tuber；underground tubers；tuber growth。",
+    "contrast": "tuber 与 tube 的常用来源不同；bulb 鳞茎也不是 tuber 的任意同义词。洋葱、土豆长在地下，却有不同结构。",
+    "examples": [
+      [
+        "Each potato plant produced several tubers.",
+        "每株马铃薯长出了几个块茎。"
+      ],
+      [
+        "The class compared a potato tuber with an onion bulb.",
+        "课堂比较了马铃薯块茎和洋葱鳞茎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tuber#English",
+      "https://www.etymonline.com/word/tuber"
+    ]
+  },
+  {
+    "word": "resourcing",
+    "ipa": "英 /rɪˈzɔːsɪŋ/；美 /ˈriːsɔːrsɪŋ/",
+    "meaning": "资源配置、提供所需资源",
+    "sense": "不只说有个好计划，还要给它人手、钱、设备和时间；把这些安排到位，就是 resourcing。",
+    "split": "resource 的动词用法去 e + -ing。名词 resource 资源转成提供资源的动词后，再形成过程名词。",
+    "history": [
+      [
+        "resource 名词 → resource 动词",
+        "可利用资源 → 为某事提供资源"
+      ],
+      [
+        "resource + -ing → resourcing",
+        "资源的供给、安排、配置"
+      ]
+    ],
+    "explanation": "project resourcing 项目资源配置，adequate resourcing 充足资源保障，staff resourcing 人手配置。",
+    "usage": "project resourcing；adequate resourcing；staff resourcing。",
+    "contrast": "resourcing 不只采购实物，也包含人员、经费等；resourceful 足智多谋强调善用办法，不保证资源本来充足。",
+    "examples": [
+      [
+        "The plan failed because of poor resourcing.",
+        "计划因资源保障不足而失败。"
+      ],
+      [
+        "The meeting focused on staffing and resourcing for the project.",
+        "会议重点讨论项目的人手和资源配置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resourcing#English"
+    ]
+  },
+  {
+    "word": "slide",
+    "ipa": "/slaɪd/",
+    "meaning": "滑动、悄悄放入；逐渐下滑；滑梯；幻灯片、演示页；载玻片",
+    "sense": "脚贴着冰面滑，手把纸悄悄推过去，都没有大幅抬起来；数字或状态慢慢滑向更低处，也能 slide。",
+    "split": "接古英语 slīdan。名词发展出滑梯、滑动部件与投影片等，现代 slide 也表示演示文稿中的一页；过去式、分词 slid /slɪd/。",
+    "history": [
+      [
+        "古英语 slīdan → slide",
+        "贴着表面滑动"
+      ],
+      [
+        "名词、器具及展示",
+        "滑梯、滑动部件、投影片及演示页"
+      ],
+      [
+        "相关旧动词与组合",
+        "slidrian 等 → slither；mud + slide → mudslide"
+      ]
+    ],
+    "explanation": "slide on ice 在冰上滑，slide a note across the desk 把纸条推过桌面，a playground slide 儿童滑梯，a presentation slide 演示页，a microscope slide 显微镜载玻片。",
+    "usage": "slide on ice；slide a note；a presentation slide；a microscope slide。",
+    "contrast": "slide 是一页，slide deck 是整套页；let it slide 常指暂不追究，不是真让东西滑走。a slide in sales 是销量下滑，不是销售幻灯片。",
+    "examples": [
+      [
+        "She slid the note across the table.",
+        "她把纸条沿桌面推过去。"
+      ],
+      [
+        "The final slide summarizes the main points.",
+        "最后一页演示概括了要点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slide#English"
+    ]
+  },
+  {
+    "word": "slider",
+    "ipa": "英 /ˈslaɪdə/；美 /ˈslaɪdər/",
+    "meaning": "滑块、滑动控件；拉链头；小汉堡；滑球〔依语境〕",
+    "sense": "音量条上能来回滑的把手是 slider；拉链上滑过去让齿闭合的部件也是。菜单上 sliders 却常是小汉堡。",
+    "split": "slide 去 e + -er，给会滑动的部件、角色命名；界面控件从实体滑动控制件抽象而来。小汉堡、体育滑球是固定用法，不逐字硬推。",
+    "history": [
+      [
+        "古英语 slīdan → slide",
+        "贴着表面滑动"
+      ],
+      [
+        "名词、器具及展示",
+        "滑梯、滑动部件、投影片及演示页"
+      ],
+      [
+        "相关旧动词与组合",
+        "slidrian 等 → slither；mud + slide → mudslide"
+      ],
+      [
+        "slide + -er → slider",
+        "滑动部件、控制件等"
+      ],
+      [
+        "不同场景固定词义",
+        "小汉堡；棒球等运动的滑球"
+      ]
+    ],
+    "explanation": "a volume slider 音量滑块，move the slider 拖动滑块，a zip slider 拉链头，mini sliders 小汉堡。",
+    "usage": "a volume slider；move the slider；a zip slider；sliders on the menu。",
+    "contrast": "slider 不必是滑的人；slide 演示页也不是 slider。菜单叫 slider，不说明汉堡真的会滑来滑去。",
+    "examples": [
+      [
+        "Move the slider to adjust the volume.",
+        "移动滑块调节音量。"
+      ],
+      [
+        "The café serves three small sliders on one plate.",
+        "咖啡馆把三个小汉堡装在同一盘上供应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slider#English"
+    ]
+  },
+  {
+    "word": "slither",
+    "ipa": "英 /ˈslɪðə/；美 /ˈslɪðər/",
+    "meaning": "滑行、蜿蜒爬行；滑着移动",
+    "sense": "蛇贴着地面，身子左右摆动地往前走；人在泥坡上失去抓地，也可能 slither 下去。",
+    "split": "接古英语 slidrian、中古英语 slitheren 等滑行动词，是 slide 相关旧动词一路的变化。后半联系反复动作词尾，不是现代 slider 人物词随意换几个字母。",
+    "history": [
+      [
+        "古英语 slīdan → slide",
+        "贴着表面滑动"
+      ],
+      [
+        "slidrian/slideren → slitheren → slither",
+        "连续滑、扭动着滑行；词中辅音、元音历史变化"
+      ]
+    ],
+    "explanation": "slither through the grass 穿草蜿蜒而行，slither down a slope 滑下坡，slither away 滑行离开。",
+    "usage": "slither through；slither down；slither away。",
+    "contrast": "slither 常强调贴地、左右扭动，slide 更广指滑动；蛇以外的动物、人或物也可按动作使用。",
+    "examples": [
+      [
+        "The snake slithered into the grass.",
+        "蛇蜿蜒滑进草丛。"
+      ],
+      [
+        "We slithered down the muddy bank.",
+        "我们沿着泥泞的河岸坡滑了下去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slither#English"
+    ]
+  },
+  {
+    "word": "mudslide",
+    "ipa": "/ˈmʌdslaɪd/",
+    "meaning": "泥流、泥石流式滑塌；同名鸡尾酒〔菜单义〕",
+    "sense": "坡上的泥土含水后成片往下滑、流动，名字直接把材料 mud 和运动 slide 合起来。",
+    "split": "mud 泥 + slide 滑。地质词指泥质物沿坡下移；酒单的同名饮品是另一场景的名称，不用于判断灾害类型。",
+    "history": [
+      [
+        "古英语 slīdan → slide",
+        "贴着表面滑动"
+      ],
+      [
+        "名词、器具及展示",
+        "滑梯、滑动部件、投影片及演示页"
+      ],
+      [
+        "相关旧动词与组合",
+        "slidrian 等 → slither；mud + slide → mudslide"
+      ],
+      [
+        "mud + slide → mudslide",
+        "含泥物质沿坡下移的事件"
+      ]
+    ],
+    "explanation": "a mudslide after heavy rain 暴雨后的泥流，a road blocked by a mudslide 被泥流堵住的道路。",
+    "usage": "a mudslide after heavy rain；a road blocked by a mudslide。",
+    "contrast": "landslide 是更广的斜坡物质下移，mudslide 强调泥质、流动性；新闻中文有时笼统译泥石流，精细地质分类仍要看具体材料和过程。",
+    "examples": [
+      [
+        "Heavy rain triggered a mudslide on the hillside.",
+        "暴雨引发了山坡上的泥流。"
+      ],
+      [
+        "The road was closed after a mudslide blocked it.",
+        "泥流堵路后，道路被关闭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mudslide#English"
+    ]
+  }
+]

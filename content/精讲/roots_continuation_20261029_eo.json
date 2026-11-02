@@ -1,0 +1,45 @@
+[
+  {
+    "id": "B3751",
+    "meaning": "巡游、游客、旅游业与轮廓",
+    "core": "TOUR：转一圈的历史，串联地点的现代行程",
+    "image": "tour 到 tourist 人、tourism 产业相邻；tourer 常见车辆用途；contour 另经法语绕行词讲轮廓。",
+    "intro": "词族接转动、绕行的法语和拉丁历史。旅游不代表必须转整圆，轮廓也不是旅游的直接现代派生。",
+    "forms": "tour → tourist、tourism、tourer；法语 contourner、contour 为相关历史组合。\n\ntour 与活动者后缀 ist 组合，不限是否跟团。\n\n法语 tour、tourner 接拉丁转动词族，现代旅游、巡回演出等分支。\n\n法语转动词族接拉丁 tornare，现代加完整 ing。",
+    "branches": [
+      [
+        "活动、人物与产业",
+        "tour · tourist · tourism"
+      ],
+      [
+        "用途车辆与形状分支",
+        "tourer · contour"
+      ],
+      [
+        "tourist → tourists：以旅行游览为活动的人",
+        "tourist · tourists"
+      ],
+      [
+        "tour → tours：转一圈去看、去演出",
+        "tour · tours"
+      ],
+      [
+        "tour → touring：绕一圈的行程到巡游、巡演",
+        "tour · touring"
+      ]
+    ],
+    "contrasts": "tour 可在一栋楼里；tourism 不必译主义；tourer 常指车；contour lines 是等高线。",
+    "practice": "The tourist took a walking tour along the contours of the hill.\n\n游客参加了一次顺着山丘地形的徒步游览。",
+    "words": [
+      "tour",
+      "tourist",
+      "tourism",
+      "tourer",
+      "contour",
+      "tourists",
+      "tours",
+      "touring"
+    ],
+    "exclude": {}
+  }
+]

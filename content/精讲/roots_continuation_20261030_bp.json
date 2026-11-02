@@ -1,0 +1,64 @@
+[
+  {
+    "id": "B2782",
+    "meaning": "贸易往来到车流、网络流量；贩运支线分角色",
+    "core": "TRAFFIC：来往的流；TRAFFICKING：现代常说非法贩运",
+    "image": "traffic 基本词先分交通、网络、交易；trafficking 行为，trafficker 人，trafficked 被贩运状态按顺序。",
+    "intro": "意大利、法语贸易词远源不定，现代几条支线同源却不能互相硬译。尤其贩运词不是日常交通的普通变形。",
+    "forms": "traffic + k + -ing/-er/-ed；k 帮助保留 /k/，trafficked 末尾读 /kt/。",
+    "branches": [
+      [
+        "流量和往来",
+        "traffic"
+      ],
+      [
+        "行为、执行者和经历",
+        "trafficking · trafficker · trafficked"
+      ]
+    ],
+    "contrasts": "traffic 通常不可数；trafficking 贩运不是车流；trafficker 执行者、trafficked 经历者；trader 可中性。",
+    "practice": "The report distinguishes ordinary trade from illegal trafficking.\n\n报告区分普通贸易与非法贩运。",
+    "words": [
+      "traffic",
+      "trafficking",
+      "trafficker",
+      "trafficked"
+    ],
+    "exclude": {
+      "traffic-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4114",
+    "meaning": "脚步、行程、失足与触发；迷幻体验另一路",
+    "core": "TRIP：走一趟、脚绊一下；装置也可被触发",
+    "image": "trip 多义按场景先讲，再 trippy 迷幻体验、tripwire 触发结构；较少独立使用 tripper 暂略。",
+    "intro": "旧轻快踏步词的传入路线有不同分析。现代出差、绊线和迷幻都常见，但不能把一个意思套到每个派生上。",
+    "forms": "trip → tripped、tripping；trip + -y → trippy；trip + wire。\n\n中古英语轻快迈步等材料，近源有不同分析；现代数行程与动词三单同形。",
+    "branches": [
+      [
+        "脚步、行程和体验",
+        "trip · trippy"
+      ],
+      [
+        "触发结构与比喻",
+        "tripwire"
+      ],
+      [
+        "trip → trips：行程、绊倒与触发",
+        "trip · trips"
+      ]
+    ],
+    "contrasts": "trip 一趟、journey 途中；trip over 不保证摔倒；trippy 接迷幻体验不是普通旅行；tripwire 触发点。",
+    "practice": "On the trip, they watched a trippy film about a strange journey.\n\n旅行途中，他们看了一部关于奇异旅程的迷幻电影。",
+    "words": [
+      "trip",
+      "trippy",
+      "tripwire",
+      "trips"
+    ],
+    "exclude": {
+      "tripper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

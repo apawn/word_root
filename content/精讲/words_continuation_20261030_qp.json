@@ -1,0 +1,266 @@
+[
+  {
+    "word": "update",
+    "ipa": "动词 /ʌpˈdeɪt/；名词 /ˈʌpdeɪt/",
+    "meaning": "更新；使了解最新情况；最新消息、进展",
+    "sense": "旧表格补上今天的数据，是 update；同事没跟上进展，给他讲到最新情况，也叫 update。不是所有 update 都要换一套新东西。",
+    "split": "up- + date 日期、使标上日期的材料，二十世纪形成更新信息的动词，再有名词。核心像把内容推进到当前日期，不是向上约会。",
+    "history": [
+      [
+        "up- + date → update 动词",
+        "把信息推进到当前、使获得最新信息"
+      ],
+      [
+        "update 名词",
+        "更新；新得到的消息、进展"
+      ]
+    ],
+    "explanation": "update the document 更新文档；update someone on progress 告知某人最新进展；give an update 报告进展；a software update 软件更新。名词常重读前面，动词常重读后面。",
+    "usage": "update a file；keep someone updated；an update on。",
+    "contrast": "update 使信息、版本较新，upgrade 常强调升级到更高能力或档次；一次修正错字的 update 不一定是功能 upgrade。",
+    "examples": [
+      [
+        "Please update the contact list before Friday.",
+        "请在周五前更新联系人名单。"
+      ],
+      [
+        "Could you give us an update on the project?",
+        "你能给我们讲讲项目的最新进展吗？"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/update"
+    ]
+  },
+  {
+    "word": "upstream",
+    "ipa": "/ˌʌpˈstriːm/",
+    "meaning": "在上游；向上游；上游的、前序环节的",
+    "sense": "面对河水，朝水流来的方向走，是往上游；一条供应或处理链里，先产出、给后面提供材料的环节，也常比喻成 upstream。",
+    "split": "up- + stream 水流。up 在这里朝源头，不是地图上朝北；抽象流程义借用了河水由上游流向下游的方向。",
+    "history": [
+      [
+        "up- + stream",
+        "朝水流来源、河流上游"
+      ],
+      [
+        "upstream 的抽象扩展",
+        "供应、信息、处理链中较前的环节"
+      ]
+    ],
+    "explanation": "swim upstream 逆流往上游游；upstream suppliers 上游供应商；an upstream project 技术协作里可指提供原始代码、组件的上游项目，具体关系由上下文确定。",
+    "usage": "further upstream；upstream suppliers。",
+    "contrast": "upstream 上游不固定等于北方；在产业、技术流程中也不自动等于老板或更高级别，只是供给、依赖方向上的前端。",
+    "examples": [
+      [
+        "The village is several kilometres upstream.",
+        "村庄在上游几公里处。"
+      ],
+      [
+        "A delay at an upstream supplier affected production.",
+        "一家上游供应商延误，影响了生产。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upstream#English"
+    ]
+  },
+  {
+    "word": "downstream",
+    "ipa": "/ˌdaʊnˈstriːm/",
+    "meaning": "在下游；向下游；后续环节的",
+    "sense": "顺着水往流去的方向，是下游；前一步出了问题，后面接着使用它的人、流程会受影响，就是 downstream 的常见比喻。",
+    "split": "down- + stream，与 upstream 对照。down 指顺水流往后，不等于地图朝南，也不表示质量低。",
+    "history": [
+      [
+        "down- + stream",
+        "沿水流去向、河流下游"
+      ],
+      [
+        "downstream 的流程义",
+        "接收前序产出、受到后续影响的环节"
+      ]
+    ],
+    "explanation": "float downstream 顺流漂；downstream users 下游用户；downstream effects 后续影响。可以说传播、依赖关系，不只工业流水线。",
+    "usage": "further downstream；downstream effects。",
+    "contrast": "downstream 后续环节，不等于 unimportant 不重要；上游改变可能让下游受影响，双方价值大小不能由方向词判断。",
+    "examples": [
+      [
+        "The boat drifted slowly downstream.",
+        "小船慢慢顺流漂向下游。"
+      ],
+      [
+        "The team considered the downstream effects of the change.",
+        "团队考虑了这次改动的后续影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downstream#English"
+    ]
+  },
+  {
+    "word": "upstanding",
+    "ipa": "/ʌpˈstændɪŋ/",
+    "meaning": "正直可靠的；站立的〔特定搭配〕",
+    "sense": "说一个人 an upstanding citizen，重点通常是做人端正、可靠；不是只说他此刻没有坐着。",
+    "split": "up- + standing，先有站起、立着的材料，后常说品格正直。直立像做人不歪的联想有助记忆，但不能替代各用法的实际历史。",
+    "history": [
+      [
+        "up- + standing",
+        "站立、直立的材料"
+      ],
+      [
+        "upstanding 的人物评价",
+        "品格正直、可靠的"
+      ]
+    ],
+    "explanation": "an upstanding member of the community 社区里正直可靠的成员；Please be upstanding 是某些正式场合请起立的表达，地区、场合有限。",
+    "usage": "an upstanding citizen；a decent, upstanding person。",
+    "contrast": "standing 站着的通常只讲姿态；upstanding 评价人物常讲品格，不能见坐轮椅或坐着的人就否定其 upstanding。",
+    "examples": [
+      [
+        "She was known as an upstanding member of the community.",
+        "她以社区中正直可靠的成员而为人所知。"
+      ],
+      [
+        "The novel initially presents him as an upstanding citizen.",
+        "小说起初把他描绘成一位正直公民。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upstanding#English"
+    ]
+  },
+  {
+    "word": "upturn",
+    "ipa": "英 /ˈʌptɜːn/；美 /ˈʌptɜːrn/",
+    "meaning": "好转；回升〔常见名词〕",
+    "sense": "一条往下或平着的曲线，终于拐头往上；销售、需求或局面这样好转，常说 an upturn。",
+    "split": "up- + turn 转，历史还有向上翻转的动词形式；现代常见经济、情况回升的名词义。不能只照字面译为向上转身。",
+    "history": [
+      [
+        "up- + turn 的组合",
+        "向上转、向上翻的材料"
+      ],
+      [
+        "名词 upturn 的抽象用法",
+        "走势回升、情况好转"
+      ]
+    ],
+    "explanation": "an upturn in sales 销售回升；an economic upturn 经济好转；a slight upturn 小幅改善。是否持续，还要看后文，不由一个词保证。",
+    "usage": "an upturn in demand；an economic upturn。",
+    "contrast": "upturn 偏向出现好转的转折，growth 增长可以持续很久；一次 upturn 不自动意味着已恢复到此前最高点。",
+    "examples": [
+      [
+        "The shop reported an upturn in sales.",
+        "商店报告销售出现回升。"
+      ],
+      [
+        "There was a slight upturn in demand after the holiday.",
+        "假期过后，需求略有回升。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upturn#English"
+    ]
+  },
+  {
+    "word": "upturned",
+    "ipa": "英 /ˌʌpˈtɜːnd/；美 /ˌʌpˈtɜːrnd/",
+    "meaning": "朝上翻的；向上仰、翘起的",
+    "sense": "手掌翻过来朝上，是 an upturned palm；脸仰着朝上，是 an upturned face。看的是朝向，不是经济趋势。",
+    "split": "up- + turned 转过的，与 upturn 向上翻的动词材料相连。已经常作描述姿态、形状的形容词，不仅是名词好转加 ed。",
+    "history": [
+      [
+        "turn → turned；up- 向上",
+        "转、翻与朝上的组合"
+      ],
+      [
+        "upturned",
+        "某一面朝上、向上仰的"
+      ]
+    ],
+    "explanation": "upturned palms 朝上的手掌；an upturned face 仰起的脸；an upturned nose 翘鼻子。容器要看哪一面被翻上来，具体画面由名词决定。",
+    "usage": "an upturned face；upturned palms。",
+    "contrast": "upturn 名词常说好转，upturned 在具体描写里常说朝向；不能把 upturned faces 理解成好转的面孔。",
+    "examples": [
+      [
+        "She held out her upturned palms.",
+        "她伸出双手，掌心朝上。"
+      ],
+      [
+        "Rain fell on his upturned face.",
+        "雨落在他仰起的脸上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upturned#English"
+    ]
+  },
+  {
+    "word": "upwelling",
+    "ipa": "/ˌʌpˈwelɪŋ/",
+    "meaning": "上升流；涌起、上涌",
+    "sense": "海里较深处的水向表面涌上来，是 upwelling；像水一样的情绪突然涌起，也能借这个画面表达。",
+    "split": "up- + welling，well 在这里是水涌出、情绪涌起的动词材料，不是 well 好、健康的评价。",
+    "history": [
+      [
+        "well 的涌出义 → welling",
+        "水、感情涌出"
+      ],
+      [
+        "up- + welling → upwelling",
+        "向上涌；海洋上升流等"
+      ]
+    ],
+    "explanation": "coastal upwelling 沿海上升流；an upwelling of emotion 一阵涌起的情绪。典型海洋上升流可把较冷、富营养的深层水带近表面，具体机制按海域、情境看。",
+    "usage": "coastal upwelling；an upwelling of feeling。",
+    "contrast": "upstream 说河流的上游方向，upwelling 说水从较深处往上运动；一个是沿流程方向，一个是向表面上涌。",
+    "examples": [
+      [
+        "Coastal upwelling brings deeper water towards the surface.",
+        "沿海上升流把较深处的水带向表面。"
+      ],
+      [
+        "The letter caused an unexpected upwelling of emotion.",
+        "那封信让情绪意外地涌了上来。"
+      ]
+    ],
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/upwelling.html"
+    ]
+  },
+  {
+    "word": "upfield",
+    "ipa": "/ˌʌpˈfiːld/",
+    "meaning": "向前场；向对方球门方向〔体育〕",
+    "sense": "球队从自家后场把球往对方球门附近推进，是 upfield；它看的比赛进攻方向，不是把球踢到天空。",
+    "split": "up- + field 球场，up 在这里是朝进攻的一端、前场。不是地图固定北边，也不是所有高球。",
+    "history": [
+      [
+        "up- + field",
+        "朝球场前方、进攻方向"
+      ],
+      [
+        "upfield 的体育用法",
+        "往前场；在较前的位置"
+      ]
+    ],
+    "explanation": "move upfield 向前场推进；a pass upfield 一脚传向前场的球。方向会随双方进攻方向、换边等具体场景理解。",
+    "usage": "run upfield；send the ball upfield。",
+    "contrast": "upfield 向前场，up in the air 到空中；一次贴地传球也可以被送往 upfield。",
+    "examples": [
+      [
+        "The defender sent the ball upfield.",
+        "后卫把球传向前场。"
+      ],
+      [
+        "She ran upfield to support the attack.",
+        "她跑向前场支援进攻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upfield#English"
+    ]
+  }
+]

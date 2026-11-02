@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B2687",
+    "meaning": "空了一块的孔、洞、坑；按用途、形态和比喻分组",
+    "core": "HOLE：实处缺一块，地面凹下去；复杂词前部说明怎样的洞",
+    "image": "hole → holey；loophole/pigeonhole 讲比喻；地面坑、人工孔、动物洞分开；常见粗俗身体词最后注明语域。",
+    "intro": "hulk 的船、庞大人物等支线和冷门 holing、cornhole 等本轮略过。不是所有名字都按两个现代字面词临时拼出，loophole 的 loop、pothole 的 pot 特别讲旧义。",
+    "forms": "hole + -y；旧 loupe/pigeon/worm/sink/pot/bore/pin/peep/port/fox/blow/ass/arse + hole；共有 key/man/water + hole。\n\n古英语孔洞词，抽象缺口与缺陷借同一画面理解。\n\n古英语 hol、holh 等相关材料各自延续；现代 hollow 不是 hole 现场加 low。\n\n按钥匙用途命名的开口，不是门上所有孔的总称。",
+    "branches": [
+      [
+        "基本空洞与比喻",
+        "hole · holey · loophole · pigeonhole · wormhole"
+      ],
+      [
+        "地面凹坑和钻孔",
+        "sinkhole · pothole · borehole · manhole · waterhole"
+      ],
+      [
+        "小孔与观察、船窗",
+        "pinhole · peephole · porthole · keyhole"
+      ],
+      [
+        "动物与呼吸、喷孔",
+        "foxhole · blowhole"
+      ],
+      [
+        "粗俗身体词与辱骂",
+        "asshole · arsehole"
+      ],
+      [
+        "hole → holes：缺了一块、空进去",
+        "hole · holes"
+      ],
+      [
+        "hole 与 hollow：空处、内部有空的",
+        "hole · hollow · hollows"
+      ],
+      [
+        "keyhole → keyholes：让钥匙进入的孔",
+        "hole · keyhole · keyholes"
+      ]
+    ],
+    "contrasts": "hole/whole 同音不同源；holey/holy/wholly 分清；pothole 路坑、porthole 舷窗；wormhole 理论概念与科幻设定区分。",
+    "practice": "Light passed through a pinhole, while a larger porthole revealed the sea.\n\n光穿过一个针孔，更大的舷窗则能望见海面。",
+    "words": [
+      "hole",
+      "holey",
+      "loophole",
+      "pigeonhole",
+      "wormhole",
+      "sinkhole",
+      "pothole",
+      "borehole",
+      "manhole",
+      "waterhole",
+      "pinhole",
+      "peephole",
+      "porthole",
+      "keyhole",
+      "foxhole",
+      "blowhole",
+      "asshole",
+      "arsehole",
+      "holes",
+      "hollow",
+      "hollows",
+      "keyholes"
+    ],
+    "exclude": {
+      "hand-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ash-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arrow-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hulk": "船体、庞大人物等支线本轮暂略；更远词源分析有不同说法，不按现代 hole 简单硬拆。",
+      "gully-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butthole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bung-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "holing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cornhole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "B3254",
+    "meaning": "螺纹旋拧、紧固与解除；压力和古怪的习语",
+    "core": "SCREW：转一圈推进一点，拧紧、松开或扭得不对",
+    "image": "screw → screwed、screwy；unscrew 逆操作；corkscrew 开软木塞；screwball 运动与怪诞比喻。",
+    "intro": "器具的旋转画面容易懂，口语的被坑、搞砸、古怪则要结合旧施压义和约定。词源争议处不靠一个生动传说盖过去。",
+    "forms": "escroue 等 → screw；screw + -ed/-y；un- + screw；cork + screw；screw + ball/driver。\n\n近源经法语螺母材料，远源不定；现代变化本身清楚。\n\nun 表反向解除，完整词加 ed、ing；实际旋转方向看螺纹。",
+    "branches": [
+      [
+        "基本旋拧、状态与逆操作",
+        "screw · screwed · unscrew · screwy"
+      ],
+      [
+        "器具与球的组合",
+        "screwdriver · corkscrew · screwball"
+      ],
+      [
+        "screw 的螺纹动作与工具复合",
+        "screw · screws · screwing · screwdriver · screwdrivers"
+      ],
+      [
+        "unscrew → unscrewed、unscrewing：解除旋紧",
+        "screw · unscrew · unscrewed · unscrewing"
+      ]
+    ],
+    "contrasts": "screw/nail 旋拧与钉入；screwed/screwy 受困与不对劲；screwball 不是医学诊断；corkscrew 不负责所有瓶盖类型。",
+    "practice": "The corkscrew looked screwy, but its screw still turned smoothly.\n\n开瓶器看着有点不对劲，但螺旋部分转得仍很顺。",
+    "words": [
+      "screw",
+      "screwed",
+      "unscrew",
+      "screwy",
+      "screwdriver",
+      "corkscrew",
+      "screwball",
+      "screws",
+      "screwing",
+      "screwdrivers",
+      "unscrewed",
+      "unscrewing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2668",
+    "meaning": "蜂蜜、甜蜜和甜言；蜂房、蜜露与借名",
+    "core": "HONEY：甜蜜感觉能给食物、声音、称呼，也能被用来哄人",
+    "image": "honey → honeyed；honeycomb 巢格；honeydew 蜜露、蜜瓜；honeymoon、honeypot、honeysuckle 按各自组合复习。",
+    "intro": "甜不只是一种味道，也能是关系、言语、诱饵的感觉。植物里的花蜜、虫分泌的蜜露、蜂蜜以及蜜瓜，名字近却不是同一种东西。",
+    "forms": "huniġ → honey；honey + -ed/comb/dew/moon/pot；honeysuckle 有旧吸吮植物名的演变。",
+    "branches": [
+      [
+        "基本蜜与甜言",
+        "honey · honeyed"
+      ],
+      [
+        "蜂房和蜜露借名",
+        "honeycomb · honeydew"
+      ],
+      [
+        "关系、诱饵与植物组合",
+        "honeymoon · honeypot · honeysuckle"
+      ]
+    ],
+    "contrasts": "honey/nectar/honeydew 蜂蜜、花蜜、蜜露分开；honeydew 水果义是省称；honeycomb/hive 巢片与整体住所。",
+    "practice": "She ate honeydew while listening to the singer’s honeyed voice.\n\n她一边吃蜜瓜，一边听歌手甜润的嗓音。",
+    "words": [
+      "honey",
+      "honeyed",
+      "honeycomb",
+      "honeydew",
+      "honeymoon",
+      "honeypot",
+      "honeysuckle"
+    ],
+    "exclude": {
+      "honey-sweet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "comb-honey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "honey-mouthed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

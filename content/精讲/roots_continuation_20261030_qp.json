@@ -1,0 +1,100 @@
+[
+  {
+    "id": "A2077",
+    "meaning": "向上；朝源头、前端；进入直立、更高或更新状态",
+    "core": "UP：从较低、较后或较旧的位置，朝一个上去的方向变化",
+    "image": "upstairs 向楼上，upstream 朝水源，update 把信息推进到现在；这些上不是同一种物理高度，但都保留一个方向参照。",
+    "intro": "up- 来自古英语 up，可独立作副词、介词等，也早用于构词。先认上下的空间画面，再看源头、站立、程度、更新等扩展。许多旧的 up- 动词后来让位给动词 + up，但留下的组合各有固定意思，不能把所有短语和合词当成完全等价。",
+    "forms": "up- + date、stream、turn、standing、field 都有不同搭配。update 名词常 /ˈʌpdeɪt/，动词常 /ʌpˈdeɪt/。uphold 与 hold up、upset 与 set up 各自已有分工，不因两个部分相同就随意交换。downstream 放在 upstream 旁作方向对照，不属于 up- 派生词。\n\nup 与 date 组合，信息、软件等语境共享更新到当前的画面。\n\nup 与 date 的现代组合，动词后重音、名词前重音。\n\n古英语 stream 的本族流动名词，英语动词、媒体传输为后续分支。",
+    "branches": [
+      [
+        "具体空间和朝向",
+        "upstairs · upright · upturned · upland · upfield"
+      ],
+      [
+        "河流和流程方向",
+        "stream · upstream · downstream；upwelling"
+      ],
+      [
+        "改进、更新及传输",
+        "update · upgrade · upload · uptake · uplift"
+      ],
+      [
+        "走势、评价和固定用法",
+        "upturn · uptick · upswing · upsurge；upstanding · upbeat · uphold · upset · upshot"
+      ],
+      [
+        "update → updated：推进到当前状态",
+        "update · updated"
+      ],
+      [
+        "update → updates：把信息推进到当前",
+        "update · updates"
+      ],
+      [
+        "stream → streams：小河与持续传送的内容",
+        "stream · streams"
+      ]
+    ],
+    "contrasts": "update 更新／upgrade 提升能力档次；upstream 上游／downstream 下游；upwelling 向表面上涌；upstanding 人物评价通常说正直，不只说站着。地图的北方不能当作所有 up- 的共同含义。",
+    "practice": "An upstream delay forced us to update the plan before uploading the new version.\n\n上游延误迫使我们先更新计划，再上传新版本。",
+    "words": [
+      "up",
+      "date",
+      "update",
+      "upgrade",
+      "upload",
+      "upstairs",
+      "upright",
+      "upbeat",
+      "hold",
+      "uphold",
+      "uptake",
+      "uplift",
+      "upland",
+      "upstart",
+      "uptick",
+      "upshot",
+      "upsurge",
+      "upswing",
+      "upmarket",
+      "river",
+      "upriver",
+      "root",
+      "uproot",
+      "wind",
+      "upwind",
+      "stage",
+      "upstage",
+      "upend",
+      "uptrend",
+      "upvote",
+      "updraft",
+      "upsell",
+      "updo",
+      "stream",
+      "upstream",
+      "downstream",
+      "stand",
+      "upstanding",
+      "turn",
+      "upturn",
+      "upturned",
+      "well",
+      "upwelling",
+      "field",
+      "upfield",
+      "upset",
+      "updated",
+      "updates",
+      "streams"
+    ],
+    "exclude": {
+      "up-gun": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "up-pulled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "up-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "up-plow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "upregulation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

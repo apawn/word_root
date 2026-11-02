@@ -1,0 +1,161 @@
+[
+  {
+    "id": "B3939",
+    "meaning": "居首、主要；首领和主要部分",
+    "core": "PRINCIPAL：把排在首位的那一个挑出来",
+    "image": "主要原因 → principally 主要地；首领、统治地位 → principality；主要金额 → 本金。",
+    "intro": "同一个居首画面，放在原因里说主要，放在人群里说负责人，放在钱里说本金。公国沿的是统治地位那条历史线。",
+    "forms": "prīnceps/prīncip- → prīncipālis → principal；principal + -ly；prīncipālitās → principalité → principality。\n\nprince 和 principal 等共同接拉丁 princeps、princip- 的首位、领头词族；princess 为相应女性称号。具体称号不能在所有制度里只译王子、公主。\n\nprinciple 经法语接拉丁 principium 开始、基础，与 principal、prince 共享 princeps 等更早材料，现代词义不同。\n\n拉丁开始、居首材料经法语借入，现代原则与 principal 形近同音而词义不同。\n\nprince 经法语接拉丁 princeps 首领，接 primus 第一与 capere 取。现代保留 e 加 -s，末尾 /sɪz/。",
+    "branches": [
+      [
+        "主要与主要地",
+        "principal · principally"
+      ],
+      [
+        "统治地位到领地",
+        "principality"
+      ],
+      [
+        "princeps 的领头者材料与 prince、principal",
+        "prince · princess · principal · principality"
+      ],
+      [
+        "princeps 居首的分支：principle 基础原则",
+        "prince · principal · principle"
+      ],
+      [
+        "principle → principles：开头、基础与原则",
+        "principle · principles"
+      ],
+      [
+        "prim- 第一 + cap- 取 → princes",
+        "princes"
+      ]
+    ],
+    "contrasts": "principal/principle 通常同音，主要的、负责人、本金与原则靠拼写分；principality 不是校长办公室。",
+    "practice": "The report is principally concerned with the principal causes of the crisis.\n\n报告主要讨论危机的主要原因。",
+    "words": [
+      "principal",
+      "principally",
+      "principality",
+      "prince",
+      "princess",
+      "principle",
+      "principles",
+      "princes"
+    ],
+    "exclude": {
+      "vice-principal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3524",
+    "meaning": "否认、拒绝承认及否认余地",
+    "core": "DENY：把某个说法挡回去，说不是这样",
+    "image": "deny → denial 否认；undeniable → undeniably 无可否认；denier 否认者；deniability 否认空间。",
+    "intro": "分清否认正在发生、否认者是谁、有没有可能否认。undeniable 则从另一面说：事实明摆着，难以挡回去。",
+    "forms": "dēnegāre → denier → deny；deny/deniable 与 denial、deniability；un- + deniable → undeniable → undeniably。\n\ndeny 经法语、拉丁 denegare 否认、拒绝，现代辅音字母 + y 改 i 加 -es，末尾 /aɪz/；否认事实与拒绝给予两条常用义分开讲。",
+    "branches": [
+      [
+        "否认与否认者",
+        "deny · denial · denier"
+      ],
+      [
+        "可否认与难以否认",
+        "deniability · undeniable · undeniably"
+      ],
+      [
+        "de- + neg- 说不 → denies",
+        "denies"
+      ]
+    ],
+    "contrasts": "denial/deniability 行为与余地；undeniable 说难否认，不是没人曾经否认；denier 另有纺织计量同形词。",
+    "practice": "He issued a denial, but the signed letter left little deniability.\n\n他发表了否认声明，但签了名的信几乎没给他留下否认余地。",
+    "words": [
+      "deny",
+      "denial",
+      "denier",
+      "deniability",
+      "undeniable",
+      "undeniably",
+      "denies"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3158",
+    "meaning": "标出位置、引用与报价",
+    "core": "QUOTE：先能指出原文在哪，再把原话拿出来",
+    "image": "quote → quotation 引语、报价；quotable 值得引用；misquote 引错；unquote 关上口头引号。",
+    "intro": "旧义从给章节编号、标出处起步，后来走到引原话；商用又能说报价格。不要把每个 quote 都当名人名言。",
+    "forms": "quotus → quotāre → coter/quote；quote + -able；mis- + quote；un- + quote；quotation 是对应名词。",
+    "branches": [
+      [
+        "引用及可引用",
+        "quote · quotation · quotable"
+      ],
+      [
+        "引用中的操作",
+        "misquote · unquote"
+      ]
+    ],
+    "contrasts": "quotable/quoted 值得引与已经引；quote/quotation 都可有报价义；unquote 是口头引文结束标记。",
+    "practice": "The line is quotable, but please do not misquote it.\n\n这句话值得引用，不过请别引错。",
+    "words": [
+      "quote",
+      "quotation",
+      "quotable",
+      "misquote",
+      "unquote"
+    ],
+    "exclude": {
+      "rent-a-quote": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semi-quote": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2678",
+    "meaning": "手指与触摸、指认；手指组成的名称",
+    "core": "FINGER：先看一根手指，再看它做什么",
+    "image": "finger → fingered；finger + nail/tip/print；forefinger 指前面的食指；fingerless 手套让手指出来。",
+    "intro": "手指能摸、能指、能按弦，还会留下指纹。复合词大多很直观，但 finger 自己末尾的 -er 不表做事的人。",
+    "forms": "finger 古英语旧词；finger + -ed/-less；finger + nail/tip/print/board；fore- + finger。\n\nfingers 可说多个手指，也可说某人用手指触弄；ng 后常见 g 音，词尾读 z。",
+    "branches": [
+      [
+        "基本词与动作",
+        "finger · fingered"
+      ],
+      [
+        "指的部位、编号与痕迹",
+        "fingernail · fingertip · forefinger · fingerprint"
+      ],
+      [
+        "工具和衣物",
+        "fingerboard · fingerless"
+      ],
+      [
+        "finger → fingers：手指与用手触弄",
+        "finger · fingers"
+      ]
+    ],
+    "contrasts": "finger/toe 手指与脚趾；fingernail/fingertip 指甲与整个指尖；fingerless gloves 不等于 mittens。",
+    "practice": "She touched the fingerboard with her fingertips, leaving faint fingerprints.\n\n她用指尖碰了指板，留下淡淡的指纹。",
+    "words": [
+      "finger",
+      "fingered",
+      "fingernail",
+      "fingertip",
+      "forefinger",
+      "fingerprint",
+      "fingerboard",
+      "fingerless",
+      "fingers"
+    ],
+    "exclude": {
+      "mid-finger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "finger-pointing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "finger-wag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "finger-wagging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,708 @@
+[
+  {
+    "id": "A2244",
+    "meaning": "土地、地方；某种想象中的世界",
+    "core": "-LAND：给前面的内容一个地方、一片世界",
+    "image": "homeland 是家园，dreamland 像梦中的国度，wonderland 像处处奇景的地方。land 从实在土地扩展到有某种特征的世界。",
+    "intro": "英语本族词 land，经古英语 land、lond 等形式延续。作为复合词后部，它保留地方、地域意义，也进入想象性名称。",
+    "forms": "home + land → homeland；dream + land → dreamland；wonder + land → wonderland。hinterland 是另由德语借入的相邻构词例，不是每个 land 词都在英语里新拼。",
+    "branches": [
+      [
+        "家园与所属地域",
+        "homeland"
+      ],
+      [
+        "梦境和奇妙世界",
+        "dreamland · wonderland"
+      ]
+    ],
+    "contrasts": "dreamland 可指梦乡，也能比喻不切实际的幻想；wonderland 可以夸某地丰富、奇妙。相同后部给地方感，具体色彩来自前半。",
+    "practice": "The garden became a winter wonderland.\n\n花园变成了一片冬日奇境。",
+    "words": [
+      "homeland",
+      "dreamland",
+      "wonderland"
+    ],
+    "exclude": {
+      "sunland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2212",
+    "meaning": "按份、逐次地〔旧词尾〕",
+    "core": "-MEAL：分成小份，一份一份地处理",
+    "image": "一整项工作拆开，每次只做一点，是 piecemeal。这个词尾保留了旧时按份、逐次的表达方式。",
+    "intro": "经中古英语 -mele，接古英语 -mǣlum，来自表示时段、尺度等的旧材料及其格形式。现代主要在 piecemeal 等固定词里认识。",
+    "forms": "piece 一片、一份 + 旧 -meal 按份地 → piecemeal。一块块的画面，又转成零碎处理、缺乏整体安排。",
+    "branches": [
+      [
+        "分次、零碎地进行",
+        "piecemeal"
+      ]
+    ],
+    "contrasts": "piecemeal 可以只陈述分次完成，也常批评修补零散、没有整体规划；具体褒贬看上下文。",
+    "practice": "We need a complete plan rather than piecemeal changes.\n\n我们需要完整方案，不能只零零碎碎地改。",
+    "words": [
+      "piecemeal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2123",
+    "meaning": "敬拜、崇拜",
+    "core": "-LATRY：把某物抬到值得膜拜的位置",
+    "image": "idolatry 最初说对偶像的崇拜；后来也可批评把金钱、名人等看得过分重要。",
+    "intro": "来自希腊 latreia 服侍、敬拜，经晚期拉丁 latria 等进入相关借词与构词材料。英语的典型学习词是 idolatry。",
+    "forms": "idol- 偶像相关材料 + -latry 崇拜 → idolatry；完整词有希腊、拉丁及法语等传承，并非只由现代 idol 现场添后缀。",
+    "branches": [
+      [
+        "宗教崇拜及过度推崇",
+        "idol · idolatry"
+      ]
+    ],
+    "contrasts": "idol 还可以中性说受追捧的偶像，idolatry 往往比普通 admiration 欣赏更强，常有过度崇拜或宗教评价。",
+    "practice": "The essay criticizes the idolatry of wealth.\n\n文章批评了对财富的过度崇拜。",
+    "words": [
+      "idol",
+      "idolatry"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2402",
+    "meaning": "世界、宇宙；有结构的整体",
+    "core": "-COSM：把复杂关系看成一个世界",
+    "image": "一个班级里也有合作、竞争和小团体，因此能像整个社会的 microcosm 缩影；把视线放大，社会又是 macrocosm。",
+    "intro": "接希腊 kosmos 秩序、安排、世界，经学术拉丁语、法语等进入英语。-cosm 是相关借词中可认出的世界材料。",
+    "forms": "micro- 小 + -cosm → microcosm；macro- 大 + -cosm → macrocosm。词义关心整体与缩影的关系，不只是物理尺寸。",
+    "branches": [
+      [
+        "小范围的缩影",
+        "microcosm"
+      ],
+      [
+        "更大的整体",
+        "macrocosm"
+      ]
+    ],
+    "contrasts": "a microcosm of society 是社会缩影：小范围能映出大范围的结构。macrocosm 则说讨论中的大整体或宇宙。",
+    "practice": "The school is a microcosm of the wider society.\n\n这所学校是更广阔社会的缩影。",
+    "words": [
+      "microcosm",
+      "macrocosm"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1674",
+    "meaning": "假、伪、貌似；仿某种形式",
+    "core": "PSEUDO-：外形或称呼像，身份、性质未必是",
+    "image": "pseudoscience 借科学外衣，pseudonym 换一个名字，pseudocode 借代码形式说明步骤；三种语境的评价不同。",
+    "intro": "来自希腊 pseudes 假的、虚假的，较早已进入英语，后成为常用学术、技术构词前部。",
+    "forms": "pseudo- + science → pseudoscience → pseudoscientific；希腊假与名字材料形成 pseudonym 的历史词族；pseudo- + code → pseudocode。",
+    "branches": [
+      [
+        "替代使用的名字",
+        "pseudonym"
+      ],
+      [
+        "冒充科学及相关性质",
+        "pseudoscience · pseudoscientific"
+      ],
+      [
+        "借代码形式说明逻辑",
+        "pseudocode"
+      ]
+    ],
+    "contrasts": "pseudo- 不一律等于欺诈：作者用笔名、程序员写伪代码都可正当而实用。pseudoscience 的否定评价则是词义本身的一部分。",
+    "practice": "The author published the novel under a pseudonym.\n\n作者用笔名出版了这部小说。",
+    "words": [
+      "pseudonym",
+      "pseudoscience",
+      "pseudoscientific",
+      "pseudocode"
+    ],
+    "exclude": {
+      "pseudo-problem": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-type": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-edge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-medicine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-loan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-controversy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-discipline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-socialist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-lesbian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-scholarship": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-skull": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-sophisticated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-compliment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-coordination": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-socialism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-organizational": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-complement": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-borrowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-inspirational": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-empathy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-fascism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-atheism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-linguistics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-acronym": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-archaic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-octave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-colloquial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-innocently": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-telepathy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudoephedrine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-counterexample": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2369",
+    "meaning": "逃离、向外离开",
+    "core": "-FUGE：离开某个中心或对象的命名画面",
+    "image": "centrifuge 的旧命名把中心和逃离放在一起。现代指利用旋转来分离不同成分的离心机，也能作动词。",
+    "intro": "来自拉丁 -fugus 逃离的，联系 fugere 逃离。centrifuge 经法语等科学命名形成，以中心与离开的材料描画旋转效应。",
+    "forms": "centr- 中心 + -fuge 离开 → centrifuge；centrifugal 是相邻形容词，表示离心的、趋离中心的。",
+    "branches": [
+      [
+        "离心装置、操作及相关性质",
+        "centrifuge · centrifugal"
+      ]
+    ],
+    "contrasts": "词源的逃离帮助记方向；centrifuge 的现代核心是旋转分离装置或操作，不能把字面画面当成完整物理解释。",
+    "practice": "The technician placed the sample in a centrifuge.\n\n技术员把样本放进离心机。",
+    "words": [
+      "centrifuge",
+      "centrifugal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2062",
+    "meaning": "昆虫",
+    "core": "ENTOMO-：身体像分成一节一节的昆虫",
+    "image": "蚂蚁、甲虫的身体能看出分节。这个分节的旧命名画面，后来成为 entomology 昆虫学里的昆虫材料。",
+    "intro": "来自希腊 entomon 昆虫，字面联系切入、分成段，指身体分节的外观。近代学科采用 entomo-。",
+    "forms": "entomo- + -logy → entomology；相应人物名 entomologist。-logy 给学科，-logist 给研究者。",
+    "branches": [
+      [
+        "昆虫研究及研究者",
+        "entomology · entomologist"
+      ]
+    ],
+    "contrasts": "entomology 是昆虫学；etymology 是词源学。二者拼写、声音接近，研究对象完全不同，可拿 insect 与 word 对照记。",
+    "practice": "The entomologist identified the insect.\n\n昆虫学家鉴定了这只昆虫。",
+    "words": [
+      "entomology",
+      "entomologist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2158",
+    "meaning": "地图；纸、图表的相邻材料",
+    "core": "CARTO-：把世界铺在纸面或图面上",
+    "image": "cartography 是绘制、研究地图，cartographer 是制图者；想象把道路、河流和边界整理到一张图上。",
+    "intro": "经法语 carte、意大利语 carta 等地图、纸张材料，远接拉丁 charta、希腊 chartes 纸。加连接元音 o 进入近代构词。",
+    "forms": "carto- + -graphy → cartography；cartographer 指制图者；cartographic 是相关形容词。词族有近代欧洲学术命名的借用关系。",
+    "branches": [
+      [
+        "制图学、制图者及相关性质",
+        "cartography · cartographer · cartographic"
+      ]
+    ],
+    "contrasts": "cartography 侧重地图的制作与表达；geography 是地理学，范围更广。cartographic symbols 是地图符号，不能只译作纸张符号。",
+    "practice": "The cartographer chose clear symbols for the new map.\n\n制图者为新地图选用了清楚的符号。",
+    "words": [
+      "cartography",
+      "cartographer",
+      "cartographic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2218",
+    "meaning": "胸、胸部",
+    "core": "STETHO-：从胸部听诊这个用途记器械名",
+    "image": "医生把听诊器贴在胸前，听内部声音。stethoscope 的前部给胸部，后部给观察、检查的器械关系。",
+    "intro": "来自希腊 stethos 胸部，经十九世纪法语 stethoscope 等医学命名进入英语。名称保留早期胸部检查用途。",
+    "forms": "stetho- 胸 + -scope 检查、观察装置 → stethoscope。现代听诊器还可用于其他部位听诊，词源不限制全部用途。",
+    "branches": [
+      [
+        "听诊器",
+        "stethoscope"
+      ]
+    ],
+    "contrasts": "-scope 不一定表示用眼睛看；stethoscope 是借声音检查。它与 microscope 的共同处在检查器械这一命名层面。",
+    "practice": "The doctor listened to his chest with a stethoscope.\n\n医生用听诊器听了听他的胸部。",
+    "words": [
+      "stethoscope"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1715",
+    "meaning": "木、木材",
+    "core": "XYLO-：先抓住木质发声材料",
+    "image": "xylophone 上一排木条长短不同，敲起来音高不同；xylo- 把名字接到木这种材料。",
+    "intro": "来自希腊 xylon 木、木材，经近代学术构词进入乐器及其他名称。xylophone 的开头通常读 /z/。",
+    "forms": "xylo- 木 + -phone 声音 → xylophone。完整词形成于欧洲近代乐器命名，再借入英语。",
+    "branches": [
+      [
+        "木条发声的乐器",
+        "xylophone"
+      ]
+    ],
+    "contrasts": "xylophone 是木琴；glockenspiel 常用金属片。中文口语有时笼统叫小敲琴，英语器械名仍按材料、结构区分。",
+    "practice": "She played a short tune on the xylophone.\n\n她用木琴敲了一段小曲。",
+    "words": [
+      "xylophone"
+    ],
+    "exclude": {
+      "xylose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1737",
+    "meaning": "书、书籍",
+    "core": "BIBLIO-：把兴趣、收藏或场所接到书上",
+    "image": "bibliophile 是爱书的人，bibliography 是书目、参考文献，bibliotheca 则是较书面的藏书、图书馆名称。",
+    "intro": "来自希腊 biblion 书、小书，联系更早纸草卷、书写材料词族。经拉丁语和近代学术命名进入英语。",
+    "forms": "biblio- + -phile 爱好者 → bibliophile；biblio- + -graphy → bibliography；bibliotheca 接书与存放处的希腊组合。",
+    "branches": [
+      [
+        "爱书的人",
+        "bibliophile"
+      ],
+      [
+        "书目、文献与藏书场所",
+        "bibliography · bibliotheca"
+      ]
+    ],
+    "contrasts": "bibliophile 爱书，不一定靠研究书籍谋生；bibliography 是文献、书目，不是 biography 传记。看清 biblio- 的书与 bio- 的生命。",
+    "practice": "The bibliophile carefully examined the old book.\n\n这位爱书人仔细查看了那本旧书。",
+    "words": [
+      "bibliophile",
+      "bibliography"
+    ],
+    "exclude": {
+      "bibliotheca": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2245",
+    "meaning": "声音；某种声音组合或状态",
+    "core": "-PHONY：把前面的特点落到声音上",
+    "image": "cacophony 像几种吵闹声同时涌过来；symphony 则是历史上从共同发声发展出的音乐名称。",
+    "intro": "经法语 -phonie、拉丁 -phonia，接希腊 -phonia、phone 声音。不同完整词在音乐和一般声音描述中分别发展。",
+    "forms": "caco- 不好 + -phony → cacophony → cacophonous；sym- 共同 + -phony 的旧组合 → symphony → symphonic。\n\n借词中的声音材料不能按电话去猜；英语复数是辅音字母后 y 改 i 加 -es。",
+    "branches": [
+      [
+        "杂乱刺耳的声音",
+        "cacophony · cacophonous"
+      ],
+      [
+        "交响乐及相关性质",
+        "symphony · symphonic"
+      ],
+      [
+        "symphony 的多部作品名称",
+        "symphony · symphonies"
+      ]
+    ],
+    "contrasts": "symphony 现代是特定音乐作品、乐团等用语，不是所有悦耳声音；cacophony 则侧重杂乱、刺耳。",
+    "practice": "A cacophony of horns filled the street.\n\n街上响起一片杂乱刺耳的喇叭声。",
+    "words": [
+      "cacophony",
+      "cacophonous",
+      "symphony",
+      "symphonic",
+      "symphonies"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1846",
+    "meaning": "坏、不好；令人不舒服",
+    "core": "CACO-：把不好这一评价接到后面的对象",
+    "image": "cacophony 的对象是声音，组合后就是一片杂乱、刺耳的声响。先想人群、喇叭、机器同时吵起来。",
+    "intro": "来自希腊 kakos 坏的，经拉丁化 caco- 等形式进入英语学术词族。这里只保留实际阅读较有用的声音词族。",
+    "forms": "caco- 不好 + -phony 声音 → cacophony；cacophonous 是相应形容词，形容声音杂乱刺耳。",
+    "branches": [
+      [
+        "杂乱声响与相关形容词",
+        "cacophony · cacophonous"
+      ]
+    ],
+    "contrasts": "cacophony 比普通 noise 更突出多种声音混在一起的不协调感；cacophonous 形容这种声音，不只说音量大。",
+    "practice": "The room was filled with cacophonous chatter.\n\n房间里充满杂乱嘈杂的交谈声。",
+    "words": [
+      "cacophony",
+      "cacophonous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1914",
+    "meaning": "少、少数",
+    "core": "OLIGO-：数量集中在少数几个",
+    "image": "oligopoly 里市场主要掌握在少数企业手中；oligarchy 里权力集中在少数人手中。一个看市场，一个看治理。",
+    "intro": "来自希腊 oligos 少、少量，进入古代政治词及近代经济、科学词。接不同后部，少数这一数量关系保持清楚。",
+    "forms": "oligo- + 表出售的 -poly → oligopoly；olig- + 表治理的 -archy → oligarchy；oligarch 是相关掌权者名称。",
+    "branches": [
+      [
+        "少数人的权力",
+        "oligarch · oligarchy"
+      ],
+      [
+        "少数企业的市场",
+        "oligopoly"
+      ]
+    ],
+    "contrasts": "oligopoly 不要求只剩一家企业；monopoly 才侧重单一主体的垄断。oligarchy 则不直接描述市场企业数量。",
+    "practice": "A few large firms dominate the oligopoly.\n\n少数几家大企业主导着这个寡头市场。",
+    "words": [
+      "oligarch",
+      "oligarchy",
+      "oligopoly"
+    ],
+    "exclude": {
+      "oligonucleotide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2284",
+    "meaning": "出售、交易的历史词族材料",
+    "core": "-POLY：在垄断词族里，从出售关系走向市场结构",
+    "image": "monopoly 让一个主体掌控市场，duopoly 看两家，oligopoly 看少数几家。先分清市场由多少主要卖方控制。",
+    "intro": "接希腊 polein 出售、poleo 我出售的词族。英语在 monopoly 等借词基础上类比形成 duopoly 等名称。这个后部与 poly- 许多来源不同。",
+    "forms": "mono- 单一 + 出售相关材料 → monopoly；duo- 二 + 类比后部 -poly → duopoly；oligo- 少数 + -poly → oligopoly。",
+    "branches": [
+      [
+        "单一主体的市场控制",
+        "monopoly"
+      ],
+      [
+        "两个、少数主要主体",
+        "duopoly · oligopoly"
+      ]
+    ],
+    "contrasts": "poly- 放前面常说许多；-poly 在这组词后面接出售历史。判断构词时要看位置和词族，不能只按连续四个字母猜。",
+    "practice": "The industry changed from a duopoly to an oligopoly.\n\n这个行业从两家主导变成了少数几家主导。",
+    "words": [
+      "monopoly",
+      "duopoly",
+      "oligopoly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2381",
+    "meaning": "诱饵；用来引来注意的内容",
+    "core": "-BAIT：把人的注意力钓过来",
+    "image": "鱼饵引鱼上钩，clickbait 则用标题、封面等引人点开，常暗示内容没有标题吹得那么精彩。",
+    "intro": "英语 bait 诱饵作复合后部，发展出引诱特定行为、反应的内容名称；clickbait 是网络时代的常用组合。",
+    "forms": "click 点击 + bait 诱饵 → clickbait。语法上通常是名词，可修饰 headline、title 等。",
+    "branches": [
+      [
+        "实体诱饵",
+        "bait"
+      ],
+      [
+        "诱导点击的网络内容",
+        "clickbait"
+      ]
+    ],
+    "contrasts": "clickbait 常带贬意，侧重吸引点击胜过内容价值；吸引人的标题不自动都叫 clickbait，是否误导、夸张要看实际内容。",
+    "practice": "The headline was clickbait and had little to do with the article.\n\n那个标题就是骗点击的，和文章内容没多大关系。",
+    "words": [
+      "bait",
+      "clickbait"
+    ],
+    "exclude": {
+      "race-bait": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1840",
+    "meaning": "持续较久、集中进行的活动〔现代类比词尾〕",
+    "core": "-ATHON：把马拉松的持续投入搬到别的活动",
+    "image": "hackathon 把一群人集中起来，在限定时间里做程序、原型或项目。重点是连续投入的活动，不是长跑。",
+    "intro": "从 marathon 马拉松的后半重新切分，得到 -athon，再类比用于其他活动名称。marathon 本身原来来自地名，不是 mar + 一个古希腊活动后缀。",
+    "forms": "marathon → 重新切分出的 -athon；hack 编程探索等 + -athon → hackathon。现代使用中活动主题也可扩展到其他协作问题。",
+    "branches": [
+      [
+        "长距离竞赛及比喻",
+        "marathon"
+      ],
+      [
+        "限时集中协作活动",
+        "hackathon"
+      ]
+    ],
+    "contrasts": "-athon 不能简单等于比赛，也不保证活动一定熬夜、竞争。hackathon 的具体目标、时长由主办安排决定。",
+    "practice": "Our team built a working prototype at the hackathon.\n\n我们团队在编程活动中做出了一个可运行的原型。",
+    "words": [
+      "marathon",
+      "hackathon"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2370",
+    "meaning": "舞蹈；舞蹈编排的历史材料",
+    "core": "CHOREO-：把一连串动作组织成舞蹈",
+    "image": "choreography 是动作怎样安排，choreographer 是编排的人，choreograph 是做这项编排。现代还能形容精心安排一场活动。",
+    "intro": "来自希腊 choreia 舞蹈等，经法语 choreographie 一类命名形成英语 choreography，早期也与记录舞步有关，再发展为编舞。",
+    "forms": "choreo- 舞 + -graphy 记录、编排相关材料 → choreography；choreographer 是人物名；choreograph 的动词用法联系这一词族的逆构。\n\n职业名与动词记录有先后差别；现代三单、过去、-ing 只改变已经固定的 choreograph。",
+    "branches": [
+      [
+        "编排及执行动作",
+        "choreograph"
+      ],
+      [
+        "编舞、编舞者及相关性质",
+        "choreography · choreographer · choreographic"
+      ],
+      [
+        "choreo- 一家的真实词史与现代变化",
+        "choreographer · choreographers · choreograph · choreographs · choreographed · choreographing"
+      ]
+    ],
+    "contrasts": "舞蹈之外 choreograph an event 常说精心安排各环节；比普通 organize 更容易让人想到每一步动作、时机都设计过。",
+    "practice": "The choreographer planned every movement in the final scene.\n\n编舞者设计了最后一幕的每个动作。",
+    "words": [
+      "choreograph",
+      "choreography",
+      "choreographer",
+      "choreographic",
+      "choreographers",
+      "choreographs",
+      "choreographed",
+      "choreographing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2262",
+    "meaning": "圆、旋转",
+    "core": "GYRO-：围绕轴转起来的画面",
+    "image": "gyroscope 的核心画面是旋转轴及方向关系。传统装置常有高速转子，现代同名传感器也能采用其他技术。",
+    "intro": "来自希腊 gyros 圆、圈，进入近代仪器命名。gyroscope 的名称由十九世纪法语相关形式进入英语。",
+    "forms": "gyro- 旋转 + -scope 观察、检测装置 → gyroscope。词尾说仪器，前部给旋转这个研究关系。",
+    "branches": [
+      [
+        "方向、转动相关仪器",
+        "gyroscope"
+      ]
+    ],
+    "contrasts": "gyroscope 不能仅凭词源理解为一切会旋转的东西；它是专门仪器、传感器名称。新型设备不一定能看见一个机械转轮。",
+    "practice": "The device uses a gyroscope to detect changes in orientation.\n\n这个装置用陀螺仪检测朝向的变化。",
+    "words": [
+      "gyroscope"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2248",
+    "meaning": "下面、下方、较低处",
+    "core": "NETHER-：把位置放在下面",
+    "image": "netherworld 是下层世界、冥界，也常比喻隐秘、阴暗的活动世界；名称从下面这一空间关系展开。",
+    "intro": "经中古英语 nither- 等，接古英语 nither 下面、向下的词族。现代不是高频自由造词前缀，主要认识固定词。",
+    "forms": "nether- 下方 + world 世界 → netherworld。由下方的世界，进入冥界及隐秘领域的比喻。",
+    "branches": [
+      [
+        "地下世界及比喻",
+        "netherworld"
+      ]
+    ],
+    "contrasts": "netherworld 常带文学、阴暗或隐秘色彩；不等同于普通 basement 地下室，也不只是一切较低的位置。",
+    "practice": "The novel leads readers into a mysterious netherworld.\n\n小说把读者带入一个神秘的地下世界。",
+    "words": [
+      "netherworld"
+    ],
+    "exclude": {
+      "nether-shirt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "netherland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2279",
+    "meaning": "性质、状态的名词词尾",
+    "core": "-IETY：把某种性质变成可谈论的状态",
+    "image": "propriety 说举止、做法合不合适；impropriety 说失当。先想一个正式场合：做法是否得体。",
+    "intro": "经法语 -iete 相关形式，接拉丁 -ietas 名词词尾。它是历史借词中可认识的性质词尾，现代不必拿它任意造词。",
+    "forms": "拉丁 proprius 自己的、相应的词族 → proprietas → 法语相关形式 → propriety；im- 否定对应 impropriety。property 是相邻历史词族，不是 propriety 的简写。",
+    "branches": [
+      [
+        "合适、得体与失当",
+        "propriety · impropriety"
+      ]
+    ],
+    "contrasts": "propriety 关心行为合宜、规范；property 通常说财产或性质。两词有历史联系，但今天不能互换。",
+    "practice": "She questioned the propriety of accepting the gift.\n\n她质疑收下这份礼物是否合适。",
+    "words": [
+      "propriety",
+      "impropriety"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1720",
+    "meaning": "有若干面的；与立体的面有关",
+    "core": "-HEDRAL：前面数面，后面说明这种立体形态",
+    "image": "tetrahedral 说四面体形，octahedral 说八面体形，polyhedral 则说多面体相关。想象用平面围出一个立体。",
+    "intro": "后部接希腊 hedra 座、底面，在几何中用作面，再加形容词材料 -al。对应名词常用 -hedron。",
+    "forms": "tetra- 四 + -hedral → tetrahedral；octa- 八 + -hedral → octahedral；poly- 多 + -hedral → polyhedral。对应 tetrahedron、octahedron、polyhedron。",
+    "branches": [
+      [
+        "四面体及相关形容词",
+        "tetrahedron · tetrahedral"
+      ],
+      [
+        "八面体及相关形容词",
+        "octahedron · octahedral"
+      ],
+      [
+        "多面体的一般名称",
+        "polyhedron · polyhedral"
+      ]
+    ],
+    "contrasts": "这里数的是面，不是边、角、顶点。hedron 组常是名词，hedral 组常是形容词；先把对象与性质分清。",
+    "practice": "The students built tetrahedral and octahedral models.\n\n学生们搭了四面体和八面体模型。",
+    "words": [
+      "tetrahedron",
+      "tetrahedral",
+      "octahedron",
+      "octahedral",
+      "polyhedron",
+      "polyhedral"
+    ],
+    "exclude": {
+      "dihedral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1712",
+    "meaning": "四",
+    "core": "TETRA-：四个、四重；对象由后部决定",
+    "image": "tetrahedron 的四是四个面，tetralogy 的四是四部作品。前部提供数量，不能自动决定在数什么。",
+    "intro": "来自希腊 tettares、tessares 四的组合形式 tetra-，经借词及学术构词进入英语。与拉丁来源的 quadri- 意义相近，来源不同。",
+    "forms": "tetra- 四 + -hedron 面相关立体 → tetrahedron → tetrahedral；tetra- + -logy 的历史组合 → tetralogy 四部曲。",
+    "branches": [
+      [
+        "四个面的立体",
+        "tetrahedron · tetrahedral"
+      ],
+      [
+        "四部组成的作品系列",
+        "tetralogy"
+      ]
+    ],
+    "contrasts": "tetralogy 常说四部相关作品，不只四个随便并列的单词；tetrahedral 则是形态关系。数字相同，完整词各有用途。",
+    "practice": "The novel is the first volume of a tetralogy.\n\n这部小说是四部曲的第一部。",
+    "words": [
+      "tetrahedron",
+      "tetrahedral",
+      "tetralogy"
+    ],
+    "exclude": {
+      "tetra-amelia": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tetrad": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tetrachloride": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2332",
+    "meaning": "越野竞赛的现代缩短材料",
+    "core": "-CROSS：从越野运动名称中截出后半",
+    "image": "motocross 把摩托与越野结合；supercross 接这一名称再形成相关比赛类型。这里的 cross 抓的是越野赛事背景。",
+    "intro": "由英语 cross-country 越野名称的缩短材料发展；motocross 先在法语中把 moto 与英语材料混合，再借入英语。",
+    "forms": "法语 moto + cross-country 的 cross → motocross；在此词族上再类比形成 supercross。不是所有末尾 cross 都属于这一运动词尾。",
+    "branches": [
+      [
+        "摩托车越野及相关场地赛",
+        "motocross · supercross"
+      ]
+    ],
+    "contrasts": "motocross 常在户外越野赛道；supercross 常在体育场等专设赛道。差别在具体运动、赛事类型，不能只把 super- 译成更厉害。",
+    "practice": "The magazine covers motocross and supercross events.\n\n这本杂志报道摩托车越野赛及超级越野赛。",
+    "words": [
+      "motocross",
+      "supercross"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2174",
+    "meaning": "摩托车相关的缩短材料",
+    "core": "MOTO-：把摩托车这一对象放到前面",
+    "image": "motocross 里的 moto 指摩托车，后面补上越野运动关系。把它想成一辆摩托车进入起伏土赛道。",
+    "intro": "在 motocross 中，前部来自法语 moto，缩自 motocyclette 摩托车。较深处与 motor 运动、发动机词族有关。",
+    "forms": "motocyclette → moto；moto + cross-country 的缩短材料 → 法语 motocross → 英语 motocross。",
+    "branches": [
+      [
+        "摩托车越野名称",
+        "motocross"
+      ]
+    ],
+    "contrasts": "moto- 在这里指摩托车，不是所有运动，也不等于现代英语 motive 动机。读完整赛事名才能知道具体项目。",
+    "practice": "She follows motocross competitions throughout the season.\n\n她整个赛季都关注摩托车越野赛事。",
+    "words": [
+      "motocross"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2388",
+    "meaning": "塑成物、形成的物质；细胞物质相关",
+    "core": "-PLASM：从塑成的材料走进生物学名称",
+    "image": "cytoplasm 是细胞质；ectoplasm 在生物学中可说外层细胞质，另在灵异叙述里成为所谓灵质的名称。后者是另一语境。",
+    "intro": "来自希腊 plasma 塑成的东西，进入近代生物学。plasm、plasma 是相邻形式，不同术语保留不同专门意义。",
+    "forms": "cyto- 细胞 + -plasm → cytoplasm；ecto- 外部 + -plasm → ectoplasm。完整词的用途不能仅凭物质二字替换。",
+    "branches": [
+      [
+        "细胞内的物质、结构名称",
+        "cytoplasm"
+      ],
+      [
+        "外层细胞质与另一文化用法",
+        "ectoplasm"
+      ]
+    ],
+    "contrasts": "cytoplasm 不等于血浆 blood plasma；ectoplasm 的灵异用法描述的是一种声称，不应当作细胞学发现。",
+    "practice": "The diagram shows the nucleus and cytoplasm.\n\n图示标出了细胞核和细胞质。",
+    "words": [
+      "cytoplasm",
+      "ectoplasm"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1865",
+    "meaning": "视觉、看见相关",
+    "core": "OPTO-：把研究或技术接到视觉、光上",
+    "image": "optometry 研究、测量视觉及相关验光服务；optoelectronics 则研究光与电子技术的结合。它们的工作对象和领域不同。",
+    "intro": "来自希腊 optos 可见、看见等视觉词族，经近代学术构词形成 opto-。科学、技术用法又常把对象落到光。",
+    "forms": "opto- + -metry 测量 → optometry；相应人物名 optometrist；opto- + electronics → optoelectronics → optoelectronic。",
+    "branches": [
+      [
+        "视觉测量及从业者名称",
+        "optometry · optometrist"
+      ],
+      [
+        "光与电子的技术关系",
+        "optoelectronics · optoelectronic"
+      ]
+    ],
+    "contrasts": "optometry 与 ophthalmology 名称不同；前者常联系验光、视力服务，后者是眼科学。职业范围要按实际语境认识，不只靠词根猜。",
+    "practice": "The course introduces the basic principles of optoelectronics.\n\n这门课介绍光电子学的基本原理。",
+    "words": [
+      "optometry",
+      "optometrist",
+      "optoelectronics",
+      "optoelectronic"
+    ],
+    "exclude": {}
+  }
+]

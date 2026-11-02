@@ -1,0 +1,116 @@
+[
+  {
+    "id": "B3129",
+    "meaning": "用手操作到处理；执行者与外形组合",
+    "core": "HANDLE：能用手抓的把手，也能把事情接住处理",
+    "image": "既有 handle 先读，再 handling、handler；handlebar、manhandle 共享；panhandle 地形与乞讨两路分讲。",
+    "intro": "handle 不是每个句子都用手触摸。软件 handler 按处理角色命名；地图 panhandle 按锅柄形状。",
+    "forms": "handle + -ing/-er；pan + handle；handle + bar；man + handle。\n\n名词 handle 含 hand 与古老工具名后缀材料，动词接古英语 handlian 用手触、处理。-s 可作名词复数、动词第三人称，词尾 /lz/。",
+    "branches": [
+      [
+        "基本词、活动与执行者",
+        "handle · handling · handler"
+      ],
+      [
+        "身体操控及外形",
+        "handlebar · manhandle · panhandle"
+      ],
+      [
+        "handle → handles：把手与处理的两种现代用法",
+        "handles"
+      ]
+    ],
+    "contrasts": "handling fee 处理费，event handler 事件处理代码；panhandle 不是泛欧洲 pan-；乞讨来源保留不确定。",
+    "practice": "The handler checked the equipment before handling the dog.\n\n带犬人员控制犬只前检查了装备。",
+    "words": [
+      "handle",
+      "handling",
+      "handler",
+      "handlebar",
+      "manhandle",
+      "panhandle",
+      "handles"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2880",
+    "meaning": "撞击、伤害与疼；伤人、无伤和高速冲行",
+    "core": "HURT：身体疼、心里疼；hurtle 留着旧碰撞支线",
+    "image": "hurt → hurtful、unhurt；hurtle 从旧撞击义讲高速冲行，butthurt 最后注明粗俗网络语气。",
+    "intro": "现代 hurt 的身体和感情两路都常用。hurtle 不是无关拼写巧合，但要接旧义，不能从今天疼的感觉硬推高速。",
+    "forms": "hurt—hurt—hurt；hurt + -ful；un- + hurt；旧 hurt + -le；butt + hurt。\n\n与古法语撞击词有关，s 标三单；过去式、分词仍是 hurt。\n\n中古英语与法语撞击词的历史关系，现代 ing 直接加；过去形式仍 hurt。\n\nhurtle 大概是中古英语 hurten 碰撞材料的反复动作形式，现代高速运动不一定真的撞上；hurl 更侧重猛力投掷，不当成同一个词。",
+    "branches": [
+      [
+        "疼痛、伤害与无伤",
+        "hurt · hurtful · unhurt"
+      ],
+      [
+        "旧动作与俚语",
+        "hurtle · butthurt"
+      ],
+      [
+        "hurt → hurts：受到伤害与感到疼",
+        "hurt · hurts"
+      ],
+      [
+        "hurt → hurting：身体、感情受到伤害",
+        "hurt · hurts · hurting"
+      ],
+      [
+        "hurtle：保留 hurt 旧碰撞义的猛冲",
+        "hurt · hurtle · hurtles · hurtled · hurtling"
+      ]
+    ],
+    "contrasts": "hurtful 伤人、hurt 受伤；unhurt 未受伤不等于无事故；hurtle 猛冲、hurl 扔；butthurt 语气粗俗嘲讽。",
+    "practice": "The truck hurtled past, but fortunately everyone remained unhurt.\n\n卡车飞驰而过，所幸大家都没受伤。",
+    "words": [
+      "hurt",
+      "hurtful",
+      "unhurt",
+      "hurtle",
+      "butthurt",
+      "hurts",
+      "hurting",
+      "hurtles",
+      "hurtled",
+      "hurtling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3105",
+    "meaning": "拉、拔、牵引与吸引；活动和工具分清",
+    "core": "PULL：抓住往一个方向拉，也借指吸引和影响",
+    "image": "pull → pulling → puller；固定 pull it off、pull out 直接放常见场景解释。",
+    "intro": "本族旧拉动词延续，远源不强定；工具、运动和魅力比喻靠对象辨认。",
+    "forms": "pull + -ing/-er；pull it off、pull out 等为常用短语。\n\n继承古英语拉、拔词族，方向由 out、away 等补明。\n\n古英语 pullian 本族传承，更远来源不定；现代也说吸引、影响。",
+    "branches": [
+      [
+        "动作、活动和器具",
+        "pull · pulling · puller"
+      ],
+      [
+        "pull → pulled：拉近、拉开与拔出",
+        "pull · pulled"
+      ],
+      [
+        "pull → pulls：往自己这边拉",
+        "pull · pulls"
+      ]
+    ],
+    "contrasts": "pull 拉与 push 推相反；pulling power 可拉力或吸引力；puller 不是 pulley 的简单派生。",
+    "practice": "The puller has enough pulling power to remove the part.\n\n拉拔器有足够的拉力把零件拆下来。",
+    "words": [
+      "pull",
+      "pulling",
+      "puller",
+      "pulled",
+      "pulls"
+    ],
+    "exclude": {
+      "ass-pull": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bell-pull": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

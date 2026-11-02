@@ -5,7 +5,7 @@
     "core": "CERN / CERT / CRET = SEPARATE & DISCERN",
     "image": "想象拿着筛子把混在一起的东西分开：看出区别，可以作判断；选定一个结果，可以变得确定；拿出一份藏在旁边，可以成为秘密。",
     "intro": "这一族以拉丁语 cernere“筛分、分辨、决定”为中心。discern 保留辨别动作，discrete 保留分开的结果，certain 把判断推到确定，secret 把一部分单独藏起。不能仅凭共同字母套意思：concert 一支的更早历史仍有争议，图从能确认的意大利语节点起。",
-    "forms": "**cern-**：cernere 及复合动词，如 discern、secern；concerning 的现在分词来自 concern。\n\n**cret-**：分词等相关形式，如 discrētus、sēcrētus、dēcrētum，对应 discrete、secret、decree。\n\n**cert-**：certus“确定的”与 cernere 的传统词源联系，见 certain、certify；不是把所有 -cert 都机械翻成筛子。\n\n**concert-**：可确认意大利 concertare、concerto 与法语诸词的传播；更早“争执”如何转成“协同”有多种分析，本页保留不确定性。",
+    "forms": "**cern-**：cernere 及复合动词，如 discern、secern；concerning 的现在分词来自 concern。\n\n**cret-**：分词等相关形式，如 discrētus、sēcrētus、dēcrētum，对应 discrete、secret、decree。\n\n**cert-**：certus“确定的”与 cernere 的传统词源联系，见 certain、certify；不是把所有 -cert 都机械翻成筛子。\n\n**concert-**：可确认意大利 concertare、concerto 与法语诸词的传播；更早“争执”如何转成“协同”有多种分析，本页保留不确定性。\n\n涉及义经拉丁、法语发展，英语名词由动词转用。\n\n意大利 concerto 经法语传入，更深拉丁争论词的语义联系仍有疑问。\n\nconcerto 直接借意大利语，与经法语进入的 concert 分开；不能用一个 o 解释音乐会怎样变协奏曲。\n\ncertificate 经法语接拉丁 certificatum 得到证明的东西，接 certus 确定与 facere 做、使。现代名词末尾 -ate 弱读，复数常 /kəts/，区别少见动词读法。",
     "branches": [
       [
         "辨清、定下来",
@@ -34,6 +34,22 @@
       [
         "需保留词源疑问的音乐旁支",
         "concert / concerto / concertina / concertmaster / disconcert"
+      ],
+      [
+        "concern → concerns：涉及、在意与担忧",
+        "concern · concerns"
+      ],
+      [
+        "concert → concerts：协调合奏，再到音乐会",
+        "concert · concerts"
+      ],
+      [
+        "concerto → concertos：协奏曲的多部作品",
+        "concerto · concertos"
+      ],
+      [
+        "cert- 确定 + fic- 使成 → certificate → certificates",
+        "certificates"
       ]
     ],
     "contrasts": "discrete 与 discreet 同音、同源，但现代已经分工：前者是一格格分开的，后者是言行守分寸的。相应副词是 discretely 与 discreetly。\n\ncertainty 是确定状态；ascertainment 是把事实查清的过程；certification 是正式认证；certificate 是证明文件。\n\nsecret 是秘密，secretary 是行政岗位或头衔；secretive 是不愿透露，secretory 是分泌相关。\n\nsecrete 既有分泌义，也有另路发展的藏匿义；excrete 强调向体外排出。两者的生理过程可能相关，不能简单用“有用、没用”二分所有情况。\n\nconcerned about 常说担心，concerned with 常说涉及。concerning 可作“关于”，也可形容令人担忧的情况。\n\nconcert 是音乐会；concerto 是协奏曲；concerted effort 是协调、集中的努力，不要求舞台或乐器。",
@@ -94,7 +110,11 @@
       "concertmaster",
       "disconcert",
       "disconcerted",
-      "disconcerting"
+      "disconcerting",
+      "concerns",
+      "concerts",
+      "concertos",
+      "certificates"
     ]
   }
 ]

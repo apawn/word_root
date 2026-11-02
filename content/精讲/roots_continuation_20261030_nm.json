@@ -1,0 +1,277 @@
+[
+  {
+    "id": "A1887",
+    "meaning": "水；化学构词另有由氢延伸的一支",
+    "core": "HYDRO-：先看水，化学词再判断是否指氢",
+    "image": "水能提供动力、形成环境、托起翼面；hydro- 的化学用法有时联系氢，不能只按一个中文字翻到底。",
+    "intro": "hydropower、hydroelectric 抓水的能量，hydrology 抓水的研究，hydrogel 抓材料中的水。hydrocarbon、hydride、hydrochloride 则需接氢的命名线。",
+    "forms": "希腊 hydōr，词干 hydr-，复合 hydro-；hydrogen 原命名有生成水之意，化学缩合形式 hydro- 因而可接氢。",
+    "branches": [
+      [
+        "水的动力、环境与运动",
+        "hydropower · hydroelectric · hydrology · hydrothermal · hydrostatic · hydrodynamic · hydrodynamics"
+      ],
+      [
+        "水与材料、装置、应用",
+        "hydrogel · hydrofoil · hydrophone · hydroponics · hydrotherapy · hydrophilic · hydrolysis"
+      ],
+      [
+        "化学名称中的氢与相关基团",
+        "hydrocarbon · hydrochloric · hydrochloride · hydride · hydroxide"
+      ]
+    ],
+    "contrasts": "hydrofoil 的 foil 是翼面；hydride 氢化物、hydroxide 氢氧化物、hydrochloride 盐酸盐不能互换。",
+    "practice": "The exhibit shows a hydrofoil, a hydrogel sample, and a chart of metal hydrides.\n\n展览陈列了一片水翼、一份水凝胶样品和一张金属氢化物图表。",
+    "words": [
+      "hydroelectric",
+      "hydrocarbon",
+      "hydroxide",
+      "hydrolysis",
+      "hydropower",
+      "hydrology",
+      "hydrothermal",
+      "hydrochloric",
+      "hydrostatic",
+      "hydrophilic",
+      "hydrodynamic",
+      "hydrotherapy",
+      "hydroponics",
+      "hydrodynamics",
+      "hydrophone",
+      "hydrogel",
+      "hydrofoil",
+      "hydrochloride",
+      "hydride"
+    ],
+    "exclude": {
+      "hydro-geothermal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydroxy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aero-hydro-servo-elasticity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydrocortisone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydrography": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydrofluoric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydroquinone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3618",
+    "meaning": "脚与小腿相接的部位，饰物跟着位置命名",
+    "core": "ANKLE：脚往上接小腿的那一节",
+    "image": "ankle → anklet，从身体部位到戴在这个部位的东西。",
+    "intro": "用 ankle boots、ankle socks 定住位置，再看 anklet 的小饰物名称。它与 bracelet 的造词对应很直观。",
+    "forms": "ancol → ankel、ancle → ankle；去 e + -et，参照 bracelet。\n\n古英语及中古英语的古老关节词，不是现代 angle 加 le。\n\nankle 去 e 加 et 的造词受 bracelet 形式参照，现代整词复数加 s。",
+    "branches": [
+      [
+        "部位与饰物",
+        "ankle · anklet"
+      ],
+      [
+        "ankle → ankles：脚与小腿的关节",
+        "ankle · ankles"
+      ],
+      [
+        "anklet → anklets：脚踝饰物、小袜",
+        "ankle · anklet · anklets"
+      ]
+    ],
+    "contrasts": "ankle 踝部、heel 后跟，不在同一位置；anklet 不是身体部位本身。",
+    "practice": "A small anklet circled her ankle.\n\n一条小脚链环在她的脚踝上。",
+    "words": [
+      "ankle",
+      "anklet",
+      "ankles",
+      "anklets"
+    ],
+    "exclude": {
+      "ankle-biter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4358",
+    "meaning": "把东西推移，工具和游戏顺着动作展开",
+    "core": "SHOVE：给一把推力，让东西往前或往里去",
+    "image": "shove → shoving；shovel 是旧工具名；shuffleboard 保留推滑游戏的命名史。",
+    "intro": "从粗鲁一推到铲雪，再到平面推滑圆片，实际动作把词联系起来。词形历史并不都发生在现代英语阶段。",
+    "forms": "scūfan → shove；shove 去 e + -ing；古英语 scofl → shovel；shove-board → shuffleboard。\n\n古英语 scofl 已有工具名，不把历史后缀当作今天临时添加。\n\nshuffle 可能接 shove 的旧反复形式，或借低地德语；现代洗牌、拖步与重排不是现代 shove 随意换几个字母造出的。\n\nshove 接古英语推、搡的材料，现代 shoved 去不发音 e 加完整 -ed，结尾 /vd/；同轻推 nudge 的力度分开理解。\n\nscuff 最初见于苏格兰拖脚走，来源可能混合，或借北欧推移材料，与 shove 可比较；磨蹭表面义后来发展，不是现代 shove 的规则改写。",
+    "branches": [
+      [
+        "推的动作与活动",
+        "shove · shoving"
+      ],
+      [
+        "工具与游戏",
+        "shovel · shuffleboard"
+      ],
+      [
+        "shovel → shovels：推、铲相关词族的旧工具名",
+        "shove · shovel · shovels"
+      ],
+      [
+        "shuffle 与 shove 的推移材料",
+        "shove · shuffle · shuffles · shuffled · shuffling"
+      ],
+      [
+        "shove：用力推过去、塞进去",
+        "shove · shoves · shoved"
+      ],
+      [
+        "scuff 与推移材料的可能历史联系",
+        "shove · scuff · scuffs · scuffed · scuffing"
+      ]
+    ],
+    "contrasts": "shove 往往比 push 粗鲁、仓促；shovel 铲起移动，不只是徒手推。",
+    "practice": "After shovelling snow, they went inside to play shuffleboard.\n\n铲完雪，他们进屋玩沙狐球。",
+    "words": [
+      "shove",
+      "shoving",
+      "shovel",
+      "shuffleboard",
+      "shovels",
+      "shuffle",
+      "shuffles",
+      "shuffled",
+      "shuffling",
+      "shoves",
+      "shoved",
+      "scuff",
+      "scuffs",
+      "scuffed",
+      "scuffing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3934",
+    "meaning": "气味、音乐质感与另一源头的低落情绪",
+    "core": "FUNK：同形词分路看，音乐中的有味道常是夸奖",
+    "image": "funk、funky 要靠音乐、穿着、气味、心情等场景来辨义。",
+    "intro": "气味词发展出浓烈、接地气的音乐评价，后来形成音乐名称；低落心情义则另有方言源头。两条路线在现代英语碰成同形，不能编成一条因果故事。",
+    "forms": "气味 funk → funky；音乐评价 funky → 音乐名 funk；心情 funk 另有历史。",
+    "branches": [
+      [
+        "音乐、气味与风格",
+        "funk · funky"
+      ]
+    ],
+    "contrasts": "funky rhythm 常夸有律动；smells funky 常嫌气味；in a funk 看心情。",
+    "practice": "She was in a funk until a funky tune made her smile.\n\n她原本闷闷不乐，一段有劲的曲子让她笑了。",
+    "words": [
+      "funk",
+      "funky"
+    ],
+    "exclude": {
+      "funkadelic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3303",
+    "meaning": "切碎混合，再加工；符号名与简称另辨",
+    "core": "HASH：旧材料切碎混一混，再来一次就是 rehash",
+    "image": "hash → rehash；hashtag 把井号与标签接起来。shebang 的历史并非确定由 hash 派生。",
+    "intro": "食物给出切碎混合的画面，重做旧内容给出比喻；计算机用法按函数、结果来理解。现代同形名称不必全部强归一源。",
+    "forms": "hache → hacher → hash；re- 再；hash 符号名 + tag → hashtag；shebang 另看自身词条。",
+    "branches": [
+      [
+        "切碎、散列与重做",
+        "hash · rehash"
+      ],
+      [
+        "符号标签与相关用法对照",
+        "hashtag · shebang"
+      ]
+    ],
+    "contrasts": "hashing 与 encryption 用途不同；rehash 日常常批评没新意，技术语境可中性。",
+    "practice": "The article merely rehashes old ideas and adds a new hashtag.\n\n文章只是重炒旧观点，再添一个新话题标签。",
+    "words": [
+      "hash",
+      "rehash",
+      "hashtag",
+      "shebang"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4572",
+    "meaning": "已处理与未处理，看流程走到了哪一步",
+    "core": "PROCESSED：经过了某一步，un- 把这个状态否定",
+    "image": "processed 与 unprocessed 对照看材料、数据、图像的处理状态。",
+    "intro": "process 本来就是有步骤的过程；processed 把完成相应处理当成状态，unprocessed 则说明那一步尚未进行。",
+    "forms": "process + -ed → processed；un- + processed → unprocessed。",
+    "branches": [
+      [
+        "处理状态的正反对照",
+        "processed · unprocessed"
+      ]
+    ],
+    "contrasts": "已处理、未处理都只说明相应流程，不能单凭词形判断优劣。",
+    "practice": "The unprocessed images were stored beside the processed copies.\n\n未处理图像存放在处理后副本的旁边。",
+    "words": [
+      "processed",
+      "unprocessed"
+    ],
+    "exclude": {
+      "ultra-processed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3990",
+    "meaning": "湿软低地；生长其中的植物又给甜食命名",
+    "core": "MARSH：脚下是潮湿软地，旁边长着湿地植物",
+    "image": "marsh → marshy、marshland；marshmallow 先是植物，再是糖名。",
+    "intro": "土地状态是一支；原料名称转移给食品是另一支。把植物这一步接上，沼泽为何出现在糖的名字里就好理解了。",
+    "forms": "mersc、merisc → marsh；-y 性质，land 土地；marsh + mallow → marshmallow。",
+    "branches": [
+      [
+        "湿地及土地性质",
+        "marsh · marshy · marshland"
+      ],
+      [
+        "植物名转成甜食名",
+        "marshmallow"
+      ]
+    ],
+    "contrasts": "marshy 看土地；marshmallow 糖块与 cotton candy 丝状糖通常不同。",
+    "practice": "The name marshmallow recalls a plant that grows in marshy places.\n\nmarshmallow 这个名字保留了一种长在沼泽地里的植物的痕迹。",
+    "words": [
+      "marsh",
+      "marshy",
+      "marshland",
+      "marshmallow"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4086",
+    "meaning": "借来的是滑行用具名，再说动作和运动者",
+    "core": "SKATE：脚下有冰刀或轮子，身体沿平面滑走",
+    "image": "skate → skater；skateboard、skatepark 给出器具和活动场地。鱼名 skate 另有北欧语源头。",
+    "intro": "借词尾音被当成复数，再拆出单数，是 skate 的有趣历史。现代学习则先看脚下工具，再分清滑行动作、参与者、器具和场地。",
+    "forms": "荷兰 schaats → 英语早期 skates 形式 → skate；去 e + -er；skate + board、park。\n\n器具名的词史借荷兰语 schaats，英语把来源语言的单数误按复数处理，后来回推 skate。动词 skate 去末尾 e 加 -ing；动物 skate 是另一条词线。",
+    "branches": [
+      [
+        "用具、动作与参与者",
+        "skate · skater"
+      ],
+      [
+        "滑板和活动场地",
+        "skateboard · skatepark"
+      ],
+      [
+        "skate → skating：滑冰、溜冰",
+        "skating"
+      ]
+    ],
+    "contrasts": "鱼名 skate 与滑行动词不是同一条近源路线；skater 的具体运动看语境。",
+    "practice": "The skaters carried their skateboards into the skatepark.\n\n滑板爱好者把滑板带进滑板公园。",
+    "words": [
+      "skate",
+      "skater",
+      "skateboard",
+      "skatepark",
+      "skating"
+    ],
+    "exclude": {
+      "skate-around": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

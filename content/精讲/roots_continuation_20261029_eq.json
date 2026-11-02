@@ -1,0 +1,59 @@
+[
+  {
+    "id": "B3757",
+    "meaning": "挑选、摘取与细小工具；腌菜另源",
+    "core": "PICK：取出、选择；PICKLE 腌菜走盐水词源",
+    "image": "pick → picky、picker 紧挨着，再按 toothpick、pickpocket、nitpick 各自对象理解；pickle 单列另源。",
+    "intro": "pick 接挑、啄、刺的古老词，腌菜 pickle 则接低地地区盐水词。拼写相似不是充分同源证据。",
+    "forms": "pick → picky、picker；tooth、pocket、nit 参与挑取组合；共享 pickup；pickle 腌渍另源。\n\n挑、啄、刺的旧词族，更远来源不强作定论；常用小词决定具体动作。\n\n本族挑、啄、刺相关旧词，不把远源猜测写成定论。\n\n挑、啄、刺等旧动作材料，具体远源不强定；名词可指数次选择、拨片等。\n\npick 接挑取工具义，整个词末加 s。",
+    "branches": [
+      [
+        "基本动作与性质、主体",
+        "pick · picky · picker"
+      ],
+      [
+        "工具、人物与琐碎批评",
+        "toothpick · pickpocket · nitpick · pickup"
+      ],
+      [
+        "另源腌渍词",
+        "pickle"
+      ],
+      [
+        "pick → picked：挑取、摘取与各种 pick up",
+        "pick · picked"
+      ],
+      [
+        "pick → picking：挑出、摘取",
+        "pick · picking"
+      ],
+      [
+        "pick → picks：挑选、拨动与选中的东西",
+        "pick · picks · picked · picking"
+      ],
+      [
+        "pick 的器具组合 toothpick 及复数",
+        "pick · toothpick · toothpicks"
+      ]
+    ],
+    "contrasts": "picky 挑剔，picker 选择者或工具；pickle 不拆 pick + -le；nitpick 带过分挑小错的评价。",
+    "practice": "The picky customer used the colour picker to choose an exact shade.\n\n讲究的顾客用颜色选择器选定一个精确色调。",
+    "words": [
+      "pick",
+      "picky",
+      "picker",
+      "toothpick",
+      "pickpocket",
+      "nitpick",
+      "pickup",
+      "pickle",
+      "picked",
+      "picking",
+      "picks",
+      "toothpicks"
+    ],
+    "exclude": {
+      "e-pick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "B3995",
+    "meaning": "做事；行为",
+    "core": "DOING：把做这件事当作活动或行为来谈",
+    "image": "从一个人正在做，转到他做出的事。",
+    "intro": "doing 来自 do 的 -ing 形式。除了正在做，也能名词化表示所做的事；wrongdoing 把 wrong 加在前面，专指不当行为。这里的名词义不应只按时态处理。",
+    "forms": "do → doing；wrong + doing → wrongdoing。doing 作活动名词与作分词，句法位置不同；wrongdoing 通常不可数。",
+    "branches": [
+      [
+        "做与行为",
+        "doing"
+      ],
+      [
+        "不当行为",
+        "wrongdoing"
+      ]
+    ],
+    "contrasts": "What are you doing? 问正在做什么；This was his doing 说这是他干的。wrongdoing 不等于一个无心的 mistake。",
+    "practice": "比较正在做事、某人所为和不当行为三个画面，各用 doing 或 wrongdoing 表达。",
+    "words": [
+      "doing",
+      "wrongdoing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3750",
+    "meaning": "管理；治理",
+    "core": "GOVERN：像掌舵一样引导一个整体",
+    "image": "船有方向，组织和国家也需要有人作决定、定规则。",
+    "intro": "govern 经法语与拉丁 gubernare 传入，远源联系希腊 kubernan 掌舵。government 说政府或治理，governance 更关注治理制度与方式。",
+    "forms": "govern 是动词，government、governance 是相关名词。二者各有法语等历史形式，现代构词联想不能替代各自借入链。\n\n掌舵引导的历史材料帮助理解治理、调控；govern + -ed，现代常见 was governed by 表示由某规则、因素支配。",
+    "branches": [
+      [
+        "实施治理",
+        "govern"
+      ],
+      [
+        "政府与治理方式",
+        "government · governance"
+      ],
+      [
+        "govern → governed：治理与支配的过去形式",
+        "governed"
+      ]
+    ],
+    "contrasts": "government 可以是政府机构；governance 常说决策、问责和管理方式。公司有 governance，并不因此有国家政府。",
+    "practice": "The report examines how the organization is governed and how its governance can improve.\n\n报告考察组织如何受到管理，以及治理方式如何改进。",
+    "words": [
+      "govern",
+      "government",
+      "governance",
+      "governed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2491",
+    "meaning": "政府；治理",
+    "core": "GOVERNMENT：治理的活动，以及实施治理的机构",
+    "image": "从管理一个整体，走到负责管理的一套机构。",
+    "intro": "government 经法语 governement 一类形式进入英语，联系 governer 管理。governmental 再把政府这一名词转成相关形容词。",
+    "forms": "government 可数时常指某一届或某个政府，不可数用法可谈治理；governmental 是政府的。不要把 -mental 切成 mental 心理的。",
+    "branches": [
+      [
+        "机构与活动",
+        "government"
+      ],
+      [
+        "相关属性",
+        "governmental"
+      ]
+    ],
+    "contrasts": "governmental 说政府相关，governance 说治理方式；二者用途不同。",
+    "practice": "用 governmental agency 与 a new government 分别表示政府机构和新政府。",
+    "words": [
+      "government",
+      "governmental"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3649",
+    "meaning": "可能；能够实现",
+    "core": "POSSIBLE：事情能够发生或做成",
+    "image": "先问能不能发生，再问可能性有多大。",
+    "intro": "possible 经法语来自拉丁 possibilis，联系 posse 能够。impossible 否定这种可行或可能，possibly 把可能作为判断的语气。",
+    "forms": "im- 是 in- 在 p 前同化的否定形式；possible + -ly → possibly。possible 不是“概率一定很高”的保证。",
+    "branches": [
+      [
+        "能否实现",
+        "possible · impossible"
+      ],
+      [
+        "判断语气",
+        "possibly"
+      ]
+    ],
+    "contrasts": "possible 是有可能，probable 是较有可能；possibly 的语气通常比 probably 更不确定。",
+    "practice": "It is possible, but I cannot possibly finish it today.\n\n这件事可以做到，但我今天实在不可能完成。",
+    "words": [
+      "possible",
+      "impossible",
+      "possibly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3535",
+    "meaning": "学习；研究",
+    "core": "STUDY：专心查看、练习和思考",
+    "image": "翻书学习，也可以仔细研究一张地图或一个问题。",
+    "intro": "study 经法语和拉丁 studium 的学习、用心一支传来。student 是学习者，但历史上有独立借入形式；understudy 在演出语境指替补演员及学习替演。",
+    "forms": "study → studies／studied；student 不能说成现代 study 随意换尾生成。understudy 的 under- 在这个固定词中联系替补位置。",
+    "branches": [
+      [
+        "活动",
+        "study"
+      ],
+      [
+        "学习者与替补者",
+        "student · understudy"
+      ]
+    ],
+    "contrasts": "study 强调学习、研究过程；learn 强调学会或获取。student 不只限小学生，understudy 也不是普通低年级学生。",
+    "practice": "The student studied the script while the understudy watched the rehearsal.\n\n学生研究剧本，替补演员则观看排练。",
+    "words": [
+      "study",
+      "student",
+      "understudy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2884",
+    "meaning": "已知的；为人所知的",
+    "core": "KNOWN：知道之后，成为已知",
+    "image": "把 know 的动作结果当作一个性质。",
+    "intro": "known 承接 know 的过去分词形式，用作形容词时表示已知或为人所知。unknown 在前面加否定成分，表示未知、不认识或不出名。",
+    "forms": "know–knew–known；un- + known → unknown。known 的 -n 属于历史分词变化，不是一般形容词随意添加的后缀。",
+    "branches": [
+      [
+        "已知与未知",
+        "known · unknown"
+      ]
+    ],
+    "contrasts": "known to someone 是被某人知道；known for something 是因某事出名。unknown 不一定神秘，只可能尚未获知。",
+    "practice": "The cause is unknown, but the effects are well known.\n\n原因未知，但影响众所周知。",
+    "words": [
+      "known",
+      "unknown"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2748",
+    "meaning": "记得；想起；纪念",
+    "core": "REMEMBER：让人或事重新留在心里",
+    "image": "想起一个名字，也可以用仪式纪念一个人。",
+    "intro": "remember 经古法语 remembrer，联系后期拉丁 rememorari 再记起。remembrance 是记忆、纪念或纪念物，不能把 remember 切成重新成为 member。",
+    "forms": "remember 的后半联系 memor 记忆材料；remembrance 有法语相应名词形式。remember doing 与 remember to do 的先后关系不同。",
+    "branches": [
+      [
+        "记住与想起",
+        "remember"
+      ],
+      [
+        "记忆和纪念",
+        "remembrance"
+      ]
+    ],
+    "contrasts": "remember doing 回想做过的事；remember to do 记得去做。remind 是使别人想起，主语角色不同。",
+    "practice": "I remember meeting her, and I keep the letter in remembrance of that day.\n\n我记得见过她，也留着那封信纪念那一天。",
+    "words": [
+      "remember",
+      "remembrance"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3773",
+    "meaning": "过去；经过；超过",
+    "core": "PAST：已经经过，或位于某点之外",
+    "image": "时间已经走过，人在门前也可以经过。",
+    "intro": "past 源于 pass 的过去分词历史形式，后来成为独立的形容词、名词、介词或副词。现代 past 和 passed 虽同音，句法职责不同。",
+    "forms": "past 可说 the past、past experience、walk past the door；passed 是 pass 的动词过去式或过去分词。",
+    "branches": [
+      [
+        "时间与空间的经过",
+        "past"
+      ]
+    ],
+    "contrasts": "He passed the door 与 He walked past the door 都可表达经过，但前者 passed 是动词，后者 past 位于 walked 后作介词。",
+    "practice": "分别用 the past、past midnight、walk past 三个搭配理解名词与位置关系。",
+    "words": [
+      "past"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2697",
+    "meaning": "可获得；有空；可用",
+    "core": "AVAILABLE：轮到需要时拿得到、用得上",
+    "image": "房间能订到、工具能使用、某人有时间，都属于可供使用。",
+    "intro": "available 联系 avail 的有用、起作用一支，形成能供利用的意思。availability 名词化谈可用程度，unavailable 否定获取或使用条件。",
+    "forms": "available + -ity → availability；un- + available → unavailable。可用不等于免费，也不等于当前一定适合某个人。",
+    "branches": [
+      [
+        "可用与不可用",
+        "available · unavailable"
+      ],
+      [
+        "可用程度或时间",
+        "availability"
+      ]
+    ],
+    "contrasts": "available 是能拿到、能安排；accessible 更强调能接近或使用。一个 available room 也可能价格很高。",
+    "practice": "Please check room availability and tell me when you are available.\n\n请查一下空房情况，并告诉我你什么时候有空。",
+    "words": [
+      "available",
+      "availability",
+      "unavailable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2510",
+    "meaning": "政治的；涉及公共权力的",
+    "core": "POLITICAL：围绕公共决策、权力与立场",
+    "image": "同一项决定会牵动不同群体的利益和权力关系。",
+    "intro": "political 联系 politic 与 -al，远源经过希腊城市、公民和治理词族。politically 转成副词；geopolitical 加入地理因素；apolitical 说不涉政治或对政治不感兴趣。",
+    "forms": "political → politically；geo- + political → geopolitical；a- + political → apolitical。geopolitical 是整体的地缘政治概念，不只是地图好看。",
+    "branches": [
+      [
+        "政治相关",
+        "political · politically"
+      ],
+      [
+        "地理与回避政治",
+        "geopolitical · apolitical"
+      ]
+    ],
+    "contrasts": "political 不等于 polite 礼貌；apolitical 也不等于对所有事情都没有观点。",
+    "practice": "The report examines political decisions and their geopolitical consequences.\n\n报告考察政治决定及其地缘政治后果。",
+    "words": [
+      "political",
+      "politically",
+      "geopolitical",
+      "apolitical"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2758",
+    "meaning": "拯救；节省；保存",
+    "core": "SAVE：让人或东西免于损失",
+    "image": "救人免于危险，省钱免于花掉，存文件免于丢失。",
+    "intro": "save 经法语和拉丁 salvare 的保全义进入英语。现代 saving 可表示节省的量、储蓄或挽救作用；saver 是节省者或节省资源的东西。",
+    "forms": "save → saving 时去掉词尾不发音 e；save + -er → saver。savings 常指积蓄，不能把所有 saving 都解释成正在保存。\n\n与 save 比较节省，不是拉丁 salvare 的后代。spare 承古英语 sparian 不伤害、节省使用等材料，备用、匀出等用法各自发展。",
+    "branches": [
+      [
+        "保全与节省",
+        "save"
+      ],
+      [
+        "节省结果与工具",
+        "saving · saver"
+      ],
+      [
+        "spare：留着不用尽，也让人免受某事",
+        "spare · spares · spared · sparing · sparingly"
+      ]
+    ],
+    "contrasts": "save money 是省钱或存钱，save a file 是保存；rescue 更集中于从危险中救出。搭配决定具体中文。",
+    "practice": "This time saver helped us save an hour and produced a real saving.\n\n这个省时工具帮我们省了一小时，确实节约了时间。",
+    "words": [
+      "save",
+      "saving",
+      "saver",
+      "spare",
+      "spares",
+      "spared",
+      "sparing",
+      "sparingly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2979",
+    "meaning": "坐；坐着；任职或开会",
+    "core": "SIT：身体处于坐姿，也可以坐在某个位置履职",
+    "image": "坐在椅子上，或坐到议会、评审席上工作。",
+    "intro": "sit 是古英语 sittan 传下的本源词。sitting 可指坐着的状态、一场会议或一段坐着完成的活动；sitter 是坐着的人，也发展出照看者等固定用法。",
+    "forms": "sit–sat–sat；sitting、sitter 双写 t。sitting president 的现任义来自处于该席位，不是说总统此刻一定坐着。\n\nsit → sat → sat；与 set 的放置动作不要混淆。\n\n古英语 sittan 的本族传承，与拉丁 sedere 是远源亲属，不是拉丁直接变成 sit。",
+    "branches": [
+      [
+        "动作与状态",
+        "sit"
+      ],
+      [
+        "一段活动及相关人",
+        "sitting · sitter"
+      ],
+      [
+        "坐下、坐着的过去与分词 sat",
+        "sit · sat"
+      ],
+      [
+        "sit → sits：坐着与处在某位置",
+        "sit · sits · sat · sitting"
+      ]
+    ],
+    "contrasts": "sit 通常不及物，seat someone 是安排某人坐下。sitter 可指照看孩子的人，不能只译成坐者。",
+    "practice": "We sat through the whole sitting while the sitter looked after the children.\n\n我们坐着参加了整场会议，保姆则照看孩子。",
+    "words": [
+      "sit",
+      "sitting",
+      "sitter",
+      "sat",
+      "sits"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2984",
+    "meaning": "花费；度过；耗用",
+    "core": "SPEND：把有限的钱、时间或精力用出去",
+    "image": "预算和一天的时间都会随着使用而减少。",
+    "intro": "spend 经古英语的花费词传下，更远联系拉丁 expendere 称出、支付。spending 是花费活动，spender 是花钱的人；overspend 是花超，spendthrift 却表示挥霍者。",
+    "forms": "spend–spent–spent；spend money on、spend time doing。spendthrift 的历史 thrift 联系财产、所得，不能按现代节俭义望文生义。\n\n古英语旧借词有拉丁与法语相关传播分析，现代三单保留 d。\n\nspend 加 thrift，thrift 在旧组合里联系财富、所得；不是现代节俭义加 spend 得到节俭花钱者。现代指挥霍的人。",
+    "branches": [
+      [
+        "花费及参与者",
+        "spend · spending · spender"
+      ],
+      [
+        "超过限度",
+        "overspend · spendthrift"
+      ],
+      [
+        "spend → spends：花出去、用掉，也度过时间",
+        "spend · spends"
+      ],
+      [
+        "spendthrifts：把财富花掉的人",
+        "spendthrift · spendthrifts"
+      ]
+    ],
+    "contrasts": "spendthrift 是挥霍的人，thrifty 才是节俭的。spend 与 cost 的主语也不同：人 spend，事情 cost。",
+    "practice": "A careful spender checks spending and tries not to overspend.\n\n谨慎花钱的人检查支出，尽量不超支。",
+    "words": [
+      "spend",
+      "spending",
+      "spender",
+      "overspend",
+      "spendthrift",
+      "spends",
+      "spendthrifts"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4096",
+    "meaning": "成功的；达到目标的",
+    "core": "SUCCESSFUL：事情达到预期目标",
+    "image": "先明确想完成什么，再判断有没有成功。",
+    "intro": "successful 由 success 加 -ful，表示取得成功。successfully 将它用于动作方式或结果；unsuccessful 否定这次或这个方面的成功。",
+    "forms": "success + -ful → successful，后缀只有一个 l；successful + -ly → successfully。unsuccessful 不一定评价一个人的全部人生。",
+    "branches": [
+      [
+        "结果及方式",
+        "successful · successfully"
+      ],
+      [
+        "未能达成目标",
+        "unsuccessful"
+      ]
+    ],
+    "contrasts": "successful 不等于幸存的 surviving。一次 unsuccessful attempt 也可能带来有用的信息。",
+    "practice": "The first attempt was unsuccessful, but the team completed the second successfully.\n\n第一次尝试未成功，但团队顺利完成了第二次。",
+    "words": [
+      "successful",
+      "successfully",
+      "unsuccessful"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4081",
+    "meaning": "服务；提供；履行作用",
+    "core": "SERVE：为人做事，或让某物发挥用途",
+    "image": "端上饭菜、服务客户、一台机器提供数据，都是不同对象的服务。",
+    "intro": "serve 经法语来自拉丁 servire 服务，联系 servus 仆从一支。server 可是人也可是设备；servant 多指仆人或受雇服务者；servitude 强调受役使的状态。",
+    "forms": "serve + -er → server；servant、servitude 有自己的法语、拉丁借入历史。serve as 是充当，serve food 是端上。\n\n古法语 servant 是 servir 的分词，职业名有独立借入史。\n\nserviette 借法语，远源不清；常联系 servir，但不能把这条推测写成已证实的唯一构词。",
+    "branches": [
+      [
+        "动作与执行者",
+        "serve · server"
+      ],
+      [
+        "身份与受役状态",
+        "servant · servitude"
+      ],
+      [
+        "servant → servants：服务、服侍的人",
+        "serve · servant · servants"
+      ],
+      [
+        "餐巾名 serviette 与 serve 的候选历史联系",
+        "serve · serviette · serviettes"
+      ]
+    ],
+    "contrasts": "server 不一定是人，servitude 也不是普通优质 service；词根共同不代表语气相同。",
+    "practice": "The server serves the files, while the article discusses servants and servitude in history.\n\n服务器提供文件，而文章讨论历史中的仆人和受役状态。",
+    "words": [
+      "serve",
+      "server",
+      "servant",
+      "servitude",
+      "servants",
+      "serviette",
+      "serviettes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3276",
+    "meaning": "个人；单独个体",
+    "core": "INDIVIDUAL：把整体中的一个单独拿出来看",
+    "image": "人群里每个人有自己的身份与特点。",
+    "intro": "individual 的历史来源联系不可分的一体，后成为单独个体的名称。individually 分别地，individuality 个性，individualism 个人主义，individualist 指相应立场的人。",
+    "forms": "individual + -ity、-ism、-ist 形成不同名词；individualistic 是相关形容词。历史 in- 的不可分义不表示现代 individual 不能被单独分析。",
+    "branches": [
+      [
+        "个体与分别处理",
+        "individual · individually"
+      ],
+      [
+        "个性与思想立场",
+        "individuality · individualism · individualist · individualistic"
+      ]
+    ],
+    "contrasts": "individuality 是独特个性，individualism 是思想或行为倾向；有个性不自动等于持个人主义立场。",
+    "practice": "The teacher spoke to each individual separately and respected their individuality.\n\n老师分别与每个人交谈，并尊重他们的个性。",
+    "words": [
+      "individual",
+      "individually",
+      "individuality",
+      "individualism",
+      "individualist",
+      "individualistic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4244",
+    "meaning": "防御；辩护",
+    "core": "DEFENSE：挡住攻击，也为主张作解释",
+    "image": "球门要守住，受到质疑的观点也需要理由保护。",
+    "intro": "defense 经法语和拉丁防御一支传来；英式常拼 defence。defensive 描述防守或戒备，defenseless 是无防御的，defensible 是可以辩护的。",
+    "forms": "defense／defence 是拼写变体；defensible 不等于从名词 defense 后简单加 -able，现代使用 -ible 形式。",
+    "branches": [
+      [
+        "防守与反应",
+        "defense · defensive"
+      ],
+      [
+        "有无保护和理由",
+        "defenseless · defensible"
+      ]
+    ],
+    "contrasts": "defensive 常说处于防守或过度戒备；defensible 说有理由可以支持。一个 defensive answer 未必 defensible。",
+    "practice": "The argument is defensible, but his defensive tone made discussion harder.\n\n论点有理由支持，但他戒备的语气让讨论更困难。",
+    "words": [
+      "defense",
+      "defensive",
+      "defenseless",
+      "defensible"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3540",
+    "meaning": "依赖的；取决于",
+    "core": "DEPENDENT：一头挂在另一头上",
+    "image": "没有某个条件，这件事就难以独立成立。",
+    "intro": "dependent 的历史联系悬挂、依靠。dependency 说依赖关系、依赖项或属地等具体义；independent 否定依赖，interdependent 表示彼此依存。",
+    "forms": "depend on；dependent on；in- + dependent → independent；inter- + dependent → interdependent。dependency 在不同领域有专门所指。",
+    "branches": [
+      [
+        "依赖与关系名",
+        "dependent · dependency"
+      ],
+      [
+        "独立与相互依赖",
+        "independent · interdependent"
+      ]
+    ],
+    "contrasts": "dependent 是依赖的形容词，depend 是动词；interdependent 不表示双方已无联系。",
+    "practice": "The two systems are interdependent, even though their teams are independent.\n\n两个系统相互依存，尽管负责团队各自独立。",
+    "words": [
+      "dependent",
+      "dependency",
+      "independent",
+      "interdependent"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3707",
+    "meaning": "诚实；坦诚",
+    "core": "HONEST：不欺骗，也愿意把实话说出来",
+    "image": "话与事实对得上，而不是只挑好听的说。",
+    "intro": "honest 经法语与拉丁 honor 的荣誉、体面一支传入，现代重点是诚实。honestly 作副词也能引出坦率评价，dishonest 是不诚实的。",
+    "forms": "honest 的 h 不发音，所以说 an honest answer；honestly 也保留这一读音特点。dis- + honest → dishonest。",
+    "branches": [
+      [
+        "诚实与否定",
+        "honest · dishonest"
+      ],
+      [
+        "方式和语气",
+        "honestly"
+      ]
+    ],
+    "contrasts": "honest 不保证判断一定正确；人可以诚实但弄错。honestly 作句首语气词也不总是在宣誓。",
+    "practice": "Honestly, I do not know, but I will give you an honest answer when I find out.\n\n坦白说我不知道，查清后会如实回答你。",
+    "words": [
+      "honest",
+      "honestly",
+      "dishonest"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2429",
+    "meaning": "产品；产物；成果",
+    "core": "PRODUCT：做出来、产生出来的东西",
+    "image": "工厂产出商品，反应产出物质，计算也产出结果。",
+    "intro": "product 经法语、拉丁 productum 传来，远接 producere 带出、产生。productive 表示能产出、富有成效，不只表示忙碌。",
+    "forms": "product 是名词，productive 是形容词；productivity 则是生产率等抽象名词，不在本页词表另列。不要把 productive 理解成所有物品本身。",
+    "branches": [
+      [
+        "产物",
+        "product"
+      ],
+      [
+        "产出的能力与效果",
+        "productive"
+      ]
+    ],
+    "contrasts": "product 在数学中可指乘积，不能处处译产品。productive day 说有成果的一天，不只是行程排满。",
+    "practice": "A productive discussion helped the team improve the product.\n\n富有成效的讨论帮助团队改进了产品。",
+    "words": [
+      "product",
+      "productive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2514",
+    "meaning": "欢迎；受欢迎的",
+    "core": "WELCOME：乐于接纳到来的人或事",
+    "image": "门打开，主人愿意让来客进来。",
+    "intro": "welcome 源于古英语的欢迎、乐于到来相关形式，历史不只是把现代 well 与 come 随意拼合。welcoming 说热情接纳，unwelcome 说不受欢迎。",
+    "forms": "welcome 可作动词、名词、形容词或感叹语；welcoming 是分词及形容词，un- 表示否定。",
+    "branches": [
+      [
+        "欢迎及性质",
+        "welcome · welcoming"
+      ],
+      [
+        "不受接纳",
+        "unwelcome"
+      ]
+    ],
+    "contrasts": "You are welcome 可以回应感谢，也可表示欢迎；a welcoming room 是让人感到舒适受接纳的房间，不是房间在说话。",
+    "practice": "The staff gave us a warm welcome and created a welcoming atmosphere.\n\n工作人员热情欢迎我们，营造了亲切的氛围。",
+    "words": [
+      "welcome",
+      "welcoming",
+      "unwelcome"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2626",
+    "meaning": "岛；岛民",
+    "core": "ISLAND：被水围住的一片陆地",
+    "image": "水面绕着陆地，住在上面的人有相应名称。",
+    "intro": "island 来自古英语岛的本源词；现代拼写的 s 是后来受 isle 一类形式影响加入，不发音。islander 则在英语中由 island 加 -er。",
+    "forms": "island 读音不含 /s/；island + -er → islander。isle 与 island 的拼写互相影响不代表两个词原本来自完全相同的直接来源。",
+    "branches": [
+      [
+        "地形与居民",
+        "island · islander"
+      ]
+    ],
+    "contrasts": "islander 是岛上居民，不等于 Ireland 爱尔兰；island 与 inland 内陆的读音、意义也要分清。",
+    "practice": "The islanders worked together to protect their island.\n\n岛民共同努力保护他们的岛。",
+    "words": [
+      "island",
+      "islander"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4325",
+    "meaning": "对待；处理；治疗",
+    "core": "TREATMENT：把对待或处理作为一项过程",
+    "image": "同一个动作可对人表现态度，也可对材料作加工。",
+    "intro": "treatment 经法语相关名词进入，联系 treat 对待、处理。pretreatment 在前加 pre-，表示正式步骤之前的预处理。",
+    "forms": "treatment 有治疗、待遇、处理等语境义；pre- 是事先，不自动表示一定与医学有关。",
+    "branches": [
+      [
+        "处理与对待",
+        "treatment"
+      ],
+      [
+        "前置步骤",
+        "pretreatment"
+      ]
+    ],
+    "contrasts": "treatment 不必是药物治疗；water treatment 是水处理，fair treatment 是公平对待。",
+    "practice": "The material needs pretreatment before the final surface treatment.\n\n这种材料在最后表面处理前需要预处理。",
+    "words": [
+      "treatment",
+      "pretreatment"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2506",
+    "meaning": "无线电；广播",
+    "core": "RADIO：借电磁波传递信号",
+    "image": "信号在空间传播，一端发送，另一端接收。",
+    "intro": "radio 在现代通信命名中联系 radiation 一支的缩短形式，成为独立词。radiotelephone 把无线电与电话组合，描述通信方式。",
+    "forms": "radio 可作名词、修饰语或动词；radiotelephone 不等于所有电话，radio 在这里标出无线通信手段。",
+    "branches": [
+      [
+        "信号与媒介",
+        "radio"
+      ],
+      [
+        "复合设备名称",
+        "radiotelephone"
+      ]
+    ],
+    "contrasts": "radio 不只指收听节目的机器；radio signal、radio contact 都在谈通信。",
+    "practice": "The ship maintained radio contact using a radiotelephone.\n\n船只用无线电话保持无线电联系。",
+    "words": [
+      "radio",
+      "radiotelephone"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4137",
+    "meaning": "伙伴；合伙人；搭档",
+    "core": "PARTNER：共同参与一件事的人",
+    "image": "不是只站在一起，而是分担任务、利益或责任。",
+    "intro": "partner 的历史联系 part 的部分、分有一份一支，并受相关词形影响。partnership 把伙伴关系或合伙安排名词化。",
+    "forms": "partner 可作名词或动词；partner with 是与……合作。partnership 在商业语境可有具体组织含义，不能只当一般友情。\n\n中古英语形式受 part 影响定形，现代伙伴、合伙人等义按语境分。",
+    "branches": [
+      [
+        "参与者与关系",
+        "partner · partnership"
+      ],
+      [
+        "partner → partners：共同有份的人",
+        "partner · partners"
+      ]
+    ],
+    "contrasts": "partner 是参与角色，friend 是朋友；商业搭档不一定是私人好友，伴侣义也要看语境。",
+    "practice": "The two partners built a successful partnership.\n\n两位合伙人建立了成功的合作关系。",
+    "words": [
+      "partner",
+      "partnership",
+      "partners"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3490",
+    "meaning": "独立；不依赖",
+    "core": "INDEPENDENT：能作自己的决定或单独成立",
+    "image": "决定不由另一方替你作，运作也不全靠另一方支持。",
+    "intro": "independent 在 dependent 前加否定成分，历史画面是“不挂在另一方上”。independently 作副词表示独立地、各自地。",
+    "forms": "independent of、independently of 都可描述不受某条件支配；后者修饰动作或判断。不同语境的独立范围需要说明。",
+    "branches": [
+      [
+        "性质与方式",
+        "independent · independently"
+      ]
+    ],
+    "contrasts": "independent 不等于 isolated 孤立；能够独立仍可与别人合作。",
+    "practice": "The two teams worked independently and reached the same conclusion.\n\n两个团队独立工作，得出了同样的结论。",
+    "words": [
+      "independent",
+      "independently"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2523",
+    "meaning": "计算机；计算者",
+    "core": "COMPUTER：执行计算的角色，后来成为机器名",
+    "image": "先有人负责计算，后来机器承担越来越多计算工作。",
+    "intro": "computer 在英语中由 compute 加 -er，早期也可指计算者。supercomputer 强调高性能计算系统，microcomputer 是按微处理器等技术背景命名的一类计算机。",
+    "forms": "compute 去词尾 e 后加 -er；super-、micro- 修改系统类型或技术尺度，不能只按外壳大小判断。",
+    "branches": [
+      [
+        "基本名称",
+        "computer"
+      ],
+      [
+        "不同技术类别",
+        "supercomputer · microcomputer"
+      ]
+    ],
+    "contrasts": "supercomputer 不等于任意昂贵电脑，microcomputer 也不是所有体积特别小的设备；名称有技术发展背景。",
+    "practice": "The museum displays an early microcomputer beside information about a supercomputer.\n\n博物馆展示一台早期微型计算机，旁边介绍超级计算机。",
+    "words": [
+      "computer",
+      "supercomputer",
+      "microcomputer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3282",
+    "meaning": "安全；免于伤害的状态",
+    "core": "SAFETY：危险得到控制后的安全状态",
+    "image": "检查护栏、流程与设备，是为了让人不受伤害。",
+    "intro": "safety 经法语安全名词一支传入，与 safe 联系。biosafety 加入 bio- 生物，谈生物研究、材料或活动中的安全。",
+    "forms": "safe 是形容词，safety 是名词；biosafety 是专业复合词，不是任意“对生物好”的泛称。",
+    "branches": [
+      [
+        "安全状态",
+        "safety"
+      ],
+      [
+        "生物相关安全",
+        "biosafety"
+      ]
+    ],
+    "contrasts": "safety 常关注免于意外伤害等，security 的范围和侧重点随场景不同；二者不能处处一一替换。",
+    "practice": "The course covers laboratory safety, including biosafety.\n\n课程讲实验室安全，其中包括生物安全。",
+    "words": [
+      "safety",
+      "biosafety"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2798",
+    "meaning": "单位；单元；一个整体",
+    "core": "UNIT：把一个东西作为计数或组织的基本份",
+    "image": "一组积木可以看成一个单元，单元内部又有小单元。",
+    "intro": "unit 的形成联系拉丁 unus 一的命名传统。unitary 表示单一整体或统一体制的，subunit 表示较大单位中的组成单元。",
+    "forms": "unit 是名词，unitary 是形容词；sub- 在 subunit 中表示下一级，不必指空间下面。",
+    "branches": [
+      [
+        "计数与整体",
+        "unit · unitary"
+      ],
+      [
+        "内部组成",
+        "subunit"
+      ]
+    ],
+    "contrasts": "unit 是一个单位，unity 是统一、团结或整体性；unitary 在政治和数学中各有专业用法。",
+    "practice": "The unit contains several smaller subunits.\n\n这个单元包含几个较小的子单元。",
+    "words": [
+      "unit",
+      "unitary",
+      "subunit"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3816",
+    "meaning": "少见；稀有",
+    "core": "RARE：出现得少，不容易遇到",
+    "image": "同一条街每天能见到的，与几年才见一次的不同。",
+    "intro": "rare 经法语接拉丁 rarus 稀疏、少见一支。rarely 将“少见”转成频率，rarity 可说稀少状态或罕见之物。肉类几分熟的 rare 有另一条来源，逐词讲解中分开。",
+    "forms": "rare + -ly → rarely；rare 对应名词 rarity。rarity 可数时指一件罕见事物，不可数时谈稀少。",
+    "branches": [
+      [
+        "性质与频率",
+        "rare · rarely"
+      ],
+      [
+        "稀少状态或罕见物",
+        "rarity"
+      ]
+    ],
+    "contrasts": "rarely 是很少，barely 是几乎不、勉强；两者不是随意互换的否定词。",
+    "practice": "Such a rare book is rarely offered for sale.\n\n这样罕见的书很少出售。",
+    "words": [
+      "rare",
+      "rarely",
+      "rarity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4309",
+    "meaning": "典型；有代表性",
+    "core": "TYPICAL：能看出一类事物的常见特点",
+    "image": "拿出一个例子，能让人想到这一类的通常样子。",
+    "intro": "typical 经古典形式联系 type 的印记、类型一支。typically 表示通常或典型地；atypical 表示不符合通常特征。",
+    "forms": "typical + -ly → typically；a- + typical → atypical。a- 在这里是否定，不是表示一个的冠词。",
+    "branches": [
+      [
+        "典型与通常",
+        "typical · typically"
+      ],
+      [
+        "偏离常态",
+        "atypical"
+      ]
+    ],
+    "contrasts": "typical 不保证每个成员都如此，atypical 也不自动表示错误或不好；它们是相对某类通常特征而言。",
+    "practice": "The first example is typical, while the second is deliberately atypical.\n\n第一个例子很典型，第二个刻意选得不典型。",
+    "words": [
+      "typical",
+      "typically",
+      "atypical"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2221",
+    "meaning": "昨日；从前",
+    "core": "YESTER：把时间指向已经过去的一段",
+    "image": "最直接是昨天，也能拉远成从前的岁月。",
+    "intro": "yester- 承接古英语昨日相关成分，在 yesterday 中很常见；yesteryear 在现代常带文学或怀旧语气，指往昔。",
+    "forms": "yesterday 是普通时间词；yesteryear 虽含 year，现代不一定严格等于上一公历年。不要由字面推出固定日期。",
+    "branches": [
+      [
+        "昨天",
+        "yesterday"
+      ],
+      [
+        "往昔岁月",
+        "yesteryear"
+      ]
+    ],
+    "contrasts": "last year 通常明确指去年，yesteryear 往往泛指过去、旧时。",
+    "practice": "Yesterday we looked at photographs of the stars of yesteryear.\n\n昨天我们看了昔日明星的照片。",
+    "words": [
+      "yesterday",
+      "yesteryear"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3226",
+    "meaning": "划分；部分；部门",
+    "core": "DIVISION：分开的动作和分出来的部分",
+    "image": "把整体划开，每块有自己的边界和用途。",
+    "intro": "division 来自拉丁分开一支的名词，经法语等形式传入。subdivision 进一步分成小部分；divisional 描述某部门、分部或级别的。",
+    "forms": "division 既可指动作、分歧，也可指部门或除法。sub- 在 subdivision 中表示次一级；divisional 为形容词。",
+    "branches": [
+      [
+        "动作与部分",
+        "division"
+      ],
+      [
+        "次级部分与属性",
+        "subdivision · divisional"
+      ]
+    ],
+    "contrasts": "division 不一定表示冲突：数学除法、公司部门和意见分裂是不同语境。",
+    "practice": "Each division has smaller subdivisions and its own divisional manager.\n\n每个分部都有更小的部门和自己的分部经理。",
+    "words": [
+      "division",
+      "subdivision",
+      "divisional"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3947",
+    "meaning": "著名；广为人知",
+    "core": "FAMOUS：名声传到许多人那里",
+    "image": "人们即使没见过本人，也听说过名字。",
+    "intro": "famous 经法语接拉丁 fama 名声一支，表示广为人知。famously 可以表示以某事著称，也可强调一个广为流传的事实。",
+    "forms": "famous + -ly → famously；be famous for 表示因某事出名。famously 不能机械翻为每个动作都“著名地”。",
+    "branches": [
+      [
+        "名声与相关语气",
+        "famous · famously"
+      ]
+    ],
+    "contrasts": "famous 只说知名，不保证受尊重；renowned 往往更带声誉好的色彩，infamous 则常是臭名昭著。",
+    "practice": "The town is famous for a bridge that is famously difficult to photograph.\n\n小镇因一座桥出名，而那座桥出了名地难拍。",
+    "words": [
+      "famous",
+      "famously"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3561",
+    "meaning": "强大；有力；影响大",
+    "core": "POWERFUL：能产生明显效果或施加影响",
+    "image": "可以是发动机的动力，也可以是证据、声音或组织的影响力。",
+    "intro": "powerful 由 power 与 -ful 形成，意义是具有力量或影响。powerfully 是相关副词，说明作用、表达或感受的方式。",
+    "forms": "power + -ful → powerful；powerful + -ly → powerfully。-ful 词尾只有一个 l。",
+    "branches": [
+      [
+        "强度和影响",
+        "powerful · powerfully"
+      ]
+    ],
+    "contrasts": "powerful evidence 是有说服力的证据，powerful engine 是动力强的发动机；具体力量不能都译成权力。",
+    "practice": "The speaker used a powerful example and argued powerfully.\n\n演讲者用了一个有力的例子，论述很有说服力。",
+    "words": [
+      "powerful",
+      "powerfully"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4143",
+    "meaning": "通道；渠道；频道",
+    "core": "CHANNEL：让水、信号或信息沿着一定路线通过",
+    "image": "水流有河道，信息和服务也有传递路线。",
+    "intro": "channel 经法语接拉丁 canalis 管道、水道。multichannel 是多渠道，omnichannel 在商业中强调跨渠道整合，不能只用渠道数量概括。",
+    "forms": "channel 可作名词或动词；multi- 是多个，omni- 是全。omnichannel 的实际商业含义通常包含渠道间协调和衔接。",
+    "branches": [
+      [
+        "通路",
+        "channel"
+      ],
+      [
+        "多个与整合渠道",
+        "multichannel · omnichannel"
+      ]
+    ],
+    "contrasts": "multichannel 可能只是同时有几种渠道；omnichannel 常强调顾客能跨渠道衔接，仍须看具体方案。",
+    "practice": "The shop moved from multichannel sales toward an omnichannel service.\n\n商店从多渠道销售转向渠道相互衔接的服务。",
+    "words": [
+      "channel",
+      "multichannel",
+      "omnichannel"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3194",
+    "meaning": "经典；古典；典型",
+    "core": "CLASSIC：有代表性并经得起时间，或属于古典传统",
+    "image": "一部经典小说与一段古典音乐，各自有不同的分类习惯。",
+    "intro": "classic、classical 的来源联系拉丁 classicus 的等级、典范一支。classicism 是古典主义，classicist 是研究古典或持古典主义的人，具体由语境判断。",
+    "forms": "classic 可作名词或形容词；classical 在艺术、学术和科学中有固定分类义；-ism、-ist 分别形成思想或风格名称、相关人名。",
+    "branches": [
+      [
+        "经典与古典",
+        "classic · classical"
+      ],
+      [
+        "风格与研究者",
+        "classicism · classicist"
+      ]
+    ],
+    "contrasts": "a classic film 是经典电影，classical music 是古典音乐；不是给 classic 加 -al 就在所有搭配中完全同义。",
+    "practice": "The classicist discussed classicism before recommending a classic translation.\n\n古典学者讨论了古典主义，然后推荐了一部经典译作。",
+    "words": [
+      "classic",
+      "classical",
+      "classicism",
+      "classicist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3256",
+    "meaning": "民主；民主派成员",
+    "core": "DEMOCRAT：围绕人民参与治理的政治名称",
+    "image": "是政治立场、制度原则或党派身份，要结合大小写和语境。",
+    "intro": "democrat 经法语与希腊人民、权力一支的政治名称相连。democratic 有独立的历史形容词形式；现代可表示民主的，也可指特定党派的。",
+    "forms": "普通 democrat 可说民主主义者；大写 Democrat 可指特定党派成员。democratic 与 Democratic 也须按所指理解。",
+    "branches": [
+      [
+        "参与者与性质",
+        "democrat · democratic"
+      ]
+    ],
+    "contrasts": "支持某次投票不自动说明一个人的全部政治身份；名称中的民主也须区别一般原则与具体政党。",
+    "practice": "The writer distinguishes a democrat’s principles from a party’s Democratic label.\n\n作者区分了民主主义者的原则与政党的民主党标签。",
+    "words": [
+      "democrat",
+      "democratic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3048",
+    "meaning": "权威；权限；当局",
+    "core": "AUTHORITY：有资格决定，也可能有知识让人信服",
+    "image": "一个人能批准事项，或因专业知识让别人愿意相信。",
+    "intro": "authority 经法语来自拉丁 auctoritas，联系作者、发起者的 auctor 一支。authoritative 是有权威或可信的，authoritarian 则强调强制服从的治理方式。",
+    "forms": "authority 可数时可指权威人士或机构，复数 authorities 常指当局。两个长形容词不是互换的程度级。",
+    "branches": [
+      [
+        "权限与知识声望",
+        "authority"
+      ],
+      [
+        "可信与强制服从",
+        "authoritative · authoritarian"
+      ]
+    ],
+    "contrasts": "authoritative source 是权威来源，authoritarian leader 是威权领导者；二者语气和所指不同。",
+    "practice": "She gave an authoritative explanation without adopting an authoritarian tone.\n\n她作了权威的解释，语气却没有强迫人服从。",
+    "words": [
+      "authority",
+      "authoritative",
+      "authoritarian"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4336",
+    "meaning": "愿意；乐意",
+    "core": "WILLING：主观上愿意做",
+    "image": "能力、许可之外，还要看当事人自己愿不愿意。",
+    "intro": "willing 联系 will 的愿望、意愿一支，作为形容词常接 to do。willingness 说意愿这一性质，willingly 说自愿地，unwilling 说不愿意。",
+    "forms": "be willing to do；willing + -ness → willingness；willing + -ly → willingly；un- 表示否定。",
+    "branches": [
+      [
+        "意愿与否定",
+        "willing · unwilling"
+      ],
+      [
+        "性质与方式",
+        "willingness · willingly"
+      ]
+    ],
+    "contrasts": "willing 是愿意，able 是有能力；愿意帮忙的人也可能暂时办不到。",
+    "practice": "Her willingness to help was clear, and she joined willingly.\n\n她愿意帮忙的态度很明确，也自愿加入了。",
+    "words": [
+      "willing",
+      "willingness",
+      "willingly",
+      "unwilling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3529",
+    "meaning": "舒适；自在",
+    "core": "COMFORTABLE：身体舒服，或心理不紧张",
+    "image": "椅子坐着不难受，谈话也让人放松。",
+    "intro": "comfortable 联系 comfort 的安慰、使轻松一支。uncomfortable 是否定，comfortably 表示舒适地，也可在程度比较中表示轻松、明显地超过。",
+    "forms": "comfortable 的常见读音会弱化中间音节；comfortably 作副词。be comfortable with 可以说对某事感到自在、能够接受。",
+    "branches": [
+      [
+        "舒服与不自在",
+        "comfortable · uncomfortable"
+      ],
+      [
+        "方式与程度",
+        "comfortably"
+      ]
+    ],
+    "contrasts": "comfortable 不等于 convenient 方便；位置方便的房间也可能床很不舒服。",
+    "practice": "The chair is comfortable, but I am uncomfortable with the proposed price.\n\n椅子很舒服，但我对所提的价格不太能接受。",
+    "words": [
+      "comfortable",
+      "comfortably",
+      "uncomfortable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3569",
+    "meaning": "表演；代理、暂代",
+    "core": "ACTING：正在行动或表演，也可能暂代职位",
+    "image": "演员在演戏，副手也可以暂时坐到负责人的位置。",
+    "intro": "acting 来自 act 的 -ing 形式，已形成表演的名词义和代理的形容词义。两者都联系执行某种角色，不是所有 acting 都在构成进行时。",
+    "forms": "acting 可作名词，an acting director 中作形容词；He is acting 中才可能作为动词短语的一部分。",
+    "branches": [
+      [
+        "表演与代理角色",
+        "acting"
+      ]
+    ],
+    "contrasts": "acting manager 通常是代理经理，不等于正在表演经理；acting class 则是表演课。",
+    "practice": "比较 an acting teacher、an acting manager 和 He is acting，结合上下文判断语法角色。",
+    "words": [
+      "acting"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3823",
+    "meaning": "艺术家；艺术技巧",
+    "core": "ARTIST：创作或表演艺术的人",
+    "image": "画家、音乐家和其他创作者，都可能用 artist 称呼。",
+    "intro": "artist 经法语和意大利语相关形式接拉丁 ars 艺术、技艺。artistry 是艺术技巧或表现力，不只是 artist 的复数。",
+    "forms": "artist 的复数 artists；artistry 是通常不可数的技巧名词。词尾 -istry 在这个词中不表示一群艺术家。",
+    "branches": [
+      [
+        "创作者与技巧",
+        "artist · artistry"
+      ]
+    ],
+    "contrasts": "artist 是人，artistry 是能力或技巧；craftsmanship 常更强调工艺表现，范围可以重合。",
+    "practice": "The artist’s technical artistry impressed the audience.\n\n艺术家的精湛技巧给观众留下深刻印象。",
+    "words": [
+      "artist",
+      "artistry"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4369",
+    "meaning": "举止；表现；行为",
+    "core": "BEHAVE：人在情境中怎样行动和表现",
+    "image": "看一个人怎么做，而不是只听他说自己是什么样的人。",
+    "intro": "behave 的历史联系 be- 与 have 的把持、处置自己一类用法，后来形成举止义。behavior 是行为或表现，misbehave 是行为不当。",
+    "forms": "behave oneself 是举止得体；behavior 为美式拼写，英式 behaviour；mis- 是不当。机器、系统也可以 behave。\n\n不是给所有抽象行为名词随意添 s。",
+    "branches": [
+      [
+        "行动表现",
+        "behave · behavior"
+      ],
+      [
+        "表现不当",
+        "misbehave"
+      ],
+      [
+        "behavior → behaviors：种类、模式名词复数",
+        "behavior · behaviors"
+      ]
+    ],
+    "contrasts": "behave 通常是不及物或用 oneself；behavior 通常不可数，但技术语境可讨论多种 behaviours。",
+    "practice": "The model behaves differently when the input changes, so we studied its behavior.\n\n输入变化时模型的表现不同，因此我们研究了它的行为。",
+    "words": [
+      "behave",
+      "behavior",
+      "misbehave",
+      "behaviors"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4602",
+    "meaning": "概念；构想",
+    "core": "CONCEPT：在头脑中把一个意思抓成整体",
+    "image": "先有核心想法，再用图或样品把它说明白。",
+    "intro": "concept 接拉丁 conceptus，联系 concipere 接受、构思一支。历史上有抓住、容纳的画面，现代不必逐次想象用手拿。",
+    "forms": "concept 是可数名词，可谈基本概念或设计构想。它不是现代 conceive 直接去尾形成的普通名词。",
+    "branches": [
+      [
+        "想法的整体",
+        "concept"
+      ]
+    ],
+    "contrasts": "concept 可指抽象概念，idea 范围更宽；prototype 是可供检验的原型，不能与构想本身混同。",
+    "practice": "用 a basic concept 与 a design concept 分别说明学习概念和设计构想。",
+    "words": [
+      "concept"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3033",
+    "meaning": "连接；关系；接头",
+    "core": "CONNECTION：把两端接上，或建立关系",
+    "image": "线缆接好，人与人相识，事实之间也能有联系。",
+    "intro": "connection 来自拉丁连结一支，联系 connect。interconnection 是互连，disconnection 是断开，reconnection 是重新接通，分别突出连接关系的变化。",
+    "forms": "connection／connexion 有历史拼写差别，现代 connection 普遍；inter- 互相、dis- 分开、re- 再次。",
+    "branches": [
+      [
+        "连接状态",
+        "connection"
+      ],
+      [
+        "互连、断开与重连",
+        "interconnection · disconnection · reconnection"
+      ]
+    ],
+    "contrasts": "connection 可以是社会关系或交通换乘，不只是一根实体线。reconnection 也不保证恢复全部功能，须看语境。",
+    "practice": "After the disconnection, reconnection restored the link between the systems.\n\n断开之后，重新连接恢复了系统之间的链路。",
+    "words": [
+      "connection",
+      "interconnection",
+      "disconnection",
+      "reconnection"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4382",
+    "meaning": "准备好的；有准备的",
+    "core": "PREPARED：事情发生前，相关准备已经做过",
+    "image": "资料带齐、方案想好，遇到情况就能开始。",
+    "intro": "prepared 来自 prepare 的过去分词，形容词化后表示准备好的。preparedness 强调准备状态，unprepared 是没有准备好的。",
+    "forms": "prepared for a task、prepared to do；prepared + -ness → preparedness；un- 表示否定。be prepared to 也可表示愿意承受或采取某种行动。",
+    "branches": [
+      [
+        "状态与否定",
+        "prepared · unprepared"
+      ],
+      [
+        "准备程度",
+        "preparedness"
+      ]
+    ],
+    "contrasts": "prepared 是已准备好的状态，preparing 是正在准备；对某事有准备不等于保证不会出错。",
+    "practice": "Their preparedness helped them remain calm when others were unprepared.\n\n他们的充分准备帮助他们在别人毫无准备时仍保持镇定。",
+    "words": [
+      "prepared",
+      "preparedness",
+      "unprepared"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3085",
+    "meaning": "山；山地",
+    "core": "MOUNTAIN：一座山及围绕它的人、部位与地形",
+    "image": "先看整座山，再看山腰、山顶和登山的人。",
+    "intro": "mountain 经法语来自拉丁 mons 的相关集体或地形形式。英语内部形成 mountainside、mountaintop；mountaineer、mountainous 各有相应形容或人物命名历史。",
+    "forms": "mountain 是名词，mountainous 说多山或山一样大；mountaineer 是登山者，intermountain 表示山间。现代复合关系不应代替各词的借入史。",
+    "branches": [
+      [
+        "整体与地形属性",
+        "mountain · mountainous"
+      ],
+      [
+        "人及空间部位",
+        "mountaineer · mountainside · mountaintop · intermountain"
+      ]
+    ],
+    "contrasts": "mountaineer 强调登山活动；mountainous 可以是多山，也可比喻巨大，不等于每次都指一座具体山。",
+    "practice": "The mountaineers crossed the mountainside before reaching the mountaintop.\n\n登山者先横穿山坡，再到达山顶。",
+    "words": [
+      "mountain",
+      "mountainous",
+      "mountaineer",
+      "mountainside",
+      "mountaintop",
+      "intermountain"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2896",
+    "meaning": "弄错；错误",
+    "core": "MISTAKE：把人、事或做法认错",
+    "image": "将 A 当成 B，或把一步操作做错。",
+    "intro": "mistake 经古诺尔斯语误取、弄错一支传来，现代可用 mis- 不当 + take 抓住来理解。mistaken 是弄错的，unmistakable 则是清楚到不会认错的。",
+    "forms": "mistake–mistook–mistaken；mistake A for B；unmistakable 中否定的是可被误认，并不是否定存在任何错误。\n\n英语 mis 与 take 对应，并有古诺尔斯同族来源的可能影响。",
+    "branches": [
+      [
+        "动作与错误",
+        "mistake"
+      ],
+      [
+        "判断与辨识程度",
+        "mistaken · unmistakable"
+      ],
+      [
+        "mistake → mistakes：错拿、误认与错误",
+        "mistake · mistakes"
+      ]
+    ],
+    "contrasts": "mistaken belief 是错误看法，unmistakable sign 是清楚无误的迹象；不能看到 un- 就译成不清楚。",
+    "practice": "I was mistaken about the time, but her unmistakable surprise told me something was wrong.\n\n我记错了时间，而她明显的惊讶让我知道出了问题。",
+    "words": [
+      "mistake",
+      "mistaken",
+      "unmistakable",
+      "mistakes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4125",
+    "meaning": "相关；切题",
+    "core": "RELEVANT：对正在处理的问题有作用",
+    "image": "一份资料即使有趣，也要看是否能帮助回答当前问题。",
+    "intro": "relevant 的历史联系拉丁 relevare 举起、减轻一支，经法律语境发展为对问题有帮助、切题。irrelevant 是否定，relevance、relevancy 是相关性名词。",
+    "forms": "relevant to；ir- 是 in- 在 r 前同化；relevance、relevancy 大体近义，使用偏好随语境变化。",
+    "branches": [
+      [
+        "切题与无关",
+        "relevant · irrelevant"
+      ],
+      [
+        "相关性",
+        "relevance · relevancy"
+      ]
+    ],
+    "contrasts": "relevant 不等于 recent 最近的；旧资料可能很 relevant，新消息也可能 irrelevant。",
+    "practice": "We checked the relevance of each source and removed irrelevant material.\n\n我们检查每份来源的相关性，删去了无关材料。",
+    "words": [
+      "relevant",
+      "irrelevant",
+      "relevance",
+      "relevancy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4052",
+    "meaning": "伤害；损伤",
+    "core": "INJURY：使人或事物受到损害",
+    "image": "可以是身体受伤，也可能是在正式表达中说利益受损。",
+    "intro": "injury 经法语接拉丁 iniuria 不公、侵害，构词联系否定 in- 与 ius 权利。现代常用义集中到伤害；injurious 表示有害的。",
+    "forms": "injury → injuries；injurious to 是对……有害。历史否定权利的画面不表示每次运动受伤都涉及法律上的不公。",
+    "branches": [
+      [
+        "损害及其性质",
+        "injury · injurious"
+      ]
+    ],
+    "contrasts": "injury 是伤害、损伤，wound 常指具体创口；injurious 是有害，injured 是受伤的。",
+    "practice": "The report describes an injury and the conditions that were injurious to health.\n\n报告描述了一次伤害，以及有害健康的条件。",
+    "words": [
+      "injury",
+      "injurious"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3414",
+    "meaning": "参考；提及；所指",
+    "core": "REFERENCE：把读者或注意力指向别处",
+    "image": "可以指向一本文献、一个前文段落，或话语中某个对象。",
+    "intro": "reference 经法语和相关拉丁形式联系 referre 带回、转交。referential 表示涉及指称或参照的，尤其见于语言学和技术描述。",
+    "forms": "reference 可作名词或动词；referential 不是 referee 裁判的形容词。现代可用 refer 与 -ence 联想，但借入链要保留。",
+    "branches": [
+      [
+        "指向与参照",
+        "reference"
+      ],
+      [
+        "相关属性",
+        "referential"
+      ]
+    ],
+    "contrasts": "reference 不只指参考文献，也可指推荐人、提及或指称；翻译要看完整搭配。",
+    "practice": "The article explains the reference of the pronoun and its referential role.\n\n文章解释了代词的所指及其指称作用。",
+    "words": [
+      "reference",
+      "referential"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4120",
+    "meaning": "荣誉；尊重；履行承诺",
+    "core": "HONOR：认可价值，也把应做之事认真做到",
+    "image": "可以给人荣誉，也可以兑现约定，表示尊重。",
+    "intro": "honor 经法语接拉丁 honor。honorary 是名誉上的，honoree 是受表彰者，honorific 是尊称或表示尊敬的形式；dishonor 是否定荣誉或违背承诺。",
+    "forms": "honor 为美式、honour 为英式常见拼写，h 不发音；-ary、-ee、-ific 在各词中承担不同角色，不能都译为荣誉的人。",
+    "branches": [
+      [
+        "尊重与失信",
+        "honor · dishonor"
+      ],
+      [
+        "身份与称呼",
+        "honorary · honoree · honorific"
+      ]
+    ],
+    "contrasts": "honorary member 是名誉会员，honoree 是受表彰的人，honorific 是尊称；这些角色不能混同。",
+    "practice": "The honoree received an honorary title, and the host used an appropriate honorific.\n\n受表彰者获得名誉头衔，主持人使用了适当尊称。",
+    "words": [
+      "honor",
+      "honorary",
+      "dishonor",
+      "honoree",
+      "honorific"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4391",
+    "meaning": "一致；一贯；相容",
+    "core": "CONSISTENT：前后能对上，不互相冲突",
+    "image": "几次结果相符，或一个人的做法长期保持同一标准。",
+    "intro": "consistent 的历史联系拉丁站在一起、成立一支，现代表示一致、稳定或相容。consistently 是副词，inconsistent 则是前后不一或不相容。",
+    "forms": "consistent with 表示与……一致；consistent in 表示在某行为上一贯。in- 否定，-ly 转为副词。",
+    "branches": [
+      [
+        "一致与变化",
+        "consistent · inconsistent"
+      ],
+      [
+        "稳定的方式",
+        "consistently"
+      ]
+    ],
+    "contrasts": "consistent 不保证正确：一个错误方法也可能 consistently 得出相同错误。一致与准确是两回事。",
+    "practice": "The results were consistent, but we still checked whether they were accurate.\n\n结果一致，但我们仍检查它们是否准确。",
+    "words": [
+      "consistent",
+      "consistently",
+      "inconsistent"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4392",
+    "meaning": "地区；区域性",
+    "core": "REGIONAL：把范围限定到某一区域",
+    "image": "同一国家内部，各地仍可能有自己的语言、产业与习惯。",
+    "intro": "regional 来自 region 的区域一支及相关形容词形式。regionally 是副词，regionalism 可指区域意识、区域主义或地区特有表达。",
+    "forms": "regional + -ly → regionally；regional + -ism → regionalism。region 的范围可以是行政、地理或其他划分，需看对象。",
+    "branches": [
+      [
+        "范围与方式",
+        "regional · regionally"
+      ],
+      [
+        "区域倾向或特色",
+        "regionalism"
+      ]
+    ],
+    "contrasts": "regional 不等于 rural 农村的；一个大城市也可承担 regional centre 的角色。",
+    "practice": "The regional centre coordinates services that are organized regionally.\n\n区域中心协调按地区组织的服务。",
+    "words": [
+      "regional",
+      "regionally",
+      "regionalism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3643",
+    "meaning": "昂贵；花费高",
+    "core": "EXPENSIVE：价格或代价较高",
+    "image": "需要付出较多的钱，比较标准取决于用途和预算。",
+    "intro": "expensive 联系 expense 花费一支。inexpensive 否定昂贵，expensively 说明以高成本或昂贵方式进行。",
+    "forms": "expensive → expensively；in- + expensive → inexpensive。inexpensive 表示价格不高，通常比 cheap 更少带品质低的暗示。",
+    "branches": [
+      [
+        "价格与否定",
+        "expensive · inexpensive"
+      ],
+      [
+        "花费方式",
+        "expensively"
+      ]
+    ],
+    "contrasts": "expensive 是贵，valuable 是有价值；贵重物未必实用，便宜的资料也可能很有价值。",
+    "practice": "The room was expensively furnished, but the guide recommended an inexpensive hotel nearby.\n\n房间布置昂贵，但指南推荐了附近一家价格不高的旅馆。",
+    "words": [
+      "expensive",
+      "expensively",
+      "inexpensive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3476",
+    "meaning": "实际；实用；实践相关",
+    "core": "PRACTICAL：能在真实情境中做、用和检验",
+    "image": "方案写得漂亮之外，还要看实施时能不能解决问题。",
+    "intro": "practical 联系 practice 与希腊行动、做事词族。practically 可表示实际上、实用地，也可表示几乎；impractical 是不切实际，practicality 是实用性。",
+    "forms": "practical + -ly → practically；im- 为 in- 在 p 前的否定形式；practicality 名词化讨论可行或实用程度。",
+    "branches": [
+      [
+        "实际用途与否定",
+        "practical · impractical"
+      ],
+      [
+        "程度与性质",
+        "practically · practicality"
+      ]
+    ],
+    "contrasts": "practically every day 常是几乎每天，不能译成以实践方式每天。practical 与 practicable 的侧重点也应结合语境。",
+    "practice": "The idea sounds attractive, but we need to test its practicality.\n\n想法听起来很吸引人，但需要检验其实用性。",
+    "words": [
+      "practical",
+      "practically",
+      "impractical",
+      "practicality"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4217",
+    "meaning": "熟悉；常见；使熟悉",
+    "core": "FAMILIAR：见得多、接触过，所以认得和了解",
+    "image": "一张熟悉的脸，或一项自己操作过很多次的任务。",
+    "intro": "familiar 经法语接拉丁 familia 家庭、家内成员一支，意义走向熟悉、亲近。familiarity 是熟悉，familiarize 是使熟悉，familiarization 是熟悉过程。",
+    "forms": "be familiar with 是人了解某物；be familiar to 是某物为人熟知。familiarize someone with；un- 否定，-ly 形成副词。",
+    "branches": [
+      [
+        "熟悉程度",
+        "familiar · unfamiliar · familiarity"
+      ],
+      [
+        "方式与过程",
+        "familiarly · familiarize · familiarization"
+      ]
+    ],
+    "contrasts": "a familiar name 是熟悉的名字，不一定是亲戚；过度 familiarity 也可能表示不合适的随便。",
+    "practice": "The introduction will familiarize you with an unfamiliar system.\n\n介绍会帮助你熟悉一个陌生系统。",
+    "words": [
+      "familiar",
+      "unfamiliar",
+      "familiarity",
+      "familiarly",
+      "familiarize",
+      "familiarization"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4072",
+    "meaning": "依赖；信赖",
+    "core": "RELY：把支持或判断建立在另一方上",
+    "image": "知道有人会帮忙，或相信一份数据足够可靠。",
+    "intro": "rely 经法语 relier 的联结一支发展出依靠、信赖。reliance 是依赖或信赖，reliant 是依赖的，reliable 是可靠的。",
+    "forms": "rely on；rely → relies／relied；reliable 结尾是 -able，reliance、reliant 与之相应，但现代用法职责不同。\n\n拉丁 religare 系牢经法语 relier 到英语；现代介词 on、upon 接依靠对象，不能按再次躺下解释。",
+    "branches": [
+      [
+        "依靠与关系",
+        "rely · reliance · reliant"
+      ],
+      [
+        "值得信赖",
+        "reliable"
+      ],
+      [
+        "rely：把信任系上去，现代依靠的常用变化",
+        "rely · relies · relied · relying"
+      ]
+    ],
+    "contrasts": "reliant 是依赖别人的，reliable 是别人能依赖的；一个字尾差别改变角色方向。",
+    "practice": "We rely on reliable data and try to reduce reliance on guesswork.\n\n我们依靠可靠数据，尽量减少对猜测的依赖。",
+    "words": [
+      "rely",
+      "reliance",
+      "reliant",
+      "reliable",
+      "relies",
+      "relied",
+      "relying"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4135",
+    "meaning": "依赖；依存关系",
+    "core": "DEPENDENCE：把是否需要支持作为关系来谈",
+    "image": "一个系统需要另一系统，也可能双方相互需要。",
+    "intro": "dependence 联系 depend 的悬挂、依靠一支。independence 否定依赖，interdependence 说相互依存，dependency 在若干语境有具体依赖项或属地等义。",
+    "forms": "dependence on；in- 否定，inter- 相互；dependence 与 dependency 的用法有重叠，也有各自固定搭配。",
+    "branches": [
+      [
+        "关系与独立",
+        "dependence · independence"
+      ],
+      [
+        "具体依赖和相互关系",
+        "dependency · interdependence"
+      ]
+    ],
+    "contrasts": "独立 independence 不等于没有一切联系；interdependence 则明确双方或多方相互依赖。",
+    "practice": "Economic independence can coexist with international interdependence.\n\n经济独立可以与国际间相互依存并存。",
+    "words": [
+      "dependence",
+      "independence",
+      "dependency",
+      "interdependence"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3975",
+    "meaning": "武装的；配备的",
+    "core": "ARMED：已经带上武器或配好所需物",
+    "image": "手中有武器是字面画面，带齐资料则是比喻用法。",
+    "intro": "armed 来自动词 arm 的过去分词，武装一支最终联系拉丁 arma 武器。unarmed 是否定；与人体手臂 arm 的本源历史需分开。",
+    "forms": "armed with 可接武器，也可接 information、evidence 等比喻对象。unarmed 是未武装，不能自动等于没有其他能力。",
+    "branches": [
+      [
+        "配备与否定",
+        "armed · unarmed"
+      ]
+    ],
+    "contrasts": "arms 在武器义可用复数，armed 的武装义不应直接解释成“有手臂的人”。",
+    "practice": "Armed with the new evidence, she returned to the discussion.\n\n有了新证据，她回到讨论中。",
+    "words": [
+      "armed",
+      "unarmed"
+    ],
+    "exclude": {}
+  }
+]

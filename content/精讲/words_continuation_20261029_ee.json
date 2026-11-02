@@ -1,0 +1,553 @@
+[
+  {
+    "word": "hair",
+    "ipa": "英 /heə/；美 /her/",
+    "meaning": "头发；毛发；一根头发",
+    "sense": "说整头头发时通常当一片整体，说掉下来的一根时才可以数一根、两根。",
+    "split": "继承古英语 hǣr，日耳曼语中的古老毛发词。现代不可数与可数用法并存，取决于整体还是单根。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ]
+    ],
+    "explanation": "long hair 长发，a hair 一根头发，wash your hair 洗头；split hairs 是在细枝末节上较真。",
+    "usage": "long hair；wash your hair；a strand of hair；split hairs。",
+    "contrast": "She has long hair 不把整体长发说成 long hairs；I found a hair in the soup 是一根。hair 与 hare 野兔同音不同词。",
+    "examples": [
+      [
+        "She has thick, curly hair.",
+        "她头发浓密卷曲。"
+      ],
+      [
+        "I found a grey hair on my jacket.",
+        "我在夹克上发现一根灰白头发。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hair#English"
+    ]
+  },
+  {
+    "word": "hairy",
+    "ipa": "英 /ˈheəri/；美 /ˈheri/",
+    "meaning": "多毛的；危险、棘手的",
+    "sense": "字面是毛多；口语里 a hairy moment 是让人紧张、险些出事的一刻，不是那一刻长出毛。",
+    "split": "hair + -y，现代有多毛和非正式险要、令人紧张的形容词义。后者的确切演化不强编成某个确定故事。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + -y → hairy",
+        "有毛、多毛；另有险要口语义"
+      ]
+    ],
+    "explanation": "hairy arms 毛多的手臂，a hairy situation 险要局面，a hairy moment 惊险一刻。",
+    "usage": "hairy arms；a hairy situation；a hairy moment。",
+    "contrast": "hairy 指多毛，haired 常由前面说明发色、长度；口语 hairy situation 要从整体搭配理解。",
+    "examples": [
+      [
+        "The small caterpillar had a hairy body.",
+        "小毛毛虫的身体长满细毛。"
+      ],
+      [
+        "We had a hairy moment when the boat hit a rock.",
+        "船撞上石头时，我们经历了惊险一刻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairy#English"
+    ]
+  },
+  {
+    "word": "haired",
+    "ipa": "英 /heəd/；美 /herd/",
+    "meaning": "有某种头发的",
+    "sense": "通常前面要告诉你头发什么样，比如短发、红发；单独说有头发往往信息不够。",
+    "split": "hair + -ed，形成具有毛发特征的形容词，相应形式中古英语已有。读 /d/ 结尾，不另添 /ɪd/ 音节。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + -ed → haired",
+        "具有某种毛发的"
+      ]
+    ],
+    "explanation": "a red-haired child 红发孩子，a short-haired cat 短毛猫；复合修饰语中的连字符照常保留，不另建连字符词条。",
+    "usage": "red-haired；short-haired；dark-haired。",
+    "contrast": "haired 描述特征，haired 不等于 hired 被雇用；hairy 则直接说毛多。",
+    "examples": [
+      [
+        "A red-haired child opened the door.",
+        "一个红发孩子打开了门。"
+      ],
+      [
+        "The short-haired cat was sleeping on the sofa.",
+        "短毛猫正在沙发上睡觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haired#English"
+    ]
+  },
+  {
+    "word": "hairless",
+    "ipa": "英 /ˈheələs/；美 /ˈherləs/",
+    "meaning": "无毛的；没有毛发的",
+    "sense": "某个身体部位或动物表面没有明显毛发，重点是缺少这一层毛。",
+    "split": "hair + -less 没有，构成无毛形容词。范围看对象，不一定整只动物、整个人完全没有任何毛。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + -less → hairless",
+        "没有毛发的"
+      ]
+    ],
+    "explanation": "hairless skin 无毛皮肤，a hairless cat 无毛猫；相对描述不等于所有物种都真的零根毛。",
+    "usage": "hairless skin；a hairless cat；a hairless patch。",
+    "contrast": "bald 常说头顶秃或局部不长毛，hairless 更直接泛说缺毛；两者在部分语境重合。",
+    "examples": [
+      [
+        "The cat has nearly hairless skin.",
+        "这只猫的皮肤几乎没有毛。"
+      ],
+      [
+        "A small hairless patch appeared on the dog’s leg.",
+        "狗腿上出现了一小块无毛区域。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairless#English"
+    ]
+  },
+  {
+    "word": "hairline",
+    "ipa": "英 /ˈheəlaɪn/；美 /ˈherlaɪn/",
+    "meaning": "发际线；极细的线、裂纹",
+    "sense": "头发从额头附近开始生长的边界是一条线；像一根发丝那么细的裂纹也叫 hairline。",
+    "split": "hair + line 线、边界，形成发际线和发丝般细线两条用法。不是所有 line 都在额头上。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + line → hairline",
+        "头发边界；细如发丝的线"
+      ]
+    ],
+    "explanation": "a receding hairline 后移的发际线，a hairline crack 细微裂纹；后者用 hairline 作修饰成分。",
+    "usage": "a receding hairline；a hairline crack；a hairline fracture。",
+    "contrast": "hairline crack 通常形容细，不一定浅到完全无关紧要；看到裂纹是否影响结构要看专业检查，不从名字猜。",
+    "examples": [
+      [
+        "His hairline has changed over the years.",
+        "这些年他的发际线发生了变化。"
+      ],
+      [
+        "A hairline crack ran across the cup.",
+        "一道细微裂纹横过杯身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairline#English"
+    ]
+  },
+  {
+    "word": "hairdresser",
+    "ipa": "英 /ˈheədresə/；美 /ˈherdresər/",
+    "meaning": "理发师；美发师",
+    "sense": "替人剪、整理、烫染或造型头发的人，工作不只把头发剪短。",
+    "split": "hair + dresser 整理、装饰者，dress 这里取整理装扮义，不是给头发穿连衣裙。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + dresser → hairdresser",
+        "整理、造型头发的人 → 美发师"
+      ]
+    ],
+    "explanation": "go to the hairdresser’s 去美发店，a professional hairdresser 专业美发师；所有格常省略 salon。",
+    "usage": "a professional hairdresser；the hairdresser’s；book a hairdresser。",
+    "contrast": "barber 常侧重短发、男士修面等服务，hairdresser 服务范围常更广；实际服务有重叠，不硬按从业者性别区分。",
+    "examples": [
+      [
+        "The hairdresser suggested a shorter style.",
+        "美发师建议换个短一点的发型。"
+      ],
+      [
+        "I have an appointment at the hairdresser’s tomorrow.",
+        "我明天预约了去美发店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairdresser#English"
+    ]
+  },
+  {
+    "word": "hairdressing",
+    "ipa": "英 /ˈheədresɪŋ/；美 /ˈherdresɪŋ/",
+    "meaning": "美发；理发、造型行业",
+    "sense": "把整理、剪染、造型头发这一整套工作作为技能和行业来讲。",
+    "split": "hair + dressing 整理装扮，活动名词，与 hairdresser 执行者对应。dressing 这里不是沙拉酱。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + dressing → hairdressing",
+        "整理头发的活动 → 美发"
+      ]
+    ],
+    "explanation": "a hairdressing course 美发课程，hairdressing skills 美发技能；通常不可数地说行业。",
+    "usage": "a hairdressing course；hairdressing skills；the hairdressing industry。",
+    "contrast": "hairdresser 是人，hairdressing 是活动、行业；a hairdressing student 是学美发的学生。",
+    "examples": [
+      [
+        "She is taking a hairdressing course.",
+        "她正在上美发课。"
+      ],
+      [
+        "The college teaches practical hairdressing skills.",
+        "学院教授实用美发技能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairdressing#English"
+    ]
+  },
+  {
+    "word": "hairstylist",
+    "ipa": "英 /ˈheəstaɪlɪst/；美 /ˈherstaɪlɪst/",
+    "meaning": "发型师",
+    "sense": "重点在设计、制作发型，让头发的形状和整体造型适合人或场景。",
+    "split": "hair + stylist 造型师；stylist 又与 style、人物后缀 -ist 对应。不是 hair + style + list 名单。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + stylist → hairstylist",
+        "头发造型的专业人员 → 发型师"
+      ]
+    ],
+    "explanation": "a professional hairstylist 专业发型师，a film hairstylist 影视发型师；也可用于普通美发店人员。",
+    "usage": "a professional hairstylist；a film hairstylist；work as a hairstylist。",
+    "contrast": "hairstylist 与 hairdresser 大幅重叠，前者称呼更突出造型；别编成一个只能剪、另一个绝不剪的硬界限。",
+    "examples": [
+      [
+        "The hairstylist created a new look for the actor.",
+        "发型师为演员设计了一个新造型。"
+      ],
+      [
+        "She asked her hairstylist for advice about the fringe.",
+        "她向发型师咨询刘海的建议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairstylist#English"
+    ]
+  },
+  {
+    "word": "hairstyling",
+    "ipa": "英 /ˈheəstaɪlɪŋ/；美 /ˈherstaɪlɪŋ/",
+    "meaning": "发型设计、造型；头发造型活动",
+    "sense": "用梳理、修剪、卷烫或造型产品等方法，把头发做成想要的样子。",
+    "split": "hair + styling，styling 是 style 去 e + -ing；这里整体是头发造型活动，不是造型师人物。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + styling → hairstyling",
+        "为头发做造型的活动"
+      ]
+    ],
+    "explanation": "hairstyling products 头发造型产品，hairstyling tools 造型工具；与 hairstyle 已完成的发型对照。",
+    "usage": "hairstyling products；hairstyling tools；hairstyling techniques。",
+    "contrast": "hairstyle 发型结果，hairstyling 造型活动，hairstylist 做造型的人。",
+    "examples": [
+      [
+        "The shop sells hairstyling products and brushes.",
+        "商店销售头发造型产品和梳子。"
+      ],
+      [
+        "Hairstyling is part of her work in the theatre.",
+        "头发造型是她在剧院工作的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairstyling#English"
+    ]
+  },
+  {
+    "word": "hairdryer",
+    "ipa": "英 /ˈheədraɪə/；美 /ˈherdraɪər/",
+    "meaning": "吹风机",
+    "sense": "用气流把头发吹干的设备；dryer 是让东西变干的器具。",
+    "split": "hair + dryer，dryer 来自 dry + -er。也常写 hair dryer、hair drier；拼写变体不必重复建词条。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + dryer → hairdryer",
+        "让头发变干的设备 → 吹风机"
+      ]
+    ],
+    "explanation": "use a hairdryer 用吹风机，a travel hairdryer 旅行吹风机；名称强调用途，不指定每款机器的技术结构。",
+    "usage": "use a hairdryer；a travel hairdryer；a handheld hairdryer。",
+    "contrast": "hairdryer 吹干头发，hairbrush 梳理头发；dryer 不是 driver 驾驶者。",
+    "examples": [
+      [
+        "The hotel room has a hairdryer.",
+        "酒店房间有吹风机。"
+      ],
+      [
+        "She packed a small travel hairdryer.",
+        "她装好了一台小旅行吹风机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairdryer#English"
+    ]
+  },
+  {
+    "word": "hairbrush",
+    "ipa": "/ˈheəbrʌʃ/；美 /ˈherbrʌʃ/",
+    "meaning": "发刷；梳头刷",
+    "sense": "一面有一排排刷齿、刷毛，用来梳理头发的工具。",
+    "split": "hair + brush 刷子，按用途直接组合。brush 名词是工具，动词 brush your hair 则是梳理头发。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + brush → hairbrush",
+        "梳头发的刷子 → 发刷"
+      ]
+    ],
+    "explanation": "a round hairbrush 圆筒发刷，clean a hairbrush 清理发刷；形状、刷毛材料可以不同。",
+    "usage": "a round hairbrush；a wooden hairbrush；clean a hairbrush。",
+    "contrast": "comb 常是单排齿的梳子，hairbrush 是刷式梳具；中文都能说梳子，英语结构名有所不同。",
+    "examples": [
+      [
+        "She keeps a hairbrush in her bag.",
+        "她在包里放着一把发刷。"
+      ],
+      [
+        "He removed the loose hairs from the hairbrush.",
+        "他把发刷上掉落的头发清理掉了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairbrush#English"
+    ]
+  },
+  {
+    "word": "hairpin",
+    "ipa": "英 /ˈheəpɪn/；美 /ˈherpɪn/",
+    "meaning": "发夹、发簪；发夹状的急弯",
+    "sense": "先想一根弯成窄 U 形、固定头发的小夹子；道路猛地折回，形状也像它。",
+    "split": "hair + pin 别针、簪，先有发夹器物义，再按形状形成 hairpin bend、hairpin turn 急转弯。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + pin → hairpin",
+        "固定头发的小簪 → 发夹状急弯"
+      ]
+    ],
+    "explanation": "secure hair with a hairpin 用发夹固定头发，a hairpin bend 发夹弯；后者不是路上落了一枚夹子。",
+    "usage": "a metal hairpin；a hairpin bend；a hairpin turn。",
+    "contrast": "hairpin bend 强调急折回的形状，winding road 可泛说一路弯曲；不一定每个弯都尖得像发夹。",
+    "examples": [
+      [
+        "She secured the bun with two hairpins.",
+        "她用两枚发夹固定发髻。"
+      ],
+      [
+        "The mountain road has several sharp hairpin bends.",
+        "这条山路有几个急剧回折的发夹弯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairpin#English"
+    ]
+  },
+  {
+    "word": "hairpiece",
+    "ipa": "/ˈheəpiːs/；美 /ˈherpiːs/",
+    "meaning": "假发片；补发片",
+    "sense": "不是一定换掉整头头发，而是用一片假发补充部分发量或造型。",
+    "split": "hair + piece 一片、一个部件，组合成局部假发用品。piece 选部分义，不能译成一根头发。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + piece → hairpiece",
+        "一片头发用品 → 假发片"
+      ]
+    ],
+    "explanation": "wear a hairpiece 戴假发片，a removable hairpiece 可拆卸发片；影视造型、日常补发都可能使用。",
+    "usage": "wear a hairpiece；a removable hairpiece；fit a hairpiece。",
+    "contrast": "wig 常指整体假发，hairpiece 更常指局部补发件；实际商品称呼可有重叠。",
+    "examples": [
+      [
+        "The actor wore a hairpiece for the role.",
+        "演员为这个角色戴了假发片。"
+      ],
+      [
+        "The stylist fitted a small hairpiece to add volume.",
+        "造型师装上一小片假发来增加发量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairpiece#English"
+    ]
+  },
+  {
+    "word": "hairball",
+    "ipa": "英 /ˈheəbɔːl/；美 /ˈherbɔːl/",
+    "meaning": "毛球；毛发结成的团",
+    "sense": "一根根毛聚在一起缠成一团；猫舔毛后形成的毛团是常见使用场景。",
+    "split": "hair + ball 球、团，不要求像标准球一样圆，也不表示给猫玩的毛线球。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "hair + ball → hairball",
+        "毛发聚成一团 → 毛球"
+      ]
+    ],
+    "explanation": "a cat hairball 猫毛球，a clump of hair 也可描述毛团；医疗情况要看具体动物，不从词义判断问题轻重。",
+    "usage": "a cat hairball；a small hairball；cough up a hairball。",
+    "contrast": "hairball 真实毛发形成，a ball of yarn 是毛线球；hairball 也可比喻混乱复杂的一团。",
+    "examples": [
+      [
+        "The cat coughed up a small hairball.",
+        "猫咳出了一小团毛球。"
+      ],
+      [
+        "A hairball blocked the shower drain.",
+        "一团毛发堵住了淋浴排水口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hairball#English"
+    ]
+  },
+  {
+    "word": "shorthair",
+    "ipa": "英 /ˈʃɔːtheə/；美 /ˈʃɔːrther/",
+    "meaning": "短毛猫；短毛动物类称呼",
+    "sense": "用毛短这个外观特点给一类猫命名；British Shorthair 就是英国短毛猫。",
+    "split": "short + hair，形容毛短的特征转为动物名词。具体犬猫品种常在前面另加名称。",
+    "history": [
+      [
+        "古英语 hǣr → 中古英语 her、heer → hair",
+        "头发、毛发"
+      ],
+      [
+        "现代 hair 词族",
+        "毛发集合与单根；护理、造型、发际线和细如发丝的比喻"
+      ],
+      [
+        "short + hair → shorthair",
+        "短毛特征 → 短毛动物名"
+      ]
+    ],
+    "explanation": "a British Shorthair 英国短毛猫，a domestic shorthair 家养短毛猫；品种名常大写。",
+    "usage": "a British Shorthair；a domestic shorthair；a shorthair cat。",
+    "contrast": "shorthair 名词称动物，short-haired 形容毛短；人剪短发通常说 has short hair，不把人叫 a shorthair。",
+    "examples": [
+      [
+        "They adopted a domestic shorthair from the shelter.",
+        "他们从收容所领养了一只家养短毛猫。"
+      ],
+      [
+        "The British Shorthair sat beside the window.",
+        "英国短毛猫坐在窗边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shorthair#English"
+    ]
+  }
+]

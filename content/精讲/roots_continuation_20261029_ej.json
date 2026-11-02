@@ -1,0 +1,93 @@
+[
+  {
+    "id": "B3899",
+    "meaning": "伸展、拉伸与拉直后的形状",
+    "core": "STRETCH：两端展开；STRAIGHT：历史上被拉直",
+    "image": "按 stretch 动作读 stretching 活动、stretchy 性质、stretcher 工具，straight 则说明旧分词历史。",
+    "intro": "古英语伸展词族的分化留下现代 stretch、straight 两词；现代过去分词仍用 stretched，不能因历史关系随意换。",
+    "forms": "stretch → stretching、stretchy、stretcher；旧分词分支 → straight。\n\n古英语 streccan 的继承词；tch 后 ed 读 t。\n\nrack 的架子支可能接中古荷兰 rec 框架、伸展词，动词又有拉伸、折磨；和 stretch 比较更远材料，不是现代 stretch 派生。肉排、流云等同形支各有分析，本组不硬串。\n\nspandex 名称是 expands 的字母重排，不是现代词根 span + dex。伸展的图景帮助理解用途，与英语 stretch 只作意义对照。\n\nstretch 承古英语 streccan 拉伸、延展，现代加 -es，/tʃ/ 后读 /ɪz/。路段、时间段与伸展动作都可。",
+    "branches": [
+      [
+        "基本动作与历史分支",
+        "stretch · straight"
+      ],
+      [
+        "动作、性质与工具",
+        "stretching · stretchy · stretcher"
+      ],
+      [
+        "stretch → stretched：拉长、伸展",
+        "stretch · stretched"
+      ],
+      [
+        "rack：伸展开的架子，到折磨、绞尽脑汁",
+        "rack · racks · racked · racking"
+      ],
+      [
+        "stretch 对照：spandex 弹性纤维的造名",
+        "spandex"
+      ],
+      [
+        "stretch 拉长 → stretches",
+        "stretches"
+      ]
+    ],
+    "contrasts": "straight 源于旧分词但今天不是 stretch 的常用过去分词；stretchy 弹性不等于宽松。",
+    "practice": "Stretch the string until it forms a straight line.\n\n把线绷开，直到它成一条直线。",
+    "words": [
+      "stretch",
+      "straight",
+      "stretching",
+      "stretchy",
+      "stretcher",
+      "stretched",
+      "rack",
+      "racks",
+      "racked",
+      "racking",
+      "spandex",
+      "stretches"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2654",
+    "meaning": "兄弟、情谊与继亲关系",
+    "core": "BROTHER：不分哥哥弟弟的基本亲属词",
+    "image": "从 brother 读到 brotherhood 情谊、brotherly 态度，再分旧复数 brethren 与继亲 stepbrother。",
+    "intro": "古英语继承的古老亲属词。brethren 保留历史复数演变，现代日常亲兄弟仍优先 brothers。",
+    "forms": "brother → brothers、brethren、brotherhood、brotherly；step- + brother → stepbrother。\n\nbrothers 是日常兄弟的普通复数，特殊 brethren 主要留在团体、宗教等语境。",
+    "branches": [
+      [
+        "核心与特定复数",
+        "brother · brethren"
+      ],
+      [
+        "关系、态度与继亲",
+        "brotherhood · brotherly · stepbrother"
+      ],
+      [
+        "brother → brothers：哥哥、弟弟与同伴",
+        "brother · brothers"
+      ]
+    ],
+    "contrasts": "brotherly 形容词；brethren 已复数；stepbrother 不同于共享一位生父母的 half-brother。",
+    "practice": "His stepbrother offered brotherly support.\n\n他的继兄弟给予了他兄弟般的支持。",
+    "words": [
+      "brother",
+      "brethren",
+      "brotherhood",
+      "brotherly",
+      "stepbrother",
+      "brothers"
+    ],
+    "exclude": {
+      "brother-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brother-out-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-brother": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brother-zone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "womb-brother": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brother-slayer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

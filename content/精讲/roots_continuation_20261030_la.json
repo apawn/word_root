@@ -1,0 +1,155 @@
+[
+  {
+    "id": "B4464",
+    "meaning": "对待、规则、判断缺少公正，派生方式与性质名词",
+    "core": "UNFAIR：看是否公正，再分动作方式和抽象性质",
+    "image": "unfair → unfairly、unfairness。",
+    "intro": "不同待遇不自动解释全部公平问题。词汇学习先看词性：不公正的规则、不公正地对待，以及不公正本身。",
+    "forms": "un- + fair → unfair；-ly 副词，-ness 名词。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "unfair · unfairly · unfairness"
+      ]
+    ],
+    "contrasts": "unfairly 修饰动作，unfairness 说性质、情况；评价是否成立还看具体事实。",
+    "practice": "The unfair rule led to complaints that people were being treated unfairly.\n\n不公平的规则引来抱怨，人们认为自己受到了不公正对待。",
+    "words": [
+      "unfair",
+      "unfairly",
+      "unfairness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4167",
+    "meaning": "保护、担保走向授权凭证及支持行动的理由",
+    "core": "WARRANT：有保证、授权或理由支撑某事",
+    "image": "warrant → warrantless。",
+    "intro": "凭证可以给行动授权，事实可以给判断提供依据；相邻但不同的两层形成名词和动词用法。",
+    "forms": "warant、garant 等 → warrant；日耳曼保护词族背景；-less 没有。\n\nwarrant 经古北法语与日耳曼保护、保证词族，后说授权文书、充分理由。现代 -s 可是令状复数，也可是足以支持某事的第三人称动词。\n\nwarranty 经法语 warantie 保护、担保词族，现代常见产品保证、保修义；不凭词源指定具体保修范围。",
+    "branches": [
+      [
+        "保证、授权、理由与否定性质",
+        "warrant · warrantless"
+      ],
+      [
+        "warrant 保障、授权 → warrants",
+        "warrants"
+      ],
+      [
+        "warrant 保护、保证 → warranty",
+        "warranty"
+      ]
+    ],
+    "contrasts": "warrant attention 是值得注意；warrantless 先描述未持令状，具体法律判断另看适用规则。",
+    "practice": "The new evidence may warrant a closer examination.\n\n新证据可能使进一步仔细审查成为必要。",
+    "words": [
+      "warrant",
+      "warrantless",
+      "warrants",
+      "warranty"
+    ],
+    "exclude": {
+      "distress-warrant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2092",
+    "meaning": "再、此后延续或进一步，固定在副词组合里",
+    "core": "MORE：在这些组合里看进一步、此后延续",
+    "image": "furthermore 进一步补充；evermore 此后永远；nevermore 再也不。",
+    "intro": "几个词都能看见 more，但有的加一条论述，有的延长时间，不宜一律翻成更多数量。",
+    "forms": "further、ever、never + more；nevermore 还有古英语相应短语历史。",
+    "branches": [
+      [
+        "论述补充",
+        "furthermore"
+      ],
+      [
+        "时间延续与否定",
+        "evermore · nevermore"
+      ]
+    ],
+    "contrasts": "furthermore 是另外、更进一步；nevermore 带文学色彩，日常 never again 更普遍。",
+    "practice": "The legend says the old castle was seen nevermore.\n\n传说说，那座旧城堡从此再未出现。",
+    "words": [
+      "furthermore",
+      "evermore",
+      "nevermore"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4475",
+    "meaning": "恐怖主义名称及反对、预防这一活动的相关词",
+    "core": "TERRORISM：整词先认清，前部再限定手段或应对方向",
+    "image": "terrorism → bioterrorism 限定生物手段；anti- + terrorism → antiterrorism 应对领域。",
+    "intro": "构词说明名称所限定的方向，不替代具体行为、政策的法律定义或事实判断。基础学习先分活动本身与反对它的活动。",
+    "forms": "terror + -ism 的历史整词 → terrorism；bio- 生物，anti- 反对、抵御。",
+    "branches": [
+      [
+        "基础与特定手段",
+        "terrorism · bioterrorism"
+      ],
+      [
+        "反对、预防和应对",
+        "antiterrorism"
+      ]
+    ],
+    "contrasts": "anti- 取反对、抵御；bioterrorism 前部指生物手段；整词意义不能只靠中文主义硬推。",
+    "practice": "The course examines terrorism and the history of antiterrorism policy.\n\n课程研究恐怖主义及反恐政策的历史。",
+    "words": [
+      "terrorism",
+      "bioterrorism",
+      "antiterrorism"
+    ],
+    "exclude": {
+      "counter-terrorism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1895",
+    "meaning": "穿、戴的物件类别，前部说明位置、用途、材料或对象",
+    "core": "WEAR：作为词尾时，把前部线索变成穿戴物类别",
+    "image": "underwear、outerwear 看层次；knitwear 看工艺；sportswear、workwear 等看用途；eyewear、footwear 看部位。",
+    "intro": "同一件衣物可同时属于几种类别，针织、内衣、运动用途并不互相排斥。许多 -wear 名词作不可数集合名称。",
+    "forms": "wear 穿戴；under、outer 层次，knit 针织；men、women 人群；eye、foot、head 部位，其他前部按用途解释。",
+    "branches": [
+      [
+        "层次、工艺与部位",
+        "underwear · outerwear · knitwear · footwear · eyewear · headwear"
+      ],
+      [
+        "活动、工作与场景",
+        "swimwear · sportswear · workwear · sleepwear · nightwear · activewear · beachwear · streetwear"
+      ],
+      [
+        "对象与塑形用途",
+        "menswear · womenswear · shapewear"
+      ]
+    ],
+    "contrasts": "许多 -wear 名词不可数；knitwear 不保证羊毛；eyewear 说眼镜等穿戴物，范围不只布制衣服。",
+    "practice": "The department sells underwear, outerwear and knitwear on the same floor.\n\n这个部门在同一层出售内衣、外套和针织服装。",
+    "words": [
+      "underwear",
+      "outerwear",
+      "knitwear",
+      "footwear",
+      "eyewear",
+      "headwear",
+      "swimwear",
+      "sportswear",
+      "workwear",
+      "sleepwear",
+      "nightwear",
+      "activewear",
+      "beachwear",
+      "streetwear",
+      "menswear",
+      "womenswear",
+      "shapewear"
+    ],
+    "exclude": {}
+  }
+]

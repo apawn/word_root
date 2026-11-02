@@ -1,0 +1,134 @@
+[
+  {
+    "id": "A1774",
+    "meaning": "与……有关的；某类人、场所、事物等名词",
+    "core": "-ARY：连接某个领域、用途或性质，不限于形容词",
+    "image": "budget 预算 → budgetary 预算的；precaution 预防 → precautionary 预防性的；bound 界限 → boundary 边界。认出关联，再看整词是性质还是事物。",
+    "intro": "最常见的动作是把名词变成相关形容词：预算的、预防的、唾液的。但这个词尾还在 boundary、library、dictionary 等名词历史里出现；因此不能见 -ary 就强判一定是形容词。",
+    "forms": "多接拉丁 -arius、-aria、-arium 一类相关、所属的材料，部分经法语相应形式进入英语，后来也用于英语构词。budgetary 是英语 budget 与词尾组合，elementary、cautionary 等有拉丁借入历史；不同词不必共用一个先有现代英文短词的时间线。现代词干会变：saliva → salivary，不写 salivaary；-ary 常弱读，英美是否保留较完整的元音要看单词 IPA。\n\nelement 本身是拉丁借词，其更远来源未定；elementary 与其对应，复数 elements 有常见独立用法。\n\nbound 边界这一名词加 ary；改 y 为 i 加 es，区别于 bind 过去形式等同形词。\n\n经法语的独立名词借词，现代 y 改 i 加 es。\n\nbudget 经法语 bougette 小皮袋，远接拉丁 bulga 袋；财政文件装在袋中这一用法连到财务计划。复数 budgets 不是从 -ary 派生，此处与 budgetary 同族学习。",
+    "branches": [
+      [
+        "界限、预算与相关事项",
+        "bound · boundary · budget · budgetary"
+      ],
+      [
+        "警示与事先预防",
+        "caution · cautionary · precaution · precautionary"
+      ],
+      [
+        "唾液的名词和形容词",
+        "saliva · salivary"
+      ],
+      [
+        "转移注意与优惠",
+        "diversion · diversionary · concession · concessionary"
+      ],
+      [
+        "组成要素与基础层面",
+        "element · elementary"
+      ],
+      [
+        "常见借入的形容词和名词",
+        "primary · secondary · ordinary · temporary · literary · dictionary · library · secretary"
+      ],
+      [
+        "element／elementary：基本成分与基础原理",
+        "element · elements"
+      ],
+      [
+        "boundary → boundaries：划出范围的界线",
+        "bound · boundary · boundaries"
+      ],
+      [
+        "salary → salaries：按期薪酬",
+        "salary · salaries"
+      ],
+      [
+        "budget、budgets 与 budgetary 对照",
+        "budgets"
+      ]
+    ],
+    "contrasts": "cautionary 警示与 precautionary 预防分开；budgetary 是预算方面，不是所有 budget 低价义都适用；elementary 基础与 elemental 原始、基本的常用搭配有别；stationary 不动的与 stationery 文具需要分清。",
+    "practice": "The school took precautionary steps despite budgetary constraints.\n\n学校尽管预算受限，仍采取了预防措施。",
+    "words": [
+      "bound",
+      "boundary",
+      "budget",
+      "budgetary",
+      "caution",
+      "cautionary",
+      "precaution",
+      "precautionary",
+      "saliva",
+      "salivary",
+      "diversion",
+      "diversionary",
+      "concession",
+      "concessionary",
+      "element",
+      "elementary",
+      "primary",
+      "secondary",
+      "ordinary",
+      "necessary",
+      "temporary",
+      "dictionary",
+      "library",
+      "salary",
+      "anniversary",
+      "adversary",
+      "secretary",
+      "vocabulary",
+      "literary",
+      "voluntary",
+      "stationary",
+      "intermediary",
+      "solitary",
+      "military",
+      "documentary",
+      "legendary",
+      "parliamentary",
+      "revolutionary",
+      "missionary",
+      "evolutionary",
+      "imaginary",
+      "scenery",
+      "honorary",
+      "complementary",
+      "planetary",
+      "visionary",
+      "sanitary",
+      "supplementary",
+      "complimentary",
+      "discretionary",
+      "reactionary",
+      "rudimentary",
+      "sedimentary",
+      "unitary",
+      "inflationary",
+      "expeditionary",
+      "fragmentary",
+      "probationary",
+      "exclusionary",
+      "granary",
+      "deflationary",
+      "expansionary",
+      "elements",
+      "boundaries",
+      "salaries",
+      "budgets"
+    ],
+    "exclude": {
+      "evidentiary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "maxillary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "antiquary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ciliary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "papillary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "supernumerary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cometary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alimentary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "legionary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "illusionary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

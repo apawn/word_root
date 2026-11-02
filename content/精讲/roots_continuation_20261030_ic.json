@@ -1,0 +1,152 @@
+[
+  {
+    "id": "B2821",
+    "meaning": "弯曲的形状、能力及方向比喻",
+    "core": "BEND：离开原来的直线，朝另一边转",
+    "image": "bend → bent；bendy/bendable 讲性质、能力；bender 可是工具或俚语活动；riverbend 是河道弯。",
+    "intro": "从弓上弦时弯起来的画面看形状，再看心思朝一个方向的 bent on。不要把所有含 bend 字母的词都强接到弯曲。",
+    "forms": "bendan → bend；bend → bent；bend + -y/-able/-er；river + bend。\n\n古英语 bendan 上弓弦、使弯词，联系绑束材料；ing 不换成过去式 bent。",
+    "branches": [
+      [
+        "弯曲动作、结果和能力",
+        "bend · bent · bendy · bendable"
+      ],
+      [
+        "工具、活动与地理",
+        "bender · riverbend"
+      ],
+      [
+        "bend → bends、bending：弯曲、改变方向",
+        "bend · bends · bending"
+      ]
+    ],
+    "contrasts": "bent 是形状或倾向；bendable 不表示已经弯；bender 狂饮义来源未定；prebend 接拉丁供给词，不从 bend 弯曲派生。",
+    "practice": "The bendable wire was bent into a curve with the bender.\n\n可弯金属丝用弯曲工具弯成了弧形。",
+    "words": [
+      "bend",
+      "bent",
+      "bendy",
+      "bendable",
+      "bender",
+      "riverbend",
+      "bends",
+      "bending"
+    ],
+    "exclude": {
+      "prebend": "拉丁 praebenda 供给一路，与 bend 弯曲并非现代同源派生。"
+    }
+  },
+  {
+    "id": "B3693",
+    "meaning": "看守保护，及被照管的人、地方和管理角色",
+    "core": "WARD：有人照管，再看照管谁、哪一片范围",
+    "image": "ward → warder；steward 是家务事务管理者发展来的词。病区、选区、监护对象分别落在范围和人上。",
+    "intro": "保护动作可以把名称给人，也可给受照管对象和管理范围。词尾角色与位置必须分清，才不会把监护人和受监护者颠倒。",
+    "forms": "weard/weardian → ward；ward + -er；stiġ + weard → steward。\n\nreward、garage 经法语不同词借入，较早接日耳曼看顾、保护材料；与 ward 有历史联系，并非现代英语 ward 临时换几个字母。\n\n法语看顾、酬报词走向英语奖励，现代名词复数和三单同形。\n\nward 本族继承，wardrobe 借古北法语组合；不是把现代 ward 现场接 robe 才造出的词。\n\nreward 与 regard 是法语方言路径不同的同源对应词，远有 re- 加强与观察、留意的材料。现代 reward + -ed，/d/ 后读 /ɪd/。\n\nreward 经法语 rewarder 与看顾、回应功绩的材料，re- 可能加强，不必逐次再看。现代加 -ing，形容词常说值得、有满足感。\n\nward 承古英语 weard 看护、保护及守卫者，后有受监护者、城市辖区、医院病区义；现代 -s，按环境选择。",
+    "branches": [
+      [
+        "看守、对象与角色",
+        "ward · warder"
+      ],
+      [
+        "受托管理事务",
+        "steward"
+      ],
+      [
+        "看顾词族的法语分支：reward 与 garage",
+        "ward · reward · garage"
+      ],
+      [
+        "reward → rewards：付出得到回报；奖励某人",
+        "reward · rewards"
+      ],
+      [
+        "ward 的同族借词 wardrobe、wardrobes",
+        "ward · wardrobe · wardrobes"
+      ],
+      [
+        "留意、认可 → reward → rewarded",
+        "rewarded"
+      ],
+      [
+        "ward- 留意、看顾 → reward → rewarding",
+        "rewarding"
+      ],
+      [
+        "ward 看护、守卫 → wards",
+        "wards"
+      ]
+    ],
+    "contrasts": "ward 不等于 guardian；医院 ward 不必单间；steward 不是只能由猪圈解释；ward off 是挡开。",
+    "practice": "The steward managed the event, while the warder guarded the prison.\n\n会务人员管理活动，监狱看守则负责看管监狱。",
+    "words": [
+      "ward",
+      "warder",
+      "steward",
+      "reward",
+      "garage",
+      "rewards",
+      "wardrobe",
+      "wardrobes",
+      "rewarded",
+      "rewarding",
+      "wards"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2831",
+    "meaning": "孵育、繁殖、养成与品种",
+    "core": "BREED：延续下一代，或让某种结果滋生",
+    "image": "breed → breeding/breeder；crossbreed 杂交繁育及其后代。名词 breed 是品种，不等于物种。",
+    "intro": "生命繁育最直观，旧教养义抓成长培养，抽象滋生义抓结果不断产生。具体领域的评价不能只凭词根决定。",
+    "forms": "brēdan → breed/bred/bred；breed + -ing/-er；cross + breed。\n\nbreed → bred → bred；繁育后代、人的成长环境和滋生某种情绪要按搭配理解。\n\nbrood 承古英语 brod，breed 接同一日耳曼孵育材料的动词一支；brood 动词从孵蛋发展出把烦心事反复留在心里的比喻。\n\nbrood 和 breed 接孵育、温热的旧词族；broodingly 写忧思、沉郁的样子，brooder 还可指保温育雏箱。\n\nbreed 承古英语 bredan，关联孵育、温暖的日耳曼词族。现代 -s，名词复数说品种，动词第三人称说繁殖、引发。",
+    "branches": [
+      [
+        "动作、品种与过程角色",
+        "breed · breeding · breeder"
+      ],
+      [
+        "交叉繁育",
+        "crossbreed"
+      ],
+      [
+        "breed 与 bred：繁育、养成、滋生",
+        "breed · bred"
+      ],
+      [
+        "breed 与 brood 的孵育词族及心里反复想着",
+        "breed · brood · broods · brooded · brooding"
+      ],
+      [
+        "brood：守着孵育，到把心事久久留着",
+        "breed · brood · brooding · broodingly · brooder · brooders"
+      ],
+      [
+        "breed 生育、培育 → breeds",
+        "breeds"
+      ]
+    ],
+    "contrasts": "breed 不等于 species；bred 与 bread 面包同音但不同词；good breeding 旧式说教养；breeder 不等于所有者。",
+    "practice": "The breeder explained how the breeding programme preserved the breed.\n\n繁育者解释了繁育计划如何保存这个品种。",
+    "words": [
+      "breed",
+      "breeding",
+      "breeder",
+      "crossbreed",
+      "bred",
+      "brood",
+      "broods",
+      "brooded",
+      "brooding",
+      "broodingly",
+      "brooder",
+      "brooders",
+      "breeds"
+    ],
+    "exclude": {
+      "half-breed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quarter-breed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,1110 @@
+[
+  {
+    "word": "staged",
+    "ipa": "/steɪdʒd/",
+    "meaning": "上演、举办了；安排出来的、摆拍的",
+    "sense": "把表演、活动放到公众面前，是 staged；把一个看似自然的场景事先安排好，也能说 staged。",
+    "split": "stage 去末尾 e，加完整 -ed，/dʒ/ 后读 /d/。动词从舞台、组织呈现的名词用途发展。",
+    "history": [
+      [
+        "古法语 estage → 中古英语 stage",
+        "所处位置、平台，远接站立词族"
+      ],
+      [
+        "英语 stage 的名词与动词发展",
+        "舞台、阶段；把活动组织上演"
+      ],
+      [
+        "stage + -ed → staged〔去 e〕",
+        "过去上演、组织；事先安排好的"
+      ]
+    ],
+    "explanation": "staged a concert 是举办了音乐会；a staged photograph 是摆拍照片。",
+    "usage": "staged a play 上演了戏；a carefully staged scene 精心安排的场景。",
+    "contrast": "staged 可以只是正规组织演出，也能暗示画面并不自然发生；对象和语境决定语气。",
+    "examples": [
+      [
+        "The students staged a short play.",
+        "学生们上演了一出短剧。"
+      ],
+      [
+        "The photograph was carefully staged.",
+        "照片是精心摆拍的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staged#English",
+      "https://en.wiktionary.org/wiki/stage#English"
+    ]
+  },
+  {
+    "word": "staging",
+    "ipa": "/ˈsteɪdʒɪŋ/",
+    "meaning": "演出呈现、舞台处理；组织、上演的过程；分阶段安排",
+    "sense": "剧本相同，演员怎样站、场景怎样换，呈现出来可以很不一样；这套舞台呈现叫 staging，也能泛指把活动组织出来。",
+    "split": "stage 去末尾 e，加 -ing。stage 的舞台义提供演出呈现，阶段义还进入分阶段安排等用法。",
+    "history": [
+      [
+        "古法语 estage → 中古英语 stage",
+        "所处位置、平台，远接站立词族"
+      ],
+      [
+        "英语 stage 的名词与动词发展",
+        "舞台、阶段；把活动组织上演"
+      ],
+      [
+        "stage + -ing → staging〔去 e〕",
+        "组织上演的过程；具体舞台呈现及阶段安排"
+      ]
+    ],
+    "explanation": "the staging of the play 是戏的舞台呈现、演出处理；staging a festival 是组织节庆。",
+    "usage": "simple staging 简洁的舞台呈现；staging the event 组织活动。",
+    "contrast": "acting 关注表演，staging 关注整部戏怎样在舞台上呈现；演员和布景安排都是其中部分。",
+    "examples": [
+      [
+        "The staging was simple but effective.",
+        "舞台呈现简洁而有效。"
+      ],
+      [
+        "The school is staging a concert next month.",
+        "学校下个月将举办音乐会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staging#English",
+      "https://en.wiktionary.org/wiki/stage#English"
+    ]
+  },
+  {
+    "word": "stagehand",
+    "ipa": "/ˈsteɪdʒhænd/",
+    "meaning": "舞台工作人员",
+    "sense": "演员在灯光下，旁边有人搬布景、安排道具、协助换场。这些实际做舞台工作的人可以叫 stagehand。",
+    "split": "stage 舞台 + hand 人手、工作人员；hand 用人的劳动能力代指人，不是只叫一只手。",
+    "history": [
+      [
+        "stage 舞台；hand 的工作人员义",
+        "在舞台相关工作中出力的人"
+      ],
+      [
+        "stage + hand → stagehand",
+        "舞台工作人员"
+      ]
+    ],
+    "explanation": "a stagehand 常负责舞台技术、布景道具等实际工作；具体分工随剧场、演出而异。",
+    "usage": "work as a stagehand 当舞台工作人员；a theatre stagehand 剧场舞台工作人员。",
+    "contrast": "performer 通常指呈现表演的人，stagehand 关注支撑舞台运转的工作；是同一演出中的不同角色。",
+    "examples": [
+      [
+        "A stagehand moved the chair into position.",
+        "一位舞台工作人员把椅子搬到位。"
+      ],
+      [
+        "She worked as a stagehand before becoming a designer.",
+        "她成为设计师前当过舞台工作人员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stagehand#English"
+    ]
+  },
+  {
+    "word": "stagehands",
+    "ipa": "/ˈsteɪdʒhændz/",
+    "meaning": "舞台工作人员〔复数〕",
+    "sense": "几位工作人员在幕布后配合换景，就是 stagehands。数的是工作人员，不是演员的手部动作。",
+    "split": "stagehand + -s，/d/ 后读 /z/；先把 stage 与 hand 人手组成职业名，再在全词末变复数。",
+    "history": [
+      [
+        "stage + hand → stagehand",
+        "舞台工作人员"
+      ],
+      [
+        "stagehand + -s → stagehands",
+        "多位舞台工作人员"
+      ]
+    ],
+    "explanation": "the stagehands changed the set 是工作人员更换布景；他们可在表演继续时于后台协作。",
+    "usage": "a team of stagehands 舞台工作团队；experienced stagehands 有经验的舞台工作人员。",
+    "contrast": "stagehands 是人，stage props 是舞台道具；hand 的工作人员义把词的指向从东西变成人。",
+    "examples": [
+      [
+        "The stagehands changed the set during the interval.",
+        "舞台工作人员在幕间休息时更换了布景。"
+      ],
+      [
+        "Two stagehands carried the large table backstage.",
+        "两位舞台工作人员把大桌子抬到后台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stagehands#English",
+      "https://en.wiktionary.org/wiki/stagehand#English"
+    ]
+  },
+  {
+    "word": "stagecoach",
+    "ipa": "英 /ˈsteɪdʒkəʊtʃ/；美 /ˈsteɪdʒkoʊtʃ/",
+    "meaning": "驿站马车、按固定路线分段行驶的公共马车",
+    "sense": "长路分成几段，马车沿途停靠、换马或让乘客上下，再向下一站走。这里的 stage 是路程一段，不是表演舞台。",
+    "split": "stage 旅程分段 + coach 马车。coach 本身借自欧洲车辆名，远接匈牙利 Kocs；不是把演出与体育教练拼在一起。",
+    "history": [
+      [
+        "stage 旅程的一段 + coach 马车 → stagecoach",
+        "按分段路线运送乘客的马车"
+      ],
+      [
+        "coach 的车辆借词历史",
+        "经法语、德语等接匈牙利地名 Kocs 的相关车辆名称"
+      ]
+    ],
+    "explanation": "历史小说、交通史里常见 stagecoach，关注定线载客、分站行程这类旧交通方式。",
+    "usage": "travel by stagecoach 乘驿站马车旅行；a stagecoach route 马车线路。",
+    "contrast": "coach 可指马车、客车或教练；stagecoach 选的是车辆义，stage 选旅程分段义。",
+    "examples": [
+      [
+        "The stagecoach stopped at the inn to change horses.",
+        "驿站马车停在旅店换马。"
+      ],
+      [
+        "The village once lay on a busy stagecoach route.",
+        "村子曾位于一条繁忙的驿站马车线上。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/stagecoach",
+      "https://en.wiktionary.org/wiki/stagecoach#English"
+    ]
+  },
+  {
+    "word": "stagecoaches",
+    "ipa": "英 /ˈsteɪdʒkəʊtʃɪz/；美 /ˈsteɪdʒkoʊtʃɪz/",
+    "meaning": "驿站马车、定线公共马车〔复数〕",
+    "sense": "几辆按站走的旧式载客马车，叫 stagecoaches；词尾数车，不是在数路线上的几个阶段。",
+    "split": "stagecoach + -es，/tʃ/ 后读 /ɪz/；复合词在末尾 coach 上变化，前面 stage 保留。",
+    "history": [
+      [
+        "stage 旅程的一段 + coach 马车 → stagecoach",
+        "按分段路线运送乘客的马车"
+      ],
+      [
+        "coach 的车辆借词历史",
+        "经法语、德语等接匈牙利地名 Kocs 的相关车辆名称"
+      ],
+      [
+        "stagecoach + -es → stagecoaches",
+        "多辆驿站马车"
+      ]
+    ],
+    "explanation": "horse-drawn stagecoaches 是马拉的公共马车；读交通史时不要按现代 coach 教练去认。",
+    "usage": "old stagecoaches 旧式驿站马车；stagecoaches carried passengers 马车载客。",
+    "contrast": "stages 是阶段、分段的复数，stagecoaches 是整类车辆的复数；长复合词先认最后的核心名称。",
+    "examples": [
+      [
+        "Stagecoaches once carried passengers between the towns.",
+        "驿站马车曾在这些城镇间运送乘客。"
+      ],
+      [
+        "The museum displays two restored stagecoaches.",
+        "博物馆展出两辆修复过的驿站马车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stagecoaches#English",
+      "https://www.etymonline.com/word/stagecoach"
+    ]
+  },
+  {
+    "word": "playhouse",
+    "ipa": "/ˈpleɪhaʊs/",
+    "meaning": "剧场；儿童游戏屋",
+    "sense": "play 可以是戏，也可以是玩。给戏一个房屋，是剧场；给孩子玩耍一间小屋，也叫 playhouse。",
+    "split": "play + house；相应组合在晚古英语已有记录，不是所有合写词都由现代英语新造。两个常用义按前面 play 的用途理解。",
+    "history": [
+      [
+        "古英语已有 pleghus 一类组合",
+        "play 的游戏、表演材料与 house 房屋结合"
+      ],
+      [
+        "英语 playhouse",
+        "剧场；也用于儿童玩耍的小房屋"
+      ]
+    ],
+    "explanation": "the local playhouse 常说本地剧场；a garden playhouse 常说花园里给孩子玩的房子。",
+    "usage": "a children’s playhouse 儿童游戏屋；the town playhouse 镇上的剧场。",
+    "contrast": "playhouse 是一个场所名，play house 分开写时可指孩子玩过家家；组合方式改变了句子里的工作。",
+    "examples": [
+      [
+        "The local playhouse is staging a new comedy.",
+        "本地剧场正在上演一出新喜剧。"
+      ],
+      [
+        "The children spent the afternoon in their garden playhouse.",
+        "孩子们下午都在花园游戏屋里玩。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/playhouse",
+      "https://en.wiktionary.org/wiki/playhouse#English"
+    ]
+  },
+  {
+    "word": "playhouses",
+    "ipa": "/ˈpleɪhaʊzɪz/",
+    "meaning": "剧场；儿童游戏屋〔复数〕",
+    "sense": "不同小剧场、几间儿童玩耍的小屋，都可以数作 playhouses；先看里面发生的是演戏还是孩子游戏。",
+    "split": "playhouse + -s，末尾按 houses 的常见 /haʊzɪz/ 变化；复数作用于整个 play + house 的场所名称。",
+    "history": [
+      [
+        "古英语已有 pleghus 一类组合",
+        "play 的游戏、表演材料与 house 房屋结合"
+      ],
+      [
+        "英语 playhouse",
+        "剧场；也用于儿童玩耍的小房屋"
+      ],
+      [
+        "playhouse + -s → playhouses",
+        "多个剧场、游戏屋"
+      ]
+    ],
+    "explanation": "small playhouses 可以说小剧场，也可说小型游戏屋；theatre、garden、children 等周围词帮助选义。",
+    "usage": "local playhouses 本地剧场；wooden playhouses 木制游戏屋。",
+    "contrast": "playhouses 是房屋、场所，plays 是剧作、表演的复数；场所可以上演许多不同的 plays。",
+    "examples": [
+      [
+        "Several small playhouses opened in the city.",
+        "城里开了几个小剧场。"
+      ],
+      [
+        "The park has two wooden playhouses for children.",
+        "公园里有两间供孩子玩耍的木屋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playhouses#English",
+      "https://www.etymonline.com/word/playhouse"
+    ]
+  },
+  {
+    "word": "auditoriums",
+    "ipa": "英 /ˌɔːdɪˈtɔːriəmz/；美 /ˌɑːdɪˈtɔːriəmz/",
+    "meaning": "礼堂、观众厅〔复数〕",
+    "sense": "人们坐下来一起听讲、看演出的大空间，叫 auditorium；几座礼堂或几个观众厅是 auditoriums。",
+    "split": "auditorium + 英语复数 -s。原词是拉丁听取相关的场所名称，不是现代 audio 后任意添一串字母。",
+    "history": [
+      [
+        "拉丁 audire 听 → auditorius 与听有关的 → auditorium",
+        "供人听讲、聚集的地方"
+      ],
+      [
+        "英语 auditorium",
+        "礼堂、观众厅；两种复数形式并存"
+      ],
+      [
+        "auditorium + -s → auditoriums",
+        "多个礼堂、观众厅"
+      ]
+    ],
+    "explanation": "school auditoriums 是学校礼堂；a complex with two auditoriums 是有两个观众厅的建筑群。",
+    "usage": "large auditoriums 大礼堂；university auditoriums 大学礼堂。",
+    "contrast": "auditoriums 与 auditoria 都是 auditorium 的复数；不同词尾没有把建筑分成两类。",
+    "examples": [
+      [
+        "The campus has two large auditoriums.",
+        "校园里有两个大礼堂。"
+      ],
+      [
+        "Both auditoriums were full for the festival.",
+        "音乐节期间两个观众厅都坐满了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditoriums#English",
+      "https://en.wiktionary.org/wiki/auditorium#English"
+    ]
+  },
+  {
+    "word": "auditoria",
+    "ipa": "英 /ˌɔːdɪˈtɔːriə/；美 /ˌɑːdɪˈtɔːriə/",
+    "meaning": "礼堂、观众厅〔auditorium 的另一复数〕",
+    "sense": "看到 auditoria，不是换了一种建筑，而是 auditorium 的复数换成了拉丁式样子。",
+    "split": "auditorium 的拉丁式复数 auditoria，-ium 对应 -ia；英语也有普通加 -s 的 auditoriums。a 在这里是旧复数材料，不是新造一个地点词根。",
+    "history": [
+      [
+        "拉丁 audire 听 → auditorius 与听有关的 → auditorium",
+        "供人听讲、聚集的地方"
+      ],
+      [
+        "英语 auditorium",
+        "礼堂、观众厅；两种复数形式并存"
+      ],
+      [
+        "auditorium → auditoria",
+        "采用拉丁式复数，仍指数个观众厅"
+      ]
+    ],
+    "explanation": "two auditoria 就是两个礼堂、观众厅；可与 auditoriums 对照认读。",
+    "usage": "modern auditoria 现代观众厅；several auditoria 几个礼堂。",
+    "contrast": "auditorium 单数、auditoria 复数；别在 auditoria 后重复再加一个 s。",
+    "examples": [
+      [
+        "The centre contains three auditoria of different sizes.",
+        "中心里有三个大小不同的观众厅。"
+      ],
+      [
+        "The university renovated its two oldest auditoria.",
+        "大学翻修了两座最老的礼堂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditoria#English",
+      "https://en.wiktionary.org/wiki/auditorium#English"
+    ]
+  },
+  {
+    "word": "dramas",
+    "ipa": "/ˈdrɑːməz/",
+    "meaning": "戏剧作品、剧情剧；有波折的事件〔复数〕",
+    "sense": "舞台、屏幕上人物之间有冲突和转折，这是 dramas；生活中一件件情绪拉满的波折，也可形象地这样说。",
+    "split": "drama + -s，词末元音后读 /z/。基础名词借希腊 drama 行动、戏剧，经拉丁等路线进入英语。",
+    "history": [
+      [
+        "希腊 drao 做、表演 → drama，词干 dramat-",
+        "做出的行动、戏剧作品"
+      ],
+      [
+        "后期拉丁及英语 drama 词族",
+        "戏剧；充满情绪波折的事情；相关词保留 dramat-"
+      ],
+      [
+        "drama + -s → dramas",
+        "多部剧作；一件件有情绪波折的事"
+      ]
+    ],
+    "explanation": "television dramas 是电视剧，family dramas 可说家庭题材剧，也可说现实中的家庭风波。",
+    "usage": "historical dramas 历史剧；everyday dramas 日常小风波。",
+    "contrast": "dramas 可以指作品，也可比喻生活事件；watch dramas 常看剧，deal with dramas 则常在应对风波。",
+    "examples": [
+      [
+        "She prefers historical dramas to comedies.",
+        "比起喜剧，她更喜欢历史剧。"
+      ],
+      [
+        "The novel captures the small dramas of family life.",
+        "小说描写了家庭生活里的种种小风波。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dramas#English",
+      "https://en.wiktionary.org/wiki/drama#English"
+    ]
+  },
+  {
+    "word": "dramatists",
+    "ipa": "/ˈdræmətɪsts/",
+    "meaning": "剧作家〔复数〕",
+    "sense": "把人物冲突写成能演出来的戏，这些创作者叫 dramatists。先看戏剧创作的身份，不是泛指喜欢夸张的人。",
+    "split": "drama 的希腊词干 dramat- + -ist → dramatist，再加 -s。中间 t 来自词干，常见元音 /dræ-/ 也与 drama 的 /drɑː-/ 不同。",
+    "history": [
+      [
+        "希腊 drao 做、表演 → drama，词干 dramat-",
+        "做出的行动、戏剧作品"
+      ],
+      [
+        "后期拉丁及英语 drama 词族",
+        "戏剧；充满情绪波折的事情；相关词保留 dramat-"
+      ],
+      [
+        "dramat- + -ist → dramatist → dramatists",
+        "戏剧创作者；多位剧作家"
+      ]
+    ],
+    "explanation": "modern dramatists 是现代剧作家；可以写喜剧、悲剧等不同类型。",
+    "usage": "young dramatists 年轻剧作家；works by different dramatists 不同剧作家的作品。",
+    "contrast": "actors 演角色，dramatists 创作戏剧；同一个人可兼有身份，词本身关注的工作不同。",
+    "examples": [
+      [
+        "The festival presents work by new dramatists.",
+        "戏剧节展示新剧作家的作品。"
+      ],
+      [
+        "Several dramatists helped adapt the story for the stage.",
+        "几位剧作家参与把故事改编上台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dramatists#English",
+      "https://en.wiktionary.org/wiki/dramatist#English"
+    ]
+  },
+  {
+    "word": "dramatized",
+    "ipa": "/ˈdræmətaɪzd/",
+    "meaning": "改编成戏剧了；戏剧化、夸张表现了",
+    "sense": "把文字故事变成可以演的场面，是 dramatized；把普通小事讲得波折惊人，也能用这个词。",
+    "split": "dramatize 去末尾 e，加完整 -ed，/z/ 后读 /d/。基础动词由 dramat- 与 -ize 形成，t 接 drama 的旧词干。",
+    "history": [
+      [
+        "希腊 drao 做、表演 → drama，词干 dramat-",
+        "做出的行动、戏剧作品"
+      ],
+      [
+        "后期拉丁及英语 drama 词族",
+        "戏剧；充满情绪波折的事情；相关词保留 dramat-"
+      ],
+      [
+        "dramat- + -ize → dramatize → dramatized〔去 e 加 -ed〕",
+        "改编成戏剧；夸张呈现后的动作、结果"
+      ]
+    ],
+    "explanation": "a dramatized version 是戏剧化改编版本，dramatized the event 可说把事件生动或夸张地演出来。",
+    "usage": "dramatized for television 改编成电视剧；a dramatized account 戏剧化叙述。",
+    "contrast": "adapted 只说改编，dramatized 明确带戏剧呈现或戏剧化强调；两者范围不同。",
+    "examples": [
+      [
+        "The novel was dramatized for television.",
+        "小说被改编成了电视剧。"
+      ],
+      [
+        "The actor dramatized the smallest inconvenience.",
+        "演员把最小的不便也表现得很戏剧化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dramatized#English",
+      "https://en.wiktionary.org/wiki/dramatize#English"
+    ]
+  },
+  {
+    "word": "dramatizing",
+    "ipa": "/ˈdræmətaɪzɪŋ/",
+    "meaning": "正在改编成戏剧；正在戏剧化、夸张表现",
+    "sense": "作者正在把故事变成能演的对话、场景，叫 dramatizing；也能说把生活小事渲染得太有戏。",
+    "split": "dramatize 去不发音 e，加完整 -ing。dramat- 接希腊戏剧名词的词干，不是随意在 drama 后塞 t。",
+    "history": [
+      [
+        "希腊 drao 做、表演 → drama，词干 dramat-",
+        "做出的行动、戏剧作品"
+      ],
+      [
+        "后期拉丁及英语 drama 词族",
+        "戏剧；充满情绪波折的事情；相关词保留 dramat-"
+      ],
+      [
+        "dramatize + -ing → dramatizing〔去 e〕",
+        "改编、戏剧化表现的过程"
+      ]
+    ],
+    "explanation": "dramatizing a story 是把故事改编为戏，dramatizing the problem 常说把问题表现得格外夸张。",
+    "usage": "dramatizing the novel 正在把小说改编成戏；keep dramatizing 不断戏剧化渲染。",
+    "contrast": "dramatizing 的创作义可中性，夸张义常带批评；主语、对象和语气会选出哪一种。",
+    "examples": [
+      [
+        "They are dramatizing the story for a school performance.",
+        "他们正在把故事改编成学校演出用的戏。"
+      ],
+      [
+        "You are dramatizing a very small problem.",
+        "你把一个很小的问题说得太戏剧化了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dramatizing#English",
+      "https://en.wiktionary.org/wiki/dramatize#English"
+    ]
+  },
+  {
+    "word": "actresses",
+    "ipa": "/ˈæktrəsɪz/",
+    "meaning": "女演员〔复数〕",
+    "sense": "actress 是女演员，几位一起表演就是 actresses。前一层说明人物名称，最后一层才说明不止一位。",
+    "split": "actress + -es，/s/ 后读 /ɪz/；actress 是 actor 的对应女性形式，历史接 -ess，不把全段 -esses 当成一个词尾。",
+    "history": [
+      [
+        "拉丁 actor 及法语、英语相关形式 → actor、actress",
+        "做事者、表演者；对应女性人物名"
+      ],
+      [
+        "actress + -es → actresses",
+        "多位女演员"
+      ]
+    ],
+    "explanation": "film actresses 电影女演员，stage actresses 舞台女演员；表演媒介可以放在前面。",
+    "usage": "two actresses 两位女演员；leading actresses 女主演。",
+    "contrast": "actors 也常不限定性别，actresses 明确说女演员；可以理解这个区别，再看人物、机构采用的称呼。",
+    "examples": [
+      [
+        "Two actresses shared the leading role.",
+        "两位女演员轮流担任主角。"
+      ],
+      [
+        "The film brought together actresses from several countries.",
+        "影片汇集了几个国家的女演员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/actresses#English",
+      "https://en.wiktionary.org/wiki/actress#English"
+    ]
+  },
+  {
+    "word": "dances",
+    "ipa": "英 /ˈdɑːnsɪz/；美 /ˈdænsɪz/",
+    "meaning": "舞蹈、舞会〔复数〕；跳舞、轻快跳动〔第三人称单数〕",
+    "sense": "几种舞、几场舞会叫 dances；说她一听到音乐就跳起来，也可用 dances。名词和动词的样子碰在一起。",
+    "split": "dance + -s，原词尾 e 保留，/s/ 后多出 /ɪz/ 音节。基础词由法语舞蹈材料进入中古英语。",
+    "history": [
+      [
+        "古法语、盎格鲁法语 dancer、dauncer → 中古英语",
+        "跳舞；更远来历有不同分析"
+      ],
+      [
+        "现代 dance",
+        "舞蹈、舞会；跳舞，也形容轻快跳动"
+      ],
+      [
+        "dance + -s → dances",
+        "多种舞、舞会；他、她跳舞"
+      ]
+    ],
+    "explanation": "folk dances 是民间舞，school dances 可说学校舞会；dances on the water 还能形容光在水面轻快跳动。",
+    "usage": "traditional dances 传统舞蹈；dances to the music 随音乐跳舞。",
+    "contrast": "a dance 可数一支舞、一次舞会，dancing 更常泛说跳舞活动；两种名词关注点不同。",
+    "examples": [
+      [
+        "The group performs traditional folk dances.",
+        "团队表演传统民间舞。"
+      ],
+      [
+        "She dances whenever she hears this song.",
+        "她一听到这首歌就跳舞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dances#English",
+      "https://en.wiktionary.org/wiki/dance#English"
+    ]
+  },
+  {
+    "word": "danced",
+    "ipa": "英 /dɑːnst/；美 /dænst/",
+    "meaning": "跳舞了；轻快跳动了",
+    "sense": "昨天大家随着音乐跳起来，叫 danced；阳光在水面一闪一闪，也能像跳舞一样用这个词。",
+    "split": "dance 去末尾 e，加完整 -ed；/s/ 后读 /t/，成为词末 /nst/，不是再添一个重读音节。",
+    "history": [
+      [
+        "古法语、盎格鲁法语 dancer、dauncer → 中古英语",
+        "跳舞；更远来历有不同分析"
+      ],
+      [
+        "现代 dance",
+        "舞蹈、舞会；跳舞，也形容轻快跳动"
+      ],
+      [
+        "dance + -ed → danced〔去 e〕",
+        "过去跳舞、轻快跳动"
+      ]
+    ],
+    "explanation": "danced all night 是跳了一整夜；light danced on the walls 是光在墙上闪动。",
+    "usage": "danced together 一起跳了舞；danced across the room 轻快舞步穿过房间。",
+    "contrast": "danced 的比喻义保留轻快、连续变化的动作画面，不是所有移动都适合这样描述。",
+    "examples": [
+      [
+        "We danced together after dinner.",
+        "晚饭后我们一起跳舞。"
+      ],
+      [
+        "Sunlight danced on the surface of the water.",
+        "阳光在水面上闪动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/danced#English",
+      "https://en.wiktionary.org/wiki/dance#English"
+    ]
+  },
+  {
+    "word": "entertainers",
+    "ipa": "英 /ˌentəˈteɪnəz/；美 /ˌentərˈteɪnərz/",
+    "meaning": "艺人、娱乐表演者〔复数〕",
+    "sense": "有人唱歌、讲笑话，有人表演魔术，工作都是让观众看得开心；这些人可统称 entertainers。",
+    "split": "entertain + 完整 -er → entertainer，再加 -s。基础 entertain 的接待、使愉快义经法语接 tenir 保持。",
+    "history": [
+      [
+        "拉丁 tenere 保持 → 法语 entre + tenir → entretenir",
+        "维持、接待、彼此维系等用途"
+      ],
+      [
+        "英语 entertain 及相关名词",
+        "招待、使愉快；心里容纳、考虑一个想法"
+      ],
+      [
+        "entertain + -er → entertainer → entertainers",
+        "为观众提供娱乐的人；多位表演者"
+      ]
+    ],
+    "explanation": "street entertainers 是街头艺人，children’s entertainers 是给儿童表演的艺人；身份范围比演员更广。",
+    "usage": "live entertainers 现场艺人；a group of entertainers 一群表演者。",
+    "contrast": "actors 常突出扮演角色，entertainers 突出给观众提供娱乐，歌手、喜剧演员、魔术师都可能包括。",
+    "examples": [
+      [
+        "Street entertainers drew a crowd in the square.",
+        "街头艺人在广场吸引了人群。"
+      ],
+      [
+        "The hotel hired entertainers for the evening programme.",
+        "酒店为晚间节目聘请了艺人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entertainers#English",
+      "https://en.wiktionary.org/wiki/entertainer#English"
+    ]
+  },
+  {
+    "word": "entertains",
+    "ipa": "英 /ˌentəˈteɪnz/；美 /ˌentərˈteɪnz/",
+    "meaning": "使愉快、招待；考虑〔第三人称单数〕",
+    "sense": "把人招待好，让观众不无聊；也能把一个想法留在脑中考虑。entertains 的对象帮你从这些常用分支中选意思。",
+    "split": "entertain + -s，/n/ 后读 /z/。法语 tenir 保持的材料经过接待、维持等用途进入英语词族。",
+    "history": [
+      [
+        "拉丁 tenere 保持 → 法语 entre + tenir → entretenir",
+        "维持、接待、彼此维系等用途"
+      ],
+      [
+        "英语 entertain 及相关名词",
+        "招待、使愉快；心里容纳、考虑一个想法"
+      ],
+      [
+        "entertain + -s → entertains",
+        "他、她招待、使愉快或考虑"
+      ]
+    ],
+    "explanation": "entertains children 是让孩子们开心；entertains the idea 是考虑某个想法，并非拿想法来表演。",
+    "usage": "entertains guests 招待客人；entertains a possibility 考虑一种可能。",
+    "contrast": "entertain a plan 是考虑一个计划，accept a plan 是接受计划；考虑不等于同意。",
+    "examples": [
+      [
+        "She entertains the children with simple stories.",
+        "她用简单的故事逗孩子们开心。"
+      ],
+      [
+        "He occasionally entertains the idea of moving abroad.",
+        "他偶尔会考虑搬到国外的想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entertains#English",
+      "https://en.wiktionary.org/wiki/entertain#English"
+    ]
+  },
+  {
+    "word": "entertained",
+    "ipa": "英 /ˌentəˈteɪnd/；美 /ˌentərˈteɪnd/",
+    "meaning": "使愉快、招待了；考虑过了；得到娱乐的",
+    "sense": "客人已经受到招待，观众已经被逗乐；一个念头曾在脑中停留考虑过，也能用 entertained。",
+    "split": "entertain + 完整 -ed，/n/ 后读 /d/；原词不以不发音 e 结尾，直接加后缀。",
+    "history": [
+      [
+        "拉丁 tenere 保持 → 法语 entre + tenir → entretenir",
+        "维持、接待、彼此维系等用途"
+      ],
+      [
+        "英语 entertain 及相关名词",
+        "招待、使愉快；心里容纳、考虑一个想法"
+      ],
+      [
+        "entertain + -ed → entertained",
+        "过去招待、使愉快、考虑；受到娱乐的状态"
+      ]
+    ],
+    "explanation": "kept us entertained 是一直让我们觉得有趣；entertained the idea 是曾考虑过那个想法。",
+    "usage": "entertained the guests 招待了客人；well entertained 玩得很尽兴的。",
+    "contrast": "entertained 说人得到娱乐后的感受，entertaining 常说人、节目本身有趣；an entertaining story 让人觉得 entertained。",
+    "examples": [
+      [
+        "The stories kept the children entertained.",
+        "这些故事让孩子们一直听得很开心。"
+      ],
+      [
+        "We briefly entertained the idea of staying another day.",
+        "我们曾短暂考虑再多留一天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entertained#English",
+      "https://en.wiktionary.org/wiki/entertain#English"
+    ]
+  },
+  {
+    "word": "entertainments",
+    "ipa": "英 /ˌentəˈteɪnmənts/；美 /ˌentərˈteɪnmənts/",
+    "meaning": "娱乐节目、娱乐活动〔复数〕",
+    "sense": "泛说娱乐是 entertainment；把一场场演出、游乐节目拿来分别数，就可用 entertainments。",
+    "split": "entertainment + -s。名词经中古英语借古法语 entretenement，早有维持、招待义，现代与 entertain + -ment 对应但并非仅由现代英语新造。",
+    "history": [
+      [
+        "拉丁 tenere 保持 → 法语 entre + tenir → entretenir",
+        "维持、接待、彼此维系等用途"
+      ],
+      [
+        "古法语 entretenement → 英语 entertainment → entertainments",
+        "招待、供养等历史义 → 娱乐；具体娱乐节目"
+      ]
+    ],
+    "explanation": "an evening of entertainments 可说一晚多种节目；具体、可分别安排的活动，才容易这样用复数。",
+    "usage": "public entertainments 公共娱乐活动；a programme of entertainments 娱乐节目安排。",
+    "contrast": "entertainment 泛说娱乐时常不可数；entertainments 更像一项项节目，不把所有抽象娱乐都机械加 -s。",
+    "examples": [
+      [
+        "The festival offers a variety of entertainments for children.",
+        "节庆为儿童安排了多种娱乐活动。"
+      ],
+      [
+        "The evening entertainments included music and comedy.",
+        "晚间娱乐节目包括音乐和喜剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entertainments#English",
+      "https://en.wiktionary.org/wiki/entertainment#English"
+    ]
+  },
+  {
+    "word": "costumed",
+    "ipa": "英 /ˈkɒstjuːmd/；美 /ˈkɑːstuːmd/",
+    "meaning": "穿着戏服、特定装束的；给……配戏服了",
+    "sense": "人已经换上角色那套衣服，是 costumed；剧组为演员安排、穿上这些衣服，也可用这个动词。",
+    "split": "costume 去词尾 e，加完整 -ed，/m/ 后读 /d/。衣着名借法语、意大利语，远接习俗、风尚的拉丁词族，动词再由名词发展。",
+    "history": [
+      [
+        "拉丁 consuetudo → 意大利 costume → 法语、英语 costume",
+        "习俗、风尚；符合时代风俗的表现 → 特定衣着"
+      ],
+      [
+        "英语 costume 名词 → 动词",
+        "戏服、装扮 → 给人穿上相应服装"
+      ],
+      [
+        "costume + -ed → costumed〔去 e〕",
+        "过去配戏服；穿着角色装束的"
+      ]
+    ],
+    "explanation": "costumed dancers 是穿着演出服的舞者；costumed as a sailor 是装扮成水手。",
+    "usage": "costumed performers 穿演出服的表演者；elaborately costumed 服装精心复杂的。",
+    "contrast": "dressed 泛说穿着，costumed 更强调角色、时代、表演或特定装扮的服装。",
+    "examples": [
+      [
+        "Costumed performers greeted visitors at the entrance.",
+        "穿着演出服的表演者在入口迎接游客。"
+      ],
+      [
+        "The actors were costumed as nineteenth-century travellers.",
+        "演员们被装扮成十九世纪的旅人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/costumed#English",
+      "https://en.wiktionary.org/wiki/costume#English"
+    ]
+  },
+  {
+    "word": "costuming",
+    "ipa": "英 /ˈkɒstjuːmɪŋ/；美 /ˈkɑːstuːmɪŋ/",
+    "meaning": "戏服设计、安排、穿戴的工作；正在配戏服",
+    "sense": "哪些衣服配哪个角色、哪个时代，都要安排；演出里这一整套服装工作可叫 costuming。",
+    "split": "costume 去末尾不发音 e，加完整 -ing。由衣着名形成动词后，再作活动名词、进行形式。",
+    "history": [
+      [
+        "拉丁 consuetudo → 意大利 costume → 法语、英语 costume",
+        "习俗、风尚；符合时代风俗的表现 → 特定衣着"
+      ],
+      [
+        "英语 costume 名词 → 动词",
+        "戏服、装扮 → 给人穿上相应服装"
+      ],
+      [
+        "costume + -ing → costuming〔去 e〕",
+        "给演出配衣服的过程、工作"
+      ]
+    ],
+    "explanation": "costuming for a play 是一部戏的戏服工作；costuming the cast 则说正在给演员安排服装。",
+    "usage": "period costuming 时代服装设计；costuming the production 为整部制作安排戏服。",
+    "contrast": "costumes 是一件件戏服，costuming 是把戏服设计、安排、穿到角色身上的工作。",
+    "examples": [
+      [
+        "She is responsible for costuming the production.",
+        "她负责这部制作的戏服工作。"
+      ],
+      [
+        "The period costuming helped create the atmosphere.",
+        "时代服装设计帮助营造了氛围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/costuming#English",
+      "https://en.wiktionary.org/wiki/costume#English"
+    ]
+  },
+  {
+    "word": "cues",
+    "ipa": "/kjuːz/",
+    "meaning": "提示信号、线索；球杆〔复数〕；给提示〔第三人称单数〕",
+    "sense": "台上的手势提示你该进了，别人脸上的表情提示你该停了，这些是 cues；桌球旁的 cues 则是另一词源支的球杆。",
+    "split": "cue + -s，/uː/ 后读 /z/。提示支来源未定，Q、拉丁 quando 何时是解释之一；球杆支另接 queue、cauda 尾。",
+    "history": [
+      [
+        "提示支 cue：来源未定，常有舞台字母 Q 的解释",
+        "Q 可能标记何时接话；这只是来源分析"
+      ],
+      [
+        "球杆支：拉丁 cauda → 法语 queue → cue",
+        "尾、尾状物 → 细长球杆；与提示支分开"
+      ],
+      [
+        "cue + -s → cues",
+        "多条提示、几根球杆；它给提示"
+      ]
+    ],
+    "explanation": "social cues 是社交信号，visual cues 是视觉提示；pool cues 则是台球杆。",
+    "usage": "take your cues from someone 看某人的提示行事；cues the musicians 给乐手提示。",
+    "contrast": "cue 与 queue 排队同音；队列 queue 与尾巴支历史有关，提示 cue 的近源不能因此说死。",
+    "examples": [
+      [
+        "She missed the visual cues from the conductor.",
+        "她错过了指挥的视觉提示。"
+      ],
+      [
+        "The players left their cues beside the table.",
+        "球员把台球杆放在桌边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cue",
+      "https://en.wiktionary.org/wiki/cues#English"
+    ]
+  },
+  {
+    "word": "cued",
+    "ipa": "/kjuːd/",
+    "meaning": "给了提示；按提示准备、接入了",
+    "sense": "指挥朝某位乐手点一下，告诉他该加入了，叫 cued；声音、画面也能按提示准备接入。",
+    "split": "提示动词 cue 去词尾 e，加完整 -ed；元音后读 /d/。这一动词由提示名词发展，提示名词的更早来源仍有争论。",
+    "history": [
+      [
+        "提示支 cue：来源未定，常有舞台字母 Q 的解释",
+        "Q 可能标记何时接话；这只是来源分析"
+      ],
+      [
+        "提示名词 cue → 动词 cue → cued〔去 e 加 -ed〕",
+        "过去提示；使表演、材料按信号接入"
+      ]
+    ],
+    "explanation": "cued the singer 是给歌手进入信号；cued the music 可说按时给音乐提示、让它接入。",
+    "usage": "cued the musicians 给了乐手提示；cued to begin 按提示准备开始。",
+    "contrast": "cued 与 queued 排好了队同音，前者常围绕提示信号，后者常围绕队列。",
+    "examples": [
+      [
+        "The conductor cued the singer with a small gesture.",
+        "指挥用一个小手势提示歌手进入。"
+      ],
+      [
+        "She cued the music as the lights dimmed.",
+        "灯光变暗时，她给出了音乐接入的提示。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cued#English",
+      "https://www.etymonline.com/word/cue"
+    ]
+  },
+  {
+    "word": "cueing",
+    "ipa": "/ˈkjuːɪŋ/",
+    "meaning": "给提示、按信号准备的过程",
+    "sense": "在恰好的时刻给演员、乐手或播放设备一个“该你了”的信号，这项工作叫 cueing。",
+    "split": "cue 保留词尾 e，加完整 -ing → cueing；另有去 e 的 cuing，两种拼写都成立。不能给 cueing 套成去 e 的分析。",
+    "history": [
+      [
+        "提示支 cue：来源未定，常有舞台字母 Q 的解释",
+        "Q 可能标记何时接话；这只是来源分析"
+      ],
+      [
+        "提示名词 cue → 动词 cue；cue + -ing → cueing〔保留 e〕",
+        "提示、按信号进入的过程；另拼 cuing"
+      ]
+    ],
+    "explanation": "cueing the dancers 是提示舞者，cueing the track 是按提示准备、接入音轨。",
+    "usage": "cueing the next entrance 提示下一次进入；cueing the music 给音乐接入信号。",
+    "contrast": "queueing、queuing 常说排队；这里 cueing 说给提示，听起来一样，拼写与对象帮你分。",
+    "examples": [
+      [
+        "She is cueing the dancers from the wings.",
+        "她正在侧台给舞者提示。"
+      ],
+      [
+        "Cueing the music at the right moment took practice.",
+        "在恰好时刻让音乐接入，需要练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cueing#English",
+      "https://www.etymonline.com/word/cue",
+      "https://www.merriam-webster.com/dictionary/cue"
+    ]
+  },
+  {
+    "word": "choreographers",
+    "ipa": "英 /ˌkɒriˈɒɡrəfəz/；美 /ˌkɔːriˈɑːɡrəfərz/",
+    "meaning": "编舞者〔复数〕",
+    "sense": "谁先走哪一步、谁转向哪里、动作怎样连成一段舞，这些设计者就是 choreographers。",
+    "split": "choreographer + -s。职业名从 choreography 名词系列形成，英语记录早于 choreograph 动词；不能只写成现代动词先加 -er。",
+    "history": [
+      [
+        "希腊 khoreia 舞蹈 + 写画材料 → 法语、英语 choreography 词族",
+        "记录、编排舞蹈"
+      ],
+      [
+        "英语 choreographer 较早；choreograph 有逆构等分析",
+        "职业名与动词各有词史，不能按词长倒排先后"
+      ],
+      [
+        "choreographer + -s → choreographers",
+        "多位舞蹈设计、编排者"
+      ]
+    ],
+    "explanation": "dance choreographers 是舞蹈编排者，film choreographers 可为影视中的舞蹈或动作场面工作，具体职责看制作。",
+    "usage": "two choreographers 两位编舞者；guest choreographers 客座编舞。",
+    "contrast": "dancers 执行动作、表演舞蹈，choreographers 设计动作安排；同一个人可以兼任。",
+    "examples": [
+      [
+        "Two choreographers worked on the final dance sequence.",
+        "两位编舞者合作设计了最后的舞蹈段落。"
+      ],
+      [
+        "The festival invited choreographers from several countries.",
+        "艺术节邀请了几个国家的编舞者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choreographers#English",
+      "https://en.wiktionary.org/wiki/choreographer#English"
+    ]
+  },
+  {
+    "word": "choreographs",
+    "ipa": "英 /ˈkɒriəɡrɑːfs/；美 /ˈkɔːriəɡræfs/",
+    "meaning": "编舞、精心安排〔第三人称单数〕",
+    "sense": "把一个个动作连成可表演的舞，叫 choreographs；把复杂活动的步骤安排得像舞一样，也可借用。",
+    "split": "choreograph + -s，末尾 /f/ 后读 /s/。动词有从 choreography 逆构等分析，另有法语借入说；现代形式在已有动词上变化。",
+    "history": [
+      [
+        "希腊 khoreia 舞蹈 + 写画材料 → 法语、英语 choreography 词族",
+        "记录、编排舞蹈"
+      ],
+      [
+        "英语 choreographer 较早；choreograph 有逆构等分析",
+        "职业名与动词各有词史，不能按词长倒排先后"
+      ],
+      [
+        "choreograph + -s → choreographs",
+        "他、她编舞、安排动作"
+      ]
+    ],
+    "explanation": "choreographs a dance 是设计舞蹈；choreographs a sequence 常说编排动作连续段。",
+    "usage": "choreographs for the company 为舞团编舞；choreographs the finale 编排终场。",
+    "contrast": "compose 在音乐里创作曲子，choreograph 在舞蹈里设计动作；一场演出可以同时需要两种创作。",
+    "examples": [
+      [
+        "She choreographs the dances for the school production.",
+        "她为学校演出编舞。"
+      ],
+      [
+        "He choreographs every movement in the opening scene.",
+        "他编排开场中的每一个动作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choreographs#English",
+      "https://en.wiktionary.org/wiki/choreograph#English"
+    ]
+  },
+  {
+    "word": "choreographed",
+    "ipa": "英 /ˈkɒriəɡrɑːft/；美 /ˈkɔːriəɡræft/",
+    "meaning": "编了舞、安排了；精心编排的",
+    "sense": "台上看似流畅自然的动作，背后可能已经一步步设计好了。这样的动作可以说 choreographed。",
+    "split": "choreograph + 完整 -ed，/f/ 后读 /t/，末尾为 /ft/。它不以不发音 e 结尾，直接加词尾。",
+    "history": [
+      [
+        "希腊 khoreia 舞蹈 + 写画材料 → 法语、英语 choreography 词族",
+        "记录、编排舞蹈"
+      ],
+      [
+        "英语 choreographer 较早；choreograph 有逆构等分析",
+        "职业名与动词各有词史，不能按词长倒排先后"
+      ],
+      [
+        "choreograph + -ed → choreographed",
+        "过去编舞；安排设计好的动作"
+      ]
+    ],
+    "explanation": "a choreographed dance 是经过编排的舞蹈，carefully choreographed event 可比喻精心安排的活动。",
+    "usage": "choreographed the sequence 编排了动作段；a choreographed routine 编好的舞蹈动作组合。",
+    "contrast": "improvised 常说当场即兴，choreographed 更突出事先编排；一场表演也可把两种方式混合。",
+    "examples": [
+      [
+        "She choreographed the final dance herself.",
+        "她亲自编排了最后一段舞。"
+      ],
+      [
+        "Every movement was carefully choreographed.",
+        "每一个动作都经过精心编排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choreographed#English",
+      "https://en.wiktionary.org/wiki/choreograph#English"
+    ]
+  },
+  {
+    "word": "choreographing",
+    "ipa": "英 /ˈkɒriəɡrɑːfɪŋ/；美 /ˈkɔːriəɡræfɪŋ/",
+    "meaning": "正在编舞、设计动作、精心安排",
+    "sense": "动作还在试、顺序还在调，编舞者正在把它们拼成一段表演，这个过程是 choreographing。",
+    "split": "choreograph + -ing，保留完整基础拼写。名词系列中的舞蹈与写画材料，通过动词进入正在编排的动作。",
+    "history": [
+      [
+        "希腊 khoreia 舞蹈 + 写画材料 → 法语、英语 choreography 词族",
+        "记录、编排舞蹈"
+      ],
+      [
+        "英语 choreographer 较早；choreograph 有逆构等分析",
+        "职业名与动词各有词史，不能按词长倒排先后"
+      ],
+      [
+        "choreograph + -ing → choreographing",
+        "编舞、设计动作的进行或活动"
+      ]
+    ],
+    "explanation": "choreographing a ballet 是为芭蕾作品编舞；也可比喻协调多人活动的具体动作、步骤。",
+    "usage": "choreographing the finale 编排终场；choreographing a new piece 为新作品编舞。",
+    "contrast": "choreography 常作编舞、编排成果的名称，choreographing 更直接把注意力放在做这件事的过程。",
+    "examples": [
+      [
+        "They are choreographing a new piece for the festival.",
+        "他们正在为艺术节的新作品编舞。"
+      ],
+      [
+        "She enjoys choreographing more than performing.",
+        "比起上台表演，她更喜欢编舞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choreographing#English",
+      "https://en.wiktionary.org/wiki/choreograph#English"
+    ]
+  }
+]

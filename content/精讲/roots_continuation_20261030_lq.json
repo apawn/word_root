@@ -1,0 +1,170 @@
+[
+  {
+    "id": "B4528",
+    "meaning": "危险或压迫逼近，区分事物、动作与性质",
+    "core": "THREAT：危险压到面前，人会感到受威胁",
+    "image": "threat → threaten → threatening → threateningly。",
+    "intro": "不是只会说威胁两个字：threat 是威胁这件事或来源，threaten 是做出威胁、造成危险，threatening 是正在或显得危险，-ly 再说明方式。",
+    "forms": "þrēat、þrēatnian → threat、threaten；-en 动词，-ing 分词或性质，-ly 副词。\n\n本族 threat、动词 en 的关系与古英语旧动词历史并看。\n\n古英语压力、困扰等材料，后来突出危险、威胁；现代复数 s。",
+    "branches": [
+      [
+        "威胁、动作与表现方式",
+        "threat · threaten · threatening · threateningly"
+      ],
+      [
+        "threaten → threatened：威胁、可能危及",
+        "threaten · threatened"
+      ],
+      [
+        "threat → threats：逼近的危险与恐吓",
+        "threat · threats"
+      ]
+    ],
+    "contrasts": "自然现象也可 threaten；threatening 与 threatened 方向不同；threateningly 不是多一个新的危险来源。",
+    "practice": "The threatening clouds made the threat of rain seem real.\n\n来势不妙的云让人觉得真的快下雨了。",
+    "words": [
+      "threat",
+      "threaten",
+      "threatening",
+      "threateningly",
+      "threatened",
+      "threats"
+    ],
+    "exclude": {
+      "life-threatening": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3429",
+    "meaning": "烟草植物、原料与经营职业",
+    "core": "TOBACCO：先分植物、材料，再看经营它的人",
+    "image": "tobacco → tobacconist。",
+    "intro": "中文一个烟字容易混掉植物、原料、制品、店家。这里先把 tobacco 和职业名词摆清。",
+    "forms": "tabaco → tobacco；-n- 连接 + -ist 人物，tobacconist’s 可省略 shop 指店。",
+    "branches": [
+      [
+        "植物材料与职业、店铺",
+        "tobacco · tobacconist"
+      ]
+    ],
+    "contrasts": "tobacco 物质义通常不可数；职业 -ist 不等于所有使用者；加勒比更远来源细节有不同记载。",
+    "practice": "The tobacconist knew the history of local tobacco growing.\n\n烟草商了解当地种烟草的历史。",
+    "words": [
+      "tobacco",
+      "tobacconist"
+    ],
+    "exclude": {
+      "tobacco-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3780",
+    "meaning": "铺垫、承接或操作区域，分清多义与复合用途",
+    "core": "PAD：一块垫着、写着、按着或落下的地方",
+    "image": "pad → padding、helipad；notepad、keypad、touchpad、gamepad、trackpad 按用途成组。",
+    "intro": "pad 用途多，不把全家硬压成柔软二字。书写本看纸页，操作板看接触区域，起降坪看指定场地。",
+    "forms": "pad 更远来源可能多词合流；-ing 填充；note 记录、key 按键、touch 触摸、game 游戏、track 追踪；heli- 直升机截取形式。\n\npad 取平面垫子的用法，不接轻步走动词。\n\n可指实物纸本，也可为简单电子记事工具名称。\n\n都取小块面板、操作面的材料，输入方式不同。\n\npad 垫子名的远源不明，早有铺睡的草束、软垫义，后有成叠纸张等。现代复数、动词第三人称同形；轻步走的 pad 另有词源线索。",
+    "branches": [
+      [
+        "基础与填充",
+        "pad · padding"
+      ],
+      [
+        "书写、输入和操作区域",
+        "notepad · keypad · touchpad · trackpad · gamepad"
+      ],
+      [
+        "起降场地",
+        "helipad"
+      ],
+      [
+        "pad 的设备用途组合 mousepad",
+        "pad · mousepad · mousepads"
+      ],
+      [
+        "notepad → notepads：一叠记事纸、记事工具",
+        "pad · notepad · notepads"
+      ],
+      [
+        "pad 的按键、触摸与跟踪移动面板",
+        "pad · keypad · keypads · touchpad · touchpads · trackpad · trackpads"
+      ],
+      [
+        "pad → pads：垫子与纸本",
+        "pads"
+      ]
+    ],
+    "contrasts": "操作板不一定软；padding 有物料、文本、技术义；paddock 常见围场义另承旧 parrock，不作软垫直接派生。",
+    "practice": "She used the touchpad to open a note on her notepad app.\n\n她用触控板打开记事应用里的一条记录。",
+    "words": [
+      "pad",
+      "padding",
+      "notepad",
+      "keypad",
+      "touchpad",
+      "trackpad",
+      "gamepad",
+      "helipad",
+      "mousepad",
+      "mousepads",
+      "notepads",
+      "keypads",
+      "touchpads",
+      "trackpads",
+      "pads"
+    ],
+    "exclude": {
+      "shell-pad": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "paddock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2501",
+    "meaning": "预先筹划、考虑，再形成预测工作和执行者",
+    "core": "FORECAST：在事情发生前，先作有依据的估计",
+    "image": "forecast → forecasting、forecaster。",
+    "intro": "结果叫 forecast，做这套工作是 forecasting，负责预测的是 forecaster。用角色分清，比只背三遍预测更容易使用。",
+    "forms": "fore- 预先 + casten 筹划等 → forecast；-ing 活动，-er 人或程序。",
+    "branches": [
+      [
+        "预测、过程与执行者",
+        "forecast · forecasting · forecaster"
+      ]
+    ],
+    "contrasts": "预测不等于承诺、已发生事实；forecaster 也可指程序；cast 的旧组合义不只扔。",
+    "practice": "The forecaster explained how new data changed the forecast.\n\n预报员解释了新数据怎样改变预报。",
+    "words": [
+      "forecast",
+      "forecasting",
+      "forecaster"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4213",
+    "meaning": "过度以自己利益为中心，及其方式、性质与否定",
+    "core": "SELFISH：把别人的需要也放进画面，才能看出是否只顾自己",
+    "image": "selfish → selfishly、selfishness；unselfish 否定自私。",
+    "intro": "不是见到 self 就判坏，而是 selfish 整体强调过度忽视他人。副词说怎样做，名词说这种性质，un- 再把方向转开。",
+    "forms": "self + -ish；-ly 方式，-ness 状态，un- 否定。",
+    "branches": [
+      [
+        "性质、方式与抽象名词",
+        "selfish · selfishly · selfishness"
+      ],
+      [
+        "顾及他人的性质",
+        "unselfish"
+      ]
+    ],
+    "contrasts": "-ish 此处不是一点点；selfishness 不是人名词；unselfish 不要求完全放弃自身需要。",
+    "practice": "An unselfish teammate passed the ball instead of playing selfishly.\n\n肯为队友着想的队员选择传球，没有只顾自己进攻。",
+    "words": [
+      "selfish",
+      "selfishly",
+      "selfishness",
+      "unselfish"
+    ],
+    "exclude": {}
+  }
+]

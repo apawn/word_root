@@ -1,0 +1,682 @@
+[
+  {
+    "word": "librarians",
+    "ipa": "英 /laɪˈbreəriənz/；美 /laɪˈbreriənz/",
+    "meaning": "图书馆员、图书馆信息工作人员〔复数〕",
+    "sense": "把书和资料组织好、帮助读者找到所需信息的人，是 librarians；工作不只把书摆回架上。",
+    "split": "library + -an → librarian，拼写把 y 变 i，再加 -s，/n/ 后读 /z/。词早有抄书者义，后来固定为图书馆工作角色。",
+    "history": [
+      [
+        "library + -an → librarian",
+        "图书馆相关人员；早有抄书者用途"
+      ],
+      [
+        "librarian + -s → librarians",
+        "多位图书馆、信息工作人员"
+      ]
+    ],
+    "explanation": "school librarians 学校图书馆员；ask the librarians 请教图书馆员。",
+    "usage": "librarians’ recommendations 图书馆员推荐；experienced librarians 有经验的图书馆员。",
+    "contrast": "librarian 是资料组织、图书馆工作角色，bookseller 是售书角色，名称按职责区分。",
+    "examples": [
+      [
+        "The librarians helped us find the original report.",
+        "图书馆员帮我们找到了原报告。"
+      ],
+      [
+        "The school librarians organised a reading event.",
+        "学校图书馆员组织了读书活动。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/librarian",
+      "https://en.wiktionary.org/wiki/librarians#English"
+    ]
+  },
+  {
+    "word": "forewords",
+    "ipa": "英 /ˈfɔːwɜːdz/；美 /ˈfɔːrwɜːrdz/",
+    "meaning": "序言、书前介绍〔复数〕",
+    "sense": "读正文前，先有人向读者介绍这本书、为什么值得读，那些书前的话可叫 forewords。",
+    "split": "fore- 在前 + word 话语 → foreword，现代书籍用语联系德语 Vorwort 仿译；整词加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "德语 Vorwort 的对应模式；fore- + word → foreword",
+        "放在书前的介绍话语"
+      ],
+      [
+        "foreword + -s → forewords",
+        "多篇序言、书前介绍"
+      ]
+    ],
+    "explanation": "forewords to the books 各书序言；forewords by other writers 其他作者写的序。",
+    "usage": "read the forewords 阅读序言；short forewords 简短序言。",
+    "contrast": "foreword 是书前文字，forward 是向前；两词读音接近，拼写材料和用途不同。",
+    "examples": [
+      [
+        "The collection includes forewords by three writers.",
+        "这部文集收有三位作家写的序。"
+      ],
+      [
+        "She compared the forewords to the two editions.",
+        "她比较了两个版本的序言。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forewords#English",
+      "https://en.wiktionary.org/wiki/foreword#English"
+    ]
+  },
+  {
+    "word": "afterwords",
+    "ipa": "英 /ˈɑːftəwɜːdz/；美 /ˈæftərwɜːrdz/",
+    "meaning": "后记、书后说明〔复数〕",
+    "sense": "正文读完以后，再补谈写作背景、后来发展或感想，这些收在书后的文字叫 afterwords。",
+    "split": "after 在后 + word 话语 → afterword，加 -s，/d/ 后读 /z/。是位置与话语材料的英语组合。",
+    "history": [
+      [
+        "after + word → afterword",
+        "正文之后的话语、后记"
+      ],
+      [
+        "afterword + -s → afterwords",
+        "多篇后记"
+      ]
+    ],
+    "explanation": "authors’ afterwords 作者后记；afterwords in later editions 后来版本的后记。",
+    "usage": "read the afterwords 阅读后记；add afterwords 增加后记。",
+    "contrast": "afterword 是后记名词，afterward／afterwards 是后来副词；末尾 word 保留话语这个材料。",
+    "examples": [
+      [
+        "The new editions include afterwords by the authors.",
+        "新版收有作者后记。"
+      ],
+      [
+        "The afterwords explain how the stories were written.",
+        "后记说明了这些故事怎样写成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/afterwords#English",
+      "https://en.wiktionary.org/wiki/afterword#English"
+    ]
+  },
+  {
+    "word": "prefaces",
+    "ipa": "/ˈprefəsɪz/",
+    "meaning": "序言、前言〔复数〕；作开场说明〔第三人称单数〕",
+    "sense": "正式进入内容前，先说明为什么写、怎样用、背景是什么，可以写成 prefaces；作动词也能说先说几句。",
+    "split": "preface + -s，/s/ 后读 /ɪz/。拉丁 prae- 在前 + fari 说形成 praefatio，经中世纪拉丁、法语等路线传入。",
+    "history": [
+      [
+        "prae- + fari → praefatio 等 → preface",
+        "在前面说的话、序言"
+      ],
+      [
+        "名词转动词；+ -s → prefaces",
+        "多篇前言；它以某段话开头"
+      ]
+    ],
+    "explanation": "authors’ prefaces 作者前言；prefaces the speech with a story 用故事作演讲开场。",
+    "usage": "read the prefaces 阅读前言；prefaces to later editions 后来版本的前言。",
+    "contrast": "preface 后半接说话的拉丁词族，整词读 /ˈprefəs/，不是把 face 脸照现代发音拼进去。",
+    "examples": [
+      [
+        "The volume includes the prefaces to several editions.",
+        "这卷收有几个版本的前言。"
+      ],
+      [
+        "She prefaces each talk with a short story.",
+        "她每次讲话都用一个短故事开场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prefaces#English",
+      "https://en.wiktionary.org/wiki/preface#English"
+    ]
+  },
+  {
+    "word": "prefaced",
+    "ipa": "/ˈprefəst/",
+    "meaning": "先作了说明；用……开场了",
+    "sense": "正文、讲话还没展开，先补一段介绍或提醒，是 prefaced。先把读者、听者带到合适背景里。",
+    "split": "preface 去 e 加完整 -ed，/s/ 后读 /t/。序言名词发展出先说明、先说几句的动词。",
+    "history": [
+      [
+        "preface 序言 → 相应动词",
+        "给内容先添介绍、开场话"
+      ],
+      [
+        "preface + -ed → prefaced〔去 e〕",
+        "过去先说了、作开场说明"
+      ]
+    ],
+    "explanation": "prefaced with a warning 先作了提醒；prefaced the talk with thanks 先致谢再讲话。",
+    "usage": "prefaced the report with a note 在报告前加了说明；briefly prefaced 简短开场的。",
+    "contrast": "preface A with B 表示用 B 给 A 开场，先说的是 with 后的那段内容。",
+    "examples": [
+      [
+        "She prefaced her remarks with a word of thanks.",
+        "她先说了句感谢，再展开讲话。"
+      ],
+      [
+        "The editor prefaced the letters with a short introduction.",
+        "编辑在信件前加了一段简短介绍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prefaced#English",
+      "https://en.wiktionary.org/wiki/preface#English"
+    ]
+  },
+  {
+    "word": "prefacing",
+    "ipa": "/ˈprefəsɪŋ/",
+    "meaning": "作前言、先说明；正在铺垫开场",
+    "sense": "正式讲主要内容之前，先安排一段背景、说明，是 prefacing。把它看成先说在前头。",
+    "split": "preface 去 e 加 -ing，保留 /s/ 的基础读音；前言名词先有拉丁、法语借入背景。",
+    "history": [
+      [
+        "preface 的前言名词 → 开场说明动词",
+        "正式内容前先添话语"
+      ],
+      [
+        "preface + -ing → prefacing〔去 e〕",
+        "作前言、开场的过程"
+      ]
+    ],
+    "explanation": "prefacing a report with a note 给报告加前置说明；prefacing remarks 作开场铺垫。",
+    "usage": "prefacing the chapter 给章节作前言；prefacing a lecture with a joke 用笑话作讲课开场。",
+    "contrast": "prefacing 着重内容前的说明，summarising 着重概括主要内容，二者不由字数长短简单区分。",
+    "examples": [
+      [
+        "She was prefacing the report with a short note.",
+        "她正在报告前加一段简短说明。"
+      ],
+      [
+        "Prefacing the discussion with an example helped everyone.",
+        "先举一个例子再讨论，帮助大家理解了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prefacing#English",
+      "https://en.wiktionary.org/wiki/preface#English"
+    ]
+  },
+  {
+    "word": "introductions",
+    "ipa": "/ˌɪntrəˈdʌkʃənz/",
+    "meaning": "介绍、引言、入门读物〔复数〕",
+    "sense": "把人带到彼此面前，把读者带进一个主题，都可形成 introductions。核心是把后面要认识的对象引进来。",
+    "split": "introduction 借法语、拉丁 introductio，与 introduce 同族；现代加 -s，/n/ 后读 /z/。duct- 接拉丁带领材料。",
+    "history": [
+      [
+        "拉丁 introductio → 法语 → introduction",
+        "引入、带进；介绍、导论"
+      ],
+      [
+        "introduction + -s → introductions",
+        "多次介绍、多篇引言等"
+      ]
+    ],
+    "explanation": "make introductions 介绍大家认识；introductions to the subject 主题入门读物。",
+    "usage": "book introductions 书的引言；brief introductions 简短介绍。",
+    "contrast": "introduction 可以开主题、介绍人，也可指入门书；introductory 则是相应性质形容词。",
+    "examples": [
+      [
+        "After the introductions, the meeting began.",
+        "大家相互介绍后，会议开始了。"
+      ],
+      [
+        "The books offer clear introductions to the subject.",
+        "这些书为这个主题提供了清楚的入门介绍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/introductions#English",
+      "https://en.wiktionary.org/wiki/introduction#English"
+    ]
+  },
+  {
+    "word": "prologues",
+    "ipa": "英 /ˈprəʊlɒɡz/；美 /ˈproʊlɑːɡz/",
+    "meaning": "序幕、开场白、开篇〔复数〕",
+    "sense": "故事正式展开前，先给一段声音、场景或背景，把人带进去，这些前置部分叫 prologues。",
+    "split": "希腊 pro- 在前 + 说话材料形成 prologos，经拉丁 prologus、法语 prologue 借入；现代加 -s，/ɡ/ 后读 /z/。",
+    "history": [
+      [
+        "希腊 prologos → 拉丁、法语 → prologue",
+        "在前说的话、开场部分"
+      ],
+      [
+        "prologue + -s → prologues",
+        "多段序幕、开篇"
+      ]
+    ],
+    "explanation": "novel prologues 小说序章；dramatic prologues 戏剧开场白。",
+    "usage": "read the prologues 阅读序章；compare prologues 比较开篇。",
+    "contrast": "prologue 常是作品叙述、演出的一部分；foreword、preface 常从正文外介绍作品，功能有区别。",
+    "examples": [
+      [
+        "The two novels begin with short prologues.",
+        "两部小说都以短序章开篇。"
+      ],
+      [
+        "The actors rehearsed the prologues before the main scenes.",
+        "演员先排了序幕，再排主体场景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prologues#English",
+      "https://en.wiktionary.org/wiki/prologue#English"
+    ]
+  },
+  {
+    "word": "epilogues",
+    "ipa": "英 /ˈepɪlɒɡz/；美 /ˈepɪlɑːɡz/",
+    "meaning": "尾声、结束语〔复数〕",
+    "sense": "主故事结束后，再交代人物后来怎样、补一句收束，这些结尾附加部分叫 epilogues。",
+    "split": "希腊 epilogos 收束的话，经拉丁 epilogus、法语等借入；epi- 在这里表附加、随后，现代加 -s，读 /z/。",
+    "history": [
+      [
+        "希腊 epilogos → 拉丁、法语等 → epilogue",
+        "主内容后收束、补充的话"
+      ],
+      [
+        "epilogue + -s → epilogues",
+        "多段尾声、结束语"
+      ]
+    ],
+    "explanation": "novel epilogues 小说尾声；short epilogues 简短结束部分。",
+    "usage": "read the epilogues 阅读尾声；epilogues set years later 设在多年后的尾声。",
+    "contrast": "epilogue 常延伸或收束作品里的故事；afterword 更常从正文外谈作品、写作等。",
+    "examples": [
+      [
+        "The epilogues show what happened years later.",
+        "尾声交代了多年后发生的事。"
+      ],
+      [
+        "The class compared the plays’ epilogues.",
+        "班上比较了几部剧的结束语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/epilogues#English",
+      "https://en.wiktionary.org/wiki/epilogue#English"
+    ]
+  },
+  {
+    "word": "editions",
+    "ipa": "/ɪˈdɪʃənz/",
+    "meaning": "版本、版次；一期、某次发行〔复数〕",
+    "sense": "作品以某种编排、内容状态推出的一版，是 edition；不同推出版本或期次可叫 editions。",
+    "split": "edition 经法语或直接借拉丁 editio，接 edere 拿出来、发表；英语词早于现代 edit。整词加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 edere → editio → edition",
+        "拿出来发表；发行、版本"
+      ],
+      [
+        "edition + -s → editions",
+        "多个版本、版次、期次"
+      ]
+    ],
+    "explanation": "revised editions 修订版；first editions 初版书。",
+    "usage": "compare editions 比较版本；later editions 后来的版本。",
+    "contrast": "edition 和 edit 同族，但不是较晚的英语 edit 临时添 ion 造出较早的 edition。",
+    "examples": [
+      [
+        "The library has several editions of the dictionary.",
+        "图书馆有这部词典的几个版本。"
+      ],
+      [
+        "The collector specialises in first editions.",
+        "这位收藏者专门收藏初版书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/editions#English",
+      "https://en.wiktionary.org/wiki/edition#English"
+    ]
+  },
+  {
+    "word": "revisions",
+    "ipa": "/rɪˈvɪʒənz/",
+    "meaning": "修改、修订内容或版本〔复数〕",
+    "sense": "再看一遍，发现哪里要改，于是留下新的改动，这些修订是 revisions。重点是审看以后调整内容。",
+    "split": "revision 经法语 revision 接拉丁 revisio 再次审看，与 revise 同族独立借入；现代加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 revisio → 法语 → revision",
+        "再次审看；修订"
+      ],
+      [
+        "revision + -s → revisions",
+        "多处修改、多个修订版本"
+      ]
+    ],
+    "explanation": "minor revisions 小修订；major revisions 大幅修订。",
+    "usage": "make revisions 修改；revisions to the draft 对草稿的修订。",
+    "contrast": "revision 在英式还常整体说复习；这里复数 revisions 常在数具体改动、修订项目。",
+    "examples": [
+      [
+        "The editor requested minor revisions.",
+        "编辑要求作小幅修改。"
+      ],
+      [
+        "We compared the revisions to the original draft.",
+        "我们把修订内容与原稿作了比较。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revisions#English",
+      "https://en.wiktionary.org/wiki/revision#English"
+    ]
+  },
+  {
+    "word": "illustrators",
+    "ipa": "英 /ˈɪləstreɪtəz/；美 /ˈɪləstreɪtərz/",
+    "meaning": "插图画家、插画者〔复数〕",
+    "sense": "用图把故事、说明变得更容易看懂、更具体的人，是 illustrators。",
+    "split": "现代对应 illustrate 去 e 加 -or → illustrator，再加 -s。历史有晚期拉丁 illustrator 照亮、启发者的对应名词，英语从说明者扩到插图者。",
+    "history": [
+      [
+        "illustrare 照亮、使清楚；illustrator 的对应人物名",
+        "用光、说明帮助人明白"
+      ],
+      [
+        "英语插图者用途；+ -s → illustrators",
+        "多位插图、插画人员"
+      ]
+    ],
+    "explanation": "children’s book illustrators 儿童书插画家；freelance illustrators 自由插画师。",
+    "usage": "work with illustrators 与插画师合作；illustrators’ sketches 插画师草图。",
+    "contrast": "illustrator 按用图说明的职责称人；author 按创作内容称人，同一个人可以兼任。",
+    "examples": [
+      [
+        "The illustrators drew scenes from the story.",
+        "插画师画出了故事里的场景。"
+      ],
+      [
+        "The publisher invited three illustrators to the event.",
+        "出版社邀请三位插画师参加活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustrators#English",
+      "https://en.wiktionary.org/wiki/illustrator#English"
+    ]
+  },
+  {
+    "word": "novelists",
+    "ipa": "英 /ˈnɒvəlɪsts/；美 /ˈnɑːvəlɪsts/",
+    "meaning": "小说家〔复数〕",
+    "sense": "以小说创作为工作、身份的人，是 novelists。novel 在这里选小说这一固定名词义。",
+    "split": "novel 小说 + -ist → novelist，再加 -s，/t/ 后读 /s/。novel 的较远新故事材料已在英语发展为小说类别名。",
+    "history": [
+      [
+        "novel + -ist → novelist",
+        "从事小说创作的人"
+      ],
+      [
+        "novelist + -s → novelists",
+        "多位小说作家"
+      ]
+    ],
+    "explanation": "contemporary novelists 当代小说家；historical novelists 历史小说家。",
+    "usage": "interview novelists 采访小说家；novelists at the festival 文学节上的小说家。",
+    "contrast": "novelist 取 novel 小说义，不是凡有 novel 新想法的人；诗人、剧作家有各自名称。",
+    "examples": [
+      [
+        "Several novelists spoke at the festival.",
+        "几位小说家在文学节发言。"
+      ],
+      [
+        "The course compares two nineteenth-century novelists.",
+        "这门课比较了两位十九世纪小说家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/novelists#English",
+      "https://en.wiktionary.org/wiki/novelist#English"
+    ]
+  },
+  {
+    "word": "narrators",
+    "ipa": "英 /nəˈreɪtəz/；美 /ˈnæreɪtərz/，也读 /nəˈreɪtərz/",
+    "meaning": "叙述者、讲述者、旁白者〔复数〕",
+    "sense": "故事由谁的声音讲给你听，那个讲述角色就是 narrator；几位讲述者用 narrators。",
+    "split": "narrator 借拉丁完整施事名词，接 narrare 讲述；现代可对应 narrate 去 e 加 -or，整词再加 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁 narrare → narrator",
+        "讲述；讲述者"
+      ],
+      [
+        "英语 narrator + -s → narrators",
+        "多个叙述角色、旁白人员"
+      ]
+    ],
+    "explanation": "unreliable narrators 不可靠叙述者；audiobook narrators 有声书讲述者。",
+    "usage": "different narrators 不同叙述者；first-person narrators 第一人称叙述者。",
+    "contrast": "作者是创作作品的人，narrator 是作品里或呈现中讲故事的声音；小说里二者不必相同。",
+    "examples": [
+      [
+        "The novel uses two different narrators.",
+        "小说采用了两位不同叙述者。"
+      ],
+      [
+        "The audiobook narrators brought the characters to life.",
+        "有声书讲述者让人物鲜活起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrators#English",
+      "https://en.wiktionary.org/wiki/narrator#English"
+    ]
+  },
+  {
+    "word": "biographies",
+    "ipa": "英 /baɪˈɒɡrəfiz/；美 /baɪˈɑːɡrəfiz/",
+    "meaning": "传记〔复数〕",
+    "sense": "把一个人的生平组织成记录、故事，是 biography；多部传记叫 biographies。bio 给一生，graphy 给书写记录。",
+    "split": "biography 借学术拉丁 biographia，背后接后期希腊生命、书写组合；英语复数把 y 改 i 加 -es。",
+    "history": [
+      [
+        "后期希腊生命、书写材料 → 学术拉丁 biographia → biography",
+        "关于人生的记录、作品"
+      ],
+      [
+        "biography → biographies〔y 改 ies〕",
+        "多部传记"
+      ]
+    ],
+    "explanation": "biographies of scientists 科学家传记；read biographies 读传记。",
+    "usage": "historical biographies 历史人物传记；compare biographies 比较传记。",
+    "contrast": "biography 通常写某人的生平，autobiography 特别说自己写自己的生平，auto 把作者关系说清。",
+    "examples": [
+      [
+        "She enjoys biographies of scientists.",
+        "她喜欢读科学家传记。"
+      ],
+      [
+        "The historian compared two biographies of the artist.",
+        "历史学家比较了这位艺术家的两部传记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/biographies#English",
+      "https://en.wiktionary.org/wiki/biography#English"
+    ]
+  },
+  {
+    "word": "autobiographies",
+    "ipa": "英 /ˌɔːtəbaɪˈɒɡrəfiz/；美 /ˌɔːtəbaɪˈɑːɡrəfiz/",
+    "meaning": "自传〔复数〕",
+    "sense": "把自己的生平写给读者，是 autobiography；多部自传是 autobiographies。auto 在这里是自己。",
+    "split": "近代英语 auto- 自己 + biography 传记，整词复数 y 改 i 加 -es；不是自动生成传记的意思。",
+    "history": [
+      [
+        "auto- + biography → autobiography",
+        "自己写自己人生的传记"
+      ],
+      [
+        "autobiography → autobiographies〔y 改 ies〕",
+        "多部自传"
+      ]
+    ],
+    "explanation": "politicians’ autobiographies 政治人物自传；artists’ autobiographies 艺术家自传。",
+    "usage": "read autobiographies 读自传；compare autobiographies 比较自传。",
+    "contrast": "自传以自己的人生为材料，但仍是作者选择、组织后的叙述；memoir 常更集中某段经历、主题。",
+    "examples": [
+      [
+        "The course compares autobiographies by two artists.",
+        "课程比较两位艺术家的自传。"
+      ],
+      [
+        "She borrowed several autobiographies from the library.",
+        "她从图书馆借了几部自传。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/autobiographies#English",
+      "https://en.wiktionary.org/wiki/autobiography#English"
+    ]
+  },
+  {
+    "word": "memoirs",
+    "ipa": "英 /ˈmemwɑːz/；美 /ˈmemwɑːrz/",
+    "meaning": "回忆录、个人回忆作品〔复数或书名式整体用法〕",
+    "sense": "把亲历、记得最深的生活写出来，可以叫 memoirs。常沿某段经历、关系、主题展开。",
+    "split": "memoir 经法语 mémoire、较早 memoire／memorie 等形式接拉丁 memoria 记忆、记录；现代加 -s，读 /z/。与 memory 同源而用途不同。",
+    "history": [
+      [
+        "拉丁 memoria → 法语 mémoire 等 → memoir",
+        "记忆、记录；个人回忆作品"
+      ],
+      [
+        "memoir + -s → memoirs",
+        "多篇回忆；也常合称某人的回忆录"
+      ]
+    ],
+    "explanation": "write one’s memoirs 写回忆录；wartime memoirs 战时回忆录。",
+    "usage": "published memoirs 已出版回忆录；read her memoirs 读她的回忆录。",
+    "contrast": "autobiography 常更像较完整的人生叙述，memoir 常按经历、主题选择材料；作品实际范围有交叠。",
+    "examples": [
+      [
+        "She began writing her memoirs after retirement.",
+        "退休后，她开始写回忆录。"
+      ],
+      [
+        "His memoirs describe life in the old neighbourhood.",
+        "他的回忆录描述了老街区的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/memoirs#English",
+      "https://en.wiktionary.org/wiki/memoir#English"
+    ]
+  },
+  {
+    "word": "playwrights",
+    "ipa": "/ˈpleɪraɪts/",
+    "meaning": "剧作家〔复数〕",
+    "sense": "把戏剧造出来、写成能演的作品的人，是 playwrights。wright 把作者比作制作作品的工匠。",
+    "split": "play 戏剧 + wright 工匠、制造者 → playwright，加 -s，/t/ 后读 /s/。wright 与 write 同音，但不是相同拼写来源。",
+    "history": [
+      [
+        "play + wright → playwright",
+        "制造、创作戏剧的人"
+      ],
+      [
+        "playwright + -s → playwrights",
+        "多位剧作家"
+      ]
+    ],
+    "explanation": "contemporary playwrights 当代剧作家；young playwrights 年轻剧作家。",
+    "usage": "interview playwrights 采访剧作家；plays by local playwrights 本地剧作家的剧作。",
+    "contrast": "writer 是 write 加 er 的作者名，playwright 使用工匠 wright；记住材料差异有助于正确拼写。",
+    "examples": [
+      [
+        "The theatre invited local playwrights to submit work.",
+        "剧院邀请本地剧作家投稿。"
+      ],
+      [
+        "The festival celebrated women playwrights.",
+        "戏剧节重点展示了女性剧作家的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/playwrights#English",
+      "https://en.wiktionary.org/wiki/playwright#English"
+    ]
+  },
+  {
+    "word": "storytellers",
+    "ipa": "英 /ˈstɔːriteləz/；美 /ˈstɔːritelərz/",
+    "meaning": "讲故事的人、叙事创作者〔复数〕",
+    "sense": "能把事情讲成有起伏、有吸引力故事的人，是 storytellers；可用口头、文字、影像，不限面对面说书。",
+    "split": "story + teller〔tell + -er〕→ storyteller，加 -s，读 /z/。teller 这里取讲述者义。",
+    "history": [
+      [
+        "story + teller → storyteller",
+        "执行故事讲述的人"
+      ],
+      [
+        "storyteller + -s → storytellers",
+        "多位讲故事的人"
+      ]
+    ],
+    "explanation": "gifted storytellers 有天赋的故事讲述者；oral storytellers 口头说书者。",
+    "usage": "listen to storytellers 听讲故事；storytellers at the festival 节庆上的故事讲述者。",
+    "contrast": "storyteller 强调讲述能力、角色，novelist 强调小说创作类别；小说家也可以是出色的 storyteller。",
+    "examples": [
+      [
+        "The storytellers gathered around the fire.",
+        "讲故事的人聚在火边。"
+      ],
+      [
+        "The festival invited storytellers from several regions.",
+        "节庆活动邀请了几个地区的故事讲述者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/storytellers#English",
+      "https://en.wiktionary.org/wiki/storyteller#English"
+    ]
+  },
+  {
+    "word": "readings",
+    "ipa": "/ˈriːdɪŋz/",
+    "meaning": "诵读活动；读数；解读版本〔复数〕",
+    "sense": "一次公开读作品、仪表一次读出的数、对文本的一种理解，都可叫 a reading；多次、多种就用 readings。",
+    "split": "read + -ing 已有古英语、中古英语的名词材料；固定活动、结果义可加 -s，/ŋ/ 后读 /z/。",
+    "history": [
+      [
+        "read + -ing → reading",
+        "阅读、解释；一次读出的结果、活动"
+      ],
+      [
+        "reading + -s → readings",
+        "多场诵读、多组读数、多种解读"
+      ]
+    ],
+    "explanation": "poetry readings 诗歌朗诵会；temperature readings 温度读数。",
+    "usage": "different readings of the text 对文本的不同解读；take readings 记录读数。",
+    "contrast": "reading 不总是正在读的动词形式；前面有数字、形容词并加复数时，常在数活动、结果或解释。",
+    "examples": [
+      [
+        "The library hosts poetry readings every month.",
+        "图书馆每个月举办诗歌朗诵会。"
+      ],
+      [
+        "We compared the temperature readings from two instruments.",
+        "我们比较了两台仪器的温度读数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readings#English",
+      "https://en.wiktionary.org/wiki/reading#English"
+    ]
+  }
+]

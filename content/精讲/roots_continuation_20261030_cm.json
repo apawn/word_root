@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B3209",
+    "meaning": "构成本质；核心到不可缺少",
+    "core": "ESSENTIAL：拿掉就失去根本，因而不可缺少",
+    "image": "essential → essentially；nonessential 已有精讲，作否定对照。哲学专门名词本轮暂略。",
+    "intro": "保留晚期拉丁语借入，不把较晚英语 essence 画成较早 essential 的必然祖先。副词本质上与形容词必要的搭配分开。",
+    "forms": "拉丁语 essentia → essentiālis；essential + -ly；non- + essential。\n\nessence、essential 接拉丁 essentia、essentialis；这是阅读顺序，essential 在英语记录中较早，不能倒写成英语 essence 先造出了它。\n\n形容词名词化后，复数可把必需用品、基本要点逐项谈。",
+    "branches": [
+      [
+        "核心、必要及副词、否定",
+        "essential · essentially · nonessential"
+      ],
+      [
+        "essence → essential：本质、构成本质的、不可缺少的",
+        "essence · essential"
+      ],
+      [
+        "essential → essentials：必不可少的东西与要点",
+        "essential · essentials"
+      ]
+    ],
+    "contrasts": "essential 强于仅有用；essentially 不等于 exactly；essential oil 不机械译必须的油。",
+    "practice": "The essentials are essentially the same in both plans.\n\n两个计划的基本要点大体相同。",
+    "words": [
+      "essential",
+      "essentially",
+      "nonessential",
+      "essence",
+      "essentials"
+    ],
+    "exclude": {
+      "essentialism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "essentialist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3178",
+    "meaning": "已经长成；成年人、成年期与生活责任",
+    "core": "ADULT：从成长过程看已经长成的状态",
+    "image": "adult → adulthood → adulting，身份、人生阶段和当代生活活动相邻。",
+    "intro": "与 adolescent 同族但各有拉丁语分词路径。年龄身份、成熟态度和日常担当分开，不用一个词设统一成年年龄。",
+    "forms": "拉丁语 adolēscere → adultus；adult + -hood；adult 转动词加 -ing。\n\n拉丁成长动词过去分词的借词，现代名词与形容词均常用。",
+    "branches": [
+      [
+        "成年身份、阶段和生活活动",
+        "adult · adulthood · adulting"
+      ],
+      [
+        "adult → adults：长成与成年人",
+        "adult · adults"
+      ]
+    ],
+    "contrasts": "adult/mature 成年与成熟不同；adulthood 阶段非一个人；adulting 非年龄自然增长。",
+    "practice": "Adulthood brought new responsibilities, and she joked about learning to manage adulting.\n\n成年带来了新责任，她开玩笑说自己还在学习打理这些成人事务。",
+    "words": [
+      "adult",
+      "adulthood",
+      "adulting",
+      "adults"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3219",
+    "meaning": "沐浴动作、容器、用水；洗浴用品与场所",
+    "core": "BATH：水里洗身体，用品按洗浴用途命名",
+    "image": "bath → bathtub、bathrobe；bathroom、bathhouse 场所，bathwater 用水，bloodbath 旧共享比喻。",
+    "intro": "浴缸、房间、袍子不能只用洗澡一词逐字糊过去。基础词提醒 bath/bathe 的音义区别，已有扩展复用。",
+    "forms": "bath + tub/robe/room/house/water；blood + bath 比喻大规模流血；bathe 相关旧动词非简单现代静音 e 规则。\n\n按洗浴使用场景命名的宽松袍子，复数加 s。\n\n和 bath 比较沐浴场所，不是 bath 派生。spa 接比利时温泉镇 Spa 的地名，再通称温泉地、护理机构；不是拉丁词组首字母缩写。\n\n与 bath 比较沐浴设施，Jacuzzi 本来是家族姓氏，成为喷流按摩浴缸等产品的品牌；现代口语也常用来指这类浴缸。此处不用 bath 的词源解释姓氏。\n\nbath 承古英语 bæð 洗浴名，复数 baths 的 th 可有 /θ/、/ð/ 等读法；bath + room 复合成浴室，现代美式也常用来指卫生间。",
+    "branches": [
+      [
+        "动作与用品",
+        "bath · bathtub · bathrobe"
+      ],
+      [
+        "场所、水与比喻",
+        "bathroom · bathhouse · bathwater · bloodbath"
+      ],
+      [
+        "bath + robe → bathrobe → bathrobes",
+        "bath · bathrobe · bathrobes"
+      ],
+      [
+        "spa：地名到温泉、护理场所",
+        "spa · spas"
+      ],
+      [
+        "Jacuzzi：家族姓氏成为按摩浴缸品牌称呼",
+        "Jacuzzi"
+      ],
+      [
+        "bath → baths、bathroom → bathrooms",
+        "bathrooms · baths"
+      ]
+    ],
+    "contrasts": "bath 泡洗、shower 淋浴；bathrobe 非泳衣；bathroom 不必有浴缸；bloodbath 不是普通洗澡。",
+    "practice": "She hung her bathrobe beside the bathtub.\n\n她把浴袍挂在浴缸旁。",
+    "words": [
+      "bath",
+      "bathtub",
+      "bathrobe",
+      "bathroom",
+      "bathhouse",
+      "bathwater",
+      "bloodbath",
+      "bathrobes",
+      "spa",
+      "spas",
+      "Jacuzzi",
+      "bathrooms",
+      "baths"
+    ],
+    "exclude": {
+      "half-bath": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3931",
+    "meaning": "短促声响；点击动作到理解、合拍与点击诱饵",
+    "core": "CLICK：轻轻一按扣到位，再借来讲想通和合拍",
+    "image": "click → clickable、clicker；clickbait 按诱饵比喻放后面。",
+    "intro": "声音拟声可直观认识，界面点击没有实际声响也成立。clickbait 的诱饵形象帮助理解批评语气，不把一切好标题都说成假新闻。",
+    "forms": "click + -able/-er；click + bait；click with 相处合拍，it clicks 突然理解。\n\n拟声词发展操作、合拍等用法，现代已有 ck，直接加 ing。\n\n常用声响义是拟声；计算机、理解与人际用法为语境扩展。",
+    "branches": [
+      [
+        "基本动作、可响应与器具",
+        "click · clickable · clicker"
+      ],
+      [
+        "网络内容诱饵",
+        "clickbait"
+      ],
+      [
+        "click → clicking：咔哒声、按下与突然理解",
+        "click · clicking"
+      ],
+      [
+        "click 的声音、点击与合拍用法相邻读",
+        "click · clicks · clicked · clicking"
+      ]
+    ],
+    "contrasts": "clickable 可点不等于可见；clicker 具体器具看场景；click/clique 异词；clickbait 批评不代替核查事实。",
+    "practice": "The clickable headline looked like clickbait.\n\n那个可以点击的标题看起来像标题党。",
+    "words": [
+      "click",
+      "clickable",
+      "clicker",
+      "clickbait",
+      "clicking",
+      "clicks",
+      "clicked"
+    ],
+    "exclude": {
+      "click-clack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slam-clicker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

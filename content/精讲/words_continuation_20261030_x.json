@@ -1,0 +1,313 @@
+[
+  {
+    "word": "medicine",
+    "ipa": "/ˈmedɪsɪn/；也常读 /ˈmedsɪn/",
+    "meaning": "药、药物；医学",
+    "sense": "杯子里要喝的是药，大学里要学的是医学；一个词把治病所用之物和这门学问连起来。",
+    "split": "经法语接拉丁 medicīna 医术、治疗手段，与 medicus 医生相关。medicine 不是现代 medic + 一个随意表示药水的 -ine。",
+    "history": [
+      [
+        "拉丁 medērī、medicus",
+        "治疗；医生、医治相关的"
+      ],
+      [
+        "拉丁 medicīna → 古法语 medecine → 英语 medicine",
+        "医术、治疗手段 → 医学、药物"
+      ]
+    ],
+    "explanation": "take medicine 服药，study medicine 学医学，a medicine for coughs 具体一种药。泛指药常不可数，多种药可说 medicines。",
+    "usage": "take medicine；study medicine；modern medicine；a medicine cabinet。",
+    "contrast": "medicine 可药物也可学科；medical 是相关形容词。take your medicine 还可比喻接受应承担的后果，需看上下文。",
+    "examples": [
+      [
+        "She hopes to study medicine at university.",
+        "她希望在大学学医。"
+      ],
+      [
+        "The medicine comes with written instructions.",
+        "这种药附有书面说明。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medicine#English"
+    ]
+  },
+  {
+    "word": "medic",
+    "ipa": "/ˈmedɪk/",
+    "meaning": "医护人员；急救人员；医生〔口语〕",
+    "sense": "在现场提供医疗救助的人，报道里常见于急救、军队等场景；具体资格看语境。",
+    "split": "接拉丁 medicus 医生、医治的相关形式。现代常作人物名词；不是 medicine 的末尾随便切掉几个字母后得到唯一职业名称。",
+    "history": [
+      [
+        "拉丁 medērī、medicus",
+        "治疗；医生、医治相关的"
+      ],
+      [
+        "拉丁 medicus → 英语 medic",
+        "医生或提供医疗救助的人"
+      ]
+    ],
+    "explanation": "an army medic 军队医护人员，a team of medics 一组医护人员，medics at the scene 现场急救人员。",
+    "usage": "an army medic；a team of medics；medics at the scene。",
+    "contrast": "medic 是较宽称呼，doctor、paramedic、nurse 的角色不完全相同；不能只凭 medic 推断具体执照或专业。",
+    "examples": [
+      [
+        "Medics arrived at the scene within minutes.",
+        "医护人员几分钟内就赶到现场。"
+      ],
+      [
+        "He served as an army medic.",
+        "他曾担任军队医护人员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medic#English"
+    ]
+  },
+  {
+    "word": "medicinal",
+    "ipa": "/məˈdɪsɪnəl/",
+    "meaning": "药用的；具有治疗用途的",
+    "sense": "重点在某种东西被当作药来用，或具有药用性质，而不是泛指整个医疗行业。",
+    "split": "接拉丁 medicīnālis，与 medicīna 同族；表面可对应 medicine + -al，但历史不是从现代英语临时造出。重音在第二音节。",
+    "history": [
+      [
+        "拉丁 medērī、medicus",
+        "治疗；医生、医治相关的"
+      ],
+      [
+        "拉丁 medicīna → medicīnālis → 英语 medicinal",
+        "治疗手段、药物 → 药用性质的"
+      ]
+    ],
+    "explanation": "medicinal plants 药用植物，medicinal use 药用，medicinal properties 药用性质；这些是用途描述词。",
+    "usage": "medicinal plants；medicinal use；medicinal properties。",
+    "contrast": "medical equipment 医疗设备通常不说 medicinal equipment；medicinal 强调药用或治疗性质，medical 泛指医疗医学相关。",
+    "examples": [
+      [
+        "The garden has a section devoted to medicinal plants.",
+        "花园有一个专门种药用植物的区域。"
+      ],
+      [
+        "The book traces the historical medicinal use of the plant.",
+        "书中追溯了这种植物历史上的药用情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medicinal#English"
+    ]
+  },
+  {
+    "word": "medical",
+    "ipa": "/ˈmedɪkl/",
+    "meaning": "医疗的；医学的；体检〔名词用法〕",
+    "sense": "只要与看病、医学、健康检查这套专业活动有关，常用 medical 来修饰。",
+    "split": "借法语 médical，上接晚期或中世纪拉丁 medicālis，再接 medicus 医生。与 medicine 同族，但不是 medicine 简单换词尾。",
+    "history": [
+      [
+        "拉丁 medērī、medicus",
+        "治疗；医生、医治相关的"
+      ],
+      [
+        "拉丁 medicālis → 法语 médical → medical",
+        "医生、医治相关 → 医疗、医学相关"
+      ]
+    ],
+    "explanation": "medical care 医疗照护，medical school 医学院，medical records 医疗记录；have a medical 英式可说做体检。",
+    "usage": "medical care；medical school；medical records；a medical examination。",
+    "contrast": "medical 医疗相关，medicinal 药用；a medical student 是医学生，medicine student 不是通常的标准搭配。",
+    "examples": [
+      [
+        "She is training at a medical school.",
+        "她在医学院接受培养。"
+      ],
+      [
+        "Please bring your medical records to the appointment.",
+        "请带上医疗记录来赴约。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/medical",
+      "https://en.wiktionary.org/wiki/medical#English"
+    ]
+  },
+  {
+    "word": "medically",
+    "ipa": "/ˈmedɪkli/；也可展开读 /ˈmedɪkəli/",
+    "meaning": "从医学上；因医疗原因；用医疗方式",
+    "sense": "限定判断角度：从医学来说如何，或者这件事是出于医疗方面的需要。",
+    "split": "medical + -ly，形容词转副词；弱读时中间音节可压缩，-cally 这一段不是每个字母都单独读。",
+    "history": [
+      [
+        "拉丁 medērī、medicus",
+        "治疗；医生、医治相关的"
+      ],
+      [
+        "medical + -ly → medically",
+        "按医学判断、在医疗上"
+      ]
+    ],
+    "explanation": "medically trained 受过医疗训练的，medically necessary 医疗上必要的，medically qualified 具医疗专业资格的。",
+    "usage": "medically trained；medically necessary；medically qualified。",
+    "contrast": "medically 限定医疗层面，legally、financially 等会改成别的判断角度；不要把一个角度的结论当所有角度都成立。",
+    "examples": [
+      [
+        "A medically trained volunteer was present.",
+        "现场有一位受过医疗训练的志愿者。"
+      ],
+      [
+        "The form asks whether the absence was medically necessary.",
+        "表格询问缺席是否出于医疗上的必要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medically#English"
+    ]
+  },
+  {
+    "word": "telemedicine",
+    "ipa": "英 /ˌtelɪˈmedɪsɪn/；美 /ˌteləˈmedɪsɪn/",
+    "meaning": "远程医疗",
+    "sense": "医护与患者不在同一地点，通过电话、视频或其他通信方式交换医疗信息、提供服务。",
+    "split": "tele- 远距离 + medicine 医疗，现代科技复合词。tele- 来自希腊表示远的构词材料，不仅指电视。",
+    "history": [
+      [
+        "拉丁 medērī、medicus",
+        "治疗；医生、医治相关的"
+      ],
+      [
+        "拉丁 medicīna → 古法语 medecine → 英语 medicine",
+        "医术、治疗手段 → 医学、药物"
+      ],
+      [
+        "tele- + medicine → telemedicine",
+        "借远距离通信进行的医疗服务或信息交换"
+      ]
+    ],
+    "explanation": "a telemedicine appointment 远程医疗预约，telemedicine services 远程医疗服务。具体包含咨询、监测等哪类服务需看场景。",
+    "usage": "telemedicine services；a telemedicine appointment；access to telemedicine。",
+    "contrast": "telemedicine 是医疗活动的远程形式；普通搜索健康网页不自动等于正在接受一项远程医疗服务。",
+    "examples": [
+      [
+        "The clinic offers telemedicine appointments.",
+        "诊所提供远程医疗预约。"
+      ],
+      [
+        "Telemedicine allowed the doctor and patient to speak from different towns.",
+        "远程医疗让医生与患者可以身处不同城镇交谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telemedicine#English"
+    ]
+  },
+  {
+    "word": "accessible",
+    "ipa": "/əkˈsesəbl/",
+    "meaning": "可到达、可使用的；无障碍的；易理解的",
+    "sense": "路能走到，设施用得上，文章读得懂：共同点是原本隔着的障碍少了。",
+    "split": "经法语及晚期拉丁 accessibilis，接 accessus 接近、入口；现代可对应 access + -ible。形容词有自己的借入历史。",
+    "history": [
+      [
+        "拉丁 ad- + cēdere → accēdere；accessus",
+        "朝向 + 走 → 接近；接近、入口"
+      ],
+      [
+        "晚期拉丁 accessibilis → 法语 accessible → 英语 accessible",
+        "能够接近、进入 → 易用、易理解"
+      ]
+    ],
+    "explanation": "accessible by bus 公交可达，accessible to everyone 人人可用，an accessible explanation 通俗解释；无障碍设施强调相关使用者确实能用。",
+    "usage": "accessible to；accessible by bus；an accessible explanation；an accessible entrance。",
+    "contrast": "available 有供应、可获得，accessible 能接近、能使用；有一份文件不一定所有人都能打开或读懂。",
+    "examples": [
+      [
+        "The museum is accessible by public transport.",
+        "博物馆乘公共交通可以到达。"
+      ],
+      [
+        "She gives an accessible explanation of a difficult idea.",
+        "她把一个难懂的想法解释得通俗易懂。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/accessible",
+      "https://en.wiktionary.org/wiki/accessible#English"
+    ]
+  },
+  {
+    "word": "inaccessible",
+    "ipa": "/ˌɪnəkˈsesəbl/",
+    "meaning": "难以到达的；无法使用的；难懂的",
+    "sense": "入口被隔断、资料打不开，或文章太晦涩，让人进不去。",
+    "split": "经法语接晚期拉丁 inaccessibilis；现代可分析 in- 不 + accessible，in- 在这里否定，不是表示里面。",
+    "history": [
+      [
+        "拉丁 ad- + cēdere → accēdere；accessus",
+        "朝向 + 走 → 接近；接近、入口"
+      ],
+      [
+        "晚期拉丁 accessibilis → 法语 accessible → 英语 accessible",
+        "能够接近、进入 → 易用、易理解"
+      ],
+      [
+        "拉丁 in- + accessibilis → 法语、英语 inaccessible",
+        "不能接近、使用或理解"
+      ]
+    ],
+    "explanation": "an inaccessible island 难抵达的岛，inaccessible data 无法访问的数据，inaccessible writing 晦涩文字。",
+    "usage": "inaccessible to；inaccessible data；an inaccessible location。",
+    "contrast": "inaccessible 不一定不存在；文件可能完好，但你没有权限或连接不上。inaccessible 与 unacceptable 不可接受也要分。",
+    "examples": [
+      [
+        "The village became inaccessible after the bridge collapsed.",
+        "桥塌后村庄变得无法到达。"
+      ],
+      [
+        "The report was inaccessible to readers without a subscription.",
+        "未订阅的读者无法访问报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inaccessible#English"
+    ]
+  },
+  {
+    "word": "accessibility",
+    "ipa": "/əkˌsesəˈbɪləti/",
+    "meaning": "可达性；易用、易理解程度；无障碍性",
+    "sense": "把能不能到、用起来有没有障碍作为一个整体问题：入口、文字、操作都可能影响它。",
+    "split": "accessible + -ity，-ible 对应 -ibility，形成性质名词；受到法语、晚期拉丁相应名词形式影响。重音移到 -bil-。",
+    "history": [
+      [
+        "拉丁 ad- + cēdere → accēdere；accessus",
+        "朝向 + 走 → 接近；接近、入口"
+      ],
+      [
+        "晚期拉丁 accessibilis → 法语 accessible → 英语 accessible",
+        "能够接近、进入 → 易用、易理解"
+      ],
+      [
+        "accessible + -ity → accessibility",
+        "可接近、可使用、可理解的程度及设计性质"
+      ]
+    ],
+    "explanation": "website accessibility 网站无障碍，improve accessibility 提高可达性和易用性，accessibility features 无障碍功能；具体对象决定评估内容。",
+    "usage": "improve accessibility；website accessibility；accessibility features。",
+    "contrast": "access 是进入或使用的机会、动作，accessibility 说这种进入、使用有多可行；无障碍性不只是否装了坡道。",
+    "examples": [
+      [
+        "The redesign improved the website’s accessibility.",
+        "改版提高了网站的无障碍性。"
+      ],
+      [
+        "The survey asks residents about the accessibility of local services.",
+        "问卷询问居民使用当地服务是否方便、有无障碍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accessibility#English"
+    ]
+  }
+]

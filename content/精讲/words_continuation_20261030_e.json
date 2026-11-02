@@ -1,0 +1,286 @@
+[
+  {
+    "word": "foreign",
+    "ipa": "英 /ˈfɒrən/；美 /ˈfɔːrən/",
+    "meaning": "外国的；外来的；陌生、不相容的",
+    "sense": "先问相对谁是外面：对国家是外国，对物品是混入的外物，对一个人则可能是不熟悉的东西。",
+    "split": "经法语 forain 接拉丁外部词。现代 g 是后起的拼写增添，不发音；foreign 不拆成 fore 前面 + reign 统治。",
+    "history": [
+      [
+        "拉丁 foras、foris 外面 → 法语 forain → 中古英语 forein",
+        "来自外部、外地的"
+      ],
+      [
+        "英语 foreign",
+        "外国的 → 陌生、不相容、不是本来的"
+      ]
+    ],
+    "explanation": "a foreign language 外语，foreign policy 外交政策，a foreign object 外来异物，foreign to someone 某人不熟悉或不合其本性。",
+    "usage": "a foreign language；foreign policy；a foreign object；foreign to。",
+    "contrast": "foreign 相对国家、对象有参照点，不自动等于 strange 奇怪；foreign body 不是外国人的身体，常是异物。",
+    "examples": [
+      [
+        "She is learning a foreign language.",
+        "她在学一门外语。"
+      ],
+      [
+        "The idea of giving up was foreign to him.",
+        "放弃这个念头与他的本性不符。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foreign#English"
+    ]
+  },
+  {
+    "word": "foreigner",
+    "ipa": "英 /ˈfɒrənə/；美 /ˈfɔːrənər/",
+    "meaning": "外国人；外地来的人",
+    "sense": "从某个国家、地方的内部视角，把不属于本地的人称为外来者；它是相对身份。",
+    "split": "foreign + -er，形成外来者人物名词，保留 g 不发音。具体是否合适用此称呼，依谈话对象与语气。",
+    "history": [
+      [
+        "拉丁 foras、foris 外面 → 法语 forain → 中古英语 forein",
+        "来自外部、外地的"
+      ],
+      [
+        "英语 foreign",
+        "外国的 → 陌生、不相容、不是本来的"
+      ],
+      [
+        "foreign + -er → foreigner",
+        "外来的 → 外国人"
+      ]
+    ],
+    "explanation": "a foreigner in a country 在某国的外国人，foreigners visiting the city 到访城市的外国人。",
+    "usage": "a foreigner in；foreigners visiting；a foreign visitor。",
+    "contrast": "foreign 形容词，foreigner 名词；a foreign student 外国学生，不写 a foreigner student。",
+    "examples": [
+      [
+        "As a foreigner, he was still learning the local customs.",
+        "作为外国人，他还在学习当地习俗。"
+      ],
+      [
+        "The guide helps foreigners understand the transport system.",
+        "导游帮助外国游客了解交通系统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foreigner#English"
+    ]
+  },
+  {
+    "word": "choose",
+    "ipa": "/tʃuːz/",
+    "meaning": "选择；决定",
+    "sense": "有几种可能，选定其中一个，或者决定自己接下来要做什么。",
+    "split": "继承古英语 ceosan 等选择词，现代不规则变化 choose /tʃuːz/—chose /tʃəʊz/、/tʃoʊz/—chosen。不是 double o 永远读同一种音。",
+    "history": [
+      [
+        "古英语 ceosan → 中古英语 chesen → choose",
+        "选择、尝试、决定；与试、尝的古老词族相关"
+      ],
+      [
+        "现代 choose—chose—chosen",
+        "选择；保留元音变化的过去式与分词"
+      ]
+    ],
+    "explanation": "choose a seat 选座位，choose between A and B 在两者间选，choose to do 决定做；cannot choose but... 为较旧用法不作重点。",
+    "usage": "choose between；choose from；choose to do；choose carefully。",
+    "contrast": "choose from a list 从一张清单里选，choose between two options 在两项间选；select 常更正式，pick 常更随意。",
+    "examples": [
+      [
+        "You can choose from three different plans.",
+        "你可以从三种不同方案里选。"
+      ],
+      [
+        "She chose to stay and help.",
+        "她决定留下来帮忙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choose#English"
+    ]
+  },
+  {
+    "word": "chosen",
+    "ipa": "英 /ˈtʃəʊzən/；美 /ˈtʃoʊzən/",
+    "meaning": "选定的；choose 的过去分词",
+    "sense": "在候选里已经被选出来，视角落在结果和对象上。",
+    "split": "choose 的继承分词形式，现代 -en 与元音变化一起记；不把普通动词都照加 -en。",
+    "history": [
+      [
+        "古英语 ceosan → 中古英语 chesen → choose",
+        "选择、尝试、决定；与试、尝的古老词族相关"
+      ],
+      [
+        "现代 choose—chose—chosen",
+        "选择；保留元音变化的过去式与分词"
+      ],
+      [
+        "choose—chose—chosen",
+        "选择 → 已选择的分词形式"
+      ]
+    ],
+    "explanation": "the chosen candidate 选定候选人，have chosen 已选好，be chosen for 被选来参加、担任。",
+    "usage": "the chosen candidate；have chosen；be chosen for。",
+    "contrast": "She chose 一般过去，She has chosen 完成结构；不能说 has chose。",
+    "examples": [
+      [
+        "The chosen design will be displayed next week.",
+        "选定的设计下周展出。"
+      ],
+      [
+        "She has chosen a name for the project.",
+        "她已为项目选好了名字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chosen#English"
+    ]
+  },
+  {
+    "word": "choosy",
+    "ipa": "/ˈtʃuːzi/",
+    "meaning": "挑剔、讲究的",
+    "sense": "不是选一个就算了，而是想找到很合心意的那个，可能不愿轻易将就。",
+    "split": "choose 去末尾 e + -y，写 choosy；不读作 chosen 的比较级。",
+    "history": [
+      [
+        "古英语 ceosan → 中古英语 chesen → choose",
+        "选择、尝试、决定；与试、尝的古老词族相关"
+      ],
+      [
+        "现代 choose—chose—chosen",
+        "选择；保留元音变化的过去式与分词"
+      ],
+      [
+        "choose + -y → choosy",
+        "爱选择 → 挑剔、讲究"
+      ]
+    ],
+    "explanation": "choosy about food 对吃的挑剔，choosy about jobs 对工作选择讲究。",
+    "usage": "choosy about；too choosy；a choosy customer。",
+    "contrast": "choosy 与 picky 接近，都是对选择有要求；是否带负面评价取决于具体语气。",
+    "examples": [
+      [
+        "She is choosy about the books she buys.",
+        "她对买的书很讲究。"
+      ],
+      [
+        "We cannot be too choosy when there are so few options.",
+        "选择这么少，我们不能太挑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choosy#English"
+    ]
+  },
+  {
+    "word": "daughter",
+    "ipa": "英 /ˈdɔːtə/；美 /ˈdɔːtər/",
+    "meaning": "女儿",
+    "sense": "从父母这一端称自己的女性孩子，年龄不限定，成年女儿仍是 daughter。",
+    "split": "继承古英语 dohtor，现代 gh 不发音；不是 dough 面团 + -ter 这个现代拆分。",
+    "history": [
+      [
+        "古英语 dohtor → 中古英语 doughter → daughter",
+        "女儿；古老印欧亲属词"
+      ],
+      [
+        "现代 daughter 词族",
+        "女儿 → 继女、教女与孙女等关系组合"
+      ]
+    ],
+    "explanation": "their daughter 他们的女儿，an adult daughter 成年女儿；daughter company 有子公司类专门比喻，日常优先亲属义。",
+    "usage": "their daughter；an adult daughter；a younger daughter。",
+    "contrast": "daughter 女儿，girl 女孩看年龄或日常称呼；成年女性依然可以是别人的 daughter。",
+    "examples": [
+      [
+        "Their daughter works as a teacher.",
+        "他们的女儿是一名教师。"
+      ],
+      [
+        "She has two sons and a daughter.",
+        "她有两个儿子和一个女儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/daughter#English"
+    ]
+  },
+  {
+    "word": "stepdaughter",
+    "ipa": "英 /ˈstepdɔːtə/；美 /ˈstepdɔːtər/",
+    "meaning": "继女",
+    "sense": "配偶与别人所生的女儿，从自己的身份看是继女，不等于自己与配偶共同的亲生女儿。",
+    "split": "step- 继亲关系 + daughter；step- 接旧亲属历史，与迈步 step 分源。",
+    "history": [
+      [
+        "古英语 dohtor → 中古英语 doughter → daughter",
+        "女儿；古老印欧亲属词"
+      ],
+      [
+        "现代 daughter 词族",
+        "女儿 → 继女、教女与孙女等关系组合"
+      ],
+      [
+        "step- + daughter → stepdaughter",
+        "继亲关系的女儿"
+      ]
+    ],
+    "explanation": "his stepdaughter 他的继女，a close relationship with a stepdaughter 与继女关系亲近；名称本身不决定相处感情。",
+    "usage": "my stepdaughter；an adult stepdaughter；a stepdaughter’s graduation。",
+    "contrast": "stepdaughter 继女，daughter-in-law 儿媳，goddaughter 教女；三种关系不能因都非亲生就混为一谈。",
+    "examples": [
+      [
+        "He attended his stepdaughter’s graduation.",
+        "他参加了继女的毕业典礼。"
+      ],
+      [
+        "Her stepdaughter helped her learn to use the new phone.",
+        "她的继女帮她学会使用新手机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepdaughter#English"
+    ]
+  },
+  {
+    "word": "goddaughter",
+    "ipa": "英 /ˈɡɒddɔːtə/；美 /ˈɡɑːddɔːtər/",
+    "meaning": "教女",
+    "sense": "一个人在教父、教母关系中所关心、承担约定责任的女孩或女性，主要是宗教与社会关系。",
+    "split": "god + daughter，接教父母制度与洗礼相关的亲属称谓，古老宗教组合。不是字面声称她是神生的女儿。",
+    "history": [
+      [
+        "古英语 dohtor → 中古英语 doughter → daughter",
+        "女儿；古老印欧亲属词"
+      ],
+      [
+        "现代 daughter 词族",
+        "女儿 → 继女、教女与孙女等关系组合"
+      ],
+      [
+        "god + daughter → goddaughter",
+        "教父母关系中的女儿 → 教女"
+      ]
+    ],
+    "explanation": "my goddaughter 我的教女，a goddaughter’s birthday 教女生日；具体职责由传统、关系约定决定。",
+    "usage": "my goddaughter；an adult goddaughter；a goddaughter’s birthday。",
+    "contrast": "goddaughter 教女不等于 adopted daughter 养女；教父母关系本身不自动是法律收养。",
+    "examples": [
+      [
+        "She sent her goddaughter a birthday card.",
+        "她给教女寄了一张生日卡。"
+      ],
+      [
+        "His goddaughter visited him during the holidays.",
+        "他的教女在假期去看望了他。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/goddaughter#English"
+    ]
+  }
+]

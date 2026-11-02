@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B2646",
+    "meaning": "厚、密、稠；相应变化与程度",
+    "core": "THICK：两面隔得厚，空间挤得密，汤汁浓得稠",
+    "image": "thick → thicken 变厚、稠、密；thickness 量程度；thickly 说方式。",
+    "intro": "把一块厚板、一片浓雾、一锅稠汤放在一起看。共同点是某个方向或单位里有很多东西，中文分别用了不同形容词。",
+    "forms": "þicce → thick；thick + -en/-ness/-ly；thickness、thicken 也有相应旧词历史。\n\nthicket 接古英语 thick 的对应形式与旧本族名词尾 -et，现代指密生灌丛，也可比喻难以理清的一团事情；不把这个旧尾自动套进法语指小词。",
+    "branches": [
+      [
+        "基本性质与变化",
+        "thick · thicken"
+      ],
+      [
+        "程度与方式",
+        "thickness · thickly"
+      ],
+      [
+        "thick 密 + 旧名词尾 -et → thicket 密丛",
+        "thicket"
+      ]
+    ],
+    "contrasts": "thick/wide 厚与宽；thick soup 稠汤，thick fog 浓雾；the plot thickens 情况更复杂。",
+    "practice": "The sauce will thicken, so check its thickness before serving.\n\n酱汁会变稠，上桌前先看看浓稠度。",
+    "words": [
+      "thick",
+      "thicken",
+      "thickness",
+      "thickly",
+      "thicket"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2547",
+    "meaning": "薄、细、瘦、稀；支撑少的比喻",
+    "core": "THIN：厚度少一点，密度少一点，支撑也可能少一点",
+    "image": "thin → thinner 比较级或稀释剂；thinly 方式；thinness 性质；ultrathin 极薄。",
+    "intro": "薄纸、稀疏人群、单薄证据，靠不同对象选中文。thinner 的名词和比较级尤其要放进句子分清。",
+    "forms": "þynne → thin；thin + -er 双写 n；thin + -ly/-ness；ultra- + thin。\n\n和 thin 比较细薄，不是 thin 派生。slim 借荷兰语，相应旧词有倾斜、坏、狡黠等义，英语发展出纤细与数量小；动词精简、使变苗条各有后起用法。",
+    "branches": [
+      [
+        "基本性质、变化和比较",
+        "thin · thinner"
+      ],
+      [
+        "方式与性质名词",
+        "thinly · thinness"
+      ],
+      [
+        "强化程度",
+        "ultrathin"
+      ],
+      [
+        "slim：另源的纤细、微小机会与精简",
+        "slim · slims · slimmed · slimming"
+      ]
+    ],
+    "contrasts": "thin/thick 是薄稀与厚密；thinner 名词为稀释剂；thinly veiled 几乎掩不住。",
+    "practice": "Thinly sliced cheese goes on the thinner pieces of bread.\n\n薄切奶酪放在那些更薄的面包片上。",
+    "words": [
+      "thin",
+      "thinner",
+      "thinly",
+      "thinness",
+      "ultrathin",
+      "slim",
+      "slims",
+      "slimmed",
+      "slimming"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4349",
+    "meaning": "有标记、明显；无标记和显著程度",
+    "core": "MARKED：能被看出来的痕迹，也能是看得出的差别",
+    "image": "marked → markedly 显著地；unmarked 没有标记。",
+    "intro": "mark 能留下真实记号，也能让差别显眼。markedly 选显著这一支，unmarked 多回到身份、记号、表面痕迹。",
+    "forms": "mark + -ed → marked；marked + -ly → markedly；un- + marked → unmarked。",
+    "branches": [
+      [
+        "基本状态与程度",
+        "marked · markedly"
+      ],
+      [
+        "否定状态",
+        "unmarked"
+      ]
+    ],
+    "contrasts": "marked 动词过去式与 markedly 的 /ɪd/ 读音区别；unmarked 无标记不等于 unremarkable 平常。",
+    "practice": "The marked and unmarked boxes were markedly different in size.\n\n有标记和没标记的箱子，大小明显不同。",
+    "words": [
+      "marked",
+      "markedly",
+      "unmarked"
+    ],
+    "exclude": {}
+  }
+]

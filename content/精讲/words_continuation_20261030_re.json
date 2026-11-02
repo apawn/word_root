@@ -1,0 +1,499 @@
+[
+  {
+    "word": "latent",
+    "ipa": "/ˈleɪtənt/",
+    "meaning": "潜在的；潜伏、尚未显现的",
+    "sense": "东西已经藏在那里，只是还没露出来或发挥出来：一个人有潜在能力，一场争论下面有潜伏的不满。",
+    "split": "经法语 latent 接拉丁 latens，来自 latere 藏着、未显露。不是 late 迟加 -nt；它和 late 的现代拼写相似不能证明同源。",
+    "history": [
+      [
+        "拉丁 latere → latens → 法语 latent",
+        "藏着 → 隐藏、未显现的"
+      ],
+      [
+        "英语 latent",
+        "潜在、暂未显露的"
+      ]
+    ],
+    "explanation": "latent talent 潜能；latent tension 潜在紧张；latent heat 潜热是物理专门用语。不同领域的潜伏有具体条件，不能一概理解为毫无作用。",
+    "usage": "latent potential；latent tension。",
+    "contrast": "hidden 只说看不见；latent 常强调尚未表现、激活或被发现。late 是迟，latent 不是稍微迟到的。",
+    "examples": [
+      [
+        "The project revealed her latent talent for design.",
+        "这个项目显露了她潜在的设计才能。"
+      ],
+      [
+        "There was latent tension beneath their polite conversation.",
+        "他们客气的谈话下面藏着紧张气氛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/latent#English"
+    ]
+  },
+  {
+    "word": "latency",
+    "ipa": "/ˈleɪtənsi/",
+    "meaning": "潜伏状态；〔系统等〕延迟、响应等待时间",
+    "sense": "按下按钮，等一会儿画面才动：从触发到可观察的响应，中间那段等待就是系统语境里常说的 latency。",
+    "split": "latent 的词干与 -ency 形成状态名词，远接拉丁隐藏材料；由尚未显现的状态，也形成刺激、输入到响应之间的时间用法。",
+    "history": [
+      [
+        "latent + -ency 的对应",
+        "潜伏、未显现的状态"
+      ],
+      [
+        "latency 的时间用法",
+        "触发与响应之间的等待、延迟"
+      ]
+    ],
+    "explanation": "low latency 低延迟；network latency 网络延迟。实际测的是单程、往返或其他环节，要看上下文，不能只看同一个词就默认同一指标。",
+    "usage": "network latency；reduce latency；low latency。",
+    "contrast": "bandwidth 带宽偏单位时间能传多少，latency 偏要等多久；路很宽、能过很多车，不代表每辆车瞬间到达。",
+    "examples": [
+      [
+        "High latency made the video call difficult.",
+        "较高的延迟让视频通话变得困难。"
+      ],
+      [
+        "The engineers measured the latency between a button press and the response.",
+        "工程师测量了按下按钮到系统响应之间的延迟。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/latency"
+    ]
+  },
+  {
+    "word": "constituency",
+    "ipa": "/kənˈstɪtʃuənsi/，亦有 /tj/ 读法",
+    "meaning": "选区；选民群体；支持、服务的特定人群",
+    "sense": "议员代表的不只是一块地图上的范围，也是一群住在那里、有投票关系的人；constituency 可说选区，也可说那群人。",
+    "split": "constituent 组成者、选民的词干与 -ency 形成群体、范围名词。远接拉丁 constituere 建立、组成的材料；不是 constitution 完整词直接删字母。",
+    "history": [
+      [
+        "constituent 的选民、组成者义 + -ency",
+        "相应群体或代表范围"
+      ],
+      [
+        "constituency",
+        "选区；选民；某组织所面向的人群"
+      ]
+    ],
+    "explanation": "a rural constituency 农村选区；serve a broad constituency 服务广泛人群。超出选举时，也可说某机构的支持者、受众等，要看文本。",
+    "usage": "an electoral constituency；a broad constituency。",
+    "contrast": "constituent 可数时指其中一个选民、组成部分；constituency 则指范围或群体。district 泛指地区，不一定具有选举代表关系。",
+    "examples": [
+      [
+        "She visited schools across her constituency.",
+        "她走访了选区内各地的学校。"
+      ],
+      [
+        "The museum serves a broad constituency, from schoolchildren to researchers.",
+        "博物馆服务的人群很广，从学童到研究人员都有。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/constituency"
+    ]
+  },
+  {
+    "word": "adequacy",
+    "ipa": "/ˈædɪkwəsi/，亦有 /ə/ 非重读变体",
+    "meaning": "充足、够用；适当、足以应付需要的程度",
+    "sense": "一件东西不必最好，但至少能把任务接住；adequacy 就是在问它够不够、合不合这个需要。",
+    "split": "adequate 的词干 + -acy，换掉 -ate 形容词尾形成状态名词；adequate 的历史远接拉丁使相等、相称的材料。不是 adequate 完整拼写后再生硬加 acy。",
+    "history": [
+      [
+        "adequate",
+        "足够、合乎需要的"
+      ],
+      [
+        "adequ- + -acy → adequacy",
+        "够用、适当的状态或程度"
+      ]
+    ],
+    "explanation": "the adequacy of the evidence 证据是否足够；question the adequacy of the training 质疑培训够不够用。通常不可数，常与 of 连用交代评价对象。",
+    "usage": "the adequacy of；assess adequacy。",
+    "contrast": "adequacy 强调达到需要的门槛，不等于 excellence 卓越。足够完成任务和表现出色是不同评价。",
+    "examples": [
+      [
+        "The review questioned the adequacy of the available evidence.",
+        "审查质疑现有证据是否足够。"
+      ],
+      [
+        "We need to assess the adequacy of the training.",
+        "我们需要评估培训是否足以应付工作需要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adequacy#English"
+    ]
+  },
+  {
+    "word": "degeneracy",
+    "ipa": "/dɪˈdʒenərəsi/",
+    "meaning": "退化、堕落；〔数学、物理等〕简并、退化状态",
+    "sense": "普通评价里常说品质变坏；到了物理、数学里，却可能只是几种状态共用同一数值、一个一般结构变成特殊情况，不是道德变坏。",
+    "split": "degenerate 的形容词词干 + -cy／-acy，远接拉丁 de genere 偏离本来类别、出身的旧材料。历史上的血统、道德评价与现代学科术语不能混为一谈。",
+    "history": [
+      [
+        "degenerate 形容词 → degeneracy",
+        "退化、变坏的状态名词"
+      ],
+      [
+        "学科中的专门命名",
+        "简并、退化等具体结构关系"
+      ]
+    ],
+    "explanation": "moral degeneracy 是带谴责的道德堕落；energy degeneracy 等物理搭配涉及不同状态与能量关系；几何退化也有特定定义。每个领域需要看它究竟指什么。",
+    "usage": "moral degeneracy；energy degeneracy。",
+    "contrast": "degeneration 常偏向退化的过程，degeneracy 偏状态、性质或学科中的特定关系；技术意义的退化不表示研究对象品德低下。",
+    "examples": [
+      [
+        "The critic used “degeneracy” as a harsh moral judgment.",
+        "那位评论者用 degeneracy 一词作了严厉的道德批判。"
+      ],
+      [
+        "The lecture explained degeneracy using two distinct states with the same energy.",
+        "讲座用两个能量相同的不同状态解释了简并。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/degeneracy",
+      "https://van.physics.illinois.edu/ask/listing/30357"
+    ]
+  },
+  {
+    "word": "intricacy",
+    "ipa": "/ˈɪntrɪkəsi/",
+    "meaning": "错综复杂；复杂精细之处〔常用复数 intricacies〕",
+    "sense": "一眼看像一团线，细看每根又绕着别的线；复杂不只是多，而是细节彼此勾连。",
+    "split": "intricate 的词干 + -acy，来自其纠缠、复杂的形容词材料，远接拉丁 intricare 缠住。换掉形容词尾形成名词，不是英语 trick 直接套一个 in- 就得到。",
+    "history": [
+      [
+        "intricate",
+        "纠缠、复杂精细的"
+      ],
+      [
+        "intric- + -acy → intricacy",
+        "复杂性；复杂细节"
+      ]
+    ],
+    "explanation": "the intricacy of the pattern 图案的精细复杂；the intricacies of a system 系统里错综的细节。复数很常见，不只是把一个复杂程度数成多个。",
+    "usage": "the intricacies of；admire the intricacy。",
+    "contrast": "complexity 泛指复杂度；intricacy 更容易让人看到精细交织的细节，可是欣赏也可是难懂，不自动带负面评价。",
+    "examples": [
+      [
+        "She admired the intricacy of the carved pattern.",
+        "她赞叹雕刻图案的复杂精细。"
+      ],
+      [
+        "It takes time to learn the intricacies of the system.",
+        "弄懂这套系统的复杂细节需要时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intricacy#English"
+    ]
+  },
+  {
+    "word": "neighbor",
+    "ipa": "英 /ˈneɪbə/；美 /ˈneɪbər/",
+    "meaning": "邻居；相邻的人、事物〔常见美式拼写〕",
+    "sense": "住得近的人，或地图、列表上挨着的对象，都是从“近旁的那个”来理解。",
+    "split": "与 neighbour 同词的拼写形式，古英语 nēahgebūr 包含近与居住者的材料。现代 neig(h)-bour 并不是两段现成英语可任意拆换。",
+    "history": [
+      [
+        "古英语 nēah + gebūr 的组合",
+        "近 + 居住者"
+      ],
+      [
+        "neighbor／neighbour",
+        "邻居；相邻对象的现代拼写"
+      ]
+    ],
+    "explanation": "a next-door neighbor 隔壁邻居；our northern neighbor 北边的邻国或邻近对象。动词、修饰语也可说相邻；本页头词采用不带连字符的基础词。",
+    "usage": "a friendly neighbor；neighboring countries。",
+    "contrast": "neighbor 与 neighbour 主要是拼写规范不同，不是一个只说人、另一个只说国家。neighborhood 是相邻范围、街区，不能直接替代一个邻居。",
+    "examples": [
+      [
+        "Our neighbor helped us carry the boxes upstairs.",
+        "邻居帮我们把箱子搬上了楼。"
+      ],
+      [
+        "The two countries are close neighbors.",
+        "这两个国家彼此邻近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neighbor#English"
+    ]
+  },
+  {
+    "word": "neighborhood",
+    "ipa": "英 /ˈneɪbəhʊd/；美 /ˈneɪbərhʊd/",
+    "meaning": "街区；附近一带；邻里〔常见美式拼写〕",
+    "sense": "不只是隔壁一个人，而是你家周围那片熟悉的街道、店铺和住户，合起来是一片 neighborhood。",
+    "split": "现代对应 neighbor + -hood，较早的 neighborred 一类形式后来更换为 -hood。这个后缀形成相邻关系、周边范围的集合，不是 hood 兜帽把街区罩起来。",
+    "history": [
+      [
+        "早期 neighborred 等邻里词形",
+        "相邻关系、附近一带"
+      ],
+      [
+        "后缀更换、固定为 neighborhood",
+        "街区、邻里及附近范围"
+      ]
+    ],
+    "explanation": "a quiet neighborhood 安静街区；in the neighborhood 在附近；in the neighborhood of fifty 也可比喻约五十的数值范围。与 neighbourhood 用法对应。",
+    "usage": "a residential neighborhood；in the neighborhood of。",
+    "contrast": "neighbor 是邻居这个人，neighborhood 是邻里、区域；它不是正式行政区划的统一名称，边界常由当地用法决定。",
+    "examples": [
+      [
+        "We moved to a quieter neighborhood last year.",
+        "我们去年搬到了一个更安静的街区。"
+      ],
+      [
+        "There is a small library in our neighborhood.",
+        "我们住的这一带有一家小图书馆。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/neighborhood"
+    ]
+  },
+  {
+    "word": "nationhood",
+    "ipa": "/ˈneɪʃənhʊd/",
+    "meaning": "民族或国家的存在状态、身份；形成这种共同体的地位",
+    "sense": "不只是许多人住在一起，而是把自己、或被视作一个有共同身份的民族、国家共同体；nationhood 讨论这种状态。",
+    "split": "nation + -hood，后缀形成身份、存在状态的名词；nation 的历史含出生、人群、民族等材料，现代 nationhood 要看民族认同还是国家形成语境。",
+    "history": [
+      [
+        "nation + -hood",
+        "作为民族或国家共同体的状态"
+      ],
+      [
+        "nationhood",
+        "相关共同身份、地位及形成过程中的目标"
+      ]
+    ],
+    "explanation": "a sense of nationhood 民族、国家共同体意识；achieve nationhood 形成相应国家地位。这个词不替代具体政治制度或历史事实的说明。",
+    "usage": "a sense of nationhood；the emergence of nationhood。",
+    "contrast": "statehood 更偏国家、州等政治实体地位；nationhood 还常谈共同身份和民族意识。不同文本会交叠，不宜只背成两个完全相同的建国。",
+    "examples": [
+      [
+        "The book explores the symbols that shaped a sense of nationhood.",
+        "这本书探讨了塑造民族共同体意识的象征。"
+      ],
+      [
+        "The exhibition traces the region’s path toward nationhood.",
+        "展览梳理了该地区走向国家形成的历程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationhood#English"
+    ]
+  },
+  {
+    "word": "sainthood",
+    "ipa": "/ˈseɪnthʊd/",
+    "meaning": "圣徒身份、地位；圣洁无私的状态〔比喻〕",
+    "sense": "saint 指圣徒或被夸为特别好的人；sainthood 把焦点移到这种身份、地位。日常还可半开玩笑地夸人耐心得像圣人。",
+    "split": "saint + -hood，后缀表示身份、状态。saint 的历史接拉丁 sanctus 神圣的材料；宗教制度中的圣徒身份与日常夸人的比喻要分开。",
+    "history": [
+      [
+        "saint + -hood",
+        "作为圣徒的身份、状态"
+      ],
+      [
+        "sainthood",
+        "宗教圣徒地位；圣人般品质的比喻"
+      ]
+    ],
+    "explanation": "candidates for sainthood 候选圣徒；the path to sainthood 通往圣徒身份的过程。不同宗教传统有不同概念，不能把一个词的名称当成统一程序。",
+    "usage": "achieve sainthood；a claim to sainthood。",
+    "contrast": "saint 是人物，sainthood 是状态或地位；kindness 普通善意不必带宗教，也没有 sainthood 那种圣人般的夸张程度。",
+    "examples": [
+      [
+        "The documentary examines the history of sainthood.",
+        "纪录片探讨了圣徒身份的历史。"
+      ],
+      [
+        "After months of patient help, she jokingly said he deserved sainthood.",
+        "他耐心帮忙了好几个月，她开玩笑说他简直该成圣人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sainthood#English"
+    ]
+  },
+  {
+    "word": "mathematics",
+    "ipa": "/ˌmæθəˈmætɪks/",
+    "meaning": "数学",
+    "sense": "不只是算账，还研究数量、形状、结构、变化之间的关系：看清规律，再用严密的推理说明为什么。",
+    "split": "经法语、拉丁语相应词，接希腊 mathēma 所学、知识与 mathēmatikos 的材料；英语较早也有 mathematic 学科名，后来 -ics 形式固定。不是把现代 math 当拉丁词根后临时补一长串。",
+    "history": [
+      [
+        "希腊 mathēma／mathēmatikos → 拉丁、法语相应形式",
+        "所学知识、与数学学习有关的"
+      ],
+      [
+        "英语 mathematic／mathematics 的历史形式",
+        "数学学科名称"
+      ]
+    ],
+    "explanation": "study mathematics 学数学；pure mathematics 纯数学；applied mathematics 应用数学。作为学科通常用单数动词：Mathematics is ...。",
+    "usage": "applied mathematics；a degree in mathematics。",
+    "contrast": "arithmetic 算术偏数字运算，mathematics 数学范围更广；词尾 s 不意味着学科作主语必须接 are。",
+    "examples": [
+      [
+        "Mathematics is one of her favourite subjects.",
+        "数学是她最喜欢的科目之一。"
+      ],
+      [
+        "The course connects mathematics with everyday problems.",
+        "这门课把数学与日常问题联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mathematics"
+    ]
+  },
+  {
+    "word": "math",
+    "ipa": "/mæθ/",
+    "meaning": "数学〔主要美式缩略说法〕",
+    "sense": "美国人常把 mathematics 这个长名字说短一点：math class 就是数学课。",
+    "split": "mathematics 的截短形式，不是先有现代 math 再由它按规则长成 mathematics。aftermath 里的旧 math 割草则另有词源。",
+    "history": [
+      [
+        "mathematics",
+        "完整学科名数学"
+      ],
+      [
+        "截短为 math",
+        "主要美式日常学科名称"
+      ]
+    ],
+    "explanation": "a math teacher 数学老师；do the math 算一算，也可比喻自己想清楚。作学科通常单数，不因为省略了其他字母就改变数的用法。",
+    "usage": "math class；a math problem；do the math。",
+    "contrast": "英式日常更常用 maths，美式更常用 math；并非一种只讲算术、另一种才讲高等数学。",
+    "examples": [
+      [
+        "We have a math test on Friday.",
+        "星期五我们有数学测验。"
+      ],
+      [
+        "Do the math before you buy the larger pack.",
+        "买大包装前先算一算。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mathematics"
+    ]
+  },
+  {
+    "word": "maths",
+    "ipa": "/mæθs/",
+    "meaning": "数学〔常见英式缩略说法〕",
+    "sense": "英国人常说 maths lesson，意思与美国人说 math lesson 对应，都是数学课。",
+    "split": "mathematics 截短后保留末尾 s 的形式；不是把一门 math 数成多门而加普通复数。",
+    "history": [
+      [
+        "mathematics",
+        "数学学科名"
+      ],
+      [
+        "截短并保留 s → maths",
+        "常见英式日常名称"
+      ]
+    ],
+    "explanation": "a maths teacher 数学老师；good at maths 数学好。一般作学科用单数动词：Maths is interesting，不由外表 s 决定用 are。",
+    "usage": "a maths lesson；good at maths。",
+    "contrast": "math／maths 主要是地域表达习惯差异；都不是 mathematics 中不同分支的专门名称。",
+    "examples": [
+      [
+        "She is very good at maths.",
+        "她数学很好。"
+      ],
+      [
+        "Maths is the first lesson on Monday.",
+        "星期一第一节是数学课。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mathematics"
+    ]
+  },
+  {
+    "word": "mathematical",
+    "ipa": "/ˌmæθəˈmætɪkəl/",
+    "meaning": "数学的；与数学方法、关系有关的",
+    "sense": "mathematics 是领域名称；mathematical model 是把问题放进数量、结构和关系中表示的模型。",
+    "split": "中古英语已有相应形式，借中世纪拉丁 mathematicalis 一类形容词，接相同希腊、拉丁数学材料。现代可对照 mathematic- + -al，但形容词并不一定晚于现代 -ics 名称才现造。",
+    "history": [
+      [
+        "中世纪拉丁相应 mathematicalis → 英语形容词",
+        "与数学知识、方法有关"
+      ],
+      [
+        "现代 mathematical",
+        "数学的、运用数学表达的"
+      ]
+    ],
+    "explanation": "mathematical ability 数学能力；a mathematical model 数学模型；a mathematical proof 数学证明。用数字写出来不保证已经证明正确，模型还要符合其假设。",
+    "usage": "a mathematical model；mathematical reasoning。",
+    "contrast": "mathematical 说数学关系、方法；numerical 更聚焦数值、数字。表上有数字可以是 numerical data，不必把任何数字表都叫数学模型。",
+    "examples": [
+      [
+        "The team built a mathematical model of traffic flow.",
+        "团队建立了一个交通流量的数学模型。"
+      ],
+      [
+        "Her argument relies on a simple mathematical proof.",
+        "她的论证依靠一个简单的数学证明。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mathematics"
+    ]
+  },
+  {
+    "word": "photovoltaics",
+    "ipa": "英 /ˌfəʊtəʊvɒlˈteɪɪks/；美 /ˌfoʊtoʊvɑːlˈteɪɪks/",
+    "meaning": "光伏技术；把光转成电的技术领域",
+    "sense": "阳光照到电池材料上，直接产生电能；photovoltaics 讨论这类材料、器件和发电技术，不是先把水烧热再发电的统一名称。",
+    "split": "photovoltaic 的词干与 -ics 学科、技术领域材料相接；photo- 是光，voltaic 与电学及 Volta 的人名命名有关。不是把照片拍得很多的技术。",
+    "history": [
+      [
+        "photo- + voltaic → photovoltaic",
+        "光 + 电学材料形成的形容词"
+      ],
+      [
+        "photovoltaic + -ics → photovoltaics",
+        "光电转换相关技术领域"
+      ]
+    ],
+    "explanation": "research in photovoltaics 光伏技术研究；solar photovoltaics 太阳能光伏。PV 可作为这类名词或形容词用法的缩写，具体指技术还是设备系统要看上下文。",
+    "usage": "solar photovoltaics；advances in photovoltaics。",
+    "contrast": "photovoltaic 是形容词，如 photovoltaic cells；photovoltaics 常作技术领域名。solar thermal 太阳能热利用强调热，不能只因都接收阳光就等同。",
+    "examples": [
+      [
+        "The laboratory conducts research in photovoltaics.",
+        "实验室从事光伏技术研究。"
+      ],
+      [
+        "Advances in photovoltaics have changed how many buildings generate electricity.",
+        "光伏技术的进展改变了许多建筑的发电方式。"
+      ]
+    ],
+    "sources": [
+      "https://www.energy.gov/cmei/systems/solar-photovoltaic-technology-basics",
+      "https://www.nlr.gov/comm-standards/editorial/photovoltaics-and-photovoltaic"
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "A1879",
+    "meaning": "化学命名后缀，常见于阴离子、二元化合物及其他类别",
+    "core": "-IDE：把元素或基团放进化合物名称，整词和化学式一起看",
+    "image": "fluoride、chloride、bromide、iodide；sulfide；amide、peptide 等再看专门结构。",
+    "intro": "不是背一个化合物的中文就够，而是学会元素名怎样换成相应角色名。后缀用途后来扩展，不能一律解释成同一种电荷、同一种二元结构。",
+    "forms": "-ide 经法语 oxide 等命名及德语 -id 影响；fluor-、chlor-、brom-、iod- 等取元素词干，其他类别有各自命名历史。",
+    "branches": [
+      [
+        "卤素相关名称",
+        "fluoride · chloride · bromide · iodide · halide"
+      ],
+      [
+        "其他无机及基团名称",
+        "sulfide · cyanide"
+      ],
+      [
+        "有机结构与生物化学类别",
+        "amide · peptide · nucleotide"
+      ]
+    ],
+    "contrasts": "-ide 不保证所有词都只有两种元素；化学式与具体类别一起看。",
+    "practice": "The table distinguishes fluoride, iodide and several other compounds ending in -ide.\n\n表中区分了氟化物、碘化物和其他几种以 -ide 结尾的化合物。",
+    "words": [
+      "fluoride",
+      "chloride",
+      "bromide",
+      "iodide",
+      "halide",
+      "sulfide",
+      "cyanide",
+      "amide",
+      "peptide",
+      "nucleotide"
+    ],
+    "exclude": {
+      "nitride": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "telluride": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydride": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arsenide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glucoside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4223",
+    "meaning": "双臂搂近，到路线贴近与人物习惯",
+    "core": "HUG：靠得近、贴得紧",
+    "image": "hug → hugger；拥抱实体与沿线紧贴的比喻一起看。",
+    "intro": "把身体搂近很好记，路线紧贴某处也能借这个词。人物后缀 -er 则让拥抱变成某人的行为习惯。",
+    "forms": "hugge → hug，早期来源有不同分析；-er 人物，双写 g。\n\nhug 远源不定，现代双写 g 加完整 -ed，/ɡ/ 后读 /d/。抱人、抱住物品及道路沿地形紧贴而行均可。\n\nhug 远源未定，现代 -s，/ɡ/ 后读 /z/，拥抱的名词复数、动词第三人称同形。暖意、紧抱的核心画面可直接理解。",
+    "branches": [
+      [
+        "贴近动作与拥抱者",
+        "hug · hugger"
+      ],
+      [
+        "hug 拥抱、紧贴 → hugged",
+        "hugged"
+      ],
+      [
+        "hug 拥抱 → hugs",
+        "hugs"
+      ]
+    ],
+    "contrasts": "hug the coast 看路线贴近；hugger 不只职业后缀用法。",
+    "practice": "The hugger gave her friend a hug before they followed the road hugging the coast.\n\n那位爱拥抱的人抱了抱朋友，然后两人沿贴着海岸的路前行。",
+    "words": [
+      "hug",
+      "hugger",
+      "hugged",
+      "hugs"
+    ],
+    "exclude": {
+      "e-hug": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bro-hug": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "huggy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3198",
+    "meaning": "硅元素与相关材料，字母多一点类别就变",
+    "core": "SILICON：元素硅；silicone 是另一类材料名",
+    "image": "silicon → polysilicon；silicone 与元素名关联但不是同物。",
+    "intro": "先分清元素与聚合材料，再认 poly- 多这一限定。中文硅、硅酮相近，英语 silicon、silicone 也只差一个字母，读音和类别都需对照。",
+    "forms": "silicon 由 silica 等材料词族形成元素名；poly- 多 + silicon → polysilicon；silicone 是另一个材料命名。\n\nsilic- 燧石材料还形成 silica 二氧化硅、silicate 硅酸盐；borosilicate 包含另一半 boro- 硼。",
+    "branches": [
+      [
+        "硅元素与多晶硅",
+        "silicon · polysilicon"
+      ],
+      [
+        "硅酮聚合材料",
+        "silicone"
+      ],
+      [
+        "硅的氧化物、盐类与硼硅复合材料",
+        "silica · silicate · borosilicate"
+      ]
+    ],
+    "contrasts": "silicon 与 silicone 不同；polysilicon 通常多晶硅，不按硅酮胶理解。",
+    "practice": "The text distinguishes silicon chips from silicone seals.\n\n文中区分了硅芯片与硅酮密封件。",
+    "words": [
+      "silicon",
+      "polysilicon",
+      "silicone",
+      "silica",
+      "silicate",
+      "borosilicate"
+    ],
+    "exclude": {}
+  }
+]

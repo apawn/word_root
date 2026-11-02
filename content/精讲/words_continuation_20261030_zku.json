@@ -1,0 +1,890 @@
+[
+  {
+    "word": "sobriety",
+    "ipa": "英 /səˈbraɪɪti/；美 /səˈbraɪəti/",
+    "meaning": "清醒、不醉；节制；严肃稳重",
+    "sense": "一个人头脑清醒、不受酒意影响，是 sobriety 的常见意思。谈话态度稳重、没有嬉闹，也能带着这种清醒、克制的感觉。",
+    "split": "经古法语 sobriete 或直接接拉丁 sobrietas、sobrietatem，由 sobrius 清醒、节制形成。与 sober 同一词族，但不是现代英语只在 sober 后原样加 -ity。",
+    "history": [
+      [
+        "拉丁 sobrius 清醒、克制 → sobrietas、sobrietatem",
+        "形成相应性质、状态名词"
+      ],
+      [
+        "法语、拉丁语相关形式 → 英语 sobriety",
+        "清醒、节制；也用于态度、气氛的稳重严肃"
+      ]
+    ],
+    "explanation": "maintain sobriety 可说保持清醒、不饮酒的状态；the sobriety of a speech 是讲话的严肃稳重。谈人时看上下文是在说酒，还是态度。",
+    "usage": "maintain sobriety；the sobriety of the occasion；a note of sobriety。",
+    "contrast": "sobriety 不只说没有喝醉，也可能说长期节制或不饮酒；形容态度时则不必涉及酒。soberness 也有相近状态名词用法。",
+    "examples": [
+      [
+        "The memoir describes his years of sobriety.",
+        "这部回忆录讲述了他多年不饮酒的生活。"
+      ],
+      [
+        "Her reply brought a note of sobriety to the discussion.",
+        "她的回答给讨论带来了一份冷静严肃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sobriety#English",
+      "https://www.etymonline.com/word/sobriety"
+    ]
+  },
+  {
+    "word": "zest",
+    "ipa": "英、美 /zest/",
+    "meaning": "柑橘类外层果皮；热情、兴致；增添趣味的劲头",
+    "sense": "磨下一点柠檬外层果皮，香味马上鲜明起来，这是 zest 的食物画面。生活也像被提了味，于是 zest 可以是兴致、热情。",
+    "split": "借法语 zeste，用来调味的橙、柠檬皮；更早来源不确定。英语从增添味道的东西，扩展到让人有兴致、享受得起劲。",
+    "history": [
+      [
+        "法语 zeste 调味果皮 → 英语 zest",
+        "借入的是整体果皮、调味名称"
+      ],
+      [
+        "增味 → 使事情有滋味 → 热情、兴致",
+        "现代常见 zest for life 把生活当成值得投入的事"
+      ]
+    ],
+    "explanation": "lemon zest 是柠檬外层果皮；a zest for life 是生活热情；with zest 是兴致勃勃地。",
+    "usage": "lemon zest；a zest for life；with zest。",
+    "contrast": "peel 可以说整个果皮，烹饪里的 zest 常突出有香味的外层部分。抽象义比普通 interest 更多投入、享受的劲头。",
+    "examples": [
+      [
+        "The recipe includes a little lemon zest.",
+        "这份食谱里有少量柠檬外层果皮。"
+      ],
+      [
+        "She approached the new project with zest.",
+        "她兴致勃勃地投入了新项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zest#English",
+      "https://www.etymonline.com/word/zest"
+    ]
+  },
+  {
+    "word": "zesty",
+    "ipa": "英、美 /ˈzesti/",
+    "meaning": "味道鲜明、爽口的；充满活力、兴致的",
+    "sense": "酱汁带一点明快的酸香，尝起来有精神，可以说 zesty。写人、音乐或活动时，也能说活泼有劲。",
+    "split": "zest + 完整 -y → zesty，词基保留。它既接果皮增香、增味的画面，也接 zest 热情、兴致的抽象义。",
+    "history": [
+      [
+        "法语调味果皮词 → zest",
+        "由增味发展到兴致、投入感"
+      ],
+      [
+        "zest + -y → zesty",
+        "味道鲜明、爽口；相应的活力、兴致"
+      ]
+    ],
+    "explanation": "a zesty sauce 是味道明快的酱汁；a zesty flavour 是爽利鲜明的风味；a zesty performance 是活泼有劲的表演。",
+    "usage": "a zesty sauce；a zesty flavour；a zesty performance。",
+    "contrast": "zesty 不一定是 chilli 辣椒那种辣，常可以是柑橘酸香带来的鲜明劲头。spicy 更常说香料、辛辣等特征。",
+    "examples": [
+      [
+        "A zesty dressing gave the salad a fresh flavour.",
+        "爽口的调味汁给沙拉增添了清新风味。"
+      ],
+      [
+        "The band delivered a zesty performance.",
+        "乐队带来了一场活泼有劲的演出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zesty#English",
+      "https://www.etymonline.com/word/zest"
+    ]
+  },
+  {
+    "word": "eerie",
+    "ipa": "英 /ˈɪəri/；美 /ˈɪri/",
+    "meaning": "诡异的；怪得让人不安的",
+    "sense": "街上空无一人，屋里却传来熟悉的脚步声，这种怪得让人发毛的感觉，是 eerie。重点在陌生、反常引起的不安。",
+    "split": "接北英格兰、苏格兰 eri、eery 等形式，通常联系古英语 earg 胆怯、惧怕的材料。词义从自身感到恐惧，转为事物令人因古怪而害怕。",
+    "history": [
+      [
+        "较早 eri、eery，联系旧胆怯、恐惧材料",
+        "更远日耳曼背景仍有讨论"
+      ],
+      [
+        "容易害怕、带恐惧 → eerie 使人因怪异而不安",
+        "感受者的特点转到引起感受的事物上"
+      ]
+    ],
+    "explanation": "an eerie silence 是令人发毛的寂静；an eerie glow 是诡异微光；an eerie similarity 是怪得让人不安的相似。",
+    "usage": "an eerie silence；an eerie glow；an eerie similarity。",
+    "contrast": "strange 只说奇怪，eerie 多了不安、毛骨悚然的气氛。它不一定说明有真实危险，也不必涉及鬼怪。",
+    "examples": [
+      [
+        "An eerie silence filled the empty station.",
+        "空荡荡的车站里弥漫着令人发毛的寂静。"
+      ],
+      [
+        "The two recordings had an eerie similarity.",
+        "这两段录音相似得让人有些不安。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eerie#English",
+      "https://www.etymonline.com/word/eerie"
+    ]
+  },
+  {
+    "word": "eerily",
+    "ipa": "英 /ˈɪərɪli/；美 /ˈɪrɪli/",
+    "meaning": "诡异地；怪得令人不安地",
+    "sense": "房间安静得不合常理，就可以说 eerily quiet。这里不是普通的安静，而是安静中透出一股怪异感。",
+    "split": "eerie 去末尾 e，加完整 -ly → eerily。保留词基里的 i，不能把它一律当作形容词末尾 y 变 i 的规则。",
+    "history": [
+      [
+        "较早恐惧相关形容词 → eerie 诡异",
+        "现代先抓引起怪异、不安的感觉"
+      ],
+      [
+        "eerie 去末尾 e + -ly → eerily",
+        "副词修饰安静、相似等具体性质或发生方式"
+      ]
+    ],
+    "explanation": "eerily quiet 是安静得诡异；eerily familiar 是熟悉得让人不安；eerily similar 是相似得有些诡异。",
+    "usage": "eerily quiet；eerily familiar；eerily similar。",
+    "contrast": "eerie 直接修饰名词，如 an eerie silence；eerily 修饰形容词等，如 eerily silent。",
+    "examples": [
+      [
+        "The streets were eerily quiet after midnight.",
+        "午夜过后，街道安静得有些诡异。"
+      ],
+      [
+        "His voice sounded eerily familiar.",
+        "他的声音听起来熟悉得让人不安。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eerily#English",
+      "https://www.etymonline.com/word/eerie",
+      "https://en.wiktionary.org/wiki/eerily#English"
+    ]
+  },
+  {
+    "word": "dreary",
+    "ipa": "英 /ˈdrɪəri/；美 /ˈdrɪri/",
+    "meaning": "阴沉凄凉的；单调乏味的",
+    "sense": "一整天灰天冷雨，街道也没什么生气，是 dreary。开会、工作如果闷得让人提不起劲，也能用这个词。",
+    "split": "承古英语 dreorig 悲伤、凄惨等义，更早联系 dreor 血及落下、流落的旧材料。现代词义已经弱化为阴沉、令人无聊；较晚 drear 反而是 dreary 的诗性短形。",
+    "history": [
+      [
+        "古英语 dreorig 的凄惨、悲伤义 → dreary",
+        "旧意义较强，现代不再要求有流血场景"
+      ],
+      [
+        "悲凉、阴沉 → 令人乏味、单调",
+        "外部景象和内在兴致连在一起"
+      ]
+    ],
+    "explanation": "a dreary day 是阴沉的一天；a dreary town 是令人提不起精神的小镇；a dreary task 是单调乏味的任务。",
+    "usage": "a dreary day；a dreary afternoon；a dreary task。",
+    "contrast": "rainy 只是下雨，dreary 还评价它让人沉闷、提不起兴致。boring 说无聊的范围更广，dreary 常多一点灰暗、没生气的气氛。",
+    "examples": [
+      [
+        "It was a dreary afternoon of grey skies and rain.",
+        "那是个灰天落雨、阴沉沉的下午。"
+      ],
+      [
+        "The job involved hours of dreary paperwork.",
+        "这份工作要花很长时间处理单调乏味的文书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dreary#English",
+      "https://www.etymonline.com/word/dreary"
+    ]
+  },
+  {
+    "word": "drape",
+    "ipa": "英、美 /dreɪp/",
+    "meaning": "把布等垂挂、披盖；使松松垂搭；帷幔、窗帘",
+    "sense": "一条围巾松松搭在肩上，一块布垂在桌边，都有 drape 的画面。它比简单放上去，更让人看见布料自然垂落的样子。",
+    "split": "动词经古法语 draper 织布、装点布料，接 drap 布，再接晚期拉丁 drapus。名词、动词均与这条布料历史相连，常见复数 drapes 指窗帘。",
+    "history": [
+      [
+        "晚期拉丁 drapus → 古法语 drap、draper → 英语 drape",
+        "布料名称、织造及用布装点的相关动作"
+      ],
+      [
+        "披盖、垂挂 → 松松搭上；名词 drape、drapes",
+        "材料的垂落形态成为现代核心画面"
+      ]
+    ],
+    "explanation": "drape a scarf over the shoulders 是把围巾披在肩上；drape cloth across a table 是让布垂搭在桌上；heavy drapes 是厚窗帘。",
+    "usage": "drape over；drape across；heavy drapes。",
+    "contrast": "cover 只需说遮盖，drape 常突出布料、柔软东西垂落或搭着的姿态；不一定把东西完全包住。",
+    "examples": [
+      [
+        "She began to drape the scarf over her shoulders.",
+        "她开始把围巾披到肩上。"
+      ],
+      [
+        "Long curtains drape over the edge of the platform.",
+        "长帘子垂搭在台沿上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drape#English",
+      "https://www.etymonline.com/word/drape"
+    ]
+  },
+  {
+    "word": "drapery",
+    "ipa": "英 /ˈdreɪpəri/；美 /ˈdreɪpəri/",
+    "meaning": "帷幔、垂挂布料；窗帘；衣褶的表现",
+    "sense": "窗前或舞台边垂落的整片布料，是 drapery 的常见画面。看雕塑、绘画时，它也能说人物身上的衣褶、垂布。",
+    "split": "经古法语 draperie 织造、布料行业相关名词借入，接 drap 布。与 drape 相连，但英语名词的早期借入不能简单说成现代 drape 再临时加 -ery。",
+    "history": [
+      [
+        "法语 drap 布 → draperie → 英语 drapery",
+        "先有布料、织造、行业等相关用法"
+      ],
+      [
+        "布料 → 垂挂布、帷幔、窗帘；艺术中的衣褶",
+        "英语按具体场景使用整个名词"
+      ]
+    ],
+    "explanation": "heavy drapery 是厚重帷幔；the folds of the drapery 是垂布的褶皱；painted drapery 可说画中呈现的衣褶。",
+    "usage": "heavy drapery；the folds of the drapery；silk drapery。",
+    "contrast": "curtains 较直接说窗帘、幕帘；drapery 还可说各种垂挂布、装饰布，以及艺术作品里的衣料处理。",
+    "examples": [
+      [
+        "Heavy drapery framed the tall windows.",
+        "厚重帷幔围衬着高高的窗户。"
+      ],
+      [
+        "The sculptor carefully shaped the folds of the drapery.",
+        "雕刻家细致地刻出了衣料的褶皱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drapery#English",
+      "https://www.etymonline.com/word/drapery"
+    ]
+  },
+  {
+    "word": "drab",
+    "ipa": "英、美 /dræb/",
+    "meaning": "暗淡无色彩的；单调乏味的；灰黄、灰褐色的",
+    "sense": "墙、楼、衣服全是灰蒙蒙的颜色，看着没生气，可以说 drab。生活过得天天一个样，也像缺了颜色。",
+    "split": "形容词接旧 drab、drap 布料名称，经法语 drap 布；原先特别联系未染色布的灰黄颜色。后来颜色不鲜明扩展成环境、生活单调乏味。",
+    "history": [
+      [
+        "法语 drap 布 → 英语 drab 布料、相应灰黄色名",
+        "与 drape、drapery 共享较早布料词"
+      ],
+      [
+        "布的暗淡色 → drab 暗淡、没生气、单调",
+        "不是把旧同形贬称人物的名词当作这条颜色词源"
+      ]
+    ],
+    "explanation": "a drab room 是暗淡、没生气的房间；drab clothes 是色彩暗淡的衣服；a drab routine 是单调的日常安排。",
+    "usage": "a drab room；drab clothes；a drab routine。",
+    "contrast": "plain 可以是简洁、不花哨，未必不好看；drab 通常是负面评价，嫌它缺少色彩、活力或趣味。",
+    "examples": [
+      [
+        "Bright cushions made the drab room feel more cheerful.",
+        "鲜亮靠垫让暗淡的房间显得更有生气。"
+      ],
+      [
+        "She wanted a change from her drab daily routine.",
+        "她想改变自己单调乏味的日常生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drab#English",
+      "https://www.etymonline.com/word/drab"
+    ]
+  },
+  {
+    "word": "grime",
+    "ipa": "英、美 /ɡraɪm/",
+    "meaning": "积垢；油泥、烟尘等脏污",
+    "sense": "窗边、机器表面、手指缝里那层积着的黑灰、油泥，可以叫 grime。它常让人想到脏东西黏着、积了一层。",
+    "split": "近源常联系中古英语 grim 脏污及低地德语相关形式，具体借入和变化仍有不确定。现代整体认 grime 这个污垢名词。",
+    "history": [
+      [
+        "较早英语、低地德语脏污材料 → grime",
+        "更远来源有不同分析，不当作一个已确定的简单派生"
+      ],
+      [
+        "现代 grime 积垢、脏污",
+        "名词形成 grimy，描述东西上带着这层污垢"
+      ]
+    ],
+    "explanation": "a layer of grime 是一层积垢；grime on the windows 是窗户上的积垢；covered in grime 是满是脏污。",
+    "usage": "a layer of grime；covered in grime；remove the grime。",
+    "contrast": "dirt 是更广的脏污，grime 常突出积着、黏着的污垢。读音里的元音是 /aɪ/，与 grim 严峻的 /ɪ/ 要分清。",
+    "examples": [
+      [
+        "A layer of grime covered the old windows.",
+        "老窗户上积着一层污垢。"
+      ],
+      [
+        "His hands were black with grime.",
+        "他的双手沾满油泥脏污，黑乎乎的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grime#English",
+      "https://www.etymonline.com/word/grime"
+    ]
+  },
+  {
+    "word": "grimy",
+    "ipa": "英、美 /ˈɡraɪmi/",
+    "meaning": "满是积垢、脏污的",
+    "sense": "手摸过很多旧机器，黑油泥沾在指头上，是 grimy hands。重点是东西表面带着一层脏污。",
+    "split": "grime 去末尾 e，加完整 -y → grimy。基础词的具体早期路线有讨论，现代这层形容词对应是清楚的。",
+    "history": [
+      [
+        "脏污词 grime",
+        "常说积着、黏着的一层垢"
+      ],
+      [
+        "grime 去 e + -y → grimy",
+        "形成满是相应脏污的形容词"
+      ]
+    ],
+    "explanation": "grimy hands 是脏污的手；grimy windows 是积垢的窗；a grimy wall 是污垢斑斑的墙。",
+    "usage": "grimy hands；grimy windows；a grimy wall。",
+    "contrast": "grim 是严峻、阴沉，grimy 是脏，后者来自 grime。grimy 比普通 dirty 更容易带出黑灰、油泥积着的感觉。",
+    "examples": [
+      [
+        "He wiped his grimy hands on a rag.",
+        "他用抹布擦了擦满是油泥的手。"
+      ],
+      [
+        "The view was blurred by the grimy window.",
+        "积垢的窗玻璃让外面的景象变得模糊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grimy#English",
+      "https://www.etymonline.com/word/grime"
+    ]
+  },
+  {
+    "word": "grisly",
+    "ipa": "英、美 /ˈɡrɪzli/",
+    "meaning": "可怖、惨烈的；令人毛骨悚然的",
+    "sense": "某些凶案、灾难叙述的细节，让人听着就一阵发冷，可以叫 grisly。它通常比普通的奇怪、阴森更强烈。",
+    "split": "承古英语 grislic 可怖的，接 grisan 发抖、害怕的词族与旧形容词材料。现代虽然以 -ly 结尾，整个词仍是形容词。",
+    "history": [
+      [
+        "古英语 grisan 恐惧、战栗相关材料 → grislic",
+        "旧 -lic 构成具有相应性质的形容词"
+      ],
+      [
+        "grislic → grisly",
+        "现代主要评价内容、事件可怖，远源仍有不同分析"
+      ]
+    ],
+    "explanation": "grisly details 是可怖细节；a grisly discovery 是骇人的发现；a grisly tale 是惨烈可怖的故事。",
+    "usage": "grisly details；a grisly discovery；a grisly tale。",
+    "contrast": "grisly 可怖与 grizzly 灰熊常同音，但近源不同。eerie 更常说诡异气氛，grisly 常指令人不忍的可怖内容；-ly 在这里不是副词标记。",
+    "examples": [
+      [
+        "The report omitted the grisly details.",
+        "报告省略了那些可怖细节。"
+      ],
+      [
+        "The history book describes a grisly episode.",
+        "这本历史书叙述了一段惨烈的事件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grisly#English",
+      "https://www.etymonline.com/word/grisly"
+    ]
+  },
+  {
+    "word": "grizzled",
+    "ipa": "英、美 /ˈɡrɪzəld/",
+    "meaning": "头发、胡须灰白斑驳的；须发花白的",
+    "sense": "黑色胡须里夹着一层灰白，像盐胡椒混着的样子，可以说 grizzled。描写人物时，常让人联想到上了年纪、经历不少。",
+    "split": "早期已有相应形容词，分析有 grizzle 灰发人物名词加旧 -ed，或法语 grisel 灰色等路线。更晚才有常见使变灰的 grizzle 动词，不能倒说老形容词由较晚动词产生。",
+    "history": [
+      [
+        "法语 gris、grisel 灰色相关材料 → 英语 grizzle、grizzled 等",
+        "形容词的具体早期形成有不同分析"
+      ],
+      [
+        "grizzled 的灰白斑驳外观义保留",
+        "现代可与 grizzle、-ed 对照认形，历史不强排成现代动词造词"
+      ]
+    ],
+    "explanation": "a grizzled beard 是花白胡须；a grizzled veteran 是须发花白的老兵、老手；grizzled hair 是灰白斑驳的头发。",
+    "usage": "a grizzled beard；grizzled hair；a grizzled veteran。",
+    "contrast": "grizzled、grizzly 近源都联系灰色材料；grisly 则是可怖的另一词。花白外观可能唤起老练的印象，不等于词义自动保证一个人很有经验。",
+    "examples": [
+      [
+        "A grizzled man waited beside the gate.",
+        "一位须发花白的男子等在门旁。"
+      ],
+      [
+        "His grizzled beard made him look older.",
+        "花白的胡须让他显得年长些。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grizzled#English",
+      "https://www.etymonline.com/word/grizzled"
+    ]
+  },
+  {
+    "word": "sheaf",
+    "ipa": "英、美 /ʃiːf/",
+    "meaning": "一捆禾秆；一束、一叠〔纸张等〕",
+    "sense": "割下的麦秆拢成一把、捆在一起，是 a sheaf。后来不只说谷物，一叠整理在一起的纸也能这样叫。",
+    "split": "承古英语 sceaf 一捆收割后的谷物，经中古英语 shef 延续。由禾束扩展到相似成束、成叠的东西；复数是 sheaves。",
+    "history": [
+      [
+        "古英语 sceaf → 中古英语 shef → sheaf",
+        "谷物收割后聚拢、捆成的一束"
+      ],
+      [
+        "禾束 → 成束、成叠的其他物件",
+        "现代常见 a sheaf of papers 一叠纸"
+      ]
+    ],
+    "explanation": "a sheaf of wheat 是一捆麦秆；a sheaf of papers 是一叠纸；a sheaf of notes 是一叠笔记。",
+    "usage": "a sheaf of wheat；a sheaf of papers；a sheaf of notes。",
+    "contrast": "a sheet of paper 是一张纸，a sheaf of papers 是一叠纸。sheaf 末音是 /f/，sheath 鞘、套末音则是 /θ/。",
+    "examples": [
+      [
+        "She carried a sheaf of papers into the meeting.",
+        "她抱着一叠纸走进会场。"
+      ],
+      [
+        "A sheaf of wheat stood in the harvest display.",
+        "丰收主题的陈列中摆着一捆麦秆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheaf#English",
+      "https://www.etymonline.com/word/sheaf"
+    ]
+  },
+  {
+    "word": "sheaves",
+    "ipa": "英、美 /ʃiːvz/",
+    "meaning": "成捆禾秆；成叠纸张〔sheaf 的复数〕",
+    "sense": "不只一捆麦秆、不只一叠纸，sheaf 就变成 sheaves。这一组值得单独认，因为拼写和读音都有变化。",
+    "split": "sheaf 的现代复数：词末 f 变 v，再加 -es → sheaves。读音 /ʃiːvz/，不是把 -es 另读一整节；接古英语禾束名词的延续词形。",
+    "history": [
+      [
+        "古英语禾束词 → sheaf 一捆、一叠",
+        "后扩展到纸张等成束物件"
+      ],
+      [
+        "sheaf：f → v，加 -es → sheaves",
+        "现代不规则复数的拼写与 /f/、/v/ 交替"
+      ]
+    ],
+    "explanation": "sheaves of wheat 是一捆捆麦秆；sheaves of papers 是一叠叠纸；several sheaves 是几捆、几叠。",
+    "usage": "sheaves of wheat；sheaves of papers；several sheaves。",
+    "contrast": "leaves、sheaves 都有 f 到 v 的复数交替，但不能把所有 f 结尾名词照搬成 ves。sheets 是纸张复数，与成叠的 sheaves 观察角度不同。",
+    "examples": [
+      [
+        "Sheaves of wheat lay beside the barn.",
+        "一捆捆麦秆放在谷仓旁。"
+      ],
+      [
+        "He sorted the sheaves of notes on his desk.",
+        "他整理桌上一叠叠的笔记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheaves#English",
+      "https://www.etymonline.com/word/sheaf"
+    ]
+  },
+  {
+    "word": "sheath",
+    "ipa": "英、美 /ʃiːθ/",
+    "meaning": "鞘；护套、外包层；紧身直筒裙",
+    "sense": "刀刃外面有个贴身的套，电线外面也有包着它的层，这种贴合外套就是 sheath 的画面。衣服若紧贴身体、线条简洁，也会借这个形象。",
+    "split": "承古英语 sceath 等鞘、套词，经中古英语 shethe 延续。更远可能联系劈开等材料，但具体意象仍是词源分析；现代先按完整套、外层名词记。",
+    "history": [
+      [
+        "古英语鞘词 → 中古英语 shethe → sheath",
+        "贴合刀刃的容器、外套"
+      ],
+      [
+        "刀鞘 → 相似管状包层；衣服的贴身轮廓",
+        "现代可用于技术外套或 sheath dress 服装名称"
+      ]
+    ],
+    "explanation": "a leather sheath 是皮鞘；a protective sheath 是保护套；a sheath dress 是线条贴身的直筒裙。",
+    "usage": "a leather sheath；a protective sheath；a sheath dress。",
+    "contrast": "sheath 是名词，末尾 /θ/；sheathe 是动词，末尾 /ð/。词尾多出的 e 不单独读，却帮助区分这两个词。",
+    "examples": [
+      [
+        "The display included a sword and its leather sheath.",
+        "展品中有一把剑及其皮鞘。"
+      ],
+      [
+        "A protective sheath covered the cable.",
+        "电缆外包着一层保护套。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheath#English",
+      "https://www.etymonline.com/word/sheath"
+    ]
+  },
+  {
+    "word": "sheathe",
+    "ipa": "英、美 /ʃiːð/",
+    "meaning": "把刀剑收入鞘中；包覆、套住",
+    "sense": "把刀刃送回贴合它的套里，是 sheathe。再扩展一步，用外层把东西包起来，也可以用这个动词。",
+    "split": "与 sheath 鞘的旧词族相连，历史可能承旧英语动词，也可能在中古英语由名词构成。现代直接对应 sheath 名词、sheathe 动词，th 常由 /θ/ 变 /ð/。",
+    "history": [
+      [
+        "古英语鞘词及相关动词 → 中古英语 shethen",
+        "具体继承或名词构词路线有不同分析"
+      ],
+      [
+        "sheathe 收入鞘 → 一般包覆、套住",
+        "现代词尾 e 不发音，动词末尾是浊辅音 /ð/"
+      ]
+    ],
+    "explanation": "sheathe a sword 是把剑收入鞘；sheathe something in a covering 是给东西包一层外套；unsheathe 是抽出鞘。",
+    "usage": "sheathe a sword；sheathe in；unsheathe。",
+    "contrast": "sheathe 是动作，sheath 是鞘、套。日常收回普通物品不一概用 sheathe，通常要有入鞘或包覆的画面。",
+    "examples": [
+      [
+        "The actor paused to sheathe his sword.",
+        "演员停下来，把剑收入鞘中。"
+      ],
+      [
+        "The workers sheathe the pipes in a protective covering.",
+        "工人们给管道包上保护层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheathe#English",
+      "https://www.etymonline.com/word/sheath",
+      "https://en.wiktionary.org/wiki/sheathe#English"
+    ]
+  },
+  {
+    "word": "sheathing",
+    "ipa": "英、美 /ˈʃiːðɪŋ/",
+    "meaning": "包覆、加套；护层、外包材料",
+    "sense": "东西外面包着的一层护材，可以叫 sheathing。这里不只是说正在包，也能直接给那层材料命名。",
+    "split": "sheathe 去词末不发音 e，加完整 -ing → sheathing，保留动词的 /ð/。从包覆动作形成相关过程、包覆材料的名词用法。",
+    "history": [
+      [
+        "sheath 鞘、套 ↔ sheathe 包覆",
+        "名词与动词的 /θ/、/ð/ 对应要分开"
+      ],
+      [
+        "sheathe 去 e + -ing → sheathing",
+        "既可说过程，也可说起包覆作用的材料"
+      ]
+    ],
+    "explanation": "protective sheathing 是保护包层；plastic sheathing 是塑料护层；the sheathing around a cable 是电缆外的包层。",
+    "usage": "protective sheathing；plastic sheathing；the outer sheathing。",
+    "contrast": "sheathing 的名词用法不必逐字译成正在入鞘。技术说明里看到它，先判断是谈覆盖动作，还是已经在外面的那层材料。",
+    "examples": [
+      [
+        "The cable had a thick layer of plastic sheathing.",
+        "电缆外有一层厚塑料护层。"
+      ],
+      [
+        "The diagram labels the outer sheathing separately.",
+        "图中把外包层单独标了出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheathing#English",
+      "https://www.etymonline.com/word/sheath",
+      "https://en.wiktionary.org/wiki/sheathing#English"
+    ]
+  },
+  {
+    "word": "shroud",
+    "ipa": "英、美 /ʃraʊd/",
+    "meaning": "裹尸布；笼罩物；遮住、笼罩",
+    "sense": "一层布把东西包住、遮住，是 shroud 的老画面。名词常指裹尸布；雾把山谷遮住，也像给它披了一层罩布。",
+    "split": "名词承古英语 scrud 衣物、遮蔽物，动词也有古英语相关穿衣、覆盖形式的背景。后来专指裹尸布，并保留遮蔽、隐藏的广义和比喻。",
+    "history": [
+      [
+        "古英语衣物、穿衣词族 → shroud 名词、动词",
+        "早期范围不只丧葬，也说衣物、遮盖"
+      ],
+      [
+        "衣物、覆盖 → 裹尸布；遮住视线、真相",
+        "现代从布的覆盖感走向雾、疑团的笼罩"
+      ]
+    ],
+    "explanation": "a burial shroud 是裹尸布；a shroud of mist 是一层笼罩的雾；shroud something in mystery 是使事情充满疑团。",
+    "usage": "a burial shroud；a shroud of mist；shroud in mystery。",
+    "contrast": "cover 比较宽，shroud 常带遮得看不清、添上神秘或阴沉气氛的感觉。实体名词用于裹尸布时则按具体物件理解。",
+    "examples": [
+      [
+        "The display included a fragment of a burial shroud.",
+        "展品中有一片裹尸布残片。"
+      ],
+      [
+        "A shroud of mist covered the valley.",
+        "一层雾笼罩着山谷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shroud#English",
+      "https://www.etymonline.com/word/shroud"
+    ]
+  },
+  {
+    "word": "shrouded",
+    "ipa": "英、美 /ˈʃraʊdɪd/",
+    "meaning": "被笼罩、遮住的；充满疑团的",
+    "sense": "山被雾包着，看不清；往事被秘密包着，也看不清。两种情形都可以用 shrouded in 来表达。",
+    "split": "shroud + 完整 -ed → shrouded，/d/ 后 -ed 读 /ɪd/，多出一个音节。旧穿衣、遮盖词族的动词，在这里形成过去形式、状态修饰语。",
+    "history": [
+      [
+        "古英语衣物、覆盖词族 → shroud 遮住、笼罩",
+        "实体遮蔽与抽象隐藏形成并行用法"
+      ],
+      [
+        "shroud + -ed → shrouded",
+        "常接 in，说明被什么包住、笼罩"
+      ]
+    ],
+    "explanation": "shrouded in mist 是笼在雾中；shrouded in secrecy 是被保密笼罩；shrouded in mystery 是充满疑团。",
+    "usage": "shrouded in mist；shrouded in secrecy；shrouded in mystery。",
+    "contrast": "shrouded in mystery 是信息不清、疑团重重，不一定真有布罩着。结尾不是只读 /d/，要保留 /ɪd/ 这一节。",
+    "examples": [
+      [
+        "The mountain was shrouded in cloud.",
+        "山峰笼罩在云中。"
+      ],
+      [
+        "The origins of the old custom remain shrouded in mystery.",
+        "这个古老习俗的起源仍笼罩着重重疑团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shrouded#English",
+      "https://www.etymonline.com/word/shroud"
+    ]
+  },
+  {
+    "word": "dangle",
+    "ipa": "英、美 /ˈdæŋɡəl/",
+    "meaning": "悬垂、晃荡；把东西吊着晃；拿好处引诱",
+    "sense": "钥匙挂在手指上来回晃，是 dangle。把一个好处悬在人面前，让对方心动，也能借这个悬着晃的画面。",
+    "split": "通常联系北欧语表示摆动、松松悬着的词，如丹麦语 dangle、瑞典语 dangla；具体传入路线有不确定。英语整体借入后发展出相应比喻。",
+    "history": [
+      [
+        "北欧语悬摆相关材料 → 英语 dangle",
+        "近似来源较清楚，具体中间路线有不同分析"
+      ],
+      [
+        "松松悬着、晃动 → 把好处摆在面前引诱",
+        "动作的可见形态用于抽象诱因"
+      ]
+    ],
+    "explanation": "dangle from a branch 是从树枝上垂着；dangle keys 是把钥匙悬着晃；dangle a reward 是拿奖励作诱因。",
+    "usage": "dangle from；dangle in front of；dangle a reward。",
+    "contrast": "hang 可以只是挂着，dangle 更突出松松悬垂、可能晃动。引诱义里，给出的好处也可能只是承诺，未必已经兑现。",
+    "examples": [
+      [
+        "A few loose threads dangle from the sleeve.",
+        "几根松线头从袖口垂下来。"
+      ],
+      [
+        "The manager tried to dangle a promotion in front of her.",
+        "经理试图拿升职的承诺来吸引她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dangle#English",
+      "https://www.etymonline.com/word/dangle"
+    ]
+  },
+  {
+    "word": "dangling",
+    "ipa": "英、美 /ˈdæŋɡlɪŋ/",
+    "meaning": "悬垂、晃荡的；悬着未解决的",
+    "sense": "耳饰、线头、双腿松松垂着，可以叫 dangling。事情被留在那里，没有得到处理，也像悬着没落地。",
+    "split": "dangle 去末尾不发音 e，加完整 -ing → dangling。它可描述悬摆动作、相应外观，也用于被留着、没得到解决的状态。",
+    "history": [
+      [
+        "北欧语相关悬摆词 → dangle",
+        "松松挂着、能来回晃是核心动作"
+      ],
+      [
+        "dangle 去 e + -ing → dangling",
+        "动作形式与状态修饰；抽象说事情悬而未决"
+      ]
+    ],
+    "explanation": "dangling earrings 是垂坠耳饰；dangling wires 是垂着的电线；leave a question dangling 是把问题悬在那里不回答。",
+    "usage": "dangling earrings；dangling threads；leave the question dangling。",
+    "contrast": "dangling 不只说垂直向下，还常有松悬、晃动或未接妥的感觉。抽象用法里的悬着，重点在事情没有了结。",
+    "examples": [
+      [
+        "She wore long, dangling earrings.",
+        "她戴着长长的垂坠耳饰。"
+      ],
+      [
+        "The interview left several important questions dangling.",
+        "采访留下几个重要问题，没有得到回答。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dangling#English",
+      "https://www.etymonline.com/word/dangle"
+    ]
+  },
+  {
+    "word": "dainty",
+    "ipa": "英、美 /ˈdeɪnti/",
+    "meaning": "小巧精致的；秀气、精细的",
+    "sense": "小小的瓷杯、做得精巧的一口点心，轻巧而讲究，可以叫 dainty。它不只是尺寸小，还带细致、漂亮的感觉。",
+    "split": "经法语 deintie 等价值、珍品相关词，接拉丁 dignitas 价值、尊贵，与 dignity 同源。英语由珍贵、上好的东西，发展到精巧、细致的外观评价。",
+    "history": [
+      [
+        "拉丁 dignitas 价值、尊贵 → 法语 deintie → 英语早期 dainty",
+        "先有珍品、精美食物等名词及令人喜欢的评价"
+      ],
+      [
+        "上好的、精美的 → 小巧精致、动作细巧",
+        "现代不能说成英语 dignity 换拼后加 -y"
+      ]
+    ],
+    "explanation": "dainty cups 是小巧精致的杯子；dainty sandwiches 是精巧小三明治；dainty steps 是轻巧秀气的步子。",
+    "usage": "dainty cups；dainty sandwiches；dainty steps。",
+    "contrast": "small 只说小，dainty 通常还说精致、轻巧。它与 dignity 的联系属于历史借词路线，现代含义已经分开。",
+    "examples": [
+      [
+        "Tea was served in dainty porcelain cups.",
+        "茶用小巧精致的瓷杯端上来。"
+      ],
+      [
+        "She arranged the dainty sandwiches on a plate.",
+        "她把精巧的小三明治摆在盘子上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dainty#English",
+      "https://www.etymonline.com/word/dainty"
+    ]
+  },
+  {
+    "word": "gaudy",
+    "ipa": "英、美 /ˈɡɔːdi/",
+    "meaning": "俗艳的；花哨得缺少品味的",
+    "sense": "亮金、艳红、闪片全堆在一起，夺目到有些俗气，可以叫 gaudy。重点不是鲜亮本身，而是说话者嫌它过分、缺少品味。",
+    "split": "常联系 gaud 装饰、小饰物与 -y 的重新构形，较早喜庆义又接法语、拉丁喜悦材料；也有染料颜色词影响等分析。历史有多种可能，不只列一条确定的远源。",
+    "history": [
+      [
+        "早期装饰、喜庆词，或染料颜色词的影响 → gaudy",
+        "相关分析各有依据，不能把一个故事当成唯一确定来源"
+      ],
+      [
+        "喜庆、鲜亮、显眼 → 俗艳、花哨过头",
+        "现代形容词通常带负面审美评价"
+      ]
+    ],
+    "explanation": "gaudy jewellery 是俗艳首饰；gaudy colours 是花哨颜色；a gaudy sign 是过于艳丽显眼的招牌。",
+    "usage": "gaudy jewellery；gaudy colours；a gaudy display。",
+    "contrast": "colourful 可以是中性、正面的色彩丰富；gaudy 常嫌配色、装饰太扎眼。bright 也只说鲜亮，不自动包含俗气。",
+    "examples": [
+      [
+        "The shop window was crowded with gaudy jewellery.",
+        "橱窗里挤满了花哨俗艳的首饰。"
+      ],
+      [
+        "He replaced the gaudy sign with a simpler design.",
+        "他把那块过分花哨的招牌换成了更简洁的设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gaudy#English",
+      "https://www.etymonline.com/word/gaudy"
+    ]
+  },
+  {
+    "word": "glib",
+    "ipa": "英、美 /ɡlɪb/",
+    "meaning": "说得轻巧却不认真、欠考虑的；油滑的",
+    "sense": "复杂问题刚问出口，对方就顺溜地给出漂亮答案，像根本没考虑困难，这样的话可以叫 glib。听感很顺，分量却不足。",
+    "split": "通常解释为较早 glibbery 滑的缩短，或接低地德语相关滑溜词。英语从表面滑顺，扩展到说话流利得让人觉得轻率、不可信。",
+    "history": [
+      [
+        "较早日耳曼滑溜词、英语 glibbery 等 → glib",
+        "具体短形、借入路线有可能性分析"
+      ],
+      [
+        "光滑、滑溜 → 言语说得太顺、轻率敷衍",
+        "顺口不等于经过认真思考"
+      ]
+    ],
+    "explanation": "a glib answer 是轻巧敷衍的回答；a glib promise 是说得好听却欠分量的承诺；a glib explanation 是把复杂事轻率说简单。",
+    "usage": "a glib answer；a glib promise；a glib explanation。",
+    "contrast": "fluent 是流利，可以是褒义；glib 常是批评，嫌话太顺而没有深思。它不单凭语速判断，也不自动等于已经证实说谎。",
+    "examples": [
+      [
+        "She rejected his glib explanation of the failure.",
+        "她不接受他对失败那番轻巧敷衍的解释。"
+      ],
+      [
+        "There are no glib answers to such a complicated problem.",
+        "如此复杂的问题，没有轻轻巧巧就能给出的答案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glib#English",
+      "https://www.etymonline.com/word/glib"
+    ]
+  },
+  {
+    "word": "glibly",
+    "ipa": "英、美 /ˈɡlɪbli/",
+    "meaning": "轻率地、油滑地；说得轻巧却欠考虑地",
+    "sense": "别人认真提困难，对方笑着一句“很容易”就带过，可以说他回答得 glibly。副词把那种过分顺溜、欠思考的方式标出来。",
+    "split": "glib + 完整 -ly → glibly，词基保留。glib 的较早滑溜画面用于言语评价，再由 -ly 表达说话、回应的方式。",
+    "history": [
+      [
+        "较早滑溜词 → glib 轻率、油滑的",
+        "现代评价话语流畅却分量不够"
+      ],
+      [
+        "glib + -ly → glibly",
+        "副词说明一个人怎样解释、承诺、回答"
+      ]
+    ],
+    "explanation": "reply glibly 是轻率敷衍地回应；promise glibly 是轻易许诺；talk glibly about difficulties 是把困难说得太轻巧。",
+    "usage": "reply glibly；promise glibly；talk glibly about。",
+    "contrast": "a glib answer 用形容词，answer glibly 用副词。confidently 只是自信地，glibly 常多一层说话者不认可的轻率。",
+    "examples": [
+      [
+        "He glibly promised that everything would be finished by Friday.",
+        "他轻巧地承诺，所有事情周五前都能完成。"
+      ],
+      [
+        "She did not want to speak glibly about someone else’s difficulties.",
+        "她不想把别人的困难说得轻描淡写。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glibly#English",
+      "https://www.etymonline.com/word/glib",
+      "https://en.wiktionary.org/wiki/glibly#English"
+    ]
+  }
+]

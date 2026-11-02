@@ -1,0 +1,240 @@
+[
+  {
+    "id": "A2139",
+    "meaning": "状态、性质；有时指相应人群、范围",
+    "core": "ENCY：从某种性质、角色转到状态或群体",
+    "image": "latent 是潜伏、未显现，latency 可以说那种状态，也可说等到系统响应的延迟；constituent 是组成者、选民，constituency 可说选民群体、选区。",
+    "intro": "-ency 远接拉丁 -entia 等名词材料，许多词经法语或学术传入，也在英语中形成新词。和 -ent 的对应有帮助，但不能看见 -ency 就以为总是某个人的职业。",
+    "forms": "latent ↔ latency；constituent ↔ constituency；consistent ↔ consistency；proficient ↔ proficiency。实际词有借入、后续派生等不同路径，换词尾是现代识形对应。",
+    "branches": [
+      [
+        "未显现与延迟",
+        "latent · latency"
+      ],
+      [
+        "组成、代表与范围",
+        "constituent · constituency"
+      ],
+      [
+        "性质和程度",
+        "consistency · proficiency · resiliency"
+      ],
+      [
+        "紧急、居住与其他状态",
+        "emergency · urgency · residency · dependency · regency · despondency"
+      ]
+    ],
+    "contrasts": "latency 等多久，bandwidth 能传多少；constituency 不一定只指地图范围；consistency、proficiency 等是性质名词，不能按人来翻译。",
+    "practice": "The engineer found a latent problem that was increasing latency.\n\n工程师找到了一个尚未显露、却在增加延迟的问题。",
+    "words": [
+      "latent",
+      "latency",
+      "constituent",
+      "constituency",
+      "consistency",
+      "proficiency",
+      "resiliency",
+      "emergency",
+      "urgency",
+      "residency",
+      "dependency",
+      "regency",
+      "despondency"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2367",
+    "meaning": "性质、状态、身份；相应抽象关系",
+    "core": "ACY：把一种评价、身份或特点作为一件事来讲",
+    "image": "adequate 够用，adequacy 就问够不够；intricate 细节交织，intricacy 则把复杂精细本身或那些细节拿出来说。",
+    "intro": "常见 -acy 来自拉丁 -acia、-atia 等历史材料，也可与 -ate 词干加 -cy 的关系对应。已有借词和英语派生并存，不能把所有 a-c-y 字母都说成同一个现代拼接动作。",
+    "forms": "adequate ↔ adequacy；degenerate ↔ degeneracy；intricate ↔ intricacy；private ↔ privacy；legitimate ↔ legitimacy。许多词换掉形容词尾，不能完整写成 adequateacy。",
+    "branches": [
+      [
+        "够用与复杂程度",
+        "adequate · adequacy；intricate · intricacy"
+      ],
+      [
+        "退化与学科状态",
+        "degenerate · degeneracy"
+      ],
+      [
+        "日常性质和能力",
+        "privacy · literacy · efficacy · intimacy · delicacy"
+      ],
+      [
+        "身份、关系及其他固定词",
+        "legitimacy · candidacy · supremacy · primacy · immediacy · surrogacy · conspiracy · fallacy · lunacy · profligacy"
+      ]
+    ],
+    "contrasts": "adequacy 不等于 excellence；intricacy 可欣赏也可觉得难；degeneracy 的物理、数学义不能按道德堕落理解；有相同尾巴不保证词性转换完全统一。",
+    "practice": "The team checked the adequacy of the plan and discussed its intricacies.\n\n团队检查了计划是否够用，并讨论了其中复杂的细节。",
+    "words": [
+      "adequate",
+      "adequacy",
+      "intricate",
+      "intricacy",
+      "degenerate",
+      "degeneracy",
+      "private",
+      "privacy",
+      "literacy",
+      "efficacy",
+      "intimacy",
+      "delicacy",
+      "legitimacy",
+      "candidacy",
+      "supremacy",
+      "primacy",
+      "immediacy",
+      "surrogacy",
+      "conspiracy",
+      "fallacy",
+      "lunacy",
+      "profligacy"
+    ],
+    "exclude": {
+      "episcopacy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1845",
+    "meaning": "身份、状态、人生阶段；群体及其范围",
+    "core": "HOOD：把一个人、关系或性质展开成状态、阶段或共同体",
+    "image": "parent 是父母中的一人，parenthood 是为人父母的状态；neighbor 是邻居，neighborhood 是邻里一带。",
+    "intro": "-hood 来自古英语 -hād，早期是身份、地位、状态等材料。它与现代 hood 兜帽不是同一个后缀来源，不能拿一个罩子把所有词硬串起来。",
+    "forms": "nation + -hood → nationhood；saint + -hood → sainthood；parent + -hood → parenthood；neighbor／neighbour + -hood → neighborhood／neighbourhood。neighborhood 还有较早相应词尾变换的历史。\n\n美式 neighbor 对英式 neighbour，共接古英语 neahgebur 的近、居住者材料；与 neighborhood 配对。\n\nhood 是相邻关系、集合范围的词尾，较早邻里词形有后缀更换历史；现代复数 s。\n\n古英语近加居住者的构词，现代美式常无 u、英式常有 u。",
+    "branches": [
+      [
+        "邻里与相邻范围",
+        "neighbor · neighbour · neighborhood · neighbourhood"
+      ],
+      [
+        "人生阶段与家庭角色",
+        "adulthood · boyhood · girlhood · parenthood · motherhood · fatherhood · widowhood"
+      ],
+      [
+        "共同身份、组织和地位",
+        "nationhood · statehood · brotherhood · sisterhood · priesthood · knighthood · sainthood"
+      ],
+      [
+        "性质及其他抽象状态",
+        "likelihood · falsehood · manhood · womanhood · personhood · victimhood"
+      ],
+      [
+        "neighbor → neighbors：住在近处的人",
+        "neighbor · neighbors · neighborhood"
+      ],
+      [
+        "neighbor → neighborhood → neighborhoods：邻居与一片片街区",
+        "neighbor · neighborhood · neighborhoods"
+      ],
+      [
+        "neighbor、neighbour → 相邻的两套 ing 拼写",
+        "neighbor · neighboring · neighbour · neighbouring"
+      ]
+    ],
+    "contrasts": "neighborhood 不指一个邻居；nationhood 与 statehood 语境有交叠但侧重点不同；likelihood 是可能性，不是喜欢的某种帽子。",
+    "practice": "Parenthood changed how they thought about the neighborhood and its schools.\n\n为人父母后，他们重新看待住的街区和附近学校。",
+    "words": [
+      "neighbor",
+      "neighbour",
+      "neighborhood",
+      "neighbourhood",
+      "adulthood",
+      "boyhood",
+      "girlhood",
+      "parenthood",
+      "motherhood",
+      "fatherhood",
+      "widowhood",
+      "nationhood",
+      "statehood",
+      "brotherhood",
+      "sisterhood",
+      "priesthood",
+      "knighthood",
+      "saint",
+      "sainthood",
+      "likelihood",
+      "falsehood",
+      "manhood",
+      "womanhood",
+      "personhood",
+      "victimhood",
+      "neighbors",
+      "neighborhoods",
+      "neighboring",
+      "neighbouring"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2067",
+    "meaning": "学科、技术、活动；某些词还有表现或事项集合义",
+    "core": "ICS：常把相关知识、活动组成一个领域名",
+    "image": "mathematics 数学、optics 光学是学科；heroics、theatrics 有时却在说夸张举动，不能把所有 -ics 都翻成某某学。",
+    "intro": "-ics 与 -ic 的相关性质材料以及希腊、拉丁的复数用法传统有关，进入英语后常用来命名学科和技术。表面有 s，作学科主语却常按单数处理。",
+    "forms": "mathematics、electronics、linguistics 等有各自借入或命名史；photovoltaic → photovoltaics 是相关技术名。math／maths 是 mathematics 的缩略，不是更早的拉丁词根；mathematical 的形容词路线也要单独看。",
+    "branches": [
+      [
+        "完整学科名与日常缩略",
+        "mathematics · math · maths · mathematical"
+      ],
+      [
+        "电子、光及相关技术",
+        "electronics · optics · photonics · photovoltaic · photovoltaics"
+      ],
+      [
+        "语言、数据和生命领域",
+        "linguistics · phonics · informatics · genomics · diagnostics"
+      ],
+      [
+        "运动、表演与其他已有常用词",
+        "athletics · gymnastics · acrobatics · heroics · theatrics · aesthetics · ceramics · dynamics · robotics · hydraulics · ballistics · pyrotechnics · systematics · kinematics · calisthenics · orthodontics · histrionics · atmospherics"
+      ]
+    ],
+    "contrasts": "Mathematics is ... 常用单数；statistics 等词需看学科还是具体统计数据；photovoltaic 形容词与 photovoltaics 领域名分开；aftermath 的旧 math 不属于数学这个来源。",
+    "practice": "Her interest in mathematics led her to study optics and photovoltaics.\n\n她对数学的兴趣让她进一步学习光学和光伏技术。",
+    "words": [
+      "mathematics",
+      "math",
+      "maths",
+      "mathematical",
+      "electronics",
+      "optics",
+      "photonics",
+      "photovoltaic",
+      "photovoltaics",
+      "linguistics",
+      "phonics",
+      "informatics",
+      "genomics",
+      "diagnostics",
+      "athletics",
+      "gymnastics",
+      "acrobatics",
+      "heroics",
+      "theatrics",
+      "aesthetics",
+      "ceramics",
+      "dynamics",
+      "robotics",
+      "hydraulics",
+      "ballistics",
+      "pyrotechnics",
+      "systematics",
+      "kinematics",
+      "calisthenics",
+      "orthodontics",
+      "histrionics",
+      "atmospherics"
+    ],
+    "exclude": {
+      "apologetics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "magnetics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cryogenics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

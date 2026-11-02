@@ -1,0 +1,589 @@
+[
+  {
+    "id": "A2308",
+    "meaning": "纤维、纤维组织",
+    "core": "FIBRO-：把结构、细胞和病变联系到纤维组织",
+    "image": "fibroblast 是成纤维细胞，fibrosis 是纤维化，fibroid 是纤维样组织相关名称。说的是身体组织，不是吃了多少膳食纤维。",
+    "intro": "接拉丁 fibra 纤维，近代医学采用 fibro- 与生长细胞、状态、相似性质等材料组合。",
+    "forms": "fibro- + -blast → fibroblast；fibro- + -osis → fibrosis；fibro- + -oid → fibroid。",
+    "branches": [
+      [
+        "相关细胞",
+        "fibroblast"
+      ],
+      [
+        "组织变化及固定名词",
+        "fibrosis · fibroid"
+      ]
+    ],
+    "contrasts": "fibroid 作名词常来自纤维瘤等完整表达，医学所指要看具体对象；不能仅凭像纤维就给任何结构同一病名。",
+    "practice": "The lesson compares fibroblasts with fibrous tissue.\n\n这节课对照了成纤维细胞与纤维组织。",
+    "words": [
+      "fibroblast",
+      "fibrosis",
+      "fibroid"
+    ],
+    "exclude": {
+      "fibromyalgia": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2363",
+    "meaning": "发情相关的旧命名材料",
+    "core": "ESTRO-：从早期作用研究，记住雌激素名称的来路",
+    "image": "estrogen 是雌激素类别名；早期命名抓了诱发发情的研究角度，现代生物作用远比名字里的这一点宽。",
+    "intro": "estrus 发情相关词族接希腊 oistros 等旧材料，近代加 -gen 产生、促成者形成 estrogen；英式也常见 oestrogen 拼写。",
+    "forms": "estr-／estro- + -gen → estrogen；英式常见 oestrogen 拼法；-gen 在这里给出早期促成作用的命名线索。",
+    "branches": [
+      [
+        "雌激素类别名称",
+        "estrogen"
+      ]
+    ],
+    "contrasts": "名称的女性、发情相关历史，不表示这类激素只存在于女性；词名只给早期命名线索。",
+    "practice": "The article discusses the biological roles of estrogen.\n\n文章讨论了雌激素的生物学作用。",
+    "words": [
+      "estrogen"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1821",
+    "meaning": "切除",
+    "core": "-ECTOMY：把某个器官或组织切除的手术名称",
+    "image": "appendectomy 是阑尾切除，tonsillectomy 是扁桃体切除；前半指出对象，后半把切除这个手术关系说清。",
+    "intro": "希腊 ektome 切除，来自 ek 出与 temnein 切；近代医学借作手术命名后部。",
+    "forms": "append- 阑尾 + -ectomy → appendectomy；tonsill- 扁桃体 + -ectomy → tonsillectomy；hyster- 子宫、vas- 管道分别进入另两词。",
+    "branches": [
+      [
+        "常见切除名称",
+        "appendectomy · tonsillectomy · hysterectomy · vasectomy"
+      ]
+    ],
+    "contrasts": "vasectomy 的固定含义是输精管切除、结扎相关手术，不是任何管道切除的通称；-ectomy 与造口 -stomy 分开。",
+    "practice": "The booklet explains the word appendectomy.\n\n小册子解释了阑尾切除术这个词。",
+    "words": [
+      "appendectomy",
+      "tonsillectomy",
+      "hysterectomy",
+      "vasectomy"
+    ],
+    "exclude": {
+      "mastectomy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "prostatectomy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gastrectomy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2015",
+    "meaning": "全部、完整",
+    "core": "HOLO-：整体性的旧材料，具体完整到哪一层看命名",
+    "image": "hologram 的记录思路关注波前信息；holotype 却是命名规则中的正模标本。完整这条线索不能取代两者的专门含义。",
+    "intro": "来自希腊 holos 全部、完整；近代光学、生物分类等领域各自采用，形成新的科学名称。",
+    "forms": "holo- + -gram → hologram；holo- + type → holotype。后部记录、模式等关系把词带入不同领域。",
+    "branches": [
+      [
+        "光学记录",
+        "hologram"
+      ],
+      [
+        "生物命名的模式标本",
+        "holotype"
+      ]
+    ],
+    "contrasts": "holotype 的正模地位由命名规则决定，不保证标本身体每部分完整；hologram 也不记录物体的一切属性。",
+    "practice": "The label identifies the specimen as the holotype.\n\n标签注明该标本是正模标本。",
+    "words": [
+      "hologram",
+      "holotype"
+    ],
+    "exclude": {
+      "holodeck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "holomorphic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1998",
+    "meaning": "观看、检查",
+    "core": "-OPSY：用观察来形成检查名称",
+    "image": "biopsy 把活体、组织检查关系放到一起；autopsy 的旧字面是亲自察看，现代常指尸检。",
+    "intro": "来自希腊 opsis、-opsia 观看，经医学拉丁等途径进入近代术语；各完整词在不同时期固定专门意义。",
+    "forms": "bio- 生命 + -opsy → biopsy；auto- 亲自 + 观看材料 → autopsy。后一个 auto- 说亲自观察，不是自己给自己检查身体。",
+    "branches": [
+      [
+        "活体组织检查",
+        "biopsy"
+      ],
+      [
+        "现代尸检名称",
+        "autopsy"
+      ]
+    ],
+    "contrasts": "autopsy 的尸检义是后来的具体化，不能给 auto- 添一个死的词义；biopsy 也不只是泛泛看一眼活人。",
+    "practice": "The glossary compares biopsy with autopsy.\n\n词汇表对照了活检与尸检。",
+    "words": [
+      "biopsy",
+      "autopsy"
+    ],
+    "exclude": {
+      "necropsy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1883",
+    "meaning": "松解、分解",
+    "core": "-LYSIS：某种作用让原来的结合分开",
+    "image": "水参与分解是 hydrolysis，电作用相关分解是 electrolysis，热分解是 pyrolysis，细胞分解葡萄糖的过程是 glycolysis。",
+    "intro": "来自希腊 lysis 松开、解开，进入近代化学、生物术语，形成不同分解过程名称。",
+    "forms": "hydro- 水、electro- 电、pyro- 火热、glyco- 糖 + -lysis，分别给分解的作用关系、对象。",
+    "branches": [
+      [
+        "水、电、热相关过程",
+        "hydrolysis · electrolysis · pyrolysis"
+      ],
+      [
+        "生化过程",
+        "glycolysis"
+      ]
+    ],
+    "contrasts": "分解关系不等于把固体溶进水；glycolysis 是化学反应过程，hydrolysis 也要看水参与怎样的反应。",
+    "practice": "The chapter compares hydrolysis with electrolysis.\n\n这一章比较了水解与电解。",
+    "words": [
+      "hydrolysis",
+      "electrolysis",
+      "pyrolysis",
+      "glycolysis"
+    ],
+    "exclude": {
+      "hemolysis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proteolysis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2118",
+    "meaning": "显现；相关旧化学命名材料",
+    "core": "PHENO-：有的词说显现，有的经过旧化学名称再变化",
+    "image": "phenotype 是表现型，phenology 研究季节性生命现象；phenyl 则是苯基的化学名，不能直接按显出来的样子猜。",
+    "intro": "联系希腊 phainein 显现、发光等词族；近代遗传学、物候学分别采用，旧化学命名又有发光相关的历史路径。",
+    "forms": "pheno- + type → phenotype；pheno- + -logy → phenology；phen- 经旧化学名称 + -yl → phenyl。",
+    "branches": [
+      [
+        "可观察表现、季节现象",
+        "phenotype · phenology"
+      ],
+      [
+        "化学基团名称",
+        "phenyl"
+      ]
+    ],
+    "contrasts": "phenotype 的表现型不是性格类型；phenyl 是固定化学基团名。共同远源不能把各完整词并成一个日常意思。",
+    "practice": "The study relates plant phenology to visible changes in the plants.\n\n这项研究把植物物候与植物可观察的变化联系起来。",
+    "words": [
+      "phenotype",
+      "phenology",
+      "phenyl"
+    ],
+    "exclude": {
+      "phenobarbital": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2285",
+    "meaning": "位置",
+    "core": "-TOPE：从同一位置理解同位素名称",
+    "image": "isotope 字面联系同一位置：同一种元素的不同同位素，仍落在元素周期表同一个元素位置上。",
+    "intro": "来自希腊 topos 地方、位置；isotope 由 iso- 相同与位置材料构成近代科学名称。",
+    "forms": "iso- 同 + -tope 位 → isotope；命名时抓住的是元素位置相同这一关系，不是说两块物质摆在同一张桌子。",
+    "branches": [
+      [
+        "同位素名称",
+        "isotope"
+      ]
+    ],
+    "contrasts": "位置是命名线索；现代同位素的定义还包含核结构关系，不能把所有摆在一起的原子都称同位素。",
+    "practice": "The book compares different isotopes of carbon.\n\n这本书比较了碳的不同同位素。",
+    "words": [
+      "isotope"
+    ],
+    "exclude": {
+      "epitope": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1855",
+    "meaning": "通路；从电极名抽出的器件命名材料",
+    "core": "-ODE：电子器件里，前部常给出电极关系的数目",
+    "image": "diode 是二极管，triode 是三极管；名称的二、三关系来自器件命名传统，不是在数几条普通马路。",
+    "intro": "远连希腊 hodos 路、通道。近代从 electrode 等术语抽出 -ode，再用于 diode、triode 等器件名称。",
+    "forms": "di- 二 + -ode → diode；tri- 三 + -ode → triode。希腊旧 díodos 通路的 dia- 穿过，与现代 diode 的二这条分析要分清。",
+    "branches": [
+      [
+        "电子器件名称",
+        "diode · triode"
+      ]
+    ],
+    "contrasts": "ergodic 的更早词源有路径、形态等不同分析，本页不把它硬当同一电子器件后缀的派生。",
+    "practice": "The lesson compares a diode with a triode.\n\n这节课比较了二极管与三极管。",
+    "words": [
+      "diode",
+      "triode"
+    ],
+    "exclude": {
+      "ergodic": "词源有不同分析，不按从 electrode 抽出的电子器件 -ode 后部来分组。"
+    }
+  },
+  {
+    "id": "A1873",
+    "meaning": "形态、形式相关的形容词",
+    "core": "-MORPHIC：前面给关系，后面让你看形态",
+    "image": "anthropomorphic 是人形、人类特征的，dimorphic 说两种形态，polymorphic 说多形态；isomorphic 又有结构相同、对应的专门义。",
+    "intro": "希腊 morphe 形状、形态进入近代科学，配 -ic 等形容词材料。各学科把形态、结构关系进一步专门化。",
+    "forms": "anthropo- 人、di- 二、poly- 多、iso- 同、dys- 异常等 + morph- + -ic，给出不同形态关系。",
+    "branches": [
+      [
+        "人类特征、形态数量",
+        "anthropomorphic · dimorphic · polymorphic"
+      ],
+      [
+        "结构对应与形态异常",
+        "isomorphic · dysmorphic"
+      ]
+    ],
+    "contrasts": "数学、编程中的 isomorphic 不是只说外观像；polymorphic 在生物、材料、编程等场景也有不同技术含义。",
+    "practice": "The diagram compares dimorphic and polymorphic forms.\n\n图示比较了双形态与多形态。",
+    "words": [
+      "anthropomorphic",
+      "dimorphic",
+      "polymorphic",
+      "isomorphic",
+      "dysmorphic"
+    ],
+    "exclude": {
+      "holomorphic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2340",
+    "meaning": "松开、分解等旧材料的物质名后部",
+    "core": "-LYTE：认识电解质名称里的分解材料，再看现代离子意义",
+    "image": "electrolyte 在电池、溶液、身体液体等语境里常见；现代核心关系与离子和导电有关。",
+    "intro": "来自希腊 lutos 松开的、可分解的等，联系 luein 松开；近代与 electrolysis 同期的电化学命名形成 electrolyte。",
+    "forms": "electro- 电 + -lyte 旧分解物质材料 → electrolyte；词的现代类别解释比这个旧字面更精确。",
+    "branches": [
+      [
+        "电解质",
+        "electrolyte"
+      ]
+    ],
+    "contrasts": "不是所有溶进水里的物质都因此叫电解质；名称中的松解线索不能替代离子、导电的现代含义。",
+    "practice": "The diagram shows ions moving through the electrolyte.\n\n图示展示了离子穿过电解质的移动。",
+    "words": [
+      "electrolyte"
+    ],
+    "exclude": {
+      "analyte": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2193",
+    "meaning": "倍、重；多重关系的相关词形",
+    "core": "-PLE：在固定词里读出二、三、四或多",
+    "image": "double 两倍，triple 三倍，quadruple 四倍，multiple 多重或倍数；先认数量，再看具体语法作用。",
+    "intro": "多词经法语接拉丁 duplus、triplus、quadruplus 等倍、重材料；multiple 又接拉丁 multiplex，多路在现代拼写中形成相似末尾。",
+    "forms": "du-、tri-、quadru- 的数量材料分别进入 double、triple、quadruple；multi- 多与折、重材料形成 multiple。\n\n末尾已有 le，去 e 加 ed，不是另把整个 led 当后缀。\n\nle 保留，不变成 doubls。",
+    "branches": [
+      [
+        "固定倍数、重数词",
+        "double · triple · quadruple · multiple"
+      ],
+      [
+        "double → doubled：完整 ed 的拼写",
+        "double · doubled"
+      ],
+      [
+        "double → doubles：完整基词加 s",
+        "double · doubles"
+      ]
+    ],
+    "contrasts": "这一组是固定历史词形，不能自由给每个英语数字加 -ple；multiple 作名词时还可说某数的倍数。",
+    "practice": "The new capacity is triple the old capacity.\n\n新容量是原来容量的三倍。",
+    "words": [
+      "double",
+      "triple",
+      "quadruple",
+      "multiple",
+      "doubled",
+      "doubles"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1747",
+    "meaning": "人群、民族、群体文化",
+    "core": "ETHNO-：把群体怎样生活、理解世界放到前面",
+    "image": "ethnography 是民族志式细致描述，ethnographer 是研究者；ethnocentric 则把某种群体文化当中心，评价其他文化。",
+    "intro": "来自希腊 ethnos 人群、民族等，近代文化、社会研究采用 ethno-，与记录、学科、中心等后部结合。",
+    "forms": "ethno- + -graphy → ethnography → ethnographer；ethno- + -logy → ethnology；ethno- + centric → ethnocentric → ethnocentrism。",
+    "branches": [
+      [
+        "描述、研究与人物",
+        "ethnography · ethnographer · ethnology"
+      ],
+      [
+        "以自身文化为中心的性质、观念",
+        "ethnocentric · ethnocentrism"
+      ]
+    ],
+    "contrasts": "民族志研究可涉及城市、行业、组织群体，不只少数民族；ethnocentrism 则是评价方式，不等于研究民族本身。",
+    "practice": "The ethnographer questioned an ethnocentric interpretation of the custom.\n\n这位民族志研究者质疑了以本族文化为中心解释该习俗的做法。",
+    "words": [
+      "ethnography",
+      "ethnographer",
+      "ethnology",
+      "ethnocentric",
+      "ethnocentrism"
+    ],
+    "exclude": {
+      "ethno-neutral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1735",
+    "meaning": "死、死亡组织",
+    "core": "NECRO-：把对象联系到死亡、死者或坏死组织",
+    "image": "necrosis 是组织坏死，necropolis 的旧字面是死者之城，现代常指大型古墓地、墓群。后部决定谈组织还是场所。",
+    "intro": "来自希腊 nekros 死的、死者，进入医学与历史、考古名称，形成 necr-、necro- 等形式。",
+    "forms": "necr- + -osis 状态 → necrosis；necro- + polis 城 → necropolis。",
+    "branches": [
+      [
+        "组织状态",
+        "necrosis"
+      ],
+      [
+        "历史墓地名称",
+        "necropolis"
+      ]
+    ],
+    "contrasts": "necro- 是死亡关系，具体并不都说整个人去世；necrosis 可只涉及某处组织。",
+    "practice": "The archaeologists mapped the ancient necropolis.\n\n考古学家绘制了那片古代墓群的分布图。",
+    "words": [
+      "necrosis",
+      "necropolis"
+    ],
+    "exclude": {
+      "necro-bump": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "necrophilia": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "necropsy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1993",
+    "meaning": "管、容器；血管等",
+    "core": "ANGIO-：从容器、管道的旧材料，理解血管相关词",
+    "image": "angiography 是血管成像、造影这一过程，angiogram 常指得到的影像、记录；一个看怎么检查，一个看结果。",
+    "intro": "来自希腊 angeion 容器、管等，近代医学常专门指血管，也用于其他管状结构。后部给出记录过程与成品。",
+    "forms": "angio- + -graphy → angiography；angio- + -gram → angiogram。",
+    "branches": [
+      [
+        "成像检查过程",
+        "angiography"
+      ],
+      [
+        "影像、记录结果",
+        "angiogram"
+      ]
+    ],
+    "contrasts": "-graphy、-gram 的区分有助于阅读报告；并不是词尾换一下，检查过程就变成另一个器官。",
+    "practice": "The doctor reviewed the angiogram after the angiography.\n\n完成血管造影后，医生查看了造影影像。",
+    "words": [
+      "angiography",
+      "angiogram"
+    ],
+    "exclude": {
+      "angiogenesis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "angiotensin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "angioplasty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2091",
+    "meaning": "髓、内部软组织；骨髓和神经相关命名",
+    "core": "MYELO-：认清具体说哪一种髓的关系",
+    "image": "myeloma 与骨髓肿瘤有关，myelin 与神经纤维外的绝缘性覆盖物有关。两个髓的名称关系不能硬并成同一种组织。",
+    "intro": "希腊 myelos 髓、内部软质组织经近代科学拉丁化、德语等命名传播，发展出骨髓、脊髓或神经相关用法。",
+    "forms": "myel- + -oma → myeloma；myel- + 物质名 -in → 德语 Myelin → 英语 myelin。",
+    "branches": [
+      [
+        "骨髓相关名称",
+        "myeloma"
+      ],
+      [
+        "神经覆盖物相关名称",
+        "myelin"
+      ]
+    ],
+    "contrasts": "同一旧髓材料在不同现代名称里所指不同；学习时把骨髓和神经的上下文先区分开。",
+    "practice": "The textbook explains myelin’s role around nerve fibres.\n\n课本解释了神经纤维周围髓鞘物质的作用。",
+    "words": [
+      "myeloma",
+      "myelin"
+    ],
+    "exclude": {
+      "myeloid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2186",
+    "meaning": "承受某种状态的人；某类治疗从业者",
+    "core": "-PATH：病、感受材料进入不同人物名称",
+    "image": "sociopath 是一种人格、行为方面的称呼；osteopath 则是一个医疗职业名称。词尾相同，人物角色完全不同。",
+    "intro": "联系希腊 pathos 感受、苦痛、病等词族；现代 -path 人物名有从相应 -pathy 概念回推等形成方式。",
+    "forms": "socio- + -path → sociopath；osteopathy 的相关人物名 → osteopath。后者不是说这个人患上骨病。",
+    "branches": [
+      [
+        "人格、行为称呼",
+        "sociopath"
+      ],
+      [
+        "医疗人物名称",
+        "osteopath"
+      ]
+    ],
+    "contrasts": "不能把每个 -path 都翻成病人或治疗师；完整词的社会、职业意义需要分别记。",
+    "practice": "The article explains the professional title osteopath.\n\n文章解释了 osteopath 这个职业称谓。",
+    "words": [
+      "sociopath",
+      "osteopath"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2389",
+    "meaning": "数学名目、项的命名后部",
+    "core": "-NOMIAL：在固定数学词里，前面数有几项",
+    "image": "binomial 常说二项式，polynomial 常说多项式；这里后部帮助形成数学名称，不是一个日常独立单词。",
+    "intro": "binomial 的学术拉丁形式与 nomen 名称、名目相关，是主流词源分析之一；更早也有希腊 nomos 部分等分析。polynomial 参照这组模式构词。",
+    "forms": "bi- 二 + 学术名词材料 → binomial；poly- 多 + -nomial → polynomial。实际历史不宜简单全写成英语前缀加独立名词。",
+    "branches": [
+      [
+        "二项、多项式名称",
+        "binomial · polynomial"
+      ]
+    ],
+    "contrasts": "这里的项与学术名称背景要看数学语境；不能因为相近字母就直接并入 nomos 法则的另一词族。",
+    "practice": "The exercise compares a binomial with a polynomial containing more terms.\n\n这道练习把一个二项式与项数更多的多项式作了比较。",
+    "words": [
+      "binomial",
+      "polynomial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2273",
+    "meaning": "氧相关的化学名称材料",
+    "core": "-OXY：在 epoxy 里联系环氧结构和相应材料",
+    "image": "日常 epoxy 常是环氧树脂、环氧胶；词尾氧的线索来自化学命名，完整词后来又成为材料、胶类名称。",
+    "intro": "从 oxygen 氧的相关词基抽取 -oxy，进入 epoxy、epoxide 等近代化学名称。具体材料用法由结构名称继续扩展。",
+    "forms": "ep- + -oxy → epoxy 词族；epoxy resin、epoxy adhesive 等再明确树脂、胶用途。oxygen 是基础元素名称。",
+    "branches": [
+      [
+        "基础元素及材料名称",
+        "oxygen · epoxy"
+      ]
+    ],
+    "contrasts": "epoxy 不只是所有含氧物质的通称，也不是所有强力胶的通称；由结构到材料的命名层次要保留。",
+    "practice": "The repair used an epoxy adhesive.\n\n这次维修使用了环氧胶。",
+    "words": [
+      "oxygen",
+      "epoxy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2251",
+    "meaning": "结肠",
+    "core": "COLO-：把范围限定到结肠",
+    "image": "colorectal 把结肠、直肠合起来说；colostomy 把结肠和造口关系连起来。前部同样是结肠，后半决定是在描写范围还是术式。",
+    "intro": "医学拉丁 colon 等借希腊结肠名称，形成近代 colo- 组合。它与标点 colon 的另一组希腊来源分开。",
+    "forms": "colo- + rectal → colorectal；colo- + -stomy → colostomy。rectal 关联 rectum 直肠，-stomy 关联开口。",
+    "branches": [
+      [
+        "器官及范围",
+        "colon · rectum · rectal · colorectal"
+      ],
+      [
+        "造口名称",
+        "colostomy"
+      ]
+    ],
+    "contrasts": "colon 的标点冒号义与结肠义要按场景选；colorectal、colostomy 明确取器官这一路。",
+    "practice": "The diagram shows the colorectal region beside an explanation of colostomy.\n\n图示展示了结直肠区域，旁边说明了结肠造口。",
+    "words": [
+      "colon",
+      "rectum",
+      "rectal",
+      "colorectal",
+      "colostomy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2271",
+    "meaning": "某领域的专业人物",
+    "core": "-ICIAN：从领域、技能，转到从事它的人",
+    "image": "obstetrician 是产科医生，mortician 是殡葬专业人员，theoretician 是理论工作者；后部都参与人物命名。",
+    "intro": "接法语 -icien 等人物形式，可与 -ic、-ian 的材料关系对照；现代英语又沿用、类比，某些词还出现 -itian 拼写。",
+    "forms": "obstetrics → obstetrician；theory、theoretic 相关词族 → theoretician；dietitian 的 -t- 拼写与 dietician 变体相连。",
+    "branches": [
+      [
+        "医学、营养、殡葬角色",
+        "obstetrician · dietitian · mortician"
+      ],
+      [
+        "理论工作者",
+        "theoretician"
+      ]
+    ],
+    "contrasts": "相似人物词尾并不保证每个都是医生；dietitian 的专业角色、mortician 的殡葬角色、theoretician 的理论角色分别记。",
+    "practice": "The conference brought together a dietitian and an obstetrician.\n\n会议邀请了一位营养师和一位产科医生。",
+    "words": [
+      "obstetrics",
+      "obstetrician",
+      "dietitian",
+      "mortician",
+      "theoretician"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2094",
+    "meaning": "涡轮；由此扩展的强力提速",
+    "core": "TURBO-：旋转动力装置的命名，后来借来形容提速",
+    "image": "turbine 是涡轮机，turbofan 是涡扇发动机；turbocharged 的涡轮增压关系又让 turbo 有强力提速的产品、比喻用法。",
+    "intro": "拉丁 turbo 旋风、旋转物，词干 turbin-，经法语 turbine 到英语；近代从 turbine 等抽出 turbo-，构成不同装置名称。",
+    "forms": "turbine → turbo-；turbo- + fan → turbofan；turbo- + charged → turbocharged；独立 turbo 又有缩略及加速模式用法。",
+    "branches": [
+      [
+        "基础装置和现代缩称",
+        "turbine · turbo"
+      ],
+      [
+        "发动机、增压及比喻",
+        "turbofan · turbocharged"
+      ]
+    ],
+    "contrasts": "turbofan 的发动机结构关系与普通风扇不同；软件 turbo mode 则通常是提速标签，不能按真实机械结构理解。",
+    "practice": "The museum explains how a turbine differs from a turbocharged engine system.\n\n博物馆解释了涡轮机与涡轮增压发动机系统的不同。",
+    "words": [
+      "turbine",
+      "turbo",
+      "turbofan",
+      "turbocharged"
+    ],
+    "exclude": {
+      "turbo-folk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "turboprop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "turbojet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

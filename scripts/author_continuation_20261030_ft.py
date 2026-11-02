@@ -1,0 +1,107 @@
+"""Nut: food names, shells, small lumps and informal people labels."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+N=[['古英语 hnutu → 中古英语 note、nute → nut','坚硬外壳里的种子、果实等普通名称'],['形状、硬壳与内部借喻','机械螺母；nutshell 小壳；doughnut 小面团块'],['人物俚语另有发展','nut 爱好者、怪人；nutty、nutter、nutcase，不能当医学分类']]
+W('nut','/nʌt/','坚果、硬壳果仁；螺母；狂热爱好者、怪人〔口语〕',
+ '外面硬壳，里面有能吃的仁，是普通食物画面；小而硬的机械件借名叫螺母，人物俚语再另看语境。',
+ '继承古英语 hnutu。日常 nut 的食物范围比严格植物学分类宽；机械螺母是形状联想，人物俚语有另一些引申，不能一条壳硬就把所有意思强推出来。',N,
+ 'crack a nut 夹开坚果，nuts and bolts 螺母与螺栓、基础细节，a fitness nut 健身狂热爱好者，go nuts 发狂、兴奋得失控。nuts 也有睾丸的粗俗义。',
+ 'crack a nut；nuts and bolts；a fitness nut；go nuts。',
+ '食物 nut 不保证属于植物学严格坚果；机械 nut 与 bolt 配合，bolt 螺栓不是壳里吃的仁。',
+ ('She added chopped nuts to the cake.','她往蛋糕里加入了切碎的坚果。'),('The mechanic tightened the nut on the bolt.','机械师拧紧了螺栓上的螺母。'),
+ sources=['https://www.etymonline.com/word/nut','https://en.wiktionary.org/wiki/nut#English'])
+W('nutty','/ˈnʌti/','含坚果的、坚果风味的；古怪的、疯狂的〔口语〕',
+ '食物里咬到果仁、闻到类似坚果的香气，是 nutty；说主意 nutty，则接 nut 的怪人、疯狂一支。',
+ 'nut + -y，双写 t。不同性质沿 nut 的不同用法派生，不是吃坚果多就必然性格古怪。',N[:1]+[['nut + -y → nutty〔食物〕','含坚果或类似坚果的味道'],['nut 人物俚语 + -y','古怪、疯狂等口语性质']],
+ 'a nutty flavour 坚果风味，nutty chocolate 果仁巧克力，a nutty idea 古怪点子。类似坚果味不保证真的加了坚果。',
+ 'a nutty flavour；a nutty aroma；a nutty idea。',
+ 'nutty flavour 是风味描述，nuts in the ingredients 是配料事实；人物或主意的 nutty 则另用口语比喻。',
+ ('The rice has a mild, nutty flavour.','这种米带着淡淡的坚果风味。'),('It sounded like a nutty idea, but it worked.','那主意听着古怪，却管用了。'))
+W('nutter','英 /ˈnʌtə/；美 /ˈnʌtər/','怪人、疯家伙〔英爱口语，常贬或戏谑〕；采坚果者〔旧〕',
+ '现代口语多是说某个人做事怪、疯狂或鲁莽；也可能是朋友间打趣，语气落在评价人。',
+ 'nut + -er 形人物词，旧有采果者用法；现代怪人义接 nut 的人物俚语，不是采坚果的人后来一定变疯。',N[:1]+[['nut + -er → nutter〔旧采果者〕','采坚果的人'],['nut 怪人俚语 → nutter〔现代人物词〕','怪异、疯狂、鲁莽者']],
+ 'a complete nutter 十足怪家伙，call someone a nutter 说某人疯疯癫癫，a lovable nutter 可爱的怪人〔戏谑〕。',
+ 'a complete nutter；a lovable nutter；call someone a nutter。',
+ 'nutter 是说话人的口语评价，可能有侮辱性；nutcracker 反而常是工具，不能只认 nut 就全当怪人。',
+ ('He called himself a nutter for running in that storm.','他说自己冒着那场风暴跑步，真像个疯家伙。'),('The film’s hero is a lovable nutter.','影片主角是个讨人喜欢的怪家伙。'))
+W('nutcase','/ˈnʌtkeɪs/','疯家伙、怪人〔口语贬称或戏谑〕',
+ '把一个人整个当作“怪得离谱的那一号”，case 取人物、个案那种用法；不是装坚果的盒子。',
+ 'nut 的怪人俚语 + case，和 headcase、mental case 等表达可比较。不是现代食品容器名简单转成人物。',N[2:]+[['nut + case → nutcase','口语评价怪异、疯狂的人']],
+ 'a complete nutcase 十足疯家伙，a lovable nutcase 可爱的怪人〔戏谑〕，describe someone as a nutcase 把人说成疯子。',
+ 'a complete nutcase；a lovable nutcase；call someone a nutcase。',
+ 'nutcase 不等于专业诊断词；case 可指人、个案，也可指盒子，这个组合选的是人物评价。',
+ ('The comedy follows a group of lovable nutcases.','这部喜剧讲一群可爱怪人的故事。'),('She jokingly called her brother a nutcase for buying a third bicycle.','弟弟又买第三辆自行车，她开玩笑说他真是个疯家伙。'))
+W('nutshell','/ˈnʌtʃel/','坚果壳；极简概述〔in a nutshell〕',
+ '一个小壳能装的东西很少；把很长的话压缩到像能装进小壳的分量，就是 in a nutshell。',
+ 'nut + shell，古英语已有对应组合。概述义是容量小的比喻，不是把书真的塞进壳里的操作。',N[:1]+[['旧 nut、shell 组合 → nutshell','坚果外壳'],['in a nutshell 的比喻','用很少的话概括']],
+ 'an empty nutshell 空果壳，in a nutshell 简而言之、概括地说，put it in a nutshell 简短说明。',
+ 'in a nutshell；put it in a nutshell；an empty nutshell。',
+ 'nutshell 是外壳，kernel 常是里面的仁；in a nutshell 的简短不表示细节已经全部交代。',
+ ('The squirrel left nutshells under the tree.','松鼠在树下留下了果壳。'),('In a nutshell, we need more time and less paperwork.','简单说，我们需要更多时间、更少文书工作。'))
+W('peanut','/ˈpiːnʌt/','花生；极少量的钱〔peanuts〕',
+ '名字把 pea 豆和 nut 果仁放在一起，像豆类里长出坚果式吃法；花生实际上属于豆科，不是严格植物学坚果。',
+ 'pea + nut，形成英语透明名称，也有受 pinda、pinder 等既有名称民间改造影响的分析；不把现代拆分当成排除其他历史影响的证据。',N[:1]+[['pea + nut → peanut','豆类来源而常作坚果吃的花生'],['peanuts 的小量比喻','微不足道的报酬、钱']],
+ 'roasted peanuts 烤花生，peanut butter 花生酱，work for peanuts 拿着少得可怜的钱工作。',
+ 'roasted peanuts；peanut butter；a peanut shell；work for peanuts。',
+ 'peanuts 的钱少是比喻，不要求工资以花生结算；有 nut 的名字也不保证植物分类属于坚果。',
+ ('He spread peanut butter on the bread.','他把花生酱抹在面包上。'),('They expected us to work for peanuts.','他们想让我们拿着少得可怜的钱干活。'))
+W('coconut','英 /ˈkəʊkənʌt/；美 /ˈkoʊkənʌt/','椰子；椰肉',
+ '棕色硬壳一端的几个凹点像一张小脸；名字里的 coco 常和这张脸的联想相连，再加 nut 标硬壳果物。',
+ 'coco + nut；coco 经葡萄牙语、西班牙语相关鬼脸、怪脸称呼，联系果壳凹点。它不是 cocoa 可可简写，也不是 co- 共同 + co + nut。',N[:1]+[['coco 的脸形命名；nut 果物','壳上凹点的面孔联想'],['coco + nut → coconut','椰子，后来也指椰肉材料']],
+ 'coconut milk 椰奶，coconut water 椰子水，grated coconut 椰蓉、擦碎椰肉。椰奶通常从椰肉加工，椰子水是果腔里的液体。',
+ 'coconut milk；coconut water；grated coconut。',
+ 'coconut 椰子，cocoa 可可；coconut milk/water 也不是两种拼法的同一饮料。',
+ ('She sprinkled grated coconut over the cake.','她在蛋糕上撒了椰蓉。'),('We drank coconut water from a young coconut.','我们喝了一只嫩椰子里的椰子水。'),
+ sources=['https://www.etymonline.com/word/coconut','https://en.wiktionary.org/wiki/coconut#English'])
+W('chestnut','/ˈtʃesnʌt/，也可保留 /t/ 为 /ˈtʃestnʌt/','栗子、栗树；栗色；反复讲的老笑话、旧话',
+ '栗子壳和栗色毛发先连起来；an old chestnut 还常是一遍遍讲到大家都听腻的旧段子。',
+ '旧 chesten、chesteine 栗树栗果名 + nut，前段经法语接拉丁 castanea、希腊相应名称。不是 chest 胸口 + nut“胸口果”。旧笑话义的具体故事来源不强定。',N[:1]+[['castanea → 法语、中古英语栗名 → chesten','栗树、栗果名称'],['chest(en) + nut → chestnut','栗子、栗色；后来旧段子义']],
+ 'roasted chestnuts 烤栗子，chestnut hair 栗色头发，an old chestnut 老掉牙的笑话或说法。',
+ 'roasted chestnuts；a chestnut tree；chestnut hair；an old chestnut。',
+ 'chestnut 的 chest 不指胸口；horse chestnut 是另一类名称，不能只因后半相同就把所有果实当同一种食物。',
+ ('The stall sold hot roasted chestnuts.','摊位卖热烤栗子。'),('He told that old chestnut about the missing keys again.','他又讲起那个关于丢钥匙的老掉牙笑话。'))
+W('hazelnut','/ˈheɪzəlnʌt/','榛子；淡榛色',
+ 'hazel 是榛树，后接 nut 就是这类树的果实；颜色名再借果壳、果仁色调来形容。',
+ 'hazel + nut，古英语 hæselhnutu 等组合已经存在。hazel 在这里是植物名，不是 haze 薄雾加 l。',N[:1]+[['古英语 hazel、nut 对应组合 → hazelnut','榛树的果实；相应颜色借用']],
+ 'roasted hazelnuts 烤榛子，hazelnut chocolate 榛子巧克力，hazelnut spread 榛子酱。',
+ 'roasted hazelnuts；hazelnut chocolate；hazelnut spread。',
+ 'hazelnut 比 nut 更明确一种果实；hazel 还可形容眼睛榛色、绿褐色，不表示眼里有榛子。',
+ ('The chocolate contains chopped hazelnuts.','巧克力里有切碎的榛子。'),('She bought a jar of hazelnut spread.','她买了一罐榛子酱。'))
+W('butternut','英 /ˈbʌtənʌt/；美 /ˈbʌtərnʌt/','灰胡桃、相应树木与果实；奶油南瓜〔butternut squash 的省称〕',
+ '树木语境可能是一种北美胡桃；菜谱里常省称橙肉长颈南瓜。两个常见对象不能看着 nut 就都画成手心小坚果。',
+ 'butter + nut 的组合命名。树果和 butternut squash 的名称用途分别辨认，不把 butter 硬讲成所有现代对象都加了黄油。',N[:1]+[['butter + nut → butternut〔树果名〕','灰胡桃及树木、果实等'],['butternut squash → 省称 butternut','食物语境中的南瓜品类']],
+ 'a butternut tree 灰胡桃树，roasted butternut 烤奶油南瓜，butternut soup 奶油南瓜汤。',
+ 'a butternut tree；butternut squash；butternut soup。',
+ 'butternut squash 属南瓜品类，名字不表示一定含乳制黄油；butter + nut 也不保证现代都指严格坚果。',
+ ('The old butternut tree stood beside the barn.','那棵老灰胡桃树长在谷仓旁。'),('She roasted the butternut for soup.','她把奶油南瓜烤熟来做汤。'))
+W('doughnut','英 /ˈdəʊnʌt/；美 /ˈdoʊnʌt/','甜甜圈、油炸甜面团糕点；环形物',
+ '面团做的小甜点，后来环形特别常见；名字里的 nut 主要帮助想到小团、小块，不保证里面夹坚果或最初就带洞。',
+ 'dough 面团 + nut，小圆团、糕点形状等命名分析；早期记载有球状做法，环形并非词一出现就固定。donut 是常见简拼。',N[:1]+[['dough + nut → doughnut','面团小块一类炸糕名称'],['形状变化和借用','常见环形糕点；其他环状物']],
+ 'a glazed doughnut 糖霜甜甜圈，a jam doughnut 果酱夹心炸糕，a doughnut shape 环形。',
+ 'a glazed doughnut；a jam doughnut；a box of doughnuts。',
+ 'doughnut/donut 拼写不同可指同一种糕点；jam doughnut 可能没有中心洞，nut 也不承诺含坚果。',
+ ('He bought a box of doughnuts for the office.','他给办公室买了一盒甜甜圈。'),('The jam doughnut had no hole in the middle.','那只果酱夹心炸糕中间没有洞。'),
+ sources=['https://www.etymonline.com/word/doughnut','https://en.wiktionary.org/wiki/doughnut#English'])
+W('nutcracker','英 /ˈnʌtkrækə/；美 /ˈnʌtkrækər/','坚果夹、胡桃夹子；星鸦等鸟名',
+ '给硬壳一个裂口，让里面的仁出来；工具、会敲开坚果的鸟都可借这项本领命名。',
+ 'nut 坚果 + cracker〔crack 弄裂 + -er〕，前部对象、后部执行动作的工具或主体；cracker 这里不是饼干。',N[:1]+[['nut + cracker → nutcracker','使坚果壳裂开的工具、鸟等'],['文化作品名称','The Nutcracker《胡桃夹子》借同名玩偶']],
+ 'a metal nutcracker 金属坚果夹，a wooden nutcracker 木制胡桃夹子玩偶，The Nutcracker ballet《胡桃夹子》芭蕾。',
+ 'a metal nutcracker；a wooden nutcracker；The Nutcracker。',
+ 'nutcracker 可以工具、玩偶或鸟，nuthatch 是另一类鸟名；两种鸟不能只因都会处理食物就当同物。',
+ ('She used a nutcracker to open the walnut.','她用坚果夹夹开核桃。'),('The children watched The Nutcracker at the theatre.','孩子们在剧院看了《胡桃夹子》。'))
+W('nuthatch','/ˈnʌthætʃ/','䴓、鳾〔一类善攀树的小鸟〕',
+ '能沿树干爬，常把食物卡在缝里啄开的小鸟；名字像“坚果劈开手”，不是会把坚果孵成小鸟。',
+ 'nut + 与 hack 劈、砍相关的 hatch 旧材料，常解释为啄开坚果的命名；这里的 hatch 不是孵蛋那一义。中古英语已有相应形式。',N[:1]+[['nut + hatch〔与 hack 相关旧材料〕→ nuthatch','因啄开坚果等习性命名的鸟']],
+ 'a nuthatch on the trunk 树干上的鳾，watch a nuthatch 观察鳾，a nuthatch at the feeder 喂鸟器旁的鳾。',
+ 'a nuthatch；a nuthatch on the trunk；watch a nuthatch。',
+ 'nuthatch 名称抓一种处理食物习性，不表示只吃坚果；hatch 的同形也不能强连到孵出果子。',
+ ('A nuthatch moved down the tree trunk head first.','一只鳾头朝下沿树干爬。'),('We watched a nuthatch at the feeder.','我们观察了一只喂鸟器旁的鳾。'),
+ sources=['https://www.etymonline.com/word/nuthatch','https://en.wiktionary.org/wiki/nuthatch#English'])
+R('B3136','硬壳果物，再借小块、壳与人物俚语','NUT：先分吃的、机械件和人物口语','nut → nutty、nutter、nutcase；nutshell 壳；peanut、coconut、chestnut、hazelnut、butternut 分食物；doughnut 接小面团；nutcracker、nuthatch 接敲开。',
+ '食物名字是生活分类，未必等于植物学定义。人物俚语是评价口吻，doughnut 也不保证加坚果。先选词义分支，再拆。',
+ 'hnutu → nut；+ -y/-er；nut + case/shell/cracker；pea/coco/chest(en)/hazel/butter/dough + nut；nut + hatch〔劈开旧材料〕。',
+ [['基础与人物性质','nut · nutty · nutter · nutcase'],['壳与食物名称','nutshell · peanut · groundnut · coconut · chestnut · hazelnut · butternut · doughnut'],['处理工具、鸟与机械组合','nutcracker · nuthatch · wingnut']],
+ 'coconut/cocoa 椰子可可；doughnut 的 nut 不保证坚果；nuthatch 的 hatch 不指孵蛋；nutty 风味不保证配料。',
+ 'In a nutshell, the nutcracker opens nuts, but a doughnut need not contain any.\n\n简单说，坚果夹用来开坚果，但甜甜圈未必含坚果。','nut nutty nutter nutcase nutshell peanut groundnut coconut chestnut hazelnut butternut doughnut nutcracker nuthatch wingnut')
+if __name__=='__main__':save('continuation_20261030_ft',ROOTS,WORDS)

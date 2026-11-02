@@ -1,0 +1,348 @@
+[
+  {
+    "word": "plants",
+    "ipa": "英 /plɑːnts/；美 /plænts/",
+    "meaning": "植物；工厂、成套生产设施〔复数〕；种植、安置〔第三人称单数〕",
+    "sense": "花园里一株株生长的绿植，叫 plants；把苗栽进地里，是动词 plants。大型设备安置在一起生产，工厂设施也发展出 plant 的名词分支。",
+    "split": "plant + -s，/t/ 后读 /s/。拉丁 planta 幼芽、plantāre 栽种很早进入英语，后来还有法语影响；工厂义与设立、安置设备和生产场所的分支相连。",
+    "history": [
+      [
+        "拉丁 planta、plantāre → 古英语及后续法语影响 → plant",
+        "幼芽、栽种 → 植物、种植"
+      ],
+      [
+        "plant + -s → plants；设施分支",
+        "多株植物；单数主语栽种；多处工厂设施"
+      ]
+    ],
+    "explanation": "indoor plants 室内植物；power plants 发电厂；plants a tree 栽一棵树；plants an idea 让一个想法在心里生根。",
+    "usage": "water the plants；plants along the windowsill。",
+    "contrast": "plants 在花园里多说植物，在能源、制造业语境可能说工厂。plant a tree 是把树栽下，grow a tree 可说培育、让它生长，关注的过程不同。",
+    "examples": [
+      [
+        "She keeps several plants on the kitchen windowsill.",
+        "她在厨房窗台上养了几盆植物。"
+      ],
+      [
+        "He plants a new tree in the garden every spring.",
+        "他每年春天都会在花园里栽一棵新树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plants#English",
+      "https://en.wiktionary.org/wiki/plant#English"
+    ]
+  },
+  {
+    "word": "trees",
+    "ipa": "/triːz/",
+    "meaning": "树木；树状结构、树形图〔复数〕",
+    "sense": "一棵树从主干分出枝条，所以树木的形状也被用来表示家谱、分类、数据的分支关系，这些图也叫 trees。",
+    "split": "tree + -s，元音后读 /z/。tree 继承古英语 trēow、trēo 等，较早还涉及木材、木制结构；现代树形图借用分枝的形象。",
+    "history": [
+      [
+        "古英语 trēow、trēo → 中古英语 → tree",
+        "树；较早也有木料等义"
+      ],
+      [
+        "tree + -s → trees",
+        "多棵树；多个树状关系结构"
+      ]
+    ],
+    "explanation": "fruit trees 果树；family trees 家谱；decision trees 决策树；trees along the road 路边的树。",
+    "usage": "climb trees；draw family trees。",
+    "contrast": "trees 说一棵棵树，wood 或 woods 可说一片树林。family trees 用树的分枝形象表现亲属关系。",
+    "examples": [
+      [
+        "Tall trees shade the path beside the river.",
+        "高大的树木为河边小路遮阴。"
+      ],
+      [
+        "The class drew family trees to show the relationships.",
+        "全班画了家谱来展示亲属关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trees#English",
+      "https://en.wiktionary.org/wiki/tree#English"
+    ]
+  },
+  {
+    "word": "flowers",
+    "ipa": "英 /ˈflaʊəz/；美 /ˈflaʊərz/",
+    "meaning": "花、花朵〔复数〕；开花、成熟发展〔第三人称单数〕",
+    "sense": "植物开出的花朵是一朵朵 flowers；某种植物在一个季节开花，也能用动词 flowers。人的才能逐渐展开，也可借开花的画面来表达。",
+    "split": "flower + -s，词尾读 /z/。flower 经古法语 flor、盎格鲁法语 flur 等接拉丁 flōs、flōr- 花；英语中名词再用作开花的动词。",
+    "history": [
+      [
+        "拉丁 flōs、flōr- → 法语相关形式 → 英语 flower",
+        "花；精华、盛期等相关比喻"
+      ],
+      [
+        "flower + -s → flowers",
+        "多朵花；单数主语开花"
+      ]
+    ],
+    "explanation": "fresh flowers 鲜花；wild flowers 野花；flowers in spring 春天开花；a bunch of flowers 一束花。",
+    "usage": "flowers on the table；the plant flowers in June。",
+    "contrast": "flowers 名词说花朵，动词说开花。flour 面粉与 flower 的历史精华比喻有关，但现代拼写、意思已经分开；两者常同音。",
+    "examples": [
+      [
+        "She placed fresh flowers on the table.",
+        "她把鲜花摆在桌上。"
+      ],
+      [
+        "This plant flowers in early spring.",
+        "这种植物在早春开花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flowers#English",
+      "https://en.wiktionary.org/wiki/flower#English",
+      "https://www.etymonline.com/word/flour"
+    ]
+  },
+  {
+    "word": "branches",
+    "ipa": "英 /ˈbrɑːntʃɪz/；美 /ˈbræntʃɪz/",
+    "meaning": "树枝；支路；分店、分部；学科分支；分叉〔第三人称单数〕",
+    "sense": "从主干伸出一条支线，就是 branch 的共同画面；树枝、道路分叉、机构分店、知识分支都能放到这个画面里。",
+    "split": "branch + -es，/tʃ/ 后增加 /ɪz/。branch 经古法语 branche 接晚期拉丁 branca 等足印、爪相关材料，更远来源未定；现代支线义从树枝形象发展。",
+    "history": [
+      [
+        "晚期拉丁相关材料 → 古法语 branche → 英语 branch",
+        "树枝名称；更早来源不定"
+      ],
+      [
+        "branch + -es → branches",
+        "多条树枝、支路、分部；单数主语分叉"
+      ]
+    ],
+    "explanation": "tree branches 树枝；bank branches 银行网点；branches of science 科学分支；the road branches 道路分叉。",
+    "usage": "branches stretching over the path；branches across the country。",
+    "contrast": "branch 强调从主体分出的部分；root 强调根部、来源。branches 在机构语境常是分部、分店，读时不必逐字译成树枝。",
+    "examples": [
+      [
+        "The branches stretched over the narrow path.",
+        "树枝伸到了窄路上方。"
+      ],
+      [
+        "The library has branches in several nearby towns.",
+        "这家图书馆在附近几个镇上设有分馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/branches#English",
+      "https://en.wiktionary.org/wiki/branch#English",
+      "https://www.etymonline.com/word/branch"
+    ]
+  },
+  {
+    "word": "roots",
+    "ipa": "/ruːts/",
+    "meaning": "根部；根源、出身；词根；数学的根〔复数〕",
+    "sense": "植物靠根扎住、吸收生长所需；一个问题从哪里生出、一个词从什么基本材料长出来，也都可以用 roots 的根与来源画面理解。",
+    "split": "root + -s，/t/ 后读 /s/。植物根的词承接北欧 rót 等材料，较早进入英语；原因、出身、词根等为相关引申。拱土的旧动词和 root for 支持的晚出表达，各有需另辨的历史。",
+    "history": [
+      [
+        "北欧 rót 等 → 较早英语、中古英语 root",
+        "植物的根"
+      ],
+      [
+        "root + -s → roots；相关引申",
+        "多条根 → 根源、出身、构词根本材料"
+      ]
+    ],
+    "explanation": "tree roots 树根；family roots 家族根源；roots of the problem 问题根源；word roots 词根；square roots 平方根。",
+    "usage": "put down roots；trace the roots of a word。",
+    "contrast": "put down roots 可以说植物扎根，也可说人在一个地方安定下来。词根 roots 说构词的根本材料，但现代英语基本词与更早不可再分的历史词根，分析层次可能不同。",
+    "examples": [
+      [
+        "The roots of the tree had lifted part of the path.",
+        "树根把一部分路面顶了起来。"
+      ],
+      [
+        "Learning word roots can help you recognize related words.",
+        "学习词根有助于识别相关单词。"
+      ],
+      [
+        "The book explores the roots of the disagreement.",
+        "这本书探究了分歧的根源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roots#English",
+      "https://en.wiktionary.org/wiki/root#English"
+    ]
+  },
+  {
+    "word": "fruits",
+    "ipa": "/fruːts/",
+    "meaning": "果实、水果种类；成果、收获〔复数〕",
+    "sense": "植物结出的东西，人努力后得到的成果，都可以叫 fruits。实际收获与抽象收获在早期来源里就已相连。",
+    "split": "fruit + -s，/t/ 后读 /s/。fruit 经古法语接拉丁 fructus 果实、收获、收益，与 fruī 享用相连；复数可说不同果实、种类或多项成果。",
+    "history": [
+      [
+        "拉丁 fruī、fructus → 法语、英语 fruit",
+        "享用 → 收获、果实、收益"
+      ],
+      [
+        "fruit + -s → fruits",
+        "多种果实；努力带来的成果"
+      ]
+    ],
+    "explanation": "citrus fruits 柑橘类水果；tropical fruits 热带水果；fruits of our labour 劳动成果；bear fruit 结出成果〔常用单数形式〕。",
+    "usage": "enjoy the fruits of success；fruits from different regions。",
+    "contrast": "fruit 常不可数地统称水果，如 eat more fruit；fruits 常说不同种类、个体果实，或抽象成果。the fruits of ... 是成果这一常见比喻。",
+    "examples": [
+      [
+        "The market sells tropical fruits from several regions.",
+        "市场出售来自几个地区的热带水果。"
+      ],
+      [
+        "They could finally enjoy the fruits of their hard work.",
+        "他们终于可以享受辛勤劳动的成果了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fruits#English",
+      "https://en.wiktionary.org/wiki/fruit#English"
+    ]
+  },
+  {
+    "word": "vegetables",
+    "ipa": "/ˈvedʒtəbəlz/",
+    "meaning": "蔬菜〔vegetable 的复数〕",
+    "sense": "胡萝卜、豆子、青菜等作为食物的植物部分，日常常归在 vegetables 这一类。这个词的早期范围更广，曾与能生长、有生命的植物有关。",
+    "split": "vegetable + -s，/l/ 后读 /z/。vegetable 经法语接拉丁 vegetābilis 能生长、活着的，关联 vegetāre 使有活力；后来蔬菜义成为常见核心。",
+    "history": [
+      [
+        "拉丁 vegetāre、vegetābilis → 法语、英语 vegetable",
+        "有活力、能生长 → 植物相关"
+      ],
+      [
+        "vegetable + -s → vegetables",
+        "多种蔬菜；通常指可食用植物部分"
+      ]
+    ],
+    "explanation": "fresh vegetables 新鲜蔬菜；root vegetables 根类蔬菜；green vegetables 绿色蔬菜；fruit and vegetables 水果与蔬菜。",
+    "usage": "grow vegetables；a basket of vegetables。",
+    "contrast": "vegetables 是可数复数；fruit 在统称水果时常不可数。日常食物分类与植物学的果实分类并不完全一样，要看是在谈饮食还是植物结构。",
+    "examples": [
+      [
+        "The basket contained fresh vegetables from the garden.",
+        "篮子里装着花园里采来的新鲜蔬菜。"
+      ],
+      [
+        "They grow vegetables behind the house.",
+        "他们在屋后种蔬菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vegetables#English",
+      "https://en.wiktionary.org/wiki/vegetable#English"
+    ]
+  },
+  {
+    "word": "crops",
+    "ipa": "英 /krɒps/；美 /krɑːps/",
+    "meaning": "庄稼、作物；收成；裁剪、剪短〔第三人称单数〕",
+    "sense": "田里种来收获的作物，是 crops；把顶部、边缘剪去，则是动词 crops。收取植物顶部与剪短的旧画面，把两条常见用法连起来。",
+    "split": "crop + -s，/p/ 后读 /s/。crop 接古英语 cropp，早有植物顶端、圆头、鸟嗉囊等义；从顶端、收取顶部发展到作物、收成及剪短、裁边。",
+    "history": [
+      [
+        "古英语 cropp → crop",
+        "植物顶端等旧义 → 作物、收成；剪短"
+      ],
+      [
+        "crop + -s → crops",
+        "多种作物；单数主语裁剪、剪短"
+      ]
+    ],
+    "explanation": "food crops 粮食作物、食用作物；grow crops 种庄稼；harvest crops 收割作物；crops the image 裁剪图像。",
+    "usage": "damage to the crops；crops grown in the area。",
+    "contrast": "crops 说用于收获的农作物，plants 范围更广。crops a photograph 是剪去照片部分边缘、调整取景范围；名词 crop 还可以说某次收成。",
+    "examples": [
+      [
+        "The fields were planted with different crops.",
+        "这些田里种着不同的作物。"
+      ],
+      [
+        "The editor crops the photograph to remove the empty space.",
+        "编辑裁去了照片边缘的空白。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crops#English",
+      "https://en.wiktionary.org/wiki/crop#English"
+    ]
+  },
+  {
+    "word": "fields",
+    "ipa": "/fiːldz/",
+    "meaning": "田地、开阔地；场地；领域；表单字段〔复数〕",
+    "sense": "一片可活动、可种植的范围，是 field 的具体画面；把知识、工作或资料划成各自范围，就有领域、字段等专门用法。",
+    "split": "field + -s，/d/ 后读 /z/。field 继承古英语 feld，经中古英语延续；学科领域、物理场、填写位置等是后续不同专门分支。",
+    "history": [
+      [
+        "古英语 feld → 中古英语 → field",
+        "开阔地、田野"
+      ],
+      [
+        "field + -s → fields；意义扩展",
+        "多块田地、场地 → 多个领域、字段"
+      ]
+    ],
+    "explanation": "green fields 绿色田野；sports fields 运动场；fields of study 研究领域；required fields 必填字段。",
+    "usage": "fields on the form；work in different fields。",
+    "contrast": "fields 在表单里是一项项填写位置，在职业、学术语境是领域。a field of wheat 是一片麦田；a field of research 则是一个研究方向，范围感仍相通。",
+    "examples": [
+      [
+        "The path runs between two fields.",
+        "小路从两块田之间穿过。"
+      ],
+      [
+        "Please complete all the required fields on the form.",
+        "请填写表格上的所有必填字段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fields#English",
+      "https://en.wiktionary.org/wiki/field#English"
+    ]
+  },
+  {
+    "word": "woods",
+    "ipa": "/wʊdz/",
+    "meaning": "树林、林地；几种木材〔特定复数用法〕",
+    "sense": "把长着一群树的一片地方看作整体，常叫 the woods；wood 本身也说木材，两种意思都很古老。",
+    "split": "wood + -s，/d/ 后读 /z/。wood 继承古英语 wudu、widu，经中古英语延续，旧词已同时涉及树林和木材，两条意义并行延续。",
+    "history": [
+      [
+        "古英语 wudu、widu → 中古英语 → wood",
+        "树木集合、树林；木材"
+      ],
+      [
+        "wood + -s → woods",
+        "常指树林；不同木材种类也可用复数"
+      ]
+    ],
+    "explanation": "in the woods 在树林里；walk through the woods 穿过树林；different woods 不同木材；out of the woods 脱离困境〔习语〕。",
+    "usage": "the edge of the woods；woods used for furniture。",
+    "contrast": "wood 作材料一般不可数，如 made of wood；woods 常说树林，如 The woods are quiet。不同种类的木材也可说 different woods，靠语境区分。",
+    "examples": [
+      [
+        "We followed a narrow path through the woods.",
+        "我们沿着一条窄路穿过树林。"
+      ],
+      [
+        "The maker used two different woods for the table.",
+        "制作者用两种不同的木材做了这张桌子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/woods#English",
+      "https://en.wiktionary.org/wiki/wood#English"
+    ]
+  }
+]

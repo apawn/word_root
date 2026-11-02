@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B3822",
+    "meaning": "港口停靠与对接，以及若干另源同形词",
+    "core": "DOCK：停到固定位置；扣减、被告席、植物名分别认",
+    "image": "dock → docking、docker、docklands；dockyard、dockside、drydock；burdock 另属植物词。",
+    "intro": "港口这一路能连起地点、动作、人物和整个地区。几个常见同形义另画边界，避免把扣工资、法庭、牛蒡硬讲成码头的延伸。",
+    "forms": "码头义借荷兰、低地德语；-ing 动作，-er 人物，lands 地区；截短、笼栏、植物旧词各有历史。\n\n码头接荷兰语、低地德语，扣减、植物、被告席不全同源。",
+    "branches": [
+      [
+        "停靠、对接及职业",
+        "dock · docking · docker"
+      ],
+      [
+        "港区与设施",
+        "docklands · dockyard · dockside · drydock"
+      ],
+      [
+        "植物旧名的复合",
+        "burdock"
+      ],
+      [
+        "dock → docks：码头与对接；其他同形分源",
+        "dock · docks"
+      ]
+    ],
+    "contrasts": "dock 不只有港口义；burdock 后项属植物词；docklands 可旧港区。",
+    "practice": "The docker watched the ship docking near the old docklands.\n\n码头工看着船在旧港区附近靠岸。",
+    "words": [
+      "dock",
+      "docking",
+      "docker",
+      "docklands",
+      "dockyard",
+      "dockside",
+      "drydock",
+      "burdock",
+      "docks"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4037",
+    "meaning": "污秽、恶劣和妨碍，向犯规、冲突扩展",
+    "core": "FOUL：感官上不干净，行为上也可以不合规则",
+    "image": "foul ↔ filth；afoul 常见于 run afoul of。",
+    "intro": "先闻到臭味、看到污物，再看语言、行为和比赛中的评价。filth 的不同元音来自旧词形变化，afoul 则保留被纠缠、受阻的画面。",
+    "forms": "古英语 fūl → foul；同族旧名词 fȳlþu → filth；a- + foul → afoul。",
+    "branches": [
+      [
+        "恶劣性质与污物",
+        "foul · filth"
+      ],
+      [
+        "纠缠、冲突的固定表达",
+        "afoul"
+      ]
+    ],
+    "contrasts": "foul 与 fowl 同音；filth 厌恶语气强；run afoul of 整体记。",
+    "practice": "The player committed a foul and ran afoul of the referee.\n\n球员犯了规，也与裁判起了冲突。",
+    "words": [
+      "foul",
+      "filth",
+      "afoul"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4457",
+    "meaning": "让结构、作用或判断更牢固",
+    "core": "REINFORCE：薄弱处多一层，已有支持再添一份",
+    "image": "reinforce → reinforcement、reinforced。",
+    "intro": "物体加固能看得见，信念、结论的增强也能借同一画面。动作、加强的材料或过程、加强后的状态连着看。",
+    "forms": "reinforce；-ment 形成过程、支持或加强物名词；-ed 形成过去、完成及状态用法。",
+    "branches": [
+      [
+        "加强动作、支持与状态",
+        "reinforce · reinforcement · reinforced"
+      ]
+    ],
+    "contrasts": "reinforced 可物理加固，也可抽象强化；reinforcement 不只是一根钢筋。",
+    "practice": "Additional reinforcement kept the reinforced wall stable.\n\n额外的加固措施让加固后的墙保持稳定。",
+    "words": [
+      "reinforce",
+      "reinforcement",
+      "reinforced"
+    ],
+    "exclude": {
+      "self-reinforce": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3543",
+    "meaning": "豌豆与重新分析产生的单数；孔雀前项另源",
+    "core": "PEA：小豆粒的名字；peacock 则保存另一种旧称",
+    "image": "pease → pea；pea + nut → peanut；孔雀旧名 + cock → peacock。",
+    "intro": "pea 展示的是语言使用者怎样重新切分词尾。peanut 真接豆类形象，peacock 的相同字母却是另一动物旧名的后代。",
+    "forms": "pease 被当复数 → pea；peanut 接 nut；peacock 的 pea 接孔雀旧称，cock 表雄鸟。\n\n旧 pease 原可作单数或集合词，词尾后来被当成复数；现代 pea 是倒推得到的单数，peas 才是今天常用的复数。\n\n现代构形清楚，也有早期 pinda、pinder 等名称影响分析；名词复数还有微少报酬义。\n\nchick- 接古法语 chiche、拉丁 cicer 豆名，经民间词源变形接近 chick；后部接 pease、pea 的重分析。整个词虽像 chick + pea，历史上不是以小鸡直接命名。\n\nhummus 借阿拉伯语鹰嘴豆的名称材料，英语常特指做成的豆泥。与 chickpea 对照原料，不把阿拉伯语借词当英语 pea 派生。",
+    "branches": [
+      [
+        "豆粒及食物名称",
+        "pea · peanut"
+      ],
+      [
+        "另源动物名称",
+        "peacock"
+      ],
+      [
+        "pea → peas：旧词重新分析后形成的新单复数",
+        "pea · peas"
+      ],
+      [
+        "pea + nut → peanut → peanuts：花生与少量比喻",
+        "pea · peanut · peanuts"
+      ],
+      [
+        "chickpea：旧豆名 + pea，不是小鸡种的豆",
+        "chickpea · chickpeas"
+      ],
+      [
+        "chickpea 对照：hummus 鹰嘴豆泥",
+        "hummus"
+      ]
+    ],
+    "contrasts": "peacock 不来自豌豆；peanut 名称有 nut，植物分类仍是豆科。",
+    "practice": "The peacock walked past a bowl of peas.\n\n孔雀从一碗豌豆旁走过。",
+    "words": [
+      "pea",
+      "peanut",
+      "peacock",
+      "peas",
+      "peanuts",
+      "chickpea",
+      "chickpeas",
+      "hummus"
+    ],
+    "exclude": {
+      "pea-time": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pea-sized": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pea-pheasant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

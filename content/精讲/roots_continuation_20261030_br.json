@@ -1,0 +1,72 @@
+[
+  {
+    "id": "B3719",
+    "meaning": "联系、参照与亲属；物理学和哲学术语分开",
+    "core": "RELATIVE：和谁比、和谁相关；名词也可亲属",
+    "image": "relative → relatively；relativity/relativistic 接科学等专门用法，relativism 单独讲哲学立场；较专门 correlative 暂略。",
+    "intro": "同一参照词系有普通、科学、哲学分支，不能把一个相对联想变成所有理论的通用解释。",
+    "forms": "拉丁 relāt- + -īvus → relative；relative + -ly/-ity/-ism/-istic；relativist + -ic 的对应分析。\n\n法语接晚期拉丁 relativus，现代名词亲属可数复数。",
+    "branches": [
+      [
+        "普通参照和关系",
+        "relative · relatively"
+      ],
+      [
+        "科学与理论形容词",
+        "relativity · relativistic"
+      ],
+      [
+        "哲学立场",
+        "relativism"
+      ],
+      [
+        "relative → relatives：有关联到有亲属关系的人",
+        "relate · relative · relatives"
+      ]
+    ],
+    "contrasts": "relative 亲属或相对，relatively 副词；relativity 相对论不等于 relativism；相对不等于虚假。",
+    "practice": "Relatively simple examples introduce relativity without turning it into relativism.\n\n相对简单的例子介绍了相对论，没有把它混成相对主义。",
+    "words": [
+      "relative",
+      "relatively",
+      "relativity",
+      "relativistic",
+      "relativism",
+      "relate",
+      "relatives"
+    ],
+    "exclude": {
+      "relative-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-relative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "correlative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4099",
+    "meaning": "传统性质到持守者、立场和不同路径",
+    "core": "TRADITIONAL：按传统；-ist 人，-ism 取向，non- 非传统",
+    "image": "已有 traditional、traditionally 后，traditionalist/traditionalism 连读，nontraditional 最后作类别否定。",
+    "intro": "传统与创新可以在不同方面并存；词形只提供倾向、类别，不代替对具体做法的评价。",
+    "forms": "traditional + -ly/-ist/-ism；non- + traditional。",
+    "branches": [
+      [
+        "性质与方式",
+        "traditional · traditionally"
+      ],
+      [
+        "人物、立场和非传统",
+        "traditionalist · traditionalism · nontraditional"
+      ]
+    ],
+    "contrasts": "traditionalism 取向、traditionalist 人、tradition 具体传统；non- 不属于不等于 anti- 主动反对。",
+    "practice": "The traditionalist considered a nontraditional design without abandoning every tradition.\n\n这位重传统的人考虑了非传统设计，并没有因此抛弃所有传统。",
+    "words": [
+      "traditional",
+      "traditionally",
+      "traditionalist",
+      "traditionalism",
+      "nontraditional"
+    ],
+    "exclude": {}
+  }
+]

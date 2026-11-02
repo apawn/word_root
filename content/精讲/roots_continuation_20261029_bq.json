@@ -1,0 +1,95 @@
+[
+  {
+    "id": "B2466",
+    "meaning": "一点、小块；另一路为比特",
+    "core": "BIT：小块与二进制位分开记",
+    "image": "日常小块可以来自咬下一口的旧画面；计算机比特则是现代 binary digit 的缩合词。",
+    "intro": "普通 bit 接古英语小块词；技术 bit 在20世纪形成新命名。不要把所有计算机词都编成古人咬食物的连续历史。",
+    "forms": "bit → bitty、tidbit；技术 bit → gigabit、bitrate、bitmap、bitcoin。bite 的过去式 bit 回到咬这一组理解。\n\n小块与古英语咬下一口等词有关；计算机 bit 另由 binary digit 缩合，不把技术名词说成古英语直接出现。\n\n古英语 bītan 继承，现代名词复数、动词三单同形。",
+    "branches": [
+      [
+        "少量、碎片与趣闻",
+        "bit · bitty · tidbit"
+      ],
+      [
+        "二进制位与技术组合",
+        "gigabit · bitrate · bitmap · bitcoin"
+      ],
+      [
+        "bit → bits：小块与 binary digit 缩合",
+        "bit · bits · bite"
+      ],
+      [
+        "bite → bites：用牙切开、一口与影响",
+        "bite · bites"
+      ]
+    ],
+    "contrasts": "bit 比特与 byte 字节不同；bitty 零碎不等于只是简短；tidbit 带好吃或有趣的小片段意味。",
+    "practice": "The guide gave us a few tidbits of information, bit by bit.\n\n导游一点一点地给我们讲了几则有趣的小消息。",
+    "words": [
+      "bit",
+      "bitty",
+      "tidbit",
+      "gigabit",
+      "bitrate",
+      "bitmap",
+      "bitcoin",
+      "bits",
+      "bite",
+      "bites"
+    ],
+    "exclude": {
+      "bitter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bitten": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "biter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2743",
+    "meaning": "咬；刺痛；苦与苦涩的历史亲缘",
+    "core": "BITE：用牙切开，再借说刺激和痛感",
+    "image": "真实咬下去是基本动作；寒风、批评像咬一样刺人。bitter 与它有古老亲缘，但现代是独立形容词。",
+    "intro": "bite 接古英语 bītan；bit、bitten 保留不规则变化。bitter 接古英语 biter、bitter，与咬的词族相关，并非现代 bit + 比较级后缀。",
+    "forms": "bite → bit、bitten、biting、biter；再看历史相关词 bitter → bitterly、bitterness。普通小块名词 bit 在另一页对照。\n\n不能用名词 bit 小块的拼写替换 bites。\n\n和 bite 比较小口，不是 bite 派生。旧 snack 有咬、猛咬材料，可能接北欧、荷兰语等；现代小食名词较早于常用的吃点心动词义，不能单凭短动词先有所有意思。",
+    "branches": [
+      [
+        "咬的动作、形式和行动者",
+        "bite · bitten · biting · biter"
+      ],
+      [
+        "苦味、怨意与程度",
+        "bitter · bitterly · bitterness"
+      ],
+      [
+        "bite → bites：咬、咬痕、一口量",
+        "bite · bites"
+      ],
+      [
+        "snack：咬、抢取，到一小份吃的",
+        "snack · snacks · snacked · snacking"
+      ]
+    ],
+    "contrasts": "bite /baɪt/，bit /bɪt/，bitten /ˈbɪtən/；biter /aɪ/ 与 bitter /ɪ/ 分清。",
+    "practice": "A biting comment can leave more bitterness than the speaker expects.\n\n一句尖刻的话，可能留下超出说话人预料的怨意。",
+    "words": [
+      "bite",
+      "bitten",
+      "biting",
+      "biter",
+      "bitter",
+      "bitterly",
+      "bitterness",
+      "bites",
+      "snack",
+      "snacks",
+      "snacked",
+      "snacking"
+    ],
+    "exclude": {
+      "beetle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "frostbite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snakebite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "overbite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

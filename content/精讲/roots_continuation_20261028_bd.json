@@ -1,0 +1,93 @@
+[
+  {
+    "id": "B3093",
+    "meaning": "远；程度差距大；长远眼光",
+    "core": "FAR：把距离、时间或差距拉开",
+    "image": "道路远、相差远、眼光远，画面对象不同；afar、faraway 再分副词与形容词。",
+    "intro": "far 接古英语 feor、feorr；现代比较级形式有各自历史，不造 farer。farsighted 的视力与远见用法分别说清，不把原词典里简单等同老视的说法照搬。",
+    "forms": "far → afar、faraway；far + sighted → farsighted。比较级、最高级在 far 里说明，不单独堆普通词形。\n\nfarther 历史上是 further、ferther 等比较形式的变体，现代常作 far 的比较形式。通常先用于更远距离，也可见其他程度用法，不能把两词说成从来没有重叠。",
+    "branches": [
+      [
+        "距离、位置及神情",
+        "far · afar · faraway"
+      ],
+      [
+        "眼光与视力语境",
+        "farsighted"
+      ],
+      [
+        "far 的比较形式 farther，与 further 的历史联系",
+        "farther"
+      ]
+    ],
+    "contrasts": "from afar 远远地、a faraway village 遥远村庄；far better 好得多；farsighted 有远见不等于视力诊断。",
+    "practice": "From afar, the faraway island looked like a dark line on the sea.\n\n从远处望去，那座遥远岛屿像海上的一道暗线。",
+    "words": [
+      "far",
+      "afar",
+      "faraway",
+      "farsighted",
+      "farther"
+    ],
+    "exclude": {
+      "far-feeling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "far-flung": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3772",
+    "meaning": "叙事、故事及故事呈现；同形楼层义另看",
+    "core": "STORY：把事件组织成一段可跟随的叙述",
+    "image": "主线是 storyline，谁讲是 storyteller，怎么讲是 storytelling，之前经历是 backstory，预先画出来是 storyboard。",
+    "intro": "叙事 story 经法语上接拉丁、希腊 historia，与 history 相关。美式层义常与英式 storey 对照，具体早期语义桥梁不要用图画故事简单说死；understory 等选层义的专门词本组先不展开。",
+    "forms": "story → storyline；story → storyteller / storytelling；backstory 讲前史，storied 讲传奇经历，storyboard 讲图示预排。storybook、storytime 已精讲复用。\n\n故事、报道的 stories 与美式楼层 stories 同形；楼层的英式 storeys 拼写另列于用法，语义来源桥梁有不确定处。\n\nstory 指内容体裁，书中世界又能形成故事般的性质比喻。\n\nstory 与 teller 组合，teller 取讲述者。",
+    "branches": [
+      [
+        "故事、主线与叙事者、技法",
+        "story · storyline · storyteller · storytelling"
+      ],
+      [
+        "背景、声望和图示",
+        "backstory · storied · storyboard"
+      ],
+      [
+        "既有读物与活动",
+        "storybook · storytime"
+      ],
+      [
+        "story → stories：叙事与楼层分别理解",
+        "story · stories"
+      ],
+      [
+        "storybook → storybooks：故事书",
+        "storybook · storybooks"
+      ],
+      [
+        "storyteller → storytellers：讲故事的人",
+        "storyteller · storytellers"
+      ]
+    ],
+    "contrasts": "story 不一定虚构；history 与 story 同源但不同用；backstory 前史、storyline 主线；storied 丰富著名经历不只等于 old。",
+    "practice": "The storyteller used a storyboard to explain how the backstory shaped the main storyline.\n\n叙事者用故事板解释前史怎样影响主线。",
+    "words": [
+      "story",
+      "storyline",
+      "storyteller",
+      "storytelling",
+      "backstory",
+      "storied",
+      "storyboard",
+      "storybook",
+      "storytime",
+      "stories",
+      "storybooks",
+      "storytellers"
+    ],
+    "exclude": {
+      "self-story": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-story": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proto-story": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "understory": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

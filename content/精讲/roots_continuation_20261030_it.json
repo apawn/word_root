@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B3431",
+    "meaning": "父亲式宗教尊称，及相关职位、任期和形容词",
+    "core": "POPE：人和称号；PAPAL：相关的；PAPACY：职位或任期",
+    "image": "pāpa → pope；pāpālis → papal；pāpātia → papacy。",
+    "intro": "这些不是现代英语里按一个固定元音公式造出来的，而是相关历史词形分别借入。先分人、性质、职务，读音就不必硬套同一个 o。",
+    "forms": "希腊父亲称呼 → 教会 pāpa；英语 pope；平行拉丁派生分别进入 papal、papacy。",
+    "branches": [
+      [
+        "称号、关系与职务",
+        "pope · papal · papacy"
+      ]
+    ],
+    "contrasts": "pope 中 /əʊ/、/oʊ/，papal、papacy 中 /eɪ/；papal 不等于所有天主教相关事物。",
+    "practice": "The papal documents were issued during his papacy.\n\n这些教宗文件在他任教宗期间颁布。",
+    "words": [
+      "pope",
+      "papal",
+      "papacy"
+    ],
+    "exclude": {
+      "pope-holy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "popish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3192",
+    "meaning": "战斗参与者扩到战斗机，前半决定关系",
+    "core": "FIGHTER：先问是人，还是飞行器",
+    "image": "fighter → bullfighter / gunfighter / prizefighter；firefighter 与 starfighter 各有固定含义。",
+    "intro": "斗牛者以牛为对手，枪手靠枪，职业拳手有自己的历史，星际战斗机却是飞行器。一个 -er 不保证每个组合都指人。",
+    "forms": "feohtan / feohtere → fight / fighter；不同前半 + fighter；prizefight + -er 也对应 prizefighter。",
+    "branches": [
+      [
+        "人物与职业活动",
+        "fighter · bullfighter · gunfighter · prizefighter · firefighter"
+      ],
+      [
+        "科幻飞行器",
+        "starfighter"
+      ]
+    ],
+    "contrasts": "fighter 可指战斗机；prizefighter 不是拿过任何奖的人；starfighter 不是打恒星的人。",
+    "practice": "The film follows a retired prizefighter whose child dreams of flying a starfighter.\n\n电影讲述一位退役职业拳手，他的孩子梦想驾驶星际战斗机。",
+    "words": [
+      "fighter",
+      "bullfighter",
+      "gunfighter",
+      "prizefighter",
+      "firefighter",
+      "starfighter"
+    ],
+    "exclude": {
+      "wildfire-fighter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "warfighter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3863",
+    "meaning": "印章、密封与海豹的不同来源",
+    "core": "SEAL：封印一线，海豹另线",
+    "image": "sigillum → seel → seal 印章、密封；古英语 seolh → seal 海豹。",
+    "intro": "常见派生主要接封闭、密封动作；sealing、sealer 在海豹捕猎语境也可另走动物名路线。不能把海豹讲成印章形的小动物。",
+    "forms": "seal + -ing/-er/-ant；un- 逆转 + seal。各词有同形分支时再看对象。\n\n封印义接拉丁小标记材料，动物名 seal 承古英语 seolh，远源未定；两路不能从海豹故事互推。现代 -s 均读 /z/。",
+    "branches": [
+      [
+        "封印、过程、材料与解除",
+        "seal · sealing · sealer · sealant · unseal"
+      ],
+      [
+        "seals：封印、密封与海豹分源",
+        "seals"
+      ]
+    ],
+    "contrasts": "seal 的海豹义另源；sealer 可是密封剂、设备，也可能是猎海豹者，必须看上下文。",
+    "practice": "The restorer removed the old sealant before sealing the frame again.\n\n修复人员先去掉旧密封剂，再重新密封框架。",
+    "words": [
+      "seal",
+      "sealing",
+      "sealer",
+      "sealant",
+      "unseal",
+      "seals"
+    ],
+    "exclude": {
+      "seal-man": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sealy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2843",
+    "meaning": "缓慢、悄悄移动，及不安感和相关旧词",
+    "core": "CREEP：一点点靠近；CREEPY：靠近得让人不舒服",
+    "image": "creep → creeping 过程、渐进性质；creeper 人、植物或物件；creepy 感受；cripple 另接相关旧词形。",
+    "intro": "从动作到情绪的联系可以形象记住，但 creeping plants 不一定可怕，cripple 也不是现代为了说爬行才造出的形容词。",
+    "forms": "crēopan → creep / crept；接 -ing、-er、-y。旧 crypel → cripple，远处关系有讨论。\n\ncreep 来自古英语 creopan，slink 来自 slincan；这里按近义动作对照，二者并非同一基础词加前缀。crept、slunk 各自为变形，不套现代加 -ed。\n\nslinky 接 slink 与 -y；旧有瘦长、松垂义，现代服装义还说贴身、流线般柔顺，不能粗译成偷偷摸摸的衣服。",
+    "branches": [
+      [
+        "动作、渐变和蔓生物",
+        "creep · creeping · creeper"
+      ],
+      [
+        "不安评价与严重损害",
+        "creepy · cripple"
+      ],
+      [
+        "creep 与 slink 的不同悄行画面",
+        "creep · creeps · crept · creeping · slink · slinks · slunk · slinking"
+      ],
+      [
+        "slinky：贴身流畅、曲线柔顺的性质",
+        "slink · slinky"
+      ]
+    ],
+    "contrasts": "creeping 与 creepy 的重点不同；creeper 可是植物和工具；cripple 作为称人名词有冒犯性，动词常表严重损害运转。",
+    "practice": "A creeper moved in the wind, adding to the creepy atmosphere.\n\n一株攀缘植物在风中晃动，让气氛更显阴森。",
+    "words": [
+      "creep",
+      "creeping",
+      "creeper",
+      "creepy",
+      "cripple",
+      "creeps",
+      "crept",
+      "slink",
+      "slinks",
+      "slunk",
+      "slinking",
+      "slinky"
+    ],
+    "exclude": {}
+  }
+]

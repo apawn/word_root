@@ -1,0 +1,111 @@
+[
+  {
+    "id": "B3404",
+    "meaning": "茶及饮用器具、场所与时间",
+    "core": "TEA：叶子随贸易而来，名字再进入餐桌上的组合",
+    "image": "tea → teaspoon、teapot、teacup、teabag；teatime、teahouse、tearoom 分别接时间、场所。",
+    "intro": "从闽南语 tê 经贸易路径看现代读音，不用拼写瞎拆。器具名看实际用途，teapot 泡茶，kettle 烧水。",
+    "forms": "闽南语 茶 tê → 荷兰语 thee → tea；tea 与 spoon/pot/cup/bag/time/house/room 并列合成。\n\n闽南语茶的名称经贸易语言传播，英语有饮品、种类、茶餐等用法。",
+    "branches": [
+      [
+        "基础与餐桌器具",
+        "tea · teaspoon · teapot · teacup · teabag"
+      ],
+      [
+        "时间、场所",
+        "teatime · teahouse · tearoom"
+      ],
+      [
+        "tea → teas：茶、份数与茶餐",
+        "tea · teas"
+      ]
+    ],
+    "contrasts": "teaspoon/tablespoon 小勺与大勺；teapot/kettle 茶壶与烧水壶；tea 可说一餐；贸易读音不能用海陆绝对二分。",
+    "practice": "She put the teapot and two teacups on the table at teatime.\n\n茶点时间，她把茶壶和两个茶杯放在桌上。",
+    "words": [
+      "tea",
+      "teaspoon",
+      "teapot",
+      "teacup",
+      "teabag",
+      "teatime",
+      "teahouse",
+      "tearoom",
+      "teas"
+    ],
+    "exclude": {
+      "tea-gown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3906",
+    "meaning": "相接、共同与有关节的",
+    "core": "JOINT：连接点也能连接共同参与的人",
+    "image": "joint → jointly；jointed 单列为具有接点的形状、结构。",
+    "intro": "关节、连接处是看得见的接合；共同账户是几个人连在同一件事上。jointed 则不是共同地的新副词。",
+    "forms": "拉丁 iunctus 经法语进入 joint；joint + -ly/-ed；不把 joint 末尾 t 当作现代英语过去式标记。",
+    "branches": [
+      [
+        "接点与共同参与",
+        "joint · jointly"
+      ],
+      [
+        "具有接点的结构",
+        "jointed"
+      ]
+    ],
+    "contrasts": "joint account 共同账户，jointed arm 有接头的臂；jointly 是一起做，不是关节结构。",
+    "practice": "The engineers jointly designed a jointed arm.\n\n工程师们共同设计了一只有关节的机械臂。",
+    "words": [
+      "joint",
+      "jointly",
+      "jointed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3923",
+    "meaning": "界限、被限制与取消限制；门窗横梁旁支",
+    "core": "LIMIT：画出的边线，变成数量、能力和用途的范围",
+    "image": "limit → limited、limiting、unlimited；limitation、limitless、limiter 分过程、无界限和器具；lintel 以谨慎历史旁支另列。",
+    "intro": "limited 是受限状态，limiting 是造成限制。名词 limitation 有独立法语、拉丁路径；lintel 不靠现代字母删改来冒充已证实历史。",
+    "forms": "拉丁 līmes、līmit- → limit；līmitātiō → limitation；limit + -ed/-ing/-less/-er；un- + limited；lintel 的古法语近源可靠、深源分析不一。\n\n拉丁边界名词与划界动词各有借入路径，现代形式重合。\n\n限制名词经法语、拉丁借入，与 limit 同族但不硬排英语造词先后。",
+    "branches": [
+      [
+        "界限与状态、作用",
+        "limit · limited · limiting · unlimited"
+      ],
+      [
+        "过程、性质与器具",
+        "limitation · limitless · limiter"
+      ],
+      [
+        "建筑名词历史旁支",
+        "lintel"
+      ],
+      [
+        "limit → limits：边界与限制",
+        "limit · limits"
+      ],
+      [
+        "limitation → limitations：事情只能做到哪一步",
+        "limit · limitation · limitations"
+      ]
+    ],
+    "contrasts": "limited/limiting 受限与制约；limit/limitation 边界与限制条件；limiter 不是只有人物；lintel 上横梁非下门槛。",
+    "practice": "Limited space was the main limiting factor in the design.\n\n空间有限是设计中的主要制约因素。",
+    "words": [
+      "limit",
+      "limited",
+      "limiting",
+      "unlimited",
+      "limitation",
+      "limitless",
+      "limiter",
+      "lintel",
+      "limits",
+      "limitations"
+    ],
+    "exclude": {}
+  }
+]

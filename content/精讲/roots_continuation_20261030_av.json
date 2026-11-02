@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B3023",
+    "meaning": "脑器官、思考能力；创意、思想操控与部位名分组",
+    "core": "BRAIN：身体里的脑，也借指动脑能力和策划者",
+    "image": "brain → brainy、brainless；brainstorm → brainstorming；brainwash → brainwashing 认形方便但历史注明逆构；brainwave 两义，部位词最后。",
+    "intro": "脑的更远来源有争议，可靠旧形足够。思考、灌输、脑电和解剖部位分别放场景，避免都写成大脑如何变化的空句。",
+    "forms": "brain + -y/-less；brain + storm/wash/wave；brainstorm + -ing；brainwashing 仿译；mid-/fore- + brain。\n\nbrain 接古英语 bræġn／brægen 等；brains 可泛说智力，也可在 the brains behind 中说策划者。",
+    "branches": [
+      [
+        "器官、能力和人",
+        "brain · brainy · brainless · brainchild · brainpower"
+      ],
+      [
+        "构思与灵感",
+        "brainstorm · brainstorming · brainwave"
+      ],
+      [
+        "思想操控",
+        "brainwash · brainwashing"
+      ],
+      [
+        "固定部位",
+        "midbrain · forebrain"
+      ],
+      [
+        "brain → brains：大脑与头脑、智力",
+        "brain · brains"
+      ]
+    ],
+    "contrasts": "brainwash 洗脑与 brainstorming 构思分清；brainwave 可妙计或脑电；midbrain 固定部位不靠几何中心猜。",
+    "practice": "The brainy designer had a brainwave during the brainstorming session.\n\n聪明的设计师在头脑风暴讨论时灵机一动。",
+    "words": [
+      "brain",
+      "brainy",
+      "brainless",
+      "brainchild",
+      "brainpower",
+      "brainstorm",
+      "brainstorming",
+      "brainwave",
+      "brainwash",
+      "brainwashing",
+      "midbrain",
+      "forebrain",
+      "brains"
+    ],
+    "exclude": {
+      "brain-dead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brain-damaged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brainer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "no-brainer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yes-brainer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3410",
+    "meaning": "租地、租金旧背景到农场农业；场所、行业、角色",
+    "core": "FARM：今天是农场；旧历史还有租用和固定支付",
+    "image": "farm → farming、farmer；farmyard、farmstead 与已有 farmhouse、farmland、farmhand 按地方和角色一起读；nonfarm 分农业以外。",
+    "intro": "历史细节有争议，只保留可靠租金、租地背景与现代农业的关系。farmer 不能只画成现代 farm 新加 -er。",
+    "forms": "farm + -ing/-er；farm + yard/stead/house/land/hand；non- + farm。\n\n早期固定租金、租地背景发展为农场；更早路线有争议，现代 farm 也可作经营种养的动词。\n\n历史通过法语及拉丁承租、固定付款词族，现代可认 farm 与 er。",
+    "branches": [
+      [
+        "单位、行业与经营者",
+        "farm · farming · farmer · farmhand"
+      ],
+      [
+        "农场各部分",
+        "farmhouse · farmyard · farmstead · farmland"
+      ],
+      [
+        "农业之外",
+        "nonfarm"
+      ],
+      [
+        "farm → farms：从租地背景到种养场所",
+        "farm · farms"
+      ],
+      [
+        "farmer → farmers：承租人到农业经营者",
+        "farmer · farmers"
+      ]
+    ],
+    "contrasts": "farmer 经营、farmhand 雇工、landowner 拥有土地；farmyard 院落、farmhouse 房、farmland 地；farm out 外包。",
+    "practice": "The farmer crossed the farmyard and entered the farmhouse.\n\n农场经营者穿过院子，走进农舍。",
+    "words": [
+      "farm",
+      "farming",
+      "farmer",
+      "farmhand",
+      "farmhouse",
+      "farmyard",
+      "farmstead",
+      "farmland",
+      "nonfarm",
+      "farms",
+      "farmers"
+    ],
+    "exclude": {
+      "farm-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

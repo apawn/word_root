@@ -1,0 +1,738 @@
+[
+  {
+    "word": "child",
+    "ipa": "/tʃaɪld/",
+    "meaning": "孩子；子女",
+    "sense": "一种是年龄还小的人，一种是父母眼里的儿女：后者长大了也还是 someone’s child。",
+    "split": "接古英语 ċild，是英语本族继承词。更远可联系古日耳曼语的孩子、胎儿等词族，但不能按现代拼写随便拆 ch + ild。复数 children 是历史保留形式。",
+    "history": [
+      [
+        "古英语 ċild → 中古英语 child",
+        "孩子、子女"
+      ],
+      [
+        "现代英语 child；复数 children",
+        "小孩；不论年龄的某人的子女"
+      ]
+    ],
+    "explanation": "a young child 小孩，an adult child 成年子女；an only child 独生子女。child 在具体制度里的年龄界限要看该制度，不由词本身统一规定。",
+    "usage": "an only child；a child of ten；adult children；as a child。",
+    "contrast": "child 单数，children 复数，不写 childs；childhood 是童年这段时期，不是孩子的集合。",
+    "examples": [
+      [
+        "I loved drawing when I was a child.",
+        "我小时候很喜欢画画。"
+      ],
+      [
+        "Their children are all adults now.",
+        "他们的子女现在都已成年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/child#English"
+    ]
+  },
+  {
+    "word": "childhood",
+    "ipa": "/ˈtʃaɪldhʊd/",
+    "meaning": "童年；儿童时期",
+    "sense": "把小时候那一整段生活拿出来说，包括住过的地方、玩伴和记忆。",
+    "split": "child + -hood，-hood 表身份、状态或阶段；古英语 ċildhād 已有这一组合的旧形式。这里 hood 不是帽兜。",
+    "history": [
+      [
+        "古英语 ċild → 中古英语 child",
+        "孩子、子女"
+      ],
+      [
+        "现代英语 child；复数 children",
+        "小孩；不论年龄的某人的子女"
+      ],
+      [
+        "古英语 ċildhād → childhood",
+        "作为孩子的阶段 → 童年"
+      ]
+    ],
+    "explanation": "during childhood 在童年，a childhood friend 小时结识的朋友；童年朋友今天可能早已成年。",
+    "usage": "early childhood；childhood memories；a childhood friend；during childhood。",
+    "contrast": "childhood 童年阶段，childish 孩子气的；childhood memories 是童年记忆，不是幼稚的记忆。",
+    "examples": [
+      [
+        "She spent her childhood near the sea.",
+        "她在海边度过童年。"
+      ],
+      [
+        "The smell brought back childhood memories.",
+        "这个气味唤起了童年记忆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childhood#English"
+    ]
+  },
+  {
+    "word": "childish",
+    "ipa": "/ˈtʃaɪldɪʃ/",
+    "meaning": "孩子气的；幼稚的",
+    "sense": "把本该成熟处理的事，用赌气、争宠等方式处理，就常被批评为 childish。",
+    "split": "child + -ish，古英语已有 ċildisċ。-ish 表带某种特征；现代说成年人的 childish behaviour 通常带不成熟的批评。",
+    "history": [
+      [
+        "古英语 ċild → 中古英语 child",
+        "孩子、子女"
+      ],
+      [
+        "现代英语 child；复数 children",
+        "小孩；不论年龄的某人的子女"
+      ],
+      [
+        "child + -ish → childish",
+        "像孩子的 → 常引申不成熟、幼稚"
+      ]
+    ],
+    "explanation": "a childish argument 幼稚的争论，childish behaviour 孩子气的行为；历史和个别语境也能中性描述儿童特点，不能把贬义当成后缀永恒规则。",
+    "usage": "childish behaviour；a childish reaction；a childish argument。",
+    "contrast": "childish 常批评不成熟；childlike 常欣赏天真、好奇。a childish tantrum 发脾气，与 childlike wonder 童真般惊奇感觉不同。",
+    "examples": [
+      [
+        "Refusing to speak to everyone was a childish reaction.",
+        "拒绝和所有人说话，是一种幼稚的反应。"
+      ],
+      [
+        "Their childish argument wasted half the meeting.",
+        "他们幼稚的争论浪费了半场会议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childish#English"
+    ]
+  },
+  {
+    "word": "childlike",
+    "ipa": "/ˈtʃaɪldlaɪk/",
+    "meaning": "像孩子的；天真纯朴的",
+    "sense": "年纪大了，却还保留孩子看到新事物时那份好奇、信任或惊喜。",
+    "split": "child + -like 像……的；两个部分的意义都还清楚。通常比 childish 更少责备意味，但具体评价仍看所修饰的内容。",
+    "history": [
+      [
+        "古英语 ċild → 中古英语 child",
+        "孩子、子女"
+      ],
+      [
+        "现代英语 child；复数 children",
+        "小孩；不论年龄的某人的子女"
+      ],
+      [
+        "child + -like → childlike",
+        "孩子 → 像孩子的、常带童真意味"
+      ]
+    ],
+    "explanation": "childlike wonder 童真般的惊奇，childlike curiosity 孩子般的好奇，childlike trust 单纯的信任。",
+    "usage": "childlike wonder；childlike curiosity；childlike innocence。",
+    "contrast": "childlike 形容孩子般的特点，不等于 childish 幼稚，也不说明这个人实际未成年。",
+    "examples": [
+      [
+        "He looked at the stars with childlike wonder.",
+        "他带着孩子般的惊奇望着星星。"
+      ],
+      [
+        "She never lost her childlike curiosity.",
+        "她一直保留着孩子般的好奇心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childlike#English"
+    ]
+  },
+  {
+    "word": "childless",
+    "ipa": "/ˈtʃaɪldləs/",
+    "meaning": "没有子女的",
+    "sense": "只说一个人或家庭没有孩子，不用这个词就能判断原因或心情。",
+    "split": "child + -less 没有……的，中古英语已有相应形式。它说明有无子女，不说明选择、生育能力或法律关系的具体原因。",
+    "history": [
+      [
+        "古英语 ċild → 中古英语 child",
+        "孩子、子女"
+      ],
+      [
+        "现代英语 child；复数 children",
+        "小孩；不论年龄的某人的子女"
+      ],
+      [
+        "child + -less → childless",
+        "孩子 → 没有子女的"
+      ]
+    ],
+    "explanation": "a childless couple 没有子女的伴侣；remain childless 一直没有子女。是否自愿、是否遗憾，需要上下文补充。",
+    "usage": "a childless couple；remain childless；childless adults。",
+    "contrast": "childless 没有子女，不等于 childish 幼稚。日常 childfree 常强调主动选择不生育，但不能据此替所有人推断个人想法。",
+    "examples": [
+      [
+        "The novel follows a childless couple living in a small town.",
+        "小说讲述了一对没有子女、住在小镇的伴侣。"
+      ],
+      [
+        "The survey included parents and childless adults.",
+        "调查包括有子女者和没有子女的成年人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childless#English"
+    ]
+  },
+  {
+    "word": "stepchild",
+    "ipa": "/ˈsteptʃaɪld/",
+    "meaning": "继子；继女",
+    "sense": "孩子是伴侣与别人生的，婚姻把你们连成了继亲关系。",
+    "split": "step- 继亲关系 + child，古英语 stēopċild 已有旧形式。step- 历史关联失去亲属、孤儿等词族，不是走一步的 step；现代继亲关系不要求原父母已经去世。",
+    "history": [
+      [
+        "古英语 ċild → 中古英语 child",
+        "孩子、子女"
+      ],
+      [
+        "古英语 stēopċild → stepchild",
+        "历史继亲称谓 → 继子、继女"
+      ]
+    ],
+    "explanation": "his stepchild 他的继子女；复数 stepchildren。也会引申指被忽视、得不到足够资源的部门或事物。",
+    "usage": "a stepchild；stepchildren；a neglected stepchild。",
+    "contrast": "stepchild 由继亲关系来，adopted child 由收养关系来；二者不能只因不是生物学子女就互换。",
+    "examples": [
+      [
+        "She has two children and one stepchild.",
+        "她有两个自己的孩子和一个继子女。"
+      ],
+      [
+        "The museum had become the neglected stepchild of the local arts budget.",
+        "在当地艺术预算中，这家博物馆已成了不受重视的一块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepchild#English",
+      "https://www.etymonline.com/word/step-"
+    ]
+  },
+  {
+    "word": "brainchild",
+    "ipa": "/ˈbreɪntʃaɪld/",
+    "meaning": "某人的创意；心血结晶",
+    "sense": "孩子由人养出来，创意由脑子想出来：把项目当作构思者的孩子，是一个形象比喻。",
+    "split": "brain 脑、头脑 + child 孩子，复合成创意成果的固定比喻。不是一种脑部器官，也不是 children 的医学名称。",
+    "history": [
+      [
+        "brain 头脑；child 孩子",
+        "并列构词部分"
+      ],
+      [
+        "brainchild",
+        "某人构想、发起的成果"
+      ]
+    ],
+    "explanation": "the brainchild of someone 某人构思出来的项目；可用于展览、组织、产品等，不保证一定是一个人独自完成全部工作。",
+    "usage": "the brainchild of；someone’s brainchild；a new brainchild。",
+    "contrast": "idea 可以只是一个想法，brainchild 常指能归给某个构思者的计划、项目或成果，带亲手孕育的意味。",
+    "examples": [
+      [
+        "The reading club is the brainchild of two local teachers.",
+        "读书会是两位当地老师想出来并发起的。"
+      ],
+      [
+        "The exhibition was her brainchild, but the whole team helped build it.",
+        "展览是她的创意，但整个团队都参与了落实。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brainchild#English"
+    ]
+  },
+  {
+    "word": "childbearing",
+    "ipa": "英 /ˈtʃaɪldbeərɪŋ/；美 /ˈtʃaɪldberɪŋ/",
+    "meaning": "生育；与生育有关的",
+    "sense": "把怀孕、生孩子这一类过程作为一个整体话题来谈，语气比较正式。",
+    "split": "child + bearing；bearing 来自 bear 的孕育、生产义，不是熊。中古英语已有相应组合，不要把整个词只理解成用手抱孩子。",
+    "history": [
+      [
+        "child 孩子；bearing 孕育、生产",
+        "并列构词部分"
+      ],
+      [
+        "childbearing",
+        "生育及相关过程"
+      ]
+    ],
+    "explanation": "childbearing decisions 生育决定，childbearing years 常指通常可能生育的年龄阶段；不是每个人都必须或能够生育。",
+    "usage": "childbearing decisions；childbearing years；patterns of childbearing。",
+    "contrast": "childbearing 是较宽的生育话题，childbirth 更聚焦分娩；childcare 是照料儿童，重点又不同。",
+    "examples": [
+      [
+        "The study examines changes in childbearing patterns.",
+        "研究考察了生育模式的变化。"
+      ],
+      [
+        "They discussed how work affected their childbearing decisions.",
+        "他们讨论了工作如何影响自己的生育决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childbearing#English"
+    ]
+  },
+  {
+    "word": "father",
+    "ipa": "英 /ˈfɑːðə/；美 /ˈfɑːðər/",
+    "meaning": "父亲；奠基人；成为……的父亲",
+    "sense": "最普通是爸爸；引申时，一个人像开启某条路的父辈，也可以叫这一领域的 father。",
+    "split": "由古英语 fæder 延续，经中古英语 fader 成为 father。与拉丁语 pater 等是远处同源的亲属词，不是现代英语直接从 pater 借来。",
+    "history": [
+      [
+        "古英语 fæder → 中古英语 fader",
+        "父亲"
+      ],
+      [
+        "英语 father",
+        "父亲；父亲般的人；创始者、先驱"
+      ]
+    ],
+    "explanation": "my father 我的父亲，a founding father 创始人之一；father 作动词可说成为孩子的生父，也可较正式地说发起、创立。宗教里的 Father 还是称谓。",
+    "usage": "a single father；a founding father；like a father to someone；father a child。",
+    "contrast": "father 普通或较正式，dad 通常更亲近口语；a father figure 是父亲般的榜样、照顾者，不必是生父。",
+    "examples": [
+      [
+        "My father taught me how to repair a bicycle.",
+        "父亲教过我怎样修自行车。"
+      ],
+      [
+        "He is regarded as one of the fathers of the movement.",
+        "他被视为这场运动的奠基人之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/father#English"
+    ]
+  },
+  {
+    "word": "fatherhood",
+    "ipa": "英 /ˈfɑːðəhʊd/；美 /ˈfɑːðərhʊd/",
+    "meaning": "父亲身份；为父的经历",
+    "sense": "不只说某个爸爸是谁，而是说当父亲这件事带来的角色、生活和责任。",
+    "split": "father + -hood，-hood 表身份、状态；中古英语已有相应组合。不是父亲戴的 hood 帽子。",
+    "history": [
+      [
+        "古英语 fæder → 中古英语 fader",
+        "父亲"
+      ],
+      [
+        "英语 father",
+        "父亲；父亲般的人；创始者、先驱"
+      ],
+      [
+        "father + -hood → fatherhood",
+        "父亲 → 为父的身份、经历"
+      ]
+    ],
+    "explanation": "adjust to fatherhood 适应父亲角色，the joys of fatherhood 为父的快乐；具体经历因人而异。",
+    "usage": "adjust to fatherhood；the responsibilities of fatherhood；early fatherhood。",
+    "contrast": "father 一个人，fatherhood 一个角色及相关经历；fathers 的复数不是 fatherhood。",
+    "examples": [
+      [
+        "He wrote about the surprises of fatherhood.",
+        "他写了为父经历中那些出乎意料的事。"
+      ],
+      [
+        "Fatherhood changed the way he planned his time.",
+        "当父亲改变了他安排时间的方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fatherhood#English"
+    ]
+  },
+  {
+    "word": "fatherly",
+    "ipa": "英 /ˈfɑːðəli/；美 /ˈfɑːðərli/",
+    "meaning": "父亲般的；慈爱、关切的",
+    "sense": "说话或照顾人的样子，让人想到一位关心晚辈的父亲。",
+    "split": "father + -ly，古英语 fæderlīċ 已有相应形容词。这里 -ly 形成形容词，不要见到 -ly 就一律当副词。",
+    "history": [
+      [
+        "古英语 fæder → 中古英语 fader",
+        "父亲"
+      ],
+      [
+        "英语 father",
+        "父亲；父亲般的人；创始者、先驱"
+      ],
+      [
+        "古英语 fæderlīċ → fatherly",
+        "父亲般的、带父辈关切的"
+      ]
+    ],
+    "explanation": "fatherly advice 父亲般的忠告，a fatherly smile 慈爱的微笑；不要求说话者真的与对方有亲子关系。",
+    "usage": "fatherly advice；fatherly concern；a fatherly smile。",
+    "contrast": "fatherly 是待人方式像父亲；fatherhood 是父亲身份。一个并非父亲的人也可以 give fatherly advice。",
+    "examples": [
+      [
+        "The coach gave him some fatherly advice.",
+        "教练给了他一些父亲般的忠告。"
+      ],
+      [
+        "He watched the new students with fatherly concern.",
+        "他带着父亲般的关切看着新生们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fatherly#English"
+    ]
+  },
+  {
+    "word": "fatherless",
+    "ipa": "英 /ˈfɑːðələs/；美 /ˈfɑːðərləs/",
+    "meaning": "没有父亲的；缺少父亲照顾的",
+    "sense": "生活里没有父亲在场、陪伴或照顾，具体是去世还是离开，要看上下文。",
+    "split": "father + -less 没有……的，古英语 fæderlēas 已有对应形式。词本身不完整交代家庭故事。",
+    "history": [
+      [
+        "古英语 fæder → 中古英语 fader",
+        "父亲"
+      ],
+      [
+        "英语 father",
+        "父亲；父亲般的人；创始者、先驱"
+      ],
+      [
+        "古英语 fæderlēas → fatherless",
+        "没有父亲、缺少父亲的"
+      ]
+    ],
+    "explanation": "a fatherless child 缺少父亲的孩子；常见于叙事、社会讨论。不能只据这个词推断孩子是否也缺少其他家人支持。",
+    "usage": "a fatherless child；grow up fatherless；leave someone fatherless。",
+    "contrast": "fatherless 缺少父亲，orphan 孤儿的使用范围需看具体语境；fatherless 不等于一个家庭没有任何照顾者。",
+    "examples": [
+      [
+        "The novel’s hero grew up fatherless.",
+        "小说主人公在没有父亲的环境中长大。"
+      ],
+      [
+        "After his father died, the fatherless boy was raised by his aunt.",
+        "父亲去世后，这个失去父亲的男孩由姑妈抚养。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fatherless#English"
+    ]
+  },
+  {
+    "word": "stepfather",
+    "ipa": "英 /ˈstepfɑːðə/；美 /ˈstepfɑːðər/",
+    "meaning": "继父",
+    "sense": "母亲后来的丈夫，与孩子形成继亲关系；不是靠词本身判断感情好坏。",
+    "split": "step- 继亲 + father，古英语 stēopfæder 已有旧形式。step- 与走路的 step 不是这里的同一个构词故事。",
+    "history": [
+      [
+        "古英语 fæder → 中古英语 fader",
+        "父亲"
+      ],
+      [
+        "古英语 stēopfæder → stepfather",
+        "继亲称谓 → 继父"
+      ]
+    ],
+    "explanation": "her stepfather 她的继父；是具体亲属关系称谓，不等于所有像父亲照顾自己的人。",
+    "usage": "a stepfather；her mother and stepfather；become someone’s stepfather。",
+    "contrast": "stepfather 继父，grandfather 祖父、外祖父，godfather 教父；三者不是父亲之外同一个模糊称呼。",
+    "examples": [
+      [
+        "Her stepfather helped her prepare for the exam.",
+        "她的继父帮助她备考。"
+      ],
+      [
+        "He became a stepfather when he married a woman with two children.",
+        "他与一位有两个孩子的女性结婚后，成为了继父。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepfather#English"
+    ]
+  },
+  {
+    "word": "forefather",
+    "ipa": "英 /ˈfɔːfɑːðə/；美 /ˈfɔːrfɑːðər/",
+    "meaning": "祖先；先辈；先驱",
+    "sense": "把时间往前推，走在我们前面、留下生活方式或思想基础的那几代人。",
+    "split": "fore- 在前、先前 + father；古英语 forefæder 等已有历史形式。这里 fore- 是时间在前，不是数字 four。",
+    "history": [
+      [
+        "古英语 fæder → 中古英语 fader",
+        "父亲"
+      ],
+      [
+        "古英语 forefæder → forefather",
+        "早先的父辈 → 祖先、先驱"
+      ]
+    ],
+    "explanation": "our forefathers 我们的先辈，the forefathers of a movement 某运动的先驱；通常用复数，语气比 ancestors 更带历史、传统或奠基意味。",
+    "usage": "our forefathers；the land of our forefathers；the forefathers of a movement。",
+    "contrast": "forefather 祖先、先驱，不只指 grandfather 祖父；不必理解成恰好四位父亲。",
+    "examples": [
+      [
+        "The villagers preserved the songs of their forefathers.",
+        "村民保留了先辈们的歌曲。"
+      ],
+      [
+        "The exhibition honours the forefathers of modern photography.",
+        "展览向现代摄影的先驱致敬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forefather#English"
+    ]
+  },
+  {
+    "word": "mother",
+    "ipa": "英 /ˈmʌðə/；美 /ˈmʌðər/",
+    "meaning": "母亲；像母亲般照顾；根源、母体",
+    "sense": "先是妈妈，再把照料、孕育或作为来源的关系借给其他事物。",
+    "split": "由古英语 mōdor 延续，经中古英语 moder 成为 mother；与拉丁 māter 等同属古老亲属词族，不是现代英语从拉丁词直接借入。",
+    "history": [
+      [
+        "古英语 mōdor → 中古英语 moder",
+        "母亲"
+      ],
+      [
+        "英语 mother",
+        "母亲；像母亲般照顾；来源、中心等比喻"
+      ]
+    ],
+    "explanation": "my mother 我的母亲，mother tongue 母语；mother 作动词是像母亲般照顾，有时也带照顾过头的意味。the mother of invention 等固定表达借母亲表示产生来源。",
+    "usage": "a single mother；mother tongue；a mother figure；mother someone。",
+    "contrast": "mother 常规或较正式，mum、mom 多为亲近口语；mother tongue 不要求一定由母亲一人教会。",
+    "examples": [
+      [
+        "My mother grew up in a mountain village.",
+        "我母亲在山村长大。"
+      ],
+      [
+        "Please stop mothering me; I can pack my own bag.",
+        "别再事事照顾我了，我能自己收拾包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mother#English"
+    ]
+  },
+  {
+    "word": "motherhood",
+    "ipa": "英 /ˈmʌðəhʊd/；美 /ˈmʌðərhʊd/",
+    "meaning": "母亲身份；为母的经历",
+    "sense": "说的是当母亲这件事及其生活经验，而不是某一位母亲是谁。",
+    "split": "mother + -hood 表身份、状态，中古英语已有相应形式。可与 fatherhood 对照，-hood 不表示帽子。",
+    "history": [
+      [
+        "古英语 mōdor → 中古英语 moder",
+        "母亲"
+      ],
+      [
+        "英语 mother",
+        "母亲；像母亲般照顾；来源、中心等比喻"
+      ],
+      [
+        "mother + -hood → motherhood",
+        "母亲 → 为母身份及经历"
+      ]
+    ],
+    "explanation": "the experience of motherhood 为母经历，adjust to motherhood 适应母亲角色；词本身不规定某个人一定会怎样感受。",
+    "usage": "early motherhood；the experience of motherhood；adjust to motherhood。",
+    "contrast": "motherhood 母亲角色、经历，mothering 偏照料行为；有照料行为不等于一定拥有生物学母亲身份。",
+    "examples": [
+      [
+        "She wrote honestly about the challenges of motherhood.",
+        "她坦诚地写出了为母经历中的挑战。"
+      ],
+      [
+        "The book explores different experiences of motherhood.",
+        "书中探讨了不同的为母经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/motherhood#English"
+    ]
+  },
+  {
+    "word": "motherly",
+    "ipa": "英 /ˈmʌðəli/；美 /ˈmʌðərli/",
+    "meaning": "母亲般的；慈爱体贴的",
+    "sense": "关切、安慰或照料的方式，让人想到慈爱的母亲。",
+    "split": "mother + -ly，古英语 mōdorlīċ 已有对应形容词。这里 -ly 不是只能做副词的标记。",
+    "history": [
+      [
+        "古英语 mōdor → 中古英语 moder",
+        "母亲"
+      ],
+      [
+        "英语 mother",
+        "母亲；像母亲般照顾；来源、中心等比喻"
+      ],
+      [
+        "古英语 mōdorlīċ → motherly",
+        "母亲般的、带母亲般关切的"
+      ]
+    ],
+    "explanation": "a motherly smile 慈爱的微笑，motherly concern 母亲般的关切；可以说并非对方母亲的人。",
+    "usage": "motherly love；a motherly smile；motherly concern。",
+    "contrast": "motherly 形容态度和行为，motherhood 说角色与经历；两者不能只按母亲二字混用。",
+    "examples": [
+      [
+        "The landlady gave her a motherly smile.",
+        "女房东给了她一个母亲般慈爱的微笑。"
+      ],
+      [
+        "He appreciated the neighbour’s motherly concern.",
+        "他很感激邻居母亲般的关切。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/motherly#English"
+    ]
+  },
+  {
+    "word": "motherless",
+    "ipa": "英 /ˈmʌðələs/；美 /ˈmʌðərləs/",
+    "meaning": "没有母亲的；失去母亲的",
+    "sense": "母亲没有在生活中陪伴或照顾；常因去世，但具体原因需要上下文。",
+    "split": "mother + -less 没有……的，古英语 mōdorlēas 已有旧形式。没有母亲并不由一个词推断所有照顾关系。",
+    "history": [
+      [
+        "古英语 mōdor → 中古英语 moder",
+        "母亲"
+      ],
+      [
+        "英语 mother",
+        "母亲；像母亲般照顾；来源、中心等比喻"
+      ],
+      [
+        "古英语 mōdorlēas → motherless",
+        "没有母亲的、缺少母亲的"
+      ]
+    ],
+    "explanation": "a motherless child 失去或缺少母亲的孩子；也能形容幼小动物失去母兽照料。",
+    "usage": "a motherless child；motherless kittens；leave someone motherless。",
+    "contrast": "motherless 不等于 childless：前者缺母亲，后者没有子女；看清 -less 前面缺的是什么。",
+    "examples": [
+      [
+        "The story follows a motherless child and his grandmother.",
+        "故事围绕一个失去母亲的孩子和他的祖母展开。"
+      ],
+      [
+        "The shelter took in three motherless kittens.",
+        "收容所接收了三只失去母猫照料的小猫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/motherless#English"
+    ]
+  },
+  {
+    "word": "stepmother",
+    "ipa": "英 /ˈstepmʌðə/；美 /ˈstepmʌðər/",
+    "meaning": "继母",
+    "sense": "父亲后来的妻子，与孩子形成继亲关系；这个称谓本身不说明性格或感情。",
+    "split": "step- 继亲 + mother，古英语 stēopmōdor 已有相应称谓。不是 step 一步加 mother 的现代动作组合。",
+    "history": [
+      [
+        "古英语 mōdor → 中古英语 moder",
+        "母亲"
+      ],
+      [
+        "古英语 stēopmōdor → stepmother",
+        "继亲称谓 → 继母"
+      ]
+    ],
+    "explanation": "his stepmother 他的继母；a stepmother and her stepchildren 继母及继子女。童话里的固定人物形象，不是词义必含的性格。",
+    "usage": "her stepmother；a caring stepmother；become a stepmother。",
+    "contrast": "stepmother 继母，godmother 教母，grandmother 祖母、外祖母；亲属、宗教关系各不相同。",
+    "examples": [
+      [
+        "Her stepmother taught her to play chess.",
+        "她的继母教她下国际象棋。"
+      ],
+      [
+        "The memoir describes his close relationship with his stepmother.",
+        "回忆录描述了他与继母的亲密关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepmother#English"
+    ]
+  },
+  {
+    "word": "mothership",
+    "ipa": "英 /ˈmʌðəʃɪp/；美 /ˈmʌðərʃɪp/",
+    "meaning": "母舰；母船；中心基地、总部",
+    "sense": "小船或小飞行器从一个大平台出发、回来补给；就像围绕母体活动。",
+    "split": "这里是 mother 母体、中心 + ship 船，也写 mother ship。不要与旧有 mother + -ship 表母亲身份的同形组合混为一谈；此处 ship 是船这一完整词。",
+    "history": [
+      [
+        "mother 母体、中心；ship 船",
+        "并列构词部分"
+      ],
+      [
+        "mothership",
+        "为小型船只、飞行器服务的母舰；引申中心基地"
+      ]
+    ],
+    "explanation": "a spacecraft mothership 太空母舰；公司或组织中也可比喻提供资源、统筹工作的总部、中心。不是所有大船都自动叫 mothership。",
+    "usage": "return to the mothership；a corporate mothership；the spacecraft’s mothership。",
+    "contrast": "mothership 母舰、中心基地，motherhood 母亲身份；不能因为结尾都有母亲相关联想就当同一个后缀。",
+    "examples": [
+      [
+        "The small research craft returned to the mothership.",
+        "小型研究船返回了母船。"
+      ],
+      [
+        "The new studio remains connected to the company’s mothership.",
+        "新工作室仍与公司的总部保持联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mothership#English",
+      "https://dictionary.cambridge.org/dictionary/english/mother-ship",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/mothership"
+    ]
+  },
+  {
+    "word": "motherfucker",
+    "ipa": "英 /ˈmʌðəˌfʌkə/；美 /ˈmʌðərˌfʌkər/",
+    "meaning": "极粗俗的骂人话；也可粗俗地指人或棘手事物",
+    "sense": "影视对白里常是一声很重的咒骂，实际通常不在陈述字面上的亲属性关系。",
+    "split": "mother + fucker；字面材料带乱伦侮辱，所以语气很重。作为粗口逐渐有泛指讨厌的人、难对付的东西等用法，不必把每一次使用都按字面事实翻译。",
+    "history": [
+      [
+        "mother 母亲；fucker 粗俗人物称呼",
+        "并列构词部分"
+      ],
+      [
+        "motherfucker",
+        "强烈粗俗辱骂；语境中也泛指人、事物"
+      ]
+    ],
+    "explanation": "通常要从影视、歌曲、小说的强烈口语环境理解；朋友间或赞叹中偶有别的语气，但并不因此适合一般交流。翻译常按场景用混蛋、狠角色或咒骂词处理。",
+    "usage": "a word in angry dialogue；a heavily censored expletive；a coarse reference to a difficult task。",
+    "contrast": "不是普通的 mother 派生亲属称谓；不要把粗口的字面内容当成说话者正在提出真实指控。",
+    "examples": [
+      [
+        "The subtitle translates “motherfucker” as a strong insult.",
+        "字幕把 motherfucker 译作一句强烈的辱骂。"
+      ],
+      [
+        "The editor removed “motherfucker” from the children’s edition.",
+        "编辑从儿童版中删去了 motherfucker 这个粗口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/motherfucker#English"
+    ]
+  }
+]

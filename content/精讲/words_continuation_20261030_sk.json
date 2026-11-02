@@ -1,0 +1,473 @@
+[
+  {
+    "word": "coma",
+    "ipa": "英 /ˈkəʊmə/；美 /ˈkoʊmə/",
+    "meaning": "昏迷；彗发、像差等〔另源专业义〕",
+    "sense": "最常见是在报道、医疗叙述中说一个人处于昏迷：没有正常醒觉，不能像普通睡觉那样唤醒。",
+    "split": "昏迷义借自希腊 koma 深睡的学术拉丁化形式。天文学的彗发、光学像差等同形用法则联系另一希腊 kome 头发材料，不能合成一条历史。",
+    "history": [
+      [
+        "希腊 koma → 学术拉丁化 coma → 英语",
+        "深睡的旧名称转为昏迷术语"
+      ],
+      [
+        "另一希腊 kome 的头发材料",
+        "彗星周围的彗发等专业同形义"
+      ]
+    ],
+    "explanation": "be in a coma 处于昏迷；fall into a coma 陷入昏迷；come out of a coma 从昏迷中醒来。日常先抓这组。",
+    "usage": "a prolonged coma；in a coma。",
+    "contrast": "coma 是昏迷，comma 多一个 m，是逗号。词源中的深睡是旧命名画面，现代昏迷与普通睡眠有别。",
+    "examples": [
+      [
+        "The character falls into a coma near the end of the novel.",
+        "小说快结尾时，那个角色陷入了昏迷。"
+      ],
+      [
+        "The report said that he had come out of the coma.",
+        "报道说他已从昏迷中醒来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coma#English",
+      "https://www.etymonline.com/word/coma"
+    ]
+  },
+  {
+    "word": "comatose",
+    "ipa": "英 /ˈkɒmətəʊs/；美 /ˈkoʊmətoʊs/",
+    "meaning": "昏迷的；昏沉、反应迟钝的〔比喻〕",
+    "sense": "coma 是昏迷这个状态，comatose 把它变成形容词：人处于这种状态。日常夸张说累得昏沉，也可借这个词。",
+    "split": "采用希腊 koma 的扩展词干 komat-，加与拉丁 -osus 相连的 -ose 性质材料，英语也可能经法语 comateux 直接借入。中间 t 来自旧词干，不是另一个表示时间的后缀。",
+    "history": [
+      [
+        "希腊 koma、词干 komat- + 性质词尾",
+        "具有昏迷状态的相关形容词材料"
+      ],
+      [
+        "英语 comatose",
+        "昏迷的；后有昏沉、不活跃的比喻"
+      ]
+    ],
+    "explanation": "a comatose patient 昏迷病人；a comatose audience 听得昏沉、毫无反应的观众〔夸张〕。先看是否在正式医疗叙述中使用。",
+    "usage": "remain comatose；a comatose state。",
+    "contrast": "词末 -ose 在这里与 -ous 性质形容词材料相关；glucose、maltose 的糖名词尾是另一组用法。",
+    "examples": [
+      [
+        "The patient remained comatose in the hospital.",
+        "病人在医院中仍处于昏迷状态。"
+      ],
+      [
+        "By the final lecture, the tired audience looked almost comatose.",
+        "到最后一场讲座时，疲倦的听众看起来几乎都昏昏沉沉了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/comatose"
+    ]
+  },
+  {
+    "word": "maltose",
+    "ipa": "英 /ˈmɔːltəʊz/；美 /ˈmɔːltoʊz/",
+    "meaning": "麦芽糖",
+    "sense": "malt 是麦芽，-ose 提醒这是糖类名称；把它记成与麦芽、淀粉分解有关的一种糖，比死背化学式更容易。",
+    "split": "malt + 化学糖名词尾 -ose，形成近代名称。麦芽糖是由两个葡萄糖单位组成的双糖，名称突出早期发现、制取材料的关联。",
+    "history": [
+      [
+        "malt 麦芽 + 糖类命名 -ose",
+        "按照麦芽相关材料命名"
+      ],
+      [
+        "maltose 固定化学名称",
+        "麦芽糖这一种双糖"
+      ]
+    ],
+    "explanation": "maltose syrup 麦芽糖浆；the breakdown of starch into maltose 淀粉分解形成麦芽糖。词名给记忆线索，不限定只有麦芽里存在。",
+    "usage": "a maltose solution；maltose content。",
+    "contrast": "lactose 是乳糖，fructose 是果糖，maltose 是麦芽糖；同属糖名词尾，但各自物质不同。",
+    "examples": [
+      [
+        "The lesson explains how starch can break down into maltose.",
+        "这节课讲解了淀粉怎样分解形成麦芽糖。"
+      ],
+      [
+        "The label lists maltose syrup as an ingredient.",
+        "标签把麦芽糖浆列为一种配料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maltose#English"
+    ]
+  },
+  {
+    "word": "ammonia",
+    "ipa": "英 /əˈməʊniə/；美 /əˈmoʊniə/",
+    "meaning": "氨；氨水〔依日常搭配〕",
+    "sense": "一种有明显刺激性气味的气体，化学名是氨；清洁用品等日常场景里，ammonia 也常借指它的水溶液。",
+    "split": "名称与拉丁 sal ammoniacus 氨盐等旧名称相连，旧名又联系 Ammon 神庙、相应地域名称的历史。后来化学命名把 ammonia 固定给氨；不是 am + mon + ia 拼装。",
+    "history": [
+      [
+        "旧 sal ammoniacus、Ammon 相关名称",
+        "历史上的氨盐名称材料"
+      ],
+      [
+        "近代 ammonia",
+        "氨这一化合物；日常也指氨水"
+      ]
+    ],
+    "explanation": "ammonia gas 氨气；an ammonia solution 氨水；an ammonia smell 氨味。分子式 NH3，名称与 ammonium 铵等属于相关词族。",
+    "usage": "ammonia production；a trace of ammonia。",
+    "contrast": "ammonia 氨与 amine 胺相关，但并非同一种物质。ammonia 日常指水溶液时，要按具体产品、句子理解。",
+    "examples": [
+      [
+        "The textbook gives NH3 as the formula for ammonia.",
+        "课本给出了氨的分子式 NH3。"
+      ],
+      [
+        "The report measured ammonia in the air near the farm.",
+        "报告测量了农场附近空气中的氨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ammonia#English"
+    ]
+  },
+  {
+    "word": "dopamine",
+    "ipa": "英 /ˈdəʊpəmiːn/；美 /ˈdoʊpəmiːn/",
+    "meaning": "多巴胺",
+    "sense": "可以先把它当成神经细胞之间传递信息的一种化学信使；它参与运动、动机和奖赏相关过程，作用比“快乐物质”这个外号丰富。",
+    "split": "DOPA 是相关氨基酸 dihydroxyphenylalanine 的缩写材料，加 amine 胺形成 dopamine，拼写合并时不保留两个相邻 a。它与 dope 的词源无关。",
+    "history": [
+      [
+        "DOPA + amine 的近代命名",
+        "相关前体缩写 + 胺类名称材料"
+      ],
+      [
+        "dopamine",
+        "多巴胺的化学、生理名称"
+      ]
+    ],
+    "explanation": "dopamine levels 多巴胺水平；dopamine signalling 多巴胺信号传递；dopamine receptors 多巴胺受体。",
+    "usage": "a dopamine pathway；the role of dopamine。",
+    "contrast": "多巴胺参与多个系统；把它一律等同于快乐，容易看不懂运动、动机等其他语境。词名也不能按 dope + mine 拆。",
+    "examples": [
+      [
+        "The lecture explained dopamine’s role in movement.",
+        "讲座介绍了多巴胺在运动中的作用。"
+      ],
+      [
+        "The researchers studied dopamine signalling in the brain.",
+        "研究人员研究了脑内的多巴胺信号传递。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dopamine",
+      "https://irp.nih.gov/scibites/hearing-the-hot-goss-among-movement-controlling-neurons",
+      "https://www.nimh.nih.gov/news/science-updates/2009/brain-scanning-gives-clues-to-how-genes-shape-behavior-disease-risk"
+    ]
+  },
+  {
+    "word": "histamine",
+    "ipa": "/ˈhɪstəmiːn/",
+    "meaning": "组胺",
+    "sense": "过敏相关报道里常遇到这个词：身体释放的一种信号物质，能参与血管、平滑肌等反应。它并不只是外来的有害物。",
+    "split": "histidine 组氨酸的部分词形 + amine 胺，缩合成 histamine。前部更远与希腊 histos 织物、组织的科学构词材料相连。",
+    "history": [
+      [
+        "histidine + amine 的缩合命名",
+        "相关氨基酸名称材料 + 胺"
+      ],
+      [
+        "histamine",
+        "组胺这一生物活性物质"
+      ]
+    ],
+    "explanation": "histamine release 组胺释放；histamine receptors 组胺受体。antihistamine 抗组胺药的名称可看作 anti- 对抗 + histamine。",
+    "usage": "a histamine response；histamine levels。",
+    "contrast": "histamine 是身体中的物质名；antihistamine 是对抗其某些作用的药物类别名称。末尾 amine 读 /əmiːn/，不是英文 mine 矿。",
+    "examples": [
+      [
+        "The article describes histamine release during an allergic reaction.",
+        "文章介绍了过敏反应中的组胺释放。"
+      ],
+      [
+        "Students compared different histamine receptors in the diagram.",
+        "学生们对照图示比较了不同的组胺受体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/histamine#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/histamine"
+    ]
+  },
+  {
+    "word": "glutamine",
+    "ipa": "/ˈɡluːtəmiːn/",
+    "meaning": "谷氨酰胺",
+    "sense": "先把它放进氨基酸这类身体、蛋白质相关的小分子中理解；名称跟谷氨酸词族及酰胺结构有关。",
+    "split": "gluta- 取 glutamic acid 谷氨酸相关词基，配合 -amine 的历史命名材料。化学结构上它是谷氨酸的酰胺，现代中文因此叫谷氨酰胺。",
+    "history": [
+      [
+        "glutamic acid 相关 gluta- + 命名词尾",
+        "谷氨酸词族的化学名称材料"
+      ],
+      [
+        "glutamine",
+        "谷氨酰胺，属于氨基酸"
+      ]
+    ],
+    "explanation": "glutamine metabolism 谷氨酰胺代谢；a glutamine molecule 一个谷氨酰胺分子；glutamine in proteins 蛋白质中的谷氨酰胺。",
+    "usage": "glutamine levels；glutamine synthesis。",
+    "contrast": "glutamate 谷氨酸相关形式与 glutamine 谷氨酰胺不是同一物质。名称相近反映词族、结构联系，不能互换。",
+    "examples": [
+      [
+        "The class examined the structure of glutamine.",
+        "课堂上研究了谷氨酰胺的结构。"
+      ],
+      [
+        "The study focused on glutamine metabolism.",
+        "这项研究聚焦谷氨酰胺代谢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glutamine#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/glutamine"
+    ]
+  },
+  {
+    "word": "nicotinic",
+    "ipa": "英 /ˌnɪkəˈtɪnɪk/；美 /ˌnɪkəˈtɪnɪk/",
+    "meaning": "尼古丁相关的；烟酸相关的〔依固定术语〕",
+    "sense": "nicotinic receptor 说一类以尼古丁反应命名的受体；nicotinic acid 却是烟酸，也就是维生素 B3 的一种形式。必须读完整搭配。",
+    "split": "nicotine + -ic，词尾调整形成相关形容词。后来的化学、生理术语固定出不同所指，旧命名联系不表示各物质效果相同。",
+    "history": [
+      [
+        "nicotine + -ic → nicotinic",
+        "与尼古丁等相关的形容词"
+      ],
+      [
+        "固定术语中的专门意义",
+        "nicotinic receptor；nicotinic acid"
+      ]
+    ],
+    "explanation": "nicotinic acid 烟酸；nicotinic receptors 烟碱型受体。认识术语后再看上下文讨论的是维生素、受体还是其他化学关系。",
+    "usage": "nicotinic acid；a nicotinic receptor。",
+    "contrast": "nicotinic acid 与 nicotine 是不同物质，名字接近属于历史化学命名关系；词尾 -ic 也不能替代对完整名称的理解。",
+    "examples": [
+      [
+        "The glossary lists nicotinic acid as a form of vitamin B3.",
+        "词汇表把烟酸列为维生素 B3 的一种形式。"
+      ],
+      [
+        "The lecture introduced nicotinic receptors.",
+        "讲座介绍了烟碱型受体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicotinic#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/nicotinic-acid"
+    ]
+  },
+  {
+    "word": "nicotinamide",
+    "ipa": "英 /ˌnɪkəˈtɪnəmaɪd/；美 /ˌnɪkəˈtɪnəmaɪd/",
+    "meaning": "烟酰胺，也叫 niacinamide",
+    "sense": "护肤、营养标签里常见的烟酰胺名称；它是维生素 B3 的一种形式，和尼古丁并不是同一个东西。",
+    "split": "nicotine 词族材料与 amide 酰胺的命名组合，名称所指是 nicotinic acid 烟酸的酰胺。这里关键词尾是 -amide，不是 -amine 胺。",
+    "history": [
+      [
+        "nicotinic acid + 酰胺命名材料",
+        "与烟酸对应的酰胺结构"
+      ],
+      [
+        "nicotinamide；另一名 niacinamide",
+        "同一种物质的两种常用英文名称"
+      ]
+    ],
+    "explanation": "a product containing nicotinamide 含烟酰胺的产品；nicotinamide on an ingredient list 成分表中的烟酰胺。",
+    "usage": "nicotinamide content；nicotinamide and niacin。",
+    "contrast": "nicotinamide 与 niacinamide 是同物异名；nicotinic acid 是烟酸，nicotine 是尼古丁。区分词尾、读完整名称。",
+    "examples": [
+      [
+        "The ingredient list includes nicotinamide.",
+        "成分表中列有烟酰胺。"
+      ],
+      [
+        "The book explains that nicotinamide is also called niacinamide.",
+        "书中说明，nicotinamide 也叫 niacinamide。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicotinamide#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/niacinamide"
+    ]
+  },
+  {
+    "word": "kerosene",
+    "ipa": "英 /ˈkerəsiːn/；美 /ˈkerəsiːn/",
+    "meaning": "煤油",
+    "sense": "旧式照明灯、部分取暖及燃料语境中的煤油。词里的 wax 蜡是命名历史线索，今天的煤油不是一块固体蜡。",
+    "split": "近代名称采用希腊 keros 蜡 + 化学命名 -ene，早期曾用作商品名称，后来成为通名。它是燃料混合物名称，不按末尾 -ene 判断成某一种纯烯烃。",
+    "history": [
+      [
+        "希腊 keros 蜡 + -ene 的近代命名",
+        "借蜡相关材料形成燃料名称"
+      ],
+      [
+        "商品名传播、通名化",
+        "kerosene 煤油"
+      ]
+    ],
+    "explanation": "a kerosene lamp 煤油灯；a kerosene heater 煤油取暖器；kerosene fuel 煤油燃料。英国部分语境也把它叫 paraffin。",
+    "usage": "a can of kerosene；kerosene lamps。",
+    "contrast": "petrol／gasoline 是汽油，kerosene 是煤油。不同地区燃料名称有固定习惯，不能只按一个后缀推物质类别。",
+    "examples": [
+      [
+        "A kerosene lamp stood on the wooden table.",
+        "木桌上放着一盏煤油灯。"
+      ],
+      [
+        "The museum displays old kerosene heaters.",
+        "博物馆陈列着旧式煤油取暖器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/kerosene#English"
+    ]
+  },
+  {
+    "word": "carrot",
+    "ipa": "/ˈkærət/",
+    "meaning": "胡萝卜；诱因、奖励〔比喻〕",
+    "sense": "最熟悉是可食用的根；谈做事激励时，又像在前面放一根胡萝卜，引着人往目标走。",
+    "split": "经中古英语、法语 carotte 等接拉丁 carota，远到希腊 karoton 的植物名称。奖励义从 carrot and stick 胡萝卜加大棒的激励、惩罚比喻扩展。",
+    "history": [
+      [
+        "希腊 karoton → 拉丁 carota → 法语相关形式",
+        "胡萝卜植物名称"
+      ],
+      [
+        "英语 carrot 的比喻",
+        "拿来吸引行动的奖励、诱因"
+      ]
+    ],
+    "explanation": "slice a carrot 切胡萝卜；a financial carrot 金钱诱因；carrots and sticks 奖惩手段。普通食物名、比喻都常见。",
+    "usage": "carrot soup；offer a carrot。",
+    "contrast": "carat 是宝石重量的克拉，carrot 是胡萝卜；读音接近，但拼写、来源和用途不同。",
+    "examples": [
+      [
+        "She sliced a carrot for the soup.",
+        "她切了一根胡萝卜准备煮汤。"
+      ],
+      [
+        "The bonus was offered as a carrot to attract new staff.",
+        "奖金被用作吸引新员工的诱因。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carrot#English"
+    ]
+  },
+  {
+    "word": "carotene",
+    "ipa": "/ˈkærətiːn/",
+    "meaning": "胡萝卜素",
+    "sense": "胡萝卜的橙色能帮你记名字；carotene 是一类黄到橙红色的植物色素名称，也能出现在其他植物里。",
+    "split": "carrot 对应的植物词基加化学名词尾 -ene，词形调整为 carotene。名称联系胡萝卜，不表示它只存在于胡萝卜中。",
+    "history": [
+      [
+        "carrot 相关植物词基 + -ene",
+        "按胡萝卜关联命名色素"
+      ],
+      [
+        "carotene",
+        "胡萝卜素类；具体异构体依完整名称区分"
+      ]
+    ],
+    "explanation": "carotene pigments 胡萝卜素色素；beta carotene β-胡萝卜素。部分相关物质可作为维生素 A 的前体，具体名称还要分清。",
+    "usage": "carotene content；orange carotene pigments。",
+    "contrast": "carotene 是色素类名称，carrot 是蔬菜；carotenoid 是范围更广的类胡萝卜素名称，两者范围不完全相同。",
+    "examples": [
+      [
+        "Carotene contributes to the orange colour of carrots.",
+        "胡萝卜素有助于形成胡萝卜的橙色。"
+      ],
+      [
+        "The lesson introduces carotene as a plant pigment.",
+        "这节课把胡萝卜素作为一种植物色素来介绍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carotene#English"
+    ]
+  },
+  {
+    "word": "acetylene",
+    "ipa": "/əˈsetɪliːn/",
+    "meaning": "乙炔",
+    "sense": "常在焊接、工业燃气语境遇到的气体名称；最简单的炔烃，两个碳之间有三键。先抓物质身份，再看命名历史。",
+    "split": "从法语 acetylene 对应的 acétylène 借入，由化学家用当时的 acetyl 材料加 -ene 命名。acetyl 在命名史中的所指还曾变化，不能用今天的词义机械拼回分子结构。",
+    "history": [
+      [
+        "旧化学 acetyl + -ene → 法语 acétylène",
+        "按当时命名材料创造名称"
+      ],
+      [
+        "英语 acetylene",
+        "乙炔，化学式 C2H2"
+      ]
+    ],
+    "explanation": "acetylene gas 乙炔气；an acetylene torch 乙炔焊炬；acetylene in industrial use 工业用途的乙炔。",
+    "usage": "acetylene production；an acetylene flame。",
+    "contrast": "词尾 -ene 在这条旧名称里，不代表乙炔就是烯烃；乙炔属于炔烃，现代系统名称还可见 ethyne。",
+    "examples": [
+      [
+        "The textbook gives C2H2 as the formula for acetylene.",
+        "课本给出了乙炔的分子式 C2H2。"
+      ],
+      [
+        "The exhibit explains the industrial uses of acetylene.",
+        "展览介绍了乙炔的工业用途。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acetylene#English",
+      "https://www.etymonline.com/word/-ene"
+    ]
+  },
+  {
+    "word": "styrene",
+    "ipa": "/ˈstaɪriːn/",
+    "meaning": "苯乙烯",
+    "sense": "一种用来制造聚苯乙烯等材料的小分子；在 polystyrene 前面去掉表示许多的 poly-，就能看见 styrene 这个单体名称。",
+    "split": "取 Styrax、storax 安息香类树木、树脂名称材料，加化学名词尾 -ene。早期发现来源参与命名，后来成为固定化学名称。",
+    "history": [
+      [
+        "Styrax／storax 树木、树脂材料 + -ene",
+        "按早期来源关联命名"
+      ],
+      [
+        "styrene → polystyrene 的材料关系",
+        "苯乙烯；聚合后形成聚苯乙烯"
+      ]
+    ],
+    "explanation": "styrene monomer 苯乙烯单体；styrene production 苯乙烯生产；polystyrene 聚苯乙烯是它的常见相关词。",
+    "usage": "styrene polymers；a styrene molecule。",
+    "contrast": "styrene 是单体名称，polystyrene 是聚合材料名称；poly- 说明许多单元连接起来，二者不能当同一个物质名互换。",
+    "examples": [
+      [
+        "Polystyrene is made from styrene monomers.",
+        "聚苯乙烯由苯乙烯单体制成。"
+      ],
+      [
+        "The diagram shows a styrene molecule.",
+        "图示展示了一个苯乙烯分子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/styrene#English",
+      "https://www.etymonline.com/word/-ene"
+    ]
+  }
+]

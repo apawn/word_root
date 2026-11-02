@@ -1,0 +1,968 @@
+[
+  {
+    "word": "healthy",
+    "ipa": "/ˈhelθi/",
+    "meaning": "健康的；有益健康的；良好、充足的",
+    "sense": "身体运转得好；用到关系、业务等，也像一套系统顺畅、状态良好。",
+    "split": "health + -y，-y 形成具有相应性质的形容词；th 是 /θ/，不要读作 /ð/。",
+    "history": [
+      [
+        "古英语 hǣlþ → 中古英语 helthe",
+        "健康、完好，与 whole 的完整词族有关"
+      ],
+      [
+        "英语 health",
+        "健康；运行良好、健全的状态"
+      ],
+      [
+        "health + -y → healthy",
+        "健康；有助健康；良好、健全"
+      ]
+    ],
+    "explanation": "a healthy child 身体健康的孩子，a healthy diet 有益健康的饮食；healthy competition 是良性竞争，a healthy profit 可说可观利润。",
+    "usage": "stay healthy；a healthy diet；healthy competition；a healthy relationship。",
+    "contrast": "healthy 不只形容人，也能形容有益健康的食物、习惯；不用把后者强制全部改成 healthful。",
+    "examples": [
+      [
+        "The children look happy and healthy.",
+        "孩子们看起来开心又健康。"
+      ],
+      [
+        "The team encourages healthy debate.",
+        "团队鼓励良性讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/healthy#English"
+    ]
+  },
+  {
+    "word": "unhealthy",
+    "ipa": "/ʌnˈhelθi/",
+    "meaning": "不健康的；有害健康的；不良、失衡的",
+    "sense": "身体状态不好，或生活、关系里的某种模式越走越不对劲。",
+    "split": "un-（不）+ healthy，否定整个形容词；不是 un + health + ly。",
+    "history": [
+      [
+        "古英语 hǣlþ → 中古英语 helthe",
+        "健康、完好，与 whole 的完整词族有关"
+      ],
+      [
+        "英语 health",
+        "健康；运行良好、健全的状态"
+      ],
+      [
+        "healthy → un- + healthy → unhealthy",
+        "不健康、对健康不利；不良的"
+      ]
+    ],
+    "explanation": "unhealthy habits 不良习惯，an unhealthy relationship 不健康的关系，unhealthy competition 恶性竞争。抽象义指失衡、有害，不是说一段关系感染了病菌。",
+    "usage": "unhealthy habits；an unhealthy relationship；unhealthy competition。",
+    "contrast": "unhealthy 可以描述人本身，也可以描述环境、做法的影响；unhappy 只说不开心，二者不等同。",
+    "examples": [
+      [
+        "The article examines unhealthy working habits.",
+        "文章考察了不良工作习惯。"
+      ],
+      [
+        "Their rivalry had become unhealthy.",
+        "他们的竞争已经变得不良、失衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unhealthy#English"
+    ]
+  },
+  {
+    "word": "healthful",
+    "ipa": "/ˈhelθfəl/",
+    "meaning": "有益健康的",
+    "sense": "重点不是东西自己身体好，而是它对人的健康有好处。",
+    "split": "health + -ful，中古英语有 helthful 等形式；-ful 形成性质形容词，不是字面装满健康。",
+    "history": [
+      [
+        "古英语 hǣlþ → 中古英语 helthe",
+        "健康、完好，与 whole 的完整词族有关"
+      ],
+      [
+        "英语 health",
+        "健康；运行良好、健全的状态"
+      ],
+      [
+        "health + -ful → healthful",
+        "有助健康的"
+      ]
+    ],
+    "explanation": "a healthful diet 有益健康的饮食。比 healthy 更偏正式、也较少见；日常 healthy food 一样自然，不必为此纠正别人。",
+    "usage": "a healthful diet；healthful food；a healthful environment。",
+    "contrast": "healthful 主要说有益健康，healthy 范围更广；说一个孩子身体好通常用 healthy child，而不是机械套 healthful child。",
+    "examples": [
+      [
+        "The brochure describes the benefits of a healthful diet.",
+        "小册子介绍有益健康饮食的好处。"
+      ],
+      [
+        "The school aims to provide a healthful environment.",
+        "学校希望提供有益健康的环境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/healthful#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/healthful"
+    ]
+  },
+  {
+    "word": "telehealth",
+    "ipa": "英 /ˈtelɪhelθ/；美 /ˈteləhelθ/",
+    "meaning": "远程医疗健康服务",
+    "sense": "人不用每次都坐到同一个诊室，借视频、电话等把健康服务接到远处。",
+    "split": "tele-（远距离）+ health，是古典来源前置成分与英语词基的混合构词；tele 不只缩写 television。",
+    "history": [
+      [
+        "tele-〔远距离〕；health",
+        "并列构词成分"
+      ],
+      [
+        "telehealth",
+        "借通信技术提供的远程健康服务"
+      ]
+    ],
+    "explanation": "a telehealth appointment 远程健康服务预约，telehealth services 远程医疗健康服务。具体可提供哪些服务看机构、专业和场景，不由一个词划定。",
+    "usage": "telehealth services；a telehealth appointment；a telehealth platform。",
+    "contrast": "telehealth 范围可含咨询、监测等多类健康服务；不是每一种都只等于 video call 视频通话。",
+    "examples": [
+      [
+        "The clinic offers telehealth appointments.",
+        "诊所提供远程问诊预约。"
+      ],
+      [
+        "The project studies access to telehealth in rural areas.",
+        "项目研究农村地区远程医疗健康服务的可及性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telehealth#English",
+      "https://dictionary.cambridge.org/pronunciation/english/telehealth"
+    ]
+  },
+  {
+    "word": "wait",
+    "ipa": "/weɪt/",
+    "meaning": "等待；等候；侍候、服务〔特定搭配〕",
+    "sense": "事情还没到，人先留在这里准备着；服务用法则像在旁边留意，等着接应需求。",
+    "split": "经盎格鲁诺曼语 waiter、waitier 接看守、留意的日耳曼来源；服务等旧义还受相关词形影响，不把所有用法都简化成今天一个短语新造。",
+    "history": [
+      [
+        "盎格鲁诺曼语 waiter / waitier → 中古英语 waiten",
+        "看守、留意、等候"
+      ],
+      [
+        "英语 wait",
+        "等候；也有侍候、服务用法"
+      ]
+    ],
+    "explanation": "wait for someone 等某人，wait to hear 等消息，wait tables 是做餐桌服务。Wait! 可叫人停一下；waited 的 -ed 读 /ɪd/。",
+    "usage": "wait for；wait until；wait to see；wait tables；I can’t wait。",
+    "contrast": "wait for 等某人某事，wait on 在餐饮等语境是侍候；部分地区 wait on 也可作等待，初学先掌握较广泛的 wait for。",
+    "examples": [
+      [
+        "I waited for the bus for twenty minutes.",
+        "我等公交等了二十分钟。"
+      ],
+      [
+        "She waited tables during the summer.",
+        "她暑假做餐厅服务工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wait#English"
+    ]
+  },
+  {
+    "word": "waiting",
+    "ipa": "/ˈweɪtɪŋ/",
+    "meaning": "等待；等候中的",
+    "sense": "人已经准备好，事情还没轮到自己，于是继续留着等。",
+    "split": "wait + -ing，中古英语已有 waitynge 等名词形式；可作分词，也可把等待当成一种活动。",
+    "history": [
+      [
+        "盎格鲁诺曼语 waiter / waitier → 中古英语 waiten",
+        "看守、留意、等候"
+      ],
+      [
+        "英语 wait",
+        "等候；也有侍候、服务用法"
+      ],
+      [
+        "wait + -ing → waiting",
+        "等待的过程；处于等候状态"
+      ]
+    ],
+    "explanation": "a waiting room 等候室，a waiting list 等候名单；There is no waiting 表示不用等，具体标识含义看场所。",
+    "usage": "a waiting room；a waiting list；keep someone waiting。",
+    "contrast": "waiting 等待过程与 waiter 服务员不同；餐馆的 waiter 可能忙着服务，而不是闲坐等候。",
+    "examples": [
+      [
+        "Sorry to keep you waiting.",
+        "抱歉让你久等了。"
+      ],
+      [
+        "The waiting room was almost empty.",
+        "等候室几乎没人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waiting#English"
+    ]
+  },
+  {
+    "word": "waitlist",
+    "ipa": "/ˈweɪtlɪst/",
+    "meaning": "等候名单；把人列入候补名单",
+    "sense": "现在名额满了，先排一张名单，腾出位置后再考虑安排。",
+    "split": "wait + list；对应常见分写 waiting list，也可作动词。候补不等于已经正式录取、订到位。",
+    "history": [
+      [
+        "wait；list",
+        "并列构词成分"
+      ],
+      [
+        "waitlist",
+        "等名额的名单；列入该名单"
+      ]
+    ],
+    "explanation": "join a waitlist 加入候补名单，be waitlisted 被列入候补。课程、活动、入学等语境都能用。",
+    "usage": "join the waitlist；on a waitlist；be waitlisted。",
+    "contrast": "waitlist 候补名单，shortlist 是筛出进一步考虑的短名单；两者不保证录取，但筛选、等待机制不同。",
+    "examples": [
+      [
+        "The class is full, but you can join the waitlist.",
+        "课程满员了，但你可以加入候补名单。"
+      ],
+      [
+        "She was waitlisted for the workshop.",
+        "她被列入了工作坊候补名单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waitlist#English"
+    ]
+  },
+  {
+    "word": "await",
+    "ipa": "/əˈweɪt/",
+    "meaning": "等候；等待着",
+    "sense": "把注意力悬在那里，等结果、回复或下一步到来。",
+    "split": "经中古英语 awaiten 接古北法语 awaitier，由 a- + waitier“留意、守候”构成；它和 wait 历史相关，不是现代英语随意加一个 a。",
+    "history": [
+      [
+        "古北法语 a- + waitier → awaitier",
+        "守候、留意、等候"
+      ],
+      [
+        "中古英语 awaiten → 英语 await",
+        "等候、期待"
+      ]
+    ],
+    "explanation": "await a reply 是等回复，await instructions 等指示；后面直接接宾语，不再加 for。书面或正式交流较常见。",
+    "usage": "await a reply；await instructions；await confirmation；await a decision。",
+    "contrast": "await the result 对应 wait for the result；不要写 await for。I await 常比 I’m waiting for 更正式。",
+    "examples": [
+      [
+        "We are awaiting confirmation of the date.",
+        "我们正在等日期确认。"
+      ],
+      [
+        "A warm welcome awaits visitors at the village hall.",
+        "村礼堂会热情迎接来访者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/await#English"
+    ]
+  },
+  {
+    "word": "waiter",
+    "ipa": "英 /ˈweɪtə/；美 /ˈweɪtər/",
+    "meaning": "餐厅服务员〔传统常指男性，也可泛指〕",
+    "sense": "不是只坐着等的人，而是留意餐桌需求、送餐接应的人。",
+    "split": "现代对应 wait + -er；中古英语 waiter、wayter 有侍从、守望者义，后来餐桌服务成为主要用法。",
+    "history": [
+      [
+        "盎格鲁诺曼语 waiter / waitier → 中古英语 waiten",
+        "看守、留意、等候"
+      ],
+      [
+        "英语 wait",
+        "等候；也有侍候、服务用法"
+      ],
+      [
+        "waiter / wayter〔中古英语〕",
+        "侍从、看守者"
+      ],
+      [
+        "英语 waiter",
+        "餐桌服务员"
+      ]
+    ],
+    "explanation": "call the waiter 请服务员过来，a waiter takes an order 服务员记点单。现代也常用 server 作不标性别的名称，地区、店铺习惯不同。",
+    "usage": "a restaurant waiter；call the waiter；work as a waiter。",
+    "contrast": "waiter 主要职业义，不是每个正在 waiting 的人；waitress 是明确女性的传统对应称谓。",
+    "examples": [
+      [
+        "The waiter brought us the menu.",
+        "服务员给我们拿来菜单。"
+      ],
+      [
+        "He worked as a waiter while studying.",
+        "他求学时做过餐厅服务员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waiter#English"
+    ]
+  },
+  {
+    "word": "waitress",
+    "ipa": "/ˈweɪtrəs/",
+    "meaning": "女服务员",
+    "sense": "传统称谓里，把餐桌服务员明确说成女性。",
+    "split": "waiter + -ess，组合时词尾变化形成 waitress；不是 wait + stress“等待的压力”。",
+    "history": [
+      [
+        "waiter",
+        "餐厅服务员"
+      ],
+      [
+        "waiter + -ess → waitress",
+        "传统女性餐厅服务员称谓"
+      ]
+    ],
+    "explanation": "a waitress takes an order 女服务员记点单。今天很多地方用 server 泛指员工，仍会遇到 waitress 这一称呼。",
+    "usage": "work as a waitress；ask the waitress；a waitress at a cafe。",
+    "contrast": "waitress 明示女性，waiter 传统偏男性、也可泛用；server 常能避免指定性别。不要把区别误认成服务级别高低。",
+    "examples": [
+      [
+        "The waitress recommended the soup of the day.",
+        "女服务员推荐了当日例汤。"
+      ],
+      [
+        "She worked as a waitress at a small cafe.",
+        "她曾在一家小咖啡馆做服务员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waitress#English"
+    ]
+  },
+  {
+    "word": "hope",
+    "ipa": "英 /həʊp/；美 /hoʊp/",
+    "meaning": "希望；盼望；带来希望的人或事物",
+    "sense": "事情还没定，但心里盼着好结果，也觉得不是完全没可能。",
+    "split": "动词接古英语 hopian、中古英语 hopen；名词也有相应古英语历史。更早来源不确定，不把 hope“希望”编成 hop“跳跃”加 e。",
+    "history": [
+      [
+        "古英语 hopian → 中古英语 hopen",
+        "希望、期待"
+      ],
+      [
+        "英语 hope〔相应名词也有古英语前身〕",
+        "希望；抱有实现可能的愿望"
+      ]
+    ],
+    "explanation": "hope to do 盼望做，hope that 希望某事成真，hope for a chance 盼机会。hoping 去掉 e，hopping 双写 p，分别是希望和跳跃的分词。",
+    "usage": "hope to；hope that；hope for；give up hope；I hope so。",
+    "contrast": "hope 常面向希望有可能成真的事；wish 还常说与现实相反的愿望，如 I wish I knew。不能一律按中文希望换。",
+    "examples": [
+      [
+        "I hope we can meet again soon.",
+        "希望我们很快能再见。"
+      ],
+      [
+        "The letter gave her new hope.",
+        "那封信给了她新的希望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hope#English"
+    ]
+  },
+  {
+    "word": "hopeful",
+    "ipa": "英 /ˈhəʊpfəl/；美 /ˈhoʊpfəl/",
+    "meaning": "抱有希望的；有希望的；有望成功者〔名词〕",
+    "sense": "人心里觉得还有戏，或某个迹象让大家看见还有戏。",
+    "split": "hope + -ful，-ful 表带有、充满相应性质，只有一个 l；末尾 hope 的 e 保留。",
+    "history": [
+      [
+        "古英语 hopian → 中古英语 hopen",
+        "希望、期待"
+      ],
+      [
+        "英语 hope〔相应名词也有古英语前身〕",
+        "希望；抱有实现可能的愿望"
+      ],
+      [
+        "hope + -ful → hopeful",
+        "抱有或带来希望的；有望成功者"
+      ]
+    ],
+    "explanation": "be hopeful about 对某事抱希望，a hopeful sign 是好兆头。名词 Olympic hopefuls 指有望入选、获佳绩的奥运竞争者，不是已经获胜的人。",
+    "usage": "hopeful about；hopeful of；a hopeful sign；young hopefuls。",
+    "contrast": "hopeful 是对结果抱希望；confident 更强调确信、自信。hopeful candidate 不保证一定被录取。",
+    "examples": [
+      [
+        "We are hopeful about the project’s future.",
+        "我们对项目未来抱有希望。"
+      ],
+      [
+        "The trial attracted several young hopefuls.",
+        "选拔吸引了几位有望脱颖而出的年轻人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hopeful#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/hopeful"
+    ]
+  },
+  {
+    "word": "hopefully",
+    "ipa": "英 /ˈhəʊpfəli/；美 /ˈhoʊpfəli/",
+    "meaning": "抱着希望地；希望如此、但愿",
+    "sense": "可以描写一个人期待的眼神，也可以给整句话加上“但愿会这样”。",
+    "split": "hopeful + -ly，既有方式副词义，也发展为句子副词。不是任何情况下都必须补回一个正在充满希望的人。",
+    "history": [
+      [
+        "古英语 hopian → 中古英语 hopen",
+        "希望、期待"
+      ],
+      [
+        "英语 hope〔相应名词也有古英语前身〕",
+        "希望；抱有实现可能的愿望"
+      ],
+      [
+        "hope → hopeful → hopefully",
+        "希望 → 抱希望的 → 抱希望地、但愿"
+      ]
+    ],
+    "explanation": "look hopefully at someone 期待地看某人；Hopefully, it will stop raining 表示但愿雨停。后一用法在现代日常英语很普遍。",
+    "usage": "look hopefully；wait hopefully；Hopefully, ...。",
+    "contrast": "hopefully 表愿望，不等于 certainly 一定；说 Hopefully, we’ll finish today 仍承认有不确定性。",
+    "examples": [
+      [
+        "Hopefully, the weather will improve tomorrow.",
+        "但愿明天天气会好些。"
+      ],
+      [
+        "The dog looked hopefully at the sandwich.",
+        "狗眼巴巴地望着三明治。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hopefully#English"
+    ]
+  },
+  {
+    "word": "hopeless",
+    "ipa": "英 /ˈhəʊpləs/；美 /ˈhoʊpləs/",
+    "meaning": "没有希望的；无望的；很不擅长的〔口语〕",
+    "sense": "看不见好结果，或夸张说自己做某事怎么都做不好。",
+    "split": "hope + -less（没有），e 保留；与 hopeful 的 -ful 形成相反方向。",
+    "history": [
+      [
+        "古英语 hopian → 中古英语 hopen",
+        "希望、期待"
+      ],
+      [
+        "英语 hope〔相应名词也有古英语前身〕",
+        "希望；抱有实现可能的愿望"
+      ],
+      [
+        "hope + -less → hopeless",
+        "无希望、没有成功前景的"
+      ]
+    ],
+    "explanation": "a hopeless situation 无望处境，feel hopeless 感到绝望；hopeless at directions 是方向感太差，日常常有夸张、自嘲。",
+    "usage": "a hopeless situation；feel hopeless；hopeless at；a hopeless romantic。",
+    "contrast": "hopeless at cooking 常是口语说很不擅长，不是对人生永久下结论；helpless 则是无助、无能为力。",
+    "examples": [
+      [
+        "I am hopeless at remembering directions.",
+        "我记路线实在不行。"
+      ],
+      [
+        "The situation looked hopeless at first.",
+        "起初，形势看起来毫无希望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hopeless#English"
+    ]
+  },
+  {
+    "word": "hopelessly",
+    "ipa": "英 /ˈhəʊpləsli/；美 /ˈhoʊpləsli/",
+    "meaning": "无望地；无可挽回地；极其〔加强语气〕",
+    "sense": "事态陷得太深，像已经没法挽回；口语也拿这个程度夸张说完全、极其。",
+    "split": "hopeless + -ly；修饰动作、形容词或分词，常含难以摆脱某种状态的感觉。",
+    "history": [
+      [
+        "古英语 hopian → 中古英语 hopen",
+        "希望、期待"
+      ],
+      [
+        "英语 hope〔相应名词也有古英语前身〕",
+        "希望；抱有实现可能的愿望"
+      ],
+      [
+        "hope → hopeless → hopelessly",
+        "希望 → 无望的 → 无望、无可挽回地"
+      ]
+    ],
+    "explanation": "hopelessly lost 完全迷路，hopelessly out of date 过时得厉害，hopelessly in love 爱得无法自拔。后者未必在说一段注定失败的爱情。",
+    "usage": "hopelessly lost；hopelessly out of date；hopelessly in love。",
+    "contrast": "hopelessly 在搭配中常加强状态，不能见到 less 就都翻成悲观。hopelessly in love 通常抓无法自拔。",
+    "examples": [
+      [
+        "We were hopelessly lost in the maze of streets.",
+        "我们在迷宫般的街道里彻底迷路了。"
+      ],
+      [
+        "The guidebook was hopelessly out of date.",
+        "这本指南已经严重过时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hopelessly#English"
+    ]
+  },
+  {
+    "word": "hopelessness",
+    "ipa": "英 /ˈhəʊpləsnəs/；美 /ˈhoʊpləsnəs/",
+    "meaning": "绝望；无望感、无望状态",
+    "sense": "把“怎么做也看不到出路”的感觉抽出来，当作一种状态谈。",
+    "split": "hopeless + -ness，先由 hope + -less 得无望的，再加 -ness 形成状态名词。",
+    "history": [
+      [
+        "古英语 hopian → 中古英语 hopen",
+        "希望、期待"
+      ],
+      [
+        "英语 hope〔相应名词也有古英语前身〕",
+        "希望；抱有实现可能的愿望"
+      ],
+      [
+        "hopeless + -ness → hopelessness",
+        "无望的状态、绝望感"
+      ]
+    ],
+    "explanation": "a sense of hopelessness 无望感，overcome hopelessness 摆脱绝望。可描写人的感受，也可评价局面；不要混成 helplessness 无助。",
+    "usage": "a sense of hopelessness；feelings of hopelessness；overcome hopelessness。",
+    "contrast": "hopelessness 看不到希望，helplessness 缺乏办法或力量；两种感受可能一起出现，但意义不同。",
+    "examples": [
+      [
+        "The novel captures the character’s sense of hopelessness.",
+        "小说写出了角色的无望感。"
+      ],
+      [
+        "Small successes slowly replaced their hopelessness with confidence.",
+        "一次次小成功慢慢用信心替代了他们的绝望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hopelessness#English"
+    ]
+  },
+  {
+    "word": "near",
+    "ipa": "英 /nɪə/；美 /nɪr/",
+    "meaning": "近的；在附近；接近；靠近",
+    "sense": "距离、时间或程度的间隔缩短了，快到那里，但未必已经到。",
+    "split": "来自古英语 nēar，原是 nēah“近”的比较级，经中古英语 ner、nere 延续并受古诺尔斯语相关形式影响；今天作为普通 near 使用，又可说 nearer、nearest。",
+    "history": [
+      [
+        "古英语 nēar〔nēah 的比较级〕→ 中古英语 ner / nere",
+        "较近"
+      ],
+      [
+        "英语 near",
+        "近；临近；逐渐靠近"
+      ]
+    ],
+    "explanation": "near the station 在车站附近，near the end 接近结束，near enough 足够近。可作介词、形容词、副词和动词，句中角色要分清。",
+    "usage": "near the station；near the end；near to；near enough。",
+    "contrast": "near the station 后可直接接位置；nearby 常独立说在附近或放名词前。不能机械照搬为 nearby the station。",
+    "examples": [
+      [
+        "The hotel is near the station.",
+        "酒店在车站附近。"
+      ],
+      [
+        "As winter neared, the days grew shorter.",
+        "冬天临近，白天越来越短。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/near#English"
+    ]
+  },
+  {
+    "word": "nearly",
+    "ipa": "英 /ˈnɪəli/；美 /ˈnɪrli/",
+    "meaning": "几乎；差不多；将近",
+    "sense": "离完成、达到那个点只差一点，但还没有完全跨过去。",
+    "split": "near + -ly，副词从距离接近扩到数量、程度接近。不是普通的在附近。",
+    "history": [
+      [
+        "古英语 nēar〔nēah 的比较级〕→ 中古英语 ner / nere",
+        "较近"
+      ],
+      [
+        "英语 near",
+        "近；临近；逐渐靠近"
+      ],
+      [
+        "near + -ly → nearly",
+        "在程度、数量等上接近"
+      ]
+    ],
+    "explanation": "nearly finished 几乎完成，nearly fifty 将近五十；not nearly enough 是远远不够，否定后差距感会变大。",
+    "usage": "nearly all；nearly finished；nearly twice；not nearly enough。",
+    "contrast": "nearly 与 almost 常相近；nearly 多说接近某量、状态，不能把 nearly everywhere 误解成附近到处。",
+    "examples": [
+      [
+        "We have nearly finished the work.",
+        "工作快做完了。"
+      ],
+      [
+        "That is not nearly enough time.",
+        "那点时间远远不够。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nearly#English"
+    ]
+  },
+  {
+    "word": "nearby",
+    "ipa": "英 /ˌnɪəˈbaɪ/；美 /ˌnɪrˈbaɪ/",
+    "meaning": "附近的；在附近",
+    "sense": "不用跑很远，就在周围这一带。",
+    "split": "near + by，中古英语有 ner-bi、neer by 等；今天可连写作形容词、副词。",
+    "history": [
+      [
+        "near；by〔近旁〕",
+        "并列构词成分"
+      ],
+      [
+        "nearby",
+        "在附近；附近的"
+      ]
+    ],
+    "explanation": "a nearby shop 附近商店，live nearby 住在附近。作副词时通常不用另接地点宾语，明确对象说 near the school。",
+    "usage": "a nearby shop；live nearby；somewhere nearby。",
+    "contrast": "a nearby cafe 正常，the cafe is nearby 正常；nearby the cafe 通常改 near the cafe。",
+    "examples": [
+      [
+        "We found a nearby cafe.",
+        "我们找到一家附近的咖啡馆。"
+      ],
+      [
+        "My parents live nearby.",
+        "我父母住在附近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nearby#English"
+    ]
+  },
+  {
+    "word": "nearness",
+    "ipa": "英 /ˈnɪənəs/；美 /ˈnɪrnəs/",
+    "meaning": "接近；邻近；亲近",
+    "sense": "把彼此距离短、关系靠得近的状态，单独拿出来说。",
+    "split": "near + -ness，中古英语有 nernes 等形式；-ness 名词化，不表示比较级。",
+    "history": [
+      [
+        "古英语 nēar〔nēah 的比较级〕→ 中古英语 ner / nere",
+        "较近"
+      ],
+      [
+        "英语 near",
+        "近；临近；逐渐靠近"
+      ],
+      [
+        "near + -ness → nearness",
+        "距离、时间或关系接近的状态"
+      ]
+    ],
+    "explanation": "the nearness of the sea 海离得近，the nearness of a deadline 截止时间临近。比较正式，日常常直接说 how near 或 how close。",
+    "usage": "the nearness of；physical nearness；a sense of nearness。",
+    "contrast": "nearness 状态名词，nearly 几乎；不能因为都有 near 就把 nearly finished 改成 nearness finished。",
+    "examples": [
+      [
+        "The nearness of the sea keeps the air mild.",
+        "临近海洋使这里的空气比较温和。"
+      ],
+      [
+        "The nearness of the deadline made everyone focus.",
+        "截止时间临近，让大家都专注起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nearness#English"
+    ]
+  },
+  {
+    "word": "run",
+    "ipa": "/rʌn/",
+    "meaning": "跑；流；运转；经营；一段连续过程",
+    "sense": "脚步连续向前，水持续流过，机器一直运转；抓住“动起来并持续进行”。",
+    "split": "接古英语 rinnan、iernan 及相关古诺尔斯语形式，中古英语旧词形受分词等影响逐渐形成 run。过去式 ran /ræn/，过去分词 run，不是 runned。",
+    "history": [
+      [
+        "古英语 rinnan / iernan、古诺尔斯语 rinna → 中古英语 rinnen / runnen",
+        "奔跑；流动"
+      ],
+      [
+        "英语 run",
+        "跑；流动；运行、经营；连续进行"
+      ]
+    ],
+    "explanation": "run a race 跑比赛，water runs 水流，run a business 经营生意，run a program 运行程序。a run of good luck 是一连串好运，go for a run 是去跑步。",
+    "usage": "run a business；run a program；run out of；go for a run；in the long run。",
+    "contrast": "run 运行并不总是人腿在跑；running water 是流动水，running a shop 是经营商店。先看主语宾语是什么。",
+    "examples": [
+      [
+        "She runs a small bookshop.",
+        "她经营一家小书店。"
+      ],
+      [
+        "Leave the program running while you check the results.",
+        "检查结果时，让程序继续运行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/run#English"
+    ]
+  },
+  {
+    "word": "runner",
+    "ipa": "英 /ˈrʌnə/；美 /ˈrʌnər/",
+    "meaning": "跑步者；参赛者；蔓生枝；长条毯等",
+    "sense": "人向前跑，植物长枝向外延伸，长条毯沿地面铺开；都借持续延伸、活动的画面。",
+    "split": "run + -er，双写 n；中古英语已有 rennere、rynner 等跑者形式。不同专业引申义不靠一个跑步的人硬译。",
+    "history": [
+      [
+        "古英语 rinnan / iernan、古诺尔斯语 rinna → 中古英语 rinnen / runnen",
+        "奔跑；流动"
+      ],
+      [
+        "英语 run",
+        "跑；流动；运行、经营；连续进行"
+      ],
+      [
+        "run + -er → runner",
+        "跑者、参赛者；延伸、运行相关事物"
+      ]
+    ],
+    "explanation": "a marathon runner 马拉松跑者，a front runner 领先竞争者，a table runner 桌旗，strawberry runners 草莓匍匐茎。先学常见语境，不堆所有技术同形义。",
+    "usage": "a marathon runner；a fast runner；a table runner；strawberry runners。",
+    "contrast": "runner 跑者，runny 流得出、稀的；a runny egg 不是会跑步的鸡蛋。",
+    "examples": [
+      [
+        "The runners gathered at the starting line.",
+        "跑者们聚集在起跑线。"
+      ],
+      [
+        "A narrow runner covered the middle of the table.",
+        "一条窄桌旗铺在桌子中央。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/runner#English"
+    ]
+  },
+  {
+    "word": "runny",
+    "ipa": "/ˈrʌni/",
+    "meaning": "稀的；易流动的；流鼻涕的",
+    "sense": "本来应稠一点、稳一点的东西，现在稀得会往下流。",
+    "split": "run（流动）+ -y，双写 n；不是 runner“跑步者”删尾巴。",
+    "history": [
+      [
+        "古英语 rinnan / iernan、古诺尔斯语 rinna → 中古英语 rinnen / runnen",
+        "奔跑；流动"
+      ],
+      [
+        "英语 run",
+        "跑；流动；运行、经营；连续进行"
+      ],
+      [
+        "run + -y → runny",
+        "会流、易滴落、偏稀的"
+      ]
+    ],
+    "explanation": "a runny nose 流鼻涕，a runny yolk 流心蛋黄，runny sauce 稀酱汁；有时是想要的口感，有时嫌太稀。",
+    "usage": "a runny nose；a runny yolk；runny sauce。",
+    "contrast": "runny 形容流动、浓稠度，running 是 run 的分词。running water 是流动的水，不通常说 runny water。",
+    "examples": [
+      [
+        "The sauce is too runny to stay on the spoon.",
+        "酱太稀，挂不住勺子。"
+      ],
+      [
+        "He likes his eggs with runny yolks.",
+        "他喜欢吃流心蛋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/runny#English"
+    ]
+  },
+  {
+    "word": "outrun",
+    "ipa": "英 /ˌaʊtˈrʌn/；美 /ˌaʊtˈrʌn/",
+    "meaning": "跑得比……快；超出、超过",
+    "sense": "同一方向前进，你跑到对方前面；引申为增长比资源、预期更快。",
+    "split": "out-（胜过、超出）+ run；过去式 outran，过去分词 outrun，沿用 run 的不规则变化。",
+    "history": [
+      [
+        "古英语 rinnan / iernan、古诺尔斯语 rinna → 中古英语 rinnen / runnen",
+        "奔跑；流动"
+      ],
+      [
+        "英语 run",
+        "跑；流动；运行、经营；连续进行"
+      ],
+      [
+        "out- + run → outrun",
+        "跑过、超过某人或某种限度"
+      ]
+    ],
+    "explanation": "outrun a pursuer 跑过追赶者，demand outruns supply 需求增长超出供给。out- 这里是比较胜过，不只空间向外。",
+    "usage": "outrun a pursuer；outrun expectations；outrun demand。",
+    "contrast": "outrun 强调比对方快、超出，run out 则是耗尽、用完；前后位置不同，不能混成同一短语。",
+    "examples": [
+      [
+        "The dog easily outran me.",
+        "狗轻轻松松就跑过了我。"
+      ],
+      [
+        "Demand has outrun our production capacity.",
+        "需求已经超过了我们的生产能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outrun#English"
+    ]
+  },
+  {
+    "word": "overrun",
+    "ipa": "动词英 /ˌəʊvəˈrʌn/、美 /ˌoʊvərˈrʌn/；名词英 /ˈəʊvərʌn/、美 /ˈoʊvərʌn/",
+    "meaning": "泛滥、侵占；超时、超支；超出量",
+    "sense": "数量冲进来占满地方，或进度一路跑过原定边界。",
+    "split": "over-（越过、覆盖）+ run；过去式 overran，分词 overrun；名词常与动词重音不同。",
+    "history": [
+      [
+        "古英语 rinnan / iernan、古诺尔斯语 rinna → 中古英语 rinnen / runnen",
+        "奔跑；流动"
+      ],
+      [
+        "英语 run",
+        "跑；流动；运行、经营；连续进行"
+      ],
+      [
+        "over- + run → overrun",
+        "大量侵入覆盖；超过计划边界"
+      ]
+    ],
+    "explanation": "be overrun with weeds 杂草丛生，a meeting overruns 会议超时，a cost overrun 费用超支。共同点是越过原有容量、边界。",
+    "usage": "overrun with；overrun by；a cost overrun；a project overrun。",
+    "contrast": "outrun 比另一方快、超过，overrun 常说超出范围或大量占据；一场 overrun 的会议是超时，不是跑步冠军。",
+    "examples": [
+      [
+        "The garden was overrun with weeds.",
+        "花园里杂草丛生。"
+      ],
+      [
+        "The meeting overran by twenty minutes.",
+        "会议超时二十分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overrun#English"
+    ]
+  },
+  {
+    "word": "rerun",
+    "ipa": "名词英 /ˈriːrʌn/、美 /ˈriːrʌn/；动词英 /ˌriːˈrʌn/、美 /ˌriːˈrʌn/",
+    "meaning": "重播；重新运行；重做",
+    "sense": "同一段节目、测试或过程，再跑一遍。",
+    "split": "re-（再次）+ run；名词常词首重音，动词常重读 run。动词过去式 reran，分词 rerun。",
+    "history": [
+      [
+        "古英语 rinnan / iernan、古诺尔斯语 rinna → 中古英语 rinnen / runnen",
+        "奔跑；流动"
+      ],
+      [
+        "英语 run",
+        "跑；流动；运行、经营；连续进行"
+      ],
+      [
+        "re- + run → rerun",
+        "重新运行；再播、再做"
+      ]
+    ],
+    "explanation": "rerun a test 重新跑测试，a rerun of a sitcom 情景喜剧重播。可重新执行过程，也可重放已有记录，按对象看。",
+    "usage": "rerun a test；rerun the analysis；a rerun of；watch reruns。",
+    "contrast": "rerun 重做、重放，remake 重拍、重新制作；电视剧重播不是重新请演员拍一次。",
+    "examples": [
+      [
+        "We reran the test with a larger sample.",
+        "我们换用更大样本重新跑了测试。"
+      ],
+      [
+        "They watched a rerun of an old comedy.",
+        "他们看了一部老喜剧的重播。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rerun#English"
+    ]
+  },
+  {
+    "word": "speedrun",
+    "ipa": "/ˈspiːdrʌn/",
+    "meaning": "游戏速通；尽快完成一次流程〔引申〕",
+    "sense": "熟悉路线、尽量压缩耗时，把一轮游戏流程跑到尽可能快。",
+    "split": "speed + run，现代游戏义由这两个词组合；较早工程语境有同形组合，不据此断言现代游戏义直接继承它。",
+    "history": [
+      [
+        "speed；run〔一轮流程〕",
+        "并列构词成分"
+      ],
+      [
+        "speedrun",
+        "以尽快通关为目标的一轮游戏过程"
+      ]
+    ],
+    "explanation": "a speedrun of a game 某游戏的一次速通，a speedrun record 速通纪录。类别可对完成目标、允许技巧作不同规定，不是每类都必须清完全部内容。",
+    "usage": "a speedrun record；attempt a speedrun；a speedrun of。",
+    "contrast": "speedrun 强调完成时间，walkthrough 攻略、流程演示主要说明怎么过；两者可重叠但目标不同。",
+    "examples": [
+      [
+        "She watched a speedrun of her favorite game.",
+        "她看了一次最喜欢的游戏的速通。"
+      ],
+      [
+        "His latest speedrun was two minutes faster than the previous one.",
+        "他最新一次速通比上一次快了两分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speedrun#English"
+    ]
+  }
+]

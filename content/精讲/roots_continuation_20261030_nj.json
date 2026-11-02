@@ -1,0 +1,215 @@
+[
+  {
+    "id": "A1987",
+    "meaning": "组合词中的连接元音，帮助把前后词干接起来",
+    "core": "-O-：常是一座连接桥，本身不装一个固定意思",
+    "image": "speed-o-meter、sax-o-phone、merit-o-cracy 等帮助看结构，实际借词史逐词核对。",
+    "intro": "有的 -o- 来自希腊组合词传统，有的在近代混合构词里使用。长化学名称、拼合词又有专门缩短，不能看到 o 就机械切开。",
+    "forms": "前词干 + -o- + 后成分；词尾、词干字母与连接元音要依实际构词区分。\n\nSax、连接成分和声音材料组成器物名称，复数作用于整个名称。",
+    "branches": [
+      [
+        "测量与记录的组合",
+        "speedometer · accelerometer · interferometer · interferometry"
+      ],
+      [
+        "乐器、网络与社会名称",
+        "saxophone · blogosphere · meritocracy · meritocratic"
+      ],
+      [
+        "有专门命名、拼合背景的词",
+        "testosterone · shambolic"
+      ],
+      [
+        "乐器组合名中的 -o- 与末尾复数",
+        "saxophone · saxophones"
+      ]
+    ],
+    "contrasts": "-o- 通常不独立表示物、动作或数量；shambolic 的具体构形有争论，testosterone 含缩短化学成分。",
+    "practice": "The o in speedometer helps link the parts; the whole word names a speed measuring instrument.\n\nspeedometer 中的 o 连接前后成分，整词才命名测速仪器。",
+    "words": [
+      "speedometer",
+      "accelerometer",
+      "interferometer",
+      "interferometry",
+      "saxophone",
+      "blogosphere",
+      "meritocracy",
+      "meritocratic",
+      "testosterone",
+      "shambolic",
+      "saxophones"
+    ],
+    "exclude": {
+      "smell-o-vision": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lidocaine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "propofol": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "linotype": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vancomycin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "erythromycin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thrombocytopenia": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "norovirus": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fibrinogen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spironolactone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hallucinogen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cyclocross": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pentobarbital": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "doxorubicin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "furosemide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eosinophilic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "naturopathic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "plasminogen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "citalopram": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4526",
+    "meaning": "欺负、威吓形成持续活动名，网络前项限定媒介",
+    "core": "BULLYING：利用优势压人，网络只是其中一种场景",
+    "image": "bullying → cyberbullying。",
+    "intro": "动作名突出行为模式；网络词说明媒介，线下、线上可能相互延续。用事实与关系判断含义，避免把普通争论与反复欺凌混同。",
+    "forms": "bully + -ing，保留 y；cyber- + bullying。",
+    "branches": [
+      [
+        "欺凌与网络媒介扩展",
+        "bullying · cyberbullying"
+      ]
+    ],
+    "contrasts": "校园常用定义关注力量不平衡与反复性；具体法律术语范围另按实际制度。",
+    "practice": "The study compares bullying at school with cyberbullying after school.\n\n研究比较校园内的欺凌与课后的网络欺凌。",
+    "words": [
+      "bullying",
+      "cyberbullying"
+    ],
+    "exclude": {
+      "e-bullying": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4402",
+    "meaning": "想要、值得想要，再到合意程度与否定性质",
+    "core": "DESIRABLE：是否值得追求，评价要放回目标",
+    "image": "desirable → desirability；undesirable 是不合意的。",
+    "intro": "一个方案是否吸引人、值得采用，与看起来好不好看是不同问题。性质名词抽出可取程度，否定前缀撤去合意评价。",
+    "forms": "desire 去 e + -able → desirable；-able 对应 -ability；un- 否定。",
+    "branches": [
+      [
+        "性质、程度与相反性质",
+        "desirable · desirability · undesirable"
+      ]
+    ],
+    "contrasts": "undesirable 常说后果不理想；desirability 不只是外貌吸引力。",
+    "practice": "The review weighed the plan’s desirability against its undesirable effects.\n\n评审权衡了计划的可取之处与不希望出现的影响。",
+    "words": [
+      "desirable",
+      "desirability",
+      "undesirable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3835",
+    "meaning": "愚傻性质的常用形式，名词、副词各有分工",
+    "core": "FOOLISH：判断不明智，别把一次行为扩大成人的全部",
+    "image": "foolish → foolishly、foolishness。",
+    "intro": "一个决定不明智可说 foolish；怎样做用 foolishly；这份愚傻性质或愚行用 foolishness。行为评价常比直接给人贴标签更准确。",
+    "forms": "fool + -ish → foolish；-ly 方式，-ness 性质、行为。",
+    "branches": [
+      [
+        "性质、方式与愚行概念",
+        "foolish · foolishly · foolishness"
+      ]
+    ],
+    "contrasts": "a foolish decision 评价决定，不自动说明做决定者一贯缺少能力。",
+    "practice": "He foolishly ignored the warning and later admitted his foolishness.\n\n他不明智地忽视提醒，后来承认了这份愚行。",
+    "words": [
+      "foolish",
+      "foolishly",
+      "foolishness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2853",
+    "meaning": "由耽搁、停留到居住，注意力也能停在某事上",
+    "core": "DWELL：人在地方住下，思绪在问题上停留",
+    "image": "dwell → dwelling、dweller。",
+    "intro": "一个是居住动作，一个是住处，一个是居住者。dwell on 让停留从空间转到注意力，通常带反复或详谈意味。",
+    "forms": "dwellan 的复杂旧义 → dwellen 耽搁、住下 → dwell；-ing 居所，-er 人物；dwelt／dwelled。",
+    "branches": [
+      [
+        "停留、居住、住所与居民",
+        "dwell · dwelling · dweller"
+      ]
+    ],
+    "contrasts": "dwelling 不限独栋房；dwell on 常比一般 think about 更持续、反复。",
+    "practice": "The city dweller found a quiet dwelling in the valley.\n\n这位城市居民在山谷找到一处安静住所。",
+    "words": [
+      "dwell",
+      "dwelling",
+      "dweller"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1709",
+    "meaning": "单一、一个，关键是找准所数的对象",
+    "core": "MONO-：一条轨、一个神、一个克隆，后半决定具体内容",
+    "image": "monorail 单轨；monotheistic 一神；monoclonal 单克隆；monounsaturated 单不饱和。",
+    "intro": "一个成分可以串很多领域，但数量对象各不相同。单轨不等于一节车厢，单克隆不等于一个分子；看清后半就能避免只背一个字的空记。",
+    "forms": "monos → mono-，有时元音前缩成 mon-；与后续词干组成单一性质、类别名称。",
+    "branches": [
+      [
+        "颜色、文字、语言与形式",
+        "monochrome · monochromatic · monogram · monolingual · monosyllabic · monotype"
+      ],
+      [
+        "结构、表面与交通",
+        "monolith · monolayer · monocular · monorail"
+      ],
+      [
+        "分子与生物来源",
+        "monomer · monoxide · monoclonal · monounsaturated"
+      ],
+      [
+        "信仰、关系与生产方式",
+        "monotheism · monotheistic · monogamous · monoculture"
+      ]
+    ],
+    "contrasts": "mono- 的一需要后半确定对象；单克隆强调来源，不是分子只有一个。",
+    "practice": "A monorail has one guiding track structure; a monoclonal population has one clonal origin.\n\n单轨系统以一条轨道结构导向，单克隆群体则有单一克隆来源。",
+    "words": [
+      "monochrome",
+      "monochromatic",
+      "monogram",
+      "monolingual",
+      "monosyllabic",
+      "monotype",
+      "monolith",
+      "monolayer",
+      "monocular",
+      "monorail",
+      "monomer",
+      "monoxide",
+      "monoclonal",
+      "monounsaturated",
+      "monotheism",
+      "monotheistic",
+      "monogamous",
+      "monoculture"
+    ],
+    "exclude": {
+      "mono-brown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mono-verse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mono-fracture": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monoamine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monotherapy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mononuclear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monopole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monoclinic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monoplane": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monohydrate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monophosphate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mononucleosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

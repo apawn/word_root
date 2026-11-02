@@ -1,0 +1,92 @@
+[
+  {
+    "id": "B2451",
+    "meaning": "水果名走过多种语言，再成为颜色名",
+    "core": "ORANGE：先认识橙子，再认识像橙皮的颜色",
+    "image": "orange 水果 → orange 颜色 → orangey 带这种颜色或味道。",
+    "intro": "这组最值得记的是命名方向：物品给颜色起名。语言传播链不等于每一种现代橙子都走过同一条运输路线。",
+    "forms": "nāraṅga → nārang → nāranj → 欧洲语言形式 → orange；orange + -y → orangey。\n\norange 先是水果名，后来成为颜色名；oranges 在已有 e 的单数后加 s。更早 n 的消失发生在传入英语之前的罗曼语形式中。",
+    "branches": [
+      [
+        "水果与颜色基础",
+        "orange"
+      ],
+      [
+        "带橙色、橙味的性质",
+        "orangey"
+      ],
+      [
+        "orange → oranges：水果与颜色、单数与复数",
+        "orange · oranges"
+      ]
+    ],
+    "contrasts": "orange/orangey 颜色名与大概色调；普通水果名和大写地名、姓氏不要合成唯一词源。",
+    "practice": "The orange peel gave the cake an orangey flavour.\n\n橙皮给蛋糕带来了橙子风味。",
+    "words": [
+      "orange",
+      "orangey",
+      "oranges"
+    ],
+    "exclude": {
+      "yellow-orange": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3623",
+    "meaning": "心里像被攥紧：不安，也可能急切渴望",
+    "core": "ANXIOUS：一颗悬着、松不下来的心",
+    "image": "anxious → anxiously；同一拉丁词族的名词 anxiety 另有读音变化。",
+    "intro": "紧绷是帮助理解的旧意象，不是说每次焦虑都真的被人掐住。anxious to do 的急切还要结合上下文。",
+    "forms": "angere 挤紧、烦扰 → anxius → anxious；anxius → anxietās → anxiety；anxious + -ly → anxiously。",
+    "branches": [
+      [
+        "形容状态与动作方式",
+        "anxious · anxiously"
+      ],
+      [
+        "把感受当名词说",
+        "anxiety"
+      ]
+    ],
+    "contrasts": "anxious/anxiety 形容词名词及读音；anxious/eager 不安与热切有交叉；词源不是诊断解释。",
+    "practice": "She waited anxiously, trying to hide her anxiety.\n\n她焦虑地等着，努力不露出自己的不安。",
+    "words": [
+      "anxious",
+      "anxiously",
+      "anxiety"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3857",
+    "meaning": "羞耻、可耻和不知羞耻要分角度",
+    "core": "SHAME：心里抬不起头，或事情让人觉得丢脸",
+    "image": "shame → ashamed 人感到羞愧；shameful 事情可耻；shameless 不觉羞耻。",
+    "intro": "What a shame! 常只是遗憾，不一定有道德责备。先确定是在说人的感受、事情性质，还是不知羞耻的态度。",
+    "forms": "sċamu、sċamian → shame；对应古老派生延续到 ashamed、shameful、shameless。",
+    "branches": [
+      [
+        "基础情绪与感受者",
+        "shame · ashamed"
+      ],
+      [
+        "可耻行为与不知羞耻",
+        "shameful · shameless"
+      ]
+    ],
+    "contrasts": "ashamed/shameful 人感到与事可耻；shameless/unashamed 责备与坦然语气；shame/guilt 感受焦点有别。",
+    "practice": "He felt ashamed of his shameful behaviour.\n\n他为自己可耻的行为感到羞愧。",
+    "words": [
+      "shame",
+      "ashamed",
+      "shameful",
+      "shameless"
+    ],
+    "exclude": {
+      "cover-shame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gay-shame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fat-shame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shame-casting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

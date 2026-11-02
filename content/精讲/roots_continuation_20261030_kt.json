@@ -1,0 +1,121 @@
+[
+  {
+    "id": "B2845",
+    "meaning": "挖开表层、向深处查找，与按动作命名的执行者",
+    "core": "DIG：从挖土到挖资料、深究",
+    "image": "dig → digger；过去式、分词 dug。",
+    "intro": "挖掘、调查能用同一幅向下找的画面。讥讽、喜欢等固定口语义再单独配搭配记。",
+    "forms": "dīcian、dīken 等 → diggen → dig；-er 执行者、机器，双写 g。\n\ndug 在英语中是后来形成的强变位式形式，不能把它说成从古英语原封不动留下；现代 dig → dug → dug 已成为标准常用变位。\n\n中古英语 diggen 与古英语挖沟词相关，g 词形的发展有不同影响分析。\n\ndelve 承古英语 delfan，dig 是另一组旧挖掘材料；这里并列近义动作，不说二者是现代同一词根直接派生。delve 的旧强变化后来转为常见规则 delved。\n\nditch 承古英语 dic，和 dike 是历史地域变体；与 dig 有同源、借入等分析，不是现代 dig 自由改音。先沟渠名词，再挖沟、扔沟里与弃置动词，水上迫降是另一专门引申。",
+    "branches": [
+      [
+        "动作与执行者",
+        "dig · digger"
+      ],
+      [
+        "dig 与 dug：后起的元音换形",
+        "dig · dug"
+      ],
+      [
+        "dig → digging：挖到表层下面，继续深查",
+        "dig · digging"
+      ],
+      [
+        "delve 与 dig 的挖掘、深查对照",
+        "dig · delve · delves · delved · delving"
+      ],
+      [
+        "ditch：沟渠，到丢弃、放弃",
+        "ditch · ditches · ditched · ditching"
+      ]
+    ],
+    "contrasts": "dig into 可深入调查或开始吃；a dig 也可是讥讽；dug 不是 digged 的常规主用形式。",
+    "practice": "The digger dug carefully around the buried wall.\n\n挖掘人员小心地沿埋在地下的墙挖掘。",
+    "words": [
+      "dig",
+      "digger",
+      "dug",
+      "digging",
+      "delve",
+      "delves",
+      "delved",
+      "delving",
+      "ditch",
+      "ditches",
+      "ditched",
+      "ditching"
+    ],
+    "exclude": {
+      "crate-dig": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "diggity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3832",
+    "meaning": "扭合、转动到偏离原样，再形成曲折与意外转折",
+    "core": "TWIST：一扭改变形状、方向或原意",
+    "image": "twist → twister、twisty。",
+    "intro": "同一扭转形象可以放在盖子、绳线、说法和故事里。具体是中性变化还是负面歪曲，由对象决定。",
+    "forms": "twi- 旧两股词族相关 → twist；-er 执行者或按形象命名，-y 性质。\n\n本族两股、绳线材料传承，现代不限只能扭两部分。",
+    "branches": [
+      [
+        "动作、器具与旋转形象",
+        "twist · twister"
+      ],
+      [
+        "形状、展开的曲折",
+        "twisty"
+      ],
+      [
+        "twist → twisted：扭成一股、偏离原样",
+        "twist · twisted"
+      ]
+    ],
+    "contrasts": "twister 龙卷风是口语；twist words 是歪曲；twisty plot 不表示故事不诚实。",
+    "practice": "The twisty story contains a clever final twist.\n\n这个曲折的故事最后有个巧妙转折。",
+    "words": [
+      "twist",
+      "twister",
+      "twisty",
+      "twisted"
+    ],
+    "exclude": {
+      "pre-twist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3961",
+    "meaning": "仔细检查、考查，按领域形成考试、审问等用法",
+    "core": "EXAMINATION：把对象认真查验一遍",
+    "image": "examine → examiner、examination；exam 是 examination 的常用截短。",
+    "intro": "学校考试、身体检查、证据审查都能从考查、查验理解。不要只把 examination 记成试卷考试。",
+    "forms": "examine 的拉丁、法语借词路径 → examination 相应名词；-er 人，exam 截短。\n\n不是 ex 加现代 mine，整体借词历史。",
+    "branches": [
+      [
+        "检查动作、人物与名词",
+        "examine · examiner · examination"
+      ],
+      [
+        "常用短形式",
+        "exam"
+      ],
+      [
+        "examine → examining：细看、询问、研究",
+        "examine · examining"
+      ]
+    ],
+    "contrasts": "medical examination 是身体检查；close examination 是仔细审查；exam 语境里常说考试。",
+    "practice": "A closer examination of the photograph revealed a second doorway.\n\n更仔细地检查照片后，人们发现了第二道门。",
+    "words": [
+      "examine",
+      "examiner",
+      "examination",
+      "exam",
+      "examining"
+    ],
+    "exclude": {
+      "self-examination": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-examination": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-examination": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

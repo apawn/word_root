@@ -1,0 +1,546 @@
+[
+  {
+    "word": "administered",
+    "ipa": "英 /ədˈmɪnɪstəd/；美 /ədˈmɪnɪstərd/",
+    "meaning": "管理、执行；给予、实施了〔过去式、过去分词〕",
+    "sense": "负责把事情料理到位，是 administered。对象是项目，就说管理；对象是考试、某项措施，就说组织实施。",
+    "split": "administer + -ed，结尾读 /d/。administer 经古法语接拉丁 administrare，ad- 与 ministrare 服务、料理组合，较早 minister 是服务者、助手。",
+    "history": [
+      [
+        "拉丁 minister、ministrare → administrare → 法语 → administer",
+        "服务、料理 → 管理、执行、给予"
+      ],
+      [
+        "administer + -ed → administered",
+        "已经料理、管理或实施"
+      ]
+    ],
+    "explanation": "administered a programme 管理项目；administered a test 组织实施测试。",
+    "usage": "administered by a team 由团队管理；administered the rules 执行规则。",
+    "contrast": "administered 不只文书行政管理，也可说把某种测试、措施、物品正式施加或交给对象。具体中文动词要跟宾语一起看。",
+    "examples": [
+      [
+        "The programme was administered by a small team.",
+        "项目由一个小团队管理。"
+      ],
+      [
+        "The teacher administered a short test.",
+        "老师组织了一次简短测试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/administered#English",
+      "https://en.wiktionary.org/wiki/administer#English"
+    ]
+  },
+  {
+    "word": "assembled",
+    "ipa": "/əˈsembəld/",
+    "meaning": "集合、聚集；组装好了〔过去式、过去分词〕",
+    "sense": "原来散着的人聚到一处，散着的零件装成一体，都叫 assembled。共同画面是把部分合到一起。",
+    "split": "assemble 去 e 加完整 -ed，/l/ 后读 /d/。assemble 经古法语 assembler 接较早拉丁 assimulare 等材料，和一起、相像词族相关。",
+    "history": [
+      [
+        "较早一起、相像材料 → 古法语 assembler → assemble",
+        "合到一起 → 聚集、组装"
+      ],
+      [
+        "assemble 去 e + -ed → assembled",
+        "人已集合、部件已装好"
+      ]
+    ],
+    "explanation": "assembled the furniture 组装家具；assembled in the hall 在大厅集合。",
+    "usage": "fully assembled 完全装配好的；assembled from parts 用零件组装成。",
+    "contrast": "assembled 可及物说把东西装好，也可不及物说人自己聚集。a fully assembled chair 是整把已装好的椅子，assembly 则是相关名词。",
+    "examples": [
+      [
+        "We assembled the shelves in an hour.",
+        "我们一个小时就装好了架子。"
+      ],
+      [
+        "The students assembled in the hall.",
+        "学生们在大厅集合。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assembled#English",
+      "https://en.wiktionary.org/wiki/assemble#English"
+    ]
+  },
+  {
+    "word": "boarding",
+    "ipa": "英 /ˈbɔːdɪŋ/；美 /ˈbɔːrdɪŋ/",
+    "meaning": "登机、上船、上车〔现在分词、动名词〕；寄宿、提供食宿；板材",
+    "sense": "跨到交通工具上，是 boarding；吃住由某处供应，则是 board 伙食一支的 boarding。它们有旧板、桌、船侧的历史背景，现代按场景分开。",
+    "split": "board + -ing，直接相加。board 接古英语 bord，板、桌与船侧等历史形式交叠；登乘、伙食分别发展，不能把每一步压成唯一现代路线。",
+    "history": [
+      [
+        "古英语 bord 等 → board 的多支名词、动词",
+        "板、桌子 → 伙食；船侧 → 登乘等"
+      ],
+      [
+        "board + -ing → boarding",
+        "登乘活动；寄宿；也有成片板材名词"
+      ]
+    ],
+    "explanation": "boarding a plane 登机；a boarding pass 登机牌；a boarding school 寄宿学校。",
+    "usage": "boarding time 登机时间；wooden boarding 木板覆盖层。",
+    "contrast": "boarding pass 是登机用证件，boarding school 则是提供寄宿的学校。不能见 boarding 就一律翻成上飞机。",
+    "examples": [
+      [
+        "Boarding begins at half past six.",
+        "六点半开始登机。"
+      ],
+      [
+        "The children attended a boarding school.",
+        "孩子们在寄宿学校上学。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boarding#English",
+      "https://en.wiktionary.org/wiki/board#English"
+    ]
+  },
+  {
+    "word": "bothered",
+    "ipa": "英 /ˈbɒðəd/；美 /ˈbɑːðərd/",
+    "meaning": "打扰、使烦恼了；在意、感到困扰的〔过去式、过去分词〕",
+    "sense": "有件事一直挤进心里、让你不能清静，是 bothered；说 not bothered，则常是没那么在意。",
+    "split": "bother + -ed，结尾读 /d/。bother 与苏格兰 bauther、bather 等相关，更远来源不明，现代有烦扰、费心做的不同搭配。",
+    "history": [
+      [
+        "苏格兰相关烦扰形式 → bother",
+        "使烦、打扰；费心去做"
+      ],
+      [
+        "bother + -ed → bothered",
+        "已经烦扰；感到不安、在意"
+      ]
+    ],
+    "explanation": "bothered by noise 被噪声烦扰；not bothered 不在意；bothered to reply 费心回复了。",
+    "usage": "can’t be bothered 懒得、嫌麻烦不愿做；deeply bothered 很受困扰。",
+    "contrast": "bothered someone 是事情使人烦；was bothered 是人受困扰。can’t be bothered to do 常说不愿费劲，不是身体完全没有能力做。",
+    "examples": [
+      [
+        "The noise bothered me all evening.",
+        "噪声烦了我一整晚。"
+      ],
+      [
+        "She was not bothered by the change.",
+        "她对这个变化不怎么在意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bothered#English",
+      "https://en.wiktionary.org/wiki/bother#English"
+    ]
+  },
+  {
+    "word": "commands",
+    "ipa": "英 /kəˈmɑːndz/；美 /kəˈmændz/",
+    "meaning": "命令、指令〔复数〕；命令、指挥；赢得〔第三人称单数〕",
+    "sense": "明确要求别人、系统做某事，是 commands。某人的表现强到自然获得尊重，也能说 commands respect。",
+    "split": "command + -s，/d/ 后读 /z/。command 的名词、动词经法语相应形式借入，较早接晚期拉丁 commandare 与 mandare 交托、命令词族。",
+    "history": [
+      [
+        "拉丁交托、命令材料 → 法语名词、动词 → command",
+        "委派任务 → 命令、指挥及命令内容"
+      ],
+      [
+        "command + -s → commands",
+        "多个指令；某人指挥或赢得尊重、注意"
+      ]
+    ],
+    "explanation": "follow commands 遵从命令；computer commands 计算机指令；commands respect 赢得尊重。",
+    "usage": "voice commands 语音指令；commands attention 引起注意。",
+    "contrast": "commands 可以是下命令，也可说掌握、自然获得。commands respect 不是硬命令别人尊重，而是自身分量使人尊重。",
+    "examples": [
+      [
+        "The device responds to voice commands.",
+        "设备响应语音指令。"
+      ],
+      [
+        "Her experience commands respect.",
+        "她的经验令人尊重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commands#English",
+      "https://en.wiktionary.org/wiki/command#English"
+    ]
+  },
+  {
+    "word": "commissioned",
+    "ipa": "/kəˈmɪʃənd/",
+    "meaning": "委托、任命、使投入使用了〔过去式、过去分词〕",
+    "sense": "把一项正式任务交到某人手里，是 commissioned；请人创作画作、任用某种角色、让设备正式投入工作，都围绕交付任务。",
+    "split": "commission + -ed，/n/ 后读 /d/。commission 借法语 commission 接拉丁 commissio，和 committere 交托同族，英语后来形成相应动词。",
+    "history": [
+      [
+        "拉丁 committere、commissio → 法语 → commission",
+        "交托任务、授予权责 → 委托等用法"
+      ],
+      [
+        "commission + -ed → commissioned",
+        "已经正式委托、任用或启用"
+      ]
+    ],
+    "explanation": "commissioned a portrait 委托画肖像；commissioned a report 委托撰写报告。",
+    "usage": "commissioned to write 被委托写作；a newly commissioned system 刚正式启用的系统。",
+    "contrast": "commissioned to do 表明获交付的任务；commissioned by 指委托方。commission 名词也可指委员会、佣金，这里的过去形式是委托等动词。",
+    "examples": [
+      [
+        "The museum commissioned a new portrait.",
+        "博物馆委托创作了一幅新肖像。"
+      ],
+      [
+        "She was commissioned to write the report.",
+        "她受委托撰写报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commissioned#English",
+      "https://en.wiktionary.org/wiki/commission#English"
+    ]
+  },
+  {
+    "word": "defining",
+    "ipa": "/dɪˈfaɪnɪŋ/",
+    "meaning": "界定、定义、明确〔现在分词〕；决定性质的、标志性的〔形容词〕",
+    "sense": "给一个意思、范围划出清楚边界，是 defining；一件事让你特别认出某人、某阶段的性质，也就有标志性、决定性的意思。",
+    "split": "define 去 e 加完整 -ing。define 经法语接拉丁 definire，de- 加强与 finire 划界组合，finis 是边界、终点。",
+    "history": [
+      [
+        "拉丁 finis、definire → 法语 → define",
+        "划定界限 → 定义、明确范围"
+      ],
+      [
+        "define 去 e + -ing → defining",
+        "正在界定；让性质、方向清楚显出的"
+      ]
+    ],
+    "explanation": "defining a term 定义术语；a defining moment 决定性时刻；a defining feature 标志性特点。",
+    "usage": "defining the scope 明确范围；defining characteristics 决定性质的特征。",
+    "contrast": "defining a word 是动作，a defining moment 里的 defining 是形容词，说这个时刻对后来的身份、走向有关键作用，不只是在写一个定义。",
+    "examples": [
+      [
+        "We began by defining the main terms.",
+        "我们先界定几个主要术语。"
+      ],
+      [
+        "The journey became a defining moment in her life.",
+        "那次旅程成了她人生中的关键时刻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/defining#English",
+      "https://en.wiktionary.org/wiki/define#English"
+    ]
+  },
+  {
+    "word": "disputes",
+    "ipa": "英 /dɪˈspjuːts/；美 /dɪˈspjuːts/",
+    "meaning": "争议、纠纷〔复数〕；争辩、质疑〔第三人称单数〕",
+    "sense": "双方对一件事不接受同一个答案，便有 disputes；某人直接表示不认同一个说法，也能用动词 disputes。",
+    "split": "dispute + -s，/t/ 后读 /s/。dispute 经法语或直接接拉丁 disputare，dis- 分开与 putare 考察、判断组合，名词从争论动词发展。",
+    "history": [
+      [
+        "拉丁 dis- + putare → disputare → 法语或英语 dispute",
+        "分开考察、讨论 → 争论、质疑"
+      ],
+      [
+        "dispute + -s → disputes",
+        "多起争议；某人对说法提出异议"
+      ]
+    ],
+    "explanation": "disputes over details 关于细节的争议；settle disputes 解决纠纷；disputes a claim 质疑主张。",
+    "usage": "boundary disputes 边界争议；disputes the figures 对数字提出异议。",
+    "contrast": "disputes 可以是日常分歧，也可正式纠纷，不都已经进入法院。动词 disputes something 通常直接接被质疑的内容。",
+    "examples": [
+      [
+        "The editor disputes the accuracy of the figures.",
+        "编辑对数字是否准确提出异议。"
+      ],
+      [
+        "The meeting helped settle several disputes.",
+        "会议帮助解决了几项争议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disputes#English",
+      "https://en.wiktionary.org/wiki/dispute#English"
+    ]
+  },
+  {
+    "word": "forbidden",
+    "ipa": "英 /fəˈbɪdən/；美 /fərˈbɪdən/",
+    "meaning": "禁止的、不被允许的〔forbid 的过去分词及形容词〕",
+    "sense": "明确划出这件事不许做、这块地方不许进，就是 forbidden。规则、命令挡在前面，表示不允许。",
+    "split": "forbid 的不规则过去分词，forbid—forbade—forbidden。词族接古英语 forbeodan，旧 for- 有排拒、阻止方向，beodan 是宣布、命令。",
+    "history": [
+      [
+        "古英语 for- + beodan → forbeodan → forbid",
+        "以命令排拒、阻止 → 禁止"
+      ],
+      [
+        "旧不规则分词传承 → forbidden",
+        "已被禁止；不被允许的状态"
+      ]
+    ],
+    "explanation": "forbidden to enter 被禁止进入；a forbidden area 禁区；forbidden fruit 禁果、被禁止却有诱惑的东西。",
+    "usage": "strictly forbidden 严格禁止；forbidden by the rules 被规则禁止。",
+    "contrast": "forbidden 是分词、形容词，普通过去式是 forbade。it is forbidden 说被禁止，they forbade it 说他们过去禁止了它。",
+    "examples": [
+      [
+        "Photography is forbidden here.",
+        "这里禁止拍照。"
+      ],
+      [
+        "The gate led to a forbidden part of the castle.",
+        "大门通向城堡里一片禁止进入的区域。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forbidden#English",
+      "https://en.wiktionary.org/wiki/forbid#English"
+    ]
+  },
+  {
+    "word": "kidnapped",
+    "ipa": "/ˈkɪdnæpt/",
+    "meaning": "绑架、拐走了；被绑架的〔过去式、过去分词〕",
+    "sense": "强行把人带走，是 kidnapped。虽然旧构词先说拐走小孩，现代可以指任何年龄的人。",
+    "split": "kidnap 双写 p 加完整 -ed，/p/ 后读 /t/。kid 小孩与旧 nap 抓走材料组合；也有从较早 kidnapper 逆构动词的分析，nap 不是这里的小睡。",
+    "history": [
+      [
+        "kid 小孩 + 旧 nap 抓走；kidnapper 与动词形成关系",
+        "旧时拐走儿童的称呼 → 绑架任何年龄的人"
+      ],
+      [
+        "kidnap 双写 p + -ed → kidnapped",
+        "已经绑架；被绑架的"
+      ]
+    ],
+    "explanation": "a kidnapped traveller 被绑架的旅人；was kidnapped 被绑架；kidnapped from a place 从某处被劫走。",
+    "usage": "kidnapped by a group 被某群体绑架；the kidnapped person 被绑架者。",
+    "contrast": "kidnapped 的双 p 是常见拼写，读音以 /pt/ 结尾，不增加音节。旧 kid 的年龄背景不限制今天被绑架者必须是孩子。",
+    "examples": [
+      [
+        "In the story, a traveller is kidnapped.",
+        "故事里，一位旅人被绑架了。"
+      ],
+      [
+        "The police found the kidnapped tourist.",
+        "警方找到了被绑架的游客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/kidnapped#English",
+      "https://en.wiktionary.org/wiki/kidnap#English"
+    ]
+  },
+  {
+    "word": "lectures",
+    "ipa": "英 /ˈlektʃəz/；美 /ˈlektʃərz/",
+    "meaning": "讲座、课；训话〔复数〕；讲课、训斥〔第三人称单数〕",
+    "sense": "一个人站在前面连续讲，其他人听，是 lectures 的基本场景；带着教训口气对人讲，也成了训话。",
+    "split": "lecture + -s，词尾读 /z/。lecture 借中世纪拉丁 lectura 阅读，连着 legere 的 lect- 阅读词干，宣读、讲授发展讲课与训话用法。",
+    "history": [
+      [
+        "拉丁阅读词族、lectura → 英语 lecture",
+        "阅读、宣读 → 讲课；后来也有训话"
+      ],
+      [
+        "lecture + -s → lectures",
+        "多场讲座、课；某人讲课、训人"
+      ]
+    ],
+    "explanation": "attend lectures 听课、听讲座；lectures on history 历史讲座；lectures someone about something 就某事训人。",
+    "usage": "public lectures 公开讲座；give lectures 讲课、作讲座。",
+    "contrast": "lectures 是学术讲授还是令人烦的训话，要看语气、对象。lecture someone about... 常是教训人，不等于给他正式开一门大学课。",
+    "examples": [
+      [
+        "She attends lectures every morning.",
+        "她每天上午去听课。"
+      ],
+      [
+        "He lectures me about keeping my room tidy.",
+        "他训我，要把房间收拾干净。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lectures#English",
+      "https://en.wiktionary.org/wiki/lecture#English"
+    ]
+  },
+  {
+    "word": "linking",
+    "ipa": "/ˈlɪŋkɪŋ/",
+    "meaning": "连接、联系〔现在分词、动名词〕",
+    "sense": "像用一个链环接住两边，让原来分开的部分有关系，就是 linking。可以接道路、网页，也可以接想法。",
+    "split": "link + -ing，直接相加。link 接中古英语 linke、lenke 链环词，常联系北欧来源，但直接传入细节有不同分析；英语后来发展联系动词。",
+    "history": [
+      [
+        "中古英语链环词 → link；相应动词",
+        "链的一环 → 联系、连接"
+      ],
+      [
+        "link + -ing → linking",
+        "正在接起来；建立联系的过程"
+      ]
+    ],
+    "explanation": "linking two places 连接两处；linking ideas 把想法联系起来；a linking verb 系动词。",
+    "usage": "linking A to B 把 A 和 B 联系；linking the pages 连接网页。",
+    "contrast": "linking 不要求实物链条，观点、证据也可建立联系。linking A to、with B 都可遇到，具体搭配看想突出指向还是相互关系。",
+    "examples": [
+      [
+        "We are linking the two sections with a short path.",
+        "我们正用一条短路连接这两片区域。"
+      ],
+      [
+        "The essay succeeds in linking history and daily life.",
+        "文章成功把历史与日常生活联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linking#English",
+      "https://en.wiktionary.org/wiki/link#English"
+    ]
+  },
+  {
+    "word": "maintains",
+    "ipa": "/meɪnˈteɪnz/",
+    "meaning": "维持、维护、保养；坚持说〔第三人称单数〕",
+    "sense": "像用手扶住，让状态不掉下去，就是 maintains。机器保持好用，关系保持下去，观点也可以一直坚持。",
+    "split": "maintain + -s，/n/ 后读 /z/。maintain 经法语 maintenir 接晚期拉丁 manutenere，manu 用手与 tenere 握住组合。",
+    "history": [
+      [
+        "晚期拉丁 manu + tenere → manutenere → 法语 → maintain",
+        "用手扶住 → 支持、保持"
+      ],
+      [
+        "maintain + -s → maintains",
+        "某人维护状态；坚持一个说法"
+      ]
+    ],
+    "explanation": "maintains the equipment 保养设备；maintains contact 保持联系；maintains that... 坚持说……。",
+    "usage": "maintains a balance 维持平衡；maintains the same pace 保持同一速度。",
+    "contrast": "maintains something 是让它继续处于所需状态；maintains that 后是本人坚持的主张，词本身不保证主张已被证实。",
+    "examples": [
+      [
+        "The team maintains the equipment.",
+        "团队负责维护设备。"
+      ],
+      [
+        "She maintains that the earlier version was clearer.",
+        "她坚持说早先那个版本更清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maintains#English",
+      "https://en.wiktionary.org/wiki/maintain#English"
+    ]
+  },
+  {
+    "word": "modes",
+    "ipa": "英 /məʊdz/；美 /moʊdz/",
+    "meaning": "方式、模式；调式；众数〔复数〕",
+    "sense": "同一件事可以按不同方式运作，这些不同形式、安排就是 modes。相机换拍摄模式、乐曲换调式，都能接这个方式画面。",
+    "split": "mode + -s，/d/ 后读 /z/。mode 经法语及拉丁 modus 借入，核心是尺度、分寸、方式，专业领域按某种形式、排列发展专义。",
+    "history": [
+      [
+        "拉丁 modus → 法语、英语 mode",
+        "尺度、方式 → 各类运作方式、形式"
+      ],
+      [
+        "mode + -s → modes",
+        "多种模式；音乐调式、统计众数等专义"
+      ]
+    ],
+    "explanation": "different modes 不同模式；modes of transport 交通方式；camera modes 相机模式。",
+    "usage": "switch modes 切换模式；musical modes 音乐调式。",
+    "contrast": "modes 通常是方式、模式，models 是模型、型号或模特，拼写多一个 l、读音也不同。统计里的 mode 另专指众数，按学科语境理解。",
+    "examples": [
+      [
+        "The camera has several shooting modes.",
+        "相机有几种拍摄模式。"
+      ],
+      [
+        "The project compares different modes of transport.",
+        "项目比较不同交通方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/modes#English",
+      "https://en.wiktionary.org/wiki/mode#English"
+    ]
+  },
+  {
+    "word": "pursuing",
+    "ipa": "英 /pəˈsjuːɪŋ/；美 /pərˈsuːɪŋ/",
+    "meaning": "追赶、追求；继续从事、深入处理〔现在分词、动名词〕",
+    "sense": "目光盯着一个目标，沿着它继续跟下去，就是 pursuing。目标可以是眼前的人，也可以是理想、事业或待查问题。",
+    "split": "pursue 去结尾 e 加完整 -ing，保留 u。pursue 经盎格鲁诺曼语接拉丁 prosequi，并受 persequi 影响，根在 sequi 跟随。",
+    "history": [
+      [
+        "拉丁 prosequi、persequi → 盎格鲁诺曼语 → pursue",
+        "向前跟随、追到底 → 追赶、追求"
+      ],
+      [
+        "pursue 去 e + -ing → pursuing",
+        "正在跟进目标；从事、追求"
+      ]
+    ],
+    "explanation": "pursuing a career 发展一项事业；pursuing a goal 追求目标；pursuing the matter further 深入处理这件事。",
+    "usage": "pursuing an interest 深入发展兴趣；pursuing a suspect 追踪嫌疑人。",
+    "contrast": "pursuing 不只指身体奔跑追人，也能说持续投入一个方向。pursue a goal 常直接接目标，不再加 after；run after 则是另一种结构。",
+    "examples": [
+      [
+        "She is pursuing a career in design.",
+        "她正朝设计事业发展。"
+      ],
+      [
+        "They are pursuing the matter further.",
+        "他们正在进一步处理这件事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pursuing#English",
+      "https://en.wiktionary.org/wiki/pursue#English"
+    ]
+  },
+  {
+    "word": "welcomed",
+    "ipa": "/ˈwelkəmd/",
+    "meaning": "欢迎、乐意接受了〔过去式、过去分词〕",
+    "sense": "有人来到，或一个变化出现，你觉得合心意、愿意接纳，就是 welcomed。可以迎人，也可以欢迎意见和改进。",
+    "split": "welcome 去 e 加完整 -ed，/m/ 后读 /d/。古英语 wilcuma 是合意的来客，willa 愿望与 cuma 来客组合，相关动词也很早已有；后 wil- 受 well 影响变 wel-。",
+    "history": [
+      [
+        "古英语 wilcuma、wilcumian → welcome",
+        "合心意的来客、欢迎，后来词形受 well 影响"
+      ],
+      [
+        "welcome 去 e + -ed → welcomed",
+        "已经欢迎、乐意接受"
+      ]
+    ],
+    "explanation": "welcomed the guests 迎接客人；welcomed the news 对消息表示欢迎；welcomed suggestions 乐意接受建议。",
+    "usage": "warmly welcomed 热烈欢迎；welcomed back 欢迎回来。",
+    "contrast": "welcomed 是动词分词，welcome 也可直接作形容词。you are welcome 常是别客气、欢迎，不需要为了作形容词一律改成 welcomed。",
+    "examples": [
+      [
+        "The hosts welcomed us warmly.",
+        "主人热情欢迎了我们。"
+      ],
+      [
+        "The team welcomed the new suggestion.",
+        "团队乐意接受了新建议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/welcomed#English",
+      "https://en.wiktionary.org/wiki/welcome#English"
+    ]
+  }
+]

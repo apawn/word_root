@@ -1,0 +1,567 @@
+[
+  {
+    "word": "choirmaster",
+    "ipa": "英 /ˈkwaɪəmɑːstə/；美 /ˈkwaɪərmæstər/",
+    "meaning": "合唱团指挥、合唱指导",
+    "sense": "choir 是合唱团，choirmaster 是带大家排练、把各声部合到一起的音乐负责人。master 在这里看职责，不必按学校校长翻译。",
+    "split": "choir + master，参照德语 Chormeister 的复合结构。英语各部分本已有词，组合命名合唱团的音乐指导角色。",
+    "history": [
+      [
+        "choir 合唱团 + master 主持、掌管者",
+        "按职责指合唱团音乐负责人"
+      ],
+      [
+        "参照德语 Chormeister → choirmaster",
+        "排练、指挥等职责的复合名称"
+      ]
+    ],
+    "explanation": "the cathedral choirmaster 主教座堂合唱指挥；rehearse with the choirmaster 跟合唱指导排练。",
+    "usage": "a choirmaster；the cathedral choirmaster。",
+    "contrast": "chorister 是合唱团成员，choirmaster 是音乐负责人；两者分工不同。",
+    "examples": [
+      [
+        "The choirmaster asked the singers to repeat the final phrase.",
+        "合唱指挥请歌手们重唱最后一句。"
+      ],
+      [
+        "She worked as a choirmaster for many years.",
+        "她多年担任合唱指导。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choirmaster#English"
+    ]
+  },
+  {
+    "word": "scrub",
+    "ipa": "/skrʌb/",
+    "meaning": "用力擦洗；取消、删去；低矮灌木丛；〔复数〕手术服",
+    "sense": "顽固污渍不是轻轻冲掉，而是拿刷子来回用力刷，是 scrub。scrubland 的 scrub 却是低矮灌木；手术服 scrubs 则联系手术前清洁等医疗场景。",
+    "split": "擦洗义借中古荷兰语 schrobben，经中古英语 scrobben；删除、取消等借擦掉的动作扩展。灌木义承古英语相关形式，近接 shrub 的变体。两支不编成洗完地面只剩灌木。",
+    "history": [
+      [
+        "中古荷兰语 schrobben → 中古英语 scrobben → scrub 擦洗",
+        "用力摩擦、刷洗"
+      ],
+      [
+        "古英语 scrybb 等 → shrub 的变体 scrub 灌木",
+        "擦洗与低矮灌木近源不同，各有派生"
+      ]
+    ],
+    "explanation": "scrub the floor 刷地；scrub off a stain 擦掉污渍；scrub a launch 取消发射；wear scrubs 穿手术服。",
+    "usage": "scrub the floor；scrub off；wear scrubs。",
+    "contrast": "scrub 强调摩擦力度，rinse 强调冲洗；scrub 的灌木义与 clean 清洁不是同一路线。",
+    "examples": [
+      [
+        "She scrubbed the muddy boots with a brush.",
+        "她用刷子用力刷洗沾泥的靴子。"
+      ],
+      [
+        "Low scrub covered the dry hillside.",
+        "低矮灌木覆盖着干燥山坡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrub#English",
+      "https://www.etymonline.com/word/scrub"
+    ]
+  },
+  {
+    "word": "scrubbing",
+    "ipa": "/ˈskrʌbɪŋ/",
+    "meaning": "用力擦洗；清洗、净化；scrub 的 -ing 形式",
+    "sense": "一遍遍来回刷的活动叫 scrubbing。工业里把杂质从气体等介质中除去，也借清洗动作命名，具体设备不必像家用刷子。",
+    "split": "scrub 擦洗 + -ing，双写 b → scrubbing。动作名可用于表面清洁，也可用于去除杂质的专门过程。",
+    "history": [
+      [
+        "中古荷兰语 schrobben → 中古英语 scrobben → scrub 擦洗",
+        "用力摩擦、刷洗"
+      ],
+      [
+        "scrub + -ing → scrubbing",
+        "擦洗活动；相应清理、净化过程"
+      ]
+    ],
+    "explanation": "give something a good scrubbing 彻底刷洗；floor scrubbing 地板刷洗；gas scrubbing 气体净化。",
+    "usage": "a good scrubbing；floor scrubbing。",
+    "contrast": "scrubbing 动作名与 scrubland 地名不同；后者接的是灌木支。",
+    "examples": [
+      [
+        "The pan needed a good scrubbing.",
+        "这口锅得好好刷一刷。"
+      ],
+      [
+        "The machine reduced the time spent on floor scrubbing.",
+        "机器减少了刷地所花的时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrubbing#English"
+    ]
+  },
+  {
+    "word": "scrubbed",
+    "ipa": "/skrʌbd/",
+    "meaning": "擦洗过的；删除、取消了的；scrub 的过去式、过去分词",
+    "sense": "scrubbed floors 是已经刷洗的地板；a scrubbed plan 可以是被取消的计划。一个看刷洗结果，一个接擦掉、取消的比喻。",
+    "split": "scrub + -ed，双写 b → scrubbed，ed 读 /d/。常用过去、分词承擦洗及取消等动词用法；另有低矮生长的旧形容义，按具体语境另读。",
+    "history": [
+      [
+        "中古荷兰语 schrobben → 中古英语 scrobben → scrub 擦洗",
+        "用力摩擦、刷洗"
+      ],
+      [
+        "scrub + -ed → scrubbed",
+        "刷洗过；删掉、取消的过去或结果"
+      ]
+    ],
+    "explanation": "freshly scrubbed floors 刚刷净的地板；scrubbed from a list 从名单删去；the event was scrubbed 活动取消。",
+    "usage": "freshly scrubbed；scrubbed from the list。",
+    "contrast": "scrubbed 不保证物件无菌，只说明经历了所说的擦洗或处理；sterile 是另一个性质。",
+    "examples": [
+      [
+        "The freshly scrubbed floor gleamed.",
+        "刚刷净的地板闪着光。"
+      ],
+      [
+        "The old entry was scrubbed from the list.",
+        "旧条目被从名单中删掉了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrubbed#English"
+    ]
+  },
+  {
+    "word": "scrubber",
+    "ipa": "英 /ˈskrʌbə/；美 /ˈskrʌbər/",
+    "meaning": "擦洗工具、机器；清洗人员；气体净化装置",
+    "sense": "scrub 是刷洗，scrubber 是负责刷、净化的人或工具。洗锅擦、地面洗刷机、去除气体杂质的设备，都按各自清理用途接上这层意思。",
+    "split": "scrub + -er，双写 b → scrubber。执行者、工具名从擦洗动作发展到工业净化设备等具体用途。",
+    "history": [
+      [
+        "中古荷兰语 schrobben → 中古英语 scrobben → scrub 擦洗",
+        "用力摩擦、刷洗"
+      ],
+      [
+        "scrub + -er → scrubber",
+        "刷洗者、清理工具及净化设备"
+      ]
+    ],
+    "explanation": "a floor scrubber 洗地机；a kitchen scrubber 厨房擦洗工具；an exhaust scrubber 废气净化装置。",
+    "usage": "a floor scrubber；a kitchen scrubber。",
+    "contrast": "scrubber 不一定是刷毛工具；设备可按净化功能命名，结构依具体类型。",
+    "examples": [
+      [
+        "The floor scrubber moved slowly along the corridor.",
+        "洗地机沿走廊缓缓前进。"
+      ],
+      [
+        "She used a soft scrubber on the pan.",
+        "她用柔软擦洗工具刷锅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrubber#English"
+    ]
+  },
+  {
+    "word": "scrubby",
+    "ipa": "/ˈskrʌbi/",
+    "meaning": "灌木丛生的；矮小瘦弱的",
+    "sense": "scrubby hillside 是长着低矮灌木的山坡。它主要接 scrub 灌木这支，再有生长矮小的评价，不是说山坡刚擦得干净。",
+    "split": "scrub 灌木 + -y，双写 b → scrubby。表示灌木覆盖、由灌木构成或矮小生长等性质；不能只套擦洗动词来猜。",
+    "history": [
+      [
+        "古英语 scrybb 等 → shrub 的变体 scrub 灌木",
+        "擦洗与低矮灌木近源不同，各有派生"
+      ],
+      [
+        "scrub 灌木 + -y → scrubby",
+        "低矮灌木覆盖、矮小的"
+      ]
+    ],
+    "explanation": "scrubby vegetation 低矮灌丛植被；scrubby hills 灌木山丘；a scrubby tree 矮小树。",
+    "usage": "scrubby vegetation；a scrubby hillside。",
+    "contrast": "scrubby 是植被、长势描述；scrubbed 常是擦洗结果，两者同开头但分支不同。",
+    "examples": [
+      [
+        "Scrubby vegetation covered the ridge.",
+        "低矮灌丛覆盖着山脊。"
+      ],
+      [
+        "A few scrubby trees grew beside the track.",
+        "路旁长着几棵矮小树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrubby#English"
+    ]
+  },
+  {
+    "word": "scrubland",
+    "ipa": "/ˈskrʌblænd/",
+    "meaning": "灌丛地、矮灌木地带",
+    "sense": "land 是土地，scrub 是低矮灌木。scrubland 就是以这种植被为特征的地带，不是一块被刷洗出来的空地。",
+    "split": "scrub 灌木 + land 土地，透明复合名词，按植被类型命名地域。草本、其他植物也可混生，并不要求只剩一种灌木。",
+    "history": [
+      [
+        "古英语 scrybb 等 → shrub 的变体 scrub 灌木",
+        "擦洗与低矮灌木近源不同，各有派生"
+      ],
+      [
+        "scrub + land → scrubland",
+        "以低矮灌丛为主要特征的地带"
+      ]
+    ],
+    "explanation": "dry scrubland 干旱灌丛地；an area of scrubland 一片灌丛地带。",
+    "usage": "dry scrubland；an area of scrubland。",
+    "contrast": "scrubland 不是绝无生命的荒地；与 forest 等地带名称一样，看主要植被结构。",
+    "examples": [
+      [
+        "The path crossed an area of dry scrubland.",
+        "小路穿过一片干燥灌丛地。"
+      ],
+      [
+        "Small birds sheltered in the scrubland.",
+        "小鸟在灌丛地里藏身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scrubland#English"
+    ]
+  },
+  {
+    "word": "readjustment",
+    "ipa": "/ˌriːəˈdʒʌstmənt/",
+    "meaning": "重新调整；重新适应",
+    "sense": "第一次调好，条件又变了，需要再调一次，是 readjustment。人回到旧环境却要重新习惯生活节奏，也可谈 readjustment。",
+    "split": "re- 再 + adjustment，后者为 adjust + -ment。前缀加在整个调整名词前，也与 readjust 动词形成对应。",
+    "history": [
+      [
+        "adjust 调整 → adjustment",
+        "调整动作或结果"
+      ],
+      [
+        "re- 再 + adjustment → readjustment",
+        "重新调整，也可指重新适应"
+      ]
+    ],
+    "explanation": "a period of readjustment 重新适应期；a readjustment of the schedule 日程重新调整。",
+    "usage": "a period of readjustment；a readjustment of。",
+    "contrast": "readjustment 不保证完全恢复原状；再调是为了适应现在条件，可能形成新的安排。",
+    "examples": [
+      [
+        "Returning home required a period of readjustment.",
+        "回家后需要一段重新适应期。"
+      ],
+      [
+        "The delay forced a readjustment of the schedule.",
+        "延误迫使日程重新调整。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readjustment#English"
+    ]
+  },
+  {
+    "word": "mosque",
+    "ipa": "英 /mɒsk/；美 /mɑːsk/",
+    "meaning": "清真寺",
+    "sense": "穆斯林共同礼拜的场所是 mosque。最早名称抓住礼拜、俯伏之处，不要求每座建筑外观都必须长着相同的圆顶、尖塔。",
+    "split": "经法语 mosquée、意大利语 moschea 等形式，上溯阿拉伯语 masjid 礼拜之处，接与俯伏礼拜有关的词根。欧洲中介路线有不同阶段，不按现代英语 mos + que 硬拆。",
+    "history": [
+      [
+        "阿拉伯语 masjid，联系俯伏礼拜的动词词根",
+        "礼拜、叩拜之处的场所名"
+      ],
+      [
+        "经欧洲语言 moschea、mosquée 等 → 英语 mosque",
+        "中介路线有不同阶段，整体是穆斯林礼拜场所名称"
+      ]
+    ],
+    "explanation": "a local mosque 当地清真寺；the prayer hall of a mosque 清真寺礼拜厅。词尾 -que 在此读 /k/，不另起音节。",
+    "usage": "a local mosque；a mosque’s prayer hall。",
+    "contrast": "mosque 是清真寺，church 常指基督教教堂；建筑圆顶、尖塔本身不能替代宗教场所的具体身份。",
+    "examples": [
+      [
+        "The mosque stands near the old market.",
+        "清真寺位于旧市场附近。"
+      ],
+      [
+        "The book describes the mosque’s prayer hall.",
+        "书中描写了清真寺的礼拜厅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mosque#English",
+      "https://www.etymonline.com/word/mosque"
+    ]
+  },
+  {
+    "word": "cringeworthy",
+    "ipa": "英 /ˈkrɪndʒwɜːði/；美 /ˈkrɪndʒwɜːrði/",
+    "meaning": "令人尴尬得想躲开的；让人替别人难堪的",
+    "sense": "看别人讲了个全场冷掉的笑话，你自己都忍不住缩肩、别开脸，这种替人难堪的感觉就是 cringeworthy。",
+    "split": "cringe + -worthy，保留 e，表示足以使人 cringe。-worthy 在这里提供值得引发某种反应的结构，不是说尴尬内容值得称赞。",
+    "history": [
+      [
+        "cringe 尴尬、畏缩相关动作 + -worthy",
+        "足以让人产生相应反应"
+      ],
+      [
+        "cringeworthy",
+        "尴尬到令人替别人缩起身子的评价"
+      ]
+    ],
+    "explanation": "a cringeworthy joke 尴尬笑话；a cringeworthy moment 令人替人难堪的一刻。也常见带连字符拼写。",
+    "usage": "a cringeworthy joke；a cringeworthy moment。",
+    "contrast": "cringeworthy 带观看者的强烈尴尬评价；awkward 范围更宽，轻微不便也可 awkward。",
+    "examples": [
+      [
+        "The speech included a cringeworthy joke.",
+        "讲话里夹着一个让人尴尬的笑话。"
+      ],
+      [
+        "It was a cringeworthy moment for everyone watching.",
+        "那一刻让所有观看的人都替他难堪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cringeworthy#English"
+    ]
+  },
+  {
+    "word": "marginally",
+    "ipa": "英 /ˈmɑːdʒɪnəli/；美 /ˈmɑːrdʒɪnəli/",
+    "meaning": "稍微、略微；勉强地",
+    "sense": "只比另一项好出一点点，是 marginally better；只是刚过线，是 marginally acceptable。它让你把注意力放在很小的差距上。",
+    "split": "marginal + -ly，性质转为程度、方式副词。marginal 的边缘、临界意义走向差别很小、刚够程度等用法。",
+    "history": [
+      [
+        "margin 边缘 → marginal",
+        "边缘、临界或很小程度的性质"
+      ],
+      [
+        "marginal + -ly → marginally",
+        "稍微、勉强地；较旧也可说在页边"
+      ]
+    ],
+    "explanation": "marginally better 稍好一点；marginally cheaper 略便宜；marginally acceptable 勉强可接受。",
+    "usage": "marginally better；marginally cheaper。",
+    "contrast": "marginally 通常小幅度，不是 greatly 大幅；是否重要还取决于场景，不能单凭小差值说没有意义。",
+    "examples": [
+      [
+        "The new model is marginally lighter.",
+        "新型号轻了一点。"
+      ],
+      [
+        "Her second draft was marginally better than the first.",
+        "她的第二稿比第一稿稍好一些。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/marginally#English"
+    ]
+  },
+  {
+    "word": "lethal",
+    "ipa": "/ˈliːθəl/",
+    "meaning": "致命的；足以造成死亡的；〔比喻〕极具打击力的",
+    "sense": "不是只让人不舒服，而是能导致死亡，是 lethal 的基本强度。体育评论里的 a lethal finisher 则夸选手把机会变成得分的能力，属于有力打击的比喻。",
+    "split": "借拉丁 letalis 致命的及后来的 lethalis 拼写，上接 letum 死亡。th 受错误关联希腊 lethe 遗忘的旧拼写分析影响；词义不能倒说成遗忘所以致命。",
+    "history": [
+      [
+        "拉丁 letum 死亡 → letalis；后有 lethalis 拼写 → lethal",
+        "th 拼写受与希腊遗忘词相联系的旧分析影响，不能据此说本来就是同源"
+      ],
+      [
+        "lethal + -ly、-ity",
+        "致命的方式；致死性质、程度"
+      ]
+    ],
+    "explanation": "a lethal combination 致命组合，也可比喻危险组合；a lethal effect 致命作用；a lethal finisher 终结能力强的得分手。",
+    "usage": "a lethal combination；a lethal effect。",
+    "contrast": "harmful 有害不一定致命；lethal 强调可致死，具体例子的风险仍需看完整条件。",
+    "examples": [
+      [
+        "The fumes can be lethal in an enclosed space.",
+        "这些烟气在封闭空间里可能致命。"
+      ],
+      [
+        "The striker was a lethal finisher.",
+        "那位前锋把握得分机会的能力极强。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lethal#English",
+      "https://www.etymonline.com/word/lethal"
+    ]
+  },
+  {
+    "word": "lethally",
+    "ipa": "/ˈliːθəli/",
+    "meaning": "致命地；〔比喻〕极具打击力地",
+    "sense": "lethal 是性质，lethally 把致命效果放到动作、状态里。lethally efficient 可以是带夸张的高效打击，不必每次都在叙述死亡事件。",
+    "split": "lethal + -ly → lethally，原词末 l 再接 -ly，因此写 ll；读音里仍是正常副词结尾，不把双 l 念成两拍。",
+    "history": [
+      [
+        "拉丁 letum 死亡 → letalis；后有 lethalis 拼写 → lethal",
+        "th 拼写受与希腊遗忘词相联系的旧分析影响，不能据此说本来就是同源"
+      ],
+      [
+        "lethal + -ly → lethally",
+        "以致命、极具打击力的方式"
+      ]
+    ],
+    "explanation": "lethally injured 受致命伤；lethally efficient 高效得可怕、极具打击力，后者需看修辞场景。",
+    "usage": "lethally injured；lethally efficient。",
+    "contrast": "lethally 不等于 merely severely 严重地；本义里带致死结果或能力，修辞用法另读。",
+    "examples": [
+      [
+        "The story describes a soldier who was lethally injured.",
+        "故事写到一名受了致命伤的士兵。"
+      ],
+      [
+        "The commentator called the team lethally efficient.",
+        "评论员说这支队伍效率高得极具杀伤力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lethally#English"
+    ]
+  },
+  {
+    "word": "lethality",
+    "ipa": "/liˈθæləti/",
+    "meaning": "致死能力、致命性；致死程度",
+    "sense": "lethal 说能致命，lethality 把这种能力、程度单独拿出来比较。它不是直接数现场死了几个人，而是在谈产生致死效果的性质。",
+    "split": "lethal + -ity → lethality，重音由前面的 /liː/ 移到 /θæ/ 附近。性质名词在不同研究里可采用不同指标描述，不由词尾自动给定一个比率。",
+    "history": [
+      [
+        "拉丁 letum 死亡 → letalis；后有 lethalis 拼写 → lethal",
+        "th 拼写受与希腊遗忘词相联系的旧分析影响，不能据此说本来就是同源"
+      ],
+      [
+        "lethal + -ity → lethality",
+        "致命的性质、程度或能力"
+      ]
+    ],
+    "explanation": "the lethality of a substance 某物质的致命性；assess lethality 评估致死能力。",
+    "usage": "the lethality of；assess lethality。",
+    "contrast": "lethality 与 severity 严重程度不完全相同；严重可以指疼痛、破坏等，不一定只看致死。",
+    "examples": [
+      [
+        "The report compares the lethality of the substances under specified conditions.",
+        "报告比较这些物质在给定条件下的致命性。"
+      ],
+      [
+        "The glossary distinguishes lethality from general severity.",
+        "词汇表区分致命性与一般严重程度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lethality#English"
+    ]
+  },
+  {
+    "word": "exploit",
+    "ipa": "名词 /ˈeksplɔɪt/；动词 /ɪkˈsplɔɪt/",
+    "meaning": "功绩、壮举；利用、开发；剥削；漏洞利用方法",
+    "sense": "动词 exploit 把资源、机会用起来；若把别人的处境拿来不公平获利，就成了剥削。名词 exploits 则常说精彩事迹，重音还前移；计算机名词又可指利用漏洞的方法、代码。",
+    "split": "借法语 esploit、esploitier，上接拉丁 explicitum 与 explicare 展开、完成的材料。成果、收益与完成动作发展为壮举、利用，再有不公平利用的负面支。",
+    "history": [
+      [
+        "拉丁 explicitum，接 explicare 展开、完成 → 法语 esploit、esploitier",
+        "完成、成果、收益，再向利用发展"
+      ],
+      [
+        "英语 exploit 名词、动词；+ -ative、-able",
+        "功绩、利用方法；利用、剥削；剥削性的、可利用的"
+      ]
+    ],
+    "explanation": "exploit an opportunity 利用机会；exploit workers 剥削工人；heroic exploits 英勇事迹；a software exploit 软件漏洞利用方法。",
+    "usage": "exploit an opportunity；heroic exploits。",
+    "contrast": "动词不永远贬义，资源、机会可中性利用；人物、弱势处境语境常突出不公平。名词与动词重音不同。",
+    "examples": [
+      [
+        "The team exploited the opportunity to improve the design.",
+        "团队利用这个机会改进了设计。"
+      ],
+      [
+        "The book recounts the explorer’s remarkable exploits.",
+        "书中讲述探险家非凡的事迹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exploit#English",
+      "https://www.etymonline.com/word/exploit"
+    ]
+  },
+  {
+    "word": "exploitative",
+    "ipa": "/ɪkˈsplɔɪtətɪv/，也读 /ɪksplɔɪˈteɪtɪv/",
+    "meaning": "剥削性的；不公平利用人的",
+    "sense": "一段安排把好处主要拿走，却让处境较弱的一方承担不公平代价，可以 exploitative。它常把 exploit 的负面支固定成性质评价。",
+    "split": "exploit + -ative → exploitative，与 exploitation 的性质形式相应；也见 exploitive。常用社会评价聚焦不公平利用，特定学科还可有专门意义。",
+    "history": [
+      [
+        "拉丁 explicitum，接 explicare 展开、完成 → 法语 esploit、esploitier",
+        "完成、成果、收益，再向利用发展"
+      ],
+      [
+        "exploit + -ative → exploitative",
+        "具有剥削、不公平利用性质的"
+      ]
+    ],
+    "explanation": "exploitative practices 剥削性做法；an exploitative relationship 不公平利用的关系。",
+    "usage": "exploitative practices；an exploitative relationship。",
+    "contrast": "exploitative 常带负面判断；exploitable 只说可以被利用，两词后缀和观察角度不同。",
+    "examples": [
+      [
+        "The article criticises exploitative working conditions.",
+        "文章批评带剥削性质的工作条件。"
+      ],
+      [
+        "The novel portrays an exploitative relationship.",
+        "小说描写了一段不公平利用对方的关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exploitative#English"
+    ]
+  },
+  {
+    "word": "exploitable",
+    "ipa": "/ɪkˈsplɔɪtəbəl/",
+    "meaning": "可利用的、可开发的；可乘之机的",
+    "sense": "资源存在可以开发的价值，漏洞留下可以利用的机会，都可 exploitable。它先说能被用上，具体是好事还是危险，取决于谁利用什么。",
+    "split": "借法语对应形式或由 exploit + -able 形成，历史上有不同分析。-able 在这里表示可以被利用、开发的性质。",
+    "history": [
+      [
+        "拉丁 explicitum，接 explicare 展开、完成 → 法语 esploit、esploitier",
+        "完成、成果、收益，再向利用发展"
+      ],
+      [
+        "exploit + -able／法语对应形式 → exploitable",
+        "能被利用、开发的"
+      ]
+    ],
+    "explanation": "exploitable resources 可开发资源；an exploitable weakness 可被利用的弱点；an exploitable opportunity 可利用机会。",
+    "usage": "exploitable resources；an exploitable weakness。",
+    "contrast": "exploitable 可利用不等于已经被利用；exploited 才常是已利用、被剥削的过去分词状态。",
+    "examples": [
+      [
+        "The survey identified commercially exploitable resources.",
+        "调查识别了具有商业开发价值的资源。"
+      ],
+      [
+        "The review found an exploitable weakness in the design.",
+        "审查发现设计中存在一个可被利用的弱点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exploitable#English"
+    ]
+  }
+]

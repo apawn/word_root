@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B2566",
+    "meaning": "黄金、金色；价值比喻及工匠、动物名",
+    "core": "GOLD：材料、颜色、价值各分开",
+    "image": "金戒指讲材料，金色光线讲颜色，黄金机会讲价值；带 gold 的动物名又是固定名称。",
+    "intro": "gold 接古英语旧词，golden 的历史形式与之有关。按材料、形容词、职业、动物和资源区排列，不把金色都等同真金。",
+    "forms": "gold → golden；gold + smith → goldsmith；goldfish、goldfinch 是动物名；goldfield 是产金区。",
+    "branches": [
+      [
+        "材料、颜色及珍贵",
+        "gold · golden"
+      ],
+      [
+        "工匠与矿区",
+        "goldsmith · goldfield"
+      ],
+      [
+        "动物名称",
+        "goldfish · goldfinch"
+      ]
+    ],
+    "contrasts": "gold paint 不保证含金；golden opportunity 是好机会；goldfish 与 goldfinch 不同动物。",
+    "practice": "The goldsmith saw the exhibition as a golden opportunity.\n\n金匠把这次展览看作一个绝好机会。",
+    "words": [
+      "gold",
+      "golden",
+      "goldsmith",
+      "goldfield",
+      "goldfish",
+      "goldfinch"
+    ],
+    "exclude": {
+      "e-gold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gold-bronze": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goldie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gold-beater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "golding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goldy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eka-gold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2413",
+    "meaning": "词、话、消息、诺言；措辞与各种词语用途",
+    "core": "WORD：从一个词，到说过的话及表达方式",
+    "image": "word 不只是一项词汇：消息传开、守住承诺、重新措辞，都有各自固定说法。复合词按书籍位置、认证代号和检索用途归组。",
+    "intro": "word 继承古英语旧词。wordy 词过多，wordless 不用词，reword 改措辞；foreword 联系德语仿译，byword 有古英语谚语词的历史。",
+    "forms": "word → wordy、wordless、reword、wordsmith；fore- 在前、after 在后；pass、code、key、buzz 改变词语的具体用途。\n\nwords 可为多个词，也可在 have words 中说争执；word 动词的第三人称还能说如何措辞。\n\nword 保留口令背景，现代内容可以是任意约定字符。\n\nforeword 的现代书籍用语联系德语 Vorwort 仿译；afterword 直接按后面的话语形成后记名。",
+    "branches": [
+      [
+        "基础及措辞",
+        "word · wordy · wordless · reword · wordsmith"
+      ],
+      [
+        "书前书后",
+        "foreword · afterword"
+      ],
+      [
+        "认证、代号及检索",
+        "password · codeword · keyword"
+      ],
+      [
+        "流行、典型及已学组合",
+        "buzzword · byword · watchword · wordplay · crossword"
+      ],
+      [
+        "word → words：单词、措辞与口头交锋",
+        "word · words"
+      ],
+      [
+        "password → passwords：通行口令与登录密码",
+        "password · passwords"
+      ],
+      [
+        "word 的书前、书后话语组合",
+        "foreword · forewords · afterword · afterwords"
+      ]
+    ],
+    "contrasts": "foreword 不是 forward；afterword 不是 afterward；wordless 不一定 silent；buzzword 不一定有精确解释。",
+    "practice": "The wordsmith reworded the foreword to remove unnecessary buzzwords.\n\n文字高手修改了序言措辞，去掉不必要的时髦术语。",
+    "words": [
+      "word",
+      "wordy",
+      "wordless",
+      "reword",
+      "wordsmith",
+      "foreword",
+      "afterword",
+      "password",
+      "codeword",
+      "keyword",
+      "buzzword",
+      "byword",
+      "watchword",
+      "wordplay",
+      "crossword",
+      "words",
+      "passwords",
+      "forewords",
+      "afterwords"
+    ],
+    "exclude": {
+      "non-word": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "word-perfect": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "p-word": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multi-word": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ur-word": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "word-deafness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

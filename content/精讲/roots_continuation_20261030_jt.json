@@ -1,0 +1,102 @@
+[
+  {
+    "id": "A1918",
+    "meaning": "人物身份、爱做某事者，以及车辆等扩展；旧动物名另辨",
+    "core": "-STER：旧时常表女性执行者，现代人物、物件用法已更宽",
+    "image": "prankster、mobster 按行为、群体命名；speedster 可是人或车；lobster 是复杂历史动物名，不作普通人物词拆。",
+    "intro": "不要把原始女性后缀机械套到每个现代词，也别把结尾 -ster 的所有词都按同一规则硬拆。",
+    "forms": "古英语 -estre 女性执行者 → 中古英语扩大人物用法；现代又有口语、评价和车辆名称。\n\n人物名称经过法语 cueristre 等形式，不能用现代英语 choir 的拼写直接切出 chor-；复数接已固定的全词。\n\nlobster 接古英语 loppestre，常联系拉丁 locusta 动物名，借入改形过程和 -estre 影响仍有不明确处。现代只在整个词尾加 -s，不能按人物职业后缀理解。",
+    "branches": [
+      [
+        "人物、职业与群体",
+        "youngster · gangster · mobster · fraudster · pollster · tipster · teamster · barrister"
+      ],
+      [
+        "行为、风格与旧称呼",
+        "prankster · trickster · jokester · hipster · spinster"
+      ],
+      [
+        "速度与车辆",
+        "speedster · roadster · dragster"
+      ],
+      [
+        "历史词形辨认",
+        "lobster · chorister"
+      ],
+      [
+        "chorister 的人物词尾与常用复数",
+        "chorister · choristers"
+      ],
+      [
+        "lobster → lobsters：动物名词尾与复数",
+        "lobsters"
+      ]
+    ],
+    "contrasts": "现代 -ster 不限女性；lobster 不能拆成做 lob 的人；chorister 也需看经法语借入及词形改造的历史。",
+    "practice": "The display contrasts the person word prankster with the vehicle use of speedster.\n\n展板对照了人物词 prankster 和 speedster 的车辆用法。",
+    "words": [
+      "youngster",
+      "gangster",
+      "mobster",
+      "fraudster",
+      "pollster",
+      "tipster",
+      "teamster",
+      "barrister",
+      "prankster",
+      "trickster",
+      "jokester",
+      "hipster",
+      "spinster",
+      "speedster",
+      "roadster",
+      "dragster",
+      "lobster",
+      "chorister",
+      "choristers",
+      "lobsters"
+    ],
+    "exclude": {
+      "brewster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sportster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3722",
+    "meaning": "外衣与外包层，以及限制活动的衣物和比喻",
+    "core": "JACKET：穿在外面，既可指衣服，也可借给物件护封",
+    "image": "jacket → straitjacket，后者抓受限制、束紧的意思。",
+    "intro": "书、线缆、设备都可能借外衣命名覆盖层；束身衣又把限制动作借到僵硬框架的比喻。",
+    "forms": "法语 jaquet 等 → jacket；strait 受限制、紧 + jacket。\n\n法语衣服名称的小称借入英语，后用于书等物体的外保护层。\n\n这里按服装用途对照，不表示各词都由 jacket 派生。cardigan 以 Cardigan 伯爵头衔命名，tuxedo 接 Tuxedo Park 地名；词名来源与现代实际产地、设计者身份分开。",
+    "branches": [
+      [
+        "外衣、包层与限制",
+        "jacket · straitjacket"
+      ],
+      [
+        "jacket → jackets：短外套与外护套",
+        "jacket · jackets"
+      ],
+      [
+        "与 jacket 对照：开衫与晚礼服的命名",
+        "cardigan · cardigans · tuxedo"
+      ]
+    ],
+    "contrasts": "book jacket 不等于 binding；straitjacket 的前半不是只按笔直的 straight 理解。",
+    "practice": "The book jacket shows a scene that symbolizes the straitjacket of rigid rules.\n\n护封上的场景象征僵硬规则带来的束缚。",
+    "words": [
+      "jacket",
+      "straitjacket",
+      "jackets",
+      "cardigan",
+      "cardigans",
+      "tuxedo"
+    ],
+    "exclude": {
+      "bad-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shooting-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snitch-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

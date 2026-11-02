@@ -1,0 +1,248 @@
+[
+  {
+    "word": "strike",
+    "ipa": "/straɪk/",
+    "meaning": "击打、袭来；使突然想到；达成；罢工；好球、保龄球全倒等",
+    "sense": "可先想像一个动作划过、碰到东西：击中身体，也能像念头一下击中脑子。旧词还有移动、擦过等义，不能把所有现代搭配都硬译成打。",
+    "split": "继承古英语 strīcan，经中古英语 striken；击打是后来的重要分支。罢工义可能与放下工具、降帆等历史场景有关，具体路线不只有一种确定说法。过去式常 struck；分词 struck、stricken 分工看搭配。",
+    "history": [
+      [
+        "古英语 strīcan → 中古英语 striken → strike",
+        "轻擦、抚过、移动等旧义"
+      ],
+      [
+        "英语 strike 的分支扩展",
+        "击打、碰撞；留下强烈印象；划除、达成；停工"
+      ]
+    ],
+    "explanation": "strike the wall 击墙，It struck me that 我突然想到，strike a deal 达成交易，go on strike 罢工，strike a match 划火柴，strike a balance 找到平衡。",
+    "usage": "It struck me that；strike a deal；go on strike；strike a balance；strike a match。",
+    "contrast": "strike a deal 达成交易不是殴打交易；体育 strike 含项目专义，棒球好球和保龄球全倒不能按同一得分规则解释。",
+    "examples": [
+      [
+        "It suddenly struck me that I had the wrong address.",
+        "我突然想到，自己拿错了地址。"
+      ],
+      [
+        "The workers went on strike for better conditions.",
+        "工人们为争取更好的工作条件而罢工。"
+      ],
+      [
+        "The branch struck the window during the storm.",
+        "风暴中，树枝撞到了窗户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strike#English",
+      "https://www.etymonline.com/word/strike"
+    ]
+  },
+  {
+    "word": "striker",
+    "ipa": "英 /ˈstraɪkə/；美 /ˈstraɪkər/",
+    "meaning": "足球前锋；罢工者；撞击部件",
+    "sense": "足球里主要负责进攻得分的人；劳动新闻里则是参与罢工的人。相同后缀接到 strike 的不同义项上，角色就不同。",
+    "split": "strike + -er，指进行相应动作的人或物；射门、停工、撞击须由场景判断。",
+    "history": [
+      [
+        "古英语 strīcan → 中古英语 striken → strike",
+        "轻擦、抚过、移动等旧义"
+      ],
+      [
+        "strike + -er → striker",
+        "进攻得分者；罢工者；撞击器件"
+      ]
+    ],
+    "explanation": "the team’s striker 球队前锋，a group of strikers 一群罢工者，a clock’s striker 钟的撞击部件。",
+    "usage": "a leading striker；the team’s striker；a group of strikers。",
+    "contrast": "striker 是前锋时不等于所有 football player 球员；striker 罢工者义也不是暴力打手的自动称呼。",
+    "examples": [
+      [
+        "The striker scored twice in the second half.",
+        "这位前锋在下半场进了两球。"
+      ],
+      [
+        "The strikers gathered outside the factory.",
+        "罢工者聚集在工厂外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/striker#English"
+    ]
+  },
+  {
+    "word": "counterstrike",
+    "ipa": "英 /ˈkaʊntəstraɪk/；美 /ˈkaʊntərstraɪk/",
+    "meaning": "反击；进行反击",
+    "sense": "对方先出手，自己再打回去；counter- 表对抗、回应，不是柜台或计数器。",
+    "split": "counter- 对抗 + strike 打击，形成反击的名词、动词。游戏标题可能借用这一概念，普通词义不限游戏。",
+    "history": [
+      [
+        "古英语 strīcan → 中古英语 striken → strike",
+        "轻擦、抚过、移动等旧义"
+      ],
+      [
+        "counter- + strike → counterstrike",
+        "针对已有打击的反击"
+      ]
+    ],
+    "explanation": "launch a counterstrike 发动反击，a rapid counterstrike 迅速反击，也见于棋类、策略等比喻语境。",
+    "usage": "a rapid counterstrike；launch a counterstrike；prepare a counterstrike。",
+    "contrast": "counterstrike 强调回应一次攻击，strike 本身未必是回应；counterargument 是反驳论点，不能所有讨论都说实际打击。",
+    "examples": [
+      [
+        "In the novel, the first attack is followed by a counterstrike.",
+        "小说中，第一次进攻后紧接着一轮反击。"
+      ],
+      [
+        "The chess player prepared a counterstrike on the other side of the board.",
+        "棋手准备在棋盘另一侧发起反击。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counterstrike#English"
+    ]
+  },
+  {
+    "word": "trickle",
+    "ipa": "/ˈtrɪkəl/",
+    "meaning": "细细流淌、缓缓到来；细流、少量",
+    "sense": "不是大水冲过来，而是一小股水慢慢流；人、消息、捐款陆续零星到来，也能借这幅画面。",
+    "split": "中古英语 triklen 已有滴流义。可能与 striklen 及 strike 的旧移动义相接，涉及缩短或边界重分等解释；来源尚有不确定，不硬认作现代 trick 把戏 + -le。",
+    "history": [
+      [
+        "中古英语 triklen → trickle",
+        "泪、水等缓慢流下"
+      ],
+      [
+        "可能与 striklen、strike 的旧移动义有关；路线不定",
+        "从细小流动到人、信息零星到来"
+      ]
+    ],
+    "explanation": "water trickles down 水细细流下，people trickle in 人们陆续进来，a trickle of information 零星消息，a steady trickle 持续的小股流动。",
+    "usage": "trickle down；trickle in；a trickle of；a steady trickle。",
+    "contrast": "trickle 比 flow 更强调量小、慢；trickle in 可以是很多人陆续到，并不意味着人会融成液体。与 strike 的历史联系只作为可能。",
+    "examples": [
+      [
+        "Water trickled down the wall.",
+        "水沿着墙细细流下。"
+      ],
+      [
+        "Guests began to trickle in after seven.",
+        "七点后，客人开始陆续到来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trickle#English",
+      "https://www.etymonline.com/word/trickle"
+    ]
+  },
+  {
+    "word": "settee",
+    "ipa": "/seˈtiː/",
+    "meaning": "长沙发、长软椅〔英式常见〕",
+    "sense": "可以坐几个人、有靠背的长座椅，日常常和 sofa 接近；不是某个人被安排坐下的称呼。",
+    "split": "十八世纪英语已有这种家具名，常被联系到 settle 长靠背椅等旧座位词，但具体构词路线不完全确定。-ee 不能照 employee 那样强解成被安置的人。",
+    "history": [
+      [
+        "英语 settee 的早期家具用法",
+        "有靠背的长座椅"
+      ],
+      [
+        "可能联系旧 settle〔座椅〕、set 等；具体路线有争议",
+        "现代长沙发、长软椅"
+      ]
+    ],
+    "explanation": "sit on the settee 坐在沙发上，a small settee 小长沙发，the living-room settee 客厅沙发。",
+    "usage": "sit on the settee；a small settee；a comfortable settee。",
+    "contrast": "settee 家具，settle 现代主要动词安顿、解决；sofa/couch 在很多日常场景近义，地区、款式偏好不同。",
+    "examples": [
+      [
+        "We sat on the settee by the window.",
+        "我们坐在窗边的长沙发上。"
+      ],
+      [
+        "The small settee fitted neatly into the corner.",
+        "那张小长沙发正好放进角落。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settee#English",
+      "https://www.etymonline.com/word/settee"
+    ]
+  },
+  {
+    "word": "excitedly",
+    "ipa": "/ɪkˈsaɪtɪdli/",
+    "meaning": "兴奋地、激动地",
+    "sense": "声音、动作里压不住高兴和期待，像孩子发现礼物后急着告诉别人。",
+    "split": "excited + -ly，副词修饰说、挥手、谈论等动作。词形保留 -ed，读音里也保留 /ɪd/ 这一节。",
+    "history": [
+      [
+        "拉丁 excitāre 经法语、英语路径 → excite",
+        "唤起、激起"
+      ],
+      [
+        "excite + -ed → excited",
+        "被激起兴趣、情绪的；兴奋的"
+      ],
+      [
+        "excited + -ly → excitedly",
+        "带着兴奋情绪地"
+      ]
+    ],
+    "explanation": "talk excitedly 兴奋地交谈，wave excitedly 激动地挥手，shout excitedly 兴奋地喊。",
+    "usage": "talk excitedly；wave excitedly；shout excitedly。",
+    "contrast": "excitedly 说某人带着兴奋做事，excitingly 说某事以令人兴奋的方式发展；excited 是感觉被激起，不是主动使别人兴奋。",
+    "examples": [
+      [
+        "The children talked excitedly about the trip.",
+        "孩子们兴奋地谈着这次旅行。"
+      ],
+      [
+        "She waved excitedly when she saw us.",
+        "看见我们时，她激动地挥手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excitedly#English"
+    ]
+  },
+  {
+    "word": "overexcited",
+    "ipa": "英 /ˌəʊvərɪkˈsaɪtɪd/；美 /ˌoʊvərɪkˈsaɪtɪd/",
+    "meaning": "过于兴奋的",
+    "sense": "兴奋得有点超过头，难以安静、集中或控制行动；over- 在这里是过度，不是上方。",
+    "split": "over- 过度 + excited，描述兴奋程度过高。",
+    "history": [
+      [
+        "拉丁 excitāre 经法语、英语路径 → excite",
+        "唤起、激起"
+      ],
+      [
+        "excite + -ed → excited",
+        "被激起兴趣、情绪的；兴奋的"
+      ],
+      [
+        "over- + excited → overexcited",
+        "兴奋超过合适程度的"
+      ]
+    ],
+    "explanation": "get overexcited 变得过于兴奋，an overexcited child 太兴奋的孩子，try not to get overexcited 别激动过头。",
+    "usage": "get overexcited；become overexcited；an overexcited crowd。",
+    "contrast": "overexcited 带过度评价，不一定是生病；excited 本身可很正常、积极，over- 才加上超过合适程度。",
+    "examples": [
+      [
+        "The children got overexcited before the party.",
+        "聚会前，孩子们兴奋过头了。"
+      ],
+      [
+        "Try not to get overexcited about an unconfirmed result.",
+        "结果还没确认，尽量别激动过头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overexcited#English"
+    ]
+  }
+]

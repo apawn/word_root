@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B3752",
+    "meaning": "燃烧木条、剑；烙印到品牌，挥舞走法语旁支",
+    "core": "BRAND：火留下的印记，成为识别；剑的旧义另走挥舞",
+    "image": "brand → rebrand；firebrand 已有；brandish 由旧剑义、法语动词另接历史链。",
+    "intro": "不让现代品牌义包揽所有同族词。brandish 不是品牌有一点，firebrand 的煽动者比喻也接燃烧木条的旧画面。",
+    "forms": "re- + brand；fire + brand；brandish 借法语 brandiss-，不是现代形容词 -ish。\n\n古英语燃烧木条词，烙印、商品标识用途逐步发展。\n\nbrand 承古英语火、燃烧木条材料，后用于烙印、商品标记、品牌。branded 既可说标有品牌，也可说被贴上某种评价标签。\n\nbrand 承古英语燃烧木条等材料，后有烙印、商品标记、品牌义。加 -ing 不改词干，现代品牌塑造不只指画标志。",
+    "branches": [
+      [
+        "识别印记与品牌重塑",
+        "brand · rebrand"
+      ],
+      [
+        "旧燃烧和剑的支线",
+        "firebrand · brandish"
+      ],
+      [
+        "brand → brands：火印到品牌",
+        "brand · brands"
+      ],
+      [
+        "烧出的印记 → brand → branded",
+        "branded"
+      ],
+      [
+        "记号 → 品牌 → branding",
+        "branding"
+      ]
+    ],
+    "contrasts": "brand/logo 品牌与标志范围不同；rebrand/rename 不完全同义；brandish/hold 挥舞展示与持有不同。",
+    "practice": "The business rebranded itself with a new name and logo.\n\n这家企业用新名称和标志重塑了品牌。",
+    "words": [
+      "brand",
+      "rebrand",
+      "firebrand",
+      "brandish",
+      "brands",
+      "branded",
+      "branding"
+    ],
+    "exclude": {
+      "brander": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3629",
+    "meaning": "健康、健全性质；方式与性质名词",
+    "core": "HEALTHY：状态健全，也可以讨论做法与程度",
+    "image": "healthy → healthily、healthiness；unhealthy 作为否定性质一起复习。",
+    "intro": "已有 healthy、unhealthy 精讲复用，新补常见副词与性质名词。这里只说明用法，不把单词自身当健康评估标准。",
+    "forms": "healthy + -ly/-ness，y → i；un- + healthy。\n\n健康、完整材料，比较范围与语境决定具体含义。",
+    "branches": [
+      [
+        "性质、方式和程度",
+        "healthy · healthily · healthiness"
+      ],
+      [
+        "否定性质",
+        "unhealthy"
+      ],
+      [
+        "完好词族 healthy 的比较形式",
+        "healthy · healthier · healthiest"
+      ]
+    ],
+    "contrasts": "healthy food/eat healthily 句法不同；healthiness 常突出健康程度；unhealthy 不只是 unhappy 不开心。",
+    "practice": "She reads about healthy meals and tries to eat healthily.\n\n她阅读健康餐食的资料，也尝试健康饮食。",
+    "words": [
+      "healthy",
+      "healthily",
+      "healthiness",
+      "unhealthy",
+      "healthier",
+      "healthiest"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3297",
+    "meaning": "命运旧名；超自然到古怪，再派生方式、性质和人物",
+    "core": "WEIRD：古义命运，现代抓偏离平常的怪异感",
+    "image": "weird → weirdly、weirdness、weirdo，先性质，再方式、抽象特点和人物。",
+    "intro": "历史从命运义到文学神秘传统再到古怪，不用现代字母硬拆；人物称呼保留语气，不等同医学标签。",
+    "forms": "weird + -ly/-ness/-o；人物 -o 与方式 -ly、性质 -ness 分开。",
+    "branches": [
+      [
+        "古怪性质及派生",
+        "weird · weirdly · weirdness · weirdo"
+      ]
+    ],
+    "contrasts": "weird 比 unusual 常更主观口语；weirdness 特点、weirdo 人物；古怪不自动等于危险。",
+    "practice": "The weird noise made the quiet room feel even stranger.\n\n那怪异声音让安静的房间显得更加奇怪。",
+    "words": [
+      "weird",
+      "weirdly",
+      "weirdness",
+      "weirdo"
+    ],
+    "exclude": {
+      "weird-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "A1770",
+    "meaning": "与……有关的、属于……的；相应的人、成员等〔含 -ian 等常见扩展〕",
+    "core": "AN：先说明属于哪个领域、群体，再看整个词指人还是性质",
+    "image": "republic → republican 共和国、共和相关；library → librarian 图书管理员；circadian 却是大约一天周期的形容词。不要把所有 an 尾巴都当人。",
+    "intro": "这个关系形容词、人物名称材料可接拉丁 -anus 等，有的经法语 -ain、-en 等路线进入。英语还发展了 -ian、-arian 等常见形式，具体词有自己的借入和扩展史；不是每次都只删掉前面的几个字母再接 an。",
+    "forms": "republic + -an；library 的相应词干 + -ian；contrary + -an → contrarian；circadian 还含拉丁 circa、dies 材料；crustacean 接分类名 Crustacea。radian 则是专门命名的单位词。moan 呻吟虽然结尾字母相同，不属于这个关系后缀。\n\ncustodian 接 custody 与拉丁 custod- 看管材料及相应人物名词词尾；保管人、校舍管理人员等随对象分化。\n\n同一基词后加 s，尾 mz，不增加新元音。",
+    "branches": [
+      [
+        "人物身份、领域",
+        "republic · republican；library · librarian；theology · theologian；veterinarian"
+      ],
+      [
+        "生活方式和立场",
+        "bohemian；contrary · contrarian；utopian · dystopian · sectarian · totalitarian"
+      ],
+      [
+        "性质、周期和生物类群",
+        "circadian；crustacean · amphibian · ovarian"
+      ],
+      [
+        "专门命名及其他固定词",
+        "radius · radian；pedestrian · cosmopolitan · subterranean"
+      ],
+      [
+        "custodian：负责照管、保管的人",
+        "custody · custodian"
+      ],
+      [
+        "rhythm → rhythms：可分辨的节奏模式",
+        "rhythm · rhythms"
+      ]
+    ],
+    "contrasts": "bohemian 风格不表示所有这样生活的人都来自 Bohemia；contrarian 反主流不等于永远正确；crustacean 不是所有 shellfish；radian 单位名不是一个相应人物。",
+    "practice": "The contrarian librarian questioned the claim and asked for evidence.\n\n那位喜欢提出不同看法的图书管理员质疑了说法，并要求证据。",
+    "words": [
+      "republic",
+      "republican",
+      "library",
+      "librarian",
+      "theology",
+      "theologian",
+      "veterinarian",
+      "pedestrian",
+      "cosmopolitan",
+      "sect",
+      "sectarian",
+      "totalitarian",
+      "dystopian",
+      "utopian",
+      "subterranean",
+      "antiquarian",
+      "amphibian",
+      "ovarian",
+      "documentarian",
+      "centenarian",
+      "bohemian",
+      "contrary",
+      "contrarian",
+      "rhythm",
+      "circadian",
+      "crust",
+      "crustacean",
+      "radius",
+      "radian",
+      "custody",
+      "custodian",
+      "rhythms"
+    ],
+    "exclude": {
+      "norman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "presbyterian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-librarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sylvan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "riparian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "valedictorian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "publican": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "disciplinarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cerulean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "protean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cetacean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "protozoan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "antediluvian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "molluscan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

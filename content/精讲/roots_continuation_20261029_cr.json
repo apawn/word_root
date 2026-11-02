@@ -1,0 +1,57 @@
+[
+  {
+    "id": "B2780",
+    "meaning": "道路、旅途；路边、路障与巡演词",
+    "core": "ROAD：实际走的路，也能是事情推进的路",
+    "image": "先读道路结构，再看被挡住的 roadblock 与目标方向的 roadmap；roadie、roadster、roadrunner 是不同固定名称。",
+    "intro": "road 来自古英语的骑行、出行词族，后来突出通行道路义。现代复合词通常透明，但 -ster、-ie 形成的名称要按固定使用对象认。",
+    "forms": "road → railroad、roadway；roadside 路旁、roadbed 路基；roadblock 障碍、roadmap 路线图；roadster 车、roadie 巡演工作者、roadrunner 鸟。\n\n古英语 rad 与 ride 同族，路的意义后来突出。",
+    "branches": [
+      [
+        "道路及结构",
+        "road · railroad · roadway · roadside · roadbed · crossroad · roadwork"
+      ],
+      [
+        "阻碍与计划",
+        "roadblock · roadmap"
+      ],
+      [
+        "出行、巡演及固定名称",
+        "roadshow · roadhouse · roadster · roadie · roadrunner"
+      ],
+      [
+        "动物道路伤亡",
+        "roadkill"
+      ],
+      [
+        "road → roads：从出行、骑行到通行的路",
+        "road · roads"
+      ]
+    ],
+    "contrasts": "roadside 路边，roadbed 路基；roadster 车，roadie 人，roadrunner 鸟；railroad 动词还能说强推。",
+    "practice": "The roadies stopped at a roadside café after a roadblock delayed the journey.\n\n路障耽误行程后，巡演工作人员在路边咖啡馆停了下来。",
+    "words": [
+      "road",
+      "railroad",
+      "roadway",
+      "roadside",
+      "roadbed",
+      "crossroad",
+      "roadwork",
+      "roadblock",
+      "roadmap",
+      "roadshow",
+      "roadhouse",
+      "roadster",
+      "roadie",
+      "roadrunner",
+      "roadkill",
+      "roads"
+    ],
+    "exclude": {
+      "off-road": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whale-road": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "roading": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

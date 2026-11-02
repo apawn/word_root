@@ -1,0 +1,209 @@
+[
+  {
+    "id": "B2833",
+    "meaning": "便便、排便；另有船艉与疲惫等不同来源、关系",
+    "core": "POOP：按家庭、航海或疲惫场景，分清是哪一个词义",
+    "image": "dog poop 是狗粪，poopy diaper 是有大便的尿布；poop deck 却是艉楼甲板，I’m pooped 又常是我累坏了。",
+    "intro": "排泄词常有拟声、儿童委婉语背景；船艉词经法语等接拉丁 puppis；疲惫义的确切来源未定。相同拼写不能替代分支词源。",
+    "forms": "poop〔排泄词〕+ -y → poopy；poop〔疲惫、耗尽用法〕+ -ed → pooped。后者不要求先有排泄义再一步转成很累。",
+    "branches": [
+      [
+        "家庭口语中的物质与动作",
+        "poop · poopy"
+      ],
+      [
+        "随意表达累坏了",
+        "pooped"
+      ],
+      [
+        "航海里的同形名称",
+        "poop〔船艉、艉楼〕"
+      ]
+    ],
+    "contrasts": "poop deck 不按厕所甲板解释；pooped 很累是完整口语用法；poop 一般比 shit 温和。",
+    "practice": "After cleaning up the puppy’s poop, she felt completely pooped.\n\n清理完小狗的粪便后，她觉得累坏了。",
+    "words": [
+      "poop",
+      "poopy",
+      "pooped"
+    ],
+    "exclude": {
+      "pooper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4563",
+    "meaning": "核验；确认满足要求、有效；被认可的过程等",
+    "core": "VALIDATION：先说清按什么标准确认",
+    "image": "表单校验看格式、必填项；研究验证看方法、证据；情感认可看感受被理解。不同对象下，确认的目标不同。",
+    "intro": "validation 与 validate、valid 连着拉丁有效、有力的词族，经相应抽象名词形式发展。不是每个场景都在证明一个事实绝对真实。",
+    "forms": "valid ↔ validate ↔ validation；validate + -or → validator；in- + validation → invalidation。词尾分别让有效性质、核验动作、过程和执行者进入不同位置。",
+    "branches": [
+      [
+        "性质与动作",
+        "valid · invalid；validate"
+      ],
+      [
+        "核验、确认及取消效力",
+        "validation · invalidation"
+      ],
+      [
+        "执行核验的人、工具",
+        "validator"
+      ]
+    ],
+    "contrasts": "validator 是工具或人物，validation 是过程、确认等；一个值符合格式，不等于相关事实已经被同一检查证明。",
+    "practice": "The validator performs format validation before the form is submitted.\n\n表单提交前，校验器先进行格式校验。",
+    "words": [
+      "valid",
+      "invalid",
+      "validate",
+      "validation",
+      "invalidation",
+      "validator"
+    ],
+    "exclude": {
+      "cross-validation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2847",
+    "meaning": "鸽类鸟名；和平、主和比喻；另有潜入过去式用途",
+    "core": "DOVE：读音先分鸟名和过去式，再接各自词族",
+    "image": "dove /dʌv/ 的鸟尾能给 dovetail 命名；dovish 取和平象征；dove /doʊv/ 又可以是 dive 的过去式。",
+    "intro": "鸟名接古英语相关形式，其远源或与潜入词族有关，但命名动机未定；现代过去式 dove 则是十九世纪起出现、可能按 drive—drove 等类推的语法形式。",
+    "forms": "dove + -ish → dovish，省 e；dove + tail → dovetail；dive + -ing → diving；dive 的过去式有 dived、dove，不把它们的元音都读成鸟名。",
+    "branches": [
+      [
+        "鸟名与和平态度",
+        "dove · dovish"
+      ],
+      [
+        "尾形与相互吻合的比喻",
+        "dovetail"
+      ],
+      [
+        "潜入、扑出及活动",
+        "dive · diving；dove〔过去式〕"
+      ]
+    ],
+    "contrasts": "白色不是划分 dove、pigeon 的唯一规则；dovish 与 hawkish 对照的是立场，dovetail 则由鸟尾形状走向吻合、衔接。",
+    "practice": "The plans dovetail with the group’s more dovish approach.\n\n这些计划与该团体较温和、主和的做法相吻合。",
+    "words": [
+      "dove",
+      "dovish",
+      "dovetail",
+      "dive",
+      "diving"
+    ],
+    "exclude": {
+      "cuckoo-dove": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quail-dove": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lovey-dovey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4150",
+    "meaning": "婚姻、夫妻关系及其时间、范围",
+    "core": "MARITAL：以婚姻关系为参照，看内部、之前或之外",
+    "image": "marital status 问婚姻状况；premarital 在结婚之前；extramarital 在婚姻关系之外。时间与关系范围分开看。",
+    "intro": "marital 经法语、拉丁 maritalis，接 maritus 已婚男子、丈夫等材料，现代广泛说婚姻。marry、marriage 与它有共同的历史词族背景，但不是今天都从同一个短词临时造出。",
+    "forms": "pre- + marital → premarital；extra- + marital → extramarital。前者取之前，后者取关系范围之外，不是额外多结一次婚。\n\n婚姻可数时数一段段关系，也可比喻融合。",
+    "branches": [
+      [
+        "结婚、婚姻与性质",
+        "marry · marriage · marital"
+      ],
+      [
+        "结婚之前",
+        "premarital"
+      ],
+      [
+        "婚姻关系之外",
+        "extramarital"
+      ],
+      [
+        "marriage → marriages：结合名词的复数",
+        "marriage · marriages"
+      ]
+    ],
+    "contrasts": "marital 婚姻的与 martial 军事、武术的不同；marital status 也不等于对婚姻幸福程度的评语。",
+    "practice": "The questionnaire asks about marital status, not marital happiness.\n\n问卷询问的是婚姻状况，不是婚姻幸福程度。",
+    "words": [
+      "marry",
+      "marriage",
+      "marital",
+      "premarital",
+      "extramarital",
+      "marriages"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4112",
+    "meaning": "清楚表达；分节、关节相连等历史材料",
+    "core": "ARTICULATE：把声音组织成清楚可辨的部分",
+    "image": "说话清楚，是 articulate；心里有感受却讲不清，是 inarticulate。词源背后有节段、关节分明的材料。",
+    "intro": "articulate 接拉丁 articulatus，来自 articulare 分成关节、分节，也有清楚发音的用法；articulus 是部分、关节等。英语语言义和实体连接义各自发展。",
+    "forms": "articulate 与 articulation 是相应动词、性质和过程名词关系；in- + articulate 对应 inarticulate，否定清楚分明。articulate 作形容词、动词时末尾读音不同。\n\narticle 与 articulate 同接拉丁语 articulus 的关节、部分材料，分别经不同词形借入。文章是完整刊物中的一部分，articulate 的表达义则联系分明的语音、表达。\n\n小关节、分节项目的词族，连接独立成篇、成条、成件的对象。",
+    "branches": [
+      [
+        "清楚表达与相应过程",
+        "articulate · articulation"
+      ],
+      [
+        "不易清楚表达",
+        "inarticulate"
+      ],
+      [
+        "文章、条目与清楚分节的表达",
+        "article · articulate"
+      ],
+      [
+        "article → articles：一篇、一条、一件与冠词",
+        "article · articles"
+      ]
+    ],
+    "contrasts": "articulate 说清楚不等于说得一定正确；inarticulate 也不等于没有思想。articulation 的实体连接、关节义要按学科场景读。",
+    "practice": "He could articulate the problem clearly, despite feeling inarticulate at first.\n\n他起初觉得自己词不达意，后来仍把问题讲清楚了。",
+    "words": [
+      "articulate",
+      "articulation",
+      "inarticulate",
+      "article",
+      "articles"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4540",
+    "meaning": "被塑成某形状；具有某种形态的",
+    "core": "SHAPED：材料或事物已经被塑成一个样子",
+    "image": "clay shaped into a bowl 是被塑成碗的黏土；an experience that shaped someone 也可以是塑造一个人的经历。",
+    "intro": "shape + -ed，动词分词可作修饰语、状态表达。shape 的形状、塑造等历史用法构成实体与抽象两条常用关系。",
+    "forms": "shape 末尾有 e，只加 d → shaped；shapely 是具有匀称、好形状的性质，不是 shaped 的另一个过去式。",
+    "branches": [
+      [
+        "基本形状与塑造动作",
+        "shape"
+      ],
+      [
+        "形成后的形状、性质",
+        "shaped · shapely"
+      ]
+    ],
+    "contrasts": "be shaped like 形状像，be shaped by 由某种力量、经历塑造；shape 的抽象塑造义不要求人在物理上变形。",
+    "practice": "The clay was shaped into a small bowl.\n\n黏土被塑成了一只小碗。",
+    "words": [
+      "shape",
+      "shaped",
+      "shapely"
+    ],
+    "exclude": {
+      "egg-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kidney-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "needle-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "almond-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

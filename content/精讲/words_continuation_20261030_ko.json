@@ -1,0 +1,392 @@
+[
+  {
+    "word": "hum",
+    "ipa": "/hʌm/",
+    "meaning": "哼曲；低声嗡鸣；嗡嗡声；忙碌运转",
+    "sense": "嘴不唱清歌词，轻轻哼旋律，是 hum；冰箱、电机持续低响也像哼着。一个地方运作活跃，又可以说 it is humming。",
+    "split": "承中古英语 hummen 等，通常归于拟声词，并与其他日耳曼语言的嗡鸣形式相比。不是所有 hum 开头的词都取这个意思。",
+    "history": [
+      [
+        "中古英语 hummen；通常看作拟声来源",
+        "哼、嗡嗡响、低声连续作响"
+      ],
+      [
+        "声音与活动的比喻",
+        "机器低鸣、人哼曲；地方运转活跃"
+      ]
+    ],
+    "explanation": "hum a tune 哼曲子，the hum of traffic 车流的低响，hum along 跟着哼，hum with activity 忙碌活跃地运作。",
+    "usage": "hum a tune；the hum of traffic；hum with activity。",
+    "contrast": "hum 可轻轻哼唱，不必有词；sing 范围更广。humble 谦逊的来自另一词源，不能拆成 hum 嗡鸣 + -ble。",
+    "examples": [
+      [
+        "She hummed a tune while washing the dishes.",
+        "她洗碗时轻轻哼着曲子。"
+      ],
+      [
+        "The refrigerator gave a steady hum.",
+        "冰箱发出持续的低鸣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hum#English"
+    ]
+  },
+  {
+    "word": "humming",
+    "ipa": "/ˈhʌmɪŋ/",
+    "meaning": "哼唱、嗡鸣声；嗡响、运转活跃的",
+    "sense": "耳边一直有低低的声音，可以说 humming；工厂、办公室正活跃运作，也可借用机器嗡鸣的形象。",
+    "split": "hum + -ing，双写 m。名词说声音、行为，分词形容持续低响等状态。",
+    "history": [
+      [
+        "中古英语 hummen；通常看作拟声来源",
+        "哼、嗡嗡响、低声连续作响"
+      ],
+      [
+        "声音与活动的比喻",
+        "机器低鸣、人哼曲；地方运转活跃"
+      ],
+      [
+        "hum + -ing → humming",
+        "哼唱、嗡鸣；正在活跃运转"
+      ]
+    ],
+    "explanation": "a humming noise 嗡鸣声，the humming of a motor 电机嗡鸣，keep the business humming 让业务顺畅活跃地运行。",
+    "usage": "a humming noise；the humming of a motor。",
+    "contrast": "humming 可以是唱歌，也可以是机器声或活跃比喻。hummingbird 是因翅膀声音得名的鸟，不是在唱歌词。",
+    "examples": [
+      [
+        "The humming of the fan filled the quiet room.",
+        "风扇的嗡鸣回荡在安静的房间里。"
+      ],
+      [
+        "Orders kept the workshop humming all week.",
+        "订单让工场整周忙碌运转。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humming#English"
+    ]
+  },
+  {
+    "word": "humbucker",
+    "ipa": "英 /ˈhʌmbʌkə/；美 /ˈhʌmbʌkər/",
+    "meaning": "双线圈消噪拾音器",
+    "sense": "电吉他可能拾到讨厌的电气嗡声。humbucker 用两个线圈配合，抵消这种干扰，同时保留琴弦的信号；名字就是对抗嗡声的东西。",
+    "split": "hum 嗡声 + buck 抵抗、对抗 + -er 器具。buck 在这里不是雄鹿的动物义。",
+    "history": [
+      [
+        "中古英语 hummen；通常看作拟声来源",
+        "哼、嗡嗡响、低声连续作响"
+      ],
+      [
+        "hum + buck + -er → humbucker",
+        "抵消电气嗡声的拾音器名称"
+      ]
+    ],
+    "explanation": "a humbucker pickup 双线圈消噪拾音器，a guitar with humbuckers 装有这类拾音器的吉他。线圈可有不同布局，不能只按外观宽度判断。",
+    "usage": "a humbucker pickup；a guitar with humbuckers。",
+    "contrast": "humbucker 抑制相应干扰，不意味着任何环境下都没有任何噪声。拾音器 pickup 与扩音器 amplifier 也不是同一设备。",
+    "examples": [
+      [
+        "The guitar has a humbucker near the bridge.",
+        "吉他在琴桥附近装了一个双线圈消噪拾音器。"
+      ],
+      [
+        "She compared the humbucker with a single coil pickup.",
+        "她比较了双线圈消噪拾音器和单线圈拾音器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humbucker#English",
+      "https://www.fender.com/articles/maintenance/what-is-a-humbucker-and-how-does-it-buck-the-hum"
+    ]
+  },
+  {
+    "word": "maid",
+    "ipa": "/meɪd/",
+    "meaning": "女仆、女佣、女性清洁服务人员；少女〔旧、文学用法〕",
+    "sense": "历史上先是年轻女子的称呼，后来一些工作角色也用 maid 命名。现代常在酒店、家务服务或历史故事里看到。",
+    "split": "中古英语 maid 是 maiden 的截短，后者承古英语 mægden。现代虽然 maid 更短，却不代表 maiden 一定是从现代 maid 新加后缀产生。",
+    "history": [
+      [
+        "古英语 mægden → 中古英语 maiden",
+        "女孩、未婚年轻女子等旧称"
+      ],
+      [
+        "maiden 的截短 → maid",
+        "年轻女子；女仆、清洁服务人员等"
+      ]
+    ],
+    "explanation": "a hotel maid 酒店女清洁服务员，a lady’s maid 女主人的贴身女仆〔历史〕。今天具体工作也常用 housekeeper、cleaner 等名称。",
+    "usage": "a hotel maid；a lady’s maid。",
+    "contrast": "maid 与 made 同音。历史 maiden、maid 的身份词义与现代岗位名称不同，不能据职业称呼推断婚姻、年龄。",
+    "examples": [
+      [
+        "The novel follows a maid in a large country house.",
+        "小说以乡间大宅里的一名女仆为主角。"
+      ],
+      [
+        "The hotel maid found the missing scarf.",
+        "酒店女清洁员找到了遗失的围巾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maid#English"
+    ]
+  },
+  {
+    "word": "maiden",
+    "ipa": "/ˈmeɪdən/",
+    "meaning": "少女、未婚年轻女子〔旧、文学用法〕；首次的",
+    "sense": "旧时说年轻、未婚女子，后来把尚未经历某事的形象用于首次：a maiden voyage 是船的第一次航行。",
+    "split": "古英语 mægden 经中古英语 maiden 传下，更早含旧小称形式。maid 反而是后来的截短，现代不要只凭较短词形倒推历史。",
+    "history": [
+      [
+        "古英语 mægden → 中古英语 maiden",
+        "女孩、未婚年轻女子等旧称"
+      ],
+      [
+        "复合词与首次的比喻",
+        "mermaid 海中女子；nursemaid 照料孩子者；maiden voyage 首航"
+      ]
+    ],
+    "explanation": "a maiden voyage 首航，a maiden speech 首次演说，maiden name 婚前姓〔传统用法〕。名词少女义多见文学、旧语境。",
+    "usage": "a maiden voyage；a maiden speech；maiden name。",
+    "contrast": "maiden 作首次的形容词时，不是在说船、演讲的性别；maiden name 也不是名字中的第一个词。",
+    "examples": [
+      [
+        "The ship began its maiden voyage in spring.",
+        "这艘船在春天开始首航。"
+      ],
+      [
+        "Her maiden speech focused on education.",
+        "她的首次演说集中谈教育。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maiden#English",
+      "https://www.etymonline.com/word/maiden"
+    ]
+  },
+  {
+    "word": "mermaid",
+    "ipa": "英 /ˈmɜːmeɪd/；美 /ˈmɜːrmeɪd/",
+    "meaning": "美人鱼",
+    "sense": "故事中上半身是女人、下半身是鱼尾的海中人物，就是 mermaid。名称把水域和女子接在一起。",
+    "split": "中古英语 mermayde，由 mere 海、湖等水域旧词 + maid 女子。前半 mer- 不取法语 mère 母亲义。",
+    "history": [
+      [
+        "古英语 mægden → 中古英语 maiden",
+        "女孩、未婚年轻女子等旧称"
+      ],
+      [
+        "maiden 的截短 → maid",
+        "年轻女子；女仆、清洁服务人员等"
+      ],
+      [
+        "mere + maid → mermaid",
+        "海、湖里的女子 → 美人鱼"
+      ]
+    ],
+    "explanation": "a mermaid tale 美人鱼故事，a mermaid statue 美人鱼雕像。merman 是相应男性虚构形象的常见名称。",
+    "usage": "a mermaid tale；a mermaid statue。",
+    "contrast": "mermaid 是神话、故事形象。manatee 海牛等真实动物与它不是同一分类名称。",
+    "examples": [
+      [
+        "The child drew a mermaid with a silver tail.",
+        "孩子画了一条银尾美人鱼。"
+      ],
+      [
+        "A mermaid statue stands near the harbor.",
+        "一尊美人鱼雕像立在港边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mermaid#English"
+    ]
+  },
+  {
+    "word": "nursemaid",
+    "ipa": "英 /ˈnɜːsmeɪd/；美 /ˈnɜːrsmeɪd/",
+    "meaning": "照料孩子的女保姆〔常见于历史语境〕；事事照料、替人操心",
+    "sense": "nurse 在这里取照料义，maid 取工作角色义，合起来是照顾孩子的人。动词再借这种角色说不停替人、某设备操心。",
+    "split": "nurse + maid。由照顾幼儿的工作名称，转成事事照看的动词。",
+    "history": [
+      [
+        "古英语 mægden → 中古英语 maiden",
+        "女孩、未婚年轻女子等旧称"
+      ],
+      [
+        "maiden 的截短 → maid",
+        "年轻女子；女仆、清洁服务人员等"
+      ],
+      [
+        "nurse + maid → nursemaid",
+        "照顾孩子者 → 不断替人操心、照料"
+      ]
+    ],
+    "explanation": "a child’s nursemaid 孩子的保姆，nursemaid a machine 不停照看一台不可靠的机器〔比喻〕。",
+    "usage": "a child’s nursemaid；nursemaid a machine。",
+    "contrast": "nursemaid 不只看成医院护士加女佣；这里 nurse 的照料义更宽。动词对成年人使用时，常暗含不该需要如此照看的不耐烦。",
+    "examples": [
+      [
+        "The nursemaid took the children to the garden.",
+        "保姆带孩子们去了花园。"
+      ],
+      [
+        "The unreliable printer needs nursemaiding all day.",
+        "那台不可靠的打印机整天都得有人照看。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nursemaid#English"
+    ]
+  },
+  {
+    "word": "bullet",
+    "ipa": "/ˈbʊlɪt/",
+    "meaning": "子弹、弹头；项目符号；快速移动",
+    "sense": "名称有小球的历史，现代弹头不必是圆球。排版里一颗实心圆点用来标条目，也因外形叫 bullet。",
+    "split": "借法语 bullete 等，联系 boule 球的小称，后来受 boulet、boulette 等影响。不是常用弹丸义由 bull 公牛 + -et 组成；小公牛的少见同形词是另回事。",
+    "history": [
+      [
+        "法语 boule 球 → bullete 等小称",
+        "小球；印记、标记等旧借词背景"
+      ],
+      [
+        "英语 bullet 的固定用途",
+        "弹丸；版面项目符号；迅速运动的比喻"
+      ]
+    ],
+    "explanation": "a bullet point 项目要点、带符号条目，a bullet list 项目列表，dodge a bullet 躲过一劫，bite the bullet 硬着头皮面对难事。",
+    "usage": "a bullet point；dodge a bullet；bite the bullet。",
+    "contrast": "严格说 bullet 可指射出的弹头，cartridge 是包含壳体等的一整发；日常 bullet 也可能泛说整发。bulletproof 是防弹的或比喻难以攻破。",
+    "examples": [
+      [
+        "Please put the main ideas into bullet points.",
+        "请把主要想法列成项目要点。"
+      ],
+      [
+        "They dodged a bullet when the broken branch missed the car.",
+        "断枝没砸中车，他们躲过一劫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bullet#English",
+      "https://www.etymonline.com/word/bullet"
+    ]
+  },
+  {
+    "word": "lip",
+    "ipa": "/lɪp/",
+    "meaning": "嘴唇；凸边、边缘；顶嘴、不敬的话〔口语〕",
+    "sense": "嘴的上下边缘是 lips；杯、壶、托盘边缘向外或向上凸起，也像嘴唇。话从嘴里出来，lip 又能口语说顶嘴。",
+    "split": "承古英语 lippa、lippe，经中古英语 lippe 传下。身体部位转为相似边缘，再在口语里与说话态度相连。",
+    "history": [
+      [
+        "古英语 lippa、lippe → 中古英语 lippe → lip",
+        "嘴唇"
+      ],
+      [
+        "形状、位置与说话的扩展",
+        "容器凸边；顶嘴、不敬的话"
+      ]
+    ],
+    "explanation": "the upper lip 上唇，the lip of a cup 杯口凸边，bite your lip 咬唇、忍住不说，give someone lip 顶嘴，My lips are sealed. 我会守口如瓶。",
+    "usage": "the upper lip；the lip of a cup；give someone lip。",
+    "contrast": "lip 不是整个 mouth；rim 是更广的边缘名称。Don’t give me lip. 带斥责语气，不能当普通邀请别人说话。",
+    "examples": [
+      [
+        "She pressed her lips together to stop laughing.",
+        "她抿住嘴唇，忍着没笑。"
+      ],
+      [
+        "A small chip was missing from the lip of the cup.",
+        "杯口边缘缺了一小块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lip#English"
+    ]
+  },
+  {
+    "word": "lipped",
+    "ipa": "/lɪpt/",
+    "meaning": "有嘴唇、带某类唇的；带凸边的",
+    "sense": "物件边缘凸起像唇，可以 lipped。描述人的嘴唇时，通常还会加修饰成分，说唇是什么样。",
+    "split": "lip + -ed，双写 p，表具有某种结构；末尾读 /t/。这类 -ed 不是每次都表示被人做了一个动作。",
+    "history": [
+      [
+        "古英语 lippa、lippe → 中古英语 lippe → lip",
+        "嘴唇"
+      ],
+      [
+        "形状、位置与说话的扩展",
+        "容器凸边；顶嘴、不敬的话"
+      ],
+      [
+        "lip + -ed → lipped",
+        "具有唇或唇状凸边"
+      ]
+    ],
+    "explanation": "a lipped edge 凸起边缘，a lipped tray 带凸边托盘；人物外貌描写中多见带其他限定成分的组合。",
+    "usage": "a lipped edge；a lipped tray。",
+    "contrast": "lipped 多说身体或结构特征，lippy 常说顶嘴的态度。凸边的托盘不因此有会说话的性格。",
+    "examples": [
+      [
+        "She chose a tray with a lipped edge.",
+        "她选了一个边缘凸起的托盘。"
+      ],
+      [
+        "Each shelf has a lipped front to stop objects sliding off.",
+        "每层搁板前沿都有凸边，防止东西滑落。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lipped#English"
+    ]
+  },
+  {
+    "word": "lippy",
+    "ipa": "/ˈlɪpi/",
+    "meaning": "爱顶嘴、出言不逊的〔口语〕；口红、唇彩〔口语名词〕",
+    "sense": "一个人总拿话顶回来，口语可以说 lippy。另一个名词用法则把 lipstick、lip gloss 缩成亲切的短名，常见于英式口语。",
+    "split": "态度义由 lip 顶嘴 + -y，双写 p；化妆品名词另由 lipstick、lip gloss 等截短再加口语 -y。两条现代构词作用不同。",
+    "history": [
+      [
+        "古英语 lippa、lippe → 中古英语 lippe → lip",
+        "嘴唇"
+      ],
+      [
+        "形状、位置与说话的扩展",
+        "容器凸边；顶嘴、不敬的话"
+      ],
+      [
+        "lip + -y → lippy 形容词",
+        "顶嘴、不敬的态度"
+      ],
+      [
+        "lipstick／lip gloss → lippy 名词",
+        "口红、唇彩的口语短称"
+      ]
+    ],
+    "explanation": "get lippy 顶起嘴来，a lippy teenager 爱顶嘴的青少年，a tube of lippy 一管口红〔口语〕。",
+    "usage": "get lippy；a tube of lippy。",
+    "contrast": "lippy 常含说话者不满对方态度的评价；化妆品名词没有这个态度义。看词性和搭配就能分开。",
+    "examples": [
+      [
+        "He got lippy when the teacher asked him to wait.",
+        "老师让他等一下，他却顶起嘴来。"
+      ],
+      [
+        "She slipped a tube of lippy into her bag.",
+        "她把一管口红放进包里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lippy#English"
+    ]
+  }
+]

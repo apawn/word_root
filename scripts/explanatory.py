@@ -209,7 +209,7 @@ def finish(roots,lessons,words):
     (OUT/'待补图清单.md').write_text('\n'.join(pending)+'\n')
     (OUT/'data/待补图清单.json').write_text(json.dumps({'checkpoint':IMAGE_PLAN.get('checkpoint',{}),'root_ids':[r['id'] for r in pending_roots],'words':sorted(pending_words),'root_files':{r['id']:r['file'] for r in pending_roots}},ensure_ascii=False,indent=2))
     refs=['# 逐词精讲核对资料','', '[来源与许可](../来源与许可.md)','',
-          '中文讲解、语义说明及双语例句由 AI 逐词编写；例句不是引自下列网站。文字演化链与已有配图依据核对过的词形路径，必要的不确定性在正文说明；新增图片暂缓。下列资料用于词源和读音核对。旧版开放词典记录仍保存在 data/词条来源.jsonl。','']
+          '中文讲解、语义说明及双语例句由 AI 逐词编写；例句不是引自下列网站。文字演化链与已有配图依据核对过的词形路径，必要的不确定性在正文说明；新增图片暂缓。下列资料用于词源和读音核对。旧版开放词典记录仍保存在 data/词条来源/part-*.jsonl。','']
     for word in sorted(used):
         refs += [f'## {word}','']
         for url in words[word].get('sources',[]):refs.append(f'- [{url.split("/")[2]}：{word}]({url})')

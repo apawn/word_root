@@ -1,0 +1,357 @@
+[
+  {
+    "word": "fashionably",
+    "ipa": "/ˈfæʃənəbli/",
+    "meaning": "时髦地；合时尚地",
+    "sense": "衣服、发型按当下流行风格打理，就是 fashionably dressed。固定说法 fashionably late 常带故意稍晚露面的社交意味。",
+    "split": "fashionable + -ly；-able 末尾 e 去掉，形成 -ably → fashionably。不是 fashionable 原样再多写一个完整音节。",
+    "history": [
+      [
+        "fashion 时尚、方式 + -able → fashionable",
+        "合时尚的、流行的"
+      ],
+      [
+        "fashionable + -ly；un- + fashionable",
+        "时髦地；不时髦的"
+      ]
+    ],
+    "explanation": "fashionably dressed 穿着时髦；fashionably late 故意稍迟、显得合社交习惯地迟到，常带玩笑或评价语气。",
+    "usage": "fashionably dressed；fashionably late。",
+    "contrast": "fashionably late 不是给任何迟到找体面的万能说法；堵车耽误并不天然有故意、摆姿态的意思。",
+    "examples": [
+      [
+        "The guests were fashionably dressed.",
+        "来宾们穿着时髦。"
+      ],
+      [
+        "He joked that he was fashionably late.",
+        "他开玩笑说自己是时髦地晚到了一会儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fashionably#English"
+    ]
+  },
+  {
+    "word": "unfashionable",
+    "ipa": "/ʌnˈfæʃənəbəl/",
+    "meaning": "不时髦的；不流行的",
+    "sense": "现在不受追捧、不符合当下潮流，就是 unfashionable。衣服可以这样说，观点、活动也一样。",
+    "split": "un- 不 + fashionable 时髦的、流行的；否定整个性质，不表示把时尚主动拆掉。",
+    "history": [
+      [
+        "fashion 时尚、方式 + -able → fashionable",
+        "合时尚的、流行的"
+      ],
+      [
+        "fashionable + -ly；un- + fashionable",
+        "时髦地；不时髦的"
+      ]
+    ],
+    "explanation": "unfashionable clothes 不时髦的衣服；an unfashionable opinion 不流行的观点；become unfashionable 变得不流行。",
+    "usage": "unfashionable clothes；an unfashionable opinion。",
+    "contrast": "unfashionable 不流行，不等于 ugly 丑或 wrong 错；审美、流行度和事实判断是不同问题。",
+    "examples": [
+      [
+        "The jacket may be unfashionable, but it is warm and comfortable.",
+        "这件夹克或许不时髦，但暖和舒服。"
+      ],
+      [
+        "The essay defends an unfashionable opinion.",
+        "文章为一个不流行的观点辩护。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfashionable#English"
+    ]
+  },
+  {
+    "word": "clone",
+    "ipa": "英 /kləʊn/；美 /kloʊn/",
+    "meaning": "克隆体、克隆群；复制品；克隆、复制",
+    "sense": "植物的一段枝条长出新植株，是旧命名的直观入口。后来细胞同源繁殖、复制现有产品或软件，也会用 clone。",
+    "split": "1903 年植物学术语，取希腊 klon 嫩枝的拉丁化形式；名词后来发展出动词和复制比喻。不是由电脑文件复制这个用法倒推生物学。",
+    "history": [
+      [
+        "希腊 klon 嫩枝 → 1903 年植物学 clone",
+        "由原植株材料繁殖的一组植物命名"
+      ],
+      [
+        "clone 扩展至细胞、其他生物及复制比喻",
+        "同源复制个体、群体；复制、仿制"
+      ],
+      [
+        "clone + -al → clonal",
+        "克隆相关、共同细胞或个体来源的"
+      ]
+    ],
+    "explanation": "a plant clone 植物克隆体、克隆群；clone a repository 克隆代码仓库；a cheap clone 廉价仿制品。生物语境侧重无性繁殖、共同来源，软件操作取复制比喻。",
+    "usage": "a plant clone；clone a repository；a clone of an existing product。",
+    "contrast": "生物克隆不等于性格、经历全相同，也不等于每次都人工制造；自然无性繁殖也可形成克隆。",
+    "examples": [
+      [
+        "The plants in this group belong to a single clone.",
+        "这组植物属于同一个克隆群。"
+      ],
+      [
+        "The developer cloned the repository to a local computer.",
+        "开发者把代码仓库克隆到了本地电脑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clone#English",
+      "https://www.etymonline.com/word/clone"
+    ]
+  },
+  {
+    "word": "clonal",
+    "ipa": "英 /ˈkləʊnəl/；美 /ˈkloʊnəl/",
+    "meaning": "克隆的；同一细胞或个体来源繁殖的",
+    "sense": "一群细胞沿着分裂往上追，来自同一个祖先细胞，就有 clonal 的来源关系。重点不只是长得相像。",
+    "split": "clone + -al，去末尾 e → clonal。-al 形成相关性质形容词；不是 clone 加所有格。",
+    "history": [
+      [
+        "希腊 klon 嫩枝 → 1903 年植物学 clone",
+        "由原植株材料繁殖的一组植物命名"
+      ],
+      [
+        "clone 扩展至细胞、其他生物及复制比喻",
+        "同源复制个体、群体；复制、仿制"
+      ],
+      [
+        "clone + -al → clonal",
+        "克隆相关、共同细胞或个体来源的"
+      ]
+    ],
+    "explanation": "clonal growth 克隆生长；clonal population 克隆群体；clonal expansion 克隆扩增，常说同源细胞数量扩大。",
+    "usage": "clonal growth；clonal expansion；a clonal population。",
+    "contrast": "clonal 强调共同来源、繁殖关系，不保证后续永远完全无变异；clonal growth 也不直接等于人工实验操作。",
+    "examples": [
+      [
+        "The study follows the clonal expansion of a cell population.",
+        "研究追踪一个细胞群的克隆扩增。"
+      ],
+      [
+        "Some plants spread through clonal growth.",
+        "有些植物通过克隆生长扩展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clonal#English",
+      "https://www.merriam-webster.com/dictionary/clonal"
+    ]
+  },
+  {
+    "word": "flank",
+    "ipa": "/flæŋk/",
+    "meaning": "侧腹、侧面；侧翼；位于……两侧",
+    "sense": "身体的两侧、队伍左右边缘、山坡侧面，都从 flank 的侧面画面理解。两棵树 flank 门口，就是站在门两旁。",
+    "split": "借古法语 flanc 侧面，通常认为有更早日耳曼来源；名词的位置义又用于动词。不是 flan 甜点加 k。",
+    "history": [
+      [
+        "古法语 flanc → 英语 flank",
+        "身体侧面；更早通常联系日耳曼语材料"
+      ],
+      [
+        "flank 的位置义扩展；+ -er、out-",
+        "位于两侧；侧翼人物；绕到侧后形成优势"
+      ]
+    ],
+    "explanation": "the left flank 左翼；the animal’s flank 动物侧腹；be flanked by trees 两侧有树；the flank of a hill 山的侧坡。",
+    "usage": "the left flank；be flanked by trees；the flank of a hill。",
+    "contrast": "flank 是侧面、侧翼，不限军事进攻；A flanks B 也可只是 A 位于 B 旁边。",
+    "examples": [
+      [
+        "Two stone lions flank the entrance.",
+        "入口两侧各有一尊石狮。"
+      ],
+      [
+        "The horse had a white mark on its flank.",
+        "马的侧腹有一块白斑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flank#English"
+    ]
+  },
+  {
+    "word": "flanker",
+    "ipa": "英 /ˈflæŋkə/；美 /ˈflæŋkər/",
+    "meaning": "侧翼人物；侧翼球员〔橄榄球等〕",
+    "sense": "flank 是侧面，flanker 是处在相关侧翼位置的人。体育中已经成为具体位置名称，不能只按中文“边上的人”随便安排。",
+    "split": "flank + -er → flanker；先识别人、位置材料，再按英式橄榄球、美式橄榄球等具体项目理解角色。",
+    "history": [
+      [
+        "古法语 flanc → 英语 flank",
+        "身体侧面；更早通常联系日耳曼语材料"
+      ],
+      [
+        "flank 的位置义扩展；+ -er、out-",
+        "位于两侧；侧翼人物；绕到侧后形成优势"
+      ],
+      [
+        "flank + -er → flanker",
+        "侧翼人物及体育位置名称"
+      ]
+    ],
+    "explanation": "play as a flanker 担任侧翼位置；a rugby flanker 橄榄球侧翼球员；军事旧义也有侧翼守卫人物、工事等。",
+    "usage": "a rugby flanker；play as a flanker。",
+    "contrast": "flanker 不等于所有项目的 winger；同样中文译边锋、侧翼时，各项目实际位置仍不同。",
+    "examples": [
+      [
+        "She plays as a flanker for the university rugby team.",
+        "她在大学橄榄球队担任侧翼位置。"
+      ],
+      [
+        "The coach praised the flanker’s quick reactions.",
+        "教练称赞这名侧翼球员反应快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flanker#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/flanker"
+    ]
+  },
+  {
+    "word": "outflank",
+    "ipa": "/ˌaʊtˈflæŋk/",
+    "meaning": "从侧翼包抄；以策略取得优势",
+    "sense": "不朝正面硬挤，而是绕到对方侧后，取得更有利的位置；商业、辩论里也能借这个画面说巧胜对手。",
+    "split": "out- 越出、超过 + flank 侧翼 → outflank；原有侧翼行动义，又扩展成策略上胜过。",
+    "history": [
+      [
+        "古法语 flanc → 英语 flank",
+        "身体侧面；更早通常联系日耳曼语材料"
+      ],
+      [
+        "flank 的位置义扩展；+ -er、out-",
+        "位于两侧；侧翼人物；绕到侧后形成优势"
+      ],
+      [
+        "out- + flank → outflank",
+        "绕过侧翼，进而取得战术、竞争优势"
+      ]
+    ],
+    "explanation": "outflank an opponent 绕过、胜过对手；outflank a rival 在竞争策略上压过对方；outflank the opposition 取得对反对方的优势。",
+    "usage": "outflank an opponent；outflank a rival。",
+    "contrast": "outflank 强调通过位置、策略取得优势，不只比数量、速度；outnumber 则明确说人数、数量更多。",
+    "examples": [
+      [
+        "The historical map shows how the force tried to outflank its opponent.",
+        "历史地图展示了这支部队如何试图从侧翼绕过对手。"
+      ],
+      [
+        "The smaller company outflanked its rivals with a simpler service.",
+        "小公司凭借更简便的服务在策略上胜过竞争者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outflank#English"
+    ]
+  },
+  {
+    "word": "parasitology",
+    "ipa": "英 /ˌpærəsaɪˈtɒlədʒi/；美 /ˌpærəsaɪˈtɑːlədʒi/",
+    "meaning": "寄生虫学；寄生生物学",
+    "sense": "研究寄生生物、宿主以及它们怎样相互作用，不只背寄生虫名字。parasite 给研究对象，-ology 给研究领域。",
+    "split": "parasite + -ology → parasitology，去末尾 e；中间 o 是学科构词材料，不是把英语单词单独加一个 log。",
+    "history": [
+      [
+        "希腊 logos 论述、研究等材料 → -logy、-ology",
+        "近代学科名中的研究领域尾"
+      ],
+      [
+        "parasite／enzyme + -ology",
+        "寄生生物研究；酶的研究"
+      ]
+    ],
+    "explanation": "medical parasitology 医学寄生虫学；a parasitology course 寄生生物学课程；research in parasitology 该领域研究。",
+    "usage": "medical parasitology；a parasitology course。",
+    "contrast": "parasite 是生物，parasitology 是研究领域；范围也不只有肉眼看得见的蠕虫。",
+    "examples": [
+      [
+        "The course introduces the basic principles of parasitology.",
+        "课程介绍寄生生物学的基本原理。"
+      ],
+      [
+        "Her research in parasitology focuses on relationships between parasites and hosts.",
+        "她的寄生生物学研究关注寄生生物与宿主的关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parasitology#English",
+      "https://www.merriam-webster.com/dictionary/parasitology"
+    ]
+  },
+  {
+    "word": "enzymology",
+    "ipa": "英 /ˌenzaɪˈmɒlədʒi/；美 /ˌenzaɪˈmɑːlədʒi/",
+    "meaning": "酶学",
+    "sense": "酶怎样加快反应、结构怎样影响功能，这些问题属于 enzymology。研究对象是 enzyme，不是把每一种酶都重新命名。",
+    "split": "enzyme + -ology，去末尾 e → enzymology。enzyme 的旧希腊酵母相关材料与现代酶概念相连，现代学科不限发酵。",
+    "history": [
+      [
+        "希腊 logos 论述、研究等材料 → -logy、-ology",
+        "近代学科名中的研究领域尾"
+      ],
+      [
+        "parasite／enzyme + -ology",
+        "寄生生物研究；酶的研究"
+      ],
+      [
+        "enzyme + -ology → enzymology",
+        "研究酶及其结构、性质、作用的领域"
+      ]
+    ],
+    "explanation": "research in enzymology 酶学研究；an enzymology laboratory 酶学实验室；basic enzymology 基础酶学。",
+    "usage": "basic enzymology；research in enzymology。",
+    "contrast": "enzymology 是学科，enzyme 是物质名称；-ology 也不是表示某种病。",
+    "examples": [
+      [
+        "The laboratory combines structural biology with enzymology.",
+        "实验室把结构生物学与酶学结合起来。"
+      ],
+      [
+        "The chapter introduces basic enzymology through simple reaction models.",
+        "这一章用简单反应模型介绍基础酶学。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enzymology#English",
+      "https://www.merriam-webster.com/dictionary/enzymology"
+    ]
+  },
+  {
+    "word": "folding",
+    "ipa": "英 /ˈfəʊldɪŋ/；美 /ˈfoʊldɪŋ/",
+    "meaning": "折叠；可折叠的；fold 的 -ing 形式",
+    "sense": "a folding chair 说椅子设计成能折起来，不是椅子此刻自己正在折。名词 folding 则能把折叠过程单独拿出来谈。",
+    "split": "fold + -ing → folding；同形可作分词、动作名词、形容词，要看后面是否修饰实物及整句结构。",
+    "history": [
+      [
+        "fold 折叠 + -ing → folding",
+        "折叠动作；设计成可折的性质"
+      ],
+      [
+        "名词、形容词在家具和技术场景使用",
+        "折叠椅；蛋白质折叠；代码折叠等"
+      ]
+    ],
+    "explanation": "a folding table 折叠桌；paper folding 折纸；protein folding 蛋白质折叠；code folding 把代码片段收拢显示。",
+    "usage": "a folding chair；paper folding；protein folding；code folding。",
+    "contrast": "folding chair 讲设计可折，folded chair 讲已经折好的状态；-ing 不总意味着正在发生。",
+    "examples": [
+      [
+        "We brought two folding chairs to the garden.",
+        "我们带了两把折叠椅到花园。"
+      ],
+      [
+        "Paper folding helps the students explore geometric shapes.",
+        "折纸帮助学生探索几何形状。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folding#English"
+    ]
+  }
+]

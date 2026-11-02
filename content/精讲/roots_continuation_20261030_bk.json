@@ -1,0 +1,132 @@
+[
+  {
+    "id": "B3801",
+    "meaning": "山丘地形；位置、起伏、土堆与文化称呼",
+    "core": "HILL：地面鼓起的小山；前后成分说明哪部分、什么特点",
+    "image": "hill → hilly、hillock；uphill/downhill 对照方向和比喻；已有 hillside、hilltop、hillcrest、foothill 分位置；动物土丘连读。",
+    "intro": "冷门职业、姓氏式复合词暂略。hillbilly 是带社会评价的称呼，不能只按山+人中性翻译。",
+    "forms": "hill + -y/-ock/side/top/crest；up/down/foot/mole/ant + hill；hill + billy。\n\n本族山丘名延续，按地形和位置形成组合。",
+    "branches": [
+      [
+        "基本丘陵与大小",
+        "hill · hilly · hillock"
+      ],
+      [
+        "方向和位置",
+        "uphill · downhill · hillside · hilltop · hillcrest · foothill"
+      ],
+      [
+        "动物土堆和居民称呼",
+        "molehill · anthill · hillbilly"
+      ],
+      [
+        "hill → hills：山丘与起伏地形",
+        "hill · hills"
+      ]
+    ],
+    "contrasts": "hill/mountain 不靠全世界统一高度线；uphill 艰难、downhill 可恶化；molehill 鼹鼠、anthill 蚂蚁。",
+    "practice": "The hilly path led downhill past a small anthill.\n\n起伏的小路向下延伸，经过一座小蚁丘。",
+    "words": [
+      "hill",
+      "hilly",
+      "hillock",
+      "uphill",
+      "downhill",
+      "hillside",
+      "hilltop",
+      "hillcrest",
+      "foothill",
+      "molehill",
+      "anthill",
+      "hillbilly",
+      "hills"
+    ],
+    "exclude": {
+      "ant-hill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hill-troll": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hillman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hiller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "underhill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sandhill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3509",
+    "meaning": "谋杀行为与执行者、凶狠性质；夸张用法分开",
+    "core": "MURDER：严重杀人词，也有把作品做毁、极难受的夸张",
+    "image": "murder → murderer → murderous；基本名动词、人物、性质按顺序。",
+    "intro": "旧英语词形后来可能受法语影响。词义学习不代替具体法律分类；故事里的嫌疑人与已揭晓凶手要分清。",
+    "forms": "murder + -er/-ous；基础词内的 er 与人物后缀另加 -er 不同层次。\n\n古英语 morþor 等本族材料，现代 d 形式可能受法语同源形式影响。\n\n古英语旧杀人词，d 形可能受法语同族形式影响。\n\nmurder 承古英语 morðor 等死亡、秘密杀害词族，现代动词加 -ing 原词不改。比喻用法另按语境，日常具体义与比喻义分别理解。",
+    "branches": [
+      [
+        "行为、人物与性质",
+        "murder · murderer · murderous"
+      ],
+      [
+        "murder → murdered：谋杀动词的过去与被动",
+        "murder · murdered"
+      ],
+      [
+        "murder → murders：谋杀事件与对应动作",
+        "murder · murders · murdered"
+      ],
+      [
+        "murder 谋杀 → murdering",
+        "murdering"
+      ]
+    ],
+    "contrasts": "kill 广于 murder；suspect 不等于 murderer；murderous look 凶狠眼神是描述不自动证明实际杀人意图。",
+    "practice": "The detective recognized the murderer despite his harmless appearance.\n\n尽管外表无害，侦探还是认出了凶手。",
+    "words": [
+      "murder",
+      "murderer",
+      "murderous",
+      "murdered",
+      "murders",
+      "murdering"
+    ],
+    "exclude": {
+      "self-murder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "axe-murder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3762",
+    "meaning": "为什么做、用来做什么；有意、目标明确与改变用途",
+    "core": "PURPOSE：摆在心里的目标；行动为了什么、东西拿来干什么",
+    "image": "purpose → purposely；purposeful → purposefully 连着读，purposeless 否定，repurpose 改用途，multipurpose 共享。",
+    "intro": "法语意图词进入英语，词形有 poser 相关改造，不能只从现代字母发明 pur 的含义。常见副词分工也不写成绝对语言禁令。",
+    "forms": "purpose + -ly/-ful/-less；purposeful + -ly；re-/multi- + purpose。\n\n法语提出、放到面前相关材料发展为意图，词形有历史重塑。",
+    "branches": [
+      [
+        "意图和行动方式",
+        "purpose · purposely · purposeful · purposefully"
+      ],
+      [
+        "缺少、变更和多用途",
+        "purposeless · repurpose · multipurpose"
+      ],
+      [
+        "purpose → purposes：意图与用途",
+        "purpose · purposes"
+      ]
+    ],
+    "contrasts": "purposely 常故意、purposefully 常坚定有目标，亦可重合；purposeful 不等于 useful；repurpose 换用途，reuse 可原样再用。",
+    "practice": "They purposefully repurposed the room for a clear new purpose.\n\n他们目标明确地把房间改作他用，赋予它清楚的新用途。",
+    "words": [
+      "purpose",
+      "purposely",
+      "purposeful",
+      "purposefully",
+      "purposeless",
+      "repurpose",
+      "multipurpose",
+      "purposes"
+    ],
+    "exclude": {
+      "by-purpose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "purpose-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "purposed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

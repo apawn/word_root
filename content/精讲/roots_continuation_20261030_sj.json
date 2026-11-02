@@ -1,0 +1,454 @@
+[
+  {
+    "id": "B4393",
+    "meaning": "有益身心、健康的及其否定",
+    "core": "WHOLESOME：让人身心得到健康、舒服的感觉",
+    "image": "食物有益健康，娱乐轻松而积极，环境让人舒服，都可以用 wholesome；unwholesome 则朝有害、令人不适方向走。",
+    "intro": "旧英语健康、健全材料接 -some，经过中古英语 holsom 等到 wholesome，现代拼写与 whole 对应；否定和性质名词进一步形成。",
+    "forms": "wholesome → wholesomeness／unwholesome；历史可联系 whole、hale 的健全词族，不能只译成整块的。",
+    "branches": [
+      [
+        "有益、健康的性质",
+        "wholesome"
+      ],
+      [
+        "性质名称与反面",
+        "wholesomeness · unwholesome"
+      ]
+    ],
+    "contrasts": "wholesome food 可以称赞健康饮食；wholesome entertainment 常说积极、适宜的娱乐。具体评价范围随名词变化。",
+    "practice": "They wanted wholesome food and a relaxed atmosphere.\n\n他们想要有益健康的食物和轻松的氛围。",
+    "words": [
+      "wholesome",
+      "wholesomeness",
+      "unwholesome"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1773",
+    "meaning": "像……的；具备某种特征",
+    "core": "-LIKE：把前面的对象当作相似参照",
+    "image": "lifelike 像真的有生命，dreamlike 像梦，workmanlike 像熟练工匠那样做得扎实；相似的是哪一点，由整词用法决定。",
+    "intro": "源于旧英语、北欧语相同、相似的词族，延续为 like 及复合后部 -like。现代很多组合仍能直接理解，也有固定词和按专名造出的新类别词。",
+    "forms": "child + like → childlike；workman + like → workmanlike；Rogue〔游戏名〕+ like → roguelike。历史上的 -ly 也与相似材料有联系，现代功能已分化。",
+    "branches": [
+      [
+        "人物、生命及场景特征",
+        "childlike · lifelike · dreamlike · godlike · ladylike"
+      ],
+      [
+        "做事方式、倾向",
+        "businesslike · workmanlike · warlike"
+      ],
+      [
+        "按专名形成的类别",
+        "roguelike"
+      ]
+    ],
+    "contrasts": "childlike 常说孩子般天真，childish 常批评幼稚；workmanlike 已固定为扎实称职，不只描述外形像工人。",
+    "practice": "The workmanlike design produced a surprisingly lifelike model.\n\n扎实的设计做出了一个出人意料地逼真的模型。",
+    "words": [
+      "childlike",
+      "lifelike",
+      "dreamlike",
+      "godlike",
+      "ladylike",
+      "businesslike",
+      "workmanlike",
+      "warlike",
+      "rogue",
+      "roguelike"
+    ],
+    "exclude": {
+      "easy-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "round-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fall-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ball-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "justice-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "purpose-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "target-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "young-lady-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "animal-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "criminal-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "turkey-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sheet-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shell-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jazz-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "witch-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skull-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "doll-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trunk-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "indie-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "telegraph-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydrogen-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fairy-tale-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "troll-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scarlet-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ambient-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "salsa-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trance-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mania-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "asparagus-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goth-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "polka-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluegrass-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "prog-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scrooge-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "calypso-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "candida-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "forceps-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fever-dreamlike": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "baklava-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chopstick-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "roguelike-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "klezmer-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "zouk-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "intermezzo-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4008",
+    "meaning": "温和、不刺激；平淡、乏味",
+    "core": "BLAND：刺激感低，可能温和，也可能没滋味",
+    "image": "食物没什么味道可以是 bland；说话平平淡淡、不显情绪，也能用 bland、blandly。评价是好是坏取决于需要什么。",
+    "intro": "拉丁 blandus 温和、悦人的进入英语，后来发展出不刺激、平淡、乏味等意义；-ness 命名性质，-ly 描写方式。",
+    "forms": "bland → blandness／blandly；同一个温和感觉，在食物、风格、表情上各自取义。",
+    "branches": [
+      [
+        "基本性质",
+        "bland"
+      ],
+      [
+        "性质名称与表现方式",
+        "blandness · blandly"
+      ]
+    ],
+    "contrasts": "bland food 可能抱怨没味，也可能只是描述低刺激；blandly deny 常说不动声色地否认，不是在讨论口味。",
+    "practice": "He blandly admitted that the soup was bland.\n\n他淡淡地承认汤没什么味道。",
+    "words": [
+      "bland",
+      "blandness",
+      "blandly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3731",
+    "meaning": "桦树及桦木",
+    "core": "BIRCH：树名也带出木材、枝条用途",
+    "image": "看到浅色、会剥落的树皮，可以帮助想起常见桦树；birch 再指从树上取的木材，以及旧时特定枝条用途。",
+    "intro": "古英语 birce、bierce 及中古英语 birche 等延续，属于古老日耳曼语树名词族。不是由现代英语某个动作加后缀现造。",
+    "forms": "birch 作树名、材料名；a birch 可数一棵树，made of birch 把它当木材。普通材料组合 birch wood 可在短语中理解。\n\nbirch 经古英语 beorc、berc，上溯亮、白的古老词族，有树皮颜色的背景；birches 在 /tʃ/ 后接 /ɪz/。",
+    "branches": [
+      [
+        "树与材料",
+        "birch"
+      ],
+      [
+        "常见组合",
+        "birch tree；birch bark；birch furniture"
+      ],
+      [
+        "birch → birches：亮白树皮与桦树",
+        "birch · birches"
+      ]
+    ],
+    "contrasts": "beech 是山毛榉，birch 是桦树；旧文献中的桦条惩戒动词另按用途读，不必作为现代日常重点。",
+    "practice": "The pale bark made the birch easy to recognise.\n\n浅色树皮让那棵桦树很容易辨认。",
+    "words": [
+      "birch",
+      "birches"
+    ],
+    "exclude": {
+      "non-birch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "birchwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1688",
+    "meaning": "单位中的千分之一；相同远源的千年词辨析",
+    "core": "MILLI-：在单位前面，把一份缩成千分之一份",
+    "image": "一秒切成一千份是毫秒，一米切成一千份是毫米，一克切成一千份是毫克；这一组 milli- 都取千分之一。",
+    "intro": "名称远接拉丁 mille 千，经法语、公制命名固定为千分之一。millennial 的千年词族也联系 mille，但并不套用单位倍率。",
+    "forms": "milli- + second／metre／gram → millisecond／millimetre／milligram；millennial 与 millennium 的千年材料相连，是另一构词路线。\n\nmilli- 虽远接拉丁 mille 千，现代单位前缀约定为千分之一；milligram 是一克的千分之一，复数给整个单位名末尾加 s。\n\nmilli- 远接拉丁 mille 千；现代单位名前固定表示千分之一，毫米与毫秒分别把米、秒分成一千份。复数只给整个单位名加 -s。",
+    "branches": [
+      [
+        "单位的千分之一",
+        "millisecond · millimetre · milligram"
+      ],
+      [
+        "同一千材料的另一词族对照",
+        "millennial"
+      ],
+      [
+        "milli- + gram → milligram → milligrams：千分之一克",
+        "milligram · milligrams"
+      ],
+      [
+        "milli-：一千份里的一份",
+        "millimetres · millimeters · milliseconds"
+      ]
+    ],
+    "contrasts": "千是远源，千分之一是现代单位前缀约定；millennial 不能译成千分之一年的。单位缩写中的 milli- 用小写 m。",
+    "practice": "The response took a few milliseconds.\n\n这次响应用了几毫秒。",
+    "words": [
+      "millisecond",
+      "millimetre",
+      "milligram",
+      "millennial",
+      "milligrams",
+      "millimetres",
+      "millimeters",
+      "milliseconds"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4414",
+    "meaning": "有腿、具有某类腿的",
+    "core": "LEGGED：名词加 -ed，表示带有这种特征",
+    "image": "给动物、家具、机器人描写腿，legged 常配合数量、形态来表达；机器人领域也会独立说 legged robot 足式机器人。",
+    "intro": "中古英语 legged 等对应 leg 名词加具有性质的 -ed。这个构词是形容词用途，区别于普通动词过去式。",
+    "forms": "leg + -ed → legged；常见读法有 /ˈleɡɪd/，具体组合也可有其他读法。按照词典和整组用法认读。",
+    "branches": [
+      [
+        "腿及带腿性质",
+        "leg · legged"
+      ],
+      [
+        "典型技术搭配",
+        "legged robot；legged locomotion"
+      ]
+    ],
+    "contrasts": "有轮结构常说 wheeled，有腿结构说 legged；形容词 -ed 的读音有固定词汇习惯，不能只看末尾辅音套过去式规则。",
+    "practice": "A legged robot crossed the uneven ground.\n\n一台足式机器人穿过了不平的地面。",
+    "words": [
+      "leg",
+      "legged"
+    ],
+    "exclude": {
+      "five-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "four-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "no-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "one-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "two-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "six-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1700",
+    "meaning": "巨大；单位中的一百万倍",
+    "core": "MEGA-：日常强调大，计量时精确到一百万倍",
+    "image": "megastar 是巨星，不必有一百万个人；megahertz 却精确是一百万赫兹。先区分普通词和单位。",
+    "intro": "希腊语 megas 大、强大形成近代构词材料；公制单位中固定为一百万倍，现代又进入数字图像等计数名称。",
+    "forms": "mega- + pixel → megapixel；mega- + hertz → megahertz；megafauna、megachurch 等取巨大、规模大的普通词义。\n\nmega- 远接希腊大，在十进制数据单位中表示百万；历史软件也可能采用二进制含义，精确时核对 MB、MiB。",
+    "branches": [
+      [
+        "图像、频率和其他计量",
+        "pixel · megapixel · hertz · megahertz · megawatt · megabyte · megaton"
+      ],
+      [
+        "巨大、强大等普通词义",
+        "megaphone · megastar · megalithic · megafauna · megachurch"
+      ],
+      [
+        "mega- + byte → megabyte → megabytes",
+        "megabytes"
+      ]
+    ],
+    "contrasts": "单位前缀 mega- 符号大写 M；milli- 小写 m。普通巨型词的“大”没有统一数量门槛，不能机械换算。",
+    "practice": "One megahertz equals one million hertz, and one megapixel equals one million pixels.\n\n一兆赫等于一百万赫兹，一百万像素等于一百万个像素。",
+    "words": [
+      "pixel",
+      "megapixel",
+      "hertz",
+      "megahertz",
+      "megawatt",
+      "megabyte",
+      "megaton",
+      "megaphone",
+      "megastar",
+      "megalithic",
+      "megafauna",
+      "megachurch",
+      "megabytes"
+    ],
+    "exclude": {
+      "mega-amp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-synagogue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-colossal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-volt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-annum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mega-joule": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "megaman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "megamind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3232",
+    "meaning": "蛾、飞蛾",
+    "core": "MOTH：先认动物名，再记常见灯旁飞动的画面",
+    "image": "夜晚灯边扑动翅膀的飞蛾，是容易记忆的情景；动物名称本身并不要求每一只蛾都在夜间飞。",
+    "intro": "古英语 moþþe 等，经中古英语相关词形到 moth，属于日耳曼语虫、蛾名称。其他语言借来的同形植物名不属于这条路线。",
+    "forms": "moth 是整体继承名称，末尾 th 读 /θ/；moths 的复数在实际发音中还可能有变化，按常见词典读法学习。",
+    "branches": [
+      [
+        "动物名称",
+        "moth"
+      ],
+      [
+        "常见短语与比喻",
+        "clothes moth；like a moth to a flame"
+      ]
+    ],
+    "contrasts": "衣物损坏常联系衣蛾幼虫，不是所有成年蛾都吃衣服；moth 与 butterfly 的区别也不能只用白天、夜间概括。",
+    "practice": "The moth rested beside the lamp.\n\n那只飞蛾停在灯旁。",
+    "words": [
+      "moth"
+    ],
+    "exclude": {
+      "moth-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moth-er": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2215",
+    "meaning": "神话、故事的构词材料",
+    "core": "MYTHO-：神话、叙事这一组材料",
+    "image": "myth 是一则神话，mythology 可以看一整套神话或研究它们；mythological 则描述神话相关人物、题材等。",
+    "intro": "来自希腊 mythos 言语、故事、神话等；mythologia 与相关形容词经拉丁语等进入英语。myth 的独立英语借入反而较晚，不能倒推所有长词都后于它。",
+    "forms": "mythos + -logia → mythology 的旧语言材料；mythological 与相应希腊、拉丁形容词有关。现代按词族连读，区分实际借词先后。",
+    "branches": [
+      [
+        "基本概念",
+        "myth"
+      ],
+      [
+        "体系、学科及相关形容词",
+        "mythology · mythological"
+      ]
+    ],
+    "contrasts": "日常 myth 也可说流行误解；mythology 讨论传统神话时不必一律带骗人意味，具体语境要分开。",
+    "practice": "The book introduces mythological figures from Greek mythology.\n\n这本书介绍希腊神话中的神话人物。",
+    "words": [
+      "myth",
+      "mythology",
+      "mythological"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2010",
+    "meaning": "航行者的希腊语材料",
+    "core": "-NAUT：把某种空间当作航行领域的人",
+    "image": "旧画面是水上航行的人；现代把星空、宇宙当作新的航行空间，就有 astronaut、cosmonaut 这类名称。",
+    "intro": "希腊 nautes 船员、航行者形成近代构词材料；astronaut 采用星、航行者材料，cosmonaut 采用宇宙、航行者材料并经俄语名称传播。",
+    "forms": "astro- + -naut → astronaut；cosmo- + -naut → cosmonaut。两词在实际使用中又带不同航天体系的称呼习惯。",
+    "branches": [
+      [
+        "航天人员的相关称呼",
+        "astronaut · cosmonaut"
+      ]
+    ],
+    "contrasts": "学习画面可说星际、水上航行的类比；现代职位含义由航天语境决定，不要求真去某一颗恒星。",
+    "practice": "The exhibition tells the stories of astronauts and cosmonauts.\n\n展览讲述了不同航天员的故事。",
+    "words": [
+      "astronaut",
+      "cosmonaut"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1926",
+    "meaning": "-ise 动词的动作、过程名词",
+    "core": "-ISATION：把相应变化、过程作为名词来谈",
+    "image": "globalise 是使全球化，globalisation 是全球化这个过程；harmonise 是协调，harmonisation 是协调、统一这一过程或结果。",
+    "intro": "现代对应 -ise + -ation，并与法语相关名词、英语 -ize／-ization 拼写系列相互联系。并非每个词都由英语动词现场加尾巴形成。",
+    "forms": "-ise → -isation；civilisation、globalisation、immunisation、harmonisation 各有自己的固定意义。-ize／-ization 是相应常见拼写系列。",
+    "branches": [
+      [
+        "文明、全球化",
+        "civilisation · globalisation"
+      ],
+      [
+        "免疫、协调等过程",
+        "immunisation · harmonisation"
+      ]
+    ],
+    "contrasts": "civilisation 不只说文明化动作，也能指文明、文明社会；词尾给出名词关系，不能替代完整词义的演变。",
+    "practice": "The report discusses globalisation and the harmonisation of standards.\n\n报告讨论了全球化以及标准的协调统一。",
+    "words": [
+      "civilisation",
+      "globalisation",
+      "immunisation",
+      "harmonisation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1995",
+    "meaning": "摇动、地震",
+    "core": "SEISMO-：地面摇动与研究这种摇动的词族",
+    "image": "把地震的摇动当核心，seismic 描述地震相关，seismology 是研究地震的学科，seismologist 是相关研究人员。",
+    "intro": "来自希腊 seismos 地震、摇动，联系 seiein 摇动。近代科学沿用成地震研究构词材料。",
+    "forms": "seism- + -ic → seismic；seismo- + -logy → seismology → seismologist〔学科人物对应〕。",
+    "branches": [
+      [
+        "性质",
+        "seismic"
+      ],
+      [
+        "学科与人物",
+        "seismology · seismologist"
+      ]
+    ],
+    "contrasts": "seismic change 也可借地震说巨大、剧烈变化；这样的比喻不表示实际发生了地震。",
+    "practice": "The seismologist analysed the seismic data.\n\n地震学家分析了地震数据。",
+    "words": [
+      "seismic",
+      "seismology",
+      "seismologist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2380",
+    "meaning": "部分口语、儿语形容词的表达性材料",
+    "core": "-SY：有时增加口语感觉，不能见到末尾就硬拆",
+    "image": "cutesy 有刻意可爱的味道，folksy 有民间、亲切随和感，teensy 则把极小的感觉说得更亲昵。各词的历史并不完全一样。",
+    "intro": "这组表达性词尾来源并不完全确定，可能涉及不同后缀、插音和词形类比。flimsy 的具体来源也未定，不能强造统一规则。",
+    "forms": "cute → cutesy；folk → folksy；tiny → teeny → teensy 是不同的构词、变形关系。flimsy 可参考薄弱材料的意思，但历史只作有保留的分析。",
+    "branches": [
+      [
+        "可爱、民间风格等",
+        "cutesy · folksy"
+      ],
+      [
+        "极小的口语表达",
+        "tiny · teeny · teensy"
+      ],
+      [
+        "薄弱、站不住脚",
+        "flimsy"
+      ]
+    ],
+    "contrasts": "palsy 追到 paralysis 词族的缩变，不能按 pal + -sy 理解。本组的 -sy 也不是稳定表示同一个词义的万能后缀。",
+    "practice": "The cutesy drawing showed a teensy house with a flimsy fence.\n\n那幅刻意可爱的画里，有一栋很小的房子和一道不结实的围栏。",
+    "words": [
+      "cutesy",
+      "folksy",
+      "tiny",
+      "teeny",
+      "teensy",
+      "flimsy"
+    ],
+    "exclude": {
+      "palsy": "palsy 来自 paralysis 相关借词的缩变，不能据词尾把它分析成 -sy 派生。",
+      "itsy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

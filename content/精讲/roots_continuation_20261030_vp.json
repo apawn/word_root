@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C0949",
+    "meaning": "手掌；棕榈；隐在手掌中的动作",
+    "core": "PALM：摊开的掌面，以及向外展开的叶片",
+    "image": "把手掌摊开，再看棕榈向外展开的叶片，能记住 palm 的两个常见名词义。手里藏住小物件，又能理解动词 palm。",
+    "intro": "来源词是拉丁 palma，既说手掌也说棕榈；手掌义经法语 paume 等形式进入英语，树名还承接古英语从拉丁借入的形式。通常以展开的手、叶形联系解释树名。",
+    "forms": "palm 是完整英语词，l 在常见标准读法中不发音。复数 palms 加 s，读 /z/；名词和动词形式相同，靠句法与上下文区分。",
+    "branches": [
+      [
+        "手与动作",
+        "palm palms"
+      ],
+      [
+        "植物名称",
+        "palm palms"
+      ]
+    ],
+    "contrasts": "palm 可说手掌、棕榈，也可说把东西藏在掌中。palm off 常说把不好的东西冒充好的或强塞给别人，是另一固定搭配。",
+    "practice": "He held the seed in his palm beneath a palm tree.\n\n他站在一棵棕榈树下，把种子托在掌心。",
+    "words": [
+      "palm",
+      "palms"
+    ],
+    "exclude": {
+      "palmate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

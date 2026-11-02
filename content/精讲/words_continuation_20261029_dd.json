@@ -1,0 +1,304 @@
+[
+  {
+    "word": "fall",
+    "ipa": "英 /fɔːl/；美 /fɔːl/，亦 /fɑːl/",
+    "meaning": "落下；跌倒；下降；进入某种状态；秋天〔美〕",
+    "sense": "从高处往下、从站着变成倒下，再把数量下降、地位衰落也放进同一画面。进入状态则要认固定搭配。",
+    "split": "由古英语 feallan 延续，变化 fall—fell—fallen。秋天的 fall 来自落叶季的命名习惯，不是英语所有季节都用动作当名字。",
+    "history": [
+      [
+        "古英语 feallan → 中古英语 fallen → fall",
+        "掉落、倒下；失败、衰落等"
+      ],
+      [
+        "现代英语 fall",
+        "落下、下降；进入某种状态；秋季等固定用法"
+      ]
+    ],
+    "explanation": "fall down 跌倒，prices fall 价格下跌；fall asleep 入睡，fall in love 爱上；in the fall 在秋天，美式常见。fall on a Monday 可说日期恰逢周一。",
+    "usage": "fall asleep；fall in love；fall behind；in the fall。",
+    "contrast": "fall 不及物，说 The cup fell；drop 可说 I dropped the cup，我失手让杯子掉了。fell 也是另一个伐倒动词原形，依句子分。",
+    "examples": [
+      [
+        "The leaves began to fall.",
+        "树叶开始飘落。"
+      ],
+      [
+        "The meeting falls on a Friday this year.",
+        "今年这次会议恰逢周五。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fall#English"
+    ]
+  },
+  {
+    "word": "fallen",
+    "ipa": "英 /ˈfɔːlən/；美 /ˈfɔːlən/，亦 /ˈfɑːlən/",
+    "meaning": "已落下的；倒下的；阵亡的；失势、堕落的",
+    "sense": "动作已经发生，东西落到了下面；说士兵阵亡或人物失势时，也借倒下的状态。",
+    "split": "fall 的过去分词，接古老不规则变化，并形成形容词。fall—fell—fallen 不是统一加 -ed。",
+    "history": [
+      [
+        "古英语 feallan → 中古英语 fallen → fall",
+        "掉落、倒下；失败、衰落等"
+      ],
+      [
+        "现代英语 fall",
+        "落下、下降；进入某种状态；秋季等固定用法"
+      ],
+      [
+        "fall → fell → fallen",
+        "原形 → 过去式 → 过去分词；已倒下的状态"
+      ]
+    ],
+    "explanation": "fallen leaves 落叶，a fallen tree 倒树，fallen soldiers 阵亡士兵；a fallen hero 失势、名誉受损的英雄。",
+    "usage": "fallen leaves；a fallen tree；fallen soldiers；a fallen hero。",
+    "contrast": "falling 正在落，fallen 已经落；falling leaves 仍在空中飘，fallen leaves 常已落在地上。",
+    "examples": [
+      [
+        "The path was covered with fallen leaves.",
+        "小路上覆盖着落叶。"
+      ],
+      [
+        "They placed flowers at the memorial to fallen soldiers.",
+        "他们在阵亡士兵纪念碑前献花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fallen#English"
+    ]
+  },
+  {
+    "word": "rainfall",
+    "ipa": "/ˈreɪnfɔːl/，美亦 /ˈreɪnfɑːl/",
+    "meaning": "降雨；降雨量",
+    "sense": "不仅说天上有雨，更常把某地某时段下了多少雨作为一个量来谈。",
+    "split": "rain 雨 + fall 落下，形成降雨现象、雨量名词。后半是下落，不是秋季。",
+    "history": [
+      [
+        "rain 雨；fall 落下",
+        "并列构词部分"
+      ],
+      [
+        "rainfall",
+        "降雨现象及累计雨量"
+      ]
+    ],
+    "explanation": "annual rainfall 年降雨量，heavy rainfall 强降雨；average rainfall 平均雨量需对应地点、时间范围。",
+    "usage": "annual rainfall；heavy rainfall；average rainfall；low rainfall。",
+    "contrast": "rainfall 常强调降雨量，rain 泛指雨、水或下雨现象；a rainfall figure 是雨量数字，不是一滴雨。",
+    "examples": [
+      [
+        "Annual rainfall varies across the region.",
+        "该地区各处的年降雨量不同。"
+      ],
+      [
+        "Heavy rainfall caused delays on several roads.",
+        "强降雨使几条道路上的行程延误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainfall#English"
+    ]
+  },
+  {
+    "word": "downfall",
+    "ipa": "/ˈdaʊnfɔːl/，美亦 /ˈdaʊnfɑːl/",
+    "meaning": "垮台；衰败；导致失败的因素",
+    "sense": "从原来较高、较稳的位置掉下来；也会把让人跌下来的弱点叫 downfall。",
+    "split": "down 向下 + fall 落下，强化下降画面，固定为地位、权势、事业等的崩落。",
+    "history": [
+      [
+        "down 向下；fall 掉落",
+        "并列构词部分"
+      ],
+      [
+        "downfall",
+        "从地位或成功状态跌落；导致失败的因素"
+      ]
+    ],
+    "explanation": "the downfall of a ruler 统治者垮台，pride was his downfall 骄傲让他失败；通常比普通小挫折重。",
+    "usage": "lead to the downfall of；bring about someone’s downfall；be someone’s downfall。",
+    "contrast": "downfall 垮台或致败因素，setback 挫折可能是暂时的；fall down 是普通动作短语，不等于每次都事业失败。",
+    "examples": [
+      [
+        "The scandal led to the minister’s downfall in the novel.",
+        "小说里，这场丑闻导致大臣垮台。"
+      ],
+      [
+        "His refusal to listen proved to be his downfall.",
+        "他不肯听取意见，最终成了失败的根源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downfall#English"
+    ]
+  },
+  {
+    "word": "windfall",
+    "ipa": "/ˈwɪndfɔːl/，美亦 /ˈwɪndfɑːl/",
+    "meaning": "意外收获；意外之财；风落果",
+    "sense": "果子本来还在树上，风一吹就掉到你面前；后来用来说没预料到、突然得到的好处。",
+    "split": "wind 风 + fall 落下，中古英语已有风吹落物的组合，后来引申为意外所得。wind 这里读 /wɪnd/，不是缠绕的 /waɪnd/。",
+    "history": [
+      [
+        "wind 风；fall 落下",
+        "并列构词部分"
+      ],
+      [
+        "windfall",
+        "风吹落物 → 意外得来的利益、好处"
+      ]
+    ],
+    "explanation": "an unexpected windfall 意外之财，a financial windfall 一笔意外收益；windfall apples 风落苹果仍是具体用法。",
+    "usage": "a financial windfall；an unexpected windfall；windfall apples。",
+    "contrast": "windfall 意外所得，earnings 常指劳动、经营等收入；收到一笔钱是否意外，要看具体情境，不是所有收入都叫 windfall。",
+    "examples": [
+      [
+        "The unexpected refund was a welcome windfall.",
+        "意料之外的退款，是一笔令人高兴的意外收获。"
+      ],
+      [
+        "They gathered windfall apples after the storm.",
+        "暴风雨后，他们捡拾了风落苹果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/windfall#English"
+    ]
+  },
+  {
+    "word": "befall",
+    "ipa": "/bɪˈfɔːl/，美亦 /bɪˈfɑːl/",
+    "meaning": "降临于；发生在……身上〔较正式〕",
+    "sense": "某件事落到了某个人头上，通常是意外或不幸，叙事语气比 happen to 更书面。",
+    "split": "古英语 befeallan 等已有组合，be- + feallan，原有落在、发生于等义。不是 be 动词加 fall 就能照普通句式自由拼用。",
+    "history": [
+      [
+        "古英语 feallan → 中古英语 fallen → fall",
+        "掉落、倒下；失败、衰落等"
+      ],
+      [
+        "古英语 befeallan → befall",
+        "落在、发生于 → 降临某人身上"
+      ]
+    ],
+    "explanation": "a disaster befell the town 灾难降临小镇；whatever may befall 无论发生什么。变化 befall—befell—befallen。",
+    "usage": "befall someone；whatever may befall；the fate that befell。",
+    "contrast": "befall 直接接发生于谁，happen to someone 要 to；不通常说 befall to someone。",
+    "examples": [
+      [
+        "The story tells of the misfortune that befell the family.",
+        "故事讲述了降临这个家庭的不幸。"
+      ],
+      [
+        "No one knew what had befallen the missing travellers.",
+        "没人知道失踪旅人遇到了什么事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/befall#English"
+    ]
+  },
+  {
+    "word": "pitfall",
+    "ipa": "/ˈpɪtfɔːl/，美亦 /ˈpɪtfɑːl/",
+    "meaning": "陷阱；容易踩到的隐患、错误",
+    "sense": "路面看着正常，脚下却藏着一个坑；做事时不容易预先看到的问题也像这种陷阱。",
+    "split": "pit 坑 + fall 掉落，形成坑式陷阱名称，再比喻隐藏风险、容易犯错之处。",
+    "history": [
+      [
+        "pit 坑；fall 掉落",
+        "并列构词部分"
+      ],
+      [
+        "pitfall",
+        "会让人掉进去的坑式陷阱 → 隐患、易错处"
+      ]
+    ],
+    "explanation": "avoid common pitfalls 避免常见错误、隐患，the pitfalls of a method 某方法的潜在问题；比普通 difficulty 更有容易没注意就踩中的感觉。",
+    "usage": "avoid pitfalls；common pitfalls；the pitfalls of；a potential pitfall。",
+    "contrast": "pitfall 不是 pothole 路面坑洞的通用同义词；比喻里 pitfall 常指看似顺利时容易忽略的问题。",
+    "examples": [
+      [
+        "The guide explains common pitfalls for new learners.",
+        "指南解释了新手常踩的坑。"
+      ],
+      [
+        "One pitfall of the plan is its dependence on a single supplier.",
+        "方案的一个隐患，是过度依赖单一供应商。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pitfall#English"
+    ]
+  },
+  {
+    "word": "outfall",
+    "ipa": "/ˈaʊtfɔːl/，美亦 /ˈaʊtfɑːl/",
+    "meaning": "排水口；排放水流进入水体的出口",
+    "sense": "管道或水道走到末端，把水排进河、海等地方的那个出口。",
+    "split": "out- 向外 + fall，联系水向外流落的画面，固定成排放出口、排水系统末端等名称。不是所有东西掉出箱子都用 outfall。",
+    "history": [
+      [
+        "out- 向外；fall 水流落、排出的画面",
+        "并列构词部分"
+      ],
+      [
+        "outfall",
+        "排水系统向外排放的出口"
+      ]
+    ],
+    "explanation": "a stormwater outfall 雨水排放口，a sewage outfall 污水排放口；词只说出口用途，不说明处理水平。",
+    "usage": "a stormwater outfall；a sewage outfall；an outfall pipe。",
+    "contrast": "outfall 排放口，waterfall 瀑布；fallout 则是另一固定词，可指后果或放射性沉降物，不靠换顺序互译。",
+    "examples": [
+      [
+        "The map shows the location of the stormwater outfall.",
+        "地图标出了雨水排放口的位置。"
+      ],
+      [
+        "Engineers inspected the outfall pipe after the storm.",
+        "工程师在暴风雨后检查了排水口管道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outfall#English"
+    ]
+  },
+  {
+    "word": "offal",
+    "ipa": "英 /ˈɒfəl/；美 /ˈɔːfəl/，亦 /ˈɑːfəl/",
+    "meaning": "动物内脏等可食杂件；旧有废料义",
+    "sense": "分割整只动物时，主肉块之外另分出的内脏等部分；现代菜单上常把这些作为食材一类来谈。",
+    "split": "中古英语 offal、offall，off 离开 + fall 落下，对应分切时落下、另分出的部分，较早有废料义。现代食用内脏不等于没有用途的垃圾。",
+    "history": [
+      [
+        "off + fall → 中古英语 offall、offal",
+        "另分出、落下的边余料"
+      ],
+      [
+        "现代 offal",
+        "内脏等食用杂件；某些语境仍指废料"
+      ]
+    ],
+    "explanation": "cook with offal 用内脏食材做菜，liver and other offal 肝等内脏；具体包括哪些食材随烹饪习惯，不必每块碎肉都叫 offal。",
+    "usage": "liver and other offal；offal dishes；cook with offal。",
+    "contrast": "offal 是食材、杂件名称，awful 糟糕的只是近音；不能因为不熟悉这种食材，就把词义译成难吃。",
+    "examples": [
+      [
+        "The cookbook includes several dishes made with offal.",
+        "食谱里有几道用内脏食材制作的菜。"
+      ],
+      [
+        "Liver is one type of offal.",
+        "肝是内脏食材的一种。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/offal#English",
+      "https://www.etymonline.com/word/offal"
+    ]
+  }
+]

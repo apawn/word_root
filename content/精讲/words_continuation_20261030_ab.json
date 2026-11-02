@@ -1,0 +1,362 @@
+[
+  {
+    "word": "master",
+    "ipa": "英 /ˈmɑːstə/；美 /ˈmæstər/",
+    "meaning": "主人、师傅、高手；硕士；掌握；主版本、母版",
+    "sense": "可以管得住一件事的人，或者手艺练到能带别人的人；把技能学到熟练，也叫 master。",
+    "split": "古英语早借拉丁 magister 负责人、老师，中古阶段又受法语 maistre 影响。学位、熟练者和母版等义各自发展，不是 modern mass + -ter。",
+    "history": [
+      [
+        "拉丁 magister → 古英语 mægester 等；古法语 maistre",
+        "负责人、老师；两条传入形式在中古英语汇合"
+      ],
+      [
+        "现代 master",
+        "主人、师傅、高手、硕士；掌握；主版本、母版"
+      ]
+    ],
+    "explanation": "master a skill 掌握技能，a master of painting 绘画大师，a master’s degree 硕士学位，a master copy 主版本。历史文字里 master 还可指奴隶主等控制者。",
+    "usage": "master a skill；a master of；a master’s degree；a master copy。",
+    "contrast": "master 动词通常暗示熟练控制，learn 学习不保证已掌握；master 也不总指男性人物，现代具体称谓按场景。",
+    "examples": [
+      [
+        "It takes practice to master a new skill.",
+        "掌握新技能需要练习。"
+      ],
+      [
+        "Keep the master copy in a safe place.",
+        "把主版本保存在安全地方。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/master",
+      "https://en.wiktionary.org/wiki/master#English"
+    ]
+  },
+  {
+    "word": "mastery",
+    "ipa": "英 /ˈmɑːstəri/；美 /ˈmæstəri/",
+    "meaning": "精通、熟练掌握；控制",
+    "sense": "不是刚会一点，而是遇到变化也能稳稳应付；那种掌握程度就是 mastery。",
+    "split": "经中古英语借古法语 maistrie，现代可对应 master + -y 的名词关系。不要把 -y 一律当形容词后缀。",
+    "history": [
+      [
+        "拉丁 magister → 古英语 mægester 等；古法语 maistre",
+        "负责人、老师；两条传入形式在中古英语汇合"
+      ],
+      [
+        "古法语 maistrie → 英语 mastery",
+        "主导、控制 → 精通、熟练掌握"
+      ]
+    ],
+    "explanation": "mastery of a language 精通一门语言，technical mastery 技术上的娴熟，gain mastery over 控制住。",
+    "usage": "mastery of；technical mastery；gain mastery over。",
+    "contrast": "a master 可以说人，mastery 说掌握程度、能力状态；熟悉 familiarity 往往还未到 mastery。",
+    "examples": [
+      [
+        "The performance showed her mastery of rhythm.",
+        "这场表演展现了她对节奏的娴熟掌握。"
+      ],
+      [
+        "Real mastery comes from applying the skill in different situations.",
+        "真正的精通来自在不同情境中运用技能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mastery#English"
+    ]
+  },
+  {
+    "word": "masterful",
+    "ipa": "英 /ˈmɑːstəfl/；美 /ˈmæstərfl/",
+    "meaning": "技艺高超的；有支配力、强势的",
+    "sense": "一面是像高手一样把事情做得漂亮，一面是像主人一样强力控制局面；上下文决定褒贬。",
+    "split": "master + -ful，中古英语已有相应形式。早有专横、主导义，高超、娴熟义也有长期历史，不能用旧规范否认现代实际用法。",
+    "history": [
+      [
+        "拉丁 magister → 古英语 mægester 等；古法语 maistre",
+        "负责人、老师；两条传入形式在中古英语汇合"
+      ],
+      [
+        "现代 master",
+        "主人、师傅、高手、硕士；掌握；主版本、母版"
+      ],
+      [
+        "master + -ful → masterful",
+        "有主人式控制力；有大师技艺"
+      ]
+    ],
+    "explanation": "a masterful performance 精湛表演，masterful handling 高明处理，a masterful manner 强势作风。看修饰的是技能还是控制态度。",
+    "usage": "a masterful performance；masterful handling；a masterful manner。",
+    "contrast": "masterful 与 masterly 在高超义上可重合；masterful 还可强势、专横。不能按 -ful 永远负面、-ly 永远正面的死规则判断。",
+    "examples": [
+      [
+        "She gave a masterful performance of the concerto.",
+        "她精湛地演奏了这首协奏曲。"
+      ],
+      [
+        "His masterful manner left little room for disagreement.",
+        "他强势的作风几乎不容别人提出异议。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/masterful",
+      "https://en.wiktionary.org/wiki/masterful#English"
+    ]
+  },
+  {
+    "word": "masterly",
+    "ipa": "英 /ˈmɑːstəli/；美 /ˈmæstərli/",
+    "meaning": "娴熟高明的；大师级的",
+    "sense": "看一场表演、一次处理，觉得每一步都拿捏得很熟，像高手出手。",
+    "split": "master + 形容词 -ly，中古英语已有相应形式。这里 -ly 主要构成形容词，并非看到 -ly 就一定副词。",
+    "history": [
+      [
+        "拉丁 magister → 古英语 mægester 等；古法语 maistre",
+        "负责人、老师；两条传入形式在中古英语汇合"
+      ],
+      [
+        "现代 master",
+        "主人、师傅、高手、硕士；掌握；主版本、母版"
+      ],
+      [
+        "master + -ly → masterly",
+        "以大师水准完成的、技艺高明的"
+      ]
+    ],
+    "explanation": "a masterly analysis 高明分析，masterly control 娴熟控制，a masterly performance 大师级表演。语体较书面。",
+    "usage": "a masterly analysis；masterly control；a masterly performance。",
+    "contrast": "masterly 常偏夸技艺，masterful 在同义用法之外还可指强势；二者并非所有场景都能互换。",
+    "examples": [
+      [
+        "The book offers a masterly analysis of the evidence.",
+        "书中对证据作了高明的分析。"
+      ],
+      [
+        "The musician showed masterly control of tone.",
+        "音乐家展现了对音色的娴熟控制。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/masterly#English"
+    ]
+  },
+  {
+    "word": "grandmaster",
+    "ipa": "英 /ˈɡrænmɑːstə/；美 /ˈɡrænmæstər/",
+    "meaning": "特级大师；某领域的顶尖高手",
+    "sense": "已经是高手，还在高手之上；国际象棋里尤其常作正式头衔。",
+    "split": "grand 伟大的、重要的 + master 高手，合成更高等级称号。实际头衔条件由具体组织、领域规定。",
+    "history": [
+      [
+        "拉丁 magister → 古英语 mægester 等；古法语 maistre",
+        "负责人、老师；两条传入形式在中古英语汇合"
+      ],
+      [
+        "现代 master",
+        "主人、师傅、高手、硕士；掌握；主版本、母版"
+      ],
+      [
+        "grand + master → grandmaster",
+        "高阶大师称号；尤国际象棋特级大师"
+      ]
+    ],
+    "explanation": "a chess grandmaster 国际象棋特级大师，an international grandmaster 国际特级大师；其他活动也可用这个名称。",
+    "usage": "a chess grandmaster；an international grandmaster；become a grandmaster。",
+    "contrast": "grandmaster 不是 grandfather 祖父；grand 在这里提升称号等级。称某人为顶尖高手也不必然授予正式棋类头衔。",
+    "examples": [
+      [
+        "The young player trained with a chess grandmaster.",
+        "年轻棋手跟一位国际象棋特级大师训练。"
+      ],
+      [
+        "The interview explores the grandmaster’s approach to practice.",
+        "访谈探讨了这位特级大师的训练方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grandmaster#English"
+    ]
+  },
+  {
+    "word": "remaster",
+    "ipa": "英 /ˌriːˈmɑːstə/；美 /ˌriːˈmæstər/〔动词〕",
+    "meaning": "重新制作母版；重新处理旧录音、影像；复刻改良版本",
+    "sense": "拿旧录音、旧影像的材料，重新处理制作发布用的母版；常希望声音、画面更适合新版本。",
+    "split": "re- 再次 + master 的母版、制作母版义。不是要求大师重新把技能学一遍。游戏语境也扩展到重制改良版本。",
+    "history": [
+      [
+        "拉丁 magister → 古英语 mægester 等；古法语 maistre",
+        "负责人、老师；两条传入形式在中古英语汇合"
+      ],
+      [
+        "现代 master",
+        "主人、师傅、高手、硕士；掌握；主版本、母版"
+      ],
+      [
+        "re- + master〔制作母版〕→ remaster",
+        "重新处理并制作发布母版、版本"
+      ]
+    ],
+    "explanation": "remaster an album 重新制作专辑母版，a remastered film 修复重制影片；不同项目改动程度有差异。",
+    "usage": "remaster an album；a remastered recording；a digital remaster。",
+    "contrast": "remaster 常基于既有材料再处理，remake 常重新制作作品，remix 常重新混音；实际发行标签不保证改动程度或效果完全一致。",
+    "examples": [
+      [
+        "The studio remastered the album from the original tapes.",
+        "录音室用原始磁带重新制作了专辑母版。"
+      ],
+      [
+        "A remastered version of the film was released.",
+        "影片推出了重新处理音画的版本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remaster#English"
+    ]
+  },
+  {
+    "word": "sing",
+    "ipa": "/sɪŋ/",
+    "meaning": "唱歌；鸣唱；发出悦耳或持续的声音",
+    "sense": "用嗓音把旋律唱出来；鸟儿鸣唱，风或金属发出像歌一样的声音，也可以借用。",
+    "split": "继承古英语 singan，经中古英语延续。变化 sing—sang—sung 保留旧元音交替，不是普通加 -ed。末尾 ng 读 /ŋ/。",
+    "history": [
+      [
+        "古英语 singan → 中古英语 singen",
+        "唱、用声音形成旋律"
+      ],
+      [
+        "英语 sing—sang—sung",
+        "保留不规则元音变化；singing、singer 继续派生"
+      ]
+    ],
+    "explanation": "sing a song 唱歌，sing along 跟着唱，sing in a choir 在合唱团唱；sing someone’s praises 大力称赞。",
+    "usage": "sing a song；sing along；sing in a choir；sing someone’s praises。",
+    "contrast": "sing 唱与 song 歌是同族词，song 并非英语任意把 i 改 o 的名词规则；singe /sɪndʒ/ 燎焦是另词。",
+    "examples": [
+      [
+        "She sang softly while making breakfast.",
+        "她做早餐时轻声唱歌。"
+      ],
+      [
+        "The birds began to sing at dawn.",
+        "鸟儿在黎明时开始鸣唱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sing#English"
+    ]
+  },
+  {
+    "word": "singing",
+    "ipa": "/ˈsɪŋɪŋ/",
+    "meaning": "唱歌、歌唱；鸣唱",
+    "sense": "把唱这个动作看成一项活动、技能或正在持续的声音。",
+    "split": "sing + -ing，中古英语已有相应形式。原词的 /ŋ/ 保留，末尾 -ing 又读 /ɪŋ/，不要额外添 /ɡ/。",
+    "history": [
+      [
+        "古英语 singan → 中古英语 singen",
+        "唱、用声音形成旋律"
+      ],
+      [
+        "英语 sing—sang—sung",
+        "保留不规则元音变化；singing、singer 继续派生"
+      ],
+      [
+        "sing + -ing → singing",
+        "歌唱活动；正在唱、鸣唱"
+      ]
+    ],
+    "explanation": "singing lessons 声乐课，choral singing 合唱，hear singing 听到歌声。可作活动名词或进行时部分。",
+    "usage": "singing lessons；choral singing；hear singing。",
+    "contrast": "singing 说声音活动，singer 说人，song 说作品；三者在句子里承担不同角色。",
+    "examples": [
+      [
+        "She takes singing lessons every Tuesday.",
+        "她每周二上声乐课。"
+      ],
+      [
+        "We could hear singing from the room upstairs.",
+        "我们能听到楼上房间传来歌声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/singing#English"
+    ]
+  },
+  {
+    "word": "singer",
+    "ipa": "英 /ˈsɪŋə/；美 /ˈsɪŋər/",
+    "meaning": "歌手；唱歌的人",
+    "sense": "做唱歌这件事的人，可能是职业表演者，也可能只是合唱团普通成员。",
+    "split": "sing + -er，接中古英语同族人物词。常用歌手义保留 /ŋ/，与 finger 的 /ŋɡ/ 不同；另有来自 singe 的罕见同形词不在本页扩写。",
+    "history": [
+      [
+        "古英语 singan → 中古英语 singen",
+        "唱、用声音形成旋律"
+      ],
+      [
+        "英语 sing—sang—sung",
+        "保留不规则元音变化；singing、singer 继续派生"
+      ],
+      [
+        "sing + -er → singer",
+        "从事或参与唱歌的人"
+      ]
+    ],
+    "explanation": "a lead singer 主唱，a backing singer 伴唱，an opera singer 歌剧演唱者。不是只有明星才叫 singer。",
+    "usage": "a lead singer；a backing singer；an opera singer。",
+    "contrast": "singer 唱歌者，songwriter 写歌者；一个人可以两者兼任。读音辨清 singer /ŋ/，不用照字母给 g 单独加音。",
+    "examples": [
+      [
+        "The band is looking for a new lead singer.",
+        "乐队在寻找新主唱。"
+      ],
+      [
+        "Several singers joined the choir this year.",
+        "今年有几位歌唱者加入合唱团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/singer#English"
+    ]
+  },
+  {
+    "word": "singalong",
+    "ipa": "英 /ˈsɪŋəlɒŋ/；美 /ˈsɪŋəlɔːŋ/ 或 /ˈsɪŋəlɑːŋ/",
+    "meaning": "合唱活动；让大家跟着唱的",
+    "sense": "有人起个头、放一首熟歌，大家一起跟着唱，不一定排练成正式合唱演出。",
+    "split": "sing + along，来自 sing along 跟唱的短语，连写可作名词、形容词。也有分写、连字符拼法，本文只设连写词条。",
+    "history": [
+      [
+        "古英语 singan → 中古英语 singen",
+        "唱、用声音形成旋律"
+      ],
+      [
+        "英语 sing—sang—sung",
+        "保留不规则元音变化；singing、singer 继续派生"
+      ],
+      [
+        "sing along → singalong",
+        "跟着唱 → 大家参与的跟唱活动"
+      ]
+    ],
+    "explanation": "a family singalong 家庭合唱活动，a singalong song 适合大家跟唱的歌；常重参与、熟悉和热闹。",
+    "usage": "a family singalong；a singalong song；join a singalong。",
+    "contrast": "singalong 关注大家跟唱，choir 合唱团是组织或演唱群体；一群人合唱不必就组成正式 choir。",
+    "examples": [
+      [
+        "The evening ended with a cheerful singalong.",
+        "晚上最后以一场欢乐的合唱活动结束。"
+      ],
+      [
+        "They chose familiar songs for the family singalong.",
+        "他们给家庭合唱活动选了熟悉的歌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/singalong#English"
+    ]
+  }
+]

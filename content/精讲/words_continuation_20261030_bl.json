@@ -1,0 +1,393 @@
+[
+  {
+    "word": "rain",
+    "ipa": "/reɪn/",
+    "meaning": "雨；下雨；大量落下、接连出现",
+    "sense": "水滴从天上落下来；问题、礼物或拳头接连落下，也能借下雨形容。",
+    "split": "继承古英语 reġn，远源有不同假说，本文从可靠旧词形讲。名词 rain 常不可数，动词天气句用形式主语 it。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "现代 rain",
+        "雨、下雨；大量落下或接连出现的比喻"
+      ]
+    ],
+    "explanation": "heavy rain 大雨，It’s raining. 正下雨，rain down on 大量落向；save for a rainy day 相关比喻见 rainy。",
+    "usage": "heavy rain；in the rain；it is raining；rain down on。",
+    "contrast": "rain 下雨、雨，reign 统治、rein 缰绳许多口音同音，但词源不同。heavy rain 常规大雨，不照中文机械用 big rain。",
+    "examples": [
+      [
+        "Heavy rain delayed the match.",
+        "大雨耽误了比赛。"
+      ],
+      [
+        "It began to rain just as we left.",
+        "我们刚离开就开始下雨了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rain#English"
+    ]
+  },
+  {
+    "word": "rainy",
+    "ipa": "/ˈreɪni/",
+    "meaning": "下雨的；多雨的",
+    "sense": "一天正在下雨，或一季常下雨，都能 rainy；关注天气、气候的雨多。",
+    "split": "rain + -y，古英语 reġniġ 等同族形容词已存在。rainy day 还借指生活遇到难处、需要储备的时候。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "古英语 reġniġ → rainy",
+        "有雨、多雨；现代 rain + -y 对应"
+      ]
+    ],
+    "explanation": "a rainy day 雨天，the rainy season 雨季，save for a rainy day 未雨绸缪、为困难时期留储备。",
+    "usage": "a rainy day；the rainy season；save for a rainy day。",
+    "contrast": "rainy 性质多雨，raining 正在下雨；a rainy season 不要求那一季每一分钟都在 raining。",
+    "examples": [
+      [
+        "We spent the rainy afternoon reading indoors.",
+        "下雨的下午，我们在屋里读书。"
+      ],
+      [
+        "The rainy season starts in May.",
+        "雨季五月开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainy#English"
+    ]
+  },
+  {
+    "word": "rainbow",
+    "ipa": "英 /ˈreɪnbəʊ/；美 /ˈreɪnboʊ/",
+    "meaning": "彩虹；缤纷的一系列〔比喻〕",
+    "sense": "天空弯出一道彩色弓；bow 在这里抓住弯弧的形状。",
+    "split": "古英语 reġnboga 等旧组合延续，现代 rain + bow 弓、弧。不是 bow /baʊ/ 鞠躬的那种读法。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "古英语 reġn + boga → rainbow",
+        "雨与弓弧组合的彩虹名称"
+      ]
+    ],
+    "explanation": "a rainbow in the sky 天空彩虹，a rainbow of colours 缤纷色彩；名称不要求只有特定几条实际界线分明的色带。",
+    "usage": "a rainbow in the sky；a rainbow of colours；a double rainbow。",
+    "contrast": "rainbow 的 bow 常读 /bəʊ/ 或 /boʊ/，和 bow tie 蝴蝶结同一弓形读法；鞠躬 bow 则 /baʊ/。",
+    "examples": [
+      [
+        "A rainbow appeared after the shower.",
+        "阵雨后出现了一道彩虹。"
+      ],
+      [
+        "The market stalls displayed a rainbow of colours.",
+        "市场摊位上呈现出缤纷色彩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainbow#English"
+    ]
+  },
+  {
+    "word": "rainforest",
+    "ipa": "英 /ˈreɪnfɒrɪst/；美 /ˈreɪnfɔːrɪst/",
+    "meaning": "雨林",
+    "sense": "降水丰富，森林长期湿润茂密；名字看的是水分条件，不只某一个国家的树。",
+    "split": "rain + forest，仿译德语 Regenwald。现代雨林也包括温带类型，不等于只在热带、只在亚马孙。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "现代 rain",
+        "雨、下雨；大量落下或接连出现的比喻"
+      ],
+      [
+        "rain + forest；仿译德语 Regenwald → rainforest",
+        "降水丰富地区的森林类别"
+      ]
+    ],
+    "explanation": "tropical rainforest 热带雨林，temperate rainforest 温带雨林，rainforest plants 雨林植物。",
+    "usage": "tropical rainforest；temperate rainforest；rainforest plants。",
+    "contrast": "rainforest 是森林类型，rainy forest 可只是当天、当地多雨的森林描述；名称不由某一场雨临时决定。",
+    "examples": [
+      [
+        "The film explores life in a tropical rainforest.",
+        "影片探索热带雨林中的生命。"
+      ],
+      [
+        "Temperate rainforests also grow in cooler regions.",
+        "较凉爽地区也会生长温带雨林。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainforest#English"
+    ]
+  },
+  {
+    "word": "raincoat",
+    "ipa": "英 /ˈreɪnkəʊt/；美 /ˈreɪnkoʊt/",
+    "meaning": "雨衣",
+    "sense": "穿在身上挡雨的外衣；前部说明用途，后部说明衣物类别。",
+    "split": "rain + coat 外套。名字按防雨用途命名，不要求只能在下雨时穿。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "现代 rain",
+        "雨、下雨；大量落下或接连出现的比喻"
+      ],
+      [
+        "rain + coat → raincoat",
+        "为挡雨设计的外衣"
+      ]
+    ],
+    "explanation": "a waterproof raincoat 防水雨衣，put on a raincoat 穿上雨衣，a hooded raincoat 带帽雨衣。",
+    "usage": "a waterproof raincoat；put on a raincoat；a hooded raincoat。",
+    "contrast": "raincoat 雨衣，overcoat 大衣着眼外层、保暖等；普通外套不一定有同样防雨用途。",
+    "examples": [
+      [
+        "Take a raincoat in case the weather changes.",
+        "带件雨衣，以防天气有变。"
+      ],
+      [
+        "She hung her wet raincoat by the door.",
+        "她把湿雨衣挂在门边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raincoat#English"
+    ]
+  },
+  {
+    "word": "rainstorm",
+    "ipa": "英 /ˈreɪnstɔːm/；美 /ˈreɪnstɔːrm/",
+    "meaning": "暴风雨；强降雨风暴",
+    "sense": "不只几滴小雨，而是一场有明显强度的雨天气过程，可能伴风等。",
+    "split": "rain + storm 风暴，组合突出以雨为主要特征的风暴。不能从词形保证一定有雷电。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "现代 rain",
+        "雨、下雨；大量落下或接连出现的比喻"
+      ],
+      [
+        "rain + storm → rainstorm",
+        "以降雨为主要特征的风暴天气"
+      ]
+    ],
+    "explanation": "a heavy rainstorm 强暴雨，be caught in a rainstorm 遇上暴风雨。",
+    "usage": "a heavy rainstorm；be caught in a rainstorm；a sudden rainstorm。",
+    "contrast": "rainstorm 强雨过程，thunderstorm 明确突出雷暴；二者可同时发生，但不是完全同义。",
+    "examples": [
+      [
+        "A sudden rainstorm sent everyone running for shelter.",
+        "突如其来的暴风雨让大家跑去避雨。"
+      ],
+      [
+        "The rainstorm lasted for two hours.",
+        "暴风雨持续了两小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainstorm#English"
+    ]
+  },
+  {
+    "word": "rainmaker",
+    "ipa": "英 /ˈreɪnmeɪkə/；美 /ˈreɪnmeɪkər/",
+    "meaning": "求雨者；带来大量客户、业务或资金的人〔比喻〕",
+    "sense": "旱地盼雨，公司盼业务；能把客户和收益带进来的人，就被比作带来雨水的人。",
+    "split": "rain + maker，旧用法指试图借仪式等带来雨的人，现代也用于催雨相关人或设备；商业比喻突出带来业务，不声称仪式实际必能控制天气。",
+    "history": [
+      [
+        "古英语 reġn → 中古英语 reyn、rein → rain",
+        "雨；更远来源不确定"
+      ],
+      [
+        "现代 rain",
+        "雨、下雨；大量落下或接连出现的比喻"
+      ],
+      [
+        "rain + maker → rainmaker",
+        "试图造雨、求雨者；引申带来业务和资金的能人"
+      ]
+    ],
+    "explanation": "the firm’s rainmaker 公司的业务能手，a rainmaker who attracts clients 能吸引客户的业务人物。",
+    "usage": "the firm’s rainmaker；a successful rainmaker；a traditional rainmaker。",
+    "contrast": "rainmaker 商业里说客户、业务能力，weather forecaster 是预报天气的人；预报雨并不等于造雨。",
+    "examples": [
+      [
+        "She became the firm’s leading rainmaker by attracting major clients.",
+        "她通过吸引大客户，成了公司的头号业务能手。"
+      ],
+      [
+        "The story describes a rainmaker performing a ritual.",
+        "故事描写了一位求雨者举行仪式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainmaker#English"
+    ]
+  },
+  {
+    "word": "glad",
+    "ipa": "/ɡlæd/",
+    "meaning": "高兴的；庆幸的；乐意的",
+    "sense": "听到好消息，心一下亮起来；松一口气觉得幸好如此，也常说 glad。",
+    "split": "继承古英语 glæd，旧有明亮、欢快联系。今天常说对某件事高兴、庆幸，或愿意做某事。",
+    "history": [
+      [
+        "古英语 glæd → 中古英语 glad → glad",
+        "明亮、欢快等相联旧义"
+      ],
+      [
+        "现代 glad",
+        "高兴；庆幸；乐意、愿意"
+      ]
+    ],
+    "explanation": "glad to see you 很高兴见到你，glad that ... 很高兴、庆幸……，glad to help 乐意帮忙。",
+    "usage": "glad to see；glad that；glad to help；glad about。",
+    "contrast": "glad 常放表语说感受，happy 用法更宽。生日祝语习惯 Happy birthday，不按同义词替换成 Glad birthday。",
+    "examples": [
+      [
+        "I’m glad you could come.",
+        "我很高兴你能来。"
+      ],
+      [
+        "She was glad that the exam was over.",
+        "考试结束了，她感到庆幸、轻松。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glad#English"
+    ]
+  },
+  {
+    "word": "gladly",
+    "ipa": "/ˈɡlædli/",
+    "meaning": "乐意地；欣然；高兴地",
+    "sense": "不只是嘴上答应，心里也愿意做；常用来爽快接受、提供帮助。",
+    "split": "glad + -ly，古英语 glædlīce 等副词已存在。现代乐意义常强调自愿、欣然。",
+    "history": [
+      [
+        "古英语 glæd → 中古英语 glad → glad",
+        "明亮、欢快等相联旧义"
+      ],
+      [
+        "现代 glad",
+        "高兴；庆幸；乐意、愿意"
+      ],
+      [
+        "古英语 glædlīce → gladly",
+        "高兴、欣然、自愿地"
+      ]
+    ],
+    "explanation": "gladly help 乐意帮，gladly accept 欣然接受，would gladly do 很乐意做。",
+    "usage": "gladly help；gladly accept；would gladly do。",
+    "contrast": "gladly 多有愿意、高兴的态度，quickly 只说速度；答应得快不保证心甘情愿。",
+    "examples": [
+      [
+        "I would gladly help if I had more time.",
+        "如果时间多一点，我很乐意帮忙。"
+      ],
+      [
+        "She gladly accepted the invitation.",
+        "她欣然接受了邀请。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gladly#English"
+    ]
+  },
+  {
+    "word": "gladness",
+    "ipa": "/ˈɡlædnəs/",
+    "meaning": "喜悦；高兴的心情",
+    "sense": "把心里那份明亮、开心拿出来作为一种感受说，语气往往比常见的 happiness 更偏书面。",
+    "split": "glad + -ness，性质、情绪名词。不是某一种具体礼物或让人开心的物品。",
+    "history": [
+      [
+        "古英语 glæd → 中古英语 glad → glad",
+        "明亮、欢快等相联旧义"
+      ],
+      [
+        "现代 glad",
+        "高兴；庆幸；乐意、愿意"
+      ],
+      [
+        "glad + -ness → gladness",
+        "高兴、喜悦的状态"
+      ]
+    ],
+    "explanation": "a feeling of gladness 喜悦感，with gladness 怀着喜悦。可见于文学、宗教或较抒情表达。",
+    "usage": "a feeling of gladness；with gladness；a sense of gladness。",
+    "contrast": "gladness 喜悦情绪，gladden 使喜悦的动作；两词只差后部，句中角色不同。",
+    "examples": [
+      [
+        "A feeling of gladness came over her as she reached home.",
+        "到家时，一阵喜悦涌上她心头。"
+      ],
+      [
+        "He welcomed the visitors with gladness.",
+        "他满怀喜悦地迎接访客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gladness#English"
+    ]
+  },
+  {
+    "word": "gladden",
+    "ipa": "/ˈɡlædən/",
+    "meaning": "使高兴；使欣慰",
+    "sense": "一件事把别人的心情点亮；较书面，常见 gladden someone’s heart 让人心里高兴。",
+    "split": "glad + -en，使变成 glad。双写 d 后接 -en，属于改变状态的动词。",
+    "history": [
+      [
+        "古英语 glæd → 中古英语 glad → glad",
+        "明亮、欢快等相联旧义"
+      ],
+      [
+        "现代 glad",
+        "高兴；庆幸；乐意、愿意"
+      ],
+      [
+        "glad + -en → gladden",
+        "使高兴、使心里欣慰"
+      ]
+    ],
+    "explanation": "gladden someone’s heart 让某人心里欣慰，be gladdened by 因……而高兴。",
+    "usage": "gladden someone’s heart；be gladdened by；news that gladdens。",
+    "contrast": "gladden 使人高兴，glad 高兴状态；The news gladdened her 与 She was glad about the news 观察角度不同。",
+    "examples": [
+      [
+        "The children’s laughter gladdened her heart.",
+        "孩子们的笑声让她心里欣慰。"
+      ],
+      [
+        "We were gladdened by the news of his safe return.",
+        "听说他平安归来，我们都很高兴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gladden#English"
+    ]
+  }
+]

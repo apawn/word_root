@@ -1,0 +1,1097 @@
+[
+  {
+    "word": "pitching",
+    "ipa": "英、美 /ˈpɪtʃɪŋ/",
+    "meaning": "投球；搭起；推介；颠簸〔分词、动名词〕",
+    "sense": "把球投过去，是 pitching；把想法送到别人面前争取采用，也叫 pitching。搭帐篷则保留了把东西插入、固定起来的老用法。",
+    "split": "pitch + -ing → pitching，原词不改。动作 pitch 较早有插入、固定义，可能接未留记录的古英语相关词；后来有搭起、投掷、船首尾起伏等意思。",
+    "history": [
+      [
+        "早期 pitch 插入、固定 → 搭起、投掷等动作",
+        "更早的确切词形与部分义项联系仍有不确定性"
+      ],
+      [
+        "pitch 的投球、推介等现代用法 + -ing → pitching",
+        "推介义的具体来源不硬说成已确定的单一路线"
+      ]
+    ],
+    "explanation": "pitching a tent 是搭帐篷；pitching a ball 是投球；pitching an idea 是推介想法；a pitching boat 是前后颠簸的船。",
+    "usage": "pitching a tent；pitching a ball；pitching an idea。",
+    "contrast": "pitching 的几种动作要看对象。名词 pitch 还可指音高、场地；沥青的 pitch 另源，不能把同一拼写都串成投掷。",
+    "examples": [
+      [
+        "They were pitching a tent near the lake.",
+        "他们正在湖边搭帐篷。"
+      ],
+      [
+        "She is pitching a new story idea to the editor.",
+        "她正在向编辑推介一个新的故事构想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pitching#English",
+      "https://www.etymonline.com/word/pitch"
+    ]
+  },
+  {
+    "word": "premiums",
+    "ipa": "英、美 /ˈpriːmiəmz/",
+    "meaning": "保险费；额外费用、溢价；奖赏〔复数〕",
+    "sense": "premium 较早是额外拿到的奖赏；后来也用于要支付的一笔保险费，或高于通常价格的那部分钱。premiums 把这些具体金额、项目数出来。",
+    "split": "premium + -s → premiums，/m/ 后读 /z/。拉丁 praemium 奖赏，含 prae- 在前与 emere 取、买的词族；保险费义还联系意大利语 premio。",
+    "history": [
+      [
+        "拉丁 praemium 奖赏 → premium",
+        "额外获得的报偿、好处"
+      ],
+      [
+        "保险费与高于通常价格的金额等义 → premiums",
+        "现代几个财务相关分支不能只按奖励一义套用"
+      ]
+    ],
+    "explanation": "insurance premiums 是保险费；price premiums 是高于通常价格的部分；pay premiums 是支付相应额外费用或保费，依上下文确定。",
+    "usage": "insurance premiums；price premiums；annual premiums。",
+    "contrast": "premium 作优质的、高档的形容词时不因后面名词复数加 s。premiums 则是在说名词的金额、项目等。",
+    "examples": [
+      [
+        "The article explains the meaning of insurance premiums.",
+        "文章解释了保险费这个概念。"
+      ],
+      [
+        "Collectors sometimes pay premiums for rare editions.",
+        "收藏者有时会为稀有版本支付更高的价格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/premiums#English",
+      "https://www.etymonline.com/word/premium"
+    ]
+  },
+  {
+    "word": "protects",
+    "ipa": "英、美 /prəˈtekts/",
+    "meaning": "保护；防护；维护〔第三人称单数〕",
+    "sense": "在容易受伤害的东西前面挡上一层，是 protects 的核心画面。保护的不仅可以是物体，也可以是隐私、机会、某种权益。",
+    "split": "protect + -s → protects，末尾 /kts/。拉丁 pro- 在前 + tegere 盖住 → protegere，其分词 protectus 接英语 protect。",
+    "history": [
+      [
+        "拉丁 protegere 盖在前面、防护 → protectus → protect",
+        "以遮挡形成保护的基本画面"
+      ],
+      [
+        "protect + -s → protects",
+        "现代泛指减少伤害、损坏、侵犯的影响"
+      ]
+    ],
+    "explanation": "protects the surface 是保护表面；protects from rain 是防雨；protects privacy 是保护隐私。",
+    "usage": "protects the surface；protects from rain；protects privacy。",
+    "contrast": "protects 侧重防止伤害；preserves 更侧重保存、保持状态。protect something from 或 against 常说明防的是什么。",
+    "examples": [
+      [
+        "The cover protects the book from dust.",
+        "书套保护书本不落灰。"
+      ],
+      [
+        "The roof protects the paintings from the rain.",
+        "屋顶保护画作不受雨淋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/protects#English",
+      "https://www.etymonline.com/word/protect"
+    ]
+  },
+  {
+    "word": "realizes",
+    "ipa": "英、美 /ˈrɪəlaɪzɪz/",
+    "meaning": "意识到；认识到；实现〔第三人称单数〕",
+    "sense": "事情本来没看清，忽然知道它确实如此，是 realizes；把脑中的计划变成现实，又是另一个常用分支。两者都围绕 real，真实。",
+    "split": "realize 保留末尾 e，加 -s → realizes；/z/ 后增加 /ɪz/ 音节。realize 借法语 réaliser 使成真，后来发展出清楚认识现实的意思；另有 realises 拼写。",
+    "history": [
+      [
+        "法语 réaliser 使成为现实 → 英语 realize",
+        "较早是使存在、使成真"
+      ],
+      [
+        "意识到现实这一认知义增强 → realizes",
+        "现代认识事实与实现愿望两种用法并存"
+      ]
+    ],
+    "explanation": "realizes that... 是意识到……；realizes a mistake 是发现、认识到错误；realizes a dream 是实现梦想。",
+    "usage": "realizes that；realizes her mistake；realizes a dream。",
+    "contrast": "realizes a dream 是让梦想成真，realizes that she was dreaming 是意识到自己刚才在做梦。后面的宾语与句式能帮助选义。",
+    "examples": [
+      [
+        "He realizes that he has taken the wrong bag.",
+        "他意识到自己拿错包了。"
+      ],
+      [
+        "The character finally realizes her dream of becoming a painter.",
+        "那个人物终于实现了成为画家的梦想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/realizes#English",
+      "https://www.etymonline.com/word/realize"
+    ]
+  },
+  {
+    "word": "sampling",
+    "ipa": "英 /ˈsɑːmplɪŋ/；美 /ˈsæmplɪŋ/",
+    "meaning": "取样、抽样；品尝；音乐采样〔分词、动名词〕",
+    "sense": "不把全部拿来，只取一小份看看、尝尝，是 sampling。统计里抽取一部分来研究，音乐里取一段已有声音来处理，也沿用这个取样画面。",
+    "split": "sample 去末尾 e，加完整 -ing → sampling。sample 经法语 saumple 等接拉丁 exemplum 例子、样本，与 example 同族；英语名词后来转作动词。",
+    "history": [
+      [
+        "法语 essample、saumple 等 → sample 样本、例子",
+        "从一份具体材料了解更大范围"
+      ],
+      [
+        "sample 转动词 + -ing → sampling",
+        "现代用于抽样、试吃、声音片段的采用"
+      ]
+    ],
+    "explanation": "random sampling 是随机抽样；sampling food 是品尝少量食物；sampling a recording 是从录音中选取片段作素材。",
+    "usage": "random sampling；sampling food；sampling a recording。",
+    "contrast": "sampling 是取一部分，不自动说明这一部分就能代表全部。统计抽样的设计与随手尝一口属于不同具体用法。",
+    "examples": [
+      [
+        "The course introduces basic methods of sampling.",
+        "课程介绍了基本抽样方法。"
+      ],
+      [
+        "We spent the afternoon sampling food at the market.",
+        "我们花了一下午在市场品尝各种食物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sampling#English",
+      "https://www.etymonline.com/word/sample"
+    ]
+  },
+  {
+    "word": "signatures",
+    "ipa": "英 /ˈsɪɡnətʃəz/；美 /ˈsɪɡnətʃɚz/",
+    "meaning": "签名；特征、识别标记；调号、拍号〔复数〕",
+    "sense": "写下自己的名字作标记，是 signature；一个人、作品独有的风格，也像留下了能认出它的“签名”。",
+    "split": "signature 保留末尾 e，加 -s → signatures。经法语 signature 或拉丁 signatura 接 signare 做标记、签署，远连 signum 标记。",
+    "history": [
+      [
+        "拉丁 signare 标记 → signatura → signature",
+        "印记、公文与亲笔签名的词族"
+      ],
+      [
+        "签名 → 可识别的特征；音乐记号等 → signatures",
+        "现代按领域识别具体标记作用"
+      ]
+    ],
+    "explanation": "collect signatures 是征集签名；signatures on a letter 是信上的签名；time signatures 是拍号；distinctive signatures 是可识别的特征。",
+    "usage": "collect signatures；signatures on the form；time signatures。",
+    "contrast": "signatures 常能表明人名或辨识特征，不都等于手写名字。音乐里的 time signatures 例如说明节拍的组织方式。",
+    "examples": [
+      [
+        "The letter carried the signatures of all the members.",
+        "信上有全体成员的签名。"
+      ],
+      [
+        "The lesson compares several time signatures.",
+        "这节课比较了几种拍号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/signatures#English",
+      "https://www.etymonline.com/word/signature"
+    ]
+  },
+  {
+    "word": "spiders",
+    "ipa": "英 /ˈspaɪdəz/；美 /ˈspaɪdɚz/",
+    "meaning": "蜘蛛〔复数〕",
+    "sense": "能吐丝的八足小动物，是 spiders。名字远处像在说“纺丝者”，很适合把词义与它的动作连起来。",
+    "split": "spider + -s → spiders，-s 读 /z/。spider 承古英语 spiðra 等，远接纺、拉伸的词族；历史里的 n 脱落、th 与 d 的变化，让它与 spin 的联系变得不那么显眼。",
+    "history": [
+      [
+        "日耳曼纺丝者的名称 → 古英语 spiðra",
+        "以纺丝的动作给动物命名"
+      ],
+      [
+        "历史语音变化 → spider → spiders",
+        "现代把 spider 当整体，复数规则加 -s"
+      ]
+    ],
+    "explanation": "spiders in the garden 是花园里的蜘蛛；spiders’ webs 是蜘蛛网；different spiders 是不同的蜘蛛。",
+    "usage": "spiders in the garden；spiders’ webs；different kinds of spiders。",
+    "contrast": "蜘蛛与昆虫的分类不同，spiders 通常有八条腿。名字联系纺丝，但不能据此认为所有蜘蛛都织同一种捕食网。",
+    "examples": [
+      [
+        "We found several spiders in the garden.",
+        "我们在花园里发现了几只蜘蛛。"
+      ],
+      [
+        "The book explains how spiders use silk.",
+        "这本书解释了蜘蛛怎样使用蛛丝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiders#English",
+      "https://www.etymonline.com/word/spider"
+    ]
+  },
+  {
+    "word": "strokes",
+    "ipa": "英 /strəʊks/；美 /stroʊks/",
+    "meaning": "笔画、笔触；划水动作；中风、卒中〔复数〕；轻抚〔第三人称单数〕",
+    "sense": "一次划过、一下动作，是 stroke 好记的画面：毛笔的一笔、划桨的一下。轻轻顺着摸，是抚摸；疾病名 stroke 则另保留了“突然遭到一击”的旧比喻。",
+    "split": "stroke 保留末尾 e，加 -s → strokes，末尾 /ks/。动作名与抚摸动词有各自的古英语词形史，远同属日耳曼击打、划动、轻擦等相关材料。",
+    "history": [
+      [
+        "日耳曼击打、划动的词族 → stroke 一击、一次动作",
+        "发展出笔触、划桨、划水等可数用法"
+      ],
+      [
+        "抚摸动词另承古英语 stracian；突然一击的比喻又用于疾病名",
+        "现代 strokes 可能是名词复数或动词第三人称"
+      ]
+    ],
+    "explanation": "brush strokes 是笔触；swimming strokes 是泳姿、划水动作；strokes the cat 是轻抚猫；医学中的 strokes 是中风、卒中，可涉及血管阻塞或破裂出血。",
+    "usage": "brush strokes；swimming strokes；strokes the cat。",
+    "contrast": "strokes 不只有一个可套用的中文意思。画画、游泳、抚摸与疾病名称各看对象；医学义的历史比喻不等于今天的病因解释。",
+    "examples": [
+      [
+        "The artist used broad strokes of blue paint.",
+        "画家用宽阔的笔触涂上蓝色颜料。"
+      ],
+      [
+        "She strokes the cat while reading.",
+        "她一边读书一边轻抚猫。"
+      ],
+      [
+        "The chapter describes the main types of strokes.",
+        "这一章介绍了中风的主要类型。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strokes#English",
+      "https://www.etymonline.com/word/stroke",
+      "https://medlineplus.gov/stroke.html"
+    ]
+  },
+  {
+    "word": "successes",
+    "ipa": "英、美 /səkˈsesɪz/",
+    "meaning": "成功的事；成就；成功人物、作品〔复数〕",
+    "sense": "success 可以统说成功；做成了一件、又一件值得认可的事，就可以数为 successes。一本卖得好、受欢迎的作品，也能叫 a success。",
+    "split": "success 以 ss 结尾，加 -es → successes，增加 /ɪz/ 音节。拉丁 successus 进展、结果，来自 succedere 接续、走近、进展，含 sub- 与 cedere 走。",
+    "history": [
+      [
+        "拉丁 succedere 接续、进展 → successus → success",
+        "英语早期可泛指好坏不同的结果"
+      ],
+      [
+        "好结果、成功义占主流 → 可数成功之事 → successes",
+        "现代复数把一次次成果具体数出来"
+      ]
+    ],
+    "explanation": "early successes 是早期取得的成功；successes and failures 是成功与失败；commercial successes 是商业上成功的作品、项目。",
+    "usage": "early successes；successes and failures；a series of successes。",
+    "contrast": "success 作整体常不可数，successes 常指具体成果。She achieved success 与 her early successes 的观察角度不同。",
+    "examples": [
+      [
+        "The team learned from both its successes and its failures.",
+        "团队既从成功中学习，也从失败中学习。"
+      ],
+      [
+        "Her first two books were commercial successes.",
+        "她的前两本书在商业上都很成功。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/successes#English",
+      "https://www.etymonline.com/word/success"
+    ]
+  },
+  {
+    "word": "summers",
+    "ipa": "英 /ˈsʌməz/；美 /ˈsʌmɚz/",
+    "meaning": "夏天、夏季〔复数〕；在某地度夏〔第三人称单数〕",
+    "sense": "今年夏天、去年夏天，可以一个个数成 summers。回忆 childhood summers，就是在想童年那些夏天，而非某个连续不断的夏季。",
+    "split": "summer + -s → summers，-s 读 /z/。summer 承古英语 sumor，远连其他日耳曼语言的夏季名称；现代也可把季节名转作度夏的动词。",
+    "history": [
+      [
+        "古英语 sumor → 中古英语 somer → summer",
+        "持续沿用的季节名"
+      ],
+      [
+        "summer + -s → summers",
+        "现代复数数不同年份的夏天，动词则说在某地过夏季"
+      ]
+    ],
+    "explanation": "childhood summers 是童年的夏天；hot summers 是炎热的夏季；summers by the sea 是在海边度夏，是否动词看句子。",
+    "usage": "childhood summers；hot summers；summers by the sea。",
+    "contrast": "summers 作复数名词是在数多个夏天；he summers by the sea 里则是动词，表示他在海边度夏。",
+    "examples": [
+      [
+        "We spent our childhood summers by the lake.",
+        "我们童年时的夏天是在湖边度过的。"
+      ],
+      [
+        "The village has warm summers and cold winters.",
+        "这个村庄夏暖冬寒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summers#English",
+      "https://www.etymonline.com/word/summer"
+    ]
+  },
+  {
+    "word": "supplying",
+    "ipa": "英、美 /səˈplaɪɪŋ/",
+    "meaning": "提供；供应；补充〔分词、动名词〕",
+    "sense": "需要的东西不足，把缺口补上，是 supplying。给学校供应纸张、为文章提供资料，都可以用它。",
+    "split": "supply + -ing → supplying，y 保留。拉丁 sub- 与 plere 填满 → supplere 补足，经法语 soupplier 等形成 supply。",
+    "history": [
+      [
+        "拉丁 supplere 填满、补足 → 法语、英语 supply",
+        "较早强调补全、弥补不足"
+      ],
+      [
+        "提供需要之物的常用义 + -ing → supplying",
+        "现代对象可以是物资、信息、能量等"
+      ]
+    ],
+    "explanation": "supplying paper to schools 是给学校供应纸；supplying someone with information 是给某人提供资料；supplying a need 是满足需要。",
+    "usage": "supplying something to；supplying someone with；supplying information。",
+    "contrast": "supplying 后的两种常见顺序要配套：supply goods to people，或 supply people with goods。这里加 -ing 不改变介词关系。",
+    "examples": [
+      [
+        "The company is supplying paper to local schools.",
+        "公司正在向本地学校供应纸张。"
+      ],
+      [
+        "She helped by supplying the team with useful information.",
+        "她向团队提供有用资料，帮了大家的忙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplying#English",
+      "https://www.etymonline.com/word/supply"
+    ]
+  },
+  {
+    "word": "tended",
+    "ipa": "英、美 /ˈtendɪd/",
+    "meaning": "往往会；趋向于；照料、打理了〔过去形式〕",
+    "sense": "tended to happen 是过去往往如此；tended a garden 是照料花园。前者把方向伸向某种结果，后者把注意力用到对象上。",
+    "split": "tend + 完整 -ed → tended，/d/ 后读 /ɪd/。趋向 tend 经法语接拉丁 tendere 伸展；照料 tend 常由 attend 截短，attend 远处也有伸向、留意的材料。",
+    "history": [
+      [
+        "拉丁 tendere 伸展 → tend 趋向",
+        "现代 tend to do 表经常有某种倾向"
+      ],
+      [
+        "attend 留意、照看 → 截短 tend → tended",
+        "现代过去形式也可说照料、打理"
+      ]
+    ],
+    "explanation": "tended to forget 是过去容易忘；tended the garden 是打理花园；tended to the plants 是照料植物，to 后的结构不同。",
+    "usage": "tended to do；tended the garden；tended to the plants。",
+    "contrast": "tended to do 后面是动词原形，常说倾向；tended to the garden 里 the garden 是名词，常说照看。不能只看到 to 就认定同一种意思。",
+    "examples": [
+      [
+        "He tended to arrive early.",
+        "他过去往往来得很早。"
+      ],
+      [
+        "She tended the garden every morning.",
+        "她每天早晨打理花园。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tended#English",
+      "https://www.etymonline.com/word/tend"
+    ]
+  },
+  {
+    "word": "threatens",
+    "ipa": "英、美 /ˈθretənz/",
+    "meaning": "威胁；有……危险；扬言要〔第三人称单数〕",
+    "sense": "让人面临损失、伤害的可能，是 threatens。可以是有人说要做坏事，也可以是风暴、变化本身带来危险。",
+    "split": "threaten + -s → threatens，/n/ 后读 /z/。threaten 承古英语 þreatnian，与 threat 威胁词族相关；现代可用 threat + -en 动词对应来学习。",
+    "history": [
+      [
+        "古英语 threat 的相关威胁动词 → threaten",
+        "通过言语、行动给出不利后果的压力"
+      ],
+      [
+        "threaten + -s → threatens",
+        "现代人的威吓与处境造成危险等义并存"
+      ]
+    ],
+    "explanation": "threatens a project 是危及项目；threatens to leave 是扬言离开；rain threatens to stop the match 是雨势可能迫使比赛停止。",
+    "usage": "threatens to；threatens the future of；threatens the project。",
+    "contrast": "threatens 的主语可以是人，也可以是危险处境。A storm threatens the festival 是风暴可能影响活动；人作主语时又常有威吓、扬言的用法。",
+    "examples": [
+      [
+        "The storm threatens to delay the outdoor concert.",
+        "风暴可能导致露天音乐会延期。"
+      ],
+      [
+        "In the story, the landlord threatens to close the theatre.",
+        "故事里，房东扬言要关闭剧院。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/threatens#English",
+      "https://www.etymonline.com/word/threaten"
+    ]
+  },
+  {
+    "word": "villagers",
+    "ipa": "英 /ˈvɪlɪdʒəz/；美 /ˈvɪlɪdʒɚz/",
+    "meaning": "村民〔复数〕",
+    "sense": "住在同一个村子里的人，是 villagers。名字从居住地直接走到住在那里的人。",
+    "split": "village 去末尾 e，加完整 -er → villager，再加 -s。village 经法语接拉丁 villa 农庄、居所的词族；现代 -er 表相关的人。",
+    "history": [
+      [
+        "拉丁 villa 农庄、居所 → 法语、英语 village",
+        "居所与村落名称的发展"
+      ],
+      [
+        "village + -er → villager → villagers",
+        "村落名称变成居民名称，再加复数"
+      ]
+    ],
+    "explanation": "local villagers 是当地村民；the villagers gathered 是村民聚集；villagers from nearby settlements 是附近聚居点的村民。",
+    "usage": "local villagers；the villagers gathered；villagers’ homes。",
+    "contrast": "villagers 是居民，不是村落本身。villages 是村庄，villagers 是住在村庄里的人；多出的 -er 承担这个区别。",
+    "examples": [
+      [
+        "The villagers gathered in the square.",
+        "村民们聚集在广场上。"
+      ],
+      [
+        "Local villagers helped restore the old bridge.",
+        "当地村民帮助修复了旧桥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/villagers#English",
+      "https://www.etymonline.com/word/villager"
+    ]
+  },
+  {
+    "word": "waving",
+    "ipa": "英、美 /ˈweɪvɪŋ/",
+    "meaning": "挥动；挥手；飘动〔分词、动名词〕",
+    "sense": "手、旗帜来回摇动，是 waving。用挥手指引别人过来、离开、走过去，也能用这个动作表达。",
+    "split": "wave 去末尾 e，加完整 -ing → waving。wave 动词承古英语 wafian 摆动、起伏，经中古英语 waven 发展；挥手示意是后来的具体用法。",
+    "history": [
+      [
+        "古英语 wafian 摆动、起伏 → 英语 wave",
+        "上下或左右来回运动"
+      ],
+      [
+        "wave 的挥动、招手示意义 + -ing → waving",
+        "现代既可自己摆动，也可挥动手里的东西"
+      ]
+    ],
+    "explanation": "waving goodbye 是挥手告别；waving a flag 是挥旗；waving someone over 是招手让某人过来。",
+    "usage": "waving goodbye；waving a flag；waving someone over。",
+    "contrast": "waving 是 wave 的动作形式；waiving 是另一个词 waive 放弃、免除的形式。waving a fee 不能代替 waiving a fee 免除费用。",
+    "examples": [
+      [
+        "The children stood at the window, waving goodbye.",
+        "孩子们站在窗边挥手告别。"
+      ],
+      [
+        "Someone was waving a small flag near the entrance.",
+        "有人正在入口附近挥舞一面小旗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waving#English",
+      "https://www.etymonline.com/word/wave"
+    ]
+  },
+  {
+    "word": "accusing",
+    "ipa": "英、美 /əˈkjuːzɪŋ/",
+    "meaning": "指责；指控；带责备意味的〔分词、形容词〕",
+    "sense": "把某件错事归到某个人身上，说是他做的，是 accusing；一个眼神也可能让人感觉“你是在怪我”，于是有 accusing look。",
+    "split": "accuse 去末尾 e，加完整 -ing → accusing。经法语 acuser 或拉丁 accusare 追问、责怪、起诉，远连 ad 与 causa 案件、原因的材料。",
+    "history": [
+      [
+        "拉丁 accusare 追究、指控 → 法语、英语 accuse",
+        "把错误、过失指向某人"
+      ],
+      [
+        "accuse + -ing → accusing",
+        "现代指控动作，也可修饰责备的语气、眼神"
+      ]
+    ],
+    "explanation": "accusing someone of something 是指责某人做了某事；an accusing look 是责备的眼神；an accusing tone 是责备的语气。",
+    "usage": "accusing someone of；an accusing look；an accusing tone。",
+    "contrast": "accusing 表示有人提出指责，不自动证明指责成立。accuse someone of doing 是常见搭配，要把 of 与后面的动作一起记。",
+    "examples": [
+      [
+        "The character is accusing his friend of hiding the letter.",
+        "那个人物正在指责朋友藏了信。"
+      ],
+      [
+        "She gave him an accusing look.",
+        "她责备地看了他一眼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accusing#English",
+      "https://www.etymonline.com/word/accuse"
+    ]
+  },
+  {
+    "word": "aided",
+    "ipa": "英、美 /ˈeɪdɪd/",
+    "meaning": "帮助了；辅助的〔过去形式、修饰用法〕",
+    "sense": "原本做一件事有困难，另一个人、工具提供一份支持，是 aided。帮助可以只是让事情更容易一点，不必完全代替对方。",
+    "split": "aid + 完整 -ed → aided，/d/ 后读 /ɪd/。动词 aid 经法语 aidier 接拉丁 adiutare，远连 ad- 向与 iuvare 帮助、支持。",
+    "history": [
+      [
+        "拉丁 adiuvare、adiutare 帮助 → 法语 aidier → aid",
+        "向对象提供支持"
+      ],
+      [
+        "aid + -ed → aided",
+        "现代过去形式，也可出现在某工具辅助的修饰语中"
+      ]
+    ],
+    "explanation": "aided by a map 是借地图帮助；aided the project 是帮助了项目；computer-aided design 是计算机辅助设计这一固定表达。",
+    "usage": "aided by；aided the project；aided understanding。",
+    "contrast": "aided 是动词形式；aide 是助手这个人名词。The aide aided the team 里，一个是提供帮助的人，一个是提供帮助的动作。",
+    "examples": [
+      [
+        "The map aided our understanding of the route.",
+        "地图帮助我们理解了路线。"
+      ],
+      [
+        "The restoration was aided by old photographs.",
+        "修复工作得到了旧照片的帮助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aided#English",
+      "https://www.etymonline.com/word/aid"
+    ]
+  },
+  {
+    "word": "allocation",
+    "ipa": "英、美 /ˌæləˈkeɪʃən/",
+    "meaning": "分配；分配方案；划拨的份额〔名词〕",
+    "sense": "把钱、时间、空间安排到各自要用的地方，是 allocation。它既可以说安排这件事，也可以说分给某一方的份额。",
+    "split": "与 allocate、-ion 对照学习；历史上 allocation 借中世纪拉丁 allocatio，来自 ad- 向 + locare 放置，ad- 在 l 前同化。英语名词较早已出现，不能只把它写成较晚英语动词的现场派生。",
+    "history": [
+      [
+        "拉丁 locus 位置 → locare 放置 → allocare、allocatio",
+        "安置到指定地方、分配"
+      ],
+      [
+        "英语 allocation 的授权、分配等历史用法 → 现代分配与份额",
+        "与 allocate 同族，历史记录不按学习顺序倒排"
+      ]
+    ],
+    "explanation": "allocation of resources 是资源分配；time allocation 是时间分配；an allocation of space 是分配到的一份空间或空间安排。",
+    "usage": "allocation of resources；time allocation；an allocation of space。",
+    "contrast": "allocation 可以是一份安排，并不等于相关资源已经全部实际使用。分给项目的时间与项目真正花掉的时间可以不同。",
+    "examples": [
+      [
+        "The plan explains the allocation of space between the two groups.",
+        "方案说明了两个小组之间怎样分配空间。"
+      ],
+      [
+        "Each project received an allocation of working time.",
+        "每个项目都分到了一定的工作时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/allocation#English",
+      "https://www.etymonline.com/word/allocation",
+      "https://www.etymonline.com/word/allocate"
+    ]
+  },
+  {
+    "word": "antibiotics",
+    "ipa": "英 /ˌæntibaɪˈɒtɪks/；美 /ˌæntibaɪˈɑːtɪks/",
+    "meaning": "抗生素〔复数〕",
+    "sense": "针对细菌、能杀死细菌或抑制其繁殖的药物，常称 antibiotics。名字看上去像“反生命”，实际药物名称的范围要按现代用法理解。",
+    "split": "antibiotic 作药物名词，再加 -s → antibiotics，/k/ 后读 /s/。接法语 antibiotique 等，含 anti- 针对与 biotique 生命的，远接希腊 bios 生命。",
+    "history": [
+      [
+        "anti- 针对 + biotic 生命的材料 → antibiotic 形容词",
+        "科学词族较早讨论对微生物的作用"
+      ],
+      [
+        "形容词转为相应药物名词 → antibiotics",
+        "现代常用作抗生素这一类药物的名称"
+      ]
+    ],
+    "explanation": "the history of antibiotics 是抗生素史；different antibiotics 是不同抗生素；antibiotic resistance 是抗生素耐药性，其中 antibiotic 作修饰语。",
+    "usage": "the history of antibiotics；different antibiotics；research on antibiotics。",
+    "contrast": "不能把词根直译成针对一切生命或一切病原。现代常用的抗生素针对细菌，病毒感染并不是它们的作用对象。",
+    "examples": [
+      [
+        "The exhibit traces the history of antibiotics.",
+        "展览追溯了抗生素的历史。"
+      ],
+      [
+        "The article distinguishes antibiotics from antiviral medicines.",
+        "文章区分了抗生素和抗病毒药物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/antibiotics#English",
+      "https://www.etymonline.com/word/antibiotic",
+      "https://www.nhs.uk/medicines/antibiotics/"
+    ]
+  },
+  {
+    "word": "arrests",
+    "ipa": "英、美 /əˈrests/",
+    "meaning": "逮捕〔复数〕；逮捕、使停止、吸引住〔第三人称单数〕",
+    "sense": "让原本在行动的对象停住，是 arrest 的核心。依法拘留某人是一条常用分支；吸住人的注意力，也像让目光停在这里。",
+    "split": "arrest + -s → arrests，末尾 /sts/。经法语 arester 接俗拉丁停住的材料，含 ad- 与 restare 留下，后者是 re- 回与 stare 站。",
+    "history": [
+      [
+        "拉丁站住、留下的词族 → 法语 arester → arrest",
+        "停止、拘留的动作"
+      ],
+      [
+        "arrest 的逮捕名词与吸引注意等义 → arrests",
+        "现代名词复数与动词第三人称同形"
+      ]
+    ],
+    "explanation": "several arrests 是几次逮捕；arrests the character 是逮捕那个人物；arrests attention 是吸引住注意；arrests the movement 是阻止移动。",
+    "usage": "several arrests；arrests attention；arrests the movement。",
+    "contrast": "arrests 的逮捕义描述拘捕行为，不等于已经作出有罪裁判。arrests attention 则是词义引申，通常并不涉及执法。",
+    "examples": [
+      [
+        "The fictional report mentions several arrests.",
+        "那份虚构报告提到了几次逮捕。"
+      ],
+      [
+        "The vivid opening immediately arrests the reader’s attention.",
+        "生动的开头立刻吸引住读者的注意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/arrests#English",
+      "https://www.etymonline.com/word/arrest"
+    ]
+  },
+  {
+    "word": "assessing",
+    "ipa": "英、美 /əˈsesɪŋ/",
+    "meaning": "评估；评定〔分词、动名词〕",
+    "sense": "先看材料、情况，再判断价值、程度，是 assessing。可以评估一个方案、作品，也可以估算某项需要。",
+    "split": "assess + -ing → assessing，原词不改。经法语 assesser、中世纪拉丁 assessare 评定税额，远接 ad- 与 sedere 坐，assidere 是坐在旁边协助。",
+    "history": [
+      [
+        "坐在旁边协助裁判的词族 → 评定应缴金额的 assess",
+        "早期用途较具体，联系税额等"
+      ],
+      [
+        "评定金额 → 一般价值、情况的评估 → assessing",
+        "现代可用于许多非财务对象"
+      ]
+    ],
+    "explanation": "assessing a design 是评估设计；assessing the situation 是评估局势、情况；assessing progress 是评估进展。",
+    "usage": "assessing a design；assessing the situation；assessing progress。",
+    "contrast": "assessing 侧重作判断，measuring 常侧重测量具体数值。评估设计可能会用测量数据，但也包含功能、体验等判断。",
+    "examples": [
+      [
+        "The group is assessing three designs for the new hall.",
+        "小组正在评估新大厅的三个设计。"
+      ],
+      [
+        "The report focuses on assessing the project’s progress.",
+        "报告着重评估项目进展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assessing#English",
+      "https://www.etymonline.com/word/assess"
+    ]
+  },
+  {
+    "word": "budgets",
+    "ipa": "英、美 /ˈbʌdʒɪts/",
+    "meaning": "预算；经费计划、限额〔复数〕；安排预算〔第三人称单数〕",
+    "sense": "先想好有多少可用的钱、各项打算花多少，是 budget；不同项目、家庭各有一份计划，就可以数成 budgets。",
+    "split": "budget + -s → budgets，/t/ 后读 /s/。经古法语 bougette 小皮袋，远接拉丁 bulga 袋。财政计划装在袋里的历史用法，让袋名转到财务计划。",
+    "history": [
+      [
+        "拉丁 bulga 袋 → 法语 bougette 小皮袋 → budget",
+        "英语较早是袋子的名称"
+      ],
+      [
+        "装财政计划的袋子 → 财务计划 → budgets",
+        "现代也扩展到时间等资源的分配限额"
+      ]
+    ],
+    "explanation": "project budgets 是项目预算；small budgets 是有限经费；budgets time carefully 是仔细安排时间。",
+    "usage": "project budgets；small budgets；budgets time carefully。",
+    "contrast": "budgets 是计划、限额，不必等于已经花出去的金额。budgetary 是预算方面的形容词；这里把同词族放在一起对照。",
+    "examples": [
+      [
+        "The team compared the budgets for the three projects.",
+        "团队比较了三个项目的预算。"
+      ],
+      [
+        "She budgets her time carefully before an exhibition.",
+        "展览前，她仔细安排自己的时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/budgets#English",
+      "https://www.etymonline.com/word/budget"
+    ]
+  },
+  {
+    "word": "cartoons",
+    "ipa": "英 /kɑːˈtuːnz/；美 /kɑːrˈtuːnz/",
+    "meaning": "漫画；动画片；画作底稿〔复数〕",
+    "sense": "纸上画来逗趣、讽刺的漫画是 cartoons；让人物动起来的动画片也叫 cartoons。它的老意思却是画在厚纸上、用来制作另一件作品的底稿。",
+    "split": "cartoon + -s → cartoons，/n/ 后读 /z/。经法语 carton 或意大利语 cartone 厚纸、纸板，转称厚纸上的大型准备稿。",
+    "history": [
+      [
+        "意大利语、法语的厚纸名 → cartoon 艺术底稿",
+        "用材料名称称画在上面的准备稿"
+      ],
+      [
+        "报刊漫画义 → 动画片义 → cartoons",
+        "现代常用义扩大，艺术史语境仍可保留底稿义"
+      ]
+    ],
+    "explanation": "newspaper cartoons 是报纸漫画；animated cartoons 是动画片；cartoons for a mural 在艺术史中可指壁画底稿。",
+    "usage": "newspaper cartoons；animated cartoons；cartoons for children。",
+    "contrast": "cartoons 不全是给儿童看的，报刊讽刺画也属于这个词。艺术史中的底稿义则要看作品制作过程。",
+    "examples": [
+      [
+        "The newspaper publishes cartoons about everyday life.",
+        "这份报纸刊登关于日常生活的漫画。"
+      ],
+      [
+        "We watched old cartoons on a rainy afternoon.",
+        "一个下雨的下午，我们看了些老动画片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cartoons#English",
+      "https://www.etymonline.com/word/cartoon"
+    ]
+  },
+  {
+    "word": "commanders",
+    "ipa": "英 /kəˈmɑːndəz/；美 /kəˈmændɚz/",
+    "meaning": "指挥官；指挥者〔复数〕",
+    "sense": "负责发出指令、统筹队伍行动的人，是 commanders。常见于军队、舰船等场景，具体职衔依组织而定。",
+    "split": "commander + -s → commanders，-s 读 /z/。历史上 commander 经古法语 comandeor 指挥者进入；现代可对应 command 命令、指挥 + -er 人。",
+    "history": [
+      [
+        "法语 comander 命令 → comandeor 指挥者 → commander",
+        "人名词形随借入发生变化"
+      ],
+      [
+        "commander + -s → commanders",
+        "现代复数，指担任相应指挥职责的人"
+      ]
+    ],
+    "explanation": "military commanders 是军事指挥官；ship commanders 是舰船指挥官；the commanders in a story 是故事里的指挥者。",
+    "usage": "military commanders；ship commanders；the commanders’ meeting。",
+    "contrast": "commanders 关注指挥权限，不能泛化成任何公司的普通主管。commander 在某些机构中还可能是具体职衔，需看场景。",
+    "examples": [
+      [
+        "The novel follows two commanders with different leadership styles.",
+        "小说讲述了两位领导风格不同的指挥官。"
+      ],
+      [
+        "The museum displays letters written by former ship commanders.",
+        "博物馆展出了几位昔日舰船指挥官写的信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commanders#English",
+      "https://www.etymonline.com/word/commander"
+    ]
+  },
+  {
+    "word": "considerations",
+    "ipa": "英 /kənˌsɪdəˈreɪʃənz/；美 /kənˌsɪdəˈreɪʃənz/",
+    "meaning": "考虑因素；需要顾及的事情〔复数〕",
+    "sense": "作决定时，要把时间、空间、花费等一项项摆到心里，这些需要顾及的方面，就是 considerations。",
+    "split": "consideration + -s → considerations。经法语 consideracion 或拉丁 consideratio 仔细观察、思量，来自 considerare 细看、考虑。",
+    "history": [
+      [
+        "拉丁 considerare 仔细看、思量 → consideratio → consideration",
+        "从注视、放在心里到慎重考虑"
+      ],
+      [
+        "考虑这一活动 → 应当考虑的事物 → considerations",
+        "现代复数常列出决定中的多个因素"
+      ]
+    ],
+    "explanation": "practical considerations 是实际因素；cost considerations 是费用方面的考虑；several considerations 是几个需要顾及的方面。",
+    "usage": "practical considerations；cost considerations；take these considerations into account。",
+    "contrast": "consideration 还可说体谅、考虑过程，常作为整体。considerations 的常见复数则更像把考虑清单上的一项项内容列出来。",
+    "examples": [
+      [
+        "Practical considerations influenced the final design.",
+        "实际因素影响了最终设计。"
+      ],
+      [
+        "The choice depends on several considerations, including space and cost.",
+        "选择取决于几个因素，包括空间和费用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/considerations#English",
+      "https://www.etymonline.com/word/consideration"
+    ]
+  },
+  {
+    "word": "consultants",
+    "ipa": "英、美 /kənˈsʌltənts/",
+    "meaning": "顾问；咨询人员〔复数〕",
+    "sense": "遇到一个专业问题，请能给出相关意见的人帮助判断，这些人就是 consultants。名字围绕 consult，商议、咨询。",
+    "split": "consult + -ant 人 → consultant，再加 -s → consultants，末尾 /nts/。这个人名词早期还可指求问者，后来常说提供专业意见的人。",
+    "history": [
+      [
+        "consult 咨询、商议 + -ant → consultant",
+        "早期角色还可落在求询的一方"
+      ],
+      [
+        "提供专业意见的角色义增强 → consultants",
+        "现代常见于设计、工程、管理等领域"
+      ]
+    ],
+    "explanation": "design consultants 是设计顾问；independent consultants 是独立顾问；consultants on a project 是项目顾问。",
+    "usage": "design consultants；independent consultants；consultants on the project。",
+    "contrast": "consultants 是人，consultations 是咨询、会诊等活动，consultancy 可以是咨询业务、机构。看清词尾，先分角色还是活动。",
+    "examples": [
+      [
+        "The museum invited two design consultants to review the plans.",
+        "博物馆请了两位设计顾问审阅方案。"
+      ],
+      [
+        "The consultants explained their recommendations to the team.",
+        "顾问们向团队解释了各自的建议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consultants#English",
+      "https://www.etymonline.com/word/consultant"
+    ]
+  },
+  {
+    "word": "contributes",
+    "ipa": "英 /kənˈtrɪbjuːts/；美 /kənˈtrɪbjuːts/、/ˈkɑːntrɪbjuːts/",
+    "meaning": "贡献；提供；投稿；促成〔第三人称单数〕",
+    "sense": "大家往同一件事里各放一份，你提供的那一份就是 contribution；说某人这样提供，便是 contributes。钱、时间、文章、一个影响因素都可以算一份。",
+    "split": "contribute 保留末尾 e，加 -s → contributes，末尾 /ts/。拉丁 con- 一起 + tribuere 分配、支付 → contribuere 汇集、共同交付，经 contributus 等材料形成英语 contribute。",
+    "history": [
+      [
+        "拉丁 contribuere 一起交付、汇集 → contribute",
+        "把自己的一份加到共同事物里"
+      ],
+      [
+        "contribute + -s → contributes",
+        "现代贡献、投稿，也说一个因素帮助促成结果"
+      ]
+    ],
+    "explanation": "contributes time 是投入时间；contributes to a magazine 是给杂志供稿；contributes to success 是有助于成功。",
+    "usage": "contributes time；contributes to a magazine；contributes to the result。",
+    "contrast": "contributes to 不保证是唯一原因，也不保证结果是好事；它说明这个因素起了一份作用。投稿义则看后面是否是报刊等。",
+    "examples": [
+      [
+        "She contributes short essays to the magazine.",
+        "她为这本杂志撰写短文。"
+      ],
+      [
+        "Good lighting contributes to the room’s welcoming atmosphere.",
+        "良好的照明有助于营造房间亲切的氛围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contributes#English",
+      "https://www.etymonline.com/word/contribute"
+    ]
+  },
+  {
+    "word": "descended",
+    "ipa": "英、美 /dɪˈsendɪd/",
+    "meaning": "下来了；下降了；源出、是……的后裔〔过去形式〕",
+    "sense": "从高处走到低处，是 descended；沿家谱从上一代往下一代看，某个人就可以说 descended from 某位祖先。",
+    "split": "descend + 完整 -ed → descended，/d/ 后读 /ɪd/。拉丁 de- 向下 + scandere 爬 → descendere，经法语 descendre 接英语。",
+    "history": [
+      [
+        "拉丁 descendere 下来 → 法语 descendre → descend",
+        "较早是高处到低处的运动"
+      ],
+      [
+        "源出、降临等引申义 + -ed → descended",
+        "现代过去形式，也常用于祖先、来源关系"
+      ]
+    ],
+    "explanation": "descended the stairs 是下楼梯；descended from 是源于、是……的后裔；silence descended 是一片寂静降临。",
+    "usage": "descended the stairs；descended from；silence descended。",
+    "contrast": "descended from 在家族语境说祖先关系，不是身体位置。descended on a place 还可说一大群人突然来到，要看介词。",
+    "examples": [
+      [
+        "The visitors descended the narrow stairs.",
+        "来访者沿狭窄楼梯走下去。"
+      ],
+      [
+        "The family was descended from a local craftsman.",
+        "这个家族是一位本地工匠的后裔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/descended#English",
+      "https://www.etymonline.com/word/descend"
+    ]
+  },
+  {
+    "word": "drowned",
+    "ipa": "英、美 /draʊnd/",
+    "meaning": "淹死、溺亡；淹没；盖过声音〔过去形式〕",
+    "sense": "被水吞没，是 drowned 的字面意思；声音被更大的声音盖住，也像被水淹下去了。",
+    "split": "drown + 完整 -ed → drowned，/n/ 后读 /d/。drown 接中古英语溺水动词，近源有古英语 druncnian、古北欧 drukna 等不同分析，远处通常联系 drink 词族。",
+    "history": [
+      [
+        "中古英语 drounen 等 → drown",
+        "具体近源路径有不同分析，不当现代 drink 的规则变化"
+      ],
+      [
+        "drown + -ed → drowned",
+        "现代过去形式，字面溺亡与淹没声音等义并存"
+      ]
+    ],
+    "explanation": "drowned in the sea 是在海里溺亡；drowned out by noise 是被噪声盖过；drowned in paperwork 是被文书工作淹没的比喻。",
+    "usage": "drowned in；drowned out；drowned out by noise。",
+    "contrast": "drowned out 常用于声音：目标声音没有消失，只是大声响让人听不清了。字面 drowned 则可能是在叙述溺亡。",
+    "examples": [
+      [
+        "Our conversation was drowned out by the traffic.",
+        "我们的交谈声被车流声盖过了。"
+      ],
+      [
+        "The novel begins with news that a sailor has drowned.",
+        "小说以一名水手溺亡的消息开场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drowned#English",
+      "https://www.etymonline.com/word/drown"
+    ]
+  },
+  {
+    "word": "enclosed",
+    "ipa": "英 /ɪnˈkləʊzd/；美 /ɪnˈkloʊzd/",
+    "meaning": "围住了；封闭的；装入、随信附上的〔过去形式、形容词〕",
+    "sense": "外面加一圈边界，把东西放在里面，是 enclosed。花园被墙围住，信封里放入一份照片，都有“收在里面”的关系。",
+    "split": "enclose 去末尾 e，加完整 -ed → enclosed，/z/ 后读 /d/。对应 en- 内 + close 关闭，也部分接法语 enclos 围住的分词材料。",
+    "history": [
+      [
+        "英语 en- + close，并有法语 enclos 等影响 → enclose",
+        "较早常说用墙、栅栏把土地、建筑围起来"
+      ],
+      [
+        "随信装入文件等义 + -ed → enclosed",
+        "现代围住、封闭与附上材料等用法"
+      ]
+    ],
+    "explanation": "an enclosed garden 是围起来的花园；an enclosed space 是封闭空间；the enclosed photograph 是随信附上的照片。",
+    "usage": "an enclosed garden；an enclosed space；the enclosed photograph。",
+    "contrast": "enclosed 在书信里常说放在信封、包裹里的材料；电子邮件附件更常用 attached。两者都说明附有内容，但媒介习惯不同。",
+    "examples": [
+      [
+        "A high wall enclosed the garden.",
+        "一堵高墙围住了花园。"
+      ],
+      [
+        "She enclosed a photograph with the letter.",
+        "她随信附上了一张照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enclosed#English",
+      "https://www.etymonline.com/word/enclose"
+    ]
+  },
+  {
+    "word": "equals",
+    "ipa": "英、美 /ˈiːkwəlz/",
+    "meaning": "等于；比得上〔第三人称单数〕；地位、能力相当者〔复数〕",
+    "sense": "把两边放到同一水平，是 equal 的画面。数学里说结果相等，用 equals；人和人被作为同等者相待，也可以说 as equals。",
+    "split": "equal + -s → equals，/l/ 后读 /z/。equal 接拉丁 aequalis 相等的，来自 aequus 平、等；英语形容词后来转成同等者名词和等于的动词。",
+    "history": [
+      [
+        "拉丁 aequus 平、相等 → aequalis → equal 形容词",
+        "在数量、水平等方面相等"
+      ],
+      [
+        "equal 转作同等者名词、等于动词 → equals",
+        "现代复数与第三人称同形"
+      ]
+    ],
+    "explanation": "two plus three equals five 是二加三等于五；treat people as equals 是把人作为平等者相待；has few equals 是少有人能相比。",
+    "usage": "equals five；treat them as equals；has few equals。",
+    "contrast": "equal opportunities 里的 equal 是形容词，不加 s；as equals 里的 equals 是名词复数，表示作为同等的一方。",
+    "examples": [
+      [
+        "Two plus three equals five.",
+        "二加三等于五。"
+      ],
+      [
+        "The characters learn to treat each other as equals.",
+        "这些人物学会了平等相待。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/equals#English",
+      "https://www.etymonline.com/word/equal"
+    ]
+  },
+  {
+    "word": "exchanged",
+    "ipa": "英、美 /ɪksˈtʃeɪndʒd/",
+    "meaning": "交换了；互相传递了〔过去形式〕",
+    "sense": "你给我一份，我给你一份，是 exchanged。可以换物品，也可以互相说几句话、交换一个微笑。",
+    "split": "exchange 去末尾 e，加完整 -ed → exchanged，/dʒ/ 后读 /d/。经法语 eschangier 等接拉丁 ex- 与 cambire 交换的词族。",
+    "history": [
+      [
+        "拉丁交换词族 → 法语 eschangier → 英语 exchange",
+        "较早用于以相应之物交换"
+      ],
+      [
+        "互相给出、收到的范围扩大；加 -ed → exchanged",
+        "现代物品、信息、眼神、微笑等都可以作为对象"
+      ]
+    ],
+    "explanation": "exchanged addresses 是交换地址；exchanged ideas 是交流想法；exchanged smiles 是相视一笑；exchanged A for B 是以 A 换 B。",
+    "usage": "exchanged addresses；exchanged ideas；exchanged smiles。",
+    "contrast": "exchanged 常包含双向关系；gave 可以只说单方面给出。exchanged ideas 强调彼此交流，不只是一方作单向说明。",
+    "examples": [
+      [
+        "We exchanged addresses before leaving.",
+        "离开前，我们交换了地址。"
+      ],
+      [
+        "The two friends exchanged a smile.",
+        "两位朋友相视一笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exchanged#English",
+      "https://www.etymonline.com/word/exchange"
+    ]
+  }
+]

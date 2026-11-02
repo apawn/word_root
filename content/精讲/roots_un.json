@@ -5,7 +5,7 @@
     "core": "UN / UNI = ONE",
     "image": "数一个 → 几个合成一体 → 全体形成共同范围",
     "intro": "**这里的 un-/uni- 来自拉丁语 ūnus“一”。** 它既能直接数东西，比如 unicycle 只有一个轮子，也能说多个部分合成一个整体，比如 unite、union。再把一切事物当作整体看，便来到 universe；把所有人的心意当成一个，便来到 unanimous。每次都先问：“这个词里的‘一’，究竟在数什么？”",
-    "forms": "**它与 unhappy、undo 中的 un- 不是同一条来源。** 本族常见 uni-，但经历借词和拼写变化，也会出现 unique、onion 等形态。不能只看开头字母就归族。union、unity、uniformity、unanimity 等名词各有借入历史，不能一律画成今天的英语动词或形容词再加后缀。",
+    "forms": "**它与 unhappy、undo 中的 un- 不是同一条来源。** 本族常见 uni-，但经历借词和拼写变化，也会出现 unique、onion 等形态。不能只看开头字母就归族。union、unity、uniformity、unanimity 等名词各有借入历史，不能一律画成今天的英语动词或形容词再加后缀。\n\nunit 经 unity 的英语词形调整形成，复数可说单位、单元。\n\n拉丁整体、团体的词经法语进入高等教育语境。\n\n晚期拉丁 unio 经法语到英语，与一的材料同族，不是英语 unite 先造再硬换尾。\n\n拉丁 uni 加 forma，名词数整套标准式服装。\n\n法语、晚期拉丁的使成一体材料，现代 y 改 i 加完整 ed。\n\n法语 oignon 接拉丁 unio，通常联系 unus 一；具体命名缘由不硬编唯一解释。\n\n这里与 onion 比较葱蒜类食物，不接拉丁 unus 一。garlic 承古英语 gar 矛 + leac 葱蒜类植物的旧组合，不能把 -lic 当现代通用后缀。\n\nreunite 接中世纪拉丁 reunire 再合为一，现代去 e 加完整 -ed，/t/ 后读 /ɪd/。分开的人重聚、分散事物重新结合都可。",
     "branches": [
       [
         "只有一个",
@@ -30,6 +30,38 @@
       [
         "专业领域里的“一”",
         "unary · unicellular · unilateral · unipolar"
+      ],
+      [
+        "unity／unit → units：当成一个整体来数",
+        "unit · units"
+      ],
+      [
+        "university → universities：共同体到大学",
+        "university · universities"
+      ],
+      [
+        "union → unions：结合而成的组织",
+        "unite · union · unions"
+      ],
+      [
+        "uniform → uniforms：同样形式到制服",
+        "uniform · uniforms"
+      ],
+      [
+        "unify → unified：合成一个整体",
+        "unify · unified"
+      ],
+      [
+        "onion → onions：一的拉丁材料与洋葱名",
+        "onion · onions"
+      ],
+      [
+        "garlic：另源的蒜，与 onion 比较",
+        "garlic"
+      ],
+      [
+        "re- 再 + un- 一 → reunited",
+        "reunited"
       ]
     ],
     "contrasts": "**unity / uniformity / unanimity**：unity 是团结、整体协调；uniformity 是各部分同样、均匀；unanimity 是相关所有人意见一致。一个团队可以团结，却不穿同样衣服，也不在所有问题上全票一致。\n\n**unite / unify / unit**：unite 常说把人和力量联合；unify 常说把制度、标准整理成整体；unit 是被看作一个整体的单位。unit 的历史经 unity 发展，不是随手把动词 unite 去掉 e。\n\n**universe / university**：共同远源是“整体”。universe 是一切事物；university 的大学义经过“教师和学生组成的共同体”，并不是“宇宙知识学校”的字面拼装。\n\n**reunion / reunification**：reunion 可以是一场短暂重逢；reunification 通常意味着重新组成或恢复一个整体。\n\n**union / onion**：现代意思分别是联合与洋葱，首音分别 /juː/ 与 /ʌ/。onion 的老名称通常联系到鳞茎合成一个整体的形态，不是英语 on + ion。\n\n**unionized / un-ionized**：前者在劳动话题里是“由工会组织起来”，读 /ˈjuːnjənaɪzd/；后者是“未电离的”，读 /ʌnˈaɪənaɪzd/。化学词有时也连写，因此必须结合领域辨认。\n\n**unary / unate**：前者数输入、操作数有几个；后者在逻辑中看每个变量的影响是否保持一个方向。unate 的图解说明专业概念，不补造没有依据的古代传递链。",
@@ -95,7 +127,15 @@
       "unit",
       "unitary",
       "universality",
-      "universalize"
+      "universalize",
+      "units",
+      "universities",
+      "unions",
+      "uniforms",
+      "unified",
+      "onions",
+      "garlic",
+      "reunited"
     ]
   }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "B2548",
+    "meaning": "地面、底部；场地；基础、根据",
+    "core": "GROUND：脚下能站稳，观点也需要站得住",
+    "image": "地面支持身体，基础支持计划，根据支持结论。各种场地和位置复合词继续看另一部分说明了什么。",
+    "intro": "ground 接古英语 grund。ground coffee、coffee grounds 的 ground 另按 grind 研磨的过去分词分支理解，不硬从土地来推。",
+    "forms": "ground → grounded、grounding、groundless、groundbreaking；under/overground；background ↔ foreground；场地组 playground、battleground、campground、fairground、showground；aground、groundswell；groundhog、groundnut。\n\n地面、基础可扩为场地、根据；咖啡渣义常另联系 grind 的 ground 形式，不把它硬说成地面。\n\n从舞台、画面后部位置到背景情况、个人经历等比喻义，现代给整个复合名词加 -s。背景不同说 different backgrounds。",
+    "branches": [
+      [
+        "基础、根据与创新",
+        "ground · grounded · grounding · groundless · groundwork · groundbreaking"
+      ],
+      [
+        "位置与画面",
+        "underground · overground · groundwater · background · foreground"
+      ],
+      [
+        "各种场地",
+        "playground · battleground · campground · fairground · showground"
+      ],
+      [
+        "搁浅、民意与名称",
+        "aground · groundswell · groundhog · groundnut"
+      ],
+      [
+        "ground → grounds：场地与理由；沉渣另辨",
+        "ground · grounds"
+      ],
+      [
+        "back + ground → background → backgrounds",
+        "backgrounds"
+      ]
+    ],
+    "contrasts": "groundless 无根据，grounded in evidence 以证据为基础；groundnut 花生与 ground nuts 磨碎坚果分开；underground 不自动等于违法。",
+    "practice": "A solid grounding in the subject helps us distinguish grounded arguments from groundless claims.\n\n扎实的学科基础，有助于我们分清有依据的论证和无根据的说法。",
+    "words": [
+      "ground",
+      "grounded",
+      "grounding",
+      "groundless",
+      "groundwork",
+      "groundbreaking",
+      "underground",
+      "overground",
+      "groundwater",
+      "background",
+      "foreground",
+      "playground",
+      "battleground",
+      "campground",
+      "fairground",
+      "showground",
+      "aground",
+      "groundswell",
+      "groundhog",
+      "groundnut",
+      "grounds",
+      "backgrounds"
+    ],
+    "exclude": {
+      "sea-ground": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deep-grounded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

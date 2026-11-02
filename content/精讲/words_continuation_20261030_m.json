@@ -1,0 +1,433 @@
+[
+  {
+    "word": "craze",
+    "ipa": "/kreɪz/",
+    "meaning": "一时狂热、风潮；使表面产生细裂纹",
+    "sense": "一大群人突然迷上同一件东西，一阵热劲席卷而来；陶器语境则是釉面出现细细裂纹。",
+    "split": "接中古英语 crasen 打碎、弄裂，更早的日耳曼来源和借入路径有讨论。心智失常、狂热义是后来的延伸，名词热潮义通常最实用。",
+    "history": [
+      [
+        "中古英语 crasen",
+        "打碎、弄裂；更早可能日耳曼来源，借入路径有讨论"
+      ],
+      [
+        "craze 与 crazy",
+        "破损、失常 → 失去常态；强烈热衷、流行热潮"
+      ]
+    ],
+    "explanation": "the latest craze 最新风潮，a craze for something 对某物的狂热。陶瓷专业语境 craze/crazing 保留裂纹义。",
+    "usage": "the latest craze；a craze for fitness；a passing craze。",
+    "contrast": "craze 比 trend 趋势更突出一阵强烈追捧，常带暂时性；craze 是名词风潮，crazy 是形容词。",
+    "examples": [
+      [
+        "The new toy became the latest craze at school.",
+        "这种新玩具成了学校里最新的风潮。"
+      ],
+      [
+        "The glaze had crazed into a network of fine cracks.",
+        "釉面裂成了细密的裂纹网。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/craze#English"
+    ]
+  },
+  {
+    "word": "crazy",
+    "ipa": "/ˈkreɪzi/",
+    "meaning": "疯狂的；荒唐的；着迷的；惊人的〔口语〕",
+    "sense": "事情超出平常范围，可能是太离谱，也可能是太兴奋、太喜欢；要听整句话的语气。",
+    "split": "craze + -y，早有破损、虚弱等义，后来用来形容失常，再扩展出狂热、惊人等口语义。历史画面不能当作对人的医学解释。",
+    "history": [
+      [
+        "中古英语 crasen",
+        "打碎、弄裂；更早可能日耳曼来源，借入路径有讨论"
+      ],
+      [
+        "craze 与 crazy",
+        "破损、失常 → 失去常态；强烈热衷、流行热潮"
+      ],
+      [
+        "craze + -y → crazy",
+        "破损、失常 → 荒唐、狂热、惊人"
+      ]
+    ],
+    "explanation": "be crazy about music 对音乐着迷，drive someone crazy 让某人烦透或受不了，like crazy 拼命地。a crazy idea 可说荒唐点子，也可能是大胆点子。",
+    "usage": "crazy about；drive someone crazy；like crazy；a crazy idea。",
+    "contrast": "crazy about 通常是喜爱，crazy to do 常评价做某事不理智。用 crazy 评价人可能冒犯；日常更稳妥地讲具体行为。",
+    "examples": [
+      [
+        "She is crazy about old films.",
+        "她特别迷老电影。"
+      ],
+      [
+        "The constant noise is driving me crazy.",
+        "这持续的噪声快让我受不了了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/crazy",
+      "https://en.wiktionary.org/wiki/crazy#English"
+    ]
+  },
+  {
+    "word": "crazed",
+    "ipa": "/kreɪzd/",
+    "meaning": "失去理智的；狂热的；布满细裂纹的",
+    "sense": "被某种情绪推到失常的地步；形容瓷器时则真的是表面裂出细纹。",
+    "split": "craze + -ed，保留动词造成的结果；形容人和形容材料连接的是不同的既有义项。",
+    "history": [
+      [
+        "中古英语 crasen",
+        "打碎、弄裂；更早可能日耳曼来源，借入路径有讨论"
+      ],
+      [
+        "craze 与 crazy",
+        "破损、失常 → 失去常态；强烈热衷、流行热潮"
+      ],
+      [
+        "craze + -ed → crazed",
+        "失常、狂热的结果；表面裂纹状态"
+      ]
+    ],
+    "explanation": "a crazed expression 狂乱神情，crazed porcelain 釉面开裂的瓷器。语气通常比普通 excited 强得多。",
+    "usage": "a crazed expression；a crazed look；crazed porcelain。",
+    "contrast": "crazy 可轻松夸一句惊人，crazed 常强调狂乱、失控；crazed pottery 与情绪无关。",
+    "examples": [
+      [
+        "He gave a crazed laugh and ran out of the room.",
+        "他狂乱地笑了一声，跑出了房间。"
+      ],
+      [
+        "Fine lines covered the crazed surface of the old bowl.",
+        "旧碗开裂的表面布满了细纹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crazed#English"
+    ]
+  },
+  {
+    "word": "craziness",
+    "ipa": "/ˈkreɪzinəs/",
+    "meaning": "疯狂、荒唐；混乱热闹的状况",
+    "sense": "把 crazy 那种离谱、失控或乱成一团的状态，作为一件事来谈。",
+    "split": "crazy + -ness，y 改 i，-ness 把性质变成状态名词。旧义包括破损，今天日常常说荒唐或混乱。",
+    "history": [
+      [
+        "中古英语 crasen",
+        "打碎、弄裂；更早可能日耳曼来源，借入路径有讨论"
+      ],
+      [
+        "craze 与 crazy",
+        "破损、失常 → 失去常态；强烈热衷、流行热潮"
+      ],
+      [
+        "crazy + -ness → craziness",
+        "疯狂、荒唐或混乱的状态"
+      ]
+    ],
+    "explanation": "the craziness of the plan 方案的荒唐，the craziness of the holiday season 节日期间忙乱的状况。",
+    "usage": "the craziness of life；escape the craziness；the craziness of the idea。",
+    "contrast": "craziness 多为口语评价，不能只凭它判断疾病；chaos 混乱更直接说秩序状态。",
+    "examples": [
+      [
+        "We needed a quiet weekend away from all the craziness.",
+        "我们需要一个远离各种忙乱的安静周末。"
+      ],
+      [
+        "She laughed at the craziness of the idea.",
+        "她笑这个想法太离谱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/craziness#English"
+    ]
+  },
+  {
+    "word": "crazily",
+    "ipa": "/ˈkreɪzɪli/",
+    "meaning": "疯狂地；失常地；极其〔口语〕",
+    "sense": "动作、变化像失去平常节奏，或者只是把程度说得特别强。",
+    "split": "crazy + -ly，y 改 i 再接 -ly。副词形容做事方式或程度，与状态名词 craziness 分开。",
+    "history": [
+      [
+        "中古英语 crasen",
+        "打碎、弄裂；更早可能日耳曼来源，借入路径有讨论"
+      ],
+      [
+        "craze 与 crazy",
+        "破损、失常 → 失去常态；强烈热衷、流行热潮"
+      ],
+      [
+        "crazy + -ly → crazily",
+        "以疯狂、失常的方式；极其"
+      ]
+    ],
+    "explanation": "laugh crazily 狂笑，spin crazily 疯狂旋转，crazily expensive 贵得离谱。口语修饰程度时不一定真有失控。",
+    "usage": "spin crazily；laugh crazily；crazily expensive。",
+    "contrast": "crazy 修饰人或事的性质；crazily 修饰动作或形容词。a crazy price 与 crazily expensive 对应两种结构。",
+    "examples": [
+      [
+        "The loose wheel spun crazily.",
+        "松脱的轮子疯狂旋转。"
+      ],
+      [
+        "Hotels were crazily expensive that weekend.",
+        "那个周末旅馆贵得离谱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crazily#English"
+    ]
+  },
+  {
+    "word": "awe",
+    "ipa": "英 /ɔː/；美 /ɔː/ 或 /ɑː/",
+    "meaning": "敬畏；惊叹；使震撼",
+    "sense": "站在巨大瀑布、满天星河前，一时说不出话：既惊叹，又觉得自己很渺小。",
+    "split": "中古英语接斯堪的纳维亚来源，如古诺尔斯语 agi 惧怕；后来敬意、惊叹更突出。词尾 e 不发音。",
+    "history": [
+      [
+        "古诺尔斯语 agi → 中古英语 awe",
+        "惧怕、敬畏，与本族相关旧词汇合"
+      ],
+      [
+        "英语 awe",
+        "面对强大、壮观之物的敬畏与惊叹"
+      ]
+    ],
+    "explanation": "in awe 敬畏、惊叹地，in awe of someone 对某人深感敬佩；作动词 be awed by 被震撼。",
+    "usage": "in awe；in awe of；stand in awe；be awed by。",
+    "contrast": "awe 不是单纯 fear 害怕，也不是随口的 like 喜欢，通常有被力量、规模或才华震住的感觉。",
+    "examples": [
+      [
+        "We stood in awe beneath the enormous night sky.",
+        "在广阔的夜空下，我们满怀惊叹地站着。"
+      ],
+      [
+        "Her skill left the audience in awe.",
+        "她的技艺让观众惊叹不已。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/awe",
+      "https://en.wiktionary.org/wiki/awe#English"
+    ]
+  },
+  {
+    "word": "awesome",
+    "ipa": "英 /ˈɔːsəm/；美 /ˈɔːsəm/ 或 /ˈɑːsəm/",
+    "meaning": "令人敬畏、惊叹的；棒极了的〔口语〕",
+    "sense": "本来是强到让你震住，后来口语把这股惊叹用成一句“太棒了”。",
+    "split": "awe + -some，-some 表引起这种感受或带有这种性质。早期敬畏义仍在，口语夸赞义后来普及。",
+    "history": [
+      [
+        "古诺尔斯语 agi → 中古英语 awe",
+        "惧怕、敬畏，与本族相关旧词汇合"
+      ],
+      [
+        "英语 awe",
+        "面对强大、壮观之物的敬畏与惊叹"
+      ],
+      [
+        "awe + -some → awesome",
+        "令人敬畏 → 令人赞叹、棒极了"
+      ]
+    ],
+    "explanation": "awesome power 令人敬畏的力量，an awesome view 壮观景色，That’s awesome! 太棒了。口语褒义不能盖过所有正式语境。",
+    "usage": "awesome power；an awesome view；That’s awesome!。",
+    "contrast": "awesome 今日常夸好，awful 常说糟糕；同出 awe，却经历不同方向的语义变化，不能只按后缀猜褒贬。",
+    "examples": [
+      [
+        "The storm showed the awesome power of nature.",
+        "风暴展现了大自然令人敬畏的力量。"
+      ],
+      [
+        "Thanks for helping us—that was awesome.",
+        "谢谢你帮我们，真是太棒了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awesome#English"
+    ]
+  },
+  {
+    "word": "awful",
+    "ipa": "英 /ˈɔːfl/；美 /ˈɔːfl/ 或 /ˈɑːfl/",
+    "meaning": "糟糕的；可怕的；极大的〔部分搭配〕",
+    "sense": "历史上也是令人敬畏，后来负面的可怕感越来越突出，日常就成了“真糟”。",
+    "split": "awe + -ful，经中古英语相应形式。早期有引起敬畏、恐惧义，后来常用义贬化为很坏；不是今天直接把 awe 翻出来就够。",
+    "history": [
+      [
+        "古诺尔斯语 agi → 中古英语 awe",
+        "惧怕、敬畏，与本族相关旧词汇合"
+      ],
+      [
+        "英语 awe",
+        "面对强大、壮观之物的敬畏与惊叹"
+      ],
+      [
+        "awe + -ful → awful",
+        "令人敬畏、可怕 → 很糟糕"
+      ]
+    ],
+    "explanation": "awful weather 糟糕天气，feel awful 身体难受或心里很不好受，an awful lot 非常多，是加强程度。",
+    "usage": "awful weather；feel awful；an awful smell；an awful lot。",
+    "contrast": "awful 与 awesome 今天通常褒贬相反；an awful lot of help 则只强调帮助很多，不是在批评帮助糟。",
+    "examples": [
+      [
+        "The weather was awful throughout the trip.",
+        "旅途中天气一直很糟。"
+      ],
+      [
+        "I felt awful about forgetting her birthday.",
+        "忘了她的生日，我心里很过意不去。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/awful",
+      "https://en.wiktionary.org/wiki/awful#English"
+    ]
+  },
+  {
+    "word": "awfully",
+    "ipa": "英 /ˈɔːfəli/；美 /ˈɔːfəli/ 或 /ˈɑːfəli/",
+    "meaning": "极其、非常；糟糕地",
+    "sense": "强到令人吃惊的程度，慢慢弱化成“很、非常”；也能保留表现很糟的意思。",
+    "split": "awful + -ly，副词从令人敬畏、可怕的方式义，发展出单纯加强程度的用法。",
+    "history": [
+      [
+        "古诺尔斯语 agi → 中古英语 awe",
+        "惧怕、敬畏，与本族相关旧词汇合"
+      ],
+      [
+        "英语 awe",
+        "面对强大、壮观之物的敬畏与惊叹"
+      ],
+      [
+        "awful + -ly → awfully",
+        "可怕地、很糟地 → 非常"
+      ]
+    ],
+    "explanation": "awfully sorry 非常抱歉，awfully kind 非常好心。She sang awfully 才更像说唱得糟；看它修饰什么。",
+    "usage": "awfully sorry；awfully kind；awfully difficult。",
+    "contrast": "awfully nice 是夸很好，不是糟糕地好；副词作程度加强时不保留原来负面评价。",
+    "examples": [
+      [
+        "That was awfully kind of you.",
+        "你真是太好心了。"
+      ],
+      [
+        "I am awfully sorry for keeping you waiting.",
+        "让你久等了，我非常抱歉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awfully#English"
+    ]
+  },
+  {
+    "word": "awestruck",
+    "ipa": "/ˈɔːstrʌk/〔美式也 /ˈɑːstrʌk/〕",
+    "meaning": "惊叹不已的；肃然起敬的",
+    "sense": "像被壮观景象或惊人才华一下击中，整个人愣在那里。",
+    "split": "awe 敬畏 + struck〔strike 的过去分词〕，表示被敬畏、惊叹击中的状态。",
+    "history": [
+      [
+        "古诺尔斯语 agi → 中古英语 awe",
+        "惧怕、敬畏，与本族相关旧词汇合"
+      ],
+      [
+        "英语 awe",
+        "面对强大、壮观之物的敬畏与惊叹"
+      ],
+      [
+        "awe + struck → awestruck",
+        "被惊叹击中 → 震撼得说不出话"
+      ]
+    ],
+    "explanation": "an awestruck audience 惊叹不已的观众，be awestruck by 被某物深深震撼；重点在人的感受。",
+    "usage": "be awestruck by；an awestruck audience；an awestruck silence。",
+    "contrast": "awesome 常描述引起震撼的事物，awestruck 常描述感到震撼的人：an awesome view left us awestruck。",
+    "examples": [
+      [
+        "The children were awestruck by the size of the dinosaur skeleton.",
+        "恐龙骨架的巨大体积让孩子们惊叹不已。"
+      ],
+      [
+        "An awestruck silence followed the final note.",
+        "最后一个音符落下后，全场惊叹得一片寂静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awestruck#English"
+    ]
+  },
+  {
+    "word": "super",
+    "ipa": "英 /ˈsuːpə/；美 /ˈsuːpər/",
+    "meaning": "极好的；非常〔口语〕；管理员等的缩略称呼",
+    "sense": "超过平常水平，口语就可以夸“真棒”；放在形容词前又能加强成“特别”。",
+    "split": "形容词、副词接 super-，最终来自拉丁 super 在上、超过；名词 super 有多种独立缩略来源，如 superintendent，不把所有名词义归到一句太棒了。",
+    "history": [
+      [
+        "拉丁 super",
+        "在上方、超过"
+      ],
+      [
+        "英语 super- 与独立用法 super",
+        "超出普通水平 → 极好的；非常"
+      ]
+    ],
+    "explanation": "a super idea 好点子，super easy 特别简单。美式 apartment super 常指公寓管理员，是 superintendent 的缩略。",
+    "usage": "a super idea；super easy；the building super。",
+    "contrast": "super 常是轻松口语；正式说程度可以选 very 或更具体的词。supreme 等相关词各有自己的借入历史。",
+    "examples": [
+      [
+        "Thanks—we had a super time.",
+        "谢谢，我们玩得很开心。"
+      ],
+      [
+        "The building super came to check the leak.",
+        "公寓管理员来查看漏水情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/super#English"
+    ]
+  },
+  {
+    "word": "superego",
+    "ipa": "英 /ˌsuːpərˈiːɡəʊ/；美 /ˌsuːpərˈiːɡoʊ/",
+    "meaning": "超我〔精神分析概念〕",
+    "sense": "在精神分析模型里，像心中管规矩、作自我评判的声音：这样做合不合标准。",
+    "split": "super 在上 + ego 自我，是德语 Über-Ich 的仿译词，属于精神分析术语。不是超能力自我，也不是解剖学的一块脑组织。",
+    "history": [
+      [
+        "拉丁 super",
+        "在上方、超过"
+      ],
+      [
+        "德语 Über-Ich → 英语 super + ego",
+        "在自我之上的规范、评判功能 → 超我"
+      ]
+    ],
+    "explanation": "the superego 在讨论弗洛伊德模型时，常与 id 本我、ego 自我并列；借这一模型理解术语，不把它当作所有心理学的统一结论。",
+    "usage": "the ego and superego；a strict superego；the concept of the superego。",
+    "contrast": "ego 日常还可说自尊、自负，superego 是特定理论概念；super ego 两个随意分开的词不必然是同一术语。",
+    "examples": [
+      [
+        "The lecture explained the roles of the id, ego and superego.",
+        "讲座解释了本我、自我和超我的作用。"
+      ],
+      [
+        "In this model, the superego reflects internalized standards.",
+        "在这一模型里，超我体现内化的规范。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/superego#English"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+"""War and country: ordinary language, historical loans, and metaphors."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[f'{a}；{b}','并列构词成分'],[w,m]]
+WAR=[['法兰克语有关混乱、争斗的词族 → 法语 werre / guerre','争斗、战争'],['晚期古英语、中古英语 werre → 英语 war','战争；冲突']]
+W('war','英 /wɔː/；美 /wɔːr/','战争；战事；激烈冲突、竞争〔比喻〕',
+ '不再是一次小口角，而是成组织、规模较大的武装冲突；比喻里则把竞争写得像开战。',
+ '经盎格鲁诺曼、古北法语 werre、guerre 进入英语，更早是日耳曼来源的争斗、混乱词族。不是现代 worse“更坏”缩短而成。',WAR,
+ 'at war 处于交战状态，go to war 开战，a price war 价格战。the war 指特定战争；war 作一般状态通常不可数。',
+ 'at war；go to war；a war between；a price war；declare war on。',
+ 'war 通常比 battle 范围大；一场 war 可有许多 battles，但日常比喻也会夸张，按语境识别。',
+ ('The novel follows a family separated by war.','小说讲述了一个被战争拆散的家庭。'),('The two shops began a price war.','两家店打起了价格战。'))
+W('warrior','英 /ˈwɒriə/；美 /ˈwɔːriər/','战士；勇敢、积极的奋斗者〔比喻〕',
+ '不是战争本身，而是亲自参与战斗的人；比喻里强调勇气和拼劲。',
+ '经中古英语 werreour 借盎格鲁诺曼 werreur、古法语相关形式，与 war 的旧法语词族相连。不能把末尾 -rior 当作能到处套用的英语后缀。',
+ [['旧法语 werre 等战争词族 → werreur 等人物形式','参与战斗的人'],['中古英语 werreour → 英语 warrior','战士；比喻勇于投入的人']],
+ 'a legendary warrior 传说中的战士，a weekend warrior 可幽默说周末热衷运动、活动的人。warrior 不只对应现代某一军衔。',
+ 'a legendary warrior；a warrior spirit；a weekend warrior。',
+ 'warrior 强调战斗者形象，soldier 是士兵这一更具体的军人角色；比喻 warrior 不保证真有从军经历。',
+ ('The legend tells of a warrior who protected the village.','传说讲了一位保护村庄的战士。'),('The coach praised the team’s warrior spirit.','教练称赞了球队顽强拼搏的精神。'))
+W('warfare','英 /ˈwɔːfeə/；美 /ˈwɔːrfer/','战争活动；作战方式',
+ 'war 说战争这件事，warfare 更看实际怎样作战、采用哪一类作战活动。',
+ 'war + fare，可能由中古英语 werre-faringe 等作战、前往战争的表达缩短。fare 在这里不是车票价格。',WAR+[['war + fare；与旧前往作战表达有关','进行战争、作战活动']],
+ 'naval warfare 海战，trench warfare 堑壕战；metaphorical office warfare 可夸张说职场争斗。一般不可数。',
+ 'naval warfare；trench warfare；the history of warfare。',
+ 'warfare 作战活动和方式，a war 可数一场战争；不通常说 three warfares 来数三场战争。',
+ ('The course examines changes in naval warfare.','课程研究海上作战方式的变化。'),('The museum documents the human cost of warfare.','博物馆记录了战争活动给人带来的代价。'))
+W('warring','英 /ˈwɔːrɪŋ/；美 /ˈwɔːrɪŋ/','交战的；激烈争斗的',
+ '两方不是只意见不同，而是正处在冲突、对抗中。',
+ 'war + -ing，双写 r，中古英语有 werrynge 等形式；可作现在分词或形容词。',WAR+[['war + -ing → warring','交战、处于争斗中的']],
+ 'warring parties 交战、争斗各方，warring factions 对立派系。新闻也可比喻组织内部争斗，不保证都有武器。',
+ 'warring parties；warring factions；warring neighbors。',
+ 'warring 正在交战、争斗，warlike 好战或像战争；一个有好战姿态的人不一定已经进入战斗。',
+ ('The mediator brought the warring parties together.','调停者让交战各方坐到一起。'),('The novel follows two warring families.','小说围绕两个争斗不休的家族展开。'))
+W('warship','英 /ˈwɔːʃɪp/；美 /ˈwɔːrʃɪp/','军舰',
+ '船主要按作战用途设计、装备，便是战争用船。',
+ 'war + ship，ship 是船，不是表示身份、性质的 -ship 后缀。',C('war','ship〔船〕','warship','为海上作战建造、装备的舰船'),
+ 'a naval warship 军舰，a historic warship 历史军舰。舰种、武器差别不能单靠 warship 一个词推定。',
+ 'a historic warship；a fleet of warships；a decommissioned warship。',
+ 'warship /wɔːʃɪp/ 与 worship /ˈwɜːʃɪp/ 崇拜不是同词；不要漏看中间 r 后的字母顺序。',
+ ('The museum ship was once a warship.','这艘博物馆船以前是军舰。'),('Several warships appear in the historical painting.','历史画作里出现了几艘军舰。'))
+W('warplane','英 /ˈwɔːpleɪn/；美 /ˈwɔːrpleɪn/','军用作战飞机',
+ '飞机按战争、作战用途命名，而不是任何飞过战区的民航客机。',
+ 'war + plane（飞机），plane 不是平面几何里的平面。',C('war','plane','warplane','设计、装备来作战的飞机'),
+ 'a historic warplane 历史作战飞机，warplane wreckage 作战飞机残骸。可泛指不同作战机型，不只一种战斗机。',
+ 'a historic warplane；warplane wreckage；a restored warplane。',
+ 'warplane 是按作战用途的泛称，fighter 常更具体说战斗机；不是所有 warplanes 都只负责同一任务。',
+ ('The museum displays a restored warplane.','博物馆展出了一架修复后的作战飞机。'),('The archive contains photographs of wartime warplanes.','档案保存了战争时期作战飞机的照片。'))
+W('warlord','英 /ˈwɔːlɔːd/；美 /ˈwɔːrlɔːrd/','军阀；凭武装割据、掌权的首领',
+ '手里有武装，就在一片地方掌实际权力，常见于中央权力薄弱、割据的描述。',
+ 'war + lord（领主、掌权者），不是普通 soldier“士兵”的放大说法。',C('war','lord','warlord','以武装力量控制地方的首领'),
+ 'a local warlord 地方军阀，rival warlords 相互争斗的军阀。历史、新闻使用常带武力割据的意味。',
+ 'a local warlord；rival warlords；warlord rule。',
+ 'warlord 强调武装与地方权力，general 是将军这一军衔、指挥身份；两词不能自动画等号。',
+ ('The story is set in a region ruled by rival warlords.','故事发生在敌对军阀控制的地区。'),('The historian studies the rise of local warlords.','历史学家研究地方军阀的兴起。'))
+W('warlike','英 /ˈwɔːlaɪk/；美 /ˈwɔːrlaɪk/','好战的；像战争的；与战争有关的',
+ '姿态、言辞让人觉得随时要动武，或某事呈现战争的特点。',
+ 'war + -like（像……的），like 不是喜欢战争的普通完整句子。',C('war','-like','warlike','好战；具有战争特征的'),
+ 'a warlike posture 好战姿态，warlike language 充满敌意的言辞。未必已经真正交战。',
+ 'a warlike posture；warlike language；a warlike culture。',
+ 'warlike 好战或像战争，warring 正在交战、争斗；两者分别说特征与状态。',
+ ('The speech adopted an increasingly warlike tone.','演讲的语气变得越来越好战。'),('The novel contrasts peaceful customs with warlike rituals.','小说对照了和平习俗与充满战争色彩的仪式。'))
+W('warmonger','英 /ˈwɔːmʌŋɡə/；美 /ˈwɔːrmɑːŋɡər/','战争鼓吹者；好战煽动者〔贬〕',
+ '像叫卖商品一样鼓吹战争，推动别人接受、投入冲突。',
+ 'war + monger（商贩；引申为兜售、传播某物的人）；monger 在这类组合常带贬义，不是 mongrel 杂种的缩写。',C('war','monger','warmonger','鼓吹、煽动战争的人'),
+ 'call someone a warmonger 是强烈指责，不只是中性说一个人参加过战争。对历史人物的评价要分清是谁在下判断。',
+ 'a dangerous warmonger；accuse of being a warmonger；denounce a warmonger。',
+ 'warmonger 鼓吹战争的人，warrior 参与战斗的人；参加战斗不等于主张发动战争。',
+ ('Opponents accused the politician of being a warmonger.','反对者指责这位政治人物鼓吹战争。'),('The play portrays the ruler as a reckless warmonger.','戏剧把统治者刻画成一个鲁莽的战争鼓吹者。'))
+W('warmongering','英 /ˈwɔːmʌŋɡərɪŋ/；美 /ˈwɔːrmɑːŋɡərɪŋ/','鼓吹、煽动战争；好战的〔修饰用法〕',
+ '从是谁在鼓吹战争，转到这种鼓吹行为、言辞本身。',
+ 'warmonger + -ing，或按 war + mongering 理解活动；不是普通 war“战争”的所有行动都叫 warmongering。',
+ [['warmonger','鼓吹战争的人、行为动词'],['warmonger + -ing → warmongering','鼓吹战争的活动；好战煽动性的']],
+ 'warmongering rhetoric 好战煽动言辞，condemn warmongering 谴责煽动战争。评价色彩很强，与 neutral reporting 中的 military activity 不能直接互换。',
+ 'warmongering rhetoric；condemn warmongering；accusations of warmongering。',
+ 'warmongering 是鼓吹、煽动，warfare 是作战活动；前者可以发生在尚未开战时。',
+ ('The editorial criticized the speech as warmongering.','社论批评那场演说在煽动战争。'),('The novel explores how propaganda encourages warmongering.','小说探讨宣传怎样助长战争鼓吹。'))
+W('warpath','英 /ˈwɔːpɑːθ/；美 /ˈwɔːrpæθ/','征战之路；盛怒找人算账的状态〔习语〕',
+ '像已经踏上开战的路，今天 on the warpath 常说某人怒气冲冲，准备追责。',
+ 'war + path（路）；字面战争路径，在历史美洲原住民相关英语叙述中有特定使用背景，现代常见于夸张习语。',C('war','path','warpath','通向征战的路 → 盛怒、准备找人算账'),
+ 'be on the warpath 大发雷霆、准备找人算账。多是非正式夸张，不表示说话者掌握真正军事行动。',
+ 'be on the warpath；on the warpath about；put someone on the warpath。',
+ 'on the warpath 形容盛怒态度，at war 才可说处于战争状态；不要把办公室习语当实战描述。',
+ ('The manager was on the warpath after another missed deadline.','再次误了截止时间后，经理怒气冲冲准备追责。'),('She is on the warpath about the missing documents.','文件不见了，她正火冒三丈要找人算账。'))
+W('warhorse','英 /ˈwɔːhɔːs/；美 /ˈwɔːrhɔːrs/','战马；久经考验的老将；反复上演的老作品',
+ '老战马经历许多仗，后来借来称经验老到的人；舞台上总被重新搬出的老作品也像久经阵仗。',
+ 'war + horse，由战马的字面义扩到资深人物、常演曲目和剧目。不是称作品有四条腿。',C('war','horse','warhorse','战马 → 老将；常演老作品'),
+ 'an old political warhorse 政坛老将，a theatrical warhorse 反复上演的老戏。可赞经验丰富，也可嫌作品老套，语气看上下文。',
+ 'an old warhorse；a political warhorse；a theatrical warhorse。',
+ 'warhorse 强调资历、反复历练，workhorse 强调勤恳耐用、承担大量工作；只差一部分，关注点不同。',
+ ('An old political warhorse returned to lead the campaign.','一位政坛老将回归，领导这次竞选。'),('The orchestra chose a familiar warhorse for the final piece.','乐团选了一首常演的经典老曲作压轴。'))
+W('wargaming','英 /ˈwɔːɡeɪmɪŋ/；美 /ˈwɔːrɡeɪmɪŋ/','战争游戏；兵棋推演；情景推演〔引申〕',
+ '先在规则、模型或桌面情景里让不同选择碰一碰，看可能出现什么反应。',
+ 'war + gaming，gaming 是 game 的活动形式，去 e；由战争游戏、模拟扩展到其他领域的情景推演。',C('war','gaming','wargaming','战争游戏、模拟推演；引申情景推演'),
+ 'a wargaming exercise 推演练习，tabletop wargaming 桌面战争游戏。商业、组织情景里也可能借称模拟不同参与方反应。',
+ 'a wargaming exercise；tabletop wargaming；a wargaming club。',
+ 'wargaming 是模拟、游戏或推演活动，warfare 是实际作战；模拟结果也不等于现实必然照着发生。',
+ ('The club meets for tabletop wargaming on weekends.','社团周末聚会玩桌面战争游戏。'),('The team used a wargaming exercise to explore possible market responses.','团队用情景推演探讨市场可能的反应。'))
+R('B2480','战争、争斗及相关人物事物','WAR：从武装冲突，分出作战、人、工具和比喻','war 是战争，warfare 看作战活动，warrior 是战斗者；鼓吹战争、老将与办公室发火另有语气。',
+ 'war 经法语进入英语，更早又接日耳曼争斗、混乱词族。warrior 经法语人物名词借入，不把 -rior 当万能后缀。高度专门术语和主要是品牌才高频的词先不铺开。',
+ 'war → warrior、warfare、warring；warship / warplane 放工具分支；warlord / warlike / warmonger → warmongering 讲身份态度；warpath、warhorse、wargaming 讲引申。',
+ [['战争、人物与过程','war · warrior · warfare · warring'],['相关工具和既有时间词','warship · warplane · warhead · wartime · interwar'],['掌权与好战态度','warlord · warlike · warmonger · warmongering'],['比喻及模拟','warpath · warhorse · wargaming']],
+ 'warship 军舰、worship 崇拜；warrior 战斗者、warmonger 鼓吹者；on the warpath 常是盛怒，不是真正 at war。',
+ 'The historian studied warfare without treating every warrior as a warmonger.\n\n历史学家研究作战活动，并没有把每位战士都看成战争鼓吹者。',
+ 'war warrior warfare warring warship warplane warhead wartime interwar warlord warlike warmonger warmongering warpath warhorse wargaming')
+COUNTRY=[['古法语 contree → 中古英语 contre','面对的一片土地、区域'],['英语 country','国家；乡间；一片有特点的地域']]
+W('country','/ˈkʌntri/','国家；乡村、乡间；地区；乡村音乐〔简称〕',
+ '本来是一片土地；往政治边界看，是国家，往城市外看，是乡间。',
+ '借古法语 contree，经中古英语 contre，上接通俗拉丁重建形式 *(terra) contrāta“面对的土地”，与 contrā 有关。星号表重建，不当作实见古文。country 不是 county 加 r。',COUNTRY,
+ 'visit a country 访问一个国家，live in the country 住乡下，mountain country 山区。country music 是乡村音乐，也可简称 country。',
+ 'a foreign country；in the country；across the country；country music。',
+ 'country 国家、乡间，county 通常是郡、县等行政区；拼写近，来路和行政层级不一样。',
+ ('She has lived in three different countries.','她在三个不同国家住过。'),('They moved from the city to the country.','他们从城市搬到了乡下。'))
+W('countryside','/ˈkʌntrisaɪd/','乡村地区；乡间',
+ '镜头离开城市街区，出现田野、村庄、林地组成的乡间景观。',
+ 'country（乡间）+ side（地区、地带），不是一个国家的某个边境侧面。',C('country〔乡间〕','side','countryside','城镇以外的乡村地区'),
+ 'the surrounding countryside 周边乡间，walk in the countryside 在乡间散步。通常不可数，不拿它来计数三个主权国家。',
+ 'the surrounding countryside；in the countryside；open countryside。',
+ 'countryside 明确乡间，country 可是国家；a beautiful country 和 beautiful countryside 不一定指同一层面的对象。',
+ ('We spent the weekend walking in the countryside.','我们周末在乡间散步。'),('The train passed through green countryside.','火车驶过绿意盎然的乡间。'))
+W('countryman','/ˈkʌntrimən/','同胞；某国人；乡下人〔尤男性称谓〕',
+ 'country 选国家，是同国的人；选乡间，则是熟悉、生活在乡下的人。',
+ 'country + man，man 的男性、人两种传统用法参与构词。女性对应 countrywoman，泛指不标性别可按语境用 compatriot 等。',C('country','man','countryman','同国之人；乡村居民的传统称谓'),
+ 'a fellow countryman 一位同胞，a lifelong countryman 一辈子住乡下的人。要从句中看说的是国籍联系还是乡村生活。',
+ 'a fellow countryman；his countrymen；a lifelong countryman。',
+ 'countryman 同胞与 countryside 乡间不等于同一义群；同一 country 在复合词里可用不同义项。',
+ ('He was pleased to meet a fellow countryman abroad.','在国外遇到一位同胞，他很高兴。'),('A lifelong countryman, he knew the local fields well.','他一辈子住乡下，熟悉当地田野。'))
+W('countrywide','/ˌkʌntriˈwaɪd/','全国的；遍及全国地',
+ '不是一个城市、一片乡下，而是在整个国家范围铺开。',
+ 'country（国家）+ -wide（遍及……范围），不是在说国家东西量起来很宽。',C('country','-wide','countrywide','遍及整个国家范围的'),
+ 'a countrywide survey 全国调查，operate countrywide 在全国开展业务；形容词、副词都可见。',
+ 'a countrywide survey；countrywide coverage；operate countrywide。',
+ 'countrywide 全国范围，countryside 乡间；全国调查当然可能包含城市，不能被 country 的乡下义带偏。',
+ ('The organization launched a countrywide survey.','机构启动了一项全国调查。'),('The service is available countrywide.','这项服务全国范围都能使用。'))
+R('B2482','一片土地；国家；乡间','COUNTRY：先看这片土地按什么方式划分','政治边界是国家，城市之外是乡间；wide 扩到全国，side 明确乡村地区。',
+ 'country 经法语 contree 到英语，更早拉丁来源有重建形式，不能伪装成实见词。county 行政区另源；country 的国家、乡间义进入不同复合词。',
+ 'country → countryside、countryman、countrywide；backcountry 已有精讲复用。',
+ [['国家和乡间两义','country'],['乡间地区和人','countryside · countryman · backcountry'],['整个国家范围','countrywide']],
+ 'country 国家或乡间，county 郡县；countrywide 全国，countryside 乡间，不只差一个尾巴。',
+ 'The countrywide survey included both cities and the countryside.\n\n全国调查同时包含城市和乡村。',
+ 'country countryside countryman countrywide backcountry')
+if __name__=='__main__':save('continuation_20261028_ay',ROOTS,WORDS)

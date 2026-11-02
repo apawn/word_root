@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B3398",
+    "meaning": "行进、行程、票价与生活状态",
+    "core": "FARE：原来问如何行进，后来也问这趟花多少、事情过得怎样",
+    "image": "fare → airfare；thoroughfare 说通行道路，farewell 祝一路顺遂，welfare、warfare 保留不同的旧组合。",
+    "intro": "fare 的食物义有较早的供给背景，不从现代车票随意推出。thoroughfare 里的前项保留 through 的旧形。",
+    "forms": "古英语 faran、fær、faru → fare；air + fare；thorough- + fare；well/war + fare；fare well → farewell。\n\nway 道路、路线 + fare 旧动词行进、旅行，再有 -er 做事者。wayfare 动词较晚可能由名词等逆构；不是一个购买车费的人。\n\nford 承古英语 ford，和 fare 可追到更远的通过、行进同源材料；不是由现代 fare 直接派生。名词浅滩较早，再有动词涉过水体。\n\nfare 承古英语旅程词族，后从运送发展到支付旅费，现代 -s，名词复数说票价，动词第三人称说进展、过得如何。",
+    "branches": [
+      [
+        "基础与费用",
+        "fare · airfare"
+      ],
+      [
+        "道路与祝愿",
+        "thoroughfare · farewell"
+      ],
+      [
+        "生活与战争旧组合",
+        "welfare · warfare"
+      ],
+      [
+        "wayfarer：走在路上的旅人",
+        "wayfarer · wayfarers"
+      ],
+      [
+        "ford：能涉过的浅滩，到涉水而过",
+        "ford · fords · forded · fording"
+      ],
+      [
+        "fare 旅程 → fares 车船票价",
+        "fares"
+      ]
+    ],
+    "contrasts": "fare 价钱、ticket 票；fare/fair 同音不同词；thoroughfare 非彻底票价，warfare 不等于交战税。",
+    "practice": "We paid the fare and travelled along the city’s main thoroughfare.\n\n我们付了车费，沿城市的主干道行进。",
+    "words": [
+      "fare",
+      "airfare",
+      "thoroughfare",
+      "farewell",
+      "welfare",
+      "warfare",
+      "wayfarer",
+      "wayfarers",
+      "ford",
+      "fords",
+      "forded",
+      "fording",
+      "fares"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2686",
+    "meaning": "跳起、突变、易惊与混乱移动",
+    "core": "JUMP：从原位置一下跨出去，动作也能借给价格和思路",
+    "image": "jump → jumper、jumpy；jumpsuit 衣物名复用；jumble 保留混动的形象与不确定历史。",
+    "intro": "jumper 衣服有旧衣物词路径，不编成毛衣适合跳跃；jumble 与 jump 的联系有不同分析，直观联想不冒充确定词源。",
+    "forms": "jump 深源不定；jump + -er/-y；jump + suit；jumper 衣物接旧 jump；jumble 早期混动词形另说明。\n\n更远来源有不同推测，保留可靠的跳跃义；ed 读 t。\n\n英语旧跳跃词，更远来源未定；不双写 p。\n\njump 深源不完全确定，从可靠英语动作与比喻解释；-s 可作名词复数或动词第三人称，词尾 /mps/。",
+    "branches": [
+      [
+        "动作、人物与紧张状态",
+        "jump · jumper · jumpy"
+      ],
+      [
+        "衣物与混动旁支",
+        "jumpsuit · jumble"
+      ],
+      [
+        "jump → jumped：跳起来与突然变化",
+        "jump · jumped"
+      ],
+      [
+        "jump → jumping：离地跳起与突然转移",
+        "jump · jumped · jumping"
+      ],
+      [
+        "jump → jumps：跳跃、猛增、跳过",
+        "jumps"
+      ]
+    ],
+    "contrasts": "jump/rise 突然与上升；jumpy/excited 易惊与兴奋；jumper 毛衣非跳跃者义直接推；jumble 不一定现代 jump 加后缀。",
+    "practice": "The jumpy cat jumped over a jumble of cables.\n\n那只容易受惊的猫跳过了一团乱电缆。",
+    "words": [
+      "jump",
+      "jumper",
+      "jumpy",
+      "jumpsuit",
+      "jumble",
+      "jumped",
+      "jumping",
+      "jumps"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4372",
+    "meaning": "巨大的体量、程度与副词加强",
+    "core": "MASSIVE：大到有分量，现代也能形容影响、成功和程度",
+    "image": "massive → massively；supermassive 作为体量特别巨大的常见科学扩展另看。",
+    "intro": "massively popular 说受欢迎程度，不称量人的重量。supermassive 的科学搭配保留既有解释。",
+    "forms": "法语 massif → massive；massive + -ly；super- + massive。",
+    "branches": [
+      [
+        "形容与程度",
+        "massive · massively"
+      ],
+      [
+        "更大体量",
+        "supermassive"
+      ]
+    ],
+    "contrasts": "massive 形容词，massively 副词；巨大影响不一定巨大重量。",
+    "practice": "The event was a massive success and became massively popular.\n\n活动大获成功，变得非常受欢迎。",
+    "words": [
+      "massive",
+      "massively",
+      "supermassive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3895",
+    "meaning": "回应、反应过度与恢复旧秩序的立场",
+    "core": "REACTION：回应某个动作，但政治词有自己的历史背景",
+    "image": "reaction → overreaction；reactionary 以独立法语政治词路径另列。",
+    "intro": "反应过强看 over-，恢复旧秩序看 reactionary 的历史语境；不是反应快的人就叫 reactionary。",
+    "forms": "reaction 的反作用、回应历史；over- + reaction；法语 réactionnaire → reactionary。",
+    "branches": [
+      [
+        "反应及程度",
+        "reaction · overreaction"
+      ],
+      [
+        "政治历史支线",
+        "reactionary"
+      ]
+    ],
+    "contrasts": "reactionary/reactive 特定政治立场与反应性的区别；overreaction 是程度评价，不是任意负面情绪。",
+    "practice": "The article distinguishes a reaction from an overreaction.\n\n文章区分了正常反应与反应过度。",
+    "words": [
+      "reaction",
+      "overreaction",
+      "reactionary"
+    ],
+    "exclude": {}
+  }
+]

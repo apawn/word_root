@@ -1,0 +1,398 @@
+[
+  {
+    "word": "how",
+    "ipa": "/haʊ/",
+    "meaning": "怎样；如何；多么、多……",
+    "sense": "what 问东西是什么，how 把问题转到做法、状态或程度：怎么开门、感觉怎样、距离多远。",
+    "split": "古英语 hū 经中古英语 hou／how 延续，属于古老的疑问词材料；读音经历历史变化，并不是现代 h + ow 的拼装。",
+    "history": [
+      [
+        "古英语 hū → 中古英语 hou／how",
+        "以什么方式、怎样"
+      ],
+      [
+        "现代 how",
+        "询问方法、状态和程度等"
+      ]
+    ],
+    "explanation": "How do you open this? 问方法；How are you? 问状况；how far、how old 询问程度、距离或年龄。How beautiful! 用同一套程度材料感叹。",
+    "usage": "how to；how much；how long；how far。",
+    "contrast": "How long? 可以问时长或长度；How soon? 问还有多久才发生；How often? 问频率，不能都按“多久”混用。",
+    "examples": [
+      [
+        "How do you turn this machine off?",
+        "这台机器怎么关？"
+      ],
+      [
+        "How far is the station from here?",
+        "车站离这里多远？"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/how"
+    ]
+  },
+  {
+    "word": "somehow",
+    "ipa": "/ˈsʌmhaʊ/",
+    "meaning": "以某种办法；不知怎么地、不知为什么",
+    "sense": "办法说不清，但事情竟然做成了；或理由讲不出，只觉得哪里不对。这两种“说不明白的怎么”都常用 somehow。",
+    "split": "some + how，把方式留作某个未明确指出的方式；形成一个副词，不是 some 表几个人、how 表问句的临时并排。",
+    "history": [
+      [
+        "some + how",
+        "某种未说明的方式"
+      ],
+      [
+        "somehow",
+        "设法；不知怎么或为什么"
+      ]
+    ],
+    "explanation": "Somehow we managed 多少有“总算想办法做到了”；Somehow it feels wrong 更像“不知为什么，感觉不对”。上下文决定是在说办法还是原因。",
+    "usage": "somehow manage to；somehow feel；somehow or other。",
+    "contrast": "somehow 不是 sometimes 有时，也不保证一定靠运气；它只把具体方式或理由暂时留白。",
+    "examples": [
+      [
+        "We somehow fitted all the boxes into the car.",
+        "我们总算想办法把所有箱子塞进了车里。"
+      ],
+      [
+        "Somehow, this explanation does not feel right.",
+        "不知为什么，这个解释总让我觉得不对。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/somehow#English"
+    ]
+  },
+  {
+    "word": "anyhow",
+    "ipa": "英 /ˈenihaʊ/；美 /ˈenihaʊ/",
+    "meaning": "无论如何；用任何办法；随便、胡乱地",
+    "sense": "只要把事做成，办法先不挑；也可能是不肯好好挑办法，结果做得乱七八糟。看语气和搭配。",
+    "split": "any + how，十八世纪已有“以任何方式”用法，后来固定扩展出“不管怎样”和“不讲究方式”的意思。",
+    "history": [
+      [
+        "any + how",
+        "任何方式都可以"
+      ],
+      [
+        "anyhow",
+        "无论如何；胡乱、随意地"
+      ]
+    ],
+    "explanation": "I’ll go anyhow 可说不管怎样还是去；The books were stacked anyhow 说书随便乱堆。口语也常用于拉回话题，近于 anyway。",
+    "usage": "do it anyhow；any old how；go anyhow。",
+    "contrast": "somehow 留下一个说不清的办法；anyhow 可以是不挑办法，也可以随便乱做。不能把两个词都只背成“不知怎么”。",
+    "examples": [
+      [
+        "The books had been piled anyhow on the floor.",
+        "书被胡乱堆在地板上。"
+      ],
+      [
+        "The forecast looked poor, but we went anyhow.",
+        "天气预报看起来不太好，但我们还是去了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anyhow#English"
+    ]
+  },
+  {
+    "word": "any",
+    "ipa": "/ˈeni/",
+    "meaning": "任何一个；一些〔多见于疑问、否定〕；丝毫〔副词用法〕",
+    "sense": "一排杯子，你说 Take any cup，意思是随便拿哪一只都行；问 Is there any water? 则把门开着：有一点也算。",
+    "split": "古英语 ǣniġ 经中古英语 any／eny 等延续，旧材料与 one 有关。可以理解为不特定某一个，但不能把现代拼写硬拆成 an + y 来推所有用法。",
+    "history": [
+      [
+        "古英语 ǣniġ → 中古英语 any／eny",
+        "不特定的一个、任何"
+      ],
+      [
+        "现代 any",
+        "任意选择；疑问、否定中的不定数量等"
+      ]
+    ],
+    "explanation": "Any seat is fine 是任何座位都行；Do you have any questions? 是有没有问题；I don’t have any money 没有钱。Are you any better? 里是有没有好一点。",
+    "usage": "any questions；any time；not any；any better。",
+    "contrast": "any 不只用于疑问、否定：Any student can join 是肯定句。some 也能用于期待肯定答复的请求、提供，如 Would you like some tea?，不是死规则。",
+    "examples": [
+      [
+        "You can choose any colour you like.",
+        "你可以选任何自己喜欢的颜色。"
+      ],
+      [
+        "I do not have any spare batteries.",
+        "我没有备用电池。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/any"
+    ]
+  },
+  {
+    "word": "anyone",
+    "ipa": "/ˈeniwʌn/",
+    "meaning": "任何人；有人〔疑问等语境〕",
+    "sense": "不是指定小王或小李，而是把范围向所有可能的人打开：有没有人，谁都可以。",
+    "split": "any + one，中古英语已有相应组合，后来常合写成表示不特定人物的代词。one 这里帮助指一个人，不等于句子只许涉及一个人。",
+    "history": [
+      [
+        "中古英语 any + one 的组合",
+        "不特定的一个人"
+      ],
+      [
+        "anyone",
+        "任何人；有没有人"
+      ]
+    ],
+    "explanation": "Anyone can apply 谁都可以申请；Is anyone there? 有人在吗？通常接单数动词，但回指可用单数 they：If anyone calls, tell them I’m out。",
+    "usage": "anyone else；anyone who；Does anyone ...?。",
+    "contrast": "anyone 是任何人；any one 可特指若干东西中的任意一个，如 any one of these books。anybody 常与 anyone 接近，不存在严格的“body 只能说身体”规则。",
+    "examples": [
+      [
+        "Does anyone know where the keys are?",
+        "有人知道钥匙在哪儿吗？"
+      ],
+      [
+        "Anyone can join the reading group.",
+        "任何人都可以加入读书小组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anyone#English"
+    ]
+  },
+  {
+    "word": "anywhere",
+    "ipa": "英 /ˈeniweə/；美 /ˈeniwer/",
+    "meaning": "任何地方；在某个地方〔疑问等语境〕",
+    "sense": "地图上不先圈定一个点：能放在哪都行，或者到处找都没找到，都可用 anywhere。",
+    "split": "any + where，把不特定范围接到地点词上，形成地点副词等用法。",
+    "history": [
+      [
+        "any + where",
+        "不指定是哪一个地点"
+      ],
+      [
+        "anywhere",
+        "任何地方；疑问、否定中的地点范围"
+      ]
+    ],
+    "explanation": "Sit anywhere 随便坐哪；I can’t find it anywhere 哪儿也找不到；Are you going anywhere? 问是否要去某处。anywhere near 还可强调接近程度。",
+    "usage": "go anywhere；not anywhere；anywhere else。",
+    "contrast": "anywhere 通常自己已经表达地点，不需写 go to anywhere；但 from anywhere 来自任何地方、anywhere in the room 房间里任何地方都可以成立。",
+    "examples": [
+      [
+        "You can sit anywhere you like.",
+        "你想坐哪里都可以。"
+      ],
+      [
+        "I cannot find the receipt anywhere.",
+        "我哪儿也找不到那张收据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anywhere#English"
+    ]
+  },
+  {
+    "word": "anyplace",
+    "ipa": "/ˈenipleɪs/",
+    "meaning": "任何地方〔主要美式，较口语〕",
+    "sense": "在美国口语里，We can meet anyplace 约等于“咱们在哪儿见都行”。它和 anywhere 的常见地点用法很近。",
+    "split": "any + place，名词地点材料形成合写的地点表达；不是一个特殊地名，也没有独立的冷僻词根。",
+    "history": [
+      [
+        "any + place",
+        "任意一个地方"
+      ],
+      [
+        "anyplace",
+        "主要美式口语的任何地方"
+      ]
+    ],
+    "explanation": "anyplace else 其他任何地方；don’t go anyplace 别到别处去。日常写 anywhere 通常适用范围更广。",
+    "usage": "anyplace else；go anyplace。",
+    "contrast": "anyplace 与 any place 的区别要看结构：any place with a table 中 place 后面接说明，分写自然；合写形式常作为地点副词使用。",
+    "examples": [
+      [
+        "We can meet anyplace near the station.",
+        "我们可以在车站附近任何地方见面。"
+      ],
+      [
+        "I do not want to go anyplace else tonight.",
+        "今晚我不想再去别的地方了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anyplace#English"
+    ]
+  },
+  {
+    "word": "there",
+    "ipa": "英 /ðeə/；美 /ðer/；弱读 英 /ðə/、美 /ðər/",
+    "meaning": "那里；在那儿；也用于引出“有……”的结构",
+    "sense": "手往那边一指，是 over there；There is a cup 则像把一个杯子带进镜头，先告诉对方有这么个东西。",
+    "split": "古英语 þǣr 等形式经中古英语 there／ther 延续，属于指示地点的本族词。引出存在事物的语法用法也很古老，不是每个 there 都在远处。",
+    "history": [
+      [
+        "古英语 þǣr → 中古英语 there／ther",
+        "在那个地方；指示某处"
+      ],
+      [
+        "现代 there",
+        "那里；引出存在、出现的事物等"
+      ]
+    ],
+    "explanation": "Put it there 放那儿；There are two cups on the table 桌上有两个杯子；There you are 递东西时可说给你。语境决定它是在指地点还是承担语法作用。",
+    "usage": "over there；there is；there are；there you are。",
+    "contrast": "there、their、they’re 在许多口音里同音，但依次是地点或存在结构、他们的、they are 缩写；不能按读音随便写。",
+    "examples": [
+      [
+        "Please put the boxes over there.",
+        "请把箱子放到那边。"
+      ],
+      [
+        "There is a spare key in the drawer.",
+        "抽屉里有一把备用钥匙。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/there"
+    ]
+  },
+  {
+    "word": "thereby",
+    "ipa": "英 /ˌðeəˈbaɪ/；美 /ˌðerˈbaɪ/",
+    "meaning": "由此；通过这种方式；从而",
+    "sense": "刚说完做了一件事，接着说这件事带来什么效果：先按下开关，由此启动机器。",
+    "split": "there + by，古英语已有相关组合；by 提供“凭借、通过”的关系，there 指回刚提到的事情或做法。",
+    "history": [
+      [
+        "古英语相关 there + by 组合",
+        "凭借那个、通过那种方式"
+      ],
+      [
+        "thereby",
+        "由此、从而"
+      ]
+    ],
+    "explanation": "常见 thereby + -ing：减少重复步骤，thereby saving time，从而节省时间。它把后果或办法接回前面的行为。",
+    "usage": "thereby reducing；thereby allowing；thereby saving。",
+    "contrast": "thereafter 只说时间在后；thereby 强调通过前面的事而发生，不能把“随后”和“从而”当成同一个逻辑关系。",
+    "examples": [
+      [
+        "She grouped the files by date, thereby making them easier to find.",
+        "她按日期给文件分组，从而让它们更容易找到。"
+      ],
+      [
+        "The new layout reduces clutter and thereby improves readability.",
+        "新布局减少了杂乱，由此提高了可读性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thereby#English"
+    ]
+  },
+  {
+    "word": "thereafter",
+    "ipa": "英 /ˌðeərˈɑːftə/；美 /ˌðerˈæftər/",
+    "meaning": "此后；从那以后〔较正式〕",
+    "sense": "时间线上先钉一个点：他在六月搬家。thereafter 就从这个点往后看。",
+    "split": "there + after，古英语 þǣræfter 等形式已表示那之后；这里 there 指回时间点或事件，不是在某个远处地方。",
+    "history": [
+      [
+        "古英语 there + after 的对应组合",
+        "在那之后"
+      ],
+      [
+        "thereafter",
+        "此后、随后时期"
+      ]
+    ],
+    "explanation": "shortly thereafter 不久之后；ever thereafter 从此以后。要让读者知道“那”是哪件事，否则指回会不清楚。",
+    "usage": "shortly thereafter；for years thereafter。",
+    "contrast": "afterwards 泛说后来；thereafter 更明确接回前面提过的时间或事件，且较正式；它本身不保证前事造成后事。",
+    "examples": [
+      [
+        "He moved to the coast in June and stayed there for years thereafter.",
+        "他六月搬到海边，此后在那里住了多年。"
+      ],
+      [
+        "The first notice arrived on Monday; a second followed shortly thereafter.",
+        "第一份通知星期一到了；不久之后，第二份也到了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thereafter#English"
+    ]
+  },
+  {
+    "word": "therein",
+    "ipa": "英 /ˌðeərˈɪn/；美 /ˌðerˈɪn/",
+    "meaning": "在其中；在那一点上〔较正式〕",
+    "sense": "刚指过一本书、一份文件或一个问题，therein 就把手指伸到它里面：在那里面、在那件事当中。",
+    "split": "there + in，古英语已有相关形式，经中古英语传下来。in 的内部关系保留，there 指回已经提到的对象。",
+    "history": [
+      [
+        "古英语相关 there + in 形式",
+        "在那里面"
+      ],
+      [
+        "therein",
+        "其中；某情况或要点当中"
+      ]
+    ],
+    "explanation": "the information contained therein 指其中所含的信息；Therein lies the problem 就是“问题恰恰在这儿”，不一定有真实容器。",
+    "usage": "contained therein；therein lies the problem。",
+    "contrast": "herein 通常指本文、此处；therein 指回另一个已提到的文本或情况。日常说 in it、in that 往往更自然。",
+    "examples": [
+      [
+        "Read the guide and the examples contained therein.",
+        "请阅读指南及其中的例子。"
+      ],
+      [
+        "The plan assumes everyone is available, and therein lies the problem.",
+        "计划假定每个人都有空，问题恰恰就在这里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/therein#English"
+    ]
+  },
+  {
+    "word": "thereupon",
+    "ipa": "英 /ˌðeərəˈpɒn/；美 /ˌðerəˈpɑːn/、/ˌðerəˈpɔːn/",
+    "meaning": "随即；于是；在那上面〔较正式〕",
+    "sense": "一个信号刚出现，下一步行动马上跟上；叙述里用 thereupon，像把两个镜头紧接起来。",
+    "split": "there + upon，中古英语已有相应组合。upon 的“在……上、紧接……”与指回前事的 there 结合，形成地点、时间和承接用法。",
+    "history": [
+      [
+        "中古英语 there + upon 组合",
+        "在那上面；紧接那事"
+      ],
+      [
+        "thereupon",
+        "随即、于是等固定用法"
+      ]
+    ],
+    "explanation": "现在较常在正式叙述中表示随即作出反应；具体文字里也可能真说在某物之上，要看上下文。",
+    "usage": "thereupon agreed；thereupon left。",
+    "contrast": "thereafter 可以覆盖很长的此后时期；thereupon 往往把反应接得更紧。日常叙事常直接用 then、at once。",
+    "examples": [
+      [
+        "She gave him permission, and he thereupon opened the box.",
+        "她给了许可，他随即打开了盒子。"
+      ],
+      [
+        "The chair called for a vote, and the members thereupon raised their hands.",
+        "主席要求表决，成员们随即举手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thereupon#English"
+    ]
+  }
+]

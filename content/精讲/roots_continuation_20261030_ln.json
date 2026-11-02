@@ -1,0 +1,182 @@
+[
+  {
+    "id": "B3981",
+    "meaning": "小屋、住下与安置，扩到物件固定、脱离",
+    "core": "LODGE：人能住下，东西也能像住下般卡在某处",
+    "image": "lodge → lodging、lodger；dislodge 解除原来固定的位置。",
+    "intro": "住处帮助串起人和东西：人 lodge，住的安排 lodging，住客 lodger；物件 lodged 后，需要 dislodge 才离开。正式提交则是把材料放到相应机构。",
+    "forms": "loge、logier → lodge；-ing 住宿，-er 住客，dis- 反向、移出。",
+    "branches": [
+      [
+        "住处、住宿与住客",
+        "lodge · lodging · lodger"
+      ],
+      [
+        "解除固定位置",
+        "dislodge"
+      ]
+    ],
+    "contrasts": "lodger 不是房东；lodging 未必含伙食；dislodge 不必毁坏物件；lodge a complaint 是正式提交。",
+    "practice": "The lodger found a pebble lodged in his shoe.\n\n寄宿房客发现鞋里卡着一颗小石子。",
+    "words": [
+      "lodge",
+      "lodging",
+      "lodger",
+      "dislodge"
+    ],
+    "exclude": {
+      "lodgepole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3106",
+    "meaning": "浮着、轻飘，再区分状态、过程、浮物与反复扑动",
+    "core": "FLOAT：水托着不沉，风带着轻飘",
+    "image": "float → afloat、flotation、floater、floaty；flutter 保留旧反复动作构词。",
+    "intro": "一条水上线能串起多数词：浮着的状态、浮起的过程、浮着的物件、轻飘的性质。flutter 又把轻浮移动变成反复扑抖。",
+    "forms": "flotian → float；a- 状态，-ation 过程，人物、物件 -er → floater；旧反复动作 -er 对应 flutter，-y 性质。\n\nfleet 的船、船队义接古英语 fleot，较早联系漂浮、流动词族；快速形容词接北欧语相关材料，不能只以船多就推导快速。\n\n古英语 flotian 等本族漂浮词与名词旧形式，现代 float 直接加 ing。\n\n古英语 flotian、flota 等相关名动词材料，现代引申不只浮在水面。\n\nflit 接古诺斯 flytja 搬移，与 float 的更早日耳曼浮动材料同族；现代不只是飞行，想法、表情也可短暂掠过。",
+    "branches": [
+      [
+        "漂浮与状态、过程",
+        "float · afloat · flotation"
+      ],
+      [
+        "浮物与轻飘性质",
+        "floater · floaty"
+      ],
+      [
+        "反复扑动",
+        "flutter"
+      ],
+      [
+        "fleet：漂浮材料中的船队与快速性质",
+        "float · fleet · fleeting"
+      ],
+      [
+        "float → floating：不沉下、未固定的状态",
+        "float · floating"
+      ],
+      [
+        "float → floats、floated：漂浮、花车与提出想法",
+        "float · floats · floated"
+      ],
+      [
+        "flit：古老搬移、浮动材料到轻快掠过",
+        "float · flit · flits · flitted · flitting"
+      ]
+    ],
+    "contrasts": "floater 与 flutter 的 -er 作用不同；float an idea 是提出供考虑；stay afloat 不等于经营兴旺。",
+    "practice": "A feather floated down while the curtains fluttered in the breeze.\n\n一根羽毛飘落，窗帘在微风中轻摆。",
+    "words": [
+      "float",
+      "afloat",
+      "flotation",
+      "floater",
+      "floaty",
+      "flutter",
+      "fleet",
+      "fleeting",
+      "floating",
+      "floats",
+      "floated",
+      "flit",
+      "flits",
+      "flitted",
+      "flitting"
+    ],
+    "exclude": {
+      "flatter": "常用 flatter 讨好、奉承另有法语等来源讨论，不把它作为现代 float 的直接后缀派生。"
+    }
+  },
+  {
+    "id": "B3056",
+    "meaning": "公羊冲撞的意象，延伸为用力推、撞、夯",
+    "core": "RAM：向前猛顶，也能把土夯紧",
+    "image": "ram → rammer、ramrod。",
+    "intro": "公羊是名词起点，用力冲顶是动作画面；工具再按动作命名。ramrod 的比喻又带出硬推动。",
+    "forms": "ramm → ram；-er 工具或人物，双写 m；rod 杆。大写 RAM 的存储器缩写另辨。\n\nram 承古英语 ramm、rom 公羊，亦用于冲击器具，远源不明。现代复数与动词第三人称同形，/m/ 后读 /z/；大写 RAM 是另一缩写。",
+    "branches": [
+      [
+        "动物、动作与工具",
+        "ram · rammer · ramrod"
+      ],
+      [
+        "ram 公羊 → 撞击的动作与器具",
+        "rams"
+      ]
+    ],
+    "contrasts": "ram 不只是普通推一下；rammer 可是工具；RAM 缩写不用动物词源解释。",
+    "practice": "The rammer compacted the earth with repeated blows.\n\n夯实机反复冲击，把土压紧。",
+    "words": [
+      "ram",
+      "rammer",
+      "ramrod",
+      "rams"
+    ],
+    "exclude": {
+      "ram-packed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4216",
+    "meaning": "电子技术与光学、生物仿生等相邻领域",
+    "core": "ELECTRONICS：看前项把电子技术与哪个领域接起来",
+    "image": "electronics → optoelectronics；bionics 作为仿生学的相邻学科名比较。",
+    "intro": "optoelectronics 的 opto- 明确连到光；bionics 则看生物启发的功能、设计，不能因为并排出现就都译成同一种电子器件。",
+    "forms": "electronics 电子学；opto- 光学相关 + electronics；bionics 是另一个生物技术交叉名称。",
+    "branches": [
+      [
+        "电子技术与光学交叉",
+        "electronics · optoelectronics"
+      ],
+      [
+        "相邻交叉领域比较",
+        "bionics"
+      ]
+    ],
+    "contrasts": "electronics、optoelectronics 作学科名通常用单数谓语；bionics 不从 opto- 分解。",
+    "practice": "The course introduces electronics and then optoelectronics.\n\n课程先介绍电子学，再介绍光电子学。",
+    "words": [
+      "electronics",
+      "optoelectronics",
+      "bionics"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3258",
+    "meaning": "身体内部，扩成直觉、胆量及掏空的感受",
+    "core": "GUT：肚子里的东西，也能借来讲心里的劲头",
+    "image": "gut → gutted、gutless；guts 勇气与内部重要部分是常见复数义。",
+    "intro": "从肠道到内心的反应，再到胆量，是身体词的比喻。gutted 把失望说成心里被掏空，gutless 则像失去勇气。",
+    "forms": "gutt、guttas → gut；-ed 分词双写 t，-less 缺少；gutter 另有法语 gouttière、滴水通道的历史。\n\ngut 承古英语 guttas 肠道等词义，远联系流通、倒出的材料。现代复数也说事物内部与胆量；勇气义属于情绪、内在力量的比喻发展。",
+    "branches": [
+      [
+        "内部、掏空与失望",
+        "gut · gutted"
+      ],
+      [
+        "缺少勇气",
+        "gutless"
+      ],
+      [
+        "gut → guts：内里与勇气",
+        "guts"
+      ]
+    ],
+    "contrasts": "guts 勇气用复数；gut feeling 不保证判断正确；gutter 不是现代 gut + -er 造出的内脏人物词。",
+    "practice": "She felt gutted, but still had the guts to try again.\n\n她失望透了，却仍有勇气再试一次。",
+    "words": [
+      "gut",
+      "gutted",
+      "gutless",
+      "gutter",
+      "guts"
+    ],
+    "exclude": {
+      "through-gut": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gut-shoot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gut-wrenching": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

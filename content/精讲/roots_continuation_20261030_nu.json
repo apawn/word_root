@@ -1,0 +1,256 @@
+[
+  {
+    "id": "B3446",
+    "meaning": "闲躺休息的动作，空间与家具借用途命名",
+    "core": "LOUNGE：把身体放松靠下来，不急着动",
+    "image": "lounge → lounger；动作、休息空间和躺椅以用途联系。",
+    "intro": "先看人的悠闲姿态，再看机场、酒店提供的休息厅和泳池边躺椅。相同 -er 可名人也可名家具，靠场景辨。",
+    "forms": "lounge 最早来源未定；去 e + -er → lounger；sun、poolside 等限定家具用途。\n\nlounge 来源未定，可能联系法语躺长等材料，也有其他分析；现代名词可说休息室、会客处和沙发，动词说闲坐、闲躺。\n\n和 lounge 比较姿态，不把 loll 当成现代 lounge 缩写。loll 远源未定，可能接中古荷兰语打盹、咕哝材料或模拟摇晃；舌头松垂义后来发展。\n\nlounge 去 e 加完整 -er，再加复数 -s；词尾 e 的拼写调整不改变完整后缀。lounge 更远来源有法语伸长、旧懒散者称呼等不同分析。",
+    "branches": [
+      [
+        "放松动作、休息室与躺椅",
+        "lounge · lounger"
+      ],
+      [
+        "lounge：懒洋洋休息及供休息的地方",
+        "lounge · lounges · lounged · lounging"
+      ],
+      [
+        "loll：松松地躺靠、垂下",
+        "loll · lolls · lolled · lolling"
+      ],
+      [
+        "loungers：闲躺的人，或休闲躺椅",
+        "lounger · loungers"
+      ]
+    ],
+    "contrasts": "lounge 动作不只是等候；lounger 常是椅子，不一定是人。",
+    "practice": "They lounged on the loungers beside the pool.\n\n他们懒洋洋地躺在泳池边的躺椅上。",
+    "words": [
+      "lounge",
+      "lounger",
+      "lounges",
+      "lounged",
+      "lounging",
+      "loll",
+      "lolls",
+      "lolled",
+      "lolling",
+      "loungers"
+    ],
+    "exclude": {
+      "lounge-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4514",
+    "meaning": "施助与善意判断同属宽厚，方式和否定逐层展开",
+    "core": "CHARITABLE：肯帮助，也肯先往善意里理解",
+    "image": "charitable → charitably、uncharitable；慈善支和待人态度支都要看见。",
+    "intro": "捐助是看得见的帮助，宽厚解读是对人保留善意。后缀说方式，否定前缀说少了这份善意，不把所有形式都硬限在募款活动。",
+    "forms": "法语 charitable → charitable；-able → -ably；un- 否定。\n\ncharity 经法语接拉丁 caritas 珍视、关爱等材料；可数机构义用 charities，charitable 为同族性质词。",
+    "branches": [
+      [
+        "慈善、宽厚、方式与否定",
+        "charitable · charitably · uncharitable"
+      ],
+      [
+        "charity：善意、施助与慈善机构",
+        "charity · charities · charitable"
+      ]
+    ],
+    "contrasts": "charitable interpretation 是善意解读；uncharitable 常说刻薄，不只是未捐钱。",
+    "practice": "She read the message charitably instead of accepting the uncharitable rumour.\n\n她善意地读那条消息，没有接受刻薄的传言。",
+    "words": [
+      "charitable",
+      "charitably",
+      "uncharitable",
+      "charity",
+      "charities"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4030",
+    "meaning": "微弱、发虚与昏厥，形容性质和动作分开",
+    "core": "FAINT：声音微弱是形容，人昏过去是动词",
+    "image": "faint → faintly、fainting，前者常描述微弱方式，后者接昏厥动作。",
+    "intro": "光线、声音、气味的 faint 是难察觉，人 feel faint 是发虚欲晕；fainting 则常说短暂失去意识的事件。历史联系不替代现代句子里的实际区别。",
+    "forms": "faint 的形容、动词用法；-ly 微弱地，-ing 昏厥活动或动词形式。",
+    "branches": [
+      [
+        "微弱性质、方式与昏厥活动",
+        "faint · faintly · fainting"
+      ]
+    ],
+    "contrasts": "faint sound 是声音弱；feel faint 不直接等于已经发生 fainting。",
+    "practice": "The character spoke faintly and described feeling faint before fainting.\n\n故事人物微弱地说话，描述了昏厥前感到发虚的经历。",
+    "words": [
+      "faint",
+      "faintly",
+      "fainting"
+    ],
+    "exclude": {
+      "fainter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4251",
+    "meaning": "轮廓被抹开，影像和概念都失去清楚边界",
+    "core": "BLUR：有东西在那里，但边界糊到一起了",
+    "image": "blur → blurred、blurry，动作与结果、性质相连。",
+    "intro": "照片失焦给最直观画面，记忆模糊、工作生活界限不清再借同样形象。两种形容形式常可重叠使用，不强造绝对区分。",
+    "forms": "blurre → blur，可能接 blear；双写 r + -ed → blurred，+ -y → blurry。",
+    "branches": [
+      [
+        "模糊动作、结果与性质",
+        "blur · blurred · blurry"
+      ]
+    ],
+    "contrasts": "blurred 与 blurry 常重叠；blurry 不只因为光线暗，dim 的重点不同。",
+    "practice": "The blurred photograph left only a blurry outline.\n\n那张模糊的照片只留下一个不清楚的轮廓。",
+    "words": [
+      "blur",
+      "blurred",
+      "blurry"
+    ],
+    "exclude": {
+      "anti-blur": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4209",
+    "meaning": "成片绿绒般的植物与覆盖状态",
+    "core": "MOSS：石头上长出一层柔软绿绒",
+    "image": "moss → mossy，植物名与覆盖性质直接连接。",
+    "intro": "旧名称还联系湿地范围，现代先记具体苔藓。mosey 的常用慢悠悠走动义来源未定，不由 moss + -y 的表面拼写来解释。",
+    "forms": "mos → moss；moss + -y → mossy。\n\n古英语 meos 苔藓、mos 沼地及北欧等形式同接潮湿词族；植物、沼泽哪义最先不能确排。mosses 常数苔藓种类、不同植物，不要求普通一层苔藓每次都复数。",
+    "branches": [
+      [
+        "苔藓与覆苔状态",
+        "moss · mossy"
+      ],
+      [
+        "moss → mosses：苔藓植被与种类复数",
+        "moss · mosses"
+      ]
+    ],
+    "contrasts": "苔藓、地衣、藻类不因都发绿就相同；mosey 常用动词的历史另辨。",
+    "practice": "Moss grew over the old wall and made the stones mossy.\n\n苔藓爬上旧墙，让石块长满绿苔。",
+    "words": [
+      "moss",
+      "mossy",
+      "mosses"
+    ],
+    "exclude": {
+      "moss-grown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mosey": "mosey 常用的慢悠悠走、动身义来源未定，与 moss 并无已确认的直接派生关系。"
+    }
+  },
+  {
+    "id": "B4284",
+    "meaning": "机体怎样运作，再按疾病状态、神经系统限定",
+    "core": "PHYSIOLOGY：先看功能，再问在什么状态、哪个系统",
+    "image": "physiology → physiological；pathophysiology、neurophysiology 用前缀限定研究范围。",
+    "intro": "正常功能提供底图，疾病状态看功能怎样变，神经前缀看具体系统。研究结构与研究功能相互支持，但不必当成同一个词。",
+    "forms": "physiology；physiological 相应性质；patho- 疾病状态；neuro- 神经。",
+    "branches": [
+      [
+        "机能研究与相关性质",
+        "physiology · physiological"
+      ],
+      [
+        "疾病状态与神经系统范围",
+        "pathophysiology · neurophysiology"
+      ]
+    ],
+    "contrasts": "pathophysiology 聚焦疾病相关功能机制；neurophysiology 聚焦神经系统功能。",
+    "practice": "The physiology course introduces neurophysiology before discussing pathophysiology.\n\n生理学课程先介绍神经生理学，再讨论病理生理学。",
+    "words": [
+      "physiology",
+      "physiological",
+      "pathophysiology",
+      "neurophysiology"
+    ],
+    "exclude": {
+      "electrophysiology": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2777",
+    "meaning": "古老动物名、特殊复数与幼小个体，果名另看历史",
+    "core": "GOOSE：鹅的整体名，geese 是复数，gosling 是幼鹅",
+    "image": "goose → geese 的词形变化，与 gosling 的幼小名称分别理解；gooseberry 不编鹅吃果子的来历。",
+    "intro": "先认动物、群体、幼鹅三个层次。gosling 有北欧幼鹅名称的借入史；gooseberry 前半来源、命名理由仍有争议，现代外观不等于确定历史。",
+    "forms": "gos → goos → goose；geese 保留元音交替；北欧幼鹅形式 → gosling；gooseberry 作为固定果名另读。\n\ngoose → geese 保留旧 i 变音；它是这个词的历史形式，不能推广成所有 oo 都要变 ee。",
+    "branches": [
+      [
+        "鹅、复数与小鹅",
+        "goose · gosling"
+      ],
+      [
+        "果名及其口语比喻",
+        "gooseberry"
+      ],
+      [
+        "goose 与 geese：鹅的复数",
+        "goose · geese"
+      ]
+    ],
+    "contrasts": "geese 是多只鹅，gosling 是年龄名称；gooseberry 的前半起源不能单凭现代鹅名断定。",
+    "practice": "The goose watched its goslings while other geese rested nearby.\n\n那只鹅守着小鹅，其他鹅在附近休息。",
+    "words": [
+      "goose",
+      "gosling",
+      "gooseberry",
+      "geese"
+    ],
+    "exclude": {
+      "goose-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2012",
+    "meaning": "过程与状态，医学中的病理名称只是常见一支",
+    "core": "-OSIS：先认正在谈一种过程或状态，再看前面限定什么",
+    "image": "fibrosis、ketosis 等看具体组织、代谢变化；mitosis、metamorphosis 提醒这个词尾不只命名疾病。",
+    "intro": "名称前半提供变化对象，词尾把它作为过程、状态谈。医学词需要按完整术语理解，不能从一个后缀自行推断病因、程度或结局。",
+    "forms": "希腊语 -osis 动作、过程名词构词；fibro- 纤维，keto- 酮，endometri- 内膜词干；部分词有整词借入历史。",
+    "branches": [
+      [
+        "过程、变化与细胞活动",
+        "metamorphosis · mitosis · phagocytosis"
+      ],
+      [
+        "组织、功能与代谢状态",
+        "fibrosis · necrosis · stenosis · acidosis · ketosis · amyloidosis"
+      ],
+      [
+        "固定疾病名称",
+        "psychosis · endometriosis"
+      ]
+    ],
+    "contrasts": "-osis 不自动等于疾病；ketosis 与 ketoacidosis、endometriosis 与 endometritis 均需读完整词。",
+    "practice": "The glossary places mitosis, fibrosis and ketosis under the broad idea of processes or states.\n\n词汇表把有丝分裂、纤维化和酮症放在过程或状态这一宽泛构词概念下理解。",
+    "words": [
+      "psychosis",
+      "metamorphosis",
+      "necrosis",
+      "stenosis",
+      "mitosis",
+      "acidosis",
+      "amyloidosis",
+      "phagocytosis",
+      "fibrosis",
+      "endometriosis",
+      "ketosis"
+    ],
+    "exclude": {
+      "sarcoidosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "toxoplasmosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurofibromatosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brucellosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leptospirosis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

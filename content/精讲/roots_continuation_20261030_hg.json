@@ -1,0 +1,118 @@
+[
+  {
+    "id": "B2804",
+    "meaning": "针销的固定、细小形状，以及基础支撑",
+    "core": "PIN：小针能固定东西，也能把位置和希望钉在一点上",
+    "image": "pin → pinned；underpin 下方支撑；pinstripe 细线；pinhead 小头；pinball、pincushion 按用途组合。",
+    "intro": "基本针销、数字置顶、理论基础放进不同分支。细小和固定是两种主要联想，球机、条纹、针头分别取不同特点。",
+    "forms": "pinn → pin；pin + -ed 双写 n；under- + pin；pin + ball/stripe/head/cushion/point/hole；king/hair + pin。\n\n名词可转为固定的动作，电子界面的置顶是后来的比喻。\n\n器物形态成为道路弯曲形状的比喻。\n\n器物名沿用，现代可采用弹簧夹式结构。",
+    "branches": [
+      [
+        "固定动作与基础",
+        "pin · pinned · underpin"
+      ],
+      [
+        "细小形态和位置",
+        "pinstripe · pinhead · pinpoint · pinhole"
+      ],
+      [
+        "游戏、针具及其他组合",
+        "pinball · pincushion · hairpin · kingpin"
+      ],
+      [
+        "pin → pins：小钉、别针、固定",
+        "pin · pins"
+      ],
+      [
+        "hairpin → hairpins：发夹到发夹形急转弯",
+        "pin · hairpin · hairpins"
+      ],
+      [
+        "pin 的晾衣工具组合及复数",
+        "pin · clothespin · clothespins"
+      ]
+    ],
+    "contrasts": "pinned/highlighted 置顶与高亮；underpin 不必实物针；pinhead 人物义冒犯；pinball 不等于保龄球。",
+    "practice": "The pinned note explains how to store pins in the pincushion.\n\n钉住的便条说明了怎样把别针收在针插上。",
+    "words": [
+      "pin",
+      "pinned",
+      "underpin",
+      "pinstripe",
+      "pinhead",
+      "pinpoint",
+      "pinhole",
+      "pinball",
+      "pincushion",
+      "hairpin",
+      "kingpin",
+      "pins",
+      "hairpins",
+      "clothespin",
+      "clothespins"
+    ],
+    "exclude": {
+      "pinner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2464",
+    "meaning": "钟铃、时钟和运行节拍；方向和机械机构",
+    "core": "CLOCK：从报时钟到计时，再到电子运行节拍",
+    "image": "clock → clockwise 方向、clockwork 机构；overclock 在电子节拍上超出标定频率。",
+    "intro": "钟面、钟内部机构、电子时钟是不同层面。顺时针不等于发条机构，超频也不等于改显示时间。",
+    "forms": "clocca/clocke → clock；clock + -wise/work；counter-/anti- + clockwise；over- + clock。",
+    "branches": [
+      [
+        "计时及转动方向",
+        "clock · clockwise · counterclockwise · anticlockwise"
+      ],
+      [
+        "机械机构和电子频率",
+        "clockwork · overclock"
+      ]
+    ],
+    "contrasts": "clock/watch 钟与随身表；clockwise/clockwork 方向与机构；overclock 不改变同一意义的系统日期时间。",
+    "practice": "The clockwork toy turned clockwise while the wall clock ticked.\n\n墙上时钟滴答响时，发条玩具顺时针转动。",
+    "words": [
+      "clock",
+      "clockwise",
+      "counterclockwise",
+      "anticlockwise",
+      "clockwork",
+      "overclock"
+    ],
+    "exclude": {
+      "bum-clock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3455",
+    "meaning": "杀死者、致命物，以及很强烈、很出色的比喻",
+    "core": "KILLER：造成死亡，也能夸张说强烈、厉害",
+    "image": "killer 杀手、致命物；killer performance 出色表演；painkiller 是镇痛药的组合名。",
+    "intro": "同词可是真实伤害，也可是强调强度的夸张。painkiller 按减轻疼痛的药物理解，不把杀这个字当永久根治所有病因。",
+    "forms": "kill + -er → killer；pain + killer → painkiller。",
+    "branches": [
+      [
+        "施事、致命性和强度比喻",
+        "killer"
+      ],
+      [
+        "镇痛药物组合",
+        "painkiller"
+      ]
+    ],
+    "contrasts": "killer 的出色、强烈义看搭配；painkiller 名称不说明适合谁、剂量多少或是否根治病因。",
+    "practice": "The review called her final song a killer performance.\n\n评论称她最后那首歌的表演十分出色。",
+    "words": [
+      "killer",
+      "painkiller"
+    ],
+    "exclude": {
+      "man-killer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-killer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cop-killer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

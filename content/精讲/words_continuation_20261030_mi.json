@@ -1,0 +1,391 @@
+[
+  {
+    "word": "accelerometer",
+    "ipa": "英 /əkˌseləˈrɒmɪtə/；美 /əkˌseləˈrɑːmɪtər/",
+    "meaning": "加速度计",
+    "sense": "速度不仅有快慢，也有方向；改变快慢或方向就涉及加速度。accelerometer 是测这类运动量的仪器，不只是看当前跑多快。",
+    "split": "acceler- 加速词干 + 连接元音 -o- + -meter 测量仪，来自 accelerate 词族。-meter 联系度量，不是人物后缀。",
+    "history": [
+      [
+        "拉丁 celer 迅速 → accelerare",
+        "使加快；前缀 ad- 在相邻音前同化"
+      ],
+      [
+        "英语 accelerate 词族",
+        "加快过程、促成物、测量仪各按后部区分"
+      ],
+      [
+        "acceler- + -o- + -meter",
+        "测量加速度的仪器"
+      ]
+    ],
+    "explanation": "an accelerometer sensor 加速度传感器，accelerometer data 加速度计数据，measure acceleration 测量加速度。",
+    "usage": "accelerometer data；an accelerometer sensor。",
+    "contrast": "speedometer 测速度，accelerometer 测加速度；匀速转弯也涉及方向变化，不能把加速度只记成越来越快。",
+    "examples": [
+      [
+        "The accelerometer recorded the vehicle’s motion during the test.",
+        "加速度计记录了测试中车辆的运动情况。"
+      ],
+      [
+        "The researchers used accelerometer data to compare the movements.",
+        "研究人员用加速度计数据比较这些运动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accelerometer#English"
+    ]
+  },
+  {
+    "word": "accelerant",
+    "ipa": "/əkˈselərənt/",
+    "meaning": "促进物、促进剂；〔尤指〕助燃物",
+    "sense": "某个过程本来在走，加了一个因素后跑得更快，这个促进因素可以 accelerant；火灾描述中常指让火势发展的物质。",
+    "split": "由 accelerate 词族接 -ant，表促成相应作用的物；形式为 acceler- + -ant，不能把完整 -ate 结尾保留后再机械叠加。",
+    "history": [
+      [
+        "拉丁 celer 迅速 → accelerare",
+        "使加快；前缀 ad- 在相邻音前同化"
+      ],
+      [
+        "英语 accelerate 词族",
+        "加快过程、促成物、测量仪各按后部区分"
+      ],
+      [
+        "acceler- + -ant → accelerant",
+        "促使过程加快的因素、物质"
+      ]
+    ],
+    "explanation": "an accelerant 促进物、助燃物，act as an accelerant 起促进作用；有实物、化学用法，也有抽象发展的比喻。",
+    "usage": "act as an accelerant；a possible accelerant。",
+    "contrast": "accelerant 常说促进作用的因素、物质，accelerator 也可说装置、踏板等；具体领域用词各有习惯。",
+    "examples": [
+      [
+        "Investigators found no trace of an accelerant at the scene.",
+        "调查人员在现场没有发现助燃物的痕迹。"
+      ],
+      [
+        "Better communication acted as an accelerant for the project.",
+        "更顺畅的沟通加快了项目推进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accelerant#English"
+    ]
+  },
+  {
+    "word": "generically",
+    "ipa": "/dʒəˈnerɪkli/",
+    "meaning": "一般地、按通用类别地；用通称地",
+    "sense": "不点名某个专属牌子、特殊版本，而把同类东西用一个总名称来叫，就是 refer to something generically。",
+    "split": "generic + -ally，-ic 形容词常以 -ically 构成副词；拼写有 -ally，常用读音中不必多读一个独立音节。",
+    "history": [
+      [
+        "generic 一般类别的、非特定的",
+        "突出类别共性而非某个独有名称"
+      ],
+      [
+        "generic + -ally → generically",
+        "按通用类别、一般方式称说"
+      ]
+    ],
+    "explanation": "refer to something generically 用通称指某物，be known generically as 统称为，describe something generically 作一般描述。",
+    "usage": "refer to generically；be known generically as。",
+    "contrast": "generically 说通用类别或一般性质；generally 更常说通常、总的来说，二者语境有重合但不总可互换。",
+    "examples": [
+      [
+        "These devices are known generically as sensors.",
+        "这类装置统称为传感器。"
+      ],
+      [
+        "The instructions refer to the material generically rather than naming a brand.",
+        "说明书使用材料通称，没有点出品牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generically#English"
+    ]
+  },
+  {
+    "word": "toe",
+    "ipa": "英 /təʊ/；美 /toʊ/",
+    "meaning": "脚趾；鞋、袜尖部；用脚尖碰、踢",
+    "sense": "脚最前端一根根的趾是 toes；覆盖它们的鞋头、袜尖也叫 toe。动词则把镜头放到脚尖怎样碰到东西。",
+    "split": "承古英语 tā、tāhe，经中古英语 to 等形式到 toe，属于日耳曼旧脚趾词。物体末端、动词用法沿形状和动作扩展。",
+    "history": [
+      [
+        "古英语 tā、tāhe → 中古英语 to → toe",
+        "脚趾及相应突出末端"
+      ],
+      [
+        "toe 的动词、后缀形式",
+        "用脚尖触及；toed 具有某种脚趾、鞋头的"
+      ]
+    ],
+    "explanation": "big toe 大脚趾，the toe of a shoe 鞋头，on one’s toes 踮脚；keep someone on their toes 比喻让人随时保持警觉。",
+    "usage": "big toe；on one’s toes；toe the line。",
+    "contrast": "toe the line 是脚尖贴线，后来比喻遵守规定、服从要求；不是用 tow 拖曳来拼。",
+    "examples": [
+      [
+        "She stood on her toes to reach the shelf.",
+        "她踮起脚去够架子。"
+      ],
+      [
+        "The hole was near the toe of the sock.",
+        "袜子的破洞靠近袜尖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toe#English"
+    ]
+  },
+  {
+    "word": "toed",
+    "ipa": "英 /təʊd/；美 /toʊd/",
+    "meaning": "有某种脚趾、鞋头的；toe 的过去式、过去分词",
+    "sense": "three-toed 说有三趾，round-toed 说鞋头圆；前面的词交代数量、形状，toed 交代有这样的脚趾或鞋头。",
+    "split": "toe + -ed，拼写时先去 e，再加完整 -ed；形容词表示具有相应部分，也可按上下文作 toe 动词的过去、完成形式。",
+    "history": [
+      [
+        "古英语 tā、tāhe → 中古英语 to → toe",
+        "脚趾及相应突出末端"
+      ],
+      [
+        "toe + -ed → toed",
+        "具有相应脚趾、鞋头；用脚尖触及过"
+      ]
+    ],
+    "explanation": "a three-toed sloth 三趾树懒，round-toed shoes 圆头鞋；本形容词特别常见于有前项限定的组合。",
+    "usage": "three-toed；round-toed shoes。",
+    "contrast": "-ed 在这里读 /d/；具有某种部分的形容词，不都表示过去时间。",
+    "examples": [
+      [
+        "The three-toed sloth moved slowly along the branch.",
+        "三趾树懒沿树枝慢慢移动。"
+      ],
+      [
+        "She wore a pair of round-toed shoes.",
+        "她穿着一双圆头鞋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toed#English"
+    ]
+  },
+  {
+    "word": "flaw",
+    "ipa": "英 /flɔː/；美 /flɔː/",
+    "meaning": "缺陷、瑕疵；漏洞",
+    "sense": "完整的东西里有个破口，计划里有个没考虑周全的地方，都可以 a flaw。它抓的是让整体不够完善的那一处。",
+    "split": "中古英语 flawe 原有碎片、薄片等义，可能接北欧石片词。缺陷义通常联系破掉、缺了一片的画面，具体语义衔接仍有推测。",
+    "history": [
+      [
+        "中古英语 flawe 等碎片、薄片词",
+        "可能接北欧 flaga 石片等，更远联系扁平物词族"
+      ],
+      [
+        "碎片、破口的形象 → flaw",
+        "缺点、裂隙、瑕疵，具体演变有推测成分"
+      ]
+    ],
+    "explanation": "a flaw in the argument 论证漏洞，a design flaw 设计缺陷，a flaw in a gem 宝石瑕疵；可以很小，也可以很关键。",
+    "usage": "a flaw in；a design flaw。",
+    "contrast": "flaw 是缺陷，不一定是某个人犯下的一次 mistake；材料天生的瑕疵也可叫 flaw。",
+    "examples": [
+      [
+        "She spotted a flaw in the argument.",
+        "她发现论证里有个漏洞。"
+      ],
+      [
+        "The bowl had a small flaw in the glaze.",
+        "碗的釉面上有一处小瑕疵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flaw#English",
+      "https://www.etymonline.com/word/flaw"
+    ]
+  },
+  {
+    "word": "flawed",
+    "ipa": "英 /flɔːd/；美 /flɔːd/",
+    "meaning": "有缺陷、不完善的",
+    "sense": "东西整体摆在那里，但里面存在会影响它的缺点，就是 flawed；论证 flawed 可能因为其中某一步站不住。",
+    "split": "flaw + -ed，形成具有缺陷的状态形容词，也有相关动词分词用法；末尾读 /d/。",
+    "history": [
+      [
+        "中古英语 flawe 等碎片、薄片词",
+        "可能接北欧 flaga 石片等，更远联系扁平物词族"
+      ],
+      [
+        "碎片、破口的形象 → flaw",
+        "缺点、裂隙、瑕疵，具体演变有推测成分"
+      ],
+      [
+        "flaw + -ed → flawed",
+        "具有缺陷的状态"
+      ]
+    ],
+    "explanation": "a flawed argument 有漏洞的论证，a flawed design 有缺陷的设计，a deeply flawed plan 问题很大的计划。",
+    "usage": "a flawed argument；a flawed design。",
+    "contrast": "flawed 不自动等于毫无价值；一个人物、作品可以有缺陷又有优点。",
+    "examples": [
+      [
+        "The conclusion was based on flawed assumptions.",
+        "结论建立在有缺陷的假设上。"
+      ],
+      [
+        "The novel presents a flawed but sympathetic hero.",
+        "小说塑造了一位有缺点却令人同情的主人公。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flawed#English"
+    ]
+  },
+  {
+    "word": "flawless",
+    "ipa": "英 /ˈflɔːləs/；美 /ˈflɔːləs/",
+    "meaning": "无瑕疵的；完美、毫无差错的",
+    "sense": "检查不到瑕疵、表演没有失误，就可以 flawless。它是在某个评价范围里强调挑不出毛病。",
+    "split": "flaw + -less，-less 表没有。把缺陷名词变成无缺陷的性质。",
+    "history": [
+      [
+        "中古英语 flawe 等碎片、薄片词",
+        "可能接北欧 flaga 石片等，更远联系扁平物词族"
+      ],
+      [
+        "碎片、破口的形象 → flaw",
+        "缺点、裂隙、瑕疵，具体演变有推测成分"
+      ],
+      [
+        "flaw + -less → flawless",
+        "没有缺陷、差错"
+      ]
+    ],
+    "explanation": "a flawless performance 完美表演，flawless technique 无可挑剔的技巧，flawless skin 无瑕肌肤；赞美中也可有夸张。",
+    "usage": "a flawless performance；flawless technique。",
+    "contrast": "flawless 是较强的无瑕评价；不一定能从一次 flawless 表现推断以后每次都不会出错。",
+    "examples": [
+      [
+        "She gave a flawless performance in the final round.",
+        "她在最后一轮表现得毫无差错。"
+      ],
+      [
+        "The restoration left the surface looking almost flawless.",
+        "修复让表面看起来近乎无瑕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flawless#English"
+    ]
+  },
+  {
+    "word": "sketch",
+    "ipa": "/sketʃ/",
+    "meaning": "素描、草图；简述；短喜剧；画草图",
+    "sense": "几笔先画出大概形状，不急着补齐细节，是 sketch。语言也能画轮廓：简要介绍一个人、一段经历；舞台上则可是一小段喜剧。",
+    "split": "经荷兰 schets、低地德语等接意大利 schizzo。更远有拉丁、希腊即兴词及飞溅词等不同解释，近源比远源更清楚。",
+    "history": [
+      [
+        "意大利 schizzo → 荷兰 schets、低地德语等 → sketch",
+        "素描、草图；意大利词更远有不同解释"
+      ],
+      [
+        "简略画出轮廓 → 简述、短小表演",
+        "少量笔触先抓大体形状"
+      ]
+    ],
+    "explanation": "a pencil sketch 铅笔素描，sketch out a plan 勾勒计划，a comedy sketch 一段喜剧小品，a biographical sketch 生平简述。",
+    "usage": "a pencil sketch；sketch out；a comedy sketch。",
+    "contrast": "sketch 可以有意保留简略，不等于画得失败；drawing 范围更广，不一定只是草稿。",
+    "examples": [
+      [
+        "She made a quick sketch of the house.",
+        "她很快画了一幅房子的草图。"
+      ],
+      [
+        "He sketched out the main stages of the project.",
+        "他简要说明了项目的主要阶段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sketch#English",
+      "https://www.etymonline.com/word/sketch"
+    ]
+  },
+  {
+    "word": "sketchy",
+    "ipa": "/ˈsketʃi/",
+    "meaning": "粗略、不完整的；〔口语〕可疑、不可靠的",
+    "sense": "草图只交代几笔，细节还没补齐，所以消息 sketchy 是信息不完整。东西交代不清、让人信不过，也发展出可疑义。",
+    "split": "sketch + -y，从像草图一样简略、不完善，扩展为依据薄弱、质量可疑的口语评价。",
+    "history": [
+      [
+        "意大利 schizzo → 荷兰 schets、低地德语等 → sketch",
+        "素描、草图；意大利词更远有不同解释"
+      ],
+      [
+        "简略画出轮廓 → 简述、短小表演",
+        "少量笔触先抓大体形状"
+      ],
+      [
+        "sketch + -y → sketchy",
+        "粗略、不完整；再说可疑、不可靠"
+      ],
+      [
+        "sketch + -y → sketchy",
+        "粗略不完整 → 可疑、不可靠"
+      ]
+    ],
+    "explanation": "sketchy details 零散、不完整的细节，sketchy information 不完整消息，a sketchy website 可疑网站。",
+    "usage": "sketchy details；sketchy information。",
+    "contrast": "sketchy details 不必表示消息已经被证实为假；可能只是掌握得少。口语可疑义要看修饰对象。",
+    "examples": [
+      [
+        "Details of the accident were still sketchy.",
+        "事故细节仍不完整。"
+      ],
+      [
+        "The offer sounded sketchy, so she asked more questions.",
+        "那个提议听着不太可靠，她便多问了几个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sketchy#English"
+    ]
+  },
+  {
+    "word": "ceaseless",
+    "ipa": "/ˈsiːsləs/",
+    "meaning": "不停的、持续不断的",
+    "sense": "浪一阵接一阵、工作一件接一件，好像没有停下的空隙，就 ceaseless。它强调持续，而不必承诺永远不会结束。",
+    "split": "cease 停止 + -less 没有；形成不停止的性质。词中 cease 末尾 e 保留，后接 -less。",
+    "history": [
+      [
+        "cease 停止",
+        "经法语 cesser 接拉丁 cessare 一族"
+      ],
+      [
+        "cease + -less → ceaseless",
+        "没有停止、停顿的"
+      ]
+    ],
+    "explanation": "ceaseless rain 连绵不停的雨，ceaseless effort 不懈努力，ceaseless noise 不停噪声；书面感比 nonstop 往往更强。",
+    "usage": "ceaseless rain；ceaseless effort。",
+    "contrast": "ceaseless 常对某段经历作持续评价，不总是严格数学意义的无限时间；也可以赞努力，或抱怨噪声。",
+    "examples": [
+      [
+        "The ceaseless noise made it hard to concentrate.",
+        "不停的噪声让人难以集中注意力。"
+      ],
+      [
+        "Her ceaseless efforts finally brought a result.",
+        "她不懈的努力终于有了结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ceaseless#English"
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "B2609",
+    "meaning": "落下、倒下、下降；状态变化与固定复合词",
+    "core": "FALL：从原位落下，再到数量、地位和状态",
+    "image": "falling 正落，fallen 已落；rainfall 雨落，windfall 风落物及意外收获；下坠画面在各词中有不同固定结果。",
+    "intro": "fall 继承古英语 feallan，过去式 fell、分词 fallen。fall asleep、fall in love 按固定搭配理解，不能把所有状态变化都直译向下掉。offal 则保留分出、落下边余料的旧构词。",
+    "forms": "fall → fallen、befall；rain、wind、night + fall 是不同事件；downfall 垮台，pitfall 隐患；outfall 排放口，offal 另分出的食材部分。\n\nfall → fell → fallen；另一个同族使役动词 fell 是使倒下、砍倒，过去式 felled。\n\nfall 的落下词族，扩到下降、倒下与 falling asleep 等固定用法。\n\n本族落下词延续，名词按具体落下、季节等用途发展。\n\nwind 风加 fall 落下，早指风吹落的木、果等，后写意外利益；wind 在这里读 /wɪnd/。不必每笔意外所得都巨大。",
+    "branches": [
+      [
+        "基础、完成与降临",
+        "fall · fallen · befall"
+      ],
+      [
+        "自然现象及落地",
+        "rainfall · waterfall · windfall · nightfall · landfall"
+      ],
+      [
+        "跌落及后果",
+        "downfall · pitfall · shortfall · fallout · freefall · footfall"
+      ],
+      [
+        "排出及分出物",
+        "outfall · offal"
+      ],
+      [
+        "自己倒下与使它倒下：两套 fell 用法",
+        "fall · fell · fallen"
+      ],
+      [
+        "fall → falling：往下、变少与进入某状态",
+        "fall · falling"
+      ],
+      [
+        "fall → falls：落下、瀑布与秋季",
+        "fall · falls"
+      ],
+      [
+        "windfalls：风吹落物与意外所得",
+        "windfall · windfalls"
+      ]
+    ],
+    "contrasts": "falling 正在落，fallen 已落；windfall 意外收获，downfall 垮台；outfall 与 fallout 不同；offal 不是 awful。",
+    "practice": "The fallen apples were a windfall, but the slippery path was a pitfall.\n\n落下的苹果是意外收获，湿滑小路却是个容易踩中的隐患。",
+    "words": [
+      "fall",
+      "fallen",
+      "befall",
+      "rainfall",
+      "waterfall",
+      "windfall",
+      "nightfall",
+      "landfall",
+      "downfall",
+      "pitfall",
+      "shortfall",
+      "fallout",
+      "freefall",
+      "footfall",
+      "outfall",
+      "offal",
+      "fell",
+      "falling",
+      "falls",
+      "windfalls"
+    ],
+    "exclude": {
+      "fall-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "near-fall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-fall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skyfall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "faller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

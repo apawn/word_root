@@ -1,0 +1,65 @@
+[
+  {
+    "id": "B2564",
+    "meaning": "黑、暗及相关命名；遮蔽、排斥等引申",
+    "core": "BLACK：先看颜色，再看具体命名和固定比喻",
+    "image": "黑板、黑莓、铁匠各有命名对象；抹黑、勒索、禁止名单则各有历史和用法，不能一个黑字全包。",
+    "intro": "black 接古英语 blæc。blackmail 的 mail 是旧租金、贡赋词，不能按电子邮件理解；blackbird、blackcurrant 等固定名也不按所有字面颜色对象泛化。",
+    "forms": "black → blacken、blackish、blackness；blackboard、blacksmith、果类鸟类相邻分组；blackmail、blacklist、blackout、blackjack 分别讲固定历史、机制和多义。",
+    "branches": [
+      [
+        "颜色、性质与变化",
+        "black · blacken · blackish · blackness"
+      ],
+      [
+        "器物、工匠与具体生物",
+        "blackboard · blacksmith · blackberry · blackcurrant · blackbird · blackhead · blacktop"
+      ],
+      [
+        "勒索、排斥、中断和牌戏",
+        "blackmail · blacklist · blackout · blackjack"
+      ],
+      [
+        "既有社会文化用法精讲",
+        "blackface"
+      ]
+    ],
+    "contrasts": "blackmail 的 mail 不是邮件；blackbird 鸟名不等于所有黑鸟；blackout 中断事件，blackness 黑暗状态；blacklist 禁止、whitelist 允许。",
+    "practice": "During the blackout, only the outline of the blackboard was visible.\n\n停电时，只能隐约看见黑板轮廓。",
+    "words": [
+      "black",
+      "blacken",
+      "blackish",
+      "blackness",
+      "blackboard",
+      "blacksmith",
+      "blackberry",
+      "blackcurrant",
+      "blackbird",
+      "blackhead",
+      "blacktop",
+      "blackmail",
+      "blacklist",
+      "blackout",
+      "blackjack",
+      "blackface"
+    ],
+    "exclude": {
+      "pro-black": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pitch-black": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jet-black": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "black-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "black-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "black-coated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tar-black": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "black-clad": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "black-throated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blacker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackwall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackguard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

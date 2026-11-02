@@ -1,0 +1,151 @@
+[
+  {
+    "id": "B4172",
+    "meaning": "在前、提前与最前列",
+    "core": "FORE：空间在前，也能变成时间提前和重要性靠前",
+    "image": "fore 认识前方意象，first 已精讲；foremost 保留旧最高级历史，forward 及后续放一起。",
+    "intro": "古英语 fore 的在前意象很稳定。foremost 后来受到 fore + most 的重新理解影响，历史起点仍是旧最高级。较旧的 afore 暂略。",
+    "forms": "fore → first〔旧最高级亲缘〕、foremost〔旧形重析〕；fore + -ward → forward → forwards、forwarder。",
+    "branches": [
+      [
+        "前方与最前列",
+        "fore · first · foremost"
+      ],
+      [
+        "向前与转交",
+        "forward · forwards · forwarder"
+      ]
+    ],
+    "contrasts": "fore 与 four 常同音但不同义；foremost 不简单从现代 fore 新造；foreword 前言不等于 forward 转发。",
+    "practice": "First and foremost, we need a clear way forward.\n\n首先，我们需要明确下一步怎么走。",
+    "words": [
+      "fore",
+      "first",
+      "foremost",
+      "forward",
+      "forwards",
+      "forwarder"
+    ],
+    "exclude": {
+      "afore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3836",
+    "meaning": "向前、继续推进与转交",
+    "core": "FORWARD：方向是往前，转发是送往下一站",
+    "image": "forward 后紧跟 forwards、forwarder，straightforward 已有精讲一起复习。",
+    "intro": "古英语朝前词后来有推进、转交义。副词 -s 与现代动词、名词的 -s 要分清。",
+    "forms": "forward → forwards、forwarder；straight + forward → straightforward。",
+    "branches": [
+      [
+        "基本方向与副词",
+        "forward · forwards"
+      ],
+      [
+        "转交主体与简明性质",
+        "forwarder · straightforward"
+      ]
+    ],
+    "contrasts": "forward 转发与 reply 回复；forwards 主要作副词，形容词通常 forward；forwarder 不必等于直接承运人。",
+    "practice": "The forwarder sent us a straightforward plan for moving the goods.\n\n货运代理给了我们一份清楚的运输方案。",
+    "words": [
+      "forward",
+      "forwards",
+      "forwarder",
+      "straightforward"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2889",
+    "meaning": "允许进入、放出与出租；另源阻碍义",
+    "core": "LET：放开限制，让事情发生",
+    "image": "先 let，再 inlet、outlet 的入口出口及 sublet 转租；分开球类 let 与 late 的另源联系。",
+    "intro": "允许、出租接 lǣtan，阻碍、重发球接 lettan。原表 letter 字母不作 let 的现代派生，避免拼写误归类。",
+    "forms": "in/out + let → inlet/outlet；sub- + let → sublet；late 与阻碍 let 的旧亲缘另讲，不接允许支线。\n\n普通允许支接古英语 laetan；阻碍、球类重发等另一支不混入本组。",
+    "branches": [
+      [
+        "允许、进出与出租",
+        "let · inlet · outlet · sublet"
+      ],
+      [
+        "另源辨析参照",
+        "late"
+      ],
+      [
+        "let → lets → letting：允许、出租与让事情发生",
+        "let · lets · letting"
+      ]
+    ],
+    "contrasts": "let me do 不加 to；出租 let 与允许同支；球类 let 的阻碍历史另支。",
+    "practice": "The valve lets air pass from the inlet to the outlet.\n\n阀门让空气从入口流向出口。",
+    "words": [
+      "let",
+      "inlet",
+      "outlet",
+      "sublet",
+      "late",
+      "lets",
+      "letting"
+    ],
+    "exclude": {
+      "re-let": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "letter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4001",
+    "meaning": "使用过、习惯与使用过度",
+    "core": "USED：读结构，分二手、过去常做和已经习惯",
+    "image": "used 的几种实用结构先讲，再让 unused、overused 紧随。",
+    "intro": "use 的分词在历史使用中形成固定构式，不能一个中文用过包办。发音 /zd/ 与 /st/ 也随用法变化。",
+    "forms": "use + -ed → used；un- + used；overuse → overused。",
+    "branches": [
+      [
+        "基本词形与结构",
+        "used"
+      ],
+      [
+        "否定与过度",
+        "unused · overused"
+      ]
+    ],
+    "contrasts": "used to do 过去常做；be used to doing 习惯；be used to cut 被用于切割。",
+    "practice": "The used machine sat unused because its controls were unfamiliar.\n\n这台二手机器因操作不熟悉而闲置着。",
+    "words": [
+      "used",
+      "unused",
+      "overused"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3287",
+    "meaning": "能力、力量与可能性",
+    "core": "MIGHT：句中可能；名词力气；MIGHTY：力量强",
+    "image": "一个拼写有两种词性历史，先分 might 的句法，再接 mighty 和 almighty。",
+    "intro": "古英语力量名词与能够动词同属旧能力词族，情态 might 是旧动词词形延续。mighty 从力量名词支线理解。",
+    "forms": "might〔力量〕→ mighty；all + mighty → almighty；might〔情态〕与 may 历史词形相关。",
+    "branches": [
+      [
+        "可能性与力量",
+        "might"
+      ],
+      [
+        "强大与全能",
+        "mighty · almighty"
+      ]
+    ],
+    "contrasts": "might 不总是过去；mighty 不表示更可能；almighty 一 l，日常还可夸大程度。",
+    "practice": "It might take a mighty effort to clear the fallen tree.\n\n清除倒下的树可能要费很大的劲。",
+    "words": [
+      "might",
+      "mighty",
+      "almighty"
+    ],
+    "exclude": {
+      "might-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

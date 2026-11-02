@@ -1,0 +1,93 @@
+[
+  {
+    "id": "B4501",
+    "meaning": "心理学相关性质，以及神经系统与心理能力关系的进一步限定",
+    "core": "PSYCHOLOGICAL：心理层面；NEUROPSYCHOLOGICAL：连接神经与心理",
+    "image": "psychological → psychologically；neuropsychological 加入神经研究的焦点。",
+    "intro": "前缀不是装饰。加上 neuro- 后，讨论焦点从一般心理现象进一步落到神经系统与认知、行为的关系。",
+    "forms": "psychology → psychological；-ly 副词；neuro- 神经 + psychological。",
+    "branches": [
+      [
+        "基础性质与副词",
+        "psychological · psychologically"
+      ],
+      [
+        "研究对象的限定",
+        "neuropsychological"
+      ]
+    ],
+    "contrasts": "psychological 不等于虚构；neuropsychological 是领域限定，不是单个诊断名称。",
+    "practice": "The chapter connects psychological theories with neuropsychological evidence.\n\n这一章把心理学理论与神经心理学证据联系起来。",
+    "words": [
+      "psychological",
+      "psychologically",
+      "neuropsychological"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3651",
+    "meaning": "执行、完成的抽象概念，以及执行刑罚等专门扩展",
+    "core": "EXECUTION：落实到完成；EXECUTIONER：专指行刑人物",
+    "image": "execution → executioner；electrocution 另是电击致死等相关历史造词。",
+    "intro": "人物词和拼合新词都可能固定专门含义。不能因为 execution 范围广，就把 executioner 当所有执行任务的人。",
+    "forms": "拉丁 exsequī、相应名词经法语等 → execution；-er 人物；electrocution 有 electricity 与 execution 的拼合关系。",
+    "branches": [
+      [
+        "执行与专门人物",
+        "execution · executioner"
+      ],
+      [
+        "历史拼合词",
+        "electrocution"
+      ]
+    ],
+    "contrasts": "executioner 行刑者与 executor 遗嘱执行人、任务执行者不同；具体看已经形成的词义。",
+    "practice": "The lesson explains why the word executioner has a narrower meaning than execution.\n\n这课说明 executioner 为什么比 execution 的一般意义更窄。",
+    "words": [
+      "execution",
+      "executioner",
+      "electrocution"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3728",
+    "meaning": "折叠、展开及组织容器；另辨羊圈、群体同形词",
+    "core": "FOLD：弯回收拢；UNFOLD：打开、逐渐显露",
+    "image": "fold → folder、foldable；unfold 反向展开；centerfold、gatefold 是具体折页名称。",
+    "intro": "纸、家具、故事与经营状态的扩展，各抓住收起或展开的一部分关系。羊圈 fold 的直接来源另看。",
+    "forms": "fealdan → fold 折叠；falod → fold 围栏；-er 器具、容器，-able 能力，un- 反转。\n\ner 接折叠动词，不接羊圈名词 fold 的另一来源。\n\nfold 承古英语折回、弯曲材料，现代加 -ed，/d/ 后读 /ɪd/。折叠、屈服、停办等动词义属于这一词线；羊圈名 fold 另源。",
+    "branches": [
+      [
+        "基础、容器与能力",
+        "fold · folder · foldable"
+      ],
+      [
+        "展开与折页名称",
+        "unfold · centerfold · gatefold"
+      ],
+      [
+        "folder → folders：折合夹具与文件组织名称",
+        "fold · folder · folders"
+      ],
+      [
+        "fold → folded：折叠、抱臂与停止经营",
+        "folded"
+      ]
+    ],
+    "contrasts": "folder 不总是人物；foldable 不要求材料柔软；return to the fold 接羊圈、群体旧义。",
+    "practice": "She unfolded the sheet and placed it in a folder beside the foldable table.\n\n她展开纸张，放入折叠桌旁的文件夹。",
+    "words": [
+      "fold",
+      "folder",
+      "foldable",
+      "unfold",
+      "centerfold",
+      "gatefold",
+      "folders",
+      "folded"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3217",
+    "meaning": "术法、魔术与神奇体验",
+    "core": "MAGIC：让人觉得超出平常理解的力量或效果",
+    "image": "magic → magical → magically；magician 作为人物名词与前三词相邻。",
+    "intro": "近源经法语、拉丁语接希腊语，早期伊朗称谓背景不能随意改写成现代英语零件。舞台魔术、奇幻法力、体验魅力分场景讲。",
+    "forms": "magic + -al → magical；magical + -ly → magically；magician 与法语人物词有关，注意 /məˈdʒɪʃən/。",
+    "branches": [
+      [
+        "基本概念及性质、方式",
+        "magic · magical · magically"
+      ],
+      [
+        "人物",
+        "magician"
+      ]
+    ],
+    "contrasts": "magic 与 magical 都可作形容词但搭配不同；magically 不等于 automatically；magician 是人物。",
+    "practice": "The magician created a magical atmosphere with a simple magic trick.\n\n魔术师用一个简单魔术营造了神奇气氛。",
+    "words": [
+      "magic",
+      "magical",
+      "magically",
+      "magician"
+    ],
+    "exclude": {
+      "counter-magic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3790",
+    "meaning": "审看后决定授予；奖项和获授方",
+    "core": "AWARD：评判之后，正式决定给谁",
+    "image": "award → awardee：先讲授予和所授之物，再讲接受者。",
+    "intro": "近源是法语判断、裁定；不把历史写成英语 a 与 ward 的生硬组合。赔偿、合同、奖项都能接正式决定这条线。",
+    "forms": "award + -ee；award someone something / award something to someone。\n\n观察、考虑后裁定的借词背景，名动词都有常见形式。\n\n盎格鲁法语考虑、裁定词进入英语，再有奖项名词。",
+    "branches": [
+      [
+        "正式给予与接受者",
+        "award · awardee"
+      ],
+      [
+        "award → awards：裁定与奖项",
+        "award · awards"
+      ],
+      [
+        "award → awarded：裁定后授予",
+        "award · awarded"
+      ]
+    ],
+    "contrasts": "award 正式授予，reward 回报；awardee 接受者；award a contract 不等于给合同颁奖。",
+    "practice": "The committee announced the award and congratulated the awardee.\n\n委员会公布了奖项，并向获奖者表示祝贺。",
+    "words": [
+      "award",
+      "awardee",
+      "awards",
+      "awarded"
+    ],
+    "exclude": {
+      "award-winning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2793",
+    "meaning": "天气；受风雨作用；经受风波",
+    "core": "WEATHER：外面的晴雨冷暖，也是一场要撑过去的风雨",
+    "image": "weather → weathering、weathered；职业 weatherman、防护 weatherproof 随后。",
+    "intro": "从古英语天气名词讲起。动词风化与挺过风波分开举例，避免只按天气一个中文义硬套。",
+    "forms": "weather + -ing/-ed；weather + man；weather + -proof。\n\nwither 通常联系旧天气、经风吹日晒的词族；withering 的尖刻评价可像让人蔫掉。植物与人物的不同记录都很早，不硬排成现代才有抽象义。",
+    "branches": [
+      [
+        "天气、风化与经受",
+        "weather · weathering · weathered"
+      ],
+      [
+        "预报与防护",
+        "weatherman · weatherproof"
+      ],
+      [
+        "witheringly：像把气势一下晒蔫的讥讽",
+        "weather · wither · withering · witheringly"
+      ]
+    ],
+    "contrasts": "weather/whether 常同音；weather/climate 时间尺度不同；weathering/erosion 改变与搬移侧重不同；weatherproof 不等于任何天气都绝对无损。",
+    "practice": "The weatherman predicted rain, so we covered the weathered bench with a weatherproof sheet.\n\n预报员说会下雨，于是我们给风吹日晒的长椅盖上一张防风雨罩布。",
+    "words": [
+      "weather",
+      "weathering",
+      "weathered",
+      "weatherman",
+      "weatherproof",
+      "wither",
+      "withering",
+      "witheringly"
+    ],
+    "exclude": {
+      "weather-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "weatherly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

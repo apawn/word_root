@@ -1,0 +1,366 @@
+[
+  {
+    "word": "spoke",
+    "ipa": "英 /spəʊk/；美 /spoʊk/",
+    "meaning": "辐条；说了、讲话了〔speak 的过去式〕",
+    "sense": "自行车轮中心伸向轮圈的细杆是 a spoke；She spoke 则是她说了话。同样拼写，先看它在句里是东西还是动作。",
+    "split": "辐条名词接古英语 spāca，经中古英语 spoke 延续，可能与尖杆、钉状物词族有关，更远来源不完全确定。说话的 spoke 属 speak—spoke—spoken 的强变化词形，不能从车轮辐条推出来。",
+    "history": [
+      [
+        "古英语 spāca → 中古英语 spoke → 名词 spoke",
+        "车轮的辐条；杆状支撑物"
+      ],
+      [
+        "speak 的旧强变化形式 → spoke、spoken",
+        "独立的说话词族：过去式与过去分词"
+      ]
+    ],
+    "explanation": "a wheel spoke 一根车轮辐条；spoke to someone 与某人说过话。put a spoke in someone’s wheel 可比喻给人添阻碍，画面是让轮子转不动。",
+    "usage": "a broken spoke；spoke clearly；spoke to。",
+    "contrast": "spokesman 的说话部分属于 speak 词族，不能讲成替辐条说话的人；have 后面的分词是 spoken，不是 spoke。",
+    "examples": [
+      [
+        "One spoke in the bicycle wheel was bent.",
+        "自行车轮上有一根辐条弯了。"
+      ],
+      [
+        "She spoke to the new teacher after class.",
+        "课后她和新老师说了话。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/spoke",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/spoke_1"
+    ]
+  },
+  {
+    "word": "unbroken",
+    "ipa": "英 /ʌnˈbrəʊkən/；美 /ʌnˈbroʊkən/",
+    "meaning": "未破损的；未中断的；连续完整的",
+    "sense": "杯子没碎是一种完整；两小时没有被打断的安静，也是一种完整。先看哪一种东西没有断开。",
+    "split": "古英语 unġebrocen 经中古英语延续，对应 un- 不、未 + broken。broken 是 break 的过去分词，这里否定破损或中断的状态。",
+    "history": [
+      [
+        "break → broken；古英语已有否定分词形式",
+        "破开、打断 → 破损、中断的"
+      ],
+      [
+        "un- + broken → unbroken",
+        "保持完整；一直连续"
+      ]
+    ],
+    "explanation": "an unbroken line 一条不断开的线；unbroken silence 持续的安静；an unbroken record 未被打破的纪录。具体是哪种完整，由后面的名词决定。",
+    "usage": "remain unbroken；an unbroken tradition。",
+    "contrast": "unbroken 不要求东西从未被修过；intact 常强调完整无损，uninterrupted 专强调未被打断，unbroken 可按对象覆盖这些关系。",
+    "examples": [
+      [
+        "The vase survived the journey unbroken.",
+        "花瓶一路运过来没有破损。"
+      ],
+      [
+        "We enjoyed two hours of unbroken silence.",
+        "我们享受了两个小时不受打扰的安静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbroken#English"
+    ]
+  },
+  {
+    "word": "brokenness",
+    "ipa": "英 /ˈbrəʊkənnəs/；美 /ˈbroʊkənnəs/",
+    "meaning": "破碎、受损的状态；内心受创的状态",
+    "sense": "broken 说东西或人处于受损的状态；brokenness 把这种状态本身拿出来谈，常见于文学、反思或情感表达。",
+    "split": "broken + -ness，把形容词性质变成抽象名词。broken 已可比喻精神、关系受创，名词也可接这些含义。",
+    "history": [
+      [
+        "break → broken",
+        "破损、破碎；内心受创"
+      ],
+      [
+        "broken + -ness → brokenness",
+        "把破碎、受损状态作为讨论对象"
+      ]
+    ],
+    "explanation": "a sense of brokenness 内心破碎之感；the brokenness of a relationship 一段关系受损的状态。日常说一件物品有几处故障，更常直接说明损坏部位。",
+    "usage": "human brokenness；a feeling of brokenness。",
+    "contrast": "brokenness 不等于 broken pieces 碎片；前者是状态，后者是具体碎块。breakage 更常说物品破损或破损数量，brokenness 更容易用于抽象、情感表达。",
+    "examples": [
+      [
+        "The poem gives voice to a deep sense of brokenness.",
+        "这首诗表达了一种深深的内心破碎感。"
+      ],
+      [
+        "The artist used cracked glass to suggest human brokenness.",
+        "艺术家用裂开的玻璃暗示人的脆弱与受创状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brokenness#English"
+    ]
+  },
+  {
+    "word": "hanger",
+    "ipa": "英 /ˈhæŋə/；美 /ˈhæŋər/",
+    "meaning": "衣架；悬挂物或挂东西的装置",
+    "sense": "把衣服托住、挂起来的那个架子。-er 在这里是器具，不是说一个职业叫挂衣服的人。",
+    "split": "中古英语 hanger、hangere 等延续，对应 hang + -er。常见衣架义由悬挂器具发展；另有 hunger 与 anger 混合成的口语同形词，不要用它解释衣架。",
+    "history": [
+      [
+        "hang + -er；中古英语已有相应形式",
+        "悬挂者、悬挂物或器具"
+      ],
+      [
+        "常见现代 hanger",
+        "衣架；其他悬挂装置"
+      ]
+    ],
+    "explanation": "a coat hanger 挂外套的衣架；a wooden hanger 木衣架；on a hanger 挂在衣架上。普通衣架义的 ng 后通常不另加 /ɡ/。",
+    "usage": "hang a jacket on a hanger；an empty hanger。",
+    "contrast": "hanger 衣架与 hangar 飞机库近音、拼写相近，却是不同词；hunger 饥饿又是另一组。",
+    "examples": [
+      [
+        "Please put the coat on a hanger.",
+        "请把外套挂到衣架上。"
+      ],
+      [
+        "There were three empty hangers in the wardrobe.",
+        "衣柜里有三个空衣架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hanger#English"
+    ]
+  },
+  {
+    "word": "headteacher",
+    "ipa": "英 /ˌhedˈtiːtʃə/；美 /ˌhedˈtiːtʃər/",
+    "meaning": "中小学校长〔主要英式用语〕",
+    "sense": "head 是负责人这个角色，teacher 是教师；合起来指负责整所学校的人，不是给头部上课的老师。",
+    "split": "head + teacher；teacher 是 teach + -er，对应中古英语 techere。head 从身体头部扩展到领头、负责人的角色，再参加这里的复合。",
+    "history": [
+      [
+        "teach + -er → teacher；head 的负责人义",
+        "教师；领头负责的人"
+      ],
+      [
+        "head + teacher → headteacher",
+        "学校的负责人、校长"
+      ]
+    ],
+    "explanation": "the headteacher of a school 某校校长；meet the headteacher 与校长见面。主要用于学校，不用来泛称大学校长。",
+    "usage": "a primary school headteacher；the deputy headteacher。",
+    "contrast": "美式学校常用 principal；headmaster、headmistress 是标明性别的相关称呼。不同学校的具体职衔依惯用名称。",
+    "examples": [
+      [
+        "The headteacher welcomed the new pupils.",
+        "校长欢迎了新入学的学生。"
+      ],
+      [
+        "Parents can arrange a meeting with the headteacher.",
+        "家长可以预约与校长面谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/headteacher#English"
+    ]
+  },
+  {
+    "word": "wisely",
+    "ipa": "/ˈwaɪzli/",
+    "meaning": "明智地；审慎、判断得当地",
+    "sense": "不是只反应快，而是看清后果、把有限的东西用到合适的地方。",
+    "split": "古英语 wīslīce 经中古英语相应形式延续，对应 wise + -ly。现代把末尾不发音 e 省掉，形成副词。",
+    "history": [
+      [
+        "古英语 wīslīce → 中古英语 wisliche 等",
+        "以明智的方式"
+      ],
+      [
+        "现代 wise + -ly → wisely",
+        "判断、处理得明智"
+      ]
+    ],
+    "explanation": "choose wisely 明智选择；spend time wisely 妥善利用时间；Wisely, she waited. 可评价她等待这一决定。",
+    "usage": "use resources wisely；invest time wisely。",
+    "contrast": "cleverly 强调聪明、巧妙，wisely 更强调判断是否妥当、顾及后果；巧妙不总等于明智。",
+    "examples": [
+      [
+        "Use your time wisely during the exam.",
+        "考试时要合理利用时间。"
+      ],
+      [
+        "She wisely asked for more information before deciding.",
+        "她很明智，先多了解信息再作决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wisely#English"
+    ]
+  },
+  {
+    "word": "unwise",
+    "ipa": "/ʌnˈwaɪz/",
+    "meaning": "不明智的；欠考虑的",
+    "sense": "并不是说一个人什么都不懂，而是说这一选择没有好好考虑后果。",
+    "split": "古英语 unwīs 经中古英语 unwis 延续，对应 un- 不 + wise。现代常评价行动、决定，而非给整个人贴永久标签。",
+    "history": [
+      [
+        "古英语 unwīs → 中古英语 unwis",
+        "不明智、缺乏判断等"
+      ],
+      [
+        "现代 unwise",
+        "某个决定、举动欠妥当"
+      ]
+    ],
+    "explanation": "an unwise decision 不明智的决定；It would be unwise to ... 做……并不明智。语气常比直接骂 foolish 更克制。",
+    "usage": "an unwise move；politically unwise。",
+    "contrast": "unwise 不等于 illegal 违法，也不等于 impossible 不可能；它评价决策是否妥当，而非判定规则或可行性。",
+    "examples": [
+      [
+        "It would be unwise to ignore the warning.",
+        "无视这个警告并不明智。"
+      ],
+      [
+        "Buying more equipment now seems unwise.",
+        "现在再买设备似乎欠考虑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unwise#English"
+    ]
+  },
+  {
+    "word": "pennywise",
+    "ipa": "/ˈpeniwaɪz/",
+    "meaning": "精于节省小钱的；在小额开销上很精明的",
+    "sense": "为省几块钱绕很远的路，结果多花几十块油钱：小账算得精，大账反而亏，常用 pennywise and pound foolish 来批评。",
+    "split": "penny 便士、小钱 + wise 精明的。单词本身突出小额花费上的节省，常见搭配再用 pound foolish 补出大处不明智的反差。也常见带连字符的拼写。",
+    "history": [
+      [
+        "penny + wise",
+        "在小钱上精明、节省"
+      ],
+      [
+        "常见与 pound foolish 的对照",
+        "只顾小额节省，忽略更大损失"
+      ]
+    ],
+    "explanation": "a pennywise decision 可以侧重小钱算得精；常见完整说法 pennywise and pound foolish 是因小失大。英镑、便士在这里形成大钱、小钱的对比。",
+    "usage": "pennywise and pound foolish；a pennywise approach。",
+    "contrast": "不是所有节省小钱的人都不懂大账，负面结论要看后续搭配或上下文；wise 的明智本身并不含吝啬义。",
+    "examples": [
+      [
+        "Skipping basic maintenance can be pennywise and pound foolish.",
+        "为了省小钱而不做基本维护，可能因小失大。"
+      ],
+      [
+        "The review criticized the plan as pennywise and pound foolish.",
+        "评论批评这个方案只顾省小钱，反而造成大损失。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pennywise#English"
+    ]
+  },
+  {
+    "word": "flighty",
+    "ipa": "/ˈflaɪti/",
+    "meaning": "轻浮、心思飘忽的；反复无常、不稳重的",
+    "sense": "主意像鸟一样飞来飞去，一会儿想做这个，一会儿又换那个，别人难以指望他稳定办成事。",
+    "split": "flight + -y，早期有迅速等义；后来轻浮、反复无常义可能与 flights of imagination 想象飞驰的表达有关。脑中飘来飘去是理解比喻，不是已经证明的唯一历史动机。",
+    "history": [
+      [
+        "flight + -y；十六世纪迅速等义",
+        "带有飞动、快速变化特点"
+      ],
+      [
+        "后来的 flighty",
+        "心思飘忽、轻浮、不可靠"
+      ]
+    ],
+    "explanation": "a flighty person 心思不定的人；a flighty manner 轻浮作风。通常是负面评价，不等于任何有想象力、爱旅行的人。",
+    "usage": "seem flighty；a flighty character。",
+    "contrast": "flightless 不会飞，说飞行能力；flighty 常说性格、行为不稳，两者不能凭共同的 flight 就按同一个能力维度对立。",
+    "examples": [
+      [
+        "He used to be flighty, but now he follows through on his plans.",
+        "他以前做事心思飘忽，现在能把计划落实了。"
+      ],
+      [
+        "The novel’s heroine is lively without being flighty.",
+        "小说女主人公活泼，却不轻浮。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/flighty"
+    ]
+  },
+  {
+    "word": "religiously",
+    "ipa": "/rɪˈlɪdʒəsli/",
+    "meaning": "虔诚地；极有规律、雷打不动地",
+    "sense": "像固定仪式一样，一天不落地做某件事。说每天 religiously 浇花，不一定真在举行宗教仪式。",
+    "split": "religious + -ly；religious 经法语接拉丁 religiosus，原有宗教、虔敬、认真履行等性质。副词既可保留宗教义，也可把严格坚持引到日常习惯。",
+    "history": [
+      [
+        "religious + -ly",
+        "以宗教、虔敬的方式"
+      ],
+      [
+        "religiously 的日常引申",
+        "认真而一贯地做；几乎雷打不动"
+      ]
+    ],
+    "explanation": "follow a routine religiously 严格坚持例行安排；check something religiously 每次都认真检查。频率由上下文决定，不是这个词固定等于每天。",
+    "usage": "practise religiously；read something religiously。",
+    "contrast": "regularly 有规律地较中性；religiously 常加强认真坚持、几乎从不漏做的感觉，也可能带夸张。",
+    "examples": [
+      [
+        "She waters the balcony plants religiously every morning.",
+        "她每天早晨雷打不动地给阳台植物浇水。"
+      ],
+      [
+        "He followed his teacher’s practice routine religiously.",
+        "他始终认真照着老师的练习安排去做。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/religiously#English"
+    ]
+  },
+  {
+    "word": "nonreligious",
+    "ipa": "英 /ˌnɒnrɪˈlɪdʒəs/；美 /ˌnɑːnrɪˈlɪdʒəs/",
+    "meaning": "非宗教的；没有宗教信仰的",
+    "sense": "把是否涉及宗教这条界线画出来：音乐会不以宗教为主题，或一个人没有宗教信仰，都可以说 nonreligious。",
+    "split": "non- 非、不属于 + religious 宗教的。前缀通常说明不归入这一类别，不额外表示反对、敌视。",
+    "history": [
+      [
+        "religious",
+        "涉及宗教；具有宗教信仰的"
+      ],
+      [
+        "non- + religious → nonreligious",
+        "不属宗教范围；没有宗教信仰的"
+      ]
+    ],
+    "explanation": "nonreligious music 非宗教音乐；a nonreligious ceremony 非宗教仪式；a nonreligious person 没有宗教信仰的人。具体描述人还是活动，要看名词。",
+    "usage": "a nonreligious organization；religious and nonreligious people。",
+    "contrast": "nonreligious 不等于 antireligious 反宗教；secular 常强调世俗领域或与宗教机构相分离，搭配重心有不同。",
+    "examples": [
+      [
+        "They chose a nonreligious wedding ceremony.",
+        "他们选择了一场不采用宗教形式的婚礼。"
+      ],
+      [
+        "The discussion included both religious and nonreligious participants.",
+        "讨论包括有宗教信仰和没有宗教信仰的参与者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonreligious#English"
+    ]
+  }
+]

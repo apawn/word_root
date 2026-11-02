@@ -5,7 +5,7 @@
     "core": "JUS / JUR = RIGHT, LAW",
     "image": "用一把“应不应该”的尺，判断是否合乎公道",
     "intro": "**jus-、jur-** 追溯到拉丁语 **iūs**“权利、法律、公道”。先想一把判断“这件事该不该做”的尺：合乎这把尺，可以是 just；拿出理由让它站得住，是 justify；做了侵害他人的事，则通向 injury。另一支通过“发誓保证”形成 jury、perjury。",
-    "forms": "拉丁语 **iūs** 在不同语法形式中有 **iūr-**，如 iūris；英语拼写常用 j，所以看到 jus-、jur-。**iūstus**“公正、合适”形成 just 这一支，**iūrāre**“宣誓”形成 jury、abjure 等。这是拉丁语历史词形的关系，不是英语里遇到 s 就能随意换成 r。",
+    "forms": "拉丁语 **iūs** 在不同语法形式中有 **iūr-**，如 iūris；英语拼写常用 j，所以看到 jus-、jur-。**iūstus**“公正、合适”形成 just 这一支，**iūrāre**“宣誓”形成 jury、abjure 等。这是拉丁语历史词形的关系，不是英语里遇到 s 就能随意换成 r。\n\ninjure 可能从 injury 反构，也可能经法语动词借入；较早同接不公、侵害的拉丁词族。\n\n名词与动词的进入历史分别看，injure 的反构及法语借入两种分析已保留。\n\n拉丁 iustificare 经法语进入，现代过去形式改 y 为 i 加完整 ed。\n\njustice 经法语、拉丁 iustitia 公正，相关官员名义很早出现。保留 e 加 -s，/s/ 后读 /ɪz/；公正常不可数，justices 通常数法官。",
     "branches": [
       [
         "合乎公道",
@@ -26,6 +26,22 @@
       [
         "侵害与伤害",
         "injury · injure · injurious"
+      ],
+      [
+        "injure → injured：受伤、受损与分词状态",
+        "injure · injured"
+      ],
+      [
+        "injury → injuries；injure → injured：损伤与受伤",
+        "injury · injuries · injure · injured"
+      ],
+      [
+        "justify → justified：拿出理由，让说法站得住",
+        "justify · justified"
+      ],
+      [
+        "jus-/just- 法、公正 → justices",
+        "justices"
       ]
     ],
     "contrasts": "**justice 与 just**：justice 关心公道和司法；just 除了公正，还有恰好、仅仅、刚刚等常用义，不能逢 just 就译成正义。\n\n**injury 与 injure**：injury 较早，英语从它反向形成 injure；现代词形看起来简单，不代表历史顺序也是“动词加后缀”。\n\n**jury** 的陪审团、评审团义和宣誓有关；表示临时装配的另一支 jury 不按这个词源解释。",
@@ -50,7 +66,11 @@
       "juridical",
       "injury",
       "injure",
-      "injurious"
+      "injurious",
+      "injured",
+      "injuries",
+      "justified",
+      "justices"
     ]
   },
   {
@@ -59,7 +79,7 @@
     "core": "UT / US = USE",
     "image": "把东西拿来派用场；反复这样做，就成了平常习惯",
     "intro": "**ut-、us-** 来自拉丁语 **ūtī**“使用”和相关形式 **ūsus**“使用、习惯”。核心画面是“把东西拿来完成一件事”。一条路走向 useful、utility“有用”；另一条路是经常这样用，形成 usual、usually“惯常”。",
-    "forms": "拉丁语词典常列 **ūtor**，不定式是 **ūtī**；相关形式 **ūsus** 出现 s。**ūtilis**“有用的”留下 util- 这一支。它们是历史词形关系，不是英语拼写里可随意互换的字母。use、reuse、misuse、abuse 都要留意名词 /s/ 与动词 /z/ 的差别。",
+    "forms": "拉丁语词典常列 **ūtor**，不定式是 **ūtī**；相关形式 **ūsus** 出现 s。**ūtilis**“有用的”留下 util- 这一支。它们是历史词形关系，不是英语拼写里可随意互换的字母。use、reuse、misuse、abuse 都要留意名词 /s/ 与动词 /z/ 的差别。\n\nabuser 接动词 abuse，-er 指人，词干 /z/ 保留；名词 abuse 常读 /s/，不能按其读音造执行者词。\n\nusing 来自动词 use，s 读 z；名词 use 则常读 s。\n\nuse 的动词 /z/ 保留到 user、users，人物后缀 -er；英语自身派生与现代复数分别看。\n\n名词 uses 读 /ˈjuːsɪz/，动词读 /ˈjuːzɪz/，词尾都增加一个音节。\n\n拉丁 abuti、abusus 经法语，现代说滥用、虐待、辱骂等。\n\n法语 utilite 接拉丁 utilitas、utilis、uti；复数常指具体服务或工具。\n\nutilize 经法语 utiliser 等接拉丁 utilis 可用、uti 使用材料。现代去末尾 e 加完整 -ed，/z/ 后读 /d/，意为使用、利用。\n\nutilize 经法语、意大利语接拉丁 utilis 可用、uti 使用；abuse 接拉丁 abuti 误用、滥用的词族。现代两词去 e 加 -ing，abusing 的 s 读 /z/。\n\nabuse 接拉丁 abuti、abusus 误用、滥用词族。保留 e 加 -s，名词 abuses 末尾 /sɪz/，动词 abuses 末尾 /zɪz/。",
     "branches": [
       [
         "使用与使用者",
@@ -84,6 +104,42 @@
       [
         "资源与整体效果",
         "utilize · utilization · utilitarianism"
+      ],
+      [
+        "abuse 与 abuser：滥用或虐待的执行者",
+        "abuse · abuser"
+      ],
+      [
+        "use → using：使用与用某种方式",
+        "use · using"
+      ],
+      [
+        "use → user → users：谁在使用",
+        "use · user · users"
+      ],
+      [
+        "use → uses：用途与使用的不同读音",
+        "use · uses"
+      ],
+      [
+        "abuse → abused：使用越过合适边界",
+        "abuse · abused"
+      ],
+      [
+        "utility → utilities：有用到公用服务、工具程序",
+        "utility · utilities"
+      ],
+      [
+        "使用 → utilize → utilized",
+        "utilized"
+      ],
+      [
+        "ut-/us- 使用：utilizing 与 abusing",
+        "utilizing · abusing"
+      ],
+      [
+        "ab- 偏离 + us- 使用 → abuses",
+        "abuses"
       ]
     ],
     "contrasts": "**useful / usable / usability**：能帮上忙 / 能用 / 用起来顺不顺。三个问题接近，却不相同。\n\n**misuse / abuse**：misuse 可以是用错；abuse 常突出严重滥用或伤害。两者有重叠，不能简单按无意与故意划开。\n\n**utilitarianism** 的哲学义关心受影响者的整体利益与痛苦，不是“只看谁对我有用”。",
@@ -111,7 +167,17 @@
       "utilization",
       "disuse",
       "utilitarian",
-      "utilitarianism"
+      "utilitarianism",
+      "abuser",
+      "using",
+      "users",
+      "uses",
+      "abused",
+      "utilities",
+      "utilized",
+      "utilizing",
+      "abusing",
+      "abuses"
     ]
   },
   {
@@ -120,7 +186,7 @@
     "core": "FLIG / FLICT = STRIKE",
     "image": "两股力量撞在一起；一次打击落到某人身上",
     "intro": "**flig-、flict-** 来自拉丁语 **flīgere**“击打、撞击”。两股力量相撞，形成 conflict；把伤害加到某人身上，是 inflict；病痛或困境持续让人受苦，是 afflict。先抓住动作方向，几组近似拼写就容易分清。",
-    "forms": "拉丁语 **flīg-** 与相关分词词干 **flīct-** 对应，所以英语既有 profligate，也有 conflict、inflict。前缀 con- 让力量相撞，in- 在 inflict 中表示向某处施加，ad- 遇到 f 同化成 af-，形成 afflict 这一支。不要把 inflict 的 in- 当成否定。",
+    "forms": "拉丁语 **flīg-** 与相关分词词干 **flīct-** 对应，所以英语既有 profligate，也有 conflict、inflict。前缀 con- 让力量相撞，in- 在 inflict 中表示向某处施加，ad- 遇到 f 同化成 af-，形成 afflict 这一支。不要把 inflict 的 in- 当成否定。\n\n拉丁 con 与 fligere、conflictus 词形，名词前重音、动词后重音分读。\n\ninflict 接拉丁 infligere 施加、击向及分词 inflictus。加完整 -ed，/t/ 后读 /ɪd/；常说把损害、痛苦施加到对象上。",
     "branches": [
       [
         "两边互相抵触",
@@ -141,6 +207,14 @@
       [
         "从败坏到挥霍",
         "profligate · profligacy"
+      ],
+      [
+        "conflict → conflicts：相互碰撞到冲突",
+        "conflict · conflicts"
+      ],
+      [
+        "in- 朝向 + flict- 击 → inflicted",
+        "inflicted"
       ]
     ],
     "contrasts": "**conflicted / conflicting**：conflicted 常形容人心里矛盾；conflicting 常形容两条信息、两种要求互相冲突。\n\n**inflict / afflict**：inflict pain on someone 把痛苦施加给某人；a disease afflicts someone 是疾病使某人受苦。前者跟着伤害看方向，后者跟着受苦者看处境。\n\n**profligate** 的现代义不能靠“向前打”硬猜；需要经过“击倒、毁坏 → 败坏、放荡 → 挥霍无度”这条历史变化。",
@@ -154,7 +228,9 @@
       "afflict",
       "affliction",
       "profligate",
-      "profligacy"
+      "profligacy",
+      "conflicts",
+      "inflicted"
     ]
   }
 ]

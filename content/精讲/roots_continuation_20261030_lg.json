@@ -1,0 +1,158 @@
+[
+  {
+    "id": "B3053",
+    "meaning": "猪及幼崽、皮革、外形联想，另辨 piggyback 的改形",
+    "core": "PIG：动物是起点，小称、材料和比喻分开理解",
+    "image": "pig → piggy、piglet；pigskin、pigtail；piggyback 单列历史。",
+    "intro": "pig 原先偏指小猪，后来泛指猪；幼崽可更明确说 piglet。piggyback 虽然外形熟悉，来源却不能硬套进猪这个动物。",
+    "forms": "pigge → pig；-y 昵称或性质，-let 幼小，skin 皮，tail 尾。piggyback 来自旧背包袱说法的改形。\n\npig 接中古英语 pigge 等，远源未定；现代 pigs 可作复数，也可作动词第三人称。",
+    "branches": [
+      [
+        "动物、小称与材料",
+        "pig · piggy · piglet · pigskin · pigtail"
+      ],
+      [
+        "看似有关，另有历史",
+        "piggyback"
+      ],
+      [
+        "pig → pigs：猪；pigs out 的大吃",
+        "pig · pigs"
+      ]
+    ],
+    "contrasts": "pig 动物与 pork 食物常分用；pigskin 可是球的俗称；piggyback 的 piggy 不是可靠的原始动物拆分。",
+    "practice": "The child carried a toy piggy while riding piggyback.\n\n孩子被背着走，手里抱着一只玩具小猪。",
+    "words": [
+      "pig",
+      "piggy",
+      "piglet",
+      "pigskin",
+      "pigtail",
+      "piggyback",
+      "pigs"
+    ],
+    "exclude": {
+      "pig-jawed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3680",
+    "meaning": "跑的人或运作角色，再由前项说明身份、位置",
+    "core": "RUNNER：先有人在跑，再看前面加了什么",
+    "image": "runner → forerunner、showrunner、roadrunner。",
+    "intro": "forerunner 是走在前面的先驱、前身；showrunner 把节目运作起来；roadrunner 是会在地面奔跑的走鹃。相同后半并不代表它们全是运动员。",
+    "forms": "run + -er，双写 n；fore 前面，show 节目，road 路，各自形成固定复合义。",
+    "branches": [
+      [
+        "基础人物与扩展角色",
+        "runner · forerunner · showrunner"
+      ],
+      [
+        "复合动物名称",
+        "roadrunner"
+      ]
+    ],
+    "contrasts": "forerunner 可说事物前身；showrunner 是影视制作角色；roadrunner 是鸟名。",
+    "practice": "The earlier device was a forerunner of the modern model.\n\n较早那台设备是现代型号的前身。",
+    "words": [
+      "runner",
+      "forerunner",
+      "showrunner",
+      "roadrunner"
+    ],
+    "exclude": {
+      "non-runner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rum-runner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3523",
+    "meaning": "理念、支持者与相应特点",
+    "core": "SOCIALIST：先辨理念、人物，再辨性质用法",
+    "image": "socialist → socialistic。",
+    "intro": "socialist 可说支持者，也能直接作相关形容词；socialistic 常说相应特点、倾向。不要把两个词硬规定为拥护与反对的区别。",
+    "forms": "social 词族 → socialism、socialist；-ic 或 -istic 形成相关性质表达。",
+    "branches": [
+      [
+        "人物、性质及扩展形容词",
+        "socialist · socialistic"
+      ]
+    ],
+    "contrasts": "socialistic 不是善于社交；政治标签的具体范围取决于论述中的定义。",
+    "practice": "The historian compared socialist movements and socialistic proposals.\n\n历史学家比较了社会主义运动和带社会主义倾向的提案。",
+    "words": [
+      "socialist",
+      "socialistic"
+    ],
+    "exclude": {
+      "pan-socialist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-socialist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3513",
+    "meaning": "同形的狗叫、树皮、船，按真实来源分别学习",
+    "core": "BARK：同样四个字母，有三幅不同画面",
+    "image": "bark → barking、barker；船义旁接 embark → embarkation、disembark。",
+    "intro": "狗会叫，树有皮，船可登。把三幅画面并排摆好，比硬找一条神奇的共同意义更容易用对。",
+    "forms": "声音承 beorcan；树皮联系 börkr；船联系 barque、barca，en- + barque → embarquer → embark。\n\n声音动词承古英语 beorcan；同形树皮另有斯堪的纳维亚来源，不能从狗叫推导树皮。",
+    "branches": [
+      [
+        "狗叫与响亮招徕",
+        "bark · barking · barker"
+      ],
+      [
+        "船与登乘动作",
+        "embark · embarkation · disembark"
+      ],
+      [
+        "bark 的吠叫与喝令变化",
+        "bark · barks · barked · barking"
+      ]
+    ],
+    "contrasts": "barker 的剥皮机义属于树皮支线；embark on 开始一项事业；同形不表示同源。",
+    "practice": "After the passengers disembarked, a dog began barking on the pier.\n\n乘客下船后，码头上有只狗叫了起来。",
+    "words": [
+      "bark",
+      "barking",
+      "barker",
+      "embark",
+      "embarkation",
+      "disembark",
+      "barks",
+      "barked"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4093",
+    "meaning": "草垛、堆放，扩成上下叠加或优势集中",
+    "core": "STACK：一件放在一件上面，再看叠的是东西还是优势",
+    "image": "stack → stacked、stacker、stackable；haystack、smokestack。",
+    "intro": "先用盘子叠起来记住动作，再看后缀：已经叠好、负责叠、可以叠。烟囱是固定历史扩展，技术栈也有专门定义。",
+    "forms": "stakkr → stack；-ed 状态，-er 人或工具，-able 能力；hay 干草，smoke 烟。",
+    "branches": [
+      [
+        "基础动作与后缀",
+        "stack · stacked · stacker · stackable"
+      ],
+      [
+        "物体、设施与比喻",
+        "haystack · smokestack"
+      ]
+    ],
+    "contrasts": "stacked 与 stackable 分开；a needle in a haystack 是极难找；stacked 的不公平义须看场景。",
+    "practice": "The stacker arranged the stackable trays into a tall stack.\n\n叠放装置把可堆叠托盘码成了高高一摞。",
+    "words": [
+      "stack",
+      "stacked",
+      "stacker",
+      "stackable",
+      "haystack",
+      "smokestack"
+    ],
+    "exclude": {
+      "non-stack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

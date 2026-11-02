@@ -1,0 +1,546 @@
+[
+  {
+    "word": "identifying",
+    "ipa": "/aɪˈdentɪfaɪɪŋ/",
+    "meaning": "识别、确定身份；认同〔现在分词、动名词〕",
+    "sense": "看到一个对象，再把它和某个名字、身份对上，就是 identifying；把自己和某群体联系起来，又有认同用法。",
+    "split": "identify + -ing，保留 y，不写 identifing。identify 借法语 identifier，接身份、相同词族，远连拉丁 idem 同一个。",
+    "history": [
+      [
+        "拉丁同一词族 → 法语 identifier → identify",
+        "认作同一个 → 识别、确定身份"
+      ],
+      [
+        "identify + -ing → identifying",
+        "正在辨认；确定身份或产生认同的过程"
+      ]
+    ],
+    "explanation": "identifying the cause 确定原因；identifying a bird 辨认鸟；identifying with a character 认同角色。",
+    "usage": "identifying details 能辨认身份的细节；difficulty identifying faces 认脸有困难。",
+    "contrast": "identifying something 是辨认对象；identifying with someone 是产生认同。y 后的 /aɪ/ 和 ing 的 /ɪŋ/ 相接，别把尾部吞成一个普通 /ɪŋ/。",
+    "examples": [
+      [
+        "The guide helps visitors with identifying local birds.",
+        "指南帮助游客辨认当地鸟类。"
+      ],
+      [
+        "We spent the morning identifying the source of the noise.",
+        "我们花了一上午确定噪声来源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identifying#English",
+      "https://en.wiktionary.org/wiki/identify#English"
+    ]
+  },
+  {
+    "word": "impacts",
+    "ipa": "名词常 /ˈɪmpækts/；动词常 /ɪmˈpækts/，也见前重音",
+    "meaning": "撞击、影响〔复数〕；影响、撞击〔第三人称单数〕",
+    "sense": "一个东西撞上另一个，会留下作用；政策、活动也能像这样改变周围情况，这些结果就是 impacts。",
+    "split": "impact + -s，/t/ 后读 /s/。impact 接拉丁 impactus，较早 impingere 是撞入、压入；英语压入动词义早于相应撞击名词义。",
+    "history": [
+      [
+        "拉丁 impingere、impactus → 英语 impact",
+        "压入、撞上 → 撞击、显著影响"
+      ],
+      [
+        "impact + -s → impacts",
+        "多次撞击、多个影响；某事影响对象"
+      ]
+    ],
+    "explanation": "environmental impacts 环境影响；long-term impacts 长期影响；impacts daily life 影响日常生活。",
+    "usage": "assess the impacts 评估影响；repeated impacts 反复撞击。",
+    "contrast": "impacts 不限于负面后果，具体好坏由上下文决定。名词和动词有重音倾向差别，但现实读音也有变体，不能定成绝无例外。",
+    "examples": [
+      [
+        "The study compares the impacts of two designs.",
+        "研究比较两种设计的影响。"
+      ],
+      [
+        "The change impacts everyone on the team.",
+        "这个变化影响团队里的每个人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impacts#English",
+      "https://en.wiktionary.org/wiki/impact#English"
+    ]
+  },
+  {
+    "word": "mechanisms",
+    "ipa": "/ˈmekənɪzəmz/",
+    "meaning": "机械装置、机构；机制、运作方式〔复数〕",
+    "sense": "看到一个结果，再往内部看：哪些零件、步骤相互配合把结果做出来？这些运作安排就是 mechanisms。",
+    "split": "mechanism + -s，/m/ 后读 /z/。mechanism 借近代拉丁 mechanismus，远接希腊 mekhane 工具、巧妙装置。",
+    "history": [
+      [
+        "希腊 mekhane → 近代拉丁 mechanismus → mechanism",
+        "装置 → 内部构造、作用机制"
+      ],
+      [
+        "mechanism + -s → mechanisms",
+        "多套机构、运作机制"
+      ]
+    ],
+    "explanation": "locking mechanisms 锁定机构；feedback mechanisms 反馈机制；safety mechanisms 安全机制。",
+    "usage": "different mechanisms 不同机制；explain the mechanisms 解释运作机制。",
+    "contrast": "mechanisms 可以是真实机械零件，也可以是社会、自然过程的相互作用。比 ways 更突出内部怎样一步步配合产生结果。",
+    "examples": [
+      [
+        "The engineer compared two locking mechanisms.",
+        "工程师比较了两种锁定机构。"
+      ],
+      [
+        "The article explains the mechanisms behind the effect.",
+        "文章解释了这种效应背后的作用机制。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mechanisms#English",
+      "https://en.wiktionary.org/wiki/mechanism#English"
+    ]
+  },
+  {
+    "word": "motors",
+    "ipa": "英 /ˈməʊtəz/；美 /ˈmoʊtərz/",
+    "meaning": "马达、发动机、驱动装置〔复数〕",
+    "sense": "把能量变成推动、转动的力量，让机器动起来的部件，就是 motors。名字里原本就有推动者的意思。",
+    "split": "motor + -s，结尾读 /z/。motor 接拉丁 motor 推动者，与 movere 使移动的 mot- 词干相连。",
+    "history": [
+      [
+        "拉丁 movere、motor → 英语 motor",
+        "使移动 → 推动者 → 驱动机器的装置"
+      ],
+      [
+        "motor + -s → motors",
+        "多台马达、发动机；另可作开车动词三单"
+      ]
+    ],
+    "explanation": "electric motors 电动机；small motors 小马达；motors in household appliances 家用电器里的马达。",
+    "usage": "replace the motors 更换马达；motors driving the wheels 驱动车轮的电机。",
+    "contrast": "motors 不都用汽油；electric motors 很常见。motor 与 engine 有重叠，但电动机通常说 motor，具体名称按装置和习惯。",
+    "examples": [
+      [
+        "Small motors drive the robot’s wheels.",
+        "小电机驱动机器人的轮子。"
+      ],
+      [
+        "The workshop repairs electric motors.",
+        "这间维修车间修理电动机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/motors#English",
+      "https://en.wiktionary.org/wiki/motor#English"
+    ]
+  },
+  {
+    "word": "provinces",
+    "ipa": "英 /ˈprɒvɪnsɪz/；美 /ˈprɑːvɪnsɪz/",
+    "meaning": "省、省区〔复数〕；首都之外的地区〔特定表达〕",
+    "sense": "把一个较大的国家按行政区域分开，某些制度里这些区域就叫 provinces。另一个老画面是某人负责的范围、辖区。",
+    "split": "province + -s，/s/ 后读 /ɪz/。province 经法语或直接接拉丁 provincia 职责、辖区；更早是否联系征服等分析未定。",
+    "history": [
+      [
+        "拉丁 provincia → 法语或英语 province",
+        "职责、辖区 → 省区；知识、职责范围"
+      ],
+      [
+        "province + -s → provinces",
+        "多个省区；特定语境的首都以外地区"
+      ]
+    ],
+    "explanation": "several provinces 几个省；the northern provinces 北部各省；in the provinces 在首都以外的地区。",
+    "usage": "travel through the provinces 走过各省；provincial boundaries 省界，另用相关形容词。",
+    "contrast": "province 不是所有国家行政区的统一英文名，具体还可能用 state、region 等。the provinces 的特定用法也不等于每个普通城市都是一省。",
+    "examples": [
+      [
+        "The river crosses three provinces.",
+        "这条河流经三个省。"
+      ],
+      [
+        "The exhibition will travel to several provinces.",
+        "展览将到几个省巡展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provinces#English",
+      "https://en.wiktionary.org/wiki/province#English"
+    ]
+  },
+  {
+    "word": "rays",
+    "ipa": "/reɪz/",
+    "meaning": "光线、射线；鳐鱼〔复数〕",
+    "sense": "光从一点向外伸出一道道线，是 rays；水里的鳐鱼也写 rays，但那是另一条鱼名来路。",
+    "split": "ray + -s，元音后读 /z/。光线 ray 经法语接拉丁 radius 杆、辐条；鳐鱼 ray 经法语接拉丁 raia，较远来源不明。",
+    "history": [
+      [
+        "拉丁 radius → 法语 → ray；另一支拉丁 raia → 法语 → ray",
+        "光线与鳐鱼分别借入，现代同形"
+      ],
+      [
+        "ray + -s → rays",
+        "多道光、射线；多条鳐鱼"
+      ]
+    ],
+    "explanation": "rays of sunlight 一道道阳光；the sun’s rays 太阳光线；rays in the aquarium 水族馆里的鳐鱼。",
+    "usage": "light rays 光线；rays of hope 一线线希望，比喻用法。",
+    "contrast": "rays 与 raises 读音不同：rays /reɪz/ 一个音节，raises /ˈreɪzɪz/ 两个音节。光线义常和 sun、light 搭配，鱼名义则常出现在海洋、水族馆语境。",
+    "examples": [
+      [
+        "Rays of sunlight reached the floor.",
+        "一道道阳光照到地板上。"
+      ],
+      [
+        "The aquarium has several large rays.",
+        "水族馆里有几条大鳐鱼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rays#English",
+      "https://en.wiktionary.org/wiki/ray#English"
+    ]
+  },
+  {
+    "word": "schemes",
+    "ipa": "/skiːmz/",
+    "meaning": "计划、方案；阴谋、诡计〔复数〕；谋划〔第三人称单数〕",
+    "sense": "把要做的事排成一套有结构的安排，是 schemes；如果安排藏着私利、欺骗，又会带阴谋的味道。",
+    "split": "scheme + -s，/m/ 后读 /z/。scheme 经拉丁 schema 接希腊 skhema 形状、样式，结构的意思扩展到行动安排。",
+    "history": [
+      [
+        "希腊 skhema → 拉丁 schema → scheme",
+        "形状、结构 → 安排、计划"
+      ],
+      [
+        "scheme + -s → schemes",
+        "多套方案、诡计；某人暗中谋划"
+      ]
+    ],
+    "explanation": "colour schemes 配色方案；training schemes 培训计划；secret schemes 秘密谋划。",
+    "usage": "different schemes 不同方案；schemes to gain power 谋划取得权力。",
+    "contrast": "英式英语里 scheme 常可中性地说正式计划，不能一律翻成阴谋。阴暗意味较重时，通常有上下文、修饰语或动词用法支持。",
+    "examples": [
+      [
+        "The designer presented three colour schemes.",
+        "设计师提出了三套配色方案。"
+      ],
+      [
+        "The story follows a villain and his schemes.",
+        "故事围绕反派和他的阴谋展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/schemes#English",
+      "https://en.wiktionary.org/wiki/scheme#English"
+    ]
+  },
+  {
+    "word": "screens",
+    "ipa": "/skriːnz/",
+    "meaning": "屏障、屏幕〔复数〕；筛查、放映、遮挡〔第三人称单数〕",
+    "sense": "挡在两边之间的一层，可以遮住东西；让影像落在上面，又成了屏幕。像筛子一样挡下不合要求的对象，还能说筛查。",
+    "split": "screen + -s，/n/ 后读 /z/。screen 经中古英语接法语屏障词，更早可能有日耳曼来源但路线有争论，现代技术义在旧词上继续发展。",
+    "history": [
+      [
+        "法语遮挡物词 → 中古英语 → screen",
+        "屏障、网筛 → 放映幕、显示屏及对应动作"
+      ],
+      [
+        "screen + -s → screens",
+        "多个屏幕；某机构筛查、某影院放映"
+      ]
+    ],
+    "explanation": "computer screens 电脑屏幕；screens applicants 筛选申请者；screens a film 放映电影。",
+    "usage": "screens out noise 阻隔噪声；large screens 大屏幕。",
+    "contrast": "screens 不是只有看视频一个意思。动词的宾语很关键：screens candidates 筛选人，screens films 放电影，screens something from view 挡住视线。",
+    "examples": [
+      [
+        "The room has two large screens.",
+        "房间里有两块大屏幕。"
+      ],
+      [
+        "The cinema screens old films on Sundays.",
+        "这家影院周日放映老电影。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screens#English",
+      "https://en.wiktionary.org/wiki/screen#English"
+    ]
+  },
+  {
+    "word": "seized",
+    "ipa": "/siːzd/",
+    "meaning": "抓住、夺取、把握了〔过去式、过去分词〕",
+    "sense": "不是轻轻碰一下，而是一把抓住、拿到控制；机会从身边经过时，也能像这样抓住它，就是 seized。",
+    "split": "seize 去 e 加完整 -ed，/z/ 后读 /d/。seize 经中古英语 seisen 接古法语 seisir 占有、控制，较早法律词与日耳曼来源细节有讨论。",
+    "history": [
+      [
+        "古法语 seisir → 中古英语 seisen → seize",
+        "取得占有、控制 → 一把抓住、把握"
+      ],
+      [
+        "seize 去 e + -ed → seized",
+        "已经抓住、夺取或利用机会"
+      ]
+    ],
+    "explanation": "seized the handle 抓住把手；seized the opportunity 抓住机会；seized control 夺取控制。",
+    "usage": "seized by fear 突然被恐惧攫住；seized on an idea 马上抓住一个想法加以利用。",
+    "contrast": "seized /siːzd/ 与 sized /saɪzd/ 发音、意思不同。seized the chance 说主动利用机会，被动 seized by fear 则是恐惧突然控制住人。",
+    "examples": [
+      [
+        "She seized the chance to ask a question.",
+        "她抓住机会问了一个问题。"
+      ],
+      [
+        "He seized the handle as the door swung open.",
+        "门猛地打开时，他一把抓住了把手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seized#English",
+      "https://en.wiktionary.org/wiki/seize#English"
+    ]
+  },
+  {
+    "word": "servants",
+    "ipa": "英 /ˈsɜːvənts/；美 /ˈsɜːrvənts/",
+    "meaning": "仆人、服务者；特定表达中的公职人员〔复数〕",
+    "sense": "为别人服务、服侍的人，是 servant 的角色画面。旧家庭里的仆人、公职称呼里的服务者，都保留这层关系。",
+    "split": "servant + -s，/t/ 后读 /s/。servant 借古法语 servant，即 servir 服侍的现在分词，远接拉丁 servire、servus 词族。",
+    "history": [
+      [
+        "拉丁 servire → 古法语 servant → 英语 servant",
+        "服侍 → 服侍、服务的人"
+      ],
+      [
+        "servant + -s → servants",
+        "多位仆人、服务者；进入固定公职称呼"
+      ]
+    ],
+    "explanation": "household servants 家仆；civil servants 公务员；public servants 公职服务人员。",
+    "usage": "servants in a historical novel 历史小说里的仆人；loyal servants 忠实仆人。",
+    "contrast": "servants 不能普遍代替现代所有 employees 员工。civil servants 是固定职业类别，表达的是公共服务关系，不按家庭仆人理解。",
+    "examples": [
+      [
+        "The novel describes the lives of household servants.",
+        "小说描写了家仆的生活。"
+      ],
+      [
+        "Several civil servants attended the training session.",
+        "几位公务员参加了培训。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/servants#English",
+      "https://en.wiktionary.org/wiki/servant#English"
+    ]
+  },
+  {
+    "word": "shipped",
+    "ipa": "/ʃɪpt/",
+    "meaning": "发运、寄出了；交付、发布了〔过去式、过去分词〕",
+    "sense": "东西装好以后，从你这里发出去，就是 shipped。今天不一定上船，快递、空运甚至软件交付都能用。",
+    "split": "ship 双写 p 加完整 -ed，/p/ 后读 /t/。ship 船名与相关动词有古英语历史，运输义后来扩大到不同交通方式，也扩到交付产品。",
+    "history": [
+      [
+        "古英语 scip 及相关运输动词 → ship",
+        "船、船运 → 一般发运"
+      ],
+      [
+        "ship 双写 p + -ed → shipped",
+        "已发出、运送；产品已交付"
+      ]
+    ],
+    "explanation": "shipped by air 空运；shipped the order 发出了订单货物；shipped a new version 交付新版本。",
+    "usage": "shipped overseas 发运到海外；already shipped 已经发出。",
+    "contrast": "shipped 通常表示已经发出，不保证对方已经收到。软件团队说 shipped 还可能是产品交付、版本发布，具体范围看上下文。",
+    "examples": [
+      [
+        "The shop shipped the parcel yesterday.",
+        "店里昨天寄出了包裹。"
+      ],
+      [
+        "The team shipped a new version on Friday.",
+        "团队周五交付了一个新版本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shipped#English",
+      "https://en.wiktionary.org/wiki/ship#English"
+    ]
+  },
+  {
+    "word": "surviving",
+    "ipa": "英 /səˈvaɪvɪŋ/；美 /sərˈvaɪvɪŋ/",
+    "meaning": "幸存、继续存在〔现在分词〕；现存的、幸存的〔形容词〕",
+    "sense": "困难、时间过去了，它还在，就是 surviving。人继续活着，旧信件、建筑也能说经过时间仍保存下来。",
+    "split": "survive 去 e 加完整 -ing。survive 经法语 survivre 接后期拉丁 supervivere，super- 超过与 vivere 活着组合。",
+    "history": [
+      [
+        "后期拉丁 super- + vivere → 法语 survivre → survive",
+        "超过某时点而活着 → 幸存、存续"
+      ],
+      [
+        "survive 去 e + -ing → surviving",
+        "正在挺过难关；仍存在、存活的"
+      ]
+    ],
+    "explanation": "surviving letters 现存信件；surviving members 仍在世的成员；surviving the winter 熬过冬天。",
+    "usage": "the oldest surviving building 现存最古老的建筑；surviving on limited supplies 靠有限物资维持。",
+    "contrast": "surviving 不只指死里逃生，也可说旧物仍保存。survive an event 常直接接宾语；survive on something 则说靠什么维持。",
+    "examples": [
+      [
+        "The museum holds several surviving letters.",
+        "博物馆保存着几封现存的旧信。"
+      ],
+      [
+        "The small plants are surviving the cold weather.",
+        "小植物正挺过寒冷天气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surviving#English",
+      "https://en.wiktionary.org/wiki/survive#English"
+    ]
+  },
+  {
+    "word": "tires",
+    "ipa": "英 /ˈtaɪəz/；美 /taɪrz/",
+    "meaning": "轮胎〔复数，美式〕；使疲倦、厌烦〔第三人称单数〕",
+    "sense": "车轮外面接触地面的那层轮胎，在美式英语叫 tires；另一个同形动词则说人逐渐累、烦。两幅画面分开记。",
+    "split": "tire + -s，词尾读 /z/。疲倦动词接古英语 teorian 等；轮胎名可能来自 tire 装备、衣饰，缩自 attire 的相关用法。",
+    "history": [
+      [
+        "古英语疲倦词 → tire；另一线装备名 tire → 轮胎名",
+        "本族疲劳动词与轮胎名近源不同"
+      ],
+      [
+        "tire + -s → tires",
+        "美式多个轮胎；某事使疲劳、某人逐渐厌烦"
+      ]
+    ],
+    "explanation": "car tires 汽车轮胎；spare tires 备用轮胎；tires easily 容易累。",
+    "usage": "tires of the game 玩游戏渐感厌烦；worn tires 磨损的轮胎。",
+    "contrast": "英式轮胎通常拼 tyres，疲倦动词则仍写 tires。tires me 是让我累，tires of something 是逐渐厌烦某事，主语角色不同。",
+    "examples": [
+      [
+        "The bicycle needs new tires.",
+        "这辆自行车需要换新轮胎。"
+      ],
+      [
+        "The long journey tires everyone.",
+        "长途旅行让每个人都感到疲倦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tires#English",
+      "https://en.wiktionary.org/wiki/tire#English"
+    ]
+  },
+  {
+    "word": "tribes",
+    "ipa": "/traɪbz/",
+    "meaning": "部族、族群共同体〔复数〕",
+    "sense": "一个有共同身份、社会关系和传统的群体，在相应文化、历史语境里可能叫 tribe；tribes 就是多个这样的共同体。",
+    "split": "tribe + -s，/b/ 后读 /z/。tribe 经法语 tribu 或直接接拉丁 tribus，早指罗马社会、政治分组；更早三分结构解释并非定论。",
+    "history": [
+      [
+        "拉丁 tribus → 法语或英语 tribe",
+        "社会、政治分组 → 部族、共同体名称"
+      ],
+      [
+        "tribe + -s → tribes",
+        "多个部族、族群共同体"
+      ]
+    ],
+    "explanation": "neighbouring tribes 相邻部族；the histories of several tribes 几个部族的历史。",
+    "usage": "members of different tribes 不同部族成员；tribal traditions 则用相关形容词。",
+    "contrast": "tribes 的具体含义和称呼习惯与历史、群体自称有关；这个词本身不表示落后，也不把所有民族、村庄统称成 tribe。",
+    "examples": [
+      [
+        "The museum records the histories of several tribes.",
+        "博物馆记录了几个部族的历史。"
+      ],
+      [
+        "The book describes trade between neighbouring tribes.",
+        "书中描写相邻部族之间的贸易。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tribes#English",
+      "https://en.wiktionary.org/wiki/tribe#English"
+    ]
+  },
+  {
+    "word": "associations",
+    "ipa": "英 /əˌsəʊsiˈeɪʃənz/；美 /əˌsoʊsiˈeɪʃənz/，si 也可读 ʃi",
+    "meaning": "协会；联系、关联；联想〔复数〕",
+    "sense": "人联系起来，能组成协会；一件事把另一件事带进脑海，又是联想。associations 的共同感觉是牵起关系。",
+    "split": "association + -s，/n/ 后读 /z/。association 接拉丁 associatio，可能经法语传入；根在 socius 同伴、associare 结伴，名词有独立借入史。",
+    "history": [
+      [
+        "拉丁 socius、associare → associatio → association",
+        "同伴、结伴 → 联合组织及关系"
+      ],
+      [
+        "association + -s → associations",
+        "多个协会；多种联系、联想"
+      ]
+    ],
+    "explanation": "professional associations 行业协会；word associations 词语联想；pleasant associations 美好联想。",
+    "usage": "local associations 当地协会；associations with childhood 与童年有关的联想。",
+    "contrast": "associations 不都指正式组织；a place has pleasant associations 可说一个地方勾起美好回忆。联系、相关也不自动等于其中一方造成另一方。",
+    "examples": [
+      [
+        "Several local associations helped organise the event.",
+        "几个当地协会协助组织了活动。"
+      ],
+      [
+        "The song has happy associations for me.",
+        "这首歌会让我想起开心的往事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/associations#English",
+      "https://en.wiktionary.org/wiki/association#English"
+    ]
+  },
+  {
+    "word": "broadcasting",
+    "ipa": "英 /ˈbrɔːdkɑːstɪŋ/；美 /ˈbrɔːdkæstɪŋ/",
+    "meaning": "广播、播出；广播电视行业〔现在分词、动名词及名词〕",
+    "sense": "像把种子撒到很大一片地上，把信息传给广泛受众，就是 broadcasting。今天最常想到广播、电视等播出活动。",
+    "split": "broadcast + -ing，直接相加。broadcast 由英语 broad 广阔与 cast 撒、投组合，原用于撒播种子，再扩展广泛传信息。",
+    "history": [
+      [
+        "英语 broad + cast → broadcast",
+        "广泛撒播种子 → 广泛传播信息"
+      ],
+      [
+        "broadcast + -ing → broadcasting",
+        "正在播出；广播电视活动、行业"
+      ]
+    ],
+    "explanation": "live broadcasting 现场直播；public broadcasting 公共广播；works in broadcasting 从事广播电视工作。",
+    "usage": "broadcasting the concert 播出演唱会；broadcasting equipment 广播设备。",
+    "contrast": "broadcasting 可以是进行中的动作，也可以指行业。过去式常用 broadcast，本页 ing 形式则无论美英拼写都直接接在 broadcast 后。",
+    "examples": [
+      [
+        "The station is broadcasting the concert live.",
+        "电台正在直播这场音乐会。"
+      ],
+      [
+        "She has worked in broadcasting for years.",
+        "她从事广播电视工作多年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broadcasting#English",
+      "https://en.wiktionary.org/wiki/broadcast#English"
+    ]
+  }
+]

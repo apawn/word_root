@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B2869",
+    "meaning": "得到、理解与口语连读",
+    "core": "GOT：先看原动词 GET，再分 got 与 gotten",
+    "image": "get 已精讲共享，got → gotten → gotcha 相邻，避免把词形变化当新词根。",
+    "intro": "get 是斯堪的纳维亚借词，got/gotten 保留历史变化。固定 have got 的现代含义需按整个结构讲。",
+    "forms": "get → got／gotten；got + you 连读 → gotcha。\n\ngotta 记录 got to 的连读，常见于 have got to 的必须义，随意口语也可省 have。与机会义 got to、地点义 got to 等完整用法分开看。",
+    "branches": [
+      [
+        "原形与不规则形式",
+        "get · got · gotten"
+      ],
+      [
+        "连读与现代口语",
+        "gotcha"
+      ],
+      [
+        "got to → gotta：必须、得做的口语形式",
+        "gotta"
+      ]
+    ],
+    "contrasts": "have got 现在有，have got to 必须；gotten 尤美式获、变分词；gotcha 多种语气。",
+    "practice": "I’ve got your message, and I’ve gotten used to the new plan.\n\n我收到你的消息了，也已经习惯了新计划。",
+    "words": [
+      "get",
+      "got",
+      "gotten",
+      "gotcha",
+      "gotta"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2870",
+    "meaning": "走了、没了与时间过去",
+    "core": "GONE：原来在，现在已经离开或过去",
+    "image": "go 已有精讲，接 gone；时间分支 ago、bygone，再看口语 goner。",
+    "intro": "gone 是 go 的旧分词。ago 来自旧动词的分词缩短，bygone 接已经过去的画面，goner 是完了者的口语命名。",
+    "forms": "go → went／gone；旧 āgān → agon 分词 → ago；by + gone；gone + -er。",
+    "branches": [
+      [
+        "原动词与离开状态",
+        "go · gone"
+      ],
+      [
+        "过去时间与时代",
+        "ago · bygone"
+      ],
+      [
+        "口语完了者",
+        "goner"
+      ]
+    ],
+    "contrasts": "gone to 去而未返、been to 去过常有差别；ago 通常参照现在；goner 可比喻坏掉的物件。",
+    "practice": "The old machines are gone, but photographs preserve that bygone era.\n\n旧机器已经不在了，照片却留住了那个过去的时代。",
+    "words": [
+      "go",
+      "gone",
+      "ago",
+      "bygone",
+      "goner"
+    ],
+    "exclude": {}
+  }
+]

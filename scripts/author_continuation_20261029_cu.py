@@ -1,0 +1,141 @@
+"""Gold and word: material, colour, value, wording and text structure."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[a+'；'+b,'并列构词部分'],[w,m]]
+GO=[['古英语 gold → 中古英语 gold','黄金；与黄色词族远处相关'],['英语 gold','金属、金色、金牌及珍贵事物的比喻']]
+W('gold','英 /ɡəʊld/；美 /ɡoʊld/','黄金；金色；金牌；极有价值的东西',
+ '先是那种黄色贵金属，再借它的颜色、价值和奖牌来夸别的东西。',
+ '由古英语 gold 延续，属古老日耳曼语词族，远处与黄色相关词族有联系。不能把现代 gold 的字母另编成 go + ld。',GO,
+ 'a gold ring 金戒指，gold paint 金色油漆，win gold 赢金牌；pure gold 可夸内容极有价值。材料与颜色要分，看 gold watch 是真金还是金色仍需实际说明。',
+ 'a gold medal；a gold ring；pure gold；as good as gold。',
+ 'gold 常作名词或名词前修饰语，golden 是相应形容词；gold paint 通常是金色涂料，不保证含黄金。',
+ ('She wore a simple gold ring.','她戴着一枚朴素的金戒指。'),('The swimmer won gold in the final.','那位游泳运动员在决赛中夺得金牌。'))
+W('golden','英 /ˈɡəʊldən/；美 /ˈɡoʊldən/','金色的；金制的；极好的、珍贵的',
+ '像金一样的颜色，或像金一样值得珍惜的时刻、机会。',
+ '认形为 gold + -en 材料、性质形容词后缀；历史接古英语 gylden，中古形式后来受 gold 拼写影响调整。不是 golden 中的 en 表正在进行。',GO[:1]+[['古英语 gylden → 中古英语 gulden、golden → golden','金的、金色的 → 珍贵、极好的']],
+ 'golden light 金色光线，a golden opportunity 绝好机会，a golden age 黄金时代；a golden rule 是重要、基本的准则。',
+ 'golden light；a golden opportunity；a golden age；a golden rule。',
+ 'golden 常能说颜色、赞美，a golden opportunity 不是用金属造的机会；golden hair 金发也不是头发里有金。',
+ ('Golden light filled the room at sunset.','日落时，金色光线洒满房间。'),('This is a golden opportunity to learn from an expert.','这是向专家学习的绝好机会。'))
+W('goldsmith','英 /ˈɡəʊldsmɪθ/；美 /ˈɡoʊldsmɪθ/','金匠',
+ '把金属金加工成戒指、首饰或器物的工匠。',
+ 'gold 金 + smith 金属工匠，古英语 goldsmiþ 已有这一组合。Smith 作姓也很常见，但此处小写 smith 是职业构词部分。',C('gold 金','smith 金属工匠','goldsmith','加工黄金的工匠'),
+ 'a skilled goldsmith 熟练金匠，a goldsmith’s workshop 金匠作坊；现代工作也可能使用其他贵金属材料。',
+ 'a skilled goldsmith；a goldsmith’s workshop；train as a goldsmith。',
+ 'goldsmith 是加工工艺身份，jeweller 可泛说珠宝从业者、珠宝商；卖首饰的人不一定亲手做金工。',
+ ('The goldsmith repaired the damaged ring.','金匠修好了受损戒指。'),('She trained as a goldsmith before opening her own workshop.','她开自己的作坊前，受过金匠训练。'))
+W('goldfish','英 /ˈɡəʊldfɪʃ/；美 /ˈɡoʊldfɪʃ/','金鱼',
+ '固定的观赏鱼名称，虽然叫金鱼，实际颜色、体形可以有很多种。',
+ 'gold 金色 + fish 鱼，按常见外观形成名称；固定物种名称不要求每条个体都金色。',C('gold 金色','fish 鱼','goldfish','以金色外观命名的金鱼'),
+ 'a pet goldfish 宠物金鱼，a goldfish pond 金鱼池；复数常仍为 goldfish。',
+ 'a pet goldfish；a goldfish pond；feed the goldfish。',
+ 'goldfish 金鱼是固定鱼名，golden fish 两词更像金色的鱼这一颜色描述；goldfish 并不只存在一种颜色。',
+ ('The pond contains several goldfish.','池塘里有几条金鱼。'),('A child drew a bright orange goldfish.','一个孩子画了一条亮橙色金鱼。'))
+W('goldfinch','英 /ˈɡəʊldfɪntʃ/；美 /ˈɡoʊldfɪntʃ/','金翅雀；金翅雀类鸟',
+ '鸟名抓住黄色、金色羽毛的明显特点，不是用黄金做的小鸟。',
+ 'gold 金色 + finch 雀类鸟，古英语 goldfinċ 已有旧形式。不同地区称 goldfinch 的鸟有不同外观，不用一个颜色故事替代分类。',C('gold 金色','finch 雀类鸟','goldfinch','按黄、金色羽毛特点命名的雀类鸟'),
+ 'a goldfinch at a feeder 在喂鸟器旁的金翅雀；European goldfinch、American goldfinch 是不同具体名称。',
+ 'a European goldfinch；an American goldfinch；a goldfinch at the feeder。',
+ 'goldfinch 鸟，goldfish 鱼；一个字母段不同，对象完全不同，不能只记前半 gold。',
+ ('A goldfinch landed on the garden fence.','一只金翅雀落在花园围栏上。'),('She identified the goldfinch by its markings.','她根据羽毛斑纹认出了金翅雀。'))
+R('B2566','黄金、金色；价值比喻及工匠、动物名','GOLD：材料、颜色、价值各分开','金戒指讲材料，金色光线讲颜色，黄金机会讲价值；带 gold 的动物名又是固定名称。',
+ 'gold 接古英语旧词，golden 的历史形式与之有关。按材料、形容词、职业、动物和资源区排列，不把金色都等同真金。',
+ 'gold → golden；gold + smith → goldsmith；goldfish、goldfinch 是动物名；goldfield 是产金区。',
+ [['材料、颜色及珍贵','gold · golden'],['工匠与矿区','goldsmith · goldfield'],['动物名称','goldfish · goldfinch']],
+ 'gold paint 不保证含金；golden opportunity 是好机会；goldfish 与 goldfinch 不同动物。',
+ 'The goldsmith saw the exhibition as a golden opportunity.\n\n金匠把这次展览看作一个绝好机会。',
+ 'gold golden goldsmith goldfield goldfish goldfinch')
+WO=[['古英语 word → 中古英语 word','词、话语'],['现代英语 word','单词、话、消息、承诺；作动词表示措辞']]
+W('word','英 /wɜːd/；美 /wɜːrd/','词；话；消息；诺言；措辞',
+ '既能小到一个词，也能把说出来的一句话、传来的消息，或说过就算数的承诺整体叫 word。',
+ '由古英语 word 延续，与拉丁 verbum 等远处同族，但不是英语从现代 verb 借来。不同名词义和措辞动词都是历史使用中固定下来的。',WO,
+ 'a new word 新词，a few words 几句话；word got around 消息传开，keep your word 守信；word an invitation 为邀请函斟酌措辞。',
+ 'a word of advice；spread the word；keep your word；word something carefully。',
+ 'word 是词，也能泛指话语、消息，不等于每次只许一个单词；Can I have a word? 通常是能聊几句吗。',
+ ('Could you explain what this word means?','你能解释这个词的意思吗？'),('He always keeps his word.','他一直说话算数。'))
+W('wordy','英 /ˈwɜːdi/；美 /ˈwɜːrdi/','冗长的；用词过多的',
+ '一句能说明白，却绕三圈塞进很多字，读者要花额外力气才抓住意思。',
+ 'word + -y 带很多……的特征，古英语 wordiġ 已有对应形式。不是词汇量丰富本身，而是表达显得字太多。',WO+[['古英语 wordiġ → wordy','词多 → 冗长、啰嗦的']],
+ 'a wordy explanation 冗长解释，a wordy paragraph 啰嗦段落；常是编辑反馈，不是夸写得丰富。',
+ 'a wordy explanation；a wordy sentence；too wordy。',
+ 'wordy 冗长，detailed 详细；细节充分也能精练，篇幅长不必然 wordy。',
+ ('The introduction is clear but a little wordy.','引言清楚，不过稍显冗长。'),('We shortened the wordy instructions.','我们精简了啰嗦的说明。'))
+W('wordless','英 /ˈwɜːdləs/；美 /ˈwɜːrdləs/','无言的；不用文字、语言表达的',
+ '没有说出口，仍能通过动作、眼神、画面或声音传达意思。',
+ 'word + -less 没有词、话，中古英语已有形式。没有语言不等于没有声音或没有内容。',WO+[['word + -less → wordless','词、话 → 不用语言或文字的']],
+ 'a wordless smile 无言的微笑，a wordless picture book 无字图画书；wordless singing 也可以是没有歌词的哼唱。',
+ 'a wordless smile；a wordless picture book；wordless communication。',
+ 'wordless 没有词句，silent 没有声音或保持沉默；一段 wordless 音乐照样可以很响。',
+ ('They exchanged a wordless smile.','他们相视无言一笑。'),('The child enjoyed the wordless picture book.','孩子很喜欢那本无字图画书。'))
+W('reword','英 /ˌriːˈwɜːd/；美 /ˌriːˈwɜːrd/','改换措辞；重新表述',
+ '意思大致保留，但换一套说法，让它更清楚、更礼貌或更合场景。',
+ 're- 重新 + word 作动词措辞。不是重复同一句，也不必彻底改掉原意。',WO+[['word 的动词义 + re- → reword','措辞 → 换一种措辞']],
+ 'reword a question 重新措辞提问，reword a sentence 改一句话的表达；结果是否改变意思仍要核对。',
+ 'reword a sentence；reword a question；reword for clarity。',
+ 'reword 改措辞，repeat 重复，rewrite 重写范围更大；reword 常只是局部语言调整。',
+ ('Could you reword the question more simply?','你能把问题换个更简单的说法吗？'),('She reworded the message to make it sound friendlier.','她修改了消息措辞，让它听起来更友好。'))
+W('wordsmith','英 /ˈwɜːdsmɪθ/；美 /ˈwɜːrdsmɪθ/','文字高手；擅长遣词造句的人',
+ '金匠打磨金属，文字匠打磨句子，把意思处理得准确、好读或漂亮。',
+ 'word 词、语言 + smith 工匠，把工匠技能借给语言表达；也能作动词说打磨措辞。不是英语里一个正式执照职业。',C('word 词、语言','smith 工匠','wordsmith','善于打磨文字的人'),
+ 'a skilled wordsmith 文字高手，a talented wordsmith 有才华的文字工作者；可以是作者、编辑、演讲稿撰稿者等。',
+ 'a skilled wordsmith；a gifted wordsmith；a professional wordsmith。',
+ 'wordsmith 强调表达技艺，writer 作者更宽；wordsmith 不等于词典里所有 word 的拼写检查工具。',
+ ('The editor was a gifted wordsmith.','编辑是位很有才华的文字高手。'),('A skilled wordsmith turned the rough notes into a clear speech.','一位文字高手把粗略笔记整理成了清晰的演讲稿。'))
+W('foreword','英 /ˈfɔːwɜːd/；美 /ˈfɔːrwɜːrd/','书前序言；前言',
+ '书的正文还没开始，先有人在前面说几句话，介绍这本书和它为什么值得读。',
+ 'fore- 在前 + word 话语，现代书籍用词联系德语 Vorwort 的仿译。不是 forward 向前的另一种拼写。',WO+[['fore- + word；对应德语 Vorwort → foreword','放在书前的话 → 序言']],
+ 'a foreword by someone 某人写的序言，write a foreword 写序；常由作者之外的人撰写，但编辑用名并非处处遵守同一规则。',
+ 'write a foreword；a foreword by；the foreword to a book。',
+ 'foreword 书前序，afterword 书后附言；preface 也说前言，通常更偏作者说明写作缘由，具体出版安排可能交叠。',
+ ('The book has a foreword by a well-known historian.','书前有一篇著名历史学家写的序言。'),('She was invited to write the foreword to the new edition.','她受邀为新版写序。'),sources=['https://en.wiktionary.org/wiki/foreword#English','https://www.etymonline.com/word/foreword'])
+W('afterword','英 /ˈɑːftəwɜːd/；美 /ˈæftərwɜːrd/','后记；书末附言',
+ '正文结束了，再补几句话回顾、解释背景或介绍后续情况。',
+ 'after 在后 + word 话语，形成置于书末的说明文字名词。不是 afterward 后来少写一个字母仍然同义。',C('after 在后','word 话语','afterword','正文之后补充的文字、后记'),
+ 'an afterword to the novel 小说后记，a new afterword for the revised edition 修订版新增后记；可以有不同作者撰写。',
+ 'an afterword to；a new afterword；read the afterword。',
+ 'afterword 后记是名词，afterward、afterwards 后来是副词；I read the afterword afterward 是我后来读了后记。',
+ ('The author added an afterword to the revised edition.','作者给修订版加了一篇后记。'),('The afterword explains what happened to the letters.','后记解释了那些信件后来的下落。'))
+W('password','英 /ˈpɑːswɜːd/；美 /ˈpæswɜːrd/','口令；密码',
+ '说出约定的内容，守门者或系统才知道该让你通过；这是名字最容易抓住的画面。',
+ 'pass 通过 + word 词、口令，早期通关口令背景在前，后来用于计算机认证。现代 password 可以是一串字符，不必只是字典里的一个单词。',C('pass 通过','word 口令、词','password','获准通过的口令 → 登录密码'),
+ 'enter a password 输入密码，reset your password 重设密码；a password manager 密码管理工具。学习例句不需要使用真实密码。',
+ 'enter a password；reset a password；a password manager。',
+ 'password 用来认证，codeword 是代号、暗语，passcode 常是输入用的代码；实际产品有命名差异，不能只按中文密码混成一种。',
+ ('I forgot the password for my old account.','我忘了旧账号的密码。'),('The page asked me to reset my password.','页面要求我重设密码。'))
+W('codeword','英 /ˈkəʊdwɜːd/；美 /ˈkoʊdwɜːrd/','代号；暗语',
+ '表面说的是普通词，双方约定它实际代表另一个指令、人物或事情。',
+ 'code 编码、约定代号 + word 词，形成约定替代含义的词语名称。也常分写 code word。',C('code 编码、约定代号','word 词','codeword','代指特定信息的约定词'),
+ 'use a codeword 使用暗语，the codeword for a mission 任务代号；社会评论中也能指表面中性、实际暗示某态度的词。',
+ 'use a codeword；a secret codeword；the codeword for。',
+ 'codeword 可以传达约定信息而不用于登录；password 主要认证身份或权限，二者有时能在具体故事里重合。',
+ ('In the story, “lantern” is the codeword for the meeting.','故事里，lantern 是那次会面的暗语。'),('The team used a codeword to refer to the secret project.','团队用一个代号称呼这个保密项目。'))
+W('keyword','英 /ˈkiːwɜːd/；美 /ˈkiːwɜːrd/','关键词；编程语言中的关键字',
+ '一段内容里最能抓住重点的词，或搜索时拿来缩小范围的词；编程里又是语言规定有特别作用的词。',
+ 'key 关键的 + word 词。key 在这里是重要、关键的比喻，不是键盘上随便按出的任意单词。',C('key 关键的','word 词','keyword','表示主题、检索重点或语言特定作用的词'),
+ 'search by keyword 按关键词搜索，a programming keyword 编程关键字；搜索系统里 keyword 也可能包含短语，按工具用法。',
+ 'search keywords；a keyword search；identify keywords；a programming keyword。',
+ 'keyword 不必是全文出现最多的词；password 验证身份，keyword 搜索、概括或执行特定语言作用。',
+ ('Choose a few keywords before searching the archive.','查档案前先选几个关键词。'),('The teacher highlighted the keywords in the paragraph.','老师标出了段落中的关键词。'))
+W('buzzword','英 /ˈbʌzwɜːd/；美 /ˈbʌzwɜːrd/','流行术语；时髦热词',
+ '大家都在说，听起来很新、很懂行；有时说得多却没解释清楚，所以常带一点质疑。',
+ 'buzz 热议、兴奋的动静 + word 词，形成流行术语名称。不是每个热词都毫无意义，也不是蜜蜂的叫声。',C('buzz 热议、受关注的动静','word 词','buzzword','被频繁追捧、使用的流行术语'),
+ 'a business buzzword 商业热词，the latest buzzword 最新时髦用语；常批评拿术语装点表达，却不说明具体内容。',
+ 'the latest buzzword；a business buzzword；use buzzwords。',
+ 'buzzword 强调流行、追捧和使用语气，technical term 技术术语强调专门概念；同一词可以既是术语，也被滥用成热词。',
+ ('The presentation was full of buzzwords but short on examples.','演示里满是时髦术语，具体例子却很少。'),('The article explains the idea behind the latest buzzword.','文章解释了最新热词背后的概念。'))
+W('byword','英 /ˈbaɪwɜːd/；美 /ˈbaɪwɜːrd/','某种特点的代名词；典型；旧有谚语义',
+ '说起某个地方、品牌或人物，大家马上想到一种特点，就像它的名字直接等于那种特点。',
+ '古英语 bīword 等已有谚语、常说的话等用法，经中古英语延续；现代 be a byword for 表因某特点出了名。可认形 by- + word，但不能只按在旁边的话推出所有现代意义。',WO[:1]+[['古英语 bīword → 中古英语 byword → byword','谚语、常说的话 → 某种特点的典型、代名词']],
+ 'a byword for quality 优质的代名词，a byword for delay 因延误出了名的典型；好坏特点都能用。',
+ 'a byword for；become a byword；a byword for reliability。',
+ 'byword 不是 keyword 关键词，也不是 password 密码；a byword for quality 是这个名字代表优质，而非质量这个词的词频。',
+ ('The workshop became a byword for quality.','这家作坊成了优质工艺的代名词。'),('In the novel, the office is a byword for endless delays.','小说里，这个办公室因无休止的拖延而出了名。'),sources=['https://en.wiktionary.org/wiki/byword#English','https://www.etymonline.com/word/byword'])
+R('B2413','词、话、消息、诺言；措辞与各种词语用途','WORD：从一个词，到说过的话及表达方式','word 不只是一项词汇：消息传开、守住承诺、重新措辞，都有各自固定说法。复合词按书籍位置、认证代号和检索用途归组。',
+ 'word 继承古英语旧词。wordy 词过多，wordless 不用词，reword 改措辞；foreword 联系德语仿译，byword 有古英语谚语词的历史。',
+ 'word → wordy、wordless、reword、wordsmith；fore- 在前、after 在后；pass、code、key、buzz 改变词语的具体用途。',
+ [['基础及措辞','word · wordy · wordless · reword · wordsmith'],['书前书后','foreword · afterword'],['认证、代号及检索','password · codeword · keyword'],['流行、典型及已学组合','buzzword · byword · watchword · wordplay · crossword']],
+ 'foreword 不是 forward；afterword 不是 afterward；wordless 不一定 silent；buzzword 不一定有精确解释。',
+ 'The wordsmith reworded the foreword to remove unnecessary buzzwords.\n\n文字高手修改了序言措辞，去掉不必要的时髦术语。',
+ 'word wordy wordless reword wordsmith foreword afterword password codeword keyword buzzword byword watchword wordplay crossword')
+if __name__=='__main__':save('continuation_20261029_cu',ROOTS,WORDS)

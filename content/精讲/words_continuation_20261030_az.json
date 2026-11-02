@@ -1,0 +1,430 @@
+[
+  {
+    "word": "spot",
+    "ipa": "英 /spɒt/；美 /spɑːt/",
+    "meaning": "点、斑；地点、位置；名额；发现、认出",
+    "sense": "在一大片里面圈出一个小点：污点、具体地方、某个位置；把它从背景里看出来就是 spot。",
+    "split": "中古英语 spot、spotte 与低地日耳曼同族词、旧 splott 等形式有关，词形关系并非单一路径。地点、职位及发现义逐步形成。",
+    "history": [
+      [
+        "中古英语 spot、spotte；与低地日耳曼同族及 splott 等形式有关",
+        "斑点、小块地方；具体词形关系较复杂"
+      ],
+      [
+        "现代 spot",
+        "点、斑、地点、职位；发现、认出"
+      ]
+    ],
+    "explanation": "a spot on the shirt 衬衫污点，a quiet spot 安静地方，a spot on the team 队中名额，spot a mistake 看出错误，on the spot 当场。",
+    "usage": "a quiet spot；a spot on the team；spot a mistake；on the spot。",
+    "contrast": "spot 发现常有从背景里认出的感觉，notice 注意到范围更广。on the spot 可当场，也可说某处，不总等于在污点上。",
+    "examples": [
+      [
+        "We found a quiet spot beside the lake.",
+        "我们在湖边找了个安静地方。"
+      ],
+      [
+        "Can you spot the mistake in this sentence?",
+        "你能看出这句话里的错误吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spot#English"
+    ]
+  },
+  {
+    "word": "spotless",
+    "ipa": "英 /ˈspɒtləs/；美 /ˈspɑːtləs/",
+    "meaning": "一尘不染的；毫无污点的",
+    "sense": "连一个污点都没有；房间是干净，名声是没被什么丑事玷污。",
+    "split": "spot + -less，中古英语已有同族形式。后缀缺少接斑点、污点义，不是说地方完全不存在。",
+    "history": [
+      [
+        "中古英语 spot、spotte；与低地日耳曼同族及 splott 等形式有关",
+        "斑点、小块地方；具体词形关系较复杂"
+      ],
+      [
+        "现代 spot",
+        "点、斑、地点、职位；发现、认出"
+      ],
+      [
+        "spot + -less → spotless",
+        "无污点 → 洁净、名誉清白"
+      ]
+    ],
+    "explanation": "a spotless kitchen 一尘不染的厨房，a spotless record 清白记录，keep something spotless 保持非常干净。",
+    "usage": "a spotless kitchen；a spotless record；keep spotless。",
+    "contrast": "spotless 常比 clean 更强调没有一点脏；spotless reputation 清白名誉是比喻，不是在擦洗一张简历。",
+    "examples": [
+      [
+        "Her kitchen was always spotless.",
+        "她的厨房总是一尘不染。"
+      ],
+      [
+        "He had a spotless record throughout his career.",
+        "他整个职业生涯记录清白。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spotless#English"
+    ]
+  },
+  {
+    "word": "spotty",
+    "ipa": "英 /ˈspɒti/；美 /ˈspɑːti/",
+    "meaning": "有斑点的；长痘的；零散、不稳定的",
+    "sense": "一处有一处没有，像斑点分布；服务、信号也可时有时无。",
+    "split": "spot + -y，中古英语已有同族形容词。间断、不稳定义接分布零散的形象，不必每次真看见圆斑。",
+    "history": [
+      [
+        "中古英语 spot、spotte；与低地日耳曼同族及 splott 等形式有关",
+        "斑点、小块地方；具体词形关系较复杂"
+      ],
+      [
+        "现代 spot",
+        "点、斑、地点、职位；发现、认出"
+      ],
+      [
+        "spot + -y → spotty",
+        "多斑点；零散分布 → 不均、不稳定"
+      ]
+    ],
+    "explanation": "a spotty face 长痘脸，spotty coverage 断续、不完整覆盖，spotty service 不稳定服务。",
+    "usage": "a spotty face；spotty coverage；spotty service。",
+    "contrast": "spotted 有斑点，spotty 还常说不均匀、质量不稳定；a spotty record 可评价表现时好时坏，不只是有个污点。",
+    "examples": [
+      [
+        "The internet connection is spotty in this area.",
+        "这个地区网络连接时有时无。"
+      ],
+      [
+        "The report relies on spotty historical evidence.",
+        "报告依靠的是零散、不完整的历史证据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spotty#English"
+    ]
+  },
+  {
+    "word": "spotter",
+    "ipa": "英 /ˈspɒtə/；美 /ˈspɑːtər/",
+    "meaning": "观察、识别的人；辅助观察员；举重保护员",
+    "sense": "专门盯着看、帮你认出东西或照看动作的人；健身时可在旁保护举重者。",
+    "split": "spot + -er，双写 t。接发现、观察和相应辅助动词用法，不只指往衣服上弄污点的人。",
+    "history": [
+      [
+        "中古英语 spot、spotte；与低地日耳曼同族及 splott 等形式有关",
+        "斑点、小块地方；具体词形关系较复杂"
+      ],
+      [
+        "现代 spot",
+        "点、斑、地点、职位；发现、认出"
+      ],
+      [
+        "spot + -er → spotter",
+        "执行观察、识别或辅助照看的人"
+      ]
+    ],
+    "explanation": "an aircraft spotter 飞机观察爱好者，a spotter at the gym 健身房举重保护员。",
+    "usage": "an aircraft spotter；a gym spotter；a trained spotter。",
+    "contrast": "spotter 可观察员或举重辅助者，spectator 多是看比赛、演出的观众；不是所有旁观的人都承担 spotter 的工作。",
+    "examples": [
+      [
+        "The aircraft spotter recognized the plane immediately.",
+        "那位飞机观察爱好者立刻认出了机型。"
+      ],
+      [
+        "She asked a spotter to stand behind the bench.",
+        "她请一位举重保护员站在卧推凳后面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spotter#English"
+    ]
+  },
+  {
+    "word": "floor",
+    "ipa": "英 /flɔː/；美 /flɔːr/",
+    "meaning": "地板；楼层；底部、下限；发言权；击倒、难倒",
+    "sense": "脚下承托你的那一层；楼里一层层叠起来，数值也可设一个不能再低的底。",
+    "split": "继承古英语 flōr，已有地面、甲板等义。楼层、下限及会议发言权等分别发展；动词把人打倒到地上，也引申让人惊得不知如何反应。",
+    "history": [
+      [
+        "古英语 flōr → 中古英语 flor、floor → floor",
+        "地面、铺地、甲板等承托表面"
+      ],
+      [
+        "现代 floor",
+        "地板、楼层；底面、下限；发言权；击倒、使惊呆"
+      ]
+    ],
+    "explanation": "on the floor 在地板上，the second floor 二层或三层须看地区计层习惯；have the floor 有发言权，a price floor 价格下限。",
+    "usage": "on the floor；the second floor；have the floor；a price floor。",
+    "contrast": "美式 first floor 常是地面那层，英式通常叫 ground floor，first floor 为上一层。floor 地板不同于 roof 屋顶；动词 be floored 可惊呆、难倒。",
+    "examples": [
+      [
+        "Please put the box on the floor.",
+        "请把箱子放在地板上。"
+      ],
+      [
+        "The question completely floored me.",
+        "那个问题把我彻底问住了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/floor#English"
+    ]
+  },
+  {
+    "word": "floorboard",
+    "ipa": "英 /ˈflɔːbɔːd/；美 /ˈflɔːrbɔːrd/",
+    "meaning": "地板木条、地板板材；汽车脚部底板〔也见复数〕",
+    "sense": "铺成地板的一条条板；车里也可按脚下那块底板称呼。",
+    "split": "floor + board 板。不是负责管理一层楼的董事会 board。",
+    "history": [
+      [
+        "古英语 flōr → 中古英语 flor、floor → floor",
+        "地面、铺地、甲板等承托表面"
+      ],
+      [
+        "现代 floor",
+        "地板、楼层；底面、下限；发言权；击倒、使惊呆"
+      ],
+      [
+        "floor + board → floorboard",
+        "地板的板材；另有车辆底板用法"
+      ]
+    ],
+    "explanation": "creaking floorboards 吱嘎响的地板板材，a loose floorboard 松动地板条，under the floorboards 在地板下面。",
+    "usage": "creaking floorboards；a loose floorboard；under the floorboards。",
+    "contrast": "floor 整个地板、楼层，floorboard 构成它的一块板；board 在这里取材料板义，非委员会。",
+    "examples": [
+      [
+        "One of the floorboards creaked as she crossed the room.",
+        "她穿过房间时，一块地板条吱嘎响了一声。"
+      ],
+      [
+        "They found the letter under a loose floorboard.",
+        "他们在一块松动地板下面找到了信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/floorboard#English"
+    ]
+  },
+  {
+    "word": "underfloor",
+    "ipa": "英 /ˈʌndəflɔː/；美 /ˈʌndərflɔːr/",
+    "meaning": "地板下的",
+    "sense": "把管线、供暖等放在脚下地板下面，按位置直接描述。",
+    "split": "under- 下面 + floor。常在名词前作形容修饰，尤其 underfloor heating 地暖。",
+    "history": [
+      [
+        "古英语 flōr → 中古英语 flor、floor → floor",
+        "地面、铺地、甲板等承托表面"
+      ],
+      [
+        "现代 floor",
+        "地板、楼层；底面、下限；发言权；击倒、使惊呆"
+      ],
+      [
+        "under- + floor → underfloor",
+        "位于地板下面的"
+      ]
+    ],
+    "explanation": "underfloor heating 地暖，underfloor space 地板下空间，underfloor pipes 地板下管道。",
+    "usage": "underfloor heating；underfloor space；underfloor pipes。",
+    "contrast": "underfloor 地板下面，underground 地下；高层楼里的地暖也可 underfloor，不需要整栋房子在地底。",
+    "examples": [
+      [
+        "The apartment has underfloor heating.",
+        "这套公寓装有地暖。"
+      ],
+      [
+        "The cables run through the underfloor space.",
+        "电缆从地板下面的空间穿过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underfloor#English"
+    ]
+  },
+  {
+    "word": "rise",
+    "ipa": "/raɪz/",
+    "meaning": "上升、上涨；起身；出现、增高；增长〔名词〕",
+    "sense": "东西自己从低往高走：太阳升，水位涨，人站起来，数量也可以上去。",
+    "split": "继承古英语 rīsan，变化 rise—rose—risen。现代通常不及物，讲主语自身升起；相关 raise 使升高经另一同族借入形式，不是 rise 的过去式。",
+    "history": [
+      [
+        "古英语 rīsan → 中古英语 risen → rise",
+        "站起、升起、出现"
+      ],
+      [
+        "现代 rise",
+        "上升、上涨、起身；增长、上升等名词用法"
+      ]
+    ],
+    "explanation": "prices rise 价格上涨，rise from a chair 从椅子上起身，rise to the challenge 迎接挑战，a rise in costs 费用增加。",
+    "usage": "prices rise；rise from；rise to the challenge；a rise in。",
+    "contrast": "The sun rises 太阳升起，raise your hand 举手。rise 通常自己升，raise 通常使某物升；rose 还可同形为玫瑰，按句子区分。",
+    "examples": [
+      [
+        "The water level rose after the rain.",
+        "雨后水位上升了。"
+      ],
+      [
+        "She rose from her chair to greet us.",
+        "她从椅子上站起身迎接我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rise#English"
+    ]
+  },
+  {
+    "word": "risen",
+    "ipa": "/ˈrɪzn/",
+    "meaning": "rise 的过去分词；已升起、上涨的",
+    "sense": "不是说昨天升这个过去动作，而是放在 have、be 等结构里表达已经升起的结果或状态。",
+    "split": "rise 的历史不规则过去分词，元音变为 /ɪ/，末尾保留 -en 分词形式；过去式是 rose。",
+    "history": [
+      [
+        "古英语 rīsan → 中古英语 risen → rise",
+        "站起、升起、出现"
+      ],
+      [
+        "现代 rise",
+        "上升、上涨、起身；增长、上升等名词用法"
+      ],
+      [
+        "rise → rose → risen",
+        "原形 → 过去式 → 过去分词"
+      ]
+    ],
+    "explanation": "has risen 已经上涨，the sun has risen 太阳已经升起。较正式、宗教语境另可见 the risen ... 的形容用法。",
+    "usage": "has risen；had risen；the sun has risen。",
+    "contrast": "rose 过去式，risen 分词，raised 则是 raise 的过去、分词。Prices have risen 不写 have rose。",
+    "examples": [
+      [
+        "The price has risen twice this year.",
+        "今年价格已经涨过两次。"
+      ],
+      [
+        "By the time we left, the sun had risen.",
+        "我们出发时，太阳已经升起来了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/risen#English"
+    ]
+  },
+  {
+    "word": "arise",
+    "ipa": "/əˈraɪz/",
+    "meaning": "出现、产生；由……引起；起身〔正式〕",
+    "sense": "问题、机会从原来没有的位置冒出来；现代经常说事情产生，不只说人站起来。",
+    "split": "古英语 ārīsan，由旧 ā- + rīsan 组成，现代对应 a- + rise；前部不是希腊语否定。变化 arise—arose—arisen。",
+    "history": [
+      [
+        "古英语 rīsan → 中古英语 risen → rise",
+        "站起、升起、出现"
+      ],
+      [
+        "古英语 ārīsan → arise",
+        "起身、升起 → 产生、出现；来源于"
+      ]
+    ],
+    "explanation": "problems arise 问题出现，an opportunity arises 机会出现，arise from 由……引起。",
+    "usage": "problems arise；an opportunity arises；arise from。",
+    "contrast": "rise 常上升，arise 常产生；a problem arose 出问题，不表示问题在高度上升。raise a problem 提出问题又是使动结构。",
+    "examples": [
+      [
+        "A new problem arose during testing.",
+        "测试时出现了一个新问题。"
+      ],
+      [
+        "The misunderstanding arose from a vague instruction.",
+        "误会由一条含糊指令引起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/arise#English"
+    ]
+  },
+  {
+    "word": "riser",
+    "ipa": "英 /ˈraɪzə/；美 /ˈraɪzər/",
+    "meaning": "早起、晚起的人〔搭配中〕；台阶立板；垫高平台",
+    "sense": "一个人几点起床，可以叫哪种 riser；建筑、舞台里也用它说竖起或把高度垫起来的部分。",
+    "split": "rise + -er，中古英语已有对应形式。人物、构件同围绕升起、立高，但具体名称按行业固定。",
+    "history": [
+      [
+        "古英语 rīsan → 中古英语 risen → rise",
+        "站起、升起、出现"
+      ],
+      [
+        "现代 rise",
+        "上升、上涨、起身；增长、上升等名词用法"
+      ],
+      [
+        "rise + -er → riser",
+        "起身者；竖向、抬高用的构件"
+      ]
+    ],
+    "explanation": "an early riser 早起者，a late riser 晚起者，stair risers 台阶立板，a stage riser 舞台垫高平台。",
+    "usage": "an early riser；a late riser；stair risers；a stage riser。",
+    "contrast": "riser 单独不一定早起，early 才说明；楼梯 tread 常说踩的水平面，riser 说竖向那块。",
+    "examples": [
+      [
+        "I’m an early riser even at weekends.",
+        "即使周末，我也习惯早起。"
+      ],
+      [
+        "The choir stood on a low riser.",
+        "合唱团站在一个低矮的垫高台上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/riser#English"
+    ]
+  },
+  {
+    "word": "moonrise",
+    "ipa": "/ˈmuːnraɪz/",
+    "meaning": "月出；月亮升起的时刻",
+    "sense": "从地面看，月亮从地平线升出来；前面的 moon 直接说明是谁在 rise。",
+    "split": "moon 月亮 + rise 升起，名词组合。不是人把月亮主动举上天。",
+    "history": [
+      [
+        "古英语 rīsan → 中古英语 risen → rise",
+        "站起、升起、出现"
+      ],
+      [
+        "现代 rise",
+        "上升、上涨、起身；增长、上升等名词用法"
+      ],
+      [
+        "moon + rise → moonrise",
+        "月亮升起；相应时刻"
+      ]
+    ],
+    "explanation": "watch the moonrise 看月出，before moonrise 月出之前，the time of moonrise 月出时刻。",
+    "usage": "watch the moonrise；before moonrise；the time of moonrise。",
+    "contrast": "moonrise 月出，sunrise 日出；这两个是所见天体升起，moonlight、sunlight 则说光。",
+    "examples": [
+      [
+        "We stayed on the beach to watch the moonrise.",
+        "我们留在海滩上看月出。"
+      ],
+      [
+        "The guide listed the time of moonrise.",
+        "指南列出了月出时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moonrise#English"
+    ]
+  }
+]

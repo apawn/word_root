@@ -1,0 +1,114 @@
+[
+  {
+    "id": "B4154",
+    "meaning": "湿泥与混浊的形象，再到由泥质沉积成岩的名称",
+    "core": "MUD：泥混在水里，既能看质地也能看清晰程度",
+    "image": "mud → muddy；mudstone 是泥质沉积成岩；mudslide 接泥土滑动。",
+    "intro": "湿泥、浑浊、把问题搅浑，联想很直观。泥岩则要多看一步，已经从沉积物变成岩石。",
+    "forms": "mudde 等 → mud；-y 性质，双写 d；stone 岩石，slide 滑动。\n\nmuddle 可能接 mud 或荷兰语同族材料；英语早期抽象失去清楚的记录早于部分具体泥水义，形象有助理解，但不能倒排实际年代。\n\nroil 来源未定，早期有搅浑液体和扰乱情绪的用法；rile 是其方言读音对应的拼写变化。泥水意象方便理解，但这里不声称 roil、rile 从英语 mud 派生。",
+    "branches": [
+      [
+        "湿泥与浑浊性质",
+        "mud · muddy"
+      ],
+      [
+        "地质物质与事件",
+        "mudstone · mudslide"
+      ],
+      [
+        "muddle：像水变浑一样，次序和想法乱了",
+        "mud · muddle · muddles · muddled · muddling"
+      ],
+      [
+        "roil、rile 与泥水搅浑作近义意象比较",
+        "mud · roil · roils · roiled · roiling · rile · riles · riled · riling"
+      ]
+    ],
+    "contrasts": "mud 与 dust、soil 不完全相同；mudstone 不是松散泥；muddy the waters 是固定比喻。",
+    "practice": "The muddy path ran beneath a mudstone cliff.\n\n泥泞小路经过一面泥岩崖壁下方。",
+    "words": [
+      "mud",
+      "muddy",
+      "mudstone",
+      "mudslide",
+      "muddle",
+      "muddles",
+      "muddled",
+      "muddling",
+      "roil",
+      "roils",
+      "roiled",
+      "roiling",
+      "rile",
+      "riles",
+      "riled",
+      "riling"
+    ],
+    "exclude": {
+      "mud-kicker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mud-crusher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mudder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4603",
+    "meaning": "细滴撒散的动作、喷雾及设备，与花枝同形词分清",
+    "core": "SPRAY：把液体分成许多细滴散开",
+    "image": "spray → spraying、sprayer；花枝 spray 是另一来源的固定名词。",
+    "intro": "喷雾从动作到液滴、产品、器具，关系清楚；花枝义只要另记一条，不必编成花是喷出来的。",
+    "forms": "sprayen 等 → spray；-ing 过程，-er 执行者和器具，均保留 y；小枝义另有中古英语来源。\n\n喷洒动词接中古荷兰语 sprayen 一系；花枝、小枝 spray 在中古英语另有记录，不从喷雾形状硬推来。",
+    "branches": [
+      [
+        "动作、细滴与另源花枝",
+        "spray"
+      ],
+      [
+        "过程与设备",
+        "spraying · sprayer"
+      ],
+      [
+        "spray 喷滴、小枝分源及现代变化",
+        "spray · sprays · sprayed · spraying"
+      ]
+    ],
+    "contrasts": "spray 不等于 pour；sprayer 不只喷瓶；a spray of flowers 是花枝。",
+    "practice": "The sprayer produces a fine spray for gentle watering.\n\n喷雾器产生细水雾，用于轻柔浇水。",
+    "words": [
+      "spray",
+      "spraying",
+      "sprayer",
+      "sprays",
+      "sprayed"
+    ],
+    "exclude": {
+      "spray-on": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spray-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3482",
+    "meaning": "体积、货堆与主要部分，再分清隔断来源的 bulkhead",
+    "core": "BULK：体量大、主要部分或批量；BULKHEAD 单看隔断历史",
+    "image": "bulk → bulky；bulkhead 前部与隔断、梁类旧词相连。",
+    "intro": "大行李看空间，工作大部分看比例，散货看运输方式。隔板词则不能只套现代大块意思。",
+    "forms": "búlki 船货等 → bulk；-y 性质；bálkr 等隔断相关形式 + head → bulkhead。",
+    "branches": [
+      [
+        "体积、主要部分与性质",
+        "bulk · bulky"
+      ],
+      [
+        "隔板的相关但不同历史",
+        "bulkhead"
+      ]
+    ],
+    "contrasts": "bulky 不保证重；in bulk 依语境区分批量、散装；bulkhead 不等于船的整个外壳。",
+    "practice": "The bulky bags occupied the bulk of the storage space.\n\n这些大包占了储物空间的大部分。",
+    "words": [
+      "bulk",
+      "bulky",
+      "bulkhead"
+    ],
+    "exclude": {}
+  }
+]

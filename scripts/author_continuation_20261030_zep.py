@@ -1,0 +1,249 @@
+"""Trust, doubt, belief, reliance and confiding: common forms in family order."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3427':dict(words=['trust','trusts','trusted','trusting','distrust','distrusts','distrusted','distrusting','mistrust','mistrusts','mistrusted','mistrusting','entrust','entrusts','entrusted','entrusting'],label='trust 的信任、不信任与交托：常用变化成组',note='日耳曼信心、支持材料的具体传承有不同分析；distrust 与 mistrust 用法重叠，entrust 进一步强调交付责任。'),
+ 'A1744':dict(words=['trust','distrust','distrusts','distrusted','distrusting','believe','disbelieve','disbelieves','disbelieved','disbelieving'],label='dis- 的不信任与不相信',note='distrust、disbelieve 是现代否定构词；相信说法与信任可靠性分开看，不靠前缀硬定怀疑强弱。'),
+ 'C0349':dict(words=['doubt','doubts','doubted','doubting'],label='doubt 的二心、犹疑与现代变化',note='拉丁 duo 与 dubitare 的两可、犹疑材料经法语借入；b 是后来仿拉丁补进的拼写，不发音。'),
+ 'C0350':dict(words=['doubt','doubts','doubted','doubting'],label='doubt 的怀疑动词及过去、-ing 形式',note='名词、动词各有法语路线；doubted 的 /ɪd/ 是 /t/ 后词尾，doubting 不读 b。'),
+ 'C1379':dict(words=['suspect','suspects','suspected','suspecting','suspicion','suspicions'],label='suspect 与 suspicion：看、猜疑材料的常见形式',note='suspect 动词后重音；suspicion 经法语、拉丁名词材料另路借入，不当成 suspect 直接加 -ion。'),
+ 'B3353':dict(words=['believe','believes','believed','believing','disbelieve','disbelieves','disbelieved','disbelieving'],label='believe 与 disbelieve 的相信、不信及常用变化',note='believe 承古英语信赖材料，更远联系珍视、喜爱词族；不是现代 be 加 leave。'),
+ 'B4072':dict(words=['rely','relies','relied','relying'],label='rely：把信任系上去，现代依靠的常用变化',note='拉丁 religare 系牢经法语 relier 到英语；现代介词 on、upon 接依靠对象，不能按再次躺下解释。'),
+ 'C0672':dict(words=['rely','relies','relied','relying'],label='lig- 的系牢材料进入 rely 与现代词形',note='现代 y 在 -s、-ed 前变化，在 -ing 前保留；拼写变化与古代 ligare 的历史变化分开。'),
+ 'C0288':dict(words=['assurance','assurances','reassurance','reassurances'],label='保证与安抚话：assurance、reassurance 的可数复数',note='assurance 的法语名词借入与 assure 对应；复数常数若干保证话、安抚承诺，不把所有抽象信心机械复数。'),
+ 'C0421':dict(words=['confide','confides','confided','confiding','confidence','confidences'],label='confide 与 confidence：信任、私密倾诉及常用变化',note='拉丁信任材料分别形成借词，confidence 名词有独立历史；confidences 常指托付的话、私事。'),
+ 'C1641':dict(words=['convince','convinces','convinced','convincing'],label='convince → convinces：以理由、证据使人信服',note='拉丁战胜材料在 convincere 中转向证实、驳倒，英语使相信义；不是按现代字母任意拆一个 vince。'),
+}
+TRUST=[['日耳曼信心、支持材料 → 中古英语 trust、trost','与古诺尔斯 traust 等相连，具体传承有不同分析'],['现代 trust','信任、依赖；也可将责任交托']]
+W('trusts','/trʌsts/','信任、相信、托付〔第三人称单数〕；信托等〔复数〕',
+ '觉得一个人靠得住，敢把重要的事交给他，是 trusts 常见的意思。作为复数名词，它也可以数几项信托安排。',
+ 'trust + -s，/t/ 后读 /s/，词尾连成 /sts/。基础词属于日耳曼信任、支持词族，北欧借入与本族传承有不同分析。',
+ TRUST+[['trust + -s → trusts','他、她信任；相应名词复数']],
+ 'trusts her judgement 是相信她的判断；trusts him with the keys 是信任他，把钥匙交给他。',
+ 'trusts the team 信任团队；trusts her to finish 相信她会完成。',
+ 'believes someone 常是相信其所说，trusts someone 常是信任其可靠性；两者有交集，但对象关系可以不同。',
+ ('She trusts her own judgement.','她相信自己的判断。'),('He trusts me with the keys to the office.','他信任我，把办公室钥匙交给我保管。'),sources=['https://en.wiktionary.org/wiki/trusts#English','https://www.etymonline.com/word/trust'])
+DISTRUST=TRUST+[['dis- + trust → distrust','对可靠性不放心、不信任']]
+W('distrusts','/dɪsˈtrʌsts/','不信任、怀疑可靠性〔第三人称单数〕',
+ '对方说得再好，心里仍觉得靠不住，这种态度是 distrusts。人、数字、消息来源都能成为对象。',
+ 'dis- + trust → distrust，再加 -s；否定前缀加在信任动词上，末尾 /sts/。',
+ DISTRUST+[['distrust + -s → distrusts','他、她不信任']],
+ 'distrusts the source 是不信消息来源；distrusts his own memory 是对自己的记忆没把握。',
+ 'distrusts strangers 不信任陌生人；distrusts the figures 不信这些数字。',
+ 'distrusts 与 mistrusts 大量重叠；不要硬规定一个一定有证据、另一个一定没有证据。',
+ ('She distrusts figures that have no clear source.','她不信没有明确来源的数字。'),('He distrusts his own memory and writes everything down.','他对自己的记忆没把握，什么都记下来。'),sources=['https://en.wiktionary.org/wiki/distrusts#English','https://en.wiktionary.org/wiki/distrust#English'])
+W('distrusted','/dɪsˈtrʌstɪd/','不信任了；受到怀疑、不被信任的',
+ '过去一直觉得某人靠不住，用 distrusted；一个解释被很多人怀疑，也可说 was distrusted。',
+ 'distrust + 完整 -ed，/t/ 后读 /ɪd/。词根 trust 不改变，过去词尾另添音节。',
+ DISTRUST+[['distrust + -ed → distrusted','过去不信任；不被信任']],
+ 'distrusted his motives 是怀疑他的动机；widely distrusted 是普遍不被信任。',
+ 'deeply distrusted 深深不信任的；distrusted the explanation 不信那番解释。',
+ 'distrusted 是可靠性上的怀疑；disliked 是不喜欢。过去不喜欢的人，也可能仍被认为办事可靠。',
+ ('She distrusted his sudden offer of help.','她对他突然提出帮忙心存疑虑。'),('The explanation was widely distrusted.','那番解释普遍不被信任。'),sources=['https://en.wiktionary.org/wiki/distrusted#English','https://en.wiktionary.org/wiki/distrust#English'])
+W('distrusting','/dɪsˈtrʌstɪŋ/','正在怀疑、不信任；多疑的',
+ '心里总留着一份“恐怕靠不住”，叫 distrusting；用来形容人时，突出他不愿轻易相信。',
+ 'distrust + 完整 -ing，直接接词尾。由不信任动作，可描述这种态度或人的性质。',
+ DISTRUST+[['distrust + -ing → distrusting','怀疑的活动、态度']],
+ 'distrusting the result 是对结果不信；a distrusting look 是带着疑心的眼神。',
+ 'distrusting his memory 怀疑自己的记忆；increasingly distrusting 越来越不信任。',
+ 'distrusting 说不肯相信的态度；untrustworthy 则说对象不值得信任，不要把怀疑者和被怀疑者混在一起。',
+ ('Distrusting his memory, he checked the note again.','他不信自己的记忆，又检查了一遍便条。'),('She was becoming increasingly distrusting of their promises.','她变得越来越不信他们的承诺。'),sources=['https://en.wiktionary.org/wiki/distrusting#English','https://en.wiktionary.org/wiki/distrust#English'])
+MISTRUST=TRUST+[['mis- + trust → mistrust','中古英语已有不信任、怀疑的相关形式']]
+W('mistrusts','/mɪsˈtrʌsts/','不信任、怀疑〔第三人称单数〕',
+ '面对一个人、一套数字，心里总有一点“我还不敢信”，可以说 mistrusts。',
+ 'mistrust + -s，词尾 /sts/。mis- 在这个已成形的词里是否定、怀疑用途，不是“已经把信任给错人”的唯一意思。',
+ MISTRUST+[['mistrust + -s → mistrusts','他、她心存不信任']],
+ 'mistrusts the report 是对报告不放心，mistrusts easy answers 是不轻信过于轻巧的答案。',
+ 'mistrusts strangers 不信任陌生人；mistrusts simple solutions 不轻信简单解决办法。',
+ 'mistrust 与 distrust 都能表示不信任；日常具体句子里的语气，比强行划分两个固定等级更可靠。',
+ ('She mistrusts answers that sound too easy.','她不轻信那些听起来过于轻巧的答案。'),('He mistrusts the report because several details are missing.','报告缺了几处细节，因此他对它抱有怀疑。'),sources=['https://en.wiktionary.org/wiki/mistrusts#English','https://www.etymonline.com/word/mistrust'])
+W('mistrusted','/mɪsˈtrʌstɪd/','不信任、怀疑了；不被信任的',
+ '回头说当时不肯信某个承诺，叫 mistrusted；人被周围人猜疑，也可以用被动。',
+ 'mistrust + 完整 -ed，/t/ 后读 /ɪd/。过去的时间由词尾给出，不改变 trust 本身的读音。',
+ MISTRUST+[['mistrust + -ed → mistrusted','过去怀疑；受到不信任']],
+ 'mistrusted his intentions 是怀疑他的意图；was mistrusted by others 是不被别人信任。',
+ 'mistrusted the promise 不信那个承诺；widely mistrusted 普遍不被信任的。',
+ 'mistrusted 说明当时的信任态度，misunderstood 说明理解错了；不信和误解是两个不同问题。',
+ ('They mistrusted each other at first.','他们起初互不信任。'),('She mistrusted the promise of an instant solution.','她不信那种立刻就能解决的承诺。'),sources=['https://en.wiktionary.org/wiki/mistrusted#English','https://www.etymonline.com/word/mistrust'])
+W('mistrusting','/mɪsˈtrʌstɪŋ/','怀疑、不信任的活动；心存戒心的',
+ '把对方说的话先留在门外，不急着当真，是 mistrusting 的态度。可以有具体对象，也能形容一个人疑心较重。',
+ 'mistrust + 完整 -ing，直接相接；由不信任动作形成进行形式、性质描述。',
+ MISTRUST+[['mistrust + -ing → mistrusting','不信任的过程、态度']],
+ 'mistrusting the evidence 是不信这些证据；a mistrusting expression 是带疑虑的表情。',
+ 'mistrusting everyone 谁也不信；mistrusting his judgement 对他的判断抱疑。',
+ 'mistrusting 描写心里的不信任，cautious 描写行事谨慎；谨慎的人不必总是怀疑他人的动机。',
+ ('He was tired of mistrusting everyone around him.','他厌倦了对身边所有人都心存戒心。'),('Mistrusting the old map, she asked a local resident for directions.','她不信那张旧地图，于是向当地居民问路。'),sources=['https://en.wiktionary.org/wiki/mistrusting#English','https://www.etymonline.com/word/mistrust'])
+DOUBT=[['拉丁 duo → dubitare → 古法语 doter、douter','二 → 两可、犹疑；法语也有畏惧义'],['中古英语 douten → doubt','怀疑；后按拉丁补写 b，读音不发 b']]
+W('doubted','/ˈdaʊtɪd/','怀疑了；当时拿不准、不能相信',
+ '过去心里想“真能这样吗？我恐怕不信”，用 doubted。也可以怀疑自己的能力、判断。',
+ 'doubt + 完整 -ed，/t/ 后读 /ɪd/；中间 b 始终不发音。历史上的拼写补 b 与现代过去式是两步变化。',
+ DOUBT+[['doubt + -ed → doubted','过去怀疑、拿不准']],
+ 'doubted that... 常偏向不相信，doubted whether... 常突出拿不准是否；具体语气仍看句子。',
+ 'doubted his ability 怀疑他的能力；never doubted her 从未怀疑她。',
+ 'doubted that he knew 往不太相信他知道的方向走；suspected that he knew 往猜他可能知道的方向走。',
+ ('I doubted that we could finish in time.','我当时觉得我们恐怕来不及完成。'),('She never doubted his ability to learn.','她从未怀疑他的学习能力。'),sources=['https://en.wiktionary.org/wiki/doubted#English','https://www.etymonline.com/word/doubt'])
+W('doubting','/ˈdaʊtɪŋ/','怀疑、拿不准的过程；抱疑的',
+ '原本相信的事，现在心里出现问号，是 doubting。它可以是一时的迟疑，也能描述不轻信的态度。',
+ 'doubt + 完整 -ing，b 不发音。更早二、犹疑的材料解释词族来源，不表示每次怀疑都恰好只有两个选择。',
+ DOUBT+[['doubt + -ing → doubting','怀疑的活动、态度']],
+ 'started doubting the story 是开始不信那个故事；doubting yourself 是对自己没把握。',
+ 'doubting his account 怀疑他的叙述；a doubting look 带疑虑的一眼。',
+ 'doubting 描写某人的疑虑，doubtful 既可形容有疑虑的人，也可形容不确定、可疑的结果，范围更宽。',
+ ('She started doubting the story when the dates changed.','日期一变，她开始怀疑那个故事。'),('After the setback, he found himself doubting his own judgement.','受挫后，他发现自己开始怀疑自己的判断。'),sources=['https://en.wiktionary.org/wiki/doubting#English','https://www.etymonline.com/word/doubt'])
+SUSPECT=[['拉丁 sub- + specere → suspicere、suspectus','看、观察材料发展出猜疑、受到猜疑的用途'],['法语、拉丁相关形式 → 英语 suspect','动词怀疑、猜测；名词嫌疑人；形容词可疑的']]
+W('suspecting','/səˈspektɪŋ/','正在怀疑、猜测；心里已有疑念',
+ '没有直接看见，却从迹象觉得“可能是这样”，叫 suspecting。它既能怀疑坏事，也能只是普通推测。',
+ '动词 suspect + 完整 -ing，重音仍在后面的 spect。基础词接拉丁看、猜疑材料，不按现代“在下面看”硬推所有意思。',
+ SUSPECT+[['suspect + -ing → suspecting','怀疑、猜测的过程']],
+ 'suspecting that... 是猜想某事；suspecting someone of doing 是怀疑某人做过某事。',
+ 'without suspecting anything 毫无察觉；suspecting a mistake 怀疑有错误。',
+ 'suspecting that 常偏向觉得可能如此；doubting that 常偏向不相信如此，方向差别比中文都译怀疑更要紧。',
+ ('Suspecting a mistake, she checked the total again.','她怀疑有错误，又核了一遍总数。'),('He walked into the room without suspecting anything.','他毫无察觉地走进房间。'),sources=['https://en.wiktionary.org/wiki/suspecting#English','https://en.wiktionary.org/wiki/suspect#English'])
+W('suspicions','/səˈspɪʃənz/','疑念、猜疑；几处让人起疑的想法',
+ '心里有一个“恐怕有问题”的念头，是 a suspicion；几个疑念合起来是 suspicions。',
+ 'suspicion + -s，/n/ 后读 /z/。suspicion 经法语、拉丁名词材料借入，与 suspect 同族，不是英语 suspect 直接加 -ion。',
+ [['拉丁 suspicere 的猜疑词族 → 拉丁、法语相应名词','怀疑、疑心；不同历史拼写相互影响'],['英语 suspicion + -s → suspicions','具体的疑念、猜疑']],
+ 'aroused suspicions 是引起疑心；confirmed my suspicions 是印证了我原先的猜想。',
+ 'have suspicions about 对……抱有怀疑；raise suspicions 引起猜疑。',
+ 'suspicions 是疑念，suspects 是被怀疑的人或动词三单；不要把心里的问号与被怀疑的对象混为一类。',
+ ('The missing pages aroused her suspicions.','缺失的几页引起了她的疑心。'),('The message confirmed my suspicions that the plan had changed.','这条消息印证了我的猜想：计划已经变了。'),sources=['https://en.wiktionary.org/wiki/suspicions#English','https://www.etymonline.com/word/suspicion'])
+BELIEVE=[['古英语 belyfan、beliefan 等 → 中古英语 bileven、beleven','相信、信赖；更远与珍视、喜爱词族相连'],['英语 believe → dis- + believe → disbelieve','相信 → 不相信说法为真']]
+W('disbelieves','/ˌdɪsbɪˈliːvz/','不相信、认为不真实〔第三人称单数〕',
+ '听到一个说法，心里没有把它当成真事，是 disbelieves。通常比日常 doesn’t believe 显得书面一些。',
+ 'disbelieve + -s，保留末尾 e，/v/ 后读 /z/。前面的 dis- 给相信动词加上否定意思。',
+ BELIEVE+[['disbelieve + -s → disbelieves','他、她不相信']],
+ 'disbelieves the account 是不信那番叙述，disbelieves someone 是不信对方所说。',
+ 'disbelieves the story 不信那个故事；disbelieves the explanation 不信那番解释。',
+ 'disbelieves 说不把内容当真；disagrees 说不同意。相信一个人确实有某观点，也仍可不同意该观点。',
+ ('She disbelieves the story because the dates do not match.','日期对不上，因此她不信那个故事。'),('He disbelieves anyone who promises instant success.','谁承诺能立刻成功，他都不信。'),sources=['https://en.wiktionary.org/wiki/disbelieves#English','https://en.wiktionary.org/wiki/disbelieve#English'])
+W('disbelieved','/ˌdɪsbɪˈliːvd/','当时不相信；不被相信的',
+ '过去听了却没有接受为真，叫 disbelieved；叙述不被大家相信，也能用被动。',
+ 'disbelieve 去 e，加完整 -ed；/v/ 后读 /d/，没有额外 /ɪd/ 音节。',
+ BELIEVE+[['disbelieve + -ed → disbelieved〔去 e〕','过去不信；未被接受为真']],
+ 'disbelieved her account 是当时不信她的叙述，was disbelieved 是所说的话不被信。',
+ 'widely disbelieved 普遍不被相信的；disbelieved at first 起初不被信的。',
+ 'disbelieved 是相信与否的态度，disproved 是证明某个说法不成立；没有被相信，不等于已经被证明为假。',
+ ('I disbelieved the report until I saw the photographs.','我原先不信那份报道，直到看见照片。'),('Her account was disbelieved at first.','她的叙述起初不被相信。'),sources=['https://en.wiktionary.org/wiki/disbelieved#English','https://en.wiktionary.org/wiki/disbelieve#English'])
+W('disbelieving','/ˌdɪsbɪˈliːvɪŋ/','不相信的；露出难以置信神情的',
+ '听到一个过于意外的消息，脸上写着“真的吗”，那种眼神可以叫 disbelieving。',
+ 'disbelieve 去 e，加完整 -ing；从不相信的动作，常形成对眼神、笑声等的性质描述。',
+ BELIEVE+[['disbelieve + -ing → disbelieving〔去 e〕','不相信的活动 → 难以置信的表现']],
+ 'a disbelieving look 是不信的眼神；a disbelieving laugh 是像在说“怎么可能”的笑。',
+ 'a disbelieving stare 难以置信的注视；disbelieving the account 不信那番叙述。',
+ 'disbelieving 形容某人不信或露出不信的反应；unbelievable 形容事情难以置信。',
+ ('She gave me a disbelieving look.','她用难以置信的眼神看了我一眼。'),('He let out a disbelieving laugh when he heard the price.','听见价格，他难以置信地笑了一声。'),sources=['https://en.wiktionary.org/wiki/disbelieving#English','https://en.wiktionary.org/wiki/disbelieve#English'])
+RELY=[['拉丁 ligare → religare → 古法语 relier','绑、连接 → 系牢、聚到一起'],['英语 rely','早有聚集等义，后发展出依靠、信赖']]
+W('relies','/rɪˈlaɪz/','依靠、信赖〔第三人称单数〕',
+ '需要某种资源才能运转，或把完成事情的把握放在某人身上，就是 relies on。',
+ 'rely 的辅音字母加 y 结尾，三单把 y 改为 i，加 -es；读音仍保留 /aɪ/。古代系牢材料与今天的词尾变化分开看。',
+ RELY+[['rely → relies〔y 改 i，加 -es〕','他、她、它依靠']],
+ 'relies on someone to do 是依靠某人做事，relies on something for... 是靠某物获得所需。',
+ 'relies on public transport 依靠公共交通；relies on her experience 靠她的经验。',
+ 'relies 通常需要 on 或 upon 来接对象；不能像 trusts her 那样直接说 relies her。',
+ ('The village relies on the river for water.','这个村庄靠河流取水。'),('She relies on her notes when giving a talk.','她讲话时依靠笔记。'),sources=['https://en.wiktionary.org/wiki/relies#English','https://www.etymonline.com/word/rely'])
+W('relied','/rɪˈlaɪd/','依靠、信赖了；曾依赖',
+ '过去的工作、生活靠着某个人或办法进行，用 relied on。',
+ 'rely 把 y 改为 i，加完整 -ed；词尾读 /d/。不是 lie 的不规则过去式，不能照着躺下的词形变化。',
+ RELY+[['rely → relied〔y 改 i，加 -ed〕','过去依靠、信赖']],
+ 'relied on her advice 是过去依靠她的建议；could be relied on 是可以信赖、靠得住。',
+ 'relied heavily on 很依赖；relied on memory 靠记忆。',
+ 'relied 是 rely 的规则变化；laid 是 lay 的过去式、过去分词，lain 是 lie 躺下的过去分词，历史和句式都不同。',
+ ('We relied on her local knowledge to find the path.','我们靠她对当地的了解找到那条路。'),('He relied on memory instead of writing things down.','他依靠记忆，没有把事情记下来。'),sources=['https://en.wiktionary.org/wiki/relied#English','https://www.etymonline.com/word/rely'])
+W('relying','/rɪˈlaɪɪŋ/','正在依靠、信赖；依赖的活动',
+ '把这件事交给谁、靠什么来办成，正处在这种依赖关系里，就是 relying on。',
+ 'rely + 完整 -ing，保留 y；不是先改成 reli 再接 -ing。/aɪ/ 后继续接 /ɪŋ/。',
+ RELY+[['rely + -ing → relying','正在依靠、信赖']],
+ 'relying on you to help 是正指望你帮忙；without relying on... 是不依靠某人、某物。',
+ 'relying on others 依靠别人；relying entirely on notes 完全靠笔记。',
+ 'relying on someone 常有依靠、指望的关系；waiting for someone 只是等待，不一定把事情交给他负责。',
+ ('I am relying on you to check the final version.','我正指望你核对最终版本。'),('She learned to cook without relying on a recipe.','她学会了不照食谱也能做饭。'),sources=['https://en.wiktionary.org/wiki/relying#English','https://www.etymonline.com/word/rely'])
+ASSURANCE=[['拉丁 securus 的安全、无忧材料 → 法语 asseürer、asseürance','使放心；保证、确信'],['英语 assurance；reassurance','保证、信心；恢复安心的安抚']]
+W('assurances','英 /əˈʃɔːrənsɪz/；美 /əˈʃʊrənsɪz/','几项保证；使人放心的承诺、话',
+ '一句“已经安排好了”是一个保证，多次、几项这样的保证可以叫 assurances。这里数的是保证内容，不是抽象自信的几个单位。',
+ 'assurance + -s，/s/ 后另读 /ɪz/。基础名词经法语 asseürance 借入，与 assure 对应，但有自己的名词路线。',
+ ASSURANCE+[['assurance + -s → assurances','若干保证、承诺']],
+ 'give assurances that... 是保证某事；despite assurances 是尽管已有保证。',
+ 'repeated assurances 多次保证；assurances of support 支持的保证。',
+ 'assurance 还可指不可数的自信；assurances 常指可数的保证话，看到复数要重新判断这个分支。',
+ ('We received assurances that the work would be finished soon.','我们得到保证，工作很快会完成。'),('Despite her assurances, he checked the booking again.','尽管她一再保证，他还是又核了一遍预订。'),sources=['https://en.wiktionary.org/wiki/assurances#English','https://en.wiktionary.org/wiki/assurance#English'])
+W('reassurances','英 /ˌriːəˈʃɔːrənsɪz/；美 /ˌriːəˈʃʊrənsɪz/','几次安抚；使人安心的话、保证',
+ '担心的人想再听几句“我们会陪着你”，这些具体安抚话可以叫 reassurances。',
+ 'reassurance + -s，/s/ 后读 /ɪz/。现代可看 re- 与 assurance 的关系，名词表示恢复安心的安抚。',
+ ASSURANCE+[['reassurance + -s → reassurances','若干安抚的话、保证']],
+ 'offer reassurances 是说些话让人放心；repeated reassurances 是反复安抚、保证。',
+ 'reassurances about the journey 对这趟旅程的安抚话；reassurances that help is available 告诉人可以得到帮助的保证。',
+ 'reassurances 常突出消除担心的作用，assurances 常突出保证内容；实际句子中两者可能重合。',
+ ('Her repeated reassurances helped the child relax.','她一再安抚，让孩子放松了些。'),('He wanted more than vague reassurances about the plan.','他想要的远不止几句对计划含糊的保证话。'),sources=['https://en.wiktionary.org/wiki/reassurances#English','https://en.wiktionary.org/wiki/reassurance#English'])
+CONFIDE=[['拉丁 fidere → con- + fidere → confidere','信任；con- 在这里常作加强理解'],['英语 confide','先是信赖，后来常说向可信者透露私事']]
+W('confides','/kənˈfaɪdz/','倾诉、向可信者透露〔第三人称单数〕',
+ '心里有件私事，只愿告诉信得过的人，这个动作是 confides。信任让话说得出口。',
+ 'confide + -s，保留 e，/d/ 后读 /z/。基础词从拉丁充分信任借入，私密倾诉是后来的常见用途。',
+ CONFIDE+[['confide + -s → confides','他、她倾诉私事']],
+ 'confides in her sister 是向姐姐、妹妹倾诉；confides a secret to her 是把秘密告诉她。',
+ 'confides in a friend 向朋友倾诉；confides her worries 吐露她的担心。',
+ 'tell 可以是普通告知，confide 带私密、信赖的关系，不适合把每次通知都换成它。',
+ ('She confides in her sister when she feels worried.','她担心时会向姐姐倾诉。'),('He rarely confides his doubts to anyone.','他很少向别人吐露自己的疑虑。'),sources=['https://en.wiktionary.org/wiki/confides#English','https://www.etymonline.com/word/confide'])
+W('confided','/kənˈfaɪdɪd/','倾诉、私下透露了',
+ '过去已经把心里的话交给一个可信的人，用 confided。重心不只是信息传过去，还在愿意信任对方。',
+ 'confide 去 e，加完整 -ed；/d/ 后读 /ɪd/。更早 con- 与信任材料在基础动词里，过去词尾再接上去。',
+ CONFIDE+[['confide + -ed → confided〔去 e〕','过去吐露私事、心声']],
+ 'confided in me 是向我倾诉；confided that... 后面直接说吐露的内容。',
+ 'confided her fears to him 向他吐露担忧；confided in a close friend 向好友倾诉了。',
+ 'confided 是把私事告诉可信者；confined 是限制、关住，拼写差一个字母，词族与动作完全不同。',
+ ('She confided her fears to a close friend.','她向一位好友吐露了担忧。'),('He confided that he was thinking of leaving.','他私下透露，自己正考虑离开。'),sources=['https://en.wiktionary.org/wiki/confided#English','https://www.etymonline.com/word/confide'])
+W('confiding','/kənˈfaɪdɪŋ/','正在倾诉；愿意信任、吐露心事的',
+ '正在把心里话说出来，是 confiding；说 confiding tone，像是把你拉近一点，私下告诉你。',
+ 'confide 去 e，加完整 -ing。由倾诉、信赖的活动，还能形容愿意信任人或语气亲近私密。',
+ CONFIDE+[['confide + -ing → confiding〔去 e〕','倾诉的过程 → 私密、信赖的态度']],
+ 'confiding in a friend 是正向朋友倾诉，in a confiding voice 是用私下谈心的声音。',
+ 'a confiding tone 私密信赖的语气；confiding her worries 吐露她的担忧。',
+ 'confiding 说愿意吐露心声，confidential 说内容保密、私密；前者常形容人的态度、说话方式。',
+ ('She was confiding in a friend when I called.','我打电话时，她正在向朋友倾诉。'),('He lowered his voice to a confiding whisper.','他压低声音，像私下谈心一样轻声说。'),sources=['https://en.wiktionary.org/wiki/confiding#English','https://www.etymonline.com/word/confide'])
+W('confidences','英 /ˈkɒnfɪdənsɪz/；美 /ˈkɑːnfɪdənsɪz/','私下托付的话；秘密、心事〔复数〕',
+ '因为信任才告诉别人的私事，可以叫 confidences。这里数的是几件心事，不是几份自信。',
+ 'confidence + -s，/s/ 后读 /ɪz/。confidence 本有拉丁 confidentia、法语相关名词借入历史，不只是现代 confide 加 -ence。',
+ [['拉丁 confidere → confidentia；法语相关名词或直接借入英语','信任、把握；英语也发展私密信任关系的用途'],['confidence + -s → confidences','托付给可信者的私事、话语']],
+ 'exchange confidences 是互诉心事，betray someone’s confidences 是泄露对方私下托付的话。',
+ 'share confidences 互诉秘密；keep her confidences 保守她吐露的私事。',
+ 'confidence 常是抽象信心，confidences 常是私密话；confidentiality 则是保密的性质、状态。',
+ ('The two friends exchanged confidences late into the night.','两位朋友互诉心事，直到深夜。'),('She never betrayed his confidences.','她从未泄露他私下托付的心事。'),sources=['https://en.wiktionary.org/wiki/confidences#English','https://en.wiktionary.org/wiki/confidence#English'])
+ENTRUST=TRUST+[['en- + trust → entrust','把东西、责任交给信任的人']]
+W('entrusts','/ɪnˈtrʌsts/','托付、委托保管或处理〔第三人称单数〕',
+ '不是只说“我相信你”，而是把钥匙、工作真的交到你手里，是 entrusts。',
+ 'entrust + -s，/t/ 后读 /s/。en- 与 trust 形成交托动词，再接现代三单词尾。',
+ ENTRUST+[['entrust + -s → entrusts','他、她将责任交托']],
+ 'entrusts me with the keys 与 entrusts the keys to me 都是把钥匙托付给我；人和东西换位置，介词也换。',
+ 'entrusts her with the task 把任务托付给她；entrusts the work to a team 把工作交给团队。',
+ 'trusts 强调相信可靠；entrusts 强调在信任基础上作出交付，后面通常说清责任或东西。',
+ ('She entrusts me with the keys whenever she travels.','她每次外出旅行，都把钥匙交给我保管。'),('He entrusts the final review to an experienced colleague.','他把最终审阅交给一位有经验的同事。'),sources=['https://en.wiktionary.org/wiki/entrusts#English','https://en.wiktionary.org/wiki/entrust#English'])
+W('entrusted','/ɪnˈtrʌstɪd/','已经托付的；受委托负责的',
+ '东西、任务已交给某个人负责，叫 entrusted。被动 be entrusted with 常直接说明你受托管什么。',
+ 'entrust + 完整 -ed，/t/ 后读 /ɪd/。规则过去式接在已经形成的交托动词上。',
+ ENTRUST+[['entrust + -ed → entrusted','过去交托；受托负责']],
+ 'was entrusted with the task 是受托负责这项任务；the task was entrusted to her 是任务交给了她。',
+ 'entrusted with a secret 受托保守秘密；entrusted to a friend 托付给朋友的。',
+ 'entrusted 指承担交来的责任；trusted 描写被认为可靠。一个受信任的人，不一定已经接到某项具体委托。',
+ ('She was entrusted with the care of the garden.','她受托照看花园。'),('The keys were entrusted to a neighbour.','钥匙交给了一位邻居保管。'),sources=['https://en.wiktionary.org/wiki/entrusted#English','https://en.wiktionary.org/wiki/entrust#English'])
+W('entrusting','/ɪnˈtrʌstɪŋ/','正在托付；把责任交出的活动',
+ '把事情从自己手里交给另一个可信的人处理，这个交付过程是 entrusting。',
+ 'entrust + 完整 -ing，直接接词尾。en- 与信任材料先构成交托动词，-ing 再把动作当成过程、活动。',
+ ENTRUST+[['entrust + -ing → entrusting','交托的过程、活动']],
+ 'entrusting someone with something 是把某事交给某人；entrusting something to someone 是把某物托给某人。',
+ 'entrusting her with the details 把细节交给她处理；entrusting the keys to him 把钥匙托给他。',
+ 'entrusting 强调交出责任、保管权，sharing 只是共同使用或分享；把文件分享出去，不一定委托对方负责。',
+ ('We are entrusting you with the final decision.','我们正把最后决定托付给你。'),('Before entrusting the keys to him, she explained how the lock worked.','把钥匙托给他之前，她解释了锁怎么用。'),sources=['https://en.wiktionary.org/wiki/entrusting#English','https://en.wiktionary.org/wiki/entrust#English'])
+W('convinces','/kənˈvɪnsɪz/','使相信、使信服；说服〔第三人称单数〕',
+ '理由摆出来，让对方觉得“这样说确实站得住”，就是 convinces。说服力可以来自人，也可以来自证据、解释。',
+ 'convince + -s，保留 e，/s/ 后读 /ɪz/。拉丁 con- 加强与 vincere 战胜形成证实、驳倒材料，英语后来常说使信服。',
+ [['拉丁 vincere → con- + vincere → convincere','战胜 → 用证据压倒、证实'],['英语 convince + -s → convinces','它使人相信、信服']],
+ 'convinces me that... 是让我相信某事，convinces her to stay 是说服她留下。',
+ 'convinces the audience 使听众信服；convinces me of its value 让我确信它的价值。',
+ 'convince 常突出让人信服，persuade 常突出劝动，但两词都可涉及想法、行动，不规定绝对互斥的句式。',
+ ('Her clear explanation convinces me that the plan can work.','她解释得清楚，让我相信这个计划可行。'),('He convinces her to give the idea another chance.','他说服她再给这个想法一次机会。'),sources=['https://en.wiktionary.org/wiki/convinces#English','https://www.etymonline.com/word/convince'])
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zep',ROOTS,WORDS)
+ extend_lessons()

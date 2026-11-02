@@ -1,0 +1,93 @@
+[
+  {
+    "id": "B2639",
+    "meaning": "北、北方；北向",
+    "core": "NORTH：先分在哪里、往哪走、风从哪来",
+    "image": "地图上的北、北部区域、北行列车与北风，并不是同一种方向关系。",
+    "intro": "north 接古英语 norþ；northern 接旧形容词形式。north 的 th 常读 /θ/，northern、northerly 通常读 /ð/；更早来源的故事不当定论。",
+    "forms": "north → northern、northerly；northward / northwards 相邻，northbound 讲去向；northeast → northeastern → northeasterly，northwest 一组同理。",
+    "branches": [
+      [
+        "北方、方位特征与移动",
+        "north · northern · northerly · northward · northwards · northbound"
+      ],
+      [
+        "东北一组",
+        "northeast · northeastern · northeasterly"
+      ],
+      [
+        "西北一组",
+        "northwest · northwestern · northwesterly"
+      ]
+    ],
+    "contrasts": "north of 在北面，in the north of 在内部北部；northerly wind 从北来，northbound train 往北去。",
+    "practice": "A northbound train crossed the northern plain while a northerly wind blew from the mountains.\n\n北行列车驶过北部平原，北风则从山那边吹来。",
+    "words": [
+      "north",
+      "northern",
+      "northerly",
+      "northward",
+      "northwards",
+      "northbound",
+      "northeast",
+      "northeastern",
+      "northeasterly",
+      "northwest",
+      "northwestern",
+      "northwesterly"
+    ],
+    "exclude": {
+      "northside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "northland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "northbridge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "norther": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2640",
+    "meaning": "东、东方；东向",
+    "core": "EAST：东方位置与东行去向分开看",
+    "image": "东部是位置，东行是去向，东风来自东方。",
+    "intro": "east 接古英语 ēast，旧词族与黎明、东方有关。eastern 接古英语相应形容词，不是临时把复活节专名 Easter 加 n。",
+    "forms": "east → eastern、easterly；eastward / eastwards 相邻，eastbound 表交通去向；northeast 和 southeast 各自连同区域、风向词放在复合方位分支。\n\naurora 接拉丁黎明女神、曙光名称，现代常指极光；与 east 在更远的 *aus- 曙光、发亮词族相连，不属于拉丁 aurum 金词族。",
+    "branches": [
+      [
+        "基本东方与位置、风",
+        "east · eastern · easterly"
+      ],
+      [
+        "向东移动",
+        "eastward · eastwards · eastbound"
+      ],
+      [
+        "共享东北与东南分支",
+        "northeast · northeastern · northeasterly · southeast · southeastern · southeasterly"
+      ],
+      [
+        "曙光的远古同源词 → aurora",
+        "aurora"
+      ]
+    ],
+    "contrasts": "eastern 区域、eastward 方向、eastbound 去向；easterly wind 则按从东而来命名。",
+    "practice": "The eastbound train passed through the eastern district.\n\n东行列车驶过东部城区。",
+    "words": [
+      "east",
+      "eastern",
+      "easterly",
+      "eastward",
+      "eastwards",
+      "eastbound",
+      "northeast",
+      "northeastern",
+      "northeasterly",
+      "southeast",
+      "southeastern",
+      "southeasterly",
+      "aurora"
+    ],
+    "exclude": {
+      "eastside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eastland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

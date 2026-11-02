@@ -1,0 +1,207 @@
+[
+  {
+    "id": "B4109",
+    "meaning": "应得的价值、表现，到依据功绩选拔的制度词",
+    "core": "MERIT：看表现值不值得，再看怎样据此分配机会",
+    "image": "merit → meritocracy、meritocratic。",
+    "intro": "从一个人的表现、一个方案的优点，走到制度用什么标准选人。词源说明应得的概念，具体标准仍要由实际制度来定。",
+    "forms": "merere 应得 → meritum → 法语、英语 merit；-cracy 治理、制度，-cratic 相应形容词。\n\nmerit 经法语、拉丁 meritum 应得之物、价值，来自 mereri、merere 值得、挣得。复数可数优点，动词第三人称则是值得。",
+    "branches": [
+      [
+        "价值、表现与选拔制度",
+        "merit · meritocracy · meritocratic"
+      ],
+      [
+        "merit → merits：值得与优点",
+        "merits"
+      ]
+    ],
+    "contrasts": "merit 动词可接负面应得结果；meritocratic 标签不自动证明标准公平。",
+    "practice": "A meritocratic process should assess candidates on merit.\n\n按能力、功绩运行的程序，应据实际表现评价候选人。",
+    "words": [
+      "merit",
+      "meritocracy",
+      "meritocratic",
+      "merits"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3784",
+    "meaning": "小、次要的旧义与现代小心眼评价",
+    "core": "PETTY：事情小是一层，心思只容得下小事又是一层",
+    "image": "petty → pettiness；petticoat 保留旧的小外衣词义。",
+    "intro": "备用小钱不带贬意，小心眼却带评价。petticoat 的 petti- 保存旧小义，不能把衬裙解释成小气的外套。",
+    "forms": "petit → petty；y 变 i 接 -ness；旧 petty + coat 形成 petticoat。",
+    "branches": [
+      [
+        "小、琐碎与态度性质",
+        "petty · pettiness"
+      ],
+      [
+        "旧小义的衣物复合",
+        "petticoat"
+      ]
+    ],
+    "contrasts": "petty cash 中性；pettiness 通常负面；petticoat 看历史衣物名。",
+    "practice": "A petty disagreement revealed unnecessary pettiness.\n\n一场小争执暴露了不必要的斤斤计较。",
+    "words": [
+      "petty",
+      "pettiness",
+      "petticoat"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3946",
+    "meaning": "打磨光滑的旧形象，进入得体言行与礼貌规范",
+    "core": "POLITE：把粗糙边角磨掉，让相处不扎人",
+    "image": "polite → politely、politeness；impolite 是否定。",
+    "intro": "动作磨光变成修养文雅，再落到考虑别人、表达得体。性质、方式和抽象礼貌连着看，否定词仍保留旧未磨光的背景。",
+    "forms": "polire → politus → polite；-ly 方式，-ness 性质；in- 在 p 前同化为 im-。\n\npolish 经法语动词形式，polite 接拉丁分词 politus；是共同来源，不是礼貌词的现代随意改形。\n\n从已经借入的英语动词派生，er 不只指人。",
+    "branches": [
+      [
+        "礼貌性质、方式及抽象状态",
+        "polite · politely · politeness"
+      ],
+      [
+        "失礼性质",
+        "impolite"
+      ],
+      [
+        "拉丁 polire 的不同借词：polite 与 polish",
+        "polite · polish · polishes · polished · polishing"
+      ],
+      [
+        "polish + er → polisher → polishers：抛光者、机器",
+        "polish · polisher · polishers"
+      ]
+    ],
+    "contrasts": "礼貌不保证同意；out of politeness 出于客气；impolite 否定的是礼貌。",
+    "practice": "She politely explained why the remark had sounded impolite.\n\n她礼貌地解释了那句话为什么听着失礼。",
+    "words": [
+      "polite",
+      "politely",
+      "politeness",
+      "impolite",
+      "polish",
+      "polishes",
+      "polished",
+      "polishing",
+      "polisher",
+      "polishers"
+    ],
+    "exclude": {
+      "over-polite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3115",
+    "meaning": "可见火焰与热烈情感，装置和状态各按后部读",
+    "core": "FLAME：有形的火焰，也能照见热情与火气",
+    "image": "flame → flamethrower、aflame。",
+    "intro": "实体火焰提供光、热和激烈感；现代旧情人、骂战等用法都按具体场景识别。装置名是投射火，状态词是处于火中。",
+    "forms": "flamma、flammula 经法语 → flame；thrower 投射装置；a- 在某状态中。\n\n拉丁 flamma 等经法语进入，现代火、感情、网络激烈攻击分支要看语境。\n\nflamingo 经西班牙语、葡萄牙语等形式，通常联系更早火焰、火焰色的材料，可能又与弗兰德人的名称形式相互影响；不是现代 flaming 随便添 o。复数 flamingos 直接加 s。",
+    "branches": [
+      [
+        "火焰及情感、交流比喻",
+        "flame"
+      ],
+      [
+        "装置与燃烧状态",
+        "flamethrower · aflame"
+      ],
+      [
+        "flame → flames：可见火焰与热烈攻击",
+        "flame · flames"
+      ],
+      [
+        "flamingo：火焰色材料中的鸟名",
+        "flamingo · flamingos"
+      ]
+    ],
+    "contrasts": "flame 与 fire 观察范围不同；aflame 常作表语状态；old flame 是旧情人。",
+    "practice": "The flames spread, and soon the shed was aflame.\n\n火焰蔓延，很快棚子也烧了起来。",
+    "words": [
+      "flame",
+      "flamethrower",
+      "aflame",
+      "flames",
+      "flamingo",
+      "flamingos"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2683",
+    "meaning": "粗短拇指及相关指套、印记和缩略图",
+    "core": "THUMB：用最灵活的粗短指，留下印记也帮着翻页",
+    "image": "thumb → thumbnail、thumbprint；thimble 保存旧工具构词。",
+    "intro": "拇指甲、拇指印看复合前项，缩略图借拇指甲小尺寸命名。顶针则有更早的工具后缀与音形变化。",
+    "forms": "þūma → thumb；nail 指甲，print 印记；þȳmel 工具名 → thimble。\n\nthumbs 的 b 不发音；名词拇指、动词 thumb through 翻看都在常见表达中出现。",
+    "branches": [
+      [
+        "拇指及印记、图像复合",
+        "thumb · thumbprint · thumbnail"
+      ],
+      [
+        "旧指套工具名",
+        "thimble"
+      ],
+      [
+        "thumb → thumbs：拇指、手势与翻看",
+        "thumb · thumbs"
+      ]
+    ],
+    "contrasts": "thumb 与 thimble 的元音、b 发音不同；thumbnail 不都是指甲，也可缩略图。",
+    "practice": "She used her thumb to turn the page showing a picture of a thimble.\n\n她用拇指翻到印着顶针图片的那一页。",
+    "words": [
+      "thumb",
+      "thumbprint",
+      "thumbnail",
+      "thimble",
+      "thumbs"
+    ],
+    "exclude": {
+      "thumb-sketch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4281",
+    "meaning": "每日记录与有日期的本册，作者加人物后缀",
+    "core": "DIARY：按一天一天组织记录，也能安排未来",
+    "image": "diary → diarist。",
+    "intro": "日记条目、个人日程都与日期排列相连。作者词去掉 y 接 -ist，日记本和写日记的人分清。",
+    "forms": "dies 日 → diarius 每日 → diarium → diary；diar- + -ist → diarist。\n\ndial 经法语、拉丁每日的材料发展日晷、表盘，和 diary 不同近源路线；现代不是 diary 改字母造 dial。\n\n拉丁 diarium 整体借入，现代 y 改 i 加 es。",
+    "branches": [
+      [
+        "记录、本册与作者",
+        "diary · diarist"
+      ],
+      [
+        "拉丁 dies 日的不同借词：diary 与 dial",
+        "diary · dial · dials · dialed · dialled · dialing · dialling"
+      ],
+      [
+        "diary → diaries：每日记录的本册",
+        "diary · diaries"
+      ]
+    ],
+    "contrasts": "diary 与 dairy 不同；check my diary 常是查日程，不一定在翻私人回忆。",
+    "practice": "The diarist recorded the meeting in her diary.\n\n日记作者把那次会面记进日记。",
+    "words": [
+      "diary",
+      "diarist",
+      "dial",
+      "dials",
+      "dialed",
+      "dialled",
+      "dialing",
+      "dialling",
+      "diaries"
+    ],
+    "exclude": {
+      "e-diary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

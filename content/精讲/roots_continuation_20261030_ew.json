@@ -1,0 +1,138 @@
+[
+  {
+    "id": "B3577",
+    "meaning": "从衣物中抽身到实际、精神上的脱离",
+    "core": "ESCAPE：从原来的束缚里脱出来",
+    "image": "escape → escapee；escapism → escapist 是现实压力分支；escapement 是机械逐步放行分支。",
+    "intro": "同一个脱身画面可以进监禁、注意力、娱乐、机械场景；escapee 与 escapist 别混人物角色。",
+    "forms": "ex- + cappa → *excappāre，经法语 → escape；escape + -ee/-ism/-ist/-ment。\n\n法语接重构俗拉丁 *excappare，含 ex- 与 cappa 披风；是词源画面而非某次事件记录。\n\nescape 经法语接俗拉丁披风相关的脱身词族，现代去 e 加完整 -ing。由脱离拘束发展出漏出、避开注意等义，古老命名画面不限定现代逃脱方式。",
+    "branches": [
+      [
+        "脱身动作与逃脱者",
+        "escape · escapee"
+      ],
+      [
+        "现实、幻想和娱乐",
+        "escapism · escapist"
+      ],
+      [
+        "机械控制释放",
+        "escapement"
+      ],
+      [
+        "escape → escaped：脱身、避开与未被注意",
+        "escape · escaped"
+      ],
+      [
+        "ex- 向外 + cappa 披风的词史 → escaping",
+        "escaping"
+      ]
+    ],
+    "contrasts": "escape from 与 escape punishment 句型；escapee/escapist 实际逃脱者与精神娱乐；escapement 装置非逃避主义。",
+    "practice": "The escapist novel offered an escape from the routine.\n\n这本幻想小说让人暂时离开日常的单调。",
+    "words": [
+      "escape",
+      "escapee",
+      "escapism",
+      "escapist",
+      "escapement",
+      "escaped",
+      "escaping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3659",
+    "meaning": "是同一个，到我是谁的身份认同",
+    "core": "IDENTITY：同一性和独特身份，其实都在问怎么认出这个对象",
+    "image": "从 idem 同一个到身份识别、文化认同；本页把基础词几个核心场景讲清。",
+    "intro": "身份不只证件号码，也包括自我、群体认同；数学等领域的同一性、恒等关系有更专门用法。",
+    "forms": "idem + 抽象词尾 → identitās 等，经法语 identité → identity。\n\nidentity 经法语、拉丁 identitas 接 idem 相同。现代 y 改 i 加 -es，可数身份、身份认同，也可说数学恒等关系。",
+    "branches": [
+      [
+        "同一性、身份与认同",
+        "identity"
+      ],
+      [
+        "同一 → identity → identities",
+        "identities"
+      ]
+    ],
+    "contrasts": "identity/personality 身份认同与性格；ID 缩写需场景；姓名只是身份信息的一部分。",
+    "practice": "The book explores the link between language and identity.\n\n这本书探讨语言与身份认同之间的联系。",
+    "words": [
+      "identity",
+      "identities"
+    ],
+    "exclude": {
+      "e-identity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-identity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2928",
+    "meaning": "奶酪食品与质感、口语评价和组合",
+    "core": "CHEESE：看是食物原料，还是口语里的另一用法",
+    "image": "cheese → cheesy；cheesecake、cheeseburger、cheesesteak 按食物类型分；cheesecloth 是过滤用途的布名。",
+    "intro": "cheesy sauce 常中性口味，cheesy dialogue 常负面俗套；say cheese 是口令，big cheese 人物不能只靠食品硬解释。",
+    "forms": "cāseus 早期借入 → ċēse → cheese；cheese + -y/cake；cheese + hamburger 片段；cheese + steak/cloth。\n\n这里只按常见配料对照，nachos 不由 cheese 派生。名称与 Ignacio Anaya 的昵称 Nacho 有关，现代英语常用复数指配奶酪等的玉米片食物。",
+    "branches": [
+      [
+        "食品与性质、语气",
+        "cheese · cheesy"
+      ],
+      [
+        "三种常见食品",
+        "cheesecake · cheeseburger · cheesesteak"
+      ],
+      [
+        "制作过滤用品",
+        "cheesecloth"
+      ],
+      [
+        "与 cheese 对照：nachos 的食物与人名来源",
+        "nachos"
+      ]
+    ],
+    "contrasts": "cheese/butter 奶酪黄油；cheesecake/cheesesteak 蛋糕三明治；cheesy 口味与俗套评价；big cheese 不当食品大小故事。",
+    "practice": "They ordered cheeseburgers and shared a cheesecake.\n\n他们点了芝士汉堡，又分着吃了一个芝士蛋糕。",
+    "words": [
+      "cheese",
+      "cheesy",
+      "cheesecake",
+      "cheeseburger",
+      "cheesesteak",
+      "cheesecloth",
+      "nachos"
+    ],
+    "exclude": {
+      "cheeseman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3998",
+    "meaning": "仅仅、纯粹与另一条水体词源",
+    "core": "MERE：常用形容词从纯粹来，湖和沼泽另走水体路",
+    "image": "mere → merely 是仅仅分支；marsh 经早期水体同族构词而来。",
+    "intro": "同形词要按来源分：merely asking 只是问，a mere 湖、marsh 湿地不能靠只有这个意思硬解释。",
+    "forms": "merus 经法语 → mere 形容词 → merely；古英语 mere 水体；水体词族 merisc、mersc → marsh。",
+    "branches": [
+      [
+        "仅仅与副词",
+        "mere · merely"
+      ],
+      [
+        "水体词族的湿地名称",
+        "marsh"
+      ]
+    ],
+    "contrasts": "mere/merely 形容副词；mere 两条来源；marsh/mere 湿地与水体；swamp/bog/marsh 不能无差别套用。",
+    "practice": "The crossing took a mere hour, but the marsh was not merely empty land.\n\n穿越只花一小时，不过沼泽并不只是一片空地。",
+    "words": [
+      "mere",
+      "merely",
+      "marsh"
+    ],
+    "exclude": {}
+  }
+]

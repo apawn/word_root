@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B4073",
+    "meaning": "有尊重的性质、表达方式与否定",
+    "core": "RESPECTFUL：给对方应有尊重，意见可以仍然不同",
+    "image": "respectful → respectfully；disrespectful 是否定。",
+    "intro": "核心看态度、方式，不是看每一句是否赞同。respectfully 的近形词 respectively 另有分别地的含义，要按语境辨。",
+    "forms": "respect + -ful；-ly 形成 respectfully；dis- 否定形成 disrespectful。",
+    "branches": [
+      [
+        "尊重的性质与方式",
+        "respectful · respectfully"
+      ],
+      [
+        "缺少尊重",
+        "disrespectful"
+      ]
+    ],
+    "contrasts": "respectful 表现尊重，respectable 值得尊重，respective 各自；respectfully、respectively 不能混。",
+    "practice": "She remained respectful and expressed her disagreement respectfully.\n\n她保持尊重，并有礼地表达了异议。",
+    "words": [
+      "respectful",
+      "respectfully",
+      "disrespectful"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4573",
+    "meaning": "声音相关性质，前缀限定频率、速度或方式",
+    "core": "SONIC：先看声音，再看前项限定哪一方面",
+    "image": "sonic → sonically；ultrasonic 频率相关；supersonic 等常谈相对声速。",
+    "intro": "同样有声音词根，超声与超音速却在说不同量：一个看频率，一个看运动速度。已经精讲的词在本页按这两类连着读。",
+    "forms": "sonic 联系拉丁 sonus 声音；-ly 方式；ultra- 超出，super-、hypo-、sub-、hyper- 等各限定对应范围。",
+    "branches": [
+      [
+        "声音性质与方式",
+        "sonic · sonically"
+      ],
+      [
+        "声音频率范围",
+        "ultrasonic"
+      ],
+      [
+        "相对声速的范围",
+        "subsonic · supersonic · hypersonic"
+      ]
+    ],
+    "contrasts": "ultrasonic 超声不等于 supersonic 超音速；具体物理量随整词判断。",
+    "practice": "The article distinguishes ultrasonic sound from supersonic motion.\n\n文章区分了超声与超音速运动。",
+    "words": [
+      "sonic",
+      "sonically",
+      "ultrasonic",
+      "subsonic",
+      "supersonic",
+      "hypersonic"
+    ],
+    "exclude": {
+      "sonics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4119",
+    "meaning": "反复转向、无固定路线，身体和心思都可游走",
+    "core": "WANDER：脚步随处转，思绪也能飘走",
+    "image": "wander → wandering、wanderer；wanderlust 是旅行渴望的德语借词。",
+    "intro": "过程、人物、渴望连着读。漫游可以悠闲，也可以漂泊，中文态度不由单词一口气定死。",
+    "forms": "wandrian → wander；-ing 过程，-er 人物；德语 wandern + Lust → wanderlust。\n\nwander 承古英语 wandrian，较远接转、绕材料；实体走动与思绪、目光游移按现代场景分别解释。\n\nwander + 完整 -er，再取复数；wander 承古英语 wandrian 等漫游材料。和 wonder 惊奇的现代意思、来路区分。",
+    "branches": [
+      [
+        "漫游动作、过程与人物",
+        "wander · wandering · wanderer"
+      ],
+      [
+        "想远行的渴望",
+        "wanderlust"
+      ],
+      [
+        "wander 的脚步、目光和思绪游走",
+        "wander · wanders · wandered · wandering"
+      ],
+      [
+        "wanderers：四处游走的人",
+        "wanderer · wanderers"
+      ]
+    ],
+    "contrasts": "wander 不总是迷路；wonder 另词；wanderlust 后部是一般欲望、乐趣。",
+    "practice": "The wanderer’s wanderlust never faded, though he sometimes let his mind wander at home.\n\n漫游者的远行渴望从未消退，待在家时也会任思绪飘走。",
+    "words": [
+      "wander",
+      "wandering",
+      "wanderer",
+      "wanderlust",
+      "wanders",
+      "wandered",
+      "wanderers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3057",
+    "meaning": "乳品工作者旧称形成场所名，再扩展行业与产品",
+    "core": "DAIRY：奶、黄油、奶酪的生产与产品归到一起",
+    "image": "dairy → dairying。",
+    "intro": "场所、产品、行业三种观察角度连着记；dairying 具体说经营活动。与按日期记录的 diary 只差字母顺序，却不是同源同义。",
+    "forms": "旧工作者词 daie、deye + -erie 场所形式 → dairy；-ing 行业活动。",
+    "branches": [
+      [
+        "乳品、场所与生产活动",
+        "dairy · dairying"
+      ]
+    ],
+    "contrasts": "dairy 乳品与 diary 日记，读音、来源不同；dairying 通常不可数。",
+    "practice": "The dairy expanded after the family began dairying.\n\n这家人开始经营乳畜业后，乳品场扩大了规模。",
+    "words": [
+      "dairy",
+      "dairying"
+    ],
+    "exclude": {
+      "dairy-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3733",
+    "meaning": "头部硬骨框架与贴头帽子的复合名称",
+    "core": "SKULL：看硬骨外壳，和里面的脑分清",
+    "image": "skull → skullcap。",
+    "intro": "skull 是头骨，skullcap 因紧贴头顶、覆盖头部形状命名。复合名并不表示帽子真用头骨做。",
+    "forms": "中古英语 sculle 等，近源有北欧、低地语言分析；cap 帽子。",
+    "branches": [
+      [
+        "头骨与覆盖形状的帽名",
+        "skull · skullcap"
+      ]
+    ],
+    "contrasts": "skull、brain、scalp 分别是头骨、脑、头皮；skullcap 看覆盖形状。",
+    "practice": "The skullcap fitted closely over his head.\n\n那顶小帽紧贴着他的头。",
+    "words": [
+      "skull",
+      "skullcap"
+    ],
+    "exclude": {
+      "skull-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skull-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-skull": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

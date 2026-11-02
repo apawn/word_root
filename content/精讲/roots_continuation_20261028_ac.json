@@ -1,0 +1,223 @@
+[
+  {
+    "id": "B2968",
+    "meaning": "使就位、设定；一组、一套",
+    "core": "SET：先让位置或状态定下来，再看具体用法",
+    "image": "桌子摆好，闹钟定好，胶凝固了；但一套工具的名词来源也有自己的历史，不能全按一个简单动词故事解释。",
+    "intro": "set 动词接古英语 settan，与 sit 的使动词历史相连；原形、过去式、过去分词相同。名词集合、场景等形成还牵涉旧名词及可能的借词合流，应分别识别。",
+    "forms": "set、setter 先讲基本动作和执行者；reset、preset、upset、offset、inset、onset、outset 按各自整词意义学习。sunset、mindset 作意象扩展；设备、演出和集合再分 handset、headset、setlist、chipset、toolset、ruleset、subset、superset、playset、typeset。\n\nset 双写 t 加 -ing；场景、设置、镶座等名词义抓住某物被安置在何种环境或状态中，不假定每项义都同一天形成。\n\nsetup 从 set up 设立、安排、装配的短语名词化，现代说配置、安排及设下的圈套等；不把名词直接当分写动词。\n\n动词继承本族使坐定材料，集合名词有旧名词及可能法语背景，不硬画单线。\n\nset 双写 t 加 ing，名词发展场景、配置、镶座等，再加复数。\n\n不是动作放置义直接逐字相加。\n\n过去式与过去分词仍为 reset；resetting 是进行形式，末尾 t 双写。\n\n一组按某个目的收集的数据，组成现代数据用语。\n\nset 取一套装置的名词用法。\n\ntypeset 不规则过去仍为 typeset；进行形式双写 t，人物名可按 typeset 加 er 认识。\n\nup 与 set 的组合经历不同历史义；现代动词三单与名词复数同写 upsets，重音有别。",
+    "branches": [
+      [
+        "基本词及设置者",
+        "set · setter"
+      ],
+      [
+        "重设、偏移与状态",
+        "reset · preset · upset · offset · inset · onset · outset"
+      ],
+      [
+        "日落、心态与设备",
+        "sunset · mindset · handset · headset"
+      ],
+      [
+        "曲目、工具及其他组合",
+        "setlist · chipset · toolset · ruleset · subset · superset · playset · typeset"
+      ],
+      [
+        "setting：放置、设定与安排好的环境",
+        "set · setting"
+      ],
+      [
+        "setup：把东西安排就位后的整体",
+        "set · setup"
+      ],
+      [
+        "set → sets：使就位、固定与一套",
+        "set · sets"
+      ],
+      [
+        "setting → settings：安置后的环境与配置",
+        "set · setting · settings"
+      ],
+      [
+        "set 的成套设备义进入 headset",
+        "set · headset · headsets"
+      ],
+      [
+        "reset 的重新设定：s 与双写 t 的 ing",
+        "reset · resets · resetting"
+      ],
+      [
+        "set 的一组材料义进入 dataset",
+        "set · dataset · datasets"
+      ],
+      [
+        "handset → handsets：手持电话部件、装置",
+        "handset · handsets"
+      ],
+      [
+        "set 的排好字模义进入 typeset",
+        "typeset · typesets · typesetting · typesetter · typesetters"
+      ],
+      [
+        "upset 的打乱、心烦与意外结果复数",
+        "upset · upsets · upsetting"
+      ]
+    ],
+    "contrasts": "reset 重设不一定是 restart 重启。upset 形、动后重音，名词常前重音；a major upset 可是爆冷胜利。setlist 是演出歌单，不是设置列表。",
+    "practice": "We set a date at the outset, then reset the schedule when plans changed.\n\n我们一开始定了日期，计划变化后又重新安排了日程。",
+    "words": [
+      "set",
+      "setter",
+      "reset",
+      "preset",
+      "upset",
+      "offset",
+      "inset",
+      "onset",
+      "outset",
+      "sunset",
+      "mindset",
+      "handset",
+      "headset",
+      "setlist",
+      "chipset",
+      "toolset",
+      "ruleset",
+      "subset",
+      "superset",
+      "playset",
+      "typeset",
+      "setting",
+      "setup",
+      "sets",
+      "settings",
+      "headsets",
+      "resets",
+      "resetting",
+      "dataset",
+      "datasets",
+      "handsets",
+      "typesets",
+      "typesetting",
+      "typesetter",
+      "typesetters",
+      "upsets",
+      "upsetting"
+    ],
+    "exclude": {
+      "well-set": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-set": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deep-set": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3216",
+    "meaning": "用声音联系、召唤；命名；判断",
+    "core": "CALL：把人、注意力或信息叫到自己这边",
+    "image": "叫人过来、叫出名字、远处电话联系；recall 再把对象叫回来。",
+    "intro": "call 经中古英语 callen，受古英语与古诺斯语相关词影响。后来命名、电话、决定等用法丰富，不能只抓手机这个现代场景。",
+    "forms": "call → caller → calling，再接 recall 的回返；calling 的使命感与 recall 的回忆，都保留呼唤的比喻，但各自搭配要单独记。outcall、incall 是较专门的服务场景用词，本页先不扩列。\n\ncalled 是规则过去、分词形式；be called 常说名字，call for 则要整体看搭配。\n\ncall 接早期英语与北欧相关呼叫词，calls 可作电话等复数，也可作命名、召唤等动词形式。\n\nre 与 call 的组合，可能参照拉丁、法语相应召回词。\n\nrecall 在英语里对应叫回、唤回，有时仿译法语或拉丁相应词。现代 -s，记起、召回的动词常后重音，名词复数可数召回事件。",
+    "branches": [
+      [
+        "呼叫及人物、活动",
+        "call · caller · calling"
+      ],
+      [
+        "叫回与回忆",
+        "recall"
+      ],
+      [
+        "call → called：称作、打电话与要求",
+        "call · called"
+      ],
+      [
+        "call → calls：呼叫、电话；称为、要求",
+        "call · calls"
+      ],
+      [
+        "recall → recalled：把人、物或记忆叫回来",
+        "recall · recalled"
+      ],
+      [
+        "re- 回 + call 叫 → recalls",
+        "recalls"
+      ]
+    ],
+    "contrasts": "call me 打电话，call me Alex 叫我Alex。recall 自己回想，remind 让别人想起；calling 不只是职业名称，还带志业感。",
+    "practice": "The caller asked whether I could recall our earlier conversation.\n\n来电者问我能否回想起先前的谈话。",
+    "words": [
+      "call",
+      "caller",
+      "calling",
+      "recall",
+      "called",
+      "calls",
+      "recalled",
+      "recalls"
+    ],
+    "exclude": {
+      "insta-call": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "outcall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "incall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2944",
+    "meaning": "身体；有形主体；借指人或团体",
+    "core": "BODY：看一个有形的整体，再找它的主体",
+    "image": "人有身体，邮件有正文，汽车有车身；某些组合里 body 又直接借指人。",
+    "intro": "body 接古英语 bodiġ，经中古英语延续。bodily、embody 沿身体、有形主体展开；somebody、anybody 等把 body 借作人，不能逐字只翻成某副身体。",
+    "forms": "基础 body → bodily → embody，再看 somebody、anybody、everybody。身体用品、活动及结构分 bodyguard、bodybuilding、bodybuilder、bodyweight、bodysuit、bodywork、crossbody、unibody。busybody、homebody 是人物称呼，antibody 为共享已有讲解。\n\nbodies 是规则 y 改 ies 的名词复数；新闻中的机构是有组织整体的 body 义。",
+    "branches": [
+      [
+        "主体、性质与具体体现",
+        "body · bodily · embody"
+      ],
+      [
+        "不定人称与人物标签",
+        "somebody · anybody · everybody · busybody · homebody"
+      ],
+      [
+        "保护、体形活动与衣物",
+        "bodyguard · bodybuilding · bodybuilder · bodyweight · bodysuit · crossbody"
+      ],
+      [
+        "实体结构与其他组合",
+        "bodywork · unibody · antibody"
+      ],
+      [
+        "body → bodies：身体、整体与机构",
+        "body · bodies"
+      ]
+    ],
+    "contrasts": "busybody 爱管闲事，不是普通忙人。bodybuilder 是人，bodybuilding 是活动。bodyweight 关注阻力来源，unibody 关注结构。",
+    "practice": "Somebody left a note in the body of the email, but nobody noticed it at first.\n\n有人把说明写进了邮件正文，起初却没人注意到。",
+    "words": [
+      "body",
+      "bodily",
+      "embody",
+      "somebody",
+      "anybody",
+      "everybody",
+      "busybody",
+      "homebody",
+      "bodyguard",
+      "bodybuilding",
+      "bodybuilder",
+      "bodyweight",
+      "bodysuit",
+      "crossbody",
+      "bodywork",
+      "unibody",
+      "antibody",
+      "bodies"
+    ],
+    "exclude": {
+      "big-body": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wide-body": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hind-body": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bodied": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "B3433",
+    "meaning": "忙碌；被事务占据",
+    "core": "BUSY：时间和注意力正在被事情占着",
+    "image": "人忙着做，街上忙着来来往往；讲忙碌状态与商业活动时，拼写和读音会分开。",
+    "intro": "busy 接古英语 bisiġ；现代拼写 u 不按 bus 的元音来读。business 与 busyness 虽同源相关，却已成为两个不同常用名词。",
+    "forms": "busy → busily → busyness 先讲普通忙碌；business 的商业、事务义单列比较，busybody 为已讲的爱管闲事人物词。\n\n历史 busy + -ness，现代企业可数义与商业总体分开。\n\nshowbiz 是娱乐演出行业的口语名称，biz 缩自 business，并未另发明一条古典词根。",
+    "branches": [
+      [
+        "忙碌状态及方式",
+        "busy · busily · busyness"
+      ],
+      [
+        "分化后的事务与人物",
+        "business · busybody"
+      ],
+      [
+        "business → businesses：事务、经营与一家家企业",
+        "business · businesses"
+      ],
+      [
+        "business 在 show business 中的行业义和截短",
+        "business · showbiz"
+      ]
+    ],
+    "contrasts": "busy /ˈbɪzi/，busyness /ˈbɪzinəs/；business /ˈbɪznəs/ 已压缩。busybody 不只是忙碌的人。",
+    "practice": "She was busily arranging her schedule, trying to reduce unnecessary busyness.\n\n她忙着安排日程，想减少无谓的忙碌。",
+    "words": [
+      "busy",
+      "busily",
+      "busyness",
+      "business",
+      "busybody",
+      "businesses",
+      "showbiz"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2930",
+    "meaning": "商业；企业；事务与正事",
+    "core": "BUSINESS：把经营或需要处理的事务组织起来",
+    "image": "一家店是 a business，谈正事是 get down to business；不只用赚钱一个画面解释所有用法。",
+    "intro": "business 历史接 busy + -ness 的旧形式，现代商业、企业、事务义与普通 busyness 分化。读音中间通常压缩。",
+    "forms": "business 先讲经营、企业和事务，再按人物 businessman、businesswoman、businessperson 与方式 businesslike 展开；agribusiness 为共享讲解。\n\nbusiness 有 busy、-ness 的历史材料，但 showbiz 现代先按娱乐业整词理解，不译成演出的忙碌。",
+    "branches": [
+      [
+        "商业与人物",
+        "business · businessman · businesswoman · businessperson"
+      ],
+      [
+        "方式与行业组合",
+        "businesslike · agribusiness"
+      ],
+      [
+        "busy 的较远词族背景与 showbiz 固定行业名",
+        "business · showbiz"
+      ]
+    ],
+    "contrasts": "businesslike 干练不等于很忙；a business 企业可数，泛商业通常不可数。businessperson 不限定性别。",
+    "practice": "The businesswoman ran her business in a friendly but businesslike way.\n\n那位女商人以友好而务实的方式经营企业。",
+    "words": [
+      "business",
+      "businessman",
+      "businesswoman",
+      "businessperson",
+      "businesslike",
+      "agribusiness",
+      "showbiz"
+    ],
+    "exclude": {
+      "by-business": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-business": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3132",
+    "meaning": "停止、堵住；截断继续过程",
+    "core": "STOP：让正在进行的运动、活动或流动停住",
+    "image": "车停下，话停下，洞口堵住；不同对象都在讲截住继续这一动作。",
+    "intro": "stop 接古英语 stoppian、中古英语 stoppen，早有堵塞、封闭义。更远来源有不同分析，不因拼写里有 top 就归顶部词族。",
+    "forms": "stop → stopped → stoppage → stopper，先讲动作、结果、中断和堵口物；stopwatch、stopgap、stoplight、doorstop 按用途展开，shortstop 作为棒球固定位置单列。nonstop、backstop 为共享讲解。\n\n本族及日耳曼堵塞词，名词停站、动词停下各有用途。\n\n本族堵塞词，ing 前双写 p。\n\n可挡住门或限制开门位置，具体装置不一。",
+    "branches": [
+      [
+        "动作、状态、中断与器具",
+        "stop · stopped · stoppage · stopper"
+      ],
+      [
+        "计时、过渡、信号和挡门",
+        "stopwatch · stopgap · stoplight · doorstop"
+      ],
+      [
+        "固定组合及运动位置",
+        "shortstop · nonstop · backstop"
+      ],
+      [
+        "stop → stops：堵住到停止、停靠处",
+        "stop · stops"
+      ],
+      [
+        "stop → stops → stopping：阻住继续的动作",
+        "stop · stops · stopping"
+      ],
+      [
+        "doorstop → doorstops：限制门运动的器具",
+        "stop · doorstop · doorstops"
+      ]
+    ],
+    "contrasts": "stop doing 停止做，stop to do 停下去做；stopped 的 -ed 读 /t/。stopwatch 是正常计时器，不是坏表；stopgap 临时填空。",
+    "practice": "We stopped to check the stopwatch, then used a stopgap plan to finish on time.\n\n我们停下来查看秒表，再用临时方案按时完成。",
+    "words": [
+      "stop",
+      "stopped",
+      "stoppage",
+      "stopper",
+      "stopwatch",
+      "stopgap",
+      "stoplight",
+      "doorstop",
+      "shortstop",
+      "nonstop",
+      "backstop",
+      "stops",
+      "stopping",
+      "doorstops"
+    ],
+    "exclude": {
+      "stop-work": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-stop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stop-tap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3203",
+    "meaning": "感觉像被拿走；麻木",
+    "core": "NUMB：身体或情绪的感觉变弱，像暂时空了一块",
+    "image": "手指冷得没感觉，心里受打击后也可能一时反应不过来。",
+    "intro": "numb 的旧词形与 nim“拿取”的过去分词有关，感觉仿佛被夺去是理解联系；末尾 b 后添且不发音。数字 number 的常用词源另接法语、拉丁语，不按 numb + -er 解释。",
+    "forms": "先 numb 看形容词、动词，再 numbness 看状态；原表 number 的普通数字义不并入此族，少见比较级同形用法不单列。",
+    "branches": [
+      [
+        "基本状态与名词",
+        "numb · numbness"
+      ]
+    ],
+    "contrasts": "numb /nʌm/，numbness /ˈnʌmnəs/，b 不发音。麻木不等于无力，身体描述也不直接说明原因。",
+    "practice": "His fingers felt numb, but the numbness faded once he was indoors.\n\n他的手指感到麻木，进屋后这种感觉逐渐消退。",
+    "words": [
+      "numb",
+      "numbness"
+    ],
+    "exclude": {
+      "number": "普通数字 number 接法语 nombre、拉丁 numerus，不是 numb 的派生；少用比较级同形不另列。",
+      "numb-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

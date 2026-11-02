@@ -1,0 +1,738 @@
+[
+  {
+    "word": "wastefully",
+    "ipa": "/ˈweɪstfəli/",
+    "meaning": "浪费地；没好好利用地",
+    "sense": "水一直流，灯一直亮，东西还没用尽就扔掉：wastefully 把注意力放在使用方式上，资源没有得到应有的利用。",
+    "split": "wasteful + -ly；-ful 的 l 和 -ly 的 l 都保留。这里 -ly 把浪费这种性质变成做事的方式。",
+    "history": [
+      [
+        "wasteful：早有破坏性的意思",
+        "接 waste 与 -ful，后来有挥霍、浪费义"
+      ],
+      [
+        "现代 wasteful + -ly / -ness",
+        "分别说浪费地、浪费这种性质"
+      ]
+    ],
+    "explanation": "use water wastefully 浪费地用水；spend wastefully 花钱没有节制。",
+    "usage": "consume wastefully；resources used wastefully。",
+    "contrast": "wastefully 是方式，wasteful 是性质：use energy wastefully；wasteful energy use。",
+    "examples": [
+      [
+        "The old system used water wastefully.",
+        "旧系统用水很浪费。"
+      ],
+      [
+        "The money had been spent wastefully on repeated redesigns.",
+        "钱浪费在一次又一次重新设计上了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wastefully#English",
+      "https://www.etymonline.com/word/wasteful"
+    ]
+  },
+  {
+    "word": "wastefulness",
+    "ipa": "/ˈweɪstfəlnəs/",
+    "meaning": "浪费；造成无谓耗用的性质或做法",
+    "sense": "同样做一顿饭，有人把能吃的部分扔掉一大堆。讨论这种白白耗掉资源的做法，用 wastefulness；重点是利用得不好。",
+    "split": "wasteful + -ness；形容词变名词，完整保留 -ful，再加表示性质、状态的 -ness。",
+    "history": [
+      [
+        "wasteful：早有破坏性的意思",
+        "接 waste 与 -ful，后来有挥霍、浪费义"
+      ],
+      [
+        "现代 wasteful + -ly / -ness",
+        "分别说浪费地、浪费这种性质"
+      ]
+    ],
+    "explanation": "the wastefulness of the process 这个过程的浪费；reduce wastefulness 减少无谓耗用。",
+    "usage": "criticise wastefulness；concern about wastefulness。",
+    "contrast": "waste 可以直接指废物或被浪费的量，wastefulness 更着眼于浪费这种性质、习惯。",
+    "examples": [
+      [
+        "She was shocked by the wastefulness of the packaging.",
+        "包装浪费得这么厉害，让她吃了一惊。"
+      ],
+      [
+        "The review criticised the wastefulness of replacing usable equipment.",
+        "评审批评了更换仍能使用的设备所造成的浪费。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wastefulness#English",
+      "https://www.etymonline.com/word/wasteful"
+    ]
+  },
+  {
+    "word": "lavishes",
+    "ipa": "/ˈlævɪʃɪz/",
+    "meaning": "大量给予、倾注〔第三人称单数〕",
+    "sense": "孩子做出一点进步，她就给足鼓励，可以说 lavishes praise on the child。像把一大壶东西倾下去，给得很足。",
+    "split": "lavish + -es，/ʃ/ 后读 /ɪz/；基础动词由形容词发展，不是现代 lav 加一个表示有点的 -ish。",
+    "history": [
+      [
+        "拉丁 lavare 洗 → 法语 laver、lavasse/lavache 大水、倾盆雨",
+        "大量倾下的画面有词源依据"
+      ],
+      [
+        "英语 lavish 先为形容词，再为动词",
+        "大量给予；对象可为钱、赞扬或照顾"
+      ],
+      [
+        "lavish + -es → lavishes",
+        "他或她大量给予"
+      ]
+    ],
+    "explanation": "lavishes attention on… 对……倾注关注；lavishes praise on… 大加赞扬。",
+    "usage": "lavishes care on the garden 精心照料花园；lavishes money on a project。",
+    "contrast": "lavishes praise 是赞扬给得很多，praises 只说赞扬；是否过头，要结合场景看。",
+    "examples": [
+      [
+        "She lavishes attention on every guest.",
+        "她对每位客人都关照得十分周到。"
+      ],
+      [
+        "The review lavishes praise on the lead actor.",
+        "那篇评论对主演大加赞扬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lavishes#English",
+      "https://www.etymonline.com/word/lavish"
+    ]
+  },
+  {
+    "word": "lavished",
+    "ipa": "/ˈlævɪʃt/",
+    "meaning": "大量给予、倾注了",
+    "sense": "回头看，他把许多心血都给了这座花园，或观众给了演员热烈赞美，都是 lavished。给出的东西可以很温暖，不一定是挥霍。",
+    "split": "lavish + 完整 -ed；/ʃ/ 是清辅音，结尾读 /t/。过去式、过去分词。",
+    "history": [
+      [
+        "拉丁 lavare 洗 → 法语 laver、lavasse/lavache 大水、倾盆雨",
+        "大量倾下的画面有词源依据"
+      ],
+      [
+        "英语 lavish 先为形容词，再为动词",
+        "大量给予；对象可为钱、赞扬或照顾"
+      ],
+      [
+        "lavish + -ed → lavished",
+        "过去大量给予；也可用于被动"
+      ]
+    ],
+    "explanation": "lavished care on… 对……倾注照顾；praise was lavished on… ……得到大量赞扬。",
+    "usage": "lavished attention on the details；lavished gifts on someone。",
+    "contrast": "lavished money 说花得很多，wasted money 才明确说白花；lavished 本身也能形容值得的投入。",
+    "examples": [
+      [
+        "He lavished years of care on the garden.",
+        "他多年来对花园倾注了大量心血。"
+      ],
+      [
+        "Praise was lavished on the young pianist after the concert.",
+        "音乐会后，那位年轻钢琴家得到了大量赞扬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lavished#English",
+      "https://www.etymonline.com/word/lavish"
+    ]
+  },
+  {
+    "word": "lavishing",
+    "ipa": "/ˈlævɪʃɪŋ/",
+    "meaning": "正在大量给予、倾注",
+    "sense": "把时间、关心、赞美不断给出去，是 lavishing。它强调给得多，像水不断倾下来；真正的对象要看 on 后面。",
+    "split": "lavish + -ing，词尾 sh 保留；基础词经法语大水材料发展，并不是这里新造了水的词义。",
+    "history": [
+      [
+        "拉丁 lavare 洗 → 法语 laver、lavasse/lavache 大水、倾盆雨",
+        "大量倾下的画面有词源依据"
+      ],
+      [
+        "英语 lavish 先为形容词，再为动词",
+        "大量给予；对象可为钱、赞扬或照顾"
+      ],
+      [
+        "lavish + -ing → lavishing",
+        "大量给予的过程"
+      ]
+    ],
+    "explanation": "lavishing praise on someone 对某人大加赞扬；lavishing attention on a pet。",
+    "usage": "lavishing care on a collection；lavishing money on decorations。",
+    "contrast": "lavishing attention on someone 是大量关注某人，paying attention 只说注意；前者多一层分量很足。",
+    "examples": [
+      [
+        "The family spent the afternoon lavishing attention on the new puppy.",
+        "全家一下午都在围着新来的小狗，给足了关爱。"
+      ],
+      [
+        "Critics are lavishing praise on her latest novel.",
+        "评论家们正在大力称赞她的新小说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lavishing#English",
+      "https://www.etymonline.com/word/lavish"
+    ]
+  },
+  {
+    "word": "fritter",
+    "ipa": "英 /ˈfrɪtə/；美 /ˈfrɪtɚ/",
+    "meaning": "一点点浪费掉〔常接 away〕；油炸小饼、炸块",
+    "sense": "没有一次花掉大钱，却一笔笔零碎消费把钱用光，是 fritter away money。另一个常见名词是炸小饼，如 corn fritter；这两条来路要分开。",
+    "split": "浪费动词或接碎片材料，远源有不同分析，不能硬定为某个现代短词加 -er。食物名词则接法语 friture 油炸、拉丁 frigere 烤炸等材料。",
+    "history": [
+      [
+        "fritter 浪费动词：可能接碎片、碎屑材料",
+        "远源分析不同；动词记录还早于某些相关名词记录"
+      ],
+      [
+        "fritter away：一点点把有用的东西耗掉",
+        "油炸小饼名词另接法语 friture 油炸材料"
+      ]
+    ],
+    "explanation": "fritter away time 一点点耗掉时间；an apple fritter 苹果炸饼。",
+    "usage": "fritter away savings；a vegetable fritter 蔬菜炸饼。",
+    "contrast": "fritter away 常突出零零碎碎耗掉，squander 更直接评价浪费；食物 fritter 不是因为浪费食材才叫这个名字。",
+    "examples": [
+      [
+        "Do not fritter away the afternoon on minor tasks.",
+        "别把一下午都零零碎碎耗在小事上。"
+      ],
+      [
+        "She ordered a corn fritter with her soup.",
+        "她点了一个玉米炸饼配汤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fritter#English",
+      "https://www.etymonline.com/word/fritter"
+    ]
+  },
+  {
+    "word": "fritters",
+    "ipa": "英 /ˈfrɪtəz/；美 /ˈfrɪtɚz/",
+    "meaning": "一点点浪费掉〔第三人称单数〕；油炸小饼、炸块〔复数〕",
+    "sense": "一盘蔬菜炸饼是 fritters；他把空闲时间东耗一点、西耗一点，是 fritters away his free time。同形词靠句子认出是哪一条。",
+    "split": "fritter + -s，读 /z/；名词复数、动词三单同形，但食物与耗散动词有各自的历史材料。",
+    "history": [
+      [
+        "fritter 浪费动词：可能接碎片、碎屑材料",
+        "远源分析不同；动词记录还早于某些相关名词记录"
+      ],
+      [
+        "fritter away：一点点把有用的东西耗掉",
+        "油炸小饼名词另接法语 friture 油炸材料"
+      ],
+      [
+        "fritter + -s → fritters",
+        "多个炸饼，或他、它一点点耗掉"
+      ]
+    ],
+    "explanation": "vegetable fritters 蔬菜炸饼；fritters away opportunities 浪费机会。",
+    "usage": "apple fritters；fritters away the morning。",
+    "contrast": "fritters away money 的 away 表耗散掉，fried fritters 则是食物；不要只见同一拼写就把词义强拉成一个故事。",
+    "examples": [
+      [
+        "The menu includes vegetable fritters and a fresh salad.",
+        "菜单上有蔬菜炸饼和新鲜沙拉。"
+      ],
+      [
+        "He fritters away his free time checking his phone.",
+        "他不停看手机，把空闲时间一点点耗掉了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fritters#English",
+      "https://www.etymonline.com/word/fritter"
+    ]
+  },
+  {
+    "word": "frittered",
+    "ipa": "英 /ˈfrɪtəd/；美 /ˈfrɪtɚd/",
+    "meaning": "一点点浪费掉了",
+    "sense": "一天过去，好像一直在忙，却没推进最想做的事，可以说时间被 frittered away。强调小消耗累起来，最后什么也没留下。",
+    "split": "fritter + 完整 -ed，读 /d/；常见 frittered away。结尾原有 er 是基础动词的一部分。",
+    "history": [
+      [
+        "fritter 浪费动词：可能接碎片、碎屑材料",
+        "远源分析不同；动词记录还早于某些相关名词记录"
+      ],
+      [
+        "fritter away：一点点把有用的东西耗掉",
+        "油炸小饼名词另接法语 friture 油炸材料"
+      ],
+      [
+        "fritter + -ed → frittered",
+        "过去把钱、时间等零碎耗掉"
+      ]
+    ],
+    "explanation": "frittered away the savings 耗掉积蓄；frittered away an advantage 浪费优势。",
+    "usage": "time was frittered away；frittered away the morning。",
+    "contrast": "frittered away 写没有抓住重点的耗散，invested time 写投入时间；忙了很久不一定算有效投入。",
+    "examples": [
+      [
+        "We frittered away the morning on unnecessary meetings.",
+        "我们把一上午耗在了没必要的会议上。"
+      ],
+      [
+        "Much of the grant was frittered away on minor expenses.",
+        "那笔资助有很大一部分被零碎开销一点点耗掉了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frittered#English",
+      "https://www.etymonline.com/word/fritter"
+    ]
+  },
+  {
+    "word": "frittering",
+    "ipa": "英 /ˈfrɪtərɪŋ/；美 /ˈfrɪtərɪŋ/",
+    "meaning": "正在一点点浪费、耗散",
+    "sense": "时间正从一件件无关紧要的小事里漏走，是 frittering away time。它让人看到消耗的过程，而不是只有最后的余额。",
+    "split": "fritter + -ing；英式在元音后缀前读出 r。常见完整短语 frittering away。",
+    "history": [
+      [
+        "fritter 浪费动词：可能接碎片、碎屑材料",
+        "远源分析不同；动词记录还早于某些相关名词记录"
+      ],
+      [
+        "fritter away：一点点把有用的东西耗掉",
+        "油炸小饼名词另接法语 friture 油炸材料"
+      ],
+      [
+        "fritter + -ing → frittering",
+        "一点点耗散的过程"
+      ]
+    ],
+    "explanation": "frittering away a chance 耗掉机会；frittering away resources。",
+    "usage": "stop frittering away time；frittering away the afternoon。",
+    "contrast": "frittering away a day 常含可惜的评价，taking a day off 只是休息；有意识休息不一定是在浪费。",
+    "examples": [
+      [
+        "I realised I was frittering away the afternoon online.",
+        "我意识到自己正上着网，把一下午一点点耗掉。"
+      ],
+      [
+        "They risk frittering away their early advantage.",
+        "他们可能会把初期优势一点点浪费掉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frittering#English",
+      "https://www.etymonline.com/word/fritter"
+    ]
+  },
+  {
+    "word": "dawdle",
+    "ipa": "英 /ˈdɔːdəl/；美 /ˈdɔdəl/",
+    "meaning": "磨蹭；慢吞吞地耽搁、耗时间",
+    "sense": "鞋穿了一半又看窗外，走几步又停下，明明该出门却一直没走：这就是 dawdle。不是单纯速度慢，而是磨蹭得耽误事。",
+    "split": "来源未定，可能是 daddle 摇晃行走的变体，也可能受 daw 鸟名影响。不能把这种可能解释成已证实的 daw 加 -dle。",
+    "history": [
+      [
+        "dawdle 近源未定，或接 daddle 摇晃行走",
+        "也可能受 daw 鸟名影响，不把猜测写成定论"
+      ],
+      [
+        "闲磨、耗时间 → 现代慢吞吞地耽搁",
+        "可以联想走走停停，但学习画面不等于已证实词源"
+      ]
+    ],
+    "explanation": "dawdle over breakfast 吃早餐磨磨蹭蹭；dawdle along 慢吞吞地走。",
+    "usage": "do not dawdle 别磨蹭；dawdle away the morning 磨掉一上午。",
+    "contrast": "walk slowly 可以是认真欣赏或身体需要，dawdle 常带该快一点的催促；慢走不一定是磨蹭。",
+    "examples": [
+      [
+        "Do not dawdle, or we will miss the bus.",
+        "别磨蹭了，不然赶不上公交车。"
+      ],
+      [
+        "We had time to dawdle over breakfast.",
+        "我们有时间慢悠悠地吃早餐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dawdle#English",
+      "https://www.etymonline.com/word/dawdle"
+    ]
+  },
+  {
+    "word": "dawdles",
+    "ipa": "英 /ˈdɔːdəlz/；美 /ˈdɔdəlz/",
+    "meaning": "磨蹭、慢吞吞地耽搁〔第三人称单数〕",
+    "sense": "每天早晨别人都准备好了，他还东碰一下、西看一下，是 dawdles。动作不是完全停着，而是拖拖拉拉没有往前推进。",
+    "split": "dawdle + -s，读 /z/；词尾 e 保留，基础词来源未定。",
+    "history": [
+      [
+        "dawdle 近源未定，或接 daddle 摇晃行走",
+        "也可能受 daw 鸟名影响，不把猜测写成定论"
+      ],
+      [
+        "闲磨、耗时间 → 现代慢吞吞地耽搁",
+        "可以联想走走停停，但学习画面不等于已证实词源"
+      ],
+      [
+        "dawdle + -s → dawdles",
+        "他或她磨蹭、耽搁"
+      ]
+    ],
+    "explanation": "dawdles on the way home 回家路上磨蹭；dawdles over a meal。",
+    "usage": "always dawdles；dawdles while getting dressed。",
+    "contrast": "dawdles 常说磨蹭，strolls 常说悠闲散步；都可能走得慢，前者更容易带催促。",
+    "examples": [
+      [
+        "He dawdles over breakfast every morning.",
+        "他每天早晨吃早餐都磨磨蹭蹭。"
+      ],
+      [
+        "She dawdles on the way home, stopping to look at the shop windows.",
+        "她回家路上慢吞吞的，不时停下看橱窗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dawdles#English",
+      "https://www.etymonline.com/word/dawdle"
+    ]
+  },
+  {
+    "word": "dawdled",
+    "ipa": "英 /ˈdɔːdəld/；美 /ˈdɔdəld/",
+    "meaning": "磨蹭、耽搁了",
+    "sense": "刚才一直拖着没走，结果赶不上车，回头说 dawdled。也可以轻松地说假日里吃饭慢悠悠，语气由场景决定。",
+    "split": "dawdle 去 e 加完整 -ed，读 /d/；过去式、过去分词，不另加 /ɪd/。",
+    "history": [
+      [
+        "dawdle 近源未定，或接 daddle 摇晃行走",
+        "也可能受 daw 鸟名影响，不把猜测写成定论"
+      ],
+      [
+        "闲磨、耗时间 → 现代慢吞吞地耽搁",
+        "可以联想走走停停，但学习画面不等于已证实词源"
+      ],
+      [
+        "dawdle + -ed → dawdled",
+        "过去慢吞吞地耗了时间"
+      ]
+    ],
+    "explanation": "dawdled over lunch 午饭吃得慢悠悠；dawdled on the way。",
+    "usage": "dawdled too long 磨蹭太久；had dawdled before leaving。",
+    "contrast": "dawdled 是做得拖拉，waited 是等待；等别人到来不一定是在磨蹭。",
+    "examples": [
+      [
+        "We dawdled too long and missed the first train.",
+        "我们磨蹭太久，错过了第一班火车。"
+      ],
+      [
+        "They dawdled over lunch on the sunny terrace.",
+        "他们坐在阳光下的露台上，慢悠悠地吃午饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dawdled#English",
+      "https://www.etymonline.com/word/dawdle"
+    ]
+  },
+  {
+    "word": "dawdling",
+    "ipa": "英 /ˈdɔːdəlɪŋ/；美 /ˈdɔdəlɪŋ/",
+    "meaning": "正在磨蹭；拖拖拉拉地耗时间",
+    "sense": "该收拾出门，却还在这里看看、那里摸摸，是 dawdling。这个形式把拖着的过程放到眼前，也能作名词说磨蹭这种行为。",
+    "split": "dawdle 去 e 加 -ing；不重复 l。词尾的 -le 是基础词的一部分，远源分析并不完全确定。",
+    "history": [
+      [
+        "dawdle 近源未定，或接 daddle 摇晃行走",
+        "也可能受 daw 鸟名影响，不把猜测写成定论"
+      ],
+      [
+        "闲磨、耗时间 → 现代慢吞吞地耽搁",
+        "可以联想走走停停，但学习画面不等于已证实词源"
+      ],
+      [
+        "dawdle + -ing → dawdling",
+        "磨蹭、耽搁的过程"
+      ]
+    ],
+    "explanation": "stop dawdling 别磨蹭了；dawdling over breakfast。",
+    "usage": "dawdling along the street；no time for dawdling。",
+    "contrast": "dawdling 常有比眼下需要更慢的意思，moving carefully 是小心移动；谨慎慢一点未必是磨蹭。",
+    "examples": [
+      [
+        "Stop dawdling and put your shoes on.",
+        "别磨蹭了，把鞋穿上。"
+      ],
+      [
+        "We spent a pleasant hour dawdling along the river.",
+        "我们沿河慢悠悠逛了一个小时，十分惬意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dawdling#English",
+      "https://www.etymonline.com/word/dawdle"
+    ]
+  },
+  {
+    "word": "dawdler",
+    "ipa": "英 /ˈdɔːdlə/；美 /ˈdɔdlɚ/",
+    "meaning": "做事磨蹭的人",
+    "sense": "大家准备走了，总有一个人还没收拾好，能被叫作 a dawdler。它说做事的表现，通常带一点催促、不耐烦，也可自嘲。",
+    "split": "dawdle 去 e 加完整 -er，表示做这种动作的人；不是只加一个 r。",
+    "history": [
+      [
+        "dawdle 近源未定，或接 daddle 摇晃行走",
+        "也可能受 daw 鸟名影响，不把猜测写成定论"
+      ],
+      [
+        "闲磨、耗时间 → 现代慢吞吞地耽搁",
+        "可以联想走走停停，但学习画面不等于已证实词源"
+      ],
+      [
+        "dawdle + -er → dawdler",
+        "经常磨蹭的人"
+      ]
+    ],
+    "explanation": "a habitual dawdler 一贯磨蹭的人；a slow dawdler。",
+    "usage": "call someone a dawdler；be a dawdler in the morning。",
+    "contrast": "dawdler 是人，dawdling 是动作；不把行为名词直接当成做事者。",
+    "examples": [
+      [
+        "I am a terrible dawdler in the morning.",
+        "我早晨特别爱磨蹭。"
+      ],
+      [
+        "The guide waited patiently for the last dawdler.",
+        "导游耐心地等着最后那个磨磨蹭蹭的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dawdler#English",
+      "https://www.etymonline.com/word/dawdle"
+    ]
+  },
+  {
+    "word": "dawdlers",
+    "ipa": "英 /ˈdɔːdləz/；美 /ˈdɔdlɚz/",
+    "meaning": "做事磨蹭的人〔复数〕",
+    "sense": "队伍走远了，后面还有几个人停停走走，他们就可能被叫作 dawdlers。它指人，语气常带催促，不能当作所有走得慢的人的中性名称。",
+    "split": "dawdler + -s，读 /z/；先由 dawdle 去 e 加 -er 成为做事者，再用复数说多人。",
+    "history": [
+      [
+        "dawdle 近源未定，或接 daddle 摇晃行走",
+        "也可能受 daw 鸟名影响，不把猜测写成定论"
+      ],
+      [
+        "闲磨、耗时间 → 现代慢吞吞地耽搁",
+        "可以联想走走停停，但学习画面不等于已证实词源"
+      ],
+      [
+        "dawdle → dawdler → dawdlers",
+        "磨蹭动作，到磨蹭的人，再到多人"
+      ]
+    ],
+    "explanation": "wait for the dawdlers 等磨蹭的人；a group of dawdlers。",
+    "usage": "hurry the dawdlers along 催磨蹭的人往前走；morning dawdlers。",
+    "contrast": "dawdlers 是磨蹭者，latecomers 是迟到者；有人磨蹭但还没迟到，也有人因堵车迟到。",
+    "examples": [
+      [
+        "The teacher called the dawdlers back into line.",
+        "老师把那几个磨磨蹭蹭的人叫回队伍。"
+      ],
+      [
+        "We left early to give the dawdlers plenty of time.",
+        "我们早点出发，好给爱磨蹭的人留足时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dawdlers#English",
+      "https://www.etymonline.com/word/dawdle"
+    ]
+  },
+  {
+    "word": "dally",
+    "ipa": "/ˈdæli/",
+    "meaning": "耽搁、磨蹭；漫不经心地考虑；调情",
+    "sense": "该作决定却拖着，或只是把一个想法拿来玩味、并没认真投入，都可说 dally。dally with someone 还可以指与人调情，常较书面。",
+    "split": "接中古英语 dalien，可能经法语消遣、玩乐材料，更远来历未定。早有交谈义，后来发展出耽搁、玩乐、调情等用法，不硬拆成现代词根。",
+    "history": [
+      [
+        "中古英语 dalien；可能接法语消遣、玩乐材料",
+        "更远来历未定，早期也有交谈义"
+      ],
+      [
+        "消遣、耽搁、调情等意义发展",
+        "现代 dally 常说磨蹭，dally with 可接想法或人"
+      ]
+    ],
+    "explanation": "do not dally 别耽搁；dally with an idea 随便想想某个主意。",
+    "usage": "dally over a decision；dally with someone 与某人调情。",
+    "contrast": "dawdle 更像动作上磨磨蹭蹭，dally 还可说没认真落实一个想法；两者不能覆盖对方的所有用法。",
+    "examples": [
+      [
+        "Do not dally; we need to leave now.",
+        "别耽搁了，我们现在就得走。"
+      ],
+      [
+        "She began to dally with the idea of moving abroad.",
+        "她开始随意琢磨搬到国外的想法，还没有认真打算。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dally#English",
+      "https://www.etymonline.com/word/dally"
+    ]
+  },
+  {
+    "word": "dallies",
+    "ipa": "/ˈdæliz/",
+    "meaning": "耽搁；漫不经心地考虑；调情〔第三人称单数〕",
+    "sense": "他把一个计划想来想去，却没有真正准备实行，可以说 dallies with the idea。这个词常让人感到停留在玩味、拖着的阶段。",
+    "split": "dally 以辅音字母加 y 结尾，y 改 i 加 -es → dallies，读 /z/。基础词接既有的消遣、耽搁义。",
+    "history": [
+      [
+        "中古英语 dalien；可能接法语消遣、玩乐材料",
+        "更远来历未定，早期也有交谈义"
+      ],
+      [
+        "消遣、耽搁、调情等意义发展",
+        "现代 dally 常说磨蹭，dally with 可接想法或人"
+      ],
+      [
+        "dally → dallies",
+        "y 改 i，加 -es；他或她耽搁、随便玩味"
+      ]
+    ],
+    "explanation": "dallies over a choice 选择上拖着；dallies with the idea of… 随意琢磨……。",
+    "usage": "dallies before leaving；dallies with a plan。",
+    "contrast": "dallies with an idea 尚未认真落实，commits to a plan 是决定投入；犹豫玩味与下定决心有距离。",
+    "examples": [
+      [
+        "He dallies over every small decision.",
+        "每个小决定他都要拖拖拉拉。"
+      ],
+      [
+        "She dallies with the idea of writing a novel but has not started.",
+        "她时不时想想写小说的事，却还没动笔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dallies#English",
+      "https://www.etymonline.com/word/dally"
+    ]
+  },
+  {
+    "word": "dallied",
+    "ipa": "/ˈdælid/",
+    "meaning": "耽搁了；曾漫不经心地考虑；曾调情",
+    "sense": "当时一直拖着没有行动，或曾经想过一个计划但没认真做，是 dallied。with 后面接想法或人，会把句子带向不同意思。",
+    "split": "dally 的 y 改 i，加完整 -ed → dallied；结尾读 /d/，已有的 /i/ 属于基础词，不是额外加一个 /ɪd/。",
+    "history": [
+      [
+        "中古英语 dalien；可能接法语消遣、玩乐材料",
+        "更远来历未定，早期也有交谈义"
+      ],
+      [
+        "消遣、耽搁、调情等意义发展",
+        "现代 dally 常说磨蹭，dally with 可接想法或人"
+      ],
+      [
+        "dally + -ed → dallied",
+        "y 改 i 后形成过去式、过去分词"
+      ]
+    ],
+    "explanation": "dallied over the decision 决定上耽搁；dallied with an idea 曾随意考虑。",
+    "usage": "had dallied too long；dallied before setting off。",
+    "contrast": "dallied with a proposal 不保证已采纳，adopted a proposal 才是采纳了提案；想过和做了要分清。",
+    "examples": [
+      [
+        "We dallied too long and had to hurry the rest of the way.",
+        "我们耽搁太久，剩下的路只好赶着走。"
+      ],
+      [
+        "He dallied with the idea of opening a café.",
+        "他曾随意想过开家咖啡馆，但没认真着手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dallied#English",
+      "https://www.etymonline.com/word/dally"
+    ]
+  },
+  {
+    "word": "dallying",
+    "ipa": "/ˈdæliɪŋ/",
+    "meaning": "正在耽搁；随意玩味；调情",
+    "sense": "一件事迟迟不往前推，还停在想想、玩味的状态，可以说 dallying。它也能说人与人的调情，不能只背成慢走。",
+    "split": "dally 直接加 -ing，保留 y → dallying；和 dallies、dallied 中 y 改 i 的规则不同。",
+    "history": [
+      [
+        "中古英语 dalien；可能接法语消遣、玩乐材料",
+        "更远来历未定，早期也有交谈义"
+      ],
+      [
+        "消遣、耽搁、调情等意义发展",
+        "现代 dally 常说磨蹭，dally with 可接想法或人"
+      ],
+      [
+        "dally + -ing → dallying",
+        "保留 y，表示动作过程"
+      ]
+    ],
+    "explanation": "dallying over details 在细节上耽搁；dallying with an idea。",
+    "usage": "stop dallying 别耽搁；dallying instead of acting。",
+    "contrast": "dallying with an idea 常未认真投入，developing an idea 是在推进、完善想法；不只看花了多少时间。",
+    "examples": [
+      [
+        "There is no time for dallying over minor details.",
+        "没时间在小细节上拖拖拉拉了。"
+      ],
+      [
+        "They were still dallying with the idea of a joint exhibition.",
+        "他们还只是随意琢磨合办展览的想法，没有认真落实。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dallying#English",
+      "https://www.etymonline.com/word/dally"
+    ]
+  },
+  {
+    "word": "miserliness",
+    "ipa": "英 /ˈmaɪzəlinəs/；美 /ˈmaɪzɚlinəs/",
+    "meaning": "吝啬；有钱也舍不得花、给的性质",
+    "sense": "明明付得起，却连必要的小钱都不肯出，是 miserliness。它批评的是把钱攥得太紧，不是单纯收入少。",
+    "split": "miserly + -ness，y 改 i → miserliness；miserly 的 -ly 在这里造形容词，-ness 再把这种性质变成名词。",
+    "history": [
+      [
+        "拉丁 miser 不幸、可怜 → 英语 miser",
+        "英语后来专指把钱攥得很紧的人"
+      ],
+      [
+        "miser → miserly → miserliness",
+        "吝啬者，到吝啬的，再到吝啬这种性质"
+      ]
+    ],
+    "explanation": "criticise his miserliness 批评他的吝啬；an act of miserliness 吝啬的举动。",
+    "usage": "miserliness over small expenses；a reputation for miserliness。",
+    "contrast": "frugality 常是有分寸地节省，miserliness 明确嫌人舍不得给；节俭与抠得过头的评价不同。",
+    "examples": [
+      [
+        "His miserliness made even small family outings difficult.",
+        "他太吝啬，连简单的家庭出游都很难成行。"
+      ],
+      [
+        "The character is known for his miserliness, despite his great wealth.",
+        "那个角色虽然很有钱，却以吝啬出名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/miserliness#English",
+      "https://www.etymonline.com/word/miserly"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "B2844",
+    "meaning": "切割、削减、删改；由切引出的固定词",
+    "core": "CUT：把整体分开或去掉一部分",
+    "image": "切面包是具体动作，削减成本和删改文字保留去掉一部分的画面。cutlet 则另有法语来源。",
+    "intro": "cut 接中古英语 cutten，较远通常联系北日耳曼语，细节有不确定。先看基础、工具和删改，再看上下方向与艺术、食品固定名称。",
+    "forms": "cut → cutting、cutter；haircut 剪发，uncut 未删、recut 重剪；undercut 低于或削弱。cutlet 作为形似辨析单列。\n\n中古英语切的动词，现代名词承接动作及结果。\n\n和 cut 比较切口大小，不是 cut 的派生词。nick 承中古英语 nik、nyke 等刻痕材料，远源未定；与 nock 的关系在不同来源中有可能、未证实等表述，不能定为唯一已知来源。\n\n与 cut、nick 比较刻口，不把形近当作同源证明。notch 可能经 an otch 被重新分成 a notch，早期材料接法语 oche 刻口；更远来历未定。\n\n和 cut 比较修剪，不是 cut 派生。trim 可能接古英语 trymman 加强、整理与 trum 稳固，但中古记录有断档，联系需保留不确定；现代剪齐、装饰、调整各支分开学。",
+    "branches": [
+      [
+        "基础与工具",
+        "cut · cutting · cutter"
+      ],
+      [
+        "剪发与内容处理",
+        "haircut · uncut · recut"
+      ],
+      [
+        "方向及残酷比喻",
+        "undercut · uppercut · cutthroat"
+      ],
+      [
+        "艺术与形似辨析",
+        "woodcut · cutlet"
+      ],
+      [
+        "cut → cuts：切开、切口与削减",
+        "cut · cuts"
+      ],
+      [
+        "nick：小缺口、轻划，到英式口语的偷、逮捕",
+        "nick · nicks · nicked · nicking"
+      ],
+      [
+        "notch：缺口、刻度，到记下一次成绩",
+        "notch · notches · notched · notching"
+      ],
+      [
+        "trim：整理到合适状态，剪掉多余或加饰边",
+        "trim · trims · trimmed · trimming"
+      ]
+    ],
+    "contrasts": "cut 的过去式仍 cut；cutting remarks 尖刻；cutlet 不是真正从英语 cut 加 -let 生出的词。",
+    "practice": "The editor recut the interview and removed one cutting remark.\n\n编辑重新剪辑了采访，删去一句尖刻的话。",
+    "words": [
+      "cut",
+      "cutting",
+      "cutter",
+      "haircut",
+      "uncut",
+      "recut",
+      "undercut",
+      "uppercut",
+      "cutthroat",
+      "woodcut",
+      "cutlet",
+      "cuts",
+      "nick",
+      "nicks",
+      "nicked",
+      "nicking",
+      "notch",
+      "notches",
+      "notched",
+      "notching",
+      "trim",
+      "trims",
+      "trimmed",
+      "trimming"
+    ],
+    "exclude": {
+      "cut-through": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kiss-cut": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shortcut": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cutty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2552",
+    "meaning": "杀死；使停止；过量与扫兴比喻",
+    "core": "KILL：终止生命，或终止原来的作用",
+    "image": "kill time 消磨时间，kill the engine 关引擎，kill the mood 破坏气氛；固定搭配决定具体含义。",
+    "intro": "kill 接中古英语 killen 等，更远来源有分歧。-ing 与 -er 分动作、事件及致死者；overkill、buzzkill、killjoy 展示已固定的非字面引申。",
+    "forms": "kill → killing、killer；overkill 过度，roadkill 道路动物伤亡；buzzkill、killjoy 扫兴。\n\nkilled 保留 kill 的双写 ll，再加 ed；既可指杀死，也可在固定语境说终止、消磨。\n\n中古英语 killen 延续，更远来源未定；固定比喻用途另看搭配。\n\nkill + -er → killer，再加 -s → killers。kill 最早记录有击打，后来有杀死；更远可能接古英语 cwellan 的未见变体，仍须保留不确定。\n\n与 kill 比较词义，不由 kill 派生。massacre 名词、动词经法语借入，古法语有屠场、屠杀相关义；更远与拉丁肉铺名等的联系不确定。现代也有惨败、糟蹋的强烈比喻。\n\nkilling 是杀害行为名词，现代复数 -s。具体事件可数，避免把单数 make a killing 大赚的习语随意套给复数。",
+    "branches": [
+      [
+        "基础、事件与人物",
+        "kill · killing · killer"
+      ],
+      [
+        "过量及道路结果",
+        "overkill · roadkill"
+      ],
+      [
+        "终止快乐",
+        "buzzkill · killjoy"
+      ],
+      [
+        "kill → killed：使死去；终止、消磨",
+        "kill · killed"
+      ],
+      [
+        "kill → kills：使生命或运转停止",
+        "kill · kills"
+      ],
+      [
+        "killer → killers：造成死亡的人、动物或事物",
+        "killer · killers"
+      ],
+      [
+        "massacre：另源的大规模屠杀称呼",
+        "massacre · massacres · massacred"
+      ],
+      [
+        "kill + -ing + -s → killings",
+        "killings"
+      ]
+    ],
+    "contrasts": "die 是死亡，kill 是导致死亡；make a killing 可说大赚；killer 口语也会夸出色，须看场景。",
+    "practice": "We killed time with a game, but the power cut was a buzzkill.\n\n我们玩游戏消磨时间，停电却让人很扫兴。",
+    "words": [
+      "kill",
+      "killing",
+      "killer",
+      "overkill",
+      "roadkill",
+      "buzzkill",
+      "killjoy",
+      "killed",
+      "kills",
+      "killers",
+      "massacre",
+      "massacres",
+      "massacred",
+      "killings"
+    ],
+    "exclude": {
+      "self-kill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "killy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

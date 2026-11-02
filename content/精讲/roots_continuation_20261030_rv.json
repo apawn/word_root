@@ -1,0 +1,65 @@
+[
+  {
+    "id": "B2637",
+    "meaning": "作为、以某种身份；相同程度的关系",
+    "core": "AS：身份对应与程度相当，是两种常见入口",
+    "image": "a box used as a table 是当桌子用；as wide as the door 是与门同样宽。先读完整搭配，再选择中文。",
+    "intro": "as 与 also 共同接古英语 eallswā 等同样、就这样的材料，经中古英语缩短而来。现代用法已经分工，历史相关不代表能互换。",
+    "forms": "eallswā → alswa、als → as 是历史缩短；work as 接身份，as ... as 表比较。身份、用途与程度相当要按完整搭配分别掌握。",
+    "branches": [
+      [
+        "身份、用途",
+        "as a teacher；use as a table"
+      ],
+      [
+        "相同程度",
+        "as tall as；as heavy as"
+      ]
+    ],
+    "contrasts": "work as a teacher 通常真是教师身份，work like a teacher 常说像教师那样；as 与 also 的现代句法也不同。",
+    "practice": "She used the box as a table because it was as high as her chair.\n\n她把箱子当桌子用，因为箱子和椅子一样高。",
+    "words": [
+      "as"
+    ],
+    "exclude": {
+      "whereas": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "forasmuch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3720",
+    "meaning": "谴责、诅咒；咒骂与强烈强调",
+    "core": "DAMN：从判罪、诅咒，走向恼火的口语语气",
+    "image": "damning evidence 是有力揭露罪责、不利的证据；Dammit! 则可能只是丢了钥匙时冒出的一声恼火。",
+    "intro": "damn 经古法语 damner 接拉丁 damnare 谴责、判罪、使受损，与 damnum 损失有关。宗教诅咒、一般咒骂和口语强调各自发展。",
+    "forms": "damn + -ing → damning；God + damn → goddamn；damn it 合写 → dammit。damn 中 n 通常不发音。\n\ndarn 感叹用法是 damn 的缓和改形；jeez 改自 Jesus，gosh 改自 God，三条来源分开。darn 织补动词另有历史，不能从骂人推成补袜子。",
+    "branches": [
+      [
+        "谴责、咒骂与证据性质",
+        "damn · damning"
+      ],
+      [
+        "强烈口语修饰、感叹",
+        "goddamn · dammit"
+      ],
+      [
+        "damn、darn 与其他较缓和的感叹用语",
+        "jeez · gosh · darn"
+      ]
+    ],
+    "contrasts": "damning evidence 不等于证据在开口骂人；goddamn、dammit 带强烈或粗鲁语气，不是普通礼貌加强词。",
+    "practice": "The investigator found damning evidence in the old files.\n\n调查者在旧档案里找到了对涉事者极为不利的证据。",
+    "words": [
+      "damn",
+      "damning",
+      "goddamn",
+      "dammit",
+      "jeez",
+      "gosh",
+      "darn"
+    ],
+    "exclude": {
+      "damnit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

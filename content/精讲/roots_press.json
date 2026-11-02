@@ -5,7 +5,7 @@
     "core": "PREM / PRESS = PRESS",
     "image": "手往下按，可能压低东西，也可能在表面留下形状",
     "intro": "**prem- / -prim- / press-** 来自拉丁语 **premere**“按、压、挤”。先想象把手按到软泥上：东西被压低，是 depress；被挤紧，是 compress；留下印痕，是 impress、print。再把画面搬到心理和交往里：留在心里的痕迹是 impression，压住不让显露是 suppress，把意思表现出来是 express。",
-    "forms": "**premere → pressus** 是拉丁语动词与过去分词的形式变化；**-primere** 常出现在带前缀的复合动词中，例如 imprimere、exprimere、deprimere。这里的 prim- 不等于 primus“第一”。\n\n**com-** 一起压 → compress；**de-** 向下压 → depress；**in-** 向内压 → impress；**ex-** 向外 → express；**sub-** 向下压住 → suppress；**re-** 向回按 → repress。这些是理解方向的入口，不代表现代词义只等于字面相加。\n\n**print** 经过法语的语音和词形变化，保留了“压出印记”的意思。**impression、expression、compression、depression** 等名词各有拉丁语或法语借入路线，不能全画成英语动词先出现、再加后缀。",
+    "forms": "**premere → pressus** 是拉丁语动词与过去分词的形式变化；**-primere** 常出现在带前缀的复合动词中，例如 imprimere、exprimere、deprimere。这里的 prim- 不等于 primus“第一”。\n\n**com-** 一起压 → compress；**de-** 向下压 → depress；**in-** 向内压 → impress；**ex-** 向外 → express；**sub-** 向下压住 → suppress；**re-** 向回按 → repress。这些是理解方向的入口，不代表现代词义只等于字面相加。\n\n**print** 经过法语的语音和词形变化，保留了“压出印记”的意思。**impression、expression、compression、depression** 等名词各有拉丁语或法语借入路线，不能全画成英语动词先出现、再加后缀。\n\n向外压的拉丁材料发展出把内容显露、表达的用法。\n\n拉丁向外压的词族经法语形成名词借入，现代各类表达有专门用途。\n\n拉丁压词经法语，动词有名词转用和较长形式缩短等联系。\n\n法语 presser 接拉丁 pressare、premere，现代过去式在 s 后读 t。\n\n拉丁 ex 与 premere 到 exprimere，经法语等借入，三单 s 后读 iz。\n\nex- 向外与拉丁 premere 按压形成 exprimere，现代 ing 表达过程。\n\n古法语压印名词接拉丁 premere；复数和三单同形。\n\n拉丁 pressura 挤压名词，现代复数可数压力来源或种类，也可为动词三单。\n\nprint out 短语形成输出物名，print 加 er 形成印刷者、打印设备名。\n\n拉丁一起压的构词经法语等路线进入；数字体积与文字篇幅是各自的应用。\n\nimprint 是经法语的借词，reprint 是英语 re 加 print。相似前缀外形不代替真实借入路线。",
     "branches": [
       [
         "直接施力与压力",
@@ -38,6 +38,50 @@
       [
         "在表面留下图文",
         "print · imprint · blueprint"
+      ],
+      [
+        "express → expressed：压出与表达",
+        "express · expressed"
+      ],
+      [
+        "expression → expressions：显露出的内容、表情与形式",
+        "expression · expressions"
+      ],
+      [
+        "print → printed：压出印记到印刷",
+        "print · printed"
+      ],
+      [
+        "press → pressed：向物体、事情施加压力",
+        "press · pressed"
+      ],
+      [
+        "express → expresses：把里面的意思挤、说出来",
+        "express · expresses"
+      ],
+      [
+        "express → expressing：把心里的内容表达出来",
+        "express · expressing"
+      ],
+      [
+        "print → prints：印记、印刷品与打印动作",
+        "print · prints"
+      ],
+      [
+        "pressure → pressures：不同来源的压力与施压",
+        "pressure · pressures"
+      ],
+      [
+        "print 的输出物、执行者与机器复数",
+        "print · printout · printouts · printer · printers"
+      ],
+      [
+        "compress 的挤紧、压缩与常用形式",
+        "compress · compresses · compressed · compressing"
+      ],
+      [
+        "印记留下来与再印一次：imprint、reprint 的形式",
+        "imprint · imprints · imprinted · imprinting · reprint · reprints · reprinted · reprinting"
       ]
     ],
     "contrasts": "**impressed / impressive / impressionable**：自己被打动 / 让别人赞叹 / 容易受影响。\n\n**impression / expression**：在别人心里留下的印象 / 自己表现出来的内容或表情。\n\n**depress / oppress / suppress / repress**：压低 / 不公正地压迫 / 按住不让显露或发展 / 按回去、压抑。词义有交叉，但对象和语气不同。\n\n**depressant / antidepressant**：前者强调抑制某种生理活动，后者按治疗抑郁的用途命名，并不是两种药理作用的简单反义。\n\n**express 的特快义** 经“专门、直接的服务”发展，不是把“向外挤压”直接翻译成快。**espresso** 与 express 同族，但咖啡名称的具体命名动机有不同解释。",
@@ -121,7 +165,26 @@
       "printout",
       "printmaking",
       "printmaker",
-      "imprimatur"
+      "imprimatur",
+      "expressed",
+      "expressions",
+      "printed",
+      "pressed",
+      "expresses",
+      "expressing",
+      "prints",
+      "pressures",
+      "printouts",
+      "printers",
+      "compresses",
+      "compressed",
+      "compressing",
+      "imprints",
+      "imprinted",
+      "imprinting",
+      "reprints",
+      "reprinted",
+      "reprinting"
     ]
   }
 ]

@@ -1,0 +1,301 @@
+[
+  {
+    "word": "race",
+    "ipa": "/reɪs/",
+    "meaning": "竞赛；快速奔跑；种族；人类等群体称呼",
+    "sense": "跑道上 race 是比快，社会话题中 race 是种族；拼写相同，历史不从同一个现代意思串出来。",
+    "split": "竞速分支接古英语 rǣs、古诺尔斯语 rás 等快跑词；血统、种族分支经法语 race、联系意大利语 razza，更远不确定。不能编成不同族群比赛所以出现种族义。",
+    "history": [
+      [
+        "古英语 rǣs、古诺尔斯语 rás 等 → 英语竞速 race",
+        "奔涌、快跑 → 速度竞赛"
+      ],
+      [
+        "另一支：法语 race、意大利语 razza → 英语群体 race",
+        "血统、类别等，更远来源不确定"
+      ]
+    ],
+    "explanation": "win a race 赢比赛，race against time 争分夺秒；the human race 人类，race and ethnicity 种族与族裔。race 作动词也可说心跳、思绪飞快。",
+    "usage": "win a race；race against time；the human race；a racing heart。",
+    "contrast": "race 比速度，match 比赛可有更广项目；race 种族通常涉及社会历史中的人群分类，不等于国籍 nationality。",
+    "examples": [
+      [
+        "She won the race by a narrow margin.",
+        "她以微弱优势赢了比赛。"
+      ],
+      [
+        "The museum explores how ideas about race changed over time.",
+        "博物馆探讨人们关于种族的观念如何随时间变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/race#English",
+      "https://www.etymonline.com/word/race"
+    ]
+  },
+  {
+    "word": "racer",
+    "ipa": "英 /ˈreɪsə/；美 /ˈreɪsər/",
+    "meaning": "竞速选手；赛车、赛马等",
+    "sense": "参加速度比赛的人、动物或车辆，先看句子到底说谁在参赛。",
+    "split": "race 的竞速动词义 + -er；-er 不一定只形成表示人的词。另有按快速移动命名的动物用法，本轮主学常用竞赛义。",
+    "history": [
+      [
+        "古英语 rǣs、古诺尔斯语 rás 等 → 英语竞速 race",
+        "奔涌、快跑 → 速度竞赛"
+      ],
+      [
+        "race + -er → racer",
+        "竞速 → 参赛人、动物、车辆"
+      ]
+    ],
+    "explanation": "a motorcycle racer 摩托车赛车手，a road racer 公路赛选手或赛车；a racer 在车辆叙述中也可能是车本身。",
+    "usage": "a motorcycle racer；a professional racer；a racing car and its racer。",
+    "contrast": "racer 竞速者，racist 种族主义者；两者不能只按更短、更长的人物后缀互换。",
+    "examples": [
+      [
+        "The young racer completed every lap.",
+        "年轻赛车手跑完了每一圈。"
+      ],
+      [
+        "The old racer is now displayed in a museum.",
+        "那辆旧赛车如今陈列在博物馆里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racer#English"
+    ]
+  },
+  {
+    "word": "racehorse",
+    "ipa": "英 /ˈreɪshɔːs/；美 /ˈreɪshɔːrs/",
+    "meaning": "赛马",
+    "sense": "主要为竞速比赛训练、使用的马，不是马跑起来就临时都成了赛马。",
+    "split": "race 速度竞赛 + horse 马，按用途形成动物角色名称。",
+    "history": [
+      [
+        "race 速度竞赛；horse 马",
+        "并列构词部分"
+      ],
+      [
+        "racehorse",
+        "供竞速比赛的马"
+      ]
+    ],
+    "explanation": "train a racehorse 训练赛马，a retired racehorse 退役赛马；退役后仍可用这个称谓说明其经历。",
+    "usage": "a racehorse；train a racehorse；a retired racehorse。",
+    "contrast": "racehorse 是马，racer 既可能是人也可能是马、车；racecourse、racetrack 是竞赛场地。",
+    "examples": [
+      [
+        "The racehorse was resting in its stable.",
+        "赛马正在马厩里休息。"
+      ],
+      [
+        "She helped care for a retired racehorse.",
+        "她帮忙照料一匹退役赛马。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racehorse#English"
+    ]
+  },
+  {
+    "word": "racetrack",
+    "ipa": "/ˈreɪstræk/",
+    "meaning": "赛道；跑道；赛马场",
+    "sense": "把比赛路线做成专门场地，让人、动物或车辆沿规定路线比快。",
+    "split": "race 竞速 + track 轨迹、跑道，形成比赛场地名称。不同项目赛道形状、材料不同，不只椭圆跑道。",
+    "history": [
+      [
+        "race 竞速；track 跑道、路线",
+        "并列构词部分"
+      ],
+      [
+        "racetrack",
+        "用于竞速比赛的专门路线或场地"
+      ]
+    ],
+    "explanation": "a motor racetrack 赛车道，a horse racetrack 赛马场；on the racetrack 在赛道上。",
+    "usage": "a motor racetrack；on the racetrack；a racetrack circuit。",
+    "contrast": "racetrack 与 racecourse 在赛马场等范围有重叠，track 更凸显路线、跑道；racecourse 也随地区有不同习惯。",
+    "examples": [
+      [
+        "The driver tested the car on a closed racetrack.",
+        "车手在封闭赛道上测试汽车。"
+      ],
+      [
+        "Spectators gathered around the racetrack.",
+        "观众聚集在赛道周围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racetrack#English"
+    ]
+  },
+  {
+    "word": "raceway",
+    "ipa": "/ˈreɪsweɪ/",
+    "meaning": "赛道；水道；电线、机械等的导槽",
+    "sense": "让某种运动沿一个限定通道进行；有时跑的是赛车，有时走的是水、电缆或机械滚动部件。",
+    "split": "race 奔流、通行或竞速相关义 + way 通道，形成多种专门槽道名称。竞赛、水流、机械、电气的具体义项分别认，不把每个 raceway 都译赛车场。",
+    "history": [
+      [
+        "race 奔流、通行、竞速相关义；way 通道",
+        "并列构词部分"
+      ],
+      [
+        "raceway",
+        "竞速赛道；水流或部件、线缆通道"
+      ]
+    ],
+    "explanation": "a motor raceway 赛车道；a cable raceway 线缆槽道；在轴承等机械语境里还可指滚道。",
+    "usage": "a motor raceway；a cable raceway；a bearing raceway。",
+    "contrast": "raceway 比较依赖技术语境，racehorse 明确是马；cable raceway 是布置线缆的通道，不是电线比谁跑得快。",
+    "examples": [
+      [
+        "The raceway hosted a weekend motor event.",
+        "赛车场周末举办了一场汽车赛事。"
+      ],
+      [
+        "The cables run through a plastic raceway.",
+        "线缆穿过一条塑料线槽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raceway#English"
+    ]
+  },
+  {
+    "word": "racial",
+    "ipa": "/ˈreɪʃəl/",
+    "meaning": "种族的；与种族有关的",
+    "sense": "只说这件事涉及种族分类、身份或关系；本身还没说立场是支持还是反对歧视。",
+    "split": "race 的种族分支 + -ial，去 e，形成相关形容词；读音中 c 对应 /ʃ/，和 racism 中 /s/ 不同。",
+    "history": [
+      [
+        "另一支：法语 race、意大利语 razza → 英语群体 race",
+        "血统、类别等，更远来源不确定"
+      ],
+      [
+        "race + -ial → racial",
+        "种族 → 与种族有关的"
+      ]
+    ],
+    "explanation": "racial identity 种族身份，racial equality 种族平等，racial discrimination 种族歧视；被修饰的名词决定具体在讲什么。",
+    "usage": "racial equality；racial identity；racial discrimination；racial diversity。",
+    "contrast": "racial 种族相关，racist 种族主义的；racial equality 种族平等恰恰不是 racist equality。",
+    "examples": [
+      [
+        "The course discusses racial identity in literature.",
+        "课程讨论文学中的种族身份。"
+      ],
+      [
+        "The organisation works to promote racial equality.",
+        "这个组织致力于促进种族平等。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racial#English"
+    ]
+  },
+  {
+    "word": "racism",
+    "ipa": "/ˈreɪsɪzəm/",
+    "meaning": "种族主义；种族歧视",
+    "sense": "把人按种族分出高低、据此偏见对待，或让某些群体在制度、行为中持续处于不利位置。",
+    "split": "联系法语 racisme，现代可认 race 种族 + -ism 思想、做法。不是关于竞赛的一门理论，也不只限于当面骂人的话。",
+    "history": [
+      [
+        "另一支：法语 race、意大利语 razza → 英语群体 race",
+        "血统、类别等，更远来源不确定"
+      ],
+      [
+        "法语 racisme；race + -ism → racism",
+        "种族分类 → 种族优劣观、歧视及相关结构实践"
+      ]
+    ],
+    "explanation": "challenge racism 反对种族主义，institutional racism 制度层面的种族歧视；具体讨论会有不同理论框架，应看作者如何界定。",
+    "usage": "challenge racism；institutional racism；experience racism；racism in sport。",
+    "contrast": "racism 是思想、行为、结构等问题，racist 可是形容词或持相关偏见的人；racial 则只是有关种族，评价不同。",
+    "examples": [
+      [
+        "The documentary examines racism in professional sport.",
+        "纪录片考察职业体育中的种族歧视。"
+      ],
+      [
+        "Students discussed ways to challenge racism at school.",
+        "学生们讨论了如何反对校园里的种族歧视。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racism#English"
+    ]
+  },
+  {
+    "word": "racist",
+    "ipa": "/ˈreɪsɪst/",
+    "meaning": "种族主义者；种族主义的、带种族歧视的",
+    "sense": "可说持种族偏见、歧视立场的人，也可直接评价一句话、一项做法带有这类歧视。",
+    "split": "race 种族 + -ist，联系 racism 的人物、性质词。不是 racer 赛车手，也不是一切谈种族的人。",
+    "history": [
+      [
+        "另一支：法语 race、意大利语 razza → 英语群体 race",
+        "血统、类别等，更远来源不确定"
+      ],
+      [
+        "race + -ist → racist",
+        "种族主义立场的人；带种族歧视的"
+      ]
+    ],
+    "explanation": "a racist remark 带种族歧视的话，racist abuse 种族歧视性辱骂；作名词 a racist 是种族主义者。",
+    "usage": "a racist remark；racist abuse；racist attitudes；a racist。",
+    "contrast": "racial 说明话题有关种族，racist 评价歧视性质；研究 racial history 的人，不因此就成为 racist。",
+    "examples": [
+      [
+        "The club condemned the racist abuse directed at the player.",
+        "俱乐部谴责了针对那名球员的种族歧视性辱骂。"
+      ],
+      [
+        "The essay explains why the remark was racist.",
+        "文章解释了那句话为什么带有种族歧视。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racist#English"
+    ]
+  },
+  {
+    "word": "racy",
+    "ipa": "/ˈreɪsi/",
+    "meaning": "生动有活力的；带性暗示、香艳的",
+    "sense": "文字、故事很有味道、很带劲，现代还常暗示内容有点大胆、带性意味。",
+    "split": "来自 race 较旧的风味、品种特质义 + -y，较早用于酒、水果等有鲜明风味，后来有生动、有劲，再到大胆、带性暗示。不是竞速快所以有色情义。",
+    "history": [
+      [
+        "旧 race 的风味、品种特质义 + -y → racy",
+        "风味鲜明、带活力的"
+      ],
+      [
+        "英语 racy 的后续引申",
+        "生动鲜活 → 大胆、带性暗示的"
+      ]
+    ],
+    "explanation": "a racy novel 香艳、情节大胆的小说，racy dialogue 大胆、有性暗示的对白；a racy style 在较传统文评里也可赞文风生动。",
+    "usage": "a racy novel；racy dialogue；a racy style。",
+    "contrast": "racy 不等于 racial 种族的，也不是 racing 正在比赛；现代小说介绍里常先考虑大胆、性暗示义。",
+    "examples": [
+      [
+        "The review describes the novel as racy but well written.",
+        "书评说这部小说内容大胆，不过文笔很好。"
+      ],
+      [
+        "The editor removed some racy dialogue from the family edition.",
+        "编辑从家庭阅读版中删去了一些带性暗示的对白。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racy#English",
+      "https://www.etymonline.com/word/racy"
+    ]
+  }
+]

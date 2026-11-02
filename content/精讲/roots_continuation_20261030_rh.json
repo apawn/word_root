@@ -1,0 +1,104 @@
+[
+  {
+    "id": "A1788",
+    "meaning": "旧过去、分词形式；旧名词派生；部分增生词尾音〔分开理解〕",
+    "core": "T：相同的一个字母，背后可能是几种完全不同的历史",
+    "image": "dreamt 的 t 与旧过去形式有关；theft 是偷窃名词；amongst 的末尾 t 却是后来多出的音，不能都翻成一个共同词根义。",
+    "intro": "英语若干过去式、分词的 -t 与旧齿音词尾、清化和缩减有关。另有旧名词后缀材料，在 theft、flight 等词里留下痕迹；amongst、amidst 还有增生音。这些是同形关系的不同分支，不是现代统一加 t 就能造词的规则。",
+    "forms": "dream／dreamt、spill／spilt、bend／bent 是语法形式；owe／ought 已发展为不同现代词；thief／theft、thrive／thrift、heave／heft 是历史同族或类比名词；among→amongs→amongst、amid→amids→amidst 的 t 不表示过去。jolt、silt、blurt 的更远来源有不确定性，不能硬塞进单一后缀规则。\n\n名词 thief 复数的 f 对应 v；与 theft 盗窃名词是相关词，不把 theft 当成现代复数。\n\nheft 重量名词联系 heave 的旧名词类推及旧分词，后来动词由名词产生；hoist 则接更早 hoise 等材料，不能把现代最后的 t 一概认成普通过去式。\n\nowe 承古英语 agan 有、拥有，后有欠、应偿还义；较早过去形式与 ought 有历史关系，现代 owed 则去末尾 e 加完整后缀 -ed。\n\nowing 是 owe 去 e 加 -ing，与 ought 同源对照，不是 -t 派生。owe 承古英语 agan 拥有，后由拥有应付之物发展为欠；owing to 常表示由于。",
+    "branches": [
+      [
+        "旧语法与已固定形式",
+        "dreamt · spilt · lost · bent · pent；owe · ought"
+      ],
+      [
+        "人与行为、状态名词",
+        "thief · theft；thrive · thriving · thrift · thrifty · spendthrift"
+      ],
+      [
+        "动作、重量和裂开关系",
+        "heave · heft · hefty；cleave · cleft；draw · draft · draught"
+      ],
+      [
+        "增生音变体",
+        "among · amongst；amid · amidst"
+      ],
+      [
+        "其他旧名词及词形辨误",
+        "weight · flight · gift · sight · height · bout · drought · drift；jolt · silt · blurt"
+      ],
+      [
+        "thief → thieves：窃贼的复数",
+        "thief · thieves"
+      ],
+      [
+        "heft 的旧名词形态与 hoist 的固定词尾",
+        "heave · heft · hefts · hefted · hefting · hoist · hoists · hoisted · hoisting"
+      ],
+      [
+        "owe → owed：有、拥有到欠、归功于",
+        "owed"
+      ],
+      [
+        "owe、owing 与 ought 的历史对照",
+        "owing"
+      ]
+    ],
+    "contrasts": "ought 不能按现代 owe 的普通过去式使用；thrift 节俭而 spendthrift 挥霍；amongst 的 t 不表过去；jolt 的过去式仍是 jolted，说明它本来就有 t。",
+    "practice": "She heaved the hefty bag onto the table and blurted out that she ought to pack less.\n\n她费力把沉重的包搬到桌上，脱口说自己应该少装点东西。",
+    "words": [
+      "dreamt",
+      "spilt",
+      "lost",
+      "bent",
+      "pent",
+      "owe",
+      "ought",
+      "thief",
+      "theft",
+      "thrive",
+      "thriving",
+      "thrift",
+      "thrifty",
+      "spendthrift",
+      "heave",
+      "heft",
+      "hefty",
+      "cleave",
+      "cleft",
+      "draw",
+      "draft",
+      "draught",
+      "among",
+      "amongst",
+      "amid",
+      "amidst",
+      "weight",
+      "flight",
+      "gift",
+      "sight",
+      "height",
+      "bout",
+      "drought",
+      "drift",
+      "jolt",
+      "silt",
+      "blurt",
+      "thieves",
+      "hefts",
+      "hefted",
+      "hefting",
+      "hoist",
+      "hoists",
+      "hoisted",
+      "hoisting",
+      "owed",
+      "owing"
+    ],
+    "exclude": {
+      "whilst": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "weft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shrift": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "id": "B3066",
+    "meaning": "真实、可靠、忠实",
+    "core": "TRUE：说法对得上事实，关系守得住承诺",
+    "image": "一句话 true；真相 truth；愿意如实说的人 truthful。先分对象，词就不绕。",
+    "intro": "true 的古英语前身兼有忠实、可靠；truth 也承接忠实、信义的历史。不能只把现代拼写当古人现场造词的过程。",
+    "forms": "true → truly、untrue；true ↔ truth → truthful → truthfully、truthfulness；truism 单列老生常谈。\n\ntruce 接中古英语 trewes 等旧承诺、协议名词的复数形式，远连 true 守信、可靠的词族。现代 a truce 按单数协议或休战期使用，不把词尾 ce 当作否定后缀。",
+    "branches": [
+      [
+        "真假与确实",
+        "true · truly · untrue"
+      ],
+      [
+        "真相与如实表达",
+        "truth · truthful · truthfully · truthfulness"
+      ],
+      [
+        "正确却无新意的说法",
+        "truism"
+      ],
+      [
+        "守信、承诺的同源支线 → truce 休战",
+        "truce"
+      ]
+    ],
+    "contrasts": "untrue 不证明故意撒谎；true statement 真实陈述、truthful person 诚实的人；truism 常带正确却空泛的评价。",
+    "practice": "A truthful answer may be short: truthfully, I do not know whether the story is true.\n\n如实回答可能很短：说实话，我不知道故事是不是真的。",
+    "words": [
+      "true",
+      "truly",
+      "untrue",
+      "truth",
+      "truthful",
+      "truthfully",
+      "truthfulness",
+      "truism",
+      "truce"
+    ],
+    "exclude": {
+      "true-bred": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2579",
+    "meaning": "年轻、青春及年轻感",
+    "core": "YOUNG：生命或发展时间还短",
+    "image": "先分实际年纪、年轻人、青春时期，再分年纪未必小却有的青春活力。",
+    "intro": "young 接古英语 ġeong；youth 接相关古英语 ġeoguþ，不能按今天拼写生造 youngth。young 通常 /ŋ/，younger、youngest 的常见发音还会出现 /ɡ/。",
+    "forms": "young → youngish、youngster；young ↔ youth → youthful → youthfulness。\n\nyoung 的常见标准发音 /ŋ/，younger、youngest 通常另有 /ɡ/；最高级明确所比较的人群。",
+    "branches": [
+      [
+        "年轻程度和年轻的人",
+        "young · youngish · youngster"
+      ],
+      [
+        "青春与青春感",
+        "youth · youthful · youthfulness"
+      ],
+      [
+        "young → younger → youngest",
+        "young · younger · youngest"
+      ]
+    ],
+    "contrasts": "young 常说实际年龄、阶段，youthful 常说特征、气质；youth 不可数时期与可数青年要看语境。",
+    "practice": "The young musician showed youthful energy without hiding his lack of experience.\n\n年轻音乐人展现了青春活力，也没有掩饰经验不足。",
+    "words": [
+      "young",
+      "youngish",
+      "youngster",
+      "youth",
+      "youthful",
+      "youthfulness",
+      "younger",
+      "youngest"
+    ],
+    "exclude": {
+      "youngblood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "youngman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2895",
+    "meaning": "碰面、相遇；对上、满足",
+    "core": "MEET：两边接触到一起",
+    "image": "人与人碰面，河与河汇合，实际结果与要求对上，都是不同对象的 meet。",
+    "intro": "meet 接古英语 mētan，met 是不规则过去、分词；meeting 有古英语相应名词前身。unmet 常用满足需求义，不只是没见过面。",
+    "forms": "meet → meeting；meet → met → unmet。\n\nmeet → met → met；meet 的长元音与 met 的短元音应一起辨认。\n\nmeeting 的名词已有古英语相应形式，不只是在现代把 meet 加 -ing 临时造出，meetings 数不同聚会、会议。\n\n古英语相遇动词，抽象满足标准按接上、达到理解。",
+    "branches": [
+      [
+        "相会与会议",
+        "meet · meeting"
+      ],
+      [
+        "需求是否得到满足",
+        "unmet"
+      ],
+      [
+        "meet 到 met：相遇与满足条件",
+        "meet · met"
+      ],
+      [
+        "meet → meeting → meetings：相遇到聚会、会议",
+        "meet · meeting · meetings"
+      ],
+      [
+        "meet → meets：相遇、接到与达到要求",
+        "meet · meets"
+      ]
+    ],
+    "contrasts": "meet a requirement 满足要求，unmet need 未满足需求；meeting 不一定等于事先安排的 appointment。",
+    "practice": "At the meeting, we discussed how to meet the community’s unmet needs.\n\n会上，我们讨论如何满足社区尚未获回应的需求。",
+    "words": [
+      "meet",
+      "meeting",
+      "unmet",
+      "met",
+      "meetings",
+      "meets"
+    ],
+    "exclude": {
+      "e-meet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-meet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tri-meet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meet-her-in-the-entry-and-kiss-her-in-the-buttery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2562",
+    "meaning": "小、少、规模不大",
+    "core": "SMALL：尺寸、数量或影响不大",
+    "image": "小包看尺寸，少数看数量，小企业看规模；smallpox 固定病名另讲，不用小来猜轻重。",
+    "intro": "small 接古英语 smæl，旧义有窄、细小。smallish 表偏小，smallness 抽出小的性质；smallpox 是历史固定名称。",
+    "forms": "small → smallish、smallness；small + pox → smallpox 单独说明。\n\nsmall 原有 ll，直接加 -er／-est；数量、规模、尺寸都可按场景比较。",
+    "branches": [
+      [
+        "小及其程度、性质",
+        "small · smallish · smallness"
+      ],
+      [
+        "固定疾病名称",
+        "smallpox"
+      ],
+      [
+        "small → smaller → smallest：更小、最小",
+        "small · smaller · smallest"
+      ]
+    ],
+    "contrasts": "small 不完全等于 little 的所有搭配；smallpox 与 chickenpox 不是一种病的轻重两版。",
+    "practice": "A smallish team can turn its smallness into an advantage.\n\n一支规模偏小的团队，可以把人少变成优势。",
+    "words": [
+      "small",
+      "smallish",
+      "smallness",
+      "smallpox",
+      "smaller",
+      "smallest"
+    ],
+    "exclude": {
+      "small-scale": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smallmouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4042",
+    "meaning": "聚合、收拢、一起",
+    "core": "GATHER：把原来分散的往一处拢",
+    "image": "人能聚，信息能收集，力量能积起来；together 则说拢在一起的关系。",
+    "intro": "gather 接古英语 gaderian；together 接 tōgædere，是同一旧聚合词族的相关形式，不是现代 to get her。",
+    "forms": "gather → gathering、gatherer；together 单独说明相关旧形式及状态。\n\n古英语 gaderian 与一起、聚合的旧词族相关，后来也有据线索得知的意思。",
+    "branches": [
+      [
+        "聚集动作、活动与执行者",
+        "gather · gathering · gatherer"
+      ],
+      [
+        "在一起的关系",
+        "together"
+      ],
+      [
+        "gather → gathered：把分散的东西收拢",
+        "gather · gathered"
+      ]
+    ],
+    "contrasts": "gatherer 人、gathering 活动或聚会；gather that 据线索了解；together 不是 to get her 的缩写。",
+    "practice": "The gatherers came together for a small gathering.\n\n采集者们聚到一起，举行了一场小聚会。",
+    "words": [
+      "gather",
+      "gathering",
+      "gatherer",
+      "together",
+      "gathered"
+    ],
+    "exclude": {}
+  }
+]

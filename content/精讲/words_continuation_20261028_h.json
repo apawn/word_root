@@ -1,0 +1,1609 @@
+[
+  {
+    "word": "right",
+    "ipa": "/raɪt/",
+    "meaning": "正确的；合适的；右边；权利；正好；纠正",
+    "sense": "先想一条端正、不歪的线；在具体语境里，它可能是做对、选合适、站在右侧或有应得权利。",
+    "split": "接古英语 riht，一系材料有直、正、正确等义；现代右侧、权利等义各自经历发展，不能把一个中文“对”直接包办全部来源和用法。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "英语 right",
+        "正确；右；权利；纠正等用法"
+      ]
+    ],
+    "explanation": "the right answer 是正确答案，the right time 是合适时机，on the right 是在右边，a right to speak 是说话权利。right here 是就在这里，right a wrong 是纠正过错。",
+    "usage": "right now；on the right；the right to；get it right。",
+    "contrast": "right、write 发音相同但来源与拼写不同。right 的右侧义不表示正确：a wrong right turn 可以是一次不该做的右转。",
+    "examples": [
+      [
+        "You were right about the date.",
+        "关于日期，你说对了。"
+      ],
+      [
+        "The café is on your right.",
+        "咖啡馆在你右手边。"
+      ],
+      [
+        "Everyone has a right to be heard.",
+        "每个人都有表达意见并被听取的权利。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/right#English"
+    ]
+  },
+  {
+    "word": "alright",
+    "ipa": "/ɔːlˈraɪt/",
+    "meaning": "好吧；没事；可以的〔较口语拼写〕",
+    "sense": "确认没有大问题、可以继续，或先答应一声再进入下一件事。",
+    "split": "由 all right 连写形成；本来是 all 与 right 的短语，连写后常用于口语文字。不是表示“所有方向都往右”。",
+    "history": [
+      [
+        "英语 all；right",
+        "并列组合的两部分"
+      ],
+      [
+        "all + right → alright",
+        "好、没问题；可以的"
+      ]
+    ],
+    "explanation": "Are you alright? 是你没事吧；Alright, let’s start 是好，开始吧。all right 在正式写作和多数编辑规范中更稳妥，alright 在口语化文本很普遍。",
+    "usage": "feel alright；Is that alright?；Alright, …。",
+    "contrast": "alright 并不比 all right 自动更口语化到不能读；区别主要在拼写规范和风格偏好。作高评价时 alright 常只是还可以，不是极好。",
+    "examples": [
+      [
+        "Are you alright after that fall?",
+        "摔了那一下，你没事吧？"
+      ],
+      [
+        "Alright, let us check the figures one more time.",
+        "好吧，我们再核对一遍数字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alright#English"
+    ]
+  },
+  {
+    "word": "rightly",
+    "ipa": "/ˈraɪtli/",
+    "meaning": "正确地；有道理地；理应地",
+    "sense": "回头看某个判断或反应，它符合事实，也站得住理。",
+    "split": "right + -ly；接古英语 rihtlīċe 等副词形式，主要在正确、正当一侧发展。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "英语 right",
+        "正确；右；权利；纠正等用法"
+      ],
+      [
+        "right + -ly → rightly",
+        "正确、正当地"
+      ]
+    ],
+    "explanation": "rightly pointed out 是正确指出，rightly proud 是有理由自豪。rightly or wrongly 是无论对错、且不论是否正确。",
+    "usage": "rightly believe；rightly proud；rightly or wrongly。",
+    "contrast": "rightly 主要说正确或有道理；turn right 的 right 说方向，不能改成 turn rightly 来表示右转。",
+    "examples": [
+      [
+        "She rightly pointed out that the data was incomplete.",
+        "她正确指出数据不完整。"
+      ],
+      [
+        "They are rightly proud of what they have built.",
+        "他们为自己建立的一切感到自豪，完全有理由。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rightly#English"
+    ]
+  },
+  {
+    "word": "rightful",
+    "ipa": "/ˈraɪtfəl/",
+    "meaning": "正当拥有的；合法应得的",
+    "sense": "一件东西属于谁，不只看眼下在谁手里，还看谁本该有它。",
+    "split": "right（权利、正当）+ -ful，接中古英语及更早对应形式；表示符合正当权利，不是“右边装满了”。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "英语 right",
+        "正确；右；权利；纠正等用法"
+      ],
+      [
+        "right + -ful → rightful",
+        "按照权利应得或有资格的"
+      ]
+    ],
+    "explanation": "the rightful owner 是正当所有者，take one’s rightful place 是取得理应有的位置。究竟谁有权，需要事实、制度或语境支持，词本身不作裁决。",
+    "usage": "the rightful owner；a rightful claim；one’s rightful place。",
+    "contrast": "rightful 重点是应得、归属正当；right 可说答案正确。the rightful answer 一般不能代替 the right answer。",
+    "examples": [
+      [
+        "The painting was returned to its rightful owner.",
+        "画作归还给了正当所有者。"
+      ],
+      [
+        "She finally took her rightful place among the leading researchers.",
+        "她终于跻身顶尖研究者之列，这是她应有的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rightful#English"
+    ]
+  },
+  {
+    "word": "righteous",
+    "ipa": "/ˈraɪtʃəs/",
+    "meaning": "正直的；正义的；自认有理的",
+    "sense": "不只说一道题做对，还说一个人的行动符合道义，或他坚信自己占着理。",
+    "split": "接古英语 rihtwīs、后来 rightwise 等形式，后半逐渐受 -ous 影响成 righteous；不能把它说成英语 right 直接随意加 -eous。",
+    "history": [
+      [
+        "古英语 rihtwīs → 中古英语 rightwise 等",
+        "正直、公正"
+      ],
+      [
+        "英语 righteous",
+        "合乎道义；带道德正当感的"
+      ]
+    ],
+    "explanation": "a righteous cause 是正义事业；righteous anger 是自认为合理或道义上有根据的愤怒。语气可肯定，也可批评其自以为是，尤其看搭配。",
+    "usage": "righteous anger；a righteous cause；the righteous。",
+    "contrast": "self-righteous 明确偏自以为是；righteous 本身不必是讽刺，但也不保证叙述者认同当事人的所有判断。",
+    "examples": [
+      [
+        "They believed they were fighting for a righteous cause.",
+        "他们相信自己在为正义事业奋斗。"
+      ],
+      [
+        "His righteous anger made it hard for him to listen.",
+        "他自认有理的愤怒让他很难听进别人的话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/righteous#English"
+    ]
+  },
+  {
+    "word": "upright",
+    "ipa": "/ˈʌpraɪt/",
+    "meaning": "直立的；竖直地；正直的",
+    "sense": "身体不倒向一边，做人也可比喻不向歪路倾斜。",
+    "split": "up + right，接古英语 upriht 等本族形式；right 保留直、正这一支，不是“朝上再右转”。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "古英语 upriht → 英语 upright",
+        "竖直、直立；道德上正直"
+      ]
+    ],
+    "explanation": "sit upright 是端坐，an upright piano 是立式钢琴，an upright person 是正直的人。作名词 upright 还可说垂直支柱。",
+    "usage": "sit upright；keep upright；an upright piano；an upright citizen。",
+    "contrast": "upright 可谈姿势或品格；upstairs 是楼上。看到 up 不意味着都在描述楼层。",
+    "examples": [
+      [
+        "Keep the bottle upright during transport.",
+        "运输时让瓶子保持直立。"
+      ],
+      [
+        "She was known as an honest and upright judge.",
+        "她以诚实正直的法官形象为人所知。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upright#English"
+    ]
+  },
+  {
+    "word": "birthright",
+    "ipa": "英 /ˈbɜːθraɪt/；美 /ˈbɜːrθraɪt/",
+    "meaning": "与生俱来的权利；长子继承权〔特定历史语境〕",
+    "sense": "不是后来赢来的资格，而是因出生身份就被认为拥有。",
+    "split": "birth（出生）+ right（权利），组合表示出生带来的权利；在某些历史叙事中可特指长子权利，不概括成各社会统一规则。",
+    "history": [
+      [
+        "英语 birth；right",
+        "并列组合的两部分"
+      ],
+      [
+        "birth + right → birthright",
+        "由出生身份带来的权利"
+      ]
+    ],
+    "explanation": "a birthright 可用于伦理、政治论述，主张某种东西人人应有。历史或宗教文本里则可能说长子的一组特殊权利，需看制度背景。",
+    "usage": "one’s birthright；a birthright to；claim something as a birthright。",
+    "contrast": "birthright 与 citizenship 可相关，但公民身份有不同取得方式；不能由词源推出所有现实身份制度。",
+    "examples": [
+      [
+        "The speaker described education as every child’s birthright.",
+        "演讲者把教育称为每个孩子与生俱来的权利。"
+      ],
+      [
+        "The story centres on a dispute over the eldest son’s birthright.",
+        "故事围绕长子的继承权争议展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/birthright#English"
+    ]
+  },
+  {
+    "word": "forthright",
+    "ipa": "英 /ˈfɔːθraɪt/；美 /ˈfɔːrθraɪt/",
+    "meaning": "直率的；明确坦诚的",
+    "sense": "有意见就朝正前方说出来，不绕很多弯让人猜。",
+    "split": "接古英语 forþriht“直接、直截”等形式，现代可对应 forth（向前）+ right（直）。不是 fourth“第四”+ right。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "古英语 forþriht → 英语 forthright",
+        "直接、直截 → 坦率明确的"
+      ]
+    ],
+    "explanation": "forthright about a problem 是直说问题；a forthright answer 是明确坦率的回答。常含肯定，也可能因场合显得不够委婉。",
+    "usage": "a forthright answer；be forthright about；a forthright manner。",
+    "contrast": "forthright 强调坦白直接，rude 是无礼；说话直接未必无礼，是否合宜仍看内容、语气和场合。",
+    "examples": [
+      [
+        "She was forthright about the problems with the plan.",
+        "她直言指出了计划的问题。"
+      ],
+      [
+        "I appreciated his forthright answer.",
+        "我很欣赏他坦率明确的回答。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forthright#English"
+    ]
+  },
+  {
+    "word": "rightist",
+    "ipa": "/ˈraɪtɪst/",
+    "meaning": "右翼人士；右翼的",
+    "sense": "把政治立场用左右空间来标示，这个人或主张处在右侧一边。",
+    "split": "right（政治右派）+ -ist（持某立场的人）；政治左右称呼有历史议会座位安排背景，不表示“正确的人”。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "英语 right",
+        "正确；右；权利；纠正等用法"
+      ],
+      [
+        "right 的政治右侧义 + -ist → rightist",
+        "政治右翼人士或相关的"
+      ]
+    ],
+    "explanation": "报刊中常见 rightist party、rightist politician。不同地区、时代的左右议题不完全相同，词本身不保证一套固定的政策清单。",
+    "usage": "a rightist party；a rightist politician；rightist views。",
+    "contrast": "rightist 说政治位置，righteous 说正义或道义感，right 说正确；不能用字形相同推出价值高下。",
+    "examples": [
+      [
+        "The report compared leftist and rightist movements.",
+        "报告比较了左翼和右翼运动。"
+      ],
+      [
+        "The article described him as a rightist politician.",
+        "文章把他描述为右翼政治人物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rightist#English"
+    ]
+  },
+  {
+    "word": "rightness",
+    "ipa": "/ˈraɪtnəs/",
+    "meaning": "正确；正当；恰当性",
+    "sense": "不仅做了某件事，还判断“这么做对不对、合不合适”。",
+    "split": "right + -ness；接古英语 rihtnes 等相应性质名词。这里通常接正确、正当，不说右侧位置。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "古英语 rihtnes → 英语 rightness",
+        "正确、公正、恰当的性质"
+      ]
+    ],
+    "explanation": "the rightness of a decision 可谈道德上正当，也可谈情境中合适。a sense of rightness 是觉得某事恰如其分。通常不可数。",
+    "usage": "the rightness of；a sense of rightness；question the rightness。",
+    "contrast": "rightness 是性质，rights 是权利复数。the rightness of his actions 与 his rights 不能互换。",
+    "examples": [
+      [
+        "She never doubted the rightness of her decision.",
+        "她从未怀疑自己决定的正确性。"
+      ],
+      [
+        "There was a quiet sense of rightness about the arrangement.",
+        "这样的安排让人觉得自然妥帖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rightness#English"
+    ]
+  },
+  {
+    "word": "rightward",
+    "ipa": "英 /ˈraɪtwəd/；美 /ˈraɪtwərd/",
+    "meaning": "向右的；向右地",
+    "sense": "从当前方向或立场往右边挪动一点。",
+    "split": "right（右）+ -ward（朝某方向），形成方向性形容词或副词；也可用于政治立场变化的比喻。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "英语 right",
+        "正确；右；权利；纠正等用法"
+      ],
+      [
+        "right + -ward → rightward",
+        "朝右方向；政治上向右"
+      ]
+    ],
+    "explanation": "a rightward shift 是向右移动或立场右移。也见 rightwards，地区和文体习惯不同；方向形式不意味着正确性提高。",
+    "usage": "a rightward movement；a rightward shift；move rightward。",
+    "contrast": "rightward 是朝右的方向，rightmost 是最右边的位置；前者可以在移动，后者突出相对排序。",
+    "examples": [
+      [
+        "The cursor moved rightward across the screen.",
+        "光标在屏幕上向右移动。"
+      ],
+      [
+        "The article discussed a rightward shift in the party.",
+        "文章讨论了该党立场的右移。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rightward#English"
+    ]
+  },
+  {
+    "word": "rightmost",
+    "ipa": "/ˈraɪtməʊst/〔英〕；/ˈraɪtmoʊst/〔美〕",
+    "meaning": "最右边的",
+    "sense": "把一排东西从左看到右，最靠右的那一个。",
+    "split": "right（右）+ -most（最），按相对位置造最高程度形式。-most 这里是最在某边，不是多数。",
+    "history": [
+      [
+        "古英语 riht → 中古英语 right",
+        "直、正；适当、正确"
+      ],
+      [
+        "英语 right",
+        "正确；右；权利；纠正等用法"
+      ],
+      [
+        "right + -most → rightmost",
+        "处于最右端的"
+      ]
+    ],
+    "explanation": "the rightmost column 是最右列，the rightmost button 是最右按钮。必须有一个方向参照，图片旋转后位置描述可能变化。",
+    "usage": "the rightmost column；the rightmost lane；the rightmost digit。",
+    "contrast": "rightmost 说极端位置，不是最正确。the rightmost answer 只说明答案印在右端，不保证它正确。",
+    "examples": [
+      [
+        "Click the rightmost button on the toolbar.",
+        "点击工具栏最右边的按钮。"
+      ],
+      [
+        "The rightmost column shows the total.",
+        "最右列显示总数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rightmost#English"
+    ]
+  },
+  {
+    "word": "life",
+    "ipa": "/laɪf/",
+    "meaning": "生命；生活；一生；使用寿命",
+    "sense": "一面是有没有活着，一面是活着这段时间怎样过。",
+    "split": "接古英语 līf，经中古英语 lyf 延续，属于日耳曼语本族词。不是 live 加一个普通 -f 后缀。复数 lives 发 /laɪvz/。",
+    "history": [
+      [
+        "古英语 līf → 中古英语 lyf",
+        "生命；活着的状态"
+      ],
+      [
+        "英语 life",
+        "生命；生活；一段生存、使用时间"
+      ]
+    ],
+    "explanation": "save a life 是救命，daily life 是日常生活，a long life 是长寿，battery life 是电池续航或寿命，需看上下文。a life of hardship 说一种人生经历。",
+    "usage": "daily life；in real life；save a life；battery life。",
+    "contrast": "life 是名词，live 可作动词 /lɪv/ 或“活的、现场直播的”形容词 /laɪv/，字形相近但词性读音不同。",
+    "examples": [
+      [
+        "The accident changed his life.",
+        "事故改变了他的人生。"
+      ],
+      [
+        "This phone has better battery life than my old one.",
+        "这部手机比我旧手机的续航更好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/life#English"
+    ]
+  },
+  {
+    "word": "alive",
+    "ipa": "/əˈlaɪv/",
+    "meaning": "活着的；仍存在的；充满活力的",
+    "sense": "原以为火灭了、人没了或希望断了，实际仍有生命、仍有动静。",
+    "split": "古英语 on līfe“处于生命中”经中古英语 alive 等形式固定；a- 接 on 的旧材料，life 的形态也发生变化，不是否定前缀。",
+    "history": [
+      [
+        "古英语 līf → 中古英语 lyf",
+        "生命；活着的状态"
+      ],
+      [
+        "古英语 on līfe → 中古英语 alive",
+        "处于活着状态"
+      ],
+      [
+        "英语 alive",
+        "活着；仍然延续、有活力"
+      ]
+    ],
+    "explanation": "通常放在连系动词后或名词后：The fish is alive、the only person alive。keep a tradition alive 是让传统延续。alive with visitors 是人来人往。",
+    "usage": "stay alive；keep hope alive；come alive；alive with。",
+    "contrast": "alive 通常不直接放普通名词前，常说 a live fish、a living person，而非 an alive fish。",
+    "examples": [
+      [
+        "The rescuers found him alive.",
+        "救援人员发现他还活着。"
+      ],
+      [
+        "Stories help keep the memory alive.",
+        "故事让这段记忆得以延续。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alive#English"
+    ]
+  },
+  {
+    "word": "wildlife",
+    "ipa": "/ˈwaɪldlaɪf/",
+    "meaning": "野生生物；野生动物",
+    "sense": "没有被当作家养宠物或牲畜照料，在自然环境里生活的生物。",
+    "split": "wild（野生）+ life（生物、生命）。合成词通常集合地说野生生物，日常尤其常想到野生动物。",
+    "history": [
+      [
+        "英语 wild；life",
+        "并列组合的两部分"
+      ],
+      [
+        "wild + life → wildlife",
+        "野生环境中的生物整体"
+      ]
+    ],
+    "explanation": "通常不可数：protect wildlife。广义可含多类野生生物，具体统计或政策中的范围应看定义，不由日常动物画面替代。",
+    "usage": "wildlife conservation；a wildlife reserve；local wildlife。",
+    "contrast": "wildlife 是野生生物整体，a wild animal 是一个野生动物。宠物走失不因此自动变成所有技术意义的 wildlife。",
+    "examples": [
+      [
+        "The wetlands support a rich variety of wildlife.",
+        "这片湿地养育着丰富多样的野生生物。"
+      ],
+      [
+        "Visitors are asked not to feed the wildlife.",
+        "访客被要求不要投喂野生动物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wildlife#English"
+    ]
+  },
+  {
+    "word": "lifestyle",
+    "ipa": "/ˈlaɪfstaɪl/",
+    "meaning": "生活方式",
+    "sense": "把每天怎么吃、住、工作、花时间的习惯放在一起，就是一种生活方式。",
+    "split": "life（生活）+ style（方式、风格），组合说生活习惯与安排的整体模式。",
+    "history": [
+      [
+        "英语 life；style",
+        "并列组合的两部分"
+      ],
+      [
+        "life + style → lifestyle",
+        "生活的整体习惯、安排方式"
+      ]
+    ],
+    "explanation": "an active lifestyle 是活动较多的生活方式，a busy lifestyle 是忙碌的生活方式。不是只看衣服、房子等展示出来的风格。",
+    "usage": "a healthy lifestyle；lifestyle changes；a change of lifestyle。",
+    "contrast": "lifestyle 比 habit 更整体，habit 常是一个具体习惯。换一个习惯可能影响生活方式，但不自动等于整套人生都改变。",
+    "examples": [
+      [
+        "Moving to the countryside changed their lifestyle.",
+        "搬到乡村改变了他们的生活方式。"
+      ],
+      [
+        "The job suits her lifestyle because the hours are flexible.",
+        "这份工作时间灵活，适合她的生活方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifestyle#English"
+    ]
+  },
+  {
+    "word": "lively",
+    "ipa": "/ˈlaɪvli/",
+    "meaning": "活泼的；热闹的；生动的",
+    "sense": "人不断提问，话题来回碰撞，房间一下有了生气。",
+    "split": "接古英语 līflīċ、后来的 lively 等形式；现代对应 life + -ly，但 -ly 在这里造形容词，不是普通副词。",
+    "history": [
+      [
+        "古英语 līf → 中古英语 lyf",
+        "生命；活着的状态"
+      ],
+      [
+        "古英语 līflīċ → 英语 lively",
+        "有生命、活跃 → 活泼、生动"
+      ]
+    ],
+    "explanation": "a lively child 是活泼孩子，a lively debate 是热烈讨论，a lively description 是生动描写。并不表示所有场面都和睦无争。",
+    "usage": "a lively discussion；a lively atmosphere；a lively imagination。",
+    "contrast": "alive 是活着，lively 是有活力。一个人可以 alive 却很安静；lively 不只是医学上是否有生命。",
+    "examples": [
+      [
+        "The lecture ended with a lively discussion.",
+        "讲座以热烈讨论结束。"
+      ],
+      [
+        "She gave a lively account of her travels.",
+        "她生动地讲述了自己的旅行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lively#English"
+    ]
+  },
+  {
+    "word": "lifelong",
+    "ipa": "英 /ˈlaɪflɒŋ/；美 /ˈlaɪflɔːŋ/",
+    "meaning": "终身的；持续一生的",
+    "sense": "不是维持几天的兴趣，而是在整条人生时间轴上持续伴随。",
+    "split": "life（一生）+ -long（持续相应时长），组合修饰持续时间。",
+    "history": [
+      [
+        "英语 life；-long",
+        "并列组合的两部分"
+      ],
+      [
+        "life + -long → lifelong",
+        "贯穿一生的"
+      ]
+    ],
+    "explanation": "a lifelong friend 是相伴一生或长期深厚的朋友，lifelong learning 是终身学习。具体叙述可带概括性，不必苛求从出生第一秒即开始。",
+    "usage": "lifelong learning；a lifelong ambition；a lifelong friend。",
+    "contrast": "lifelong 是形容词，all one’s life 是时间短语。不能把 lifelong 直接放在每个动词后代替一生。",
+    "examples": [
+      [
+        "She has a lifelong interest in astronomy.",
+        "她一生都对天文学感兴趣。"
+      ],
+      [
+        "The course encouraged a habit of lifelong learning.",
+        "课程鼓励养成终身学习的习惯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifelong#English"
+    ]
+  },
+  {
+    "word": "lifespan",
+    "ipa": "/ˈlaɪfspæn/",
+    "meaning": "寿命；存在或使用的时长",
+    "sense": "把起点和终点标出来，两点之间跨过的整段时间。",
+    "split": "life（生命、使用期间）+ span（跨度），组合量化一个生物或事物持续存在的时间。",
+    "history": [
+      [
+        "英语 life；span",
+        "并列组合的两部分"
+      ],
+      [
+        "life + span → lifespan",
+        "从开始到结束的生命、使用时间跨度"
+      ]
+    ],
+    "explanation": "可说人的寿命、物种个体典型寿命，也可说设备使用寿命。average lifespan 是平均值，不能直接当某个个体的精确倒计时。",
+    "usage": "average lifespan；a short lifespan；extend the lifespan。",
+    "contrast": "lifespan 侧重时长，lifestyle 侧重如何生活。life expectancy 是基于特定数据条件的预期寿命，不能无条件等同每个个体实际 lifespan。",
+    "examples": [
+      [
+        "The device has an expected lifespan of ten years.",
+        "这台设备预计可使用十年。"
+      ],
+      [
+        "The book compares the lifespans of different animals.",
+        "这本书比较了不同动物的寿命。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifespan#English"
+    ]
+  },
+  {
+    "word": "afterlife",
+    "ipa": "英 /ˈɑːftəlaɪf/；美 /ˈæftərlaɪf/",
+    "meaning": "来世；死后世界；后续影响",
+    "sense": "故事或信仰把人生的终点之后，又想象成另一段存在。",
+    "split": "after-（之后）+ life（生命），组合说死亡之后的存在；也可比喻作品或事物在原阶段结束后的延续。",
+    "history": [
+      [
+        "英语 after-；life",
+        "并列组合的两部分"
+      ],
+      [
+        "after- + life → afterlife",
+        "死后存在；比喻后续生命、影响"
+      ]
+    ],
+    "explanation": "常见于信仰、文学和哲学讨论，词本身不证明具体信仰真假。the afterlife of a book 还可说作品后来的传播、改编与影响。",
+    "usage": "belief in an afterlife；the afterlife；a literary afterlife。",
+    "contrast": "afterlife 是来世或后续存在，later life 是人生较晚阶段；不是同一个时间位置。",
+    "examples": [
+      [
+        "The exhibition explores different beliefs about the afterlife.",
+        "展览探讨了对来世的不同信仰。"
+      ],
+      [
+        "The novel had a long afterlife in film adaptations.",
+        "这部小说通过电影改编获得了长久的后续影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/afterlife#English"
+    ]
+  },
+  {
+    "word": "lifeless",
+    "ipa": "/ˈlaɪfləs/",
+    "meaning": "无生命的；毫无生气的",
+    "sense": "一面是真的没有生命迹象，一面只是场景、文章或表演缺乏活力。",
+    "split": "life + -less，接古英语 līflēas 等否定形式；-less 表缺少，不等于过去时。",
+    "history": [
+      [
+        "古英语 līf → 中古英语 lyf",
+        "生命；活着的状态"
+      ],
+      [
+        "古英语 līflēas → 英语 lifeless",
+        "没有生命；缺少生气"
+      ]
+    ],
+    "explanation": "a lifeless body 可指无生命的身体，a lifeless performance 是呆板表演。形容物品或风格时，通常是比喻，不要都翻成死亡。",
+    "usage": "a lifeless expression；a lifeless performance；lie lifeless。",
+    "contrast": "lifeless 可能只说缺乏活力；dead 在具体生物语境更直接说死亡，两个词的语气、范围不完全一样。",
+    "examples": [
+      [
+        "The room looked cold and lifeless.",
+        "房间显得冷清、没有生气。"
+      ],
+      [
+        "The actor’s delivery made the speech sound lifeless.",
+        "演员的表达让这段演说听起来毫无生气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifeless#English"
+    ]
+  },
+  {
+    "word": "lifeline",
+    "ipa": "/ˈlaɪflaɪn/",
+    "meaning": "救生索；赖以维持的支援",
+    "sense": "快撑不住时，有一根绳子或一条联系仍把你与安全、帮助接在一起。",
+    "split": "life（生命）+ line（绳索、联络线），实体救生索延伸为维持生活或运转的重要支持。",
+    "history": [
+      [
+        "英语 life；line",
+        "并列组合的两部分"
+      ],
+      [
+        "life + line → lifeline",
+        "救生索；至关重要的支援或联系"
+      ]
+    ],
+    "explanation": "a lifeline to isolated residents 是给孤立居民的关键支持。交通、资金、朋友联系都可比喻 lifeline，不一定真在紧急救命。",
+    "usage": "a vital lifeline；provide a lifeline；a lifeline to。",
+    "contrast": "deadline 是截止时间，lifeline 是关键支援；line 的同形并不让两者意思相同。",
+    "examples": [
+      [
+        "The ferry is a lifeline for people on the island.",
+        "渡轮是岛上居民不可缺少的交通命脉。"
+      ],
+      [
+        "Regular calls became a lifeline during her stay abroad.",
+        "在国外期间，定期通话成了她重要的精神支撑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifeline#English"
+    ]
+  },
+  {
+    "word": "lifeboat",
+    "ipa": "英 /ˈlaɪfbəʊt/；美 /ˈlaɪfboʊt/",
+    "meaning": "救生艇",
+    "sense": "大船出事或有人落水时，用专门的船去接应、撤离或救援。",
+    "split": "life（生命）+ boat（船），按救人用途组合命名。不是所有小船都自动叫 lifeboat。",
+    "history": [
+      [
+        "英语 life；boat",
+        "并列组合的两部分"
+      ],
+      [
+        "life + boat → lifeboat",
+        "用于救援或撤离的船艇"
+      ]
+    ],
+    "explanation": "可指船上备用救生艇，也可指海上救援机构使用的救助船艇；具体设计、用途由对象决定。",
+    "usage": "launch a lifeboat；a lifeboat crew；aboard the lifeboat。",
+    "contrast": "lifeboat 是船艇，life jacket 是救生衣，lifeguard 是救生员；共享 life，但名词对象不同。",
+    "examples": [
+      [
+        "The crew prepared the lifeboat.",
+        "船员准备好了救生艇。"
+      ],
+      [
+        "A volunteer lifeboat crew answered the call.",
+        "一支志愿救生艇队响应了呼叫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifeboat#English"
+    ]
+  },
+  {
+    "word": "lifeguard",
+    "ipa": "英 /ˈlaɪfɡɑːd/；美 /ˈlaɪfɡɑːrd/",
+    "meaning": "救生员",
+    "sense": "泳池或海滩边，有人专门观察水中情况，在需要时施救。",
+    "split": "life + guard，早期还有护卫身体、卫队等历史背景，并与荷兰语 lijfgarde 等相应组合有关；现代常用义集中到水域救生人员。",
+    "history": [
+      [
+        "life／body 与 guard 的旧护卫组合；对应荷兰语 lijfgarde 等",
+        "护卫人身、生命"
+      ],
+      [
+        "英语 lifeguard 的现代常用义",
+        "泳池、海滩等处的救生员"
+      ]
+    ],
+    "explanation": "通常说受训、负责水域安全工作的人员。life 不只是字面活命，也指被保护的人；具体职责与资质依场所而定。",
+    "usage": "a beach lifeguard；a lifeguard station；on-duty lifeguards。",
+    "contrast": "lifeguard 是人员，lifeboat 是船。life coach 是另一种职业名称，不能因共享 life 也说成救生员。",
+    "examples": [
+      [
+        "A lifeguard watched the swimmers from the chair.",
+        "救生员坐在高椅上观察游泳者。"
+      ],
+      [
+        "The beach has no lifeguard after sunset.",
+        "这片海滩日落后没有救生员值守。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifeguard#English"
+    ]
+  },
+  {
+    "word": "nightlife",
+    "ipa": "/ˈnaɪtlaɪf/",
+    "meaning": "夜生活",
+    "sense": "白天工作结束后，城市里的餐馆、酒吧、演出等娱乐活动又热闹起来。",
+    "split": "night（夜晚）+ life（生活、活动），组合说夜间社交娱乐活动。",
+    "history": [
+      [
+        "英语 night；life",
+        "并列组合的两部分"
+      ],
+      [
+        "night + life → nightlife",
+        "夜间的娱乐与社交生活"
+      ]
+    ],
+    "explanation": "a city’s nightlife 常包括酒吧、餐馆、音乐或舞蹈场所。不是夜班工作、失眠或所有夜间动物活动的统称。",
+    "usage": "vibrant nightlife；enjoy the nightlife；the local nightlife。",
+    "contrast": "nightlife 是人的夜间娱乐，nocturnal wildlife 则是夜行野生动物；life 在两种结构里指向不同。",
+    "examples": [
+      [
+        "The city is known for its lively nightlife.",
+        "这座城市以热闹的夜生活闻名。"
+      ],
+      [
+        "They preferred quiet walks to the resort’s nightlife.",
+        "相比度假地的夜间娱乐，他们更喜欢安静散步。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightlife#English"
+    ]
+  },
+  {
+    "word": "midlife",
+    "ipa": "/ˈmɪdlaɪf/",
+    "meaning": "中年；中年阶段的",
+    "sense": "把一生看成一条时间线，说其中部附近的成年阶段。",
+    "split": "mid-（中间）+ life（一生），组合形成名词或前置修饰语。不由词形给出所有人统一的精确岁数。",
+    "history": [
+      [
+        "英语 mid-；life",
+        "并列组合的两部分"
+      ],
+      [
+        "mid- + life → midlife",
+        "人生中部附近的阶段"
+      ]
+    ],
+    "explanation": "in midlife 是在人到中年时，a midlife career change 是中年转行。midlife crisis 是常见表达，但不是每个人到了中年都会经历的必然事件。",
+    "usage": "in midlife；a midlife change；a midlife crisis。",
+    "contrast": "midlife 是人生阶段，half-life 是半衰期等另一科学概念；共享中间的直觉也不能直接替换。",
+    "examples": [
+      [
+        "She returned to university in midlife.",
+        "她中年时重返大学。"
+      ],
+      [
+        "The book discusses career changes in midlife.",
+        "这本书讨论中年转行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/midlife#English"
+    ]
+  },
+  {
+    "word": "lifelike",
+    "ipa": "/ˈlaɪflaɪk/",
+    "meaning": "栩栩如生的；逼真的",
+    "sense": "明知是模型或画，却像下一秒就会动、会呼吸。",
+    "split": "life（生命、真实生活）+ -like（像），形成形容词。-like 表相似，不证明对象真的有生命。",
+    "history": [
+      [
+        "英语 life；-like",
+        "并列组合的两部分"
+      ],
+      [
+        "life + -like → lifelike",
+        "像真实活物或真实生活的"
+      ]
+    ],
+    "explanation": "a lifelike doll 是逼真娃娃，lifelike portraits 是生动肖像。常用于艺术、模型、动画的表现效果。",
+    "usage": "a lifelike model；a lifelike portrait；lifelike movements。",
+    "contrast": "lifelike 是外观或动作像活的，alive 是真的活着。逼真的机器人也不因这个形容词就变成生物。",
+    "examples": [
+      [
+        "The museum displayed a lifelike model of a whale.",
+        "博物馆展示了一件逼真的鲸鱼模型。"
+      ],
+      [
+        "The puppet’s movements were remarkably lifelike.",
+        "木偶的动作逼真得惊人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifelike#English"
+    ]
+  },
+  {
+    "word": "lifeblood",
+    "ipa": "/ˈlaɪfblʌd/",
+    "meaning": "生命之血；命脉；不可缺少的支撑",
+    "sense": "像血液持续输送所需一样，某种东西不断让一个组织或地方维持运转。",
+    "split": "life（生命）+ blood（血液），从维持生命的血液发展为维持整体的关键资源。",
+    "history": [
+      [
+        "英语 life；blood",
+        "并列组合的两部分"
+      ],
+      [
+        "life + blood → lifeblood",
+        "生命依托的血；抽象的重要维持因素"
+      ]
+    ],
+    "explanation": "Tourism is the lifeblood of the town 是旅游业是小镇命脉。资金、信任、创意都可能在不同叙述里成为 lifeblood，侧重不可缺少。",
+    "usage": "the lifeblood of；economic lifeblood；the lifeblood of a community。",
+    "contrast": "lifeblood 偏持续维持整体的核心资源，lifeline 偏关键联络或支援线；二者可重叠，但图像不同。",
+    "examples": [
+      [
+        "Small businesses are the lifeblood of the local economy.",
+        "小企业是当地经济的命脉。"
+      ],
+      [
+        "New ideas are the lifeblood of the studio.",
+        "新想法是这家工作室赖以发展的源泉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifeblood#English"
+    ]
+  },
+  {
+    "word": "liven",
+    "ipa": "/ˈlaɪvən/",
+    "meaning": "使活跃；变热闹",
+    "sense": "原本气氛有点闷，加一段音乐或一个好问题，整个场子精神起来。",
+    "split": "形成有 life／live 加 -en 以及 enliven 缩短等相关分析；不是所有材料都能排成一条确定单线。-en 表使成为某状态。",
+    "history": [
+      [
+        "英语 life／live + -en；也有 enliven 缩短分析",
+        "生命、活跃 → 使有活力"
+      ],
+      [
+        "英语 liven，常用 liven up",
+        "让气氛、场景活跃起来"
+      ]
+    ],
+    "explanation": "最常见 liven up，可以说一场聚会变热闹，也可说色彩让房间更有生气。常是比喻，不是把无生命物变成生物。",
+    "usage": "liven up a room；liven up the discussion；things liven up。",
+    "contrast": "liven 常与 up 搭配，live 表居住或生活时读 /lɪv/，liven 读 /ˈlaɪvən/，不要按相似拼写读错。",
+    "examples": [
+      [
+        "A few bright cushions would liven up the room.",
+        "几个鲜艳靠垫会让房间更有生气。"
+      ],
+      [
+        "The discussion livened up when the students joined in.",
+        "学生加入后，讨论活跃起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/liven#English"
+    ]
+  },
+  {
+    "word": "enliven",
+    "ipa": "/ɪnˈlaɪvən/",
+    "meaning": "使生动；使活跃",
+    "sense": "叙述原本平平，加进具体故事和细节，读者眼前就有了动静。",
+    "split": "与 life 及 en-、-en 的动词构词有关，表示赋予生气；现代可联系 live／liven，但不把它看成“使居住”。",
+    "history": [
+      [
+        "古英语 līf → 中古英语 lyf",
+        "生命；活着的状态"
+      ],
+      [
+        "英语 life",
+        "生命；生活；一段生存、使用时间"
+      ],
+      [
+        "en-／-en 与 life 的动词构词 → enliven",
+        "使有活力、使生动"
+      ]
+    ],
+    "explanation": "常接故事、讨论、房间气氛等对象。enliven a talk with examples 是用例子让讲话更生动；一般比 liven up 更书面。",
+    "usage": "enliven a story；enliven a discussion；be enlivened by。",
+    "contrast": "enliven 和 revive 可都说恢复活力；revive 还常强调从衰弱、停顿中复苏，enliven 可只是把本来正常的表达变有趣。",
+    "examples": [
+      [
+        "Personal stories enlivened the lecture.",
+        "亲身故事让讲座生动起来。"
+      ],
+      [
+        "The wall was enlivened by a colourful mural.",
+        "彩色壁画让这面墙有了生气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enliven#English"
+    ]
+  },
+  {
+    "word": "lowlife",
+    "ipa": "英 /ˈləʊlaɪf/；美 /ˈloʊlaɪf/",
+    "meaning": "卑劣之人；社会阴暗面的生活〔贬义〕",
+    "sense": "说话者把某人看作行事卑劣、令人鄙视，评价的是品行。",
+    "split": "low（低下、卑劣的评价）+ life（人或生活），组合带强烈贬义；不能按经济收入低来定义所有被称呼者。",
+    "history": [
+      [
+        "英语 low；life",
+        "并列组合的两部分"
+      ],
+      [
+        "low + life → lowlife",
+        "贬称卑劣的人；相应生活环境"
+      ]
+    ],
+    "explanation": "a lowlife 是侮辱性称呼，常见对犯罪或恶劣行为的谴责。描述社会群体时需看叙述者偏见，不把词中的评价当中性事实。",
+    "usage": "a lowlife；a bunch of lowlifes；lowlife characters。",
+    "contrast": "lowlife 不等于 poor person。把生活贫困与品行卑劣画等号，会错读这个词的评价对象。",
+    "examples": [
+      [
+        "The villain hires a group of lowlifes to do his dirty work.",
+        "反派雇了一帮卑劣之徒替他干脏活。"
+      ],
+      [
+        "He called the scammer a lowlife.",
+        "他骂那个骗子是个卑鄙小人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lowlife#English"
+    ]
+  },
+  {
+    "word": "lifer",
+    "ipa": "英 /ˈlaɪfə/；美 /ˈlaɪfər/",
+    "meaning": "终身监禁犯；长期做某事的人〔口语〕",
+    "sense": "一段事情不是做几年就走，而是像整个人生都被放在这里。",
+    "split": "life + -er，-er 表人；life 在刑罚用语中可指终身刑，口语也用于终身或长期投入某职业的人。",
+    "history": [
+      [
+        "古英语 līf → 中古英语 lyf",
+        "生命；活着的状态"
+      ],
+      [
+        "英语 life",
+        "生命；生活；一段生存、使用时间"
+      ],
+      [
+        "life + -er → lifer",
+        "终身刑服刑者；长期投入某事的人"
+      ]
+    ],
+    "explanation": "监狱语境 a lifer 通常是终身刑服刑者。a company lifer 可以说多年不离开同一公司的老员工，可能调侃，也可能中性。",
+    "usage": "a prison lifer；a company lifer；a career lifer。",
+    "contrast": "lifer 不等于 lifesaver 救命者；-er 指人，但前面的 life 具体是什么义，要看整词用法。",
+    "examples": [
+      [
+        "The prison housed both lifers and short-term inmates.",
+        "监狱里既有终身刑犯，也有短期服刑者。"
+      ],
+      [
+        "After thirty years at the firm, she joked that she was a lifer.",
+        "在公司待了三十年后，她开玩笑说自己是一辈子不挪窝的老员工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifer#English"
+    ]
+  },
+  {
+    "word": "birdlife",
+    "ipa": "英 /ˈbɜːdlaɪf/；美 /ˈbɜːrdlaɪf/",
+    "meaning": "鸟类；某地的鸟类生态",
+    "sense": "观察一片湿地，不只数一只鸟，而是看那里整体有哪些鸟在生活。",
+    "split": "bird（鸟）+ life（生物集合），通常集合地说某地区鸟类及其活动。",
+    "history": [
+      [
+        "英语 bird；life",
+        "并列组合的两部分"
+      ],
+      [
+        "bird + life → birdlife",
+        "某地鸟类整体"
+      ]
+    ],
+    "explanation": "rich birdlife 是鸟类丰富；常见于旅游、自然观察和生态叙述，通常不可数。不把它理解成某只鸟的一生传记。",
+    "usage": "rich birdlife；local birdlife；a haven for birdlife。",
+    "contrast": "a bird’s life 是一只鸟的生活或寿命，birdlife 是鸟类整体，结构相似但集合义不同。",
+    "examples": [
+      [
+        "The island is famous for its abundant birdlife.",
+        "这座岛以鸟类丰富闻名。"
+      ],
+      [
+        "We visited the marshes to observe the local birdlife.",
+        "我们去沼泽观察当地鸟类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/birdlife#English"
+    ]
+  },
+  {
+    "word": "long",
+    "ipa": "英 /lɒŋ/；美 /lɔːŋ/",
+    "meaning": "长的；长时间；渴望",
+    "sense": "空间里一段距离拉得远，时间里一段等待拖得久；渴望义则是心朝某物牵挂。",
+    "split": "形容词接古英语 long／lang；渴望动词接古英语 langian 等另一用法的发展，虽有词族联系，也不能把现代形容词直接加后缀当全部历史。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "英语 long",
+        "长的；长时间；另有渴望的动词用法"
+      ]
+    ],
+    "explanation": "a long road 是长路，for a long time 是很长时间。long for home 是想念家，long to leave 是渴望离开；动词 long 较书面。",
+    "usage": "a long time；how long；as long as；long for；long to do。",
+    "contrast": "long 说时长不一定说时间晚，late 才说晚。long for 不是“为某人延长”，而是渴望或思念。",
+    "examples": [
+      [
+        "How long will the journey take?",
+        "这段旅程要多久？"
+      ],
+      [
+        "After months abroad, she longed for home.",
+        "在国外几个月后，她很想家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/long#English"
+    ]
+  },
+  {
+    "word": "longer",
+    "ipa": "英 /ˈlɒŋɡə/；美 /ˈlɔːŋɡər/",
+    "meaning": "更长的；更久地；渴望者〔罕用〕",
+    "sense": "两条路比一比，这条多延伸一截；两次等待比一比，这次花更多时间。",
+    "split": "常用是 long + 比较级 -er。词典另收 long“渴望”加人物 -er 的少见名词，不能让这个少见义掩盖最常用比较级。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "英语 long",
+        "长的；长时间；另有渴望的动词用法"
+      ],
+      [
+        "long + 比较级 -er → longer",
+        "长度更大、持续更久"
+      ]
+    ],
+    "explanation": "a longer break 是更长休息，stay longer 是多待一阵。no longer 表不再，通常不再直接量长度，而是说某状态已结束。",
+    "usage": "longer than；stay longer；no longer；any longer。",
+    "contrast": "longer 可以是形容词比较级，也可作时间副词；不是所有 -er 都表示人。",
+    "examples": [
+      [
+        "This route is longer but less crowded.",
+        "这条路线更长，但没那么拥挤。"
+      ],
+      [
+        "She no longer works at the company.",
+        "她已不在这家公司工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longer#English"
+    ]
+  },
+  {
+    "word": "longest",
+    "ipa": "英 /ˈlɒŋɡɪst/；美 /ˈlɔːŋɡɪst/",
+    "meaning": "最长的；最久地",
+    "sense": "不只比另一个长，而是在所比较的一组里走得最远、拖得最久。",
+    "split": "long + 最高级 -est，long 的 g 在这个常见读音中发出 /ɡ/。最高级的比较范围通常由上下文给出。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "英语 long",
+        "长的；长时间；另有渴望的动词用法"
+      ],
+      [
+        "long + -est → longest",
+        "在某范围里长度或持续时间最大"
+      ]
+    ],
+    "explanation": "the longest river 是在某范围里最长的河；the longest I’ve waited 是我等过的最长时间。at the longest 可说最长不超过多久。",
+    "usage": "the longest time；the longest route；at the longest。",
+    "contrast": "longer 是相对更长，longest 是一组里最；“最长”比较的可能是距离，也可能是时间。",
+    "examples": [
+      [
+        "It was the longest flight I had ever taken.",
+        "那是我坐过最长的一次航班。"
+      ],
+      [
+        "Which of these three roads is the longest?",
+        "这三条路里哪条最长？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longest#English"
+    ]
+  },
+  {
+    "word": "length",
+    "ipa": "/leŋθ/，也常 /leŋkθ/",
+    "meaning": "长度；时长；篇幅",
+    "sense": "不再只说长不长，而把两端之间的距离或开始到结束的时间当作一个量。",
+    "split": "接古英语 lengþ／lengþu，经中古英语延续；现代与 long 对应，-th 是性质或量名词材料，元音变化是历史遗留，不是把 o 任意改 e 的造词公式。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "古英语 lengþ → 英语 length",
+        "长这一性质、长度"
+      ]
+    ],
+    "explanation": "the length of a rope 是绳长，the length of a film 是片长，at length 是详细地。go to great lengths 是费尽心思，不一定实际走很远。",
+    "usage": "in length；at length；the length of；go to great lengths。",
+    "contrast": "length 是名词，long 是形容词或其他用法；a five-metre length of rope 还可数地说一段绳子。",
+    "examples": [
+      [
+        "The table is two metres in length.",
+        "桌子长两米。"
+      ],
+      [
+        "We discussed the issue at length.",
+        "我们详细讨论了这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/length#English"
+    ]
+  },
+  {
+    "word": "longing",
+    "ipa": "英 /ˈlɒŋɪŋ/；美 /ˈlɔːŋɪŋ/",
+    "meaning": "渴望；思念；渴求的",
+    "sense": "想要的东西不在身边，心里像有一条线一直牵着它。",
+    "split": "接古英语 longung、langung 等与 langian 渴望相关的动作名词；现代对应动词 long + -ing，不是单纯“变长的过程”。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "古英语 langian → longung 等",
+        "渴望 → 渴望这一状态"
+      ],
+      [
+        "英语 longing",
+        "深切渴望、思念"
+      ]
+    ],
+    "explanation": "a longing for home 是深深想家，a longing to travel 是渴望旅行。a longing look 是带着渴望的眼神；感情强度通常比普通 want 更深。",
+    "usage": "a longing for；a longing to do；a longing look。",
+    "contrast": "longing 是心理上的渴求，length 是长短的量。两者共享 long 的词形联系，却不能同义替换。",
+    "examples": [
+      [
+        "She felt a deep longing for the sea.",
+        "她深深向往大海。"
+      ],
+      [
+        "His letters expressed a longing to return home.",
+        "他的信表达了归家的渴望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longing#English"
+    ]
+  },
+  {
+    "word": "belong",
+    "ipa": "英 /bɪˈlɒŋ/；美 /bɪˈlɔːŋ/",
+    "meaning": "属于；适合放在；有归属感",
+    "sense": "一把钥匙有对应的锁，一件东西有该放的位置，一个人也有能融入的群体。",
+    "split": "接中古英语 belongen，be- 与 longen“适合、与之有关”组合，更早关联古英语 langian 的相应用法。不能按现代 be + long 译成“是长的”。",
+    "history": [
+      [
+        "中古英语 be- + longen → belongen",
+        "适合、与某处或某人相属"
+      ],
+      [
+        "英语 belong",
+        "归属于；处在适合的位置；融入"
+      ]
+    ],
+    "explanation": "belong to someone 是归某人所有，belong in a drawer 是该放在抽屉，feel you belong 是有归属感。通常不使用被动 be belonged to。",
+    "usage": "belong to；belong in；belong with；a sense of belonging。",
+    "contrast": "belong 不等于拥有者主动的 own：The book belongs to her 与 She owns the book 观察方向相反。",
+    "examples": [
+      [
+        "Does this bag belong to you?",
+        "这个包是你的吗？"
+      ],
+      [
+        "For the first time, he felt that he belonged.",
+        "他第一次有了归属感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/belong#English"
+    ]
+  },
+  {
+    "word": "linger",
+    "ipa": "英 /ˈlɪŋɡə/；美 /ˈlɪŋɡər/",
+    "meaning": "逗留；迟迟不散；徘徊",
+    "sense": "人已经该走，却又在门口多停一会儿；气味也能在房间里久久不散。",
+    "split": "接中古英语 lengeren，相关基础 lengen 上溯古英语 lenġan“延长、耽搁”，与 long 词族相连；-er 在这里是历史动词材料，不是执行动作的人。",
+    "history": [
+      [
+        "古英语 lenġan → 中古英语 lengen／lengeren",
+        "延长、耽搁 → 继续停留"
+      ],
+      [
+        "英语 linger",
+        "逗留；感受、气味等久久持续"
+      ]
+    ],
+    "explanation": "linger over a meal 是慢慢吃、舍不得结束；a smell lingers 是气味迟迟不散。可描述温柔留恋，也可描述不想要的后遗影响。",
+    "usage": "linger over；linger on；a lingering doubt。",
+    "contrast": "linger 是动词，longer 常是比较级；拼写与发音不同，不能用 linger 直接代替 wait longer。",
+    "examples": [
+      [
+        "We lingered over coffee after lunch.",
+        "午饭后，我们喝着咖啡久久没走。"
+      ],
+      [
+        "The smell of smoke lingered in the room.",
+        "烟味在房间里迟迟不散。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linger#English"
+    ]
+  },
+  {
+    "word": "longish",
+    "ipa": "英 /ˈlɒŋɪʃ/；美 /ˈlɔːŋɪʃ/",
+    "meaning": "有点长的；相当长的",
+    "sense": "不报一个精确数，只告诉人：比短略长，得留一点耐心。",
+    "split": "long + -ish，-ish 可把性质说得略带、近似或不那么绝对；不是最高级。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "英语 long",
+        "长的；长时间；另有渴望的动词用法"
+      ],
+      [
+        "long + -ish → longish",
+        "有些长、偏长"
+      ]
+    ],
+    "explanation": "a longish walk 是一段偏长的步行，语气比 very long 更松。长度仍相对说话者预期，不同人判断可不同。",
+    "usage": "a longish pause；a longish walk；a longish article。",
+    "contrast": "longish 是模糊程度，longer 是比较级；有点长不必说明它比指定的另一件更长。",
+    "examples": [
+      [
+        "There was a longish pause before she answered.",
+        "她停了好一会儿才回答。"
+      ],
+      [
+        "It is a longish article, but the examples are useful.",
+        "文章有点长，不过例子很有用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longish#English"
+    ]
+  },
+  {
+    "word": "overlong",
+    "ipa": "英 /ˌəʊvəˈlɒŋ/；美 /ˌoʊvərˈlɔːŋ/",
+    "meaning": "过长的；拖得太久的",
+    "sense": "内容已经讲够了，后面还在继续，长到超过需要或耐心。",
+    "split": "over-（过度）+ long（长），组合明确加上超过适当限度的评价。",
+    "history": [
+      [
+        "古英语 long／lang → 中古英语 long",
+        "长度大；持续时间久"
+      ],
+      [
+        "英语 long",
+        "长的；长时间；另有渴望的动词用法"
+      ],
+      [
+        "over- + long → overlong",
+        "长得过头、持续过久"
+      ]
+    ],
+    "explanation": "an overlong speech 是冗长讲话，an overlong film 是被评价为拖得太长的电影。限度取决于用途，不由词名设定统一分钟数。",
+    "usage": "an overlong speech；an overlong introduction；feel overlong。",
+    "contrast": "long 可以中性说长，overlong 明确说太长；longish 较温和，并不一定批评过量。",
+    "examples": [
+      [
+        "The report has an overlong introduction.",
+        "报告的引言过于冗长。"
+      ],
+      [
+        "The final scene felt overlong.",
+        "最后一场戏显得拖得太久。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overlong#English"
+    ]
+  },
+  {
+    "word": "longlist",
+    "ipa": "英 /ˈlɒŋlɪst/；美 /ˈlɔːŋlɪst/",
+    "meaning": "初选名单；列入初选名单",
+    "sense": "先把值得考虑的很多候选人留下，再从中缩成更短的入围名单。",
+    "split": "long（长）+ list（名单），与 shortlist 相对，用于评奖、招聘等候选筛选。",
+    "history": [
+      [
+        "英语 long；list",
+        "并列组合的两部分"
+      ],
+      [
+        "long + list → longlist",
+        "较宽的初选候选名单"
+      ]
+    ],
+    "explanation": "on the longlist 是进入初选名单，不代表已进入最终决选。也可作动词 longlist a novel。实际阶段名称由奖项或组织规定。",
+    "usage": "make the longlist；on the longlist；a longlisted novel。",
+    "contrast": "longlist 与 shortlist 是两个筛选层次，不是只按纸上名单占几行判断，入围状态需看具体流程。",
+    "examples": [
+      [
+        "Her novel appeared on the prize’s longlist.",
+        "她的小说进入了该奖项的初选名单。"
+      ],
+      [
+        "The committee will reduce the longlist next month.",
+        "委员会下个月会缩小初选名单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longlist#English"
+    ]
+  },
+  {
+    "word": "longhand",
+    "ipa": "英 /ˈlɒŋhænd/；美 /ˈlɔːŋhænd/",
+    "meaning": "普通手写；用完整字形书写",
+    "sense": "一个词一个词按通常字形写出来，不用速记符号压缩。",
+    "split": "long + hand（书写方式），仿 shorthand（速记）而成的相对名称。hand 在这里是笔迹、书写，不是手臂长度。",
+    "history": [
+      [
+        "英语 long；hand〔书写〕",
+        "并列组合的两部分"
+      ],
+      [
+        "long + hand〔书写〕 → longhand",
+        "普通完整字形的手写"
+      ]
+    ],
+    "explanation": "write in longhand 通常指手写完整文字，和速记或打字相比。字可以写得很小，也不要求每个字母都拖得很长。",
+    "usage": "write in longhand；a longhand draft；longhand notes。",
+    "contrast": "longhand 是书写方式，handwriting 是笔迹或手写这件事本身；shorthand 是速记，不等于字体小。",
+    "examples": [
+      [
+        "She wrote the first draft in longhand.",
+        "她用普通手写完成了初稿。"
+      ],
+      [
+        "The old notebook contains both shorthand and longhand notes.",
+        "旧笔记本里既有速记，也有普通手写记录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longhand#English"
+    ]
+  },
+  {
+    "word": "longboard",
+    "ipa": "英 /ˈlɒŋbɔːd/；美 /ˈlɔːŋbɔːrd/",
+    "meaning": "长板〔滑板或冲浪板〕",
+    "sense": "在同类运动板中，板体较长，给站姿与移动带来不同空间。",
+    "split": "long（长）+ board（板），同一组合用于滑板和冲浪等不同运动语境，不能把两种器材混为一件。",
+    "history": [
+      [
+        "英语 long；board",
+        "并列组合的两部分"
+      ],
+      [
+        "long + board → longboard",
+        "相应运动中的长型板"
+      ]
+    ],
+    "explanation": "路面语境常说长滑板，海浪语境常说长冲浪板。具体尺寸与用途随器材分类，不由词根给出统一标准。",
+    "usage": "ride a longboard；a surf longboard；a longboard deck。",
+    "contrast": "longboard 是器材名称，boardwalk 是木板步道；都有 board，却不是相同物品。",
+    "examples": [
+      [
+        "He carried his longboard down to the beach.",
+        "他把长冲浪板搬到海滩。"
+      ],
+      [
+        "She uses a longboard for relaxed rides along the seafront.",
+        "她骑长滑板沿海边悠闲滑行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longboard#English"
+    ]
+  },
+  {
+    "word": "longbow",
+    "ipa": "英 /ˈlɒŋbəʊ/；美 /ˈlɔːŋboʊ/",
+    "meaning": "长弓",
+    "sense": "一张弓有较长的弓臂，是特定历史与射箭器材中的形制。",
+    "split": "long（长）+ bow（弓），按形制组合，不是 bow 表鞠躬的那个动作。",
+    "history": [
+      [
+        "英语 long；bow〔弓〕",
+        "并列组合的两部分"
+      ],
+      [
+        "long + bow〔弓〕 → longbow",
+        "长形弓具"
+      ]
+    ],
+    "explanation": "常见于中世纪历史与传统射箭叙述。具体长度、材料与性能依传统和器材，不能仅凭 long 断言射程或优势。",
+    "usage": "an English longbow；draw a longbow；a traditional longbow。",
+    "contrast": "bow 作弓读 /bəʊ/ 或 /boʊ/，作鞠躬常读 /baʊ/；longbow 的后半用弓义与相应读音。",
+    "examples": [
+      [
+        "The museum displays a medieval longbow.",
+        "博物馆展出了一张中世纪长弓。"
+      ],
+      [
+        "The archer practised with a traditional longbow.",
+        "射手用传统长弓练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longbow#English"
+    ]
+  },
+  {
+    "word": "longhouse",
+    "ipa": "英 /ˈlɒŋhaʊs/；美 /ˈlɔːŋhaʊs/",
+    "meaning": "长屋〔特定传统建筑〕",
+    "sense": "把居住、聚会或不同家庭的空间沿着长条建筑展开。",
+    "split": "long（长）+ house（房屋）。用于多种文化的长形传统建筑名称，不是单一民族独有的一种构造。",
+    "history": [
+      [
+        "英语 long；house",
+        "并列组合的两部分"
+      ],
+      [
+        "long + house → longhouse",
+        "长形传统住房或公共建筑"
+      ]
+    ],
+    "explanation": "历史、考古或文化描述中可见，不同地区使用材料、内部布局和居住组织都可能不同。只抓住长形建筑的共同命名，不能由词推出同一种社会制度。",
+    "usage": "a traditional longhouse；a reconstructed longhouse；inside the longhouse。",
+    "contrast": "longhouse 是建筑类型名称，不是所有狭长房间的普通称呼；a long room 只说房间形状。",
+    "examples": [
+      [
+        "The site contains the remains of a wooden longhouse.",
+        "遗址中有一座木长屋的遗迹。"
+      ],
+      [
+        "The visitors entered a reconstructed longhouse.",
+        "访客走进一座复建长屋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/longhouse#English"
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "B3474",
+    "meaning": "从大桶、装载量走向不同吨制与总量、当量",
+    "core": "TON：单位有历史，也有必须区分的吨制",
+    "image": "ton、tonne → tonnage；mega- + ton → megaton。",
+    "intro": "最有用的不是背一个吨字，而是确认单位和对象：公吨、长吨、短吨；质量、船舶容量、能量又不同。",
+    "forms": "tun 大桶与 tonne 等相关 → ton；tonne 公吨；-age 总量等名词；mega- 百万。\n\nton、tonne 与桶名 tun 有共同历史；tunnel 经法语 tonel／tonnelle、tonne 桶的指小形式传入，经历管状网、管道到地下通道等用法，不是英语 ton 临时加后缀。\n\n与 tun 大桶相关并受法语形式影响，重量与容量有历史发展。\n\ntonne 以法语拼写进入英语，现代指公吨；远处与 ton、tun 桶的旧计量背景有关。复数 tonnes，1 tonne = 1000 kg，英语 ton 则需另辨计量体系。",
+    "branches": [
+      [
+        "吨与公吨",
+        "ton · tonne"
+      ],
+      [
+        "总量与百万单位",
+        "tonnage · megaton"
+      ],
+      [
+        "ton／tunnel：桶形词族的重量与通道分路",
+        "ton · tonne · tunnel · tunnels · tunneling · tunnelling"
+      ],
+      [
+        "ton → tons：大桶、计量与大量",
+        "ton · tons"
+      ],
+      [
+        "tonne → tonnes：桶的旧计量背景到公吨",
+        "tonne · tonnes"
+      ]
+    ],
+    "contrasts": "ton 不保证1000千克；船舶总吨位不等于船重；百万吨当量是能量比较。",
+    "practice": "The cargo weighs one tonne, but the ship’s tonnage is measured separately.\n\n货物重一公吨，但船的吨位另行计量。",
+    "words": [
+      "ton",
+      "tonne",
+      "tonnage",
+      "megaton",
+      "tunnel",
+      "tunnels",
+      "tunneling",
+      "tunnelling",
+      "tons",
+      "tonnes"
+    ],
+    "exclude": {
+      "ton-mile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butt-ton": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2952",
+    "meaning": "砖块、砖工与生产，另有设备变砖的比喻",
+    "core": "BRICK：建筑中的硬块，也可比喻只剩硬件外壳的设备",
+    "image": "brick → bricked；bricklaying、bricklayer 看工作与人；brickwork、brickworks、brickyard 分清结构和场所。",
+    "intro": "砖词组最容易混的是 work、works：前者常说砌好的砖工，后者是生产砖的工厂。",
+    "forms": "bricke 等 → brick；-ed 状态；lay 铺放，layer 砌的人，work 工程，works 工厂，yard 场地。\n\nbrick 经法语接可能的日耳曼砖、碎块材料，与 break 有远处联系的分析。现代复数、第三人称 -s，末尾 /ks/。",
+    "branches": [
+      [
+        "材料与设备状态",
+        "brick · bricked"
+      ],
+      [
+        "施工、工人和结构",
+        "bricklaying · bricklayer · brickwork"
+      ],
+      [
+        "生产场地",
+        "brickworks · brickyard"
+      ],
+      [
+        "brick → bricks：砖块与砌砖动作",
+        "bricks"
+      ]
+    ],
+    "contrasts": "brickwork 与 brickworks 所指不同；设备 bricked 不必一律永久不可恢复。",
+    "practice": "The bricklayer studied the old brickwork before beginning the repair.\n\n泥瓦工开始修补前，先查看了旧砖砌结构。",
+    "words": [
+      "brick",
+      "bricked",
+      "bricklaying",
+      "bricklayer",
+      "brickwork",
+      "brickworks",
+      "brickyard",
+      "bricks"
+    ],
+    "exclude": {
+      "brickman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bricker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4108",
+    "meaning": "从结晶糖到糖果，再到糖渍、裹糖的处理",
+    "core": "CANDY：糖块、糖果，也可把食物用糖处理",
+    "image": "candy → candied。",
+    "intro": "这组把借词路径和现代动词分开：末尾 y 原来就是借入词的一部分，变成 candied 才涉及英语词尾变化。",
+    "forms": "qand 等糖词 → qandī → sucre candi → candy；动词 + -ed，y 变 i。",
+    "branches": [
+      [
+        "糖果与糖处理的状态",
+        "candy · candied"
+      ]
+    ],
+    "contrasts": "candy 与 sweets 有地区用法差别；candied 不等于天然有甜味。",
+    "practice": "The candy shop sells candied fruit as well as chocolate.\n\n糖果店除了巧克力，也卖糖渍水果。",
+    "words": [
+      "candy",
+      "candied"
+    ],
+    "exclude": {
+      "candy-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "candyman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3292",
+    "meaning": "诅咒、咒骂与祸害比喻，再有抱怨和怪异评价",
+    "core": "CURSE：说出恶意、坏话，或比喻长期折磨",
+    "image": "curse → cursed、cursing。",
+    "intro": "现实咒骂、故事里的诅咒、网上怪图是不同使用场景。按场景理解，比把每句都当魔法更实用。",
+    "forms": "curs／cors → curse；-ed 状态或分词，-ing 行为、分词；远源不明。",
+    "branches": [
+      [
+        "基础与状态、行为",
+        "curse · cursed · cursing"
+      ]
+    ],
+    "contrasts": "cursed 常有两种读法；curse 与 swear 只在部分用法重叠；网络 cursed 常是语气。",
+    "practice": "He stopped cursing and began reading the tale of the cursed ring.\n\n他停止咒骂，开始读那枚受诅咒戒指的故事。",
+    "words": [
+      "curse",
+      "cursed",
+      "cursing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3650",
+    "meaning": "带血、使沾血，与强调语气分清",
+    "core": "BLOODY：血的性质、动作和口语强调各有用法",
+    "image": "bloody → 动词分词 bloodied。",
+    "intro": "带血的外观、使出血的动作、英式口语强调，不能用同一个中文词替换。bloodied 主要看动作之后的受创状态。",
+    "forms": "blood + -y → bloody；动词 + -ed，y 变 i → bloodied。",
+    "branches": [
+      [
+        "性质与动作后的状态",
+        "bloody · bloodied"
+      ]
+    ],
+    "contrasts": "bloodied 不是 bloody 强调语气的过去时；bloodied but unbowed 可比喻受挫却不屈。",
+    "practice": "His shirt was bloody, and his face was bloodied by the fall.\n\n他的衬衫沾着血，脸也在摔倒时受伤染血。",
+    "words": [
+      "bloody",
+      "bloodied"
+    ],
+    "exclude": {
+      "bloody-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

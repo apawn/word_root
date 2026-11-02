@@ -1,0 +1,93 @@
+"""Game: play, willingness, game mechanics, and hunted animals."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,name,meaning):return [[f'英语 {a}；{b}','并列组合的两部分'],[f'{a} + {b} → {name}',meaning]]
+GAME=[['古英语 gamen → 中古英语 game / gamen','欢乐、娱乐、游戏'],['英语 game','游戏、比赛；又有猎物、愿意尝试等义']]
+W('game','/ɡeɪm/','游戏；比赛；猎物；愿意尝试的；钻规则空子',
+ '常见中心是参与一场有玩法的活动；但读到猎物、勇于一试时，要认出不同用法。',
+ '接古英语 gamen“娱乐、欢乐”，经中古英语发展。更早构成有不同解释；猎物义与狩猎作为活动相关，愿意尝试义则带有敢参与、肯应战的感觉。',GAME,
+ 'play a game 是玩游戏，a football game 是足球比赛；wild game 指供狩猎的野生动物。I’m game 是我愿意试试；game the system 是利用规则漏洞获利。',
+ 'play a game；a game of chess；wild game；be game for；game the system。',
+ 'game 常是一场有规则、目标的游戏或比赛，play 也可泛指玩耍；game meat 是野味肉，不是游戏里才有的肉。',
+ ('Would you like a game of chess?','你想下一盘国际象棋吗？'),('If you want to try the new route, I’m game.','如果你想试试新路线，我愿意。'),('The article discusses attempts to game the ranking system.','文章讨论了利用排名规则漏洞的做法。'))
+W('gamer','英 /ˈɡeɪmə/；美 /ˈɡeɪmər/','玩家；电子游戏爱好者',
+ '他不只是碰巧按了一下按钮，而是以玩游戏为一项经常参加的活动。',
+ 'game + -er，去掉末尾 e。早期英语已有 gamer 相关用法；电子游戏普及后，这一类玩家义特别常见。',GAME[:1]+[['game + -er → gamer','参与游戏的人 → 常指电子游戏玩家']],
+ 'a casual gamer 是休闲玩家，a competitive gamer 是竞技玩家。称为 gamer 不必职业化，也不要求只玩某个平台。',
+ 'a casual gamer；a PC gamer；a competitive gamer。',
+ 'gamer 是玩者，game developer 是开发者；两种身份可以重合，但不是词义自动等同。',
+ ('The controls are simple enough for a casual gamer.','操控对休闲玩家来说也足够简单。'),('The survey asked gamers what they valued most in a game.','调查询问玩家最看重游戏的什么方面。'))
+W('gamepad','/ˈɡeɪmpæd/','游戏手柄',
+ '双手握着一个控制器，用按键、摇杆把动作传给游戏。',
+ '表面构词是 game（游戏）+ pad（控制面板、垫状装置相关用法）；现代作为整词指手持游戏控制器，不是任意一张玩游戏的鼠标垫。',C('game','pad','gamepad','手持式游戏控制器'),
+ 'connect a gamepad 是连接手柄，gamepad support 是支持手柄操作。不同型号按钮布局不同，词本身不规定具体数量。',
+ 'a wireless gamepad；connect a gamepad；gamepad support。',
+ 'gamepad 是一类控制器，mouse pad 是鼠标垫；都带 pad，但用途与外形不同。controller 的范围通常更宽。',
+ ('The game supports both keyboard and gamepad controls.','这款游戏支持键盘和手柄两种操控。'),('She connected a wireless gamepad to the computer.','她把无线游戏手柄连接到电脑。'))
+W('minigame','/ˈmɪniɡeɪm/','小游戏；大型游戏中的小型玩法',
+ '主游戏玩到一半，另外开一个规模小、规则相对独立的小挑战。',
+ 'mini-（小型的）+ game，常指嵌在更大游戏中的小玩法，也可泛指短小游戏；不是指每次游玩都必须只有一分钟。',GAME+[['mini- + game → minigame','小型、相对独立的游戏活动']],
+ 'a fishing minigame 是钓鱼小游戏，unlock a minigame 是解锁小玩法。是否必须完成由主游戏设计决定。',
+ 'a fishing minigame；unlock a minigame；complete a minigame。',
+ 'minigame 是一种小玩法，demo 是演示、试玩版本；小游戏可以是完整内容，未必是大游戏的未完成试用。',
+ ('Players can earn coins in a fishing minigame.','玩家可以通过钓鱼小游戏赚取游戏币。'),('The puzzle appears as a minigame within the main story.','这道谜题以小游戏形式出现在主线故事里。'))
+W('gameday','/ˈɡeɪmdeɪ/','比赛日',
+ '平时是训练、排练和准备，到了今天正式上场比赛。',
+ 'game（比赛）+ day（日子），也常写 game day 两词；连写形式常见于体育宣传和比赛日安排。',C('game','day','gameday','举行比赛的日子'),
+ 'gameday traffic 是比赛日交通，gameday atmosphere 是比赛日气氛。不是所有 playing day 都固定写成 gameday。',
+ 'gameday traffic；gameday tickets；the gameday atmosphere。',
+ 'gameday 是比赛这一天，pregame 是赛前，postgame 是赛后；前后时段都能发生在同一个 gameday。',
+ ('The streets around the stadium are crowded on gameday.','比赛日，体育场周围街道很拥挤。'),('Fans loved the gameday atmosphere in the town.','球迷很喜欢镇上的比赛日气氛。'))
+W('gamification','/ˌɡeɪmɪfɪˈkeɪʃən/','游戏化',
+ '原本不是游戏的学习、工作，用上积分、挑战、进度等玩法，让参与过程像玩游戏。',
+ 'gam(e) + -ification，表示使具有某种特征的过程、做法；可与 gamify“游戏化”对应，不把后半当无意义的长字串。',GAME+[['gam(e) + -ification → gamification','把游戏机制用于其他活动']],
+ '不是只在课件里放一个游戏图标，而是引入目标、反馈、奖励等机制。效果取决于设计，名字不保证一定提升学习。',
+ 'the gamification of learning；use gamification；gamification features。',
+ 'gamification 是把游戏机制用于非游戏任务，game design 是设计游戏本身；两者有工具交集，但对象不同。',
+ ('The app uses gamification to encourage daily language practice.','应用用游戏化方式鼓励每天练习语言。'),('The workshop explored the gamification of workplace training.','研讨会探讨了工作培训的游戏化。'))
+W('gamesmanship','/ˈɡeɪmzmənʃɪp/','争胜手腕；利用规则边缘的竞技技巧',
+ '不只是技术更好，还会拖节奏、施心理压力，让对手不舒服而自己得利。',
+ '可分析 game + -s- + -manship，或 gamesman + -ship；后缀群指某种技巧、做派。整词已有专门的竞赛手腕含义，不等于任何游戏本领。',
+ [['英语 game；-manship 等人物技艺构词形式','比赛；特定技巧、做派'],['gamesmanship','争取优势的规则边缘手段']],
+ '常含不够光明磊落的评价，可能没有直接违反明文规则；也用于谈判、政治等竞争。具体是否违规要看实际规则和行为。',
+ 'political gamesmanship；an act of gamesmanship；tactical gamesmanship。',
+ 'sportsmanship 是体育精神，gamesmanship 偏争胜手腕；一个强调公平态度，一个常暗含钻规则或心理战。',
+ ('The delay was widely seen as a piece of gamesmanship.','大家普遍把这次拖延看作争取优势的手腕。'),('She preferred honest negotiation to political gamesmanship.','相比政治角力的手段，她更喜欢坦诚协商。'))
+W('gamely','/ˈɡeɪmli/','勇敢坚持地；有干劲地；不服输地',
+ '明知难做或可能输，仍然鼓起劲继续试，不轻易退场。',
+ 'game（肯应战、勇于尝试的）+ -ly，去掉 e；取的是 game 的有斗志义，不是笼统“像玩游戏一样”。',GAME+[['game〔肯应战〕 + -ly → gamely','有斗志、不畏难地']],
+ 'try gamely 是勇于尝试，gamely carry on 是困难中继续撑着；经常带旁观者赞许努力的语气，结果未必成功。',
+ 'gamely try；gamely carry on；gamely struggle。',
+ 'gamely 强调有斗志地行动，gamey 多形容野味风味等；虽然只差一个 l，不能把 gamely effort 理解成有野味的努力。',
+ ('She gamely tried to follow the complicated dance steps.','她鼓起劲，努力跟上复杂舞步。'),('The team gamely carried on despite the early setback.','团队虽开局受挫，仍不服输地继续努力。'))
+W('gamekeeper','英 /ˈɡeɪmkiːpə/；美 /ˈɡeɪmkiːpər/','猎场看守人；猎物饲养管理人',
+ '庄园或猎场里的野禽、野兽，需要有人照料、管理和保护。',
+ 'game（供狩猎的动物）+ keeper（看护管理人）；不是帮玩家保管存档的游戏管理员。',C('game〔猎物〕','keeper','gamekeeper','管理猎场及其动物的人'),
+ '英国庄园、乡间生活与历史小说中可见。职责可能含栖息地和动物管理，具体工作随地方变化。',
+ 'the estate’s gamekeeper；a former gamekeeper；the gamekeeper’s cottage。',
+ 'gamekeeper 里的 game 是猎物，gamer 的 game 通常是游戏；同一个基础词在不同组合中选了不同义项。',
+ ('The gamekeeper knew every path through the estate.','猎场看守人熟悉庄园里的每条小路。'),('They restored the old gamekeeper’s cottage.','他们修复了猎场看守人的旧小屋。'))
+W('gamey','/ˈɡeɪmi/','有野味风味的；带野味气味的',
+ '某些野生动物肉有独特浓重风味，食客可能喜欢，也可能觉得太重。',
+ 'game（野味、猎物肉）+ -y，去掉 e；也拼 gamy。不能从 game“游戏”推成好玩的。',GAME+[['game〔野味〕 + -y → gamey','带野味肉特有风味、气味的']],
+ 'a gamey flavour 是野味风味，a gamey smell 是相关气味；词也有其他旧式、引申用法，先记餐饮义。它不自动等于变质，是否可食不能凭这一个形容词判断。',
+ 'a gamey flavour；a gamey smell；taste gamey。',
+ 'gamey 特指野味等风味特征，gamely 是勇敢坚持地；y 和 ly 在这里对应不同基础义和词性。',
+ ('The venison had a rich, gamey flavour.','鹿肉有浓郁的野味风味。'),('She found the meat a little too gamey for her taste.','她觉得这肉的野味气味有点重，不太合口味。'))
+W('gamble','/ˈɡæmbəl/','赌博；冒险；有风险的一搏',
+ '结果不确定，却先押上钱、机会或其他东西，希望能换来更好的结果。',
+ '与古英语 gamen 娱乐词族及相应动词形式相关，经 gamel 等早期形式发展为 gamble；现代可联想 game + -le，但 b 和元音不能按今天简单拼接来讲。',
+ [['古英语 gamen 及相关玩乐动词','娱乐、玩耍'],['较早 gamel 等 → gamble','赌博；以风险争取收益']],
+ 'gamble on a result 是把希望押在某个结果，take a gamble 是冒一把风险；Launching the product was a gamble 不必涉及赌场。',
+ 'gamble on；gamble away；take a gamble；a risky gamble。',
+ 'gamble 强调不确定且有所冒险，game 是游戏比赛的泛称；游戏可以不赌钱，投资、职业决定也可被比喻为 gamble。',
+ ('Moving abroad without a job was a gamble.','没有工作就搬去国外是一次冒险。'),('They gambled on the weather improving by afternoon.','他们押着一线希望，盼下午天气会好转。'))
+R('B3191','游戏、比赛；愿意尝试；猎物','GAME：参与活动是中心，但现代已分出不同用法','一场游戏、一场比赛，肯不肯参与；到了猎场，game 又指被猎取的动物。',
+ 'game 接古英语 gamen“欢乐、娱乐”，更早构成有不同分析。不能看到 gamer、gamekeeper 就以为所有 game 都指电子游戏；后者用猎物义。',
+ '先学 game、gamer、gameplay、gamepad、minigame；比赛时间有 pregame、gameday、postgame、endgame，非游戏活动引入机制叫 gamification。gamely 接有斗志义，gamekeeper、gamey 接猎物义；gamble 单独说明历史关联。',
+ [['玩家与玩法','game · gamer · gameplay · gamepad · minigame'],['赛前、赛日与赛后','pregame · gameday · postgame · endgame'],['玩法进入其他活动、争胜手腕','gamification · gamesmanship'],['应战、风险与另一个义项','gamely · gamble · gamekeeper · gamey']],
+ 'gamesmanship 不等于 sportsmanship；gamekeeper 管猎场，gamey 说野味风味，gamely 则说不服输地尝试。',
+ 'The gamer gamely tried the new minigame with a gamepad.\n\n这位玩家拿着手柄，兴致不减地尝试了新小游戏。',
+ 'game gamer gameplay gamepad minigame pregame gameday postgame endgame gamification gamesmanship gamely gamble gamekeeper gamey')
+if __name__=='__main__':save('continuation_20261028_x',ROOTS,WORDS)

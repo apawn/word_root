@@ -1,0 +1,123 @@
+[
+  {
+    "id": "B2543",
+    "meaning": "母牛名称、牧牛相关组合；另辨威吓动词和发动机罩",
+    "core": "COW：动物名这一线清楚，近形词还要看真实切分",
+    "image": "cow → cowherd、cowbell、cowhide；cowboy、cowgirl 结合牧牛文化；cowling 机械义来自 cowl。",
+    "intro": "主线是牛，但不是每个开头像 cow 的词都在讲牛。常见威吓动词和机械外罩都需要单独交代。",
+    "forms": "cū → cow 名词；旧 hierde 牧者 → cowherd；cow 动词通常另接 kúga；cowling 常用义为 cowl + -ing。\n\n动物 cow 延续古英语 cū，威吓动词通常接古诺尔斯语 kúga；现代第三人称和名词复数同写 cows。\n\ncow 与 boy 形成角色名，不限男孩年龄；另有特定口语贬义。",
+    "branches": [
+      [
+        "动物、职业与相关物件",
+        "cow · cowherd · cowboy · cowgirl · cowbell · cowhide"
+      ],
+      [
+        "近形词的来源辨认",
+        "cowling"
+      ],
+      [
+        "cow → cows：母牛；威吓动词另源",
+        "cow · cows"
+      ],
+      [
+        "cowboy → cowboys：牧牛工与西部牛仔",
+        "cow · cowboy · cowboys"
+      ]
+    ],
+    "contrasts": "cowherd 是人，a herd of cows 是群；cowling 发动机罩不按小母牛拆。",
+    "practice": "The cowherd listened for the cowbell while the mechanic inspected an engine cowling nearby.\n\n牧牛人听着牛铃声，附近的机械师则检查发动机罩。",
+    "words": [
+      "cow",
+      "cowherd",
+      "cowboy",
+      "cowgirl",
+      "cowbell",
+      "cowhide",
+      "cowling",
+      "cows",
+      "cowboys"
+    ],
+    "exclude": {
+      "cow-wheat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cow-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4266",
+    "meaning": "两个成一组，形成孪生、匹配或结对关系",
+    "core": "TWIN：两个相连、成对，不等于凡事完全相同",
+    "image": "twin → twinning。",
+    "intro": "从同一次出生的两人，到建筑、城镇等对象的配对，保留的是成双、对应。",
+    "forms": "古英语 ġetwinn、twinn → twin；加 -ing 双写 n。\n\n古英语 getwinn、twinn 等与 two 的历史同族联系，现代复数 s。",
+    "branches": [
+      [
+        "人物、性质与过程",
+        "twin · twinning"
+      ],
+      [
+        "twin → twins：两个同时的一对",
+        "twin · twins"
+      ]
+    ],
+    "contrasts": "twins 不一定同卵、长得一样；twin room 与 double room 通常不同。",
+    "practice": "The twinning project brought students from the two towns together.\n\n结对项目把两个城镇的学生联系起来。",
+    "words": [
+      "twin",
+      "twinning",
+      "twins"
+    ],
+    "exclude": {
+      "twin-engine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2721",
+    "meaning": "命运、机遇与财富，以及遭遇坏运气",
+    "core": "FORTUNE：落到人身上的际遇，再联系好运和财富",
+    "image": "fortune → misfortune。",
+    "intro": "说 make a fortune 重点是赚到大笔财富，说 good fortune 则偏好运；misfortune 不只是账上少了点钱。",
+    "forms": "拉丁 fortūna 命运、机遇，经法语进入英语 fortune；mis- 引入坏、不利。\n\nfortune 经法语接拉丁 fortuna 运气，后发展到人生境遇、财富。现代 -s，可说不同命运、事业盛衰或巨额财富。",
+    "branches": [
+      [
+        "际遇与不幸",
+        "fortune · misfortune"
+      ],
+      [
+        "fortune 命运、财富 → fortunes",
+        "fortunes"
+      ]
+    ],
+    "contrasts": "fortune 可是财富或运气；misfortune 是不幸，不是财富的普通否定词。",
+    "practice": "Despite the misfortune, she believed her good fortune would return.\n\n尽管遭遇不幸，她仍相信好运会回来。",
+    "words": [
+      "fortune",
+      "misfortune",
+      "fortunes"
+    ],
+    "exclude": {
+      "ill-fortune": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3793",
+    "meaning": "从方向不顺到动作、物件、时间和社交的不顺或不自在",
+    "core": "AWKWARD：不顺手、不自然、不好处理，随对象理解",
+    "image": "awkward → awkwardly、awkwardness。",
+    "intro": "别只背尴尬。搬箱子、安排时间、回答难题，都能触发 awkward 的不同常用含义。",
+    "forms": "awk 的倒向、不顺概念 + -ward 方向；-ly 副词，-ness 状态名词。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "awkward · awkwardly · awkwardness"
+      ]
+    ],
+    "contrasts": "awkward 不只是人害羞；awkwardly placed 可直接说位置不方便。",
+    "practice": "He smiled awkwardly, but a friendly greeting soon eased the awkwardness.\n\n他尴尬地笑了笑，但友好的招呼很快缓解了不自在。",
+    "words": [
+      "awkward",
+      "awkwardly",
+      "awkwardness"
+    ],
+    "exclude": {}
+  }
+]

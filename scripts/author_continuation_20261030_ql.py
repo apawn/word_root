@@ -1,0 +1,98 @@
+"""Common -ee recipients, useful everyday bases and French lookalikes."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('grant','英 /ɡrɑːnt/；美 /ɡrænt/','给予、准予；承认〔某点〕；资助款',
+ '一方正式说“给你这个机会、权利或这笔钱”，是 grant；讨论中也可先让一步说“我承认这一点”。',
+ '经中古英语接盎格鲁法语 granter、graunter 等准予、保证材料，更早与相信、信任的拉丁词族相连，部分形式来源有不同分析。不拆成 grand 盛大 + t。',
+ [['盎格鲁法语 granter、graunter 等 → 中古英语 grant','准许、保证、给予'],['现代 grant','正式给予；资助款；承认某点']],
+ 'grant permission 准予许可；a research grant 研究资助；I grant that … 我承认……。take something for granted 是想当然、认为理所当然的固定搭配。',
+ 'grant permission；a research grant；take for granted。','grant 资助款通常不同于 loan 贷款；grant a request 强调准予，request 本身是请求，角色别弄反。',
+ ('The council granted permission for the project.','委员会批准了这个项目。'),('She received a grant to support her research.','她获得了一笔支持研究的资助。'))
+W('grantor','英 /ɡrɑːnˈtɔː/；美 /ˈɡræntər/、/ɡrænˈtɔːr/','授予方；转让财产或权益的一方',
+ '一份授予关系里，正式把权利或财产给出去的一方是 grantor，接到的一方是 grantee。先抓箭头方向。',
+ '借盎格鲁法语 grantour 等人物名；现代可对应 grant + -or。历史借词与今天的词形对应并存，不必强说先有英语 grant 再造。',
+ [['盎格鲁法语 grantour','授予者、给出的一方'],['英语 grantor 与 grantee 对照','授予方／受授予方']],
+ 'the grantor of a right 权利授予方；grantor and grantee 常成对出现于正式文件。具体权利义务取决于文件和语境，此处记角色方向。',
+ 'grantor and grantee；the grantor。','grantor 给出，grantee 接受；不能单凭后缀认定双方是谁的雇主或谁欠谁钱。',
+ ('The document names both the grantor and the grantee.','文件写明了授予方和受授予方。'),('The grantor signed the final page.','授予方在最后一页签了字。'))
+W('grantee','英 /ɡrɑːnˈtiː/；美 /ɡrænˈtiː/','受授予方；受资助者',
+ '箭头从 grantor 指向 grantee：权利、财产或资助来到这一方手里。',
+ '与盎格鲁法语、古法语的 granté 等分词人物材料有关，英语可对应 grant + -ee。-ee 在这里指接受授予的一方。',
+ [['grant 及法语相应授予材料','给予、准予'],['grant + -ee → grantee','得到授予、资助的一方']],
+ 'a research grantee 获研究资助者；the grantee of a right 某权利的受授予方。可以是个人，也可以是机构。',
+ 'grant recipients／grantees；the named grantee。','grantor 与 grantee 的箭头相反；grantee 不是写 grant 申请书的人就自动获得的身份，要看是否已经获授。',
+ ('Each grantee must submit a short progress report.','每位受资助者都须提交一份简短进度报告。'),('The foundation invited its grantees to a workshop.','基金会邀请受资助者参加一个工作坊。'))
+W('divorce','英 /dɪˈvɔːs/；美 /dɪˈvɔːrs/','离婚；使脱离、割裂〔比喻〕',
+ '两个人原在一段婚姻里，后来这段婚姻结束，是 divorce；比喻时，也可说把本该联系的两件事割开。',
+ '经古法语 divorce 接拉丁 divortium，连到 divertere 转到不同方向，含分开 + 转的材料。现代不是把今天的 force 力量前加 di-。',
+ [['拉丁 divortium、divertere 等','分开、转向不同方向的材料'],['法语 divorce → 英语 divorce','婚姻结束；也比喻割裂联系']],
+ 'get a divorce 离婚；divorce someone 与某人离婚；divorce A from B 把两者割裂开。状态通常说 be divorced，不写 be divorce。',
+ 'get a divorce；file for divorce；divorce theory from practice。','divorce 是名词或动词，divorced 可表已离婚；separated 分居不一定意味着婚姻已经正式结束。',
+ ('They decided to get a divorce.','他们决定离婚。'),('We cannot divorce the theory from practical experience.','我们不能把理论与实际经验割裂开。'))
+W('divorced','英 /dɪˈvɔːst/；美 /dɪˈvɔːrst/','已离婚的；相脱离、割裂的',
+ 'divorce 是结束婚姻这个动作或事情，divorced 可以说一个人现在已离婚的状态；也能说想法脱离现实。',
+ 'divorce + -ed，去末尾 e 接 -d；既是过去式、过去分词，也有形容词用法。末尾读 /st/，不是 /sɪd/。',
+ [['divorce','离婚；割裂联系'],['divorce + -ed → divorced','动作完成形式；已离婚、相脱离的状态']],
+ 'be divorced 已离婚；get divorced 离婚；divorced from reality 脱离现实。be divorced 本身不表示离婚是昨天还是十年前发生。',
+ 'get divorced；divorced from reality。','I am divorced 是已离婚的状态；I divorced my spouse 是过去发生的动作；divorcee 才是相应人物名词之一。',
+ ('She has been divorced for five years.','她已经离婚五年了。'),('The proposal seemed divorced from reality.','这个提案似乎脱离了现实。'))
+W('divorcee','英 /dɪˌvɔːˈsiː/；美 /dɪˌvɔːrˈseɪ/〔亦有变体〕','离婚者〔尤常指女性〕',
+ '指婚姻已结束的人，常见用法尤其是离婚女性；介绍人物时可以用，但并不需要处处按婚姻状态称呼别人。',
+ '借法语 divorcé、divorcée 的相应人物形式，来自 divorcer 离婚的过去分词；可与 divorce 对照。这里法语性别形式的 -é、-ée 历史，不宜直接混同所有 employee 式 -ee 构词。',
+ [['法语 divorcer → divorcé、divorcée','离婚动词及相应人物形式'],['英语 divorcee','已离婚者，尤常用于女性']],
+ 'a young divorcee 一位年轻离婚者；可见带重音的法语式拼写 divorcée。较中性地说明某人状态，也可以直接说 a divorced person。',
+ 'a divorcee；a recently divorced person。','divorced 是形容状态，divorcee 是人物名词；She is divorced 不需要冠词，She is a divorcee 要有 a。',
+ ('The novel’s main character is a divorcee raising a son.','小说主角是一位独自抚养儿子的离婚女性。'),('The film follows a divorcee starting a new life.','影片讲述一位离婚者开始新生活的故事。'),sources=['https://www.oxfordlearnersdictionaries.com/us/definition/english/divorcee_1'])
+W('induct','/ɪnˈdʌkt/','正式接纳、引入；使入职、入伍',
+ '不是只拉个人进房间，而是通过介绍、仪式或手续，正式让他成为这个组织的一员。',
+ '承中古英语，接拉丁 inductus，来自 inducere 引入，in- 向内 + ducere 引导。现代对应 induct 的 -duct- 引导词干，不是 in + duct 管道的字面拼接。',
+ [['拉丁 in- + ducere → inducere、inductus','向内引入的材料'],['英语 induct','正式引入、接纳进入某组织或岗位']],
+ 'induct someone into an organisation 正式接纳某人加入组织；be inducted into a hall of fame 入选名人堂；induct new staff 为新人办入职介绍。',
+ 'induct into；induct new members。','induct 常带正式介绍、接纳或仪式；invite 只是邀请，并不保证对方已经加入。induce 则常指引起、促使，两词虽有关也不能处处互换。',
+ ('The club inducted three new members.','俱乐部正式接纳了三位新成员。'),('She was inducted into the sports hall of fame.','她入选了体育名人堂。'))
+W('inductee','/ˌɪndʌkˈtiː/','新接纳的成员；新入职、入伍者；入选者',
+ 'induct 是正式接纳，inductee 是被接纳进来的那个人；说名人堂时，就是新入选的人。',
+ 'induct + -ee；这里后缀指动作承受方，不是负责主持入会仪式的人。',
+ [['induct','正式引入、接纳'],['induct + -ee → inductee','被正式接纳或新加入的人']],
+ 'a new inductee 新接纳成员；a hall of fame inductee 名人堂入选者；军队语境可说新入伍者。',
+ 'a new inductee；this year’s inductees。','inductee 是被接纳者，trainer、organiser 等才可能是组织培训或仪式的一方；看箭头方向，不只记都是人。',
+ ('The new inductees attended an orientation session.','新加入的成员参加了情况介绍会。'),('This year’s inductees gathered for the ceremony.','本年度入选者聚在一起参加仪式。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/inductee'])
+W('squeeze','/skwiːz/','挤压；挤入；榨出；勉强腾出',
+ '手把柠檬两边往中间压，汁挤出来；几个人挤进小房间，也都带着空间被压紧的感觉。',
+ '十六、十七世纪已有 squise、squize 等形式，更远可能承较早 quease 及古英语相关挤压材料，也受近音词影响；确切路线有分歧。不硬给 squ- 或 ee 配独立古代含义。',
+ [['较早 squise、squize 等；更远来源有分歧','挤压相关词形'],['现代 squeeze','压挤、榨出；挤入、腾挤出空间或时间']],
+ 'squeeze a lemon 挤柠檬；squeeze into a seat 挤进座位；squeeze in a meeting 勉强挤时间开会；a tight squeeze 空间很挤。',
+ 'squeeze into；squeeze out；a tight squeeze。','squeeze 强调挤压、空间紧，press 泛指按压；挤时间 squeeze in 是比喻，不需要真的挤压钟表。',
+ ('She squeezed some lemon juice into the water.','她往水里挤了点柠檬汁。'),('Can we squeeze in a short meeting before lunch?','午饭前我们能挤时间开个短会吗？'))
+W('squeegee','/ˈskwiːdʒiː/','橡胶刮水器；用刮水器刮',
+ '一条橡胶边贴在玻璃上往下拉，水被一起刮走；洗窗、清洁浴室常用的这件工具叫 squeegee。',
+ '十九世纪航海工具名，可能与 squeege 挤压、squeeze 的变体有关，另有 squilgee 等更早相近形式，确切来源未定。不是“被 squeeze 的人”；末尾 ee 不能一律按受动人物后缀硬套。',
+ [['航海用 squilgee 等工具名；可能关联 squeege','拖擦、挤压相关材料；词源未定'],['squeegee 名词 → 动词','橡胶刮水器；用它刮水']],
+ 'a window squeegee 玻璃刮水器；use a squeegee 使用刮水器；squeegee the glass 把玻璃上的水刮掉。',
+ 'a window squeegee；squeegee the shower screen。','squeegee 主要靠橡胶边刮走液体，sponge 海绵靠吸收；两种工具都能清洁，但动作不同。',
+ ('Use a squeegee to remove the water from the glass.','用刮水器把玻璃上的水刮掉。'),('He squeegeed the shower screen after cleaning it.','他清洁后把淋浴隔断上的水刮掉了。'),sources=['https://www.etymonline.com/word/squeegee'])
+W('fiance','/fiˈɒnseɪ/〔英式常见〕；美 /ˌfiːɑːnˈseɪ/〔有变体〕','未婚夫〔也写 fiancé〕',
+ '已经订婚、准备结婚的男方，是 fiance；它比普通 boyfriend 男朋友多了已经订婚这一层。',
+ '借法语 fiancé，是 fiancer 订婚的相应阳性过去分词人物用法，远接相信、信任的拉丁词族。无重音符号的 fiance 是英语常见拼写，不拆成 finance 财务少一个 n。',
+ [['法语 fiancer → fiancé','订婚 → 相应男性人物形式'],['英语 fiancé／fiance','未婚夫']],
+ 'my fiance 我的未婚夫；be engaged to someone 与某人订婚。英语实际读音有多种重音习惯，末尾不是 fee 费用。',
+ 'her fiance；my fiance。','fiance 未婚夫，fiancee 未婚妻；未订婚的男朋友通常叫 boyfriend，不能只因以后想结婚就默认已经是 fiance。',
+ ('She introduced us to her fiance.','她把未婚夫介绍给我们认识。'),('Her fiance helped plan the wedding.','她的未婚夫帮忙筹备婚礼。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/fiance'])
+W('fiancee','/fiˈɒnseɪ/〔英式常见〕；美 /ˌfiːɑːnˈseɪ/〔有变体〕','未婚妻〔也写 fiancée〕',
+ '已经订婚的女方，是 fiancee；末尾多一个 e 体现法语词形传统，读音通常不因此多出一个音节。',
+ '借法语 fiancée，是 fiancé 对应的阴性人物形式。这里 -ée 的法语性别拼写历史与 employee 一类英语受动 -ee 不宜完全混成一条规则。',
+ [['法语 fiancé／fiancée','已订婚的相应男女形式'],['英语 fiancée／fiancee','未婚妻的常见拼写']],
+ 'his fiancee 他的未婚妻；my fiancee 我的未婚妻。带重音或不带重音的拼写都能见到。',
+ 'his fiancee；my fiancee。','fiancee 未婚妻与 wife 妻子不同；婚礼、婚姻状态变化以后，称谓也会随之变。',
+ ('He met his fiancee while studying abroad.','他在海外求学时认识了现在的未婚妻。'),('My fiancee and I are choosing a venue.','我和未婚妻正在选场地。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/fiancee'])
+R('A1756','常指动作接受方；也有已固定的参与者等词',
+ 'EE：常把镜头移到接受这件事的一方，具体仍看整词',
+ '面试桌两边，interviewer 发问，interviewee 回答；付款时 payer 给出，payee 接收。先把箭头方向画在脑中。',
+ '英语常见的受动人物 -ee，承盎格鲁法语 -é 分词名词化材料，早在正式、法律语境与 -or 人物名配对。后来用法扩大，retiree、attendee、escapee 等不能一概译成被某人怎样的人。法语女性名词 -ée，如 fiancée，又要分清其词形传统。',
+ 'employ + -ee → employee；train + -ee → trainee；interview + -ee → interviewee；grantor 给出／grantee 接受。-ee 常带重音，但 committee 委员会、部分其他词有自己的固定重音。squeegee 是工具，goatee 是山羊胡，settee 是长椅，不能看见 ee 就都找受动的人。',
+ [['给出与接收方向','employer · employee；interviewer · interviewee；payer · payee；grant · grantor · grantee'],['培训、接纳与身份','train · trainee；induct · inductee；nominee · appointee · retiree'],['不是一律被动','attendee · escapee · absentee；committee · referee · trustee'],['同形字尾另看历史','divorce · divorced · divorcee；fiance · fiancee；squeeze · squeegee']],
+ 'employee 雇员／employer 雇主；interviewee 被面试者／interviewer 面试官；grantor 授予方／grantee 接受方；fiance 未婚夫／fiancee 未婚妻。escapee 是逃走的人，不能因 -ee 反译成被逃走的人。',
+ 'The interviewer welcomed the interviewee, while a trainee took notes.\n\n面试官欢迎了应聘者，一位受训人员在旁记笔记。',
+ 'employ employer employee interview interviewer interviewee train trainer trainee pay payer payee grant grantor grantee induct induction inductee nominate nominee appoint appointee retire retiree attend attendee absent absentee address addressee detain detainee devote devotee trust trustee refer referee commit committee license licensee franchise franchisee honour honoree award awardee assign assignee adopt adoptee invite invitee transfer transferee return returnee sign signee escape escapee mortgage mortgagee divorce divorced divorcee fiance fiancee squeeze squeegee goatee settee')
+if __name__=='__main__':save('continuation_20261030_ql',ROOTS,WORDS)

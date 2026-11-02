@@ -1,0 +1,187 @@
+[
+  {
+    "id": "B2617",
+    "meaning": "女孩、少女；相关风格、时期与角色",
+    "core": "GIRL：先看年龄，再看风格、人生时期和文化角色",
+    "image": "女孩是人，girlish / girly 描写特点，girlhood 是时光，cowgirl、fangirl 是特定活动中的称呼。",
+    "intro": "girl 可追到中古英语年轻人义，早期不只女性，更早来源仍不确定。现代组合中的 girl 有时指成年女性，不能一律按小女孩翻。",
+    "forms": "girl → girlish、girly、girlhood；cowgirl、fangirl 分工作文化与粉丝活动。girlfriend、supergirl、showgirl 各接相关既有解释。\n\ngirl 的中古英语材料早期年轻人义不只限女性；现代 girls 以女孩复数为核心，成年人称呼按语体判断。\n\ngirlfriend 早有女性朋友义，后有恋爱伴侣义，现代 -s。女性朋友用法与女友用法并存，亲密关系不限定某一性别组合。",
+    "branches": [
+      [
+        "女孩及其特点、时期",
+        "girl · girlish · girly · girlhood"
+      ],
+      [
+        "活动、关系与角色",
+        "cowgirl · fangirl · girlfriend · supergirl · showgirl"
+      ],
+      [
+        "girl → girls：女孩；熟人群体称呼",
+        "girl · girls"
+      ],
+      [
+        "girl + friend → girlfriends",
+        "girlfriends"
+      ]
+    ],
+    "contrasts": "girlish 特点、girlhood 时期；cowgirl 人、female calf 动物；girly 风格是文化联想，不能替所有女孩定义喜好。",
+    "practice": "The diary tells a story of girlhood without assuming every girl likes the same things.\n\n日记讲少女时代的故事，没有假定每个女孩都喜欢一样的东西。",
+    "words": [
+      "girl",
+      "girlish",
+      "girly",
+      "girlhood",
+      "cowgirl",
+      "fangirl",
+      "girlfriend",
+      "supergirl",
+      "showgirl",
+      "girls",
+      "girlfriends"
+    ],
+    "exclude": {
+      "e-girl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-girl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "girlie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "batgirl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "homegirl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2669",
+    "meaning": "有轮车辆；汽车及铁路车辆",
+    "core": "CAR：先认车辆，再看路上汽车还是轨道车厢",
+    "image": "今天最熟悉汽车，但历史起点比现代发动机早；dining car、boxcar 都要选铁路车厢义。",
+    "intro": "car 经法语 carre 上接拉丁 carrus 与高卢语车辆词。carmaker 讲制造，carpool 的 pool 讲共享，carport 讲遮护结构，railcar、boxcar 讲铁路用法。",
+    "forms": "car → carmaker、carpool、carport；railcar → boxcar 相邻，streetcar、motorcar、supercar、sidecar 各按既有用途解释。\n\ncareer 经法语 carrière 道路、赛道等接与 carrus 车辆有关的道路名称；与 car 有更早同源联系，但职业义不是现代英语 car 加 -eer。\n\ncarry 经法语运输动词接 carrus 等车的旧词族；现代 carry 远不止用车搬运。carry 的 y 变 i 再加 -er 得 carrier。\n\ncargo 经西班牙语 cargar 装载相关名词接拉丁 carricare 装车，与 car、carry 共享更早车辆材料。\n\ncar 经法语接拉丁 carrus 运货车，更早与高卢语车辆词有关；现代汽车义只是后来的主要分支。\n\n用车运输的法语词族，扩大为携带、承载；加 ing 保留 y。\n\n车辆运输背景扩展成多种承载动作，y 的变化看后接词尾。\n\n法语运输词接拉丁、古高卢车的词族，三单改 y 为 i 加 es。\n\ncarry 改 y 为 i 加完整 er，复数再加 s，按承载对象形成专义。\n\n道路、赛道材料经法语，扩展人生行进路线义，动词保留快速行进画面。",
+    "branches": [
+      [
+        "基本汽车与产业、使用",
+        "car · carmaker · carpool · carport"
+      ],
+      [
+        "铁路及既有复合词",
+        "railcar · boxcar · streetcar · motorcar · supercar · sidecar"
+      ],
+      [
+        "有轮车辆与道路：career 的同源背景",
+        "car · career"
+      ],
+      [
+        "车运的旧词族到今天的 carry、carrier",
+        "car · carry · carrier"
+      ],
+      [
+        "cargo：车载、装载材料中的货物",
+        "car · carry · cargo"
+      ],
+      [
+        "car → cars：汽车与轨道车辆车厢",
+        "car · cars"
+      ],
+      [
+        "carry → carrying：把东西带在身上或承载着",
+        "carry · carrying"
+      ],
+      [
+        "carry → carried → carrying：承载与携带",
+        "carry · carried · carrying"
+      ],
+      [
+        "carry → carries：把东西带着走、承载信息",
+        "carry · carries"
+      ],
+      [
+        "carry → carrier → carriers：承载、运输的人或物",
+        "carry · carrier · carriers"
+      ],
+      [
+        "career → careers：职业历程；快速冲行的同形动词",
+        "career · careers"
+      ]
+    ],
+    "contrasts": "car 可以是铁路车厢；carmaker 制造、dealer 经销、driver 驾驶；carpool 的 pool 不指游泳池；railcar 地区义别一刀切。",
+    "practice": "The carmaker’s staff carpool to the factory, where a historic railcar is on display.\n\n汽车制造商的员工拼车到工厂，厂里展出了一辆历史铁路车辆。",
+    "words": [
+      "car",
+      "carmaker",
+      "carpool",
+      "carport",
+      "railcar",
+      "boxcar",
+      "streetcar",
+      "motorcar",
+      "supercar",
+      "sidecar",
+      "career",
+      "carry",
+      "carrier",
+      "cargo",
+      "cars",
+      "carrying",
+      "carried",
+      "carries",
+      "carriers",
+      "careers"
+    ],
+    "exclude": {
+      "car-centric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2919",
+    "meaning": "在一起；合计、整体与联结感",
+    "core": "TOGETHER：事情、人在一处，意思也能合成整体",
+    "image": "together 说共同在一起，altogether 合计或完全，togetherness 则是相聚的联结感。",
+    "intro": "together 接古英语 tōgædere 的聚合词族；altogether 接中古英语 all 旧形式与 together 的合词。连写、分写现代用法已分开，不只按字面合并。",
+    "forms": "together → altogether、togetherness；altogether 与 all together 的对照放在一起学。",
+    "branches": [
+      [
+        "一起与整体合计",
+        "together · altogether"
+      ],
+      [
+        "相聚的状态、感受",
+        "togetherness"
+      ]
+    ],
+    "contrasts": "all together 全部在一起，altogether 完全、总共、整体；togetherness 常含亲密联结，不只是同处一室。",
+    "practice": "There were twelve of us altogether, all together in one kitchen, enjoying a rare moment of togetherness.\n\n我们总共十二人，全聚在同一间厨房里，享受难得的亲密相聚。",
+    "words": [
+      "together",
+      "altogether",
+      "togetherness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3081",
+    "meaning": "重要、对结果有影响",
+    "core": "IMPORTANT：拿走这一点，会不会让结果大不一样",
+    "image": "important 说分量，importance 说重要性，importantly 说明判断角度，unimportant 是否定这个分量。",
+    "intro": "important 经法语接 importer 的关系重大等用法，更早有关拉丁 importāre 带入；不能在现代把重要一律解释成进口。",
+    "forms": "important → importantly、importance；un- + important → unimportant。",
+    "branches": [
+      [
+        "重要及其角度、性质",
+        "important · importantly · importance"
+      ],
+      [
+        "无关紧要的反面",
+        "unimportant"
+      ]
+    ],
+    "contrasts": "unimportant 不重要，unknown 未知；一个细节是否要紧取决于当前问题，不由它小不小直接决定。",
+    "practice": "An apparently unimportant detail can reveal something important.\n\n一个表面无关紧要的细节，也能揭示重要的东西。",
+    "words": [
+      "important",
+      "importantly",
+      "importance",
+      "unimportant"
+    ],
+    "exclude": {
+      "all-important": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-important": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

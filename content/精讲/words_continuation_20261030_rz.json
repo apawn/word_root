@@ -1,0 +1,365 @@
+[
+  {
+    "word": "favorable",
+    "ipa": "/ˈfeɪvərəbəl/",
+    "meaning": "有利的；赞成、肯定的〔常见美式拼写〕",
+    "sense": "条件像顺风一样帮你往前走，是 favorable conditions；评价站在赞成一边，是 a favorable review。一个偏事物有利，一个偏态度正面。",
+    "split": "接法语 favorable、拉丁 favorabilis，与 favor 赞同、善意等材料相连。现代可对照 favor + -able；与 favourable 同词，不是 -able 每次都机械译成能够被偏爱。",
+    "history": [
+      [
+        "拉丁 favor → favorabilis；法语 favorable",
+        "赞同、善意 → 支持、有利的性质"
+      ],
+      [
+        "英语 favorable",
+        "有利；正面、赞成的"
+      ]
+    ],
+    "explanation": "favorable conditions 有利条件；a favorable impression 好印象；be favorable to a plan 赞成、支持计划。美式通常写 favorable。",
+    "usage": "a favorable result；a favorable review。",
+    "contrast": "favored 常说被偏爱、受支持，favorable 常说对目标有利或评价正面；两者不能只按有个 favor 就互换。",
+    "examples": [
+      [
+        "The weather conditions were favorable for the flight.",
+        "天气条件有利于这次飞行。"
+      ],
+      [
+        "The book received several favorable reviews.",
+        "这本书收到了几篇好评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/favorable#English"
+    ]
+  },
+  {
+    "word": "favourable",
+    "ipa": "/ˈfeɪvərəbəl/",
+    "meaning": "有利的；支持、赞成的〔常见英式拼写〕",
+    "sense": "和 favorable 一样，条件能帮上忙，或某人的看法比较正面。中间的 u 是拼写习惯，不额外增加一种词义。",
+    "split": "与 favorable 是同一个法语、拉丁来源词族在英语中的拼写变体；favour 保留常见英式 u，后接相应 -able 形式。",
+    "history": [
+      [
+        "favour／favor 的英语拼写对应",
+        "同一赞同、善意词族"
+      ],
+      [
+        "favourable／favorable",
+        "同一形容词的常见地域拼写"
+      ]
+    ],
+    "explanation": "a favourable outcome 有利结果；favourable to the proposal 赞成提案；favourable circumstances 有利情况。整篇文字通常沿用一致拼写习惯。",
+    "usage": "favourable conditions；a favourable response。",
+    "contrast": "favourable 不专指给某个人做人情；说 favorable response 或 favourable response 都可指正面回应。",
+    "examples": [
+      [
+        "The proposal received a favourable response.",
+        "提案得到了正面回应。"
+      ],
+      [
+        "The village has a favourable location near the river.",
+        "村庄靠近河流，位置有利。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/favourable#English"
+    ]
+  },
+  {
+    "word": "favorably",
+    "ipa": "/ˈfeɪvərəbli/",
+    "meaning": "有利地；赞许、肯定地；相较出色地〔常见美式拼写〕",
+    "sense": "不是只把条件叫有利，而是说某件事怎样被评价、怎样比较：得到正面看待，或比起来表现不错。",
+    "split": "favorable 的 -able 改为 -ably，形成副词。与 favourably 是拼写对应，评价、比较等用法不因 u 的有无改变。",
+    "history": [
+      [
+        "favorable → favorably",
+        "形容性质转为评价、比较的方式"
+      ],
+      [
+        "现代常见搭配",
+        "view favorably；compare favorably with"
+      ]
+    ],
+    "explanation": "view a proposal favorably 正面看待提案；be favorably impressed 留下好印象；compare favorably with 与……相比表现不错。",
+    "usage": "respond favorably；compare favorably with。",
+    "contrast": "compare favorably with 不等于喜欢拿它比较，而是比较结果对它有利、表现不逊色。favorable 修饰名词，favorably 常修饰动作、评价。",
+    "examples": [
+      [
+        "The committee viewed the proposal favorably.",
+        "委员会对提案持肯定态度。"
+      ],
+      [
+        "The new model compares favorably with more expensive alternatives.",
+        "新型号与更贵的替代产品相比，表现也相当不错。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/favorably#English"
+    ]
+  },
+  {
+    "word": "favourably",
+    "ipa": "/ˈfeɪvərəbli/",
+    "meaning": "有利地；赞许地；相较出色地〔常见英式拼写〕",
+    "sense": "回应是肯定的，或放在一起比较结果不错，都可以用 favourably。不是把英文硬译成以偏爱的方式。",
+    "split": "favourable 的 -able 变为 -ably；与 favorably 是同词拼写对应。形容词说有利、正面，副词说明看待、回应、比较的方式或结果。",
+    "history": [
+      [
+        "favourable → favourably",
+        "转成副词形式"
+      ],
+      [
+        "常见英式拼写 favourably",
+        "对应 favorably 的相同用法"
+      ]
+    ],
+    "explanation": "respond favourably 肯定回应；favourably impressed 留下好印象；compare favourably with 与……相较不逊。",
+    "usage": "speak favourably of；look favourably on。",
+    "contrast": "a favourable result 是有利结果；a favourably received book 是获得好评的书。前者形容名词，后者副词修饰 received。",
+    "examples": [
+      [
+        "The reviewers spoke favourably of the performance.",
+        "评论者对这场演出评价很好。"
+      ],
+      [
+        "The small hotel compares favourably with larger ones nearby.",
+        "这家小旅馆与附近更大的旅馆相比也不逊色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/favourably#English"
+    ]
+  },
+  {
+    "word": "unfavorable",
+    "ipa": "/ʌnˈfeɪvərəbəl/",
+    "meaning": "不利的；不赞成、负面的〔常见美式拼写〕",
+    "sense": "同样一阵风，本想顺风前进，结果却在阻挡你：unfavorable conditions 是不利条件。评价负面时也能用。",
+    "split": "un- 不 + favorable 有利、赞成的。前缀否定性质，不表示把一件已经发生的好事倒放回去。",
+    "history": [
+      [
+        "favorable + un- 否定",
+        "不具备有利、正面的性质"
+      ],
+      [
+        "unfavorable",
+        "条件不利；态度、评价负面"
+      ]
+    ],
+    "explanation": "unfavorable weather 不利天气；an unfavorable comparison 比较结果对某方不利；an unfavorable review 负面评论。",
+    "usage": "unfavorable conditions；an unfavorable impression。",
+    "contrast": "unfavorable 不总等于 impossible 不可能；它说条件、评价偏不利，具体能否完成仍是另一个判断。",
+    "examples": [
+      [
+        "The race was postponed because of unfavorable weather.",
+        "比赛因不利天气而延期。"
+      ],
+      [
+        "The first draft received an unfavorable review.",
+        "初稿得到了一篇负面评审。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfavorable#English"
+    ]
+  },
+  {
+    "word": "unfavourable",
+    "ipa": "/ʌnˈfeɪvərəbəl/",
+    "meaning": "不利的；反对、不赞成的〔常见英式拼写〕",
+    "sense": "计划碰到不帮忙的条件，或别人看完持负面意见，都可说 unfavourable。这里保留英式 favour 的 u。",
+    "split": "un- 不 + favourable，和 unfavorable 是同词的拼写对应；否定的是有利、赞成等性质，不是给 u 单独赋一个否定义。",
+    "history": [
+      [
+        "un- + favourable",
+        "不利、不正面的性质"
+      ],
+      [
+        "unfavourable／unfavorable",
+        "常见英美拼写对应"
+      ]
+    ],
+    "explanation": "unfavourable circumstances 不利情况；an unfavourable response 负面回应；unfavourable to the plan 对计划不利或持反对态度，依主语判断。",
+    "usage": "an unfavourable result；unfavourable conditions。",
+    "contrast": "unfavourable 与 unfair 不公平不同；结果对某人不利，并不自动说明程序不公。",
+    "examples": [
+      [
+        "The team continued despite unfavourable conditions.",
+        "尽管条件不利，团队仍继续了下去。"
+      ],
+      [
+        "The reviewers formed an unfavourable impression of the new layout.",
+        "评审者对新布局的印象不佳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfavourable#English"
+    ]
+  },
+  {
+    "word": "unbeliever",
+    "ipa": "英 /ˌʌnbɪˈliːvə/；美 /ˌʌnbɪˈliːvər/",
+    "meaning": "不信者、非信徒；不相信某说法的人",
+    "sense": "说话人先画出一种信仰、主张，unbeliever 是不相信这一套的人。宗教文本里很常见，也可借说对新办法不相信的人。",
+    "split": "现代对应 un- 不 + believer；历史上可能有较早 wanbeliever 等否定形式参与改造。believer 是 believe + -er，称相信、信奉的人。",
+    "history": [
+      [
+        "believe + -er → believer；较早否定形式的可能影响",
+        "相信的人及不信者的旧表达"
+      ],
+      [
+        "现代 un- + believer → unbeliever",
+        "某一信仰、说法的不信者"
+      ]
+    ],
+    "explanation": "believers and unbelievers 信者与不信者；remain an unbeliever 仍不相信。具体不信什么，往往由文本主题、说话人的立场给出。",
+    "usage": "an unbeliever；convince the unbelievers。",
+    "contrast": "atheist 专说无神论者，unbeliever 范围取决于某种信仰、主张；doubter 更常直接说有疑虑、怀疑的人。",
+    "examples": [
+      [
+        "The book addresses believers and unbelievers alike.",
+        "这本书同时面向信者与不信者。"
+      ],
+      [
+        "The demonstration persuaded even the unbelievers.",
+        "那次演示连原先不相信的人都说服了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbeliever#English"
+    ]
+  },
+  {
+    "word": "lag",
+    "ipa": "/læɡ/",
+    "meaning": "落后、跟不上；滞后、延迟；卡顿〔依语境〕",
+    "sense": "队伍往前走，有人慢慢落在后面；按钮按下去了，画面还慢半拍，也是响应落后了。",
+    "split": "早期英语已有落在最后、迟缓等相关用法，具体来源不明，可能与北欧语材料有关。现代延迟名词由落后、迟缓的动作关系发展。",
+    "history": [
+      [
+        "早期 lag 的末位、迟缓用法",
+        "跟不上、在后，最远来源不确定"
+      ],
+      [
+        "现代动作与延迟名词",
+        "lag behind；输入、响应或变化间的滞后"
+      ]
+    ],
+    "explanation": "lag behind 落后于；a time lag 时间差；input lag 输入到响应的延迟。技术口语也把不流畅概括成 lag，具体原因需看实际场景。",
+    "usage": "lag behind；a slight lag；input lag。",
+    "contrast": "delay 泛说推迟、等候，lag 更突出某一变化跟不上另一变化；lag 不只网络问题，也可说进度、反应。",
+    "examples": [
+      [
+        "Our progress began to lag behind the schedule.",
+        "我们的进度开始落后于计划。"
+      ],
+      [
+        "There was a noticeable lag between pressing the key and seeing the result.",
+        "按键到看到结果之间有明显延迟。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/lag"
+    ]
+  },
+  {
+    "word": "laggy",
+    "ipa": "/ˈlæɡi/",
+    "meaning": "反应迟缓、卡顿的〔尤技术口语〕",
+    "sense": "拖动窗口，总是过一会儿才跟过来，手和画面仿佛没同步；用户会说 the interface is laggy。",
+    "split": "lag 滞后、延迟 + -y，双写 g，形成有这种迟缓特点的形容词。它是用户体验性质，不是某一种唯一故障的名字。",
+    "history": [
+      [
+        "lag + -y",
+        "带有响应滞后、迟缓的特点"
+      ],
+      [
+        "现代技术口语 laggy",
+        "界面、游戏、设备等卡顿、反应慢"
+      ]
+    ],
+    "explanation": "a laggy interface 卡顿界面；a laggy game 反应迟缓的游戏；feel laggy 用起来不跟手。",
+    "usage": "a laggy connection；a laggy app。",
+    "contrast": "slow 慢很广，laggy 常突出操作、画面、反馈跟不上的体验；描述这种体验不等于已经判定具体是网络、处理器还是其他环节。",
+    "examples": [
+      [
+        "The app feels laggy on the old tablet.",
+        "这个应用在旧平板上用起来有些卡。"
+      ],
+      [
+        "The controls were too laggy for a fast game.",
+        "操作响应太慢，不适合玩快节奏游戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laggy#English"
+    ]
+  },
+  {
+    "word": "anticlimax",
+    "ipa": "/ˌæntiˈklaɪmæks/，美式亦见 /ˌæntaɪˈklaɪmæks/",
+    "meaning": "扫兴的收尾；期望高、结果平淡的落差；突降法",
+    "sense": "宣传铺天盖地，把期待越吊越高，真正揭晓却只是一件小事；那种期待悬空、轻轻落地的泄气感，就是 anticlimax。",
+    "split": "anti- 与……相反 + climax 高潮、顶点。climax 的旧词源是希腊 klimax 梯子，逐级上升引到高潮；anti- 在此把这个预期的上升转成突降、落差。",
+    "history": [
+      [
+        "climax 的梯子、逐级上升词族",
+        "达到顶点、高潮的预期"
+      ],
+      [
+        "anti- + climax → anticlimax",
+        "没到预期高潮而泄气的结果；修辞中的突降"
+      ]
+    ],
+    "explanation": "a sense of anticlimax 扫兴、落差感；an anticlimax after the build-up 铺垫一大通后的平淡收场。修辞中也可有意由重大转到琐小，制造幽默。",
+    "usage": "a disappointing anticlimax；a feeling of anticlimax。",
+    "contrast": "disappointment 失望很广；anticlimax 特别强调前面的铺垫、期待较高，后面却没接住。",
+    "examples": [
+      [
+        "After all the publicity, the tiny exhibition felt like an anticlimax.",
+        "宣传那么多，实际展览却小得让人扫兴。"
+      ],
+      [
+        "The band’s brief farewell left an odd sense of anticlimax.",
+        "乐队简短的告别留下了一种奇怪的失落感。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/anticlimax"
+    ]
+  },
+  {
+    "word": "anticlimactic",
+    "ipa": "/ˌæntiklaɪˈmæktɪk/，美式亦见 /ˌæntaɪklaɪˈmæktɪk/",
+    "meaning": "令人扫兴、虎头蛇尾的；未达到预期高潮的",
+    "sense": "前面像爬山一样一路推高，结尾却没有真正到顶；用来评价这个收尾，就说 anticlimactic。",
+    "split": "anti- 与……相反 + climactic 高潮的。与名词 anticlimax 作词族对照；climax、climactic 的词尾有旧词干变化，形容词重音落到后面的 /mæk/。",
+    "history": [
+      [
+        "climactic：形成高潮、顶点的性质",
+        "接 climax 的同族形容词材料"
+      ],
+      [
+        "anti- + climactic → anticlimactic",
+        "与高潮预期相反、让人泄气的性质"
+      ]
+    ],
+    "explanation": "an anticlimactic ending 令人扫兴的结尾；feel anticlimactic 显得没有接住前面的期待。一个安静结尾也可能很有力，不是安静就必然 anticlimactic。",
+    "usage": "an anticlimactic finish；a rather anticlimactic announcement。",
+    "contrast": "anticlimax 是结果、落差等名词，anticlimactic 是性质；climactic 是高潮的；climatic 少一个 c，是气候的，不能混写。",
+    "examples": [
+      [
+        "After the dramatic build-up, the ending was surprisingly anticlimactic.",
+        "前面铺垫得那么紧张，结尾却出奇地让人泄气。"
+      ],
+      [
+        "Their brief handshake was an anticlimactic end to the long negotiations.",
+        "漫长谈判最后以一个简短握手收场，让人颇感落差。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/anticlimactic"
+    ]
+  }
+]

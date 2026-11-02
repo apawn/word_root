@@ -1,0 +1,792 @@
+[
+  {
+    "word": "heckle",
+    "ipa": "/ˈhekəl/",
+    "meaning": "对演讲、表演插话起哄、刁难；梳理麻纤维〔旧工具义〕",
+    "sense": "台上的人还在讲，台下有人不断喊问题、喊讽刺的话打断，让他难以继续，这叫 heckle。可以想象一把带齿的梳子反复刮过：它的确有梳麻的旧义。",
+    "split": "动词来自 heckle 齿梳名词，或相关荷兰语 hekelen；工具的更早材料联系钩、齿。现代先把 heckle 视作整体，再分析它后接的规则词尾。",
+    "history": [
+      [
+        "heckle 工具名：梳理麻纤维的齿梳",
+        "可能接未记录的古英语 *hecel 或同源日耳曼词，远源联系钩、齿材料"
+      ],
+      [
+        "heckle 动词：梳理 → 尖锐追问、插话起哄",
+        "工具名转动词或相关荷兰语形式进入；现代常说打断公开讲话、表演"
+      ]
+    ],
+    "explanation": "heckle a speaker 对演讲者插话起哄；heckle a comedian 打断、刁难喜剧演员。",
+    "usage": "begin to heckle；refuse to heckle。",
+    "contrast": "ask a question 可以是正常问答；heckle 突出打断、挑衅或反复尖锐追问的方式，不能把所有提问者都叫 hecklers。",
+    "examples": [
+      [
+        "A few people began to heckle the speaker.",
+        "有几个人开始对演讲者插话起哄。"
+      ],
+      [
+        "Please don’t heckle the performers during the show.",
+        "演出时请不要对表演者插话起哄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heckle#English",
+      "https://www.etymonline.com/word/heckle"
+    ]
+  },
+  {
+    "word": "heckles",
+    "ipa": "/ˈhekəlz/",
+    "meaning": "插话起哄、刁难〔第三人称单数〕；梳麻齿梳〔复数〕",
+    "sense": "某个观众总等台上刚开口就插话、讥讽，叫 he heckles the speaker。词史里还有梳麻工具的同形复数，但日常优先看动词。",
+    "split": "heckle + -s，读 /z/；工具名复数与动词三单同形，现代起哄义接旧梳理动词的比喻扩展。",
+    "history": [
+      [
+        "heckle 工具名：梳理麻纤维的齿梳",
+        "可能接未记录的古英语 *hecel 或同源日耳曼词，远源联系钩、齿材料"
+      ],
+      [
+        "heckle 动词：梳理 → 尖锐追问、插话起哄",
+        "工具名转动词或相关荷兰语形式进入；现代常说打断公开讲话、表演"
+      ],
+      [
+        "heckle + -s → heckles",
+        "他不断插话、挑衅；工具名也能有复数"
+      ]
+    ],
+    "explanation": "heckles the speaker 对演讲者起哄；heckles from the back 从后面不断插话。",
+    "usage": "regularly heckles；heckles every performer。",
+    "contrast": "interrupts 可以无意打断，heckles 通常含有刻意插话、嘲弄或刁难的方向。",
+    "examples": [
+      [
+        "He heckles every speaker who disagrees with him.",
+        "只要演讲者与他意见不同，他就插话刁难。"
+      ],
+      [
+        "One man heckles from the back whenever she pauses.",
+        "她每次停顿，后面就有个男人插话起哄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heckles#English",
+      "https://www.etymonline.com/word/heckle"
+    ]
+  },
+  {
+    "word": "heckled",
+    "ipa": "/ˈhekəld/",
+    "meaning": "插话起哄、刁难了；被起哄打断的",
+    "sense": "讲话几次被台下的尖刻喊话打断，演讲者 was heckled。常见被动是因为报道重点在受到干扰的人。",
+    "split": "heckle 去 e 加完整 -ed，读 /d/；动作过去形式，也用于被动。",
+    "history": [
+      [
+        "heckle 工具名：梳理麻纤维的齿梳",
+        "可能接未记录的古英语 *hecel 或同源日耳曼词，远源联系钩、齿材料"
+      ],
+      [
+        "heckle 动词：梳理 → 尖锐追问、插话起哄",
+        "工具名转动词或相关荷兰语形式进入；现代常说打断公开讲话、表演"
+      ],
+      [
+        "heckle → heckled",
+        "过去对公开讲话、表演反复插话刁难"
+      ]
+    ],
+    "explanation": "heckled by the crowd 遭人群起哄；heckled throughout the speech 整场演说都被插话干扰。",
+    "usage": "was loudly heckled；heckled the candidate。",
+    "contrast": "questioned 可中性表示被问问题，heckled 则通常说明过程带干扰、刁难或敌意。",
+    "examples": [
+      [
+        "The candidate was heckled throughout the speech.",
+        "那名候选人在整个演说过程中都被插话起哄。"
+      ],
+      [
+        "A small group heckled the comedian, who calmly carried on.",
+        "一小群人打断那位喜剧演员起哄，他则镇定地继续表演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heckled#English",
+      "https://www.etymonline.com/word/heckle"
+    ]
+  },
+  {
+    "word": "heckling",
+    "ipa": "/ˈheklɪŋ/",
+    "meaning": "插话起哄、反复刁难；正在这样干扰",
+    "sense": "台下一次次喊话打断，台上的话总接不下去，这种行为整体叫 heckling；写动作过程也用同形。",
+    "split": "heckle 去 e 加 -ing；可作动作形式、行为名词，常见读音中间收成 /kl/。",
+    "history": [
+      [
+        "heckle 工具名：梳理麻纤维的齿梳",
+        "可能接未记录的古英语 *hecel 或同源日耳曼词，远源联系钩、齿材料"
+      ],
+      [
+        "heckle 动词：梳理 → 尖锐追问、插话起哄",
+        "工具名转动词或相关荷兰语形式进入；现代常说打断公开讲话、表演"
+      ],
+      [
+        "heckle → heckling",
+        "正在插话刁难；或命名这种干扰行为"
+      ]
+    ],
+    "explanation": "stop the heckling 制止插话起哄；heckling from the audience 来自观众的起哄。",
+    "usage": "persistent heckling；heckling the speaker。",
+    "contrast": "a lively discussion 是热烈讨论，heckling 则通常把对方难以继续讲话作为显著特征；大声不等于必然 heckling。",
+    "examples": [
+      [
+        "The host asked for the heckling to stop.",
+        "主持人要求停止插话起哄。"
+      ],
+      [
+        "They were heckling the speaker rather than listening to her.",
+        "他们一直对演讲者插话刁难，没有听她讲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heckling#English",
+      "https://www.etymonline.com/word/heckle"
+    ]
+  },
+  {
+    "word": "heckler",
+    "ipa": "英 /ˈheklə/；美 /ˈheklər/",
+    "meaning": "对演讲、表演插话起哄、刁难的人",
+    "sense": "你在台上讲，他在台下一遍遍喊话、让你难以继续，这个人叫 a heckler。-er 把行为落实到做事的人。",
+    "split": "heckle 去 e 加完整 -er；早期也可指用齿梳梳麻的人，后来用于起哄、反复刁难公开讲话的观众。",
+    "history": [
+      [
+        "heckle 工具名：梳理麻纤维的齿梳",
+        "可能接未记录的古英语 *hecel 或同源日耳曼词，远源联系钩、齿材料"
+      ],
+      [
+        "heckle 动词：梳理 → 尖锐追问、插话起哄",
+        "工具名转动词或相关荷兰语形式进入；现代常说打断公开讲话、表演"
+      ],
+      [
+        "heckle + -er → heckler",
+        "使用工具者的旧义，后来转写插话刁难者"
+      ]
+    ],
+    "explanation": "deal with a heckler 应付起哄者；a persistent heckler 不断插话刁难的人。",
+    "usage": "respond to a heckler；ignore the heckler。",
+    "contrast": "a questioner 只是提问者，a heckler 还带干扰、挑衅的行为特征；不能只凭一个尖锐问题就把人归为后者。",
+    "examples": [
+      [
+        "The comedian answered the heckler with a quick joke.",
+        "喜剧演员用一个机敏的笑话回应了那个起哄者。"
+      ],
+      [
+        "A heckler kept interrupting the opening speech.",
+        "一个起哄者不停打断开场演说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heckler#English",
+      "https://www.etymonline.com/word/heckler"
+    ]
+  },
+  {
+    "word": "hecklers",
+    "ipa": "英 /ˈhekləz/；美 /ˈheklərz/",
+    "meaning": "插话起哄、刁难者〔复数〕",
+    "sense": "不是一人，而是几个观众不断对着台上喊话、打断，这些人就是 hecklers。",
+    "split": "heckle 去 e 加 -er → heckler，再加复数 -s，词尾读 /z/；名词旧义、现代起哄者义共用这一形态。",
+    "history": [
+      [
+        "heckle 工具名：梳理麻纤维的齿梳",
+        "可能接未记录的古英语 *hecel 或同源日耳曼词，远源联系钩、齿材料"
+      ],
+      [
+        "heckle 动词：梳理 → 尖锐追问、插话起哄",
+        "工具名转动词或相关荷兰语形式进入；现代常说打断公开讲话、表演"
+      ],
+      [
+        "heckle → heckler → hecklers",
+        "多个实施插话、嘲弄、反复刁难的人"
+      ]
+    ],
+    "explanation": "a group of hecklers 一群起哄者；silence the hecklers 让起哄者安静下来。",
+    "usage": "deal with hecklers；hecklers in the audience。",
+    "contrast": "hecklers 讲他们如何干扰，不必然说明人数占多数；a few hecklers 也可能制造很大声音。",
+    "examples": [
+      [
+        "A few hecklers tried to drown out the speech.",
+        "几个起哄者试图用声音盖过演说。"
+      ],
+      [
+        "She paused until the hecklers were quiet.",
+        "她停下来，等那些起哄者安静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hecklers#English",
+      "https://www.etymonline.com/word/heckler"
+    ]
+  },
+  {
+    "word": "pesters",
+    "ipa": "英 /ˈpestəz/；美 /ˈpestərz/",
+    "meaning": "不断烦扰、纠缠〔第三人称单数〕",
+    "sense": "已经回答过，过一会儿又来问，追着你不放，这个人 pesters you。关键是烦扰一再回来。",
+    "split": "pester + -s，读 /z/；pester 常经法语的缠住、绊住材料而来，现代烦扰义受 pest 影响，并非简单的“害虫加 -er”。",
+    "history": [
+      [
+        "牧人拴牲畜的绳索材料 → 重建 *impastoriare",
+        "绊住、拴住；连接词形有重建成分"
+      ],
+      [
+        "法语 empestrer → 英语 pester",
+        "纠缠、妨碍到反复烦扰，现代烦人义还受 pest 影响"
+      ],
+      [
+        "pester + -s → pesters",
+        "他反复纠缠、烦扰"
+      ]
+    ],
+    "explanation": "pesters someone for something 缠着某人要某物；pesters someone with questions 不停提问来烦人。",
+    "usage": "pesters me for an answer；pesters her to buy a toy。",
+    "contrast": "asks 只说提出请求，pesters 额外说请求反复到让对方烦；重点在频度、纠缠感。",
+    "examples": [
+      [
+        "The child pesters his father for a puppy.",
+        "孩子缠着爸爸，非要养一只小狗。"
+      ],
+      [
+        "She pesters me with questions while I am trying to work.",
+        "我想专心工作时，她不停提问来烦我。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pesters#English",
+      "https://www.etymonline.com/word/pester"
+    ]
+  },
+  {
+    "word": "pestered",
+    "ipa": "英 /ˈpestəd/；美 /ˈpestərd/",
+    "meaning": "反复烦扰、纠缠了；被纠缠的",
+    "sense": "对方不停来催、来要，你很难脱身，就可以说 you were pestered。像被一串要求缠住了。",
+    "split": "pester + 完整 -ed，词尾读 /d/；这是 pester 整体接过去词尾，主语可以是纠缠者，被动句则以受到纠缠的人为主语。",
+    "history": [
+      [
+        "牧人拴牲畜的绳索材料 → 重建 *impastoriare",
+        "绊住、拴住；连接词形有重建成分"
+      ],
+      [
+        "法语 empestrer → 英语 pester",
+        "纠缠、妨碍到反复烦扰，现代烦人义还受 pest 影响"
+      ],
+      [
+        "pester + -ed → pestered",
+        "过去反复烦扰；或受到不停纠缠"
+      ]
+    ],
+    "explanation": "pestered for money 被缠着要钱；pestered with questions 被没完没了地问。",
+    "usage": "was constantly pestered；pestered her for a reply。",
+    "contrast": "reminded 可以是一次有帮助的提醒，pestered 突出让人烦的反复催促；同一行为会因频率、场景变成不同感受。",
+    "examples": [
+      [
+        "He pestered me for an answer all afternoon.",
+        "他整个下午都缠着我要一个答复。"
+      ],
+      [
+        "We were pestered with sales calls during dinner.",
+        "吃晚饭时，推销电话没完没了地打来烦我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pestered#English",
+      "https://www.etymonline.com/word/pester"
+    ]
+  },
+  {
+    "word": "pestering",
+    "ipa": "英 /ˈpestərɪŋ/；美 /ˈpestərɪŋ/",
+    "meaning": "正在纠缠、不断烦扰",
+    "sense": "这会儿还在追着问、追着要，让人没法清静，就是 pestering。常带“别再缠着我了”的不耐烦。",
+    "split": "pester + -ing；规则动作形式，承缠住到烦扰的词义历史。",
+    "history": [
+      [
+        "牧人拴牲畜的绳索材料 → 重建 *impastoriare",
+        "绊住、拴住；连接词形有重建成分"
+      ],
+      [
+        "法语 empestrer → 英语 pester",
+        "纠缠、妨碍到反复烦扰，现代烦人义还受 pest 影响"
+      ],
+      [
+        "pester + -ing → pestering",
+        "反复纠缠正在发生"
+      ]
+    ],
+    "explanation": "stop pestering me 别再缠着我；pestering someone for a reply 缠着要答复。",
+    "usage": "pestering her with messages；keep pestering。",
+    "contrast": "pestering 说明反复到令人烦，persuading 是试图说服；不停纠缠不表示已经给出更有力的理由。",
+    "examples": [
+      [
+        "Stop pestering me while I am on the phone.",
+        "我打电话时别再缠着我。"
+      ],
+      [
+        "They kept pestering her for details about the trip.",
+        "他们不停缠着她打听旅途细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pestering#English",
+      "https://www.etymonline.com/word/pester"
+    ]
+  },
+  {
+    "word": "badgers",
+    "ipa": "英 /ˈbædʒəz/；美 /ˈbædʒərz/",
+    "meaning": "獾〔复数〕；不断纠缠、逼问〔第三人称单数〕",
+    "sense": "名词是几只獾；动词却可以是有人不断逼问、催你答应。纠缠义接的是围攻獾的旧活动意象，不是说獾喜欢唠叨。",
+    "split": "badger + -s，读 /z/；动物名复数与动词三单同形。动物名可能联系 badge 的斑纹命名说，尚未确定。",
+    "history": [
+      [
+        "动物名 badger",
+        "可能由 badge 旧形加 -ard 材料形成，联系斑纹，尚非定论"
+      ],
+      [
+        "动物名 → 动词 badger",
+        "联系犬反复围攻獾的历史活动，转写持续纠缠、逼问别人"
+      ],
+      [
+        "badger + -s → badgers",
+        "多只獾；他持续纠缠、逼问"
+      ]
+    ],
+    "explanation": "badgers emerge at night 獾在夜间出没；badgers someone for an answer 追着要答复。",
+    "usage": "watch for badgers；badgers his parents to buy it。",
+    "contrast": "badgers 是动物名复数时不含烦扰评价；先看是名词主语，还是后面接人作动词宾语。",
+    "examples": [
+      [
+        "Badgers usually leave their setts after dark.",
+        "獾通常在天黑后离开洞穴。"
+      ],
+      [
+        "He badgers me for an answer before I have the facts.",
+        "我还没掌握事实，他就不断逼我给答复。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/badgers#English",
+      "https://www.etymonline.com/word/badger"
+    ]
+  },
+  {
+    "word": "badgered",
+    "ipa": "英 /ˈbædʒəd/；美 /ˈbædʒərd/",
+    "meaning": "不断纠缠、逼问了；被逼问的",
+    "sense": "你说还没决定，对方却一轮又一轮催你答应，这就是被 badgered。它比问了一次更有围着人不放的感觉。",
+    "split": "badger + 完整 -ed，读 /d/；动词由动物名转用，纠缠义联系围攻獾的旧活动。",
+    "history": [
+      [
+        "动物名 badger",
+        "可能由 badge 旧形加 -ard 材料形成，联系斑纹，尚非定论"
+      ],
+      [
+        "动物名 → 动词 badger",
+        "联系犬反复围攻獾的历史活动，转写持续纠缠、逼问别人"
+      ],
+      [
+        "badger + -ed → badgered",
+        "过去反复逼问、纠缠"
+      ]
+    ],
+    "explanation": "badgered into agreeing 被缠得答应；badgered for details 被追问细节。",
+    "usage": "felt badgered；badgered by reporters。",
+    "contrast": "agreed willingly 是自愿答应，was badgered into agreeing 却说反复施压促成了答应；语气与原因不同。",
+    "examples": [
+      [
+        "They badgered him into joining the committee.",
+        "他们反复劝逼，终于让他答应加入委员会。"
+      ],
+      [
+        "She felt badgered by the constant requests for updates.",
+        "不停被催问进度，让她觉得被缠得受不了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/badgered#English",
+      "https://www.etymonline.com/word/badger"
+    ]
+  },
+  {
+    "word": "badgering",
+    "ipa": "英 /ˈbædʒərɪŋ/；美 /ˈbædʒərɪŋ/",
+    "meaning": "不断纠缠、逼问；正在这样施压",
+    "sense": "不给人留思考空间，问题或请求一轮轮追上来，是 badgering。也能把这种穷追不舍的行为当一个整体来讲。",
+    "split": "badger + -ing；动词规则变化；名词化时，把反复逼问、施压的行为作为整体来谈。",
+    "history": [
+      [
+        "动物名 badger",
+        "可能由 badge 旧形加 -ard 材料形成，联系斑纹，尚非定论"
+      ],
+      [
+        "动物名 → 动词 badger",
+        "联系犬反复围攻獾的历史活动，转写持续纠缠、逼问别人"
+      ],
+      [
+        "badger + -ing → badgering",
+        "正在反复逼问；也可命名纠缠行为"
+      ]
+    ],
+    "explanation": "stop badgering me 别再逼问我；badgering someone to agree 反复缠着要人答应。",
+    "usage": "constant badgering；badgering her with questions。",
+    "contrast": "badgering 强调不放过对方的持续施压；heckling 更常针对公开讲话、表演的插话干扰，场景不同。",
+    "examples": [
+      [
+        "Please stop badgering me about the deadline.",
+        "请别再没完没了地追问我截止日期的事。"
+      ],
+      [
+        "The constant badgering made it hard for her to think.",
+        "不停被纠缠逼问，让她难以思考。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/badgering#English",
+      "https://www.etymonline.com/word/badger"
+    ]
+  },
+  {
+    "word": "harasses",
+    "ipa": "/ˈhærəsɪz/，也读 /həˈræsɪz/",
+    "meaning": "反复骚扰、侵扰〔第三人称单数〕",
+    "sense": "对方不想再接触，却不停被堵着、收到攻击信息或遭威胁，施扰者 harasses someone。它通常比一次让人不高兴更有持续侵扰的重量。",
+    "split": "harass + -es；/s/ 后读 /ɪz/。基础词借法语 harasser 使疲惫、侵扰，更早来源未定。",
+    "history": [
+      [
+        "法语 harasser → 英语 harass",
+        "使疲惫、反复侵扰；更早来源有不同分析"
+      ],
+      [
+        "harass 加英语词尾",
+        "不断骚扰、烦扰；harasser 命名实施者，harassment 命名行为、状态"
+      ],
+      [
+        "harass + -es → harasses",
+        "他反复骚扰、侵扰"
+      ]
+    ],
+    "explanation": "harasses someone online 在网上骚扰某人；harasses the staff 骚扰员工。",
+    "usage": "repeatedly harasses；harasses people with threats。",
+    "contrast": "annoys 可以是无意的噪声让人心烦；harasses 更常写针对人的持续侵扰。这里讲日常用法，不把所有小烦恼都等同于骚扰。",
+    "examples": [
+      [
+        "The anonymous account harasses her with threatening messages.",
+        "那个匿名账号不断发威胁信息骚扰她。"
+      ],
+      [
+        "He harasses the staff whenever they refuse his demands.",
+        "员工只要拒绝他的要求，他就不断骚扰他们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harasses#English",
+      "https://www.etymonline.com/word/harass"
+    ]
+  },
+  {
+    "word": "harassing",
+    "ipa": "/ˈhærəsɪŋ/，也读 /həˈræsɪŋ/",
+    "meaning": "正在骚扰；构成反复侵扰的",
+    "sense": "一条攻击信息还没消停，下一条又追来，harassing messages 把这种侵扰性质点出来；动词形式则写骚扰正在发生。",
+    "split": "harass + -ing；词尾双 s 本来就有，直接接 -ing，不再多加一个 s。",
+    "history": [
+      [
+        "法语 harasser → 英语 harass",
+        "使疲惫、反复侵扰；更早来源有不同分析"
+      ],
+      [
+        "harass 加英语词尾",
+        "不断骚扰、烦扰；harasser 命名实施者，harassment 命名行为、状态"
+      ],
+      [
+        "harass + -ing → harassing",
+        "正在反复侵扰；也形容骚扰性信息、行为"
+      ]
+    ],
+    "explanation": "harassing messages 骚扰信息；harassing phone calls 骚扰电话；stop harassing someone 停止骚扰。",
+    "usage": "kept harassing；reported the harassing calls。",
+    "contrast": "harassing 来电指对人的侵扰，frequent calls 只说来得多；频度和意图、内容、对方反应要放回场景看。",
+    "examples": [
+      [
+        "She saved the harassing messages as evidence of what happened.",
+        "她保存了那些骚扰信息，记录发生过的事。"
+      ],
+      [
+        "The man kept harassing passengers at the station.",
+        "那个男人一直在车站骚扰乘客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harassing#English",
+      "https://www.etymonline.com/word/harass"
+    ]
+  },
+  {
+    "word": "harasser",
+    "ipa": "英 /ˈhærəsə/、/həˈræsə/；美 /ˈhærəsər/、/həˈræsər/",
+    "meaning": "骚扰者；反复侵扰他人的人",
+    "sense": "不只命名一种行为，还把实施反复侵扰的人指出来，就是 a harasser。",
+    "split": "harass + -er，-er 命名实施动作的人；harass 接法语侵扰、使疲惫的材料，远源未定。",
+    "history": [
+      [
+        "法语 harasser → 英语 harass",
+        "使疲惫、反复侵扰；更早来源有不同分析"
+      ],
+      [
+        "harass 加英语词尾",
+        "不断骚扰、烦扰；harasser 命名实施者，harassment 命名行为、状态"
+      ],
+      [
+        "harass + -er → harasser",
+        "实施骚扰、持续侵扰的人"
+      ]
+    ],
+    "explanation": "an online harasser 网络骚扰者；identify the harasser 认出骚扰者。",
+    "usage": "block the harasser；report a harasser。",
+    "contrast": "harasser 指实施侵扰的人，victim 指受害者；读被动句时留意动作方向，别把两种角色混在一起。",
+    "examples": [
+      [
+        "She blocked the harasser after receiving more threats.",
+        "又收到威胁后，她屏蔽了那个骚扰者。"
+      ],
+      [
+        "The witness helped identify the harasser.",
+        "目击者帮助认出了骚扰者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harasser#English",
+      "https://www.etymonline.com/word/harass"
+    ]
+  },
+  {
+    "word": "harassers",
+    "ipa": "英 /ˈhærəsəz/、/həˈræsəz/；美 /ˈhærəsərz/、/həˈræsərz/",
+    "meaning": "骚扰者〔复数〕",
+    "sense": "几个人不断发攻击信息、追着别人不放，这些施扰者可以合称 harassers。",
+    "split": "harass + -er → harasser，再加复数 -s，读 /z/；-er 先命名人，-s 再给人数。",
+    "history": [
+      [
+        "法语 harasser → 英语 harass",
+        "使疲惫、反复侵扰；更早来源有不同分析"
+      ],
+      [
+        "harass 加英语词尾",
+        "不断骚扰、烦扰；harasser 命名实施者，harassment 命名行为、状态"
+      ],
+      [
+        "harass → harasser → harassers",
+        "多个实施反复侵扰的人"
+      ]
+    ],
+    "explanation": "online harassers 网络骚扰者；block harassers 屏蔽骚扰者。",
+    "usage": "identify the harassers；protect staff from harassers。",
+    "contrast": "harassers 是人的称呼，harassment 是行为、处境的名词；不能把多个骚扰者写成 several harassment。",
+    "examples": [
+      [
+        "The platform removed accounts used by the harassers.",
+        "平台移除了那些骚扰者使用的账号。"
+      ],
+      [
+        "Staff were trained to document repeated contact from harassers.",
+        "员工接受了培训，学习记录骚扰者反复联系的情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harassers#English",
+      "https://www.etymonline.com/word/harass"
+    ]
+  },
+  {
+    "word": "nag",
+    "ipa": "/næɡ/",
+    "meaning": "唠叨、不断催促或挑错；使人一直不安；爱唠叨的人；老马",
+    "sense": "同一件事一遍遍念叨，像一点点啃着你的耐心，就是 nag；一个疑问也能 nag at you，在心里咬住不放。老马那个名词是另一来源。",
+    "split": "动词大概来自斯堪的纳维亚啃咬材料，与 gnaw 同族；唠叨者名词由动词发展。nag 老马、原来的小骑乘马名词更早、来源未定，不与唠叨动词硬合。",
+    "history": [
+      [
+        "方言啃咬材料 → nag 动词",
+        "大概接斯堪的纳维亚语言相关形式，与 gnaw 同族；并非现代 gnaw 直接换拼写"
+      ],
+      [
+        "一点点啃咬 → 不断挑错、唠叨；也可写疑虑挥之不去",
+        "nag 老马名词是另源词，更早来路未定，不能把唠叨义全从马推出来"
+      ]
+    ],
+    "explanation": "nag someone to do something 唠叨着催某人做事；nag at someone 不断唠叨或困扰某人；an old nag 一匹老马。",
+    "usage": "stop nagging 的基础动词；don’t mean to nag。",
+    "contrast": "remind 可以只是提醒一次；nag 带反复、令对方烦的视角。说 don’t nag me 常是在表达被催烦了，不必因此断定提醒内容无理。",
+    "examples": [
+      [
+        "I don’t want to nag, but the bins still need emptying.",
+        "我不想一直唠叨，不过垃圾桶还是得倒。"
+      ],
+      [
+        "One unanswered question continued to nag at me.",
+        "一个没得到回答的问题一直让我放不下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nag#English",
+      "https://www.etymonline.com/word/nag"
+    ]
+  },
+  {
+    "word": "nags",
+    "ipa": "/næɡz/",
+    "meaning": "唠叨、不断困扰〔第三人称单数〕；爱唠叨的人、老马〔复数〕",
+    "sense": "小问题总冒出来，让人没法完全放心，是 a doubt nags at me；有人反复催别人做事，也用 nags。",
+    "split": "nag + -s，/ɡ/ 后读 /z/；动词三单与名词复数同形，但老马名词另源。",
+    "history": [
+      [
+        "方言啃咬材料 → nag 动词",
+        "大概接斯堪的纳维亚语言相关形式，与 gnaw 同族；并非现代 gnaw 直接换拼写"
+      ],
+      [
+        "一点点啃咬 → 不断挑错、唠叨；也可写疑虑挥之不去",
+        "nag 老马名词是另源词，更早来路未定，不能把唠叨义全从马推出来"
+      ],
+      [
+        "nag + -s → nags",
+        "他反复催、挑错；疑虑不断困扰；名词也可有复数"
+      ]
+    ],
+    "explanation": "nags at me 一直让我不安；nags someone about chores 因家务不停唠叨某人。",
+    "usage": "a doubt that nags；nags him to tidy up。",
+    "contrast": "a doubt nags at me 常是挥之不去，不一定达到恐惧；terrifies me 才强调让我极其害怕。",
+    "examples": [
+      [
+        "A small doubt nags at me whenever I read the report.",
+        "每次读这份报告，总有一点疑虑让我放不下。"
+      ],
+      [
+        "He nags his housemate about the washing-up.",
+        "他总因洗碗的事唠叨室友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nags#English",
+      "https://www.etymonline.com/word/nag"
+    ]
+  },
+  {
+    "word": "nagged",
+    "ipa": "/næɡd/",
+    "meaning": "唠叨、催促了；一直困扰了",
+    "sense": "过去被同一要求念了很多遍，或一个念头一直没法放下，都可用 nagged。人的话可以唠叨，心里的问题可以啃扰。",
+    "split": "nag 双写 g 加完整 -ed，读 /d/；单音节重读短元音后接一个辅音字母时，这里按规则双写。",
+    "history": [
+      [
+        "方言啃咬材料 → nag 动词",
+        "大概接斯堪的纳维亚语言相关形式，与 gnaw 同族；并非现代 gnaw 直接换拼写"
+      ],
+      [
+        "一点点啃咬 → 不断挑错、唠叨；也可写疑虑挥之不去",
+        "nag 老马名词是另源词，更早来路未定，不能把唠叨义全从马推出来"
+      ],
+      [
+        "nag + -ed → nagged",
+        "过去反复催促；或持续留在心里使不安"
+      ]
+    ],
+    "explanation": "nagged about money 因钱的事被唠叨；a question nagged at me 一个问题一直困扰我。",
+    "usage": "nagged him to finish；nagged at the back of her mind。",
+    "contrast": "nagged 是持续反复，asked once 是问一次；故事里用了 nagged，通常已带被催烦或甩不开的感觉。",
+    "examples": [
+      [
+        "She nagged him to finish the repair before winter.",
+        "她反复催他在冬天前修好。"
+      ],
+      [
+        "The possibility of an error nagged at me all night.",
+        "可能出了错这个念头整晚都让我放不下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nagged#English",
+      "https://www.etymonline.com/word/nag"
+    ]
+  },
+  {
+    "word": "nagging",
+    "ipa": "/ˈnæɡɪŋ/",
+    "meaning": "唠叨、不断催促；挥之不去的；持续隐隐作痛的",
+    "sense": "nagging doubt 不是疑虑在说话，而是它像唠叨一样，隔一会儿就冒出来；nagging pain 也多是持续烦扰、难甩开的痛。",
+    "split": "nag 双写 g 加 -ing；动作形式可作行为名词，也能形容不断啃扰注意力的疑虑、疼痛等。",
+    "history": [
+      [
+        "方言啃咬材料 → nag 动词",
+        "大概接斯堪的纳维亚语言相关形式，与 gnaw 同族；并非现代 gnaw 直接换拼写"
+      ],
+      [
+        "一点点啃咬 → 不断挑错、唠叨；也可写疑虑挥之不去",
+        "nag 老马名词是另源词，更早来路未定，不能把唠叨义全从马推出来"
+      ],
+      [
+        "nag → nagging",
+        "持续唠叨；进一步写不断回来、让人放不下"
+      ]
+    ],
+    "explanation": "a nagging doubt 挥之不去的疑虑；nagging pain 持续隐痛；constant nagging 不停唠叨。",
+    "usage": "stop nagging；a nagging feeling that something is wrong。",
+    "contrast": "nagging pain 侧重持续烦扰，不表示必然剧烈；sharp pain 侧重尖锐疼痛的性质。这里是用词区别，具体疼痛强弱看情境。",
+    "examples": [
+      [
+        "I had a nagging doubt about the figures.",
+        "我对那些数字总有一丝挥之不去的疑虑。"
+      ],
+      [
+        "The nagging pain in his shoulder made it hard to concentrate.",
+        "肩膀持续的隐痛让他难以集中注意力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nagging#English",
+      "https://www.etymonline.com/word/nag"
+    ]
+  },
+  {
+    "word": "naggingly",
+    "ipa": "/ˈnæɡɪŋli/",
+    "meaning": "持续烦扰地；让人挥之不去地；唠叨地",
+    "sense": "一件事没大到让你立刻停下，却总在脑海里冒出来，叫 naggingly。它写的是像小刺一样不断提醒你的感觉。",
+    "split": "nagging + -ly；内层 nag 双写 g 加 -ing，外层把不断烦扰的性质用于方式、程度。",
+    "history": [
+      [
+        "方言啃咬材料 → nag 动词",
+        "大概接斯堪的纳维亚语言相关形式，与 gnaw 同族；并非现代 gnaw 直接换拼写"
+      ],
+      [
+        "一点点啃咬 → 不断挑错、唠叨；也可写疑虑挥之不去",
+        "nag 老马名词是另源词，更早来路未定，不能把唠叨义全从马推出来"
+      ],
+      [
+        "nag → nagging → naggingly",
+        "不断啃扰的性质，转成持续烦扰的方式"
+      ]
+    ],
+    "explanation": "naggingly familiar 熟悉得让人老想追问在哪里见过；naggingly uncertain 持续让人放不下的不确定。",
+    "usage": "remained naggingly incomplete；naggingly aware of a problem。",
+    "contrast": "naggingly familiar 常是熟悉却暂时想不起在哪里见过，instantly recognizable 则是一下就认得出；前者带着没解决的小疑问。",
+    "examples": [
+      [
+        "His face looked naggingly familiar.",
+        "他的脸让我总觉得在哪儿见过，却想不起来。"
+      ],
+      [
+        "The explanation remained naggingly incomplete.",
+        "这个解释始终缺着一块，让人难以释怀。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naggingly#English",
+      "https://www.etymonline.com/word/nag"
+    ]
+  }
+]

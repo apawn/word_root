@@ -1,0 +1,261 @@
+[
+  {
+    "id": "A1763",
+    "meaning": "动作、活动、结果等罗曼语名词材料",
+    "core": "-ADE：借进来的活动名、结果名，要连着整词历史看",
+    "image": "一群人列队行进是一场 parade；戴面具聚会是一场 masquerade；木桩连成的围障可以是 palisade 或 stockade。它们的尾部相似，具体画面取决于前面的旧材料。",
+    "intro": "英语 -ade 的重要来源是法语 -ade 及其他罗曼语 -ada、-ata 等，对应拉丁语 -ata 等形式。许多词以整词借入英语，不是英语使用者先拿现代英语基础词再拼装。",
+    "forms": "block → blockade 在英语里容易对应；maschera + -ata → mascherata → masquerade 要回到意大利语、法语；facciata → façade → facade 又经历了不同词形变化。并非所有 -ade 结尾词都属这一路。",
+    "branches": [
+      [
+        "行动、活动与表演",
+        "parade · masquerade · charade · charades · serenade"
+      ],
+      [
+        "围障与行动结果",
+        "blockade · palisade · stockade"
+      ],
+      [
+        "建筑外观与饮料",
+        "facade · lemonade"
+      ]
+    ],
+    "contrasts": "decade 的历史走希腊语十的材料，不能只看最后三个字母就塞进来。charade、serenade 的英美读音也不完全依同一个词尾规则。",
+    "practice": "The masquerade began with a parade in front of the old stone facade.\n\n假面舞会以老石建筑正面的一场游行开场。",
+    "words": [
+      "parade",
+      "masquerade",
+      "charade",
+      "charades",
+      "serenade",
+      "blockade",
+      "palisade",
+      "stockade",
+      "facade",
+      "lemonade"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1939",
+    "meaning": "容纳、陈列或开展某事的地方、设施",
+    "core": "-ARIUM：给某类东西安排的容器或场所",
+    "image": "水中生物住进专门水箱，是 aquarium；植物住进小型陆地环境容器，是 terrarium；抬头观看模拟星空的地方，是 planetarium。",
+    "intro": "来源于拉丁语 -arium，常用于与某物有关的地方、容器等名称。近代科学、设施名称沿用这种构词材料，有些先在学术拉丁语中形成，再进入英语。",
+    "forms": "aqu- 水 + -arium → aquarium；terr- 土地 + -arium → terrarium；planet- 行星材料 + -arium → planetarium；sol- 太阳 + -arium → solarium。词干形式不总等于一个完整英语基础词。",
+    "branches": [
+      [
+        "水中与陆地小环境",
+        "aquarium · terrarium"
+      ],
+      [
+        "星空演示场所",
+        "planetarium"
+      ],
+      [
+        "日光空间",
+        "solarium"
+      ]
+    ],
+    "contrasts": "共同点是与某种内容有关的容纳、活动场所；不都指玻璃箱。planetarium 通常是演示星空的设施，observatory 侧重实际观测。",
+    "practice": "After visiting the aquarium, we watched a show at the planetarium.\n\n参观水族馆后，我们在天文馆看了一场演示。",
+    "words": [
+      "aquarium",
+      "terrarium",
+      "planetarium",
+      "solarium"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4453",
+    "meaning": "强调权威、服从的；威权主义",
+    "core": "AUTHORITARIAN：权力集中，并要求别人服从",
+    "image": "一位领导把决定权抓在手里，习惯要求所有人照办，这种作风可以叫 authoritarian。",
+    "intro": "从 authority 权威、权力的词族形成，带 -arian 等表示相关倾向、人物的材料；authoritarianism 再用 -ism 表示相应体制、思想或作风。",
+    "forms": "authority → authoritarian → authoritarianism；authoritative 同属 authority 词族，但已形成可信、有权威性等不同常用义。",
+    "branches": [
+      [
+        "权力、权威",
+        "authority"
+      ],
+      [
+        "要求服从的作风",
+        "authoritarian · authoritarianism"
+      ],
+      [
+        "可靠、具有权威性的另一派生",
+        "authoritative"
+      ]
+    ],
+    "contrasts": "an authoritative guide 常是在称赞资料可靠；an authoritarian leader 常在描述集权、要求服从的领导作风。这两个形容词不能互换。",
+    "practice": "The teacher was authoritative without being authoritarian.\n\n这位老师有威信，做事却并不专断。",
+    "words": [
+      "authority",
+      "authoritative",
+      "authoritarian",
+      "authoritarianism"
+    ],
+    "exclude": {
+      "post-authoritarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-authoritarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4578",
+    "meaning": "后援、援助；补贴",
+    "core": "SUBSIDY：从后面补一把力，现代常是补一部分钱",
+    "image": "前面在运转，后面留着能支援的力量；现代把钱补到交通、培训等活动里，就是 subsidy 的常用画面。",
+    "intro": "中古英语、法语相关形式追到拉丁 subsidium 后援、援助，与 sub-、sīdere 坐下、留驻等材料相连。旧的后援义逐渐有金钱支援的具体用法。",
+    "forms": "subsidy → subsidize／subsidise；subsidiary 借同一拉丁后援词族的形容词材料，说辅助、附属，作为名词又常指子公司。subside 是相关拉丁动词另一路意义延续。",
+    "branches": [
+      [
+        "金钱支援",
+        "subsidy · subsidize · subsidise"
+      ],
+      [
+        "辅助、附属关系",
+        "subsidiary"
+      ],
+      [
+        "坐下、沉降的另一扩展",
+        "subside"
+      ]
+    ],
+    "contrasts": "subsidiary 是附属、子公司的关系，不等于领取 subsidy 的公司。subside 平息、退落也不能按现代补贴动词来理解。",
+    "practice": "A public subsidy helps subsidise the evening bus service.\n\n公共补贴帮助承担晚间公交服务的费用。",
+    "words": [
+      "subsidy",
+      "subsidize",
+      "subsidise",
+      "subsidiary",
+      "subside"
+    ],
+    "exclude": {
+      "cross-subsidy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3821",
+    "meaning": "无神论者；不信神的相关词族",
+    "core": "ATHEIST：信仰判断里不相信神存在的人",
+    "image": "谈一个人是否相信有神时，atheist 指不相信神存在的人；它本身不告诉你这个人是否友善、是否有道德。",
+    "intro": "英语借自法语等无神论者材料，追到希腊语 a- 无、没有 + theos 神形成的 atheos 等，再有表示人物的词尾。相关 ism、ist、ic 形式有各自的借入、派生历史。",
+    "forms": "the- 神的材料；theism 有神论、theist 有神论者；atheism 无神论、atheist 无神论者、atheistic 无神论的。现代可以这样对照理解，不表示英语 theist 一定先于 atheist 被造出。",
+    "branches": [
+      [
+        "信神及其观点",
+        "theism · theist"
+      ],
+      [
+        "不信神及其人物、形容词",
+        "atheism · atheist · atheistic"
+      ],
+      [
+        "知识与可确定性的另一问题",
+        "agnostic"
+      ]
+    ],
+    "contrasts": "agnostic 常谈是否知道、能否确定神存在；atheist 常谈是否相信。一个人的自我表述可同时涉及两方面，不能简单画成绝对互斥的两格。",
+    "practice": "She is an atheist, while her friend describes himself as agnostic.\n\n她是一位无神论者，她的朋友则把自己描述为不可知论者。",
+    "words": [
+      "theism",
+      "theist",
+      "atheism",
+      "atheist",
+      "atheistic",
+      "agnostic"
+    ],
+    "exclude": {
+      "neo-atheist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2574",
+    "meaning": "柑橘类植物、果实及相关特征",
+    "core": "CITRUS：柠檬、橙、青柠这一类果实的共同名称",
+    "image": "果皮一擦有清新香气，里面分瓣、多汁；citrus 是这一类植物和果实的名称，不是单指橙子。",
+    "intro": "借自拉丁植物名 citrus，古代所指植物与现代分类不完全一样。更远可能经伊特鲁里亚语联系希腊语 kedros，尚不宜当成完全确定的直线。",
+    "forms": "citrus → citrusy〔带柑橘香、味〕；citric〔与柑橘、柠檬酸等有关〕取同一植物词族的形容词材料。",
+    "branches": [
+      [
+        "植物、果实类别",
+        "citrus"
+      ],
+      [
+        "较技术性的相关形容词",
+        "citric"
+      ],
+      [
+        "日常感官描写",
+        "citrusy"
+      ]
+    ],
+    "contrasts": "citrusy 可以只说香气，不保证酸；citric acid 是柠檬酸的固定名称。分类、物质名、感官描写分开理解更清楚。",
+    "practice": "The citrus peel gave the tea a fresh, citrusy aroma.\n\n柑橘皮给茶带来了清新的柑橘香。",
+    "words": [
+      "citrus",
+      "citric",
+      "citrusy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3215",
+    "meaning": "值得信任及其否定、性质名词",
+    "core": "TRUSTWORTHY：值得把信任交给",
+    "image": "一件重要的事交出去，你相信对方说实话、会认真对待；trustworthy 说的就是这种值得信任的性质。",
+    "intro": "trust 信任 + worthy 值得；trustworthiness 用 -ness 把性质名词化，untrustworthy 则在整个形容词外加 un- 否定。",
+    "forms": "trust → trustworthy → trustworthiness／untrustworthy；worthy 变 -worthiness 时有 y → i 的拼写调整。",
+    "branches": [
+      [
+        "信任与值得信任",
+        "trust · trustworthy"
+      ],
+      [
+        "性质与反面",
+        "trustworthiness · untrustworthy"
+      ]
+    ],
+    "contrasts": "trustworthiness 是值得信任这种性质，不是某次信任行为的数量。untrustworthy 可评价人物、来源或叙述，要依具体对象读。",
+    "practice": "A trustworthy report makes its sources clear.\n\n一份可信的报告会交代清楚来源。",
+    "words": [
+      "trust",
+      "trustworthy",
+      "trustworthiness",
+      "untrustworthy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4105",
+    "meaning": "警惕、小心提防",
+    "core": "WARY：做事时留着一分防备",
+    "image": "走近陌生的狗，先观察它的反应；面对听起来过分美好的承诺，先留意哪里有问题。这份提防就是 wary。",
+    "intro": "形容词 wary 从旧 ware 警觉的材料加 -y 形成，与 aware 等警觉、意识词族有关。副词 warily、名词 wariness 及否定 unwary 围绕这个性质展开。",
+    "forms": "wary → warily／wariness；un- + wary → unwary。y 在 -ly、-ness 前改写成 i。",
+    "branches": [
+      [
+        "警惕这种状态",
+        "wary"
+      ],
+      [
+        "行动方式、性质名称",
+        "warily · wariness"
+      ],
+      [
+        "没有防备",
+        "unwary"
+      ]
+    ],
+    "contrasts": "wary 是警惕；weary 是疲惫，常见读音也不同。be wary of 可接某物或做某事，表示对其留心、提防。",
+    "practice": "The wary cat approached slowly and sniffed the bag warily.\n\n警惕的猫慢慢靠近，小心地闻了闻袋子。",
+    "words": [
+      "wary",
+      "warily",
+      "wariness",
+      "unwary"
+    ],
+    "exclude": {}
+  }
+]

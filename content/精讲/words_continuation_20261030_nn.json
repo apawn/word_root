@@ -1,0 +1,472 @@
+[
+  {
+    "word": "disciplinary",
+    "ipa": "英 /ˌdɪsəˈplɪnəri/；美 /ˈdɪsəpləneri/",
+    "meaning": "纪律的；惩戒的；学科的",
+    "sense": "一条线是训练人遵守规矩，因此 disciplinary action 是纪律处分；另一条线是训练、学习形成专门领域，因此 disciplinary boundaries 是学科边界。",
+    "split": "来自中世纪拉丁语 disciplinarius，上接 disciplina 教导、训练、知识领域。现代可对应 discipline 的词干 + -ary；不是每个语境都只剩惩罚义。",
+    "history": [
+      [
+        "拉丁语 disciplina",
+        "教导、训练、所学领域，也发展出纪律"
+      ],
+      [
+        "中世纪拉丁语 disciplinarius → 英语 disciplinary",
+        "与纪律、处分有关；与学科有关"
+      ]
+    ],
+    "explanation": "disciplinary action 纪律处分；a disciplinary hearing 纪律审理；disciplinary boundaries 学科界限。",
+    "usage": "disciplinary action；disciplinary boundaries。",
+    "contrast": "纪律语境看违规与处分，学术语境看领域；interdisciplinary 的 discipline 则走学科这一支。",
+    "examples": [
+      [
+        "The school took disciplinary action after the incident.",
+        "事件发生后，学校采取了纪律处分措施。"
+      ],
+      [
+        "The project crosses traditional disciplinary boundaries.",
+        "这个项目跨越了传统学科界限。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disciplinary#English"
+    ]
+  },
+  {
+    "word": "puzzler",
+    "ipa": "英 /ˈpʌzlə/；美 /ˈpʌzlər/",
+    "meaning": "难题；令人费解的人；解谜爱好者",
+    "sense": "That’s a puzzler 是“这可真是个难题”。-er 不一定是人：它可以是使人 puzzle 的东西；在爱好者语境，也能指做谜题、出谜题的人。",
+    "split": "puzzle 去 e + -er → puzzler。由 puzzle 使迷惑、解谜的相关动作形成角色、事物名，具体是谜题还是人要看搭配。",
+    "history": [
+      [
+        "puzzle",
+        "使迷惑；难题，较早历史另见基础词条"
+      ],
+      [
+        "puzzle + -er、-ment",
+        "令人费解的问题或玩解谜的人；困惑状态"
+      ]
+    ],
+    "explanation": "a real puzzler 真正的难题；a keen puzzler 热衷解谜的人；a crossword puzzler 填字谜爱好者。",
+    "usage": "a real puzzler；a keen puzzler。",
+    "contrast": "puzzler 的 -er 可说人也可说令人迷惑的事；不要看见后缀就只译成“某某者”。",
+    "examples": [
+      [
+        "The final question was a real puzzler.",
+        "最后一道题真是个难题。"
+      ],
+      [
+        "As a keen puzzler, she always tried the crossword first.",
+        "她热爱解谜，总是先试着做填字谜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puzzler#English"
+    ]
+  },
+  {
+    "word": "puzzlement",
+    "ipa": "/ˈpʌzəlmənt/",
+    "meaning": "困惑、迷惑不解",
+    "sense": "线索对不上，眉头皱起来，脑中冒出“这到底怎么回事”，这份状态就是 puzzlement。",
+    "split": "puzzle + -ment → puzzlement，保留 e。-ment 把迷惑动作、结果抽成名词，常说人的困惑状态。",
+    "history": [
+      [
+        "puzzle",
+        "使迷惑；难题，较早历史另见基础词条"
+      ],
+      [
+        "puzzle + -er、-ment",
+        "令人费解的问题或玩解谜的人；困惑状态"
+      ]
+    ],
+    "explanation": "in puzzlement 困惑地；a look of puzzlement 困惑的神情；to someone’s puzzlement 令某人不解的是。",
+    "usage": "in puzzlement；a look of puzzlement。",
+    "contrast": "puzzle 常是待解的问题本身；puzzlement 常是面对问题时人的不解。",
+    "examples": [
+      [
+        "She looked at the empty box in puzzlement.",
+        "她困惑地看着空盒子。"
+      ],
+      [
+        "A look of puzzlement crossed his face.",
+        "他脸上掠过一丝困惑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/puzzlement#English"
+    ]
+  },
+  {
+    "word": "wax",
+    "ipa": "/wæks/",
+    "meaning": "蜡；上蜡；〔较正式〕增长、渐变",
+    "sense": "wax 最熟悉的是蜡、给表面上蜡。the moon waxes 却是月面亮的部分逐渐增大；wax enthusiastic 是越来越热情，走另一条“增长、渐变”的旧动词线。",
+    "split": "材料名承古英语 weax；涂蜡动作由材料名形成。增长义承古英语 weaxan，经中古英语 waxen 延续，是另一条近源词形，不能把月亮变大解释成涂上蜡。",
+    "history": [
+      [
+        "古英语 weax → wax",
+        "蜡这一类材料；由材料名形成上蜡动作"
+      ],
+      [
+        "另一条古英语 weaxan → wax",
+        "增长、变大；wax + -y → waxy 通常形容蜡般质地"
+      ]
+    ],
+    "explanation": "candle wax 蜡烛蜡；wax the floor 给地板上蜡；wax and wane 盛衰、消长；wax lyrical 兴致勃勃地赞颂。",
+    "usage": "candle wax；wax the floor；wax and wane。",
+    "contrast": "月亮 waxing 说可见亮面从新月向满月增加，不是整个月球体积变大；wane 是相反方向。",
+    "examples": [
+      [
+        "The candle dripped wax onto the table.",
+        "蜡烛把蜡滴到了桌上。"
+      ],
+      [
+        "Public interest in the topic has waxed and waned.",
+        "公众对这个话题的兴趣时涨时落。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wax#English"
+    ]
+  },
+  {
+    "word": "waxy",
+    "ipa": "/ˈwæksi/",
+    "meaning": "蜡般的；表面有蜡质感的；〔土豆〕煮后较能保持形状的",
+    "sense": "叶子表面像有一层蜡，摸起来光滑、略有阻水感，是 waxy。谈土豆时则常说煮后仍较紧实、能保持块形的口感类型。",
+    "split": "蜡质义承中古英语 waxi、wexy，对应 wax 材料名 + -y。烹饪中又用来分辨土豆质地，与煮后松散粉面的类型对照。",
+    "history": [
+      [
+        "古英语 weax → wax",
+        "蜡这一类材料；由材料名形成上蜡动作"
+      ],
+      [
+        "wax + -y → waxy",
+        "蜡般外观、质地；特定食品质地描述"
+      ]
+    ],
+    "explanation": "waxy leaves 蜡质叶片；a waxy surface 蜡质表面；waxy potatoes 紧实型土豆。",
+    "usage": "waxy leaves；a waxy coating；waxy potatoes。",
+    "contrast": "waxy potatoes 不是土豆被人工涂了蜡；这里描述烹饪质地，常与 floury potatoes 粉质土豆对照。",
+    "examples": [
+      [
+        "The plant has thick, waxy leaves.",
+        "这种植物有厚实、带蜡质感的叶子。"
+      ],
+      [
+        "She chose waxy potatoes for the salad.",
+        "她选了煮后能保持形状的紧实型土豆来做沙拉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waxy#English"
+    ]
+  },
+  {
+    "word": "hay",
+    "ipa": "/heɪ/",
+    "meaning": "干草、饲草",
+    "sense": "把草割下晒干，留给牲畜吃，就是 hay。它最实用的判断点是草料，不是所有干黄色植物茎都笼统叫 hay。",
+    "split": "承古英语 hīeg，经中古英语 hey 到 hay，更早联系砍、割的日耳曼词族。复合词常指出堆放方式、生产地点或装草车辆。",
+    "history": [
+      [
+        "古英语 hīeg → 中古英语 hey → hay",
+        "割下、晒干的草料，联系砍、割的词族"
+      ],
+      [
+        "hay + stack、field、ride；haywire 先为捆草铁丝",
+        "干草堆、草场、乘草车游乐；失控比喻另见 haywire"
+      ]
+    ],
+    "explanation": "a bale of hay 一捆干草；feed hay to horses 给马喂干草；make hay while the sun shines 借晒草要趁晴天，比喻抓住时机。",
+    "usage": "a bale of hay；feed hay to horses；make hay。",
+    "contrast": "hay 通常是割下晒干的饲草；straw 通常是谷物收获后留下的秆，来源和用途重点不同。",
+    "examples": [
+      [
+        "The farmer stacked bales of hay in the barn.",
+        "农民把一捆捆干草堆进谷仓。"
+      ],
+      [
+        "The horses were eating hay.",
+        "马正在吃干草。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hay#English"
+    ]
+  },
+  {
+    "word": "brake",
+    "ipa": "/breɪk/",
+    "meaning": "刹车、制动器；制动、刹车；抑制因素",
+    "sense": "车轮还想转，刹车把它慢下来、停下来，是 brake。a brake on growth 则把增长当成前进的车，说某因素让它慢下来。",
+    "split": "早期 brake 有压碎工具、杠杆、约束器具等用法，现代制动装置义由相关用法发展汇合，细节并非完全确定。制动动词再由装置名形成。",
+    "history": [
+      [
+        "较早 brake 涉及压碎工具、杠杆和约束器具等名称",
+        "具体汇合关系有不同解释"
+      ],
+      [
+        "brake → 制动装置；由名词形成制动动词",
+        "减慢、阻止运动，再比喻抑制进程"
+      ]
+    ],
+    "explanation": "apply the brakes 刹车；brake gently 平缓制动；a brake on progress 阻碍进展的因素。",
+    "usage": "apply the brakes；brake gently；a brake on。",
+    "contrast": "brake 刹车与 break 打破同音，拼写和现代常用意义不同；车辆 brake 不表示把车弄坏。",
+    "examples": [
+      [
+        "The driver braked gently at the corner.",
+        "司机在转角处轻轻刹车。"
+      ],
+      [
+        "Limited storage became a brake on the project’s growth.",
+        "储存空间有限，成了项目扩大的制约。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brake#English",
+      "https://www.etymonline.com/word/brake"
+    ]
+  },
+  {
+    "word": "brakeman",
+    "ipa": "/ˈbreɪkmən/",
+    "meaning": "铁路制动员；雪车运动中的制动手",
+    "sense": "brake 刹车，man 这里命名承担任务的人。历史铁路制动员负责列车制动等工作；雪车比赛里也有负责制动的队员。",
+    "split": "brake + man → brakeman。按职责命名的复合职业、角色词；不同设备与时代使具体任务有所区别。",
+    "history": [
+      [
+        "较早 brake 涉及压碎工具、杠杆和约束器具等名称",
+        "具体汇合关系有不同解释"
+      ],
+      [
+        "brake → 制动装置；由名词形成制动动词",
+        "减慢、阻止运动，再比喻抑制进程"
+      ],
+      [
+        "brake + man → brakeman",
+        "承担制动等职责的人员"
+      ]
+    ],
+    "explanation": "a railway brakeman 铁路制动员；the bobsleigh brakeman 雪车制动手。复数 brakemen，后半 man → men。",
+    "usage": "a railway brakeman；a bobsleigh brakeman。",
+    "contrast": "brakeman 是负责特定职责的人，不等于所有司机、乘务员。",
+    "examples": [
+      [
+        "The old photograph shows a railway brakeman beside the train.",
+        "旧照片里，一名铁路制动员站在列车旁。"
+      ],
+      [
+        "The team’s brakeman joined the final training session.",
+        "队里的制动手参加了最后一场训练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brakeman#English"
+    ]
+  },
+  {
+    "word": "leap",
+    "ipa": "/liːp/",
+    "meaning": "跳跃；跃进；跳跃式推断",
+    "sense": "双脚发力，身体越过一段距离，是 leap。把进步看成一大跳，是 a leap forward；推理少了中间台阶，也会被说成 a leap。",
+    "split": "承古英语 hlēapan，经中古英语 lepen 到 leap，古义范围还包括跑、行进等。现代由身体跳跃扩展到明显进展、跳步推断。",
+    "history": [
+      [
+        "古英语 hlēapan → 中古英语 lepen → leap",
+        "跳、跃，也曾有跑、行进的范围"
+      ],
+      [
+        "leap + frog → leapfrog；elope 经外来形式接跑离词族",
+        "跨过去、超越；跑离后发展为私奔结婚"
+      ]
+    ],
+    "explanation": "leap over 跳过；a leap forward 大幅进展；leap to a conclusion 草率下结论；a leap of faith 缺少充分把握仍作出的信任或行动。",
+    "usage": "leap over；a leap forward；leap to conclusions。",
+    "contrast": "过去式、过去分词可用 leaped /liːpt/ 或 leapt /lept/。推理中的 leap 不一定是好事，可能缺证据。",
+    "examples": [
+      [
+        "The dog leapt over the low wall.",
+        "狗跃过了矮墙。"
+      ],
+      [
+        "That conclusion is a big leap from the evidence.",
+        "从这些证据跳到那个结论，跨度太大了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leap#English"
+    ]
+  },
+  {
+    "word": "leapfrog",
+    "ipa": "英 /ˈliːpfrɒɡ/；美 /ˈliːpfrɑːɡ/",
+    "meaning": "跳背游戏；跃过、越级超过",
+    "sense": "孩子弯腰，后面的人从他背上跃过去，就像青蛙一跳。比喻中也能跳过中间一层，直接赶到前面，成为 leapfrog。",
+    "split": "leap 跳 + frog 蛙，形成游戏名，后有比喻超越和相应动词。核心不是慢慢追上，而是跨过一段、越过前者。",
+    "history": [
+      [
+        "古英语 hlēapan → 中古英语 lepen → leap",
+        "跳、跃，也曾有跑、行进的范围"
+      ],
+      [
+        "leap + frog → leapfrog → 超越、跨越式发展",
+        "游戏中的跃过前一人 → 跳过阶段或超过对手"
+      ]
+    ],
+    "explanation": "play leapfrog 玩跳背；leapfrog a rival 越过对手；leapfrog older technology 跨过旧一代技术。",
+    "usage": "play leapfrog；leapfrog a rival。",
+    "contrast": "leapfrog 往往突出跳过中间位置、阶段；普通 improve 只说明变好，不含越级意味。",
+    "examples": [
+      [
+        "The children played leapfrog on the lawn.",
+        "孩子们在草坪上玩跳背游戏。"
+      ],
+      [
+        "The small firm hoped to leapfrog its larger rivals.",
+        "这家小公司希望一举超过规模更大的对手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leapfrog#English"
+    ]
+  },
+  {
+    "word": "elope",
+    "ipa": "英 /ɪˈləʊp/；美 /ɪˈloʊp/",
+    "meaning": "私奔；秘密或低调地外出结婚",
+    "sense": "原来的画面是跑离原处，后来常说一对人离开家人、社会安排去结婚。现代也可只强调悄悄、小规模地结婚，不一定真的有人追赶或父母反对。",
+    "split": "早期有跑离义，具体借入路线涉及盎格鲁法语 aloper 与荷兰语跑离形式等，词源细节有争议。共同联系与 leap、lope 同族的跑、跃材料；不是现代 e- 加上英语单词 lope 就完成全部历史。",
+    "history": [
+      [
+        "古英语 hlēapan → 中古英语 lepen → leap",
+        "跳、跃，也曾有跑、行进的范围"
+      ],
+      [
+        "法语、荷兰语的跑离相关形式 → elope",
+        "跑离 → 私奔、秘密结婚；具体借入路线有争议"
+      ]
+    ],
+    "explanation": "elope with someone 与某人私奔、秘密结婚；elope to a place 到某地低调结婚。",
+    "usage": "elope with；elope to。",
+    "contrast": "marry 只说结婚；elope 还带离开原有安排、秘密或不办公开大婚礼的意味，现代语境范围较旧义宽。",
+    "examples": [
+      [
+        "They eloped and told their families a week later.",
+        "他们悄悄结了婚，一周后才告诉家人。"
+      ],
+      [
+        "The couple decided to elope rather than organise a large wedding.",
+        "这对情侣决定低调外出结婚，不办大型婚礼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elope#English",
+      "https://www.etymonline.com/word/elope"
+    ]
+  },
+  {
+    "word": "skeleton",
+    "ipa": "/ˈskelɪtən/",
+    "meaning": "骨架、骨骼；基本框架、提纲",
+    "sense": "拿掉外面的血肉，留下支撑身体的骨架，是 skeleton 最鲜明的形象。文章、计划、建筑也能先有一副骨架，再往上填细节。",
+    "split": "借新拉丁语 sceleton，上接希腊语 skeletos 干枯的及其中性形式，联系干燥躯体。后来从骨架推广为事物的支撑、基本框架。",
+    "history": [
+      [
+        "希腊语 skeletos 干枯的、干燥躯体 → 新拉丁语 sceleton → skeleton",
+        "骨架，后来泛指支撑结构、框架"
+      ],
+      [
+        "skelet- + -al → skeletal；cyto- + skeleton → cytoskeleton",
+        "骨骼的、只剩框架的；细胞骨架"
+      ]
+    ],
+    "explanation": "a human skeleton 人体骨架；the skeleton of a plan 计划框架；a skeleton crew 维持运作所需的最少人员。",
+    "usage": "a human skeleton；the skeleton of a plan；a skeleton crew。",
+    "contrast": "skeleton 不只等于单根 bone；它是骨架或整体支撑系统。skeleton crew 也不是说员工很瘦。",
+    "examples": [
+      [
+        "The museum displayed a complete dinosaur skeleton.",
+        "博物馆展出一副完整的恐龙骨架。"
+      ],
+      [
+        "We agreed on the skeleton of the report before adding details.",
+        "我们先定下报告的框架，再补细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skeleton#English"
+    ]
+  },
+  {
+    "word": "skeletal",
+    "ipa": "/ˈskelɪtəl/",
+    "meaning": "骨骼的；骨瘦如柴的；只有框架的",
+    "sense": "skeleton 是骨架，skeletal 说明与骨架有关。a skeletal outline 则像只搭了几根骨头的提纲，主要支点有了，细节还没长出来。",
+    "split": "在 skeleton 的 skelet- 词干上接 -al → skeletal，不是保留整个 skeleton 再接成 skeletonal。由骨骼相关引出消瘦、缺乏细节等形象。",
+    "history": [
+      [
+        "希腊语 skeletos 干枯的、干燥躯体 → 新拉丁语 sceleton → skeleton",
+        "骨架，后来泛指支撑结构、框架"
+      ],
+      [
+        "skelet- + -al → skeletal；cyto- + skeleton → cytoskeleton",
+        "骨骼的、只剩框架的；细胞骨架"
+      ]
+    ],
+    "explanation": "the skeletal system 骨骼系统；skeletal remains 骨骸；a skeletal outline 简略框架。",
+    "usage": "the skeletal system；a skeletal outline。",
+    "contrast": "skeletal 在提纲语境说缺少细节，在人体语境可说骨骼有关；不一律指瘦。",
+    "examples": [
+      [
+        "The lesson introduces the human skeletal system.",
+        "这节课介绍人体骨骼系统。"
+      ],
+      [
+        "The document provides only a skeletal outline of the proposal.",
+        "文件只给出提案的大致框架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skeletal#English"
+    ]
+  },
+  {
+    "word": "cytoskeleton",
+    "ipa": "英 /ˌsaɪtəʊˈskelɪtən/；美 /ˌsaɪtoʊˈskelɪtən/",
+    "meaning": "细胞骨架",
+    "sense": "把细胞想成会变形、运输物品的小空间：里面的蛋白质纤维网络既支撑形状，也帮忙移动和分配东西。这张能不断重组的网叫 cytoskeleton。",
+    "split": "cyto- 细胞 + skeleton 骨架。借身体骨架的支撑比喻命名细胞内部纤维系统；它不是细胞里真的长了骨头，也不是细胞之间的外部支架。",
+    "history": [
+      [
+        "希腊语 skeletos 干枯的、干燥躯体 → 新拉丁语 sceleton → skeleton",
+        "骨架，后来泛指支撑结构、框架"
+      ],
+      [
+        "cyto- + skeleton → cytoskeleton",
+        "细胞内部起支撑、运动与组织作用的纤维网络"
+      ]
+    ],
+    "explanation": "the cell’s cytoskeleton 细胞骨架；cytoskeleton organisation 细胞骨架的组织方式。它可参与细胞形状维持、运动、分裂等。",
+    "usage": "the cell’s cytoskeleton；the structure of the cytoskeleton。",
+    "contrast": "cytoskeleton 位于细胞内部，且具有动态变化；exoskeleton 是外骨骼，位置和具体结构不同。",
+    "examples": [
+      [
+        "The cytoskeleton helps the cell maintain its shape.",
+        "细胞骨架帮助细胞维持形状。"
+      ],
+      [
+        "The animation shows the cytoskeleton reorganising as the cell divides.",
+        "动画展示了细胞分裂时骨架重新组织的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cytoskeleton#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cytoskeleton",
+      "https://www.ncbi.nlm.nih.gov/books/NBK9893/"
+    ]
+  }
+]

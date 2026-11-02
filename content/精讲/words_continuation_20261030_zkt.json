@@ -1,0 +1,649 @@
+[
+  {
+    "word": "aspen",
+    "ipa": "英、美 /ˈæspən/",
+    "meaning": "山杨类树木；杨木",
+    "sense": "细长树干，叶片在风里不停颤动，这类杨树常叫 aspen。英语里也用它的叶子比喻一个人瑟瑟发抖。",
+    "split": "接古英语 æspe 杨树名的相关形容词或属格形式，中古英语形成 aspen。现代树名可能从 aspen leaf、aspen bark 这类搭配中的修饰形式固定下来。",
+    "history": [
+      [
+        "古英语 æspe 树名 → 相关 æspen 等形式",
+        "旧树名形成表示相关、材料等性质的词形"
+      ],
+      [
+        "aspen leaf、aspen bark 等修饰用法 → aspen 树名",
+        "不是现代英语临时给一个常用树名再加使动后缀"
+      ]
+    ],
+    "explanation": "an aspen tree 是一棵山杨类树；aspen leaves 是这类树叶；tremble like an aspen leaf 是像杨树叶一样发抖。",
+    "usage": "an aspen tree；aspen leaves；tremble like an aspen leaf。",
+    "contrast": "aspen 属杨树名称，poplar 是较广的杨树叫法。这里的 -en 历史联系树名的相关形式，不像 widen 那样说使变宽。",
+    "examples": [
+      [
+        "An aspen stood at the edge of the clearing.",
+        "空地边缘立着一棵山杨。"
+      ],
+      [
+        "The wind made the aspen leaves tremble.",
+        "风吹得杨树叶不停颤动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aspen#English",
+      "https://www.etymonline.com/word/aspen"
+    ]
+  },
+  {
+    "word": "linden",
+    "ipa": "英、美 /ˈlɪndən/",
+    "meaning": "椴树；椴木",
+    "sense": "街边一棵枝叶舒展的椴树，树名可以叫 linden。这个英语名称原先更像是椴树的、椴木的，后来直接成了树名。",
+    "split": "接古英语 lind 椴树的相关形容词 linden，含旧 -en 关系、材料词尾。英语名词由形容词固定下来，历史上也可能受德语相应形式影响。",
+    "history": [
+      [
+        "古英语 lind 椴树 → linden 椴树的、椴木的",
+        "旧材料、关系形容词支线"
+      ],
+      [
+        "相关形容词名词化 → 英语 linden",
+        "现在直接说树木或相应木材"
+      ]
+    ],
+    "explanation": "a linden tree 是一棵椴树；linden wood 是椴木；a row of lindens 是一排椴树。",
+    "usage": "a linden tree；linden wood；a row of lindens。",
+    "contrast": "英式英语也把这类树叫 lime tree；这种 lime 是树名，不是菜谱里酸味水果 lime 的同一个意思。",
+    "examples": [
+      [
+        "We sat beneath a linden in the square.",
+        "我们坐在广场上一棵椴树下面。"
+      ],
+      [
+        "The carver chose a piece of linden wood.",
+        "雕刻者选了一块椴木。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linden#English",
+      "https://www.etymonline.com/word/linden"
+    ]
+  },
+  {
+    "word": "bristle",
+    "ipa": "英、美 /ˈbrɪsəl/",
+    "meaning": "硬毛；刷毛；竖起毛来；动怒、警觉",
+    "sense": "刷子上一根硬硬的毛，是 a bristle。动物一警觉，毛会竖起来；人听到冒犯的话，也像全身竖起硬毛，可以说 bristle。",
+    "split": "接古英语硬毛词 byrst 等，经过音序变化、旧小称材料形成 bristle。英语再由名词形成长满硬毛、毛竖起的动词，并扩展到愤怒、戒备的反应。",
+    "history": [
+      [
+        "古英语硬毛材料及旧小称形式 → bristle",
+        "现代常用读音的 t 不发音"
+      ],
+      [
+        "bristle 硬毛 → 竖毛、警觉 → 人受冒犯而动怒",
+        "实体动作成为情绪反应的画面"
+      ]
+    ],
+    "explanation": "a stiff bristle 是一根硬毛；bristle at a remark 是听到一句话就不高兴、竖起防备；bristle with 可说密布、满是突出的东西。",
+    "usage": "a stiff bristle；bristle at criticism；bristle with。",
+    "contrast": "hair 泛指毛发，bristle 突出粗、硬。bristle at 不一定是已经大声吵起来，也可以是表情、态度突然绷紧。",
+    "examples": [
+      [
+        "A stiff bristle came loose from the brush.",
+        "刷子上掉下来一根硬毛。"
+      ],
+      [
+        "I could see him bristle at the suggestion.",
+        "我看得出来，他一听这个建议就起了抵触。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bristle#English",
+      "https://www.etymonline.com/word/bristle"
+    ]
+  },
+  {
+    "word": "bristly",
+    "ipa": "英、美 /ˈbrɪsli/",
+    "meaning": "硬毛丛生的；毛扎手的；容易动怒、戒备的",
+    "sense": "手碰到短而硬的毛，感觉扎扎的，是 bristly。一个人的态度总是稍碰就刺、很快不高兴，也能用这个词形容。",
+    "split": "bristle 去末尾 e，加完整 -y → bristly。原来 t 的常见不发音特点也保留，常读 /ˈbrɪsli/；不是把每个拼写字母逐个读出来。",
+    "history": [
+      [
+        "bristle 硬毛、竖毛 → 对应 bristly",
+        "英语较早已有相关形容词形式"
+      ],
+      [
+        "bristle 去 e + -y 的现代对应",
+        "硬毛的触感与易被惹恼、带刺的态度两路用法"
+      ]
+    ],
+    "explanation": "a bristly chin 是胡茬扎手的下巴；bristly hair 是硬毛；a bristly manner 是带防备、容易动怒的态度。",
+    "usage": "a bristly chin；bristly hair；a bristly manner。",
+    "contrast": "hairy 说毛多，bristly 还突出短硬、扎手。形容态度时也不只说冷淡，而常有容易被惹起反应的感觉。",
+    "examples": [
+      [
+        "The puppy’s bristly coat felt rough against my hand.",
+        "小狗的硬毛蹭着我的手，感觉粗粗扎扎的。"
+      ],
+      [
+        "Her bristly manner softened as the conversation continued.",
+        "随着谈话继续，她那带刺的态度缓和了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bristly#English",
+      "https://www.etymonline.com/word/bristle"
+    ]
+  },
+  {
+    "word": "brine",
+    "ipa": "英、美 /braɪn/",
+    "meaning": "盐水；腌渍盐水；用盐水浸渍",
+    "sense": "橄榄泡在罐里的咸液体，常叫 brine。核心就是带较多盐的水，也能指用这种盐水浸泡食物的处理。",
+    "split": "经中古英语 brine、bryne 承古英语盐水词，与荷兰语 brijn 等相应。更早来源有不同分析，先从可靠的盐水词链认识，不硬拆一个现代 br-。",
+    "history": [
+      [
+        "古英语盐水词 → 中古英语 brine、bryne → brine",
+        "日耳曼相关语言也有对应形式，远源仍不确定"
+      ],
+      [
+        "brine 盐水名词 → brine 盐水浸渍动词",
+        "同一种材料名称用于相应处理动作"
+      ]
+    ],
+    "explanation": "olives in brine 是盐水渍橄榄；a strong brine 是较浓盐水；brine the meat 是用盐水浸渍肉。",
+    "usage": "in brine；a strong brine；brine the meat。",
+    "contrast": "brine 重点是盐水；marinade 是腌料、腌汁，成分不一定以盐水为主。日常菜谱里的两个名称需按具体液体、做法理解。",
+    "examples": [
+      [
+        "The olives were packed in brine.",
+        "橄榄用盐水浸装在容器里。"
+      ],
+      [
+        "The label lists brine among the ingredients.",
+        "标签把盐水列在了配料中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brine#English",
+      "https://www.etymonline.com/word/brine"
+    ]
+  },
+  {
+    "word": "briny",
+    "ipa": "英、美 /ˈbraɪni/",
+    "meaning": "咸水的；像海水般咸的；带海水气息的",
+    "sense": "海边迎面来的咸湿空气、食物里让人联想到海水的咸味，都可以叫 briny。比普通 salty 多一点盐水、海边的画面。",
+    "split": "brine 盐水去末尾 e，加完整 -y → briny。这个形容词把含盐水、像盐水的性质表达出来，基础词的远古来源仍不确定。",
+    "history": [
+      [
+        "古英语盐水词 → brine",
+        "近源保留盐水这个清楚的核心意思"
+      ],
+      [
+        "brine 去 e + -y → briny",
+        "盐水的性质用于海水、气息、味道等"
+      ]
+    ],
+    "explanation": "briny water 是咸水；briny air 是带海水气息的空气；a briny flavour 是带海水感的咸味。",
+    "usage": "briny water；briny air；a briny flavour。",
+    "contrast": "salty 是更一般的咸，可以说薯片；briny 更容易让人想到盐水、海水。形容空气时，是对海边气息的日常感受描述。",
+    "examples": [
+      [
+        "A briny smell drifted in from the harbour.",
+        "港口飘来一股海水的咸湿气息。"
+      ],
+      [
+        "The soup had a pleasantly briny flavour.",
+        "这汤有一种令人喜欢的海水般咸鲜味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/briny#English",
+      "https://www.etymonline.com/word/brine"
+    ]
+  },
+  {
+    "word": "frill",
+    "ipa": "英、美 /frɪl/",
+    "meaning": "褶边、花边；额外装饰、非必要附加物",
+    "sense": "领口围一圈波浪状的小褶边，是 a frill。把装饰拿掉、保留基本功能，也就引出了 frills 那些可有可无的附加东西。",
+    "split": "英语早期已有装饰边相关用法，更早来源不确定。实体装饰边后来比喻额外花样、非必要的装点，不凭 fr- 或 -ill 去硬凑词根。",
+    "history": [
+      [
+        "英语 frill 装饰褶边",
+        "较早形成仍有不同猜测，保留不确定性"
+      ],
+      [
+        "衣物装饰边 → 额外修饰、附加花样",
+        "常用复数 frills 来谈并非必需的东西"
+      ]
+    ],
+    "explanation": "a frill around the collar 是领口一圈褶边；without frills 是没有多余花样；extra frills 是额外附加设施、装饰。",
+    "usage": "a lace frill；a frill around the collar；without frills。",
+    "contrast": "a feature 是一项特点、功能，a frill 常暗示它只是锦上添花、并非必需。装饰义本身则可以是中性描述。",
+    "examples": [
+      [
+        "A narrow frill ran around the collar.",
+        "领口围着一道窄褶边。"
+      ],
+      [
+        "She considered the ribbon an unnecessary frill.",
+        "她觉得那条丝带是多余的装饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frill#English",
+      "https://www.etymonline.com/word/frill"
+    ]
+  },
+  {
+    "word": "frilly",
+    "ipa": "英、美 /ˈfrɪli/",
+    "meaning": "带褶边、花边的；装饰繁复的",
+    "sense": "袖口、裙摆层层小花边，是 frilly。某种设计塞了很多装饰，看起来过于花哨，也可以用它形容。",
+    "split": "frill + 完整 -y → frilly。frill 原来就有两个 l，直接加 y；基础词来源不定，现代派生关系却很清楚。",
+    "history": [
+      [
+        "frill 装饰褶边 + -y → frilly",
+        "具有相应褶边、装饰的性质"
+      ],
+      [
+        "有花边 → 装饰多、过于花哨",
+        "具体是好看还是过头，由语境和语气决定"
+      ]
+    ],
+    "explanation": "a frilly dress 是带花边的裙子；frilly curtains 是荷叶边窗帘；frilly decoration 可说繁复装饰。",
+    "usage": "a frilly dress；frilly curtains；a frilly blouse。",
+    "contrast": "frilly 说花边、装饰的外观，fancy 范围更宽，可以说精致、豪华或花哨。一个东西很贵，并不必然 frilly。",
+    "examples": [
+      [
+        "She wore a blouse with a frilly collar.",
+        "她穿了一件花边领的衬衫。"
+      ],
+      [
+        "They replaced the frilly curtains with plain ones.",
+        "他们把带褶边的窗帘换成了素净的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frilly#English",
+      "https://www.etymonline.com/word/frill"
+    ]
+  },
+  {
+    "word": "fleck",
+    "ipa": "英、美 /flek/",
+    "meaning": "小斑点；小片、小屑；使布上小斑点",
+    "sense": "深色布料上嵌着一点亮色，或者地面落着一小片白漆，都可以叫 a fleck。它常是小小的点、片，和背景形成区别。",
+    "split": "相关动词、名词接中古英语及北欧、日耳曼斑点词族。动词常联系古诺斯 flekka，名词的具体借入或派生路线有不同分析，不硬排成唯一先后。",
+    "history": [
+      [
+        "北欧、日耳曼斑点材料 → 英语 fleck 名词、动词",
+        "小斑、使带斑的近源联系较清楚"
+      ],
+      [
+        "小斑点 → 小片、小屑的常见扩展",
+        "现代可用于布料、颜色、脱落的材料片等"
+      ]
+    ],
+    "explanation": "a fleck of paint 是一小片漆；a fleck of gold 是一点金色；fleck something with colour 是使带某种颜色的小斑。",
+    "usage": "a fleck of paint；a fleck of colour；flecked with。",
+    "contrast": "fleck 可像小片或颜色点，speck 常强调极小的一点。两词用法有重叠，不能只凭中文斑点或拼写就宣布同源。",
+    "examples": [
+      [
+        "A fleck of white paint landed on his sleeve.",
+        "一小点白漆落在他的袖子上。"
+      ],
+      [
+        "She noticed a fleck of gold in the dark stone.",
+        "她注意到那块深色石头里有一点金色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fleck#English",
+      "https://www.etymonline.com/word/fleck"
+    ]
+  },
+  {
+    "word": "flecked",
+    "ipa": "英、美 /flekt/",
+    "meaning": "布有小斑点、小色点的",
+    "sense": "灰布上零零散散点着白色小点，或头发里夹着一点点灰白，就能用 flecked with 来描述。重点是底色上夹着小点、小片。",
+    "split": "fleck + 完整 -ed → flecked，末音 /k/ 后 -ed 读 /t/。它既可作过去形式，也常作为带有小斑点的形容词。",
+    "history": [
+      [
+        "斑点词 fleck → fleck 使有小斑点",
+        "相关名词和动词属于同一近源词族"
+      ],
+      [
+        "fleck + -ed → flecked",
+        "现代常配 with，说底色中夹着什么小斑点"
+      ]
+    ],
+    "explanation": "flecked with white 是带着白色小点；hair flecked with grey 是夹着灰白发的头发；a flecked surface 是有斑点的表面。",
+    "usage": "flecked with white；flecked with grey；a flecked surface。",
+    "contrast": "striped 是条纹，flecked 是小点、小片状的散布。后面 with 说的常是小点的颜色或材料。",
+    "examples": [
+      [
+        "The grey fabric was flecked with white.",
+        "灰色布料上点缀着白色小斑点。"
+      ],
+      [
+        "His beard was flecked with grey.",
+        "他的胡子里夹杂着灰白色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flecked#English",
+      "https://www.etymonline.com/word/fleck"
+    ]
+  },
+  {
+    "word": "speck",
+    "ipa": "英、美 /spek/",
+    "meaning": "微小的一点；小颗粒；极少量",
+    "sense": "桌面上小得几乎看不见的一粒灰，或者远处一个几乎看不清的点，就是 a speck。先抓住很小、很少。",
+    "split": "经中古英语 spekke 承古英语 specca 小斑点。更远来源有不同分析，现代不必继续硬拆；小斑点义又扩展到微小颗粒、极少量。",
+    "history": [
+      [
+        "古英语 specca 小斑点 → 中古英语 spekke → speck",
+        "更远词源仍有讨论"
+      ],
+      [
+        "小点 → 极小颗粒、远处小点、少得可怜的量",
+        "由可见尺寸扩展到数量上的极少"
+      ]
+    ],
+    "explanation": "a speck of dust 是一粒微尘；a tiny speck in the sky 是天空中一点小黑点；not a speck of dirt 是一点污物也没有。",
+    "usage": "a speck of dust；a tiny speck；not a speck of dirt。",
+    "contrast": "spot 可以是较明显的斑点，也可说地点；speck 常把尺寸压得很小。a speck of dust 的中心词是 speck，dust 仍为不可数物质名。",
+    "examples": [
+      [
+        "A speck of dust rested on the lens.",
+        "镜头上落着一粒微尘。"
+      ],
+      [
+        "The boat was only a speck on the horizon.",
+        "那艘船在地平线上只是一个小点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speck#English",
+      "https://www.etymonline.com/word/speck"
+    ]
+  },
+  {
+    "word": "speckle",
+    "ipa": "英、美 /ˈspekəl/",
+    "meaning": "小斑点；使带斑点",
+    "sense": "鸟蛋、羽毛、石头表面的一点小花斑，可以叫 a speckle。许多这样的点铺开，就有斑斑点点的效果。",
+    "split": "与 speck 的斑点词族相关，具体有中古荷兰语借入、英语相关形式等分析。现代按完整 speckle 认名词、动词，不把 speck+-le 当作已经确定的唯一英语造词史。",
+    "history": [
+      [
+        "speck、相关荷兰语等斑点材料 → speckle",
+        "近源关系明确，具体借入、派生步骤有不同分析"
+      ],
+      [
+        "speckle 小斑点；speckle 使有斑点",
+        "名词、动词对应，实际先后不靠现代拼写硬定"
+      ]
+    ],
+    "explanation": "a brown speckle 是一个棕色小斑；speckle the surface 是使表面带小点。日常描述中形容词 speckled 更常见，也值得一起认。",
+    "usage": "a small speckle；a brown speckle；a speckled surface。",
+    "contrast": "speck 也能说小点，speckle 更常联系表面花斑。光学等领域还有专门用法，这里先掌握普通的斑点画面。",
+    "examples": [
+      [
+        "A brown speckle marked the pale shell.",
+        "浅色壳面上有一个棕色小斑点。"
+      ],
+      [
+        "Tiny dots of paint began to speckle the paper.",
+        "细小漆点开始散落在纸面上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speckle#English",
+      "https://www.etymonline.com/word/speckle"
+    ]
+  },
+  {
+    "word": "speckled",
+    "ipa": "英、美 /ˈspekəld/",
+    "meaning": "斑斑点点的；有散布小斑点的",
+    "sense": "浅色鸟蛋上散着棕色小点，或石面混着许多深色小点，可以说 speckled。它描写的是整片表面的点状花纹。",
+    "split": "speckle 去词末不发音 e，加完整 -ed → speckled。/l/ 后后缀读 /d/；现代形容词接斑点名词、动词词族，早期借入与派生细节有不同分析。",
+    "history": [
+      [
+        "斑点词族 → speckle 名词、动词",
+        "具体借入、形成不压成一条确定的现代拼词链"
+      ],
+      [
+        "speckle 去 e + -ed → speckled",
+        "词形成为常用的表面花斑描述"
+      ]
+    ],
+    "explanation": "a speckled egg 是带斑点的蛋；speckled feathers 是带细斑的羽毛；speckled with brown 是点着棕色斑点。",
+    "usage": "a speckled egg；speckled feathers；speckled with brown。",
+    "contrast": "spotted 范围较广，speckled 常让人想到许多散布的小点；striped 则是条纹。判断时先看花纹形态。",
+    "examples": [
+      [
+        "The nest held three speckled eggs.",
+        "鸟巢里有三枚带斑点的蛋。"
+      ],
+      [
+        "The pale stone was speckled with darker grains.",
+        "浅色石头上散布着深色颗粒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speckled#English",
+      "https://www.etymonline.com/word/speckle"
+    ]
+  },
+  {
+    "word": "freckle",
+    "ipa": "英、美 /ˈfrekəl/",
+    "meaning": "雀斑；小色斑",
+    "sense": "鼻梁、脸颊上小小的棕色斑点，常叫 a freckle。这个词先按皮肤上的一点小色斑来记，不必从字母拼出一个生硬定义。",
+    "split": "经中古英语 frekel、freken 等形式，通常联系古诺斯 freknur 雀斑的复数形式。更远常追到散布的材料；现代按整个 freckle 认词基，不把 -cle 直接套成拉丁指小词尾。",
+    "history": [
+      [
+        "北欧雀斑词及中古英语相关形式 → freckle",
+        "早期词形有变化，不能按现代每段拼写直接拆回历史"
+      ],
+      [
+        "freckle 雀斑 → 也可说小色斑；名词转作使带小点的动词",
+        "皮肤画面是最值得先掌握的常见用法"
+      ]
+    ],
+    "explanation": "a freckle on the nose 是鼻子上一点雀斑；a face covered in freckles 是布满雀斑的脸；freckled 是有雀斑的形容词。",
+    "usage": "a freckle on the nose；a few freckles；a freckled face。",
+    "contrast": "freckle 常指雀斑这一类小色斑，spot 范围宽得多。仅凭英语名称和外观描述，不把所有皮肤小点都归成同一种。",
+    "examples": [
+      [
+        "A small freckle sat just below her eye.",
+        "她眼睛下方有一小点雀斑。"
+      ],
+      [
+        "The artist added a freckle to the portrait’s nose.",
+        "画家在肖像的鼻子上添了一点雀斑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/freckle#English",
+      "https://www.etymonline.com/word/freckle"
+    ]
+  },
+  {
+    "word": "freckled",
+    "ipa": "英、美 /ˈfrekəld/",
+    "meaning": "有雀斑的；布着小色斑的",
+    "sense": "a freckled face 是长着雀斑的脸。它把一颗颗小色点当作脸部或其他表面的外观特点来描述。",
+    "split": "freckle 去词末不发音 e，加完整 -ed → freckled。/l/ 后 -ed 读 /d/；中古英语已有对应形容词，现代可清楚对应整个 freckle 词基。",
+    "history": [
+      [
+        "北欧、英语雀斑词 → freckle、较早 freckled 对应形式",
+        "早期英语已用相应形式描述带斑的外观"
+      ],
+      [
+        "freckle 去 e + 完整 -ed → freckled 的现代对应",
+        "主要形容有雀斑，也可扩展到布着小色斑"
+      ]
+    ],
+    "explanation": "a freckled face 是雀斑脸；freckled cheeks 是有雀斑的脸颊；freckled skin 是长着雀斑的皮肤。",
+    "usage": "a freckled face；freckled cheeks；freckled skin。",
+    "contrast": "freckled 通常是中性外观描写，不自动评价漂亮或难看。flecked 常泛指夹杂小色点，freckled 更容易联系皮肤上的雀斑。",
+    "examples": [
+      [
+        "The portrait shows a child with a freckled face.",
+        "肖像画里是个长着雀斑的孩子。"
+      ],
+      [
+        "Her freckled cheeks were easy to recognise in the old photograph.",
+        "在那张老照片里，她长着雀斑的脸颊很容易辨认。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/freckled#English",
+      "https://www.etymonline.com/word/freckle"
+    ]
+  },
+  {
+    "word": "shackles",
+    "ipa": "英、美 /ˈʃækəlz/",
+    "meaning": "镣铐；束缚、桎梏；束缚〔动词第三人称形式〕",
+    "sense": "金属环和链条限制手脚，是 shackles 的实体画面。让人不能自由行动、改变生活的习惯或规矩，也像无形镣铐。",
+    "split": "名词 shackle + 完整 -s → shackles，/l/ 后读 /z/；也可为动词 shackle 的第三人称。shackle 承古英语链环、镣铐词，远源有争议，不确定从现代 shake 派生。",
+    "history": [
+      [
+        "古英语 sceacul 等扣件、镣铐词 → shackle",
+        "更远来源不定，与 shake 的联系也受到质疑"
+      ],
+      [
+        "shackle + -s → shackles",
+        "多个扣环、镣铐 → 抽象限制；动词形态另按句法判断"
+      ]
+    ],
+    "explanation": "iron shackles 是铁镣铐；the shackles of convention 是习俗束缚；break free from the shackles of something 是摆脱某种桎梏。",
+    "usage": "iron shackles；the shackles of habit；free from the shackles of。",
+    "contrast": "chains 泛指链条，shackles 常突出扣住、限制自由的装置或作用。比喻束缚时常用复数，动词 shackles 则要看它前后的主语、宾语。",
+    "examples": [
+      [
+        "The museum display included a pair of iron shackles.",
+        "博物馆的展品中有一副铁镣铐。"
+      ],
+      [
+        "The novel describes a woman escaping the shackles of convention.",
+        "小说描写了一位女性摆脱习俗束缚的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shackles#English",
+      "https://www.etymonline.com/word/shackle"
+    ]
+  },
+  {
+    "word": "thicket",
+    "ipa": "英、美 /ˈθɪkɪt/",
+    "meaning": "密生灌丛、小树丛；纷繁难理的一团事情",
+    "sense": "灌木、小树长得挤在一起，枝条挡住视线和去路，是 a thicket。规则、手续密密麻麻，也能像这样挡在人面前。",
+    "split": "接古英语 þiccet，由 þicce 密、厚与旧本族名词尾 -et 形成。英语记录中的延续、再出现有讨论；现代对应 thick 的密生义，不把 -et 一律说成法语小称。",
+    "history": [
+      [
+        "古英语 thick 的对应形式 + 旧名词尾 -et → þiccet",
+        "密生的一丛植物"
+      ],
+      [
+        "英语 thicket → a thicket of rules 等比喻",
+        "由枝叶密布、难穿过，转向事情纷繁、难理清"
+      ]
+    ],
+    "explanation": "a dense thicket 是密密的灌丛；a thicket of bushes 是一丛浓密灌木；a thicket of regulations 是繁杂规章。",
+    "usage": "a dense thicket；a thicket of bushes；a thicket of regulations。",
+    "contrast": "forest 可以是大片森林，thicket 常是密生的灌木或小树丛。比喻用法突出密、乱、难通过，而不只是数量多。",
+    "examples": [
+      [
+        "A rabbit disappeared into the thicket.",
+        "一只兔子钻进密灌丛，不见了。"
+      ],
+      [
+        "The proposal became lost in a thicket of regulations.",
+        "提案陷入了繁杂规章之中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thicket#English",
+      "https://www.etymonline.com/word/thicket"
+    ]
+  },
+  {
+    "word": "cliché",
+    "ipa": "英 /ˈkliːʃeɪ/；美 /kliˈʃeɪ/",
+    "meaning": "陈词滥调；用滥了的套路",
+    "sense": "一句话本来有力量，被无数人照着说，后来一听就猜得到、没了新意，就是 cliché。电影里的老套路也可以这样叫。",
+    "split": "借法语 cliché，原为印刷整版复制用的版块名称，形式来自 clicher 的过去分词；该动词常被认为有敲击声的拟声背景。不断复制同一版，成为陈旧套话的比喻。",
+    "history": [
+      [
+        "法语印刷术语 cliché → 英语版块名称",
+        "近源为完整借词；更早敲击声解释带可能性"
+      ],
+      [
+        "同版可反复复制 → 陈词滥调、老套情节",
+        "也可写 cliche；英语形容词常用 clichéd、cliched"
+      ]
+    ],
+    "explanation": "an old cliché 是老套话；a romantic cliché 是爱情故事的老套路；avoid a cliché 是避免落入俗套。",
+    "usage": "an old cliché；a familiar cliché；avoid clichés。",
+    "contrast": "a familiar phrase 只是熟悉的表达，cliché 常带用滥、没新意的评价。常见说法不一定都要摒弃，先看它在具体文章中是否还有内容。",
+    "examples": [
+      [
+        "The film turns a familiar cliché into a fresh joke.",
+        "这部电影把一个熟悉的老套路变成了新鲜笑料。"
+      ],
+      [
+        "The editor replaced a cliché with a concrete description.",
+        "编辑把一句套话改成了具体描述。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cliché#English",
+      "https://www.etymonline.com/word/cliche"
+    ]
+  },
+  {
+    "word": "clichéd",
+    "ipa": "英 /ˈkliːʃeɪd/；美 /kliˈʃeɪd/",
+    "meaning": "老套的；陈腐、落入俗套的",
+    "sense": "台词说得像套好的模板，情节走到哪都猜得出，是 clichéd。它不只是出现过，而是重复到失去了新意。",
+    "split": "cliché + 完整 -ed → clichéd，现代形容词说具有陈词滥调的性质。常见拼写保留原词尾 é、只添 d；é 仍读 /eɪ/，后缀读 /d/。也可写 cliched。",
+    "history": [
+      [
+        "法语印刷术语 → 英语 cliché 陈词滥调",
+        "英语先整体借入这一名称及其意义扩展"
+      ],
+      [
+        "cliché + -ed → clichéd",
+        "现代英语性质形容词；不能把它与法语原词的过去分词层混为一层"
+      ]
+    ],
+    "explanation": "clichéd dialogue 是老套台词；a clichéd ending 是落俗套的结尾；a clichéd phrase 是陈腐套话。",
+    "usage": "clichéd dialogue；a clichéd ending；a clichéd phrase。",
+    "contrast": "predictable 强调可预料，clichéd 还带用滥的感觉。一个结尾合乎逻辑、能预料，并不自动意味着它落入俗套。",
+    "examples": [
+      [
+        "The dialogue sounded clichéd and unconvincing.",
+        "台词听起来老套，缺乏说服力。"
+      ],
+      [
+        "She avoided a clichéd ending for the story.",
+        "她没有给故事安排一个落入俗套的结尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clichéd#English",
+      "https://www.etymonline.com/word/cliche",
+      "https://en.wiktionary.org/wiki/clich%C3%A9d#English"
+    ]
+  }
+]

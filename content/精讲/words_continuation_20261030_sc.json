@@ -1,0 +1,460 @@
+[
+  {
+    "word": "groom",
+    "ipa": "/ɡruːm/",
+    "meaning": "新郎；马夫；梳洗、打理；培养、准备；诱骗〔特定伤害语境〕",
+    "sense": "先想到马夫把马刷得整齐，再看到人打理自己、为一个角色做准备。婚礼中的 groom 则是 bridegroom 的缩短，两路历史后来形式相同。",
+    "split": "中古英语 grom、grome 指男孩、侍从，远源不明，后来专指照料马匹者，再发展出梳理、培养动词。新郎义缩自 bridegroom；其中原来的 guma 男人又曾受侍从 groom 影响而改变词形。",
+    "history": [
+      [
+        "中古英语 grom、grome：男孩、侍从 → 马夫",
+        "照料马匹者及梳理、打理动作"
+      ],
+      [
+        "梳理、准备的引申",
+        "打理外表；培养任职；特定虐待语境的诱骗"
+      ],
+      [
+        "bridegroom → 新郎 groom",
+        "由婚礼人物名称缩短而来的另一常用义"
+      ]
+    ],
+    "explanation": "groom a dog 给狗梳洗；groom someone for leadership 培养某人担当领导；the bride and groom 新娘与新郎。伤害语境还可说以利用、性侵等目的进行诱骗、操控。",
+    "usage": "personal appearance；groom for a role；the bride and groom。",
+    "contrast": "groom 的培养义不自动是坏事；伤害语境中的目的改变整词的评价。新郎义也不应由马夫今天的工作身份直接推出来。",
+    "examples": [
+      [
+        "The groom smiled as the bride entered.",
+        "新娘进来时，新郎笑了。"
+      ],
+      [
+        "She grooms the dog every Saturday.",
+        "她每周六给狗梳洗。"
+      ],
+      [
+        "She is being groomed for a leadership role.",
+        "她正在被培养，以担任领导角色。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/groom"
+    ]
+  },
+  {
+    "word": "bridegroom",
+    "ipa": "/ˈbraɪdɡruːm/",
+    "meaning": "新郎",
+    "sense": "bride 是新娘，后面的旧材料原来就是男人；合起来是婚礼中的男方。今天日常常直接缩成 groom。",
+    "split": "古英语 brȳdguma = brȳd 新娘 + guma 男人，经中古英语 bridegome 等延续。guma 后来不再常用，词形受到熟悉的 groom 影响，加入 r；后来又有 groom 的新郎缩略义。",
+    "history": [
+      [
+        "古英语 brȳd + guma → brȳdguma",
+        "新娘 + 男人的旧复合词"
+      ],
+      [
+        "中古英语 bridegome → bridegroom",
+        "末部受熟悉词 groom 的形式影响"
+      ],
+      [
+        "bridegroom → groom",
+        "现代常见缩短称呼"
+      ]
+    ],
+    "explanation": "the bridegroom and his family 新郎及家人；congratulate the bridegroom 祝贺新郎。完整形式比单独 groom 更明确指婚礼人物。",
+    "usage": "a nervous bridegroom；the bride and bridegroom。",
+    "contrast": "bridegroom 的历史不是新娘雇的马夫；原来的 guma 是男人这一旧词。groomsman 则是伴郎等婚礼侍从称呼。",
+    "examples": [
+      [
+        "The bridegroom waited at the front of the hall.",
+        "新郎在大厅前方等候。"
+      ],
+      [
+        "Friends congratulated the bridegroom after the ceremony.",
+        "仪式后，朋友们向新郎表示祝贺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bridegroom#English"
+    ]
+  },
+  {
+    "word": "groomer",
+    "ipa": "英 /ˈɡruːmə/；美 /ˈɡruːmər/",
+    "meaning": "宠物美容师、梳理者；虐待语境中的诱骗者",
+    "sense": "宠物店里是洗护、修整毛发的人；伤害语境中又可指以利用、性侵等目的操控他人的人。对象、目的决定是哪种角色。",
+    "split": "groom + -er，人物后缀指执行相应动作的人。groom 先有照料、梳理、准备等用法，人物词也随不同动作义分化。",
+    "history": [
+      [
+        "groom 的打理、准备等动词义 + -er",
+        "承担相应工作或行为的人"
+      ],
+      [
+        "不同语境的 groomer",
+        "宠物洗护职业；伤害语境中的诱骗者"
+      ]
+    ],
+    "explanation": "a dog groomer 狗美容师；a professional groomer 专业洗护人员；online groomer 在虐待相关语境指网络诱骗者。",
+    "usage": "a pet groomer；a visit to the groomer。",
+    "contrast": "pet groomer 是普通职业名称；伤害语境的 groomer 取的是另一动作义，不能只凭词尾 -er 合并成同一种评价。",
+    "examples": [
+      [
+        "The groomer carefully trimmed the dog’s coat.",
+        "宠物美容师仔细修整了狗的毛。"
+      ],
+      [
+        "The report warned about online groomers.",
+        "报告提醒人们注意网络诱骗者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/groomer#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/grooming"
+    ]
+  },
+  {
+    "word": "grooming",
+    "ipa": "/ˈɡruːmɪŋ/",
+    "meaning": "梳洗、仪容打理；培养、准备；诱骗操控〔特定伤害语境〕",
+    "sense": "平常可以是整理头发、给动物梳毛；新闻里的 online grooming 却常涉及为利用、性侵而进行的诱骗。读的时候先找对象和目的。",
+    "split": "groom + -ing，动词活动名词化。照料、梳理义后有整理外表、为角色作准备等扩展，再发展出特定伤害行为的用法。",
+    "history": [
+      [
+        "groom + -ing",
+        "把打理、培养等动作作为活动来谈"
+      ],
+      [
+        "不同活动语境中的 grooming",
+        "仪容洗护；任职准备；虐待相关诱骗"
+      ]
+    ],
+    "explanation": "personal grooming 仪容打理；pet grooming 宠物洗护；grooming for a role 为某种角色作培养；online grooming 网络诱骗。",
+    "usage": "grooming products；regular grooming。",
+    "contrast": "grooming 不是所有语境都表示犯罪；也不只清洁，角色准备、伤害性诱骗等是另外已固定的语义分支。",
+    "examples": [
+      [
+        "Regular grooming keeps the dog’s coat tidy.",
+        "定期梳理能让狗的毛保持整齐。"
+      ],
+      [
+        "The article examined online grooming and abuse.",
+        "文章探讨了网络诱骗与虐待。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/grooming"
+    ]
+  },
+  {
+    "word": "stitch",
+    "ipa": "/stɪtʃ/",
+    "meaning": "一针、针脚；缝合、拼接；岔气样侧腹刺痛",
+    "sense": "针穿一下留下一个针脚，很多针脚把两块布接起来；照片也能像缝布一样 stitch together，拼成一张大图。",
+    "split": "接古英语 stice 刺、针刺感等，经中古英语 stiche 延续，与 stick 的刺入词族有关。身体刺痛义很早已有，缝纫针脚义后来固定；现代拼图像借用缝接关系。",
+    "history": [
+      [
+        "古英语 stice → 中古英语 stiche",
+        "刺、刺痛等材料"
+      ],
+      [
+        "缝纫中的 stitch",
+        "一次针穿、一段针脚；把材料缝合"
+      ],
+      [
+        "现代拼接及固定习语",
+        "拼接照片；in stitches 笑得肚子痛"
+      ]
+    ],
+    "explanation": "a few neat stitches 几针整齐针脚；stitch photos together 拼接照片；a stitch in the side 侧腹突然刺痛；in stitches 笑得肚子痛。",
+    "usage": "stitch up；stitch together；keep someone in stitches。",
+    "contrast": "sew 泛说缝纫；stitch 更容易突出一次针穿、一段针脚，或把材料、图像接起来这件事。侧腹刺痛义则保留较早的刺痛关系。",
+    "examples": [
+      [
+        "She repaired the tear with a few neat stitches.",
+        "她用几针整齐的针脚补好了裂口。"
+      ],
+      [
+        "The program stitched several photos into a panorama.",
+        "程序把几张照片拼接成一幅全景图。"
+      ],
+      [
+        "The story had us all in stitches.",
+        "那个故事让我们都笑得肚子痛。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/stitch"
+    ]
+  },
+  {
+    "word": "rum",
+    "ipa": "/rʌm/",
+    "meaning": "朗姆酒；古怪、可疑的〔英式口语等〕",
+    "sense": "rum cake 是带朗姆酒风味的蛋糕；a rum fellow 则可能是古怪的家伙。酒名修饰和古怪形容词，得看完整搭配。",
+    "split": "酒名十七世纪加勒比相关语境已见，常认为缩自 rumbullion 等早期名称，但这些名称远源也未定。形容词另有旧俚语 rome、rum，原可说好、贵重，后来有古怪义，具体关系也有不同分析。",
+    "history": [
+      [
+        "十七世纪酒名 rum；可能与 rumbullion 等缩短相关",
+        "甘蔗汁、糖蜜等制成的蒸馏酒"
+      ],
+      [
+        "旧俚语 rum／rome → 后来的古怪义",
+        "另一组形容词材料，历史联系有争论"
+      ]
+    ],
+    "explanation": "a glass of rum 一杯朗姆酒；rum flavour 朗姆风味；a rum business 一件古怪、让人疑惑的事。后一个是较有地域、时代口吻的用法。",
+    "usage": "dark rum；rum cake；a rum fellow。",
+    "contrast": "rummy 纸牌游戏的名称来历不明，不能见到 rum 就判定是喝酒游戏；a rum cake 与 a rum fellow 也选不同词义。",
+    "examples": [
+      [
+        "The cake had a mild flavour of rum.",
+        "蛋糕带着淡淡的朗姆酒风味。"
+      ],
+      [
+        "“That is a rum business,” the old man said.",
+        "老人说：“那真是件古怪的事。”"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/rum"
+    ]
+  },
+  {
+    "word": "rummy",
+    "ipa": "/ˈrʌmi/",
+    "meaning": "拉米纸牌游戏；酒气、古怪等形容词用法〔不同分支〕",
+    "sense": "最常见可以是一类通过凑牌组、顺子来玩的纸牌游戏。词形像 rum + -y，却不能因此认定牌名就是朗姆酒派生出来的。",
+    "split": "纸牌名称的准确来源未定，有与牌局俚语、rum 等相联系的说法，也有别的分析。另一些 rummy 形容词确实可按 rum + -y 分析，取酒或古怪的相关义。",
+    "history": [
+      [
+        "纸牌名 rummy 的早期形成",
+        "具体来源未定，不能强定一条演化路线"
+      ],
+      [
+        "现代牌名；另有 rum + -y 形容词分支",
+        "拉米游戏；依语境的酒、古怪性质"
+      ]
+    ],
+    "explanation": "play rummy 玩拉米纸牌；a game of rummy 一局拉米游戏。说牌名时通常用作不可数名称。",
+    "usage": "a rummy game；play rummy with friends。",
+    "contrast": "rummy 的牌名是固定名词；形容词 rum + -y 的透明拆分，不足以证明牌名也走完全相同的历史。",
+    "examples": [
+      [
+        "We played rummy after dinner.",
+        "晚饭后我们玩了拉米纸牌。"
+      ],
+      [
+        "She taught her cousins a simple version of rummy.",
+        "她教表亲们玩一种简单版本的拉米游戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rummy#English"
+    ]
+  },
+  {
+    "word": "wedge",
+    "ipa": "/wedʒ/",
+    "meaning": "楔子；楔形物、一角；挤进、楔住；造成隔阂",
+    "sense": "一头薄、一头厚，往缝里推能撑开或卡住东西，就是楔子的画面。把人硬塞进狭小空间，或在朋友间制造隔阂，也能借它来讲。",
+    "split": "接古英语 wecg、中古英语 wegge 等，属于日耳曼语楔子词族，更远来源未定。动词由名词发展，楔形切块、隔开人群的比喻再扩展。",
+    "history": [
+      [
+        "古英语 wecg → 中古英语 wegge",
+        "楔形工具"
+      ],
+      [
+        "名词转动词及形状扩展",
+        "楔住、挤入；一角、一块楔形物"
+      ],
+      [
+        "隔开关系的比喻",
+        "drive a wedge between 使产生隔阂"
+      ]
+    ],
+    "explanation": "a wooden wedge 木楔；a wedge of cheese 一角奶酪；wedge a door open 用东西楔住门；drive a wedge between friends 挑拨朋友关系。",
+    "usage": "wedge into；wedge between；a wedge of。",
+    "contrast": "edge 是边缘，wedge 是楔形物、楔入，不能把首字母 w 当可有可无；slice 一片不一定呈楔形。",
+    "examples": [
+      [
+        "He slid a wooden wedge under the door.",
+        "他把一个木楔塞到门下面。"
+      ],
+      [
+        "She cut a wedge of cheese.",
+        "她切了一角奶酪。"
+      ],
+      [
+        "The rumour drove a wedge between the two friends.",
+        "那个传闻让两个朋友产生了隔阂。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/wedge"
+    ]
+  },
+  {
+    "word": "wedgie",
+    "ipa": "/ˈwedʒi/",
+    "meaning": "内裤夹进臀缝的不适；扯内裤的恶作剧〔口语〕",
+    "sense": "衣物卡进狭小缝隙，挤得不舒服；这里借 wedge 楔住、夹进去的画面来叫这种状态。",
+    "split": "wedge + -ie。较早记录还有楔跟鞋的口语名称，后来也用于内裤被夹住的不适、相关恶作剧；各义都与楔形、卡入的材料有关，不必假定后一个一定先经过鞋名。",
+    "history": [
+      [
+        "wedge + -ie",
+        "楔形物、卡入状态的口语命名"
+      ],
+      [
+        "后来常见的衣物相关 wedgie",
+        "内裤夹进臀缝的不适；相关恶作剧"
+      ]
+    ],
+    "explanation": "give someone a wedgie 可说衣物造成这种不适，也可在人物作主语时指恶作剧；have a wedgie 内裤夹住了。",
+    "usage": "an uncomfortable wedgie；get a wedgie。",
+    "contrast": "wedge 是广泛的楔子、楔住，wedgie 是固定口语名词，不能把每种夹缝都叫 wedgie。",
+    "examples": [
+      [
+        "These shorts keep giving me a wedgie.",
+        "这条短裤老让我里面的衣物夹得不舒服。"
+      ],
+      [
+        "He stopped running to fix an uncomfortable wedgie.",
+        "他停下跑步，调整夹得不舒服的内裤。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/wedge"
+    ]
+  },
+  {
+    "word": "hazel",
+    "ipa": "/ˈheɪzəl/",
+    "meaning": "榛树、榛木；榛色、绿褐或黄褐色的〔常说眼睛〕",
+    "sense": "先是结榛子的树；再借成熟榛子的颜色说一类褐色、带绿等综合色。hazel eyes 常译榛色、绿褐色眼睛。",
+    "split": "接古英语 hæsl、hæsel，经中古英语 hasel 延续，属于古老日耳曼语榛树名称，与德语 Hasel 等同族。颜色义由植物、果实的颜色命名发展。",
+    "history": [
+      [
+        "古英语 hæsl、hæsel → 中古英语 hasel",
+        "榛树名称"
+      ],
+      [
+        "英语 hazel 的植物与颜色用法",
+        "榛树、榛木；与榛子颜色联系的形容词"
+      ]
+    ],
+    "explanation": "a hazel tree 榛树；hazel eyes 榛色眼睛；hazelnut 则明确是榛子这个果实。色名描述的是综合色调，不是一个固定色号。",
+    "usage": "hazel branches；hazel eyes。",
+    "contrast": "hazel 是树名及颜色词，hazelnut 明确叫果实；hazel /ˈheɪzəl/ 与 hassle /ˈhæsəl/ 麻烦的读音、用法不同。",
+    "examples": [
+      [
+        "A hazel tree grew beside the path.",
+        "小路旁长着一棵榛树。"
+      ],
+      [
+        "She had hazel eyes and dark hair.",
+        "她有一双榛色眼睛和深色头发。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/hazel"
+    ]
+  },
+  {
+    "word": "bale",
+    "ipa": "/beɪl/",
+    "meaning": "一大捆、一大包；打捆；灾祸、苦难〔另一旧义〕",
+    "sense": "干草、棉花、废纸扎成紧实的大包，是一 bale；baleful 的旧词族却取灾祸、苦难这条历史。",
+    "split": "大捆义经古法语 bale 等接日耳曼语球、团材料，与 ball 有共同历史；打捆动词再从名词发展。灾祸义继承古英语 bealu，是另一条同形词路线。",
+    "history": [
+      [
+        "古法语 bale 等 → 大包、打捆的 bale",
+        "把材料压紧、包扎成可搬运的整包"
+      ],
+      [
+        "古英语 bealu → 旧的灾祸 bale",
+        "与 baleful 相连的另一继承词"
+      ]
+    ],
+    "explanation": "a bale of hay 一大捆干草；bales of cotton 一包包棉花；bale the straw 把秸秆打捆。旧灾祸名词现代多在派生、文学历史中看到。",
+    "usage": "a hay bale；bale paper for transport。",
+    "contrast": "bundle 一捆范围更广；bale 常是为储运扎紧的大包。baleful 取旧灾祸义，不是说东西装了很多包。",
+    "examples": [
+      [
+        "The barn held several bales of hay.",
+        "谷仓里放着几大捆干草。"
+      ],
+      [
+        "The workers baled the waste paper for transport.",
+        "工人把废纸打捆，便于运输。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/bale"
+    ]
+  },
+  {
+    "word": "baleful",
+    "ipa": "/ˈbeɪlfəl/",
+    "meaning": "凶恶、恶意的；有害、不祥的〔较书面〕",
+    "sense": "一个冷冷、带威胁的眼神扫过来，可以是 a baleful stare。写影响时，又可说它带来损害。",
+    "split": "古英语 bealuful 经中古英语相关形式延续，对应旧 bale 灾祸、苦难 + -ful。它与现代大包、打捆的 bale 分属不同词源分支。",
+    "history": [
+      [
+        "古英语 bealu + -ful → bealuful",
+        "具有灾祸、恶害性质的"
+      ],
+      [
+        "中古英语相应形式 → baleful",
+        "凶恶、恶意；有害、不祥"
+      ]
+    ],
+    "explanation": "a baleful look 凶恶目光；a baleful influence 有害影响。用于文学描写较常见，普通说明有害可直接用 harmful。",
+    "usage": "a baleful stare；baleful effects。",
+    "contrast": "hostile 侧重敌意，baleful 常多一层威胁、凶恶或不祥感觉；fateful 说后果重大，不一定本身邪恶。",
+    "examples": [
+      [
+        "He gave the intruder a baleful stare.",
+        "他凶恶地盯了闯入者一眼。"
+      ],
+      [
+        "The novel explores the baleful influence of envy.",
+        "小说探讨了嫉妒带来的有害影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/baleful#English"
+    ]
+  },
+  {
+    "word": "groomsman",
+    "ipa": "/ˈɡruːmzmən/",
+    "meaning": "伴郎；新郎一方的婚礼侍从",
+    "sense": "不是婚礼里正在结婚的那个新郎，而是站在新郎一方帮忙、陪同的人。",
+    "split": "由 groom 的所属形式与 man 组合，历史对应 groom’s man 新郎一方的人，后来固定连写。这里 groom 取新郎义，不取马夫义。",
+    "history": [
+      [
+        "groom’s + man",
+        "属于新郎一方、陪同新郎的人"
+      ],
+      [
+        "固定连写 groomsman",
+        "伴郎；复数 groomsmen"
+      ]
+    ],
+    "explanation": "a groomsman at the wedding 婚礼上的伴郎；his groomsmen 他的伴郎们。复数变化在 man → men，中间的 s 保留。",
+    "usage": "serve as a groomsman；the groom and his groomsmen。",
+    "contrast": "groom 是新郎，groomsman 是伴郎；best man 通常是主要伴郎，具体婚礼安排仍依惯例。",
+    "examples": [
+      [
+        "The groomsman helped the groom straighten his tie.",
+        "伴郎帮新郎理正领带。"
+      ],
+      [
+        "The bridegroom thanked his groomsmen after the ceremony.",
+        "仪式后，新郎感谢了他的伴郎们。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/groom"
+    ]
+  }
+]

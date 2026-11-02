@@ -1,0 +1,158 @@
+"""Learn, kind, strong: common words, sound changes, and native formations."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[f'{a}；{b}','并列构词部分'],[w,m]]
+LEARN=[['古英语 leornian → 中古英语 lernen','学习、获得知识技能'],['英语 learn','学会、学到；得知']]
+W('learn','英 /lɜːn/；美 /lɜːrn/','学；学会；得知；从经验中明白',
+ '原来不会、不知道，经过接触、练习或消息，脑中多了一样能懂、能用的东西。',
+ '接古英语 leornian、中古英语 lernen；ea 的现代拼写与读音有历史变化，不按 ear“耳朵”加 ln 来拆。过去、分词 learned，英式也常 learnt /lɜːnt/。',LEARN,
+ 'learn to swim 学会游泳，learn about history 了解历史，learn that 得知某事实，learn from mistakes 从错误中学。learned 作普通过去式通常一音节。',
+ 'learn to；learn about；learn from；learn that；learn by heart。',
+ 'learn 关注获得知识、技能或得知结果，study 关注研读、学习活动；study all night 也不保证把所有内容 learn 会。',
+ ('I learned to swim when I was eight.','我八岁学会了游泳。'),('We learned that the library would reopen on Monday.','我们得知图书馆周一会重新开放。'))
+W('learner','英 /ˈlɜːnə/；美 /ˈlɜːrnər/','学习者；初学者',
+ '站在学习这一端的人，正在把不会的东西变成会的。',
+ 'learn + -er，-er 表做相应活动的人；不是比较级更加学。',LEARN+[['learn + -er → learner','学习某项知识、技能的人']],
+ 'an English learner 英语学习者，a quick learner 学得快的人，a learner driver 学车者。learner 不只指小孩，成年人也一样。',
+ 'an English learner；a quick learner；a learner driver。',
+ 'learner 学习者，teacher 教师；学某方面的新手不代表其他领域也没有经验。',
+ ('She is a quick learner.','她学东西很快。'),('The course is designed for adult learners.','课程为成年学习者设计。'))
+W('learning','英 /ˈlɜːnɪŋ/；美 /ˈlɜːrnɪŋ/','学习；学到的知识、学问',
+ '既可以看学的过程，也可以看多年学习后积下的知识。',
+ 'learn + -ing；古英语已有 leornung、中古英语 lernyng 等活动名词。学习名词不是只能表正在进行时。',LEARN+[['learn + -ing；旧名词形式延续','学习过程；积累的知识']],
+ 'language learning 语言学习，a love of learning 好学，a person of great learning 学识深的人；机器学习 machine learning 是专门技术名称。',
+ 'language learning；a love of learning；lifelong learning；machine learning。',
+ 'learning 学习过程、所得学问，education 教育体系、经历、过程范围更广；两词相关而非任何句子都能换。',
+ ('Learning a language takes regular practice.','学语言需要经常练习。'),('Her love of learning continued throughout her life.','她一生都保持着好学的热情。'))
+W('learned','有学问的：英 /ˈlɜːnɪd/、美 /ˈlɜːrnɪd/；学过、习得的：英 /lɜːnd/、美 /lɜːrnd/','有学问的；博学的；学到、习得的',
+ 'a learned scholar 是学问深的人，分两个音节；I learned it 是我学会了，通常一个音节。',
+ 'learn + -ed，中古英语有 lerned 等形容词，古时 learn 还可有教的用法。现代有学问义常保留 /ɪd/，普通过去、分词常 /d/，不能看同一拼写就统一读。',LEARN+[['learn + -ed → learned','博学形容词；普通过去、分词及习得的性质']],
+ 'a learned scholar 博学学者，a learned journal 学术刊物；learned behavior 后天习得行为通常一音节 learned。用义、位置一起判断。',
+ 'a learned scholar；a learned journal；learned behavior。',
+ 'learned /ɪd/ 博学，learner 学习者；学习者可以尚未精通，博学者也仍能学新东西。',
+ ('The lecture was given by a learned historian.','讲座由一位博学的历史学家主讲。'),('I learned the song from my grandmother.','我从祖母那里学会了这首歌。'))
+W('unlearn','英 /ʌnˈlɜːn/；美 /ʌnˈlɜːrn/','改掉旧习惯、旧观念；放下先前学来的东西',
+ '以前练成的动作、认定的想法，现在发现不合适，得把那条老路慢慢拆掉。',
+ 'un-（撤销、逆转）+ learn，中古英语已有 unlernen。un- 在这里不是简单描述没学过，而是逆转先前学到的东西。',LEARN+[['un- + learn → unlearn','摆脱、改掉先前学来的模式']],
+ 'unlearn a habit 改掉习惯，unlearn an assumption 放下旧假设。常是有意识调整，不是自然忘记一件事。',
+ 'unlearn a habit；unlearn an assumption；unlearn old patterns。',
+ 'unlearn 主动摆脱旧模式，forget 忘记不一定主动，也不一定有先前学错这一背景。',
+ ('She had to unlearn a habit that slowed her typing.','她得改掉一个拖慢打字的旧习惯。'),('The workshop encouraged us to unlearn some familiar assumptions.','工作坊鼓励我们放下某些习以为常的假设。'))
+W('relearn','英 /ˌriːˈlɜːn/；美 /ˌriːˈlɜːrn/','重新学习；再学会',
+ '曾经学过，后来生疏，或方法变了，现在重新把它练回来。',
+ 're-（再次）+ learn；语义抓再学习，不等于只把教材重读一遍。',LEARN+[['re- + learn → relearn','再次获得、练回知识或技能']],
+ 'relearn a language 重新学习一门语言，relearn a skill 重学技能；可以因遗忘，也可以因新情况要重整做法。',
+ 'relearn a skill；relearn a language；relearn how to。',
+ 'relearn 重新学，review 复习未必需要从生疏重新掌握；unlearn 放下旧模式，再 relearn 学新做法。',
+ ('I had to relearn the keyboard shortcuts after changing software.','换软件后，我得重新学快捷键。'),('She is relearning the language she spoke as a child.','她在重新学习小时候说过的那门语言。'))
+R('B2690','学习、获得知识技能、得知','LEARN：把不会变成会，把不知道变成知道','学的过程 learning，学的人 learner；旧模式可能要 unlearn，再把技能 relearn。',
+ 'learn 接古英语 leornian。learned 普通过去、分词常一个音节，博学形容词常两个；learnt 是常见英式过去、分词形式。',
+ 'learn → learner、learning、learned；unlearn / relearn 相邻对照撤旧与再学。',
+ [['学与学习者、所得知识','learn · learner · learning · learned'],['改掉旧模式与重新学','unlearn · relearn']],
+ 'study 关注学习活动，learn 常关注获得、学会；learned 学过与博学两读分开；unlearn 不只是无意忘记。',
+ 'A quick learner may still need to unlearn old habits and relearn a skill.\n\n学得快的人也可能需要改掉旧习惯，重新学一项技能。',
+ 'learn learner learning learned unlearn relearn')
+KIND=[['古英语 cynd〔本性、种类〕及相关 cynde〔天生、自然的〕','同一旧本性、出生词族的名词与形容词'],['中古英语 kinde → 英语 kind','种类；自然合宜等旧义发展到友善、体贴']]
+W('kind','/kaɪnd/','种类；友善的；体贴的',
+ 'two kinds of tea 问茶分哪两类；a kind person 说人怎么待你。今天两义差很远，旧词族都与本性、天生特征有关。',
+ '名词接古英语 cynd、ġecynd“本性、种类”；形容词接相关 cynde“天生、自然的”，后来发展出合宜、友善等用法。不是把种类硬解释成同一类人所以必然善良。',KIND,
+ 'a kind of 一种，all kinds of 各种；be kind to 对人友善。kind of 口语也可稍微缓和语气：kind of tired 有点累。',
+ 'a kind of；all kinds of；be kind to；kind of tired。',
+ 'kind 名词种类与形容词体贴要看位置；What kind? 问哪一类，不是问有多善良。',
+ ('There are several kinds of bread on the table.','桌上有几种面包。'),('It was kind of you to wait.','你愿意等，真是体贴。'))
+W('kindly','/ˈkaɪndli/','友善、体贴地；慈祥的；请〔较正式请求〕',
+ '说话、做事带着善意；放进正式请求时，又成了语气上的请。',
+ 'kind + -ly，有古英语 cyndelīċ 形容词、相关副词及中古英语对应形式。ly 不强制它只能作副词。',KIND+[['kind + -ly；形容词、副词各有旧形式','友善地；慈祥的；请求用语']],
+ 'speak kindly 温和说话，a kindly face 慈祥面容。Kindly send the form 在正式书面请求常见，但语境不合时可能显命令式、冷硬。',
+ 'speak kindly；a kindly face；kindly send；take kindly to。',
+ 'kindly 形式上像请，不保证说话一定亲切；He did not take kindly to it 表示他不喜欢、不接受那件事。',
+ ('She spoke kindly to the frightened child.','她温和地对受惊的孩子说话。'),('A kindly neighbor helped us carry the boxes.','一位和善邻居帮我们搬箱子。'))
+W('kindness','/ˈkaɪndnəs/','善意；体贴；善举',
+ 'kind 说一个人待人好，kindness 说这份好意，或他具体帮人的那一件事。',
+ 'kind + -ness，中古英语已有 kyndenesse 等；名词可说性质，也可数一次善举。',KIND+[['kind + -ness → kindness','友善的性质；具体善意举动']],
+ 'show kindness 表现善意，an act of kindness 一次善举，repay someone’s kindness 回报某人好意。作种类名词的 kind 通常不沿这里转成 kindness。',
+ 'show kindness；an act of kindness；out of kindness；repay kindness。',
+ 'kindness 善意不等于 weakness 软弱；这是两种性质，不能因中文态度词而建立必然关系。',
+ ('Thank you for your kindness.','谢谢你的好意。'),('A small act of kindness changed her day.','一件小小善举让她那天的心情变好了。'))
+W('unkind','/ʌnˈkaɪnd/','不友善的；刻薄的；不体贴的',
+ '说话、动作没有顾到别人，甚至让人觉得受冷落、被刺了一下。',
+ 'un-（不）+ kind，中古英语有 unkynde；现代主要否定友善、体贴义，不是说某物没有种类。',KIND+[['un- + kind → unkind','缺乏友善、体贴的']],
+ 'an unkind remark 刻薄话，unkind to someone 待人不友善。可以是短暂行为，不必一概断定整个人永远恶劣。',
+ 'an unkind remark；unkind to；an unkind comparison。',
+ 'unkind 不友善，unusual 不寻常；对人苛刻不自动等于诚实、直接，语气和事实准确要分别判断。',
+ ('That was an unkind thing to say.','那句话说得很不体贴。'),('She regretted being unkind to her brother.','她后悔对弟弟不够友善。'))
+W('kindhearted','英 /ˌkaɪndˈhɑːtɪd/；美 /ˌkaɪndˈhɑːrtɪd/','心地善良的；热心肠的',
+ '不只表面礼貌，别人需要帮忙时，心里就愿意顾到他。',
+ 'kind + hearted，hearted 是 heart + -ed“有某种心性的”；不是心脏曾经做过 kind 这个动作。',C('kind','hearted〔heart + -ed〕','kindhearted','心地友善、愿意关照人的'),
+ 'a kindhearted person 心地善良的人，a kindhearted gesture 热心之举；常强调性情、动机。',
+ 'a kindhearted person；a kindhearted neighbor；a kindhearted gesture。',
+ 'kindhearted 心地善，lighthearted 心情轻松；同有 hearted，前一部分改变心性的方向。',
+ ('A kindhearted neighbor offered to look after the cat.','一位热心邻居主动提出照看猫。'),('The story’s hero is awkward but kindhearted.','故事主角有些笨拙，但心地善良。'))
+R('B2733','本性、种类；友善、体贴','KIND：一边分种类，一边说怎样待人','现代先分 two kinds 与 a kind person；历史再看相关的本性、天生特征旧词族。',
+ '名词 kind 接 cynd，形容词接相关 cynde，后来善待、合宜等义发展出友善。不能直接说同类就必然友好，也不把所有同样拼法的词都算现代英语 kind 派生。',
+ 'kind → kindly、kindness、unkind；kind + hearted → kindhearted。',
+ [['种类与友善的基本词','kind'],['方式、性质和反面','kindly · kindness · unkind'],['心地的描述','kindhearted']],
+ 'What kind? 问种类；kindness 善意；kindly 也可形容慈祥；kindhearted 心地善、lighthearted 心情轻。',
+ 'The kindhearted teacher treated every kind of learner with kindness.\n\n这位心地善良的老师，体贴对待各种学习者。',
+ 'kind kindly kindness unkind kindhearted')
+STRONG=[['古英语 strang → 中古英语 strong / strang','强、有力；更早有紧、严等相关义'],['英语 strong','力量大；坚固；强烈、浓的']]
+W('strong','英 /strɒŋ/；美 /strɔːŋ/、/strɑːŋ/','强的；坚固的；强烈的；浓的',
+ '施得出力，也扛得住力；味道、感情、论据等也能有分量、有强度。',
+ '接古英语 strang、中古英语 strong 等，旧词族与紧、严格、有力相关。比较级 stronger、最高级 strongest，常见读音在 /ŋ/ 后带 /ɡ/。',STRONG,
+ 'a strong person 力气大的人，a strong bridge 坚固桥，strong coffee 浓咖啡，a strong argument 有力论据。对应不同对象，别都译强壮。',
+ 'strong coffee；strong evidence；strong support；a strong smell。',
+ 'strong 能施力或承力，也能说浓度、说服力；hard 硬不保证 strong 抗破坏，脆硬材料仍可能易碎。',
+ ('The bridge must be strong enough to carry heavy vehicles.','桥必须足够坚固，能承载重型车辆。'),('She made a strong case for changing the plan.','她为修改计划提出了有力理由。'))
+W('strongly','英 /ˈstrɒŋli/；美 /ˈstrɔːŋli/','强烈地；坚决地；有力地',
+ '观点、感受不只是轻轻带过，而是明确、力度很大。',
+ 'strong + -ly，古英语 stranglīċe、中古英语 strongliche 等已有对应副词；常见读音不沿 stronger 另添 /ɡ/。',STRONG+[['strong + -ly；旧副词形式延续','以强烈、有力方式']],
+ 'strongly recommend 强烈推荐，strongly oppose 坚决反对，feel strongly about 对某事有强烈看法。不是修饰所有动词都等于用肌肉。',
+ 'strongly recommend；strongly oppose；strongly support；feel strongly about。',
+ 'strongly 支持、反对可用，heavily support 常不是同样自然的万能替换；动词搭配比中文程度词更可靠。',
+ ('I strongly support the proposal.','我坚决支持这项提议。'),('She feels strongly about protecting the old library.','她对保护老图书馆这件事态度很强烈。'))
+W('strength','/streŋθ/，也常有 /streŋkθ/','力量；强度；优势、长处',
+ 'strong 说某物够强，strength 把那份力量、能耐抽出来，也能说某人最拿手的地方。',
+ '接古英语 strengþu、中古英语 strengthe，与 strong 加旧抽象名词后缀 -th 相应。元音变化有历史背景，不是现代随意把 o 改 e；拼写 strength，末尾 th。',
+ [['古英语 strengþu → 中古英语 strengthe','强的状态、力量'],['英语 strength；与 strong 对应','力量、强度；长处']],
+ 'physical strength 体力，the strength of a signal 信号强度，one of her strengths 她的一项长处；优势义可数。',
+ 'physical strength；signal strength；strengths and weaknesses；gain strength。',
+ 'strength 力量、长处，strong 形容词；my main strength 最大长处，不说 my main strong。',
+ ('She gradually regained her strength.','她逐渐恢复了体力。'),('Explaining complex ideas is one of his strengths.','解释复杂想法是他的长处之一。'))
+W('strengthen','/ˈstreŋθən/，也常有 /ˈstreŋkθən/','加强；增强；巩固',
+ '原来能承一些力，现在通过加固、练习或支持，让它更能承、更有分量。',
+ '现代对应 strength + -en；中古英语已有 strengthen 等，末尾旧不定式 -en 与后来使变成后缀的重分析有关。学习时认 strength 再接 en，不硬造 strongen。',
+ [['中古英语 strengthen 等','增强、使坚强的旧动词形式'],['现代 strength + -en → strengthen','增强力量、联系、依据等']],
+ 'strengthen a bridge 加固桥，strengthen ties 加强联系，strengthen an argument 增强论证。也可不及物说风力、关系等增强。',
+ 'strengthen ties；strengthen a bridge；strengthen an argument。',
+ 'strengthen 加强，stretch 伸展；字形相似但不能把增强信心写成 stretch confidence 当普通同义句。',
+ ('The repairs will strengthen the bridge.','维修会加固桥梁。'),('The new evidence strengthened her argument.','新证据增强了她的论证。'))
+W('stronghold','英 /ˈstrɒŋhəʊld/；美 /ˈstrɔːŋhoʊld/','要塞；根据地；某势力、观念的稳固地区',
+ '守得住、不容易被夺走的地方；一个观念也可在某地扎得很牢。',
+ 'strong + hold，hold 在旧用法中有关控制、占有、防守位置；中古英语有 strong-hold 等对应形式。不是只指把手抓得用力。',C('strong','hold〔控制、防守的位置〕','stronghold','坚固防御地 → 势力、观念等稳固之处'),
+ 'a mountain stronghold 山中要塞，a political stronghold 政治力量的稳固地区，a stronghold of tradition 传统根深之地。',
+ 'a mountain stronghold；a political stronghold；a stronghold of。',
+ 'stronghold 地区、据点，strongman 人；a cultural stronghold 不一定有城墙。',
+ ('The castle was once a mountain stronghold.','城堡曾是山中要塞。'),('The town remains a stronghold of traditional music.','小镇仍是传统音乐的重要阵地。'))
+W('strongman','英 /ˈstrɒŋmæn/；美 /ˈstrɔːŋmæn/','大力士；政治强人',
+ '竞技表演里靠力量惊人，政治语境里靠强势控制掌权；两种强不能混成同一种身份。',
+ 'strong + man，物理力量与政治控制是并列常见命名背景，不是所有大力士都演变成统治者。',C('strong','man','strongman','力量竞技、表演者；强势掌权人物'),
+ 'a circus strongman 马戏大力士，a political strongman 政治强人。后者常含强力、专断统治意味，不只是中性强壮男人。',
+ 'a circus strongman；a strongman competition；a political strongman。',
+ 'strong man 分写可只是强壮男人；strongman 连写常是固定角色名。政治人物也不因这个词就声称肌肉很强。',
+ ('A strongman lifted heavy weights in the show.','表演中，一位大力士举起重物。'),('The biography examines the rise of a political strongman.','传记考察了一位政治强人的崛起。'))
+W('headstrong','英 /ˈhedstrɒŋ/；美 /ˈhedstrɔːŋ/','任性的；固执己见的',
+ '脑袋里的主意顶得很硬，别人怎么劝都想按自己的来。',
+ 'head + strong，中古英语有 heedstrong 等；head 借指心意、主见，不是头骨抗撞。',C('head','strong','headstrong','坚持按自己主意、不听劝的'),
+ 'a headstrong child 任性孩子，a headstrong decision 固执作出的决定。常含批评，但人物也可能兼有勇气、独立性，要看作者态度。',
+ 'a headstrong child；a headstrong teenager；headstrong and impulsive。',
+ 'headstrong 固执，strong-minded 可强调意志坚定；不只强度相同，评价语气也不同。',
+ ('He was too headstrong to listen to advice.','他太固执，听不进劝。'),('The novel follows a headstrong young woman who leaves home.','小说讲述一位执意离家的年轻女子。'))
+R('B3359','强、有力；坚固、强烈、浓','STRONG：施得出力，扛得住力，观点也有分量','先看强的对象是人、桥、味道还是证据，再选力量、坚固、浓度或说服力的画面。',
+ 'strong 接古英语 strang；strength 接对应旧名词，现代不是任意改元音；strengthen 的 -en 有历史重分析。stronger、strongest 常有 /ɡ/，strong、strongly 不机械套这读音。',
+ 'strong → strongly；strong ↔ strength → strengthen；stronghold、strongman、headstrong 分别说地方、人、性格。',
+ [['强度、方式、力量与增强','strong · strongly · strength · strengthen'],['据点、人物和性格','stronghold · strongman · headstrong']],
+ 'strong coffee 浓、strong argument 有力；strength 长处可数；stronghold 地方、strongman 人；headstrong 常批评固执。',
+ 'The team strongly supported a plan to strengthen the old bridge.\n\n团队坚决支持加固老桥的计划。',
+ 'strong strongly strength strengthen stronghold strongman headstrong')
+if __name__=='__main__':save('continuation_20261028_bc',ROOTS,WORDS)

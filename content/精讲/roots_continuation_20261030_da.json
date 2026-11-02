@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B4454",
+    "meaning": "射击活动；枪击事件；摄影拍摄",
+    "core": "SHOOTING：按 shoot 的动作分支看正在做哪件事",
+    "image": "shooting 已有逐词精讲，本根集中射击运动、新闻事件与拍摄的场景辨析。",
+    "intro": "这是活动名词、分词形式，可说体育射击，也可摄影拍摄；词形相同不等于新闻、电影都该翻成枪击。",
+    "forms": "shoot + -ing；shooting star 流星是固定形象表达，不是持枪的星。",
+    "branches": [
+      [
+        "活动和事件",
+        "shooting"
+      ]
+    ],
+    "contrasts": "a shooting competition 射击比赛；film shooting 拍摄；a shooting incident 枪击事件；按宾语、场景分义。",
+    "practice": "Shooting for the film begins next week.\n\n这部电影下周开始拍摄。",
+    "words": [
+      "shooting"
+    ],
+    "exclude": {
+      "shooting-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "para-shooting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4364",
+    "meaning": "领导能力、行为与领导层",
+    "core": "LEADERSHIP：怎样把一群人带向目标，也可说谁在掌舵",
+    "image": "leadership 已有逐词精讲，本页把能力、带领行为、领导集体三层意思归在一起。",
+    "intro": "-ship 构成身份、职能、性质的抽象名词，不是船。领导能力不只来自头衔，没有正式职位也可表现出带领作用。",
+    "forms": "leader + -ship；leadership skills 能力，under her leadership 带领，the leadership 领导集体。",
+    "branches": [
+      [
+        "能力、行为与集体",
+        "leadership"
+      ]
+    ],
+    "contrasts": "leader 具体人物，leadership 领导能力或领导层；the leadership 在集合语境不只指一个人。",
+    "practice": "The team grew stronger under her leadership.\n\n在她带领下，团队变得更强。",
+    "words": [
+      "leadership"
+    ],
+    "exclude": {
+      "e-leadership": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-leadership": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3046",
+    "meaning": "平面、扁平；平淡、没气、直接和住房",
+    "core": "FLAT：缺少凸起、起伏；公寓有楼层住处的旧路径",
+    "image": "flat → flatter 比较级、flatten、flatness、flatly；flatmate 接公寓；flatbread、flatware、flatland、flatline 按用途与形象；已有 flatbed、flatiron、flatscreen 复用。",
+    "intro": "flatter 奉承动词历史另辨，不能从现代比较级硬推；平坦与光滑、低海拔、没变化各有侧重点。",
+    "forms": "flat + -er/-en 双写 t；flat + -ness/-ly/mate/bread/ware/land/line；flat 的公寓义有楼层词历史；flatter 动词细源有争议。\n\n公寓 flat 经苏格兰语楼层义远接古英语 flett 地板、居所；平的形容词另经古北欧 flatr，同属较远铺展词族。名词复数 flats 的几种意思要分路理解。",
+    "branches": [
+      [
+        "形状、比较、变化和方式",
+        "flat · flatter · flatten · flatness · flatly"
+      ],
+      [
+        "居住与食品用品",
+        "flatmate · flatbread · flatware · flatbed · flatiron · flatscreen"
+      ],
+      [
+        "地形与数据线",
+        "flatland · flatline"
+      ],
+      [
+        "flat → flats：公寓、平底鞋、平地",
+        "flats"
+      ]
+    ],
+    "contrasts": "flat/smooth 平与滑不同；flatter 比较与奉承分开；flatmate 未必同卧室；flatbread不保证无发酵；flatline不一定跌到零。",
+    "practice": "My flatmate flattened the dough to make flatbread.\n\n我的合租室友把面团擀平，做扁面包。",
+    "words": [
+      "flat",
+      "flatter",
+      "flatten",
+      "flatness",
+      "flatly",
+      "flatmate",
+      "flatbread",
+      "flatware",
+      "flatbed",
+      "flatiron",
+      "flatscreen",
+      "flatland",
+      "flatline",
+      "flats"
+    ],
+    "exclude": {
+      "flat-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flat-warming": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flat-footed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flat-mouthed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flathead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

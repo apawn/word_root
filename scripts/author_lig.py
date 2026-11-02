@@ -125,7 +125,7 @@ E('obligation','英 /ˌɒblɪˈɡeɪʃən/；美 /ˌɑːblɪˈɡeɪʃən/','义�
 ('I felt an obligation to tell her the truth.','我觉得自己有责任告诉她真相。'),('You are under no obligation to accept the offer.','你没有义务接受这个提议。')),
 E('obliged','/əˈblaɪdʒd/','有义务的；感激的',
 'obliged 描述由 oblige 造成的状态：受到要求而必须行动，或因为别人帮忙而心存感激。',
-'oblige + -ed，词末已有 e，拼写只加 d。末尾 /dʒd/ 不需要再补一个额外元音。',OBLIGE+[['英语：obliged','受到约束的；欠人情而感激的']],
+'oblige + -ed，拼写时先去 e，再加完整 -ed。末尾 /dʒd/ 不需要再补一个额外元音。',OBLIGE+[['英语：obliged','受到约束的；欠人情而感激的']],
 '两个现代意义都继承自 oblige。be obliged to do something 多指必须做某事；be obliged to someone for something 则多指因某事感谢某人。',
 'be obliged to do…；be much obliged to someone；I’d be obliged if…（如能……我将感激不尽，较正式）。',
 'obliged 与 obliging 方向相反：前者是受到义务或恩惠影响的人，后者常指愿意帮别人的人。',

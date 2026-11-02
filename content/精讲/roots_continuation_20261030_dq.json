@@ -1,0 +1,90 @@
+[
+  {
+    "id": "B3172",
+    "meaning": "金属细丝、连接系统与细而强韧的形象",
+    "core": "WIRE：一根细而能连接的金属丝，进入电路、消息和形状比喻",
+    "image": "wire → wired、wiring、rewire、wireless；wiry 说形状体格；wiretap、underwire、haywire、newswire、tripwire 分用途。",
+    "intro": "无线先看哪个连接不需要线，不是设备里绝无电线；wiry 瘦而韧、wired 兴奋绷紧是不同分支。haywire 现代常是乱套。",
+    "forms": "古英语 wīr → wire；去 e 接 -ed/-ing/-y；re- + wire；wire + -less；wire + tap；under-/hay/news/trip + wire。\n\nwire 承古英语金属细丝名，后来用于电线、电报等；现代 -s 可作名词复数、动词第三人称，具体接线、转送用法按上下文。",
+    "branches": [
+      [
+        "基础与接线变化",
+        "wire · wired · wiring · rewire · wireless"
+      ],
+      [
+        "形状与用途",
+        "wiry · wiretap · underwire · haywire · newswire · tripwire"
+      ],
+      [
+        "wire → wires：金属丝、电线与接线动作",
+        "wires"
+      ]
+    ],
+    "contrasts": "wire/cable 细丝与线缆；wireless 不等于 Wi-Fi；wiry 非 wired；haywire 可说计划乱套；underwire 的无线是服装语境。",
+    "practice": "The technician checked the wiring after the system went haywire.\n\n系统乱套后，技术人员检查了线路。",
+    "words": [
+      "wire",
+      "wired",
+      "wiring",
+      "rewire",
+      "wireless",
+      "wiry",
+      "wiretap",
+      "underwire",
+      "haywire",
+      "newswire",
+      "tripwire",
+      "wires"
+    ],
+    "exclude": {
+      "hot-wire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wire-guard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wireline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firewire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3892",
+    "meaning": "把内容整理发布的人、编务和职务",
+    "core": "EDITOR：让内容能正式给人看；名称比英语 edit 更早进入",
+    "image": "editor → editorial、editorship；一个人物与工具名，再分编务、社论和职位。",
+    "intro": "编辑不只改错字，软件 editor 也不是人。editor 的借入先于 edit 的常见英语动词，不按现代可拆形式误画历史。",
+    "forms": "拉丁 ēditor → editor；editor + -ial/-ship；editorial 形容词再发展社论名词。\n\neditor 借拉丁 ēditor 发布者；现代英语 edit 的常见动词用法较晚，不能把全部词史倒置成 edit 先造 editor。\n\neditor 逆构、法语及拉丁词干等来源分析均保留。\n\n英语 edit 从 editor 逆构，也受法语 éditer 与拉丁材料影响；不是只按字数讲历史。\n\n英语 edit 从较早 editor 逆构等历史要保留；现代 edits、unedited 是清楚的变化。",
+    "branches": [
+      [
+        "角色、编务与职位",
+        "editor · editorial · editorship"
+      ],
+      [
+        "editor → edit；editor → editors：英语长词早于常见短动词",
+        "edit · editor · editors"
+      ],
+      [
+        "edit → edited：整理、修改到可用",
+        "edit · edited"
+      ],
+      [
+        "editor → edit → editing：先有人物名词，再逆构动词",
+        "editor · edit · editing"
+      ],
+      [
+        "edit 的修改动作与未编辑状态",
+        "edit · edits · unedited"
+      ]
+    ],
+    "contrasts": "editor/author 编辑与作者；editorial team 非一群社论；editorship 职位与任期、editing 过程不同。",
+    "practice": "The editor explained the editorial policy when she took over the editorship.\n\n接任主编时，她解释了编辑方针。",
+    "words": [
+      "editor",
+      "editorial",
+      "editorship",
+      "edit",
+      "editors",
+      "edited",
+      "editing",
+      "edits",
+      "unedited"
+    ],
+    "exclude": {}
+  }
+]

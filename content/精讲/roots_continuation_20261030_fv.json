@@ -1,0 +1,136 @@
+[
+  {
+    "id": "B2877",
+    "meaning": "遮藏动作与覆盖身体的皮分别传下",
+    "core": "HIDE：躲起来；HIDE：兽皮，先选词性场景",
+    "image": "hide → hideaway、hideout 接藏；rawhide、cowhide 接皮；huddle 有较远覆盖、聚拢关系，近源分析另说。",
+    "intro": "动词藏与名词皮有分别的古英语形式，不把现代一个词直接画成另一个词的发明者。牛皮和生皮则分别按来源、加工状态命名。",
+    "forms": "hȳdan → hide 藏；hȳd → hide 皮；hide + away/out；raw/cow + hide；覆盖相关旧形式 → huddle。\n\nhide 较早属于带过去词尾的动词，不能把现代 hid、hidden 一律说成未变过的原始强变位；标准常用三式是 hide → hid → hidden。\n\n藏的动词继承古英语 hydan，与皮的名词路径分开看。\n\nhuddle 的近源有低地德语遮护材料及中古英语相似形式等分析，可能联系 hide 的覆盖词族；不是现代 hide 直接变出 huddle。\n\nhut 经法语 hutte、中高地德语 hütte 小屋材料借入，可能与 hide 的更远遮蔽词族相关；不是现代 hide 的直接派生。\n\n动词接古英语 hydan，兽皮名词接 hyd，两条继承路径远处可联系覆盖。现代保留 e 加 -s，末尾 /dz/。",
+    "branches": [
+      [
+        "藏与藏身地点",
+        "hide · hideaway · hideout"
+      ],
+      [
+        "皮料与聚拢相关词",
+        "rawhide · cowhide · huddle"
+      ],
+      [
+        "hide、hid、hidden：藏起与看不见的状态",
+        "hide · hid · hidden"
+      ],
+      [
+        "hide → hiding：把东西放到看不见处",
+        "hide · hiding"
+      ],
+      [
+        "huddle 与遮护、聚拢的远近联系",
+        "hide · huddle · huddles · huddled · huddling"
+      ],
+      [
+        "hut：遮蔽人的小屋",
+        "hut · huts"
+      ],
+      [
+        "hide 隐藏、兽皮分支 → hides",
+        "hides"
+      ]
+    ],
+    "contrasts": "hid/hidden 过去式分词；cowhide/rawhide 来源与处理状态；hideaway/hideout 舒适隐居与藏身色彩。",
+    "practice": "The children huddled in their hideaway, trying to hide from the rain.\n\n孩子们挤在秘密住处里，想躲开雨。",
+    "words": [
+      "hide",
+      "hideaway",
+      "hideout",
+      "rawhide",
+      "cowhide",
+      "huddle",
+      "hid",
+      "hidden",
+      "hiding",
+      "huddles",
+      "huddled",
+      "huddling",
+      "hut",
+      "huts",
+      "hides"
+    ],
+    "exclude": {
+      "hide-all": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hider": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4559",
+    "meaning": "朝还没有的目标去找",
+    "core": "SEEK → SEEKING：寻求动作正在进行",
+    "image": "seek → seeking；sought 是相应过去式、过去分词，意思不按拼写另造。",
+    "intro": "目标可以具体也可以抽象。seek advice 常直接接宾语，和 look for 的语法结构分别记。",
+    "forms": "sēċan → seken → seek；seek + -ing → seeking；旧变化延续 sought。\n\n古英语 secan 继承，现代三单加 s，过去式、分词为 sought。",
+    "branches": [
+      [
+        "动作与进行、活动形式",
+        "seek · seeking"
+      ],
+      [
+        "seek → seeks：主动去找、争取",
+        "seek · seeks · sought"
+      ]
+    ],
+    "contrasts": "seek/look for 直接宾语与短语结构；seeking/finding 在找与找到。",
+    "practice": "She was seeking advice and finally found someone who could help.\n\n她在寻求建议，终于找到一个能帮忙的人。",
+    "words": [
+      "seek",
+      "seeking",
+      "seeks",
+      "sought"
+    ],
+    "exclude": {
+      "self-seeking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heat-seeking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rent-seeking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3884",
+    "meaning": "植物的芽，与伙伴称呼的省称分开",
+    "core": "BUD：花芽；BUD：伙计，后者从 BUDDY 缩短",
+    "image": "bud 芽 → rosebud 花蕾；buddy 伙伴 → bud 省称，顺序不颠倒。",
+    "intro": "看着像 bud → buddy，实际伙伴义较短形式却从较长 buddy 缩来。buddy 的更早来源有不同分析，保留不确定。",
+    "forms": "budde、bodde → bud 芽；rose + bud → rosebud；buddy 伙伴 → 缩短 bud 伙计。\n\n此 bud 接植物芽的外形材料，不接 buddy 缩短的伙计义。\n\nbuddy 的近远来源有 brother 变化、英国 butty 同伴等不同分析。bud 是后来短称，不能把植物 bud 芽当 buddy 的确定祖先；复数 y 改 i 加 -es。\n\nbud 中古英语已有，远源未定，现代复数 -s，/d/ 后读 /z/。植物芽与开始形成的事物可放在同一个初生画面里理解。",
+    "branches": [
+      [
+        "同形基础与植物组合",
+        "bud · rosebud"
+      ],
+      [
+        "伙伴称呼的另一路",
+        "buddy"
+      ],
+      [
+        "bud 的外形比喻 earbud 及复数",
+        "bud · earbud · earbuds"
+      ],
+      [
+        "buddy → buddies；短称 bud 的对照",
+        "buddies"
+      ],
+      [
+        "bud 芽 → buds",
+        "buds"
+      ]
+    ],
+    "contrasts": "bud/buddy 植物义与称呼义分历史；buddy/study buddy 关系亲密程度与特定活动角色。",
+    "practice": "My study buddy pointed out the first rosebud in the garden.\n\n我的学习搭子指出了花园里的第一朵玫瑰花蕾。",
+    "words": [
+      "bud",
+      "rosebud",
+      "buddy",
+      "earbud",
+      "earbuds",
+      "buddies",
+      "buds"
+    ],
+    "exclude": {}
+  }
+]

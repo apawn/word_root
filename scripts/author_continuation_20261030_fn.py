@@ -1,0 +1,123 @@
+"""Bone and blind: structure, shape metaphors and blocked sight."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+B=[['古英语 bān → 中古英语 bon → bone','骨、构成骨架的坚硬组织'],['结构与形状比喻','支撑身体 → 支柱；鱼骨形 → 人字纹；骨头多、没骨头等'],['英语派生、组合','bony、boneless；jawbone、cheekbone、tailbone、herringbone、bonehead']]
+W('bone','英 /bəʊn/；美 /boʊn/','骨、骨头；骨质；剔骨',
+ '身体里支撑形状的硬架子；讲故事、计划的 bones，也可说还没填细节的基本骨架。',
+ '继承古英语 bān。名词可指材料或一块块骨头，后来动词 bone 还能说去掉骨头。bone up 临时用功的历史另有不同解释，不只从啃骨头直推。',B,
+ 'a broken bone 骨折的骨，bones of the story 故事骨架，bone a fish 给鱼剔骨，a bone of contention 争执焦点。',
+ 'skin and bone；a bone of contention；the bare bones；bone a fish。',
+ 'bone 可数说一块骨，作材料常不可数；bones 作骨架比喻不要求物体真含钙。',
+ ('The dog buried a bone in the garden.','狗在花园里埋了一根骨头。'),('We have the bare bones of a plan.','我们有了计划的基本框架。'),
+ sources=['https://www.etymonline.com/word/bone','https://en.wiktionary.org/wiki/bone#English'])
+W('bony','英 /ˈbəʊni/；美 /ˈboʊni/','骨的、骨质的；多骨刺的；瘦得骨头突出的',
+ '有时说东西本来就是骨质，有时说肉少、骨头轮廓特别突出；鱼 bony 则常是骨刺多。',
+ 'bone + -y，去掉末尾 e。根据对象不同，带骨特点可落到材料、数量、外形三种角度。',B[:1]+[['bone + -y → bony','骨质、骨多或骨头显露的']],
+ 'bony fingers 骨节突出的手指，a bony fish 多骨刺的鱼，a bony plate 骨板。',
+ 'bony fingers；a bony fish；a bony plate。',
+ 'bony 不一律是很瘦：a bony plate 是骨质板；boneless meat 则说没有骨头的肉。',
+ ('Her bony fingers gripped the handle.','她骨节突出的手指抓住把手。'),('The fish was tasty but very bony.','鱼很好吃，就是刺很多。'))
+W('boneless','英 /ˈbəʊnləs/；美 /ˈboʊnləs/','无骨的、去骨的',
+ '吃这块肉不用再面对里面的大骨架；说的是骨头缺少或已剔除，不等于没有皮、没有脂肪。',
+ 'bone + -less，对应古英语 bānlēas 等很早的派生形式；现代拼写保留 bone 的 e。',B[:1]+[['古英语 bānlēas 等 → boneless','对应 bone + -less 的无骨性质']],
+ 'boneless chicken 去骨鸡肉，boneless fish 去骨鱼肉，boneless and skinless 去骨去皮。',
+ 'boneless chicken；boneless meat；boneless and skinless。',
+ 'boneless 只说无骨、去骨，skinless 才说去皮；不要由一个词推断整份食物的全部处理。',
+ ('The recipe calls for boneless chicken.','食谱要求用去骨鸡肉。'),('She chose a boneless cut of meat.','她选了一块无骨肉。'))
+W('jawbone','英 /ˈdʒɔːbəʊn/；美 /ˈdʒɔːboʊn/','颌骨、下颌骨；反复劝说、施压劝服',
+ '下巴一圈骨架是 jawbone；动词借嘴巴、下颌不停动的画面，说通过反复说话、施压让人听从。',
+ 'jaw 颌 + bone 骨，旧英语时期之后的相关名称逐步形成，现代为透明组合；劝说义由器官名转为说话施压的动作。',B[:1]+[['jaw + bone → jawbone','颌部骨骼'],['英语动词比喻','持续劝说，或以压力促使配合']],
+ 'the lower jawbone 下颌骨，an animal’s jawbone 动物颌骨，jawbone companies into cooperation 劝压企业配合。',
+ 'the lower jawbone；an animal’s jawbone；jawbone someone into。',
+ 'jawbone 可以泛涉颌骨，常用又突出下颌；动词劝压不等于真的动手打人。',
+ ('The exhibit includes the jawbone of a large animal.','展品包括一只大型动物的颌骨。'),('Officials tried to jawbone the companies into cooperating.','官员试图通过劝说施压，让这些公司配合。'))
+W('cheekbone','英 /ˈtʃiːkbəʊn/；美 /ˈtʃiːkboʊn/','颧骨',
+ '脸颊上部撑出轮廓的那块骨；high cheekbones 说颧骨位置或轮廓显得高，不是脸颊上另长一根骨头。',
+ 'cheek 面颊 + bone 骨，古英语已有相应组合，后延续为 cheekbone。',B[:1]+[['古英语相应 cheek、bone 组合 → cheekbone','面颊部位的颧骨']],
+ 'high cheekbones 高颧骨，prominent cheekbones 明显突出的颧骨，the cheekbone area 颧骨区域。',
+ 'high cheekbones；prominent cheekbones；the cheekbone area。',
+ 'cheek 是脸颊软组织区域的普通名，cheekbone 明确骨骼；jawbone 则是颌骨一支。',
+ ('The portrait emphasizes her high cheekbones.','肖像突出了她的高颧骨。'),('Light fell across one cheekbone.','光落在一侧颧骨上。'))
+W('tailbone','英 /ˈteɪlbəʊn/；美 /ˈteɪlboʊn/','尾骨',
+ '沿脊柱往下走，到末端剩下的一小段融合骨骼；人体普通叫法把它和尾巴位置联系起来。',
+ 'tail 尾 + bone 骨，按脊柱末端位置组成普通解剖名称；专门名称 coccyx。',B[:1]+[['tail + bone → tailbone','脊柱下端的尾骨']],
+ 'the tailbone area 尾骨区域，a diagram of the tailbone 尾骨图，pressure on the tailbone 尾骨处的压力。',
+ 'the tailbone area；a diagram of the tailbone；pressure on the tailbone。',
+ 'tailbone 是尾骨，不是整个 backbone 脊柱；tail 的名称材料不代表人有一根外露的长尾巴。',
+ ('The diagram labels the tailbone at the base of the spine.','图在脊柱底部标出了尾骨。'),('He pointed to the tailbone on the model.','他指向模型上的尾骨。'))
+W('herringbone','英 /ˈherɪŋbəʊn/；美 /ˈherɪŋboʊn/','鲱鱼骨；人字纹、人字形排列',
+ '一根鱼脊两侧斜着伸出细骨，像一排排斜线交接；布料、木地板和砖路借这个形状命名。',
+ 'herring 鲱鱼 + bone 骨，从鱼骨形状延伸到排列、织纹；滑雪中也用来命名两板前端向外展开的登坡姿势。',B[:1]+[['herring + bone → herringbone','鲱鱼骨'],['形状借用','人字纹；相应排列和动作名称']],
+ 'a herringbone pattern 人字纹，herringbone flooring 人字拼地板，a herringbone jacket 人字纹外套。',
+ 'a herringbone pattern；herringbone flooring；herringbone fabric。',
+ 'herringbone 纹样不要求真含鱼骨；与其他锯齿、V 形拼法的具体区别要看排列方式，不能只见斜线就都叫一种。',
+ ('The floor has a herringbone pattern.','地板是人字拼花纹。'),('He wore a grey herringbone jacket.','他穿着一件灰色人字纹外套。'))
+W('bonehead','英 /ˈbəʊnhed/；美 /ˈboʊnhed/','笨蛋、死脑筋〔口语贬称〕',
+ '把脑袋讽刺成一团硬骨头，转不过弯；是骂人的比喻，不是在认真描述骨骼结构。',
+ 'bone 骨 + head 头，贬义人物称呼，早期在棒球等口语里传播。head 在这里代整个人。',B[:1]+[['bone + head → bonehead','以硬脑袋比喻笨、不开窍的人']],
+ 'a complete bonehead 十足笨蛋，call someone a bonehead 骂某人笨蛋。',
+ 'a complete bonehead；call someone a bonehead；What a bonehead!。',
+ 'bonehead 是评价、骂人，不是智力测量术语；hardheaded 可说固执，也可能夸务实，语气与 bonehead 不同。',
+ ('I felt like a bonehead after locking myself out.','我把自己锁在门外后，觉得自己真是个笨蛋。'),('The character angrily calls his teammate a bonehead.','那个人物气得骂队友是笨蛋。'))
+W('boner','英 /ˈbəʊnə/；美 /ˈboʊnər/','勃起的阴茎〔粗俗俚语〕；蠢错误〔较旧口语〕',
+ '常见粗俗义借硬的感觉说勃起，不是说人体那里真有骨头；旧材料里 pull a boner 则可能只是在说犯了蠢错。',
+ '不同义不能只按 bone + -er 统一译成剔骨的人。蠢错义可能接 bonehead，粗俗义可能接较早 bone-on 等硬度比喻；确切中间关系保留不确定。',
+ [['英语 bone 的硬度意象；bonehead 的笨人比喻','不同俚语分支的相关材料'],['英语 boner 的不同俚语义','勃起；旧式蠢错称呼']],
+ 'have a boner 为粗俗性器官用语；pull a boner 在旧口语、棒球材料等可说犯蠢错。按年代与场景辨义。',
+ 'have a boner；pull a boner；an embarrassing boner。',
+ 'boner 不是表示比较级“更像骨头”的普通形式，bony 的比较级是 bonier；也不要把旧蠢错义强套到所有现代口语。',
+ ('His friends made a crude joke about his boner.','朋友们拿他的勃起开了个粗俗玩笑。'),('I really pulled a boner when I sent the letter to the wrong address.','我把信寄错地址，真犯了个蠢错。'),
+ sources=['https://www.etymonline.com/word/boner','https://en.wiktionary.org/wiki/boner#English'])
+R('B2440','硬骨架带来支撑、形状和硬度比喻','BONE：撑起身体，也撑起结构比喻','bone → bony、boneless；身体部位接 jawbone、cheekbone、tailbone；herringbone 借鱼骨形；bonehead、boner 分俚语路径。',
+ '骨词族可以描述材料、位置、形状，或用来骂人。比喻不是事实解剖，尤其 boner 不意味着那里真有骨头。',
+ 'bān → bone；bone + -y/-less；jaw/cheek/tail/collar/back/fish/herring + bone；bone + head。',
+ [['基础与有骨、无骨','bone · bony · boneless'],['身体部位与鱼骨','backbone · collarbone · jawbone · cheekbone · tailbone · fishbone'],['形状、地点与俚语','herringbone · wishbone · boneyard · bonehead · boner']],
+ 'bony/boneless 骨多、骨显与无骨；cheekbone/jawbone 颧骨颌骨；boner 的不同义不统一画成剔骨者。',
+ 'The bony fish was harder to eat than the boneless chicken.\n\n多刺的鱼比去骨鸡肉更难吃得方便。','bone bony boneless backbone collarbone jawbone cheekbone tailbone fishbone herringbone wishbone boneyard bonehead boner')
+L=[['古英语 blind → 中古英语 blynd → blind','看不见、光线不明；也有感知不清的旧比喻'],['英语直接派生','blindness 状态；blindly 不看、未经判断地；blinder 挡视线的物件'],['blindfold 的历史变化','旧 blindfellen、blindfelled 等受 fold 词形影响，成为蒙眼名称']]
+W('blind','/blaɪnd/','失明的；看不见的、视线受阻的；不了解的；百叶帘等遮光物；使看不见',
+ '眼前的信息进不来：可以是视力，也可以是转角挡住视线，或不知道一场测试的品牌。各场景只是借同一“看不到”的角度。',
+ '继承古英语 blind，形容词与感知比喻很早存在；名词 blinds 可指遮窗光的帘，动词 blind 是使暂时或长期看不见。',L[:2],
+ 'a blind person 盲人，a blind corner 看不清来向的拐角，blind to a problem 对问题视而不见，close the blinds 拉上百叶帘。',
+ 'blind to；a blind corner；a blind test；close the blinds。',
+ 'blind test 让参与者不知道相关信息，不是要求参与者失明；blinds 遮光帘也不等于普通语法里“多个盲人”。',
+ ('The sun briefly blinded the driver.','阳光让司机一时睁不开眼。'),('She closed the blinds to keep out the afternoon sun.','她拉上百叶帘，挡住午后的阳光。'))
+W('blindness','/ˈblaɪndnəs/','失明；视而不见、缺乏察觉',
+ '把看不见这种状态当名词说；比喻时也可批评某人看不到眼前明显的问题。',
+ 'blind + -ness，古英语已有 blindnes 等对应状态名词，现代可透明对照后缀。',L[:1]+[['blind + -ness 的旧形式 → blindness','失明状态；比喻缺乏察觉']],
+ 'temporary blindness 暂时失明，blindness to injustice 对不公的视而不见，colour blindness 色盲。',
+ 'temporary blindness；blindness to；colour blindness。',
+ 'blindness 视觉状态与比喻性不察觉要分；不因为同词有比喻就认为现实视力状况能推出一个人的判断力。',
+ ('The museum offers audio guides for visitors with blindness or low vision.','博物馆为失明或低视力访客提供语音导览。'),('The essay criticizes society’s blindness to poverty.','文章批评社会对贫困的视而不见。'))
+W('blindly','/ˈblaɪndli/','看不见地；盲目地、不加判断地',
+ '在黑暗里摸着找，或者不先看证据就跟着做；第二种是动作方式的比喻，不是说做事者真实视力如何。',
+ 'blind + -ly，对应古英语 blindlīċe 等早期形式，修饰寻找、跟随、接受等动作。',L[:1]+[['blind + -ly 的旧形式 → blindly','无视觉信息地；未经独立判断地']],
+ 'follow blindly 盲目跟随，accept blindly 不加判断接受，reach blindly 摸索伸手。',
+ 'follow blindly；accept blindly；reach blindly。',
+ 'blindly 可以字面看不见，也可说不审查；blindly follow 不等于对方一定错，而是自己没有作判断。',
+ ('He reached blindly for the light switch.','他摸索着伸手找电灯开关。'),('Do not accept the result blindly; check the evidence.','别不加判断就接受结果，先看看证据。'))
+W('blindfold','英 /ˈblaɪndfəʊld/；美 /ˈblaɪndfoʊld/','眼罩、蒙眼布；蒙住眼睛；蒙眼地',
+ '用布挡住眼睛，游戏里暂时不知道眼前是什么；现代能想到折布，却不能把“折布”当成最初造词的全部历史。',
+ '较早 blindfellen“使看不见”等及 blindfelled 分词形式发生变化，后来受 fold 折叠的词形联想影响。现在看着像 blind + fold，并不是最早一步就这样组成。',
+ [['旧 blindfellen、blindfelled 等','使看不见；相应分词形式'],['词形变化并受 fold 联想影响 → blindfold','蒙眼，继而蒙眼用的布罩']],
+ 'wear a blindfold 戴眼罩，put on a blindfold 蒙上眼，blindfold a player 给玩家蒙眼，play chess blindfold 蒙眼下棋、凭记忆下棋。',
+ 'wear a blindfold；put on a blindfold；blindfold a player。',
+ 'blindfold 通常遮住眼前视线；blinders 马眼罩多挡两侧视野，仍可看前面，不一定把全部视野盖黑。',
+ ('She put on a blindfold for the guessing game.','她戴上眼罩参加猜物游戏。'),('The performer solved the puzzle blindfold.','表演者蒙着眼解开了谜题。'),
+ sources=['https://www.etymonline.com/word/blindfold','https://en.wiktionary.org/wiki/blindfold#English'])
+W('blinder','英 /ˈblaɪndə/；美 /ˈblaɪndər/','马眼罩、视线遮挡物；精彩表现〔英口语〕',
+ '马的眼罩挡住两侧干扰，借来比喻人只看一个方向；英式口语 play a blinder 却是“发挥绝佳”，像出色到让人眼花。',
+ 'blind + -er，工具、事物名称，不必每次指一个弄瞎别人的人；精彩表现义接耀眼、惊人的比喻。',L[:1]+[['blind + -er → blinder','挡视线的物件、眼罩'],['英语口语比喻','令人惊艳的表现']],
+ 'horse blinders 马眼罩，take your blinders off 放开眼界，play a blinder 表现出色。',
+ 'horse blinders；take your blinders off；play a blinder。',
+ 'blinder 名词和 blind 的比较级可能同形；play a blinder 不等于玩一个盲人，也不是 blindfold 游戏的必然名称。',
+ ('The horse wore blinders to limit its view to the sides.','马戴着眼罩，限制两侧视野。'),('The goalkeeper played a blinder in the final.','门将在决赛里发挥得极其出色。'),
+ sources=['https://www.merriam-webster.com/dictionary/blinder','https://en.wiktionary.org/wiki/blinder#English'])
+R('B3978','视线进不来，或信息没有被看见','BLIND：失明、挡视线、信息未知各有语境','blind → blindness、blindly、blinder；blindfold 保留独特词形变化；blindside 接侧面未防备的比喻。',
+ '实际视力、临时遮挡和不察觉问题是不同使用场景。blind test 说不知道相关信息，play a blinder 反是表现惊艳。',
+ '古英语 blind → blind；+ -ness/-ly/-er；旧 blindfelled 等受 fold 影响 → blindfold；blind + side → blindside。',
+ [['基础、状态与方式','blind · blindness · blindly'],['遮视线工具与突然未防备','blindfold · blinder · blindside']],
+ 'blindfold/blinders 蒙眼与常挡两侧视野；blindly 字面和判断方式分；play a blinder 是赞出色。',
+ 'With the blindfold on, she reached blindly for the object on the table.\n\n蒙着眼，她摸索着伸手找桌上的物品。','blind blindness blindly blindfold blinder blindside')
+if __name__=='__main__':save('continuation_20261030_fn',ROOTS,WORDS)

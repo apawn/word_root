@@ -5,7 +5,7 @@
     "core": "CURR / CURS = RUN",
     "image": "沿路线往前跑；跑回来、一起跑、跑入某事，会产生不同词义",
     "intro": "**curr-/curs-** 来自拉丁语 **currere**“跑”，相关形式有 **cursus**。水流在跑是 current，钱在人群中流通是 currency，学习沿路线推进是 course、curriculum。再加方向：recur 跑回来，incur 跑进一笔负担，concur 跑到同一个判断上。",
-    "forms": "**curr-** 常见于 occur、recur、current；**curs-** 常见于 cursor、cursive、recursion。它们属于拉丁语同一词族的不同形式。法语音变又留下 course、courier 等。**cur-**“照料”是另一条词根，不能因为拼写相像就把 cure、curious 全拉进来。",
+    "forms": "**curr-** 常见于 occur、recur、current；**curs-** 常见于 cursor、cursive、recursion。它们属于拉丁语同一词族的不同形式。法语音变又留下 course、courier 等。**cur-**“照料”是另一条词根，不能因为拼写相像就把 cure、curious 全拉进来。\n\ncurriculum 接拉丁奔跑、进程材料，现代指课程体系、学习内容安排；复数 curricula，也可见 curriculums。\n\ncourse 接拉丁 currere 跑的 cursus 路程、路线，经法语 cours 借入；courses 也可作流过等动词形式。\n\n迎面跑来、呈现词族发展；现代过去形式双写 r。\n\n拉丁 occurrere 经法语或直接借入的不同路线，ing 双写 r。\n\n拉丁 cursor 是跑者，仪器与屏幕借可移动定位的用途。\n\ncurrent 经法语与拉丁 currere 跑的词族，名词常说水流、电流及思潮，复数 -s，结尾 /nts/。形容词 current 当前的本身不加复数。\n\ncurrency 接拉丁 currere 跑、流的词族，从流通发展到货币。现代 y 变 i 加 -es，复数常数不同货币体系。",
     "branches": [
       [
         "路线与学习进程",
@@ -34,6 +34,34 @@
       [
         "规则回到自身",
         "recursion · recursive · recursively"
+      ],
+      [
+        "curriculum 与 curricula：学习的路线",
+        "curriculum · curricula"
+      ],
+      [
+        "course → courses：跑过的路线、学习路径与菜序",
+        "course · courses"
+      ],
+      [
+        "occur → occurred：出现、发生与想到",
+        "occur · occurred"
+      ],
+      [
+        "occur → occurring：发生、出现在眼前或脑中",
+        "occur · occurring"
+      ],
+      [
+        "cursor → cursors：跑者词到移动指示件",
+        "cursor · cursors"
+      ],
+      [
+        "curr- 跑、流动 → currents",
+        "currents"
+      ],
+      [
+        "curr- 流动 → currency → currencies",
+        "currencies"
       ]
     ],
     "contrasts": "**occur / incur / recur**：事情发生 / 某人招致负担 / 事情再次发生。\n\n**concurrent / consecutive**：时间重叠 / 接连先后。\n\n**cursive / cursory**：连笔书写 / 草草看过；认真写连笔字完全可以。\n\n**recurrence / recursion**：事件复现 / 规则或过程自我引用，不是同一个“重复”。",
@@ -70,7 +98,14 @@
       "recursive",
       "recursively",
       "curriculum",
-      "extracurricular"
+      "extracurricular",
+      "curricula",
+      "courses",
+      "occurred",
+      "occurring",
+      "cursors",
+      "currents",
+      "currencies"
     ]
   }
 ]

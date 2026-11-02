@@ -1,0 +1,126 @@
+[
+  {
+    "id": "B2690",
+    "meaning": "学习、获得知识技能、得知",
+    "core": "LEARN：把不会变成会，把不知道变成知道",
+    "image": "学的过程 learning，学的人 learner；旧模式可能要 unlearn，再把技能 relearn。",
+    "intro": "learn 接古英语 leornian。learned 普通过去、分词常一个音节，博学形容词常两个；learnt 是常见英式过去、分词形式。",
+    "forms": "learn → learner、learning、learned；unlearn / relearn 相邻对照撤旧与再学。\n\nlearnt 与 learned 都可作 learn 的过去式、过去分词；learnt 较常见于英式。形容词 learned 博学的另有两个音节的读法。\n\nlearn 继承古英语 leornian；learns 不只说上课，也可说新知道一个事实。",
+    "branches": [
+      [
+        "学与学习者、所得知识",
+        "learn · learner · learning · learned"
+      ],
+      [
+        "改掉旧模式与重新学",
+        "unlearn · relearn"
+      ],
+      [
+        "learn 的两种常用过去拼写",
+        "learn · learnt · learned"
+      ],
+      [
+        "learn → learns：学会、学到与得知",
+        "learn · learns"
+      ]
+    ],
+    "contrasts": "study 关注学习活动，learn 常关注获得、学会；learned 学过与博学两读分开；unlearn 不只是无意忘记。",
+    "practice": "A quick learner may still need to unlearn old habits and relearn a skill.\n\n学得快的人也可能需要改掉旧习惯，重新学一项技能。",
+    "words": [
+      "learn",
+      "learner",
+      "learning",
+      "learned",
+      "unlearn",
+      "relearn",
+      "learnt",
+      "learns"
+    ],
+    "exclude": {
+      "must-learn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2733",
+    "meaning": "本性、种类；友善、体贴",
+    "core": "KIND：一边分种类，一边说怎样待人",
+    "image": "现代先分 two kinds 与 a kind person；历史再看相关的本性、天生特征旧词族。",
+    "intro": "名词 kind 接 cynd，形容词接相关 cynde，后来善待、合宜等义发展出友善。不能直接说同类就必然友好，也不把所有同样拼法的词都算现代英语 kind 派生。",
+    "forms": "kind → kindly、kindness、unkind；kind + hearted → kindhearted。\n\n本族种类名词，和形容词友善的历史相关而现代用途不同。\n\nkind 名词种类有同族、性质背景；kind of 的近似、稍微义在口语中连读成 kinda，a 记录弱元音，不是新后缀。",
+    "branches": [
+      [
+        "种类与友善的基本词",
+        "kind"
+      ],
+      [
+        "方式、性质和反面",
+        "kindly · kindness · unkind"
+      ],
+      [
+        "心地的描述",
+        "kindhearted"
+      ],
+      [
+        "kind → kinds：本性、类别与多种",
+        "kind · kinds"
+      ],
+      [
+        "kind of → kinda：有点、算是的口语弱化",
+        "kinda"
+      ]
+    ],
+    "contrasts": "What kind? 问种类；kindness 善意；kindly 也可形容慈祥；kindhearted 心地善、lighthearted 心情轻。",
+    "practice": "The kindhearted teacher treated every kind of learner with kindness.\n\n这位心地善良的老师，体贴对待各种学习者。",
+    "words": [
+      "kind",
+      "kindly",
+      "kindness",
+      "unkind",
+      "kindhearted",
+      "kinds",
+      "kinda"
+    ],
+    "exclude": {
+      "in-kind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3359",
+    "meaning": "强、有力；坚固、强烈、浓",
+    "core": "STRONG：施得出力，扛得住力，观点也有分量",
+    "image": "先看强的对象是人、桥、味道还是证据，再选力量、坚固、浓度或说服力的画面。",
+    "intro": "strong 接古英语 strang；strength 接对应旧名词，现代不是任意改元音；strengthen 的 -en 有历史重分析。stronger、strongest 常有 /ɡ/，strong、strongly 不机械套这读音。",
+    "forms": "strong → strongly；strong ↔ strength → strengthen；stronghold、strongman、headstrong 分别说地方、人、性格。\n\nstrong 的 strongest 常在 /ŋ/ 后读出 /ɡ/，不要只按单数基本词的末尾音照抄。",
+    "branches": [
+      [
+        "强度、方式、力量与增强",
+        "strong · strongly · strength · strengthen"
+      ],
+      [
+        "据点、人物和性格",
+        "stronghold · strongman · headstrong"
+      ],
+      [
+        "strong → stronger → strongest：最有力、最强",
+        "strong · stronger · strongest"
+      ]
+    ],
+    "contrasts": "strong coffee 浓、strong argument 有力；strength 长处可数；stronghold 地方、strongman 人；headstrong 常批评固执。",
+    "practice": "The team strongly supported a plan to strengthen the old bridge.\n\n团队坚决支持加固老桥的计划。",
+    "words": [
+      "strong",
+      "strongly",
+      "strength",
+      "strengthen",
+      "stronghold",
+      "strongman",
+      "headstrong",
+      "stronger",
+      "strongest"
+    ],
+    "exclude": {
+      "strong-arm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "strong-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

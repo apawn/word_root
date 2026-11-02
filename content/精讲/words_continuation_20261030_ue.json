@@ -1,0 +1,308 @@
+[
+  {
+    "word": "naught",
+    "ipa": "英 /nɔːt/；美 /nɔːt/ 或 /nɑːt/",
+    "meaning": "无、毫无；固定表达中：白费、一无所获",
+    "sense": "花了许多力气，最后什么也没留下：all came to naught。它常把一番努力归到零。",
+    "split": "接古英语 nawiht 等，旧结构相当于 no + thing：na 否定，wiht 指事物。音节逐渐缩短，经过中古英语形成 naught；数字零等义也由什么都没有发展。",
+    "history": [
+      [
+        "古英语 na + wiht → nawiht 等",
+        "没有任何东西"
+      ],
+      [
+        "中古英语相关形式 → naught",
+        "无；零；努力白费的固定表达"
+      ]
+    ],
+    "explanation": "come to naught 最终落空；all for naught 全白费了；set at naught 把某物看得毫无价值，较书面。日常直接说没有，通常用 nothing 更自然。",
+    "usage": "efforts came to naught；it was all for naught。",
+    "contrast": "naught 与 nought 同族、常同音；nought 在英式读零时更常见，naught 更常出现在书面、修辞的白费表达，分工并非绝对。",
+    "examples": [
+      [
+        "Months of planning came to naught when the event was cancelled.",
+        "活动取消，几个月的筹划都落了空。"
+      ],
+      [
+        "They worried that all their work had been for naught.",
+        "他们担心所有工作都白费了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/naught",
+      "https://en.wiktionary.org/wiki/naught#English"
+    ]
+  },
+  {
+    "word": "nought",
+    "ipa": "英 /nɔːt/；美 /nɔːt/ 或 /nɑːt/",
+    "meaning": "零〔尤其英式〕；无、一无所获",
+    "sense": "小数点前一个零，英式可读 nought point five。它背后的老画面就是一个东西也没有。",
+    "split": "接古英语 nowiht、nawiht 等否定加事物的复合，与 naught 同族。不同拼写有长期历史；零的读法和一无所获的固定表达后来并行。",
+    "history": [
+      [
+        "古英语 nowiht／nawiht 等",
+        "没有东西、什么也没有"
+      ],
+      [
+        "现代 nought",
+        "数字零；come to nought 等固定表达"
+      ]
+    ],
+    "explanation": "nought point five 0.5；noughts and crosses 英式井字棋游戏名；come to nought 最终落空。美式普通读零常用 zero。",
+    "usage": "nought point two；all came to nought。",
+    "contrast": "nought 的 gh 在常见现代读音中不发音。nought 和 naught 拼写不同而同源，不能按字母数断定一个是另一个加了后缀。",
+    "examples": [
+      [
+        "The display read nought point five.",
+        "显示屏上显示零点五。"
+      ],
+      [
+        "The children played noughts and crosses on a sheet of paper.",
+        "孩子们在一张纸上玩井字棋。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/nought",
+      "https://en.wiktionary.org/wiki/nought#English"
+    ]
+  },
+  {
+    "word": "tonight",
+    "ipa": "/təˈnaɪt/",
+    "meaning": "今晚；在今晚",
+    "sense": "把时间指针落在今天接下来的夜里，或此刻正在过的这一夜。tonight 不是每个夜晚，而是这一个晚上。",
+    "split": "接古英语 toniht，to 在旧时间表达中相当于在、于，niht 是夜晚。历史上经历分写、加连字符和合写，现代通常写一个词 tonight。",
+    "history": [
+      [
+        "古英语 to + niht → toniht",
+        "在当前或即将到来的夜里"
+      ],
+      [
+        "后来分写、连写等 → 现代 tonight",
+        "今晚；用作副词或时间名词"
+      ]
+    ],
+    "explanation": "see you tonight 今晚见；tonight’s meeting 今晚的会议；stay here tonight 今晚住这里；late tonight 今晚较晚时候。",
+    "usage": "tonight at eight；by tonight。",
+    "contrast": "普通时间副词直接说 tonight，不说 on tonight。this evening 与 tonight 常有重叠，具体晚间边界依场景，不必硬划统一几点钟。",
+    "examples": [
+      [
+        "Are you free tonight?",
+        "你今晚有空吗？"
+      ],
+      [
+        "Tonight’s concert starts at eight.",
+        "今晚的音乐会八点开始。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tonight",
+      "https://en.wiktionary.org/wiki/tonight#English"
+    ]
+  },
+  {
+    "word": "children",
+    "ipa": "/ˈtʃɪldrən/",
+    "meaning": "孩子们；子女；child 的复数",
+    "sense": "不止一个孩子，用 children；说某人的 children，也可以说已经成年的子女，重点是亲子关系。",
+    "split": "child 接古英语 cild。旧复数后来出现 cildru、childer 等形式，中古英语又加复数词尾 -en，形成 children，常被称为双重复数。现代只把它当固定复数用。",
+    "history": [
+      [
+        "古英语 cild → 旧复数 cildru、childer 等",
+        "孩子及其旧复数形式"
+      ],
+      [
+        "再加复数 -en → children",
+        "旧复数上再添词尾，成为现代固定形式"
+      ]
+    ],
+    "explanation": "young children 年幼的孩子；adult children 成年子女；children’s books 儿童读物。所有格写 children’s，已有复数含义。",
+    "usage": "two children；her three children；the children are playing。",
+    "contrast": "child → children；不能再写 childrens。children’s 的 ’s 标所有关系，不是再标一次普通复数。",
+    "examples": [
+      [
+        "The children are playing in the garden.",
+        "孩子们正在花园里玩。"
+      ],
+      [
+        "Both of her children now live abroad.",
+        "她的两个子女现在都住在国外。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/children",
+      "https://en.wiktionary.org/wiki/children#English"
+    ]
+  },
+  {
+    "word": "women",
+    "ipa": "/ˈwɪmɪn/",
+    "meaning": "女性、女人；woman 的复数",
+    "sense": "一位女性是 a woman，多位女性是 women。写法只改一个字母，读音却要把两个音节一起换到熟悉的声音。",
+    "split": "woman 接古英语 wifman 等，历史结构为表示女性的 wif 加表示人的 man；旧复数有 wifmen、wimmen 等。women 保留较早的首音节元音材料，现代与 woman 的读音分开。",
+    "history": [
+      [
+        "古英语 wifman；旧复数 wifmen、wimmen 等",
+        "女性；相关复数形式"
+      ],
+      [
+        "现代 woman／women",
+        "单数 /ˈwʊmən/；复数 /ˈwɪmɪn/"
+      ]
+    ],
+    "explanation": "two women 两位女性；women’s clothing 女装；women doctors 女性医生，作为性别限定时会见前后名词都用复数。",
+    "usage": "women in science；a group of women。",
+    "contrast": "woman 第一音节常 /wʊ/，women 常 /wɪ/；不要把复数也照单数读。women’s 是所有格，women 已经是复数。",
+    "examples": [
+      [
+        "Three women were waiting by the entrance.",
+        "三位女性在入口旁等候。"
+      ],
+      [
+        "The exhibition celebrates women in science.",
+        "展览致敬科学领域的女性。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/women",
+      "https://en.wiktionary.org/wiki/women#English"
+    ]
+  },
+  {
+    "word": "teeth",
+    "ipa": "/tiːθ/",
+    "meaning": "牙齿〔复数〕；齿状部件；tooth 的复数",
+    "sense": "嘴里一颗颗牙是 teeth；锯子上一排能咬进木头的小尖齿，也借这个形状和作用来命名。",
+    "split": "tooth 接古英语 toð，复数 teð 等。更早的复数词尾影响词干元音，词尾后来消失，元音差异留下，这叫 i 变音；现代并非临时把 oo 换成 ee 的新规则。",
+    "history": [
+      [
+        "较早词尾引起 i 变音 → 古英语 toð／teð",
+        "单复数通过词干元音区分"
+      ],
+      [
+        "现代 tooth → teeth",
+        "牙齿复数；引申为工具上的齿"
+      ]
+    ],
+    "explanation": "brush your teeth 刷牙；clench your teeth 咬紧牙关；the teeth of a saw 锯齿；by the skin of one’s teeth 勉强、险些没成功。",
+    "usage": "front teeth；a gap between the teeth。",
+    "contrast": "teeth 末尾是清音 /θ/，舌尖靠近或轻置上下齿间送气。teethe 长牙是相关动词，末尾常读浊音 /ð/。",
+    "examples": [
+      [
+        "She brushed her teeth before bed.",
+        "她睡前刷了牙。"
+      ],
+      [
+        "The teeth of the old saw were badly worn.",
+        "那把旧锯子的锯齿磨损得很厉害。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tooth",
+      "https://en.wiktionary.org/wiki/teeth#English"
+    ]
+  },
+  {
+    "word": "feet",
+    "ipa": "/fiːt/",
+    "meaning": "脚〔复数〕；英尺〔复数〕；foot 的复数",
+    "sense": "两只脚站在地上，是 feet；量一堵墙有多高，也可以用英尺。单位名称借了脚这一旧尺度。",
+    "split": "foot 接古英语 fot，复数元音差别承接旧 i 变音：更早的词尾曾改变前面的元音，后来词尾消失。长度单位 foot 在古英语中已有，历史长度并非始终相同。",
+    "history": [
+      [
+        "古英语 foot 词族的旧单复数元音区别",
+        "脚；也用作长度单位"
+      ],
+      [
+        "现代 foot → feet",
+        "脚的复数；英尺的复数"
+      ]
+    ],
+    "explanation": "my feet hurt 我的脚疼；six feet tall 六英尺高；on your feet 站着；get back on your feet 恢复站稳，也可比喻恢复生活、经济状态。",
+    "usage": "two feet away；stand on both feet。",
+    "contrast": "The wall is six feet high 用复数 feet；a six-foot wall 作名词前的复合修饰，用单数 foot。on foot 徒步是固定单数搭配。",
+    "examples": [
+      [
+        "My feet were tired after the long walk.",
+        "走了那么远，我的脚都累了。"
+      ],
+      [
+        "The wall is about six feet high.",
+        "那堵墙大约六英尺高。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/foot",
+      "https://en.wiktionary.org/wiki/feet#English"
+    ]
+  },
+  {
+    "word": "mice",
+    "ipa": "/maɪs/",
+    "meaning": "老鼠〔复数〕；鼠标〔复数之一〕",
+    "sense": "一只小老鼠是 a mouse，一群是 mice。电脑里那种手握着移动的小装置后来也叫 mouse，所以它的复数也会遇到 mice。",
+    "split": "mouse 接古英语 mus，旧复数 mys 已有元音差别，属 i 变音；后续语音变化形成现代 /maʊs/ 与 /maɪs/。电脑装置名称借自外形联想。",
+    "history": [
+      [
+        "古英语 mus／mys 等",
+        "老鼠单复数的旧元音区别"
+      ],
+      [
+        "现代 mouse／mice；再借用于电脑装置",
+        "老鼠；鼠标及其复数"
+      ]
+    ],
+    "explanation": "field mice 田鼠；a pair of mice 两只老鼠；wireless mice 无线鼠标。电脑鼠标的复数 mouses 也有使用，动物复数通常 mice。",
+    "usage": "mice in the cupboard；computer mice。",
+    "contrast": "mice 不再加普通复数 s。mouse 的动词过去式是 moused，不能用 mice 当成捉老鼠的过去式。",
+    "examples": [
+      [
+        "We found mice in the garden shed.",
+        "我们在花园棚屋里发现了老鼠。"
+      ],
+      [
+        "The office ordered ten wireless mice.",
+        "办公室订购了十个无线鼠标。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mouse",
+      "https://en.wiktionary.org/wiki/mice#English"
+    ]
+  },
+  {
+    "word": "geese",
+    "ipa": "/ɡiːs/",
+    "meaning": "鹅〔复数〕；goose 的复数",
+    "sense": "一只鹅是 a goose，一群鹅走向池塘就是 geese。这个词先把整群鸟装进一个复数形式。",
+    "split": "goose 接古英语 gos 等，复数 geese 的元音变化来自旧 i 变音。它与 foot／feet、tooth／teeth 类似，都是旧词尾消失后留下的词干差别。",
+    "history": [
+      [
+        "古英语 gos 等及旧复数变化",
+        "鹅；单复数的元音区分"
+      ],
+      [
+        "现代 goose → geese",
+        "现代固定复数形式"
+      ]
+    ],
+    "explanation": "a flock of geese 一群鹅；wild geese 雁、野鹅，具体鸟种依语境；geese on the pond 池塘里的鹅。",
+    "usage": "two geese；geese flying overhead。",
+    "contrast": "goose /ɡuːs/，geese /ɡiːs/。这是特定旧词的形式，不能把 moose 等其他 oo 词也类推成 meese。",
+    "examples": [
+      [
+        "A flock of geese landed on the lake.",
+        "一群鹅降落在湖面上。"
+      ],
+      [
+        "Two geese walked slowly across the path.",
+        "两只鹅慢慢走过小路。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/goose",
+      "https://en.wiktionary.org/wiki/geese#English"
+    ]
+  }
+]

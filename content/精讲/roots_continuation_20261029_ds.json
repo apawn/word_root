@@ -1,0 +1,59 @@
+[
+  {
+    "id": "B2511",
+    "meaning": "血液；血缘、流血与相关比喻",
+    "core": "BLOOD：身体的血，也联系生命、家族与情绪",
+    "image": "先区分身体中流动的血、血迹和血缘，再读流血事件、暴力欲望与新闻比喻。",
+    "intro": "blood 继承古英语 blōd，更远来源不定。多数复合词能按现代基本词组合，但 stream、line、borne 各有不同角色。",
+    "forms": "blood → bloody、bloodless、bloodstained；blood + stream、borne、line；bloodshed、bloodbath 表事件；bloodthirsty、bloodlust 表欲望；bloodhound 为犬名。",
+    "branches": [
+      [
+        "核心、血迹与无流血",
+        "blood · bloody · bloodstained · bloodless · bloodshot"
+      ],
+      [
+        "身体通路与传播",
+        "bloodstream · bloodborne"
+      ],
+      [
+        "血缘与犬名",
+        "bloodline · bloodhound"
+      ],
+      [
+        "冲突与强烈欲望",
+        "bloodshed · bloodbath · bloodthirsty · bloodlust"
+      ],
+      [
+        "生命力的比喻",
+        "lifeblood"
+      ]
+    ],
+    "contrasts": "bloodline 世系，不是 bloodstream 血流；bloodborne 的 borne 是携带，不是 born 出生；bloody 可只是粗口强调。",
+    "practice": "The report called trade the lifeblood of the town.\n\n报告称贸易是这个小镇的命脉。",
+    "words": [
+      "blood",
+      "bloody",
+      "bloodstained",
+      "bloodless",
+      "bloodshot",
+      "bloodstream",
+      "bloodborne",
+      "bloodline",
+      "bloodhound",
+      "bloodshed",
+      "bloodbath",
+      "bloodthirsty",
+      "bloodlust",
+      "lifeblood"
+    ],
+    "exclude": {
+      "half-blood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-blood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blooded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "youngblood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bloodletting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bloodstock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bloodstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C1420",
+    "meaning": "力量；强度",
+    "core": "STHEN：有多大力量，或缺少力量",
+    "image": "肌肉发力不足与岩层容易变形，是两个领域对强弱的命名。",
+    "intro": "希腊 sthenos 表示力量。a- 否定形成无力一支，进入 asthenia、myasthenia 和 asthenosphere；hypo- 低于形成 hyposthenia。sthenia 的英语反而是从 asthenia 逆构。",
+    "forms": "my- 肌肉，a- 不，hypo- 低，-sphere 圈层。先分清每词对象，再理解强弱；不能把 sthenia 排成所有英文长词的祖先。",
+    "branches": [
+      [
+        "人体力量",
+        "asthenia · myasthenia · hyposthenia · sthenia"
+      ],
+      [
+        "地球圈层",
+        "asthenosphere"
+      ]
+    ],
+    "contrasts": "asthenia 不是 asthma；软流圈的弱也不等于整层是液体。",
+    "practice": "用一句话分别解释无力的肌肉和相对易变形的岩层为何共享 sthen-。",
+    "words": [
+      "asthenia",
+      "myasthenia",
+      "hyposthenia",
+      "sthenia",
+      "asthenosphere"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1393",
+    "meaning": "穗；尖刺；针状结构",
+    "core": "SPIC：细长轴上的穗，或细小尖头",
+    "image": "穗的排列与针刺的尖细形象，在不同术语中分别保留。",
+    "intro": "拉丁 spica 是穗，spiculum 是小尖头。spicate、spicose 侧重穗；spicule 及几个相关形容词侧重小针状结构。spica 还进入绷带和星名。",
+    "forms": "spicate 与 spiculate 的拼写、读音和所指均不同。spicular 说相关，spiculiform 说形似；不把三个形容词当成随便可换的长短形式。",
+    "branches": [
+      [
+        "穗与排列",
+        "spica · spicate · spicose"
+      ],
+      [
+        "小针状结构",
+        "spicule · spicular · spiculate · spiculiform"
+      ]
+    ],
+    "contrasts": "Spica 大写是角宿一；spiculate 不是 spicy 辛辣的。相近开头须结合完整词形。",
+    "practice": "先对照 spicate 与 spiculate，再用 spicule、spicular、spiculiform 区分物体、属性和形似。",
+    "words": [
+      "spica",
+      "spicate",
+      "spicose",
+      "spicule",
+      "spicular",
+      "spiculate",
+      "spiculiform"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0086",
+    "meaning": "囊；皮袋",
+    "core": "ASC：容纳东西的小囊，进入不同技术命名",
+    "image": "装液体的袋状画面与真菌产孢结构，各自发展成专门名称。",
+    "intro": "希腊 askos 是皮囊。ascites、ascitic 进入腹水名称；ascus、ascospore、ascocarp、ascoma、ascomycete 构成真菌词群；ascidium 侧重植物瓶状器官。",
+    "forms": "ascus 的复数 asci，ascoma 的复数 ascomata，ascidium 的复数 ascidia。词形变化不是简单在所有拉丁名词后加 s。",
+    "branches": [
+      [
+        "医学名称",
+        "ascites · ascitic"
+      ],
+      [
+        "真菌的层次",
+        "ascus · ascospore · ascocarp · ascoma · ascomycete"
+      ],
+      [
+        "瓶状植物器官",
+        "ascidium"
+      ]
+    ],
+    "contrasts": "分清子囊、孢子、子囊果和子囊菌；它们分别是细胞、繁殖单位、子实体与生物成员。",
+    "practice": "用一张文字层级说明：ascomycete 形成 ascocarp／ascoma，其中有 asci，asci 中形成 ascospores。",
+    "words": [
+      "ascites",
+      "ascitic",
+      "ascus",
+      "ascospore",
+      "ascocarp",
+      "ascoma",
+      "ascomycete",
+      "ascidium"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0279",
+    "meaning": "腿；小腿；腿状支撑",
+    "core": "CRUR：一条腿，也可以借形命名分支",
+    "image": "两个支脚是数量，相等的两腰则再加长度关系。",
+    "intro": "拉丁 crus 的词干是 crur-。crural 是相关形容词，bicrural 加二，equicrural 加相等；后者的旧几何用法把腰比作腿。",
+    "forms": "单数 crus、复数 crura，不能把词干变化当作新的独立根。equi- 与 bi- 分别给出相等关系和数量，不能互换。",
+    "branches": [
+      [
+        "结构与属性",
+        "crus · crural"
+      ],
+      [
+        "数量和相等关系",
+        "bicrural · equicrural"
+      ]
+    ],
+    "contrasts": "两脚不一定等长，等腰也不一定三边全等；医学里的 crus 还可能是其他器官的柄状部分。",
+    "practice": "分别用 two legs 与 equal legs 解释 bicrural、equicrural，再说出 crus 的复数。",
+    "words": [
+      "crus",
+      "crural",
+      "bicrural",
+      "equicrural"
+    ],
+    "exclude": {}
+  }
+]

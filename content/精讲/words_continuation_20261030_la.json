@@ -1,0 +1,285 @@
+[
+  {
+    "word": "unfairly",
+    "ipa": "英 /ʌnˈfeəli/；美 /ʌnˈferli/",
+    "meaning": "不公平、不公正地",
+    "sense": "同样的规则却偏着用，或一个人无端多担责任，unfairly 评价对待、分配、判断的方式不公。",
+    "split": "unfair + -ly，也能对应 un- + fairly。un- 否定公正，-ly 把它放到动作方式上。",
+    "history": [
+      [
+        "fair 公正、合理 + un- 不 → unfair",
+        "待遇、规则、判断不公正"
+      ],
+      [
+        "unfair + -ly、-ness",
+        "不公正地；不公平的性质、情况"
+      ]
+    ],
+    "explanation": "unfairly blamed 被不公正地责怪，treated unfairly 受到不公平对待，unfairly dismissed 被不公正地解雇。具体事实、规则须由语境说明。",
+    "usage": "treated unfairly；unfairly blamed。",
+    "contrast": "unfairly 不只是处理结果不同。是否公正还要看条件、规则和理由，词本身是在表达评价。",
+    "examples": [
+      [
+        "She was unfairly blamed for a mistake she had not made.",
+        "她没犯那个错，却被不公正地责怪。"
+      ],
+      [
+        "The judge thought the points had been awarded unfairly.",
+        "裁判认为分数给得不公平。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfairly#English"
+    ]
+  },
+  {
+    "word": "unfairness",
+    "ipa": "英 /ʌnˈfeənəs/；美 /ʌnˈfernəs/",
+    "meaning": "不公平、不公正；不公正的情况",
+    "sense": "把规则、待遇中偏斜、不合理的地方单独拿出来谈，就是 unfairness。",
+    "split": "unfair + -ness。-ness 将形容词性质变成名词，可说状态，也可结合语境指某种不公。",
+    "history": [
+      [
+        "fair 公正、合理 + un- 不 → unfair",
+        "待遇、规则、判断不公正"
+      ],
+      [
+        "unfair + -ly、-ness",
+        "不公正地；不公平的性质、情况"
+      ]
+    ],
+    "explanation": "the unfairness of a rule 一条规则的不公，a sense of unfairness 感到不公平，challenge unfairness 反对不公。",
+    "usage": "a sense of unfairness；the unfairness of the system。",
+    "contrast": "unfairness 是性质、状况名词，unfairly 是方式副词：the unfairness of the decision；decide unfairly。",
+    "examples": [
+      [
+        "The children quickly noticed the unfairness of the rule.",
+        "孩子们很快发现规则不公平。"
+      ],
+      [
+        "A sense of unfairness remained after the meeting.",
+        "会议后，大家仍觉得受了不公正对待。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfairness#English"
+    ]
+  },
+  {
+    "word": "warrant",
+    "ipa": "英 /ˈwɒrənt/；美 /ˈwɔːrənt/，也读 /ˈwɑːrənt/",
+    "meaning": "令状、授权凭证；依据、保证；使有充分理由、保证",
+    "sense": "有人或凭证替一项行动作保、给它授权，是较早的核心；证据足以支持某结论，也就能 warrant that conclusion。",
+    "split": "借中古英语 warant 相关形式，经古法语 warant、garant，追到日耳曼保护词族。名词从保护、担保走向授权、令状；动词从保护保证走向提供理由。",
+    "history": [
+      [
+        "日耳曼保护词族 → 古法语 warant、garant 等",
+        "保护者、保证、担保"
+      ],
+      [
+        "授权、保证 → warrant",
+        "令状、授权凭证；支持判断的依据"
+      ],
+      [
+        "动作与否定性质",
+        "warrant 使有理由、保证；warrantless 未持相应令状"
+      ]
+    ],
+    "explanation": "a search warrant 搜查令，an arrest warrant 逮捕令，warrant attention 值得注意，warrant further investigation 有理由进一步调查。",
+    "usage": "a search warrant；warrant attention；warrant further investigation。",
+    "contrast": "warrant 动词不是每次批准法律文书；This warrants attention. 是这值得注意、有理由重视。warranty 现代常用于保修、保证等相关名词。",
+    "examples": [
+      [
+        "The judge signed a search warrant.",
+        "法官签署了搜查令。"
+      ],
+      [
+        "The unusual result warrants further investigation.",
+        "这个异常结果值得进一步调查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/warrant#English",
+      "https://www.etymonline.com/word/warrant"
+    ]
+  },
+  {
+    "word": "warrantless",
+    "ipa": "英 /ˈwɒrəntləs/；美 /ˈwɔːrəntləs/",
+    "meaning": "未持令状的、无相应令状授权的",
+    "sense": "search 前加 warrantless，重点就是没有先拿到相应法院令状。它是在给行动是否持令状加一个限定。",
+    "split": "warrant 令状、授权 + -less 没有。法律语境常修饰 search、arrest 等活动。",
+    "history": [
+      [
+        "日耳曼保护词族 → 古法语 warant、garant 等",
+        "保护者、保证、担保"
+      ],
+      [
+        "授权、保证 → warrant",
+        "令状、授权凭证；支持判断的依据"
+      ],
+      [
+        "warrant + -less → warrantless",
+        "没有相应令状的性质"
+      ]
+    ],
+    "explanation": "a warrantless search 无令状搜查，a warrantless arrest 无令状逮捕。该词描述是否事先持令状，具体法律判断还涉及相应规则、事实和例外。",
+    "usage": "a warrantless search；a warrantless arrest。",
+    "contrast": "warrantless 不应只凭后缀就翻成所有情况下都非法；unwarranted 常更广地说没有依据、不合理，侧重点不同。",
+    "examples": [
+      [
+        "The article examines a dispute over a warrantless search.",
+        "文章分析一场关于无令状搜查的争议。"
+      ],
+      [
+        "The court reviewed the circumstances of the warrantless arrest.",
+        "法院审查了那次无令状逮捕的具体情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/warrantless#English",
+      "https://www.law.cornell.edu/wex/warrantless"
+    ]
+  },
+  {
+    "word": "nevermore",
+    "ipa": "英 /ˌnevəˈmɔː/；美 /ˌnevərˈmɔːr/",
+    "meaning": "再也不、永不再〔文学用语〕",
+    "sense": "不只是这一次不做，而是把未来也关上：以后再也不。它比日常 never again 更有诗歌、故事的语气。",
+    "split": "承中古英语 nevermore，更早有古英语 nǣfre mā 的相应短语。现代对应 never + more，此处 more 取再、此后延续的用法。",
+    "history": [
+      [
+        "古英语 nǣfre mā → 中古英语 nevermore",
+        "在此以后再也不"
+      ],
+      [
+        "never + more 的现代透明关系",
+        "never 从不、再不；more 再、进一步，合成文学副词"
+      ]
+    ],
+    "explanation": "return nevermore 再不回来，nevermore to be seen 从此不再见到。现代常见于诗歌、标题、刻意文学化叙述，日常常说 never again。",
+    "usage": "return nevermore；nevermore to be seen。",
+    "contrast": "nevermore 整体是副词，不是 no more 的每个场景都能替换；No more coffee. 不能换成一个 nevermore coffee。",
+    "examples": [
+      [
+        "In the legend, the ship sailed away and returned nevermore.",
+        "传说中，船驶远了，再也没有回来。"
+      ],
+      [
+        "The poem imagines a door that will open nevermore.",
+        "诗中想象一扇永不再开的门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nevermore#English"
+    ]
+  },
+  {
+    "word": "antiterrorism",
+    "ipa": "/ˌæntiˈterərɪzəm/，anti- 也可读 /ˌæntaɪ/",
+    "meaning": "反恐、反恐活动；反恐的",
+    "sense": "anti- 指向反对、抵御，后面完整接 terrorism。它命名反恐这一领域，也常放在 policy、training 等名词前作修饰。",
+    "split": "anti- + terrorism。terrorism 是已有完整词，不把 -ism 单独理解成每次都表示信仰。也有加连字符的拼法，本页使用连写词形。",
+    "history": [
+      [
+        "terror 恐怖、恐惧相关词 → terrorism",
+        "特定政治暴力等背景下固定的恐怖主义名称"
+      ],
+      [
+        "anti- + terrorism → antiterrorism",
+        "反对、预防、应对恐怖主义的活动及相关性质"
+      ]
+    ],
+    "explanation": "antiterrorism cooperation 反恐合作，antiterrorism policy 反恐政策，antiterrorism training 反恐培训。",
+    "usage": "antiterrorism cooperation；antiterrorism policy。",
+    "contrast": "一般语言中 antiterrorism、counterterrorism 有重叠；某些机构作更细区分，不能只按前缀就断言全球固定分工。",
+    "examples": [
+      [
+        "The report discusses international antiterrorism cooperation.",
+        "报告讨论国际反恐合作。"
+      ],
+      [
+        "The library has a collection of studies on antiterrorism policy.",
+        "图书馆收藏了一批反恐政策研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/antiterrorism#English",
+      "https://www.merriam-webster.com/dictionary/antiterrorism"
+    ]
+  },
+  {
+    "word": "underwear",
+    "ipa": "英 /ˈʌndəweə/；美 /ˈʌndərwer/",
+    "meaning": "内衣、贴身衣物",
+    "sense": "穿在外层衣服里面、贴近身体的衣物，统称 underwear。范围常包括内裤、文胸、背心等，不只一种单件衣服。",
+    "split": "under- 在下面、里面 + wear 穿着物类别，按穿着层次命名。现代通常作不可数集合名词。",
+    "history": [
+      [
+        "古英语 werian 等 → wear",
+        "穿、戴"
+      ],
+      [
+        "wear 作复合词后部",
+        "按位置、材料、用途、人群命名穿戴物类别"
+      ],
+      [
+        "underwear、knitwear",
+        "内层穿的衣物；针织衣物"
+      ]
+    ],
+    "explanation": "clean underwear 干净内衣，a change of underwear 一套替换内衣，thermal underwear 保暖内衣。",
+    "usage": "clean underwear；a change of underwear；thermal underwear。",
+    "contrast": "通常不说 an underwear；可说 a piece of underwear，或用具体衣物名。underwear 与 outerwear 按内外层对照。",
+    "examples": [
+      [
+        "She packed a change of underwear for the trip.",
+        "她为旅行装了一套替换内衣。"
+      ],
+      [
+        "Thermal underwear kept him warm on the cold morning.",
+        "寒冷的早晨，保暖内衣让他暖和。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underwear#English"
+    ]
+  },
+  {
+    "word": "knitwear",
+    "ipa": "英 /ˈnɪtweə/；美 /ˈnɪtwer/",
+    "meaning": "针织衣物",
+    "sense": "毛线等针织成的毛衣、开衫等，不看内外层，而看制作方式，统称 knitwear。",
+    "split": "knit 针织 + wear 衣物类别。knit 的 k 静音，整体从 /n/ 起读，通常不可数。",
+    "history": [
+      [
+        "古英语 werian 等 → wear",
+        "穿、戴"
+      ],
+      [
+        "wear 作复合词后部",
+        "按位置、材料、用途、人群命名穿戴物类别"
+      ],
+      [
+        "knit + wear → knitwear",
+        "针织制成的衣物类别"
+      ]
+    ],
+    "explanation": "wool knitwear 羊毛针织衣物，a knitwear collection 针织服装系列，soft knitwear 柔软针织服装。",
+    "usage": "wool knitwear；a knitwear collection。",
+    "contrast": "knitwear 按工艺分类，不保证一定用羊毛；underwear 按穿着层次分类，两种分类维度可重叠。",
+    "examples": [
+      [
+        "The shop has a new collection of knitwear.",
+        "店里有新一季针织服装。"
+      ],
+      [
+        "She designs knitwear using cotton yarn.",
+        "她用棉纱设计针织服装。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knitwear#English"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "B4061",
+    "meaning": "份额、批；地块；许多与命运的固定用法",
+    "core": "LOT：分得的一份，也能是一块地、一批货",
+    "image": "抽签、份额和处境提供旧背景；现代 a lot of 先按固定数量表达掌握。",
+    "intro": "lot 接古英语 hlot，含签、抽签决定、分得份额等义。sandlot、feedlot 取地块、场地一面，不是很多沙、很多食物。",
+    "forms": "lot → sandlot、feedlot；a lot of、lots of、draw lots 在基础词里对照。\n\nlottery 经罗曼语形式接日耳曼语 lot 签、份额词族，现代既说彩票抽奖，也比喻结果很看运气。\n\n抽签与分得的份额相连，后来有批、地块及固定数量表达。\n\nlottery 经意大利 lotteria 等接日耳曼分份、签的材料；lotto 经法语、意大利相应词进入英语。lotteries 是 y 变 ies 的复数，不把 lotto 当成 lottery 的简单现代缩写。",
+    "branches": [
+      [
+        "份、批、命运及数量表达",
+        "lot"
+      ],
+      [
+        "不同用途的场地",
+        "sandlot · feedlot"
+      ],
+      [
+        "lot → lottery：抽签与机会分配",
+        "lot · lottery"
+      ],
+      [
+        "lot → lots：份额、批次与许多",
+        "lot · lots"
+      ],
+      [
+        "lottery 与 lotto：分份、抽签的旧材料",
+        "lottery · lotteries · lotto"
+      ]
+    ],
+    "contrasts": "a lot of people are；a lot of water is。sandlot 是玩耍空地，feedlot 是牲畜集中育肥场。",
+    "practice": "A lot of children played on the vacant lot after school.\n\n放学后，很多孩子在那块空地上玩。",
+    "words": [
+      "lot",
+      "sandlot",
+      "feedlot",
+      "lottery",
+      "lots",
+      "lotteries",
+      "lotto"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3599",
+    "meaning": "公共、公开；公众相关活动与人物",
+    "core": "PUBLIC：公众看得见、能参与，还是共同体所有",
+    "image": "public 的公共与公开几种用法分开掌握，再看宣传、职业称呼和否定形式。",
+    "intro": "public 经法语接拉丁语 pūblicus，与人民、共同体有关。publican 酒馆义与 public house 有关，税吏义另有历史拉丁词背景。",
+    "forms": "public → publicly、publicity、publicist；publicize / publicise 是拼写变体；publican、nonpublic 各看具体语境。\n\npub 缩短 public house，较早指向公众开放的场所，后固定为酒馆；不是一切 public building 都叫 pub。",
+    "branches": [
+      [
+        "公开方式、宣传及职业",
+        "public · publicly · publicity · publicist · publicize · publicise"
+      ],
+      [
+        "人物称呼与否定",
+        "publican · nonpublic"
+      ],
+      [
+        "pub：public house 的缩短",
+        "public · pub"
+      ]
+    ],
+    "contrasts": "publicise 宣传不等于 publish 出版；publican 常是酒馆老板；nonpublic 不等于违法。",
+    "practice": "The publican helped publicise the public meeting, while the draft remained nonpublic.\n\n酒馆老板帮助宣传公开会议，而草案当时仍未对外公布。",
+    "words": [
+      "public",
+      "publicly",
+      "publicity",
+      "publicist",
+      "publicize",
+      "publicise",
+      "publican",
+      "nonpublic",
+      "pub"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2681",
+    "meaning": "men：man 的复数；男装和群体称呼",
+    "core": "MEN：复数在元音里，所有关系再看 men’s",
+    "image": "先掌握 man → men，再看 men’s wear 如何合写成 menswear，以及 folk 怎样表示群体。",
+    "intro": "men 接古英语 menn，是保留的历史复数形式。它不是英语中所有 men 字母串的统一词根。",
+    "forms": "man → men；men’s wear → menswear；men + folk → menfolk。",
+    "branches": [
+      [
+        "不规则复数",
+        "men"
+      ],
+      [
+        "衣物与群体称呼",
+        "menswear · menfolk"
+      ]
+    ],
+    "contrasts": "men 已经复数；所有格 men’s。menswear 合写后不带撇号，但保留 /z/ 的读音。",
+    "practice": "The men discussed the new menswear collection in the shop.\n\n几位男子在店里讨论新一季男装。",
+    "words": [
+      "men",
+      "menswear",
+      "menfolk"
+    ],
+    "exclude": {}
+  }
+]

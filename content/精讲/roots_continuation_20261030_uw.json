@@ -1,0 +1,52 @@
+[
+  {
+    "id": "C1058",
+    "meaning": "击打；捶胸哀叹，发展出抱怨、申诉",
+    "core": "PLANG／PLANCT：难受时捶胸、发出哀叹",
+    "image": "先想一个人在难过时捶胸叹息；再把身体动作放轻，保留用语言表达不满，就到 complain。",
+    "intro": "拉丁 plangere 有击打、捶胸哀悼等义，分词词干 planct-。经较早复合动词与法语 complaindre，英语形成常用 complain、complaint 这一组。",
+    "forms": "com- 在这一历史组合中有加强作用；plangere 经法语发生词形变化，不能从现代 complain 中强行找出完整 plang。complaint 来自法语相关名词，末尾 t 不是英语给 complain 普遍添加的名词规则。\n\n法语 complainte 是名词的独立借入，末尾 t 有历史来源。\n\n法语 complaindre 接更早拉丁击打、捶胸哀叹词族。\n\nplague 接法语、拉丁 plaga 击打、灾祸；与 plangere 击打哀叹的关系为常见分析，保留可能性。不是英语 complain 改造成 plague。",
+    "branches": [
+      [
+        "用语言表达不满",
+        "complain"
+      ],
+      [
+        "把不满作为一件事提出",
+        "complaint"
+      ],
+      [
+        "抱怨的过程、语气",
+        "complaining"
+      ],
+      [
+        "complaint → complaints：不满意的表达",
+        "complain · complaint · complaints"
+      ],
+      [
+        "complain → complained：把不舒服、不满意说出来",
+        "complain · complained"
+      ],
+      [
+        "击打词族的相关借词：complain 与 plague；plague 的扩展",
+        "complain · plague · plagues · plagued · plaguing"
+      ]
+    ],
+    "contrasts": "complain 是动词，complaint 是名词；complain about the noise 抱怨噪声，make a complaint about the noise 提出关于噪声的投诉。",
+    "practice": "Instead of only complaining, she made a clear complaint about the noise.\n\n她没有只顾抱怨，而是就噪声清楚地提出了投诉。",
+    "words": [
+      "complain",
+      "complaint",
+      "complaining",
+      "complaints",
+      "complained",
+      "plague",
+      "plagues",
+      "plagued",
+      "plaguing"
+    ],
+    "exclude": {
+      "plangent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

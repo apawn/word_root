@@ -1,0 +1,373 @@
+[
+  {
+    "word": "white",
+    "ipa": "/waɪt/",
+    "meaning": "白的；白色；浅色的；白人相关的〔社会分类〕",
+    "sense": "先想白纸、牛奶的颜色；用于酒、肉等常说相对浅色，不要求真像白纸一样。",
+    "split": "接古英语 hwīt、中古英语 whit、hwit，更早词族与明亮、发光有关。标准常见读音 wh 为 /w/，部分口音保留 /ʍ/。",
+    "history": [
+      [
+        "古英语 hwīt → 中古英语 whit / hwit",
+        "白色、明亮"
+      ],
+      [
+        "英语 white",
+        "白的；浅色的；白色及相关命名"
+      ]
+    ],
+    "explanation": "a white shirt 白衬衫，white wine 白葡萄酒通常偏浅黄，egg white 蛋清。white / White 用于人群时是历史、社会分类，具体范围随材料语境变化。",
+    "usage": "white paper；a white shirt；white wine；egg white；turn white。",
+    "contrast": "white 白与 light 浅色不是所有场景都等同；white wine 通常不是不透明白液体，white lie 则是善意谎言的固定说法。",
+    "examples": [
+      [
+        "She wore a white cotton shirt.",
+        "她穿了一件白棉衬衫。"
+      ],
+      [
+        "The recipe uses only the egg whites.",
+        "食谱只用蛋清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/white#English"
+    ]
+  },
+  {
+    "word": "whiten",
+    "ipa": "/ˈwaɪtən/",
+    "meaning": "使变白；变白",
+    "sense": "原本发黄、发灰或有颜色，现在往白色靠近。",
+    "split": "现代对应 white + -en；中古英语 whitenen、whitnen 与古诺尔斯语 hvítna 等旧形式相连，古英语也有相应动词。不是今天第一次给 white 接 en。",
+    "history": [
+      [
+        "古诺尔斯语 hvítna 等相关形式 → 中古英语 whitenen / whitnen",
+        "变白、使白"
+      ],
+      [
+        "英语 whiten；现代对应 white + -en",
+        "变白、使颜色变白"
+      ]
+    ],
+    "explanation": "snow whitens the ground 雪使地面变白，whiten with age 随年岁变白。动词可有宾语，也可说某物自身变白。",
+    "usage": "whiten with age；whiten the surface；begin to whiten。",
+    "contrast": "whiten 往白色变，lighten 往浅、亮变，未必达到白色；不能只看词长当同义替换。",
+    "examples": [
+      [
+        "Snow began to whiten the hills.",
+        "雪开始把山丘染白。"
+      ],
+      [
+        "His hair had whitened with age.",
+        "他的头发随年岁变白了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whiten#English"
+    ]
+  },
+  {
+    "word": "whiteness",
+    "ipa": "/ˈwaɪtnəs/",
+    "meaning": "白色、洁白的程度或性质；白人身份相关概念〔特定讨论〕",
+    "sense": "先不说哪块布，而把它白到什么程度、呈现怎样的白单独拿出来看。",
+    "split": "white + -ness，古英语 hwītnes、中古英语 whitenesse 等已有相应名词。-ness 是性质名词后缀，不是复数。",
+    "history": [
+      [
+        "古英语 hwīt → 中古英语 whit / hwit",
+        "白色、明亮"
+      ],
+      [
+        "英语 white",
+        "白的；浅色的；白色及相关命名"
+      ],
+      [
+        "white + -ness；承接古英语 hwītnes 等",
+        "白的性质、程度；社会语境另有身份概念"
+      ]
+    ],
+    "explanation": "the whiteness of the snow 雪的洁白；社会文化研究中的 whiteness 常讨论白人身份、被视作默认规范等，不是测皮肤反光的物理量。",
+    "usage": "the whiteness of；the whiteness of the snow；a study of whiteness。",
+    "contrast": "whiteness 颜色性质或特定社会概念，whitening 变白过程；还没完成的 whitening 不保证最终 whiteness 相同。",
+    "examples": [
+      [
+        "The dark trees emphasized the whiteness of the snow.",
+        "深色树木衬出了雪的洁白。"
+      ],
+      [
+        "The two fabrics differed in whiteness.",
+        "两块布的白度不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whiteness#English"
+    ]
+  },
+  {
+    "word": "whitish",
+    "ipa": "/ˈwaɪtɪʃ/",
+    "meaning": "发白的；略白的",
+    "sense": "看起来往白色靠，但又不想下结论说它就是纯白。",
+    "split": "white + -ish，去掉末尾 e；中古英语有 whitisch、whytyssh 等，-ish 表略带某种特征。",
+    "history": [
+      [
+        "古英语 hwīt → 中古英语 whit / hwit",
+        "白色、明亮"
+      ],
+      [
+        "英语 white",
+        "白的；浅色的；白色及相关命名"
+      ],
+      [
+        "white + -ish → whitish",
+        "带点白色、偏白的"
+      ]
+    ],
+    "explanation": "a whitish coating 发白的覆盖层，whitish flowers 白色或偏白的小花；颜色可能混有灰、黄等，不要求统一某一色号。",
+    "usage": "a whitish coating；a whitish color；whitish flowers。",
+    "contrast": "whitish 略白、偏白，whitened 已经变白；一个说当前观感，一个强调变化结果。",
+    "examples": [
+      [
+        "A whitish layer covered the old bricks.",
+        "旧砖上覆盖着一层发白的东西。"
+      ],
+      [
+        "The flowers are pale pink with whitish edges.",
+        "花是浅粉色的，边缘发白。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whitish#English"
+    ]
+  },
+  {
+    "word": "whiteboard",
+    "ipa": "英 /ˈwaɪtbɔːd/；美 /ˈwaɪtbɔːrd/",
+    "meaning": "白板",
+    "sense": "给大家看思路的可书写板，像黑板换成浅色、通常用专用笔写的版本。",
+    "split": "white + board（板），构词仿照 blackboard。board 不是这里的董事会义。",
+    "history": [
+      [
+        "white；board〔书写板〕",
+        "并列构词成分"
+      ],
+      [
+        "whiteboard",
+        "常用专用笔书写、擦除的白板；也可数字化"
+      ]
+    ],
+    "explanation": "write on the whiteboard 在白板写，a digital whiteboard 数字白板。线上白板借用共同画写的功能，不必真是一块物理白色板。",
+    "usage": "write on a whiteboard；a whiteboard marker；a digital whiteboard。",
+    "contrast": "whiteboard 书写板，boardroom 董事会议室；同样有 board，必须选不同词义。",
+    "examples": [
+      [
+        "She drew the plan on the whiteboard.",
+        "她在白板上画了计划。"
+      ],
+      [
+        "The team shared ideas on a digital whiteboard.",
+        "团队在数字白板上交流想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whiteboard#English"
+    ]
+  },
+  {
+    "word": "whitewash",
+    "ipa": "英 /ˈwaɪtwɒʃ/；美 /ˈwaɪtwɑːʃ/",
+    "meaning": "石灰浆等白涂料；刷白；粉饰、掩盖；大胜",
+    "sense": "墙面刷白后，原来的污点被盖住；报告若把问题也这样盖掉，就成了粉饰。",
+    "split": "white + wash，名词说白色涂料、涂层，动词说刷白；由覆盖表面发展出掩盖不利事实。现代种族呈现语境还有抹去非白人参与等用法。",
+    "history": [
+      [
+        "white；wash",
+        "并列构词成分"
+      ],
+      [
+        "whitewash",
+        "刷白、白涂料 → 粉饰掩盖；另有体育大胜义"
+      ]
+    ],
+    "explanation": "whitewash a wall 刷白墙，whitewash a scandal 掩盖丑闻。a sporting whitewash 常指一边倒、对方没有赢到局场的一轮结果，具体比分表达看运动。",
+    "usage": "whitewash a wall；whitewash a scandal；dismiss a report as a whitewash。",
+    "contrast": "whitewash 粉饰有让坏事看起来没问题的意味；clarify 澄清是讲清事实，不预设掩盖。历史、影视中也可批评抹去非白人角色或贡献。",
+    "examples": [
+      [
+        "They whitewashed the garden wall.",
+        "他们把花园围墙刷白了。"
+      ],
+      [
+        "Critics dismissed the report as a whitewash.",
+        "批评者认为报告只是在粉饰问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whitewash#English"
+    ]
+  },
+  {
+    "word": "whitelist",
+    "ipa": "/ˈwaɪtlɪst/",
+    "meaning": "允许名单；把……列入允许名单",
+    "sense": "门口先列好谁能进、哪些地址能通过；在名单上才按规则放行。",
+    "split": "white + list，传统技术命名借白与允许、可信的联想。今天也常见更直白的名称 allowlist，两个说法可能指同类机制。",
+    "history": [
+      [
+        "white；list",
+        "并列构词成分"
+      ],
+      [
+        "whitelist",
+        "明确允许通过、使用的对象名单"
+      ]
+    ],
+    "explanation": "an email whitelist 邮件允许名单，whitelist an address 把地址加入允许名单。被列入表示系统作了允许配置，不证明对象现实中永远安全。",
+    "usage": "add to a whitelist；an email whitelist；whitelist an address。",
+    "contrast": "whitelist 明确允许，blacklist 明确阻止；allowlist、blocklist 是相应更直白的名称。具体默认规则要看系统设置。",
+    "examples": [
+      [
+        "The filter checks whether the address is on the whitelist.",
+        "过滤器检查该地址是否在允许名单上。"
+      ],
+      [
+        "The administrator whitelisted the test account.",
+        "管理员把测试账户加入了允许名单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whitelist#English"
+    ]
+  },
+  {
+    "word": "nonwhite",
+    "ipa": "/ˌnɒnˈwaɪt/；美 /ˌnɑːnˈwaɪt/",
+    "meaning": "非白色的；非白人的〔分类表达〕",
+    "sense": "先划出 white 这类，再说不属于这一类；颜色和社会人群是两个不同分类场景。",
+    "split": "non-（非）+ white；non- 表类别否定，通常不表示把某东西反转成黑色。",
+    "history": [
+      [
+        "non-；white",
+        "并列构词成分"
+      ],
+      [
+        "nonwhite",
+        "非白色；社会语境中不被归为白人的"
+      ]
+    ],
+    "explanation": "nonwhite pixels 非白色像素，nonwhite participants 非白人参与者。人群用法取决于原材料如何分类，不把多种群体说成有同一文化、经历。",
+    "usage": "nonwhite pixels；nonwhite participants；nonwhite residents。",
+    "contrast": "nonwhite 不是只有 black 黑色或黑人；它是否定 white 这一类，范围可能含很多不同颜色、人群。",
+    "examples": [
+      [
+        "The program counts all nonwhite pixels in the image.",
+        "程序统计图片中所有非白色像素。"
+      ],
+      [
+        "The report included interviews with white and nonwhite residents.",
+        "报告采访了白人及非白人居民。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonwhite#English"
+    ]
+  },
+  {
+    "word": "whitehead",
+    "ipa": "/ˈwaɪthed/",
+    "meaning": "白头粉刺；某些白头鸟类的名称",
+    "sense": "皮肤表面的小白色突起，像一点白头；动物名也可按头部白色来起。",
+    "split": "white + head；皮肤义中的 head 借指小突起的顶端。另有鸟类同名义，不能把这些动物当成皮肤义演化来的后代。",
+    "history": [
+      [
+        "white；head",
+        "并列构词成分"
+      ],
+      [
+        "whitehead",
+        "白头粉刺；并列的白头动物名称"
+      ]
+    ],
+    "explanation": "a whitehead 常指闭合性粉刺形成的小白色丘状突起；在鸟类材料中也可能是特定鸟名，按上下文识别。",
+    "usage": "a small whitehead；whiteheads and blackheads；a whitehead on the skin。",
+    "contrast": "whitehead 皮肤义与 blackhead 黑头粉刺对照；人名 Whitehead 还可能是姓氏，不能把每个大写标题译成粉刺。",
+    "examples": [
+      [
+        "The article explains the difference between whiteheads and blackheads.",
+        "文章解释白头粉刺与黑头粉刺的区别。"
+      ],
+      [
+        "A small whitehead was visible on his chin.",
+        "他下巴上能看到一个小白头粉刺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whitehead#English"
+    ]
+  },
+  {
+    "word": "whitefish",
+    "ipa": "/ˈwaɪtfɪʃ/",
+    "meaning": "白鲑等鱼类；白肉鱼〔依语境〕",
+    "sense": "鱼名可能按外观、鱼肉颜色等命名；厨房里常抓的是白肉鱼这一类。",
+    "split": "white + fish；不同地区可指白鲑属等特定鱼，也可用于多种白肉鱼，不是世界统一只指一个物种。",
+    "history": [
+      [
+        "white；fish",
+        "并列构词成分"
+      ],
+      [
+        "whitefish",
+        "白鲑类等鱼名；也可泛说若干白肉鱼"
+      ]
+    ],
+    "explanation": "smoked whitefish 熏白鲑等鱼制品，a whitefish fillet 白肉鱼片。看菜单、产地、物种说明来确定实际是哪种鱼。",
+    "usage": "smoked whitefish；a whitefish fillet；whitefish fishing。",
+    "contrast": "whitefish 连写常是鱼类名称，white fish 分写也常作白肉鱼烹饪类别；两者范围有重叠，不强行只认一个中文鱼名。",
+    "examples": [
+      [
+        "The recipe uses whitefish fillets.",
+        "食谱使用白肉鱼片。"
+      ],
+      [
+        "The market sells smoked whitefish.",
+        "市场出售熏白鲑等熏鱼制品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whitefish#English"
+    ]
+  },
+  {
+    "word": "whiting",
+    "ipa": "/ˈwaɪtɪŋ/",
+    "meaning": "牙鳕等鱼类名称；白垩粉等白色粉料",
+    "sense": "同样与白色有关，一边是鱼名，一边是用于涂料、填料的白粉；不是先把鱼磨成了粉。",
+    "split": "白色粉料义对应 white + -ing；鱼名接中古英语 whityng、whytyng，可能由古英语 hwītling 改形。两路都与白色有关，来源不能串成鱼变粉的单线。",
+    "history": [
+      [
+        "white + -ing〔粉料义〕；中古英语 whityng 等〔鱼名义〕",
+        "两条白色相关命名分支"
+      ],
+      [
+        "英语 whiting",
+        "白垩粉等；牙鳕及若干相似鱼类"
+      ]
+    ],
+    "explanation": "whiting on a menu 通常是鱼，whiting in paint or putty 则是白色矿物粉料。鱼名会随地区指不同种类，不能一律把 whiting 当 white 的普通现在分词。",
+    "usage": "a whiting fillet；whiting used in putty；a catch of whiting。",
+    "contrast": "whiting 名词鱼或白粉，whitening 常是 whiten 的变白过程；看似只差 en，用法却不同。",
+    "examples": [
+      [
+        "The fishmonger had fresh whiting on display.",
+        "鱼店摆着新鲜牙鳕等鱼。"
+      ],
+      [
+        "The label lists whiting as a filler in the putty.",
+        "标签把白垩粉列为油灰中的填料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whiting#English"
+    ]
+  }
+]

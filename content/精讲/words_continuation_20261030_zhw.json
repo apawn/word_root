@@ -1,0 +1,797 @@
+[
+  {
+    "word": "era",
+    "ipa": "英 /ˈɪərə/；美 /ˈɪrə/",
+    "meaning": "时代；有鲜明特色的时期、阶段",
+    "sense": "一段历史被某种技术、风格或人物深深影响，就能叫 an era。日常说个人的新阶段，也可借这种开了新篇章的感觉。",
+    "split": "经晚期拉丁 aera、era 纪年起点进入英语，可能接计算筹码、铜钱等材料。英语从计时起点、体系发展到一段历史时期，不从现代 age 改字母。",
+    "history": [
+      [
+        "晚期拉丁 aera、era：用来计算年代的起点",
+        "可能接计算筹码 aera 与铜、钱 aes 的材料"
+      ],
+      [
+        "英语 aera、era：纪年起点、体系 → 一段历史时期",
+        "现代强调某段时间有共同特色，不是限定多少年"
+      ]
+    ],
+    "explanation": "a new era；the digital era；the end of an era。",
+    "usage": "an era of change；a bygone era 过去的时代。",
+    "contrast": "era 强调阶段特征，year 是日历单位；一个 era 没有固定必须多少年的长度。",
+    "examples": [
+      [
+        "The invention marked the beginning of a new era.",
+        "那项发明标志着一个新时代的开始。"
+      ],
+      [
+        "The photographs capture an era before mass air travel.",
+        "那些照片记录了大众航空旅行普及前的一个时代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/era#English",
+      "https://www.etymonline.com/word/era"
+    ]
+  },
+  {
+    "word": "eras",
+    "ipa": "英 /ˈɪərəz/；美 /ˈɪrəz/",
+    "meaning": "时代、时期、阶段〔复数〕",
+    "sense": "不同年代有不同衣服、建筑、音乐风格，这些有特色的阶段可叫 eras。它在分段看历史，不是精确数几年。",
+    "split": "era + -s，读 /z/；不加额外音节，两个或更多有特征的时期。",
+    "history": [
+      [
+        "晚期拉丁 aera、era：用来计算年代的起点",
+        "可能接计算筹码 aera 与铜、钱 aes 的材料"
+      ],
+      [
+        "英语 aera、era：纪年起点、体系 → 一段历史时期",
+        "现代强调某段时间有共同特色，不是限定多少年"
+      ],
+      [
+        "era + -s → eras",
+        "多个有共同特色的时间阶段"
+      ]
+    ],
+    "explanation": "different historical eras；music from several eras；past eras。",
+    "usage": "eras of political change；compare eras。",
+    "contrast": "eras 可以跨越不同长度，decades 每段是十年；比较时代不等于总在比较十年一段。",
+    "examples": [
+      [
+        "The exhibition brings together clothing from several eras.",
+        "展览把几个时代的服装放在了一起。"
+      ],
+      [
+        "The book compares attitudes from different historical eras.",
+        "那本书比较了不同时代的观念。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eras#English",
+      "https://www.etymonline.com/word/era"
+    ]
+  },
+  {
+    "word": "jersey",
+    "ipa": "英 /ˈdʒɜːzi/；美 /ˈdʒɝzi/",
+    "meaning": "针织面料；针织上衣、运动球衣",
+    "sense": "球员身上印着号码的上衣，常叫 a jersey。它也能说柔软的针织面料：cotton jersey 是棉针织布，不是一位穿棉衣的球员。",
+    "split": "从泽西岛 Jersey 的地名取名，先用于针织布料，后来有针织上衣、球衣等用法。岛名更远来历有不同分析，不把地点故事继续编成确定词根。",
+    "history": [
+      [
+        "Jersey 泽西岛 → jersey 针织布料、Jersey 牛种名",
+        "共同以岛为名，岛名更远来源有不同分析"
+      ],
+      [
+        "针织布料 → 针织上衣、运动球衣",
+        "现代球衣的材料不必仍限于羊毛"
+      ]
+    ],
+    "explanation": "a football jersey；a team jersey；cotton jersey。",
+    "usage": "wear a numbered jersey；a dress made of jersey。",
+    "contrast": "jersey 可说料子，也可数一件球衣；a piece of jersey 数布料，a jersey 通常是一件衣服。",
+    "examples": [
+      [
+        "He wore a jersey with the number seven on the back.",
+        "他穿着一件背后印着七号的球衣。"
+      ],
+      [
+        "The dress is made of soft cotton jersey.",
+        "那条连衣裙用柔软的棉针织布做成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jersey#English",
+      "https://www.etymonline.com/word/jersey"
+    ]
+  },
+  {
+    "word": "jerseys",
+    "ipa": "英 /ˈdʒɜːziz/；美 /ˈdʒɝziz/",
+    "meaning": "针织上衣、运动球衣〔复数〕",
+    "sense": "球队一整排号码上衣，是 jerseys。这里数成衣；针织布料作为材料时，通常不靠这个普通复数来数几块。",
+    "split": "jersey 的 y 前是元音 e，直接加 -s → jerseys；不改成 jersies，读 /z/，基础词末尾已有 /i/。",
+    "history": [
+      [
+        "Jersey 泽西岛 → jersey 针织布料、Jersey 牛种名",
+        "共同以岛为名，岛名更远来源有不同分析"
+      ],
+      [
+        "针织布料 → 针织上衣、运动球衣",
+        "现代球衣的材料不必仍限于羊毛"
+      ],
+      [
+        "jersey + -s → jerseys",
+        "保留 y，数多件球衣、针织上衣"
+      ]
+    ],
+    "explanation": "team jerseys；numbered jerseys；signed jerseys 签名球衣。",
+    "usage": "red and blue jerseys；players exchanging jerseys。",
+    "contrast": "jerseys 是上衣，uniforms 可以包括整套制服、队服；换球衣不一定包括裤子、鞋。",
+    "examples": [
+      [
+        "The players exchanged jerseys after the match.",
+        "比赛后，球员们交换了球衣。"
+      ],
+      [
+        "The shop sells jerseys from several local teams.",
+        "那家店卖几支本地球队的球衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jerseys#English",
+      "https://www.etymonline.com/word/jersey"
+    ]
+  },
+  {
+    "word": "nick",
+    "ipa": "/nɪk/",
+    "meaning": "小刻口、轻划伤；轻轻划破；偷、逮捕〔英式口语〕",
+    "sense": "刀口碰了一下皮肤，留下很小的伤，是 a nick。in the nick of time 是恰在最后关头；英式口语里 nick 还可说偷、逮捕，不能只靠割伤画面硬推。",
+    "split": "承中古英语 nik、nyke 刻口等材料，远源未定。与 nock 的关系有不同表述；小刻痕可对应准确标记点，后来有关键时刻等用法。俚语各支的细桥不硬编。",
+    "history": [
+      [
+        "中古英语 nik、nyke 刻口、刻痕 → nick",
+        "远源未定；与 nock 等词的关系不能写成定论"
+      ],
+      [
+        "小刻口、划伤 → 关键点等用法；另有英式俚语偷、逮捕",
+        "各支不能硬编成一件从割伤到进监狱的必然故事"
+      ]
+    ],
+    "explanation": "a nick in the blade；nick a finger；in the nick of time；get nicked〔英式口语〕。",
+    "usage": "in good nick 状态良好〔英式口语〕；nick a biscuit 偷拿一块饼干。",
+    "contrast": "nick 常是小缺口、轻划，不等于深深切开；steal、arrest 则是英式俚语分支，要看对象和情境。",
+    "examples": [
+      [
+        "There is a small nick in the edge of the blade.",
+        "刀刃边上有一个小缺口。"
+      ],
+      [
+        "We arrived in the nick of time.",
+        "我们恰在最后关头赶到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nick#English",
+      "https://www.merriam-webster.com/dictionary/nick"
+    ]
+  },
+  {
+    "word": "nicks",
+    "ipa": "/nɪks/",
+    "meaning": "小刻口、轻伤〔复数〕；轻划、偷拿、逮捕〔第三人称单数〕",
+    "sense": "剃完胡子有几个小划口，是 nicks；每次都偷拿块饼干，也可在英式口语里说 nicks a biscuit。同形词靠上下文认分支。",
+    "split": "nick + -s，/k/ 后读 /s/；名词复数、动词三单同形。基础词远源未定，不给不同俚语义编一个必然的割伤故事。",
+    "history": [
+      [
+        "中古英语 nik、nyke 刻口、刻痕 → nick",
+        "远源未定；与 nock 等词的关系不能写成定论"
+      ],
+      [
+        "小刻口、划伤 → 关键点等用法；另有英式俚语偷、逮捕",
+        "各支不能硬编成一件从割伤到进监狱的必然故事"
+      ],
+      [
+        "nick + -s → nicks",
+        "多个小口子；或他、她轻划、偷拿、逮捕"
+      ]
+    ],
+    "explanation": "small nicks in the paint；nicks his finger；nicks a snack。",
+    "usage": "shaving nicks；nicks on a wooden table。",
+    "contrast": "nicks 作伤口常小，scars 是愈合后留下的疤；刚划的小口子不等于已经有永久痕迹。",
+    "examples": [
+      [
+        "The old table has a few nicks around the edges.",
+        "那张旧桌子边缘有几个小缺口。"
+      ],
+      [
+        "In the story, he nicks a biscuit whenever the cook turns away.",
+        "故事里，厨师一转身，他就偷拿一块饼干。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicks#English",
+      "https://www.merriam-webster.com/dictionary/nick"
+    ]
+  },
+  {
+    "word": "nicked",
+    "ipa": "/nɪkt/",
+    "meaning": "轻划破、碰出缺口了；被偷、被逮捕了〔英式口语〕",
+    "sense": "刚剃胡子不小心划到下巴，是 nicked my chin；英式口语 my bike was nicked 是自行车被偷。词一样，事件完全不同。",
+    "split": "nick + 完整 -ed，/k/ 后读 /t/；词尾已是 ck，不再添 k。",
+    "history": [
+      [
+        "中古英语 nik、nyke 刻口、刻痕 → nick",
+        "远源未定；与 nock 等词的关系不能写成定论"
+      ],
+      [
+        "小刻口、划伤 → 关键点等用法；另有英式俚语偷、逮捕",
+        "各支不能硬编成一件从割伤到进监狱的必然故事"
+      ],
+      [
+        "nick + -ed → nicked",
+        "过去轻划、偷拿或逮捕；也可表示被动"
+      ]
+    ],
+    "explanation": "nicked himself shaving；the bike was nicked；got nicked〔英式口语〕。",
+    "usage": "a nicked blade 有缺口的刀刃；nicked the paint。",
+    "contrast": "was nicked 在英式口语要看主语：bike 常是被偷，suspect 常是被捕；不是所有被动都译成划伤。",
+    "examples": [
+      [
+        "I nicked my chin while shaving.",
+        "我剃胡子时把下巴轻轻划破了。"
+      ],
+      [
+        "His bicycle was nicked outside the library.",
+        "他的自行车在图书馆外被偷了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicked#English",
+      "https://www.merriam-webster.com/dictionary/nick"
+    ]
+  },
+  {
+    "word": "nicking",
+    "ipa": "/ˈnɪkɪŋ/",
+    "meaning": "正在轻划、碰出小缺口；偷拿、逮捕〔英式口语〕",
+    "sense": "削东西时怕刀口轻碰手指，就是怕 nicking a finger。英式口语谈偷拿小东西时，也能用这个过程形式。",
+    "split": "nick + -ing；已有 ck 保留，不再双写 k。现代过程形式横跨轻划与俚语分支。",
+    "history": [
+      [
+        "中古英语 nik、nyke 刻口、刻痕 → nick",
+        "远源未定；与 nock 等词的关系不能写成定论"
+      ],
+      [
+        "小刻口、划伤 → 关键点等用法；另有英式俚语偷、逮捕",
+        "各支不能硬编成一件从割伤到进监狱的必然故事"
+      ],
+      [
+        "nick + -ing → nicking",
+        "轻划、偷拿或逮捕的过程"
+      ]
+    ],
+    "explanation": "avoid nicking the surface；nicking biscuits；nicking a suspect〔英式口语〕。",
+    "usage": "nicking the paint；nicking himself while shaving。",
+    "contrast": "nicking 不总是伤害动作；口语中说偷东西、警方逮捕时，应按对象认义，不套入切割。",
+    "examples": [
+      [
+        "Take care to avoid nicking the painted surface.",
+        "小心别把漆面碰出小缺口。"
+      ],
+      [
+        "The child admitted nicking a few biscuits.",
+        "孩子承认偷拿了几块饼干。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nicking#English",
+      "https://www.merriam-webster.com/dictionary/nick"
+    ]
+  },
+  {
+    "word": "ford",
+    "ipa": "英 /fɔːd/；美 /fɔrd/",
+    "meaning": "可涉过河流的浅滩；涉水而过",
+    "sense": "河里有一段浅到能踩着底部过，是 a ford；从这里蹚过去，就是 ford the river。它既能命名地点，也能说过水的动作。",
+    "split": "名词承古英语 ford 浅处、可过水处，接更早日耳曼通过材料；后来由名词成动词。与 fare 可比较更远同源，现代把 ford 当作完整基础词。",
+    "history": [
+      [
+        "古英语 ford：水浅、能从底部通过的地方",
+        "接更早日耳曼通过、渡越材料"
+      ],
+      [
+        "名词浅滩 → 动词 ford 涉水而过",
+        "不是见字母 for 就拆成现代英语前缀"
+      ]
+    ],
+    "explanation": "cross at the ford；ford a river；a shallow ford。",
+    "usage": "an old ford；ford the stream。",
+    "contrast": "ford 是踩着底部涉过水，swim 是游过去；桥上跨河则不叫涉水。",
+    "examples": [
+      [
+        "The old road crosses the river at a ford.",
+        "旧路从一处浅滩过河。"
+      ],
+      [
+        "The travellers had to ford a shallow stream.",
+        "旅人们得涉过一条浅溪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ford#English",
+      "https://www.etymonline.com/word/ford"
+    ]
+  },
+  {
+    "word": "fords",
+    "ipa": "英 /fɔːdz/；美 /fɔrdz/",
+    "meaning": "浅滩〔复数〕；涉水过河〔第三人称单数〕",
+    "sense": "旧地图标着好几处能蹚水过河的地点，是 fords；人物每天涉过溪流，也可说 he fords the stream。",
+    "split": "ford + -s，读 /z/；名词复数与动词三单同形，古英语浅滩名词早于英语动词。",
+    "history": [
+      [
+        "古英语 ford：水浅、能从底部通过的地方",
+        "接更早日耳曼通过、渡越材料"
+      ],
+      [
+        "名词浅滩 → 动词 ford 涉水而过",
+        "不是见字母 for 就拆成现代英语前缀"
+      ],
+      [
+        "ford + -s → fords",
+        "多个可过河浅处；或他、她涉水而过"
+      ]
+    ],
+    "explanation": "several river fords；fords the stream；old fords marked on a map。",
+    "usage": "shallow fords；fords a river on horseback。",
+    "contrast": "fords 是地点或涉水动作，bridges 是桥；两者都能帮助过河，但结构和过法不同。",
+    "examples": [
+      [
+        "The map marks several old fords.",
+        "地图标出了几处旧时的过河浅滩。"
+      ],
+      [
+        "In the novel, the messenger fords the stream on horseback.",
+        "小说里，信使骑着马涉过溪流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fords#English",
+      "https://www.etymonline.com/word/ford"
+    ]
+  },
+  {
+    "word": "forded",
+    "ipa": "英 /ˈfɔːdɪd/；美 /ˈfɔrdɪd/",
+    "meaning": "涉水过河、过溪了",
+    "sense": "已经踩着浅水底部过到另一边，过去这件事叫 forded。它比 crossed 更具体，交代了不是过桥、乘船。",
+    "split": "ford + 完整 -ed，基础末音 /d/ 后读 /ɪd/；新增一个音节。",
+    "history": [
+      [
+        "古英语 ford：水浅、能从底部通过的地方",
+        "接更早日耳曼通过、渡越材料"
+      ],
+      [
+        "名词浅滩 → 动词 ford 涉水而过",
+        "不是见字母 for 就拆成现代英语前缀"
+      ],
+      [
+        "ford + -ed → forded",
+        "过去踩着水底通过水体"
+      ]
+    ],
+    "explanation": "forded the river；forded a stream；had forded the shallow water。",
+    "usage": "forded on horseback；forded at the narrow crossing。",
+    "contrast": "crossed 只说从一边到另一边，forded 说明涉水过；没写交通方式时不能随意替换。",
+    "examples": [
+      [
+        "They forded the stream near the old mill.",
+        "他们在旧磨坊附近涉过溪流。"
+      ],
+      [
+        "The riders forded the river before dawn.",
+        "骑手们黎明前涉过了河。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forded#English",
+      "https://www.etymonline.com/word/ford"
+    ]
+  },
+  {
+    "word": "fording",
+    "ipa": "英 /ˈfɔːdɪŋ/；美 /ˈfɔrdɪŋ/",
+    "meaning": "正在涉水过河；涉水通行",
+    "sense": "脚、马蹄或车辆在浅水底部往前走，过到另一岸的过程，是 fording。它是具体的过水方式，不是只在河边走。",
+    "split": "ford + -ing；保留 d，不因过去式有 /ɪd/ 就在这里也多添 /d/ 音节。",
+    "history": [
+      [
+        "古英语 ford：水浅、能从底部通过的地方",
+        "接更早日耳曼通过、渡越材料"
+      ],
+      [
+        "名词浅滩 → 动词 ford 涉水而过",
+        "不是见字母 for 就拆成现代英语前缀"
+      ],
+      [
+        "ford + -ing → fording",
+        "踩着水底过河、过溪的过程"
+      ]
+    ],
+    "explanation": "fording a river；a fording place 涉水通行处；fording the stream。",
+    "usage": "riders fording shallow water；a scene of fording。",
+    "contrast": "wading 可以只是在水里走，fording 更明确在过一条水体；沿着水边踩水不一定到了另一岸。",
+    "examples": [
+      [
+        "The painting shows riders fording a shallow river.",
+        "画里是骑手们涉过一条浅河的场景。"
+      ],
+      [
+        "The story describes the difficulty of fording the stream after rain.",
+        "故事写了雨后涉过溪流的艰难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fording#English",
+      "https://www.etymonline.com/word/ford"
+    ]
+  },
+  {
+    "word": "pie",
+    "ipa": "/paɪ/",
+    "meaning": "馅饼、派；可分配的总量〔比喻〕",
+    "sense": "把肉、蔬菜或水果馅放进饼皮里烤，是 pie。a slice of the pie 又可说从共同利益里分到一块，像一张饼切着分。",
+    "split": "有中古英语、相关中古拉丁 pie、pia 等材料，远源未定。与喜鹊 pica 杂收东西的联系是一种分析，不能直接讲成确定的命名故事。",
+    "history": [
+      [
+        "中古英语、相关中古拉丁 pie 等馅饼材料",
+        "远源未定，喜鹊词的联系是分析而非确定单线"
+      ],
+      [
+        "饼皮包多种馅料 → 现代甜、咸 pie",
+        "后来有 easy as pie、a slice of the pie 等比喻"
+      ]
+    ],
+    "explanation": "apple pie；a meat pie；a slice of the pie；easy as pie 很容易。",
+    "usage": "pie in the sky 不切实际的美好愿望；a pie chart 饼图。",
+    "contrast": "pie 不必甜，meat pie 是咸馅；cake 更常说蛋糕，不能把所有烘焙甜点都叫 pie。",
+    "examples": [
+      [
+        "She baked an apple pie for the family.",
+        "她给家里人烤了一个苹果派。"
+      ],
+      [
+        "Small businesses want a bigger slice of the pie.",
+        "小企业希望在总收益里分到更大一块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pie#English",
+      "https://www.etymonline.com/word/pie"
+    ]
+  },
+  {
+    "word": "pies",
+    "ipa": "/paɪz/",
+    "meaning": "馅饼、派〔复数〕",
+    "sense": "柜台上几只肉馅饼、几只苹果派，都是 pies。它数整只成品，切出来的片再用 slices 数。",
+    "split": "pie + -s，读 /z/；末尾 ie 不改 y，直接加复数后缀。",
+    "history": [
+      [
+        "中古英语、相关中古拉丁 pie 等馅饼材料",
+        "远源未定，喜鹊词的联系是分析而非确定单线"
+      ],
+      [
+        "饼皮包多种馅料 → 现代甜、咸 pie",
+        "后来有 easy as pie、a slice of the pie 等比喻"
+      ],
+      [
+        "pie + -s → pies",
+        "多个甜、咸馅饼"
+      ]
+    ],
+    "explanation": "apple pies；meat pies；freshly baked pies。",
+    "usage": "two small pies；pies cooling on the shelf。",
+    "contrast": "pies 与 peas 豌豆读音不同：/paɪz/ 对 /piːz/；菜单里也分别是成品食物与蔬菜。",
+    "examples": [
+      [
+        "The bakery sells both sweet and savoury pies.",
+        "那家面包店既卖甜馅饼，也卖咸馅饼。"
+      ],
+      [
+        "Two small pies were cooling on the shelf.",
+        "架子上有两个小馅饼正在放凉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pies#English",
+      "https://www.etymonline.com/word/pie"
+    ]
+  },
+  {
+    "word": "rubble",
+    "ipa": "/ˈrʌbəl/",
+    "meaning": "碎砖、碎石；倒塌建筑留下的瓦砾",
+    "sense": "墙倒了，不再是一块完整的墙，而是一地碎砖碎石，就是 rubble。重点是硬质东西碎成不规则的一堆，不是泛指所有生活垃圾。",
+    "split": "经盎格鲁法语碎石材料，远源未定；与 rubbish 的联系有分析，不强定一个从另一个截短。末尾 -le 不能在现代随意切出一个有固定义的 rub。",
+    "history": [
+      [
+        "盎格鲁法语 *robel 等碎石材料 → 英语 rubble",
+        "远源未定，与 rubbish 废料词有关系分析"
+      ],
+      [
+        "碎裂的石块 → 建筑倒塌、拆除留下的瓦砾",
+        "现代通常作不可数名词谈整堆物料"
+      ]
+    ],
+    "explanation": "a pile of rubble；clear the rubble；reduce a building to rubble。",
+    "usage": "rubble from the old wall；bricks and rubble。",
+    "contrast": "rubble 多指碎砖碎石，rubbish 是更宽的废物、垃圾；纸屑、剩饭通常不叫 rubble。",
+    "examples": [
+      [
+        "The old wall collapsed into a pile of rubble.",
+        "旧墙塌成了一堆瓦砾。"
+      ],
+      [
+        "Workers cleared the rubble from the path.",
+        "工人们清走了小路上的碎砖碎石。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rubble#English",
+      "https://www.etymonline.com/word/rubble"
+    ]
+  },
+  {
+    "word": "china",
+    "ipa": "/ˈtʃaɪnə/",
+    "meaning": "瓷器、瓷餐具；瓷制的〔作定语〕",
+    "sense": "把精致的茶杯、盘子摆出来，是 bring out the china。小写时说器物、材料；大写 China 才通常是国家名称，两者的历史通过产地连在一起。",
+    "split": "由 China 作产地定语的 china ware、chinaware 等称呼省略而来，用来源地代称瓷器。瓷器名称的传播也有波斯语、印度等中间使用背景，不把现代小写词按字母拆。",
+    "history": [
+      [
+        "China 作为瓷器来源地称呼 → china ware、chinaware",
+        "产地名称进入材料、器物名称"
+      ],
+      [
+        "省略 ware 等 → china",
+        "现代多指瓷器、瓷餐具，不要求每件都产于中国"
+      ]
+    ],
+    "explanation": "fine china；a china cup；a set of china 一套餐具。",
+    "usage": "a china doll；the best china；bone china 骨瓷。",
+    "contrast": "china 作餐具通常不可数，two china cups 是两个瓷杯；不把普通数量写成 two chinas。",
+    "examples": [
+      [
+        "She brought out the best china for the celebration.",
+        "为了庆祝，她拿出了家里最好的瓷餐具。"
+      ],
+      [
+        "The little cup is made of fine china.",
+        "那个小杯子由精细瓷料制成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/china#English"
+    ]
+  },
+  {
+    "word": "dude",
+    "ipa": "/duːd/",
+    "meaning": "家伙、哥们；嘿、老兄〔口语称呼〕",
+    "sense": "a nice dude 就是一个不错的家伙；朋友间开口 Dude! 可以像“哥们！”具体是亲切、惊讶还是不满，要听语气。",
+    "split": "较早为纽约俚语，说穿着、举止很讲究的男子，远源未定。后来用于城市游客等，再广泛说男人、哥们；Yankee Doodle 缩变是分析，不当成定论。",
+    "history": [
+      [
+        "早期 dude：讲究打扮的男子、城里来的人",
+        "来源未定，有词曲名缩变等分析"
+      ],
+      [
+        "现代泛指男人、家伙 → 口语称呼",
+        "语气依关系、场景，不必真的在评价衣着"
+      ]
+    ],
+    "explanation": "a nice dude；Hey, dude!；some dude I met。",
+    "usage": "that dude over there；Dude, look at this!。",
+    "contrast": "dude 很随意，sir 更正式；对陌生人、正式场景直接叫哥们不一定合适，语体是词义的一部分。",
+    "examples": [
+      [
+        "That dude at the counter helped me find the book.",
+        "柜台旁那个哥们帮我找到了书。"
+      ],
+      [
+        "Dude, you have to see this view!",
+        "哥们，你一定得看看这景色！"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dude#English",
+      "https://www.etymonline.com/word/dude"
+    ]
+  },
+  {
+    "word": "dudes",
+    "ipa": "/duːdz/",
+    "meaning": "家伙们、哥们儿〔复数，口语〕",
+    "sense": "几个很随和的家伙，可以说 a few friendly dudes。也可向一群朋友招呼 Hey, dudes!，语气比正式称呼松得多。",
+    "split": "dude + -s，/d/ 后读 /z/；末尾 e 保留，复数不增加音节。",
+    "history": [
+      [
+        "dude 从讲究衣着者，到泛指男子、哥们",
+        "现代常用随意、口语语气"
+      ],
+      [
+        "dude + -s → dudes",
+        "多个家伙，或招呼一群朋友"
+      ]
+    ],
+    "explanation": "a couple of dudes；friendly dudes；Hey, dudes!。",
+    "usage": "those dudes over there；a group of young dudes。",
+    "contrast": "dudes 常让人想到男性朋友、家伙，某些群体中称呼范围可更宽；正式介绍一群人时不必一律用它。",
+    "examples": [
+      [
+        "A couple of dudes were playing guitar outside the café.",
+        "几个哥们在咖啡馆外弹吉他。"
+      ],
+      [
+        "Those dudes helped us carry the boxes upstairs.",
+        "那几个哥们帮我们把箱子搬上楼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dudes#English",
+      "https://www.etymonline.com/word/dude"
+    ]
+  },
+  {
+    "word": "wow",
+    "ipa": "/waʊ/",
+    "meaning": "哇〔惊叹〕；使人惊艳、赞叹",
+    "sense": "看见好景色，不由得“哇！”一声，就是 wow。作动词时，是表演、设计等好到让人发出这声惊叹。",
+    "split": "较早苏格兰材料中的自然惊叹声，后来发展出成功、惊艳等名词、动词义。不是缩写，也没有需要硬切的古典前后缀。",
+    "history": [
+      [
+        "wow：较早苏格兰材料里的自然惊叹声",
+        "不是普通词根加前后缀的结构"
+      ],
+      [
+        "感叹 → 动词 wow 使人惊艳、惊叹",
+        "像让观众不由得发出一声哇"
+      ]
+    ],
+    "explanation": "Wow, that is beautiful!；wow the audience；the wow factor 惊艳效果。",
+    "usage": "a performance that can wow people；a real wow 大获成功的东西〔口语〕。",
+    "contrast": "wow 常带赞叹，也可只是惊讶，语气决定情绪；动词 wow an audience 通常偏正面的震撼。",
+    "examples": [
+      [
+        "Wow, the stars are so clear tonight!",
+        "哇，今晚的星星看得真清楚！"
+      ],
+      [
+        "The performance is designed to wow the audience.",
+        "那场表演就是要让观众惊艳赞叹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wow#English",
+      "https://www.etymonline.com/word/wow"
+    ]
+  },
+  {
+    "word": "wows",
+    "ipa": "/waʊz/",
+    "meaning": "使人惊艳、赞叹〔第三人称单数〕；几声惊叹",
+    "sense": "歌手一开口就让全场惊艳，可以说 wows the audience。场中传来几声哇的赞叹，也可把声音数作 wows。",
+    "split": "wow + -s，读 /z/；w 是基础拼写的一部分，不重复。动词三单和可数惊叹声复数同形。",
+    "history": [
+      [
+        "wow：较早苏格兰材料里的自然惊叹声",
+        "不是普通词根加前后缀的结构"
+      ],
+      [
+        "感叹 → 动词 wow 使人惊艳、惊叹",
+        "像让观众不由得发出一声哇"
+      ],
+      [
+        "wow + -s → wows",
+        "他、她或它让人惊艳；多声惊叹"
+      ]
+    ],
+    "explanation": "wows the crowd；wows the judges；oohs and wows。",
+    "usage": "wows visitors；draws wows from the audience。",
+    "contrast": "wows 偏赞叹，shocks 可以是惊吓、震惊；让人吃惊并不一定讨人喜欢。",
+    "examples": [
+      [
+        "Her powerful voice wows the audience.",
+        "她有力量的嗓音让观众惊艳。"
+      ],
+      [
+        "The view drew several wows from the group.",
+        "那片景色引得大家发出几声赞叹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wows#English",
+      "https://www.etymonline.com/word/wow"
+    ]
+  },
+  {
+    "word": "wowed",
+    "ipa": "/waʊd/",
+    "meaning": "让人惊艳、赞叹了；被惊艳了",
+    "sense": "刚看完一场精彩演出，觉得真让人惊艳，可以说 I was wowed。表演作主语，则是 it wowed us，主动、被动换的是观察角度。",
+    "split": "wow + 完整 -ed，读 /d/；不增加 /ɪd/ 音节，也不重复 w。",
+    "history": [
+      [
+        "wow：较早苏格兰材料里的自然惊叹声",
+        "不是普通词根加前后缀的结构"
+      ],
+      [
+        "感叹 → 动词 wow 使人惊艳、惊叹",
+        "像让观众不由得发出一声哇"
+      ],
+      [
+        "wow + -ed → wowed",
+        "过去使人赞叹，或被精彩之处打动"
+      ]
+    ],
+    "explanation": "wowed the audience；was wowed by the view；wowed the judges。",
+    "usage": "wowed everyone；not easily wowed 不容易被惊艳。",
+    "contrast": "was wowed 是受惊艳的感受，was bored 才是觉得无聊；wow 的动词通常不用于普通负面惊吓。",
+    "examples": [
+      [
+        "The young pianist wowed the judges.",
+        "那位年轻钢琴家让评委们惊艳赞叹。"
+      ],
+      [
+        "We were wowed by the view from the summit.",
+        "山顶的景色让我们惊叹不已。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wowed#English",
+      "https://www.etymonline.com/word/wow"
+    ]
+  },
+  {
+    "word": "wowing",
+    "ipa": "/ˈwaʊɪŋ/",
+    "meaning": "正在使人惊艳、赞叹",
+    "sense": "一场表演不断让人叫好，一项设计持续吸引大家赞叹，是 wowing。重点是对观众的效果，而不只是自己做得很卖力。",
+    "split": "wow + -ing，直接保留 w；不写 wowwing。由惊叹声发展来的动词，再加过程后缀。",
+    "history": [
+      [
+        "wow：较早苏格兰材料里的自然惊叹声",
+        "不是普通词根加前后缀的结构"
+      ],
+      [
+        "感叹 → 动词 wow 使人惊艳、惊叹",
+        "像让观众不由得发出一声哇"
+      ],
+      [
+        "wow + -ing → wowing",
+        "使观众发出惊叹的过程"
+      ]
+    ],
+    "explanation": "wowing the crowd；wowing audiences；wowing visitors。",
+    "usage": "a talent for wowing people；wowing the judges。",
+    "contrast": "wowing audiences 说效果惊艳，performing 只说演出；不是所有完成的表演都获得强烈赞叹。",
+    "examples": [
+      [
+        "The magician has been wowing audiences all week.",
+        "那位魔术师这一周的演出都让观众惊叹。"
+      ],
+      [
+        "The new display is wowing visitors with its scale.",
+        "新展陈以宏大的规模，让参观者赞叹不已。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wowing#English",
+      "https://www.etymonline.com/word/wow"
+    ]
+  }
+]

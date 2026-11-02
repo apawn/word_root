@@ -1,0 +1,176 @@
+[
+  {
+    "id": "B2555",
+    "meaning": "在后；此后的事情、影响和内容",
+    "core": "AFTER：把一个事件当起点，再看后面发生或留下什么",
+    "image": "after lunch 是午饭后；afterthought 是后来才想到；aftermath 则是事情过去后，现实里留下的一整片局面。",
+    "intro": "after 从古英语 æfter 延续，空间在后与时间在后很早就有关联。组合出来的词各有固定意思，并非机械地把 after 译为之后就够。",
+    "forms": "after + thought／word／taste → afterthought／afterword／aftertaste；aftermath 的 math 是割草的历史材料，和数学不同；herein + after 是本文后面。",
+    "branches": [
+      [
+        "基本先后",
+        "after"
+      ],
+      [
+        "事件留下的局面",
+        "aftermath · aftershock · aftercare"
+      ],
+      [
+        "后来想到或后部内容",
+        "afterthought · afterword · aftertaste"
+      ],
+      [
+        "此后与生命之后",
+        "thereafter · hereafter · hereinafter · afterlife"
+      ]
+    ],
+    "contrasts": "aftermath 的 math 不是数学；afterword 后记与 afterward 后来不同；hereinafter 限定本文件下文，不泛指所有未来。",
+    "practice": "After lunch, she read the afterword and added an afterthought to her notes.\n\n午饭后，她读了后记，又在笔记里加上一个后来想到的点。",
+    "words": [
+      "after",
+      "aftermath",
+      "aftershock",
+      "aftercare",
+      "afterthought",
+      "afterword",
+      "aftertaste",
+      "thereafter",
+      "hereafter",
+      "hereinafter",
+      "afterlife"
+    ],
+    "exclude": {
+      "after-action": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "after-sail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "afters": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2556",
+    "meaning": "这里；当前文字、发言或此后的时间",
+    "core": "HERE：指向此处，也可指向当前这份文字",
+    "image": "Here is the report 是把报告递到眼前；herein 在这份报告里；hereby 通过这次声明；hereinafter 在这份文件后面。",
+    "intro": "here 来自古英语 hēr，近指地点的本族词。与其他材料组合后，指示中心可以由实际地点转向正在阅读的文件、正在说的声明或当前时间。",
+    "forms": "here + in → herein；here + by → hereby；here + after → hereafter；herein + after → hereinafter。长度增加不等于意思只是越来越正式，指示关系也在改变。\n\nhence 接古英语 heonan 从这里与后续副词词尾，和 here 同属旧指示词材料；逻辑因此义由从这个事实出发形成。",
+    "branches": [
+      [
+        "此处与当前对象",
+        "here"
+      ],
+      [
+        "当前文字之内",
+        "herein"
+      ],
+      [
+        "通过当前声明",
+        "hereby"
+      ],
+      [
+        "此后与文件下文",
+        "hereafter · hereinafter"
+      ],
+      [
+        "hence：从这里、从此到因此",
+        "here · hence"
+      ]
+    ],
+    "contrasts": "herein／hereinafter：本文内部／本文下文；hereby／thereby：通过当前声明／通过前述行为；hereafter 的名词还有来世义。",
+    "practice": "I hereby confirm that the examples herein were checked.\n\n我特此确认，本文中的例子已核对。",
+    "words": [
+      "here",
+      "herein",
+      "hereby",
+      "hereafter",
+      "hereinafter",
+      "hence"
+    ],
+    "exclude": {
+      "hereunder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2921",
+    "meaning": "哪里；某处、任何地方及相关方式",
+    "core": "WHERE：先在位置上定位，再看范围有没有被限定",
+    "image": "where 问哪儿；somewhere 留一个没点明的位置；anywhere 把地点选择放开；wherever 进一步强调不受具体地点限制。",
+    "intro": "where 从古英语 hwǣr 延续，属于疑问地点材料。some、any、ever 与它相接，改变的是位置的确定程度、范围或强调方式。whereby 则固定到方法关系。",
+    "forms": "some + where → somewhere；any + where → anywhere；where + ever → wherever；where + by → whereby。somewhere 不只是 where 前加一个无意义音节。\n\nelsewhere 接 else + where，nowhere 接 no + where；else 本身接古英语 elles，通常放在疑问词、不定代词等后面。",
+    "branches": [
+      [
+        "询问位置",
+        "where"
+      ],
+      [
+        "不明说具体位置",
+        "somewhere"
+      ],
+      [
+        "开放地点范围",
+        "anywhere · wherever"
+      ],
+      [
+        "通过一种机制",
+        "whereby"
+      ],
+      [
+        "where 的范围：别处与无处",
+        "where · else · elsewhere · nowhere"
+      ]
+    ],
+    "contrasts": "where 不等于 were；间接问句 where he is 保持陈述语序；whereby 要有办法或机制关系，不能只因开头像 where 就用于所有地点描述。",
+    "practice": "Where should we meet? Somewhere quiet, but not anywhere too far away.\n\n我们在哪儿见？找个安静的地方，不过别离得太远。",
+    "words": [
+      "where",
+      "somewhere",
+      "anywhere",
+      "wherever",
+      "whereby",
+      "else",
+      "elsewhere",
+      "nowhere"
+    ],
+    "exclude": {
+      "whereas": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whereof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2410",
+    "meaning": "不限定具体人、事、时间、地点等；有时加强疑问",
+    "core": "EVER：把具体限制放开，也可以把疑问语气加重",
+    "image": "who 是谁，whoever 把范围扩成不管是谁；where 是哪儿，wherever 把地点放开；however 还发展了自己的固定用法。",
+    "intro": "ever 是古英语 æfre 的延续，最早来源并没有完全确定。晚古英语起，它已用来扩展、加强疑问或关系材料。教材写作 -ever 是组合位置的标记，不等于它只能当后缀。",
+    "forms": "who + ever → whoever；whom + ever → whomever；what／which／when／where／how 与 ever 分别有相应组合。这里的 ever 不必一律译作永远。",
+    "branches": [
+      [
+        "人物及其语法角色",
+        "whoever · whomever"
+      ],
+      [
+        "事物与选择",
+        "whatever · whichever"
+      ],
+      [
+        "时间、地点与方式",
+        "whenever · wherever · however"
+      ],
+      [
+        "基本时间词",
+        "ever"
+      ]
+    ],
+    "contrasts": "whomever 较正式，按小句内部宾语角色判断；whoever arrives 的 whoever 是主语；whatever 并非每次都表达不在乎，语气要看具体句子。",
+    "practice": "Choose whichever seat you prefer, and invite whomever you like.\n\n选你喜欢的任何座位，并邀请任何你想邀请的人。",
+    "words": [
+      "ever",
+      "whoever",
+      "whomever",
+      "whatever",
+      "whichever",
+      "whenever",
+      "wherever",
+      "however"
+    ],
+    "exclude": {}
+  }
+]

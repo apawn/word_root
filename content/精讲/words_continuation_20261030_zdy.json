@@ -1,0 +1,750 @@
+[
+  {
+    "word": "captions",
+    "ipa": "/ˈkæpʃənz/",
+    "meaning": "图片说明、字幕〔复数〕；添加说明〔第三人称单数〕",
+    "sense": "照片下写出谁、在哪里、发生什么，是 captions；视频中把说话、相关声音写出来，也可叫字幕。",
+    "split": "caption + -s，/n/ 后读 /z/。拉丁 captio 词族经法律文书开头的说明、一般标题等中间用途，发展图片说明义。",
+    "history": [
+      [
+        "拉丁 captio 等 → 英语法律说明、标题用语 caption",
+        "有真实中间用途，不直接由抓注意力推导"
+      ],
+      [
+        "图片、视频用途；+ -s → captions",
+        "多条图片说明、字幕；它加说明"
+      ]
+    ],
+    "explanation": "photo captions 图片说明；turn on captions 打开字幕。",
+    "usage": "write captions 编写图片说明；captions below the pictures 图片下方说明。",
+    "contrast": "caption 可说静态图片说明，也可说视频字幕；subtitle 常说对白字幕，具体领域的命名有交叠。",
+    "examples": [
+      [
+        "The captions explain where the photographs were taken.",
+        "图片说明交代了照片在哪里拍摄。"
+      ],
+      [
+        "We watched the recording with captions.",
+        "我们看录影时开了字幕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/captions#English",
+      "https://en.wiktionary.org/wiki/caption#English"
+    ]
+  },
+  {
+    "word": "captioned",
+    "ipa": "/ˈkæpʃənd/",
+    "meaning": "配了说明、字幕的；添加了说明",
+    "sense": "图已经配了说明、视频已经加了可读文字，是 captioned。原来的图像旁多了一层帮助理解的信息。",
+    "split": "caption + -ed，/n/ 后读 /d/。名词的说明、字幕用途发展为相应添加动作。",
+    "history": [
+      [
+        "caption 说明名词 → caption 动词",
+        "给图像、视频添说明文字"
+      ],
+      [
+        "caption + -ed → captioned",
+        "过去加了说明；带说明、字幕的"
+      ]
+    ],
+    "explanation": "a captioned video 带字幕视频；captioned photographs 配说明的照片。",
+    "usage": "captioned the picture 给图片加了说明；carefully captioned 认真配注的。",
+    "contrast": "captioned 不保证文字是译文；也可以把原语言说话、声音信息写出来。",
+    "examples": [
+      [
+        "The photographs were carefully captioned.",
+        "照片都认真配了说明。"
+      ],
+      [
+        "The class watched a captioned video.",
+        "全班看了一段带字幕视频。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/captioned#English",
+      "https://en.wiktionary.org/wiki/caption#English"
+    ]
+  },
+  {
+    "word": "captioning",
+    "ipa": "/ˈkæpʃənɪŋ/",
+    "meaning": "添加图片说明、字幕；字幕制作过程",
+    "sense": "正在为图片配说明、把视频里的声音配成可读文字，这项工作叫 captioning。",
+    "split": "caption + -ing；基础名词已发展为加说明、加字幕动词。",
+    "history": [
+      [
+        "caption 名词 → caption 动词",
+        "添加图像说明、视频文字"
+      ],
+      [
+        "caption + -ing → captioning",
+        "制作说明、字幕的过程"
+      ]
+    ],
+    "explanation": "video captioning 视频字幕制作；captioning photographs 给照片配说明。",
+    "usage": "finish captioning 配注完成；live captioning 实时字幕。",
+    "contrast": "captioning 把图像、声音内容配上文字说明；translating 则特别说跨语言转换，二者可能同时发生。",
+    "examples": [
+      [
+        "She was captioning the photographs for the exhibition.",
+        "她正在为展览照片配说明。"
+      ],
+      [
+        "Captioning the recording took most of the day.",
+        "给录影加字幕花了大半天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/captioning#English",
+      "https://en.wiktionary.org/wiki/caption#English"
+    ]
+  },
+  {
+    "word": "subtitles",
+    "ipa": "/ˈsʌbtaɪtlz/",
+    "meaning": "副标题、字幕〔复数〕；添加字幕〔第三人称单数〕",
+    "sense": "主标题外另添一行更具体的说明，是 subtitle；电影把对白作为附加文字呈现，复数常说 subtitles。",
+    "split": "sub- 下面、下一级 + title 标题 → subtitle，整词加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "sub- + title → subtitle",
+        "附加、下级标题"
+      ],
+      [
+        "影片文字用途；+ -s → subtitles",
+        "多行字幕、多个副标题；它添加字幕"
+      ]
+    ],
+    "explanation": "English subtitles 英文字幕；watch with subtitles 开字幕看。",
+    "usage": "book subtitles 书名副标题；add subtitles 添加字幕。",
+    "contrast": "subtitles 可以是翻译，也可以与原语言相同；不必把是否翻译当作所有使用场景的绝对界线。",
+    "examples": [
+      [
+        "We watched the film with English subtitles.",
+        "我们看电影时开了英文字幕。"
+      ],
+      [
+        "The subtitles explain the focus of the two books.",
+        "两本书的副标题说明了各自重点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subtitles#English",
+      "https://en.wiktionary.org/wiki/subtitle#English"
+    ]
+  },
+  {
+    "word": "subtitled",
+    "ipa": "/ˈsʌbtaɪtld/",
+    "meaning": "配了字幕、副标题的；加了字幕",
+    "sense": "对白已经有了可读文字，或作品已经添了副标题，就是 subtitled。",
+    "split": "subtitle 去 e 加完整 -ed，/l/ 后读 /d/。基础词由 sub- 与 title 组成。",
+    "history": [
+      [
+        "sub- + title → subtitle；名词转动词",
+        "副标题、字幕；添加这些文字"
+      ],
+      [
+        "subtitle + -ed → subtitled〔去 e〕",
+        "过去添加；已经配有字幕等"
+      ]
+    ],
+    "explanation": "a subtitled film 字幕版电影；subtitled in English 配英文字幕的。",
+    "usage": "subtitled the interview 给访谈加了字幕；a subtitled version 字幕版本。",
+    "contrast": "subtitled 保留原声音配上文字，dubbed 常说配上另录的声音，呈现方式不同。",
+    "examples": [
+      [
+        "The film was subtitled in English.",
+        "电影配有英文字幕。"
+      ],
+      [
+        "She subtitled the interview for the festival.",
+        "她为电影节给访谈配了字幕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subtitled#English",
+      "https://en.wiktionary.org/wiki/subtitle#English"
+    ]
+  },
+  {
+    "word": "subtitling",
+    "ipa": "/ˈsʌbtaɪtlɪŋ/",
+    "meaning": "制作字幕；正在加字幕",
+    "sense": "把对白整理成能随画面读的文字，这项工作叫 subtitling。需要翻译时，也会包含翻译对白。",
+    "split": "subtitle 去 e 加 -ing；sub、title 的附加标题材料形成现代基础词。",
+    "history": [
+      [
+        "sub- + title → subtitle；相应动词用途",
+        "副标题、字幕；给影片添文字"
+      ],
+      [
+        "subtitle + -ing → subtitling〔去 e〕",
+        "添加字幕的过程"
+      ]
+    ],
+    "explanation": "film subtitling 电影字幕制作；subtitling an interview 给访谈加字幕。",
+    "usage": "finish subtitling 制作完字幕；a course in subtitling 字幕制作课程。",
+    "contrast": "subtitling 要考虑文字随画面呈现；单独翻译一份书面文本，不一定包含这种时间、画面配合。",
+    "examples": [
+      [
+        "She studied translation and subtitling.",
+        "她学习了翻译和字幕制作。"
+      ],
+      [
+        "Subtitling the interview took two days.",
+        "给访谈制作字幕花了两天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subtitling#English",
+      "https://en.wiktionary.org/wiki/subtitle#English"
+    ]
+  },
+  {
+    "word": "imprints",
+    "ipa": "名词 /ˈɪmprɪnts/；动词 /ɪmˈprɪnts/",
+    "meaning": "印痕、持久影响、出版品牌〔复数〕；印上、留下印记〔第三人称单数〕",
+    "sense": "物体拿走，形状还留着，那是 imprints；经历在心里留下影响，出版名称在书上表明品牌，也有固定用途。",
+    "split": "imprint 经古法语 empreindre、empreinte 接拉丁 imprimere 向内压，现代加 -s，/t/ 后读 /s/。名词、动词通常重音不同。",
+    "history": [
+      [
+        "拉丁 imprimere → 法语相关形式 → imprint",
+        "印上；印记、留下的影响"
+      ],
+      [
+        "imprint + -s → imprints",
+        "多个印痕、品牌等；它印上"
+      ]
+    ],
+    "explanation": "hand imprints 手印；publishing imprints 出版品牌。",
+    "usage": "leaves imprints 留下印痕；imprints a pattern 印上图案。",
+    "contrast": "印痕是可见留下的形状，持久影响是比喻，出版品牌是行业固定用法，先看对象。",
+    "examples": [
+      [
+        "The wet sand held the imprints of small feet.",
+        "湿沙上留着小脚印。"
+      ],
+      [
+        "The publisher owns several imprints.",
+        "这家出版社旗下有几个出版品牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imprints#English",
+      "https://en.wiktionary.org/wiki/imprint#English"
+    ]
+  },
+  {
+    "word": "imprinted",
+    "ipa": "/ɪmˈprɪntɪd/",
+    "meaning": "印上、留下了印记；深深记住的",
+    "sense": "图案已经压到材料上，或经历已经深留在脑中，是 imprinted。留下后不容易忽略，是这个词常有的感觉。",
+    "split": "imprint + -ed，/t/ 后读 /ɪd/。基础词经法语接拉丁 in- 向内 + premere 压的构词。",
+    "history": [
+      [
+        "拉丁 imprimere → imprint",
+        "印上、留下印记"
+      ],
+      [
+        "imprint + -ed → imprinted",
+        "过去印上；已经留下的状态"
+      ]
+    ],
+    "explanation": "imprinted on memory 印在记忆里；imprinted with a pattern 印有图案的。",
+    "usage": "imprinted the design 印上了设计；deeply imprinted 深深留下的。",
+    "contrast": "印在记忆里是借留下痕迹的比喻，不必理解为脑中真有一张物理印版。",
+    "examples": [
+      [
+        "The cloth was imprinted with a simple pattern.",
+        "布上印有简单图案。"
+      ],
+      [
+        "The scene remained imprinted on her memory.",
+        "那个场景深深留在她记忆里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imprinted#English",
+      "https://en.wiktionary.org/wiki/imprint#English"
+    ]
+  },
+  {
+    "word": "imprinting",
+    "ipa": "/ɪmˈprɪntɪŋ/",
+    "meaning": "印上、留下印记的过程；印刻作用〔专门用法〕",
+    "sense": "让图案、形状或影响留下来，这个过程可叫 imprinting；动物行为等领域还固定使用印刻这个名称。",
+    "split": "imprint + -ing，保留基础拼写；基础词是经法语传入的印上、印记材料。",
+    "history": [
+      [
+        "imprint 的留下痕迹动词",
+        "把图案、影响留在对象上"
+      ],
+      [
+        "imprint + -ing → imprinting",
+        "印记形成过程；专门领域用途"
+      ]
+    ],
+    "explanation": "imprinting a design 印上图案；imprinting names 印上名字。",
+    "usage": "imprinting on cloth 在布上印制；the imprinting process 印制过程。",
+    "contrast": "动物行为学的 imprinting 有专门含义，不能仅凭普通记住、印象深就把所有学习都叫印刻。",
+    "examples": [
+      [
+        "The machine was imprinting names on the cards.",
+        "机器正在卡片上印名字。"
+      ],
+      [
+        "Imprinting the design on the cloth took only a moment.",
+        "把图案印到布上只花了一会儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imprinting#English",
+      "https://en.wiktionary.org/wiki/imprint#English"
+    ]
+  },
+  {
+    "word": "reprints",
+    "ipa": "名词 /ˈriːprɪnts/；动词 /ˌriːˈprɪnts/",
+    "meaning": "重印本、转载件〔复数〕；重印、转载〔第三人称单数〕",
+    "sense": "已经印过、发表过的内容，再印一批或重新刊登，是 reprints；印出来的几个版本也可以这样数。",
+    "split": "re- 再次 + print 印刷 → reprint，加 -s，/t/ 后读 /s/。名词常前重音，动词常后重音。",
+    "history": [
+      [
+        "re- + print → reprint",
+        "再次印出；重印本"
+      ],
+      [
+        "reprint + -s → reprints",
+        "多份重印本；它重印、转载"
+      ]
+    ],
+    "explanation": "paperback reprints 平装重印本；reprints the article 转载文章。",
+    "usage": "collect reprints 收集重印本；later reprints 后来的重印本。",
+    "contrast": "reprint 重在再次印出，revised edition 强调修订版；重印不保证内容经过大幅修改。",
+    "examples": [
+      [
+        "The library bought several reprints of the old novel.",
+        "图书馆买了几本老小说的重印本。"
+      ],
+      [
+        "The magazine reprints selected essays each summer.",
+        "杂志每年夏天转载精选文章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reprints#English",
+      "https://en.wiktionary.org/wiki/reprint#English"
+    ]
+  },
+  {
+    "word": "reprinted",
+    "ipa": "/ˌriːˈprɪntɪd/",
+    "meaning": "重印、转载了；重印的",
+    "sense": "已经发表的文字又印出来、登出来，是 reprinted。保留内容还是修订内容，需要另有说明。",
+    "split": "reprint + -ed，/t/ 后读 /ɪd/；re- 再次限定 print 印刷、刊登。",
+    "history": [
+      [
+        "re- + print → reprint",
+        "再印、重新刊登"
+      ],
+      [
+        "reprint + -ed → reprinted",
+        "过去重印；重印后的版本"
+      ]
+    ],
+    "explanation": "a reprinted essay 转载文章；reprinted the book 重印了书。",
+    "usage": "reprinted with permission 经许可转载的；reprinted in the magazine 在杂志上转载。",
+    "contrast": "reprinted 与 rewritten 不同：前者关注再刊印，后者关注重新写作。",
+    "examples": [
+      [
+        "The publisher reprinted the book last year.",
+        "出版社去年重印了这本书。"
+      ],
+      [
+        "The essay was reprinted in a later collection.",
+        "这篇文章后来重印在一部文集中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reprinted#English",
+      "https://en.wiktionary.org/wiki/reprint#English"
+    ]
+  },
+  {
+    "word": "reprinting",
+    "ipa": "/ˌriːˈprɪntɪŋ/",
+    "meaning": "重印、转载的过程；正在重印",
+    "sense": "旧内容正在再印一批、再刊一次，是 reprinting。最直接的画面就是让印刷、刊登再发生。",
+    "split": "reprint + -ing，保留原拼写；英语 re- 再次 + print 形成基础词。",
+    "history": [
+      [
+        "re- + print → reprint",
+        "再次印刷、刊登"
+      ],
+      [
+        "reprint + -ing → reprinting",
+        "再印、转载的进行与过程"
+      ]
+    ],
+    "explanation": "reprinting the novel 重印小说；before reprinting 重印前。",
+    "usage": "a new reprinting 新一轮重印；reprinting old articles 转载旧文章。",
+    "contrast": "重印可以沿用原内容；若特别强调改了表达，用 rewriting 更直接。",
+    "examples": [
+      [
+        "The publisher is reprinting the novel.",
+        "出版社正在重印这部小说。"
+      ],
+      [
+        "Reprinting the article brought it to new readers.",
+        "转载让新的读者读到了这篇文章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reprinting#English",
+      "https://en.wiktionary.org/wiki/reprint#English"
+    ]
+  },
+  {
+    "word": "outlines",
+    "ipa": "/ˈaʊtlaɪnz/",
+    "meaning": "轮廓、提纲〔复数〕；概述〔第三人称单数〕",
+    "sense": "先勾外沿，看大致形状，是 outlines；文字里先交代结构和重点，也借勾轮廓说概述。",
+    "split": "out 外 + line 线 → outline，名词先、相应动词后，现代加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "out + line → outline",
+        "外缘线；描出大体形状"
+      ],
+      [
+        "结构概述用途；+ -s → outlines",
+        "多个轮廓、提纲；它概述"
+      ]
+    ],
+    "explanation": "essay outlines 文章提纲；outlines the plan 概述计划。",
+    "usage": "mountain outlines 群山轮廓；compare outlines 比较提纲。",
+    "contrast": "outline 常突出结构，也可在写正文之前拟好；summary 常是把已有内容压缩成摘要。",
+    "examples": [
+      [
+        "The students compared their essay outlines.",
+        "学生们比较了各自的文章提纲。"
+      ],
+      [
+        "The first section outlines the main argument.",
+        "第一节概述了主要论点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outlines#English",
+      "https://en.wiktionary.org/wiki/outline#English"
+    ]
+  },
+  {
+    "word": "outlining",
+    "ipa": "/ˈaʊtlaɪnɪŋ/",
+    "meaning": "正在勾轮廓、概述；拟提纲的过程",
+    "sense": "先把外形、结构、重点画出来、说出来，动作进行中就是 outlining。先有骨架，再往里添细节。",
+    "split": "outline 去 e 加 -ing；out 与 line 组成的外缘名词已发展为描画、概述动词。",
+    "history": [
+      [
+        "out + line → outline 名词、动词",
+        "外缘线；勾出大致结构"
+      ],
+      [
+        "outline + -ing → outlining〔去 e〕",
+        "概述、拟提纲的进行与过程"
+      ]
+    ],
+    "explanation": "outlining a plan 概述计划；outlining an essay 拟文章提纲。",
+    "usage": "outlining the steps 概述步骤；before outlining 拟提纲前。",
+    "contrast": "outlining 不要求逐项列完细节；它先把主要部分、关系说清。",
+    "examples": [
+      [
+        "She is outlining the main steps of the project.",
+        "她正在概述项目的主要步骤。"
+      ],
+      [
+        "Outlining the essay helped organise my ideas.",
+        "拟文章提纲帮我整理了思路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outlining#English",
+      "https://en.wiktionary.org/wiki/outline#English"
+    ]
+  },
+  {
+    "word": "summaries",
+    "ipa": "/ˈsʌməriz/",
+    "meaning": "摘要、总结〔复数〕",
+    "sense": "长内容里只留下能说明主线的要点，就是 summary；多份摘要是 summaries。",
+    "split": "summary 的 y 改 i 加 -es。较远接拉丁 summa 总体、要点，名词、形容词又有 summarium、summarius 等路线。",
+    "history": [
+      [
+        "拉丁 summa、summarium 等 → summary",
+        "总体、要点；摘要、扼要的"
+      ],
+      [
+        "summary → summaries〔y 改 ies〕",
+        "多份摘要、总结"
+      ]
+    ],
+    "explanation": "chapter summaries 章节摘要；short summaries 简短总结。",
+    "usage": "compare summaries 比较摘要；summaries of the findings 研究发现概要。",
+    "contrast": "summary 取主要内容，不能仅把末尾几段删掉就保证主线完整；outline 则更强调结构骨架。",
+    "examples": [
+      [
+        "Each chapter ends with two short summaries.",
+        "每章结尾有两段简短总结。"
+      ],
+      [
+        "The summaries helped us compare the reports.",
+        "摘要帮我们比较了几份报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summaries#English",
+      "https://en.wiktionary.org/wiki/summary#English"
+    ]
+  },
+  {
+    "word": "summarise",
+    "ipa": "/ˈsʌməraɪz/",
+    "meaning": "总结、概括〔summarize 的常见英式拼写〕",
+    "sense": "把长话里最有用的骨架留下，让别人迅速知道重点，就是 summarise。和 summarize 意义相同。",
+    "split": "summary 去 y 加 -ise，和 -ize 拼写并行；保留摘要的总体、要点背景，形成做摘要的动词。",
+    "history": [
+      [
+        "summary 摘要 + -ise → summarise",
+        "把内容做成摘要、概括"
+      ],
+      [
+        "与 summarize 并行",
+        "ise、ize 两种拼写的同一常用动作"
+      ]
+    ],
+    "explanation": "summarise the discussion 概括讨论；summarise the findings 总结发现。",
+    "usage": "to summarise 概括来说；summarise in a sentence 用一句话概括。",
+    "contrast": "summarise 可用自己的话说主旨，quote 则是引用原话；总结不要求逐字保留原句。",
+    "examples": [
+      [
+        "Please summarise the main argument in one sentence.",
+        "请用一句话概括主要论点。"
+      ],
+      [
+        "She will summarise the discussion at the end.",
+        "她将在最后总结讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarise#English",
+      "https://en.wiktionary.org/wiki/summarize#English"
+    ]
+  },
+  {
+    "word": "summarises",
+    "ipa": "/ˈsʌməraɪzɪz/",
+    "meaning": "总结、概括〔summarise 的第三人称单数〕",
+    "sense": "一段话、一张表把较长内容压成要点，它就是 summarises。主语不必是人。",
+    "split": "summarise + -s，基础末音 /z/，词尾读 /ɪz/。-ise 是与 -ize 并行的拼写。",
+    "history": [
+      [
+        "summary + -ise → summarise",
+        "做成摘要、概括"
+      ],
+      [
+        "summarise + -s → summarises",
+        "它总结、概括"
+      ]
+    ],
+    "explanation": "summarises the results 汇总结果；summarises the chapter 概括章节。",
+    "usage": "the table summarises 表格汇总；summarises briefly 简要概括。",
+    "contrast": "summarises 和 summarizes 是拼写对应，用法、意思相同。",
+    "examples": [
+      [
+        "The table summarises the results of the survey.",
+        "表格汇总了调查结果。"
+      ],
+      [
+        "The final paragraph summarises the main argument.",
+        "最后一段概括了主要论点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarises#English",
+      "https://en.wiktionary.org/wiki/summarise#English"
+    ]
+  },
+  {
+    "word": "summarizes",
+    "ipa": "/ˈsʌməraɪzɪz/",
+    "meaning": "总结、概括〔summarize 的第三人称单数〕",
+    "sense": "它把较长内容缩成重点，是 summarizes；像一张表把几次调查集中摆出结果。",
+    "split": "summarize + -s，/z/ 后读 /ɪz/。summary 去 y 加 -ize 形成动词，另有 summarise 拼写。",
+    "history": [
+      [
+        "summary + -ize → summarize",
+        "把主要内容做成摘要"
+      ],
+      [
+        "summarize + -s → summarizes",
+        "它总结、概括"
+      ]
+    ],
+    "explanation": "summarizes the findings 汇总发现；summarizes the story 概括故事。",
+    "usage": "the report summarizes 报告总结；summarizes in two sentences 用两句话概括。",
+    "contrast": "概括可以改变句子表达，但应保留主要意思；缩短字数本身不保证完成了概括。",
+    "examples": [
+      [
+        "The report summarizes the findings from three studies.",
+        "报告汇总了三项研究的发现。"
+      ],
+      [
+        "She summarizes each chapter in a few sentences.",
+        "她用几句话概括每章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarizes#English",
+      "https://en.wiktionary.org/wiki/summarize#English"
+    ]
+  },
+  {
+    "word": "summarized",
+    "ipa": "/ˈsʌməraɪzd/",
+    "meaning": "总结、概括了；已概括的",
+    "sense": "长内容已经被整理成主线、要点，就是 summarized。它说做过概括，不说每个细节都留下。",
+    "split": "summarize 去 e 加完整 -ed，/z/ 后读 /d/；对应另一拼写 summarised。",
+    "history": [
+      [
+        "summary + -ize → summarize",
+        "做成摘要、总结"
+      ],
+      [
+        "summarize + -ed → summarized〔去 e〕",
+        "过去概括；概括后的状态"
+      ]
+    ],
+    "explanation": "summarized the findings 总结了发现；summarized in a table 汇总在表里。",
+    "usage": "a summarized version 摘要版；briefly summarized 简要总结的。",
+    "contrast": "summarized 和 quoted 的焦点不同：前者概括主旨，后者引用原话。",
+    "examples": [
+      [
+        "She summarized the discussion before the meeting ended.",
+        "散会前，她总结了讨论。"
+      ],
+      [
+        "The findings were summarized in a small table.",
+        "研究发现汇总在一张小表里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarized#English",
+      "https://en.wiktionary.org/wiki/summarize#English"
+    ]
+  },
+  {
+    "word": "summarised",
+    "ipa": "/ˈsʌməraɪzd/",
+    "meaning": "总结、概括了〔summarise 的过去形式〕",
+    "sense": "把长内容的主线已经说出来、列出来，是 summarised；与 summarized 意思一样。",
+    "split": "summarise 去 e 加完整 -ed，/z/ 后读 /d/；-ise 与 -ize 的拼写对应在过去形式里继续保留。",
+    "history": [
+      [
+        "summary + -ise → summarise",
+        "概括主要内容"
+      ],
+      [
+        "summarise + -ed → summarised〔去 e〕",
+        "过去总结；已总结的状态"
+      ]
+    ],
+    "explanation": "summarised the report 概括了报告；summarised in notes 总结在笔记里。",
+    "usage": "briefly summarised 简要概括；the summarised results 汇总结果。",
+    "contrast": "两种拼写不表示两种不同总结方法；按同一篇文字采用的拼写习惯保持一致即可。",
+    "examples": [
+      [
+        "He summarised the report for the team.",
+        "他为团队概括了报告。"
+      ],
+      [
+        "The main points were summarised at the end.",
+        "结尾概括了主要观点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarised#English",
+      "https://en.wiktionary.org/wiki/summarise#English"
+    ]
+  },
+  {
+    "word": "summarizing",
+    "ipa": "/ˈsʌməraɪzɪŋ/",
+    "meaning": "正在总结、概括；总结过程",
+    "sense": "从长内容里选出主线、重新组织成短说明，过程叫 summarizing。像把一棵枝叶多的树先画出主干。",
+    "split": "summarize 去 e 加 -ing，对应另一拼写 summarising；基础词来自 summary + -ize。",
+    "history": [
+      [
+        "summary + -ize → summarize",
+        "把内容概括成摘要"
+      ],
+      [
+        "summarize + -ing → summarizing〔去 e〕",
+        "概括的进行、过程"
+      ]
+    ],
+    "explanation": "summarizing findings 总结发现；summarizing a chapter 概括章节。",
+    "usage": "finish summarizing 总结完；practice summarizing 练习概括。",
+    "contrast": "summarizing 选择主旨与关系，transcribing 更着重把话语转成文字，信息保留尺度不同。",
+    "examples": [
+      [
+        "She is summarizing the interview findings.",
+        "她正在总结访谈发现。"
+      ],
+      [
+        "Summarizing the chapter helped me remember it.",
+        "概括这一章帮助我记住了内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarizing#English",
+      "https://en.wiktionary.org/wiki/summarize#English"
+    ]
+  },
+  {
+    "word": "summarising",
+    "ipa": "/ˈsʌməraɪzɪŋ/",
+    "meaning": "正在总结、概括〔summarise 的进行形式〕",
+    "sense": "把主要意思集中说清的动作正在进行，就是 summarising；与 summarizing 同义。",
+    "split": "summarise 去 e 加 -ing，保留 ise 这一套拼写材料；summary 去 y 加 -ise 形成基础动词。",
+    "history": [
+      [
+        "summary + -ise → summarise",
+        "做摘要、概括"
+      ],
+      [
+        "summarise + -ing → summarising〔去 e〕",
+        "概括的进行、过程"
+      ]
+    ],
+    "explanation": "summarising the evidence 概括证据；summarising a discussion 总结讨论。",
+    "usage": "finish summarising 总结完；summarising in plain language 用大白话概括。",
+    "contrast": "summary 是摘要名词，summarising 是总结过程；先分清你要指结果还是动作。",
+    "examples": [
+      [
+        "He was summarising the discussion when I entered.",
+        "我进来时，他正在总结讨论。"
+      ],
+      [
+        "Summarising the evidence made the gap clearer.",
+        "概括证据后，缺口更清楚了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/summarising#English",
+      "https://en.wiktionary.org/wiki/summarise#English"
+    ]
+  }
+]

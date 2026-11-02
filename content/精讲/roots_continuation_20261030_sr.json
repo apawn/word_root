@@ -1,0 +1,427 @@
+[
+  {
+    "id": "A1923",
+    "meaning": "有关、具有某种性质；近代形容词命名材料",
+    "core": "-ACEOUS：具体性质由前面的旧词干决定",
+    "image": "sebaceous 说皮脂相关，curvaceous 说曲线丰满；相近末尾形成形容词，但不能只背成同一种外观。",
+    "intro": "多词联系拉丁 -aceus 等形容词材料及英语 -ous，也有近代类比造词和与 -acious 相互影响的形式。各词的构成不必完全一样。",
+    "forms": "sebum 皮脂相关词干 → sebaceous；curve 相关词形 + 形容词模式 → curvaceous。",
+    "branches": [
+      [
+        "皮脂相关性质",
+        "sebaceous"
+      ],
+      [
+        "曲线外形",
+        "curvaceous"
+      ]
+    ],
+    "contrasts": "sebaceous glands 是皮脂腺；curvaceous 可形容曲线形态。后部给形容词关系，具体对象仍由前部和搭配决定。",
+    "practice": "The diagram labels the sebaceous glands in the skin.\n\n图示标出了皮肤中的皮脂腺。",
+    "words": [
+      "sebaceous",
+      "curvaceous"
+    ],
+    "exclude": {
+      "carbonaceous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "diatomaceous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1806",
+    "meaning": "织物；转用为生物组织",
+    "core": "HISTO-：像织物那样组织在一起，后来成为组织学材料",
+    "image": "组织由细胞等结构构成，histo- 的旧织物画面帮助记住组织这一研究对象；histology 是组织学。",
+    "intro": "来自希腊 histos 织物、织成物等，近代生物学转用为组织。相关组织材料也进入 histidine、histamine 等科学命名词族。",
+    "forms": "histo- + -logy → histology；histamine 按 histidine 的部分词形 + amine 命名，是相邻词族的另一条组合。",
+    "branches": [
+      [
+        "组织研究",
+        "histology"
+      ],
+      [
+        "相关物质名称对照",
+        "histamine"
+      ]
+    ],
+    "contrasts": "histology 的对象是生物组织，histamine 是具体信号物质；同族前部不把学科名和物质名变成同义词。",
+    "practice": "The histology class examined the structure of tissue.\n\n组织学课观察了组织结构。",
+    "words": [
+      "histology",
+      "histamine"
+    ],
+    "exclude": {
+      "histidine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "histopathology": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "histopathological": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2102",
+    "meaning": "谷氨酸相关的化学词族材料",
+    "core": "GLUTA-：把盐类、酰胺等关系接到谷氨酸词族上",
+    "image": "glutamate 是谷氨酸盐等名称，glutamine 是谷氨酰胺；前部相近，后部对应的化学关系不同。",
+    "intro": "与 glutamic acid 谷氨酸及 gluten 面筋、黏性蛋白名称相连；更早 gluten 接拉丁胶、黏性物质材料。现代名称按科学结构关系固定。",
+    "forms": "glutamic acid 相关词基 + -ate → glutamate；gluta- 与相应酰胺命名材料 → glutamine。gluten 是相邻命名来源，不是这些物质的同义词。",
+    "branches": [
+      [
+        "相关蛋白名称来源",
+        "gluten"
+      ],
+      [
+        "谷氨酸盐、谷氨酰胺对照",
+        "glutamate · glutamine"
+      ]
+    ],
+    "contrasts": "glutamate、glutamine、gluten 分别是不同物质或物质类，不能因都有 glut- 就混写成同一个成分。",
+    "practice": "The glossary compares glutamate with glutamine.\n\n词汇表对照了谷氨酸盐与谷氨酰胺。",
+    "words": [
+      "gluten",
+      "glutamate",
+      "glutamine"
+    ],
+    "exclude": {
+      "glutathione": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2058",
+    "meaning": "承载、携带者",
+    "core": "-FER：让前面的东西被承载、带着",
+    "image": "aquifer 最直观是承载水的地层：地下的水存储、流动在其中；不是表面随便一滩水。",
+    "intro": "来自拉丁 -fer 承载者，联系 ferre 带、承载。aquifer 借法语 aquifere 含水的等相关形式，后用为地层名。",
+    "forms": "aqui- 水 + -fer 承载者 → aquifer；这里字面线索是含水、承载水，现代完整名称进一步限定地质结构。",
+    "branches": [
+      [
+        "地下含水地层",
+        "aquifer"
+      ]
+    ],
+    "contrasts": "aquifer 是能储存、传输地下水的含水层，不等同于一条地下河；前部水、后部承载只是命名起点。",
+    "practice": "The town draws water from an underground aquifer.\n\n镇上从地下含水层取水。",
+    "words": [
+      "aquifer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2306",
+    "meaning": "乳房",
+    "core": "MAMMO-：前部给器官，后部区别成像方法和记录",
+    "image": "mammography 是乳腺 X 线成像的方法，mammogram 常是这项检查得到的影像，也可指一次检查。",
+    "intro": "来自拉丁 mamma 乳房，经医学拉丁等作为 mammo- 组合材料；-graphy 与 -gram 分别给过程、记录结果。",
+    "forms": "mammo- + -graphy → mammography；mammo- + -gram → mammogram。",
+    "branches": [
+      [
+        "成像方法、技术",
+        "mammography"
+      ],
+      [
+        "影像或一次检查",
+        "mammogram"
+      ]
+    ],
+    "contrasts": "mammogram 里的 -gram 是记录，不是重量克；mammography 也不是所有乳房相关检查的通称。",
+    "practice": "The radiologist reviewed the mammogram.\n\n放射科医生查看了乳腺 X 线影像。",
+    "words": [
+      "mammography",
+      "mammogram"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1888",
+    "meaning": "硼相关的科学材料",
+    "core": "BORO-：硼与硅酸盐两部分，合成硼硅材料名称",
+    "image": "boron 是元素硼；silicon、silica、silicate 分别看硅、二氧化硅和硅酸盐，borosilicate 才把硼与硅酸盐关系接起来。",
+    "intro": "boro- 与 borax 硼砂、boron 硼等近代命名词族相连；复合 borosilicate 的后半接硅酸盐，来源又联系拉丁燧石材料。",
+    "forms": "boro- + silicate → borosilicate；silicon、silica、silicate 是理解组合词另一半的基础对照，不都由 boro- 派生。",
+    "branches": [
+      [
+        "硼的基础名称",
+        "boron"
+      ],
+      [
+        "硅材料基础对照",
+        "silicon · silica · silicate"
+      ],
+      [
+        "两部分相连的材料",
+        "borosilicate"
+      ]
+    ],
+    "contrasts": "元素名不等于材料名；硼硅玻璃、纯硅、二氧化硅不是同一种东西，词的每一半都有作用。",
+    "practice": "The cup is made of borosilicate glass.\n\n这个杯子由硼硅玻璃制成。",
+    "words": [
+      "boron",
+      "silicon",
+      "silica",
+      "silicate",
+      "borosilicate"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2197",
+    "meaning": "眼",
+    "core": "OPHTHALMO-：把学科、医生的领域限定到眼",
+    "image": "ophthalmology 是眼科学、眼科，ophthalmologist 是眼科医生；先把长前部认成眼，再读后面的学科和人物。",
+    "intro": "来自希腊 ophthalmos 眼，进入医学拉丁、近代学术词，形成 ophthalmo- 组合。ph、th 在词中有各自的历史拼写。",
+    "forms": "ophthalmo- + -logy → ophthalmology；相应人物后部 -logist → ophthalmologist。",
+    "branches": [
+      [
+        "学科、科室与医生",
+        "ophthalmology · ophthalmologist"
+      ]
+    ],
+    "contrasts": "ophthalmologist 是眼科医生名称；配镜、验光等相关职业还有各自称呼，不能只因都与眼有关就互换。",
+    "practice": "The ophthalmologist explained the eye examination.\n\n眼科医生解释了这次眼部检查。",
+    "words": [
+      "ophthalmology",
+      "ophthalmologist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2075",
+    "meaning": "手",
+    "core": "CHIRO-：用手操作的旧材料，进入整脊体系名称",
+    "image": "chiropractic 是以相应手法操作为特点的体系名称；chiropractor 是从业者。手的命名线索，并不把所有手工治疗都归成同一职业。",
+    "intro": "接希腊 kheir 手，词干 chir-，与实践、操作的相关材料形成近代 chiropractic；人物名又在英语中形成。",
+    "forms": "chiro- 手 + practic- 操作、实践 → chiropractic；再形成 chiropractor。",
+    "branches": [
+      [
+        "体系与人物",
+        "chiropractic · chiropractor"
+      ]
+    ],
+    "contrasts": "这是一组具体名称；理解词根里的手，不等于仅凭名称判断某种方法的疗效或职业范围。",
+    "practice": "The article explains the term chiropractic and the title chiropractor.\n\n文章解释了 chiropractic 这个名称以及 chiropractor 这个职业称谓。",
+    "words": [
+      "chiropractic",
+      "chiropractor"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2213",
+    "meaning": "粥状、糊状的旧材料",
+    "core": "ATHERO-：从粥样外观，理解动脉粥样硬化的命名",
+    "image": "atherosclerosis 的前部用了像粥、糊状物的旧名称，后部说硬化；现代术语关心动脉壁的粥样斑块与变化。",
+    "intro": "来自希腊 athare 粥、糊状物，近代医学借其形象描述某类沉积；与 sclero- 硬、-osis 状态等材料合成疾病名称。",
+    "forms": "athero- 粥样 + sclerosis 硬化 → atherosclerosis。旧食物画面是外观类比，不是说血管里真的有粥。",
+    "branches": [
+      [
+        "固定医学名称",
+        "atherosclerosis"
+      ]
+    ],
+    "contrasts": "athero- 给出粥样外观线索，sclero- 给出硬化关系；分开认这两部分，名称会更清楚。",
+    "practice": "The diagram illustrates the changes associated with atherosclerosis.\n\n图示展示了与动脉粥样硬化相关的变化。",
+    "words": [
+      "atherosclerosis"
+    ],
+    "exclude": {
+      "atherosclerotic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1852",
+    "meaning": "冰冷、低温",
+    "core": "CRYO-：把过程、设备与低温条件联系起来",
+    "image": "cryogenic 描述低温相关的性质、技术；cryopreservation 是低温保存，把保存对象放到这种条件下。",
+    "intro": "来自希腊 kryos 冰冷、霜冻，进入近代低温科学、生物保存等名称。",
+    "forms": "cryo- + genic 相关材料 → cryogenic；cryo- + preservation 保存 → cryopreservation。",
+    "branches": [
+      [
+        "低温相关性质",
+        "cryogenic"
+      ],
+      [
+        "低温保存过程",
+        "cryopreservation"
+      ]
+    ],
+    "contrasts": "cryogenic 用于低温科学的特定范围，日常说冷更常用 cold；cryopreservation 则强调保存目的。",
+    "practice": "The laboratory uses cryogenic storage for some samples.\n\n实验室对部分样本采用低温储存。",
+    "words": [
+      "cryogenic",
+      "cryopreservation"
+    ],
+    "exclude": {
+      "cryo-process": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cryo-freeze": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2113",
+    "meaning": "长期、持续，来自 permanent 的截短",
+    "core": "PERMA-：把长久保持的感觉放到名称前面",
+    "image": "permafrost 是多年冻土，permalink 是供长期引用的固定链接；持续、长久是两者命名的共同线索。",
+    "intro": "由 permanent 长久的截短成近代构词材料 perma-，进入不同科学、网络等名称。",
+    "forms": "perma- + frost → permafrost；perma- + link → permalink。现代词的技术定义各自固定，不只按永远两个字理解。",
+    "branches": [
+      [
+        "长期冻结状态",
+        "permafrost"
+      ],
+      [
+        "网页引用名称",
+        "permalink"
+      ]
+    ],
+    "contrasts": "permafrost 的多年冻结有具体地学定义；permalink 的命名表达持续可引用的用途，不是网站绝不可能变化的保证。",
+    "practice": "Use the permalink when citing the article.\n\n引用这篇文章时，请使用它的固定链接。",
+    "words": [
+      "permafrost",
+      "permalink"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2219",
+    "meaning": "小称、带评价的名词形式",
+    "core": "-REL：同一类旧词尾，在不同词里有不同语气",
+    "image": "cockerel 说年轻公鸡，偏小称；mongrel 说混种等，历史上又带评价性质。不能把每个结尾都统一译成可爱的小。",
+    "intro": "中古英语 -rel、-erel 等联系古法语 -erel、-erelle，小称、评价用途随具体完整词发展。",
+    "forms": "cock + -erel → cockerel；旧 mong 混合材料 + -rel → mongrel。前者指年龄、类别，后者的现代语气还要看对象。",
+    "branches": [
+      [
+        "年轻动物名称",
+        "cockerel"
+      ],
+      [
+        "混种及带评价用法",
+        "mongrel"
+      ]
+    ],
+    "contrasts": "mongrel 谈狗可作普通名称，谈人可能强烈贬损；cockerel 则是正常的年轻公鸡称呼，不自动带同样评价。",
+    "practice": "The cockerel watched the friendly mongrel cross the yard.\n\n小公鸡看着那只友好的混种狗穿过院子。",
+    "words": [
+      "cockerel",
+      "mongrel"
+    ],
+    "exclude": {
+      "pickerel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2604",
+    "meaning": "公鸡、公鸟；相关动作及粗俗身体称呼",
+    "core": "COCK：先认公鸡，再分清各词和各场景的用法",
+    "image": "公鸡昂首挺胸的画面能帮助记 cocky 自负；cockerel 是年轻公鸡，peacock 是孔雀的雄鸟名称。cock 本身另有动作、粗俗身体用法。",
+    "intro": "公鸡义继承古英语 cocc 等，可能拟鸟叫，也受法语相关词影响；后续人物评价、动作和身体隐喻分别发展，另有同形词来自不同路线。",
+    "forms": "cock → cockerel〔小称〕、cocky〔相应性质〕；旧 pea 孔雀材料 + cock 公鸟 → peacock。cocktail 的来源有争议，不定为公鸡的直接派生。",
+    "branches": [
+      [
+        "公鸡与年轻公鸡",
+        "cock · cockerel"
+      ],
+      [
+        "相关鸟名、评价",
+        "peacock · cocky"
+      ],
+      [
+        "同词的动作、粗俗身体分支",
+        "cock"
+      ]
+    ],
+    "contrasts": "peacock 的 pea 是旧孔雀名称材料；cock 的身体粗俗义、歪头等动作义都要按语境选。不要用一个公鸡中文义硬译所有例子。",
+    "practice": "The cockerel stood beside the hens while the peacock crossed the garden.\n\n小公鸡站在母鸡旁边，那只雄孔雀穿过了花园。",
+    "words": [
+      "cock",
+      "cockerel",
+      "cocky",
+      "peacock"
+    ],
+    "exclude": {
+      "chicken": "基础鸡类名称已单独精讲；此处集中于 cock 的透明派生及复合。",
+      "grass-cock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cocktail": "词源解释未定，不作为 cock 公鸡义直接派生的确定证据。",
+      "nestle-cock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodcock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cocksucker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coxswain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cocksucking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cockfighting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2200",
+    "meaning": "近代化学命名中抽出的词形材料",
+    "core": "-YLENE：看完整化学名称，也看词尾怎样从旧名中被抽出",
+    "image": "ethylene 是乙烯，propylene 是丙烯；前面的材料与二碳、三碳命名词族有关，后部反映近代化学命名的类比。",
+    "intro": "从 methylene、ethylene 等旧名称中抽出相似词形；其中 -yl 与 -ene 原本也有各自的命名历史。后来的 -ylene 不能简单当一个古代独立物质名。",
+    "forms": "ethyl + -ene → ethylene；propionique 丙酸相关材料 + -ylene → propylene；再加 poly- 形成 polyethylene、polypropylene。",
+    "branches": [
+      [
+        "常见单体名称",
+        "ethylene · propylene"
+      ],
+      [
+        "对应聚合材料",
+        "polyethylene · polypropylene"
+      ]
+    ],
+    "contrasts": "单体与聚合物不互换；-ylene 的历史类比也不替代现代完整结构名称，具体仍看 ethylene、propylene。",
+    "practice": "The factory makes polyethylene from ethylene and polypropylene from propylene.\n\n工厂用乙烯制造聚乙烯，用丙烯制造聚丙烯。",
+    "words": [
+      "ethylene",
+      "polyethylene",
+      "propylene",
+      "polypropylene"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1930",
+    "meaning": "吃、吞食的命名材料",
+    "core": "-PHAGE：借吃的画面，形成细胞或病毒名称",
+    "image": "macrophage 是巨噬细胞，能吞噬某些颗粒等；bacteriophage 的旧名像吃细菌，现代说感染细菌的病毒。",
+    "intro": "经拉丁 -phagus 接希腊 phagein 吃及 phagos 等材料，现代生物学用于不同类别名称；独立 phage 再从 bacteriophage 缩短。",
+    "forms": "macro- 大 + -phage → macrophage；bacterio- 细菌 + -phage → bacteriophage → phage。",
+    "branches": [
+      [
+        "吞噬细胞名称",
+        "macrophage"
+      ],
+      [
+        "感染细菌的病毒及缩称",
+        "bacteriophage · phage"
+      ]
+    ],
+    "contrasts": "macrophage 是细胞，phage 作为独立短词通常是病毒；吃是历史命名画面，两者的实际生物过程不同。",
+    "practice": "The diagram distinguishes a macrophage from a bacteriophage.\n\n图示区分了巨噬细胞与噬菌体。",
+    "words": [
+      "macrophage",
+      "bacteriophage",
+      "phage"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2260",
+    "meaning": "少数口语名词中的类比、表达性结尾",
+    "core": "-BIE：认固定口语词，不把末尾硬当一条万能规则",
+    "image": "newbie 是新手，freebie 是免费赠品；都短小随意，但各自的形成有不同分析，不必强画成一个先从另一个派生。",
+    "intro": "现代英语从 newbie 等词可以辨认 -bie 一类形式；newbie 的更早构成未定，freebie 也可按 free 加口语过渡音、昵称式 -ie 来理解。",
+    "forms": "newie 变形或较长人物称呼缩短等 → newbie〔来源有不同分析〕；free + 口语形式 → freebie。两词并列学习，不强定年代先后造成的派生关系。",
+    "branches": [
+      [
+        "新加入的人",
+        "newbie"
+      ],
+      [
+        "免费得到的东西",
+        "freebie"
+      ]
+    ],
+    "contrasts": "newbie 有时可自谦，有时会带轻视；freebie 常是轻松的赠品叫法。这个后部不像 -er 那样能自由造一大批规则人物词。",
+    "practice": "The event gave every newbie a small freebie.\n\n活动给每位新来者发了一份小赠品。",
+    "words": [
+      "newbie",
+      "freebie"
+    ],
+    "exclude": {}
+  }
+]

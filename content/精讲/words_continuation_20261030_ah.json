@@ -1,0 +1,437 @@
+[
+  {
+    "word": "broad",
+    "ipa": "/brɔːd/",
+    "meaning": "宽阔的；广泛的；概括的",
+    "sense": "一条路横向很宽，一门知识覆盖很多方面，一份概览只画大轮廓；都是宽的不同侧面。",
+    "split": "继承古英语 brād，经中古英语延续。范围、思路、轮廓等抽象义与空间宽度相连；更远来源不作定论。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "现代 broad",
+        "宽阔 → 范围广；粗略、概括"
+      ]
+    ],
+    "explanation": "broad shoulders 宽肩，a broad range 广泛范围，a broad overview 概览，in broad daylight 光天化日。",
+    "usage": "a broad range；broad shoulders；a broad overview；in broad terms。",
+    "contrast": "broad 与 wide 许多场景重合，但固定搭配要学；a broad overview 不是精确列出所有细节。",
+    "examples": [
+      [
+        "The course covers a broad range of topics.",
+        "课程涵盖广泛主题。"
+      ],
+      [
+        "She gave us a broad overview of the plan.",
+        "她给我们概括介绍了方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broad#English"
+    ]
+  },
+  {
+    "word": "breadth",
+    "ipa": "/bredθ/",
+    "meaning": "宽度；广度、丰富范围",
+    "sense": "从左到右有多宽，或知识、经验横跨多少方面。",
+    "split": "接古英语 brǣdu 的旧宽度名词，经中古英语 brede、bredthe，后来受 length 等 -th 名词影响。现代可联系 broad + -th，元音变化是历史结果。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "古英语 brǣdu → 中古英语 brede／bredthe → breadth",
+        "宽阔的性质 → 宽度、范围广度"
+      ]
+    ],
+    "explanation": "the breadth of the river 河流宽度，breadth of experience 经验广度，breadth and depth 广度与深度。",
+    "usage": "breadth of experience；breadth and depth；the breadth of a range。",
+    "contrast": "breadth 宽度、广度，breath 呼吸，少一个 d 就是另一词；depth 深度不等于覆盖方面多。",
+    "examples": [
+      [
+        "The project impressed us with its breadth and depth.",
+        "项目的广度和深度令我们印象深刻。"
+      ],
+      [
+        "Her experience gives her an unusual breadth of knowledge.",
+        "她的经历让她拥有非同寻常的知识广度。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/breadth",
+      "https://en.wiktionary.org/wiki/breadth#English"
+    ]
+  },
+  {
+    "word": "broaden",
+    "ipa": "/ˈbrɔːdən/",
+    "meaning": "扩大；拓宽；变宽",
+    "sense": "把原先窄的范围往两边推开，可以是路，也可以是眼界、经验或调查范围。",
+    "split": "broad + -en，-en 表变得、使变得。这个词末 d 后不是过去式，整个 -en 在造新动词。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "现代 broad",
+        "宽阔 → 范围广；粗略、概括"
+      ],
+      [
+        "broad + -en → broaden",
+        "使变宽、范围扩大"
+      ]
+    ],
+    "explanation": "broaden your horizons 开阔眼界，broaden the search 扩大搜寻，broaden access 扩大可获得、可使用范围。",
+    "usage": "broaden your horizons；broaden the search；broaden the scope。",
+    "contrast": "broad 是宽的状态，broaden 是变宽的动作；board 木板、登船是另词，不能漏掉 broad 的 r 后元音关系。",
+    "examples": [
+      [
+        "Travel can broaden your horizons.",
+        "旅行可以开阔眼界。"
+      ],
+      [
+        "The team broadened the search to nearby towns.",
+        "团队把搜寻范围扩大到附近城镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broaden#English"
+    ]
+  },
+  {
+    "word": "broadly",
+    "ipa": "/ˈbrɔːdli/",
+    "meaning": "广泛地；大体上、概括地",
+    "sense": "覆盖面铺得很开；讨论意见时，又表示看大方向，不计每个小细节。",
+    "split": "broad + -ly，既保留宽泛方式义，也形成 broadly speaking 概括来说等固定用法。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "现代 broad",
+        "宽阔 → 范围广；粗略、概括"
+      ],
+      [
+        "broad + -ly → broadly",
+        "广泛地 → 大体上、概括地"
+      ]
+    ],
+    "explanation": "broadly speaking 概括而言，broadly agree 大体同意，broadly similar 大体相似。",
+    "usage": "broadly speaking；broadly agree；broadly similar。",
+    "contrast": "broadly agree 不等于完全每点都赞同；exactly 精确地强调细节一致，方向不同。",
+    "examples": [
+      [
+        "Broadly speaking, the two plans are similar.",
+        "大体说来，两项方案相似。"
+      ],
+      [
+        "We broadly agree on the goals but differ on the details.",
+        "我们在目标上大体同意，但细节有分歧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broadly#English"
+    ]
+  },
+  {
+    "word": "abroad",
+    "ipa": "/əˈbrɔːd/",
+    "meaning": "在国外；到国外；广为流传〔部分旧式用法〕",
+    "sense": "从家里走到外面、远处，最后常用义扩大成走出本国的范围。",
+    "split": "中古英语 on brode、abrood，上接古英语 on brede，a- 这里接 on 的弱化。旧义有广散、在外，后来常指国外。不是不定冠词 a 加一个宽阔物。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "古英语 on brede → 中古英语 abrood",
+        "广开、散在外 → 在外、离家"
+      ],
+      [
+        "英语 abroad",
+        "在国外、到国外"
+      ]
+    ],
+    "explanation": "study abroad 留学，travel abroad 出国旅行，live abroad 住在国外。通常作副词，go abroad 不再加 to。",
+    "usage": "study abroad；go abroad；live abroad；from abroad。",
+    "contrast": "abroad 国外，aboard 在船、飞机等交通工具上；拼写只差位置，句子场景不同。",
+    "examples": [
+      [
+        "She plans to study abroad next year.",
+        "她计划明年出国留学。"
+      ],
+      [
+        "We received several applications from abroad.",
+        "我们收到了几份来自国外的申请。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/abroad",
+      "https://en.wiktionary.org/wiki/abroad#English"
+    ]
+  },
+  {
+    "word": "broadband",
+    "ipa": "/ˈbrɔːdbænd/",
+    "meaning": "宽带；宽频带的",
+    "sense": "技术上用较宽的一段频带传信号，日常最常指宽带网络接入。",
+    "split": "broad 宽 + band 频带，band 用带状范围作比喻。通信词后来成为家庭、办公室网络服务的通称。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "现代 broad",
+        "宽阔 → 范围广；粗略、概括"
+      ],
+      [
+        "broad + band〔频带〕→ broadband",
+        "宽频带传输 → 宽带接入"
+      ]
+    ],
+    "explanation": "broadband access 宽带接入，a broadband connection 宽带连接，broadband speed 宽带速度。不同技术、套餐能力要具体看。",
+    "usage": "broadband access；a broadband connection；broadband speed。",
+    "contrast": "broadband 宽带不等于 Wi-Fi；前者常说接入服务或传输，后者是本地无线连接方式。bandwidth 带宽是相关度量词。",
+    "examples": [
+      [
+        "The village now has broadband access.",
+        "村庄现在接入了宽带。"
+      ],
+      [
+        "Our broadband connection stopped working this morning.",
+        "今天早上我们的宽带连接断了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broadband#English"
+    ]
+  },
+  {
+    "word": "broadsheet",
+    "ipa": "/ˈbrɔːdʃiːt/",
+    "meaning": "大幅纸张；大开张报纸；严肃报纸〔延伸用法〕",
+    "sense": "展开是一大张纸，报业里常与小开张的 tabloid 相对；后来也可借来形容偏严肃的新闻风格。",
+    "split": "broad 宽 + sheet 纸张，从纸张尺寸、报纸版式发展出报纸类型的说法。版式与内容风格不能严格画等号。",
+    "history": [
+      [
+        "古英语 brād → 中古英语 brood → broad",
+        "宽、开阔；更早来源未定"
+      ],
+      [
+        "现代 broad",
+        "宽阔 → 范围广；粗略、概括"
+      ],
+      [
+        "broad + sheet → broadsheet",
+        "大幅纸张 → 大开张报纸及相关风格称呼"
+      ]
+    ],
+    "explanation": "a broadsheet newspaper 大开张报纸，a broadsheet format 大开张版式。即使报纸后来换版式，传统类别称呼也可能保留。",
+    "usage": "a broadsheet newspaper；a broadsheet format；read a broadsheet。",
+    "contrast": "broadsheet 不是保证所有报道高质量的标签；tabloid 也既有尺寸义又有风格义，具体报道还得单独看。",
+    "examples": [
+      [
+        "He unfolded the broadsheet across the table.",
+        "他把大开张报纸铺展在桌上。"
+      ],
+      [
+        "The article compares broadsheet and tabloid news styles.",
+        "文章比较大报与小报的新闻风格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broadsheet#English"
+    ]
+  },
+  {
+    "word": "link",
+    "ipa": "/lɪŋk/",
+    "meaning": "链环；联系、连接；网页链接",
+    "sense": "一只金属环扣住下一只，就成了链；人与事件、网页与网页之间也能这样接起来。",
+    "split": "中古英语链环词，常联系斯堪的纳维亚来源，细节有讨论。连接动词与名词紧密相关，现代网站链接是新场景。",
+    "history": [
+      [
+        "中古英语 linke、lenke",
+        "链环；可能有斯堪的纳维亚来源，旧本族联系亦有讨论"
+      ],
+      [
+        "现代 link",
+        "连接的一环 → 联系、链路、网页链接；连接动作"
+      ]
+    ],
+    "explanation": "a link in a chain 链中的一环，a link between events 事件之间的联系，click a link 点链接，link A to B 把两者连接。",
+    "usage": "a link between；link A to B；click a link；a weak link。",
+    "contrast": "a link between 两事有关联，不必证明因果。高尔夫 links、旧火把 link 等另有历史，不按网页链接强行合并。",
+    "examples": [
+      [
+        "The article includes a link to the original report.",
+        "文章有原始报告的链接。"
+      ],
+      [
+        "The bridge links the two sides of the valley.",
+        "桥把山谷两侧连接起来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/link",
+      "https://en.wiktionary.org/wiki/link#English"
+    ]
+  },
+  {
+    "word": "linkage",
+    "ipa": "/ˈlɪŋkɪdʒ/",
+    "meaning": "联系、关联；连接机构、联动装置",
+    "sense": "不是只盯一条线，而是看几个部分怎样连起来、相互带动；机器里也可以是真实的连杆结构。",
+    "split": "link + -age，形成连接关系或连接装置的名词，末段读 /ɪdʒ/。",
+    "history": [
+      [
+        "中古英语 linke、lenke",
+        "链环；可能有斯堪的纳维亚来源，旧本族联系亦有讨论"
+      ],
+      [
+        "现代 link",
+        "连接的一环 → 联系、链路、网页链接；连接动作"
+      ],
+      [
+        "link + -age → linkage",
+        "连接关系；由连接件构成的机构"
+      ]
+    ],
+    "explanation": "linkage between two factors 两因素的联系，a mechanical linkage 机械联动机构。遗传等学科还可能有专门定义。",
+    "usage": "linkage between；a mechanical linkage；strengthen linkages。",
+    "contrast": "link 常具体一环、一条连接，linkage 侧重连接关系或结构整体；两者有重合，不只按长短判断正式程度。",
+    "examples": [
+      [
+        "The study explores the linkage between transport and employment.",
+        "研究探讨交通与就业之间的联系。"
+      ],
+      [
+        "The handle operates a simple mechanical linkage.",
+        "手柄带动一个简单的机械联动机构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linkage#English"
+    ]
+  },
+  {
+    "word": "linker",
+    "ipa": "英 /ˈlɪŋkə/；美 /ˈlɪŋkər/",
+    "meaning": "连接者、连接物；链接器〔编程〕",
+    "sense": "把分开的部分接起来的主体；编程里，把编译后的片段及所需内容链接成程序等输出。",
+    "split": "link + -er，-er 可人也可工具。软件链接器是工具义的一种专门化。",
+    "history": [
+      [
+        "中古英语 linke、lenke",
+        "链环；可能有斯堪的纳维亚来源，旧本族联系亦有讨论"
+      ],
+      [
+        "现代 link",
+        "连接的一环 → 联系、链路、网页链接；连接动作"
+      ],
+      [
+        "link + -er → linker",
+        "执行连接的主体 → 程序链接器等"
+      ]
+    ],
+    "explanation": "a linker error 链接错误，the compiler and linker 编译器与链接器。语言学、化学等领域的 linker 也都需看具体对象。",
+    "usage": "a linker error；the compiler and linker；a linker script。",
+    "contrast": "linker 不等于 browser 浏览器；一个参与程序构建，一个常用于打开网页，不能因都谈 link 就混。",
+    "examples": [
+      [
+        "The linker reported a missing symbol.",
+        "链接器报告缺少一个符号。"
+      ],
+      [
+        "The build process runs the compiler before the linker.",
+        "构建过程先运行编译器，再运行链接器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linker#English"
+    ]
+  },
+  {
+    "word": "downlink",
+    "ipa": "/ˈdaʊnlɪŋk/",
+    "meaning": "下行链路；下行传输",
+    "sense": "从卫星到地面，或从网络到用户，把这个方向叫下行；down 是系统中的相对方向。",
+    "split": "down- 下行 + link 链路，通信中与 uplink 上行配对。不是说传输电缆必须沿垂直方向。",
+    "history": [
+      [
+        "中古英语 linke、lenke",
+        "链环；可能有斯堪的纳维亚来源，旧本族联系亦有讨论"
+      ],
+      [
+        "现代 link",
+        "连接的一环 → 联系、链路、网页链接；连接动作"
+      ],
+      [
+        "down- + link → downlink",
+        "从上层、远端系统到接收端的通信链路"
+      ]
+    ],
+    "explanation": "a satellite downlink 卫星下行链路，downlink data 下行数据，downlink speed 下行速度。",
+    "usage": "a satellite downlink；downlink data；downlink speed。",
+    "contrast": "downlink 下行链路与 download 下载相关但不完全同义；download 常指把文件等取到本地的动作。",
+    "examples": [
+      [
+        "The satellite downlink carries images to the ground station.",
+        "卫星下行链路把图像传到地面站。"
+      ],
+      [
+        "The test measured uplink and downlink speeds.",
+        "测试测量了上行和下行速度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downlink#English"
+    ]
+  },
+  {
+    "word": "permalink",
+    "ipa": "英 /ˈpɜːməlɪŋk/；美 /ˈpɜːrməlɪŋk/",
+    "meaning": "永久链接；指向单篇内容的稳定网址",
+    "sense": "文章从首页往后翻走了，仍能用同一地址直接找到它；这种供长期引用的地址叫永久链接。",
+    "split": "perma- 来自 permanent 永久的缩短 + link，现代网络构词。perma- 不等于 per- 穿过再另加一个 m。",
+    "history": [
+      [
+        "中古英语 linke、lenke",
+        "链环；可能有斯堪的纳维亚来源，旧本族联系亦有讨论"
+      ],
+      [
+        "现代 link",
+        "连接的一环 → 联系、链路、网页链接；连接动作"
+      ],
+      [
+        "perma〔permanent 缩短〕+ link → permalink",
+        "设计为稳定指向单篇内容的链接"
+      ]
+    ],
+    "explanation": "copy the permalink 复制永久链接，a permalink to a post 某篇文章的永久链接。稳定是用途设计，不保证网站关闭后仍可访问。",
+    "usage": "copy the permalink；a permalink to a post；a stable permalink。",
+    "contrast": "homepage 首页地址可能每次显示不同新内容；permalink 侧重直接指向一篇内容。页面删除或迁移后也可能失效。",
+    "examples": [
+      [
+        "Use the permalink when citing this post.",
+        "引用这篇文章时请用永久链接。"
+      ],
+      [
+        "She copied the permalink into her notes.",
+        "她把永久链接复制进笔记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/permalink#English"
+    ]
+  }
+]

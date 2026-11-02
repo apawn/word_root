@@ -1,0 +1,872 @@
+[
+  {
+    "word": "true",
+    "ipa": "/truː/",
+    "meaning": "真实的；正确的；真正的；忠实的",
+    "sense": "说的话靠得住、和事实对得上；朋友也能在关系里靠得住。",
+    "split": "接古英语 trēowe、trīewe，经中古英语 trewe、true 等延续，更早词族与坚定、可靠相连。不是现代 tru + e。",
+    "history": [
+      [
+        "古英语 trēowe / trīewe → 中古英语 trewe / true",
+        "忠实、可靠、真实"
+      ],
+      [
+        "英语 true",
+        "符合事实；真正、忠实的"
+      ]
+    ],
+    "explanation": "a true story 真实故事，a true friend 真正可靠的朋友，come true 成真。true to life 逼真，true to your word 信守诺言，都保留对得上、靠得住的感觉。",
+    "usage": "a true story；come true；true to life；stay true to；true or false。",
+    "contrast": "true 常判断陈述是否属实，real 常说东西确实存在、并非假冒；true friend 是真心朋友，不只是一个有血有肉的 real person。",
+    "examples": [
+      [
+        "Is it true that you are moving abroad?",
+        "你要搬到国外，这是真的吗？"
+      ],
+      [
+        "Her dream of opening a cafe finally came true.",
+        "她开咖啡馆的梦想终于成真了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/true#English"
+    ]
+  },
+  {
+    "word": "truly",
+    "ipa": "/ˈtruːli/",
+    "meaning": "真正地；确实；忠实地",
+    "sense": "不是表面应付，而是确确实实如此，或从心里这样觉得。",
+    "split": "现代 true + -ly，去掉 e，写 truly；历史有古英语 trēowlīċe、中古英语 trewely 等，不是唯一只能由现代拼写推出来。",
+    "history": [
+      [
+        "古英语 trēowe / trīewe → 中古英语 trewe / true",
+        "忠实、可靠、真实"
+      ],
+      [
+        "英语 true",
+        "符合事实；真正、忠实的"
+      ],
+      [
+        "古英语 trēowlīċe → 英语 truly；对应 true + -ly",
+        "忠实、真实地；确实"
+      ]
+    ],
+    "explanation": "truly grateful 真心感激，truly remarkable 确实非凡。Yours truly 是书信署名格式，也可幽默指本人。",
+    "usage": "truly grateful；truly remarkable；truly believe；Yours truly。",
+    "contrast": "truly 拼写没有 e；truly 强调真切、确实，不完全等于只把程度加高的 very。",
+    "examples": [
+      [
+        "I am truly grateful for your help.",
+        "我真心感谢你的帮助。"
+      ],
+      [
+        "It was a truly unforgettable evening.",
+        "那是一个确实难忘的夜晚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truly#English"
+    ]
+  },
+  {
+    "word": "untrue",
+    "ipa": "/ʌnˈtruː/",
+    "meaning": "不真实的；不忠实的",
+    "sense": "说法对不上事实，或人在承诺、关系上靠不住。",
+    "split": "un-（不）+ true，古英语有 untrīewe、中古英语 untrewe 等相应形式。并非今天才把否定前缀临时放上去。",
+    "history": [
+      [
+        "古英语 trēowe / trīewe → 中古英语 trewe / true",
+        "忠实、可靠、真实"
+      ],
+      [
+        "英语 true",
+        "符合事实；真正、忠实的"
+      ],
+      [
+        "un- + true → untrue〔旧词形延续〕",
+        "不真实；不忠实"
+      ]
+    ],
+    "explanation": "an untrue statement 不实陈述，be untrue to one’s principles 违背自己的原则。日常多见不实义，忠诚义常接 to。",
+    "usage": "an untrue statement；completely untrue；untrue to。",
+    "contrast": "untrue 只说不实，不证明说话人有意欺骗；a lie 通常强调故意说假话。",
+    "examples": [
+      [
+        "The claim is completely untrue.",
+        "这个说法完全不实。"
+      ],
+      [
+        "Changing the ending would feel untrue to the character.",
+        "改掉结尾会让人觉得不符合这个角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/untrue#English"
+    ]
+  },
+  {
+    "word": "truth",
+    "ipa": "/truːθ/",
+    "meaning": "事实真相；真实；真理",
+    "sense": "true 说一句话是真的，truth 则把那份真实、事情本来的样子当作名词谈。",
+    "split": "接古英语 trēowþ、中古英语 trouthe，旧义也含忠实、信义。与 true 同族，现代可对照 true + -th 的抽象名词关系，不是读作 true 加 /tʰ/。",
+    "history": [
+      [
+        "古英语 trēowþ → 中古英语 trouthe",
+        "忠实、信义；真实性"
+      ],
+      [
+        "英语 truth；与 true 对应",
+        "真实、真相；真实道理"
+      ]
+    ],
+    "explanation": "tell the truth 说实话，the truth about 某事真相，a universal truth 普遍真理。the truth 通常说实际情况，a truth 可以是一条真实认识。",
+    "usage": "tell the truth；the truth about；in truth；a grain of truth。",
+    "contrast": "truth 事实、真实，opinion 看法；看法可以有理、可证，也不能只因称为 opinion 就自动免于核对事实。",
+    "examples": [
+      [
+        "Please tell me the truth.",
+        "请告诉我实情。"
+      ],
+      [
+        "There may be a grain of truth in the rumor.",
+        "传闻里可能有一点真实成分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truth#English"
+    ]
+  },
+  {
+    "word": "truthful",
+    "ipa": "/ˈtruːθfəl/",
+    "meaning": "诚实的；如实的",
+    "sense": "人说话愿意照事实来，叙述也尽量不给事实拧弯。",
+    "split": "truth + -ful，-ful 表具有相应性质，不是 physically full of truth；与 true 的结构不同，th /θ/ 保留。",
+    "history": [
+      [
+        "truth",
+        "真实、事实"
+      ],
+      [
+        "truth + -ful → truthful",
+        "说实话的；符合事实的"
+      ]
+    ],
+    "explanation": "a truthful person 诚实的人，a truthful account 如实叙述，be truthful about 对某事如实说明。",
+    "usage": "a truthful answer；a truthful account；truthful about。",
+    "contrast": "true statement 说陈述属实；truthful person 说人诚实。true person 通常不能直接替换诚实的人。",
+    "examples": [
+      [
+        "She gave a truthful account of what happened.",
+        "她如实叙述了发生的事情。"
+      ],
+      [
+        "Please be truthful about how much time you need.",
+        "请如实说明你需要多少时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truthful#English"
+    ]
+  },
+  {
+    "word": "truthfully",
+    "ipa": "/ˈtruːθfəli/",
+    "meaning": "如实地；说实话",
+    "sense": "回答不添油、不掩盖，照自己知道的事实说。",
+    "split": "truthful + -ly，先 truth + -ful 得形容词，再加副词后缀。不是直接把 truth 随意改成 truly 的长版本。",
+    "history": [
+      [
+        "truth → truthful",
+        "事实 → 如实、诚实的"
+      ],
+      [
+        "truthful + -ly → truthfully",
+        "以说实话的方式"
+      ]
+    ],
+    "explanation": "answer truthfully 如实回答，Truthfully, I don’t know 说实话我不知道。后者强调坦诚，不意味着随后一定给出确定答案。",
+    "usage": "answer truthfully；speak truthfully；Truthfully, ...。",
+    "contrast": "truthfully 强调说话如实，truly 范围更广，可加强情感、程度；truly beautiful 通常不是 truthfully beautiful。",
+    "examples": [
+      [
+        "He answered the questions truthfully.",
+        "他如实回答了问题。"
+      ],
+      [
+        "Truthfully, I had not considered that possibility.",
+        "说实话，我没考虑过那种可能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truthfully#English"
+    ]
+  },
+  {
+    "word": "truthfulness",
+    "ipa": "/ˈtruːθfəlnəs/",
+    "meaning": "诚实；真实可信、如实的性质",
+    "sense": "从某一句答案，转到一个人、叙述是否一贯照事实说的性质。",
+    "split": "truthful + -ness；完整链是 truth → truthful → truthfulness，不是 truth + fullness“装满”。",
+    "history": [
+      [
+        "truthful",
+        "诚实、如实的"
+      ],
+      [
+        "truthful + -ness → truthfulness",
+        "诚实、如实的性质"
+      ]
+    ],
+    "explanation": "question the truthfulness of an account 质疑叙述是否属实，value truthfulness 重视诚实。与 truth 相比，更常审视人或表达是否如实。",
+    "usage": "the truthfulness of；value truthfulness；doubt someone’s truthfulness。",
+    "contrast": "truth 真相、真实内容，truthfulness 如实的性质；知道部分 truth 不保证叙述者一定有 truthfulness。",
+    "examples": [
+      [
+        "The interview raised questions about the truthfulness of his account.",
+        "采访引发了对他叙述真实性的质疑。"
+      ],
+      [
+        "The teacher valued kindness and truthfulness.",
+        "老师重视善良与诚实。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truthfulness#English"
+    ]
+  },
+  {
+    "word": "truism",
+    "ipa": "/ˈtruːɪzəm/",
+    "meaning": "不言而喻的道理；老生常谈",
+    "sense": "话当然没错，但谁都知道，说出来也没多给人什么新东西。",
+    "split": "true + -ism，去掉 e；这里 -ism 形成一类说法的名词，不是每个 -ism 都必须是一套主义。",
+    "history": [
+      [
+        "古英语 trēowe / trīewe → 中古英语 trewe / true",
+        "忠实、可靠、真实"
+      ],
+      [
+        "英语 true",
+        "符合事实；真正、忠实的"
+      ],
+      [
+        "true + -ism → truism",
+        "显而易见的真话；常嫌没有新意"
+      ]
+    ],
+    "explanation": "a familiar truism 是熟悉的常识句，repeat truisms 重复老生常谈。语气常含对正确却空泛的不满。",
+    "usage": "a familiar truism；a mere truism；repeat truisms。",
+    "contrast": "truth 可以深刻、重要，truism 常嫌过于显然；同样是真话，学习价值和语气不同。",
+    "examples": [
+      [
+        "Saying that practice helps is a truism; we need a useful training plan.",
+        "说练习有帮助是老生常谈，我们需要可用的训练计划。"
+      ],
+      [
+        "The speech repeated familiar truisms about hard work.",
+        "演讲重复了勤奋工作之类的常见道理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truism#English"
+    ]
+  },
+  {
+    "word": "young",
+    "ipa": "/jʌŋ/",
+    "meaning": "年轻的；幼小的；年轻人、幼崽〔集合用法〕",
+    "sense": "生命或发展的时间还短，可以是孩子、小动物，也可以是一家年轻公司。",
+    "split": "接古英语 ġeong、中古英语 yong 等；结尾 /ŋ/ 后通常不另读 /ɡ/。比较级 younger、最高级 youngest 在常见标准发音里有 /ɡ/。",
+    "history": [
+      [
+        "古英语 ġeong → 中古英语 yong / yonge",
+        "年轻、幼小"
+      ],
+      [
+        "英语 young",
+        "年龄小；发展时间短"
+      ]
+    ],
+    "explanation": "a young child 小孩子，a young company 成立不久的公司，the young 年轻人，feed their young 喂幼崽。young 不自动规定统一年龄线。",
+    "usage": "young people；a young child；the young；young at heart。",
+    "contrast": "young 年龄、阶段尚早，new 强调新出现、新取得；一辆 old car 对新买主仍可 be new to him。",
+    "examples": [
+      [
+        "The young birds stayed close to their mother.",
+        "幼鸟紧跟着母鸟。"
+      ],
+      [
+        "It is a young company with an experienced team.",
+        "这是家年轻公司，团队却很有经验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/young#English"
+    ]
+  },
+  {
+    "word": "youngish",
+    "ipa": "/ˈjʌŋɪʃ/",
+    "meaning": "还算年轻的；比较年轻的",
+    "sense": "不好说特别年轻，但看起来、比起来仍偏年轻。",
+    "split": "young + -ish，-ish 表带一些某种特征，不是精确年龄单位；ng 通常仍是 /ŋ/。",
+    "history": [
+      [
+        "古英语 ġeong → 中古英语 yong / yonge",
+        "年轻、幼小"
+      ],
+      [
+        "英语 young",
+        "年龄小；发展时间短"
+      ],
+      [
+        "young + -ish → youngish",
+        "比较年轻、略显年轻的"
+      ]
+    ],
+    "explanation": "a youngish man 一个比较年轻的男人，a youngish team 一支偏年轻的团队；常带估计、相对比较语气。",
+    "usage": "a youngish man；a youngish team；look youngish。",
+    "contrast": "youngish 比 young 更含糊；不能靠 -ish 推出所有人都在某个统一年龄段。",
+    "examples": [
+      [
+        "A youngish man answered the door.",
+        "一个比较年轻的男人应了门。"
+      ],
+      [
+        "The team is youngish, but several members have years of experience.",
+        "团队整体偏年轻，不过几位成员已有多年经验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/youngish#English"
+    ]
+  },
+  {
+    "word": "youngster",
+    "ipa": "英 /ˈjʌŋstə/；美 /ˈjʌŋstər/",
+    "meaning": "孩子；年轻人",
+    "sense": "不说年轻这一性质，而直接指那个年纪小的人。",
+    "split": "young + -ster，-ster 形成与某种身份、活动有关的人名词。它不规定性别，也不是 star 明星的缩写。",
+    "history": [
+      [
+        "古英语 ġeong → 中古英语 yong / yonge",
+        "年轻、幼小"
+      ],
+      [
+        "英语 young",
+        "年龄小；发展时间短"
+      ],
+      [
+        "young + -ster → youngster",
+        "孩子、年轻人"
+      ]
+    ],
+    "explanation": "local youngsters 当地孩子、年轻人，a talented youngster 有天赋的年轻人。常带较年长者观察年轻人的口吻。",
+    "usage": "a talented youngster；local youngsters；as a youngster。",
+    "contrast": "youngster 人的名词，young 形容词；不能直接把 a young child 改成 a young 并期待同样的普通用法。",
+    "examples": [
+      [
+        "Local youngsters helped clean the park.",
+        "当地孩子们帮忙清理公园。"
+      ],
+      [
+        "As a youngster, he loved drawing maps.",
+        "小时候，他很爱画地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/youngster#English"
+    ]
+  },
+  {
+    "word": "youth",
+    "ipa": "/juːθ/",
+    "meaning": "青春；青年时期；年轻人〔集合〕；青年〔可数〕",
+    "sense": "把年轻看成生命的一段时光，也能借来称处在这段时光的人。",
+    "split": "接古英语 ġeoguþ、中古英语 youthe 等，与 young 的旧词族相关；现代可对照 young 与 -th 抽象名词关系，不能把当代 young 简单拼成 youngth。",
+    "history": [
+      [
+        "古英语 ġeoguþ → 中古英语 youthe",
+        "年轻状态、青年时期"
+      ],
+      [
+        "英语 youth；与 young 对应",
+        "青春；青年群体或某位青年"
+      ]
+    ],
+    "explanation": "in her youth 在她年轻时，the youth of a country 一国青年。a youth 传统常指一个年轻男子，具体材料里可能有较正式、报道式语感。",
+    "usage": "in one’s youth；a youth club；youth culture；the youth of。",
+    "contrast": "youth 青年时期通常不可数，某位青年可数；youthful 是显得年轻、带青春特点，未必实际年纪小。",
+    "examples": [
+      [
+        "She traveled widely in her youth.",
+        "她年轻时到过很多地方。"
+      ],
+      [
+        "The town opened a new youth club.",
+        "镇上开了一家新的青年活动中心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/youth#English"
+    ]
+  },
+  {
+    "word": "youthful",
+    "ipa": "/ˈjuːθfəl/",
+    "meaning": "年轻的；青春洋溢的；有年轻特点的",
+    "sense": "人可能已不算小，却仍有年轻人的活力、外表或热情。",
+    "split": "youth + -ful，th /θ/ 保留；不像 youth 末尾直接加一个普通复数 s。",
+    "history": [
+      [
+        "youth",
+        "青春、青年时期"
+      ],
+      [
+        "youth + -ful → youthful",
+        "带青春特点、活力的"
+      ]
+    ],
+    "explanation": "youthful energy 青春活力，a youthful appearance 年轻外表，youthful enthusiasm 年轻人的热情。也可说 youthful mistakes 年轻时的不成熟错误。",
+    "usage": "youthful energy；a youthful appearance；youthful enthusiasm。",
+    "contrast": "young 多说实际年龄或阶段，youthful 多说表现、气质；an elderly but youthful person 并不矛盾。",
+    "examples": [
+      [
+        "She still has a youthful enthusiasm for learning.",
+        "她对学习仍有年轻般的热情。"
+      ],
+      [
+        "The actor has a surprisingly youthful appearance.",
+        "这位演员的外表显得年轻得让人意外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/youthful#English"
+    ]
+  },
+  {
+    "word": "youthfulness",
+    "ipa": "/ˈjuːθfəlnəs/",
+    "meaning": "青春感；年轻的活力、外观或特点",
+    "sense": "把一个人身上那种轻快、朝气、显年轻的感觉单独拿出来谈。",
+    "split": "youthful + -ness；链条是 youth → youthful → youthfulness，不把 -fulness 当一块解释不清的东西。",
+    "history": [
+      [
+        "youth → youthful",
+        "青春 → 带青春特征的"
+      ],
+      [
+        "youthful + -ness → youthfulness",
+        "显年轻、朝气等性质"
+      ]
+    ],
+    "explanation": "the youthfulness of her voice 她声音里的年轻感，retain youthfulness 保持青春感。可说声音、态度、表达，不只肤色、皮肤。",
+    "usage": "the youthfulness of；a sense of youthfulness；retain youthfulness。",
+    "contrast": "youth 年轻时期或青年，youthfulness 带青春特点的性质；年龄增长不代表所有 youthfulness 都消失。",
+    "examples": [
+      [
+        "The youthfulness of his voice surprised the audience.",
+        "他声音里的年轻感让观众惊讶。"
+      ],
+      [
+        "The design conveys energy and youthfulness.",
+        "设计传达出活力与青春感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/youthfulness#English"
+    ]
+  },
+  {
+    "word": "meet",
+    "ipa": "/miːt/",
+    "meaning": "遇见；会面；迎接；满足、达到",
+    "sense": "两个人走到同一处，叫 meet；要求和实际结果对上了，也像两条线碰到一起。",
+    "split": "接古英语 mētan、中古英语 meten。过去式、过去分词 met /met/，不是 meeted。",
+    "history": [
+      [
+        "古英语 mētan → 中古英语 meten",
+        "相遇、碰见"
+      ],
+      [
+        "英语 meet",
+        "相会；碰到、达到、满足某种条件"
+      ]
+    ],
+    "explanation": "meet a friend 见朋友，meet at the station 在车站碰面；meet a requirement 满足要求，meet a deadline 按时完成。名词 a track meet 可指田径运动会。",
+    "usage": "meet someone；meet at；meet a requirement；meet a deadline。",
+    "contrast": "meet someone 直接接人很常见；meet with 可说正式会谈，也可说遇到某种反应、困难，如 meet with resistance，不能到处删 with。",
+    "examples": [
+      [
+        "Let’s meet outside the library.",
+        "我们在图书馆外碰面吧。"
+      ],
+      [
+        "The design meets all the stated requirements.",
+        "设计满足列出的全部要求。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meet#English"
+    ]
+  },
+  {
+    "word": "meeting",
+    "ipa": "/ˈmiːtɪŋ/",
+    "meaning": "会议；会面；汇合",
+    "sense": "把相遇变成一次有目的的相聚，大家交换信息、讨论、决定。",
+    "split": "meet + -ing；古英语已有 mēting、ġemēting，中古英语 meeting 等，名词不只是今天临时把动作加后缀。",
+    "history": [
+      [
+        "古英语 mētan → 中古英语 meten",
+        "相遇、碰见"
+      ],
+      [
+        "英语 meet",
+        "相会；碰到、达到、满足某种条件"
+      ],
+      [
+        "古英语 mēting / ġemēting → meeting",
+        "相聚、集会；现代对应 meet + -ing"
+      ]
+    ],
+    "explanation": "hold a meeting 开会，a chance meeting 偶遇，the meeting of two rivers 两河交汇。meeting 可以正式也可以偶然，不是所有都预先排会。",
+    "usage": "hold a meeting；attend a meeting；a chance meeting；a meeting point。",
+    "contrast": "meeting 会议、会面，appointment 通常是事先约定的见面时段；一次 appointment 可能对应医疗、服务预约，不都叫工作会议。",
+    "examples": [
+      [
+        "The meeting lasted less than an hour.",
+        "会议持续不到一小时。"
+      ],
+      [
+        "A chance meeting on the train led to a long friendship.",
+        "火车上的一次偶遇带来了一段长久友谊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meeting#English"
+    ]
+  },
+  {
+    "word": "unmet",
+    "ipa": "/ʌnˈmet/",
+    "meaning": "未满足的；未达到的；尚未相见的〔依语境〕",
+    "sense": "需求摆在那里，现实供给还没碰到它、填上它，缺口仍然存在。",
+    "split": "un-（未）+ met，met 是 meet 的过去分词。现代常从满足要求这一 meet 义理解，不是 met 代表天气预报。",
+    "history": [
+      [
+        "古英语 mētan → 中古英语 meten",
+        "相遇、碰见"
+      ],
+      [
+        "英语 meet",
+        "相会；碰到、达到、满足某种条件"
+      ],
+      [
+        "meet → met；un- + met → unmet",
+        "尚未满足、达到；未相会"
+      ]
+    ],
+    "explanation": "unmet needs 未满足需求，unmet demand 未被满足的需求；unmet expectations 未实现预期。不是表示需求不存在。",
+    "usage": "unmet needs；unmet demand；unmet expectations。",
+    "contrast": "unmet 没被满足，unnecessary 没有必要；一项 unmet need 可能非常必要，只是目前还没得到回应。",
+    "examples": [
+      [
+        "The survey revealed unmet needs among local families.",
+        "调查发现当地家庭还有未被满足的需求。"
+      ],
+      [
+        "The service was created to meet previously unmet demand.",
+        "这项服务为满足此前未获回应的需求而设立。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unmet#English"
+    ]
+  },
+  {
+    "word": "small",
+    "ipa": "英 /smɔːl/；美 /smɔːl/、/smɑːl/",
+    "meaning": "小的；少量的；规模不大的；微不足道的",
+    "sense": "尺寸、数量或影响没那么大；同一个小，不一定都能用尺量。",
+    "split": "接古英语 smæl、中古英语 smal、small 等，旧义也有狭窄、纤细；不是 modern s + mall“小商场”。",
+    "history": [
+      [
+        "古英语 smæl → 中古英语 smal / small",
+        "窄、细小、纤细"
+      ],
+      [
+        "英语 small",
+        "小；少；规模、程度低"
+      ]
+    ],
+    "explanation": "a small bag 小包，a small number 少数，a small business 小企业，feel small 感到自己卑微、难堪。比较级 smaller、最高级 smallest。",
+    "usage": "a small amount；a small number of；a small business；small talk。",
+    "contrast": "small 常描述尺寸、数量，little 也能带亲昵、轻视等语气。a little time 少许时间，不简单等于 a small time。",
+    "examples": [
+      [
+        "We found a small cafe near the station.",
+        "我们在车站附近找到一家小咖啡馆。"
+      ],
+      [
+        "Only a small number of tickets remain.",
+        "只剩少量票了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/small#English"
+    ]
+  },
+  {
+    "word": "smallish",
+    "ipa": "英 /ˈsmɔːlɪʃ/；美 /ˈsmɔːlɪʃ/",
+    "meaning": "比较小的；略小的",
+    "sense": "不算大，偏小，但未必小得夸张。",
+    "split": "small + -ish，中古英语已有 smalish；-ish 表大致、略有这种特征，不给出精确百分比。",
+    "history": [
+      [
+        "古英语 smæl → 中古英语 smal / small",
+        "窄、细小、纤细"
+      ],
+      [
+        "英语 small",
+        "小；少；规模、程度低"
+      ],
+      [
+        "small + -ish → smallish",
+        "偏小、比较小"
+      ]
+    ],
+    "explanation": "a smallish room 一个比较小的房间，a smallish group 一群人数不多的人；是相对判断。",
+    "usage": "a smallish room；a smallish group；a smallish town。",
+    "contrast": "smallish 比 tiny 微小通常更弱、更含糊；不能统一定为比 small 一定小还是大。",
+    "examples": [
+      [
+        "We stayed in a smallish room above the cafe.",
+        "我们住在咖啡馆楼上一间比较小的房间里。"
+      ],
+      [
+        "A smallish crowd gathered near the stage.",
+        "舞台附近聚了一小群人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smallish#English"
+    ]
+  },
+  {
+    "word": "smallness",
+    "ipa": "英 /ˈsmɔːlnəs/；美 /ˈsmɔːlnəs/",
+    "meaning": "小；规模小、微小的性质",
+    "sense": "不直接说小房间，而把“它小”这一特点拎出来当讨论对象。",
+    "split": "small + -ness，中古英语有 smalnesse 等，形成性质、状态名词。",
+    "history": [
+      [
+        "古英语 smæl → 中古英语 smal / small",
+        "窄、细小、纤细"
+      ],
+      [
+        "英语 small",
+        "小；少；规模、程度低"
+      ],
+      [
+        "small + -ness → smallness",
+        "体积、规模等小的性质"
+      ]
+    ],
+    "explanation": "the smallness of the room 房间狭小，the smallness of a team 团队规模小。可带局促，也可说明灵活，态度看上下文。",
+    "usage": "the smallness of；the smallness of the room；a sense of smallness。",
+    "contrast": "smallness 是性质名词，smallish 形容偏小；不是凡是 -ness 都表示令人不快。",
+    "examples": [
+      [
+        "The smallness of the room made storage difficult.",
+        "房间太小，让储物变得困难。"
+      ],
+      [
+        "The team’s smallness made quick decisions easier.",
+        "团队规模小，决定更容易迅速作出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smallness#English"
+    ]
+  },
+  {
+    "word": "smallpox",
+    "ipa": "英 /ˈsmɔːlpɒks/；美 /ˈsmɔːlpɑːks/",
+    "meaning": "天花",
+    "sense": "是历史上一种严重传染病的固定名称；名字里的 small 绝不等于病情轻。",
+    "split": "small + pox，历史与称作 great pox 的梅毒名称相对；pox 与 pocks 痘疮的旧词形相关。整体是疾病名，不用字面的小来判断严重性。",
+    "history": [
+      [
+        "small；pox〔痘疮相关名称〕",
+        "并列构词部分"
+      ],
+      [
+        "smallpox",
+        "与旧称 great pox 对照的固定病名：天花"
+      ]
+    ],
+    "explanation": "smallpox virus 天花病毒，smallpox eradication 天花根除。WHO 在1980年宣布天花已被根除，是医学史常见词。",
+    "usage": "smallpox eradication；the history of smallpox；smallpox vaccination。",
+    "contrast": "smallpox 天花与 chickenpox 水痘是不同疾病名称；不能把英文都带 pox 就当成同一种轻重版本。",
+    "examples": [
+      [
+        "The exhibition traces the history of smallpox eradication.",
+        "展览回顾了根除天花的历史。"
+      ],
+      [
+        "The museum displays documents from an old smallpox vaccination campaign.",
+        "博物馆展示了一场旧时天花疫苗接种行动的文献。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smallpox#English",
+      "https://www.who.int/health-topics/smallpox"
+    ]
+  },
+  {
+    "word": "gather",
+    "ipa": "英 /ˈɡæðə/；美 /ˈɡæðər/",
+    "meaning": "聚集；收集；逐渐增加；推知",
+    "sense": "把散着的人、东西或线索往一处拢；力量、速度也能一点点积起来。",
+    "split": "接古英语 gaderian、中古英语 gaderen，与一起、聚合的旧词族有关。th 读 /ð/，不是 /θ/。",
+    "history": [
+      [
+        "古英语 gaderian → 中古英语 gaderen",
+        "聚集、收集，使到一起"
+      ],
+      [
+        "英语 gather",
+        "收集；聚集；据线索理解"
+      ]
+    ],
+    "explanation": "gather information 收集信息，people gather 人聚起来，gather speed 加速，I gather that 据我了解、推知。推知义像把线索收拢得出判断。",
+    "usage": "gather information；gather around；gather speed；gather that。",
+    "contrast": "gather 人物、信息、力量都能收拢；collect 更常明确收集对象。I gather you are leaving 是推知，不是收集了一个你。",
+    "examples": [
+      [
+        "People gathered around the noticeboard.",
+        "人们聚到公告栏周围。"
+      ],
+      [
+        "I gather that you have already met.",
+        "据我了解，你们已经见过了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gather#English"
+    ]
+  },
+  {
+    "word": "gathering",
+    "ipa": "英 /ˈɡæðərɪŋ/；美 /ˈɡæðərɪŋ/",
+    "meaning": "聚会；集会；收集、聚集过程",
+    "sense": "人拢到一处就成了一场聚会，信息拢到一处则是收集过程。",
+    "split": "gather + -ing；古英语已有 gaderung、中古英语 gadering，活动名词有历史前身。",
+    "history": [
+      [
+        "古英语 gaderian → 中古英语 gaderen",
+        "聚集、收集，使到一起"
+      ],
+      [
+        "英语 gather",
+        "收集；聚集；据线索理解"
+      ],
+      [
+        "古英语 gaderung → gathering",
+        "聚集、集会；现代对应 gather + -ing"
+      ]
+    ],
+    "explanation": "a family gathering 家庭聚会，information gathering 信息收集。前者可数，后者更常说活动过程。",
+    "usage": "a family gathering；a social gathering；information gathering。",
+    "contrast": "gathering 聚会、集会范围广，meeting 常有更具体会面、议事目的；家庭吃饭可以是 gathering，不一定是正式会议。",
+    "examples": [
+      [
+        "The wedding became a large family gathering.",
+        "婚礼成了一场大家庭聚会。"
+      ],
+      [
+        "Information gathering took longer than expected.",
+        "信息收集花的时间比预计长。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gathering#English"
+    ]
+  },
+  {
+    "word": "gatherer",
+    "ipa": "英 /ˈɡæðərə/；美 /ˈɡæðərər/",
+    "meaning": "收集者；采集者",
+    "sense": "把果实、材料或信息收拢起来的人，而不是已经聚成的人群本身。",
+    "split": "gather + -er，中古英语有 gaderere、gaderare 等人物名词。er 表做事的人，不是比较级。",
+    "history": [
+      [
+        "古英语 gaderian → 中古英语 gaderen",
+        "聚集、收集，使到一起"
+      ],
+      [
+        "英语 gather",
+        "收集；聚集；据线索理解"
+      ],
+      [
+        "gather + -er → gatherer",
+        "执行采集、收集的人"
+      ]
+    ],
+    "explanation": "a food gatherer 食物采集者，an information gatherer 信息收集者。人类学的采集者概念按生活方式理解，不只说偶尔摘一次果。",
+    "usage": "a food gatherer；an information gatherer；skilled gatherers。",
+    "contrast": "gatherer 人，gathering 活动或一场聚会；a gathering of gatherers 是一群采集者聚到一起。",
+    "examples": [
+      [
+        "The story follows a gatherer searching for food.",
+        "故事跟着一位寻找食物的采集者展开。"
+      ],
+      [
+        "She was the team’s main information gatherer.",
+        "她是团队主要的信息收集者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gatherer#English"
+    ]
+  },
+  {
+    "word": "together",
+    "ipa": "英 /təˈɡeðə/；美 /təˈɡeðər/",
+    "meaning": "一起；共同；合在一处",
+    "sense": "原来分开的几个人、几块东西，现在在同一处、同一时间或同一件事上合起来。",
+    "split": "接古英语 tōgædere、中古英语 togedere 等；旧构词含 to- 与表示一起的词形，同 gather 历史相关。不是今天把 to + get + her 串成“去得到她”。",
+    "history": [
+      [
+        "古英语 tōgædere → 中古英语 togedere",
+        "到一起、合在一起"
+      ],
+      [
+        "英语 together；与 gather 同旧词族",
+        "一起、共同、合拢"
+      ]
+    ],
+    "explanation": "work together 一起工作，put pieces together 拼起来，together with 连同。get yourself together 是振作、整理好自己，不只是物理站到一起。",
+    "usage": "work together；put together；come together；together with。",
+    "contrast": "together 一起，不自动保证同一时刻 every time；alone 单独与 lonely 孤独也不是它同一层面的所有反义。",
+    "examples": [
+      [
+        "We worked together to finish the project.",
+        "我们合作完成了项目。"
+      ],
+      [
+        "Put the two pieces together to see the full picture.",
+        "把两块拼在一起，就能看到完整图案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/together#English"
+    ]
+  }
+]

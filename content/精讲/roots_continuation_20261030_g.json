@@ -1,0 +1,93 @@
+[
+  {
+    "id": "B2932",
+    "meaning": "卡片、证件、记分与比赛名单",
+    "core": "CARD：承载信息的小片，延伸出多种功能",
+    "image": "从 card、carded、cardholder 读卡与人，再看学习、记分、通配；discard 弃牌，undercard 比赛节目。",
+    "intro": "纸片词经法语接希腊拉丁书写材料，与 chart 同族；梳纤维的 card 另源不硬混。",
+    "forms": "card → carded、cardholder；flash/score/wild + card；dis- + card；under- + card；共享 cardboard、postcard。\n\n法语、拉丁纸张词族借入，实体卡与虚拟卡沿凭证功能扩展。\n\ncartridge 经法语、意大利语纸卷名称，较远接 carta；现代 card 不是其直接母词。\n\ndiscard 含把牌丢开的构词关系，非牌类弃用义的英语记录也很早。现代 -s，复数弃牌、弃物或动词第三人称，按词性理解。",
+    "branches": [
+      [
+        "基本卡与持有者",
+        "card · carded · cardholder"
+      ],
+      [
+        "学习、记分与通配",
+        "flashcard · scorecard · wildcard"
+      ],
+      [
+        "弃牌、节目与已有纸制品",
+        "discard · undercard · cardboard · postcard"
+      ],
+      [
+        "card → cards：纸张、卡片与身份、支付工具",
+        "card · cards"
+      ],
+      [
+        "旧纸张材料的不同借词：card 与 cartridge",
+        "card · cartridge · cartridges"
+      ],
+      [
+        "dis- 离开 + card 牌 → discards",
+        "discards"
+      ]
+    ],
+    "contrasts": "cardholder 可人可物；flashcard 不是存储卡；undercard 垫场不同于 underdog 弱势；carded wool 纺织义另源。",
+    "practice": "The cardholder used a flashcard to remember the new word.\n\n持卡人用一张学习卡记住了新词。",
+    "words": [
+      "card",
+      "carded",
+      "cardholder",
+      "flashcard",
+      "scorecard",
+      "wildcard",
+      "discard",
+      "undercard",
+      "cardboard",
+      "postcard",
+      "cards",
+      "cartridge",
+      "cartridges",
+      "discards"
+    ],
+    "exclude": {
+      "card-room": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-card": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "file-card": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "carder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3869",
+    "meaning": "标记、签字与签约人物",
+    "core": "SIGN：以记号确认；SIGNEE 与 COSIGN 各看角色",
+    "image": "基本 sign、signer 已精讲，新增 signee 被签约人物、cosign 共同签字，相关路标词共享归看。",
+    "intro": "经法语接拉丁标记词。-ee 不一定能靠被动受事一条规则解释所有英语词，在 signee 中看签约角色。",
+    "forms": "sign → signer、signee、signage；co- + sign → cosign；sign + post、board。",
+    "branches": [
+      [
+        "基本词与签字、签约角色",
+        "sign · signer · signee · cosign"
+      ],
+      [
+        "已有标识与路标",
+        "signage · signpost · signboard"
+      ]
+    ],
+    "contrasts": "signee 常指被签下的球员、艺人；cosign 不等于 witness；cosine 余弦是另词。",
+    "practice": "The new signee signed the agreement at the club.\n\n新签约球员在俱乐部签了协议。",
+    "words": [
+      "sign",
+      "signer",
+      "signee",
+      "cosign",
+      "signage",
+      "signpost",
+      "signboard"
+    ],
+    "exclude": {
+      "e-sign": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-sign": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "word": "magic",
+    "ipa": "/ˈmædʒɪk/",
+    "meaning": "魔法；魔术；神奇力量、魅力；有魔力的",
+    "sense": "一挥手，帽子里冒出兔子：故事里可能真有法力，舞台上则是让人看不穿的技巧。好音乐带来的神奇感也能叫 magic。",
+    "split": "经法语、拉丁语接希腊语 magikos、magos，较早背景是伊朗地区的祭司等称谓。不能按现代拼写拆成 mag“巨大”加 ic，再编成巨大的力量。",
+    "history": [
+      [
+        "伊朗语背景的称谓 → 希腊语 magos、magikos",
+        "祭司、术士等称谓；相应的术法"
+      ],
+      [
+        "拉丁语 magicus、magica → 法语 magique → 中古英语 magik → magic",
+        "魔法、法术；后来也用于舞台魔术与神奇效果"
+      ]
+    ],
+    "explanation": "do magic 表演魔术，a magic trick 魔术把戏，the magic of music 音乐魅力，a magic wand 魔杖。work your magic 可说施展本领，让事情见效。",
+    "usage": "a magic trick；a magic wand；the magic of；work your magic。",
+    "contrast": "magic 可名词，也可形容与魔法相关的东西；trick 可指手法、把戏。a magic number 往往是具有特别效果的数值，并不一定是迷信数字。",
+    "examples": [
+      [
+        "The children watched him perform a magic trick.",
+        "孩子们看他表演了一个魔术。"
+      ],
+      [
+        "The old theatre has lost none of its magic.",
+        "那座老剧院的魅力丝毫未减。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/magic#English",
+      "https://www.etymonline.com/word/magic"
+    ]
+  },
+  {
+    "word": "magical",
+    "ipa": "/ˈmædʒɪkəl/",
+    "meaning": "有魔法的；神奇、美妙得像有魔法的",
+    "sense": "既可以是能施法的森林，也可以是一次真实而难忘的夜晚。后一种是在说体验像童话般美妙。",
+    "split": "magic + -al，形成形容词。magic 自己也能作形容词，不能理解为加 -al 才第一次获得形容词资格。",
+    "history": [
+      [
+        "伊朗语背景的称谓 → 希腊语 magos、magikos",
+        "祭司、术士等称谓；相应的术法"
+      ],
+      [
+        "拉丁语 magicus、magica → 法语 magique → 中古英语 magik → magic",
+        "魔法、法术；后来也用于舞台魔术与神奇效果"
+      ],
+      [
+        "magic + -al → magical",
+        "魔法的；令人感到神奇美妙的"
+      ]
+    ],
+    "explanation": "magical powers 魔力，a magical evening 美妙夜晚，a magical atmosphere 梦幻气氛。",
+    "usage": "magical powers；a magical moment；a magical atmosphere。",
+    "contrast": "magic trick 是常用搭配；a magical experience 强调神奇体验。二者用法有重叠，不能硬定 magic 全指真的魔法、magical 全指假的。",
+    "examples": [
+      [
+        "In the story, the ring has magical powers.",
+        "故事里，那枚戒指有魔力。"
+      ],
+      [
+        "We spent a magical evening by the lake.",
+        "我们在湖边度过了一个美妙的夜晚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/magical#English"
+    ]
+  },
+  {
+    "word": "magically",
+    "ipa": "/ˈmædʒɪkli/",
+    "meaning": "靠魔法；神奇地、仿佛变魔术般",
+    "sense": "变化发生得太轻巧、太突然，好像有人暗中挥了魔杖；也常用来反驳事情不会自己解决。",
+    "split": "magical + -ly；也可从 magic + -ally 认识这个词形。常用读音中间较紧凑，不把拼写中的每个字母都读成一节。",
+    "history": [
+      [
+        "伊朗语背景的称谓 → 希腊语 magos、magikos",
+        "祭司、术士等称谓；相应的术法"
+      ],
+      [
+        "拉丁语 magicus、magica → 法语 magique → 中古英语 magik → magic",
+        "魔法、法术；后来也用于舞台魔术与神奇效果"
+      ],
+      [
+        "magical + -ly → magically",
+        "用魔法；像变魔术一样地"
+      ]
+    ],
+    "explanation": "magically disappear 神奇地消失，magically transform 仿佛施法般改变；will not magically fix itself 不会凭空自己修好。",
+    "usage": "magically disappear；magically transform；not magically solve。",
+    "contrast": "magically 强调神奇方式或观感，不等于 automatically 自动地；自动完成可以有明确机械过程。",
+    "examples": [
+      [
+        "The rabbit seemed to disappear magically.",
+        "兔子仿佛施了魔法般消失了。"
+      ],
+      [
+        "The problem will not magically solve itself.",
+        "这个问题不会凭空自己解决。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/magically#English"
+    ]
+  },
+  {
+    "word": "magician",
+    "ipa": "/məˈdʒɪʃən/",
+    "meaning": "魔术师；故事中的术士、法师；妙手人物〔比喻〕",
+    "sense": "站在台上让硬币消失的人，今天通常是魔术师；奇幻故事里也可能真有法力。",
+    "split": "历史接法语 magicien 等形式，与 magique 同族；现代可对照 magic 与人物后缀 -ian 认识。词中 c 对应 /ʃ/，重音也移到后面，不读成 magic 原音直接接人。",
+    "history": [
+      [
+        "伊朗语背景的称谓 → 希腊语 magos、magikos",
+        "祭司、术士等称谓；相应的术法"
+      ],
+      [
+        "法语 magicien → 英语 magician",
+        "从事魔术、术法的人；后来也比喻技艺神奇者"
+      ]
+    ],
+    "explanation": "a stage magician 舞台魔术师，a skilled magician 技艺高超的魔术师；a magician in the kitchen 比喻很会做菜。",
+    "usage": "a stage magician；a professional magician；a magician with。",
+    "contrast": "magician 是人，magic 是术法或神奇效果；wizard 在奇幻作品里常是法师，也可比喻高手，具体作品的职业设定不能一概而论。",
+    "examples": [
+      [
+        "The magician asked a volunteer to choose a card.",
+        "魔术师请一位志愿者选一张牌。"
+      ],
+      [
+        "My grandmother was a magician in the kitchen.",
+        "我奶奶在厨房里简直有一双巧手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/magician#English"
+    ]
+  },
+  {
+    "word": "award",
+    "ipa": "英 /əˈwɔːd/；美 /əˈwɔːrd/",
+    "meaning": "奖项；授予、颁发；裁定给予",
+    "sense": "先有人审看、评判，再决定把奖、资格或款项给谁。重点在正式决定给予，不只是随手把东西递过去。",
+    "split": "经盎格鲁法语 awarder 等进入英语，旧意是考虑后裁定。更早与表示看守、观察的 warder 有关；不是现代 a + ward“一个病房”。",
+    "history": [
+      [
+        "盎格鲁法语 awarder、award 等 → 中古英语 awarden、award",
+        "观察、考虑后作判断；作出的决定"
+      ],
+      [
+        "英语 award",
+        "裁定给予 → 颁发、授予；所授的奖项、款项等"
+      ]
+    ],
+    "explanation": "win an award 获奖，award someone a prize 授某人奖，award a contract 授予合同。裁定赔偿也可用 award，不一定是表扬某人的奖。",
+    "usage": "win an award；award a scholarship；award a contract；an award ceremony。",
+    "contrast": "reward 更泛指回报、酬谢，award 常有评选或正式决定。award 与 reward 拼写相近，但不能靠删加一个 r 解释历史。",
+    "examples": [
+      [
+        "Her first novel won a major literary award.",
+        "她的第一部小说获得了一项重要文学奖。"
+      ],
+      [
+        "The committee awarded her a scholarship.",
+        "委员会授予了她一项奖学金。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/award#English",
+      "https://www.etymonline.com/word/award"
+    ]
+  },
+  {
+    "word": "awardee",
+    "ipa": "英 /əwɔːˈdiː/；美 /əwɔːrˈdiː/",
+    "meaning": "获奖者；获授者",
+    "sense": "award 是把某物正式授出去，awardee 是接到它的那一方。-ee 在这里把镜头转向接受者。",
+    "split": "award + -ee，表示被授予奖项、资助等的人或机构；重音常落在后缀。",
+    "history": [
+      [
+        "盎格鲁法语 awarder、award 等 → 中古英语 awarden、award",
+        "观察、考虑后作判断；作出的决定"
+      ],
+      [
+        "英语 award",
+        "裁定给予 → 颁发、授予；所授的奖项、款项等"
+      ],
+      [
+        "award + -ee → awardee",
+        "接受所授奖项、资助等的一方"
+      ]
+    ],
+    "explanation": "an awardee of a prize 某奖获奖者，grant awardees 获得资助者。较正式，日常也常说 winner 或 recipient。",
+    "usage": "an awardee；the awardees；a grant awardee。",
+    "contrast": "awardee 接受者，awarder 授予者；a winner 通常强调赢得比赛、奖，awardee 更强调被授予。",
+    "examples": [
+      [
+        "Each awardee received a certificate at the ceremony.",
+        "每位获奖者都在典礼上拿到一张证书。"
+      ],
+      [
+        "The grant awardees met to discuss their projects.",
+        "获得资助的人聚在一起讨论各自项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awardee#English"
+    ]
+  },
+  {
+    "word": "weather",
+    "ipa": "英 /ˈweðə/；美 /ˈweðər/",
+    "meaning": "天气；风化、受风雨侵蚀；挺过〔困难〕",
+    "sense": "抬头看晴雨、感受冷暖是名词；木头在户外被晒旧是动词；人或公司撑过风波，也能借这幅画面来说。",
+    "split": "古英语 weder 经中古英语延续，后来词中拼写变为 th。现代动词由天气名词发展：暴露在天气中、经受风雨，再延伸到经受危机。远源与吹风的联系有不同分析，本文不作确定定论。",
+    "history": [
+      [
+        "古英语 weder → 中古英语 weder → weather",
+        "天空、大气、风暴等天气状况"
+      ],
+      [
+        "名词 weather 派生动词用法",
+        "受风雨影响而风化；经受风暴 → 挺过困难"
+      ]
+    ],
+    "explanation": "bad weather 坏天气，a weather forecast 天气预报，weather a storm 挺过风暴或风波。weather 通常不可数，谈天气常说 the weather。",
+    "usage": "the weather forecast；bad weather；weather a crisis；weather the storm。",
+    "contrast": "weather 某时某地的天气，climate 较长期的气候特点；weather 与 whether“是否”常同音，不能互换拼写。",
+    "examples": [
+      [
+        "The weather changed quickly in the mountains.",
+        "山里的天气变得很快。"
+      ],
+      [
+        "The small business managed to weather the crisis.",
+        "这家小企业设法挺过了危机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weather#English",
+      "https://www.etymonline.com/word/weather"
+    ]
+  },
+  {
+    "word": "weathering",
+    "ipa": "英 /ˈweðərɪŋ/；美 /ˈweðərɪŋ/",
+    "meaning": "风化；经受、挺过〔weather 的 -ing 形式〕",
+    "sense": "石头留在原地，日晒雨淋让它裂开、变碎或发生化学变化，这个变化过程就是地理课里说的风化。",
+    "split": "weather + -ing。名词可指风化过程；作分词时也可接挺过困难的动词义，不是每处都说石头。",
+    "history": [
+      [
+        "古英语 weder → 中古英语 weder → weather",
+        "天空、大气、风暴等天气状况"
+      ],
+      [
+        "名词 weather 派生动词用法",
+        "受风雨影响而风化；经受风暴 → 挺过困难"
+      ],
+      [
+        "weather + -ing → weathering",
+        "风化过程；正在经受、挺过"
+      ]
+    ],
+    "explanation": "chemical weathering 化学风化，physical weathering 物理风化，weathering a difficult period 正在度过艰难时期。",
+    "usage": "chemical weathering；physical weathering；signs of weathering。",
+    "contrast": "weathering 强调材料在原处的分解、改变；erosion 侵蚀常涉及搬移。动词 weathering a crisis 则是经受危机，依宾语判断。",
+    "examples": [
+      [
+        "The rock shows clear signs of weathering.",
+        "这块岩石呈现明显风化痕迹。"
+      ],
+      [
+        "The company is weathering a difficult period.",
+        "公司正在艰难度过一段困难时期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weathering#English"
+    ]
+  },
+  {
+    "word": "weathered",
+    "ipa": "英 /ˈweðəd/；美 /ˈweðərd/",
+    "meaning": "风化、风吹日晒而旧的；饱经风霜的",
+    "sense": "木栅栏被晒成灰色，人的脸被风雨刻出痕迹，都能表现为 weathered。",
+    "split": "weather + -ed，过去式、过去分词形成的形容词用法。说外表时常是长期暴露的结果；has weathered a crisis 则说已经挺过危机。",
+    "history": [
+      [
+        "古英语 weder → 中古英语 weder → weather",
+        "天空、大气、风暴等天气状况"
+      ],
+      [
+        "名词 weather 派生动词用法",
+        "受风雨影响而风化；经受风暴 → 挺过困难"
+      ],
+      [
+        "weather + -ed → weathered",
+        "受风雨作用而改变的；已经经受过"
+      ]
+    ],
+    "explanation": "weathered wood 风化木材，a weathered face 饱经风霜的脸；a weathered surface 久经风雨的表面。",
+    "usage": "weathered wood；a weathered face；a weathered surface。",
+    "contrast": "weathered 描写经历风雨留下的痕迹，old 只说年龄、年代；新造的仿旧木板也可刻意做出 weathered look。",
+    "examples": [
+      [
+        "The gate was made of weathered wood.",
+        "大门用风吹日晒而变旧的木头制成。"
+      ],
+      [
+        "His weathered face broke into a smile.",
+        "他那饱经风霜的脸露出了笑容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weathered#English"
+    ]
+  },
+  {
+    "word": "weatherman",
+    "ipa": "英 /ˈweðəmæn/；美 /ˈweðərmæn/",
+    "meaning": "男性天气预报员",
+    "sense": "在节目里告诉你明天会不会下雨的人。man 在这里是人物成分，常用于男性预报员。",
+    "split": "weather 天气 + man 人，合成职业称呼。泛指不限定性别的工作者时，weather forecaster 或 weather presenter 更方便。",
+    "history": [
+      [
+        "古英语 weder → 中古英语 weder → weather",
+        "天空、大气、风暴等天气状况"
+      ],
+      [
+        "名词 weather 派生动词用法",
+        "受风雨影响而风化；经受风暴 → 挺过困难"
+      ],
+      [
+        "weather + man → weatherman",
+        "播报、预报天气的男性人员"
+      ]
+    ],
+    "explanation": "the TV weatherman 电视天气预报员，according to the weatherman 据预报员所说；复数 weathermen。",
+    "usage": "the TV weatherman；according to the weatherman；a local weatherman。",
+    "contrast": "weatherman 职业称呼，weather 天气；并非天气好的人。meteorologist 气象学家更侧重专业研究、预测背景，不必都在电视上播报。",
+    "examples": [
+      [
+        "The weatherman says it will rain tomorrow.",
+        "天气预报员说明天会下雨。"
+      ],
+      [
+        "She interviewed the local weatherman about the forecast.",
+        "她采访了当地的男性天气预报员，询问天气预测情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weatherman#English"
+    ]
+  },
+  {
+    "word": "weatherproof",
+    "ipa": "英 /ˈweðəpruːf/；美 /ˈweðərpruːf/",
+    "meaning": "耐风雨的；使能抵御风雨",
+    "sense": "放在室外也有办法挡雨、耐晒，经受天气影响。-proof 强调抵御某种影响。",
+    "split": "weather + -proof，形成形容词，也能转作使耐风雨的动词。具体保护程度仍看产品和环境，词义不保证任何极端条件都无损。",
+    "history": [
+      [
+        "古英语 weder → 中古英语 weder → weather",
+        "天空、大气、风暴等天气状况"
+      ],
+      [
+        "名词 weather 派生动词用法",
+        "受风雨影响而风化；经受风暴 → 挺过困难"
+      ],
+      [
+        "weather + -proof → weatherproof",
+        "能抵御天气影响；使耐风雨"
+      ]
+    ],
+    "explanation": "a weatherproof cover 防风雨罩，weatherproof paint 耐候涂料，weatherproof a shed 给棚屋做耐风雨处理。",
+    "usage": "a weatherproof cover；weatherproof paint；weatherproof the shed。",
+    "contrast": "weatherproof 防天气影响，waterproof 防水，侧重点不同；weatherproof 里的 proof 不表示证明天气存在。",
+    "examples": [
+      [
+        "Put a weatherproof cover over the outdoor furniture.",
+        "给户外家具盖上防风雨罩。"
+      ],
+      [
+        "They weatherproofed the shed before winter.",
+        "他们入冬前给棚屋做了耐风雨处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weatherproof#English"
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "B2485",
+    "meaning": "税、纳税人与应税范围",
+    "core": "TAX：评定税款并征收，也比喻消耗精力",
+    "image": "先学 tax 的税与负担，再接 taxpayer 支付者、taxable 可征税；已有 pretax、taxman 一起看。",
+    "intro": "经法语接拉丁评定、估量词。现代 tax someone’s patience 是使耐心承受重负，并非真的征税。",
+    "forms": "tax + payer → taxpayer；tax + -able → taxable；pre- → pretax；tax + man → taxman。\n\n法语借词接拉丁评定词，现代具体征税与比喻负担按语境解释。\n\ntax 税 + payer 付款者构成 taxpayer，payer 的现代结构是 pay + -er；复数加在整个词末尾。\n\ntaxation 经法语、拉丁 taxatio 评定、估价的名词进入英语，和 tax 对应。现代常说征税行为、税制，不只是某一笔税款。",
+    "branches": [
+      [
+        "核心与缴纳、征收角色",
+        "tax · taxpayer · taxman"
+      ],
+      [
+        "征税属性与计算阶段",
+        "taxable · pretax"
+      ],
+      [
+        "tax → taxes：评定、征收与负担",
+        "tax · taxes"
+      ],
+      [
+        "tax + pay + -er → taxpayer → taxpayers",
+        "taxpayers"
+      ],
+      [
+        "评定、征收 → taxation",
+        "taxation"
+      ]
+    ],
+    "contrasts": "taxable 应税不等于已付税；pretax 税前不等于免税；taxpayer 是缴税方。",
+    "practice": "The taxpayer checked the taxable income on the form.\n\n纳税人核对了表上的应纳税收入。",
+    "words": [
+      "tax",
+      "taxpayer",
+      "taxman",
+      "taxable",
+      "pretax",
+      "taxes",
+      "taxpayers",
+      "taxation"
+    ],
+    "exclude": {
+      "after-tax": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tax-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-tax": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4438",
+    "meaning": "妈妈的日常称呼与继母",
+    "core": "MOM：家庭里的亲近称呼",
+    "image": "mom、mommy 按口吻亲昵程度相邻；stepmom 另外说明继亲关系。",
+    "intro": "mom 是儿童、家庭称呼形式的缩短用法，mommy 再加亲昵称呼后缀。step- 接继亲旧词族，不是走路一步。",
+    "forms": "mom → mommy；step- + mom → stepmom。\n\nmom 常见于美式，moms 为复数；与 mum、mother 有语体和地区习惯差别。",
+    "branches": [
+      [
+        "称呼与亲昵扩展",
+        "mom · mommy"
+      ],
+      [
+        "继亲关系",
+        "stepmom"
+      ],
+      [
+        "mom → moms：家庭口语中的妈妈",
+        "mom · moms"
+      ]
+    ],
+    "contrasts": "mom 多见美式，mum 多见英式；mommy 变语气，stepmom 变关系类型。",
+    "practice": "She calls her stepmom Mom.\n\n她把继母叫作妈妈。",
+    "words": [
+      "mom",
+      "mommy",
+      "stepmom",
+      "moms"
+    ],
+    "exclude": {
+      "mom-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "insta-mom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2470",
+    "meaning": "性质、质量；资格与限定",
+    "core": "QUALITY：是什么样；QUALIFY：条件与范围如何界定",
+    "image": "先从 quality 性质进入，再看 qualify 的资格与限定两分支。qualified、unqualified 用支持和成功的搭配对照。",
+    "intro": "quality 借法语上接拉丁 quālitās；qualify 另经法语接中世纪拉丁性质 + 使的组合。它们是历史词族关系，不能把所有变化都伪装成现代英语临时加后缀。",
+    "forms": "quality → qualitative；qualify → qualification、qualified、qualifier；un- → unqualified；dis- → disqualify。\n\n拉丁 qualis、qualitas 经法语进入，特质可数，整体质量通常不数。\n\nqualification 经法语接拉丁名词，不只现场给 qualify 加 tion。",
+    "branches": [
+      [
+        "性质、质量与定性",
+        "quality · qualitative"
+      ],
+      [
+        "资格、条件与限定",
+        "qualify · qualification · qualified · qualifier"
+      ],
+      [
+        "否定的不同方向",
+        "unqualified · disqualify"
+      ],
+      [
+        "quality → qualities：东西是什么样，有哪些特点",
+        "quality · qualities"
+      ],
+      [
+        "qualify、qualification → qualifications：具备性质、资格",
+        "qualify · qualification · qualifications"
+      ]
+    ],
+    "contrasts": "qualified support 有保留，unqualified support 无保留；qualitative 定性不等于质量好；qualification 可有资格与保留条件义，已有精讲可连读。",
+    "practice": "The qualified coach gave the team unqualified support.\n\n那位有资质的教练给予球队毫无保留的支持。",
+    "words": [
+      "quality",
+      "qualitative",
+      "qualify",
+      "qualification",
+      "qualified",
+      "qualifier",
+      "unqualified",
+      "disqualify",
+      "qualities",
+      "qualifications"
+    ],
+    "exclude": {
+      "potato-quality": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

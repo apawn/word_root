@@ -1,0 +1,531 @@
+[
+  {
+    "word": "check",
+    "ipa": "/tʃek/",
+    "meaning": "检查；核对；制止；勾选记号；支票〔美〕；账单〔美〕",
+    "sense": "最常用时是停一下，看看是否正确；制止某股势头时，则是让它不能继续冲下去。",
+    "split": "英语近源经法语接棋局的将军称呼，远处与波斯语 shāh 国王相关。不同义项经过制约、核验等多条历史分支形成，不能编成先勾选才发明支票的一条简单线。格子图案义还联系 chequer 的缩短。",
+    "history": [
+      [
+        "波斯语 shāh 国王 → 经阿拉伯语、欧洲中介形式到法语 eschec",
+        "棋局中的将军、限制对手"
+      ],
+      [
+        "中古英语 chek → check",
+        "将军、制止；后又形成核查、记号等多种固定用法"
+      ]
+    ],
+    "explanation": "check the address 核对地址，check growth 抑制增长，a check mark 勾选记号；美式 check 可是支票或餐馆账单，对应英式常用 cheque、bill。",
+    "usage": "check that；double check；keep in check；pay by check。",
+    "contrast": "check 核查不保证查出问题；check in 办理入住、登乘等，check out 结账离开、查看等，是另按短语使用的分支。",
+    "examples": [
+      [
+        "Please check that the window is closed.",
+        "请检查窗户是否关好了。"
+      ],
+      [
+        "The gardeners checked the spread of the weeds.",
+        "园丁控制住了杂草蔓延。"
+      ],
+      [
+        "Could we have the check, please?",
+        "请给我们账单，好吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/check#English",
+      "https://www.etymonline.com/word/check"
+    ]
+  },
+  {
+    "word": "checker",
+    "ipa": "英 /ˈtʃekə/；美 /ˈtʃekər/",
+    "meaning": "检查者、检查工具；西洋跳棋棋子；方格",
+    "sense": "检查工具是帮你查错的东西；跳棋棋子、方格则走棋盘的另一条历史，不是小检查员。",
+    "split": "检查者、工具义可拆 check + -er；棋盘、方格及棋子相关义联系中古英语 cheker、法语 escheker 等。远处棋局背景相关，不代表每个 checker 都是英语动词加人物后缀。",
+    "history": [
+      [
+        "波斯语 shāh 国王 → 经阿拉伯语、欧洲中介形式到法语 eschec",
+        "棋局中的将军、限制对手"
+      ],
+      [
+        "中古英语 chek → check",
+        "将军、制止；后又形成核查、记号等多种固定用法"
+      ],
+      [
+        "check + -er；另有 cheker 棋盘形式延续",
+        "检查者、工具；另一分支方格、棋子"
+      ]
+    ],
+    "explanation": "a spelling checker 拼写检查工具；checkers 在美国英语中是西洋跳棋。a checker pattern 也可说方格图案。",
+    "usage": "a grammar checker；a spelling checker；play checkers。",
+    "contrast": "checker 工具或棋子，看语境；checking 是检查动作。checkerboard 棋盘不能直接按查错板理解。",
+    "examples": [
+      [
+        "The grammar checker missed an error in the title.",
+        "语法检查工具漏掉了标题中的一个错误。"
+      ],
+      [
+        "They played checkers after dinner.",
+        "他们晚饭后下西洋跳棋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checker#English"
+    ]
+  },
+  {
+    "word": "recheck",
+    "ipa": "/ˌriːˈtʃek/",
+    "meaning": "再次核查；复查",
+    "sense": "已经看过一遍，还要再看一次，确认没有漏掉或后来发生变化。",
+    "split": "re- 再次 + check 核查；也可作名词，常重读前部。再次检查不保证第一次一定出错。",
+    "history": [
+      [
+        "波斯语 shāh 国王 → 经阿拉伯语、欧洲中介形式到法语 eschec",
+        "棋局中的将军、限制对手"
+      ],
+      [
+        "中古英语 chek → check",
+        "将军、制止；后又形成核查、记号等多种固定用法"
+      ],
+      [
+        "re- + check → recheck",
+        "核查 → 再核查"
+      ]
+    ],
+    "explanation": "recheck the figures 重新核对数字，recheck the booking 复核预订信息；a recheck of the list 对名单的复查。",
+    "usage": "recheck the details；recheck the figures；a final recheck。",
+    "contrast": "recheck 再检查，correct 改正；再次检查后可能什么也不用改。",
+    "examples": [
+      [
+        "Please recheck the delivery address.",
+        "请再次核对收货地址。"
+      ],
+      [
+        "A quick recheck confirmed that the total was correct.",
+        "迅速复核后确认总数正确。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recheck#English"
+    ]
+  },
+  {
+    "word": "checklist",
+    "ipa": "/ˈtʃeklɪst/",
+    "meaning": "核查清单；检查表",
+    "sense": "把不能漏的事项列出来，做完或确认一项，就勾掉一项。",
+    "split": "check 核查 + list 清单。不是随机列一堆名字，而是供逐项确认的清单；电子表也可实现同样作用。",
+    "history": [
+      [
+        "check 核查；list 清单",
+        "并列构词部分"
+      ],
+      [
+        "checklist",
+        "供逐项检查、确认的清单"
+      ]
+    ],
+    "explanation": "a packing checklist 行李核查清单，a safety checklist 安全检查表；work through a checklist 逐项完成检查。",
+    "usage": "a safety checklist；a packing checklist；go through a checklist。",
+    "contrast": "list 是列表上位词，checklist 强调逐项确认；shopping list 通常列购买对象，也可以按核查清单的方式使用。",
+    "examples": [
+      [
+        "Use the checklist to make sure nothing is missing.",
+        "用核查清单确认没有遗漏。"
+      ],
+      [
+        "She made a packing checklist before the trip.",
+        "她旅行前做了行李核查清单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checklist#English"
+    ]
+  },
+  {
+    "word": "checkbox",
+    "ipa": "英 /ˈtʃekbɒks/；美 /ˈtʃekbɑːks/",
+    "meaning": "复选框；可勾选的小方框",
+    "sense": "表单里一个小格子，勾上就表示选了这一项；它不是装支票的盒子。",
+    "split": "check 勾选记号、核验 + box 小方框，形成纸质、电子表单里的控件名称。",
+    "history": [
+      [
+        "check 勾选；box 方框",
+        "并列构词部分"
+      ],
+      [
+        "checkbox",
+        "表示某项是否选中的小方框"
+      ]
+    ],
+    "explanation": "select a checkbox 勾选复选框，clear a checkbox 取消勾选；同一组通常可以多选，也能只有一个同意选项。",
+    "usage": "select a checkbox；clear the checkbox；a checkbox label。",
+    "contrast": "checkbox 复选框和 radio button 单选按钮的典型选择方式不同；具体表单仍要看说明和设计。",
+    "examples": [
+      [
+        "Select the checkbox beside each file you want to move.",
+        "勾选每个要移动的文件旁边的复选框。"
+      ],
+      [
+        "The form has a checkbox for email updates.",
+        "表单有一个接收邮件更新的复选框。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checkbox#English"
+    ]
+  },
+  {
+    "word": "uncheck",
+    "ipa": "/ʌnˈtʃek/",
+    "meaning": "取消勾选",
+    "sense": "原来方框里有勾、这项已经选中，现在把这个选择撤掉。",
+    "split": "un- 撤销动作 + check 勾选；并不是停止所有检查工作的泛用词。",
+    "history": [
+      [
+        "波斯语 shāh 国王 → 经阿拉伯语、欧洲中介形式到法语 eschec",
+        "棋局中的将军、限制对手"
+      ],
+      [
+        "中古英语 chek → check",
+        "将军、制止；后又形成核查、记号等多种固定用法"
+      ],
+      [
+        "check 的勾选义 → uncheck",
+        "勾选 → 取消勾选"
+      ]
+    ],
+    "explanation": "uncheck the box 取消勾选，uncheck an option 撤销某选项；可能需要另外保存，具体看软件。",
+    "usage": "uncheck the box；uncheck an option；uncheck all items。",
+    "contrast": "uncheck 取消勾选，unchecked 作形容词还可能指未经检查、未受控制；不能把每个 unchecked 都理解成界面没打勾。",
+    "examples": [
+      [
+        "Uncheck the box if you do not want email updates.",
+        "如果不想接收邮件更新，请取消勾选。"
+      ],
+      [
+        "She unchecked two items before saving the form.",
+        "她保存表单前取消勾选了两项。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncheck#English"
+    ]
+  },
+  {
+    "word": "checkmark",
+    "ipa": "英 /ˈtʃekmɑːk/；美 /ˈtʃekmɑːrk/",
+    "meaning": "勾选记号；对勾",
+    "sense": "用一个勾表示看过、选了或确认完成，像在清单旁写一个小小的完成信号。",
+    "split": "check 核验、勾选 + mark 记号，也可写 check mark。这里是记号本身，不是装记号的方框。",
+    "history": [
+      [
+        "check 核验、勾选；mark 记号",
+        "并列构词部分"
+      ],
+      [
+        "checkmark",
+        "表示选择、核查或完成的勾记号"
+      ]
+    ],
+    "explanation": "put a checkmark beside an item 在一项旁打勾；英式日常也常用 tick。标记究竟代表正确、完成还是选择，需看表单说明。",
+    "usage": "a checkmark beside；put a checkmark；a green checkmark。",
+    "contrast": "checkmark 是勾的记号，checkbox 是可放勾的小框；框里没有勾，仍然可以是 checkbox。",
+    "examples": [
+      [
+        "Put a checkmark beside each completed task.",
+        "在每项已完成任务旁打勾。"
+      ],
+      [
+        "A green checkmark appeared when the upload finished.",
+        "上传完成时，出现了一个绿色对勾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checkmark#English"
+    ]
+  },
+  {
+    "word": "checksum",
+    "ipa": "/ˈtʃeksʌm/",
+    "meaning": "校验和；校验值",
+    "sense": "根据一段数据算出一个较短的核对值；数据变了，这个值可能跟着变，方便发现传输或存储差错。",
+    "split": "check 核验 + sum 总和，名称联系早期把数据按规则求和的办法；现代校验算法不一定只是普通加法。",
+    "history": [
+      [
+        "check 核验；sum 总和",
+        "并列构词部分"
+      ],
+      [
+        "checksum",
+        "从数据算出的差错核验值"
+      ]
+    ],
+    "explanation": "calculate a checksum 计算校验值，a checksum mismatch 校验值不匹配。两份校验值一样并不能对所有算法都保证文件绝对相同或安全。",
+    "usage": "calculate a checksum；verify a checksum；a checksum mismatch。",
+    "contrast": "checksum 通常用于检测差错，cryptographic hash 加密散列有专门性质；相关工具可能都显示一串值，但不能据此外形断定安全能力相同。",
+    "examples": [
+      [
+        "The download tool reported a checksum mismatch.",
+        "下载工具报告校验值不匹配。"
+      ],
+      [
+        "The program calculates a checksum for each data block.",
+        "程序为每个数据块计算一个校验值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/checksum#English"
+    ]
+  },
+  {
+    "word": "soundcheck",
+    "ipa": "/ˈsaʊndtʃek/",
+    "meaning": "演出前音响检查；试音",
+    "sense": "观众还没正式听演出，先试试麦克风、乐器和扩声音量配合得怎样。",
+    "split": "sound 声音 + check 检查，形成演出准备步骤名称。不是只检查声音这个英文词有没有拼错。",
+    "history": [
+      [
+        "sound 声音；check 检查",
+        "并列构词部分"
+      ],
+      [
+        "soundcheck",
+        "演出前检查音响、声音效果"
+      ]
+    ],
+    "explanation": "do a soundcheck 试音，arrive for soundcheck 来参加演前音响检查；可能包含演奏几段，但目的和正式演出不同。",
+    "usage": "do a soundcheck；during soundcheck；a pre-show soundcheck。",
+    "contrast": "soundcheck 检查、调整声音，rehearsal 排练可包括动作、台词、流程等，二者可能相连但不全相同。",
+    "examples": [
+      [
+        "The band arrived early for soundcheck.",
+        "乐队提前到场试音。"
+      ],
+      [
+        "We tested each microphone during the soundcheck.",
+        "试音时，我们测试了每支麦克风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundcheck#English"
+    ]
+  },
+  {
+    "word": "common",
+    "ipa": "英 /ˈkɒmən/；美 /ˈkɑːmən/",
+    "meaning": "共同的；常见的；普通的",
+    "sense": "有时是大家共用、共有，有时是到处都碰得到，还有时只是普通、不特别。先看它跟什么名词。",
+    "split": "经法语、中古英语接拉丁语 commūnis。历史有共同、公共的背景，再发展常见、普通等用法；不要按现代 con + mon 随意拆。",
+    "history": [
+      [
+        "拉丁语 commūnis → 古法语 comun → 中古英语 comun",
+        "共有的、公共的、普遍的"
+      ],
+      [
+        "英语 common",
+        "共同的；常见的；普通的等固定用法"
+      ]
+    ],
+    "explanation": "a common goal 共同目标，a common mistake 常见错误，common people 普通人；have something in common 有共同点，common sense 常识。某些语气下 common 也会轻蔑说粗俗。",
+    "usage": "a common problem；a common interest；in common；common sense。",
+    "contrast": "common 常见不等于 correct 正确；a common mistake 正是经常发生的错误。共同拥有也不表示普通或廉价。",
+    "examples": [
+      [
+        "We share a common interest in music.",
+        "我们对音乐有共同兴趣。"
+      ],
+      [
+        "This is a common mistake among beginners.",
+        "这是初学者常犯的错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/common#English"
+    ]
+  },
+  {
+    "word": "commonly",
+    "ipa": "英 /ˈkɒmənli/；美 /ˈkɑːmənli/",
+    "meaning": "通常；普遍地；常见地",
+    "sense": "不是只见过一次，而是在不少人、地方或情况里都会这样。",
+    "split": "common + -ly 成副词，现代多取常见、普遍这一分支；不等于每次都说大家共同拥有。",
+    "history": [
+      [
+        "拉丁语 commūnis → 古法语 comun → 中古英语 comun",
+        "共有的、公共的、普遍的"
+      ],
+      [
+        "英语 common",
+        "共同的；常见的；普通的等固定用法"
+      ],
+      [
+        "common + -ly → commonly",
+        "常见、普遍 → 通常、普遍地"
+      ]
+    ],
+    "explanation": "commonly used 常用的，commonly known as 通常被称为，commonly mistaken for 经常被误当作。",
+    "usage": "commonly used；commonly known as；commonly found；commonly mistaken for。",
+    "contrast": "commonly 一般、普遍，并非 always 总是；commonly believed 许多人相信，也不保证这个看法为真。",
+    "examples": [
+      [
+        "This expression is commonly used in conversation.",
+        "这个表达在交谈中很常用。"
+      ],
+      [
+        "The plant is commonly found near rivers.",
+        "这种植物常见于河边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commonly#English"
+    ]
+  },
+  {
+    "word": "uncommon",
+    "ipa": "英 /ʌnˈkɒmən/；美 /ʌnˈkɑːmən/",
+    "meaning": "不常见的；非凡的",
+    "sense": "平常很少碰到，所以显得特别；赞人时也能说超出普通水平。",
+    "split": "un- 不 + common 常见、普通，否定相应性质。not uncommon 又通过双重否定委婉表达并不少见。",
+    "history": [
+      [
+        "拉丁语 commūnis → 古法语 comun → 中古英语 comun",
+        "共有的、公共的、普遍的"
+      ],
+      [
+        "英语 common",
+        "共同的；常见的；普通的等固定用法"
+      ],
+      [
+        "un- + common → uncommon",
+        "常见、普通 → 少见、不寻常"
+      ]
+    ],
+    "explanation": "an uncommon name 少见的名字，uncommon courage 非凡勇气；It is not uncommon 并不少见，不应只看 uncommon 就翻成罕见。",
+    "usage": "an uncommon skill；uncommon courage；not uncommon。",
+    "contrast": "uncommon 少见与 rare 有交叠，但没有统一概率阈值；not uncommon 不一定夸张到无处不在。",
+    "examples": [
+      [
+        "It is uncommon to see snow here in April.",
+        "这里四月下雪并不常见。"
+      ],
+      [
+        "She showed uncommon patience with the new team.",
+        "她对新团队表现出非凡的耐心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncommon#English"
+    ]
+  },
+  {
+    "word": "commoner",
+    "ipa": "英 /ˈkɒmənə/；美 /ˈkɑːmənər/",
+    "meaning": "平民；无贵族等特定身份者",
+    "sense": "在把王室、贵族与一般人分开的社会称谓里，站在普通人这一边的人。",
+    "split": "common + -er 的人物名词，中古英语已有对应形式。不是这里的比较级更常见；common 的比较形式另看语法环境。",
+    "history": [
+      [
+        "拉丁语 commūnis → 古法语 comun → 中古英语 comun",
+        "共有的、公共的、普遍的"
+      ],
+      [
+        "英语 common",
+        "共同的；常见的；普通的等固定用法"
+      ],
+      [
+        "common + 人物后缀 -er → commoner",
+        "普通、一般 → 平民称谓"
+      ]
+    ],
+    "explanation": "a prince and a commoner 王子与平民；历史、王室报道中较常出现。具体身份划分随时代与制度，不自动等于穷人。",
+    "usage": "a commoner by birth；marry a commoner；nobles and commoners。",
+    "contrast": "commoner 平民是身份称谓，common person 普通人范围较宽；富有的人也可能是 commoner。",
+    "examples": [
+      [
+        "The novel tells the story of a commoner who enters the royal court.",
+        "小说讲一个平民进入王廷的故事。"
+      ],
+      [
+        "The museum describes the lives of nobles and commoners.",
+        "博物馆介绍贵族与平民的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commoner#English"
+    ]
+  },
+  {
+    "word": "commonality",
+    "ipa": "英 /ˌkɒməˈnæləti/；美 /ˌkɑːməˈnæləti/",
+    "meaning": "共同点；共通性",
+    "sense": "把不同人、事物放在一起，找出它们身上都有的那一块。",
+    "split": "common + -ality 形成性质名词，现代重点是共同性或共有特点。词中 -ality 是一段后缀形式，不是一个独立的 all。",
+    "history": [
+      [
+        "拉丁语 commūnis → 古法语 comun → 中古英语 comun",
+        "共有的、公共的、普遍的"
+      ],
+      [
+        "英语 common",
+        "共同的；常见的；普通的等固定用法"
+      ],
+      [
+        "common + -ality → commonality",
+        "共同的 → 共通性、共同点"
+      ]
+    ],
+    "explanation": "commonality between two systems 两套系统的共通性，find commonalities 找共同点；复数常指一项项共有特征。",
+    "usage": "find commonality；a commonality between；commonality of experience。",
+    "contrast": "commonality 讲共同之处，frequency 讲发生频率；共同点可以很罕见，并非一定人人都有。",
+    "examples": [
+      [
+        "The discussion revealed a commonality between our experiences.",
+        "讨论揭示了我们经历中的一个共同点。"
+      ],
+      [
+        "The study compares differences and commonalities across the languages.",
+        "研究比较了这些语言之间的差异和共同点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commonality#English"
+    ]
+  },
+  {
+    "word": "commonwealth",
+    "ipa": "英 /ˈkɒmənwelθ/；美 /ˈkɑːmənwelθ/",
+    "meaning": "共同体；国家、联邦等名称用词；英联邦〔专名〕",
+    "sense": "原来的构词画面是大家的共同福祉，由此形成政治共同体的名称；不是全民分现金。",
+    "split": "common 公共、共同 + wealth，后者在这里保留较早的福祉、安好义。历史形成共同体、国家等用法，现代若是专名，必须按对应实体理解。",
+    "history": [
+      [
+        "common 公共、共同；wealth 较早的福祉、安好义",
+        "并列构词部分"
+      ],
+      [
+        "commonwealth",
+        "围绕共同福祉的政治共同体名称"
+      ]
+    ],
+    "explanation": "the Commonwealth 常指英联邦；一些国家、州等名称也用 Commonwealth。名字相同不说明它们都有完全一样的政治或法律地位。",
+    "usage": "the Commonwealth；a political commonwealth；the name Commonwealth。",
+    "contrast": "commonwealth 不只是 common 普通 + wealth 钱财；专名不能一律翻成共和制，也不能凭一个名称推断当前政体。",
+    "examples": [
+      [
+        "The textbook explains the historical meaning of “commonwealth”.",
+        "课本解释了 commonwealth 的历史含义。"
+      ],
+      [
+        "Several places use “Commonwealth” in their official names.",
+        "有些地方在正式名称中使用 Commonwealth。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/commonwealth#English",
+      "https://www.etymonline.com/word/commonwealth"
+    ]
+  }
+]

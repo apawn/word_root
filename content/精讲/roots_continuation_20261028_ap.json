@@ -1,0 +1,152 @@
+[
+  {
+    "id": "B3018",
+    "meaning": "更换、改变",
+    "core": "CHANGE：从原来的，变成或换成另一个",
+    "image": "换衣服、改主意、找回零钱，都能抓到更换前后的差别。",
+    "intro": "change 经法语上接拉丁交换、更换词族。changeable、unchanged、unchangeable 分别说可变、未变、不可变，不要只看到 un 就都译为不变。",
+    "forms": "change → changer；change → changeable → unchangeable；change → changed → unchanged；changelog、changeling 分别说明记录与传说。\n\nchange 去末尾 e，加完整 -ed；/dʒ/ 后的过去词尾读 /d/，整词一个音节。\n\nchanges 的 /dʒ/ 后增加 /ɪz/，与 changed 的 /d/ 变化分开；零钱义通常不可数，不直接照搬复数。\n\n交换、更换的词族发展为改变；去末尾 e 加 ing。",
+    "branches": [
+      [
+        "基本改变和执行者",
+        "change · changer"
+      ],
+      [
+        "能否变化与是否已变",
+        "changeable · unchangeable · unchanged"
+      ],
+      [
+        "记录与传说分支",
+        "changelog · changeling"
+      ],
+      [
+        "change → changed：换了；变了",
+        "change · changed"
+      ],
+      [
+        "change → changes：变化、更换；改变",
+        "change · changes"
+      ],
+      [
+        "change → changing：更换、变动与变化中的",
+        "change · changing"
+      ]
+    ],
+    "contrasts": "unchanged 未变，unchangeable 不能变；change 不一定 improve；log 日志、ling 后缀各有用途。",
+    "practice": "The changelog changed, but the main text remained unchanged.\n\n更新日志改了，正文仍保持原样。",
+    "words": [
+      "change",
+      "changer",
+      "changeable",
+      "unchangeable",
+      "unchanged",
+      "changelog",
+      "changeling",
+      "changed",
+      "changes",
+      "changing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2701",
+    "meaning": "空间、余地；房间",
+    "core": "ROOM：可容纳、可活动的一块空间",
+    "image": "隔墙就成为房间，留给头和腿则是净空；抽象地也能给改进留余地。",
+    "intro": "room 接古英语 rūm 的空间义，再看按用途组合出的各类房间。bathroom、restroom、washroom 常指卫生间，不能只按字面画图。",
+    "forms": "room → roomy、roomful；headroom / legroom 表空间；roommate 表同住者；卧室卫浴、工作仓储、公共活动及餐饮房间各自成组。\n\nroom 继承古英语 rūm 空间、余地，房间义在这条历史中发展；rooms 用于数房间等。\n\nrummage 常解释为法语 arrumage 一路的缩短，较远可能联系 room 的空间词族；另有直接 room 加 -age 的分析，不把路线统一成唯一确定的现代拼造。\n\n与 room 比较空间，不是 room 派生。salon 经法语接意大利 salone 大厅，sala 厅 + 增大材料 -one；大房间再借给社交聚会、展览与美容美发场所。\n\nclassroom 是英语复合词，现代加 -s，/m/ 后读 /z/。重点是上课的空间，class 可以说班级、课程，room 提供房间这一部分。",
+    "branches": [
+      [
+        "空间、数量与同住者",
+        "room · roomy · roomful · headroom · legroom · roommate"
+      ],
+      [
+        "居住及卫生设施",
+        "bedroom · bathroom · restroom · washroom"
+      ],
+      [
+        "活动与采编决策",
+        "ballroom · newsroom · boardroom · darkroom"
+      ],
+      [
+        "存储、收发、衣帽寄存",
+        "storeroom · stockroom · mailroom · cloakroom"
+      ],
+      [
+        "餐饮与日照空间",
+        "lunchroom · tearoom · sunroom"
+      ],
+      [
+        "既有精讲复合词",
+        "classroom · courtroom · showroom · backroom · playroom · homeroom · stateroom · workroom · schoolroom"
+      ],
+      [
+        "room → rooms：空间与一间间房",
+        "room · rooms"
+      ],
+      [
+        "rummage：从船舱货物安排到翻找",
+        "room · rummage · rummages · rummaged · rummaging"
+      ],
+      [
+        "salon：大房间到聚会、美发店",
+        "salon · salons"
+      ],
+      [
+        "class 班级、课程 + room 房间 → classrooms",
+        "classrooms"
+      ]
+    ],
+    "contrasts": "room 房间可数、空间常不可数；roomy 宽敞，roomful 一屋子；ballroom 的 ball 是舞会，boardroom 的 board 是董事会。",
+    "practice": "The room is roomy, but a roomful of visitors leaves little room to move.\n\n房间本来宽敞，可满屋访客挤得几乎没有活动余地。",
+    "words": [
+      "room",
+      "roomy",
+      "roomful",
+      "headroom",
+      "legroom",
+      "roommate",
+      "bedroom",
+      "bathroom",
+      "restroom",
+      "washroom",
+      "ballroom",
+      "newsroom",
+      "boardroom",
+      "darkroom",
+      "storeroom",
+      "stockroom",
+      "mailroom",
+      "cloakroom",
+      "lunchroom",
+      "tearoom",
+      "sunroom",
+      "classroom",
+      "courtroom",
+      "showroom",
+      "backroom",
+      "playroom",
+      "homeroom",
+      "stateroom",
+      "workroom",
+      "schoolroom",
+      "rooms",
+      "rummage",
+      "rummages",
+      "rummaged",
+      "rummaging",
+      "salon",
+      "salons",
+      "classrooms"
+    ],
+    "exclude": {
+      "by-room": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "card-room": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "writ-room": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lightroom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "roomie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "taproom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "barroom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

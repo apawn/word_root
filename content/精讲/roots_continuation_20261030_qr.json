@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A1908",
+    "meaning": "状态、身份、统辖领域；某类人的整体",
+    "core": "DOM：处在怎样一种状态，或属于谁的领域、群体",
+    "image": "kingdom 是国王的领域，freedom 是自由的状态，wisdom 是有见识的智慧，fandom 则像把同好圈在一个圈子里。",
+    "intro": "-dom 来自古英语 dom 判断、法令等原本独立的词，早已形成后缀，扩展出统辖范围、状态、性质等义。现代 doom 常说厄运，但不能把 freedom、wisdom 都译成某种灾难；那是同族材料后来的不同分工。",
+    "forms": "wise／wisdom 是古老组合的对应，元音不能按今天 wise 的读音直接拼；martyr + -dom 显示借来的词也能接本族后缀。duke／dukedom 可说爵位也可说领地；fiefdom 还常比喻私人控制的组织地盘。",
+    "branches": [
+      [
+        "状态与性质",
+        "free · freedom；wise · wisdom；bore · boredom"
+      ],
+      [
+        "身份、领地与统辖",
+        "king · kingdom；duke · dukedom；fief · fiefdom"
+      ],
+      [
+        "经历与人群",
+        "martyr · martyrdom；fan · fandom；star · stardom；official · officialdom"
+      ]
+    ],
+    "contrasts": "wisdom 智慧不只是 knowledge 知识多；fiefdom 比喻常含把组织当私产的批评；dukedom 可说头衔，不总是土地；-dom 与现代 doom 的厄运义不能机械等同。",
+    "practice": "He had the wisdom to give the team freedom instead of treating it as a private fiefdom.\n\n他很明智，给团队自由，没有把团队当成自己的私人地盘。",
+    "words": [
+      "free",
+      "freedom",
+      "wise",
+      "wisdom",
+      "bore",
+      "boredom",
+      "king",
+      "kingdom",
+      "duke",
+      "dukedom",
+      "fief",
+      "fiefdom",
+      "martyr",
+      "martyrdom",
+      "fan",
+      "fandom",
+      "star",
+      "stardom",
+      "superstardom",
+      "official",
+      "officialdom",
+      "doom"
+    ],
+    "exclude": {
+      "has-been-dom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bastard-dom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "femdom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "earldom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

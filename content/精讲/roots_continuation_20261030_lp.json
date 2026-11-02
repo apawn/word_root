@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B3689",
+    "meaning": "橡树名称，扩到木材与相应气息",
+    "core": "OAK：树是 oak，做成桌子仍可说 oak",
+    "image": "oak → oakwood、oaky。",
+    "intro": "先分活树和木料，再看后缀：wood 可以树林或木材，-y 说相应性质、气息。",
+    "forms": "āc、oke → oak；wood 树林、木材，-y 性质。\n\noak 接古英语 ac，并有北欧对应词影响，较远日耳曼语以外的来源不确定。oaks 数多棵树；oak furniture 的单数材料修饰语不因来自多树就加复数。",
+    "branches": [
+      [
+        "树木、林地与材料",
+        "oak · oakwood"
+      ],
+      [
+        "相应性质与气息",
+        "oaky"
+      ],
+      [
+        "oak → oaks：橡树个体与木材用法",
+        "oak · oaks"
+      ]
+    ],
+    "contrasts": "树木与材料数法不同；oakwood 的 wood 有两条常见义；oaky 是风味描述，不是质量保证。",
+    "practice": "The oak table stood beside a window overlooking the oakwood.\n\n橡木桌放在窗边，窗外望出去是一片橡树林。",
+    "words": [
+      "oak",
+      "oakwood",
+      "oaky",
+      "oaks"
+    ],
+    "exclude": {
+      "she-oak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2667",
+    "meaning": "蜂类及其声音、居所、养护活动与路线形象",
+    "core": "BEE：从一只蜂，把家、养蜂人和养蜂活动串起来",
+    "image": "bee → bumblebee、beehive、beeline；beekeeper、beekeeping、beeswax。",
+    "intro": "bee 是动物，hive 是住处，keeper 是养护的人，keeping 是持续活动，wax 是相应蜡质产物。beeline 则借直接回巢的传统印象。",
+    "forms": "bēo、bīo → bee；bumble 嗡鸣，hive 居所，keep 饲养，line 路线，wax 蜡。\n\n昆虫词接古英语 beo、bio；比赛集会 bee 的另源分析分开，不编成蜂群工作定名故事。\n\n雄蜂名承古英语 dran 等；低沉持续声、相关动词可能有独立拟声形成，不能都写成现代雄蜂名逐步派生。无人机命名又是较晚技术用法，词形关联不等于只因嗡嗡声而得名的唯一证明。",
+    "branches": [
+      [
+        "动物与居所",
+        "bee · bumblebee · beehive"
+      ],
+      [
+        "养护的人、活动与产物",
+        "beekeeper · beekeeping · beeswax"
+      ],
+      [
+        "路线形象",
+        "beeline"
+      ],
+      [
+        "bee → bees：蜂类名称的普通复数",
+        "bee · bees"
+      ],
+      [
+        "drone：雄蜂、持续嗡声与无人机",
+        "drone · drones · droned · droning"
+      ]
+    ],
+    "contrasts": "不是所有蜂都群居产蜜；beeline 是直奔的表达；spelling bee 的集会义另有来源分析。",
+    "practice": "The beekeeper studied beekeeping before buying the beehives.\n\n养蜂人在买蜂箱前先学习了养蜂。",
+    "words": [
+      "bee",
+      "bumblebee",
+      "beehive",
+      "beekeeper",
+      "beekeeping",
+      "beeswax",
+      "beeline",
+      "bees",
+      "drone",
+      "drones",
+      "droned",
+      "droning"
+    ],
+    "exclude": {
+      "beeman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4183",
+    "meaning": "操舵控制与护头覆盖，分清同形词的来源",
+    "core": "HELM：一手掌方向，一层护住头",
+    "image": "helm → helmsman；护头 helm → helmet，分别成组。",
+    "intro": "at the helm 的领导画面是掌舵；helmet 的保护画面是护头。两者都容易想象，但不把同形字母当成唯一来源。",
+    "forms": "helma 操舵 → helm、helmsman；护头 helm 词族 → 法语或英语小称 helmet。",
+    "branches": [
+      [
+        "掌舵装置与人物",
+        "helm · helmsman"
+      ],
+      [
+        "护头词族",
+        "helmet"
+      ]
+    ],
+    "contrasts": "helm 与 rudder 不总是相同部件；helmet 的 -et 不规定现代大小；旧 helm 头盔义在部分作品中仍见。",
+    "practice": "The helmsman wore a helmet while steering the fast boat.\n\n操舵者驾驶快艇时戴着头盔。",
+    "words": [
+      "helm",
+      "helmsman",
+      "helmet"
+    ],
+    "exclude": {
+      "helmer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3830",
+    "meaning": "绳圈、系带与线网，扩到花边、交织和相似花纹",
+    "core": "LACE：一根线能系住东西，许多线能织出镂空花纹",
+    "image": "lace → lacy；shoelace、necklace 各有固定物品义。",
+    "intro": "鞋带看系紧，蕾丝看交织花纹，lacy 再把外观带到叶片、霜花等。necklace 的末尾发音已与单独 lace 不同，要按整词记。",
+    "forms": "laqueus → 法语 las、laz → lace；-y 性质去 e；shoe 鞋、neck 颈 + lace 形成复合。\n\n法语借词更远接拉丁 laqueus；绳带可数，花边材料常不可数。\n\n从系带、串饰理解颈部首饰，现代不要求蕾丝材料。",
+    "branches": [
+      [
+        "系带、花边与外观",
+        "lace · lacy"
+      ],
+      [
+        "固定物品名称",
+        "shoelace · necklace"
+      ],
+      [
+        "lace → laces：套索、系带到花边",
+        "lace · laces"
+      ],
+      [
+        "lace 的颈部组合 necklace 及复数",
+        "lace · necklace · necklaces"
+      ]
+    ],
+    "contrasts": "织物与带子数法不同；lace up 是系紧；necklace 不是现代把末尾照 /leɪs/ 生读。",
+    "practice": "Her lacy collar framed a small necklace.\n\n她的蕾丝领衬着一条小项链。",
+    "words": [
+      "lace",
+      "lacy",
+      "shoelace",
+      "necklace",
+      "laces",
+      "necklaces"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "B3077",
+    "meaning": "实心、稳固、可靠与使其成形",
+    "core": "SOLID：有实在支撑、能定住；性质和变化分开",
+    "image": "solid → solidly、solidity；solidify → solidification 再讲变化与过程，保留法语借入史。",
+    "intro": "实心与空心、固体与液体是不同维度。人、证据的扎实是比喻，不拿硬度一项包办所有 solid。",
+    "forms": "拉丁 solidus 经法语 → solid；solid + -ly；soliditās/solidité → solidity；solidifier、solidification → 英语对应形式。\n\nsoldier 经法语接中世纪拉丁 soldarius 领军饷者，较早接 solidus 金币名；与 solid 同族，不来自英语 sold + -ier。\n\n金币、军饷到服役者的历史，和现代士兵、军人相关；soldier on 是继续坚持。\n\nsolder 经法语接拉丁 solidare、solidus，英语拼写后来恢复拉丁式 l；不是从现代 solid 随意删改。\n\n拉丁 con- 加强、合在一起 + solidare 使结实 → consolidare、consolidatus，英语借入后表示合并成整体、使更牢固。consolidated 去 e 加完整 -ed。",
+    "branches": [
+      [
+        "性质与方式",
+        "solid · solidly · solidity"
+      ],
+      [
+        "变稳固与过程",
+        "solidify · solidification"
+      ],
+      [
+        "soldier：坚实金币名称到领军饷者",
+        "solid · soldier"
+      ],
+      [
+        "soldier → soldiers：领军饷的军人与坚持前行",
+        "soldier · soldiers"
+      ],
+      [
+        "solid 的拉丁同族 solder：使成整体的连接",
+        "solid · solder · soldered · soldering"
+      ],
+      [
+        "solid 结实 → consolidate → consolidated",
+        "consolidate · consolidated"
+      ]
+    ],
+    "contrasts": "solidity 性质、solidification 过程；solidify 非只结冰；solid 不一定又硬又处处无孔。",
+    "practice": "The wax solidified into a solid block.\n\n蜡凝固成了一整块固体。",
+    "words": [
+      "solid",
+      "solidly",
+      "solidity",
+      "solidify",
+      "solidification",
+      "soldier",
+      "soldiers",
+      "solder",
+      "soldered",
+      "soldering",
+      "consolidate",
+      "consolidated"
+    ],
+    "exclude": {
+      "half-solid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semi-solid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quasi-solid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4576",
+    "meaning": "内部、受训实习与拘禁的不同分支",
+    "core": "INTERN：都有“里面”的历史，今天却是不同角色和动作",
+    "image": "internal 先看内部；intern 分实习与拘禁，分别接 internship、internment；internist 是内科医生。",
+    "intro": "internship 和 internment 一个是受训工作，一个是限制自由，不能一眼扫过就混。internist 的专科名称也不表示实习。",
+    "forms": "internus → internālis → internal；interne 人物名 → intern；interner → 拘禁动词 intern；intern + -ship/-ment；德语 Internist → internist。",
+    "branches": [
+      [
+        "内部与内科角色",
+        "internal · internist"
+      ],
+      [
+        "实习、拘禁与相应名词",
+        "intern · internship · internment"
+      ]
+    ],
+    "contrasts": "intern 实习名词前重音、拘禁动词后重音；internship/interment/internment 实习、埋葬、拘禁；internal 非 international。",
+    "practice": "The intern learned about the internal work of the museum during her internship.\n\n实习期间，这位实习生了解了博物馆内部的工作。",
+    "words": [
+      "internal",
+      "intern",
+      "internship",
+      "internment",
+      "internist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3789",
+    "meaning": "妈妈昵称与祖辈称呼",
+    "core": "MA：幼儿容易发出的声音，成了熟悉的亲属称呼",
+    "image": "ma 为基础，grandma 接祖辈一层。",
+    "intro": "亲属昵称的相似可与幼儿发声有关，不单凭字母一致就跨所有语言强认同一条借词链。",
+    "forms": "ma、mama 类称呼 → 英语 ma；grand + ma → grandma。",
+    "branches": [
+      [
+        "妈妈和祖辈昵称",
+        "ma · grandma"
+      ]
+    ],
+    "contrasts": "ma 口语、mother 较正式；MA 学位缩写不接这条亲属词源。",
+    "practice": "Ma and Grandma came over for dinner.\n\n妈妈和奶奶来吃晚饭了。",
+    "words": [
+      "ma",
+      "grandma"
+    ],
+    "exclude": {
+      "ma-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

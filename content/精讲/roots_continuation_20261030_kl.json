@@ -1,0 +1,124 @@
+[
+  {
+    "id": "A2220",
+    "meaning": "在某物旁边、某一地带或一侧，形成地点名称",
+    "core": "SIDE：以一个对象为参照，指出旁边或相应地带",
+    "image": "dockside、graveside 与 roadside、bedside 等同样从参照物找位置；countryside 等再记固定范围。",
+    "intro": "side 是能独立使用的词，也常作复合词后部。多数位置直观，已经固定的词仍要看实际用法。",
+    "forms": "side 承古英语 sīde；dock 码头、grave 坟墓、road 路、bed 床等作前部参照物。",
+    "branches": [
+      [
+        "路、码头、场地等旁边",
+        "roadside · dockside · curbside · trackside · ringside · courtside"
+      ],
+      [
+        "生活、悼念与水域位置",
+        "bedside · graveside · lakeside · poolside · oceanside · waterside"
+      ],
+      [
+        "固定地带与地区视角",
+        "countryside · stateside"
+      ]
+    ],
+    "contrasts": "countryside 固定说乡村、乡野，不只是国家某一边；stateside 常从海外视角说在美国、回美国等。",
+    "practice": "We left the roadside and walked toward the dockside warehouses.\n\n我们离开路边，走向码头旁的仓库。",
+    "words": [
+      "roadside",
+      "dockside",
+      "curbside",
+      "trackside",
+      "ringside",
+      "courtside",
+      "bedside",
+      "graveside",
+      "lakeside",
+      "poolside",
+      "oceanside",
+      "waterside",
+      "countryside",
+      "stateside"
+    ],
+    "exclude": {
+      "passenger-side": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "toilet-side": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woodside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "surfside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3979",
+    "meaning": "不愿费力与悠闲缓慢，两类语气要看对象",
+    "core": "LAZY：动作慢、少费力，可以是批评也可以是闲适",
+    "image": "lazy → lazily、laziness；laze 是后来逆构的休息动词。",
+    "intro": "不要只记懒一个字。悠闲下午、缓流、草率思考，分别在说生活节奏、运动速度、投入程度。",
+    "forms": "lazy 远源未定；-ly 副词，-ness 名词，均 y 变 i；逆构动词 laze。\n\nlaze 由较早 lazy 逆构，不能因为形式短就认定动词先有。lazy 更远来历未定，有低地德语等近源分析。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "lazy · lazily · laziness"
+      ],
+      [
+        "悠闲休息的动作",
+        "laze"
+      ],
+      [
+        "laze：懒洋洋地休息",
+        "laze · lazes · lazed · lazing · lazy"
+      ]
+    ],
+    "contrasts": "疲惫不自动等于懒；lazy afternoon 可舒服；laze 的历史顺序晚于 lazy。",
+    "practice": "We lazed by the lake and watched the clouds move lazily.\n\n我们在湖边悠闲休息，看云缓缓移动。",
+    "words": [
+      "lazy",
+      "lazily",
+      "laziness",
+      "laze",
+      "lazes",
+      "lazed",
+      "lazing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4010",
+    "meaning": "从嗡嗡声到群体议论、热度和兴奋状态",
+    "core": "BUZZ：声音像一片嗡鸣，话题也能嗡嗡传开",
+    "image": "buzz → buzzing、buzzer、buzzy；a- + buzz → abuzz；buzzword、buzzkill 看固定组合。",
+    "intro": "声音、话题与情绪三条用法可以相互联想。讨论多不是自动好评，热闹也不是事实核验。",
+    "forms": "拟声 buzz；-ing 声音、状态，-er 器具，-y 性质，a- 处于状态；word 术语，kill 扫兴形象。\n\nbuzz 拟昆虫声音，buzzes 的 -es 在 /z/ 后读 /ɪz/；buzzed 的 -ed 读 /d/，声音、联系人的搭配要分别解释。",
+    "branches": [
+      [
+        "基础与声音、器具",
+        "buzz · buzzing · buzzer"
+      ],
+      [
+        "热度与充满热议",
+        "buzzy · abuzz"
+      ],
+      [
+        "固定组合",
+        "buzzword · buzzkill"
+      ],
+      [
+        "buzz 的嗡鸣、忙碌与电话用法",
+        "buzz · buzzes · buzzed · buzzing"
+      ]
+    ],
+    "contrasts": "buzzy 不等于 busy；abuzz 常作表语；buzz 的热度可有褒贬。",
+    "practice": "The buzzy film set the room abuzz, and everyone was still buzzing afterward.\n\n那部热门电影让满屋人议论起来，结束后大家仍很兴奋。",
+    "words": [
+      "buzz",
+      "buzzing",
+      "buzzer",
+      "buzzy",
+      "abuzz",
+      "buzzword",
+      "buzzkill",
+      "buzzes",
+      "buzzed"
+    ],
+    "exclude": {
+      "buzz-phrase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

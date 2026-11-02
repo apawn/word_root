@@ -1,0 +1,444 @@
+[
+  {
+    "word": "feels",
+    "ipa": "/fiːlz/",
+    "meaning": "感觉到；摸起来、给人某种感觉；feel 的第三人称单数",
+    "sense": "人里面产生感受，或手摸到东西后得到感觉，都可以说 feels。",
+    "split": "feel + -s，/l/ 后词尾读 /z/。feel 继承古英语 fēlan，经中古英语延续；过去式 felt 是另一种变化。",
+    "history": [
+      [
+        "古英语 fēlan → feel",
+        "触觉感知、察觉"
+      ],
+      [
+        "feel + -s → feels",
+        "单数主语感到；事物给人感觉"
+      ]
+    ],
+    "explanation": "feels tired 觉得累；feels soft 摸起来柔软；feels like home 让人有家的感觉；feels like leaving 想离开。",
+    "usage": "feels comfortable；feels good about the result。",
+    "contrast": "The cloth feels soft 说布给人的触感；She feels the cloth 说她用手摸布。表达状态常直接接形容词。",
+    "examples": [
+      [
+        "The blanket feels soft against my skin.",
+        "毯子贴在皮肤上感觉很柔软。"
+      ],
+      [
+        "She feels more confident after a little practice.",
+        "练习了一会儿后，她觉得更有信心了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/feels#English",
+      "https://en.wiktionary.org/wiki/feel#English"
+    ]
+  },
+  {
+    "word": "appears",
+    "ipa": "英 /əˈpɪəz/；美 /əˈpɪrz/",
+    "meaning": "出现；显得、似乎；出场；appear 的第三人称单数",
+    "sense": "原来没看见，现在显出来，是 appears；事情在眼前呈现出某种样子，也能说“似乎、显得”。",
+    "split": "appear + -s，读 /z/。appear 经古法语 aparoir，接拉丁 apparēre，由 ad- 与表示显露的 parēre 组成；现代词中不把 a- 当否定。",
+    "history": [
+      [
+        "拉丁 apparēre → 古法语 aparoir → appear",
+        "显露、出现"
+      ],
+      [
+        "appear + -s → appears",
+        "出现；呈现某种印象"
+      ]
+    ],
+    "explanation": "appears on screen 出现在屏幕上；appears calm 显得镇定；appears to be ready 似乎准备好了。",
+    "usage": "a message appears；it appears that ...。",
+    "contrast": "appears 表示似乎时保留观察者判断的余地。appears in a film 可以说在电影中出演，appears at the door 可以只说出现在门口。",
+    "examples": [
+      [
+        "A warning appears when the battery is low.",
+        "电量低时会出现一条警告。"
+      ],
+      [
+        "The task appears simple until you try it.",
+        "这项任务看起来简单，试过才知道并非如此。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appears#English",
+      "https://en.wiktionary.org/wiki/appear#English"
+    ]
+  },
+  {
+    "word": "plays",
+    "ipa": "/pleɪz/",
+    "meaning": "玩；演奏；扮演；播放；剧作〔复数〕",
+    "sense": "人在游戏、音乐或角色里展开活动，是 plays 的一组动词用法；写出来供人演出的作品，一部部就是 plays。",
+    "split": "play + -s，元音后读 /z/。play 的动词与名词接古英语 plegian、plegan 及 plega 词族，更远来源未完全确定。这里 y 前有元音 a，直接加 s。",
+    "history": [
+      [
+        "古英语游戏、活动词族 → play",
+        "玩、演出；剧作等"
+      ],
+      [
+        "play + -s → plays",
+        "单数主语玩、演奏；多部剧作"
+      ]
+    ],
+    "explanation": "plays tennis 打网球；plays the piano 弹钢琴；plays a role 起作用、扮演角色；writes plays 写剧本。",
+    "usage": "plays with friends；plays an important part。",
+    "contrast": "plays games 常说玩游戏，plays a character 是扮演人物。plays 在 Three plays were performed 中是复数名词，后接复数谓语。",
+    "examples": [
+      [
+        "She plays the piano while her brother sings.",
+        "她弹钢琴，弟弟唱歌。"
+      ],
+      [
+        "The theatre is presenting three short plays this month.",
+        "这家剧院本月将上演三部短剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plays#English",
+      "https://en.wiktionary.org/wiki/play#English"
+    ]
+  },
+  {
+    "word": "runs",
+    "ipa": "/rʌnz/",
+    "meaning": "跑；流动；运行、经营；一段行程、连续活动〔名词复数〕",
+    "sense": "脚步向前跑，水向前流，机器、业务持续运转，都能抓住“持续进行”的画面；一次跑动或一段连续活动也可以数成 runs。",
+    "split": "run + -s，/n/ 后读 /z/。run 继承古英语 rinnan、iernan 等并受相关词形影响；过去式 ran、过去分词 run 要单独记。",
+    "history": [
+      [
+        "古英语及相关日耳曼语奔跑、流动词形 → run",
+        "跑；流动 → 运行、经营等"
+      ],
+      [
+        "run + -s → runs",
+        "单数主语跑、运行；多次跑动或行程"
+      ]
+    ],
+    "explanation": "runs a shop 经营商店；runs smoothly 运转顺畅；runs out of time 时间用尽；daily bus runs 每天的巴士班次。",
+    "usage": "runs along the river；go for short runs。",
+    "contrast": "runs a company 是经营公司；runs for office 是竞选公职。名词 runs 在板球、棒球中还可以说得分，需按运动背景理解。",
+    "examples": [
+      [
+        "She runs a small bookshop near the station.",
+        "她在车站附近经营一家小书店。"
+      ],
+      [
+        "The bus makes four runs between the village and the town each day.",
+        "这辆巴士每天在村子和镇上之间开四个班次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/runs#English",
+      "https://en.wiktionary.org/wiki/run#English"
+    ]
+  },
+  {
+    "word": "becomes",
+    "ipa": "/bɪˈkʌmz/",
+    "meaning": "成为；变得；适合、使显得好看〔较正式〕",
+    "sense": "进入一种新的身份或状态，就是 becomes：孩子长成大人、天气变冷、事情变清楚。",
+    "split": "become + -s，/m/ 后读 /z/。become 继承古英语 becuman，历史有 be- 与 cuman 来的组合，早期有到达、发生、适合等义；后来发展出成为。",
+    "history": [
+      [
+        "古英语 becuman → become",
+        "来到、到达；适合 → 成为"
+      ],
+      [
+        "become + -s → becomes",
+        "单数主语进入新状态"
+      ]
+    ],
+    "explanation": "becomes clear 变得清楚；becomes a teacher 成为老师；becomes available 开始可以获得；That colour becomes her 那颜色很衬她。",
+    "usage": "becomes easier；becomes part of the story。",
+    "contrast": "becomes 后接身份名词或状态形容词，不必再加 be。becomes her 这种用法较正式，意思是使她显得好看；日常更常说 suits her。",
+    "examples": [
+      [
+        "The path becomes narrower beyond the bridge.",
+        "过桥后，路变窄了。"
+      ],
+      [
+        "With practice, the movement becomes natural.",
+        "经过练习，这个动作会变得自然。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/becomes#English",
+      "https://en.wiktionary.org/wiki/become#English"
+    ]
+  },
+  {
+    "word": "starts",
+    "ipa": "英 /stɑːts/；美 /stɑːrts/",
+    "meaning": "开始；启动；起点、开端〔复数〕；突然惊动",
+    "sense": "一件原本没动起来的事开始动了，是 starts；回头数一次次开头，也可说 starts。",
+    "split": "start + -s，/t/ 后读 /s/。start 接古英语 styrtan 的突然跃起、冲出，经中古英语 sterten 延续；从突然一动发展到开始、启动。",
+    "history": [
+      [
+        "古英语 styrtan → 中古英语 sterten → start",
+        "突然跃起、一动 → 开始"
+      ],
+      [
+        "start + -s → starts",
+        "单数主语开始；多次开端"
+      ]
+    ],
+    "explanation": "starts work 开始工作；starts raining 开始下雨；starts the engine 启动引擎；false starts 抢跑，也比喻失败的开头。",
+    "usage": "starts at nine；starts with a question。",
+    "contrast": "start doing 和 start to do 都常表示开始做。starts at 多接时间、起点，starts with 多接第一个内容。名词 a start 可以说一个开头或惊跳一下。",
+    "examples": [
+      [
+        "The film starts at half past seven.",
+        "电影七点半开始。"
+      ],
+      [
+        "After several false starts, we found a method that worked.",
+        "几次尝试开头都不顺之后，我们找到了有效的方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starts#English",
+      "https://en.wiktionary.org/wiki/start#English"
+    ]
+  },
+  {
+    "word": "follows",
+    "ipa": "英 /ˈfɒləʊz/；美 /ˈfɑːloʊz/",
+    "meaning": "跟随；随后发生；遵循；理解；关注",
+    "sense": "沿着别人的脚步走，是 follows；沿着规则走、沿着思路听明白，都是这个画面的扩展。",
+    "split": "follow + -s，元音后读 /z/。follow 继承古英语 folgian，经中古英语 folwen 等形式延续，逐渐广用于抽象的遵循、理解等。",
+    "history": [
+      [
+        "古英语 folgian → 中古英语 folwen → follow",
+        "跟随、追随"
+      ],
+      [
+        "follow + -s → follows",
+        "跟在后；遵循、理解等"
+      ]
+    ],
+    "explanation": "follows the rules 遵守规则；follows the river 沿河延伸；follows the discussion 跟得上讨论；as follows 如下。",
+    "usage": "a pause follows；follows someone online。",
+    "contrast": "as follows 是引出后文的固定表达，如 The steps are as follows。it follows that ... 表示由此可以推出……，不是人的身体在跟随。",
+    "examples": [
+      [
+        "The path follows the river for two kilometres.",
+        "这条小路沿河延伸两公里。"
+      ],
+      [
+        "She follows the instructions one step at a time.",
+        "她一步一步照着说明操作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/follows#English",
+      "https://en.wiktionary.org/wiki/follow#English"
+    ]
+  },
+  {
+    "word": "uses",
+    "ipa": "名词 /ˈjuːsɪz/；动词 /ˈjuːzɪz/",
+    "meaning": "用途、用法〔复数〕；使用、利用〔第三人称单数〕",
+    "sense": "一件东西能派上的各种用场，是名词 uses；某个人把它派上用场，是动词 uses。两者拼写一样，中间的 /s/、/z/ 不同。",
+    "split": "use + -s。名词 use 以 /s/ 结尾，uses 为 /ˈjuːsɪz/；动词 use 以 /z/ 结尾，uses 为 /ˈjuːzɪz/。名词经拉丁 ūsus、古法语 us，动词经古法语 user，属于拉丁 ūtī 的使用词族。",
+    "history": [
+      [
+        "拉丁使用词族 → 法语名词、动词 → use",
+        "使用；用途"
+      ],
+      [
+        "use + -s → uses",
+        "名词：多种用途；动词：单数主语使用"
+      ]
+    ],
+    "explanation": "many uses 多种用途；practical uses 实际用途；uses a computer 使用电脑；uses up the paper 把纸用完。",
+    "usage": "uses less water；find new uses for something。",
+    "contrast": "名词复数的主语配复数谓语：Its uses are varied。动词现在形式：She uses it daily。读音差别来自原词 use 的两种读法，词尾都读 /ɪz/。",
+    "examples": [
+      [
+        "This simple tool has several uses in the kitchen.",
+        "这个简单工具在厨房里有好几种用途。"
+      ],
+      [
+        "She uses the same notebook for all her sketches.",
+        "她把所有草图都画在同一个笔记本上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uses#English",
+      "https://en.wiktionary.org/wiki/use#English"
+    ]
+  },
+  {
+    "word": "actions",
+    "ipa": "/ˈækʃənz/",
+    "meaning": "行动；行为；动作；操作；诉讼〔复数〕",
+    "sense": "把想法真正做成一件件事，这些做出来的事就是 actions；在界面、机械里，也可以说一次次操作或动作。",
+    "split": "action + -s，/n/ 后读 /z/。action 经法语接拉丁 āctiō，与 agere 做、推动及 āct- 同族；现代 act + -ion 能帮助认结构，历史上 action 是整词借入。",
+    "history": [
+      [
+        "拉丁 agere、āctiō → 法语 action／accion → 英语 action",
+        "做事、行动；作用、诉讼等"
+      ],
+      [
+        "action + -s → actions",
+        "一件件行为、动作或操作"
+      ]
+    ],
+    "explanation": "words and actions 言语与行动；corrective actions 纠正措施；user actions 用户操作；legal actions 法律诉讼。",
+    "usage": "take responsibility for your actions；a sequence of actions。",
+    "contrast": "不可数 action 可以说行动这一概念，如 take action；actions 常指分得开的一件件行为或措施。中文的“采取行动”常不必硬译成 take actions。",
+    "examples": [
+      [
+        "His actions made the new students feel welcome.",
+        "他的举动让新同学感到受欢迎。"
+      ],
+      [
+        "The screen shows a list of your recent actions.",
+        "屏幕上显示着你最近的操作列表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/actions#English",
+      "https://en.wiktionary.org/wiki/action#English"
+    ]
+  },
+  {
+    "word": "views",
+    "ipa": "/vjuːz/",
+    "meaning": "景色；看法、观点；观看、查看〔第三人称单数〕；浏览次数",
+    "sense": "眼前看到的景象是 views；一个人从自己的角度看事情，形成的就是看法。网站上一次次被查看，也常计作 views。",
+    "split": "view + -s，元音后读 /z/。view 经古法语 veue 看见的景象，接 veoir 及拉丁 vidēre 看见；英语动词由名词发展。",
+    "history": [
+      [
+        "拉丁 vidēre → 古法语 veoir、veue → 英语 view",
+        "看 → 所见的景象"
+      ],
+      [
+        "view + -s → views",
+        "景象、看法；查看；观看次数"
+      ]
+    ],
+    "explanation": "mountain views 山景；different views 不同看法；page views 页面浏览量；views it as a mistake 将其视为错误。",
+    "usage": "share your views；views from the window。",
+    "contrast": "views on a topic 多说对某话题的看法；views of the sea 多说海景。浏览量的具体计数按平台规则，单看 views 不能推出有多少不同的人。",
+    "examples": [
+      [
+        "The upstairs rooms offer views of the harbour.",
+        "楼上的房间能看到港湾景色。"
+      ],
+      [
+        "She views the project as a chance to learn.",
+        "她把这个项目看作学习的机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/views#English",
+      "https://en.wiktionary.org/wiki/view#English"
+    ]
+  },
+  {
+    "word": "larger",
+    "ipa": "英 /ˈlɑːdʒə/；美 /ˈlɑːrdʒər/",
+    "meaning": "更大的；更大量的；large 的比较级",
+    "sense": "把尺寸、数量或范围拿来比较，其中更大的就是 larger。",
+    "split": "large 去末尾 e，加完整比较级 -er → larger。large 经古法语接拉丁 largus，早有丰富、慷慨等义，后来英语常用于尺寸大、数量多。",
+    "history": [
+      [
+        "拉丁 largus → 古法语 large → 英语 large",
+        "丰富、宽广 → 大"
+      ],
+      [
+        "large 去 e + -er → larger",
+        "在比较中更大、更多"
+      ]
+    ],
+    "explanation": "a larger room 更大的房间；a larger number 更多的数量；on a larger scale 在更大规模上。",
+    "usage": "larger than before；a much larger area。",
+    "contrast": "large 常搭配规模、面积、数量。a larger number of people 表示人数更多；说声音更大通常用 louder，不能只按中文“大”来换词。",
+    "examples": [
+      [
+        "We need a larger table for all these papers.",
+        "我们需要一张更大的桌子来放这些文件。"
+      ],
+      [
+        "The survey now covers a much larger area.",
+        "这次调查现在覆盖的区域大多了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/larger#English",
+      "https://en.wiktionary.org/wiki/large#English"
+    ]
+  },
+  {
+    "word": "largest",
+    "ipa": "英 /ˈlɑːdʒɪst/；美 /ˈlɑːrdʒɪst/",
+    "meaning": "最大的；数量最多的；large 的最高级",
+    "sense": "把同一范围里的对象放在一起比较，尺寸、数量或规模排在最大位置的就是 largest。",
+    "split": "large 去末尾 e，加完整最高级 -est → largest，词尾读 /ɪst/。这是在借入英语的 large 基础上形成的最高级；large 的更早来源是法语 large、拉丁 largus。",
+    "history": [
+      [
+        "拉丁 largus → 法语 large → 英语 large",
+        "丰富、宽广 → 大"
+      ],
+      [
+        "large 去 e + -est → largest",
+        "某个比较范围内最大、最多"
+      ]
+    ],
+    "explanation": "the largest room 最大的房间；the largest share 最大份额；one of the largest groups 最大的群体之一。",
+    "usage": "by far the largest；the largest of the three。",
+    "contrast": "largest 的比较范围要从上下文看。one of the largest 后常接复数名词，表示属于最大的一批；largest 强调大小、规模，oldest 强调年代最早。",
+    "examples": [
+      [
+        "They gave the largest room to the children.",
+        "他们把最大的房间给了孩子们。"
+      ],
+      [
+        "This box is the largest of the three.",
+        "这三个箱子里，这个最大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/largest#English",
+      "https://en.wiktionary.org/wiki/large#English"
+    ]
+  },
+  {
+    "word": "officers",
+    "ipa": "英 /ˈɒfɪsəz/；美 /ˈɑːfɪsərz/",
+    "meaning": "军官；警员；官员；机构中承担正式职务的人〔复数〕",
+    "sense": "在一个组织里承担正式职责、拥有相应职权的人，是 officers；具体是什么身份，要看属于军队、警察还是其他机构。",
+    "split": "officer + -s，英音非卷舌读法词尾接 /z/，美音保留 /r/。officer 经法语 oficier 等接中世纪拉丁 officiārius，背后是 officium 职责、职务；现代能与 office + -er 对应认读。",
+    "history": [
+      [
+        "拉丁 officium → officiārius → 法语人物词 → officer",
+        "职责、职务 → 承担职务的人"
+      ],
+      [
+        "officer + -s → officers",
+        "多名军官、警员或机构负责人等"
+      ]
+    ],
+    "explanation": "police officers 警员；army officers 陆军军官；customs officers 海关官员；company officers 公司中担任正式职务的人。",
+    "usage": "senior officers；elected officers of the club。",
+    "contrast": "军队 officers 通常指军官，soldiers 范围不同；公司 officer 与普通 office worker 也不同，前者强调正式职权、职务。具体头衔按机构制度理解。",
+    "examples": [
+      [
+        "Two police officers were directing traffic near the bridge.",
+        "两名警员正在桥边指挥交通。"
+      ],
+      [
+        "The club elected its new officers at the annual meeting.",
+        "俱乐部在年会上选出了新一届负责人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/officers#English",
+      "https://en.wiktionary.org/wiki/officer#English"
+    ]
+  }
+]

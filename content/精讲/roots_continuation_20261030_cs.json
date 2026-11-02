@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B2456",
+    "meaning": "云到天空；向上、轮廓、活动与高处设施",
+    "core": "SKY：抬头的天空，旧来源其实是云",
+    "image": "sky → skyline、skyward、skyrocket；skydive → skydiver 相邻；skylark 鸟与嬉闹另讲，skylight/skywalk/skyway/skybox 按设施用途。",
+    "intro": "常用 skier 来自 ski 滑雪，不当作 sky 天空直接派生。冷门或专名 skyfall、skylab、skywalker、skydome 本轮略；已有 skylight、skywalk 复用。",
+    "forms": "sky + line/-ward/rocket/dive/lark/light/walk/way/box；skydive + -er；sky—skies。\n\n古诺尔斯云词借入后扩展天空，现代 y 改 i 加 es，读 ai 保留。\n\n常见名词 skylight 指引进自然光的天窗，复数数窗户，不是仅说天空有几束光。",
+    "branches": [
+      [
+        "天空与方向、上升",
+        "sky · skyline · skyward · skyrocket"
+      ],
+      [
+        "空中活动与人物",
+        "skydive · skydiver"
+      ],
+      [
+        "鸟名与嬉闹",
+        "skylark"
+      ],
+      [
+        "采光、高处通道与包厢",
+        "skylight · skywalk · skyway · skybox"
+      ],
+      [
+        "sky → skies：天空与不同地方、时刻的天色",
+        "sky · skies"
+      ],
+      [
+        "sky 的天光进入屋顶天窗",
+        "skylight · skylights"
+      ]
+    ],
+    "contrasts": "sky/ski 元音不同；skier 常用滑雪者另源；skyline/horizon 轮廓与地平视界；skyrocket 无固定增幅；skylark 动词细源不强断。",
+    "practice": "The skydiver looked skyward before boarding the plane.\n\n跳伞者登机前抬头望了望天空。",
+    "words": [
+      "sky",
+      "skyline",
+      "skyward",
+      "skyrocket",
+      "skydive",
+      "skydiver",
+      "skylark",
+      "skylight",
+      "skywalk",
+      "skyway",
+      "skybox",
+      "skies",
+      "skylights"
+    ],
+    "exclude": {
+      "sky-high": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sky-dance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skier": "常用 skier 为 ski 滑雪 + -er；另有极少见 sky + -er 同形，不把常用滑雪者误作天空派生。",
+      "skywalker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skyfall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skylab": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skydome": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2486",
+    "meaning": "苹果；旧较宽的果实名称及食物合成",
+    "core": "APPLE：现代苹果，旧时还能泛叫果实",
+    "image": "apple → applesauce；pineapple 另保留松果到菠萝的历史支线。",
+    "intro": "从古英语苹果、果实的近源讲起，重点看旧果实名怎样被用来称松果，再转指菠萝；不把菠萝误解成松树上的苹果。",
+    "forms": "apple + sauce；pine + apple〔旧果实义〕；apple—apples。\n\n本族果实名称延续，现代常用义已集中到苹果。",
+    "branches": [
+      [
+        "苹果和制品",
+        "apple · applesauce"
+      ],
+      [
+        "旧果实名的迁移",
+        "pineapple"
+      ],
+      [
+        "apple → apples：苹果与复数",
+        "apple · apples"
+      ]
+    ],
+    "contrasts": "apple/app 异源；pineapple 非苹果品种、现代 pinecone 才通常松果；applesauce 果泥不一律等同果酱。",
+    "practice": "The fruit salad contained apple and pineapple.\n\n水果沙拉里有苹果和菠萝。",
+    "words": [
+      "apple",
+      "applesauce",
+      "pineapple",
+      "apples"
+    ],
+    "exclude": {
+      "eye-apple": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "apple-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "apple-berry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "apple-mush": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "apple-knocker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "applejack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

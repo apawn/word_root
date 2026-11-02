@@ -1,0 +1,173 @@
+[
+  {
+    "id": "B2504",
+    "meaning": "工作；做成；运作",
+    "core": "WORK：投入劳动，使事情做成或运转",
+    "image": "人的任务、机器的运行、办法的效果，都看有没有实际做起来。",
+    "intro": "work 接古英语 weorc、wyrcan 一系，不仅是上班：机器能用、办法奏效也叫 work。合成词前后两部分会说明工作对象、方式、成果或场所；work 在不同词里不必一律翻译成“工作”。",
+    "forms": "work 本身谈劳动多不可数，a work of art 和 masterwork 的作品义可数。network 的 work 偏结构，paperwork 偏事务，workload 是任务量，workflow 是流转过程。bulwark 从荷兰语、低地德语借入，不能拆成 bull + work。workaholic 的 -aholic 是由 alcoholic 类推的较新材料。\n\nworks 可说多件作品，也形成工厂、公共设施及 in the works 等固定用法；另可作 work 的第三人称动词形式。\n\nworked 的 -ed 读 /t/；work 的过去式不只说工作，也常说办法奏效、设备可用。\n\nworker 是 work 加 -er 的人物名词，workers 为复数，范围不限于工厂岗位。\n\nwork 加 shop，复数可数场所或场次。\n\nwork 在这里说明使用目的，不能按忙碌程度理解 top。\n\nwork 给用途，bench 给台架；ch 后复数增加 iz。\n\n纸上练习与电子工作表分别按场景读。\n\n练习书册与电子表格工作簿是不同场景里的用途扩展。\n\nfretwork 接装饰纹样的 fret 加 work，不是焦虑动词加工作，也不是吉他品的同一来源；work 命名工艺及做成的制品。\n\n本组与 work 比较用力程度，不是现代 work 的后代。slog 较早是重击，可能为 slug 击打材料的变体，后来有苦干、吃力步行义。\n\nwork + out 的动词短语与名词化组成 workout，常见意义是一场锻炼，早期记录联系拳击训练。不能把 work out 的算出、顺利发展等所有意思都搬给闭合名词 workout。",
+    "branches": [
+      [
+        "工作与能力",
+        "work · working · worker · workable · workability"
+      ],
+      [
+        "组织与流程",
+        "network · framework · workforce · teamwork · workflow · workload"
+      ],
+      [
+        "学校与文书",
+        "homework · schoolwork · coursework · classwork · paperwork · worksheet · workbook"
+      ],
+      [
+        "准备与应变",
+        "groundwork · legwork · guesswork · workaround · rework"
+      ],
+      [
+        "现场、场所与用具",
+        "workplace · workspace · workstation · workshop · workroom · workbench · worktop"
+      ],
+      [
+        "负荷与投入",
+        "workhorse · workaholic · overwork · workweek"
+      ],
+      [
+        "制作成果与系统",
+        "woodwork · handiwork · bodywork · pipework · ductwork · brushwork"
+      ],
+      [
+        "works：作品、工厂与进行中的项目",
+        "work · works"
+      ],
+      [
+        "work → worked：工作过；起作用了",
+        "work · worked"
+      ],
+      [
+        "work → worker → workers：工作与劳动者",
+        "work · worker · workers"
+      ],
+      [
+        "workshop → workshops：做东西的地方到实践活动",
+        "workshop · workshops"
+      ],
+      [
+        "worktop → worktops：操作用平面",
+        "work · worktop · worktops"
+      ],
+      [
+        "workbench → workbenches：加工操作台",
+        "work · workbench · workbenches"
+      ],
+      [
+        "worksheet → worksheets：工作、练习用表页",
+        "worksheet · worksheets"
+      ],
+      [
+        "workbook → workbooks：练习册、工作簿",
+        "workbook · workbooks"
+      ],
+      [
+        "fretwork：交织纹样、镂空雕饰工艺",
+        "work · fretwork"
+      ],
+      [
+        "slog：咬着牙苦干、苦走",
+        "slog · slogs · slogged · slogging"
+      ],
+      [
+        "workout → workouts：一场锻炼",
+        "workout · workouts"
+      ]
+    ],
+    "contrasts": "work／job：工作活动／具体职位或任务；workload／workflow：任务多少／如何流转；homework／housework：作业／家务；workhorse／workaholic：可靠主力／难以停止工作的人。",
+    "practice": "Good teamwork reduced the workload, and a clearer workflow made the plan workable.\n\n良好的配合减轻了工作量，更清楚的流程也让计划能真正执行。",
+    "words": [
+      "work",
+      "working",
+      "worker",
+      "workable",
+      "workability",
+      "network",
+      "framework",
+      "workshop",
+      "homework",
+      "schoolwork",
+      "workplace",
+      "workspace",
+      "workstation",
+      "coursework",
+      "classwork",
+      "workday",
+      "workforce",
+      "teamwork",
+      "paperwork",
+      "workload",
+      "workflow",
+      "groundwork",
+      "footwork",
+      "patchwork",
+      "housework",
+      "fieldwork",
+      "firework",
+      "workman",
+      "worksheet",
+      "rework",
+      "workbook",
+      "workhouse",
+      "bodywork",
+      "bulwark",
+      "handiwork",
+      "guesswork",
+      "workhorse",
+      "workaround",
+      "workaholic",
+      "overwork",
+      "workpiece",
+      "workbench",
+      "workweek",
+      "legwork",
+      "masterwork",
+      "workroom",
+      "workwear",
+      "worksite",
+      "earthwork",
+      "workgroup",
+      "pipework",
+      "brushwork",
+      "ductwork",
+      "roadwork",
+      "worktop",
+      "telework",
+      "paintwork",
+      "formwork",
+      "woodwork",
+      "works",
+      "worked",
+      "workers",
+      "workshops",
+      "worktops",
+      "workbenches",
+      "worksheets",
+      "workbooks",
+      "fretwork",
+      "slog",
+      "slogs",
+      "slogged",
+      "slogging",
+      "workout",
+      "workouts"
+    ],
+    "exclude": {
+      "make-work": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stop-work": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "work-tool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "work-intensive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "casework": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "millwork": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beadwork": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "handwork": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "workrate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

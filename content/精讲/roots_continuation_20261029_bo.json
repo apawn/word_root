@@ -1,0 +1,150 @@
+[
+  {
+    "id": "B2496",
+    "meaning": "食物；食品；供餐及传播途径",
+    "core": "FOOD：供身体吃，也可给思想提供材料",
+    "image": "食物是核心；爱研究它的人是 foodie，提供餐食的行业是 foodservice。",
+    "intro": "food 接古英语 fōda。复合词里先确定它与另一部分的关系：sea 说食品类别，service 说服务，borne 说传播途径。",
+    "forms": "food → foodie；seafood、superfood 是食品类别名称；foodservice 是行业，foodborne 是经食物传播的。\n\nfoster 承接古英语 fostor 营养、养育等，与 food、feed 的更早喂养材料同族；养育、培养感情能力等现代用法各举例。\n\n通常不可数的 food 在区分种类、食品品项时可用 foods。\n\nfeed 接古英语 fedan，与 food 旧同族；持续供给也延伸到机器和内容。\n\n古英语 fedan，与 food 旧同族，现代加 s。\n\nfoster 承古英语营养、养育词族，现代加完整 -ed，/r/ 等后读 /d/。养育孩子与促进兴趣、关系都可。",
+    "branches": [
+      [
+        "基本词与美食爱好者",
+        "food · foodie"
+      ],
+      [
+        "食品类别与服务",
+        "seafood · superfood · foodservice"
+      ],
+      [
+        "作为传播载体",
+        "foodborne"
+      ],
+      [
+        "foster：供食、养育到培养发展",
+        "food · feed · foster"
+      ],
+      [
+        "food → foods：食物总体与食物种类",
+        "food · foods"
+      ],
+      [
+        "feed → feeding：把所需的食物、材料送进去",
+        "feed · feeding · food"
+      ],
+      [
+        "feed → feeds：喂养、供应和信息流",
+        "feed · feeds"
+      ],
+      [
+        "foster 养育、促长 → fostered",
+        "fostered"
+      ]
+    ],
+    "contrasts": "food 与 meal 不同；foodservice 不只外卖；foodborne 中 borne 是承载，不是出生。",
+    "practice": "The foodie chose a seafood restaurant for our evening meal.\n\n这位美食爱好者为我们的晚餐选了一家海鲜餐厅。",
+    "words": [
+      "food",
+      "foodie",
+      "seafood",
+      "superfood",
+      "foodservice",
+      "foodborne",
+      "feed",
+      "foster",
+      "foods",
+      "feeding",
+      "feeds",
+      "fostered"
+    ],
+    "exclude": {
+      "food-to-go": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-food": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "food-grade": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "agri-food": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3915",
+    "meaning": "水平；程度、等级；拉平",
+    "core": "LEVEL：用一条水平线看高低",
+    "image": "水准器帮人看是否平；把同样的高低画面借给技能、数量和社会差距，就有多种抽象用法。",
+    "intro": "从拉丁语 libra 天平到指小形式 libella 水准器，经古法语 livel 进入英语。现代不要硬拆 le + vel。",
+    "forms": "level → leveller；multi- + level → multilevel。\n\nlevel 经法语接拉丁 libella 小天平、水准器，现代多种高低程度沿这一测平画面理解。",
+    "branches": [
+      [
+        "水平、程度与使平整",
+        "level"
+      ],
+      [
+        "拉平差距与多个层级",
+        "leveller · multilevel"
+      ],
+      [
+        "level → levels：水平、层级；使平整",
+        "level · levels"
+      ]
+    ],
+    "contrasts": "flat 表面平整，level 不倾斜或同高；leveller 可比喻缩小差距的因素。",
+    "practice": "The shelf is level, but the two shelves are at different levels.\n\n架子是水平的，但两个架子处在不同高度。",
+    "words": [
+      "level",
+      "leveller",
+      "multilevel",
+      "levels"
+    ],
+    "exclude": {
+      "high-level": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-level": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-level": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "max-level": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "level-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "level-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3416",
+    "meaning": "历史；记录与研究过去",
+    "core": "HISTORY：探究过去，形成记述",
+    "image": "历史既是过去发生的事，也可以是人们对这些事的研究、解释和记录。",
+    "intro": "希腊语 historía 有探究、探究所得记述义，经拉丁语和法语进入英语。history 与 story 同源，但不是 his + story。",
+    "forms": "history → historian；historic、historical 并排比较，再接 historically；prehistory、prehistoric 看文字记载之前的时期。\n\nhistory 远接希腊调查、知晓的词族；historian 有拉丁、法语相应人名材料，可按 history 与 -ian 对应学习。现代复数用于研究、撰写历史的人。\n\nhistory 经法语、拉丁接希腊 historia 调查所得知识、记述，现代 y 变 i 加 -es。复数可数不同历史记述、个人经历记录。",
+    "branches": [
+      [
+        "过去与研究者",
+        "history · historian"
+      ],
+      [
+        "重要性、关联与历史角度",
+        "historic · historical · historically"
+      ],
+      [
+        "文字记载前的时期",
+        "prehistory · prehistoric"
+      ],
+      [
+        "history → historian → historians",
+        "historians"
+      ],
+      [
+        "history 调查、过去记述 → histories",
+        "histories"
+      ]
+    ],
+    "contrasts": "historic 重要到值得历史记住，historical 与过去或历史研究有关；history 不是 his story 的历史拼接。",
+    "practice": "The historian checked historical records before describing the historic event.\n\n历史研究者先查阅历史记录，再描述那件具有历史意义的事件。",
+    "words": [
+      "history",
+      "historian",
+      "historic",
+      "historical",
+      "historically",
+      "prehistory",
+      "prehistoric",
+      "historians",
+      "histories"
+    ],
+    "exclude": {
+      "mis-history": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

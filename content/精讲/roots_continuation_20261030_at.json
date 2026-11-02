@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B3767",
+    "meaning": "整块、街区和阻挡；堵塞、疏通、封锁及固定比喻",
+    "core": "BLOCK：一整块；挡在路上就形成阻碍",
+    "image": "block → blockage、blocker、unblock、blocky；blockade 组织封锁，blockbuster 保留真实炸弹来源，blockchain 数据链；共有 roadblock、sunblock、woodblock。",
+    "intro": "别把所有复杂词拆完就死译：blockbuster 的商业成功义有历史转用，blockchain 的 block 是数据区块。",
+    "forms": "block + -age/-er/-y/-ade；un- + block；block + buster/chain/head；road/sun/wood + block。\n\n木块词经法语借入，实体块状和挡住的用途各自展开。\n\n块状物名词发展出阻挡动词，实体和信息通路都可用。\n\n法语 bloc 的日耳曼木块背景，现代动词由名词等发展，不把所有阻挡都当真木块。",
+    "branches": [
+      [
+        "基本形状、阻挡和解除",
+        "block · blockage · blocker · unblock · blocky"
+      ],
+      [
+        "组织阻挡",
+        "blockade · roadblock · sunblock"
+      ],
+      [
+        "固定发展与组合",
+        "blockbuster · blockchain · blockhead · woodblock"
+      ],
+      [
+        "block → blocks：块状物、街区与阻挡",
+        "block · blocks"
+      ],
+      [
+        "block → blocked：挡住、通不过",
+        "block · blocked"
+      ],
+      [
+        "block → blocking：让通路不能继续",
+        "block · blocked · blocking"
+      ]
+    ],
+    "contrasts": "block/bloc 区分常用拼写；blockage 堵塞、blockade 封锁；blockbuster 卖座不保证艺术杰作；blockchain 不等于货币。",
+    "practice": "A fallen block caused a blockage, and workers returned to unblock the road.\n\n一块掉落的材料造成堵塞，工人回来疏通道路。",
+    "words": [
+      "block",
+      "blockage",
+      "blocker",
+      "unblock",
+      "blocky",
+      "blockade",
+      "roadblock",
+      "sunblock",
+      "blockbuster",
+      "blockchain",
+      "blockhead",
+      "woodblock",
+      "blocks",
+      "blocked",
+      "blocking"
+    ],
+    "exclude": {
+      "block-book": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "breeze-block": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "geo-block": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "adblock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blockhouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3210",
+    "meaning": "主动四处查找；查的范围与寻找目标分清",
+    "core": "SEARCH：主动翻查，寻找未知或藏着的东西",
+    "image": "search → searcher → searchable；searchlight 既有精讲共享；重点掌握 search a place for something。",
+    "intro": "来源的绕行、走查可帮助想象主动寻找；今天网络查询不需要真的绕圈。",
+    "forms": "search + -er/-able；search + light；search 范围 + for 目标。\n\nsearch 经法语接晚期拉丁 circāre 绕行、走查，与 circus 圆词族相连；现代搜索不受字面行走限制。",
+    "branches": [
+      [
+        "动作、人和可检索性",
+        "search · searcher · searchable"
+      ],
+      [
+        "寻找的工具",
+        "searchlight"
+      ],
+      [
+        "search → searches／searched／searching：四处找、搜索",
+        "search · searches · searched · searching"
+      ]
+    ],
+    "contrasts": "search the bag 搜包，search for the bag 找包；searchable 可检索不自动说明公开权限。",
+    "practice": "The searcher used a searchable archive to search for an old photograph.\n\n查找者用可检索档案寻找一张旧照片。",
+    "words": [
+      "search",
+      "searcher",
+      "searchable",
+      "searchlight",
+      "searches",
+      "searched",
+      "searching"
+    ],
+    "exclude": {
+      "re-search": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "search-fu": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "B2474",
+    "meaning": "用于对抗的器物，再借作攻击手段",
+    "core": "WEAPON：功能是对付、保护或攻击",
+    "image": "weapon → weaponry 集合；weaponize 转成对抗工具，可以是实物也可以是信息。",
+    "intro": "后缀各做一件事：-ry 把多件合说，-ize 把用途转成武器。比喻秘密武器也可只是特别有效的优势。",
+    "forms": "wǣpn → weapon；weapon + -ry/-ize → weaponry、weaponize。\n\n古英语武器词延续，现代可有比喻手段义。",
+    "branches": [
+      [
+        "对抗器物与集合",
+        "weapon · weaponry"
+      ],
+      [
+        "把事物用作武器",
+        "weaponize"
+      ],
+      [
+        "weapon → weapons：武器与有力手段",
+        "weapon · weapons"
+      ]
+    ],
+    "contrasts": "weapons/weaponry 可数集合；weapon/tool 对抗功能与通用工具；weaponize/use 攻击用途与广义使用。",
+    "practice": "The article discusses weaponry and the metaphor of weaponizing information.\n\n文章讨论了武器装备，以及把信息当武器的比喻。",
+    "words": [
+      "weapon",
+      "weaponry",
+      "weaponize",
+      "weapons"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4175",
+    "meaning": "把眼光移到两个之中的后者，或时间后段",
+    "core": "LATTER：后一方；LATTERLY：后来一段时间",
+    "image": "latter → latterly，词尾让形容后面的材料转作时间方式。",
+    "intro": "the latter 说两者中的后者；latterly 则不能当名词来指人、方案。latter 也可在时间、阶段中说后一部分。",
+    "forms": "late 的旧比较词族 → latter；latter + -ly → latterly。",
+    "branches": [
+      [
+        "后一方与后期时间",
+        "latter · latterly"
+      ]
+    ],
+    "contrasts": "the latter/latterly 后者与后来；later/latter 时间较晚与后一方，具体结构分别记。",
+    "practice": "He taught at two schools and latterly worked at the latter.\n\n他先后在两所学校任教，后期在后一所工作。",
+    "words": [
+      "latter",
+      "latterly"
+    ],
+    "exclude": {
+      "latter-day": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2779",
+    "meaning": "没被牢牢拴紧，从物理松到关系松",
+    "core": "LOOSE：松；LOOSEN：让它松",
+    "image": "loose → loosely、loosen、looseness；looser 常见比较级；footloose 接自由行动。",
+    "intro": "重点一起读 loose /s/ 与 lose /z/，再对照 looser/loser。末尾变化分别解释，不把几个词都糊成丢了、松了。",
+    "forms": "lauss → loose；loose + -ly/-en/-ness；loose + -er → looser 更松；foot + loose → footloose。\n\nloose 加 en 对应使成动词；词干 s 保留清音，变化尾的读音另看。",
+    "branches": [
+      [
+        "状态、方式与改变",
+        "loose · loosely · loosen"
+      ],
+      [
+        "状态名词与自由组合",
+        "looseness · footloose"
+      ],
+      [
+        "loosen 的三种形式：变松、放宽",
+        "loose · loosen · loosens · loosened · loosening"
+      ]
+    ],
+    "contrasts": "loose/lose 松与丢；looser/loser 更松与失败者；loosen/remove 松一点与拆下。",
+    "practice": "Loosen the knot so the rope hangs loosely.\n\n把绳结松开一点，让绳子松松地垂着。",
+    "words": [
+      "loose",
+      "loosely",
+      "loosen",
+      "looseness",
+      "footloose",
+      "loosens",
+      "loosened",
+      "loosening"
+    ],
+    "exclude": {
+      "loose-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loose-toothed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "looser": "普通比较级及与 loser 的读音区别已解释；独立“释放者”名词较冷门，暂不单列。",
+      "loose-tongued": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3967",
+    "meaning": "一片材料，再借名单材料指一组人",
+    "core": "PANEL：板块一支，小组一支",
+    "image": "panel → panelist/panellist 接人物；paneled/panelled 接镶板材料；同义拼写集中解释。",
+    "intro": "一词两条清楚历史桥：小布片到表面板块，列名材料到名单上的人组。别用“所有都是一块”含糊抹平。",
+    "forms": "pannus → *pannellus → panel；列名材料 → 陪审团、专家组；panel + -ist/-ed。\n\n法语小布片名称扩展为表面板块，名单材料又关联人员小组。\n\npane 经法语 pan 并有直接拉丁借入分析；panel 接 pannus 的小称一支。二者不是现代 pane 加 l，词义从一片表面扩展。",
+    "branches": [
+      [
+        "面板、人员组与动作",
+        "panel"
+      ],
+      [
+        "小组成员与镶板性质",
+        "panelist · paneled"
+      ],
+      [
+        "panel → panels：一片板块、一组人员",
+        "panel · panels"
+      ],
+      [
+        "pane 与 panel：同一布片材料的不同借词",
+        "pane · panes · panel"
+      ]
+    ],
+    "contrasts": "panelist/paneled 人组成员与镶板；panellist、panelled 是相应拼写变体，正文集中学。",
+    "practice": "The panelists discussed the plan in a paneled room.\n\n小组嘉宾在一间镶板房间里讨论了方案。",
+    "words": [
+      "panel",
+      "panelist",
+      "paneled",
+      "panels",
+      "pane",
+      "panes"
+    ],
+    "exclude": {
+      "panelled": "paneled 的常见英式拼写，拆分、音标与用法已在同一词条集中解释。",
+      "panellist": "panelist 的常见英式拼写，拆分、音标与用法已在同一词条集中解释。"
+    }
+  },
+  {
+    "id": "B4383",
+    "meaning": "柜台的计算线与反对的另一条线",
+    "core": "COUNTER：算账台面；COUNTER：对着反驳，分别记",
+    "image": "counter 的台面、计数器接计算词族；countertop 取台面。反驳、反制则接 contra 对着的另源路径。",
+    "intro": "同样的拼写已在基础词分清来源，组合时继续选对：countertop 不是反对山顶，counter an argument 也不是给论点数数。",
+    "forms": "computare 等 → 法语柜台、计数形式 → counter；counter + top → countertop；contra、contre 等另线 → counter 反制。\n\nencounter 经法语接晚期拉丁 incontra 在面前，含 in 与 contra 相对；与表示对抗的 counter 有历史联系，不接计数、柜台的另一来源。\n\n法语相遇词接晚期拉丁 incontra 在面前、相对的材料。\n\n法语相遇材料接拉丁 incontra 在面前，现代过去尾 d。\n\ncounter 此处为台面家具名，不是反对前缀。",
+    "branches": [
+      [
+        "多源基础与台面组合",
+        "counter · countertop"
+      ],
+      [
+        "encounter：从迎面相对到遇上",
+        "counter · encounter"
+      ],
+      [
+        "encounter → encounters：迎面遇上人或问题",
+        "encounter · encounters"
+      ],
+      [
+        "encounter → encountered：迎面遇到，遭遇问题",
+        "encounter · encountered"
+      ],
+      [
+        "countertop → countertops：柜台、操作台顶面",
+        "counter · countertop · countertops"
+      ]
+    ],
+    "contrasts": "counter 计数、台面与反对分来源；countertop 取柜台表面，不接反对前缀义。",
+    "practice": "She set the counter on the countertop to count the samples.\n\n她把计数器放在台面上，用来数样本。",
+    "words": [
+      "counter",
+      "countertop",
+      "encounter",
+      "encounters",
+      "encountered",
+      "countertops"
+    ],
+    "exclude": {
+      "cross-counter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

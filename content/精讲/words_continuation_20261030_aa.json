@@ -1,0 +1,209 @@
+[
+  {
+    "word": "fanart",
+    "ipa": "英 /ˈfænɑːt/；美 /ˈfænɑːrt/",
+    "meaning": "粉丝创作；同人美术作品",
+    "sense": "喜欢某个角色或作品的人，用自己的画法重新画出来、设计出来，创作热情来自喜爱。",
+    "split": "fan 粉丝、爱好者 + art 美术创作；fan 在这里是爱好者，不是扇子。也常分写 fan art。",
+    "history": [
+      [
+        "fan〔爱好者〕；art〔艺术作品〕",
+        "按创作者身份与内容关系组合"
+      ],
+      [
+        "fan + art → fanart",
+        "粉丝围绕喜爱作品创作的美术作品"
+      ]
+    ],
+    "explanation": "fanart of a character 某角色的同人图，post fanart 发布粉丝创作，a fanart gallery 同人画廊。通常作集合或不可数用法。",
+    "usage": "fanart of a character；post fanart；a fanart gallery。",
+    "contrast": "fanart 侧重粉丝与原作品的关系，不等于 official artwork 官方美术；原创画法也可能以已有角色为题材。",
+    "examples": [
+      [
+        "She posted fanart of her favourite game character.",
+        "她发布了一幅自己最喜欢的游戏角色的同人图。"
+      ],
+      [
+        "The exhibition includes a wall of fanart.",
+        "展览有一面展示粉丝创作的墙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fanart#English"
+    ]
+  },
+  {
+    "word": "cosplayer",
+    "ipa": "英 /ˈkɒzpleɪə/；美 /ˈkɑːzpleɪər/",
+    "meaning": "角色扮演爱好者；角色装扮者",
+    "sense": "把喜欢的角色通过服装、妆容、道具、表演带到现实中的人。",
+    "split": "与日语 kosupureiyā 对应，英语可分析 cosplay + -er。cosplay 先由英语 costume、play 成分在日语中混成，再进入英语，不把 cos- 当普遍古典词根。",
+    "history": [
+      [
+        "英语 costume 与 play 在日语中混成 kosupure → 英语 cosplay",
+        "角色装扮活动的跨语言形成"
+      ],
+      [
+        "日语 kosupureiyā；英语表面 cosplay + -er → cosplayer",
+        "参与角色装扮的人"
+      ]
+    ],
+    "explanation": "a cosplayer at a convention 漫展上的角色扮演者，a cosplayer dressed as a hero 装扮成英雄的扮演者。不只动漫角色，也可游戏、电影等。",
+    "usage": "a cosplayer at a convention；a group of cosplayers；dress as a character。",
+    "contrast": "player 在这里参与角色装扮，不一定是职业演员或电竞选手；同是 -player，具体活动由前部决定。",
+    "examples": [
+      [
+        "The cosplayer made the costume herself.",
+        "这位角色扮演者自己制作了服装。"
+      ],
+      [
+        "A group of cosplayers posed for photos outside the hall.",
+        "一群角色扮演者在大厅外摆姿势拍照。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cosplayer#English",
+      "https://www.etymonline.com/word/cosplay"
+    ]
+  },
+  {
+    "word": "standardize",
+    "ipa": "英 /ˈstændədaɪz/；美 /ˈstændərdaɪz/",
+    "meaning": "标准化；统一规范或格式",
+    "sense": "大家原来各写各的日期、各量各的尺寸，现在约定同一套规则，让结果能比较、能配合。",
+    "split": "standard + -ize，形成使符合标准的动词。standardise 是同义拼写；-ize 常见于美式，也用于部分英式规范。",
+    "history": [
+      [
+        "standard 的历史旗帜、标杆义 → 通行参照",
+        "已有基础词精讲，现代作为统一要求或形式"
+      ],
+      [
+        "standard + -ize／-ise；non- + standard",
+        "使统一到标准；非标准形式"
+      ]
+    ],
+    "explanation": "standardize the format 统一格式，standardize measurements 统一测量标准。标准可以是技术要求，也可以是组织约定。",
+    "usage": "standardize the format；standardize measurements；standardize procedures。",
+    "contrast": "standardize 让一致，improve 改善；一致以后未必每个方面都更好，仍需看采用的标准。",
+    "examples": [
+      [
+        "We need to standardize the date format across the database.",
+        "我们需要统一整个数据库的日期格式。"
+      ],
+      [
+        "The company standardized its training procedures.",
+        "公司统一了培训流程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/standardize#English"
+    ]
+  },
+  {
+    "word": "standardise",
+    "ipa": "英 /ˈstændədaɪz/；美 /ˈstændərdaɪz/",
+    "meaning": "标准化〔standardize 的拼写变体〕",
+    "sense": "换成 s，仍是在说统一规则、尺寸或格式；不用再学一套新意思。",
+    "split": "standard + -ise，与 standardize 同族同义；-ise 广见于英式用法，但不是所有英式文本都只用这一种。",
+    "history": [
+      [
+        "standard 的历史旗帜、标杆义 → 通行参照",
+        "已有基础词精讲，现代作为统一要求或形式"
+      ],
+      [
+        "standard + -ize／-ise；non- + standard",
+        "使统一到标准；非标准形式"
+      ],
+      [
+        "standard + -ise → standardise",
+        "标准化动词的另一常见拼写"
+      ]
+    ],
+    "explanation": "standardise spelling 统一拼写，standardise the process 规范流程。同一项目选择一套拼写习惯，读者更好跟。",
+    "usage": "standardise spelling；standardise the process；standardise equipment。",
+    "contrast": "standardise 与 standardize 主要是拼写差异，不是一个更严格、另一个更宽松；读音相同。",
+    "examples": [
+      [
+        "The editor helped standardise spelling throughout the report.",
+        "编辑帮助统一了整份报告的拼写。"
+      ],
+      [
+        "The school plans to standardise its assessment forms.",
+        "学校计划统一评估表格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/standardise#English"
+    ]
+  },
+  {
+    "word": "nonstandard",
+    "ipa": "英 /ˌnɒnˈstændəd/；美 /ˌnɑːnˈstændərd/",
+    "meaning": "非标准的；不采用通行形式的",
+    "sense": "没有按选定的标准来，可能是特殊规格，也可能是方言、口语里的另一种形式。",
+    "split": "non- 非、不属于 + standard，否定的是标准归属，不自动评价东西没用或质量差。",
+    "history": [
+      [
+        "standard 的历史旗帜、标杆义 → 通行参照",
+        "已有基础词精讲，现代作为统一要求或形式"
+      ],
+      [
+        "standard + -ize／-ise；non- + standard",
+        "使统一到标准；非标准形式"
+      ],
+      [
+        "non- + standard → nonstandard",
+        "不符合或不采用指定标准的"
+      ]
+    ],
+    "explanation": "a nonstandard size 特殊非标尺寸，nonstandard spelling 非标准拼写，nonstandard usage 非标准用法。判断语言时先说明采用哪种标准。",
+    "usage": "a nonstandard size；nonstandard spelling；nonstandard usage。",
+    "contrast": "nonstandard 非标不等于 substandard 低于质量标准；特殊接口可以非标但质量很好。",
+    "examples": [
+      [
+        "The machine uses screws of a nonstandard size.",
+        "机器使用非标准尺寸的螺丝。"
+      ],
+      [
+        "The dictionary labels the spelling as nonstandard.",
+        "词典把这种拼写标为非标准。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonstandard#English"
+    ]
+  },
+  {
+    "word": "peacekeeper",
+    "ipa": "英 /ˈpiːskiːpə/；美 /ˈpiːskiːpər/",
+    "meaning": "维和人员；维护和平、调停的人",
+    "sense": "重点在让冲突别再扩大、让已有和平维持住的人；也可说家庭或团队里劝架的人。",
+    "split": "peace 和平 + keeper 维护者，keeper 是 keep + -er。peacekeeping 说活动，peacekeeper 说人员。",
+    "history": [
+      [
+        "peace〔和平〕；keep + -er〔维护者〕",
+        "两个构词成分"
+      ],
+      [
+        "peace + keeper → peacekeeper",
+        "维和人员；避免冲突升级的调停者"
+      ]
+    ],
+    "explanation": "international peacekeepers 国际维和人员，act as a peacekeeper 充当调停者。具体任务由场景说明。",
+    "usage": "international peacekeepers；act as a peacekeeper；a group of peacekeepers。",
+    "contrast": "peacekeeper 维护和平，peacemaker 常促成和解；实际人员可能兼做，但名称重点不同。",
+    "examples": [
+      [
+        "Peacekeepers monitored the area after the ceasefire.",
+        "停火后，维和人员在该地区进行监督。"
+      ],
+      [
+        "She often acts as a peacekeeper during family arguments.",
+        "家里争执时，她常充当调停者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peacekeeper#English"
+    ]
+  }
+]

@@ -5,7 +5,7 @@
     "core": "SERV = SERVE / KEEP",
     "image": "替人办事是一支，把东西守住、留好是另一支",
     "intro": "**serv-** 在这里分两条拉丁语路线：**servus → servīre** 是奴仆、服侍，留下 serve、servant；**servāre** 是看守、保全，留下 preserve、reserve、observe。更早的联系有不同分析，学习时先把这两条可靠路线分清。",
-    "forms": "**serve / service / servant** 经过法语进入英语，所以拼写尾部不必都当成现代英语随意加的后缀。**serf** 和 **sergeant** 虽然不再明显写出 serv，仍能追到这条服侍词族。\n\n另一支中，**preserve** 是保全，**reserve** 是留下备用，**conserve** 是保存、节约；**observe** 既有留心看，也有把规定守住的意思。**deserve** 的 de- 是加强效劳，**dessert** 的 des- 则是撤去餐食，不能把两个前缀功能一概而论。",
+    "forms": "**serve / service / servant** 经过法语进入英语，所以拼写尾部不必都当成现代英语随意加的后缀。**serf** 和 **sergeant** 虽然不再明显写出 serv，仍能追到这条服侍词族。\n\n另一支中，**preserve** 是保全，**reserve** 是留下备用，**conserve** 是保存、节约；**observe** 既有留心看，也有把规定守住的意思。**deserve** 的 de- 是加强效劳，**dessert** 的 des- 则是撤去餐食，不能把两个前缀功能一概而论。\n\nservice 经法语接拉丁 servitium；services 可数不同服务，也可在动词用法中说检修。\n\nserve 接拉丁 servīre，经法语借入；served 在 /v/ 后加 /d/，不同服务、任职等搭配看对象。\n\n早期服侍、效力的词族，现代服务对象、任务和功能都可使用。\n\n本组接拉丁 servare 看守、保全这一支，和 servire 服侍的词支分开。\n\n拉丁看守词经法语借入，遵守和观察均保留。\n\n拉丁尽力服务的词经法语发展，现代不限奖赏。\n\n拉丁 reservare 经法语传入，动词保留、预订，名词储备、保护区等分支。\n\n拉丁 deservire 尽力服务经法语发展值得、应得，英语过去式 v 后读 d。\n\n后期拉丁 prae- 与 servare 形成 praeservare，经法语传入，过去尾 d。\n\nreservoir 经法语 reservoir 储存处接 reserver，英语不是直接 reserve 后加一个现成英语 oir。\n\nreservation 接法语、拉丁 reservatio，来自 reservare 留住、保存。现代复数既说预订，也说保留意见；servare 保存与 servire 服侍分开看。\n\nobserve 远接拉丁 observare 看顾、留意、遵守；observer 最初有遵行者，后来常说观察者。observe 去 e 加 -er，再加 -s。\n\nobserve 经法语接拉丁 observare，含 ob- 与 servare 看守、保持。现代去 e 加完整 -ing，可说观察、遵守与举行纪念等，随对象区分。\n\npreserve 经法语、拉丁 praeservare 事先保护的词族。现代去 e 加完整 -ing，保护、保持与保存食物等义随对象理解。",
     "branches": [
       [
         "提供与效力",
@@ -30,6 +30,62 @@
       [
         "留心与遵守",
         "observe · observation · observance"
+      ],
+      [
+        "service → services：服务项目、系统与检修",
+        "service · services"
+      ],
+      [
+        "serve → served：服务、端上、担任、发球",
+        "serve · served"
+      ],
+      [
+        "serve → serves：服务、供餐与发挥作用",
+        "serve · serves"
+      ],
+      [
+        "observation → observations：留心看与记录下来的所见",
+        "observation · observations"
+      ],
+      [
+        "observe → observed：留意、守住",
+        "observe · observed"
+      ],
+      [
+        "deserve → deserves：付出、行为配得上结果",
+        "deserve · deserves"
+      ],
+      [
+        "reserve → reserves：留住待用的一份",
+        "reserve · reserves"
+      ],
+      [
+        "deserve → deserved：因行为、处境而应得到",
+        "deserve · deserved"
+      ],
+      [
+        "preserve → preserved：保护着留下、维持原状",
+        "preserve · preserved"
+      ],
+      [
+        "保留材料的不同借词：reserve、reservoir；reservoirs",
+        "reserve · reservoir · reservoirs"
+      ],
+      [
+        "re- 留回 + serv- 保存 → reservations",
+        "reservations"
+      ],
+      [
+        "ob- + serv- 看守 → observers",
+        "observers"
+      ],
+      [
+        "看顾、遵守 → observe → observing",
+        "observing"
+      ],
+      [
+        "pre- 预先 + serv- 看守 → preserving",
+        "preserving"
       ]
     ],
     "contrasts": "**preserve / reserve / conserve**：完好保存 / 留作特定用途或以后使用 / 妥善保护并节约资源。\n\n**observation / observance**：观察或评论 / 遵守、纪念活动。\n\n**observant / observable**：人善于观察 / 事物可被观察。\n\n**conservatory / observatory**：暖房或音乐学院 / 天文台等观测场所。\n\n**serviceable / servile**：东西实用 / 人卑躬屈膝。不要把工作服务和奴性混为一谈。",
@@ -73,7 +129,22 @@
       "observable",
       "observant",
       "observational",
-      "observance"
+      "observance",
+      "services",
+      "served",
+      "serves",
+      "observations",
+      "observed",
+      "deserves",
+      "reserves",
+      "deserved",
+      "preserved",
+      "reservoir",
+      "reservoirs",
+      "reservations",
+      "observers",
+      "observing",
+      "preserving"
     ]
   }
 ]

@@ -5,7 +5,7 @@
     "core": "一个人有力气，一件事站得住，一样东西值得重视：都从“有力量、能起作用”展开。",
     "image": "想象一只手在试分量：摸到一件有用的工具，想到 value；拿起一张仍能使用的票，想到 valid；感到病后的身体重新有力，想到 convalesce。",
     "intro": "拉丁语 valēre 表示强健、有力量，也表示有效、有用、值得。它经法语 valoir 形成 value、avail 等支线；经拉丁语 validus 留下 valid；经 praevalēre 留下 prevail。勇气、康复、等值与化学价都能联系到力量或作用，但每个词的实际意思要按自己的演化路线理解。",
-    "forms": "val- 常见于 value、valid；avail、prevail 中的 -vail 来自法语阶段的词形；-valent、-valence 与拉丁语 valēns、valentia 相连。convalesce 的 -valesc- 表示逐渐变强。valedict- 中的 valē 原来是“愿你安好”，加上“说”才成了道别。",
+    "forms": "val- 常见于 value、valid；avail、prevail 中的 -vail 来自法语阶段的词形；-valent、-valence 与拉丁语 valēns、valentia 相连。convalesce 的 -valesc- 表示逐渐变强。valedict- 中的 valē 原来是“愿你安好”，加上“说”才成了道别。\n\n拉丁 valere 强健、有价值，经法语价值词进入英语；valued 可以说被珍视，也可以在估价结构中说被估为某价。\n\n值得、有力量的早期词族，后有价值名词及估价、珍视动词。\n\n-able 形容词可名词化为有价值的东西，复数常说随身贵重物品。\n\nevaluate 或由 evaluation 逆构，或借法语 évaluer；来源联系法语 valuer、拉丁 valere 有价值等材料。现代 evaluate 去 e 加完整 -ed，/t/ 后读 /ɪd/。\n\nevaluate 可能从 evaluation 逆构或接法语 évaluer，远连拉丁 valere 有价值、强健。现代去 e 加 -ing；近源与更远的价值词族可以分层理解。",
     "branches": [
       [
         "价值与重视",
@@ -46,6 +46,26 @@
       [
         "愿你安好的告别",
         "valediction, valedictory, valedictorian"
+      ],
+      [
+        "value → valued：觉得值得，因而珍视",
+        "value · valued"
+      ],
+      [
+        "value → values：数值、价值观与珍视",
+        "value · values"
+      ],
+      [
+        "value → valuable → valuables：有价值与贵重物品",
+        "valuable · valuables"
+      ],
+      [
+        "价值 → evaluation、evaluate → evaluated",
+        "evaluated"
+      ],
+      [
+        "e- + valu- 价值 → evaluating",
+        "evaluating"
       ]
     ],
     "contrasts": "invaluable 是价值难以估量，因此极有价值；valueless 才是没有价值。invalid 的“无效”与旧时“病弱者”有不同重音。ambivalent 表示相反感受并存，indifferent 才是不在乎。valley、valve 虽然字母相似，却不属于 valēre：valley 来自 vallis“山谷”，valve 属于 valva“门扇”一支。",
@@ -115,7 +135,12 @@
       "equivalence",
       "equivalency",
       "eigenvalue",
-      "valediction"
+      "valediction",
+      "valued",
+      "values",
+      "valuables",
+      "evaluated",
+      "evaluating"
     ],
     "exclude": []
   }

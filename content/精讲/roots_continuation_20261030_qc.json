@@ -1,0 +1,81 @@
+[
+  {
+    "id": "A2095",
+    "meaning": "数词中表示若干个十；另一来源构成性质、状态名词",
+    "core": "-TY：同一外形，两条不同词源",
+    "image": "twenty 是两个十，sixty 是六个十；loyalty 忠诚、difficulty 困难里的 -ty 则不是十。先分清词源线，再看实际用法。",
+    "intro": "数词最直观：three 三，thirty 三十；four 四，forty 四十。再接序数变化就有 thirtieth 第三十、fortieth 第四十。另一方面，loyalty、royalty、subtlety 等是在谈状态、性质或固定发展出的事物，这一组与 -ity 相联。",
+    "forms": "数词 -ty 延续古英语 -tig，日耳曼语中十、十的一组的材料；twenty、thirty 等有古老音形变化，不是现代数字词原封不动加 ty。另一条 -ty 经法语 -té、-te 接拉丁 -tas、-tat- 等性质名词材料，和 -ity 同族，来源与数词后缀不同。property、sovereignty 等可能整体借入，不强行按一个现代短词再加尾。现代十位数序数常 y → i 再接 -eth，如 twenty → twentieth；forty 的 u 不保留。\n\n拉丁 difficilis、difficultas 经法语到英语；复数改 y 为 i 加 es。",
+    "branches": [
+      [
+        "二、三、四个十",
+        "two · twenty · twentieth · three · thirty · thirtieth · four · forty · fortieth"
+      ],
+      [
+        "五、六、七个十",
+        "five · fifty · fiftieth · six · sixty · sixtieth · seven · seventy · seventieth"
+      ],
+      [
+        "八、九个十",
+        "eight · eighty · eightieth · nine · ninety · ninetieth"
+      ],
+      [
+        "年龄段、年代和数量",
+        "twenty · thirty · forty · fifty · sixty · seventy · eighty · ninety"
+      ],
+      [
+        "另一词源：性质与状态",
+        "loyalty · difficulty · uncertainty · sovereignty · royalty · subtlety · property"
+      ],
+      [
+        "difficulty → difficulties：一件件难处",
+        "difficult · difficulty · difficulties"
+      ]
+    ],
+    "contrasts": "forty 四十不写 fourty；-teen 与 -ty 用末尾 /n/、元音及重音共同辨认；twenty 数量与 twentieth 顺序分开；in your twenties 通常二十到二十九岁；性质名词的 -ty 不表示十。",
+    "practice": "Twenty people attended the first session, and thirty came to the second.\n\n二十人参加了第一场，三十人来了第二场。",
+    "words": [
+      "two",
+      "twenty",
+      "twentieth",
+      "three",
+      "thirty",
+      "thirtieth",
+      "four",
+      "forty",
+      "fortieth",
+      "five",
+      "fifty",
+      "fiftieth",
+      "six",
+      "sixty",
+      "sixtieth",
+      "seven",
+      "seventy",
+      "seventieth",
+      "eight",
+      "eighty",
+      "eightieth",
+      "nine",
+      "ninety",
+      "ninetieth",
+      "ten",
+      "property",
+      "difficulty",
+      "loyalty",
+      "uncertainty",
+      "sovereignty",
+      "royalty",
+      "parity",
+      "subtlety",
+      "surety",
+      "admiralty",
+      "difficult",
+      "difficulties"
+    ],
+    "exclude": {
+      "fealty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "suzerainty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "word": "facts",
+    "ipa": "/fækts/",
+    "meaning": "事实；已经确知的情况〔fact 的复数〕",
+    "sense": "能拿出来说“这件事确实如此”的一条条情况，就是 facts。词源里“做成的事”有助于理解已经发生、成立的事情。",
+    "split": "fact + -s，形成 /kts/，通常不另添元音。fact 经法语接拉丁 factum 做成的事，关联 facere 做；英语逐渐把确实的事情、真实情况作为常用核心。",
+    "history": [
+      [
+        "拉丁 facere → factum → 法语 fact → 英语 fact",
+        "做 → 做成的事 → 事实"
+      ],
+      [
+        "fact + -s → facts",
+        "一条条已经确知的情况"
+      ]
+    ],
+    "explanation": "check the facts 核查事实；basic facts 基本情况；facts and opinions 事实与意见；face the facts 正视事实。",
+    "usage": "get the facts right；the facts of the case。",
+    "contrast": "fact 强调情况确实如此，opinion 强调人的看法；有人把一句话称作 a fact，本身并不能代替核实。facts 的词尾 /kts/ 可以连读，分清三个辅音。",
+    "examples": [
+      [
+        "Please check the facts before you share the story.",
+        "分享这个故事前，请先核查事实。"
+      ],
+      [
+        "The first page gives a few basic facts about the island.",
+        "第一页介绍了这座岛的一些基本情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/facts#English",
+      "https://en.wiktionary.org/wiki/fact#English"
+    ]
+  },
+  {
+    "word": "factors",
+    "ipa": "英 /ˈfæktəz/；美 /ˈfæktərz/",
+    "meaning": "因素；因数；起作用的条件〔复数〕",
+    "sense": "一件事为什么变成这样，背后一起起作用的一项项条件，就是 factors；数学里能相乘组成某个数的部分，也叫 factors。",
+    "split": "factor + -s，读 /z/。factor 来自拉丁 factor 做事者、制作者，关联 facere 做；经法语等进入英语后，有代理办事者、数学因数及影响结果的因素等分支。",
+    "history": [
+      [
+        "拉丁 facere → factor；法语等路线 → 英语 factor",
+        "做 → 做事者、参与作用的一方"
+      ],
+      [
+        "factor + -s → factors",
+        "多个影响条件；数学中的因数"
+      ]
+    ],
+    "explanation": "several factors 几个因素；key factors 关键因素；risk factors 风险因素；factors of twelve 十二的因数。",
+    "usage": "take several factors into account；factors affecting the result。",
+    "contrast": "factor 是参与影响的一个条件；cause 常直接说导致某事的原因，两者在具体句子里可能重合。Three and four are factors of twelve 说三乘四能得到十二。",
+    "examples": [
+      [
+        "Several factors influenced our choice of location.",
+        "有几个因素影响了我们对地点的选择。"
+      ],
+      [
+        "Two and six are both factors of twelve.",
+        "二和六都是十二的因数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/factors#English",
+      "https://en.wiktionary.org/wiki/factor#English"
+    ]
+  },
+  {
+    "word": "figures",
+    "ipa": "英 /ˈfɪɡəz/；美 /ˈfɪɡjərz/",
+    "meaning": "数字、数据；人物、身形；图示；认为、计算〔第三人称单数〕",
+    "sense": "能辨认出来的一个形象、一个符号，是理解 figure 的起点；写出来的数字、画出的图、人群中的人物都能进入 figures 的名词分支。",
+    "split": "figure + -s，读 /z/。名词经古法语 figure 接拉丁 figūra，与 fingere 塑造同族；动词另经法语 figurer、拉丁 figūrāre 塑造、表现。计算、认为、想明白属于动词后来的用法。",
+    "history": [
+      [
+        "拉丁 figūra／figūrāre → 法语 → figure 名词、动词",
+        "形象、塑造 → 数字、人形、图示；描绘、计算等"
+      ],
+      [
+        "figure + -s → figures",
+        "多个数据、形象；单数主语认为、计算"
+      ]
+    ],
+    "explanation": "sales figures 销售数据；public figures 公众人物；figures in the distance 远处的人影；figures out the answer 想出答案。",
+    "usage": "check the figures；figures shown in the report。",
+    "contrast": "figures 在报告中常是数字数据，在故事画面中可说人影；Figure 2 常指图二。She figures it will rain 在口语里可以说她估计会下雨，figure out 则强调想明白。",
+    "examples": [
+      [
+        "The report includes the sales figures for each month.",
+        "报告列出了每个月的销售数据。"
+      ],
+      [
+        "We could see two figures standing near the gate.",
+        "我们能看见两个人影站在门边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/figures#English",
+      "https://en.wiktionary.org/wiki/figure#English"
+    ]
+  },
+  {
+    "word": "forms",
+    "ipa": "英 /fɔːmz/；美 /fɔːrmz/",
+    "meaning": "形式、形态；表格；构成、形成〔第三人称单数〕",
+    "sense": "一件东西呈现什么样子，是它的 form；按固定样式让人填写的纸张、页面，就是 forms；东西逐渐成了形，则是动词 forms。",
+    "split": "form + -s，/m/ 后读 /z/。form 经古法语 forme 接拉丁 fōrma 形状、样式、模子；名词和动词在这条词族中发展。",
+    "history": [
+      [
+        "拉丁 fōrma → 古法语 forme → 英语 form",
+        "形状、样式 → 形式；形成"
+      ],
+      [
+        "form + -s → forms",
+        "多种形式、多份表格；单数主语形成"
+      ]
+    ],
+    "explanation": "different forms 不同形式；fill in forms 填表；verb forms 动词形式；forms a circle 形成一个圆。",
+    "usage": "forms of transport；forms part of the plan。",
+    "contrast": "forms 在办事、报名语境多指表格，在语言学习中常指词形。Ice forms on the lake 中是动词，表示冰在湖面形成；Forms are available online 中则是表格的复数。",
+    "examples": [
+      [
+        "Please complete both forms before the first lesson.",
+        "请在第一节课前填好这两份表格。"
+      ],
+      [
+        "A thin layer of ice forms on the pond at night.",
+        "夜里池塘上会结起一层薄冰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forms#English",
+      "https://en.wiktionary.org/wiki/form#English"
+    ]
+  },
+  {
+    "word": "models",
+    "ipa": "英 /ˈmɒdəlz/；美 /ˈmɑːdəlz/",
+    "meaning": "模型；型号；典范；模特；模拟、塑造〔第三人称单数〕",
+    "sense": "拿一个样式作参照，可以是缩小的模型、产品型号，也可以是值得照着做的榜样；服装模特则把可供观看的样式展示出来。",
+    "split": "model + -s，/l/ 后读 /z/。model 经意大利语 modello、法语 modelle 接拉丁 modulus 小尺度、标准，较早是 modus 尺度、方式。英语名词后又作动词表示按样式塑造、模拟。",
+    "history": [
+      [
+        "拉丁 modus、modulus → 意大利语、法语 → model",
+        "尺度、小标准 → 样式、模型"
+      ],
+      [
+        "model + -s → models",
+        "多种模型、型号或模特；单数主语模拟"
+      ]
+    ],
+    "explanation": "scale models 比例模型；new models 新型号；role models 榜样；computer models 计算机模型；models the flow 模拟流动。",
+    "usage": "compare different models；models made of wood。",
+    "contrast": "模型是为理解、展示而抓住一部分特点，model 一词本身不保证完全等同于实物。models 在产品目录常说型号，在服装展示中常说模特。",
+    "examples": [
+      [
+        "The museum displays models of several ancient ships.",
+        "博物馆展示了几种古代船只的模型。"
+      ],
+      [
+        "This programme models the movement of water through the valley.",
+        "这个程序模拟水流穿过山谷的运动过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/models#English",
+      "https://en.wiktionary.org/wiki/model#English"
+    ]
+  },
+  {
+    "word": "methods",
+    "ipa": "/ˈmeθədz/",
+    "meaning": "方法；有步骤的做法〔method 的复数〕",
+    "sense": "遇到一种任务，有一条可以循着做的路，这种做法就是 method；多种可用的做法就是 methods。",
+    "split": "method + -s，/d/ 后读 /z/。method 经拉丁 methodus、法语 méthode 接希腊 méthodos，含 meta- 与 hodós 路，早有追寻、探究及研究方法等义。",
+    "history": [
+      [
+        "希腊 meta- + hodós → méthodos；拉丁、法语 → method",
+        "道路、追寻 → 研究或做事的途径"
+      ],
+      [
+        "method + -s → methods",
+        "多种方法、做法"
+      ]
+    ],
+    "explanation": "teaching methods 教学方法；research methods 研究方法；traditional methods 传统做法；methods of payment 付款方式。",
+    "usage": "compare two methods；methods for solving the problem。",
+    "contrast": "method 常强调怎样有步骤地做；way 范围更广，也可说道路、方式。methods of doing 与 methods for doing 都常见，内容应交代实际做法。",
+    "examples": [
+      [
+        "The class compared two methods for solving the problem.",
+        "全班比较了两种解决这个问题的方法。"
+      ],
+      [
+        "Different teaching methods suit different learners.",
+        "不同教学方法适合不同的学习者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/methods#English",
+      "https://en.wiktionary.org/wiki/method#English"
+    ]
+  },
+  {
+    "word": "structures",
+    "ipa": "英 /ˈstrʌktʃəz/；美 /ˈstrʌktʃərz/",
+    "meaning": "结构；构造物；安排、组织〔第三人称单数〕",
+    "sense": "材料怎样搭在一起、各部分怎样排列，就是 structures 的结构分支；搭起来的桥、建筑等整体，也可以叫 structures。",
+    "split": "structure + -s，读 /z/。structure 经法语接拉丁 structūra，来自 struere 排列、堆搭及其分词词干 struct-。英语名词随后转用为安排结构的动词。",
+    "history": [
+      [
+        "拉丁 struere、structūra → 法语 → 英语 structure",
+        "堆搭、排列 → 搭成的整体、结构"
+      ],
+      [
+        "structure + -s → structures",
+        "多个结构、构造物；单数主语安排"
+      ]
+    ],
+    "explanation": "sentence structures 句子结构；wooden structures 木构造物；social structures 社会结构；structures the lesson 组织课程结构。",
+    "usage": "complex structures；structures built to last。",
+    "contrast": "structure 可说内部各部分的关系，也可数一个个建成的构造物。building 更常说供人使用的建筑，structures 还可包括桥、塔等。",
+    "examples": [
+      [
+        "The bridge is one of the oldest wooden structures in the area.",
+        "这座桥是该地区最古老的木构造物之一。"
+      ],
+      [
+        "She structures each lesson around a simple question.",
+        "她围绕一个简单问题来组织每节课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/structures#English",
+      "https://en.wiktionary.org/wiki/structure#English"
+    ]
+  },
+  {
+    "word": "patterns",
+    "ipa": "英 /ˈpætənz/；美 /ˈpætərnz/",
+    "meaning": "图案；模式、规律；样式、纸样〔复数〕",
+    "sense": "同一种安排反复出现，让你能认出来、甚至照着做，这样的样式就是 patterns：衣服上的纹样、睡觉的规律、做衣服的纸样都可用。",
+    "split": "pattern + -s，/n/ 后读 /z/。pattern 与 patron 同源，接法语 patron 的模型、榜样义，更早联系拉丁 patrōnus；英语中样式与支持者两条意义及拼写逐渐分化。",
+    "history": [
+      [
+        "拉丁 patrōnus → 法语 patron 的模型、榜样分支 → pattern",
+        "可供参考、仿照的样式"
+      ],
+      [
+        "pattern + -s → patterns",
+        "多种图案、规律、制作样式"
+      ]
+    ],
+    "explanation": "sleep patterns 睡眠规律；behaviour patterns 行为模式；floral patterns 花卉图案；sewing patterns 缝纫纸样。",
+    "usage": "recognize patterns；repeating patterns。",
+    "contrast": "pattern 不一定是人为画好的，也可以是观察出来的重复规律。sewing patterns 是裁缝照着裁剪、制作的纸样，和布上装饰图案要按场景区分。",
+    "examples": [
+      [
+        "The curtains have simple blue and white patterns.",
+        "窗帘上有简单的蓝白图案。"
+      ],
+      [
+        "We began to notice patterns in the birds’ movements.",
+        "我们开始注意到鸟类活动中的规律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/patterns#English",
+      "https://en.wiktionary.org/wiki/pattern#English"
+    ]
+  },
+  {
+    "word": "functions",
+    "ipa": "/ˈfʌŋkʃənz/",
+    "meaning": "功能、职能；函数；正式活动；起作用、运转〔第三人称单数〕",
+    "sense": "一个部分在整体里负责做什么，是它的 function；它确实把这份工作做起来，就是动词 functions。",
+    "split": "function + -s，/n/ 后读 /z/。function 经法语等接拉丁 functiō，来自 fungī 履行、执行及 funct- 词干；由履行作用，发展到功能、活动和数学的专门用法。",
+    "history": [
+      [
+        "拉丁 fungī、functiō → 法语等路线 → function",
+        "履行、执行 → 所承担的作用"
+      ],
+      [
+        "function + -s → functions",
+        "多个功能、函数、活动；单数主语运转"
+      ]
+    ],
+    "explanation": "basic functions 基本功能；bodily functions 身体机能；mathematical functions 数学函数；social functions 社交活动；functions well 运转良好。",
+    "usage": "functions as a shelter；the functions of each part。",
+    "contrast": "functions as ... 表示起到……的作用。数学函数 functions 说输入与输出之间的特定对应关系；正式场合的 social functions 则通常是社交活动。",
+    "examples": [
+      [
+        "The guide explains the functions of each button.",
+        "指南解释了每个按钮的功能。"
+      ],
+      [
+        "The old hall now functions as a small library.",
+        "那座旧礼堂现在用作一间小图书馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/functions#English",
+      "https://en.wiktionary.org/wiki/function#English"
+    ]
+  },
+  {
+    "word": "processes",
+    "ipa": "英 /ˈprəʊsesɪz/；美 /ˈprɑːsesɪz/",
+    "meaning": "过程；程序、步骤；处理、加工〔第三人称单数〕",
+    "sense": "一件事一步步往前推进，整个经过就是 process；把材料、信息按步骤处理，则是动词。processes 把多套过程或单数主语的处理动作表达出来。",
+    "split": "process + -es，在 /s/ 后增加 /ɪz/。常用名词经法语 proces、拉丁 prōcessus，接 prō- 向前与 cēdere 走；处理、加工的动词从名词发展。",
+    "history": [
+      [
+        "拉丁 prōcēdere、prōcessus → 法语、英语 process",
+        "向前走 → 进程、过程"
+      ],
+      [
+        "process + -es → processes",
+        "多种过程；单数主语处理、加工"
+      ]
+    ],
+    "explanation": "natural processes 自然过程；manufacturing processes 制造工艺；processes information 处理信息；processes the applications 处理申请。",
+    "usage": "several different processes；processes the data。",
+    "contrast": "process 是事情如何推进的一系列阶段；procedure 常强调规定的办事步骤。常用 processes 的重音在第一部分，词尾 /ɪz/ 多出一个音节。",
+    "examples": [
+      [
+        "The diagram shows the processes involved in making paper.",
+        "这张图展示了造纸所涉及的过程。"
+      ],
+      [
+        "The machine processes the material in three stages.",
+        "这台机器分三个阶段处理材料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/processes#English",
+      "https://en.wiktionary.org/wiki/process#English"
+    ]
+  },
+  {
+    "word": "causes",
+    "ipa": "英 /ˈkɔːzɪz/；美 /ˈkɔːzɪz, ˈkɑːzɪz/",
+    "meaning": "原因；支持的事业、主张；导致、引起〔第三人称单数〕",
+    "sense": "让结果发生的前面那件事，是 cause；自己把这个结果引出来，则是动词 causes。大家愿意站出来支持的一项事业，也叫 a cause。",
+    "split": "cause + -s，词基末尾是 /z/，增加 /ɪz/，写作 causes。cause 经法语接拉丁 causa，早已有原因、理由、案件等义，后来英语名词又转作导致的动词。",
+    "history": [
+      [
+        "拉丁 causa → 法语 cause → 英语 cause",
+        "原因、理由、案由 → 原因、支持的事业等"
+      ],
+      [
+        "cause + -s → causes",
+        "多个原因、事业；单数主语引起"
+      ]
+    ],
+    "explanation": "causes of delay 延误原因；causes problems 引起问题；good causes 值得支持的公益事业；causes someone to stop 使某人停下。",
+    "usage": "identify the causes；causes concern。",
+    "contrast": "causes 是动词时，后面可以接结果，也可用 causes someone to do。名词 good causes 常说值得帮助、捐助的事业；具体是在谈原因还是主张，要看修饰语和上下文。",
+    "examples": [
+      [
+        "The report examines the main causes of the delay.",
+        "报告分析了延误的主要原因。"
+      ],
+      [
+        "The loose handle causes the door to stick.",
+        "松动的把手会让门卡住。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/causes#English",
+      "https://en.wiktionary.org/wiki/cause#English"
+    ]
+  }
+]

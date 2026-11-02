@@ -1,0 +1,407 @@
+[
+  {
+    "word": "rear",
+    "ipa": "英 /rɪə/；美 /rɪr/",
+    "meaning": "后部、后面的；养育、饲养；后腿直立〔后两义另一路〕",
+    "sense": "the rear of a car 是车后部；rear children 是把孩子养大；a horse rears 是马前腿抬起、后腿站立。拼写一样，来源分两条。",
+    "split": "后部义经法语 rere 远接拉丁 retrō；养育、抬起义继承古英语 rǣran，与 rise、raise 相关。不能解释成所有抚养都发生在身后。",
+    "history": [
+      [
+        "拉丁 retrō → 法语 rere → 英语 rear",
+        "后面、向后 → 后部、后面的"
+      ],
+      [
+        "另线古英语 rǣran → rear",
+        "使升起 → 抚养、养育；马等用后腿立起"
+      ]
+    ],
+    "explanation": "at the rear 在后部，a rear window 后窗，rear cattle 养牛，rear children 抚养孩子，rear up 马等立起前身。",
+    "usage": "at the rear；a rear window；rear cattle；rear up。",
+    "contrast": "rear 抚养与 raise 在一些用法上接近，但 rear 后部是另一词源。horse reared 不能译马倒退了，它说前身立起。",
+    "examples": [
+      [
+        "The luggage was stored at the rear of the bus.",
+        "行李放在公交车后部。"
+      ],
+      [
+        "The family rears sheep on the hillside.",
+        "这家人在山坡上养羊。"
+      ],
+      [
+        "The horse reared when the gate slammed.",
+        "大门砰地关上时，马立起了前身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rear#English"
+    ]
+  },
+  {
+    "word": "rearward",
+    "ipa": "英 /ˈrɪəwəd/；美 /ˈrɪrwərd/",
+    "meaning": "向后的、朝后方；后部、后卫〔名词义〕",
+    "sense": "rear 给位置，-ward 给方向；把视线或移动指向后面，就是 rearward。",
+    "split": "rear 后部 + -ward 朝……方向。接后部那条法语、拉丁路线，不接养育动词；形容词、副词常见，名词后部等较书面。",
+    "history": [
+      [
+        "拉丁 retrō → 法语 rere → 英语 rear",
+        "后面、向后 → 后部、后面的"
+      ],
+      [
+        "rear + -ward → rearward",
+        "朝后方、后向的"
+      ]
+    ],
+    "explanation": "rearward visibility 后方视野，a rearward movement 向后移动，move rearward 向后移动。rearward、rearwards 作方向副词有变体用法。",
+    "usage": "rearward visibility；a rearward movement；move rearward。",
+    "contrast": "rearward 不等于 backward 在所有抽象义都互换；backward 还可能评价落后、发展迟缓，rearward 更常具体说后向。",
+    "examples": [
+      [
+        "The mirror improves rearward visibility.",
+        "镜子改善了后方视野。"
+      ],
+      [
+        "The seat can slide rearward to give more legroom.",
+        "座椅可以往后滑，增加腿部空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rearward#English"
+    ]
+  },
+  {
+    "word": "vegetarian",
+    "ipa": "英 /ˌvedʒɪˈteəriən/；美 /ˌvedʒəˈteriən/",
+    "meaning": "素食者；素食的、不含肉类的",
+    "sense": "把不吃动物肉类作为饮食方式的人；菜单上 vegetarian dish 则指给这种饮食方式准备的菜。",
+    "split": "由 vegetable 植物、蔬菜的部分词干加 -arian 类推形成，不是把完整 vegetable 原样再粘尾巴。后来随素食社团发展广泛使用；不必把来源改讲成单独由拉丁 vegetus 健康造词。",
+    "history": [
+      [
+        "拉丁 -ārius/-āriānus 等相关词尾",
+        "与某事有关；相关的人或立场"
+      ],
+      [
+        "英语 -arian 的借入、类推构词",
+        "职业身份、思想立场、生活原则；也可作形容词"
+      ],
+      [
+        "vegetable 的词干 + -arian → vegetarian",
+        "以素食方式生活的人；相应饮食的"
+      ]
+    ],
+    "explanation": "a vegetarian diet 素食饮食，a vegetarian meal 素餐，be a vegetarian 是素食者。通常不吃肉、鱼，蛋奶是否包含要看具体类型。",
+    "usage": "a vegetarian diet；a vegetarian meal；a vegetarian option。",
+    "contrast": "vegetarian 不自动等于 vegan：后者对动物来源制品有更广的排除。vegetarian 也不是只吃叶菜，谷物、豆类等都可在其饮食中。",
+    "examples": [
+      [
+        "The restaurant offers several vegetarian dishes.",
+        "餐馆提供几道素菜。"
+      ],
+      [
+        "My sister is a vegetarian, so we made a meal without meat or fish.",
+        "姐姐吃素，所以我们做了不含肉和鱼的一餐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vegetarian#English",
+      "https://www.etymonline.com/word/vegetarian"
+    ]
+  },
+  {
+    "word": "sectarian",
+    "ipa": "英 /sekˈteəriən/；美 /sekˈteriən/",
+    "meaning": "宗派的；偏执于派别的、宗派主义的；宗派成员",
+    "sense": "先看属于哪一宗派，再看是否把派别界线看得压倒一切；新闻里的 sectarian conflict 常说按宗派裂开的冲突。",
+    "split": "接中世纪拉丁 sectarius 等，与 secta 宗派、追随路线有关；现代可认 sect + -arian。sect 的跟随与切分词形在历史中有交错，不能只凭现代 sect 就宣称唯一切开来源。",
+    "history": [
+      [
+        "拉丁 -ārius/-āriānus 等相关词尾",
+        "与某事有关；相关的人或立场"
+      ],
+      [
+        "英语 -arian 的借入、类推构词",
+        "职业身份、思想立场、生活原则；也可作形容词"
+      ],
+      [
+        "secta → sectarius 等 → sectarian",
+        "宗派的、宗派成员 → 过分拘守派别的"
+      ]
+    ],
+    "explanation": "sectarian divisions 宗派分歧，sectarian violence 宗派暴力，a sectarian outlook 狭隘的派别观点。可以中性说宗派关系，也常带批评。",
+    "usage": "sectarian divisions；sectarian violence；a sectarian outlook。",
+    "contrast": "sectarian 不专属于某一种宗教，也不等于所有 religious 宗教的；党派、群体的狭隘偏见也可用。",
+    "examples": [
+      [
+        "The school tried to bridge sectarian divisions.",
+        "学校试图弥合宗派分歧。"
+      ],
+      [
+        "The author criticizes a narrow sectarian outlook.",
+        "作者批评一种狭隘的宗派观点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sectarian#English",
+      "https://www.etymonline.com/word/sectarian"
+    ]
+  },
+  {
+    "word": "disciplinarian",
+    "ipa": "英 /ˌdɪsɪplɪˈneəriən/；美 /ˌdɪsəpləˈneriən/",
+    "meaning": "严格执行纪律的人、严师式管理者",
+    "sense": "规则说几点到，就认真要求几点到；重视约束、执行规矩的人，可以是 a disciplinarian。",
+    "split": "可分析 discipline + -arian，或联系 disciplinary + -an。人物词强调严格执行纪律，不只是这个人学过某门学科。",
+    "history": [
+      [
+        "拉丁 -ārius/-āriānus 等相关词尾",
+        "与某事有关；相关的人或立场"
+      ],
+      [
+        "英语 -arian 的借入、类推构词",
+        "职业身份、思想立场、生活原则；也可作形容词"
+      ],
+      [
+        "discipline + -arian → disciplinarian",
+        "重视、实施纪律的人"
+      ]
+    ],
+    "explanation": "a strict disciplinarian 严厉的纪律执行者，a firm disciplinarian 管教坚定的人，a teacher who is a disciplinarian 很重纪律的老师。",
+    "usage": "a strict disciplinarian；a firm disciplinarian。",
+    "contrast": "disciplinarian 是人，disciplinary action 是纪律处分等形容结构；严格不必等于残酷，评价需看具体做法。",
+    "examples": [
+      [
+        "The head teacher was a strict disciplinarian.",
+        "校长是一位严格要求纪律的人。"
+      ],
+      [
+        "She was a firm disciplinarian but listened carefully to her students.",
+        "她管教严格，也认真听学生说话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disciplinarian#English"
+    ]
+  },
+  {
+    "word": "communitarian",
+    "ipa": "英 /kəˌmjuːnɪˈteəriən/；美 /kəˌmjuːnəˈteriən/",
+    "meaning": "社群主义的；社群主义者",
+    "sense": "讨论人怎样生活时，不只看孤立个人的选择，也把共同体、关系和共同责任放在中心。",
+    "split": "community 社群的词干 + -arian，连接时词干有调整；表示相关思想取向及主张者，不是 community 全词再机械拼接。",
+    "history": [
+      [
+        "拉丁 -ārius/-āriānus 等相关词尾",
+        "与某事有关；相关的人或立场"
+      ],
+      [
+        "英语 -arian 的借入、类推构词",
+        "职业身份、思想立场、生活原则；也可作形容词"
+      ],
+      [
+        "community 的词干 + -arian → communitarian",
+        "重视共同体作用的；持相应立场的人"
+      ]
+    ],
+    "explanation": "a communitarian approach 社群主义取向，communitarian thought 社群主义思想，a communitarian thinker 社群主义思想家。",
+    "usage": "a communitarian approach；communitarian thought；a communitarian thinker。",
+    "contrast": "communitarian 不等于 communist 共产主义者；两者虽有共同、社群的语义背景，现代思想标签不同，内部也各有流派。",
+    "examples": [
+      [
+        "The essay takes a communitarian approach to public responsibility.",
+        "文章从社群主义角度讨论公共责任。"
+      ],
+      [
+        "The seminar compared liberal and communitarian views.",
+        "研讨课比较了自由主义与社群主义观点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/communitarian#English"
+    ]
+  },
+  {
+    "word": "discriminate",
+    "ipa": "/dɪˈskrɪmɪneɪt/",
+    "meaning": "辨别、区分；歧视、不公平区别对待",
+    "sense": "辨出声音差别，是区分；因为一个人属于某群体就对他不利，是歧视。区别本身不总坏，怎样用区别才决定评价。",
+    "split": "借拉丁 discrīminātus，接 discrīmināre 分辨，联系 discrīmen 区别与 discernere 分开。不是现代英语 crime 犯罪简单加 dis- 和词尾。",
+    "history": [
+      [
+        "拉丁 discernere → discrīmen / discrīmināre",
+        "分开、辨别 → 区别、作区分"
+      ],
+      [
+        "拉丁相应形式 → 英语 discriminate/discrimination",
+        "辨别；按群体特征作不利区别对待"
+      ],
+      [
+        "性质与否定形式",
+        "discriminatory 歧视性的；indiscriminate 不加分辨的"
+      ]
+    ],
+    "explanation": "discriminate between sounds 区分声音，discriminate against someone 歧视某人，discriminate on the basis of age 按年龄区别对待。",
+    "usage": "discriminate between；discriminate against；discriminate on the basis of。",
+    "contrast": "discriminate between 可中性说辨别能力；against 常标不利对待。只见中文歧视就会漏掉实验、感知里的区分义。",
+    "examples": [
+      [
+        "The test asks listeners to discriminate between similar sounds.",
+        "测试要求听者区分相近声音。"
+      ],
+      [
+        "The policy should not discriminate against older applicants.",
+        "规定不应歧视年长申请者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discriminate#English"
+    ]
+  },
+  {
+    "word": "discrimination",
+    "ipa": "/dɪˌskrɪmɪˈneɪʃən/",
+    "meaning": "歧视；辨别、区分能力或过程",
+    "sense": "可以是对人不公平地分三六九等，也可以是耳朵能分清两个相近音；要看对象和搭配。",
+    "split": "借拉丁 discrīminātiō 等动作名词，现代对应 discriminate + -ion。不是凡 discrimination 都指社会歧视。",
+    "history": [
+      [
+        "拉丁 discernere → discrīmen / discrīmināre",
+        "分开、辨别 → 区别、作区分"
+      ],
+      [
+        "拉丁相应形式 → 英语 discriminate/discrimination",
+        "辨别；按群体特征作不利区别对待"
+      ],
+      [
+        "性质与否定形式",
+        "discriminatory 歧视性的；indiscriminate 不加分辨的"
+      ],
+      [
+        "discrīminātiō → discrimination",
+        "区分过程、辨别力；后有不利群体对待的常见义"
+      ]
+    ],
+    "explanation": "racial discrimination 种族歧视，age discrimination 年龄歧视，auditory discrimination 听觉辨别，discrimination between two signals 两个信号的区分。",
+    "usage": "racial discrimination；age discrimination；auditory discrimination。",
+    "contrast": "discrimination 社会议题里常负面，技术里的区分义可中性。description 描述与它拼音近，却是另一词。",
+    "examples": [
+      [
+        "The report documents discrimination in recruitment.",
+        "报告记录了招聘中的歧视。"
+      ],
+      [
+        "The exercise develops discrimination between similar speech sounds.",
+        "练习培养区分相近语音的能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discrimination#English"
+    ]
+  },
+  {
+    "word": "discriminatory",
+    "ipa": "英 /dɪˈskrɪmɪnətəri/；美 /dɪˈskrɪmɪnətɔːri/",
+    "meaning": "歧视性的、带不公平区别待遇的",
+    "sense": "不是仅有分辨能力，而是某条规则、做法按群体身份给不同人不利待遇；现代最常先遇见这种批评。",
+    "split": "对应 discriminate + -ory，表示相关性质。更广的与区分有关的技术用法存在，日常社会语境通常说歧视性的。",
+    "history": [
+      [
+        "拉丁 discernere → discrīmen / discrīmināre",
+        "分开、辨别 → 区别、作区分"
+      ],
+      [
+        "拉丁相应形式 → 英语 discriminate/discrimination",
+        "辨别；按群体特征作不利区别对待"
+      ],
+      [
+        "性质与否定形式",
+        "discriminatory 歧视性的；indiscriminate 不加分辨的"
+      ],
+      [
+        "discriminate + -ory → discriminatory",
+        "与区别对待有关 → 常指带偏见的"
+      ]
+    ],
+    "explanation": "a discriminatory policy 歧视性政策，discriminatory practices 歧视做法，discriminatory language 带歧视的语言。",
+    "usage": "a discriminatory policy；discriminatory practices；discriminatory language。",
+    "contrast": "discriminating 可正面说眼光好、善辨别；discriminatory 在谈人和规则时多负面。不要把 discerning taste 的赞美写成歧视。",
+    "examples": [
+      [
+        "The review identified several discriminatory practices.",
+        "审查发现了几种歧视性做法。"
+      ],
+      [
+        "They revised the notice to remove discriminatory language.",
+        "他们修改告示，删除带歧视的措辞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discriminatory#English"
+    ]
+  },
+  {
+    "word": "indiscriminate",
+    "ipa": "/ˌɪndɪˈskrɪmɪnət/",
+    "meaning": "不加分辨的、不作选择的、乱来的",
+    "sense": "该挑选时不挑，什么都抓来、什么都影响；像闭着眼撒出去，不管对象之间的差别。",
+    "split": "in- 不 + discriminate 的区别、分辨性质形式。词尾 /nət/ 弱读，与常用动词 discriminate 的 /neɪt/ 不同；英语记录不必短词先于长词。",
+    "history": [
+      [
+        "拉丁 discernere → discrīmen / discrīmināre",
+        "分开、辨别 → 区别、作区分"
+      ],
+      [
+        "in- + discriminate → indiscriminate",
+        "不加区分、不作审慎选择的"
+      ]
+    ],
+    "explanation": "indiscriminate use 不加选择的使用，indiscriminate spending 不加节制的花费，indiscriminate attacks 不分对象的攻击。",
+    "usage": "indiscriminate use；indiscriminate spending；indiscriminate attacks。",
+    "contrast": "indiscriminate 不是反对歧视的赞美词；反对歧视可用 nondiscriminatory，不加分辨却往往在批评缺乏判断。",
+    "examples": [
+      [
+        "The study warns against indiscriminate use of the technique.",
+        "研究提醒不要不加分辨地使用这种方法。"
+      ],
+      [
+        "Indiscriminate spending quickly exhausted the budget.",
+        "不加节制地花钱很快用光了预算。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indiscriminate#English"
+    ]
+  },
+  {
+    "word": "locked",
+    "ipa": "英 /lɒkt/；美 /lɑːkt/",
+    "meaning": "锁住的；锁定、无法自由改变的",
+    "sense": "门被锁住，别人进不去；软件项目被锁定，也意味着不能随意改动或访问。",
+    "split": "lock + -ed，/k/ 后词尾读 /t/，不是 /ɪd/。过去分词转作状态形容词；锁的形象延伸到资源、版本、账户等访问限制。",
+    "history": [
+      [
+        "lock → locked",
+        "上锁动作完成 → 锁着的状态"
+      ],
+      [
+        "抽象锁定",
+        "访问、变动等受到限制"
+      ]
+    ],
+    "explanation": "a locked door 锁着的门，a locked account 锁定账户，a locked file 被锁定的文件，be locked in 固定在某处、某选择中，视语境而定。",
+    "usage": "a locked door；a locked account；a locked file。",
+    "contrast": "locked 不等于 lost 丢了；landlocked 国家被陆地围住，指没有海岸，不是国家的门真被锁。技术锁定也不保证内容加密。",
+    "examples": [
+      [
+        "We found the office door locked.",
+        "我们发现办公室门锁着。"
+      ],
+      [
+        "The file was locked while another user edited it.",
+        "另一位用户编辑时，这个文件处于锁定状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/locked#English"
+    ]
+  }
+]

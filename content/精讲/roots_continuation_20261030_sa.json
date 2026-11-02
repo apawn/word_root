@@ -1,0 +1,247 @@
+[
+  {
+    "id": "B2472",
+    "meaning": "放屁；屁及相应动作名词",
+    "core": "FART：同一个身体动作，可以作动词，也能按一次来数",
+    "image": "a fart 是一个屁；farting 把行为整体拿来谈，或参与正在做的动词结构。",
+    "intro": "fart 接古英语及更早日耳曼语的相应排气词族，中古英语有 ferten、farten 等形式；不是现代网络才新造的词。",
+    "forms": "fart + -ing → farting；fart 也直接作名词。fart around 是较随意的瞎忙、浪费时间表达，要把 around 一起读。",
+    "branches": [
+      [
+        "动作与一次排气",
+        "fart"
+      ],
+      [
+        "活动、动词形式与短语",
+        "farting"
+      ]
+    ],
+    "contrasts": "fart around 不一定涉及字面排气；pass gas 比 fart 委婉；flatulence 是相关的正式名词。",
+    "practice": "The joke about farting made the children laugh.\n\n那个关于放屁的笑话让孩子们笑了起来。",
+    "words": [
+      "fart",
+      "farting"
+    ],
+    "exclude": {
+      "sparrow-fart": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3965",
+    "meaning": "存在、现存的性质；存在及其否定",
+    "core": "EXISTENT：先判断是否处于存在状态",
+    "image": "exist 是存在这个动词，existent 是存在的，existence 是存在这个状态，nonexistent 则是不存在。",
+    "intro": "existent 接拉丁 existens，相应动词 existere 有出现、存在的关系，词族更早带站出来等材料。英语词形对应有借入背景，不只是今天统一换尾巴。",
+    "forms": "exist ↔ existent ↔ existence；non- + existent → nonexistent。动词、性质、状态与否定分别放进相应句子位置。\n\nexist 经法语接拉丁 exsistere 出现、存在；existing 作形容词说已经存在的客户、规则、设施等。",
+    "branches": [
+      [
+        "动作、性质与状态",
+        "exist · existent · existence"
+      ],
+      [
+        "不存在的性质",
+        "nonexistent"
+      ],
+      [
+        "existing：现在已经有的",
+        "exist · existing"
+      ]
+    ],
+    "contrasts": "existent 较正式，existing 在很多日常名词前更自然；存在不自动等于能直接用手触摸，抽象对象是否存在也能成为讨论。",
+    "practice": "The essay asks how we distinguish existent things from imagined ones.\n\n文章问：我们怎样区分实际存在的事物与想象中的事物？",
+    "words": [
+      "exist",
+      "existent",
+      "existence",
+      "nonexistent",
+      "existing"
+    ],
+    "exclude": {
+      "self-existent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4511",
+    "meaning": "不安定、静不下来；这种状态及动作方式",
+    "core": "RESTLESS：rest 安宁休息，加上缺少它的关系",
+    "image": "restless person 坐立不安；restlessness 是这种不安定；move restlessly 则描写动作带着这种状态。",
+    "intro": "restless 是 rest 与 -less 的旧英语构词关系，缺少安宁、休息逐渐扩到不安分、不断寻求变化等用法。",
+    "forms": "rest + -less → restless；restless + -ness → restlessness；restless + -ly → restlessly。-less 否定安宁，-ness 说状态，-ly 说方式。",
+    "branches": [
+      [
+        "休息与不安定性质",
+        "rest · restless"
+      ],
+      [
+        "状态和动作方式",
+        "restlessness · restlessly"
+      ]
+    ],
+    "contrasts": "restless 不等于有活力，常有难以安静下来的感觉；tirelessly 不知疲倦与 restlessly 不安地不是同一方向。",
+    "practice": "His restlessness showed as he shifted restlessly in the chair.\n\n他在椅子上不安地挪动，显出了坐立不安的状态。",
+    "words": [
+      "rest",
+      "restless",
+      "restlessness",
+      "restlessly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3059",
+    "meaning": "树汁、幼树与感伤评价；另有逐渐削弱动词",
+    "core": "SAP：树汁这一组，与挖掉根基这一组分开看",
+    "image": "sap 是植物汁液，sapling 是幼树；sappy 可说情感甜腻、煽情过头；sap confidence 则是逐渐削弱信心。",
+    "intro": "树汁名词继承古英语 sæp；削弱动词经法语挖掘、破坏根基的用法发展，后来可能与抽走汁液、活力的比喻相互加强。人物傻乎乎等义也有多种解释。",
+    "forms": "sap + -ling → sapling；sap + -y → sappy，双写 p。sap 的削弱动词不只用这两条后缀关系解释。",
+    "branches": [
+      [
+        "树汁与年轻树木",
+        "sap〔名词〕· sapling"
+      ],
+      [
+        "感伤、煽情的旧派生",
+        "sappy"
+      ],
+      [
+        "挖根基式的消耗比喻",
+        "sap〔动词〕"
+      ]
+    ],
+    "contrasts": "sappy 的煽情义不是说电影真有树汁；sap energy 也不能只当作植物加工工序。两种具体历史画面保留各自路线。",
+    "practice": "The long wait sapped his energy, but the sappy film still made him cry.\n\n漫长等待耗掉了他的精力，那部煽情电影却还是让他哭了。",
+    "words": [
+      "sap",
+      "sapling",
+      "sappy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3052",
+    "meaning": "野兔；飞奔的口语比喻",
+    "core": "HARE：先是动物名称，再借它的奔跑形象说人",
+    "image": "A hare ran across the field. 是野兔跑过田野；He hared down the path. 则是他沿小路飞奔。",
+    "intro": "动物名词从古英语 hara 经中古英语延续，远源可能与灰色等命名材料有关，但未完全确定。现代奔跑用法取动物的快速动作形象。",
+    "forms": "hare 直接转作快跑动词；过去式 hared，-ing 形式 haring 省 e。旧的骚扰义同形动词另有来源争论，不用来硬解释所有现代例子。",
+    "branches": [
+      [
+        "田野里的动物",
+        "hare〔名词〕"
+      ],
+      [
+        "人的快速动作",
+        "hare〔动词〕"
+      ]
+    ],
+    "contrasts": "hair 头发与 hare 同音，却不是同词拼写变体；hare off 要把 off 的跑开方向一起读。",
+    "practice": "A hare crossed the path just before he hared past.\n\n一只野兔刚穿过小路，他就飞快跑了过去。",
+    "words": [
+      "hare"
+    ],
+    "exclude": {
+      "hare-skin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "harish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4411",
+    "meaning": "用力、短促地拉；相应拖曳船只与可能相关的连接件",
+    "core": "TUG：像拉一下卡住的绳子",
+    "image": "tug at a sleeve 拽袖子；tugboat 用动力拖曳其他船；toggle 早期是机械连接件，后来有开关切换义。",
+    "intro": "tug 接中古英语 tuggen，与早期英语、日耳曼语拉、拖词族相连。toggle 的更远来源未定，可能与这条词族的材料有关，不能当成已证实的现代 tug 加固定后缀。",
+    "forms": "tug + boat → tugboat；单独 tug 也可称拖船。toggle 的机械连接件、开关、切换用法按它自身历史发展理解。\n\n旧栓扣、连接件来源未定，可能与 tug 有关；现代切换义清楚，不把可能来源写成确定构词。\n\ntug 接中古英语 tuggen 与较早英语拉拖词族；名词可说一拽、拖轮，现代 tugged、tugging 双写 g。",
+    "branches": [
+      [
+        "动作及一次拉动",
+        "tug"
+      ],
+      [
+        "执行拖曳的船",
+        "tugboat"
+      ],
+      [
+        "可能相关、远源未定的旧连接件",
+        "toggle"
+      ],
+      [
+        "toggle 的状态切换及规则变化",
+        "toggle · toggles · toggled · toggling"
+      ],
+      [
+        "tug：抓着往回拉的劲",
+        "tug · tugs · tugged · tugging"
+      ]
+    ],
+    "contrasts": "tug 比 pull 常更突出短促、费力；toggle 在软件中说切换状态，不要求用户真的拉一段绳子。",
+    "practice": "The tugboat gave the larger ship a steady pull.\n\n拖船稳稳地牵引着那艘大船。",
+    "words": [
+      "tug",
+      "tugboat",
+      "toggle",
+      "toggles",
+      "toggled",
+      "toggling",
+      "tugs",
+      "tugged",
+      "tugging"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4365",
+    "meaning": "爱玩、俏皮的性质；玩闹气息与动作方式",
+    "core": "PLAYFUL：带一点玩闹，气氛轻松而非严肃对抗",
+    "image": "playful puppy 爱玩的小狗；playfulness 是这种嬉戏、俏皮气息；playfully 则说明动作怎样发生。",
+    "intro": "play + -ful 形成具有玩闹性质的形容词，再以 -ness、-ly 形成相应抽象名词和副词。不是每个 play 的音乐、戏剧等义都能原样塞进 playful。",
+    "forms": "play + -ful → playful；playful + -ness → playfulness；playful + -ly → playfully。-ful 一个 l，后接 -ly 时两者的 l 相邻。",
+    "branches": [
+      [
+        "基础动作与性质",
+        "play · playful"
+      ],
+      [
+        "这种性质与具体方式",
+        "playfulness · playfully"
+      ]
+    ],
+    "contrasts": "playful 描写性质，playfully 描写动作方式；俏皮设计也可说 playful，不只活着的人、动物能带这种感觉。",
+    "practice": "The playful puppy nudged the ball playfully.\n\n爱玩的小狗嬉闹着轻轻碰那个球。",
+    "words": [
+      "play",
+      "playful",
+      "playfulness",
+      "playfully"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4611",
+    "meaning": "区块链；分块记录并以前后引用连接的技术名称",
+    "core": "BLOCKCHAIN：把记录分成块，再连成链",
+    "image": "block 取区块，chain 取前后相连的链；把名字拆开，先看懂这两层结构。",
+    "intro": "block + chain 构成现代技术名词，早期 block chain 等分写形式逐渐固定为连写。两个成分仍是独立常用英语词。",
+    "forms": "block〔区块〕+ chain〔链〕→ blockchain。具体系统如何形成、验证、保存这些区块，由相应技术设计决定。",
+    "branches": [
+      [
+        "名称成分",
+        "block · chain"
+      ],
+      [
+        "组合后的结构名称",
+        "blockchain"
+      ]
+    ],
+    "contrasts": "block 还可指街区、木块或阻挡，chain 还可指连锁店；复合词在具体场景中选择有关义项，不把字典全部义项一起叠加。",
+    "practice": "The diagram shows records grouped into blocks and linked in a blockchain.\n\n图中把记录分成区块，再连接成区块链。",
+    "words": [
+      "block",
+      "chain",
+      "blockchain"
+    ],
+    "exclude": {
+      "on-chain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "off-chain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

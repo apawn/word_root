@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B2751",
+    "meaning": "眼泪这一线的形状、状态和催泪效果",
+    "core": "TEAR：这里读眼泪；撕裂另有读音、来源",
+    "image": "tear → teary / tearful；teardrop 看泪滴形，tearjerker 看催泪效果。",
+    "intro": "先把泪与撕开分开。后续词大多保留眼泪读音，既可以写悲伤，也能写感动、喜悦。",
+    "forms": "tēar → tear；tear + -y/-ful/drop；tear + jerk + -er。\n\n撕裂 tear → tore → torn；泪水 tear 另源且读音不同。tore 后来取用了旧分词的元音材料，词形也会在家族内部类推改换。\n\n古英语流泪词与撕开词不同，两个现代同形词分别读。\n\n撕裂承古英语 teran，与眼泪 tear 的近源和读音不同。",
+    "branches": [
+      [
+        "基础泪、形状与状态",
+        "tear · teardrop · teary · tearful"
+      ],
+      [
+        "催出眼泪的作品",
+        "tearjerker"
+      ],
+      [
+        "tear 的撕裂分支与过去形式",
+        "tear · tore · torn"
+      ],
+      [
+        "tear → tears：眼泪与撕裂的不同读音",
+        "tear · tears"
+      ],
+      [
+        "撕裂支 tear → tearing：两种同形词分别读",
+        "tear · tearing"
+      ]
+    ],
+    "contrasts": "teary 不表示撕破；tearjerker 可带嫌煽情的评价；流泪不必都因悲伤。",
+    "practice": "The tearjerker left her teary but smiling.\n\n那部催泪片让她含着泪，却也带着笑。",
+    "words": [
+      "tear",
+      "teardrop",
+      "teary",
+      "tearful",
+      "tearjerker",
+      "tore",
+      "torn",
+      "tears",
+      "tearing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2630",
+    "meaning": "角度和鱼钩的两条直接来路",
+    "core": "ANGLE：角度看位置，垂钓看鱼钩",
+    "image": "angle 角 → 视角、切入点；angle 垂钓 → angler、angle for。",
+    "intro": "钓鱼与角度可在更远的弯曲概念上联系，但英语里有不同的直接来源。学 angler 时把鱼钩画面补回来，比硬背角度者清楚。",
+    "forms": "angulus → 法语 angle；旧英语 angel 鱼钩 → angle/anglen 垂钓；接 -er。\n\n角经法语、拉丁 angulus，钓鱼动词接本族钩名，两条近源不合并。",
+    "branches": [
+      [
+        "基础词与垂钓者",
+        "angle · angler"
+      ],
+      [
+        "angle → angles：角、观察角度与另路钓鱼词",
+        "angle · angles"
+      ]
+    ],
+    "contrasts": "angle 不读 angel；angler 常强调钩线，angle for 是拐弯争取。",
+    "practice": "The photographer chose a low angle to photograph the angler.\n\n摄影师选了低角度拍摄那位垂钓者。",
+    "words": [
+      "angle",
+      "angler",
+      "angles"
+    ],
+    "exclude": {
+      "off-angle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3683",
+    "meaning": "打猎者扩到主动搜寻者，及女性称呼",
+    "core": "HUNTER：追着一个目标找",
+    "image": "hunter → huntress；headhunter 把寻找目标放在人才、招募语境。",
+    "intro": "目标可以从猎物换成工作、便宜货、人才，但具体组合已经有固定用法。hunter 不总是人，也不单指男性。",
+    "forms": "huntian / hunta → hunt / hunter；hunter + -ess 经缩减 → huntress；head + hunter。\n\n旧英语 huntian、hunta 与中古英语 huntere，现代可对应 hunt 加完整 er。",
+    "branches": [
+      [
+        "猎人、女性称呼与搜寻角色",
+        "hunter · huntress · headhunter"
+      ],
+      [
+        "hunter → hunters：追踪猎物，扩展到主动寻找者",
+        "hunt · hunter · hunters"
+      ]
+    ],
+    "contrasts": "hunter 可指女性；huntress 是性别称呼，不是高级猎人；headhunter 常见招聘义不能按猎杀人的故事理解。",
+    "practice": "The novel’s huntress is a hunter who knows the forest well.\n\n小说中的女猎人是一位熟悉森林的猎人。",
+    "words": [
+      "hunter",
+      "huntress",
+      "headhunter",
+      "hunt",
+      "hunters"
+    ],
+    "exclude": {
+      "house-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "widow-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moth-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "demi-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hunter-gatherer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "manhunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2901",
+    "meaning": "绵羊、照看者与羞窘神情",
+    "core": "SHEEP：动物是基础，人物和表情各有构词",
+    "image": "sheep → shepherd / sheepish；sheepskin 皮，sheepdog 牧羊犬。",
+    "intro": "不把传统比喻当动物学结论，也不让现代字母遮住旧词边界。shepherd 里 ph 不读 f，sheepish 则常用于不好意思的神情。",
+    "forms": "sċēap/sċēp → sheep；sheep + 旧 hierde 牧人 → shepherd；接 -ish、skin、dog。\n\n与 sheep 比较羊群，不由 sheep 派生。flock 接古英语 flocc 人群、队伍，后来扩大到动物群；是否较远与 folk 同源不确定。群体动词由名词转来；绒毛 flock 另有拉丁 floccus 词线。",
+    "branches": [
+      [
+        "羊、看护者与神情",
+        "sheep · shepherd · sheepish"
+      ],
+      [
+        "材料和工作动物",
+        "sheepskin · sheepdog"
+      ],
+      [
+        "flock：另源的群体、成群聚集",
+        "flock · flocks · flocked · flocking"
+      ]
+    ],
+    "contrasts": "sheep 单复数同形；shepherd 元音缩短且 ph 不读 f；sheepish 不等于外形像羊。",
+    "practice": "The shepherd gave a sheepish smile when his sheep blocked the road.\n\n自己的羊挡住道路时，牧羊人不好意思地笑了笑。",
+    "words": [
+      "sheep",
+      "shepherd",
+      "sheepish",
+      "sheepskin",
+      "sheepdog",
+      "flock",
+      "flocks",
+      "flocked",
+      "flocking"
+    ],
+    "exclude": {
+      "sheep-bell": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sheepshead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

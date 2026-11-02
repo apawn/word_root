@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B2772",
+    "meaning": "颈部、绕颈服饰与限制流动的窄部",
+    "core": "NECK：连接两端的较窄一段，形状能借给器物和流程",
+    "image": "neck → necklace、neckline、necktie、turtleneck；bottleneck 接窄部限制；breakneck、redneck 另看固定历史、语气。",
+    "intro": "从身体位置出发，项链、领带、领口各有用途。bottleneck 不是简单有点窄，而是那个窄环节卡住了整体。",
+    "forms": "hnecca → nekke → neck；neck + lace/line/tie；turtle + neck；bottle + neck；其他固定词不机械按字面套人。\n\nneck 继承古英语 hnecca，旧词首 h 消失；necks 的词尾读 /s/。\n\nlace 接旧系带义，组合后弱读，不照单独 lace 的元音读。",
+    "branches": [
+      [
+        "基础与服饰",
+        "neck · necklace · neckline · necktie · turtleneck"
+      ],
+      [
+        "窄部、速度与人物固定词",
+        "bottleneck · breakneck · redneck"
+      ],
+      [
+        "neck → necks：脖颈与细长连接处",
+        "neck · necks"
+      ],
+      [
+        "neck + lace → necklace → necklaces：颈部饰物",
+        "neck · necklace · necklaces"
+      ]
+    ],
+    "contrasts": "neck/throat 脖子与喉；necklace 弱读非 lace 原读；neckline 轮廓非必有 collar；bottleneck 卡整体。",
+    "practice": "She adjusted her necklace above the dress’s neckline.\n\n她在裙子的领口上方整理了项链。",
+    "words": [
+      "neck",
+      "necklace",
+      "neckline",
+      "necktie",
+      "turtleneck",
+      "bottleneck",
+      "breakneck",
+      "redneck",
+      "necks",
+      "necklaces"
+    ],
+    "exclude": {
+      "ring-neck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pencil-neck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "polo-neck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "necked": "常见于带颈部特征的组合或规则动词变化，基础词与领口条已说明，本轮不另列重复词头。",
+      "stiff-necked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "necker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3339",
+    "meaning": "使用者与用户名",
+    "core": "USER：使用某工具、服务的人，不一定是付款或管理的人",
+    "image": "user 为基础，username 是识别账户的名称；从人物到标识相邻学习。",
+    "intro": "账户名不等于真实姓名，使用者也不必是设备所有人。看产品说明时先确认系统把谁称作 user。",
+    "forms": "use + -er → user；user + name → username。\n\n名称识别账户，和现实姓名、展示名称可有区别。",
+    "branches": [
+      [
+        "人物与账户标识",
+        "user · username"
+      ],
+      [
+        "name 的用户身份组合及复数",
+        "username · usernames"
+      ]
+    ],
+    "contrasts": "user 使用者、customer 客户、owner 所有人角色可能重叠；username 与 password 用户名密码不同。",
+    "practice": "The user entered a username and password.\n\n使用者输入了用户名和密码。",
+    "words": [
+      "user",
+      "username",
+      "usernames"
+    ],
+    "exclude": {
+      "single-user": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "user-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B3220",
+    "meaning": "踢的动作与冲击、刺激的扩展",
+    "core": "KICK：脚送出去的一下，后来也说感觉受到冲击",
+    "image": "kick → kicker；kickboxing、kickball 按动作和运动组合，sidekick、kickstand 是已有常见旁支。",
+    "intro": "从踢这个可靠动作出发。a kick 的兴奋感、kicker 的转折都借冲击来理解，早期深源不强定。",
+    "forms": "中古英语 kyken → kick；kick + -er；kick + boxing/ball/stand；sidekick 的人物义按既有历史另看。\n\n中古英语踢词，其他意思沿固定搭配学习。\n\n中古英语旧踢词，北欧远源联系有不同分析；现代 ing 直接加。\n\n中古英语踢义可见，较远北欧联系未定；名词比喻由动作刺激发展。",
+    "branches": [
+      [
+        "动作、感觉与人物或转折",
+        "kick · kicker"
+      ],
+      [
+        "运动与物品",
+        "kickboxing · kickball · kickstand"
+      ],
+      [
+        "人物旁支",
+        "sidekick"
+      ],
+      [
+        "kick → kicked：用脚踢、启动与戒除",
+        "kick · kicked"
+      ],
+      [
+        "kick → kicking：用脚使出一下力",
+        "kick · kicking"
+      ],
+      [
+        "kick → kicks：踢、冲击与兴奋感",
+        "kick · kicks"
+      ]
+    ],
+    "contrasts": "kick 以脚，hit 不限脚；kicker 不保证坏消息；kickball 不是足球总称；kickboxing 保留跨语言命名的可能路径。",
+    "practice": "I get a kick out of playing kickball with my friends.\n\n和朋友玩踢球跑垒游戏让我很开心。",
+    "words": [
+      "kick",
+      "kicker",
+      "kickboxing",
+      "kickball",
+      "kickstand",
+      "sidekick",
+      "kicked",
+      "kicking",
+      "kicks"
+    ],
+    "exclude": {
+      "kick-step": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kick-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2534",
+    "meaning": "广告缩写及广告拦截",
+    "core": "AD：advertisement 缩短后，成了现代复合词材料",
+    "image": "ad 是基础缩略词，adblock 接阻挡功能。",
+    "intro": "这个 ad 是独立的广告词，不是把单词开头 ad- 全当成同一种广告意义。an ad 说一则广告，ads 是复数。",
+    "forms": "advertisement → ad；ad + block → adblock。\n\nad 截短 advertisement，复数直接加 -s；完整原词接引人注意的法语、拉丁词族。独立广告名词不等于拉丁前缀 ad-。",
+    "branches": [
+      [
+        "广告与功能",
+        "ad · adblock"
+      ],
+      [
+        "ad → ads：一则则广告",
+        "ad · ads"
+      ]
+    ],
+    "contrasts": "ad 广告，add 添加发音相同但拼写和来源不同；adblock 与具体软件专名须分清。",
+    "practice": "The adblock feature stopped the ad from loading.\n\n广告拦截功能阻止了那则广告加载。",
+    "words": [
+      "ad",
+      "adblock",
+      "ads"
+    ],
+    "exclude": {
+      "ad-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

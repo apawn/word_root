@@ -1,0 +1,546 @@
+[
+  {
+    "word": "abused",
+    "ipa": "/əˈbjuːzd/",
+    "meaning": "滥用、虐待、辱骂了；受虐待的〔过去式、过去分词〕",
+    "sense": "把人、物、权力用坏、用过头，或以有害方式对待，就是 abused。不同宾语决定是在滥用、虐待还是辱骂。",
+    "split": "abuse 去 e 加完整 -ed。动词末尾 /z/ 后读 /d/；abuse 经法语接拉丁 abuti、abusus 用尽、不当使用，根在 uti 使用。",
+    "history": [
+      [
+        "拉丁 uti → abuti、abusus → 法语 → abuse",
+        "使用 → 用尽、不当使用及有害对待"
+      ],
+      [
+        "abuse 去 e + -ed → abused",
+        "已经滥用、虐待或辱骂"
+      ]
+    ],
+    "explanation": "abused power 滥用权力；verbally abused someone 辱骂某人；an abused animal 受虐待的动物。",
+    "usage": "abused someone’s trust 辜负、滥用别人的信任；badly abused equipment 被粗暴使用的设备。",
+    "contrast": "abuse 名词通常末尾 /s/，动词末尾 /z/，abused 跟着动词读 /zd/。这个词程度较重，不是普通 used 使用的随意替换。",
+    "examples": [
+      [
+        "The character abused the power he had been given.",
+        "这个角色滥用了得到的权力。"
+      ],
+      [
+        "The shelter cared for abused animals.",
+        "收容所照料受过虐待的动物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/abused#English",
+      "https://en.wiktionary.org/wiki/abuse#English"
+    ]
+  },
+  {
+    "word": "betting",
+    "ipa": "/ˈbetɪŋ/",
+    "meaning": "打赌、下注〔现在分词、动名词〕；很有把握地猜测",
+    "sense": "先押一个结果，再等它会不会发生，是 betting。口语说 I’m betting...，有时只是说我很有把握地猜。",
+    "split": "bet 双写 t 加完整 -ing。bet 在十六世纪英语俚语中已有名词、动词，更远来源未定，缩自 abet 等只是分析方案。",
+    "history": [
+      [
+        "早期英语俚语 bet → 现代 bet",
+        "赌注、押结果，远源不确定"
+      ],
+      [
+        "bet 双写 t + -ing → betting",
+        "正在下注、打赌；押某种判断"
+      ]
+    ],
+    "explanation": "betting on a result 对某个结果下注；I’m betting that... 我敢猜……；betting against 下注认为不会成功。",
+    "usage": "betting on good weather 指望天气好；a betting shop 博彩店。",
+    "contrast": "betting on 可以是真下注，也可以比喻把希望押在某种结果上；不是所有含 betting 的句子都实际涉及钱。过去 bet 常仍写 bet，ing 则双 t。",
+    "examples": [
+      [
+        "I’m betting the train will be crowded.",
+        "我敢猜火车会很挤。"
+      ],
+      [
+        "They were betting on the outcome of the game.",
+        "他们当时在赌比赛结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/betting#English",
+      "https://en.wiktionary.org/wiki/bet#English"
+    ]
+  },
+  {
+    "word": "camping",
+    "ipa": "/ˈkæmpɪŋ/",
+    "meaning": "露营、野营〔现在分词、动名词及名词〕",
+    "sense": "出门后在营地、帐篷等临时住处过夜，就是 camping 的日常画面。重点是临时驻下来生活。",
+    "split": "营地义 camp + -ing。现代 camp 经法语 camp、意大利 campo 接拉丁 campus 开阔地、驻扎地；夸张风格 camp 是另一条来路不明的同形词。",
+    "history": [
+      [
+        "拉丁 campus → 意大利语、法语 → camp",
+        "开阔地、驻扎地 → 营地、露营"
+      ],
+      [
+        "camp + -ing → camping",
+        "正在露营；露营活动"
+      ]
+    ],
+    "explanation": "go camping 去露营；camping equipment 露营装备；a camping trip 露营旅行。",
+    "usage": "camping by the lake 在湖边露营；camping in a tent 住帐篷露营。",
+    "contrast": "camping 常用不可数活动名词，不说一次 a camping，通常说 a camping trip。go camping 里的 ing 是常见活动搭配。",
+    "examples": [
+      [
+        "We went camping by the lake.",
+        "我们去湖边露营了。"
+      ],
+      [
+        "The shop sells camping equipment.",
+        "店里卖露营装备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/camping#English",
+      "https://en.wiktionary.org/wiki/camp#English"
+    ]
+  },
+  {
+    "word": "contacted",
+    "ipa": "英 /ˈkɒntæktɪd/；美 /ˈkɑːntæktɪd/，也有后重音变体",
+    "meaning": "联系、接洽了〔过去式、过去分词〕",
+    "sense": "给人发消息、打电话，让原来没接上的双方接起来，就是 contacted。它说联系动作，不保证已经谈妥。",
+    "split": "contact + -ed，/t/ 后读 /ɪd/。contact 借拉丁 contactus 接触，接 com- 与 tangere 碰触的复合材料；英语联系动词从名词发展。",
+    "history": [
+      [
+        "拉丁 contactus → 英语名词 contact；再作动词",
+        "碰触、接触 → 取得联系"
+      ],
+      [
+        "contact + -ed → contacted",
+        "已经联系、接洽"
+      ]
+    ],
+    "explanation": "contacted the organiser 联系了组织者；contacted by email 用邮件联系。",
+    "usage": "had contacted 此前联系过；contacted for comment 被联系征求意见。",
+    "contrast": "contacted someone 通常直接接人，不说 contacted with someone。get in contact with 是另一套名词结构，介词不要挪过来。",
+    "examples": [
+      [
+        "I contacted the organiser by email.",
+        "我用邮件联系了组织者。"
+      ],
+      [
+        "The office contacted us about the change.",
+        "办公室就这项变更联系了我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contacted#English",
+      "https://en.wiktionary.org/wiki/contact#English"
+    ]
+  },
+  {
+    "word": "criticized",
+    "ipa": "/ˈkrɪtɪsaɪzd/",
+    "meaning": "批评、评论了〔过去式、过去分词〕",
+    "sense": "对事情作判断，尤其把不好的地方指出来，就是 criticized。它可以有理由地指出问题，也可能只是责备。",
+    "split": "criticize 去 e 加完整 -ed，/z/ 后读 /d/。critic + -ize 形成动词，critic 经法语、拉丁接希腊 kritikos 善于判断的，较早 krinein 是辨别、判断。",
+    "history": [
+      [
+        "希腊判断词族 → critic；+ -ize → criticize",
+        "评论者、批评者 → 评论、指出缺点"
+      ],
+      [
+        "criticize 去 e + -ed → criticized",
+        "已经作评价、提出批评"
+      ]
+    ],
+    "explanation": "criticized for the delay 因延误受到批评；criticized the proposal 批评提案。",
+    "usage": "widely criticized 广受批评；constructively criticized 以建设性方式批评。",
+    "contrast": "criticized 可以指有根据的批评，不自动等于辱骂。criticised 是常见英式拼法；criticized by 说批评者，criticized for 说批评原因。",
+    "examples": [
+      [
+        "The review criticized the film’s slow pace.",
+        "评论批评了电影节奏缓慢。"
+      ],
+      [
+        "The plan was criticized for its high cost.",
+        "计划因成本过高受到批评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/criticized#English",
+      "https://en.wiktionary.org/wiki/criticize#English"
+    ]
+  },
+  {
+    "word": "decreased",
+    "ipa": "/dɪˈkriːst/",
+    "meaning": "减少、降低了；减少后的〔过去式、过去分词〕",
+    "sense": "原来多一些、大一些，后来往下走，就是 decreased；可以自己变少，也可以被某种改变降下来。",
+    "split": "decrease 去 e 加完整 -ed，末尾 /s/ 后读 /t/。decrease 经法语接拉丁 decrescere，de- 向下、离去与 crescere 生长组合；名词另有借入路径。",
+    "history": [
+      [
+        "拉丁 decrescere → 法语相关动词 → decrease",
+        "增长向下走 → 减少"
+      ],
+      [
+        "decrease 去 e + -ed → decreased",
+        "已经减少、被降低"
+      ]
+    ],
+    "explanation": "decreased by ten percent 减少百分之十；decreased to a lower level 降到较低水平。",
+    "usage": "decreased demand 下降的需求；gradually decreased 逐渐减少。",
+    "contrast": "decreased by 后是减少量，decreased to 后是减少后的终点。sales decreased 是自己下降，the change decreased costs 是某变化降低成本。",
+    "examples": [
+      [
+        "The noise decreased after the doors closed.",
+        "门关上后，噪声减弱了。"
+      ],
+      [
+        "The new design decreased the amount of waste.",
+        "新设计减少了废料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decreased#English",
+      "https://en.wiktionary.org/wiki/decrease#English"
+    ]
+  },
+  {
+    "word": "demons",
+    "ipa": "/ˈdiːmənz/",
+    "meaning": "恶魔；折磨人的内心困扰〔复数〕",
+    "sense": "故事里的恶灵是 demons；心里难以摆脱的恐惧、痛苦，也能像恶魔一样反复纠缠，形成比喻。",
+    "split": "demon + -s，/n/ 后读 /z/。demon 经拉丁接希腊 daimon，古义可指神灵、守护力量等，英语常见邪恶义由后来的宗教、文化使用塑形。",
+    "history": [
+      [
+        "希腊 daimon → 拉丁 daemon、demon → 英语 demon",
+        "旧灵体名 → 英语常见恶魔义"
+      ],
+      [
+        "demon + -s → demons",
+        "多个恶魔；多种纠缠内心的困扰"
+      ]
+    ],
+    "explanation": "demons in a story 故事里的恶魔；inner demons 内心难以摆脱的困扰。",
+    "usage": "battle one’s demons 与内心困扰搏斗；a book about demons 关于恶魔的书。",
+    "contrast": "inner demons 通常是比喻，不等于在说真的超自然存在。古希腊 daimon 的范围也比今天英语恶魔更宽，不能把古义直接倒套现代。",
+    "examples": [
+      [
+        "The story is filled with demons and magical creatures.",
+        "故事里满是恶魔和魔法生物。"
+      ],
+      [
+        "The novel follows a character facing his inner demons.",
+        "小说讲述一个人物面对内心困扰的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/demons#English",
+      "https://en.wiktionary.org/wiki/demon#English"
+    ]
+  },
+  {
+    "word": "deposits",
+    "ipa": "英 /dɪˈpɒzɪts/；美 /dɪˈpɑːzɪts/",
+    "meaning": "存款、押金、预付款；沉积物、矿藏〔复数〕；存放、留下〔第三人称单数〕",
+    "sense": "把东西放下一份、存在一处，就是 deposit。钱可以放下寄存，河水也会把泥沙留下。",
+    "split": "deposit + -s，/t/ 后读 /s/。deposit 名词、动词接拉丁 depositus、depositum，来自 deponere 放下、寄存，较早 ponere 是放置。",
+    "history": [
+      [
+        "拉丁 deponere、depositus、depositum → 英语 deposit",
+        "放下、寄存 → 存放物、沉积物及存放动作"
+      ],
+      [
+        "deposit + -s → deposits",
+        "多笔存放的钱、沉积物；某物存放、留下"
+      ]
+    ],
+    "explanation": "bank deposits 银行存款；mineral deposits 矿藏；deposits sand 留下沙。",
+    "usage": "security deposits 押金；sediment deposits 沉积物。",
+    "contrast": "deposits 是存款、押金还是泥沙矿物，先看搭配。作为动词，the river deposits sand 的河流是留下泥沙的力量。",
+    "examples": [
+      [
+        "The river deposits sand along the bend.",
+        "河水沿弯道留下沙。"
+      ],
+      [
+        "The museum displays samples from mineral deposits.",
+        "博物馆展出矿藏样品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deposits#English",
+      "https://en.wiktionary.org/wiki/deposit#English"
+    ]
+  },
+  {
+    "word": "dragged",
+    "ipa": "/dræɡd/",
+    "meaning": "拖、拖动、拖延了〔过去式、过去分词〕",
+    "sense": "东西不轻快地跟着走，你得费力把它拖过去，就是 dragged。事情拖拖拉拉、时间过得慢，也能借这个画面。",
+    "split": "drag 双写 g，加完整 -ed，/ɡ/ 后读 /d/。普通拖动义涉及古英语 dragan 与北欧 draga 等相关形式汇合，和 draw 是历史近亲。",
+    "history": [
+      [
+        "古英语、北欧拉词的相关形式 → drag",
+        "拉、拖 → 拖慢、费力推进"
+      ],
+      [
+        "drag 双写 g + -ed → dragged",
+        "过去拖动；事情过去拖得很久"
+      ]
+    ],
+    "explanation": "dragged the box 拖箱子；dragged on 拖延下去；dragged into an argument 被卷进争论。",
+    "usage": "dragged a file 拖动文件；the meeting dragged 会议拖得很闷长。",
+    "contrast": "dragged 可说实际拖拽、界面拖动，也可比喻进度慢。末尾双写 g 是拼写规则，读音仍一个 /ɡ/ 接 /d/，不是两个 g 音。",
+    "examples": [
+      [
+        "We dragged the heavy box across the floor.",
+        "我们把重箱子沿地板拖过去。"
+      ],
+      [
+        "The meeting dragged on for another hour.",
+        "会议又拖了一个小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dragged#English",
+      "https://en.wiktionary.org/wiki/drag#English"
+    ]
+  },
+  {
+    "word": "encounters",
+    "ipa": "英 /ɪnˈkaʊntəz/；美 /ɪnˈkaʊntərz/",
+    "meaning": "相遇、遭遇〔复数〕；遇到、碰上〔第三人称单数〕",
+    "sense": "往前走，迎面碰到一个人、一件事，就是 encounters。有时是偶遇，有时是遇到要处理的问题。",
+    "split": "encounter + -s，词尾读 /z/。名词、动词经法语 encontre、encontrer 等相遇材料，远接晚期拉丁 incontra 在面前、相对。",
+    "history": [
+      [
+        "晚期拉丁 incontra → 法语相遇词 → encounter",
+        "在面前、相对 → 交锋、相遇，后范围放宽"
+      ],
+      [
+        "encounter + -s → encounters",
+        "多次相遇；某人或系统碰到问题"
+      ]
+    ],
+    "explanation": "chance encounters 偶遇；encounters a problem 遇到问题；close encounters 近距离接触。",
+    "usage": "memorable encounters 难忘的相遇；encounters difficulties 遭遇困难。",
+    "contrast": "encounters 常带事先没安排、迎面遇上的感觉，比普通 planned meetings 更像碰上。动词后通常直接接对象，不必再加 with。",
+    "examples": [
+      [
+        "The book describes her encounters with local artists.",
+        "书中描写了她与当地艺术家的相遇。"
+      ],
+      [
+        "The program stops when it encounters an error.",
+        "程序遇到错误时停止。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encounters#English",
+      "https://en.wiktionary.org/wiki/encounter#English"
+    ]
+  },
+  {
+    "word": "ensuring",
+    "ipa": "英 /ɪnˈʃʊərɪŋ/；美 /ɪnˈʃʊrɪŋ/，也有 /ɪnˈʃɔːrɪŋ/ 等变体",
+    "meaning": "确保、保证〔现在分词、动名词〕",
+    "sense": "不能只说希望如此，还要把条件安排好，让结果稳稳成立，这就是 ensuring。",
+    "split": "ensure 去 e 加完整 -ing。ensure 经盎格鲁诺曼语 enseurer，en- 使成为与 seur 确定、安全组合；更早接拉丁 securus 免于担忧的词族。",
+    "history": [
+      [
+        "拉丁 securus → 法语 seur、enseurer → ensure",
+        "安全、确定 → 使结果有保证"
+      ],
+      [
+        "ensure 去 e + -ing → ensuring",
+        "确保某条件、结果成立的过程"
+      ]
+    ],
+    "explanation": "ensuring accuracy 确保准确；ensuring that everyone understands 确保每个人理解。",
+    "usage": "a way of ensuring consistency 保证一致性的办法；ensuring access 确保能够进入、使用。",
+    "contrast": "ensuring 常接名词或 that 从句说明确保什么。assure someone 强调让人放心，ensure something 强调让事情确实发生，两种句式对象不同。",
+    "examples": [
+      [
+        "Ensuring accuracy takes time.",
+        "确保准确需要时间。"
+      ],
+      [
+        "She is responsible for ensuring that everyone receives a copy.",
+        "她负责确保每个人都收到一份。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ensuring#English",
+      "https://en.wiktionary.org/wiki/ensure#English"
+    ]
+  },
+  {
+    "word": "enterprises",
+    "ipa": "英 /ˈentəpraɪzɪz/；美 /ˈentərpraɪzɪz/",
+    "meaning": "企业；艰巨事业、项目〔复数〕",
+    "sense": "有一件值得着手承担、要组织资源去做的事，就是 enterprise；固定经营这样的活动，也就形成企业名词。",
+    "split": "enterprise + -s，/z/ 后读 /ɪz/。enterprise 借法语 entreprise，来自 entreprendre 着手承担的分词名词，prendre 远接拉丁 prehendere 抓取。",
+    "history": [
+      [
+        "法语 entreprendre → entreprise → 英语 enterprise",
+        "着手承担 → 事业、经营实体"
+      ],
+      [
+        "enterprise + -s → enterprises",
+        "多家企业；多项艰巨事业"
+      ]
+    ],
+    "explanation": "small enterprises 小企业；social enterprises 社会企业；large-scale enterprises 大型事业、企业。",
+    "usage": "local enterprises 当地企业；ambitious enterprises 雄心勃勃的事业。",
+    "contrast": "enterprises 常数企业、项目；enterprise 不可数时又可说进取、主动精神。企业义不限于大公司，小经营实体也能用。",
+    "examples": [
+      [
+        "Several small enterprises share the building.",
+        "几家小企业共用这栋楼。"
+      ],
+      [
+        "The book describes ambitious scientific enterprises.",
+        "书中描写了雄心勃勃的科学事业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enterprises#English",
+      "https://en.wiktionary.org/wiki/enterprise#English"
+    ]
+  },
+  {
+    "word": "exams",
+    "ipa": "/ɪɡˈzæmz/",
+    "meaning": "考试；检查〔复数〕",
+    "sense": "检查学得怎样、某件东西处在什么状态，都有 exam 的考查画面。学校语境最常说一场场考试。",
+    "split": "exam + -s，/m/ 后读 /z/。exam 缩自较早的 examination，远接拉丁 examen、examinare 称量、检验词族；不是长词一定由短词后来加尾形成。",
+    "history": [
+      [
+        "examination → 截短 exam",
+        "考试、检查的长名称缩为日常短词"
+      ],
+      [
+        "exam + -s → exams",
+        "多场考试或检查"
+      ]
+    ],
+    "explanation": "final exams 期末考试；take exams 参加考试；pass exams 通过考试。",
+    "usage": "prepare for exams 备考；eye exams 眼部检查。",
+    "contrast": "exams 不只说学校考试，eye exams 等搭配就是检查。take an exam 常说参加考试，pass an exam 才表示通过。",
+    "examples": [
+      [
+        "The students are preparing for their final exams.",
+        "学生们正在准备期末考试。"
+      ],
+      [
+        "She passed all her exams.",
+        "她所有考试都通过了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exams#English",
+      "https://en.wiktionary.org/wiki/exam#English"
+    ]
+  },
+  {
+    "word": "holdings",
+    "ipa": "英 /ˈhəʊldɪŋz/；美 /ˈhoʊldɪŋz/",
+    "meaning": "持有的财产、土地、证券；馆藏〔复数〕",
+    "sense": "一个人、机构手里保有的东西，集合起来就是 holdings。可以是资产，也可以是博物馆、图书馆保存的藏品。",
+    "split": "hold + -ing → holding，再加 -s，/ŋ/ 后读 /z/。hold 接古英语 healdan 拿住、保持，名词 holding 从持有动作转到所持有之物。",
+    "history": [
+      [
+        "hold + -ing → holding 名词",
+        "持有 → 所保有的土地、资产或物品"
+      ],
+      [
+        "holding + -s → holdings",
+        "各项持有物；机构的馆藏"
+      ]
+    ],
+    "explanation": "land holdings 持有的土地；museum holdings 博物馆馆藏；library holdings 图书馆馆藏。",
+    "usage": "financial holdings 所持金融资产；expand the holdings 扩充藏品或持有资产。",
+    "contrast": "holdings 是所持有的东西，holders 是持有者。holding company 的 holding 是固定修饰语，用单数说持股控制的关系。",
+    "examples": [
+      [
+        "The library is digitising part of its holdings.",
+        "图书馆正在把部分馆藏数字化。"
+      ],
+      [
+        "The map shows the family’s land holdings.",
+        "地图标出了这家人持有的土地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/holdings#English",
+      "https://en.wiktionary.org/wiki/holding#English"
+    ]
+  },
+  {
+    "word": "interviewed",
+    "ipa": "英 /ˈɪntəvjuːd/；美 /ˈɪntərvjuːd/",
+    "meaning": "采访、面试、访谈了〔过去式、过去分词〕",
+    "sense": "通过见面、交谈、提问来了解一个人，就是 interviewed。记者了解经历叫采访，雇主了解应聘者则常叫面试。",
+    "split": "interview + -ed，元音 /uː/ 后读 /d/。interview 借法语 entreveue 会面，较早 entre- 相互与 veoir 看形成相关用法，英语后来作动词。",
+    "history": [
+      [
+        "法语 entreveue → interview；名词转动词",
+        "相互看见、会面 → 用问答了解对方"
+      ],
+      [
+        "interview + -ed → interviewed",
+        "过去采访、面试或被访谈"
+      ]
+    ],
+    "explanation": "interviewed a candidate 面试候选人；interviewed an artist 采访艺术家；interviewed for a job 参加求职面试。",
+    "usage": "was interviewed 被采访、被面试；interviewed on the radio 在电台受访。",
+    "contrast": "interviewed someone 是提问、了解别人的一方；was interviewed 是被问的一方。求职语境也常用 interviewed for 说去参加面试，注意结构。",
+    "examples": [
+      [
+        "The reporter interviewed the artist in her studio.",
+        "记者在艺术家的工作室采访了她。"
+      ],
+      [
+        "I was interviewed for the position last week.",
+        "我上周参加了这个职位的面试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interviewed#English",
+      "https://en.wiktionary.org/wiki/interview#English"
+    ]
+  },
+  {
+    "word": "leaked",
+    "ipa": "/liːkt/",
+    "meaning": "漏出、泄露了；被泄露的〔过去式、过去分词〕",
+    "sense": "液体从不该有的缺口流出去，是 leaked；原本受限制的消息流到外面，也像发生了泄漏。",
+    "split": "leak + -ed，/k/ 后读 /t/。leak 接中古英语 leken，与日耳曼流漏词族相关；本族、荷兰语、北欧语等直接来源分析不同。",
+    "history": [
+      [
+        "中古英语 leken → leak",
+        "液体从缺口进出；较早传入路线有讨论"
+      ],
+      [
+        "leak + -ed → leaked",
+        "已经漏水、漏出或泄露信息"
+      ]
+    ],
+    "explanation": "leaked water 漏水；leaked information 泄露的信息；a leaked report 被泄露的报告。",
+    "usage": "leaked out 漏出、消息传开；leaked to the press 泄露给媒体。",
+    "contrast": "leaked 可说容器漏，也可说人让消息流出去：the pipe leaked 和 someone leaked the report 的主语作用不同。leaked report 不自动说明内容真假。",
+    "examples": [
+      [
+        "The old bottle leaked inside the bag.",
+        "旧瓶子在包里漏水了。"
+      ],
+      [
+        "The report was leaked before its official release.",
+        "报告在正式发布前被泄露了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leaked#English",
+      "https://en.wiktionary.org/wiki/leak#English"
+    ]
+  }
+]

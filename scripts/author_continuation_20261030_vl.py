@@ -1,0 +1,89 @@
+"""Common borrowed nouns, yielding, tolerance and age comparison."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3695':dict(words=['cap','cape','chapel'],label='chapel：披风词怎样走到礼拜堂',note='chapel 经法语 chapele 接中古拉丁 capella，与 cappa 披风的小称形式有关；圣马丁披风的命名故事是传统解释，另有祭坛遮盖物解释。'),
+ 'A1759':dict(words=['cigar','cigarette'],label='cigar → cigarette：法语小称与整词借入',note='cigarette 在法语中由 cigare 加 -ette 形成；英语借入整词，不说英语使用者直接把 cigar 加任意字母变成香烟。'),
+ 'B4149':dict(words=['render','surrender'],label='render → surrender：交还、交出去',note='古法语 sur- + rendre 构成 surrendre，发展为交出控制或所有权、投降。'),
+ 'A1904':dict(words=['tolerate','tolerant','tolerance'],label='tolerate／tolerant／tolerance：承受与容许',note='几词分别接拉丁 tolerare、tolerans、tolerantia 等材料；现代形式能相互对照，历史上并非英语先有 tolerate 再现场换尾。'),
+ 'A1935':dict(words=['tolerant','tolerance'],label='tolerant ↔ tolerance：性质与容许程度',note='-ant／-ance 的形式对应可帮助记忆；tolerance 从承受、容忍发展出允许偏差的技术义。'),
+ 'B3209':dict(words=['essence','essential'],label='essence → essential：本质、构成本质的、不可缺少的',note='essence、essential 接拉丁 essentia、essentialis；这是阅读顺序，essential 在英语记录中较早，不能倒写成英语 essence 先造出了它。'),
+ 'B2579':dict(words=['young','younger','youngest'],label='young → younger → youngest',note='young 的常见标准发音 /ŋ/，younger、youngest 通常另有 /ɡ/；最高级明确所比较的人群。'),
+ 'A1851':dict(words=['cabin','cabinet','cabana'],label='cabin／cabinet 与 cabana：capanna 小屋的不同后裔',note='cabana 经美洲西班牙语借入，与 cabin 同接小屋词族；cabinet 是其法语指小支线。更早 capanna 来源不明，不与 casino 的 casa 强行合并。'),
+}
+W('chapel','/ˈtʃæpəl/','小教堂、礼拜堂；教堂内的附属礼拜空间',
+ '医院、学校、城堡里一个供人礼拜的地方，或者大教堂里单独的一间礼拜空间，都可能叫 chapel。它不一定是独立的小楼。',
+ '经古法语 chapele 接中古拉丁 capella，小称形式往前联系 cappa 披风。传统解释联系保存圣马丁披风的圣所，也有祭坛遮盖物等解释；不能把某个故事写成唯一确证路线。',
+ [['晚期拉丁 cappa → capella','披风 → 小披风；礼拜场所名称的命名联系有不同解释'],['中古拉丁 capella → 法语 chapele → chapel','圣所、礼拜堂 → 独立或附属的礼拜空间']],
+ 'a school chapel 学校礼拜堂；a hospital chapel 医院礼拜堂；a side chapel 教堂侧礼拜堂；a wedding in the chapel 在礼拜堂举行的婚礼。',
+ 'a small chapel；the college chapel。','church 可以说教堂、教会，chapel 常指附属或专门用途的礼拜场所，也有教派、地区差异；不能只用建筑大小机械区分。',
+ ('The college chapel is open to visitors in the afternoon.','学院礼拜堂下午向访客开放。'),('They found a quiet side chapel inside the cathedral.','他们在大教堂里面找到一间安静的侧礼拜堂。'),sources=['https://www.etymonline.com/word/chapel','https://en.wiktionary.org/wiki/chapel#English'])
+W('cigar','英 /sɪˈɡɑː/；美 /sɪˈɡɑːr/','雪茄',
+ '它通常是一卷烟草，外层也用烟叶包裹。先抓住卷成一支的烟草这个实物，再与纸卷香烟 cigarette 区分。',
+ '英语借自西班牙 cigarro；更早来源有争议，包括美洲语言吸烟词的解释及与西班牙昆虫名称有关的解释，不能只选一个写成定论。法语 cigare 是 cigarette 的直接底词。',
+ [['西班牙 cigarro → 英语 cigar、法语 cigare','雪茄名称；更早来源不定'],['法语 cigare + -ette → cigarette','小称形式发展为纸卷香烟名']],
+ 'a cigar 一支雪茄；a cigar box 雪茄盒；a cigar case 雪茄盒、套；cigar smoke 雪茄烟。重音在后面。',
+ 'a box of cigars；an unlit cigar。','cigar 常见烟叶外包，cigarette 常见纸外包。close, but no cigar 是差一点、仍未成功的口语说法，不是在讨论一支真的雪茄。',
+ ('The museum displayed an old wooden cigar box.','博物馆展出了一只旧木雪茄盒。'),('He placed the unlit cigar back in its case.','他把未点燃的雪茄放回了盒里。'),sources=['https://www.etymonline.com/word/cigar','https://en.wiktionary.org/wiki/cigar#English'])
+W('cigarette','英 /ˌsɪɡəˈret/；美常 /ˈsɪɡəret/','香烟、纸烟',
+ '常见的是把细烟丝卷进薄纸里，形成细长的一支。这个纸卷烟草的成品叫 cigarette。',
+ '经法语 cigarette 借入，法语 cigare 雪茄加指小词尾 -ette。英语通常把它当完整名称；现代 cigarette 与 cigar 的区别涉及制作和包装，不只是同一物体大小不同。',
+ [['西班牙 cigarro → 法语 cigare','雪茄名借入法语'],['法语 cigare + -ette → cigarette → 英语','小称名称 → 香烟、纸烟']],
+ 'a cigarette 一支香烟；a packet of cigarettes 一包香烟〔英式常见〕；a pack of cigarettes 一包香烟〔美式常见〕；a cigarette butt 烟头。',
+ 'cigarette smoke；a cigarette packet。','英式常重读最后 /ret/，美式也常重读前面。构词上的小称是历史线索，不表示今天可把任何小烟草制品都叫 cigarette。',
+ ('There were cigarette butts beside the bench.','长椅旁有几个烟头。'),('The artist painted a cigarette packet on the table.','画家画了桌上的一包香烟。'),sources=['https://www.etymonline.com/word/cigarette','https://en.wiktionary.org/wiki/cigarette#English'])
+W('surrender','英 /səˈrendə/；美 /səˈrendər/','投降；交出、放弃〔控制、权利等〕；投降、交出〔名词〕',
+ '原来东西在你手里、决定权在你这里，现在你把它交给另一方。交的是自己或抵抗，就叫投降；交的是控制权，也可以用 surrender。',
+ '古法语 sur- 在上、越过 + rendre 交还 → surrendre 交出，经法语进入英语。rendre 往前接拉丁 reddere 给回；现代不能把 surrender 拆成表示确定的 sure 和 rend。',
+ [['拉丁 reddere → 法语 rendre','给回、交出、呈交'],['法语 sur- + rendre → surrendre → surrender','交给另一方 → 交出、屈服、投降']],
+ 'surrender to someone 向某人投降；surrender control 交出控制权；surrender a document 交出证件；refuse to surrender 拒绝投降。',
+ 'surrender without a fight；the surrender of control。','surrender 可不及物，直接说投降；及物时要说交出什么。give up 范围更广，surrender 更容易带有控制、抵抗被让出的意味。',
+ ('The soldiers were ordered to surrender.','士兵们接到了投降的命令。'),('She was unwilling to surrender control of the project.','她不愿交出项目的控制权。'),sources=['https://www.etymonline.com/word/surrender','https://en.wiktionary.org/wiki/surrender#English'])
+W('tolerant','英 /ˈtɒlərənt/；美 /ˈtɑːlərənt/','宽容的、能容忍的；耐受……的',
+ '别人有不同习惯或意见，你不一定赞同，但能容许它存在。换成植物、材料时，就是某种条件来了，它还能承受。',
+ '经法语 tolérant 及拉丁 tolerans、tolerant-，是 tolerare 承受、容忍的现在分词材料。现代可与 tolerate、tolerance 对照，历史不只是英语动词现场换成 -ant。',
+ [['拉丁 tolerare → tolerans、tolerant-','承受、容忍 → 能承受、容忍的'],['法语、英语 tolerant','宽容；对某条件有耐受能力']],
+ 'tolerant of different views 容得下不同观点；a tolerant attitude 宽容的态度；tolerant of dry conditions 耐干旱条件的。',
+ 'be tolerant of mistakes；more tolerant toward others。','tolerant 常说容得下差异，不一定是赞成。植物 tolerant of heat 能耐热，也不等于温度越高长得越好。',
+ ('A good discussion needs people who are tolerant of different views.','好的讨论需要能包容不同观点的人。'),('These plants are tolerant of dry conditions.','这些植物能耐受干燥环境。'),sources=['https://www.etymonline.com/word/tolerant','https://en.wiktionary.org/wiki/tolerant#English'])
+W('tolerance','英 /ˈtɒlərəns/；美 /ˈtɑːlərəns/','宽容、容忍；耐受力；允许偏差、公差',
+ '能容得下多少、承受多少，是 tolerance 的共同线索。人可容许不同意见，材料可承受条件变化，零件尺寸也可允许一点点误差。',
+ '经法语 tolerance 和拉丁 tolerantia 承受、忍耐，接 tolerare。与 tolerant 的 -ant／-ance 有形式对应，但名词有自己的借入历史；后来发展出工程中允许偏差的用法。',
+ [['拉丁 tolerare、tolerantia → 法语、英语 tolerance','承受、忍耐 → 宽容、耐受'],['容许范围的技术分支','尺寸等可接受的变化量、允许偏差']],
+ 'tolerance of different beliefs 对不同信仰的宽容；a low tolerance for noise 很受不了噪声；within tolerance 在允许偏差内；manufacturing tolerances 制造公差。',
+ 'show tolerance；a tolerance of one millimetre。','工程里的 tolerance 是允许偏差的范围，不等于已经测到的实际错误。a low tolerance for waiting 是不耐等的描述，不必机械译成宽容度。',
+ ('She has very little tolerance for unnecessary noise.','她很受不了不必要的噪声。'),('The parts must fit within the specified tolerance.','这些零件的配合必须在规定公差范围内。'),sources=['https://www.etymonline.com/word/tolerance','https://en.wiktionary.org/wiki/tolerance#English'])
+W('essence','/ˈesəns/','本质、实质、精髓；香精、浓缩提取液',
+ '把细节先拿掉，仍让这件事成为它自己的核心，是 essence。说香精时，则是把一种气味、味道集中的成分取出来。',
+ '经法语拼写影响形成现代词形，往前接拉丁 essentia 存在、本质，由 esse 是、存在的材料形成，用来对应希腊 ousia。essential 是同族的另一借词，英语记录反而较早。',
+ [['拉丁 esse → essentia','存在 → 本质、实质'],['拉丁、法语相关形式 → 英语 essence','核心性质；后来也指赋予特征的浓缩成分']],
+ 'the essence of an idea 一个想法的精髓；in essence 本质上、说到底；capture the essence 抓住精髓；vanilla essence 香草香精。',
+ 'the very essence of ...；Time is of the essence。','in essence 常用来概括核心；of the essence 表示至关重要，Time is of the essence 就是时间至关重要。香精义是另一常见支线，不要求每次都先想哲学。',
+ ('This short example captures the essence of the idea.','这个简短例子抓住了想法的精髓。'),('Add a few drops of vanilla essence to the mixture.','往混合物中滴几滴香草香精。'),sources=['https://www.etymonline.com/word/essence','https://en.wiktionary.org/wiki/essence#English'])
+W('younger','英 /ˈjʌŋɡə/；美 /ˈjʌŋɡər/','更年轻的、年龄较小的；young 的比较级',
+ '把两个人的年龄一比，年纪小一些的就是 younger。my younger sister 只说她比我小，完全可能已经成年。',
+ 'young + 比较级 -er；常见标准读音在 /ŋ/ 后还有 /ɡ/。承接古英语年轻词及其比较形式；与日耳曼语其他年轻词同族。',
+ [['古英语 geong 等 → young','处于生命或发展的较早阶段'],['young + 比较级 -er → younger','与另一个对象相比更年轻']],
+ 'younger than me 比我年轻；a younger brother 弟弟；two years younger 小两岁；a younger generation 较年轻的一代。',
+ 'look younger；when I was younger。','younger 比的是年龄，不等于一定是少年。two years younger than me 是比我小两岁；时间差直接放在 younger 前面。',
+ ('My brother is three years younger than me.','我弟弟比我小三岁。'),('I lived near the coast when I was younger.','我年轻些的时候住在海边。'),sources=['https://www.etymonline.com/word/young','https://en.wiktionary.org/wiki/younger#English'])
+W('youngest','/ˈjʌŋɡɪst/','最年轻的、年龄最小的；young 的最高级',
+ '把一组人的年龄排起来，最小的那位就是 the youngest。先看比较的是所有孩子、所有女儿，还是全队成员。',
+ 'young + 最高级 -est；常见标准读音 /ŋ/ 后有 /ɡ/。与 young、younger 连读，分别是年轻、更年轻、在某个范围内最年轻。',
+ [['young','年轻、生命发展较早'],['young + -er／-est → younger／youngest','比较两者 → 在限定范围内最年轻']],
+ 'the youngest child 最小的孩子；her youngest daughter 她最小的女儿；the youngest of three 三人中最小的；the youngest member 最年轻的成员。',
+ 'at the youngest age；the youngest in the family。','her youngest son 是儿子们中最小的，不保证他是全部孩子中最小的；范围由名词和上下文决定。有 her、my 等限定词时不用再加 the。',
+ ('She is the youngest of four children.','四个孩子中她最小。'),('Our youngest team member suggested the winning idea.','队里最年轻的成员提出了最终获选的点子。'),sources=['https://www.etymonline.com/word/young','https://en.wiktionary.org/wiki/youngest#English'])
+W('cabana','英 /kəˈbɑːnə/；美 /kəˈbænə/','海滩、泳池旁的小屋、遮阳休息棚；小屋',
+ '泳池或海边有一间小棚屋，可以换衣、遮阳、放东西或休息，常叫 cabana。它突出简便的遮蔽和休息空间。',
+ '经美洲西班牙语 cabaña 借入，与 cabin 经法语借入的路线不同，但都追到 capanna 小屋词族，更早来源不明。现代不是 cab 出租车加 -ana。',
+ [['capanna 小屋 → 西班牙 cabaña','简易小屋名称'],['美洲西班牙语 → 英语 cabana','小屋；常指海滩、泳池边休息、换衣空间']],
+ 'a beach cabana 海滩小屋；a poolside cabana 泳池边休息棚；rent a cabana 租一间休息棚；a shaded cabana 有遮阳的小屋。',
+ 'relax in a cabana；a cabana beside the pool。','cabin 可说林间小屋、船舱或机舱，cabana 常与海滩、泳池休息空间相连。两者同族，但现代范围不一样。',
+ ('We left our towels in the cabana beside the pool.','我们把毛巾放在泳池旁的小屋里。'),('The family rested in a shaded cabana after lunch.','午饭后，一家人在有遮阳的休息棚里休息。'),sources=['https://www.etymonline.com/word/cabana','https://en.wiktionary.org/wiki/cabana#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_vl',ROOTS,WORDS)
+ extend_lessons()

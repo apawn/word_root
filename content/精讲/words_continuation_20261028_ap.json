@@ -1,0 +1,954 @@
+[
+  {
+    "word": "change",
+    "ipa": "/tʃeɪndʒ/",
+    "meaning": "改变；更换；变化；零钱、找零",
+    "sense": "原来是这个，后来换成另一个或变成另一种样子；付出整钱，拿回的小钱也来自交换。",
+    "split": "经古法语 changier 接拉丁 cambīre、晚期拉丁 cambiāre 的交换、更换词族。名词经法语 change 与相应动词相连，不是 chan + ge。",
+    "history": [
+      [
+        "拉丁 cambīre / 晚期拉丁 cambiāre → 古法语 changier",
+        "交换、更换"
+      ],
+      [
+        "中古英语 changen / change → 英语 change",
+        "更换、改变；变化、找零"
+      ]
+    ],
+    "explanation": "change your mind 改主意，change clothes 换衣服；a change 是一次变化或更换，some change 是零钱，the change 可指找零。changed 和 changing 都保留 /dʒ/ 音。",
+    "usage": "change into；change your mind；make a change；keep the change。",
+    "contrast": "change 可以变好也可以变坏；improve 明确改善。You have changed 不自动是夸奖，也不一定是责备。",
+    "examples": [
+      [
+        "I changed my mind after reading the report.",
+        "看完报告后，我改变了主意。"
+      ],
+      [
+        "Here is your change.",
+        "这是找给你的零钱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/change#English"
+    ]
+  },
+  {
+    "word": "changer",
+    "ipa": "英 /ˈtʃeɪndʒə/；美 /ˈtʃeɪndʒər/",
+    "meaning": "改变、更换某物的人或装置",
+    "sense": "谁在换、什么装置负责换，就把它叫作某种 changer。",
+    "split": "change + -er，去掉末尾 e 接 -er；中古英语 chaungere、chaungeour 已有兑换钱币者的意思。",
+    "history": [
+      [
+        "拉丁 cambīre / 晚期拉丁 cambiāre → 古法语 changier",
+        "交换、更换"
+      ],
+      [
+        "中古英语 changen / change → 英语 change",
+        "更换、改变；变化、找零"
+      ],
+      [
+        "change + -er → changer",
+        "执行改变、更换的人或装置"
+      ]
+    ],
+    "explanation": "a money changer 兑换货币，a tire changer 可指换胎者或设备。通常带前面的限定语，比单独说 a changer 清楚；game changer 常分写，表示改变局面的事物。",
+    "usage": "a money changer；a tire changer；a disc changer。",
+    "contrast": "changer 说明角色、装置，changeable 说明能变、易变的性质。钱币兑换者不是“一个多变的人”。",
+    "examples": [
+      [
+        "The machine has an automatic tool changer.",
+        "机器有自动换刀装置。"
+      ],
+      [
+        "The money changer counted the notes carefully.",
+        "钱币兑换者仔细清点钞票。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/changer#English"
+    ]
+  },
+  {
+    "word": "changeable",
+    "ipa": "/ˈtʃeɪndʒəbəl/",
+    "meaning": "多变的；可更改的",
+    "sense": "一会儿晴一会儿雨，是容易变；设置能换，是可以变。",
+    "split": "现代对应 change + -able，保留 e；历史有中古英语 chaungeable、古北法语 chaungeable，来路与 change 相连。",
+    "history": [
+      [
+        "拉丁 cambīre / 晚期拉丁 cambiāre → 古法语 changier",
+        "交换、更换"
+      ],
+      [
+        "中古英语 changen / change → 英语 change",
+        "更换、改变；变化、找零"
+      ],
+      [
+        "change + -able → changeable",
+        "可改变的；容易改变的"
+      ]
+    ],
+    "explanation": "changeable weather 是多变天气，a changeable schedule 是可变、易变的日程。-able 不保证变化已经发生，只说能力、倾向。",
+    "usage": "changeable weather；a changeable mood；a changeable schedule。",
+    "contrast": "changeable 易变或可变，changed 已变；一个 changeable plan 到现在也可能 unchanged。",
+    "examples": [
+      [
+        "The weather is very changeable in spring.",
+        "春天天气很多变。"
+      ],
+      [
+        "The design includes changeable panels.",
+        "设计包含可更换面板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/changeable#English"
+    ]
+  },
+  {
+    "word": "unchangeable",
+    "ipa": "/ʌnˈtʃeɪndʒəbəl/",
+    "meaning": "不可改变的；固定不变的",
+    "sense": "想动它也动不了，或规则、性质不允许把它改掉。",
+    "split": "un-（不）+ changeable，中古英语已有 unchaungeable。否定的是可以改变这一性质。",
+    "history": [
+      [
+        "拉丁 cambīre / 晚期拉丁 cambiāre → 古法语 changier",
+        "交换、更换"
+      ],
+      [
+        "中古英语 changen / change → 英语 change",
+        "更换、改变；变化、找零"
+      ],
+      [
+        "changeable → un- + changeable → unchangeable",
+        "不能改变的"
+      ]
+    ],
+    "explanation": "an unchangeable fact 是无法改变的事实，an unchangeable setting 是不能改的设置。日常说法可能是强调坚定，不一定声称宇宙中绝对永恒。",
+    "usage": "an unchangeable fact；an unchangeable rule；seem unchangeable。",
+    "contrast": "unchangeable 不能变；unchanged 到目前没变。今天没修改的草稿 unchanged，仍然可以随时改。",
+    "examples": [
+      [
+        "The past is unchangeable, but our next decision is not.",
+        "过去改不了，但下一步决定还能改。"
+      ],
+      [
+        "The characters treat the old custom as an unchangeable rule.",
+        "人物们把旧习俗当作不能改的规矩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unchangeable#English"
+    ]
+  },
+  {
+    "word": "unchanged",
+    "ipa": "/ʌnˈtʃeɪndʒd/",
+    "meaning": "未改变的；保持原样的",
+    "sense": "拿现在和之前对一下，还是同一个样子。",
+    "split": "un-（不、未）+ changed，changed 为 change + -ed，-ed 在 /dʒ/ 后读 /d/，不是另添一个 /ɪd/ 音节。",
+    "history": [
+      [
+        "拉丁 cambīre / 晚期拉丁 cambiāre → 古法语 changier",
+        "交换、更换"
+      ],
+      [
+        "中古英语 changen / change → 英语 change",
+        "更换、改变；变化、找零"
+      ],
+      [
+        "change → changed；un- + changed → unchanged",
+        "未发生改变的状态"
+      ]
+    ],
+    "explanation": "remain unchanged 是保持不变，leave something unchanged 是让某物保留原样。只描述比较期间的结果，不说以后不能变。",
+    "usage": "remain unchanged；leave unchanged；largely unchanged。",
+    "contrast": "unchanged 未变与 unchangeable 不可变不同；unchanging 常着重持续不变的特征。",
+    "examples": [
+      [
+        "The opening hours remain unchanged.",
+        "开放时间保持不变。"
+      ],
+      [
+        "We corrected the spelling but left the meaning unchanged.",
+        "我们改了拼写，保留了原意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unchanged#English"
+    ]
+  },
+  {
+    "word": "changelog",
+    "ipa": "英 /ˈtʃeɪndʒlɒɡ/；美 /ˈtʃeɪndʒlɑːɡ/",
+    "meaning": "更新日志；变更记录",
+    "sense": "每次版本动了哪里，都留下一行记录，让人不用重新猜。",
+    "split": "change + log，log 是记录、日志，不是木头。软件、文档更新中常见，也可分写 change log。",
+    "history": [
+      [
+        "change；log〔记录〕",
+        "并列组合部分"
+      ],
+      [
+        "changelog",
+        "逐次版本变动的记录"
+      ]
+    ],
+    "explanation": "read the changelog 看更新说明，maintain a changelog 维护变更记录。可以面向用户或开发者，详略按用途，不必是所有操作的自动流水账。",
+    "usage": "read the changelog；update the changelog；a version changelog。",
+    "contrast": "changelog 汇总改了什么，manual 手册说明怎么用；错误日志 error log 则记录运行问题，目的不同。",
+    "examples": [
+      [
+        "The changelog lists the bugs fixed in this release.",
+        "更新日志列出了这个版本修复的问题。"
+      ],
+      [
+        "Please add a short note to the changelog.",
+        "请在更新日志补一条简短说明。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/changelog#English"
+    ]
+  },
+  {
+    "word": "changeling",
+    "ipa": "/ˈtʃeɪndʒlɪŋ/",
+    "meaning": "被调换的孩子〔民间传说〕；被偷换者",
+    "sense": "传说里，人类孩子被悄悄带走，留下了一个精怪的孩子冒替。",
+    "split": "change + -ling，-ling 形成有关人、幼小者等名词。词抓的是被调换，不是孩子正在成长变化。",
+    "history": [
+      [
+        "拉丁 cambīre / 晚期拉丁 cambiāre → 古法语 changier",
+        "交换、更换"
+      ],
+      [
+        "中古英语 changen / change → 英语 change",
+        "更换、改变；变化、找零"
+      ],
+      [
+        "change + -ling → changeling",
+        "传说中被替换、留下冒替的孩子"
+      ]
+    ],
+    "explanation": "a fairy changeling 常见于欧洲民间故事和奇幻作品。历史传说不是解释现实儿童差异、疾病的可靠依据。",
+    "usage": "a fairy changeling；a changeling story；a child believed to be a changeling。",
+    "contrast": "changeling 被调换的传说角色，changeable child 只说孩子多变；不能只见 change 就混成同一意思。",
+    "examples": [
+      [
+        "The folktale tells of a changeling left in a cradle.",
+        "民间故事讲了一个被留在摇篮里冒替人类婴儿的精怪孩子。"
+      ],
+      [
+        "The novelist reworks the changeling legend as a modern fantasy.",
+        "小说家把调换孩子的传说改写成现代奇幻故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/changeling#English"
+    ]
+  },
+  {
+    "word": "room",
+    "ipa": "/ruːm/，也读 /rʊm/",
+    "meaning": "房间；空间；余地",
+    "sense": "先想“这里还容得下吗”，再想用墙隔出的一间空间。",
+    "split": "接古英语 rūm、中古英语 roum，早有空间、余地义。不要先把 room 锁死成一定有四面墙的房间。",
+    "history": [
+      [
+        "古英语 rūm → 中古英语 roum",
+        "空间、余地"
+      ],
+      [
+        "英语 room",
+        "空间；划出来供某种用途的房间"
+      ]
+    ],
+    "explanation": "a room 是一间房；room for a chair 是放椅子的空间，此时通常不可数。room for improvement 是改进余地，并不存在一间叫改进的房。",
+    "usage": "a room for；make room for；room to move；room for improvement。",
+    "contrast": "room 作空间不可直接按房间数理解；There is no room 是容不下，There are no rooms 常是没有空房间。",
+    "examples": [
+      [
+        "Could you make room for one more chair?",
+        "能再腾出放一把椅子的地方吗？"
+      ],
+      [
+        "There is still room for improvement.",
+        "还有改进余地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/room#English"
+    ]
+  },
+  {
+    "word": "roomy",
+    "ipa": "/ˈruːmi/，也读 /ˈrʊmi/",
+    "meaning": "宽敞的；内部空间充裕的",
+    "sense": "人坐进去、东西放进去，身边还松松的，不局促。",
+    "split": "room（空间）+ -y，表示空间充足的。不是 room“房间”的复数，也不是 roommate 的缩写。",
+    "history": [
+      [
+        "古英语 rūm → 中古英语 roum",
+        "空间、余地"
+      ],
+      [
+        "英语 room",
+        "空间；划出来供某种用途的房间"
+      ],
+      [
+        "room + -y → roomy",
+        "内部空间宽裕的"
+      ]
+    ],
+    "explanation": "a roomy car 是空间宽敞的车，roomy shoes 是里面宽松的鞋；不只形容房间。",
+    "usage": "a roomy car；a roomy bag；a roomy interior。",
+    "contrast": "roomy 强调内部容纳、活动空间，large 只说尺寸大；大件物品内部布局未必 roomy。",
+    "examples": [
+      [
+        "The bag is roomy enough for a laptop and a change of clothes.",
+        "包够宽敞，能放电脑和一套换洗衣服。"
+      ],
+      [
+        "The car has a surprisingly roomy interior.",
+        "这车内部空间比想象中宽敞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roomy#English"
+    ]
+  },
+  {
+    "word": "roomful",
+    "ipa": "/ˈruːmfʊl/",
+    "meaning": "满屋的人或东西；一屋子的量",
+    "sense": "用一整个房间来量：这一屋的人都坐着听，或这一屋都放满东西。",
+    "split": "room + -ful，-ful 在数量名词中表示一容器、空间所装的量。只写一个 l，不写成 roomfull；不要求精确装到极限。",
+    "history": [
+      [
+        "room；-ful〔一空间所容的量〕",
+        "并列组合部分"
+      ],
+      [
+        "roomful",
+        "一屋子的量、人或物"
+      ]
+    ],
+    "explanation": "a roomful of people 是满屋的人，address a roomful of students 是对一屋学生讲话。复数可说 roomfuls。",
+    "usage": "a roomful of people；a roomful of books；address a roomful of。",
+    "contrast": "roomful 名词说一屋的量，roomy 形容词说宽敞；房间越 roomy 并不等于里面的人越多。",
+    "examples": [
+      [
+        "She spoke confidently to a roomful of strangers.",
+        "她自信地对一屋陌生人讲话。"
+      ],
+      [
+        "A roomful of people fell silent when she began to sing.",
+        "她一开口唱歌，满屋的人都安静了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roomful#English",
+      "https://dictionary.cambridge.org/dictionary/english/roomful",
+      "https://www.collinsdictionary.com/dictionary/english-pronunciations/roomful"
+    ]
+  },
+  {
+    "word": "headroom",
+    "ipa": "/ˈhedruːm/",
+    "meaning": "头顶空间；净空；余量〔引申〕",
+    "sense": "坐着、站着时头上还有多少余地；引申为系统离极限还有多少空间。",
+    "split": "head + room，room 选空间义，不是给头单独造一个房间。",
+    "history": [
+      [
+        "head；room〔余地〕",
+        "并列组合部分"
+      ],
+      [
+        "headroom",
+        "头顶净空；能力、容量等余量"
+      ]
+    ],
+    "explanation": "low headroom 头顶空间小，ample headroom 空间或余量充足。设备、预算中也说 headroom，具体可用范围按测量对象理解。",
+    "usage": "enough headroom；low headroom；extra headroom。",
+    "contrast": "headroom 竖直头顶空间，legroom 腿前伸展空间；座椅头顶高不代表腿一定伸得开。",
+    "examples": [
+      [
+        "Tall passengers may find the back seats short of headroom.",
+        "高个乘客可能觉得后座头顶空间不够。"
+      ],
+      [
+        "The system has enough headroom to handle a larger workload.",
+        "系统还有足够余量应付更大工作量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/headroom#English"
+    ]
+  },
+  {
+    "word": "legroom",
+    "ipa": "/ˈleɡruːm/",
+    "meaning": "伸腿空间；腿部空间",
+    "sense": "坐下后，膝盖不顶着前排，脚还能往前伸。",
+    "split": "leg + room，room 是余地、空间。腿可以活动，不是有一间专给腿住的房。",
+    "history": [
+      [
+        "leg；room〔空间〕",
+        "并列组合部分"
+      ],
+      [
+        "legroom",
+        "坐着时腿部可伸展的空间"
+      ]
+    ],
+    "explanation": "extra legroom 更多腿部空间，limited legroom 伸腿空间有限，常说飞机、汽车、剧院座位。",
+    "usage": "extra legroom；plenty of legroom；limited legroom。",
+    "contrast": "legroom 不是座位总面积；宽度、头部空间和前后距离要分别看。",
+    "examples": [
+      [
+        "The front row has more legroom.",
+        "前排伸腿空间更大。"
+      ],
+      [
+        "I found the seat comfortable despite the limited legroom.",
+        "虽然腿部空间有限，我还是觉得座位挺舒服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legroom#English"
+    ]
+  },
+  {
+    "word": "roommate",
+    "ipa": "/ˈruːmˌmeɪt/",
+    "meaning": "室友；同住者〔尤美式〕",
+    "sense": "共享住宿空间的那个人；有时共一间卧室，有时只是同一套房。",
+    "split": "room + mate（同伴）；mate 选一起生活、活动的人，不是这里只说配偶。实际发音两个 m 常连成一段。",
+    "history": [
+      [
+        "room；mate",
+        "并列组合部分"
+      ],
+      [
+        "roommate",
+        "共享房间或住所的人"
+      ]
+    ],
+    "explanation": "a college roommate 大学室友。美式可用来称合租同一套房但卧室不同的人；英式 flatmate、housemate 更明确同套房、同房屋。",
+    "usage": "share with a roommate；a college roommate；a former roommate。",
+    "contrast": "roommate 不自动等于 romantic partner 伴侣；也不总保证两人睡同一间卧室，要看地区和住所。",
+    "examples": [
+      [
+        "My roommate works at the local library.",
+        "我室友在当地图书馆工作。"
+      ],
+      [
+        "We were roommates during our first year at university.",
+        "大学一年级时，我们是室友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roommate#English"
+    ]
+  },
+  {
+    "word": "bedroom",
+    "ipa": "/ˈbedruːm/",
+    "meaning": "卧室",
+    "sense": "房间的主要用途是睡觉，床是最醒目的线索。",
+    "split": "bed + room；有床的房间不一定都被正式叫 bedroom，名称看主要用途和安排。",
+    "history": [
+      [
+        "bed；room",
+        "并列组合部分"
+      ],
+      [
+        "bedroom",
+        "主要供睡眠的房间"
+      ]
+    ],
+    "explanation": "a spare bedroom 是备用卧室，a two-bedroom flat 是两居室公寓，这里 bedroom 计卧室，不把所有客厅厨房也算进去。",
+    "usage": "a spare bedroom；the main bedroom；a two-bedroom flat。",
+    "contrast": "bedroom 卧室，bed 床；bathroom 浴室、卫生间。看到 bed 与 bath 的开头差别就分用途。",
+    "examples": [
+      [
+        "The bedroom overlooks the garden.",
+        "卧室朝向花园。"
+      ],
+      [
+        "We turned the spare bedroom into a study.",
+        "我们把备用卧室改成了书房。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bedroom#English"
+    ]
+  },
+  {
+    "word": "bathroom",
+    "ipa": "英 /ˈbɑːθruːm/；美 /ˈbæθruːm/",
+    "meaning": "浴室；卫生间〔尤美式〕",
+    "sense": "原来按洗浴命名；美式日常也用这个较委婉的词说厕所，不必真有浴缸。",
+    "split": "bath + room，bath 的 th 是 /θ/，不是 bat“蝙蝠”。整体用途随地区扩展。",
+    "history": [
+      [
+        "bath；room",
+        "并列组合部分"
+      ],
+      [
+        "bathroom",
+        "洗浴房间 → 也用作卫生间的称呼"
+      ]
+    ],
+    "explanation": "use the bathroom 可说去卫生间；家庭 bathroom 可能含浴缸、淋浴、洗手池、坐便器等，实际配置不由名称完全保证。",
+    "usage": "use the bathroom；a shared bathroom；a bathroom mirror。",
+    "contrast": "bathroom 不一定能洗澡；英式直接问 toilet 很常见，美式公共场所也常问 restroom。",
+    "examples": [
+      [
+        "Could you tell me where the bathroom is?",
+        "能告诉我卫生间在哪吗？"
+      ],
+      [
+        "The hotel room has a private bathroom.",
+        "酒店房间带独立卫浴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bathroom#English"
+    ]
+  },
+  {
+    "word": "restroom",
+    "ipa": "/ˈrestruːm/",
+    "meaning": "公共卫生间〔尤美式〕",
+    "sense": "名字像休息的房间，今天常见意思却是去上厕所、洗手的地方。",
+    "split": "rest + room，由供休息等较委婉的房间称呼发展为公共卫生间的常用名称。不能逐字只译成休息室。",
+    "history": [
+      [
+        "rest；room",
+        "并列组合部分"
+      ],
+      [
+        "restroom",
+        "较委婉命名 → 公共卫生间"
+      ]
+    ],
+    "explanation": "a public restroom 公共卫生间，a restroom sign 卫生间标识；在美国餐馆、商场询问很常见。",
+    "usage": "a public restroom；the nearest restroom；restroom facilities。",
+    "contrast": "restroom 通常是厕所，不是 lounge 休息室；要找坐着休息的空间，不能只按字面问 restroom。",
+    "examples": [
+      [
+        "The restrooms are near the entrance.",
+        "卫生间在入口附近。"
+      ],
+      [
+        "We stopped at a service area to use the restroom.",
+        "我们在服务区停下来上卫生间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restroom#English"
+    ]
+  },
+  {
+    "word": "washroom",
+    "ipa": "英 /ˈwɒʃruːm/；美 /ˈwɑːʃruːm/",
+    "meaning": "洗手间；卫生间",
+    "sense": "用洗手这个动作委婉地称上厕所的地方，不只是专门洗衣服的房。",
+    "split": "wash + room；名称强调盥洗设施，实际常指带厕所的卫生间。",
+    "history": [
+      [
+        "wash；room",
+        "并列组合部分"
+      ],
+      [
+        "washroom",
+        "洗手、盥洗房间 → 常作卫生间称呼"
+      ]
+    ],
+    "explanation": "公共建筑的 washroom 常是卫生间，加拿大英语尤其常用。不同地区标识偏好不同，不必硬分成一定只洗手。",
+    "usage": "a public washroom；washroom facilities；use the washroom。",
+    "contrast": "washroom 常是厕所；laundry room 是洗衣间，不能因 wash 都涉及洗就互换。",
+    "examples": [
+      [
+        "The museum has washrooms on every floor.",
+        "博物馆每层都有卫生间。"
+      ],
+      [
+        "She asked a staff member where the washroom was.",
+        "她向工作人员询问洗手间在哪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/washroom#English"
+    ]
+  },
+  {
+    "word": "ballroom",
+    "ipa": "英 /ˈbɔːlruːm/；美 /ˈbɔːlruːm/",
+    "meaning": "舞厅；交谊舞相关的",
+    "sense": "人们在宽敞大厅里结对跳舞；ball 在这里是一场舞会。",
+    "split": "ball（舞会）+ room，不是球类运动专用房，也不是一定摆着球的房间。舞会义 ball 与 dance 的历史背景相关。",
+    "history": [
+      [
+        "ball〔舞会〕；room",
+        "并列组合部分"
+      ],
+      [
+        "ballroom",
+        "举行舞会的大厅；相关舞蹈"
+      ]
+    ],
+    "explanation": "a hotel ballroom 酒店舞厅、宴会大厅，ballroom dancing 是交谊舞。大厅可用于多种活动，不因名字就每天开舞会。",
+    "usage": "a hotel ballroom；ballroom dancing；a grand ballroom。",
+    "contrast": "ballroom 的 ball 是舞会，ball game 的 ball 是球；同形词选错义，画面会完全走偏。",
+    "examples": [
+      [
+        "The wedding reception was held in the hotel ballroom.",
+        "婚礼招待会在酒店宴会大厅举行。"
+      ],
+      [
+        "They take ballroom dancing lessons on Saturdays.",
+        "他们周六上交谊舞课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ballroom#English"
+    ]
+  },
+  {
+    "word": "newsroom",
+    "ipa": "英 /ˈnjuːzruːm/；美 /ˈnuːzruːm/",
+    "meaning": "新闻编辑室；新闻采编部门",
+    "sense": "记者、编辑在这里收集、核实、组织报道，是新闻生产的工作空间。",
+    "split": "news + room；从具体采编空间，也可借指参与新闻工作的团队。",
+    "history": [
+      [
+        "news；room",
+        "并列组合部分"
+      ],
+      [
+        "newsroom",
+        "新闻采编工作场所、部门"
+      ]
+    ],
+    "explanation": "a busy newsroom 忙碌编辑室，newsroom staff 采编人员。数字化团队也能叫 newsroom，不必都挤在同一间房。",
+    "usage": "newsroom staff；a newspaper newsroom；inside the newsroom。",
+    "contrast": "newsroom 做报道，newsgroup 是按主题组织的网络讨论区；两者都带 news，用途不同。",
+    "examples": [
+      [
+        "The newsroom became busy as the election results came in.",
+        "选举结果陆续传来，编辑室忙了起来。"
+      ],
+      [
+        "The documentary shows how a newsroom checks a major story.",
+        "纪录片展示了新闻编辑部如何核实一条重要报道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsroom#English"
+    ]
+  },
+  {
+    "word": "boardroom",
+    "ipa": "英 /ˈbɔːdruːm/；美 /ˈbɔːrdruːm/",
+    "meaning": "董事会议室；企业高层决策圈〔引申〕",
+    "sense": "board 是董事会，一张会议桌旁坐着做重大经营决定的人。",
+    "split": "board（董事会）+ room；不是只因墙上有黑板就叫 boardroom。",
+    "history": [
+      [
+        "board〔董事会〕；room",
+        "并列组合部分"
+      ],
+      [
+        "boardroom",
+        "董事会议室 → 高层决策层"
+      ]
+    ],
+    "explanation": "a boardroom meeting 是董事会或高层会议，a boardroom dispute 是管理层争议。引申用法看的是决策圈，不必真实发生在某间房。",
+    "usage": "a boardroom meeting；a boardroom dispute；the corporate boardroom。",
+    "contrast": "boardroom 比 meeting room 更具体；普通小组会议室不必都叫 boardroom。",
+    "examples": [
+      [
+        "The directors gathered in the boardroom.",
+        "董事们聚集在董事会议室。"
+      ],
+      [
+        "The dispute moved from the factory floor to the boardroom.",
+        "争议从工厂一线传到了企业高层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boardroom#English"
+    ]
+  },
+  {
+    "word": "darkroom",
+    "ipa": "英 /ˈdɑːkruːm/；美 /ˈdɑːrkruːm/",
+    "meaning": "暗房；摄影冲印室",
+    "sense": "胶片、感光材料怕不合适的光，需要在受控光线环境里处理。",
+    "split": "dark + room，摄影中发展成专用房间名称；不是所有晚上不开灯的卧室都叫摄影 darkroom。",
+    "history": [
+      [
+        "dark；room",
+        "并列组合部分"
+      ],
+      [
+        "darkroom",
+        "控制光线以处理感光材料的摄影暗房"
+      ]
+    ],
+    "explanation": "a photographic darkroom 摄影暗房，darkroom equipment 暗房设备。是否可用安全灯取决于材料，不把 dark 理解成永远绝对零光。",
+    "usage": "a photographic darkroom；darkroom equipment；a darkroom technician。",
+    "contrast": "darkroom 是摄影空间名称，a dark room 可以只是光线暗的普通房；连写后用途更专门。",
+    "examples": [
+      [
+        "The school still has a darkroom for film photography.",
+        "学校仍保留一间胶片摄影暗房。"
+      ],
+      [
+        "She learned to print black-and-white photographs in the darkroom.",
+        "她在暗房学会了制作黑白照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/darkroom#English"
+    ]
+  },
+  {
+    "word": "storeroom",
+    "ipa": "英 /ˈstɔːruːm/；美 /ˈstɔːrruːm/",
+    "meaning": "储藏室；库房",
+    "sense": "暂时不在外面用的东西，收进去存放，之后再取出来。",
+    "split": "store（储存、储备物）+ room，不是 store 一定指商店。",
+    "history": [
+      [
+        "store〔储存〕；room",
+        "并列组合部分"
+      ],
+      [
+        "storeroom",
+        "存放物品的房间"
+      ]
+    ],
+    "explanation": "a storeroom full of supplies 放满物资的库房，a storeroom key 库房钥匙。家庭、学校、企业都可有，不限商店。",
+    "usage": "a storeroom key；in the storeroom；a small storeroom。",
+    "contrast": "storeroom 泛指储藏室，stockroom 常侧重商店、企业库存；warehouse 仓库常是更独立的仓储设施。",
+    "examples": [
+      [
+        "The chairs are kept in the storeroom.",
+        "椅子放在储藏室里。"
+      ],
+      [
+        "We cleared out the old storeroom before moving.",
+        "搬家前，我们清理了旧储藏室。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/storeroom#English"
+    ]
+  },
+  {
+    "word": "stockroom",
+    "ipa": "英 /ˈstɒkruːm/；美 /ˈstɑːkruːm/",
+    "meaning": "库存室；商品、物料库房",
+    "sense": "货架外还留着一批备用库存，店员从这里补货。",
+    "split": "stock（库存）+ room；不是股票交易室，也不是牲畜一定住的房。",
+    "history": [
+      [
+        "stock〔库存〕；room",
+        "并列组合部分"
+      ],
+      [
+        "stockroom",
+        "存放商品、物料库存的房间"
+      ]
+    ],
+    "explanation": "check the stockroom 是去库存室找货，stockroom staff 是仓储、库存室工作人员。常与卖场、生产使用区相对。",
+    "usage": "check the stockroom；stockroom staff；stockroom shelves。",
+    "contrast": "stockroom 侧重库存用途，storeroom 说存东西更广；某一间房可以两词都适用，不靠门牌强分。",
+    "examples": [
+      [
+        "The assistant checked the stockroom for a larger size.",
+        "店员去库存室找更大的尺码。"
+      ],
+      [
+        "The new shelves made the stockroom easier to organize.",
+        "新架子让库存室更好整理了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stockroom#English"
+    ]
+  },
+  {
+    "word": "mailroom",
+    "ipa": "/ˈmeɪlruːm/",
+    "meaning": "邮件收发室〔尤美式〕",
+    "sense": "一个单位收到、寄出的信件包裹，先到这里分拣、转交。",
+    "split": "mail（邮件）+ room；mail 不一定电子邮件，传统用法常是纸质信件和包裹。",
+    "history": [
+      [
+        "mail；room",
+        "并列组合部分"
+      ],
+      [
+        "mailroom",
+        "单位里分拣、收发邮件的工作空间"
+      ]
+    ],
+    "explanation": "work in the mailroom 在收发室工作，a mailroom clerk 收发人员；英式也常说 post room。",
+    "usage": "a mailroom clerk；work in the mailroom；deliver to the mailroom。",
+    "contrast": "mailroom 现实收发部门，mailbox 是信箱或邮箱；电子邮箱不是电脑里真有一间 mailroom。",
+    "examples": [
+      [
+        "The parcel is waiting in the mailroom.",
+        "包裹在收发室等着领取。"
+      ],
+      [
+        "She started at the company as a mailroom clerk.",
+        "她最初在这家公司做收发员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mailroom#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/mailroom"
+    ]
+  },
+  {
+    "word": "cloakroom",
+    "ipa": "英 /ˈkləʊkruːm/；美 /ˈkloʊkruːm/",
+    "meaning": "衣帽间；衣帽寄存处；卫生间〔部分英式用法〕",
+    "sense": "进剧院先脱下外套，寄放在这里；一些场所也用它委婉称卫生间。",
+    "split": "cloak（斗篷、外衣）+ room；从衣物寄存空间发展出相关场所名称。",
+    "history": [
+      [
+        "cloak；room",
+        "并列组合部分"
+      ],
+      [
+        "cloakroom",
+        "衣帽寄存空间；部分语境的卫生间称呼"
+      ]
+    ],
+    "explanation": "leave a coat in the cloakroom 是寄存外套；英国某些建筑、房屋说明里的 cloakroom 可能是小卫生间，要结合标识。",
+    "usage": "the theatre cloakroom；a cloakroom attendant；leave a coat in the cloakroom。",
+    "contrast": "cloakroom 的常见衣帽间义与 changing room 更衣室不同；寄存外套不一定提供完整换衣设施。",
+    "examples": [
+      [
+        "We left our coats in the cloakroom.",
+        "我们把外套寄存在衣帽间。"
+      ],
+      [
+        "The cloakroom attendant gave me a ticket.",
+        "衣帽间工作人员给了我一张存取凭条。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cloakroom#English"
+    ]
+  },
+  {
+    "word": "lunchroom",
+    "ipa": "/ˈlʌntʃruːm/",
+    "meaning": "午餐室；食堂〔尤美式〕",
+    "sense": "到了午饭时间，学生或同事到这个空间坐下吃。",
+    "split": "lunch + room，按用途组合；不表示所有食物必须现场烹饪。",
+    "history": [
+      [
+        "lunch；room",
+        "并列组合部分"
+      ],
+      [
+        "lunchroom",
+        "供吃午饭的空间、食堂"
+      ]
+    ],
+    "explanation": "a school lunchroom 学校午餐室、食堂，an employee lunchroom 员工午餐室；有的提供餐食，有的主要供吃自带食物。",
+    "usage": "a school lunchroom；the employee lunchroom；lunchroom tables。",
+    "contrast": "lunchroom 吃午饭空间，kitchen 是厨房；能坐着吃并不保证里面能炒菜。",
+    "examples": [
+      [
+        "The students gathered in the lunchroom.",
+        "学生们聚到午餐室。"
+      ],
+      [
+        "There is a fridge in the employee lunchroom.",
+        "员工午餐室里有一台冰箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lunchroom#English"
+    ]
+  },
+  {
+    "word": "tearoom",
+    "ipa": "/ˈtiːruːm/",
+    "meaning": "茶室；供应茶点的小店",
+    "sense": "坐下喝茶，往往还能点蛋糕、三明治等简餐。",
+    "split": "tea + room，也常分写 tea room；开头读 tea 的 /tiː/，不是 tear“眼泪”加 oom。",
+    "history": [
+      [
+        "tea；room",
+        "并列组合部分"
+      ],
+      [
+        "tearoom",
+        "供喝茶、吃茶点的房间或店铺"
+      ]
+    ],
+    "explanation": "a village tearoom 村里的茶点小店，a hotel tearoom 酒店茶室。不同地区可能兼卖咖啡、简餐，不是只准喝茶。",
+    "usage": "a traditional tearoom；a village tearoom；a tearoom menu。",
+    "contrast": "tearoom 常有对客营业的茶点服务，dining room 更泛指用餐房间；中国茶馆的具体文化形式也要按场景表达。",
+    "examples": [
+      [
+        "We stopped at a tearoom for tea and cake.",
+        "我们在一家茶点店停下来喝茶吃蛋糕。"
+      ],
+      [
+        "The tearoom overlooks the river.",
+        "茶室朝向河流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tearoom#English",
+      "https://www.collinsdictionary.com/dictionary/english/tearoom"
+    ]
+  },
+  {
+    "word": "sunroom",
+    "ipa": "/ˈsʌnruːm/",
+    "meaning": "阳光房；日光充足的房间",
+    "sense": "大窗把阳光引进来，人坐在里面像靠近室外，又有房屋遮护。",
+    "split": "sun + room；按采光用途、特点命名，不是说房间会产生太阳光。",
+    "history": [
+      [
+        "sun；room",
+        "并列组合部分"
+      ],
+      [
+        "sunroom",
+        "以充足日照、较大窗面为特点的房间"
+      ]
+    ],
+    "explanation": "a glass sunroom 玻璃阳光房，a sunny sunroom 阳光充足的房间。具体结构、保温形式各异，不能从名字判断建筑性能。",
+    "usage": "a glass sunroom；add a sunroom；sit in the sunroom。",
+    "contrast": "sunroom 通常是房屋空间，greenhouse 温室主要按种植、环境管理用途称呼；都可能多玻璃，不等于完全同一种。",
+    "examples": [
+      [
+        "They read in the sunroom on winter afternoons.",
+        "冬日下午，他们在阳光房读书。"
+      ],
+      [
+        "The house has a sunroom facing the garden.",
+        "房子有一间朝花园的阳光房。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sunroom#English"
+    ]
+  }
+]

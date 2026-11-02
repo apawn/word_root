@@ -1,0 +1,141 @@
+[
+  {
+    "id": "B3492",
+    "meaning": "野兽、怪物与力量评价，以及亲昵、粗暴的不同语气",
+    "core": "BEAST：野兽的形象，能带力量，也能带粗暴、怪异",
+    "image": "beast → beastie 亲昵、戏谑称呼；beastly 性质和强烈评价。",
+    "intro": "相近词形的语气差别很大。小称未必真的小，兽性评价也不是对动物作科学判断。",
+    "forms": "bēstia 经 beste → beast；-ie 小称称呼，-ly 在本词可形容性质。\n\nbeast 经法语 beste 接拉丁 bestia 动物、野兽，远源未定。现代 -s，结尾 /sts/，可说野兽、怪物，也可口语称难对付的人或物。",
+    "branches": [
+      [
+        "基础、称呼与性质",
+        "beast · beastie · beastly"
+      ],
+      [
+        "beast 兽、动物 → beasts",
+        "beasts"
+      ]
+    ],
+    "contrasts": "beastly 不总是副词；beastie 不是复数；beast 描写强机器可带赞叹。",
+    "practice": "The child called the mythical beast a little beastie.\n\n孩子把神话怪兽叫作一个小家伙。",
+    "words": [
+      "beast",
+      "beastie",
+      "beastly",
+      "beasts"
+    ],
+    "exclude": {
+      "beastmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4174",
+    "meaning": "头罩与覆盖功能，及服装派生；其他俚语来源另辨",
+    "core": "HOOD：能罩住，HOODIE：带这种帽子的整件卫衣",
+    "image": "hood → hoodie、hooded；街区 hood 与匪徒 hood 分别来自其他缩称。",
+    "intro": "现代常用衣物主线抓住罩的形状、功能就够清楚。另有缩词和 -hood 后缀，字形相同仍要分历史。",
+    "forms": "hōd → hood；-ie 形成衣物称呼，-ed 表具有、戴着；neighborhood、hoodlum 另作缩称来源。\n\nhood 的遮盖义与 hoodie 的特征命名分清；childhood 的 -hood 是另一种历史材料。",
+    "branches": [
+      [
+        "覆盖物、服装与性质",
+        "hood · hoodie · hooded"
+      ],
+      [
+        "hood → hoods；hoodie → hoodies：帽兜到连帽上衣",
+        "hood · hoods · hoodie · hoodies"
+      ]
+    ],
+    "contrasts": "hood 部分与 hoodie 整件不同；childhood 的 -hood 不由头罩派生。",
+    "practice": "The hooded jacket and the hoodie both have a hood.\n\n连帽外套和连帽卫衣都带兜帽。",
+    "words": [
+      "hood",
+      "hoodie",
+      "hooded",
+      "hoods",
+      "hoodies"
+    ],
+    "exclude": {
+      "hoody": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2592",
+    "meaning": "老鼠名称、捕鼠角色和器具，以及相似性质",
+    "core": "MOUSE：动物本身；MOUSER：捕鼠角色",
+    "image": "mouse → mouser；mousetrap 器具；mousy 相关外观、性格评价。",
+    "intro": "同一对象可以成为行为目标、器具用途和相似性质的命名基础。后半说明是猫的角色、工具还是描述。",
+    "forms": "mouse 古老动物名；mice 不规则复数；mouse 动词接 -er，-y 形成 mousy。\n\nmouse → mice 也是旧 i 变音后经过后续语音变化的结果。电脑鼠标的复数 mice、mouses 都可见。\n\nmouse 从小鼠名借形进入计算机外设，再与垫子组合。",
+    "branches": [
+      [
+        "动物与捕鼠角色",
+        "mouse · mouser"
+      ],
+      [
+        "器具与性质",
+        "mousetrap · mousy"
+      ],
+      [
+        "mouse 与 mice：旧复数及鼠标",
+        "mouse · mice"
+      ],
+      [
+        "计算机 mouse 的组合 mousepad 及复数",
+        "mouse · mousepad · mousepads"
+      ]
+    ],
+    "contrasts": "mouser 常是猫，不是鼠；mousetrap 才是器具，-er 也不总指人。",
+    "practice": "The mouser caught a mouse before it reached the mousetrap.\n\n那只捕鼠猫在老鼠碰到捕鼠器前就抓住了它。",
+    "words": [
+      "mouse",
+      "mouser",
+      "mousetrap",
+      "mousy",
+      "mice",
+      "mousepad",
+      "mousepads"
+    ],
+    "exclude": {
+      "mouse-ear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4278",
+    "meaning": "人群、家人与民间文化，及故事、知识和风格的组合",
+    "core": "FOLK：一群人，以及在他们之间传下来的文化",
+    "image": "folk → folklore、folktale；folksy 说风格；townsfolk、kinfolk、menfolk 是人物群体名称。",
+    "intro": "人物称呼、文化传承与风格不是同一件事。folksy 的后来设计不必真是古老民俗，folklore 又不只是一则故事。",
+    "forms": "古英语 folc → folk；lore 传承知识、tale 故事、-y 性质；前置群体成分形成 townsfolk 等。\n\n本族人群词延续，现代有集合的 folk 与加 s 的常用 folks。",
+    "branches": [
+      [
+        "人群与家人",
+        "folk · townsfolk · kinfolk · menfolk"
+      ],
+      [
+        "传承、故事与风格",
+        "folklore · folktale · folksy"
+      ],
+      [
+        "folk → folks：人群、家人和亲切称呼",
+        "folk · folks"
+      ]
+    ],
+    "contrasts": "folk 的 l 常不发音；folktale 是故事，folklore 范围更大，folksy 是风格。",
+    "practice": "Local folk shared folktales that later became part of a folklore collection.\n\n当地人分享的民间故事，后来收进了一部民俗资料集。",
+    "words": [
+      "folk",
+      "townsfolk",
+      "kinfolk",
+      "menfolk",
+      "folklore",
+      "folktale",
+      "folksy",
+      "folks"
+    ],
+    "exclude": {
+      "anti-folk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "turbo-folk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elf-folk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "folklife": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

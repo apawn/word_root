@@ -1,0 +1,580 @@
+[
+  {
+    "word": "praised",
+    "ipa": "/preɪzd/",
+    "meaning": "赞扬、表扬了；受到赞扬的〔过去式、过去分词〕",
+    "sense": "你看见别人做得有价值、有优点，并把认可说出来，就是 praised。它和估价、重视有较早的词源关系。",
+    "split": "praise 去 e 加完整 -ed，原词末尾 /z/ 后读 /d/。praise 接法语 preisier，较早拉丁 pretium 是价值、价格，再形成估价、称赞动词。",
+    "history": [
+      [
+        "拉丁 pretium → 晚期拉丁估价动词 → 法语 → praise",
+        "价值、估量 → 重视、称赞"
+      ],
+      [
+        "praise 去 e + -ed → praised",
+        "已经赞扬；受到表扬"
+      ]
+    ],
+    "explanation": "praised someone for something 因某事表扬某人；widely praised 广受好评。",
+    "usage": "praised the effort 赞扬付出的努力；praised as an improvement 被称赞为一项改进。",
+    "contrast": "praised for 说明被表扬的原因，praised by 说明谁在表扬。praise 既可名词也可动词，praised 是动词变化。",
+    "examples": [
+      [
+        "The teacher praised her for the clear explanation.",
+        "老师表扬她讲解清楚。"
+      ],
+      [
+        "The design was praised for its simplicity.",
+        "设计因简洁而受到好评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/praised#English",
+      "https://en.wiktionary.org/wiki/praise#English"
+    ]
+  },
+  {
+    "word": "questioned",
+    "ipa": "/ˈkwestʃənd/",
+    "meaning": "询问、盘问；质疑了〔过去式、过去分词〕",
+    "sense": "向别人追问，是 questioned；把一个说法拿出来问它到底站不站得住，又有质疑义。",
+    "split": "question + -ed，/n/ 后读 /d/。question 名词接法语与拉丁 quaestio 询问、问题，动词由名词转用并受法语 questioner 影响。",
+    "history": [
+      [
+        "拉丁 quaestio → 法语等 → question；相应动词发展",
+        "寻找答案、询问 → 问题；提问、质疑"
+      ],
+      [
+        "question + -ed → questioned",
+        "已经问过、盘问或表示怀疑"
+      ]
+    ],
+    "explanation": "questioned someone about something 就某事询问某人；questioned the decision 质疑决定。",
+    "usage": "questioned the accuracy 怀疑准确性；closely questioned 详细询问。",
+    "contrast": "questioned someone 常说向人问话，questioned a claim 常说质疑主张。不能一律译成普通问了个问题，宾语决定侧重点。",
+    "examples": [
+      [
+        "The editor questioned the accuracy of the figures.",
+        "编辑质疑这些数字是否准确。"
+      ],
+      [
+        "We questioned the guide about the building’s history.",
+        "我们向导游询问了建筑的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/questioned#English",
+      "https://en.wiktionary.org/wiki/question#English"
+    ]
+  },
+  {
+    "word": "refuses",
+    "ipa": "/rɪˈfjuːzɪz/",
+    "meaning": "拒绝〔第三人称单数〕",
+    "sense": "别人递来要求、东西、机会，你说不接受、不去做，就是 refuses。像把递来的东西挡回去。",
+    "split": "拒绝动词 refuse + -s，原词 /z/ 后增加 /ɪz/。近源古法语 refuser；更早有 refundere 倒回，以及 refutare、recusare 混合等不同分析。",
+    "history": [
+      [
+        "古法语 refuser → 动词 refuse",
+        "拒绝；较早拉丁来源的分析不一致"
+      ],
+      [
+        "refuse + -s → refuses",
+        "某人不接受、不答应做"
+      ]
+    ],
+    "explanation": "refuses to answer 拒绝回答；refuses an offer 不接受提议。",
+    "usage": "refuses permission 不给许可；refuses to move 不肯移动。",
+    "contrast": "refuses to do 里的 to 后接原形。垃圾名词 refuse 前重音、词尾 /s/，这里的拒绝动词后重音、词尾 /z/，需要分开认。",
+    "examples": [
+      [
+        "She refuses to give up.",
+        "她不肯放弃。"
+      ],
+      [
+        "The machine refuses to start.",
+        "机器怎么也启动不了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refuses#English",
+      "https://en.wiktionary.org/wiki/refuse#English"
+    ]
+  },
+  {
+    "word": "stakes",
+    "ipa": "/steɪks/",
+    "meaning": "桩〔复数〕；赌注、利害关系；以……为赌注〔第三人称单数〕",
+    "sense": "一根根插在地里的桩，是 stakes；一件事成败牵涉的输赢、代价，也是 stakes。历史连接不必硬编，现代分两幅画面记。",
+    "split": "stake + -s，/k/ 后读 /s/。桩义承古英语 staca；赌注、利益义与桩词之间的具体转折没有确定答案。",
+    "history": [
+      [
+        "古英语 staca → 桩义 stake；赌注义的具体连接未定",
+        "支撑、界标的桩；另组赌注、利害关系"
+      ],
+      [
+        "stake + -s → stakes",
+        "多个桩；相关输赢、利益；某人押上"
+      ]
+    ],
+    "explanation": "wooden stakes 木桩；high stakes 巨大利害、输赢代价；at stake 处于风险中，固定单数。",
+    "usage": "raise the stakes 提高赌注、增加成败代价；stakes a claim 主张权利。",
+    "contrast": "high stakes 可谈考试、谈判等成败代价，并不限赌博。at stake 用单数，不能因牵涉许多利益就机械改为 at stakes。",
+    "examples": [
+      [
+        "The plants were supported by wooden stakes.",
+        "植物由木桩支撑着。"
+      ],
+      [
+        "The stakes were high in the final round.",
+        "最后一轮的成败关系重大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stakes#English",
+      "https://en.wiktionary.org/wiki/stake#English"
+    ]
+  },
+  {
+    "word": "sticking",
+    "ipa": "/ˈstɪkɪŋ/",
+    "meaning": "粘住、固定、伸出；坚持〔现在分词、动名词〕",
+    "sense": "东西固定在一个位置、不轻易离开，是 sticking；计划、承诺也能像这样一直守住。",
+    "split": "stick + -ing，直接相加，不额外双写 k。动词接古英语 stician 刺、固定的词族，与名词 sticca 条棒的近源形式分传。",
+    "history": [
+      [
+        "古英语 stician → stick",
+        "刺入、固定 → 粘附、停留、持续"
+      ],
+      [
+        "stick + -ing → sticking",
+        "正在粘住；坚持某安排、处于某位置"
+      ]
+    ],
+    "explanation": "sticking to a plan 坚持计划；sticking out 伸出、突出；sticking together 团结在一起、粘在一起。",
+    "usage": "sticking a label on 贴标签；a sticking point 难以达成一致的关键点。",
+    "contrast": "sticking to 的对象是守住的安排；sticking out 说突出在外。stick 的过去式、分词是 stuck，而 sticking 是规则 ing 形式。",
+    "examples": [
+      [
+        "We are sticking to the original plan.",
+        "我们仍按原计划做。"
+      ],
+      [
+        "A piece of paper was sticking out of the book.",
+        "一张纸从书里露了出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sticking#English",
+      "https://en.wiktionary.org/wiki/stick#English"
+    ]
+  },
+  {
+    "word": "surfaces",
+    "ipa": "英 /ˈsɜːfɪsɪz/；美 /ˈsɜːrfɪsɪz/",
+    "meaning": "表面〔复数〕；浮现、露面〔第三人称单数〕",
+    "sense": "东西最外面、能接触到的那层，是 surfaces；原来藏在下面的信息、物体来到外面，也能说动词 surfaces。",
+    "split": "surface + -s，/s/ 后读 /ɪz/。surface 经法语 sur- 上方与 face 面的组合借入，face 远接拉丁 facies；英语又发展浮现动词。",
+    "history": [
+      [
+        "法语 sur- + face → surface",
+        "上面的面 → 表层"
+      ],
+      [
+        "surface + -s → surfaces",
+        "多个表面；某物浮到表面、出现"
+      ]
+    ],
+    "explanation": "smooth surfaces 光滑表面；work surfaces 操作台面；a problem surfaces 问题浮现。",
+    "usage": "surfaces of different materials 不同材料的表面；surfaces after many years 多年后又出现。",
+    "contrast": "surfaces 可指物的外表层，也可说消息、问题出现。under the surface 是在表层下面的固定单数搭配，不因东西多就自动加 s。",
+    "examples": [
+      [
+        "The room has several easy-to-clean surfaces.",
+        "房间里有几处容易清洁的表面。"
+      ],
+      [
+        "A new problem surfaces during the test.",
+        "测试期间，一个新问题浮现出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surfaces#English",
+      "https://en.wiktionary.org/wiki/surface#English"
+    ]
+  },
+  {
+    "word": "territories",
+    "ipa": "英 /ˈterɪtəriz/；美 /ˈterətɔːriz/",
+    "meaning": "领土、辖区；活动范围、领域〔复数〕",
+    "sense": "一片土地归谁管、谁在这里活动，是 territory 的空间画面；知识、工作也有各自能触及的范围。",
+    "split": "territory 的辅音字母加 y 改为 ies，词尾读 /riz/。territory 接拉丁 territorium 城镇周边土地、辖区，通常联系 terra 土地，但具体构词仍有争论。",
+    "history": [
+      [
+        "拉丁 territorium → 英语 territory",
+        "辖区、土地 → 领地、所及的范围"
+      ],
+      [
+        "territory → territories",
+        "多个辖区、活动范围或负责领域"
+      ]
+    ],
+    "explanation": "overseas territories 海外领地；sales territories 销售区域；animal territories 动物活动领地。",
+    "usage": "different territories 不同领域、区域；explore new territories 探索新领域。",
+    "contrast": "territories 可能是政治地理单位，也可只是销售、动物活动等范围。说进入陌生领域时，常用 uncharted territory 这个不可数式固定搭配。",
+    "examples": [
+      [
+        "The company divided the region into sales territories.",
+        "公司把这个地区划分成几个销售区域。"
+      ],
+      [
+        "The map shows the territories of several bird pairs.",
+        "地图标出了几对鸟各自的活动领地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/territories#English",
+      "https://en.wiktionary.org/wiki/territory#English"
+    ]
+  },
+  {
+    "word": "towers",
+    "ipa": "英 /ˈtaʊəz/；美 /ˈtaʊərz/",
+    "meaning": "塔、高楼〔复数〕；高耸、远高于〔第三人称单数〕",
+    "sense": "从周围建筑、地面中高高立起来，是 towers 的共同画面。既能数高塔，也能说某物比旁边高出很多。",
+    "split": "塔义 tower + -s，结尾读 /z/。tower 经古英语 tur、法语 tour 等接拉丁 turris；这里读 /taʊə(r)/，与 tow 拖的 /təʊ/、/toʊ/ 分开。",
+    "history": [
+      [
+        "拉丁 turris → 古英语、法语相关形式 → tower",
+        "高塔、堡塔"
+      ],
+      [
+        "tower + -s → towers；名词转动词",
+        "多个高塔；某物高耸、压过周围"
+      ]
+    ],
+    "explanation": "stone towers 石塔；office towers 办公高楼；towers over the village 高耸在村庄之上。",
+    "usage": "twin towers 双塔；towers above the trees 高过树林。",
+    "contrast": "towers over 既可说实际高大，也可比喻能力、地位突出。常见塔义不按 tow + -er 的拖行者来拆，两个词的元音也不同。",
+    "examples": [
+      [
+        "Two stone towers guard the entrance.",
+        "两座石塔守着入口。"
+      ],
+      [
+        "The old church towers above the houses.",
+        "老教堂高高耸立在房屋之上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/towers#English",
+      "https://en.wiktionary.org/wiki/tower#English"
+    ]
+  },
+  {
+    "word": "transfers",
+    "ipa": "动词：英 /trænsˈfɜːz/、美 /trænsˈfɜːrz/；名词：英 /ˈtrænsfɜːz/、美 /ˈtrænsfɜːrz/",
+    "meaning": "转移、转让〔第三人称单数〕；转移、调动、换乘〔复数〕",
+    "sense": "东西、数据、人员从这一边带到另一边，就是 transfers；它可以说动作，也能数一次次转移、换乘。",
+    "split": "transfer + -s，结尾读 /z/。transfer 借拉丁 transferre，trans- 到另一边与 ferre 带、承载；英语名词由动词转用。",
+    "history": [
+      [
+        "拉丁 trans- + ferre → transferre → transfer",
+        "带到另一边 → 转移、调动"
+      ],
+      [
+        "transfer + -s → transfers",
+        "某人、系统转移；多次转移或换乘"
+      ]
+    ],
+    "explanation": "transfers files 传输文件；airport transfers 机场接送；staff transfers 员工调动。",
+    "usage": "transfers from A to B 从 A 转移到 B；two transfers 两次换乘。",
+    "contrast": "动词常重读后面，名词常重读前面；地区与说话习惯也有变化。transfers 的三单不双写 r，transferred、transferring 的拼写则通常双写。",
+    "examples": [
+      [
+        "The program transfers files between the two devices.",
+        "程序在两台设备之间传输文件。"
+      ],
+      [
+        "The journey involves two transfers.",
+        "这段行程需要两次换乘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transfers#English",
+      "https://en.wiktionary.org/wiki/transfer#English"
+    ]
+  },
+  {
+    "word": "activated",
+    "ipa": "/ˈæktɪveɪtɪd/",
+    "meaning": "启动、激活了；已起作用的〔过去式、过去分词〕",
+    "sense": "东西原本关着、休眠着或还没发挥作用，现在被打开、唤醒，就是 activated。",
+    "split": "activate 去 e 加完整 -ed，末尾 /t/ 后读 /ɪd/。activate 对应 active 的 activ- 词干与动词 -ate，使活跃、使起作用。",
+    "history": [
+      [
+        "active 的 activ- + -ate → activate",
+        "活跃、起作用 → 使启动"
+      ],
+      [
+        "activate 去 e + -ed → activated",
+        "已被启动、激活"
+      ]
+    ],
+    "explanation": "activated the alarm 启动警报；activated an account 激活账号；automatically activated 自动启动的。",
+    "usage": "activated by movement 由运动触发；newly activated 刚激活的。",
+    "contrast": "activated 强调从未起作用到开始起作用的变化。active 是状态形容词；activated 则带有某种条件或动作使它开始的意味。",
+    "examples": [
+      [
+        "The movement activated the light.",
+        "这个动作触发了灯。"
+      ],
+      [
+        "The account was activated yesterday.",
+        "账号昨天已激活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/activated#English",
+      "https://en.wiktionary.org/wiki/activate#English"
+    ]
+  },
+  {
+    "word": "apartments",
+    "ipa": "英 /əˈpɑːtmənts/；美 /əˈpɑːrtmənts/",
+    "meaning": "公寓、一套套住宅〔复数〕",
+    "sense": "一栋楼里单独划出一套空间供人居住，就是 apartment；apartments 可以数这些独立的一套套住所。",
+    "split": "apartment + -s，/t/ 后读 /s/。apartment 借法语 appartement，较早接意大利 appartamento 分开的住所材料，远连 part 部分词族。",
+    "history": [
+      [
+        "意大利 appartamento → 法语 appartement → apartment",
+        "单独划出的一套空间 → 住宅套间"
+      ],
+      [
+        "apartment + -s → apartments",
+        "多套公寓住宅"
+      ]
+    ],
+    "explanation": "studio apartments 单间公寓；small apartments 小套住宅；an apartment building 公寓楼。",
+    "usage": "rent apartments 租公寓；apartments on the upper floor 楼上几套住宅。",
+    "contrast": "apartments 通常数住宅单元，不是房间总数。美式常用 apartment，英式日常常用 flat；an apartment building 里的前置 apartment 通常单数。",
+    "examples": [
+      [
+        "The building contains twelve apartments.",
+        "这栋楼有十二套公寓。"
+      ],
+      [
+        "The top-floor apartments have large windows.",
+        "顶层几套公寓有大窗户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/apartments#English",
+      "https://en.wiktionary.org/wiki/apartment#English"
+    ]
+  },
+  {
+    "word": "attorneys",
+    "ipa": "英 /əˈtɜːniz/；美 /əˈtɜːrniz/",
+    "meaning": "律师、获授权代理人〔复数〕",
+    "sense": "原本是被指定代表别人办事的人；现代常见法律语境里，attorneys 往往就是律师、法律代理人。",
+    "split": "attorney + -s，ey 保留，/i/ 后读 /z/。attorney 经法语 atorne 被指派者，接 atorner 指定、安排的动词材料，更早与转向词族相连。",
+    "history": [
+      [
+        "法语 atorner → atorne → attorney",
+        "指定、安排 → 被指定的代表"
+      ],
+      [
+        "attorney + -s → attorneys",
+        "多位律师、授权代理人"
+      ]
+    ],
+    "explanation": "defence attorneys 辩护律师；attorneys representing a client 代表委托人的律师。",
+    "usage": "a team of attorneys 一组律师；consult attorneys 向律师咨询。",
+    "contrast": "attorneys 不改成 attornies，因为 y 前是元音字母 e。attorney 在美式英语中常用作律师称呼，具体资格、职责需看所在制度。",
+    "examples": [
+      [
+        "The attorneys reviewed the documents.",
+        "律师们审阅了文件。"
+      ],
+      [
+        "Two attorneys represented the organisation.",
+        "两位律师代表这个组织。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attorneys#English",
+      "https://en.wiktionary.org/wiki/attorney#English"
+    ]
+  },
+  {
+    "word": "barriers",
+    "ipa": "英 /ˈbæriəz/；美 /ˈbæriərz/",
+    "meaning": "障碍物、屏障；阻碍、隔阂〔复数〕",
+    "sense": "路上横着一道东西，想过去就得跨越或移开，是 barriers；语言、费用、误解也能像这样挡住人。",
+    "split": "barrier + -s，词尾读 /z/。barrier 经法语 barriere 接 barre 杆、栅栏、门栓，入口阻挡物的意思扩展为一般障碍。",
+    "history": [
+      [
+        "法语 barre → barriere → barrier",
+        "杆、栅栏 → 屏障、障碍"
+      ],
+      [
+        "barrier + -s → barriers",
+        "多道实体障碍；多种抽象阻碍"
+      ]
+    ],
+    "explanation": "language barriers 语言障碍；safety barriers 安全护栏；barriers to entry 进入门槛。",
+    "usage": "remove barriers 消除障碍；barriers between groups 群体之间的隔阂。",
+    "contrast": "barriers 可妨碍通行，也可发挥安全保护作用，不能只背成坏的阻碍。barriers to doing something 的 to 是介词，后面可接 ing。",
+    "examples": [
+      [
+        "Language barriers made the conversation difficult.",
+        "语言障碍让交流变得困难。"
+      ],
+      [
+        "The workers placed safety barriers around the site.",
+        "工人在工地周围设置了安全护栏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barriers#English",
+      "https://en.wiktionary.org/wiki/barrier#English"
+    ]
+  },
+  {
+    "word": "belonged",
+    "ipa": "英 /bɪˈlɒŋd/；美 /bɪˈlɔːŋd/，也 /bɪˈlɑːŋd/",
+    "meaning": "属于、归于；处在合适位置、融入了〔过去式、过去分词〕",
+    "sense": "东西有它该归的主人、位置，人也有适合自己的群体。belonged 说过去就相属、在合适的地方。",
+    "split": "belong + -ed，/ŋ/ 后读 /d/。belong 接中古英语 belongen，be- 与 longen 适合、有关的旧用法组合，较早连到古英语相应材料。",
+    "history": [
+      [
+        "中古英语 be- + longen → belongen → belong",
+        "适合、有关 → 相属、属于、融入"
+      ],
+      [
+        "belong + -ed → belonged",
+        "过去属于；过去处在合适关系或位置"
+      ]
+    ],
+    "explanation": "belonged to someone 属于某人；belonged in the box 本该放在盒里；felt she belonged 感到自己融入其中。",
+    "usage": "had belonged to 此前属于；belonged together 应该在一起、适合放在一起。",
+    "contrast": "belonged to 主语是归属的东西，不用再加被动 be belonged to。belonged in、on 等则可以说合适的位置；人说 belonged 可以是归属感。",
+    "examples": [
+      [
+        "The notebook belonged to my grandfather.",
+        "笔记本原来属于我祖父。"
+      ],
+      [
+        "For the first time, she felt she belonged.",
+        "她第一次觉得自己融入了这里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/belonged#English",
+      "https://en.wiktionary.org/wiki/belong#English"
+    ]
+  },
+  {
+    "word": "characterized",
+    "ipa": "英 /ˈkærəktəraɪzd/；美 /ˈkærəktəraɪzd/，也 /ˈkerəktəraɪzd/",
+    "meaning": "刻画、描述了；以……为特征的〔过去式、过去分词〕",
+    "sense": "抓住最能认出它的特点，说清它是什么样，就是 characterized；某种特点贯穿其中，也能说它以此为特征。",
+    "split": "characterize 去 e 加完整 -ed，/z/ 后读 /d/。characterize 联系希腊、拉丁按特征标明的词族，现代可对应 character 特征加 -ize。",
+    "history": [
+      [
+        "希腊 kharakter、kharakterizein → 拉丁及英语 characterize",
+        "用特点标明、描述"
+      ],
+      [
+        "characterize 去 e + -ed → characterized",
+        "已被描述；具有某种鲜明特征"
+      ]
+    ],
+    "explanation": "characterized by simplicity 以简洁为特点；characterized A as B 把 A 描述为 B。",
+    "usage": "clearly characterized 描绘清楚的；characterized the period 构成那个时期的特征。",
+    "contrast": "characterized as 说别人怎样描述它；characterized by 说它本身有哪些突出特点。英式也常拼 characterised，意义相同。",
+    "examples": [
+      [
+        "The room was characterized by simple lines and warm colours.",
+        "房间的特点是线条简洁、色彩温暖。"
+      ],
+      [
+        "The review characterized the book as thoughtful and clear.",
+        "评论把这本书描述为有思想、表达清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/characterized#English",
+      "https://en.wiktionary.org/wiki/characterize#English"
+    ]
+  },
+  {
+    "word": "dealers",
+    "ipa": "英 /ˈdiːləz/；美 /ˈdiːlərz/",
+    "meaning": "经销商、商人；发牌者〔复数〕",
+    "sense": "deal 有经营交易，也有把牌一张张分出去的意思，dealers 因而可以是经销商，也可以是牌桌上发牌的人。",
+    "split": "dealer + -s，词尾读 /z/。deal 加完整 -er 形成角色名，古英语已有相应 daelere 名词；后来随经营、分发等义专门化。",
+    "history": [
+      [
+        "古英语分配、份额词族及人员名 → deal、dealer",
+        "分配、经营 → 处理相应事务的人"
+      ],
+      [
+        "dealer + -s → dealers",
+        "多个经销商、发牌者等"
+      ]
+    ],
+    "explanation": "car dealers 汽车经销商；art dealers 艺术品商人；card dealers 发牌者。",
+    "usage": "local dealers 当地经销商；dealers in antiques 古董商。",
+    "contrast": "dealers 的具体职业通常由前面的商品、后面的 in 短语或场景说明。不要只因为某些语境出现非法交易，就把 dealer 默认当违法者。",
+    "examples": [
+      [
+        "Several local dealers sell the same model.",
+        "几家当地经销商都卖同一款产品。"
+      ],
+      [
+        "The card dealers changed tables after the break.",
+        "休息后，发牌者们换了牌桌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dealers#English",
+      "https://en.wiktionary.org/wiki/dealer#English"
+    ]
+  },
+  {
+    "word": "aluminum",
+    "ipa": "美式常读 /əˈluːmɪnəm/",
+    "meaning": "铝〔常见美式名称〕",
+    "sense": "饮料罐、厨房铝箔里的那种金属，日常就常叫 aluminum；英式常见 aluminium，指的是同一元素。",
+    "split": "近代化学命名沿拉丁 alumen 明矾、alumina 氧化铝等材料，形成 alumium、aluminum、aluminium 等调整后的名称。aluminum 与 aluminium 是固定名称的常见美英分支。",
+    "history": [
+      [
+        "拉丁 alumen → 近代 alumina 等名称 → 元素命名",
+        "从明矾、氧化铝相关词基命名金属"
+      ],
+      [
+        "aluminum、aluminium 的近代拼法分化",
+        "常见美式 aluminum；英式 aluminium，所指相同"
+      ]
+    ],
+    "explanation": "aluminum foil 铝箔；aluminum cans 铝罐；an aluminum frame 铝制框架。",
+    "usage": "made of aluminum 用铝制成；recycle aluminum 回收铝。",
+    "contrast": "aluminum 通常是材料不可数名词，数制品说 cans、sheets 等。aluminium 的拼写、常用读音也有变化，不只是写字时随手增删一个 i。",
+    "examples": [
+      [
+        "The frame is made of aluminum.",
+        "框架是铝制的。"
+      ],
+      [
+        "She covered the dish with aluminum foil.",
+        "她用铝箔盖住了盘子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aluminum#English",
+      "https://www.etymonline.com/word/aluminum"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "B3285",
+    "meaning": "路；方向；方式",
+    "core": "WAY：从这里到那里，也从问题走向解决",
+    "image": "一条真实的路可走到车站，一种做法则把人带到结果。",
+    "intro": "way 是古英语 weġ 的后代。这个高频词既能说道路，也能说方式；各种交通与建筑词用前面的成分说明“什么东西走的路、通向哪里的路”。away、always 等又保留较早的表达演变。",
+    "forms": "合成词的两部分是并列材料：rail + way 不是 rail 历史上先变成 way。highway 的 high 指主要、重要的旧意；freeway 的 free 不保证免费。always 不是 all ways 的现代复数；wayward 接中古英语 aweiward。getaway、takeaway、throwaway 则由动词短语转成名词或形容词。\n\n道路与行事方式的联系很早已存在，复数既可说多条路，也可说多种方法、习惯。\n\n继承古英语合成词，high 的重要义不要求高架。\n\nway 道路、方式与 any 组合，anyways 末尾接历史副词 -s；现代一般更随意，正式书面常见 anyway。\n\nrail + way → railway，交通道路的具体命名；现代复数 railways 用于线路、系统，常见英式名称，对应美式 railroad 等搭配习惯。\n\npathway 是英语复合词，两个近义部分合成道路、通路名称。现代复数 -s，也比喻达成目标的途径、相互衔接的过程。",
+    "branches": [
+      [
+        "基础方向与程度",
+        "way · away · anyway · always"
+      ],
+      [
+        "走到哪里与偏移",
+        "halfway · midway · partway · sideways · wayward"
+      ],
+      [
+        "行程与进展",
+        "underway · headway · leeway · wayside"
+      ],
+      [
+        "道路与交通",
+        "highway · railway · freeway · motorway · runway · taxiway"
+      ],
+      [
+        "建筑中的通路",
+        "gateway · hallway · doorway · entryway · passageway · archway"
+      ],
+      [
+        "从短语变成词",
+        "getaway · takeaway · throwaway · giveaway"
+      ],
+      [
+        "way → ways：道路、方法与习惯",
+        "way · ways"
+      ],
+      [
+        "highway → highways：主要道路",
+        "highway · highways"
+      ],
+      [
+        "any way → anyway、anyways 的副词用法",
+        "anyways"
+      ],
+      [
+        "轨道的道路：railways",
+        "railways"
+      ],
+      [
+        "path 路 + way 路 → pathways",
+        "pathways"
+      ]
+    ],
+    "contrasts": "in the way：挡路；on the way：在途中。runway：跑道；taxiway：滑行道。doorway：门洞；hallway：室内走廊。halfway：约一半；partway：一部分。学习词族时记对象与场景，不只背一个“路”字。",
+    "practice": "Halfway through the journey, we found a better way forward. Our main takeaway was to leave more leeway next time.\n\n旅程进行到中途时，我们找到了更好的前进路线。最大的收获是，下次要多留一些余地。",
+    "words": [
+      "way",
+      "away",
+      "anyway",
+      "always",
+      "halfway",
+      "midway",
+      "partway",
+      "sideways",
+      "wayward",
+      "underway",
+      "headway",
+      "leeway",
+      "wayside",
+      "highway",
+      "railway",
+      "freeway",
+      "motorway",
+      "expressway",
+      "subway",
+      "airway",
+      "runway",
+      "taxiway",
+      "gateway",
+      "pathway",
+      "hallway",
+      "driveway",
+      "doorway",
+      "roadway",
+      "waterway",
+      "walkway",
+      "stairway",
+      "carriageway",
+      "fairway",
+      "beltway",
+      "alleyway",
+      "archway",
+      "entryway",
+      "gangway",
+      "waypoint",
+      "passageway",
+      "getaway",
+      "takeaway",
+      "throwaway",
+      "giveaway",
+      "ways",
+      "highways",
+      "anyways",
+      "railways",
+      "pathways"
+    ],
+    "exclude": {
+      "one-way": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "two-way": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "way-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "parkway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "speedway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tramway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "raceway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spillway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ridgeway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "seaway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skyway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "someway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "colorway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wayfarer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "byway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "laneway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tollway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slipway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bikeway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "entranceway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

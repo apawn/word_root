@@ -1,0 +1,140 @@
+[
+  {
+    "id": "B3029",
+    "meaning": "挂心；留意；照料；忧虑",
+    "core": "CARE：一件事放在心上，可能关怀，也可能操心",
+    "image": "花瓶怕摔所以小心，家人需要帮助所以关怀，烦恼压心上又叫忧虑。",
+    "intro": "care 名词接古英语 caru、ċearu，动词有 carian 等，早含忧虑、悲伤、挂念。现代注意、关怀、照护几支都常用，但不必把每个语境都翻成担心。",
+    "forms": "care → careful、careless、carefree、caring 先对照；照料角色 caretaker、carer、caregiver 与活动 caretaking、caregiving 各自相邻，再按对象 child、skin、hair 与时段 after、day、home 展开。原表 carling 的专门名称暂不扩列。\n\n本族忧虑、关心名词及动词，复数与三单形态重合。\n\n古英语忧虑、挂心名词及相应动词延续，现代 e 后加 d。",
+    "branches": [
+      [
+        "关注的几种状态",
+        "care · careful · careless · carefree · caring"
+      ],
+      [
+        "角色与活动",
+        "caretaker · caretaking · caregiver · caregiving · carer"
+      ],
+      [
+        "对象、阶段及场景",
+        "childcare · skincare · haircare · aftercare · daycare · homecare"
+      ],
+      [
+        "care → cares：挂在心上的事",
+        "care · cares"
+      ],
+      [
+        "care → cared：挂心、关心与照料",
+        "care · cared"
+      ]
+    ],
+    "contrasts": "careless 粗心，carefree 无忧，careful 谨慎，caring 体贴。carer 照护者，career 职业生涯。caretaker 可代管建筑或机构，不只照顾人。",
+    "practice": "The caring teacher checked every detail carefully so the children could enjoy a carefree afternoon.\n\n关爱学生的老师仔细核查每个细节，让孩子们能享受无忧的下午。",
+    "words": [
+      "care",
+      "careful",
+      "careless",
+      "carefree",
+      "caring",
+      "caretaker",
+      "caretaking",
+      "caregiver",
+      "caregiving",
+      "carer",
+      "childcare",
+      "skincare",
+      "haircare",
+      "aftercare",
+      "daycare",
+      "homecare",
+      "cares",
+      "cared"
+    ],
+    "exclude": {
+      "self-care": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "care-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heck-care": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "carling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2431",
+    "meaning": "称呼；名称；名誉；命名",
+    "core": "NAME：给对象一个可叫出来、可识别的称呼",
+    "image": "人要名字，账号、机器、项目也要名字；别人听到这个称呼的印象又成为名声。",
+    "intro": "name 接古英语 nama、noma，动词还有 namian 等形式。name 的声誉义与命名、身份关系相通，但现代每个复合词选的对象不同。",
+    "forms": "先 name、namely、nameless、rename，再看 namesake 的同名和纪念关系；标识物 nameplate、nametag 放一起，username、hostname、filename、namespace 是系统里的不同名称层次，codename 是代号，surname 是姓。\n\nnickname 原是额外的名字，历史上 an eke name 的 n 被重新划到后面的词；现代可作名词，也可作动词给人起绰号。\n\nnames 同时可作名词复数与动词第三人称，name names 是说出具体人名。\n\nname 去末尾 e，加完整 -ed，named 词尾读 /d/；named after 是以……命名。\n\n古英语名词、动词传承，现代去 e 加完整 ing。\n\nuser 为 use 去 e 加 er，整体再与 name 组合。\n\n文件名是给文件起的标识名；文件路径还包含所在位置的信息。",
+    "branches": [
+      [
+        "名称、指明与改名",
+        "name · namely · nameless · rename"
+      ],
+      [
+        "人与同名关系",
+        "namesake · surname"
+      ],
+      [
+        "可见标牌",
+        "nameplate · nametag"
+      ],
+      [
+        "系统名称与项目代号",
+        "username · hostname · filename · namespace · codename"
+      ],
+      [
+        "name → nickname → nicknamed",
+        "name · nickname · nicknamed"
+      ],
+      [
+        "name → names：名称与命名、点名",
+        "name · names · nickname"
+      ],
+      [
+        "name → named：命名、点名、任命",
+        "name · named"
+      ],
+      [
+        "name → naming：给名称、指明是谁",
+        "name · naming"
+      ],
+      [
+        "username → usernames：系统识别名",
+        "username · usernames"
+      ],
+      [
+        "name 的文件识别组合及复数",
+        "filename · filenames"
+      ]
+    ],
+    "contrasts": "namely 具体指明，不只是举例；namesake 同名不一定同姓。username 用户、hostname 主机、filename 文件，前半先定对象。",
+    "practice": "The nametag showed her name, but the username on the screen was a nickname.\n\n胸牌上是她的姓名，屏幕上的用户名却是昵称。",
+    "words": [
+      "name",
+      "namely",
+      "nameless",
+      "rename",
+      "namesake",
+      "surname",
+      "nameplate",
+      "nametag",
+      "username",
+      "hostname",
+      "filename",
+      "namespace",
+      "codename",
+      "nickname",
+      "nicknamed",
+      "names",
+      "named",
+      "naming",
+      "usernames",
+      "filenames"
+    ],
+    "exclude": {
+      "to-name": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "name-drop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "name-calling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dead-naming": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

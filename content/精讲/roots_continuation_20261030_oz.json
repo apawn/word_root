@@ -1,0 +1,220 @@
+[
+  {
+    "id": "A1753",
+    "meaning": "倍数、重数或方面数量，和实际折纸次数区分",
+    "core": "-FOLD：几份那么多，或分成几个方面",
+    "image": "twofold → threefold → fourfold → tenfold；manifold 从许多重走向多样及专门名。",
+    "intro": "先拿具体数字算倍数，再看双重目的这类方面数量。实际把纸折几次是另一种表达，不能拿折纸层数替代倍数词义。",
+    "forms": "古英语 -feald 等 → -fold；数词 + -fold；many 的旧材料 → manifold。相关复合词不少由古英语延续，不是今天全部新造。",
+    "branches": [
+      [
+        "明确倍数与方面数量",
+        "twofold · threefold · fourfold · tenfold"
+      ],
+      [
+        "多样及专业名词",
+        "manifold"
+      ]
+    ],
+    "contrasts": "10 到 20 是变成两倍；fourfold 不等于 four folds；manifold 也不是 mani 手加折叠。",
+    "practice": "The count rose twofold, then later reached tenfold its original size.\n\n数量先变成两倍，后来达到最初的十倍。",
+    "words": [
+      "twofold",
+      "threefold",
+      "fourfold",
+      "tenfold",
+      "manifold"
+    ],
+    "exclude": {
+      "e-fold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sevenfold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fivefold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eightfold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sixfold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3255",
+    "meaning": "容量单位及相应容器、饮品数量",
+    "core": "PINT：先问哪套品脱，再谈是多少",
+    "image": "pint 的日常搭配从牛奶、啤酒进入。",
+    "intro": "单位名称一眼认识还不够，英制、美制液量和干量有区别。学习例句时把量与被量的东西分开。",
+    "forms": "古法语 pinte → pint；更早可能接画记、容量标记材料；读 /paɪnt/。",
+    "branches": [
+      [
+        "容量与一份饮品",
+        "pint"
+      ]
+    ],
+    "contrasts": "容量不等于重量；英制品脱与美制液量品脱数值不同。",
+    "practice": "The bottle is marked in litres and pints.\n\n瓶子上标有升和品脱两种容量。",
+    "words": [
+      "pint"
+    ],
+    "exclude": {
+      "half-pint": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pinter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2386",
+    "meaning": "被某介质承载、传播，或由它带来",
+    "core": "-BORNE：搭着什么过来，就由什么携带",
+    "image": "airborne、waterborne 分别看空气、水的承载传播。",
+    "intro": "borne 接 bear 的承受、携带材料。感染传播是一种场景，空中尘粒、水中物质也能谈相应承载关系。",
+    "forms": "bear 的过去分词 borne；air、water 等 + borne 构成性质词。与 born 出生的拼法对照。",
+    "branches": [
+      [
+        "承载、传播介质",
+        "airborne · waterborne"
+      ]
+    ],
+    "contrasts": "-borne 的 e 保留；airborne 不只等于飞行中的飞机，waterborne 也不只等于一种疾病。",
+    "practice": "The glossary contrasts airborne particles with waterborne contaminants.\n\n词汇表对照空气携带的颗粒与水传播的污染物。",
+    "words": [
+      "airborne",
+      "waterborne"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4604",
+    "meaning": "盖住、设限或授帽记录，否定时分清场景",
+    "core": "CAPPED：盖、上限、代表队出场，不只一顶帽子",
+    "image": "capped → uncapped。",
+    "intro": "盖子限制开口，数量上限限制额度，体育 cap 则取代表队授帽传统。uncapped 的否定跟着整词义项走。",
+    "forms": "cap + -ed 双写 p → capped；un- 否定或 uncap 的分词 → uncapped；末尾 -ed 读 /t/。",
+    "branches": [
+      [
+        "加盖、限制与否定状态",
+        "capped · uncapped"
+      ]
+    ],
+    "contrasts": "uncapped player 不是完全没参加比赛；uncapped costs 也不是免费。",
+    "practice": "The article explains capped and uncapped in both pricing and sport.\n\n文章解释了 capped 和 uncapped 在定价与体育中的不同用法。",
+    "words": [
+      "capped",
+      "uncapped"
+    ],
+    "exclude": {
+      "red-capped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1822",
+    "meaning": "拉丁性质、状态名词材料，随整词固定下来",
+    "core": "-ITUDE：把一种性质或关系，当成状态来谈",
+    "image": "multitude 看数量众多；servitude 看受支配、奴役状态。",
+    "intro": "两词不靠中文统一成一个模糊的度。前半指出多或受役关系，词尾帮助形成状态、集合等名词。",
+    "forms": "拉丁 -tudo、-itudo 等名词材料，经法语等进入英语 -itude 形式；不少是整体借入，不是现代英语任意加尾。\n\naptitude 接拉丁 aptitudo 适合；attitude 经意大利语、法语借入，同族材料在姿态、心理倾向方向分化；现代拼写不同，不能随意互换。\n\n意大利、法语艺术姿态用语借入后扩展到心态，较早接适合词族。",
+    "branches": [
+      [
+        "众多与受役状态",
+        "multitude · servitude"
+      ],
+      [
+        "aptitude 与 attitude：适合的性质、姿态与态度",
+        "apt · aptitude · attitude"
+      ],
+      [
+        "attitude → attitudes：身体姿态到心理态度",
+        "attitude · attitudes"
+      ]
+    ],
+    "contrasts": "multitude 常可指一大群、许多，servitude 指受役状态；不是所有 -itude 都能按同一种可测量尺度理解。",
+    "practice": "The reading moves from a multitude of examples to a discussion of servitude.\n\n阅读从大量例子延伸到对受役状态的讨论。",
+    "words": [
+      "multitude",
+      "servitude",
+      "apt",
+      "aptitude",
+      "attitude",
+      "attitudes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4324",
+    "meaning": "几何相关的性质与表达方式",
+    "core": "GEOMETRIC：按形状、空间关系与几何结构来读",
+    "image": "geometric、geometrical → geometrically。",
+    "intro": "图案由规则形状组成，可以说 geometric；数学里也有专门的几何、等比等固定搭配。后缀长短不自动产生截然不同的两门知识。",
+    "forms": "希腊 geo- 地 + metron 度量等 → geometry 词族；geometric、geometrical 为相应形容词；-ly 成方式副词。",
+    "branches": [
+      [
+        "几何性质、形式与方式",
+        "geometric · geometrical · geometrically"
+      ]
+    ],
+    "contrasts": "geometric 和 geometrical 常有重叠，但固定搭配如 geometric mean、geometric progression 按整词组学习。",
+    "practice": "The geometric pattern is described geometrically using circles and lines.\n\n这个几何图案用圆和直线作几何描述。",
+    "words": [
+      "geometric",
+      "geometrical",
+      "geometrically"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1724",
+    "meaning": "恐惧、厌恶或排斥相关，整词决定临床与社会含义",
+    "core": "-PHOBIC：可能说恐惧，也可能说偏见、排斥",
+    "image": "agoraphobic 与 homophobic、xenophobic、transphobic 的性质不能一概而论。",
+    "intro": "词尾有恐惧的历史材料，现代社会词常说敌意、偏见，不要求当事人身体上真的害怕。临床恐惧词则另按具体症状范围理解。",
+    "forms": "希腊 phobos 恐惧等 → -phobic；与 -phobia 名词形式对照；前半材料和整词固定语境决定对象。",
+    "branches": [
+      [
+        "临床恐惧相关",
+        "agoraphobic"
+      ],
+      [
+        "社会偏见、排斥语境",
+        "homophobic · xenophobic · transphobic"
+      ]
+    ],
+    "contrasts": "不能只因词尾相同，就把社会偏见都当同一种医学诊断；agoraphobic 也不只表示不喜欢广场。",
+    "practice": "The glossary explains why agoraphobic and xenophobic require different contexts.\n\n词汇表解释了为什么 agoraphobic 与 xenophobic 需要按不同语境理解。",
+    "words": [
+      "agoraphobic",
+      "homophobic",
+      "xenophobic",
+      "transphobic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3871",
+    "meaning": "催马器具进入推动比喻，突出形状进入支部名",
+    "core": "SPUR：给行动一点推动，或从主体伸出一支",
+    "image": "spur 的动作、刺激因素、支线依不同画面理解。",
+    "intro": "催动和形状是两条现代义的联想路径。把普通搭配 spur on、on the spur of the moment 先抓住，读文章最实用。",
+    "forms": "古英语 spora、spura 等 → spur；名词转动词，另有突出部、支线等形状发展。\n\n本族马刺名，催动比喻与突出部、支线形状分开解释。\n\nspur 原有靴跟上的马刺名，动词借刺马催动的动作说激励、促使；spurred、spurring 双写末尾 r 后接 -ed、-ing。",
+    "branches": [
+      [
+        "马刺、推动与突出支部",
+        "spur"
+      ],
+      [
+        "spur → spurs：马刺与催动；另看突出部形状",
+        "spur · spurs"
+      ],
+      [
+        "spur → spurred、spurring：马刺推动到促进行动",
+        "spur · spurred · spurring"
+      ]
+    ],
+    "contrasts": "spur 不是 spear；on the spur of the moment 说临时起意，不是在某个马刺旁边。",
+    "practice": "A sudden idea spurred us to act on the spur of the moment.\n\n突然的想法推动我们临时行动起来。",
+    "words": [
+      "spur",
+      "spurs",
+      "spurred",
+      "spurring"
+    ],
+    "exclude": {
+      "spur-leather": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spurrier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "larkspur": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

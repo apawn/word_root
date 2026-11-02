@@ -1,0 +1,218 @@
+[
+  {
+    "id": "A2138",
+    "meaning": "儿童与脚是两条同形构词材料，须看具体词源",
+    "core": "PEDO：先分儿童 paid-，还是脚 ped-",
+    "image": "pediatric、pedophile 属儿童材料；pedometer 属脚的计步材料，不是儿童计量器。",
+    "intro": "同样 pedo- 拼法，希腊儿童与拉丁脚并非一个根。连同儿科词的 paediatric 拼写对照，就不容易把计步器读成给儿童用的仪器。",
+    "forms": "希腊 pais、paid- 儿童 → pedo-，接医疗或偏好等后半材料；拉丁 pes、ped- 脚 → pedometer，且有法语借入历史。",
+    "branches": [
+      [
+        "希腊儿童材料",
+        "pediatric · pedophile"
+      ],
+      [
+        "拉丁脚材料",
+        "pedometer"
+      ]
+    ],
+    "contrasts": "不能把这页所有 ped- 都合成脚或儿童一个意思；后半 -iatric、-phile、-meter 各有专门范围。",
+    "practice": "The pedometer counts steps; pediatric care concerns children.\n\n计步器数步数，儿科医疗关注儿童。",
+    "words": [
+      "pediatric",
+      "pedophile",
+      "pedometer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1725",
+    "meaning": "希腊五的数量材料，后半决定五个什么",
+    "core": "PENTA：先数到五，再看边、角、音",
+    "image": "pentagon 五边形，pentagram 五角星形，pentatonic 五声音阶相关。",
+    "intro": "五这个核心清楚，不能因都五个就把图形与音乐当同一事物。前缀认数量，后半认对象，是这组最省力的学习法。",
+    "forms": "希腊 pente 五 → penta-；gon 角、边形材料；gram 写画图形；tonic 音调材料。",
+    "branches": [
+      [
+        "五的图形与声音名称",
+        "pentagon · pentagram · pentatonic"
+      ]
+    ],
+    "contrasts": "pentagon 的五边形与 pentagram 五角星不同；pentatonic 不是五个音符随便摆在一起的唯一指定旋律。",
+    "practice": "The lesson moves from a pentagon to a pentatonic melody.\n\n课程从五边形讲到五声音阶旋律。",
+    "words": [
+      "pentagon",
+      "pentagram",
+      "pentatonic"
+    ],
+    "exclude": {
+      "penta-graphene": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3896",
+    "meaning": "按 boil 功能命名的设备，再形成板材和职业名",
+    "core": "BOILER：先是加热设备，再看它的板材和制作者",
+    "image": "boiler → boilerplate、boilermaker；实物名称可再发展成模板、饮品俗称等固定义。",
+    "intro": "boiler 的 -er 是设备，不是每次都指煮东西的人。boilerplate 从锅炉板材、印刷预制片到重复模板内容，boilermaker 从职业又转出饮品俚语。",
+    "forms": "boil + -er；boiler + plate；boiler + maker。现代设备不保证每一种都把水煮成蒸汽，旧功能名可扩大范围。",
+    "branches": [
+      [
+        "设备与板材、模板",
+        "boiler · boilerplate"
+      ],
+      [
+        "制作者及固定俗称",
+        "boilermaker"
+      ]
+    ],
+    "contrasts": "boilerplate 代码不是锅炉程序专名；boilermaker 的饮品义不能硬定一个未经证实的工人故事。",
+    "practice": "The boilermaker examined the boilerplate before repairing the boiler.\n\n锅炉工修锅炉前，先检查了锅炉板材。",
+    "words": [
+      "boiler",
+      "boilerplate",
+      "boilermaker"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4593",
+    "meaning": "把折拢的东西展开，走向可用位置与资源调配",
+    "core": "DEPLOY：摆开到需要的位置，让它能用上",
+    "image": "deploy → deployable；redeploy 再次或重新安排。",
+    "intro": "从展开画面进入，理解军事、人员、软件几个场景。开发、可部署、已经部署、重新调配是不同阶段和动作。",
+    "forms": "dis- + plicare → 法语 déployer 等 → deploy；-able 可能性；re- 再次、重新。\n\n法语 déployer 等材料接拉丁 dis 与 plicare，过去形式 y 保留。\n\ndeployment 经法语 déploiement 借入，现代对应 deploy 加 ment；不从策略 ploy 临时拼一条历史。",
+    "branches": [
+      [
+        "部署动作与可部署性质",
+        "deploy · deployable"
+      ],
+      [
+        "重新安排、部署",
+        "redeploy"
+      ],
+      [
+        "deploy → deployed：展开，再放到能起作用的位置",
+        "deploy · deployed"
+      ],
+      [
+        "deploy、deployment：展开到可用位置，部署与投入使用",
+        "deploy · deployment"
+      ]
+    ],
+    "contrasts": "deploy 不同于 develop；deployable 不同于 deployed；redeploy 员工也不自动是解雇。",
+    "practice": "The deployable system was deployed once, then redeployed after an update.\n\n这套可部署系统先投入使用，更新后又重新部署了一次。",
+    "words": [
+      "deploy",
+      "deployable",
+      "redeploy",
+      "deployed",
+      "deployment"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2551",
+    "meaning": "户外位置表达，进入爱好、风格与人物称呼",
+    "core": "OUTDOORS：人走到屋外，活动也围绕屋外",
+    "image": "outdoors → outdoorsy、outdoorsman，地点副词、风格性质、人物名。",
+    "intro": "outdoors 说在哪里，outdoorsy 说爱不爱、像不像户外风格，outdoorsman 说相关活动人物。词形层次清楚，就不会把三个词都译成在外面。",
+    "forms": "outdoor 加旧副词 -s，或联系 out of doors 短语发展 → outdoors；再接 -y、-man。",
+    "branches": [
+      [
+        "位置、偏好与人物",
+        "outdoors · outdoorsy · outdoorsman"
+      ]
+    ],
+    "contrasts": "outdoors 的 s 不按一般复数解释；outdoorsman 也不是无家可归的同义词。",
+    "practice": "The outdoorsy family spends much of its free time outdoors.\n\n这家人喜欢户外活动，很多闲暇时间都在户外度过。",
+    "words": [
+      "outdoors",
+      "outdoorsy",
+      "outdoorsman"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3755",
+    "meaning": "切划、阻止与苏格兰同形词分源，复合词不必都统一",
+    "core": "SCOTCH：划线和打消一支，苏格兰称呼另读",
+    "image": "scotch → hopscotch 取划线旧义；butterscotch 的后半仍保留来源争论。",
+    "intro": "不要用一个苏格兰故事解释整页。跳房子按地上划线理解，打消传言按现代阻止义理解，糖名与酒名各有历史问题。",
+    "forms": "scocchen、escocher 等 → scotch 切划；垫块近形词来源未定；Scottish → Scotch；hop + scotch，butter + scotch 的后半有争论。",
+    "branches": [
+      [
+        "切划、制止与游戏名",
+        "scotch · hopscotch"
+      ],
+      [
+        "来源有争论的糖名",
+        "butterscotch"
+      ]
+    ],
+    "contrasts": "butterscotch 的 scotch 不硬定苏格兰或切糖一条；Scotch 酒名与切划旧词不同源。",
+    "practice": "The teacher scotched the idea that hopscotch means hopping around Scotland.\n\n老师打消了 hopscotch 意为在苏格兰跳来跳去的误解。",
+    "words": [
+      "scotch",
+      "hopscotch",
+      "butterscotch"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4478",
+    "meaning": "达到满意要求的性质，否定与副词再调整表达",
+    "core": "SATISFACTORY：够达到要求，让人可以接受",
+    "image": "satisfactory → satisfactorily；unsatisfactory 加上否定，表示没有达到要求。",
+    "intro": "先抓达标、令人满意，不必把它夸成完美、卓越。副词说办得是否令人满意，否定词说结果未达要求。",
+    "forms": "法语 satisfactoire、拉丁 satisfactorius 等 → satisfactory；y 改 i 接 -ly → satisfactorily；un- 否定。",
+    "branches": [
+      [
+        "满意性质与方式",
+        "satisfactory · satisfactorily"
+      ],
+      [
+        "未达满意要求",
+        "unsatisfactory"
+      ]
+    ],
+    "contrasts": "satisfactory 通常不等于 excellent；satisfactorily 与 satisfyingly 在达标和主观满足感上常有不同搭配重心。",
+    "practice": "The satisfactory explanation resolved the issue satisfactorily.\n\n令人满意的解释妥善解决了问题。",
+    "words": [
+      "satisfactory",
+      "satisfactorily",
+      "unsatisfactory"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1816",
+    "meaning": "法语人物、职业词尾及其英语类推，读音与整词历史不同",
+    "core": "-IER：常在说从事相关工作的人，别当比较级",
+    "image": "collier、clothier 看职业，grenadier、brigadier 看军事人物；brazier 取铜匠一支。",
+    "intro": "不是每个词都由现代英语现场把 -ier 粘上去，很多整词借入或受职业词类推。brazier 火盆还另有法语余烬词来源，不能全部变成黄铜匠。",
+    "forms": "法语 -ier 接更早人物关系材料；brigade → 法语 brigadier；grenade → grenadier；coal 的旧词形 → collier；cloth 等职业形式类推。",
+    "branches": [
+      [
+        "职业人物",
+        "collier · clothier · brazier"
+      ],
+      [
+        "军事人物与军衔",
+        "grenadier · brigadier"
+      ]
+    ],
+    "contrasts": "brazier 铜匠与火盆分源；collier 的煤船名是人物词再转用途；-ier 在这些词里不是 funny → funnier 的比较级尾。",
+    "practice": "The museum labels identify a clothier, a collier and a brigadier in the old portraits.\n\n博物馆说明牌标出了旧肖像中的制衣业者、煤业从业者和准将。",
+    "words": [
+      "collier",
+      "clothier",
+      "brazier",
+      "grenadier",
+      "brigadier"
+    ],
+    "exclude": {
+      "spurrier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

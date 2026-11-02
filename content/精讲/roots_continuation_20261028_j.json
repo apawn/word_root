@@ -1,0 +1,138 @@
+[
+  {
+    "id": "B3560",
+    "meaning": "上；起来；增加与完成",
+    "core": "UP：从低到高，也让事情推进、接上或完成",
+    "image": "人站起来、数字升上去、东西用完，不同短语给 up 不同作用。",
+    "intro": "up 是古英语本族方向词。upward、upwards 保持方向最清楚；uphill 把上坡扩展为艰难；upkeep、pickup、getup 等则联系整个固定短语，不能只逐字译向上。",
+    "forms": "短语动词常分开写，形成名词后可连写：pick up／pickup、get up／getup、link up／linkup。upcoming 是将要发生，uptime 是可用运行时间。uproar 有荷兰语或德语表达的仿译背景。sup 另有进食等来历，不能因为像 up 就归在这里。\n\nbring 的标准过去式、过去分词都是 brought；bring up 抚养，与较早 upbring、名词 upbringing 的历史相连。这里 bring 是理解复合所需的基础词，不来自 up。\n\nbring 继承古英语 bringan；bringing 直接加 ing，过去 brought 另有变化。\n\nbrings 词尾在 ng 音后读 z；继承古英语携带、带来的词族。",
+    "branches": [
+      [
+        "方向与时间",
+        "up · upon · upward · upwards · upcoming"
+      ],
+      [
+        "有利与困难",
+        "upside · uphill"
+      ],
+      [
+        "接取、维护与使用",
+        "pickup · upkeep · uptime"
+      ],
+      [
+        "通信与连接",
+        "uplink · linkup"
+      ],
+      [
+        "装束、运动与喧闹",
+        "getup · layup · uproar"
+      ],
+      [
+        "地理和档次",
+        "upstate · upscale"
+      ],
+      [
+        "带来、带大与成长中的教养",
+        "bring · brought · upbringing"
+      ],
+      [
+        "bring → bringing：携带到参照点、带来结果",
+        "bring · bringing"
+      ],
+      [
+        "bring → brings：带来人与物，也带来结果",
+        "bring · brings"
+      ]
+    ],
+    "contrasts": "upcoming：将发生；ongoing：在进行。upward 作形容词，upwards 通常作副词。uplink 是上行链路，linkup 是接通或合作。",
+    "practice": "The upcoming repair should improve uptime, but regular upkeep will still be necessary.\n\n即将进行的维修应能提高运行可用时间，但定期维护仍有必要。",
+    "words": [
+      "up",
+      "upon",
+      "upward",
+      "upwards",
+      "upcoming",
+      "upside",
+      "pickup",
+      "uphill",
+      "upkeep",
+      "uproar",
+      "layup",
+      "uplink",
+      "getup",
+      "linkup",
+      "upstate",
+      "upscale",
+      "uptime",
+      "bring",
+      "brought",
+      "upbringing",
+      "bringing",
+      "brings"
+    ],
+    "exclude": {
+      "two-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "straight-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "draw-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sum-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chin-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glow-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stitch-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sup": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fixer-upper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pent-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "uppity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "upskirt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "upmost": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3652",
+    "meaning": "越过；在上；超出；完成",
+    "core": "OVER：跨一条线，再看跨的是空间、数量还是时间",
+    "image": "跨过桥、跨过一夜、超过容量，都用边界来帮助理解。",
+    "intro": "over 接古英语 ofer，可说空间上方、跨越、超过，也可说结束。overall 看整体，overnight 跨过夜晚，overload 超过负荷；固定组合还形成 hangover、layover 等不同场景。",
+    "forms": "over- 是词内成分时也不总只是过量；overland 是经陆路。sleep over／sleepover 的分写与连写区分动词和名词；oversleep 则是睡过头。overloading 的编程重载义须按专业约定理解。",
+    "branches": [
+      [
+        "整体、时间与程度",
+        "over · overall · overnight · overly"
+      ],
+      [
+        "旅行、停留与残余",
+        "overland · layover · sleepover · hangover"
+      ],
+      [
+        "负荷、影响和切换",
+        "overload · overloading · spillover · switchover"
+      ],
+      [
+        "超过年龄或额度的同形词",
+        "overage"
+      ]
+    ],
+    "contrasts": "layover：中转停留；hangover：宿醉或遗留影响。sleepover：留宿聚会；oversleep：睡过头。overload 说过量，overall 说整体。",
+    "practice": "The overnight switchover went well overall, although a short layover kept one engineer away from the office.\n\n夜间系统切换总体顺利，不过一段中转停留让一位工程师未能到办公室。",
+    "words": [
+      "over",
+      "overall",
+      "overnight",
+      "overly",
+      "hangover",
+      "overland",
+      "sleepover",
+      "overload",
+      "overloading",
+      "layover",
+      "spillover",
+      "switchover",
+      "overage"
+    ],
+    "exclude": {
+      "all-over": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "voice-over": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moreover": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "over-industrious": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

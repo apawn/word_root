@@ -1,0 +1,140 @@
+[
+  {
+    "id": "B4207",
+    "meaning": "屏障、网筛、投影幕与显示屏",
+    "core": "SCREEN：从挡在中间的一层，到筛与显示",
+    "image": "screen → screening；影视 screenplay → screenwriter → screenwriting 相邻；再分屏幕位置、屏保、烟幕和丝网。",
+    "intro": "旧词先指防火、防风屏障，经法语进入英语，较远日耳曼路线有讨论。屏幕和筛选都是后来发展的分支。",
+    "forms": "screen + -ing/writer/saver；on/off + screen；smoke/silk/flat/wide/full/home + screen。\n\n法语屏障词的历史，现代显示屏不是所有用法的起点。\n\n触碰方式与显示面组合为设备名称。\n\n截图与连续屏幕录制按是否记录时间过程区分。\n\nsaver 来自 save 去 e 加 er；早期护屏背景与现代装饰用途分开。\n\n屏障、筛网与投影屏幕等用途历史不同；现代动词既能放映，也能筛查、遮住。",
+    "branches": [
+      [
+        "基本遮挡与筛选、放映",
+        "screen · screening"
+      ],
+      [
+        "影视写作",
+        "screenplay · screenwriter · screenwriting"
+      ],
+      [
+        "屏幕位置与装置",
+        "onscreen · offscreen · screensaver · screenshot · widescreen · fullscreen · homescreen · flatscreen"
+      ],
+      [
+        "其他屏障与网版",
+        "smokescreen · silkscreen · sunscreen · windscreen"
+      ],
+      [
+        "screen → screens：遮挡、展示与筛选",
+        "screen · screens"
+      ],
+      [
+        "touch + screen → touchscreen → touchscreens",
+        "screen · touchscreen · touchscreens"
+      ],
+      [
+        "screen 的静态截取图名及复数",
+        "screenshot · screenshots"
+      ],
+      [
+        "screensaver → screensavers：闲置显示功能",
+        "screensaver · screensavers"
+      ],
+      [
+        "screen 的放映、筛选与遮挡支线",
+        "screen · screened · screening · screenings"
+      ]
+    ],
+    "contrasts": "screen 电影是放映、申请者是筛选；screensaver 屏保与 wallpaper 壁纸分；flatscreen 外形、widescreen 比例。",
+    "practice": "The screenwriter attended a screening and saw her characters onscreen.\n\n编剧参加放映，看见自己笔下的角色出现在银幕上。",
+    "words": [
+      "screen",
+      "screening",
+      "screenplay",
+      "screenwriter",
+      "screenwriting",
+      "onscreen",
+      "offscreen",
+      "screensaver",
+      "screenshot",
+      "widescreen",
+      "fullscreen",
+      "homescreen",
+      "flatscreen",
+      "smokescreen",
+      "silkscreen",
+      "sunscreen",
+      "windscreen",
+      "screens",
+      "touchscreen",
+      "touchscreens",
+      "screenshots",
+      "screensavers",
+      "screened",
+      "screenings"
+    ],
+    "exclude": {
+      "screen-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "screener": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3121",
+    "meaning": "巧思、机械装置与发动机；工程职业",
+    "core": "ENGINE：巧思造装置，现代常说提供动力的核心",
+    "image": "engine 后接相关职业 engineer、活动 engineering，避免以为工程只修发动机。",
+    "intro": "法语 engin 来自拉丁 ingenium 天赋、巧思。engineer 有独立法语人物词借入历史，engineering 才是英语常见 -ing 派生。",
+    "forms": "拉丁 ingenium → 法语 engin → engine；法语 engigneor → engineer → engineering。\n\n拉丁天赋、巧思词经法语发展为装置名称，后有发动机、软件核心等义。\n\n法语装置制造者名词较早借入，现代也可作设计、促成的动词。",
+    "branches": [
+      [
+        "装置、人物与专业",
+        "engine · engineer · engineering"
+      ],
+      [
+        "engine → engines：巧妙装置与发动机",
+        "engine · engines"
+      ],
+      [
+        "engineer → engineers：巧妙装置的设计者",
+        "engineer · engineers"
+      ]
+    ],
+    "contrasts": "engine 软件可指核心系统；engineer 不只发动机修理员；engine 与 motor 不能简单按燃油、电力绝对分。",
+    "practice": "The engineer studies how the engine fits into the wider engineering system.\n\n工程师研究发动机怎样融入更大的工程系统。",
+    "words": [
+      "engine",
+      "engineer",
+      "engineering",
+      "engines",
+      "engineers"
+    ],
+    "exclude": {
+      "twin-engine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "engined": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4290",
+    "meaning": "工程师、策划与工程专业",
+    "core": "ENGINEER：设计解决问题的人，也可说有计划地促成",
+    "image": "先相关 engine，再 engineer → engineering，人物和专业相邻。",
+    "intro": "工程人物词借法语，最终与天赋、巧思词族相连，后来发展到土木、机械、软件等多领域。",
+    "forms": "engine 相关旧词族；engineer → engineering。",
+    "branches": [
+      [
+        "相关装置、人物与专业",
+        "engine · engineer · engineering"
+      ]
+    ],
+    "contrasts": "engineering 是专业或活动，不只是引擎；engineer 作动词还可策划促成。",
+    "practice": "The engineering team engineered a practical solution.\n\n工程团队设计出了一个实用方案。",
+    "words": [
+      "engine",
+      "engineer",
+      "engineering"
+    ],
+    "exclude": {
+      "re-engineer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "retro-engineer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

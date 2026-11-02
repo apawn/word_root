@@ -1,0 +1,322 @@
+[
+  {
+    "word": "unusable",
+    "ipa": "/ʌnˈjuːzəbəl/",
+    "meaning": "不能使用的；不适用的",
+    "sense": "文件打不开、椅子断了腿、数据乱到无法利用，都可能是 unusable：拿到了也没法按需要用起来。",
+    "split": "un- 否定 + usable 可使用的；usable 对应 use 去末尾 e 加 -able。un- 否定整个性质，不是动作“把使用撤销”。",
+    "history": [
+      [
+        "英语 use + -able → usable",
+        "可以使用、适于使用的"
+      ],
+      [
+        "un- + usable → unusable",
+        "不能用；不适合使用"
+      ]
+    ],
+    "explanation": "an unusable file 无法使用的文件；an unusable room 无法正常使用的房间；render something unusable 使某物无法使用。",
+    "usage": "an unusable file；render something unusable。",
+    "contrast": "unusable 不能用，unused 没被用；全新的备用文件可能 unused，却完全 usable。",
+    "examples": [
+      [
+        "The damaged file was unusable.",
+        "损坏的文件无法使用了。"
+      ],
+      [
+        "Heavy rain left the outdoor stage unusable.",
+        "大雨使室外舞台无法使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unusable#English"
+    ]
+  },
+  {
+    "word": "intuitive",
+    "ipa": "英 /ɪnˈtjuːɪtɪv/；美 /ɪnˈtuːɪtɪv/",
+    "meaning": "凭直觉的；直观易懂的",
+    "sense": "还没把推理一步步说出来，已经大致抓到了答案；界面一看就知道怎么操作，也可以说 intuitive。",
+    "split": "借法语 intuitif 等，上接中世纪拉丁 intuitivus、拉丁 intueri 注视、考虑；in- 在这里是朝向，tueri 是看，不是否定前缀。",
+    "history": [
+      [
+        "拉丁 in- 朝向 + tueri 看 → intueri",
+        "注视、考虑"
+      ],
+      [
+        "中世纪拉丁 intuitivus；法语 intuitif 等 → intuitive",
+        "直观把握的；凭直觉的"
+      ],
+      [
+        "intuitive + -ly → intuitively",
+        "凭直觉、直观地"
+      ]
+    ],
+    "explanation": "an intuitive understanding 直觉式理解；an intuitive interface 易懂易用的界面；an intuitive sense 直觉判断。感觉可来自经验，也可能判断错误。",
+    "usage": "intuitive understanding；an intuitive interface；an intuitive sense of。",
+    "contrast": "intuitive 容易凭直觉把握，counterintuitive 与直觉预期相反；后者不自动等于错误，前者也不保证正确。",
+    "examples": [
+      [
+        "The app has an intuitive interface that new users can understand quickly.",
+        "这个应用的界面直观，新用户很快就能看懂。"
+      ],
+      [
+        "Years of practice gave her an intuitive sense of timing.",
+        "多年练习让她对时机形成了直觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intuitive#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/intuitive"
+    ]
+  },
+  {
+    "word": "intuitively",
+    "ipa": "英 /ɪnˈtjuːɪtɪvli/；美 /ɪnˈtuːɪtɪvli/",
+    "meaning": "凭直觉地；直观上",
+    "sense": "你可能还没写出证明，但心里先觉得应该这样。intuitively 交代的是判断方式，不给结论盖正确印章。",
+    "split": "intuitive + -ly → intuitively，保留末尾 e 再接 -ly；副词用于理解、感觉、使用等动作或整句判断。",
+    "history": [
+      [
+        "拉丁 in- 朝向 + tueri 看 → intueri",
+        "注视、考虑"
+      ],
+      [
+        "中世纪拉丁 intuitivus；法语 intuitif 等 → intuitive",
+        "直观把握的；凭直觉的"
+      ],
+      [
+        "intuitive + -ly → intuitively",
+        "凭直觉、直观地"
+      ]
+    ],
+    "explanation": "intuitively understand 凭直觉理解；intuitively obvious 直观上显而易见；Intuitively, ... 从直觉上说……。",
+    "usage": "intuitively understand；intuitively obvious；intuitively appealing。",
+    "contrast": "intuitively 并不必然是天生就会；长期训练形成的熟练模式也能让判断看起来不经刻意思考。",
+    "examples": [
+      [
+        "She intuitively understood what the child was trying to say.",
+        "她凭直觉明白了孩子想表达什么。"
+      ],
+      [
+        "The result seems intuitively obvious, but it still needs a proof.",
+        "结果直观上似乎显然，但仍需要证明。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intuitively#English"
+    ]
+  },
+  {
+    "word": "exclusionary",
+    "ipa": "英 /ɪkˈskluːʒənri/；美 /ɪkˈskluːʒəneri/",
+    "meaning": "排斥性的；把某些人、事物排除在外的",
+    "sense": "规则表面开着门，条件却让某群人进不来，便可以说是 exclusionary。重点在产生排除的机制、性质。",
+    "split": "exclusion + -ary → exclusionary；exclusion 追到拉丁 ex- 在外 + claudere 关闭的排除材料，不拆成现代 exclude 直接加 -ary。",
+    "history": [
+      [
+        "拉丁 excludere、exclusio → exclusion",
+        "把……关在外面；排除"
+      ],
+      [
+        "exclusion + -ary → exclusionary",
+        "具有排除作用、性质的"
+      ]
+    ],
+    "explanation": "exclusionary rules 排除性规则；exclusionary practices 排斥性做法；正式语境常用于参与资格、群体边界等。专门法律词组另按所处体系理解。",
+    "usage": "exclusionary practices；exclusionary rules；an exclusionary policy。",
+    "contrast": "exclusion 是排除这个行为、结果，exclusionary 修饰造成排除的性质；exclusive 还可指独家、高档专属，不能处处替换。",
+    "examples": [
+      [
+        "The club changed rules that had been criticised as exclusionary.",
+        "俱乐部修改了被批评具有排斥性的规则。"
+      ],
+      [
+        "The study examines exclusionary practices in recruitment.",
+        "研究考察招聘中的排斥性做法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exclusionary#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/exclusionary"
+    ]
+  },
+  {
+    "word": "cuff",
+    "ipa": "/kʌf/",
+    "meaning": "袖口；裤脚翻边；手铐、铐住〔缩略〕；拍打",
+    "sense": "衬衫包住手腕的那一圈是 cuff；衣物词走向腕部圈套，再能与手铐联系。拍打一巴掌的 cuff 则是另一条来源。",
+    "split": "衣物义接中古英语 cuffe 手套等，远源未定。手铐义可由 handcuff 缩短；打、拍义可能接北欧语言的推击材料，不能硬讲成拿袖口打人。",
+    "history": [
+      [
+        "中古英语 cuffe、coffe",
+        "手套、连指手套；远源未定"
+      ],
+      [
+        "英语 cuff 袖口 → handcuff、缩短 cuff",
+        "袖口、腕部圈套；给人戴手铐"
+      ],
+      [
+        "另源 cuff 打、拍",
+        "可能接北欧语推、打材料，不与袖口强并"
+      ]
+    ],
+    "explanation": "shirt cuffs 衬衫袖口；trouser cuffs 裤脚翻边；off the cuff 即兴地、未准备地；cuff someone 铐住或拍打，要看语境。",
+    "usage": "shirt cuffs；off the cuff；a cuff on the ear。",
+    "contrast": "off the cuff 的即兴表达常联系袖口便记的画面，但不要把这种解释升级成所有场合都真正写了袖口小抄。",
+    "examples": [
+      [
+        "He rolled back the cuffs of his shirt.",
+        "他把衬衫袖口翻了上去。"
+      ],
+      [
+        "She answered the question off the cuff.",
+        "她即兴回答了这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cuff#English",
+      "https://www.etymonline.com/word/cuff"
+    ]
+  },
+  {
+    "word": "cyberpunk",
+    "ipa": "英 /ˈsaɪbəpʌŋk/；美 /ˈsaɪbɚˌpʌŋk/",
+    "meaning": "赛博朋克；相关创作、人物",
+    "sense": "技术已经非常发达，城市生活却可能混乱、贫富悬殊，人物在系统夹缝里生存，这类科幻常有 cyberpunk 的气质。不是加上霓虹灯就够了。",
+    "split": "cyber- 计算机、控制技术相关 + punk 反叛人物、文化材料。Bruce Bethke 于 1983 年发表同名短篇，此名后来成为流派称呼。",
+    "history": [
+      [
+        "希腊 kybernetes 舵手、掌舵者 → cybernetics",
+        "控制、通信相关学科名称"
+      ],
+      [
+        "cybernetics 等缩取 cyber-",
+        "逐渐广用于计算机、网络、虚拟空间"
+      ],
+      [
+        "cyber- + punk／crime",
+        "赛博朋克；网络犯罪"
+      ]
+    ],
+    "explanation": "cyberpunk fiction 赛博朋克小说；a cyberpunk setting 赛博朋克背景；cyberpunk aesthetics 赛博朋克美学。常结合高科技与社会失序、权力压迫等主题。",
+    "usage": "cyberpunk fiction；a cyberpunk setting；cyberpunk aesthetics。",
+    "contrast": "cyberpunk 是流派、风格相关名，cybercrime 是借网络实施犯罪；喜欢此类小说不等于参与犯罪。",
+    "examples": [
+      [
+        "The novel combines cyberpunk themes with a detective story.",
+        "这部小说把赛博朋克主题与侦探故事结合起来。"
+      ],
+      [
+        "The game is set in a crowded cyberpunk city.",
+        "游戏背景是一座拥挤的赛博朋克城市。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cyberpunk#English"
+    ]
+  },
+  {
+    "word": "cybercrime",
+    "ipa": "英 /ˈsaɪbəkraɪm/；美 /ˈsaɪbɚkraɪm/",
+    "meaning": "网络犯罪",
+    "sense": "电脑、网络成为作案工具或攻击目标，像窃取账户资料这类行为，常落在 cybercrime 的讨论范围。",
+    "split": "cyber- 网络、计算机相关 + crime 犯罪 → cybercrime。cyber- 从控制、通信词族缩取后扩展，不是原始希腊语就表示互联网。",
+    "history": [
+      [
+        "希腊 kybernetes 舵手、掌舵者 → cybernetics",
+        "控制、通信相关学科名称"
+      ],
+      [
+        "cybernetics 等缩取 cyber-",
+        "逐渐广用于计算机、网络、虚拟空间"
+      ],
+      [
+        "cyber- + punk／crime",
+        "赛博朋克；网络犯罪"
+      ]
+    ],
+    "explanation": "combat cybercrime 打击网络犯罪；cybercrime investigations 网络犯罪调查；可说整体类型，也可数某次此类犯罪。",
+    "usage": "combat cybercrime；cybercrime investigations；a rise in cybercrime。",
+    "contrast": "cybercrime 涉及犯罪，不是所有网络争吵、系统故障都自动算；具体法律分类随适用制度判断。",
+    "examples": [
+      [
+        "The report describes a rise in cybercrime targeting small businesses.",
+        "报告描述了针对小企业的网络犯罪增多。"
+      ],
+      [
+        "The course introduces basic terms used in cybercrime investigations.",
+        "课程介绍网络犯罪调查中的基本术语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cybercrime#English"
+    ]
+  },
+  {
+    "word": "sleepily",
+    "ipa": "/ˈsliːpɪli/",
+    "meaning": "困倦地；带着睡意地",
+    "sense": "眼睛还没睁开就含糊应一声，声音和动作都带睡意，就是 sleepily。",
+    "split": "sleepy + -ly，y 改 i → sleepily；不是 sleep + ily 的独立新后缀。",
+    "history": [
+      [
+        "sleep + -y；历史相应 sleepy 形式",
+        "带睡意的；令人觉得安静无活力的"
+      ],
+      [
+        "sleepy 改 y 为 i 接 -ly／-ness",
+        "困倦地；困倦这种状态"
+      ]
+    ],
+    "explanation": "murmur sleepily 困倦地低声说；blink sleepily 睡眼惺忪地眨眼；answer sleepily 带睡意地回答。",
+    "usage": "blink sleepily；answer sleepily；yawn sleepily。",
+    "contrast": "sleepily 困得想睡，sleeping 是正在睡；人能 sleepily answer，通常还没完全睡着。",
+    "examples": [
+      [
+        "He blinked sleepily at the bright window.",
+        "他睡眼惺忪地望着明亮的窗户。"
+      ],
+      [
+        "She answered sleepily and pulled the blanket closer.",
+        "她带着睡意应了一声，把毯子拉近了些。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sleepily#English"
+    ]
+  },
+  {
+    "word": "sleepiness",
+    "ipa": "/ˈsliːpinəs/",
+    "meaning": "困倦；睡意",
+    "sense": "不是睡了多少小时，而是现在有多想睡。sleepiness 把这种眼皮发沉的感觉当作一个状态来谈。",
+    "split": "sleepy + -ness，y 改 i → sleepiness；-ness 构成性质、状态名词。",
+    "history": [
+      [
+        "sleep + -y；历史相应 sleepy 形式",
+        "带睡意的；令人觉得安静无活力的"
+      ],
+      [
+        "sleepy 改 y 为 i 接 -ly／-ness",
+        "困倦地；困倦这种状态"
+      ]
+    ],
+    "explanation": "daytime sleepiness 白天困倦；a wave of sleepiness 一阵睡意；sleepiness after lunch 午饭后的困意。",
+    "usage": "daytime sleepiness；a wave of sleepiness。",
+    "contrast": "sleepiness 是想睡的感觉，sleeplessness 是睡不着或缺少睡眠的状态；拼写只差一点，方向不同。",
+    "examples": [
+      [
+        "A wave of sleepiness came over him after lunch.",
+        "午饭后，他涌上一阵睡意。"
+      ],
+      [
+        "The diary records periods of daytime sleepiness.",
+        "日记记录了白天出现困意的时段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sleepiness#English"
+    ]
+  }
+]

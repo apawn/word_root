@@ -1,0 +1,259 @@
+[
+  {
+    "id": "B2981",
+    "meaning": "辐条；另有同形的说话过去式",
+    "core": "SPOKE：同一拼写下，分清车轮与说话两条历史",
+    "image": "a broken spoke 是断了的辐条；she spoke 是她说了话；spokesperson 属于说话这边，不能从车轮解释。",
+    "intro": "名词 spoke 来自古英语 spāca；说话形式 spoke 则属于 speak 的不规则词形。把它们放在同一页是为辨形，不是说同一个词根能任意跨越词义。",
+    "forms": "speak—spoke—spoken；spokesman、spokeswoman、spokesperson 用说话词族材料称替别人发言的人。辐条 spoke 自己也能作给轮子装辐条的动词。",
+    "branches": [
+      [
+        "车轮的结构",
+        "spoke〔辐条〕"
+      ],
+      [
+        "说话的语法形式",
+        "speak · spoke〔过去式〕· spoken"
+      ],
+      [
+        "代表别人说话的人",
+        "spokesman · spokeswoman · spokesperson"
+      ]
+    ],
+    "contrasts": "spokesperson 不是辐条人；have spoken 不写 have spoke。具体句子先辨词性、对象，再选相应历史分支。",
+    "practice": "The mechanic spoke about a damaged wheel spoke.\n\n修理工谈到了一根受损的车轮辐条。",
+    "words": [
+      "spoke",
+      "speak",
+      "spoken",
+      "spokesman",
+      "spokeswoman",
+      "spokesperson"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2830",
+    "meaning": "打破后的状态；受损、中断或受创的",
+    "core": "BROKEN：原来的整体、功能或连续性被破坏",
+    "image": "杯子会碎，机器会坏，谈话会被打断，心也能借这个画面说受伤。",
+    "intro": "broken 从古英语 brocen 等 break 的强变化过去分词延续。现代既是分词，也成为广泛的状态形容词。",
+    "forms": "break—broke—broken；un- + broken → unbroken；broken + -ness → brokenness；heartbroken、brokenhearted 把受损画面用于情感。",
+    "branches": [
+      [
+        "基本形式与受损状态",
+        "break · broken"
+      ],
+      [
+        "保持完整、连续",
+        "unbroken"
+      ],
+      [
+        "受创情感与状态",
+        "heartbroken · brokenhearted · brokenness"
+      ]
+    ],
+    "contrasts": "broken machine 不一定碎成几块；broken English 常说不流利、不完整的表达；brokenness 是抽象状态，不能当一块碎片。",
+    "practice": "The box was broken, but the vase inside remained unbroken.\n\n盒子破了，里面的花瓶却完好无损。",
+    "words": [
+      "break",
+      "broken",
+      "unbroken",
+      "heartbroken",
+      "brokenhearted",
+      "brokenness"
+    ],
+    "exclude": {
+      "half-broken": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "broken-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2875",
+    "meaning": "悬挂、垂下；依附、延续等比喻",
+    "core": "HANG：一个东西有支点，身体或余部垂在那里",
+    "image": "衣服挂在 hanger 上是具体动作；hangover 的不适像前一天留下没散的东西；hangout 是常去消磨时间的地方。",
+    "intro": "现代 hang 合流了古英语不同的及物、不及物悬挂形式，并受北欧语相关形式影响。身体悬挂的画面逐步伸到停留、依附、未消散等用法。",
+    "forms": "hang + -er → hanger；hang + -ing → hanging；hang + over → hangover；hang + out → hangout；over + hang → overhang。\n\nhang 加 er 提供悬挂作用物，前半给衣物用途。\n\n常见为衣架；er 作用物名不要求是人。",
+    "branches": [
+      [
+        "悬挂与器具",
+        "hang · hanging · hanger"
+      ],
+      [
+        "突出、残留与场所",
+        "overhang · hangover · hangout"
+      ],
+      [
+        "旧执行者称呼",
+        "hangman"
+      ],
+      [
+        "hanger 的衣物组合 coathanger 及复数",
+        "hang · hanger · coathanger · coathangers"
+      ],
+      [
+        "hanger → hangers：悬挂器具的复数",
+        "hang · hanger · hangers"
+      ]
+    ],
+    "contrasts": "普通悬挂的过去式、分词通常 hung；绞刑语境通常 hanged。hanger 衣架与 hangar 飞机库不同。",
+    "practice": "Hang your coat on the wooden hanger.\n\n把外套挂在那个木衣架上。",
+    "words": [
+      "hang",
+      "hanging",
+      "hanger",
+      "overhang",
+      "hangover",
+      "hangout",
+      "hangman",
+      "coathanger",
+      "coathangers",
+      "hangers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3740",
+    "meaning": "教师；从事教学的人",
+    "core": "TEACHER：让别人学会，而不只把话说出来",
+    "image": "teacher 是教师，schoolteacher 把工作场所说清，headteacher 再标出负责整所学校的角色。",
+    "intro": "teacher 接中古英语 techere，对应 teach + -er。不同教学工作、机构中，具体职称仍有各自惯例。",
+    "forms": "teach + -er → teacher；school + teacher → schoolteacher；head + teacher → headteacher。head 在末词里取负责人的引申。",
+    "branches": [
+      [
+        "基本教学与人物",
+        "teach · teacher"
+      ],
+      [
+        "学校场景及负责人",
+        "schoolteacher · headteacher"
+      ]
+    ],
+    "contrasts": "headteacher 主要英式学校用语；美式学校常叫 principal。lecturer、professor 等不是在所有场景都与 teacher 的职衔完全相同。",
+    "practice": "The headteacher thanked every schoolteacher for their work.\n\n校长感谢每一位学校教师的工作。",
+    "words": [
+      "teach",
+      "teacher",
+      "schoolteacher",
+      "headteacher"
+    ],
+    "exclude": {
+      "e-teacher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ex-teacher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3705",
+    "meaning": "明智、见识与恰当判断",
+    "core": "WISE：看得明白，也顾及后果",
+    "image": "wise 不只会解难题，还会判断什么值得做；wisely 是这样处理事情，unwise 是这次选择欠考虑。",
+    "intro": "wise 接古英语 wīs，连接更早知道、看见的日耳曼语及印欧语材料。看见与知道的关系是古老词族背景，不是现代英语 sight 直接变来的词。",
+    "forms": "wise + -ly → wisely；un- + wise → unwise；wise + -dom → wisdom；wizard 连着较早 wise + -ard 的聪明、有学问人物称呼；righteous 承接古英语 rihtwīs。",
+    "branches": [
+      [
+        "基本判断与做事方式",
+        "wise · wisely · unwise · wisdom"
+      ],
+      [
+        "小额开支上的精明",
+        "pennywise"
+      ],
+      [
+        "旧人物称呼及词形演变",
+        "wizard · righteous"
+      ]
+    ],
+    "contrasts": "clockwise、counterclockwise 的 -wise 是方式、方向材料，不直接按明智解释；wise 的明智也不等于只会省钱。",
+    "practice": "A wise person can admit that a decision was unwise.\n\n明智的人能够承认某次决定欠考虑。",
+    "words": [
+      "wise",
+      "wisely",
+      "unwise",
+      "wisdom",
+      "pennywise",
+      "wizard",
+      "righteous"
+    ],
+    "exclude": {
+      "way-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "penny-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wise-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counterclockwise": "这里的 -wise 说方向、方式，不直接按 wise 明智这一形容词词基解释。"
+    }
+  },
+  {
+    "id": "B3242",
+    "meaning": "飞行、航班；飞动、逃离及固定引申",
+    "core": "FLIGHT：先看到飞动，再按场景看延伸",
+    "image": "flight 可说飞行、航班，a flight of stairs 是一段楼梯；flighty 却常评价心思飘忽，不是说人拥有翅膀。",
+    "intro": "飞行的 flight 接古英语 flyht，属于 fly 的日耳曼语词族；逃跑义另有与 flee 相连的古老材料，后来形式接近。不能把所有固定搭配只按坐飞机翻。",
+    "forms": "fly 与 flight 是旧词族对应；flight + -less → flightless；pre- + flight → preflight；flight + -y → flighty。\n\nflee → fled → fled，说逃离；fly → flew → flown，说飞行。两条旧词族在历史上有交叠，现代常用过去形式分开。\n\n古英语 fleon、flion 继承，现代与 fly 的常用变位分开。",
+    "branches": [
+      [
+        "动作、航班及固定引申",
+        "fly · flight"
+      ],
+      [
+        "飞行能力和准备",
+        "flightless · preflight"
+      ],
+      [
+        "性格评价",
+        "flighty"
+      ],
+      [
+        "flee 与 fled：逃离这一条 flight 支线",
+        "flee · fled · flight"
+      ],
+      [
+        "flee → flees、fleeing：离开危险、逃离",
+        "flee · flees · fleeing"
+      ]
+    ],
+    "contrasts": "flighty 心思不定不等于 flightless 不会飞；a flight of stairs 也不是楼梯乘航班。按完整搭配取义。",
+    "practice": "The flightless bird cannot join the flock in flight.\n\n这只不会飞的鸟无法跟着鸟群一起飞行。",
+    "words": [
+      "fly",
+      "flight",
+      "flightless",
+      "preflight",
+      "flighty",
+      "flee",
+      "fled",
+      "flees",
+      "fleeing"
+    ],
+    "exclude": {
+      "in-flight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3970",
+    "meaning": "宗教相关；虔诚、严格坚持的性质",
+    "core": "RELIGIOUS：分清宗教关系与认真坚持的比喻",
+    "image": "religious music 涉及宗教；religiously check the door 却可能只说每次都认真检查门，并不要求有仪式。",
+    "intro": "religious 经法语相关形式接拉丁 religiosus，与 religio 相连。宗教关系、虔敬和认真履行的材料支撑后来的多种用法；religio 更远来源存在争论。",
+    "forms": "religious + -ly → religiously；non- + religious → nonreligious；inter- + religious → interreligious；religiosity 为相应抽象性质名词。",
+    "branches": [
+      [
+        "基本性质、程度及做事方式",
+        "religious · religiosity · religiously"
+      ],
+      [
+        "是否属于宗教及跨宗教关系",
+        "nonreligious · interreligious"
+      ]
+    ],
+    "contrasts": "nonreligious 不属宗教与 antireligious 反宗教不同；religiously 的日常坚持义也不代表说话者在宣称某种信仰。",
+    "practice": "The nonreligious musician practises religiously every day.\n\n这位没有宗教信仰的音乐人每天都雷打不动地练习。",
+    "words": [
+      "religious",
+      "religiosity",
+      "religiously",
+      "nonreligious",
+      "interreligious"
+    ],
+    "exclude": {}
+  }
+]

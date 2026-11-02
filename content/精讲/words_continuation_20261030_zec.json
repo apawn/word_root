@@ -1,0 +1,784 @@
+[
+  {
+    "word": "recorder",
+    "ipa": "英 /rɪˈkɔːdə/；美 /rɪˈkɔːrdər/",
+    "meaning": "录音机、记录仪；记录者；竖笛",
+    "sense": "把声音、数据留下的设备是 recorder；音乐课里的竖笛也叫 recorder，名称却接 record 旧时练唱曲调的用法。",
+    "split": "现代可认 record + -er。记录者一支早经法语 recordour 等接拉丁 recordari 记住；竖笛名则接旧时英语 record 反复唱、练曲调，不能从近代录音机推出来。",
+    "history": [
+      [
+        "recordari 记住 → 法语记录者材料；英语 record 的旧义也可练唱",
+        "同族记录与重复曲调的不同近处用途"
+      ],
+      [
+        "recorder 的记录器／竖笛名称",
+        "现代记录设备；更早的管乐器名"
+      ]
+    ],
+    "explanation": "a voice recorder 录音机；a data recorder 数据记录仪；play the recorder 吹竖笛。",
+    "usage": "a digital recorder 数字记录设备；a wooden recorder 木竖笛。",
+    "contrast": "recorder 的器具义未必是录音设备；play、music 常选出竖笛，record、data 常选出记录设备。",
+    "examples": [
+      [
+        "She used a recorder to save the interview.",
+        "她用录音机保存了访谈。"
+      ],
+      [
+        "The child played a simple tune on the recorder.",
+        "孩子用竖笛吹了一段简单曲调。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/recorder",
+      "https://en.wiktionary.org/wiki/recorder#English"
+    ]
+  },
+  {
+    "word": "recorders",
+    "ipa": "英 /rɪˈkɔːdəz/；美 /rɪˈkɔːrdərz/",
+    "meaning": "录音机、记录仪、记录者；竖笛〔复数〕",
+    "sense": "几台记录声音、数据的设备，是 recorders；几支课堂管乐器也可能是 recorders，需看使用动作。",
+    "split": "recorder + -s，读 /z/。近源两支分别接记录角色、仪器与 record 的旧练唱用途。",
+    "history": [
+      [
+        "recorder 的记录设备与乐器名",
+        "同族基础的不同用途，不按现代录音先后硬合并"
+      ],
+      [
+        "recorder + -s → recorders",
+        "多台记录设备、多支竖笛等"
+      ]
+    ],
+    "explanation": "digital recorders 数字记录设备；wooden recorders 木竖笛。",
+    "usage": "test the recorders 测试录音机；play recorders 吹竖笛。",
+    "contrast": "记录器与竖笛共用读音、拼写，器物形态和动词搭配能帮你辨认。",
+    "examples": [
+      [
+        "The team tested three voice recorders.",
+        "团队测试了三台录音机。"
+      ],
+      [
+        "The pupils played recorders in the music lesson.",
+        "学生们在音乐课上吹竖笛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recorders#English",
+      "https://www.etymonline.com/word/recorder"
+    ]
+  },
+  {
+    "word": "mic",
+    "ipa": "/maɪk/",
+    "meaning": "麦克风、话筒〔microphone 的截短〕",
+    "sense": "说话、唱歌时用的 microphone，日常省短成 mic，读起来像 mike。",
+    "split": "microphone 的截短拼写，保留开头字母但采用 /maɪk/ 读音。另一拼写 mike 的使用记录更早，不把 mic 的 i 套成 /ɪ/。",
+    "history": [
+      [
+        "microphone → mike／mic",
+        "同一设备名的两个截短拼写，mike 较早"
+      ],
+      [
+        "mic 的日常用法",
+        "简短称呼话筒、麦克风"
+      ]
+    ],
+    "explanation": "a handheld mic 手持话筒；a wireless mic 无线话筒。",
+    "usage": "hold the mic 拿话筒；a mic stand 话筒架。",
+    "contrast": "mic 是完整 microphone 的日常简称，不是 micro- 的通用缩写；a mic 是一个话筒。",
+    "examples": [
+      [
+        "She held the mic close to her mouth.",
+        "她把话筒拿到嘴边。"
+      ],
+      [
+        "The mic was on a stand beside the chair.",
+        "话筒架在椅子旁边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mic",
+      "https://en.wiktionary.org/wiki/mic#English"
+    ]
+  },
+  {
+    "word": "mics",
+    "ipa": "/maɪks/",
+    "meaning": "麦克风、话筒〔复数〕",
+    "sense": "几支话筒，日常可直接叫 mics。基础简称读 /maɪk/，复数后面再接 /s/。",
+    "split": "microphone → mic，mic + -s，/k/ 后读 /s/。c 在这个简称里代表 /k/，并不因后面加 s 改读。",
+    "history": [
+      [
+        "microphone → mic",
+        "话筒名称截短"
+      ],
+      [
+        "mic + -s → mics",
+        "多支话筒"
+      ]
+    ],
+    "explanation": "wireless mics 无线话筒；two mics 两支话筒。",
+    "usage": "check the mics 检查话筒；mics on the stage 舞台上的话筒。",
+    "contrast": "mics 和 mikes 是同一个设备简称的复数拼写对应，读音相同。",
+    "examples": [
+      [
+        "The stage had three wireless mics.",
+        "舞台上有三支无线话筒。"
+      ],
+      [
+        "The crew checked the mics before the talk.",
+        "工作人员在讲话前检查了话筒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mics#English",
+      "https://en.wiktionary.org/wiki/mic#English"
+    ]
+  },
+  {
+    "word": "mike",
+    "ipa": "/maɪk/",
+    "meaning": "话筒、麦克风〔简称；亦写 mic〕",
+    "sense": "把 microphone 叫得短一点，可以写 mike。这个拼法把实际读音表达得很直观。",
+    "split": "microphone 的截短形式，使用记录早于 mic。设备义是普通名词，不要因拼写相同就当成人名。",
+    "history": [
+      [
+        "microphone → mike",
+        "长设备名的日常截短"
+      ],
+      [
+        "后来另有 mic 拼写",
+        "同一简称的两种写法"
+      ]
+    ],
+    "explanation": "a radio mike 无线话筒；a mike stand 话筒架。",
+    "usage": "speak into the mike 对着话筒说话；hold a mike 拿话筒。",
+    "contrast": "mike、mic 指设备时同义同音；正文用哪一种，通常按既有拼写习惯保持一致。",
+    "examples": [
+      [
+        "The singer stepped up to the mike.",
+        "歌手走到话筒前。"
+      ],
+      [
+        "She spoke clearly into the mike.",
+        "她对着话筒清楚地说话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mike#English",
+      "https://www.etymonline.com/word/mic"
+    ]
+  },
+  {
+    "word": "mikes",
+    "ipa": "/maɪks/",
+    "meaning": "麦克风、话筒〔mike 的复数〕",
+    "sense": "几支话筒，采用 mike 这套拼写时，复数就是 mikes。",
+    "split": "mike + -s，末尾 e 保留，/k/ 后读 /s/；mike 缩自 microphone。",
+    "history": [
+      [
+        "microphone → mike",
+        "话筒简称"
+      ],
+      [
+        "mike + -s → mikes",
+        "多支话筒"
+      ]
+    ],
+    "explanation": "stage mikes 舞台话筒；wireless mikes 无线话筒。",
+    "usage": "set up the mikes 布置话筒；mikes on stands 架在支架上的话筒。",
+    "contrast": "mikes 与 mics 只是简称拼写对应；不同拼写本身不表示不同技术种类。",
+    "examples": [
+      [
+        "The crew placed two mikes on the table.",
+        "工作人员在桌上放了两支话筒。"
+      ],
+      [
+        "The mikes picked up the audience’s applause.",
+        "话筒收到了观众的掌声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mikes#English",
+      "https://en.wiktionary.org/wiki/mike#English"
+    ]
+  },
+  {
+    "word": "mute",
+    "ipa": "/mjuːt/",
+    "meaning": "无声的、沉默的；使静音、减弱；弱音器",
+    "sense": "把声音收住，是 mute 的好画面。人可默默回应，设备可关掉声音，乐器可用弱音器改变、减弱音色。",
+    "split": "拉丁 mutus 无声、不开口，经法语 muet 等成为中古英语 mewet，后来拼写向拉丁形式靠拢。静默性质再有弱音器等名词与使声音减弱的动词用途。",
+    "history": [
+      [
+        "拉丁 mutus → 法语 muet → 中古英语 mewet",
+        "沉默、无声"
+      ],
+      [
+        "受拉丁词形影响成 mute；器物与动词用途发展",
+        "弱音器；使声音减弱、静音"
+      ]
+    ],
+    "explanation": "mute the microphone 使麦克风静音；mute sympathy 无言的同情；a trumpet mute 小号弱音器。",
+    "usage": "on mute 处于静音状态；mute the television 将电视静音。",
+    "contrast": "静默、静音这一支接拉丁 mutus；mutate 的改变义接 mutare，外形近，近源不同。更远闭口拟声联系仍有讨论。",
+    "examples": [
+      [
+        "She put the microphone on mute.",
+        "她把麦克风设成静音。"
+      ],
+      [
+        "He held her hand in mute sympathy.",
+        "他握着她的手，无言地表达同情。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mute",
+      "https://www.merriam-webster.com/dictionary/mute",
+      "https://en.wiktionary.org/wiki/mute#English"
+    ]
+  },
+  {
+    "word": "mutes",
+    "ipa": "/mjuːts/",
+    "meaning": "使静音、减弱〔第三人称单数〕；弱音器〔复数〕",
+    "sense": "它让声音收小、关闭，是动词 mutes；乐器上几只减弱、改变声音的器具，也可按名词数成 mutes。",
+    "split": "mute + -s，/t/ 后读 /s/。mute 的静默性质先有借词背景，器具和动作是其后形成的用途。",
+    "history": [
+      [
+        "mute 的静默性质、弱音器与相应动作",
+        "同族的性质、器物、动词用途"
+      ],
+      [
+        "mute + -s → mutes",
+        "它使静音；多个弱音器"
+      ]
+    ],
+    "explanation": "mutes the sound 关闭、减弱声音；trumpet mutes 小号弱音器。",
+    "usage": "mutes the microphone 使麦克风静音；different mutes 不同弱音器。",
+    "contrast": "音乐弱音器可改变、减弱音色，不等于让乐器绝对没有声音；电子按钮则按实际静音控制理解。",
+    "examples": [
+      [
+        "The button mutes the microphone.",
+        "这个按钮使麦克风静音。"
+      ],
+      [
+        "The musician compared two trumpet mutes.",
+        "乐手比较了两只小号弱音器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mutes#English",
+      "https://www.merriam-webster.com/dictionary/mute"
+    ]
+  },
+  {
+    "word": "muted",
+    "ipa": "/ˈmjuːtɪd/",
+    "meaning": "静音了的、减弱的；柔和低调的；使静音了",
+    "sense": "声音被压低，反应不热烈，颜色不鲜亮，都可用 muted。像把原本突出的强度收了一档。",
+    "split": "现代对应 mute 去 e 加完整 -ed，/t/ 后读 /ɪd/；过去动作与状态形容词并用，颜色、情绪等有比喻扩展。",
+    "history": [
+      [
+        "mute 的使声音减弱动作 → muted 状态",
+        "收住、压低声音"
+      ],
+      [
+        "比喻扩展；mute + -ed → muted〔去 e〕",
+        "较低调的色彩、反应；静音了"
+      ]
+    ],
+    "explanation": "a muted microphone 静音麦克风；muted colours 柔和色彩。",
+    "usage": "a muted response 不热烈的回应；muted the television 使电视静音了。",
+    "contrast": "muted 在颜色、反应语境是强度低，不要求真的谈发声。",
+    "examples": [
+      [
+        "The microphone was muted during the break.",
+        "休息时麦克风处于静音状态。"
+      ],
+      [
+        "The room was decorated in muted colours.",
+        "房间用了柔和低调的色彩装饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/muted#English",
+      "https://www.merriam-webster.com/dictionary/mute"
+    ]
+  },
+  {
+    "word": "muting",
+    "ipa": "/ˈmjuːtɪŋ/",
+    "meaning": "正在使静音、减弱；静音、弱化过程",
+    "sense": "把声音收小、切到静音的动作正在进行，就是 muting；比喻中也能弱化某种强烈效果。",
+    "split": "mute 去 e 加 -ing → muting。基础词的静默、弱音器用途发展为相应控制动作。",
+    "history": [
+      [
+        "mute 的静音、减弱动词",
+        "收住声音、降低突出程度"
+      ],
+      [
+        "mute + -ing → muting〔去 e〕",
+        "动作进行与过程"
+      ]
+    ],
+    "explanation": "muting a microphone 使麦克风静音；muting background noise 减弱背景噪音。",
+    "usage": "muting the television 关电视声音；a muting button 静音按钮。",
+    "contrast": "turning down 常说调低程度，muting 在设备语境常说切到静音；具体动作范围由对象决定。",
+    "examples": [
+      [
+        "She was muting the television when the phone rang.",
+        "电话响时，她正在关掉电视声音。"
+      ],
+      [
+        "Muting the microphone stopped the background chatter.",
+        "将麦克风静音后，背景聊天声就没有传过去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/muting#English",
+      "https://en.wiktionary.org/wiki/mute#English"
+    ]
+  },
+  {
+    "word": "unmute",
+    "ipa": "/ʌnˈmjuːt/",
+    "meaning": "取消静音、恢复发声",
+    "sense": "刚才声音被收住，现在把那种状态解除，让声音重新出来，是 unmute。",
+    "split": "un- 取消、反向 + mute 使静音的现代英语组合。这里 un- 撤回原动作造成的状态。",
+    "history": [
+      [
+        "mute 使静音；un- 反向、解除",
+        "把已经施加的静音状态撤回"
+      ],
+      [
+        "un- + mute → unmute",
+        "取消静音、恢复声音"
+      ]
+    ],
+    "explanation": "unmute the microphone 取消麦克风静音；unmute the sound 恢复声音。",
+    "usage": "unmute before speaking 发言前取消静音；unmute the speaker 恢复扬声器声音。",
+    "contrast": "unmute 取消静音，turn up 增大音量；前者关注状态是否解除，后者关注大小。",
+    "examples": [
+      [
+        "She remembered to unmute before answering.",
+        "她回答前想起要取消静音。"
+      ],
+      [
+        "Please unmute the microphone for the next speaker.",
+        "请为下一位发言者取消麦克风静音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unmute#English"
+    ]
+  },
+  {
+    "word": "unmutes",
+    "ipa": "/ʌnˈmjuːts/",
+    "meaning": "取消静音、恢复发声〔第三人称单数〕",
+    "sense": "它把静音状态解除，让声音回来，是 unmutes。基础动作是把 mute 的结果撤回。",
+    "split": "un- + mute → unmute，加 -s，/t/ 后读 /s/，末尾 e 保留。",
+    "history": [
+      [
+        "un- + mute → unmute",
+        "解除静音"
+      ],
+      [
+        "unmute + -s → unmutes",
+        "它恢复发声、取消静音"
+      ]
+    ],
+    "explanation": "unmutes the microphone 解除麦克风静音；unmutes the speaker 恢复扬声器声音。",
+    "usage": "the button unmutes 按钮取消静音；unmutes before speaking 发言前解除静音。",
+    "contrast": "mute、unmute 是相反方向的动作，主语可为人，也可为执行控制的按钮、程序。",
+    "examples": [
+      [
+        "This button unmutes the microphone.",
+        "这个按钮取消麦克风静音。"
+      ],
+      [
+        "She unmutes before asking her question.",
+        "她提问前取消静音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unmutes#English",
+      "https://en.wiktionary.org/wiki/unmute#English"
+    ]
+  },
+  {
+    "word": "unmuted",
+    "ipa": "/ʌnˈmjuːtɪd/",
+    "meaning": "取消静音了；未静音的",
+    "sense": "声音通道现在放开了，是 unmuted。可以说某人做了取消静音动作，也可描述未静音状态。",
+    "split": "动词可认 unmute 去 e 加完整 -ed；状态形容词也可认 un- 不 + muted 静音的。两种观察角度能给相同词形。",
+    "history": [
+      [
+        "unmute + -ed；或 un- + muted",
+        "过去解除动作；否定静音状态"
+      ],
+      [
+        "unmuted 的现代使用",
+        "已恢复、处于未静音状态"
+      ]
+    ],
+    "explanation": "an unmuted microphone 未静音麦克风；unmuted the sound 恢复了声音。",
+    "usage": "has unmuted 已取消静音；was unmuted 当时处于未静音状态。",
+    "contrast": "was unmuted 可以重点描述状态；someone unmuted it 则明确说有人做了动作。",
+    "examples": [
+      [
+        "She unmuted the microphone before speaking.",
+        "她发言前取消了麦克风静音。"
+      ],
+      [
+        "The microphone remained unmuted after the question.",
+        "提问后，麦克风仍处于未静音状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unmuted#English",
+      "https://en.wiktionary.org/wiki/unmute#English"
+    ]
+  },
+  {
+    "word": "unmuting",
+    "ipa": "/ʌnˈmjuːtɪŋ/",
+    "meaning": "正在取消静音；恢复声音的过程",
+    "sense": "把声音重新放开的动作正在发生，就是 unmuting。像把刚关上的声音通道再打开。",
+    "split": "unmute 去 e 加 -ing；基础词由解除作用的 un- 与 mute 组成。",
+    "history": [
+      [
+        "un- + mute → unmute",
+        "把静音状态解除"
+      ],
+      [
+        "unmute + -ing → unmuting〔去 e〕",
+        "取消静音的进行、过程"
+      ]
+    ],
+    "explanation": "unmuting the microphone 解除麦克风静音；before unmuting 取消静音前。",
+    "usage": "after unmuting 恢复声音后；unmuting the speaker 解除扬声器静音。",
+    "contrast": "unmuting 表示解除静音，未说明随后声音有多大；音量大小可再用 quietly、loudly 等描述。",
+    "examples": [
+      [
+        "She was unmuting the microphone as the discussion began.",
+        "讨论开始时，她正在取消麦克风静音。"
+      ],
+      [
+        "After unmuting, he introduced the next speaker.",
+        "取消静音后，他介绍了下一位发言者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unmuting#English",
+      "https://en.wiktionary.org/wiki/unmute#English"
+    ]
+  },
+  {
+    "word": "voiceovers",
+    "ipa": "英 /ˈvɔɪsəʊvəz/；美 /ˈvɔɪsoʊvərz/",
+    "meaning": "画外音、旁白〔复数〕",
+    "sense": "观众看着画面，另一个声音在上面讲解、叙述，这些声音片段叫 voiceovers。",
+    "split": "voice 声音 + over 叠在画面、其他声音之上 → voiceover，加 -s，读 /z/。",
+    "history": [
+      [
+        "voice + over → voiceover",
+        "以叠加在画面等之上的方式提供话语"
+      ],
+      [
+        "voiceover + -s → voiceovers",
+        "多段画外音、旁白"
+      ]
+    ],
+    "explanation": "documentary voiceovers 纪录片旁白；record voiceovers 录制画外音。",
+    "usage": "voiceovers for the videos 视频旁白；clear voiceovers 清楚的旁白。",
+    "contrast": "voiceover 关注说话声音与画面的呈现关系；subtitle 把话语呈为文字，媒介不同。",
+    "examples": [
+      [
+        "She recorded voiceovers for the museum videos.",
+        "她为博物馆视频录制旁白。"
+      ],
+      [
+        "The voiceovers explained the scenes on screen.",
+        "旁白解释了屏幕上的场景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/voiceovers#English",
+      "https://en.wiktionary.org/wiki/voiceover#English"
+    ]
+  },
+  {
+    "word": "earpieces",
+    "ipa": "英 /ˈɪəpiːsɪz/；美 /ˈɪrpiːsɪz/",
+    "meaning": "耳机部件、贴耳接收器〔复数〕",
+    "sense": "把声音送到耳边的一小块接收部件，是 earpiece；多只、成对时用 earpieces。",
+    "split": "ear 耳 + piece 部件 → earpiece，整词加 -s，/s/ 后读 /ɪz/。",
+    "history": [
+      [
+        "ear + piece → earpiece",
+        "按贴耳位置命名声音部件"
+      ],
+      [
+        "earpiece + -s → earpieces",
+        "多个耳部接收部件"
+      ]
+    ],
+    "explanation": "wireless earpieces 无线耳机接收器；small earpieces 小耳塞接收器。",
+    "usage": "wear earpieces 戴耳机接收器；replace the earpieces 更换耳机部件。",
+    "contrast": "earpiece 可指耳机的一侧部件，也可是一整个小型接收器；范围由具体装置决定。",
+    "examples": [
+      [
+        "The interpreters wore small earpieces.",
+        "口译员戴着小型耳机接收器。"
+      ],
+      [
+        "The earpieces fit comfortably.",
+        "这些耳机部件戴着很舒服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/earpieces#English",
+      "https://en.wiktionary.org/wiki/earpiece#English"
+    ]
+  },
+  {
+    "word": "mouthpieces",
+    "ipa": "/ˈmaʊθpiːsɪz/",
+    "meaning": "吹嘴、嘴部器件；代言工具、传声筒〔复数〕",
+    "sense": "乐器上让嘴接触、吹气的部件，是 mouthpieces；替某机构表达立场的人、媒体，也能借叫传声筒。",
+    "split": "mouth 嘴 + piece 部件 → mouthpiece，加 -s，/s/ 后读 /ɪz/。器物位置义再有代人发声的比喻。",
+    "history": [
+      [
+        "mouth + piece → mouthpiece",
+        "嘴部接触、发声的器件"
+      ],
+      [
+        "发言比喻；+ -s → mouthpieces",
+        "多个吹嘴、代言工具等"
+      ]
+    ],
+    "explanation": "trumpet mouthpieces 小号吹嘴；mouthpieces for the organisation 组织的传声筒。",
+    "usage": "clean the mouthpieces 清洁吹嘴；different mouthpieces 不同嘴部器件。",
+    "contrast": "把人、媒体称作 mouthpiece 常强调替某方传达立场，可能带缺乏独立声音的评价。",
+    "examples": [
+      [
+        "The musician compared two trumpet mouthpieces.",
+        "乐手比较了两个小号吹嘴。"
+      ],
+      [
+        "Critics called the newspapers mouthpieces for the party.",
+        "批评者称这些报纸是该党的传声筒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mouthpieces#English",
+      "https://en.wiktionary.org/wiki/mouthpiece#English"
+    ]
+  },
+  {
+    "word": "soundbars",
+    "ipa": "英 /ˈsaʊndbɑːz/；美 /ˈsaʊndbɑːrz/",
+    "meaning": "条状音箱〔复数〕",
+    "sense": "把声音设备做成长条形，常放在电视等前面，这类音箱叫 soundbars。sound 给发声用途，bar 给外形。",
+    "split": "sound 声音 + bar 长条 → soundbar，加 -s，读 /z/。是现代器具名称。",
+    "history": [
+      [
+        "sound + bar → soundbar",
+        "条状发声设备"
+      ],
+      [
+        "soundbar + -s → soundbars",
+        "多台条状音箱"
+      ]
+    ],
+    "explanation": "TV soundbars 电视条状音箱；compact soundbars 紧凑条状音箱。",
+    "usage": "compare soundbars 比较条状音箱；soundbars below the screens 屏幕下方条状音箱。",
+    "contrast": "soundbar 是音箱类别，volume slider 是音量滑块，二者不是同一种条。",
+    "examples": [
+      [
+        "The shop displayed soundbars below the televisions.",
+        "店里在电视下方展示了条状音箱。"
+      ],
+      [
+        "We compared two compact soundbars.",
+        "我们比较了两款紧凑条状音箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundbars#English",
+      "https://en.wiktionary.org/wiki/soundbar#English"
+    ]
+  },
+  {
+    "word": "soundboards",
+    "ipa": "英 /ˈsaʊndbɔːdz/；美 /ˈsaʊndbɔːrdz/",
+    "meaning": "共鸣板；音效播放、控制面板〔复数〕",
+    "sense": "乐器用一块板传递、增强振动，是 soundboard；现代也用这个组合名说能集中操作声音、音效的面板。",
+    "split": "sound 声音 + board 板、面板 → soundboard，加 -s，/d/ 后读 /z/。不同对象按板与声音的功能结合命名。",
+    "history": [
+      [
+        "sound + board → soundboard",
+        "与声音共鸣、操作有关的板面"
+      ],
+      [
+        "固定领域用途；+ -s → soundboards",
+        "多块共鸣板、声音面板"
+      ]
+    ],
+    "explanation": "guitar soundboards 吉他共鸣板；digital soundboards 数字音效面板。",
+    "usage": "wooden soundboards 木共鸣板；soundboards for effects 音效面板。",
+    "contrast": "乐器共鸣板靠结构与振动作用，音效面板靠操作声音功能命名；看实际器物，不统一译成调音台。",
+    "examples": [
+      [
+        "The workshop makes wooden soundboards for instruments.",
+        "工坊为乐器制作木共鸣板。"
+      ],
+      [
+        "The students used soundboards to play short effects.",
+        "学生们用音效面板播放短音效。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundboards#English",
+      "https://en.wiktionary.org/wiki/soundboard#English"
+    ]
+  },
+  {
+    "word": "soundtracks",
+    "ipa": "/ˈsaʊndtræks/",
+    "meaning": "电影等的声轨、声音内容；原声配乐〔复数〕",
+    "sense": "影像旁还有一条记录声音的轨道，这给 soundtracks 命名；后来也说整套影视声音、单独发行的配乐。",
+    "split": "sound 声音 + track 记录轨道 → soundtrack，加 -s，/k/ 后读 /s/。组合接电影载体记录声音的位置。",
+    "history": [
+      [
+        "sound + track → soundtrack",
+        "电影载体上的声音记录轨道"
+      ],
+      [
+        "声音、配乐用途扩大；+ -s → soundtracks",
+        "多条声轨、多个配乐版本等"
+      ]
+    ],
+    "explanation": "film soundtracks 电影原声；original soundtracks 原声配乐。",
+    "usage": "collect soundtracks 收藏原声配乐；different soundtracks 不同声轨。",
+    "contrast": "电影的 soundtrack 可包括对白、音乐、音效；商店的 soundtrack album 常主要是发行的音乐，范围看场景。",
+    "examples": [
+      [
+        "She collects soundtracks from old films.",
+        "她收藏老电影的原声配乐。"
+      ],
+      [
+        "The two versions have different soundtracks.",
+        "两个版本的声轨不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundtracks#English",
+      "https://en.wiktionary.org/wiki/soundtrack#English"
+    ]
+  },
+  {
+    "word": "amplifiers",
+    "ipa": "英 /ˈæmplɪfaɪəz/；美 /ˈæmpləfaɪərz/",
+    "meaning": "放大器、扩音器〔复数〕",
+    "sense": "把较小的信号放大，让后面的设备能使用，是 amplifiers 的主要器具用途。音响语境常说功放、扩音设备。",
+    "split": "amplify 的 y 改 i，加完整 -er → amplifier，再加 -s，读 /z/。amplify 的拉丁材料有使更大、扩展的背景。",
+    "history": [
+      [
+        "amplify + -er → amplifier〔y 改 i〕",
+        "按放大作用命名器具"
+      ],
+      [
+        "amplifier + -s → amplifiers",
+        "多台放大器"
+      ]
+    ],
+    "explanation": "audio amplifiers 音频放大器；guitar amplifiers 吉他音箱、放大设备。",
+    "usage": "test amplifiers 测试放大器；small amplifiers 小型放大器。",
+    "contrast": "amplifier 关注放大作用，loudspeaker 关注把电信号等变成可听声音的发声作用；成套设备可将两者装在一起。",
+    "examples": [
+      [
+        "The shop sells guitar amplifiers.",
+        "店里出售吉他放大设备。"
+      ],
+      [
+        "The team tested two audio amplifiers.",
+        "团队测试了两台音频放大器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/amplifiers#English",
+      "https://en.wiktionary.org/wiki/amplifier#English"
+    ]
+  },
+  {
+    "word": "soundproofed",
+    "ipa": "/ˈsaʊndpruːft/",
+    "meaning": "作了隔音处理的；进行了隔音处理",
+    "sense": "让声音不容易从房间进出，已经做过相关处理，是 soundproofed。",
+    "split": "sound + -proof → soundproof，形容隔音性质，也转为做隔音处理的动词；再加 -ed，/f/ 后读 /t/。",
+    "history": [
+      [
+        "sound + -proof → soundproof；转动词",
+        "抵挡声音；对空间做隔音处理"
+      ],
+      [
+        "soundproof + -ed → soundproofed",
+        "过去处理；处理后的状态"
+      ]
+    ],
+    "explanation": "a soundproofed room 隔音处理过的房间；soundproofed the studio 为录音室做了隔音。",
+    "usage": "soundproofed walls 做过隔音的墙；a soundproofed booth 隔音小间。",
+    "contrast": "soundproofed 说做了隔音，muted 说让声音源、通道静音或变弱，处理对象不同。",
+    "examples": [
+      [
+        "The studio was soundproofed before recording began.",
+        "录制开始前，录音室做了隔音处理。"
+      ],
+      [
+        "They soundproofed the practice room.",
+        "他们给练习室做了隔音处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundproofed#English",
+      "https://en.wiktionary.org/wiki/soundproof#English"
+    ]
+  },
+  {
+    "word": "soundproofs",
+    "ipa": "/ˈsaʊndpruːfs/",
+    "meaning": "进行隔音处理〔第三人称单数〕",
+    "sense": "他、这个团队替房间做隔音，让声音不容易传进传出，这个动作就是 soundproofs。",
+    "split": "soundproof + -s，/f/ 后读 /s/。sound 声音与 -proof 抵挡形成性质词，再有处理动词。",
+    "history": [
+      [
+        "sound + -proof → soundproof；动词用途",
+        "隔音的；进行隔音处理"
+      ],
+      [
+        "soundproof + -s → soundproofs",
+        "它给对象做隔音"
+      ]
+    ],
+    "explanation": "soundproofs the room 给房间做隔音；soundproofs studios 给录音室做隔音。",
+    "usage": "soundproofs the walls 给墙作隔音处理；soundproofs rehearsal spaces 处理排练空间隔音。",
+    "contrast": "soundproofs 是动词动作形式；a soundproof room 中 soundproof 是性质形容词。",
+    "examples": [
+      [
+        "The company soundproofs small recording studios.",
+        "这家公司为小录音室做隔音处理。"
+      ],
+      [
+        "He soundproofs rehearsal rooms for local musicians.",
+        "他为当地乐手的排练室做隔音处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/soundproofs#English",
+      "https://en.wiktionary.org/wiki/soundproof#English"
+    ]
+  }
+]

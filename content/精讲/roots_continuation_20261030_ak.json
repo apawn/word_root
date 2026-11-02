@@ -1,0 +1,122 @@
+[
+  {
+    "id": "B3271",
+    "meaning": "活着、灵动到迅速；保留旧义的流沙、水银",
+    "core": "QUICK：旧义活，常用义快",
+    "image": "quick → quickly、quickness、quicken；quicksand、quicksilver 接活的旧义，quickstep 已有精讲。",
+    "intro": "本族生命词发展出敏捷、耗时短。活的旧义虽不再日常独立使用，却能解释几个熟悉复合词。",
+    "forms": "quick + -ly/-ness/-en；quick〔活〕+ sand/silver；quick + step。\n\n古英语活着、活跃材料的继承，现代直接加完整比较级 er。\n\n与 quick 比较快速，不由 quick 派生。brisk 早见苏格兰 bruisk，来源不定，可能联系法语 brusque；不能把猜测远源硬定为直接来路。现代可用于动作轻快、业务活跃和天气清冷。",
+    "branches": [
+      [
+        "速度、方式、性质与变化",
+        "quick · quickly · quickness · quicken"
+      ],
+      [
+        "旧活义与既有舞步",
+        "quicksand · quicksilver · quickstep"
+      ],
+      [
+        "quick → quicker：更迅速、用时更短",
+        "quick · quicker"
+      ],
+      [
+        "brisk：另源的轻快、有活力；比较等级",
+        "brisk · brisker · briskest"
+      ]
+    ],
+    "contrasts": "quick 耗时短与 fast 高速度有侧重；quicksand 活沙不等于一定飞快下沉；quicksilver 汞不同于银。",
+    "practice": "Her quickness of thought helped her respond quickly.\n\n她思维敏捷，能迅速作出回应。",
+    "words": [
+      "quick",
+      "quickly",
+      "quickness",
+      "quicken",
+      "quicksand",
+      "quicksilver",
+      "quickstep",
+      "quicker",
+      "brisk",
+      "brisker",
+      "briskest"
+    ],
+    "exclude": {
+      "quick-freeze": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quick-sighted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quickie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3002",
+    "meaning": "扭转旧义与投掷、举办、拉坯、推翻",
+    "core": "THROW：今天抛出去，旧的转动义仍有痕迹",
+    "image": "throw → thrown、thrower，再接 overthrow；把动词不规则变化和后缀人物分开。",
+    "intro": "古英语先转、扭，投掷义后来成为中心。拉坯还见旧旋转动作，举办聚会等则是固定搭配。",
+    "forms": "throw—threw—thrown；throw + -er；over- + throw → overthrew／overthrown。\n\nthrew /θruː/ 是过去式；thrown 是过去分词。旧词有扭转义，后有投掷、举办等现代分支。\n\n古英语转、扭的动词延续，投掷成为现代中心用途。\n\n古英语本有转、扭义，投掷义后来成为中心；具体动作联系保留可能性。\n\n和 throw 比较抛掷，不是现代 throw 的派生。toss 来历未定，可能接北欧散布、撒开材料；现代抛掷、翻动、拌沙拉按动作理解。\n\n这些词与 throw 作动作比较，不是现代 throw 的派生。hurl 可能接快速运动拟声材料；fling 可能接北欧击打词；lob 高弧抛远源未定；sling 则有日耳曼摆、扭转与带环材料。各按自己的历史理解。",
+    "branches": [
+      [
+        "基本动作、分词与人物",
+        "throw · thrown · thrower"
+      ],
+      [
+        "翻倒与过远",
+        "overthrow"
+      ],
+      [
+        "throw、threw、thrown：甩出与举办",
+        "throw · threw · thrown"
+      ],
+      [
+        "throw → throwing：扭转旧义到投掷",
+        "throw · throwing"
+      ],
+      [
+        "throw → throws：投掷与使人突然陷入某状态",
+        "throw · throws"
+      ],
+      [
+        "toss：一甩，到抛、颠动、拌匀",
+        "toss · tosses · tossed · tossing"
+      ],
+      [
+        "几种抛法：hurl、fling、lob、sling",
+        "hurl · hurls · hurled · hurling · fling · flings · flung · flinging · lob · lobs · lobbed · lobbing · sling · slings · slung · slinging · slingshot · slingshots"
+      ]
+    ],
+    "contrasts": "threw 过去、thrown 分词；throw a party 固定举办；陶工 thrower 不在扔陶罐；overthrow 体育还可过远。",
+    "practice": "The thrower had thrown the ball farther than expected.\n\n投掷者把球投得比预想更远。",
+    "words": [
+      "throw",
+      "thrown",
+      "thrower",
+      "overthrow",
+      "threw",
+      "throwing",
+      "throws",
+      "toss",
+      "tosses",
+      "tossed",
+      "tossing",
+      "hurl",
+      "hurls",
+      "hurled",
+      "hurling",
+      "fling",
+      "flings",
+      "flung",
+      "flinging",
+      "lob",
+      "lobs",
+      "lobbed",
+      "lobbing",
+      "sling",
+      "slings",
+      "slung",
+      "slinging",
+      "slingshot",
+      "slingshots"
+    ],
+    "exclude": {
+      "throw-weight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

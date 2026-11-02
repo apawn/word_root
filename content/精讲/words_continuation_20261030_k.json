@@ -1,0 +1,370 @@
+[
+  {
+    "word": "cast",
+    "ipa": "英 /kɑːst/；美 /kæst/",
+    "meaning": "投、抛；投下；铸造；选角；演员阵容、石膏固定",
+    "sense": "把东西投出去是起点；后来可以投去目光、投票、投下影子。铸造和选角则要各自记住具体场景。",
+    "split": "借古诺尔斯语 kasta，经中古英语 casten。铸造义见于中古后期；选角义从安排、分配角色发展。常见变化 cast—cast—cast。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ]
+    ],
+    "explanation": "cast a glance 投去一瞥，cast a vote 投票，cast a shadow 投下阴影。cast metal 把熔化金属注入模具；cast an actor 选演员。a cast 可指演员阵容，也可指骨折后用的石膏固定。",
+    "usage": "cast a glance；cast a vote；cast a shadow；the cast of a film。",
+    "contrast": "throw 更直接说扔的动作；cast 常留在特定搭配中。看见 cast 要先看宾语，选演员和浇铸金属并不是同一种动作。",
+    "examples": [
+      [
+        "She cast a quick glance at the clock.",
+        "她飞快地瞥了一眼钟。"
+      ],
+      [
+        "The film has a wonderful cast.",
+        "这部电影的演员阵容很出色。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cast",
+      "https://en.wiktionary.org/wiki/cast#English"
+    ]
+  },
+  {
+    "word": "casting",
+    "ipa": "英 /ˈkɑːstɪŋ/；美 /ˈkæstɪŋ/",
+    "meaning": "选角；铸造；铸件",
+    "sense": "电影开拍前挑演员是 casting；工厂里把液态金属倒进模具成形，也是 casting。",
+    "split": "cast + -ing，将选角或铸造这个活动名词化；铸造完成的物件也可叫 a casting。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "cast + -ing → casting",
+        "选角、铸造活动；铸件"
+      ]
+    ],
+    "explanation": "casting director 负责选角的人，metal casting 金属铸造，a bronze casting 青铜铸件。先看电影还是制造业语境。",
+    "usage": "a casting director；the casting process；metal casting。",
+    "contrast": "cast 常指已确定的整组演员，casting 常指挑选过程；the cast was excellent 与 the casting took months 关注点不同。",
+    "examples": [
+      [
+        "Casting for the main role took three months.",
+        "主角的选角花了三个月。"
+      ],
+      [
+        "The factory produces small metal castings.",
+        "这家工厂生产小型金属铸件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/casting#English"
+    ]
+  },
+  {
+    "word": "broadcast",
+    "ipa": "英 /ˈbrɔːdkɑːst/；美 /ˈbrɔːdkæst/",
+    "meaning": "广播、播送；广播节目、播出",
+    "sense": "最初像把种子撒向一大片地；后来把声音、图像或消息发给广泛的受众。",
+    "split": "broad 广阔 + cast 撒、投，原用于撒播种子，后来扩展到信息传播和无线电广播。常见过去式、过去分词为 broadcast，也可见 broadcasted。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "broad + cast → broadcast",
+        "广泛撒播种子 → 广泛传播信息"
+      ]
+    ],
+    "explanation": "a live broadcast 现场直播，broadcast the match 播出比赛，broadcast news 播报新闻；也能比喻把私事到处说。",
+    "usage": "a live broadcast；broadcast a programme；broadcast the news。",
+    "contrast": "broadcast 关注向受众播送，record 关注录下来；节目可以先录好再 broadcast，也可以直播。",
+    "examples": [
+      [
+        "The match will be broadcast live on Sunday.",
+        "这场比赛将在周日直播。"
+      ],
+      [
+        "Please do not broadcast my private news to everyone.",
+        "请不要把我的私事告诉所有人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broadcast#English"
+    ]
+  },
+  {
+    "word": "broadcaster",
+    "ipa": "英 /ˈbrɔːdkɑːstə/；美 /ˈbrɔːdkæstər/",
+    "meaning": "广播电视机构；播音、主持人员",
+    "sense": "既可以是把节目送到千家万户的机构，也可以是经常在节目里发声、出镜的人。",
+    "split": "broadcast + -er；-er 在这里不只指个人，也能指从事播送的组织。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "broadcast + -er → broadcaster",
+        "从事广播电视播送的人或机构"
+      ]
+    ],
+    "explanation": "a public broadcaster 公共广播电视机构，an experienced broadcaster 资深播音或主持人员。指人的时候具体工作由上下文决定。",
+    "usage": "a public broadcaster；a national broadcaster；an experienced broadcaster。",
+    "contrast": "broadcaster 不一定只是读新闻的 newsreader；机构也可以叫 broadcaster，不能一律译成主播。",
+    "examples": [
+      [
+        "The public broadcaster will show the debate live.",
+        "公共广播电视机构将直播这场辩论。"
+      ],
+      [
+        "She became a respected broadcaster after years of reporting.",
+        "经过多年报道工作，她成为受尊敬的广播电视从业者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/broadcaster#English"
+    ]
+  },
+  {
+    "word": "forecast",
+    "ipa": "英 /ˈfɔːkɑːst/；美 /ˈfɔːrkæst/",
+    "meaning": "预测、预报；预测结果",
+    "sense": "根据手里的线索，先估一估还没发生的事：明天下不下雨，下个月能卖多少。",
+    "split": "fore- 在前、预先 + cast 的旧义筹划、盘算，早期指预先安排，后来侧重预测。不是把天气往前扔。forecast 与 forecasted 两种过去形式均有使用。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "fore- + cast〔盘算〕→ forecast",
+        "预先筹划 → 估计未来"
+      ]
+    ],
+    "explanation": "weather forecast 天气预报，sales forecast 销售预测，forecast demand 预测需求。它表达有依据的估计，结果仍可能变化。",
+    "usage": "a weather forecast；a sales forecast；forecast demand。",
+    "contrast": "forecast 常有数据、趋势或经验依据；promise 承诺表达保证或承担责任，天气预报不是对天气的承诺。",
+    "examples": [
+      [
+        "The forecast says it may rain tomorrow.",
+        "预报说明天可能下雨。"
+      ],
+      [
+        "The company forecasts stronger demand next year.",
+        "公司预测明年需求会更旺。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/forecast",
+      "https://en.wiktionary.org/wiki/forecast#English"
+    ]
+  },
+  {
+    "word": "outcast",
+    "ipa": "英 /ˈaʊtkɑːst/；美 /ˈaʊtkæst/",
+    "meaning": "被排斥者；遭群体排斥的",
+    "sense": "大家围成一个圈，却不让某个人进来；他被留在圈外。",
+    "split": "out 向外 + cast 扔出，发展为被社会、家庭或群体拒绝接纳的人。作名词通常可数。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "out + cast → outcast",
+        "被抛在外面 → 被群体排斥者"
+      ]
+    ],
+    "explanation": "a social outcast 遭社会排斥的人，feel like an outcast 感到不被接纳。重点是关系上的排斥。",
+    "usage": "a social outcast；feel like an outcast；an outcast from society。",
+    "contrast": "outsider 可能只是圈外人、外来者；outcast 更明显带有遭拒绝、被排斥的处境。",
+    "examples": [
+      [
+        "At her new school, she felt like an outcast.",
+        "在新学校，她觉得自己不被接纳。"
+      ],
+      [
+        "The story follows a social outcast who finds a new community.",
+        "故事讲述一名遭排斥者找到新群体的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outcast#English"
+    ]
+  },
+  {
+    "word": "overcast",
+    "ipa": "英 /ˈəʊvəkɑːst/；美 /ˈoʊvərkæst/",
+    "meaning": "阴天的；天空被云层盖住的",
+    "sense": "抬头看，一层云像盖子一样把天空罩住，光线灰蒙蒙。",
+    "split": "over 在上方、覆盖 + cast，原有覆盖之义，天气形容词用来描述天空被云盖住。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "over + cast → overcast",
+        "覆盖在上 → 天空布满云"
+      ]
+    ],
+    "explanation": "an overcast sky 阴云密布的天空，an overcast morning 阴天的早晨；不必已经下雨。",
+    "usage": "an overcast sky；overcast weather；remain overcast。",
+    "contrast": "cloudy 泛指有云，云量可以不大；overcast 更接近整片天空都被云盖住。rainy 直接说多雨或正在下雨。",
+    "examples": [
+      [
+        "The sky was overcast, but it stayed dry.",
+        "天空阴沉，但一直没下雨。"
+      ],
+      [
+        "We set off on a cold, overcast morning.",
+        "我们在一个寒冷阴沉的早晨出发。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overcast#English"
+    ]
+  },
+  {
+    "word": "recast",
+    "ipa": "英 /ˌriːˈkɑːst/；美 /ˌriːˈkæst/〔动词〕",
+    "meaning": "重新铸造；重新表述；重新选角",
+    "sense": "把现有材料换一个模子重新做；可以是金属的形状，也可以是论点的说法或演员的安排。",
+    "split": "re- 再次 + cast，对应铸造、安排角色等已有义项。常见变化 recast—recast—recast。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "re- + cast → recast",
+        "重新铸成形 → 改写表达、重新选角"
+      ]
+    ],
+    "explanation": "recast an argument 换一种方式组织论点，recast a role 为角色另选演员，recast a metal part 重新铸造零件。",
+    "usage": "recast an argument；recast a role；recast the proposal。",
+    "contrast": "recast 往往改变组织方式或形式；repeat 只是再说、再做一次。重写提案可能保留核心想法。",
+    "examples": [
+      [
+        "She recast the proposal in simpler language.",
+        "她用更简单的语言重新表述提案。"
+      ],
+      [
+        "The director decided to recast the main role.",
+        "导演决定为主角另选演员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recast#English"
+    ]
+  },
+  {
+    "word": "downcast",
+    "ipa": "英 /ˈdaʊnkɑːst/；美 /ˈdaʊnkæst/",
+    "meaning": "垂下的；沮丧、低落的",
+    "sense": "眼睛低低垂着，人也提不起精神；视线朝下的画面延伸到心情低落。",
+    "split": "down 向下 + cast 投、转向，先可指目光垂下，后来也描述沮丧的样子和心情。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "down + cast → downcast",
+        "目光朝下 → 垂头丧气"
+      ]
+    ],
+    "explanation": "downcast eyes 低垂的眼睛，look downcast 显得沮丧，a downcast expression 沮丧神情。",
+    "usage": "downcast eyes；look downcast；a downcast expression。",
+    "contrast": "downcast 常描写情绪和外在神态；tired 疲倦可能只是缺觉。downcast eyes 也可能出于羞涩，仍需结合语境。",
+    "examples": [
+      [
+        "He looked downcast after hearing the result.",
+        "听到结果后，他显得很沮丧。"
+      ],
+      [
+        "She stood quietly with downcast eyes.",
+        "她垂着眼睛静静站着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/downcast#English"
+    ]
+  },
+  {
+    "word": "caster",
+    "ipa": "英 /ˈkɑːstə/；美 /ˈkæstər/",
+    "meaning": "家具脚轮；铸造工、铸造设备",
+    "sense": "椅子脚下能转向的小轮子，让家具推起来可以变方向；另一个用法是做铸造的人或设备。",
+    "split": "cast + -er；脚轮义联系 cast 的旧义转动、改变方向，铸工义联系铸造。脚轮也拼 castor。",
+    "history": [
+      [
+        "古诺尔斯语 kasta → 中古英语 casten",
+        "投、扔；更早来源未定"
+      ],
+      [
+        "英语 cast",
+        "投出、发出；铸造；安排角色、演员阵容"
+      ],
+      [
+        "cast〔转动；铸造〕+ -er → caster",
+        "可转向脚轮；从事铸造者或设备"
+      ]
+    ],
+    "explanation": "a chair on casters 带脚轮的椅子，swivel casters 万向脚轮；a metal caster 则要放到制造语境理解。",
+    "usage": "swivel casters；a chair on casters；a metal caster。",
+    "contrast": "wheel 是轮子的通称，caster 通常指装在家具、推车底部的一套小轮。castor 的海狸等同形词另有来源。",
+    "examples": [
+      [
+        "The cabinet stands on four small casters.",
+        "柜子底下装着四个小脚轮。"
+      ],
+      [
+        "Lock the casters before using the workbench.",
+        "使用工作台前先锁住脚轮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/caster#English"
+    ]
+  }
+]

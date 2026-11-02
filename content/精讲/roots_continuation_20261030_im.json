@@ -1,0 +1,130 @@
+[
+  {
+    "id": "B2785",
+    "meaning": "入口与使入迷：同拼写分两种构词",
+    "core": "ENTRANCE：门口在前重读，入迷在后重读",
+    "image": "入口 entrance → entranceway；en- + trance → entrance → entranced。",
+    "intro": "先听重音、看词性，再选来源。这样才不会把门厅讲成让人迷住的路，也不会把 entranced 误译成进去了。",
+    "forms": "entrer / entrance → 名词；en- + trance → 动词；各接 way 或 -ed。",
+    "branches": [
+      [
+        "入口这一线",
+        "entrance · entranceway"
+      ],
+      [
+        "动词使入迷的扩展",
+        "entranced"
+      ]
+    ],
+    "contrasts": "名词 /ˈentrəns/，动词后重读；entranced 不等于 entered。",
+    "practice": "The children waited at the entrance, then sat entranced by the show.\n\n孩子们先在入口等候，随后坐着看表演，看得入了迷。",
+    "words": [
+      "entrance",
+      "entranceway",
+      "entranced"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3811",
+    "meaning": "想象、喜欢与精致，分别看派生方向",
+    "core": "FANCY：心里的想法与喜好，再分花哨的性质",
+    "image": "fancy → fancied / fancier / fanciful；相同拼写的 fancier 有两种 -er。",
+    "intro": "一个词可以沿不同语法路线扩展。fancied team 看的是预期，fancier design 看的是外观比较，不能都套作幻想的人。",
+    "forms": "fantasy 截短 → fancy；fancy 接 -ed、两类 -er；fancy + -ful → fanciful。",
+    "branches": [
+      [
+        "基础词、想象与期待",
+        "fancy · fancied · fanciful"
+      ],
+      [
+        "爱好者与比较级同形",
+        "fancier"
+      ]
+    ],
+    "contrasts": "fancied 不一定指华丽；fancier 要分名词爱好者和形容词比较级。",
+    "practice": "The pigeon fancier chose a fancier design for the club’s badge.\n\n那位养鸽爱好者为俱乐部徽章挑了个更精致的设计。",
+    "words": [
+      "fancy",
+      "fancied",
+      "fanciful",
+      "fancier"
+    ],
+    "exclude": {
+      "fancy-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3435",
+    "meaning": "滑移、轻巧移动，与旧形容词及其他名词分支",
+    "core": "SLIP：失稳滑一下，或轻轻从一处溜过去",
+    "image": "slip → slipper / slippy / slippage / slipway；slippery 接旧形容词路线。",
+    "intro": "先抓动作，再分物件和性质。纸条、泥浆的历史不强求全由滑倒引申；尤其别用现代拖鞋名词充当 slippery 的来源。",
+    "forms": "slippen → slip；slipor → sliper/slipper 旧形容词 + -y → slippery；其他后缀与 way 另组合。\n\n中古英语 slippen 的动作线，更早来源有不同分析；过去式双写 p。\n\nslipper 是 slip 与完整 -er 的历史构形，现代复数加 -s。\n\nslip 接日耳曼滑动词族，直接来源仍有推测。现代双写 p 加完整 -ing；滑倒、滑落、下降等按场景。",
+    "branches": [
+      [
+        "动作、鞋与易滑性质",
+        "slip · slipper · slippery · slippy"
+      ],
+      [
+        "滑移、延误和船台",
+        "slippage · slipway"
+      ],
+      [
+        "slip → slipped：轻轻滑过，也会失足、溜走",
+        "slip · slipped"
+      ],
+      [
+        "slip → slipper → slippers：脚容易套进去的便鞋",
+        "slip · slipper · slippers"
+      ],
+      [
+        "slip 滑动、溜走 → slipping",
+        "slipping"
+      ]
+    ],
+    "contrasts": "slipper 不一定 slippery；slippy 是有自身历史的口语形式；slippage 也会讲计划偏离。",
+    "practice": "She put on her slippers before checking whether the floor was slippery.\n\n她先穿上拖鞋，再看地板是否打滑。",
+    "words": [
+      "slip",
+      "slipper",
+      "slippery",
+      "slippy",
+      "slippage",
+      "slipway",
+      "slipped",
+      "slippers",
+      "slipping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4147",
+    "meaning": "不偏任一方，及相应状态、方式和粒子命名",
+    "core": "NEUTRAL：两边都不偏；先问是哪一种两边",
+    "image": "neutral → neutrality / neutrally；neutron 借电中性命名。",
+    "intro": "立场、语气、颜色、净电荷和挡位各有自己的具体定义。核心帮助你记忆，不能把所有中性都解释成没有东西。",
+    "forms": "ne- + uter → neuter → neutrālis / neutral；neutralité → neutrality；接 -ly 或粒子名词尾 -on。",
+    "branches": [
+      [
+        "性质、状态和方式",
+        "neutral · neutrality · neutrally"
+      ],
+      [
+        "电中性的粒子命名",
+        "neutron"
+      ]
+    ],
+    "contrasts": "neutrality 有借入历史；neutrally 拼双 l；电中性不等于没有内部带电组成或没有质量。",
+    "practice": "The chair spoke neutrally while both sides questioned her neutrality.\n\n主持人语气中立地说话，双方却都质疑她的中立性。",
+    "words": [
+      "neutral",
+      "neutrality",
+      "neutrally",
+      "neutron"
+    ],
+    "exclude": {
+      "ethno-neutral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

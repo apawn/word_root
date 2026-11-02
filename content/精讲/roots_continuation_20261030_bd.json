@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B2839",
+    "meaning": "抓住、接住与捕捉注意；收集范围和非目标物",
+    "core": "CATCH：从眼前溜过的东西被接住、察觉或赶上",
+    "image": "catch → caught、catcher；catchy → catchphrase 接注意与记忆；catchment 汇集范围、bycatch 附带捕获。",
+    "intro": "源于法语、拉丁抓取词系，现代不规则 caught 可能受旧英语同义动词影响。用法不局限实体抓手。",
+    "forms": "catch—caught—caught；catch + -er/-y/-ment/phrase；by- + catch。\n\ncatch、chase 同接法语与通俗拉丁试图抓取词族，借入形式、现代重点不同；chaser 为追逐者等。\n\n经法语抓取词系借入，catching 可以是动作，也可形容传染、容易感染人的笑等。\n\n法语追猎词接重构俗拉丁 captiare 与 capere，和 catch 分途借入。\n\n法语捕捉词接拉丁抓取材料，现代 es 读 iz，过去式另为 caught。",
+    "branches": [
+      [
+        "动作、过去分词和角色",
+        "catch · caught · catcher"
+      ],
+      [
+        "记忆和传播",
+        "catchy · catchphrase"
+      ],
+      [
+        "汇集范围与捕获分类",
+        "catchment · bycatch"
+      ],
+      [
+        "catch 与 chase：同源分途借入，抓到与追逐分工",
+        "catch · chase · chaser"
+      ],
+      [
+        "catch → catching：抓到、赶上与感染",
+        "catch · caught · catching"
+      ],
+      [
+        "chase → chasing：朝目标追过去",
+        "chase · chasing · catch"
+      ],
+      [
+        "catch → catches：抓住、接住；隐藏条件与接球",
+        "catch · catches"
+      ]
+    ],
+    "contrasts": "catch 抓到/赶上、chase 追；caught gh 不逐字读；catchy 易记不保证深刻；catchment 范围、bycatch 非目标捕获。",
+    "practice": "The catchy catchphrase caught everyone’s attention.\n\n那句易记的招牌说法抓住了大家的注意。",
+    "words": [
+      "catch",
+      "caught",
+      "catcher",
+      "catchy",
+      "catchphrase",
+      "catchment",
+      "bycatch",
+      "chase",
+      "chaser",
+      "catching",
+      "chasing",
+      "catches"
+    ],
+    "exclude": {
+      "catch-all": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "catch-rope": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3703",
+    "meaning": "旧尖锐刺痛到机敏、利落；旧动词仍保留",
+    "core": "SMART：聪明、利落的现代形容词；刺痛的旧动词",
+    "image": "smart → smartly、smartness、smarten；outsmart 策略超过；smarting 单接刺痛支线；smartass 注明粗俗；智能手机和手表已有共享。",
+    "intro": "尖锐的动作、语言与敏捷的判断有历史联系，但转义路线不强说唯一。今天需要靠词性和对象判断。",
+    "forms": "smart + -ly/-ness/-en/-ing/ass；out- + smart；smart + phone/watch。\n\n旧刺痛、尖锐材料发展机敏等义，具体转义不强定一条；现代比较级完整 er。\n\nsmart 在这里说电子功能、处理与连接能力，不只说打扮时髦。",
+    "branches": [
+      [
+        "聪明、得体与改变状态",
+        "smart · smartly · smartness · smarten"
+      ],
+      [
+        "智胜与贬称",
+        "outsmart · smartass"
+      ],
+      [
+        "旧刺痛支线和现代设备",
+        "smarting · smartphone · smartwatch"
+      ],
+      [
+        "smart → smarter：更机敏、更利落",
+        "smart · smarter"
+      ],
+      [
+        "smart 的智能设备组合及复数",
+        "smartphone · smartphones · smartwatch · smartwatches"
+      ]
+    ],
+    "contrasts": "smart 动词刺痛、smarten 使利落；smartly dressed 不是智力测试；smartass 粗俗贬称不同于 smart 褒义。",
+    "practice": "The smart player outsmarted his rival, who was still smarting from the defeat.\n\n机敏的选手智胜对手，而对手仍为失败难受。",
+    "words": [
+      "smart",
+      "smartly",
+      "smartness",
+      "smarten",
+      "outsmart",
+      "smartass",
+      "smarting",
+      "smartphone",
+      "smartwatch",
+      "smarter",
+      "smartphones",
+      "smartwatches"
+    ],
+    "exclude": {
+      "smarty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

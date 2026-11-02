@@ -1,0 +1,396 @@
+[
+  {
+    "word": "screen",
+    "ipa": "/skriːn/",
+    "meaning": "屏障；纱网、筛网；屏幕；遮挡、筛选、放映",
+    "sense": "先是一层挡在中间的东西：挡风、遮视线；有孔就能筛，有平面就能接住投影，后来又成显示屏。",
+    "split": "经中古英语接法语遮挡物词，更早可能日耳曼语但具体路线有争论。现代屏幕、筛选与遮挡是不同分支，不都从电脑发明开始。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ]
+    ],
+    "explanation": "a phone screen 手机屏幕，a window screen 纱窗网，screen applicants 筛选申请者，screen a film 放映电影，screen out noise 滤掉噪声。",
+    "usage": "a phone screen；a window screen；screen applicants；screen a film。",
+    "contrast": "screen 既名词又动词；screen a film 是放映，screen a candidate 是审查筛选。宾语决定走哪条义。",
+    "examples": [
+      [
+        "The film will be screened in the main hall.",
+        "电影将在主厅放映。"
+      ],
+      [
+        "The team screened the applications before the interviews.",
+        "团队在面试前筛选了申请材料。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/screen",
+      "https://en.wiktionary.org/wiki/screen#English"
+    ]
+  },
+  {
+    "word": "screening",
+    "ipa": "/ˈskriːnɪŋ/",
+    "meaning": "放映；筛选、初步筛查；网筛材料",
+    "sense": "可以把电影投到幕上让人看，也可以把人或资料过一遍条件，筛出下一步要处理的对象。",
+    "split": "screen + -ing，分别承接放映、筛选、网筛等已有义项。词尾 -ing 只把活动或过程提出来，不替你选具体意思。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "screen + -ing → screening",
+        "放映活动；筛选过程；另有筛网材料名"
+      ]
+    ],
+    "explanation": "a private screening 私人放映，a screening interview 初筛面试，screening applications 筛选申请。健康语境另有初步筛查义。",
+    "usage": "a private screening；a film screening；a screening interview。",
+    "contrast": "screening 初筛与 final selection 最终选择不同；a screening of the film 则是电影放映，不能只按筛查翻。",
+    "examples": [
+      [
+        "We attended a private screening of the documentary.",
+        "我们参加了纪录片的私人放映。"
+      ],
+      [
+        "Applicants complete a short screening interview first.",
+        "申请者先完成简短的初筛面试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screening#English"
+    ]
+  },
+  {
+    "word": "screenwriter",
+    "ipa": "英 /ˈskriːnraɪtə/；美 /ˈskriːnraɪtər/",
+    "meaning": "电影、电视编剧",
+    "sense": "把将来要在屏幕上演出来的故事写成剧本的人，不是单纯在屏幕上打字。",
+    "split": "screen 银幕、影视 + writer 作者；writer 是 write + -er 的人物词。作品 screenplay 与活动 screenwriting 已有精讲。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "screen + writer → screenwriter",
+        "为影视作品写剧本的人"
+      ]
+    ],
+    "explanation": "a film screenwriter 电影编剧，a television screenwriter 电视编剧，work with a screenwriter 与编剧合作。",
+    "usage": "a film screenwriter；a television screenwriter；an experienced screenwriter。",
+    "contrast": "screenwriter 写剧本，director 导演负责影片创作组织、执导等；一个人可以兼任，职位含义仍不同。",
+    "examples": [
+      [
+        "The screenwriter revised the ending after the discussion.",
+        "讨论后，编剧修改了结尾。"
+      ],
+      [
+        "She worked as a television screenwriter before writing novels.",
+        "写小说前，她做过电视编剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screenwriter#English"
+    ]
+  },
+  {
+    "word": "onscreen",
+    "ipa": "英 /ˌɒnˈskriːn/；美 /ˌɑːnˈskriːn/",
+    "meaning": "在屏幕上的；在镜头画面中的",
+    "sense": "观众能在屏幕这一面看到的内容、表演或按钮。",
+    "split": "on + screen，连写可作形容词或副词；也有 on-screen、on screen 的写法，使用取决于句中位置及编辑习惯。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "on + screen → onscreen",
+        "显示在屏幕上；呈现在镜头内"
+      ]
+    ],
+    "explanation": "onscreen instructions 屏幕提示，an onscreen character 银幕角色，appear onscreen 出现在画面中。",
+    "usage": "onscreen instructions；appear onscreen；an onscreen character。",
+    "contrast": "onscreen 画面中，offscreen 画面外或幕后的；onscreen relationship 可角色关系，不一定演员私下关系。",
+    "examples": [
+      [
+        "Follow the onscreen instructions to finish the setup.",
+        "按屏幕提示完成设置。"
+      ],
+      [
+        "The actor appears onscreen for only a few minutes.",
+        "这位演员只在画面中出现几分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/onscreen#English"
+    ]
+  },
+  {
+    "word": "screensaver",
+    "ipa": "英 /ˈskriːnseɪvə/；美 /ˈskriːnseɪvər/",
+    "meaning": "屏幕保护程序",
+    "sense": "电脑暂时没人用，屏幕换成移动图案、照片等显示；早期目的是减少固定画面留下的痕迹。",
+    "split": "screen + saver，saver 来自 save + -er。早期技术用途后来扩展成闲置时的图像显示功能。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "screen + saver → screensaver",
+        "保护显示屏的程序 → 闲置图像显示"
+      ]
+    ],
+    "explanation": "activate the screensaver 启动屏保，a photo screensaver 照片屏保，screensaver settings 屏保设置。",
+    "usage": "a photo screensaver；screensaver settings；activate the screensaver。",
+    "contrast": "screensaver 屏保通常闲置时出现，wallpaper 壁纸通常是桌面背景。日常有人混用，具体设置里仍要分清。",
+    "examples": [
+      [
+        "The screensaver started after ten minutes of inactivity.",
+        "闲置十分钟后屏保启动了。"
+      ],
+      [
+        "She chose family photos for the screensaver.",
+        "她选了家庭照片作屏保。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screensaver#English"
+    ]
+  },
+  {
+    "word": "smokescreen",
+    "ipa": "英 /ˈsməʊkskriːn/；美 /ˈsmoʊkskriːn/",
+    "meaning": "烟幕；掩人耳目的说法或行动",
+    "sense": "烟把后面的事挡住；比喻里，一番说法或动作也能把真正的问题遮住、转移注意。",
+    "split": "smoke 烟 + screen 屏障，不取显示屏的意思。由烟形成的遮挡扩展到掩饰、干扰视线的借口。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "smoke + screen → smokescreen",
+        "烟的屏障 → 转移注意、掩盖真相的手段"
+      ]
+    ],
+    "explanation": "a smokescreen for something 为某事打掩护，use something as a smokescreen 用某事转移视线。",
+    "usage": "a smokescreen for；use as a smokescreen；create a smokescreen。",
+    "contrast": "smokescreen 常带批评，认为表面理由遮盖真因；background 背景信息则不自动意味着掩饰。",
+    "examples": [
+      [
+        "Critics called the announcement a smokescreen for the budget cuts.",
+        "批评者称这份公告是在为削减预算打掩护。"
+      ],
+      [
+        "The novel uses the argument as a smokescreen for a deeper conflict.",
+        "小说用这场争吵掩盖了更深层的冲突。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smokescreen#English"
+    ]
+  },
+  {
+    "word": "silkscreen",
+    "ipa": "/ˈsɪlkskriːn/",
+    "meaning": "丝网印版；丝网印刷",
+    "sense": "一张细网有些地方让墨通过，有些地方挡住，图案就印到布或纸上。",
+    "split": "silk 丝 + screen 筛网，名称来自早期丝织网材料。后来网可用其他材料，名称仍保留。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "silk + screen → silkscreen",
+        "丝制网版 → 丝网印刷用版及相应工艺"
+      ]
+    ],
+    "explanation": "a silkscreen print 丝网版画，silkscreen printing 丝网印刷，a silkscreen poster 丝网印制海报。",
+    "usage": "silkscreen printing；a silkscreen print；a silkscreen poster。",
+    "contrast": "silkscreen 这里 screen 是网版而非电脑显示屏；silk 的历史命名不保证现代网一定还用真丝。",
+    "examples": [
+      [
+        "The artist produced a series of silkscreen prints.",
+        "艺术家创作了一组丝网版画。"
+      ],
+      [
+        "The poster was made using silkscreen printing.",
+        "海报采用丝网印刷制作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/silkscreen#English"
+    ]
+  },
+  {
+    "word": "flatscreen",
+    "ipa": "/ˈflætskriːn/",
+    "meaning": "平板屏幕；平板电视、显示器",
+    "sense": "跟早期厚厚的显像管设备比，机身前后更薄，成了一块平板。",
+    "split": "flat 扁平 + screen 显示屏，合成后也可指整台设备。常见其他写法 flat screen、flat-screen。",
+    "history": [
+      [
+        "中古英语 screne，接法语相应遮挡物名",
+        "防火、防风的屏障；更早可能日耳曼来源，路线有讨论"
+      ],
+      [
+        "现代 screen",
+        "屏障、筛网 → 投影幕、显示屏；遮挡、筛选、放映"
+      ],
+      [
+        "flat + screen → flatscreen",
+        "扁平显示装置 → 平板屏幕或电视"
+      ]
+    ],
+    "explanation": "a flatscreen television 平板电视，a large flatscreen 大平板电视或显示器。具体液晶、OLED 等属于更细的技术分类。",
+    "usage": "a flatscreen television；a large flatscreen；a flatscreen monitor。",
+    "contrast": "flatscreen 说明外形类别，不只一种显示技术；widescreen 宽屏说比例较宽，两个标准不同。",
+    "examples": [
+      [
+        "A large flatscreen hangs on the wall.",
+        "墙上挂着一台大平板电视。"
+      ],
+      [
+        "They replaced the old television with a flatscreen.",
+        "他们用平板电视换掉了旧电视。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flatscreen#English"
+    ]
+  },
+  {
+    "word": "engine",
+    "ipa": "/ˈendʒɪn/",
+    "meaning": "发动机；机车；驱动力；软件引擎",
+    "sense": "让整套东西运转起来的核心：汽车里是发动机，软件里可以是处理搜索、图形的核心系统。",
+    "split": "借法语 engin，接拉丁 ingenium 天赋、巧思，较早也指机械、战械；发动机义后来成为核心。词首 en- 不是现代使成为前缀加独立 gine。",
+    "history": [
+      [
+        "拉丁 ingenium → 法语 engin",
+        "天生能力、巧思 → 巧妙装置、战械"
+      ],
+      [
+        "中古英语 engyn → engine",
+        "机械装置 → 发动机；比喻动力来源、软件核心"
+      ]
+    ],
+    "explanation": "a car engine 汽车发动机，a steam engine 蒸汽机，a search engine 搜索引擎，an engine of growth 增长动力。",
+    "usage": "a car engine；a steam engine；a search engine；an engine of growth。",
+    "contrast": "engine 常把能量转成有用动力，也可软件比喻；motor 与 engine 用法有交叉，不能只用一条所有发动机都燃油的规则区分。",
+    "examples": [
+      [
+        "The car’s engine would not start.",
+        "汽车发动机启动不了。"
+      ],
+      [
+        "Tourism became an engine of growth for the town.",
+        "旅游业成为小镇增长的动力。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/engine",
+      "https://en.wiktionary.org/wiki/engine#English"
+    ]
+  },
+  {
+    "word": "engineer",
+    "ipa": "英 /ˌendʒɪˈnɪə/；美 /ˌendʒɪˈnɪr/",
+    "meaning": "工程师；策划、设计；火车司机〔美式〕",
+    "sense": "把知识用来设计、建造、维护东西的人；作动词，也可以是有计划地把一件事促成。",
+    "split": "名词早经法语 engigneor 等形式进入英语，与 engin 装置、巧思同族；现代可联系 engine + -eer，但不能说只在现代英语临时给发动机添 er。",
+    "history": [
+      [
+        "拉丁 ingenium → 法语 engin",
+        "天生能力、巧思 → 巧妙装置、战械"
+      ],
+      [
+        "法语 engigneor 等 → 英语 engineer",
+        "设计、建造装置者 → 工程师；后有策划动词"
+      ]
+    ],
+    "explanation": "a civil engineer 土木工程师，a software engineer 软件工程师，engineer a solution 设计促成方案。美式 train engineer 可火车司机。",
+    "usage": "a civil engineer；a software engineer；engineer a solution。",
+    "contrast": "engineer 不只修发动机的人；engineering 工程范围远宽于 engine。动词 engineer a deal 常策划促成交易，不必画机械图。",
+    "examples": [
+      [
+        "She works as a civil engineer.",
+        "她从事土木工程师工作。"
+      ],
+      [
+        "The team engineered a simple solution to the problem.",
+        "团队设计出了一个解决问题的简单方案。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/engineer",
+      "https://en.wiktionary.org/wiki/engineer#English"
+    ]
+  },
+  {
+    "word": "engineering",
+    "ipa": "英 /ˌendʒɪˈnɪərɪŋ/；美 /ˌendʒɪˈnɪrɪŋ/",
+    "meaning": "工程；工程学；设计与建造工作",
+    "sense": "把想法变成能运作、能建造的方案，算、设计、测试、维护等都可能在里面。",
+    "split": "engineer + -ing，把工程师的工作、专业领域作为名词。也可在句中是 engineer 动词的进行形式。",
+    "history": [
+      [
+        "拉丁 ingenium → 法语 engin",
+        "天生能力、巧思 → 巧妙装置、战械"
+      ],
+      [
+        "engineer + -ing → engineering",
+        "工程设计活动 → 工程专业、学科"
+      ]
+    ],
+    "explanation": "civil engineering 土木工程，mechanical engineering 机械工程，engineering design 工程设计；通常作不可数专业名词。",
+    "usage": "civil engineering；mechanical engineering；engineering design。",
+    "contrast": "engineering 不只引擎技术；science 常研究规律，engineering 常在约束中应用知识解决设计问题，实际工作可交叉。",
+    "examples": [
+      [
+        "He studied mechanical engineering at university.",
+        "他在大学学机械工程。"
+      ],
+      [
+        "The bridge is an impressive piece of engineering.",
+        "这座桥是一项令人赞叹的工程成果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/engineering#English"
+    ]
+  }
+]

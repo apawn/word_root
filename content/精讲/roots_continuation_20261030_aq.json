@@ -1,0 +1,115 @@
+[
+  {
+    "id": "B3267",
+    "meaning": "店铺、工场和购物；买者、经营者与行窃者",
+    "core": "SHOP：做工或交易的地方，后来也说购物活动",
+    "image": "shop → shopping、shopper；shopkeeper 经营者；shoplift、shoplifting、shoplifter 连读并注明逆构；共有 workshop、bookshop、sweatshop。",
+    "intro": "旧棚舍词走到交易、做工场所；别只看现代商店义。人物和行为按角色讲，生僻 topshop 等先略。",
+    "forms": "shop + -ing/-er/keeper；shop + lift 偷及相关旧形式；pawn + shop；shop + -aholic。\n\n本族及日耳曼棚舍相关词发展为商店，动词后表购物。\n\n实践研讨义保留一起动手做的感觉。\n\nbook 与 shop 的英语组合，复数给整词加 s。\n\npawn 押物 + shop 构成店名，复数加 -s；不把 shop 的商店义又推成棋盘。",
+    "branches": [
+      [
+        "基本场所、活动和角色",
+        "shop · shopping · shopper · shopkeeper"
+      ],
+      [
+        "店铺类型与工场",
+        "bookshop · pawnshop · workshop · sweatshop"
+      ],
+      [
+        "行窃及过度购物称呼",
+        "shoplift · shoplifting · shoplifter · shopaholic"
+      ],
+      [
+        "shop → shops：店铺与购物",
+        "shop · shops"
+      ],
+      [
+        "shop 工坊支：workshop、workshops",
+        "workshop · workshops"
+      ],
+      [
+        "bookshop → bookshops：售书商店",
+        "bookshop · bookshops"
+      ],
+      [
+        "pawnshops：典当业务的店",
+        "pawnshop · pawnshops"
+      ]
+    ],
+    "contrasts": "shop 挑买不保证买下；shopkeeper/assistant/shopper 分角色；shoplift 动词逆构；pawn 典当不是棋兵。",
+    "practice": "The shopkeeper helped the shopper carry her shopping.\n\n店主帮顾客提起买来的东西。",
+    "words": [
+      "shop",
+      "shopping",
+      "shopper",
+      "shopkeeper",
+      "bookshop",
+      "pawnshop",
+      "workshop",
+      "sweatshop",
+      "shoplift",
+      "shoplifting",
+      "shoplifter",
+      "shopaholic",
+      "shops",
+      "workshops",
+      "bookshops",
+      "pawnshops"
+    ],
+    "exclude": {
+      "e-shop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shop-bought": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shop-soiled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "topshop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3894",
+    "meaning": "做出事物的材料；物质与实质重要两路",
+    "core": "MATERIAL：拿来做东西的材料；也说足以影响结果",
+    "image": "material → materially、materiality；materialize 变成现实，immaterial 否定；materialist、materialistic 最后分哲学与日常评价。",
+    "intro": "拉丁木材、材料走向一般物质、资料，也有重要的含义；不要用摸得着一招解释所有句子。",
+    "forms": "material + -ly/-ity/-ize/-ist/-istic；im- + material 的借入对应。\n\nmatter 与 material 同接拉丁语 materia，经不同法语等形式进入英语；是同源借词，不能写成现代 matter 直接加 -ial 就形成 material。\n\n材料、内容词族发展到讨论的事；动词进一步说有重要性。\n\n材料、物质词族扩展为任何拿来制作、学习、研究的素材。",
+    "branches": [
+      [
+        "材料、重要性与程度",
+        "material · materially · materiality"
+      ],
+      [
+        "实际出现与否定",
+        "materialize · immaterial"
+      ],
+      [
+        "立场和价值评价",
+        "materialist · materialistic"
+      ],
+      [
+        "同源的常用基础词：matter 与 material",
+        "matter · material"
+      ],
+      [
+        "matter → matters：事情与事情要紧",
+        "matter · matters"
+      ],
+      [
+        "material → materials：制作材料与学习资料",
+        "material · materials"
+      ]
+    ],
+    "contrasts": "material difference 实质差异；immaterial 无关紧要；materialist 哲学不等于贪财；materialize 主语常是计划、结果。",
+    "practice": "The material change mattered, but the promised improvement never materialized.\n\n这个实质变化值得注意，但承诺的改善始终没有出现。",
+    "words": [
+      "material",
+      "materially",
+      "materiality",
+      "materialize",
+      "immaterial",
+      "materialist",
+      "materialistic",
+      "matter",
+      "matters",
+      "materials"
+    ],
+    "exclude": {}
+  }
+]

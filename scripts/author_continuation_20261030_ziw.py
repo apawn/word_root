@@ -1,0 +1,210 @@
+"""Common reading vocabulary, spelling variants and forms of halt."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ a=['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+ if base=='defendant':a.append('https://www.merriam-webster.com/dictionary/defendant')
+ if word=='halting':a.append('https://www.etymonline.com/word/halting')
+ return a
+EXISTING_ROOT_ADDITIONS={
+ 'B3887':dict(words='terrorist terrorists'.split(),label='terrorist → terrorists：恐怖手段与实施者',note='terrorist 借法语 terroriste，接 terror 恐惧与 -ist 人物称呼材料；最初与法国革命的恐怖统治背景有关，后来用于以暴力恐吓达到政治等目的的人，不只泛指令人害怕者。'),
+ 'B4200':dict(words='poll polls'.split(),label='poll → polls：数人头到投票、民调',note='poll 早有头、头部相关意义，按人头数的关系发展为票数、投票、民调；polls 既可为多次调查，也用于 the polls 投票处、投票活动等。'),
+ 'C1138':dict(words='protein proteins'.split(),label='protein → proteins：重要的命名到不同蛋白质',note='protein 经法语近代科学名称，接希腊 prōteios 首要的、prōtos 第一等材料；复数 proteins 常在说不同蛋白质，不把一个历史首要的命名直接当成现代营养排名。'),
+ 'C1306':dict(words='senator senators'.split(),label='senator → senators：长者词族中的议员称呼',note='拉丁 senator 参议机构成员接 senex 老、老人，经法语进入英语；现代是职位名称，不按每位议员实际年龄判定。'),
+ 'C1440':dict(words='studio studios'.split(),label='studio → studios：专心工作的房间到制作机构',note='studio 经意大利 studio 研习、工作之室接拉丁 studium 专注、用心，与 study 远同族；地点又转指在其中工作的制作机构，复数直接加 s。'),
+ 'B3351':dict(words='rumor rumors rumour rumours'.split(),label='rumor、rumour：从喧声、众人议论到传闻',note='与 noise 比较喧声，不由 noise 派生。rumor、rumour 同一词的美英常见拼写，接古法语、拉丁 rumor 喧声、传闻；复数各自加 s，不制造两条独立词源。'),
+ 'C0413':dict(words='defendant defendants'.split(),label='defendant → defendants：面对诉讼、作答辩的一方',note='defendant 经法语 defendre 的现在分词名词用法借入，远接拉丁 defendere 抵挡、保护；现代称被告，-ant 有行动者的历史构词背景，不能漏写成 defend + -ent。'),
+ 'C0972':dict(words='patriot patriots'.split(),label='patriot → patriots：同乡到爱国者',note='patriot 经法语、晚期拉丁语，接希腊 patriōtēs 同乡、同胞，再接父辈、故土的词族；英语从同胞到热爱祖国的人，现代复数加 s。'),
+ 'B3593':dict(words='shark sharks'.split(),label='shark → sharks：鲨鱼与逐利者的比喻',note='shark 更远来源不定，鱼名与骗子、掠夺者词之间的先后关系也有争论；现代可用鲨鱼掠食的画面理解逐利者比喻，不能把画面当确定的最早时间线。'),
+ 'B2854':dict(words='eat eats'.split(),label='eat → eats：吃，也有消耗时间的比喻',note='eat 接古英语 etan，远处同族为吃的古老词根；eats 是现在时第三人称单数，也有口语食物名词用法。'),
+ 'B3341':dict(words='shareholder shareholders'.split(),label='shareholder → shareholders：持有股份的人',note='share 股份 + hold 持有 + -er 人 → shareholder，复数给整个名词末尾加 s；这里的 share 是公司份额，holder 是持有者。'),
+ 'B2879':dict(words='halt halts halted halting'.split(),label='halt：与 hold 同族的停止；断续、迟疑另有旧词线',note='停止名词 halt 经法语、意大利语追到德语 halten 持有、止住的命令形式，与 hold 同族。另有古英语走路不稳、迟疑的 halt，halting speech 断续讲话主要接后一线，不能全部由现代军令新造。'),
+ 'C1308':dict(words='sense senses'.split(),label='sense → senses：感官、理智、词义及察觉',note='sense 经法语、拉丁 sensus 接 sentire 感知、感觉；英语很早已有词义、理解用法，不把现代学习的先后当作历史。senses 兼复数名词和第三人称单数动词。'),
+ 'B2552':dict(words='killer killers'.split(),label='killer → killers：造成死亡的人、动物或事物',note='kill + -er → killer，再加 -s → killers。kill 最早记录有击打，后来有杀死；更远可能接古英语 cwellan 的未见变体，仍须保留不确定。'),
+ 'B3104':dict(words='stab stabbed'.split(),label='stab → stabbed：刺入，也有扎心的比喻',note='stab 古来有尖物刺入动作，早期见于苏格兰与英格兰北部词；更远 stob、stub 联系有争议。stabbed 双写 b 加完整 -ed。'),
+ 'C1453':dict(words='sum sums'.split(),label='sum → sums：总数、金额、算术题与概括',note='sum 接法语与拉丁 summa 总额、要点，向前接 summus 最高；动词也经法语或中世纪拉丁语，不能一概说全部从现代英语名词新造。'),
+}
+RUMOR=[['拉丁 rumor：喧声、众人议论、传闻 → 古法语 rumor','声音在人群中传来传去，成为传闻；英语也曾有喧嚣义'],['英语 rumor；英式常用 rumour → rumors、rumours','现代重点是未经证实的消息；两种拼写不改变基本词义']]
+HALT=[['停止一线：德语 halten 持有、止住的命令形式 → 法语、意大利语相关形式','英语借入 halt 停止名词，再有动词；与 hold 远同族'],['另线：古英语 haltian、healtian 走路不稳、迟疑 → halt','halting 形容言语、进展断续常接这条旧线，不能全当作停止名词的新派生']]
+W('terrorists','英 /ˈterərɪsts/；美 /ˈtɛrərɪsts/','恐怖分子〔复数〕',
+ '用暴力和恐吓来达到政治等目的的人，常称 terrorists。词里的 terror 是让人陷入恐惧，-ist 指这种活动中的人。',
+ 'terrorist 经法语 terroriste 借入，初与法国革命的恐怖统治背景相连；现代加 -s → terrorists，/t/ 后读 /s/，末尾 /sts/。',
+ [['拉丁恐惧词族 → 法语 terreur、terroriste','特定历史政治称呼，后来扩大使用范围'],['英语 terrorist + -s → terrorists','现代复数，词尾 /sts/']],
+ 'a group of terrorists 是一伙恐怖分子；terrorists in a novel 是小说里的恐怖分子。',
+ 'a group of terrorists；terrorists in the story；attacks by terrorists。',
+ 'terrorists 是特定人物称呼；ordinary people terrified by an event 只是受惊的人，不能因为都与恐惧有关就混用。',
+ ('The novel follows a journalist investigating a group of terrorists.','小说讲述一名记者调查一伙恐怖分子的经历。'),('In the story, the terrorists threaten the passengers.','故事里，恐怖分子威胁乘客。'),sources=S('terrorists','terrorist'))
+W('polls','英 /pəʊlz/；美 /poʊlz/','民意调查；投票、投票处；调查、获得选票',
+ '问一群人意见，是 polls 里的民调；go to the polls 是去投票。两者背后都有“按人头来数”的老画面。',
+ 'poll 早指头部、个体，由数人头发展为数票、投票，再有现代民调。poll + -s → polls，/l/ 后读 /z/；兼复数名词和第三人称单数动词。',
+ [['poll 头部、个体 → 按人计数、投票','从计票、投票继续发展到意见调查'],['poll + -s → polls','复数调查，或 the polls 投票处、投票活动等；也可作动词']],
+ 'opinion polls 是民意调查；the polls close 是投票结束、投票处关闭；go to the polls 是参加投票。',
+ 'opinion polls；go to the polls；the polls close。',
+ 'polls 里的民调是询问意见；the polls 的投票义要结合固定搭配，不能每次都翻成几份问卷。',
+ ('The two polls produced different results.','两次民调得出了不同结果。'),('Voters went to the polls early in the morning.','选民一大早就去投票了。'),sources=S('polls','poll'))
+W('proteins','英 /ˈprəʊtiːnz/；美 /ˈproʊtinz/','蛋白质〔多种、多类的复数〕',
+ '谈食物里有蛋白质，常用 protein；逐种讨论不同蛋白质，就用 proteins。复数把一类物质展开为多个成员。',
+ 'protein 接近代法语科学名称，以希腊 prōteios 首要的、prōtos 第一等材料命名；加 -s → proteins，/n/ 后读 /z/。',
+ [['希腊 prōteios 首要的等材料 → 近代科学名称 protéine','历史上以重要性命名，后续研究完善概念'],['英语 protein + -s → proteins','将蛋白质按不同类型、成员计数']],
+ 'different proteins 是不同蛋白质；plant proteins 是植物蛋白质；proteins in a sample 是样本中的蛋白质。',
+ 'different proteins；plant proteins；the structure of proteins。',
+ 'some protein 可以说一定量蛋白质；some proteins 常指其中几种，两种句法关心的分别是量和种类。',
+ ('The lesson compares several different proteins.','这节课比较几种不同的蛋白质。'),('The diagram shows how proteins fold.','图示展示蛋白质如何折叠。'),sources=S('proteins','protein'))
+W('senators','英 /ˈsenətəz/；美 /ˈsɛnətɚz/','参议员；元老院成员〔复数〕',
+ '一群参议员是 senators。词源里的“长者”留下了议事机构的旧背景，现代它表示职位。',
+ 'senator 经古法语接拉丁 senator 参议机构成员，向前接 senex 老、老人；现代加 -s → senators，词尾 /z/。',
+ [['拉丁 senex 老、老人 → senator 元老院成员','经法语进入英语，后来也称现代机构成员'],['senator + -s → senators','多名参议员；职称不等于按年龄分组']],
+ 'two senators 是两名参议员；Roman senators 是古罗马元老院成员；senators debating a proposal 是正在讨论提案的参议员。',
+ 'Roman senators；two senators；a meeting of senators。',
+ 'senior 和 senator 共享老、年长的远处词族；senators 不是所有年长者，也不自动指全部议员。',
+ ('The senators met to discuss the proposal.','参议员们开会讨论这项提案。'),('The painting depicts a group of Roman senators.','这幅画描绘了一群古罗马元老院成员。'),sources=S('senators','senator'))
+W('studios','英 /ˈstjuːdiəʊz/；美 /ˈstudioʊz/','工作室；录音室、摄影棚；制作机构；开间公寓〔复数〕',
+ '人专心创作的房间，可以是 studios；房间背后的电影、动画制作机构，也会被称为 studios。',
+ 'studio 经意大利语研习、工作之室接拉丁 studium 专心、用心；地点扩大到制作机构。studio + -s → studios，元音后 /z/，不用加 -es。',
+ [['拉丁 studium 专注 → 意大利 studio 研习、工作之室','英语借入后用于艺术创作房间、摄影录音等场地'],['场地 → 经营制作的机构；studio + -s → studios','也有开间公寓用法；现代复数直接加 s']],
+ 'recording studios 是录音室；film studios 是电影制作机构或摄影棚；small studios 依上下文也可能是小开间公寓。',
+ 'recording studios；film studios；artists’ studios。',
+ 'studio 与 study 远同族，但现代 studios 不表示几项研究；复数是 studios，别照某些 -o 名词写成 studioes。',
+ ('Several artists share the studios upstairs.','几位艺术家共用楼上的工作室。'),('Two film studios are working on the project.','两家电影制作机构正在合作这个项目。'),sources=S('studios','studio'))
+W('rumor','英 /ˈruːmə/；美 /ˈrumɚ/','传闻、未经证实的消息',
+ '大家都在传，却还没人拿出可靠证据的消息，是 a rumor。词源先抓“人群中的声音、议论”这个画面。',
+ '拉丁 rumor 有喧声、众人议论、传闻等义，经古法语进入英语；现代 rumor 常见于美式拼写，英式常用 rumour。词尾不是现代表示职业的 -or。',RUMOR,
+ 'hear a rumor 是听到传闻；spread a rumor 是散播传闻；a rumor about someone 是关于某人的传闻。',
+ 'hear a rumor；spread a rumor；a rumor about a move。',
+ 'rumor 强调消息还没被证实，不一定已知为假；lie 通常说说话者有意说假话。',
+ ('I heard a rumor that the café is moving.','我听到传闻，说那家咖啡馆要搬走了。'),('The manager said the story was only a rumor.','经理说那个说法只是传闻。'),sources=S('rumor','rumor'))
+W('rumors','英 /ˈruːməz/；美 /ˈrumɚz/','传闻〔复数；美式常用拼写〕',
+ '办公室里传来传去的不止一种说法，是 rumors。复数可以数不同消息，也可以笼统说流言纷纷。',
+ 'rumor + -s → rumors，后缀读 /z/；英式常见写法是 rumours，基本词义相同。',RUMOR+[['rumor + -s → rumors','沿用美式常见拼写的复数']],
+ 'rumors about a closure 是有关关门的传闻；deny rumors 是否认传闻；rumors spread 是传闻流传。',
+ 'deny rumors；rumors spread；rumors about a closure。',
+ 'rumors 与 reports 消息报道有时谈同一事件，但 rumors 更突出未经证实的性质，不能只当作正式报道的同义词。',
+ ('Rumors spread quickly through the office.','传闻很快传遍了办公室。'),('She denied the rumors about her departure.','她否认了有关她要离开的传闻。'),sources=S('rumors','rumor'))
+W('rumour','英 /ˈruːmə/；美 /ˈrumɚ/','传闻〔英式常用拼写〕',
+ 'rumour 和 rumor 是同一个传闻词，只是常见拼写习惯不同。多出的 u 不增加一个音节。',
+ 'rumour 接同一条古法语、拉丁 rumor 喧声、传闻词线；英语历史上 -our、-or 的拼写习惯逐步分化，现代英式常见 rumour。',RUMOR,
+ 'a rumour about the school 是关于学校的传闻；hear a rumour 是听见一则传闻；just a rumour 是只是传闻。',
+ 'hear a rumour；spread a rumour；just a rumour。',
+ 'rumour 与 rumor 的拼写差别不表示可信度有差别；同一篇文章里通常保持拼写习惯一致。',
+ ('There is a rumour that the shop will reopen.','有传闻说那家商店将重新营业。'),('I hope the story is just a rumour.','我希望那个说法只是传闻。'),sources=S('rumour','rumor'))
+W('rumours','英 /ˈruːməz/；美 /ˈrumɚz/','传闻〔复数；英式常用拼写〕',
+ '一阵阵未经证实的说法，用英式常见写法就是 rumours。与 rumors 的意思、读音基本相同。',
+ 'rumour + -s → rumours，/ə/ 或 /ɚ/ 后接 /z/；u 随基础词保留，不是复数新加的字母。',RUMOR+[['rumour + -s → rumours','英式常见拼写的规则复数']],
+ 'dismiss rumours 是不接受、驳斥传闻；rumours of a change 是要发生变化的传闻；persistent rumours 是不断出现的传闻。',
+ 'dismiss rumours；rumours of a change；persistent rumours。',
+ 'rumours 是多则或泛指传闻；a rumour 明确说一则。传闻最后可能被证实，也可能被否定。',
+ ('Rumours of a change began to circulate.','有关要发生变动的传闻开始流传。'),('The announcement put an end to the rumours.','这则公告终结了那些传闻。'),sources=S('rumours','rumor'))
+W('defendant','英、美 /dɪˈfendənt/','被告',
+ '诉讼中被对方提出主张、需要作答辩的一方，是 the defendant。词源可以抓“站出来抵挡、为自己辩护”的关系。',
+ '经古法语 defendant，即 defendre 防卫的现在分词转作名词；远接拉丁 de- 离开 + -fendere 击打、抵挡材料。现代学习可记 defend + -ant 的词族关系，历史上不是英语现场新造。',
+ [['拉丁 defendere 抵挡、保护 → 古法语 defendre','现在分词 defendant，有正在防卫、答辩的背景'],['分词名词化、借入英语 defendant','诉讼中的被告一方；现代保留 -ant 拼写']],
+ 'the defendant 是该案被告；the defendant’s lawyer 是被告的律师；a civil defendant 是民事被告。',
+ 'the defendant；the defendant’s lawyer；a civil defendant。',
+ 'defendant 是诉讼角色，不能直接翻成已经被认定有罪的人；民事案件里也有这个角色。',
+ ('The defendant spoke quietly.','被告低声说话。'),('The novel ends before the defendant hears the verdict.','小说在被告听到裁决之前结束。'),sources=S('defendant','defendant'))
+W('defendants','英、美 /dɪˈfendənts/','被告〔复数〕',
+ '一个案件不止一名被告，或把几位被告放在一起谈，就用 defendants。不是法官、律师的总称。',
+ 'defendant + -s → defendants，/t/ 后读 /s/，结尾 /nts/。保留基础词 -ant，再给整个人物名词加复数。',
+ [['法语 defendant 分词名词用法 → 英语 defendant','远处与 defend 抵挡、辩护同一词族'],['defendant + -s → defendants','多名被告，词尾 /nts/']],
+ 'two defendants 是两名被告；the defendants’ lawyers 是几名被告的律师；one of the defendants 是被告之一。',
+ 'two defendants；the defendants’ lawyers；one of the defendants。',
+ 'defendants 与 defenders 不同：前者是被告角色，后者泛指保卫者、辩护者，也常用于体育防守队员。',
+ ('The two defendants sat beside their lawyers.','两名被告坐在各自的律师旁边。'),('The book describes the experiences of several defendants.','这本书描写了几名被告的经历。'),sources=S('defendants','defendant'))
+W('patriots','英 /ˈpætriəts/；美 /ˈpeɪtriəts/','爱国者〔复数〕',
+ '把自己的国家、故土放在心上并愿意为之出力的人，可以称 patriots。词源先从父辈、故土、同胞这层关系去记。',
+ 'patriot 经法语、晚期拉丁语接希腊 patriōtēs 同乡，背后接父辈、故土词族；英语后来有爱国者义。加 -s → patriots，词尾 /ts/。',
+ [['希腊父辈、故土词族 → patriōtēs 同胞','经晚期拉丁语、法语借入英语 patriot'],['同胞 → 爱国者；patriot + -s → patriots','现代复数；学习可从熟悉的爱国者义入手']],
+ 'local patriots 是当地爱国人士；a group of patriots 是一群爱国者；历史文章也常用 patriots 描述人物。',
+ 'a group of patriots；local patriots；remembered as patriots。',
+ 'patriots 是人物名词；patriotic 是爱国的形容词，patriotism 则说爱国情感、爱国精神。',
+ ('The museum tells the stories of local patriots.','博物馆讲述当地爱国人士的故事。'),('The novel portrays its heroes as patriots.','小说把主人公们塑造成爱国者。'),sources=S('patriots','patriot'))
+W('sharks','英 /ʃɑːks/；美 /ʃɑrks/','鲨鱼〔复数〕；凶狠逐利者、高手〔比喻〕',
+ '海里的鲨鱼是 sharks；借给人的称呼，有时强调凶狠逐利，也可能说某类游戏里厉害的高手。',
+ 'shark + -s → sharks，/k/ 后读 /s/。鱼名更远来源不确定，与骗子称呼的关系有争论；用鲨鱼形象记现代比喻，不把它写成已经证实的最早历史。',
+ [['英语 shark 鱼名与骗子、掠夺者用法','更远来源和彼此先后有争论'],['shark + -s → sharks','现代复数；按海洋、金钱、游戏等语境判断意思']],
+ 'sharks in the ocean 是海里的鲨鱼；loan sharks 是放高利贷的盘剥者；card sharks 常说老练、可能使诈的牌手。',
+ 'sharks in the ocean；loan sharks；card sharks。',
+ '现代比喻可以借掠食形象理解；不能倒过来认定鲨鱼名称一定先由人类骗子称呼产生，或一定反过来。',
+ ('We watched sharks swimming behind the glass.','我们隔着玻璃看鲨鱼游动。'),('In the novel, the family falls into the hands of loan sharks.','小说里，这家人落入了高利贷盘剥者的手中。'),sources=S('sharks','shark'))
+W('eats','英、美 /iːts/','吃；耗费、侵蚀；食物〔口语〕',
+ 'he eats lunch 是他吃午饭；the task eats up time 是任务把时间“吃掉”。词尾 s 只改变语法形式，不改变吃的核心画面。',
+ 'eat 接古英语 etan，更远是吃的古老词族；eat + -s → eats，/t/ 后读 /s/。动词又能比喻消耗，eats 也有口语食物的名词用法。',
+ [['古英语 etan → 英语 eat','从吃食物也扩大到侵蚀、消耗等'],['eat + -s → eats','常见第三人称单数；口语还可指食物']],
+ 'eats breakfast 是吃早饭；eats up time 是耗费时间；cheap eats 是便宜的吃食、餐饮选择。',
+ 'eats breakfast；eats up time；cheap eats。',
+ 'he eats 是现在习惯、事实，he ate 是过去；cheap eats 里的 eats 则是名词，不是在说便宜地吃这一动作。',
+ ('She eats breakfast at seven.','她七点吃早饭。'),('The extra paperwork eats up a lot of time.','额外的文书工作耗掉了很多时间。'),sources=S('eats','eat'))
+W('shareholders','英 /ˈʃeəˌhəʊldəz/；美 /ˈʃerˌhoʊldɚz/','股东〔复数〕',
+ '把公司股份持有在手里的人，就是 shareholders：拿着一份份股份的持有者。',
+ 'share 股份 + hold 持有 + -er 人 → shareholder；再加 -s → shareholders，词尾 /z/。复数加在整个名词末尾，不能写成 sharesholder。',
+ [['share 股份 + hold 持有 + -er 人 → shareholder','字面关系就是持有股份的人'],['shareholder + -s → shareholders','多名股东，保持 share 的单数形式作前部']],
+ 'company shareholders 是公司股东；major shareholders 是主要股东；a meeting of shareholders 是股东会议。',
+ 'company shareholders；major shareholders；a meeting of shareholders。',
+ 'stakeholders 利益相关者范围通常更广；shareholders 专指持有股份的人，不能把客户、员工自动都译成股东。',
+ ('The company sent a letter to its shareholders.','公司给股东发了一封信。'),('Several shareholders attended the meeting online.','几名股东在线参加了会议。'),sources=S('shareholders','shareholder'))
+W('halt','英 /hɔːlt/；美 /hɔlt/，也可 /hɑlt/','停止；使停下；停顿',
+ '车、人、进程突然被按下暂停，就是 halt。比普通 stop 有时更正式，也更像把行动止住。',
+ '停止名词经法语或意大利语追到德语 halten 持有、止住的命令形式，后来英语有动词；与 hold 同族。另有古英语走路不稳、迟疑的 halt，来路要分开。',HALT,
+ 'come to a halt 是停下来；bring something to a halt 是使某事停止；halt work 是停工。',
+ 'come to a halt；bring to a halt；halt the work。',
+ '停止的 halt 与 halting speech 断续讲话有历史不同的词线；看见相同拼写，不要把两条来历硬接成一条。',
+ ('The train came to a halt outside the station.','火车在车站外停了下来。'),('Heavy rain forced us to halt the work.','大雨迫使我们停工。'),sources=S('halt','halt'))
+W('halts','英 /hɔːlts/；美 /hɔlts/，也可 /hɑlts/','停止；使停止；停顿〔复数〕',
+ '进程一到某处就停住，可以说 it halts；路上几次停顿，也能说 halts。',
+ 'halt + -s → halts，/t/ 后读 /s/；第三人称单数动词、名词复数同形。这里先学停止这一支。',HALT+[['halt + -s → halts','停止动词第三人称单数、停顿名词复数']],
+ 'halts the process 是使流程停止；brief halts 是短暂停顿；halts at the entrance 是在入口停住。',
+ 'halts the process；brief halts；halts at the entrance。',
+ 'the train halts 是火车停下的动作；several halts 是几次停顿，句中位置决定词性。',
+ ('The machine halts when the door opens.','门一打开，机器就停下。'),('We made two brief halts during the walk.','步行途中我们短暂停了两次。'),sources=S('halts','halt'))
+W('halted','英 /ˈhɔːltɪd/；美 /ˈhɔltɪd/，也可 /ˈhɑltɪd/','停下了；使停止了',
+ '原来正在前进，到了某处停住了，就是 halted。既能说主体自己停下，也能说某件事把进程止住。',
+ 'halt + -ed → halted；/t/ 后 -ed 读 /ɪd/，多一个音节。lt 已是两个辅音字母结尾，直接加 -ed，不双写 t。',HALT+[['halt + -ed → halted','停止义常见过去式、过去分词，末尾 /tɪd/']],
+ 'halted at the gate 是在门口停住；work was halted 是工作被叫停；halted the discussion 是中止讨论。',
+ 'halted at the gate；work was halted；halted the discussion。',
+ 'The vehicle halted 是车停了；someone halted the vehicle 是某人使车停下，是否接宾语改变句中角色。',
+ ('The bus halted at the gate.','公交车在大门口停下了。'),('Heavy snow halted the work for a day.','大雪让工作停了一天。'),sources=S('halted','halt'))
+W('halting','英 /ˈhɔːltɪŋ/；美 /ˈhɔltɪŋ/，也可 /ˈhɑltɪŋ/','停止；断断续续的、迟疑不畅的',
+ 'halting a process 是使流程停止；halting speech 则像走一步顿一下，话说得迟疑、不连贯。',
+ '形式都是 halt + -ing，lt 后不双写。停止动作接后来的停止词线；形容言语、进展不流畅，主要接古英语走路不稳、迟疑的另一条 halt。',HALT+[['halt + -ing → halting','停止动作与断续形容词在现代同形，要按具体词线解释']],
+ 'halting the work 是停止工作；in halting English 是用结结巴巴的英语；halting progress 是缓慢断续的进展。',
+ 'halting the work；halting speech；in halting English。',
+ 'halting English 仍然是在说英语，只是不流畅；不能把它直译成完全停止讲话。',
+ ('She explained the problem in halting English.','她用不太流畅的英语解释了问题。'),('They discussed halting the work until the rain stopped.','他们讨论了先停工、等雨停再继续的做法。'),sources=S('halting','halt'))
+W('senses','英、美 /ˈsensɪz/','感官；理智、意识；词义〔复数〕；察觉',
+ '眼耳鼻舌身的感知能力，是 senses；一本词典里同一词的几个意思，也叫 senses。he senses something 则说他察觉到了什么。',
+ 'sense 经古法语、拉丁 sensus 接 sentire 感知；英语很早已有词义、理解用法。sense + -s → senses，/s/ 后读 /ɪz/，写法只添 s。',
+ [['拉丁 sentire 感知 → sensus 感觉、理解、意义 → 法语、英语 sense','英语早期已经出现词义，不把教学的具体到抽象当作唯一历史'],['sense + -s → senses','名词复数、第三人称单数动词，读 /ˈsensɪz/']],
+ 'the five senses 是五种感官；come to your senses 是恢复理智、清醒过来；different senses of a word 是一词的不同词义。',
+ 'the five senses；come to your senses；senses a change。',
+ 'senses 可数的是感官、词义等；common sense 常识通常按不可数整体用，不能照搬成常识们。',
+ ('The word has several different senses.','这个词有几个不同的意思。'),('The dog senses that something is wrong.','狗察觉到有些不对劲。'),('The lesson introduces the five senses.','这节课介绍五种感官。'),sources=S('senses','sense'))
+W('killers','英 /ˈkɪləz/；美 /ˈkɪlɚz/','杀人者；致命的人、动物或事物〔复数〕',
+ '造成死亡的，可以是人，也可以是凶猛捕食的动物或某种危险因素。killers 把这些“造成死亡者”数出来。',
+ 'kill + -er → killer，再加 -s → killers，词尾 /z/。kill 最早记录有击打，后来有杀死，更远词源仍有不确定。',
+ [['英语 kill：旧击打到杀死；kill + -er → killer','-er 标出执行动作、造成结果的人或事物'],['killer + -s → killers','多名或多种造成死亡者，词尾 /z/']],
+ 'the killers in a story 是故事中的杀人者；natural killers 依语境说天生的捕猎者；词的具体对象要看主语、上下文。',
+ 'the killers in the story；identify the killers；portrayed as killers。',
+ 'killers 可能写人、动物，也可泛指致命因素；不能每次都限定成同一种职业或某种法律结论。',
+ ('The detective tries to identify the killers in the novel.','小说里的侦探试图查明凶手是谁。'),('The film portrays the creatures as ruthless killers.','电影把这些生物塑造成凶残的杀戮者。'),sources=S('killers','kill'))
+W('stabbed','英、美 /stæbd/','刺了、刺入了；使刺痛、背叛了〔比喻〕',
+ '尖物猛地扎进去，是 stabbed；感情上突然一阵疼，也能借“被刺中”的感觉来写。',
+ 'stab 双写 b + -ed → stabbed，/b/ 后后缀读 /d/。原词早见于苏格兰、英格兰北部，更远与 stob、stub 等的联系有争议。',
+ [['中古英语 stabben：用尖物刺入','更远来源不定，不根据几个字母编造确定祖先'],['stab 双写 b + -ed → stabbed','过去式、过去分词；也保留突然刺痛、背叛的比喻']],
+ 'stabbed a piece of food 是用尖物扎住食物；pain stabbed through someone 是疼痛突然穿过；stabbed in the back 可比喻被背叛。',
+ 'stabbed with a fork；pain stabbed through；stabbed in the back。',
+ 'stabbed in the back 谈信任、合作时常是背叛的比喻，具体谈身体伤害时则可能是字面意思。',
+ ('He stabbed a piece of potato with his fork.','他用叉子叉住了一块土豆。'),('She felt as though she had been stabbed in the back.','她觉得自己仿佛被人在背后捅了一刀，遭到了背叛。'),sources=S('stabbed','stab'))
+W('sums','英、美 /sʌmz/','金额、总数；算术题〔复数〕；概括、加总',
+ '几笔钱是 sums of money；小学生做的加减题也可以叫 sums。he sums up the idea 则是他把要点收拢起来。',
+ 'sum 经法语接拉丁 summa 总额、要点，向前接 summus 最高；动词也有法语、中世纪拉丁语的借入关系。sum + -s → sums，/m/ 后读 /z/。',
+ [['拉丁 summus 最高 → summa 总额、要点 → 法语、英语 sum','最高到总额的历史解释有推测，不必凭空补一套确定记账故事'],['sum + -s → sums','名词复数与第三人称单数动词；sum up 表概括']],
+ 'large sums of money 是大笔金额；do sums 是做算术题；sums up the problem 是概括问题。',
+ 'large sums of money；do sums；sums up the idea。',
+ 'sums 是可数名词复数或单数主语的现在动词；summed 则是过去形式，不能因发音接近就混用。',
+ ('The children were doing sums on the board.','孩子们正在黑板上做算术题。'),('This sentence sums up the main idea.','这句话概括了主要意思。'),sources=S('sums','sum'))
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_ziw',ROOTS,WORDS)
+ extend_lessons()

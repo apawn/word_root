@@ -1,0 +1,198 @@
+"""Everyday objects, borrowed words, animals and food."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ return ['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+EXISTING_ROOT_ADDITIONS={
+ 'B3882':dict(words='wallet wallets'.split(),label='wallet：旅行袋到随身钱包',note='与 purse 比较装钱、随身物品的功能，不是 purse 派生。wallet 早有旅行袋、大钱袋义，远源未定，有古法语与日耳曼卷起材料的分析。'),
+ 'C0622':dict(words='pearl pearls'.split(),label='pearl：另源的珍珠与珍贵话语',note='与 jewel 作珍宝比较，不接 joke 的玩笑词源。pearl 经古法语 perle、中古拉丁 perla，远源未定，不把像梨或像小圆球的假说定为唯一来源。'),
+ 'B3347':dict(words='tattoo tattoos tattooed tattooing tattooist'.split(),label='tattoo：皮肤上的图案',note='本组与 skin 比较皮肤上的装饰，不是 skin 派生。文身 tattoo 接波利尼西亚 tatau 等材料；军中晚间信号、鼓声 tattoo 则接荷兰 taptoe，二者另源。'),
+ 'B3298':dict(words='jungle jungles'.split(),label='jungle：荒野，到繁茂密林',note='和 forest 作林地比较，不是 forest 的派生。jungle 经印地语 jangal，接梵语 jangala 荒地、少树地等；借入英语后常用来描绘繁茂纠缠的植被。'),
+ 'B2536':dict(words='hurricane hurricanes'.split(),label='hurricane：经西班牙语传来的飓风名',note='与 storm 比较风暴，不是 storm 的派生。hurricane 经西班牙 huracán 等接加勒比阿拉瓦克语族材料，英语早期有多种拼写。'),
+ 'B2834':dict(words='booth booths'.split(),label='booth：临时小屋，到小隔间、摊位',note='与 build 比较搭建空间；booth 经古丹麦等北欧临时住所词，相关居住材料可比较更远同源，不能写成现代 build 直接派生。'),
+ 'C0055':dict(words='deer'.split(),label='deer：从泛称野兽到专指鹿',note='和 animal 比较动物泛称与收窄，不从拉丁 anima 派生。deer 承古英语 deor 野兽，属于日耳曼词，现代通常单复数同形。'),
+ 'B2627':dict(words='eagle eagles'.split(),label='eagle：拉丁鹰名经法语借入',note='和 bird 比较鸟类名称，不是 bird 派生。eagle 经法语、普罗旺斯语相应形式接拉丁 aquila；更远与深色词的关系有分析分歧。'),
+ 'B3770':dict(words='oven ovens'.split(),label='oven：烤食物的封闭空间',note='与 bake 比较动作和器具，不是 bake 的派生。oven 承古英语 ofen，接更早日耳曼烹饪器具材料，远源有锅、挖空容器等分析。'),
+ 'B2628':dict(words='salmon'.split(),label='salmon：鲑鱼、三文鱼，到相近颜色',note='与 fish 比较鱼类，不是 fish 派生。salmon 经法语接拉丁 salmo、salmonem；与 salire 跳跃的联系有争议，不定为已经证实的跳跃者构词。'),
+ 'B2489':dict(words='banana bananas'.split(),label='banana：借入的水果名与发疯口语',note='与 fruit 比较食物，不是 fruit 派生。banana 经西班牙语或葡萄牙语，较远接西非词，有沃洛夫语来源分析；不是现代英语前后缀组合。'),
+}
+WALLET=[['中古英语 walet：旅行袋、背袋、大钱袋','远源未定，有古法语、日耳曼卷起材料分析'],['较大随身袋 → 装纸币的小扁夹','现代还借其装钱、凭证的功能命名数字钱包']]
+PEARL=[['古法语 perle、中古拉丁 perla → pearl','更远来源有不同分析，不能凭形状猜成定论'],['珍珠 → 珍贵、出色的事物或话语','pearls of wisdom 把好建议比成一颗颗珍珠']]
+TATTOO=[['波利尼西亚 tatau 等：皮肤上的刺点、标记','借入英语成 tattoo 文身名词、动词'],['tattoo + -s/-ed/-ing/-ist','图案、文身动作、动作过程与从业者；军中鼓声另源']]
+JUNGLE=[['梵语 jangala 荒地等 → 印地语 jangal','原有荒野、未耕作地等范围，不仅是热带密林'],['英语 jungle：浓密、纠缠的植被 → 难理清的局面','先读实际密林，再看电线、制度等比喻']]
+HURRICANE=[['加勒比阿拉瓦克语族相关风暴词 → 西班牙 huracán 等','经借词路径进入英语，早期拼写很多'],['英语 hurricane','飓风；也可比喻猛烈席卷的事物']]
+BOOTH=[['古丹麦等北欧语言：临时住所、小屋','接更早居住、存在的日耳曼材料'],['临时棚屋、摊位 → 围出的小工作空间、座席','现代有投票间、电话亭、展位、餐馆卡座']]
+EAGLE=[['拉丁 aquila 鹰 → 古法语 egle 等 → eagle','远源未定，深色解释不是无争议结论'],['鹰的鸟名 → 标志、比喻与高尔夫成绩名','高尔夫 eagle 是某洞低于标准杆两杆']]
+OVEN=[['古英语 ofen → oven','同族见日耳曼其他语言的炉、烤箱名称'],['受热的围合空间、炉 → 现代烤箱','加热食物的容器，不局限某一种燃料']]
+W('wallet','英 /ˈwɒlɪt/；美 /ˈwɑlɪt/','钱包；装纸币、卡片的小夹；数字钱包',
+ '从口袋拿出来，展开里面是纸币和卡片，这种扁扁的钱夹常叫 wallet。电子服务也借“把支付凭证放在一起”的作用叫 digital wallet。',
+ '中古英语 walet 较早指旅行袋、背袋、大钱袋，远源未定；有古法语、日耳曼卷起材料分析。后来收窄到随身装纸币的扁夹，现代再扩到数字用途。',WALLET,
+ 'lose your wallet、a leather wallet 都是实物；digital wallet 是功能比喻，未必有实体口袋。',
+ 'a leather wallet；a digital wallet；take money out of a wallet。',
+ 'wallet 常装纸币、卡片；purse 在英式可指小钱袋，在美式常指手提包。不能无视地区把两个词永远画成同一物品。',
+ ('I left my wallet in my other jacket.','我的钱包落在另一件外套里了。'),('The app stores the ticket in a digital wallet.','应用把票存进数字钱包里。'),sources=S('wallet','wallet'))
+W('wallets','英 /ˈwɒlɪts/；美 /ˈwɑlɪts/','钱包、钱夹、数字钱包〔复数〕',
+ '店里几只皮钱夹，是 wallets；不同设备、服务里使用的数字钱包，也能用这个复数。',
+ 'wallet + -s，/t/ 后读 /s/；词尾已有 -et 的字母不代表此处要再拆成一种现代小称规则。',WALLET+[['wallet + -s → wallets','多个实体或数字钱包']],
+ 'leather wallets 数实物，digital wallets 数相应工具、服务或账户空间；通常不是数里面的纸币张数。',
+ 'empty wallets；leather wallets；digital wallets。',
+ 'wallets 是装钱、凭证的工具，cash 是现金；几个钱包不保证里面有钱。',
+ ('The shop sells handmade leather wallets.','那家店卖手工皮钱包。'),('Several passengers checked their wallets after the announcement.','听到广播后，几位乘客检查了自己的钱包。'),sources=S('wallets','wallet'))
+W('pearl','英 /pɜːl/；美 /pɝl/','珍珠；珍贵、出色的东西或话语',
+ '一颗有柔和光泽的珍珠，是 a pearl。把一句很有价值的话比成小珍宝，也能说 a pearl of wisdom。',
+ '经古法语 perle、中古拉丁 perla 等借入，远源未定；有贝壳形状、梨形、小圆球等不同分析，不把其中一个猜测当成已确定来历。',PEARL,
+ 'pearl necklace 是珍珠项链；a pearl of wisdom 是一条智慧之言，依语气也可带调侃。',
+ 'a natural pearl；a pearl necklace；a pearl of wisdom。',
+ 'pearl 是珍珠，bead 是串珠用的小珠子，材料可能是玻璃、木头等；不能只因都是圆珠就当作同物。',
+ ('A single pearl hung from the necklace.','项链上垂着一颗珍珠。'),('She offered one final pearl of wisdom before leaving.','临走前，她又给了一条很有用的建议。'),sources=S('pearl','pearl'))
+W('pearls','英 /pɜːlz/；美 /pɝlz/','珍珠〔复数〕；一条条珍贵话语',
+ '珍珠串一颗颗排开，是 pearls；一条条好建议，也像把思想里的珍宝串起来。',
+ 'pearl + -s，/l/ 后读 /z/；普通名词复数，具体珍珠和珍贵话语的比喻都可使用。',PEARL+[['pearl + -s → pearls','多颗珍珠；或多条珍贵话语']],
+ 'a string of pearls 是一串珍珠，pearls of wisdom 是智慧之言；说话语气夸张时，后者也可讽刺自以为是的高见。',
+ 'a string of pearls；cultured pearls；pearls of wisdom。',
+ 'pearls 通常单数珍珠加复数，pearl jewellery 可把材料作修饰语；不是每遇到多件首饰就把修饰语也加 s。',
+ ('She wore a string of pearls over a plain dress.','她在素色裙子外戴了一串珍珠。'),('He shared a few pearls of wisdom with the new students.','他和新生们分享了几条宝贵经验。'),sources=S('pearls','pearl'))
+W('tattoo','/tæˈtuː/','文身图案；给……文身；军中鼓乐表演〔另源〕',
+ '皮肤上用色料留下持久图案，是 a tattoo；给人做这个图案，是 tattoo someone。看 military tattoo 时则要换画面，通常是军中鼓乐表演那一支。',
+ '文身义接波利尼西亚 tatau 等刺点、皮肤标记词。另一个 tattoo 经荷兰 taptoe 关酒桶龙头的晚间信号，发展到归营信号、鼓声、表演；两支不能混成一条。',TATTOO,
+ 'get a tattoo 是做文身，a tattoo on the arm 是手臂上的图案；重音在末尾 /tuː/。',
+ 'a small tattoo；get a tattoo；tattoo a design on the skin。',
+ '文身 tattoo 不从英文 tap 敲一下直接拼出来；有 taptoe 背景的是军中信号那支。先按皮肤、图案或军乐场景选义。',
+ ('She has a small tattoo on her ankle.','她脚踝上有个小文身。'),('The artist will tattoo the design on his shoulder.','文身师会把那个图案文在他的肩上。'),sources=S('tattoo','tattoo'))
+W('tattoos','/tæˈtuːz/','文身图案〔复数〕；给人文身〔第三人称单数〕',
+ '手臂上有几个图案，是 tattoos；那位师傅给客人文身，也可说 tattoos clients。前者数作品，后者说动作。',
+ 'tattoo + -s，读 /z/；末尾 oo 保留。文身义承波利尼西亚借词，不借军中 taptoe 那支解释皮肤图案。',TATTOO+[['tattoo + -s → tattoos','多个图案；或某人进行文身']],
+ 'tattoos on the arms 说明位置；tattoos a design on someone 说明给某人文什么图案。',
+ 'colourful tattoos；tattoos on his shoulders；tattoos clients。',
+ 'tattoos 指文在皮肤上的图案，drawings 范围更广；纸上的图案草稿是 drawing，不必然已成文身。',
+ ('His tattoos tell stories about his family.','他身上的文身讲述着家人的故事。'),('The artist tattoos original designs on clients.','那位文身师给客人文原创图案。'),sources=S('tattoos','tattoo'))
+W('tattooed','/tæˈtuːd/','文上图案了；有文身的',
+ '图案已经留在皮肤上，手臂呈现出有文身的状态，是 tattooed。它既能说发生过的动作，也能修饰身体部位。',
+ 'tattoo + 完整 -ed，读 /d/；基础末音是元音，不双写 o，也不增加音节。',TATTOO+[['tattoo + -ed → tattooed','过去文上图案；或带有文身的状态']],
+ 'tattooed arms 是有文身的手臂；had a date tattooed on her wrist 是请人把某个日期文在手腕上。',
+ 'tattooed skin；a tattooed arm；had it tattooed。',
+ 'tattooed 交代图案以文身方式进入皮肤，painted 可以只是画在表面；英语都能说装饰，但方式不同。',
+ ('His tattooed arms were visible below his sleeves.','袖子下面露出了他有文身的手臂。'),('She had the date tattooed on her wrist.','她请人把那个日期文在手腕上。'),sources=S('tattooed','tattoo'))
+W('tattooing','/tæˈtuːɪŋ/','正在文身；文身的过程、技艺',
+ '不是最终那一幅图，而是把图案逐步留在皮肤上的过程，叫 tattooing；讨论这种技艺本身也能用它。',
+ 'tattoo + -ing，保留 oo；/uː/ 与后面的 /ɪŋ/ 相接。过程形式也能作活动、技艺名词。',TATTOO+[['tattoo + -ing → tattooing','文身的动作过程或技艺']],
+ 'traditional tattooing 说传统技艺，tattooing a design 说正在做具体作品；这里不把技术史缩成现代英语新发明。',
+ 'the art of tattooing；traditional tattooing；tattooing a design。',
+ 'a tattoo 是一个图案，tattooing 通常说活动、过程；看图案和学技艺，所指的层次不同。',
+ ('The exhibition explores the history of tattooing.','展览探讨了文身技艺的历史。'),('The artist was tattooing a small bird on his arm.','文身师正在他的手臂上文一只小鸟。'),sources=S('tattooing','tattoo'))
+W('tattooist','/tæˈtuːɪst/','文身师',
+ 'tattoo 是图案或动作，tattooist 是以这门技艺为业的人。把作品与做作品的人配起来，就容易记住。',
+ 'tattoo + 完整 -ist，从事相应活动的人；英语在借入的 tattoo 上继续构词，不从荷兰军中信号派生职业。',TATTOO+[['tattoo + -ist → tattooist','从事文身的人']],
+ 'a professional tattooist 是职业文身师；日常也常说 tattoo artist，强调艺术设计与技艺。',
+ 'an experienced tattooist；work as a tattooist；a tattooist’s studio。',
+ 'tattooist 是人，tattooing 是技艺或过程，tattoo 是作品或动作；三个词各有明确角色。',
+ ('The tattooist showed her the finished design.','文身师给她看了完成的设计稿。'),('He works as a tattooist in a small studio.','他在一家小工作室当文身师。'),sources=S('tattooist','tattoo'))
+W('jungle','/ˈdʒʌŋɡəl/','密林、丛林；混乱难理的环境、局面',
+ '藤蔓、灌木、树木挤得密密麻麻，走进去不好找路，是 jungle 的常见画面。电线、规章也能多到像这样难理清。',
+ '经印地语 jangal 借入，上接梵语 jangala 荒地、树木稀少地等，更远来源未定。英语借入后常指浓密纠缠的植被，不是所有早期语言都从热带雨林这个意思起步。',JUNGLE,
+ 'dense jungle 说繁密植被；a jungle of wires 是乱成一团的电线；the law of the jungle 常比喻弱肉强食的规则。',
+ 'dense jungle；a concrete jungle；a jungle of regulations。',
+ 'forest 泛指林地，jungle 更让人想到繁茂、纠缠、难行；并非所有森林都是 jungle。',
+ ('The path disappeared into dense jungle.','小路消失在茂密丛林里。'),('Behind the desk was a jungle of cables.','桌子后面是一团乱麻似的电线。'),sources=S('jungle','jungle'))
+W('jungles','/ˈdʒʌŋɡəlz/','各片丛林、密林；难理清的复杂环境〔复数〕',
+ '几处相隔很远的密林，或不同地区大片的丛林环境，可以说 jungles。比喻时，也能把不同难理的环境分别数出来。',
+ 'jungle + -s，/l/ 后读 /z/；可数时数不同林区、环境，泛说植被也常用不可数 jungle。',JUNGLE+[['jungle + -s → jungles','不同地区、各片丛林或复杂环境']],
+ 'the jungles of 某地区 是常见描写，不表示每片都有清楚人工边界。',
+ 'remote jungles；tropical jungles；concrete jungles。',
+ 'jungles 数不同密林区域，trees 数一棵棵树；一千棵树不是一千片丛林。',
+ ('The documentary follows animals in tropical jungles.','纪录片追踪了热带丛林中的动物。'),('The novel contrasts quiet villages with concrete jungles.','小说把安静的村庄与钢筋水泥的城市作了对照。'),sources=S('jungles','jungle'))
+W('hurricane','英 /ˈhʌrɪkən/；美 /ˈhɝɪkeɪn/','飓风；猛烈席卷的力量〔比喻〕',
+ '不是普通刮大风，而是一场强烈、旋转的热带风暴。英语用 hurricane 命名特定地区这类达到飓风强度的风暴，日常也会借它写猛烈的气势。',
+ '经西班牙 huracán 等形式接加勒比阿拉瓦克语族风暴词。英语早期有很多不同写法，后来固定为 hurricane；现代整体识别这个借词。',HURRICANE,
+ 'a hurricane hit the coast 说飓风袭击海岸；a hurricane of activity 比喻一阵猛烈忙碌。具体气象名称还取决于地区和强度。',
+ 'a powerful hurricane；hurricane winds；in the path of a hurricane。',
+ 'hurricane 与 typhoon 都用于强烈热带气旋，命名区域不同；tornado 龙卷风是另一类现象，不把所有旋转的风都当同一个词。',
+ ('The hurricane damaged houses along the coast.','飓风损坏了沿海的房屋。'),('She swept into the room like a hurricane.','她像一阵飓风似的冲进了房间。'),sources=S('hurricane','hurricane')+['https://oceanservice.noaa.gov/facts/cyclone.html','https://www.aoml.noaa.gov/hrd/tcfaq/L1.html'])
+W('hurricanes','英 /ˈhʌrɪkənz/；美 /ˈhɝɪkeɪnz/','飓风〔复数〕',
+ '不同日期形成、分别经过的几场飓风，是 hurricanes。它数风暴事件，不数一次风暴里吹来的几阵风。',
+ 'hurricane + -s，读 /z/；末尾不发音 e 保留，英美基础词尾读音不同，复数仍按相同规则。',HURRICANE+[['hurricane + -s → hurricanes','多场达到相应强度、以此命名的风暴']],
+ 'several hurricanes、past hurricanes 适合比较不同风暴；a hurricane season 是一段季节，不是一次具体风暴。',
+ 'powerful hurricanes；track hurricanes；hurricanes over the Atlantic。',
+ 'hurricanes 是事件复数，hurricane winds 中 hurricane 是名词作修饰语，通常不因 winds 为复数就跟着加 s。',
+ ('The archive contains photographs of past hurricanes.','档案里有过去几场飓风的照片。'),('Satellites help scientists track hurricanes over the ocean.','卫星帮助科学家追踪海上的飓风。'),sources=S('hurricanes','hurricane'))
+W('booth','/buːð/ 或 /buːθ/','摊位、展位；小隔间、电话亭；餐馆卡座',
+ '圈出一小块专门办事的空间，就是 booth 的好画面：投票有小隔间，展会有展位，餐馆有两边高靠背围着桌子的卡座。',
+ '经古丹麦等北欧临时住所、小屋材料借入；接更早居住的词族。临时棚屋、摊位再扩成小型围合空间，不是现代 build 加一个词尾。',BOOTH,
+ 'a voting booth 是投票间；a phone booth 是电话亭；a restaurant booth 是卡座，未必是能关门的独立房间。',
+ 'an exhibition booth；a phone booth；sit in a booth。',
+ 'booth 常是小范围、半封闭或功能单一的空间，room 更一般；餐馆卡座不应一律译成包间。',
+ ('The company had a booth at the trade fair.','公司在展会上设了一个展位。'),('We sat in a booth by the window.','我们坐在窗边的卡座里。'),sources=S('booth','booth'))
+W('booths','/buːðz/ 或 /buːθs/','摊位、展位、小隔间、卡座〔复数〕',
+ '一排投票间、展厅里的几个摊位，或餐馆一排排卡座，都可以是 booths；共同点是一个个独立出来的小空间。',
+ 'booth + -s；有 /buːðz/ 和 /buːθs/ 等常见读法。词尾 th 与复数后缀需一起考虑，不一律照书面字母读成同一种音。',BOOTH+[['booth + -s → booths','多个小型功能空间；有清、浊两组常见读法']],
+ 'trade-show booths 数展位；voting booths 数投票小隔间；restaurant booths 数座位区域。',
+ 'exhibition booths；voting booths；window booths。',
+ 'booths 与 tables 在餐馆不必一一对应同种布局；booth 强调围合座席，table 只命名桌子。',
+ ('Visitors moved between the exhibition booths.','参观者在各个展位之间走动。'),('The restaurant has six booths along the wall.','餐馆靠墙设了六个卡座。'),sources=S('booths','booth'))
+W('deer','英 /dɪə/；美 /dɪr/','鹿〔通常单复数同形〕',
+ '今天说 a deer 是一只鹿，three deer 是三只鹿。这个词以前范围大得多，能泛指野兽；后来像把镜头缩小，固定到鹿这一类。',
+ '承古英语 deor 野兽、动物，接更早日耳曼同族词。专指鹿的收窄很早开始，后来成为现代主要意思；不接拉丁 animal 的呼吸词根。',
+ [['古英语 deor：野兽、动物','相关日耳曼语言中仍有广义动物同源词'],['英语 deer 逐渐收窄 → 鹿','现代通常单数 a deer，复数 many deer']],
+ 'a herd of deer 是一群鹿；deer 常单复数同形。与同音的 dear 亲爱的、贵的分别记拼写。',
+ 'a wild deer；three deer；a herd of deer。',
+ 'deer 泛指鹿这一类，stag 常指成年雄鹿，doe 常指雌鹿；deer 本身不限定公母。',
+ ('A deer stepped out of the trees.','一只鹿从树林里走了出来。'),('We saw three deer near the river.','我们在河边看见了三只鹿。'),sources=S('deer','deer'))
+W('eagle','/ˈiːɡəl/','鹰；鹰标志；老鹰球〔高尔夫：某洞低于标准杆两杆〕',
+ '张开大翅膀、钩形喙、眼力锐利的猛禽，是 eagle。它也常被拿来做力量、敏锐的象征；高尔夫又借鸟名表示很好的成绩。',
+ '经古法语 egle 等，接拉丁 aquila 鹰；更远与深色词的关系有分析分歧。后来从鸟名扩到标志、钱币名、高尔夫成绩名，先学常见分支。',EAGLE,
+ 'a golden eagle 是金雕；an eagle on a flag 是旗上的鹰形标志；score an eagle 在高尔夫里指某洞少用两杆。',
+ 'an eagle overhead；a golden eagle；score an eagle。',
+ '高尔夫 birdie 是低于标准杆一杆，eagle 是低于两杆；都借鸟名，但别把大鸟的身体大小当作运动计分规则。',
+ ('An eagle circled high above the valley.','一只鹰在山谷上空高高盘旋。'),('She scored an eagle on the final hole.','最后一洞她打出了低于标准杆两杆的老鹰球。'),sources=S('eagle','eagle'))
+W('eagles','/ˈiːɡəlz/','鹰、鹰形标志；老鹰球〔复数〕',
+ '天空里几只鹰，或记分卡上几次老鹰球，都能写 eagles。只看字面不能决定是在看鸟，还是看比赛成绩。',
+ 'eagle + -s，/l/ 后读 /z/；名词复数，也可作高尔夫动词第三人称单数，本组优先掌握鸟与成绩名词。',EAGLE+[['eagle + -s → eagles','多个鹰或多次老鹰球']],
+ 'bald eagles 是白头海雕；two eagles in one round 是一轮中两次某洞低于标准杆两杆。',
+ 'eagles in flight；golden eagles；two eagles in a round。',
+ 'eagles 数鸟或具体成绩；bird 是更广的鸟类称呼，不能把所有大型鸟都直接称作 eagle。',
+ ('Two eagles were perched on the cliff.','两只鹰栖在悬崖上。'),('The golfer made two eagles in one round.','那位高尔夫球手一轮打出了两次老鹰球。'),sources=S('eagles','eagle'))
+W('oven','/ˈʌvən/','烤箱；烤炉',
+ '把食物放进一个围起来的受热空间，让它从四周慢慢烤熟，就是 oven 的核心。它可以用电、煤气或柴火，不只是一种现代电器。',
+ '承古英语 ofen 炉、烤炉，接日耳曼同族器具词；更远有锅、挖空容器等分析。现代作为整体基础词学习，不按表面字母自由拆。',OVEN,
+ 'preheat the oven 是先预热；in the oven 是在烤箱里。一般烘烤炉腔的画面，与炉面上放平底锅分开。',
+ 'a gas oven；a wood-fired oven；preheat the oven。',
+ 'oven 通常说封闭炉腔，hob 英式常说炉面；stove 在美式常说带炉灶的整机，语境决定是不是同一器具。',
+ ('The bread is baking in the oven.','面包正在烤箱里烤。'),('Preheat the oven before preparing the dough.','准备面团前先把烤箱预热。'),sources=S('oven','oven'))
+W('ovens','/ˈʌvənz/','烤箱、烤炉〔复数〕',
+ '面包店几台大烤炉，或厨房里并排的两台烤箱，是 ovens；数的是设备、炉腔，不是里面烤的几盘食物。',
+ 'oven + -s，/n/ 后读 /z/；末尾已有 /ən/，复数只加 /z/，不新增音节。',OVEN+[['oven + -s → ovens','多个烤炉、烤箱']],
+ 'commercial ovens 常说商用烤箱，wood-fired ovens 说燃木烤炉；不同尺寸、燃料不改变基本名词。',
+ 'two ovens；commercial ovens；electric ovens。',
+ 'ovens 数器具，batches 数一批批烤的食物；一台炉可以连续烤很多批。',
+ ('The bakery has three large ovens.','面包店里有三台大烤炉。'),('Both ovens were in use during the dinner rush.','晚餐高峰时，两台烤箱都在使用。'),sources=S('ovens','oven'))
+W('salmon','/ˈsæmən/','鲑鱼、三文鱼；其鱼肉；鲑红色、粉橙色',
+ '河里游的是 salmon，餐盘里一块鱼肉也叫 salmon；把它鱼肉的粉橙色借给衣服、墙漆，又有颜色用法。通常字母 l 不发音。',
+ '经盎格鲁法语 samoun、古法语 salmun 接拉丁 salmo、salmonem。把它连到 salire 跳跃的解释有争议，也有凯尔特来源分析；英语后来恢复 l 拼写，常见读音没把 l 一起恢复。',
+ [['拉丁 salmo 等 → 法语 samoun、salmun → 英语 salmon','更远来历未定，跳跃者的解释有争议'],['鱼名 → 鱼肉；再借鱼肉颜色说粉橙色','现代通常 /ˈsæmən/；鱼类复数常仍是 salmon']],
+ 'smoked salmon 是烟熏三文鱼；fish for salmon 是钓鲑鱼；a salmon jacket 可说鲑红色外套。',
+ 'grilled salmon；smoked salmon；wild salmon；salmon pink。',
+ 'one salmon、several salmon 常单复数同形，食物 salmon 常不可数；a piece of salmon 是一块鱼肉，不是一定一整条鱼。',
+ ('We had grilled salmon for dinner.','晚饭我们吃了烤三文鱼。'),('Several salmon were swimming upstream.','几条鲑鱼正逆流往上游。'),sources=S('salmon','salmon'))
+W('banana','英 /bəˈnɑːnə/；美 /bəˈnænə/','香蕉；香蕉植株',
+ '剥开外皮，里面是软软的果肉，banana 就是日常这根香蕉。a banana 可以数一根；banana bread 又把香蕉当作食材来修饰面包。',
+ '经西班牙语或葡萄牙语传入，更远接西非水果名，可能是沃洛夫语 banana。整体是借词，不靠把英语音节拆成前缀、词根来猜。',
+ [['西非相关水果名 → 西班牙语、葡萄牙语 banana','具体远源有沃洛夫语等分析'],['英语 banana：水果；也称相应植株','复数 bananas 再有发疯、极度兴奋的口语义']],
+ 'a ripe banana 是熟香蕉，banana peel 是香蕉皮；banana split 是切开香蕉配冰淇淋等的甜点。',
+ 'peel a banana；a ripe banana；banana bread。',
+ 'banana 既能指果实也能指植株；英语中的 banana tree 是日常说法，描述植物学结构时应另外看具体定义。',
+ ('He peeled a banana and shared it with the child.','他剥了一根香蕉，和孩子分着吃。'),('I added a ripe banana to the smoothie.','我在果昔里加了一根熟香蕉。'),sources=S('banana','banana'))
+W('bananas','英 /bəˈnɑːnəz/；美 /bəˈnænəz/','香蕉〔复数〕；发疯的、极度兴奋的〔口语〕',
+ '篮子里几根是 bananas；观众突然兴奋得大喊大叫，went bananas 就不是变成了香蕉，而是情绪一下失去平静。',
+ 'banana + -s，读 /z/，普通复数。另有口语形容词 bananas 疯狂的；这条俚语的具体联想不定成香蕉皮滑倒之类的唯一故事。',
+ [['banana + -s → bananas','多根香蕉'],['口语 bananas：疯狂的、失去平静的','常见 go bananas、drive someone bananas，具体俚语桥不硬编']],
+ 'go bananas 可说气疯、急疯或兴奋发狂，情绪方向要看上下文；drive me bananas 是把我烦疯了。',
+ 'a bunch of bananas；go bananas；drive someone bananas。',
+ 'bananas 作疯狂义时很口语，常是夸张情绪或行为；go bananas 未必生气，也可以是高兴得失去平静。',
+ ('We bought a bunch of bananas at the market.','我们在市场买了一串香蕉。'),('The crowd went bananas when the singer appeared.','歌手一出现，观众就兴奋得疯狂欢呼。'),sources=S('bananas','banana'))
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zhz',ROOTS,WORDS)
+ extend_lessons()

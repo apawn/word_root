@@ -1,0 +1,92 @@
+[
+  {
+    "id": "B3515",
+    "meaning": "步行；步道；借步态命名的活动",
+    "core": "WALK：一步一步走，也可一步步带人理解",
+    "image": "基本动作是步行；复合名词有的说路面、有的说位置，还有的已经成了舞台、舞蹈或比喻名称。",
+    "intro": "walk 经中古英语承接旧英语移动、转动、踩踏等相关词的发展，现代不能从每个旧义硬编出唯一画面。标准读音的 l 不发音。",
+    "forms": "walk → walking、walker、walkable；sidewalk、walkway、crosswalk 与各类步道相邻；再看 catwalk、cakewalk、moonwalk、spacewalk；sleepwalk → sleepwalker。\n\n中古英语移动、踩踏词族发展到步行，常见标准读音中 l 不单独发音。\n\n本组与 walk 作步态、语气比较，不是现代 walk 的派生词。plod 来源未定，可能模拟沉重脚步；trudge 来源未定，较早已有费力步行义。不为没有证据的远源强造拆分。\n\n与 walk 作近义比较，不是现代 walk 的派生。traipse 来源未定，有法语跨越或日耳曼踏行材料等分析；rove 也有北欧或法语漫游材料等分析，并可能受 rover 影响。\n\n与 walk 作轻松口语比较，不是现代 walk 的派生。mosey 来源未定，有英国方言 mose about 或西班牙语 vamos 缩变等分析，不写成确定的西语借词。",
+    "branches": [
+      [
+        "步行、步行者与步行条件",
+        "walk · walking · walker · walkable"
+      ],
+      [
+        "路径、材料和位置",
+        "sidewalk · walkway · crosswalk · boardwalk · riverwalk · skywalk"
+      ],
+      [
+        "固定名称与比喻",
+        "catwalk · cakewalk · moonwalk · spacewalk"
+      ],
+      [
+        "睡眠与不自觉行动",
+        "sleepwalk · sleepwalker"
+      ],
+      [
+        "walk → walks → walked：步行与散步",
+        "walk · walks · walked"
+      ],
+      [
+        "plod、trudge：一步一步费劲地走",
+        "plod · plods · plodded · plodding · plodder · plodders · trudge · trudges · trudged · trudging"
+      ],
+      [
+        "traipse、rove：四处走，去来没有固定点",
+        "traipse · traipses · traipsed · traipsing · rove · roves · roved · roving"
+      ],
+      [
+        "mosey：慢悠悠走一趟",
+        "mosey · moseys · moseyed · moseying"
+      ]
+    ],
+    "contrasts": "walkable 不只近，也可说街区适合步行；boardwalk 材料是木板，riverwalk 位置在河边；cakewalk 的现代容易义另记。",
+    "practice": "The walkable town has a boardwalk along the river and a skywalk between two museums.\n\n这座适合步行的小城有沿河木栈道，两座博物馆之间还有高架步行通道。",
+    "words": [
+      "walk",
+      "walking",
+      "walker",
+      "walkable",
+      "sidewalk",
+      "walkway",
+      "crosswalk",
+      "boardwalk",
+      "riverwalk",
+      "skywalk",
+      "catwalk",
+      "cakewalk",
+      "moonwalk",
+      "spacewalk",
+      "sleepwalk",
+      "sleepwalker",
+      "walks",
+      "walked",
+      "plod",
+      "plods",
+      "plodded",
+      "plodding",
+      "plodder",
+      "plodders",
+      "trudge",
+      "trudges",
+      "trudged",
+      "trudging",
+      "traipse",
+      "traipses",
+      "traipsed",
+      "traipsing",
+      "rove",
+      "roves",
+      "roved",
+      "roving",
+      "mosey",
+      "moseys",
+      "moseyed",
+      "moseying"
+    ],
+    "exclude": {
+      "run-walk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "walkie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

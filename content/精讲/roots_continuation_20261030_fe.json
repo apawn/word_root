@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B4153",
+    "meaning": "人聚集或零件装成整体，派生要选对对象",
+    "core": "ASSEMBLY：议会聚人，装配聚零件，计算机另有专名",
+    "image": "assembly → assemblyman、assemblywoman；disassembly → reassembly 分拆与重装。",
+    "intro": "人物称号接议会一支，拆装接零件；计算机 disassembly 接汇编表示，不是拆成高级语言原稿。",
+    "forms": "assembler、assemblée 等 → assembly；assembly + man/woman；dis-/re- + assembly。",
+    "branches": [
+      [
+        "集会、装配基础与议会人物",
+        "assembly · assemblyman · assemblywoman"
+      ],
+      [
+        "拆开与再装",
+        "disassembly · reassembly"
+      ]
+    ],
+    "contrasts": "assemblyman/assembly worker 议员装配工；assemblywoman 复数 assemblywomen；reassembly/replacement 重装更换。",
+    "practice": "The manual explains disassembly and reassembly.\n\n手册解释了拆卸与重新装配。",
+    "words": [
+      "assembly",
+      "assemblyman",
+      "assemblywoman",
+      "disassembly",
+      "reassembly"
+    ],
+    "exclude": {
+      "self-assembly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3449",
+    "meaning": "一排、划船、争吵分来源与读音",
+    "core": "ROW：前两义同读，争吵换成 /raʊ/",
+    "image": "row → rower、rowboat 接划船；hedgerow 接排列；row 的争吵单独辨音。",
+    "intro": "rowed 划过的过去式读 /roʊd/，行列的 row 与划船词却不是一条现代派生。不要把同音等于同源。",
+    "forms": "ræw → row 一排；rōwan → row 划船 → rower、rowboat；较晚来源不定词 → row 争吵；hedge + row。\n\n排列名词 row /rəʊ/ 接古英语一行名称；划船 row /rəʊ/ 接古英语 rowan；争吵 row /raʊ/ 更远不明确。现代加 -s 后仍按两种主要元音分读，不能混成一条来源。",
+    "branches": [
+      [
+        "基础同形词与排列组合",
+        "row · hedgerow"
+      ],
+      [
+        "划船人物与器具",
+        "rower · rowboat"
+      ],
+      [
+        "rows 的三路：排列、划船、争吵",
+        "rows"
+      ]
+    ],
+    "contrasts": "row /roʊ/、/rəʊ/ 与争吵 /raʊ/；row/column 行列；hedgerow/fence 植物与广义围栏；rower/rowboat 人机与船。",
+    "practice": "The rower passed a row of houses by the river.\n\n划船者经过河边一排房屋。",
+    "words": [
+      "row",
+      "hedgerow",
+      "rower",
+      "rowboat",
+      "rows"
+    ],
+    "exclude": {
+      "rowed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2931",
+    "meaning": "钟铃发声、报信，也借给形状和领头信号",
+    "core": "BELL：先想响，再看像不像、做什么用",
+    "image": "bell → cowbell、bellman；dumbbell、kettlebell 看器械；bellwether 领头羊到趋势；bellflower、bluebell 看花形，doorbell 门口报信。",
+    "intro": "铃形名称不一定发声；bellwether 的 wether 是羊，不是天气；bluebell 的具体植物有地区差别。",
+    "forms": "belle 经古英语中古英语 → bell；cow/kettle/door/dumb + bell；bell + man/wether/flower；blue + bell。\n\n古英语 belle 的继承，现代复数、动词三单同形。\n\n用途名称可沿用到电子设备。",
+    "branches": [
+      [
+        "基础、放牧与报信人物",
+        "bell · cowbell · bellman · doorbell"
+      ],
+      [
+        "器械中的形状名",
+        "dumbbell · kettlebell"
+      ],
+      [
+        "领头比喻与花形",
+        "bellwether · bellflower · bluebell"
+      ],
+      [
+        "bell → bells：钟铃、铃声与相似形状",
+        "bell · bells"
+      ],
+      [
+        "doorbell → doorbells：门口通知用的铃",
+        "bell · doorbell · doorbells"
+      ]
+    ],
+    "contrasts": "ring a bell 耳熟非完整记起；kettlebell/dumbbell 器械形状；bellwether 非 weather；花名不一律同种。",
+    "practice": "The bellwether’s bell rang as the flock moved.\n\n领头羊戴着的铃在羊群移动时响了。",
+    "words": [
+      "bell",
+      "cowbell",
+      "bellman",
+      "doorbell",
+      "dumbbell",
+      "kettlebell",
+      "bellwether",
+      "bellflower",
+      "bluebell",
+      "bells",
+      "doorbells"
+    ],
+    "exclude": {
+      "bell-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bell-pull": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sheep-bell": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bell-gable": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "belling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3754",
+    "meaning": "边界上的可控制开口，及守门、开闸比喻",
+    "core": "GATE：关键是通不通过、放进多少",
+    "image": "gate → gatekeeper；tailgate 车尾门，gatefold 折页像门开，floodgate 控水到大量涌出。gateway、gatehouse 说通道和门房。",
+    "intro": "部分地名 -gate 来自道路词 gata；新闻丑闻 -gate 借 Watergate，不能都用门字解释全部历史。",
+    "forms": "geat、gatu → gate 门；gata → 部分街名 gate；gate + keeper/fold/way/house；tail/flood + gate。\n\n古英语门词，北欧道路词和现代丑闻后缀另有支线。",
+    "branches": [
+      [
+        "基础、把关者和通道建筑",
+        "gate · gatekeeper · gateway · gatehouse"
+      ],
+      [
+        "车尾、折页与水闸",
+        "tailgate · gatefold · floodgate"
+      ],
+      [
+        "gate → gates：入口、门与登机口",
+        "gate · gates"
+      ]
+    ],
+    "contrasts": "gate/door 边界开口与门板场所侧重；tailgate/follow 跟车过近与一般跟随；gatekeeper 评价看场景；-gate 多来源。",
+    "practice": "The gatekeeper opened the gate beside the gatehouse.\n\n守门人在门房旁打开了大门。",
+    "words": [
+      "gate",
+      "gatekeeper",
+      "gateway",
+      "gatehouse",
+      "tailgate",
+      "gatefold",
+      "floodgate",
+      "gates"
+    ],
+    "exclude": {
+      "gate-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-gate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "watergate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stargate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "highgate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

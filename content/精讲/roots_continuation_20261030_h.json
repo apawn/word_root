@@ -1,0 +1,120 @@
+[
+  {
+    "id": "B4070",
+    "meaning": "伸到、到达与可联系范围",
+    "core": "REACH：能伸到哪里，也能联系到谁、达到什么",
+    "image": "reach、reaching 接动作，reachable、unreachable 接可达性，overreach 接超出能力；outreach 已精讲共享。",
+    "intro": "古英语伸到词族延伸到通信、协议与影响范围。reachable 能达到，不表示已经达成。",
+    "forms": "reach → reaching、reachable → unreachable；over- + reach；out + reach → outreach。\n\nreach 继承古英语 rǣċan，实体可及与抽象目标、协议、联系等用法并行；reached 词尾 /tʃt/。\n\n古英语 raecan 的本族伸、到达词；三单在 ch 后加 iz，名词另指范围。",
+    "branches": [
+      [
+        "动作与可达性",
+        "reach · reaching · reachable · unreachable"
+      ],
+      [
+        "扩张与主动联络",
+        "overreach · outreach"
+      ],
+      [
+        "reach → reached：伸到、到达、达成",
+        "reach · reached"
+      ],
+      [
+        "reach → reaches：伸到、走到与作用所及",
+        "reach · reaches"
+      ]
+    ],
+    "contrasts": "reach 地点通常直接接宾语；reach for 尝试去拿；unreachable 不是不愿回应；overreach 可越权。",
+    "practice": "The team reached an agreement after reaching out to both sides.\n\n团队主动联系双方后，达成了协议。",
+    "words": [
+      "reach",
+      "reaching",
+      "reachable",
+      "unreachable",
+      "overreach",
+      "outreach",
+      "reached",
+      "reaches"
+    ],
+    "exclude": {
+      "ear-reach": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reacher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3883",
+    "meaning": "柔软、温和与相关固定名称",
+    "core": "SOFT：受力会让开，态度也不那么硬",
+    "image": "soft、softly、softness、soften 相邻，再读软件、球类、木材与人物称呼。",
+    "intro": "古英语柔软温和词族发展出多种比喻，softwood、softball 成固定类别后不能按字面断定实际硬度。",
+    "forms": "soft → softly、softness、soften、softie；soft + -ware、ball、wood；共享 softcover。\n\n古英语柔软、温和材料的继承，现代直接加完整 er、est。\n\nsoft 限定封面性质，和正文题材、难易不直接关联。",
+    "branches": [
+      [
+        "性质、方式、状态与变化",
+        "soft · softly · softness · soften"
+      ],
+      [
+        "固定类别与人物",
+        "software · softball · softwood · softie · softcover"
+      ],
+      [
+        "soft → softer → softest：更易变形、更柔和",
+        "soft · softer · softest"
+      ],
+      [
+        "softcover → softcovers：软封面书",
+        "softcover · softcovers"
+      ]
+    ],
+    "contrasts": "soften 的 t 常不发音；software 通常不可数；softwood 类别不是绝对硬度；softball 球不保证很软。",
+    "practice": "He spoke softly, and his expression softened.\n\n他轻声说话，表情也柔和了。",
+    "words": [
+      "soft",
+      "softly",
+      "softness",
+      "soften",
+      "software",
+      "softball",
+      "softwood",
+      "softie",
+      "softcover",
+      "softer",
+      "softest",
+      "softcovers"
+    ],
+    "exclude": {
+      "soft-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "soft-liner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "airsoft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "softcore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "softy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "softshell": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3308",
+    "meaning": "棍杖、员工集体与个体",
+    "core": "STAFF：同词多义，先看员工还是杆",
+    "image": "staff 基本词后接 staffer 一个工作人员，再用 flagstaff 回到杆的历史义。",
+    "intro": "古英语棍杖词与后来受德语影响的参谋人员义有历史联系；现代五线谱也保留相关线、杆形名称。",
+    "forms": "staff → staffer；flag + staff → flagstaff。",
+    "branches": [
+      [
+        "集体与个人",
+        "staff · staffer"
+      ],
+      [
+        "棍杖分支",
+        "flagstaff"
+      ]
+    ],
+    "contrasts": "一名员工 a staff member 或 a staffer；flagstaff 旗杆不按 staff 员工翻译；美英 staff 集体搭配有差别。",
+    "practice": "A staffer raised the flag on the flagstaff.\n\n一位工作人员把旗升上了旗杆。",
+    "words": [
+      "staff",
+      "staffer",
+      "flagstaff"
+    ],
+    "exclude": {}
+  }
+]

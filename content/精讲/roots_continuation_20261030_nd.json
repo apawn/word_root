@@ -1,0 +1,223 @@
+[
+  {
+    "id": "B4088",
+    "meaning": "猛击与砰响形成力量感，另分清牌戏与特定俚语",
+    "core": "SLAM：一下重重地撞上、关上，话语也能重击",
+    "image": "slam → slammer；Grand Slam 另看牌戏到体育的历史。",
+    "intro": "门、书、刹车与严厉评论共享猛烈动作形象。slammer 的监狱义单独记，牌戏全胜来历也不要强接门响。",
+    "forms": "slam 可能接北欧拟声词族；双写 m + -er → slammer；牌戏同形词来源另论。\n\n响声、重击动词接相应名词，可能联系北欧拟声材料；牌戏及体育 grand slam 的词源另有争议，不能都从关门推导。",
+    "branches": [
+      [
+        "猛烈动作、人物与俚语",
+        "slam · slammer"
+      ],
+      [
+        "slam 的猛关、重放与严厉批评",
+        "slam · slams · slammed · slamming"
+      ]
+    ],
+    "contrasts": "the slammer 常指监狱；Grand Slam 的具体含义随运动不同。",
+    "practice": "The prison door slammed behind him as he entered the slammer.\n\n他进牢时，身后牢门砰地关上。",
+    "words": [
+      "slam",
+      "slammer",
+      "slams",
+      "slammed",
+      "slamming"
+    ],
+    "exclude": {
+      "slam-clicker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4600",
+    "meaning": "机构、制度这一层面，副词与过程词各有用途",
+    "core": "INSTITUTIONAL：看规则、组织与长期惯例怎样起作用",
+    "image": "institutional → institutionally；institutionalize → institutionalization。",
+    "intro": "制度层面的性质、方式与把做法制度化的过程要分清。相关词也有把人安置在机构的专门义，具体按对象读。",
+    "forms": "institution + -al；-ly 方式、范围；-ize 使成为；-ization 过程。",
+    "branches": [
+      [
+        "机构性质与范围",
+        "institutional · institutionally"
+      ],
+      [
+        "制度化动作与过程",
+        "institutionalize · institutionalization"
+      ]
+    ],
+    "contrasts": "institutionally 不等于每个成员个人都如此；制度化与机构收容等义看语境。",
+    "practice": "The practice became institutionally supported through a long process of institutionalization.\n\n经过长期制度化过程，这项做法得到了机构支持。",
+    "words": [
+      "institutional",
+      "institutionally",
+      "institutionalize",
+      "institutionalization"
+    ],
+    "exclude": {
+      "multi-institutional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3657",
+    "meaning": "小睡与布绒不同源，尿布名再接布料词",
+    "core": "NAP：睡一小会儿是一支，布面绒毛是另一支",
+    "image": "nap → naptime；nappy 尿布另联系 napkin。kidnap 的 nap 接旧抓取词。",
+    "intro": "同一拼写会聚在一个页面，最需要划清来源。小睡时间好理解，布面方向要用手感记；绑架词则从孩子与抓走的旧构词看。",
+    "forms": "hnappian → nappen → nap 小睡；noppe → nap 绒毛；napkin → nappy 尿布。kidnap 的 nap 不属这两支。",
+    "branches": [
+      [
+        "小睡与同形词对照",
+        "nap · naptime · nappy"
+      ],
+      [
+        "不同来源的复合词对照",
+        "kidnap"
+      ]
+    ],
+    "contrasts": "kidnap 不是让孩子打盹；nappy 尿布也不由午睡直接派生。",
+    "practice": "After the nappy change, it was time for the baby’s nap.\n\n换好尿布后，到了婴儿小睡的时间。",
+    "words": [
+      "nap",
+      "naptime",
+      "nappy",
+      "kidnap"
+    ],
+    "exclude": {
+      "napper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3698",
+    "meaning": "开始动作的执行者、器具，前项再限定对象",
+    "core": "STARTER：让某件事开始，可能是人也可能是东西",
+    "image": "starter → firestarter。",
+    "intro": "starter 可说启动器、开场项目等；加 fire 后聚焦火的开始。前项限定了动作对象，词尾仍可命名人物或工具。",
+    "forms": "start + -er → starter；fire + starter → firestarter。\n\nstarter 是使事情开始的人或物，现代 -s。发令员、启动装置、首发队员、前菜与 for starters 的用法分别看场景。",
+    "branches": [
+      [
+        "启动角色与引火复合",
+        "starter · firestarter"
+      ],
+      [
+        "start + -er → starters",
+        "starters"
+      ]
+    ],
+    "contrasts": "starter 不只人物名；firestarter 的具体工具结构与用途看场景。",
+    "practice": "The guide explained the difference between an engine starter and a camping firestarter.\n\n讲解员解释了发动机启动器与露营引火用品的区别。",
+    "words": [
+      "starter",
+      "firestarter",
+      "starters"
+    ],
+    "exclude": {
+      "non-starter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-starter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3399",
+    "meaning": "小麦谷物名，连接磨粉原料与幼苗名称",
+    "core": "WHEAT：田里长谷物，磨出面粉，幼苗另有复合名",
+    "image": "wheat → wheatgrass。",
+    "intro": "小麦与白色词族的历史联系帮助记命名，但日常重点是植物、谷粒与原料。wheatgrass 指小麦幼苗草状阶段，不是另一种万能谷物。",
+    "forms": "hwaete → whete → wheat；grass 草形成 wheatgrass。",
+    "branches": [
+      [
+        "谷物及幼苗名称",
+        "wheat · wheatgrass"
+      ]
+    ],
+    "contrasts": "flour 不只小麦粉；wheat 名字的颜色背景不等于植物始终白色。",
+    "practice": "The wheatgrass grew from wheat seeds.\n\n小麦草由小麦种子长出。",
+    "words": [
+      "wheat",
+      "wheatgrass"
+    ],
+    "exclude": {
+      "cow-wheat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wheatland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4485",
+    "meaning": "流动不间断，扩展到衣物线条与语言表达",
+    "core": "FLOWING：像水一样连贯展开",
+    "image": "flowing 从 flow + -ing，按液体、外形或表达读。",
+    "intro": "水在流是动作；长袍线条自然下垂、文章读起来顺畅，则借连贯、不僵硬的运动感。",
+    "forms": "flow 流 → flowing，-ing 分词、性质形容词。",
+    "branches": [
+      [
+        "流动与连贯性质",
+        "flowing"
+      ]
+    ],
+    "contrasts": "flowing clothes 说柔顺线条、宽松垂落，不是衣服真的化成水。",
+    "practice": "Her flowing description followed the flowing river through the valley.\n\n她流畅的描写随着河水穿过山谷。",
+    "words": [
+      "flowing"
+    ],
+    "exclude": {
+      "free-flowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-flowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3327",
+    "meaning": "单位的人名背景，加词尾成为物理量名称",
+    "core": "VOLTAGE：量是电压，单位是伏特，名字来自 Volta",
+    "image": "volt → voltage；从人名、单位再到物理量。",
+    "intro": "用高低差帮助理解电势差，再把比喻放下，区分电压、电流和单位。词尾 -age 在这里名词化，不是年龄。",
+    "forms": "Volta 姓氏 → volt 单位；volt + -age → voltage。",
+    "branches": [
+      [
+        "物理量名称",
+        "voltage"
+      ]
+    ],
+    "contrasts": "电压 V 与电流 A 不同；volt 单位名与 voltage 物理量名分清。",
+    "practice": "The voltage is measured in volts.\n\n电压以伏特为单位测量。",
+    "words": [
+      "voltage"
+    ],
+    "exclude": {
+      "multi-voltage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dual-voltage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1936",
+    "meaning": "把性质、状态或相关活动命名的词尾形式",
+    "core": "-ANCY：从某种性质，抽出一种状态、能力或领域",
+    "image": "buoyant → buoyancy；expectant → expectancy；其他借词各有历史。",
+    "intro": "浮起的性质可以叫浮性，期待的状态可以叫期待；consultancy、accountancy 等又已发展成业务、行业名称，不能全套一个生硬中文后缀。",
+    "forms": "-ant 与 -ancy 常有对应；不少词整词经法语、拉丁语借入，具体形成逐词看。",
+    "branches": [
+      [
+        "期待、升势与浮性",
+        "expectancy · ascendancy · buoyancy"
+      ],
+      [
+        "业务、职业和保护领域",
+        "consultancy · accountancy · conservancy"
+      ],
+      [
+        "恶性性质",
+        "malignancy"
+      ]
+    ],
+    "contrasts": "词形对应不等于都在现代英语直接加后缀；buoyancy 的浮力与实际是否上浮分清。",
+    "practice": "The lesson compares expectancy, buoyancy and other nouns ending in -ancy.\n\n这节课比较期待、浮性等以 -ancy 结尾的名词。",
+    "words": [
+      "expectancy",
+      "ascendancy",
+      "buoyancy",
+      "consultancy",
+      "accountancy",
+      "conservancy",
+      "malignancy"
+    ],
+    "exclude": {}
+  }
+]

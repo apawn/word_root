@@ -1,0 +1,238 @@
+"""Smiles with attitude, broad grins and different audible laughs."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B2744':dict(words=['smile','smirk','smirks','smirked','smirking'],label='smile 与 smirk：微笑词族的远源比较及现代语气分化',note='smirk 承古英语 smearcian，本也表示微笑，后来常带得意、讥讽等不悦色彩；与 smile 远源比较，不当作现代 smile 加后缀。'),
+ 'A1760':dict(words=['smirk','smirks','smirked','smirking','grin','grins','grinned','grinning','snicker','snickers','snickered','snickering','snigger','sniggers','sniggered','sniggering','chortle','chortles','chortled','chortling','snort','snorts','snorted','snorting','cackle','cackles','cackled','cackling'],label='笑容、笑声、鼻息动词的常用过去式',note='基础词各有来源，现代 -ed 读法随前音变化；grinned 需双写 n，chortled、cackled 去末尾 e，snorted 的词尾另添 /ɪd/。'),
+ 'A2238':dict(words=['chuckle','chuckles','chuckled','chuckling','cackle','cackles','cackled','cackling','snort','snorts','snorted','snorting','chortle','chortles','chortled','chortling'],label='反复动作 -le 与笑声词；chortle 则看混成历史',note='cackle 的拟声材料可有反复动作后缀分析；chortle 是 Carroll 创词，常理解为 chuckle 与 snort 混成，不能一律当作现成词根加 -le。'),
+}
+SMIRK=[['古英语 smearcian → 中古英语 smirken → smirk','本来较宽泛表示微笑；与 smile 的远源有联系分析'],['现代 smirk','常缩窄为带得意、自满或讥讽的笑；名词沿动词发展']]
+W('smirk','英 /smɜːk/；美 /smɜːrk/','得意地笑、坏笑；自满或讥讽的笑',
+ '嘴角一扬，像在说“我早知道了”“你看吧”，这种让旁人觉得有点得意、欠友好的笑，常叫 smirk。',
+ '承古英语 smearcian 微笑，经中古英语 smirken 传承。后来在 smile 更广泛使用时，smirk 常偏向令人不快的笑，不是 smile 的现代规则变形。',SMIRK,
+ 'smirk at someone 是冲某人得意、讥讽地笑，wipe the smirk off someone’s face 是让对方得意不起来。',
+ 'a smug smirk 自鸣得意的笑；smirk to yourself 暗自得意地笑。',
+ 'smile 可以亲切、中性，smirk 常带说话者不赞许的判断；笑的大小不是唯一差别。',
+ ('He tried to hide a smirk when his prediction came true.','预测成真时，他想藏住那点得意的笑。'),('Do not smirk at her just because she made a mistake.','别因为她犯了个错就冲她坏笑。'),sources=['https://en.wiktionary.org/wiki/smirk#English','https://www.etymonline.com/word/smirk'])
+W('smirks','英 /smɜːks/；美 /smɜːrks/','得意、讥讽地笑〔第三人称单数〕；几次坏笑〔复数〕',
+ '说他每次觉得自己占了上风就嘴角一扬，用 smirks；几次那样的得意笑，也可数出来。',
+ 'smirk + -s，/k/ 后读 /s/。更早宽泛微笑义与今天常见的不赞许色彩，放在基础词历史里分清。',
+ SMIRK+[['smirk + -s → smirks','他、她得意地笑；几次得意笑']],
+ 'smirks at the mistake 是看见错误而讥讽地笑；knowing smirks 是几副自以为知道内情的笑。',
+ 'smirks to himself 暗自得意地笑；exchanged smirks 相互露出坏笑。',
+ 'smirks 是带态度的笑，grins 常只突出咧嘴露齿的大笑容；不应把 grins 总翻成坏笑。',
+ ('He smirks whenever he thinks he has won the argument.','他每次觉得自己辩赢了，就得意地笑。'),('The two boys exchanged smirks.','两个男孩相互露出坏笑。'),sources=['https://en.wiktionary.org/wiki/smirks#English','https://www.etymonline.com/word/smirk'])
+W('smirked','英 /smɜːkt/；美 /smɜːrkt/','得意、讥讽地笑了',
+ '刚才那一下笑里透着自满、讥讽，用 smirked。这个动词通常已带旁观者对笑容的评价。',
+ 'smirk + 完整 -ed，/k/ 后读 /t/；词末 rk 不双写 k，也不增加 /ɪd/ 音节。',
+ SMIRK+[['smirk + -ed → smirked','过去得意、讥讽地笑']],
+ 'smirked at him 是冲他得意地笑，smirked to herself 是暗自得意了一下。',
+ 'smirked knowingly 自以为知道内情地笑；smirked and walked away 坏笑后走开。',
+ 'smirked 常暗示得意或不友好；smiled 不自带这种固定负面色彩，描述同一表情时语气会不同。',
+ ('She smirked when she saw that he had forgotten the answer.','看见他忘了答案，她得意地笑了。'),('He smirked to himself and put the letter away.','他暗自得意地笑了一下，把信收起。'),sources=['https://en.wiktionary.org/wiki/smirked#English','https://www.etymonline.com/word/smirk'])
+W('smirking','英 /ˈsmɜːkɪŋ/；美 /ˈsmɜːrkɪŋ/','正在得意、讥讽地笑；带坏笑的',
+ '那点“我比你明白”的笑还挂在脸上，是 smirking；也可直接形容一张自满、坏笑的脸。',
+ 'smirk + 完整 -ing，直接相接；基础词的态度色彩保留。',
+ SMIRK+[['smirk + -ing → smirking','得意地笑的过程 → 带得意笑的']],
+ 'a smirking face 是带自满坏笑的脸；smirking at someone 是正朝某人坏笑。',
+ 'stood smirking 站着一脸得意；a smirking expression 自满的笑容。',
+ 'smirking 常有旁观者不赞许的语气；laughing 只说在笑，态度范围更宽。',
+ ('He stood in the doorway, smirking at us.','他站在门口，冲我们得意地笑。'),('She did not like his smirking expression.','她不喜欢他那副自满的笑容。'),sources=['https://en.wiktionary.org/wiki/smirking#English','https://www.etymonline.com/word/smirk'])
+GRIN=[['古英语 grennian → 中古英语相关形式 → grin','较早露齿，可因疼痛、愤怒等'],['英语 grin 的常见现代义；名词沿动词发展','咧嘴露齿的笑；常愉快，也可勉强、尴尬']]
+W('grin','/ɡrɪn/','咧嘴笑、露齿笑；大大的笑容',
+ '嘴角往两边拉开，牙齿也露出来，是 grin。它让人直接看见笑容的形状，通常不要求真的发出笑声。',
+ '承古英语 grennian 露齿，后来常说露齿的宽笑。不是 grind 磨去掉 d；也不把古代露齿用途直接等同今天所有笑容的心情。',GRIN,
+ 'grin at someone 是朝某人咧嘴笑，a broad grin 是大大的笑容；grin and bear it 是苦笑着忍下去。',
+ 'a cheerful grin 欢快的大笑容；a sheepish grin 不好意思的笑。',
+ 'grin 强调咧嘴的表情，laugh 更常是笑出声的动作；grin 可以安静，也可以与笑声一起发生。',
+ ('She greeted me with a broad grin.','她咧开嘴笑着迎接我。'),('He tried not to grin when he heard the good news.','听见好消息，他努力忍住不咧嘴笑。'),sources=['https://en.wiktionary.org/wiki/grin#English','https://www.etymonline.com/word/grin'])
+W('grins','/ɡrɪnz/','咧嘴笑〔第三人称单数〕；几个大笑容〔复数〕',
+ '说一个人一高兴就咧开嘴，用 grins；照片里好几个人都露齿笑，也可说他们的 grins。',
+ 'grin + -s，/n/ 后读 /z/；三单、名词复数都直接加 s，不像 grinned、grinning 那样双写 n。',
+ GRIN+[['grin + -s → grins','他、她咧嘴笑；几个笑容']],
+ 'grins at me 是朝我咧嘴笑，wide grins 是几个大大的笑容。',
+ 'grins with delight 乐得咧嘴；exchanged grins 相视咧嘴一笑。',
+ 'grins 关注笑容形状，smirks 常还带自满、讥讽的评价；露齿笑不必令人讨厌。',
+ ('He grins whenever he sees the puppy.','他每次看见小狗都咧嘴笑。'),('The children exchanged excited grins.','孩子们兴奋地相视咧嘴一笑。'),sources=['https://en.wiktionary.org/wiki/grins#English','https://www.etymonline.com/word/grin'])
+W('grinned','/ɡrɪnd/','咧嘴笑了；露出了大笑容',
+ '刚才嘴角一拉开、牙齿露出，用 grinned。它可以是高兴，也能从上下文看出尴尬、勉强。',
+ 'grin 双写末尾 n，加完整 -ed；单音节短元音后单辅音的常见规则，/n/ 后读 /d/。',
+ GRIN+[['grin + -ed → grinned〔双写 n〕','过去咧嘴笑']],
+ 'grinned at her 是朝她咧嘴笑，grinned sheepishly 是不好意思地咧嘴一笑。',
+ 'grinned broadly 咧嘴大笑；grinned with relief 松口气地咧嘴笑。',
+ 'grinned 读 /ɡrɪnd/；grind 磨读 /ɡraɪnd/，拼写只差一点，元音、来源与意思都不同。',
+ ('She grinned at me from the doorway.','她在门口朝我咧嘴笑。'),('He grinned sheepishly when he realised his mistake.','意识到自己的错误时，他不好意思地咧嘴笑了笑。'),sources=['https://en.wiktionary.org/wiki/grinned#English','https://www.etymonline.com/word/grin'])
+W('grinning','/ˈɡrɪnɪŋ/','正在咧嘴笑；咧嘴露齿笑的',
+ '大笑容还挂在脸上，就是 grinning。它能写正在做的表情，也能形容一个满脸笑意的人。',
+ 'grin 双写 n，加完整 -ing；原来的短元音 /ɪ/ 保留，双写不多发一个 n 音节。',
+ GRIN+[['grin + -ing → grinning〔双写 n〕','咧嘴笑的过程、表情']],
+ 'a grinning child 是咧嘴笑的孩子，grinning from ear to ear 是笑得合不拢嘴。',
+ 'stood grinning 站着咧嘴笑；grinning at the camera 对镜头露齿笑。',
+ 'grinning 说笑的表情，giggling 说一阵阵轻快笑声；一个偏视觉，一个偏听觉。',
+ ('He came back grinning from ear to ear.','他回来时笑得合不拢嘴。'),('The photograph shows two grinning children.','照片里是两个咧嘴笑的孩子。'),sources=['https://en.wiktionary.org/wiki/grinning#English','https://www.etymonline.com/word/grin'])
+SNICKER=[['英语 snicker 的较早记录','可能拟声，常与喘气、抽泣等相似声音词比较'],['snicker；变体 snigger；名词各沿动词发展','憋着、断续地笑；现代美式常用 snicker，英式常用 snigger']]
+W('snicker','英 /ˈsnɪkə/；美 /ˈsnɪkər/','窃笑、忍着笑；一声窃笑',
+ '想忍住，又从嘴里漏出一点“噗嗤”笑声，是 snicker。语境里常有偷偷觉得好笑、拿别人取笑的色彩。',
+ '可能来自拟声材料，较早动词后来发展名词。英式常见变体 snigger；现代笑声这一支不把末尾 -er 硬拆成指人后缀。',SNICKER,
+ 'snicker at someone 是偷笑、取笑某人；let out a snicker 是漏出一声窃笑。',
+ 'a suppressed snicker 压着的一声窃笑；snicker behind your hand 捂着嘴偷笑。',
+ 'chuckle 常可温和地低声笑，snicker 更容易让人想到憋笑、偷偷取笑；具体是否恶意还看场景。',
+ ('I heard a snicker from the back of the room.','我听见房间后面传来一声窃笑。'),('Do not snicker at someone who is trying to learn.','别偷笑取笑一个正在努力学习的人。'),sources=['https://en.wiktionary.org/wiki/snicker#English','https://www.etymonline.com/word/snicker'])
+W('snickers','英 /ˈsnɪkəz/；美 /ˈsnɪkərz/','窃笑〔第三人称单数〕；几声窃笑〔复数〕',
+ '说他听见一点小失误就憋着笑，用 snickers；后排一声声压不住的笑，也可数作 snickers。',
+ 'snicker + -s，词尾 /z/。笑声名词与动词同形，不能只因 -er 结尾就一律理解成做某事的人。',
+ SNICKER+[['snicker + -s → snickers','他、她窃笑；几声窃笑']],
+ 'snickers at the joke 是听了笑话窃笑；a few snickers 是几声压低的笑。',
+ 'snickers quietly 偷偷低笑；barely suppressed snickers 几声差点没憋住的笑。',
+ 'snickers 常有忍着、偷偷笑的听感；grins 是看得见的宽笑容，不要求发声。',
+ ('He snickers at the same joke every time.','他每次听那个笑话都会窃笑。'),('A few snickers came from the back row.','后排传来几声窃笑。'),sources=['https://en.wiktionary.org/wiki/snickers#English','https://www.etymonline.com/word/snicker'])
+W('snickered','英 /ˈsnɪkəd/；美 /ˈsnɪkərd/','窃笑了；忍着笑出了声',
+ '刚才想憋住，却偷偷笑出一点声音，叫 snickered。常在对话、课堂、朋友间的取笑场景出现。',
+ 'snicker + 完整 -ed，词尾 /d/；这里是整个笑声动词加过去式，不把 -er 先剥掉。',
+ SNICKER+[['snicker + -ed → snickered','过去窃笑、憋笑出声']],
+ 'snickered at him 是偷偷笑他；snickered behind her hand 是用手挡着嘴偷笑。',
+ 'snickered quietly 低声窃笑了；snickered at the mistake 因错误偷笑了。',
+ 'snickered 常隐含不该大笑、偷偷发笑的场景；laughed 可中性地说笑过，语气范围更大。',
+ ('The boys snickered at the unexpected noise.','男孩们听见意外的声音，偷偷笑了。'),('She snickered behind her hand.','她用手挡着嘴窃笑。'),sources=['https://en.wiktionary.org/wiki/snickered#English','https://www.etymonline.com/word/snicker'])
+W('snickering','英 /ˈsnɪkərɪŋ/；美 /ˈsnɪkərɪŋ/','正在窃笑；压着、偷偷的笑声',
+ '一阵阵笑正被压在嘴里，又忍不住漏出来，就是 snickering。句子里能写人正在笑，也能写听见这种笑声。',
+ 'snicker + 完整 -ing；英式在元音相接处发 /r/。由笑声动词形成过程、声音名称。',
+ SNICKER+[['snicker + -ing → snickering','窃笑的过程、声音']],
+ 'stop snickering 是别偷笑了；heard snickering 是听见窃笑声。',
+ 'snickering in the corner 在角落偷偷笑；snickering at a mistake 因错误窃笑。',
+ 'snickering 与 sniggering 是同一类笑的常见变体；不要硬分成一种一定善意、一种一定恶意。',
+ ('I could hear snickering behind me.','我能听见身后有人窃笑。'),('They were snickering at the back of the classroom.','他们正在教室后面偷偷笑。'),sources=['https://en.wiktionary.org/wiki/snickering#English','https://www.etymonline.com/word/snicker'])
+W('snigger','英 /ˈsnɪɡə/；美 /ˈsnɪɡər/','窃笑、忍着笑；一声带偷偷取笑意味的笑',
+ '把笑压低，像偷偷觉得某人、某事好笑，叫 snigger。英式语境常用这个形式。',
+ 'snicker 的变体，较早记录相连，可能带拟声性质；ck 与 gg 的变化不是英语规则过去式、复数变化。',SNICKER,
+ 'snigger at someone 是偷偷笑、取笑某人；a snigger 是一声压低的窃笑。',
+ 'a quiet snigger 一声轻轻的窃笑；snigger behind someone’s back 背地里偷笑取笑某人。',
+ 'snigger 与美式常见的 snicker 大量重合；区别主要是习惯形式，不是两种固定不同的情绪。',
+ ('A snigger came from the back of the room.','房间后面传来一声窃笑。'),('It is unkind to snigger at someone’s accent.','偷偷取笑别人的口音很不友善。'),sources=['https://en.wiktionary.org/wiki/snigger#English','https://www.etymonline.com/word/snigger'])
+W('sniggers','英 /ˈsnɪɡəz/；美 /ˈsnɪɡərz/','窃笑〔第三人称单数〕；几声窃笑〔复数〕',
+ '一个人听见什么就低低偷笑，用 sniggers；人群里漏出的几声憋笑，也是 sniggers。',
+ 'snigger + -s，词尾 /z/。基础词已有 gg，不因三单再改变这个辅音。',
+ SNICKER+[['snigger + -s → sniggers','他、她窃笑；几声窃笑']],
+ 'sniggers at the remark 是听了那句话偷笑；muffled sniggers 是几声闷住的窃笑。',
+ 'suppressed sniggers 压着的几声笑；sniggers to himself 独自偷笑。',
+ 'sniggers 的主体可是在偷笑的人，也可作名词指数声窃笑；a few 后面是名词，he 后面可直接是动词。',
+ ('He sniggers whenever that scene appears.','每次出现那个场景，他都会偷笑。'),('Her serious expression silenced the sniggers.','她严肃的表情让那些窃笑声停了下来。'),sources=['https://en.wiktionary.org/wiki/sniggers#English','https://www.etymonline.com/word/snigger'])
+W('sniggered','英 /ˈsnɪɡəd/；美 /ˈsnɪɡərd/','窃笑了、偷偷笑出了声',
+ '刚才一声压低的笑露出来，用 sniggered。人可能是难以忍住，也可能是在偷偷取笑。',
+ 'snigger + 完整 -ed，词尾 /d/；原词 gg 保留，过去词尾不增加 /ɪd/ 音节。',
+ SNICKER+[['snigger + -ed → sniggered','过去窃笑']],
+ 'sniggered at the joke 是听笑话窃笑；sniggered behind her hand 是遮嘴偷笑。',
+ 'sniggered quietly 低低窃笑了；sniggered at his mistake 偷笑他的失误。',
+ 'sniggered 与 snickered 意义相近；不要按字母 g、k 的差别硬编不同的心理过程。',
+ ('The children sniggered when the hat fell off.','帽子掉下来时，孩子们窃笑了。'),('He sniggered at the remark and then looked away.','听见那句话，他偷偷笑了一下，随后把目光移开。'),sources=['https://en.wiktionary.org/wiki/sniggered#English','https://www.etymonline.com/word/snigger'])
+W('sniggering','英 /ˈsnɪɡərɪŋ/；美 /ˈsnɪɡərɪŋ/','正在窃笑；压低、忍着的笑声',
+ '笑声正从一群人嘴里偷偷漏出来，是 sniggering。常写出旁边的人听得见、又觉得不够礼貌的那种笑。',
+ 'snigger + 完整 -ing；英式接元音时发 /r/，不先去掉 -er 再变化。',
+ SNICKER+[['snigger + -ing → sniggering','窃笑的过程、声音']],
+ 'could hear sniggering 是能听见窃笑声；stop sniggering 是别再偷笑了。',
+ 'sniggering at a joke 听笑话偷偷笑；sniggering in the corridor 在走廊里窃笑。',
+ 'sniggering 常有压着、偷偷发笑的色彩；giggling 可以只是轻快地咯咯笑，不一定在取笑别人。',
+ ('She heard sniggering in the corridor.','她听见走廊里有人窃笑。'),('The two boys were sniggering at a private joke.','两个男孩正为只有他们懂的笑话偷偷笑。'),sources=['https://en.wiktionary.org/wiki/sniggering#English','https://www.etymonline.com/word/snigger'])
+CHORTLE=[['Carroll 创词 chortle，见 1871 年《镜中奇遇》','通常理解为 chuckle 与 snort 的混成，组合解释带保留'],['现代 chortle 动词；名词沿动词发展','带愉快、满足的咯咯笑，像低笑中夹一点鼻息']]
+W('chortle','英 /ˈtʃɔːtəl/；美 /ˈtʃɔːrtəl/','开心地咯咯笑；一阵满足的笑',
+ '看到有趣的事，开心得在喉间咯咯笑出来，里面像夹一点鼻息，叫 chortle。',
+ 'Carroll 创出的词，见于《镜中奇遇》，常被理解为 chuckle 低笑与 snort 鼻息的混成；不是古典词根加某个普通后缀的规则造词。',CHORTLE,
+ 'chortle with delight 是高兴地咯咯笑，give a chortle 是发出一阵开心的笑。',
+ 'a delighted chortle 一声开心的咯咯笑；chortle to yourself 独自乐得低笑。',
+ 'snicker 常偏憋着、偷偷笑，chortle 常偏开心、满足地笑出声；具体是否取笑仍看场景。',
+ ('He gave a chortle of delight when he opened the box.','打开盒子时，他高兴得咯咯笑了。'),('She began to chortle at the story.','她听着故事，开始开心地咯咯笑。'),sources=['https://en.wiktionary.org/wiki/chortle#English','https://www.etymonline.com/word/chortle'])
+W('chortles','英 /ˈtʃɔːtəlz/；美 /ˈtʃɔːrtəlz/','开心地咯咯笑〔第三人称单数〕；几声开心的笑〔复数〕',
+ '说一个人听到那段趣事就开心地低笑，用 chortles；接连几声满足的笑，也能这样数。',
+ 'chortle + -s，保留 e，/l/ 后读 /z/。基础创词先固定下来，再像普通动词、名词一样变化。',
+ CHORTLE+[['chortle + -s → chortles','他、她开心地笑；几阵开心笑声']],
+ 'chortles with delight 是乐得咯咯笑；chortles of amusement 是几声觉得好玩的笑。',
+ 'chortles at the joke 听笑话开心地笑；quiet chortles 低低的开心笑声。',
+ 'chortles 既可说动作又可数声音；a broad grin 则突出脸上的宽笑容，未必听得见笑声。',
+ ('He chortles whenever he tells that story.','他每次讲那个故事都会开心地咯咯笑。'),('Her quiet chortles interrupted the silence.','她低低的开心笑声打破了寂静。'),sources=['https://en.wiktionary.org/wiki/chortles#English','https://www.etymonline.com/word/chortle'])
+W('chortled','英 /ˈtʃɔːtəld/；美 /ˈtʃɔːrtəld/','开心地咯咯笑了',
+ '刚才开心地低笑了一阵，用 chortled。常让读者听见一种带满足、喜悦的笑。',
+ 'chortle 去 e，加完整 -ed，/l/ 后读 /d/。混成创词形成后，过去式采用规则变化。',
+ CHORTLE+[['chortle + -ed → chortled〔去 e〕','过去开心地咯咯笑']],
+ 'chortled with delight 是乐得咯咯笑了，chortled at the idea 是觉得那想法有趣而笑。',
+ 'chortled happily 开开心心地咯咯笑；chortled to herself 暗自乐得低笑了。',
+ 'chortled 常偏喜悦、满足，cackled 更突出尖、断续的咯咯声；声音与语气侧重点不同。',
+ ('She chortled with delight at the surprise.','看见那份惊喜，她开心得咯咯笑。'),('He chortled to himself as he read the letter.','他读着信，独自乐得低笑。'),sources=['https://en.wiktionary.org/wiki/chortled#English','https://www.etymonline.com/word/chortle'])
+W('chortling','英 /ˈtʃɔːtlɪŋ/；美 /ˈtʃɔːrtlɪŋ/','正在开心地咯咯笑；开心低笑的声音',
+ '那种满足、觉得好玩的笑正往外冒，是 chortling。也可说笑声把一段安静的场景打断。',
+ 'chortle 去末尾 e，加完整 -ing；词干来自创词的整词，不把 -tle 单独当作所有同形结尾共有的意思。',
+ CHORTLE+[['chortle + -ing → chortling〔去 e〕','开心咯咯笑的过程、声音']],
+ 'chortling with delight 是高兴地咯咯笑；heard chortling 是听见有人开心低笑。',
+ 'chortling over a joke 因笑话而开心低笑；still chortling 还在乐得笑。',
+ 'chortling 常是愉快而有声的笑，smirking 常是带得意、讥讽的表情；一个偏声音，一个偏态度。',
+ ('He was chortling over a joke in the newspaper.','他正为报纸上的笑话咯咯笑。'),('We heard chortling from the next room.','我们听见隔壁有人开心地咯咯笑。'),sources=['https://en.wiktionary.org/wiki/chortling#English','https://www.etymonline.com/word/chortle'])
+SNORT=[['中古英语 fnorten → snorten → snort','从鼻子粗重出气、发声；常与 snore 等拟声材料联系'],['现代 snort 动词、名词','动物喷鼻息；人哼声表达不屑，也可笑得鼻子出声']]
+W('snort','英 /snɔːt/；美 /snɔːrt/','喷鼻息、哼出声；一声鼻息；用鼻子吸入',
+ '气突然从鼻子重重出来，带一声“哼”，叫 snort。马可以喷鼻息，人可以因不屑、觉得好笑而哼出声。',
+ '经中古英语 fnorten、snorten，早期 fn- 后来变成 sn-；更远常与 snore 等拟声词联系，不拆成现代 sn 加 ort。',SNORT,
+ 'snort with laughter 是笑得鼻子出声，a snort of disbelief 是难以置信地哼一声。另有通过鼻子吸入某种物质的动词义，要看对象。',
+ 'a contemptuous snort 不屑的一声哼；snort in amusement 觉得好笑而哼出声。',
+ 'snort 常是短促、明显的鼻息，snore 常说睡觉时的鼾声；鼻子发声的场景不相同。',
+ ('The horse gave a loud snort.','马响亮地喷了一声鼻息。'),('She tried not to snort with laughter.','她努力忍住，不让自己笑得鼻子出声。'),sources=['https://en.wiktionary.org/wiki/snort#English','https://www.etymonline.com/word/snort'])
+W('snorts','英 /snɔːts/；美 /snɔːrts/','喷鼻息、哼声〔第三人称单数〕；几声鼻息、哼声〔复数〕',
+ '说马不安时会喷鼻息，用 snorts；人群里几声不屑的哼声，也可以数成 snorts。',
+ 'snort + -s，/t/ 后读 /s/；名词复数和动词三单直接相接，英美 r 的读法随口音不同。',
+ SNORT+[['snort + -s → snorts','它喷鼻息；几声鼻息、哼声']],
+ 'snorts with laughter 是笑得鼻子出声，snorts of disbelief 是几声难以置信的哼声。',
+ 'snorts loudly 响亮地喷鼻息；angry snorts 愤怒的哼声。',
+ 'snorts 是通过鼻子形成的粗重声，sighs 常是长长呼气；短促与拖长的听感有别。',
+ ('The horse snorts when it is startled.','马受惊时会喷鼻息。'),('His suggestion was met with snorts of disbelief.','他的建议换来几声难以置信的哼声。'),sources=['https://en.wiktionary.org/wiki/snorts#English','https://www.etymonline.com/word/snort'])
+W('snorted','英 /ˈsnɔːtɪd/；美 /ˈsnɔːrtɪd/','喷出鼻息了；哼了一声；笑得鼻子出声了',
+ '听见一个荒唐说法，鼻子里哼出一声，可以写 snorted。也能直接写马喷鼻息。',
+ 'snort + 完整 -ed，/t/ 后读 /ɪd/；过去式多出的音节是词尾，不属于原词 snort。',
+ SNORT+[['snort + -ed → snorted','过去喷鼻息、哼声']],
+ 'snorted in disbelief 是难以置信地哼一声；snorted with laughter 是笑得鼻子出声。',
+ 'snorted at the suggestion 对建议不屑地哼了声；snorted loudly 响亮地喷鼻息了。',
+ 'snorted 可以表达不屑，也可以是没憋住的笑；要从语境判断，不直接固定成某一种态度。',
+ ('He snorted in disbelief at the price.','看见价格，他难以置信地哼了一声。'),('She snorted with laughter and covered her mouth.','她笑得鼻子出了声，连忙捂住嘴。'),sources=['https://en.wiktionary.org/wiki/snorted#English','https://www.etymonline.com/word/snort'])
+W('snorting','英 /ˈsnɔːtɪŋ/；美 /ˈsnɔːrtɪŋ/','正在喷鼻息、哼声；鼻息的声音',
+ '一声声粗重鼻息正在发出，是 snorting；也可以写一个人笑得不时从鼻子喷出声音。',
+ 'snort + 完整 -ing，直接接词尾。声音动词形成进行、活动形式，也可用来修饰声音。',
+ SNORT+[['snort + -ing → snorting','喷鼻息、哼声的过程']],
+ 'snorting with laughter 是笑得鼻子出声；the snorting of horses 是马喷鼻息的声音。',
+ 'snorting in disbelief 难以置信地哼声；a snorting laugh 夹着鼻息的笑。',
+ 'snorting 关注粗重鼻息，snickering 关注压着的窃笑；有时笑中会夹鼻息，但两个词不总是同义。',
+ ('The horses were snorting in the stable.','马厩里的马正喷着鼻息。'),('He was snorting with laughter at the story.','他听着故事，笑得鼻子不断出声。'),sources=['https://en.wiktionary.org/wiki/snorting#English','https://www.etymonline.com/word/snort'])
+CACKLE=[['中古英语 caclen、cakelen 等拟声材料 → cackle','像母鸡的断续咯咯声；有旧反复动作 -le 的分析'],['英语 cackle 动词、名词','禽鸟咯咯叫 → 人发出相似尖、断续的笑声']]
+W('cackle','/ˈkækəl/','咯咯叫；尖声咯咯笑；一阵咯咯声',
+ '母鸡那种一截一截、尖亮的咯咯声，是 cackle 的具体画面；人的笑有类似声音，也可以这样写。',
+ '经中古英语 caclen、cakelen 等拟声材料，可联系旧反复动作 -le。声音材料和反复动作构件早已结合，现代通常整词记。',CACKLE,
+ 'hens cackle 是母鸡咯咯叫，give a cackle 是发出一阵尖、断续的笑声；有时也写嘈杂闲聊。',
+ 'a loud cackle 一阵响亮的咯咯笑；cackle with laughter 咯咯大笑。',
+ 'giggle 常是轻快、细碎地笑，cackle 更容易让人想到尖、断续、较响的咯咯声；不必固定是哪类人才能这样笑。',
+ ('A loud cackle came from the kitchen.','厨房里传来一阵响亮的咯咯笑。'),('The hens began to cackle in the yard.','院子里的母鸡开始咯咯叫。'),sources=['https://en.wiktionary.org/wiki/cackle#English','https://www.etymonline.com/word/cackle'])
+W('cackles','/ˈkækəlz/','咯咯叫、尖声笑〔第三人称单数〕；阵阵咯咯声〔复数〕',
+ '说一只母鸡正在发出那种断续叫声，可以说 cackles；几阵尖亮笑声也能数出来。',
+ 'cackle + -s，保留末尾 e，/l/ 后读 /z/。三单、名词复数同形。',
+ CACKLE+[['cackle + -s → cackles','它咯咯叫；几阵咯咯声']],
+ 'cackles loudly 是响亮地咯咯叫、笑；cackles of laughter 是阵阵尖亮的笑声。',
+ 'cackles at the joke 听笑话咯咯笑；sharp cackles 尖亮的几声咯咯叫。',
+ 'cackles 与 giggles 都可指笑声，前者常更尖、响，后者常细碎、轻快。',
+ ('The hen cackles whenever someone enters the yard.','有人进院子时，那只母鸡就咯咯叫。'),('Cackles of laughter rose from the group.','人群里响起一阵阵咯咯笑。'),sources=['https://en.wiktionary.org/wiki/cackles#English','https://www.etymonline.com/word/cackle'])
+W('cackled','/ˈkækəld/','咯咯叫了；尖声咯咯笑了',
+ '过去响起一阵一截一截的咯咯声，叫 cackled。写人时，常把笑声描得很鲜明。',
+ 'cackle 去末尾 e，加完整 -ed，/l/ 后读 /d/；不是给整个 le 再加一个独立音节 /ɪd/。',
+ CACKLE+[['cackle + -ed → cackled〔去 e〕','过去咯咯叫、尖声笑']],
+ 'cackled at the joke 是听笑话咯咯笑；hens cackled 是母鸡咯咯叫了。',
+ 'cackled loudly 大声咯咯笑了；cackled with delight 高兴得咯咯笑了。',
+ 'cackled 主要写笑声的尖亮、断续，不自动等于嘲讽；善意、恶意要看具体情境。',
+ ('He cackled at the absurd ending of the story.','故事结尾荒唐得让他咯咯大笑。'),('The hens cackled behind the fence.','篱笆后面，母鸡们咯咯叫了起来。'),sources=['https://en.wiktionary.org/wiki/cackled#English','https://www.etymonline.com/word/cackle'])
+W('cackling','/ˈkæklɪŋ/','正在咯咯叫、尖声笑；阵阵咯咯声',
+ '一阵阵尖亮笑声、禽鸟叫声正在继续，叫 cackling。它很适合让文字里的场景有声音。',
+ 'cackle 去 e，加完整 -ing；旧反复动作材料在基础词里，现代 -ing 再写进行、活动。',
+ CACKLE+[['cackle + -ing → cackling〔去 e〕','咯咯叫、笑的过程、声音']],
+ 'cackling hens 是咯咯叫的母鸡；heard cackling 是听见咯咯声，需靠场景判断人还是鸟。',
+ 'cackling with laughter 咯咯大笑；the cackling of hens 母鸡的咯咯声。',
+ 'cackling 常是有一截一截节奏的尖声，hissing 是较连续的气声；声音质地帮助区别。',
+ ('We heard the cackling of hens beyond the wall.','我们听见墙外母鸡的咯咯声。'),('They were still cackling over the joke when I returned.','我回来时，他们还在为那个笑话咯咯笑。'),sources=['https://en.wiktionary.org/wiki/cackling#English','https://www.etymonline.com/word/cackle'])
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zeu',ROOTS,WORDS)
+ extend_lessons()

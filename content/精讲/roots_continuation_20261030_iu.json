@@ -1,0 +1,80 @@
+[
+  {
+    "id": "B3878",
+    "meaning": "强力打碎、突出效果与固定口语",
+    "core": "SMASH：效果强，既可破坏，也可大获成功",
+    "image": "smash → smashed 结果、醉酒俚语；smashing 过程、赞扬；smasher 人或物。",
+    "intro": "不把三个词尾当作同一件事的机械翻译。a smashed window 是碎窗，a smashing show 是出色演出，a smasher 又可能是人物或工具。",
+    "forms": "smash 来源未定、可能拟声；接 -ed、-ing、-er。\n\nsmashes 的 -es 读 /ɪz/；动词三单、名词复数同形，可以写打碎、体育扣杀或大获成功的作品。",
+    "branches": [
+      [
+        "基础动作与结果",
+        "smash · smashed"
+      ],
+      [
+        "赞扬、过程与执行者",
+        "smashing · smasher"
+      ],
+      [
+        "smash 的碎裂、扣杀与巨大成功",
+        "smash · smashes · smashed · smashing"
+      ]
+    ],
+    "contrasts": "smashed 还可说大醉；smashing 常可夸极好；拟声可能性不等于明确的拼词公式。",
+    "practice": "The smashing performance became a smash hit.\n\n那场出色的演出大获成功。",
+    "words": [
+      "smash",
+      "smashed",
+      "smashing",
+      "smasher",
+      "smashes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3386",
+    "meaning": "疲倦动词、轮胎名词与法语退出动词分三条线",
+    "core": "TIRE 累；TIRE 轮胎；RETIRE 退出：别按字母强串",
+    "image": "tire → tired / tiring / tiresome / tireless；retire → retired / retiring / retirement / retiree。",
+    "intro": "疲倦、退休看似日常相关，英语形成却分源。退休是退出，不是再累一次；轮胎又可能从覆盖、装备一线来。",
+    "forms": "tēorian 等 → tire 疲倦；衣饰、装备 tire → 轮胎。法语 re- + tirer → retirer → retire，再有各类派生或平行借入。\n\n疲倦词本族传承，轮胎名可能缩自 attire 装备；英式轮胎常拼 tyre。\n\n与 tire 比较疲劳，并非 tire 派生。名动词借法语 fatigue、fatiguer 接拉丁 fatigare 使疲惫；较远常联系驱使到崩溃的材料。fatigues 军中杂务又借指工作服、作训服。",
+    "branches": [
+      [
+        "疲倦、造成疲劳与不懈努力",
+        "tire · tired · tiring · tiresome · tireless"
+      ],
+      [
+        "退出、状态、性格、生活与人物",
+        "retire · retired · retiring · retirement · retiree"
+      ],
+      [
+        "tire → tires：疲倦动作与轮胎名两支",
+        "tire · tires"
+      ],
+      [
+        "fatigue：疲惫、使疲惫；军中杂务到工作服",
+        "fatigue · fatigues · fatigued · fatiguing"
+      ]
+    ],
+    "contrasts": "tired 感到累，tiring 常使人累；tiresome 常嫌烦；retiring 还能指内敛；retire 不从疲倦 tire 加 re- 来。",
+    "practice": "The retired teacher felt tired after a tiring but rewarding day.\n\n那位退休教师度过了累人却充实的一天后，感到有些疲倦。",
+    "words": [
+      "tire",
+      "tired",
+      "tiring",
+      "tiresome",
+      "tireless",
+      "retire",
+      "retired",
+      "retiring",
+      "retirement",
+      "retiree",
+      "tires",
+      "fatigue",
+      "fatigues",
+      "fatigued",
+      "fatiguing"
+    ],
+    "exclude": {}
+  }
+]

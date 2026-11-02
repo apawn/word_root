@@ -1,0 +1,53 @@
+[
+  {
+    "id": "B2590",
+    "meaning": "投出、铸造成形及熟悉的延伸",
+    "core": "CAST：先看投向哪里，再看词义走到了哪个场景",
+    "image": "cast → casting；广播像撒种，预测用旧义盘算；排斥、阴天、沮丧各有具体画面。",
+    "intro": "cast 从古诺尔斯语投、扔进入英语，后来形成投射、铸造、安排角色等多支。每个复合词连接的是其中某个旧义，不强套同一个扔东西动作。",
+    "forms": "cast → casting；broad + cast → broadcast → broadcaster；fore- + cast → forecast；out/over/re-/down + cast；cast + -er → caster。",
+    "branches": [
+      [
+        "基本动作与成形",
+        "cast · casting · caster"
+      ],
+      [
+        "广播与预测",
+        "broadcast · broadcaster · forecast"
+      ],
+      [
+        "位置、状态与重做",
+        "outcast · overcast · downcast · recast"
+      ],
+      [
+        "已有选角与预制词",
+        "precast · typecast · miscast"
+      ]
+    ],
+    "contrasts": "forecast 的 cast 是旧盘算义；overcast 不一定下雨；outcast 被排斥强于普通 outsider；caster 脚轮联系转动。",
+    "practice": "The broadcaster changed the forecast during the live broadcast.\n\n广播电视机构在直播中更新了预报。",
+    "words": [
+      "cast",
+      "casting",
+      "caster",
+      "broadcast",
+      "broadcaster",
+      "forecast",
+      "outcast",
+      "overcast",
+      "downcast",
+      "recast",
+      "precast",
+      "typecast",
+      "miscast"
+    ],
+    "exclude": {
+      "die-cast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-cast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sand-cast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "castor": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "casted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "opencast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

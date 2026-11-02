@@ -1,0 +1,116 @@
+[
+  {
+    "id": "B3528",
+    "meaning": "杯、杯形与小蛋糕、花名",
+    "core": "CUP：器物、容量和形状三条直观路",
+    "image": "cup 后接 teacup 器物、cupcake 蛋糕和 buttercup 花名，不靠颜色花形推食用性。",
+    "intro": "古英语相关容器词合流，部分接晚期拉丁。现代杯量依测量体系而异，不能一个数替代全部地区食谱。",
+    "forms": "cup → teacup、cupcake、buttercup；cup hands 动词按杯形。\n\n较早英语和拉丁相关容器词合流，现代可数杯子也可用来量一杯。\n\n早期放杯子的板、桌面后来成为储藏柜名称；现代 p 常不发音。",
+    "branches": [
+      [
+        "杯与相关器物",
+        "cup · teacup"
+      ],
+      [
+        "蛋糕与植物名",
+        "cupcake · buttercup"
+      ],
+      [
+        "cup → cups：杯子、杯中量与杯形容器",
+        "cup · cups"
+      ],
+      [
+        "cup + board → cupboard → cupboards：板、桌面到柜子",
+        "cup · cupboard · cupboards"
+      ]
+    ],
+    "contrasts": "teacup 杯与 cup of tea 饮料不同；buttercup 花与 cup of butter 数量短语不同。",
+    "practice": "She put down her teacup and chose a cupcake.\n\n她放下茶杯，选了一只纸杯蛋糕。",
+    "words": [
+      "cup",
+      "teacup",
+      "cupcake",
+      "buttercup",
+      "cups",
+      "cupboard",
+      "cupboards"
+    ],
+    "exclude": {
+      "drinking-cup": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cupping": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2495",
+    "meaning": "发送、发件人与重发",
+    "core": "SEND：让人、物、消息前去",
+    "image": "send → sender 主体、resend 再次动作，godsend 已有精讲共享。",
+    "intro": "古英语使前去的动词，send—sent—sent；resend 的分词 resent 与怨恨动词同形不同读。",
+    "forms": "send → sender；re- + send → resend；god + send → godsend。\n\nsend → sent → sent；词尾 t 涉及较早过去词尾的变化，不是把 send 中的 d 简单替换成一个词根。\n\nsend 继承古英语 sendan；sends 和 sending 是现在形式，过去 sent 已另讲。",
+    "branches": [
+      [
+        "基本动作、主体与重复",
+        "send · sender · resend"
+      ],
+      [
+        "已有帮助比喻",
+        "godsend"
+      ],
+      [
+        "发送、派遣的过去形式 sent",
+        "send · sent"
+      ],
+      [
+        "send → sends／sending：把东西送向另一处",
+        "send · sends · sending"
+      ]
+    ],
+    "contrasts": "发送不等于收到；resent 重发与 resent 怨恨分音义；send 不写 sended。",
+    "practice": "The sender resent the missing attachment.\n\n发件人重发了漏掉的附件。",
+    "words": [
+      "send",
+      "sender",
+      "resend",
+      "godsend",
+      "sent",
+      "sends",
+      "sending"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3092",
+    "meaning": "重量、强度与沉重负担",
+    "core": "HEAVY：分量大，再问是物重、量多还是负担重",
+    "image": "heavy → heavily 方式程度、heaviness 状态，再看 heavyweight 比赛级别与影响力比喻。",
+    "intro": "古英语继承词，抽象负担、严肃义也古老，不把所有比喻都标成新英语发明。",
+    "forms": "heavy → heavily、heaviness；heavy + weight → heavyweight。\n\nheavy 接古英语 hefig，和举起的词族相关；现代比较形式 y 变 i，再加 -er／-est。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "heavy · heavily · heaviness"
+      ],
+      [
+        "体重级别与影响力",
+        "heavyweight"
+      ],
+      [
+        "heavy → heavier → heaviest：重量、强度与负担",
+        "heavy · heavier · heaviest"
+      ]
+    ],
+    "contrasts": "heavy rain 与 rain heavily 对照；strong wind 的搭配另记；heavyweight 可说影响大而非体重。",
+    "practice": "Heavy rain fell throughout the night.\n\n大雨下了一整夜。",
+    "words": [
+      "heavy",
+      "heavily",
+      "heaviness",
+      "heavyweight",
+      "heavier",
+      "heaviest"
+    ],
+    "exclude": {
+      "heavy-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "B3272",
+    "meaning": "汗、出汗、紧张费力，以及衣物和劳动环境",
+    "core": "SWEAT：汗从皮肤出来，压力也像把人逼出汗",
+    "image": "sweat → sweating、sweaty；sweater、sweatshirt、sweatpants 衣物分支；sweatshop 劳动条件用语。",
+    "intro": "先把汗水、过程、状态连上，再看衣服和工作环境名称。sweatshop 的重点不是字面屋里有人出汗，而是恶劣剥削性劳动条件。",
+    "forms": "swāt 等 → sweat；sweat + -ing/-y/-er/shirt/pants/shop。\n\n继承的出汗材料进入衣物名，再成为日常服饰名称。",
+    "branches": [
+      [
+        "汗水、过程和状态",
+        "sweat · sweating · sweaty"
+      ],
+      [
+        "衣物",
+        "sweater · sweatshirt · sweatpants"
+      ],
+      [
+        "工作环境",
+        "sweatshop"
+      ],
+      [
+        "sweat → sweater、sweatshirt：出汗与运动衣物名称",
+        "sweat · sweater · sweaters · sweatshirt · sweatshirts"
+      ]
+    ],
+    "contrasts": "sweat/sweet /swet/ 与 /swiːt/；sweating 不等于汗衫；sweatshop 不是所有让人出汗的店。",
+    "practice": "He put on a sweater after sweating through his sweatshirt.\n\n他把运动衫汗湿后，穿上了一件毛衣。",
+    "words": [
+      "sweat",
+      "sweating",
+      "sweaty",
+      "sweater",
+      "sweatshirt",
+      "sweatpants",
+      "sweatshop",
+      "sweaters",
+      "sweatshirts"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3732",
+    "meaning": "纸上图示、地图与记录规划；专名另看语境",
+    "core": "CHART：把位置、数据和路径画出来",
+    "image": "chart → charted → uncharted；chartist 以图表分析者，大写政治称呼另沿宪章名称。",
+    "intro": "图表让信息可看，海图让路线可找，未标绘又自然走到未知领域。chart 与 charter 相关，却不是现代同一个词可以随便省字母。",
+    "forms": "khartēs → charta → charte → chart；chart + -ed/-ist；un- + charted；Charter/Chartism 的专名支。\n\ncharter 经法语接拉丁 chartula 小文书，与 chart 追到 charta 纸、文书同族；正式文书、特许与包租用途逐步发展。\n\n法语 charte 接拉丁 charta，名词、动词现代分支以图示、记录为中心。\n\ncharter 经法语 chartre 接拉丁 chartula 小纸、文书，现代加 -ed，/r/ 等后读 /d/。正式授权、持特许资格与包租交通工具等用法分别说明。",
+    "branches": [
+      [
+        "绘图记录及是否已标绘",
+        "chart · charted · uncharted"
+      ],
+      [
+        "图表分析与历史专名",
+        "chartist"
+      ],
+      [
+        "纸张材料的不同借词：chart 与 charter",
+        "chart · charter"
+      ],
+      [
+        "chart → charts：纸张上的信息到图表、路线图",
+        "chart · charts"
+      ],
+      [
+        "纸上的正式文书 → charter → chartered",
+        "chartered"
+      ]
+    ],
+    "contrasts": "charted/chartered 标绘与特许包租等不同；uncharted 不是空无一人；chartist 的方法不保证预测正确。",
+    "practice": "The charted route ended where uncharted territory began.\n\n地图标出的路线终止处，正是未标绘区域的起点。",
+    "words": [
+      "chart",
+      "charted",
+      "uncharted",
+      "chartist",
+      "charter",
+      "charts",
+      "chartered"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4327",
+    "meaning": "大、厚、粗；总量与粗鄙、严重分支",
+    "core": "GROSS：把整团放一起，或觉得粗得过分",
+    "image": "gross 总、毛；gross error 严重错误；grossly 严重地；grossness 粗鄙；一罗计数另按固定单位。",
+    "intro": "先选统计整体还是质量评价。总收入、毛重不叫恶心收入；grossly inaccurate 又不是算税前不准确。",
+    "forms": "grossus → gros → gross；gross + -ly/-ness；大打的旧计数命名 → gross 144。\n\ngrocer、grocery 经法语 grossier、grosserie 等与 gross 的大量、整批历史词族相连；不是由现代 gross 恶心义直接派生。\n\ngrocery 经法语 grosserie、grossier 批发商词族，后来可说杂货店与店里所售商品。现代 y 改 i 加 -es，groceries 常指买回的食品、日用品。",
+    "branches": [
+      [
+        "基本多义与程度",
+        "gross · grossly"
+      ],
+      [
+        "粗俗、反感性质",
+        "grossness"
+      ],
+      [
+        "经法语批量交易材料形成的商店词族",
+        "grocer · grocery"
+      ],
+      [
+        "成批交易的商人 → grocery → groceries",
+        "groceries"
+      ]
+    ],
+    "contrasts": "gross/net 按具体指标定义；grossly 不作 very 的万能替代；grossness 不等于毛重。",
+    "practice": "The gross total was correct, but the description of the result was grossly misleading.\n\n总数没错，但对结果的描述严重误导。",
+    "words": [
+      "gross",
+      "grossly",
+      "grossness",
+      "grocer",
+      "grocery",
+      "groceries"
+    ],
+    "exclude": {}
+  }
+]

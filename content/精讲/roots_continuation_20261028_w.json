@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B2545",
+    "meaning": "站立、支住；位置与坚持",
+    "core": "STAND：支住身体或事物，留在某个位置",
+    "image": "人站着，架子支着东西，面对压力仍站得住，就有坚持和承受的感觉。",
+    "intro": "stand 接古英语 standan，经中古英语延续；stand → stood。standing、withstand 可辨动作、状态和旧前缀。understand、standard 虽可放在历史关联中学习，意义形成不能只靠现代字面拼出来。",
+    "forms": "先看 stand、standing、withstand；standpoint、standstill、grandstand 为共享讲解。支架用途再分 nightstand、newsstand、bandstand、handstand、kickstand。understand 的语义桥梁和 standard 的更早分析有争议，单列解释。\n\nstand → stood → stood；stood 的 oo 读 /ʊ/。\n\n站住、占据位置的动作，发展出立场、架台、摊位等名词。\n\n军旗与标准有历史联系，但中间语义过渡和更远词源保留争议。\n\nstand 在这里为支物台架名，不是站立动作。",
+    "branches": [
+      [
+        "基本状态、承受与位置",
+        "stand · standing · withstand · standstill · standpoint"
+      ],
+      [
+        "台架、场所与支撑",
+        "nightstand · newsstand · bandstand · grandstand · handstand · kickstand"
+      ],
+      [
+        "历史扩展需谨慎拆解",
+        "understand · standard"
+      ],
+      [
+        "站住、保持立场的过去形式 stood",
+        "stand · stood"
+      ],
+      [
+        "stand → stands：站、立与售卖的小摊",
+        "stand · stands"
+      ],
+      [
+        "standard → standards：旗帜、参照与标准",
+        "standard · standards"
+      ],
+      [
+        "stand 的台架义进入 nightstand",
+        "stand · nightstand · nightstands"
+      ]
+    ],
+    "contrasts": "nightstand 家具、newsstand 摊亭、bandstand 演奏台。understand 早已表示理解，不能说站在下面所以懂了。withstand 的 with- 保留对抗义。",
+    "practice": "The old bandstand still stands, having withstood years of wind and rain.\n\n旧音乐台经受多年风雨，如今仍然立着。",
+    "words": [
+      "stand",
+      "standing",
+      "withstand",
+      "standstill",
+      "standpoint",
+      "nightstand",
+      "newsstand",
+      "bandstand",
+      "grandstand",
+      "handstand",
+      "kickstand",
+      "understand",
+      "standard",
+      "stood",
+      "stands",
+      "standards",
+      "nightstands"
+    ],
+    "exclude": {
+      "stand-alone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stander": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "homestand": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

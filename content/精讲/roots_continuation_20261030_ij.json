@@ -1,0 +1,167 @@
+[
+  {
+    "id": "B2517",
+    "meaning": "转移、翻译，以及各领域的相关性质",
+    "core": "TRANSLATION：带过去；具体带的是内容、位置还是研究成果",
+    "image": "translation → translational；mis- + translation → mistranslation。",
+    "intro": "词源给一条转移的线，专业语境再决定转移对象。研究成果落到应用，不等于把一篇外语论文翻译出来。",
+    "forms": "trāns- + ferre / lātus → trānslātiō → translation；接 -al，或前接 mis-。",
+    "branches": [
+      [
+        "过程及相关性质",
+        "translation · translational"
+      ],
+      [
+        "翻译出错",
+        "mistranslation"
+      ]
+    ],
+    "contrasts": "translational research 不是普通笔译研究；mistranslation 指误译，不只是任何不喜欢的译文。",
+    "practice": "The translation explains what translational research means.\n\n这份译文解释了转化研究是什么意思。",
+    "words": [
+      "translation",
+      "translational",
+      "mistranslation"
+    ],
+    "exclude": {
+      "back-translation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3511",
+    "meaning": "播下生长的起点，及种子相关性质、幼苗和作物名",
+    "core": "SEED：小小起点，后面长出东西",
+    "image": "seed → seedling / seedless / seedy；flaxseed、rapeseed、oilseed 看前半的植物或用途。",
+    "intro": "实体词最容易带出画面：种子成为苗，资金和疑问也能先有一个萌芽。但 seedy 的破败义已经走到负面比喻，不能逐字猜成有前途。",
+    "forms": "sēd/sǣd → seed；接 -ling、-less、-y；flax/rape/oil + seed。\n\n古英语 seed 与 sow 同族，现代 s 数种子；体育种子选手是后来的比喻。\n\nling 在此命名幼小个体；现代名词复数加 s。\n\n与 seed 比较食用籽实，不从英语 seed 派生。lentil 经法语接拉丁 lenticula，lens 扁豆的小称；光学 lens 因扁豆形状得名。sesame 经拉丁、希腊接更早的近东油籽名称。",
+    "branches": [
+      [
+        "种子、幼苗和性质",
+        "seed · seedling · seedless · seedy"
+      ],
+      [
+        "植物与用途组合",
+        "flaxseed · rapeseed · oilseed"
+      ],
+      [
+        "seed → seeds：播下的种子与后来生长的开端",
+        "seed · seeds"
+      ],
+      [
+        "seedling → seedlings：从种子长出的幼苗",
+        "seed · seedling · seedlings"
+      ],
+      [
+        "lentil、sesame：另源的食用籽实名称",
+        "lentil · lentils · sesame"
+      ]
+    ],
+    "contrasts": "seedling 不是种子本身；seedless 不表示所有组织都无任何种子痕迹；seedy 常用义是寒酸破败。",
+    "practice": "The seed grew into a seedling, while the bag was labelled flaxseed.\n\n种子长成了幼苗，袋上则标着亚麻籽。",
+    "words": [
+      "seed",
+      "seedling",
+      "seedless",
+      "seedy",
+      "flaxseed",
+      "rapeseed",
+      "oilseed",
+      "seeds",
+      "seedlings",
+      "lentil",
+      "lentils",
+      "sesame"
+    ],
+    "exclude": {
+      "self-seed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4138",
+    "meaning": "种族维度、背景数量与群体之间的关系",
+    "core": "RACIAL：先定讨论维度，再看前后缀",
+    "image": "racial → racially；bi- 两种、multi- 多种、inter- 群体之间。",
+    "intro": "把词形对应到一个清楚的问题：讨论哪方面、个人有哪些背景，还是群体之间怎样互动。不要把所有词都一口气背成种族歧视。",
+    "forms": "race 的群体义 + -ial；racial + -ly；bi-/inter-/multi- + racial。",
+    "branches": [
+      [
+        "性质与方面",
+        "racial · racially"
+      ],
+      [
+        "背景与群体关系",
+        "biracial · multiracial · interracial"
+      ]
+    ],
+    "contrasts": "racial 不自动等于 racist；biracial 的二不要求用百分比描述一个人的身份。",
+    "practice": "The exhibition explores biracial identity in a racially diverse city.\n\n展览探讨一座种族背景多样的城市中的双种族背景身份认同。",
+    "words": [
+      "racial",
+      "racially",
+      "biracial",
+      "multiracial",
+      "interracial"
+    ],
+    "exclude": {
+      "anti-racial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proto-racial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3944",
+    "meaning": "付钱取得服务、使用，及重新雇用",
+    "core": "HIRE：用付费换来服务或暂时使用",
+    "image": "hire → rehire；人、器物搭配不同，租出去又要看 hire out。",
+    "intro": "雇设计师、租车都可涉及 hire，关键是付钱取得服务或使用。re- 再把时间拉到以前雇过、现在又开始。",
+    "forms": "hȳr / hȳrian → hire；re- + hire。\n\n古英语雇用、租用词延续，人和器物搭配各有习惯。\n\n古英语雇用、工钱词族，现代雇人、租用东西分搭配。",
+    "branches": [
+      [
+        "雇用、租用与重新雇用",
+        "hire · rehire"
+      ],
+      [
+        "hire → hired：付钱取得人的服务或物的使用",
+        "hire · hired"
+      ],
+      [
+        "hire → hiring：付费取得人力或物品使用",
+        "hire · hired · hiring"
+      ]
+    ],
+    "contrasts": "hire 不等于永久买断；rehire 不是随便又招一个新人。",
+    "practice": "The studio will rehire the designer it hired last year.\n\n工作室会重新雇用去年请过的那位设计师。",
+    "words": [
+      "hire",
+      "rehire",
+      "hired",
+      "hiring"
+    ],
+    "exclude": {
+      "e-hire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3152",
+    "meaning": "物质组成与变化的学问，及相应研究分支",
+    "core": "CHEMISTRY：看东西由什么组成、怎样相互作用",
+    "image": "chemistry 前加 bio-/geo-/electro-/stereo-，限定生命、地球、电或空间结构相关领域。",
+    "intro": "前半先告诉你从哪个角度研究化学。人的 chemistry 是相处时的反应和默契，另看语境即可，不把人当实验药剂。",
+    "forms": "炼金术名称 → chemist → chemist + -ry；现代各学科前缀 + chemistry。",
+    "branches": [
+      [
+        "基本学科及研究角度",
+        "chemistry · biochemistry · geochemistry · electrochemistry · stereochemistry"
+      ]
+    ],
+    "contrasts": "chemist 人，chemical 相关性质或物质，chemistry 学科或默契；远源不确定的部分保留不确定。",
+    "practice": "Her chemistry course includes an introduction to biochemistry.\n\n她的化学课程包含生物化学入门。",
+    "words": [
+      "chemistry",
+      "biochemistry",
+      "geochemistry",
+      "electrochemistry",
+      "stereochemistry"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "B2995",
+    "meaning": "郑重誓言与禁忌语言发展的两义",
+    "core": "SWEAR：先看是在保证，还是在说粗话",
+    "image": "swear → sworn、swearing，先记不规则变化，再用搭配区分意思。",
+    "intro": "swear at 与 swear by 截然不同，sworn enemy 也不等于会说脏话的人。",
+    "forms": "swerian → sweren → swear；swear—swore—sworn；swear + -ing；郑重誓词的禁忌背景与粗话义相连。\n\nswear → swore → sworn；认真发誓与说粗话是同一词的不同常用分支。",
+    "branches": [
+      [
+        "基础、分词与过程",
+        "swear · sworn · swearing"
+      ],
+      [
+        "swear 的过去式与承诺、粗话两支",
+        "swear · swore · sworn"
+      ]
+    ],
+    "contrasts": "swore/sworn 过去式分词；swear at/by 骂与信赖；swearing/shouting 用词与音量；sworn enemy 固定关系。",
+    "practice": "He swore that he had heard no swearing.\n\n他发誓说自己没听到有人说脏话。",
+    "words": [
+      "swear",
+      "sworn",
+      "swearing",
+      "swore"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4362",
+    "meaning": "正在消逝与始终不消逝的感情",
+    "core": "DYING：die 的过程形式，再用 un- 说长久持续",
+    "image": "dying → undying，去 ie 变 y 的拼法与否定前缀一起记。",
+    "intro": "dying 可实际死亡，也可快消失；undying 多是感情、支持持久的修辞。",
+    "forms": "die → dying；un- + dying → undying。",
+    "branches": [
+      [
+        "消逝与不消逝",
+        "dying · undying"
+      ]
+    ],
+    "contrasts": "dying/dyeing 死去染色不同；undying/undead 长久与亡灵；undying love 非寿命判断。",
+    "practice": "The poem contrasts a dying fire with undying love.\n\n诗歌把逐渐熄灭的火与不消逝的爱作对照。",
+    "words": [
+      "dying",
+      "undying"
+    ],
+    "exclude": {
+      "never-dying": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4302",
+    "meaning": "用手操作的外科传统，再按尺度和对象限定",
+    "core": "SURGERY：基础手术，前缀说明在哪个尺度、哪个系统",
+    "image": "surgery → microsurgery、neurosurgery，前者小尺度精细操作，后者神经系统范围。",
+    "intro": "两者分类角度不同，同一操作可同时符合；不按前缀直接推断治疗效果、风险或个人选择。",
+    "forms": "希腊 cheir 手、ergon 工作相关词形经法语 → surgery；micro-/neuro- + surgery。",
+    "branches": [
+      [
+        "基础手术与具体范围",
+        "surgery · microsurgery · neurosurgery"
+      ]
+    ],
+    "contrasts": "micro- 小尺度与 neuro- 神经对象；surgery 英式某些语境也诊所、接诊时段，需按正文。",
+    "practice": "The textbook discusses microsurgery in several surgical fields.\n\n课本讨论了多个外科领域中的显微操作。",
+    "words": [
+      "surgery",
+      "microsurgery",
+      "neurosurgery"
+    ],
+    "exclude": {
+      "pre-surgery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1710",
+    "meaning": "一个、单一、统一方向或整体",
+    "core": "UNI-：先问一个的是什么，再看后半词",
+    "image": "unibrow 一条连续眉；unicycle 一个轮；unilateral 单侧；unidirectional 单向；不同对象共同用单一概念。",
+    "intro": "uni- 一不是否定 un-，也不是所有 uni- 都只在数实体一件；universe 和统一整体的历史构词较复杂，见该词。",
+    "forms": "拉丁 unus 一及相应组合词干 → uni-；接 brow、cycle、lateral 等不同词基；有些整词早已从拉丁借入。",
+    "branches": [
+      [
+        "整体、方向与侧面",
+        "universe · unilateral · unidirectional · unipolar"
+      ],
+      [
+        "外观、轮子与身体",
+        "unibrow · unicycle · unibody"
+      ],
+      [
+        "科学、制度与通用类别",
+        "unicellular · univariate · unicameral · unisex"
+      ]
+    ],
+    "contrasts": "uni-/un- 单一与否定；unibrow 非失去一边眉；unilateral/unidirectional 单侧单向；unisex 男女通用等非无性别身份断言。",
+    "practice": "The unicycle has one wheel, and the arrow indicates unidirectional movement.\n\n独轮车有一个轮子，箭头表示单向运动。",
+    "words": [
+      "universe",
+      "unilateral",
+      "unidirectional",
+      "unipolar",
+      "unibrow",
+      "unicycle",
+      "unibody",
+      "unicellular",
+      "univariate",
+      "unicameral",
+      "unisex"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3135",
+    "meaning": "突然撞击身体或预期，再有后续冲击",
+    "core": "SHOCK：猛地一下，实际力、电流、情绪分别看对象",
+    "image": "shock → shocking、shocker；aftershock 地震或事件余波；electroshock 电学与特定医疗名称。",
+    "intro": "日常震惊不等于医学休克；a shock of hair 蓬发另有来源，不拿冲击义硬编头发生长故事。",
+    "forms": "choc、choquer 等 → shock 冲击；shock + -ing/-er；after- + shock；electro- + shock；蓬发名词另源。\n\n碰撞词借入扩展情绪义，shocked 也作分词形容词，医学休克另有专门定义。",
+    "branches": [
+      [
+        "冲击与造成震惊的性质、事件",
+        "shock · shocking · shocker"
+      ],
+      [
+        "后续震动与电的冲击",
+        "aftershock · electroshock"
+      ],
+      [
+        "shock → shocked：冲击造成的惊愕",
+        "shock · shocked"
+      ]
+    ],
+    "contrasts": "shocking/shocked 因果方向；shocker 事件或糟表现；aftershock/aftermath 后续冲击与后果局面；shock 休克非普通惊讶。",
+    "practice": "The shocking result was followed by further aftershocks across the organization.\n\n令人震惊的结果在机构内继续引发后续冲击。",
+    "words": [
+      "shock",
+      "shocking",
+      "shocker",
+      "aftershock",
+      "electroshock",
+      "shocked"
+    ],
+    "exclude": {}
+  }
+]

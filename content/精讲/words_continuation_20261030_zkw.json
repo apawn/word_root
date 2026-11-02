@@ -1,0 +1,622 @@
+[
+  {
+    "word": "considerate",
+    "ipa": "英 /kənˈsɪdərət/；美 /kənˈsɪdərət/",
+    "meaning": "体贴的；替别人着想的",
+    "sense": "你打算做一件事，先想到别人会不会不方便，再调整自己的做法，这种体贴就是 considerate。核心不是只会想，而是把别人的感受也考虑进去。",
+    "split": "接拉丁 consideratus，considerare 细看、考虑的过去分词。英语早期表示考虑周全，后来集中到顾及他人处境、感受的意思。",
+    "history": [
+      [
+        "拉丁 considerare → consideratus → 英语 considerate",
+        "早期深思、考虑周全的性质"
+      ],
+      [
+        "考虑周全 → 为他人的感受着想",
+        "现代最常用的体贴义，不把更远观星分析定为事实"
+      ]
+    ],
+    "explanation": "considerate of others 说顾及别人；It was considerate of you to… 是你做这件事很体贴。常用于那些避免给别人添麻烦的小举动。",
+    "usage": "considerate of others；a considerate neighbour；considerate of you to。",
+    "contrast": "considerate 是体贴，considerable 是数量、程度相当大的。两词都联系 consider 的词族，现代分工不同。",
+    "examples": [
+      [
+        "It was considerate of you to warn us about the delay.",
+        "你提前告诉我们会延误，真是体贴。"
+      ],
+      [
+        "She is a considerate neighbour who keeps the noise down.",
+        "她是位体贴的邻居，会注意不弄出太大噪声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/considerate#English",
+      "https://www.etymonline.com/word/considerate"
+    ]
+  },
+  {
+    "word": "oblivion",
+    "ipa": "英 /əˈblɪviən/；美 /əˈblɪviən/",
+    "meaning": "被遗忘、无闻的状态；无意识；消失无踪",
+    "sense": "曾经很有名，后来再也没人提起，像掉出大家记忆之外，这种被遗忘的状态叫 oblivion。它也可把完全消失、不再有意识写得很强烈。",
+    "split": "经古法语 oblivion 或直接借拉丁 oblivio、oblivionem 遗忘，接 oblivisci 忘记。更远来源不确定，不把抹平、擦除一类解释定为已经证实的构词。",
+    "history": [
+      [
+        "拉丁 oblivisci 忘记 → oblivio、oblivionem → 英语 oblivion",
+        "近源是遗忘名词，不确定处保留在更远层"
+      ],
+      [
+        "遗忘、被忘掉 → 无闻、失去意识或彻底消失的扩展",
+        "现代常见 fade into oblivion"
+      ]
+    ],
+    "explanation": "fade into oblivion 像从集体记忆里褪去；sink into oblivion 可按语境说消失在遗忘中，或进入没有知觉的状态。",
+    "usage": "fade into oblivion；sink into oblivion；save from oblivion。",
+    "contrast": "oblivion 常说事物被忘、消失的状态；oblivious 常形容某个人没有察觉。二者同源，不等于在每个句子里都是直接形容词、名词互换。",
+    "examples": [
+      [
+        "The once-famous song slowly faded into oblivion.",
+        "这首曾经出名的歌慢慢被人遗忘。"
+      ],
+      [
+        "The archive saved several old films from oblivion.",
+        "档案馆让几部老电影免于被彻底遗忘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oblivion#English",
+      "https://www.etymonline.com/word/oblivion"
+    ]
+  },
+  {
+    "word": "oblivious",
+    "ipa": "英 /əˈblɪviəs/；美 /əˈblɪviəs/",
+    "meaning": "毫无察觉的；浑然不知的；忘却的",
+    "sense": "旁边的人已经很不耐烦，你还兴致勃勃地说个不停，完全没注意到，可以说 oblivious。事情就在身边，却没进入你的意识。",
+    "split": "借拉丁 obliviosus 健忘的，接 oblivio 遗忘及 -osus，对应英语 -ous。由忘记、没放在心上，发展到现代毫无察觉；不从 obvious 明显的加字母而来。",
+    "history": [
+      [
+        "拉丁 oblivio 遗忘 → obliviosus → 英语 oblivious",
+        "早期常说健忘、忘却、没放在心上"
+      ],
+      [
+        "忘记、不留意 → 对身边情况毫无察觉",
+        "现代这个意思最值得先掌握"
+      ]
+    ],
+    "explanation": "oblivious to the noise 是没注意到噪声；oblivious of the fact 是没意识到事实。现代表示没察觉时，to、of 都有规范用例。",
+    "usage": "oblivious to；oblivious of；completely oblivious。",
+    "contrast": "obvious 是明显的，oblivious 是没察觉的；一个评价事情显不显眼，一个说人是否注意到。若要把 oblivious 的状态名词化，通常用 obliviousness。",
+    "examples": [
+      [
+        "He walked past, oblivious to the noise around him.",
+        "他从旁边走过，完全没注意到周围的噪声。"
+      ],
+      [
+        "She was oblivious of the fact that the meeting had started.",
+        "她浑然不知会议已经开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oblivious#English",
+      "https://www.etymonline.com/word/oblivious",
+      "https://www.merriam-webster.com/dictionary/oblivious"
+    ]
+  },
+  {
+    "word": "smug",
+    "ipa": "英、美 /smʌɡ/",
+    "meaning": "自鸣得意、自满得让人不舒服的",
+    "sense": "答对一个问题，就露出一副我早就知道、你们都不如我的神气，是 smug。它不是单纯高兴，而是得意里透着令人反感的自满。",
+    "split": "较早表示整洁、光鲜，可能接低地德语 smuk 等相关词；后来从外表光滑、满意自己的模样，走向显出自满的态度。",
+    "history": [
+      [
+        "可能的低地德语整洁、装点词 → 英语 smug",
+        "较早正面或中性的光鲜、整齐义"
+      ],
+      [
+        "光鲜、满意自己的模样 → 自鸣得意",
+        "现代常带批评，而非一般夸人自信"
+      ]
+    ],
+    "explanation": "a smug smile 让人看出自得；look smug 是显得自满；feel smug about something 是因为某事沾沾自喜。",
+    "usage": "a smug smile；look smug；smug about。",
+    "contrast": "confident 可以是踏实自信，smug 通常嫌一个人过分满意自己。得意本身也未必 smug，要看有没有那股自满神气。",
+    "examples": [
+      [
+        "He wore a smug smile after winning the argument.",
+        "争论赢了之后，他脸上挂着自鸣得意的笑。"
+      ],
+      [
+        "She looked far too smug about her easy victory.",
+        "她对这场轻松的胜利显得过分沾沾自喜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smug#English",
+      "https://www.etymonline.com/word/smug"
+    ]
+  },
+  {
+    "word": "smugly",
+    "ipa": "英、美 /ˈsmʌɡli/",
+    "meaning": "自鸣得意地；沾沾自喜地",
+    "sense": "一句“我不是早就说过了吗”，说的时候还带着看吧我比你们懂的神气，可以用 smugly 描写说话方式。",
+    "split": "smug + 完整 -ly → smugly，原词保留，不双写 g。-ly 让自满的性质成为行动、表情的方式。",
+    "history": [
+      [
+        "较早光鲜、整洁义 → smug 自鸣得意",
+        "词义从外表转到态度评价"
+      ],
+      [
+        "smug + -ly → smugly",
+        "副词描述人如何笑、说、表示意见"
+      ]
+    ],
+    "explanation": "smile smugly 是得意地笑；say smugly 是自鸣得意地说。常由叙述者借副词评价对方的神气。",
+    "usage": "smile smugly；say smugly；smugly satisfied。",
+    "contrast": "proudly 可以只是自豪地，smugly 常带过于自满的负面评价。smug 修饰名词，smugly 修饰动作、性质等。",
+    "examples": [
+      [
+        "“I told you so,” he said smugly.",
+        "他自鸣得意地说：我早就告诉过你了。"
+      ],
+      [
+        "She smiled smugly when the answer proved correct.",
+        "答案证实正确时，她沾沾自喜地笑了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smugly#English",
+      "https://www.etymonline.com/word/smug"
+    ]
+  },
+  {
+    "word": "smugness",
+    "ipa": "英、美 /ˈsmʌɡnəs/",
+    "meaning": "自满；自鸣得意的神气",
+    "sense": "smug 说一个人自鸣得意，smugness 则把那股我比别人行的神气拿出来谈。别人可能受不了的，正是这种态度。",
+    "split": "smug + 完整 -ness → smugness，词基保留。-ness 把形容词的性质变成状态、特点名词。",
+    "history": [
+      [
+        "smug 的光鲜旧义 → 自满的现代评价",
+        "形容词描述人或其表情、态度"
+      ],
+      [
+        "smug + -ness → smugness",
+        "把自满当作可评价的一种状态、特点"
+      ]
+    ],
+    "explanation": "an air of smugness 是一股自鸣得意的神气；a hint of smugness 是一丝自满；without smugness 是没有沾沾自喜。",
+    "usage": "an air of smugness；a hint of smugness；without smugness。",
+    "contrast": "satisfaction 是满意，可以很自然；smugness 常是别人觉得过头、自以为是的那部分。",
+    "examples": [
+      [
+        "There was a hint of smugness in his reply.",
+        "他的回答里透着一丝自鸣得意。"
+      ],
+      [
+        "She spoke about the award with pride but without smugness.",
+        "她谈起获奖时很自豪，却没有沾沾自喜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smugness#English",
+      "https://www.etymonline.com/word/smug"
+    ]
+  },
+  {
+    "word": "starch",
+    "ipa": "英 /stɑːtʃ/；美 /stɑːrtʃ/",
+    "meaning": "淀粉；浆料；给衣物上浆",
+    "sense": "米、土豆等食物里的淀粉叫 starch。它也曾是让衣领、布料变挺的浆料名称，所以上浆、浆硬也用这个词。",
+    "split": "接早期英语使硬、浆硬及硬度相关词，远连 stearc 坚硬材料。名词具体有承旧硬度名词、由浆硬动词形成等分析，不能只按现代名词、动词排列断定全部历史。",
+    "history": [
+      [
+        "旧英语使硬、坚硬材料 → starch 的相关名动词",
+        "与 stark 等有更早词族联系，具体词形形成有不同分析"
+      ],
+      [
+        "淀粉浆料、淀粉材料；上浆动作",
+        "物质名与使布料挺硬的用途彼此关联"
+      ]
+    ],
+    "explanation": "corn starch 是玉米淀粉；starch a collar 是给领子上浆；starch 也可比喻僵硬、拘谨的派头。物质名通常不可数。",
+    "usage": "corn starch；potato starch；starch a collar。",
+    "contrast": "flour 是面粉等粉料，starch 是淀粉，不能把两者在所有句子里互换。衣物场景里 starch 可以作给衣物上浆的动词。",
+    "examples": [
+      [
+        "The recipe uses corn starch to thicken the sauce.",
+        "这份食谱用玉米淀粉让酱汁变稠。"
+      ],
+      [
+        "He used to starch the collars of his shirts.",
+        "他过去常给衬衫领子上浆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starch#English",
+      "https://www.etymonline.com/word/starch"
+    ]
+  },
+  {
+    "word": "starchy",
+    "ipa": "英 /ˈstɑːtʃi/；美 /ˈstɑːrtʃi/",
+    "meaning": "含淀粉多的；浆硬的；拘谨、过分正式的",
+    "sense": "食物里淀粉多，是 starchy；衣服浆得硬挺，也是 starchy。人端着架子、说话很拘谨，像浆硬的衣领，又能借用这个词。",
+    "split": "starch + 完整 -y → starchy，原词保留。物质性质、衣料硬挺与态度僵硬的几种用法，接同一词族分支。",
+    "history": [
+      [
+        "starch 淀粉、浆料及上浆动作 + -y",
+        "形成含有、具有相应性质的形容词"
+      ],
+      [
+        "浆硬衣物的硬挺感 → starchy 的拘谨态度义",
+        "像一个人不肯放松，举止特别板正"
+      ]
+    ],
+    "explanation": "starchy foods 是淀粉类食物；a starchy collar 是浆硬衣领；a starchy manner 是拘谨正式的态度。",
+    "usage": "starchy foods；a starchy collar；a starchy manner。",
+    "contrast": "formal 可以只是正式，starchy 在态度评价中常嫌它僵硬、不够自然。食品语境则是材料特征，不含这种人格评价。",
+    "examples": [
+      [
+        "Potatoes are often described as starchy vegetables.",
+        "土豆常被称为淀粉类蔬菜。"
+      ],
+      [
+        "His starchy manner relaxed during the conversation.",
+        "谈话中，他那拘谨的态度逐渐放松了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starchy#English",
+      "https://www.etymonline.com/word/starch"
+    ]
+  },
+  {
+    "word": "waffle",
+    "ipa": "英 /ˈwɒfəl/；美 /ˈwɑːfəl/",
+    "meaning": "华夫饼；啰嗦、说空话；犹豫、立场摇摆〔动词另源〕",
+    "sense": "早餐盘里带格子花纹的饼，是 a waffle。谈话里说 someone waffles，却可能嫌他讲一堆没重点，或一直下不了决定。",
+    "split": "食物名借荷兰语 wafel，远接蜂巢、网状材料，与 weave 相关。动词另接较早 waff 小犬吠叫及反复动作材料，后来有空谈、摇摆义，不能由饼的格子推出。",
+    "history": [
+      [
+        "荷兰语及日耳曼蜂巢、网状词 → waffle 食物名",
+        "格纹使食物与蜂巢、网状形状相连"
+      ],
+      [
+        "另源 waff 吠叫、反复声音 → waffle 动词",
+        "从啰嗦、空谈走向犹豫、立场反复等用法"
+      ]
+    ],
+    "explanation": "英式口语 waffle on 常是没重点地说个不停；美式 waffle on an issue 常说立场不定。看到菜单时则按华夫饼理解。",
+    "usage": "a waffle with syrup；waffle on；waffle over a decision。",
+    "contrast": "waffle 食物与 waffle 动词同形分源。waver 也能说摇摆，waffle 的谈话、决策用法常带批评。",
+    "examples": [
+      [
+        "She ordered a waffle with strawberries.",
+        "她点了一份配草莓的华夫饼。"
+      ],
+      [
+        "Please do not waffle on; tell us your main point.",
+        "别再啰嗦绕圈了，告诉我们你的重点。"
+      ],
+      [
+        "The committee continued to waffle over the decision.",
+        "委员会对这个决定仍摇摆不定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waffle#English",
+      "https://www.etymonline.com/word/waffle",
+      "https://www.collinsdictionary.com/dictionary/english/waffle"
+    ]
+  },
+  {
+    "word": "waffling",
+    "ipa": "英 /ˈwɒflɪŋ/；美 /ˈwɑːflɪŋ/",
+    "meaning": "啰嗦空谈；犹豫不决、立场反复",
+    "sense": "问题已经摆出来，对方却一会儿这样、一会儿那样，始终不落定，是 waffling。英式语境还常说绕来绕去、讲一堆没重点的话。",
+    "split": "waffle 动词去末尾 e，加完整 -ing → waffling。这里接的是说话、犹豫动词的历史，不是食物名词的蜂巢借词线。",
+    "history": [
+      [
+        "较早反复吠叫、空谈材料 → waffle 动词",
+        "后来有没重点地说、犹豫、立场摇摆的用法"
+      ],
+      [
+        "waffle 去 e + -ing → waffling",
+        "可作动作形式，也可把这种空谈、摇摆作为名词谈"
+      ]
+    ],
+    "explanation": "stop waffling 叫人别再空谈、犹豫；waffling over a decision 是迟迟做不出决定。两种批评的共同点，是对方没把事情说定、做定。",
+    "usage": "stop waffling；waffling on；waffling over a decision。",
+    "contrast": "careful thought 是认真权衡，waffling 常是旁人嫌你没重点、来回摆。并非凡是决定慢都能中性地用这个词。",
+    "examples": [
+      [
+        "We wasted half an hour listening to his waffling.",
+        "我们浪费了半小时听他绕来绕去地说空话。"
+      ],
+      [
+        "She was tired of his waffling over a simple decision.",
+        "一个简单决定他都犹豫来犹豫去，她已经听烦了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waffling#English",
+      "https://www.etymonline.com/word/waffle",
+      "https://www.collinsdictionary.com/dictionary/english/waffle"
+    ]
+  },
+  {
+    "word": "wafer",
+    "ipa": "英 /ˈweɪfə/；美 /ˈweɪfər/",
+    "meaning": "薄脆饼；圣餐薄饼；晶圆",
+    "sense": "一片又薄又脆的饼，是 wafer 的食物画面。技术文章里的 silicon wafer 则是一片很薄的硅晶圆，借用了薄片这个形状。",
+    "split": "经英法语 wafre、古北法语 waufre 等借入，远接日耳曼蜂巢、薄饼词，与 waffle 有不同借入路线。后来扩展到别的薄片，不能把词尾 -er 当成人物后缀。",
+    "history": [
+      [
+        "日耳曼蜂巢、薄饼词 → 法语相关形式 → 英语 wafer",
+        "和 waffle 共享更早词族，英语借入路径不同"
+      ],
+      [
+        "薄饼 → 宗教薄饼、其他薄圆片 → 半导体晶圆",
+        "现代不同场景靠材料、用途区分"
+      ]
+    ],
+    "explanation": "a chocolate wafer 是巧克力薄脆饼；a communion wafer 是圣餐薄饼；a silicon wafer 是硅晶圆。核心可记为薄薄的一片。",
+    "usage": "a chocolate wafer；a communion wafer；a silicon wafer。",
+    "contrast": "waffle 常是格纹饼，wafer 更强调薄片；晶圆不是饼，而是工艺用的薄圆片。不要因为同源就把现代食品、材料混为一种。",
+    "examples": [
+      [
+        "She served ice cream with a chocolate wafer.",
+        "她给冰淇淋配了一片巧克力薄脆饼。"
+      ],
+      [
+        "The technician examined a silicon wafer.",
+        "技术员检查了一片硅晶圆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wafer#English",
+      "https://www.etymonline.com/word/wafer",
+      "https://www.intel.com/content/www/us/en/newsroom/tech101/explaining-common-chip-terms.html"
+    ]
+  },
+  {
+    "word": "lick",
+    "ipa": "英、美 /lɪk/",
+    "meaning": "舔；一舔；击败、克服〔口语〕",
+    "sense": "舌头掠过冰淇淋、勺子，是 lick。口语里说终于 lick a problem，又可能是在说总算把难题解决了。",
+    "split": "舔义承古英语 liccian，经日耳曼词族延续。击败、克服义后来出现，可能与舔食、吞没的比喻有关，具体联系仍不确定，不编成一条必然故事。",
+    "history": [
+      [
+        "古英语 liccian → lick 舔",
+        "名词又可说舔这一下动作"
+      ],
+      [
+        "较晚 lick 击败、克服及相关 licking 用法",
+        "与舔义的历史联系有可能性分析，现代按语境区分"
+      ]
+    ],
+    "explanation": "lick an ice cream 是舔冰淇淋；give something a lick 是舔一下；have a problem licked 是把问题解决、控制住。",
+    "usage": "lick an ice cream；give a lick；have it licked。",
+    "contrast": "lick 强调舌头动作，bite 是咬。口语里已经把某个难题 licked，谈的是克服它，不是实际用舌头。",
+    "examples": [
+      [
+        "The child leaned forward to lick the ice cream.",
+        "孩子探过身去舔冰淇淋。"
+      ],
+      [
+        "We finally managed to lick the problem.",
+        "我们终于设法解决了这个难题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lick#English",
+      "https://www.etymonline.com/word/lick"
+    ]
+  },
+  {
+    "word": "licking",
+    "ipa": "英、美 /ˈlɪkɪŋ/",
+    "meaning": "舔、舔舐；痛打；惨败〔后两义为口语〕",
+    "sense": "a licking 可以是舔一遍，也可以在比赛里说被狠狠打败。看到 took a licking，先想吃了一场败仗，不要只按舔的动作翻译。",
+    "split": "lick + 完整 -ing → licking，原词保留。舔的名词用法很早；击败、痛打的另一用法接 lick 的相关口语义，两个意义的更早联系并非完全确定。",
+    "history": [
+      [
+        "lick 舔 + -ing → licking",
+        "给舌头掠过表面的行为命名"
+      ],
+      [
+        "lick 击败、克服的口语义 → a licking",
+        "名词可说痛打、重挫、比赛中的惨败"
+      ]
+    ],
+    "explanation": "give something a licking 可按语境说舔一遍；take a licking 常说遭重挫；a severe licking 是一场惨败、痛打。",
+    "usage": "give a licking；take a licking；a severe licking。",
+    "contrast": "licking 不必都是正在舔，-ing 也能形成可数行为名词。体育报道里的 a licking 通常看胜负、比分来理解。",
+    "examples": [
+      [
+        "The puppy gave my hand a thorough licking.",
+        "小狗把我的手舔了个遍。"
+      ],
+      [
+        "Our team took a licking in the final.",
+        "我们队在决赛中吃了一场惨败。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/licking#English",
+      "https://www.etymonline.com/word/lick"
+    ]
+  },
+  {
+    "word": "scar",
+    "ipa": "英 /skɑː/；美 /skɑːr/",
+    "meaning": "疤痕；伤痕；留下伤痕",
+    "sense": "伤口留下的痕迹，是 a scar。一次难忘的打击也可能在心里留下痕迹，于是有 emotional scar 心理创伤的用法。",
+    "split": "经古法语 escare、晚期拉丁 eschara 接希腊相应结痂词；英语意义、形式又可能受北欧裂口、切痕词影响。动词由伤痕名词发展，不能只挑一条材料就抹掉混合背景。",
+    "history": [
+      [
+        "法语、拉丁、希腊结痂词 → 英语 scar",
+        "还可能受到北欧切痕、裂口词影响"
+      ],
+      [
+        "皮肤上的痕迹 → 心理、地表的伤痕；名词转动词",
+        "可见痕迹成为经历留下影响的比喻"
+      ]
+    ],
+    "explanation": "a scar on the hand 是手上的疤；an emotional scar 是心理伤痕；scar the landscape 可说在地貌上留下破坏痕迹。",
+    "usage": "a scar on；leave a scar；emotional scars。",
+    "contrast": "wound 常说伤口、伤害，scar 常说留下的痕迹。scar 另有岩壁、岩礁相关词源，本页先掌握伤痕这一支。",
+    "examples": [
+      [
+        "A small scar crossed the back of his hand.",
+        "他的手背上横着一道小疤痕。"
+      ],
+      [
+        "The experience left a lasting emotional scar.",
+        "那次经历留下了持久的心理伤痕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scar#English",
+      "https://www.etymonline.com/word/scar"
+    ]
+  },
+  {
+    "word": "scarred",
+    "ipa": "英 /skɑːd/；美 /skɑːrd/",
+    "meaning": "有疤痕的；留下创伤、破坏痕迹的",
+    "sense": "皮肤上有旧伤留下的疤，是 scarred；一片山地被开挖得留下大片痕迹，也可以说 scarred。重点在过去的事留下可见或内在痕迹。",
+    "split": "scar 双写末尾 r，加完整 -ed → scarred。后缀读 /d/，可为过去形式，也可作描述有伤痕状态的形容词。",
+    "history": [
+      [
+        "结痂、切痕等早期材料 → scar 名词、动词",
+        "伤痕义与留下伤痕动作对应"
+      ],
+      [
+        "scar 双写 r + -ed → scarred",
+        "受过影响、留下痕迹的状态"
+      ]
+    ],
+    "explanation": "scarred skin 是带疤的皮肤；scarred by experience 是因经历留下创伤；a scarred landscape 是留下破坏痕迹的地貌。",
+    "usage": "scarred skin；scarred by；a scarred landscape。",
+    "contrast": "scarred 有两个 r，来自 scar；scared 害怕来自 scare。读音也不同，分别为 /skɑːd/ 与 /skeəd/ 等。",
+    "examples": [
+      [
+        "The old tree had a deeply scarred trunk.",
+        "老树的树干上留下了深深的伤痕。"
+      ],
+      [
+        "The hillside was scarred by abandoned mines.",
+        "废弃矿坑在山坡上留下了斑斑伤痕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scarred#English",
+      "https://www.etymonline.com/word/scar"
+    ]
+  },
+  {
+    "word": "boycott",
+    "ipa": "英 /ˈbɔɪkɒt/；美 /ˈbɔɪkɑːt/",
+    "meaning": "抵制；拒买、拒绝参与以表达反对",
+    "sense": "不是偶然没买、没去，而是为了表示反对，大家主动不买、不参加，这就是 boycott。重点在用拒绝往来表达立场。",
+    "split": "来自 Charles Boycott 的姓氏。他是十九世纪爱尔兰的土地代理人，1880 年遭当地有组织的拒绝往来，其姓名随后成为这类抵制行动的名词、动词。",
+    "history": [
+      [
+        "Charles Boycott 姓名 → 1880 年相关抵制事件",
+        "人名在特定事件后成为行动名称"
+      ],
+      [
+        "英语 boycott 名词、动词 → 更广拒买、拒参场景",
+        "现代是完整词，不从 boy 男孩、cot 小床拼义"
+      ]
+    ],
+    "explanation": "boycott a product 是抵制某产品；boycott a meeting 是拒绝参加会议以示反对；call for a boycott 是呼吁抵制。",
+    "usage": "boycott a product；boycott a meeting；call for a boycott。",
+    "contrast": "boycott 是参与者有意拒买、拒参；ban 通常说作出禁止规定；strike 常说劳动者罢工。它们不是同一种行动。",
+    "examples": [
+      [
+        "The group voted to boycott the meeting.",
+        "这个团体投票决定抵制会议，拒绝参加。"
+      ],
+      [
+        "Some shoppers decided to boycott the brand.",
+        "一些消费者决定抵制这个品牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boycott#English",
+      "https://www.etymonline.com/word/boycott"
+    ]
+  },
+  {
+    "word": "boycotted",
+    "ipa": "英 /ˈbɔɪkɒtɪd/；美 /ˈbɔɪkɑːtɪd/",
+    "meaning": "抵制了；被抵制的",
+    "sense": "一场会议、一种商品遭到有意拒绝参加或购买，可以说 was boycotted。它仍强调表达反对的抵制，不只是没人感兴趣。",
+    "split": "boycott + 完整 -ed → boycotted，末音 /t/ 后 -ed 读 /ɪd/。boycott 原词已有两个 t，直接接词尾，不再额外增加第三个 t。",
+    "history": [
+      [
+        "Boycott 人名 → 英语 boycott 抵制",
+        "十九世纪事件使完整姓氏词化"
+      ],
+      [
+        "boycott + -ed → boycotted",
+        "过去抵制动作；被抵制的状态"
+      ]
+    ],
+    "explanation": "was boycotted by 是被某些人抵制；a boycotted event 是遭抵制的活动。具体拒买、拒参哪一种，取决于宾语。",
+    "usage": "was boycotted by；a boycotted event；boycotted the meeting。",
+    "contrast": "boycotted 强调有意抵制，cancelled 是被取消，ignored 是被忽视。抵制本身不表示活动已经取消。",
+    "examples": [
+      [
+        "The event was boycotted by several local groups.",
+        "几个当地团体抵制了这项活动。"
+      ],
+      [
+        "They boycotted the shop for a week.",
+        "他们抵制那家商店，持续了一周。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boycotted#English",
+      "https://www.etymonline.com/word/boycott"
+    ]
+  },
+  {
+    "word": "prepaid",
+    "ipa": "英、美 /ˌpriːˈpeɪd/",
+    "meaning": "预付的；已预先支付的；预付了",
+    "sense": "先把钱付好，再去使用、寄送，是 prepaid。预付电话卡、已付邮资信封，都是典型场景。",
+    "split": "pre- 预先 + paid 已支付，或看作 prepay 的过去式、过去分词。paid 是 pay 的旧不规则词形，不按普通动词写成 payed 来表示这里的付款义。",
+    "history": [
+      [
+        "pre- 预先 + pay 支付 → prepay",
+        "英语较早常见于先付邮资的场景"
+      ],
+      [
+        "prepay 的过去形式 → prepaid",
+        "已先付；进一步固定为常见形容词"
+      ]
+    ],
+    "explanation": "a prepaid card 是预付卡；a prepaid envelope 是已付邮资信封；prepaid expenses 是预付费用。词的核心只说支付时间在前。",
+    "usage": "a prepaid card；a prepaid envelope；prepaid postage。",
+    "contrast": "prepaid 先付，postpaid 常说后付；paid 只说已经支付，不一定交代是否在使用之前。具体计费安排由服务本身说明。",
+    "examples": [
+      [
+        "The form came with a prepaid envelope.",
+        "表格附带了一个已付邮资的信封。"
+      ],
+      [
+        "She bought a prepaid phone card.",
+        "她买了一张预付电话卡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prepaid#English",
+      "https://www.etymonline.com/word/prepay"
+    ]
+  }
+]

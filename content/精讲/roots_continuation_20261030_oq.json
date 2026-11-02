@@ -1,0 +1,201 @@
+[
+  {
+    "id": "B4361",
+    "meaning": "短暂闭开、明灭，形成眨眼、闪灯与固定物名",
+    "core": "BLINK：眼睛合开一下，灯光也能亮灭一下",
+    "image": "blink → blinker，先动作，再看转向灯和马眼罩语境。",
+    "intro": "眨眼与闪光可以靠短暂明灭来理解；in the blink of an eye 再借时间短。马眼罩作为固定名称认识，不硬编成会发光的眼罩。",
+    "forms": "blynken、blenken → blink；更早日耳曼闪光材料相关，部分中间形式属重建；-er 物名。\n\n中古英语相关词接日耳曼闪光材料，早期路线有讨论；眼皮短暂开合、灯光短暂明灭是现代常见分支。\n\n两词在同页按眼睑动作对照，不作彼此直接派生。wink 承古英语 wincian，眨眼示意的记录很早，不能说现代才从普通眨眼发明。",
+    "branches": [
+      [
+        "动作、瞬间与相应物品",
+        "blink · blinker"
+      ],
+      [
+        "blink 的眼皮开合与灯光闪灭",
+        "blink · blinks · blinked · blinking"
+      ],
+      [
+        "wink 与 blink：有信号的眨眼和一般眨眼",
+        "blink · wink · winks · winked · winking"
+      ]
+    ],
+    "contrasts": "blink 与 wink 不完全相同；blinkers 在马术、汽车语境分别选义。",
+    "practice": "The blinker blinked while the driver waited to turn.\n\n司机等着转弯，转向灯一闪一闪。",
+    "words": [
+      "blink",
+      "blinker",
+      "blinks",
+      "blinked",
+      "blinking",
+      "wink",
+      "winks",
+      "winked",
+      "winking"
+    ],
+    "exclude": {
+      "blink-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blinky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4173",
+    "meaning": "使人愉快、满意的性质，副词再表达这种感受",
+    "core": "PLEASING：东西给人舒服、合意的感觉",
+    "image": "pleasing → pleasingly，先性质，再修饰简洁、顺滑等具体特征。",
+    "intro": "pleasing 看东西让人怎样感觉，pleased 则看人已经满意。副词 pleasingly 常把评价放到一个具体性质前。",
+    "forms": "please 去 e + -ing → pleasing；+ -ly → pleasingly。",
+    "branches": [
+      [
+        "性质与方式评价",
+        "pleasing · pleasingly"
+      ]
+    ],
+    "contrasts": "pleasing 给人满意，pleased 自己满意；pleasingly 不只是一个人在开心地做动作。",
+    "practice": "The pleasing design is pleasingly simple.\n\n这个设计令人舒服，简洁得恰到好处。",
+    "words": [
+      "pleasing",
+      "pleasingly"
+    ],
+    "exclude": {
+      "self-pleasing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3602",
+    "meaning": "分析相关性质与思考方式，心理分析再限定领域",
+    "core": "ANALYTICAL：拆开看关系，再把理由说清楚",
+    "image": "analytical → analytically；psychoanalytical 限定为精神分析相关。",
+    "intro": "把复杂问题分成可比较部分，是日常 analytical 的好入口。psychoanalytical 则接具体学科，不能把所有会分析心理的人都叫精神分析学者。",
+    "forms": "中世纪拉丁 analyticus 等材料 + -al → analytical；-ly 方式；psycho- 心理、精神相关。英语词形先后不必与长短相同。",
+    "branches": [
+      [
+        "分析性质与方式",
+        "analytical · analytically"
+      ],
+      [
+        "精神分析相关",
+        "psychoanalytical"
+      ]
+    ],
+    "contrasts": "analytical 的英语记录早于某些较短对应词，不能按字母多寡倒画历史；psychoanalytical 有特定学科范围。",
+    "practice": "She took an analytical approach and examined the results analytically.\n\n她采用分析思路，系统分析了结果。",
+    "words": [
+      "analytical",
+      "analytically",
+      "psychoanalytical"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2881",
+    "meaning": "旧饮用分词材料形成醉态形容词，再分状态与方式",
+    "core": "DRUNKEN：看醉态，再分状态名词和动作方式",
+    "image": "drunken → drunkenness、drunkenly，从形容词分出两种常用派生。",
+    "intro": "drunken behaviour 描写醉态行为，drunkenness 把状态拿出来，drunkenly 修饰动作。不要把饮酒、醉酒与依赖三件事混成一个概念。",
+    "forms": "drink 的旧分词变化材料 → drunken；-ness 状态，拼写 nn；-ly 方式。",
+    "branches": [
+      [
+        "醉态性质、状态与表现方式",
+        "drunken · drunkenness · drunkenly"
+      ]
+    ],
+    "contrasts": "drunkenness 不自动等于酒精依赖；drunkenly 是方式副词，不是酒精含量单位。",
+    "practice": "The novel describes drunken behaviour through characters who speak drunkenly.\n\n小说通过人物醉醺醺的说话方式描写醉态行为。",
+    "words": [
+      "drunken",
+      "drunkenness",
+      "drunkenly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2033",
+    "meaning": "法语人物词尾进入财富数量称呼，数量由前半决定",
+    "core": "-AIRE：前面给财富量级，后面变成相应人物",
+    "image": "millionaire → billionaire，先百万再十亿，数量差一千倍。",
+    "intro": "中文富翁简称容易糊掉具体数值。先认 million、billion，再认 -aire 人物词尾；财富也不只等于随时可花的现金。",
+    "forms": "法语 millionnaire → millionaire；英语类推 billion + -aire → billionaire；词尾接法语人物构词传统。",
+    "branches": [
+      [
+        "从百万到十亿的财富人物名",
+        "millionaire · billionaire"
+      ]
+    ],
+    "contrasts": "-aire 不是 air 空气；billionaire 通常按十亿量级，不把中文亿万富翁直接当一亿定义。",
+    "practice": "The lesson compares millionaire and billionaire as number-based person words.\n\n课程把 millionaire 和 billionaire 作为由数量构成的人物词来比较。",
+    "words": [
+      "millionaire",
+      "billionaire"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1984",
+    "meaning": "des- 是部分借词里的旧形式，与 dis- 分离、解除材料相关",
+    "core": "DES-：在借词里辨旧材料，不当现代随手拼词规则",
+    "image": "dispatch 用派出、发出、迅速办妥记常用义；des- 与 dis- 的旧形不等于现代独立 patch。",
+    "intro": "英语借的是整词，前缀能帮助看历史方向，不能让每段字母都凭现代词形硬译。dispatch 后半的更早来源有争论，保留到能确认的层级即可。",
+    "forms": "西班牙 despachar、意大利 dispacciare 等 → dispatch；des-／dis- 与拉丁分离、解除材料相关，后半具体来源未定。",
+    "branches": [
+      [
+        "借入后的发送、处理与通讯词",
+        "dispatch"
+      ]
+    ],
+    "contrasts": "dispatch 与 despatch 是拼写变体，不是两个相反动作；dispatch 不表示包裹已经送到。",
+    "practice": "The team will dispatch the report after the final review.\n\n团队会在最后审核后发出报告。",
+    "words": [
+      "dispatch"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2865",
+    "meaning": "语言相关性质，副词和社会语言限定再扩展",
+    "core": "LINGUISTIC：把观察对象放在语言上",
+    "image": "linguistic → linguistically；sociolinguistic 再限定社会与语言的关系。",
+    "intro": "语言的声音、结构、使用都能是 linguistic 研究对象。它不只说某个人会几种外语；社会语言相关性质也不等于单纯社交口才。",
+    "forms": "近代德语 linguistisch 等 → linguistic；-ly 方式；socio- 社会 + linguistic。更早接拉丁 lingua 舌、语言。",
+    "branches": [
+      [
+        "语言性质与角度",
+        "linguistic · linguistically"
+      ],
+      [
+        "社会语言相关性质",
+        "sociolinguistic"
+      ]
+    ],
+    "contrasts": "linguistically 可以限定从语言角度看，不自动评价表达好坏；sociolinguistic 形容词与 sociolinguistics 学科名分清。",
+    "practice": "The linguistic study examines sociolinguistic differences between the groups.\n\n这项语言研究考察不同群体之间的社会语言差异。",
+    "words": [
+      "linguistic",
+      "linguistically",
+      "sociolinguistic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4184",
+    "meaning": "我的老师的旧尊称，发展为具体宗教学者、教师职称",
+    "core": "RABBI：先记犹太传统里的教师、学者与领袖",
+    "image": "rabbi → rabbinic、rabbinical，人物与相应性质词。",
+    "intro": "从称呼里的老师进入，再看具体宗教职务。两个形容词多有重叠，按文献、传统、培养、职务等搭配掌握即可。",
+    "forms": "rav + -i → rabbi；经希腊、拉丁等传播；rabbin- 词干接 -ic、-ical，n 有历史词形基础。",
+    "branches": [
+      [
+        "人物与相关性质",
+        "rabbi · rabbinic · rabbinical"
+      ]
+    ],
+    "contrasts": "rabbi /ræbaɪ/ 与两个形容词的中间重音不同；rabbinic、rabbinical 不是兔子的 rabbit 派生。",
+    "practice": "The rabbi discussed rabbinic literature during the rabbinical training session.\n\n拉比在培养课程中讨论了拉比文献。",
+    "words": [
+      "rabbi",
+      "rabbinic",
+      "rabbinical"
+    ],
+    "exclude": {}
+  }
+]

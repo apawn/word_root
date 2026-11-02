@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B2432",
+    "meaning": "原先控制、坚持的，后来彻底松手",
+    "core": "ABANDON：放开控制，可能是不再管",
+    "image": "abandon → abandoned；abandonment 经法语名词支线。with abandon 借松开自我约束的感觉。",
+    "intro": "放弃计划、弃船、遗弃他人和尽情跳舞，选的对象不同；不能只记一个永远负面的抛弃。",
+    "forms": "à bandon、abandoner → abandon；abandon + -ed → abandoned；abandonnement → abandonment。",
+    "branches": [
+      [
+        "放手动作和尽情状态",
+        "abandon"
+      ],
+      [
+        "被放弃的对象与遗弃过程",
+        "abandoned · abandonment"
+      ]
+    ],
+    "contrasts": "abandoned/empty 不再照管与只是空着；abandonment/abandoned 名词与性质；bandon 不等于英语乐队。",
+    "practice": "The abandoned building showed signs of years of abandonment.\n\n废弃建筑显露出多年无人照管的痕迹。",
+    "words": [
+      "abandon",
+      "abandoned",
+      "abandonment"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3770",
+    "meaning": "干热烘熟，再分动作、从业者与场所",
+    "core": "BAKE：烤；BAKER：做烤食的人；BAKERY：做卖烤食的地方",
+    "image": "bake → baking；baker 古老人物形式；bakery 接 -ery 场所业务后缀。",
+    "intro": "人、店和过程放在一块，词尾用途就清楚。baking 的酷热义还可借烤箱感受来理解。",
+    "forms": "bacan → bake；bæcere → baker；bake + -ing/-ery → baking、bakery。\n\n古英语 bacan 的本族词，现代去 e 加完整 ed，k 后读 t。\n\nbatch 常解释为旧烘烤名词的延续，未见记录的古英语 *bæcce 要标重建；不是现代 bake 换几个字母造词。\n\n与 bake 比较动作和器具，不是 bake 的派生。oven 承古英语 ofen，接更早日耳曼烹饪器具材料，远源有锅、挖空容器等分析。",
+    "branches": [
+      [
+        "烘烤动作与过程",
+        "bake · baking"
+      ],
+      [
+        "人物与场所",
+        "baker · bakery"
+      ],
+      [
+        "bake → baked：干热烘烤完成",
+        "bake · baked"
+      ],
+      [
+        "bake 与 batch：烤制与一炉、一批",
+        "bake · batch"
+      ],
+      [
+        "oven：烤食物的封闭空间",
+        "oven · ovens"
+      ]
+    ],
+    "contrasts": "baker/bakery 人与场所；bake/steam/fry 干热、蒸汽与油烹；bakery 的 -ery 不漏拆。",
+    "practice": "The baker was baking bread in the bakery.\n\n面包师正在面包房里烤面包。",
+    "words": [
+      "bake",
+      "baking",
+      "baker",
+      "bakery",
+      "baked",
+      "batch",
+      "oven",
+      "ovens"
+    ],
+    "exclude": {
+      "bake-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fake-bake": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

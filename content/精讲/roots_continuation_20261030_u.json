@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B3891",
+    "meaning": "装载的旧义与责任、费用、充电",
+    "core": "CHARGE：负担交上去；电能补进去",
+    "image": "charge 后接 charger、charging、chargeable；recharge → rechargeable 一起，overcharge 看超过哪条限度。",
+    "intro": "装车词经法语进入英语，责任、费用、电学等多支逐步发展。不把现代各义都编成同一种装货动作。",
+    "forms": "charge → charger、charging、chargeable；re- + charge → recharge → rechargeable；over- + charge；supercharge 已精讲共享。\n\n装载词族发展出费用、指控、电学等分支；现代多义不都用一条假想故事解释。\n\n装载、负担词族发展出多个分支，按对象判断意思。\n\ndischarge 经古法语 deschargier、后期拉丁 discarricare 借入，现代可对照 dis 加 charge，不把所有义项编成一次造词事件。\n\n现代设备语境先掌握充电器，人物、军马等其他历史用法分场景看。",
+    "branches": [
+      [
+        "基本动作、主体、过程与收费性质",
+        "charge · charger · charging · chargeable"
+      ],
+      [
+        "再次与可重复能力",
+        "recharge · rechargeable"
+      ],
+      [
+        "超过与加强",
+        "overcharge · supercharge"
+      ],
+      [
+        "charge → charges：装载、负担与费用",
+        "charge · charges"
+      ],
+      [
+        "charge → charged：收费、充电与被指控",
+        "charge · charged"
+      ],
+      [
+        "charge → discharge：装上负担与卸下、放出",
+        "charge · discharge · discharges · discharged · discharging"
+      ],
+      [
+        "charger → chargers：设备充电作用物",
+        "charge · charger · chargers"
+      ]
+    ],
+    "contrasts": "charge 收、pay 付；charger 设备、charging 过程；rechargeable 能力；in charge of 负责。",
+    "practice": "The rechargeable lamp is charging, but there is no extra charge.\n\n这盏充电灯正在充电，而且没有额外收费。",
+    "words": [
+      "charge",
+      "charger",
+      "charging",
+      "chargeable",
+      "recharge",
+      "rechargeable",
+      "overcharge",
+      "supercharge",
+      "charges",
+      "charged",
+      "discharge",
+      "discharges",
+      "discharged",
+      "discharging",
+      "chargers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2742",
+    "meaning": "触碰、打动、敏感与联系",
+    "core": "TOUCH：接触到物体，也能触动人心",
+    "image": "touch → touched、touching、untouched 挨着；touchy 另交代不确定历史，接试金石、触控板、边线。",
+    "intro": "法语触碰词进入英语，情感和联系义发展很早。touchy 可能受 touch 影响而从 tetchy 改形，不硬说一定由现代 touch 加 -y 新造。",
+    "forms": "touch → touched → untouched；touch → touching；touchy〔可能重析〕；touch + stone/pad/line；touchdown 已精讲共享。\n\n法语 tochier 经中古英语传入，接触扩展情感、联系和少量修饰。\n\npad 为操作面，screen 为显示面，两类可有交叠功能，按对象认识。",
+    "branches": [
+      [
+        "基本接触与情感",
+        "touch · touched · touching · untouched"
+      ],
+      [
+        "敏感与检验",
+        "touchy · touchstone"
+      ],
+      [
+        "设备与球场",
+        "touchpad · touchline · touchdown"
+      ],
+      [
+        "touch → touches：触及与恰到好处的一点润色",
+        "touch · touches"
+      ],
+      [
+        "touch 的触摸输入设备及复数",
+        "touch · touchpad · touchpads · touchscreen · touchscreens"
+      ]
+    ],
+    "contrasts": "touched 人被感动，touching 事物感人，touchy 易恼；touchpad 与 trackpad 常同类；touchstone 不等于 milestone。",
+    "practice": "The touching message left her deeply touched.\n\n这条感人的留言让她深受感动。",
+    "words": [
+      "touch",
+      "touched",
+      "touching",
+      "untouched",
+      "touchy",
+      "touchstone",
+      "touchpad",
+      "touchline",
+      "touchdown",
+      "touches",
+      "touchpads",
+      "touchscreen",
+      "touchscreens"
+    ],
+    "exclude": {
+      "high-touch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multi-touch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "touch-typist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

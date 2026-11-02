@@ -1,0 +1,141 @@
+"""Wind: moving air and the separate winding verb."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+A=[['古英语 wind → 中古英语 wind、wynd → wind /wɪnd/','流动的空气、风'],['现代风词族','天气、方向、挡风物；也联系呼吸、吹奏']]
+V=[['古英语 windan → 中古英语 winden → wind /waɪnd/','转动、缠绕、曲折行进'],['现代卷绕词族','wind—wound—wound；卷起、倒回、展开与放松']]
+def H(f,m):return A+[[f,m]]
+W('wind','风 /wɪnd/；缠绕动词 /waɪnd/','风、气流；呼吸；另源动词缠绕、转动',
+ '要先分两条路：风是空气在流动，缠绕是东西一圈圈转。拼写一样，常用读音、来源都不同。',
+ '风名词继承古英语 wind；缠绕动词继承古英语 windan。这是两条历史词族，不能把绕线说成被风吹才绕起来。',A+V,
+ 'a strong wind 大风，out of wind 喘不上气；wind a clock 给钟上发条，wind string around a stick 把线绕在棍上。风义相关动词如使喘不过气通常读 /wɪnd/。',
+ 'a strong wind；a gust of wind；wind a clock；wind around。',
+ 'wind /waɪnd/ 的过去式、分词 wound /waʊnd/；伤口 wound /wuːnd/ 是另一词，别按拼写套同音。',
+ ('A strong wind shook the windows.','大风把窗户吹得直晃。'),('Wind the string around the stick.','把线绕在棍子上。'))
+W('windy','/ˈwɪndi/','有风的；多风的',
+ '天气里风明显，或一个地方常刮风；讲的是风，不是道路弯不弯。',
+ 'wind /wɪnd/ + -y，形成天气、环境形容词。古英语已有相应多风形式，现代主流用法接空气词族。',H('wind + -y → windy','有风的'),
+ 'a windy day 大风天，a windy hilltop 多风的山顶；还可有空话多等较次要比喻用法，先掌握天气义。',
+ 'windy weather；a windy day；a windy hilltop。',
+ 'windy /ˈwɪndi/ 有风，winding /ˈwaɪndɪŋ/ 弯曲；一条路可以 winding，旁边天气也可能 windy。',
+ ('It was too windy to eat outside.','风太大，不适合在外面吃饭。'),('The hilltop is often cold and windy.','山顶经常又冷又多风。'))
+W('windswept','/ˈwɪndswept/','受风吹拂的；风大而空旷的；被风吹乱的',
+ '风直接扫过空地、海岸或头发，留下无遮无挡或被吹乱的感觉。',
+ 'wind 风 + swept，swept 是 sweep 扫过的过去分词，按被风扫过的画面组合。',H('wind + swept → windswept','被风扫过 → 受风吹拂、吹乱的'),
+ 'a windswept beach 风吹无遮的海滩，windswept hair 被风吹乱的头发；不是只表示此刻风速很大。',
+ 'a windswept beach；windswept hills；windswept hair。',
+ 'windy 直接说多风，windswept 更有风横扫地貌、头发的具体景象。',
+ ('They walked across a windswept beach.','他们走过一片风吹无遮的海滩。'),('She arrived with rosy cheeks and windswept hair.','她来时脸颊红红，头发被风吹乱了。'))
+W('windstorm','英 /ˈwɪndstɔːm/；美 /ˈwɪndstɔːrm/','风暴；强风天气',
+ '这场恶劣天气最突出的特点是强风，并不一定同时下大雨。',
+ 'wind + storm 风暴、强烈扰动，组合特指以风为主要特征的天气事件。具体风速等级另看当地定义。',H('wind + storm → windstorm','以强风为主的风暴'),
+ 'a severe windstorm 严重风暴，windstorm damage 风灾损失；不把所有 windstorm 都叫 hurricane 飓风。',
+ 'a severe windstorm；windstorm damage；after the windstorm。',
+ 'thunderstorm 雷暴强调雷电，windstorm 强调风；两种现象可以同场出现，却不是相同定义。',
+ ('The windstorm brought down several trees.','风暴吹倒了几棵树。'),('Crews repaired the roof after the windstorm.','风暴过后，工人修补了屋顶。'))
+W('windbreaker','英 /ˈwɪndbreɪkə/；美 /ˈwɪndbreɪkər/','防风夹克；轻便防风外套',
+ '穿一层衣服，让风别直接透到身上；名字把挡风说成打断风的冲击。',
+ 'wind 风 + breaker 阻挡、打断者。现代特别指轻便防风外套，美式常见；break 不是把风当实体砸碎。',H('wind + breaker → windbreaker','阻挡风的衣物 → 防风夹克'),
+ 'a lightweight windbreaker 轻便防风夹克，put on a windbreaker 穿上防风衣；防风不自动等于防水或保暖很厚。',
+ 'a lightweight windbreaker；a hooded windbreaker；wear a windbreaker。',
+ 'windbreaker 重点防风，raincoat 重点防雨；商品可能兼具功能，但词义侧重点不同。',
+ ('He packed a light windbreaker for the boat trip.','他为乘船旅行带了一件轻便防风夹克。'),('She zipped up her windbreaker as the breeze grew stronger.','风越来越大，她拉上了防风夹克的拉链。'))
+W('upwind','/ˌʌpˈwɪnd/','逆风的、逆风地；在上风处',
+ '往风吹来的方向走，或处在风先经过的位置；这里的 up 不是垂直往天上。',
+ 'up + wind，按沿来风方向的空间关系组合。可用作副词、形容词，或搭配 upwind of。',H('up + wind → upwind','朝来风方向；处在上风位置'),
+ 'sail upwind 逆风航行，upwind of the factory 在工厂上风处；要先知道风从哪边吹。',
+ 'sail upwind；upwind of；an upwind course。',
+ 'upwind 朝来风方向、上风处，downwind 顺风方向、下风处；不是地图上的北、南。',
+ ('The boat sailed slowly upwind.','船缓慢地逆风航行。'),('The campsite was upwind of the fire.','营地位于火堆的上风处。'))
+W('downwind','/ˌdaʊnˈwɪnd/','顺风的、顺风地；在下风处',
+ '沿风吹去的方向，或处在风带着气味、烟等到达的位置。',
+ 'down + wind，形成顺着风向、位于下风处的表达。down 表沿来流继续的方向，不是一定向低地。',H('down + wind → downwind','沿风去的方向；处在下风位置'),
+ 'sail downwind 顺风航行，downwind of the farm 在农场下风处；空间位置不随人的朝向改变。',
+ 'sail downwind；downwind of；a downwind leg。',
+ 'downwind 说方向或相对位置，tailwind 是从后面吹来、助你前行的那股风。',
+ ('The smell travelled downwind across the field.','气味顺风飘过田野。'),('The village lies downwind of the factory.','村庄位于工厂的下风处。'))
+W('windward','英 /ˈwɪndwəd/；美 /ˈwɪndwərd/','迎风的；向风的一侧',
+ '想象风先碰到山或船的哪一面，那就是迎风面。',
+ 'wind + -ward 朝向，组成面向来风的形容词、副词或相关方位名词。',H('wind + -ward → windward','朝风来的方向 → 迎风的、迎风面'),
+ 'the windward side 迎风面，a windward slope 迎风坡；常见于地理、航海描述。',
+ 'the windward side；a windward slope；to windward。',
+ 'windward 迎风面，leeward 背风面；upwind 更常直接说位置在上风、运动朝来风方向，实际用法可有重合。',
+ ('Rain clouds gathered on the windward side of the mountain.','雨云聚集在山的迎风面。'),('The windward side of the boat was wet with spray.','船的迎风一侧被浪花溅湿了。'))
+W('tailwind','/ˈteɪlwɪnd/','顺风；有利的推动因素',
+ '风从后面推着你走，省力、走得快；经济报道也借它说有利条件在帮忙。',
+ 'tail 后部、尾部 + wind，按来自后方的风命名，后来扩展成有利推动因素。',H('tail + wind → tailwind','从后吹来的风 → 有利推动因素'),
+ 'a strong tailwind 强顺风，economic tailwinds 经济中的有利条件；direction 要相对旅行者的前进方向看。',
+ 'a strong tailwind；economic tailwinds；benefit from tailwinds。',
+ 'tailwind 从后助推，headwind 迎面阻碍；downwind 则说顺风方向或下风位置，不一定是风本身的名词。',
+ ('A strong tailwind helped the cyclists reach the coast.','强劲顺风帮助骑行者到达海岸。'),('The industry benefited from several economic tailwinds.','这个行业受益于几项经济利好因素。'))
+W('windmill','/ˈwɪndmɪl/','风车；风力磨坊',
+ '让风推动叶片转，再利用转动做事；传统可以磨谷、抽水，外形因用途而异。',
+ 'wind 风 + mill 磨坊、研磨装置，先按风驱动磨坊的机制命名，后也用于其他类似风力机械及形似物。',H('wind + mill → windmill','风力驱动磨坊 → 风车等装置'),
+ 'an old windmill 老风车，windmill blades 风车叶片；现代发电设备更精确常说 wind turbine。',
+ 'an old windmill；windmill blades；a working windmill。',
+ 'windmill 的名字接 mill，不等于每一台今天都在磨面；wind turbine 重点是风力涡轮装置。',
+ ('The old windmill once ground grain for the village.','这座老风车曾为村里磨谷物。'),('The windmill’s sails turned slowly in the breeze.','风车的翼板在微风中缓缓转动。'))
+W('windsurfing','英 /ˈwɪndsɜːfɪŋ/；美 /ˈwɪndsɜːrfɪŋ/','帆板运动',
+ '人站在板上，板上立着帆，用风来带动前进；把风帆和冲浪板的画面放在一起。',
+ 'wind + surfing 冲浪活动，形成风力驱动的板类水上运动名称。相应动词 windsurf，运动者 windsurfer。',H('wind + surfing → windsurfing','利用风帆进行的板类运动 → 帆板'),
+ 'go windsurfing 去玩帆板，windsurfing lessons 帆板课程；名词一般不可数地指项目。',
+ 'go windsurfing；windsurfing lessons；windsurfing equipment。',
+ 'surfing 冲浪通常利用海浪，windsurfing 的风帆是关键特征；kitesurfing 则借风筝牵引。',
+ ('She took windsurfing lessons during the holiday.','她度假期间上了帆板课。'),('The bay is popular for windsurfing.','这个海湾是热门帆板运动地点。'))
+W('windshield','/ˈwɪndʃiːld/','汽车等的挡风玻璃',
+ '车向前走时，前方空气、雨水和杂物被这块玻璃挡在外面。',
+ 'wind 风 + shield 盾、防护物，按挡风保护作用命名。shield 是整体成分，不拆成几个无关字母。',H('wind + shield → windshield','挡风的防护物 → 挡风玻璃'),
+ 'a cracked windshield 开裂的挡风玻璃，windshield wipers 雨刷；美式英语常见。',
+ 'a cracked windshield；clean the windshield；windshield wipers。',
+ 'windscreen 是英式英语常见的对应词；两者主要是地区习惯，不是两种不同功能的汽车玻璃。',
+ ('Rain covered the windshield as the car slowed down.','汽车减速时，雨水布满了挡风玻璃。'),('The mechanic replaced the cracked windshield.','修理工更换了开裂的挡风玻璃。'))
+W('windscreen','/ˈwɪndskriːn/','挡风玻璃；挡风屏',
+ '一道挡住迎面来风的屏障；汽车语境最常直接说前挡风玻璃。',
+ 'wind + screen 屏障，按防护作用组合。screen 在这里不是显示视频的电子屏。',H('wind + screen → windscreen','挡风的屏障 → 挡风玻璃、挡风屏'),
+ 'a car windscreen 汽车挡风玻璃，windscreen wipers 雨刷；英式常见，也可指其他用途的挡风屏。',
+ 'a car windscreen；windscreen wipers；a misted windscreen。',
+ 'windscreen 与美式 windshield 对应；screen 的挡护义也见 sunscreen，都是按具体对象理解。',
+ ('The windscreen was covered in frost.','挡风玻璃上结满了霜。'),('She switched on the windscreen wipers.','她打开了雨刷。'))
+W('woodwind','/ˈwʊdwɪnd/','木管乐器；木管乐器组',
+ '一组通过吹气发声的管乐器类别；名称有历史材料背景，今天的成员不一定都用木头做。',
+ 'wood 木材 + wind 气流、吹奏，组合成为乐器分类名。按乐器家族、发声机制归类，不能只拿材料作现代判断。',H('wood + wind → woodwind','木制吹奏乐器的历史名称 → 木管乐器类'),
+ 'woodwind instruments 木管乐器，the woodwind section 乐队木管组；长笛、单簧管等都属此类。',
+ 'woodwind instruments；the woodwind section；a woodwind player。',
+ '现代金属长笛仍是木管乐器，不能见金属就自动叫 brass 铜管；分类不是只看外壳材料。',
+ ('The melody passes from the strings to the woodwind section.','旋律从弦乐组转到木管组。'),('She plays several woodwind instruments, including the flute.','她会演奏几种木管乐器，包括长笛。'),sources=['https://philharmonia.co.uk/resources/instruments/flute/','https://en.wiktionary.org/wiki/woodwind#English'])
+W('windpipe','/ˈwɪndpaɪp/','气管',
+ '空气往肺里进、从肺里出的通道；名字直接把呼吸中的空气想成流过管道。',
+ 'wind 空气、呼吸 + pipe 管子，日常英语中指气管。相应医学名词是 trachea。',H('wind + pipe → windpipe','空气通过的管道 → 气管'),
+ 'the windpipe 气管，a diagram of the windpipe 气管示意图；这是身体管道名称，不是体外吹奏乐器。',
+ 'the windpipe；a diagram of the windpipe；the windpipe and lungs。',
+ 'windpipe 通气，food pipe 食管通食物，不能因为都在颈部就当同一条管子。',
+ ('The diagram labels the windpipe and the lungs.','图中标出了气管和肺。'),('The textbook uses windpipe as the everyday word for trachea.','教材把 windpipe 作为 trachea 的日常叫法。'),sources=['https://www.cancer.gov/publications/dictionaries/cancer-terms/def/trachea','https://en.wiktionary.org/wiki/windpipe#English'])
+W('winding','/ˈwaɪndɪŋ/','弯曲、蜿蜒的；缠绕；线圈',
+ '走着走着就转弯，一路不是直线；也能把一圈圈绕成的线叫 winding。',
+ '取 wind /waɪnd/ 缠绕、曲折行进 + -ing。这里讲常见曲折与卷绕义，不混入风 /wɪnd/ 相关的同形较少见形式。',V+[['wind + -ing → winding /ˈwaɪndɪŋ/','曲折行进、绕卷 → 蜿蜒的；绕组']],
+ 'a winding road 蜿蜒道路，a winding staircase 盘旋楼梯；an electrical winding 可指电气绕组。',
+ 'a winding road；a winding river；a winding staircase。',
+ 'winding /ˈwaɪndɪŋ/ 弯曲，windy /ˈwɪndi/ 多风；The winding road is windy 两个词都可以出现，但意思不同。',
+ ('A winding road led up to the village.','一条蜿蜒山路通向村庄。'),('The electrician inspected the motor winding.','电工检查了电机绕组。'))
+W('rewind','动词 /ˌriːˈwaɪnd/；名词常 /ˈriːwaɪnd/','倒带；倒回播放位置',
+ '原来磁带往前卷着走，现在把它反着卷回去；数字视频也沿用倒回去的说法。',
+ 're- 回、再 + wind /waɪnd/ 卷绕。磁带义直接接转卷，现代回退播放不一定涉及实体带子。过去式、分词 rewound。',V+[['re- + wind → rewind','重新、向回卷绕 → 倒带、倒回']],
+ 'rewind the tape 倒带，rewind the video 倒回视频；名词如 press rewind 按倒带键。',
+ 'rewind the tape；rewind the video；press rewind。',
+ 'rewind 把播放位置退回，replay 再播放；先 rewind，再播放，就可能 replay 某一段。',
+ ('Could you rewind the video to the start of the interview?','能把视频倒回访谈开始的位置吗？'),('He rewound the tape and played it again.','他把磁带倒回去，又放了一遍。'))
+W('unwind','/ʌnˈwaɪnd/','解开卷绕；展开；放松',
+ '缠紧的线慢慢松开，人绷紧的状态也像线团一样舒展开来。',
+ 'un- 解除 + wind /waɪnd/ 缠绕，先是解开卷绕，再形象地说放松身心。过去式、分词 unwound。',V+[['un- + wind → unwind','解除缠绕 → 松开、放松']],
+ 'unwind a cable 展开卷着的电缆，unwind after work 下班后放松；放松义常不及物，不必硬找被解开的物件。',
+ 'unwind a cable；unwind after work；a place to unwind。',
+ 'unwind 可以只说身心放松，rewind 则侧重卷回、倒回；一个解除紧张，一个回退位置。',
+ ('She unwound the cable and plugged in the lamp.','她展开电缆，插上了灯。'),('I like to unwind with a book after work.','我喜欢下班后看书放松。'))
+R('B3011','风、气流与方向；另源的卷绕','WIND：先听读音，再辨流动空气与转圈缠绕','风 /wɪnd/ 一组讲天气、方向、挡风和吹气；卷绕 /waɪnd/ 一组讲弯曲、倒带和放松。',
+ '风名词继承古英语 wind，卷绕动词继承 windan。来源分开，不能用被风吹的故事代替真实区分。window、windfall、headwind、crosswind 已精讲，合并归看。',
+ 'wind /wɪnd/ → windy；wind + swept、storm、breaker、mill、shield、screen、pipe；wind /waɪnd/ → winding、rewind、unwind；过去分词 wound /waʊnd/。',
+ [['风与天气','wind · windy · windswept · windstorm'],['风向与运动帮助','upwind · downwind · windward · headwind · tailwind · crosswind'],['风能、运动与防护','windmill · windsurfing · windbreaker · windshield · windscreen · window'],['呼吸、吹奏与其他复合词','windpipe · woodwind · windfall'],['另源卷绕动词','winding · rewind · unwind']],
+ 'windy 多风，winding 弯曲；wound 卷绕过去式 /waʊnd/ 与伤口 /wuːnd/ 不同。windward 迎风，downwind 下风处。',
+ 'We followed a winding road on a windy day.\n\n我们在一个多风的日子，沿着一条蜿蜒道路前行。',
+ 'wind windy windswept windstorm upwind downwind windward headwind tailwind crosswind windmill windsurfing windbreaker windshield windscreen window windpipe woodwind windfall winding rewind unwind')
+if __name__=='__main__':save('continuation_20261029_dv',ROOTS,WORDS)

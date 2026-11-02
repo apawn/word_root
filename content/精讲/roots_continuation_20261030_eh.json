@@ -1,0 +1,169 @@
+[
+  {
+    "id": "B3690",
+    "meaning": "技术长词的口语简称与技术人物",
+    "core": "TECH：把长的技术名称缩短，放进日常话里",
+    "image": "tech → techie、techy；biotech、cleantech 说明技术所属领域。",
+    "intro": "tech 是截短，不是把每个含技术的长词都重新拆成 t + ech；techie 和 techy 的人物、性质位置先分清。",
+    "forms": "tékhnē 等 → technology 等 → tech；tech + -ie/-y；bio-/clean + tech。",
+    "branches": [
+      [
+        "简称、人物和性质",
+        "tech · techie · techy"
+      ],
+      [
+        "技术领域",
+        "biotech · cleantech"
+      ]
+    ],
+    "contrasts": "techie/techy 人物与形容；biotech 生物技术，cleantech 清洁技术领域。",
+    "practice": "The techie explained the techy details in simple language.\n\n那位技术人员用简单话解释了技术细节。",
+    "words": [
+      "tech",
+      "techie",
+      "techy",
+      "biotech",
+      "cleantech"
+    ],
+    "exclude": {
+      "tech-head": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hi-tech": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-tech": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tech-savvy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3522",
+    "meaning": "把坏结果的责任归给某人、某因",
+    "core": "BLAME：责任这支箭指向谁",
+    "image": "blame → blaming、blameless，从归责动作到无过错状态。",
+    "intro": "blame 不只是批评口气，更在说谁该为坏结果负责；blameless 可限于眼前这件事。",
+    "forms": "希腊责骂词族经拉丁、法语 → blame；blame 去 e + -ing；blame + -less。\n\n法语 blasmer 接拉丁、希腊责骂词族，现代去 e 加完整 ed。\n\n法语 blasmer 等较长形式经历史变化成为 blame，过去较强的责骂材料进入现代归责，不按英语字母随意硬拆。",
+    "branches": [
+      [
+        "归责及无过错",
+        "blame · blaming · blameless"
+      ],
+      [
+        "blame → blamed：把过错归到某人身上",
+        "blame · blamed"
+      ],
+      [
+        "blame → blames：归责于某人",
+        "blame · blames"
+      ]
+    ],
+    "contrasts": "blame someone for 与 blame something on 换焦点；be to blame 该负责；blameless 不代表一生完美。",
+    "practice": "Stop blaming her; she was blameless in this matter.\n\n别再责怪她了，她在这件事上没有过错。",
+    "words": [
+      "blame",
+      "blaming",
+      "blameless",
+      "blamed",
+      "blames"
+    ],
+    "exclude": {
+      "victim-blame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2573",
+    "meaning": "黄色本身与借颜色命名",
+    "core": "YELLOW：先看颜色，再看颜色落在哪个部位",
+    "image": "yellow → yellowish；yellowfin、yellowtail 按鳍、尾的外观命名。",
+    "intro": "鱼名不是把整条鱼涂成黄；通俗名称与严格物种名称也有区别。yellow 的胆怯、新闻固定搭配另看语境。",
+    "forms": "ġeolu、ġeolwe 经中古英语 → yellow；yellow + -ish；yellow + fin/tail。",
+    "branches": [
+      [
+        "基础颜色与略带黄",
+        "yellow · yellowish"
+      ],
+      [
+        "鱼名的外观特征",
+        "yellowfin · yellowtail"
+      ]
+    ],
+    "contrasts": "yellow/yellowish 程度不同；yellowfin/yellowtail 不是同鱼随意换名；fin 鳍与 tail 尾部分清。",
+    "practice": "The yellowish label showed a picture of a yellowfin tuna.\n\n微黄色标签上画着一条黄鳍金枪鱼。",
+    "words": [
+      "yellow",
+      "yellowish",
+      "yellowfin",
+      "yellowtail"
+    ],
+    "exclude": {
+      "yellow-red": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yellow-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yellow-orange": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yellow-bellied": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3964",
+    "meaning": "把原有空缺补上",
+    "core": "FILL：空的地方放进相应的东西",
+    "image": "fill → filler；refill 再补，infill 往现有空档补，landfill、backfill 看具体材料和方向。",
+    "intro": "从杯子、墙洞到信息栏、职位空缺，都保留空处得到补足的画面。full 状态与 fill 动作搭配理解。",
+    "forms": "full 词族 → 古英语 fyllan/fyllu → fill；fill + -er；re-/in-/back-/land + fill。\n\n与 full 同族的使满动词，英语过去形式只加 ed，不再多写 l。\n\n古英语 fyllan，与 full 同族；ing 名词可指馅料、填料等。",
+    "branches": [
+      [
+        "基础与填充物",
+        "fill · filler"
+      ],
+      [
+        "再补、补进与回填",
+        "refill · infill · backfill · landfill"
+      ],
+      [
+        "fill → filled：装满、填上与充满感受",
+        "fill · filled"
+      ],
+      [
+        "fill → filling：把空处补上与放进去的东西",
+        "fill · filling"
+      ]
+    ],
+    "contrasts": "fill/full 动作状态；refill/replace 补内容与换对象；infill、landfill、backfill 场景不同。",
+    "practice": "Refill the bottle, then use filler to close the gap.\n\n把瓶子再装满，然后用填料封住空隙。",
+    "words": [
+      "fill",
+      "filler",
+      "refill",
+      "infill",
+      "backfill",
+      "landfill",
+      "filled",
+      "filling"
+    ],
+    "exclude": {
+      "in-fill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4551",
+    "meaning": "连接完成的状态与联系感",
+    "core": "CONNECTED：实体接上，也可事情相关、人与人有联系",
+    "image": "connected → unconnected、connectedness；interconnected 彼此交连。",
+    "intro": "能接通、有关联、有人际联系是不同场景，不是所有 connected 都在说插上电线。",
+    "forms": "con- + nectere → connect；connect + -ed；un- + connected；connected + -ness；inter- + connected。",
+    "branches": [
+      [
+        "相连及其否定、状态名词",
+        "connected · unconnected · connectedness"
+      ],
+      [
+        "彼此交连",
+        "interconnected"
+      ]
+    ],
+    "contrasts": "unconnected 不一定曾连过；disconnected 可断开；connectedness 不是简单联系人数量。",
+    "practice": "The interconnected groups created a sense of connectedness.\n\n彼此往来的小组让成员产生了联系感。",
+    "words": [
+      "connected",
+      "unconnected",
+      "connectedness",
+      "interconnected"
+    ],
+    "exclude": {}
+  }
+]

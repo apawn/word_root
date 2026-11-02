@@ -1,0 +1,151 @@
+"""Alpha, burden, mason, swift, controversial and trigger."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+R('B3233','第一位希腊字母，扩作开始、序列和阶段标记','ALPHA：先是字母名称，再按约定标记第一、早期阶段','alpha；alphabet 历史由 alpha + beta 两个字母名称组成。',
+ '字母在序列排第一，所以能借作开始、早期版本等标记。科学符号、软件阶段里的具体含义，还要看领域约定。',
+ '腓尼基、希伯来相关字母名 aleph → 希腊 alpha → 拉丁、英语 alpha；alpha + beta → alphabet。',
+ [['字母与字母表名称','alpha · beta · alphabet']],
+ 'alpha 不表示在所有对象上都是最好、最强；alpha test 是阶段名称。',
+ 'The alpha version is ready for early testing.\n\nalpha 版本已经可以进行早期测试。','alpha beta alphabet')
+B=[['古英语 byrden、byrþen → 中古英语 birden 等 → burden','承载的东西、负重；联系 bear 承载词族'],['重物 → 责任、压力','需要承担、令人忧虑的负担'],['后缀与前缀','burdensome 形成负担；overburden 负担过度，另有地质覆盖层名词']]
+W('burden','英 /ˈbɜːdən/；美 /ˈbɜːrdən/','负担、重负；责任压力；使承受负担',
+ '背上的重物让人吃力，责任、忧虑、成本也能像压在肩上的东西，所以都可以 burden。',
+ '承古英语 byrden、byrþen，经中古英语相关形式传下，联系 bear 承载的词族。音乐里反复句、主题的旧同形词另经法语 bordon 等，不用重物义包办。',B[:2],
+ 'carry a burden 背负重担，a financial burden 经济负担，the burden of proof 举证责任，burden someone with problems 把问题压给某人。',
+ 'carry a burden；the burden of；burden someone with。',
+ 'burden 强调承担的重量、压力，不只是中性的 task 任务。不同领域的 burden of proof 是固定术语，具体规则不由词源决定。',
+ ('The heavy bags became a burden on the long walk.','长途步行中，沉重的包成了负担。'),('She did not want to burden her friends with every worry.','她不想把每件烦心事都压给朋友。'))
+W('burdensome','英 /ˈbɜːdənsəm/；美 /ˈbɜːrdənsəm/','繁重、造成负担的',
+ '手续、费用、任务把人压得费力，形容它们带来负担，就用 burdensome。',
+ 'burden + -some，后缀形成带来这种状态、具有这种性质的形容词。不是 some 几个负担的数量短语。',B[:2]+[['burden + -some → burdensome','带来重负、费力的性质']],
+ 'burdensome paperwork 繁重文书工作，burdensome costs 沉重开支，a burdensome task 繁重任务。',
+ 'burdensome paperwork；a burdensome task。',
+ 'burdensome 评价负担感，不能只因某项工作存在，就推定它一定无价值、应取消。',
+ ('The new form made the paperwork less burdensome.','新表格让文书工作没那么繁重。'),('Frequent travel became burdensome for the small team.','频繁出差成了这个小团队的沉重负担。'))
+W('overburden','动词：英 /ˌəʊvəˈbɜːdən/、美 /ˌoʊvərˈbɜːrdən/；名词：英 /ˈəʊvəbɜːdən/、美 /ˈoʊvərbɜːrdən/','使负担过重；覆盖层〔地质、采矿名词〕',
+ '工作压得超过承受能力，是 overburden 动词；矿层上面盖着的岩土，则像压在上面的物质，固定称 overburden 名词。',
+ 'over- + burden。动词 over- 强调过度，名词 over- 强调覆盖在上面，形成不同重音和用法。',B[:2]+[['over- + burden → overburden','负担过度的动作；矿层上方覆盖物的名词']],
+ 'overburden the staff 让员工负担过重，overburdened services 不堪重负的服务系统，remove overburden 移除覆盖层〔地质语境〕。',
+ 'overburden the staff；an overburdened team；overburden above a deposit。',
+ '名词覆盖层不表示员工太忙，动词负担过重不一定涉及矿石。辨词性、重音和对象。',
+ ('Extra paperwork would overburden the team.','额外文书工作会让团队负担过重。'),('The diagram shows overburden above the coal seam.','图解显示煤层上方的覆盖层。'))
+R('B3176','把重量背在身上，扩到责任、忧虑与覆盖物','BURDEN：需要承受的重量，可以是实物也可以是责任','burden → burdensome；overburden 动词负担过度，名词看上方覆盖层。',
+ '担子这幅画面足够串起常用义。地质名词再按位置理解，重音和普通动词也有区别。',
+ 'byrden 等 → burden，联系承载词族；-some 性质，over- 过度或在上面。',
+ [['负担与性质','burden · burdensome'],['过重与上方覆盖物','overburden']],
+ 'burden 比 task 更强调压力；overburden 名词和动词重音、意思不同。',
+ 'The burdensome process threatened to overburden the small office.\n\n繁重流程使小办公室面临不堪重负的局面。','burden burdensome overburden')
+M=[['古法语 maçon、masson 等 → 中古英语 masoun → mason','石工、砖石建筑工；更早有日耳曼、拉丁相关分析'],['职业、手艺与作品','masonry 石工、砖石砌体；masonic 相应性质'],['freemason 与现代社团名称','石匠身份词的历史 → 共济会成员；free 的最初缘由有讨论']]
+W('mason','/ˈmeɪsən/','石匠、砖石建筑工；共济会成员〔通常大写 Mason〕',
+ '切石、修整石块、砌筑砖石的人是 mason。大写 Mason 也可特指共济会成员，今天不要求他的职业就是砌石头。',
+ '经中古英语 masoun 借古法语 maçon、masson 等。更早可能联系日耳曼制造词族，也有拉丁形式影响的分析；不是现代把某个 ma 词根加 -son 儿子。',M[:2],
+ 'a skilled mason 熟练石匠，work as a mason 从事砖石工，a Master Mason 共济会中的相应身份名称。Mason 作姓氏时还要按人名理解。',
+ 'a skilled mason；work as a mason。',
+ 'mason 职业范围可涉及石、砖等，stonemason 更明确强调石材。Mason jar 则是按发明者姓氏命名的玻璃罐，不是石匠拿来砌墙的罐子。',
+ ('The mason repaired the stone arch.','石匠修补了石拱。'),('The project needs an experienced mason.','项目需要一位有经验的砖石工。'),sources=['https://en.wiktionary.org/wiki/mason#English','https://www.etymonline.com/word/mason'])
+W('masonry','/ˈmeɪsənri/','石工、砖石工艺；砖石砌体；共济会〔Masonry〕',
+ 'mason 是人，masonry 可以是这门手艺，也可以是砌出来的墙体、结构。大写时又可用作共济会相关制度、活动的称呼。',
+ '中古英语 masonry、masonrie，既受法语 maçonerie 等影响，也可按 mason + -ry 分析。后缀命名工艺、工作或相应产物。',M[:2]+[['mason + -ry／法语 maçonerie → masonry','工艺、砌出的结构；固定社团用法']],
+ 'stone masonry 石砌体，damaged masonry 受损砖石结构，learn masonry 学砖石工艺。普通建筑用法通常不可数。',
+ 'stone masonry；damaged masonry；masonry work。',
+ 'masonry 不是 mason 的普通复数。几位石匠是 masons；他们完成的砖石工、砌体可叫 masonry。',
+ ('The old masonry needs careful repair.','旧砖石结构需要细心修补。'),('She took a course in traditional masonry.','她学了一门传统砖石工艺课程。'))
+W('masonic','英 /məˈsɒnɪk/；美 /məˈsɑːnɪk/','共济会的；石工、砖石工艺的',
+ '现代常见 Masonic hall、Masonic symbols，是在说共济会场所、符号。较宽的词源关系仍接 mason 石匠及其工艺。',
+ 'mason + -ic，元音和重音变化：mason 前重音 /meɪ/，masonic 常后移为 /ˈsɒn/、/ˈsɑːn/。',M[:1]+[['mason + -ic → masonic','石匠、工艺相关；现代常见共济会相关']],
+ 'a Masonic hall 共济会会堂，Masonic symbols 共济会符号，Masonic records 共济会档案。机构语境常大写 M。',
+ 'a Masonic hall；Masonic symbols；Masonic records。',
+ 'Masonic 不是 magical 魔法的同义词；具体符号、组织含义要按历史、机构资料解释，不能从字面石匠推测所有活动。',
+ ('The archive contains old Masonic records.','档案馆保存着旧共济会记录。'),('The tour includes a visit to a Masonic hall.','参观路线包括一座共济会会堂。'))
+W('freemason','英 /ˈfriːmeɪsən/；美 /ˈfriːmeɪsən/','共济会成员〔通常写 Freemason〕；特定历史石匠身份',
+ '今天最常见是社团成员名称，保留石匠传统的象征。历史上相关称呼涉及石匠身份，不能把现代所有成员都当建筑工。',
+ 'free + mason，14世纪已有相关石匠名称。free 的最初含义有不同解释，涉及自由身份、石材工作等；后来社团用法固定，具体来源不硬定一说。',M[:1]+[M[2]],
+ 'a Freemason 共济会成员，a lodge of Freemasons 共济会分会。现代通常大写，历史职业讨论可见小写。',
+ 'a Freemason；a lodge of Freemasons。',
+ 'free 在这个历史名称里不等于免费干活；现代 Freemason 也不是所有石匠的统称。',
+ ('The biography notes that he was a Freemason.','传记提到他是一名共济会成员。'),('The museum displays objects donated by local Freemasons.','博物馆展出当地共济会成员捐赠的物品。'),sources=['https://en.wiktionary.org/wiki/freemason#English','https://www.etymonline.com/word/freemason','https://www.ugle.org.uk/discover-freemasonry/what-is-freemasonry'])
+W('freemasonry','英 /ˈfriːmeɪsənri/；美 /ˈfriːmeɪsənri/','共济会、共济会制度与活动；默契、相通感〔比喻〕',
+ 'Freemasonry 是相应社团、传统和活动的整体名称；小写普通用法还可借成员间相通的形象，说一群人的默契、共同理解。',
+ 'freemason + -ry。由成员、职业相关名称形成整体、制度、活动名词，再有群体默契的比喻。',M[:1]+[['freemason + -ry → Freemasonry／freemasonry','社团、传统、活动；成员间默契的比喻']],
+ 'the history of Freemasonry 共济会历史，a sense of freemasonry 一种心照不宣的默契〔文学用法〕。现代社团讨论大写很常见。',
+ 'the history of Freemasonry；a sense of freemasonry。',
+ 'Freemason 是成员，Freemasonry 是整体、传统、活动等。词源中的石匠象征不直接规定现代成员职业。',
+ ('The exhibition traces the history of Freemasonry.','展览追溯共济会的历史。'),('A quiet freemasonry seemed to unite the veteran sailors.','老水手们之间似乎有一种默契，把他们连在一起。'),sources=['https://en.wiktionary.org/wiki/freemasonry#English','https://www.ugle.org.uk/discover-freemasonry/what-is-freemasonry'])
+R('B3184','石匠职业、砖石工艺和产物，再到保存石匠象征的社团词','MASON：人物、工艺、作品与社团要分层看','mason → masonry、masonic；free + mason → Freemason → Freemasonry；stonemason 明确石材工匠。',
+ '历史象征能解释社团名称，现代成员却不必从事石工。构词后缀再帮助区分人物、工艺、整体与性质。',
+ 'maçon 等 → mason；-ry 工艺、产物、整体，-ic 性质；free 的最初命名含义有讨论。',
+ [['职业、工艺与砌体','mason · stonemason · masonry'],['成员、整体与性质','freemason · freemasonry · masonic']],
+ 'masonry 不等于 masons；masonic 读音变；现代 Freemason 不必是石匠，free 不直译免费。',
+ 'The mason examined the old masonry beside the Masonic hall.\n\n石匠查看了共济会会堂旁的旧砖石结构。','mason stonemason masonry freemason freemasonry masonic')
+S=[['古英语 swift → 中古英语 swift → swift','快速、敏捷'],['性质转为名称','快速行动；因飞行迅速命名的雨燕等'],['后缀扩展','swiftly 迅速地；swiftness 速度、迅捷性']]
+W('swift','/swɪft/','迅速、敏捷的；雨燕',
+ '动作一出就快、决定很快落实，可以 swift。鸟名 swift 则借它迅速飞行的特征，通常指雨燕。',
+ '古英语 swift 经中古英语传下，联系快速移动的旧日耳曼词族。名词雨燕从迅速的性质命名，不是所有飞得快的鸟都叫 swift。',S[:2],
+ 'a swift response 迅速回应，swift action 迅速行动，a swift river 急流，swifts overhead 头顶飞过的雨燕。',
+ 'a swift response；swift action；a swift river。',
+ 'swift 与 fast 有重叠，swift action 常更书面、有果断迅捷感；雨燕 swift 与燕子 swallow 是不同鸟类名称。',
+ ('The team’s swift response prevented a long delay.','团队迅速回应，避免了长时间延误。'),('Swifts circled above the rooftops.','雨燕在屋顶上空盘旋。'))
+W('swiftly','/ˈswɪftli/','迅速地、敏捷地',
+ '把动作做得快而利落，就是 swiftly；可以形容水流、人、事件进展。',
+ '承古英语 swiftlīce 等，现代对应 swift + -ly。由性质形成方式副词。',S[:1]+[['swiftlīce 等 → swiftly；现代 swift + -ly','以迅速、敏捷的方式']],
+ 'move swiftly 迅速移动，act swiftly 迅速行动，change swiftly 迅速变化。',
+ 'move swiftly；act swiftly。',
+ 'swiftly 只说明速度、方式，不自动等于准确或有效。quickly 是更日常、范围广的近义词。',
+ ('She moved swiftly through the crowd.','她迅速穿过人群。'),('The weather changed swiftly during the afternoon.','下午天气变化很快。'))
+W('swiftness','/ˈswɪftnəs/','迅速、敏捷；速度',
+ '把动作快这一点单独拿出来谈，就是 swiftness。the swiftness of the reply 说回复来得有多快。',
+ '承古英语 swiftnes、中古英语 swiftnesse 等，现代对应 swift + -ness。',S[:1]+[['swiftnes 等 → swiftness；现代 swift + -ness','迅速的性质、程度']],
+ 'the swiftness of the response 回应的迅速，surprising swiftness 令人意外的速度。常见于较书面表达。',
+ 'the swiftness of the response；with surprising swiftness。',
+ 'swiftness 是名词，swiftly 是副词；前者谈速度性质，后者修饰动作。',
+ ('The swiftness of the decision surprised us.','决定作出得那么快，让我们吃惊。'),('The river carried the leaves away with surprising swiftness.','河水以惊人的速度把叶子带走。'))
+R('B3959','快速移动、及时行动的性质，以及按飞行特征命名的鸟','SWIFT：一面是快，一面是雨燕的固定名称','swift → swiftly、swiftness。',
+ '形容词、方式副词、性质名词可放一条线上；雨燕则是按特征命名后固定下来的动物词。',
+ '古英语 swift、swiftlīce、swiftnes → 现代对应词；-ly 方式，-ness 性质。',
+ [['性质、鸟名与派生','swift · swiftly · swiftness']],
+ 'swift action 可书面表达迅速果断；swift 与 swallow 鸟名不同；快不自动等于正确。',
+ 'The swift response showed how swiftly the team could work.\n\n迅速回应展现了团队行动可以多么快捷。','swift swiftly swiftness')
+C=[['controversy 争论、争议 → controversial','引起分歧、争论的性质'],['un- + controversial → uncontroversial','没有多少争议、容易获得一致认可']]
+W('uncontroversial','英 /ˌʌnkɒntrəˈvɜːʃəl/；美 /ˌʌnkɑːntrəˈvɜːrʃəl/','没有争议的、不太引起分歧的',
+ '一个事实、步骤大家基本都接受，没什么争吵，可以 uncontroversial。它评价争议程度，不是宣称观点永远正确。',
+ 'un- 不 + controversial 有争议的。否定的是引起分歧这一性质。',C,
+ 'an uncontroversial fact 没有争议的事实，an uncontroversial proposal 不太引起分歧的提议，relatively uncontroversial 相对没有争议。',
+ 'an uncontroversial fact；a relatively uncontroversial proposal。',
+ 'uncontroversial 不等于 trivial 微不足道；重要事项也可能得到广泛认同。没有争议的范围还要看哪些人、什么背景。',
+ ('The first part of the proposal was relatively uncontroversial.','提案第一部分相对没什么争议。'),('They began with an uncontroversial statement of the facts.','他们先陈述了一段没有争议的事实。'))
+R('B4329','引起分歧与没有多少分歧的性质','CONTROVERSIAL：看人们是否容易产生争论','controversial → controversially；uncontroversial 否定争议性质。',
+ '争议程度与真假、重要程度不是同一条尺度。先看句子是在呈现事实还是说明人们的分歧。',
+ 'controversy + -al → controversial；-ly 副词，un- 否定。',
+ [['性质、方式与否定','controversial · controversially · uncontroversial']],
+ 'controversial 不自动错误，uncontroversial 不自动不重要；争议可随群体、语境变化。',
+ 'An uncontroversial introduction led into the controversial proposal.\n\n没有争议的引言之后，是那个引起分歧的提案。','controversial controversially uncontroversial')
+T=[['荷兰 trekken 拉 → trekker 拉动装置 → 英语 tricker、trigger','使机关启动的部件'],['名词 → 动词的触发比喻','一点动作、事件引出后续反应'],['分词与性质用法','triggered 被触发、被激起；triggering 触发过程或引发反应的性质']]
+W('trigger','英 /ˈtrɪɡə/；美 /ˈtrɪɡər/','扳机、启动装置；触发因素；引发、触发',
+ '轻轻动一个部件，后面整套机构开始动作；事件里一个小因素启动连锁反应，也可叫 trigger、作动词 trigger。',
+ '早期拼 tricker，借荷兰 trekker，由 trekken 拉形成装置名称。名词的启动机制再比喻成引发事件、反应的动词。',T[:2],
+ 'trigger an alarm 触发警报，trigger a reaction 引起反应，a trigger for change 促成变化的触发点，a trigger for memories 唤起记忆的因素。',
+ 'trigger an alarm；trigger a reaction；a trigger for change。',
+ 'trigger 常是使反应开始的直接因素，不一定解释全部深层原因。情绪语境也能说引发强烈、常为负面的反应。',
+ ('The smoke triggered the alarm.','烟触发了警报。'),('One small change triggered a series of improvements.','一个小变化带动了一连串改进。'),sources=['https://en.wiktionary.org/wiki/trigger#English','https://www.etymonline.com/word/trigger'])
+W('triggered','英 /ˈtrɪɡəd/；美 /ˈtrɪɡərd/','被触发的；被激起强烈情绪反应的',
+ '装置被某个条件启动，或者某种记忆、感受被强烈唤起，triggered 都看已经发生的反应状态。',
+ 'trigger + -ed，末尾读 /d/。从机械、事件触发扩展到人的情绪反应；网络口语有时又泛说被激怒。',T[:2]+[['trigger + -ed → triggered','被启动；强烈反应已被激起']],
+ 'be triggered by smoke 被烟触发，feel triggered by a scene 被某场景激起强烈不适。网络中带嘲弄的用法，要另看说话者态度。',
+ 'be triggered by；a triggered response。',
+ 'triggered 既可普通说系统启动，也可谈强烈情绪。仅见这个词，不足以推定某人有特定诊断。',
+ ('The alarm was triggered by smoke from the kitchen.','警报由厨房的烟触发。'),('She felt triggered by the disturbing scene.','那个令人不安的场景激起了她的强烈不适。'))
+W('triggering','英 /ˈtrɪɡərɪŋ/；美 /ˈtrɪɡərɪŋ/','触发、引发；可能激起强烈不适反应的',
+ '触发这一过程可叫 triggering；形容场景、内容时，它又可说容易把某人的强烈痛苦反应勾出来。',
+ 'trigger + -ing，形成分词、过程名词和相应性质用法。词尾是 -ing，trigger 本身的词干保留。',T[:2]+[['trigger + -ing → triggering','触发过程；引发反应的性质']],
+ 'triggering the alarm 触发警报，triggering content 可能引发强烈不适的内容。对象、条件不同，反应也不同。',
+ 'triggering the alarm；triggering content。',
+ 'triggering 说引发反应的过程、性质，triggered 更侧重已经受到影响的状态；不是所有难看、不同意的内容都自动具有相同影响。',
+ ('The sensor is responsible for triggering the alarm.','传感器负责触发警报。'),('Some viewers found the scene triggering.','一些观众觉得那个场景会引发强烈不适。'))
+R('B4530','启动一个机制，扩到事件与情绪反应的触发','TRIGGER：小触点开启后续反应','trigger → triggered、triggering。',
+ '启动装置、事件导火点、情绪触发都有开始反应的共同点。它通常说直接触发因素，不一定说明全部原因。',
+ 'trekken 拉 → trekker → tricker、trigger；-ed 已触发状态，-ing 过程、性质。',
+ [['装置、因素与动作','trigger'],['被触发与引发反应','triggered · triggering']],
+ 'trigger 不必是全部根本原因；triggered 可说系统或情绪；triggering 的反应依对象不同。',
+ 'The sensor triggered the alarm, and the triggered warning stopped the test.\n\n传感器触发了警报，启动的警示让测试停止。','trigger triggered triggering')
+if __name__=='__main__':save('continuation_20261030_kz',ROOTS,WORDS)

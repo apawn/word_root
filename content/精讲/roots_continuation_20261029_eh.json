@@ -1,0 +1,114 @@
+[
+  {
+    "id": "B3021",
+    "meaning": "容器、机器与空间比喻；另源拳击",
+    "core": "BOX：装东西的空间；拳击另起一条历史线",
+    "image": "容器先按用途学，再看数字空间、机器和人物比喻；boxing、boxer 单列击打来源。",
+    "intro": "容器词接古英语及更早拉丁、木盒相关历史；击打词远源不明。不是一个方形盒子发明了拳击，也不能把每个复合词都按现代电子设备理解。",
+    "forms": "box → boxy、unbox；in、mail、tool、lunch、shoe、match、gear、juke、sand、soap、ice、lock、chatter、beat、tinder + box；击打 box → boxing、boxer。\n\n容器词接古英语及拉丁相关木盒词，拳击动词的旧一击词来源另辨。\n\nx 后加 es，实际复数读 iz；抽象工具集义由容纳工具的实物扩大。\n\n实物文件盒、托盘的用途转入电子邮件；outbox 与已发送邮件的栏目要按实际系统区分。\n\nbox 是框状区域，不是收件箱这种容器用途。\n\n框状区域是 box 的一种用途，不是邮件收件容器的同义名称。\n\nbox 给设备外壳、器具；juke 接美国 Gullah 与音乐娱乐场所背景，更远非洲来源的具体分析未定。\n\n与 box 比较收纳功能，不是 box 的派生。bin 承古英语 binne 篮、槽等，远源未定，有凯尔特来源分析；现代垃圾桶只是容器的一种。",
+    "branches": [
+      [
+        "核心、形状与开箱",
+        "box · boxy · unbox"
+      ],
+      [
+        "装物与工具",
+        "toolbox · lunchbox · shoebox · matchbox · icebox · lockbox · pillbox"
+      ],
+      [
+        "邮件与界面空间",
+        "inbox · mailbox · letterbox · checkbox · sandbox · lightbox"
+      ],
+      [
+        "机械与音乐装置",
+        "gearbox · jukebox · beatbox"
+      ],
+      [
+        "演说、人物与紧张局面",
+        "soapbox · chatterbox · tinderbox"
+      ],
+      [
+        "交通与另源拳击",
+        "boxcar · boxing · boxer"
+      ],
+      [
+        "box → boxes：盒与装盒；拳击另有词族",
+        "box · boxes"
+      ],
+      [
+        "toolbox → toolboxes：工具箱与资源集合",
+        "box · toolbox · toolboxes"
+      ],
+      [
+        "box 的收件、发件容器组合",
+        "box · inbox · inboxes · outbox · outboxes"
+      ],
+      [
+        "box 的表单勾选框及复数",
+        "checkbox · checkboxes"
+      ],
+      [
+        "box 的文字框区域义",
+        "box · textbox · textboxes"
+      ],
+      [
+        "jukebox → jukeboxes：点选录音的自动唱机",
+        "jukebox · jukeboxes"
+      ],
+      [
+        "bin：存放东西的容器，到垃圾桶、丢弃",
+        "bin · bins · binned · binning"
+      ]
+    ],
+    "contrasts": "boxing 拳击与 boxing goods 装箱不同历史分支；soapbox 演说，tinderbox 易爆发；sandbox 软件隔离不等于绝对安全保证。",
+    "practice": "The chatterbox found a soapbox whenever the conversation turned to politics.\n\n一聊到政治，那个话匣子就开始发表一通主张。",
+    "words": [
+      "box",
+      "boxy",
+      "unbox",
+      "toolbox",
+      "lunchbox",
+      "shoebox",
+      "matchbox",
+      "icebox",
+      "lockbox",
+      "pillbox",
+      "inbox",
+      "mailbox",
+      "letterbox",
+      "checkbox",
+      "sandbox",
+      "lightbox",
+      "gearbox",
+      "jukebox",
+      "beatbox",
+      "soapbox",
+      "chatterbox",
+      "tinderbox",
+      "boxcar",
+      "boxing",
+      "boxer",
+      "boxes",
+      "toolboxes",
+      "inboxes",
+      "outbox",
+      "outboxes",
+      "checkboxes",
+      "textbox",
+      "textboxes",
+      "jukeboxes",
+      "bin",
+      "bins",
+      "binned",
+      "binning"
+    ],
+    "exclude": {
+      "knowledge-box": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spring-box": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dropbox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firebox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skybox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "boxwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

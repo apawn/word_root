@@ -1,0 +1,334 @@
+[
+  {
+    "id": "B3795",
+    "meaning": "避开；防止某事发生",
+    "core": "AVOID：让自己与不想碰到的对象错开",
+    "image": "avoid a puddle 绕开水坑；avoid a mistake 则是设法别犯错。前者是空间错开，后者把同样的关系放到结果上。",
+    "intro": "avoid 经中古英语、法语相应形式，较早与倒空、清除相关，词族最终连接拉丁 vacuus 空的。现代避开义逐渐固定，不从 a + 一个现代独立词 void 机械造出所有义。",
+    "forms": "avoid + -ance → avoidance；avoid + -able → avoidable；avoid + -ant → avoidant。后缀分别说动作、可能性、倾向性质。\n\n古法语、盎格鲁诺曼相关词曾有清空、离开材料；现代避开与避免用法分清。",
+    "branches": [
+      [
+        "基本回避与动作名词",
+        "avoid · avoidance"
+      ],
+      [
+        "可以避免与回避倾向",
+        "avoidable · avoidant"
+      ],
+      [
+        "avoid → avoided、avoiding：清空旧义走向避开",
+        "avoid · avoided · avoiding"
+      ]
+    ],
+    "contrasts": "avoid doing something，不用 avoid to do；avoidable 可以避免与 inevitable 无法避免相对；avoidant 的具体专门用法按语境学。",
+    "practice": "Careful planning can help us avoid avoidable delays.\n\n仔细规划能帮助我们避开本来可以避免的耽搁。",
+    "words": [
+      "avoid",
+      "avoidance",
+      "avoidable",
+      "avoidant",
+      "avoided",
+      "avoiding"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3329",
+    "meaning": "一对；两个相配、成组的东西",
+    "core": "PAIR：先把两个看成一组",
+    "image": "a pair of shoes 两只鞋合成一双；pairwise comparison 则是把对象两两配起来比较。",
+    "intro": "pair 经古法语 paire 接拉丁 paria 成对、相等者的复数材料，与 par 相等有关。",
+    "forms": "pair + -wise → pairwise，后部表示按这种方式。pair 也可作动词，表示配成一对。\n\npair 经法语 paire、拉丁 paria 相等者等进入英语，后来转作动词。加完整 -ed，/eə/、/er/ 后读 /d/，不另加音节。",
+    "branches": [
+      [
+        "一对与配对动作",
+        "pair"
+      ],
+      [
+        "两两进行的方式",
+        "pairwise"
+      ],
+      [
+        "pair → paired：配对、搭配",
+        "paired"
+      ]
+    ],
+    "contrasts": "repair 修理接另一条 re- + parare 准备、使就绪的历史，不能解释成把一对东西再拼回来。a pair of trousers 则把双腿结构的衣物作为一条来数。",
+    "practice": "We paired the samples and made pairwise comparisons.\n\n我们把样本配成一对一对，进行两两比较。",
+    "words": [
+      "pair",
+      "pairwise",
+      "paired"
+    ],
+    "exclude": {
+      "repair": "常用修理义接法语、拉丁 reparare 词族，不是 pair 一对加 re- 的派生。"
+    }
+  },
+  {
+    "id": "B3831",
+    "meaning": "使害怕；惊吓及相应感觉",
+    "core": "SCARE：一个刺激把人吓得一缩",
+    "image": "scary movie 是让人害怕的电影；scared child 是已经被吓到的孩子，方向不一样。",
+    "intro": "scare 接中古英语 skerren 等使恐惧的动词材料，与北欧语相应形式有关；名词惊吓义与动词相连。",
+    "forms": "scare + -ed → scared；scare + -y → scary，末尾 e 省掉；scare + crow → scarecrow，原是吓鸟、保护作物的装置。\n\nscare 接中古英语 skerren、古北欧 skirra 惊吓等，英语后来有异常词形变化，远源未定。保留 e 加 -s，名词复数、动词第三人称同形。",
+    "branches": [
+      [
+        "引发害怕的动作、事件",
+        "scare"
+      ],
+      [
+        "感受与引发这种感受的性质",
+        "scared · scary"
+      ],
+      [
+        "用来吓鸟的装置",
+        "scarecrow"
+      ],
+      [
+        "scare → scares：吓到与惊吓事件",
+        "scares"
+      ]
+    ],
+    "contrasts": "scared 说感到害怕，scary 说让人害怕；a scarecrow 可以是稻草人，不要求真的穿一件乌鸦形状的衣服。",
+    "practice": "The scary noise scared the children.\n\n那阵吓人的声音把孩子们吓到了。",
+    "words": [
+      "scare",
+      "scared",
+      "scary",
+      "scarecrow",
+      "scares"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4000",
+    "meaning": "力量；强项；把某物变强",
+    "core": "STRENGTH：不仅能出力，也能承受、支撑",
+    "image": "绳子的 strength 是承受拉力的能力；一个人的 strengths 是他擅长、靠得住的方面。",
+    "intro": "strength 接古英语 strengþu，与 strong 同族，是旧抽象名词构词及元音变化留下的形式。现代不能只把 strong 原样接 th 写成 strongth。",
+    "forms": "strong ↔ strength 是形容词、性质名词的旧对应；strength + -en → strengthen，使加强或变强。\n\nstrength 接古英语 strengþu 等强壮、力量名词，与 strong 同族，含古老 -th 名词材料与元音变化；现代复数常说各项优点、优势。\n\n-en 在此构成使增强、变强的动词，再加 -ing。strength 与 strong 的元音对应早已存在，不把加强的动词 -en 当成复数或人名尾。\n\nstrength 承古英语 strengþu，strengthen 用 -en 动词化；再加完整 -ed，/n/ 后读 /d/。加固、加强实体或关系。",
+    "branches": [
+      [
+        "强壮、强度与优势",
+        "strong · strength"
+      ],
+      [
+        "使变强、得到加强",
+        "strengthen"
+      ],
+      [
+        "strong／strength → strengths：强项、长处",
+        "strengths"
+      ],
+      [
+        "strength + -en → strengthen → strengthening",
+        "strengthening"
+      ],
+      [
+        "strength 力量 + -en 使 + -ed → strengthened",
+        "strengthened"
+      ]
+    ],
+    "contrasts": "strength 不只肌肉力量，也有结构强度、信心与优势；strengthen ties 是加强联系，不是把绳子物理绑粗。",
+    "practice": "Daily practice can strengthen your skills and reveal your strengths.\n\n每天练习能增强技能，也能让你看清自己的强项。",
+    "words": [
+      "strong",
+      "strength",
+      "strengthen",
+      "strengths",
+      "strengthening",
+      "strengthened"
+    ],
+    "exclude": {
+      "fore-strength": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4074",
+    "meaning": "退出、退下；退休；退到别处",
+    "core": "RETIRE：从原来的活动、位置退出来",
+    "image": "retire from work 退休；retire to a quiet room 则是退到安静房间。不是每次都在谈年龄。",
+    "intro": "retire 经法语 retirer，较早为 re- 回、后退 + tirer 拉。现代工作退休义是从退出、退离的关系发展而来。",
+    "forms": "retire + -ment → retirement；retire + -ed → retired；retire + -ee → retiree。现代 tire 疲惫不能直接拿来解释 retire 的历史。",
+    "branches": [
+      [
+        "退出与退休动作",
+        "retire"
+      ],
+      [
+        "状态、阶段与人物",
+        "retired · retirement · retiree"
+      ]
+    ],
+    "contrasts": "retired teacher 是退休教师；tired teacher 是疲惫的教师。retirement 也可以指退出某项长期活动，不总等于达到某个固定年龄。",
+    "practice": "The retired teacher enjoys retirement but still volunteers at the library.\n\n那位退休教师享受退休生活，也仍在图书馆做志愿者。",
+    "words": [
+      "retire",
+      "retired",
+      "retirement",
+      "retiree"
+    ],
+    "exclude": {
+      "re-retire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3457",
+    "meaning": "提出理由、论证；争论",
+    "core": "ARGUE：把理由摆出来，支持或反驳一种看法",
+    "image": "argue a point 可以理性论证，不要求脸红吵架；an argument 可以是一套理由，也可以是一场争执。",
+    "intro": "argue 经古法语 arguer 接拉丁 arguere 显示、说明、证明、指责等材料。现代论证与争执从这些说清、质疑的关系展开。",
+    "forms": "argue + -able → arguable，去末尾 e；argument 是同族名词。arguable 常说有理由可主张，也可能说尚有争议，需看上下文。\n\n拉丁证明材料经法语借入，现代理由与吵架语境分开。",
+    "branches": [
+      [
+        "提出理由与论证",
+        "argue · argument"
+      ],
+      [
+        "可以主张、讨论的性质",
+        "arguable"
+      ],
+      [
+        "argument → arguments：证据、理由与争论",
+        "argument · arguments"
+      ]
+    ],
+    "contrasts": "argue with someone 与人争论，argue for a proposal 为提案辩护；a strong argument 是有力理由，不是声音特别大的争吵。",
+    "practice": "She argued calmly and supported her argument with examples.\n\n她平静地论证，用例子支持自己的观点。",
+    "words": [
+      "argue",
+      "argument",
+      "arguable",
+      "arguments"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3534",
+    "meaning": "说话；演说；言语能力",
+    "core": "SPEECH：说出来的语言，也可成为一场完整发言",
+    "image": "give a speech 发表演说；lose the power of speech 失去言语能力；speechless 则可能是惊讶得说不出话。",
+    "intro": "speech 接古英语 spǣc、sprǣc 等，与 speak 的旧日耳曼语词族有关。是历史上相应的动作、结果名词，不是今天给 speak 随手加 ch。",
+    "forms": "speak ↔ speech 是旧词族对应；speech + -less → speechless；speech + writer → speechwriter。",
+    "branches": [
+      [
+        "说话、演说与能力",
+        "speak · speech"
+      ],
+      [
+        "无话可说与代写演讲的人",
+        "speechless · speechwriter"
+      ]
+    ],
+    "contrasts": "speech 可数时常是一场演讲，不可数时可指言语；speechwriter 写演讲稿，并不因此就是台上发表演讲的人。",
+    "practice": "The speechwriter’s moving speech left the audience speechless.\n\n演讲撰稿人写的动人讲稿，让听众久久说不出话。",
+    "words": [
+      "speak",
+      "speech",
+      "speechless",
+      "speechwriter"
+    ],
+    "exclude": {
+      "co-speech": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4545",
+    "meaning": "步行；走路的动作、用途或性质",
+    "core": "WALKING：用脚一步步移动，再形成活动名称",
+    "image": "walking shoes 适合走路的鞋；go walking 去散步。jaywalking 则专指某类不按规则的过街行为。",
+    "intro": "walking 从早期英语 walk 的相应分词、动作名词延续。jaywalk、jaywalking、jaywalker 是后来美国交通语境中发展的一组词。",
+    "forms": "walk + -ing → walking；jaywalker 是人物称呼，jaywalk 有由其逆构的关系，现代可对照 jaywalk + -ing → jaywalking。按短词到长词读，不代表历史总按字数出现。",
+    "branches": [
+      [
+        "基本行走与活动",
+        "walk · walking"
+      ],
+      [
+        "前部的旧人物称呼背景",
+        "jay"
+      ],
+      [
+        "交通中的固定行为及人物",
+        "jaywalk · jaywalking · jaywalker"
+      ]
+    ],
+    "contrasts": "jaywalking 不泛指所有步行；jay 的旧人物称呼与鸟名有历史比喻关系，不能理解成模仿鸟走路。",
+    "practice": "We enjoyed walking around the town and used the crossings.\n\n我们愉快地在镇上步行游览，过马路时使用过街设施。",
+    "words": [
+      "walk",
+      "walking",
+      "jay",
+      "jaywalk",
+      "jaywalking",
+      "jaywalker"
+    ],
+    "exclude": {
+      "walkie-talkie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4303",
+    "meaning": "中间；时间中段；质量一般般的口语评价",
+    "core": "MID：先定位在中间，再看是否在评价中间档",
+    "image": "midpoint 是中点，midair 在空中；口语说 a mid film，则常在说影片平平、没什么亮点。",
+    "intro": "mid 从古英语 midd、midde 及更早日耳曼语中间材料延续，与 middle 同族。现代非正式评价进一步把中间档用于质量。",
+    "forms": "mid + point → midpoint；mid + air → midair；amid 接较早 on middan 等中间位置表达，不是现代前缀公式的临时作品。\n\nmid 接旧副词性 -s 成 middes，后来出现 t，原因有最高级类比等解释。末尾 -st 不是现代最高级后缀；in the midst of 可用于空间和事件过程。",
+    "branches": [
+      [
+        "中间位置与基本词族",
+        "mid · middle"
+      ],
+      [
+        "具体位置与时间、空间参照",
+        "midpoint · midair · amid"
+      ],
+      [
+        "mid → middes → midst：中间、正当其中",
+        "midst"
+      ]
+    ],
+    "contrasts": "midwife 中的 mid 是旧的 with 与、陪同材料，不是中间的妻子；mid 的口语平平义也不是 middle 这个名词在所有句中都能直接替代。",
+    "practice": "At the midpoint of the story, the ball seems to hang in midair.\n\n故事进行到一半时，那个球仿佛悬在半空。",
+    "words": [
+      "mid",
+      "middle",
+      "midpoint",
+      "midair",
+      "amid",
+      "midst"
+    ],
+    "exclude": {
+      "open-mid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "close-mid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-central": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4301",
+    "meaning": "反对的；反对者；反对的独立表达",
+    "core": "ANTI：把反对关系单独说出来",
+    "image": "一项计划有支持者，也有 the antis 反对者；独立 anti 把原来常见于词前的反对关系拿出来使用。",
+    "intro": "anti 由 anti- 的构词材料转成独立词；其反对、相对关系经拉丁、法语接希腊 anti。与前缀总页相连，但这里重点是独立词的句法。",
+    "forms": "anti 可作形容词、名词，也可在较随意表达中像 against 一样接对象；复数 antis。",
+    "branches": [
+      [
+        "态度、性质",
+        "anti〔反对的〕"
+      ],
+      [
+        "持反对意见的人",
+        "anti · antis〔反对者〕"
+      ]
+    ],
+    "contrasts": "anti 与 ante- 在先不同；antis 是人物名词复数，不能把每个带 anti- 的术语都当一个反对者。",
+    "practice": "Some were enthusiastic, while the antis remained unconvinced.\n\n有些人很热心，反对者却仍未被说服。",
+    "words": [
+      "anti"
+    ],
+    "exclude": {
+      "anti-anti": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-leadership": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

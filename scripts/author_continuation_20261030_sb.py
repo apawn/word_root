@@ -1,0 +1,96 @@
+"""Everyday nouns, contrasting homographs, and the spectrum family."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('tilt','/tɪlt/','倾斜；使倾斜；倾向、偏向',
+ '本来是直的、平衡的，现在向一侧偏过去。头可以 tilt，判断或局势也可以像天平一样向一边偏。',
+ '中古英语 tilten 较早有倒下、推倒等义，接古英语不稳的相关材料；后来常说使倾斜、进入斜的位置。旧的骑枪比武、棚盖等同形关系更复杂。',
+ [['古英语不稳词族 → 中古英语 tilten','不稳、倒下、使倒下'],['现代常见 tilt','倾斜、使倾斜；偏向的比喻']],
+ 'tilt your head 歪头；a slight tilt 轻微倾斜；tilt the balance 使天平、局势向一方偏。on tilt 也见于扑克、游戏里情绪失控的口语。',
+ 'tilt to one side；tilt the balance。','lean 倾身、倚靠也能说斜，tilt 常突出原来方向发生偏转；full tilt 全速的固定表达另有旧用法背景。',
+ ('She tilted her head to one side.','她把头歪向一边。'),('The new evidence tilted the balance in her favour.','新证据让判断更偏向对她有利的一边。'),sources=['https://www.etymonline.com/word/tilt'])
+W('colon','英 /ˈkəʊlən/；美 /ˈkoʊlən/','冒号；结肠〔两条历史意义分支〕',
+ '写字时是上下两个点的符号“:”；身体里则是大肠的一部分。看到 colon，先看是在谈标点还是身体。',
+ '标点义经拉丁 colon 接希腊 kōlon 肢节、句中分节，从句子的较大部分发展到分隔它的符号。结肠义接另一希腊 kolon 肠道名称，古希腊首元音长短与前者不同，最远来源未定。',
+ [['希腊 kōlon 肢节、分句 → 拉丁 colon → 标点名','由句子的部分到标示边界的冒号'],['希腊 kolon → 拉丁 colon → 解剖名称','结肠；现代英语同形同音']],
+ 'a colon before a list 列表前的冒号；the colon in a diagram 图里的结肠。医学词与标点词分别走自己的派生、组合路线。',
+ 'use a colon；a section of the colon。','semicolon 是分号；colonize 殖民接另一条 colonus 移居者、农夫词族，不由冒号或结肠直接加 -ize 解释。',
+ ('Use a colon before the list of ingredients.','配料列表前用一个冒号。'),('The diagram shows the position of the colon.','示意图标出了结肠的位置。'),sources=['https://www.etymonline.com/word/colon','https://www.cancer.gov/publications/dictionaries/cancer-terms/def/colon'])
+W('camel','/ˈkæməl/','骆驼；驼色的〔修饰用法等〕',
+ '最直观是背上有驼峰的骆驼；a camel coat 在服装里则常说驼色大衣，借动物毛色给颜色命名。',
+ '经早期英语、法语相关形式接拉丁 camelus、希腊 kamelos，更早来自闪米特语一类动物名称，与希伯来 gamal、阿拉伯语 jamal 等对应。不是英语 cam + el 两个现代词根。',
+ [['闪米特语动物名 → 希腊 kamelos → 拉丁 camelus','跨语言传播的骆驼名称'],['早期英语、法语相应形式 → camel','动物名；按毛色等形成修饰用法']],
+ 'a camel caravan 骆驼商队；a camel coat 驼色大衣。现实骆驼可有一个或两个驼峰，单说 camel 不限定某一种。',
+ 'a camel in the desert；camel hair；a camel coat。','camel coat 在服装语境常说颜色、材料风格，具体材质要看说明；不把动物名每次都只翻成一头骆驼。',
+ ('The camel rested in the shade.','骆驼在阴凉处休息。'),('She wore a camel coat and a dark scarf.','她穿着驼色大衣，围着深色围巾。'),sources=['https://www.etymonline.com/word/camel'])
+W('chap','/tʃæp/','家伙、小伙子、男人〔英式口语〕；使皮肤皲裂、干裂',
+ '人物名词是带随意口气的某个男人；皮肤相关动词说表面干裂。读句子时先分清是哪一种。',
+ '人物义缩自 chapman，较早指商人、顾客，接古英语 ceapman 交易的人，后来泛指家伙。皮肤动词接中古英语 chappen 裂开，可能与 chop 等切裂材料有关，远源未定。',
+ [['chapman 商人、顾客 → chap','称普通男人的随意人物词'],['中古英语 chappen → chap 动词','裂开、使皮肤皲裂的另一分支']],
+ 'a friendly chap 友善的家伙；a young chap 年轻男子；cold winds chap the lips 冷风使嘴唇干裂。过去式、分词 chapped 双写 p。',
+ 'a decent chap；chap the skin。','cheap 便宜的与人物 chap 的旧交易词族有关；chapped 干裂的却接裂开动词。不要只看相同字母就合成一条故事。',
+ ('A cheerful chap opened the door.','一个笑呵呵的男子开了门。'),('The cold wind chapped her lips.','冷风使她的嘴唇干裂了。'),sources=['https://www.etymonline.com/word/chap'])
+W('chapped','/tʃæpt/','〔皮肤、嘴唇〕干裂、皲裂的',
+ '冬天嘴唇表面干得发紧、出现小裂口，便是 chapped lips。它比泛泛的 dry 更具体，已经说到裂开。',
+ 'chap 的皮肤干裂动词 + -ed，双写 p。末尾 /p/ 后 -ed 读 /t/，整个词不额外加一个 /ɪd/ 音节。',
+ [['chap：使表面干裂','与中古英语裂开动词相连'],['chap + -ed → chapped','已经干裂的表面状态']],
+ 'chapped lips 干裂的嘴唇；chapped hands 皲裂的手。这里 chap 取皮肤动词义，不取男人、家伙的人物名词。',
+ 'dry, chapped skin；chapped hands。','dry 只说干，chapped 进一步说干裂状态；cracked 裂开的适用对象更广，玻璃、地面等也能用。',
+ ('Her lips were chapped after the windy walk.','顶着风走了一段路后，她的嘴唇干裂了。'),('His hands were dry and chapped in winter.','冬天他的双手干燥皲裂。'),sources=['https://www.etymonline.com/word/chap'])
+W('gill','/ɡɪl/〔鳃、菌褶等常见义〕','鳃；菌褶；腮部〔部分习语〕',
+ '鱼用鳃从水里取得氧；蘑菇帽下面一片片像薄鳃的结构，也叫 gills。先看到薄片、部位的形象，再看具体对象。',
+ '中古英语 gille、gylle 接北欧语相关材料，与丹麦语、挪威语等鳃名相连；更远与唇、颌部位词的关系有重建分析，未完全确定。后来按形状、部位相似扩到菌褶及习语。',
+ [['北欧语相关材料 → 中古英语 gille、gylle','鳃的名称，更远关系不完全确定'],['英语 gill 的相似部位与比喻扩展','鳃；蘑菇菌褶；腮部相关习语']],
+ 'fish gills 鱼鳃；mushroom gills 菌褶；green around the gills 脸色发青、显得恶心不舒服；full to the gills 满得不能再满。',
+ 'a fish’s gills；the gills under a mushroom cap。','鱼鳃 gill 读 /ɡɪl/；旧液量单位 gill 读 /dʒɪl/，另接法语计量、容器名称。鳃、菌褶的复数 gills 读 /ɡɪlz/。',
+ ('Fish use their gills to take oxygen from water.','鱼用鳃从水里取得氧。'),('The mushroom had pale gills beneath its cap.','那只蘑菇的菌帽下面有浅色菌褶。'))
+W('spectroscopic','英 /ˌspektrəˈskɒpɪk/；美 /ˌspektrəˈskɑːpɪk/','光谱的；光谱学、光谱分析的',
+ '把光里的信息摊成一排谱线或强弱分布，再用它研究物质；spectroscopic 描写与这类谱观察、分析有关的方法、证据。',
+ '由 spectro- 谱与 -scopic 观察的相应形式构成，也有法语 spectroscopique 的借词对应。spectro- 接拉丁 spectrum 形象、呈现等词族，-scopic 接希腊 skopein 观察。',
+ [['拉丁 spectrum 材料与希腊观察材料进入科学构词','谱与观察两层关系'],['spectro- + -scopic；法语相应形式','与光谱观察、分析有关的性质']],
+ 'spectroscopic analysis 光谱分析；spectroscopic evidence 光谱证据；spectroscopic methods 光谱方法。并不局限于人眼能看到的彩色条纹。',
+ 'spectroscopic data；spectroscopic observations。','spectroscopy 是学科、分析活动名词，spectroscopic 是相关性质；spectrometer 则是测谱仪器的名称。',
+ ('The researchers presented spectroscopic evidence for the compound’s structure.','研究人员展示了支持该化合物结构的光谱证据。'),('The laboratory uses spectroscopic methods to study the sample.','实验室用光谱方法研究样品。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/spectroscopic'])
+R('B4505','倾斜、使倾斜；立场、局势的偏向','TILT：从平衡或原来的方向偏到一侧',
+ '头可以歪，镜头可以斜，局势也像天平一样向某方偏。先抓住方向发生偏转的共同画面。',
+ '常见倾斜义接早期英语不稳、倒下的词族；后来发展出倾斜状态及抽象偏向。比武、棚盖等同形词义的历史交织更复杂。',
+ 'tilt 同时作动词、名词；tilted、tilting 不双写 t。tilt the balance 把方向变化用在比较、局势上。',
+ [['具体方向、姿态','tilt〔动词〕'],['倾斜程度与抽象偏向','tilt〔名词及比喻〕']],
+ 'full tilt 全速、全力是固定表达，不能只按头歪了一点理解；tilt towards 则常说明偏向哪一方。',
+ 'The photographer tilted the camera slightly to frame the doorway.\n\n摄影师把相机稍稍倾斜，将门框收入画面。','tilt')
+R('B2513','冒号及分号；另有结肠的同形医学名称','COLON：标点一路，身体部位一路',
+ '“:”是 colon，“;”是 semicolon；身体里的 colon 又是结肠。标点与解剖名来自不同古希腊形式，现代英语恰好同形同音。',
+ '标点词经拉丁接希腊 kōlon 肢节、句中分节，从被分出的部分到标示边界的符号；解剖词接另一希腊 kolon 肠道名。',
+ 'semi- + colon〔标点〕→ semicolon；它是拉丁半与希腊来源标点词组合的名称。解剖 colon 的相关医学词走另一分支。',
+ [['句中的边界符号','colon · semicolon'],['人体解剖名称','colon〔结肠〕']],
+ 'semicolon 分号与 colon 冒号不同；colonize 的殖民词族又是另一来源，不能因前几字母相同就套这里的两种解释。',
+ 'A colon introduces the explanation; a semicolon links related clauses.\n\n冒号引出说明；分号连接相关分句。','colon semicolon')
+R('B3051','骆驼及按颜色、材料、形状形成的用法','CAMEL：动物名称跨语言传播，再参加现代比喻',
+ 'a camel 是骆驼；camel hair 是骆驼毛；camel coat 常说驼色或相关材料的大衣，按上下文判断。',
+ '名称由闪米特语相关动物名传入希腊、拉丁，英语既有较早借入，也有法语相应形式的影响。不是现代英语短前缀的拼接。',
+ '闪米特语相关名称 → 希腊 kamelos → 拉丁 camelus → 英语、法语相应形式。现代还可借动物毛色、驼峰等形象构成修饰。',
+ [['动物本身','camel'],['颜色、毛料等相关用法','camel〔名词修饰语、形容性质〕']],
+ 'camel 一词不限定一个或两个驼峰；camel coat 的具体材质依说明，颜色名称与动物名称不能每次按同一层意思翻。',
+ 'The camel rested while the travellers sheltered from the sun.\n\n旅人避着太阳休息时，骆驼也歇了下来。','camel')
+R('B3610','男人、家伙的口语称呼；另有皮肤干裂词族','CHAP：人物称呼与表面裂开分成两条线',
+ 'friendly chap 是友善的家伙；chapped lips 是干裂嘴唇；chapstick 里取后面这条干裂关系。',
+ '人物 chap 缩自旧 chapman 商人、顾客，与 cheap 的旧交易材料相连；干裂动词接中古英语 chappen，可能连着切裂材料，远源未定。',
+ 'chapman 缩短 → chap〔人物〕；chap〔干裂〕+ -ed → chapped，双写 p、读 /t/；chapstick 的 stick 是条状物关系。',
+ [['交易人物称呼的缩短与近亲','chap〔家伙〕；cheap'],['皮肤干裂与相关名称','chap〔动词〕· chapped · chapstick']],
+ 'chap 的人物义偏英式口语，man 更中性；干裂义常见于 chapped lips、chapped hands。读 chapstick 时也取干裂这条关系。',
+ 'The friendly chap complained about his chapped lips.\n\n那个友善的男子抱怨嘴唇干裂。','chap cheap chapped chapstick')
+R('B4338','鳃；相似的菌褶；脸色、满载等习语','GILL：鱼的鳃部位与薄片形象，再延伸到相似结构',
+ '鱼鳃常是薄片状的器官结构；蘑菇帽下面一排排的菌褶，也借相似外形叫 gills。',
+ '鳃名接中古英语 gille、gylle 及北欧语相关材料，更远与唇、颌部位名称的关系仍有重建讨论。其他同形 gill 也可能有独立借词史。',
+ 'gill → gills 是普通复数；在 fish gills、mushroom gills 里保持 /ɡ/ 的读音。green around the gills、full to the gills 是后续固定习语。',
+ [['水中呼吸器官','gill〔鳃〕'],['相似薄片结构','gill〔菌褶〕'],['脸色与极满状态的习语','gill〔固定表达〕']],
+ 'full to the gills 说装得、吃得很满，green around the gills 说脸色不好；旧液量单位同形词另有 /dʒɪl/ 读音与法语来源。',
+ 'The mushroom’s pale gills were visible beneath the cap.\n\n菌帽下面可以看到浅色菌褶。','gill')
+R('A2080','谱；光谱及相应观察、测量形式','SPECTRO：把信息展开成谱，再观察、测量',
+ 'spectrum 是谱或范围；spectroscopy 是光谱学、分析；spectrometer 是仪器；spectroscopic 是相关性质。先分对象、活动、工具、性质。',
+ 'spectro- 是科学构词中的结合形式，接拉丁 spectrum 形象、呈现等材料；再与观察、测量等希腊来源形式组合，形成相应术语。',
+ 'spectro- + 观察材料 → spectroscopy、spectroscopic；spectro- + 测量材料 → spectrometry、spectrometer。现代学科名称、技术实际用法有重叠，不能只靠词尾划出绝对界线。',
+ [['基本对象与宽泛范围','spectrum'],['观察、分析及相关性质','spectroscopy · spectroscopic'],['测量及仪器','spectrometry · spectrometer']],
+ 'spectrum 不只人眼看到的彩虹；-metry 常说测量，-meter 常说测量工具。spectroscopy、spectrometry 的技术命名会有交叉，不简单分成只定性、只定量。',
+ 'The spectrometer produced data for the spectroscopic analysis.\n\n测谱仪为光谱分析提供了数据。','spectrum spectroscopy spectroscopic spectrometry spectrometer')
+if __name__=='__main__':save('continuation_20261030_sb',ROOTS,WORDS)

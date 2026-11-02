@@ -1,0 +1,47 @@
+[
+  {
+    "id": "B3293",
+    "meaning": "弯曲的物件、动作、身体部位与轮次",
+    "core": "BOW：看见弯，再分 /bəʊ, boʊ/ 与 /baʊ/ 两组读音",
+    "image": "bow 为入口；bowtie、bowman、crossbow、longbow 接结与弓；elbow、rainbow、oxbow 接弯形；bout 接绕行到一轮的历史。",
+    "intro": "弓、鞠躬、船头在更远词族上相关，直接传入路径不同。bower 凉亭、住处另从古英语 būr，不能因字母相像混进弓。",
+    "forms": "古英语 boga 弓、būgan 弯分别接现代 bow；ell 类前臂词 + bow → elbow；ox + bow；bout 有旧弯、回转的中间路线。\n\n古英语前臂加弯的合成，名词、用肘挤的动词相连。",
+    "branches": [
+      [
+        "弓、结与人物器具",
+        "bow · bowtie · bowman · crossbow · longbow"
+      ],
+      [
+        "身体、天空与河道的弯",
+        "elbow · rainbow · oxbow"
+      ],
+      [
+        "轮次与发作",
+        "bout"
+      ],
+      [
+        "elbow → elbows：前臂弯曲处",
+        "elbow · elbows"
+      ]
+    ],
+    "contrasts": "弓结 /boʊ/，鞠躬船头 /baʊ/；bout 比赛非单回合；bower 来源另看；oxbow 湖不只凭 U 形外观确定成因。",
+    "practice": "He bent his elbow and adjusted his bowtie before taking a bow.\n\n他弯起胳膊整理领结，然后鞠躬谢幕。",
+    "words": [
+      "bow",
+      "bowtie",
+      "bowman",
+      "crossbow",
+      "longbow",
+      "elbow",
+      "rainbow",
+      "oxbow",
+      "bout",
+      "elbows"
+    ],
+    "exclude": {
+      "bower": "常见住处、凉亭义接古英语 būr，不是 bow 弓或鞠躬的直接派生。",
+      "bowyer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "buxom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

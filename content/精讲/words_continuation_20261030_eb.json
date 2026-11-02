@@ -1,0 +1,269 @@
+[
+  {
+    "word": "steel",
+    "ipa": "/stiːl/",
+    "meaning": "钢、钢制的；使坚强、使作好心理准备",
+    "sense": "一种以铁为主、含碳等成分的合金材料。借它坚硬、强韧的印象，steel yourself 就是把心定硬，准备面对难事。",
+    "split": "继承古英语 stīele 等，经中古英语到现代；更远常与坚固、固定的词族联系。动词使如钢般坚强的早期用法也有比喻，不把它说成钢厂才有的动作。",
+    "history": [
+      [
+        "古英语 stīele 等 → 中古英语 stele、stel → steel",
+        "钢、钢制材料"
+      ],
+      [
+        "现代强硬形象与工厂命名",
+        "钢的硬、冷、坚韧 → 意志、目光；steelworks 钢厂"
+      ]
+    ],
+    "explanation": "steel beams 钢梁，stainless steel 不锈钢，nerves of steel 钢铁般的胆量，steel yourself for 作好面对某事的心理准备。",
+    "usage": "steel beams；stainless steel；nerves of steel；steel yourself for。",
+    "contrast": "steel 钢、iron 铁不是同一个材料名称；steel 与 steal 偷同音异词。steel yourself 使自己坚强，不是给自己披一层钢。",
+    "examples": [
+      [
+        "The bridge rests on huge steel beams.",
+        "桥由巨大的钢梁支撑。"
+      ],
+      [
+        "She steeled herself before opening the letter.",
+        "拆信前，她先定了定心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steel#English",
+      "https://www.etymonline.com/word/steel"
+    ]
+  },
+  {
+    "word": "steely",
+    "ipa": "/ˈstiːli/",
+    "meaning": "钢铁般坚定、冷硬的；钢色的、似钢的",
+    "sense": "目光、意志像钢一样硬，几乎不让步；颜色也可冷冷泛着钢灰光。不是这个人真含有更多钢。",
+    "split": "steel + -y，旧时也早有形容心肠硬、冷的比喻。词形不需要删 e，steel 末尾并非不发音 e。",
+    "history": [
+      [
+        "古英语 stīele 等 → 中古英语 stele、stel → steel",
+        "钢、钢制材料"
+      ],
+      [
+        "steel + -y → steely",
+        "似钢的颜色、质感；比喻意志或目光冷硬"
+      ]
+    ],
+    "explanation": "steely determination 钢铁般决心，a steely gaze 冷硬目光，steely blue 钢蓝色。",
+    "usage": "steely determination；a steely gaze；steely blue。",
+    "contrast": "steely 冷硬、坚定，不一定在骂不道德；strong 强范围更宽，friendly 友好与 steely resolve 坚定决心也可同时存在。",
+    "examples": [
+      [
+        "She answered with steely determination.",
+        "她带着钢铁般的决心作答。"
+      ],
+      [
+        "His voice had a steely edge.",
+        "他的声音带着冷硬的锋芒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steely#English"
+    ]
+  },
+  {
+    "word": "steelworks",
+    "ipa": "英 /ˈstiːlwɜːks/；美 /ˈstiːlwɜːrks/",
+    "meaning": "钢铁厂、炼钢厂",
+    "sense": "works 在这里是工厂这一整处设施，前面的 steel 说明主要做钢；不是抽象地说钢很努力工作。",
+    "split": "steel + works 工厂，合成工业设施名。末尾有 s，仍可用 a steelworks 说一家钢厂。",
+    "history": [
+      [
+        "古英语 stīele 等 → 中古英语 stele、stel → steel",
+        "钢、钢制材料"
+      ],
+      [
+        "steel + works → steelworks",
+        "生产钢的工厂设施"
+      ]
+    ],
+    "explanation": "a large steelworks 大钢厂，an old steelworks 旧钢厂，work at the steelworks 在钢厂工作。",
+    "usage": "a large steelworks；an old steelworks；at the steelworks。",
+    "contrast": "steelworks 工厂，steelwork 可说钢构件、钢结构施工等；works 的工厂义不按普通作品复数机械理解。",
+    "examples": [
+      [
+        "The old steelworks employed hundreds of people.",
+        "旧钢厂曾雇用数百人。"
+      ],
+      [
+        "A new steelworks is being built near the port.",
+        "港口附近正在建一座新钢厂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steelworks#English"
+    ]
+  },
+  {
+    "word": "steelhead",
+    "ipa": "/ˈstiːlhed/",
+    "meaning": "钢头鳟、硬头鳟〔洄游型虹鳟〕",
+    "sense": "名字借鱼头、体表的钢色光泽，不是在说鱼头真的像钢盔。常用名称指虹鳟的海洋洄游生活型。",
+    "split": "steel 钢、钢色 + head 头，按外观形成鱼名。与留在淡水的 rainbow trout 同属 Oncorhynchus mykiss，不能因两个俗名不同就当两种毫无关系的鱼。",
+    "history": [
+      [
+        "古英语 stīele 等 → 中古英语 stele、stel → steel",
+        "钢、钢制材料"
+      ],
+      [
+        "steel + head → steelhead",
+        "钢色头、体表的形象 → 洄游型虹鳟名称"
+      ]
+    ],
+    "explanation": "a steelhead 一条钢头鳟，steelhead migration 钢头鳟洄游，steelhead in the river 河里的钢头鳟。复数常仍 steelhead。",
+    "usage": "a steelhead；steelhead migration；steelhead in the river。",
+    "contrast": "steelhead 与 rainbow trout 主要涉及同种鱼的不同生活型名称；钢色是命名形象，不是体内金属成分测量。",
+    "examples": [
+      [
+        "A steelhead swam upstream through the clear water.",
+        "一条钢头鳟在清水中逆流而上。"
+      ],
+      [
+        "The guide explained the migration of steelhead.",
+        "向导解释了钢头鳟的洄游。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steelhead#English",
+      "https://www.fisheries.noaa.gov/species/steelhead"
+    ]
+  },
+  {
+    "word": "border",
+    "ipa": "英 /ˈbɔːdə/；美 /ˈbɔːrdər/",
+    "meaning": "边缘、边框、边界；与……接壤；接近、濒于〔border on〕",
+    "sense": "一块区域到这里结束，外面是另一块；书页边框、两国边界都可借这条边。border on rude 就是快到无礼那一边了。",
+    "split": "经法语 bordeure 接边缘词族，中古英语 bordure 后变成 border；现代 -er 不表示做 board 木板的人，别按字母硬造职业义。",
+    "history": [
+      [
+        "古法语 bordeure → 中古英语 bordure → border",
+        "边、饰边等；更早有日耳曼 bord 边缘词背景"
+      ],
+      [
+        "现代 border 的分支",
+        "物体外围、国界、花坛边带；邻接、接近某种程度"
+      ]
+    ],
+    "explanation": "cross the border 越过边境，a decorative border 装饰边框，border a country 与某国接壤，border on absurd 接近荒谬。",
+    "usage": "cross the border；a decorative border；border on；border a country。",
+    "contrast": "border 可界线、界带，boundary 边界较泛；border on 的 on 表临近，不是所有用法都在跨实际国界。",
+    "examples": [
+      [
+        "The page has a narrow blue border.",
+        "书页有一圈窄蓝边。"
+      ],
+      [
+        "His confidence sometimes bordered on arrogance.",
+        "他的自信有时近乎傲慢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/border#English",
+      "https://www.etymonline.com/word/border"
+    ]
+  },
+  {
+    "word": "borderline",
+    "ipa": "英 /ˈbɔːdəlaɪn/；美 /ˈbɔːrdərlaɪn/",
+    "meaning": "边界线；处于两类边缘、难以归类的",
+    "sense": "刚刚踩在两边交界上，难说算哪一边。a borderline case 就是判断起来卡在边缘的情况。",
+    "split": "border + line，名词界线再发展出形容词，表示处于可接受、合格、两种类别等的边缘。",
+    "history": [
+      [
+        "古法语 bordeure → 中古英语 bordure → border",
+        "边、饰边等；更早有日耳曼 bord 边缘词背景"
+      ],
+      [
+        "border + line → borderline",
+        "边界线 → 临界、难归类的"
+      ]
+    ],
+    "explanation": "a borderline case 边缘案例，borderline acceptable 勉强可接受，on the borderline 处于边界。",
+    "usage": "a borderline case；borderline acceptable；on the borderline。",
+    "contrast": "borderline 日常说边缘，不一律指某种临床诊断；borderline acceptable 也不表示已经明确达到高标准。",
+    "examples": [
+      [
+        "The committee treated it as a borderline case.",
+        "委员会把它视为一个难以明确归类的案例。"
+      ],
+      [
+        "The answer was borderline acceptable.",
+        "这个答案勉强可以接受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/borderline#English"
+    ]
+  },
+  {
+    "word": "borderless",
+    "ipa": "英 /ˈbɔːdələs/；美 /ˈbɔːrdərləs/",
+    "meaning": "无边框的；无国界限制的〔常为比喻〕",
+    "sense": "照片打印到纸边不留白框，是 borderless；合作、市场说无国界，常强调跨界连通，不是地图上的国界物理消失。",
+    "split": "border + -less，没有边框、边界限制。不同领域对缺少哪种边有不同对象。",
+    "history": [
+      [
+        "古法语 bordeure → 中古英语 bordure → border",
+        "边、饰边等；更早有日耳曼 bord 边缘词背景"
+      ],
+      [
+        "border + -less → borderless",
+        "无边框；比喻跨越国界限制"
+      ]
+    ],
+    "explanation": "borderless printing 无边距打印，a borderless image 无边框图像，a borderless world 无国界世界〔理念、比喻〕。",
+    "usage": "borderless printing；a borderless image；a borderless world。",
+    "contrast": "borderless 图像无边框不等于图像尺寸无限；国际业务 borderless 也不自动说明没有任何实际规则、限制。",
+    "examples": [
+      [
+        "The printer supports borderless printing.",
+        "打印机支持无边距打印。"
+      ],
+      [
+        "The designer chose a borderless layout for the photos.",
+        "设计师给照片选了无边框布局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/borderless#English"
+    ]
+  },
+  {
+    "word": "clothesline",
+    "ipa": "英 /ˈkləʊðzlaɪn/；美 /ˈkloʊðzlaɪn/",
+    "meaning": "晾衣绳",
+    "sense": "把衣物挂上去晾干的一条绳，line 在这里是绳线，不是纸上写着衣服的一行。",
+    "split": "clothes 衣物 + line 绳，合成按用途命名的物品。clothes 源于 cloth 的旧复数等历史，现代是衣服集合，不给 clothesline 再硬造一个单数 clothe 名词。",
+    "history": [
+      [
+        "cloth 的旧复数等 → clothes",
+        "布料、衣物的旧词族 → 现代衣服集合"
+      ],
+      [
+        "clothes + line → clothesline",
+        "晾衣物的绳线"
+      ]
+    ],
+    "explanation": "hang clothes on the clothesline 把衣服挂晾衣绳上，take washing off the clothesline 从晾衣绳收衣服。",
+    "usage": "hang clothes on the clothesline；an outdoor clothesline；take washing off the clothesline。",
+    "contrast": "clothesline 一条绳可数，clothes 衣服用复数形式；clothesline 不是 clothing line 品牌服装系列，拼写空格和结构不同。",
+    "examples": [
+      [
+        "She hung the sheets on the clothesline.",
+        "她把床单挂上晾衣绳。"
+      ],
+      [
+        "The wind snapped the clothesline during the night.",
+        "夜里的风刮断了晾衣绳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clothesline#English"
+    ]
+  }
+]

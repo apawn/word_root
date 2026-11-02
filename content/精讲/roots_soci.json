@@ -5,7 +5,7 @@
     "core": "SOCI = COMPANION / TOGETHER",
     "image": "人结成伙伴，也把关系、记忆与事物连在一起",
     "intro": "**soci-** 的起点是拉丁语 **socius**“同伴、伙伴、盟友”。结伴生活留下 social、society；把人或想法联系起来是 associate；把已经连着的关系解开是 dissociate。先记住“伙伴之间的一条线”，很多抽象义就有了落点。",
-    "forms": "**society** 经过拉丁语 societās 与法语 societé；**social** 经过 sociālis；**sociable** 经过 sociābilis。它们不是都由现代英语 social 随便加后缀形成。\n\n**associate** 的 ad- 遇到 s 同化成 as-；动词词尾读 /eɪt/，名词、形容词词尾常读 /ət/。**dissociate** 与 **disassociate** 意思接近，历史构词路线不同。soci- 的 /si/ 与 /ʃi/ 在一些词里都有常见读法，不能把整族强迫读成一个声音。",
+    "forms": "**society** 经过拉丁语 societās 与法语 societé；**social** 经过 sociālis；**sociable** 经过 sociābilis。它们不是都由现代英语 social 随便加后缀形成。\n\n**associate** 的 ad- 遇到 s 同化成 as-；动词词尾读 /eɪt/，名词、形容词词尾常读 /ət/。**dissociate** 与 **disassociate** 意思接近，历史构词路线不同。soci- 的 /si/ 与 /ʃi/ 在一些词里都有常见读法，不能把整族强迫读成一个声音。\n\nassociate 接拉丁 ad- 加 sociare 联合的词族，associated 说相连、相关，不自动说明因果。\n\n拉丁同伴材料形成联合名词，经法语借入英语。\n\n拉丁 ad 与 sociare 到 associare、associatus，名词弱尾、动词 ate 强尾分读。\n\n拉丁 associatio 经借入路线形成名词，不倒推一定晚于英语动词。",
     "branches": [
       [
         "共同生活",
@@ -30,6 +30,22 @@
       [
         "研究与制度主张",
         "sociology · sociologist · socialism"
+      ],
+      [
+        "associate → associated：伙伴关系、联系",
+        "associate · associated"
+      ],
+      [
+        "society → societies：伙伴、联合与社会、社团",
+        "society · societies"
+      ],
+      [
+        "associate → associates：联系的动作与伙伴身份",
+        "associate · associates · association"
+      ],
+      [
+        "association → associations：联在一起的组织、关系与联想",
+        "associate · association · associations"
       ]
     ],
     "contrasts": "**social / sociable / societal / sociological**：社会或社交的 / 乐于交往的 / 社会整体层面的 / 社会学角度的。\n\n**unsociable / antisocial / prosocial**：不爱交际 / 常指妨害共同生活，也有口语不合群义 / 有助于他人。\n\n**socialite / socialist / sociologist**：社交名流 / 社会主义者 / 社会学研究者。\n\n**associative / commutative**：数学中换分组与换顺序是两件事。\n\n**association** 可以是关联，但关联本身不等于因果。",
@@ -68,7 +84,11 @@
       "interassociation",
       "sociology",
       "sociologist",
-      "sociological"
+      "sociological",
+      "associated",
+      "societies",
+      "associates",
+      "associations"
     ]
   }
 ]

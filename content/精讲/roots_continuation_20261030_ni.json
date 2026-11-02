@@ -1,0 +1,204 @@
+[
+  {
+    "id": "B2992",
+    "meaning": "硬直难弯，到身体不灵活、举止拘谨与严峻要求",
+    "core": "STIFF：弯不动、放不开，具体和抽象都能用",
+    "image": "stiff → stiffen、stiffly、stiffness。",
+    "intro": "状态、变成状态、动作方式与性质名词各有分工。材料讲硬直、刚度，人物讲僵硬、拘谨，竞争则借难以应付的强度。",
+    "forms": "stif → stiff；-en 使变，-ly 方式，-ness 性质。\n\nstiff 加 en 的使成动词，整词再加 ed、ing。",
+    "branches": [
+      [
+        "状态、变化、方式与性质",
+        "stiff · stiffen · stiffly · stiffness"
+      ],
+      [
+        "stiffen → stiffened、stiffening：变硬、绷直",
+        "stiff · stiffen · stiffened · stiffening"
+      ]
+    ],
+    "contrasts": "刚度不等于硬度；stiff 是状态，stiffen 是变化。",
+    "practice": "The material stiffened, and its stiffness made it difficult to fold.\n\n材料变挺了，硬直的性质让它难以折叠。",
+    "words": [
+      "stiff",
+      "stiffen",
+      "stiffly",
+      "stiffness",
+      "stiffened",
+      "stiffening"
+    ],
+    "exclude": {
+      "stiff-necked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3969",
+    "meaning": "讲究挑选的历史，到优雅外形与精妙解法",
+    "core": "ELEGANT：每一部分都恰好，少了多余的费劲",
+    "image": "elegant → elegantly、elegance；inelegant 缺少这份利落精致。",
+    "intro": "衣服、空间、桥梁和证明都能有优雅，只是美感对象不同。借词历史与现代后缀对应并存，不必把所有形式都说成现代直接派生。",
+    "forms": "eligere 一族 → elegans、elegant- → elegant；elegantia → elegance；-ly 方式，in- 否定。",
+    "branches": [
+      [
+        "性质、方式与优雅概念",
+        "elegant · elegantly · elegance"
+      ],
+      [
+        "不够优雅精巧的性质",
+        "inelegant"
+      ]
+    ],
+    "contrasts": "elegant 可以很简单；inelegant 可以有效但繁琐。",
+    "practice": "The elegant design expresses its elegance without elaborate decoration.\n\n这份雅致设计无需繁复装饰就显出了美感。",
+    "words": [
+      "elegant",
+      "elegantly",
+      "elegance",
+      "inelegant"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4345",
+    "meaning": "公开宣告走到讲道、宣扬与过度说教",
+    "core": "PREACH：把道理讲给人听，语气决定是宣讲还是训人",
+    "image": "preach → preacher、preachy。",
+    "intro": "讲道者按功能命名，说教形容词则通常批评表达味道。中性、负面用法可以同根，不必把宗教讲道一律翻成惹人烦。",
+    "forms": "praedicare → preechier → preach；preacher 另承旧人物名；-y 形容倾向。\n\npreach 经古英语教会借词与法语再借入，远接拉丁 praedicare 公开宣告，含 prae- 与 dicare 说。现代完整 -ing。",
+    "branches": [
+      [
+        "宣讲动作、人物与说教性质",
+        "preach · preacher · preachy"
+      ],
+      [
+        "preach 公开宣讲 → preaching",
+        "preaching"
+      ]
+    ],
+    "contrasts": "preach 与 pray 不同；preachy 不等于所有有价值观的作品。",
+    "practice": "The preacher explained the story clearly without sounding preachy.\n\n讲道者把故事解释清楚，又不显得过度训诫。",
+    "words": [
+      "preach",
+      "preacher",
+      "preachy",
+      "preaching"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2913",
+    "meaning": "裙与下摆的边缘形象，变成沿边绕行与回避",
+    "core": "SKIRT：围在下方一圈，动词就沿外边走",
+    "image": "skirt → skirted、miniskirt；与 shirt 的历史关系另行辨认。",
+    "intro": "服装、家具布裙都按下缘外形理解；道路沿湖走、回答绕开重点，则把边缘变成路线。mini- 再限定短款裙的尺度。",
+    "forms": "skyrta → skirt，与 shirt 同源不同路径；-ed 特征、过去动作；mini- 小、短。\n\n北欧借词与 shirt 同族不同路线，动词沿边走与回避。",
+    "branches": [
+      [
+        "原词、状态与服装尺度",
+        "skirt · skirted · miniskirt"
+      ],
+      [
+        "skirt → skirts：衣服下摆、边缘与绕开",
+        "skirt · skirts"
+      ]
+    ],
+    "contrasts": "skirt the issue 回避问题；shirt 与 skirt 的现代义分工不同。",
+    "practice": "The road skirted the town where the miniskirts were displayed.\n\n道路绕过了展出迷你裙的那座镇子。",
+    "words": [
+      "skirt",
+      "skirted",
+      "miniskirt",
+      "skirts"
+    ],
+    "exclude": {
+      "upskirt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3852",
+    "meaning": "否认的活动名，再到持续无视强证据的模式",
+    "core": "DENIAL：否认一次，与固守否认模式要分清",
+    "image": "denial → denialism。",
+    "intro": "denial 范围广，既可否认行为也可心理语境；denialism 特别批评对有力证据的持续拒斥。后缀增加模式层面的含义。",
+    "forms": "deny → denial；denial + -ism → denialism。",
+    "branches": [
+      [
+        "否认与固守模式",
+        "denial · denialism"
+      ]
+    ],
+    "contrasts": "不同意不自动构成 denialism，证据与回应方式才是判断关键。",
+    "practice": "The essay asks when a denial becomes a pattern of denialism.\n\n文章探讨一次否认何时变成固守否认的模式。",
+    "words": [
+      "denial",
+      "denialism"
+    ],
+    "exclude": {
+      "self-denial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3714",
+    "meaning": "干热烘烤，转到食物、烘焙程度与喜剧调侃",
+    "core": "ROAST：热围着烤，语言也能拿人开涮",
+    "image": "roast → roasting、roaster。",
+    "intro": "烤蔬菜、咖啡烘焙与炎热感能共享热的形象；喜剧开涮则是针对人物的言语比喻。机器、商家与个人需靠上下文识别。",
+    "forms": "rostir → rosten → roast；-ing 活动、状态，-er 人、机器、容器等。\n\nroster 经荷兰语 rooster 借入，其表格义常解释为烤架的格子转喻；与 roast 经法语接日耳曼语烤制词是不同借入路线。\n\n法语接日耳曼烘烤词；t 后 ed 读 id。\n\nroast 经法语 rostir 接法兰克等日耳曼烤架、烤制材料；后来的玩笑 roast 借烤的形象说拿某人打趣。roasts 可为名词复数或动词单数。\n\nroster 借荷兰 rooster 表、名单，较早是烤架，和 roosten 烤一族相关；格子状烤架到纸上格子名单是常见的可能解释。不是现代英语 roast + -er 烤肉的人。",
+    "branches": [
+      [
+        "动作、过程及执行者",
+        "roast · roasting · roaster"
+      ],
+      [
+        "roast 与 roster：烤架、格子、名单",
+        "roast · roster"
+      ],
+      [
+        "roast → roasted：干热烘烤到调侃",
+        "roast · roasted"
+      ],
+      [
+        "roast → roasts：烤制、烤肉；调侃嘲弄",
+        "roast · roasts · roasted · roasting"
+      ],
+      [
+        "roster → rosters：烤架格子到名单表格",
+        "roster · rosters"
+      ]
+    ],
+    "contrasts": "coffee roaster 可以商家也可以机器；roasting hot 是口语炎热夸张。",
+    "practice": "The roaster watched the beans during roasting.\n\n烘焙师在烘焙过程中观察着豆子。",
+    "words": [
+      "roast",
+      "roasting",
+      "roaster",
+      "roster",
+      "roasted",
+      "roasts",
+      "rosters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4097",
+    "meaning": "干燥感引起口渴，转到精神渴望与机器消耗",
+    "core": "THIRST：身体想水，心里也能强烈想要某物",
+    "image": "thirst → thirsty。",
+    "intro": "感受名词与状态形容词先分清，再借口渴形象理解求知欲。机器耗油的 thirsty 是把消耗燃料比成不停喝水。",
+    "forms": "þurst → thirst；þurstig → thirsty，也可看 thirst + -y。",
+    "branches": [
+      [
+        "感受、渴求与状态",
+        "thirst · thirsty"
+      ]
+    ],
+    "contrasts": "I’m thirsty 说我渴；a thirst for knowledge 是求知欲。",
+    "practice": "The thirsty traveller quenched his thirst at the stream.\n\n口渴的旅人在溪边解了渴。",
+    "words": [
+      "thirst",
+      "thirsty"
+    ],
+    "exclude": {
+      "thirst-buster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "word": "tax",
+    "ipa": "/tæks/",
+    "meaning": "税；征税；使承受重负",
+    "sense": "先算该缴多少，再向对象征收；比喻中，一项任务也能像收税一样耗用你的耐心、精力。",
+    "split": "经法语接拉丁 taxāre 评定、估量等义。联系 tangere 触碰的更远解释常被提出，但不把推测当成现代拆词规则。",
+    "history": [
+      [
+        "拉丁 taxāre → 法语 taxer、taxe → 英语 tax",
+        "评定、估量、征收"
+      ],
+      [
+        "现代 tax",
+        "税；征税 → 增加负担、耗费能力"
+      ]
+    ],
+    "explanation": "pay tax 缴税，income tax 所得税，tax a product 对商品征税；tax someone’s patience 使耐心受到很大考验。",
+    "usage": "pay tax；income tax；tax revenue；tax someone’s patience。",
+    "contrast": "tax 通常是政府征收，fee 常是某项服务或手续的费用；tax 的动词比喻并不表示真的向人收钱。",
+    "examples": [
+      [
+        "The price does not include tax.",
+        "价格不含税。"
+      ],
+      [
+        "The long delay taxed everyone’s patience.",
+        "长时间的延误让所有人的耐心受到考验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tax#English"
+    ]
+  },
+  {
+    "word": "taxpayer",
+    "ipa": "英 /ˈtækspeɪə/；美 /ˈtækspeɪər/",
+    "meaning": "纳税人",
+    "sense": "从缴税这一关系来看个人或机构，payer 是付款的一方。",
+    "split": "tax 税 + payer 支付者，payer 由 pay + -er。并非 tax + player，不多出玩耍的 l。",
+    "history": [
+      [
+        "拉丁 taxāre → 法语 taxer、taxe → 英语 tax",
+        "评定、估量、征收"
+      ],
+      [
+        "现代 tax",
+        "税；征税 → 增加负担、耗费能力"
+      ],
+      [
+        "tax + payer → taxpayer",
+        "缴纳税款的主体 → 纳税人"
+      ]
+    ],
+    "explanation": "individual taxpayers 个人纳税人，taxpayers’ money 纳税人的钱；可以包括公司等机构，不限定受雇员工。",
+    "usage": "individual taxpayers；taxpayers’ money；the cost to taxpayers。",
+    "contrast": "taxpayer 纳税人，tax collector 征税人员；payer 和 collector 是支付与收取的两端。",
+    "examples": [
+      [
+        "The project will be funded with taxpayers’ money.",
+        "项目将由纳税人的钱资助。"
+      ],
+      [
+        "The report estimates the cost to taxpayers.",
+        "报告估算了纳税人承担的成本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taxpayer#English"
+    ]
+  },
+  {
+    "word": "taxable",
+    "ipa": "/ˈtæksəbəl/",
+    "meaning": "应纳税的；可征税的",
+    "sense": "这部分收入、交易或财产属于计算税款的范围；具体哪些算，要按适用规则判断。",
+    "split": "tax + -able，可被征税。形容词说明纳税属性，不表示税已经付完。",
+    "history": [
+      [
+        "拉丁 taxāre → 法语 taxer、taxe → 英语 tax",
+        "评定、估量、征收"
+      ],
+      [
+        "现代 tax",
+        "税；征税 → 增加负担、耗费能力"
+      ],
+      [
+        "tax + -able → taxable",
+        "可被征税 → 应纳税的"
+      ]
+    ],
+    "explanation": "taxable income 应纳税收入，a taxable benefit 应税福利；词义学习不等于给出某一地区的具体征税结论。",
+    "usage": "taxable income；a taxable benefit；taxable earnings。",
+    "contrast": "taxable 应纳税，taxed 已被征税；pretax 税前是计算阶段，不是免税。",
+    "examples": [
+      [
+        "The form asks for the amount of taxable income.",
+        "表格要求填写应纳税收入金额。"
+      ],
+      [
+        "The guide explains which benefits are taxable.",
+        "指南说明哪些福利应纳税。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taxable#English"
+    ]
+  },
+  {
+    "word": "mom",
+    "ipa": "英 /mɒm/；美 /mɑːm/",
+    "meaning": "妈妈",
+    "sense": "日常亲近地叫母亲，尤其在美式英语常见；语气比正式 mother 更像家里的称呼。",
+    "split": "通常看作 momma 等儿童、家庭称呼的缩短形式。妈妈类称呼跨语言相似，也不能因此断定英语直接借某个现代外语词。",
+    "history": [
+      [
+        "儿童称呼 momma 等 → mom",
+        "妈妈的亲昵称呼；儿童发音形式不能硬拆拉丁根"
+      ],
+      [
+        "现代 mom 词族",
+        "妈妈、妈咪；step- 接继亲关系"
+      ]
+    ],
+    "explanation": "my mom 我妈妈；Mom 直接当称呼或人名用时常大写，不加 my。英式很多地区更常说 mum。",
+    "usage": "my mom；ask Mom；a working mom。",
+    "contrast": "mom、mum 地区拼写习惯不同，mother 更正式；中文不必为了形式不同硬译成三种不同亲属。",
+    "examples": [
+      [
+        "My mom taught me how to cook.",
+        "我妈妈教会了我做饭。"
+      ],
+      [
+        "Mom, have you seen my keys?",
+        "妈，你看见我的钥匙了吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mom#English"
+    ]
+  },
+  {
+    "word": "mommy",
+    "ipa": "英 /ˈmɒmi/；美 /ˈmɑːmi/",
+    "meaning": "妈咪；妈妈的儿童称呼",
+    "sense": "小孩叫妈妈时更亲昵、带儿童口吻的说法。",
+    "split": "mom + 昵称式 -y，写 mommy 时双写 m；对应家庭称呼的亲昵扩展，不是改变亲属关系。",
+    "history": [
+      [
+        "儿童称呼 momma 等 → mom",
+        "妈妈的亲昵称呼；儿童发音形式不能硬拆拉丁根"
+      ],
+      [
+        "现代 mom 词族",
+        "妈妈、妈咪；step- 接继亲关系"
+      ],
+      [
+        "mom + -y → mommy",
+        "妈妈 → 儿童亲昵称呼"
+      ]
+    ],
+    "explanation": "Where is Mommy? 妈妈在哪儿？my mommy 我妈咪；美式常见，英式也常写 mummy。",
+    "usage": "my mommy；ask Mommy；Mommy and Daddy。",
+    "contrast": "mommy 是称呼语气，stepmom 是关系类型；同一位继母也可以被孩子亲昵叫 Mommy。",
+    "examples": [
+      [
+        "The little girl ran to her mommy.",
+        "小女孩跑向妈妈。"
+      ],
+      [
+        "Mommy, can you read this story again?",
+        "妈咪，你能再读一遍这个故事吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mommy#English"
+    ]
+  },
+  {
+    "word": "stepmom",
+    "ipa": "英 /ˈstepmɒm/；美 /ˈstepmɑːm/",
+    "meaning": "继母的口语称呼",
+    "sense": "父亲后来结婚的妻子，且她不是自己的生母；mom 让称呼更日常。",
+    "split": "step- 继亲关系 + mom。step- 的历史接失去亲属、孤儿等旧词族，与迈步 step 不是同一条来源。",
+    "history": [
+      [
+        "儿童称呼 momma 等 → mom",
+        "妈妈的亲昵称呼；儿童发音形式不能硬拆拉丁根"
+      ],
+      [
+        "现代 mom 词族",
+        "妈妈、妈咪；step- 接继亲关系"
+      ],
+      [
+        "step- + mom → stepmom",
+        "继亲关系 + 妈妈 → 继母口语称呼"
+      ]
+    ],
+    "explanation": "my stepmom 我的继母；正式或中性完整形式是 stepmother。关系名本身不说明相处亲疏。",
+    "usage": "my stepmom；a caring stepmom；live with a stepmom。",
+    "contrast": "stepmom 继母，不是 mother-in-law 岳母、婆婆，也不是 godmother 教母。",
+    "examples": [
+      [
+        "My stepmom helped me prepare for the interview.",
+        "我的继母帮我准备了面试。"
+      ],
+      [
+        "She gets along well with her stepmom.",
+        "她和继母相处得很好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepmom#English"
+    ]
+  },
+  {
+    "word": "quality",
+    "ipa": "/ˈkwɒləti/；美 /ˈkwɑːləti/",
+    "meaning": "质量；品质；特征、优点",
+    "sense": "先问它是什么样，再问做得好不好。单数常说质量，复数 qualities 经常说一个人的特点、优点。",
+    "split": "经法语来自拉丁 quālitās，接 quālis 什么样。历史是性质名词，不是把 quantity 数量改几个字母变成质量。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "现代英语 quality",
+        "性质、质量；人物特点与优点"
+      ]
+    ],
+    "explanation": "high quality 高质量，leadership qualities 领导品质，quality of life 生活质量；quality time 指专心陪伴的相处时间。",
+    "usage": "high quality；quality of life；leadership qualities；quality time。",
+    "contrast": "quality 质量、性质，quantity 数量；a quality product 常有品质好的评价，不只是说东西有某种性质。",
+    "examples": [
+      [
+        "The company focuses on quality rather than quantity.",
+        "公司注重质量，而非数量。"
+      ],
+      [
+        "Patience is one of her best qualities.",
+        "耐心是她最好的品质之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quality#English"
+    ]
+  },
+  {
+    "word": "qualitative",
+    "ipa": "英 /ˈkwɒlɪtətɪv/；美 /ˈkwɑːləteɪtɪv/",
+    "meaning": "性质上的；定性的",
+    "sense": "问发生了什么、是什么体验、有哪些特点，而不只是问有几个、多少分。",
+    "split": "经拉丁性质词的对应形容词形式与法语等进入英语，现代与 quality 相联系。不能把整个词简单译成质量好的。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "拉丁性质词的形容词分支 → qualitative",
+        "关于性质、特点 → 定性的"
+      ]
+    ],
+    "explanation": "qualitative research 定性研究，qualitative data 定性资料，a qualitative difference 性质上的差别；方法名不自动评价研究好坏。",
+    "usage": "qualitative research；qualitative data；a qualitative difference。",
+    "contrast": "qualitative 关注性质，quantitative 关注数量；实际研究可以把两类方法结合，并非互相排斥。",
+    "examples": [
+      [
+        "The study uses qualitative interviews to explore people’s experiences.",
+        "研究用定性访谈探索人们的经历。"
+      ],
+      [
+        "There is a qualitative difference between the two approaches.",
+        "这两种方法存在性质上的差别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/qualitative#English"
+    ]
+  },
+  {
+    "word": "qualify",
+    "ipa": "英 /ˈkwɒlɪfaɪ/；美 /ˈkwɑːləfaɪ/",
+    "meaning": "具备资格；使符合条件；限定、修正说法",
+    "sense": "一条常用路是条件够了、可以参加；另一条是给话加条件，让它别说得太满。",
+    "split": "经法语 qualifier 及中世纪拉丁 qualificāre，历史接 quālis 什么样 + facere 使、做的组合成分。不是现代英语直接把 quality 尾巴改成 fy 才第一次造出来。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "中世纪拉丁 qualificāre → 法语 qualifier → qualify",
+        "赋予、说明性质 → 使具资格；限定说法"
+      ]
+    ],
+    "explanation": "qualify for the final 获得决赛资格，qualify as a teacher 取得教师资格；qualify a statement 为说法加限制。",
+    "usage": "qualify for；qualify as；qualify someone to do；qualify a statement。",
+    "contrast": "qualify for 针对准入对象，qualify as 针对身份；qualify my support 可能是给支持加保留，绝非让支持拿证。",
+    "examples": [
+      [
+        "The team qualified for the final.",
+        "球队获得了决赛资格。"
+      ],
+      [
+        "She qualified her earlier statement by adding a condition.",
+        "她补充一个条件，对先前的说法作了限定。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/qualify",
+      "https://en.wiktionary.org/wiki/qualify#English"
+    ]
+  },
+  {
+    "word": "qualified",
+    "ipa": "英 /ˈkwɒlɪfaɪd/；美 /ˈkwɑːləfaɪd/",
+    "meaning": "合格、有资质的；有限度、带保留的",
+    "sense": "说人时常是条件、训练达标；说支持或赞同时，反而可能是有条件地支持。",
+    "split": "qualify 以辅音字母 f 加 y 结尾，加 -ed 时 y 改 i，成为 qualified。两种主要形容词义接 qualify 的资格、限定两分支。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "中世纪拉丁 qualificāre → 法语 qualifier → qualify",
+        "赋予、说明性质 → 使具资格；限定说法"
+      ],
+      [
+        "qualify + -ed → qualified",
+        "具资格 → 合格；被限定 → 有保留"
+      ]
+    ],
+    "explanation": "a qualified teacher 合格教师，qualified support 有保留的支持；well qualified for 很适合、很有资质担任。",
+    "usage": "a qualified teacher；qualified support；qualified approval。",
+    "contrast": "qualified support 不是完全支持；unqualified support 无保留支持。别把形容词只记成合格。",
+    "examples": [
+      [
+        "A qualified electrician checked the wiring.",
+        "一位合格电工检查了线路。"
+      ],
+      [
+        "The proposal received only qualified support.",
+        "提议只获得了有保留的支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/qualified#English"
+    ]
+  },
+  {
+    "word": "unqualified",
+    "ipa": "英 /ʌnˈkwɒlɪfaɪd/；美 /ʌnˈkwɑːləfaɪd/",
+    "meaning": "不合格、无资质的；无保留的、十足的",
+    "sense": "否定的是哪个意思很关键：人没资格是不合格，支持没有限制则是全力支持。",
+    "split": "un- 不、没有 + qualified，同时可否定具资格与被限定两种状态，形成看似相反的现代语气。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "中世纪拉丁 qualificāre → 法语 qualifier → qualify",
+        "赋予、说明性质 → 使具资格；限定说法"
+      ],
+      [
+        "un- + qualified → unqualified",
+        "无资格；另一路无任何限定"
+      ]
+    ],
+    "explanation": "unqualified staff 无资质人员，unqualified support 无保留支持，an unqualified success 十足的成功。",
+    "usage": "unqualified staff；unqualified support；an unqualified success。",
+    "contrast": "unqualified success 是毫无疑问的成功，不是不合格的成功；先判 qualified 资格还是限定这条义。",
+    "examples": [
+      [
+        "The event was an unqualified success.",
+        "活动取得了十足的成功。"
+      ],
+      [
+        "He was unqualified for the technical role.",
+        "他不具备担任该技术岗位的资格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unqualified#English"
+    ]
+  },
+  {
+    "word": "disqualify",
+    "ipa": "英 /dɪsˈkwɒlɪfaɪ/；美 /dɪsˈkwɑːləfaɪ/",
+    "meaning": "取消资格；使不具备资格",
+    "sense": "原本想参加、被选中，某项规则或情况让它失去准入资格。",
+    "split": "dis- 取消、相反 + qualify，形成取消资格动词。disqualify someone from doing 是常用结构。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "中世纪拉丁 qualificāre → 法语 qualifier → qualify",
+        "赋予、说明性质 → 使具资格；限定说法"
+      ],
+      [
+        "dis- + qualify → disqualify",
+        "资格被取消、受阻 → 取消资格"
+      ]
+    ],
+    "explanation": "disqualify a competitor 取消选手资格，be disqualified from the race 被取消比赛资格；原因可能是违规或资格条件不符。",
+    "usage": "disqualify someone from；be disqualified for；disqualify a competitor。",
+    "contrast": "disqualify 资格被取消，lose 比赛落败；输了比赛不自动等于被取消资格。",
+    "examples": [
+      [
+        "The runner was disqualified for a false start.",
+        "跑者因抢跑被取消资格。"
+      ],
+      [
+        "The rule disqualifies employees from entering the competition.",
+        "规则规定员工没有资格参加这项比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disqualify#English"
+    ]
+  },
+  {
+    "word": "qualifier",
+    "ipa": "英 /ˈkwɒlɪfaɪə/；美 /ˈkwɑːləfaɪər/",
+    "meaning": "资格赛；入围者；限定词语",
+    "sense": "可以是一场决定谁能参加的比赛、一个已取得资格的人，也可以是给说法加条件的词。",
+    "split": "qualify + -er，词尾 y 改 i，成为 qualifier。不同义分别接资格与限定两分支。",
+    "history": [
+      [
+        "拉丁 quālis 什么样 → quālitās → 法语 qualité → quality",
+        "某物是什么性质 → 特点、质量"
+      ],
+      [
+        "中世纪拉丁 qualificāre → 法语 qualifier → qualify",
+        "赋予、说明性质 → 使具资格；限定说法"
+      ],
+      [
+        "qualify + -er → qualifier",
+        "决定、获得资格者或事项；限定成分"
+      ]
+    ],
+    "explanation": "a World Cup qualifier 世界杯预选赛，a surprise qualifier 意外入围者；a qualifier such as usually 是诸如通常这样的限定成分。",
+    "usage": "a World Cup qualifier；a final qualifier；add a qualifier。",
+    "contrast": "qualifier 可以是比赛、参赛者或语言成分；不是永远指资格证书，证书要看 certificate 等具体词。",
+    "examples": [
+      [
+        "The team won its first qualifier.",
+        "球队赢得了首场资格赛。"
+      ],
+      [
+        "Adding the qualifier usually made the claim more accurate.",
+        "加上通常这个限定词，让说法更准确了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/qualifier#English"
+    ]
+  }
+]

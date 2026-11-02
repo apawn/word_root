@@ -1,0 +1,85 @@
+[
+  {
+    "id": "B2776",
+    "meaning": "把内容从一边带到另一边",
+    "core": "TRANSLATE：搬的是意思，也可以是形式",
+    "image": "translate → translatable；translation、translator 各有拉丁、法语借入支线，放一起看过程、结果与主体。",
+    "intro": "trans- 与 lāt- 要连到真实拉丁形态；lātus 是 ferre 的不规则分词材料，late 在这里不指晚。翻译也不是把每个字按相同顺序搬一次。",
+    "forms": "trans- + ferre → transferre；其分词 trānslātus；平行派生 trānslātiō、trānslātor → translate、translation、translator；translate + -able。\n\n法语 translater、拉丁 translatus 是 transferre 的分词材料，现代动词 t 后 ed 读 id。\n\ntranslate 经法语或拉丁 translatus，后者是 transferre 搬过去的补充式分词材料。现代保留 e 加 -s，翻译与转化成行动等常用义并行。\n\ntranslation 经法语、拉丁 translatio 搬过去，接 transferre 携过的补充式分词词干 translat-；现代复数 -s，可数译本、译文。",
+    "branches": [
+      [
+        "转换动作与可转换性质",
+        "translate · translatable"
+      ],
+      [
+        "转换过程、结果与主体",
+        "translation · translator"
+      ],
+      [
+        "translate → translated：把意思带到另一种表达里",
+        "translate · translated · translation"
+      ],
+      [
+        "trans- 越过 + lat- 搬带 → translates",
+        "translates"
+      ],
+      [
+        "trans- 跨过 + lat- 带 → translations",
+        "translations"
+      ]
+    ],
+    "contrasts": "translator/translation 人工具与过程结果；translation/interpretation 职业、日常用法依语境；translate/transfer 旧词族相连而不是英语先后改拼。",
+    "practice": "The translator produced a clear translation of a passage that seemed hardly translatable.\n\n译者把一段看似很难翻译的文字译得清楚明白。",
+    "words": [
+      "translate",
+      "translatable",
+      "translation",
+      "translator",
+      "translated",
+      "translates",
+      "translations"
+    ],
+    "exclude": {
+      "back-translate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3337",
+    "meaning": "受控制的人，及奴役制度、动作与照搬比喻",
+    "core": "SLAVE：被夺走自主，派生词各换观察角度",
+    "image": "slave → slavery、enslave、slavish；slaver 奴贩 /eɪ/，同形流涎 /æ/ 另源。",
+    "intro": "族名与受奴役者名称的历史联系要说成历史传播，不变成民族性格故事。slavish imitation 则是批评机械照搬的现代比喻。",
+    "forms": "Sclavus → sclavus → esclave → slave；slave + -ery；en- + slave；slave + -ish/-er；slafra 另线 → slaver 流涎。\n\n法语、中世纪拉丁词形通常联系 Slav 族名及中世纪被奴役的历史，现代复数 s。",
+    "branches": [
+      [
+        "人物与制度",
+        "slave · slavery"
+      ],
+      [
+        "使受奴役与奴从性质",
+        "enslave · slavish"
+      ],
+      [
+        "人物、船与同形异源词",
+        "slaver"
+      ],
+      [
+        "slave → slaves：被强制支配的人",
+        "slave · slaves"
+      ]
+    ],
+    "contrasts": "slave/slavery 人物与制度；enslave/slave away 使受奴役与苦干；slavish/faithful 贬机械照搬与忠实；slaver 两读音分。",
+    "practice": "The translator avoided slavish imitation when translating the historical account of slavery.\n\n译者翻译这篇奴隶制历史记述时，避免了机械照搬。",
+    "words": [
+      "slave",
+      "slavery",
+      "enslave",
+      "slavish",
+      "slaver",
+      "slaves"
+    ],
+    "exclude": {
+      "ex-slave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

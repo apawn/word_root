@@ -1,0 +1,382 @@
+[
+  {
+    "word": "celebrate",
+    "ipa": "英 /ˈselɪbreɪt/；美 /ˈseləbreɪt/",
+    "meaning": "庆祝、纪念；赞颂",
+    "sense": "觉得这件事值得专门拿出来重视，大家聚起来、做些特别的事；也可用作品赞美某种文化、成就，不一定摆蛋糕开派对。",
+    "split": "经中古英语接拉丁 celebrāre、celebrātus，和 celeber 人多、著名等词相连；聚集、公开纪念、赞颂的旧背景后来进入现代庆祝。",
+    "history": [
+      [
+        "拉丁 celeber → celebrāre、celebrātus → celebrate",
+        "人多、著名等 → 聚集纪念、赞颂、庆祝"
+      ],
+      [
+        "不同拉丁、法语形式接入英语",
+        "celebration 活动名；celebrant 仪式人物名；不全是英语现加后缀"
+      ]
+    ],
+    "explanation": "celebrate a birthday 庆祝生日，celebrate an achievement 庆祝成就，celebrate local culture 赞美、展示当地文化。",
+    "usage": "celebrate a birthday；celebrate an achievement；celebrate local culture。",
+    "contrast": "celebrate 常直接接庆祝对象，不加 for；congratulate someone on something 祝贺某人是另一个句型。",
+    "examples": [
+      [
+        "We celebrated her birthday with a small dinner.",
+        "我们吃了顿小型聚餐，庆祝她生日。"
+      ],
+      [
+        "The festival celebrates local music and food.",
+        "节庆展示并赞颂当地音乐与美食。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebrate#English"
+    ]
+  },
+  {
+    "word": "celebration",
+    "ipa": "英 /ˌselɪˈbreɪʃən/；美 /ˌseləˈbreɪʃən/",
+    "meaning": "庆祝、庆典、庆祝活动",
+    "sense": "把庆祝这件事或专门办的活动当名词来说；复数 celebrations 可包括一连串庆祝安排。",
+    "split": "借法语 celebration、拉丁 celebrātiō 的相应名词；现代可对照 celebrate 去 e 加 -ion，不把历史画成只有英语后来才造这一条路。",
+    "history": [
+      [
+        "拉丁 celeber → celebrāre、celebrātus → celebrate",
+        "人多、著名等 → 聚集纪念、赞颂、庆祝"
+      ],
+      [
+        "拉丁 celebrātiō → 法语 celebration → celebration",
+        "庆祝、纪念的活动或行为"
+      ]
+    ],
+    "explanation": "a birthday celebration 生日庆祝，in celebration of 为庆祝，a cause for celebration 值得庆祝的事。",
+    "usage": "a birthday celebration；in celebration of；a cause for celebration。",
+    "contrast": "celebration 可一场活动或庆祝行为，celebrity 名人是同族另一分支，不是庆祝活动的复数。",
+    "examples": [
+      [
+        "The town held a celebration in the square.",
+        "小镇在广场举行庆典。"
+      ],
+      [
+        "Their safe return was a cause for celebration.",
+        "他们平安归来值得庆祝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebration#English"
+    ]
+  },
+  {
+    "word": "celebratory",
+    "ipa": "英 /ˌselɪˈbreɪtəri/；美 /ˈseləbrətɔːri/",
+    "meaning": "庆祝的、带庆祝气氛的",
+    "sense": "一顿饭、一种语气、一阵掌声带着终于成了、值得高兴的庆祝意味，不只是普通活动。",
+    "split": "celebrate 对应 -ory 形成形容词，表示庆祝性质。词尾不是表示历史的 story，英美重音存在不同常用读法。",
+    "history": [
+      [
+        "拉丁 celeber → celebrāre、celebrātus → celebrate",
+        "人多、著名等 → 聚集纪念、赞颂、庆祝"
+      ],
+      [
+        "celebrate 对应 -ory → celebratory",
+        "带庆祝性质、气氛的"
+      ]
+    ],
+    "explanation": "a celebratory dinner 庆祝聚餐，a celebratory mood 庆祝心情，a celebratory drink 庆祝时喝的一杯。",
+    "usage": "a celebratory dinner；a celebratory mood；a celebratory atmosphere。",
+    "contrast": "celebratory 形容庆祝性质，celebration 名词；a celebratory dinner 不是某个名人 celebrity 专用晚餐。",
+    "examples": [
+      [
+        "They went out for a celebratory dinner.",
+        "他们出去聚餐庆祝。"
+      ],
+      [
+        "The room had a celebratory atmosphere.",
+        "屋里充满庆祝气氛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebratory#English"
+    ]
+  },
+  {
+    "word": "celebrant",
+    "ipa": "英 /ˈselɪbrənt/；美 /ˈseləbrənt/",
+    "meaning": "仪式主持人；庆祝者、参与者〔视语境〕",
+    "sense": "婚礼、典礼里主持仪式的人常叫 celebrant；有些用法也说参加庆祝的人，不能只见这个词就认成生日主角。",
+    "split": "经法语 célébrant 接拉丁 celebrāns，celebrāre 的现在分词。旧宗教举行仪式者背景到现代典礼角色，现代可对应 celebrate 的人物后缀 -ant。",
+    "history": [
+      [
+        "拉丁 celeber → celebrāre、celebrātus → celebrate",
+        "人多、著名等 → 聚集纪念、赞颂、庆祝"
+      ],
+      [
+        "拉丁 celebrāns → 法语 célébrant → celebrant",
+        "举行仪式者；也有参加庆祝者用法"
+      ]
+    ],
+    "explanation": "a wedding celebrant 婚礼主持人，the celebrant at the ceremony 仪式主持人，a civil celebrant 非宗教典礼主持人。",
+    "usage": "a wedding celebrant；a civil celebrant；the celebrant at the ceremony。",
+    "contrast": "celebrant 仪式角色，celebrity 名人；庆祝者、主持人含义要看具体传统和搭配，不保证每个 celebrant 是神职人员。",
+    "examples": [
+      [
+        "The wedding celebrant welcomed the guests.",
+        "婚礼主持人欢迎了来宾。"
+      ],
+      [
+        "They met the celebrant before the ceremony.",
+        "典礼前，他们与主持人见了面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebrant#English"
+    ]
+  },
+  {
+    "word": "oceanside",
+    "ipa": "英 /ˈəʊʃənsaɪd/；美 /ˈoʊʃənsaɪd/",
+    "meaning": "海边、洋岸地区；海边的",
+    "sense": "位置在海洋岸边一带，side 是旁边，不是 ocean 的右半边；也常见于海边城市、旅馆名称。",
+    "split": "ocean 海洋 + side 边，现代复合词。ocean 较早接希腊 Ōkeanós 等海流、海洋名称，oceanside 则在英语里组合。",
+    "history": [
+      [
+        "海洋名称词族 → ocean",
+        "海洋"
+      ],
+      [
+        "ocean + side → oceanside",
+        "海边地区；海边的"
+      ]
+    ],
+    "explanation": "an oceanside hotel 海边旅馆，an oceanside town 海边小镇，walk along the oceanside 沿海边散步。",
+    "usage": "an oceanside hotel；an oceanside town；an oceanside path。",
+    "contrast": "oceanside 在海边较宽泛，oceanfront 较强调直接面向海的一线位置；宣传名称仍需按实际地点理解。",
+    "examples": [
+      [
+        "They stayed in an oceanside hotel.",
+        "他们住在海边一家旅馆。"
+      ],
+      [
+        "An oceanside path led to the village.",
+        "一条海边小路通向村庄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oceanside#English"
+    ]
+  },
+  {
+    "word": "bat",
+    "ipa": "/bæt/",
+    "meaning": "蝙蝠；球棒、球拍；用棒击；眨眼、扑动〔另动词路径〕",
+    "sense": "动物 bat 是蝙蝠，打球的 bat 是棒；它们同拼写，不是因为蝙蝠像棒才起名。bat an eyelid 则在说眼睑动一下。",
+    "split": "球棒接古英语 batt 等，也受法语击打词影响；动物接中古英语 bakke 等北欧相关词。眨眼动词常接旧 bate 扑翼用法，不把所有义项排成同一条动物到球具的故事。",
+    "history": [
+      [
+        "古英语 batt、法语 batte 等 → bat〔棒〕",
+        "棒、击打器具；旧来源相互影响"
+      ],
+      [
+        "中古英语 bakke 等北欧相关动物词 → bat〔蝙蝠〕",
+        "扑翼的哺乳动物；与棒不是同一直接祖先"
+      ],
+      [
+        "击打与扑动的动词路径",
+        "bat 打击；眨眼等用法另有旧 bate 扑翼联系"
+      ]
+    ],
+    "explanation": "a baseball bat 棒球棒，a cricket bat 板球拍，bats at dusk 黄昏的蝙蝠，not bat an eyelid 丝毫不动声色〔英式常见〕。",
+    "usage": "a baseball bat；a cricket bat；not bat an eyelid；right off the bat。",
+    "contrast": "bat 蝙蝠是哺乳动物，不是 bird；right off the bat 是一开始就，不是字面从蝙蝠身上掉下来。",
+    "examples": [
+      [
+        "A bat flew out of the old roof at dusk.",
+        "黄昏时，一只蝙蝠从旧屋顶飞了出来。"
+      ],
+      [
+        "She picked up the bat and walked to the field.",
+        "她拿起球棒走向球场。"
+      ],
+      [
+        "He did not bat an eyelid at the surprising news.",
+        "听到惊人消息，他丝毫没有动声色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bat#English",
+      "https://www.etymonline.com/word/bat"
+    ]
+  },
+  {
+    "word": "batting",
+    "ipa": "/ˈbætɪŋ/",
+    "meaning": "击球、击球表现；絮棉、填充纤维层〔另一旧义〕",
+    "sense": "体育里是在挥棒击球；做被子时的 cotton batting 却是蓬松填充层，别在缝纫材料里找运动场。",
+    "split": "击球为 bat 双写 t 加 -ing。填充材料义接旧 bat、batt 成团、压成层的纤维等名词，与被击打整理的材料背景有关，不是球棒的木头碎屑。",
+    "history": [
+      [
+        "古英语 batt、法语 batte 等 → bat〔棒〕",
+        "棒、击打器具；旧来源相互影响"
+      ],
+      [
+        "bat + -ing → batting〔击球〕；旧 batt 等 + -ing → 填充材料",
+        "运动过程与纤维集合名分开"
+      ]
+    ],
+    "explanation": "batting practice 击球练习，batting average 击球率等指标，cotton batting 棉絮填充料。",
+    "usage": "batting practice；batting average；cotton batting。",
+    "contrast": "batting 在棒球、板球指标中具体含义不同，不能直接搬同一公式；填充料用法通常不可数。",
+    "examples": [
+      [
+        "The players began batting practice.",
+        "球员们开始击球练习。"
+      ],
+      [
+        "She used cotton batting inside the quilt.",
+        "她在被子里用了棉絮填充料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/batting#English"
+    ]
+  },
+  {
+    "word": "batter",
+    "ipa": "英 /ˈbætə/；美 /ˈbætər/",
+    "meaning": "击球手；反复猛击；面糊〔相关旧词义〕",
+    "sense": "体育里 batter 是击球的人；storm battered the coast 是风暴反复冲打；面糊则是被搅打匀的一团液状材料。末尾 -er 不每次都指人。",
+    "split": "击球者对应 bat + 人物 -er；猛击动词有法语 batre、英语反复动作形式等背景；面糊名词接法语 bateure 击打、搅打等名词。不是英语击球手先变成了面糊。",
+    "history": [
+      [
+        "bat + -er → batter〔击球者〕",
+        "挥棒击球的人"
+      ],
+      [
+        "旧击打动词形式、法语 batre 等 → batter〔猛击〕",
+        "反复强烈打击"
+      ],
+      [
+        "法语 bateure → 中古英语 bature → batter〔面糊〕",
+        "搅打 → 搅成的面糊"
+      ]
+    ],
+    "explanation": "a baseball batter 棒球击球手，batter the coast 冲打海岸，pancake batter 煎饼面糊，fish in batter 裹面糊的鱼。",
+    "usage": "a baseball batter；batter the coast；pancake batter；fish in batter。",
+    "contrast": "面糊 batter 较流动，dough 面团通常更能成团；batter 的人物 -er 与反复动作词尾、借词名词不是一套现代规则。",
+    "examples": [
+      [
+        "The batter waited for the next pitch.",
+        "击球手等待下一球。"
+      ],
+      [
+        "Strong waves battered the harbour wall.",
+        "强浪反复冲打港口围墙。"
+      ],
+      [
+        "She poured the pancake batter into the pan.",
+        "她把煎饼面糊倒进平底锅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/batter#English"
+    ]
+  },
+  {
+    "word": "batsman",
+    "ipa": "/ˈbætsmən/",
+    "meaning": "板球击球手〔传统称呼，常指男性〕",
+    "sense": "在板球里拿球拍接击投球的人；man 是人物材料，bats- 不是说一群蝙蝠来帮人打球。",
+    "split": "bat + 连接成分 -s- + man，复数 batsmen。现代也广用性别中性的 batter，阅读时保留传统术语的含义。",
+    "history": [
+      [
+        "古英语 batt、法语 batte 等 → bat〔棒〕",
+        "棒、击打器具；旧来源相互影响"
+      ],
+      [
+        "bat + -s- + man → batsman",
+        "持拍击球的人"
+      ]
+    ],
+    "explanation": "an opening batsman 开局击球手，a skilled batsman 熟练击球手，two batsmen 两名击球手。",
+    "usage": "an opening batsman；a skilled batsman；two batsmen。",
+    "contrast": "batsman 常板球传统用语，batter 也用于板球、棒球且性别中性；不能只看使用球棒便认为每项运动的职位、规则完全相同。",
+    "examples": [
+      [
+        "The opening batsman played confidently.",
+        "开局击球手打得很有信心。"
+      ],
+      [
+        "The coach praised the young batsman’s patience.",
+        "教练表扬了年轻击球手的耐心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/batsman#English"
+    ]
+  },
+  {
+    "word": "batty",
+    "ipa": "/ˈbæti/",
+    "meaning": "古怪、傻乎乎的〔口语，常戏谑〕；像蝙蝠的",
+    "sense": "主要口语义像说想法有点乱飞、不太着调；常带戏谑，也可能不客气，不是一个严谨的诊断。",
+    "split": "bat 动物词 + -y，双写 t。古怪义与 have bats in one’s belfry 一类钟楼里蝙蝠乱飞的旧比喻有关，不是球棒把人打坏的确定故事。",
+    "history": [
+      [
+        "中古英语 bakke 等北欧相关动物词 → bat〔蝙蝠〕",
+        "扑翼的哺乳动物；与棒不是同一直接祖先"
+      ],
+      [
+        "bat + -y → batty〔双写 t〕",
+        "像蝙蝠；借旧乱飞比喻说古怪"
+      ]
+    ],
+    "explanation": "a batty idea 古怪主意，a little batty 有点傻乎乎，drive someone batty 把某人弄得烦透。",
+    "usage": "a batty idea；a little batty；drive someone batty。",
+    "contrast": "batty 常主观、口语评价，unusual 不寻常可中性；batsman 接球棒义，与 batty 古怪不能一串硬推。",
+    "examples": [
+      [
+        "The comedy is full of batty ideas.",
+        "喜剧里满是古怪点子。"
+      ],
+      [
+        "That constant noise is driving me batty.",
+        "那没完没了的噪声快把我烦疯了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/batty#English"
+    ]
+  },
+  {
+    "word": "batwing",
+    "ipa": "/ˈbætwɪŋ/",
+    "meaning": "蝙蝠翼、蝙蝠翼形；蝙蝠袖的〔服饰〕",
+    "sense": "蝙蝠翼展开时宽宽的一片；衣服袖子在腋下很宽、往袖口收，也借这个形状叫 batwing sleeves。",
+    "split": "bat 蝙蝠 + wing 翼，先是动物部位，再按形状用于服装、结构等，不是挥球棒的翅膀。",
+    "history": [
+      [
+        "中古英语 bakke 等北欧相关动物词 → bat〔蝙蝠〕",
+        "扑翼的哺乳动物；与棒不是同一直接祖先"
+      ],
+      [
+        "bat + wing → batwing",
+        "蝙蝠翼形 → 相似服装、结构外形"
+      ]
+    ],
+    "explanation": "batwing sleeves 蝙蝠袖，a batwing top 蝙蝠袖上衣，a batwing shape 蝙蝠翼形。",
+    "usage": "batwing sleeves；a batwing top；a batwing shape。",
+    "contrast": "batwing 服装义说形状，不说材料用真的动物翅翼；wing 部位、bat 动物含义在这里都清楚。",
+    "examples": [
+      [
+        "The blouse has loose batwing sleeves.",
+        "这件女衬衫有宽松的蝙蝠袖。"
+      ],
+      [
+        "The costume used a dramatic batwing shape.",
+        "戏服采用了夸张的蝙蝠翼形。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/batwing#English"
+    ]
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "B2899",
+    "meaning": "公牛及相关组合；另有诏书、胡话等同形来源",
+    "core": "BULL：先认场景，再决定是动物、市场、文件还是说辞",
+    "image": "bullfighter 面对公牛，bullish 描述前景判断；papal bull 是文件，bullshit 则在批评胡话，不能都用牛的身体动作解释。",
+    "intro": "公牛词接日耳曼语、北欧语材料；教皇诏书接拉丁 bulla 印玺；胡话词还有自己的来源问题及与 bullshit 的联系。它们今天同形，近源并不统一。",
+    "forms": "bull + -ish → bullish；bull + fight／fighter／fighting → bullfight／bullfighter／bullfighting。bullshit 常联系 bull 胡话 + shit，语域粗俗。bullet 的近源是小球词，不归为公牛的小个体。\n\n动物名日耳曼词族、诏书拉丁 bulla 等路径分开，不硬混。",
+    "branches": [
+      [
+        "动物与直接组合",
+        "bull · bullock · bulldog · bullfrog · bullhorn · bullpen · bullseye"
+      ],
+      [
+        "斗牛的事件、人物和活动",
+        "bullfight · bullfighter · bullfighting"
+      ],
+      [
+        "市场、态度与比喻",
+        "bullish · bulldoze"
+      ],
+      [
+        "同形来源和语气辨别",
+        "bull〔诏书、胡话〕；bullshit · bullcrap"
+      ],
+      [
+        "bull → bulls：公牛；诏书等同形词另有来源",
+        "bull · bulls"
+      ]
+    ],
+    "contrasts": "bullish 不是确定会涨的事实宣告；bullshit、bullcrap 带粗俗或不礼貌语气；papal bull 不从公牛派生；bullet 与牛仔使用子弹的故事不是词源。",
+    "practice": "The report contrasted bullish confidence with the problems the team still faced.\n\n报告把乐观的信心与团队仍面临的问题作了对照。",
+    "words": [
+      "bull",
+      "bullock",
+      "bulldog",
+      "bullfrog",
+      "bullhorn",
+      "bullpen",
+      "bullseye",
+      "bullfight",
+      "bullfighter",
+      "bullfighting",
+      "bullish",
+      "bulldoze",
+      "bullshit",
+      "bullcrap",
+      "bulls"
+    ],
+    "exclude": {
+      "bull-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bullet": "bullet 经法语小球词传入，不作为日耳曼语公牛词的派生。",
+      "bull-mobile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bull-thrower": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "buller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bullhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2589",
+    "meaning": "女王、王后；棋后、蜂后等固定称谓",
+    "core": "QUEEN：从女性王室身份扩展到不同领域的突出角色",
+    "image": "同是 queen，王室要区分自己统治的女王和王后，棋盘上是后，蜂群里是蜂后。每个领域另有角色定义。",
+    "intro": "queen 从古英语 cwēn 及更早女人、妻子的材料延续，王室称谓逐步专门化。它不是 king 后面接一个标准女性后缀，现代称谓对应不等于同一条拼接词源。",
+    "forms": "queen 的普通复数 queens；棋类还可作兵升后的动词。queen bee、queen of hearts、queen of a field 是固定称谓、比喻，需要看后面的名词和上下文。\n\n古英语女人、妻子词发展成王室头衔，其他用途后借用。",
+    "branches": [
+      [
+        "王室称号",
+        "queen〔女王、王后〕"
+      ],
+      [
+        "棋盘与扑克牌",
+        "queen〔后、Q 牌〕"
+      ],
+      [
+        "生物与比喻称谓",
+        "queen bee；queen of a field"
+      ],
+      [
+        "queen → queens：王室女性、蜂后与棋子",
+        "queen · queens"
+      ]
+    ],
+    "contrasts": "queen 不保证都是亲自执政者；queen bee 不是人类政治职位；king、queen 是现代称谓对应，不把 queen 伪拆为 king 的女性后缀。冷僻昵称不另列。",
+    "practice": "The queen in the story played chess with a silver queen on the board.\n\n故事里的女王下棋时，棋盘上用的是银色的后。",
+    "words": [
+      "queen",
+      "queens"
+    ],
+    "exclude": {
+      "queen-cage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "queenie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3312",
+    "meaning": "桅杆、天线杆；另有林木果实同形词",
+    "core": "MAST：船上的高杆，与 master 的人物词源分开",
+    "image": "帆挂在 mast 上；masthead 先指桅顶等位置，后来借到刊物版面。master 主人、专家却不是桅杆旁多了一个人。",
+    "intro": "船桅词由古英语 mæst 延续。另有同形的森林果实、动物食料词，各有日耳曼语历史。master 从拉丁 magister 经英语、法语形式传承，不能因开头相同就归入这支。",
+    "forms": "mast + head → masthead；masted 有桅杆的常在数量组合里使用，按当前规则不单列带连字符的组合。这里优先学习实际有用的 mast、masthead。",
+    "branches": [
+      [
+        "船与通信的高杆",
+        "mast"
+      ],
+      [
+        "顶端及版面名称",
+        "masthead"
+      ],
+      [
+        "另源同形义辨读",
+        "mast〔林木果实〕"
+      ]
+    ],
+    "contrasts": "masthead 在出版语境的具体所指随地区、出版物惯例有差异；master 不由 mast + -er 派生；不能把所有 mast 字母开头的词都连成船的家族。",
+    "practice": "The photographer stood beside the mast and looked up at the masthead.\n\n摄影师站在桅杆旁，抬头看向桅顶。",
+    "words": [
+      "mast",
+      "masthead"
+    ],
+    "exclude": {
+      "master": "master 接拉丁 magister，不由 mast 桅杆加 -er 派生；另有逐词精讲。",
+      "masted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3468",
+    "meaning": "安排、整饰；穿戴；衣装及相应纠正、补救",
+    "core": "DRESS：先把东西整理到位，穿衣只是后来突出的一条",
+    "image": "dress a person 把人穿戴好；dress a salad 调拌沙拉；redress a wrong 把不对的事纠正。这些能从较早的安排、摆正理解联系。",
+    "intro": "dress 经法语 dresser、drecier 接拉丁 directus 等摆正、引导材料。现代名词连衣裙只是固定出来的一项，不能用它倒推整族的所有意思。",
+    "forms": "dress + -ing → dressing；dress + -er → dresser；un- + dress → undress；head + dress → headdress；dress + -y → dressy。redress 接法语 re- + 摆正材料，形成纠正、补救。\n\n此处按服饰对照，不表示两词由 dress 派生。kimono 是日语穿 + 东西的组合；sari 经印地语等接更早南亚语言的衣物名。\n\n人的 dresser 接 dress + -er；家具名另有法语准备食物的桌、柜名称背景，后来也用于梳妆、收衣抽屉柜。不能把所有家具义当穿衣者变成柜子的故事。",
+    "branches": [
+      [
+        "着装与日常形式",
+        "dress · dressing · dresser · undress · dressy"
+      ],
+      [
+        "衣物、制作及从业者",
+        "sundress · dressmaker · dressmaking"
+      ],
+      [
+        "头部穿戴",
+        "headdress"
+      ],
+      [
+        "恢复正确、补救不公",
+        "redress"
+      ],
+      [
+        "dress 对照：和服与纱丽的借词名称",
+        "kimono · sari"
+      ],
+      [
+        "dress → dresser → dressers：人、备餐家具与抽屉柜",
+        "dressers"
+      ]
+    ],
+    "contrasts": "redress 不只重新穿衣；headdress 不必是帽子；dressy 适合讲究场合，不等于每件漂亮衣物；dressing 可是调味汁，也可与包扎、穿衣有关，按搭配辨义。",
+    "practice": "The dressmaker chose a dressy fabric and added a matching headdress.\n\n裁缝选了一种讲究的布料，并配上一件相称的头饰。",
+    "words": [
+      "dress",
+      "dressing",
+      "dresser",
+      "undress",
+      "dressy",
+      "sundress",
+      "dressmaker",
+      "dressmaking",
+      "hairdresser",
+      "head",
+      "headdress",
+      "redress",
+      "kimono",
+      "sari",
+      "dressers"
+    ],
+    "exclude": {
+      "cross-dress": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2827",
+    "meaning": "吹、刮、吹动；另有打击与旧开花词的同形关系",
+    "core": "BLOW：空气动作是主线，打击和开花的历史另看",
+    "image": "blow a whistle 吹哨；a blower 送风；blowfish 以鼓起外形命名；a blow to confidence 的打击名词另有来源。",
+    "intro": "空气动词来自古英语 blāwan，经中古英语传下；打击名词是较晚另一支敲击材料；旧开花动词还留下某些固定组合。现代同形不能被一张过度简单的吹气图全部串掉。",
+    "forms": "blow—blew—blown；blow + -ing → blowing；blow + -er → blower；blow + fish → blowfish；blowtorch、blowhole 各有具体功能或形状联系。\n\nblew /bluː/ 是过去式；blown 是过去分词，保留旧分词材料。\n\n古英语吹气动词与较晚敲击名词近源不同，现代同形。\n\n与 blow 的一击义作近义比较，不是现代 blow 派生。coup 经法语 colp、coup 接拉丁 colaphus、希腊 kolaphos 一击；政变义常缩自 coup d’état，成功的一招又是常用引申。",
+    "branches": [
+      [
+        "基本动作与语法形式",
+        "blow · blown · blowing"
+      ],
+      [
+        "送风设备与吹制人物",
+        "blower"
+      ],
+      [
+        "动物及相关组合",
+        "blowfish · blowhole"
+      ],
+      [
+        "器具与同形词辨别",
+        "blowtorch；blow〔打击〕、旧开花词"
+      ],
+      [
+        "吹动的三种形式 blow、blew、blown",
+        "blow · blew · blown"
+      ],
+      [
+        "blow → blows：吹动；另有打击名词",
+        "blow · blows"
+      ],
+      [
+        "coup：另源的决定性一击",
+        "coup · coups"
+      ]
+    ],
+    "contrasts": "blew 与 blue 同音不同义；blower 可指人、机器；blown 相关固定组合有不同源义，不能全按空气解释；blowfish 的名字不证明鱼从嘴给自己吹气。",
+    "practice": "A cold wind was blowing as the gardener put away the leaf blower.\n\n园丁收起吹叶机时，一阵冷风正吹着。",
+    "words": [
+      "blow",
+      "blown",
+      "blowing",
+      "blower",
+      "blowfish",
+      "blowhole",
+      "blowtorch",
+      "blew",
+      "blows",
+      "coup",
+      "coups"
+    ],
+    "exclude": {
+      "by-blow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blow-wave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whistle-blow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

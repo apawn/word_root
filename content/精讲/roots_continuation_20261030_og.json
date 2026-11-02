@@ -1,0 +1,243 @@
+[
+  {
+    "id": "A1974",
+    "meaning": "测量装置，前半指出量什么",
+    "core": "-METER：把某种量变成可读的数字",
+    "image": "温度、气压、速度先看常见仪表，再把同一构词用于步数、电压和光谱。",
+    "intro": "不要把每个 meter 都译成米。这个词尾常说计、仪、表；不同仪器量的对象和显示单位由前部与上下文决定。",
+    "forms": "希腊 metron 量度 → -meter；部分词经法语借入，部分用科学材料造词；voltmeter 与 pedometer 的重音安排不同。\n\n仪器线的 micro- 小 + -meter 测量仪构成测微仪；同形的微米单位中 meter 是米。共享测量材料，不把单位与工具说成同一东西。",
+    "branches": [
+      [
+        "日常与交通仪表",
+        "thermometer · barometer · speedometer · pedometer · odometer · altimeter"
+      ],
+      [
+        "电学与信号分析",
+        "voltmeter · multimeter · spectrometer · interferometer"
+      ],
+      [
+        "其他代表测量装置",
+        "accelerometer · micrometer · chronometer · magnetometer · tachometer · radiometer · calorimeter"
+      ],
+      [
+        "-meter 测量仪：micrometers 的仪器义",
+        "micrometers"
+      ]
+    ],
+    "contrasts": "-meter 的仪器义与长度单位 metre／meter 要分开；micrometer 还可因读音与语境区别测微器和微米单位。",
+    "practice": "The display shows readings from a thermometer and a voltmeter.\n\n显示屏列出了温度计和电压表的读数。",
+    "words": [
+      "thermometer",
+      "barometer",
+      "speedometer",
+      "pedometer",
+      "odometer",
+      "altimeter",
+      "voltmeter",
+      "multimeter",
+      "spectrometer",
+      "interferometer",
+      "accelerometer",
+      "micrometer",
+      "chronometer",
+      "magnetometer",
+      "tachometer",
+      "radiometer",
+      "calorimeter",
+      "micrometers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3983",
+    "meaning": "进入开始阶段，再分动作、名词与再次开始",
+    "core": "COMMENCE：正式地说一件事开场了",
+    "image": "commence → commencement；recommence 加上再次开始。",
+    "intro": "先用 begin、start 理解基本动作，再感受正式通知的语气。commencement 的毕业典礼义要看旧大学的身份进入，不用单凭结束学业来猜反义。",
+    "forms": "com- + initiare 的拉丁材料 → 法语 commencer 等 → commence；-ment 名词；re- 再次。\n\ncommence 经法语 comencier 接拉丁开始、进入词族，远有 com- 与 initiare、initium、inire 的材料。去 e 加完整 -ed，/s/ 后读 /t/。",
+    "branches": [
+      [
+        "开始动作及对应名词",
+        "commence · commencement"
+      ],
+      [
+        "重新开始",
+        "recommence"
+      ],
+      [
+        "进入、开始 → commence → commenced",
+        "commenced"
+      ]
+    ],
+    "contrasts": "commencement 可是开端，也可是毕业典礼；recommence 与 recommend 推荐不同。",
+    "practice": "After a short pause, the ceremony recommenced with a commencement address.\n\n短暂停顿后，典礼以毕业致辞重新开始。",
+    "words": [
+      "commence",
+      "commencement",
+      "recommence",
+      "commenced"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2807",
+    "meaning": "年轻女子的旧称，发展出首次、尚未经历的修饰义",
+    "core": "MAIDEN：从旧日少女称呼，借到头一次",
+    "image": "maiden 先读年轻女子的旧义，再看 maiden voyage 首航等常见搭配。",
+    "intro": "历史人物叙述中的 maiden 常带文学、旧时代色彩。现代航海、演讲等搭配中，它则常把还未经历、第一次的意味借给事物。",
+    "forms": "古英语 mægden → 中古英语 maiden；maid 反而是后来的缩短，不能只看今天字母少就判定较早。",
+    "branches": [
+      [
+        "旧人物称呼与首次的修饰义",
+        "maiden"
+      ]
+    ],
+    "contrasts": "maiden name 是婚前姓的固定说法，maiden voyage 是首航；不能按词形推断任何人的真实经历。",
+    "practice": "The ship completed its maiden voyage.\n\n这艘船完成了首航。",
+    "words": [
+      "maiden"
+    ],
+    "exclude": {
+      "elf-maiden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "maidenhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4474",
+    "meaning": "腿部管状衣物的旧名，借形状发展为软管",
+    "core": "HOSE：先是套腿的衣物，再是能输水的软管",
+    "image": "hose → pantyhose；软管动词 → hosing。",
+    "intro": "裤袜与水管看似很远，管状外形把它们连住。学复合词时先看保留哪一支义，不要把所有 hose 都翻成水管。",
+    "forms": "hosa 等 → hose；panty + hose 衣物；hose 动词去 e 接 -ing。husk 的更早来源另有多种解释，不作确定的现代直接派生。\n\n衣物名继承古英语，管状形态推动软管名和喷水动词；此组用常见容器、冲洗义。",
+    "branches": [
+      [
+        "衣物与管形名词",
+        "hose · pantyhose"
+      ],
+      [
+        "用软管冲洗",
+        "hosing"
+      ],
+      [
+        "hose → hoses、hosed：管状衣物名到软管、冲洗",
+        "hose · hoses · hosed · hosing"
+      ]
+    ],
+    "contrasts": "hose /həʊz/ 与 horse 马不同；hosing 不同于 housing；husk 不凭表面就拆成 hose 加词尾。",
+    "practice": "The gardener was hosing down the path with a long hose.\n\n园丁正拿着长水管冲洗小路。",
+    "words": [
+      "hose",
+      "pantyhose",
+      "hosing",
+      "hoses",
+      "hosed"
+    ],
+    "exclude": {
+      "husk": "其覆盖物远源有多种解释，不列作现代 hose 的确定直接扩展；另见独立词条。"
+    }
+  },
+  {
+    "id": "A1898",
+    "meaning": "计量相关的形容词材料，范围由前半决定",
+    "core": "-METRIC：这套描述与哪一种量度有关",
+    "image": "geometric 看几何，biometric 看生物特征，econometric 看经济计量。",
+    "intro": "这个词尾不等于每个词都在说公制。接不同材料后，可说形状、身体特征、气压、光度或学科中的定量关系。",
+    "forms": "希腊量度材料 → -metric；常与 -metry 名词对应；部分整词历经借入，不能统一说先在英语名词后加一个 c。",
+    "branches": [
+      [
+        "形状、身体与物理量",
+        "geometric · biometric · isometric · barometric · photometric"
+      ],
+      [
+        "学科定量关系",
+        "econometric · stoichiometric"
+      ]
+    ],
+    "contrasts": "economic、economical、econometric 各有重心；stoichiometric 的计量不是只写数字或公制单位。",
+    "practice": "The study combines geometric measurements with an econometric model.\n\n研究把几何测量与计量经济模型结合起来。",
+    "words": [
+      "geometric",
+      "biometric",
+      "isometric",
+      "barometric",
+      "photometric",
+      "econometric",
+      "stoichiometric"
+    ],
+    "exclude": {
+      "gravimetric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bathymetric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4527",
+    "meaning": "组织相关性质与观察角度，别把长词整块硬背",
+    "core": "ORGANIZATIONAL：看人员、结构与协作怎样安排",
+    "image": "organizational → organizationally，形容词转组织层面的副词。",
+    "intro": "先想组织结构与协作安排，再读 -al 性质、-ly 角度。这个词族本身不评价安排好坏，后面的 ready、complex 等才说结果。",
+    "forms": "organization + -al → organizational；再接 -ly → organizationally，拼写 ll。",
+    "branches": [
+      [
+        "组织性质与观察角度",
+        "organizational · organizationally"
+      ]
+    ],
+    "contrasts": "organized 常说有条理、已组织好；organizational 只说与组织有关；副词也不自动有有序的褒义。",
+    "practice": "An organizational change can be organizationally difficult even when it is technically simple.\n\n一次组织调整，即使技术上简单，在组织协调上也可能很难。",
+    "words": [
+      "organizational",
+      "organizationally"
+    ],
+    "exclude": {
+      "ultra-organizational": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tri-organizational": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-organizational": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2436",
+    "meaning": "从怪人、怪事等旧用法，走向问答、疑问神情",
+    "core": "QUIZ：用问题测一测，也能问得人一脸疑惑",
+    "image": "quiz → quizzical，旧义帮你理解为何形容词不是单纯考试的。",
+    "intro": "先掌握课堂小测、知识问答与详细询问，再看 quizzical 的表情画面。确切起源未定，不靠一段戏剧化传说填满空白。",
+    "forms": "quiz 起源未定；quizzes、quizzed 双写 z；+ -ical → quizzical。",
+    "branches": [
+      [
+        "问答与疑问表情",
+        "quiz · quizzical"
+      ]
+    ],
+    "contrasts": "quizzical 不是考试的通用形容词；一夜造出 quiz 的赌约故事不能当确定历史。",
+    "practice": "A surprising question in the quiz brought a quizzical look to her face.\n\n测验里一个意外问题让她露出了疑惑的表情。",
+    "words": [
+      "quiz",
+      "quizzical"
+    ],
+    "exclude": {
+      "quizlet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2509",
+    "meaning": "共同追随的路线与群体，历史词形与切分材料有交错",
+    "core": "SECT：沿着同一路线走的一群人",
+    "image": "sect → sectarian，先群体，再宗派性质、立场。",
+    "intro": "路线、学派、宗教派别能在近源意义上接起来。切分一派的解释也有历史交错，但不把所有字母 sect 都直接挂到现代名词 sect 下。",
+    "forms": "secta → secte → sect；中世纪拉丁 sectarius 等 → sectarian；sequi 与 secare 材料的关联解释需保留历史差别。",
+    "branches": [
+      [
+        "群体与宗派性质",
+        "sect · sectarian"
+      ]
+    ],
+    "contrasts": "sect 不自动等于邪教；intersect 的切交结构另看 secare，不按 inter- + 一个宗派来解释。",
+    "practice": "The article describes the sect without adopting its sectarian outlook.\n\n文章描述这个教派，但没有采纳它的宗派立场。",
+    "words": [
+      "sect",
+      "sectarian"
+    ],
+    "exclude": {
+      "intersect": "明确接拉丁 intersecare 的切开材料，不列作现代英语 sect 宗派名词的直接派生。"
+    }
+  }
+]

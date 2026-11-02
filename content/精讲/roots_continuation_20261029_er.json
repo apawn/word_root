@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B3296",
+    "meaning": "岩石、摇动与摇滚音乐",
+    "core": "ROCK：石头的稳，摇动的动，分源读清",
+    "image": "先分 rock 两条历史，再看 rocky 的崎岖、不稳；rocking、rocker 接摇动与音乐，sheetrock 接板材品牌名。",
+    "intro": "岩石词更远来源不定；摇动词继承古英语 roccian；音乐 rock 缩短自 rock and roll。不是按相同拼写编成石头开始唱歌。",
+    "forms": "rock → rocky、rocking、rocker；rock + steady；sheet + rock 品牌；共享 rockstar、bedrock。\n\n岩石义与摇动动词有不同旧形式，音乐用法接摇动支。\n\n摇动动词承古英语 roccian，岩石名词另路；rocked 的震撼、使不稳常接摇动意象，不用岩石坚硬解释全部。",
+    "branches": [
+      [
+        "基本词与石质、困难",
+        "rock · rocky · bedrock"
+      ],
+      [
+        "摇动、人物与音乐",
+        "rocking · rocker · rockstar · rocksteady"
+      ],
+      [
+        "建筑材料名",
+        "sheetrock"
+      ],
+      [
+        "rock → rocks：石头与摇动分支",
+        "rock · rocks"
+      ],
+      [
+        "rocked：摇动，或使局势受冲击",
+        "rock · rocked · rocking"
+      ]
+    ],
+    "contrasts": "rocking chair 摇椅而非石椅；rocker 可物可人；rocksteady 有具体音乐类型义；sheetrock 品牌与通用称呼要分清。",
+    "practice": "The rocker sat in a rocking chair beside a rocky garden.\n\n摇滚乐手坐在多石花园旁的摇椅上。",
+    "words": [
+      "rock",
+      "rocky",
+      "bedrock",
+      "rocking",
+      "rocker",
+      "rockstar",
+      "rocksteady",
+      "sheetrock",
+      "rocks",
+      "rocked"
+    ],
+    "exclude": {
+      "post-rock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butt-rock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-rock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rock-jumper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rockland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rockwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rockfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3678",
+    "meaning": "舞台、阶段与抢戏",
+    "core": "STAGE：所在位置发展成表演舞台和过程阶段",
+    "image": "stage 基本词后接 onstage、upstage 方位，再把抢风头和 stagecraft 技艺连接；已有 backstage、offstage 一起看。",
+    "intro": "经法语位置词进入英语。upstage 来自旧舞台高低方位，现代依然按远近使用，不要求每座舞台都斜。",
+    "forms": "stage → onstage、upstage、stagecraft；共享 backstage、offstage、mainstage、multistage。\n\n法语位置词接拉丁站立词族，现代名词、动词分开看。\n\nstagehand 取舞台义与 hand 人手；stagecoach 取旅程分段义与 coach 马车，复合词必须各选合适的义。",
+    "branches": [
+      [
+        "基本词与台上、台外",
+        "stage · onstage · backstage · offstage"
+      ],
+      [
+        "方位、技艺与结构",
+        "upstage · stagecraft · mainstage · multistage"
+      ],
+      [
+        "stage → stages：站脚处、舞台与阶段",
+        "stage · stages"
+      ],
+      [
+        "stage 的舞台、上演、工作人员与旅程分段",
+        "stage · staged · staging · stagehand · stagehands · stagecoach · stagecoaches"
+      ]
+    ],
+    "contrasts": "upstage 后部不是上台；stage 阶段与 step 步骤可分别描述同一过程；舞台、阶段以外法语实习借词另读。",
+    "practice": "The performer’s stagecraft kept every eye onstage.\n\n表演者的舞台功力让所有目光都留在台上。",
+    "words": [
+      "stage",
+      "onstage",
+      "backstage",
+      "offstage",
+      "upstage",
+      "stagecraft",
+      "mainstage",
+      "multistage",
+      "stages",
+      "staged",
+      "staging",
+      "stagehand",
+      "stagehands",
+      "stagecoach",
+      "stagecoaches"
+    ],
+    "exclude": {
+      "stage-coach": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stage-stricken": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

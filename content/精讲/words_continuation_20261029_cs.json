@@ -1,0 +1,478 @@
+[
+  {
+    "word": "boy",
+    "ipa": "/bɔɪ/",
+    "meaning": "男孩；年轻男性；特定语境的男性同伴称呼",
+    "sense": "通常是年纪小的男性；the boys 在熟人之间也可能说几个成年男性朋友，年龄靠场景判断。",
+    "split": "接中古英语 boie、boye，更远来源有多种解释，不把未证实的古英语或法语形式写成唯一确定起点。现代男孩义之外保留亲昵、角色称呼等用法。",
+    "history": [
+      [
+        "中古英语 boie、boye",
+        "年轻男仆、男孩等历史用法，更远来源有分歧"
+      ],
+      [
+        "英语 boy",
+        "男孩；熟人、同伴等特定语境中的男性称呼"
+      ]
+    ],
+    "explanation": "a little boy 小男孩，a schoolboy 男学生；a boys’ night out 男性朋友一起外出。Oh boy! 是惊讶、兴奋或头疼的感叹，不是在喊一个男孩。对成年陌生人直接喊 boy 可能显得轻慢。",
+    "usage": "a little boy；a teenage boy；the boys；Oh boy!。",
+    "contrast": "boy 常按年龄，son 按亲子关系；a fifty-year-old son 已五十岁，通常不是 a boy 的字面年龄。",
+    "examples": [
+      [
+        "A boy was reading under the tree.",
+        "一个男孩在树下看书。"
+      ],
+      [
+        "Oh boy, we have a lot of work to do.",
+        "哎呀，我们还有好多工作要做。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boy#English",
+      "https://www.etymonline.com/word/boy"
+    ]
+  },
+  {
+    "word": "boyhood",
+    "ipa": "/ˈbɔɪhʊd/",
+    "meaning": "男孩时期；童年、少年时代",
+    "sense": "不是某一个男孩，而是一个男性回头看的那段小时候的生活。",
+    "split": "boy + -hood 表阶段、状态，形成男孩时期名词。-hood 不表示许多男孩组成一队。",
+    "history": [
+      [
+        "中古英语 boie、boye",
+        "年轻男仆、男孩等历史用法，更远来源有分歧"
+      ],
+      [
+        "英语 boy",
+        "男孩；熟人、同伴等特定语境中的男性称呼"
+      ],
+      [
+        "boy + -hood → boyhood",
+        "男孩 → 作为男孩的那段时期"
+      ]
+    ],
+    "explanation": "a boyhood friend 少年时期的朋友，a boyhood dream 童年梦想；现在讲述者和朋友可能都已成年。",
+    "usage": "a boyhood dream；a boyhood friend；boyhood memories。",
+    "contrast": "boyhood 特指男孩时期，childhood 范围更宽；boyish 形容像男孩的样子，不是那段时间。",
+    "examples": [
+      [
+        "He returned to the town where he had spent his boyhood.",
+        "他回到了度过童年的小镇。"
+      ],
+      [
+        "Becoming a pilot had been his boyhood dream.",
+        "当飞行员是他儿时的梦想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boyhood#English"
+    ]
+  },
+  {
+    "word": "boyish",
+    "ipa": "/ˈbɔɪɪʃ/",
+    "meaning": "男孩般的；带少年气的",
+    "sense": "已经长大，笑容、外表或兴奋劲却仍让人想到少年。",
+    "split": "boy + -ish 带……特点，形成形容词。这里强调男孩般特征，不自动是 childish 的幼稚批评。",
+    "history": [
+      [
+        "中古英语 boie、boye",
+        "年轻男仆、男孩等历史用法，更远来源有分歧"
+      ],
+      [
+        "英语 boy",
+        "男孩；熟人、同伴等特定语境中的男性称呼"
+      ],
+      [
+        "boy + -ish → boyish",
+        "男孩 → 带少年外表、神态的"
+      ]
+    ],
+    "explanation": "a boyish smile 少年般的笑容，boyish enthusiasm 少年般的热情；经常形容成年人仍有少年气。",
+    "usage": "a boyish smile；boyish charm；boyish enthusiasm。",
+    "contrast": "boyish 常说外表、神态的少年气；childish 常批评不成熟。两者都与孩子有关，却不带相同评价。",
+    "examples": [
+      [
+        "He still had a boyish smile.",
+        "他仍带着少年般的笑容。"
+      ],
+      [
+        "She laughed at his boyish enthusiasm for the new gadget.",
+        "看他对新玩意儿那股少年般的兴奋，她笑了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boyish#English"
+    ]
+  },
+  {
+    "word": "cowboy",
+    "ipa": "/ˈkaʊbɔɪ/",
+    "meaning": "牛仔；牧牛工；不靠谱的从业者〔英式贬义〕",
+    "sense": "最初围绕放牧、赶牛的人，后来成为西部骑马形象；英式口语骂某人是 cowboy，还可能是说他做事不专业。",
+    "split": "cow 牛 + boy 男孩、年轻工人，固定为牧牛工作者称呼；现代可以是成年人。非正规、草率从业者义是后来引申，不等于所有真实牛仔都不专业。",
+    "history": [
+      [
+        "cow 牛；boy 男孩、年轻工人旧用法",
+        "并列构词部分"
+      ],
+      [
+        "cowboy",
+        "牧牛工、西部牛仔 → 特定口语里的不专业者"
+      ]
+    ],
+    "explanation": "a cowboy hat 牛仔帽，a cowboy film 西部牛仔电影；a cowboy builder 英式可贬称不靠谱施工者。",
+    "usage": "a cowboy hat；a cowboy film；cowboy builders。",
+    "contrast": "cowboy 不是 cow 的儿子；worker 职业称谓里带 boy 不保证仍是未成年人。牛仔裤常说 jeans，不是每次都 cowboy trousers。",
+    "examples": [
+      [
+        "The film follows a cowboy travelling across the desert.",
+        "电影讲一位牛仔穿越沙漠的故事。"
+      ],
+      [
+        "The report warned about cowboy builders offering suspiciously low prices.",
+        "报道提醒人们提防报价低得可疑、不靠谱的施工者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cowboy#English"
+    ]
+  },
+  {
+    "word": "fanboy",
+    "ipa": "/ˈfænbɔɪ/",
+    "meaning": "狂热男粉丝；过分追捧的人〔口语〕",
+    "sense": "喜欢一个作品、品牌或人物，兴奋到处处维护、很难客观看待，就可能被叫 fanboy。",
+    "split": "fan 粉丝 + boy 男性，形成口语称呼；boy 不必字面指未成年。fan 这里是爱好者，不是风扇。",
+    "history": [
+      [
+        "fan 粉丝；boy 男性称呼",
+        "并列构词部分"
+      ],
+      [
+        "fanboy",
+        "热衷追捧的男性粉丝、拥护者"
+      ]
+    ],
+    "explanation": "a comic-book fanboy 漫画狂热粉丝，a brand fanboy 品牌死忠；可自嘲或贬义，也能作动词说激动追捧。",
+    "usage": "a brand fanboy；a film fanboy；fanboy over something。",
+    "contrast": "fan 普通粉丝范围宽，fanboy 常带更狂热或失去客观的评价；实际语气要看说话者。",
+    "examples": [
+      [
+        "He jokingly called himself a fanboy of the series.",
+        "他开玩笑地称自己是这个系列的死忠粉丝。"
+      ],
+      [
+        "The reviewer tried not to sound like a fanboy.",
+        "评论者努力避免显得像个只会追捧的狂热粉丝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fanboy#English"
+    ]
+  },
+  {
+    "word": "tomboy",
+    "ipa": "英 /ˈtɒmbɔɪ/；美 /ˈtɑːmbɔɪ/",
+    "meaning": "行为、打扮被认为像男孩的女孩",
+    "sense": "传统上把某些运动、衣着或活泼方式归给男孩，于是给喜欢这些的女孩起了这个称呼。它反映的是社会分类。",
+    "split": "Tom 常见男性名的泛称 + boy。早期曾用于粗野、活泼人物等，后来固定到被视为像男孩的女孩；不是女孩的名字必须叫 Tom。",
+    "history": [
+      [
+        "Tom 常见男性名的泛称；boy 男孩",
+        "并列构词部分"
+      ],
+      [
+        "tomboy",
+        "历史人物标签 → 被认为像男孩的女孩"
+      ]
+    ],
+    "explanation": "a self-described tomboy 自称假小子的女孩；有时亲切、有时带刻板印象，不能据衣着或爱好推断性别认同、性取向。",
+    "usage": "a tomboy as a child；a self-described tomboy；a tomboy character。",
+    "contrast": "tomboy 按传统性别印象描述风格，不是说一个人实际上是男孩；也不说明所有男孩都喜欢同一类活动。",
+    "examples": [
+      [
+        "She described herself as a tomboy who loved climbing trees.",
+        "她说自己小时候是个爱爬树的假小子。"
+      ],
+      [
+        "The novel questions why the girl is labelled a tomboy.",
+        "小说质疑为何这个女孩被贴上假小子的标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tomboy#English"
+    ]
+  },
+  {
+    "word": "paperboy",
+    "ipa": "英 /ˈpeɪpəbɔɪ/；美 /ˈpeɪpərbɔɪ/",
+    "meaning": "送报男孩；报童",
+    "sense": "一大早把报纸送到订户门口的男孩，抓的是工作内容，不是纸做的小人。",
+    "split": "paper 报纸的缩略用法 + boy 男孩，形成送报角色称呼。旧时也可能关联卖报，具体看叙事。",
+    "history": [
+      [
+        "paper 报纸；boy 男孩",
+        "并列构词部分"
+      ],
+      [
+        "paperboy",
+        "送报、卖报的男孩称谓"
+      ]
+    ],
+    "explanation": "work as a paperboy 做送报童，a paperboy’s round 报童的送报路线；现代配送人员不都由男孩担任。",
+    "usage": "work as a paperboy；the morning paperboy；a paperboy’s round。",
+    "contrast": "paperboy 强调送、卖报角色，newspaper 报纸；newsboy 也是旧报童称呼，二者常有交叠。",
+    "examples": [
+      [
+        "He worked as a paperboy during his school years.",
+        "他上学时做过送报童。"
+      ],
+      [
+        "The paperboy left the newspaper by the front door.",
+        "送报童把报纸放在前门旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paperboy#English"
+    ]
+  },
+  {
+    "word": "busboy",
+    "ipa": "/ˈbʌsbɔɪ/",
+    "meaning": "餐馆清台、协助服务的工作人员〔美〕",
+    "sense": "客人走后收盘子、擦桌子，为下一桌准备；不是公交车上的男孩。",
+    "split": "bus 在餐馆用语中有清理桌面、收餐具义 + boy 人员称谓；这段餐饮用法与较早 omnibus 等服务称谓有关，具体远因解释不必硬编。现代常见更中性的 busser。",
+    "history": [
+      [
+        "bus 餐馆清台用法；boy 人员称谓",
+        "并列构词部分"
+      ],
+      [
+        "busboy",
+        "协助收餐具、清台的餐馆工作人员"
+      ]
+    ],
+    "explanation": "work as a busboy 在餐馆清台，a restaurant busboy 餐馆清台人员；不要求是未成年，工作范围按餐馆安排。",
+    "usage": "work as a busboy；a restaurant busboy；the busboy cleared the table。",
+    "contrast": "busboy 不是 bus driver 公交司机；waiter 通常负责点单、上菜等服务，实际岗位可能交叠。",
+    "examples": [
+      [
+        "He worked as a busboy at a busy restaurant.",
+        "他在一家繁忙餐馆做清台工作。"
+      ],
+      [
+        "The busboy cleared the plates after we finished eating.",
+        "我们吃完后，清台人员收走了盘子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/busboy#English",
+      "https://www.etymonline.com/word/busboy"
+    ]
+  },
+  {
+    "word": "wonderboy",
+    "ipa": "英 /ˈwʌndəbɔɪ/；美 /ˈwʌndərbɔɪ/",
+    "meaning": "少年天才；年轻有为的红人",
+    "sense": "年纪轻轻就表现惊人，让周围人觉得这孩子太神了；也可带对年轻红人过度追捧的调侃。",
+    "split": "wonder 惊奇、令人惊叹的人物特点 + boy 男孩、年轻男性，形成赞叹性人物称呼。也常分写 wonder boy。",
+    "history": [
+      [
+        "wonder 令人惊叹；boy 男孩、年轻男性",
+        "并列构词部分"
+      ],
+      [
+        "wonderboy",
+        "表现惊人的少年、年轻红人"
+      ]
+    ],
+    "explanation": "a sporting wonderboy 体育少年天才，the company’s wonderboy 公司里受追捧的年轻能人；可能真心夸，也可能反讽。",
+    "usage": "a sporting wonderboy；a political wonderboy；the team’s wonderboy。",
+    "contrast": "wonderboy 强调年轻、突出并受关注，boyish 强调少年气；成年人一脸 boyish 不等于有天才表现。",
+    "examples": [
+      [
+        "The young pianist was hailed as a wonderboy.",
+        "年轻钢琴家被誉为少年天才。"
+      ],
+      [
+        "The novel follows the rise and fall of a business wonderboy.",
+        "小说追踪一位商界年轻红人的兴衰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wonderboy#English"
+    ]
+  },
+  {
+    "word": "loverboy",
+    "ipa": "英 /ˈlʌvəbɔɪ/；美 /ˈlʌvərbɔɪ/",
+    "meaning": "情郎；对恋爱中男性的戏谑称呼",
+    "sense": "看到某个男人满心恋爱，就拿情郎这个称呼打趣他；语气比普通 boyfriend 更像绰号。",
+    "split": "lover 恋人 + boy 男性称呼，形成亲昵或调侃的固定组合，也常分写 lover boy。这里 boy 不必按儿童年龄理解。",
+    "history": [
+      [
+        "lover 恋人；boy 男性称呼",
+        "并列构词部分"
+      ],
+      [
+        "loverboy",
+        "亲昵、戏谑的情郎称呼"
+      ]
+    ],
+    "explanation": "Hey, loverboy! 嘿，大情圣！常作熟人间称呼；是否友善靠语气、关系。词本身不是正式亲属身份。",
+    "usage": "Hey, loverboy!；call someone loverboy；a loverboy character。",
+    "contrast": "boyfriend 是较中性的男友关系称谓，loverboy 常是绰号、调侃；不能拿它替代所有正式场景的伴侣称谓。",
+    "examples": [
+      [
+        "His friends jokingly called him loverboy after he fell in love.",
+        "他恋爱后，朋友们开玩笑地叫他大情圣。"
+      ],
+      [
+        "“Hey, loverboy,” his sister teased, “your phone is ringing.”",
+        "“喂，大情圣，”姐姐打趣道，“你手机响了。”"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loverboy#English"
+    ]
+  },
+  {
+    "word": "son",
+    "ipa": "/sʌn/",
+    "meaning": "儿子；男性后代",
+    "sense": "这个词先回答是谁的孩子，而不是现在几岁；儿子五岁、五十岁，都能说 son。",
+    "split": "由古英语 sunu 经中古英语延续，是古老亲属词。与 sun 太阳同音不是同源，也不是把太阳借来指儿子的词源故事。",
+    "history": [
+      [
+        "古英语 sunu → 中古英语 sone、sunu 等",
+        "儿子"
+      ],
+      [
+        "现代英语 son",
+        "亲子关系中的男性子女；其他固定称呼另看语境"
+      ]
+    ],
+    "explanation": "their son 他们的儿子，an only son 独子；a son of the city 文学、报道里可指本地出身的男性。宗教专名另按文本理解。",
+    "usage": "an only son；an eldest son；a native son；father and son。",
+    "contrast": "son 按家庭关系，boy 常按年龄；sons 是复数，son’s 是儿子的，别把撇号当复数标记。",
+    "examples": [
+      [
+        "Their son works in another city.",
+        "他们的儿子在另一座城市工作。"
+      ],
+      [
+        "She introduced her two sons to the guests.",
+        "她向客人介绍了自己的两个儿子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/son#English"
+    ]
+  },
+  {
+    "word": "sonny",
+    "ipa": "/ˈsʌni/",
+    "meaning": "小子；对男孩、较年轻男性的称呼",
+    "sense": "像叫一声小家伙或小子；可以亲近，也可能居高临下，完全看双方关系和语气。",
+    "split": "son + -y，双写 n，形成亲昵称呼。作为人名 Sonny 又是专名用法，不要求是说话者的亲生儿子。",
+    "history": [
+      [
+        "古英语 sunu → 中古英语 sone、sunu 等",
+        "儿子"
+      ],
+      [
+        "现代英语 son",
+        "亲子关系中的男性子女；其他固定称呼另看语境"
+      ],
+      [
+        "son + -y → sonny",
+        "儿子 → 亲昵或居高临下的男性称呼"
+      ]
+    ],
+    "explanation": "Listen, sonny 听着，小子；较常在对白、较旧口吻里出现。不是正式介绍儿子身份时的必要表达。",
+    "usage": "Hello, sonny；listen, sonny；a character called Sonny。",
+    "contrast": "sonny 与 sunny 晴朗的同音，来源和意义不同；sonny 作称呼不等于已经确认亲子关系。",
+    "examples": [
+      [
+        "“Hello, sonny,” the old man said with a smile.",
+        "老人笑着说：“你好，小家伙。”"
+      ],
+      [
+        "The line “Listen, sonny” makes the speaker sound condescending.",
+        "“听着，小子”这句台词让说话者显得居高临下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sonny#English"
+    ]
+  },
+  {
+    "word": "stepson",
+    "ipa": "/ˈstepsʌn/",
+    "meaning": "继子",
+    "sense": "伴侣与别人的儿子，因为婚姻与你形成继亲关系。",
+    "split": "step- 继亲 + son 儿子，旧英语已有相关亲属称谓。step- 是继亲前缀，不是脚步。",
+    "history": [
+      [
+        "古英语 sunu → 中古英语 sone、sunu 等",
+        "儿子"
+      ],
+      [
+        "step- + son → stepson",
+        "继亲关系 → 继子"
+      ]
+    ],
+    "explanation": "her stepson 她的继子；和 stepchild 相比，stepson 特别说明男性子女。",
+    "usage": "a stepson；her stepson；a son and a stepson。",
+    "contrast": "stepson 继子，grandson 孙子、外孙，godson 教子；不是同一种亲属关系的三种说法。",
+    "examples": [
+      [
+        "Her stepson helped her move the furniture.",
+        "她的继子帮她搬家具。"
+      ],
+      [
+        "He has a daughter and a stepson.",
+        "他有一个女儿和一个继子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepson#English"
+    ]
+  },
+  {
+    "word": "godson",
+    "ipa": "英 /ˈɡɒdsʌn/；美 /ˈɡɑːdsʌn/",
+    "meaning": "教子",
+    "sense": "有人在宗教、家庭传统中成为孩子的教父或教母；这名男性孩子相对于他们就是教子。",
+    "split": "god 上帝 + son 儿子，古老基督教教亲属关系称谓。是教亲关系，不是对每个人都可字面译成上帝的儿子。",
+    "history": [
+      [
+        "古英语 sunu → 中古英语 sone、sunu 等",
+        "儿子"
+      ],
+      [
+        "god + son → godson",
+        "宗教教亲关系中的男性子女称谓"
+      ]
+    ],
+    "explanation": "her godson 她的教子，a godfather and his godson 教父与教子。具体礼仪、责任随宗教传统与家庭而异。",
+    "usage": "my godson；a godfather and his godson；become someone’s godson。",
+    "contrast": "godson 教子不同于 adopted son 养子；成为教父、教母不自动等于法律收养或监护。",
+    "examples": [
+      [
+        "She sent her godson a book for his birthday.",
+        "她给教子寄了一本生日礼物书。"
+      ],
+      [
+        "The photograph shows a godfather with his godson.",
+        "照片里是一位教父和他的教子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/godson#English"
+    ]
+  }
+]

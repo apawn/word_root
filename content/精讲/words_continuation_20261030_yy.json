@@ -1,0 +1,478 @@
+[
+  {
+    "word": "depending",
+    "ipa": "/dɪˈpendɪŋ/",
+    "meaning": "依靠、取决于〔现在分词〕；视……而定〔depending on〕",
+    "sense": "一件东西挂在上面，能不能稳住要靠那个支点；事情的结果靠什么条件，也能用 depending on 来表达。",
+    "split": "depend + -ing，保留 d。拉丁 dē- 从、向下与 pendēre 悬挂形成 dēpendēre，经法语或直接拉丁进入英语；抽象依靠、取决于义很早出现。",
+    "history": [
+      [
+        "拉丁 dēpendēre → 法语、英语 depend",
+        "从上悬挂 → 依靠、由条件支撑"
+      ],
+      [
+        "depend + -ing → depending",
+        "正在依靠；引出结果随之变化的条件"
+      ]
+    ],
+    "explanation": "depending on the weather 视天气而定；depending on help 依赖帮助；depending on the size 取决于大小。",
+    "usage": "times vary depending on the route；depending on which option you choose。",
+    "contrast": "depending on 常作为补充条件，说明前面的数量、安排为什么会变化。不是只有人依赖人，时间、结果、方案都能取决于条件。",
+    "examples": [
+      [
+        "The walk takes one or two hours, depending on the route.",
+        "这段路步行需一到两小时，取决于走哪条路线。"
+      ],
+      [
+        "We may meet indoors or outside, depending on the weather.",
+        "我们可能在室内或室外见面，视天气而定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/depending#English",
+      "https://www.etymonline.com/word/depend"
+    ]
+  },
+  {
+    "word": "staying",
+    "ipa": "/ˈsteɪɪŋ/",
+    "meaning": "停留、暂住；保持〔stay 的现在分词、动名词〕",
+    "sense": "人继续待在这里、状态继续保持着，就是 staying；暂时住在朋友家、留在某座城，都能用这个动作。",
+    "split": "stay + -ing，保留 y。普通停留支涉及法语 estare、estai- 等，常联系拉丁 stāre 站；支撑等同形支线有不同历史分析，现代不把它们全压成一个来源。",
+    "history": [
+      [
+        "法语停留、站立相关形式 → stay",
+        "停住、留下 → 停留、暂住"
+      ],
+      [
+        "stay + -ing → staying",
+        "正在停留；把保持状态作为一个活动来谈"
+      ]
+    ],
+    "explanation": "staying with friends 暂住朋友家；staying at a hotel 住酒店；staying calm 保持冷静。",
+    "usage": "staying for a week；staying close to the entrance。",
+    "contrast": "staying with 常接收留你的人，staying at 常接酒店等地点；staying 加形容词，如 staying calm，则把重点放在维持状态。",
+    "examples": [
+      [
+        "We are staying with friends this weekend.",
+        "我们这个周末住在朋友家。"
+      ],
+      [
+        "Staying calm helped her explain the problem clearly.",
+        "保持冷静帮助她把问题讲清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/staying#English",
+      "https://en.wiktionary.org/wiki/stay#English"
+    ]
+  },
+  {
+    "word": "wondering",
+    "ipa": "英 /ˈwʌndərɪŋ/；美 /ˈwʌndərɪŋ/",
+    "meaning": "心中想知道、疑惑；感到惊奇〔wonder 的现在分词〕",
+    "sense": "遇见一件没弄明白的事，心里冒出“这是怎么回事、会不会这样”的疑问，就是 wondering；它把惊奇、好奇接到想知道。",
+    "split": "wonder + -ing。wonder 的名词继承古英语 wundor 惊奇，动词有 wundrian 等旧形；现代 I am wondering 常说心中疑问。",
+    "history": [
+      [
+        "古英语 wundor、wundrian → wonder",
+        "惊奇 → 好奇、心里提出疑问"
+      ],
+      [
+        "wonder + -ing → wondering",
+        "正在想知道、疑惑；委婉询问用途"
+      ]
+    ],
+    "explanation": "wondering why... 想知道为什么……；wondering whether... 想知道是否……；I was wondering if... 我想问是否……。",
+    "usage": "wondering what happened；wondering if you could help。",
+    "contrast": "I was wondering if... 常把请求说得委婉；语法虽是过去进行式，实际可以用于眼前询问。wondering 与 wandering 走动、徘徊的词源和读音不同。",
+    "examples": [
+      [
+        "She was wondering why the room was empty.",
+        "她正纳闷房间里为什么没人。"
+      ],
+      [
+        "I was wondering if you could check this sentence.",
+        "我想请你帮忙看看这个句子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wondering#English",
+      "https://en.wiktionary.org/wiki/wonder#English"
+    ]
+  },
+  {
+    "word": "rising",
+    "ipa": "/ˈraɪzɪŋ/",
+    "meaning": "升起、上升、增加〔现在分词〕；上涨的、逐渐兴起的",
+    "sense": "东西自己往上走、数量往上长，就是 rising；太阳、热空气、价格等可以各自上升，不一定有人把它提起来。",
+    "split": "rise 去末尾不发音 e 加 -ing → rising。rise 继承古英语 rīsan，通常不及物；现代变化 rise—rose—risen，raise 使升高是相关但不同的词。",
+    "history": [
+      [
+        "古英语 rīsan → rise",
+        "升起、起身 → 向上、增加"
+      ],
+      [
+        "rise → rising",
+        "去 e 加 ing；正在上升、上升中的"
+      ]
+    ],
+    "explanation": "rising prices 上涨的价格；rising water 水位上涨；a rising star 崭露头角的新星。",
+    "usage": "warm air rising；numbers rising steadily。",
+    "contrast": "rising 说主语自身上升；raising 常说某人使别的东西升高。the water is rising 是水位上涨，raising the water level 则把水位提高。",
+    "examples": [
+      [
+        "Warm air was rising from the open doorway.",
+        "暖空气正从敞开的门口向上升。"
+      ],
+      [
+        "The report compares rising costs in several regions.",
+        "报告比较了几个地区不断上涨的成本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rising#English",
+      "https://en.wiktionary.org/wiki/rise#English"
+    ]
+  },
+  {
+    "word": "facing",
+    "ipa": "/ˈfeɪsɪŋ/",
+    "meaning": "面向、朝向；面对、面临〔face 的现在分词〕",
+    "sense": "把脸或正面转向某处，是 facing；把对象换成难题，就成了正面遇上、需要面对的事情。",
+    "split": "face 去 e 加 -ing → facing。face 整体经法语接拉丁 faciēs 外观、面貌；它与 facere 做是否有更深直接关系不宜强定。英语再形成面向、应对的动词。",
+    "history": [
+      [
+        "拉丁 faciēs → 法语 → face；英语动词发展",
+        "面貌、正面 → 把正面朝向"
+      ],
+      [
+        "face → facing；抽象应对用法",
+        "面向某处；面临某种问题"
+      ]
+    ],
+    "explanation": "facing the sea 面朝大海；facing difficulties 面临困难；facing each other 面对面。",
+    "usage": "a window facing the garden；problems facing the team。",
+    "contrast": "facing 往往直接接方向、对象，如 facing the sea、facing a problem。problems facing the team 是团队面临的问题，注意短语关系。",
+    "examples": [
+      [
+        "Our room has a window facing the garden.",
+        "我们房间有一扇面朝花园的窗。"
+      ],
+      [
+        "The team is facing several difficult choices.",
+        "团队正面临几个艰难选择。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/facing#English",
+      "https://en.wiktionary.org/wiki/face#English"
+    ]
+  },
+  {
+    "word": "returning",
+    "ipa": "英 /rɪˈtɜːnɪŋ/；美 /rɪˈtɜːrnɪŋ/",
+    "meaning": "返回；归还；再来的〔现在分词及形容用法〕",
+    "sense": "人走了一段又转回来，是 returning；把借走的东西转送回原处，也叫 returning，动作方向都朝回。",
+    "split": "return + -ing。动词经古法语 retorner、retourner，并与中世纪拉丁 retornāre 等相关；现代容易认 re- 回 + turn 转，但历史不是只靠现代英语重新拼接。",
+    "history": [
+      [
+        "法语 retorner 等、相关拉丁形式 → return",
+        "转回 → 返回、归还"
+      ],
+      [
+        "return + -ing → returning",
+        "正在回来、归还；再次到来的"
+      ]
+    ],
+    "explanation": "returning home 回家；returning a book 还书；returning visitors 再次来访的人。",
+    "usage": "returning from the trip；returning the key to reception。",
+    "contrast": "returning home 通常不加 to；returning something to somebody 说明把某物还给谁。returning visitors 强调以前来过、这次又来。",
+    "examples": [
+      [
+        "The children are returning from the museum.",
+        "孩子们正从博物馆回来。"
+      ],
+      [
+        "Returning books on time helps other readers.",
+        "按时还书方便其他读者使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/returning#English",
+      "https://en.wiktionary.org/wiki/return#English"
+    ]
+  },
+  {
+    "word": "continuing",
+    "ipa": "英 /kənˈtɪnjuːɪŋ/；美 /kənˈtɪnjuːɪŋ/",
+    "meaning": "继续、持续〔现在分词〕；持续进行的",
+    "sense": "前面的事还连着往下走，没有在这里结束，就是 continuing；词族的保持连在一起很适合记继续。",
+    "split": "continue 去 e 加 -ing → continuing，保留 u。法语 continuer 接拉丁 continuāre，与 continuus 连在一起的相连，较早联系 continēre 保持在一起。",
+    "history": [
+      [
+        "拉丁 continēre、continuus、continuāre → 法语 → continue",
+        "保持连着 → 延续、继续"
+      ],
+      [
+        "continue → continuing",
+        "去 e 加 ing；持续进行中的"
+      ]
+    ],
+    "explanation": "continuing education 继续教育；continuing work 持续开展的工作；continuing to improve 继续改进。",
+    "usage": "continuing the discussion；continuing with the plan。",
+    "contrast": "continue 可以接 -ing 或 to do 表示继续做，具体搭配语气有差别；continuing education 是在已有学习之后继续接受教育的固定领域名称。",
+    "examples": [
+      [
+        "They are continuing the discussion after lunch.",
+        "他们午饭后继续讨论。"
+      ],
+      [
+        "The course is part of the university’s continuing education programme.",
+        "这门课属于大学继续教育项目的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/continuing#English",
+      "https://en.wiktionary.org/wiki/continue#English"
+    ]
+  },
+  {
+    "word": "involving",
+    "ipa": "英 /ɪnˈvɒlvɪŋ/；美 /ɪnˈvɑːlvɪŋ/",
+    "meaning": "涉及、包括；使参与〔involve 的现在分词〕",
+    "sense": "把人或事情卷进同一件事里面，是 involving 的记忆画面；今天既可说活动包括谁，也可说主动让谁参与。",
+    "split": "involve 去 e 加 -ing → involving。拉丁 in- 在里面与 volvere 卷形成 involvere 包住、卷入，英语借入后扩大为包括、牵涉和需要。",
+    "history": [
+      [
+        "拉丁 in- + volvere → involvere → involve",
+        "卷在里面 → 包含、牵涉"
+      ],
+      [
+        "involve → involving",
+        "去 e 加 ing；涉及、使参与"
+      ]
+    ],
+    "explanation": "a project involving schools 涉及学校的项目；involving students in decisions 让学生参与决定。",
+    "usage": "a game involving several teams；involving everyone in the activity。",
+    "contrast": "involving somebody in something 强调把人带进活动；something involving somebody 描述某事本身涉及哪些人。看主语和 in 后的活动。",
+    "examples": [
+      [
+        "The project involves local schools, with each activity involving several classes.",
+        "项目涉及当地学校，每项活动都有几个班参与。"
+      ],
+      [
+        "Involving students in the planning made the event more successful.",
+        "让学生参与策划，使活动更成功。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/involving#English",
+      "https://en.wiktionary.org/wiki/involve#English"
+    ]
+  },
+  {
+    "word": "joining",
+    "ipa": "/ˈdʒɔɪnɪŋ/",
+    "meaning": "加入；连接、接合〔join 的现在分词、动名词〕",
+    "sense": "把原来分开的东西接上，或把一个人接进已有群体，就是 joining；实体零件和参加活动，都能用这个连接画面。",
+    "split": "join + -ing，保留 n。join 经法语 joindre 来自拉丁 iungere 接合，现代词形把 join 当完整动词后接 ing。",
+    "history": [
+      [
+        "拉丁 iungere → 法语 joindre → join",
+        "接合 → 连接、加入群体"
+      ],
+      [
+        "join + -ing → joining",
+        "正在连接；加入这一活动"
+      ]
+    ],
+    "explanation": "joining the team 加入团队；joining the meeting 参加会议；joining the pieces 连接零件；joining in the game 加入游戏。",
+    "usage": "joining us for dinner；joining two sections together。",
+    "contrast": "joining the team 直接接群体，joining in 常突出参与活动。join somebody for something 说和某人一起做，如 joining us for dinner。",
+    "examples": [
+      [
+        "She is joining the team next month.",
+        "她下个月加入团队。"
+      ],
+      [
+        "Joining the two sections took only a few minutes.",
+        "连接这两部分只用了几分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joining#English",
+      "https://en.wiktionary.org/wiki/join#English"
+    ]
+  },
+  {
+    "word": "recording",
+    "ipa": "英 /rɪˈkɔːdɪŋ/；美 /rɪˈkɔːrdɪŋ/",
+    "meaning": "记录、录音、录像〔现在分词、动名词〕；录制品",
+    "sense": "为了以后还能回看、回听，把当时的内容保存下来，就是 recording；保存好的那份声音或影像，也可以数成 a recording。",
+    "split": "record + -ing。拉丁 recordārī 记住、想起含 re- 与 cor、cord- 心，是把心当记忆中心的古老比喻；经法语 recorder 进入，后发展书面记录和录音录像义。",
+    "history": [
+      [
+        "拉丁 recordārī → 法语 recorder → record",
+        "想起、记住 → 写下保存；后来保存声音影像"
+      ],
+      [
+        "record + -ing → recording",
+        "正在记录；一份录制内容的名词"
+      ]
+    ],
+    "explanation": "recording a conversation 录下谈话；a live recording 现场录音；recording equipment 录音设备。",
+    "usage": "a recording of the concert；recording the results in a notebook。",
+    "contrast": "record 作为记录名词通常前重音，但 recording 作录音名词仍通常后重音。a recording of... 指录下哪一场、哪一段内容。",
+    "examples": [
+      [
+        "They are recording the concert for the school archive.",
+        "他们正在录下音乐会，留作学校档案。"
+      ],
+      [
+        "We listened to a recording of her speech.",
+        "我们听了她演讲的录音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recording#English",
+      "https://www.etymonline.com/word/record"
+    ]
+  },
+  {
+    "word": "racing",
+    "ipa": "/ˈreɪsɪŋ/",
+    "meaning": "竞速；飞奔、急速运转〔现在分词、动名词〕；竞赛用的",
+    "sense": "为了抢先到达而跑得快，是 racing 的比赛画面；思想、心跳等很快，也能借这个速度感来形容。",
+    "split": "race 去 e 加 -ing → racing。竞速 race 接古英语 rǣs、古诺尔斯语 rás 等奔跑词族；表示血统、种族的 race 经法语等另一路进入，本页不把两者混在一起。",
+    "history": [
+      [
+        "古英语、古诺尔斯奔跑词族 → 竞速 race",
+        "冲、跑 → 比速度"
+      ],
+      [
+        "race → racing",
+        "竞速活动；快速运动；竞赛用途形容词"
+      ]
+    ],
+    "explanation": "horse racing 赛马；racing bikes 竞赛自行车；racing towards the finish 冲向终点；a racing heart 飞快的心跳。",
+    "usage": "racing along the road；racing to catch the train。",
+    "contrast": "racing 可以是正式竞赛，也可以只是快得像比赛。racing bikes 的 ing 说明用途，a racing heart 则突出速度。",
+    "examples": [
+      [
+        "The children were racing towards the finish line.",
+        "孩子们正冲向终点线。"
+      ],
+      [
+        "The shop sells racing bikes and repair tools.",
+        "这家店出售竞赛自行车和修理工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racing#English",
+      "https://en.wiktionary.org/wiki/race#English"
+    ]
+  },
+  {
+    "word": "mining",
+    "ipa": "/ˈmaɪnɪŋ/",
+    "meaning": "采矿、采掘；挖掘信息〔现在分词及名词〕",
+    "sense": "从地下矿层里把有用材料找出来、取出来，是 mining；把对象换成大量资料，便有数据挖掘的比喻。",
+    "split": "矿井、采掘义 mine 去 e 加 -ing → mining。矿井词经法语 mine、miner 等与中世纪拉丁相关形式借入，更早可能联系凯尔特矿石词，来源未定；代词 mine 我的另源。",
+    "history": [
+      [
+        "法语矿井、采掘词及相关拉丁形式 → mine",
+        "矿层、矿井 → 采掘"
+      ],
+      [
+        "mine → mining；信息提取比喻",
+        "采矿活动 → 从资料中找出有用模式"
+      ]
+    ],
+    "explanation": "coal mining 煤矿开采；a mining town 矿业城镇；data mining 数据挖掘。",
+    "usage": "mining in the region；mining records for useful information。",
+    "contrast": "mining 的矿业与信息用法共享从大量材料里提取有用内容的画面。my、mine 所有格则不参与这条词形派生。",
+    "examples": [
+      [
+        "Mining was once the main industry in the town.",
+        "采矿曾是这个镇的主要产业。"
+      ],
+      [
+        "The course introduces data mining through simple examples.",
+        "这门课通过简单例子介绍数据挖掘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mining#English",
+      "https://www.etymonline.com/word/mine"
+    ]
+  },
+  {
+    "word": "causing",
+    "ipa": "英 /ˈkɔːzɪŋ/；美 /ˈkɔːzɪŋ/、/ˈkɑːzɪŋ/",
+    "meaning": "导致、引起〔cause 的现在分词、动名词〕",
+    "sense": "前面某件事让后面的结果发生，是 causing；把注意放在谁、什么因素带来了影响。",
+    "split": "cause 去 e 加 -ing → causing，s 读 /z/。cause 经法语接拉丁 causa 原因、理由、案件等名词，英语又有使事情发生的动词用法。",
+    "history": [
+      [
+        "拉丁 causa → 法语、英语 cause",
+        "原因、理由 → 成为原因、引起"
+      ],
+      [
+        "cause → causing",
+        "去 e 加 ing；正在引发结果"
+      ]
+    ],
+    "explanation": "causing delays 造成延误；causing problems 引起问题；causing somebody to leave 导致某人离开。",
+    "usage": "noise causing complaints；causing the water to rise。",
+    "contrast": "causing something 可直接接结果；causing somebody or something to do 说明让谁、什么发生某动作。两个结构都很常用。",
+    "examples": [
+      [
+        "The roadworks are causing delays near the bridge.",
+        "道路施工正造成桥附近的通行延误。"
+      ],
+      [
+        "The noise is causing people to leave the room.",
+        "噪声让人们离开房间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/causing#English",
+      "https://en.wiktionary.org/wiki/cause#English"
+    ]
+  },
+  {
+    "word": "expecting",
+    "ipa": "/ɪkˈspektɪŋ/",
+    "meaning": "预期、期待、等待〔现在分词〕；怀孕、等待宝宝出生〔特定用法〕",
+    "sense": "已经在心里留着一个将要发生的情况，等它到来，是 expecting；等客人、等结果都能用。expecting a baby 则是常见的家庭表达。",
+    "split": "expect + -ing，保留 t。拉丁 ex- 与 spectāre 看形成 exspectāre 等待、期待，经借入发展成 expect；英语分词把当前预期、等待的过程说出来。",
+    "history": [
+      [
+        "拉丁 exspectāre → 英语 expect",
+        "向外看、等待 → 预计会发生"
+      ],
+      [
+        "expect + -ing → expecting；固定用途",
+        "正在期待、等待；等宝宝出生的表达"
+      ]
+    ],
+    "explanation": "expecting visitors 等客人来；expecting a reply 等待回复；expecting a baby 怀孕、等待宝宝出生。",
+    "usage": "expecting the train soon；expecting him to arrive early。",
+    "contrast": "expecting somebody to do 表示预计某人会做什么。be expecting 可在明确语境中单说怀孕；其他句子则仍按等待、预期理解。",
+    "examples": [
+      [
+        "We are expecting visitors this afternoon.",
+        "我们今天下午有客人要来。"
+      ],
+      [
+        "They are expecting a baby in September.",
+        "他们的宝宝预计九月出生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/expecting#English",
+      "https://en.wiktionary.org/wiki/expect#English"
+    ]
+  }
+]

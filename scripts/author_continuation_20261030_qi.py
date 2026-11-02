@@ -1,0 +1,93 @@
+"""Everyday states and positions in -cy, with the missing useful families."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('deficient','/dɪˈfɪʃənt/','不足的；缺乏某物的',
+ '本该有一份，实际缺了一块；数量、成分或能力不够达到要求，都能落在 deficient 这个画面里。',
+ '借拉丁 deficiens，来自 deficere 缺少、失去、未能完成。de- + facere 做的材料在拉丁语里已有变化，现代不是 de + fic + ient 随便各分一个义。',
+ [['拉丁 deficere → deficiens','缺少、未能达到 → 缺乏的'],['英语 deficient','不足；缺少必要成分或条件']],
+ 'be deficient in something 缺乏某物；a deficient system 有缺陷、达不到要求的系统。直接用 deficient 评价一个人，可能显得贬损，通常说清哪方面不足。',
+ 'deficient in detail；a deficient design。','deficient 指不足或缺少，different 指不同；The report is deficient in detail 是细节不够，不是细节与别人不同。',
+ ('The report is deficient in detail.','这份报告细节不足。'),('The design was found to be deficient in several respects.','人们发现这个设计在好几个方面都达不到要求。'))
+W('deficiency','/dɪˈfɪʃənsi/','不足；缺乏；缺陷',
+ 'deficient 说“不够”，deficiency 把不够的状态或缺的那一块拿出来当名词说。',
+ 'deficient 的 -ent 对应 -ency，也与拉丁 deficientia 相应。现代可用 deficient + -cy 记构词对应，但不是把完整 deficient 保留后再写一个 cy。',
+ [['拉丁 deficiens、deficientia 的对应','缺少的及缺乏状态'],['英语 deficient／deficiency','不足的／不足、缺陷']],
+ 'a deficiency in the plan 计划中的缺陷；a deficiency of evidence 证据不足。具体营养或医学义也用这个词，但不能由一个词就判断某人缺什么。',
+ 'a serious deficiency；identify deficiencies。','deficiency 重在不足、缺欠，difference 是差别；不是每个差别都代表缺陷。',
+ ('The review identified several deficiencies in the plan.','评审发现了计划中的几处不足。'),('A deficiency of reliable data limited the study.','可靠数据不足限制了这项研究。'))
+W('occupant','英 /ˈɒkjəpənt/；美 /ˈɑːkjəpənt/','居住者；占用者；车内等的乘员',
+ '房间有人住，这个人是 occupant；车里坐着的每个人，也可算这辆车的 occupants。重点是当时占着、用着那个空间。',
+ '借法语 occupant 或拉丁 occupans、occupantis 相关分词材料，同族 occupy 占用。现代可看 occupy 与 -ant 的对应，不能反推一定先由英语动词造出人物名。',
+ [['拉丁 occupare、occupans → 法语相关形式','占用、占据及从事者的材料'],['英语 occupant','某空间的居住、使用者或乘员']],
+ 'the occupant of a room 房间的住客；vehicle occupants 车内人员。乘员不一定拥有车辆，住客也不一定是房主。',
+ 'the current occupant；the occupants of the car。',
+ 'occupant 是实际居住、占用者，owner 是所有者；一间租来的房里，两种身份常是不同的人。',
+ ('The room’s previous occupant had left a note.','房间上一位住客留了一张字条。'),('All the occupants got out of the car.','车内所有人都下了车。'))
+W('buoyant','英 /ˈbɔɪənt/；美 /ˈbɔɪənt/、/ˈbuːjənt/','有浮力的；轻快乐观的；市场等旺盛的',
+ '先想一块软木轻轻浮在水上：不往下沉。心情被托起来、市场有活力，也能用 buoyant。',
+ '与 buoy 浮标、托起的材料相连，英语可对应 buoy + -ant；词源还与法语 bouyant、或西班牙语 boyante 漂浮的相联系，不把英语表面拆分当唯一借入路线。',
+ [['法语或西班牙语相应漂浮词形；buoy 的词族','浮着、托起的材料'],['英语 buoyant','能浮的；情绪、活动被托起般有活力的']],
+ 'a buoyant mood 轻快乐观的心情；buoyant demand 旺盛的需求；a buoyant material 能浮起的材料。比喻义并不都指价格一定上涨。',
+ 'a buoyant mood；buoyant demand。',
+ 'buoyant 形容具体事物或状态，buoyancy 是浮力、浮性或乐观等名词；两者都不能只按中文浮躁来理解。',
+ ('Cork is a light, buoyant material.','软木是一种轻而能浮的材料。'),('She remained in a buoyant mood after the interview.','面试后她仍然心情轻快、充满信心。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/buoyant'])
+W('occupancy','英 /ˈɒkjəpənsi/；美 /ˈɑːkjəpənsi/','居住、占用；入住情况',
+ '一间房有人住、一栋楼有人使用，是 occupancy 所看的状态；酒店算有多少房住了人，也围绕这个词。',
+ 'occupant 居住者、占用者 + -cy，-ant 与 -ancy 对应；同族 occupy 经法语接拉丁 occupare 占据。不是只按 occupation 职业猜成工作。',
+ [['拉丁 occupare → occupy、occupant','占用 → 占用者等词族'],['occupant／occupancy','占用者／占用、居住状态']],
+ 'occupancy rate 入住率或占用率；full occupancy 全部住满、全部占用；single occupancy 单人使用一间房等。具体统计分母按场景，不能所有场合当成同一个比例。',
+ 'a high occupancy rate；single occupancy。','occupancy 看空间有没有、怎样被占用；occupation 还可指职业或占领，不能在所有意思上互换。',
+ ('Hotel occupancy was high during the festival.','节日期间酒店入住率很高。'),('The room price is based on single occupancy.','这个房价按单人入住计算。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/occupancy'])
+W('insolvency','英 /ɪnˈsɒlvənsi/；美 /ɪnˈsɑːlvənsi/','无力偿债；资不抵债等财务困境',
+ '该还的钱到了，却没有足够财力偿还，或者负债与资产出现相应问题；insolvency 是这类偿债能力不足的状态名。',
+ 'insolvent + -cy，对应 -ent／-ency；solvent 的偿付能力义来自 solve 松开、解决、清偿一条历史，in- 在这里否定。',
+ [['solvent → in- + solvent = insolvent','有偿付能力 → 无偿付能力的'],['insolvent／insolvency','相关形容词与状态名词']],
+ 'face insolvency 面临无力偿债；insolvency proceedings 相关清偿程序的名称。这里读懂词义即可，具体法律标准和程序名称须看地区，不能把一句概括当法律定义。',
+ 'face insolvency；a risk of insolvency。','insolvency 是财务状态概念，bankruptcy 是与破产有关的程序或身份名称；两者日常常有关联，不能认定任何场合完全相同。',
+ ('Falling sales pushed the company towards insolvency.','销售额下滑使公司逐渐陷入无力偿债的困境。'),('The report raised concerns about the firm’s insolvency risk.','报告提出了对这家公司偿债风险的担忧。'))
+W('truant','/ˈtruːənt/','逃学者；逃学、擅离职责的',
+ '按理应该在课堂，却没有获准就不去上课，这样的学生可叫 a truant；play truant 是常见逃学说法。',
+ '经古法语 truant、truand 等乞丐、流浪者、无赖的旧材料借入，英语逐渐用于逃避职责、擅自离开应在位置的人，尤指逃学者。更远来源不确定，不拆成 true 真 + ant。',
+ [['古法语 truant、truand → 中古英语相应形式','带贬义的人物旧称'],['后来的 truant','擅离职责的人，尤指逃学者']],
+ 'play truant 逃学〔常见英式〕；a truant pupil 逃学学生。生病请假不是典型的 play truant。',
+ 'play truant；a truant pupil。','absent 缺席本身不说明原因，truant 常含未经许可、逃避上课或职责的意味。',
+ ('He admitted playing truant from school.','他承认自己逃了学。'),('The teacher contacted the parents of the truant pupils.','老师联系了那些逃学学生的家长。'),sources=['https://www.etymonline.com/word/truant'])
+W('truancy','/ˈtruːənsi/','逃学；旷课',
+ 'truant 是逃学的人或逃学的，truancy 把这种不获准就缺课的行为单独拿出来说。',
+ 'truant + -cy，表面的 -ant 换成 -ancy。前面的 truant 是整体借入的旧词，不因为末尾像 -ant 就一定来自某个拉丁现在分词。',
+ [['truant','逃学者、擅离职责的'],['truant + -cy → truancy','逃学这一行为、现象']],
+ 'reduce truancy 减少逃学；a truancy problem 逃学问题；truancy rates 逃学率。说问题时常关注反复出现的现象。',
+ 'persistent truancy；reduce truancy。','truancy 不是所有 absence 缺勤、缺课；批准的病假通常不直接叫 truancy。',
+ ('The school introduced a programme to reduce truancy.','学校推出了一个减少逃学的项目。'),('The report links persistent truancy to several social pressures.','报告把持续逃学与几种社会压力联系起来。'))
+W('chaplain','/ˈtʃæplɪn/','机构中的牧师、宗教关怀人员；随军牧师',
+ '在医院、学校、军队等机构，为里面的人提供宗教或精神关怀的工作人员，可叫 chaplain；不只是在普通教堂主持礼拜。',
+ '经古法语 chapelain 接中世纪拉丁 cappellanus，与 cappella 小礼拜堂等词族相连。更早有圣马丁斗篷圣物的命名传统；把传统当背景，不能把每位现代 chaplain 解释成看管斗篷的人。',
+ [['中世纪拉丁 cappellanus → 古法语 chapelain','与礼拜堂相关的宗教职务名'],['英语 chaplain','军队、医院、学校等机构中的宗教关怀人员']],
+ 'a hospital chaplain 医院宗教关怀人员；an army chaplain 随军牧师。现代机构所服务的信仰背景可多样，具体职责看所在机构。',
+ 'a hospital chaplain；a prison chaplain。','chaplain 强调服务的机构、群体，priest、minister 等更常体现宗派和教职称谓；这些词有交叉却不完全同义。',
+ ('The hospital chaplain spoke with the family.','医院的宗教关怀人员与那家人交谈。'),('She works as a chaplain at a university.','她在一所大学担任宗教关怀人员。'),sources=['https://www.etymonline.com/word/chaplain'])
+W('chaplaincy','/ˈtʃæplɪnsi/','chaplain 的职位、任期或服务工作',
+ 'chaplain 是那位工作人员，chaplaincy 可以说这个岗位，也可以说机构提供的宗教关怀服务。',
+ 'chaplain + -cy；这里 -cy 把人物身份转成职务、工作，而不是“没有 chaplain”的否定。',
+ [['chaplain','机构中的宗教关怀人员'],['chaplain + -cy → chaplaincy','相应职务、服务工作']],
+ 'a hospital chaplaincy service 医院宗教关怀服务；the university chaplaincy 大学的相关服务部门、工作，具体按机构用法。',
+ 'a chaplaincy service；the university chaplaincy。','chaplain 是人，chaplaincy 是职务或服务；招聘 a chaplain 是招人，fund chaplaincy services 是资助相关服务。',
+ ('The university expanded its chaplaincy services.','大学扩大了宗教关怀服务。'),('He applied for a chaplaincy at the hospital.','他申请了医院的宗教关怀岗位。'))
+W('incumbency','/ɪnˈkʌmbənsi/','在任；现任职位；任职期间',
+ '一个人已经坐在这个职位上，这个在任状态、职位或这段任期，可以用 incumbency。',
+ 'incumbent 现任者、在任的 + -cy；同族材料远接拉丁 incumbere 倚靠、压在上面等。现代政治用法落在已经担任职务，不是物理躺在椅子上。',
+ [['拉丁 incumbere、incumbens 等','倚靠、落在其上等材料'],['incumbent → incumbency','在任者、在任的 → 在任状态、任期']],
+ 'the advantages of incumbency 在任优势；during her incumbency 在她任职期间。这个名词不表示一定连任成功。',
+ 'the advantage of incumbency；during his incumbency。','incumbent 指在任者或在任的，incumbency 指状态、职位或时间；candidate 是候选人，可能同时是现任者。',
+ ('The candidate benefited from the advantages of incumbency.','这位候选人受益于现任者的优势。'),('The library expanded during her incumbency.','在她任职期间，图书馆扩大了规模。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/incumbency'])
+R('A2002','性质、状态、行为；某些职位或任职期间',
+ 'CY：把某种情况或身份，拿出来作为一个名词',
+ 'efficient 说机器办事利落，efficiency 说它的效率；captain 是队长，captaincy 说队长职务。词尾把镜头从描述或人，移到状态、职务。',
+ '-cy 在英语中承接拉丁 -cia、-tia 等抽象名词词尾的材料，部分词经法语进入，和 -acy、-ancy、-ency 等形式有历史关系。最常见的学习对应有 efficient／efficiency、accurate／accuracy、resident／residency。它不只表示性质，也能命名 captaincy、chaplaincy 一类职务。',
+ '-ent 常对应 -ency，-ant 常对应 -ancy；部分 -ate 形容词对应 -acy，如 accurate／accuracy。这是认形线索，不是见到任何英文词都能自由替换。许多词的借入历史不同；occupancy 对应 occupant，不能只按 occupation 职业猜义。',
+ [['性质与程度','efficient · efficiency；accurate · accuracy；fluent · fluency；deficient · deficiency'],['状态与行为','pregnancy · expectancy · dependency · redundancy · truancy'],['居住和偿债情况','residency · occupancy · tenancy；solvency · insolvency · bankruptcy'],['身份、职务及任期','consultancy · captaincy · chaplain · chaplaincy · incumbent · incumbency']],
+ 'deficiency 不足／difference 差别；occupancy 居住占用／occupation 职业等多义；truant、truancy 不等于所有缺课；incumbency 在任状态，不是连任结果。',
+ 'The review found a deficiency in accuracy, even though efficiency had improved.\n\n评审发现准确性仍有不足，尽管效率已提高。',
+ 'emergency efficient efficiency pregnant pregnancy accurate accuracy bankrupt bankruptcy advocate advocacy transparent transparency resident residency dependent dependency decent decency expectant expectancy consult consultancy infant infancy redundant redundancy tenant tenancy fluent fluency captain captaincy buoyant buoyancy normal normalcy inadequate inadequacy relevant relevancy solvent solvency insolvent insolvency numeracy recent recency deficient deficiency occupy occupant occupancy truant truancy chaplain chaplaincy incumbent incumbency')
+if __name__=='__main__':save('continuation_20261030_qi',ROOTS,WORDS)

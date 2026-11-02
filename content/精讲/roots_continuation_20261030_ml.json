@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B2593",
+    "meaning": "小面额硬币引出每一点钱和身无分文",
+    "core": "PENNY：把最小的一点钱拿来强调有、没有和节省",
+    "image": "penny → penniless。",
+    "intro": "学习高频金额和口语表达即可，旧币制、极冷门复合暂留原资料。pence 与 pennies 先按金额、硬币个数区分。",
+    "forms": "古英语 peniġ、penning → penny，深源未定；-less 没有，y 变 i。\n\npence 是 penies 等历史复数的缩合，末尾 ce 表 /s/，类似 dice 的特殊复数拼写。现代金额常用 pence，枚数强调一枚枚硬币时常用 pennies。",
+    "branches": [
+      [
+        "小钱与完全没钱的状态",
+        "penny · penniless"
+      ],
+      [
+        "penny 的历史集合复数 → pence",
+        "pence"
+      ]
+    ],
+    "contrasts": "英式金额常 pence，硬币个数常 pennies；penniless 不必说终身状态。",
+    "practice": "He saved every penny after arriving almost penniless.\n\n他来到这里时几乎身无分文，此后每一点钱都省着。",
+    "words": [
+      "penny",
+      "penniless",
+      "pence"
+    ],
+    "exclude": {
+      "penny-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "penny-ante": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pennywise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pennyworth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "threepenny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3932",
+    "meaning": "小火星引起变化，细碎闪光又比喻神采",
+    "core": "SPARK：一点亮，可能点燃后面的一大片",
+    "image": "spark → sparkle、sparky。",
+    "intro": "spark 看触发起点，sparkle 看一闪一闪的光和活力，sparky 看人或谈话像冒火花。",
+    "forms": "古英语 spearca → spark；旧 -le 指小、反复形式；-y 性质及昵称。\n\nspark 能点燃事物，也能引起情绪、争论；sparkle 的旧 -le 含细小、反复背景，后来还有活力、气泡用途。",
+    "branches": [
+      [
+        "火星与触发",
+        "spark"
+      ],
+      [
+        "连续闪亮与活力",
+        "sparkle · sparky"
+      ],
+      [
+        "spark 的一粒火星与 sparkle 的点点闪光",
+        "spark · sparks · sparked · sparking · sparkle · sparkles · sparkled · sparkling"
+      ]
+    ],
+    "contrasts": "spark 引发不等于控制全过程；sparkle 可眼神、谈话神采；sparky 电工昵称有口语色彩。",
+    "practice": "The sparky discussion sparked new ideas and made everyone’s eyes sparkle.\n\n生动的讨论激起新点子，让大家眼中都有了光。",
+    "words": [
+      "spark",
+      "sparkle",
+      "sparky",
+      "sparks",
+      "sparked",
+      "sparking",
+      "sparkles",
+      "sparkled",
+      "sparkling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1738",
+    "meaning": "星体、太空相关的构词形式",
+    "core": "ASTRO-：把视线抬到星空和宇宙",
+    "image": "astronomy、astrology、astronaut，再到各研究分支。",
+    "intro": "都是看向星空，任务却不一样：研究天体、占星解读、进入太空的人，以及摄影、生命、物理的专门分支。",
+    "forms": "astro- 来自希腊 astron 星；后项说明研究、人物、摄影或学科。",
+    "branches": [
+      [
+        "研究星空与占星",
+        "astronomy · astrology"
+      ],
+      [
+        "太空人物",
+        "astronaut"
+      ],
+      [
+        "物理、摄影与生命研究",
+        "astrophysics · astrophysicist · astrophysical · astrophotography · astrobiology"
+      ]
+    ],
+    "contrasts": "astronomy 天文学与 astrology 占星术分清；astro- 不必只指一颗可见亮星。",
+    "practice": "The astronaut discussed astronomy and astrophotography with the students.\n\n宇航员与学生讨论了天文学和天文摄影。",
+    "words": [
+      "astronomy",
+      "astrology",
+      "astronaut",
+      "astrophysics",
+      "astrophysicist",
+      "astrophysical",
+      "astrophotography",
+      "astrobiology"
+    ],
+    "exclude": {
+      "astrodome": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4537",
+    "meaning": "攀升、立起的旧动作，分化为坡道与失控活动",
+    "core": "RAMP：向上爬的斜面，凶猛立起则走向猖獗",
+    "image": "ramp → ramp up；rampant、rampage 接旧动作的凶猛分支。",
+    "intro": "不要用现代坡道名词硬解释全部词族。它们共享更早爬升、立起的动作背景，再各自走向斜面、失控增长和狂冲。",
+    "forms": "ramper 爬、立起 → rampe 坡面、rampant 分词等；rampage 联系苏格兰旧形与狂冲义。",
+    "branches": [
+      [
+        "坡道及增减",
+        "ramp"
+      ],
+      [
+        "失控增长与狂暴行动",
+        "rampant · rampage"
+      ]
+    ],
+    "contrasts": "run rampant 常负面失控；ramp up 常增加；rampage 不把 age 当年龄。",
+    "practice": "Rumours ran rampant while the officials ramped up their response.\n\n谣言四处疯传，相关人员也加强了回应。",
+    "words": [
+      "ramp",
+      "rampant",
+      "rampage"
+    ],
+    "exclude": {
+      "off-ramp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "on-ramp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3578",
+    "meaning": "统帅称号跨语言进入海军，人物与管理领域分清",
+    "core": "ADMIRAL：先记指挥者，再看海上专门化",
+    "image": "admiral → admiralty。",
+    "intro": "阿拉伯指挥者称号在中世纪欧洲被多次改造，海军义逐渐稳定。人物之后，再看机构、职权和海事法律领域的名词。",
+    "forms": "amīr → 中世纪拉丁、法语头衔 → admiral；admiralty 接相关职权名词及 -ty 对应。",
+    "branches": [
+      [
+        "海军人物与管理、职权领域",
+        "admiral · admiralty"
+      ]
+    ],
+    "contrasts": "词形受 admire 影响不等于词源来自钦佩；Admiralty 机关名须看历史背景。",
+    "practice": "The admiral sent a report to the Admiralty.\n\n海军将官向海军部递交了一份报告。",
+    "words": [
+      "admiral",
+      "admiralty"
+    ],
+    "exclude": {
+      "sub-admiral": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

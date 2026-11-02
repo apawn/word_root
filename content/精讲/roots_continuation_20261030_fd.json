@@ -1,0 +1,93 @@
+[
+  {
+    "id": "B3628",
+    "meaning": "上方覆盖物和建筑最外面的顶",
+    "core": "ROOF：挡在最上面，材料、工人、状态分别派生",
+    "image": "roof → roofed、roofing、roofer、roofline；rooftop 是顶面，sunroof 车顶可透光开口等。",
+    "intro": "roof 与 ceiling 看外面、里面；roofed 通道可侧面敞开；roofing 既材料又过程，roofer 才是工人。",
+    "forms": "hrōf 经中古英语 → roof；roof + -ed/-ing/-er/line/top；sun + roof。\n\n标准复数拼写 roofs；常读 /ruːfs/，也有词典记录的 /ruːvz/ 等读音差异。拼写与读音须分别看，不能一律改成 rooves。",
+    "branches": [
+      [
+        "基础、结果、材料工作与人物",
+        "roof · roofed · roofing · roofer"
+      ],
+      [
+        "轮廓、顶面和车辆部件",
+        "roofline · rooftop · sunroof"
+      ],
+      [
+        "roof → roofs：f 结尾的对照",
+        "roof · roofs"
+      ]
+    ],
+    "contrasts": "roof/ceiling 外顶室内顶；roofs 常规复数；roofing/roofer 工作材料与人物；roofline/skyline 范围不同。",
+    "practice": "The roofer repaired the roofing without changing the roofline.\n\n屋面工修了屋面材料，没有改变屋顶轮廓。",
+    "words": [
+      "roof",
+      "roofed",
+      "roofing",
+      "roofer",
+      "roofline",
+      "rooftop",
+      "sunroof",
+      "roofs"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4130",
+    "meaning": "尖端、倾斜、递给消息与小费，分支看对象",
+    "core": "TIP：小词义很多，前后搭配决定走哪条路",
+    "image": "tip → fingertip、tiptoe；tipping、tipper 接给小费或倾卸；tipsy 微醉；tipster、tooltip 接提示信息；wingtip 翼尖。",
+    "intro": "tip 建议可数，advice 常不可数；小费不是 TIPS 的首字母造词。tipsy 的具体旧路径有争议，不能简单把tips 复数建议变醉。",
+    "forms": "tippe → 端点 tip；tippen 等 → 倾斜 tip；旧递给 tip → 小费、消息；finger/wing + tip；tip + toe/-ing/-er/-ster；tool + tip。\n\n多个历史分支的关系不全确定，建议、小费义接给、递的用法，不编首字母故事。\n\ntip 取提示、信息义，组合不表示工具的尖端。\n\ntip 的不同动词远源不完全明，倾斜与给付小费分别追溯；不把虚构缩写当词源。现代双写 p 加 -ed，/p/ 后读 /t/。",
+    "branches": [
+      [
+        "尖端与脚尖、翼尖",
+        "tip · fingertip · tiptoe · wingtip"
+      ],
+      [
+        "行为、人物与微醉",
+        "tipping · tipper · tipsy"
+      ],
+      [
+        "线索人物与界面提示",
+        "tipster · tooltip"
+      ],
+      [
+        "tip → tips：尖端、建议与小费",
+        "tip · tips"
+      ],
+      [
+        "tooltip → tooltips：工具说明小提示",
+        "tooltip · tooltips"
+      ],
+      [
+        "tip 的倾斜、给付等支线 → tipped",
+        "tipped"
+      ]
+    ],
+    "contrasts": "tip/advice 可数与不可数；tipper/tipster 小费者与消息者；tipping point 临界非小费点；tooltip 提示非工具尖端。",
+    "practice": "The tooltip offered a useful tip at her fingertips.\n\n工具提示给出一条实用建议，随手就能查看。",
+    "words": [
+      "tip",
+      "fingertip",
+      "tiptoe",
+      "wingtip",
+      "tipping",
+      "tipper",
+      "tipsy",
+      "tipster",
+      "tooltip",
+      "tips",
+      "tooltips",
+      "tipped"
+    ],
+    "exclude": {
+      "fly-tip": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tri-tip": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tippy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tipple": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

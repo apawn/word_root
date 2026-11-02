@@ -1,0 +1,173 @@
+[
+  {
+    "id": "B3323",
+    "meaning": "身体中段的腰，形成腰线、收腰性质与衣物名称",
+    "core": "WAIST：衣服在身体中间收住的地方",
+    "image": "waist → waisted、waistline；waistband 腰带部位，waistcoat 马甲。",
+    "intro": "身体部位先提供位置，再看服装如何剪裁、围住或覆盖它。腰线是设计，腰围是量度，-ed 说明具有的外形。",
+    "forms": "wast、waste → waist，远源未定；-ed 有……形状，line 线，band 带，coat 衣物。",
+    "branches": [
+      [
+        "腰部、形状及量度",
+        "waist · waisted · waistline"
+      ],
+      [
+        "服装复合",
+        "waistband · waistcoat"
+      ]
+    ],
+    "contrasts": "waist 与 waste 同音不同义；服装腰线不一定就是身体自然腰位。",
+    "practice": "The waistline of the waisted coat sits just above the waistband.\n\n收腰外套的腰线位于裤腰带部位稍上方。",
+    "words": [
+      "waist",
+      "waisted",
+      "waistline",
+      "waistband",
+      "waistcoat"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3502",
+    "meaning": "弓形拱起，与狡黠形容词的另一来源分开",
+    "core": "ARCH：弯曲结构跨过空处，脚底也有足弓",
+    "image": "arch → archway；an arch smile 另接首要前缀的旧义发展。",
+    "intro": "拱门、足弓、猫弓背共享形状；调皮的笑意则不能凭形状解释。用法在同一页对照，来源各自保留。",
+    "forms": "arcus → arche → arch；way 通道形成 archway；形容词 arch 另由 arch- 发展。\n\narc、建筑 arch 接拉丁 arcus 弓、弧的不同词形路径；表示首要的希腊 arch- 另源，现代读音也不同。\n\narcade 经法语，可能接意大利语 arcata、arco 与拉丁 arcus 弓、拱。由拱廊发展到带商铺、游乐设施的有顶通道，再有电玩厅义。",
+    "branches": [
+      [
+        "拱形与通道",
+        "arch · archway"
+      ],
+      [
+        "arc 与 arch：弓形的两种借入形式",
+        "arch · arc"
+      ],
+      [
+        "arc- 拱 → arcade：拱廊与游乐厅",
+        "arcade"
+      ]
+    ],
+    "contrasts": "arch 的常见 /tʃ/ 与 architecture 的 /k/ 分清；形容词狡黠义另有来源。",
+    "practice": "The archway was supported by a stone arch.\n\n那道拱形通道由石拱支撑。",
+    "words": [
+      "arch",
+      "archway",
+      "arc",
+      "arcade"
+    ],
+    "exclude": {
+      "archy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3424",
+    "meaning": "颌的部位与开合动作，发展轮廓、工具与固定比喻",
+    "core": "JAW：嘴的骨架能开合，夹爪也能这样夹住",
+    "image": "jaw → jawline、jawed、jawbone；lockjaw 看锁住画面，jawbreaker 看吃力夸张。",
+    "intro": "骨头、外侧轮廓、有没有颌，是不同描述层次。夹爪借动作，张口困难借锁住，大硬糖与拗口词借颌部吃力。",
+    "forms": "jawe、jowe → jaw，远源争论保留；line 轮廓，-ed 有……，bone 骨，lock 锁，breaker 破坏者。",
+    "branches": [
+      [
+        "部位、骨骼、轮廓与性质",
+        "jaw · jawbone · jawline · jawed"
+      ],
+      [
+        "锁住与使颌吃力的复合",
+        "lockjaw · jawbreaker"
+      ]
+    ],
+    "contrasts": "lockjaw 不能单凭一个词确定病因；jawline 轮廓与 jawbone 骨头分清。",
+    "practice": "The drawing shows the jawbone beneath the jawline.\n\n图示画出了下颌轮廓下方的颌骨。",
+    "words": [
+      "jaw",
+      "jawbone",
+      "jawline",
+      "jawed",
+      "lockjaw",
+      "jawbreaker"
+    ],
+    "exclude": {
+      "foot-jaw": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jaw-twister": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jaw-dropper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3450",
+    "meaning": "建造材料的旧义，聚焦木材与林木资源",
+    "core": "TIMBER：树木能成为房梁，林地、木构与林线由此命名",
+    "image": "timber → timbered、timberline、timberland。",
+    "intro": "建筑看木料、梁，土地看林木。timbered 用 -ed 说明带有这些特征；line 画生长界线，land 画林地范围。",
+    "forms": "timber → tymber → timber；-ed 具有，line 界线，land 土地。",
+    "branches": [
+      [
+        "木材、性质与生长界线",
+        "timber · timbered · timberline"
+      ],
+      [
+        "林地复合",
+        "timberland"
+      ]
+    ],
+    "contrasts": "timberline 不是全球固定海拔；timbered 要看是在描写建筑还是土地。",
+    "practice": "The timbered valley lay below the timberline.\n\n林木茂密的山谷位于林线以下。",
+    "words": [
+      "timber",
+      "timbered",
+      "timberline",
+      "timberland"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3743",
+    "meaning": "传说中的吸取生命，现代再借作榨取比喻",
+    "core": "VAMPIR-：靠吸取别人的生命，成为怪物与剥削形象",
+    "image": "vampire → vampiric、vampirism。",
+    "intro": "怪物、性质和状态各由词形分工。真实动物名是借传说命名，人物评论则借吸取精力的形象；这些用法不能混成一项医学事实。",
+    "forms": "斯拉夫相关词经匈牙利、德语、法语等 → vampire；去 e + -ic、-ism。",
+    "branches": [
+      [
+        "怪物、性质与现象",
+        "vampire · vampiric · vampirism"
+      ]
+    ],
+    "contrasts": "吸血鬼是传说、虚构形象；vampire bat 是真实动物名，词义层次分清。",
+    "practice": "The vampire’s vampiric powers explain the story’s version of vampirism.\n\n吸血鬼的能力体现了这个故事对吸血鬼状态的设定。",
+    "words": [
+      "vampire",
+      "vampiric",
+      "vampirism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4121",
+    "meaning": "人名成为计算术名称，再发展成明确步骤的方法名",
+    "core": "ALGORITHM：一套可以照着执行的步骤，词名来自人名",
+    "image": "algorithm → algorithmic。",
+    "intro": "先用排序步骤建立概念，再回看数学家名字、拉丁与法语的传播。拼写中的 -th- 是后来的联想影响，不要据此编出原始词根拆分。",
+    "forms": "al-Khwarizmi → algorismus → algorisme、algorithme → algorithm；+ -ic → algorithmic。\n\nalgorithm 接数学家 al-Khwarizmi 名称经拉丁、法语的传写变化，词形受希腊 arithmos 数的联想影响；不是英语 rhythm 的派生词。现代复数说一套套算法。",
+    "branches": [
+      [
+        "方法与性质",
+        "algorithm · algorithmic"
+      ],
+      [
+        "人名传入的计算方法 → algorithm → algorithms",
+        "algorithms"
+      ]
+    ],
+    "contrasts": "algorithm 不等于人工智能；algorithmic 也不自动保证公平或正确。",
+    "practice": "The algorithmic approach follows an explicit algorithm.\n\n这种算法式方法遵循一套明确步骤。",
+    "words": [
+      "algorithm",
+      "algorithmic",
+      "algorithms"
+    ],
+    "exclude": {
+      "semi-algorithm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

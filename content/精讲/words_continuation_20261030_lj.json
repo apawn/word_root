@@ -1,0 +1,421 @@
+[
+  {
+    "word": "restorative",
+    "ipa": "英 /rɪˈstɒrətɪv/；美 /rɪˈstɔːrətɪv/",
+    "meaning": "有助恢复的、使重新振作的；恢复性的",
+    "sense": "累了一天，安静休息让人恢复力气，这样的休息就是 restorative。别的领域也可强调修复关系、恢复功能，核心是把状态往回带。",
+    "split": "承中古英语、古法语 restoratif 等，上接拉丁相关形容词形式；现代可对应 restore + -ative，去 e。里面 restore 联系 restaurāre 重建、修复。",
+    "history": [
+      [
+        "拉丁 re- 再 + -staurāre 相关词干 → restaurāre",
+        "重建、修复，使重新牢固"
+      ],
+      [
+        "古法语 restorer → restore",
+        "恢复、归还、修复"
+      ],
+      [
+        "后缀分支",
+        "restorative 有恢复作用；restorer 修复的人或物"
+      ]
+    ],
+    "explanation": "restorative sleep 使人恢复精力的睡眠，a restorative break 让人缓过来的休息，restorative work 恢复、修复工作。专业搭配另有特定含义。",
+    "usage": "restorative sleep；a restorative break。",
+    "contrast": "restorative 说有恢复作用的性质；restored 是已经恢复的状态。一次 restorative break 不等于所有问题都已经解决。",
+    "examples": [
+      [
+        "A quiet walk felt restorative after the busy day.",
+        "忙碌一天后，安静散步让人恢复了精神。"
+      ],
+      [
+        "They stopped for a short, restorative break.",
+        "他们停下来短暂休息，缓一缓精神。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restorative#English"
+    ]
+  },
+  {
+    "word": "restorer",
+    "ipa": "英 /rɪˈstɔːrə/；美 /rɪˈstɔːrər/",
+    "meaning": "修复者、修复师；恢复作用的东西",
+    "sense": "画面旧了、家具坏了，把它仔细修回合适状态的人就是 restorer。也可以按功能说某种有恢复作用的东西。",
+    "split": "restore + -er，去词尾 e 后加人物、工具后缀。它关注谁来修复，而不是修复这件事本身。",
+    "history": [
+      [
+        "拉丁 re- 再 + -staurāre 相关词干 → restaurāre",
+        "重建、修复，使重新牢固"
+      ],
+      [
+        "古法语 restorer → restore",
+        "恢复、归还、修复"
+      ],
+      [
+        "restore + -er → restorer",
+        "负责恢复、修复的人或物"
+      ]
+    ],
+    "explanation": "an art restorer 艺术品修复师，a furniture restorer 家具修复师，a paint restorer 恢复涂饰外观的产品等，具体作用看物品说明。",
+    "usage": "an art restorer；a furniture restorer。",
+    "contrast": "restorer 不一定是最初创作者；修复者处理既有作品、物品。restoration 则是修复过程、结果等名词。",
+    "examples": [
+      [
+        "The art restorer cleaned the painting carefully.",
+        "艺术品修复师仔细清理那幅画。"
+      ],
+      [
+        "A furniture restorer repaired the damaged chair.",
+        "家具修复师修好了受损的椅子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restorer#English"
+    ]
+  },
+  {
+    "word": "antislavery",
+    "ipa": "/ˌæntiˈsleɪvəri/，美也读 /ˌæntaɪˈsleɪvəri/",
+    "meaning": "反奴隶制的、反对奴役的",
+    "sense": "slavery 是把人置于奴役中的制度、状态；anti- 把方向转为反对它，antislavery 描述相应立场、运动、活动。",
+    "split": "anti- 反对 + slavery；更里层 slave + -ery 形成身份、制度或状态名词。不是 anti- 去反对一个拼写相似的普通劳动词。",
+    "history": [
+      [
+        "slave → slavery",
+        "奴隶身份、奴役制度"
+      ],
+      [
+        "anti- + slavery → antislavery",
+        "反对奴隶制、奴役制度的立场或活动"
+      ]
+    ],
+    "explanation": "an antislavery movement 反奴隶制运动，antislavery campaigners 反奴隶制活动者，antislavery literature 反奴隶制文学。",
+    "usage": "an antislavery movement；antislavery literature。",
+    "contrast": "antislavery 主要作前置修饰等性质表达；slavery 是制度、状态本身。具体历史组织和政策仍看所在时期。",
+    "examples": [
+      [
+        "The exhibition explores the history of the antislavery movement.",
+        "展览探索反奴隶制运动的历史。"
+      ],
+      [
+        "She studied antislavery literature from the nineteenth century.",
+        "她研究十九世纪的反奴隶制文学。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/antislavery#English"
+    ]
+  },
+  {
+    "word": "needlework",
+    "ipa": "英 /ˈniːdəlwɜːk/；美 /ˈniːdəlwɜːrk/",
+    "meaning": "针线活、刺绣等手工；相应作品",
+    "sense": "用 needle 一针一线做出来的 work，就是针线活。它既能指做这件事的技艺、活动，也能指做好的作品。",
+    "split": "needle 针 + work 工作、手工、制品，复合词。这里不把 needle 拆成 need 需要再加后缀。",
+    "history": [
+      [
+        "work 工作、制作",
+        "复合词后半可说活动、技艺，也可说成品、结构"
+      ],
+      [
+        "needle + work → needlework",
+        "用针线做的手工、相应作品"
+      ]
+    ],
+    "explanation": "do needlework 做针线活，fine needlework 精细针工，a piece of needlework 一件针线作品。常作不可数名词，数作品可加 a piece of。",
+    "usage": "do needlework；a piece of needlework。",
+    "contrast": "needlework 不只缝衣服，也可含刺绣等；work 在这里不是一份职位，而是活动、技艺或其成品。",
+    "examples": [
+      [
+        "Her grandmother taught her needlework.",
+        "奶奶教她做针线活。"
+      ],
+      [
+        "The museum displays several pieces of delicate needlework.",
+        "博物馆展示了几件精细针线作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needlework#English"
+    ]
+  },
+  {
+    "word": "stonework",
+    "ipa": "英 /ˈstəʊnwɜːk/；美 /ˈstoʊnwɜːrk/",
+    "meaning": "石工、石材施工；石砌结构、石作",
+    "sense": "石头经过砌、切、接，成为墙、门框、台阶，这些石作可以合称 stonework；也能说制作它的技艺。",
+    "split": "stone 石 + work 制作、结构，承古英语 stānweorc 及中古英语形式。",
+    "history": [
+      [
+        "work 工作、制作",
+        "复合词后半可说活动、技艺，也可说成品、结构"
+      ],
+      [
+        "stānweorc → stonework",
+        "石工技艺、石制或石砌结构"
+      ]
+    ],
+    "explanation": "repair the stonework 修补石作，decorative stonework 装饰石作，the building’s stonework 建筑的石砌结构、石材部分。",
+    "usage": "repair the stonework；decorative stonework。",
+    "contrast": "stonework 不是未加工石头的普通总称；它带有人加工、施工或结构的意思，通常不可数。",
+    "examples": [
+      [
+        "The old church has beautifully carved stonework.",
+        "这座旧教堂的石作雕刻精美。"
+      ],
+      [
+        "Workers repaired the damaged stonework around the doorway.",
+        "工人修补了门口周围受损的石作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stonework#English"
+    ]
+  },
+  {
+    "word": "backwards",
+    "ipa": "英 /ˈbækwədz/；美 /ˈbækwərdz/",
+    "meaning": "向后、倒着；反过来",
+    "sense": "脸朝前、脚往后退，是 walk backwards；把名字从最后一个字母往前念，也是 backwards，顺序倒过来了。",
+    "split": "backward + 副词后缀 -s，承中古英语相应形式。这里 -s 不表示多个向后，也不表示第三人称动词。",
+    "history": [
+      [
+        "back 向后 + -ward 朝向 → backward",
+        "朝后；延迟、相对落后的性质"
+      ],
+      [
+        "backward + 副词 -s → backwards",
+        "向后、反过来，-s 不是复数"
+      ]
+    ],
+    "explanation": "walk backwards 倒着走，read backwards 倒着读，put something on backwards 把东西前后穿反。",
+    "usage": "walk backwards；read backwards；on backwards。",
+    "contrast": "backward、backwards 都可作副词，英式用 backwards 很常见；作普通前置形容词说 a backward step，不通常说 a backwards step。",
+    "examples": [
+      [
+        "He took two steps backwards.",
+        "他向后退了两步。"
+      ],
+      [
+        "She had put her sweater on backwards.",
+        "她把毛衣前后穿反了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backwards#English"
+    ]
+  },
+  {
+    "word": "backwardness",
+    "ipa": "英 /ˈbækwədnəs/；美 /ˈbækwərdnəs/",
+    "meaning": "落后、滞后状态；迟疑、羞怯〔部分用法〕",
+    "sense": "把 backward 的落后、不够进展变成一件可讨论的状态，就是 backwardness。说落后时，最好读清在哪方面、按什么标准比较。",
+    "split": "backward + -ness，性质形容词变状态名词。backward 在此不只说身体向后走，还包含相对发展、行动意愿等性质。",
+    "history": [
+      [
+        "back 向后 + -ward 朝向 → backward",
+        "朝后；延迟、相对落后的性质"
+      ],
+      [
+        "backward + 副词 -s → backwards",
+        "向后、反过来，-s 不是复数"
+      ],
+      [
+        "backward + -ness → backwardness",
+        "相对滞后、迟疑等状态"
+      ]
+    ],
+    "explanation": "technological backwardness 技术滞后，overcome backwardness 克服落后；较旧、较正式语境中也可说迟疑、不愿前行的状态。",
+    "usage": "technological backwardness；overcome backwardness。",
+    "contrast": "不是所有 backwards 的倒序都能换成 backwardness；后者多说抽象状态。对一个领域的滞后描述，不必扩大成一个人或地区的全部价值。",
+    "examples": [
+      [
+        "The report focused on technological backwardness in the factory.",
+        "报告重点讨论工厂的技术滞后。"
+      ],
+      [
+        "Better training helped the workshop overcome its earlier backwardness.",
+        "更好的培训帮助车间摆脱先前的落后状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backwardness#English"
+    ]
+  },
+  {
+    "word": "bronze",
+    "ipa": "英 /brɒnz/；美 /brɑːnz/",
+    "meaning": "青铜；古铜色；青铜制品；铜牌",
+    "sense": "先是一种铜合金，再是它给人的颜色和做成的东西。a bronze 可以是一件青铜雕塑；体育中 win bronze 则是获得铜牌。",
+    "split": "借法语 bronze，上接意大利语 bronzo；更早有多种解释，不能把某座城市或波斯语来源当唯一确定路线。",
+    "history": [
+      [
+        "意大利语 bronzo → 法语 bronze → 英语 bronze",
+        "青铜；更早来源有争论"
+      ],
+      [
+        "材料 → 颜色、制品和奖牌",
+        "青铜色、青铜雕塑、铜牌等"
+      ]
+    ],
+    "explanation": "a bronze statue 青铜雕像，the Bronze Age 青铜时代，win a bronze medal 获得铜牌。典型青铜是铜锡合金，现代材料名称还涉及其他配方。",
+    "usage": "a bronze statue；win bronze；a bronze medal。",
+    "contrast": "bronze 青铜与 brass 黄铜不要混，典型后者联系铜锌合金；bronze 的奖牌义也不要求每块奖牌都是某一种固定纯度。",
+    "examples": [
+      [
+        "A bronze statue stood outside the library.",
+        "图书馆外立着一座青铜雕像。"
+      ],
+      [
+        "She won bronze in the swimming final.",
+        "她在游泳决赛中获得铜牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bronze#English",
+      "https://www.etymonline.com/word/bronze"
+    ]
+  },
+  {
+    "word": "bronzer",
+    "ipa": "英 /ˈbrɒnzə/；美 /ˈbrɑːnzər/",
+    "meaning": "古铜色修饰化妆品、仿晒妆粉等",
+    "sense": "不用真的晒黑，而用化妆品给皮肤添一点暖暖的古铜色，这种产品就叫 bronzer。具体是粉、膏、液体，要看产品形式。",
+    "split": "bronze 使成古铜色 + -er，去词尾 e，按作用命名一种化妆品。不是在皮肤上涂真正的青铜金属。",
+    "history": [
+      [
+        "意大利语 bronzo → 法语 bronze → 英语 bronze",
+        "青铜；更早来源有争论"
+      ],
+      [
+        "材料 → 颜色、制品和奖牌",
+        "青铜色、青铜雕塑、铜牌等"
+      ],
+      [
+        "bronze 使成古铜色 + -er → bronzer",
+        "暂时营造古铜肤色的化妆品"
+      ]
+    ],
+    "explanation": "apply bronzer 涂古铜色修饰产品，a matte bronzer 哑光古铜妆产品，a cream bronzer 古铜色妆膏。",
+    "usage": "apply bronzer；a matte bronzer。",
+    "contrast": "bronzer 重点是古铜色外观；与用阴影塑形的 contour 产品用途可重合，但不在所有妆容里完全相同。",
+    "examples": [
+      [
+        "She applied a little bronzer to warm up her makeup.",
+        "她涂了少量古铜色产品，让妆容显得暖一些。"
+      ],
+      [
+        "The bronzer comes in a compact with a mirror.",
+        "这款古铜妆粉装在带镜子的粉盒里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bronzer#English"
+    ]
+  },
+  {
+    "word": "burst",
+    "ipa": "英 /bɜːst/；美 /bɜːrst/",
+    "meaning": "爆裂、胀破；突然冲出、爆发；一阵突发",
+    "sense": "气球里面的压力撑破外皮，是 burst；眼泪、笑声一下压不住地出来，也借这个突然冲破的画面。",
+    "split": "承古英语 berstan，经中古英语 bresten、bersten 等到现代，历史上有音序互换。由破裂扩到突然而强地出现、发生。",
+    "history": [
+      [
+        "古英语 berstan → 中古英语 bresten、bersten → burst",
+        "突然裂开、内部压力冲破阻挡；词中音序历史上有变化"
+      ],
+      [
+        "具体破裂 → 突然涌出、发生",
+        "burst into tears；a burst of energy"
+      ]
+    ],
+    "explanation": "a balloon bursts 气球爆了，burst into tears 突然哭起来，burst out laughing 突然大笑，a burst of energy 一阵突来的干劲。",
+    "usage": "burst into tears；burst out laughing；a burst of。",
+    "contrast": "常用过去式、过去分词仍是 burst，不是一般地加 -ed。burst into 后常接 tears、laughter 或某处，burst out laughing 接动作形式。",
+    "examples": [
+      [
+        "The balloon burst with a loud pop.",
+        "气球砰地一声爆了。"
+      ],
+      [
+        "Everyone burst out laughing at the mistake.",
+        "看到那个失误，大家突然大笑起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/burst#English",
+      "https://www.etymonline.com/word/burst"
+    ]
+  },
+  {
+    "word": "outburst",
+    "ipa": "英 /ˈaʊtbɜːst/；美 /ˈaʊtbɜːrst/",
+    "meaning": "突然爆发；感情、言语的迸发",
+    "sense": "情绪原本压在里面，忽然一下冲出来，形成一次 outburst。可以是怒吼，也可以是笑声或别的突然活动。",
+    "split": "联系中古英语 outbersten 等，现代可按 out 向外 + burst 爆发理解。这里重点学重音在前的名词。",
+    "history": [
+      [
+        "古英语 berstan → 中古英语 bresten、bersten → burst",
+        "突然裂开、内部压力冲破阻挡；词中音序历史上有变化"
+      ],
+      [
+        "具体破裂 → 突然涌出、发生",
+        "burst into tears；a burst of energy"
+      ],
+      [
+        "out + burst → outburst",
+        "情绪、活动突然爆发"
+      ]
+    ],
+    "explanation": "an outburst of anger 怒气爆发，an emotional outburst 情绪突然发作，a sudden outburst 突然迸发。",
+    "usage": "an outburst of；an emotional outburst。",
+    "contrast": "outburst 不只等于生气；要看 of 后说哪种情绪、活动。名词 an outburst 与短语动词 burst out 分开安排句子。",
+    "examples": [
+      [
+        "He apologised for his angry outburst.",
+        "他为刚才的怒气爆发道歉。"
+      ],
+      [
+        "Her announcement was followed by an outburst of laughter.",
+        "她宣布完，大家爆发出一阵笑声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outburst#English"
+    ]
+  },
+  {
+    "word": "grid",
+    "ipa": "/ɡrɪd/",
+    "meaning": "网格、格栅；电网；网状系统",
+    "sense": "横线竖线交错，把平面分成小格，是 grid。地图靠格子定位，城市街道像格网，电力系统也借网络相连的画面叫 the grid。",
+    "split": "由 gridiron 或 griddle 缩短而来，先联系烤架、格栅，再扩到线条交错的布局、相互连接的系统。不能倒过来认定所有长词都最初由短 grid 加出。",
+    "history": [
+      [
+        "gridiron 或 griddle 的缩短形式 → grid",
+        "烤架、格栅的形象"
+      ],
+      [
+        "线条交错 → 网格、网络",
+        "地图、城市街道、电力输配系统等"
+      ]
+    ],
+    "explanation": "a grid of streets 格网状街道，a map grid 地图网格，the power grid 电网，a starting grid 赛车起跑排列。",
+    "usage": "a map grid；the power grid；a grid of。",
+    "contrast": "grid 不要求任何系统真的画成等大的正方形；电网说连接关系，图形网格则看具体几何布局。",
+    "examples": [
+      [
+        "The map is divided into a numbered grid.",
+        "地图划成了有编号的网格。"
+      ],
+      [
+        "The village is now connected to the power grid.",
+        "村庄现在已接入电网。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grid#English",
+      "https://www.etymonline.com/word/grid"
+    ]
+  }
+]

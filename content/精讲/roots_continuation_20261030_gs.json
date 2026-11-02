@@ -1,0 +1,122 @@
+[
+  {
+    "id": "B3676",
+    "meaning": "尿、撒尿的粗俗词，及醉酒、恼火等习语",
+    "core": "PISS：基本义直白粗俗，情绪义跟短语和地区走",
+    "image": "piss → pissed 醉酒或恼火 → pissy 爱发火；piss off、take the piss 等按整组理解。",
+    "intro": "这些词常用但语气粗。解释要保留人物说话的态度，不能把粗俗骂话洗成中性，也不能把每个习语逐字译成生理动作。",
+    "forms": "pissier → pissen/piss；piss + -ed/-y；piss off 等组合义推动情绪用法。",
+    "branches": [
+      [
+        "基本词和状态",
+        "piss · pissed"
+      ],
+      [
+        "爱发火的态度",
+        "pissy"
+      ]
+    ],
+    "contrasts": "pissed 英式醉酒、美式恼火是倾向非绝对；pissed off 多明确恼火；pissy/picky 臭脾气与挑剔。",
+    "practice": "He was pissed off, but his pissy reply only made the argument worse.\n\n他很恼火，可那种发臭脾气的答复只让争吵更糟。",
+    "words": [
+      "piss",
+      "pissed",
+      "pissy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3840",
+    "meaning": "强力、猛烈，人的暴力与自然剧烈分场景",
+    "core": "VIOLENT：一股很猛的力量冲过来",
+    "image": "violent → violently；人身行为可暴力，风暴和运动可剧烈。",
+    "intro": "先看力量落在哪：行为是否伤人、风有多强、物体晃多厉害。不能只背暴力一个中文，再把自然描述都读歪。",
+    "forms": "vīs/violentus → violent；violent + -ly → violently。",
+    "branches": [
+      [
+        "强力性质与方式",
+        "violent · violently"
+      ]
+    ],
+    "contrasts": "violent/angry 暴力或剧烈与愤怒情绪；violently opposed 可只是强烈反对，不必发生肢体冲突。",
+    "practice": "A violent gust shook the door violently.\n\n一阵猛烈的风把门摇得厉害。",
+    "words": [
+      "violent",
+      "violently"
+    ],
+    "exclude": {
+      "non-violent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3589",
+    "meaning": "估量后指向目标；目的与无目的",
+    "core": "AIM：想达到哪里，就把行动朝哪里对",
+    "image": "aim → aimless 没有明确方向；aim to do/aim at/aimed at 是常用结构。",
+    "intro": "历史从估量、筹划走到指向。今天用来谈目标最实用，但有目标不表示必然成功，没目标也不等于没烦恼。",
+    "forms": "aestimāre → aesmer → aim；aim + -less → aimless。\n\n古法语估量、计算词接拉丁 aestimare，英语扩为瞄准、意图。\n\n法语估量、计算词接拉丁 aestimare，名词复数与动词三单同形。\n\n法语估量材料接拉丁 aestimare，现代加完整 ing。",
+    "branches": [
+      [
+        "目标、指向与缺少方向",
+        "aim · aimless"
+      ],
+      [
+        "aim → aimed：估量后指向目标",
+        "aim · aimed"
+      ],
+      [
+        "aim → aims：目标与瞄向目标的动作",
+        "aim · aims · aimed"
+      ],
+      [
+        "aim → aiming：估量到指向目标",
+        "aim · aiming"
+      ]
+    ],
+    "contrasts": "aim/achieve 意图与达到；aimless/carefree 无目标与无忧；aimed at beginners 面向初学者。",
+    "practice": "A clear aim can turn aimless discussion into useful planning.\n\n清楚的目标能把漫无方向的讨论变成有用的计划。",
+    "words": [
+      "aim",
+      "aimless",
+      "aimed",
+      "aims",
+      "aiming"
+    ],
+    "exclude": {
+      "aim-crier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aimer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2775",
+    "meaning": "发出气味与感知气味，及难闻的派生词",
+    "core": "SMELL：鼻子在接收，东西也在散味",
+    "image": "smell 可香可臭 → smelly 通常难闻；smell good 描述气味，smell a rat 比喻怀疑。",
+    "intro": "一句是我闻到，一句是它闻起来。把施事和气味来源分开，常用句型就清楚；更早词源不确定处保留。",
+    "forms": "smellen/smel → smell；smell + -y → smelly；过去 smelled/smelt。\n\n中古英语 smellen 已有两向用法，更早闷烧联系不作定论。",
+    "branches": [
+      [
+        "气味、感知与难闻性质",
+        "smell · smelly"
+      ],
+      [
+        "smell → smells：气味、闻起来与闻到",
+        "smell · smells"
+      ]
+    ],
+    "contrasts": "smell/smelly 中性气味与通常难闻；smell good 用形容词；smelt 另有冶炼等同形词别自动混源。",
+    "practice": "The room smells fresh now that the smelly socks are gone.\n\n臭袜子拿走后，房间现在闻起来清新了。",
+    "words": [
+      "smell",
+      "smelly",
+      "smells"
+    ],
+    "exclude": {
+      "smell-o-vision": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smell-alike": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smell-o-meter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smell-o-rama": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smell-smock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

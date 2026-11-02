@@ -1,0 +1,108 @@
+[
+  {
+    "id": "B4245",
+    "meaning": "使共享；交流、传递与连接",
+    "core": "COMMUNICATE：把内容传给别人，使双方能共享",
+    "image": "communicate → communicating、communicator；communication 现代放同组，历史保留独立且较早的名词借入。",
+    "intro": "不把名词按表面后缀硬画成现代动词的后代。相通房间借连通义，正式来函是传达内容的可数用法。",
+    "forms": "拉丁语 commūnis、commūnicāre、commūnicāt-；communicate 去 e 加 -ing/-or；communication 对应 -ion 但另有借入链。\n\n英语名词有独立借入历史，复数常形成通信、对外沟通等集合用法。",
+    "branches": [
+      [
+        "传达、过程与参与者",
+        "communicate · communicating · communication · communicator"
+      ],
+      [
+        "communication → communications：沟通、消息与通信业务",
+        "communication · communications"
+      ]
+    ],
+    "contrasts": "communicate with 人、communicate something to 人；communication 可过程也可来函；communicating rooms 相通不只相邻。",
+    "practice": "Clear communication helped both teams understand the plan.\n\n清楚的沟通帮助两支团队都理解了计划。",
+    "words": [
+      "communicate",
+      "communicating",
+      "communication",
+      "communicator",
+      "communications"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2962",
+    "meaning": "环形、围合；铃响另源，人物与场所分别接支线",
+    "core": "RING：眼睛看到的圈，耳朵听到的铃，要分两条线",
+    "image": "ring → ringer；earring、keyring 环形物；ringtone 鸣响；ringside、ringmaster、ringleader 场地或群体；ringworm 旧名称另辨。",
+    "intro": "ringed 与 rang/rung 随不同来源和意义变化。ringer 的相貌、替身支线不编确定起源；ringworm 的名称不当病因。",
+    "forms": "ring〔环〕—ringed；ring〔响〕—rang—rung；ring + -er/side/master/worm/tone；ear/key + ring。\n\n响铃 ring → rang → rung；围圈、装环的动词通常 ringed。梯级 rung 另源，与响铃的过去分词仅同形同音。\n\n古英语 hring、hringan 分别传下，过去式与分词变化不同。\n\n器物名称沿用后，形状可有变化，不按字面要求每只耳饰是环。\n\n此 ring 接圆环器物，不接铃声动词的另一支。\n\nring 的响声支与圆环名词支分源，铃声组合取响声这一支。\n\n发声 ring 承古英语 hringan，常认为拟声，与圆环 hring 的直接路径分开。现代完整 -ing，铃响、打电话、回响等。",
+    "branches": [
+      [
+        "环与随身物品",
+        "ring · earring · keyring"
+      ],
+      [
+        "声音、装置及人物用法",
+        "ringer · ringtone"
+      ],
+      [
+        "比赛、表演和带头者",
+        "ringside · ringmaster · ringleader"
+      ],
+      [
+        "旧病名辨析",
+        "ringworm"
+      ],
+      [
+        "ring、rang、rung：响铃这条线",
+        "ring · rang · rung"
+      ],
+      [
+        "ring → rings：圆环与鸣响两支",
+        "ring · rings"
+      ],
+      [
+        "ring 的耳部饰物组合及复数",
+        "ring · earring · earrings"
+      ],
+      [
+        "keyring → keyrings：挂钥匙的环",
+        "ring · keyring · keyrings"
+      ],
+      [
+        "ring 的铃响组合及复数",
+        "ringtone · ringtones"
+      ],
+      [
+        "ring 发声 → ringing",
+        "ringing"
+      ]
+    ],
+    "contrasts": "环与铃响另源；ringmaster/ringleader 常见语气不同；dead ringer 极像而非死人；ringworm 真菌感染。",
+    "practice": "He took a ringside seat and waited for the bell to ring.\n\n他坐到拳击台边，等着铃声响起。",
+    "words": [
+      "ring",
+      "earring",
+      "keyring",
+      "ringer",
+      "ringtone",
+      "ringside",
+      "ringmaster",
+      "ringleader",
+      "ringworm",
+      "rang",
+      "rung",
+      "rings",
+      "earrings",
+      "keyrings",
+      "ringtones",
+      "ringing"
+    ],
+    "exclude": {
+      "ring-neck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ring-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oath-ring": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ring-tailed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bering": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coring": "常见 coring 为 core 去芯的 -ing 形式；另有罕见 co- + ring 数学词。本轮不把前者误作圆环 ring 的直接派生。"
+    }
+  }
+]

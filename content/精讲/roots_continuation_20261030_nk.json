@@ -1,0 +1,233 @@
+[
+  {
+    "id": "B2822",
+    "meaning": "弯曲后的状态，也能说倾向与不诚实的比喻",
+    "core": "BENT：原来直的弯了，或心思偏向一个方向",
+    "image": "bent 是 bend 的过去式、过去分词，也有定型名词、形容词义。",
+    "intro": "弯掉的钉子提供形状；be bent on 做某事则突出心思坚决朝向目标。人物不诚实的用法要按地区、语境读。",
+    "forms": "bend → bent，不规则过去、分词；a bent for 某种倾向，be bent on 决意。",
+    "branches": [
+      [
+        "弯曲状态与定型用法",
+        "bent"
+      ]
+    ],
+    "contrasts": "bent 不一律等于损坏；a bent for writing 是写作倾向。",
+    "practice": "Bent over the desk, she remained bent on finishing the story.\n\n她伏在桌前，仍决意把故事写完。",
+    "words": [
+      "bent"
+    ],
+    "exclude": {
+      "bent-side": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hell-bent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3764",
+    "meaning": "提前畏惧与敬畏，复合词各有文化、专名背景",
+    "core": "DREAD：想到就害怕，旧义也能说敬畏",
+    "image": "dread → dreadful；dreadlocks 看文化发型名，dreadnought 看无所畏惧的命名。",
+    "intro": "糟糕评价来自可怕的夸张；锁结发型不能只靠中文俗名理解；舰名、吉他形制名称则经过专名到通名的传播。",
+    "forms": "ondrædan → drædan、dreden → dread；-ful 性质；locks 发绺；nought 无。\n\n古英语 ondraedan、draedan 等经中古英语到 dread；现代过去、-ing 直接加完整词尾，ea 在这里读 /e/。",
+    "branches": [
+      [
+        "畏惧与糟糕性质",
+        "dread · dreadful"
+      ],
+      [
+        "文化、专名与器形复合",
+        "dreadlocks · dreadnought"
+      ],
+      [
+        "dread 的强烈害怕与常用变化",
+        "dread · dreads · dreaded · dreading"
+      ]
+    ],
+    "contrasts": "dreadful 常只是很糟；dreadlocks 的 lock 是发绺，dreadnought 的 nought 是无。",
+    "practice": "He dreaded the interview, but it was not as dreadful as he expected.\n\n他很怕面试，但结果没有预想中那么糟。",
+    "words": [
+      "dread",
+      "dreadful",
+      "dreadlocks",
+      "dreadnought",
+      "dreads",
+      "dreaded",
+      "dreading"
+    ],
+    "exclude": {
+      "rent-a-dread": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4124",
+    "meaning": "突然爆发的性质，副词、性质名词分说方式与能力",
+    "core": "EXPLOSIVE：一瞬释放大力量，体能与局势都可借用",
+    "image": "explosive → explosively、explosiveness。",
+    "intro": "材料、动作与争议的具体含义不同，连起来的是迅速爆发的形象。副词描述发生方式，-ness 抽出性质、能力。",
+    "forms": "explode → explosive；-ly 方式，-ness 性质，均保留 e。\n\nexplosive 联系拉丁 explos- 与 -ive 性质词尾，后来作名词指具有爆炸性质的物质，再加 -s。",
+    "branches": [
+      [
+        "性质、方式与爆发程度",
+        "explosive · explosively · explosiveness"
+      ],
+      [
+        "explosive → explosives：形容词转物质名",
+        "explosives"
+      ]
+    ],
+    "contrasts": "运动爆发力与耐力不同；局势的爆炸性通常是比喻。",
+    "practice": "The report describes how the debate changed explosively and examines the issue’s explosiveness.\n\n报告描述争论怎样突然激化，并分析问题的易激化性质。",
+    "words": [
+      "explosive",
+      "explosively",
+      "explosiveness",
+      "explosives"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3594",
+    "meaning": "海洋大动物的旧名，捕鲸角色与规模比喻各走一支",
+    "core": "WHALE：大体形帮助记动物，也帮助记行业大客户",
+    "image": "whale → whaler。",
+    "intro": "动物、活动执行者和船只都围绕具体用途。大客户、玩得痛快则借规模夸张，不表示每个 whale 都在海里。",
+    "forms": "hwæl → whal → whale；去 e + -er → whaler。\n\nwhale 承古英语 hwæl，旧时泛称的海兽范围较宽，现代鲸的名称更明确。保留 e 加 -s，/l/ 后读 /z/；鲸是哺乳动物。",
+    "branches": [
+      [
+        "动物、捕鲸人与船只",
+        "whale · whaler"
+      ],
+      [
+        "whale → whales：鲸",
+        "whales"
+      ]
+    ],
+    "contrasts": "鲸是哺乳动物；whaler 捕鲸者与观鲸者角色不同。",
+    "practice": "The whaler’s journal recorded sightings of whales.\n\n捕鲸船日志记录了鲸的目击情况。",
+    "words": [
+      "whale",
+      "whaler",
+      "whales"
+    ],
+    "exclude": {
+      "whale-road": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whale-path": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2904",
+    "meaning": "动物纤维到线、布，材料与毛茸质感分出两种形容词",
+    "core": "WOOL：纤维能纺成线，织成布，模糊思路则像松散一团",
+    "image": "wool → woolly、woolen；英式 woollen。",
+    "intro": "材料名、毛茸茸性质、羊毛制成的性质各有重点。思路 woolly 是含糊比喻，不能只翻成毛做的想法。",
+    "forms": "wull → wolle → wool；-y 性质；wyllen 等旧材料形容词 → woolen／woollen。\n\ncashmere 接 Kashmir 的旧拼写，是地名用于纤维、织物；fleece 承古英语羊毛名，又发展绒面衣料与骗取钱财等用法。羊绒和普通羊毛的材料名不能随意互换。",
+    "branches": [
+      [
+        "材料与两种性质",
+        "wool · woolly · woolen"
+      ],
+      [
+        "wool 对照：羊绒与整片羊毛、绒面材料",
+        "cashmere · fleece"
+      ]
+    ],
+    "contrasts": "oo 读短 /ʊ/；woolen 的 -en 是材料性质，stiffen 的 -en 是变成动作。",
+    "practice": "The wool was used to make woolen socks and a woolly hat.\n\n羊毛被用来做毛袜和毛茸茸的帽子。",
+    "words": [
+      "wool",
+      "woolly",
+      "woolen",
+      "cashmere",
+      "fleece"
+    ],
+    "exclude": {
+      "abb-wool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2234",
+    "meaning": "类型、形式或标本的命名成分，前项说明是哪种参照",
+    "core": "-TYPE：从一个原型，到可归类的形式、特征",
+    "image": "prototype 原型；phenotype 表型；genotype 基因型；monotype 单一形式相关词。",
+    "intro": "同一结尾可说参照模型、生物特征或分类样本。具体领域决定它在命名哪一种类型，不能只给所有词塞进“打字”。",
+    "forms": "希腊 typos 印记、形状、类型 → type；在近代科学、技术组合词中继续构词。",
+    "branches": [
+      [
+        "模型、形式与分类参照",
+        "prototype · holotype · monotype"
+      ],
+      [
+        "生物表现与遗传类别",
+        "phenotype · genotype"
+      ]
+    ],
+    "contrasts": "phenotype 表型与 genotype 基因型概念不同；-type 不专指打字。",
+    "practice": "The lesson distinguishes a prototype from a biological phenotype or genotype.\n\n这节课区分原型与生物学里的表型、基因型。",
+    "words": [
+      "prototype",
+      "holotype",
+      "monotype",
+      "phenotype",
+      "genotype"
+    ],
+    "exclude": {
+      "haplotype": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "karyotype": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "serotype": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3547",
+    "meaning": "一场演出到一单工作，动词再形成接活活动名",
+    "core": "GIG：今晚演一场、这周接一单，工作按次来谈",
+    "image": "gig → gigging。",
+    "intro": "演出提供一次委托的画面，后扩展自由接单工作。容量简称 gig 则另由 giga- 等缩短，词形像不能混为同一来历。",
+    "forms": "gig 演出名来源未定 → 动词 gig；双写 g + -ing → gigging。",
+    "branches": [
+      [
+        "工作、演出与活动",
+        "gig · gigging"
+      ]
+    ],
+    "contrasts": "gig 不一律是音乐演出；存储量简称的来源另论。",
+    "practice": "The musicians went gigging after booking several small gigs.\n\n乐手订到几场小演出后，就开始跑场演出了。",
+    "words": [
+      "gig",
+      "gigging"
+    ],
+    "exclude": {
+      "gig-mill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gig-lamp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gig-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4487",
+    "meaning": "正当道义的旧词，名词、副词与否定形式各有历史延续",
+    "core": "RIGHTEOUS：认为行为站得住道义，再看谁作出评价",
+    "image": "righteous → righteousness、righteously；unrighteous 不义。",
+    "intro": "正义感可以得到赞许，也可能被叙述者讽刺为自认正确。旧 rightwise 一族演变到现代 righteous，不能凭拼写把历史随便切成 right + -eous。",
+    "forms": "rihtwis → rightwise → righteous；旧 -ness、方式副词随词形变化；un- 否定。",
+    "branches": [
+      [
+        "性质、道义概念与方式",
+        "righteous · righteousness · righteously"
+      ],
+      [
+        "否定道义性质",
+        "unrighteous"
+      ]
+    ],
+    "contrasts": "righteousness 的宗教义有专门背景；自认为正当不等于叙述者必然认同。",
+    "practice": "They spoke righteously about righteousness while condemning unrighteous acts.\n\n他们带着道义感谈论正义，谴责不义行为。",
+    "words": [
+      "righteous",
+      "righteousness",
+      "righteously",
+      "unrighteous"
+    ],
+    "exclude": {
+      "self-righteous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

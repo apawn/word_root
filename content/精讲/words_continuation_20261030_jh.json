@@ -1,0 +1,146 @@
+[
+  {
+    "word": "spy",
+    "ipa": "/spaɪ/",
+    "meaning": "间谍；暗中监视、搜集信息；看到、发现",
+    "sense": "躲在对方不知情的地方观察、搜集消息，是 spy 的典型画面。但 spy a house in the distance 也能只是远远看见一座房子。",
+    "split": "经古法语 espier、中古英语 espien、spien，前面的弱读音节省去，形成 spy。法语这条线本身联系日耳曼语观察词源，不是所有法语借词都起于拉丁语。",
+    "history": [
+      [
+        "法兰克语等日耳曼语的观察相关形式 → 古法语 espier",
+        "观察、窥探"
+      ],
+      [
+        "中古英语 espien／spien → spy",
+        "窥探、暗中搜集信息；也可说看到、发现"
+      ]
+    ],
+    "explanation": "a spy novel 间谍小说，spy on someone 暗中监视某人，spy a familiar face 看见一张熟悉的脸。名词复数 spies，动词过去式 spied，但 spying 保留 y。",
+    "usage": "a spy novel；spy on；spy a familiar face。",
+    "contrast": "spy on 常突出暗中窥探；watch 更普通。及物 spy a bird 可以只是看到一只鸟，不必每次都有间谍活动。",
+    "examples": [
+      [
+        "She enjoys reading spy novels.",
+        "她喜欢读间谍小说。"
+      ],
+      [
+        "We spied a small café at the end of the street.",
+        "我们看见街尾有一家小咖啡馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spy#English"
+    ]
+  },
+  {
+    "word": "spying",
+    "ipa": "/ˈspaɪɪŋ/",
+    "meaning": "间谍活动、暗中搜集信息；正在窥探",
+    "sense": "spy 可以说人或动作，spying 则把暗中观察、搜集信息当作正在发生的事或整个行为来谈。",
+    "split": "spy + -ing，接中古英语 spyinge 等旧形式。y 在这里保留；不是每次见 -ing 都必须翻成正在。",
+    "history": [
+      [
+        "法兰克语等日耳曼语的观察相关形式 → 古法语 espier",
+        "观察、窥探"
+      ],
+      [
+        "中古英语 espien／spien → spy",
+        "窥探、暗中搜集信息；也可说看到、发现"
+      ],
+      [
+        "spy + -ing → spying",
+        "暗中搜集信息这一行为；进行中的动作"
+      ]
+    ],
+    "explanation": "accused of spying 被指控从事间谍活动，spying on a rival 暗中监视对手，a history of spying 间谍活动史。",
+    "usage": "accused of spying；spying on；a history of spying。",
+    "contrast": "spying 可是名词，spying on someone 也可处于动词结构。public observation 公开观察不因看了别人就自动是 spying。",
+    "examples": [
+      [
+        "The documentary explores the history of spying.",
+        "纪录片探讨了间谍活动的历史。"
+      ],
+      [
+        "The character discovers that someone has been spying on him.",
+        "这个角色发现有人一直在暗中监视他。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spying#English"
+    ]
+  },
+  {
+    "word": "spyware",
+    "ipa": "英 /ˈspaɪweə/；美 /ˈspaɪwer/",
+    "meaning": "间谍软件",
+    "sense": "软件在用户不知情时悄悄记录、报告活动，像躲在设备里的窥探者，因此叫 spyware。",
+    "split": "spy + -ware；-ware 取自 software 等软件名称的构词用法。把暗中搜集信息这一行为借给程序，不是有一个小人真的藏在里面。",
+    "history": [
+      [
+        "法兰克语等日耳曼语的观察相关形式 → 古法语 espier",
+        "观察、窥探"
+      ],
+      [
+        "中古英语 espien／spien → spy",
+        "窥探、暗中搜集信息；也可说看到、发现"
+      ],
+      [
+        "spy + -ware → spyware",
+        "暗中监视、报告用户活动的程序类别"
+      ]
+    ],
+    "explanation": "detect spyware 检测间谍软件，remove spyware 清除间谍软件，spyware detection 间谍软件检测。通常作不可数集合性名称，不把每个程序都常规说 a spyware。",
+    "usage": "detect spyware；remove spyware；spyware detection。",
+    "contrast": "spyware 按暗中监控功能命名，virus 按特定传播、复制机制命名；不能把所有恶意软件都当同一种病毒。",
+    "examples": [
+      [
+        "The scan detected spyware on the computer.",
+        "扫描在电脑上发现了间谍软件。"
+      ],
+      [
+        "The article explains how spyware can record a user’s activity.",
+        "文章解释了间谍软件如何记录用户活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spyware#English"
+    ]
+  },
+  {
+    "word": "spymaster",
+    "ipa": "英 /ˈspaɪmɑːstə/；美 /ˈspaɪmæstər/",
+    "meaning": "间谍首脑；谍报负责人",
+    "sense": "不是亲自看见东西的人，而是组织、指挥一批间谍的人。master 在这里表示统领、负责人。",
+    "split": "spy + master，按负责指挥间谍群体的关系组合。与 spyglass 的 glass 器具部分、spyware 的软件部分分开理解。",
+    "history": [
+      [
+        "法兰克语等日耳曼语的观察相关形式 → 古法语 espier",
+        "观察、窥探"
+      ],
+      [
+        "中古英语 espien／spien → spy",
+        "窥探、暗中搜集信息；也可说看到、发现"
+      ],
+      [
+        "spy + master → spymaster",
+        "组织、指挥间谍活动的人物"
+      ]
+    ],
+    "explanation": "a fictional spymaster 小说中的谍报首脑，the spymaster’s network 谍报负责人的情报网络。历史、新闻及谍战作品常见。",
+    "usage": "a fictional spymaster；the spymaster’s network。",
+    "contrast": "spy 是搜集情报者，spymaster 强调管理、指挥角色；并非每个资历老的 spy 都一定领导一个网络。",
+    "examples": [
+      [
+        "The novel’s spymaster rarely appears in public.",
+        "小说里的谍报首脑很少公开露面。"
+      ],
+      [
+        "The biography describes the spymaster’s network of agents.",
+        "传记描述了这位谍报负责人的特工网络。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spymaster#English"
+    ]
+  }
+]

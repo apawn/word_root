@@ -1,0 +1,149 @@
+[
+  {
+    "id": "B3879",
+    "meaning": "皂类清洁物，按性质、形似物与历史物件扩展",
+    "core": "SOAP：滑滑的清洁物，给触感相似的石头借个名字",
+    "image": "soap → soapy；soapstone；soapbox 有箱子和言论平台等固定扩展。",
+    "intro": "清洁水里的 soap 是材料，soapy 是含皂状态；soapstone 只借像皂的触感等特点。比喻和复合词不必照字面功能照搬。",
+    "forms": "sāpe → sope → soap；-y 性质，stone 石头，box 箱子。",
+    "branches": [
+      [
+        "材料与状态",
+        "soap · soapy"
+      ],
+      [
+        "形似名称与历史物件",
+        "soapstone · soapbox"
+      ]
+    ],
+    "contrasts": "soapstone 不是肥皂；a bar of soap 常用来数块；a soap 可从肥皂剧简称理解。",
+    "practice": "She washed the soapstone bowl in soapy water.\n\n她用皂水洗了那个皂石碗。",
+    "words": [
+      "soap",
+      "soapy",
+      "soapstone",
+      "soapbox"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3867",
+    "meaning": "从粗糙、刮人到严酷、苛刻",
+    "core": "HARSH：感官像被刮了一下，态度也可能不留余地",
+    "image": "harsh → harshly、harshness。",
+    "intro": "光线刺眼、嗓音刺耳、气候严酷、批评苛刻，保留的都是不柔和、让人难受的感觉。",
+    "forms": "中古英语相关形式 → harsh；-ly 方式，-ness 性质状态。",
+    "branches": [
+      [
+        "性质、方式与抽象状态",
+        "harsh · harshly · harshness"
+      ]
+    ],
+    "contrasts": "harsh 常含负面感受，不只是 strict 严格；harshness 通常不可数。",
+    "practice": "The harsh reply showed a harshness she had not expected.\n\n那个生硬的回答流露出她没料到的苛刻。",
+    "words": [
+      "harsh",
+      "harshly",
+      "harshness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4554",
+    "meaning": "运作、发挥作用，及手术分支中的时间关系",
+    "core": "OPERATIVE：同一工作词族，手术文本里要看前缀给出的时段",
+    "image": "operative → inoperative；preoperative、intraoperative、postoperative、perioperative；cooperative 另看共同合作。",
+    "intro": "operative 可以有效、运作，也能说手术相关。进入手术分支后，pre、intra、post、peri 很像一条时间线上的不同范围。",
+    "forms": "operate 词族 + 相应性质形式；in- 否定，pre- 前，intra- 内、期间，post- 后，peri- 周围，co- 共同。",
+    "branches": [
+      [
+        "运作与合作",
+        "operative · inoperative · cooperative"
+      ],
+      [
+        "手术的前、中、后及周边阶段",
+        "preoperative · intraoperative · postoperative · perioperative"
+      ]
+    ],
+    "contrasts": "inoperative 无效不等于术前；intraoperative 术中与 perioperative 围手术期范围不同。",
+    "practice": "The report separates preoperative, intraoperative and postoperative observations.\n\n报告把术前、术中、术后观察分开记录。",
+    "words": [
+      "operative",
+      "inoperative",
+      "cooperative",
+      "preoperative",
+      "intraoperative",
+      "postoperative",
+      "perioperative"
+    ],
+    "exclude": {
+      "retro-operative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "operatively": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4331",
+    "meaning": "热带性质，及气候带、地理区域的不同限定",
+    "core": "TROPICAL：前缀有时改气候带，有时改地理范围",
+    "image": "tropical → subtropical、neotropical。",
+    "intro": "subtropical 是亚热带，neotropical 是美洲这一支的地理称谓。别把 neo- 新当成更热、更晚形成的温度等级。",
+    "forms": "tropical 词族；sub- 亚、近于，neo- 此处联系新世界美洲。",
+    "branches": [
+      [
+        "热带及两类范围限定",
+        "tropical · subtropical · neotropical"
+      ]
+    ],
+    "contrasts": "专业生物地理区不完全按纬线划界；subtropical 和 neotropical 限定角度不同。",
+    "practice": "The exhibition compares tropical and subtropical habitats.\n\n展览比较热带与亚热带生境。",
+    "words": [
+      "tropical",
+      "subtropical",
+      "neotropical"
+    ],
+    "exclude": {
+      "post-tropical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-tropical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4425",
+    "meaning": "鸟的短促高声，借到高音设备与网络短消息",
+    "core": "TWEET：一声啾鸣，变成声音或信息的小输出",
+    "image": "tweet → tweeter、retweet。",
+    "intro": "高音扬声器像负责啾鸣的东西；推文像发出去的一声短鸣。网络名称会变，但鸟鸣到短消息的历史联想可以一直帮助阅读。",
+    "forms": "tweet 拟声；-er 人或设备；re- 再传播。\n\n本为拟鸟鸣声，网络推文义在历史命名、使用中发展；不把词汇说明当成当前界面操作指南。\n\ntweet 先以鸟鸣名词记录，再有动词；网络发文义是后来的借用，两义都可形成 tweeted、tweeting。",
+    "branches": [
+      [
+        "声音、信息与发出者",
+        "tweet · tweeter"
+      ],
+      [
+        "再次传播",
+        "retweet"
+      ],
+      [
+        "tweet → tweets：短促鸟鸣及网络历史用法",
+        "tweet · tweets"
+      ],
+      [
+        "tweet：鸟的短鸣到发短消息",
+        "tweet · tweets · tweeted · tweeting"
+      ]
+    ],
+    "contrasts": "tweeter 的音响义早于网络；retweet 描述传播，不自动等于赞同；平台现也用 post、repost。",
+    "practice": "Her tweet about the concert was retweeted by the venue.\n\n她谈演唱会的推文被场馆转发了。",
+    "words": [
+      "tweet",
+      "tweeter",
+      "retweet",
+      "tweets",
+      "tweeted",
+      "tweeting"
+    ],
+    "exclude": {
+      "live-tweet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tweety": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

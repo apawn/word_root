@@ -1,0 +1,235 @@
+[
+  {
+    "id": "A1818",
+    "meaning": "二、双；两重的旧构词材料",
+    "core": "TWI：和 two 同族的二、双关系",
+    "image": "twice 明确是两次、两倍；twilight 让人想到白昼与黑夜交界的半明半暗，但不能说凡有 twi 都必在数两件实物。",
+    "intro": "twi- 承接古英语及更早日耳曼语二、双材料，与 two、twin 等同族。twilight 的精确构词动机没有简单到只需译成两束光。",
+    "forms": "twice 接古英语 twīges 等旧副词形式，末部含 -es；twilight 保留 twi- 与 light 的复合关系。现代日常用得多的是这些完整词，不是随意给任何词加 twi-。",
+    "branches": [
+      [
+        "认识二、双的词族",
+        "two · twin"
+      ],
+      [
+        "次数与数量关系",
+        "twice"
+      ],
+      [
+        "明暗交界的固定词",
+        "twilight"
+      ]
+    ],
+    "contrasts": "twice as much 是两倍，不是增加两倍；twilight 不只傍晚，也可说黎明前后的微光，要看语境。",
+    "practice": "We walked there twice, once at dawn and once at twilight.\n\n我们去那里走了两次，一次在黎明，一次在暮色中。",
+    "words": [
+      "two",
+      "twin",
+      "twice",
+      "light",
+      "twilight"
+    ],
+    "exclude": {
+      "twi-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-weekly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-coloured": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-gated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1950",
+    "meaning": "从事某活动、与某物有关的人〔常见人物后缀〕",
+    "core": "EER：先找从事的活动，再读固定成词的含义",
+    "image": "auctioneer 主持拍卖，puppeteer 操纵木偶；racketeer 从事敲诈等勾当，不能从球拍义去猜。",
+    "intro": "-eer 是法语 -ier 在英语中的相应形式之一，上接拉丁 -arius、-iarius 等关系材料。既有整词借入，也有英语后来继续造出的词。",
+    "forms": "auction + -eer → auctioneer；puppet + -eer → puppeteer；racket + -eer → racketeer。gazetteer 的地名辞典义经出版书名发展，现代不一定指人。",
+    "branches": [
+      [
+        "职业、活动与自愿参与",
+        "engineer · volunteer · auctioneer"
+      ],
+      [
+        "山地、木偶、航海、火箭等活动",
+        "mountaineer · puppeteer · privateer · rocketeer"
+      ],
+      [
+        "利益和非法勾当",
+        "profiteer；racket · racketeer"
+      ],
+      [
+        "出版史带来的特殊发展",
+        "gazette · gazetteer"
+      ]
+    ],
+    "contrasts": "gazetteer 主要地名辞典，不机械等于记者；privateer 有特定历史航海身份，不只是任何海盗；后缀本身不决定好坏。",
+    "practice": "The mountaineer checked the village name in a gazetteer.\n\n登山者在地名辞典里查了那个村名。",
+    "words": [
+      "engineer",
+      "volunteer",
+      "auctioneer",
+      "mountaineer",
+      "puppeteer",
+      "privateer",
+      "rocketeer",
+      "profiteer",
+      "racket",
+      "racketeer",
+      "gazette",
+      "gazetteer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2242",
+    "meaning": "在……之后；后部、随后及后续结果",
+    "core": "AFTER：看时间先后，也看位置顺序",
+    "image": "aftercare 是后续照护，aftertaste 是吃过后留下的味道；afterburner 的后还落到发动机的后段。",
+    "intro": "after- 来自独立的 after，并延续古英语 æfter- 等旧构词形式。时间在后、空间在后及后续影响在不同复合词中具体化。",
+    "forms": "after- + burner → afterburner；after- + birth → afterbirth；after + thought → afterthought。aftermath 的 math 是割草、再生草这一旧词，与现代数学 math 不同。",
+    "branches": [
+      [
+        "时间及生活安排",
+        "after · afternoon · afterschool · afterlife"
+      ],
+      [
+        "后续服务、产品与影响",
+        "aftercare · aftermarket · aftershave；aftertaste · afterglow · aftershock · aftermath"
+      ],
+      [
+        "补想、附文与技术位置",
+        "afterthought · afterword；burner · afterburner"
+      ],
+      [
+        "固定生育名词",
+        "birth · afterbirth"
+      ]
+    ],
+    "contrasts": "afterbirth 是胞衣，不泛指产后的一切；afterword 是书末附言，不是 afterward 后来；aftermath 不能从数学解释。",
+    "practice": "An afterthought became the subject of the book’s afterword.\n\n一个事后想到的问题，成了那本书后记的主题。",
+    "words": [
+      "after",
+      "afternoon",
+      "afterschool",
+      "afterlife",
+      "aftercare",
+      "aftermarket",
+      "aftershave",
+      "aftertaste",
+      "afterglow",
+      "aftershock",
+      "aftermath",
+      "afterthought",
+      "afterword",
+      "burner",
+      "afterburner",
+      "birth",
+      "afterbirth"
+    ],
+    "exclude": {
+      "after-party": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "after-tax": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "after-conduct": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "after-reward": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2372",
+    "meaning": "与……有关、具有某种性质的形容词材料",
+    "core": "TIC：一类希腊形容词形式留下的对应",
+    "image": "enigma 是谜，enigmatic 是谜一般的；cinema 电影与 cinematic 电影的也能对照，但不能只靠字母表面替每个词造一条新历史。",
+    "intro": "上接古希腊 -tikos 等形容词形式，常经拉丁、法语传播。英语看到的 -tic 有时同时涉及旧词干、其他后缀的重叠分析。",
+    "forms": "enigma 对应旧词干 ainigmat-，相应形容词最终成为 enigmatic；cinema 与 cinematic、aesthetic 等各按自身借词、构词史理解。-tic 不自动表示小、动作或疾病。",
+    "branches": [
+      [
+        "直观的名词、形容词对应",
+        "enigma · enigmatic；cinema · cinematic"
+      ],
+      [
+        "性质、感受与表达",
+        "fantastic · aesthetic · melodramatic · euphemistic"
+      ],
+      [
+        "遗传、共生、颜色等专门关系",
+        "genetic · symbiotic · chromatic · meiotic"
+      ],
+      [
+        "已有专门词义的词",
+        "autistic · psychotic"
+      ]
+    ],
+    "contrasts": "enigmatic 谜一般，不是 enigma 的复数；genetic 遗传相关与 generic 一般、通用不同。专业词不能只靠后缀判含义。",
+    "practice": "The film opens with an enigmatic smile and a striking cinematic image.\n\n影片以一个难以捉摸的微笑和一个鲜明的电影画面开场。",
+    "words": [
+      "enigma",
+      "enigmatic",
+      "cinema",
+      "cinematic",
+      "fantastic",
+      "aesthetic",
+      "melodramatic",
+      "euphemistic",
+      "genetic",
+      "symbiotic",
+      "chromatic",
+      "meiotic",
+      "autistic",
+      "psychotic"
+    ],
+    "exclude": {
+      "spastic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "zygomatic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lytic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2885",
+    "meaning": "放置、铺设；另有平信徒、非专业的同形词",
+    "core": "LAY：动作义先抓把某物安置到一个位置",
+    "image": "lay a book down 放下书，inlay 嵌进去，overlay 覆到上面；allay 把不安压下、缓和，已形成固定比喻。",
+    "intro": "放置的 lay 承接古英语 lecgan，属于使某物躺、安放的旧动词词族；layperson、layman 的 lay 则经法语接 laicus 平信徒材料，历史不同。",
+    "forms": "lay—laid—laid；in- + lay → inlay；旧 a- + lay → allay；旧 be- + lay → belay；over + lay → overlay；under + lay → underlay。lie 的过去式 lay 又要看不及物结构。\n\n放置动词 lay → laid → laid；躺卧动词 lie 的过去式也是 lay，需按整句辨认。",
+    "branches": [
+      [
+        "放置、铺设与层",
+        "lay · layer"
+      ],
+      [
+        "上面、下面与里面",
+        "overlay · underlay · inlay"
+      ],
+      [
+        "固定动作、名词和比喻",
+        "allay · belay · layup · outlay · layover"
+      ],
+      [
+        "另一条平信徒、非专业词源",
+        "layman · layperson"
+      ],
+      [
+        "lay 与 laid：把东西放好",
+        "lay · laid"
+      ]
+    ],
+    "contrasts": "lay 放置通常有宾语，lie 躺通常没有同样的宾语；layperson 的 lay 不等于躺着不工作；allay 也不是 all 全部 + lay。",
+    "practice": "The craftsperson laid out the pieces for a decorative inlay.\n\n工匠把制作镶嵌装饰的材料一块块摆好。",
+    "words": [
+      "lay",
+      "layer",
+      "overlay",
+      "underlay",
+      "inlay",
+      "allay",
+      "belay",
+      "layup",
+      "outlay",
+      "layover",
+      "layman",
+      "layperson",
+      "laid"
+    ],
+    "exclude": {
+      "re-lay": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

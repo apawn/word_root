@@ -1,0 +1,1660 @@
+[
+  {
+    "word": "caution",
+    "ipa": "英 /ˈkɔːʃən/；美 /ˈkɔːʃən/",
+    "meaning": "谨慎；警告；告诫",
+    "sense": "先看清有没有风险，再小心做，这是 caution 作为态度；提醒别人别踩坑，则是 caution 作为警告、告诫。",
+    "split": "经法语接拉丁 cautio，与 cavere 防备、留心相联。英语旧时有担保等义，现代常见小心、警告，不必靠字母 cau 硬拆。",
+    "history": [
+      [
+        "拉丁 cavere → cautio → 法语 caution",
+        "防备、小心；担保等相关用法"
+      ],
+      [
+        "英语 caution → cautious",
+        "小心、警告；谨慎的"
+      ]
+    ],
+    "explanation": "with caution 谨慎地；exercise caution 小心行事；caution someone against doing 告诫某人不要做。",
+    "usage": "with caution；a note of caution。",
+    "contrast": "caution 是态度或提醒，danger 是危险本身；一块写 Caution 的牌子在提醒注意，不等于所有场合都已经有事故。",
+    "examples": [
+      [
+        "The findings should be interpreted with caution.",
+        "应谨慎解读这些发现。"
+      ],
+      [
+        "She cautioned him against making a hasty decision.",
+        "她告诫他不要仓促决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/caution#English"
+    ]
+  },
+  {
+    "word": "cautious",
+    "ipa": "英 /ˈkɔːʃəs/；美 /ˈkɔːʃəs/",
+    "meaning": "谨慎的；小心的",
+    "sense": "脚下先试一试，再往前走；结论先留点余地，不一下说死。这种留心风险的态度是 cautious。",
+    "split": "与 caution 的材料加 -ous 对应，词形不保留完整 -ion；也与拉丁 cautus 小心的相应，不是 cautioned 的另一种拼写。",
+    "history": [
+      [
+        "拉丁 cavere → cautio → 法语 caution",
+        "防备、小心；担保等相关用法"
+      ],
+      [
+        "英语 caution → cautious",
+        "小心、警告；谨慎的"
+      ]
+    ],
+    "explanation": "be cautious about 对……谨慎；a cautious approach 谨慎做法；cautious optimism 审慎乐观。",
+    "usage": "cautious about；a cautious estimate。",
+    "contrast": "cautious 是谨慎，cowardly 是胆怯、懦弱；认真评估风险不等于没有勇气。",
+    "examples": [
+      [
+        "She was cautious about sharing unverified information.",
+        "她对分享未经核实的信息很谨慎。"
+      ],
+      [
+        "The team expressed cautious optimism about the results.",
+        "团队对结果表达了审慎的乐观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cautious#English",
+      "https://www.etymonline.com/word/-ous"
+    ]
+  },
+  {
+    "word": "humor",
+    "ipa": "英 /ˈhjuːmə/；美 /ˈhjuːmər/",
+    "meaning": "幽默；心情、脾气；迁就〔动词〕",
+    "sense": "能看到事情有趣的一面，是 a sense of humor。动词 humor someone 则像顺着对方的心情哄一哄，暂且满足他的想法。",
+    "split": "humour 的常见美式拼写。历史接拉丁、法语液体、体液材料，旧体液学说把体液与性情相联，词义转到心情、性情，再发展出幽默。",
+    "history": [
+      [
+        "拉丁 umor → 法语 humour → 英语 humor、humour",
+        "液体、体液等旧义"
+      ],
+      [
+        "旧体液观念下的心情、性情用法 → 幽默",
+        "这是历史观念造成的词义联系，不是现代医学结论"
+      ],
+      [
+        "humorous",
+        "由体液、性情相关旧义发展到逗趣、幽默"
+      ]
+    ],
+    "explanation": "a sense of humor 幽默感；in a good humor 心情好；humor someone 迁就某人。",
+    "usage": "a sense of humor；humor me。",
+    "contrast": "humor 作动词不是给某人讲笑话：Just humor me 常是先顺着我一下。historical humors 体液也不等于今天幽默笑话。",
+    "examples": [
+      [
+        "Her sense of humor helped everyone relax.",
+        "她的幽默感让大家放松下来。"
+      ],
+      [
+        "Just humor me and try the other route.",
+        "就先听我这一回，试试另一条路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humor#English"
+    ]
+  },
+  {
+    "word": "humour",
+    "ipa": "英 /ˈhjuːmə/；美 /ˈhjuːmər/",
+    "meaning": "幽默；心情；迁就〔humor 的常见英式拼写〕",
+    "sense": "和 humor 是同一个常用词的拼写变体：名词能说幽默、心情，动词能说迁就、哄着。",
+    "split": "经法语 humour 上接拉丁 umor 液体。u 保留在这一常见拼写里，不能据此另分成一种不同的幽默。",
+    "history": [
+      [
+        "拉丁 umor → 法语 humour → 英语 humor、humour",
+        "液体、体液等旧义"
+      ],
+      [
+        "旧体液观念下的心情、性情用法 → 幽默",
+        "这是历史观念造成的词义联系，不是现代医学结论"
+      ],
+      [
+        "humorous",
+        "由体液、性情相关旧义发展到逗趣、幽默"
+      ]
+    ],
+    "explanation": "a sense of humour；good humour 愉快的心情；humour someone 顺着某人。",
+    "usage": "a dry sense of humour；in good humour。",
+    "contrast": "humour 与 humor 意义基本相同；humorous 两边常都写成这样，不顺手造 humourous。",
+    "examples": [
+      [
+        "The essay is full of gentle humour.",
+        "这篇文章充满温和的幽默。"
+      ],
+      [
+        "He was in good humour after the walk.",
+        "散步后，他心情很好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humour#English"
+    ]
+  },
+  {
+    "word": "humorous",
+    "ipa": "英 /ˈhjuːmərəs/；美 /ˈhjuːmərəs/",
+    "meaning": "幽默的；诙谐有趣的",
+    "sense": "一句话、一个故事让人觉得机智有趣、想笑，就可说 humorous；不是潮湿、体液很多的日常意思。",
+    "split": "与 humor + -ous 对应，也有中世纪拉丁相应词。早期体液、性情等旧义后来发展到逗趣；现代主要记幽默义，并注意不是 humourous。",
+    "history": [
+      [
+        "拉丁 umor → 法语 humour → 英语 humor、humour",
+        "液体、体液等旧义"
+      ],
+      [
+        "旧体液观念下的心情、性情用法 → 幽默",
+        "这是历史观念造成的词义联系，不是现代医学结论"
+      ],
+      [
+        "humorous",
+        "由体液、性情相关旧义发展到逗趣、幽默"
+      ]
+    ],
+    "explanation": "a humorous remark 幽默的话；a humorous account 诙谐的叙述。",
+    "usage": "a humorous story；a humorous tone。",
+    "contrast": "humorous 是有趣、幽默，humoral 才是现代某些医学、生理语境的体液相关形容词。",
+    "examples": [
+      [
+        "She gave a humorous account of her first day at work.",
+        "她诙谐地讲了自己第一天上班的经历。"
+      ],
+      [
+        "The illustration adds a humorous touch to the article.",
+        "插图给文章增添了一点幽默。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humorous#English",
+      "https://www.etymonline.com/word/humorous"
+    ]
+  },
+  {
+    "word": "glamour",
+    "ipa": "英 /ˈɡlæmə/；美 /ˈɡlæmər/",
+    "meaning": "迷人魅力；华丽、令人向往的光环",
+    "sense": "红毯、灯光、精心打扮让某种生活看起来特别耀眼、令人向往，那层吸引人的光环就是 glamour。",
+    "split": "借苏格兰语 glamour 魔法、魅惑，通常解释为与 grammar、gramarye 的学问、秘术用法相联的变化；后来转成迷人魅力。不是 gl am 等字母组合。",
+    "history": [
+      [
+        "grammar、gramarye 等学问材料在苏格兰语中的变化",
+        "有学问、秘术等历史意义联系"
+      ],
+      [
+        "苏格兰语 glamour",
+        "魔法、魅惑"
+      ],
+      [
+        "英语 glamour → glamorous",
+        "迷人魅力；华丽迷人的"
+      ]
+    ],
+    "explanation": "the glamour of travel 旅行令人向往的光环；old Hollywood glamour 旧好莱坞式魅力；add glamour to 为……增添魅力。",
+    "usage": "a touch of glamour；the glamour of。",
+    "contrast": "glamour 是吸引人的光环，不保证实际生活轻松；luxury 侧重奢华、优裕的物质条件。",
+    "examples": [
+      [
+        "The photographs captured the glamour of the occasion.",
+        "照片捕捉到了这个场合的华丽魅力。"
+      ],
+      [
+        "The job had less glamour than she had imagined.",
+        "这份工作没有她想象中那么光鲜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glamour#English",
+      "https://www.etymonline.com/word/glamour"
+    ]
+  },
+  {
+    "word": "glamorous",
+    "ipa": "英 /ˈɡlæmərəs/；美 /ˈɡlæmərəs/",
+    "meaning": "光鲜迷人的；华丽而令人向往的",
+    "sense": "看起来耀眼、精致，像值得羡慕的明星生活，常用 glamorous。它强调那份吸引力，不只是东西价格高。",
+    "split": "glamor／glamour 的材料 + -ous；形容词常用拼写 glamorous，不能因名词有 u 就一定写成 glamourous。",
+    "history": [
+      [
+        "grammar、gramarye 等学问材料在苏格兰语中的变化",
+        "有学问、秘术等历史意义联系"
+      ],
+      [
+        "苏格兰语 glamour",
+        "魔法、魅惑"
+      ],
+      [
+        "英语 glamour → glamorous",
+        "迷人魅力；华丽迷人的"
+      ]
+    ],
+    "explanation": "a glamorous lifestyle 光鲜的生活方式；a glamorous evening 华丽迷人的晚会。",
+    "usage": "a glamorous job；a glamorous dress。",
+    "contrast": "glamorous 不等于 comfortable 舒适；一套华丽迷人的礼服也可能穿得不舒服。",
+    "examples": [
+      [
+        "The magazine showed the glamorous side of the profession.",
+        "杂志展示了这个行业光鲜的一面。"
+      ],
+      [
+        "She wore a glamorous silver dress.",
+        "她穿了一条华丽迷人的银色裙子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/glamorous#English"
+    ]
+  },
+  {
+    "word": "tedium",
+    "ipa": "/ˈtiːdiəm/",
+    "meaning": "单调乏味；冗长无聊",
+    "sense": "同一件事机械地做了好久，时间像走不动，那种磨人的单调感叫 tedium。",
+    "split": "借拉丁 taedium，接 taedere 使厌倦；与 tedious 同族，不是今天直接删掉 tedious 的 ous 就能说明全部借入历史。",
+    "history": [
+      [
+        "拉丁 taedere → taedium、taediosus",
+        "使厌倦；乏味、令人厌烦"
+      ],
+      [
+        "法语 tedieus → 英语 tedious；英语 tedium",
+        "冗长乏味的；乏味、单调的感觉"
+      ]
+    ],
+    "explanation": "the tedium of routine work 日常重复工作的单调；relieve the tedium 缓解无聊。",
+    "usage": "the tedium of；relieve the tedium。",
+    "contrast": "tedium 常有重复、拖长带来的乏味；tiredness 是疲惫。无聊的工作可能不费体力，却很有 tedium。",
+    "examples": [
+      [
+        "Music helped relieve the tedium of the long journey.",
+        "音乐缓解了长途旅行的单调。"
+      ],
+      [
+        "She struggled with the tedium of entering the same data every day.",
+        "每天输入同样的数据，那份单调让她难熬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tedium#English"
+    ]
+  },
+  {
+    "word": "tedious",
+    "ipa": "/ˈtiːdiəs/",
+    "meaning": "冗长乏味的；单调烦人的",
+    "sense": "不一定难，就是重复、拖沓，让人很快失去兴趣，这种过程、任务叫 tedious。",
+    "split": "经法语 tedieus 接拉丁 taediosus，与 taedium 乏味相联；现代可用 tedi- 与 -ous 认形，不造常用词 tedi。",
+    "history": [
+      [
+        "拉丁 taedere → taedium、taediosus",
+        "使厌倦；乏味、令人厌烦"
+      ],
+      [
+        "法语 tedieus → 英语 tedious；英语 tedium",
+        "冗长乏味的；乏味、单调的感觉"
+      ]
+    ],
+    "explanation": "a tedious task 单调烦人的任务；a tedious explanation 冗长无趣的解释。",
+    "usage": "a tedious process；long and tedious。",
+    "contrast": "tedious 是无聊、烦人，difficult 是困难；有的题很难却很有趣，有的流程很简单却 tedious。",
+    "examples": [
+      [
+        "Checking every entry by hand was tedious.",
+        "手工核对每一项很单调烦人。"
+      ],
+      [
+        "The meeting became tedious after the third repetition.",
+        "同样的话重复第三遍后，会议变得令人厌烦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tedious#English"
+    ]
+  },
+  {
+    "word": "horrendous",
+    "ipa": "/həˈrendəs/",
+    "meaning": "极其可怕的；糟糕透顶的",
+    "sense": "事故惨烈得难以看下去，可以说 horrendous；堵车堵得人崩溃，也可能在日常夸张里这样说。",
+    "split": "接拉丁 horrendus 令人畏惧的材料，再有英语 -ous 形式。与 horror 同族，但不是把完整 horror 原样加 endous；-endous 也不是这里要另记的常用后缀。",
+    "history": [
+      [
+        "拉丁 horrere → horrendus",
+        "战栗、害怕 → 令人畏惧的"
+      ],
+      [
+        "英语 horrendous",
+        "极其可怕；极其糟糕"
+      ]
+    ],
+    "explanation": "a horrendous accident 极可怕的事故；horrendous traffic 糟透了的交通。",
+    "usage": "horrendous conditions；horrendous traffic。",
+    "contrast": "horrendous 语气强，日常也可夸张；horrified 常说人感到惊恐，方向不同。",
+    "examples": [
+      [
+        "They worked in horrendous conditions.",
+        "他们在极其糟糕的条件下工作。"
+      ],
+      [
+        "The traffic was horrendous on Friday evening.",
+        "周五傍晚的交通糟透了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/horrendous#English"
+    ]
+  },
+  {
+    "word": "ubiquity",
+    "ipa": "/juːˈbɪkwɪti/",
+    "meaning": "无处不在；普遍存在",
+    "sense": "走到哪儿都碰得见，像同一种标志、设备占满生活，这种到处存在的状态叫 ubiquity。",
+    "split": "借中世纪拉丁 ubiquitas，上接拉丁 ubique 到处；不是 un- 不的前缀，也不拆成普通英文 ubi。",
+    "history": [
+      [
+        "拉丁 ubi + -que → ubique",
+        "哪里、每一处 → 到处"
+      ],
+      [
+        "中世纪拉丁 ubiquitas → ubiquity；英语 ubiquitous",
+        "无处不在；到处可见的"
+      ]
+    ],
+    "explanation": "the ubiquity of smartphones 智能手机的普遍存在；the ubiquity of advertising 广告无处不在。",
+    "usage": "the ubiquity of；growing ubiquity。",
+    "contrast": "ubiquity 通常泛说到处可见，popularity 是受欢迎；满街都有的东西，不一定人人喜欢。",
+    "examples": [
+      [
+        "The ubiquity of smartphones has changed how people navigate cities.",
+        "智能手机的普及改变了人们在城市里找路的方式。"
+      ],
+      [
+        "The essay questions the ubiquity of advertising in public spaces.",
+        "文章质疑公共空间里无处不在的广告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ubiquity#English"
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "ipa": "/juːˈbɪkwɪtəs/",
+    "meaning": "无处不在的；随处可见的",
+    "sense": "咖啡店、手机屏幕、路牌上都看得到的东西，口语或文章里可以说 ubiquitous，像它到哪儿都在。",
+    "split": "由 ubiquity 等词族材料与 -ous 对应，上接拉丁 ubique 到处；形容词不保留名词完整的 -ity。",
+    "history": [
+      [
+        "拉丁 ubi + -que → ubique",
+        "哪里、每一处 → 到处"
+      ],
+      [
+        "中世纪拉丁 ubiquitas → ubiquity；英语 ubiquitous",
+        "无处不在；到处可见的"
+      ]
+    ],
+    "explanation": "ubiquitous advertising 无处不在的广告；become ubiquitous 变得到处可见。",
+    "usage": "a ubiquitous feature；become ubiquitous。",
+    "contrast": "ubiquitous 比 common 常见更强调遍布各处；经常用夸张，不要求数学上每个地方都存在。",
+    "examples": [
+      [
+        "Wireless headphones have become ubiquitous on the train.",
+        "火车上随处可见无线耳机。"
+      ],
+      [
+        "The brand’s logo was ubiquitous at the event.",
+        "活动现场到处都是这个品牌的标志。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ubiquitous#English"
+    ]
+  },
+  {
+    "word": "advantage",
+    "ipa": "英 /ədˈvɑːntɪdʒ/；美 /ədˈvæntɪdʒ/",
+    "meaning": "优势；有利条件、好处",
+    "sense": "同样做一件事，你有更好的位置、工具或经验，能少费力或更有机会成功，那就是 an advantage。",
+    "split": "经法语 avantage，来自 avant 在前的材料；英语中的 d 是后来受拉丁化拼写理解影响加入的，不把整词硬分成现代 ad + vantage 来代替历史。",
+    "history": [
+      [
+        "法语 avant → avantage → 英语 advantage",
+        "在前 → 领先、有利地位"
+      ],
+      [
+        "advantageous；disadvantage、disadvantageous",
+        "有利的；不利、处于劣势"
+      ]
+    ],
+    "explanation": "an advantage over someone 相对某人的优势；take advantage of 利用机会、条件，也可指占人便宜；to your advantage 对你有利。",
+    "usage": "an advantage over；take advantage of。",
+    "contrast": "advantage 是有利条件；achievement 是实际取得的成就。有优势不保证最后成功。",
+    "examples": [
+      [
+        "Her experience gave her an advantage over other applicants.",
+        "她的经验让她比其他申请人更有优势。"
+      ],
+      [
+        "We took advantage of the quiet morning to finish the work.",
+        "我们利用早晨的安静把工作做完。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advantage#English"
+    ]
+  },
+  {
+    "word": "advantageous",
+    "ipa": "英 /ˌædvənˈteɪdʒəs/；美 /ˌædvənˈteɪdʒəs/",
+    "meaning": "有利的；有益处的",
+    "sense": "一个安排能让你更省事、更占优势，就是 advantageous；常用于谈条件、位置、协议等。",
+    "split": "可接法语 avantageux，也对应 advantage + -ous。保留 g 前的 e，常用读音这一段为 /teɪdʒ/，注意与名词 advantage 的重音、元音不同。",
+    "history": [
+      [
+        "法语 avant → avantage → 英语 advantage",
+        "在前 → 领先、有利地位"
+      ],
+      [
+        "advantageous；disadvantage、disadvantageous",
+        "有利的；不利、处于劣势"
+      ],
+      [
+        "advantage、法语相应形容词 → advantageous",
+        "带来优势、有利的"
+      ]
+    ],
+    "explanation": "advantageous to someone 对某人有利；an advantageous position 有利位置。",
+    "usage": "financially advantageous；advantageous to。",
+    "contrast": "advantageous 是有利，不等于 guaranteed 一定成功；好的位置仍需看后续行动。",
+    "examples": [
+      [
+        "The new schedule is advantageous to commuters.",
+        "新时刻表对通勤者有利。"
+      ],
+      [
+        "They negotiated a more advantageous agreement.",
+        "他们谈成了一份更有利的协议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advantageous#English"
+    ]
+  },
+  {
+    "word": "disadvantage",
+    "ipa": "英 /ˌdɪsədˈvɑːntɪdʒ/；美 /ˌdɪsədˈvæntɪdʒ/",
+    "meaning": "不利条件；劣势；使处于不利地位",
+    "sense": "别人有工具，你没有；别人离得近，你要多走一段路，这些让你做事更难的条件就是 disadvantages。",
+    "split": "经法语 desavantage 等进入英语，现代可对应 dis- 与 advantage；这里说不利、劣势，不只是不存在好处。",
+    "history": [
+      [
+        "法语 avant → avantage → 英语 advantage",
+        "在前 → 领先、有利地位"
+      ],
+      [
+        "advantageous；disadvantage、disadvantageous",
+        "有利的；不利、处于劣势"
+      ]
+    ],
+    "explanation": "at a disadvantage 处于劣势；a disadvantage of ……的不足；disadvantage a group 使某群体处境不利。",
+    "usage": "at a disadvantage；advantages and disadvantages。",
+    "contrast": "disadvantage 是不利条件，failure 是失败；有不利条件不代表最后一定失败。",
+    "examples": [
+      [
+        "The lack of transport put the village at a disadvantage.",
+        "交通不便让这个村子处于不利地位。"
+      ],
+      [
+        "We discussed the advantages and disadvantages of each option.",
+        "我们讨论了每个选项的利弊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disadvantage#English"
+    ]
+  },
+  {
+    "word": "disadvantageous",
+    "ipa": "英 /ˌdɪsædvənˈteɪdʒəs/；美 /ˌdɪsædvənˈteɪdʒəs/",
+    "meaning": "不利的；会造成劣势的",
+    "sense": "条款让你承担更多成本，安排让你更难参与，这种会把你放到不利位置的东西叫 disadvantageous。",
+    "split": "disadvantage + -ous；也可从 dis- 与 advantageous 的对应关系看见否定、不利的方向，不强定唯一形成先后。",
+    "history": [
+      [
+        "法语 avant → avantage → 英语 advantage",
+        "在前 → 领先、有利地位"
+      ],
+      [
+        "advantageous；disadvantage、disadvantageous",
+        "有利的；不利、处于劣势"
+      ],
+      [
+        "disadvantage + -ous → disadvantageous",
+        "造成劣势、不利的"
+      ]
+    ],
+    "explanation": "disadvantageous to someone 对某人不利；disadvantageous terms 不利条款。",
+    "usage": "disadvantageous to；financially disadvantageous。",
+    "contrast": "disadvantageous 说条件造成不利；disadvantaged 常说已经处于资源、机会等劣势的人或群体。",
+    "examples": [
+      [
+        "The proposed hours would be disadvantageous to parents.",
+        "提议的时间安排会对家长不利。"
+      ],
+      [
+        "They rejected the financially disadvantageous terms.",
+        "他们拒绝了经济上不利的条款。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disadvantageous#English"
+    ]
+  },
+  {
+    "word": "treachery",
+    "ipa": "/ˈtretʃəri/",
+    "meaning": "背叛；背信弃义",
+    "sense": "本来信任他，甚至和他一条阵线，他却暗中出卖你，这种破坏信任的背叛就是 treachery。",
+    "split": "经中古英语 trecherie 接古法语 tricherie 等欺骗材料。与 treacherous 同族，不是 teach 教学多一个 r。",
+    "history": [
+      [
+        "古法语 tricher、trechier 等及相关名词、形容词",
+        "欺骗、欺诈者、骗人的"
+      ],
+      [
+        "英语 treachery、treacherous",
+        "背叛、背信；背信弃义的；引申为危险、靠不住的"
+      ]
+    ],
+    "explanation": "an act of treachery 背叛行为；accuse someone of treachery 指责某人背信弃义。",
+    "usage": "an act of treachery；suspect treachery。",
+    "contrast": "treachery 突出背信、欺骗；treason 常有背叛国家的法律、政治专门义，不能所有朋友间的背叛都叫叛国。",
+    "examples": [
+      [
+        "The king suspected treachery among his advisers.",
+        "国王怀疑顾问中有人背叛。"
+      ],
+      [
+        "She could not forgive what she saw as an act of treachery.",
+        "她无法原谅那件在她看来属于背叛的事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/treachery#English"
+    ]
+  },
+  {
+    "word": "treacherous",
+    "ipa": "/ˈtretʃərəs/",
+    "meaning": "背信弃义的；危险、靠不住的",
+    "sense": "人表面友好却暗中出卖你，是 treacherous；路面看起来能走，一踩却滑得站不住，也像它不可靠地背叛了预期。",
+    "split": "借古法语 trecheros、tricheros，来自欺骗者等相关材料。危险地形是背信、靠不住这一义线的引申，不是路真的有道德动机。",
+    "history": [
+      [
+        "古法语 tricher、trechier 等及相关名词、形容词",
+        "欺骗、欺诈者、骗人的"
+      ],
+      [
+        "英语 treachery、treacherous",
+        "背叛、背信；背信弃义的；引申为危险、靠不住的"
+      ]
+    ],
+    "explanation": "a treacherous ally 背信的盟友；treacherous roads 危险难行的道路；treacherous currents 危险的水流。",
+    "usage": "treacherous conditions；a treacherous path。",
+    "contrast": "treacherous 形容环境时常暗示潜在危险、难以信赖；traitorous 更明确批评人的背叛行为。",
+    "examples": [
+      [
+        "Ice made the mountain road treacherous.",
+        "结冰让山路变得危险难行。"
+      ],
+      [
+        "The novel’s hero is betrayed by a treacherous ally.",
+        "小说的主人公被一个背信弃义的盟友出卖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/treacherous#English",
+      "https://www.etymonline.com/word/treacherous"
+    ]
+  },
+  {
+    "word": "illustrious",
+    "ipa": "/ɪˈlʌstriəs/",
+    "meaning": "杰出的；显赫的；享有盛名的",
+    "sense": "某人在自己的领域做出了公认成就，名字很有分量，较正式地称赞他，就可说 illustrious。",
+    "split": "接拉丁 illustris 明亮、显著、著名的材料与 -ous；亮眼、显著走到声名显赫。不能用 ill 不好的来拆开头。",
+    "history": [
+      [
+        "拉丁 illustris、illustrare 等",
+        "明亮、显著；使著名等相关材料"
+      ],
+      [
+        "英语 illustrious",
+        "以成就、名望而杰出的"
+      ]
+    ],
+    "explanation": "an illustrious career 杰出的事业经历；an illustrious predecessor 声名显赫的前任。",
+    "usage": "an illustrious career；an illustrious history。",
+    "contrast": "illustrious 常带杰出成就的赞许；notorious 是以坏事出名，不能因为都出名就互换。",
+    "examples": [
+      [
+        "The award marked the end of an illustrious career.",
+        "这个奖项为一段杰出的职业生涯画上了句号。"
+      ],
+      [
+        "The university has many illustrious graduates.",
+        "这所大学培养了许多杰出校友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illustrious#English"
+    ]
+  },
+  {
+    "word": "peril",
+    "ipa": "/ˈperɪl/",
+    "meaning": "危险；严重险境",
+    "sense": "不只是有点麻烦，而是处境可能带来严重损害，peril 常用较正式、戏剧化的语气说这种危险。",
+    "split": "经法语接拉丁 periculum 危险；现代不是 perish 消亡直接截短而成，虽然危险可能导致消亡。",
+    "history": [
+      [
+        "拉丁 periculum → 法语 peril",
+        "危险"
+      ],
+      [
+        "英语 peril → perilous",
+        "危险处境；危险的"
+      ]
+    ],
+    "explanation": "in peril 处于危险中；the perils of ……的危险；at your peril 你得自行承担严重风险的警告口气。",
+    "usage": "in great peril；the perils of。",
+    "contrast": "peril 是危险处境，difficulty 是困难；问题很难，不一定意味着面临严重伤害。",
+    "examples": [
+      [
+        "The storm left the small boat in peril.",
+        "风暴让小船陷入险境。"
+      ],
+      [
+        "The article describes the perils of travelling alone in the region.",
+        "文章描述了独自在该地区旅行的危险。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/peril#English"
+    ]
+  },
+  {
+    "word": "perilous",
+    "ipa": "/ˈperɪləs/",
+    "meaning": "危险的；充满风险的",
+    "sense": "走错一步可能出大问题的旅途、局面，可以叫 perilous。常比普通 risky 更有严重危险的感觉。",
+    "split": "经中古英语、古法语 perilleus 等形式，与拉丁 periculosus 相应；现代对应 peril + -ous。",
+    "history": [
+      [
+        "拉丁 periculum → 法语 peril",
+        "危险"
+      ],
+      [
+        "英语 peril → perilous",
+        "危险处境；危险的"
+      ]
+    ],
+    "explanation": "a perilous journey 危险旅程；a perilous situation 危险局面。",
+    "usage": "a perilous path；a perilous position。",
+    "contrast": "perilous 是有危险，treacherous 常还带地形、条件难以信赖的意味；两词可重合，不能机械划成完全不同领域。",
+    "examples": [
+      [
+        "They faced a perilous journey through the mountains.",
+        "他们面临一段穿越群山的危险旅程。"
+      ],
+      [
+        "The company was in a perilous financial position.",
+        "公司的财务处境岌岌可危。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/perilous#English"
+    ]
+  },
+  {
+    "word": "luscious",
+    "ipa": "/ˈlʌʃəs/",
+    "meaning": "甘美多汁的；丰美诱人的",
+    "sense": "咬开成熟桃子，汁水和香甜一起涌出来，那种丰润、诱人的好吃，可以说 luscious；也可赞颜色、声音等丰美悦目。",
+    "split": "中古英语有 lushious、lussyouse 等相应形式。词源解释有分歧：有联系 lusty 旧时美好、可口义的说法，也有联系 delicious 缩短形式的说法，不把任一说法当定论。",
+    "history": [
+      [
+        "中古英语 lushious、lussyouse 等",
+        "甘美、可口的相关旧形式"
+      ],
+      [
+        "现代 luscious",
+        "甘美多汁；感官上丰美诱人的"
+      ]
+    ],
+    "explanation": "luscious peaches 香甜多汁的桃子；luscious colours 丰美诱人的色彩。",
+    "usage": "luscious fruit；a luscious dessert。",
+    "contrast": "luscious 常突出丰润、浓郁的感官享受；palatable 可能只是能入口、还可接受，语气弱得多。",
+    "examples": [
+      [
+        "The stall sold luscious ripe peaches.",
+        "摊位出售香甜多汁的熟桃子。"
+      ],
+      [
+        "The dessert was rich and luscious.",
+        "这道甜点浓郁甘美。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/luscious#English",
+      "https://www.etymonline.com/word/luscious"
+    ]
+  },
+  {
+    "word": "delirium",
+    "ipa": "/dɪˈlɪriəm/",
+    "meaning": "谵妄；意识混乱；极度兴奋、狂喜〔比喻〕",
+    "sense": "医学里说的 delirium 是常突然出现、注意和思维等变得混乱的状态；文学、日常夸张里也能说人群兴奋得像失了常。两个语境要分清。",
+    "split": "借拉丁 delirium 神志错乱。可与 delirious 对照；关于更远的离开田垄一类词源材料，不靠它来推定现代临床含义。",
+    "history": [
+      [
+        "拉丁 delirium、delirus 等",
+        "神志错乱的相关材料"
+      ],
+      [
+        "英语 delirium、delirious",
+        "谵妄、意识混乱；另有欣喜若狂的比喻义"
+      ]
+    ],
+    "explanation": "a state of delirium 谵妄、意识混乱状态；a delirium of joy 狂喜。",
+    "usage": "a state of delirium；delirium and confusion。",
+    "contrast": "delirium 不等于 dementia 痴呆；也不等于只要兴奋就是临床谵妄。喜悦的比喻义与医学术语分开读。",
+    "examples": [
+      [
+        "The training session covered the recognition of delirium.",
+        "培训讲到了谵妄的识别。"
+      ],
+      [
+        "The crowd erupted into a delirium of joy.",
+        "人群陷入狂喜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/delirium#English",
+      "https://medlineplus.gov/delirium.html"
+    ]
+  },
+  {
+    "word": "delirious",
+    "ipa": "/dɪˈlɪriəs/",
+    "meaning": "谵妄的、神志不清的；欣喜若狂的",
+    "sense": "病历里可说神志混乱；球迷赢球后 delirious with joy，则是在夸张地说高兴得忘乎所以，不是在给他们下诊断。",
+    "split": "与 delirium 及拉丁 delirus 等材料相联，现代形容词不保留名词的完整 -ium；不是 delete 删除的词族。",
+    "history": [
+      [
+        "拉丁 delirium、delirus 等",
+        "神志错乱的相关材料"
+      ],
+      [
+        "英语 delirium、delirious",
+        "谵妄、意识混乱；另有欣喜若狂的比喻义"
+      ]
+    ],
+    "explanation": "delirious with fever 发热时神志不清；delirious with joy 欣喜若狂；delirious fans 狂喜的球迷。",
+    "usage": "delirious with joy；a delirious patient。",
+    "contrast": "delirious 的狂喜义靠语境；delighted 是很高兴，更普通，通常不会引出医学义。",
+    "examples": [
+      [
+        "The patient was delirious and unable to follow the conversation.",
+        "患者神志混乱，无法跟上谈话。"
+      ],
+      [
+        "The supporters were delirious with joy after the final whistle.",
+        "终场哨响后，支持者欣喜若狂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/delirious#English",
+      "https://medlineplus.gov/delirium.html"
+    ]
+  },
+  {
+    "word": "blasphemy",
+    "ipa": "/ˈblæsfəmi/",
+    "meaning": "亵渎神明、宗教的言行；冒犯神圣事物的言论",
+    "sense": "某个群体把某种言论看成对神、信仰的严重冒犯，会称为 blasphemy。这个词常体现评价者认为什么神圣、什么不可冒犯。",
+    "split": "经法语、教会拉丁语接希腊 blasphemia 等恶言、亵渎材料；不是 blast 爆炸 + 一个现代 phemy 后缀。",
+    "history": [
+      [
+        "希腊 blasphemia、blasphemos 等 → 教会拉丁语、法语",
+        "恶言、亵渎等相关材料"
+      ],
+      [
+        "英语 blasphemy、blasphemous",
+        "亵渎言行；被认为亵渎的"
+      ]
+    ],
+    "explanation": "accuse someone of blasphemy 指责某人亵渎；regard something as blasphemy 视某事为亵渎。",
+    "usage": "an accusation of blasphemy；regarded as blasphemy。",
+    "contrast": "blasphemy 侧重对宗教神圣事物的冒犯；criticism 是批评，不自动带亵渎这一判断。",
+    "examples": [
+      [
+        "The novel explores conflicting views about blasphemy.",
+        "小说探讨了对亵渎问题的不同看法。"
+      ],
+      [
+        "Some listeners regarded the remark as blasphemy.",
+        "有些听众认为那句话是亵渎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blasphemy#English"
+    ]
+  },
+  {
+    "word": "blasphemous",
+    "ipa": "/ˈblæsfəməs/",
+    "meaning": "亵渎的；被认为冒犯神明、神圣事物的",
+    "sense": "blasphemy 说亵渎言行这件事，blasphemous 用来评价言论、作品带着这种冒犯性质。",
+    "split": "接拉丁 blasphemus、希腊 blasphemos 等形容词材料，也可与 blaspheme、blasphemy 的词族对应；不把名词 y 随意保留成 blasphemyous。",
+    "history": [
+      [
+        "希腊 blasphemia、blasphemos 等 → 教会拉丁语、法语",
+        "恶言、亵渎等相关材料"
+      ],
+      [
+        "英语 blasphemy、blasphemous",
+        "亵渎言行；被认为亵渎的"
+      ]
+    ],
+    "explanation": "a blasphemous remark 被认为亵渎的言论；blasphemous imagery 被认为亵渎的图像。",
+    "usage": "a blasphemous statement；considered blasphemous。",
+    "contrast": "blasphemous 是特定神圣性评价；offensive 更广说冒犯、令人反感，不一定涉及宗教。",
+    "examples": [
+      [
+        "The scene was condemned as blasphemous by some viewers.",
+        "一些观众谴责那一幕具有亵渎意味。"
+      ],
+      [
+        "The essay explains why the image was considered blasphemous.",
+        "文章解释了为什么那幅图像被认为亵渎神圣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blasphemous#English"
+    ]
+  },
+  {
+    "word": "flirtatious",
+    "ipa": "英 /flɜːˈteɪʃəs/；美 /flɜːrˈteɪʃəs/",
+    "meaning": "带调情意味的；暧昧撩人的",
+    "sense": "不是普通友好，而是眼神、话语里透出一点试探性的男女或情爱兴趣，就可说 flirtatious。",
+    "split": "从 flirtation 的词干材料接 -ous，名词 -ion 不在形容词中保留；与 flirt、flirty 一起看，不造 flirtat 独立动词。",
+    "history": [
+      [
+        "flirt → flirtation",
+        "调情；短暂亲近、涉足"
+      ],
+      [
+        "flirtation 的材料 + -ous → flirtatious",
+        "带调情意味的"
+      ]
+    ],
+    "explanation": "a flirtatious smile 暧昧的笑；a flirtatious tone 调情的口气。",
+    "usage": "a flirtatious glance；flirtatious behaviour。",
+    "contrast": "flirtatious 与 flirty 很接近，flirty 常更口语；friendly 友好未必带情爱意味。",
+    "examples": [
+      [
+        "He gave her a flirtatious smile.",
+        "他向她露出一个带调情意味的笑。"
+      ],
+      [
+        "The message sounded playful rather than overtly flirtatious.",
+        "消息听起来顽皮有趣，却没有明显调情的意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flirtatious#English"
+    ]
+  },
+  {
+    "word": "mucus",
+    "ipa": "/ˈmjuːkəs/",
+    "meaning": "黏液",
+    "sense": "鼻腔等身体部位产生的黏稠分泌物，可以叫 mucus。它是物质名词，不是“黏液的”形容词。",
+    "split": "借拉丁 mucus；同族形容词 mucous 多一个 o，发音却通常一样。不要靠听音把拼写和词性混掉。",
+    "history": [
+      [
+        "拉丁 mucus、mucosus → 英语相应名词、形容词",
+        "黏液；有黏液、分泌黏液的"
+      ],
+      [
+        "mucus 与 mucous",
+        "同音，名词与形容词用法分开"
+      ]
+    ],
+    "explanation": "nasal mucus 鼻黏液；produce mucus 产生黏液；mucus production 黏液生成。",
+    "usage": "nasal mucus；produce mucus。",
+    "contrast": "mucus 是黏液本身；mucous 常修饰 membrane、gland，表示黏液相关、分泌黏液的。",
+    "examples": [
+      [
+        "The diagram explains how the nose produces mucus.",
+        "示意图解释鼻腔如何产生黏液。"
+      ],
+      [
+        "The study measured the amount of mucus in the sample.",
+        "研究测量了样本中的黏液量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mucus#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/mucus"
+    ]
+  },
+  {
+    "word": "mucous",
+    "ipa": "/ˈmjuːkəs/",
+    "meaning": "黏液的；分泌黏液的",
+    "sense": "mucus 是那份黏液，mucous 则给相关部位、结构作修饰；mucous membrane 就是黏膜。",
+    "split": "接晚期拉丁 mucosus，与 mucus 黏液相联；现代可认 muc-／muco- 与 -ous 的对应，不是单把 mucus 原封不动加 ous。",
+    "history": [
+      [
+        "拉丁 mucus、mucosus → 英语相应名词、形容词",
+        "黏液；有黏液、分泌黏液的"
+      ],
+      [
+        "mucus 与 mucous",
+        "同音，名词与形容词用法分开"
+      ]
+    ],
+    "explanation": "a mucous membrane 黏膜；mucous glands 黏液腺。",
+    "usage": "mucous membranes；mucous glands。",
+    "contrast": "mucous 是形容词，mucus 是名词。两者同音，但不能因此把 the mucus 改成 the mucous 来指那份黏液。",
+    "examples": [
+      [
+        "The textbook describes the function of mucous membranes.",
+        "教材介绍了黏膜的功能。"
+      ],
+      [
+        "The slide shows mucous glands in the tissue.",
+        "切片展示了组织中的黏液腺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mucous#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/mucous"
+    ]
+  },
+  {
+    "word": "treason",
+    "ipa": "/ˈtriːzən/",
+    "meaning": "叛国；严重背叛",
+    "sense": "通常是对国家、君主等的严重背叛，而不是朋友迟到那种普通失信；也有人在夸张批评中把背叛某种事业叫 treason。",
+    "split": "经法语、盎格鲁诺曼语相应形式接拉丁 traditio 交出等材料，与 traitor、tradition 有历史词族联系；共同远源不代表今天同义。",
+    "history": [
+      [
+        "拉丁 tradere、traditio → 法语 trair、traison 等",
+        "交出、交付；走向出卖、背叛"
+      ],
+      [
+        "英语 treason → treasonous",
+        "叛国、严重背叛；被认为叛国的"
+      ]
+    ],
+    "explanation": "accuse someone of treason 指控某人叛国；high treason 严重叛国的传统术语。具体法律范围随制度而异。",
+    "usage": "an accusation of treason；charged with treason。",
+    "contrast": "treason 的国家、法律政治义比日常 betrayal 更专门；不能仅因两人反目就自动说构成叛国。",
+    "examples": [
+      [
+        "The historical account describes an accusation of treason.",
+        "这段历史记述讲到了一项叛国指控。"
+      ],
+      [
+        "The character views any compromise as treason to the cause.",
+        "这个角色把任何妥协都看作对事业的背叛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/treason#English"
+    ]
+  },
+  {
+    "word": "treasonous",
+    "ipa": "/ˈtriːzənəs/",
+    "meaning": "叛国的；背叛国家、君主等的",
+    "sense": "用来评价行为、计划被认为具有叛国性质；它往往是很重的指责，阅读时要分清是谁在这样说。",
+    "split": "treason + -ous；将叛国、背叛这一名词材料变为行为、性质的形容词。",
+    "history": [
+      [
+        "拉丁 tradere、traditio → 法语 trair、traison 等",
+        "交出、交付；走向出卖、背叛"
+      ],
+      [
+        "英语 treason → treasonous",
+        "叛国、严重背叛；被认为叛国的"
+      ]
+    ],
+    "explanation": "a treasonous act 叛国行为；a treasonous plot 被认为叛国的阴谋。",
+    "usage": "treasonous behaviour；a treasonous act。",
+    "contrast": "treasonous 与 treacherous 都可涉及背叛，treacherous 还常说危险路面；不能把结冰道路叫 treasonous。",
+    "examples": [
+      [
+        "The ruler denounced the plot as treasonous.",
+        "统治者谴责这项阴谋具有叛国性质。"
+      ],
+      [
+        "The article examines what officials described as treasonous behaviour.",
+        "文章考察官员所称的叛国行为。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/treasonous#English"
+    ]
+  },
+  {
+    "word": "luster",
+    "ipa": "英 /ˈlʌstə/；美 /ˈlʌstər/",
+    "meaning": "光泽；光彩〔lustre 的常见美式拼写〕",
+    "sense": "珍珠不是像灯泡那样自己发强光，却有柔和的亮泽；这份表面光彩叫 luster。声望也可能失去原有光彩。",
+    "split": "经法语 lustre、意大利语 lustro 等接更早亮化、净化的拉丁语相关材料；不是 lust 欲望加 -er 得到的人。",
+    "history": [
+      [
+        "法语 lustre、意大利语 lustro 等 → 英语 luster、lustre",
+        "光亮、光泽的相关借入材料"
+      ],
+      [
+        "luster／lustre + -ous → lustrous",
+        "有光泽的；闪亮的"
+      ]
+    ],
+    "explanation": "the luster of pearls 珍珠光泽；lose its luster 失去光彩、吸引力。",
+    "usage": "a soft luster；lose its luster。",
+    "contrast": "luster 是表面光泽，light 可泛指光、光线；物品有光泽不等于本身在发光。",
+    "examples": [
+      [
+        "The pearls had a soft luster.",
+        "珍珠有一种柔和光泽。"
+      ],
+      [
+        "The award had lost some of its luster after the controversy.",
+        "争议之后，这个奖项失去了一些光彩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/luster#English"
+    ]
+  },
+  {
+    "word": "lustre",
+    "ipa": "英 /ˈlʌstə/；美 /ˈlʌstər/",
+    "meaning": "光泽；光彩〔luster 的常见英式拼写〕",
+    "sense": "和 luster 一样，说表面的亮泽，也可比喻名声、事情原有的光彩。换成 -re，不换一套意思。",
+    "split": "保留法语 lustre 的常见拼写，与美式 luster 对应；这里的 re 在末尾不是表示再次的前缀。",
+    "history": [
+      [
+        "法语 lustre、意大利语 lustro 等 → 英语 luster、lustre",
+        "光亮、光泽的相关借入材料"
+      ],
+      [
+        "luster／lustre + -ous → lustrous",
+        "有光泽的；闪亮的"
+      ]
+    ],
+    "explanation": "restore the lustre 恢复光泽；lose its lustre 失去光彩。",
+    "usage": "a metallic lustre；restore the lustre。",
+    "contrast": "lustre 是光泽；lust 是欲望，虽然字母有重合，现代不应混为一个单词。",
+    "examples": [
+      [
+        "Polishing restored the metal’s lustre.",
+        "抛光恢复了金属的光泽。"
+      ],
+      [
+        "The idea had lost its original lustre.",
+        "这个想法已失去最初的吸引力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lustre#English"
+    ]
+  },
+  {
+    "word": "lustrous",
+    "ipa": "/ˈlʌstrəs/",
+    "meaning": "有光泽的；光亮润泽的",
+    "sense": "头发看起来顺滑有亮泽，金属表面亮而不粗糙，常可说 lustrous，像光柔和地铺在表面。",
+    "split": "lustre／luster + -ous；常用形容词收成 lustr- + -ous，不保留完整名词的全部字母。",
+    "history": [
+      [
+        "法语 lustre、意大利语 lustro 等 → 英语 luster、lustre",
+        "光亮、光泽的相关借入材料"
+      ],
+      [
+        "luster／lustre + -ous → lustrous",
+        "有光泽的；闪亮的"
+      ]
+    ],
+    "explanation": "lustrous hair 有光泽的头发；lustrous silk 光泽柔美的丝绸。",
+    "usage": "a lustrous surface；lustrous pearls。",
+    "contrast": "lustrous 不等于 luminous 发光、明亮的；表面反光的丝绸不必自身发光。",
+    "examples": [
+      [
+        "The fabric has a smooth, lustrous surface.",
+        "这块布的表面光滑而有光泽。"
+      ],
+      [
+        "The photograph highlights her lustrous hair.",
+        "照片突出了她亮泽的头发。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lustrous#English"
+    ]
+  },
+  {
+    "word": "melody",
+    "ipa": "/ˈmelədi/",
+    "meaning": "旋律；曲调",
+    "sense": "一首歌里你能哼出来的那条音符走向，通常就是 melody；它是一前一后展开的调子。",
+    "split": "经法语、拉丁语接希腊 meloidia，关联 melos 乐句、曲调与 oide 歌唱。不是 mellow 柔和的直接变尾。",
+    "history": [
+      [
+        "希腊 melos + oide → meloidia",
+        "曲调、乐句 + 歌唱 → 歌唱、旋律"
+      ],
+      [
+        "拉丁 melodia → 法语 melodie 等 → 英语 melody、melodious",
+        "旋律；悦耳动听的"
+      ]
+    ],
+    "explanation": "a simple melody 简单旋律；a haunting melody 萦绕心头的旋律；hum a melody 哼曲调。",
+    "usage": "a familiar melody；a catchy melody。",
+    "contrast": "melody 是旋律线，harmony 是和声等关系；同一旋律可以配不同和声，两词不是只换说法。",
+    "examples": [
+      [
+        "She hummed a melody from an old song.",
+        "她哼着一首老歌的曲调。"
+      ],
+      [
+        "The flute carries the main melody.",
+        "长笛演奏主旋律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melody#English"
+    ]
+  },
+  {
+    "word": "melodious",
+    "ipa": "英 /məˈləʊdiəs/；美 /məˈloʊdiəs/",
+    "meaning": "悦耳的；旋律优美的",
+    "sense": "声音像有一条优美曲线，听着顺耳、动听，可以说 melodious；不必局限于正式歌曲。",
+    "split": "中古英语经法语 melodieus、melodieux 等相应形式进入，现代与 melody、melodi- 词干和 -ous 对应；不是完整 melody 直接保留 y 再拼。",
+    "history": [
+      [
+        "希腊 melos + oide → meloidia",
+        "曲调、乐句 + 歌唱 → 歌唱、旋律"
+      ],
+      [
+        "拉丁 melodia → 法语 melodie 等 → 英语 melody、melodious",
+        "旋律；悦耳动听的"
+      ]
+    ],
+    "explanation": "a melodious voice 悦耳的声音；melodious birdsong 动听鸟鸣。",
+    "usage": "a melodious song；a melodious voice。",
+    "contrast": "melodious 常是在赞声音动听；melodic 是旋律相关的，也可说旋律性强，未必每次都是同样的赞美。",
+    "examples": [
+      [
+        "A melodious voice came from the open window.",
+        "开着的窗里传来悦耳的声音。"
+      ],
+      [
+        "The garden was filled with melodious birdsong.",
+        "花园里响着动听的鸟鸣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melodious#English"
+    ]
+  },
+  {
+    "word": "furious",
+    "ipa": "英 /ˈfjʊəriəs/；美 /ˈfjʊriəs/",
+    "meaning": "狂怒的；猛烈的、激烈的",
+    "sense": "气到压不住火，是 furious；风暴、工作节奏非常猛烈，也可以借用这股强烈劲头。",
+    "split": "经法语 furieus 接拉丁 furiosus，与 furia 狂怒的材料相联；不是 furry 毛茸茸的换个尾。",
+    "history": [
+      [
+        "拉丁 furia、furiosus → 法语 furieus",
+        "狂怒及其形容词材料"
+      ],
+      [
+        "英语 furious",
+        "极度愤怒；猛烈、激烈"
+      ]
+    ],
+    "explanation": "furious with someone 对某人勃然大怒；furious at/about something 因某事大怒；a furious pace 极快、激烈的节奏。",
+    "usage": "furious with；at a furious pace。",
+    "contrast": "furious 比普通 angry 强烈；fury 是狂怒名词，furry 则是毛茸茸的。",
+    "examples": [
+      [
+        "She was furious with him for missing the deadline.",
+        "他错过截止时间，让她非常生气。"
+      ],
+      [
+        "They worked at a furious pace to finish the repairs.",
+        "他们争分夺秒、紧锣密鼓地完成修理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/furious#English"
+    ]
+  },
+  {
+    "word": "harmonious",
+    "ipa": "英 /hɑːˈməʊniəs/；美 /hɑːrˈmoʊniəs/",
+    "meaning": "和谐的；协调的；悦耳的",
+    "sense": "几个声音、颜色或几个人放在一起不冲突，还相互配合得好，就是 harmonious。",
+    "split": "经法语 harmonieux，与 harmony 的协调、和声材料相联；现代对应 harmoni- 与 -ous。开头 harm 不表示伤害。",
+    "history": [
+      [
+        "harmony、法语 harmonieux 等",
+        "和声、协调的词族材料"
+      ],
+      [
+        "英语 harmonious",
+        "声音协调；关系和谐"
+      ]
+    ],
+    "explanation": "harmonious relations 和谐关系；a harmonious colour scheme 协调配色；harmonious voices 和谐的声音。",
+    "usage": "a harmonious relationship；a harmonious blend。",
+    "contrast": "harmonious 说配合协调，identical 是完全相同；颜色不同也能协调，不需要一模一样。",
+    "examples": [
+      [
+        "The room uses a harmonious blend of warm colours.",
+        "房间把暖色搭配得很协调。"
+      ],
+      [
+        "They worked to build more harmonious relations.",
+        "他们努力建立更和谐的关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harmonious#English"
+    ]
+  },
+  {
+    "word": "prestigious",
+    "ipa": "/preˈstɪdʒəs/ 或 /prɪˈstɪdʒəs/",
+    "meaning": "有威望的；享有盛誉的",
+    "sense": "这个奖、学校、职位在相关圈子里很有分量，拿出来会让人尊重，可以说 prestigious。它说的是声望，不只是贵。",
+    "split": "早期接拉丁 praestigiosus 等戏法、幻术材料，旧义带迷惑、欺骗；现代褒义与 prestige 声望的发展相连。不能说英语名词 prestige 一定早于所有 prestigious 用法。",
+    "history": [
+      [
+        "拉丁 praestigiae、praestigiosus 等",
+        "戏法、幻术；早期英语有欺骗相关义"
+      ],
+      [
+        "现代 prestige、prestigious",
+        "声望；享有盛誉的"
+      ]
+    ],
+    "explanation": "a prestigious award 声望很高的奖；a prestigious institution 享有盛誉的机构。",
+    "usage": "a prestigious university；a prestigious position。",
+    "contrast": "prestigious 是有威望，expensive 是昂贵；收费高不自动说明一个机构享有盛誉。",
+    "examples": [
+      [
+        "She won a prestigious literary award.",
+        "她获得了一项享有盛誉的文学奖。"
+      ],
+      [
+        "The exhibition was hosted by a prestigious museum.",
+        "展览由一家享有盛誉的博物馆举办。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prestigious#English",
+      "https://www.etymonline.com/word/prestigious"
+    ]
+  },
+  {
+    "word": "hilarious",
+    "ipa": "英 /hɪˈleəriəs/；美 /hɪˈleriəs/",
+    "meaning": "极其好笑的；令人捧腹的",
+    "sense": "不只是微微一笑，而是让人笑得停不下来，就可以夸 hilarious。常用来评价故事、笑话、场面。",
+    "split": "借拉丁 hilaris 快乐的材料，加相应 -ious 形式，上接希腊 hilaros 愉快；现代常用义进一步集中到非常好笑。",
+    "history": [
+      [
+        "希腊 hilaros → 拉丁 hilaris",
+        "欢乐、愉快"
+      ],
+      [
+        "英语 hilarious",
+        "极其好笑、令人捧腹"
+      ]
+    ],
+    "explanation": "a hilarious story 令人捧腹的故事；find something hilarious 觉得某事太好笑。",
+    "usage": "a hilarious comedy；absolutely hilarious。",
+    "contrast": "hilarious 是很好笑；happy 是高兴。描述人今天心情不错，不能直接说 he is hilarious 来表达同一意思。",
+    "examples": [
+      [
+        "The children thought the puppet show was hilarious.",
+        "孩子们觉得木偶戏好笑极了。"
+      ],
+      [
+        "She told a hilarious story about her first driving lesson.",
+        "她讲了一个关于第一次学车的爆笑故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hilarious#English"
+    ]
+  },
+  {
+    "word": "luxurious",
+    "ipa": "英 /lʌɡˈʒʊəriəs/；美 /lʌɡˈʒʊriəs/",
+    "meaning": "奢华舒适的；极为享受的",
+    "sense": "软床、精致用具、宽敞浴室让人觉得舒适又讲究，就是 luxurious；也可把一次不用赶时间的热水澡说成难得享受。",
+    "split": "经法语 luxurios 接拉丁 luxuriosus，与 luxuria、luxury 的丰富、过度、奢华材料相联；旧义不只现代豪华。",
+    "history": [
+      [
+        "拉丁 luxuria、luxuriosus → 法语相应形式",
+        "繁盛、过多、奢华等材料"
+      ],
+      [
+        "现代 luxurious",
+        "奢华舒适；令人享受"
+      ]
+    ],
+    "explanation": "a luxurious hotel 奢华酒店；a luxurious bath 很享受的泡澡；luxurious comfort 极舒适的享受。",
+    "usage": "a luxurious room；a luxurious feeling。",
+    "contrast": "luxurious 是奢华舒适；luxuriant 常说植物茂盛、头发浓密，不能因为都有 luxur- 就全译豪华。",
+    "examples": [
+      [
+        "The hotel offered luxurious rooms overlooking the bay.",
+        "酒店提供俯瞰海湾的奢华客房。"
+      ],
+      [
+        "She enjoyed a luxurious hour of doing absolutely nothing.",
+        "她享受了一个什么也不做的惬意小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/luxurious#English"
+    ]
+  },
+  {
+    "word": "frivolous",
+    "ipa": "/ˈfrɪvələs/",
+    "meaning": "轻浮的；琐碎、不严肃的；无足轻重的",
+    "sense": "该认真时却只顾玩笑，或为不值得的琐事花很多精力，frivolous 常在评价这种缺少分量、严肃性的东西。",
+    "split": "借拉丁 frivolus 琐碎、空泛、无价值的，英语词尾改成常见 -ous 外形；不是一个常用英语 frivol 加 ous。",
+    "history": [
+      [
+        "拉丁 frivolus",
+        "琐碎、轻浮、空泛的"
+      ],
+      [
+        "英语 frivolous",
+        "不严肃、缺少分量的"
+      ]
+    ],
+    "explanation": "a frivolous remark 轻浮的话；frivolous spending 在琐碎、不必要事物上花钱。法律等专业用法需按专业定义。",
+    "usage": "a frivolous question；frivolous entertainment。",
+    "contrast": "frivolous 常带批评，playful 是顽皮、轻松玩乐，未必负面；不是所有玩笑都不合时宜。",
+    "examples": [
+      [
+        "She felt embarrassed by her frivolous complaint.",
+        "她为自己那无足轻重的抱怨感到不好意思。"
+      ],
+      [
+        "The programme offers an hour of frivolous entertainment.",
+        "这个节目提供一小时轻松、不严肃的娱乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frivolous#English"
+    ]
+  },
+  {
+    "word": "infectious",
+    "ipa": "/ɪnˈfekʃəs/",
+    "meaning": "传染性的；能引起感染的；有感染力的",
+    "sense": "医学里说感染可传播等性质；日常 an infectious laugh，则是他一笑，别人也跟着想笑，像情绪传开了一样。",
+    "split": "借新拉丁 infectiosus，与 infect、infection 的染入、感染材料相联；现代也可认 infect 与 -ious 的词形对应。",
+    "history": [
+      [
+        "infect、infection；新拉丁 infectiosus 等",
+        "感染、具有相关作用的词族"
+      ],
+      [
+        "英语 infectious",
+        "感染、传播相关；比喻情绪能带动别人"
+      ]
+    ],
+    "explanation": "an infectious disease 传染病；infectious laughter 有感染力的笑声；infectious enthusiasm 很能带动人的热情。",
+    "usage": "an infectious disease；an infectious smile。",
+    "contrast": "infectious 与 contagious 在医学里有重合和具体区分，别一律当所有疾病都同样直接人传人；笑声的比喻常用 infectious。",
+    "examples": [
+      [
+        "The chapter introduces the study of infectious diseases.",
+        "这一章介绍传染病研究。"
+      ],
+      [
+        "Her enthusiasm was infectious.",
+        "她的热情很有感染力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/infectious#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/infectious"
+    ]
+  },
+  {
+    "word": "vigorous",
+    "ipa": "/ˈvɪɡərəs/",
+    "meaning": "有力的；精力旺盛的；强烈积极的",
+    "sense": "动作不是轻轻意思一下，而是投入很多劲儿；讨论、行动也能充满力量，这就叫 vigorous。",
+    "split": "经法语 vigoros 等接中世纪拉丁 vigorosus，来自 vigor 活力；现代可认 vigor 与 -ous 的对应。",
+    "history": [
+      [
+        "拉丁 vigor、vigorosus → 法语相应形式",
+        "活力；有活力的"
+      ],
+      [
+        "英语 vigorous",
+        "有力、积极、精力旺盛"
+      ]
+    ],
+    "explanation": "vigorous exercise 较剧烈的运动；a vigorous debate 激烈讨论；vigorous opposition 强烈反对。",
+    "usage": "a vigorous campaign；vigorous growth。",
+    "contrast": "vigorous 是力量、活跃程度强；rigorous 是严格、严密。只差开头字母，评价角度很不同。",
+    "examples": [
+      [
+        "The proposal met with vigorous opposition.",
+        "这个提案遭到强烈反对。"
+      ],
+      [
+        "The plants showed vigorous growth in spring.",
+        "这些植物在春天长势旺盛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vigorous#English"
+    ]
+  },
+  {
+    "word": "rigorous",
+    "ipa": "/ˈrɪɡərəs/",
+    "meaning": "严格的；严密的；一丝不苟的",
+    "sense": "每一步都要查，推论不能跳，标准不轻易放松，这种严格、严密叫 rigorous。",
+    "split": "经法语 rigoreus 等接晚期拉丁 rigorosus，关联 rigor 硬、严格的材料；由不弯、不松的画面走到标准和推理的严密。",
+    "history": [
+      [
+        "拉丁 rigor、rigorosus → 法语相应形式",
+        "硬、严格、刚直等材料"
+      ],
+      [
+        "英语 rigorous",
+        "严格；严密周到"
+      ]
+    ],
+    "explanation": "rigorous testing 严格测试；a rigorous analysis 严密分析；rigorous standards 严格标准。",
+    "usage": "a rigorous review；rigorous testing。",
+    "contrast": "rigorous 是严密严格，vigorous 是有力、活跃；a rigorous debate 可强调论证严密，a vigorous debate 强调交锋有力。",
+    "examples": [
+      [
+        "The device underwent rigorous testing before release.",
+        "设备发布前经过严格测试。"
+      ],
+      [
+        "Her argument was clear and rigorous.",
+        "她的论证清楚而严密。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rigorous#English"
+    ]
+  },
+  {
+    "word": "industrious",
+    "ipa": "/ɪnˈdʌstriəs/",
+    "meaning": "勤奋的；勤勉的",
+    "sense": "肯持续动手做，遇到细碎工作也认真完成，这种勤勉叫 industrious。重点是人的工作态度，不是工厂很多。",
+    "split": "经法语 industrieux 接拉丁 industriosus，与 industria 勤勉等材料相联；industry 后来有工业等义，但 industrious 常保留勤奋义。",
+    "history": [
+      [
+        "拉丁 industria、industriosus → 法语相应形式",
+        "勤勉、积极工作"
+      ],
+      [
+        "英语 industrious",
+        "勤奋、勤勉"
+      ]
+    ],
+    "explanation": "an industrious student 勤奋的学生；an industrious worker 勤勉的工作者。",
+    "usage": "an industrious person；an industrious team。",
+    "contrast": "industrious 是勤奋的，industrial 是工业的；an industrious town 与 an industrial town 不是同一个描写。",
+    "examples": [
+      [
+        "She was an industrious student who revised her work carefully.",
+        "她是个勤奋的学生，会认真修改自己的作业。"
+      ],
+      [
+        "The industrious team finished the preparations ahead of time.",
+        "这个勤勉的团队提前完成了准备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/industrious#English"
+    ]
+  },
+  {
+    "word": "gorgeous",
+    "ipa": "英 /ˈɡɔːdʒəs/；美 /ˈɡɔːrdʒəs/",
+    "meaning": "非常漂亮的；华丽迷人的；极好的",
+    "sense": "看到景色、衣服、布置，忍不住说“真漂亮”，gorgeous 是很常见的热情赞美；口语还可夸天气特别好。",
+    "split": "借法语 gorgias 优雅、华丽的。更远来源未定，有与颈饰、喉部词相关的解释，但不能当定论；不按现代 gorge 峡谷、猛吃 + ous 编故事。",
+    "history": [
+      [
+        "法语 gorgias",
+        "优雅、时髦、华丽的；远源未定"
+      ],
+      [
+        "英语 gorgeous",
+        "华丽漂亮；日常泛赞非常好"
+      ]
+    ],
+    "explanation": "a gorgeous view 绝美景色；a gorgeous dress 漂亮礼服；gorgeous weather 极好的天气。",
+    "usage": "a gorgeous day；look gorgeous。",
+    "contrast": "gorgeous 是强烈赞美，gory 是血淋淋的；两个词的开头像，不要看漏后面。",
+    "examples": [
+      [
+        "The balcony had a gorgeous view of the mountains.",
+        "阳台能望见绝美的山景。"
+      ],
+      [
+        "What a gorgeous day for a walk!",
+        "真是个适合散步的好天气！"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gorgeous#English",
+      "https://www.etymonline.com/word/gorgeous"
+    ]
+  },
+  {
+    "word": "joyous",
+    "ipa": "/ˈdʒɔɪəs/",
+    "meaning": "喜悦的；欢乐的",
+    "sense": "一场团聚、一个好消息，让场面洋溢欢乐，较有感情色彩地可以说 joyous。",
+    "split": "经中古英语、古法语 joieus 等形式，关联 joie 喜悦及相应形容词尾；现代可用 joy 与 -ous 对照。",
+    "history": [
+      [
+        "古法语 joie → joieus",
+        "喜悦 → 欢乐的"
+      ],
+      [
+        "英语 joyous",
+        "带着喜悦、充满欢乐"
+      ]
+    ],
+    "explanation": "a joyous occasion 欢乐的场合；a joyous reunion 喜悦的重逢。",
+    "usage": "a joyous celebration；a joyous moment。",
+    "contrast": "joyous 与 joyful 大量重合，joyous 常见于庆祝、团聚等场面的较抒情描写；不必硬划成一个内在、一个外在。",
+    "examples": [
+      [
+        "The wedding was a joyous occasion for both families.",
+        "婚礼是两家人都很高兴的喜庆场合。"
+      ],
+      [
+        "They shared a joyous reunion after years apart.",
+        "分开多年后，他们欢喜重逢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/joyous#English"
+    ]
+  },
+  {
+    "word": "spontaneous",
+    "ipa": "英 /spɒnˈteɪniəs/；美 /spɑːnˈteɪniəs/",
+    "meaning": "自发的；自然流露的；未经事先安排的",
+    "sense": "没有提前排练、没有人催，听见好消息就自然鼓掌，这种从当下意愿冒出来的反应是 spontaneous。",
+    "split": "接晚期拉丁 spontaneus，自身来自 sua sponte 等出于自愿、自行的表达；不是 modern spin 旋转换出来的，也不找一个常用英文 spontan。",
+    "history": [
+      [
+        "拉丁 sua sponte、spontaneus",
+        "自愿、自行、出于自身意愿"
+      ],
+      [
+        "英语 spontaneous",
+        "自发、自然流露、未预先安排"
+      ]
+    ],
+    "explanation": "spontaneous applause 自发掌声；a spontaneous decision 临时起意的决定；a spontaneous smile 自然流露的笑。",
+    "usage": "a spontaneous reaction；a spontaneous gesture。",
+    "contrast": "spontaneous 强调自发、未预先安排；sudden 强调突然。预先安排的惊喜也可能突然，却不一定 spontaneous。",
+    "examples": [
+      [
+        "The announcement drew spontaneous applause.",
+        "消息一宣布，大家自发鼓起掌来。"
+      ],
+      [
+        "We made a spontaneous decision to stay another night.",
+        "我们临时决定再住一晚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spontaneous#English",
+      "https://www.etymonline.com/word/spontaneous"
+    ]
+  }
+]

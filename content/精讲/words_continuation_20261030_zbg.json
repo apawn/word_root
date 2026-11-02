@@ -1,0 +1,546 @@
+[
+  {
+    "word": "noting",
+    "ipa": "英 /ˈnəʊtɪŋ/；美 /ˈnoʊtɪŋ/",
+    "meaning": "记下、指出；注意到〔现在分词、动名词〕",
+    "sense": "重要信息不让它溜过去，在心里或纸上留个记号，就是 noting。可以真写下，也可以只是注意、指出。",
+    "split": "note 去 e 加完整 -ing。动词经法语 noter 接拉丁 notare 做标记，与名词 nota 标记相连；更远来源未明。",
+    "history": [
+      [
+        "拉丁 nota、notare → 法语等 → note",
+        "标记、做记号 → 记录、注意、指出"
+      ],
+      [
+        "note 去 e + -ing → noting",
+        "正在记录；指出、留意某事"
+      ]
+    ],
+    "explanation": "noting the time 记下时间；worth noting 值得注意；noting that... 指出、注意到……。",
+    "usage": "noting the differences 留意差别；noting down an address 记下地址。",
+    "contrast": "noting 可以只是观察、指出，不保证手上拿笔写。worth noting 是值得注意，worth 后的 ing 不改成 to note。",
+    "examples": [
+      [
+        "She kept a diary, noting the weather each day.",
+        "她记日记，每天写下天气。"
+      ],
+      [
+        "It is worth noting that the two examples differ.",
+        "值得注意的是，这两个例子不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/noting#English",
+      "https://en.wiktionary.org/wiki/note#English"
+    ]
+  },
+  {
+    "word": "organs",
+    "ipa": "英 /ˈɔːɡənz/；美 /ˈɔːrɡənz/",
+    "meaning": "器官；管风琴；特定组织的机构〔复数〕",
+    "sense": "能承担一项功能的工具，是 organ 的老核心。身体里有各司其职的器官，音乐里又有演奏的管风琴。",
+    "split": "organ + -s，/n/ 后读 /z/。organ 经拉丁 organum、希腊 organon 器具，古英语与法语路线都参与英语历史，身体与乐器义在英语中分支发展。",
+    "history": [
+      [
+        "希腊 organon → 拉丁 organum → 古英语、法语等 → organ",
+        "工具、器具 → 乐器、承担功能的身体部分"
+      ],
+      [
+        "organ + -s → organs",
+        "多个器官、管风琴；特定组织机构"
+      ]
+    ],
+    "explanation": "internal organs 内脏器官；musical organs 管风琴；organs of government 政府机构，正式用法。",
+    "usage": "the body’s organs 身体器官；historic organs 历史悠久的管风琴。",
+    "contrast": "organs 不只指身体部分；乐器语境的 organ 通常是管风琴等风琴类。组织、机关义则把器官的功能分工借到社会组织。",
+    "examples": [
+      [
+        "The diagram labels several internal organs.",
+        "图中标出了几个内脏器官。"
+      ],
+      [
+        "The museum has a collection of old organs.",
+        "博物馆收藏了一批老风琴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/organs#English",
+      "https://en.wiktionary.org/wiki/organ#English"
+    ]
+  },
+  {
+    "word": "outlets",
+    "ipa": "/ˈaʊtlets/",
+    "meaning": "出口、出水口；插座；销售网点；表达、释放渠道〔复数〕",
+    "sense": "让水、电、商品或情绪有个通路出去，是 outlets 的共同画面。先抓住出口，再按流出的是什么理解。",
+    "split": "outlet + -s，/t/ 后读 /s/。outlet 接中古英语 outlete、outleten 放出，可看 out 向外与 let 放行；let 不是这里的指小词尾。",
+    "history": [
+      [
+        "中古英语 outleten、outlete → outlet",
+        "放出 → 能让东西流出的口"
+      ],
+      [
+        "outlet + -s → outlets",
+        "多个出口、插座、销售或表达渠道"
+      ]
+    ],
+    "explanation": "electrical outlets 电源插座；retail outlets 零售网点；creative outlets 创意表达渠道。",
+    "usage": "media outlets 媒体机构；water outlets 出水口。",
+    "contrast": "美式 electrical outlets 常对应英式 sockets。outlet mall 的 outlet 指直销店、折扣店渠道；creative outlets 说让想法、感受有地方表达。",
+    "examples": [
+      [
+        "The room has four electrical outlets.",
+        "房间里有四个电源插座。"
+      ],
+      [
+        "Music and painting became creative outlets for her.",
+        "音乐和绘画成了她表达创意的渠道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outlets#English",
+      "https://en.wiktionary.org/wiki/outlet#English"
+    ]
+  },
+  {
+    "word": "parameters",
+    "ipa": "英 /pəˈræmɪtəz/；美 /pəˈræmətərz/",
+    "meaning": "参数；范围、限制条件〔复数〕",
+    "sense": "想说明一个系统怎样运作，先设几项能描述、控制它的量，这些是 parameters；普通讨论中也借来说事先划好的范围。",
+    "split": "parameter + -s，词尾读 /z/。近代拉丁 parameter、parametrum 用希腊 para- 辅助、旁边与 metron 尺度命名，另有经法语 parametre 借入的分析。",
+    "history": [
+      [
+        "希腊构词材料 → 近代拉丁、法语 → parameter",
+        "辅助描述曲线的量 → 参数"
+      ],
+      [
+        "parameter + -s → parameters",
+        "多项参数；做事的范围条件"
+      ]
+    ],
+    "explanation": "set the parameters 设置参数、确定范围；model parameters 模型参数；within the parameters 在规定范围内。",
+    "usage": "adjust the parameters 调整参数；parameters of the project 项目范围条件。",
+    "contrast": "技术 parameters 可是明确数值、传入量；一般说话也可指边界条件。perimeters 是周长、外围，拼写和意思与 parameters 不同。",
+    "examples": [
+      [
+        "The model uses three parameters.",
+        "模型使用三个参数。"
+      ],
+      [
+        "We agreed on the parameters of the project.",
+        "我们就项目的范围条件达成了一致。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parameters#English",
+      "https://en.wiktionary.org/wiki/parameter#English"
+    ]
+  },
+  {
+    "word": "protesters",
+    "ipa": "英 /prəˈtestəz/；美 /ˈproʊtestərz/，重音也有变体",
+    "meaning": "抗议者〔复数〕",
+    "sense": "觉得某事不对，公开把反对表达出来的人，是 protesters。常见画面是集会、举牌、提出不满或要求。",
+    "split": "protest + 完整 -er → protester，再加 -s。protest 经法语接拉丁 protestari 公开声明、作证，根在 testari 作证。",
+    "history": [
+      [
+        "拉丁 protestari → 法语 → protest；+ -er → protester",
+        "公开声明 → 抗议 → 抗议者"
+      ],
+      [
+        "protester + -s → protesters",
+        "多位公开表达反对的人"
+      ]
+    ],
+    "explanation": "peaceful protesters 和平抗议者；a group of protesters 一群抗议者。",
+    "usage": "protesters outside the building 楼外的抗议者；protesters holding signs 举牌的抗议者。",
+    "contrast": "protesters 是人，protests 是抗议活动或动词三单。protestor 也有使用，但本页先记常见 protester 的完整 er 后缀。",
+    "examples": [
+      [
+        "The protesters gathered outside the building.",
+        "抗议者聚集在楼外。"
+      ],
+      [
+        "Several protesters carried handwritten signs.",
+        "几位抗议者举着手写标语牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/protesters#English",
+      "https://en.wiktionary.org/wiki/protester#English"
+    ]
+  },
+  {
+    "word": "shades",
+    "ipa": "/ʃeɪdz/",
+    "meaning": "阴影、遮光物；色调、细微差别；太阳镜〔复数〕",
+    "sense": "光线被挡住会深浅变化，颜色也有不同层次，这便串起 shades 的阴影、遮光物和色调。太阳镜也能借遮光功能叫 shades。",
+    "split": "shade + -s，/d/ 后读 /z/。shade 继承古英语 sceadu，与 shadow 同源但现代用法有分工；色调、细微程度是后来的扩展。",
+    "history": [
+      [
+        "古英语 sceadu → shade",
+        "遮光、阴影 → 遮光物、深浅色调"
+      ],
+      [
+        "shade + -s → shades",
+        "多层色调、细微差别；太阳镜等复数用法"
+      ]
+    ],
+    "explanation": "shades of green 不同深浅的绿色；window shades 遮光帘；wear shades 戴太阳镜，口语。",
+    "usage": "shades of meaning 细微语义差别；different shades 不同色调。",
+    "contrast": "in the shade 在阴凉处常用单数不可数式；wearing shades 则多说戴太阳镜。shades of meaning 借色彩层次说意义上的微妙差别。",
+    "examples": [
+      [
+        "The paint comes in several shades of green.",
+        "这种漆有几种深浅不同的绿色。"
+      ],
+      [
+        "He left his shades on the table.",
+        "他把太阳镜落在桌上了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shades#English",
+      "https://en.wiktionary.org/wiki/shade#English"
+    ]
+  },
+  {
+    "word": "spurs",
+    "ipa": "英 /spɜːz/；美 /spɜːrz/",
+    "meaning": "马刺；支线、突出部〔复数〕；促进、激励〔第三人称单数〕",
+    "sense": "马靴后的小突出物用于催马，便是 spur。催动的作用带来促进义，突出的形状又带来支线、支脉等用法。",
+    "split": "spur + -s，结尾读 /z/。spur 继承古英语 spora、spura 等日耳曼马刺词；作用和形状分别推动后来的比喻。",
+    "history": [
+      [
+        "古英语马刺名称 → spur",
+        "催动作用 → 激励；突出形状 → 支部、支线"
+      ],
+      [
+        "spur + -s → spurs",
+        "多枚马刺、多个突出支部；某事促进变化"
+      ]
+    ],
+    "explanation": "riding spurs 骑马用的马刺；railway spurs 铁路支线；spurs interest 激起兴趣。",
+    "usage": "spurs someone on 激励某人继续；mountain spurs 山脊支脉。",
+    "contrast": "马刺名词看器具，支线、支脉看突出的形状，促进义看催动的作用。动词 spurs 是现在三单，过去 spurred 双写 r。",
+    "examples": [
+      [
+        "The display included a pair of old riding spurs.",
+        "展品里有一对旧马刺。"
+      ],
+      [
+        "The exhibition spurs interest in local history.",
+        "展览激起了人们对当地历史的兴趣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spurs#English",
+      "https://en.wiktionary.org/wiki/spur#English"
+    ]
+  },
+  {
+    "word": "subscribers",
+    "ipa": "英 /səbˈskraɪbəz/；美 /səbˈskraɪbərz/",
+    "meaning": "订阅者、订户；定期支持者〔复数〕",
+    "sense": "说好以后继续把内容、服务送给自己的人，是 subscribers。这个关系可以付费，也可以免费。",
+    "split": "subscribe 去 e 加完整 -er → subscriber，再加复数 -s。subscribe 远接拉丁 subscribere 在下面签名、表示同意，后来发展订阅、支持用法。",
+    "history": [
+      [
+        "拉丁 subscribere → subscribe；+ -er → subscriber",
+        "在下面签认 → 订阅、支持 → 相应的人"
+      ],
+      [
+        "subscriber + -s → subscribers",
+        "多位订阅者、订户"
+      ]
+    ],
+    "explanation": "newsletter subscribers 通讯订阅者；paying subscribers 付费订户；gain subscribers 增加订阅者。",
+    "usage": "subscribers to a magazine 杂志订户；email subscribers 邮件订阅者。",
+    "contrast": "subscribers 数订阅关系，不保证每个人每期都读完。readers 是读者，偶尔读到转发内容的人也可以是 reader，未必已订阅。",
+    "examples": [
+      [
+        "The newsletter has a thousand subscribers.",
+        "这份通讯有一千名订阅者。"
+      ],
+      [
+        "Subscribers receive a new issue every Friday.",
+        "订阅者每周五收到新一期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subscribers#English",
+      "https://en.wiktionary.org/wiki/subscriber#English"
+    ]
+  },
+  {
+    "word": "wished",
+    "ipa": "/wɪʃt/",
+    "meaning": "希望、祝愿了；遗憾地盼望〔过去式、过去分词〕",
+    "sense": "心里想要某事发生，是 wished；把好愿望送给别人，是祝愿；希望已经错过的事当时不一样，又会带遗憾。",
+    "split": "wish + -ed，/ʃ/ 后读 /t/，一个音节。wish 继承古英语 wyscan 希望，经中古英语相应形式延续，现代形成多种愿望、祝愿句型。",
+    "history": [
+      [
+        "古英语 wyscan → 中古英语 → wish",
+        "希望、想要 → 愿望、祝愿及遗憾句型"
+      ],
+      [
+        "wish + -ed → wished",
+        "过去希望、祝愿；过去心里的遗憾"
+      ]
+    ],
+    "explanation": "wished someone luck 祝某人好运；wished to speak 想讲话，较正式。",
+    "usage": "wished I had... 遗憾过去没有……；wished for a change 盼望改变。",
+    "contrast": "wished someone good luck 直接接人和祝愿内容。wished I had brought... 用从句回看已错过的事，不能只把 had 当普通过去时间词。",
+    "examples": [
+      [
+        "She wished me good luck.",
+        "她祝我好运。"
+      ],
+      [
+        "I wished I had brought a coat.",
+        "我当时想，要是带了件外套就好了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wished#English",
+      "https://en.wiktionary.org/wiki/wish#English"
+    ]
+  },
+  {
+    "word": "wonders",
+    "ipa": "英 /ˈwʌndəz/；美 /ˈwʌndərz/",
+    "meaning": "想知道、感到惊奇〔第三人称单数〕；奇观、令人惊叹之物〔复数〕",
+    "sense": "遇到东西，心里冒出这怎么回事，就是动词 wonders；把令人惊叹的东西拿出来数，则是名词 wonders。",
+    "split": "wonder + -s，结尾读 /z/。wonder 的名词、动词分别承古英语 wundor、wundrian，惊奇逐渐和好奇、想知道连接起来。",
+    "history": [
+      [
+        "古英语 wundor、wundrian → wonder",
+        "令人惊奇的事；惊奇 → 好奇、想知道"
+      ],
+      [
+        "wonder + -s → wonders",
+        "某人好奇、惊叹；多个奇观"
+      ]
+    ],
+    "explanation": "wonders why 想知道为什么；wonders whether 不知是否；natural wonders 自然奇观。",
+    "usage": "works wonders 效果惊人；the wonders of science 科学的奇妙之处。",
+    "contrast": "wonders /ˈwʌndəz/ 与 wanders 漫游的元音不同。wonders whether 常是心里疑问，不要求一定开口问了别人。",
+    "examples": [
+      [
+        "She wonders why the shop is closed.",
+        "她想知道商店为什么关门。"
+      ],
+      [
+        "The book describes the natural wonders of the region.",
+        "书中介绍了这个地区的自然奇观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wonders#English",
+      "https://en.wiktionary.org/wiki/wonder#English"
+    ]
+  },
+  {
+    "word": "centered",
+    "ipa": "英 /ˈsentəd/；美 /ˈsentərd/",
+    "meaning": "居中、集中于；围绕……展开的〔过去式、过去分词及形容词〕",
+    "sense": "把某物放到中间，或让大家围绕同一个重点来谈，就是 centered。实物位置和讨论焦点都能用。",
+    "split": "center + -ed，美式通常 centered，不双写 r；英式常见 centre → centred。center 经法语接拉丁 centrum、希腊 kentron 尖点、圆心材料。",
+    "history": [
+      [
+        "希腊 kentron → 拉丁 centrum → 法语 centre → center、centre",
+        "尖点、圆心 → 中心；使居中"
+      ],
+      [
+        "center + -ed → centered；centre → centred",
+        "已经放在中央；围绕某事展开"
+      ]
+    ],
+    "explanation": "centered the title 把标题居中；centered on a topic 围绕一个话题；stay centered 保持沉着、稳定。",
+    "usage": "centered in the page 位于页面中央；a discussion centered on costs 围绕成本的讨论。",
+    "contrast": "centered on 常说围绕某个重点；centered in、at 可说明中心所在位置。centered 与 centred 是常见美英拼写差别，不是两个意思。",
+    "examples": [
+      [
+        "She centered the title on the page.",
+        "她把标题放在页面中央。"
+      ],
+      [
+        "The discussion centered on the cost.",
+        "讨论围绕成本展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/centered#English",
+      "https://en.wiktionary.org/wiki/center#English"
+    ]
+  },
+  {
+    "word": "complained",
+    "ipa": "/kəmˈpleɪnd/",
+    "meaning": "抱怨、投诉、诉说不适了〔过去式、过去分词〕",
+    "sense": "心里不满意、身体不舒服，把它说出来，就是 complained。轻到发牢骚，重到正式投诉，都可按场景出现。",
+    "split": "complain + -ed，/n/ 后读 /d/。complain 经法语 complaindre 接拉丁 plangere 击打、捶胸哀叹及较早复合 *complangere 的材料。",
+    "history": [
+      [
+        "拉丁哀叹复合材料 → 法语 complaindre → complain",
+        "表达哀痛 → 诉说不满、抱怨"
+      ],
+      [
+        "complain + -ed → complained",
+        "过去抱怨、投诉或诉说不适"
+      ]
+    ],
+    "explanation": "complained about noise 抱怨噪声；complained to the manager 向经理投诉。",
+    "usage": "complained of discomfort 诉说不适；complained that... 抱怨……。",
+    "contrast": "complained about 后常是事情，complained to 后是接收投诉的人。complained of 在较正式语境里可以说诉说身体不适。",
+    "examples": [
+      [
+        "The guests complained about the noise.",
+        "客人们抱怨噪声。"
+      ],
+      [
+        "She complained to the manager about the delay.",
+        "她向经理投诉了延误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complained#English",
+      "https://en.wiktionary.org/wiki/complain#English"
+    ]
+  },
+  {
+    "word": "compounds",
+    "ipa": "名词：英 /ˈkɒmpaʊndz/、美 /ˈkɑːmpaʊndz/；动词 /kəmˈpaʊndz/",
+    "meaning": "化合物、复合词；围合院区〔复数〕；使加重、合成〔第三人称单数〕",
+    "sense": "把几部分放在一起，便有化合物、复合词；问题再叠一个问题，也能说 compounds。围起来的院区虽然同形，却走另一条借词路线。",
+    "split": "compound + -s，/d/ 后读 /z/。合成线经法语接拉丁 componere，com- 一起与 ponere 放；院区线另接马来语 kampong 村落、建筑群等借入材料。",
+    "history": [
+      [
+        "拉丁 componere → 合成、叠加线 compound；马来语 kampong 等 → 院区线",
+        "放在一起；另一来源的村落、围院名称"
+      ],
+      [
+        "compound + -s → compounds",
+        "多个化合物、复合词、院区；某事使问题加重"
+      ]
+    ],
+    "explanation": "chemical compounds 化合物；compound words 复合词，前置通常单数；compounds the problem 使问题更严重。",
+    "usage": "residential compounds 住宅院区；different compounds 不同化合物。",
+    "contrast": "名词常前重音，动词常后重音。化合物、复合词走合成材料，院区走马来语借词；同样拼写不表示每个意思都有同一词根。",
+    "examples": [
+      [
+        "The lesson compares several chemical compounds.",
+        "这节课比较几种化合物。"
+      ],
+      [
+        "The delay compounds the problem.",
+        "延误让问题更严重了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compounds#English",
+      "https://en.wiktionary.org/wiki/compound#English"
+    ]
+  },
+  {
+    "word": "cracked",
+    "ipa": "/krækt/",
+    "meaning": "裂开、弄裂了；解开了；开裂的〔过去式、过去分词〕",
+    "sense": "啪地一声，原本完整的表面出现缝，是 cracked；难题像一个打不开的壳，被你打开了，也能说 cracked。",
+    "split": "crack + -ed，/k/ 后读 /t/。crack 接古英语 cracian 尖响等词，常联系拟声，裂开、打开难题等义后来发展。",
+    "history": [
+      [
+        "古英语尖锐声响词 → crack",
+        "啪响 → 裂开、裂缝及相关比喻"
+      ],
+      [
+        "crack + -ed → cracked",
+        "已经裂开；已经解开难题"
+      ]
+    ],
+    "explanation": "a cracked cup 有裂纹的杯子；cracked the code 破解密码；cracked a joke 说了个笑话。",
+    "usage": "cracked paint 开裂的漆；finally cracked it 终于弄明白、解决了。",
+    "contrast": "cracked 不一定碎成很多片，可能只是裂了缝。cracked the code 说解开，cracked a joke 是固定说笑话，宾语会提示是哪一支。",
+    "examples": [
+      [
+        "The cup was cracked near the handle.",
+        "杯子靠近把手的地方有裂纹。"
+      ],
+      [
+        "She finally cracked the code.",
+        "她终于破解了密码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cracked#English",
+      "https://en.wiktionary.org/wiki/crack#English"
+    ]
+  },
+  {
+    "word": "debts",
+    "ipa": "/dets/",
+    "meaning": "债务、欠款；欠下的人情〔复数〕",
+    "sense": "已经从别人那里得到钱、帮助，仍有一份需要偿还或铭记，就是 debts。钱债之外，也能说欠下的恩情。",
+    "split": "debt + -s，/t/ 后读 /s/。debt 经法语 dete 接拉丁 debitum 所欠之物；英语旧写 dette，后来按拉丁来源补写 b，但 b 不发音。",
+    "history": [
+      [
+        "拉丁 debitum → 法语 dete → 英语 dette、debt",
+        "所欠的东西 → 债务"
+      ],
+      [
+        "debt + -s → debts",
+        "多笔债务、恩情；b 继续不发音"
+      ]
+    ],
+    "explanation": "pay debts 偿债；outstanding debts 未偿债务；debts of gratitude 欠下的恩情。",
+    "usage": "settle debts 清偿债务；family debts 家庭债务。",
+    "contrast": "debts 数具体欠款、恩情；in debt 负债常用单数不可数式。debt、debts 的 b 都不读，不能因为复数加 s 就又把 b 读出来。",
+    "examples": [
+      [
+        "The character worked hard to repay his debts.",
+        "这个人物努力工作偿还债务。"
+      ],
+      [
+        "She spoke of her debts of gratitude to old friends.",
+        "她谈到自己欠老朋友们的恩情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/debts#English",
+      "https://en.wiktionary.org/wiki/debt#English"
+    ]
+  },
+  {
+    "word": "digging",
+    "ipa": "/ˈdɪɡɪŋ/",
+    "meaning": "挖、挖掘；深入调查、翻找〔现在分词、动名词〕",
+    "sense": "把表层拨开、往下面找，就是 digging。泥土下面找东西，资料里找真相，都可以用这幅往深处挖的画面。",
+    "split": "dig 双写 g，加完整 -ing。dig 接中古英语 diggen，与古英语 dician 挖沟等词相关，g 词形的历史有不同影响分析。",
+    "history": [
+      [
+        "古英语挖沟词族、中古英语 diggen → dig",
+        "挖土、挖出 → 翻找、深查"
+      ],
+      [
+        "dig 双写 g + -ing → digging",
+        "正在挖；进行深入调查、寻找"
+      ]
+    ],
+    "explanation": "digging a hole 挖洞；digging for information 深入找资料；keep digging 继续追查。",
+    "usage": "digging in the garden 在花园挖土；digging through old papers 翻找旧文件。",
+    "contrast": "digging 常说主动往深处找，未必真的有铲子。dig 的过去式、分词是 dug，ing 则按短元音单音节规则双写 g。",
+    "examples": [
+      [
+        "They are digging a hole for the new tree.",
+        "他们正在给新树挖坑。"
+      ],
+      [
+        "She spent the morning digging through old papers.",
+        "她花了一上午翻找旧文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/digging#English",
+      "https://en.wiktionary.org/wiki/dig#English"
+    ]
+  }
+]

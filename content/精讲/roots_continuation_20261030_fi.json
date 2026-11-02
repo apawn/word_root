@@ -1,0 +1,145 @@
+[
+  {
+    "id": "B3142",
+    "meaning": "突然亮一下、冒出来，再接快速和吸睛",
+    "core": "FLASH：短促、突然、引人注意",
+    "image": "flash → flashing、flasher、flashy；flashlight、flashcard、flashback、newsflash 各取不同使用场景。",
+    "intro": "闪电、灵光、消息与炫示能共享突然显露的感觉；建筑 flashing 另作专门历史辨析，不凭反光补出确定词源。",
+    "forms": "中古英语 flashen 等 → flash；flash + -ing/-er/-y；flash + light/card/back；news + flash。\n\n名称有早期短时闪照背景，今天的手电可以持续照明，不把历史名义当作功能限制。\n\n短暂出现的强光走向显眼外观；flashier、flashiest 形容更、最浮华，不要求真的安装闪灯。",
+    "branches": [
+      [
+        "基础与直接扩展",
+        "flash · flashing · flasher · flashy"
+      ],
+      [
+        "照明与学习工具",
+        "flashlight · flashcard"
+      ],
+      [
+        "突然回现与新闻",
+        "flashback · newsflash"
+      ],
+      [
+        "flashlight 的便携电灯与复数",
+        "flashlight · flashlights"
+      ],
+      [
+        "flash 的突现、闪光与 flashy 的浮华程度",
+        "flash · flashes · flashed · flashy · flashier · flashiest"
+      ]
+    ],
+    "contrasts": "flash/shine 突然闪与持续亮；flashy/stylish 浮华与有品味；roof flashing 不译正在闪的屋顶。",
+    "practice": "The flashing light produced a bright flash every few seconds.\n\n那盏闪灯每隔几秒就亮闪一下。",
+    "words": [
+      "flash",
+      "flashing",
+      "flasher",
+      "flashy",
+      "flashlight",
+      "flashcard",
+      "flashback",
+      "newsflash",
+      "flashlights",
+      "flashes",
+      "flashed",
+      "flashier",
+      "flashiest"
+    ],
+    "exclude": {
+      "flash-ball": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-flash": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flash-bang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3320",
+    "meaning": "同桌者成为伙伴；另有棋语与茶名同形",
+    "core": "MATE：伙伴、将死、马黛茶分三条来源",
+    "image": "mate → matey、playmate、soulmate 接伙伴；stalemate 接另源棋语。茶名 mate、maté 有另一个读音。",
+    "intro": "不能因为字母相同就把“伙伴变成对手、再泡成茶”编成演化。mater 常见的母亲、膜名称接拉丁 māter，也不是 mate 多加 r。",
+    "forms": "mate、gemate 同桌者 → mate 伙伴；mate + -y；play/soul + mate；棋语 stale + mate → stalemate；克丘亚语 mati 经西班牙语等 → mate 茶。\n\n伙伴义接中古低地德语同桌者材料；将死义、茶名另分，普通伙伴复数 s。",
+    "branches": [
+      [
+        "伙伴与友好态度",
+        "mate · matey"
+      ],
+      [
+        "一起玩与心灵相通的伙伴",
+        "playmate · soulmate"
+      ],
+      [
+        "棋语异源对照",
+        "stalemate"
+      ],
+      [
+        "mate → mates：同伴、配对伙伴；棋语另路",
+        "mate · mates"
+      ]
+    ],
+    "contrasts": "mate /meɪt/ 与茶名 /ˈmɑːteɪ/；stalemate/checkmate 逼和与将死；mater 的拉丁母亲义不同源。",
+    "practice": "My mate and I tried to break the stalemate in our chess game.\n\n我和朋友想办法打破我们这盘棋里的僵持局面。",
+    "words": [
+      "mate",
+      "matey",
+      "playmate",
+      "soulmate",
+      "stalemate",
+      "mates"
+    ],
+    "exclude": {
+      "mater": "常见母亲、膜名称来自拉丁 māter，另源；mate + -er 的配对者义较冷门，暂不单列。"
+    }
+  },
+  {
+    "id": "B3411",
+    "meaning": "切分整批货，按件卖向顾客",
+    "core": "RETAIL：从分小块的旧意象到零售",
+    "image": "retail → retailer；实体店与网店都能做零售，和 wholesale 对照看渠道角色。",
+    "intro": "拆开卖是来源意象，现代并不要求现场切东西。retail a rumour 的转述义也像把消息传出去，不是把谣言当商品真的收费。",
+    "forms": "古法语 taillier 切 → retaillier、retail 切下、小块 → 英语 retail 零售；retail + -er → retailer。\n\nretail、tailor、detail 分别经法语切分相关词形成；tail 这个动物尾巴词不参与这条来源。detailed、detailing 是 detail 的现代扩展。\n\ndetail 经法语切成小块词族发展为细节；details 常在资料语境说联系方式等具体信息。\n\n法语切分材料进入零售义，现代完整 er 表执行业务主体，再加 s。\n\nretail 接法语切下部分的名动材料，按件售卖的具体发展未全定；现代 retails for 常说零售价格，不能当成 re- 再次加英语 tail 尾巴。",
+    "branches": [
+      [
+        "业务、价格与售卖动作",
+        "retail"
+      ],
+      [
+        "从事零售的主体",
+        "retailer"
+      ],
+      [
+        "tailler 切分词族：零售、裁缝与细节",
+        "retail · tailor · detail · detailed · detailing"
+      ],
+      [
+        "detail → details：一个个细处；详细列出",
+        "detail · details"
+      ],
+      [
+        "retail → retailer → retailers：零售商家",
+        "retail · retailer · retailers"
+      ],
+      [
+        "retail：按件零售与零售价",
+        "retail · retails · retailed · retailing"
+      ]
+    ],
+    "contrasts": "retail/wholesale 零售批发；retailer/manufacturer 销售者制造者；retail 不拆成再加尾巴。",
+    "practice": "The retailer lists both the retail price and the discounted price.\n\n零售商同时标出了零售价和折扣价。",
+    "words": [
+      "retail",
+      "retailer",
+      "tailor",
+      "detail",
+      "detailed",
+      "detailing",
+      "details",
+      "retailers",
+      "retails",
+      "retailed",
+      "retailing"
+    ],
+    "exclude": {
+      "e-retail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

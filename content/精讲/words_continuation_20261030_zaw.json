@@ -1,0 +1,546 @@
+[
+  {
+    "word": "insisted",
+    "ipa": "/ɪnˈsɪstɪd/",
+    "meaning": "坚持说、坚持要求了〔过去式、过去分词〕",
+    "sense": "别人可能不同意，你还是站在原来的说法上不退，就是 insisted。它常带有反复、坚决的语气。",
+    "split": "insist + -ed，结尾 /t/ 后读 /ɪd/。insist 经法语 insister 或拉丁 insistere，也有部分由 insistence 逆构的分析；较早 in- 在上与 sistere 站住相连。",
+    "history": [
+      [
+        "拉丁 insistere → 法语或英语借词；另有 insistence 逆构分析",
+        "站在一点上 → 坚持主张、要求"
+      ],
+      [
+        "insist + -ed → insisted",
+        "这种不松口的主张发生在过去"
+      ]
+    ],
+    "explanation": "insisted that... 坚持说、坚持要求……；insisted on paying 坚持要付钱。",
+    "usage": "insisted on an answer 坚持要一个答复；had insisted 此前坚持过。",
+    "contrast": "insisted that 后面可能是坚称事实，也可能是提出要求；insisted on 后接名词或 ing，不直接接 on to do。",
+    "examples": [
+      [
+        "She insisted that the door had been locked.",
+        "她坚称门已经锁好了。"
+      ],
+      [
+        "He insisted on carrying the heavy bag.",
+        "他坚持要提那个重包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insisted#English",
+      "https://en.wiktionary.org/wiki/insist#English"
+    ]
+  },
+  {
+    "word": "instances",
+    "ipa": "/ˈɪnstənsɪz/",
+    "meaning": "事例、实例；情况〔复数〕",
+    "sense": "不要只说一条抽象道理，拿出几件实际发生的事来，这些具体例子就是 instances。",
+    "split": "instance + -s，原词以 /s/ 结尾，复数读 /ɪz/。instance 经法语接拉丁 instantia，与 instare 逼近、坚持提出的词族相关；不是英语 instant 加 ce。",
+    "history": [
+      [
+        "拉丁 instantia → 法语 instance → 英语 instance",
+        "迫切要求、提出 → 可具体指出的事例"
+      ],
+      [
+        "instance + -s → instances",
+        "多个例子、具体情况"
+      ]
+    ],
+    "explanation": "in many instances 在许多情况下；several instances of delay 几次延误事例。",
+    "usage": "specific instances 具体例子；rare instances 少见的情况。",
+    "contrast": "instance 可以替换一部分 example，但常强调实际的一次表现、情况。for instance 例如是固定单数短语，不改成 for instances。",
+    "examples": [
+      [
+        "The report lists several instances of equipment failure.",
+        "报告列举了几次设备故障。"
+      ],
+      [
+        "In many instances, a short explanation was enough.",
+        "在许多情况下，简短说明就够了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/instances#English",
+      "https://en.wiktionary.org/wiki/instance#English"
+    ]
+  },
+  {
+    "word": "lifting",
+    "ipa": "/ˈlɪftɪŋ/",
+    "meaning": "举起、提升；解除〔现在分词、动名词〕",
+    "sense": "把原来压在下面、放在低处的东西提起来，是 lifting。限制被拿开，也像把压住人的盖子抬走。",
+    "split": "lift + -ing，直接相加。常见举升动词接古诺尔斯语 lypta，经中古英语 liften 延续；现代解除、提升情绪等由举升画面扩展。",
+    "history": [
+      [
+        "古诺尔斯语 lypta → 中古英语 liften → lift",
+        "往上抬、举起"
+      ],
+      [
+        "lift + -ing → lifting",
+        "正在提起；举升过程及解除等用法"
+      ]
+    ],
+    "explanation": "lifting a box 提起箱子；heavy lifting 繁重的搬运，也比喻艰苦的主要工作。",
+    "usage": "lifting restrictions 解除限制；lifting spirits 使人振作。",
+    "contrast": "lifting 的现在分词不表示已经完成；lifted 才是过去形式。heavy lifting 有时说实际搬运，有时说最费力的工作，要看上下文。",
+    "examples": [
+      [
+        "She is lifting the suitcase onto the shelf.",
+        "她正把行李箱举到架子上。"
+      ],
+      [
+        "The team did most of the heavy lifting.",
+        "团队承担了大部分艰苦工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lifting#English",
+      "https://en.wiktionary.org/wiki/lift#English"
+    ]
+  },
+  {
+    "word": "panels",
+    "ipa": "/ˈpænəlz/",
+    "meaning": "板块、面板；讨论小组、专家组〔复数〕",
+    "sense": "墙面、机器上独立的一片是 panel；被列为一组、一起讨论的人也能叫 panel。panels 就是这样的一片片或一组组。",
+    "split": "panel + -s，/l/ 后读 /z/。panel 经法语接拉丁 pannus 布的指小材料；板片由小片材料发展，人员组则联系记录名单的材料。",
+    "history": [
+      [
+        "拉丁小布片词族 → 法语 panel → 英语 panel",
+        "一小片材料 → 板片；名单材料 → 人员小组"
+      ],
+      [
+        "panel + -s → panels",
+        "多个面板、小组；另可作镶板动词三单"
+      ]
+    ],
+    "explanation": "solar panels 太阳能电池板；wooden panels 木质板块；discussion panels 讨论小组。",
+    "usage": "control panels 控制面板；panels of experts 多个专家组。",
+    "contrast": "panels 的板片和人员组都有历史路线，不必想成专家坐在板上。名词 panel 一个小组本身可含多人，panels 数的是小组。",
+    "examples": [
+      [
+        "Solar panels cover the roof.",
+        "太阳能电池板铺在屋顶上。"
+      ],
+      [
+        "Two panels of experts reviewed the proposals.",
+        "两个专家组审查了这些提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/panels#English",
+      "https://en.wiktionary.org/wiki/panel#English"
+    ]
+  },
+  {
+    "word": "pretending",
+    "ipa": "/prɪˈtendɪŋ/",
+    "meaning": "假装、装作〔现在分词、动名词〕",
+    "sense": "真实情况不是那样，却把那个样子摆出来给别人看，就是 pretending。小孩玩角色游戏，也常用这个词。",
+    "split": "pretend + -ing。pretend 经法语 pretendre 接拉丁 praetendere，prae- 在前与 tendere 伸展：把某种理由、样子放在前面，后发展假装义。",
+    "history": [
+      [
+        "拉丁 praetendere → 法语 pretendre → pretend",
+        "摆在前面、声称 → 假装"
+      ],
+      [
+        "pretend + -ing → pretending",
+        "正在装作；假装这个动作"
+      ]
+    ],
+    "explanation": "pretending to sleep 假装睡觉；pretending that nothing happened 装作什么都没发生。",
+    "usage": "stop pretending 别装了；just pretending 只是在假扮、装样子。",
+    "contrast": "pretending to do 里的 to 后接原形；不能因为 pretending 已经是 ing，就把后面的动词也机械改成 ing。",
+    "examples": [
+      [
+        "He was pretending to read the newspaper.",
+        "他当时装作在看报纸。"
+      ],
+      [
+        "The children are pretending to be astronauts.",
+        "孩子们正在假扮宇航员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pretending#English",
+      "https://en.wiktionary.org/wiki/pretend#English"
+    ]
+  },
+  {
+    "word": "priorities",
+    "ipa": "英 /praɪˈɒrətiz/；美 /praɪˈɔːrətiz/",
+    "meaning": "优先事项；优先次序〔复数〕",
+    "sense": "时间、精力有限，先保哪几件事，就是你的 priorities。它说哪些事情放前面，不只是心里喜欢什么。",
+    "split": "priority 的辅音字母加 y 改为 ies，结尾 /tiz/。priority 经法语或直接接中世纪拉丁 prioritas，与 prior 居前相关；英语名词出现早于现代 prior 形容词。",
+    "history": [
+      [
+        "拉丁 prior → prioritas → 法语或英语 priority",
+        "居前的地位 → 先处理的事项"
+      ],
+      [
+        "priority → priorities",
+        "多项优先事项、轻重次序"
+      ]
+    ],
+    "explanation": "set priorities 确定轻重次序；different priorities 不同的优先事项。",
+    "usage": "top priorities 最重要的事项；changing priorities 改变中的重点。",
+    "contrast": "priorities 是可数事项；give priority to 强调给予优先地位，priority 可以不数。历史联系 prior，不代表这个名词一定在英语内部由形容词新造。",
+    "examples": [
+      [
+        "We need to agree on our priorities.",
+        "我们需要就哪些事优先达成一致。"
+      ],
+      [
+        "Her priorities changed after the move.",
+        "搬家后，她看重的优先事项变了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/priorities#English",
+      "https://en.wiktionary.org/wiki/priority#English"
+    ]
+  },
+  {
+    "word": "proves",
+    "ipa": "/pruːvz/",
+    "meaning": "证明、证实；结果表明是〔第三人称单数〕",
+    "sense": "把证据拿出来，让原来的说法站得住，是 proves；实际结果也能自己说明某事是真是假。",
+    "split": "prove + -s，/v/ 后读 /z/。prove 经法语 prover 等接拉丁 probare 检验、认可，与 probus 可靠、好的相连；古英语也有同源借词。",
+    "history": [
+      [
+        "拉丁 probare → 法语 prover 等 → prove",
+        "检验是否可靠 → 证明"
+      ],
+      [
+        "prove + -s → proves",
+        "证据、结果或某人证实一件事"
+      ]
+    ],
+    "explanation": "proves a point 证实一个观点；proves useful 结果很有用；proves to be difficult 结果很难。",
+    "usage": "proves that... 证明……；proves nothing 什么也证明不了。",
+    "contrast": "proves useful 后面直接接形容词，意思是结果显示有用。proves 是现在三单，过去式是 proved；分词还常见 proven。",
+    "examples": [
+      [
+        "The photograph proves that they met.",
+        "照片证明他们见过面。"
+      ],
+      [
+        "The extra pocket proves useful on long walks.",
+        "走远路时，那个额外口袋还真有用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proves#English",
+      "https://en.wiktionary.org/wiki/prove#English"
+    ]
+  },
+  {
+    "word": "purchasing",
+    "ipa": "英 /ˈpɜːtʃəsɪŋ/；美 /ˈpɜːrtʃəsɪŋ/",
+    "meaning": "购买、采购〔现在分词、动名词〕",
+    "sense": "把需要的东西买到手，是 purchasing。公司里说 purchasing，常是负责采购、选货下单的那项工作。",
+    "split": "purchase 去结尾不发音 e，再加完整 -ing。它经法语旧词接追求、设法取得的意思，后收窄出常见花钱购买义。",
+    "history": [
+      [
+        "法语追逐、设法获得词 → purchase",
+        "追求取得 → 购买"
+      ],
+      [
+        "purchase 去 e + -ing → purchasing",
+        "购买过程；采购工作"
+      ]
+    ],
+    "explanation": "purchasing equipment 购买设备；a purchasing department 采购部门。",
+    "usage": "purchasing power 购买力；before purchasing 购买前。",
+    "contrast": "purchasing 比 buying 更常见于正式、商业语境。purchasing power 是购买力，不是某件买来的东西所具有的机械力量。",
+    "examples": [
+      [
+        "The company is purchasing new equipment.",
+        "公司正在购买新设备。"
+      ],
+      [
+        "She works in the purchasing department.",
+        "她在采购部门工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purchasing#English",
+      "https://en.wiktionary.org/wiki/purchase#English"
+    ]
+  },
+  {
+    "word": "qualities",
+    "ipa": "英 /ˈkwɒlətiz/；美 /ˈkwɑːlətiz/",
+    "meaning": "特质、特点；优点〔复数〕",
+    "sense": "说一个人耐心、诚实，一种材料柔软、耐用，是在列它有哪些 qualities。数的是一个个性质、特点。",
+    "split": "quality 的辅音字母加 y 改为 ies，结尾 /tiz/。quality 经法语接拉丁 qualitas，较早 qualis 是什么样，先抓住性质而不是只背质量好坏。",
+    "history": [
+      [
+        "拉丁 qualis → qualitas → 法语 → quality",
+        "什么样 → 性质、特点、质量"
+      ],
+      [
+        "quality → qualities",
+        "多种性质、优点"
+      ]
+    ],
+    "explanation": "leadership qualities 领导者所需特质；personal qualities 个人品质。",
+    "usage": "useful qualities 有用特性；the qualities of a material 一种材料的特点。",
+    "contrast": "qualities 常数具体特质；the quality of the work 通常说工作整体质量。不能所有场合都把 qualities 译成多个质量。",
+    "examples": [
+      [
+        "Patience is one of her best qualities.",
+        "耐心是她最好的品质之一。"
+      ],
+      [
+        "The fabric has several useful qualities.",
+        "这种面料有几种实用特性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/qualities#English",
+      "https://en.wiktionary.org/wiki/quality#English"
+    ]
+  },
+  {
+    "word": "reforms",
+    "ipa": "英 /rɪˈfɔːmz/；美 /rɪˈfɔːrmz/",
+    "meaning": "改革措施〔复数〕；改革、改造〔第三人称单数〕",
+    "sense": "旧制度的形状不好用，把它重新改一改，让它运作更好，是 reform；具体的几项改法便是 reforms。",
+    "split": "reform + -s，/m/ 后读 /z/。reform 经古法语 reformer 接拉丁 reformare，re- 重新加 formare 塑形。",
+    "history": [
+      [
+        "拉丁 reformare → 法语 reformer → reform",
+        "重新塑形 → 改革制度、改善行为"
+      ],
+      [
+        "reform + -s → reforms",
+        "多项改革；某人、某制度作出改善"
+      ]
+    ],
+    "explanation": "education reforms 教育改革措施；introduce reforms 推行改革。",
+    "usage": "a series of reforms 一系列改革；reforms the system 改革制度。",
+    "contrast": "reform 可作泛指改革的不可数名词，reforms 常指具体几项措施。它带改善的目标，但词本身并不证明任何一项现实改革必然成功。",
+    "examples": [
+      [
+        "The committee proposed several reforms.",
+        "委员会提出了几项改革措施。"
+      ],
+      [
+        "The report examines recent education reforms.",
+        "报告考察了近期的教育改革。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reforms#English",
+      "https://en.wiktionary.org/wiki/reform#English"
+    ]
+  },
+  {
+    "word": "revenues",
+    "ipa": "英 /ˈrevənjuːz/；美 /ˈrevənuːz/",
+    "meaning": "收入、收益〔复数〕",
+    "sense": "卖东西、提供服务后回到机构的钱，是 revenue。revenues 常把不同渠道、项目的收入合起来说。",
+    "split": "revenue + -s，元音后读 /z/。revenue 经法语接 revenir 回来的词族，根在拉丁 re- 回与 venire 来，回来的东西发展成回报、收入。",
+    "history": [
+      [
+        "拉丁 revenire → 法语 revenir、revenue → revenue",
+        "回来 → 回报、收入"
+      ],
+      [
+        "revenue + -s → revenues",
+        "不同渠道、时期的收入，或收入的复数说法"
+      ]
+    ],
+    "explanation": "advertising revenues 广告收入；ticket revenues 票务收入；annual revenues 年度收入。",
+    "usage": "revenues from sales 销售收入；rising revenues 增长的收入。",
+    "contrast": "revenues 通常还没有扣掉全部成本，不等同于 profits 利润。它和 revenue 单数、不可数用法常可按表达角度互换。",
+    "examples": [
+      [
+        "Advertising revenues fell during the year.",
+        "这一年广告收入下降了。"
+      ],
+      [
+        "The museum uses ticket revenues to support its exhibitions.",
+        "博物馆用门票收入支持展览。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revenues#English",
+      "https://en.wiktionary.org/wiki/revenue#English"
+    ]
+  },
+  {
+    "word": "rides",
+    "ipa": "/raɪdz/",
+    "meaning": "骑、乘坐〔第三人称单数〕；乘坐经历、游乐设施〔复数〕",
+    "sense": "人坐在某种能带自己走的东西上，就是 ride 的乘行画面。rides 可以说某人骑车，也可以数一趟趟乘坐、一个个游乐项目。",
+    "split": "ride + -s，/d/ 后读 /z/。ride 继承古英语 ridan 的骑乘动词；现代名词指一次乘行及相关设施。",
+    "history": [
+      [
+        "古英语 ridan → ride",
+        "骑乘着移动 → 乘坐经历等名词义"
+      ],
+      [
+        "ride + -s → rides",
+        "某人骑乘；多趟乘坐、多个游乐项目"
+      ]
+    ],
+    "explanation": "rides a bike 骑自行车；long train rides 长途火车旅程；fairground rides 游乐场项目。",
+    "usage": "gives people rides 开车捎人；rides to work 骑车、乘车上班。",
+    "contrast": "rides 是现在三单或名词复数；rode 是过去式，ridden 是分词。英语说 ride a bike，开普通汽车通常说 drive a car。",
+    "examples": [
+      [
+        "She rides her bike to work.",
+        "她骑自行车上班。"
+      ],
+      [
+        "The children tried three rides at the fair.",
+        "孩子们在游园会上玩了三个游乐项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rides#English",
+      "https://en.wiktionary.org/wiki/ride#English"
+    ]
+  },
+  {
+    "word": "ripped",
+    "ipa": "/rɪpt/",
+    "meaning": "撕开、扯破了；撕裂的〔过去式、过去分词〕；肌肉线条分明的",
+    "sense": "用力一扯，原来连在一起的东西裂开，是 ripped。衣服可以是扯破的，口语形容身材时又有线条鲜明的另一个常见用法。",
+    "split": "rip 双写 p，再加完整 -ed；/p/ 后读 /t/。rip 接中古英语 rippen 等，较早北海日耳曼、北欧来源关系不全确定。",
+    "history": [
+      [
+        "中古英语 rippen 等 → rip",
+        "撕开、扯裂"
+      ],
+      [
+        "rip 双写 p + -ed → ripped",
+        "已经撕开；扯破的，以及后来的口语形容词用法"
+      ]
+    ],
+    "explanation": "ripped jeans 破洞牛仔裤；ripped the envelope open 撕开信封；get ripped 练得肌肉线条明显。",
+    "usage": "ripped a page out 撕下一页；ripped apart 撕碎、扯开。",
+    "contrast": "ripped 的双 p 是短元音后重读单音节的常见拼写规则，读音仍只有一个 /p/。ripped jeans 说破洞风格，不必理解成刚被人撕坏。",
+    "examples": [
+      [
+        "She ripped the envelope open.",
+        "她撕开了信封。"
+      ],
+      [
+        "He wore a pair of ripped jeans.",
+        "他穿着一条破洞牛仔裤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ripped#English",
+      "https://en.wiktionary.org/wiki/rip#English"
+    ]
+  },
+  {
+    "word": "shadows",
+    "ipa": "英 /ˈʃædəʊz/；美 /ˈʃædoʊz/",
+    "meaning": "影子、阴影〔复数〕；跟随观察、笼罩〔第三人称单数〕",
+    "sense": "光被挡住，旁边留下影子；一个人紧贴着另一个人跟随，也像他的影子。shadows 把这两幅画面连起来。",
+    "split": "shadow + -s，元音后读 /z/。shadow 与 shade 承古英语 sceadu 的不同词形路线，不是现代 shade 临时加 ow。跟随动词由影子关系扩展。",
+    "history": [
+      [
+        "古英语 sceadu 及相关形式 → shadow",
+        "遮光、投影 → 贴身跟随等比喻"
+      ],
+      [
+        "shadow + -s → shadows",
+        "多个影子；某人跟随观察另一人"
+      ]
+    ],
+    "explanation": "long shadows 长长的影子；in the shadows 在暗处；shadows a colleague 跟岗观察同事。",
+    "usage": "cast shadows 投下影子；shadows on the wall 墙上的影子。",
+    "contrast": "shadows 可以指可辨轮廓的投影，也可以泛说暗处。职业学习里的 shadows someone 常是跟岗，不等于秘密跟踪。",
+    "examples": [
+      [
+        "The trees cast long shadows across the road.",
+        "树木在路上投下长长的影子。"
+      ],
+      [
+        "The trainee shadows an experienced colleague.",
+        "实习生跟随一位有经验的同事学习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shadows#English",
+      "https://en.wiktionary.org/wiki/shadow#English"
+    ]
+  },
+  {
+    "word": "switching",
+    "ipa": "/ˈswɪtʃɪŋ/",
+    "meaning": "切换、转换；调换〔现在分词、动名词〕",
+    "sense": "原来走这条路、用这个选项，现在拨到另一边，是 switching。重点是从一个状态、对象转到另一个。",
+    "split": "switch + -ing。switch 的早期细枝名可能接低地德语、荷兰语相关词，机械切换用法也可能另有借入影响；现代切换义不必硬串成鞭子打成开关。",
+    "history": [
+      [
+        "早期细枝词；后来的机械道岔、开关用法 → switch",
+        "相关历史分支关系并非全已确定；现代形成切换义"
+      ],
+      [
+        "switch + -ing → switching",
+        "从一路、一个状态切到另一路"
+      ]
+    ],
+    "explanation": "switching seats 调换座位；switching between tasks 在任务间切换；switching off 关掉。",
+    "usage": "switching to another channel 换到另一个频道；switching from paper to digital 从纸质转为电子形式。",
+    "contrast": "switching to 指转到的目标，switching from 指原先的对象；between 则把两个或多个来回切换的选项摆出来。",
+    "examples": [
+      [
+        "We are switching to a simpler system.",
+        "我们正在改用更简单的系统。"
+      ],
+      [
+        "She kept switching between the two windows.",
+        "她不断在两个窗口之间切换。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switching#English",
+      "https://en.wiktionary.org/wiki/switch#English"
+    ]
+  },
+  {
+    "word": "traveled",
+    "ipa": "/ˈtrævəld/",
+    "meaning": "旅行、行进过〔过去式、过去分词〕；有旅行经历的",
+    "sense": "人走过一段旅程，消息也从一处传到另一处，都可以说 traveled。它不只限于出去度假。",
+    "split": "travel + -ed，美式通常 traveled，英式通常 travelled；两种读音相同，/l/ 后读 /d/。travel 是中古英语 travail 辛劳词的变体，更早刑具到辛劳、出行的桥梁有疑问。",
+    "history": [
+      [
+        "法语 travailler、travail → 中古英语 travail、travel",
+        "辛劳、艰难行程 → 旅行、移动"
+      ],
+      [
+        "travel + -ed → traveled；英式常双写 l",
+        "已经旅行、行进、传到别处"
+      ]
+    ],
+    "explanation": "traveled by train 乘火车旅行；traveled widely 到过很多地方；news traveled 消息传开。",
+    "usage": "the distance traveled 走过的距离；a widely traveled person 游历广泛的人。",
+    "contrast": "traveled 与 travelled 是常见美英拼写差别，不是两个时态。travel 通常不直接用普通地点作宾语，说 traveled to the city。",
+    "examples": [
+      [
+        "We traveled by train across the country.",
+        "我们乘火车穿行全国。"
+      ],
+      [
+        "The news traveled quickly through the village.",
+        "消息很快传遍了村庄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traveled#English",
+      "https://en.wiktionary.org/wiki/travel#English"
+    ]
+  }
+]

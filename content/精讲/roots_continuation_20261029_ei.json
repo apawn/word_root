@@ -1,0 +1,114 @@
+[
+  {
+    "id": "B3634",
+    "meaning": "跟随、遵循与关注",
+    "core": "FOLLOW：脚步、做法、思路都能跟上",
+    "image": "从实际跟随走到指令、思路与平台关注，再接 follower、unfollow。",
+    "intro": "古英语继承词的现代扩展很直观，但平台关注不自动等于忠诚拥护。",
+    "forms": "follow → follower；un- + follow → unfollow。\n\nfollowing 可作动词、形容词、介词和名词，分别用跟在后面的画面理解。\n\nfollowed 词尾读 /d/；was followed by 说后面接着什么，followed by 可缩成修饰结构。\n\n沿着脚步走，延伸到沿规则、线索与思路走。\n\n本族跟随动词加人物 er，现代社交平台义后扩展。",
+    "branches": [
+      [
+        "动作、人物与解除动作",
+        "follow · follower · unfollow"
+      ],
+      [
+        "follow → following：跟随、接下来的与追随群体",
+        "follow · following"
+      ],
+      [
+        "follow → followed：跟随、遵循与随后发生",
+        "follow · followed"
+      ],
+      [
+        "follow → follows：跟随、遵循与理解",
+        "follow · follows"
+      ],
+      [
+        "follow → follower → followers：跟随、关注的人",
+        "follow · follower · followers"
+      ]
+    ],
+    "contrasts": "I do not follow 可以说没理解；follower 不一定粉丝；unfollow 不等于 block。",
+    "practice": "Some followers unfollowed the account after the change.\n\n改动后，一些关注者取消了关注。",
+    "words": [
+      "follow",
+      "follower",
+      "unfollow",
+      "following",
+      "followed",
+      "follows",
+      "followers"
+    ],
+    "exclude": {
+      "follow-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2724",
+    "meaning": "运气与碰巧现成的餐食",
+    "core": "LUCK：自己不能完全控制的顺与不顺",
+    "image": "基本 luck 之后读 lucky、luckless；potluck 从锅里现成的食物讲到大家带菜。",
+    "intro": "借低地地区日耳曼运气词，远源未定。potluck 可按 pot 和 luck 解释，不借相似外语词编来源。",
+    "forms": "luck → lucky、luckless；pot + luck → potluck。\n\nluck 借荷兰或低地德语运气材料，英语加 y 后再比较。",
+    "branches": [
+      [
+        "基本词与状态",
+        "luck · lucky · luckless"
+      ],
+      [
+        "餐食习俗",
+        "potluck"
+      ],
+      [
+        "lucky → luckier → luckiest：更幸运、最幸运",
+        "lucky · luckier · luckiest"
+      ]
+    ],
+    "contrasts": "luck 可好可坏，lucky 已偏好运；potluck 不等于所有自助餐。",
+    "practice": "With any luck, everyone will bring something different to the potluck.\n\n运气好的话，大家会给聚餐带来不同的菜。",
+    "words": [
+      "luck",
+      "lucky",
+      "luckless",
+      "potluck",
+      "luckier",
+      "luckiest"
+    ],
+    "exclude": {
+      "hard-luck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3533",
+    "meaning": "塑形词族的图案与小模型扩展",
+    "core": "FIGURE：形状、人物、数字与推断在不同搭配中分开",
+    "image": "已有 figure、figurine、figurehead 一起读，接 figured 的两条用法与 minifigure 小人偶。",
+    "intro": "词族经法语接拉丁塑形、形状词。现代想明白不必画成真实捏泥，也不能把一切 figure 都译数字。",
+    "forms": "figure → figured、figurine；figure + head → figurehead；mini- + figure → minifigure。\n\nfigure 接法语 figurer、拉丁 figurare 塑形。数字与计算等用法发展；去 e 加完整 -ing，figure out 是弄明白。",
+    "branches": [
+      [
+        "基本词与过去形式",
+        "figure · figured"
+      ],
+      [
+        "小模型与代表人物",
+        "figurine · minifigure · figurehead"
+      ],
+      [
+        "figure 成形、计算 → figuring",
+        "figuring"
+      ]
+    ],
+    "contrasts": "figured out 想明白，figured silk 有图案丝绸；minifigure 是玩具小人偶的常见称呼。",
+    "practice": "She figured out how to assemble the minifigure.\n\n她弄明白了怎样组装小人偶。",
+    "words": [
+      "figure",
+      "figured",
+      "figurine",
+      "minifigure",
+      "figurehead",
+      "figuring"
+    ],
+    "exclude": {}
+  }
+]

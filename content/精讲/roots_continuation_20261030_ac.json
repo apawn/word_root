@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B3102",
+    "meaning": "危险、害怕与让别人畏惧",
+    "core": "FEAR：先看谁怕谁；后缀改变感受方向",
+    "image": "fear → feared、fearful、fearless、fearsome 紧挨着，用人和对手的关系辨别。",
+    "intro": "旧名词先指突发危险，后来侧重恐惧感受。旧动词也有使恐惧义，所以不能把现代所有后缀词都只归成自己害怕。",
+    "forms": "fear + -ed/-ful/-less/-some。\n\n古英语 faer 等突发危险材料，后来突出害怕感受；名词复数、动词三单同形。\n\n古英语危险、害怕材料到现代 fear，-ing 直接接在基础词后；没有不发音 e 需要删。",
+    "branches": [
+      [
+        "感受与被畏惧",
+        "fear · feared"
+      ],
+      [
+        "害怕、无畏与引起畏惧",
+        "fearful · fearless · fearsome"
+      ],
+      [
+        "fear → fears：外来的危险到心里的担忧",
+        "fear · fears"
+      ],
+      [
+        "fear → fearing：害怕作为进行中的感受",
+        "fear · fears · feared · fearing"
+      ]
+    ],
+    "contrasts": "feared 常别人怕它；fearful 常自己怕但也可吓人；fearless 无畏，fearsome 令别人畏惧。",
+    "practice": "The fearless player faced a fearsome opponent without showing fear.\n\n无畏的选手面对强大对手，没有流露恐惧。",
+    "words": [
+      "fear",
+      "feared",
+      "fearful",
+      "fearless",
+      "fearsome",
+      "fears",
+      "fearing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2420",
+    "meaning": "棕褐色、近似色与按颜色命名",
+    "core": "BROWN：颜色；BROWNISH：偏棕；BROWNIE：点心名",
+    "image": "先 brown、brownish，再 brownie 与 brownstone；brownfield 的已开发地块义共享旧精讲。",
+    "intro": "古英语深色词成为现代棕褐色名，动词说明上色。点心、石材住宅、开发地块各有固定命名历史。",
+    "forms": "brown + -ish/-ie；brown + stone/field。",
+    "branches": [
+      [
+        "颜色与程度",
+        "brown · brownish"
+      ],
+      [
+        "点心、石材与地块",
+        "brownie · brownstone · brownfield"
+      ]
+    ],
+    "contrasts": "brown 食物上色不一定烧焦；brownie 两个历史用法不画成前后变形；brownstone 不仅说颜色。",
+    "practice": "They served brownies in the café beneath the brownstone apartments.\n\n褐砂岩公寓楼下的咖啡馆供应布朗尼点心。",
+    "words": [
+      "brown",
+      "brownish",
+      "brownie",
+      "brownstone",
+      "brownfield"
+    ],
+    "exclude": {
+      "anti-brown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nut-brown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brown-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mono-brown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brownback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

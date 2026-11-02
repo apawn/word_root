@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B3199",
+    "meaning": "纸张；报纸、论文和各种纸相关用品",
+    "core": "PAPER：先是材料，再由材料指内容和用途",
+    "image": "some paper 是材料，a paper 可以是论文或报纸；纸板、墙纸、砂纸、镇纸按功能分清，无纸化再看流程变化。",
+    "intro": "paper 经法语等接希腊、拉丁纸莎草名称。词名沿用不代表古今材料工艺相同；papery 像纸、paperless 不用纸是一对很容易混的性质词。",
+    "forms": "paper → paperboard、papery、paperless；wallpaper 装饰、sandpaper 打磨、paperweight 压纸；报刊、文书和制造词集中作另一组。\n\npaper 材料名通常不可数，按用途计的一份份文件、论文则可数。\n\nclip 在此取夹持器具，前半给纸张用途。\n\n数字用途借大面积背景装饰的作用。\n\npaper 在组合里限定装订外层材料，不用来包括所有纸质书。",
+    "branches": [
+      [
+        "材料及质地",
+        "paper · paperboard · papery · papermaking"
+      ],
+      [
+        "减少纸张及文书",
+        "paperless · paperwork"
+      ],
+      [
+        "墙面、打磨和压纸用品",
+        "wallpaper · sandpaper · paperweight"
+      ],
+      [
+        "出版及投递",
+        "newspaper · paperback · paperboy"
+      ],
+      [
+        "paper → papers：材料、论文与证件",
+        "paper · papers"
+      ],
+      [
+        "paper + clip → paperclip → paperclips：回形针",
+        "paper · paperclip · paperclips"
+      ],
+      [
+        "wallpaper → wallpapers：墙面装饰与屏幕背景",
+        "wallpaper · wallpapers"
+      ],
+      [
+        "paperback → paperbacks：平装书",
+        "paperback · paperbacks"
+      ]
+    ],
+    "contrasts": "paper 材料不可数，a paper 可是论文；paperless 不等于没有文书工作；paperweight 是物件，不是纸重。",
+    "practice": "The paperless office still had wallpaper and a decorative paperweight.\n\n这间无纸化办公室里，仍有墙纸和装饰镇纸。",
+    "words": [
+      "paper",
+      "paperboard",
+      "papery",
+      "papermaking",
+      "paperless",
+      "paperwork",
+      "wallpaper",
+      "sandpaper",
+      "paperweight",
+      "newspaper",
+      "paperback",
+      "paperboy",
+      "papers",
+      "paperclip",
+      "paperclips",
+      "wallpapers",
+      "paperbacks"
+    ],
+    "exclude": {
+      "e-paper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "paperwhite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4208",
+    "meaning": "议题、问题、一期刊物；签发与发布",
+    "core": "ISSUE：现代场景先分，词源再接向外发出",
+    "image": "a key issue 是议题，the latest issue 是最新一期；issue a warning 是发布，issuer 和 issuance 只从发出这支继续扩展。",
+    "intro": "issue 经法语接拉丁向外走、流出词族；议题分支由争讼待定点等历史展开。不要为一个中文问题忽略出版、行政这些高频场景。",
+    "forms": "issue → issuance 动作、issuer 主体；re- 重新 → reissue。\n\nissue 接拉丁 exire 向外走的法语路线；议题义经过争点等历史发展，不把所有义逐字译成出口。\n\n向外走的早期词族，经发出用于票据、文件、声明与出版物。\n\nissue 远接拉丁 ex- 向外 + ire 去，经法语流出、出口的材料进入英语。现代去末尾 e 加 -ing，保留 u；发放、发布、流出用法各自说明。",
+    "branches": [
+      [
+        "基础多义及发行派生",
+        "issue · issuance · issuer · reissue"
+      ],
+      [
+        "issue → issues：议题、问题、刊物期次；发出",
+        "issue · issues"
+      ],
+      [
+        "issue → issued：向外发出、签发与发行",
+        "issue · issued"
+      ],
+      [
+        "向外走 → issue → issuing",
+        "issuing"
+      ]
+    ],
+    "contrasts": "issue 议题不一定故障；issuance 动作、issuer 主体；reissue 重发不保证修订。",
+    "practice": "The latest issue explains why the issuer decided to reissue the document.\n\n最新一期说明了签发机构为什么决定重新签发文件。",
+    "words": [
+      "issue",
+      "issuance",
+      "issuer",
+      "reissue",
+      "issues",
+      "issued",
+      "issuing"
+    ],
+    "exclude": {
+      "non-issue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

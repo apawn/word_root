@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B3562",
+    "meaning": "几个长词的缩称，不是统一古典词根",
+    "core": "OP：先补回原来的长词，再猜意思",
+    "image": "operation、operator 等都能缩出 op；optical、opportunity 等还出现在固定组合里。",
+    "intro": "缩词提高聊天效率，也丢掉线索。读到医院、频道、摄影或作品编号时，把场景作为第一判断依据。",
+    "forms": "operation/operator → op；optical art → op art；photo opportunity → photo op；opus → op.。",
+    "branches": [
+      [
+        "不同缩略路线",
+        "op"
+      ]
+    ],
+    "contrasts": "同字母不等于同一个词根；op、op.、OP 的意义要看完整表达和场景。",
+    "practice": "The channel op was organizing messages about a photo op.\n\n频道管理员正在整理有关合影机会的消息。",
+    "words": [
+      "op"
+    ],
+    "exclude": {
+      "half-op": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "post-op": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-op": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-op": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3677",
+    "meaning": "带种族偏见的性质或持这种偏见的人",
+    "core": "RACIST：既能指人，也能评价做法、言论",
+    "image": "race + -ist → racist；名词人物用法和形容词性质用法并存。",
+    "intro": "a racist remark 评价言论；a racist 指持相应偏见的人。不是所有表示 -ist 的词都只能当职业名词。",
+    "forms": "race 的种族分类用法 + -ist；racist 作名词、形容词。",
+    "branches": [
+      [
+        "人物与性质",
+        "racist"
+      ]
+    ],
+    "contrasts": "racist 不等于某一种族的人；讨论种族议题也不自动构成 racist，需看具体言论、行为的偏见与区别待遇。",
+    "practice": "The article explains why the remark was racist.\n\n文章解释了为什么那句言论带有种族歧视。",
+    "words": [
+      "racist"
+    ],
+    "exclude": {
+      "socio-racist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proto-racist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3349",
+    "meaning": "让作品公开，以及出版者与再次发表",
+    "core": "PUBLISH：把作品带到公众面前",
+    "image": "publish → publisher；republish 是再次出版、发表。",
+    "intro": "纸书、期刊、网站都能 publish。再次发表不要求重写，承担发表角色的人、机构则可叫 publisher。",
+    "forms": "公开相关法语、拉丁形式 → publish；publish + -er；re- + publish。\n\npublish 加完整 er，词干无末尾 e 可删；名词再加复数 s。",
+    "branches": [
+      [
+        "公开发表、机构角色与重发",
+        "publish · publisher · republish"
+      ],
+      [
+        "publish → publisher → publishers：出版的人与机构",
+        "publish · publisher · publishers"
+      ]
+    ],
+    "contrasts": "publisher 可指机构，不只某一个人；republish 不保证改写；publish 也不局限纸书。",
+    "practice": "The publisher plans to republish the author’s first collection.\n\n出版社计划重版作者的第一部作品集。",
+    "words": [
+      "publish",
+      "publisher",
+      "republish",
+      "publishers"
+    ],
+    "exclude": {
+      "e-publish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-publish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2442",
+    "meaning": "能否被接受、是否达到底线",
+    "core": "ACCEPTABLE：先问有没有达到接受标准",
+    "image": "acceptable → acceptably；unacceptable 把它否定，常明确表达拒绝。",
+    "intro": "可以接受不等于特别好，不能接受也要看什么标准。实物条件、行为、风险都可以这样评价。",
+    "forms": "accept 与 -able 相关 → acceptable；acceptable → acceptably；un- + acceptable。",
+    "branches": [
+      [
+        "标准、程度与否定",
+        "acceptable · acceptably · unacceptable"
+      ]
+    ],
+    "contrasts": "acceptably 不保证极好；unacceptable 侧重底线，常比一般不满意更强。",
+    "practice": "The first version worked acceptably, but the later failures were unacceptable.\n\n第一版运行尚可，后来的故障却让人无法接受。",
+    "words": [
+      "acceptable",
+      "acceptably",
+      "unacceptable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3466",
+    "meaning": "像冰的古老名称，发展成晶体与有序结构词族",
+    "core": "CRYSTAL：从透亮冰感，走到内部排列成形",
+    "image": "crystal → crystallize → crystallization；crystallography 研究晶体结构。想法成形借的是从散到定的画面。",
+    "intro": "透明是历史外观联想，微观有序才是科学晶体概念的核心；精制玻璃器皿又是名称的另一实际用法。",
+    "forms": "krýos → krýstallos → crystallus 等 → crystal；crystall- + -ize/-ization/-ography。\n\n希腊寒霜、清冰材料；现代晶体不要求透明。",
+    "branches": [
+      [
+        "晶体、变化与过程",
+        "crystal · crystallize · crystallization"
+      ],
+      [
+        "研究结构的学科",
+        "crystallography"
+      ],
+      [
+        "crystal → crystals：清冰词到晶体名称",
+        "crystal · crystals"
+      ]
+    ],
+    "contrasts": "晶体不必透明，水晶不是所有晶体；crystal 器皿未必科学晶体；ll 有古典词干背景；思想 crystallize 不保证正确。",
+    "practice": "Crystallography helps explain the structures formed during crystallization.\n\n晶体学帮助解释结晶过程中形成的结构。",
+    "words": [
+      "crystal",
+      "crystallize",
+      "crystallization",
+      "crystallography",
+      "crystals"
+    ],
+    "exclude": {}
+  }
+]

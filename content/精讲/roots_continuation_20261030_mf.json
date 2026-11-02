@@ -1,0 +1,218 @@
+[
+  {
+    "id": "B4270",
+    "meaning": "从微小物质单元到分子层面的性质与位置",
+    "core": "MOLECULAR：放大到分子，再看作用发生在里面还是之间",
+    "image": "molecule → molecular；inter- 之间、intra- 内部、bio- 生物相关。",
+    "intro": "molecule 的指小词尾保留命名历史，molecular 把名称变成性质。两种位置前缀尤其适合对照：分子内与分子间不是同一尺度。",
+    "forms": "mōlēs → 指小 molecula → 法语 molécule → molecule；-ar 形容词，另有法语、拉丁相应形式。\n\n法语、现代拉丁 molecula 接 moles，一小团的构词历史不等于现代科学定义只按大小判断。",
+    "branches": [
+      [
+        "分子与相关性质",
+        "molecule · molecular"
+      ],
+      [
+        "相互位置与领域",
+        "intramolecular · intermolecular · biomolecular"
+      ],
+      [
+        "molecule → molecules：拉丁指小材料到现代分子名",
+        "molecule · molecules"
+      ]
+    ],
+    "contrasts": "原子与分子分清；-cule 指小是词源，不能凭词尾判断具体分子有多大。",
+    "practice": "The molecular model shows one molecule, while the diagram also marks intermolecular interactions.\n\n分子模型展示一个分子，图中还标出了分子间作用。",
+    "words": [
+      "molecule",
+      "molecular",
+      "intramolecular",
+      "intermolecular",
+      "biomolecular",
+      "molecules"
+    ],
+    "exclude": {
+      "macromolecular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "supramolecular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3622",
+    "meaning": "旧船缆、废材变成杂物名，再区分品质和人物词",
+    "core": "JUNK：旧东西堆成一堆，评价与人物称呼再分支",
+    "image": "junk → junky、junkyard；junkie 接毒品俚语及爱好比喻。",
+    "intro": "废旧物这一路解释杂物、低劣品质和废品场；人物名要接特定旧俚语再看夸张用法。帆船 junk 是另一来源。",
+    "forms": "中古英语旧船缆词 → junk 杂物；-y 性质，yard 场地；junkie 的 -ie 标人物。",
+    "branches": [
+      [
+        "杂物、性质及场地",
+        "junk · junky · junkyard"
+      ],
+      [
+        "人物称呼及强烈爱好比喻",
+        "junkie"
+      ]
+    ],
+    "contrasts": "帆船义另源；junky 常形容词，junkie 常人物名；爱好比喻不等于诊断。",
+    "practice": "The junkyard was filled with junky old cars.\n\n废品场里满是破旧汽车。",
+    "words": [
+      "junk",
+      "junky",
+      "junkyard",
+      "junkie"
+    ],
+    "exclude": {
+      "junker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4168",
+    "meaning": "话面与本意、预期与结果之间的反讽落差",
+    "core": "IRONY：你以为朝这边，话意或结果却转向另一边",
+    "image": "irony → ironic。",
+    "intro": "既可以是说反话，也可以是事情的发展反过来讽刺了原本的期待。不要只背讽刺两个字，要指出落差在哪里。",
+    "forms": "希腊 eirōneía、eirōnikós 经拉丁、法语相应形式；irony 名词，ironic 形容性质。",
+    "branches": [
+      [
+        "反讽现象与性质",
+        "irony · ironic"
+      ]
+    ],
+    "contrasts": "ironic 不总是嘲笑某个人；单纯意外与反讽落差在精确写作里要分清。",
+    "practice": "She noticed the irony and described the result as ironic.\n\n她看出了其中的反讽意味，认为结果颇具讽刺性。",
+    "words": [
+      "irony",
+      "ironic"
+    ],
+    "exclude": {
+      "post-irony": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meta-irony": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3885",
+    "meaning": "猛踩、猛压留下印记，再到盖章与邮票",
+    "core": "STAMP：压下去，留一个可辨认的痕迹",
+    "image": "stamp → stamper；timestamp 把时间记录作为标记。",
+    "intro": "脚踩与盖章共享向下用力的动作，邮票则是标记用途进一步转移。timestamp 不一定真有墨章，而是留下时间信息。",
+    "forms": "stempan、stampen → stamp；-er 工具、人物；time + stamp → timestamp。\n\nstampede 经墨西哥西班牙 estampida，较早通过罗曼语接日耳曼踏压材料，非现代英语 stamp 现场加 ede。",
+    "branches": [
+      [
+        "印记、工具与盖印者",
+        "stamp · stamper"
+      ],
+      [
+        "时间标记",
+        "timestamp"
+      ],
+      [
+        "stamp 与 stampede：踏、跺到群体惊奔",
+        "stamp · stamps · stampede · stampedes · stampeding"
+      ]
+    ],
+    "contrasts": "stamp 可以印章或邮票，stamper 常工具、人；timestamp 不要求纸面盖章。",
+    "practice": "The date stamper left a clear stamp on the envelope.\n\n日期印章在信封上留下了清晰印记。",
+    "words": [
+      "stamp",
+      "stamper",
+      "timestamp",
+      "stamps",
+      "stampede",
+      "stampedes",
+      "stampeding"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1730",
+    "meaning": "对面、反向、抵消、回应，前缀不只一种中文",
+    "core": "COUNTER-：朝相反方向，也能站到对应位置",
+    "image": "counterpart 对应者；counteract 抵消；counterexample 反例；counterpunch 反击。",
+    "intro": "先看两边的关系：相对应、朝反向、抵消效果、回应攻击，都是对面这一画面的不同发展。逐词选合适中文。",
+    "forms": "拉丁 contrā 经法语 contre 等 → counter-；接名词、动词、形容词形成相应复合词。\n\ncounterpart 经法语 contrepartie 相对的副本、对应部分，现代复数常说不同机构、情境中职责对应的人或物，不必是对手。",
+    "branches": [
+      [
+        "对应位置和主体",
+        "counterpart · counterparty"
+      ],
+      [
+        "抵消、平衡与效果",
+        "counteract · counterbalance · counterweight · counterproductive"
+      ],
+      [
+        "思想、推理和主张",
+        "counterintuitive · counterexample · counterfactual · counterclaim · counterpoint"
+      ],
+      [
+        "方向与回应行动",
+        "counterclockwise · counterpunch · countermeasure · counterstrike · counterintelligence"
+      ],
+      [
+        "文化取向",
+        "counterculture · countercultural"
+      ],
+      [
+        "counter- 对应 + part → counterparts",
+        "counterparts"
+      ]
+    ],
+    "contrasts": "counterpart 不一定敌手；counterintuitive 不一定错；反例针对的断言范围要看清。",
+    "practice": "Her counterpart offered a counterexample to the apparently intuitive claim.\n\n与她同职的对方人员，给那个看似符合直觉的说法举了一个反例。",
+    "words": [
+      "counterpart",
+      "counterparty",
+      "counteract",
+      "counterbalance",
+      "counterweight",
+      "counterproductive",
+      "counterintuitive",
+      "counterexample",
+      "counterfactual",
+      "counterclaim",
+      "counterpoint",
+      "counterclockwise",
+      "counterpunch",
+      "countermeasure",
+      "counterstrike",
+      "counterintelligence",
+      "counterculture",
+      "countercultural",
+      "counterparts"
+    ],
+    "exclude": {
+      "counter-time": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-meet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-attack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-earth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-trial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-magic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-offensive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-castle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-economics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-intention": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-terrorism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-inflation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-password": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-genocide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-authoritarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-commute": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-rampant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-parry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-imperialism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-sectarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-imperialist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-revisionist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-argumentative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-terrorize": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-apologist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-canter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-cartography": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-apologetics": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-courant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counterinsurgency": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-ermine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-internationalism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-cultist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counterrevolutionary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

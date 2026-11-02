@@ -1,0 +1,141 @@
+[
+  {
+    "id": "B2636",
+    "meaning": "艺术、创作与粉丝作品",
+    "core": "ART：艺术；FANART：围绕喜爱作品再创作",
+    "image": "art、artwork、artbook 已有精讲，新增 fanart；artful、artless、arty 的性质义一起复习。",
+    "intro": "art 源于拉丁艺术、技艺词；fanart 是现代英语把粉丝身份与美术创作组合起来。",
+    "forms": "art + work/book/-y/-ful/-less；fan + art → fanart。\n\nart 旧指学习实践所得技能；arts 可统称艺术门类，也保留人文学科和技艺的历史范围，具体学科边界依课程名称而定。\n\n本组与 art 作艺术展览场景比较，gallery 不从拉丁 ars 派生；它经古法语 galerie、中古拉丁 galeria，远源未定。",
+    "branches": [
+      [
+        "艺术与作品",
+        "art · artwork · artbook · fanart"
+      ],
+      [
+        "风格与性质",
+        "arty · artful · artless"
+      ],
+      [
+        "arts：技能、艺术与人文学科的范围",
+        "art · arts"
+      ],
+      [
+        "gallery：从长廊到画廊、图片集",
+        "gallery · galleries"
+      ]
+    ],
+    "contrasts": "fanart 非必然官方；artful 可巧妙或狡猾，artless 可天真，不能一概按有无艺术翻译。",
+    "practice": "Her artbook contains both original artwork and fanart.\n\n她的画集既有原创美术，也有同人创作。",
+    "words": [
+      "art",
+      "artwork",
+      "artbook",
+      "fanart",
+      "arty",
+      "artful",
+      "artless",
+      "arts",
+      "gallery",
+      "galleries"
+    ],
+    "exclude": {
+      "anti-art": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eco-art": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4056",
+    "meaning": "参与游戏、演出和角色装扮的人",
+    "core": "PLAYER：参与者，具体参与什么看前部",
+    "image": "player、multiplayer 已有精讲，cosplayer 接角色装扮活动，跨语言混成历史另讲。",
+    "intro": "player 是 play 的人物词；cosplayer 所属词族经过日语用英语成分造词再传播，不把 cos 当随意可加的万能前缀。",
+    "forms": "play + -er → player；multi- + player；costume/play 的日语混成 cosplay → cosplayer。",
+    "branches": [
+      [
+        "基本参与者与多人模式",
+        "player · multiplayer"
+      ],
+      [
+        "角色装扮人物",
+        "cosplayer"
+      ]
+    ],
+    "contrasts": "cosplayer 不必职业演员；multiplayer 常形容多人模式；相同 player 后部不能替代整词场景。",
+    "practice": "The game’s players met cosplayers at the convention.\n\n游戏玩家在展会上见到了角色扮演者。",
+    "words": [
+      "player",
+      "multiplayer",
+      "cosplayer"
+    ],
+    "exclude": {
+      "flute-player": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2519",
+    "meaning": "参照标准、统一与非标准形式",
+    "core": "STANDARD：选定参照；STANDARDIZE：让做法一致",
+    "image": "standard 已精讲，standardize 与 standardise 放一起，接 nonstandard，再对照已有 substandard。",
+    "intro": "基础词由标识、标杆等历史发展出参照要求。现代后缀说使符合，前缀 non- 说非标，sub- 常说低于标准。",
+    "forms": "standard + -ize/-ise；non-/sub- + standard。\n\nstandardize 在英语中由 standard + -ize 形成，现代去 e 加完整 -ed，/z/ 后读 /d/；使方法、格式按共同标准一致。",
+    "branches": [
+      [
+        "标准与统一动词",
+        "standard · standardize · standardise"
+      ],
+      [
+        "非标准与不达标",
+        "nonstandard · substandard"
+      ],
+      [
+        "standard 标准 + -ize → standardized",
+        "standardized"
+      ]
+    ],
+    "contrasts": "standardize 与 standardise 同义拼写；nonstandard 非标，substandard 常不达标，两者不相同。",
+    "practice": "We standardized the common parts but kept one nonstandard component.\n\n我们统一了通用零件，但保留了一个非标部件。",
+    "words": [
+      "standard",
+      "standardize",
+      "standardise",
+      "nonstandard",
+      "substandard",
+      "standardized"
+    ],
+    "exclude": {
+      "standard-wing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2481",
+    "meaning": "和平、维持和平与促成和解",
+    "core": "PEACE：让冲突平息；KEEPER：维护状态的人",
+    "image": "peace、peacekeeping 后接 peacekeeper，再按时期、性质与建设和平的已有词复习。",
+    "intro": "peace 的和平义来自法语、拉丁词族。keeper 是维护者，不与 maker 促成者完全同义。较冷的 makepeace 暂略。",
+    "forms": "peace + keeping/keeper/time/-able/building；peace + making。",
+    "branches": [
+      [
+        "基本和平、行动与人物",
+        "peace · peacekeeping · peacekeeper"
+      ],
+      [
+        "时期、性质与建设",
+        "peacetime · peaceable · peacebuilding · peacemaking"
+      ]
+    ],
+    "contrasts": "peacekeeper 常维持和平，peacemaker 常促成和解；peaceable 性情平和不等于只描述无战争时期。",
+    "practice": "The peacekeepers supported peacebuilding during the transition.\n\n过渡时期，维和人员支持和平建设。",
+    "words": [
+      "peace",
+      "peacekeeping",
+      "peacekeeper",
+      "peacetime",
+      "peaceable",
+      "peacebuilding",
+      "peacemaking"
+    ],
+    "exclude": {
+      "makepeace": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

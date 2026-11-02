@@ -1,0 +1,814 @@
+[
+  {
+    "word": "raccoon",
+    "ipa": "英、美 /rəˈkuːn/",
+    "meaning": "浣熊",
+    "sense": "黑色眼罩、蓬松的环纹尾巴，前爪常灵巧摆弄东西的动物，是 raccoon。名字的旧线索也常联系用手抓挠。",
+    "split": "借波瓦坦语等记录中的动物名称，英语早期有 arocoun 等多种拼写；原语言材料通常解释为用手抓挠，更远不按现代英语字母另拆。",
+    "history": [
+      [
+        "波瓦坦语的当地动物名 → 英语早期 arocoun 等形式",
+        "通常联系用手抓挠的原语言材料，历史记录的拼写多样"
+      ],
+      [
+        "英语 raccoon → raccoons",
+        "现代名称整体使用；黑眼罩、环纹尾帮助辨认"
+      ]
+    ],
+    "explanation": "a raccoon’s tail 是浣熊尾巴；a raccoon near the bin 是垃圾桶旁的浣熊；a young raccoon 是幼年浣熊。",
+    "usage": "a young raccoon；a raccoon’s tail；a raccoon near the bin。",
+    "contrast": "raccoon 是浣熊，red panda 是小熊猫；面部花纹可能让人觉得相似，但名称、动物不同。",
+    "examples": [
+      [
+        "A raccoon climbed onto the fence.",
+        "一只浣熊爬上了栅栏。"
+      ],
+      [
+        "The raccoon searched around the empty bin.",
+        "浣熊在空垃圾桶周围翻找。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raccoon#English",
+      "https://www.etymonline.com/word/raccoon"
+    ]
+  },
+  {
+    "word": "raccoons",
+    "ipa": "英、美 /rəˈkuːnz/",
+    "meaning": "浣熊〔复数〕",
+    "sense": "几只戴着黑眼罩似的浣熊，就是 raccoons。注意重音仍在后面长长的 /kuːn/。",
+    "split": "raccoon + -s → raccoons，/n/ 后读 /z/；基础词保留两个 c、两个 o，复数只在末尾添 s。",
+    "history": [
+      [
+        "波瓦坦语的当地动物名 → 英语早期 arocoun 等形式",
+        "通常联系用手抓挠的原语言材料，历史记录的拼写多样"
+      ],
+      [
+        "英语 raccoon → raccoons",
+        "现代名称整体使用；黑眼罩、环纹尾帮助辨认"
+      ],
+      [
+        "raccoon + -s → raccoons",
+        "多只浣熊，词尾 /nz/"
+      ]
+    ],
+    "explanation": "young raccoons 是幼年浣熊；raccoons in the garden 是花园里的浣熊；photographs of raccoons 是浣熊照片。",
+    "usage": "young raccoons；raccoons in the garden；photographs of raccoons。",
+    "contrast": "raccoons 直接数动物；raccoon tracks 的前部通常用单数作修饰，表示浣熊的足迹。",
+    "examples": [
+      [
+        "Two raccoons were exploring the garden.",
+        "两只浣熊正在花园里探来探去。"
+      ],
+      [
+        "The camera recorded raccoons beside the fence.",
+        "摄像机拍到了栅栏旁的浣熊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raccoons#English",
+      "https://www.etymonline.com/word/raccoon"
+    ]
+  },
+  {
+    "word": "buffaloes",
+    "ipa": "英 /ˈbʌfələʊz/；美 /ˈbʌfəloʊz/",
+    "meaning": "水牛、非洲水牛等；〔北美日常用法〕美洲野牛〔复数〕",
+    "sense": "田间水牛、草原上的非洲水牛，可以叫 buffaloes；北美故事里的 buffalo 又常在说美洲野牛。要看地域和完整名称。",
+    "split": "buffalo 经葡萄牙语、拉丁语向前接希腊动物名称；更远来路不定。buffalo + -es → buffaloes，后缀读 /z/，也见 buffalos 或不变复数 buffalo。",
+    "history": [
+      [
+        "希腊 boubalos 动物名 → 拉丁 bubalus、bufalus → 葡萄牙语、英语 buffalo",
+        "古今所指动物有过转用，更远起源不定"
+      ],
+      [
+        "buffalo + -es → buffaloes",
+        "现代复数；北美口语名称也用于 bison"
+      ]
+    ],
+    "explanation": "water buffaloes 是水牛；African buffaloes 是非洲水牛；a herd of buffaloes 是一群水牛或语境中的野牛。",
+    "usage": "water buffaloes；African buffaloes；a herd of buffaloes。",
+    "contrast": "bison 是美洲、欧洲野牛的名称；日常 American buffalo 会和它交叉，但不能把亚洲水牛也当同一个物种。",
+    "examples": [
+      [
+        "Water buffaloes stood in the muddy field.",
+        "水牛站在泥泞的田里。"
+      ],
+      [
+        "A herd of buffaloes moved across the plain.",
+        "一群水牛穿过平原。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buffaloes#English",
+      "https://www.etymonline.com/word/buffalo"
+    ]
+  },
+  {
+    "word": "bison",
+    "ipa": "英、美 /ˈbaɪsən/",
+    "meaning": "野牛〔常指美洲野牛、欧洲野牛；单复数常同形〕",
+    "sense": "肩部高耸、前半身厚重的野牛，可以用 bison。这个词不用每次靠加 s 来表示多只。",
+    "split": "经法语 bison、拉丁 bison 接日耳曼语等旧动物名称；更远可能涉及波罗的、斯拉夫语材料，但具体来路不完全确定。",
+    "history": [
+      [
+        "日耳曼语等旧动物名 → 拉丁 bison → 法语、英语 bison",
+        "原先用于欧洲野牛，后来也用于北美野牛"
+      ],
+      [
+        "英语 bison 的现代用法",
+        "常见单复数同形：one bison、several bison"
+      ]
+    ],
+    "explanation": "an American bison 是美洲野牛；European bison 是欧洲野牛；a herd of bison 是一群野牛。",
+    "usage": "American bison；European bison；a herd of bison。",
+    "contrast": "北美日常 buffalo 常指 bison；名称交叉是历史习惯，两词的借入路线、严格指称并不因此完全相同。",
+    "examples": [
+      [
+        "A bison stood beside the track.",
+        "一头野牛站在小路旁。"
+      ],
+      [
+        "Several bison grazed in the distance.",
+        "几头野牛在远处吃草。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bison#English",
+      "https://www.etymonline.com/word/bison"
+    ]
+  },
+  {
+    "word": "weasel",
+    "ipa": "英、美 /ˈwiːzəl/",
+    "meaning": "鼬；狡猾的人〔贬义〕；推诿、设法逃脱〔常接 out〕",
+    "sense": "细长身体能钻来钻去的鼬，是 weasel；说人 weasel out of something，就像滑溜溜地钻出难题，不肯承担。",
+    "split": "古英语 weosule、wesle 经中古英语传为 weasel；更远词源不定。现代动物形象又借给人的狡猾、设法脱身、含糊推诿等用法。",
+    "history": [
+      [
+        "古英语 weosule、wesle → 中古英语 wesel → weasel",
+        "更远来路不定，与其他动物名称的关系只是部分学者的提议"
+      ],
+      [
+        "动物名 → 人的狡猾、逃避等比喻；weasel out 设法脱身、推诿",
+        "现代 weasels 可作动物复数，也可作第三人称单数动词"
+      ]
+    ],
+    "explanation": "a weasel in the grass 是草里的鼬；weasel out of a promise 是设法逃避承诺；calling someone a weasel 是贬损地说对方狡猾。",
+    "usage": "a small weasel；weasel out of a promise；weasel out of doing something。",
+    "contrast": "weasel out 常含不诚实地逃避的批评；普通 get out of 可以较中性地说脱身、免去某事。",
+    "examples": [
+      [
+        "A weasel disappeared into the long grass.",
+        "一只鼬钻进了高草丛。"
+      ],
+      [
+        "Do not try to weasel out of your promise.",
+        "别想耍滑头逃避承诺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weasel#English",
+      "https://www.etymonline.com/word/weasel"
+    ]
+  },
+  {
+    "word": "weasels",
+    "ipa": "英、美 /ˈwiːzəlz/",
+    "meaning": "鼬〔复数〕；耍滑头逃避〔第三人称单数〕",
+    "sense": "几只鼬是 weasels；he weasels out of work 则是他耍滑头躲活。看句子里是动物还是逃避的动作。",
+    "split": "weasel + -s → weasels，/l/ 后读 /z/；名词复数、动词第三人称单数同形。",
+    "history": [
+      [
+        "古英语 weosule、wesle → 中古英语 wesel → weasel",
+        "更远来路不定，与其他动物名称的关系只是部分学者的提议"
+      ],
+      [
+        "动物名 → 人的狡猾、逃避等比喻；weasel out 设法脱身、推诿",
+        "现代 weasels 可作动物复数，也可作第三人称单数动词"
+      ],
+      [
+        "weasel + -s → weasels",
+        "动物复数或人耍滑头逃避，词尾 /əlz/"
+      ]
+    ],
+    "explanation": "small weasels 是小鼬；weasels out of a task 是耍滑头逃掉任务；weasels out of answering 是避而不答。",
+    "usage": "small weasels；weasels out of work；weasels out of answering。",
+    "contrast": "he weasels out 表主语自己逃避；若说 weasels 在林中活动，通常就是复数动物，别把比喻套到所有句子。",
+    "examples": [
+      [
+        "We saw two weasels near the old wall.",
+        "我们在旧墙边看到了两只鼬。"
+      ],
+      [
+        "He always weasels out of doing the washing-up.",
+        "他总是耍滑头躲掉洗碗的活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weasels#English",
+      "https://www.etymonline.com/word/weasel"
+    ]
+  },
+  {
+    "word": "ferrets",
+    "ipa": "英 /ˈferɪts/；美 /ˈfɛrɪts/",
+    "meaning": "雪貂〔复数〕；搜寻、查出〔动词，常接 out〕",
+    "sense": "雪貂爱钻探的形象，也能帮你记 ferrets out the truth：把藏着的信息一点点找出来。",
+    "split": "ferret 经法语 furet 等小称接拉丁 fur 贼的词族；动词与借动物搜寻、驱出藏物的关系相连。ferret + -s → ferrets，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 fur 贼的词族 → 法语 furet 等小称 → 英语 ferret",
+        "动物名借人的拟人化看法，不从现代 fur 毛皮另造"
+      ],
+      [
+        "相关动词搜寻、驱出 → ferret out 查出；ferret + -s → ferrets",
+        "名词复数与第三人称单数动词同形"
+      ]
+    ],
+    "explanation": "pet ferrets 是宠物雪貂；ferrets out information 是搜出信息；ferrets out the cause 是追查出原因。",
+    "usage": "pet ferrets；ferrets out information；ferrets out the truth。",
+    "contrast": "ferrets out 强调耐心翻找、查出藏着的东西；finds 只说找到，不一定带同样的搜寻过程。",
+    "examples": [
+      [
+        "The ferrets explored every corner of the room.",
+        "雪貂们把房间的每个角落都探了一遍。"
+      ],
+      [
+        "The reporter ferrets out details that others miss.",
+        "这位记者会挖出别人漏掉的细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ferrets#English",
+      "https://www.etymonline.com/word/ferret"
+    ]
+  },
+  {
+    "word": "hamster",
+    "ipa": "英 /ˈhæmstə/；美 /ˈhæmstɚ/",
+    "meaning": "仓鼠",
+    "sense": "小小一团、会把食物塞进颊囊的仓鼠，是 hamster。宠物仓鼠跑轮的画面也很常见。",
+    "split": "整词借自德语 Hamster，向前有中古高地德语 hamastra 等形式；更远可能接斯拉夫语言名称，具体分析不确定。",
+    "history": [
+      [
+        "德语 Hamster ← 中高地德语 hamastra 等",
+        "更远可能接斯拉夫语言名称，细节不确定"
+      ],
+      [
+        "借入英语 hamster → hamsters",
+        "整词动物名进入英语，复数按现代规则变化"
+      ]
+    ],
+    "explanation": "a pet hamster 是宠物仓鼠；a hamster wheel 是仓鼠跑轮；a hamster cage 是仓鼠笼。",
+    "usage": "a pet hamster；a hamster wheel；a hamster cage。",
+    "contrast": "hamster 是整词动物名；这里的 -ster 不需要按现代英语职业后缀重新拼成做某事的人。",
+    "examples": [
+      [
+        "The hamster stored seeds in its cheeks.",
+        "仓鼠把种子塞在颊囊里。"
+      ],
+      [
+        "Her pet hamster ran on its wheel.",
+        "她的宠物仓鼠在跑轮上跑动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hamster#English",
+      "https://www.etymonline.com/word/hamster"
+    ]
+  },
+  {
+    "word": "hamsters",
+    "ipa": "英 /ˈhæmstəz/；美 /ˈhæmstɚz/",
+    "meaning": "仓鼠〔复数〕",
+    "sense": "几只小仓鼠，就是 hamsters。德语动物名称借进英语后，用英语规则变化复数。",
+    "split": "hamster + -s → hamsters，词尾后缀读 /z/；英式常见 /stəz/，美式常见 /stɚz/。",
+    "history": [
+      [
+        "德语 Hamster ← 中高地德语 hamastra 等",
+        "更远可能接斯拉夫语言名称，细节不确定"
+      ],
+      [
+        "借入英语 hamster → hamsters",
+        "整词动物名进入英语，复数按现代规则变化"
+      ],
+      [
+        "hamster + -s → hamsters",
+        "多只仓鼠，词尾 /z/"
+      ]
+    ],
+    "explanation": "pet hamsters 是宠物仓鼠；young hamsters 是幼年仓鼠；pictures of hamsters 是仓鼠图片。",
+    "usage": "pet hamsters；young hamsters；pictures of hamsters。",
+    "contrast": "hamsters 数动物；hamster wheels 的 hamster 作前部修饰，通常不先加复数 s。",
+    "examples": [
+      [
+        "The children drew pictures of hamsters.",
+        "孩子们画了仓鼠的图画。"
+      ],
+      [
+        "The poster shows several kinds of hamsters.",
+        "海报上展示了几种仓鼠。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hamsters#English",
+      "https://www.etymonline.com/word/hamster"
+    ]
+  },
+  {
+    "word": "hedgehogs",
+    "ipa": "英 /ˈhedʒhɒɡz/；美 /ˈhɛdʒhɑɡz/",
+    "meaning": "刺猬〔复数〕",
+    "sense": "背上有刺、鼻子尖尖的小动物，是 hedgehogs。英文可直观看成“树篱边的小猪”，借的是活动环境和口鼻形状。",
+    "split": "hedge 树篱 + hog 猪 → hedgehog 刺猬；再加 -s → hedgehogs，/ɡ/ 后读 /z/。这是真正的英语复合构词。",
+    "history": [
+      [
+        "hedge 树篱 + hog 猪 → hedgehog",
+        "树篱接常见活动环境，猪接像猪的口鼻"
+      ],
+      [
+        "hedgehog + -s → hedgehogs",
+        "整个复合名词末尾加 s，词尾 /ɡz/"
+      ]
+    ],
+    "explanation": "hedgehogs in the garden 是花园里的刺猬；young hedgehogs 是幼年刺猬；photographs of hedgehogs 是刺猬照片。",
+    "usage": "hedgehogs in the garden；young hedgehogs；photographs of hedgehogs。",
+    "contrast": "hedgehogs 是刺猬，porcupines 是豪猪；都有刺，不表示两个名称和动物可以直接互换。",
+    "examples": [
+      [
+        "Hedgehogs sometimes visit the garden at night.",
+        "夜里有时会有刺猬来到花园。"
+      ],
+      [
+        "The book has a chapter about hedgehogs.",
+        "这本书有一章介绍刺猬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hedgehogs#English",
+      "https://www.etymonline.com/word/hedgehog"
+    ]
+  },
+  {
+    "word": "dinosaurs",
+    "ipa": "英 /ˈdaɪnəsɔːz/；美 /ˈdaɪnəˌsɔrz/",
+    "meaning": "恐龙〔复数，日常常指史前非鸟类恐龙〕；过时的人、机构〔比喻〕",
+    "sense": "博物馆里一排排史前恐龙骨架，是 dinosaurs。借来说人、机构，也能表示固守老办法、跟不上变化。",
+    "split": "dinosaur 接近代拉丁 Dinosauria，向前有希腊 deinos 令人畏惧、强大 + sauros 蜥蜴材料；加 -s → dinosaurs，后缀 /z/。这是历史命名，不是说它们都只是放大的现代蜥蜴。",
+    "history": [
+      [
+        "希腊 deinos 令人畏惧、强大 + sauros 蜥蜴 → 近代拉丁名称",
+        "现代英语 dinosaur 的命名材料"
+      ],
+      [
+        "dinosaur + -s → dinosaurs",
+        "既数恐龙，也能比喻不肯适应变化的人或机构"
+      ]
+    ],
+    "explanation": "dinosaur fossils 是恐龙化石；models of dinosaurs 是恐龙模型；corporate dinosaurs 可比喻守旧、反应迟缓的企业。",
+    "usage": "models of dinosaurs；books about dinosaurs；corporate dinosaurs。",
+    "contrast": "日常 dinosaurs 常说史前非鸟类恐龙；名称里的蜥蜴是命名材料，现代分类不靠字面大小决定。",
+    "examples": [
+      [
+        "The museum has a gallery of dinosaurs.",
+        "博物馆里有一个恐龙展厅。"
+      ],
+      [
+        "Some firms behave like dinosaurs when technology changes.",
+        "技术变化时，有些公司像老古董一样固守旧法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dinosaurs#English",
+      "https://www.etymonline.com/word/dinosaur"
+    ]
+  },
+  {
+    "word": "dino",
+    "ipa": "英 /ˈdaɪnəʊ/；美 /ˈdaɪnoʊ/",
+    "meaning": "恐龙〔非正式短称〕",
+    "sense": "小朋友抱着恐龙玩具，说 a dino，就是一只“恐龙”。长词 dinosaur 缩短后，语气更轻松。",
+    "split": "dinosaur 截去后部，保留 dino- → dino；现代短称仍指整只恐龙，不只保留希腊词根“可怕”的意思。",
+    "history": [
+      [
+        "dinosaur 恐龙 → 截短 dino",
+        "完整动物名的缩略，而不是把古希腊材料单独借来作同义词"
+      ],
+      [
+        "英语 dino 作为日常短称",
+        "可数名词，也常用于玩具、儿童用品等搭配"
+      ]
+    ],
+    "explanation": "a toy dino 是玩具恐龙；a dino model 是恐龙模型；a dino book 是恐龙主题的书。",
+    "usage": "a toy dino；a dino model；a dino book。",
+    "contrast": "dino 更随意，dinosaur 适用范围更广；前者的 o 留自原词，不是再新加一个动物后缀。",
+    "examples": [
+      [
+        "The child carried a toy dino everywhere.",
+        "孩子走到哪儿都带着一只玩具恐龙。"
+      ],
+      [
+        "He drew a green dino with a long tail.",
+        "他画了一只长尾巴的绿色恐龙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dino#English",
+      "https://www.etymonline.com/word/dinosaur",
+      "https://www.merriam-webster.com/dictionary/dino"
+    ]
+  },
+  {
+    "word": "dinos",
+    "ipa": "英 /ˈdaɪnəʊz/；美 /ˈdaɪnoʊz/",
+    "meaning": "恐龙〔dino 的复数短称〕",
+    "sense": "一盒小恐龙玩具，随意口语可以说 a box of dinos。短称也能直接数复数。",
+    "split": "dino + -s → dinos，元音后读 /z/；长词 dinosaur、短词 dino 分别有 dinosaurs、dinos 两种形式，意义可对应但语体不同。",
+    "history": [
+      [
+        "dinosaur → dino",
+        "保留原名开头材料的口语截短"
+      ],
+      [
+        "dino + -s → dinos",
+        "多只恐龙、恐龙形象，词尾 /oʊz/"
+      ]
+    ],
+    "explanation": "toy dinos 是玩具恐龙；plastic dinos 是塑料恐龙玩具；pictures of dinos 是恐龙图片。",
+    "usage": "toy dinos；plastic dinos；pictures of dinos。",
+    "contrast": "dinos 对应短称 dino；dinosaurs 对应完整 dinosaur，不用把两种结尾叠起来。",
+    "examples": [
+      [
+        "The box was full of plastic dinos.",
+        "盒子里装满了塑料恐龙玩具。"
+      ],
+      [
+        "She loves drawing colourful dinos.",
+        "她喜欢画五颜六色的恐龙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dinos#English",
+      "https://www.etymonline.com/word/dinosaur",
+      "https://www.merriam-webster.com/dictionary/dino"
+    ]
+  },
+  {
+    "word": "crocodile",
+    "ipa": "英 /ˈkrɒkədaɪl/；美 /ˈkrɑkəˌdaɪl/",
+    "meaning": "鳄鱼〔常指鳄科类〕",
+    "sense": "长身体贴着水面、只露出眼鼻的鳄鱼，可以叫 crocodile。词名经过希腊、拉丁、法语，英语拼写也曾多次变化。",
+    "split": "希腊 krokodilos 经拉丁 crocodilus、中世纪拉丁与古法语相关形式借入英语；中古英语有 cocodril 等，后来向古典形式靠拢。更远来路不定，不宜硬拆成石子加虫。",
+    "history": [
+      [
+        "希腊 krokodilos → 拉丁 crocodilus → 中世纪拉丁语、古法语形式",
+        "更远起源不明，石子加虫的拆分受到质疑"
+      ],
+      [
+        "中古英语 cocodril、cokedrille 等 → 现代 crocodile",
+        "拼写后来向拉丁、法语形式靠拢；复数 crocodiles"
+      ]
+    ],
+    "explanation": "a crocodile in the river 是河里的鳄鱼；a crocodile’s tail 是鳄鱼尾巴；crocodile tears 借传说形象说假哭、假惺惺的眼泪。",
+    "usage": "a crocodile’s tail；a crocodile in the river；crocodile tears。",
+    "contrast": "alligator 常译短吻鳄，crocodile 是另一常见名称；中文都可能泛译鳄鱼，英语里仍有名称区分。",
+    "examples": [
+      [
+        "A crocodile lay almost hidden in the water.",
+        "一条鳄鱼几乎完全隐在水里。"
+      ],
+      [
+        "He shed crocodile tears over the broken vase.",
+        "他对着碎花瓶假惺惺地掉眼泪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crocodile#English",
+      "https://www.etymonline.com/word/crocodile"
+    ]
+  },
+  {
+    "word": "crocodiles",
+    "ipa": "英 /ˈkrɒkədaɪlz/；美 /ˈkrɑkəˌdaɪlz/",
+    "meaning": "鳄鱼〔复数〕",
+    "sense": "河边几条大鳄鱼，是 crocodiles。现代名称虽然来自多次借入、改写，复数只在整词末尾加 s。",
+    "split": "crocodile + -s → crocodiles，基础词 e 不发音，/l/ 后加 /z/；读音末尾 /aɪlz/。",
+    "history": [
+      [
+        "希腊 krokodilos → 拉丁 crocodilus → 中世纪拉丁语、古法语形式",
+        "更远起源不明，石子加虫的拆分受到质疑"
+      ],
+      [
+        "中古英语 cocodril、cokedrille 等 → 现代 crocodile",
+        "拼写后来向拉丁、法语形式靠拢；复数 crocodiles"
+      ],
+      [
+        "crocodile + -s → crocodiles",
+        "多条鳄鱼，词尾 /lz/"
+      ]
+    ],
+    "explanation": "crocodiles in the river 是河里的鳄鱼；young crocodiles 是幼年鳄鱼；pictures of crocodiles 是鳄鱼图片。",
+    "usage": "young crocodiles；crocodiles in the river；pictures of crocodiles。",
+    "contrast": "crocodiles 直接是动物复数；crocodile tears 的前部通常仍用单数词形，整个搭配才是鳄鱼的眼泪这个比喻。",
+    "examples": [
+      [
+        "Several crocodiles rested along the riverbank.",
+        "几条鳄鱼伏在河岸边休息。"
+      ],
+      [
+        "The documentary shows crocodiles moving through shallow water.",
+        "纪录片展示了鳄鱼穿行浅水的情景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crocodiles#English",
+      "https://www.etymonline.com/word/crocodile"
+    ]
+  },
+  {
+    "word": "alligator",
+    "ipa": "英 /ˈælɪɡeɪtə/；美 /ˈæləˌɡeɪtɚ/",
+    "meaning": "短吻鳄",
+    "sense": "名字像一个长英语词，最初却含着西班牙语的“那个蜥蜴”：el lagarto。一整个称呼被听进英语，逐渐粘成了 alligator。",
+    "split": "西班牙语 el 定冠词 + lagarto 蜥蜴，整体借入英语，出现 lagarto、aligarto 等形式，再变成 alligator；lagarto 更远接拉丁 lacertus、lacerta。",
+    "history": [
+      [
+        "西班牙语 el 那个 + lagarto 蜥蜴",
+        "lagarto 更远接拉丁 lacertus、lacerta 动物名"
+      ],
+      [
+        "整个词组被英语借入、改写 → alligator → alligators",
+        "原来独立的冠词 el 并入新词，不是现代英语 all 加 gator 的最初构词"
+      ]
+    ],
+    "explanation": "an alligator in the water 是水里的短吻鳄；a young alligator 是幼年短吻鳄；an alligator’s tail 是短吻鳄尾巴。",
+    "usage": "a young alligator；an alligator’s tail；an alligator in the water。",
+    "contrast": "alligator 与 crocodile 都常在中文里被说成鳄鱼；英语区分名称时，alligator 通常对应短吻鳄类。",
+    "examples": [
+      [
+        "An alligator rested beside the pond.",
+        "一条短吻鳄伏在池塘边休息。"
+      ],
+      [
+        "The picture shows an alligator with its mouth open.",
+        "图中是一条张着嘴的短吻鳄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alligator#English",
+      "https://www.etymonline.com/word/alligator"
+    ]
+  },
+  {
+    "word": "alligators",
+    "ipa": "英 /ˈælɪɡeɪtəz/；美 /ˈæləˌɡeɪtɚz/",
+    "meaning": "短吻鳄〔复数〕",
+    "sense": "几条短吻鳄，是 alligators。原先的西班牙语词组借成完整名词后，英语直接给整词加 s。",
+    "split": "alligator + -s → alligators，后缀读 /z/；原来的 el、lagarto 不再各自按西班牙语规则形成复数。",
+    "history": [
+      [
+        "西班牙语 el 那个 + lagarto 蜥蜴",
+        "lagarto 更远接拉丁 lacertus、lacerta 动物名"
+      ],
+      [
+        "整个词组被英语借入、改写 → alligator → alligators",
+        "原来独立的冠词 el 并入新词，不是现代英语 all 加 gator 的最初构词"
+      ],
+      [
+        "alligator + -s → alligators",
+        "英语整体词的规则复数，词尾 /z/"
+      ]
+    ],
+    "explanation": "young alligators 是幼年短吻鳄；alligators in the pond 是池塘里的短吻鳄；pictures of alligators 是短吻鳄图片。",
+    "usage": "young alligators；alligators in the pond；pictures of alligators。",
+    "contrast": "alligators 的复数 s 属于现代英语；词源里旧冠词的一部分已并进词中，不再单独当作一个英语词。",
+    "examples": [
+      [
+        "The documentary follows several young alligators.",
+        "纪录片跟拍了几条幼年短吻鳄。"
+      ],
+      [
+        "The sign compares alligators with crocodiles.",
+        "说明牌比较了短吻鳄与鳄鱼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alligators#English",
+      "https://www.etymonline.com/word/alligator"
+    ]
+  },
+  {
+    "word": "camels",
+    "ipa": "英 /ˈkæməlz/；美 /ˈkæməlz/",
+    "meaning": "骆驼〔复数〕",
+    "sense": "背上有驼峰、常见于沙漠旅行画面的骆驼，是 camels。名称本身没有限定只能是一峰或两峰。",
+    "split": "camel 在古英语已有形式，远处接拉丁 camelus、希腊 kamēlos，再接希伯来语、腓尼基语等闪米特语名称；法语形式也在其传播史中。camel + -s → camels，/l/ 后 /z/。",
+    "history": [
+      [
+        "闪米特语 gamal 等 → 希腊 kamēlos → 拉丁 camelus",
+        "英语有古英语 camel 及法语相关传播形式"
+      ],
+      [
+        "英语 camel + -s → camels",
+        "现代复数，词尾 /əlz/"
+      ]
+    ],
+    "explanation": "a caravan of camels 是一队骆驼；camels carrying goods 是驮货的骆驼；two camels 是两头骆驼。",
+    "usage": "a caravan of camels；camels carrying goods；two camels。",
+    "contrast": "camels 可以包括单峰、双峰等骆驼；camel hair 的 camel 作前部修饰时，通常仍保持单数。",
+    "examples": [
+      [
+        "A line of camels crossed the desert.",
+        "一队骆驼穿过沙漠。"
+      ],
+      [
+        "The camels carried bags and blankets.",
+        "骆驼驮着袋子和毯子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/camels#English",
+      "https://www.etymonline.com/word/camel"
+    ]
+  },
+  {
+    "word": "flamingo",
+    "ipa": "英 /fləˈmɪŋɡəʊ/；美 /fləˈmɪŋɡoʊ/",
+    "meaning": "火烈鸟",
+    "sense": "长腿、长脖子，羽毛带粉红或暖红色的火烈鸟，是 flamingo。用“像火焰的颜色”来记，和常见词源分析也能相接。",
+    "split": "英语经西葡语 flamengo 等鸟名，通常联系更早普罗旺斯语火焰色材料；其中也可能与弗兰德人的名称形式发生影响，传播细节不能只凭现代英语 flame 的拼写反推。",
+    "history": [
+      [
+        "西葡语 flamengo 等鸟名，通常联系普罗旺斯语火焰色材料",
+        "与弗兰德人名称形式之间可能有相互影响"
+      ],
+      [
+        "英语 flamingo → flamingos",
+        "以暖红、粉红色羽毛帮助记；现代复数直接加 s"
+      ]
+    ],
+    "explanation": "a pink flamingo 是粉红色火烈鸟；a flamingo standing on one leg 是单腿站立的火烈鸟；a flamingo’s feathers 是它的羽毛。",
+    "usage": "a pink flamingo；a flamingo on one leg；a flamingo’s feathers。",
+    "contrast": "flamingo 是完整鸟名；flaming 是燃烧、火焰般的相关英语词形，不能把它们当作现代同一个词随意互换。",
+    "examples": [
+      [
+        "A flamingo stood on one leg in the shallow water.",
+        "一只火烈鸟在浅水里单腿站着。"
+      ],
+      [
+        "The child painted a bright pink flamingo.",
+        "孩子画了一只鲜粉色火烈鸟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flamingo#English",
+      "https://www.etymonline.com/word/flamingo"
+    ]
+  },
+  {
+    "word": "flamingos",
+    "ipa": "英 /fləˈmɪŋɡəʊz/；美 /fləˈmɪŋɡoʊz/",
+    "meaning": "火烈鸟〔复数〕",
+    "sense": "一片粉红色的长腿鸟，是 flamingos。这个常见复数直接加 s。",
+    "split": "flamingo + -s → flamingos，元音后读 /z/；这里采用常见 -s 复数，不把所有 -o 词都机械改成 -oes。",
+    "history": [
+      [
+        "西葡语 flamengo 等鸟名，通常联系普罗旺斯语火焰色材料",
+        "与弗兰德人名称形式之间可能有相互影响"
+      ],
+      [
+        "英语 flamingo → flamingos",
+        "以暖红、粉红色羽毛帮助记；现代复数直接加 s"
+      ],
+      [
+        "flamingo + -s → flamingos",
+        "多只火烈鸟，词尾 /oʊz/"
+      ]
+    ],
+    "explanation": "pink flamingos 是粉红色火烈鸟；a flock of flamingos 是一群火烈鸟；flamingos in shallow water 是浅水里的火烈鸟。",
+    "usage": "pink flamingos；a flock of flamingos；flamingos in shallow water。",
+    "contrast": "flamingos 的 s 不另添一个 /ɪz/ 音节；与前面的 /oʊ/ 接成 /oʊz/。",
+    "examples": [
+      [
+        "A flock of flamingos gathered in the shallow water.",
+        "一群火烈鸟聚在浅水中。"
+      ],
+      [
+        "The photograph shows flamingos taking flight.",
+        "照片里是正在起飞的火烈鸟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flamingos#English",
+      "https://www.etymonline.com/word/flamingo"
+    ]
+  },
+  {
+    "word": "pelican",
+    "ipa": "英 /ˈpelɪkən/；美 /ˈpɛlɪkən/",
+    "meaning": "鹈鹕",
+    "sense": "长嘴下面挂着能伸展的大喉囊，常在水面捕鱼的鸟，是 pelican。先抓住这副长嘴、大袋子的样子。",
+    "split": "古英语 pellicane 等接晚期拉丁 pelecanus、希腊 pelekan；中古英语拼写又受法语影响。更远可能与斧、啄木鸟名称相关，鸟喙形状是可能背景。",
+    "history": [
+      [
+        "希腊 pelekan → 拉丁 pelecanus → 古英语 pellicane 等",
+        "更远可能与斧、啄木鸟名相关，或有鸟喙形状背景"
+      ],
+      [
+        "中古英语拼写又受法语 pelican 影响 → pelican、pelicans",
+        "不能把可能的旧形状命名当作英语逐字直拼"
+      ]
+    ],
+    "explanation": "a pelican’s pouch 是鹈鹕喉囊；a pelican on the water 是水面上的鹈鹕；a brown pelican 是褐鹈鹕。",
+    "usage": "a pelican’s pouch；a brown pelican；a pelican on the water。",
+    "contrast": "喉囊是记住现代动物的画面；可能的斧形命名分析则属于更远词源，两种线索不必硬说成同一个字面解释。",
+    "examples": [
+      [
+        "A pelican landed on the water.",
+        "一只鹈鹕落到了水面上。"
+      ],
+      [
+        "The pelican scooped a fish into its pouch.",
+        "鹈鹕把一条鱼兜进了喉囊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pelican#English",
+      "https://www.etymonline.com/word/pelican"
+    ]
+  },
+  {
+    "word": "pelicans",
+    "ipa": "英 /ˈpelɪkənz/；美 /ˈpɛlɪkənz/",
+    "meaning": "鹈鹕〔复数〕",
+    "sense": "几只长嘴大喉囊的水鸟，是 pelicans。名称传承很老，现代复数却很规则。",
+    "split": "pelican + -s → pelicans，/n/ 后读 /z/；基础词常见三音节，复数不另添一个音节。",
+    "history": [
+      [
+        "希腊 pelekan → 拉丁 pelecanus → 古英语 pellicane 等",
+        "更远可能与斧、啄木鸟名相关，或有鸟喙形状背景"
+      ],
+      [
+        "中古英语拼写又受法语 pelican 影响 → pelican、pelicans",
+        "不能把可能的旧形状命名当作英语逐字直拼"
+      ],
+      [
+        "pelican + -s → pelicans",
+        "多只鹈鹕，词尾 /nz/"
+      ]
+    ],
+    "explanation": "pelicans by the harbour 是港口边的鹈鹕；a group of pelicans 是一群鹈鹕；pelicans fishing 是捕鱼的鹈鹕。",
+    "usage": "a group of pelicans；pelicans by the harbour；pelicans fishing。",
+    "contrast": "pelicans 直接数鸟；pelican feathers 的 pelican 作前部修饰，通常不用复数。",
+    "examples": [
+      [
+        "Pelicans floated beside the fishing boats.",
+        "鹈鹕漂在渔船旁边。"
+      ],
+      [
+        "The children counted the pelicans along the harbour wall.",
+        "孩子们数着港口堤墙边的鹈鹕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pelicans#English",
+      "https://www.etymonline.com/word/pelican"
+    ]
+  },
+  {
+    "word": "ostrich",
+    "ipa": "英 /ˈɒstrɪtʃ/；美 /ˈɑstrɪtʃ/",
+    "meaning": "鸵鸟",
+    "sense": "身高很显眼、腿长、不会飞却擅长跑的鸵鸟，是 ostrich。它的旧名称甚至有“大麻雀”的命名关系。",
+    "split": "经古法语、中世纪拉丁语形式，接通俗拉丁 avis struthio，其中 avis 是鸟，struthio 接希腊鸵鸟名，更早有 strouthos megale 大麻雀的名称关系。",
+    "history": [
+      [
+        "希腊 strouthos megale 大麻雀等 → strouthion 鸵鸟名",
+        "古人借熟悉的鸟名去称另一种大鸟"
+      ],
+      [
+        "通俗拉丁 avis 鸟 + struthio → 法语、中世纪拉丁语形式 → ostrich",
+        "整个名称经多次语音、拼写变化进入现代英语"
+      ]
+    ],
+    "explanation": "an ostrich egg 是鸵鸟蛋；an ostrich feather 是鸵鸟羽毛；an ostrich running 是奔跑的鸵鸟。",
+    "usage": "an ostrich egg；an ostrich feather；an ostrich running。",
+    "contrast": "ostrich 首音是元音，前面用 an；词尾 /tʃ/，不是只读 /ʃ/。",
+    "examples": [
+      [
+        "An ostrich ran across the open ground.",
+        "一只鸵鸟跑过开阔地。"
+      ],
+      [
+        "The display included a large ostrich egg.",
+        "展品中有一枚大鸵鸟蛋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ostrich#English",
+      "https://www.etymonline.com/word/ostrich"
+    ]
+  }
+]

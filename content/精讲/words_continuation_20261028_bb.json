@@ -1,0 +1,489 @@
+[
+  {
+    "word": "heal",
+    "ipa": "/hiːl/",
+    "meaning": "愈合；痊愈；使恢复；修复裂痕",
+    "sense": "伤处慢慢合上，关系里裂开的地方也可能慢慢重新接起来。",
+    "split": "接古英语 hǣlan、中古英语 helen，与 whole、health 的完整、完好旧词族有关；不是今天把 health 删掉 th 造出来。",
+    "history": [
+      [
+        "古英语 hǣlan → 中古英语 helen",
+        "使恢复健康、完好"
+      ],
+      [
+        "英语 heal",
+        "愈合、痊愈；修复裂痕等"
+      ]
+    ],
+    "explanation": "a wound heals 伤口愈合，heal a wound 使伤口愈合，heal a rift 修复关系裂痕。可说自身恢复，也可说某事帮助恢复。",
+    "usage": "heal a wound；heal a rift；take time to heal；heal slowly。",
+    "contrast": "heal 常抓修复、恢复过程，cure 更常强调治好疾病、解决某问题；heal 与 heel 脚跟同音但词源、拼写不同。",
+    "examples": [
+      [
+        "The cut healed slowly.",
+        "伤口慢慢愈合了。"
+      ],
+      [
+        "It took years to heal the rift between the two families.",
+        "两家之间的裂痕花了多年才修复。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heal#English"
+    ]
+  },
+  {
+    "word": "healing",
+    "ipa": "/ˈhiːlɪŋ/",
+    "meaning": "愈合、恢复过程；有助修复的",
+    "sense": "不是只看最后好没好，而是看伤处、关系正一点点恢复的过程。",
+    "split": "heal + -ing，古英语有 hǣling、中古英语 heelinge 等活动名词；今天也作分词、修饰语。",
+    "history": [
+      [
+        "古英语 hǣlan → 中古英语 helen",
+        "使恢复健康、完好"
+      ],
+      [
+        "英语 heal",
+        "愈合、痊愈；修复裂痕等"
+      ],
+      [
+        "heal + -ing；旧活动名词延续",
+        "愈合、恢复过程；修复相关的"
+      ]
+    ],
+    "explanation": "the healing process 恢复过程，wound healing 伤口愈合，emotional healing 情感恢复。healing 描述过程或作用，是否完全恢复由句子另交代。",
+    "usage": "the healing process；wound healing；emotional healing。",
+    "contrast": "healing 过程或特征，healer 起治疗、修复作用的人或事物；不要因 ing 就默认一定表示此刻正在进行的动词。",
+    "examples": [
+      [
+        "The nurse checked how the wound was healing.",
+        "护士查看了伤口愈合得怎样。"
+      ],
+      [
+        "Writing became part of her emotional healing.",
+        "写作成了她情感恢复过程的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/healing#English"
+    ]
+  },
+  {
+    "word": "healer",
+    "ipa": "英 /ˈhiːlə/；美 /ˈhiːlər/",
+    "meaning": "治疗、疗愈者；带来恢复的人或事物",
+    "sense": "把恢复完好看作一种作用，再说是谁、什么带来了这种作用。",
+    "split": "heal + -er，中古英语有 helere 等人物名词；er 在此表示起相应作用的一方。",
+    "history": [
+      [
+        "古英语 hǣlan → 中古英语 helen",
+        "使恢复健康、完好"
+      ],
+      [
+        "英语 heal",
+        "愈合、痊愈；修复裂痕等"
+      ],
+      [
+        "heal + -er → healer",
+        "治疗、修复者；能起恢复作用的事物"
+      ]
+    ],
+    "explanation": "a traditional healer 传统治疗者，a faith healer 宗教信仰治疗者；Time is a great healer 是时间让伤痛淡化的比喻。这个称谓本身不等于现代职业资格名称 doctor。",
+    "usage": "a traditional healer；a faith healer；time as a healer。",
+    "contrast": "healer 是广义作用、角色称呼，doctor 是医生等专业称谓；故事、传统语境与现代医疗岗位介绍要分开读。",
+    "examples": [
+      [
+        "The novel’s healer knows the local plants well.",
+        "小说里的治疗者很熟悉当地植物。"
+      ],
+      [
+        "She found that time was a great healer.",
+        "她发现时间让伤痛慢慢淡了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/healer#English"
+    ]
+  },
+  {
+    "word": "understanding",
+    "ipa": "英 /ˌʌndəˈstændɪŋ/；美 /ˌʌndərˈstændɪŋ/",
+    "meaning": "理解；体谅；共识、谅解；善解人意的",
+    "sense": "不只听到了，还懂了意思；懂到对方为什么这样做，就容易多一层体谅。",
+    "split": "understand + -ing；古英语有 understanding 等理解名词与相应分词，中古英语延续。不能因为表面有 under、stand 就编成站在下面所以体谅。",
+    "history": [
+      [
+        "古英语 understandan → 中古英语 understanden",
+        "已表示理解、领会；更早语义桥梁有争议"
+      ],
+      [
+        "英语 understand",
+        "理解含义、处境；领会"
+      ],
+      [
+        "understand + -ing；古英语相应形式延续",
+        "理解、共识；体谅人的性质"
+      ]
+    ],
+    "explanation": "an understanding of a subject 对学科的理解，reach an understanding 达成谅解，an understanding teacher 体谅人的老师。名词、形容词各有场景。",
+    "usage": "an understanding of；reach an understanding；a mutual understanding；an understanding teacher。",
+    "contrast": "understanding 懂、体谅；agreement 同意、协议。能理解对方不等于认同对方的所有做法。",
+    "examples": [
+      [
+        "The course gave me a better understanding of the subject.",
+        "课程让我更懂这门学科。"
+      ],
+      [
+        "My manager was very understanding when I explained the delay.",
+        "我解释延误原因时，经理很体谅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/understanding#English"
+    ]
+  },
+  {
+    "word": "understandable",
+    "ipa": "英 /ˌʌndəˈstændəbəl/；美 /ˌʌndərˈstændəbəl/",
+    "meaning": "能理解的；情有可原的",
+    "sense": "内容讲得能听懂，或人的反应放进处境里一看就不难理解。",
+    "split": "understand + -able，中古英语有 understondable 等形式；able 说能够被理解，不表示已经有人表示同意。",
+    "history": [
+      [
+        "古英语 understandan → 中古英语 understanden",
+        "已表示理解、领会；更早语义桥梁有争议"
+      ],
+      [
+        "英语 understand",
+        "理解含义、处境；领会"
+      ],
+      [
+        "understand + -able → understandable",
+        "能领会；处境上容易理解"
+      ]
+    ],
+    "explanation": "understandable instructions 能看懂的说明，an understandable reaction 可以理解的反应。后者不一定在说句子语言简单。",
+    "usage": "an understandable reaction；understandable concern；easily understandable。",
+    "contrast": "understandable 事情能理解，understanding 人善解人意；an understandable teacher 可能是老师讲得能听懂，不等于体谅学生。",
+    "examples": [
+      [
+        "The instructions are clear and understandable.",
+        "说明清楚易懂。"
+      ],
+      [
+        "Her disappointment was understandable.",
+        "她失望也不难理解。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/understandable#English"
+    ]
+  },
+  {
+    "word": "understandably",
+    "ipa": "英 /ˌʌndəˈstændəbli/；美 /ˌʌndərˈstændəbli/",
+    "meaning": "可以理解地；也难怪；合乎情理地",
+    "sense": "先交代处境，再说“发生这种反应也难怪”。",
+    "split": "understandable + -ly，词尾 -able 在副词中变为 -ably；不是在 understand 后直接随意加 ably。",
+    "history": [
+      [
+        "古英语 understandan → 中古英语 understanden",
+        "已表示理解、领会；更早语义桥梁有争议"
+      ],
+      [
+        "英语 understand",
+        "理解含义、处境；领会"
+      ],
+      [
+        "understandable → understandably",
+        "能理解的 → 也难怪、情有可原地"
+      ]
+    ],
+    "explanation": "understandably upset 难过也很正常，understandably proud 自豪可以理解。常给情绪、反应加上说话人的体谅。",
+    "usage": "understandably upset；understandably proud；understandably concerned。",
+    "contrast": "understandably 常表示反应情有可原；clearly 清楚地强调表达效果，不能把“写得清楚”一律译成 understandably。",
+    "examples": [
+      [
+        "She was understandably upset when the trip was cancelled.",
+        "旅行取消了，她难过也不奇怪。"
+      ],
+      [
+        "He was understandably proud of his first book.",
+        "第一本书出版，他为此自豪很正常。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/understandably#English"
+    ]
+  },
+  {
+    "word": "citywide",
+    "ipa": "/ˈsɪtiwaɪd/",
+    "meaning": "全市范围的；遍及全市地",
+    "sense": "从某条街、某个区扩大到整个城市范围。",
+    "split": "city + -wide，wide 在这种组合表示遍及某范围，不是只量城市横向有多宽。",
+    "history": [
+      [
+        "city；-wide",
+        "并列构词部分"
+      ],
+      [
+        "citywide",
+        "覆盖整个城市范围"
+      ]
+    ],
+    "explanation": "a citywide survey 全市调查，citywide services 覆盖全市的服务。形容词、副词都可用。",
+    "usage": "a citywide survey；citywide services；operate citywide。",
+    "contrast": "citywide 全市，countrywide 全国；town、city、country 的地理行政对象不同。",
+    "examples": [
+      [
+        "The council organized a citywide survey.",
+        "市政机构组织了一项全市调查。"
+      ],
+      [
+        "The new library service is available citywide.",
+        "新的图书馆服务全市都能使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/citywide#English"
+    ]
+  },
+  {
+    "word": "cityscape",
+    "ipa": "/ˈsɪtiskeɪp/",
+    "meaning": "城市景观；城市风景画",
+    "sense": "把楼宇、街道、天际线合成一整幅城市画面。",
+    "split": "city + -scape，-scape 从 landscape 等词类推出来，指某种整体景观；不是 escape 逃离城市的缩写。",
+    "history": [
+      [
+        "city；-scape",
+        "并列构词部分"
+      ],
+      [
+        "cityscape",
+        "城市整体景观、描绘它的作品"
+      ]
+    ],
+    "explanation": "a modern cityscape 现代城市景观，paint a cityscape 画一幅城市风景。可以看真实城市，也可以看图片里的城市全貌。",
+    "usage": "a modern cityscape；an urban cityscape；paint a cityscape。",
+    "contrast": "cityscape 城市整体画面，skyline 尤其看建筑与天空相接的轮廓；看街面也可讨论 cityscape。",
+    "examples": [
+      [
+        "The new tower changed the cityscape.",
+        "新塔楼改变了城市景观。"
+      ],
+      [
+        "She painted a rainy cityscape from her window.",
+        "她从窗口画了一幅雨中城市景观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cityscape#English"
+    ]
+  },
+  {
+    "word": "afterthought",
+    "ipa": "英 /ˈɑːftəθɔːt/；美 /ˈæftərθɔːt/",
+    "meaning": "事后才想到的事；后来补上的想法",
+    "sense": "主意、计划已经说完或做起来，才“哦对了，还有这个”。",
+    "split": "after-（之后）+ thought，可能仿照 forethought 形成。前缀说时间顺序，不是 after 加普通过去式就自动代表任何过去行为。",
+    "history": [
+      [
+        "after-；thought",
+        "并列构词部分"
+      ],
+      [
+        "afterthought",
+        "事后想起、后来才加上的内容"
+      ]
+    ],
+    "explanation": "as an afterthought 作为后来补想的一点，seem like an afterthought 像没被提前认真考虑。可以只是补充，也可带不受重视的感觉。",
+    "usage": "as an afterthought；add as an afterthought；seem like an afterthought。",
+    "contrast": "afterthought 事后补想，forethought 提前考虑；补充不一定不好，但关键安排若成 afterthought 常显仓促。",
+    "examples": [
+      [
+        "He added a short note as an afterthought.",
+        "他后来又想到，补了一条短注。"
+      ],
+      [
+        "Accessibility should not be an afterthought in the design.",
+        "无障碍不该等设计完了才补着想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/afterthought#English"
+    ]
+  },
+  {
+    "word": "forethought",
+    "ipa": "英 /ˈfɔːθɔːt/；美 /ˈfɔːrθɔːt/",
+    "meaning": "事先考虑；预先筹划",
+    "sense": "还没动手，就先把可能需要什么、哪里会卡住想一遍。",
+    "split": "fore-（在先）+ thought，中古英语有 forethouht、forethoght；古英语对应词形有重建成分，不当实见形式强列。",
+    "history": [
+      [
+        "fore-；thought",
+        "并列构词部分"
+      ],
+      [
+        "forethought",
+        "行动前的考虑、筹划"
+      ]
+    ],
+    "explanation": "with a little forethought 稍作预先考虑，show forethought 表现出前瞻筹划。不是能预言未来，而是提前动脑。",
+    "usage": "with a little forethought；careful forethought；show forethought。",
+    "contrast": "forethought 提前考虑，foresight 偏预见、远见；二者相关，但安排备用钥匙也是 forethought，不需神奇预测力。",
+    "examples": [
+      [
+        "A little forethought could have prevented the confusion.",
+        "稍微提前想想，本可避免这场混乱。"
+      ],
+      [
+        "Packing a spare cable showed useful forethought.",
+        "带上备用线，是很实用的事先筹划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forethought#English"
+    ]
+  },
+  {
+    "word": "thoughtlessly",
+    "ipa": "英 /ˈθɔːtləsli/；美 /ˈθɔːtləsli/",
+    "meaning": "欠考虑地；不顾他人感受地",
+    "sense": "话脱口而出、动作顺手做了，却没先想会给别人带来什么。",
+    "split": "thoughtless + -ly，先 thought + -less 表缺少考虑，再 -ly 说明做事方式。",
+    "history": [
+      [
+        "古英语 þōht → 中古英语 thought",
+        "思想、思考；与 think 词族相关"
+      ],
+      [
+        "英语 thought",
+        "想法、思虑；think 的过去式、分词也同形"
+      ],
+      [
+        "thought → thoughtless → thoughtlessly",
+        "思虑 → 欠考虑的 → 不加考虑地"
+      ]
+    ],
+    "explanation": "speak thoughtlessly 说话欠考虑，act thoughtlessly 行事不周。可造成伤害，但词义不直接断定是不是有意恶意。",
+    "usage": "speak thoughtlessly；act thoughtlessly；thoughtlessly ignore。",
+    "contrast": "thoughtlessly 欠考虑，与 deliberately 故意不是同一维度；没想后果与明知故犯不能自动画等号。",
+    "examples": [
+      [
+        "He thoughtlessly interrupted her explanation.",
+        "他没顾及她，打断了解释。"
+      ],
+      [
+        "The remark was made thoughtlessly, but it still hurt.",
+        "那句话是欠考虑说出的，却仍伤了人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thoughtlessly#English"
+    ]
+  },
+  {
+    "word": "closer",
+    "ipa": "较近的：英 /ˈkləʊsə/、美 /ˈkloʊsər/；收尾者、闭合装置：英 /ˈkləʊzə/、美 /ˈkloʊzər/",
+    "meaning": "更近、更亲密的；收尾者；闭门装置",
+    "sense": "站得更近，s 是清音；把门关上的装置或收尾的人，z 是浊音。",
+    "split": "比较级来自 close /kləʊs/ + -er；做事者、工具名词来自 close /kləʊz/ + -er，中古英语有 closere。两种后缀功能和读音分别看。",
+    "history": [
+      [
+        "close /s/〔近〕+ 比较级 -er；close /z/〔关闭〕+ 从业者、工具 -er",
+        "并列构词路径"
+      ],
+      [
+        "closer /s/；closer /z/",
+        "更近；闭合装置、收尾者"
+      ]
+    ],
+    "explanation": "move closer 靠近，a closer look 更仔细看，a door closer 闭门器。体育 a closer 常是承担末段收尾角色的选手，按项目语境。",
+    "usage": "move closer；a closer look；a door closer。",
+    "contrast": "字母一样，/s/ 比较近与 /z/ 负责关闭不是同一读音；别把 a closer look 读成关闭者的 /z/。",
+    "examples": [
+      [
+        "Please move a little closer.",
+        "请再靠近一点。"
+      ],
+      [
+        "The door closer needs adjusting.",
+        "闭门器需要调整。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/closer#English"
+    ]
+  },
+  {
+    "word": "closeness",
+    "ipa": "英 /ˈkləʊsnəs/；美 /ˈkloʊsnəs/",
+    "meaning": "接近；亲密；紧密程度；闷热感〔依语境〕",
+    "sense": "人与人可以距离近，也可以心里近；这里抽出近、紧密这份性质。",
+    "split": "close（近、紧密的）+ -ness；close 在这条路读 /s/，不沿关闭动词的 /z/。",
+    "history": [
+      [
+        "close〔近、紧密〕",
+        "距离、关系或接合紧"
+      ],
+      [
+        "close + -ness → closeness",
+        "接近、亲密、紧密程度等"
+      ]
+    ],
+    "explanation": "emotional closeness 感情亲近，the closeness of the two houses 两屋距离近。形容室内空气也可能是闷热、不流通感，按 close 的相应义项。",
+    "usage": "emotional closeness；the closeness of；a sense of closeness。",
+    "contrast": "closeness 是状态名词，closure 是关闭、结束或心理了结等另一名词；亲密关系不能机械写成 emotional closure。",
+    "examples": [
+      [
+        "The letters reveal the closeness of their friendship.",
+        "信件显出他们友谊的亲密。"
+      ],
+      [
+        "The closeness of the houses left little room for gardens.",
+        "房屋挨得太近，几乎没留下花园空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/closeness#English"
+    ]
+  },
+  {
+    "word": "foreclose",
+    "ipa": "英 /fɔːˈkləʊz/；美 /fɔːrˈkloʊz/",
+    "meaning": "对抵押物行使止赎权；预先排除、封死某种可能",
+    "sense": "普通比喻像把一扇门提前关死；贷款语境里则是未还款后按相应程序追索抵押房产的法律金融术语。",
+    "split": "部分经古法语 forclos、forclore“排除、关在外面”，部分与英语旧 forclosen、forclusen 等关闭形式合流。现代虽像 fore- + close，不能只按向前、未来硬讲全部历史。",
+    "history": [
+      [
+        "古法语 forclore / forclos；英语旧关闭形式",
+        "排除、关在外面等相关路径"
+      ],
+      [
+        "英语 foreclose",
+        "排除机会；抵押物止赎等专门用法"
+      ]
+    ],
+    "explanation": "foreclose on a property 是对抵押房产行使止赎权，foreclose an option 是排除选项。实际房产程序按司法体系和材料语境理解，不由词根推出通用办理步骤。",
+    "usage": "foreclose on；foreclose an option；foreclose the possibility of。",
+    "contrast": "foreclose 排除选项、抵押物止赎等，forecast 预测；同有 fore 不保证一个是提前关、一个提前看就能囊括全部历史。",
+    "examples": [
+      [
+        "The contract should not foreclose future cooperation.",
+        "合同不应堵死今后合作的可能。"
+      ],
+      [
+        "The film follows a farmer after a lender forecloses on his land.",
+        "电影跟随一位土地遭贷款方止赎的农民展开故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foreclose#English",
+      "https://dictionary.cambridge.org/dictionary/english/foreclose"
+    ]
+  }
+]

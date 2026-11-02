@@ -1,0 +1,219 @@
+[
+  {
+    "word": "terror",
+    "ipa": "英 /ˈterə/；美 /ˈterər/",
+    "meaning": "极度恐惧；令人害怕的人、事物",
+    "sense": "害怕强到仿佛身体僵住、脑子只剩危险。也可把制造这种感受的东西叫 a terror，而非只能指心里的感觉。",
+    "split": "经法语 terreur 接拉丁语 terror，来自 terrēre 使害怕。英语的 terr- 在这条线上关乎恐惧，不是 terra 土地那条线。",
+    "history": [
+      [
+        "拉丁语 terrēre → terror",
+        "使害怕 → 极度恐惧"
+      ],
+      [
+        "法语 terreur → 中古英语 terrour → terror",
+        "强烈恐惧；令人恐惧的人或事物"
+      ]
+    ],
+    "explanation": "in terror 惊恐地，a look of terror 惊恐神情，a reign of terror 恐怖统治；口语 a little terror 还可半开玩笑说闹腾、难管的小孩。",
+    "usage": "in terror；a look of terror；a reign of terror；strike terror into。",
+    "contrast": "fear 范围宽，terror 往往更强烈；terror 恐惧本身不等于 terrorism 恐怖主义，惊悚片使人害怕并不能因此叫 terrorism。",
+    "examples": [
+      [
+        "The children stared in terror as the huge tree began to fall.",
+        "大树开始倒下时，孩子们惊恐地盯着它。"
+      ],
+      [
+        "There was a look of terror on his face.",
+        "他脸上露出了极度恐惧的神情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/terror#English"
+    ]
+  },
+  {
+    "word": "terrorist",
+    "ipa": "英 /ˈterərɪst/；美 /ˈterərɪst/",
+    "meaning": "恐怖主义者；恐怖主义的",
+    "sense": "用暴力或威胁制造广泛恐惧、借此胁迫他人达到目的的人。这个称呼指向一种做法，不能只因某人令人讨厌、吓人就随便套用。",
+    "split": "与法语 terroriste 相接，英语见于十八世纪末法国革命语境，早期还指支持恐怖统治的人。现代可按 terror + -ist 理解人物名，但不是一开始就只有今天常见的组织成员形象。",
+    "history": [
+      [
+        "拉丁语 terrēre → terror",
+        "使害怕 → 极度恐惧"
+      ],
+      [
+        "法语 terreur → 中古英语 terrour → terror",
+        "强烈恐惧；令人恐惧的人或事物"
+      ],
+      [
+        "法语 terroriste → 英语 terrorist",
+        "早期革命、恐怖统治语境 → 更广的恐怖主义者称呼"
+      ]
+    ],
+    "explanation": "a terrorist attack 恐怖袭击，a terrorist organization 恐怖组织；也作名词 a terrorist。正式报道中的具体认定须看事实与出处。",
+    "usage": "a terrorist attack；a terrorist organization；the history of the word terrorist。",
+    "contrast": "terrorist 是人物或修饰词，terrorism 是行为体系、手段等抽象概念；terrorize 可说欺凌者恐吓邻居，不自动等于他属于恐怖组织。",
+    "examples": [
+      [
+        "The museum explains how the meaning of terrorist has changed over time.",
+        "博物馆解释了 terrorist 一词的意思怎样随时代变化。"
+      ],
+      [
+        "The novel follows a reporter investigating a terrorist organization.",
+        "小说讲一位记者调查一个恐怖组织的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/terrorist#English",
+      "https://www.etymonline.com/word/terrorist"
+    ]
+  },
+  {
+    "word": "terrorism",
+    "ipa": "英 /ˈterərɪzəm/；美 /ˈterərɪzəm/",
+    "meaning": "恐怖主义；以制造恐惧实施胁迫的做法",
+    "sense": "不是有人一时很害怕，而是把让人害怕当作施压手段：通过暴力、威胁等影响更广的人群，迫使人服从、改变行动。",
+    "split": "经法语 terrorisme，十八世纪末英语首先接法国革命恐怖统治的语境，后来用于更广的系统性恐吓、恐怖主义。现代可用 terror + -ism 认识抽象名词。",
+    "history": [
+      [
+        "拉丁语 terrēre → terror",
+        "使害怕 → 极度恐惧"
+      ],
+      [
+        "法语 terreur → 中古英语 terrour → terror",
+        "强烈恐惧；令人恐惧的人或事物"
+      ],
+      [
+        "法语 terrorisme → 英语 terrorism",
+        "恐怖统治的做法 → 更广的恐怖主义称呼"
+      ]
+    ],
+    "explanation": "the history of terrorism 恐怖主义史，the impact of terrorism 恐怖主义的影响，counterterrorism 反恐。不同研究、法律文本可能有不同边界，阅读时留意作者所指。",
+    "usage": "the history of terrorism；the impact of terrorism；a study of terrorism。",
+    "contrast": "terrorism 不等于所有 violence 暴力，也不等于 terror 恐惧感；要看是否借恐惧实施胁迫及具体语境。",
+    "examples": [
+      [
+        "The course examines the history of terrorism.",
+        "这门课研究恐怖主义的历史。"
+      ],
+      [
+        "The book explores the impact of terrorism on everyday life.",
+        "这本书探讨恐怖主义对日常生活的影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/terrorism#English",
+      "https://www.etymonline.com/word/terrorism"
+    ]
+  },
+  {
+    "word": "terrorize",
+    "ipa": "英 /ˈterəraɪz/；美 /ˈterəraɪz/",
+    "meaning": "恐吓、使长期处于恐惧中",
+    "sense": "让一个人或一群人怕得不敢正常生活、行动，通常比吓一跳更强，也常带反复威吓的感觉。",
+    "split": "terror + -ize，构成使陷入恐惧的动词。英式还见 terrorise，不另设词头。",
+    "history": [
+      [
+        "拉丁语 terrēre → terror",
+        "使害怕 → 极度恐惧"
+      ],
+      [
+        "法语 terreur → 中古英语 terrour → terror",
+        "强烈恐惧；令人恐惧的人或事物"
+      ],
+      [
+        "terror + -ize → terrorize",
+        "使陷入极度恐惧；以恐惧控制"
+      ]
+    ],
+    "explanation": "terrorize a neighbourhood 恐吓一个街区的居民，terrorize someone into silence 吓得某人不敢说话。",
+    "usage": "terrorize someone；terrorize a neighbourhood；terrorize someone into silence。",
+    "contrast": "startle 常突然吓一跳，terrorize 是更强的恐吓、使害怕；日常 bullying 欺凌也能 terrorize，动词不限定政治目的。",
+    "examples": [
+      [
+        "The bullies had terrorized the younger children for months.",
+        "那些欺凌者恐吓年幼的孩子已经好几个月。"
+      ],
+      [
+        "In the story, a dragon terrorizes the village.",
+        "故事里，一条龙让全村人惶恐不安。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/terrorize#English"
+    ]
+  },
+  {
+    "word": "boss",
+    "ipa": "英 /bɒs/；美 /bɑːs/ 或 /bɔːs/",
+    "meaning": "上司、负责人；指挥；游戏里的强敌、首领",
+    "sense": "工作中能给你安排任务、作决定的人。也可说某人老指挥别人；游戏把特别难对付、像头目那样的对手叫 boss。",
+    "split": "管事者义借自荷兰语 baas，中古荷兰语 baes，更远来源尚无定论。盾牌中央凸起那种 boss 另接法语 bosse 等，不拿同一个荷兰人物词硬解释所有凸块。",
+    "history": [
+      [
+        "荷兰语 baas，中古荷兰语 baes → 英语 boss",
+        "主人、管事者；更远来源不确定"
+      ],
+      [
+        "英语 boss 的现代扩展",
+        "上司、负责人；发号施令；游戏强敌"
+      ]
+    ],
+    "explanation": "my boss 我的上司，be your own boss 自己当老板，boss someone around 对人呼来喝去，the final boss 游戏最终首领。",
+    "usage": "my boss；be your own boss；boss someone around；the final boss。",
+    "contrast": "boss 不保证是公司 owner 所有人，部门主管也可以是你的 boss；bossy 带爱管人的批评，不只是有管理职位。",
+    "examples": [
+      [
+        "My boss asked me to check the figures again.",
+        "我的上司让我再核对一次数字。"
+      ],
+      [
+        "Stop bossing your little brother around.",
+        "别再对你弟弟呼来喝去了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boss#English",
+      "https://www.etymonline.com/word/boss"
+    ]
+  },
+  {
+    "word": "bossy",
+    "ipa": "英 /ˈbɒsi/；美 /ˈbɑːsi/ 或 /ˈbɔːsi/",
+    "meaning": "爱发号施令的、爱支使人的",
+    "sense": "好像总觉得自己该作主，动不动就告诉别人必须怎么做，常让听的人觉得被管得过头。",
+    "split": "常见形容词由 boss 管事者 + -y，表示带这种作派。与另一种表示凸起的旧 bossy 用法分开。",
+    "history": [
+      [
+        "荷兰语 baas，中古荷兰语 baes → 英语 boss",
+        "主人、管事者；更远来源不确定"
+      ],
+      [
+        "英语 boss 的现代扩展",
+        "上司、负责人；发号施令；游戏强敌"
+      ],
+      [
+        "boss + -y → bossy",
+        "带爱指挥别人特点的"
+      ]
+    ],
+    "explanation": "a bossy attitude 爱支使人的态度，sound bossy 听着像在发号施令，a bossy older sibling 爱管人的哥哥姐姐。",
+    "usage": "a bossy attitude；sound bossy；stop being bossy。",
+    "contrast": "bossy 常含过度支使的负面评价；confident 自信、decisive 果断不等于 bossy，发出必要指示也不必然是爱管人。",
+    "examples": [
+      [
+        "She disliked his bossy tone.",
+        "她不喜欢他那副发号施令的口气。"
+      ],
+      [
+        "I am trying to be clear without sounding bossy.",
+        "我想把话说清楚，又不想听起来像在支使人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bossy#English"
+    ]
+  }
+]

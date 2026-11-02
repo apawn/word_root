@@ -1,0 +1,217 @@
+[
+  {
+    "id": "A1758",
+    "meaning": "女性人物；部分动物的雌性名称",
+    "core": "ESS：标明女性或雌性，现代是否常用要看整个词",
+    "image": "lion → lioness 是雄狮、雌狮的常见对应；stewardess 却带旧职业称呼色彩，今天常说 flight attendant。",
+    "intro": "-ess 经法语 -esse 等传入，接晚期拉丁 -issa，远接希腊 -issa 等女性名称材料。旧称呼仍值得读懂，但不是任何职业都必须造一个女性版。",
+    "forms": "giant + -ess → giantess；shepherd + -ess → shepherdess。seamstress 来自 seamster + -ess，temptress 来自 tempter + -ess，seductress 接 seductor 的词干；不要把尾部 stress 误认成压力词。\n\n法语 geant 接拉丁 gigas、gigant-，再接希腊巨人名词；与 giantess 同族集中学习。\n\n矿层义借带状材料，不是跟 seems 词源相同。\n\nactress 的 -ess 是女性人物材料，actresses 最后 -es 才是复数，两个尾巴不能混为一层。\n\nduchess 经古法语 duchesse、拉丁 ducissa 接 dux 公爵、领袖的称号，含历史阴性后缀材料。与 duke 对照，不能按现代拼写原样加 -ess，ch 的变化发生在借入史里。",
+    "branches": [
+      [
+        "职业及旧称呼",
+        "actor · actress；waiter · waitress；steward · stewardess；seam · seamstress；song · songstress；shepherd · shepherdess"
+      ],
+      [
+        "身份、头衔与宗教称谓",
+        "count · countess；emperor · empress；baron · baroness；heir · heiress；priest · priestess；governess · deaconess · prioress · poetess"
+      ],
+      [
+        "神话、文学人物与评价",
+        "giant · giantess；god · goddess；tempt · temptress；seduce · seductress；enchantress · huntress"
+      ],
+      [
+        "动物名称",
+        "lion · lioness；tigress"
+      ],
+      [
+        "giant → giants：巨人与领域里的巨头",
+        "giant · giants"
+      ],
+      [
+        "seam → seams：两片连接的线",
+        "seam · seams"
+      ],
+      [
+        "-ess 人物词尾后再加复数 -es",
+        "actress · actresses"
+      ],
+      [
+        "duc- 统领的称号 + 阴性词尾 → duchess",
+        "duchess"
+      ]
+    ],
+    "contrasts": "seamstress 不由 seam + stress；shepherdess 是女牧羊人，不是母羊；现代 actor、flight attendant 等可不限定性别；具体词是否常用、是否带评价要逐词看。",
+    "practice": "The actress played a shepherdess in a story about a friendly giantess.\n\n那位女演员在一部善良女巨人的故事里扮演牧羊女。",
+    "words": [
+      "actor",
+      "actress",
+      "waiter",
+      "waitress",
+      "steward",
+      "stewardess",
+      "seam",
+      "seamstress",
+      "song",
+      "songstress",
+      "shepherd",
+      "shepherdess",
+      "count",
+      "countess",
+      "emperor",
+      "empress",
+      "baron",
+      "baroness",
+      "heir",
+      "heiress",
+      "priest",
+      "priestess",
+      "governess",
+      "deaconess",
+      "prioress",
+      "poetess",
+      "giant",
+      "giantess",
+      "god",
+      "goddess",
+      "tempt",
+      "temptress",
+      "seduce",
+      "seductress",
+      "enchantress",
+      "huntress",
+      "lion",
+      "lioness",
+      "tigress",
+      "giants",
+      "seams",
+      "actresses",
+      "duchess"
+    ],
+    "exclude": {
+      "patroness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "adulteress": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1977",
+    "meaning": "与某动作、功能、性质有关的〔常见形容词材料〕",
+    "core": "ORY：把一件事变成作用、性质或关系来修饰别的东西",
+    "image": "exposition 把事讲开，expository writing 就是说明性的写作；retaliatory action 则把行动标明为回击、报复性质。",
+    "intro": "常见形容词 -ory 接拉丁 -orius 等历史材料，常与动词词干、分词词干相连，也有完整借词。不能见到结尾就一律翻成一个做某事的地方。",
+    "forms": "retaliate ↔ retaliatory；exposit-／exposition ↔ expository；revelat-／revelation ↔ revelatory；hallucinate ↔ hallucinatory；vibrate ↔ vibratory；stimulate ↔ stimulatory。对应是帮助读词，具体借入史仍看各词。",
+    "branches": [
+      [
+        "回击与解释、揭示",
+        "retaliate · retaliatory；exposition · expository；reveal · revelation · revelatory"
+      ],
+      [
+        "体验、运动和作用",
+        "hallucinate · hallucinatory；vibrate · vibratory；stimulate · stimulatory"
+      ],
+      [
+        "规定、感官与关系",
+        "advisory · mandatory · statutory · sensory · contradictory · discriminatory · supervisory · derogatory"
+      ],
+      [
+        "其他已有常用形容词",
+        "migratory · participatory · celebratory · inhibitory · congratulatory · investigatory · anticipatory · exculpatory"
+      ]
+    ],
+    "contrasts": "expository 说明、解释，不保证是在说服；revelatory 揭示新认识，不等于 revolutionary 巨大变革；vibratory 振动不等于 vibrant 有活力；-ory 不是全都名词场所。",
+    "practice": "The expository chapter offered a revelatory comparison of the two methods.\n\n这一说明性章节通过比较两种方法，让人有了新的认识。",
+    "words": [
+      "retaliate",
+      "retaliatory",
+      "exposition",
+      "expository",
+      "expose",
+      "expound",
+      "reveal",
+      "revelation",
+      "revelatory",
+      "hallucinate",
+      "hallucinatory",
+      "vibrate",
+      "vibratory",
+      "stimulate",
+      "stimulatory",
+      "advisory",
+      "mandatory",
+      "statutory",
+      "sensory",
+      "contradictory",
+      "discriminatory",
+      "supervisory",
+      "derogatory",
+      "migratory",
+      "participatory",
+      "celebratory",
+      "inhibitory",
+      "congratulatory",
+      "investigatory",
+      "anticipatory",
+      "exculpatory"
+    ],
+    "exclude": {
+      "crematory": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1683",
+    "meaning": "相关领域的人；属于、涉及某一类的〔-ian〕",
+    "core": "IAN：先认清前面的领域，再看是人还是性质",
+    "image": "history → historian 是历史学家；electric → electrician 是电工；avian 却形容鸟类的，不是一个职业人物。",
+    "intro": "-ian 与 -an 是常见关系人物、形容词材料，经拉丁 -ianus 等及法语形式传入，也在英语中继续构词。不同词的借入、词干变化和发音各自固定，不是把所有英语词后直接加 ian。",
+    "forms": "history ↔ historian；politics ↔ politician；electric ↔ electrician；statistics ↔ statistician。thespian 则接 Thespis 人名，表现同一类后缀还可用于人名命名。",
+    "branches": [
+      [
+        "历史、政治及普通身份",
+        "historian · politician · civilian"
+      ],
+      [
+        "职业及学科人物",
+        "technician · electrician · physician · pediatrician · clinician · statistician · tactician · academician · logician"
+      ],
+      [
+        "人物命名与舞台",
+        "thespian · draconian"
+      ],
+      [
+        "类别、立场和性质",
+        "mammalian · avian · reptilian · egalitarian"
+      ]
+    ],
+    "contrasts": "electrician、physician 等的 -cian 常读类似 /ʃən/，historian 的末尾则不按同一串声音硬套；avian、mammalian 并非人；thespian 是演员用词，不是新的专门国籍名称。",
+    "practice": "The historian interviewed a physician and a veteran thespian about the old theatre.\n\n历史学家采访了一位医生和一位资深演员，了解那座老剧院。",
+    "words": [
+      "historian",
+      "politician",
+      "civilian",
+      "technician",
+      "electrician",
+      "physician",
+      "pediatrician",
+      "clinician",
+      "statistician",
+      "tactician",
+      "academician",
+      "logician",
+      "thespian",
+      "draconian",
+      "mammalian",
+      "avian",
+      "reptilian",
+      "egalitarian"
+    ],
+    "exclude": {
+      "unitarian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "episcopalian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "abelian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arcadian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "isthmian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "palladian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "subclavian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stygian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

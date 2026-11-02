@@ -1,0 +1,546 @@
+[
+  {
+    "word": "filling",
+    "ipa": "/ˈfɪlɪŋ/",
+    "meaning": "填满、填入；馅料、填充物；管饱的〔现在分词及相关名词、形容词〕",
+    "sense": "把原来的空处一点点占满，是 filling 的动作；放进去的东西可叫 filling；食物让肚子饱起来，也能形容为 filling。",
+    "split": "fill + -ing，直接加 ing，原词已有 ll。fill 接古英语 fyllan，与 full 满同族；填充物、馅料等名词由相应动作发展。",
+    "history": [
+      [
+        "古英语 fyllan → fill",
+        "使满、补空处"
+      ],
+      [
+        "fill + -ing → filling",
+        "正在填；填入的东西；让人饱的性质"
+      ]
+    ],
+    "explanation": "filling a bottle 灌满瓶子；a sandwich filling 三明治馅料；a filling meal 管饱的一餐。",
+    "usage": "filling out a form 填表；filling the gap 填补缺口。",
+    "contrast": "filling a form 是动作，the filling in a sandwich 是放进去的馅；形容饭菜 filling 说容易吃饱，不只是盘子盛得满。",
+    "examples": [
+      [
+        "She is filling the bottle with water.",
+        "她正在往瓶子里灌水。"
+      ],
+      [
+        "The soup was simple but filling.",
+        "这汤做法简单，却很管饱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/filling#English",
+      "https://en.wiktionary.org/wiki/fill#English"
+    ]
+  },
+  {
+    "word": "filming",
+    "ipa": "/ˈfɪlmɪŋ/",
+    "meaning": "拍摄、摄制〔现在分词、动名词及相关名词〕",
+    "sense": "用影像把场面记录下来，就是 filming。名称保留了薄膜、胶片的历史，但今天拿数字设备拍也一样能用。",
+    "split": "film + -ing，直接加 ing。film 继承古英语 filmen 薄皮、膜，摄影感光薄层、胶片再发展电影作品与拍摄动作。",
+    "history": [
+      [
+        "古英语 filmen → film",
+        "薄膜 → 感光胶片、电影等"
+      ],
+      [
+        "film + -ing → filming",
+        "正在摄制；拍摄这项活动"
+      ]
+    ],
+    "explanation": "filming a scene 拍一个场景；filming begins 拍摄开始；a filming location 拍摄地点。",
+    "usage": "during filming 拍摄期间；filming outdoors 在户外拍摄。",
+    "contrast": "filming 常说视频、电影等活动；photography 更常说摄影、静态照片。数字拍摄保留 film 这一历史名称。",
+    "examples": [
+      [
+        "The crew is filming a scene in the market.",
+        "摄制组正在市场拍一场戏。"
+      ],
+      [
+        "Filming will begin next month.",
+        "拍摄将于下月开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/filming#English",
+      "https://en.wiktionary.org/wiki/film#English"
+    ]
+  },
+  {
+    "word": "operators",
+    "ipa": "英 /ˈɒpəreɪtəz/；美 /ˈɑːpəreɪtərz/",
+    "meaning": "操作员；经营者、运营商；运算符等〔复数〕",
+    "sense": "让机器、业务或服务运行起来的一方，是 operators 的常见人物、机构义。数学和编程中，规定做某种运算的符号也沿用 operator。",
+    "split": "operator + -s，末尾读 /z/。operator 借拉丁 operator 工作者，接 operari 工作；现代可与 operate 加 or 的关系对照，名词有独立借入史。",
+    "history": [
+      [
+        "拉丁 operari、operator → 英语 operator",
+        "工作者 → 操作人员、经营方；后有技术符号义"
+      ],
+      [
+        "operator + -s → operators",
+        "多位操作员、多家运营商、多个运算符"
+      ]
+    ],
+    "explanation": "machine operators 机器操作员；tour operators 旅游经营商；mobile operators 移动通信运营商。",
+    "usage": "telephone operators 电话接线员；mathematical operators 数学运算符。",
+    "contrast": "operators 不一定只是按按钮的人，也可能是经营服务的公司。运算符义是技术发展，先看所在场景再判断人物、机构还是符号。",
+    "examples": [
+      [
+        "The machine operators received additional training.",
+        "机器操作员接受了额外培训。"
+      ],
+      [
+        "Several tour operators offer trips to the island.",
+        "几家旅游经营商提供前往这座岛的行程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/operators#English",
+      "https://en.wiktionary.org/wiki/operator#English"
+    ]
+  },
+  {
+    "word": "participating",
+    "ipa": "英 /pɑːˈtɪsɪpeɪtɪŋ/；美 /pɑːrˈtɪsəpeɪtɪŋ/",
+    "meaning": "参与、参加〔现在分词及分词形容词〕",
+    "sense": "一件事不是只在旁边看，自己也拿到其中一份、做其中一部分，就是 participating。",
+    "split": "participate 去 e 加 -ing。拉丁 pars 一份与 capere 拿取的相关材料形成 particeps 有份参与的人，再有 participare；英语借相关形式。",
+    "history": [
+      [
+        "拉丁 particeps、participare → participate",
+        "拿到自己的一份 → 参与"
+      ],
+      [
+        "participate 去 e 加 -ing → participating",
+        "正在参加；形容参与其中的人、机构"
+      ]
+    ],
+    "explanation": "participating in a discussion 参与讨论；participating schools 参与学校；actively participating 积极参与。",
+    "usage": "participating in the event 参加活动；a participating organisation 参与机构。",
+    "contrast": "participating in 通常要把 in 带上；attending 常只说明到场，participating 更强调有参与行为。不过实际参与程度仍需看上下文。",
+    "examples": [
+      [
+        "Students are participating in the discussion.",
+        "学生们正在参与讨论。"
+      ],
+      [
+        "Each participating school will send two representatives.",
+        "每所参与学校将派两位代表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/participating#English",
+      "https://en.wiktionary.org/wiki/participate#English"
+    ]
+  },
+  {
+    "word": "platforms",
+    "ipa": "英 /ˈplætfɔːmz/；美 /ˈplætfɔːrmz/",
+    "meaning": "平台、站台；技术平台、公开表达的渠道等〔复数〕",
+    "sense": "有一块托得住人和活动的平面，是 platforms 的实体画面。后来把能承载服务、创作或发言的环境，也称为平台。",
+    "split": "platform + -s，/m/ 后读 /z/。platform 借法语 plateforme，plate 平的与 forme 形状、形式结合，后者接拉丁 forma。",
+    "history": [
+      [
+        "法语 plateforme → 英语 platform",
+        "平的形体、台面 → 平台、站台"
+      ],
+      [
+        "实体承载到技术、表达环境；加 -s → platforms",
+        "多个实体平台、技术平台或表达渠道"
+      ]
+    ],
+    "explanation": "railway platforms 铁路站台；online platforms 网络平台；platforms for discussion 讨论渠道。",
+    "usage": "different software platforms 不同软件平台；raised platforms 抬高的台面。",
+    "contrast": "platforms 在车站、工程、软件、公共表达中有不同具体指向。共同的理解画面是让某种活动站得住、开展起来。",
+    "examples": [
+      [
+        "Passengers waited on different platforms.",
+        "乘客们在不同站台等候。"
+      ],
+      [
+        "The tool works on several software platforms.",
+        "这个工具能在几种软件平台上运行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/platforms#English",
+      "https://en.wiktionary.org/wiki/platform#English"
+    ]
+  },
+  {
+    "word": "populations",
+    "ipa": "英 /ˌpɒpjuˈleɪʃənz/；美 /ˌpɑːpjuˈleɪʃənz/",
+    "meaning": "各地区人口；人群、总体；生物种群〔复数〕",
+    "sense": "先圈出一个范围，数里面的人或生物，就得到一个 population。按地区、物种或研究范围圈出几组，就是 populations。",
+    "split": "population + -s，/n/ 后读 /z/。population 借晚期拉丁 populatio 人群等，属 populus 词族；现代与 populate 配套理解，名词有独立借入路线。",
+    "history": [
+      [
+        "晚期拉丁 populatio → 英语 population",
+        "人群等名称 → 一个范围内的人口、个体总群"
+      ],
+      [
+        "population + -s → populations",
+        "多个地区人口、多个人群或生物种群"
+      ]
+    ],
+    "explanation": "rural populations 乡村人口；bird populations 鸟类种群；different populations 不同研究人群、总体。",
+    "usage": "populations of nearby towns 附近各镇的人口；growing populations 增长的人口、种群。",
+    "contrast": "populations 不只用于人，也能用于动物、植物或研究总体。population 数的范围要先给定，不能只背成一个地区的总人数。",
+    "examples": [
+      [
+        "The researchers compared bird populations in two forests.",
+        "研究人员比较了两片森林的鸟类种群。"
+      ],
+      [
+        "Several nearby towns have growing populations.",
+        "附近几个城镇的人口正在增长。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/populations#English",
+      "https://en.wiktionary.org/wiki/population#English"
+    ]
+  },
+  {
+    "word": "produces",
+    "ipa": "英 /prəˈdjuːsɪz/；美 /prəˈduːsɪz/",
+    "meaning": "生产、产生；出示、制作〔第三人称单数〕",
+    "sense": "从一套原料、过程或能力里，把结果带出来，就是 produces。工厂有产品，树有果实，创作团队有作品。",
+    "split": "produce + -s，末尾 /s/ 后读 /ɪz/，沿动词后重音。拉丁 pro- 向前、向外与 ducere 带领形成 producere，英语接相关形式。",
+    "history": [
+      [
+        "拉丁 producere → 英语 produce",
+        "向前带出 → 生产、产生、拿出"
+      ],
+      [
+        "produce + -s → produces",
+        "第三人称主语产出、制作或出示"
+      ]
+    ],
+    "explanation": "produces fruit 结果实；produces electricity 发电；produces films 制作电影。",
+    "usage": "produces a result 产生结果；produces a ticket 出示票据。",
+    "contrast": "produces 这里读动词的后重音；农产品名词 produce 前重音且通常不可数，不把 produces 当它的日常普通复数来背。",
+    "examples": [
+      [
+        "The tree produces small yellow fruit.",
+        "这棵树结黄色的小果子。"
+      ],
+      [
+        "The studio produces educational videos.",
+        "工作室制作教育视频。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/produces#English",
+      "https://en.wiktionary.org/wiki/produce#English"
+    ]
+  },
+  {
+    "word": "ranging",
+    "ipa": "/ˈreɪndʒɪŋ/",
+    "meaning": "范围从……到……；巡行、漫游等〔现在分词、动名词〕",
+    "sense": "不是只停在一个点，而是在一段范围里延伸、活动，是 ranging。最常见的 ranging from A to B，是把两端摆出来说明覆盖范围。",
+    "split": "range 去 e 加 -ing。range 经古法语行列、排列相关词进入英语，后来发展连续范围、活动区域及巡行等用法。",
+    "history": [
+      [
+        "法语行列、排列相关词 → range",
+        "排列延伸 → 范围、巡行等"
+      ],
+      [
+        "range 去 e 加 -ing → ranging",
+        "正在延伸、活动；用两端介绍覆盖范围"
+      ]
+    ],
+    "explanation": "ranging from simple to complex 从简单到复杂；animals ranging over an area 在区域里活动的动物。",
+    "usage": "topics ranging from art to science 从艺术到科学的一系列话题；a wide ranging discussion 范围广泛的讨论。",
+    "contrast": "ranging from 常与 to 配对，不是每一项都要逐一列出；它给出范围。ranger 是巡护、管理人员名词，不能当 ing 的另一拼法。",
+    "examples": [
+      [
+        "The book covers topics ranging from music to architecture.",
+        "这本书涵盖从音乐到建筑的一系列话题。"
+      ],
+      [
+        "The animals were ranging across the open grassland.",
+        "动物们正在开阔草原上活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranging#English",
+      "https://en.wiktionary.org/wiki/range#English"
+    ]
+  },
+  {
+    "word": "ranking",
+    "ipa": "/ˈræŋkɪŋ/",
+    "meaning": "排名、排序；名次〔动名词及相关名词〕；等级较高的等〔形容词〕",
+    "sense": "把多个对象按一把尺度排出高低，是 ranking 这件事；排完后某个对象处在第几位，也能叫它的 ranking。",
+    "split": "rank + -ing，直接加 ing。rank 的行列名词经法语借入，等级、名次义再有排名动词，ing 形成过程、结果名词。",
+    "history": [
+      [
+        "法语行列词 → rank 的名词、动词",
+        "一排到层级、名次；按标准排列"
+      ],
+      [
+        "rank + -ing → ranking",
+        "排名过程、名次结果；也有等级较高的性质义"
+      ]
+    ],
+    "explanation": "a world ranking 世界排名；ranking the teams 给各队排名；a ranking system 排名系统。",
+    "usage": "improve a ranking 提高名次；a high ranking official 高级官员，rank 的等级意义进一步修饰身份。",
+    "contrast": "ranking 是按标准排出来的位置，不等于所有方面的绝对好坏。不同 ranking systems 使用的尺度可能不同。",
+    "examples": [
+      [
+        "The player improved her world ranking.",
+        "这位选手提高了自己的世界排名。"
+      ],
+      [
+        "We are ranking the options by cost and convenience.",
+        "我们正在按费用和便利程度给选项排序。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranking#English",
+      "https://en.wiktionary.org/wiki/rank#English"
+    ]
+  },
+  {
+    "word": "routes",
+    "ipa": "英 /ruːts/；美 /ruːts/ 或 /raʊts/",
+    "meaning": "路线、路径〔复数〕；安排经由、把……导向〔第三人称单数〕",
+    "sense": "从起点到终点，途中沿哪条路走，就是 routes。货物、信息也能沿一条安排好的路径被送到目标处。",
+    "split": "route + -s，/t/ 后读 /s/。route 借古法语，接拉丁 rupta via 开辟出来的道路；rupta 与 rumpere 打破、破开相关。",
+    "history": [
+      [
+        "拉丁 rupta via → 古法语 route → route",
+        "破开阻碍形成的路 → 既定路线"
+      ],
+      [
+        "route + -s → routes",
+        "多条路线；某系统、人员安排信息、货物的去向"
+      ]
+    ],
+    "explanation": "bus routes 公交线路；alternative routes 备选路线；routes calls to the right person 把来电转给合适的人。",
+    "usage": "walking routes 步行路线；trade routes 贸易路线。",
+    "contrast": "routes 是路线，不只是某一条实体道路。美式 /raʊts/ 与 /ruːts/ 都能遇到；root 根通常读 /ruːt/，与 route 的一路读音相同。",
+    "examples": [
+      [
+        "The map shows several walking routes.",
+        "地图标出了几条步行路线。"
+      ],
+      [
+        "The system routes messages to the correct team.",
+        "系统把消息转给相应团队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/routes#English",
+      "https://en.wiktionary.org/wiki/route#English"
+    ]
+  },
+  {
+    "word": "situated",
+    "ipa": "/ˈsɪtʃueɪtɪd/",
+    "meaning": "位于、坐落于；处在某种位置或条件下的〔过去分词及形容词〕",
+    "sense": "把一个地点放到周围环境里看，说明它在哪里、处境如何，就是 situated 的常见作用。",
+    "split": "situate + -d，/t/ 后读 /ɪd/。situate 接中古拉丁 situatus、situare 安置、定位，来自拉丁 situs 地点、位置；与 site 共享较早材料，但不是英语 site 临时加尾。",
+    "history": [
+      [
+        "拉丁 situs → 中古拉丁 situare、situatus → situate",
+        "地点、位置 → 安放到某位置"
+      ],
+      [
+        "situate 去 e + -ed → situated",
+        "处于安放后的状态 → 位于、坐落于"
+      ]
+    ],
+    "explanation": "situated near the station 位于车站附近；situated on a hill 坐落在山上；well situated 位置、处境合适的。",
+    "usage": "centrally situated 位于中心的；situated within walking distance 位于步行可达的范围内。",
+    "contrast": "be situated 常描写位置，和 be located 有重叠。situated 不表示正在坐着，不能从英语 sit 的字母相似来猜全部词史。",
+    "examples": [
+      [
+        "The hotel is situated near the river.",
+        "酒店位于河边。"
+      ],
+      [
+        "The village is beautifully situated on a hillside.",
+        "村庄坐落在山坡上，位置优美。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/situated#English",
+      "https://www.etymonline.com/word/situate"
+    ]
+  },
+  {
+    "word": "slaves",
+    "ipa": "/sleɪvz/",
+    "meaning": "奴隶〔复数〕；拼命做、苦干〔动词第三人称单数〕",
+    "sense": "被剥夺人身自由、被强制支配的人，是 slaves 的主要意思。动词 slave away 则借极辛苦、缺乏自由的感觉说苦干。",
+    "split": "slave + -s，/v/ 后读 /z/。slave 经法语 esclave、中世纪拉丁 sclavus 等传入，主流解释联系 Slav 族名及中世纪斯拉夫人遭奴役的历史。",
+    "history": [
+      [
+        "中世纪拉丁 sclavus、法语 esclave → slave",
+        "族名在特定被奴役历史中的泛化 → 奴隶称呼"
+      ],
+      [
+        "slave + -s → slaves",
+        "多个遭奴役的人；也可为苦干动词三单"
+      ]
+    ],
+    "explanation": "former slaves 曾受奴役的人；slaves seeking freedom 寻求自由的奴隶；slaves away at a desk 在书桌前拼命工作。",
+    "usage": "the lives of slaves 奴隶的生活；slaves in the novel 小说中的奴隶。",
+    "contrast": "slaves 说的是受强制支配的身份、处境，不是某种民族本性。enslaved people 更直接把遭受奴役这件事写出来。",
+    "examples": [
+      [
+        "The museum tells the stories of former slaves.",
+        "博物馆讲述了曾受奴役者的故事。"
+      ],
+      [
+        "The novel follows a family of slaves seeking freedom.",
+        "小说讲述了一个奴隶家庭追寻自由的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slaves#English",
+      "https://en.wiktionary.org/wiki/slave#English"
+    ]
+  },
+  {
+    "word": "spotted",
+    "ipa": "英 /ˈspɒtɪd/；美 /ˈspɑːtɪd/",
+    "meaning": "发现、认出了；有斑点的〔过去式、过去分词及形容词〕",
+    "sense": "背景里有一点特别显眼，把它认出来，是 spotted 的发现义；物体上分布着一个个色点，则是有斑点的。",
+    "split": "spot 双写 t 加 -ed，/t/ 后读 /ɪd/。spot 接中古英语及低地日耳曼相关斑点材料，地点、发现等意思后来形成；有斑点的形容词也可按名词加 ed 理解。",
+    "history": [
+      [
+        "中古英语 spot、spotte 等 → spot",
+        "斑点、一个位置 → 地点、发现等"
+      ],
+      [
+        "spot → spotted",
+        "双写 t 加 ed：发现了；也形容布有斑点"
+      ]
+    ],
+    "explanation": "spotted a mistake 发现错误；spotted in the crowd 在人群中认出；a spotted animal 有斑点的动物。",
+    "usage": "spotted the difference 看出了区别；a spotted coat 有斑点的皮毛或外套，具体看对象。",
+    "contrast": "spotted someone 是认出了人；a spotted shirt 是花色性质。不是每次 spotted 都表示给东西点上斑点。",
+    "examples": [
+      [
+        "She spotted a mistake in the final line.",
+        "她在最后一行发现了一处错误。"
+      ],
+      [
+        "A spotted dog was waiting by the gate.",
+        "一只身上有斑点的狗在门边等着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spotted#English",
+      "https://en.wiktionary.org/wiki/spot#English"
+    ]
+  },
+  {
+    "word": "spreading",
+    "ipa": "/ˈspredɪŋ/",
+    "meaning": "铺开、展开；传播、扩散〔现在分词、动名词〕",
+    "sense": "原来只占一小块，后来向四周延伸，就有 spreading。可以铺开地图，也可以是消息、光、气味逐渐传开。",
+    "split": "spread + -ing，直接加 ing。spread 继承古英语 spraedan；原形、过去式、过去分词都拼 spread，ing 是另外的进行、活动形式。",
+    "history": [
+      [
+        "古英语 spraedan → spread",
+        "摊开、使范围扩大"
+      ],
+      [
+        "spread + -ing → spreading",
+        "正在展开、向外传开；或扩散过程"
+      ]
+    ],
+    "explanation": "spreading a blanket 铺开毯子；spreading the news 传播消息；spreading through the town 传遍镇子。",
+    "usage": "spreading butter 抹黄油；a spreading tree 树冠展开的树。",
+    "contrast": "spreading 的主语可以自己向外扩展，也可以把别的东西铺开。消息传播与实体摊开共用范围增大的形象。",
+    "examples": [
+      [
+        "They are spreading a blanket on the grass.",
+        "他们正在草地上铺毯子。"
+      ],
+      [
+        "The news is spreading quickly through the town.",
+        "消息正迅速传遍镇子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spreading#English",
+      "https://en.wiktionary.org/wiki/spread#English"
+    ]
+  },
+  {
+    "word": "themes",
+    "ipa": "/θiːmz/",
+    "meaning": "主题、主旨；主旋律；软件外观主题〔复数〕",
+    "sense": "把一件事摆到中心，围着它讲、写、组织内容，就是 themes 的主题感。音乐里是反复展开的旋律，软件里是统一组织外观的一套样式。",
+    "split": "theme + -s，/m/ 后读 /z/。theme 经拉丁、法语接希腊 thema 放置、提出的事物，较早与放置的动词材料相关。",
+    "history": [
+      [
+        "希腊 thema → 拉丁、法语 → theme",
+        "提出供讨论的事物 → 主题"
+      ],
+      [
+        "音乐、软件等扩展；theme + -s → themes",
+        "多个主旨、旋律主题或外观主题"
+      ]
+    ],
+    "explanation": "common themes 共同主题；musical themes 音乐主题；choose themes 选择外观主题。",
+    "usage": "themes of friendship and courage 友谊与勇气的主题；recurring themes 反复出现的主题。",
+    "contrast": "themes 常是贯穿作品、活动的中心思想；topics 可以只是讨论的具体对象。界面里的 themes 则是样式配置，不一定带文学主旨。",
+    "examples": [
+      [
+        "The two novels share several themes.",
+        "这两部小说有几个共同主题。"
+      ],
+      [
+        "The app offers a choice of light and dark themes.",
+        "应用提供浅色、深色主题供选择。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/themes#English",
+      "https://en.wiktionary.org/wiki/theme#English"
+    ]
+  },
+  {
+    "word": "trapped",
+    "ipa": "/træpt/",
+    "meaning": "困住、卡住了；受困的〔过去式、过去分词及形容词〕",
+    "sense": "想出去却没有自由通路，像落进圈套，就是 trapped。门卡住、热量出不去，或人被某种局面困住，都能用它。",
+    "split": "trap 双写 p 加 -ed，/p/ 后读 /t/。圈套义 trap 接古英语 traeppe、treppe 等，更远与踩踏材料相关；地质和肌肉的专业同形词另有来源。",
+    "history": [
+      [
+        "古英语圈套词 → trap",
+        "设圈套捕获 → 使无法离开、把东西困在里面"
+      ],
+      [
+        "trap → trapped",
+        "双写 p 加 ed；已被困、卡住或留住"
+      ]
+    ],
+    "explanation": "trapped inside 被困在里面；trapped under something 被压住、困在某物下面；trapped heat 被困住的热量。",
+    "usage": "felt trapped 感到进退不得；trapped between two choices 困在两种选择之间。",
+    "contrast": "trapped 不必真有捕兽夹，只要空间或处境让人、物难以离开即可。trapping 是正在困住、捕获，trapped 更关注已受困的状态。",
+    "examples": [
+      [
+        "The key was trapped behind the drawer.",
+        "钥匙卡在抽屉后面了。"
+      ],
+      [
+        "She felt trapped between two difficult choices.",
+        "她觉得自己夹在两个艰难选项之间，进退不得。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trapped#English",
+      "https://en.wiktionary.org/wiki/trap#English"
+    ]
+  }
+]

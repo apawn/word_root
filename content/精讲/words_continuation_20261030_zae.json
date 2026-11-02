@@ -1,0 +1,512 @@
+[
+  {
+    "word": "celebrating",
+    "ipa": "英 /ˈselɪbreɪtɪŋ/；美 /ˈseləbreɪtɪŋ/",
+    "meaning": "庆祝、纪念；赞颂〔现在分词、动名词〕",
+    "sense": "把一件值得高兴、值得记住的事拿出来，和别人一起重视它，是 celebrating。可以有聚会，也可以用作品赞颂某人、某种事物。",
+    "split": "celebrate 去 e 加 -ing。celebrate 接拉丁 celebrare、celebratus，较早连到 celeber 人多、著名等材料。",
+    "history": [
+      [
+        "拉丁 celeber、celebrare → 英语 celebrate",
+        "聚集、公开纪念、赞颂 → 庆祝"
+      ],
+      [
+        "celebrate 去 e 加 -ing → celebrating",
+        "正在庆祝、纪念；也可谈庆祝活动"
+      ]
+    ],
+    "explanation": "celebrating a birthday 庆祝生日；celebrating success 庆祝成功；a book celebrating local life 赞颂本地生活的书。",
+    "usage": "celebrating with friends 与朋友庆祝；celebrating the opening 庆祝开幕。",
+    "contrast": "celebrating 可以有仪式、聚会，也可以只是表达赞颂；不必每次都译成开派对。celebrated 作形容词还可能是著名的。",
+    "examples": [
+      [
+        "The neighbours are celebrating the opening of their new garden.",
+        "邻居们正在庆祝新花园开放。"
+      ],
+      [
+        "The exhibition is celebrating the work of local craftspeople.",
+        "展览正在展示并赞颂本地工匠的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/celebrating#English",
+      "https://en.wiktionary.org/wiki/celebrate#English"
+    ]
+  },
+  {
+    "word": "knocking",
+    "ipa": "英 /ˈnɒkɪŋ/；美 /ˈnɑːkɪŋ/",
+    "meaning": "敲、敲门；碰撞；敲击声等〔现在分词、动名词及相关名词〕",
+    "sense": "一下下碰到一个表面，发出咚咚声，是 knocking 的声音和动作。门外有人这样做，就是敲门。",
+    "split": "knock + -ing，直接加 ing；开头 k 不发音。knock 接古英语 cnocian、cnucian 等敲击形式。",
+    "history": [
+      [
+        "古英语敲击词 → knock",
+        "敲、撞；再扩到造成冲击等"
+      ],
+      [
+        "knock + -ing → knocking",
+        "正在敲击；也用来指持续敲击声"
+      ]
+    ],
+    "explanation": "knocking on the door 敲门；hear knocking 听见敲击声；knocking things over 把东西碰倒。",
+    "usage": "without knocking 没敲门就；a knocking sound 一阵敲击声。",
+    "contrast": "knocking on 是敲某表面；knocking over 是碰倒东西。声音名词 a knocking sound 也可能来自机器，不一定有人在门外。",
+    "examples": [
+      [
+        "Someone is knocking on the front door.",
+        "有人正在敲前门。"
+      ],
+      [
+        "We heard a strange knocking sound from the old machine.",
+        "我们听见旧机器发出奇怪的敲击声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knocking#English",
+      "https://en.wiktionary.org/wiki/knock#English"
+    ]
+  },
+  {
+    "word": "knocks",
+    "ipa": "英 /nɒks/；美 /nɑːks/",
+    "meaning": "敲、碰撞〔第三人称单数〕；敲击声、打击、挫折〔复数〕",
+    "sense": "一次碰撞、一下敲门声，是一个 knock；一件让人受打击的事，也能像撞了一下那样叫 knock。knocks 可数这些事，也可说某人在敲。",
+    "split": "knock + -s，/k/ 后读 /s/，开头 k 不发音。knock 继承古英语敲击、碰撞词。",
+    "history": [
+      [
+        "古英语 cnocian、cnucian 等 → knock",
+        "实体碰撞、敲击 → 名词声响、抽象打击"
+      ],
+      [
+        "knock + -s → knocks",
+        "某人敲击；多下敲声或多次挫折"
+      ]
+    ],
+    "explanation": "three knocks on the door 三下敲门声；knocks over a chair 碰倒椅子；take a few knocks 经历一些打击。",
+    "usage": "knocks at the door 敲门；life’s knocks 生活中的挫折。",
+    "contrast": "three knocks 是名词复数；she knocks 是动词三单。hard knocks 在惯用语里常指艰难经历，别只译成很响的敲门声。",
+    "examples": [
+      [
+        "We heard three knocks at the door.",
+        "我们听见三下敲门声。"
+      ],
+      [
+        "The loose branch knocks against the window in the wind.",
+        "风中，那根松动的树枝敲打着窗户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knocks#English",
+      "https://en.wiktionary.org/wiki/knock#English"
+    ]
+  },
+  {
+    "word": "warnings",
+    "ipa": "英 /ˈwɔːnɪŋz/；美 /ˈwɔːrnɪŋz/",
+    "meaning": "警告、提醒；危险预兆〔复数〕",
+    "sense": "坏事还没发生，先有一个信号告诉人留意，就是 warnings。它可能是别人说的话，也可能是系统提示、天气预报里的提醒。",
+    "split": "warning + -s，/ŋ/ 后读 /z/。warning 与 warn + -ing 对应，古英语已有 warnung 一类名词，不能只当今天临时把动词变名词。",
+    "history": [
+      [
+        "古英语 warnung 等 → warning；与 warn 相联",
+        "提前告知、提醒注意"
+      ],
+      [
+        "warning + -s → warnings",
+        "多条警告、多种预兆"
+      ]
+    ],
+    "explanation": "weather warnings 天气预警；ignore warnings 无视警告；early warnings 早期预警。",
+    "usage": "warnings about delays 关于延误的提醒；warnings on the label 标签上的警示。",
+    "contrast": "warnings 提醒可能的风险，不代表坏事一定会发生。instructions 主要说明如何做，warnings 主要提醒要留意什么。",
+    "examples": [
+      [
+        "The forecast included warnings about strong winds.",
+        "天气预报发布了大风预警。"
+      ],
+      [
+        "The machine displays warnings before it runs out of paper.",
+        "机器在纸快用完之前会显示提醒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/warnings#English",
+      "https://en.wiktionary.org/wiki/warning#English"
+    ]
+  },
+  {
+    "word": "announcements",
+    "ipa": "/əˈnaʊnsmənts/",
+    "meaning": "公告、通知、宣布的消息〔复数〕",
+    "sense": "把一条消息从少数人知道，变成正式说给大家听，就是 announcement。announcements 常是一条条公开通知。",
+    "split": "announcement + -s，/t/ 后读 /s/。现代对应 announce + -ment，词史也联系法语相应名词；announce 的报信材料更早接拉丁 annuntiare。",
+    "history": [
+      [
+        "announce 与 -ment；法语相应名词背景 → announcement",
+        "宣布行为 → 宣布出的消息"
+      ],
+      [
+        "announcement + -s → announcements",
+        "多条通知、公告"
+      ]
+    ],
+    "explanation": "public announcements 公共通知；make announcements 发布通知；station announcements 车站广播通知。",
+    "usage": "important announcements 重要公告；announcements about schedule changes 日程变动通知。",
+    "contrast": "announcements 是宣布的消息，不只是很大声地讲话。advertisements 主要是广告，announcements 不一定在推销。",
+    "examples": [
+      [
+        "Please listen carefully to the station announcements.",
+        "请留意车站广播通知。"
+      ],
+      [
+        "The school posts important announcements on its website.",
+        "学校在网站上发布重要公告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/announcements#English",
+      "https://en.wiktionary.org/wiki/announcement#English"
+    ]
+  },
+  {
+    "word": "appointments",
+    "ipa": "/əˈpɔɪntmənts/",
+    "meaning": "预约、约定的会面；任命、职位等〔复数〕",
+    "sense": "先把某个时间或某个人选定下来：选好时间见面，是预约；选好某人去做一项工作，是任命。appointments 可以数这些安排。",
+    "split": "appointment + -s，/t/ 后读 /s/。appointment 借古法语 apointement，接 apointier 安排、指定等；现代虽可与 appoint 加 ment 配套，名词有自己的借入史。",
+    "history": [
+      [
+        "古法语 apointier、apointement → appointment",
+        "安排、约定、指定 → 会面安排、任命"
+      ],
+      [
+        "appointment + -s → appointments",
+        "多个预约、任命；也可数某些职位等"
+      ]
+    ],
+    "explanation": "make appointments 预约；cancel appointments 取消预约；new appointments 新任命。",
+    "usage": "appointments with clients 与客户的预约会面；appointments to the committee 委员会任命。",
+    "contrast": "appointments 不一定都是预约：人事名单中可指任命。appointment 与一般 date、meeting 的区别，要看是否强调预先安排好的时点、正式指定。",
+    "examples": [
+      [
+        "She has two appointments this afternoon.",
+        "她今天下午有两场预约会面。"
+      ],
+      [
+        "The museum announced several new appointments.",
+        "博物馆宣布了几项新人事任命。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appointments#English",
+      "https://en.wiktionary.org/wiki/appointment#English"
+    ]
+  },
+  {
+    "word": "permissions",
+    "ipa": "英 /pəˈmɪʃənz/；美 /pərˈmɪʃənz/",
+    "meaning": "具体许可、授权；访问权限〔复数〕",
+    "sense": "允许打开文件、编辑内容、使用相机，每一项能不能做都可单独设定。这样的具体权限很适合用 permissions 来数。",
+    "split": "permission + -s，/n/ 后读 /z/。permission 经法语接拉丁 permissio，属 permittere 允许词族；与 permit 同源，名词有独立借入路线。",
+    "history": [
+      [
+        "拉丁 permissio → 法语 permission → 英语 permission",
+        "允许、许可"
+      ],
+      [
+        "permission + -s → permissions",
+        "多项具体授权、访问权限"
+      ]
+    ],
+    "explanation": "file permissions 文件权限；app permissions 应用权限；change permissions 更改权限。",
+    "usage": "read and write permissions 读写权限；permissions for different users 不同用户的权限。",
+    "contrast": "一般请人同意时常说 ask for permission，用不可数单数；软件里的具体权能常分项，所以用 permissions。",
+    "examples": [
+      [
+        "The administrator changed the file permissions.",
+        "管理员更改了文件权限。"
+      ],
+      [
+        "The app shows which permissions it needs before installation.",
+        "应用在安装前会显示它需要哪些权限。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/permissions#English",
+      "https://en.wiktionary.org/wiki/permission#English"
+    ]
+  },
+  {
+    "word": "appointing",
+    "ipa": "/əˈpɔɪntɪŋ/",
+    "meaning": "任命、指定〔现在分词、动名词〕",
+    "sense": "有一个需要人做的职责，从人选里点出某个人，把位置交给他，就是 appointing。也能指定某个时间、地点，但现代最常见是任命人。",
+    "split": "appoint + -ing，直接加 ing。appoint 经古法语 apointier 安排、使就绪、指定等借入，与 point 的点、定点材料有关。",
+    "history": [
+      [
+        "古法语 apointier → 英语 appoint",
+        "安排、指定 → 选择某人担任职责"
+      ],
+      [
+        "appoint + -ing → appointing",
+        "正在任命、指定；任命这项活动"
+      ]
+    ],
+    "explanation": "appointing a new manager 任命新经理；appointing someone as chair 任命某人为主席；appointing someone to a position 任命某人担任职位。",
+    "usage": "a committee for appointing judges 负责法官任命的委员会；appointing a representative 指定一位代表。",
+    "contrast": "appointing 侧重正式选定某个职责承担者；hiring 侧重建立雇用关系。两者可能出现在同一件人事安排里，但焦点不同。",
+    "examples": [
+      [
+        "The board is appointing a new director.",
+        "董事会正在任命新主管。"
+      ],
+      [
+        "Appointing a clear contact person made the project easier to manage.",
+        "指定一位明确的联系人，让项目更容易管理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appointing#English",
+      "https://en.wiktionary.org/wiki/appoint#English"
+    ]
+  },
+  {
+    "word": "combining",
+    "ipa": "/kəmˈbaɪnɪŋ/",
+    "meaning": "结合、合并、兼顾〔现在分词、动名词〕",
+    "sense": "把原本分开的部分拿到一起，让它们共同起作用，是 combining。可以组合材料，也可以把不同能力、活动融到一次安排里。",
+    "split": "combine 去 e 加 -ing。combine 经法语接晚期拉丁 combinare，com- 一起与 bini 两两相连；现代不限制只能两件。",
+    "history": [
+      [
+        "晚期拉丁 combinare → 法语 → combine",
+        "两两相合的旧材料 → 合并、结合"
+      ],
+      [
+        "combine 去 e 加 -ing → combining",
+        "正在把不同部分合起来使用"
+      ]
+    ],
+    "explanation": "combining ideas 结合想法；combining work with study 兼顾工作与学习；combining ingredients 混合原料。",
+    "usage": "combining different methods 综合不同方法；a course combining theory and practice 理论实践相结合的课程。",
+    "contrast": "combining 强调一起起作用，不保证每个部分都变得相同；mixing 常更突出掺混。combine 的动词后重音与农机名词前重音不同。",
+    "examples": [
+      [
+        "The course is combining practical work with short lectures.",
+        "课程正把实践活动与短讲座结合起来。"
+      ],
+      [
+        "Combining the two ideas gave us a better design.",
+        "把这两个想法结合起来后，我们得到了更好的设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/combining#English",
+      "https://en.wiktionary.org/wiki/combine#English"
+    ]
+  },
+  {
+    "word": "separating",
+    "ipa": "/ˈsepəreɪtɪŋ/",
+    "meaning": "分开、分离；区别〔现在分词、动名词〕",
+    "sense": "原先混在一起、连在一起的东西，现在划开、拉开，让它们各归一处，是 separating。",
+    "split": "separate 动词去 e 加 -ing，读 /eɪtɪŋ/。separate 接拉丁 se- 分开与 parare 安排所成 separare、separatus。",
+    "history": [
+      [
+        "拉丁 separare、separatus → 英语 separate",
+        "分开安排 → 使分离、分开"
+      ],
+      [
+        "动词 separate 去 e 加 -ing → separating",
+        "正在把东西分开；或分离过程"
+      ]
+    ],
+    "explanation": "separating paper from plastic 把纸与塑料分开；separating fact from opinion 区分事实与意见。",
+    "usage": "a wall separating two rooms 隔开两间屋子的墙；separating the mixture 分离混合物。",
+    "contrast": "separating 沿动词 separate 的 /eɪt/；形容词 separate 分开的词尾常弱读 /ət/。separating A from B 说明把哪两部分分开。",
+    "examples": [
+      [
+        "We are separating the recyclable materials from the other waste.",
+        "我们正在把可回收材料与其他垃圾分开。"
+      ],
+      [
+        "A narrow path runs along the wall separating the two gardens.",
+        "一条窄路沿着隔开两座花园的墙延伸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/separating#English",
+      "https://en.wiktionary.org/wiki/separate#English"
+    ]
+  },
+  {
+    "word": "approaching",
+    "ipa": "英 /əˈprəʊtʃɪŋ/；美 /əˈproʊtʃɪŋ/",
+    "meaning": "接近、临近；着手处理〔现在分词及分词形容词〕",
+    "sense": "距离越来越短，是 approaching；日期离现在越来越近也一样。处理问题时逐渐走近、从某个角度进入，又成为着手应对。",
+    "split": "approach + -ing，直接加 ing。approach 经法语接晚期拉丁 appropiare 靠近，较早关联 prope 近。",
+    "history": [
+      [
+        "晚期拉丁 appropiare → 法语 → approach",
+        "空间靠近 → 时间临近、着手处理"
+      ],
+      [
+        "approach + -ing → approaching",
+        "正在接近；形容即将到来的事"
+      ]
+    ],
+    "explanation": "an approaching train 驶近的列车；approaching the deadline 临近截止日期；approaching a problem 着手处理问题。",
+    "usage": "the approaching winter 即将到来的冬天；approaching the task differently 换个方式处理任务。",
+    "contrast": "approaching 常直接接接近的对象，不需要每次加 to；an approach to a problem 是名词结构，才有对应的介词。",
+    "examples": [
+      [
+        "We could hear the approaching train.",
+        "我们能听见列车正在驶近。"
+      ],
+      [
+        "The team is approaching the problem from a new angle.",
+        "团队正从一个新角度处理这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/approaching#English",
+      "https://en.wiktionary.org/wiki/approach#English"
+    ]
+  },
+  {
+    "word": "deciding",
+    "ipa": "/dɪˈsaɪdɪŋ/",
+    "meaning": "决定、作选择〔现在分词、动名词〕；决定性的",
+    "sense": "几个可能在眼前摇摆，最后切开犹豫、定下一条路，是 deciding。某个因素把结果最终定下来，也就叫 deciding factor。",
+    "split": "decide 去 e 加 -ing。decide 接拉丁 de- 与 caedere 切所成 decidere，原有切断、解决争执等义，经法语进入英语。",
+    "history": [
+      [
+        "拉丁 decidere → 法语 decider → decide",
+        "切断 → 解决争执、定下结果"
+      ],
+      [
+        "decide 去 e 加 -ing → deciding",
+        "正在作决定；形容能把结果定下来的因素"
+      ]
+    ],
+    "explanation": "deciding what to do 决定做什么；deciding between two choices 在两项间作选择；the deciding factor 决定性因素。",
+    "usage": "a deciding vote 决定结果的一票；deciding on a date 定日期。",
+    "contrast": "deciding factor 强调对最终结果起关键作用；不是说这个因素像人一样在思考。deciding to do 指决定做某事，deciding on 常指定下某个选项。",
+    "examples": [
+      [
+        "We are deciding where to hold the meeting.",
+        "我们正在决定在哪里开会。"
+      ],
+      [
+        "Cost was the deciding factor in our choice.",
+        "费用是我们作选择时的决定性因素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deciding#English",
+      "https://en.wiktionary.org/wiki/decide#English"
+    ]
+  },
+  {
+    "word": "approving",
+    "ipa": "/əˈpruːvɪŋ/",
+    "meaning": "批准、认可〔现在分词、动名词〕；赞许的",
+    "sense": "看过以后觉得可以、觉得好，是 approving。正式工作里可以是签字批准；人的表情里可以只是赞同、赞许。",
+    "split": "approve 去 e 加 -ing。approve 接拉丁 ad- 与 probare 检验、认可所成 approbare，经古法语借入，d 在 p 前同化。",
+    "history": [
+      [
+        "拉丁 approbare → 古法语 → approve",
+        "认可、赞同；也作正式批准"
+      ],
+      [
+        "approve 去 e 加 -ing → approving",
+        "正在批准；形容表情、态度赞许"
+      ]
+    ],
+    "explanation": "approving the plan 批准计划；approving of the decision 赞同决定；an approving smile 赞许的微笑。",
+    "usage": "looked approving 看起来赞同；approving a request 批准请求。",
+    "contrast": "approve a plan 常是正式批准；approve of a plan 常是觉得计划好、表示赞同。approving 的性质义常描写目光、微笑、语气。",
+    "examples": [
+      [
+        "The committee is approving the final plans this week.",
+        "委员会本周正在批准最终方案。"
+      ],
+      [
+        "She gave the finished model an approving smile.",
+        "她看着完成的模型，露出赞许的微笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/approving#English",
+      "https://en.wiktionary.org/wiki/approve#English"
+    ]
+  },
+  {
+    "word": "accepting",
+    "ipa": "/əkˈseptɪŋ/",
+    "meaning": "接受、接纳〔现在分词、动名词〕；愿意包容的",
+    "sense": "东西递过来，愿意伸手接住；不同的人、不同的现实摆在面前，也愿意容纳。accepting 既可以说动作，也可以说这种态度。",
+    "split": "accept + -ing，直接加 ing。accept 接拉丁 accipere 的 accept- 分词词干，较早 ad- 朝向与 capere 拿取结合，并发生辅音同化。",
+    "history": [
+      [
+        "拉丁 ad- 与 capere → accipere、accept- → 英语 accept",
+        "拿到自己这边 → 接受、认可"
+      ],
+      [
+        "accept + -ing → accepting",
+        "正在接受；也形容愿意接纳、包容"
+      ]
+    ],
+    "explanation": "accepting an invitation 接受邀请；accepting applications 接收申请；accepting of differences 愿意接纳差异。",
+    "usage": "an accepting attitude 包容的态度；accepting help 接受帮助。",
+    "contrast": "accepting 是接受动作或接纳态度；acceptable 是可以被接受的。an accepting person 常说人愿意包容，an acceptable result 则说结果可以接受。",
+    "examples": [
+      [
+        "The course is now accepting applications.",
+        "课程现在开始接收申请。"
+      ],
+      [
+        "The group was welcoming and accepting of newcomers.",
+        "这个团体对新人友好而包容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accepting#English",
+      "https://en.wiktionary.org/wiki/accept#English"
+    ]
+  },
+  {
+    "word": "interpreting",
+    "ipa": "英 /ɪnˈtɜːprɪtɪŋ/；美 /ɪnˈtɜːrprɪtɪŋ/",
+    "meaning": "解释、理解；口译〔现在分词、动名词及相关名词〕",
+    "sense": "文字、数据或一种语言摆在那里，中间需要有人把意思读出来、传过去，便是 interpreting。它可以是解释数据，也可以是现场口译。",
+    "split": "interpret + -ing，直接加 ing，不双写 t。interpret 经法语接拉丁 interpretari，来自 interpres 中间传达者；后半更远来源有不同分析。",
+    "history": [
+      [
+        "拉丁 interpres、interpretari → 法语 → interpret",
+        "中间传达者 → 解释、传达意思"
+      ],
+      [
+        "interpret + -ing → interpreting",
+        "正在解释、理解；语言场景可指口译"
+      ]
+    ],
+    "explanation": "interpreting the results 解读结果；interpreting a gesture 理解手势；simultaneous interpreting 同声传译。",
+    "usage": "interpreting for visitors 为来访者口译；interpreting the meaning 解释含义。",
+    "contrast": "interpreting 在语言职业语境常指口译；translation 常指笔译或广义翻译。解释图表时不一定在不同语言之间转换。",
+    "examples": [
+      [
+        "The researchers are interpreting the results.",
+        "研究人员正在解读结果。"
+      ],
+      [
+        "She spent the morning interpreting for the visiting group.",
+        "她上午一直在为来访团体做口译。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interpreting#English",
+      "https://en.wiktionary.org/wiki/interpret#English"
+    ]
+  }
+]

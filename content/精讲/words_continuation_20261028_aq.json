@@ -1,0 +1,1038 @@
+[
+  {
+    "word": "water",
+    "ipa": "英 /ˈwɔːtə/；美 /ˈwɔːtər/、/ˈwɑːtər/",
+    "meaning": "水；浇水；流泪、流口水等",
+    "sense": "同样是水，看它在哪、从哪来、在做什么，词义就跟着展开。",
+    "split": "名词接古英语 wæter，动词有古英语 wæterian 的前身；两者历史相关，不必说直到现代才临时把名词改作动词。",
+    "history": [
+      [
+        "古英语 wæter → 中古英语 water",
+        "水"
+      ],
+      [
+        "英语 water；动词也承接古英语 wæterian",
+        "水；浇水、供水；流泪、流口水等"
+      ]
+    ],
+    "explanation": "drink water 喝水，water the plants 浇花，my eyes are watering 眼睛流泪。water 通常不可数；餐馆点 two waters 可省说两份、两瓶水。watered 是过去式，watering 是分词。",
+    "usage": "a glass of water；water the plants；running water；make your mouth water。",
+    "contrast": "water 是物质名，a water 往往需要份量、种类等特别语境；water the garden 不等于给花园喝一瓶饮料。",
+    "examples": [
+      [
+        "Please water the plants while I am away.",
+        "我不在时，请给植物浇水。"
+      ],
+      [
+        "The smell of fresh bread made my mouth water.",
+        "新鲜面包的香味让我直流口水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/water#English"
+    ]
+  },
+  {
+    "word": "watery",
+    "ipa": "英 /ˈwɔːtəri/；美 /ˈwɔːtəri/、/ˈwɑːtəri/",
+    "meaning": "水汪汪的；稀薄的；淡而无味的",
+    "sense": "水太多，眼睛湿汪汪，汤没了浓味，颜色也像被冲淡。",
+    "split": "现代对应 water + -y；古英语已有 wæteriġ，中古英语有 watery、wattry，并非每个意思都是今天第一次加后缀。",
+    "history": [
+      [
+        "古英语 wæter → 中古英语 water",
+        "水"
+      ],
+      [
+        "英语 water；动词也承接古英语 wæterian",
+        "水；浇水、供水；流泪、流口水等"
+      ],
+      [
+        "water + -y；承接旧形容词形式",
+        "含水多、像水或被水稀释的"
+      ]
+    ],
+    "explanation": "watery eyes 眼睛含泪、湿润，watery soup 汤太稀，watery sunlight 是淡淡、无力的日光。按对象选形象，不都翻含水的。",
+    "usage": "watery eyes；watery soup；a watery smile；watery sunlight。",
+    "contrast": "watery 常强调过稀、湿润或不浓，waterproof 防水；看到 water 不代表都描述水进去的方向。",
+    "examples": [
+      [
+        "The soup was watery and lacked flavor.",
+        "汤太稀，没什么味道。"
+      ],
+      [
+        "She gave him a watery smile.",
+        "她含着泪朝他笑了笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watery#English"
+    ]
+  },
+  {
+    "word": "waterless",
+    "ipa": "英 /ˈwɔːtələs/；美 /ˈwɔːtərləs/",
+    "meaning": "无水的；缺水的；不用水的",
+    "sense": "周围找不到水，或某种工艺刻意不靠水来完成。",
+    "split": "water + -less，古英语已有 wæterlēas，经中古英语 waterles 等延续。",
+    "history": [
+      [
+        "古英语 wæter → 中古英语 water",
+        "水"
+      ],
+      [
+        "英语 water；动词也承接古英语 wæterian",
+        "水；浇水、供水；流泪、流口水等"
+      ],
+      [
+        "water + -less → waterless",
+        "没有水；不需要水的"
+      ]
+    ],
+    "explanation": "a waterless desert 是无水荒漠，waterless cleaning 是不用水的清洁方式。后者说使用方式，不必指成品化学组成绝对无任何水分。",
+    "usage": "a waterless desert；waterless cleaning；a waterless landscape。",
+    "contrast": "waterless 没有水或不用水，waterproof 不让水穿过；防水包仍可能装着一瓶水。",
+    "examples": [
+      [
+        "The travelers crossed a waterless stretch of desert.",
+        "旅人穿过一段无水荒漠。"
+      ],
+      [
+        "The display introduces a waterless cleaning method.",
+        "展览介绍了一种不用水的清洁方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterless#English"
+    ]
+  },
+  {
+    "word": "underwater",
+    "ipa": "英 /ˌʌndəˈwɔːtə/；美 /ˌʌndərˈwɔːtər/",
+    "meaning": "在水下的；在水下",
+    "sense": "镜头越过水面，进入水里面，而不只是站在水边。",
+    "split": "under + water，组合表示水面以下；可作形容词或副词。",
+    "history": [
+      [
+        "under；water",
+        "并列组合部分"
+      ],
+      [
+        "underwater",
+        "位于或进入水面以下"
+      ]
+    ],
+    "explanation": "underwater photography 是水下摄影，swim underwater 是在水下游。金融报道中另可比喻资产值低于相关债务等状态，初学先抓水下画面。",
+    "usage": "underwater photography；an underwater camera；swim underwater。",
+    "contrast": "underwater 在水下，waterfront 在滨水地带；海边拍照不等于 underwater photography。",
+    "examples": [
+      [
+        "The camera can take pictures underwater.",
+        "这台相机可以在水下拍照。"
+      ],
+      [
+        "The film includes stunning underwater scenes.",
+        "影片包含惊艳的水下画面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underwater#English"
+    ]
+  },
+  {
+    "word": "freshwater",
+    "ipa": "英 /ˈfreʃwɔːtə/；美 /ˈfreʃwɔːtər/",
+    "meaning": "淡水；淡水的",
+    "sense": "和海水那股咸味对照，这里抓的是含盐少，不是刚刚生产出来。",
+    "split": "fresh + water，中古英语已有相应组合；fresh 在此是淡、不咸，不是所有语境都说新鲜。",
+    "history": [
+      [
+        "fresh〔淡、不咸〕；water",
+        "并列组合部分"
+      ],
+      [
+        "freshwater",
+        "淡水；生活于淡水中的"
+      ]
+    ],
+    "explanation": "freshwater fish 淡水鱼，freshwater lakes 淡水湖。freshwater 按盐度类型命名，不自动保证适合饮用。",
+    "usage": "freshwater fish；a freshwater lake；freshwater habitats。",
+    "contrast": "freshwater 淡水，fresh water 分写也可按语境说新取来的水；clean drinking water 才明确说干净饮用水。",
+    "examples": [
+      [
+        "This species lives in freshwater lakes.",
+        "这种动物生活在淡水湖中。"
+      ],
+      [
+        "The island has limited freshwater resources.",
+        "这座岛的淡水资源有限。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/freshwater#English"
+    ]
+  },
+  {
+    "word": "seawater",
+    "ipa": "英 /ˈsiːwɔːtə/；美 /ˈsiːwɔːtər/",
+    "meaning": "海水",
+    "sense": "按来源看，是海里的水；通常含盐，但不是一切咸水都来自海。",
+    "split": "sea + water，古英语有 sǣwæter，中古英语 seewater 等，组合义延续至今。",
+    "history": [
+      [
+        "sea；water",
+        "并列组合部分"
+      ],
+      [
+        "seawater",
+        "海中的水"
+      ]
+    ],
+    "explanation": "a sample of seawater 海水样本，seawater temperature 海水温度。它是物质名，通常不可数。",
+    "usage": "seawater temperature；a seawater sample；pump seawater。",
+    "contrast": "seawater 按海洋来源，saltwater 按含盐性质；盐湖里的咸水也可叫 saltwater，不必是 seawater。",
+    "examples": [
+      [
+        "The researchers collected samples of seawater.",
+        "研究人员采集了海水样本。"
+      ],
+      [
+        "Seawater entered the engine compartment.",
+        "海水进入了发动机舱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seawater#English"
+    ]
+  },
+  {
+    "word": "rainwater",
+    "ipa": "英 /ˈreɪnwɔːtə/；美 /ˈreɪnwɔːtər/",
+    "meaning": "雨水",
+    "sense": "从天上落下的雨，被接住、流过屋顶或落到地上，都能按来源叫雨水。",
+    "split": "rain + water，古英语已有 reġnwæter，相应组合经中古英语延续。",
+    "history": [
+      [
+        "rain；water",
+        "并列组合部分"
+      ],
+      [
+        "rainwater",
+        "降雨形成的水"
+      ]
+    ],
+    "explanation": "collect rainwater 收集雨水，a rainwater tank 雨水储罐。名字说来源，不替实际水质作保证。",
+    "usage": "collect rainwater；a rainwater tank；rainwater collection。",
+    "contrast": "rainwater 雨水，meltwater 冰雪融水；二者流入同一河流后也能按不同研究对象分开讨论。",
+    "examples": [
+      [
+        "Rainwater ran down the roof into a barrel.",
+        "雨水沿屋顶流进桶里。"
+      ],
+      [
+        "The garden uses collected rainwater.",
+        "花园使用收集的雨水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rainwater#English"
+    ]
+  },
+  {
+    "word": "groundwater",
+    "ipa": "英 /ˈɡraʊndwɔːtə/；美 /ˈɡraʊndwɔːtər/",
+    "meaning": "地下水",
+    "sense": "水进入地下，填在砂土颗粒间、岩石孔隙裂缝里；别只想成一条空洞里的地下河。",
+    "split": "ground（地面、地下介质）+ water，名称按水的位置、赋存环境组合。",
+    "history": [
+      [
+        "ground；water",
+        "并列组合部分"
+      ],
+      [
+        "groundwater",
+        "存在于地下饱和孔隙、裂隙等空间中的水"
+      ]
+    ],
+    "explanation": "groundwater levels 地下水位，groundwater recharge 地下水补给。地下河只是部分特殊地质情形，不是地下水的通用形态。",
+    "usage": "groundwater levels；groundwater recharge；groundwater resources。",
+    "contrast": "groundwater 按地下储存、流动环境，surface water 是地表水；它们可相互补给，不是永远互不相通。",
+    "examples": [
+      [
+        "The town depends on groundwater for part of its water supply.",
+        "该镇部分供水依赖地下水。"
+      ],
+      [
+        "Scientists monitored groundwater levels throughout the year.",
+        "科学家全年监测地下水位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/groundwater#English",
+      "https://pubs.usgs.gov/gip/gw/how_b.html"
+    ]
+  },
+  {
+    "word": "stormwater",
+    "ipa": "英 /ˈstɔːmwɔːtə/；美 /ˈstɔːrmwɔːtər/",
+    "meaning": "雨水径流；暴雨形成的地表来水",
+    "sense": "雨落到地面后，没被吸收的部分沿路面、地势汇流，排水系统需要接住它。",
+    "split": "storm + water；在城市排水、环境材料中常指降水形成的径流，部分用法也包括融雪径流。不是风暴中每一滴海水都叫 stormwater。",
+    "history": [
+      [
+        "storm；water",
+        "并列组合部分"
+      ],
+      [
+        "stormwater",
+        "降水后汇流、需排放处理的地表来水"
+      ]
+    ],
+    "explanation": "stormwater runoff 雨水径流，stormwater drains 雨水排水设施。是否与生活污水分管，要看具体系统，不能只凭词名判断。",
+    "usage": "stormwater runoff；stormwater drains；stormwater management。",
+    "contrast": "stormwater 侧重降水径流的排水背景，wastewater 侧重使用后产生的废水；实际系统可能混合，但概念起点不同。",
+    "examples": [
+      [
+        "The park includes ponds that collect stormwater.",
+        "公园有收集雨水径流的池塘。"
+      ],
+      [
+        "Leaves blocked the stormwater drain.",
+        "落叶堵住了雨水排水口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stormwater#English"
+    ]
+  },
+  {
+    "word": "floodwater",
+    "ipa": "英 /ˈflʌdwɔːtə/；美 /ˈflʌdwɔːtər/",
+    "meaning": "洪水；泛滥积水",
+    "sense": "水越出原本的河道、排水范围，把道路、田地淹了。",
+    "split": "flood + water，按泛滥状态命名，常用复数 floodwaters 指大片洪水、各处来水。",
+    "history": [
+      [
+        "flood；water",
+        "并列组合部分"
+      ],
+      [
+        "floodwater",
+        "泛滥形成、流经被淹地区的水"
+      ]
+    ],
+    "explanation": "rising floodwater 上涨洪水，receding floodwaters 退去的洪水。可以来自暴雨、河流漫溢等多种背景。",
+    "usage": "rising floodwater；receding floodwaters；roads covered in floodwater。",
+    "contrast": "floodwater 按泛滥状态，rainwater 按雨的来源；一部分雨水可能成为洪水，两个分类角度不同。",
+    "examples": [
+      [
+        "Floodwater covered the road overnight.",
+        "洪水一夜之间淹没了道路。"
+      ],
+      [
+        "The floodwaters began to recede in the morning.",
+        "早晨洪水开始退去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/floodwater#English"
+    ]
+  },
+  {
+    "word": "meltwater",
+    "ipa": "英 /ˈmeltwɔːtə/；美 /ˈmeltwɔːtər/",
+    "meaning": "融水；冰雪融化形成的水",
+    "sense": "原来是雪或冰，天气转暖后变成水，再沿地势流走。",
+    "split": "melt（融化）+ water；名字交代形成方式，不专指某一个冰川。",
+    "history": [
+      [
+        "melt；water",
+        "并列组合部分"
+      ],
+      [
+        "meltwater",
+        "冰雪融化产生的水"
+      ]
+    ],
+    "explanation": "glacial meltwater 冰川融水，meltwater streams 融水溪流。并非所有凉水都叫 meltwater。",
+    "usage": "glacial meltwater；meltwater streams；a meltwater channel。",
+    "contrast": "meltwater 融水，rainwater 雨水；两者都可能参与河流补给，但来源过程不同。",
+    "examples": [
+      [
+        "Meltwater from the snow fed the stream.",
+        "积雪融水补给了小溪。"
+      ],
+      [
+        "The team followed a channel carved by meltwater.",
+        "团队沿着一条融水冲出的水道前进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meltwater#English"
+    ]
+  },
+  {
+    "word": "wastewater",
+    "ipa": "英 /ˈweɪstwɔːtə/；美 /ˈweɪstwɔːtər/",
+    "meaning": "废水；污水",
+    "sense": "水被生活、生产用过，带走了废物，需要收集、处理。",
+    "split": "waste + water，waste 取废弃物、用后废料等义；不是 water“被浪费掉”这一事件的唯一叫法。",
+    "history": [
+      [
+        "waste；water",
+        "并列组合部分"
+      ],
+      [
+        "wastewater",
+        "使用、生产过程产生的废水"
+      ]
+    ],
+    "explanation": "wastewater treatment 废水处理，industrial wastewater 工业废水；范围通常比厕所排泄物污水更广。",
+    "usage": "wastewater treatment；industrial wastewater；a wastewater plant。",
+    "contrast": "wastewater 废水可能来自多种用途；sewage 常侧重排水系统中的污水，尤其生活污水。具体术语范围依场景。",
+    "examples": [
+      [
+        "The factory sends its wastewater to a treatment facility.",
+        "工厂把废水送到处理设施。"
+      ],
+      [
+        "The course explains the stages of wastewater treatment.",
+        "课程讲解废水处理的各个阶段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wastewater#English"
+    ]
+  },
+  {
+    "word": "bathwater",
+    "ipa": "英 /ˈbɑːθwɔːtə/；美 /ˈbæθwɔːtər/",
+    "meaning": "洗澡水",
+    "sense": "浴缸或澡盆里用来洗澡的水；用途比来源重要。",
+    "split": "bath + water，bath 为洗澡，不是 bat“蝙蝠”。",
+    "history": [
+      [
+        "bath；water",
+        "并列组合部分"
+      ],
+      [
+        "bathwater",
+        "用于泡澡、洗浴的水"
+      ]
+    ],
+    "explanation": "run the bathwater 是放洗澡水。throw the baby out with the bathwater 比喻把该保留的好东西连同坏东西一起丢掉。",
+    "usage": "warm bathwater；run the bathwater；throw the baby out with the bathwater。",
+    "contrast": "bathwater 是水，bathroom 是房间；固定比喻说别把有价值部分一并舍掉，不是按字面描述建议。",
+    "examples": [
+      [
+        "The bathwater was still warm.",
+        "洗澡水还温着。"
+      ],
+      [
+        "We should fix the weak parts of the plan without throwing the baby out with the bathwater.",
+        "应改掉方案的弱点，别连有价值的部分一起扔了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bathwater#English"
+    ]
+  },
+  {
+    "word": "rosewater",
+    "ipa": "英 /ˈrəʊzwɔːtə/；美 /ˈroʊzwɔːtər/",
+    "meaning": "玫瑰水；带玫瑰香气的用水、制品",
+    "sense": "把玫瑰的香味带进水里，少量就能让甜点或香氛带上花香。",
+    "split": "rose（玫瑰）+ water；不同制法可涉及浸取、蒸馏等，不把词拆分当成唯一配方。",
+    "history": [
+      [
+        "rose；water",
+        "并列组合部分"
+      ],
+      [
+        "rosewater",
+        "带玫瑰香味、成分的水或液体"
+      ]
+    ],
+    "explanation": "rosewater flavor 玫瑰水风味，a few drops of rosewater 几滴玫瑰水。食品和日化产品用途不同，名称不保证彼此可替代。",
+    "usage": "a few drops of rosewater；rosewater flavor；a rosewater scent。",
+    "contrast": "rosewater 是一种带花香的液体名称，rose-colored 玫瑰色的描述颜色；不保证所有 rosewater 都是粉红色。",
+    "examples": [
+      [
+        "The dessert had a delicate rosewater flavor.",
+        "甜点带着淡淡玫瑰水香味。"
+      ],
+      [
+        "The recipe calls for a few drops of rosewater.",
+        "食谱需要几滴玫瑰水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rosewater#English"
+    ]
+  },
+  {
+    "word": "waterfront",
+    "ipa": "英 /ˈwɔːtəfrʌnt/；美 /ˈwɔːtərfrʌnt/",
+    "meaning": "滨水地带；滨水区",
+    "sense": "城市或土地正对河、湖、海的那一带，沿着水展开。",
+    "split": "water + front，front 取面向、临接的前沿，不是必然是战线。",
+    "history": [
+      [
+        "water；front",
+        "并列组合部分"
+      ],
+      [
+        "waterfront",
+        "临接水域的一带土地、城区"
+      ]
+    ],
+    "explanation": "a waterfront restaurant 临水餐馆，walk along the waterfront 沿滨水区散步；可以是河滨、湖滨，不只海港。",
+    "usage": "along the waterfront；a waterfront restaurant；waterfront development。",
+    "contrast": "waterfront 侧重临水土地、城区，underwater 在水下；景观酒店在 waterfront 不意味着房间在海底。",
+    "examples": [
+      [
+        "We walked along the waterfront after dinner.",
+        "晚饭后我们沿滨水区散步。"
+      ],
+      [
+        "Old warehouses on the waterfront became galleries.",
+        "滨水区的旧仓库变成了画廊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterfront#English"
+    ]
+  },
+  {
+    "word": "waterside",
+    "ipa": "英 /ˈwɔːtəsaɪd/；美 /ˈwɔːtərsaɪd/",
+    "meaning": "水边；滨水的",
+    "sense": "沿水的边缘待着、走着，重点是紧靠水旁。",
+    "split": "water + side，中古英语有 water-syde 等相应形式。side 取边、旁，不是支持哪一方的立场。",
+    "history": [
+      [
+        "water；side",
+        "并列组合部分"
+      ],
+      [
+        "waterside",
+        "水边；位于水旁的"
+      ]
+    ],
+    "explanation": "a waterside path 水边小路，waterside cafes 临水咖啡馆；自然环境和城市环境都能用。",
+    "usage": "a waterside path；a waterside cafe；at the waterside。",
+    "contrast": "waterside 泛说水边位置，waterfront 常让人想到临水地带、城区界面；两者可重叠，不划绝对边界。",
+    "examples": [
+      [
+        "A narrow waterside path led to the village.",
+        "一条水边窄路通往村庄。"
+      ],
+      [
+        "They sat at a waterside cafe.",
+        "他们坐在一家临水咖啡馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterside#English"
+    ]
+  },
+  {
+    "word": "waterline",
+    "ipa": "英 /ˈwɔːtəlaɪn/；美 /ˈwɔːtərlaɪn/",
+    "meaning": "水线；船体与水面相交的线；水位痕",
+    "sense": "船一半在水里一半在外，沿船身一圈的交界就是水线。",
+    "split": "water + line，line 选线、界线；也可指水曾到过的位置留下的痕迹。",
+    "history": [
+      [
+        "water；line",
+        "并列组合部分"
+      ],
+      [
+        "waterline",
+        "水面交界线或水位留下的线"
+      ]
+    ],
+    "explanation": "below the waterline 水线以下，a mark at the waterline 水位线处的痕迹。船的载重、浮态改变，实际水线也能变。",
+    "usage": "below the waterline；above the waterline；a waterline mark。",
+    "contrast": "waterline 是线，water level 是水位高度；两者有关，但在所有句子里并非同一个测量量。",
+    "examples": [
+      [
+        "The damage was just below the waterline.",
+        "损坏部位就在水线以下。"
+      ],
+      [
+        "A dark stain showed the old waterline on the wall.",
+        "墙上的深色污痕显示了以前水位到过的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterline#English"
+    ]
+  },
+  {
+    "word": "waterfall",
+    "ipa": "英 /ˈwɔːtəfɔːl/；美 /ˈwɔːtərfɔːl/",
+    "meaning": "瀑布；瀑布式倾泻",
+    "sense": "水流遇到明显落差，从高处一片倾落下来。",
+    "split": "water + fall，古英语有 wæterġefeall，中古英语 waterfal 等；fall 是下落，不是秋天。",
+    "history": [
+      [
+        "water；fall〔下落〕",
+        "并列组合部分"
+      ],
+      [
+        "waterfall",
+        "水从落差处下落形成的瀑布"
+      ]
+    ],
+    "explanation": "a waterfall cascades down 瀑布倾泻而下。项目管理中的 waterfall model 借比喻说阶段依次推进，具体流程另看模型定义。",
+    "usage": "a waterfall cascades；the foot of a waterfall；a waterfall model。",
+    "contrast": "waterfall 瀑布，watershed 分水岭、流域等；后半部分决定地形图像，不能都看作水落下。",
+    "examples": [
+      [
+        "We could hear the waterfall before we saw it.",
+        "还没见到瀑布，我们就听见了水声。"
+      ],
+      [
+        "Mist rose from the foot of the waterfall.",
+        "水雾从瀑布脚下升起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterfall#English"
+    ]
+  },
+  {
+    "word": "watershed",
+    "ipa": "英 /ˈwɔːtəʃed/；美 /ˈwɔːtərʃed/",
+    "meaning": "分水岭；流域〔尤美式〕；转折点",
+    "sense": "山脊两边的水走向不同，像历史在某一刻分出前后；但美国水文资料也常用这个词指汇向同一出口的整片地。",
+    "split": "water + shed，仿译德语 Wasserscheide；shed 在此关乎分开、分流，不是小棚子。不要把两种地理义混成一个物体。",
+    "history": [
+      [
+        "德语 Wasserscheide → 英语仿译 water + shed",
+        "分开水流的界线、分水岭"
+      ],
+      [
+        "英语 watershed",
+        "分水岭；也指汇水流域；引申为重要转折点"
+      ]
+    ],
+    "explanation": "a watershed in history 历史转折点。地理中若画山脊边界，是分水岭；若说整个集水面积，是流域，USGS 材料常用后一义。先看是在谈线还是面。",
+    "usage": "a watershed moment；a watershed in；watershed management。",
+    "contrast": "watershed 分水岭与 drainage basin 流域在部分用法重叠；不能把 watershed management 全译成只管理一条山脊。",
+    "examples": [
+      [
+        "The agreement marked a watershed in their relationship.",
+        "这份协议标志着双方关系的重要转折。"
+      ],
+      [
+        "The project studies land use across the entire watershed.",
+        "项目研究整个流域的土地利用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watershed#English",
+      "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/watershed"
+    ]
+  },
+  {
+    "word": "headwaters",
+    "ipa": "英 /ˈhedwɔːtəz/；美 /ˈhedwɔːtərz/",
+    "meaning": "河流源头；上游源流",
+    "sense": "沿河一直往上找，最前面的源区、小溪和支流汇出这条河。",
+    "split": "head（起头、源头）+ waters（水域、水流，复数），不是人的头里装着水。",
+    "history": [
+      [
+        "head〔源头〕；waters",
+        "并列组合部分"
+      ],
+      [
+        "headwaters",
+        "河流源区和上游起源水流"
+      ]
+    ],
+    "explanation": "the headwaters of a river 是某河源头，保护 headwaters 可以涉及整片源区，不一定只是一眼泉。",
+    "usage": "the headwaters of；protect the headwaters；a headwaters region。",
+    "contrast": "headwaters 在河流上游源头，mouth 河口在出口；headwaters 不是 watershed 的另一个拼法。",
+    "examples": [
+      [
+        "The expedition reached the headwaters of the river.",
+        "考察队抵达了河流源头。"
+      ],
+      [
+        "Forests cover much of the headwaters region.",
+        "源区的大部分地带覆盖着森林。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/headwaters#English"
+    ]
+  },
+  {
+    "word": "breakwater",
+    "ipa": "英 /ˈbreɪkwɔːtə/；美 /ˈbreɪkwɔːtər/",
+    "meaning": "防波堤；消浪结构",
+    "sense": "海浪打过来，先撞上这道结构，港内就少受浪力冲击。",
+    "split": "break + water，break 抓打散、削弱水浪力量，不是要把水分子打碎。与荷兰语 breekwater 等有对应构词。",
+    "history": [
+      [
+        "break；water",
+        "并列组合部分"
+      ],
+      [
+        "breakwater",
+        "削弱波浪力量、保护水域的结构"
+      ]
+    ],
+    "explanation": "a harbor breakwater 港口防波堤，waves hit the breakwater 海浪拍打防波堤。按防浪用途命名，结构和位置有不同形式。",
+    "usage": "a harbor breakwater；build a breakwater；waves hit the breakwater。",
+    "contrast": "breakwater 主要削弱浪力，dam 水坝主要拦蓄或调控水流；都能用石、混凝土建，但用途不相同。",
+    "examples": [
+      [
+        "Fishing boats sheltered behind the breakwater.",
+        "渔船在防波堤后避浪。"
+      ],
+      [
+        "Waves crashed against the breakwater.",
+        "海浪猛烈拍打防波堤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breakwater#English"
+    ]
+  },
+  {
+    "word": "watercraft",
+    "ipa": "英 /ˈwɔːtəkrɑːft/；美 /ˈwɔːtərkræft/",
+    "meaning": "水上交通工具；船艇；水上技能〔另义〕",
+    "sense": "把能在水上航行的船艇统称起来；craft 在这里常是交通工具。",
+    "split": "water + craft；craft 可表船艇等载具，也有技艺义，故水上技能是另一条用法，不把两条硬串成单一路径。",
+    "history": [
+      [
+        "water；craft〔载具；另一义为技艺〕",
+        "并列组合部分"
+      ],
+      [
+        "watercraft",
+        "水上船艇；另可指水上活动技艺"
+      ]
+    ],
+    "explanation": "personal watercraft 常说小型个人水上载具，various types of watercraft 各类船艇。单复数常同形。",
+    "usage": "personal watercraft；small watercraft；types of watercraft。",
+    "contrast": "watercraft 泛称水上载具，waterworks 供水设施；都有 water 但不是同一类机器。",
+    "examples": [
+      [
+        "The exhibition includes several types of traditional watercraft.",
+        "展览包含几类传统船艇。"
+      ],
+      [
+        "Small watercraft moved quietly across the lake.",
+        "小船艇静静驶过湖面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watercraft#English"
+    ]
+  },
+  {
+    "word": "waterworks",
+    "ipa": "英 /ˈwɔːtəwɜːks/；美 /ˈwɔːtərwɜːrks/",
+    "meaning": "供水设施、系统；哭泣〔口语比喻〕",
+    "sense": "水库、管道、水泵等让水不断送来；开哭也被戏称打开了这一套出水系统。",
+    "split": "water + works（工厂、机器或整套设施），不是 water + work 简单等于在水里工作。",
+    "history": [
+      [
+        "water；works〔设施、系统〕",
+        "并列组合部分"
+      ],
+      [
+        "waterworks",
+        "供水设施；比喻眼泪流个不停"
+      ]
+    ],
+    "explanation": "the town’s waterworks 镇上的供水设施。turn on the waterworks 口语说开始哭，常暗含说话人觉得对方哭得夸张或故意，别用于所有安慰场景。",
+    "usage": "the local waterworks；a waterworks site；turn on the waterworks。",
+    "contrast": "waterworks 是设施系统，watercraft 是船艇；口语 waterworks 说哭，不是眼睛真的变成自来水厂。",
+    "examples": [
+      [
+        "The old waterworks now houses a museum.",
+        "旧供水设施如今改成了博物馆。"
+      ],
+      [
+        "The child turned on the waterworks when the game ended.",
+        "游戏一结束，那孩子就哭开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterworks#English"
+    ]
+  },
+  {
+    "word": "waterfowl",
+    "ipa": "英 /ˈwɔːtəfaʊl/；美 /ˈwɔːtərfaʊl/",
+    "meaning": "水禽；常在水上生活的鸟类",
+    "sense": "想象鸭、雁、天鹅在水上浮游，按与水的生活联系归成一类。",
+    "split": "water + fowl（禽鸟），中古英语已有 waterfoul 等形式；fowl 不是 foul“肮脏的”。",
+    "history": [
+      [
+        "water；fowl",
+        "并列组合部分"
+      ],
+      [
+        "waterfowl",
+        "与水域生活密切相关的禽鸟"
+      ]
+    ],
+    "explanation": "migratory waterfowl 迁徙水禽，waterfowl habitat 水禽栖息地；日常是类群称呼，不据复合词替所有鸟类作精细分类。",
+    "usage": "migratory waterfowl；waterfowl habitat；a flock of waterfowl。",
+    "contrast": "waterfowl 说水禽，poultry 常说家禽；野鸭可以是 waterfowl，不因此都是养殖家禽。",
+    "examples": [
+      [
+        "The lake is an important winter habitat for waterfowl.",
+        "湖泊是水禽重要的越冬栖息地。"
+      ],
+      [
+        "We watched a flock of waterfowl settle on the pond.",
+        "我们看见一群水禽落到池塘上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterfowl#English"
+    ]
+  },
+  {
+    "word": "watercress",
+    "ipa": "英 /ˈwɔːtəkres/；美 /ˈwɔːtərkres/",
+    "meaning": "西洋菜；豆瓣菜",
+    "sense": "一种爱在水边、浅水环境生长的可食用叶菜；cress 告诉你它是植物，不是水的口味。",
+    "split": "water + cress，中古英语有 water cresse 等形式；cress 是一类辛香小叶菜的名称。",
+    "history": [
+      [
+        "water；cress",
+        "并列组合部分"
+      ],
+      [
+        "watercress",
+        "生长于水生环境的西洋菜类植物"
+      ]
+    ],
+    "explanation": "watercress soup 西洋菜汤，watercress salad 西洋菜沙拉；也常见作沙拉配菜或装饰菜叶。",
+    "usage": "watercress soup；a watercress salad；fresh watercress。",
+    "contrast": "watercress 西洋菜与 cress 泛称的范围不同；不是 water + grass，所以不能译成所有水草。",
+    "examples": [
+      [
+        "The cafe serves watercress soup.",
+        "咖啡馆供应西洋菜汤。"
+      ],
+      [
+        "The sandwich came with a small watercress salad.",
+        "三明治配了一小份西洋菜沙拉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watercress#English"
+    ]
+  },
+  {
+    "word": "waterhole",
+    "ipa": "英 /ˈwɔːtəhəʊl/；美 /ˈwɔːtərhoʊl/",
+    "meaning": "水潭；动物饮水处",
+    "sense": "干燥地方有个低洼水潭，动物常聚到这里喝水。",
+    "split": "water + hole，hole 取凹处、坑洞。普通自然语境先抓积水地，不必把天文学等很专门的同形术语一起背。",
+    "history": [
+      [
+        "water；hole",
+        "并列组合部分"
+      ],
+      [
+        "waterhole",
+        "积水洼地、动物饮水潭"
+      ]
+    ],
+    "explanation": "a waterhole attracts animals 水潭吸引动物，a dry waterhole 干涸水潭。a watering hole 也可比喻人们喝酒聚会的地方。",
+    "usage": "gather at a waterhole；a permanent waterhole；a dry waterhole。",
+    "contrast": "waterhole 积水、饮水处，well 井通常涉及向地下取水的井体；不都是人工挖出的设施。",
+    "examples": [
+      [
+        "Elephants gathered at the waterhole before sunset.",
+        "日落前，大象聚到水潭旁。"
+      ],
+      [
+        "The waterhole dried up during the long dry season.",
+        "漫长旱季中，水潭干涸了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterhole#English"
+    ]
+  },
+  {
+    "word": "watermark",
+    "ipa": "英 /ˈwɔːtəmɑːk/；美 /ˈwɔːtərmɑːrk/",
+    "meaning": "水印；加水印",
+    "sense": "纸张里藏着透光可见的图案；数字图片也借来称叠加或嵌入的识别标记。",
+    "split": "water + mark；传统纸张水印与造纸时形成的厚薄、结构差异有关，不是成品纸上随便滴水。数字义是后来的比喻扩展。",
+    "history": [
+      [
+        "water；mark",
+        "并列组合部分"
+      ],
+      [
+        "watermark",
+        "纸张透光标记 → 数字识别标记"
+      ]
+    ],
+    "explanation": "a visible watermark 可见水印，add a watermark 加水印；数字水印也有不可直接看见的类型，不是一律都盖半透明文字。",
+    "usage": "add a watermark；a visible watermark；watermark an image。",
+    "contrast": "watermark 标识来源、权属等，bookmark 标记阅读位置或访问入口；两者不是同一种标记。",
+    "examples": [
+      [
+        "Hold the paper up to the light to see the watermark.",
+        "把纸对着光举起来，就能看见水印。"
+      ],
+      [
+        "The photographer added a watermark to the preview images.",
+        "摄影师给预览图加了水印。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watermark#English"
+    ]
+  },
+  {
+    "word": "watercolour",
+    "ipa": "英 /ˈwɔːtəkʌlə/；美 /ˈwɔːtərkʌlər/",
+    "meaning": "水彩颜料；水彩画〔美式常写 watercolor〕",
+    "sense": "水调开颜料，薄薄铺到纸面，透出轻盈、流动的色层。",
+    "split": "water + colour；colour 与 color 是常见英美拼写差别，故 watercolor 与 watercolour 同词同义，不另造词源。",
+    "history": [
+      [
+        "water；colour",
+        "并列组合部分"
+      ],
+      [
+        "watercolour",
+        "以水调和的绘画颜料；这种画法及作品"
+      ]
+    ],
+    "explanation": "paint in watercolour 用水彩画，a watercolour of a village 是一幅村庄水彩画。材料、技法义可不可数，单幅作品可数。",
+    "usage": "paint in watercolour；a watercolour painting；a box of watercolours。",
+    "contrast": "watercolour 水彩与 oil painting 油画按材料、技法区分；watercolour 不只是图画颜色淡，浓色也可以用水彩画。",
+    "examples": [
+      [
+        "She painted the harbor in watercolour.",
+        "她用水彩画了港口。"
+      ],
+      [
+        "A small watercolour of the village hung above the desk.",
+        "书桌上方挂着一幅村庄的小水彩画。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watercolour#English",
+      "https://dictionary.cambridge.org/us/pronunciation/english/watercolour"
+    ]
+  },
+  {
+    "word": "watertight",
+    "ipa": "英 /ˈwɔːtətaɪt/；美 /ˈwɔːtərtaɪt/",
+    "meaning": "不漏水的；严密无漏洞的",
+    "sense": "接缝封得严，水进不去也漏不出；论证也能被夸成找不到漏洞。",
+    "split": "water + tight（紧密的），tight 强调密封、严密，不是小得穿不上的衣服义。",
+    "history": [
+      [
+        "water；tight",
+        "并列组合部分"
+      ],
+      [
+        "watertight",
+        "不透漏水 → 严密、无可挑剔"
+      ]
+    ],
+    "explanation": "a watertight container 密封不漏水容器，a watertight argument 严密论证。后者是评价，不等于写上这个词就真的没有逻辑问题。",
+    "usage": "a watertight seal；a watertight container；a watertight argument。",
+    "contrast": "watertight 常强调封闭、不进漏水，waterproof 防水更宽；具体产品性能仍看用途、条件，不能只凭词推定相同等级。",
+    "examples": [
+      [
+        "The lid forms a watertight seal.",
+        "盖子形成不漏水的密封。"
+      ],
+      [
+        "We need a watertight argument, not just a confident tone.",
+        "我们需要严密论证，不能只靠语气自信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watertight#English"
+    ]
+  },
+  {
+    "word": "waterborne",
+    "ipa": "英 /ˈwɔːtəbɔːn/；美 /ˈwɔːtərbɔːrn/",
+    "meaning": "由水传播、运载的；水上的",
+    "sense": "水成了运输通道：可以载货，也可以把某些污染物、病原带到别处。",
+    "split": "water + borne；borne 是 bear“承载”的过去分词，不是 born“出生”。",
+    "history": [
+      [
+        "water；borne〔被承载的〕",
+        "并列组合部分"
+      ],
+      [
+        "waterborne",
+        "由水承载、传播的"
+      ]
+    ],
+    "explanation": "waterborne transport 水运，waterborne disease 经水传播的疾病。实际传播机制按具体对象理解，词本身只标水这一通道。",
+    "usage": "waterborne transport；waterborne pollution；waterborne disease。",
+    "contrast": "waterborne 水传播、载运的，waterproof 防水；airborne 相应说经空气或在空中的，不由是否看得见来分。",
+    "examples": [
+      [
+        "The report compares road and waterborne transport.",
+        "报告比较了公路运输与水运。"
+      ],
+      [
+        "Scientists traced the waterborne pollution back to its source.",
+        "科学家追查了随水传播的污染的源头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/waterborne#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/waterborne"
+    ]
+  },
+  {
+    "word": "mouthwatering",
+    "ipa": "英 /ˈmaʊθwɔːtərɪŋ/；美 /ˈmaʊθwɔːtərɪŋ/",
+    "meaning": "令人垂涎的；诱人的",
+    "sense": "食物看着、闻着太香，嘴里都开始分泌口水；别的好机会也能诱人得像这样。",
+    "split": "mouth + watering，watering 来自 water 动词“流口水”的用法；不是给嘴巴浇花。",
+    "history": [
+      [
+        "mouth；watering〔water + -ing〕",
+        "并列组合部分"
+      ],
+      [
+        "mouthwatering",
+        "让人流口水 → 很诱人的"
+      ]
+    ],
+    "explanation": "a mouthwatering meal 令人垂涎的饭菜，a mouthwatering offer 极诱人的提议；后者常有夸张宣传语气。",
+    "usage": "a mouthwatering meal；mouthwatering desserts；a mouthwatering offer。",
+    "contrast": "mouthwatering 引人想要，watery soup 汤太稀常是嫌弃；都带 water，评价方向却不同。",
+    "examples": [
+      [
+        "The bakery window was full of mouthwatering pastries.",
+        "面包店橱窗里摆满令人垂涎的酥点。"
+      ],
+      [
+        "The menu promised a mouthwatering selection of desserts.",
+        "菜单列出一系列诱人的甜点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mouthwatering#English"
+    ]
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "word": "ride",
+    "ipa": "/raɪd/",
+    "meaning": "骑；乘坐；骑乘、搭车经历",
+    "sense": "人坐在马、车或其他载体上，让它带着自己走；自己骑车和搭别人的车都可以用。",
+    "split": "继承古英语 rīdan，经中古英语延续。不规则变化 ride—rode—ridden。现代 ride 也作名词，指一趟乘坐或游乐设施。",
+    "history": [
+      [
+        "古英语 rīdan → 中古英语 riden",
+        "骑乘、乘坐着移动"
+      ],
+      [
+        "英语 ride",
+        "骑马、骑车、乘车；一段乘坐经历"
+      ]
+    ],
+    "explanation": "ride a bike 骑自行车，ride a horse 骑马，ride on a bus 乘公交。give someone a ride 捎某人一程，go for a ride 出去骑一圈或兜风。",
+    "usage": "ride a bike；give someone a ride；go for a ride；a fairground ride。",
+    "contrast": "drive 常说驾驶汽车、控制车辆，ride in a car 常说坐车；骑自行车用 ride。give me a ride 口语求搭车，英式还常说 give me a lift。",
+    "examples": [
+      [
+        "She rides her bike to work every day.",
+        "她每天骑自行车上班。"
+      ],
+      [
+        "Could you give me a ride to the station?",
+        "你能捎我去车站吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ride#English"
+    ]
+  },
+  {
+    "word": "ridden",
+    "ipa": "/ˈrɪdən/",
+    "meaning": "ride 的过去分词；受某事困扰的〔常用于组合〕",
+    "sense": "说“已经骑过”时用 ridden；描述被麻烦缠住时，像那件事压在身上。",
+    "split": "ride 的不规则过去分词，保留旧分词 -en 与元音变化。困扰、支配义常用于组合形式，不把所有 -en 都当使成为的动词后缀。",
+    "history": [
+      [
+        "古英语 rīdan → 中古英语 riden",
+        "骑乘、乘坐着移动"
+      ],
+      [
+        "英语 ride",
+        "骑马、骑车、乘车；一段乘坐经历"
+      ],
+      [
+        "ride → rode → ridden",
+        "现在、过去与过去分词的不规则词形"
+      ],
+      [
+        "ridden 的组合用法",
+        "受某种问题支配、困扰"
+      ]
+    ],
+    "explanation": "have ridden 已经骑过，be ridden by 可说由谁骑乘。debt-ridden 负债累累等组合帮助理解延伸，但本页不新增连字符词条。",
+    "usage": "have ridden；had ridden；a horse ridden by a beginner。",
+    "contrast": "I rode yesterday 是过去式；I have ridden before 用过去分词。written 写过与 ridden 骑过拼写不同，重在辨清原动词。",
+    "examples": [
+      [
+        "I have never ridden a motorcycle.",
+        "我从未骑过摩托车。"
+      ],
+      [
+        "The horse had been ridden by several beginners that morning.",
+        "那天上午，好几名初学者骑过这匹马。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ridden#English"
+    ]
+  },
+  {
+    "word": "rider",
+    "ipa": "英 /ˈraɪdə/；美 /ˈraɪdər/",
+    "meaning": "骑手；乘客；附加条款、附件",
+    "sense": "先是骑在马或车上的人；条款义可想成附在主文件上的补充部分，跟着正文走。",
+    "split": "古英语 rīdere 已有骑乘者义，现代可对应 ride + -er。附加条款义后来出现，不是把合同内容真的拿去骑马。",
+    "history": [
+      [
+        "古英语 rīdan → 中古英语 riden",
+        "骑乘、乘坐着移动"
+      ],
+      [
+        "英语 ride",
+        "骑马、骑车、乘车；一段乘坐经历"
+      ],
+      [
+        "古英语 rīdere → rider",
+        "骑乘者 → 乘客；另发展出文件附加条款义"
+      ]
+    ],
+    "explanation": "a bicycle rider 骑车者，bus riders 公交乘客，美式常用。a rider to an agreement 协议附加条款；演出合同中的 rider 可列场地、设备等额外要求。",
+    "usage": "a skilled rider；bus riders；a rider to an agreement。",
+    "contrast": "rider 不限骑马的人；driver 明确是驾驶者。附加条款义属于文件用法，具体效力由文本及适用规则决定。",
+    "examples": [
+      [
+        "The rider slowed down as she approached the bend.",
+        "骑手接近弯道时放慢了速度。"
+      ],
+      [
+        "The band sent the venue a rider listing its equipment needs.",
+        "乐队给场地方发了列明设备需求的合同附件。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/rider",
+      "https://en.wiktionary.org/wiki/rider#English"
+    ]
+  },
+  {
+    "word": "override",
+    "ipa": "英 /ˌəʊvəˈraɪd/；美 /ˌoʊvərˈraɪd/〔动词〕",
+    "meaning": "压过；推翻；越过默认设置而接管",
+    "sense": "两条指令相冲突，较强、较高优先级的那条占上风；机器本来自动做，人也可以接管。",
+    "split": "古英语 oferrīdan，经中古英语 overriden；对应 over- 越过、压过 + ride。由骑过、压过发展到压倒原有决定。变化 override—overrode—overridden。",
+    "history": [
+      [
+        "古英语 rīdan → 中古英语 riden",
+        "骑乘、乘坐着移动"
+      ],
+      [
+        "英语 ride",
+        "骑马、骑车、乘车；一段乘坐经历"
+      ],
+      [
+        "古英语 ofer- + rīdan → override",
+        "骑过、压过 → 使另一决定或控制失效"
+      ]
+    ],
+    "explanation": "override a decision 推翻决定，override the automatic settings 越过自动设置。a manual override 是人工接管功能，名词通常重音靠前。",
+    "usage": "override a decision；override the default；a manual override。",
+    "contrast": "override 是较高优先级取代当前行为；overload 是负载过大。override 某设置不表示把设备负荷加大。",
+    "examples": [
+      [
+        "An administrator can override the default settings.",
+        "管理员可以更改并取代默认设置。"
+      ],
+      [
+        "Safety concerns overrode the desire to finish quickly.",
+        "安全方面的顾虑压过了尽快完成的愿望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/override#English"
+    ]
+  },
+  {
+    "word": "hayride",
+    "ipa": "/ˈheɪraɪd/",
+    "meaning": "乘干草车游玩；干草车游乐活动",
+    "sense": "坐上铺着干草、干草包的车，在农场一带慢慢兜一圈，是一种乡村游乐。",
+    "split": "hay 干草 + ride 一趟乘坐，按车上的铺垫物和活动方式命名。",
+    "history": [
+      [
+        "古英语 rīdan → 中古英语 riden",
+        "骑乘、乘坐着移动"
+      ],
+      [
+        "英语 ride",
+        "骑马、骑车、乘车；一段乘坐经历"
+      ],
+      [
+        "hay + ride → hayride",
+        "坐在铺着干草的车上兜游"
+      ]
+    ],
+    "explanation": "go on a hayride 参加干草车游乐，a farm hayride 农场干草车活动；北美秋季农场活动里常见。",
+    "usage": "go on a hayride；a farm hayride；an evening hayride。",
+    "contrast": "hayride 是游乐乘坐，hay 是晒干的草；普通运草作业不能不看语境就译成游乐。",
+    "examples": [
+      [
+        "The farm offers a hayride every autumn weekend.",
+        "农场每逢秋季周末都提供干草车游乐。"
+      ],
+      [
+        "The children climbed onto the wagon for the hayride.",
+        "孩子们爬上车，准备乘干草车兜游。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hayride#English"
+    ]
+  },
+  {
+    "word": "table",
+    "ipa": "/ˈteɪbl/",
+    "meaning": "桌子；表格；提出或搁置议题〔地区用法不同〕",
+    "sense": "一块平面既能摆饭菜，也能把文字、数字排得整整齐齐；于是有桌子和表格两种常用义。",
+    "split": "最终接拉丁 tabula 板、列表；英语既有古英语阶段的早期借词，也有后来法语 table 的影响。家具义和表格义都围绕平面展开。",
+    "history": [
+      [
+        "拉丁 tabula",
+        "板、写字板、列表"
+      ],
+      [
+        "古英语 tabele 与古法语 table → 英语 table",
+        "早期借词与法语借词汇合；桌子、表格"
+      ]
+    ],
+    "explanation": "a dining table 餐桌，a table of results 结果表，table of contents 目录。作动词 table a proposal，英式常指提交讨论，美式常指暂搁。",
+    "usage": "set the table；a table of results；table of contents；table a proposal。",
+    "contrast": "table a proposal 的地区意义可能相反，跨地区沟通用 submit for discussion 或 postpone 更明确。table 表格与 chart 图表也要按呈现方式选择。",
+    "examples": [
+      [
+        "The table shows the results for each month.",
+        "表格列出了每个月的结果。"
+      ],
+      [
+        "We booked a table for four near the window.",
+        "我们订了一张靠窗的四人桌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/table#English",
+      "https://dictionary.cambridge.org/dictionary/english/table"
+    ]
+  },
+  {
+    "word": "tablespoon",
+    "ipa": "/ˈteɪblspuːn/",
+    "meaning": "大汤匙；一大匙〔烹饪量〕",
+    "sense": "餐桌上的大勺子；食谱里更常指用量勺量出的一大匙。",
+    "split": "table 餐桌 + spoon 勺子，合成后也用作烹饪容量名称。它是固定词，不按两部分各自翻译成桌子勺。",
+    "history": [
+      [
+        "拉丁 tabula",
+        "板、写字板、列表"
+      ],
+      [
+        "古英语 tabele 与古法语 table → 英语 table",
+        "早期借词与法语借词汇合；桌子、表格"
+      ],
+      [
+        "table + spoon → tablespoon",
+        "餐桌用大勺 → 烹饪一大匙"
+      ]
+    ],
+    "explanation": "a tablespoon of oil 一大匙油，常缩写 tbsp。食谱量有地区差异；不少标准用约15毫升，澳式常用20毫升，应按食谱和量勺标注。",
+    "usage": "a tablespoon of oil；two tablespoons of sugar；tbsp。",
+    "contrast": "tablespoon 大匙通常大于 teaspoon 茶匙；普通家用餐勺大小不统一，精确烘焙宜用标有容量的量勺。",
+    "examples": [
+      [
+        "Add two tablespoons of olive oil to the pan.",
+        "往锅里加入两大匙橄榄油。"
+      ],
+      [
+        "She measured the sugar with a tablespoon.",
+        "她用一大匙量勺量糖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tablespoon#English"
+    ]
+  },
+  {
+    "word": "tablecloth",
+    "ipa": "英 /ˈteɪblklɒθ/；美 /ˈteɪblklɔːθ/",
+    "meaning": "桌布",
+    "sense": "铺在桌面上的一层布，让桌面整洁，也能保护它。",
+    "split": "table + cloth 布；中古英语已有对应形式，前部用 table 替换了更早同义组合里的 bord。",
+    "history": [
+      [
+        "拉丁 tabula",
+        "板、写字板、列表"
+      ],
+      [
+        "古英语 tabele 与古法语 table → 英语 table",
+        "早期借词与法语借词汇合；桌子、表格"
+      ],
+      [
+        "table + cloth → tablecloth",
+        "铺在桌面上的布"
+      ]
+    ],
+    "explanation": "a clean tablecloth 干净桌布，a linen tablecloth 亚麻桌布，spread a tablecloth 铺桌布。",
+    "usage": "a linen tablecloth；spread a tablecloth；wash the tablecloth。",
+    "contrast": "cloth 是布，clothes 是衣服；桌布不是 tableclothes。复数 tablecloths 保留完整词基。",
+    "examples": [
+      [
+        "She spread a white tablecloth over the table.",
+        "她在桌上铺了一块白桌布。"
+      ],
+      [
+        "We washed the tablecloth after dinner.",
+        "晚饭后我们洗了桌布。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tablecloth#English"
+    ]
+  },
+  {
+    "word": "tableware",
+    "ipa": "英 /ˈteɪblweə/；美 /ˈteɪblwer/",
+    "meaning": "餐具〔总称〕",
+    "sense": "摆一桌饭要用的盘、碗、杯、刀叉等，统起来叫餐具。",
+    "split": "table 餐桌 + ware 制品、用具，按使用场景形成集合名称。",
+    "history": [
+      [
+        "拉丁 tabula",
+        "板、写字板、列表"
+      ],
+      [
+        "古英语 tabele 与古法语 table → 英语 table",
+        "早期借词与法语借词汇合；桌子、表格"
+      ],
+      [
+        "table + ware → tableware",
+        "餐桌上使用的器具总称"
+      ]
+    ],
+    "explanation": "ceramic tableware 陶瓷餐具，a set of tableware 一套餐具。通常作不可数总称，具体几件可说 pieces of tableware。",
+    "usage": "ceramic tableware；a set of tableware；disposable tableware。",
+    "contrast": "tableware 是大范围总称；cutlery 侧重刀叉勺等，glassware 侧重玻璃器皿，范围并不完全相同。",
+    "examples": [
+      [
+        "The shop sells simple ceramic tableware.",
+        "店里出售简洁的陶瓷餐具。"
+      ],
+      [
+        "They chose reusable tableware for the party.",
+        "他们为聚会选了可重复使用的餐具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tableware#English"
+    ]
+  },
+  {
+    "word": "turntable",
+    "ipa": "英 /ˈtɜːnteɪbl/；美 /ˈtɜːrnteɪbl/",
+    "meaning": "转盘；唱机转盘、唱盘机",
+    "sense": "平台围着中心转：可以带唱片转，也可以让整辆机车转个方向。",
+    "split": "turn 转动 + table 平台；早期用例包括铁路机车转向平台，后来用于唱片播放设备。",
+    "history": [
+      [
+        "拉丁 tabula",
+        "板、写字板、列表"
+      ],
+      [
+        "古英语 tabele 与古法语 table → 英语 table",
+        "早期借词与法语借词汇合；桌子、表格"
+      ],
+      [
+        "turn + table → turntable",
+        "能转动的平台 → 铁路转车盘、唱片转盘"
+      ]
+    ],
+    "explanation": "a record on the turntable 唱盘上的唱片，a railway turntable 铁路转车盘；日常音乐语境也可指整台唱盘机。",
+    "usage": "a record turntable；a railway turntable；a rotating turntable。",
+    "contrast": "turntable 是能旋转的实体平台；turn the tables 是扭转局面的固定表达，来自棋盘游戏背景，别按唱机解释。",
+    "examples": [
+      [
+        "He placed a record on the turntable.",
+        "他把唱片放到唱盘上。"
+      ],
+      [
+        "The museum demonstrated how the turntable turned a locomotive.",
+        "博物馆演示了转车盘怎样使机车转向。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/turntable",
+      "https://en.wiktionary.org/wiki/turntable#English"
+    ]
+  }
+]

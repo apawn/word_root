@@ -1,0 +1,187 @@
+[
+  {
+    "id": "B3273",
+    "meaning": "教育；教育相关；再教育",
+    "core": "EDUCATION：学习、培养的过程，再看用途与重复",
+    "image": "education 是过程、体系或培养经验；educational 说教育相关或能让人学到东西，reeducation 则再来一轮。",
+    "intro": "education 接拉丁语 ēducātiō，来自 ēducāre 养育、训练。更远与引导词族相关，不等于所有现代含义都能逐字从带出来推导。",
+    "forms": "education → educational；re- + education → reeducation。",
+    "branches": [
+      [
+        "过程与教育作用",
+        "education · educational"
+      ],
+      [
+        "再次教育、训练",
+        "reeducation"
+      ]
+    ],
+    "contrasts": "教育词族的更远来源不能替代现代具体用法；reeducation 可能中性再训练，也可能带强制改造语境。",
+    "practice": "The book discusses education as an ongoing process rather than a single event.\n\n书中把教育视为持续过程，而不是一次性事件。",
+    "words": [
+      "education",
+      "educational",
+      "reeducation"
+    ],
+    "exclude": {
+      "e-education": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-education": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "auto-education": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4472",
+    "meaning": "教育、培养；受教育与教育作用",
+    "core": "EDUCATE：使人学习、成长，结果与作用分开说",
+    "image": "educate 说行动，education 说过程；educated 说受过培养，educative 说能起教育作用。",
+    "intro": "educate 来自拉丁语 ēducātus，背后是 ēducāre 养育、训练；与更远的引导词族有关，但不能硬把每个音节当成现代英语独立词。",
+    "forms": "educate → education、educated、educative；educational 与 educative 对照。",
+    "branches": [
+      [
+        "动作与过程",
+        "educate · education"
+      ],
+      [
+        "学习结果与教育作用",
+        "educated · educative · educational"
+      ]
+    ],
+    "contrasts": "educated guess 是有依据推测，不是已证事实；educative experience 是让人学到东西的经历。",
+    "practice": "An educative experience can help us make a more educated guess next time.\n\n一次让人学到东西的经历，可以帮助我们下次作出更有依据的推测。",
+    "words": [
+      "educate",
+      "education",
+      "educated",
+      "educative",
+      "educational"
+    ],
+    "exclude": {
+      "co-educate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-educate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3573",
+    "meaning": "活跃；起作用；启动；采取行动",
+    "core": "ACTIVE：真的在行动，或者让东西开始起作用",
+    "image": "先区别状态 active、方式 actively、启动 activate，再看否定、再次启用与社会倡议这几支。",
+    "intro": "active 经法语来自拉丁语 āctīvus，与 agere 做、行动的词族有关。英语后续用 -ate、-ist、-ism 等继续构词。",
+    "forms": "active → actively、activity；activate → activation；inactive → inactivity；reactivate → reactivation；overactive、hyperactive；activist ↔ activism；activewear 另看衣物类别。\n\nactive 的 activ- 词干与人物 ist 结合，再加复数 s。",
+    "branches": [
+      [
+        "状态、方式与活动",
+        "active · actively · activity"
+      ],
+      [
+        "启动、停用、恢复与程度",
+        "activate · activation · inactive · inactivity · reactivate · reactivation · overactive · hyperactive"
+      ],
+      [
+        "倡议行动与服装名称",
+        "activist · activism · activewear"
+      ],
+      [
+        "其他常用历史词族组合",
+        "interactive · proactive · retroactive · radioactive · psychoactive · bioactive"
+      ],
+      [
+        "activist → activists：不只主张，还主动推动",
+        "active · activist · activists"
+      ]
+    ],
+    "contrasts": "inactive 未活动不一定损坏；activist 人，activism 行动方式；activewear 是服装类别。",
+    "practice": "The active members decided to reactivate the project and participate more actively.\n\n活跃成员决定重新启动项目，更积极地参与。",
+    "words": [
+      "active",
+      "actively",
+      "activity",
+      "activate",
+      "activation",
+      "inactive",
+      "inactivity",
+      "reactivate",
+      "reactivation",
+      "overactive",
+      "hyperactive",
+      "activist",
+      "activism",
+      "activewear",
+      "interactive",
+      "proactive",
+      "retroactive",
+      "radioactive",
+      "psychoactive",
+      "bioactive",
+      "activists"
+    ],
+    "exclude": {
+      "semi-active": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2585",
+    "meaning": "女性；成年阶段、气质与代表角色",
+    "core": "WOMAN：旧女性 + 人，现代义与气质评价分开",
+    "image": "先掌握 woman、women 的读音，再看 -hood 阶段身份、-ly 气质描述、spokes- 代表发言的关系。",
+    "intro": "woman 来自古英语 wīfmann，wīf 的旧义是女性，mann 是人；不是 womb + man，也不把现代 wife 妻子义直接套回去。",
+    "forms": "woman → women；womanhood、womanly；spokes- + woman → spokeswoman；superwoman 看已经讲过的比喻和专名用法。\n\nwoman /ˈwʊmən/；women /ˈwɪmɪn/。两个音节都要听，不能只按字面把 woman 的尾字母换一下。",
+    "branches": [
+      [
+        "女性与成年身份、气质",
+        "woman · womanhood · womanly"
+      ],
+      [
+        "代表角色与固定称呼",
+        "spokeswoman · superwoman"
+      ],
+      [
+        "woman 与 women 的读音变化",
+        "woman · women"
+      ]
+    ],
+    "contrasts": "woman /ˈwʊmən/，women /ˈwɪmɪn/；spokeswoman 是代表角色；womanly 带文化上的气质评价。",
+    "practice": "The spokeswoman introduced an exhibition about women’s lives and ideas of womanhood.\n\n女发言人介绍了一场有关女性生活与女性身份观念的展览。",
+    "words": [
+      "woman",
+      "womanhood",
+      "womanly",
+      "spokeswoman",
+      "superwoman",
+      "women"
+    ],
+    "exclude": {
+      "pro-woman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "catwoman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3526",
+    "meaning": "美；优美；使变美与美化过程",
+    "core": "BEAUTY：先有美感，再分性质、方式和改变",
+    "image": "beauty 是美，beautiful 形容事物，beautifully 说方式；beautify 主动改变，beautification 说过程。",
+    "intro": "beauty 经法语来自拉丁语 bellus 好看词族。后续 -ful、-ly、-ify、-ification 把词性与表达重点分别改变。",
+    "forms": "beauty → beautiful → beautifully；beauty → beautify → beautification。",
+    "branches": [
+      [
+        "美感、性质与方式",
+        "beauty · beautiful · beautifully"
+      ],
+      [
+        "美化动作与过程",
+        "beautify · beautification"
+      ]
+    ],
+    "contrasts": "beauty of the plan 可说方案的妙处；beautiful solution 巧妙方案；beautification 是美化过程。",
+    "practice": "The beautification project made the square more beautiful, but its real beauty lay in its welcoming atmosphere.\n\n美化工程让广场更漂亮，而它真正的魅力在于亲切宜人的氛围。",
+    "words": [
+      "beauty",
+      "beautiful",
+      "beautifully",
+      "beautify",
+      "beautification"
+    ],
+    "exclude": {
+      "beauteous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

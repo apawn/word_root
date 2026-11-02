@@ -1,0 +1,310 @@
+[
+  {
+    "word": "characteristic",
+    "ipa": "英 /ˌkærəktəˈrɪstɪk/；美 /ˌkærəktəˈrɪstɪk/",
+    "meaning": "典型的、特有的；特征、特点",
+    "sense": "一个声音、动作或形状让你一眼认出“这很像它”，就是 characteristic。作名词，是那项可辨认的特点；作形容词，说它很有代表性。",
+    "split": "与希腊 kharakteristikos 等形式相连，可表面分析 character + -istic；不是一律只指小说角色的性质。character 更早有刻痕、独特标记的背景。",
+    "history": [
+      [
+        "希腊 kharakter 刻痕、标记 → character",
+        "可辨认的印记 → 特征、性格"
+      ],
+      [
+        "characteristic，按希腊 kharakteristikos 等形成",
+        "显示特征、典型的；一项特征"
+      ]
+    ],
+    "explanation": "a characteristic feature 典型特征，be characteristic of 是……的典型表现，physical characteristics 外形特征。",
+    "usage": "be characteristic of；a characteristic sound；key characteristics。",
+    "contrast": "characteristic 常说典型、能体现特征，不保证这个特点全世界仅它独有。",
+    "examples": [
+      [
+        "The bird has a characteristic call.",
+        "这种鸟有一种很有辨识度的叫声。"
+      ],
+      [
+        "Patience is one of her defining characteristics.",
+        "耐心是她鲜明的特点之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/characteristic#English",
+      "https://www.etymonline.com/word/characteristic"
+    ]
+  },
+  {
+    "word": "characteristically",
+    "ipa": "英 /ˌkærəktəˈrɪstɪkli/；美 /ˌkærəktəˈrɪstɪkli/",
+    "meaning": "典型地、一贯地；以特有的方式",
+    "sense": "她总是平静处理问题，这次也一样，就可以说 characteristically calm。它把这次表现放回一个人、物惯有的风格里。",
+    "split": "characteristic + -ally，形成方式、典型表现副词；-ically 常压缩读 /ɪkli/。",
+    "history": [
+      [
+        "希腊 kharakter 刻痕、标记 → character",
+        "可辨认的印记 → 特征、性格"
+      ],
+      [
+        "characteristic，按希腊 kharakteristikos 等形成",
+        "显示特征、典型的；一项特征"
+      ],
+      [
+        "characteristic + -ally → characteristically",
+        "以惯有、典型方式"
+      ]
+    ],
+    "explanation": "characteristically calm 一如既往平静，characteristically direct 一贯直接。",
+    "usage": "characteristically calm；characteristically brief。",
+    "contrast": "characteristically 是说某对象的一贯特点，不等于整个社会人人通常如此。",
+    "examples": [
+      [
+        "She remained characteristically calm during the delay.",
+        "延误期间，她依旧像平时那样平静。"
+      ],
+      [
+        "His reply was characteristically brief.",
+        "他的回复一如既往地简短。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/characteristically#English"
+    ]
+  },
+  {
+    "word": "uncharacteristic",
+    "ipa": "英 /ˌʌnkærəktəˈrɪstɪk/；美 /ˌʌnkærəktəˈrɪstɪk/",
+    "meaning": "非典型的、一反常态的",
+    "sense": "平时细心的人犯了粗心错，平时健谈的人忽然安静，都是 uncharacteristic：这次不像他通常的样子。",
+    "split": "un- 否定 + characteristic 典型、体现特征的，近代英语派生词。",
+    "history": [
+      [
+        "希腊 kharakter 刻痕、标记 → character",
+        "可辨认的印记 → 特征、性格"
+      ],
+      [
+        "characteristic，按希腊 kharakteristikos 等形成",
+        "显示特征、典型的；一项特征"
+      ],
+      [
+        "un- + characteristic → uncharacteristic",
+        "不符合平常特点的"
+      ]
+    ],
+    "explanation": "an uncharacteristic mistake 一反常态的失误，uncharacteristic of someone 不像某人平时作风。",
+    "usage": "uncharacteristic of；an uncharacteristic silence。",
+    "contrast": "uncharacteristic 的常态参照要说清；对一个人罕见的动作，对另一个人可能很常见。",
+    "examples": [
+      [
+        "The careless error was uncharacteristic of her.",
+        "这个粗心错误不像她平时的作风。"
+      ],
+      [
+        "An uncharacteristic silence fell over the usually lively group.",
+        "平时活跃的一群人陷入了反常的沉默。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncharacteristic#English"
+    ]
+  },
+  {
+    "word": "instrumentalist",
+    "ipa": "英 /ˌɪnstrəˈmentəlɪst/；美 /ˌɪnstrəˈmentəlɪst/",
+    "meaning": "器乐演奏者；工具主义者",
+    "sense": "instrument 在音乐里是乐器，instrumentalist 就是演奏乐器的人。哲学里若说工具主义支持者，则接 instrumentalism 的思想语境。",
+    "split": "instrumental + -ist。音乐人物义承乐器形容词，哲学义与 instrumentalism 工具主义配套；两种人各看领域。",
+    "history": [
+      [
+        "拉丁 instrumentum 工具 → instrument → instrumental",
+        "工具；起作用、作手段的；乐器的"
+      ],
+      [
+        "instrumental + -ist → instrumentalist",
+        "器乐演奏者；工具主义支持者"
+      ]
+    ],
+    "explanation": "a skilled instrumentalist 熟练器乐演奏者，vocalists and instrumentalists 歌手与器乐演奏者。",
+    "usage": "a solo instrumentalist；an ensemble of instrumentalists。",
+    "contrast": "instrumentalist 音乐义强调演奏乐器，vocalist 强调用人声；一个人可以兼具两种身份。",
+    "examples": [
+      [
+        "The concert featured three young instrumentalists.",
+        "音乐会由三位年轻器乐演奏者登台。"
+      ],
+      [
+        "She is both a singer and an accomplished instrumentalist.",
+        "她既是歌手，也是出色的器乐演奏者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/instrumentalist#English"
+    ]
+  },
+  {
+    "word": "instrumentally",
+    "ipa": "英 /ˌɪnstrəˈmentəli/；美 /ˌɪnstrəˈmentəli/",
+    "meaning": "以器乐方式；作为手段、借助工具地",
+    "sense": "歌曲用乐器演奏、不唱词，是 instrumentally；把一件事当实现目的的手段来评价，也能用这个副词。",
+    "split": "instrumental + -ly，-al + -ly 形成 -ally；承乐器的与作为手段的两个性质分支。",
+    "history": [
+      [
+        "拉丁 instrumentum 工具 → instrument → instrumental",
+        "工具；起作用、作手段的；乐器的"
+      ],
+      [
+        "instrumental + -ly → instrumentally",
+        "以器乐方式；作为手段"
+      ]
+    ],
+    "explanation": "perform instrumentally 以器乐演出，instrumentally valuable 作为实现目的的手段而有价值。",
+    "usage": "performed instrumentally；instrumentally valuable。",
+    "contrast": "intrinsically valuable 说本身有价值，instrumentally valuable 说能帮助实现其他目标；两种价值可能兼有。",
+    "examples": [
+      [
+        "The melody was performed instrumentally, without vocals.",
+        "旋律以器乐演奏，没有人声。"
+      ],
+      [
+        "The essay asks whether the activity is valuable in itself or only instrumentally.",
+        "文章询问这项活动本身有价值，还是只作为手段有价值。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/instrumentally#English"
+    ]
+  },
+  {
+    "word": "instrumentality",
+    "ipa": "/ˌɪnstrəmenˈtæləti/",
+    "meaning": "起工具、手段作用的性质；工具、机构、手段",
+    "sense": "谁或什么充当了促成事情的手段，便能谈其 instrumentality。正式文体 through the instrumentality of 像中文“通过……的作用”。",
+    "split": "instrumental + -ity，性质名词，-al 在重音变化后读 /æl/；也由性质转指具体起作用的工具、机关。",
+    "history": [
+      [
+        "拉丁 instrumentum 工具 → instrument → instrumental",
+        "工具；起作用、作手段的；乐器的"
+      ],
+      [
+        "instrumental + -ity → instrumentality",
+        "手段作用；执行作用的工具、机构"
+      ]
+    ],
+    "explanation": "through the instrumentality of 借助……，a government instrumentality 政府机关、执行机构，文体较正式。",
+    "usage": "through the instrumentality of；an instrumentality of government。",
+    "contrast": "instrumentality 常正式谈手段、机构；不等于日常 instrument 乐器，也不专指演奏技巧。",
+    "examples": [
+      [
+        "The agreement was reached through the instrumentality of a mediator.",
+        "协议通过调解人的作用得以达成。"
+      ],
+      [
+        "The agency was established as an instrumentality of government.",
+        "该机构作为政府执行机关设立。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/instrumentality#English"
+    ]
+  },
+  {
+    "word": "steak",
+    "ipa": "/steɪk/",
+    "meaning": "牛排；厚切肉排、鱼排等",
+    "sense": "一块厚实肉片单独煎、烤，最常见是牛排，也能说 tuna steak 金枪鱼排。素食菜单还会按厚切形状叫 cauliflower steak。",
+    "split": "经中古英语 steike 借自古诺尔斯 steik 烤肉。现代由常见牛肉排扩展到其他肉、鱼及按厚片命名的食物。",
+    "history": [
+      [
+        "古诺尔斯 steik 烤肉 → 中古英语 steike → steak",
+        "适合烤、煎的厚肉片"
+      ],
+      [
+        "牛排常用义 → 鱼等厚切片及植物厚切片",
+        "按形状、烹饪方式扩展，并不都来自牛"
+      ]
+    ],
+    "explanation": "a beef steak 牛排，a tuna steak 金枪鱼排，a steakhouse 牛排餐厅；ea 在这里读 /eɪ/。",
+    "usage": "a steak dinner；a tuna steak；a steakhouse。",
+    "contrast": "steak 与 stake 同音而意义不同；菜单有修饰词时，不要一见 steak 就自动译成牛肉。",
+    "examples": [
+      [
+        "He ordered a steak with vegetables.",
+        "他点了一份配蔬菜的牛排。"
+      ],
+      [
+        "The menu also offered grilled tuna steaks.",
+        "菜单也供应烤金枪鱼排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/steak#English"
+    ]
+  },
+  {
+    "word": "bail",
+    "ipa": "/beɪl/",
+    "meaning": "保释、保释担保；使获保释；舀出积水；〔口语〕突然退出",
+    "sense": "法律语境看担保与暂时获释；船里漏进水，bail the water out 却是拿器具往外舀。两个画面先分别记，别在每句里都找保释金。",
+    "split": "法律义经法语 baillier 交付、照管接拉丁 baiulare 承担。舀水义经法语 baille 小水桶的器具名发展，更远常联系承载物词族；突然离开义接 bail out 的后续口语。",
+    "history": [
+      [
+        "拉丁 baiulare 承担、搬运 → 古法语 baillier 交付、照管",
+        "交由照管、担保的法律词义发展"
+      ],
+      [
+        "保释名、动词 bail；另经小水桶名 baille → bail 舀水",
+        "近源路径不同；更远常被联系承载物的词族"
+      ]
+    ],
+    "explanation": "be released on bail 获保释，bail someone out 使获保释、比喻帮脱困，bail water out of a boat 舀出船内水，bail on a plan 口语临时退出计划。",
+    "usage": "on bail；bail someone out；bail water out。",
+    "contrast": "获保释不等于已经被判无罪；bail water 是另一动词支线。保证方式等实际制度因法域、案件而异。",
+    "examples": [
+      [
+        "The report said that he had been released on bail.",
+        "报道说他已获保释。"
+      ],
+      [
+        "They bailed water out of the boat.",
+        "他们把水从船里舀出去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bail#English",
+      "https://www.etymonline.com/word/bail"
+    ]
+  },
+  {
+    "word": "cryopreservation",
+    "ipa": "英 /ˌkraɪəʊprezəˈveɪʃən/；美 /ˌkraɪoʊprezərˈveɪʃən/",
+    "meaning": "低温保存、冷冻保存",
+    "sense": "把细胞、组织等放在很低温度下保存，留待以后使用，就是 cryopreservation。cryo- 告诉你采用冷的方式，后半仍是保存。",
+    "split": "cryo- 接希腊 kryos 冰冷、寒霜 + preservation 保存；现代生命科学组合词。",
+    "history": [
+      [
+        "preserve 保存、保护 → preservation",
+        "保存行为、保护状态"
+      ],
+      [
+        "希腊 kryos 寒冷 → cryo- + preservation",
+        "用低温来保存生物材料"
+      ]
+    ],
+    "explanation": "cell cryopreservation 细胞冷冻保存，cryopreservation methods 低温保存方法，cryopreservation of tissue 组织低温保存。",
+    "usage": "cell cryopreservation；cryopreservation methods。",
+    "contrast": "cryopreservation 是具体低温保存过程名；一般 preservation 还可用其他方法，范围更广。",
+    "examples": [
+      [
+        "The laboratory studies cryopreservation of cells.",
+        "实验室研究细胞的低温保存。"
+      ],
+      [
+        "The samples were labelled before cryopreservation.",
+        "样品在冷冻保存前贴上了标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cryopreservation#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cryopreservation"
+    ]
+  }
+]

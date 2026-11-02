@@ -1,0 +1,97 @@
+[
+  {
+    "id": "B3726",
+    "meaning": "泥土、污垢与不光彩的比喻",
+    "core": "DIRT：地上的土与不该沾上的污物，后来借说行为不干净",
+    "image": "dirt → dirty；dirtbag 是人物贬称。",
+    "intro": "dirt road 的土不一定贬义，dirty trick 的脏则是道德评价；把地方、表面状态与骂人的态度分开。",
+    "forms": "古诺尔斯 drit → 中古英语 drit → dirt；dirt + -y；dirt + bag。",
+    "branches": [
+      [
+        "物质、性质与人物侮称",
+        "dirt · dirty · dirtbag"
+      ]
+    ],
+    "contrasts": "dirt/soil 污物与土壤侧重；dirty 非一定 old；dirty look 表情；dirtbag 非职业称呼。",
+    "practice": "The dirt road left our shoes dirty.\n\n土路把我们的鞋弄脏了。",
+    "words": [
+      "dirt",
+      "dirty",
+      "dirtbag"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4117",
+    "meaning": "想象、奇异与很棒的现代评价",
+    "core": "FANTASTIC：原有想象、奇异，今天赞美义与奇幻义并存",
+    "image": "fantastic → fantastically；fantastical 把奇幻、不现实的形容词特点讲清。",
+    "intro": "Fantastic! 日常可直接赞太棒了；fantastical world 更像奇幻世界，不是所有加长形式都只是更强赞美。",
+    "forms": "想象、显现词族经法语 → fantastic；fantastic + -ally → fantastically；fantastic + -al → fantastical。",
+    "branches": [
+      [
+        "基础、方式与奇幻性质",
+        "fantastic · fantastically · fantastical"
+      ]
+    ],
+    "contrasts": "fantastic 常赞好，fantastical 常说奇幻；fantastically 为副词，不能把 fantastic service 一概换为 fantastical service。",
+    "practice": "It was a fantastic story set in a fantastical world.\n\n这是一个设定在奇幻世界里的精彩故事。",
+    "words": [
+      "fantastic",
+      "fantastically",
+      "fantastical"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3163",
+    "meaning": "管理者、职位任期与管辖地区",
+    "core": "GOVERNOR：先确认管理谁、在哪一层，再分人、职位、地方",
+    "image": "governor → governorship、governorate；governess 保留家庭女教师的历史人物旁支，不当女州长。",
+    "intro": "governor 的译名取决于时代、地区。governorship 常职位任期，governorate 新闻里常行政区；相似后缀作用不同。",
+    "forms": "管理词族 → governor；governor + -ship/-ate；governess 有法语家庭管教人物词史。",
+    "branches": [
+      [
+        "管理者、职位与地区",
+        "governor · governorship · governorate"
+      ],
+      [
+        "家庭人物旁支",
+        "governess"
+      ]
+    ],
+    "contrasts": "governor 人、governorship 任职、governorate 地区；governess 家庭女教师不是所有女性 governor 的名称。",
+    "practice": "The biography describes the governor’s work during his governorship.\n\n传记描述了他任内担任州长的工作。",
+    "words": [
+      "governor",
+      "governorship",
+      "governorate",
+      "governess"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3575",
+    "meaning": "是否就业与是否充分就业",
+    "core": "EMPLOYMENT：有无工作是一层，工作是否充分又是一层",
+    "image": "employment → unemployment、underemployment，分无工作与已有工作但利用不足。",
+    "intro": "不能只数有没有一份工作，就把工作时间、能力是否充分利用都当成同一问题。专业统计中具体指标各有口径。",
+    "forms": "employ + -ment → employment；un-/under- + employment。",
+    "branches": [
+      [
+        "就业、失业与就业不足",
+        "employment · unemployment · underemployment"
+      ]
+    ],
+    "contrasts": "un- 没有，under- 不足；underemployment 不等于每个做兼职的人都不充分就业，意愿、条件与定义都要看。",
+    "practice": "The report discusses both unemployment and underemployment.\n\n报告同时讨论了失业与就业不足。",
+    "words": [
+      "employment",
+      "unemployment",
+      "underemployment"
+    ],
+    "exclude": {
+      "self-employment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

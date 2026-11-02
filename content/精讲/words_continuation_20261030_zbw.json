@@ -1,0 +1,550 @@
+[
+  {
+    "word": "harbor",
+    "ipa": "英 /ˈhɑːbə/；美 /ˈhɑːrbər/",
+    "meaning": "港湾、避风港；庇护；心怀某种想法〔常用美式拼写〕",
+    "sense": "船能停下来躲风浪的地方，是 harbor。把保护、留在里面的画面带到心里，harbor a grudge 就是一直藏着怨气。",
+    "split": "名词接中古英语 herberwe 等住宿、营地材料，通常上接古英语 herebeorg：军队 + 保护、住处，也可能受北欧同族影响。动词有古英语 herebeorgian 安顿、庇护对应，不只现代名词转用。",
+    "history": [
+      [
+        "古英语 herebeorg、herebeorgian → 中古英语住宿材料",
+        "军队住处、保护 → 住宿、安顿"
+      ],
+      [
+        "英语 harbor 的海事与心理扩展",
+        "船的遮蔽住处 → 港湾；庇护 → 把想法留在心里"
+      ]
+    ],
+    "explanation": "a sheltered harbor 避风港；boats in the harbor 港湾里的船；harbor a grudge 心怀怨气。",
+    "usage": "harbor doubts 心存疑虑；a quiet harbor 宁静的港湾。",
+    "contrast": "harbor 与 harbour 是拼写对应。它和 borrow、bury 的保护材料有更远关系，但不是现代几词互换字母就造出；港湾也不必等于设施齐全的商业 port。",
+    "examples": [
+      [
+        "The boats returned to the harbor before sunset.",
+        "船只在日落前回到了港湾。"
+      ],
+      [
+        "She did not harbor any resentment.",
+        "她心里并没有怨恨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harbor#English",
+      "https://www.etymonline.com/word/harbor",
+      "https://www.etymonline.com/word/borrow",
+      "https://www.etymonline.com/word/bury"
+    ]
+  },
+  {
+    "word": "harbour",
+    "ipa": "英 /ˈhɑːbə/；美 /ˈhɑːrbər/",
+    "meaning": "港湾、避风港；庇护；心怀〔常用英式拼写〕",
+    "sense": "harbour 和 harbor 说同一个避风、容留的画面。多出来的 u 是拼写习惯，不给它另加一种港口或情绪的意思。",
+    "split": "与 harbor 同接古英语、日耳曼住宿与保护材料；harbour 的 our 拼写后来受同类外形类推影响，不是拉丁表人后缀 -or 或 -our 的实例。",
+    "history": [
+      [
+        "古英语住宿、安顿材料 → harbor、harbour",
+        "住处、遮蔽 → 港湾、庇护"
+      ],
+      [
+        "英语拼写变体 harbour",
+        "与 harbor 意义相同，保留 u 的常用英式形式"
+      ]
+    ],
+    "explanation": "a fishing harbour 渔港；shelter in the harbour 在港湾里避风；harbour doubts 心存疑虑。",
+    "usage": "the harbour entrance 港湾入口；harbour a hope 心怀希望。",
+    "contrast": "harbour 不拆成 harb + 表人词尾 our。可以把 harbor、harbour 对照记拼写，读音和常用含义不因此改变。",
+    "examples": [
+      [
+        "We walked along the harbour at dawn.",
+        "黎明时我们沿着港湾散步。"
+      ],
+      [
+        "I still harbour doubts about the plan.",
+        "我对这个计划仍心存疑虑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harbour#English",
+      "https://www.etymonline.com/word/harbour",
+      "https://www.etymonline.com/word/harbor"
+    ]
+  },
+  {
+    "word": "harbors",
+    "ipa": "英 /ˈhɑːbəz/；美 /ˈhɑːrbərz/",
+    "meaning": "港湾〔复数〕；庇护、心怀〔第三人称单数〕",
+    "sense": "沿海有几处可停船避风的地方，是 harbors；一个人把疑虑或怨气留在心里，句子里也会出现 harbors。",
+    "split": "harbor 的古英语住宿、保护材料发展出港湾与庇护义。现代直接加 -s，英音元音、美国音 /r/ 后读 /z/；对应英式形式 harbours。",
+    "history": [
+      [
+        "住宿、保护材料 → harbor",
+        "住处 → 港湾；庇护 → 容留、心怀"
+      ],
+      [
+        "harbor + -s → harbors",
+        "多个港湾；某人或某物容留、怀有"
+      ]
+    ],
+    "explanation": "small harbors 小港湾；safe harbors 安全港湾；harbors doubts 心存疑虑。",
+    "usage": "harbors along the coast 沿岸港湾；harbors resentment 心怀怨气。",
+    "contrast": "harbors 是名词复数还是动词三单，看它是在指几处地方，还是在说某个主语怀有什么。美国拼写不加 u，但后缀 s 的规则相同。",
+    "examples": [
+      [
+        "The map marks several small harbors.",
+        "地图标出了几个小港湾。"
+      ],
+      [
+        "He harbors no resentment towards them.",
+        "他对他们并不心怀怨恨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harbors#English",
+      "https://www.etymonline.com/word/harbor"
+    ]
+  },
+  {
+    "word": "harbours",
+    "ipa": "英 /ˈhɑːbəz/；美 /ˈhɑːrbərz/",
+    "meaning": "港湾〔复数〕；庇护、心怀〔第三人称单数，常用英式拼写〕",
+    "sense": "几处 harbour 加上复数，是 harbours；说一个人仍怀有希望，也可写 she harbours a hope。两个用法都保留容留、遮蔽的方向。",
+    "split": "harbour 是 harbor 的对应拼写，接古英语住宿、保护材料，不含独立表人 -our。现代整个 harbour 后直接加 -s，读 /z/。",
+    "history": [
+      [
+        "古英语住宿材料 → harbour",
+        "住处、保护 → 港湾、容留"
+      ],
+      [
+        "harbour + -s → harbours",
+        "多处港湾；某人心怀、庇护"
+      ]
+    ],
+    "explanation": "fishing harbours 渔港；harbours on the island 岛上的港湾；harbours a hope 心怀希望。",
+    "usage": "quiet harbours 宁静的港湾；harbours doubts 对某事心存疑虑。",
+    "contrast": "harbours 与 harbors 在这里是拼写对应。保留 u 也照样加 s，不必为英美两种拼写编两套词根故事。",
+    "examples": [
+      [
+        "The island has several fishing harbours.",
+        "岛上有几个渔港。"
+      ],
+      [
+        "She still harbours a hope of returning.",
+        "她仍怀着回去的希望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harbours#English",
+      "https://www.etymonline.com/word/harbour"
+    ]
+  },
+  {
+    "word": "cruel",
+    "ipa": "/ˈkruːəl/，也可合为 /kruːl/",
+    "meaning": "残忍的、冷酷的；使人痛苦的",
+    "sense": "知道别人会痛，仍不在乎甚至故意去伤害，是 cruel 的核心。形容处境或打击时，它说事情对人特别无情、难熬。",
+    "split": "经古法语 cruel、较早 crudel 接拉丁 crudelis 冷酷、残忍，和 crudus 生的、粗糙、带血的同族。它与 crude 走相关拉丁材料，但不是现代 crude 换尾巴现造。",
+    "history": [
+      [
+        "拉丁 crudus、crudelis → 古法语 crudel、cruel",
+        "粗糙、生硬、带血的材料 → 冷酷、残忍"
+      ],
+      [
+        "古法语 → 英语 cruel",
+        "不顾别人痛苦；也形容无情的遭遇"
+      ]
+    ],
+    "explanation": "a cruel remark 伤人的话；cruel to animals 对动物残忍；a cruel blow 无情的打击。",
+    "usage": "a cruel ruler 残暴的统治者；a cruel joke 伤人的玩笑。",
+    "contrast": "strict 严格不一定 cruel 残忍。cruel 抓住的是让人受苦、对痛苦无情，不能因为规则认真就自动这样评价。",
+    "examples": [
+      [
+        "It was a cruel thing to say.",
+        "说那样的话很伤人。"
+      ],
+      [
+        "The story describes a cruel ruler.",
+        "故事描写了一位残暴的统治者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cruel#English",
+      "https://www.etymonline.com/word/cruel"
+    ]
+  },
+  {
+    "word": "cruelly",
+    "ipa": "/ˈkruːəli/",
+    "meaning": "残忍地、冷酷地；令人痛苦地",
+    "sense": "做一件事时不顾对方会痛、会难受，是 cruelly。它把 cruel 的残忍性质放到对待人的方式或遭受的打击上。",
+    "split": "现代 cruel + 完整副词后缀 -ly。cruel 接法语、拉丁 crudelis；结尾已经有 l，再加 ly，拼写会连成两个 l。",
+    "history": [
+      [
+        "拉丁 crudelis → 法语、英语 cruel",
+        "冷酷、残忍的"
+      ],
+      [
+        "cruel + -ly → cruelly",
+        "以残忍的方式；无情地"
+      ]
+    ],
+    "explanation": "treated cruelly 被残忍对待；cruelly mocked 被冷酷嘲笑；cruelly disappointed 失望得很痛苦。",
+    "usage": "speak cruelly 说伤人的话；cruelly taken away 被无情夺走。",
+    "contrast": "cruelly 不是更残忍的比较级，它说方式。crueller、crueler 或 more cruel 才表达更残忍，别把 ly 当成比较词尾。",
+    "examples": [
+      [
+        "The prisoner was treated cruelly in the story.",
+        "故事里的囚犯受到了残酷对待。"
+      ],
+      [
+        "He spoke cruelly about her mistake.",
+        "他谈到她的错误时，话说得很伤人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cruelly#English",
+      "https://en.wiktionary.org/wiki/cruel#English"
+    ]
+  },
+  {
+    "word": "cruelty",
+    "ipa": "/ˈkruːəlti/",
+    "meaning": "残忍、冷酷；残酷行为",
+    "sense": "cruel 描述人或事残忍，cruelty 把这种残忍本身提出来谈。也能指一件具体让人受苦的残酷行为。",
+    "split": "现代可按 cruel + -ty 对照理解；历史经古法语 crualte 接拉丁 crudelitas、crudelitatem，名词有整词借入路线，不是只能从英语形容词新造。",
+    "history": [
+      [
+        "拉丁 crudelis → crudelitas → 古法语 crualte",
+        "残忍的 → 残忍这种性质、行为"
+      ],
+      [
+        "法语 → 英语 cruelty；现代对应 cruel + -ty",
+        "残忍、冷酷；具体残酷行径"
+      ]
+    ],
+    "explanation": "cruelty to animals 对动物的残忍对待；an act of cruelty 一次残酷行为；the cruelty of the remark 那句话的伤人之处。",
+    "usage": "unnecessary cruelty 无谓的残忍；oppose cruelty 反对残酷对待。",
+    "contrast": "cruelty 常作不可数性质名词；要明确一件行为，可以说 an act of cruelty。它不是严格要求或一般不方便的万能替代词。",
+    "examples": [
+      [
+        "The novel explores cruelty and kindness.",
+        "小说探讨了残忍与善意。"
+      ],
+      [
+        "She was shocked by the cruelty of his remark.",
+        "他那句话的伤人程度令她震惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cruelty#English",
+      "https://www.etymonline.com/word/cruelty"
+    ]
+  },
+  {
+    "word": "hockey",
+    "ipa": "英 /ˈhɒki/；美 /ˈhɑːki/",
+    "meaning": "曲棍球；冰球〔依语境〕",
+    "sense": "用球棍推进、击打球或冰球的运动，是 hockey 的直观画面。具体是在草地还是冰上，常要看场景或前面的限定词。",
+    "split": "较早英语记录有 hockie 球棍等用法，更早来源未定。一种解释联系法语 hoquet 牧杖、弯杖及 hoc 钩，因球棍弯曲；这只是假说，不能断言 hockey 就是 hook 加后缀。",
+    "history": [
+      [
+        "早期英语 hockie 等球棍记录 → hockey",
+        "弯曲球棍运动的名称；更早来源有争议"
+      ],
+      [
+        "现代 hockey；field hockey、ice hockey",
+        "草地或冰上的不同运动场景；由限定词或语境区分"
+      ]
+    ],
+    "explanation": "play hockey 打曲棍球或冰球；field hockey 草地曲棍球；ice hockey 冰球。",
+    "usage": "a hockey stick 球棍；a hockey team 球队。",
+    "contrast": "hockey 的地域常用指向不同，不能只凭一个词就断定一定是冰球。hook 的钩形可以帮助记球棍外形，但不是已证明的英语派生步骤。",
+    "examples": [
+      [
+        "She plays field hockey after school.",
+        "她放学后打曲棍球。"
+      ],
+      [
+        "The ice hockey team practised in the rink.",
+        "冰球队在冰场训练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hockey#English",
+      "https://www.etymonline.com/word/hockey"
+    ]
+  },
+  {
+    "word": "shelter",
+    "ipa": "英 /ˈʃeltə/；美 /ˈʃeltər/",
+    "meaning": "遮蔽、庇护；避雨处、临时住所；保护、躲避",
+    "sense": "外面有风雨，里面能让你暂时躲开，是 shelter。它可以是一处具体建筑，也可以是受到保护的状态；作动词则是提供保护或进去躲避。",
+    "split": "词源有争议。Wiktionary 接中古英语 sheltron、古英语 scildtruma 盾阵；Etymonline 保留这一路可能性，也记录对传承缺口的质疑及 shield 加 -ture 的另一解释。不要把现代 shelter 硬拆成确定的 shelt + -er。",
+    "history": [
+      [
+        "候选路线：旧盾阵 sheltron；或 shield 与 -ture 的分析",
+        "两路都联系防护材料，具体形成仍有争议"
+      ],
+      [
+        "现代英语 shelter 的名词、动词使用",
+        "保护、遮蔽处 → 提供保护、躲避"
+      ]
+    ],
+    "explanation": "take shelter 躲避、找遮蔽；a bus shelter 公交候车亭；shelter from the rain 避雨。",
+    "usage": "food and shelter 食物与住处；shelter someone from the wind 为某人挡风。",
+    "contrast": "shelter 可作不可数的庇护、住处需求，也能数 a shelter 一处遮蔽建筑。讲词源时保留候选路线，记意思时抓保护、遮蔽就够。",
+    "examples": [
+      [
+        "We took shelter under a large tree.",
+        "我们在一棵大树下找了个遮蔽处。"
+      ],
+      [
+        "The wall can shelter the garden from the wind.",
+        "这道墙能为花园挡风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shelter#English",
+      "https://www.etymonline.com/word/shelter",
+      "https://www.ahdictionary.com/word/search.html?q=shelter"
+    ]
+  },
+  {
+    "word": "shelters",
+    "ipa": "英 /ˈʃeltəz/；美 /ˈʃeltərz/",
+    "meaning": "遮蔽建筑、临时住所〔复数〕；保护、躲避〔第三人称单数〕",
+    "sense": "路边几处挡雨的亭子，是 shelters；一片树篱替花园挡风，则是树篱 shelters 花园。一个说保护的地方，一个说保护动作。",
+    "split": "shelter 的更早来源有盾阵或 shield 加 -ture 等候选分析，尚有争议。现代确定的变化是整个词后加 -s，英音元音、美音 /r/ 后读 /z/。",
+    "history": [
+      [
+        "shelter：有争议的旧防护材料 → 现代名词、动词",
+        "遮蔽处、保护；不把候选词源当定论"
+      ],
+      [
+        "shelter + -s → shelters",
+        "多处遮蔽建筑；某物提供保护、某人躲避"
+      ]
+    ],
+    "explanation": "bus shelters 公交候车亭；animal shelters 动物收容处；shelters the garden 为花园遮挡。",
+    "usage": "temporary shelters 临时住所；shelters from the rain 躲雨。",
+    "contrast": "shelters 作名词可数具体处所，不能因此说抽象的庇护一律可数。具体是在指建筑还是动作，仍要看句子结构。",
+    "examples": [
+      [
+        "There are two bus shelters along the road.",
+        "沿路有两个公交候车亭。"
+      ],
+      [
+        "The hedge shelters the garden from strong winds.",
+        "树篱替花园挡住强风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shelters#English",
+      "https://www.etymonline.com/word/shelter"
+    ]
+  },
+  {
+    "word": "sheltered",
+    "ipa": "英 /ˈʃeltəd/；美 /ˈʃeltərd/",
+    "meaning": "有遮蔽的、受保护的；躲避了〔过去式、过去分词及形容词〕",
+    "sense": "港湾有山挡风，是 sheltered；一个人一直有人照顾、很少碰到外界困难，也可说过着 sheltered life。后者是在讲经历受到保护。",
+    "split": "shelter 的更早来源有争议，现代在整个 shelter 后加完整 -ed。英音元音、美音 /r/ 后读 /d/，不额外读成 /ɪd/。",
+    "history": [
+      [
+        "shelter 的遮蔽、保护义",
+        "具体挡风雨 → 生活经历受到保护"
+      ],
+      [
+        "shelter + -ed → sheltered",
+        "被遮蔽、被保护；已经躲避"
+      ]
+    ],
+    "explanation": "a sheltered bay 避风的海湾；a sheltered life 少经风雨的生活；sheltered from the rain 躲雨、受到遮雨保护。",
+    "usage": "a sheltered corner 有遮挡的角落；sheltered under a roof 在屋檐下躲避。",
+    "contrast": "sheltered 可以夸一个地方挡风，也可以暗示一个人经历较少、缺乏外界经验。形容人时要留意语气，不能总译成受宠爱的。",
+    "examples": [
+      [
+        "We found a sheltered corner for the picnic.",
+        "我们找到了一个有遮挡的角落野餐。"
+      ],
+      [
+        "They sheltered under the roof during the shower.",
+        "阵雨时他们在屋檐下躲雨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheltered#English",
+      "https://www.etymonline.com/word/shelter"
+    ]
+  },
+  {
+    "word": "sheltering",
+    "ipa": "英 /ˈʃeltərɪŋ/；美 /ˈʃeltərɪŋ/",
+    "meaning": "提供庇护、遮挡；躲避〔现在分词、动名词〕",
+    "sense": "有东西替人挡住风雨，是 sheltering；人在屋檐下躲雨，也是 sheltering。看主语是谁，就知道它是保护者还是躲避者。",
+    "split": "shelter 的旧防护来源仍有争议，现代直接加完整 -ing，不删词干。/r/ 在元音前读出，形成 sheltering。",
+    "history": [
+      [
+        "shelter 的保护、躲避两用",
+        "为别人提供保护；自己寻找遮蔽"
+      ],
+      [
+        "shelter + -ing → sheltering",
+        "正在庇护、挡风雨或躲避"
+      ]
+    ],
+    "explanation": "sheltering from the rain 躲雨；sheltering visitors 为访客遮挡；a sheltering tree 能遮蔽的大树。",
+    "usage": "sheltering under an awning 在遮篷下躲避；sheltering the garden 为花园挡风。",
+    "contrast": "sheltering someone 是给别人保护，sheltering from something 是自己避开某种影响。一个词能承担两个方向，后面的结构会告诉你。",
+    "examples": [
+      [
+        "People were sheltering from the rain under the awning.",
+        "人们正在遮篷下躲雨。"
+      ],
+      [
+        "The old wall is sheltering the young plants from the wind.",
+        "旧墙正在为幼苗挡风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheltering#English",
+      "https://www.etymonline.com/word/shelter"
+    ]
+  },
+  {
+    "word": "wrestling",
+    "ipa": "/ˈreslɪŋ/",
+    "meaning": "摔跤；扭打、费力应对〔名词、现在分词〕",
+    "sense": "双方抱住、扭住彼此，争着把对方摔倒，是 wrestling 的运动画面。面对难题反复较劲，也像和问题摔跤。",
+    "split": "现代可按 wrestle 去结尾 e 加完整 -ing 理解；名词还有晚期古英语 wraestlung 的历史，不只是现代临时拼出。wrestle 联系扭转材料，开头 w、词中 t 通常都不发音。",
+    "history": [
+      [
+        "旧英语扭转、摔跤材料；名词 wraestlung → wrestling",
+        "身体角力、摔跤的古老名称"
+      ],
+      [
+        "现代 wrestle 去 e + -ing → wrestling；比喻扩展",
+        "摔跤、扭打 → 和难题反复较劲"
+      ]
+    ],
+    "explanation": "a wrestling match 摔跤比赛；wrestling with a problem 努力处理难题；wrestling with a decision 为决定反复纠结。",
+    "usage": "watch wrestling 看摔跤；wrestling with the question 认真、艰难地思索问题。",
+    "contrast": "wrestling with an idea 通常是反复想、觉得难处理，不是在和人打架。现代 -ing 的拆分可用，历史名词的古老传承也要保留。",
+    "examples": [
+      [
+        "We watched a wrestling match on Saturday.",
+        "我们周六看了一场摔跤比赛。"
+      ],
+      [
+        "She is wrestling with a difficult decision.",
+        "她正在为一个艰难决定反复思量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrestling#English",
+      "https://www.etymonline.com/word/wrestling"
+    ]
+  },
+  {
+    "word": "dragons",
+    "ipa": "/ˈdræɡənz/",
+    "meaning": "龙、龙形神话生物〔复数〕",
+    "sense": "神话故事里的巨大龙形生物，是 dragons。不同文化的龙外形、性情并不一样，要跟着具体故事去想象。",
+    "split": "dragon 经古法语 dragon、拉丁 draco、dracon- 接希腊 drakon 大蛇、龙。更远与看得清、凝视有关的解释只是可能，不能把所有龙的设定都从这一说法推出。现代加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "希腊 drakon → 拉丁 draco、dracon- → 法语、英语 dragon",
+        "大蛇、神话龙形生物"
+      ],
+      [
+        "dragon + -s → dragons",
+        "多条龙；不同传统中的龙形形象"
+      ]
+    ],
+    "explanation": "stories about dragons 龙的故事；dragons in mythology 神话中的龙；carved dragons 雕刻的龙。",
+    "usage": "a pair of dragons 一对龙；painted dragons 画出的龙。",
+    "contrast": "dragons 不自带同一种文化设定；是否会飞、喷火、象征什么，得看具体传统和作品。复数 s 只是数多个形象。",
+    "examples": [
+      [
+        "The story begins with two dragons guarding a bridge.",
+        "故事开头，两条龙守着一座桥。"
+      ],
+      [
+        "The doors were decorated with carved dragons.",
+        "门上装饰着雕刻的龙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dragons#English",
+      "https://en.wiktionary.org/wiki/dragon#English"
+    ]
+  },
+  {
+    "word": "examined",
+    "ipa": "/ɪɡˈzæmɪnd/",
+    "meaning": "仔细检查、审视、查问了〔过去式、过去分词〕",
+    "sense": "把对象拿到眼前，逐项看、问、核对，是 examined。它比随便看一眼更仔细，强调要弄清状况或证据。",
+    "split": "examine 经法语 examiner 接拉丁 examinare，连 examen 称量、检验材料。现代去末尾 e 加完整 -ed，/n/ 后读 /d/，不另加一个 /ɪd/。",
+    "history": [
+      [
+        "拉丁 examen、examinare → 法语 examiner → examine",
+        "称量、检验 → 仔细检查、询问"
+      ],
+      [
+        "examine 去 e + -ed → examined",
+        "已经检查、审视或查问"
+      ]
+    ],
+    "explanation": "examined the evidence 审视证据；examined the painting 仔细察看画作；examined the question 深入考虑问题。",
+    "usage": "closely examined 细查了；examined under a light 在灯下查看。",
+    "contrast": "examined 不只指考试。对象可以是材料、观点、实物或证人；检查出了什么结果，还需要后面的内容说明。",
+    "examples": [
+      [
+        "She examined the painting under a bright light.",
+        "她在明亮灯光下仔细查看那幅画。"
+      ],
+      [
+        "The students examined the evidence together.",
+        "学生们一起审视了证据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/examined#English",
+      "https://en.wiktionary.org/wiki/examine#English"
+    ]
+  },
+  {
+    "word": "draws",
+    "ipa": "英 /drɔːz/；美 /drɔːz/，亦有 /drɑːz/",
+    "meaning": "画、拉、抽取、吸引〔第三人称单数〕；平局、抽签〔复数〕",
+    "sense": "把东西拉出来、把线沿纸面带出来，能串起 draws 的拉与画。吸引注意像把目光拉过来；平局、抽签则要连固定场景一起记。",
+    "split": "draw 接古英语 dragan，经中古英语 drawen，与 drag 有共同历史。现代直接加 -s，元音后读 /z/；过去式另为 drew，分词 drawn。",
+    "history": [
+      [
+        "古英语 dragan → 中古英语 drawen → draw",
+        "拉、拖 → 绘画、抽取、吸引等多支"
+      ],
+      [
+        "draw + -s → draws",
+        "某人画、拉、吸引；多场平局或抽签"
+      ]
+    ],
+    "explanation": "draws a picture 画画；draws the curtains 拉窗帘；draws attention 吸引注意；three draws 三场平局。",
+    "usage": "draws a name from a hat 从帽子里抽一个名字；draws a conclusion 得出结论。",
+    "contrast": "draws the curtains 可能拉开也可能拉上，要看情境；不要仅靠拉的画面指定方向。draws a conclusion 则是得出结论的固定搭配。",
+    "examples": [
+      [
+        "She draws animals in her notebook.",
+        "她在笔记本里画动物。"
+      ],
+      [
+        "The team finished the month with two wins and three draws.",
+        "这支队伍这个月以两胜三平收尾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/draws#English",
+      "https://en.wiktionary.org/wiki/draw#English"
+    ]
+  }
+]

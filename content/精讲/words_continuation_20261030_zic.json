@@ -1,0 +1,729 @@
+[
+  {
+    "word": "scam",
+    "ipa": "/skæm/",
+    "meaning": "骗局；诈骗；用骗局欺骗",
+    "sense": "表面给你一个好机会，实际却要骗走钱或信息，是 a scam。它强调设局欺骗，不只是服务差、做得让人失望。",
+    "split": "较早见美国俚语、嘉年华行业材料，名词骗局与动词诈骗都有记录，远源未定；可能与旧 scamp 骗子有关，不定成已经证实的缩短。",
+    "history": [
+      [
+        "美国俚语、嘉年华行业材料里的 scam",
+        "远源未定，与 scamp 骗子可能有关"
+      ],
+      [
+        "骗局名词与诈骗动词",
+        "现代常用于以欺骗骗取钱财、信息的活动"
+      ]
+    ],
+    "explanation": "an online scam 是网络骗局；scam someone out of money 是设局骗走某人的钱；calling something a scam 语气很重。",
+    "usage": "an email scam；a ticket scam；scam someone out of money。",
+    "contrast": "scam 通常暗含故意骗人，mistake 是错误，未必蓄意；别把意外出错与设骗局在词义上混成一回事。",
+    "examples": [
+      [
+        "The message turned out to be a scam.",
+        "那条消息原来是个骗局。"
+      ],
+      [
+        "The story shows how criminals scam people out of their savings.",
+        "故事展示了犯罪分子如何用骗局骗走人们的积蓄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scam#English",
+      "https://www.etymonline.com/word/scam"
+    ]
+  },
+  {
+    "word": "scams",
+    "ipa": "/skæmz/",
+    "meaning": "骗局〔复数〕；用骗局欺骗〔第三人称单数〕",
+    "sense": "假门票、假中奖等可以是一桩桩 scams；同一个人在反复设局，也可说 he scams people。",
+    "split": "scam + -s，/m/ 后读 /z/；名词复数与动词三单同形，不改变远源未定的基础词。",
+    "history": [
+      [
+        "美国俚语、嘉年华行业材料里的 scam",
+        "远源未定，与 scamp 骗子可能有关"
+      ],
+      [
+        "骗局名词与诈骗动词",
+        "现代常用于以欺骗骗取钱财、信息的活动"
+      ],
+      [
+        "scam + -s → scams",
+        "多个骗局；或某人设局诈骗"
+      ]
+    ],
+    "explanation": "online scams、ticket scams 数不同骗局类型或事件；scams people 是动词用法。",
+    "usage": "common scams；email scams；scams tourists。",
+    "contrast": "scams 是骗局，scammers 是实施骗局的人；报道 ten scams 不表示恰有十个骗子。",
+    "examples": [
+      [
+        "The article describes several common online scams.",
+        "文章介绍了几种常见网络骗局。"
+      ],
+      [
+        "In the film, he scams tourists with fake tickets.",
+        "电影里，他用假门票骗游客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scams#English",
+      "https://www.etymonline.com/word/scam"
+    ]
+  },
+  {
+    "word": "scammed",
+    "ipa": "/skæmd/",
+    "meaning": "被骗了；用骗局骗了",
+    "sense": "钱已经交出去，后来发现机会是假的，口语可说 I got scammed。它把受骗的结果直接说出来。",
+    "split": "scam 双写 m 加完整 -ed → scammed，词尾读 /d/；过去式、过去分词，被动常见 was scammed、got scammed。",
+    "history": [
+      [
+        "美国俚语、嘉年华行业材料里的 scam",
+        "远源未定，与 scamp 骗子可能有关"
+      ],
+      [
+        "骗局名词与诈骗动词",
+        "现代常用于以欺骗骗取钱财、信息的活动"
+      ],
+      [
+        "scam → scammed",
+        "双写 m 加 -ed，骗过或被骗"
+      ]
+    ],
+    "explanation": "was scammed out of money 是被骗走钱；scammed someone 则明确谁是被害对象。",
+    "usage": "got scammed；was scammed out of money；scammed several buyers。",
+    "contrast": "scammed 是欺骗已经发生的过去形式，scam 是基础动词或骗局名词；got scammed 强调受骗，不是自己设局。",
+    "examples": [
+      [
+        "She was scammed out of the money she had saved for a trip.",
+        "她为旅行存下的钱被骗子骗走了。"
+      ],
+      [
+        "The character scammed several buyers before being exposed.",
+        "那个角色骗了几位买家后被揭穿了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scammed#English",
+      "https://www.etymonline.com/word/scam"
+    ]
+  },
+  {
+    "word": "scamming",
+    "ipa": "/ˈskæmɪŋ/",
+    "meaning": "正在设局诈骗；诈骗活动",
+    "sense": "骗子还在用同一个假机会骗不同的人，这个进行中的过程是 scamming。通常不只是说一句假话，而是在玩一套骗局。",
+    "split": "scam 双写 m 加 -ing → scamming；过程形式也能作活动名词。",
+    "history": [
+      [
+        "美国俚语、嘉年华行业材料里的 scam",
+        "远源未定，与 scamp 骗子可能有关"
+      ],
+      [
+        "骗局名词与诈骗动词",
+        "现代常用于以欺骗骗取钱财、信息的活动"
+      ],
+      [
+        "scam → scamming",
+        "双写 m 加 -ing，设局欺骗的过程"
+      ]
+    ],
+    "explanation": "scamming buyers 是骗买家，scamming people out of money 是骗走钱；主动动作与被动受骗要分清。",
+    "usage": "scamming customers；scamming people online；stop scamming people。",
+    "contrast": "scamming people 是设局骗人，being scammed 是正在受骗；-ing 本身不表示谁一定是受害者，句型才决定角色。",
+    "examples": [
+      [
+        "The report described a group scamming buyers with fake adverts.",
+        "报道描述了一个用假广告骗买家的团伙。"
+      ],
+      [
+        "The police discovered that he was scamming people online.",
+        "警方发现他在网上设局骗人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scamming#English",
+      "https://www.etymonline.com/word/scam"
+    ]
+  },
+  {
+    "word": "clown",
+    "ipa": "/klaʊn/",
+    "meaning": "小丑、丑角；胡闹的人、蠢人；扮丑角、胡闹",
+    "sense": "舞台上故意跌跌撞撞逗人笑，是 a clown；生活中嫌某人胡闹、做事蠢，也可能这样叫他，语气就不再是职业名称那么中性。",
+    "split": "较早有粗笨乡人、举止粗鲁者义，远源未定，可能接北欧、低地德语相似材料；后来发展出舞台职业丑角，再有胡闹、可鄙者等用法。",
+    "history": [
+      [
+        "clown 较早：粗笨、举止粗鲁的乡人",
+        "远源未定，有北欧、低地德语等分析"
+      ],
+      [
+        "舞台职业丑角 → 小丑；再用作蠢人、胡闹者",
+        "名词又可形成 clown around 胡闹的动作"
+      ]
+    ],
+    "explanation": "a circus clown 是马戏小丑；the class clown 是班上爱逗笑的人；clown around 是胡闹、耍宝。",
+    "usage": "a circus clown；a class clown；clown around。",
+    "contrast": "clown 是职业时不必贬低个人，叫人 You clown! 则可能侮辱；joker 可以偏爱开玩笑，不总有粗笨的感觉。",
+    "examples": [
+      [
+        "The clown made the children laugh.",
+        "小丑把孩子们逗笑了。"
+      ],
+      [
+        "Stop trying to clown around and listen for a moment.",
+        "别再胡闹了，认真听一会儿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clown#English",
+      "https://www.etymonline.com/word/clown"
+    ]
+  },
+  {
+    "word": "clowns",
+    "ipa": "/klaʊnz/",
+    "meaning": "小丑、丑角、胡闹者〔复数〕；胡闹〔第三人称单数〕",
+    "sense": "一群演员是 clowns；一群做事很不靠谱的人被骂 clowns，也是同一名词的贬义引申。",
+    "split": "clown + -s，/n/ 后读 /z/；职业、评价名词复数与动词三单同形。",
+    "history": [
+      [
+        "clown 较早：粗笨、举止粗鲁的乡人",
+        "远源未定，有北欧、低地德语等分析"
+      ],
+      [
+        "舞台职业丑角 → 小丑；再用作蠢人、胡闹者",
+        "名词又可形成 clown around 胡闹的动作"
+      ],
+      [
+        "clown + -s → clowns",
+        "多个小丑、胡闹者；或某人胡闹"
+      ]
+    ],
+    "explanation": "circus clowns 说职业；he clowns around 说他总耍宝；these clowns 评价具体人时可能很不客气。",
+    "usage": "circus clowns；a group of clowns；clowns around in class。",
+    "contrast": "clowns 与 comedians 都可逗笑，但表演传统不同；comedian 可做脱口秀，不必装扮成小丑。",
+    "examples": [
+      [
+        "The clowns performed a short routine between the acts.",
+        "两场节目之间，小丑们表演了一段短节目。"
+      ],
+      [
+        "He always clowns around when the camera appears.",
+        "镜头一出现，他就总要耍宝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clowns#English",
+      "https://www.etymonline.com/word/clown"
+    ]
+  },
+  {
+    "word": "boozes",
+    "ipa": "/ˈbuːzɪz/",
+    "meaning": "喝酒、痛饮〔第三人称单数〕",
+    "sense": "人物一下班就去喝，故事里可说 he boozes after work。这个词很口语，常比普通 drink 更带喝得多、泡在酒里的感觉。",
+    "split": "booze + -s；基础已有 e，拼写直接加 s，/z/ 后后缀读 /ɪz/。这里优先作动词三单，普通酒类名词 booze 通常不可数。",
+    "history": [
+      [
+        "中古英语 bouse 等饮酒材料，可能接中古荷兰语",
+        "名词酒与动词痛饮都有旧记录"
+      ],
+      [
+        "booze → boozes、boozed、boozing",
+        "现代很口语，基础末尾 -ze 的读音是 /z/"
+      ],
+      [
+        "booze + -s → boozes",
+        "他、她喝酒、痛饮；词尾读 /ɪz/"
+      ]
+    ],
+    "explanation": "boozes all evening 写持续喝酒；不用于喝水、喝茶这类普通饮用。",
+    "usage": "boozes at the pub；boozes all weekend；boozes with friends。",
+    "contrast": "boozes 只说口语喝酒这支，drinks 可以喝任何饮料；drinks water 不能按同样意思替换成 boozes water。",
+    "examples": [
+      [
+        "In the novel, he boozes at the same pub every evening.",
+        "小说里，他每晚都泡在同一家酒馆喝酒。"
+      ],
+      [
+        "The character complains that his neighbour boozes all weekend.",
+        "那个角色抱怨邻居整个周末都在喝酒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boozes#English",
+      "https://www.etymonline.com/word/booze"
+    ]
+  },
+  {
+    "word": "boozed",
+    "ipa": "/buːzd/",
+    "meaning": "喝酒、痛饮了；喝醉了的〔依搭配〕",
+    "sense": "一群人昨晚在酒馆待着喝酒，口语可说 boozed all evening；boozed up 又常形容喝醉了的状态。",
+    "split": "booze 去末尾 e，加完整 -ed → boozed，/z/ 后读 /d/；过去式、过去分词，也见 boozed up 的形容用法。",
+    "history": [
+      [
+        "中古英语 bouse 等饮酒材料，可能接中古荷兰语",
+        "名词酒与动词痛饮都有旧记录"
+      ],
+      [
+        "booze → boozes、boozed、boozing",
+        "现代很口语，基础末尾 -ze 的读音是 /z/"
+      ],
+      [
+        "booze 去 e + -ed → boozed",
+        "过去喝酒；boozed up 常说喝醉状态"
+      ]
+    ],
+    "explanation": "boozed at the pub 写过去喝酒，boozed up 的 up 加强到醉的结果；不要忽略搭配差别。",
+    "usage": "boozed all night；boozed at the pub；got boozed up。",
+    "contrast": "boozed 不是正式的饮酒记录用语，drank alcohol 更中性；boozed up 还强调醉意，不能只译成碰过一口酒。",
+    "examples": [
+      [
+        "In the story, they boozed at the pub all evening.",
+        "故事里，他们整个晚上都在酒馆喝酒。"
+      ],
+      [
+        "He arrived looking thoroughly boozed up.",
+        "他到的时候，看起来已经喝得烂醉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boozed#English",
+      "https://www.etymonline.com/word/booze"
+    ]
+  },
+  {
+    "word": "boozing",
+    "ipa": "/ˈbuːzɪŋ/",
+    "meaning": "喝酒、痛饮的过程或活动",
+    "sense": "在酒馆里一晚接一晚地喝，这种活动很口语地叫 boozing。它的画面偏放开喝，不是庄重地品评一小口饮品。",
+    "split": "booze 去末尾 e，加完整 -ing → boozing，基础 /z/ 保留；过程形式也可作喝酒活动名词。",
+    "history": [
+      [
+        "中古英语 bouse 等饮酒材料，可能接中古荷兰语",
+        "名词酒与动词痛饮都有旧记录"
+      ],
+      [
+        "booze → boozes、boozed、boozing",
+        "现代很口语，基础末尾 -ze 的读音是 /z/"
+      ],
+      [
+        "booze 去 e + -ing → boozing",
+        "喝酒、痛饮的活动或过程"
+      ]
+    ],
+    "explanation": "a night of boozing 是喝酒喝了一晚；out boozing 是出门喝酒去了；具体喝了多少还需上下文。",
+    "usage": "out boozing；a night of boozing；boozing with friends。",
+    "contrast": "boozing 是很口语的活动说法，tasting 可以专指品尝；两者都可能涉及酒，但关注点、语气不同。",
+    "examples": [
+      [
+        "The novel describes a night of boozing with old friends.",
+        "小说描写了和老朋友喝了一晚酒的情景。"
+      ],
+      [
+        "She stayed home while the others went out boozing.",
+        "其他人出门喝酒，她留在了家里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boozing#English",
+      "https://www.etymonline.com/word/booze"
+    ]
+  },
+  {
+    "word": "turtle",
+    "ipa": "英 /ˈtɜːtəl/；美 /ˈtɝtəl/",
+    "meaning": "龟；海龟〔依地区、语境〕",
+    "sense": "背着硬壳的龟，是 turtle 的常见画面。美式英语可泛说龟类，英式往往更区分水里的 turtle 和陆地上的 tortoise。",
+    "split": "龟名改自法语 tortue 等，远源未定，可能受英语更早的斑鸠名 turtle 影响。斑鸠那支接拉丁 turtur、模仿鸟声的材料，不是龟后来变成鸟。",
+    "history": [
+      [
+        "法语 tortue 等龟名 → 英语 turtle",
+        "可能受旧斑鸠名 turtle 的声音影响"
+      ],
+      [
+        "龟类；从海龟等扩大使用范围",
+        "旧斑鸠词接拉丁 turtur，是另一来路"
+      ]
+    ],
+    "explanation": "a sea turtle 是海龟；turn turtle 是翻覆、翻个底朝天，像龟壳翻过来的画面，常用于船。",
+    "usage": "a sea turtle；a freshwater turtle；turn turtle。",
+    "contrast": "turtle 和 tortoise 的普通用法随英美有差别，不能只凭 turtle 就保证它一定是海龟；sea turtle 才明确。",
+    "examples": [
+      [
+        "A sea turtle surfaced beside the boat.",
+        "一只海龟在船边浮出了水面。"
+      ],
+      [
+        "The little boat threatened to turn turtle in the waves.",
+        "小船在浪里摇晃，眼看就要翻覆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/turtle#English",
+      "https://www.etymonline.com/word/turtle"
+    ]
+  },
+  {
+    "word": "turtles",
+    "ipa": "英 /ˈtɜːtəlz/；美 /ˈtɝtəlz/",
+    "meaning": "龟、海龟〔复数，依语境〕",
+    "sense": "沙滩上几只海龟，或水边几只淡水龟，都可叫 turtles；想说具体类别，要把 sea、freshwater 等一起读。",
+    "split": "turtle + -s，/l/ 后读 /z/；多个龟类动物的普通复数，现代常用义不借旧斑鸠支来解释。",
+    "history": [
+      [
+        "法语 tortue 等龟名 → 英语 turtle",
+        "可能受旧斑鸠名 turtle 的声音影响"
+      ],
+      [
+        "龟类；从海龟等扩大使用范围",
+        "旧斑鸠词接拉丁 turtur，是另一来路"
+      ],
+      [
+        "turtle + -s → turtles",
+        "多只龟、海龟等"
+      ]
+    ],
+    "explanation": "sea turtles 是海龟复数；baby turtles 是小龟，未必限定海生；英语普通用法的范围仍有地区差异。",
+    "usage": "sea turtles；baby turtles；freshwater turtles。",
+    "contrast": "turtles 不是所有带硬壳动物的总称，crabs 螃蟹、snails 蜗牛各有自己的名称；外壳只是理解龟形象的线索。",
+    "examples": [
+      [
+        "Several turtles were resting on the rocks.",
+        "几只龟正趴在石头上休息。"
+      ],
+      [
+        "The film follows sea turtles across the ocean.",
+        "影片追踪了海龟穿越海洋的旅程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/turtles#English",
+      "https://www.etymonline.com/word/turtle"
+    ]
+  },
+  {
+    "word": "swan",
+    "ipa": "英 /swɒn/；美 /swɑn/",
+    "meaning": "天鹅",
+    "sense": "长脖子、大身体，平稳地滑过水面，是 swan 的常见画面。它可以是白天鹅，也可以是黑天鹅，词本身不限定白色。",
+    "split": "承古英语 swan，接日耳曼 swanaz；更远可能接发声、歌唱的词根材料。这是旧词源分析，不是现代英语 sing 直接换几个字母。",
+    "history": [
+      [
+        "古英语 swan ← 日耳曼 swanaz",
+        "可能更远接发声、歌唱材料"
+      ],
+      [
+        "英语 swan 天鹅",
+        "现代基础鸟名；相关比喻须按固定搭配理解"
+      ]
+    ],
+    "explanation": "a white swan、a black swan 都可用；a swan song 是最后的重要作品、演出等比喻，不是每只天鹅都真在临终唱歌。",
+    "usage": "a swan on the lake；a black swan；a swan song。",
+    "contrast": "swan 与 goose 鹅都可长颈、游水，但不是同一个鸟名；不要只看一幅简化画就把二者当同义词。",
+    "examples": [
+      [
+        "A swan glided across the lake.",
+        "一只天鹅平稳地游过湖面。"
+      ],
+      [
+        "The concert became the singer’s swan song.",
+        "那场音乐会成了歌手的告别演出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swan#English",
+      "https://www.etymonline.com/word/swan",
+      "https://www.etymonline.com/word/swan-song"
+    ]
+  },
+  {
+    "word": "swans",
+    "ipa": "英 /swɒnz/；美 /swɑnz/",
+    "meaning": "天鹅〔复数〕",
+    "sense": "一对或一群天鹅在水面上，是 swans。它数鸟的数量，不规定颜色、性别或种类只有一种。",
+    "split": "swan + -s，/n/ 后读 /z/；基础元音英美常有差别，复数后缀相同。",
+    "history": [
+      [
+        "古英语 swan ← 日耳曼 swanaz",
+        "可能更远接发声、歌唱材料"
+      ],
+      [
+        "英语 swan 天鹅",
+        "现代基础鸟名；相关比喻须按固定搭配理解"
+      ],
+      [
+        "swan + -s → swans",
+        "多只天鹅"
+      ]
+    ],
+    "explanation": "a pair of swans 是一对天鹅；black swans 是黑天鹅，普通自然描写先按鸟理解。",
+    "usage": "a pair of swans；white swans；swans on the river。",
+    "contrast": "swans 是普通加 -s 的鸟名，geese 是 goose 的不规则复数；别因为都在水里游就照同一种变化。",
+    "examples": [
+      [
+        "Two swans were feeding near the bank.",
+        "两只天鹅正在岸边觅食。"
+      ],
+      [
+        "The painting shows white swans on a dark lake.",
+        "画里画着暗色湖面上的白天鹅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swans#English",
+      "https://www.etymonline.com/word/swan"
+    ]
+  },
+  {
+    "word": "maple",
+    "ipa": "/ˈmeɪpəl/",
+    "meaning": "枫、槭树；枫木",
+    "sense": "秋天叶色鲜明、叶片像张开手掌的树，常让人想到 maple；做家具时 maple 又是枫木。maple syrup 则把这类树和糖浆连在一起。",
+    "split": "承古英语 mapultreow、mapolder 等枫树材料，更早日耳曼树名来源未定；英语逐渐缩成 maple。现代不按 map 地图加后缀来理解。",
+    "history": [
+      [
+        "古英语 mapultreow、mapolder 等枫树材料",
+        "较远日耳曼树名的来源未定"
+      ],
+      [
+        "中古英语 mapel 等 → maple",
+        "树名也按材料用来命名枫木"
+      ]
+    ],
+    "explanation": "a maple tree 可数一棵，made of maple 按木材不可数；maple syrup 是枫糖浆，具体树种的用途各有区别。",
+    "usage": "a maple leaf；maple wood；maple syrup。",
+    "contrast": "maple 是树类、木材名，map 是地图，二者不能凭前面几个相同字母认作现代派生；树本身也不等于糖浆。",
+    "examples": [
+      [
+        "A maple tree shades the front garden.",
+        "一棵枫树为前院遮阴。"
+      ],
+      [
+        "The table is made of maple.",
+        "那张桌子是枫木做的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maple#English",
+      "https://www.etymonline.com/word/maple"
+    ]
+  },
+  {
+    "word": "maples",
+    "ipa": "/ˈmeɪpəlz/",
+    "meaning": "枫树、槭树〔复数〕",
+    "sense": "街边一排枫树，是 maples；这里在数树，不是在数家具用的几块木料。",
+    "split": "maple + -s，/l/ 后读 /z/；可数树名的普通复数。木材通常仍用不可数 maple。",
+    "history": [
+      [
+        "古英语 mapultreow、mapolder 等枫树材料",
+        "较远日耳曼树名的来源未定"
+      ],
+      [
+        "中古英语 mapel 等 → maple",
+        "树名也按材料用来命名枫木"
+      ],
+      [
+        "maple + -s → maples",
+        "多棵、不同种的枫树、槭树"
+      ]
+    ],
+    "explanation": "red maples、Japanese maples 可指不同种类；a row of maples 是一排树，具体秋色并非每棵都同样。",
+    "usage": "maples along the street；a row of maples；Japanese maples。",
+    "contrast": "maples 数树，maple boards 数枫木板；材料名作修饰语时通常不因 boards 复数就也加 s。",
+    "examples": [
+      [
+        "The street is lined with maples.",
+        "街道两旁种着枫树。"
+      ],
+      [
+        "Several maples in the park had turned bright red.",
+        "公园里几棵枫树的叶子已经变得鲜红。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maples#English",
+      "https://www.etymonline.com/word/maple"
+    ]
+  },
+  {
+    "word": "vanilla",
+    "ipa": "/vəˈnɪlə/",
+    "meaning": "香草、香草味；香草味的；普通基础款的",
+    "sense": "冰淇淋里柔和、熟悉的香草味，是 vanilla。拿它比喻设计、软件，就像说没有额外花样的基础款，不一定在贬它难用。",
+    "split": "经西班牙 vainilla，小称构成 vaina 荚、鞘 + -illa，较远接拉丁 vagina 鞘。先按荚果形状命名，再指提取的香味，后来又有普通、常规的比喻。",
+    "history": [
+      [
+        "拉丁 vagina 鞘 → 西班牙 vaina 荚、鞘 + -illa 小称",
+        "vainilla：小荚果"
+      ],
+      [
+        "英语 vanilla：荚果、香味 → 普通基础款",
+        "常见于 plain vanilla，不是说真实香草完全没味道"
+      ]
+    ],
+    "explanation": "vanilla ice cream 是香草冰淇淋；vanilla extract 是香草精；a vanilla installation 在软件语境常是未加额外改动的标准安装。",
+    "usage": "vanilla flavour；vanilla ice cream；plain vanilla；a vanilla version。",
+    "contrast": "vanilla 比喻普通是文化上的引申，不能倒过来当作食材定义；香草并不是所有 herb 香草植物的总称。",
+    "examples": [
+      [
+        "I chose vanilla ice cream instead of chocolate.",
+        "我选了香草冰淇淋，没有选巧克力味。"
+      ],
+      [
+        "The guide starts with a vanilla installation of the software.",
+        "指南先从软件未经额外改动的标准安装讲起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vanilla#English",
+      "https://www.etymonline.com/word/vanilla"
+    ]
+  },
+  {
+    "word": "coral",
+    "ipa": "英 /ˈkɒrəl/；美 /ˈkɔrəl/、/ˈkɑrəl/",
+    "meaning": "珊瑚；珊瑚骨骼材料；珊瑚红色",
+    "sense": "海里看着像分枝小树或团块的珊瑚，是 coral；这些形态背后有小动物，并不因为长得像树就成了植物。衣服的 coral 又常指珊瑚红色。",
+    "split": "经古法语 coral、拉丁 corallium 接希腊 korallion，较远可能接闪米特语小石头材料，细节未定。欧洲早熟悉红珊瑚，又借其颜色给色调命名。",
+    "history": [
+      [
+        "法语 coral ← 拉丁 corallium ← 希腊 korallion",
+        "较远有闪米特语来源分析，细节未定"
+      ],
+      [
+        "珊瑚、珊瑚骨骼材料 → 珊瑚红色",
+        "现代可泛指相应生物、群体与材料，语境决定"
+      ]
+    ],
+    "explanation": "a coral reef 是珊瑚礁；a piece of coral 是一块珊瑚骨骼材料；a coral dress 多说珊瑚色裙子，不表示用珊瑚制衣。",
+    "usage": "a coral reef；living coral；a coral necklace；coral pink。",
+    "contrast": "coral 可以谈生物、骨骼材料或颜色，reef 是礁的地貌；不是所有 reef 都必须由珊瑚形成。",
+    "examples": [
+      [
+        "The photograph shows brightly coloured coral beneath the water.",
+        "照片展示了水下颜色鲜明的珊瑚。"
+      ],
+      [
+        "She chose a coral scarf to brighten the dark coat.",
+        "她选了一条珊瑚色围巾，给深色外套添些亮色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coral#English",
+      "https://www.etymonline.com/word/coral",
+      "https://oceanservice.noaa.gov/facts/coral.html"
+    ]
+  },
+  {
+    "word": "corals",
+    "ipa": "英 /ˈkɒrəlz/；美 /ˈkɔrəlz/、/ˈkɑrəlz/",
+    "meaning": "珊瑚生物、群体或种类〔复数〕",
+    "sense": "比较几种不同的珊瑚，或说礁区里一群群活着的珊瑚，可以用 corals。看着像水下花园，主体仍是动物。",
+    "split": "coral + -s，/l/ 后读 /z/；按生物、群体、种类可数时成复数，作为材料泛称时仍常用 coral。",
+    "history": [
+      [
+        "法语 coral ← 拉丁 corallium ← 希腊 korallion",
+        "较远有闪米特语来源分析，细节未定"
+      ],
+      [
+        "珊瑚、珊瑚骨骼材料 → 珊瑚红色",
+        "现代可泛指相应生物、群体与材料，语境决定"
+      ],
+      [
+        "coral + -s → corals",
+        "多种、多群或分别看的珊瑚"
+      ]
+    ],
+    "explanation": "hard corals 是硬珊瑚，soft corals 是软珊瑚；具体分类与数量要按上下文，不把所有珊瑚都画成同一种硬分枝。",
+    "usage": "hard corals；soft corals；different species of corals。",
+    "contrast": "corals 是动物，不因固定在海底就成为 plants；algae 藻类可能与它们共同生活，角色不同。",
+    "examples": [
+      [
+        "The exhibit shows several kinds of corals.",
+        "展区展示了几种珊瑚。"
+      ],
+      [
+        "Fish moved among the corals near the reef.",
+        "鱼儿在礁边的珊瑚间游动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/corals#English",
+      "https://www.etymonline.com/word/coral",
+      "https://oceanservice.noaa.gov/facts/coral.html"
+    ]
+  },
+  {
+    "word": "amber",
+    "ipa": "英 /ˈæmbə/；美 /ˈæmbər/",
+    "meaning": "琥珀；琥珀色、黄橙色；琥珀色的",
+    "sense": "树脂经过漫长变化留下透明、半透明的金黄色材料，是 amber。颜色名称再借这幅暖黄画面，amber light 就可能是黄橙色灯光。",
+    "split": "词较早经法语等接阿拉伯 anbar 龙涎香，后来又用于化石树脂琥珀。两种材料怎样共用名称有不同分析，不能定成龙涎香真的变成树脂；颜色义再后起。",
+    "history": [
+      [
+        "阿拉伯 anbar 龙涎香 → 法语等 → 英语旧 amber",
+        "后来也用来指琥珀，具体转用桥有分析分歧"
+      ],
+      [
+        "琥珀这种化石树脂 → 琥珀色",
+        "常是暖黄、黄橙色；颜色不保证东西由琥珀制成"
+      ]
+    ],
+    "explanation": "a piece of amber 是一块琥珀；an amber light 是黄橙色灯；amber jewellery 用作材料修饰语。",
+    "usage": "a piece of amber；amber beads；an amber glow。",
+    "contrast": "amber 琥珀与 ambergris 龙涎香今天通常分开；历史上名字有联系，不代表是同一种物质。",
+    "examples": [
+      [
+        "An insect was preserved in the amber.",
+        "那块琥珀中保存着一只昆虫。"
+      ],
+      [
+        "The lamp cast a soft amber glow.",
+        "灯发出柔和的琥珀色光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/amber#English",
+      "https://www.etymonline.com/word/amber"
+    ]
+  },
+  {
+    "word": "papa",
+    "ipa": "/pəˈpɑː/ 或 /ˈpɑːpə/",
+    "meaning": "爸爸〔亲昵称呼〕",
+    "sense": "孩子叫爸爸的一声 papa，听起来像重复两次容易发的 pa。英语小说、家庭里也会用，但不一定是所有地区最平常的叫法。",
+    "split": "英语经法语 papa 接拉丁等重复 pa 的儿语称呼；相似声音见于多种语言，不意味着都从现代英语相互借入。不是现代 father 的机械截短。",
+    "history": [
+      [
+        "重复 pa 的儿语称呼 → 拉丁等 papa",
+        "亲属称呼常见相似的简单重复音"
+      ],
+      [
+        "法语 papa → 英语 papa",
+        "早期有上层社会借用背景，后来使用范围扩大"
+      ]
+    ],
+    "explanation": "直接称呼可写 Papa，叙述 my papa 可小写；Dad、Daddy、Father 等选择取决于家庭、地区、年代和语气。",
+    "usage": "my papa；Papa, look；call for papa。",
+    "contrast": "papa 亲密、可能带旧式或特定家庭色彩，father 更中性、正式；相同亲属关系不保证称呼可以随意替换语气。",
+    "examples": [
+      [
+        "Papa, can you help me with this?",
+        "爸爸，你能帮我弄一下这个吗？"
+      ],
+      [
+        "The child ran to her papa at the gate.",
+        "孩子跑向门口的爸爸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/papa#English",
+      "https://www.etymonline.com/word/papa"
+    ]
+  }
+]

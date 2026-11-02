@@ -1,0 +1,462 @@
+[
+  {
+    "word": "flip",
+    "ipa": "/flɪp/",
+    "meaning": "翻转、轻弹；快速翻看；改变；轻率的〔另一形容词路径〕",
+    "sense": "硬币弹起来翻面，饼翻个面，书页快速翻过，都是 flip 的快、轻、翻一下。态度突然转向，也可借这个翻面动作。",
+    "split": "动词、名词联系较早 fillip、filippen 弹指等形式。轻率的形容词可短自 flippant；其他同形口语、饮品名称各有历史，不混成一个动作词尾。",
+    "history": [
+      [
+        "较早 fillip、filippen 等弹指形式 → flip",
+        "轻弹、快速翻转的动作"
+      ],
+      [
+        "翻转的扩展",
+        "翻页、翻面；改变态度；flip out 情绪失控等"
+      ]
+    ],
+    "explanation": "flip a coin 抛硬币，flip a pancake 翻煎饼，flip through a book 快速翻书，flip a switch 拨开关，flip out 突然很生气、激动或失控〔口语〕。",
+    "usage": "flip a coin；flip through；flip a switch；flip out。",
+    "contrast": "flip 常带快、一下转过去的感觉，turn 更一般。Don’t be flip. 可说别轻率无礼，不是在要求停止翻东西。",
+    "examples": [
+      [
+        "She flipped the pancake with a spatula.",
+        "她用锅铲把煎饼翻了个面。"
+      ],
+      [
+        "He flipped through the book before buying it.",
+        "买书前，他快速翻看了一下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flip#English"
+    ]
+  },
+  {
+    "word": "flipper",
+    "ipa": "英 /ˈflɪpə/；美 /ˈflɪpər/",
+    "meaning": "鳍状肢；游泳脚蹼；弹球机挡板等",
+    "sense": "宽而扁的肢体在水里划动，叫 flipper；戴在脚上帮助游泳的脚蹼，也借类似形状、动作命名。弹球机里拨球的板同样取拨动功能。",
+    "split": "flip + -er，双写 p。-er 在这里能命名动物结构、器具，不局限于做动作的人。",
+    "history": [
+      [
+        "较早 fillip、filippen 等弹指形式 → flip",
+        "轻弹、快速翻转的动作"
+      ],
+      [
+        "flip + -er → flipper",
+        "拨动、划动的结构、器具；鳍状肢等固定名称"
+      ]
+    ],
+    "explanation": "a seal’s flippers 海豹的鳍状肢，swimming flippers 游泳脚蹼，pinball flippers 弹球机挡板。",
+    "usage": "a seal’s flippers；swimming flippers。",
+    "contrast": "鱼鳍通常说 fin；海豹、鲸等的相应鳍状肢常说 flipper。名称描述外形、用途，不表示这些动物属于鱼。",
+    "examples": [
+      [
+        "The seal pushed through the water with its flippers.",
+        "海豹用鳍状肢划水前进。"
+      ],
+      [
+        "She packed her mask and flippers for the swim.",
+        "她装好了游泳要用的面镜和脚蹼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flipper#English"
+    ]
+  },
+  {
+    "word": "backflip",
+    "ipa": "/ˈbækflɪp/",
+    "meaning": "后空翻；彻底改变态度、方针〔比喻〕",
+    "sense": "身体向后翻转一圈，是 backflip；原本的政策、立场突然翻过去，也能用它作比喻。",
+    "split": "back 向后 + flip 翻转，按方向形成动作名词，也可作动词。比喻强调明显反转。",
+    "history": [
+      [
+        "较早 fillip、filippen 等弹指形式 → flip",
+        "轻弹、快速翻转的动作"
+      ],
+      [
+        "翻转的扩展",
+        "翻页、翻面；改变态度；flip out 情绪失控等"
+      ],
+      [
+        "back + flip → backflip",
+        "向后翻转；态度、方针的反转"
+      ]
+    ],
+    "explanation": "do a backflip 做后空翻，a policy backflip 方针大转弯〔常见新闻用法〕。",
+    "usage": "do a backflip；a policy backflip。",
+    "contrast": "backflip 的反转比普通小调整强；它命名动作，不是动作技巧说明。",
+    "examples": [
+      [
+        "The gymnast finished the routine with a backflip.",
+        "体操选手以后空翻结束整套动作。"
+      ],
+      [
+        "The sudden backflip in the plan surprised the team.",
+        "计划突然大转弯，让团队吃惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backflip#English"
+    ]
+  },
+  {
+    "word": "intimate",
+    "ipa": "形容词、名词 /ˈɪntɪmət/；动词 /ˈɪntɪmeɪt/",
+    "meaning": "亲密、私人的；深入熟悉的；密友；透露、暗示",
+    "sense": "外人看不到的内层，被亲近的人知道、共享，所以 intimate 可说亲密关系、私人细节、深入了解。动词则是把某事让对方知道，常带含蓄透露。",
+    "split": "联系拉丁 intimus 最里面，再经 intimāre、intimātus 等相关形式进入英语。形容词亲密与动词使知道各自发展；动词也有从 intimation 逆构的分析。",
+    "history": [
+      [
+        "拉丁 intimus",
+        "最里面、最深处，来自在内的最高级形式"
+      ],
+      [
+        "intimāre、intimātus → intimate",
+        "使知道、让深入了解；亲近、私人的性质；动词透露、暗示"
+      ]
+    ],
+    "explanation": "an intimate friend 密友，intimate details 私人细节，intimate knowledge 深入了解，an intimate concert 亲近感强的小型音乐会，intimate that ... 含蓄透露……。",
+    "usage": "an intimate friend；intimate details；intimate that。",
+    "contrast": "intimate 不只涉及性关系，也能说友情、私人空间、详细知识。形容词尾 /ət/，动词尾 /eɪt/。",
+    "examples": [
+      [
+        "She has an intimate knowledge of the old city.",
+        "她对老城区非常熟悉。"
+      ],
+      [
+        "He intimated that he might leave the company.",
+        "他含蓄透露自己可能离开公司。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intimate#English",
+      "https://www.etymonline.com/word/intimate"
+    ]
+  },
+  {
+    "word": "intimacy",
+    "ipa": "/ˈɪntɪməsi/",
+    "meaning": "亲密、亲近感；亲密关系、私密程度",
+    "sense": "能放心让对方进入自己内心、共享私人经验，是 intimacy。空间很小、声音靠近，也能营造亲近感。",
+    "split": "intimate 的形容词词干 + -acy／-cy 抽象名词形式，-ate 的结尾变为 -acy。承接亲密、深入接近的性质。",
+    "history": [
+      [
+        "拉丁 intimus",
+        "最里面、最深处，来自在内的最高级形式"
+      ],
+      [
+        "intimāre、intimātus → intimate",
+        "使知道、让深入了解；亲近、私人的性质；动词透露、暗示"
+      ],
+      [
+        "intimate → intimacy",
+        "亲密、深入相识的状态、关系"
+      ]
+    ],
+    "explanation": "emotional intimacy 情感亲密，a sense of intimacy 亲近感，the intimacy of a small venue 小场地带来的近距离氛围。",
+    "usage": "emotional intimacy；a sense of intimacy。",
+    "contrast": "intimacy 可以涉及性，也可以是友情、情感信任。privacy 侧重私人边界，intimacy 侧重接近、共享的关系。",
+    "examples": [
+      [
+        "Years of honest conversation created a deep intimacy between them.",
+        "多年的坦诚交谈让他们之间形成了深厚的亲密感。"
+      ],
+      [
+        "The small room gave the concert a sense of intimacy.",
+        "小房间让音乐会多了一份亲近感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intimacy#English"
+    ]
+  },
+  {
+    "word": "intimately",
+    "ipa": "/ˈɪntɪmətli/",
+    "meaning": "亲密、私下地；深入、详尽地；紧密地",
+    "sense": "人与人亲近地交流，或对一件事从内到外很了解，都可 intimately；两个过程关系密切，也用它描述。",
+    "split": "intimate 形容词 + -ly，按 /ət/ 形容词读音接副词，不采用 /eɪt/ 的动词读法。",
+    "history": [
+      [
+        "拉丁 intimus",
+        "最里面、最深处，来自在内的最高级形式"
+      ],
+      [
+        "intimāre、intimātus → intimate",
+        "使知道、让深入了解；亲近、私人的性质；动词透露、暗示"
+      ],
+      [
+        "intimate + -ly → intimately",
+        "亲密地；深入了解地；紧密相连地"
+      ]
+    ],
+    "explanation": "intimately familiar with 非常熟悉，intimately connected 紧密相连，know someone intimately 深入了解某人。",
+    "usage": "intimately familiar with；intimately connected。",
+    "contrast": "intimately familiar with a machine 是熟悉机器，不是在说恋爱。副词的具体意义跟它修饰的关系、知识或行为走。",
+    "examples": [
+      [
+        "She is intimately familiar with every part of the system.",
+        "她对系统的每个部分都非常熟悉。"
+      ],
+      [
+        "The village’s history is intimately connected with the river.",
+        "村庄历史与这条河紧密相连。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intimately#English"
+    ]
+  },
+  {
+    "word": "withdraw",
+    "ipa": "英 /wɪðˈdrɔː/ 或 /wɪθˈdrɔː/；美 /wɪðˈdrɔː/ 或 /wɪθˈdrɔː/",
+    "meaning": "撤回、退出；取出、取款；退缩",
+    "sense": "把手从热物旁拉回，撤回一个申请，或者从账户取出钱，都像把原本放进去、伸出去的东西往回拉。",
+    "split": "中古英语 withdrawen，由 with- 向后、离开 + drawen 拉。这里 with- 不是和……一起。过去式 withdrew，过去分词 withdrawn。",
+    "history": [
+      [
+        "旧英语 with- 对抗、退回、离开等构词意义",
+        "与现代常用介词 with 一起不同"
+      ],
+      [
+        "with- + draw → withdraw",
+        "向后拉、取回 → 撤离、撤回、取款"
+      ]
+    ],
+    "explanation": "withdraw an application 撤回申请，withdraw from a race 退出比赛，withdraw money 取款，withdraw support 撤回支持，withdraw into yourself 退缩、不愿交往。",
+    "usage": "withdraw an application；withdraw from；withdraw money。",
+    "contrast": "withdraw 取款的方向是取出，deposit 存入。withdraw from 可是主动退出；withdraw a claim 则是撤回说法、要求。",
+    "examples": [
+      [
+        "She withdrew her application before the interview.",
+        "面试前她撤回了申请。"
+      ],
+      [
+        "He withdrew from the race because of an injury.",
+        "他因伤退出比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/withdraw#English"
+    ]
+  },
+  {
+    "word": "withdrawal",
+    "ipa": "英 /wɪðˈdrɔːəl/ 或 /wɪθˈdrɔːəl/；美 /wɪðˈdrɔːəl/",
+    "meaning": "撤回、撤离、退出；取款；戒断反应〔专业语境〕",
+    "sense": "把 withdraw 这一动作当成一件事来谈，是 withdrawal。银行里是取款，比赛里是退出，停止依赖物质后出现的反应也有固定专业用法。",
+    "split": "withdraw + -al，形成动作、状态名词。不同对象下形成撤离、取款等具体意义，不能一律译成提款。",
+    "history": [
+      [
+        "旧英语 with- 对抗、退回、离开等构词意义",
+        "与现代常用介词 with 一起不同"
+      ],
+      [
+        "with- + draw → withdraw",
+        "向后拉、取回 → 撤离、撤回、取款"
+      ],
+      [
+        "withdraw + -al → withdrawal",
+        "撤回、退出等行为；固定专业状态名"
+      ]
+    ],
+    "explanation": "a cash withdrawal 现金取款，withdrawal from the competition 退出比赛，withdrawal symptoms 戒断症状。词尾 -al 在这里是名词构词。",
+    "usage": "a cash withdrawal；withdrawal from；withdrawal symptoms。",
+    "contrast": "withdrawal 也可说不再交往、退缩；戒断是专业语境的固定义，不能凭任何不舒服都套这个词。",
+    "examples": [
+      [
+        "Her withdrawal from the competition surprised everyone.",
+        "她退出比赛，让大家都很意外。"
+      ],
+      [
+        "The receipt shows a cash withdrawal.",
+        "回单显示一笔现金取款。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/withdrawal#English"
+    ]
+  },
+  {
+    "word": "withdrawn",
+    "ipa": "英 /wɪðˈdrɔːn/ 或 /wɪθˈdrɔːn/；美 /wɪðˈdrɔːn/",
+    "meaning": "已撤回、退出流通的；沉默退缩、少交往的",
+    "sense": "东西被撤回，是 withdrawn；人像把自己向内收、不愿和人交流，也可以 withdrawn。后一义说表现出来的状态。",
+    "split": "withdraw 的不规则过去分词，withdraw → withdrew → withdrawn。分词再发展已撤回、少交往等形容词用法。",
+    "history": [
+      [
+        "旧英语 with- 对抗、退回、离开等构词意义",
+        "与现代常用介词 with 一起不同"
+      ],
+      [
+        "with- + draw → withdraw",
+        "向后拉、取回 → 撤离、撤回、取款"
+      ],
+      [
+        "withdraw → withdrawn",
+        "已被撤回；比喻退回内心、少交往"
+      ]
+    ],
+    "explanation": "a withdrawn application 已撤回的申请，become withdrawn 变得沉默退缩，quiet and withdrawn 安静少交往。",
+    "usage": "become withdrawn；quiet and withdrawn。",
+    "contrast": "withdrawn 不等于不友善，也不能单凭这个表现确定原因或诊断。与外界交往减少，是形象中的共同点。",
+    "examples": [
+      [
+        "After the move, he became quiet and withdrawn.",
+        "搬家后，他变得安静、少与人交往。"
+      ],
+      [
+        "The withdrawn application no longer appears on the list.",
+        "已撤回的申请不再出现在清单中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/withdrawn#English"
+    ]
+  },
+  {
+    "word": "boiler",
+    "ipa": "英 /ˈbɔɪlə/；美 /ˈbɔɪlər/",
+    "meaning": "锅炉；热水、供暖设备；煮沸容器",
+    "sense": "名字按 boil 的加热、沸腾功能命名。工业中可造蒸汽，住宅中也常说供暖、热水设备，具体用途要看系统。",
+    "split": "boil + -er，后缀按功能命名设备。现代设备名称范围扩大，不能只凭字面断言每种 boiler 都在把水煮成蒸汽。",
+    "history": [
+      [
+        "拉丁 bullīre 沸腾 → 法语 boillir → boil",
+        "沸腾、煮"
+      ],
+      [
+        "boil + -er → boiler",
+        "煮沸、供热的容器、设备；现代也用于加热、储热水设备"
+      ]
+    ],
+    "explanation": "a steam boiler 蒸汽锅炉，a gas boiler 燃气供暖锅炉，the boiler room 锅炉房。厨房设备的 boiler 也见特定组合。",
+    "usage": "a steam boiler；a gas boiler；the boiler room。",
+    "contrast": "boiler 通常比烧水壶 kettle 更偏供热、蒸汽系统等设备；但具体物件仍由搭配决定。",
+    "examples": [
+      [
+        "The boiler supplies hot water to the building.",
+        "锅炉为大楼供应热水。"
+      ],
+      [
+        "The engineer inspected the steam boiler.",
+        "工程师检查了蒸汽锅炉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boiler#English",
+      "https://www.merriam-webster.com/dictionary/boiler"
+    ]
+  },
+  {
+    "word": "fever",
+    "ipa": "英 /ˈfiːvə/；美 /ˈfiːvər/",
+    "meaning": "发热、发烧；狂热、兴奋热潮",
+    "sense": "身体温度异常升高是 fever；一群人为比赛、淘金等兴奋得像发了热，也用 fever 比喻热潮。",
+    "split": "英语古英语 fefer 等和法语 fievre 的路径共同影响中古英语，源于拉丁 febris。身体热再扩到集体兴奋、焦躁等比喻。",
+    "history": [
+      [
+        "拉丁 febris → 古英语 fefer、法语 fievre 等 → fever",
+        "发热、发烧的名称"
+      ],
+      [
+        "身体发热 → 兴奋、焦躁的比喻",
+        "gold fever、election fever 等热潮名称"
+      ]
+    ],
+    "explanation": "have a fever 发烧，a high fever 高烧，football fever 足球热，gold fever 淘金热。a fever 在日常病情叙述中很常见。",
+    "usage": "have a fever；a high fever；football fever。",
+    "contrast": "fever 是发热这一现象、状态名称，不单独说明病因；比赛热潮里的 fever 是比喻。",
+    "examples": [
+      [
+        "He stayed home because he had a fever.",
+        "他因为发烧待在家里。"
+      ],
+      [
+        "Football fever spread through the town before the final.",
+        "决赛前，足球热席卷了小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fever#English"
+    ]
+  },
+  {
+    "word": "feverish",
+    "ipa": "英 /ˈfiːvərɪʃ/；美 /ˈfiːvərɪʃ/",
+    "meaning": "发热、像发热的；亢奋、焦灼、忙乱的",
+    "sense": "身体觉得发热不适，可以 feverish；临近期限，所有人忙得发烫、兴奋焦躁，也能借用这种状态。",
+    "split": "fever + -ish，表示有发热性质、像发热的状态。比喻描述情绪、活动的强烈程度。",
+    "history": [
+      [
+        "拉丁 febris → 古英语 fefer、法语 fievre 等 → fever",
+        "发热、发烧的名称"
+      ],
+      [
+        "身体发热 → 兴奋、焦躁的比喻",
+        "gold fever、election fever 等热潮名称"
+      ],
+      [
+        "fever + -ish → feverish",
+        "发热、像发热；活动情绪强烈而不安定"
+      ]
+    ],
+    "explanation": "feel feverish 觉得发热，feverish excitement 狂热兴奋，feverish activity 紧张忙乱的活动。副词 feverishly 可说紧张、拼命地。",
+    "usage": "feel feverish；feverish excitement；feverish activity。",
+    "contrast": "feverish activity 不表示每个人都测出发烧；feel feverish 也只是描述感受，词本身不交代体温、病因。",
+    "examples": [
+      [
+        "She felt tired and feverish that evening.",
+        "那天晚上，她感到疲惫、发热。"
+      ],
+      [
+        "The workshop was full of feverish activity before the opening.",
+        "开幕前，工场里一派紧张忙碌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/feverish#English",
+      "https://www.merriam-webster.com/dictionary/feverish"
+    ]
+  },
+  {
+    "word": "fevered",
+    "ipa": "英 /ˈfiːvəd/；美 /ˈfiːvərd/",
+    "meaning": "发热的；狂热、焦灼、过度激动的",
+    "sense": "fevered 可以写发热的身体；更常见的文学表达如 fevered imagination，描写想象、讨论像被高热催动，异常激烈。",
+    "split": "fever + -ed，表示受发热影响、处于热烈状态。由分词、状态形容词延伸到情绪和思维。",
+    "history": [
+      [
+        "拉丁 febris → 古英语 fefer、法语 fievre 等 → fever",
+        "发热、发烧的名称"
+      ],
+      [
+        "身体发热 → 兴奋、焦躁的比喻",
+        "gold fever、election fever 等热潮名称"
+      ],
+      [
+        "fever + -ed → fevered",
+        "受发热影响；情绪、思想高度激动"
+      ]
+    ],
+    "explanation": "a fevered imagination 狂热、焦灼的想象，fevered speculation 狂热猜测，a fevered brow 发热的额头〔文学〕。",
+    "usage": "a fevered imagination；fevered speculation。",
+    "contrast": "fevered、feverish 互有重叠，fevered imagination 等常偏文学化；heated discussion 也可说激烈讨论，不一定同样焦灼。",
+    "examples": [
+      [
+        "The rumor prompted fevered speculation.",
+        "传闻引发了狂热猜测。"
+      ],
+      [
+        "The story emerged from his fevered imagination.",
+        "故事出自他狂热的想象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fevered#English"
+    ]
+  }
+]

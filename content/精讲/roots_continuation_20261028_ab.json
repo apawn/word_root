@@ -1,0 +1,305 @@
+[
+  {
+    "id": "B2882",
+    "meaning": "守住；留住；维持某状态",
+    "core": "KEEP：不让东西、关系或动作中断、丢失",
+    "image": "收据留着，承诺守着，工作接着做；每次先问 keep 在维持什么。",
+    "intro": "keep 接古英语 cēpan，早有观察、看护等义。现代 keep → kept，名词、动词各有固定搭配，不把所有义都换成单一“保存”。",
+    "forms": "keep 本身先学动词结构，再看 keeper 的人和口语保留物，keepsake 的纪念意义；barkeep 来自 barkeeper 的缩短，upkeep 为既有共享讲解。\n\nkeep → kept → kept，元音由 /iː/ 变 /e/；kept 承接旧的带过去词尾形式。\n\nkeep 接古英语看顾、守护等材料；keeping 的固定表达 in keeping with 说与某种风格、原则相合。\n\nkeep 接古英语 cēpan 看顾、守护等，keeps 后可接保留的对象或继续做的动作。",
+    "branches": [
+      [
+        "基本动作与看守者",
+        "keep · keeper"
+      ],
+      [
+        "纪念、职业与维护",
+        "keepsake · barkeep · upkeep"
+      ],
+      [
+        "keep 与 kept：留住、守住、一直做",
+        "keep · kept"
+      ],
+      [
+        "keeping：保管、保持与相称",
+        "keep · keeping"
+      ],
+      [
+        "keep → keeps：保持、保留与继续",
+        "keep · keeps"
+      ]
+    ],
+    "contrasts": "keep doing 持续做，keep from doing 阻止做。keeper 保管不一定拥有；barkeep 的 bar 是酒吧，不是 bark。",
+    "practice": "Keep this letter as a keepsake, and keep in touch.\n\n把这封信留作纪念，也要保持联系。",
+    "words": [
+      "keep",
+      "keeper",
+      "keepsake",
+      "barkeep",
+      "upkeep",
+      "kept",
+      "keeping",
+      "keeps"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3962",
+    "meaning": "成组协作；团队",
+    "core": "TEAM：几股力朝同一件事使劲",
+    "image": "旧时成组牲畜共同拉车，现代一队人共同完成任务。",
+    "intro": "team 接古英语 tēam，早期有后代、群、成组挽畜等用法。现代团队义不限定体育；teamster 仍保留挽畜运输职业的历史。",
+    "forms": "team 先讲群体和 team up；teammate 是同队伙伴，teamwork 是协作；teamster 则单列运输职业，不能当普通成员后缀词。\n\nteam 继承古英语团队、成组挽畜等材料；现代 teams 可作队伍复数，也可用于 teams up 等动词。\n\nteam 加 mate，两个 m 在拼写保留，再加复数 s；mate 在这里是伙伴义。",
+    "branches": [
+      [
+        "队伍、成员与协作",
+        "team · teammate · teamwork"
+      ],
+      [
+        "历史职业分支",
+        "teamster"
+      ],
+      [
+        "team → teams：队伍；合作与搭配",
+        "team · teams"
+      ],
+      [
+        "team → teammate → teammates：同队伙伴",
+        "team · teammate · teammates"
+      ]
+    ],
+    "contrasts": "team 强调共同任务，group 更泛；teammate 不是 teamster，后者在美国及历史运输背景里有具体职业义。",
+    "practice": "Good teamwork helps every teammate contribute to the team.\n\n良好的协作让每位队友都能为团队出力。",
+    "words": [
+      "team",
+      "teammate",
+      "teamwork",
+      "teamster",
+      "teams",
+      "teammates"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2746",
+    "meaning": "交谈；把话说出来",
+    "core": "TALK：围绕内容开口交流",
+    "image": "说了什么是内容，talk 先让你看到开口谈、你来我往的活动。",
+    "intro": "talk 接中古英语 talken、talkien，更早与讲述词族相关。标准读音通常不单独发 l；不同地区元音有差别。",
+    "forms": "talk → talking → talker 放一起，随后 talkative 说人话多，talky 常说电影对白多；crosstalk 为共享讲解。\n\ntalks 的谈判义可由多方正式谈话理解。",
+    "branches": [
+      [
+        "动作、活动和说话者",
+        "talk · talking · talker"
+      ],
+      [
+        "话多的两种观察",
+        "talkative · talky · crosstalk"
+      ],
+      [
+        "talk → talks → talked：谈话、商谈与谈过",
+        "talk · talks · talked"
+      ]
+    ],
+    "contrasts": "talk 交谈、say 说内容、tell 告诉某人。talkative 不自动等于 eloquent，话多与说得精彩不是一回事。",
+    "practice": "The talkative visitor gave a short talk, then let others do the talking.\n\n那位健谈访客作了简短发言，然后把说话机会留给别人。",
+    "words": [
+      "talk",
+      "talking",
+      "talker",
+      "talkative",
+      "talky",
+      "crosstalk",
+      "talks",
+      "talked"
+    ],
+    "exclude": {
+      "self-talk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3068",
+    "meaning": "低于某参照位置、数值或程度",
+    "core": "LOW：先找参照线，再看落在下面多少",
+    "image": "矮墙是高度低，低价是数值低，低落是情绪低；别忘了每次比较的尺度。",
+    "intro": "low 的常用低义经古诺斯语 lágr 进入英语；牛叫 low 另有古英语来源。lower、below、lowly 都与低的位置或抽象尺度有关。",
+    "forms": "low → lower，再看 below、lowly；地形用 lowland，文化品位标签用 lowbrow。lowdown、lowlife 为已讲共享词，原表 lowen 的旧词先略过。\n\n常用低义接古诺尔斯语 lágr 词族，lowest 读低的最高级；牛叫动词 low 另源。\n\nlow 的低位置、低数值材料构成 lower，现代加完整过去词尾 -ed，读 /d/。降低位置、音量、数值用同一向下图景理解。",
+    "branches": [
+      [
+        "位置、变化及关系",
+        "low · lower · below · lowly"
+      ],
+      [
+        "地形、文化与固定词",
+        "lowland · lowbrow · lowdown · lowlife"
+      ],
+      [
+        "low → lower → lowest：最低处、最低数值",
+        "low · lower · lowest"
+      ],
+      [
+        "low → lower → lowered：向下放、使降低",
+        "lowered"
+      ]
+    ],
+    "contrasts": "lowly 不等于能力差；lowbrow 是带立场的品位词。lower 降低 /əʊ/，阴沉同形词另有 /aʊ/ 读音。",
+    "practice": "Low clouds hung over the lowlands as the temperature fell below zero.\n\n低云笼着低地，气温降到了零下。",
+    "words": [
+      "low",
+      "lower",
+      "below",
+      "lowly",
+      "lowland",
+      "lowbrow",
+      "lowdown",
+      "lowlife",
+      "lowest",
+      "lowered"
+    ],
+    "exclude": {
+      "low-level": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-key": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-hanging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-skilled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-functioning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lowen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3117",
+    "meaning": "满、完整、充分",
+    "core": "FULL：把容量或范围铺满",
+    "image": "杯子满了、吃饱了、解释完整了；每次先确定满的是空间、份量还是信息范围。",
+    "intro": "full 接古英语 full。fully、fullness 是性质扩展；handful 用 -ful 表一手量。原表 fuller 的缩绒工名词另接拉丁语、加工布料动词，不按满的程度列入；普通比较级 fuller 可在 full 中理解。",
+    "forms": "先 full → fully → fullness，再读 handful、fullscreen。fullback 是体育固定位置名，按运动辨义；fulsome 的历史褒贬变化单独说，不把它当 full 的华丽替代。\n\nfuller／fullest 常比较装满、描述完整或程度充分；保留原有 ll，直接加 -er／-est。",
+    "branches": [
+      [
+        "满与程度",
+        "full · fully · fullness"
+      ],
+      [
+        "容量、屏幕和角色",
+        "handful · fullscreen · fullback"
+      ],
+      [
+        "历史语气变化",
+        "fulsome"
+      ],
+      [
+        "full → fuller → fullest：饱满、完整与充分程度",
+        "full · fuller · fullest"
+      ]
+    ],
+    "contrasts": "full /fʊl/ 与 fool /fuːl/ 不同。handful 不固定五个。fulsome praise 可能是过分恭维，不保证只在称赞充分。",
+    "practice": "Only a handful of people fully understood the full explanation.\n\n只有少数人完全理解了那份完整解释。",
+    "words": [
+      "full",
+      "fully",
+      "fullness",
+      "handful",
+      "fullscreen",
+      "fullback",
+      "fulsome",
+      "fuller",
+      "fullest"
+    ],
+    "exclude": {
+      "full-on": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-time": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-looking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-mouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-grade": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-length": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-grown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-faced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-bound": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-blown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-flowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-bore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-summed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-bodied": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-fledged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-pounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-fleshed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-souled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2492",
+    "meaning": "大；强；分量重要",
+    "core": "BIG：空间或影响的分量很大",
+    "image": "大房子一眼就大，大错误则是影响很大；物理尺寸向抽象重要性延伸。",
+    "intro": "big 经北部中古英语 big、bigge 延续，更远来源仍有不确定处，不强行列出无争议的长祖先链。",
+    "forms": "先把 big 的常用搭配讲好，bigwig 看权贵假发的社会比喻，bighorn 看外形命名。bigly、biggy 等较少用或变体词本页暂不扩列。\n\nbig 的比较级、最高级都双写 g；尺寸之外，也能比重要性、程度。",
+    "branches": [
+      [
+        "基本尺寸与分量",
+        "big"
+      ],
+      [
+        "人物和动物的特征命名",
+        "bigwig · bighorn"
+      ],
+      [
+        "big → bigger → biggest：更大、最大",
+        "big · bigger · biggest"
+      ]
+    ],
+    "contrasts": "big mistake 常说重大错误；bigwig 是带口语色彩的大人物。bighorn 是固定动物名称，不等于所有有大角的动物。",
+    "practice": "Meeting a company bigwig was a big moment for the young designer.\n\n见到公司高层，对年轻设计师来说是个重要时刻。",
+    "words": [
+      "big",
+      "bigwig",
+      "bighorn",
+      "bigger",
+      "biggest"
+    ],
+    "exclude": {
+      "big-body": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "big-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "big-boob": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bigtime": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bigly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "biggy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2888",
+    "meaning": "离开；让某物留下；许可假期另源",
+    "core": "LEAVE：自己走，或让对象继续留在原处",
+    "image": "人离开火车，伞却留在火车上；同一个动词从不同参与者看，有离开和留下两面。",
+    "intro": "主要动词 leave 接古英语 lǣfan；假期、许可名词 leave 接另一个古英语词 lēaf。原表 believe 所接的是准许、相信的旧词族，不是现代离开的 leave，放到 believe 自身词族处理。",
+    "forms": "先用 leave、left 和几个常见结构讲清方向，再看 leaver 这个人物名；假期义在基础词里单列来源，不把单词拼写一样误作单一祖先。\n\nleaves 既可为 leaf 叶子的复数，也可为 leave 的第三人称单数，二者常同音但词法不同。\n\nleave 去不发音 e 加 -ing；leaving 只讲动词线，许可、假期名词 leave 另源。",
+    "branches": [
+      [
+        "离开、留下及离开者",
+        "leave · leaver"
+      ],
+      [
+        "leave → leaves：单数主语的离开、留下",
+        "leave · leaves"
+      ],
+      [
+        "leave → leaving：离开；留下",
+        "leave · leaving"
+      ]
+    ],
+    "contrasts": "leave Paris 离开巴黎，leave for Paris 动身去巴黎；on leave 在休假。believe 不能讲成 be + 现代离开的 leave。",
+    "practice": "The school leaver left her notebook at home before leaving for the interview.\n\n那位离校生出发去面试前，把笔记本落在了家里。",
+    "words": [
+      "leave",
+      "leaver",
+      "leaves",
+      "leaving"
+    ],
+    "exclude": {
+      "believe": "believe 接准许、相信的旧词族，不是现代离开义 leave 的派生；另归 believe 词族。",
+      "flexi-leave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

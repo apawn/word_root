@@ -5,7 +5,7 @@ CURRENT=[C,['古法语：curant','正在跑、流动的'],['英语：current','�
 CURRENCY=[C,['拉丁语词族：currēns / currentia','流动的；流通状态'],['英语：currency','流通 → 货币；通行程度']]
 CONCUR=[C,['拉丁语：concurrere','一起跑；相遇；一致'],['英语：concur','意见一致；同时发生']]
 CONCURRENT=[C,['拉丁语：concurrere → concurrēns','一起发生；同时进行的'],['古法语：concurrent','同时发生的'],['英语：concurrent','同时存在、进行的']]
-OCCUR=[C,['拉丁语：occurrere','迎面跑来；呈现；发生'],['法语：occurrer','出现；遇到'],['英语：occur','发生；出现在头脑中']]
+OCCUR=[C,['拉丁语：occurrere','迎面跑来；呈现；发生'],['可能经法语 occurrer；也可能直接借自拉丁语','出现、遇到 → 英语的发生、呈现'],['英语：occur','发生；出现在头脑中']]
 RECUR=[C,['拉丁语：recurrere','跑回来；返回'],['英语：recur','再次出现；反复发生']]
 RECURRENT=[C,['拉丁语：recurrēns','返回的；再次出现的'],['英语：recurrent','反复出现的']]
 RECURSIVE=[C,['拉丁语：recurrere','跑回；返回'],['新拉丁语：recursīvus','回归的'],['英语：recursive','递归的；在定义中再次使用自身的']]
@@ -48,7 +48,7 @@ E('cryptocurrency','英 /ˈkrɪptəʊˌkʌrənsi/；美 /ˌkrɪptoʊˈkɜːrəns
 ('The article explains how cryptocurrency transactions are recorded.','这篇文章解释了加密货币交易如何被记录。'),('She is comparing the terminology used by different cryptocurrency projects.','她正在比较不同加密货币项目使用的术语。'),sources=['https://www.collinsdictionary.com/dictionary/english/cryptocurrency','https://en.wiktionary.org/wiki/cryptocurrency#English']),
 E('occur','英 /əˈkɜː/；美 /əˈkɜːr/','发生；出现；被想到',
 '一件事来到你的面前，或一个念头突然来到脑中。它是“发生了、出现了”，不一定有人故意安排。',
-'拉丁语 ob-（向着、迎面）在 c 前变形，与 currere“跑”形成 occurrere，经法语传入。',OCCUR,
+'拉丁语 ob-（向着、迎面）在 c 前变形，与 currere“跑”形成 occurrere，可能经法语 occurrer，也可能直接从拉丁语借入英语。',OCCUR,
 '“迎面到来”引申为事件发生。it occurred to me 是念头来到我脑中；occur to 不是“对某人发生事故”的固定直译。',
 'an error occurs；occur naturally；occur to someone；It occurred to me that…。',
 'occur 不及物，不说 was occurred。happen 更日常；occur 常用于书面报告和说明。',

@@ -1,0 +1,634 @@
+[
+  {
+    "word": "brokerage",
+    "ipa": "英 /ˈbrəʊkərɪdʒ/；美 /ˈbroʊkərɪdʒ/",
+    "meaning": "经纪业务、经纪公司；经纪佣金",
+    "sense": "broker 是替交易牵线的人；brokerage 把镜头拉到整门业务、经营这门业务的公司，或为服务付的费用。",
+    "split": "broker + -age，形成业务、机构或相关费用的名词。各义围绕经纪活动发展。",
+    "history": [
+      [
+        "盎格鲁法语 brocour → broker",
+        "交易中间人；更早来源有不同解释"
+      ],
+      [
+        "broker + -age；pawn + broker",
+        "经纪业务、公司或佣金；以财物作抵押的典当经营者"
+      ]
+    ],
+    "explanation": "a brokerage firm 经纪公司，brokerage services 经纪服务，brokerage fees 经纪费用。",
+    "usage": "a brokerage firm；brokerage fees。",
+    "contrast": "broker 多指个人、角色，也可指公司；brokerage 更常直接谈业务、机构或佣金，读搭配确定。",
+    "examples": [
+      [
+        "She joined a small brokerage firm.",
+        "她加入了一家小型经纪公司。"
+      ],
+      [
+        "The statement lists the brokerage fees separately.",
+        "账单单独列出了经纪费用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brokerage#English"
+    ]
+  },
+  {
+    "word": "pawnbroker",
+    "ipa": "英 /ˈpɔːnbrəʊkə/；美 /ˈpɔːnbroʊkər/",
+    "meaning": "典当商、当铺经营者",
+    "sense": "把手表等财物交作担保，换一笔借款，对面经营这种业务的人是 pawnbroker。pawn 在这里说典当，不是棋盘上的兵。",
+    "split": "pawn 典当、抵押 + broker 交易经营者，复合词。典当 pawn 与棋子 pawn 来源不同，前项按借贷担保的用途读。",
+    "history": [
+      [
+        "盎格鲁法语 brocour → broker",
+        "交易中间人；更早来源有不同解释"
+      ],
+      [
+        "pawn + broker → pawnbroker",
+        "以物作担保放款的典当经营者"
+      ]
+    ],
+    "explanation": "a licensed pawnbroker 有许可的典当商，take a watch to a pawnbroker 把手表拿到典当商处。",
+    "usage": "a pawnbroker’s shop；a local pawnbroker。",
+    "contrast": "pawnbroker 以财物作担保提供借款，与直接买走二手物品的商家角色不同；具体交易约定另看实际文件。",
+    "examples": [
+      [
+        "The old photograph shows a pawnbroker’s shop.",
+        "老照片里是一家当铺。"
+      ],
+      [
+        "He took the watch to a pawnbroker.",
+        "他把手表拿到了一位典当商那里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pawnbroker#English"
+    ]
+  },
+  {
+    "word": "whistle",
+    "ipa": "/ˈwɪsəl/",
+    "meaning": "吹口哨、鸣哨；哨声、哨子；呼啸",
+    "sense": "气流经过狭窄处，发出尖细声音，是 whistle。人能用嘴吹，哨子能被吹响，风穿缝也能发出类似声音。",
+    "split": "承古英语 hwistlan 等动词与 hwistle 名词，经中古英语演变；属模仿嘶、吹气声的旧词族。现代 t 通常不发音。",
+    "history": [
+      [
+        "古英语 hwistlan、hwistle → whistlen、whistel → whistle",
+        "发出尖细吹气声；哨声、哨子"
+      ],
+      [
+        "whistle 动作、声音与器具",
+        "吹哨；尖细声；发声哨子"
+      ]
+    ],
+    "explanation": "blow a whistle 吹哨子，whistle a tune 用口哨吹曲子，the wind whistles 风呼啸，a referee’s whistle 裁判哨。",
+    "usage": "blow a whistle；whistle a tune。",
+    "contrast": "whistle 既可动作、声音，也可器具；whisper 耳语以轻声说话为重点，不是同一种声音。",
+    "examples": [
+      [
+        "The referee blew the whistle.",
+        "裁判吹响了哨子。"
+      ],
+      [
+        "He whistled a tune while washing the dishes.",
+        "他洗碗时用口哨吹着曲子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whistle#English"
+    ]
+  },
+  {
+    "word": "whistling",
+    "ipa": "/ˈwɪsəlɪŋ/",
+    "meaning": "吹哨、吹口哨；尖细的呼啸声；whistle 的现在分词",
+    "sense": "把 whistle 的发声过程拉长，就是 whistling；可以听到人的口哨，也可以听到窗缝里的风声。",
+    "split": "whistle 去末尾 e + -ing；承旧英语相应活动名词，也作现代分词。t 仍通常不发音。",
+    "history": [
+      [
+        "古英语 hwistlan、hwistle → whistlen、whistel → whistle",
+        "发出尖细吹气声；哨声、哨子"
+      ],
+      [
+        "whistle + -ing → whistling",
+        "发哨声的过程及所发声音"
+      ]
+    ],
+    "explanation": "a whistling sound 尖细哨声，hear whistling 听见口哨声，whistling wind 呼啸的风。",
+    "usage": "a whistling sound；hear someone whistling。",
+    "contrast": "whistling 可以自然声音，不要求每次都有一个人在吹哨子。",
+    "examples": [
+      [
+        "We heard whistling from the kitchen.",
+        "我们听见厨房传来口哨声。"
+      ],
+      [
+        "A whistling sound came through the gap in the window.",
+        "窗缝里传来尖细的风声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whistling#English"
+    ]
+  },
+  {
+    "word": "whistler",
+    "ipa": "英 /ˈwɪslə/；美 /ˈwɪslər/",
+    "meaning": "吹口哨者、吹哨者；因鸣声得名的鸟等",
+    "sense": "谁发出 whistle，谁就可能是 whistler；一些鸟叫得像哨声，也拿这个特点来命名。",
+    "split": "whistle 去末尾 e + -er，古英语已有相关人物词 hwistlere。现代人物、动物等按发声特点命名。",
+    "history": [
+      [
+        "古英语 hwistlan、hwistle → whistlen、whistel → whistle",
+        "发出尖细吹气声；哨声、哨子"
+      ],
+      [
+        "whistle + -er → whistler",
+        "发出哨声的人或动物"
+      ]
+    ],
+    "explanation": "a talented whistler 擅吹口哨的人，a bird called a whistler 名叫 whistler 的鸟。",
+    "usage": "a skilled whistler；a cheerful whistler。",
+    "contrast": "whistler 本身不是揭发者的完整名称；揭发者常用 whistleblower，把发出警示动作也带上。",
+    "examples": [
+      [
+        "He is an excellent whistler who can copy almost any tune.",
+        "他口哨吹得很好，几乎什么曲子都能模仿。"
+      ],
+      [
+        "The guide pointed out a bird known as a whistler.",
+        "向导指给我们看一种因哨音得名的鸟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whistler#English"
+    ]
+  },
+  {
+    "word": "whistleblower",
+    "ipa": "英 /ˈwɪsəlbləʊə/；美 /ˈwɪsəlbloʊər/",
+    "meaning": "揭发者、举报不当行为者；吹哨人",
+    "sense": "看见不对劲，吹哨提醒别人注意：whistleblower 把这个警示画面移到揭露组织不当行为的人身上。",
+    "split": "whistle 哨子 + blower 吹的人；由 blow the whistle 发出警示的比喻形成。也常写 whistle-blower，这里统一用连写词。",
+    "history": [
+      [
+        "古英语 hwistlan、hwistle → whistlen、whistel → whistle",
+        "发出尖细吹气声；哨声、哨子"
+      ],
+      [
+        "whistle + blower → whistleblower",
+        "吹响警报 → 揭发不当行为的人"
+      ]
+    ],
+    "explanation": "a whistleblower’s report 揭发者报告，a whistleblower inside an organisation 组织内部揭发者。",
+    "usage": "a whistleblower report；an employee whistleblower。",
+    "contrast": "whistleblower 描述揭发行为角色；各地法律上的正式身份、保护条件是另一个层面，不能只凭词汇名就断定。",
+    "examples": [
+      [
+        "A whistleblower reported the falsified records.",
+        "一位揭发者报告了伪造记录的情况。"
+      ],
+      [
+        "The journalist interviewed the whistleblower.",
+        "记者采访了那位揭发者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whistleblower#English",
+      "https://www.etymonline.com/word/whistleblower"
+    ]
+  },
+  {
+    "word": "whistleblowing",
+    "ipa": "英 /ˈwɪsəlbləʊɪŋ/；美 /ˈwɪsəlbloʊɪŋ/",
+    "meaning": "揭发不当行为、举报；吹哨行为",
+    "sense": "whistleblower 说人，whistleblowing 说把组织里不当做法揭出来这一行为。画面仍是发现问题后发出哨声警示。",
+    "split": "whistle + blowing，后项来自 blow + -ing；与 blow the whistle 的比喻相连。也常见带连字符写法 whistle-blowing。",
+    "history": [
+      [
+        "古英语 hwistlan、hwistle → whistlen、whistel → whistle",
+        "发出尖细吹气声；哨声、哨子"
+      ],
+      [
+        "whistle + blowing → whistleblowing",
+        "吹哨警示 → 揭发不当行为的活动"
+      ]
+    ],
+    "explanation": "a whistleblowing policy 举报政策，whistleblowing procedures 举报程序，a case of whistleblowing 揭发事件。",
+    "usage": "whistleblowing procedures；a whistleblowing policy。",
+    "contrast": "whistleblowing 不等于所有公开分享信息；常以揭发不当行为为核心。具体程序、法律条件随场景另定。",
+    "examples": [
+      [
+        "The organisation published its whistleblowing policy.",
+        "组织公布了举报政策。"
+      ],
+      [
+        "The article discusses the role of whistleblowing in exposing fraud.",
+        "文章讨论了举报在揭露欺诈中的作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whistleblowing#English"
+    ]
+  },
+  {
+    "word": "bacteriological",
+    "ipa": "英 /bækˌtɪəriəˈlɒdʒɪkəl/；美 /bækˌtɪriəˈlɑːdʒɪkəl/",
+    "meaning": "细菌学的、细菌检验相关的",
+    "sense": "bacterio- 指细菌，后面 -logical 把它放进研究、检验的学科语境。bacteriological examination 就是围绕细菌进行的检验。",
+    "split": "bacterio- 细菌 + -logical 与某学科有关的，和 bacteriology 细菌学配套；不是普通 logical 合逻辑随意接在细菌后。",
+    "history": [
+      [
+        "希腊 logos 论述、研究 → -logia → -logical",
+        "相关学科、理论的性质形容词形式"
+      ],
+      [
+        "bacterio- + -logical → bacteriological",
+        "细菌学相关的；与 bacteriology 配套"
+      ]
+    ],
+    "explanation": "bacteriological examination 细菌学检验，bacteriological analysis 细菌学分析。",
+    "usage": "bacteriological analysis；bacteriological research。",
+    "contrast": "biological 生物的范围广；bacteriological 特别落到细菌学，不包含所有微生物的每种研究。",
+    "examples": [
+      [
+        "The laboratory performed a bacteriological analysis of the sample.",
+        "实验室对样品进行了细菌学分析。"
+      ],
+      [
+        "The course introduces basic bacteriological methods.",
+        "课程介绍基础细菌学方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bacteriological#English"
+    ]
+  },
+  {
+    "word": "tease",
+    "ipa": "/tiːz/",
+    "meaning": "逗弄、取笑、招惹；梳理、挑开纤维；吊胃口",
+    "sense": "原来把纠在一起的纤维一点点挑开；后来可以反复逗一个人、惹他反应。tease out a detail 还保留细细挑出信息的画面。",
+    "split": "承古英语 taesan，经中古英语 tesen 到 tease。纤维的拉扯、分开义发展到招惹、逗弄等；广告、叙事又借吊起兴趣。",
+    "history": [
+      [
+        "古英语 taesan → 中古英语 tesen → tease",
+        "拉扯、梳理纤维，使纤维分开"
+      ],
+      [
+        "反复拉扯、搅动 → 逗弄、招惹、吊胃口",
+        "teasing 活动或性质；teaser 执行者、引人兴趣的片段"
+      ]
+    ],
+    "explanation": "tease someone about something 拿某事逗某人，tease out the details 慢慢理出细节，tease the hair 倒梳头发。",
+    "usage": "tease someone about；tease out。",
+    "contrast": "tease 可以亲昵玩笑，也可以伤人取笑；对方反应、关系、内容决定语气，不能一律翻成友好打趣。",
+    "examples": [
+      [
+        "They teased him about his enormous hat.",
+        "他们拿他那顶大得夸张的帽子打趣。"
+      ],
+      [
+        "The interviewer teased out details that had been overlooked.",
+        "采访者一点点问出了被忽略的细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tease#English"
+    ]
+  },
+  {
+    "word": "teasing",
+    "ipa": "/ˈtiːzɪŋ/",
+    "meaning": "逗弄、取笑；调侃的、吊胃口的",
+    "sense": "一边逗，一边看对方反应，是 teasing。a teasing smile 常有调皮意味，hurtful teasing 则已经让人受伤。",
+    "split": "tease 去 e + -ing，形成活动名词、分词及相关形容词；承梳理、逗弄等动词义。",
+    "history": [
+      [
+        "古英语 taesan → 中古英语 tesen → tease",
+        "拉扯、梳理纤维，使纤维分开"
+      ],
+      [
+        "tease + -ing → teasing",
+        "逗弄活动；带逗弄、引诱特点的"
+      ]
+    ],
+    "explanation": "gentle teasing 温和打趣，a teasing smile 调皮笑容，constant teasing 不断取笑。",
+    "usage": "a teasing tone；hurtful teasing。",
+    "contrast": "teasing 的友好程度不由 -ing 保证；gentle、cruel、hurtful 等限定语会改变性质。",
+    "examples": [
+      [
+        "Her teasing tone made him laugh.",
+        "她调侃的语气把他逗笑了。"
+      ],
+      [
+        "The constant teasing made the new pupil uncomfortable.",
+        "不断被取笑，让新来的学生很不舒服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teasing#English"
+    ]
+  },
+  {
+    "word": "teaser",
+    "ipa": "英 /ˈtiːzə/；美 /ˈtiːzər/",
+    "meaning": "逗弄者；预告片、先导片段；难题",
+    "sense": "不给全部答案，先露一点让你想继续看，是宣传 teaser 的吊胃口。brain teaser 则拿一道难题来逗你的脑子。",
+    "split": "tease 去 e + -er，可指逗弄的人、起吊胃口作用的东西；宣传片段、难题等义按作用扩展。",
+    "history": [
+      [
+        "古英语 taesan → 中古英语 tesen → tease",
+        "拉扯、梳理纤维，使纤维分开"
+      ],
+      [
+        "tease + -er → teaser",
+        "逗弄者；勾起兴趣、挑战思考的东西"
+      ]
+    ],
+    "explanation": "a teaser trailer 先导预告片，a brain teaser 脑筋急转弯、智力题，release a teaser 发布预告片段。",
+    "usage": "a teaser trailer；a brain teaser。",
+    "contrast": "teaser 通常比完整展示更短、更留悬念；与 trailer 的实际长短、分类会有重叠，不能定死一个时长。",
+    "examples": [
+      [
+        "The studio released a short teaser for the film.",
+        "制片方发布了一段电影先导预告。"
+      ],
+      [
+        "The puzzle book is full of clever brain teasers.",
+        "谜题书里满是巧妙的智力题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teaser#English"
+    ]
+  },
+  {
+    "word": "lawfulness",
+    "ipa": "英 /ˈlɔːfəlnəs/；美 /ˈlɔːfəlnəs/",
+    "meaning": "合法性、守法；按规律运行的性质",
+    "sense": "lawful 是合乎法律，lawfulness 把这件事变成可讨论的性质。examine the lawfulness of an action 是考察行为是否合乎适用法律。",
+    "split": "lawful + -ness，中古英语已有相应形式；-ful 形成性质，-ness 再名词化。",
+    "history": [
+      [
+        "law + -ful → lawful",
+        "符合法律的"
+      ],
+      [
+        "lawful + -ness → lawfulness",
+        "符合法律这一性质；也可有按规律运行的抽象义"
+      ]
+    ],
+    "explanation": "the lawfulness of a decision 决定的合法性，question the lawfulness 质疑合法性。",
+    "usage": "assess the lawfulness of；the lawfulness of an action。",
+    "contrast": "lawfulness 与 fairness 公平关注不同方面；评价一项行为时，两个问题可以分别讨论。",
+    "examples": [
+      [
+        "The court examined the lawfulness of the decision.",
+        "法院审查了这一决定的合法性。"
+      ],
+      [
+        "The report distinguishes lawfulness from public approval.",
+        "报告区分了合法性与公众赞同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawfulness#English"
+    ]
+  },
+  {
+    "word": "mist",
+    "ipa": "/mɪst/",
+    "meaning": "薄雾、水雾；使蒙雾、喷细雾；眼睛蒙上泪水",
+    "sense": "很多细小水滴悬着，景物隔了一层轻纱，是 mist；玻璃上凝一层细滴、眼里蒙泪，也让视线这样模糊。",
+    "split": "名词承古英语 mist 雾、暗、视线模糊，动词承 mistian 等。细雾、模糊视线的联系延续到现代，动词还可说喷细水雾。",
+    "history": [
+      [
+        "古英语 mist、mistian → 中古英语 mist、misten",
+        "细雾、模糊；起雾"
+      ],
+      [
+        "mist 细雾、蒙雾 → 具体喷雾与眼泪比喻",
+        "使表面、视线蒙上一层"
+      ]
+    ],
+    "explanation": "morning mist 晨雾，mist the plants 给植物喷雾，the windows misted up 窗户蒙雾，eyes misted with tears 眼里蒙泪。",
+    "usage": "morning mist；mist up；mist the leaves。",
+    "contrast": "mist 通常比 fog 显得轻薄；haze 朦胧还可能由烟尘等造成，不能只按单个中文雾字覆盖。",
+    "examples": [
+      [
+        "Mist hung over the river.",
+        "河面上笼着薄雾。"
+      ],
+      [
+        "The windows misted up as the room filled with people.",
+        "房里挤满人后，窗户蒙上了雾气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mist#English"
+    ]
+  },
+  {
+    "word": "misty",
+    "ipa": "/ˈmɪsti/",
+    "meaning": "有雾的、雾蒙蒙的；模糊的；眼含泪水的",
+    "sense": "mist 是一层薄雾，misty 描写被它笼住的景色。记忆模糊、眼里有泪，也借隔一层薄雾的感觉。",
+    "split": "mist + -y，承古英语 mistig 等旧形式；有雾性质扩展到回忆、视线、情感语境。",
+    "history": [
+      [
+        "古英语 mist、mistian → 中古英语 mist、misten",
+        "细雾、模糊；起雾"
+      ],
+      [
+        "mist + -y → misty",
+        "有雾；模糊、眼里蒙泪的"
+      ]
+    ],
+    "explanation": "a misty morning 雾蒙蒙的早晨，misty memories 模糊回忆，misty eyes 泪眼。",
+    "usage": "a misty valley；misty memories。",
+    "contrast": "misty memories 常说朦胧、不清楚；不必是把全部事情完全忘了。",
+    "examples": [
+      [
+        "The hills looked blue in the misty morning.",
+        "雾蒙蒙的早晨，群山泛着蓝色。"
+      ],
+      [
+        "She had only misty memories of the journey.",
+        "她对那次旅行只剩模糊回忆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/misty#English"
+    ]
+  },
+  {
+    "word": "mister",
+    "ipa": "英 /ˈmɪstə/；美 /ˈmɪstər/",
+    "meaning": "先生；喷雾器",
+    "sense": "Mr Brown 里的 Mr 读 mister，是人的称呼；给植物喷水的 a plant mister，则真是 mist + -er：制造细雾的器具。",
+    "split": "先生义由 master 的弱读、变体发展，通常写 Mr 或 Mr.。喷雾器义另由 mist + -er 构成；两支同音同形，来源不同。",
+    "history": [
+      [
+        "古英语 mist、mistian → 中古英语 mist、misten",
+        "细雾、模糊；起雾"
+      ],
+      [
+        "另一词：master 的弱读形式 → mister",
+        "先生称呼，通常缩写 Mr"
+      ],
+      [
+        "mist + -er → mister〔器具〕",
+        "把液体喷成细雾的装置"
+      ]
+    ],
+    "explanation": "Mr Brown 布朗先生，a plant mister 植物喷雾器；Hey, mister! 直接称呼陌生男子，语气可能不够客气。",
+    "usage": "Mr Brown；a plant mister。",
+    "contrast": "标题 Mr 不能按雾 + 人理解；a mister for plants 才接喷雾动作。",
+    "examples": [
+      [
+        "“Mr” is pronounced “mister”.",
+        "“Mr”读作 mister。"
+      ],
+      [
+        "She filled the plant mister with water.",
+        "她给植物喷雾器装了水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mister#English"
+    ]
+  },
+  {
+    "word": "handyman",
+    "ipa": "/ˈhændimæn/",
+    "meaning": "杂务修理工、维修能手",
+    "sense": "门松了、架子坏了，能动手处理各种小修小补的人，就是 handyman。handy 在这里强调手巧、会修，man 命名人物。",
+    "split": "handy 动手熟练的 + man 人，复合职业、角色名。复数 handymen /ˈhændimen/；需要中性称呼也可见 handyperson。",
+    "history": [
+      [
+        "hand 手 → handy",
+        "顺手、便利；动手熟练的"
+      ],
+      [
+        "handy + man；handy + -ly",
+        "handyman 修修补补的能手、杂务工；handily 熟练、方便或轻松地"
+      ]
+    ],
+    "explanation": "hire a handyman 雇杂务修理工，a handyman service 杂务维修服务。",
+    "usage": "a local handyman；a handyman service。",
+    "contrast": "handyman 范围常在多种小维修、杂务；不表示拥有所有专业施工资质，具体能力看实际从业内容。",
+    "examples": [
+      [
+        "They hired a handyman to fix the cupboard doors.",
+        "他们雇了一位杂务修理工修柜门。"
+      ],
+      [
+        "He is a skilled handyman around the house.",
+        "他是家里修修补补的能手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handyman#English"
+    ]
+  },
+  {
+    "word": "handily",
+    "ipa": "/ˈhændɪli/",
+    "meaning": "熟练地；方便地；轻松地、明显领先地",
+    "sense": "事情处理得顺手，或比赛赢得很轻松，都能说 handily。把 handy 的省力、熟练感带到动作上。",
+    "split": "handy + -ly，y 改 i。承动手熟练、方便好用的性质，再有轻松、明显胜出的方式义。",
+    "history": [
+      [
+        "hand 手 → handy",
+        "顺手、便利；动手熟练的"
+      ],
+      [
+        "handy + -ly → handily",
+        "熟练、方便；轻松明显地"
+      ]
+    ],
+    "explanation": "win handily 轻松获胜，handily placed 放得便利，handily defeat 轻松击败。",
+    "usage": "win handily；handily placed。",
+    "contrast": "handily 不必真的用手完成；win handily 评价胜出轻松、幅度明显。",
+    "examples": [
+      [
+        "The team won handily.",
+        "球队轻松获胜。"
+      ],
+      [
+        "The controls are handily placed beside the seat.",
+        "控制装置放在座位旁，操作很方便。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handily#English"
+    ]
+  },
+  {
+    "word": "lamb",
+    "ipa": "/læm/",
+    "meaning": "羊羔、小羊；羊羔肉；温顺的人；产羔",
+    "sense": "幼小绵羊是 lamb，餐桌上同一个词又指羊羔肉。as gentle as a lamb 把幼羊的温顺形象借来形容人。",
+    "split": "承古英语 lamb，经中古英语延续，属于日耳曼旧动物名。动词还可说母羊产羔；现代词末 b 不发音。",
+    "history": [
+      [
+        "古英语 lamb → 中古英语 lamb → lamb",
+        "幼羊；日耳曼旧动物名"
+      ],
+      [
+        "动物 → 肉、温顺人物；lamb + skin",
+        "羊羔肉；借温顺形象；羊羔皮"
+      ]
+    ],
+    "explanation": "a newborn lamb 新生羊羔，roast lamb 烤羊肉，as gentle as a lamb 温顺得像小羊。",
+    "usage": "a newborn lamb；roast lamb；gentle as a lamb。",
+    "contrast": "lamb 动物义可数，食物肉义通常不可数；sheep 可泛说绵羊，不限幼小年龄。",
+    "examples": [
+      [
+        "A newborn lamb stood beside the ewe.",
+        "一只新生小羊站在母羊旁。"
+      ],
+      [
+        "They served roast lamb for dinner.",
+        "他们晚餐端上了烤羊肉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lamb#English"
+    ]
+  },
+  {
+    "word": "fierceness",
+    "ipa": "英 /ˈfɪəsnəs/；美 /ˈfɪrsnəs/",
+    "meaning": "凶猛、猛烈；激烈程度",
+    "sense": "动物扑得凶，风吹得猛，竞争拼得激烈，都能谈 fierceness。共同点是一股不轻不柔、很强的力量。",
+    "split": "fierce + -ness，保留末尾 e；中古英语已有相应性质名。承凶猛、强烈等不同修饰对象。",
+    "history": [
+      [
+        "拉丁 ferus 野生、凶猛 → 法语 fiers 等 → fierce",
+        "凶猛、强烈的性质"
+      ],
+      [
+        "fierce + -ness → fierceness",
+        "凶猛、强烈、激烈这一性质或程度"
+      ]
+    ],
+    "explanation": "the fierceness of the storm 风暴的猛烈，the fierceness of competition 竞争的激烈程度。",
+    "usage": "the fierceness of the wind；the fierceness of the debate。",
+    "contrast": "fierceness 不总是残忍；竞争、决心的强烈可中性或赞许，人物伤害行为才要读具体伦理含义。",
+    "examples": [
+      [
+        "They were surprised by the fierceness of the wind.",
+        "风势之猛让他们吃惊。"
+      ],
+      [
+        "The fierceness of the competition pushed both teams to improve.",
+        "激烈竞争促使两队都进步。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fierceness#English"
+    ]
+  }
+]

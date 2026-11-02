@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "C0788",
+    "meaning": "黏液；黏质",
+    "core": "MYX：黏稠、胶样的物质",
+    "image": "把黏稠的胶样物质作为命名画面，分别进入医学和生物分类。",
+    "intro": "希腊语 myxa 表示黏液。myxedema 和 myxogastrid 保留这个构词成分；match 只有“火柴”一支可能通过法语灯芯名称联系这里，比赛、匹配的 match 来自另一条日耳曼语来源。",
+    "forms": "常见结合形式 myx-／myxo-。myxedema 也写 myxoedema。火柴义 match 的远源传承有不确定处，不能据此把所有 match 用法都解释成黏液。",
+    "branches": [
+      [
+        "黏液样病变",
+        "myxedema"
+      ],
+      [
+        "分类学命名",
+        "myxogastrid"
+      ],
+      [
+        "有条件的远源联系",
+        "match〔火柴义〕"
+      ]
+    ],
+    "contrasts": "myx- 是黏液，myo- 是肌肉；match 的比赛义、配对义不属于本词根的语义演化。",
+    "practice": "看到 myx- 先想到黏质；再分别判断它是病理名称、分类名称，还是需要分源处理的普通词。",
+    "words": [
+      "myxedema",
+      "myxogastrid",
+      "match"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0744",
+    "meaning": "驱赶；带领；引导行为",
+    "core": "MINA：从吆喝驱赶，到带领与表现自己",
+    "image": "想象先赶着牲畜走，再把“带着走”用于人的行动、举止和配合程度。",
+    "intro": "拉丁 minari 的威吓义在后期 minare 中发展出驱赶义，经法语 mener 带领进入几个看起来不太相像的词。amenable 是愿意被引导、接受安排；demeanor 是表现出来的举止；promenade 是带着走到悠闲散步。",
+    "forms": "这些词多经法语不同形式进入英语，不能画成 amenable 派生 demeanor 或 promenade。misdemeanor 的 mis- 是不当，后半关联旧时的行为名词；现代 demean 的贬低义要另作辨析。",
+    "branches": [
+      [
+        "愿意配合",
+        "amenable"
+      ],
+      [
+        "举止与不当行为",
+        "demeanor · misdemeanor"
+      ],
+      [
+        "悠闲行走",
+        "promenade"
+      ]
+    ],
+    "contrasts": "amenable 与 amiable 不同；demeanor 不是“贬低者”；promenade 是漫步或散步道，parade 常指列队游行。",
+    "practice": "Her calm demeanor made the discussion easier, and she was amenable to a short walk along the promenade.\n\n她沉着的神态让讨论更轻松，她也愿意沿海滨步道走一会儿。",
+    "words": [
+      "amenable",
+      "demeanor",
+      "misdemeanor",
+      "promenade"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0077",
+    "meaning": "银；银白色",
+    "core": "ARGENT：银的金属与颜色",
+    "image": "从一块银的光泽，走到纹章颜色，再走到地理名称。",
+    "intro": "拉丁 argentum 是银。英语 argent 多用于纹章，argentine 可形容银色；Argentina 的国名也保留这条命名线索。学习时把普通词、颜色词和专名分清。",
+    "forms": "法语 argent 承接拉丁 argentum；argentine 的银色义经过相应法语形容词。Argentina 作为地区和国家名称有独立的命名历史，不是从现代英语银色形容词直接派生。",
+    "branches": [
+      [
+        "金属与纹章颜色",
+        "argent"
+      ],
+      [
+        "银色及鱼类名称",
+        "argentine"
+      ],
+      [
+        "地理专名",
+        "Argentina"
+      ]
+    ],
+    "contrasts": "argent、argentine 是较少见的普通词；Argentina、Argentine 的大小写携带所指信息。银的化学符号 Ag 也来自 argentum。",
+    "practice": "The guide explained the word argent before discussing the name Argentina.\n\n讲解者先解释 argent，再讨论 Argentina 这个名字。",
+    "words": [
+      "argent",
+      "argentine",
+      "Argentina"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0277",
+    "meaning": "横跨；交叉；不同事物相交〔英语 cross-〕",
+    "core": "CROSS：横过去，或让两条线交会",
+    "image": "横杆跨过两边，侧风横过路线，信号越过自己的通道。",
+    "intro": "本页原表把 cross- 联系到希腊语 krossos；这里的英语复合词实际接英语 cross，最终联系拉丁 crux，传入古英语的细节通常涉及爱尔兰语和北欧语。不能用原表的希腊词解释这些词。",
+    "forms": "这些都是英语 cross- 的复合用法，分别表示横向、穿城、交叉、跨项目或杂交。crossfit 联系专名 CrossFit；crossbody 的穿戴义和摔跤义由各自语境决定。保留旧条目位置以便原链接继续使用。",
+    "branches": [
+      [
+        "横向构件与风向",
+        "crossbar · crossrail · crosswind"
+      ],
+      [
+        "城市与身体",
+        "crosstown · crossbody"
+      ],
+      [
+        "交错与混合",
+        "crossfire · crosstalk · crossbreed"
+      ],
+      [
+        "跨项目训练",
+        "crossfit"
+      ]
+    ],
+    "contrasts": "不要把 cross- 的每个复合词都译成十字；crosswind 是侧风，crosstalk 可以是串扰，也可以是相声。",
+    "practice": "A crosswind blew across town while we waited for the crosstown bus.\n\n我们等穿城公交车时，一阵侧风吹过城区。",
+    "words": [
+      "crossfit",
+      "crossfire",
+      "crossbar",
+      "crosstown",
+      "crosstalk",
+      "crossrail",
+      "crossbody",
+      "crosswind",
+      "crossbreed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0753",
+    "meaning": "迈纳；古代重量与货币计量",
+    "core": "MN：先称重，再计价",
+    "image": "一份称好的白银可以既是重量，也是一笔账的计量。",
+    "intro": "希腊 mnā 是古代重量和货币计量名称，经拉丁 mina 进入英语。它的更早来源联系古代近东的计量传统，不是英语常用构词词根。",
+    "forms": "英语单数 mina，复数常见 minas，也可见历史形式 minae；实际数值须结合使用地区和时代。",
+    "branches": [
+      [
+        "历史计量名称",
+        "mina"
+      ]
+    ],
+    "contrasts": "同名单位不保证跨时代、跨城市重量相同。不要仅按英文拼写推算数值。",
+    "practice": "读到 a mina of silver，先译为一迈纳白银，再查该文本采用的计量体系。",
+    "words": [
+      "mina"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0347",
+    "meaning": "露水",
+    "core": "DROS：早晨表面凝成的露珠",
+    "image": "叶面的一层小水珠，成为生物名和测量仪器名的共同线索。",
+    "intro": "希腊 drosos 表示露水。Drosophila 的属名把它与“爱好”组合；drosometer 则把它与测量组合。词根给出命名画面，各词的实际范围仍要单独记。",
+    "forms": "droso- 是结合形式；-phila 关联喜爱，-meter 是测量仪。Drosophila 是属名，drosophila 是英语普通名词用法。",
+    "branches": [
+      [
+        "生物名称",
+        "drosophila"
+      ],
+      [
+        "测量仪器",
+        "drosometer"
+      ]
+    ],
+    "contrasts": "露水 dew 与雨 rain 的形成不同；果蝇的日常名称 fruit fly 也不能逐字译回“露水爱好者”。",
+    "practice": "把两个词分别讲成一句话：drosophila 是生物名，drosometer 是测露量的仪器。",
+    "words": [
+      "drosophila",
+      "drosometer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0960",
+    "meaning": "墙；壁",
+    "core": "PARIET：围住空间的一面壁",
+    "image": "房间有墙，体腔也有围住内部空间的壁。",
+    "intro": "拉丁 paries 的词干是 pariet-，意思是墙、壁。parietal 把这幅画面带到解剖学中，形成壁层、顶骨和顶叶等固定名称。",
+    "forms": "pariet- 不是英语 parent 父母的变体。parietal 的中文译法随所修饰的结构变化，不用一个“顶”字概括全部用法。",
+    "branches": [
+      [
+        "壁与相关解剖部位",
+        "parietal"
+      ]
+    ],
+    "contrasts": "parietal bone 是顶骨，parietal lobe 是顶叶；同一个形容词不代表两个名词所指相同。",
+    "practice": "读 parietal 时先找它后面的名词，再判断该译“壁的”“顶骨的”还是“顶叶的”。",
+    "words": [
+      "parietal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1389",
+    "meaning": "收紧；束住",
+    "core": "SPHING／SPHINCT：像束口一样收紧",
+    "image": "用一圈束带收住开口，帮助理解环状肌肉的名字。",
+    "intro": "希腊 sphingein 表示收紧，sphinktēr 可表示束带或收缩肌。英语 sphincter 经拉丁语承接，成为括约肌的名称。传统上 Sphinx 也常联系“扼住”，其更远来源仍有讨论。",
+    "forms": "sphing- 与 sphinct- 联系希腊相关词形，不是英语自行替换字母。此页实际收录 sphincter，不把不同名词硬排成派生顺序。",
+    "branches": [
+      [
+        "收紧开口的肌肉",
+        "sphincter"
+      ]
+    ],
+    "contrasts": "sphincter 说明肌肉的环状收紧功能，具体位于哪里由搭配决定。",
+    "practice": "记成“能收紧的束口”，再给 sphincter 配上一个部位名。",
+    "words": [
+      "sphincter"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1270",
+    "meaning": "杆；柄；柱身",
+    "core": "SCAP：细长的支撑部分",
+    "image": "从柱子的长身，到花的长梗，再到触角最基部的一节。",
+    "intro": "希腊 skapos 与拉丁 scapus 表示杆、柄或柱身。英语 scape、scapus 用于形状相近的技术名称。和 landscape、escape 的拼写相似需要分开处理。",
+    "forms": "scape 是英语化的名词形式，scapus 保留拉丁形式，复数 scapi。相近外形帮助理解命名，不意味着所有结构都可互换名称。",
+    "branches": [
+      [
+        "较英语化的形式",
+        "scape"
+      ],
+      [
+        "保留拉丁外形",
+        "scapus"
+      ]
+    ],
+    "contrasts": "本页 scape 是杆、柄一支；landscape 的 -scape 和缩略自 escape 的 scape 不归入这一链。",
+    "practice": "遇见 scape 或 scapus，先确认是在讲植物、昆虫还是建筑。",
+    "words": [
+      "scape",
+      "scapus"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0482",
+    "meaning": "光滑；无毛",
+    "core": "GLABR：表面没有毛，或逐渐褪去毛",
+    "image": "看叶片上的细毛，再观察它随成熟变得光滑。",
+    "intro": "拉丁 glaber 表示光滑、无毛。glabrous 描述状态，glabrate、glabrescent 可描述趋向这种状态；glabella 则成为眉间和某些动物结构的名称。",
+    "forms": "glabr- 是 glaber 的词干。glabella 经 glabellus 一类相关形式命名，glabellar 再由部位名构成。glabrate、glabrescent 分别联系拉丁不同动词形式，不是把 glabrous 的词尾随意换掉。",
+    "branches": [
+      [
+        "表面状态与变化",
+        "glabrous · glabrate · glabrescent"
+      ],
+      [
+        "部位及其形容词",
+        "glabella · glabellar"
+      ]
+    ],
+    "contrasts": "无毛不等于发亮：glabrous 与 glossy 不同。glabellar 说部位，不能拿来代替无毛。",
+    "practice": "Young leaves may be hairy and later become glabrescent.\n\n幼叶可以有毛，后来逐渐变得无毛。",
+    "words": [
+      "glabrous",
+      "glabella",
+      "glabellar",
+      "glabrate",
+      "glabrescent"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1408",
+    "meaning": "葡萄串；悬雍垂的形似名称",
+    "core": "STAPHYL：葡萄串的样子",
+    "image": "一支形容细胞聚成葡萄串，另一支用小葡萄的外形命名身体结构。",
+    "intro": "希腊 staphylē 表示葡萄串，也用于悬雍垂的形似名称。staphylococcus 取聚集形态，staphyloplasty 则取解剖部位；二者不能混成同一条医学过程。",
+    "forms": "staphylo- 是结合形式；-coccus 关联球状细菌，-plasty 表示成形修复。staphylococcus 的复数为 staphylococci。",
+    "branches": [
+      [
+        "形态命名的细菌",
+        "staphylococcus"
+      ],
+      [
+        "解剖部位的修复名称",
+        "staphyloplasty"
+      ]
+    ],
+    "contrasts": "不要见到 staphylo- 就统一译成葡萄球菌。词根同形的不同专业用法必须看后半部分。",
+    "practice": "分别指出两个词的后半：-coccus 说细菌的球形，-plasty 说成形修复。",
+    "words": [
+      "staphylococcus",
+      "staphyloplasty"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1401",
+    "meaning": "鳞片；鳞状",
+    "core": "SQUAM：像鳞片一样薄而扁",
+    "image": "从鱼鳞的扁平形状，理解组织学里的鳞状细胞。",
+    "intro": "拉丁 squama 表示鳞片，squamosus 表示有鳞或似鳞，英语 squamous 承接。现代专业名称常借“薄而扁”的外形作比。",
+    "forms": "squam- 是词干，squamous 是形容词。不要仅凭中文“鳞状”把正常组织与病理状态等同。",
+    "branches": [
+      [
+        "表面及细胞形态",
+        "squamous"
+      ]
+    ],
+    "contrasts": "squamous 描述形态，必须和 cell、epithelium 等后续名词一起理解。",
+    "practice": "用一句话解释为什么 squamous cells 不能按字面想成带鱼鳞的细胞。",
+    "words": [
+      "squamous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1430",
+    "meaning": "铺开；铺垫物；基质",
+    "core": "STOR／STROM：铺开一层底子",
+    "image": "床垫托住身体，组织基质托住结构，生物沉积也能平铺成层。",
+    "intro": "希腊 strōma 是铺垫物、床垫，联系铺开。科学命名中的 stroma、stromal、biostrome 分别用于支撑基质、相关形容词和层状生物沉积。",
+    "forms": "stroma 是名词，stromal 在英语中加 -al；biostrome 由生物与铺层的古典成分组合，不能画成英语 stromal 派生出的地质名词。",
+    "branches": [
+      [
+        "基质及其形容词",
+        "stroma · stromal"
+      ],
+      [
+        "层状生物沉积",
+        "biostrome"
+      ]
+    ],
+    "contrasts": "相同的铺垫画面被不同学科借用，不能把叶绿体基质解释成结缔组织，也不能把 biostrome 当作细胞结构。",
+    "practice": "分别给 stroma、stromal、biostrome 标出名词、形容词及所属学科。",
+    "words": [
+      "stroma",
+      "stromal",
+      "biostrome"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1055",
+    "meaning": "斜；侧向；岸边平地的历史命名",
+    "core": "PLAG：从斜向，到相关形态名称",
+    "image": "斜着的面、偏斜的主轴，与沿岸斜坡的历史名称各自发展。",
+    "intro": "希腊 plagios 表示斜的、侧向的，在 plagioclase、plagiocephaly、plagiotropic 中较透明。playa、plage 是经罗曼语传来的地形词；其更远历史存在分析差异，不把现代英语各义硬串成一条。",
+    "forms": "plagio- 是科学结合形式；-clase 关联裂开，-cephaly 关联头，-tropic 关联方向。playa 的 player 俚语另源；plage 在法语式读法和英语化读法上也有差别。",
+    "branches": [
+      [
+        "地形和新领域名称",
+        "playa · plage"
+      ],
+      [
+        "矿物的解理",
+        "plagioclase"
+      ],
+      [
+        "形态与生长方向",
+        "plagiocephaly · plagiotropic"
+      ]
+    ],
+    "contrasts": "拼写相近不保证同源：playa 的两种读音可能对应不同来源。plagio- 的斜义也不能和 plagiarism 抄袭混作一条记忆。",
+    "practice": "看到 plagio- 先问“哪里斜”：矿物裂面、头形，还是植物生长轴？",
+    "words": [
+      "playa",
+      "plage",
+      "plagioclase",
+      "plagiocephaly",
+      "plagiotropic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1194",
+    "meaning": "五",
+    "core": "QUINQUE：五个、五份、五年",
+    "image": "先数到五，再看它修饰的是点数、诗行、组成部分还是年限。",
+    "intro": "拉丁 quinque 是五。法语一路出现 cinq，留下 cinque、cinquain；古典结合形式 quinque- 则出现在 quinquepartite、quinquennial、quinquennium 中。",
+    "forms": "cinque、cinquain 经法语形式进入，不能把它们直接拆成现代英语 quinque 的缩写。quinquennial 是五年的或每五年一次的，quinquennium 是五年期。",
+    "branches": [
+      [
+        "游戏点数与诗行",
+        "cinque · cinquain"
+      ],
+      [
+        "五个组成部分",
+        "quinquepartite"
+      ],
+      [
+        "五年相关",
+        "quinquennial · quinquennium"
+      ]
+    ],
+    "contrasts": "cinquain 的五行不等于 pentameter 的五音步；行数与每行节奏是不同层次。",
+    "practice": "先写一个五行诗标题，再用 five-part 和 quinquepartite 描述同一份提纲。",
+    "words": [
+      "cinque",
+      "cinquain",
+      "quinquepartite",
+      "quinquennial",
+      "quinquennium"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1186",
+    "meaning": "仿佛；近似",
+    "core": "QUASI：像某种东西，但所指需要更精确地说明",
+    "image": "远望像一颗星，或计算时像一个粒子；“像”给出比较关系。",
+    "intro": "拉丁 quasi 表示仿佛、像。quasar 通过 quasi-stellar radio source 的缩合得名；quasiparticle 则直接把 quasi- 与 particle 组合。",
+    "forms": "quasar 是缩合名称，不宜按现代拼写拆成 quasi + 一个表示星的 -ar。quasiparticle 是现代复合词，也可见分写或连字符形式，本库保留合写词条。",
+    "branches": [
+      [
+        "外观与历史名称",
+        "quasar"
+      ],
+      [
+        "物理描述方式",
+        "quasiparticle"
+      ]
+    ],
+    "contrasts": "quasi- 不等于 fake。相似的是某些表现或处理方式，不表示两个对象在所有方面相同。",
+    "practice": "分别回答：quasar 看起来像什么？quasiparticle 在描述中像什么？",
+    "words": [
+      "quasar",
+      "quasiparticle"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0981",
+    "meaning": "使固定；使凝结",
+    "core": "PEG／PECT／PEX：让活动的东西定住",
+    "image": "液体形成胶状，或把一个结构固定位置；同一根意用于不同领域。",
+    "intro": "希腊 pēgnymi 表示使坚固、固定；相关词形有 pēktos 凝固的、pēxis 固定。pectin、pectic 进入果胶命名，hysteropexy 进入手术名称，rheopexy、rheopectic 进入流变学。",
+    "forms": "pect- 和 -pexy 来自古希腊相关词形，不是现代英语把 ct 与 x 任意互换。pectic 的历史化学命名与 pectin 互相关联，不能只看长短安排派生链。",
+    "branches": [
+      [
+        "凝胶物质及其形容词",
+        "pectin · pectic"
+      ],
+      [
+        "医学固定名称",
+        "hysteropexy"
+      ],
+      [
+        "流变凝结现象",
+        "rheopexy · rheopectic"
+      ]
+    ],
+    "contrasts": "固定术不是切除术；果胶不是明胶；震凝也不能等同于任何形式的增稠。",
+    "practice": "把 pectin、hysteropexy、rheopexy 分别放回食品材料、手术术语和流变学语境。",
+    "words": [
+      "pectin",
+      "pectic",
+      "hysteropexy",
+      "rheopexy",
+      "rheopectic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0977",
+    "meaning": "凝结；变坚固",
+    "core": "PECT：从流动到凝成胶状",
+    "image": "果汁中的某些成分帮助液体变成较稳定的胶状。",
+    "intro": "希腊 pēktos 是凝固的，联系 pēgnymi 使凝固。pectin 的果胶命名与这种特性有关；pectic 是相关形容词。此条与 peg-/pect- 总词根页有交集，保留为较窄的一支。",
+    "forms": "pectin 经法语 pectine 进入；pectic 的化学命名联系 pectique、pēktikos。它们不是 pectoral 胸部词族。",
+    "branches": [
+      [
+        "果胶物质",
+        "pectin"
+      ],
+      [
+        "相关化学形容词",
+        "pectic"
+      ]
+    ],
+    "contrasts": "pectic 不是 pectoral 的缩写，pectin 也不是 gelatin 的另一个拼法。",
+    "practice": "The recipe uses pectin, while the paper discusses pectic substances.\n\n食谱用到果胶，论文则讨论果胶物质。",
+    "words": [
+      "pectin",
+      "pectic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0428",
+    "meaning": "管；管道",
+    "core": "FISTUL：像一根管子一样连通",
+    "image": "先想细管，再理解身体部位之间管状通路的名称。",
+    "intro": "拉丁 fistula 有管、笛等义，英语医学名词 fistula 延续管状通道的画面。它不是把现代英语 fist 拳头加一个词尾组成。",
+    "forms": "英语单数 fistula，复数 fistulas 或 fistulae；以什么部位相连，通常由前面的限定词说明。",
+    "branches": [
+      [
+        "管状通路",
+        "fistula"
+      ]
+    ],
+    "contrasts": "瘘是通路，裂隙 fissure 是另一种结构描述；看到词尾相似也不能混为同源。",
+    "practice": "读到 fistula，先确定通路连接哪里，再看上下文说明其形成方式。",
+    "words": [
+      "fistula"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1468",
+    "meaning": "踝骨；距骨",
+    "core": "TAL：踝部的一块骨",
+    "image": "观察踝关节，找到连接小腿与足部的距骨。",
+    "intro": "拉丁 talus 是踝骨，英语 talus 的解剖义直接承接。地理学里同拼写的碎石堆义经法语传入，不能仅凭形象把两条来源合并。",
+    "forms": "距骨义的拉丁式复数是 tali；英语语境也须留意学科和前置修饰词。",
+    "branches": [
+      [
+        "解剖名称与分源提示",
+        "talus"
+      ]
+    ],
+    "contrasts": "talus bone 与 talus slope 的 talus 所指不同；后一用法不由骨头义派生。",
+    "practice": "分别翻译 the talus bone 和 a talus slope，并说明为什么不能共用一个中文义。",
+    "words": [
+      "talus"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1310",
+    "meaning": "围栏；隔断；围起",
+    "core": "SEPT：把空间分开或围住",
+    "image": "一块隔板划出两边，建筑名称也借用分隔空间的画面。",
+    "intro": "拉丁 saeptum 表示围栏、隔断，联系围起。transept 经新拉丁与法语承接，在教堂建筑中指横向部分。",
+    "forms": "本页 sept- 是隔断一支，与拉丁 septem 七要分开。transept 的 trans- 是横跨。",
+    "branches": [
+      [
+        "教堂横向空间",
+        "transept"
+      ]
+    ],
+    "contrasts": "不要因为见到 sept- 就一律联想到七；隔板与数词属于不同来源。",
+    "practice": "在十字形教堂平面上标出 nave 与 transept。",
+    "words": [
+      "transept"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1327",
+    "meaning": "刚毛；刺毛",
+    "core": "SET：一根根较硬的小毛",
+    "image": "在显微镜下看表面伸出的刚毛，再给整个表面加上形容词。",
+    "intro": "拉丁 seta／saeta 是刚毛。seta 命名一根结构，setose 描述具有这种结构。苔藓学还把 seta 用作蒴柄名称。",
+    "forms": "单数 seta，复数 setae；setose 承接拉丁形容词形式。这里与英语 set 设置不是一个词根。",
+    "branches": [
+      [
+        "结构名",
+        "seta"
+      ],
+      [
+        "表面特征",
+        "setose"
+      ]
+    ],
+    "contrasts": "seta 在苔藓中的蒴柄义，不能照搬成毛发；先分清生物对象。",
+    "practice": "The surface is setose because it bears many setae.\n\n这个表面具刚毛，因为它长着许多刚毛。",
+    "words": [
+      "seta",
+      "setose"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0145",
+    "meaning": "脸颊；颊侧",
+    "core": "BUCC：嘴巴旁边的脸颊",
+    "image": "以脸颊和舌头为参照，给口腔结构定方向。",
+    "intro": "拉丁 bucca 是脸颊，英语 buccal 表示颊的，buccolingual 合并颊与舌两个方向。",
+    "forms": "bucc- 加 -al 得 buccal；bucco- 与 lingual 组成专业复合词。它们是解剖定位用语，不涉及双语能力。",
+    "branches": [
+      [
+        "颊侧或颊部",
+        "buccal"
+      ],
+      [
+        "颊与舌之间的方向",
+        "buccolingual"
+      ]
+    ],
+    "contrasts": "buccal、lingual、oral 所覆盖的部位范围不同，专业翻译应连同后面的名词一起判断。",
+    "practice": "用两个箭头标出模型牙齿的 buccal surface 和 buccolingual direction。",
+    "words": [
+      "buccal",
+      "buccolingual"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1452",
+    "meaning": "沟；犁沟",
+    "core": "SULC：表面划出的一道沟",
+    "image": "把田里的犁沟当作画面，理解器官表面的凹槽名称。",
+    "intro": "拉丁 sulcus 表示沟，英语科学用语直接借入。一个词可用于不同对象，具体是脑沟还是别的沟槽，要看限定词。",
+    "forms": "单数 sulcus，复数 sulci；词干 sulc-。中文的沟与回分别对应凹陷与隆起。",
+    "branches": [
+      [
+        "沟状结构",
+        "sulcus"
+      ]
+    ],
+    "contrasts": "sulcus 与 gyrus 不互换，分别说凹进去和凸起来的部位。",
+    "practice": "在有褶皱的模型上先找到沟，再用 sulcus 命名。",
+    "words": [
+      "sulcus"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0581",
+    "meaning": "U 形；希腊字母形状的命名",
+    "core": "HYO：像字母 U 一样弯",
+    "image": "从字母的轮廓，走到骨的外形。",
+    "intro": "hyoid 联系希腊字母 upsilon 的形状及表示相似的成分。原表的 hyo- 应理解为这个历史形态名称的一部分，不宜当作所有舌部结构的词根。",
+    "forms": "hyoid 可作形容词，也可直接作舌骨的名词；-oid 是像……的。这里不从 hyoid 反推一个现代英语自由词 hyo。",
+    "branches": [
+      [
+        "形状命名的骨",
+        "hyoid"
+      ]
+    ],
+    "contrasts": "中文“舌骨”强调位置，英文 hyoid 的历史构词强调 U 形。两种语言不必逐片对应。",
+    "practice": "用 U-shaped 解释 hyoid 的命名画面，再说出它的常见中文名。",
+    "words": [
+      "hyoid"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0656",
+    "meaning": "蛋黄",
+    "core": "LECITH：从蛋黄的材料来源命名",
+    "image": "科学家研究蛋黄中的物质，名称记住了这份材料。",
+    "intro": "希腊 lekithos 表示蛋黄，法语 lécithine 据此命名，英语借作 lecithin。现代产品的来源和化学范围要看实际标签或文本。",
+    "forms": "lecith- 是蛋黄的结合词干，-in／-ine 常用于物质名称；不是所有这种词尾都能说明相同化学类别。",
+    "branches": [
+      [
+        "物质名称",
+        "lecithin"
+      ]
+    ],
+    "contrasts": "词源材料不等于现代产品的唯一原料：soy lecithin、sunflower lecithin 都应按自身搭配理解。",
+    "practice": "解释为什么 soy lecithin 中的 soy 不能因为“卵磷脂”的中文名而省略。",
+    "words": [
+      "lecithin"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0557",
+    "meaning": "多毛；粗毛",
+    "core": "HIRSUT：明显长毛，与微具毛的程度差别",
+    "image": "看一根植物茎，先看有没有毛，再看毛的密度和大小。",
+    "intro": "拉丁 hirsutus 表示多毛。hirsute 是英语常见的书面或技术形式；hirsutulous 联系小称形式，常用于程度较轻的植物毛被描述。",
+    "forms": "hirsute 借自拉丁 hirsutus；hirsutulous 在英语中由 hirsute 加带小称意味的 -ulous，表示程度较轻。",
+    "branches": [
+      [
+        "明显多毛",
+        "hirsute"
+      ],
+      [
+        "细小或稀疏的毛",
+        "hirsutulous"
+      ]
+    ],
+    "contrasts": "毛少仍不等于无毛：hirsutulous 与 glabrous 应分清。",
+    "practice": "用 hirsute、hirsutulous、glabrous 比较三种表面，注意这只是描述词，不是固定量化等级。",
+    "words": [
+      "hirsute",
+      "hirsutulous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1595",
+    "meaning": "葡萄；葡萄样的",
+    "core": "UV：葡萄的外观进入眼部结构命名",
+    "image": "先有一颗葡萄的形象，再有葡萄膜的历史名称。",
+    "intro": "拉丁 uva 表示葡萄；中古拉丁 uvea 是葡萄样的。英语 uvea 命名葡萄膜，uveitis 再用炎症词尾形成相关名称。",
+    "forms": "uvea 与 -itis 组合后拼作 uveitis。uv- 在此不是 ultraviolet 紫外线的缩写 UV。",
+    "branches": [
+      [
+        "结构",
+        "uvea"
+      ],
+      [
+        "炎症名称",
+        "uveitis"
+      ]
+    ],
+    "contrasts": "不要把葡萄膜与视网膜混同，也不要把 -itis 一律翻为感染。",
+    "practice": "分别说出 uvea 的结构义与 uveitis 额外增加的含义。",
+    "words": [
+      "uvea",
+      "uveitis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0140",
+    "meaning": "燕麦；雀麦类禾草",
+    "core": "BROM：禾草名称的一支",
+    "image": "从古希腊的燕麦名称，到拉丁分类属名，再到英语草名。",
+    "intro": "本条 brom- 联系希腊 bromos 燕麦，英语 brome 经属名 Bromus 形成。另一个表示臭味的希腊 brōmos 进入化学溴的命名，必须分开。",
+    "forms": "Bromus 是属名，brome 是普通成员名称。brome 的旧化学义与现代 bromine 要按具体文本处理。",
+    "branches": [
+      [
+        "禾草名称与同形异源",
+        "brome"
+      ]
+    ],
+    "contrasts": "希腊的短元音、长元音和不同词形可能区分来源，转成英语字母后不能只凭 brom 几个字母合并。",
+    "practice": "在 brome grass 和旧化学 brome 之间，指出哪一支属于本页的燕麦根意。",
+    "words": [
+      "brome"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0833",
+    "meaning": "九；每九个",
+    "core": "NOVEN：九个一组，或连续九天",
+    "image": "用九来编组，也用九来安排一段敬礼。",
+    "intro": "拉丁 novem 是九，novenus 表示每九个或九个一组。novena 用于连续九日的敬礼，novenary 则是更一般但少见的九数用语。",
+    "forms": "noven- 在这里来自九，不能与 nov- 新的来源混合。novena 经教会拉丁语传入。",
+    "branches": [
+      [
+        "宗教安排",
+        "novena"
+      ],
+      [
+        "九数编组",
+        "novenary"
+      ]
+    ],
+    "contrasts": "novena 的九日是专门用法，不把任意九天活动都叫 novena。",
+    "practice": "用 a group of nine 解释 novenary，再说明 novena 多出的宗教语境。",
+    "words": [
+      "novena",
+      "novenary"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0246",
+    "meaning": "和蔼；礼让；和睦",
+    "core": "COM：在分歧中保持礼貌和相互尊重",
+    "image": "两方各有立场，仍能让谈话继续下去。",
+    "intro": "本页 com- 的历史说明应联系拉丁 comis 和蔼、comitas 礼貌，不宜把 comity 机械分析为普通前缀 com- 加名词词尾。",
+    "forms": "comity 经拉丁名词和中古英语形式传入，词尾外形可与 -ity 联系，但词源应保留完整借入链。",
+    "branches": [
+      [
+        "礼让与相互尊重",
+        "comity"
+      ]
+    ],
+    "contrasts": "comity 与 committee 不是同一个词。现代国际或司法专门用法必须结合文本，不能从词根推出规则。",
+    "practice": "用 courtesy and mutual respect 解释 comity。",
+    "words": [
+      "comity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1519",
+    "meaning": "门；门状构造的命名",
+    "core": "THYR：一道门的形状或作用",
+    "image": "门能开关，也能用外形为其他结构命名。",
+    "intro": "希腊 thyra 是门；thyratron 用门的通断画面命名器件。thyroxine 则经 thyroid 甲状腺一支间接联系相关古希腊形状命名，不能画成由闸流管生成的物质。",
+    "forms": "thyratron 的 -tron 是装置命名成分；thyroxine 是甲状腺激素名称，来源链要经过 thyroid，不是 thyr- 加一个通用激素词尾就能解释完。",
+    "branches": [
+      [
+        "电子器件",
+        "thyratron"
+      ],
+      [
+        "经甲状腺名称间接联系",
+        "thyroxine"
+      ]
+    ],
+    "contrasts": "器件与人体名称共享古典命名材料，不代表具有实际功能上的联系。",
+    "practice": "分别将 thyratron 与 thyroxine 放回电路和生物化学语境。",
+    "words": [
+      "thyratron",
+      "thyroxine"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0580",
+    "meaning": "薄膜；膜状组织",
+    "core": "HYMEN：一层薄膜，在不同领域取得专门名称",
+    "image": "一支进入人体解剖，另一支进入真菌的产孢层名称。",
+    "intro": "希腊 hymēn 是薄皮、膜。hymen 是人体结构名，hymenium 是真菌的子实层；hymenophore 承载该层。几个手术名则在人体结构名后增加不同动作。",
+    "forms": "医学中 -plasty 是成形、-rrhaphy 是缝合、-tomy 是切开。真菌词族的 hymeno- 关联薄层或子实层，不能理解成由人体器官衍生的生物。",
+    "branches": [
+      [
+        "人体结构",
+        "hymen"
+      ],
+      [
+        "真菌组织与历史分类",
+        "hymenium · hymenophore · hymenomycete"
+      ],
+      [
+        "不同动作的术式名",
+        "hymenoplasty · hymenorrhaphy · hymenotomy"
+      ]
+    ],
+    "contrasts": "hymen 的传统中文名不提供性经历的可靠判断依据；hymenium 与 hymenophore 则分别是层与承载层的结构。",
+    "practice": "先把词分成人体解剖和真菌两组，再辨认三个手术词尾各自的动作。",
+    "words": [
+      "hymen",
+      "hymenium",
+      "hymenophore",
+      "hymenomycete",
+      "hymenoplasty",
+      "hymenorrhaphy",
+      "hymenotomy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1104",
+    "meaning": "紫色；紫染料",
+    "core": "PORPHYR：紫色的命名线索",
+    "image": "从紫红色石头到化学名称，颜色留下历史痕迹，但现代定义更具体。",
+    "intro": "希腊 porphyra 表示紫色及相关染料。porphyry、porphyritic 进入岩石学，porphyrin 进入化学；porphyrophobia 则直接以紫色作为恐惧对象命名。",
+    "forms": "porphyry 与 porphyritic 各有历史借入形式；porphyrin 不由现代英语岩石名直接派生。保留平行来源，避免把相同开头误排为祖先和后代。",
+    "branches": [
+      [
+        "岩石及结构",
+        "porphyry · porphyritic"
+      ],
+      [
+        "化合物名称",
+        "porphyrin"
+      ],
+      [
+        "少见恐惧名称",
+        "porphyrophobia"
+      ]
+    ],
+    "contrasts": "词源有紫色，不保证现代名词的所有对象都紫；porphyritic 的结构义尤其要按地质语境理解。",
+    "practice": "用 geology、chemistry、fear 三个语境，把本页词分别归位。",
+    "words": [
+      "porphyry",
+      "porphyritic",
+      "porphyrin",
+      "porphyrophobia"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1434",
+    "meaning": "扭转；弯曲；链状",
+    "core": "STREPT：弯曲相接的形态",
+    "image": "一串能弯的链，或一处弯曲的鼻部轮廓。",
+    "intro": "希腊 streptos、strepsis 联系转、扭曲。streptococcus 把它用于链状球菌的命名；strepsirrhine 经类群名用于灵长类成员。",
+    "forms": "strepto- 与 strepsi- 联系相关古希腊词形；两个英文名来自各自科学命名，不是细菌名再派生出了灵长动物。",
+    "branches": [
+      [
+        "链状细胞",
+        "streptococcus"
+      ],
+      [
+        "鼻部形态与分类",
+        "strepsirrhine"
+      ]
+    ],
+    "contrasts": "staphylo- 的团簇与 strepto- 的链状要分清。分类学名称还须结合现代定义。",
+    "practice": "分别用 chain 和 curved nose 说明两个名字的历史命名画面。",
+    "words": [
+      "streptococcus",
+      "strepsirrhine"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1321",
+    "meaning": "乳清；清稀液体",
+    "core": "SER：乳清的清稀画面与相关命名",
+    "image": "一支进入浆液、浆膜，另一支经奶酪外形转到冰塔。",
+    "intro": "拉丁 serum 是乳清或相关液体部分。serous、serosa、subserous 在解剖中相连；serac 经地区奶酪名借形命名冰塔，不是从现代英语浆膜词直接派生。",
+    "forms": "serosa 联系 tunica serosa 的省略名词化；subserous 的 sub- 常定位在膜下。serac 经罗曼语有自己的传承链。",
+    "branches": [
+      [
+        "液体与膜",
+        "serous · serosa · subserous"
+      ],
+      [
+        "外形转喻",
+        "serac"
+      ]
+    ],
+    "contrasts": "serous 不是 serious；serac 也不是医学 serosa 的缩写。",
+    "practice": "读到 serous fluid 想液体，读到 serosa 想组织，读到 serac 则切换到冰川。",
+    "words": [
+      "serous",
+      "serosa",
+      "subserous",
+      "serac"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1399",
+    "meaning": "吐；吐出",
+    "core": "SPU／SPUT：把东西从口中吐出",
+    "image": "区分吐出的动作与咳出来的分泌物。",
+    "intro": "拉丁 spuere 是吐，sputum 是吐出之物。英语 sputum 是医学材料名称；罕见的 exspuition 则经拉丁动作名进入英语。",
+    "forms": "spu-、sput- 联系拉丁相关词形；ex- 表示向外。现代 spit 可帮助解释动作，但不要把借词说成由现代 spit 改字母生成。",
+    "branches": [
+      [
+        "吐出的材料",
+        "sputum"
+      ],
+      [
+        "罕见动作名",
+        "exspuition"
+      ]
+    ],
+    "contrasts": "痰 sputum 与唾液 saliva 有区别；exspuition 则是动作。",
+    "practice": "用 action 和 material 分别标记 exspuition 与 sputum。",
+    "words": [
+      "sputum",
+      "exspuition"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0410",
+    "meaning": "吮吸",
+    "core": "FELL：拉丁吮吸动词的一支",
+    "image": "把词源和现代正式术语的范围分清。",
+    "intro": "拉丁 fellare 表示吮吸，动作名词 fellatio 学术借入英语后成为一种特定口部性行为名称。此页是词汇解释。",
+    "forms": "fellatio 是完整借词，不能用现代英语 fell 砍倒、fall 跌落或 fellow 同伴解释。",
+    "branches": [
+      [
+        "正式术语",
+        "fellatio"
+      ]
+    ],
+    "contrasts": "现代 fellatio 的范围比 oral sex 窄，翻译时保留所指区别。",
+    "practice": "用 broader 和 narrower 比较 oral sex 与 fellatio 的范围。",
+    "words": [
+      "fellatio"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0640",
+    "meaning": "唇；唇状结构",
+    "core": "LABI：用嘴唇定位，或借嘴唇命名外形",
+    "image": "双唇发音、花冠上下唇、爬行动物唇鳞，是三个不同领域的用法。",
+    "intro": "拉丁 labium 是唇。labial、bilabial 在语音学常见；labiate、bilabiate 描述唇形外观；infra-、sub-、supra- 则为唇周结构定位。labium 自身也是技术名词。",
+    "forms": "labium 的复数 labia；bilabial 与 bilabiate 不可互作拼写变体。前缀 bi- 二、infra- 下、sub- 下、supra- 上分别改变数量或位置。",
+    "branches": [
+      [
+        "结构与关系",
+        "labium · labial"
+      ],
+      [
+        "发音与外形",
+        "bilabial · labiate · bilabiate"
+      ],
+      [
+        "定位",
+        "infralabial · sublabial · supralabial"
+      ]
+    ],
+    "contrasts": "唇 labial、颊 buccal、舌 lingual 应分清；同样的唇形画面也不保证属于同一解剖对象。",
+    "practice": "解释 bilabial consonant 与 bilabiate flower，注意不能因中文都有双唇就互换英文词。",
+    "words": [
+      "labium",
+      "labial",
+      "bilabial",
+      "labiate",
+      "bilabiate",
+      "infralabial",
+      "sublabial",
+      "supralabial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0779",
+    "meaning": "真菌；蘑菇",
+    "core": "MYC／MYCET：真菌与真菌相关科学名称",
+    "image": "蘑菇、霉菌和酵母只是外形线索，实际类群要看现代定义。",
+    "intro": "希腊 mykēs 的相关词干形成 myco-、mycet-。mycology 是真菌学；ascomycete、basidiomycete 等是成员名称。mycoplasma 保留历史命名，却属于细菌，不可按前缀硬归真菌。",
+    "forms": "-mycete 常指真菌成员，-mycosis 常进入感染名称。zygomycete、zygomycosis 含历史分类背景，须区别旧分组和现代处理。",
+    "branches": [
+      [
+        "学科",
+        "mycology"
+      ],
+      [
+        "历史命名与现代分类的差别",
+        "mycoplasma"
+      ],
+      [
+        "真菌类群",
+        "ascomycete · basidiomycete · zygomycete"
+      ],
+      [
+        "历史疾病名称",
+        "zygomycosis"
+      ]
+    ],
+    "contrasts": "myco- 不等于 micro-，也不能保证名称所指在现代系统中仍是真菌。",
+    "practice": "说明为什么 mycology 是真菌学，而 mycoplasma 不能仅凭词头归为真菌。",
+    "words": [
+      "mycology",
+      "mycoplasma",
+      "ascomycete",
+      "basidiomycete",
+      "zygomycete",
+      "zygomycosis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C0908",
+    "meaning": "山；高地",
+    "core": "OR／ORO：山怎样形成、怎样分布、怎样命名",
+    "image": "形成山系、描画地形、描述天气和讲神话，各有自己的词尾。",
+    "intro": "希腊 oros 表示山。orogeny、orogenesis、orogenic 围绕造山；orography、orographic 围绕山地描述及影响；oread 是山地宁芙，oronym 是山名。",
+    "forms": "oro- 在这里是山，不是 oral 口的来源。-geny／-genesis 说形成，-graphy 说描述，-onym 说名称。oread 则经希腊名词和拉丁形式传入。",
+    "branches": [
+      [
+        "造山过程与属性",
+        "orogeny · orogenesis · orogenic"
+      ],
+      [
+        "山地及其影响",
+        "orography · orographic"
+      ],
+      [
+        "神话与名称",
+        "oread · oronym"
+      ]
+    ],
+    "contrasts": "orogenic 与 orographic 最容易混：前者问山怎么形成，后者看山地地形及其效果。",
+    "practice": "The orographic effect depends on the region’s orography, not on a new orogenic event.\n\n地形效应取决于当地山地地形，并不是由一次新的造山事件造成。",
+    "words": [
+      "orogeny",
+      "orogenesis",
+      "orogenic",
+      "orography",
+      "orographic",
+      "oread",
+      "oronym"
+    ],
+    "exclude": {}
+  }
+]

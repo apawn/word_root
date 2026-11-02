@@ -1,0 +1,86 @@
+"""Useful -ical families and composure, without padding with rare specialist words."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('whim','/wɪm/','一时兴起；突发的念头、心血来潮',
+ '本来没打算，忽然觉得“就这么办吧”：这样的临时念头是 whim，常没有长时间盘算。',
+ '是 whimwham 等旧词族的缩略形式，与 whimsy 同族；更早来源未定。词形短不表示一定早于 whimsy，不能把 whim 当成已经确定的古代独立词根。',
+ [['whimwham、whimsy 等旧词族','古怪点子、异想等；更早来源未定'],['较短形式 whim','一时的念头、兴致']],
+ 'on a whim 一时兴起；at someone’s whim 随某人的一时喜好；a passing whim 一时念头。',
+ 'on a whim；a passing whim。','whim 偏临时、随性，plan 是事先计划；on a whim 不保证决定一定坏，只说由一时兴致促成。',
+ ('We booked the trip on a whim.','我们一时兴起订了这趟旅行。'),('The schedule changed at the director’s whim.','日程随着主任的一时喜好而改变。'),sources=['https://www.etymonline.com/word/whimsy'])
+W('whimsy','/ˈwɪmzi/','奇思妙想；俏皮古怪的趣味',
+ '一把椅子做成会伸腿的小动物，看着古怪却有趣；这种轻巧、不拘常理的想象味道，常是 whimsy。',
+ '与 whimwham、whim 同一来源未定的词族。whimsy 早有突发奇念义，现代可泛说奇趣；不能把末尾 sy 强定成一个独立万能后缀。',
+ [['whimwham 等相关旧材料','古怪小物、奇念等词族'],['whimsy','一时异想；想象中的俏皮奇趣']],
+ 'a touch of whimsy 一点俏皮奇趣；full of whimsy 充满奇思妙想。作为艺术风格评价常可带欣赏，不只是胡闹。',
+ 'a touch of whimsy；a sense of whimsy。','whim 常指一个突发决定或念头；whimsy 常可说作品里持续的奇趣风格，不一定是单次冲动。',
+ ('The illustrations add a touch of whimsy to the book.','这些插画给书增添了一点俏皮奇趣。'),('Her stories combine everyday life with gentle whimsy.','她的故事把日常生活与温和的奇思妙想结合起来。'),sources=['https://www.etymonline.com/word/whimsy'])
+W('whimsical','/ˈwɪmzɪkəl/','异想天开的；俏皮古怪的；随心所欲的',
+ '小屋歪着帽子一样的屋顶，茶杯长着小脚：whimsical 常让人看到这种轻巧、好玩的古怪想象；说人的决定时也可指随性多变。',
+ 'whimsy 的词干 + -ical，y 的表面形式在扩展中不保留为完整 whimsyical。来自奇念、异想的词族，不是 whim + sic + al。',
+ [['whimsy','奇念、俏皮古怪的想象'],['whimsy + -ical → whimsical','有这种异想、奇趣的；也可随性多变']],
+ 'a whimsical design 俏皮古怪的设计；a whimsical story 充满异想的故事；a whimsical decision 可带随心所欲的批评。',
+ 'whimsical illustrations；a whimsical touch。','whimsical 可有可爱、轻巧的趣味，absurd 荒谬通常更直接否定合理性；同一个词也可随语境转为批评任性。',
+ ('The café is decorated with whimsical animal drawings.','咖啡馆里装饰着俏皮古怪的动物画。'),('The story takes a whimsical turn when the moon begins to speak.','月亮开始说话时，故事转向了奇思妙想。'),sources=['https://www.etymonline.com/word/whimsical'])
+W('farce','英 /fɑːs/；美 /fɑːrs/','闹剧；夸张滑稽喜剧；荒唐敷衍的事',
+ '台上人物误会套误会、忙得团团转，观众笑个不停，是一种 farce；现实里本该严肃办好的事却乱成笑话，也会被骂 a farce。',
+ '借法语 farce，早有填馅义，接拉丁 farcire 塞满。戏剧名称与插入的滑稽内容等历史相连，后来英语泛用于荒唐的假样子；不要把今天每场闹剧都讲成真的塞肉馅。',
+ [['拉丁 farcire → 法语 farce','塞入、填馅及插入内容等材料'],['戏剧 farce → 现实比喻','滑稽闹剧 → 荒唐、敷衍的事']],
+ 'a theatrical farce 滑稽闹剧；turn into a farce 变成闹剧；call the process a farce 是强烈批评过程荒唐、没有可信度。',
+ 'a complete farce；turn into a farce。','comedy 是喜剧大类，farce 尤常靠夸张情境、误会、动作制造笑料；现实批评义不表示事情真的让人愉快。',
+ ('The play is a farce built around mistaken identities.','这部戏是一出围绕身份误认展开的闹剧。'),('With nobody in charge, the meeting turned into a farce.','没人负责，会议变成了一场闹剧。'),sources=['https://www.etymonline.com/word/farce'])
+W('farcical','英 /ˈfɑːsɪkəl/；美 /ˈfɑːrsɪkəl/','闹剧般的；荒唐可笑的',
+ 'farce 是一场闹剧，farcical 说某个过程、场景简直像闹剧一样。正式活动办得一塌糊涂时，这往往是批评。',
+ 'farce 去末尾 e + -ical，形成形容词，可能仿 comical 等词；c 在这里是 /s/，不按 far + cical 乱拆。',
+ [['farce','闹剧；荒唐敷衍的事'],['farce + -ical → farcical','像闹剧的、荒唐可笑的']],
+ 'a farcical situation 荒唐情形；a farcical election 可是对选举可信度的强烈批评；a farcical scene 也可中性说明戏剧手法。',
+ 'a farcical situation；farcical scenes。','farcical 不等于 merely funny 单纯好笑；对严肃程序的评价常含荒唐、失去应有作用的否定。',
+ ('The rehearsal ended in a farcical series of mishaps.','排练以一连串闹剧般的意外告终。'),('The review criticised the film’s farcical ending.','评论批评了影片闹剧般的结尾。'))
+W('radiological','英 /ˌreɪdiəˈlɒdʒɪkəl/；美 /ˌreɪdioʊˈlɑːdʒɪkəl/','放射学的；放射性、辐射相关的',
+ '在医院可说放射学检查、影像工作；在环境、安全材料里也可说辐射有关的风险或监测，不能只锁定一个场景。',
+ 'radiology 的 -logy 对应 -logical；radio- 来自辐射、射线相关材料，-logy 表学科。这里不是广播 radio 节目 + logical 合理。',
+ [['radio- + -logy → radiology','射线、辐射相关材料 + 学科名'],['radiology／radiological','放射学／相应形容词；辐射相关']],
+ 'a radiological examination 放射学检查；radiological monitoring 辐射相关监测。词义范围比某一台 X 光设备宽。',
+ 'radiological images；radiological monitoring。','radiological 与 radiologist 放射科医生、专家不同，前者形容事物；也不能把所有 radiological 场景都解释成广播技术。',
+ ('The team reviewed the radiological images.','团队审阅了放射学影像。'),('The site requires regular radiological monitoring.','这个场地需要定期开展辐射监测。'))
+W('immunological','英 /ˌɪmjənəˈlɒdʒɪkəl/；美 /ˌɪmjənoʊˈlɑːdʒɪkəl/','免疫学的；免疫反应相关的',
+ '研究身体怎样识别、应对病原等，进入免疫学；说相关机制、实验或反应，用 immunological。',
+ 'immunology 的 -logy 对应 -logical；immune 的材料远接拉丁 immunis 免除义，历史上扩展到免疫等专门义。现代不是“不受一切影响”加学术尾巴。',
+ [['immune + 学科材料 → immunology','免疫 → 免疫学'],['immunology／immunological','学科名／相应形容词']],
+ 'an immunological response 免疫反应；immunological research 免疫学研究。词尾只是形容关系，不承诺反应一定强或一定有保护作用。',
+ 'immunological research；an immunological mechanism。','immune 可说免疫的、不受影响的；immunological 通常专指免疫学或免疫系统相关，不用于所有比喻“不受批评影响”的场景。',
+ ('The paper describes an immunological mechanism.','论文描述了一种免疫机制。'),('The laboratory conducts immunological research.','这间实验室开展免疫学研究。'))
+W('alchemical','/ælˈkemɪkəl/','炼金术的；像奇妙转化般的',
+ 'alchemy 是炼金术，alchemical 就说炼金术的文字、符号或实验；艺术评论里也可能只是借用奇妙转化的感觉。',
+ 'alchemy 的词干 + -ical，构成相应形容词。al- 原在阿拉伯借词里是定冠词，不能把这里开头理解成英语 all 全部。',
+ [['阿拉伯 al-kīmiyā 等 → alchemy','历史炼金术名称'],['alchemy + -ical → alchemical','炼金术的；相应比喻形容词']],
+ 'alchemical symbols 炼金术符号；an alchemical transformation 可实指历史观念，也可比喻艺术中的转化。',
+ 'an alchemical text；alchemical symbols。','alchemical 炼金术的与 chemical 化学的不同；有历史联系，也不能把炼金术记录直接当作现代化学已证实结论。',
+ ('The manuscript contains alchemical symbols.','手稿里有炼金术符号。'),('The critic praised the film’s almost alchemical use of light.','评论者赞赏影片对光线近乎点石成金般的运用。'))
+W('composure','英 /kəmˈpəʊʒə/；美 /kəmˈpoʊʒər/','镇定；沉着',
+ '局面很乱，心里那些散开的东西却还能收在一起，声音和动作不慌，这种稳得住是 composure。',
+ 'compose + -ure；早有组合、构造、安排义，镇定义承接 composed 平静、沉着的形容用法。把心绪收拢是帮助理解的画面，不是一个可逐字还原的古人造词故事。',
+ [['compose + -ure → 早期 composure','组合、安排等旧义'],['与 composed 平静相连的 composure','镇定、沉着的常用名词义']],
+ 'keep one’s composure 保持镇定；lose one’s composure 失态、慌了；regain one’s composure 恢复镇定。常说受到压力、惊吓后的自控。',
+ 'keep your composure；regain her composure。','composure 说临场稳住情绪，composition 可说作文、构成、作品；相同 compose 词族不代表两个名词随便互换。',
+ ('She kept her composure during the difficult interview.','在那场难应付的面试中，她保持了镇定。'),('He paused for a moment to regain his composure.','他停了一会儿，让自己恢复镇定。'),sources=['https://www.etymonline.com/word/composure'])
+R('A2011','……的；与某领域有关、具有某种性质',
+ 'ICAL：把一个领域、事物或特点，转成描述事物的形容词',
+ 'biology 是研究领域，biological 说与这个领域相关；whimsy 是奇趣，whimsical 说一幅画带着这种奇趣。',
+ '-ical 的历史可上接晚期拉丁 -icalis，内含 -ic、-al 的材料。它常与 -ic 意义接近，但有些词已经分工，如 historic／historical、economic／economical。不能把两种词尾视为随便换，也不能按词形更长就认定出现更晚。',
+ '-logy 常对应 -logical，如 biology／biological；-graphy 可对应 -graphical，如 biography／biographical。现代看到 -ical 可以整段识别，但若问层次，也能看见 -ic + -al 的历史组合；不必为每个词虚构一个今天独立存在的中间形容词。',
+ [['常见学科形容词','biology · biological；psychology · psychological；technology · technological；ecology · ecological'],['文字、时间、结构','biography · biographical；chronology · chronological；symmetry · symmetrical；hierarchy · hierarchical'],['词尾相近但有分工','classic · classical；historic · historical；economic · economical'],['可感受的特点','whim · whimsy · whimsical；farce · farcical；alchemy · alchemical']],
+ 'historical 与历史有关，historic 常强调历史意义；economical 节省，economic 经济的；whimsical 常有俏皮奇趣，farcical 常批评荒唐。不要只把 -ical 译成一个空的的字。',
+ 'The historical setting is serious, but the illustrations add a whimsical touch.\n\n历史背景很严肃，插画却增添了俏皮的奇趣。',
+ 'typical biology biological psychology psychological classic classical technology technological philosophy philosophical geology geological ecology ecological ideology ideological archaeology archaeological neurology neurological physiology physiological botany botanical chronology chronological biography biographical satire satirical symmetry symmetrical hierarchy hierarchical stereotype stereotypical autobiography autobiographical period periodical anthropology anthropological myth mythology mythological genealogy genealogical method methodology methodological zoology zoological paradox paradoxical economy economic economical history historic historical whim whimsy whimsical farce farcical radiology radiological immunology immunological alchemy alchemical')
+R('A1996','动作、结果或状态的名词词尾',
+ 'URE：把做这件事、做出的结果，或形成的状态当名词说',
+ 'expose 是露出来，exposure 是暴露这件事或程度；compose oneself 是稳住自己，composure 是那份镇定。',
+ '-ure 经古法语 -ure 或直接接拉丁 -ura，形成动作、结果、状态等名词。在法语中也有造词能力，所以英语词不都要有一个完全对应的古典拉丁原词。记住常用词的完整词族，比看到 ure 三个字母就统一拆分更可靠。',
+ 'compose 去末尾 e + -ure → composure；expose／exposure、erase／erasure、seize／seizure 可对照认形。expenditure 还含 expend 的扩展词干；measure、pleasure 等有整体借词及拼写演变，不应强造一个英语 meas、pleas 动词。',
+ [['暴露与擦除','expose · exposure；erase · erasure'],['抓住与支出','seize · seizure；expend · expenditure'],['情绪和结果','compose · composure；fail · failure'],['完整词的历史','measure · pleasure；candidate · candidature']],
+ 'composure 镇定／composition 构成、作文；exposure 暴露或接触，不是 expose 的动作人；末尾字母相同，不自动证明每个词都能在现代英语里自由拆。',
+ 'She paused to regain her composure before explaining the failure.\n\n她停下来恢复镇定，然后解释这次失败。',
+ 'compose composure expose exposure erase erasure seize seizure expend expenditure fail failure measure pleasure candidate candidature')
+if __name__=='__main__':save('continuation_20261030_qk',ROOTS,WORDS)

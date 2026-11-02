@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3926",
+    "meaning": "泵送、抽取与注入的功能，再分开鞋的同形词",
+    "core": "PUMP：把液体、气体等持续推送或抽取",
+    "image": "pump → pumper；pumps 鞋类为另源同形词。",
+    "intro": "输水、打气、抽问信息都能借输送与抽取联想；鞋名不接这条泵送历史。",
+    "forms": "pumpe 可能来自荷兰语、低地德语；-er 执行者、装置；鞋义远源未定。\n\n机器泵名可能接荷兰语、低地德语海员材料，拟声说只是一种分析；鞋名 pump 远源不定。现代 pumps 既可数泵、鞋，也可作抽送动词第三人称。\n\n泵与抽送动作的词族来源可能接荷兰语、低地德语海员材料。pump + -ing 不双写 p，原词末尾 mp 是两个辅音字母。\n\npump 接抽送器具、动作的低地日耳曼等来源材料。加完整 -ed，不双写 p，/p/ 后读 /t/；pumped up 等口语又说兴奋、干劲足。",
+    "branches": [
+      [
+        "功能与相应人、设备",
+        "pump · pumper"
+      ],
+      [
+        "pumps：泵、抽送动作与鞋分源",
+        "pumps"
+      ],
+      [
+        "pump → pumping：抽送与持续推动",
+        "pumping"
+      ],
+      [
+        "pump → pumped：抽送与鼓足劲头",
+        "pumped"
+      ]
+    ],
+    "contrasts": "pump 不只移动水；pumps 鞋义有地区差别；pumper 需结合用途认具体设备。",
+    "practice": "The pumper used its pump to send water through the hose.\n\n泵车用水泵把水送进水带。",
+    "words": [
+      "pump",
+      "pumper",
+      "pumps",
+      "pumping",
+      "pumped"
+    ],
+    "exclude": {
+      "parish-pump": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1779",
+    "meaning": "小称、亲昵后缀，兼看不能定为同类的相邻词",
+    "core": "KIN：有些小称已凝固，来源不明的词不要硬拆",
+    "image": "napkin 最直观；pumpkin、bumpkin 各看历史；munchkin 看文学造词；chunk、hunk、hunch 单列不确定分析。bleak 常用形容词另源。",
+    "intro": "这页不能只看最后几个字母。明确小称、文学名称、来源有争议、不同来源的对照，各自说明，避免把猜测背成规则。",
+    "forms": "-kin 小称、亲昵；nape 布 → napkin；其余整词按各自历史处理，现代不保证仍有小的意思。\n\nnapkin 的 -kin 是小称后缀；apron 供同源对照，经法语 naperon 和英语 a napron → an apron 形成，apron 自身没有 -kin。\n\nn 原属于旧词 napron，后来被听成冠词 an 的一部分。\n\nnapkin、apron 的旧布材料可与 mop 对照；mop 接 mappe、拉丁 mappa 只是候选分析。mop 本身没有 kin 后缀，本段不把它算作 kin 派生。",
+    "branches": [
+      [
+        "小称与已固定的词",
+        "napkin · pumpkin · bumpkin"
+      ],
+      [
+        "文学名称",
+        "munchkin"
+      ],
+      [
+        "来源有不同分析的块、弓身词",
+        "chunk · hunk · hunch"
+      ],
+      [
+        "同形鱼名不能套给常用形容词",
+        "bleak"
+      ],
+      [
+        "napkin 与 apron：同一旧布词走出的两条路",
+        "napkin · napkins · apron"
+      ],
+      [
+        "apron → aprons：a napron 重新分界后的词形",
+        "apron · aprons"
+      ],
+      [
+        "旧布词旁支对照：mop 的候选来源与变化形式",
+        "napkin · apron · mop · mops · mopped · mopping"
+      ]
+    ],
+    "contrasts": "munchkin 命名灵感未定；chunk、hunk、hunch 不要硬拆；bleak 常用形容词不来自 -kin。",
+    "practice": "The child wrapped a hunk of bread in a napkin.\n\n孩子用餐巾包起一大块面包。",
+    "words": [
+      "napkin",
+      "pumpkin",
+      "bumpkin",
+      "munchkin",
+      "chunk",
+      "hunk",
+      "hunch",
+      "bleak",
+      "napkins",
+      "apron",
+      "aprons",
+      "mop",
+      "mops",
+      "mopped",
+      "mopping"
+    ],
+    "exclude": {
+      "malkin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bodkin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "merkin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

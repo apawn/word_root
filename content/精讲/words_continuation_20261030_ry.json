@@ -1,0 +1,299 @@
+[
+  {
+    "word": "poop",
+    "ipa": "/puːp/",
+    "meaning": "便便；拉屎〔口语，尤美〕；船艉、艉楼〔另一来源〕",
+    "sense": "和孩子谈便便、提醒清理宠物粪便，常用 poop。历史航海里的 poop deck 却是船艉的一部分，不能解释成船上的厕所。",
+    "split": "排泄义常认为有拟声、儿童委婉语背景，具体远源不明；船艉义经法语 poupe 等接拉丁 puppis 船艉。疲惫的 poop、pooped 又有来源不完全确定的词义发展。",
+    "history": [
+      [
+        "拟声、儿童口语一类材料 → 排泄词 poop",
+        "排泄物；排便，确切远源不确定"
+      ],
+      [
+        "法语 poupe 等 → 航海 poop",
+        "独立的船艉、艉楼名称"
+      ]
+    ],
+    "explanation": "dog poop 狗粪；pick up the poop 清理宠物粪便；a poop deck 艉楼甲板。较温和的口语排泄词与正式医学名称不同。",
+    "usage": "dog poop；need to poop；the poop deck。",
+    "contrast": "shit 一般更粗俗，poop 常是较温和、儿童化的口语；船艉名词的来源不应混进排泄词的故事。",
+    "examples": [
+      [
+        "Please pick up your dog’s poop.",
+        "请清理自家狗留下的粪便。"
+      ],
+      [
+        "The guide showed us the old ship’s poop deck.",
+        "导游带我们看了旧船的艉楼甲板。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/poop"
+    ]
+  },
+  {
+    "word": "poopy",
+    "ipa": "/ˈpuːpi/",
+    "meaning": "沾了便便的；与便便有关的〔儿童、家庭口语〕",
+    "sense": "家长说 a poopy diaper，是说尿布里有大便了；这是带儿童语气的生活词，不是正式污物分类术语。",
+    "split": "poop 便便 + -y，形成相关、沾着等形容词。也有较口语的糟糕评价等发展，基本家庭用法先抓住实物关系。",
+    "history": [
+      [
+        "poop + -y",
+        "与便便相关、沾到便便的"
+      ],
+      [
+        "常见家庭口语 poopy",
+        "说尿布、衣物等沾了大便"
+      ]
+    ],
+    "explanation": "a poopy diaper 有大便的尿布；poopy clothes 沾了便便的衣物。更正式表达可按场景说 soiled 等。",
+    "usage": "a poopy nappy；poopy clothes。",
+    "contrast": "dirty 脏的范围很大，poopy 指向大便相关；shitty 糟糕的常是更粗俗的负面评价，不能把两词在所有场景互换。",
+    "examples": [
+      [
+        "The baby has a poopy diaper.",
+        "宝宝的尿布里有大便了。"
+      ],
+      [
+        "She put the poopy clothes in a separate bag.",
+        "她把沾了便便的衣物放进另一个袋子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poopy#English"
+    ]
+  },
+  {
+    "word": "pooped",
+    "ipa": "/puːpt/",
+    "meaning": "累坏了的〔非正式〕；poop 的过去、分词形式",
+    "sense": "走了一整天，终于坐下只想歇着，可以说 I’m pooped.，像在说电量耗尽了。",
+    "split": "poop 的疲惫、耗尽义 + -ed，常固定作形容词。这个疲惫义的具体来源不确定，可能牵涉拟声、发动机熄火或其他旧用法，不应强定一条路线。",
+    "history": [
+      [
+        "poop 的疲惫、耗尽等用法",
+        "二十世纪口语中的消耗、撑不住"
+      ],
+      [
+        "poop + -ed → pooped",
+        "累坏、筋疲力尽的状态"
+      ]
+    ],
+    "explanation": "be completely pooped 累得不行；feel pooped 感到疲惫。不是正式程度量表，而是随意表达很累。",
+    "usage": "I’m pooped.；absolutely pooped。",
+    "contrast": "pooped 还有其他 poop 词义的分词可能；I’m pooped 这一常见表达通常是累坏了，先按完整句式认。",
+    "examples": [
+      [
+        "I’m pooped after that long walk.",
+        "走了那么久，我累坏了。"
+      ],
+      [
+        "By the time we reached home, everyone was completely pooped.",
+        "到家时，大家都累得不行了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/poop"
+    ]
+  },
+  {
+    "word": "dove",
+    "ipa": "鸟名 /dʌv/；dive 的过去式英 /dəʊv/、美 /doʊv/",
+    "meaning": "鸽子、鸠；主和派人物；潜入、跳入了〔dive 的过去式之一〕",
+    "sense": "a dove 可以是和平象征的鸟；he dove into the pool 则是他跳进泳池。看词性、听元音，才能知道哪一支。",
+    "split": "鸟名承接古英语相关复合中的 dufe 等日耳曼语材料；更远或与潜入词族有关，但命名动机未定。动词过去式 dove 在十九世纪北美等英语中重新兴起，可能类推 drive—drove，并非直接把鸟名当动词。",
+    "history": [
+      [
+        "古英语相关鸟名 → 中古英语 douve 等 → dove /dʌv/",
+        "鸽类鸟名；和平象征带来主和派比喻"
+      ],
+      [
+        "dive 的过去式类推发展 → dove /doʊv/",
+        "跳入、潜入的过去动作"
+      ]
+    ],
+    "explanation": "a white dove 白鸽；a political dove 主和派；dived 与 dove 都可作 dive 过去式，地域习惯不同。过去分词通常仍用 dived。",
+    "usage": "a symbol of peace；dove into the water。",
+    "contrast": "dove 与 pigeon 的日常鸟名范围有重叠，不能简单按白色、灰色划物种；鸟名与过去式的读音也不同。",
+    "examples": [
+      [
+        "A white dove appeared in the painting.",
+        "画里出现了一只白鸽。"
+      ],
+      [
+        "She dove into the pool and swam to the other side.",
+        "她跳进泳池，游到了另一边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dove"
+    ]
+  },
+  {
+    "word": "diving",
+    "ipa": "/ˈdaɪvɪŋ/",
+    "meaning": "潜水；跳水；俯身扑出的；dive 的 -ing 形式",
+    "sense": "可以是一项水中活动，也可以说动作扑了出去；a diving save 是守门员飞身扑救，不是他在球场里找了个泳池。",
+    "split": "dive 去掉词尾不发音 e，加 -ing。dive 的旧英语词族有潜入、使浸入等材料；现代活动名词与分词性质由动词形式发展。",
+    "history": [
+      [
+        "dive + -ing → diving",
+        "正在潜入、跳入或扑出"
+      ],
+      [
+        "名词与修饰语的固定用法",
+        "潜水、跳水活动；俯冲、扑出的性质"
+      ]
+    ],
+    "explanation": "a diving course 潜水课程；a diving competition 跳水比赛；a diving save 飞身扑救。具体水上项目、技术方式看场景，不只凭 diving 就全部确定。",
+    "usage": "go diving；competitive diving；a diving catch。",
+    "contrast": "swimming 游泳不等于 diving 潜水、跳水；diving 作修饰语时也可强调向前、向下扑出的动作。",
+    "examples": [
+      [
+        "She took a diving course during the summer.",
+        "她暑假上了一门潜水课程。"
+      ],
+      [
+        "The goalkeeper made a brilliant diving save.",
+        "守门员作出了一次精彩的飞身扑救。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diving#English"
+    ]
+  },
+  {
+    "word": "dovish",
+    "ipa": "/ˈdʌvɪʃ/",
+    "meaning": "主和的；倾向温和、协商方式的",
+    "sense": "把鸽子当作和平象征，再用它形容政治态度：更愿意谈、缓和冲突，而不是马上使用强硬军事行动。",
+    "split": "dove 鸽子、主和派 + -ish，去掉词尾不发音 e。先有鸟与和平象征的人物比喻，再形成主和、较温和的性质。",
+    "history": [
+      [
+        "dove 的和平象征、主和派比喻",
+        "态度偏和平、协商"
+      ],
+      [
+        "dove + -ish → dovish",
+        "主和、温和取向的"
+      ]
+    ],
+    "explanation": "a dovish politician 主和的政治人物；a dovish tone 较温和的语气。它常是相对强硬立场的比较判断，不等于对所有问题都没有原则。",
+    "usage": "a dovish approach；dovish language。",
+    "contrast": "hawkish 鹰派、较强硬，与 dovish 常成对照；这里 -ish 说性质，不是政治人物真的像哪种鸟的外形。",
+    "examples": [
+      [
+        "The ambassador used more dovish language in the interview.",
+        "大使在采访里采用了更温和、主和的措辞。"
+      ],
+      [
+        "The proposal received support from the party’s dovish members.",
+        "提案得到了党内主和派成员的支持。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/dovish"
+    ]
+  },
+  {
+    "word": "marital",
+    "ipa": "/ˈmærɪtəl/",
+    "meaning": "婚姻的；夫妻关系的",
+    "sense": "把某件事放到婚姻、夫妻关系这个范围里谈：marital status 问婚姻状况，marital problems 是夫妻关系遇到的问题。",
+    "split": "经法语 marital 等接拉丁 maritalis，来自 maritus 已婚男子、丈夫；英语后来广泛说婚姻、夫妻相关。不是 modern marry 直接加 tal 的普通规则。",
+    "history": [
+      [
+        "拉丁 maritus → maritalis；法语相应形式",
+        "丈夫、已婚关系 → 婚姻相关的"
+      ],
+      [
+        "英语 marital",
+        "婚姻的、夫妻关系的"
+      ]
+    ],
+    "explanation": "marital status 婚姻状况；marital difficulties 婚姻困难；marital home 夫妻共同生活的家。它只说明关系范围，不自动说婚姻好坏。",
+    "usage": "marital problems；marital happiness。",
+    "contrast": "martial 是军事、武术相关，marital 是婚姻相关；两个中间字母换位置，整条词源和词义就不同。",
+    "examples": [
+      [
+        "The form asks about marital status.",
+        "表格询问婚姻状况。"
+      ],
+      [
+        "The novel explores the couple’s marital difficulties.",
+        "小说探讨了那对夫妻的婚姻困境。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/marital"
+    ]
+  },
+  {
+    "word": "inarticulate",
+    "ipa": "英 /ˌɪnɑːˈtɪkjələt/；美 /ˌɪnɑːrˈtɪkjələt/",
+    "meaning": "表达不清、词不达意的；说不出话来的",
+    "sense": "心里很明白自己难过在哪里，一张嘴却组织不好语言，就是常见的 inarticulate。未必是没有想法，也可能是一时激动。",
+    "split": "拉丁 inarticulatus 及英语 in- 不 + articulate 的对应。articulate 词族原有分成节段、关节连接的材料，语言义强调清楚分出声音、表达意思。",
+    "history": [
+      [
+        "articulate 的清楚分节、表达义 + in- 否定",
+        "不清楚分明的相应性质"
+      ],
+      [
+        "现代语言、情绪用法",
+        "表达不清；激动得说不出完整话"
+      ]
+    ],
+    "explanation": "inarticulate with anger 气得说不出话；an inarticulate reply 词不达意的回答。形容词尾 -ate 读弱的 /ət/，不是动词 articulate 的 /eɪt/。",
+    "usage": "feel inarticulate；inarticulate sounds。",
+    "contrast": "quiet 安静不说明表达能力，inarticulate 重点是表达不清；speechless 可以说震惊得完全说不出话，范围有重叠。",
+    "examples": [
+      [
+        "He was inarticulate with anger.",
+        "他气得说不出完整的话。"
+      ],
+      [
+        "She felt inarticulate when trying to explain the complicated problem.",
+        "试图说明那个复杂问题时，她觉得自己词不达意。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/articulate"
+    ]
+  },
+  {
+    "word": "validator",
+    "ipa": "英 /ˈvælɪdeɪtə/；美 /ˈvælɪdeɪtər/",
+    "meaning": "验证、核验的人；校验器、验证工具",
+    "sense": "把一份输入交给它，它按规定逐项检查：日期格式对吗、必填项齐吗？做这件核验工作的工具，可以叫 validator。",
+    "split": "validate 验证、使有效 + -or，去末尾 e；人物、工具后缀指出承担核验功能的对象。底层接拉丁 validus 有力、有效等词族。",
+    "history": [
+      [
+        "validate + -or → validator",
+        "执行核验的人或工具"
+      ],
+      [
+        "计算等领域常用 validator",
+        "按规则检查格式、条件等的组件"
+      ]
+    ],
+    "explanation": "a form validator 表单校验器；a JSON validator 检查 JSON 等内容是否满足相应规则的工具。通过格式校验，含义只是满足所检查的那些条件。",
+    "usage": "an input validator；run a validator。",
+    "contrast": "validation 是核验过程、结果等名词；validator 是做核验的人、工具。格式正确也不自动证明内容陈述真实，检查目标不同。",
+    "examples": [
+      [
+        "The validator highlighted an invalid date.",
+        "校验器标出了一个无效日期。"
+      ],
+      [
+        "We added a validator for email address formats.",
+        "我们增加了一个电子邮箱地址格式校验器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/validator#English"
+    ]
+  }
+]

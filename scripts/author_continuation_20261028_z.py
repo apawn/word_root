@@ -1,0 +1,125 @@
+"""Pay: payment, recipients, work, cargo, and digital access."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,name,meaning):return [[f'英语 {a}；{b}','并列组合的两部分'],[f'{a} + {b} → {name}',meaning]]
+PAY=[['拉丁 pācāre → 中世纪拉丁相关用法','使平静、平息 → 满足、结清'],['古法语 paiier → 中古英语 payen → pay','给付、支付']]
+W('pay','/peɪ/','支付；工资；付出；值得、划算',
+ '买到东西后把应给的交出去，让账结清；时间、注意力也能被看成要付出的东西。',
+ '经古法语 paiier 接拉丁 pācāre“使平静”，中世纪有满足、结清的发展。现代支付义已固定，不是每次付款都在平息冲突；过去式、过去分词通常 paid。',PAY,
+ 'pay the bill 是付账，pay for lunch 是付午饭钱，pay attention 是投入注意；It pays to plan ahead 是提前计划值得。pay 作名词是工作报酬。',
+ 'pay someone；pay for；pay the bill；pay attention；a pay rise。',
+ 'pay someone 说明给谁，pay for something 说明为啥付；pay the shopkeeper 和 pay for the bread 可以在同一件事中并存。',
+ ('I’ll pay for lunch today.','今天午饭我来付钱。'),('Please pay attention to the final sentence.','请注意最后一句。'),('It pays to check the details before booking.','预订前核查细节是值得的。'))
+W('paid','/peɪd/','已付的；有报酬的；需付费的',
+ '钱已经结了，或这份工作、服务本来就要给钱，不是无偿。',
+ 'pay 的过去式、过去分词，接中古英语 paid 等形式；也用作形容词。普通支付义写 paid，不能按规则随手写 payed。',PAY+[['pay → paid','已经支付 → 有报酬、需付费的']],
+ 'a paid job 是有报酬的工作，paid leave 是带薪休假，paid content 是付费内容。两边钱流向不同，前后名词决定谁得到报酬。',
+ 'paid leave；a paid position；paid content；a paid subscription。',
+ 'paid leave 是休假仍有薪水，不是员工先花钱买请假资格；paid content 是用户付费获取的内容。不要把 paid 一律只记成“被付款”。',
+ ('She found a paid position at the museum.','她在博物馆找到一份有报酬的职位。'),('Employees receive two weeks of paid leave.','员工有两周带薪休假。'))
+W('paying','/ˈpeɪɪŋ/','支付中的；付费的；有收益的',
+ '客户不是只来看看，而是会掏钱购买；某项业务也可能确实能带来收入。',
+ 'pay + -ing，y 保留，不像 ready 加某些后缀那样变 i。可作动词形式，也已常用来修饰顾客、业务。',PAY+[['pay + -ing → paying','正在支付；会付费、有收益的']],
+ 'a paying customer 是付费顾客，a paying audience 是购票观众；a paying business 可说有收益的生意，但语境中不一定给出严格利润核算。',
+ 'a paying customer；a paying audience；a paying guest。',
+ 'paying customer 是付钱的一方，paid employee 是领报酬的一方；只差词尾，双方角色却不同。',
+ ('The café reserves these seats for paying customers.','咖啡馆把这些座位留给消费顾客。'),('The show attracted a large paying audience.','演出吸引了大量购票观众。'))
+W('payment','/ˈpeɪmənt/','支付；付款；支付的一笔钱',
+ '付钱这个动作、这次交易和那一笔金额，都可以在相应语境里叫 payment。',
+ '经古法语 paiement 借入，现代可对应 pay + -ment；-ment 形成动作、结果名词，不要把历史只画成英语临时加后缀。',PAY[:1]+[['古法语 paiement → 英语 payment','给付行为；一次付款或款项']],
+ 'make a payment 是付一笔钱，payment in advance 是预付，monthly payments 是按月支付的各笔钱；payment method 是支付方式。',
+ 'make a payment；payment method；payment in advance；monthly payments。',
+ 'pay 作名词常指工作报酬，payment 范围更广，可是货款、服务费、分期款等；a pay 不常用来数普通一笔付款。',
+ ('We received your payment yesterday.','我们昨天收到你的付款。'),('Which payment methods do you accept?','你们接受哪些支付方式？'))
+W('payer','英 /ˈpeɪə/；美 /ˈpeɪər/','付款人；支付方',
+ '沿着钱的方向找起点，实际承担支付的那一方。',
+ 'pay + -er，-er 表动作执行者；可能是个人，也可能是组织，不限定现金交易。',PAY+[['pay + -er → payer','负责支付的人或机构']],
+ 'the payer’s name 是付款方姓名，a third-party payer 是第三方支付主体等表达。具体责任仍看交易安排，不由后缀决定。',
+ 'the payer’s name；identify the payer；a third-party payer。',
+ 'payer 给钱，payee 收钱；-er 与 -ee 在这一对里形成方向对照，但不能据此断言英语每个 -ee 都是被动接受者。',
+ ('Please enter the payer’s name on the form.','请在表格上填写付款人姓名。'),('The record identifies both the payer and the recipient.','记录同时列明付款方与收款方。'))
+W('payee','/peɪˈiː/','收款人；款项收受方',
+ '同一笔钱从 payer 出发，到了 payee 这一边。',
+ 'pay + -ee，后缀在此表示收受支付的人或机构；重音常在后面 /iː/，与 payer 的开头重音不同。',PAY+[['pay + -ee → payee','钱付给的对象']],
+ '填写支票、银行转账、会计记录常见 payee name。只是角色名称，不表示收款一定已经成功。',
+ 'the payee’s name；add a payee；verify the payee details。',
+ 'payer 是付款方，payee 是收款方；employee 受雇者也有 -ee，但不能把所有场景都只按钱的方向猜。',
+ ('The cheque shows the payee’s name.','支票上写着收款人姓名。'),('The form has separate fields for payer and payee.','表格为付款方和收款方分别设置了填写栏。'))
+W('payable','/ˈpeɪəbəl/','应付的；可支付的；付给……的',
+ '还没说钱已经到账，而是说明这笔钱该付、怎样付或应付给谁。',
+ 'pay + -able，在支付语境中既可表示能够付，也常固定为应当付的。不能见 -able 就一律只译成有能力。',PAY+[['pay + -able → payable','可付；应支付；指定收款对象']],
+ 'payable in advance 是应预付，payable on arrival 是到达时支付，payable to 某人常见于支票。accounts payable 是应付账款这一会计名词。',
+ 'payable in advance；payable on arrival；payable to；accounts payable。',
+ 'paid 是已付或有偿，payable 是应付、可付；账款 payable 不等于已经 paid。',
+ ('The fee is payable on arrival.','费用到达时支付。'),('Make the cheque payable to the school.','请把支票收款人写为学校。'))
+W('repay','/rɪˈpeɪ/','偿还；回报；值得付出',
+ '以前得到了钱或帮助，后来把钱或相应好处送回去。',
+ 're-（回、再）+ pay；历史有古法语 repaier 的借入联系。主流偿还义接支付词族，其他专业同形义不在此强行并成一条。',PAY+[['古法语 repaier → 英语 repay','付回、补偿；现代对应 re- + pay']],
+ 'repay a loan 是偿还贷款，repay someone for kindness 是回报好意；The book repays close reading 是细读这本书会有收获。',
+ 'repay a loan；repay a debt；repay someone’s kindness；repay close attention。',
+ 'repay 是送回钱或回报，prepay 是预先付款，overpay 是付多。re- 的回返与 pre- 的提前别混。',
+ ('She repaid the money she had borrowed.','她还清了借来的钱。'),('I hope I can repay your kindness one day.','希望有一天我能回报你的好意。'))
+W('overpay','英 /ˌəʊvəˈpeɪ/；美 /ˌoʊvərˈpeɪ/','付多；付得过高',
+ '该付的线在这里，实际给的钱越过了它；也可能只是事后觉得不值这个价。',
+ 'over-（超过、过度）+ pay。过去式、过去分词 overpaid，保留 pay → paid 的变化。',PAY+[['over- + pay → overpay','支付超过应付或合理数量']],
+ 'overpay for a ticket 是为票花太多钱；overpay an employee 是多付薪酬。可能是计算错误，也可能是价格评价，两者不是同一事实。',
+ 'overpay for；be overpaid；overpay by an amount。',
+ 'overpay 付多，underpay 付少；overtime pay 是加班工资，over- 出现在不同组合里，不能都解释为付错钱。',
+ ('I think we overpaid for those chairs.','我觉得那几把椅子我们买贵了。'),('The company accidentally overpaid her by fifty pounds.','公司不慎多付给她五十英镑。'))
+W('payroll','英 /ˈpeɪrəʊl/；美 /ˈpeɪroʊl/','工资名册；薪资发放；工资总额',
+ '把需要领薪的人和该发的钱列到同一张表里，再按它发放。',
+ 'pay（工资）+ roll（名单、名册），不是把钞票卷成一个卷。由工资名册延伸为工资发放系统、总额等。',C('pay','roll〔名册〕','payroll','发薪人员及金额名册 → 发薪事务、总额'),
+ 'on the payroll 是列入领薪人员名单，run payroll 是处理工资发放，payroll costs 是薪资成本。实际付款可以是电子转账，不要求纸面清单。',
+ 'on the payroll；run payroll；payroll costs；a payroll system。',
+ 'payroll 是员工发薪范围，payment 是任何付款更泛；供应商货款通常不是员工 payroll。',
+ ('The company has eighty people on its payroll.','公司有八十名领薪员工。'),('She handles payroll for a small design firm.','她负责一家小设计公司的薪资发放。'))
+W('paycheck','/ˈpeɪtʃek/','工资支票；一次发放的工资〔尤美〕',
+ '原来是一张发薪支票，如今钱直接到账，也能沿用 paycheck 说这一期工资。',
+ 'pay（工资）+ check（支票），美式 check 对应英式 cheque 的相关拼写。现代已常从支付凭证转指薪资金额。',C('pay','check〔支票〕','paycheck','工资支票 → 定期领取的薪资'),
+ 'get a paycheck 是领工资，a bigger paycheck 是更高薪资；live paycheck to paycheck 是每次工资接下一次，几乎没余钱的生活状态。',
+ 'get a paycheck；a monthly paycheck；live paycheck to paycheck。',
+ 'paycheck 特指工作报酬这一路，receipt 是付款收据；领到薪水与拿到购物收据不同。',
+ ('Her first paycheck arrived at the end of the month.','她在月底领到了第一笔工资。'),('He wanted meaningful work as well as a steady paycheck.','他希望工作有意义，也有稳定薪水。'))
+W('paymaster','英 /ˈpeɪmɑːstə/；美 /ˈpeɪmæstər/','薪饷发放负责人；出资并施加影响者',
+ '谁掌管发钱，谁可能对领钱的人有影响；词义由发放岗位延伸到背后的出资方。',
+ 'pay（薪饷）+ master（主管），字面为负责发放薪饷者；比喻义强调用资金换来服务或服从。',C('pay','master','paymaster','管薪饷者 → 提供资金的控制、影响方'),
+ '历史、军队叙述有 army paymaster；political paymasters 可指政治人物背后出资者，常带批评语气。',
+ 'an army paymaster；political paymasters；answer to one’s paymasters。',
+ 'payer 只是付款方，paymaster 常多出掌管薪资或影响受资者这一层；普通买票顾客不因此就成 paymaster。',
+ ('The paymaster distributed wages to the soldiers.','薪饷官向士兵发放军饷。'),('The report questioned the influence of the organization’s paymasters.','报告质疑了该组织出资方施加的影响。'))
+W('payphone','英 /ˈpeɪfəʊn/；美 /ˈpeɪfoʊn/','收费公用电话',
+ '路边或大厅里放一台电话，先投币、刷卡或按规定付费再通话。',
+ 'pay（付费）+ phone（电话），按公共设备的付费使用方式命名，不是现在任何需要电话费的私人手机。',C('pay','phone','payphone','收费使用的公共电话'),
+ '常见于旅行回忆、老电影、交通场所描述；使用方式因设备不同，不一定只有投硬币一种。',
+ 'use a payphone；a station payphone；call from a payphone。',
+ 'payphone 是一类公共电话，smartphone 是智能手机；phone bill 是电话账单，不因要缴账单就把家用电话叫 payphone。',
+ ('He called home from a payphone at the station.','他从车站的公用电话打回家。'),('The old payphone has become part of the museum display.','旧公用电话成了博物馆展品的一部分。'))
+W('paywall','英 /ˈpeɪwɔːl/；美 /ˈpeɪwɔːl/','付费墙；内容付费访问限制',
+ '内容在那边，你在这边，中间有一道要求付款订阅才能通过的门槛。',
+ 'pay + wall，仿 firewall 等“墙”的限制意象构成；不是实物墙，也不等于所有看不见内容的原因。',C('pay','wall','paywall','以付款、订阅为条件的访问屏障'),
+ 'behind a paywall 是内容受付费访问限制，put content behind a paywall 是设置收费阅读。可能提供试读或部分免费内容，依平台安排。',
+ 'behind a paywall；a newspaper paywall；put up a paywall。',
+ 'paywall 要求付费，login wall 可能只要求登录；内容打不开，也可能是网络、权限等其他原因，不能一律叫付费墙。',
+ ('The full article is behind a paywall.','文章全文需要付费才能阅读。'),('The newspaper placed its archive behind a paywall.','报纸为其档案内容设置了付费访问限制。'))
+W('payload','英 /ˈpeɪləʊd/；美 /ˈpeɪloʊd/','有效载荷；任务载荷；数据消息中的实际内容',
+ '载具本身要运转，但真正为任务带去的货物、设备才是它承载的目标。',
+ 'pay（产生收益）+ load（载荷），早期强调带来收入的货载，后扩展到航天任务、通信和程序的数据内容。不是要为每段数据另付款。',C('pay','load','payload','产生收益的载货 → 执行任务或传递内容的载荷'),
+ '火箭可把卫星作为 payload，消息里 payload 常指区别于外层控制信息的实际数据。具体边界依系统、行业定义，不一律只算乘客或只算货。',
+ 'a rocket payload；a satellite payload；a message payload。',
+ 'payload 是所携任务、内容负载，vehicle 是载具，header 常是数据头信息；同一卫星对火箭是载荷，它自己也可承载仪器。',
+ ('The rocket carried a scientific payload into orbit.','火箭把科研载荷送入轨道。'),('The message payload contains the sensor readings.','消息的有效数据部分包含传感器读数。'))
+W('copay','英 /ˈkəʊpeɪ/；美 /ˈkoʊpeɪ/','共同支付；固定自付额〔尤美保险语境〕',
+ '费用由不同方承担一部分，某些医疗保险里由个人在服务时承担一笔固定金额。',
+ 'co-（共同）+ pay；名词常作为 copayment 的缩短形式。不能直接把它理解为所有保险情况下统一的一种自费比例。',PAY+[['co- + pay；copayment → copay','共同支付；特定制度中的个人定额支付']],
+ '美国医疗保险说明里常见 a copay for a visit；金额、适用项目取决于具体计划。作为普通动词也可说与他人共同支付。',
+ 'a copay for a visit；a prescription copay；a fixed copay。',
+ '常见保险用法中 copay 偏固定金额，coinsurance 常按费用比例分担，deductible 又是另一概念；具体计划仍以条款采用的定义为准。',
+ ('The plan lists a copay for each office visit.','计划列明了每次门诊的固定自付额。'),('She checked whether the service required a copay.','她查了这项服务是否需要支付固定自付额。'),sources=['https://en.wiktionary.org/wiki/copay','https://www.healthcare.gov/glossary/co-payment/','https://www.cms.gov/files/document/uniform-glossary-english-060723.pdf'])
+R('B2955','支付、薪酬；付出以结清或换取','PAY：把应给的交出去，或把资源投入一件事','钱从付款方送到收款方；不只付账，也能付出注意、努力。',
+ 'pay 经古法语接拉丁 pācāre，语义有平息、满足到结清、支付的发展。现代普通过去式 paid，paid、paying 的角色关系不能混。',
+ '先学 pay、paid、paying、payment；payer 与 payee 一起对照方向，payable 说应付，repay、prepay、overpay 说时间和数量变化。工资放 payroll、paycheck、payday、paymaster 一组，场景复合词再读 payphone、paywall、payload、copay。',
+ [['支付与角色','pay · paid · paying · payment · payer · payee · payable'],['回返、预付与过量','repay · prepay · overpay'],['工资及负责发放','payroll · paycheck · payday · paymaster'],['公共服务、网络与载荷','payphone · paywall · payload · copay']],
+ 'payer 付款，payee 收款。paid 已付、有报酬，payable 应付、可付。payload 不表示每件货都还欠运费；paying customer 与 paid employee 分处给钱、收钱两边。',
+ 'The payer checked the payee’s name before making the payment.\n\n付款人在付款前核对了收款人姓名。','pay paid paying payment payer payee payable repay prepay overpay payroll paycheck payday paymaster payphone paywall payload copay')
+if __name__=='__main__':save('continuation_20261028_z',ROOTS,WORDS)

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B2567",
+    "meaning": "绿色；新鲜、青涩与环保",
+    "core": "GREEN：从生长植物的颜色出发",
+    "image": "先看颜色，再分开读有点绿、绿的性质、一片绿植；蔬果店、绿道、绿背钞按各自场景连接。",
+    "intro": "green 继承古英语，与生长词族有历史联系。绿色 → 未成熟 → 缺经验是好理解的一条语义路，环保义则借植物与自然的联想。",
+    "forms": "green → greens、greenish、greenness、greenery；green + grocer、way、back；共享 greenhouse、evergreen、greenfield。\n\ngreen 接绿植概念；复数 house 部分有 z 的发音变化。",
+    "branches": [
+      [
+        "核心与后缀变化",
+        "green · greens · greenish · greenness · greenery"
+      ],
+      [
+        "蔬果、路线与钞票",
+        "greengrocer · greenway · greenback"
+      ],
+      [
+        "其他常见组合",
+        "greenhouse · evergreen · greenfield"
+      ],
+      [
+        "green 的种植组合 greenhouse 及复数",
+        "green · greenhouse · greenhouses"
+      ]
+    ],
+    "contrasts": "greenery 是植物，greenness 是性质；green recruit 是缺经验的人；greenback 特指美元纸币等相关用法。",
+    "practice": "The greenway passes a greenhouse surrounded by greenery.\n\n绿道经过一座四周有绿植的温室。",
+    "words": [
+      "green",
+      "greens",
+      "greenish",
+      "greenness",
+      "greenery",
+      "greengrocer",
+      "greenway",
+      "greenback",
+      "greenhouse",
+      "evergreen",
+      "greenfield",
+      "greenhouses"
+    ],
+    "exclude": {
+      "red-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blue-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yellow-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multi-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grass-green": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "green-white-checkered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenbrier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wintergreen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greenstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "greeny": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2675",
+    "meaning": "凉爽、降温；冷静、冷淡与很酷",
+    "core": "COOL：温度不热，情绪也不热",
+    "image": "从温度出发，分别读态度与口语赞许，再把更凉、冷却器、冷却液与性质副词连起来。",
+    "intro": "古英语已有凉与平静的用法。现代酷的赞美义有自己的社会使用史，不能只按温度编一条必然的演化公式。",
+    "forms": "cool → cooler（比较级或名词）、cooled、coolant、coolness、coolly。\n\ncool 的温度、情绪用法较早已有，赞许义后来广泛传播；cooler 的容器名词与比较级不能混作一个意思。\n\n古英语 col、colian 的温度和情绪词，现代 ing 不属于口语很酷的简单变体。",
+    "branches": [
+      [
+        "核心与比较、结果",
+        "cool · cooler · cooled"
+      ],
+      [
+        "冷却介质",
+        "coolant"
+      ],
+      [
+        "性质与方式",
+        "coolness · coolly"
+      ],
+      [
+        "cool → cooler → coolest：最凉、最冷静、最酷",
+        "cool · cooler · coolest"
+      ],
+      [
+        "cool → cooling：降温与情绪、兴趣的冷却",
+        "cool · cooling"
+      ]
+    ],
+    "contrasts": "cooler 可以是比较级，也可是容器；coolant 是介质。coolness、coolly 具体是冷静还是冷淡，看动作与语境。",
+    "practice": "She kept cool and waited for the engine to cool.\n\n她保持冷静，等发动机冷却。",
+    "words": [
+      "cool",
+      "cooler",
+      "cooled",
+      "coolant",
+      "coolness",
+      "coolly",
+      "coolest",
+      "cooling"
+    ],
+    "exclude": {
+      "ur-cool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coolio": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

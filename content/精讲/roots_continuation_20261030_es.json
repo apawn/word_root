@@ -1,0 +1,196 @@
+[
+  {
+    "id": "B2744",
+    "meaning": "嘴角笑意到爱笑的人、笑脸图形",
+    "core": "SMILE：微笑的动作，也能成为纸面、屏幕上的小脸",
+    "image": "smile → smiley，把动作、性质与图形接在一起。",
+    "intro": "微笑可以高兴也可紧张，不必把所有 smile 翻成开心；smiley 图形不等于全部 emoji。",
+    "forms": "smilen → smile；smile + -y → smiley；smiley face → 笑脸名词。\n\n中古英语 smilen，可能联系低地德语、北欧相关笑词；现代去 e 加 ing。\n\n中古英语笑词可能接低地、北欧材料，现代 s 接 l 读 z。\n\n中古英语微笑词可能联系低地德语、北欧相关形式，现代过去式去 e 加完整 -ed。\n\nsmirk 承古英语 smearcian，本也表示微笑，后来常带得意、讥讽等不悦色彩；与 smile 远源比较，不当作现代 smile 加后缀。\n\n本支比较不同表情，不把 sneer、frown 归为 smile 的同源派生。sneer 有喷鼻息、拟声等可能材料；frown 经法语 frognier，较远鼻孔来源是一种分析。",
+    "branches": [
+      [
+        "微笑与笑脸",
+        "smile · smiley"
+      ],
+      [
+        "smile → smiling：微笑的动作与神态",
+        "smile · smiling"
+      ],
+      [
+        "smile → smiles：微笑与一次次笑容",
+        "smile · smiles"
+      ],
+      [
+        "smile → smiled：把微笑动作放到过去",
+        "smile · smiles · smiled · smiling"
+      ],
+      [
+        "smile 与 smirk：微笑词族的远源比较及现代语气分化",
+        "smile · smirk · smirks · smirked · smirking"
+      ],
+      [
+        "笑容、轻蔑与皱眉的表情对照",
+        "smile · sneer · sneers · sneered · sneering · sneeringly · frown · frowns · frowned · frowning"
+      ]
+    ],
+    "contrasts": "smile/laugh 无声笑意与常见笑声；smirk 多有得意意味；smiley/emoji 范围不同。",
+    "practice": "She smiled and added a smiley to her reply.\n\n她微笑着，在回复里加了个笑脸。",
+    "words": [
+      "smile",
+      "smiley",
+      "smiling",
+      "smiles",
+      "smiled",
+      "smirk",
+      "smirks",
+      "smirked",
+      "smirking",
+      "sneer",
+      "sneers",
+      "sneered",
+      "sneering",
+      "sneeringly",
+      "frown",
+      "frowns",
+      "frowned",
+      "frowning"
+    ],
+    "exclude": {
+      "semi-smile": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smiler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2910",
+    "meaning": "上半身衣物，再按内外、功能拆组合",
+    "core": "SHIRT：基础上衣，前后材料告诉你穿在哪、用来做什么",
+    "image": "shirt → shirtless、undershirt；sweatshirt 运动休闲上衣，redshirt 在不同历史场景有专门意义。",
+    "intro": "shirtless 只明确无上衣，undershirt 不一定无袖；shirt/skirt 同族历史不能抹掉现代词义差别。",
+    "forms": "scyrte 经中古英语 → shirt；shirt + -less；under-/sweat/red + shirt。\n\n本族古英语衣服词延续；与 skirt 的历史联系不等于现代可以互换。\n\nsweat 加 shirt 成为固定服饰名，常指运动、休闲上衣。",
+    "branches": [
+      [
+        "基础、无上衣与内穿",
+        "shirt · shirtless · undershirt"
+      ],
+      [
+        "具体款式、用途和名称",
+        "sweatshirt · redshirt"
+      ],
+      [
+        "shirt → shirts：衬衫与复数",
+        "shirt · shirts"
+      ],
+      [
+        "shirt 的组合 sweatshirt 及复数",
+        "shirt · sweatshirt · sweatshirts"
+      ]
+    ],
+    "contrasts": "shirt/skirt 上衣裙子；shirtless/naked 局部与更广赤裸；undershirt/underwear 具体与总类。",
+    "practice": "He changed his shirt but kept the same undershirt on.\n\n他换了外面的衬衫，里面仍穿着同一件汗衫。",
+    "words": [
+      "shirt",
+      "shirtless",
+      "undershirt",
+      "sweatshirt",
+      "redshirt",
+      "shirts",
+      "sweatshirts"
+    ],
+    "exclude": {
+      "white-shirt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nether-shirt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3417",
+    "meaning": "历史关联、历史意义与史实真实性",
+    "core": "HISTORIC：意义重大、属于历史、是否确有其事，别混成一件事",
+    "image": "historic → historically、prehistoric；historicity 问真实性及历史形成性质。",
+    "intro": "historic 常强调历史意义，historically 说从历史看，prehistoric 说史前；historicity 不自动夸一个事件很重要。",
+    "forms": "希腊、拉丁历史词族经法语英语 → historic；historic + -ally；pre- + historic；historicité 等 → historicity。",
+    "branches": [
+      [
+        "历史意义、视角与时期",
+        "historic · historically · prehistoric"
+      ],
+      [
+        "是否确有史实",
+        "historicity"
+      ]
+    ],
+    "contrasts": "historic/historical 常见侧重有差别；historicity/historical importance 真实性与重要性；prehistoric 非只指很旧。",
+    "practice": "The account is historically important, even though its historicity is debated.\n\n这段记述很有历史意义，尽管其史实真实性仍有争论。",
+    "words": [
+      "historic",
+      "historically",
+      "prehistoric",
+      "historicity"
+    ],
+    "exclude": {
+      "ante-historic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "historicism": "涉及多种学术理论与艺术史用法，现阶段先掌握 historic、historically、prehistoric 和 historicity。"
+    }
+  },
+  {
+    "id": "B4390",
+    "meaning": "最大值的口语简称与上限",
+    "core": "MAX：maximum 缩短，日常拿来讲到顶",
+    "image": "max → supermax，把最大上限及特定超级最高戒备名称分开。",
+    "intro": "max out 可达到、用尽上限；supermax 的监狱专门义不能靠 super 直接推断所有制度细节。",
+    "forms": "maximum → max；super- + max → supermax。",
+    "branches": [
+      [
+        "最大值与加强组合",
+        "max · supermax"
+      ]
+    ],
+    "contrasts": "max/min 最大最小；Max 专名与数值简称分开；supermax 专门场景看实际用法。",
+    "practice": "The display was set to the max.\n\n显示设置调到了最大。",
+    "words": [
+      "max",
+      "supermax"
+    ],
+    "exclude": {
+      "max-level": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2465",
+    "meaning": "原来泛说食物，现代常指肉；再借给实质内容",
+    "core": "MEAT：肉是现代常义，旧食物义和食谱名称会留痕",
+    "image": "meat → meaty、meatless；meatball、meatloaf、meatpacking 看形状与行业；meathead 贬称，mincemeat 看甜馅和绞肉语境。",
+    "intro": "meaty role 有发挥空间，meatless 未排除奶蛋，mincemeat 现代甜馅未必含肉。每个组合的实际用法比机械逐字译更关键。",
+    "forms": "mete 食物 → meat 常用义缩窄；meat + -y/-less/ball/loaf/packing/head；minced meat → mincemeat。\n\n旧食物义缩窄到常见的动物肉义，meats 常区分肉类品种。",
+    "branches": [
+      [
+        "物质、性质与无肉",
+        "meat · meaty · meatless"
+      ],
+      [
+        "菜式、加工与旧名称",
+        "meatball · meatloaf · meatpacking · mincemeat"
+      ],
+      [
+        "人物比喻",
+        "meathead"
+      ],
+      [
+        "meat → meats：肉类与品种",
+        "meat · meats"
+      ]
+    ],
+    "contrasts": "meat/meet 同音；meaty 内容充实；meatless/vegan 不同范围；mincemeat/minced meat 糕点甜馅与绞肉；meathead 贬义刻板印象。",
+    "practice": "The meatless menu still offered a meaty discussion topic for the food club.\n\n无肉菜单仍给美食小组提供了一个很有料的话题。",
+    "words": [
+      "meat",
+      "meaty",
+      "meatless",
+      "meatball",
+      "meatloaf",
+      "meatpacking",
+      "meathead",
+      "mincemeat",
+      "meats"
+    ],
+    "exclude": {}
+  }
+]

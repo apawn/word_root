@@ -207,7 +207,7 @@
     "ipa": "英 /əˈkɜː/；美 /əˈkɜːr/",
     "meaning": "发生；出现；被想到",
     "sense": "一件事来到你的面前，或一个念头突然来到脑中。它是“发生了、出现了”，不一定有人故意安排。",
-    "split": "拉丁语 ob-（向着、迎面）在 c 前变形，与 currere“跑”形成 occurrere，经法语传入。",
+    "split": "拉丁语 ob-（向着、迎面）在 c 前变形，与 currere“跑”形成 occurrere，可能经法语 occurrer，也可能直接从拉丁语借入英语。",
     "history": [
       [
         "拉丁语：currere（词典形式 currō）",
@@ -218,8 +218,8 @@
         "迎面跑来；呈现；发生"
       ],
       [
-        "法语：occurrer",
-        "出现；遇到"
+        "可能经法语 occurrer；也可能直接借自拉丁语",
+        "出现、遇到 → 英语的发生、呈现"
       ],
       [
         "英语：occur",
@@ -240,7 +240,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/occur#English"
+      "https://en.wiktionary.org/wiki/occur#English",
+      "https://www.etymonline.com/word/occur"
     ]
   },
   {

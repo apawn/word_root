@@ -1,0 +1,119 @@
+[
+  {
+    "id": "B2903",
+    "meaning": "葡萄酒与酿造、酿造场所及人物称呼",
+    "core": "WINE：酒名是早期借词，后面再长出酿造这一组",
+    "image": "wine → winery、winemaking、winemaker；wino 作为阅读中须识别语气的俚称放在最后。",
+    "intro": "winemaker 是酿酒者，winery 是酿酒场所、企业，winemaking 是酿酒活动。wino 贬义不用于中性赞美品酒爱好。",
+    "forms": "拉丁 vīnum 经早期日耳曼语进入古英语 wīn；wine + -ery、making、maker、-o 分别产生场所、活动、人物等词。",
+    "branches": [
+      [
+        "基础词与酿造",
+        "wine · winery · winemaking · winemaker"
+      ],
+      [
+        "人物俚称",
+        "wino"
+      ]
+    ],
+    "contrasts": "wine 与 win 拼写近但不是从赢加 e；winemaker/酒窖服务人员不同；wino 非 wine lover 的中性替换。",
+    "practice": "The winemaker showed us around the winery.\n\n酿酒师带我们参观了酒庄。",
+    "words": [
+      "wine",
+      "winery",
+      "winemaking",
+      "winemaker",
+      "wino"
+    ],
+    "exclude": {
+      "wine-blue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wine-dark": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "winehouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "winer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2582",
+    "meaning": "写作者与按作品、协作方式分出的角色",
+    "core": "WRITER：先看写什么，再看以谁的名字出现",
+    "image": "writer 为基础；songwriter、screenwriter、scriptwriter、copywriter、speechwriter 按作品分；ghostwriter 按合作角色分；typewriter 是器物支线。",
+    "intro": "不要看到 -writer 就全译作家：广告文案、演讲稿、剧本各有对象，typewriter 更是打字机。ghostwriter 的幕后关系也不等于所有合作都秘密。",
+    "forms": "write + -er；作品名 + writer；ghost + writer；typewriter 中 -writer 指写出文字的机器。\n\nwrite 去 e 加 er，复合词末再加复数 s。\n\nwrite 去末尾 e，加完整 -er 得 writer；songwriter 的复数变化在最后。",
+    "branches": [
+      [
+        "基础角色",
+        "writer"
+      ],
+      [
+        "按作品区分",
+        "songwriter · screenwriter · scriptwriter · copywriter · speechwriter"
+      ],
+      [
+        "按协作区分",
+        "ghostwriter"
+      ],
+      [
+        "机器名称",
+        "typewriter"
+      ],
+      [
+        "writer 的机器组合 typewriter 及复数",
+        "writer · typewriter · typewriters"
+      ],
+      [
+        "write → writer 与 songwriter 的人物名称",
+        "songwriter · songwriters"
+      ]
+    ],
+    "contrasts": "writer/speaker 写与讲；ghostwriter/editor 代笔与编辑；screenwriter 与 scriptwriter 范围重叠但作品场景不同。",
+    "practice": "The speechwriter and the speaker reviewed the draft together.\n\n演讲撰稿人与演讲者一起审阅了草稿。",
+    "words": [
+      "writer",
+      "songwriter",
+      "screenwriter",
+      "scriptwriter",
+      "copywriter",
+      "speechwriter",
+      "ghostwriter",
+      "typewriter",
+      "typewriters",
+      "songwriters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3803",
+    "meaning": "驾驶员与让物体动起来的器具",
+    "core": "DRIVER：使什么向前动，就在“驱动”什么",
+    "image": "driver → driverless；screwdriver、piledriver 展示 driver 也可以是工具、机器。",
+    "intro": "驾驶只是 drive 的一个常见应用。驱动因素、软件驱动和把螺丝、桩推入的工具，都能从使东西行动这层看清。",
+    "forms": "drive + -er；driver + -less；screw/pile + driver，合成词两项材料并列。\n\ndriver 对应 drive 去 e 加完整 er，此词取器具义。",
+    "branches": [
+      [
+        "人物和无驾驶员状态",
+        "driver · driverless"
+      ],
+      [
+        "驱动物体的工具",
+        "screwdriver · piledriver"
+      ],
+      [
+        "screwdriver → screwdrivers：驱动螺丝的工具",
+        "driver · screwdriver · screwdrivers"
+      ]
+    ],
+    "contrasts": "driver 不限人；driverless 非没有动力；piledriver 的 pile 是桩，screwdriver 的酒名不强编唯一故事。",
+    "practice": "The driver left a screwdriver in the toolbox.\n\n司机把一把螺丝刀放在工具箱里。",
+    "words": [
+      "driver",
+      "driverless",
+      "screwdriver",
+      "piledriver",
+      "screwdrivers"
+    ],
+    "exclude": {
+      "owner-driver": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stake-driver": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

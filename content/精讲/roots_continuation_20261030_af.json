@@ -1,0 +1,130 @@
+[
+  {
+    "id": "B2635",
+    "meaning": "手臂与另源武装词形；位置、家具和动作",
+    "core": "ARM：身体部位；武装义要走另一条历史",
+    "image": "arm 已分源精讲，前臂、腋窝、腋下、臂带和无扶手同组；sidearm、forearm 的武装用法另接。",
+    "intro": "身体 arm 继承古英语 earm；武装 arm 接法语、拉丁武器词。不能把所有枪械含 arm 的词都说成胳膊伸出来。",
+    "forms": "fore-/under- + arm〔手臂〕；arm + pit/band/-less/chair/rest；side + arm〔武器〕；fore- + arm〔武装〕。\n\n按位置和凹形命名，再有偏僻、糟糕地方的贬义比喻。\n\n椅子两侧像手臂般托住胳膊的部分叫 arm，armchair 是扶手椅；复数只加在整个复合词末尾。",
+    "branches": [
+      [
+        "身体位置与佩戴物",
+        "arm · forearm · armpit · underarm · armband"
+      ],
+      [
+        "家具与结构",
+        "armchair · armrest · armless"
+      ],
+      [
+        "另源武装支线",
+        "armed · firearm · sidearm · rearm"
+      ],
+      [
+        "arm + pit → armpit → armpits：手臂下的凹处",
+        "arm · armpit · armpits"
+      ],
+      [
+        "arm + chair → armchair → armchairs",
+        "armchairs"
+      ]
+    ],
+    "contrasts": "forearm 名词前臂与动词预先准备重音不同；armless 不等于 unarmed；armband 不等于 wristband。",
+    "practice": "She rested her forearm on the armrest of the chair.\n\n她把前臂搁在椅子扶手上。",
+    "words": [
+      "arm",
+      "forearm",
+      "armpit",
+      "underarm",
+      "armband",
+      "armchair",
+      "armrest",
+      "armless",
+      "armed",
+      "firearm",
+      "sidearm",
+      "rearm",
+      "armpits",
+      "armchairs"
+    ],
+    "exclude": {
+      "strong-arm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arm-wrestle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arm-twisting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "armbar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3684",
+    "meaning": "战斗、争夺与持续应对困难",
+    "core": "BATTLE：有对抗的较量；BATTLING：正在顶住",
+    "image": "补基本 battle 与 battling，战场、战舰、战线等常用词已有精讲共享。",
+    "intro": "法语战斗词最终接拉丁击打、格斗训练材料。较冷的另源肥沃、养肥义不并入这个学习词族。",
+    "forms": "battle → battling；battle + field/ground/front/ship。\n\n法语名词、动词各有借入历史，较早连拉丁 battuere 击打。\n\nbattalion 经法语、意大利 battaglione 接 battaglia、拉丁 battuere 打的词族。整体借词，现代不是 battle 后随意加 -ion；营的人员规模不固定写死。",
+    "branches": [
+      [
+        "基本较量与进行状态",
+        "battle · battling"
+      ],
+      [
+        "地点、线和船",
+        "battlefield · battleground · battlefront · battleship"
+      ],
+      [
+        "battle → battles：交战与持续争取",
+        "battle · battles"
+      ],
+      [
+        "battle 的打、战斗词族 → battalion",
+        "battalion"
+      ]
+    ],
+    "contrasts": "battle 可比喻，不必真打仗；battling 进行不代表已赢；war 通常更大范围。",
+    "practice": "The team kept battling even when victory seemed unlikely.\n\n即使胜利似乎无望，团队仍坚持拼搏。",
+    "words": [
+      "battle",
+      "battling",
+      "battlefield",
+      "battleground",
+      "battlefront",
+      "battleship",
+      "battles",
+      "battalion"
+    ],
+    "exclude": {
+      "battle-sharp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "battler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3580",
+    "meaning": "向前推进与把时间提前",
+    "core": "ADVANCE：向前；ADVANCED：已走到更深、更前阶段",
+    "image": "advance → advanced，再接 advancement；特别分清提前通知与高阶课程。",
+    "intro": "最终接 ab ante，英语字母 d 后来类推加入，不是真实原始 ad- 前缀。advance 同时可空间前进和时间提前。",
+    "forms": "法语 avancier → advance；advance + -ed → advanced；法语名词 avancement → advancement。\n\n法语 avancier 接较早 ab ante，英语 d 后来类推插入；不拆成现代 ad 加 vance。\n\n法语 avancier，后类推加入 d，不能硬拆现代 ad 加 vance。",
+    "branches": [
+      [
+        "推进、阶段与发展",
+        "advance · advanced · advancement"
+      ],
+      [
+        "advance → advances：向前走、推动与各项进展",
+        "advance · advances"
+      ],
+      [
+        "advance → advancing：向前推进",
+        "advance · advancing"
+      ]
+    ],
+    "contrasts": "in advance 提前；advance notice 预先通知，advanced course 高阶课程；advancement 不等于 advantage 优势。",
+    "practice": "The advanced course may help with career advancement, so book in advance.\n\n这门高阶课程可能有助于职业发展，请提前预订。",
+    "words": [
+      "advance",
+      "advanced",
+      "advancement",
+      "advances",
+      "advancing"
+    ],
+    "exclude": {}
+  }
+]

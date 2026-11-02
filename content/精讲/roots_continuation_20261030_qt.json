@@ -1,0 +1,97 @@
+[
+  {
+    "id": "A1849",
+    "meaning": "具有、引起某种性质；数词后也可表示几人一组〔同形构词〕",
+    "core": "SOME：一支描述性质或影响，一支把人数合成一组",
+    "image": "troublesome 会惹麻烦，bothersome 让人烦，quarrelsome 爱争吵；two、three、four 接另一种 -some，则把两人、三人、四人圈成一组。",
+    "intro": "形容词后缀 -some 承古英语 -sum，常表具有某性质、容易引起某感受或行为。数词后的群体 -some 来自旧 sum 与数词组合的另一条构式。另有 chromosome 等科学词尾来自希腊 soma 身体，来源不同，不能把染色体解释成有一点颜色。",
+    "forms": "bother + -some、quarrel + -some；loathsome 保留 loath 的旧厌恶材料，不等同现代 loath to 不情愿。cumbersome 的 cumber、gruesome 的 grue 较少独立用，不必为了拆词把冷僻旧词当日常表达。two／twosome、three／threesome、four／foursome 是人数群体。\n\n苏格兰 bauther、bather 等相关材料，更早来源未定。\n\nbother 有苏格兰相关形式，更远来源未定；bothersome 的 -some 是性质后缀，基础 bother 自身不按现代 bo、ther 分拆。\n\nirk 有古老疲倦、不愿、困扰材料，远源未定，早期相关形容词也很早；不把与 work 或其他语言的可能联系硬写成定论。\n\n植物名承古英语 netele，远源未定，纤维与捆绑材料的联系只是可能分析；动词由植物名发展，很早也有激怒义，nettlesome 接 -some。",
+    "branches": [
+      [
+        "常见性质、感受与倾向",
+        "awe · awesome；trouble · troublesome；bother · bothersome；quarrel · quarrelsome"
+      ],
+      [
+        "较复杂词先抓画面",
+        "cumbersome · gruesome；loath · loathe · loathsome；irk · irksome"
+      ],
+      [
+        "两个、三个、四个人",
+        "two · twosome；three · threesome；four · foursome"
+      ],
+      [
+        "已有固定意义",
+        "handsome · wholesome · lonesome · tiresome · fearsome · worrisome · burdensome"
+      ],
+      [
+        "bother → bothered：有件事不断占住心，让人烦",
+        "bother · bothered"
+      ],
+      [
+        "bother 的烦扰、费心与 bothersome 的基础动作",
+        "bother · bothers · bothering"
+      ],
+      [
+        "irk：不大不小却一直碍心的烦",
+        "irk · irks · irked · irking · irksome · irksomely"
+      ],
+      [
+        "nettle：荨麻扎人到言语惹人不快",
+        "nettle · nettles · nettled · nettling · nettlesome"
+      ]
+    ],
+    "contrasts": "loath 不愿意／loathe 憎恶／loathsome 令人厌恶；cumbersome 笨重繁琐不只重量大；threesome 有场景歧义；科学词中的 -some 身体不归英语性质后缀这一来源。",
+    "practice": "The foursome found the booking process cumbersome, but nobody became quarrelsome.\n\n这四个人觉得预订过程很繁琐，但谁也没有因此找人争吵。",
+    "words": [
+      "awe",
+      "awesome",
+      "handsome",
+      "wholesome",
+      "trouble",
+      "troublesome",
+      "lonesome",
+      "tiresome",
+      "fearsome",
+      "worrisome",
+      "burden",
+      "burdensome",
+      "fulsome",
+      "meddlesome",
+      "gruesome",
+      "cumbersome",
+      "loath",
+      "loathe",
+      "loathsome",
+      "bother",
+      "bothersome",
+      "irk",
+      "irksome",
+      "quarrel",
+      "quarrelsome",
+      "two",
+      "twosome",
+      "three",
+      "threesome",
+      "four",
+      "foursome",
+      "bothered",
+      "bothers",
+      "bothering",
+      "irks",
+      "irked",
+      "irking",
+      "irksomely",
+      "nettle",
+      "nettles",
+      "nettled",
+      "nettling",
+      "nettlesome"
+    ],
+    "exclude": {
+      "chromosome": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ribosome": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "buxom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proteasome": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

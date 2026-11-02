@@ -1,0 +1,165 @@
+[
+  {
+    "id": "B3571",
+    "meaning": "把事情讲成故事，扩到民间故事与泄露迹象",
+    "core": "TALE：讲出来的一段事情",
+    "image": "tale → folktale 民间故事；telltale 可泄露秘密、暴露情况。",
+    "intro": "先记 tale 的讲述感，再分别看 folk 说流传群体、tell 说把情况透露出来。",
+    "forms": "talu → tale；folk + tale → folktale；tell + tale → telltale。\n\n古英语 talu 兼有叙述、计数等旧义，与 tell 相连。",
+    "branches": [
+      [
+        "基础与民间故事",
+        "tale · folktale"
+      ],
+      [
+        "把情况泄露出来",
+        "telltale"
+      ],
+      [
+        "tale → tales：一个个讲出来的故事",
+        "tale · tales"
+      ]
+    ],
+    "contrasts": "tale 不总是假的；tail 是尾巴；telltale signs 是透露实际情况的迹象。",
+    "practice": "The old folktale became a cautionary tale for the children.\n\n这个古老民间故事成了提醒孩子们的警示故事。",
+    "words": [
+      "tale",
+      "folktale",
+      "telltale",
+      "tales"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2443",
+    "meaning": "能接近、进入、使用或理解",
+    "core": "ACCESSIBLE：通路走得通，也让人用得上、看得懂",
+    "image": "accessible → accessibility；inaccessible 不能接近、难懂等。",
+    "intro": "大楼入口、网页功能、文章语言，都可能存在能不能顺利接触或使用的问题。无障碍语境还要看具体使用者的需要。",
+    "forms": "access 接近、进入 + -ible 相应性质；-ity 性质名词；in- 否定。",
+    "branches": [
+      [
+        "性质、名词与否定",
+        "accessible · accessibility · inaccessible"
+      ]
+    ],
+    "contrasts": "accessible 不只是免费；易到达、易理解、适合使用者是不同维度。",
+    "practice": "The guide makes the exhibition accessible to more visitors.\n\n这本指南让更多参观者能理解展览。",
+    "words": [
+      "accessible",
+      "accessibility",
+      "inaccessible"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3960",
+    "meaning": "猛烈怒气与肆虐状态，另分清越界义的 outrage",
+    "core": "RAGE：强烈到压不住；OUTRAGE 另有越界来源",
+    "image": "rage → raging；enrage → enraged；outrage → outrageous 是单列的不同来源对照。",
+    "intro": "两条线今天都能说愤怒，所以特别容易混。学习时一边看强烈情绪，一边看被认为越界、过分的事件。",
+    "forms": "rabia／rabiēs → rage；en- 使，-ed 状态；ultrā → outrage，-ous 性质。\n\nrage 接拉丁 rabies；outrage 接 ultra 越过的另一条路线，后受 out 加 rage 的民间词源影响，不能写成真实原始构词。",
+    "branches": [
+      [
+        "怒气、猛烈状态与激怒",
+        "rage · raging · enrage · enraged"
+      ],
+      [
+        "不同来源的越界、愤慨词",
+        "outrage · outrageous"
+      ],
+      [
+        "rage 的猛烈情绪，与不同近源的 outrage 比较",
+        "rage · rages · raged · raging · outrage · outrages · outraged · outraging"
+      ]
+    ],
+    "contrasts": "outrage 历史上不是 out + rage；all the rage 是风靡一时；outrageous 可说离谱价格、出格服装。",
+    "practice": "The outrageous charge enraged the customers and sparked public outrage.\n\n离谱的收费激怒了顾客，引发公众愤慨。",
+    "words": [
+      "rage",
+      "raging",
+      "enrage",
+      "enraged",
+      "outrage",
+      "outrageous",
+      "rages",
+      "raged",
+      "outrages",
+      "outraged",
+      "outraging"
+    ],
+    "exclude": {
+      "rager": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4334",
+    "meaning": "跳跃、跳过，与不同来源的容器及船长词对照",
+    "core": "SKIP：轻轻越过一步，再比喻略过一项",
+    "image": "skip → skipjack；skipper 的船长线来自 ship 的荷兰语同源词，与跳跃线分开。",
+    "intro": "现代 skip 有好几条来源：跳跃、容器、队长简称。按真实来源分开，就不用把废料斗硬想成跳动的东西。",
+    "forms": "skippen → 跳跃 skip；skep 等 → 容器 skip；schipper → skipper、简称 skip。\n\n轻跳、略过接北欧相关材料，废料斗名词另接筐、容器词；队长简称 skip 又接 skipper。现代同形 -s 不等于同一词源。",
+    "branches": [
+      [
+        "基础跳跃与容器同形词",
+        "skip"
+      ],
+      [
+        "鱼、船的名称",
+        "skipjack"
+      ],
+      [
+        "另一路船长名",
+        "skipper"
+      ],
+      [
+        "skip 的轻跳、跳过和不同名词支线",
+        "skip · skips · skipped · skipping"
+      ]
+    ],
+    "contrasts": "skip class 不去上课；a skip 可是废料斗；船长 skipper 不宜硬拆成跳的人。",
+    "practice": "We skipped one stop and watched a skipjack boat from the pier.\n\n我们略过一站，从码头看了一艘传统 skipjack 帆船。",
+    "words": [
+      "skip",
+      "skipjack",
+      "skipper",
+      "skips",
+      "skipped",
+      "skipping"
+    ],
+    "exclude": {
+      "vice-skip": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "auto-skip": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skip-gram": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skippy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2560",
+    "meaning": "虎的动物名称与性别词、形象比喻",
+    "core": "TIGER：完整动物名，TIGRESS 明确说雌虎",
+    "image": "tiger → tigress；比喻借凶猛、力量或外形。",
+    "intro": "这组重点是把完整借词、真实动物和比喻分清，不必为每个现代字母另找词根。",
+    "forms": "tigris → 古英语／法语路径 → tiger；法语 tigresse 对应 -ess 雌性词形。\n\n古英语、法语路径共同影响，远源箭、尖联系不定。",
+    "branches": [
+      [
+        "动物与性别名称",
+        "tiger · tigress"
+      ],
+      [
+        "tiger → tigers：虎的借词和复数",
+        "tiger · tigers"
+      ]
+    ],
+    "contrasts": "虎的远源解释有不确定处；tiger 可泛指雌雄；带 tiger 的俗名不都属于虎。",
+    "practice": "The tigress watched her cubs from the shade.\n\n雌虎在阴凉处看着幼虎。",
+    "words": [
+      "tiger",
+      "tigress",
+      "tigers"
+    ],
+    "exclude": {
+      "she-tiger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

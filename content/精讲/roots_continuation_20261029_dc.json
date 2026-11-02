@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B2976",
+    "meaning": "射击、投射；照片、尝试与各种短促一项",
+    "core": "SHOT：一次发射，再到一次拍摄、尝试和固定量",
+    "image": "先读 shot 基础，再读 snapshot、screenshot；gunshot 是枪声、事件，shotgun 是武器，不能换顺序仍当同词。",
+    "intro": "shot 名词接古英语，与 shoot 词族相关，也是 shoot 的过去式、过去分词。earshot 取所及范围，upshot 取最后结果；各义保留自己的历史分支。",
+    "forms": "shot → snapshot、screenshot、headshot；gunshot、shotgun、buckshot 按事件、武器、弹丸分；earshot、bloodshot、upshot 是固定词。\n\n名词有古英语射出词形，短饮等量词用法经过各自历史发展。\n\nshot 接一张画面义，screen 明确画面来自屏幕显示内容。\n\nsling 抛、投 + shot 发射物、发射，形成弹弓名；复数直接加 -s。区别于传统靠绳带旋转投石的 sling，不必把两种器具结构画成一样。",
+    "branches": [
+      [
+        "基础、拍摄及图像",
+        "shot · snapshot · screenshot · headshot"
+      ],
+      [
+        "枪声、器具和弹丸",
+        "gunshot · shotgun · buckshot · slingshot"
+      ],
+      [
+        "听距、外观与结果",
+        "earshot · bloodshot · upshot"
+      ],
+      [
+        "已学人物口语",
+        "hotshot"
+      ],
+      [
+        "shot → shots：射击、镜头与一次尝试",
+        "shot · shots"
+      ],
+      [
+        "screenshot → screenshots：截下来的屏幕图",
+        "screenshot · screenshots"
+      ],
+      [
+        "slingshot → slingshots：弹弓复数",
+        "slingshot · slingshots"
+      ]
+    ],
+    "contrasts": "gunshot 不是 shotgun；earshot 不是眼睛；bloodshot 不是中枪；upshot 是结果，不必好。",
+    "practice": "The upshot of the discussion was a request for a clearer screenshot.\n\n讨论最后的结果，是要求提供一张更清楚的截图。",
+    "words": [
+      "shot",
+      "snapshot",
+      "screenshot",
+      "headshot",
+      "gunshot",
+      "shotgun",
+      "buckshot",
+      "slingshot",
+      "earshot",
+      "bloodshot",
+      "upshot",
+      "hotshot",
+      "shots",
+      "screenshots",
+      "slingshots"
+    ],
+    "exclude": {
+      "cumshot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2544",
+    "meaning": "婴儿；幼小、亲昵与临时看护",
+    "core": "BABY：幼小、需照顾，和看护动作分开",
+    "image": "baby 可以是婴儿、小动物或亲昵称呼；babysitter、babysit、babysitting 再分人员、动作、活动。",
+    "intro": "baby 是 babe 的历史亲昵形式。babysit 与 babysitter 有逆构关系，阅读仍可按人物和动词对应理解；不要因为 baby 在前就把照看对象只限新生儿。",
+    "forms": "baby → babysitter；babysitter 逆构 babysit，与 babysitting 成一组；crybaby 是已学固定人物比喻。\n\n名词 baby 和把人过分当婴儿照顾的动词都能形成 babies，靠句法区分。\n\nbabe 接较早 baban 等幼儿称呼、可能拟幼儿语音；baby 历史上是 babe 接小称 -y，不能一律倒讲成 babe 是现代 baby 删 y。babe 后来作亲昵称呼，也有无经验者、吸引人者等口语比喻。",
+    "branches": [
+      [
+        "基础及临时看护",
+        "baby · babysitter · babysit · babysitting"
+      ],
+      [
+        "抱怨式人物比喻",
+        "crybaby"
+      ],
+      [
+        "baby → babies：婴儿的复数与动词",
+        "baby · babies"
+      ],
+      [
+        "babe → baby；babe 的昵称、比喻用法",
+        "babe · babes · baby"
+      ]
+    ],
+    "contrasts": "babysitter 人，babysit 动作，babysitting 活动；sit 在这里不是坐着不动；baby 亲昵称呼不说明年龄。",
+    "practice": "The babysitter offered to babysit again, so our babysitting arrangements were settled.\n\n临时看护者愿意再来帮忙，代看孩子的安排就定下了。",
+    "words": [
+      "baby",
+      "babysitter",
+      "babysit",
+      "babysitting",
+      "crybaby",
+      "babies",
+      "babe",
+      "babes"
+    ],
+    "exclude": {
+      "baby-to-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "baby-house": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "baby-brained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

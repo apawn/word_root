@@ -1,0 +1,137 @@
+[
+  {
+    "id": "B4351",
+    "meaning": "具有某种脸、表情或面对状态；俚语需整组辨",
+    "core": "FACED：脸和朝向的形式，具体评价由组合决定",
+    "image": "faced 面对、带某种面；barefaced 毫不掩饰；shitfaced 烂醉的粗俗固定说法。",
+    "intro": "faced 可以来自 face 动词分词，也可以在复合形容词中描述外貌、态度。固定俚语要承认约定，不把脸这个字面画面无限放大。",
+    "forms": "face + -ed → faced；bare/shit + faced 各有约定语义。\n\nface 经法语接拉丁 facies，faces 在 /s/ 后增加 /ɪz/；与 facere 的更深关系不当作确定派生。\n\n法语面貌词整体借入，拉丁 facies 更早来源与 facere 的关系不强定。",
+    "branches": [
+      [
+        "基本面对和特征形式",
+        "face · faced"
+      ],
+      [
+        "态度与俚语组合",
+        "barefaced · shitfaced"
+      ],
+      [
+        "face → faces：脸、表面；面对",
+        "face · faces"
+      ],
+      [
+        "face → facing：朝向与面对",
+        "face · facing"
+      ]
+    ],
+    "contrasts": "barefaced lie 公然谎言；shitfaced 烂醉且粗俗；faced 并不天生表示醉酒。",
+    "practice": "The barefaced excuse was that he had been shitfaced.\n\n他厚着脸皮拿自己当时烂醉作借口。",
+    "words": [
+      "face",
+      "faced",
+      "barefaced",
+      "shitfaced",
+      "faces",
+      "facing"
+    ],
+    "exclude": {
+      "two-faced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-faced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-faced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brazen-faced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whey-faced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3072",
+    "meaning": "宽度小、范围小、余量小",
+    "core": "NARROW：两边靠近，能通过或能容纳的余地变少",
+    "image": "narrow → narrowly 微小余量、有限范围 → narrowness 性质；narrowband 频率范围窄。",
+    "intro": "从窄巷子到小范围选项，再到险胜、险些撞上，关键是余地很小。尤其 narrowly escaped 已逃过，别和 nearly escaped 反过来。",
+    "forms": "nearu → narrow；narrow + -ly/-ness；narrow + band；narrower/narrowest 比较形式。\n\nnarrow 接古英语 nearu 空间受限，现代比较形式直接加 -er／-est；w 不双写。",
+    "branches": [
+      [
+        "基本尺寸和程度方式",
+        "narrow · narrowly · narrowness"
+      ],
+      [
+        "频带技术组合",
+        "narrowband"
+      ],
+      [
+        "narrow → narrower → narrowest：宽度、范围和差距",
+        "narrow · narrower · narrowest"
+      ]
+    ],
+    "contrasts": "narrow/thin 宽度与厚度；narrowly escaped/nearly escaped 结果可能相反；narrowband 不看电线粗细。",
+    "practice": "The bus narrowly avoided a wall in the narrow lane.\n\n公交车在窄巷里险些撞上墙，最终避开了。",
+    "words": [
+      "narrow",
+      "narrowly",
+      "narrowness",
+      "narrowband",
+      "narrower",
+      "narrowest"
+    ],
+    "exclude": {
+      "narrow-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4066",
+    "meaning": "自豪、自尊与过高自视；传统集合名",
+    "core": "PRIDE：认可自己的价值，过头也会变成傲慢",
+    "image": "pride → prideful；take pride in、pride yourself on 两种常用句型；a pride of lions 狮群。",
+    "intro": "褒贬不是词尾决定，而是程度和语境。工作值得自豪，不等于认为别人都低一等；狮群义则按约定集合名另记。",
+    "forms": "旧 proud/pride 词形对应；pride + -ful → prideful；pride oneself on 反身结构。",
+    "branches": [
+      [
+        "自豪、傲慢及相应性质",
+        "proud · pride · prideful"
+      ]
+    ],
+    "contrasts": "take pride in 名词结构与 pride yourself on 动词结构；prideful 常偏自负；pride of lions 是狮群。",
+    "practice": "She took pride in her work without becoming prideful.\n\n她为自己的工作自豪，却没有变得自负。",
+    "words": [
+      "proud",
+      "pride",
+      "prideful"
+    ],
+    "exclude": {
+      "self-pride": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4308",
+    "meaning": "从下面托住，让活动和生命持续",
+    "core": "SUSTAIN：不是一下顶住，而是不断支撑下去",
+    "image": "sustain → sustainment 保障过程、sustainer 支撑者；sustainable → sustainability 能否长期持续；sustenance 维生支持。",
+    "intro": "动词、过程、执行者、性质分开排。后勤保障、环境可持续和维生食物都能抓支撑，但不能把名词随便互换。",
+    "forms": "sub- + tenēre → sustinēre → sustain；sustain + -ment/-er/-able；sustainable → sustainability；sustenance 为同族名词。",
+    "branches": [
+      [
+        "支撑动作、过程与执行者",
+        "sustain · sustainment · sustainer"
+      ],
+      [
+        "长期持续的性质",
+        "sustainable · sustainability"
+      ],
+      [
+        "维生食物、支持",
+        "sustenance"
+      ]
+    ],
+    "contrasts": "sustainment/sustainability 维持过程与可持续性质；sustainer/sustenance 支撑者与维生支持。",
+    "practice": "Long-term sustainment helps sustain the system, but its sustainability still needs assessment.\n\n长期保障帮助维持系统，但它能否长期持续仍需评估。",
+    "words": [
+      "sustain",
+      "sustainment",
+      "sustainer",
+      "sustainable",
+      "sustainability",
+      "sustenance"
+    ],
+    "exclude": {}
+  }
+]

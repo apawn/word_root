@@ -1,0 +1,46 @@
+[
+  {
+    "id": "B3032",
+    "meaning": "铁材料、工具与坚固比喻；irony 常用名词另源",
+    "core": "IRON：金属到熨斗、铁甲、坚韧；反讽不在这条词源里",
+    "image": "iron → ironwork、ironclad、ironman、flatiron；gridiron 讲词形受 iron 影响，irony 明列异源辨析。",
+    "intro": "gridiron 不把现代拼写关系倒写成历史；irony 反讽借希腊语、拉丁语，与铁无直接派生。ironwood、ironstone 等较专门材料词本轮略。",
+    "forms": "iron + work/clad/man；flat + iron；gridiron 旧烤架词受 iron 影响；irony 反讽另接 eirōneia。",
+    "branches": [
+      [
+        "材料、工艺和保护",
+        "iron · ironwork · ironclad"
+      ],
+      [
+        "坚韧人物与工具",
+        "ironman · flatiron"
+      ],
+      [
+        "词形受铁影响的旧词",
+        "gridiron"
+      ],
+      [
+        "异源辨析",
+        "irony"
+      ]
+    ],
+    "contrasts": "iron 材料不可数、an iron 器具；ironclad 比喻不自动保证事实；gridiron/grid 历史方向；irony 非铁加 -y。",
+    "practice": "She ironed the shirt while he repaired the iron gate.\n\n她熨衬衫时，他修理铁门。",
+    "words": [
+      "iron",
+      "ironwork",
+      "ironclad",
+      "ironman",
+      "flatiron",
+      "gridiron",
+      "irony"
+    ],
+    "exclude": {
+      "non-iron": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "iron-sick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-iron": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ironwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ironstone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "word": "penny",
+    "ipa": "/ˈpeni/",
+    "meaning": "便士；一分硬币；一点钱",
+    "sense": "先想最小面额的一枚小硬币，再把它放进 save every penny、not a penny 这样的表达：每一点钱、一点钱也没有。",
+    "split": "承古英语 peniġ、penning，经中古英语 peny 等到 penny，更远来源不确定。不同英语地区用它称不同的小面额货币或硬币。",
+    "history": [
+      [
+        "古英语 peniġ、penning → 中古英语 peny → penny",
+        "小面额货币、硬币的旧名称，深源未定"
+      ],
+      [
+        "小钱 → 钱财的日常比喻",
+        "省钱、没钱与价格表达常围绕最小单位"
+      ]
+    ],
+    "explanation": "英国现代币制的一便士是一英镑的百分之一，美国 penny 通常称一美分硬币。数单枚硬币常 pennies，英式金额常用 pence，如 fifty pence。",
+    "usage": "save every penny；not a penny；fifty pence。",
+    "contrast": "pennies 与 pence 的差异常是硬币个数和金额：five pennies 五枚一便士硬币，five pence 五便士金额；不要只按复数随意替换。",
+    "examples": [
+      [
+        "She saved every penny for the journey.",
+        "她为那次旅行省下每一点钱。"
+      ],
+      [
+        "He found three pennies under the sofa.",
+        "他在沙发底下找到三枚小面额硬币。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/penny#English"
+    ]
+  },
+  {
+    "word": "penniless",
+    "ipa": "/ˈpenɪləs/",
+    "meaning": "身无分文的、一贫如洗的",
+    "sense": "连一枚小硬币都没有，就 penniless。它用最小的钱来强调完全没钱，也常用于暂时困窘，不必是一生贫穷。",
+    "split": "penny + -less，y 在接后缀时变成 i，形成 penniless；中古英语已有相应形式。",
+    "history": [
+      [
+        "古英语 peniġ、penning → 中古英语 peny → penny",
+        "小面额货币、硬币的旧名称，深源未定"
+      ],
+      [
+        "小钱 → 钱财的日常比喻",
+        "省钱、没钱与价格表达常围绕最小单位"
+      ],
+      [
+        "penny + -less → penniless",
+        "没有一分钱"
+      ]
+    ],
+    "explanation": "arrive penniless 身无分文地来到，be left penniless 变得一无所有，almost penniless 几乎没钱。",
+    "usage": "be left penniless；almost penniless。",
+    "contrast": "penniless 强调缺钱，不表示没有能力或没有财产的每一种可能；叙事中也可能是夸张说眼下拿不出钱。",
+    "examples": [
+      [
+        "He arrived in the city almost penniless.",
+        "他来到这座城市时几乎身无分文。"
+      ],
+      [
+        "The failed venture left them penniless.",
+        "那次失败的经营让他们一贫如洗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/penniless#English"
+    ]
+  },
+  {
+    "word": "spark",
+    "ipa": "英 /spɑːk/；美 /spɑːrk/",
+    "meaning": "火花、电火花；一点苗头；引发",
+    "sense": "一点火星就能让后面的火烧起来；一句话也可能点燃兴趣、争论。所以 spark 同时能说小亮点和引发后续变化。",
+    "split": "承古英语 spearca、中古英语 sparke 等，属于日耳曼旧火星词。名词的小火星义扩展到想法、感情的萌芽，动词说引起。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "小亮点 → 事情的开端",
+        "火星引火 → 引起兴趣、争论等"
+      ]
+    ],
+    "explanation": "a spark of hope 一点希望，spark interest 激起兴趣，spark a debate 引发讨论，sparks fly 可说冲突激烈或两人产生强烈吸引。",
+    "usage": "a spark of；spark interest；spark a debate。",
+    "contrast": "spark 作动词通常强调触发起点，不自动表示后续全过程都由这一个因素控制。",
+    "examples": [
+      [
+        "A spark jumped from the fire.",
+        "火里迸出一点火星。"
+      ],
+      [
+        "Her question sparked a lively debate.",
+        "她的问题引发了热烈讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spark#English"
+    ]
+  },
+  {
+    "word": "sparkle",
+    "ipa": "英 /ˈspɑːkəl/；美 /ˈspɑːrkəl/",
+    "meaning": "闪闪发光；神采、活力；细小闪光",
+    "sense": "不只亮一下，而是许多小亮点一闪一闪，是 sparkle。眼睛、谈话显得有神，也像小亮光不断冒出来。",
+    "split": "与 spark + -le 对应；旧名词形式含指小背景，动词 -le 则有反复、细小动作的历史。中古英语已有 sparklen 等相应形式。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "小亮点 → 事情的开端",
+        "火星引火 → 引起兴趣、争论等"
+      ],
+      [
+        "spark + 旧 -le 形式 → sparkle",
+        "小闪光、反复闪亮 → 神采、活力"
+      ]
+    ],
+    "explanation": "sparkle in the sun 在阳光下闪烁，eyes sparkle 眼睛发亮，a sparkle of wit 机智的闪光；饮料的气泡也能给出 sparkle。",
+    "usage": "sparkle in the sun；eyes sparkle。",
+    "contrast": "spark 强调火星、起点，sparkle 常强调细碎连续的光亮、活力；不是每次都真的燃烧。",
+    "examples": [
+      [
+        "The sea sparkled in the morning sun.",
+        "海面在晨光中闪闪发亮。"
+      ],
+      [
+        "Her eyes sparkled when she heard the news.",
+        "听到消息时，她眼睛亮了起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparkle#English"
+    ]
+  },
+  {
+    "word": "sparky",
+    "ipa": "英 /ˈspɑːki/；美 /ˈspɑːrki/",
+    "meaning": "活泼、机敏的；电火花般的；〔口语〕电工",
+    "sense": "说话反应快、精神活，像不断冒火花，可以 sparky；口语里给电工叫 sparky，则按电火花的职业联想命名。",
+    "split": "spark + -y，形成相关性质；人物昵称进一步用于电工等电气相关角色。",
+    "history": [
+      [
+        "古英语 spearca → 中古英语 sparke → spark",
+        "小火星、短暂亮点"
+      ],
+      [
+        "小亮点 → 事情的开端",
+        "火星引火 → 引起兴趣、争论等"
+      ],
+      [
+        "spark + -y → sparky",
+        "火花般有活力；相关职业昵称"
+      ]
+    ],
+    "explanation": "a sparky personality 活泼机敏的个性，a sparky conversation 生动有火花的谈话；a sparky 作电工昵称有地区、口语色彩。",
+    "usage": "a sparky personality；a sparky conversation。",
+    "contrast": "sparky 的人物昵称不适合当所有正式职位名称；普通 electrician 更通用。",
+    "examples": [
+      [
+        "She brought a sparky energy to the discussion.",
+        "她给讨论带来活泼机敏的劲头。"
+      ],
+      [
+        "The sparky came round to check the wiring.",
+        "电工上门检查了线路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparky#English"
+    ]
+  },
+  {
+    "word": "ramp",
+    "ipa": "/ræmp/",
+    "meaning": "坡道、斜坡；上、下匝道；逐步增减",
+    "sense": "两处高度不同，用一段斜面连起来，就是 ramp。图上数值像沿坡慢慢爬升，也让 ramp up 表示逐步提高。",
+    "split": "坡道名词借法语 rampe，与旧 ramper 爬、攀登相连。英语旧动词还有立起、凶猛活动等；现代 ramp up、down 又借斜坡图形说增减。",
+    "history": [
+      [
+        "古法语 ramper",
+        "爬、攀登、动物以后肢立起；更早来源有不同分析"
+      ],
+      [
+        "法语 rampe → ramp",
+        "爬升的斜面、坡道"
+      ]
+    ],
+    "explanation": "a wheelchair ramp 轮椅坡道，an entrance ramp 入口匝道，ramp up production 提高产量，ramp down activity 逐步减少活动。",
+    "usage": "a wheelchair ramp；ramp up；ramp down。",
+    "contrast": "ramp up 不规定永远匀速上升；普通业务描述常宽泛说逐步、明显增加。另有植物 ramps 的同形词，非坡道义。",
+    "examples": [
+      [
+        "A ramp connects the pavement to the entrance.",
+        "一条坡道连接人行道和入口。"
+      ],
+      [
+        "The factory plans to ramp up production next month.",
+        "工厂计划下个月提高产量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ramp#English",
+      "https://www.etymonline.com/word/ramp"
+    ]
+  },
+  {
+    "word": "rampant",
+    "ipa": "/ˈræmpənt/",
+    "meaning": "猖獗、失控蔓延的；〔纹章〕以后肢立起的",
+    "sense": "像狮子立起、凶势压过来，后来用来形容坏现象不受控制地增长；rumours run rampant 就是谣言四处疯传。",
+    "split": "接古法语 ramper 的分词 rampant 等旧形式，先有动物立起、凶猛义，再发展成未受抑制的蔓延。-ant 是历史分词构词成分。",
+    "history": [
+      [
+        "古法语 ramper",
+        "爬、攀登、动物以后肢立起；更早来源有不同分析"
+      ],
+      [
+        "ramper 的分词 rampant 等 → rampant",
+        "后肢立起、凶猛 → 失控增长"
+      ]
+    ],
+    "explanation": "run rampant 猖獗、泛滥，rampant corruption 腐败猖獗，a lion rampant 纹章中立起的狮子。",
+    "usage": "run rampant；rampant corruption。",
+    "contrast": "rampant 常用于被认为不好的、失控的增长，不是中性 widespread 到处都有的完全同义词。",
+    "examples": [
+      [
+        "Rumours ran rampant after the announcement.",
+        "公告发布后，谣言四处疯传。"
+      ],
+      [
+        "The shield bears a lion rampant.",
+        "盾徽上有一头以后肢立起的狮子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rampant#English"
+    ]
+  },
+  {
+    "word": "rampage",
+    "ipa": "名词常 /ˈræmpeɪdʒ/；动词也有 /ræmˈpeɪdʒ/",
+    "meaning": "狂暴冲撞、肆虐；狂暴行动",
+    "sense": "动物或人失去控制，到处冲撞、破坏，就是 rampage。它比简单跑来跑去多了狂暴、不受控制的劲。",
+    "split": "经苏格兰英语相应形式，联系 ramp 的狂冲、凶猛旧义与 -age；借词史还可能有其他旧词影响。现代名词、动词重音存在变体。",
+    "history": [
+      [
+        "古法语 ramper",
+        "爬、攀登、动物以后肢立起；更早来源有不同分析"
+      ],
+      [
+        "ramp 的狂冲义 + -age 等历史形式 → rampage",
+        "狂暴行动、肆虐"
+      ]
+    ],
+    "explanation": "go on a rampage 狂暴肆虐，a destructive rampage 破坏性的狂暴行动，rampage through a place 在某处横冲直撞。",
+    "usage": "go on a rampage；rampage through。",
+    "contrast": "rampage 不只是坡道 ramp 加年龄 age；-age 是构词后缀，现代整体说狂暴行动。",
+    "examples": [
+      [
+        "The escaped bull went on a rampage through the market.",
+        "逃脱的公牛在市场里横冲直撞。"
+      ],
+      [
+        "The storm left a trail of destruction as it rampaged across the coast.",
+        "风暴肆虐海岸，所过之处一片破坏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rampage#English",
+      "https://www.etymonline.com/word/rampage"
+    ]
+  },
+  {
+    "word": "admiral",
+    "ipa": "英 /ˈædmərəl/；美 /ˈædmərəl/",
+    "meaning": "海军将官、提督；舰队指挥者",
+    "sense": "先是指挥者的称号，进入欧洲语言后逐渐专向海上军队。读到 admiral，抓住海军高级指挥角色即可，具体军衔看国家制度。",
+    "split": "源头是阿拉伯 amīr 指挥者，经中世纪拉丁、法语相应头衔多次改造。d 常解释为受 admire 等熟悉拉丁词形影响；末尾形态的形成也有不同分析。",
+    "history": [
+      [
+        "阿拉伯 amīr",
+        "指挥者、统帅"
+      ],
+      [
+        "中世纪拉丁、法语改造的相应头衔",
+        "amiral、amirail 等；d 后来可能受拉丁熟词影响"
+      ],
+      [
+        "英语 admiral",
+        "军队统帅名称逐渐专用于海军高级指挥者"
+      ]
+    ],
+    "explanation": "an admiral 海军将官，a fleet admiral 舰队高级指挥者、特定军衔名称，a retired admiral 退役海军将官。",
+    "usage": "a retired admiral；an admiral commanding a fleet。",
+    "contrast": "不是由英语 admire 钦佩直接造出受人钦佩的人；钦佩词形的影响与真正词源是两件事。",
+    "examples": [
+      [
+        "The admiral addressed the officers before departure.",
+        "出发前，海军将官向军官们讲话。"
+      ],
+      [
+        "A retired admiral spoke at the naval museum.",
+        "一位退役海军将官在海军博物馆发表了讲话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/admiral#English",
+      "https://www.etymonline.com/word/admiral"
+    ]
+  },
+  {
+    "word": "admiralty",
+    "ipa": "/ˈædmərəlti/",
+    "meaning": "海军管理机关、海军将官职权；海事司法领域",
+    "sense": "admiral 是人物，admiralty 可能是围绕海军的管理机关、职权。admiralty law 则转到航运、海事司法这一专门领域。",
+    "split": "经法语 amirauté、旧 amiralté 与拉丁相关职权名词，现代对应 admiral + -ty；历史拼写随 admiral 一族调整。",
+    "history": [
+      [
+        "阿拉伯 amīr",
+        "指挥者、统帅"
+      ],
+      [
+        "中世纪拉丁、法语改造的相应头衔",
+        "amiral、amirail 等；d 后来可能受拉丁熟词影响"
+      ],
+      [
+        "法语、拉丁相关职权词 → admiralty",
+        "海军管理、职权；海事司法"
+      ]
+    ],
+    "explanation": "the Admiralty 在英国历史材料中常指海军部；admiralty law 海事法，admiralty jurisdiction 海事司法管辖领域。",
+    "usage": "the Admiralty；admiralty law。",
+    "contrast": "admiralty 不只是将官本人，也不是所有语境都指同一现存政府部门；历史机关、职权、法律领域分开看。",
+    "examples": [
+      [
+        "The letter was sent to the Admiralty in London.",
+        "信被寄往伦敦的海军部。"
+      ],
+      [
+        "The course includes an introduction to admiralty law.",
+        "课程包括海事法入门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/admiralty#English"
+    ]
+  }
+]

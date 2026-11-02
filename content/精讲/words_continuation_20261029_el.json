@@ -1,0 +1,401 @@
+[
+  {
+    "word": "lord",
+    "ipa": "英 /lɔːd/；美 /lɔːrd/",
+    "meaning": "领主；勋爵；主人；宗教中主",
+    "sense": "历史上掌管供养与家产的主人，后来成为权力、贵族和宗教称谓；不是今天负责看面包的人。",
+    "split": "古英语 hlāfweard 面包 + 守护者，缩为 hlāford，再经中间音节变化成为 lord。原组合早已词汇化，不能按现代发音拆 loaf + ward。",
+    "history": [
+      [
+        "古英语 hlāf 面包 + weard 守护者 → hlāfweard、hlāford",
+        "掌管食物、家产的人；主人称谓"
+      ],
+      [
+        "中古英语 loverd、lord → lord",
+        "主人、领主；贵族称谓与宗教用法"
+      ]
+    ],
+    "explanation": "a feudal lord 封建领主，Lord 某某 可作贵族称谓，the Lord 宗教中的主；lord it over someone 对某人摆威风。",
+    "usage": "a feudal lord；the Lord；lord it over；Lord of the manor。",
+    "contrast": "lord 是身份、称谓或比喻权力，landlord 房东、地主已有精讲；不是任何管理者都可直接正式称 Lord。",
+    "examples": [
+      [
+        "The castle belonged to a local lord.",
+        "城堡属于一位当地领主。"
+      ],
+      [
+        "She disliked the way he lorded it over younger colleagues.",
+        "她不喜欢他对年轻同事摆威风的样子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lord#English"
+    ]
+  },
+  {
+    "word": "lordship",
+    "ipa": "英 /ˈlɔːdʃɪp/；美 /ˈlɔːrdʃɪp/",
+    "meaning": "领主身份、权力；对贵族等的尊称",
+    "sense": "谈的是 lord 所具有的地位或统治权；Your Lordship 则是特定正式称呼。",
+    "split": "lord + -ship，后缀表示身份、权力等。相应称谓用法有自己的礼仪传统，不把 -ship 解释成贵族的船。",
+    "history": [
+      [
+        "古英语 hlāf 面包 + weard 守护者 → hlāfweard、hlāford",
+        "掌管食物、家产的人；主人称谓"
+      ],
+      [
+        "中古英语 loverd、lord → lord",
+        "主人、领主；贵族称谓与宗教用法"
+      ],
+      [
+        "lord + -ship → lordship",
+        "领主身份 → 统治权、正式尊称"
+      ]
+    ],
+    "explanation": "Your Lordship 阁下类尊称，His Lordship 某贵族阁下；lordship over territory 对地区的领主权。",
+    "usage": "Your Lordship；His Lordship；lordship over。",
+    "contrast": "lordship 是地位、称谓，不是通常对任何上级的称呼；现实称谓按具体身份、场合。",
+    "examples": [
+      [
+        "The letter was addressed to His Lordship.",
+        "信是写给那位贵族阁下的。"
+      ],
+      [
+        "The family claimed lordship over the surrounding land.",
+        "家族声称拥有周围土地的领主权。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lordship#English"
+    ]
+  },
+  {
+    "word": "overlord",
+    "ipa": "英 /ˈəʊvəlɔːd/；美 /ˈoʊvərlɔːrd/",
+    "meaning": "最高领主；霸主、支配者",
+    "sense": "普通领主上面还有一个更高层的控制者，over 表上一级、支配。",
+    "split": "over- 在上、居上级 + lord，历史封建层级名，再扩展为掌控某领域的人或机构。",
+    "history": [
+      [
+        "古英语 hlāf 面包 + weard 守护者 → hlāfweard、hlāford",
+        "掌管食物、家产的人；主人称谓"
+      ],
+      [
+        "中古英语 loverd、lord → lord",
+        "主人、领主；贵族称谓与宗教用法"
+      ],
+      [
+        "over- + lord → overlord",
+        "领主之上的支配者 → 最高领主、霸主"
+      ]
+    ],
+    "explanation": "a feudal overlord 封建最高领主，corporate overlords 企业霸主；比喻往往带批评强势控制的语气。",
+    "usage": "a feudal overlord；corporate overlords；a powerful overlord。",
+    "contrast": "overlord 不是仅指上了年纪的领主；over 主要说层级和支配关系。",
+    "examples": [
+      [
+        "The smaller rulers owed loyalty to an overlord.",
+        "较小的统治者需要向一位最高领主效忠。"
+      ],
+      [
+        "The article mocked the company’s corporate overlords.",
+        "文章讥讽了公司那些高高在上的掌控者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overlord#English"
+    ]
+  },
+  {
+    "word": "lordly",
+    "ipa": "英 /ˈlɔːdli/；美 /ˈlɔːrdli/",
+    "meaning": "贵族般威严的；高傲、摆架子的",
+    "sense": "姿态像高高在上的主人；可以是宏伟气派，也可能让人觉得傲慢。",
+    "split": "lord + -ly，形成像领主的形容词。后缀是形容词用法，不应一律当副词。",
+    "history": [
+      [
+        "古英语 hlāf 面包 + weard 守护者 → hlāfweard、hlāford",
+        "掌管食物、家产的人；主人称谓"
+      ],
+      [
+        "中古英语 loverd、lord → lord",
+        "主人、领主；贵族称谓与宗教用法"
+      ],
+      [
+        "lord + -ly → lordly",
+        "像领主的 → 气派、傲慢的"
+      ]
+    ],
+    "explanation": "a lordly manner 高傲姿态，a lordly mansion 宏伟宅邸；语境决定赞气派还是批架子。",
+    "usage": "a lordly manner；a lordly mansion；a lordly gesture。",
+    "contrast": "lordly 常带姿态评价，lordship 是身份权力；不能把形容词当作贵族身份凭证。",
+    "examples": [
+      [
+        "He waved us away with a lordly gesture.",
+        "他摆出高高在上的姿态，挥手让我们走开。"
+      ],
+      [
+        "A lordly mansion stood above the village.",
+        "一座气派的大宅立在村庄高处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lordly#English"
+    ]
+  },
+  {
+    "word": "unpaid",
+    "ipa": "/ʌnˈpeɪd/",
+    "meaning": "未支付的；无报酬的",
+    "sense": "一条是该付的钱还没付，另一条是这项工作本来就不发报酬。",
+    "split": "un- 未、不 + paid，paid 是 pay 的过去分词。unpaid bill 与 unpaid work 对应不同欠缺关系，不全部解释成拖欠工资。",
+    "history": [
+      [
+        "拉丁 pacare 使平息、满足 → 法语 paier → 英语 pay",
+        "满足义务 → 支付"
+      ],
+      [
+        "现代 pay—paid—paid",
+        "付款、给薪 → 已付、未付与报酬不足"
+      ],
+      [
+        "un- + paid → unpaid",
+        "未获支付；无报酬"
+      ]
+    ],
+    "explanation": "an unpaid bill 未付账单，unpaid work 无偿工作，unpaid leave 无薪假。",
+    "usage": "an unpaid bill；unpaid work；unpaid leave。",
+    "contrast": "unpaid 尚未支付或不付薪，underpaid 报酬不足；paid 不写 payed 来表达通常付款义。",
+    "examples": [
+      [
+        "There are two unpaid bills on the desk.",
+        "桌上有两张未付账单。"
+      ],
+      [
+        "She took a week of unpaid leave.",
+        "她休了一周无薪假。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpaid#English"
+    ]
+  },
+  {
+    "word": "underpaid",
+    "ipa": "英 /ˌʌndəˈpeɪd/；美 /ˌʌndərˈpeɪd/",
+    "meaning": "报酬过低的；支付不足的",
+    "sense": "钱可能已经给了，但比应有、应付或合理水平少一截。",
+    "split": "under- 低于应有程度 + paid，对应 underpay 的分词、形容词。具体比较标准由合同、行业或说话者判断给出。",
+    "history": [
+      [
+        "拉丁 pacare 使平息、满足 → 法语 paier → 英语 pay",
+        "满足义务 → 支付"
+      ],
+      [
+        "现代 pay—paid—paid",
+        "付款、给薪 → 已付、未付与报酬不足"
+      ],
+      [
+        "under- + paid → underpaid",
+        "支付不足 → 报酬过低"
+      ]
+    ],
+    "explanation": "overworked and underpaid 工作过多、报酬过低，underpaid staff 低报酬员工；不自动等于完全没领到钱。",
+    "usage": "underpaid staff；overworked and underpaid；feel underpaid。",
+    "contrast": "unpaid 无报酬、未付，underpaid 少付；overpaid 则是报酬过高的另一方向。",
+    "examples": [
+      [
+        "Many staff felt overworked and underpaid.",
+        "许多员工觉得工作过量、报酬过低。"
+      ],
+      [
+        "The audit found that some workers had been underpaid.",
+        "审计发现部分员工的报酬支付不足。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underpaid#English"
+    ]
+  },
+  {
+    "word": "poor",
+    "ipa": "英 /pɔː/，亦 /pʊə/；美 /pʊr/、/pɔr/",
+    "meaning": "贫穷的；差的；缺乏的；可怜的",
+    "sense": "先想缺钱、缺资源，再扩展成质量、表现不够好；poor child 也可能是心疼孩子，并非判断家里穷。",
+    "split": "经法语来自拉丁 pauper 贫乏，与 pauper 贫民同源异形。现代每条常用义要按名词和语气选择。",
+    "history": [
+      [
+        "拉丁 pauper → 法语 povre、poure → 中古英语 poor",
+        "贫乏、贫困"
+      ],
+      [
+        "现代 poor",
+        "缺钱、缺资源 → 品质差；也表示同情"
+      ]
+    ],
+    "explanation": "poor families 贫困家庭，poor quality 质量差，poor in nutrients 营养不足；You poor thing 表同情。",
+    "usage": "poor quality；a poor result；poor in；the poor。",
+    "contrast": "poor 经济贫困与 poor performance 表现差不同；the poor 泛指贫困者，不能只按单个形容词加一个人名义。",
+    "examples": [
+      [
+        "The picture is clear, but the sound quality is poor.",
+        "画面清楚，但音质差。"
+      ],
+      [
+        "The charity supports families in poor communities.",
+        "慈善组织支持贫困社区里的家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poor#English"
+    ]
+  },
+  {
+    "word": "poorly",
+    "ipa": "英 /ˈpɔːli/；美 /ˈpʊrli/、/ˈpɔrli/",
+    "meaning": "差地；不足地；英式也作身体不舒服的",
+    "sense": "工作做得不好用副词 poorly；英国日常 She is poorly 还可能只是她不舒服。",
+    "split": "poor + -ly，历史有相应副词，现代也有不舒服的形容词用法。-ly 不保证每次都是副词。",
+    "history": [
+      [
+        "拉丁 pauper → 法语 povre、poure → 中古英语 poor",
+        "贫乏、贫困"
+      ],
+      [
+        "现代 poor",
+        "缺钱、缺资源 → 品质差；也表示同情"
+      ],
+      [
+        "poor + -ly → poorly",
+        "以差、不足的方式；另有身体不适义"
+      ]
+    ],
+    "explanation": "poorly written 写得差，poorly paid 报酬低；feel poorly 感觉不舒服。",
+    "usage": "poorly written；poorly understood；poorly paid；feel poorly。",
+    "contrast": "a poor result 形容词修饰名词，performed poorly 副词修饰动词；She is poorly 则是特定形容词用法。",
+    "examples": [
+      [
+        "The instructions were poorly written.",
+        "说明写得很差。"
+      ],
+      [
+        "He stayed home because he was feeling poorly.",
+        "他因为身体不舒服留在家里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poorly#English"
+    ]
+  },
+  {
+    "word": "poorhouse",
+    "ipa": "英 /ˈpɔːhaʊs/；美 /ˈpʊrhaʊs/",
+    "meaning": "旧时济贫院；破产境地的比喻",
+    "sense": "历史上安置、救济贫困者的机构，不只是屋主收入低的一所房子。",
+    "split": "poor 贫困者 + house 机构建筑，形成历史机构名。现代 in the poorhouse 常夸张说穷到破产。",
+    "history": [
+      [
+        "拉丁 pauper → 法语 povre、poure → 中古英语 poor",
+        "贫乏、贫困"
+      ],
+      [
+        "现代 poor",
+        "缺钱、缺资源 → 品质差；也表示同情"
+      ],
+      [
+        "poor + house → poorhouse",
+        "收容贫困者的机构 → 济贫院"
+      ]
+    ],
+    "explanation": "a former poorhouse 旧济贫院，end up in the poorhouse 沦落到一无所有；现代制度名称按实际国家另看。",
+    "usage": "a former poorhouse；the local poorhouse；end up in the poorhouse。",
+    "contrast": "poorhouse 特定历史机构，a poor family’s house 只是贫困家庭的房子；一词和短语不能等同。",
+    "examples": [
+      [
+        "The old poorhouse has been converted into a museum.",
+        "旧济贫院改成了博物馆。"
+      ],
+      [
+        "He joked that the repairs would put him in the poorhouse.",
+        "他开玩笑说，维修费会让他倾家荡产。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poorhouse#English"
+    ]
+  },
+  {
+    "word": "footballer",
+    "ipa": "英 /ˈfʊtbɔːlə/；美 /ˈfʊtbɔːlər/",
+    "meaning": "足球运动员；相应 football 运动的球员",
+    "sense": "参与 football 的人，英国语境通常指足球运动员；其他地区先看 football 指哪种球类。",
+    "split": "football + -er，按运动名称形成球员名。不能因为后缀相同就把所有地区的 footballer 都画成同一种球员。",
+    "history": [
+      [
+        "foot + ball → football",
+        "以足部踢球为核心命名的球类词"
+      ],
+      [
+        "现代不同地区的 football",
+        "具体运动按地区判断；球员、活动继续派生"
+      ],
+      [
+        "football + -er → footballer",
+        "参加该球类运动的人"
+      ]
+    ],
+    "explanation": "a professional footballer 职业足球运动员，a retired footballer 退役球员；足球语境也可说 football player。",
+    "usage": "a professional footballer；a young footballer；a retired footballer。",
+    "contrast": "footballer 是人，football 是运动或球；在英国先理解足球，在美国 football 常指美式橄榄球。",
+    "examples": [
+      [
+        "She hopes to become a professional footballer.",
+        "她希望成为职业足球运动员。"
+      ],
+      [
+        "The retired footballer now coaches a local team.",
+        "那位退役足球运动员如今执教本地球队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footballer#English"
+    ]
+  },
+  {
+    "word": "footballing",
+    "ipa": "英 /ˈfʊtbɔːlɪŋ/；美 /ˈfʊtbɔːlɪŋ/",
+    "meaning": "足球方面的；与踢球有关的",
+    "sense": "常把能力、经历、事业限定到足球这一领域，是体育报道常见修饰语。",
+    "split": "football + -ing，形成运动相关活动或形容词表达。footballing ability 不是正在变成一个球。",
+    "history": [
+      [
+        "foot + ball → football",
+        "以足部踢球为核心命名的球类词"
+      ],
+      [
+        "现代不同地区的 football",
+        "具体运动按地区判断；球员、活动继续派生"
+      ],
+      [
+        "football + -ing → footballing",
+        "从事足球活动 → 足球方面的"
+      ]
+    ],
+    "explanation": "footballing skills 足球技术，a footballing career 足球生涯，a footballing nation 足球国家。",
+    "usage": "footballing skills；footballing ability；a footballing career。",
+    "contrast": "footballer 球员，footballing 常修饰能力等名词；不是在句子里直接互换人和性质。",
+    "examples": [
+      [
+        "His footballing ability was obvious from an early age.",
+        "他很小就显露出足球天赋。"
+      ],
+      [
+        "She began her footballing career at a local club.",
+        "她在本地俱乐部开始足球生涯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footballing#English"
+    ]
+  }
+]

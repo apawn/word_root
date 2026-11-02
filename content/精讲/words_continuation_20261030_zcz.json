@@ -1,0 +1,650 @@
+[
+  {
+    "word": "sweaters",
+    "ipa": "英 /ˈswetəz/；美 /ˈswetərz/",
+    "meaning": "毛衣、针织套衫〔复数〕",
+    "sense": "一件件穿在上身的毛衣、针织套衫，就是 sweaters。先认具体衣物，再回头看它与 sweat 出汗的历史联系。",
+    "split": "sweater 是 sweat 加完整 -er 的构形；早期可指使人出汗的人或物，后来用于运动时帮助出汗的衣物，再扩大为日常针织上衣。现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "sweat + -er → sweater",
+        "出汗、使出汗的相关人或物 → 衣物名称"
+      ],
+      [
+        "sweater + -s → sweaters",
+        "多件毛衣、针织套衫"
+      ]
+    ],
+    "explanation": "wool sweaters 羊毛毛衣；warm sweaters 保暖毛衣。",
+    "usage": "fold the sweaters 叠毛衣；sweaters on a shelf 架子上的毛衣。",
+    "contrast": "这里的 -er 构成物名，不能一见 -er 就只译成人。现代 sweaters 已是普通服饰名称，不要求穿的人正在出汗。",
+    "examples": [
+      [
+        "She folded the sweaters and put them away.",
+        "她把毛衣叠好收了起来。"
+      ],
+      [
+        "The children wore warm sweaters on the walk.",
+        "孩子们散步时穿着保暖毛衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sweaters#English",
+      "https://en.wiktionary.org/wiki/sweater#English"
+    ]
+  },
+  {
+    "word": "slippers",
+    "ipa": "英 /ˈslɪpəz/；美 /ˈslɪpərz/",
+    "meaning": "拖鞋、室内便鞋〔复数〕",
+    "sense": "脚轻松套进去、在室内穿的便鞋，可以叫 slippers。抓住脚滑进去的动作，就能连上 slip。",
+    "split": "slipper 在中古英语已有，接 slip 滑入与完整 -er 的物名构形；现代可对应 slip 双写 p 加 -er，再加复数 -s，尾 /z/。",
+    "history": [
+      [
+        "slip + -er → slipper",
+        "脚容易套进去的便鞋"
+      ],
+      [
+        "slipper + -s → slippers",
+        "多只、成双的室内便鞋"
+      ]
+    ],
+    "explanation": "a pair of slippers 一双室内便鞋；put on slippers 穿上拖鞋。",
+    "usage": "soft slippers 软便鞋；slippers beside the bed 床边的拖鞋。",
+    "contrast": "slippers 不一定露脚后跟，也可以是包住脚的室内软鞋。一双用 a pair of slippers，单只可说 a slipper。",
+    "examples": [
+      [
+        "He left his slippers beside the bed.",
+        "他把室内便鞋放在床边。"
+      ],
+      [
+        "She bought a pair of soft slippers.",
+        "她买了一双柔软的室内便鞋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slippers#English",
+      "https://en.wiktionary.org/wiki/slipper#English"
+    ]
+  },
+  {
+    "word": "hoods",
+    "ipa": "/hʊdz/",
+    "meaning": "帽兜、罩盖；汽车发动机盖〔美式，复数〕",
+    "sense": "盖在头上、机器上方的一层罩子，是理解 hoods 的共同画面：罩住、遮盖。",
+    "split": "hood 继承古英语 hōd 帽、头部覆盖物，后来名称扩大到各种罩盖。现代加 -s，/d/ 后读 /z/；也可为动词第三人称单数。",
+    "history": [
+      [
+        "古英语 hōd → hood",
+        "头部覆盖物、帽兜"
+      ],
+      [
+        "hood 的罩盖引申 + -s → hoods",
+        "多个帽兜、罩盖，或罩住的动作"
+      ]
+    ],
+    "explanation": "raincoat hoods 雨衣帽兜；car hoods 汽车发动机盖〔美式〕。",
+    "usage": "put their hoods up 把帽兜戴起来；hoods over the equipment 设备上方的罩盖。",
+    "contrast": "美式 car hood 对应常见英式 bonnet。childhood 的 -hood 来自另一种历史材料，不要与帽兜混拆。",
+    "examples": [
+      [
+        "The children pulled their hoods up in the rain.",
+        "孩子们在雨里把帽兜戴了起来。"
+      ],
+      [
+        "The mechanic opened the hoods of both cars.",
+        "修理工把两辆车的发动机盖都打开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hoods#English",
+      "https://en.wiktionary.org/wiki/hood#English"
+    ]
+  },
+  {
+    "word": "cuffs",
+    "ipa": "/kʌfs/",
+    "meaning": "袖口、裤脚翻边；手铐〔复数〕；拍击〔动词第三人称单数〕",
+    "sense": "袖子末端围着手腕的一圈是 cuffs；手铐也围住手腕，所以日常会把 handcuffs 缩成 cuffs。",
+    "split": "衣物 cuff 经中古英语 cuffe、coffe 手套等发展，远源未定；手铐义相关。拍击义 cuff 可能接另一条北欧语言路线。现代两种整词都加 -s，尾 /s/。",
+    "history": [
+      [
+        "中古英语 cuffe、coffe → cuff",
+        "手部衣物 → 袖口；后来相关手铐名称"
+      ],
+      [
+        "cuff + -s → cuffs",
+        "复数；拍击动词属于需另辨的历史支"
+      ]
+    ],
+    "explanation": "shirt cuffs 衬衫袖口；rolled cuffs 卷起的袖口、裤脚翻边；in cuffs 戴着手铐。",
+    "usage": "button the cuffs 扣上袖口；loose cuffs 宽松袖口。",
+    "contrast": "不能把所有 cuff 都讲成袖口演变。拍击动词的来源另有分析；学常用名词先抓手腕附近那一圈。",
+    "examples": [
+      [
+        "The cuffs of his shirt were wet.",
+        "他的衬衫袖口湿了。"
+      ],
+      [
+        "The detective carried a set of cuffs.",
+        "侦探带着一副手铐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cuffs#English",
+      "https://en.wiktionary.org/wiki/cuff#English"
+    ]
+  },
+  {
+    "word": "zippers",
+    "ipa": "英 /ˈzɪpəz/；美 /ˈzɪpərz/",
+    "meaning": "拉链〔复数，常见美式〕",
+    "sense": "一拉就快速合拢的一排链齿，就是 zippers。zip 的短促声响、快速动作，适合帮助记这个装置名。",
+    "split": "zip 是拟声、快速动作材料，双写 p 加完整 -er 成 zipper。Zipper 曾作采用这种闭合装置的产品名称，后来通用于拉链；现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "zip + -er → zipper；早期产品名称的推广",
+        "快速拉合的闭合装置名称"
+      ],
+      [
+        "zipper + -s → zippers",
+        "多个拉链"
+      ]
+    ],
+    "explanation": "jacket zippers 夹克拉链；broken zippers 坏拉链。",
+    "usage": "replace the zippers 换拉链；metal zippers 金属拉链。",
+    "contrast": "美式常用 zipper，英式常用 zip 指拉链。历史上的产品命名与今天的普通装置名称分开理解即可。",
+    "examples": [
+      [
+        "The tailor replaced the broken zippers.",
+        "裁缝换掉了坏拉链。"
+      ],
+      [
+        "Both bags have strong metal zippers.",
+        "两个包都有结实的金属拉链。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zippers#English",
+      "https://en.wiktionary.org/wiki/zipper#English"
+    ]
+  },
+  {
+    "word": "laces",
+    "ipa": "/ˈleɪsɪz/",
+    "meaning": "鞋带、系带〔复数〕；系带、掺入〔动词第三人称单数〕",
+    "sense": "穿过一排孔、把鞋口拉拢的细带，是 laces。系紧和交织的画面，也能帮助理解 lace 的花边、掺入等方向。",
+    "split": "lace 经古法语 las、laz 接拉丁 laqueus 套索、圈套，发展为系带和交织花边。现代加 -s，原词尾 /s/ 后增加 /ɪz/。",
+    "history": [
+      [
+        "拉丁 laqueus → 古法语 las、laz → lace",
+        "套索、圈套 → 系带、交织物"
+      ],
+      [
+        "lace + -s → laces",
+        "多根系带；某人系带或掺入内容"
+      ]
+    ],
+    "explanation": "tie your laces 系鞋带；laces her shoes 给鞋系带；laces a speech with jokes 在讲话里穿插笑话。",
+    "usage": "loose laces 松开的鞋带；a pair of laces 一副鞋带。",
+    "contrast": "lace 作花边材料常不可数，laces 作普通复数时常指一根根带子。动词具体是在系带还是掺入，靠后面的对象判断。",
+    "examples": [
+      [
+        "Your laces are coming undone.",
+        "你的鞋带要散开了。"
+      ],
+      [
+        "She laces her shoes before the walk.",
+        "她散步前把鞋带系好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laces#English",
+      "https://en.wiktionary.org/wiki/lace#English"
+    ]
+  },
+  {
+    "word": "aprons",
+    "ipa": "/ˈeɪprənz/",
+    "meaning": "围裙〔复数〕",
+    "sense": "做饭、做手工时挡在衣服前面的围裙，是 aprons。这个词还有一个好记的历史：词首 n 曾被听到前面的冠词里去了。",
+    "split": "古法语 naperon 接 nappe 布，较远接拉丁 mappa；中古英语有 napron。a napron 被重新分成 an apron，形成今天 apron；现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "拉丁 mappa → 法语 nappe、naperon → 英语 napron",
+        "布、小桌布等 → 围裙名称"
+      ],
+      [
+        "a napron → an apron；apron + -s → aprons",
+        "说话边界重新划分；复数围裙"
+      ]
+    ],
+    "explanation": "kitchen aprons 厨房围裙；wear aprons 戴围裙。",
+    "usage": "clean aprons 干净围裙；tie their aprons 系上围裙。",
+    "contrast": "是旧词与冠词的边界发生变化，不是现代词根 a- 加 pron。掌握 a napron → an apron 这条文字线就很直观。",
+    "examples": [
+      [
+        "The cooks put on clean aprons.",
+        "厨师们穿上干净围裙。"
+      ],
+      [
+        "Two aprons hung beside the kitchen door.",
+        "厨房门旁挂着两条围裙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aprons#English",
+      "https://en.wiktionary.org/wiki/apron#English"
+    ]
+  },
+  {
+    "word": "gowns",
+    "ipa": "/ɡaʊnz/",
+    "meaning": "长袍、礼服；毕业袍、病号服等〔复数〕",
+    "sense": "从肩膀垂下、覆盖身体较长一段的袍服，是 gowns 的入口。场合变了，它可以是礼服、毕业袍，也可以是病号服。",
+    "split": "gown 经古法语、盎格鲁法语 goune 接晚期拉丁 gunna 皮、毛制衣物，远源未定。现代意义扩大，不限那种材料；加 -s，尾 /z/。",
+    "history": [
+      [
+        "晚期拉丁 gunna → 法语 goune → gown",
+        "旧衣物名 → 长袍、礼服等"
+      ],
+      [
+        "gown + -s → gowns",
+        "多件、不同用途的袍服"
+      ]
+    ],
+    "explanation": "evening gowns 晚礼服；graduation gowns 毕业袍；hospital gowns 病号服。",
+    "usage": "long gowns 长袍；wear gowns 穿袍服。",
+    "contrast": "gowns 的具体样子要看场合，不能看到 gown 就一律译成晚礼服。旧词源里的毛皮材料也不规定现代布料。",
+    "examples": [
+      [
+        "The graduates wore dark gowns.",
+        "毕业生穿着深色毕业袍。"
+      ],
+      [
+        "The shop displayed several evening gowns.",
+        "店里陈列着几件晚礼服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gowns#English",
+      "https://en.wiktionary.org/wiki/gown#English"
+    ]
+  },
+  {
+    "word": "fabrics",
+    "ipa": "/ˈfæbrɪks/",
+    "meaning": "布料、织物〔多种或多块〕；结构〔复数，视语境〕",
+    "sense": "挑窗帘时摆在面前的几种布料，是 fabrics。它更早的词义范围却是人做成的东西、结构，再发展到织成的布。",
+    "split": "fabric 经法语 fabrique 接拉丁 fabrica 作坊、手艺、作品、结构，来自 faber 工匠。英语的布料义后起；现代加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 faber → fabrica → 法语、英语 fabric",
+        "工匠 → 制作、作品、结构"
+      ],
+      [
+        "fabric 的布料义；fabric + -s → fabrics",
+        "织物；多种或多块布料"
+      ]
+    ],
+    "explanation": "cotton fabrics 棉织物；different fabrics 不同布料；soft fabrics 柔软面料。",
+    "usage": "compare fabrics 比较面料；fabrics for curtains 做窗帘的布。",
+    "contrast": "fabric 可用不可数形式说材料；fabrics 常比较种类、样品。the fabric of society 指社会各部分连成的结构，通常用单数。",
+    "examples": [
+      [
+        "She compared the fabrics before choosing the curtains.",
+        "她比较了布料后才选窗帘。"
+      ],
+      [
+        "The shop sells cotton and linen fabrics.",
+        "店里卖棉织物和亚麻织物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fabrics#English",
+      "https://en.wiktionary.org/wiki/fabric#English"
+    ]
+  },
+  {
+    "word": "threads",
+    "ipa": "/θredz/",
+    "meaning": "线；讨论串、思路线索；螺纹、线程〔复数〕；穿过、穿针〔动词第三人称单数〕",
+    "sense": "一根线把东西串起来；一串回复把讨论接起来。这个连续、可接续的画面，能把 threads 的常见意思连住。",
+    "split": "thread 继承古英语 þrǣd，与纺、捻线的老材料有关。后来把线的细长、连续结构用到螺纹、故事、讨论、计算机执行流程；现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "古英语 þrǣd → thread",
+        "纺成的细线"
+      ],
+      [
+        "线的形态、连续性引申；thread + -s → threads",
+        "多根线、讨论串、螺纹或线程；穿线动作"
+      ]
+    ],
+    "explanation": "loose threads 松脱的线头；discussion threads 讨论串；threads a needle 穿针。",
+    "usage": "follow several threads 同时跟几条思路、讨论；cotton threads 棉线。",
+    "contrast": "计算机 thread 是可独立安排执行的一条流程；讨论 thread 是同一话题下接续的一串内容。它们借的是线索画面，具体对象不同。",
+    "examples": [
+      [
+        "Loose threads hung from the sleeve.",
+        "袖子上垂着松脱的线头。"
+      ],
+      [
+        "She followed two discussion threads about the book.",
+        "她跟进了两条讨论那本书的帖子串。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/threads#English",
+      "https://en.wiktionary.org/wiki/thread#English"
+    ]
+  },
+  {
+    "word": "needles",
+    "ipa": "/ˈniːdəlz/",
+    "meaning": "针、针状物；指针〔复数〕；不断挖苦、刺激〔动词第三人称单数〕",
+    "sense": "细、尖、能刺入的缝针，是 needles 的核心画面。松针、仪表指针借了相似形态；挖苦人则像用小针一下下刺。",
+    "split": "needle 继承古英语 nædl，属于古老的缝、纺相关词族。现代整词加 -s，/l/ 后读 /z/；名词还转成用针、用话刺人的动作。",
+    "history": [
+      [
+        "古英语 nædl → needle",
+        "缝针；后来各种针形物"
+      ],
+      [
+        "needle + -s → needles；名词转动词",
+        "多根针；某人反复挖苦、刺激"
+      ]
+    ],
+    "explanation": "sewing needles 缝衣针；pine needles 松针；needles someone about something 拿某事不断挖苦某人。",
+    "usage": "knitting needles 编织针；the needles on the dial 表盘上的指针。",
+    "contrast": "现在不必把 needle 末尾的 -le 硬拆成一个仍在起作用的后缀。先把整个针的名称认稳，再看形状和刺痛感的引申。",
+    "examples": [
+      [
+        "She kept the needles in a small box.",
+        "她把针放在小盒子里。"
+      ],
+      [
+        "He needles his brother about the lost game.",
+        "他拿输掉那场比赛的事不断挖苦弟弟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/needles#English",
+      "https://en.wiktionary.org/wiki/needle#English"
+    ]
+  },
+  {
+    "word": "pins",
+    "ipa": "/pɪnz/",
+    "meaning": "别针、小钉；固定、钉住、置顶〔动词第三人称单数〕",
+    "sense": "把一根小尖物插进去，让东西待在原处，就是 pins 的共同画面。屏幕上把重要内容固定在前面，也沿用 pin。",
+    "split": "pin 经古英语 pinn 延续，常追溯拉丁 pinna 尖头、突出物的一支，细节有讨论。名词转为固定动作；现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "古英语 pinn 等 → pin",
+        "钉、销、别针等小尖物"
+      ],
+      [
+        "pin 转为固定动作；pin + -s → pins",
+        "多根别针、小钉；某人固定、置顶"
+      ]
+    ],
+    "explanation": "safety pins 安全别针；pins a note to the board 把便条钉在板上。",
+    "usage": "drawing pins 图钉〔英式〕；pins the message 把消息置顶〔电子界面比喻〕。",
+    "contrast": "大写 PIN 表示密码时是首字母缩略语，和小钉的这条历史另算。普通 pins 则可为名词复数或动词单数形式。",
+    "examples": [
+      [
+        "She kept spare pins in the sewing box.",
+        "她在针线盒里放着备用别针。"
+      ],
+      [
+        "He pins the note to the board.",
+        "他把便条钉在板上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pins#English",
+      "https://en.wiktionary.org/wiki/pin#English"
+    ]
+  },
+  {
+    "word": "hoodies",
+    "ipa": "/ˈhʊdiz/",
+    "meaning": "连帽上衣、连帽卫衣〔复数〕",
+    "sense": "上衣带着一个帽兜，便能按这个显眼特征叫 hoodie。多件就是 hoodies。",
+    "split": "hood 帽兜加熟称、小称 -ie 成 hoodie，用局部特征命名整件衣物。现代 hoodie 保留词尾 -ie，直接加 -s；/i/ 后接 /z/，整体 /ˈhʊdiz/。",
+    "history": [
+      [
+        "hood + -ie → hoodie",
+        "有帽兜特征的上衣"
+      ],
+      [
+        "hoodie + -s → hoodies",
+        "多件连帽上衣"
+      ]
+    ],
+    "explanation": "cotton hoodies 棉质连帽上衣；zip hoodies 带拉链的连帽上衣。",
+    "usage": "warm hoodies 保暖连帽上衣；hoodies on the rack 挂架上的连帽上衣。",
+    "contrast": "hoodies 常指连帽卫衣类服装，具体是否有拉链、厚薄如何，要看修饰语。-ie 在这里有日常熟称色彩。",
+    "examples": [
+      [
+        "The students wore matching hoodies.",
+        "学生们穿着同款连帽上衣。"
+      ],
+      [
+        "Two hoodies hung beside the coats.",
+        "大衣旁挂着两件连帽上衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hoodies#English",
+      "https://en.wiktionary.org/wiki/hoodie#English"
+    ]
+  },
+  {
+    "word": "beanies",
+    "ipa": "/ˈbiːniz/",
+    "meaning": "贴头便帽、毛线帽〔复数〕",
+    "sense": "贴着头戴的小帽子，可以叫 beanies。想起 bean 在俚语里能指头，再加小称，就能记住这个帽名。",
+    "split": "beanie 接 bean 头的俚语义与 -ie 小称。现代在完整 beanie 后加 -s，复数尾 /z/ 接在 /i/ 后，整体 /ˈbiːniz/。",
+    "history": [
+      [
+        "bean 的头部俚语 + -ie → beanie",
+        "戴在头上的小便帽"
+      ],
+      [
+        "beanie + -s → beanies",
+        "多顶贴头帽、毛线帽"
+      ]
+    ],
+    "explanation": "wool beanies 羊毛便帽；knitted beanies 针织帽。",
+    "usage": "wear beanies 戴便帽；colourful beanies 彩色便帽。",
+    "contrast": "现代 beanies 很常见的是针织毛线帽，但这个名称并不把所有历史款式都限定成同一种材料。",
+    "examples": [
+      [
+        "They wore wool beanies in the cold wind.",
+        "他们在冷风里戴着羊毛便帽。"
+      ],
+      [
+        "The shop displayed colourful beanies by the door.",
+        "店门旁陈列着彩色便帽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beanies#English",
+      "https://en.wiktionary.org/wiki/beanie#English"
+    ]
+  },
+  {
+    "word": "sweatshirts",
+    "ipa": "英 /ˈswetʃɜːts/；美 /ˈswetʃɜːrts/",
+    "meaning": "运动衫、卫衣〔复数〕",
+    "sense": "运动、休闲时穿的较厚上衣，是 sweatshirts。运动出汗的使用背景进入名字，后来就成为普通服饰名称。",
+    "split": "sweat 汗、出汗 + shirt 上衣、衬衫 → sweatshirt；现代把整个复合词加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "sweat + shirt → sweatshirt",
+        "与运动出汗相关的上衣名称"
+      ],
+      [
+        "sweatshirt + -s → sweatshirts",
+        "多件运动衫、卫衣"
+      ]
+    ],
+    "explanation": "cotton sweatshirts 棉质卫衣；plain sweatshirts 素色卫衣。",
+    "usage": "wear sweatshirts 穿卫衣；fold the sweatshirts 叠运动衫。",
+    "contrast": "hoodie 突出有帽兜，sweatshirt 突出这种运动、休闲上衣；两类可重叠。sweatshirts 不要求每件都有帽兜。",
+    "examples": [
+      [
+        "The team ordered matching sweatshirts.",
+        "球队订了同款运动衫。"
+      ],
+      [
+        "She folded the sweatshirts after washing them.",
+        "她把洗好的卫衣叠起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sweatshirts#English",
+      "https://en.wiktionary.org/wiki/sweatshirt#English"
+    ]
+  },
+  {
+    "word": "bra",
+    "ipa": "/brɑː/",
+    "meaning": "胸罩、文胸",
+    "sense": "日常说一件文胸，最常直接说 bra。它是长词缩短留下来的短称，不能再按三个字母硬拆意思。",
+    "split": "英语 brassiere 缩短为 bra。全称借法语 brassière，较早接 braciere 护臂等衣物名，bras 手臂，较远接拉丁 bracchium、希腊 brakhion。旧衣物名称的指称后来发生变化。",
+    "history": [
+      [
+        "法语 brassière → 英语 brassiere",
+        "衣物名称的借入；更早有手臂、上身衣物背景"
+      ],
+      [
+        "brassiere 缩短 → bra",
+        "现代常用短称：文胸"
+      ]
+    ],
+    "explanation": "a sports bra 运动文胸；a cotton bra 棉质文胸。",
+    "usage": "a comfortable bra 舒适的文胸；bra size 文胸尺码。",
+    "contrast": "学习时先认常用短称 bra，再认全称 brassiere；历史方向却是全称先、短称后。古代护臂名称不能直接当作现代文胸的构造解释。",
+    "examples": [
+      [
+        "She bought a sports bra for running.",
+        "她买了一件跑步用的运动文胸。"
+      ],
+      [
+        "The shop had the bra in several sizes.",
+        "店里那款文胸有几个尺码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bra#English",
+      "https://www.etymonline.com/word/bra",
+      "https://www.etymonline.com/word/brassiere"
+    ]
+  },
+  {
+    "word": "bras",
+    "ipa": "/brɑːz/",
+    "meaning": "胸罩、文胸〔复数〕",
+    "sense": "多件文胸，就是 bras。短称 bra 已经作为完整名词使用，所以复数直接按英语规则加 -s。",
+    "split": "brassiere 借法语衣物名 brassière，英语再截短成 bra，现代加复数 -s；元音 /ɑː/ 后读 /z/。",
+    "history": [
+      [
+        "法语 brassière → 英语 brassiere → bra",
+        "全称借入，再缩成日常短称"
+      ],
+      [
+        "bra + -s → bras",
+        "多件文胸"
+      ]
+    ],
+    "explanation": "sports bras 运动文胸；cotton bras 棉质文胸。",
+    "usage": "different sizes of bras 不同尺码的文胸；pack the bras 把文胸装好。",
+    "contrast": "英语 bras 是 bra 的复数。词源里的法语 bras 手臂只是写法碰巧相同，不能把英语的这个复数解释成手臂。",
+    "examples": [
+      [
+        "The store sells sports bras in several colours.",
+        "店里卖几种颜色的运动文胸。"
+      ],
+      [
+        "She packed two bras for the trip.",
+        "她为旅行装好了两件文胸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bras#English",
+      "https://en.wiktionary.org/wiki/bra#English"
+    ]
+  },
+  {
+    "word": "brassiere",
+    "ipa": "英 /ˈbræzi.eə/；美 /brəˈzɪər/",
+    "meaning": "胸罩、文胸〔bra 的全称，较正式〕",
+    "sense": "brassiere 和日常的 bra 指同类衣物，只是全称更长、更正式。先用熟悉的 bra 作入口，就容易认它。",
+    "split": "借法语 brassière，上身衣物、肩带等用法接古法语 braciere 护臂，来自 bras 手臂，较远接拉丁 bracchium、希腊 brakhion。英语后来将 brassiere 缩成 bra。",
+    "history": [
+      [
+        "希腊 brakhion → 拉丁 bracchium → 法语 bras、braciere、brassière",
+        "手臂材料进入护臂、上身衣物名称"
+      ],
+      [
+        "法语 brassière → 英语 brassiere → 短称 bra",
+        "现代文胸全称及日常短称"
+      ]
+    ],
+    "explanation": "a brassiere 文胸；a brassiere label 文胸标签。",
+    "usage": "the word brassiere 单词 brassiere；bra is short for brassiere bra 是 brassiere 的短称。",
+    "contrast": "英语通常不保留法语的重音符号。现代日常更多用 bra；brassiere 的拼写和重音按借入后的整词学习。",
+    "examples": [
+      [
+        "The label used the word brassiere.",
+        "标签上用了 brassiere 这个词。"
+      ],
+      [
+        "Bra is a shortened form of brassiere.",
+        "bra 是 brassiere 的缩短形式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brassiere#English",
+      "https://www.etymonline.com/word/brassiere"
+    ]
+  },
+  {
+    "word": "jeans",
+    "ipa": "/dʒiːnz/",
+    "meaning": "牛仔裤〔通常用复数〕",
+    "sense": "腿上穿的牛仔裤，日常叫 jeans。一条也说 a pair of jeans；把两条裤腿连成一件服装的名称，仍沿用复数形式。",
+    "split": "jean 原是耐用斜纹棉布名，接 jean fustian 的缩短；jean 对应中古英语 Gene 热那亚地名。地名、布料名也有 Genes、Jeans 等带 s 形式；用到裤子后，末尾 s 被重新理解为复数，现代 jeans 固定沿用复数。",
+    "history": [
+      [
+        "热那亚地名 Gene → jean fustian、jean",
+        "产地相关名称 → 布料名称"
+      ],
+      [
+        "布料名 jean → 服装复数 jeans",
+        "由布到裤子；旧名称的 s 被重新理解为复数"
+      ]
+    ],
+    "explanation": "a pair of jeans 一条牛仔裤；blue jeans 蓝色牛仔裤；jeans and a shirt 牛仔裤配衬衫。",
+    "usage": "wear jeans 穿牛仔裤；These jeans are… 这条牛仔裤……〔配复数动词〕。",
+    "contrast": "数条数用 one pair、two pairs；直接说 jeans 时通常接 are。词源中的单数 jean 布料名可以了解，日常买一条裤子仍优先说 a pair of jeans。",
+    "examples": [
+      [
+        "These jeans are too long for me.",
+        "这条牛仔裤对我来说太长了。"
+      ],
+      [
+        "He bought a new pair of jeans.",
+        "他买了一条新牛仔裤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jeans#English",
+      "https://www.merriam-webster.com/dictionary/jean",
+      "https://www.merriam-webster.com/dictionary/jeans"
+    ]
+  }
+]

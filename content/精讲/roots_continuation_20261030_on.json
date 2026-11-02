@@ -1,0 +1,243 @@
+[
+  {
+    "id": "A1706",
+    "meaning": "酮类化学命名材料及其历史类比，不等于数字一",
+    "core": "-ONE：认出化学命名，别凭词尾猜用途",
+    "image": "acetone 先学简单酮名；progesterone、naloxone 认专门物质；silicone 记历史类比与现代结构不同。",
+    "intro": "同一个化学词尾可以出现在溶剂、激素、药物名里，性质、用途不能互相套。silicone 还提醒我们，历史命名并不总是现代结构的完美说明。",
+    "forms": "酮名的 -one 推广为化学词尾；progesterone 接孕育材料；naloxone 压缩结构成分；silicone 原有酮类比，现代指硅氧骨架聚合物系列。",
+    "branches": [
+      [
+        "简单化学名与专门物质名",
+        "acetone · progesterone · naloxone"
+      ],
+      [
+        "历史类比名",
+        "silicone"
+      ]
+    ],
+    "contrasts": "megaphone 的末尾实际是 -phone 声音，不能拆为这个 -one；silicone 不等于 silicon 元素硅，也不按旧名当普通酮。",
+    "practice": "The glossary lists acetone, progesterone and naloxone as different chemical substances.\n\n术语表把丙酮、孕酮和纳洛酮列为不同化学物质。",
+    "words": [
+      "acetone",
+      "progesterone",
+      "naloxone",
+      "silicone"
+    ],
+    "exclude": {
+      "megaphone": "接 -phone 声音材料，不是化学 -one。",
+      "oxycodone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydrocodone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spironolactone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dione": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "arachidonic": "相应脂肪酸形容词含 -ic 等构形，不作 -one 的直接词尾实例。"
+    }
+  },
+  {
+    "id": "B3660",
+    "meaning": "瘟疫、祸害的旧材料转为有害生物与烦扰者",
+    "core": "PEST：对当前对象有害、添麻烦的东西",
+    "image": "pest → pesticide，先对象，再控制相应有害生物的制剂名。",
+    "intro": "有害生物不限昆虫，烦人者也只是比喻。理解命名中谁对谁造成影响，比把 pest 背成一个虫字更准确。",
+    "forms": "pestis → peste → pest；pest + -icide 杀灭材料 → pesticide。",
+    "branches": [
+      [
+        "有害对象与相关制剂",
+        "pest · pesticide"
+      ]
+    ],
+    "contrasts": "不是所有昆虫都是 pest；pesticide 的范围比一般杀虫剂中文印象更广。",
+    "practice": "The guide identifies common pests before discussing pesticides.\n\n指南先辨认常见有害生物，再讨论农药。",
+    "words": [
+      "pest",
+      "pesticide"
+    ],
+    "exclude": {
+      "pest-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2254",
+    "meaning": "朝某处前往与受限制是两条 bound，复合词需分源",
+    "core": "-BOUND：要么正朝那去，要么被困在这儿",
+    "image": "southbound 等看行进方向；snowbound 看受困；homebound、earthbound 可能两义。",
+    "intro": "同样 bound，南行列车不是被南方绑住，困在家也不是正坐车回家。先看整个句子的行进、受限场景，再决定哪条来源。",
+    "forms": "前往的 bound 接古诺尔斯准备、启程材料；受束缚的 bound 是 bind 的旧分词。方位、home、earth、snow 等分别限定。",
+    "branches": [
+      [
+        "行进方向",
+        "southbound · northbound · eastbound · westbound"
+      ],
+      [
+        "受限或方向，按语境区分",
+        "snowbound · homebound · earthbound"
+      ]
+    ],
+    "contrasts": "homebound 可说归家途中，也可说难以外出；earthbound 可地面受限，也可朝地球前进；不能合成一条被绑所以回去的故事。",
+    "practice": "The southbound train carried homebound passengers through the snowbound countryside.\n\n南行列车载着归家乘客，穿过被大雪围困的乡野。",
+    "words": [
+      "southbound",
+      "northbound",
+      "eastbound",
+      "westbound",
+      "snowbound",
+      "homebound",
+      "earthbound"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4343",
+    "meaning": "活动状态被否定，再分闲置与使失活过程",
+    "core": "INACTIVE：眼下没有活动、起作用，不必永远坏掉",
+    "image": "inactive → inactivity；inactivate → inactivation，状态与造成状态的动作分开。",
+    "intro": "账号、设备、物质、人物可以在各自语境中不活跃。词先说状态，原因与是否能恢复由上下文决定。",
+    "forms": "in- 否定 + active；-ity 状态；-ate 使进入状态；-ation 动作、过程。",
+    "branches": [
+      [
+        "不活跃性质及状态",
+        "inactive · inactivity"
+      ],
+      [
+        "使不活跃的动作和过程",
+        "inactivate · inactivation"
+      ]
+    ],
+    "contrasts": "inactive 不等于所有东西 permanently broken 永久损坏；inactivity 是状态，inactivation 强调使成该状态的过程。",
+    "practice": "The account remained inactive after its inactivation.\n\n账号停用后一直处于不活跃状态。",
+    "words": [
+      "inactive",
+      "inactivity",
+      "inactivate",
+      "inactivation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4009",
+    "meaning": "打破、断开动作形成的人或物，复合词限定对象",
+    "core": "BREAKER：它打破什么，名字就从那里来",
+    "image": "breaker → icebreaker、tiebreaker；heartbreaker、windbreaker、jawbreaker 各看不同画面。",
+    "intro": "-er 不只造人。断路器断开电路，碎浪拍碎，破冰船破冰；社交破冰、打破平局再把动作借到抽象局面。",
+    "forms": "break + -er；ice 冰；tie 平局；heart 心；wind 风；jaw 颌。这些复合词里破坏、阻断、打破的强弱各不同。\n\n波浪翻碎和电路断开是不同 break 场景的命名。",
+    "branches": [
+      [
+        "基本人或物与破局功能",
+        "breaker · icebreaker · tiebreaker"
+      ],
+      [
+        "情感、衣物与夸张命名",
+        "heartbreaker · windbreaker · jawbreaker"
+      ],
+      [
+        "breaker → breakers：固定名词的复数",
+        "breaker · breakers"
+      ]
+    ],
+    "contrasts": "windbreaker 是挡风外套，不是毁坏风；jawbreaker 可大硬糖或难念词，属于夸张命名，不能按字面断言一定断颌。",
+    "practice": "The icebreaker question became a tiebreaker in the game.\n\n那个破冰问题在游戏里成了决胜题。",
+    "words": [
+      "breaker",
+      "icebreaker",
+      "tiebreaker",
+      "heartbreaker",
+      "windbreaker",
+      "jawbreaker",
+      "breakers"
+    ],
+    "exclude": {
+      "ball-breaker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3483",
+    "meaning": "学生俚语的旧标签，转为专门爱好和文化认同",
+    "core": "NERD：对某件事研究很深、喜欢很浓",
+    "image": "nerd → nerdy，人物标签与兴趣、风格性质。",
+    "intro": "读出语气比只背书呆子更有用。嘲笑和自我认领都存在；历史来源未定，不编成某个缩写或唯一作者造词。",
+    "forms": "二十世纪中叶美国俚语 nerd，早期词形有不同线索；+ -y → nerdy。",
+    "branches": [
+      [
+        "爱好者称呼与相关风格",
+        "nerd · nerdy"
+      ]
+    ],
+    "contrasts": "nerd 不保证内向、聪明或社交差；nerdy 的具体褒贬由说话者关系与情景决定。",
+    "practice": "As a language nerd, she enjoys nerdy conversations about word origins.\n\n作为语言迷，她很喜欢钻研词源的极客式讨论。",
+    "words": [
+      "nerd",
+      "nerdy"
+    ],
+    "exclude": {
+      "nerd-snipe": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3817",
+    "meaning": "蟹名与酸苹果旧词分支，坏脾气评价有交汇",
+    "core": "CRAB：动物名先认实物，crabby 再看语气",
+    "image": "crab → crabby；动物、食物与抱怨分开使用。",
+    "intro": "螃蟹、野酸苹果是不同历史线，人物坏脾气用法在相关评价词中交汇。抓“烦躁、爱挑毛病”的感觉即可，不硬编成蟹钳夹痛人的唯一词源。",
+    "forms": "crabba → crab；另有野酸苹果 crab；双写 b 接 -y → crabby；crabbed 等影响人物评价。\n\n蟹名接古英语 crabba，常联系抓挠、爬动词族；crab 抱怨的评价用法与 crabbed 等有历史关系，酸苹果另支也有影响。新词条分开例示蟹名复数与抱怨动词。",
+    "branches": [
+      [
+        "动物、食物、抱怨与相应性质",
+        "crab · crabby"
+      ],
+      [
+        "crab → crabs：蟹的复数；抱怨动词的第三人称",
+        "crabs"
+      ]
+    ],
+    "contrasts": "crabby 是口语心情评价，不是疾病名；crab 通名与严格动物分类范围也未必相同。",
+    "practice": "He was crabby and kept crabbing about the delay.\n\n他心情烦躁，不停抱怨延误。",
+    "words": [
+      "crab",
+      "crabby",
+      "crabs"
+    ],
+    "exclude": {
+      "she-crab": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3940",
+    "meaning": "古老人名、相对矮小与比较效果，医学状况另分",
+    "core": "DWARF：尺寸比旁边小，动词则让别人显小",
+    "image": "dwarf → dwarfism；奇幻人物、矮生植物、天体名与真人状况按语境辨认。",
+    "intro": "最有用的对照是小本身和使旁边显小。医学状况涉及具体原因，不从神话人物推定现实身体特点。",
+    "forms": "dweorg → 中古英语相关形式 → dwarf；-ism 状况；dwarfs 常用普通复数，dwarves 常见奇幻。\n\n两种名词复数都有词典记录，dwarves 尤其常见于奇幻文学；dwarfs 还可说使某物相形见小。\n\n与 dwarf 比较传说形象，不从 dwarf 派生。gnome 经法语接近代拉丁 gnomus，曾用于地之精灵；可能有希腊居于地下的构词背景但不确定，现代常见花园装饰小矮人。",
+    "branches": [
+      [
+        "小型、人物与比较动作",
+        "dwarf"
+      ],
+      [
+        "生长相关状况名",
+        "dwarfism"
+      ],
+      [
+        "dwarf → dwarfs／dwarves：两种名词复数与动词",
+        "dwarf · dwarfs · dwarves"
+      ],
+      [
+        "gnome：与 dwarf 比较的民间小精灵名",
+        "gnome · gnomes"
+      ]
+    ],
+    "contrasts": "dwarf 作比较动词不表示真的缩小；dwarfism 不是所有个子较矮的同义词，也不是思想主义。",
+    "practice": "The tall building dwarfs the dwarf trees beside it.\n\n高楼衬得旁边的矮生树更小了。",
+    "words": [
+      "dwarf",
+      "dwarfism",
+      "dwarfs",
+      "dwarves",
+      "gnome",
+      "gnomes"
+    ],
+    "exclude": {
+      "dwarf-holder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dwarven": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

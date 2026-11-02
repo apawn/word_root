@@ -1,0 +1,167 @@
+[
+  {
+    "id": "B2445",
+    "meaning": "秋季及其性质、晚期比喻",
+    "core": "AUTUMN：季节名；AUTUMNAL 描写秋季性质",
+    "image": "autumn → 对应形容词 autumnal，后者本身借自拉丁相关形容词。",
+    "intro": "形容词不是只多了字母，读音也变：autumn 的 n 静音，autumnal 的 n 读出，重音向后。",
+    "forms": "autumnus → 法语相关形式 → autumn；autumnālis → autumnal；现代对应 -al 性质。",
+    "branches": [
+      [
+        "季节与性质",
+        "autumn · autumnal"
+      ]
+    ],
+    "contrasts": "autumn 与 fall 都可说秋天；不要把月份当全球固定；autumnal 不必总感伤。",
+    "practice": "The autumnal light made the garden especially beautiful that autumn.\n\n那年秋天，秋日的光线让花园格外美丽。",
+    "words": [
+      "autumn",
+      "autumnal"
+    ],
+    "exclude": {
+      "mid-autumn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4221",
+    "meaning": "随手扔、卡盘等同形词，与咯咯声支线分清",
+    "core": "CHUCK：同形不止一条线；CHUCKLE 看声音",
+    "image": "chuck 的常用扔、卡盘、肉名各认语境；chuckle 接拟声支线。",
+    "intro": "不把所有东西画成从扔到笑、从笑到肉的连续故事。真实历史有同形、相邻形式，也有尚未确定的来历。",
+    "forms": "chock 等 → 部分 chuck；拟声 chukken → chuckle，-le 旧动作词尾。\n\nchuck 咯咯声支加旧 le 反复动作材料；现代去 e 加完整 ed、ing。\n\n本次补抛掷动词，较早是 chock 击打变体，可能接法语 choquer；肉块、夹头等同形名词另接木块 chock 材料，不能让所有支都从 chuckle 笑声派生。",
+    "branches": [
+      [
+        "基础同形用法",
+        "chuck"
+      ],
+      [
+        "轻声笑的拟声支线",
+        "chuckle"
+      ],
+      [
+        "chuckle → chuckles、chuckled、chuckling：轻轻笑",
+        "chuckle · chuckles · chuckled · chuckling"
+      ],
+      [
+        "chuck：随手扔、丢掉",
+        "chuck · chucks · chucked · chucking"
+      ]
+    ],
+    "contrasts": "chuck it out 是扔掉；drill chuck 是卡盘；chuckle 是低笑，不是扔笑。",
+    "practice": "He chucked the old joke book on the sofa with a chuckle.\n\n他轻笑着，把旧笑话书随手扔在沙发上。",
+    "words": [
+      "chuck",
+      "chuckle",
+      "chuckles",
+      "chuckled",
+      "chuckling",
+      "chucks",
+      "chucked",
+      "chucking"
+    ],
+    "exclude": {
+      "chucky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3394",
+    "meaning": "狮的动物名、雌性词与勇敢的形象",
+    "core": "LION：动物名也能借出勇猛、威严的形象",
+    "image": "lion → lioness；lion + heart → lionheart。",
+    "intro": "一边是动物性别名称，一边是借形象赞人的文学词。不能把后者当生物分类。",
+    "forms": "leōn、leō → 法语借词线 → lion；-ess 雌性，heart 心、勇气的形象。",
+    "branches": [
+      [
+        "动物名称与性别",
+        "lion · lioness"
+      ],
+      [
+        "人的勇敢比喻",
+        "lionheart"
+      ]
+    ],
+    "contrasts": "lion 可泛称，lioness 专指雌狮；lionheart 是勇敢人物的比喻。",
+    "practice": "The story gives its brave heroine the nickname Lionheart.\n\n故事给勇敢的女主角起了狮心人的外号。",
+    "words": [
+      "lion",
+      "lioness",
+      "lionheart"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4300",
+    "meaning": "由里面向外定位，形成最外层及外衣类别",
+    "core": "OUTER：外部位置；OUTERMOST 到最外，OUTERWEAR 到衣物",
+    "image": "outer → outermost；outer + wear → outerwear。",
+    "intro": "位置比较与衣物分类是两种构词方向。最外层要有相对层次，外衣则是穿着类别。",
+    "forms": "旧外部比较、最高级词形 → outer、outermost；wear 穿着、衣物。",
+    "branches": [
+      [
+        "位置与最外层",
+        "outer · outermost"
+      ],
+      [
+        "衣物类别",
+        "outerwear"
+      ]
+    ],
+    "contrasts": "outermost 强调最外；outerwear 常不可数，不等于单件衣服的可数名。",
+    "practice": "The waterproof coat forms the outermost layer of her outerwear.\n\n防水外套是她外衣中最外面的一层。",
+    "words": [
+      "outer",
+      "outermost",
+      "outerwear"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3666",
+    "meaning": "脸上的表情走向好心情，再到鼓舞、喝彩和愉快性质",
+    "core": "CHEER：从表情到心情，再把积极情绪传给别人",
+    "image": "cheer → cheerful → cheerfully、cheerfulness；cheer → cheery；cheerleader 取鼓劲、加油角色。",
+    "intro": "把欢呼与让心情变好分开，cheer up、cheer on 就容易懂。同一个词族也能形容房间、颜色带来的明快感。",
+    "forms": "cara → 法语 chere 等 → cheer；-ful、-y 性质，-ly 方式，-ness 状态，leader 带领者。\n\n法语面容、表情词到心情、愉快，现代 s 可作喝彩复数、动词或固定感叹。\n\ncheer 经法语接脸、表情材料，积极心情义逐渐占主流；cheery 加 -y，其比较级和副词改 y 为 i。",
+    "branches": [
+      [
+        "基础动作与情绪",
+        "cheer"
+      ],
+      [
+        "性质、方式与状态",
+        "cheerful · cheerfully · cheerfulness · cheery"
+      ],
+      [
+        "带领加油的角色",
+        "cheerleader"
+      ],
+      [
+        "cheer → cheers：愉快、鼓舞与喝彩",
+        "cheer · cheers"
+      ],
+      [
+        "cheer 从表情、心情到鼓励喝彩",
+        "cheer · cheered · cheering · cheery · cheerier · cheeriest · cheerily"
+      ]
+    ],
+    "contrasts": "cheer up 让心情变好，cheer on 鼓劲；cheery 不是 cherry；-fully 的拼写保留两段的 l。",
+    "practice": "The cheerful guide greeted us cheerfully and soon cheered everyone up.\n\n开朗的向导愉快地迎接我们，很快让大家都开心起来。",
+    "words": [
+      "cheer",
+      "cheerful",
+      "cheerfully",
+      "cheerfulness",
+      "cheery",
+      "cheerleader",
+      "cheers",
+      "cheered",
+      "cheering",
+      "cheerier",
+      "cheeriest",
+      "cheerily"
+    ],
+    "exclude": {
+      "cheer-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

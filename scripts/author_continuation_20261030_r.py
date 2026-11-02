@@ -1,0 +1,126 @@
+"""Fish: everyday actions, occupations and familiar animal names."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+FI=[['古英语 fisċ〔名词〕、fiscian〔动词〕','鱼；捕鱼'],['中古英语 fisch → fish','鱼、鱼肉；捕鱼；比喻寻找、探问']]
+def H(f,m):return FI+[[f,m]]
+W('fish','/fɪʃ/','鱼；鱼肉；捕鱼；搜寻、探问',
+ '水里游的是鱼，设法把它钓上来是 fish；伸手翻找，也像把想要的东西捞出来。',
+ '名词和动词分别接古英语 fisċ、fiscian。旧日常命名的 fish 还可以宽指水生动物，因此有些带 fish 的动物名并非现代生物分类中的鱼。',FI,
+ 'go fishing 去钓鱼，fish for keys 翻找钥匙，fish for compliments 故意引别人夸自己。一般说 two fish，fishes 可用于多种鱼等语境。',
+ 'go fishing；a piece of fish；fish for compliments；a fish out of water。',
+ 'fish 作鱼肉通常不可数；a fish 是一条鱼。a fish out of water 比喻身处陌生环境、不自在的人。',
+ ('We saw several fish in the clear water.','我们在清水里看到几条鱼。'),('He fished in his bag for the keys.','他在包里翻找钥匙。'),sources=['https://www.etymonline.com/word/fish','https://en.wiktionary.org/wiki/fish#English'])
+W('fishing','/ˈfɪʃɪŋ/','钓鱼；捕鱼；渔业活动',
+ '把钓、捞、捕这类事情作为一个活动来看；可以休闲，也可以为谋生。',
+ 'fish 动词 + -ing，接中古英语 fischynge 等形式。通常是活动名词，也可出现在进行时中。',H('fish + -ing → fishing','捕鱼、钓鱼这项活动'),
+ 'go fishing 去钓鱼，a fishing rod 钓竿，commercial fishing 商业捕捞，a fishing village 渔村。',
+ 'go fishing；a fishing rod；a fishing boat；commercial fishing。',
+ 'fishing 是真实钓鱼或相应比喻；phishing 网络钓鱼故意改了拼写，指诱骗获取信息，不是普通的鱼类活动。',
+ ('We went fishing by the lake on Saturday.','周六我们去湖边钓鱼了。'),('Fishing is an important source of income for the village.','捕鱼是村庄的重要收入来源。'))
+W('fisher','英 /ˈfɪʃə/；美 /ˈfɪʃər/','捕鱼者；渔民；渔貂〔另源动物名〕',
+ '按工作动作给人命名，就是做捕鱼这件事的人；另有同形的北美动物名。',
+ '捕鱼者接古英语 fisċere，现代可对应 fish + -er。渔貂义另接法语毛皮动物名，后受 fisher 拼写影响，并非把该动物定义成捕鱼的人。',H('古英语 fisċere → fisher','捕鱼、钓鱼的人；另源渔貂名须分开'),
+ 'local fishers 当地渔民，small-scale fishers 小规模渔业从业者。性别不限；动物文献里的 a fisher 要另按渔貂理解。',
+ 'local fishers；commercial fishers；small-scale fishers。',
+ 'fisher 可以性别中性地指人；fisherman 也常见。fisher 与 fishing 一个说主体，一个说活动。',
+ ('Local fishers sell their catch at the morning market.','当地渔民在早市卖捕获的鱼。'),('The meeting included fishers from several coastal villages.','会议有几个沿海村庄的渔民参加。'))
+W('fisherman','英 /ˈfɪʃəmən/；美 /ˈfɪʃərmən/','渔民；钓鱼者',
+ '捕鱼的人，既可职业出海，也可坐河边休闲垂钓。',
+ 'fisher + man，前部已经是捕鱼者，后接人物成分 man。复数 fishermen，读音中末部通常仍弱读 /mən/。',H('fisher + man → fisherman','捕鱼、钓鱼的人'),
+ 'a local fisherman 当地渔民，an amateur fisherman 业余钓鱼者，fishermen at sea 海上渔民。',
+ 'a local fisherman；an amateur fisherman；fishermen at sea。',
+ 'fisherman 传统词形含 man，强调不限定性别可用 fisher 或具体说 fishing workers；不要把复数写成 fishermans。',
+ ('The fisherman repaired his nets before dawn.','渔民在天亮前修补渔网。'),('Two fishermen were sitting quietly by the river.','两个钓鱼者静静坐在河边。'))
+W('fishery','英 /ˈfɪʃəri/；美 /ˈfɪʃəri/','渔业；渔场；相关捕捞、养殖活动',
+ '不只一个人钓鱼，而是某片水域、某种水产背后的一整套生产活动。',
+ 'fish + -ery，-ery 可形成行业、活动或相关场所名词。因此 fishery 既能说某一渔业，也能说渔场。',H('fish + -ery → fishery','捕鱼活动、行业及其场所'),
+ 'a salmon fishery 鲑鱼渔业或渔场，fishery management 渔业管理，fisheries 复数常用于多个渔业、管理领域。',
+ 'a commercial fishery；fishery management；coastal fisheries。',
+ 'fishery 不都等于人工 fish farm 养鱼场；也可包括野生捕捞。fisher 是人，fishery 是活动、行业或场所。',
+ ('The region has a small but valuable salmon fishery.','该地区有一项规模不大但价值可观的鲑鱼渔业。'),('The report examines changes in coastal fisheries.','报告研究沿海渔业的变化。'))
+W('fishmonger','英 /ˈfɪʃmʌŋɡə/；美 /ˈfɪʃmʌŋɡər/','鱼贩；鱼店',
+ '在店里把鱼摆好、处理后卖给顾客的人，英式也可用来指鱼店。',
+ 'fish + monger 商贩，中古英语已有相应组合。monger 是买卖者的旧词，不是 monster 怪物的缩写。',H('fish + monger → fishmonger','卖鱼的人；鱼店'),
+ 'buy fish from the fishmonger 向鱼贩买鱼，at the fishmonger’s 在鱼店。英式这种行业称呼较常见。',
+ 'the local fishmonger；at the fishmonger’s；buy from a fishmonger。',
+ 'fisher、fisherman 侧重捕，fishmonger 侧重卖；同一个经营者可能两样都做。',
+ ('The fishmonger cleaned the fish for us.','鱼贩替我们处理好了鱼。'),('I bought fresh fish at the fishmonger’s this morning.','今天早上我在鱼店买了鲜鱼。'))
+W('fishy','/ˈfɪʃi/','有鱼腥味的；像鱼的；可疑的',
+ '先是闻到鱼味，后来也形容一件事让人觉得不对劲，像闻出了问题。',
+ 'fish + -y，经中古英语同族形容词延续。可疑义是固定比喻；闻出问题是理解用的画面，不当作已确定的每一步历史。',H('fish + -y → fishy','鱼一般的、腥的 → 可疑、令人怀疑'),
+ 'a fishy smell 鱼腥味，Something smells fishy 感觉事情不对劲，a fishy story 可疑说法。',
+ 'a fishy smell；something fishy；a fishy story。',
+ 'fishy 说引起怀疑，不等于已经证实 false 虚假；字面 a fishy smell 也可能只是在厨房。',
+ ('There was a strong fishy smell in the kitchen.','厨房里有很重的鱼腥味。'),('His explanation sounded fishy to me.','他的解释让我觉得可疑。'))
+W('fishbone','英 /ˈfɪʃbəʊn/；美 /ˈfɪʃboʊn/','鱼骨、鱼刺；鱼骨状结构',
+ '一条主脊骨旁分出许多小骨头；这种形状也能拿来整理问题的可能原因。',
+ 'fish + bone 骨头，实物义再扩展到相似形状。fishbone diagram 鱼骨图按外形命名。',H('fish + bone → fishbone','鱼的骨头 → 鱼骨形结构、图示'),
+ 'remove the fishbones 去鱼刺，a fishbone diagram 鱼骨图；图里主线连结果、分支列原因。',
+ 'remove fishbones；a fishbone diagram；a fishbone pattern。',
+ 'fishbone diagram 是整理可能原因的工具，不是画上去就证明因果；fishbone 与具体食用鱼刺的尺寸也无固定限制。',
+ ('She removed the fishbones before serving the meal.','她上菜前剔除了鱼刺。'),('The team used a fishbone diagram to organize possible causes.','团队用鱼骨图整理可能原因。'))
+W('fishtail','/ˈfɪʃteɪl/','鱼尾；鱼尾状物；车辆尾部左右甩动',
+ '鱼尾左右摆；车后部失稳左右甩，也借这个动作来命名。',
+ 'fish + tail 尾巴，中古英语已有实物组合。后来名词、动词都可说尾部左右摇摆，另有鱼尾形发辫等造型。',H('fish + tail → fishtail','鱼尾、鱼尾形 → 车辆尾部左右甩摆'),
+ 'a fishtail braid 鱼尾辫，The car fishtailed 车尾左右甩。车辆用法侧重尾部相对前部的摆动。',
+ 'a fishtail braid；the car fishtailed；a fishtail shape。',
+ 'fishtail 不等于普通转弯 turn；它强调尾部不稳、左右甩动。tail 鱼尾与 tale 故事常同音但拼写不同。',
+ ('The car fishtailed on the icy road.','车在结冰路面上甩尾。'),('She wore her hair in a fishtail braid.','她把头发编成鱼尾辫。'))
+W('catfish','/ˈkætfɪʃ/','鲶鱼；用虚假网络身份欺骗',
+ '鱼嘴边有像猫胡须的触须，是记鲶鱼名的直观画面；网络义则另经影视名称传播。',
+ 'cat + fish，鲶鱼常用胡须般触须解释命名。网络假身份义因2010年纪录片 Catfish 及后续节目而流行；不把影片中的养鱼轶事当确定生产事实。',H('cat + fish → catfish〔鱼名〕；纪录片标题 Catfish → 网络用法','鲶鱼；冒用虚假身份骗取信任'),
+ 'a freshwater catfish 淡水鲶鱼，be catfished 被人用虚假网络身份欺骗；可指交友场景，也不限于骗钱。',
+ 'a freshwater catfish；catch catfish；be catfished online。',
+ '网络 catfish 是身份欺骗，不是所有网络聊天；literal catfish 鱼名可单复同形。',
+ ('The lake is home to several kinds of catfish.','湖里有好几种鲶鱼。'),('She discovered that she had been catfished by someone using stolen photos.','她发现对方盗用照片、冒充身份骗了她。'),sources=['https://www.etymonline.com/word/catfish','https://en.wiktionary.org/wiki/catfish#English'])
+W('swordfish','英 /ˈsɔːdfɪʃ/；美 /ˈsɔːrdfɪʃ/','剑鱼',
+ '前方伸出一根长而扁、像剑的上颌，名字直接抓住这个外形。',
+ 'sword 剑 + fish，接中古英语对应鱼名。sword 里的 w 不发音，组合词里仍不读 w。',H('sword + fish → swordfish','长吻如剑的鱼 → 剑鱼'),
+ 'a swordfish at sea 海里的剑鱼，grilled swordfish 烤剑鱼肉；本页不扩展较冷门的同名技巧。',
+ 'catch swordfish；a large swordfish；grilled swordfish。',
+ 'swordfish 剑鱼与 sawfish 锯鳐不是同一种；比喻形状只抓住命名特征，不代替完整物种识别。',
+ ('A swordfish appeared near the surface of the water.','一条剑鱼出现在水面附近。'),('The menu includes grilled swordfish.','菜单上有烤剑鱼。'))
+W('clownfish','/ˈklaʊnfɪʃ/','小丑鱼',
+ '鲜明色块、条纹让这种鱼很好认，名字把它与小丑般醒目的外观连起来记。',
+ 'clown 小丑 + fish，现代动物俗名。外观画面用于记忆，具体名字不要求每一条都长成同一种配色。',H('clown + fish → clownfish','小丑般醒目外观的鱼类俗名'),
+ 'a clownfish among anemones 海葵间的小丑鱼，an aquarium clownfish 水族箱里的小丑鱼。不同种外观有差异。',
+ 'a clownfish in an aquarium；clownfish and anemones；a pair of clownfish。',
+ 'clownfish 是鱼类名，clown 单独是小丑；电影形象能帮记忆，但不代表全部物种都同色。',
+ ('A pair of clownfish swam among the anemones.','一对小丑鱼在海葵间游动。'),('The children watched a clownfish in the aquarium.','孩子们看着水族箱里的一条小丑鱼。'))
+W('jellyfish','/ˈdʒelifɪʃ/','水母',
+ '半透明、软软的身体像一团果冻，在水里漂动。',
+ 'jelly 果冻状物 + fish，fish 在这种旧俗名里宽指水生动物。现代水母不按生物分类算鱼。',H('jelly + fish → jellyfish','胶冻般的水生动物 → 水母'),
+ 'a jellyfish in the water 水里的水母，a jellyfish bloom 水母大量聚集、增殖的现象；复数常仍写 jellyfish。',
+ 'a jellyfish in the water；a group of jellyfish；a jellyfish bloom。',
+ 'jellyfish 的 fish 不能硬译成真正鱼类；jelly 是外观质感，不表示它是人造果冻。',
+ ('A jellyfish drifted past the glass of the tank.','一只水母从水箱玻璃前漂过。'),('The photograph shows dozens of jellyfish near the surface.','照片里有几十只水母靠近水面。'))
+W('shellfish','/ˈʃelfɪʃ/','贝类、甲壳类水产〔日常和烹饪总称〕',
+ '虾蟹、蛤蜊、贻贝等有壳水产常归在一起说；中文单说贝类有时会漏掉虾蟹。',
+ '古英语已有相应组合，现代对应 shell 壳 + fish 的旧宽泛水生动物义。它不是严格单一的生物分类。',H('shell + fish → shellfish','有壳水生动物的日常、渔业及烹饪名称'),
+ 'fresh shellfish 新鲜带壳水产，shellfish dishes 贝类和甲壳类菜肴；实际范围因餐饮、研究、管理语境而异。',
+ 'fresh shellfish；shellfish dishes；a variety of shellfish。',
+ 'shellfish 不只 shell 贝壳内部那一点，也不只真正鱼类；询问具体食材时把 shrimp、crab、mussels 等说明更清楚。',
+ ('The market sells fresh shellfish, including crabs and mussels.','市场卖新鲜带壳水产，包括蟹和贻贝。'),('The restaurant specializes in shellfish dishes.','餐馆以贝类和甲壳类水产菜肴见长。'))
+W('cuttlefish','/ˈkʌtlfɪʃ/','乌贼；墨鱼',
+ '有腕、有触手、能喷墨的海洋软体动物；名字中的 fish 沿用宽泛水生动物叫法。',
+ 'cuttle + fish；cuttle 本身就是旧乌贼名，上接古英语 cudele，更远来源不完全确定。不是 cut 切 + little 小的缩写。',H('古英语 cudele → cuttle；另接 fish','乌贼旧名加水生动物称呼 → cuttlefish'),
+ 'cuttlefish ink 墨鱼汁，a cuttlefish in an aquarium 水族箱里的乌贼。中文菜名和俗名常交叉，具体物种以语境为准。',
+ 'cuttlefish ink；a cuttlefish in the tank；observe a cuttlefish。',
+ 'cuttlefish 是头足类软体动物，不是真正鱼类；squid 鱿鱼也是头足类，但不是完全相同名称。',
+ ('The cuttlefish changed colour as it moved across the sand.','乌贼在沙地上移动时变了颜色。'),('The pasta was coloured with cuttlefish ink.','意面用墨鱼汁染色。'),sources=['https://www.etymonline.com/word/cuttlefish','https://en.wiktionary.org/wiki/cuttlefish#English'])
+W('silverfish','英 /ˈsɪlvəfɪʃ/；美 /ˈsɪlvərfɪʃ/','衣鱼、蠹鱼〔昆虫〕；某些银色鱼类的俗名',
+ '家里一种细长、银亮、跑得快的小虫，看起来像会在地面游走的小鱼。',
+ 'silver 银色 + fish；早有银色鱼类俗名，后来也用于外观银亮、鱼形的家居昆虫。常见室内语境应理解成衣鱼。',H('silver + fish → silverfish','银色鱼类；又依外观命名衣鱼昆虫'),
+ 'a silverfish in the bathroom 浴室里的衣鱼，silverfish near old books 旧书附近的衣鱼。',
+ 'silverfish in the bathroom；silverfish near books；a small silverfish。',
+ 'silverfish 在室内多指昆虫，jellyfish 是水母；名字的 fish 是俗名，不保证现代分类相同。',
+ ('A silverfish darted behind the bathroom cabinet.','一只衣鱼窜到了浴室柜后面。'),('They found silverfish among the old papers.','他们在旧纸堆里发现了衣鱼。'),sources=['https://www.etymonline.com/word/silverfish','https://en.wiktionary.org/wiki/silverfish#English'])
+R('B2628','鱼、捕鱼及按外形命名的常见动物','FISH：日常俗名比现代鱼类分类更宽','先 fish → fishing、fisher、fisherman、fishery、fishmonger；再看 fishy、鱼骨鱼尾与熟悉动物。',
+ '古英语鱼名和捕鱼动词延续至今。许多复合名沿旧水生动物概念，jellyfish、shellfish、cuttlefish 不是真正鱼类；silverfish 甚至常指昆虫。较冷门鱼名先略。',
+ 'fish + -ing/-er/-ery/-y；fisher + man；fish + monger/bone/tail；cat/sword/clown/jelly/shell/cuttle/silver + fish。',
+ [['基本动作、人员与行业','fish · fishing · fisher · fisherman · fishery · fishmonger'],['性质与结构比喻','fishy · fishbone · fishtail · fisheye · fishnet'],['熟悉的鱼类名','catfish · swordfish · clownfish · goldfish · whitefish'],['带 fish 而不属鱼类的俗名','jellyfish · shellfish · cuttlefish · starfish · silverfish']],
+ 'fish 通常单复同形，鱼肉不可数；fisher 捕、fishmonger 卖；fishy 可疑；动物俗名不等于科学分类。',
+ 'The fisherman sold his fish to the fishmonger before going fishing again.\n\n渔民把鱼卖给鱼贩，又去捕鱼了。',
+ 'fish fishing fisher fisherman fishery fishmonger fishy fishbone fishtail fisheye fishnet catfish swordfish clownfish goldfish whitefish jellyfish shellfish cuttlefish starfish silverfish')
+if __name__=='__main__':save('continuation_20261030_r',ROOTS,WORDS)

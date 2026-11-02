@@ -1,0 +1,116 @@
+[
+  {
+    "id": "A2053",
+    "meaning": "相关行业、技艺、行为、集合或场所",
+    "core": "ERY：把人、物联系成一门活、一种做派、一整类东西或一处地方",
+    "image": "archer 是弓箭手，archery 是射箭术；snob 是势利的人，snobbery 是那种做派；shrub 是一株灌木，shrubbery 是一片灌木。",
+    "intro": "常见 -ery 经中古英语 -erie、法语 -erie 等传入，背后与人物材料 -ier 和名词材料 -ie 的组合有关。英语既有完整借词，也继续用它构词；一些词还能按 -er + -y 的层次理解，不能强行只有一种拆法。",
+    "forms": "bribe + -ery → bribery；archer 的法语词族 → archery；midwife + -ery → midwifery；shrub + -ery → shrubbery。bakery、brewery 等有人物、场所关系；machinery 不是从一个假设的常用 machiner 硬造的。upholstery 和 upholsterer 又早于现代动词 upholster。\n\n拉丁马词族经意大利、法语形成骑士、骑兵及骑行队列。cavalry 接法语 cavalerie 集合、行业名词材料；cavalier 的漫不经心义由较早贵族、洒脱人物评价发展；cavalcade 后有各种行进队列义。\n\ndrapery 经法语 draperie 借入，drape 经 draper，drab 的暗淡色义经同一 drap 布名称支线。几条借入平行，不把 drapery 的历史讲成较晚英语动词现场加 -ery。",
+    "branches": [
+      [
+        "人、活动、行业",
+        "archer · archery；midwife · midwifery；gun · gunnery"
+      ],
+      [
+        "物件、职业与相关制作",
+        "upholster · upholsterer · upholstery；butcher · butchery；crock · crockery"
+      ],
+      [
+        "行为与态度",
+        "bribe · bribery；drudge · drudgery；thief · thievery；snob · snobbery · snobbish；quack · quackery；buffoon · buffoonery；debauchery"
+      ],
+      [
+        "集合与住处",
+        "shrub · shrubbery；nun · nunnery"
+      ],
+      [
+        "既有常用场所和集合",
+        "bakery · brewery · nursery · machinery · jewellery · scenery · pottery"
+      ],
+      [
+        "caballus 马 → cavalier、cavalry、cavalcade",
+        "cavalry · cavalier · cavalcade"
+      ],
+      [
+        "法语 drap 布：drape 垂披、drapery 帷幔；drab 暗淡",
+        "drape · drapery · drab"
+      ]
+    ],
+    "contrasts": "同样 -ery，archery 是技艺、bribery 是行为、shrubbery 是集合、nunnery 是场所；snobbery 与专业知识多少不是一回事；upholstery 的历史先后不能按短词、长词顺序杜撰。",
+    "practice": "The archer left the archery club and walked past the shrubbery to the bakery.\n\n弓箭手离开射箭俱乐部，走过灌木丛，去了面包店。",
+    "words": [
+      "archer",
+      "archery",
+      "midwife",
+      "midwifery",
+      "gun",
+      "gunnery",
+      "upholster",
+      "upholsterer",
+      "upholstery",
+      "butcher",
+      "butchery",
+      "crock",
+      "crockery",
+      "bribe",
+      "bribery",
+      "drudge",
+      "drudgery",
+      "thief",
+      "thievery",
+      "snob",
+      "snobbery",
+      "snobbish",
+      "quack",
+      "quackery",
+      "buffoon",
+      "buffoonery",
+      "debauchery",
+      "shrub",
+      "shrubbery",
+      "nun",
+      "nunnery",
+      "bakery",
+      "brewery",
+      "nursery",
+      "machinery",
+      "jewellery",
+      "scenery",
+      "pottery",
+      "registry",
+      "discovery",
+      "slavery",
+      "mockery",
+      "distillery",
+      "fishery",
+      "forgery",
+      "cookery",
+      "trickery",
+      "flowery",
+      "greenery",
+      "hatchery",
+      "eatery",
+      "creamery",
+      "cannery",
+      "tannery",
+      "perfumery",
+      "tracery",
+      "demagoguery",
+      "cavalry",
+      "cavalier",
+      "cavalcade",
+      "drape",
+      "drapery",
+      "drab"
+    ],
+    "exclude": {
+      "nothing-buttery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deanery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rookery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fakery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thuggery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "witchery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

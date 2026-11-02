@@ -1,0 +1,68 @@
+[
+  {
+    "word": "gymnastic",
+    "ipa": "/dʒɪmˈnæstɪk/",
+    "meaning": "体操的；身体锻炼的",
+    "sense": "让身体练出柔韧、平衡和协调，是 gymnastic 最常见的画面。它是形容词，用来描述训练、动作或相关能力。",
+    "split": "借拉丁 gymnasticus，接希腊 gymnastikos 与锻炼有关的；更早有 gymnazein 锻炼、gymnos 裸露。现代可联系 gymnast + -ic 认形，但英语形容词不是必定先由英语 gymnast 新造。",
+    "history": [
+      [
+        "希腊 gymnos → gymnazein → gymnastikos",
+        "裸露 → 以古希腊训练背景形成锻炼用词"
+      ],
+      [
+        "拉丁 gymnasticus → 英语 gymnastic",
+        "与体操、身体锻炼有关的"
+      ]
+    ],
+    "explanation": "gymnastic exercises 体操练习；gymnastic training 体操训练；gymnastic skills 体操技能。词尾 -ic 在这里帮助识别形容词。",
+    "usage": "a gymnastic routine；gymnastic ability。",
+    "contrast": "gymnast 是人，gymnastic 是形容词，gymnastics 是体操活动名称。gymnastics 虽以 s 结尾，作为学科、运动名称时常按单数整体使用。",
+    "examples": [
+      [
+        "The warm-up includes several simple gymnastic exercises.",
+        "热身包括几个简单的体操练习。"
+      ],
+      [
+        "Her gymnastic training helped her keep her balance.",
+        "体操训练帮助她保持平衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gymnastic#English"
+    ]
+  },
+  {
+    "word": "scholastic",
+    "ipa": "/skəˈlæstɪk/",
+    "meaning": "学校、学业的；经院哲学的；经院哲学家〔名词〕",
+    "sense": "先想到学校里的读书、学习。再到历史语境中，scholastic 又专门关联中世纪学校传统发展出的经院哲学。",
+    "split": "经中古法语 scholastique 借拉丁 scholasticus，接希腊 scholastikos，属于 schole 学习、闲暇词族，与 school 共同远源。不是现代 school 随手换拼写再加 -astic。",
+    "history": [
+      [
+        "希腊 schole → scholastikos → 拉丁 scholasticus",
+        "学习、学问相关；后来有特定学术传统"
+      ],
+      [
+        "中古法语 scholastique → 英语 scholastic",
+        "学校、学业的；经院哲学的；相应学者"
+      ]
+    ],
+    "explanation": "scholastic achievement 学业成绩；scholastic ability 学习能力；scholastic philosophy 经院哲学。名词 a scholastic 在哲学史语境常指经院哲学家。",
+    "usage": "scholastic success；a scholastic tradition。",
+    "contrast": "scholarly 更常强调有学问、学术研究的品质；scholastic 可直接说学业，也可有特定哲学史含义。看到哲学史上下文时，不能只译成学校的。",
+    "examples": [
+      [
+        "The award recognises scholastic achievement and community service.",
+        "这个奖项表彰学业成就和社区服务。"
+      ],
+      [
+        "The chapter introduces several scholastic philosophers.",
+        "这一章介绍了几位经院哲学家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scholastic#English"
+    ]
+  }
+]

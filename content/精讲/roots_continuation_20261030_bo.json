@@ -1,0 +1,89 @@
+[
+  {
+    "id": "B2890",
+    "meaning": "躺、位于与说谎两源；基础和误导表象分支",
+    "core": "LIE：两个旧词合成同一拼写，先分来源再看变形",
+    "image": "lie 基础词明确两套；underlie 接躺、位于；liar、belie 接说谎、欺骗。较少见 lier 暂不列词头。",
+    "intro": "不能画成一个人躺着所以懒得说真话的故事。belie 也需要看主语是证据还是表象，才知道哪里被证明不符、哪里被掩盖。",
+    "forms": "躺 lie—lay—lain；说谎 lie—lied—lied；under- + 位于义 lie；be- + 欺骗义 lie；liar 旧人物词。\n\n躺卧 lie → lay → lain；说谎 lie → lied → lied。两条古英语来源不同，不能共用一套过去式。\n\nlayout 来自使东西就位的 lay 与 out，接古英语 lecgan 的使动放置线；不接说谎的另源 lie。\n\n古英语躺卧词与说谎词不同，现代同形而过去变化各异。\n\n古英语 lecgan 与 lie 躺有旧使动关系；ing 前保留 y。\n\nlay 承古英语 lecgan 放下，远处是 lie 躺词族的使动形式，现代加 -s。与 lie 的过去式 lay 区分，不把今天英语词尾随意替换当作新规则。",
+    "branches": [
+      [
+        "躺、位于与基础",
+        "lie · underlie"
+      ],
+      [
+        "不实话、人物与表象关系",
+        "liar · belie"
+      ],
+      [
+        "lie 的两条来源与两套过去形式",
+        "lie · lay · lain · lied"
+      ],
+      [
+        "layout：由 lay out 摊开、安排而来的布局",
+        "lay · layout"
+      ],
+      [
+        "lie → lies：躺、位于；说谎另源",
+        "lie · lies"
+      ],
+      [
+        "lay → laying：使东西放到某位置",
+        "lay · laying"
+      ],
+      [
+        "lie 躺的历史使动词 → lay → lays",
+        "lays"
+      ]
+    ],
+    "contrasts": "lay 是躺义过去式，也另作放置原形；liar 不拼 lier；belie 的表象可能误导而内在是真的。",
+    "practice": "The calm explanation belied the fear that underlay his decision.\n\n那段平静解释掩盖了决定背后的恐惧。",
+    "words": [
+      "lie",
+      "underlie",
+      "liar",
+      "belie",
+      "lay",
+      "lain",
+      "lied",
+      "layout",
+      "lies",
+      "laying",
+      "lays"
+    ],
+    "exclude": {
+      "lie-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-lie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2512",
+    "meaning": "缺少舒适的旧义到疾病；状态形容词另说明",
+    "core": "DISEASE：旧不适词专门化为疾病，不能只靠字面诊断",
+    "image": "disease → diseased；与刚写的 ill、illness、sick、sickness 参照词性和搭配。",
+    "intro": "经法语借入并发生义项专门化，拆成 dis+ease 是历史线索，不是今天疾病的完整判定标准。",
+    "forms": "法语 des- + aise → disease；disease + -ed。\n\n法语 desaise 的不舒适旧义，后来专门化为疾病。",
+    "branches": [
+      [
+        "疾病与患病状态",
+        "disease · diseased"
+      ],
+      [
+        "disease → diseases：失去安适到疾病",
+        "disease · diseases"
+      ]
+    ],
+    "contrasts": "disease 不自动传染；diseased 形容组织、植物状态；dis-ease 的字面联想不等于所有不适都是疾病。",
+    "practice": "The book contrasts healthy plants with plants affected by disease.\n\n这本书把健康植物与受病害影响的植物作了对照。",
+    "words": [
+      "disease",
+      "diseased",
+      "diseases"
+    ],
+    "exclude": {
+      "disease-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "disease-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

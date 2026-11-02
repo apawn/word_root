@@ -1,0 +1,201 @@
+[
+  {
+    "id": "B4550",
+    "meaning": "皮肤似有东西爬的不适形象，扩展到瘆人感觉与网络故事",
+    "core": "CREEPY：总觉得哪里不对，让人心里发毛",
+    "image": "creepy → creepily、creepiness；creepypasta 接网络复制传播背景。",
+    "intro": "方式、感觉、故事类型分别由词形说明。阴森房间、令人不适的行为都可能 creepy；恐怖故事常故意营造这种不安。",
+    "forms": "creep → creepy；y 改 i + -ly、-ness；creepy + copypasta 拼合。",
+    "branches": [
+      [
+        "性质、方式与感觉",
+        "creepy · creepily · creepiness"
+      ],
+      [
+        "网络恐怖故事名称",
+        "creepypasta"
+      ]
+    ],
+    "contrasts": "creepypasta 不等于已证实的真实事件；creepiness 不限鬼怪。",
+    "practice": "The creepypasta described a creepily quiet house and slowly built a sense of creepiness.\n\n网络怪谈写了一座静得瘆人的房子，慢慢营造出不安感。",
+    "words": [
+      "creepy",
+      "creepily",
+      "creepiness",
+      "creepypasta"
+    ],
+    "exclude": {
+      "creepy-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2047",
+    "meaning": "测量的组合成分，前面决定量什么",
+    "core": "-METRY：不是一堆长词，先读出测量对象",
+    "image": "geometry 量地形、空间；cytometry 量细胞；calorimetry 量热；spectrometry 量谱。",
+    "intro": "前半说明对象，后半说明测量活动或学科。stoichiometry 把测量落到化学成分、反应数量关系；其他词再各有成熟的专业定义。",
+    "forms": "metron → -metria → -metry；前接 geo-、cyto-、calori-、spectro- 等。",
+    "branches": [
+      [
+        "空间、位置与视力测量",
+        "geometry · trigonometry · telemetry · optometry"
+      ],
+      [
+        "光、谱、干涉与热",
+        "photometry · spectrometry · interferometry · calorimetry"
+      ],
+      [
+        "细胞与化学数量关系",
+        "cytometry · stoichiometry"
+      ]
+    ],
+    "contrasts": "-metry 常说活动、方法、学科；calorimetry 量热不只是读温度，stoichiometry 的系数也不是直接质量比。",
+    "practice": "The laboratory combines spectrometry, cytometry and calorimetry to measure different properties.\n\n实验室结合谱测量、细胞测量与量热法，测定不同性质。",
+    "words": [
+      "geometry",
+      "trigonometry",
+      "telemetry",
+      "optometry",
+      "photometry",
+      "spectrometry",
+      "interferometry",
+      "calorimetry",
+      "cytometry",
+      "stoichiometry"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4283",
+    "meaning": "怪异到特别显眼，再用副词描述方式或评注情境",
+    "core": "BIZARRE：离常态很远，让人多看一眼",
+    "image": "bizarre → bizarrely。",
+    "intro": "古怪服装、离奇巧合、反常安排都可描述。词源先掌握法语、意大利语近源，更早的有趣故事不能替代确定证据。",
+    "forms": "bizzarro → bizarre；保留 e + -ly → bizarrely。",
+    "branches": [
+      [
+        "古怪性质与方式",
+        "bizarre · bizarrely"
+      ]
+    ],
+    "contrasts": "bizarre 不等于已证实的超自然现象；词的胡须来源故事也未定。",
+    "practice": "The bizarre building had bizarrely shaped windows.\n\n那栋古怪建筑开着形状离奇的窗户。",
+    "words": [
+      "bizarre",
+      "bizarrely"
+    ],
+    "exclude": {
+      "bizarro": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4215",
+    "meaning": "战争活动的名称，前项说明交战领域",
+    "core": "WARFARE：看作战活动，再看发生在哪个领域",
+    "image": "warfare → cyberwarfare。",
+    "intro": "warfare 描述战争与作战方式，cyber- 把领域限定到数字网络。技术故障是否属于交战行为，仍需要具体事实。",
+    "forms": "war + fare 的历史复合 → warfare；cyber- + warfare → cyberwarfare。",
+    "branches": [
+      [
+        "战争活动与网络领域",
+        "warfare · cyberwarfare"
+      ]
+    ],
+    "contrasts": "cyberwarfare 不等于全部网络安全事件。",
+    "practice": "The book traces changes in warfare, including cyberwarfare.\n\n这本书梳理战争方式的变化，也讨论网络战。",
+    "words": [
+      "warfare",
+      "cyberwarfare"
+    ],
+    "exclude": {
+      "e-warfare": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3406",
+    "meaning": "伸出来承托物品的平板，形成按用途命名的书架",
+    "core": "SHELF：一层能放东西的平板",
+    "image": "shelf → shelves；book + shelf → bookshelf。",
+    "intro": "把整个架子拆成一层层架板，shelf 就有了具体画面；前面加 book，说明这层架板或架子用来放书。",
+    "forms": "scylfe 等旧词 → schelfe → shelf；复数 shelves，book + shelf → bookshelf。\n\nshelves 也是 shelve 的第三人称单数；单个 shelf 常是一层架板，多个层板构成一组架子。\n\n沿 shelf 到 shelves 的既有变化，不推广成所有 f 结尾词的规则。",
+    "branches": [
+      [
+        "架板、用途复合",
+        "shelf · bookshelf"
+      ],
+      [
+        "shelf → shelves：架板的复数与动词搁置",
+        "shelf · shelves"
+      ],
+      [
+        "bookshelf → bookshelves：书架的 f、v 复数变化",
+        "shelf · bookshelf · bookshelves"
+      ]
+    ],
+    "contrasts": "复数 shelves 的 /v/ 要读出来；bookcase 与 shelf 的整体、部件重点不同。",
+    "practice": "The bookshelf has three shelves.\n\n这个书架有三层。",
+    "words": [
+      "shelf",
+      "bookshelf",
+      "shelves",
+      "bookshelves"
+    ],
+    "exclude": {
+      "mid-shelf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2872",
+    "meaning": "实体压磨到重复苦差，工具与材料名称围绕动作展开",
+    "core": "GRIND：一点点磨细、磨去，也能磨耗人的精力",
+    "image": "grind → grinder；grind + stone → grindstone。",
+    "intro": "咖啡豆磨细、刀刃磨利是实体过程；daily grind 与鼻子贴磨石的比喻则描述单调、持续的投入。",
+    "forms": "grindan → grynden → grind；过去、分词 ground；-er 工具、人，stone 磨石。\n\n古英语 grindan 本族动词，ing 直接加，过去 ground 另记。",
+    "branches": [
+      [
+        "研磨动作及工具",
+        "grind · grinder · grindstone"
+      ],
+      [
+        "grind → grinding：压着磨、摩擦到细碎",
+        "grind · grinding"
+      ]
+    ],
+    "contrasts": "ground coffee 是磨好的咖啡；grindstone 的苦干比喻不按字面动作执行。",
+    "practice": "The grinder ground the beans while an old grindstone stood in the workshop.\n\n磨豆机磨着豆子，作坊里还放着一块旧磨石。",
+    "words": [
+      "grind",
+      "grinder",
+      "grindstone",
+      "grinding"
+    ],
+    "exclude": {
+      "grindcore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grindhouse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3071",
+    "meaning": "物理深度小，扩展到思考和感情不深入",
+    "core": "SHALLOW：下探得不深，水与想法都能借这幅画面",
+    "image": "shallow → shallowly、shallowness。",
+    "intro": "水浅、碗浅是形状和空间，分析浅则是批评理解停在表面。副词说动作如何，名词说这种性质。",
+    "forms": "schalowe 与 sceald 等旧词相关 → shallow；-ly 方式，-ness 性质。",
+    "branches": [
+      [
+        "性质、方式与浅度",
+        "shallow · shallowly · shallowness"
+      ]
+    ],
+    "contrasts": "浅不等于窄；shallowly 与 briefly 分别看深度和时间、篇幅。",
+    "practice": "The tree was shallowly rooted because of the soil’s shallowness.\n\n土层浅，树根也扎得浅。",
+    "words": [
+      "shallow",
+      "shallowly",
+      "shallowness"
+    ],
+    "exclude": {
+      "shallow-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

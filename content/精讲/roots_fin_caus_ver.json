@@ -5,7 +5,7 @@
     "core": "FIN = END / LIMIT",
     "image": "一条线：事情到这里结束，范围到这里为止",
     "intro": "**fin- 的核心是一条界线。** 拉丁语 **fīnis** 既是空间的边界，也是事情的终点。于是 final 是到最后，finish 是把事做完，define 是把边界说清。finance 看起来离得很远，背后却连着“把应付的钱结清，让这件事结束”。",
-    "forms": "**fin-、finit- 是同族的不同词形。** fīnis“终点”形成 fīnīre“结束、划界”，其分词 fīnītus 提供 finit-。英语 finite 与 infinite 的发音不完全对应，不要只看字母套读音。finish 的 -ish 来自法语动词词形，不能当作 childish 那种后缀。",
+    "forms": "**fin-、finit- 是同族的不同词形。** fīnis“终点”形成 fīnīre“结束、划界”，其分词 fīnītus 提供 finit-。英语 finite 与 infinite 的发音不完全对应，不要只看字母套读音。finish 的 -ish 来自法语动词词形，不能当作 childish 那种后缀。\n\nfinish 接拉丁 finis 边界、终点词族；finished 分别可说完成的产品、结束工作及处境完了。\n\n边界、界定词族，连接定义与轮廓清晰度。\n\n边界词族扩展为讲清范围、内容和特征。\n\n拉丁终点材料形成形容词，英语名词化后数最终场次、考试。\n\n法语 finiss 形态接拉丁 finis 终点，ish 不同于性质后缀。\n\n古法语 fin 的优质等义常连拉丁 finis、finire，远源具体路径未完全确定；est 最高级。\n\n法语结清、终点的词族到 finance，现代去 e 加 ing。\n\n拉丁 definire 经法语，现代形容词可说决定性质、身份的关键。\n\n结清款项到财务；做到终点到完成。英语不是由 finish 现场造 finance。\n\n拉丁 de- 加强 + finire 划界 → define；单数主语后加 -s，保留 e，读 /z/。把含义、范围画清楚的图景可串起现代用法。\n\nrefine 的 re- 在此可能加强，不必是再做一次；后接旧动词 fine 使精纯。refined 是去 e 加完整 -ed 的过去形式，也可形容精制、文雅、经过打磨。\n\nconfine 的边界、限制词史与拉丁 finis 末端、边界有关；infinity 经法语、拉丁无限名词进入英语，in- 在此是否定。一个设界限，一个说无界限。\n\n罚款 fine 接法语、拉丁结束、结清与付结案款的词义联系；fine 好的、精细的有另一路发展。现代 fines 可数罚款或作处以罚款动词，/nz/。\n\nconfines 的边界名词与 confine 动词来源互有关联；fine 罚款经付款了结事情的词线发展。现代词尾分别 /nz/、/nd/，不能把 fined 套成 fine 好的形容词变化。\n\nfinance 经法语结清债务、支付词族发展，现代 finance 去 e 加完整 -ed，末尾 /st/。资助与融资被动形式常见。",
     "branches": [
       [
         "到达终点",
@@ -30,6 +30,66 @@
       [
         "边界相接",
         "affinity"
+      ],
+      [
+        "finished：走到终点与做完的状态",
+        "finish · finished"
+      ],
+      [
+        "define／definition → definitions：划清词义边界",
+        "definition · definitions"
+      ],
+      [
+        "define → defined：划边界与界定",
+        "define · defined"
+      ],
+      [
+        "final → finals：终点、最后一轮与期末考试",
+        "final · finals"
+      ],
+      [
+        "finish → finishing：做到终点",
+        "finish · finishing"
+      ],
+      [
+        "fine → finest：更精细、更优质到最高级",
+        "fine · finer · finest"
+      ],
+      [
+        "finance → financing：为项目准备资金",
+        "finance · financing"
+      ],
+      [
+        "define → defining：把边界、含义讲清楚",
+        "define · defining"
+      ],
+      [
+        "finis 结束词族两支：finance、finish 及扩展",
+        "finance · finances · finish · finishes"
+      ],
+      [
+        "define → defines：划界到说清意思",
+        "defines"
+      ],
+      [
+        "fine 精纯 → refine → refined",
+        "refined"
+      ],
+      [
+        "边界 → confined；没有边界 → infinity",
+        "confined · infinity"
+      ],
+      [
+        "finis 结束 → fine → fines：罚款",
+        "fines"
+      ],
+      [
+        "fin- 界限、终结：confines 与 fined",
+        "confines · fined"
+      ],
+      [
+        "fin- 结束、结清 → financed",
+        "financed"
       ]
     ],
     "contrasts": "**fine 的不同义项要分开看。** “罚款”有清楚的结清、终结案件的联系；“优质、精细”来自古法语 fin，更深处与 fīnis / fīnīre 的关系常被提出，但具体发展并不完全确定。refine 一支从这个形容词继续发展，不能把推测硬说成定论。\n\n**affinity 的起点是相邻。** 边界挨在一起，后来联系到婚姻亲属、自然联系和亲近感。它不是把 fine 加上一个前缀变成“非常好”。\n\n**finite 不等于少，infinite 也不总是数学概念。** 有限的数量可以大得惊人；日常 infinite patience 则常是夸张地说耐心很足。",
@@ -63,7 +123,26 @@
       "microfinance",
       "definable",
       "finitely",
-      "refiner"
+      "refiner",
+      "finished",
+      "definitions",
+      "defined",
+      "finals",
+      "finishing",
+      "finer",
+      "finest",
+      "financing",
+      "defining",
+      "finances",
+      "finishes",
+      "defines",
+      "refined",
+      "confined",
+      "infinity",
+      "fines",
+      "confines",
+      "fined",
+      "financed"
     ]
   },
   {
@@ -72,7 +151,7 @@
     "core": "CAUS = CAUSE / CASE",
     "image": "追问“为什么”，再走到“凭什么怪他”",
     "intro": "拉丁语 **causa** 同时有“原因、理由”和“案由、诉讼中的事由”等意思。把它想成一个问题：**这件事为什么发生，或者凭什么要把责任归给某人？** cause 一支解释原因，accuse 一支提出指控，excuse 一支把责怪解除。更早的来源并不确定，不强补故事。",
-    "forms": "**caus- 与 -cus- 的联系发生在拉丁语阶段。** causa 在 accūsāre、excūsāre 等复合词中呈现 cūs-。accuse 的 ac- 来自 ad- 的同化；excuse 的 ex- 表示移出、解除。不要归纳成英语单词里的 au 可以任意改成 u。",
+    "forms": "**caus- 与 -cus- 的联系发生在拉丁语阶段。** causa 在 accūsāre、excūsāre 等复合词中呈现 cūs-。accuse 的 ac- 来自 ad- 的同化；excuse 的 ex- 表示移出、解除。不要归纳成英语单词里的 au 可以任意改成 u。\n\ncause 经法语接拉丁 causa 原因、案由等，caused 的词尾读 /d/。\n\n原因、理由、案件的早期分支，与导致某事和支持主张相连。\n\n拉丁原因词经法语借入，现代动词把原因带来的结果说出来。\n\n名词原形 /s/、动词 /z/，复数和三单都增加 /ɪz/ 音节。\n\n动词 /z/ 与名词 /s/ 分开；去 e 接完整 -ed、-ing 的是动词一支。\n\n远接拉丁 ad- 与 causa 诉讼、案件的材料，后有 accusare、accusatio 等；现代 accusation 是指控名词，复数加 -s，词尾 /nz/。\n\naccuse 接法语或拉丁 accusare 追问、责怪、指控，远连 causa 案件、原因词族。现代去 e 加完整 -ing；accuse someone of 是常用结构。",
     "branches": [
       [
         "说明原因",
@@ -97,6 +176,34 @@
       [
         "语法中的特殊历史",
         "accusative"
+      ],
+      [
+        "cause → caused：原因与造成",
+        "cause · caused"
+      ],
+      [
+        "cause → causes：原因、导致与支持的事业",
+        "cause · causes"
+      ],
+      [
+        "cause → caused → causing：原因与使发生",
+        "cause · caused · causing"
+      ],
+      [
+        "excuse → excuses：开脱的理由与原谅动作",
+        "excuse · excuses"
+      ],
+      [
+        "excuse 的解除责怪、免除及常用动词变化",
+        "excuse · excused · excusing"
+      ],
+      [
+        "accuse → accusation → accusations：把指控说成名词",
+        "accusations"
+      ],
+      [
+        "ad- + caus-/cus- 诉讼材料 → accusing",
+        "accusing"
       ]
     ],
     "contrasts": "**原因与借口不一样。** cause 是促成事情的因素；excuse 是用来解释或减轻责怪的理由，有时充分，有时只是推托。\n\n**指控与证实不一样。** accuser 提出 accusation，the accused 受到指控；这些词本身都没有宣布谁已经被证实有罪。\n\n**accusative 不能靠故事硬背。** 它的“宾格”名称牵涉古代语法术语的翻译，不能说“宾格就是被指控的人”。",
@@ -114,7 +221,15 @@
       "causality",
       "causative",
       "accusative",
-      "causally"
+      "causally",
+      "caused",
+      "causes",
+      "causing",
+      "excuses",
+      "excused",
+      "excusing",
+      "accusations",
+      "accusing"
     ]
   },
   {
@@ -123,7 +238,7 @@
     "core": "VER = TRUE",
     "image": "“这是真的”——可以强调、核实，也可以只是像真",
     "intro": "拉丁语 **vērus** 就是“真的、真实的”。这一族最值得抓住三个区别：**verify 是查明真假，aver 是声称属实，verisimilitude 是让人觉得像真的。** 常见的 very 也从“真实、确实”发展出了“很、非常”的加强语气用法。",
-    "forms": "**ver-、veri-、verac- 是相关词形。** vēritās 给出“真实、真理”这一名词支线；vērāx 及词干 vērāc- 表示“真实、说真话的”；vērī 是词形变化后的“真实的”。verdict 的后半连着“说”，verify 的 -fy 连着“做、使”。这里只把有历史关系的词放在一起，不凭开头三个字母认亲。",
+    "forms": "**ver-、veri-、verac- 是相关词形。** vēritās 给出“真实、真理”这一名词支线；vērāx 及词干 vērāc- 表示“真实、说真话的”；vērī 是词形变化后的“真实的”。verdict 的后半连着“说”，verify 的 -fy 连着“做、使”。这里只把有历史关系的词放在一起，不凭开头三个字母认亲。\n\n拉丁 verus、verificare 经法语传入，现代改 y 为 i 加完整 ed。",
     "branches": [
       [
         "把语气说满",
@@ -144,6 +259,10 @@
       [
         "看起来像真的",
         "verisimilitude · verisimilar"
+      ],
+      [
+        "verify → verified：拿证据核对，确认真实",
+        "verify · verified"
       ]
     ],
     "contrasts": "**veritable 与 verifiable**：a veritable library 是“简直是一座图书馆”；verifiable information 是“有办法核实的信息”。\n\n**veracious 与 verisimilar**：前者重在“符合事实”，后者重在“显得真实”。虚构人物可以 verisimilar，却不能因此把其经历当作真实记录。\n\n**very 不只有“非常”。** the very person 是“正是那个人”；这种强调更容易让你看到它与“确实、真实”的联系。",
@@ -158,7 +277,8 @@
       "aver",
       "verisimilitude",
       "veracious",
-      "verisimilar"
+      "verisimilar",
+      "verified"
     ]
   }
 ]

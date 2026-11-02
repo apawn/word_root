@@ -1,0 +1,148 @@
+[
+  {
+    "id": "B3322",
+    "meaning": "从可辨认的印记到一贯特点，前后缀调整表达角度",
+    "core": "CHARACTERISTIC：看见这个特点，就觉得很像它",
+    "image": "characteristic → characteristically；uncharacteristic 一反常态。",
+    "intro": "典型鸟叫、个人惯有回复方式、偶尔反常表现都围绕同一个参照：平时是什么样。特征不必独一无二，也能帮助识别。",
+    "forms": "kharakter 标记 → character；characteristic 对应 -istic；-ally 方式，un- 否定。\n\ncharacter 与 istic 的构成对应希腊模型，英语名词、形容词很早均有。",
+    "branches": [
+      [
+        "特征、典型方式与反常性质",
+        "characteristic · characteristically · uncharacteristic"
+      ],
+      [
+        "characteristic → characteristics：能认出它的特征",
+        "characteristic · characteristics"
+      ]
+    ],
+    "contrasts": "典型不等于唯一；uncharacteristic 要有平时作风作为参照。",
+    "practice": "Her characteristically calm response made yesterday’s outburst seem uncharacteristic.\n\n她一贯平静的回应，让昨天的发火显得格外反常。",
+    "words": [
+      "characteristic",
+      "characteristically",
+      "uncharacteristic",
+      "characteristics"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3180",
+    "meaning": "工具起作用的形象，乐器只是其中一个具体分支",
+    "core": "INSTRUMENTAL：能成为手段，也能说乐器演奏",
+    "image": "instrumental → instrumentally、instrumentality；instrumentalist 看演奏者或思想支持者。",
+    "intro": "音乐与目的手段两条语境交叉出现在派生词里。要先看演奏、价值、机构等对象，再给人物、方式、性质名词选义。",
+    "forms": "instrumentum → instrument → instrumental；-ist 人，-ly 方式，-ity 性质及具体执行者。",
+    "branches": [
+      [
+        "性质、方式与手段作用",
+        "instrumental · instrumentally · instrumentality"
+      ],
+      [
+        "演奏或思想人物",
+        "instrumentalist"
+      ]
+    ],
+    "contrasts": "instrumentality 较正式；instrumentalist 音乐义与哲学义各看领域。",
+    "practice": "The instrumentalist performed the song instrumentally.\n\n器乐演奏者用乐器演奏了这首歌。",
+    "words": [
+      "instrumental",
+      "instrumentally",
+      "instrumentality",
+      "instrumentalist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4094",
+    "meaning": "烤肉厚片的旧名，食材与餐馆由前后项限定",
+    "core": "STEAK：先想厚切一块，再问是什么食材",
+    "image": "steak → beefsteak、cheesesteak、steakhouse。",
+    "intro": "普通 steak 常默认牛排，但鱼排与植物厚片都可带具体前项。餐馆名看 house，用牛肉片、奶酪组成的三明治名看 cheesesteak 的整体食物习惯。",
+    "forms": "steik → steike → steak；beef、cheese、house 形成复合，具体菜名按整体理解。",
+    "branches": [
+      [
+        "厚切食物与复合名称",
+        "steak · beefsteak · cheesesteak · steakhouse"
+      ]
+    ],
+    "contrasts": "ea 读 /eɪ/；cheesesteak 是特定三明治名称，不是把奶酪随便切一块。",
+    "practice": "The steakhouse served both beefsteaks and tuna steaks.\n\n牛排餐厅既供应牛排，也供应金枪鱼排。",
+    "words": [
+      "steak",
+      "beefsteak",
+      "cheesesteak",
+      "steakhouse"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4005",
+    "meaning": "交付、照管与小桶舀水，常用义按具体路径理解",
+    "core": "BAIL：担保获释是一幅画，舀水脱困是另一幅画",
+    "image": "bail 先掌握 on bail、bail out、bail water 三类常见搭配。",
+    "intro": "法律名词与舀水动词的近源各有背景。帮人脱困、临时退出等口语再按完整短语理解，不凭相同拼写压成一个中文词。",
+    "forms": "baiulare → baillier → bail 法律义；baille 小桶 → bail 舀水；bail out 后有离开、脱困等用法。",
+    "branches": [
+      [
+        "常用多义词与搭配",
+        "bail"
+      ]
+    ],
+    "contrasts": "on bail 说保释状态，bail water 说舀水；bail 与 bale 一捆同音但词义不同。",
+    "practice": "They tried to bail water out before the boat filled.\n\n他们试着在船灌满之前把水舀出去。",
+    "words": [
+      "bail"
+    ],
+    "exclude": {
+      "bail-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bailee": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4142",
+    "meaning": "保存这一过程，加前项说明采用低温方式",
+    "core": "PRESERVATION：让东西保存下来，cryo- 指明冷的手段",
+    "image": "preservation → cryopreservation。",
+    "intro": "一般保存可用于食品、文物、自然环境；前加 cryo-，则常进入生物材料低温保存领域。",
+    "forms": "preserve → preservation；cryo- 寒冷 + preservation → cryopreservation。",
+    "branches": [
+      [
+        "保存及低温保存",
+        "preservation · cryopreservation"
+      ]
+    ],
+    "contrasts": "cryopreservation 是一种具体方式，一般 preservation 范围更广。",
+    "practice": "The course discusses preservation methods, including cryopreservation.\n\n课程讨论保存方法，包括低温保存。",
+    "words": [
+      "preservation",
+      "cryopreservation"
+    ],
+    "exclude": {
+      "self-preservation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2911",
+    "meaning": "拼写动作与写出来的形式，再用 mis- 指出错误",
+    "core": "SPELLING：一个词的字母怎样排，既是活动也是结果",
+    "image": "spelling → misspelling。",
+    "intro": "练习拼写是在做事，一个词有两种拼写是在谈结果。mis- 加在前面，表示不合规范、写错的形式或行为。",
+    "forms": "spell + -ing → spelling；mis- + spelling → misspelling。",
+    "branches": [
+      [
+        "拼写与错误形式",
+        "spelling · misspelling"
+      ]
+    ],
+    "contrasts": "英美规范差异未必是 misspelling；要看使用哪套拼写习惯。",
+    "practice": "The teacher checked the spelling and corrected one misspelling.\n\n老师检查拼写，改正了一处拼写错误。",
+    "words": [
+      "spelling",
+      "misspelling"
+    ],
+    "exclude": {
+      "back-spelling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "word": "fight",
+    "ipa": "/faɪt/",
+    "meaning": "打斗、作战；抗争、争取；打斗、斗志",
+    "sense": "面对阻力不肯退，让力量与对方或困难较量；可以真的动手，也可以为了一个目标持续努力。",
+    "split": "动词接古英语 feohtan，经中古英语形式演变；名词也有旧英语来路，不是现代临时省掉动词结尾。过去式、过去分词 fought /fɔːt/，美音也 /fɑːt/。",
+    "history": [
+      [
+        "古英语 feohtan → 中古英语 fighten",
+        "打斗、作战；名词也有相应旧形式"
+      ],
+      [
+        "英语 fight",
+        "打斗；抗争；努力争取"
+      ]
+    ],
+    "explanation": "fight for 为……争取，fight against 与……抗争；fight with someone 可指和某人打，也可在明确共同敌手时指与某人并肩作战。a fight 可是争吵或拳赛，具体看上下文。",
+    "usage": "fight for equal treatment；fight against a proposal；put up a fight；a fight over money。",
+    "contrast": "fight 比普通 disagree 更有冲突、抗争感；fight for a job 是争取工作，fight a colleague 才是与同事对抗。",
+    "examples": [
+      [
+        "They fought for the right to keep the village school open.",
+        "他们为保住村里的学校而抗争。"
+      ],
+      [
+        "The brothers had a fight over the remote control.",
+        "兄弟俩为遥控器吵了一架。"
+      ],
+      [
+        "She fought back tears as she read the letter.",
+        "她读信时强忍着眼泪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fight#English"
+    ]
+  },
+  {
+    "word": "fighting",
+    "ipa": "/ˈfaɪtɪŋ/",
+    "meaning": "战斗、打斗；作战的；奋力争取的",
+    "sense": "把交战的过程拿出来说；形容词有时强调还愿意拼、还有机会。",
+    "split": "fight + -ing，可作动词分词、名词或形容词。词义从真实交战扩展到竞争、努力争取。",
+    "history": [
+      [
+        "古英语 feohtan → 中古英语 fighten",
+        "打斗、作战；名词也有相应旧形式"
+      ],
+      [
+        "英语 fight",
+        "打斗；抗争；努力争取"
+      ],
+      [
+        "fight → fighting",
+        "打斗 → 交战活动；努力拼搏的状态"
+      ]
+    ],
+    "explanation": "heavy fighting 激烈交战；fighting spirit 斗志。a fighting chance 是仍有一拼的机会，即使不容易，也不是完全没希望。",
+    "usage": "heavy fighting；a fighting chance；fighting spirit；fighting for a place。",
+    "contrast": "a fighting chance 不等于一定赢；fighting 作名词可以统称一段交战，a fight 常指一次具体冲突。",
+    "examples": [
+      [
+        "The news report described heavy fighting near the border.",
+        "新闻报道说边境附近发生激烈交战。"
+      ],
+      [
+        "A good final interview would give her a fighting chance.",
+        "如果最后一轮面试表现好，她就还有一拼的机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fighting#English"
+    ]
+  },
+  {
+    "word": "fighter",
+    "ipa": "英 /ˈfaɪtə/；美 /ˈfaɪtər/",
+    "meaning": "战斗者；拳手；顽强拼搏的人；战斗机",
+    "sense": "本来是能打、在打的人；机器承担空中战斗任务，也获得同一个名字。",
+    "split": "旧英语已有 feohtere，现代可看成 fight + -er。人名词进一步被用于战斗机。",
+    "history": [
+      [
+        "古英语 feohtan → 中古英语 fighten",
+        "打斗、作战；名词也有相应旧形式"
+      ],
+      [
+        "英语 fight",
+        "打斗；抗争；努力争取"
+      ],
+      [
+        "旧英语 feohtere → fighter",
+        "作战者；现代还可指战斗机"
+      ]
+    ],
+    "explanation": "a professional fighter 职业格斗选手；She’s a fighter 可称赞她面对困难很顽强。a fighter jet 是喷气式战斗机。",
+    "usage": "a professional fighter；a determined fighter；a fighter pilot；a fighter jet。",
+    "contrast": "fighter aircraft 是战机中的一类，不是所有 military aircraft 军用飞机都叫 fighter。形容人时，也不必表示他爱打架。",
+    "examples": [
+      [
+        "She is a fighter who refuses to give up on her project.",
+        "她很顽强，不肯放弃自己的项目。"
+      ],
+      [
+        "The museum has a restored fighter from the 1940s.",
+        "博物馆收藏着一架修复后的20世纪40年代战斗机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fighter#English"
+    ]
+  },
+  {
+    "word": "fightback",
+    "ipa": "/ˈfaɪtbæk/",
+    "meaning": "反击；在劣势中奋起追赶",
+    "sense": "原先被压着、落后了，重新把力量打回去。",
+    "split": "由短语 fight back 合写成名词；fight 抗争 + back 回击、扳回。常见于英式新闻和体育报道。",
+    "history": [
+      [
+        "fight 抗争；back 回击",
+        "并列构词部分"
+      ],
+      [
+        "fightback",
+        "从劣势中反击、追赶"
+      ]
+    ],
+    "explanation": "stage a fightback 展开反击；可以是球队追分，也可以是一个组织试图挽回支持。强调反击的努力，最后仍可能输。",
+    "usage": "stage a fightback；a spirited fightback；launch a fightback。",
+    "contrast": "fight back 是动词短语，fightback 是名词；comeback 可说复出、恢复地位，范围比某次反击更宽。",
+    "examples": [
+      [
+        "Their late fightback came too late to save the match.",
+        "他们最后阶段奋起追分，但已来不及挽回比赛。"
+      ],
+      [
+        "The small publisher began a fightback with a series of popular new books.",
+        "这家小出版社凭一系列受欢迎的新书开始扭转劣势。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fightback#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/fightback"
+    ]
+  },
+  {
+    "word": "gunfight",
+    "ipa": "/ˈɡʌnfaɪt/",
+    "meaning": "枪战；持枪交火",
+    "sense": "fight 说明冲突，gun 说明冲突中使用的是枪。",
+    "split": "gun 枪 + fight 战斗，英语复合词。",
+    "history": [
+      [
+        "gun 枪；fight 战斗",
+        "并列构词部分"
+      ],
+      [
+        "gunfight",
+        "使用枪支的交战"
+      ]
+    ],
+    "explanation": "a gunfight in a Western 西部片里的枪战；break out 可说枪战突然发生。它描述事件类型，本身没有规定必须恰好两个人。",
+    "usage": "a gunfight breaks out；a gunfight scene；a prolonged gunfight。",
+    "contrast": "gunfight 与 firefight 在交火义上重叠；firefighting 却是灭火，不能因为都有 fire 就混为一谈。",
+    "examples": [
+      [
+        "The film ends with a gunfight in an abandoned town.",
+        "电影以废弃小镇中的一场枪战结束。"
+      ],
+      [
+        "The witness heard a gunfight but could not see the street.",
+        "目击者听见了枪战声，但看不到街道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gunfight#English"
+    ]
+  },
+  {
+    "word": "fistfight",
+    "ipa": "/ˈfɪstfaɪt/",
+    "meaning": "拳头打斗；互殴",
+    "sense": "fist 是攥起的拳头；把它放在 fight 前，说明是动拳头的冲突。",
+    "split": "fist 拳头 + fight 打斗，英语复合形成。",
+    "history": [
+      [
+        "fist 拳头；fight 打斗",
+        "并列构词部分"
+      ],
+      [
+        "fistfight",
+        "使用拳头的打斗"
+      ]
+    ],
+    "explanation": "get into a fistfight 卷入拳头打斗；an argument turns into a fistfight 是从口头争执升级为动手。",
+    "usage": "get into a fistfight；break up a fistfight；a fistfight over something。",
+    "contrast": "argument 可以只动嘴，fistfight 明确已动手；boxing match 是有规则的拳击比赛，不自动等于街头互殴。",
+    "examples": [
+      [
+        "An argument outside the station turned into a fistfight.",
+        "车站外的一场争吵变成了互殴。"
+      ],
+      [
+        "The actor said the fistfight scene took a full day to film.",
+        "演员说那场打斗戏拍了整整一天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fistfight#English"
+    ]
+  },
+  {
+    "word": "dogfight",
+    "ipa": "英 /ˈdɒɡfaɪt/；美 /ˈdɔːɡfaɪt/",
+    "meaning": "狗之间的争斗；近距离空战；激烈竞争",
+    "sense": "从狗纠缠争斗的画面，借来形容战机缠斗，以及对手咬得很紧的竞争。",
+    "split": "dog 狗 + fight 争斗。字面动物争斗义之外，后来发展出战机近距离空战和激烈竞争的比喻义。",
+    "history": [
+      [
+        "dog 狗；fight 争斗",
+        "并列构词部分"
+      ],
+      [
+        "dogfight",
+        "狗争斗 → 空中缠斗、激烈竞争"
+      ]
+    ],
+    "explanation": "an aerial dogfight 空中缠斗；a political dogfight 激烈的政治争夺。现代空战报道里的 dogfight 不是飞机真的像狗，也不泛指所有远距离空中攻击。",
+    "usage": "an aerial dogfight；a dogfight for market share；a political dogfight。",
+    "contrast": "dogfight 强调纠缠较量；普通 competition 可以很平静，不一定带这种激烈的画面。",
+    "examples": [
+      [
+        "The documentary includes footage of an aerial dogfight.",
+        "纪录片收录了一段近距离空战影像。"
+      ],
+      [
+        "The final seat became a dogfight between three candidates.",
+        "最后一个席位引发了三名候选人的激烈争夺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dogfight#English"
+    ]
+  },
+  {
+    "word": "bullfight",
+    "ipa": "/ˈbʊlfaɪt/",
+    "meaning": "斗牛表演",
+    "sense": "名称直指人和公牛之间的对抗，是一种特定的公开表演。",
+    "split": "bull 公牛 + fight 争斗，英语描述性复合名称。",
+    "history": [
+      [
+        "bull 公牛；fight 争斗",
+        "并列构词部分"
+      ],
+      [
+        "bullfight",
+        "人与公牛对抗的表演"
+      ]
+    ],
+    "explanation": "a bullfight 通常指西班牙等地传统中人与公牛对抗的公开表演；一些形式会导致牛死亡。它不是篮球里中文俗称的斗牛。",
+    "usage": "attend a bullfight；a traditional bullfight；a debate over bullfights。",
+    "contrast": "bullfight 是表演、活动，bullfighter 才是参与斗牛的人；普通两头牛打架不一定是在说这种文化活动。",
+    "examples": [
+      [
+        "The exhibition examines the history of the bullfight.",
+        "展览探讨斗牛表演的历史。"
+      ],
+      [
+        "The novel’s final chapter is set during a bullfight.",
+        "小说最后一章以一场斗牛表演为背景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bullfight#English"
+    ]
+  },
+  {
+    "word": "catfight",
+    "ipa": "/ˈkætfaɪt/",
+    "meaning": "猫打架；激烈争吵，常被用于贬称女性间的冲突",
+    "sense": "字面上是猫争斗；用来讲人的时候，往往把冲突说得尖刻、难看，甚至带轻视。",
+    "split": "cat 猫 + fight 争斗；后来用于人的激烈争执，尤其常见于描写女性冲突的说法。不要把这种用法编成女性天生像猫争斗的事实。",
+    "history": [
+      [
+        "cat 猫；fight 争斗",
+        "并列构词部分"
+      ],
+      [
+        "catfight",
+        "猫争斗；引申为尖刻的争执"
+      ]
+    ],
+    "explanation": "新闻、娱乐报道中可能见到 a catfight between two stars。这个称呼常有贬低、戏谑意味；中性说明争议可选 argument、dispute 或 disagreement。",
+    "usage": "describe an argument as a catfight；a bitter catfight；a catfight between rivals。",
+    "contrast": "catfight 不只是两个女性的普通讨论；它带说话人的评价。读到时要听出轻蔑语气，别把这个语气当作客观事实。",
+    "examples": [
+      [
+        "A noisy catfight in the yard woke us up.",
+        "院子里猫打架的吵闹声把我们吵醒了。"
+      ],
+      [
+        "She criticized the newspaper for calling the policy debate a catfight.",
+        "她批评报纸把那场政策辩论贬称为女人间的争吵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/catfight#English",
+      "https://www.dictionary.com/browse/catfight"
+    ]
+  }
+]

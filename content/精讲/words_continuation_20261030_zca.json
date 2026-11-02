@@ -1,0 +1,546 @@
+[
+  {
+    "word": "chess",
+    "ipa": "/tʃes/",
+    "meaning": "国际象棋",
+    "sense": "两人在棋盘上轮流调动棋子，围绕对方的王作攻防，是 chess。它在英语里是整种游戏的名字，不是在说几枚棋子的复数。",
+    "split": "借古法语 esches，原是 eschec 的复数形式，相关棋语经拉丁、阿拉伯传播远接波斯 shah 国王。它与 check 同属棋语历史，但不是现代 check 加英语复数形成 chess。",
+    "history": [
+      [
+        "波斯 shah 及阿拉伯、拉丁传播 → 法语 eschec、esches",
+        "国王、棋局中的关键称呼 → 棋子、棋戏名称"
+      ],
+      [
+        "古法语复数 esches → 英语 chess",
+        "来源词形是复数，英语重新作整种游戏名使用"
+      ]
+    ],
+    "explanation": "play chess 下国际象棋；a chess game 一盘国际象棋；a chess club 国际象棋俱乐部。",
+    "usage": "learn chess 学国际象棋；chess pieces 国际象棋棋子。",
+    "contrast": "chess 通常不可数，数一盘用 a game of chess。英语 chess 不自动包括中文象棋，谈不同棋类时要明确名称。",
+    "examples": [
+      [
+        "They play chess every Sunday.",
+        "他们每周日下国际象棋。"
+      ],
+      [
+        "She joined the school chess club.",
+        "她加入了学校的国际象棋俱乐部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chess#English",
+      "https://www.etymonline.com/word/chess"
+    ]
+  },
+  {
+    "word": "ballet",
+    "ipa": "英 /ˈbæleɪ/；美 /bæˈleɪ/",
+    "meaning": "芭蕾舞、芭蕾舞剧；芭蕾舞团〔依语境〕",
+    "sense": "演员通过经过训练的舞姿、动作和配合来表现音乐、人物或情绪，是 ballet。可以谈这种舞蹈艺术，也可以谈一部具体舞剧。",
+    "split": "经法语借意大利 balletto，来自 ballo 舞蹈的指小形式，接晚期拉丁 ballare 跳舞，较早常联系希腊 ballizein。与 ball 舞会支对照，不把日耳曼球体义接进来。",
+    "history": [
+      [
+        "晚期拉丁 ballare → 意大利 ballo、balletto → 法语",
+        "跳舞 → 舞蹈、小称舞蹈名"
+      ],
+      [
+        "法语 → 英语 ballet",
+        "舞台舞蹈艺术；具体芭蕾作品、相关团体"
+      ]
+    ],
+    "explanation": "study ballet 学芭蕾；a ballet dancer 芭蕾舞演员；a new ballet 一部新芭蕾舞剧。",
+    "usage": "ballet classes 芭蕾课；go to the ballet 去看芭蕾演出。",
+    "contrast": "ballet 末尾 t 不读，英美常用重音不同。泛谈艺术时常不可数，说一部作品则可以 a ballet。",
+    "examples": [
+      [
+        "She studies ballet twice a week.",
+        "她每周学两次芭蕾。"
+      ],
+      [
+        "We watched a new ballet at the theatre.",
+        "我们在剧院看了一部新的芭蕾舞剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ballet#English",
+      "https://www.etymonline.com/word/ballet"
+    ]
+  },
+  {
+    "word": "ballets",
+    "ipa": "英 /ˈbæleɪz/；美 /bæˈleɪz/",
+    "meaning": "芭蕾舞剧、芭蕾作品〔复数〕",
+    "sense": "这个舞季上演几部不同的芭蕾舞剧，可以说 several ballets。这里数的是作品，而不是说艺术门类本身有几个。",
+    "split": "ballet 经法语、意大利舞蹈名，较早接拉丁 ballare。现代直接加 -s，末尾 t 仍不发音，s 跟在 /eɪ/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁、意大利舞蹈材料 → 法语、英语 ballet",
+        "舞蹈 → 芭蕾艺术及作品"
+      ],
+      [
+        "ballet + -s → ballets",
+        "多部芭蕾作品；读音不补出 t"
+      ]
+    ],
+    "explanation": "classical ballets 古典芭蕾作品；three ballets 三部舞剧；music for ballets 为芭蕾作品创作的音乐。",
+    "usage": "new ballets 新芭蕾作品；ballets in the programme 演出安排中的芭蕾作品。",
+    "contrast": "ballets 在作品义可数，studies ballet 通常泛说学芭蕾，不为每次上课就给 ballet 加 s。",
+    "examples": [
+      [
+        "The company performed three ballets that season.",
+        "舞团那一季演出了三部芭蕾舞剧。"
+      ],
+      [
+        "She wrote music for several ballets.",
+        "她为几部芭蕾作品写过音乐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ballets#English",
+      "https://en.wiktionary.org/wiki/ballet#English"
+    ]
+  },
+  {
+    "word": "depot",
+    "ipa": "英 /ˈdepəʊ/；美 /ˈdiːpoʊ/",
+    "meaning": "仓库、储存或转运场所；车辆基地、车站〔依语境〕",
+    "sense": "货物、车辆集中放置，等着分发、运走或使用的地方，是 depot。它突出集中存放、周转的地点，不只是一间普通房屋。",
+    "split": "借法语 depot、较早 depost，接拉丁 depositum 放下、寄存的东西，来自 deponere：de- 放下、移开 + ponere 放置。和 deposit 同族，各走借入形式，不是英语 deposit 随意删字母。",
+    "history": [
+      [
+        "拉丁 deponere、depositum → 法语 depost、depot",
+        "放下、寄存 → 存放处"
+      ],
+      [
+        "法语 → 英语 depot；交通用法扩展",
+        "仓储场所 → 车辆基地、转运站；部分美式语境指车站"
+      ]
+    ],
+    "explanation": "a bus depot 公交车场、基地；a storage depot 储存仓库；a railway depot 铁路基地或车站〔看语境〕。",
+    "usage": "a central depot 中央仓储点；return to the depot 返回基地。",
+    "contrast": "depot 末尾 t 通常不读，常用英音首音节 /de/、美音 /diː/。它和 deposit 相连，但现代读音不同，不能照 deposit 去尾后的发音硬读。",
+    "examples": [
+      [
+        "The buses returned to the depot at night.",
+        "公交车夜里回到了车场。"
+      ],
+      [
+        "The supplies were stored in a central depot.",
+        "物资存放在一处中央仓库。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/depot#English",
+      "https://www.etymonline.com/word/depot"
+    ]
+  },
+  {
+    "word": "depots",
+    "ipa": "英 /ˈdepəʊz/；美 /ˈdiːpoʊz/",
+    "meaning": "仓储场所、车辆基地、转运站〔复数〕",
+    "sense": "不同地方各有集中存货、停放车辆或转运的基地，这些就是 depots。地点有什么用途，要看前面的货物、车辆等限定。",
+    "split": "depot 经法语存放处词，接拉丁 depositum、deponere。现代直接加 -s，末尾 t 仍不读，s 接元音读 /z/。",
+    "history": [
+      [
+        "拉丁寄存材料 → 法语、英语 depot",
+        "放下、寄存 → 储存、交通基地"
+      ],
+      [
+        "depot + -s → depots",
+        "多处仓储点、基地或车站"
+      ]
+    ],
+    "explanation": "bus depots 公交车场；storage depots 仓库；regional depots 区域仓储基地。",
+    "usage": "several depots 几处基地；goods depots 货运仓储站。",
+    "contrast": "depots 没有 /ts/ 结尾，不能看见 t 就把它在复数里重新读出来。各地 depot 的具体交通含义也要结合场景。",
+    "examples": [
+      [
+        "The company has depots in three towns.",
+        "公司在三个城镇设有仓储基地。"
+      ],
+      [
+        "The old bus depots were shown on the map.",
+        "地图上标出了旧公交车场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/depots#English",
+      "https://en.wiktionary.org/wiki/depot#English"
+    ]
+  },
+  {
+    "word": "hollow",
+    "ipa": "英 /ˈhɒləʊ/；美 /ˈhɑːloʊ/",
+    "meaning": "中空的；空洞、没有诚意的；凹地、洞；挖空",
+    "sense": "外面有个壳，里面却是空的，是 hollow。一个承诺听着有外形，里面没有真实支持，也像空壳，所以能说 hollow promise。",
+    "split": "接古英语 holh 洞、空处发展出的形容词，与 hole 的 hol 材料相连；现代并不是 hole 加一个独立的 low。动词挖空由形容词发展。名词有接旧洞名传承的分析，也有把现代凹地义看作从形容词再形成的分析。",
+    "history": [
+      [
+        "古英语 hol、holh 等 → 中古英语 hollow",
+        "洞、空处 → 内部空的"
+      ],
+      [
+        "英语 hollow 的名词、动词与比喻",
+        "凹处、挖空；没有实在内容或诚意"
+      ]
+    ],
+    "explanation": "a hollow tree 中空的树；a hollow sound 空空的回声；hollow promises 空洞承诺；hollow out 挖空。",
+    "usage": "a hollow in the ground 地面上的凹处；a hollow feeling 空落落的感觉。",
+    "contrast": "empty 可以说容器里没有东西，hollow 常强调物体自身内部有空腔。杯子 empty 和木块 hollow 关注的结构层次不同。",
+    "examples": [
+      [
+        "The tree trunk was hollow inside.",
+        "树干内部是空的。"
+      ],
+      [
+        "His promises sounded hollow.",
+        "他的承诺听起来很空洞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hollow#English",
+      "https://www.etymonline.com/word/hollow"
+    ]
+  },
+  {
+    "word": "hollows",
+    "ipa": "英 /ˈhɒləʊz/；美 /ˈhɑːloʊz/",
+    "meaning": "凹地、空腔、洞〔复数〕；挖空〔第三人称单数〕",
+    "sense": "地面上几处低下去的空位，或树干里几个空洞，是 hollows；把内部材料一点点去掉，也可以说某种作用 hollows 它。",
+    "split": "hollow 和 hole 接古英语空处材料，现代名词可说凹处、空腔。整个词后直接加 -s，元音后读 /z/；形容词 hollow 本身不因修饰多物就加 s。",
+    "history": [
+      [
+        "古英语空处材料 → hollow；后有凹处名词、挖空动词",
+        "内部空的 → 凹地、空腔；使中空"
+      ],
+      [
+        "hollow + -s → hollows",
+        "多个凹处或洞；某主体挖空"
+      ]
+    ],
+    "explanation": "hollows in the ground 地面的凹处；tree hollows 树洞；hollows out the wood 将木头内部挖空。",
+    "usage": "small hollows 小凹处；water in the hollows 凹处里的水。",
+    "contrast": "hollow trees 是中空的树，tree hollows 是树洞。两组词顺序和词性不同，别把形容词复数和名词复数混起来。",
+    "examples": [
+      [
+        "Rainwater collected in the hollows.",
+        "雨水积在地面的凹处里。"
+      ],
+      [
+        "Small birds nested in tree hollows.",
+        "小鸟在树洞里筑巢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hollows#English",
+      "https://en.wiktionary.org/wiki/hollow#English"
+    ]
+  },
+  {
+    "word": "composite",
+    "ipa": "英 /ˈkɒmpəzɪt/；美 /kəmˈpɑːzɪt/",
+    "meaning": "合成的、复合的；复合物、合成物；合成影像〔动词〕",
+    "sense": "几种不同材料或部分放到一起，成为一个整体，是 composite。它提醒你看组成整体的不同成分，而不只把它当一整块。",
+    "split": "经法语接拉丁 compositus 放在一起的，来自 componere：com- 一起 + ponere 放置。它与 compose 有共同历史基础，但 compose 的法语 poser 影响另有路径，不是英语 compose 现场加 -ite。",
+    "history": [
+      [
+        "拉丁 com- + ponere → componere、compositus → 法语",
+        "放到一起 → 多部分组成的"
+      ],
+      [
+        "法语 → 英语 composite",
+        "复合的；复合材料或合成物；现代影像合成动词"
+      ]
+    ],
+    "explanation": "a composite material 复合材料；a composite image 合成图像；a composite picture 综合多个部分形成的图景。",
+    "usage": "a composite structure 复合结构；a composite number 合数〔数学〕。",
+    "contrast": "composite 不表示成分全变得一样；可以是不同成分各保留特点、一起形成整体。compose、composition、composite 能对照词族，不能按现代词尾任意互换。",
+    "examples": [
+      [
+        "The image is a composite of several photographs.",
+        "这张图像由几张照片合成。"
+      ],
+      [
+        "The frame is made from a composite material.",
+        "框架由复合材料制成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composite#English",
+      "https://www.etymonline.com/word/composite"
+    ]
+  },
+  {
+    "word": "composites",
+    "ipa": "英 /ˈkɒmpəzɪts/；美 /kəmˈpɑːzɪts/",
+    "meaning": "复合材料、合成物〔复数〕；合成影像〔第三人称单数〕",
+    "sense": "不同成分组合成的几个材料或对象，是 composites。图像软件把不同画面拼合成一张图，也能用动词 composites。",
+    "split": "composite 接法语、拉丁 compositus 放在一起的，连 com- 一起与 ponere 放置。现代直接加 -s，/t/ 后读 /s/；名词复数不是把形容词随便变复数。",
+    "history": [
+      [
+        "拉丁 compositus → 法语、英语 composite",
+        "放在一起的 → 复合材料、合成物"
+      ],
+      [
+        "composite + -s → composites",
+        "多种复合物；动词某主体合成画面"
+      ]
+    ],
+    "explanation": "lightweight composites 轻质复合材料；different composites 不同复合物；composites several images 合成几张图像。",
+    "usage": "composites used in a frame 用于框架的复合材料；test the composites 检验复合材料。",
+    "contrast": "composite materials 里的 composite 是形容词，不加 s；直接说 several composites 时，才把它作可数名词。",
+    "examples": [
+      [
+        "The class compared two different composites.",
+        "课堂上比较了两种不同复合材料。"
+      ],
+      [
+        "The software composites several images into one.",
+        "软件把几张图像合成为一张。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composites#English",
+      "https://en.wiktionary.org/wiki/composite#English"
+    ]
+  },
+  {
+    "word": "lance",
+    "ipa": "英 /lɑːns/；美 /læns/",
+    "meaning": "长矛、骑枪；用尖器刺开〔动词〕",
+    "sense": "长杆前有尖头，骑士或士兵拿在手中的长矛，是 lance 的常见历史画面。动作义则由尖器刺入的方向发展。",
+    "split": "经古法语 lance 接拉丁 lancea 矛。动词另有法语 lancier、后期拉丁 lanceare 路径；更早有伊比利亚、凯尔特相关来源解释，尚未确定，不把它拆成现代 lan + ce。",
+    "history": [
+      [
+        "拉丁 lancea；相关 lanceare → 法语 lance、lancier",
+        "长矛；使用长矛、刺入的动作"
+      ],
+      [
+        "法语 → 英语 lance",
+        "长矛、骑枪；尖器刺开，较远源头仍有讨论"
+      ]
+    ],
+    "explanation": "a knight’s lance 骑士长矛；carry a lance 持矛；a wooden lance 木制长矛。",
+    "usage": "a ceremonial lance 仪式用长矛；a lance in a painting 画中的长矛。",
+    "contrast": "lance 与 launch 的动作词族相关，但现代 launch 常讲推出、启动，lance 常讲矛或尖器动作。两词不是可以任意互换的同义词。",
+    "examples": [
+      [
+        "The knight in the painting carries a lance.",
+        "画中的骑士持着一柄长矛。"
+      ],
+      [
+        "A ceremonial lance stood beside the armour.",
+        "盔甲旁立着一柄仪式用长矛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lance#English",
+      "https://www.etymonline.com/word/lance"
+    ]
+  },
+  {
+    "word": "lances",
+    "ipa": "英 /ˈlɑːnsɪz/；美 /ˈlænsɪz/",
+    "meaning": "长矛、骑枪〔复数〕；用尖器刺开〔第三人称单数〕",
+    "sense": "一排骑士各持的长矛，可以说 lances。复数数的是这些武器；若句子里它带宾语做动作，则需按动词刺开的意思理解。",
+    "split": "lance 经法语接拉丁 lancea，相关动词有 lanceare、lancier 的路径。现代整个 lance 后加 -s，/s/ 后读 /ɪz/；不添另一个 e。",
+    "history": [
+      [
+        "拉丁、法语的长矛、刺入材料 → lance",
+        "长矛及相关动作"
+      ],
+      [
+        "lance + -s → lances",
+        "多柄长矛；动词第三人称单数同形"
+      ]
+    ],
+    "explanation": "wooden lances 木矛；ceremonial lances 仪式用长矛；lances in the collection 收藏中的长矛。",
+    "usage": "a row of lances 一排长矛；carry lances 持矛。",
+    "contrast": "lances 的 c 读 /s/，结尾还要接 /ɪz/；不要把它和 launches 的 /tʃ/ 读音混起来。来源相关，现代发音和用法各自固定。",
+    "examples": [
+      [
+        "The museum displays several ceremonial lances.",
+        "博物馆展出了几柄仪式用长矛。"
+      ],
+      [
+        "The riders carried wooden lances in the parade.",
+        "游行中的骑手拿着木制长矛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lances#English",
+      "https://en.wiktionary.org/wiki/lance#English"
+    ]
+  },
+  {
+    "word": "shoots",
+    "ipa": "/ʃuːts/",
+    "meaning": "射出、拍摄、猛地移动〔第三人称单数〕；嫩芽、拍摄活动〔复数〕",
+    "sense": "东西迅速往外去，是 shoots 的动作方向；植物往外冒出的新芽，也叫 shoots。拿相机拍摄则是另一个已经固定的动作、活动用法。",
+    "split": "shoot 继承古英语 sceotan 射出，嫩芽名有相关旧形式，联系向外生长的画面。现代直接加 -s，/t/ 后读 /s/；过去式、分词仍用 shot。",
+    "history": [
+      [
+        "古英语射出、向外生长相关材料 → shoot",
+        "射出；生出的新芽；后来发展摄影用法"
+      ],
+      [
+        "shoot + -s → shoots",
+        "某人射出、拍摄；嫩芽或几次拍摄活动"
+      ]
+    ],
+    "explanation": "green shoots 绿嫩芽；shoots a film 拍电影；shoots up 猛地升高、迅速长高。",
+    "usage": "new shoots 新芽；photo shoots 摄影活动。",
+    "contrast": "shoots 不只讲武器射击。green shoots 是植物，photo shoots 是拍摄活动，she shoots films 是拍电影；靠对象分清词义。",
+    "examples": [
+      [
+        "New shoots appeared after the rain.",
+        "雨后冒出了新芽。"
+      ],
+      [
+        "She shoots short films with her friends.",
+        "她和朋友们一起拍短片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shoots#English",
+      "https://en.wiktionary.org/wiki/shoot#English"
+    ]
+  },
+  {
+    "word": "suburbs",
+    "ipa": "英 /ˈsʌbɜːbz/；美 /ˈsʌbɜːrbz/",
+    "meaning": "城郊、城市外围地区〔复数〕",
+    "sense": "离开中心城区，到了城市周边的一片片居住地区，是 suburbs。这里的 sub- 要抓在旁、靠近的历史用法，不是把城建到地下。",
+    "split": "suburb 经古法语 suburbe 接拉丁 suburbium，sub- 在旁、靠近 + urbs 城市。现代直接加 -s，/b/ 后读 /z/；美音保留 /r/。",
+    "history": [
+      [
+        "拉丁 sub- + urbs → suburbium → 法语、英语 suburb",
+        "城市旁边 → 城郊区域"
+      ],
+      [
+        "suburb + -s → suburbs",
+        "多个外围地区；常整体说城郊"
+      ]
+    ],
+    "explanation": "live in the suburbs 住在城郊；the northern suburbs 北部城郊；move to the suburbs 搬到城郊。",
+    "usage": "quiet suburbs 安静的城郊地区；suburbs around the city 城市周边地区。",
+    "contrast": "suburbs 通常与城市相连，不等于所有乡村 countryside；是否主要住宅、离中心多远，还要看具体城市。",
+    "examples": [
+      [
+        "They moved to the suburbs last year.",
+        "他们去年搬到了城郊。"
+      ],
+      [
+        "The train connects the suburbs with the city centre.",
+        "这条铁路把城郊与市中心连起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suburbs#English",
+      "https://en.wiktionary.org/wiki/suburb#English"
+    ]
+  },
+  {
+    "word": "traits",
+    "ipa": "/treɪts/",
+    "meaning": "特征、特质〔复数〕",
+    "sense": "观察一个人或事物，能反复认出来的特点，是 traits。像画肖像时留下几条有辨识度的线，把它和别的对象区分开。",
+    "split": "trait 借法语 trait 线条、特征，较早接拉丁 tractus 拉、画出的线，连 trahere。现代直接加 -s，常用读法保留词干 /t/，尾 /ts/。",
+    "history": [
+      [
+        "拉丁 tractus → 法语 trait → 英语 trait",
+        "拉出、画出的线 → 可辨认的特征"
+      ],
+      [
+        "trait + -s → traits",
+        "多个特点、特质"
+      ]
+    ],
+    "explanation": "personality traits 性格特质；shared traits 共同特点；distinctive traits 显著特征。",
+    "usage": "inherited traits 遗传特征；traits of the character 角色的特点。",
+    "contrast": "traits 可以说人的性格，也可以说生物或事物的特征。不是所有 traits 都由遗传决定，具体成因要由内容说明。",
+    "examples": [
+      [
+        "Patience is one of her most noticeable traits.",
+        "耐心是她最明显的特质之一。"
+      ],
+      [
+        "The two designs share several traits.",
+        "这两个设计有几个共同特点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traits#English",
+      "https://en.wiktionary.org/wiki/trait#English"
+    ]
+  },
+  {
+    "word": "varies",
+    "ipa": "英 /ˈveəriz/；美 /ˈveriz/",
+    "meaning": "不同、变化；使多样〔第三人称单数〕",
+    "sense": "换个时间、地点或对象，结果就不完全一样，是 varies。它可以说对象自己有差别，也可以说某人主动变换做法。",
+    "split": "vary 经古法语 varier、拉丁 variare，连 varius 多样、不同。现代 y 改 i，加 -es；这里读 /iz/，不因拼写 ies 就读成 /aɪz/。",
+    "history": [
+      [
+        "拉丁 varius、variare → 法语、英语 vary",
+        "不同、多样 → 改变、存在差异"
+      ],
+      [
+        "vary → varies：y 改 i，加 -es",
+        "某物随条件变化；某人变换做法"
+      ]
+    ],
+    "explanation": "varies from place to place 各地不同；varies with the season 随季节变化；varies the routine 变换日常安排。",
+    "usage": "varies considerably 差别很大；varies in size 大小不同。",
+    "contrast": "varies from one place to another 比较地点差异；varies the method 则是主动变换方法。一个常不带直接宾语，一个带方法作宾语。",
+    "examples": [
+      [
+        "The weather varies from place to place.",
+        "天气各地不同。"
+      ],
+      [
+        "She varies the exercises each week.",
+        "她每周会变换练习内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/varies#English",
+      "https://en.wiktionary.org/wiki/vary#English"
+    ]
+  },
+  {
+    "word": "buys",
+    "ipa": "/baɪz/",
+    "meaning": "购买、接受某种说法〔第三人称单数〕；值得买的东西〔复数〕",
+    "sense": "付钱把东西买来，是 buys；口语里说 someone buys an explanation，是觉得说法可信、接受了它。好买卖 a good buy 的复数也写 buys。",
+    "split": "buy 继承古英语 bycgan，现代直接加 -s：前面有元音字母 u，结尾 y 不改 i。读音是 /baɪ/ 加 /z/；过去式另用 bought。",
+    "history": [
+      [
+        "古英语 bycgan → buy",
+        "购买；后来比喻接受说法"
+      ],
+      [
+        "buy + -s → buys",
+        "某人购买；多个值得买的东西"
+      ]
+    ],
+    "explanation": "buys books 买书；buys the explanation 接受这套解释；good buys 划算的东西。",
+    "usage": "buys from local shops 从本地商店买；buys time 争取时间。",
+    "contrast": "buys time 常比喻暂时争取到时间，不一定真花钱。名词 buys 是买卖对象的判断，sales 则常谈销售活动或销量。",
+    "examples": [
+      [
+        "She buys bread from the local bakery.",
+        "她从当地面包店买面包。"
+      ],
+      [
+        "He never buys that explanation.",
+        "他从来不相信那套解释。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buys#English",
+      "https://en.wiktionary.org/wiki/buy#English"
+    ]
+  }
+]

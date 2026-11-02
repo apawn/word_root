@@ -1,0 +1,580 @@
+[
+  {
+    "word": "perceived",
+    "ipa": "/pəˈsiːvd/；美常 /pərˈsiːvd/",
+    "meaning": "察觉、感知到了；被看作的〔过去式、过去分词〕",
+    "sense": "感官接到一点信息，头脑把它认成某种情况，是 perceived。它也可描述别人心里怎样看待某件事。",
+    "split": "perceive + -d，/v/ 后读 /d/。拉丁 per- 充分与 capere 拿取形成 percipere，经法语进入英语有 ceive 形式；percept- 是相应历史词干。",
+    "history": [
+      [
+        "拉丁 percipere → 法语 → perceive",
+        "充分接到、拿住 → 察觉、理解"
+      ],
+      [
+        "perceive 去 e + -ed → perceived",
+        "已察觉；也可说某物被看成什么样"
+      ]
+    ],
+    "explanation": "perceived a change 察觉变化；perceived as useful 被看作有用；perceived value 人们感受到、认定的价值。",
+    "usage": "widely perceived as 普遍被看作；perceived differences 感知到的差异。",
+    "contrast": "perceived 说感受到、被认为，不一定是客观测量已经证实。perception 是感知、看法的名词。",
+    "examples": [
+      [
+        "She perceived a slight change in his tone.",
+        "她察觉他的语气有一点变化。"
+      ],
+      [
+        "The new timetable was perceived as more convenient.",
+        "大家觉得新时间表更方便。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/perceived#English",
+      "https://en.wiktionary.org/wiki/perceive#English"
+    ]
+  },
+  {
+    "word": "reaches",
+    "ipa": "/ˈriːtʃɪz/",
+    "meaning": "到达、达到；伸手够〔第三人称单数〕；河段、区域等〔复数〕",
+    "sense": "把手、脚步或影响一直延伸到目标，终于够到，是 reaches。名词又可把一条河、一片范围分成某些区段。",
+    "split": "reach + -es，/tʃ/ 后读 /ɪz/。reach 承古英语 raecan 伸到、到达；名词有手、传播等所及范围的发展。",
+    "history": [
+      [
+        "古英语 raecan → reach",
+        "伸到、到达；名词扩为所及范围"
+      ],
+      [
+        "reach + -es → reaches",
+        "某物达到目标；或多段区域、河段等"
+      ]
+    ],
+    "explanation": "reaches the station 到达车站；reaches a conclusion 得出结论；the upper reaches of a river 河流上游。",
+    "usage": "reaches a wide audience 触达广泛受众；reaches for a book 伸手拿书。",
+    "contrast": "reaches a place 通常直接接地点；reaches for something 是伸手试着去拿。reaches 说明已经到达时，和只朝那里走的 approaches 不同。",
+    "examples": [
+      [
+        "The path reaches the river after a short climb.",
+        "小路爬升一小段后通到河边。"
+      ],
+      [
+        "The programme reaches listeners in many countries.",
+        "节目在许多国家都有听众。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reaches#English",
+      "https://en.wiktionary.org/wiki/reach#English"
+    ]
+  },
+  {
+    "word": "remarks",
+    "ipa": "英 /rɪˈmɑːks/；美 /rɪˈmɑːrks/",
+    "meaning": "评论、话语、评述〔复数〕；说起、评论〔第三人称单数〕",
+    "sense": "注意到一个点，再把自己的观察说出来，就是 remarks 的评论感。它可以只是简短一句，不一定是完整分析。",
+    "split": "remark + -s，/k/ 后读 /s/。remark 经法语 remarquer，re- 再或加强与 marquer 标记、注意结合；现代名词指说出的评论。",
+    "history": [
+      [
+        "法语 remarquer → 英语 remark",
+        "标记、注意 → 注意到并说出评述"
+      ],
+      [
+        "remark + -s → remarks",
+        "多句评论；某人说起、评论"
+      ]
+    ],
+    "explanation": "opening remarks 开场讲话；remarks about the plan 关于计划的评论；remarks that 评论说。",
+    "usage": "brief remarks 简短发言；kind remarks 友善的话。",
+    "contrast": "remarks 是说出来的观察、评论；marks 可以是分数、痕迹。remark on something 侧重就某事评论，remark that 后引出说的话。",
+    "examples": [
+      [
+        "The chair began with a few opening remarks.",
+        "主持人先作了几句开场讲话。"
+      ],
+      [
+        "She remarks that the room feels much brighter now.",
+        "她说，房间现在感觉明亮多了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remarks#English",
+      "https://en.wiktionary.org/wiki/remark#English"
+    ]
+  },
+  {
+    "word": "saints",
+    "ipa": "/seɪnts/",
+    "meaning": "圣人、圣徒；极善良、耐心的人〔复数〕",
+    "sense": "宗教语境里是受到尊崇的神圣人物；日常把特别耐心、善良、帮忙的人夸作 saints，是把这种美好形象借来称人。",
+    "split": "saint + -s，/t/ 后读 /s/。saint 接拉丁 sanctus 神圣的，经古英语 sanct 与法语 saint 等路线汇合。",
+    "history": [
+      [
+        "拉丁 sanctus → 古英语、法语等 → saint",
+        "神圣、受到尊崇的人物称号"
+      ],
+      [
+        "saint + -s → saints",
+        "多位圣人、圣徒；比喻特别善良的人"
+      ]
+    ],
+    "explanation": "paintings of saints 圣人画像；the lives of saints 圣人传记；You are saints. 你们真是好人，表示感激。",
+    "usage": "patron saints 主保圣人；saints in the story 故事里的圣人。",
+    "contrast": "saints 指人，saintly 是像圣人般善良的性质。人名前 Saint 常作称号，可能弱读；普通复数 saints 通常读 /seɪnts/。",
+    "examples": [
+      [
+        "The church walls are decorated with paintings of saints.",
+        "教堂墙上装饰着圣人画像。"
+      ],
+      [
+        "Those volunteers are saints; they have helped us all week.",
+        "那些志愿者真是好人，整周都在帮我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saints#English",
+      "https://en.wiktionary.org/wiki/saint#English"
+    ]
+  },
+  {
+    "word": "sheets",
+    "ipa": "/ʃiːts/",
+    "meaning": "床单；纸张、薄片、大片覆盖物〔复数〕；帆索〔航海用法〕",
+    "sense": "一张能铺开的薄薄材料，是 sheets 的日常中心：床上是床单，桌上可以是纸张、金属薄板。航海里的帆索却是另一个历史分支。",
+    "split": "sheet + -s，/t/ 后读 /s/。普通薄片义接古英语 sciete 等布、床单材料；航海绳索义联系 sceata 角、帆角的一路。",
+    "history": [
+      [
+        "古英语布、床单词 → sheet 薄片义；帆角词另成帆索义",
+        "主要日常材料与专业同形分支分开"
+      ],
+      [
+        "sheet + -s → sheets",
+        "多条床单、多张薄片等；航海时可为多根帆索"
+      ]
+    ],
+    "explanation": "bed sheets 床单；sheets of paper 几张纸；sheets of metal 金属薄板。",
+    "usage": "clean sheets 干净床单；sheets of rain 大片倾泻的雨。",
+    "contrast": "sheets of paper 用 sheet 帮不可数 paper 数一张张。sheets 在帆船材料里也可指绳索，不能只凭现代薄片义硬猜。",
+    "examples": [
+      [
+        "She put clean sheets on the bed.",
+        "她给床铺上干净床单。"
+      ],
+      [
+        "Please take two sheets of paper.",
+        "请拿两张纸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sheets#English",
+      "https://en.wiktionary.org/wiki/sheet#English"
+    ]
+  },
+  {
+    "word": "sporting",
+    "ipa": "英 /ˈspɔːtɪŋ/；美 /ˈspɔːrtɪŋ/",
+    "meaning": "体育的；大度、公平的；显眼地穿戴、展示着〔分词及形容词〕",
+    "sense": "运动场上的活动是 sporting 的一面；按比赛风度办事、不计较小输赢，又有大度、公平。动词 sport 还可说显眼地穿着、留着某种东西。",
+    "split": "sport + -ing，直接加 ing。sport 从中古英语 disport 前部脱落，接法语 desporter 消遣；现代运动、比赛风度和穿戴展示用法分别发展。",
+    "history": [
+      [
+        "中古英语 disport → sport",
+        "消遣 → 运动、体育；后有展示、穿戴等用法"
+      ],
+      [
+        "sport + -ing → sporting",
+        "体育性质、比赛风度；或正在展示、穿戴"
+      ]
+    ],
+    "explanation": "sporting events 体育赛事；a sporting chance 合理的胜算；sporting a new hat 戴着一顶显眼的新帽子。",
+    "usage": "a sporting gesture 有风度的举动；sporting clothes 运动服装。",
+    "contrast": "sporting 不一定正在运动：He is sporting a beard 是他留着胡子；a sporting reply 可以是大度、有比赛风度的回应。",
+    "examples": [
+      [
+        "The town hosts several sporting events each year.",
+        "小镇每年举办几场体育赛事。"
+      ],
+      [
+        "He arrived sporting a bright red hat.",
+        "他戴着一顶鲜红的帽子来了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sporting#English",
+      "https://en.wiktionary.org/wiki/sport#English"
+    ]
+  },
+  {
+    "word": "teens",
+    "ipa": "/tiːnz/",
+    "meaning": "十三至十九岁的年龄段；青少年〔复数表达〕",
+    "sense": "thirteen 到 nineteen 都带 teen，于是把这一段年龄合起来叫 the teens。说人时，teens 也能指这个年龄段的青少年。",
+    "split": "由数词尾 -teen 独立作名词，再用复数 teens 表年龄段；其年龄段用法早于现代 teenager 这个长词。teen- 的数字背景接古英语十的相关形式，青少年人物名词后来也有缩称发展。",
+    "history": [
+      [
+        "数词 thirteen 至 nineteen 的 -teen → 独立的 teens",
+        "把这一组年龄作为一段来看"
+      ],
+      [
+        "年龄段与人物称呼的后续发展",
+        "in one’s teens 在十三至十九岁；teens 可数青少年"
+      ]
+    ],
+    "explanation": "in her teens 在她十几岁时；early teens 十三至十五岁上下；late teens 十七至十九岁上下。",
+    "usage": "books for teens 给青少年的书；a group of teens 一群青少年。",
+    "contrast": "日常中文十几岁可含十一、十二，英语 teens 由 teen 数词形限定，通常从十三开始。teens 不是先有 teenager 才全部缩短出来。",
+    "examples": [
+      [
+        "She began learning the guitar in her teens.",
+        "她在十三至十九岁之间开始学吉他。"
+      ],
+      [
+        "The library runs a reading group for teens.",
+        "图书馆为青少年办了一个阅读小组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teens#English",
+      "https://www.etymonline.com/word/teens"
+    ]
+  },
+  {
+    "word": "worries",
+    "ipa": "英 /ˈwʌriz/；美 /ˈwɜːriz/，也有 /ˈwʌriz/",
+    "meaning": "担忧、烦恼〔复数〕；担心、使担心〔第三人称单数〕",
+    "sense": "一件事仿佛揪住心，反复让人放不下，就是 worries 的担忧感。名词可以数一件件烦恼，动词则说谁在担心、什么让人担心。",
+    "split": "worry 改 y 为 i 加 -es。worry 接古英语 wyrgan 扼、勒，中古英语咬住、撕扯等动作后来转向烦扰、心理困扰。",
+    "history": [
+      [
+        "古英语、中古英语揪住、撕扯相关动作 → worry",
+        "身体动作背景 → 烦扰、担忧"
+      ],
+      [
+        "worry → worries",
+        "改 y 为 i 加 es；多件烦恼或第三人称动作"
+      ]
+    ],
+    "explanation": "worries about money 对钱的担忧；worries me 让我担心；worries about the future 担心未来。",
+    "usage": "no worries 没关系、别担心，口语；share your worries 说出担忧。",
+    "contrast": "She worries 是她在担心；It worries her 是它让她担心。名词 worries 与动词同形，要先看主语和句中位置。",
+    "examples": [
+      [
+        "She shared her worries with a friend.",
+        "她向朋友说出了自己的担忧。"
+      ],
+      [
+        "The long silence worries me.",
+        "长时间没有消息让我担心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worries#English",
+      "https://en.wiktionary.org/wiki/worry#English"
+    ]
+  },
+  {
+    "word": "adventures",
+    "ipa": "英 /ədˈventʃəz/；美 /ədˈventʃərz/",
+    "meaning": "冒险、奇遇；新奇经历〔复数〕",
+    "sense": "前面会发生什么还不知道，但人走进去了，经历一连串新奇、刺激或有挑战的事，就有 adventures。",
+    "split": "adventure + -s，末尾读 /z/。adventure 经古法语 aventure 接拉丁 advenire 来到的相关将来材料，早有将要发生之事等意思；英语后来补回 d。",
+    "history": [
+      [
+        "拉丁 advenire 的相关材料 → 法语 aventure → adventure",
+        "将要来到、发生的事 → 未知经历、冒险"
+      ],
+      [
+        "adventure + -s → adventures",
+        "多次冒险、新奇经历"
+      ]
+    ],
+    "explanation": "travel adventures 旅行奇遇；stories of adventures 冒险故事；new adventures 新经历。",
+    "usage": "adventures in the mountains 山中历险；everyday adventures 日常新奇体验，也可轻松夸张。",
+    "contrast": "adventures 常有新奇、未知、挑战感；experiences 是更中性的经历。一次平常出门也可被讲成小小 adventure，语气由叙述决定。",
+    "examples": [
+      [
+        "The children loved stories of adventures at sea.",
+        "孩子们喜欢海上冒险故事。"
+      ],
+      [
+        "She wrote about her adventures in a new city.",
+        "她写了自己在新城市里的奇遇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adventures#English",
+      "https://en.wiktionary.org/wiki/adventure#English"
+    ]
+  },
+  {
+    "word": "appearing",
+    "ipa": "英 /əˈpɪərɪŋ/；美 /əˈpɪrɪŋ/",
+    "meaning": "出现、显现；登场；显得〔现在分词〕",
+    "sense": "原来没在眼前，现在逐渐看见，是 appearing；演员在节目里登场也一样。某事给人一种印象，又有显得怎样的用法。",
+    "split": "appear + -ing，直接加 ing。appear 经古法语 aparoir 接拉丁 apparere，较早 ad- 与 parere 显露结合。",
+    "history": [
+      [
+        "拉丁 apparere → 古法语 aparoir → appear",
+        "显露、出现在眼前"
+      ],
+      [
+        "appear + -ing → appearing",
+        "正在出现、登场；特定语境可说呈现某种样子"
+      ]
+    ],
+    "explanation": "appearing in a play 在戏中出演；appearing on a screen 显示在屏幕上；without appearing rude 不显得无礼地。",
+    "usage": "new leaves appearing 新叶长出；appearing in public 公开露面。",
+    "contrast": "appear 常是状态类用法，显得义不一定适合所有进行时；is appearing in a play 则自然说正在出演。先看是真正出现、演出，还是表示印象。",
+    "examples": [
+      [
+        "New flowers are appearing along the path.",
+        "小路旁正在开出新花。"
+      ],
+      [
+        "She is appearing in a new play this month.",
+        "她这个月正在出演一部新戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appearing#English",
+      "https://en.wiktionary.org/wiki/appear#English"
+    ]
+  },
+  {
+    "word": "colours",
+    "ipa": "英 /ˈkʌləz/；美 /ˈkʌlərz/",
+    "meaning": "颜色；旗帜、队色等〔复数，英式拼写〕；给……着色、影响〔第三人称单数〕",
+    "sense": "把画面分成红、蓝、绿等色彩，是 colours。队伍、机构也会用颜色表身份，于是有队色、旗帜等用法；感受还可以给看法染上一层色彩。",
+    "split": "colour + -s，末尾读 /z/。colour 是 color 的常见英式拼写，共享法语、拉丁颜色词的来源，our 不是另一个意义后缀。",
+    "history": [
+      [
+        "法语、拉丁颜色材料 → colour／color",
+        "颜色；后有身份旗帜、情绪影响等扩展"
+      ],
+      [
+        "colour + -s → colours",
+        "多个颜色、队色等；某物着色、影响看法"
+      ]
+    ],
+    "explanation": "bright colours 鲜艳颜色；team colours 队色；colours our view 影响、给我们的看法染色。",
+    "usage": "true colours 本色、真实态度；colours of the flag 旗帜的颜色。",
+    "contrast": "colours 对应美式 colors。show one’s true colours 是露出真实态度、面目，未必真的在展示色卡。",
+    "examples": [
+      [
+        "The room is decorated in warm colours.",
+        "房间以暖色调装饰。"
+      ],
+      [
+        "Her experience colours the way she sees the world.",
+        "她的经历影响着她看世界的方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/colours#English",
+      "https://en.wiktionary.org/wiki/colour#English"
+    ]
+  },
+  {
+    "word": "criminals",
+    "ipa": "/ˈkrɪmɪnəlz/",
+    "meaning": "罪犯、犯罪者〔复数〕",
+    "sense": "名词 criminals 说的是实施犯罪的人。它来自与犯罪、指控有关的性质词转称人物，不是任意把 crime 后面添几个字母。",
+    "split": "criminal + -s，/l/ 后读 /z/。criminal 经法语、晚期拉丁 criminalis 接 crimen、crimin- 罪、指控等材料，名词保留拉丁词干的 n。",
+    "history": [
+      [
+        "拉丁 crimen、criminalis → 法语、英语 criminal",
+        "与罪、指控有关 → 人物名词犯罪者"
+      ],
+      [
+        "criminal + -s → criminals",
+        "多位犯罪者"
+      ]
+    ],
+    "explanation": "convicted criminals 已定罪的罪犯；criminals in a story 故事中的犯罪者；catch criminals 抓捕罪犯。",
+    "usage": "a group of criminals 一伙罪犯；criminal behaviour 犯罪行为，前置形容词用 criminal。",
+    "contrast": "criminals 是人物名词；criminal 作形容词可修饰行为、调查等。suspects 是嫌疑人，词义上不等于已经被认定的罪犯。",
+    "examples": [
+      [
+        "The novel follows a detective searching for a group of criminals.",
+        "小说讲述侦探追查一伙罪犯的故事。"
+      ],
+      [
+        "The museum explains how criminals were identified in the past.",
+        "博物馆介绍了过去怎样识别罪犯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/criminals#English",
+      "https://en.wiktionary.org/wiki/criminal#English"
+    ]
+  },
+  {
+    "word": "finest",
+    "ipa": "/ˈfaɪnɪst/",
+    "meaning": "最好的、最优质的；最细的〔最高级〕",
+    "sense": "把质量推到最好的那一档，或把粗细推到最精细的一端，就是 finest。具体是哪条尺度，要看后面的东西。",
+    "split": "fine 去 e 加完整最高级后缀 -est → finest。优质、精细的 fine 经古法语 fin，通常与拉丁 finis、finire 相连，但更早具体路线并不完全确定。",
+    "history": [
+      [
+        "古法语 fin → 英语 fine",
+        "完善、优质、精细等性质；远源路径有不同分析"
+      ],
+      [
+        "fine + -est 的拼写变化 → finest",
+        "在某个范围中最好、最优质或最细"
+      ]
+    ],
+    "explanation": "the finest work 最佳作品；the finest materials 最优质材料；the finest threads 最细的线。",
+    "usage": "one of the finest examples 最好的例子之一；at its finest 处于最佳表现。",
+    "contrast": "finest 是最高级，finer 是比较级。one of the finest 后面常用复数名词，因为是从一组最佳对象里选一个。",
+    "examples": [
+      [
+        "This is one of her finest paintings.",
+        "这是她最出色的画作之一。"
+      ],
+      [
+        "The cloth is made with the finest threads.",
+        "布料由最细的线织成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/finest#English",
+      "https://en.wiktionary.org/wiki/fine#English"
+    ]
+  },
+  {
+    "word": "grants",
+    "ipa": "英 /ɡrɑːnts/；美 /ɡrænts/",
+    "meaning": "资助、补助金；授予的权利等〔复数〕；准予、授予〔第三人称单数〕",
+    "sense": "有权决定的一方说“这份资源、这项许可给你”，是 grants 的动词。被给出的资助、权利，也能一份份叫 grants。",
+    "split": "grant + -s，/t/ 后读 /s/。grant 经盎格鲁法语 granter、graunter 等准予、保证材料，较早联系相信、信任的拉丁词族，具体部分路线有不同分析。",
+    "history": [
+      [
+        "盎格鲁法语准予、保证相关词 → grant",
+        "同意给、准予；也有给出的资助、权利名词"
+      ],
+      [
+        "grant + -s → grants",
+        "多份资助、许可；某人、机构授予"
+      ]
+    ],
+    "explanation": "research grants 研究资助；grants permission 准予许可；grants access 授予访问权限。",
+    "usage": "grants for local projects 本地项目资助；apply for grants 申请资助。",
+    "contrast": "grants 是给出的资源、权利或授予动作；loans 常指需要按安排偿还的借款。grant 具体条件看事项本身，先分清是资助还是借贷。",
+    "examples": [
+      [
+        "The museum received two grants for its education programme.",
+        "博物馆为教育项目获得了两笔资助。"
+      ],
+      [
+        "The pass grants access to the reading room.",
+        "这张通行证允许进入阅览室。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grants#English",
+      "https://en.wiktionary.org/wiki/grant#English"
+    ]
+  },
+  {
+    "word": "hates",
+    "ipa": "/heɪts/",
+    "meaning": "讨厌、厌恶〔第三人称单数〕",
+    "sense": "不只是稍微不喜欢，而是有很强的排斥感，是 hates 的基本语气。不过日常也常夸张地说讨厌等车、讨厌早起。",
+    "split": "hate + -s，/t/ 后读 /s/。hate 继承古英语 hatian 等本族厌恶词族，名词、动词有相应历史。",
+    "history": [
+      [
+        "古英语 hatian 等 → hate",
+        "厌恶、强烈不喜欢"
+      ],
+      [
+        "hate + -s → hates",
+        "第三人称主语强烈不喜欢"
+      ]
+    ],
+    "explanation": "hates waiting 讨厌等待；hates to interrupt 不愿打断；hates the noise 讨厌噪声。",
+    "usage": "hates getting up early 讨厌早起；hates being late 讨厌迟到。",
+    "contrast": "hates doing 常说一类不喜欢的活动；hates to do 也常用，有时突出此刻不愿做或客气地引出不情愿的事。不能把两者绝对切成永远与现在。",
+    "examples": [
+      [
+        "She hates waiting in long queues.",
+        "她讨厌排长队。"
+      ],
+      [
+        "He hates to interrupt, but he needs to leave soon.",
+        "他不愿打断大家，但很快就得走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hates#English",
+      "https://en.wiktionary.org/wiki/hate#English"
+    ]
+  },
+  {
+    "word": "incidents",
+    "ipa": "/ˈɪnsɪdənts/",
+    "meaning": "事件、插曲；冲突、意外事件等〔复数〕",
+    "sense": "一段较长过程里突然发生的一件事，可以叫 incident。incidents 常把一件件值得记录的插曲、问题事件数出来。",
+    "split": "incident + -s，/t/ 后读 /s/。incident 经中古法语接拉丁 incidens，属 in- 与 cadere 形成的 incidere 落到、发生。",
+    "history": [
+      [
+        "拉丁 incidere、incidens → 法语 → incident",
+        "落到、发生 → 发生的一件事"
+      ],
+      [
+        "incident + -s → incidents",
+        "多件插曲、问题事件或冲突等"
+      ]
+    ],
+    "explanation": "minor incidents 小事件；incidents during the journey 旅途中的插曲；report incidents 报告事件。",
+    "usage": "without incident 平安无事地，固定表达常用单数；a series of incidents 一连串事件。",
+    "contrast": "incidents 比 accidents 更宽，可以是冲突、异常或一件值得提及的事，不一定是非故意造成的事故。events 又可以更中性、范围更广。",
+    "examples": [
+      [
+        "The journey was mostly quiet, apart from a few minor incidents.",
+        "除了几个小插曲，旅途大体平静。"
+      ],
+      [
+        "The report describes three separate incidents.",
+        "报告描述了三件不同的事件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incidents#English",
+      "https://en.wiktionary.org/wiki/incident#English"
+    ]
+  },
+  {
+    "word": "finer",
+    "ipa": "英 /ˈfaɪnə/；美 /ˈfaɪnər/",
+    "meaning": "更好、更优质；更细、更精细〔比较级〕",
+    "sense": "沿着 fine 的同一条尺度再往前一点：质量更好，线条更细，差别更精微，都可以是 finer。",
+    "split": "fine 去不发音 e 加完整比较级后缀 -er → finer。fine 的优质、精细义经古法语 fin，常与拉丁 finis、finire 联系，具体更远路径有不同分析。",
+    "history": [
+      [
+        "古法语 fin → 英语 fine",
+        "优质、精细等性质"
+      ],
+      [
+        "fine 去 e 加 -er → finer",
+        "在质量、粗细或精微程度上作比较"
+      ]
+    ],
+    "explanation": "finer lines 更细的线；finer details 更精细的细节；finer than 比……更好、细。",
+    "usage": "a finer brush 更细的画笔；a finer distinction 更细微的区别。",
+    "contrast": "finer 是比较级，finest 是最高级。实际比较的是质量还是粗细，要看后面的名词；不是每处 finer 都只能译为更好。",
+    "examples": [
+      [
+        "The second brush gives finer lines.",
+        "第二支画笔画出的线更细。"
+      ],
+      [
+        "We need to look at the finer details.",
+        "我们需要看看更细微的地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/finer#English",
+      "https://en.wiktionary.org/wiki/fine#English"
+    ]
+  }
+]

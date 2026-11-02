@@ -1,0 +1,80 @@
+[
+  {
+    "id": "A1894",
+    "meaning": "器物、制品；现代软件类别命名材料",
+    "core": "WARE：一类做出来、拿来用的东西；后来也给软件类别起名",
+    "image": "glassware 是玻璃器皿，tableware 是餐具；到了计算机，hardware 是硬件，software 是软件，firmware 又用 firm 命名贴近硬件的一层程序。",
+    "intro": "ware 本是古英语商品、制品的本族名词，独立常用复数 wares。合词可按材料、用途命名，如 earthenware、cookware；现代软件相关的 -ware 是沿 hardware／software 命名模式扩展，不能每个新词都再按实物商品逐字译。",
+    "forms": "earth + -en + ware，先有 earthen 土制的；ransom + -ware 是以赎金勒索为特征；ad + -ware 取 advertisement 的缩略。firmware 的 firm 是稳固、较固定的形容材料，不是公司。software、hardware 通常整体不可数，不写 two softwares 表两款软件。\n\n不同感觉尺度由名词和上下文确定，不都只说硬度。",
+    "branches": [
+      [
+        "器物按材料命名",
+        "glassware · silverware · stoneware；earth · earthen · earthenware"
+      ],
+      [
+        "器物按用途命名",
+        "tableware · dinnerware · cookware · kitchenware · homeware"
+      ],
+      [
+        "计算机基础类别",
+        "hardware · software · firm · firmware · middleware"
+      ],
+      [
+        "用途、分发模式与风险类别",
+        "freeware · shareware；malware · spyware · ransom · ransomware；ad · adware"
+      ],
+      [
+        "soft 的比较形式：触感、声音、态度",
+        "soft · softer · softest"
+      ]
+    ],
+    "contrasts": "firmware 程序／hardware 实体部件；ransomware 是恶意软件中的勒索类别；adware 与 spyware 特征不同，可能重叠；earthenware 陶器不等于所有陶瓷材料都一样。",
+    "practice": "The update changes the firmware, while the hardware remains the same.\n\n这次更新改变的是固件，硬件还是原来的硬件。",
+    "words": [
+      "ware",
+      "glass",
+      "glassware",
+      "silver",
+      "silverware",
+      "stone",
+      "stoneware",
+      "earth",
+      "earthen",
+      "earthenware",
+      "table",
+      "tableware",
+      "dinner",
+      "dinnerware",
+      "cook",
+      "cookware",
+      "kitchen",
+      "kitchenware",
+      "home",
+      "homeware",
+      "hard",
+      "hardware",
+      "soft",
+      "software",
+      "firm",
+      "firmware",
+      "middle",
+      "middleware",
+      "free",
+      "freeware",
+      "share",
+      "shareware",
+      "malware",
+      "spy",
+      "spyware",
+      "ransom",
+      "ransomware",
+      "ad",
+      "adware",
+      "softer",
+      "softest"
+    ],
+    "exclude": {
+      "flatware": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

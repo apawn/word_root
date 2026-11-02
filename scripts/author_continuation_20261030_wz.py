@@ -1,0 +1,75 @@
+"""Common past forms with clear roots: establish, associate, cause and produce."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C1404':dict(words=['establish','established'],label='establish → established：让事情站稳、确定下来',note='establish 经法语接拉丁 stabilīre 使稳固，established 的 -ed 在 /ʃ/ 后读 /t/。'),
+ 'C1358':dict(words=['associate','associated'],label='associate → associated：伙伴关系、联系',note='associate 接拉丁 ad- 加 sociare 联合的词族，associated 说相连、相关，不自动说明因果。'),
+ 'C0186':dict(words=['cause','caused'],label='cause → caused：原因与造成',note='cause 经法语接拉丁 causa 原因、案由等，caused 的词尾读 /d/。'),
+ 'C0351':dict(words=['produce','produced'],label='produce → produced：带出来、做出来',note='produce 接拉丁 pro- 加 ducere 带，produced 是动词过去形式，词尾读 /st/。'),
+ 'C0684':dict(words=['locate','located'],label='locate → located：安置到位置、查明位置',note='locate 接拉丁 locus、locare、locatus，located 常在 be located 中说明位置。'),
+ 'C0415':dict(words=['offer','offered'],label='offer → offered：把选择、帮助带到对方面前',note='offer 接拉丁 ob- 加 ferre，古英语 offrian 与法语相关形式参与借入历史；offered 不因有 -ed 就增加 /ɪd/ 音节。'),
+ 'C1060':dict(words=['place','placed'],label='place → placed：放到某处；排到某名次',note='place 经法语接宽阔道路词族，动词放置由位置名词发展；placed 的 /s/ 后加 /t/。'),
+ 'B4070':dict(words=['reach','reached'],label='reach → reached：伸到、到达、达成',note='reach 继承古英语 rǣċan，实体可及与抽象目标、协议、联系等用法并行；reached 词尾 /tʃt/。'),
+}
+W('established','/ɪˈstæblɪʃt/','建立了、确立了；已经稳固、受到承认的；establish 的过去式和过去分词',
+ '让一个组织站起来，让一套做法站稳，或把事实确认下来，都是 established。作形容词时常说已经有基础、有稳定地位。',
+ 'establish + -ed，/ʃ/ 后读 /t/。拉丁 stāre 站立 → stabilis 稳固 → stabilire 使稳固，经古法语 establir／establiss- 等进入英语。',
+ [['拉丁 stāre → stabilis → stabilīre → 古法语 establir／establiss- → establish','站得住 → 使稳固、设立'],['establish + -ed → established','过去建立、确认；已经稳固的']],
+ 'established a company 成立公司；established a routine 形成固定习惯；an established practice 已确立的做法；established that ... 查明、确认……。',
+ 'well established；an established writer。','established 作形容词可说作家、机构已经有稳固地位；newly established 则是刚成立。established the facts 强调把事实查清、确立，不只是把它写了一遍。',
+ ('The club was established by a group of local teachers.','这个俱乐部由一群当地教师创办。'),('They established a simple routine for checking the equipment.','他们形成了一套简单的设备检查流程。'),sources=['https://en.wiktionary.org/wiki/established#English','https://en.wiktionary.org/wiki/establish#English'])
+W('associated','英 /əˈsəʊsieɪtɪd/；美 /əˈsoʊsieɪtɪd/','联系起来了；与……相关、相联系的；associate 的过去式和过去分词',
+ '把两件事在头脑、活动或组织关系上连起来，是 associated。看到某个声音想到一个地方，也是一种关联。',
+ 'associate 去末尾 e，加完整 -ed；动词结尾 /eɪt/ 后加 /ɪd/。拉丁 ad- 向 + sociare 联合形成 associare，d 在 s 前同化，相关分词 associatus 也参与英语词史。',
+ [['拉丁 socius → ad- + sociare → associare／associatus → associate','伙伴 → 联合、结伴、相联系'],['associate 去 e + -ed → associated','过去联系；处于关联中的']],
+ 'associated with ... 与……相关；associated costs 相关费用；associated the smell with home 把这种气味和家联系起来。',
+ 'closely associated；the associated changes。','associated with 先说有关联，caused by 才明确说由……造成。两件事一起出现、被联系起来，并不由 associated 这个词本身确立因果方向。',
+ ('She associated the smell of fresh bread with her childhood.','新鲜面包的气味让她联想到童年。'),('The guide explains the tasks and their associated costs.','指南说明了各项任务及其相关费用。'),sources=['https://en.wiktionary.org/wiki/associated#English','https://en.wiktionary.org/wiki/associate#English'])
+W('caused','英 /kɔːzd/；美 /kɔːzd, kɑːzd/','造成了、引起了；使某人做了；cause 的过去式和过去分词',
+ '某件事把另一件事带出来、引起某个结果，就是 caused。结果可以是耽误、变化、笑声，也可以是让人重新考虑。',
+ 'cause 去末尾 e，加完整 -ed，原词 /z/ 后读 /d/。cause 经法语接拉丁 causa 原因、理由、案由等历史材料，现代动词表达引起结果。',
+ [['拉丁 causa → 法语 cause → 英语 cause','原因、理由、案由；相应造成结果的动作'],['cause 去 e + -ed → caused','过去引起、造成']],
+ 'caused a delay 造成延误；caused confusion 引起混乱；caused someone to stop 使某人停下；was caused by ... 由……造成。',
+ 'caused no problems；caused a change。','caused someone to do 后面有 to，made someone do 的主动使役结构常不加 to。caused by 把原因放在 by 后，结果是句子正在描述的对象。',
+ ('The missing address caused a delay in delivery.','地址缺失导致送货延误。'),('The unexpected noise caused everyone to stop talking.','突如其来的声音让大家都停止了交谈。'),sources=['https://en.wiktionary.org/wiki/caused#English','https://en.wiktionary.org/wiki/cause#English'])
+W('produced','英 /prəˈdjuːst/；美 /prəˈduːst/','生产了；产生了；拿出了；制作了；produce 的过去式和过去分词',
+ '把东西带到眼前、做成可用成果，是 produced。工厂产出产品，原因产生结果，人拿出证件，都可以这么说。',
+ 'produce 去末尾 e，加完整 -ed；原词 /s/ 后读 /t/，结尾 /st/。拉丁 pro- 向前、向外 + dūcere 带形成 producere，经借入成为英语动词。',
+ [['拉丁 pro- + ducere → producere → produce','向前带出 → 产生、生产、拿出'],['produce 去 e + -ed → produced','过去生产、产生、拿出、制作']],
+ 'produced goods 生产了商品；produced a result 产生结果；produced a ticket 出示票；produced a film 制作影片。',
+ 'produced locally；produced by the team。','produced 属于动词的变化，主重音落在后面的 /djuːs／duːs/。produce 作农产品名词时，常另重读第一音节；先分词性，读音更清楚。',
+ ('The workshop produced twenty chairs that week.','作坊那周做出了二十把椅子。'),('She produced the missing key from her coat pocket.','她从外套口袋里拿出了那把丢失的钥匙。'),sources=['https://en.wiktionary.org/wiki/produced#English','https://en.wiktionary.org/wiki/produce#English'])
+W('located','英 /ləʊˈkeɪtɪd/；美 /ˈloʊkeɪtɪd, loʊˈkeɪtɪd/','查明位置了；安置了；位于……的；locate 的过去式和过去分词',
+ '先给东西找到位置，或把它所在的位置查清，是 located。最常见的 be located in／near 则直接说明它在哪儿。',
+ 'locate 去末尾 e，加完整 -ed，/t/ 后读 /ɪd/。拉丁 locus 地方 → locare 放置 → locatus 分词，提供英语 locate 的历史材料，后来查明位置义常见。',
+ [['拉丁 locus → locare／locatus → locate','地方 → 放置、安置；查明位置'],['locate 去 e + -ed → located','过去查明位置；被安置；位于']],
+ 'located the key 找到了钥匙所在；located in ... 位于……内；located near ... 位于……附近；centrally located 位于中心地带。',
+ 'is located beside ...；was finally located。','We located the room 说我们找到了房间的位置；The room is located upstairs 说房间位于楼上。be located 常用来说明位置，未必在讲谁刚把它搬过去。',
+ ('The entrance is located on the quieter side of the building.','入口位于建筑较安静的一侧。'),('We finally located the missing box in the storage room.','我们终于在储藏室里找到了那个丢失的盒子。'),sources=['https://en.wiktionary.org/wiki/located#English','https://en.wiktionary.org/wiki/locate#English'])
+W('offered','英 /ˈɒfəd/；美 /ˈɔːfərd, ˈɑːfərd/','主动提出了；提供了；出价了；offer 的过去式和过去分词',
+ '把一个选择、帮助或物品递到对方面前，让对方有机会接受，是 offered。提出了，并不自动说明已经被接受。',
+ 'offer + -ed，词尾读 /d/，不增加 /ɪd/ 音节。拉丁 ob- + ferre 带形成 offerre；古英语 offrian 较早借入，后来法语 offrir 等也参与词史。',
+ [['拉丁 ob- + ferre → offerre → 古英语 offrian；另有法语相关影响','带到面前、呈献 → 提供、主动提出'],['offer + -ed → offered','过去提供、提出、出价']],
+ 'offered help 主动提供帮助；offered to carry ... 主动提出帮忙搬……；offered someone a seat 给某人让座、提供座位；offered a price 报了价。',
+ 'offered an explanation；was offered a place。','offered to help 是主动提出帮忙，asked for help 是请求别人帮助。offer someone something 与 offer something to someone 都可以把人和物说清。',
+ ('He offered to carry the heavier bag.','他主动提出帮忙拿更重的包。'),('The host offered us tea while we waited.','我们等候时，主人请我们喝茶。'),sources=['https://en.wiktionary.org/wiki/offered#English','https://en.wiktionary.org/wiki/offer#English'])
+W('placed','/pleɪst/','放置了、安置了；安排了；排在某名次；place 的过去式和过去分词',
+ '把东西放到一个位置，或把人排进一个名次、角色，是 placed。位置可以是桌面，也可以是名单和比赛结果里。',
+ 'place 去末尾 e，加完整 -ed；/s/ 后读 /t/，结尾 /st/。place 经法语、拉丁接希腊宽阔道路、场所词族，动词由位置、场所名词发展。',
+ [['希腊宽阔道路词 → 拉丁 platēa → 法语 place → 英语 place','路、场所 → 位置；放置'],['place 去 e + -ed → placed','过去放置、安排；位列']],
+ 'placed the cup on the table 把杯子放桌上；placed an order 下了订单；placed third 名列第三；placed in charge 被安排负责。',
+ 'carefully placed；was placed near the door。','placed on the table 说放到桌面，placed third 说比赛排名。place an order 是下订单，不能只按把订单摆在某处理解。',
+ ('She placed the keys beside the notebook.','她把钥匙放在笔记本旁。'),('Our team placed third in the competition.','我们队在比赛中获得第三名。'),sources=['https://en.wiktionary.org/wiki/placed#English','https://en.wiktionary.org/wiki/place#English'])
+W('reached','/riːtʃt/','到达了、够到了；联系到了；达成、达到；reach 的过去式和过去分词',
+ '原本有一段距离，现在终于伸到了、走到了，或在目标上够到了，是 reached。协议、数值、电话联系也能这样达到。',
+ 'reach + -ed，/tʃ/ 后词尾读 /t/，结尾连成 /tʃt/。reach 继承古英语 rǣċan，伸到、到达的本族词族延续到现代。',
+ [['古英语 rǣċan → 中古英语 rechen → reach','伸到、够到、到达'],['reach + -ed → reached','过去到达、联系上；达成、达到']],
+ 'reached the station 到车站；reached an agreement 达成协议；reached a decision 作出决定；reached a hundred 达到一百；reached someone by phone 电话联系到了某人。',
+ 'finally reached；has reached the target。','reached the station 后直接接地点，不按 arrive at 的结构再加 at。reached an agreement 说达成了协议，discussed an agreement 只说讨论过。',
+ ('We reached the village just before sunset.','我们在日落前刚好赶到了村庄。'),('The group reached an agreement after a short discussion.','简短讨论后，小组达成了一致。'),sources=['https://en.wiktionary.org/wiki/reached#English','https://en.wiktionary.org/wiki/reach#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_wz',ROOTS,WORDS)
+ extend_lessons()

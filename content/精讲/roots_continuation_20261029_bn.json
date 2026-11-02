@@ -1,0 +1,68 @@
+[
+  {
+    "id": "B3070",
+    "meaning": "短；不够；另有糕饼酥脆义",
+    "core": "SHORT：距离短，时间短，离所需还差一截",
+    "image": "先把短的距离想清楚，再看不够的数量。食品名称里另记 short 的旧口感义。",
+    "intro": "short 接古英语 sċeort。shorten 是变短，shortly 常说不久；shortage、shortfall、shortcoming 分别关心供给、差额和质量不足。",
+    "forms": "short → shorten、shortly、shortness、shorts；不足一组 shortage、shortfall、shortcoming、shorthanded；应用一组 shortcut、shorthand、shortstop、shortwave；食品 shortbread、shortcake。\n\nshort 可以比较长度、时间和内容篇幅；shorter 不自动意味着更容易，具体评价看语境。\n\n与 short 较远同接切短材料，但 curt 借拉丁 curtus，short 接古英语日耳曼语线；不是现代 short 随意变几个字母。简短后来带出唐突、不耐烦的语气。",
+    "branches": [
+      [
+        "基本性质及其变化",
+        "short · shorten · shortly · shortness · shorts"
+      ],
+      [
+        "不够的不同方面",
+        "shortage · shortfall · shortcoming · shorthanded"
+      ],
+      [
+        "路径、记法、位置与波",
+        "shortcut · shorthand · shortstop · shortwave"
+      ],
+      [
+        "酥的口感旧义",
+        "shortbread · shortcake"
+      ],
+      [
+        "short → shorter → shortest：更短、最短",
+        "short · shorter · shortest"
+      ],
+      [
+        "curt：缩短、简短 → 短得不客气",
+        "curt"
+      ]
+    ],
+    "contrasts": "shortly 不久，briefly 简要地；shortage 不够用，shortfall 与目标的差额；shortbread 不是短面包。",
+    "practice": "We took a shortcut because we were short of time.\n\n我们时间不够，就抄了近路。",
+    "words": [
+      "short",
+      "shorten",
+      "shortly",
+      "shortness",
+      "shorts",
+      "shortage",
+      "shortfall",
+      "shortcoming",
+      "shorthanded",
+      "shortcut",
+      "shorthand",
+      "shortstop",
+      "shortwave",
+      "shortbread",
+      "shortcake",
+      "shorter",
+      "shortest",
+      "curt"
+    ],
+    "exclude": {
+      "short-pay": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-term": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-lived": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-fetched": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shorty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "short-sleeved": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shorthair": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

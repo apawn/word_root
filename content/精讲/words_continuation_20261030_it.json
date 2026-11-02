@@ -1,0 +1,447 @@
+[
+  {
+    "word": "pope",
+    "ipa": "英 /pəʊp/；美 /poʊp/",
+    "meaning": "教宗、教皇；某些其他教会传统的同类称号",
+    "sense": "词的远处有父亲这一尊称的感觉，后来成为特定宗教领袖的称号。普通英语 the Pope 多指罗马天主教教宗。",
+    "split": "经古英语 pāpa 接教会拉丁 pāpa、希腊宗教称呼 pápas，远源是爸爸式称呼。不是现代 pop 流行加 e，也不是每个 pope 都由现代 papa 临时变化。",
+    "history": [
+      [
+        "希腊 páppas 爸爸 → pápas 等宗教称呼",
+        "从父亲称呼发展为神职、宗教领袖尊称"
+      ],
+      [
+        "教会拉丁 pāpa → 古英语 pāpa → pope",
+        "英语常说罗马天主教教宗；其他传统也有相应称号"
+      ],
+      [
+        "另有平行拉丁、法语词形借入",
+        "pāpālis → papal；pāpātia → papacy"
+      ]
+    ],
+    "explanation": "the Pope 教宗，a papal visit 教宗访问，a portrait of a pope 某位教宗的肖像。某些亚历山大教会传统也使用 Pope 这一称号。",
+    "usage": "the Pope；a portrait of a pope；the election of a pope。",
+    "contrast": "pope 是称号，papal 是相关形容词，papacy 说职务、制度或任期；不能把某一个人的名字当成这个普通词的永久含义。",
+    "examples": [
+      [
+        "The museum displays a portrait of a medieval pope.",
+        "博物馆展出了一幅中世纪教宗的肖像。"
+      ],
+      [
+        "The chapter describes how a new pope was elected.",
+        "这一章介绍了一位新教宗如何当选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pope#English",
+      "https://www.etymonline.com/word/pope"
+    ]
+  },
+  {
+    "word": "papal",
+    "ipa": "/ˈpeɪpəl/",
+    "meaning": "教宗的、教廷相关的",
+    "sense": "papal visit 不是另一种叫 papal 的人，而是在说明这次访问和教宗有关。它给后面的事物加一个关系标签。",
+    "split": "借古法语 papal、中世纪拉丁 pāpālis，联系 pāpa 教宗。不是现代英语 pope 简单接 -al 后机械保留 /əʊ/；拉丁词干在平行借词里有不同表现。",
+    "history": [
+      [
+        "希腊 páppas 爸爸 → pápas 等宗教称呼",
+        "从父亲称呼发展为神职、宗教领袖尊称"
+      ],
+      [
+        "教会拉丁 pāpa → 古英语 pāpa → pope",
+        "英语常说罗马天主教教宗；其他传统也有相应称号"
+      ],
+      [
+        "pāpālis → 古法语、英语 papal",
+        "教宗相关的形容词；元音 /eɪ/"
+      ]
+    ],
+    "explanation": "a papal visit 教宗访问，papal authority 教宗权威，a papal document 教宗文件。",
+    "usage": "a papal visit；papal authority；a papal document。",
+    "contrast": "papal 比 Catholic 天主教的更具体，并非每位天主教徒的个人行为都是 papal。papal 形容词，papacy 是名词。",
+    "examples": [
+      [
+        "The archive contains several papal documents.",
+        "档案馆保存着几份教宗文件。"
+      ],
+      [
+        "The historian studied the records of a papal visit.",
+        "历史学家研究了一次教宗访问的记录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/papal#English"
+    ]
+  },
+  {
+    "word": "papacy",
+    "ipa": "/ˈpeɪpəsi/",
+    "meaning": "教宗职位、教宗制度；某位教宗的任期",
+    "sense": "pope 是担任职务的人，papacy 可以是那个职务、围绕它的制度，也可以是他担任这份职务的那一段时期。",
+    "split": "中古英语 papacie 等接中世纪拉丁 pāpātia，来自 pāpa 加职务、地位名词成分。末尾 -cy 在英语里标身份、制度等名词关系，不按 pope + 普通 y 现场拼造。",
+    "history": [
+      [
+        "希腊 páppas 爸爸 → pápas 等宗教称呼",
+        "从父亲称呼发展为神职、宗教领袖尊称"
+      ],
+      [
+        "教会拉丁 pāpa → 古英语 pāpa → pope",
+        "英语常说罗马天主教教宗；其他传统也有相应称号"
+      ],
+      [
+        "pāpa + 职务成分 → pāpātia → papacy",
+        "教宗职位、制度；后来也指任职时期"
+      ]
+    ],
+    "explanation": "during his papacy 在他任教宗期间，the history of the papacy 教宗制度史，the powers of the papacy 教宗职位的权力。",
+    "usage": "during his papacy；the history of the papacy。",
+    "contrast": "papacy 不仅是某个人，也不等于所有神职职位。during his papacy 说任期，papal document 说文件关系，词性不同。",
+    "examples": [
+      [
+        "Several reforms took place during his papacy.",
+        "他担任教宗期间进行了几项改革。"
+      ],
+      [
+        "The book traces the history of the papacy.",
+        "这本书追溯教宗制度的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/papacy#English"
+    ]
+  },
+  {
+    "word": "bullfighter",
+    "ipa": "英 /ˈbʊlfaɪtə/；美 /ˈbʊlfaɪtər/",
+    "meaning": "斗牛士",
+    "sense": "fight 的对象是 bull 公牛，组合后形成斗牛活动参与者的名称。不是一头很会打架的公牛。",
+    "split": "bull + fighter，或对应 bullfight 斗牛 + -er。固定词通常说斗牛表演、活动的参与者，不限定英语里只有 matador 那一个更具体角色。",
+    "history": [
+      [
+        "古英语 feohtan、feohtere → fight、fighter",
+        "搏斗、战斗；相应参与者"
+      ],
+      [
+        "bull + fighter → bullfighter",
+        "参加斗牛活动的人"
+      ]
+    ],
+    "explanation": "a professional bullfighter 职业斗牛士，a bullfighter’s costume 斗牛士服装，a portrait of a bullfighter 斗牛士肖像。",
+    "usage": "a professional bullfighter；a bullfighter’s costume。",
+    "contrast": "bullfighter 是较广的英语称呼；matador 在具体斗牛传统里有更特定角色，不能只凭中文都译斗牛士就抹平区别。",
+    "examples": [
+      [
+        "The museum displays a bullfighter’s costume.",
+        "博物馆展出了一套斗牛士服装。"
+      ],
+      [
+        "The novel follows the career of a young bullfighter.",
+        "小说追踪了一位年轻斗牛士的生涯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bullfighter#English"
+    ]
+  },
+  {
+    "word": "gunfighter",
+    "ipa": "英 /ˈɡʌnfaɪtə/；美 /ˈɡʌnfaɪtər/",
+    "meaning": "枪手，尤指西部故事中参与枪战的人",
+    "sense": "西部片里靠枪决斗、参与枪战的角色，常叫 gunfighter。前半说使用的武器，不是专门去和一把枪打架。",
+    "split": "gun 枪 + fighter，形成参与枪战的人物名词。常见于美国西部题材，不能泛指所有按职业合法配枪的人。",
+    "history": [
+      [
+        "古英语 feohtan、feohtere → fight、fighter",
+        "搏斗、战斗；相应参与者"
+      ],
+      [
+        "gun + fighter → gunfighter",
+        "参与枪战的人，尤见西部题材"
+      ]
+    ],
+    "explanation": "a Western gunfighter 西部枪手，a legendary gunfighter 传说中的枪手，a retired gunfighter 退隐的枪手角色。",
+    "usage": "a Western gunfighter；a retired gunfighter。",
+    "contrast": "gunfighter 强调枪战角色，gun owner 只说枪支持有者；fighter 的前半在不同组合里可能是对象、手段或场景，不固定同一种语法关系。",
+    "examples": [
+      [
+        "The film tells the story of a retired gunfighter.",
+        "电影讲述一名退隐枪手的故事。"
+      ],
+      [
+        "The actor became famous for playing gunfighters in Westerns.",
+        "那位演员因在西部片中扮演枪手而出名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gunfighter#English"
+    ]
+  },
+  {
+    "word": "prizefighter",
+    "ipa": "英 /ˈpraɪzfaɪtə/；美 /ˈpraɪzˌfaɪtər/",
+    "meaning": "职业拳击手",
+    "sense": "现代常说靠有报酬的拳赛为业的人，不是只要拿过任何体育奖项就能叫 prizefighter。",
+    "split": "可按 prizefight + -er，或 prize + fighter 认形。早期 prize/prise 还有竞技比赛的用法，后来与奖金 prize 联系加深；不能把整个历史简化成拿过奖的斗士。",
+    "history": [
+      [
+        "古英语 feohtan、feohtere → fight、fighter",
+        "搏斗、战斗；相应参与者"
+      ],
+      [
+        "早期 prize / prise 的比赛义 + fighter",
+        "参加竞技比赛的人，具体历史词源仍有讨论"
+      ],
+      [
+        "后来与奖金、职业拳赛相联系",
+        "prizefighter 固定为职业拳击手"
+      ]
+    ],
+    "explanation": "a professional prizefighter 职业拳击手，a retired prizefighter 退役职业拳手，the career of a prizefighter 拳手生涯。",
+    "usage": "a retired prizefighter；the career of a prizefighter。",
+    "contrast": "prizefighter 不是所有冠军 champion；赢奖不是这个身份的必要逐字定义。boxer 拳击手范围较宽，prizefighter 强调职业、报酬语境。",
+    "examples": [
+      [
+        "The biography describes her years as a prizefighter.",
+        "传记介绍了她从事职业拳击的那些年。"
+      ],
+      [
+        "The retired prizefighter now coaches young boxers.",
+        "那位退役职业拳手现在训练年轻拳击手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prizefighter#English",
+      "https://www.merriam-webster.com/dictionary/prizefighter"
+    ]
+  },
+  {
+    "word": "starfighter",
+    "ipa": "英 /ˈstɑːfaɪtə/；美 /ˈstɑːrfaɪtər/",
+    "meaning": "星际战斗机、太空战斗飞行器〔科幻〕",
+    "sense": "把 fighter 的战斗机义搬到群星之间，想成科幻作品里的小型战斗飞行器。不是去攻击恒星的人。",
+    "split": "star 星、太空环境 + fighter 战斗机。前半设定场景，后半取器具义，与 bullfighter 等人物名词的理解不同。",
+    "history": [
+      [
+        "古英语 feohtan、feohtere → fight、fighter",
+        "搏斗、战斗；相应参与者"
+      ],
+      [
+        "人物名词扩到器具名",
+        "fighter 战斗者；fighter 战斗机"
+      ],
+      [
+        "star + fighter → starfighter",
+        "在科幻太空场景执行战斗任务的飞行器"
+      ]
+    ],
+    "explanation": "a starfighter pilot 星际战斗机飞行员，a squadron of starfighters 一队星际战斗机，a fictional starfighter 虚构太空战斗飞行器。",
+    "usage": "a starfighter pilot；a squadron of starfighters。",
+    "contrast": "starfighter 常见普通义是科幻飞行器；具体现实飞机也可能用 Starfighter 作专名，须分普通词和产品、机型名称。",
+    "examples": [
+      [
+        "The novel opens with a starfighter leaving the space station.",
+        "小说开篇是一架星际战斗机离开空间站。"
+      ],
+      [
+        "She designed a starfighter for the game.",
+        "她为游戏设计了一架太空战斗飞行器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starfighter#English"
+    ]
+  },
+  {
+    "word": "creep",
+    "ipa": "/kriːp/",
+    "meaning": "缓慢爬行、悄悄移动；逐渐蔓延；蠕变；令人不适的人〔贬义〕",
+    "sense": "不是大步冲过去，而是一点点贴近，甚至没人留意。价格、工作范围、不安感也可能这样悄悄增加。",
+    "split": "接古英语 crēopan，经中古英语 crepen → creep。常见过去式、过去分词 crept /krept/；慢变义扩到材料、地质、项目范围等，人称贬义又是固定用法。",
+    "history": [
+      [
+        "古英语 crēopan → 中古英语 crepen → creep",
+        "贴地、缓慢移动；悄悄靠近"
+      ],
+      [
+        "动作扩到变化和感受",
+        "缓慢增多、蔓延；让皮肤仿佛有东西爬的惊惧感"
+      ],
+      [
+        "人物、物件与相关旧词",
+        "creeper、creepy、creeping；cripple 接 crypel，和爬、弯曲词源关系有讨论"
+      ]
+    ],
+    "explanation": "creep along 慢慢挪动，creep into a room 悄悄进房间，doubt creeps in 疑虑悄悄产生，scope creep 项目范围不知不觉膨胀，give someone the creeps 让人发毛。",
+    "usage": "creep along；creep into；doubt creeps in；scope creep；give someone the creeps。",
+    "contrast": "creep 可以写自然缓慢运动，不总有恐怖意味；a creep 却常是令人反感、举止不当的人这一贬称。scope creep 不是程序里一只爬虫。",
+    "examples": [
+      [
+        "The cat crept towards the open door.",
+        "猫悄悄朝敞开的门靠近。"
+      ],
+      [
+        "Extra tasks kept creeping into the project.",
+        "额外任务不断悄悄加进项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creep#English",
+      "https://www.etymonline.com/word/creep"
+    ]
+  },
+  {
+    "word": "creeping",
+    "ipa": "/ˈkriːpɪŋ/",
+    "meaning": "爬行、匍匐生长的；缓慢而不易察觉地蔓延的；爬行过程",
+    "sense": "藤蔓一点点铺开，不安感一点点长大，都能叫 creeping。强调变化正在慢慢侵入注意范围，不必真的有腿在爬。",
+    "split": "creep + -ing，进行形式、过程名词或相应形容词。动作义很早，逐渐扩展的形容用法也有长期历史，不是所有 -ing 都只说此刻正在爬。",
+    "history": [
+      [
+        "古英语 crēopan → 中古英语 crepen → creep",
+        "贴地、缓慢移动；悄悄靠近"
+      ],
+      [
+        "动作扩到变化和感受",
+        "缓慢增多、蔓延；让皮肤仿佛有东西爬的惊惧感"
+      ],
+      [
+        "creep + -ing → creeping",
+        "爬行过程；沿面生长、逐渐扩展的性质"
+      ]
+    ],
+    "explanation": "a creeping plant 匍匐或蔓生植物，a creeping sense of unease 逐渐加重的不安，creeping costs 不知不觉增加的成本。",
+    "usage": "a creeping plant；a creeping sense of unease。",
+    "contrast": "creeping 强调慢慢蔓延，creepy 强调使人不安；creeping plant 不因此就可怕。",
+    "examples": [
+      [
+        "A creeping plant covered the low wall.",
+        "一株蔓生植物覆盖了矮墙。"
+      ],
+      [
+        "She felt a creeping sense of unease.",
+        "她感到不安正一点点加重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creeping#English",
+      "https://www.merriam-webster.com/dictionary/creeping"
+    ]
+  },
+  {
+    "word": "creeper",
+    "ipa": "英 /ˈkriːpə/；美 /ˈkriːpər/",
+    "meaning": "蔓生、攀缘植物；爬行者；低矮带轮躺板；令人不适的人〔依语境〕",
+    "sense": "常用植物义像贴着地面、墙面一点点爬过去。车底维修的躺板也低低贴地滚动；人的俚语义则要看是否说令人发毛。",
+    "split": "creep + -er，接古英语 crēopere 等旧形式。-er 可指人、动物、植物、器具；令人不适的人这一口语用法联系 creep out、the creeps，不限于真正在地上爬。",
+    "history": [
+      [
+        "古英语 crēopan → 中古英语 crepen → creep",
+        "贴地、缓慢移动；悄悄靠近"
+      ],
+      [
+        "动作扩到变化和感受",
+        "缓慢增多、蔓延；让皮肤仿佛有东西爬的惊惧感"
+      ],
+      [
+        "creep + -er → creeper",
+        "爬行、蔓生者；低矮移动器具等"
+      ],
+      [
+        "不安感觉的俚语分支",
+        "令人不适的人物称呼"
+      ]
+    ],
+    "explanation": "a wall covered in creepers 长满攀缘植物的墙，a mechanic’s creeper 修车躺板，a Virginia creeper 美国地锦这一植物名。",
+    "usage": "a wall covered in creepers；a mechanic’s creeper。",
+    "contrast": "creeper 不总是 creepy 的人；creepers 还可指特定厚底鞋，属于固定物件名称，不能只套植物义。",
+    "examples": [
+      [
+        "Creepers covered the front of the old house.",
+        "攀缘植物爬满了老屋正面。"
+      ],
+      [
+        "The mechanic lay on a creeper beneath the vehicle.",
+        "修理工躺在车底的带轮躺板上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creeper#English"
+    ]
+  },
+  {
+    "word": "creepy",
+    "ipa": "/ˈkriːpi/",
+    "meaning": "令人发毛、不安的；举止令人反感的",
+    "sense": "空屋里有古怪脚步声，或有人一直盯着你，让你浑身不自在。借像有什么贴着皮肤爬的感觉，就能记住这个评价。",
+    "split": "creep + -y；与 the creeps 毛骨悚然的感觉、creep 的令人不适人物义相连。形象帮助理解，不声称每个人都真有昆虫爬身的生理感觉。",
+    "history": [
+      [
+        "古英语 crēopan → 中古英语 crepen → creep",
+        "贴地、缓慢移动；悄悄靠近"
+      ],
+      [
+        "动作扩到变化和感受",
+        "缓慢增多、蔓延；让皮肤仿佛有东西爬的惊惧感"
+      ],
+      [
+        "creep + -y → creepy",
+        "让人不安、发毛；也评行为令人不舒服"
+      ]
+    ],
+    "explanation": "a creepy house 阴森的房子，a creepy sound 令人发毛的声音，a creepy stare 让人不舒服的凝视，find something creepy 觉得某事令人不安。",
+    "usage": "a creepy house；a creepy sound；a creepy stare。",
+    "contrast": "creepy 不等于 creeping 慢慢爬，也不一定达到 terrified 极度恐惧；它常先是一种不舒服、哪里不对劲的感觉。",
+    "examples": [
+      [
+        "The empty house had a creepy atmosphere.",
+        "空房子里有种阴森的气氛。"
+      ],
+      [
+        "She found his constant staring creepy.",
+        "他一直盯着人看，让她很不舒服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creepy#English"
+    ]
+  },
+  {
+    "word": "cripple",
+    "ipa": "/ˈkrɪpəl/",
+    "meaning": "使严重受损、陷入瘫痪；旧时对肢体障碍者的冒犯性称呼",
+    "sense": "现代新闻里常见动词：一场风暴让交通系统几乎不能工作，叫 cripple the network。作为称人的名词则带冒犯性，读旧作品时识别即可。",
+    "split": "接古英语 crypel、相关弯曲词形；与 creep 的爬行、弯身一组可能有关系，但不是现代直接把 creep 换个元音加 -le 就造出。名词再发展出使行动、运转能力严重受损的动词。",
+    "history": [
+      [
+        "古英语 crypel → 中古英语 cripel → cripple",
+        "旧时按肢体、行动受限描述人的词"
+      ],
+      [
+        "名词转动词，扩到系统、经济等",
+        "使严重受损、不能正常运转"
+      ],
+      [
+        "与 creep 等旧词的关系",
+        "可能同族，但直接词形和具体重建不能简化为现代拼词"
+      ]
+    ],
+    "explanation": "cripple a transport network 使交通网严重瘫痪，cripple production 使生产严重受阻，cripple the economy 重创经济。",
+    "usage": "cripple a transport network；cripple production；cripple the economy。",
+    "contrast": "cripple 动词往往表示很强的损害，不等于轻微 delay 延误；称人通常用具体、尊重的描述，不把旧名词当普通中性称呼。",
+    "examples": [
+      [
+        "The storm crippled the region’s transport network.",
+        "风暴使该地区交通网严重瘫痪。"
+      ],
+      [
+        "A shortage of spare parts could cripple production.",
+        "备用零件短缺可能使生产严重受阻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cripple#English",
+      "https://www.etymonline.com/word/cripple"
+    ]
+  }
+]

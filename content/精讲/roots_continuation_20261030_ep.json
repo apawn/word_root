@@ -1,0 +1,125 @@
+[
+  {
+    "id": "B3890",
+    "meaning": "末端、目标、顶撞分支分开，身体义再看语气",
+    "core": "BUTT：同拼写有几条路，末端和撞击不能全译成屁股",
+    "image": "butt → buttock、butthole、butthead、butthurt；headbutt 接顶撞；abut 接边缘相接。",
+    "intro": "身体词有中性、粗俗、骂语区别；butter 黄油不是屁股人物后缀，鱼名 halibut 也另看扁鱼材料。",
+    "forms": "日耳曼与法语末端、目标词 → butt 相应名词；buter 等 → 顶撞；buttuc → buttock；head + butt；法语相接词形 → abut。\n\nbutt 多支来源有交织：厚末端、烟头；法语 buter 推撞动词；靶子到笑柄；臀部义可能接末端或 buttock。不要全部由现代屁股名词造出，butt in 插话接顶入、闯入关系。",
+    "branches": [
+      [
+        "身体与口语评价",
+        "butt · buttock · butthole · butthead · butthurt"
+      ],
+      [
+        "顶撞和接壤",
+        "headbutt · abut"
+      ],
+      [
+        "butt → butts、butted、butting：末端、顶撞与插话",
+        "butt · butts · butted · butting"
+      ]
+    ],
+    "contrasts": "butt/but 同音；butthead/headbutt 词序意义不同；abut/overlap 相接重叠；butter 不按 butt+-er。",
+    "practice": "The garden abuts the wall; the goat gave the gate a headbutt.\n\n花园紧挨着墙；山羊用头撞了大门一下。",
+    "words": [
+      "butt",
+      "buttock",
+      "butthole",
+      "butthead",
+      "butthurt",
+      "headbutt",
+      "abut",
+      "butts",
+      "butted",
+      "butting"
+    ],
+    "exclude": {
+      "butter": "黄油接古英语 butere 等，更早经拉丁希腊奶酪词族，不是 butt 加人物 -er。",
+      "back-butt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butt-rock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butt-rape": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butt-ton": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bare-butt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "butt-kicking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "halibut": "鱼名后半接日耳曼扁鱼名称，不能直接当现代屁股 butt 的合成词。"
+    }
+  },
+  {
+    "id": "B3156",
+    "meaning": "平台作为站立、活动或运行的基础",
+    "core": "PLATFORM：先有承托的台，再借给活动和软件基础",
+    "image": "platform → platformer、platforming，游戏人物跳来跳去的台保留具体画面。",
+    "intro": "站台、政策纲领、软件平台按场景理解；platformer 不是所有运行在平台上的程序。",
+    "forms": "plate-forme 等 → platform；platform + -er/-ing。\n\n法语 plateforme 的平、形状材料，英语实体平台到交通、技术、公共表达等分支。",
+    "branches": [
+      [
+        "基础平台与游戏玩法",
+        "platform · platformer · platforming"
+      ],
+      [
+        "platform → platforms：托起活动的平面、系统",
+        "platform · platforms"
+      ]
+    ],
+    "contrasts": "platformer 类型和作品；platforming 玩法；提供发声平台是另一动词语境。",
+    "practice": "The platformer includes some demanding platforming.\n\n这款平台游戏包含一些操作要求较高的跳跃段落。",
+    "words": [
+      "platform",
+      "platformer",
+      "platforming",
+      "platforms"
+    ],
+    "exclude": {
+      "no-platform": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-platform": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-platform": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multi-platform": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3385",
+    "meaning": "转动的圆轮及其部件、器具和比喻",
+    "core": "WHEEL：轮子不停转，交通和动作名称跟着长出来",
+    "image": "wheel → wheeler、wheelie；wheelchair、wheelbarrow、wheelbase、flywheel、wheelhouse 按功能部位分；cartwheel 接轮转动作。",
+    "intro": "轮胎只是轮相关部件，轴距不是车长；wheelie 翘轮与 cartwheel 侧手翻分清，不能见 -wheel 都同一动作。",
+    "forms": "hwēol 等经中古英语 → wheel；wheel + -er/-ie/chair/barrow/base/house；fly + wheel；cart + wheel。\n\n古英语轮名延续，英语也可用作动词。",
+    "branches": [
+      [
+        "基础、车辆称呼与翘轮动作",
+        "wheel · wheeler · wheelie"
+      ],
+      [
+        "器具、部位与尺寸",
+        "wheelchair · wheelbarrow · wheelbase · flywheel · wheelhouse"
+      ],
+      [
+        "车轮到体操动作",
+        "cartwheel"
+      ],
+      [
+        "wheel → wheels：轮子与推行",
+        "wheel · wheels"
+      ]
+    ],
+    "contrasts": "wheel/tyre 轮与胎；wheelbarrow/borrow 搬运车与借；wheelbase/track width 前后左右；cartwheel/wheelie 动作不同。",
+    "practice": "The wheelbarrow had one wheel, while the cart had four.\n\n这辆手推车有一个轮子，那辆大车则有四个。",
+    "words": [
+      "wheel",
+      "wheeler",
+      "wheelie",
+      "wheelchair",
+      "wheelbarrow",
+      "wheelbase",
+      "flywheel",
+      "wheelhouse",
+      "cartwheel",
+      "wheels"
+    ],
+    "exclude": {
+      "all-wheel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wheel-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wheeler-dealer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

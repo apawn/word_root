@@ -1,0 +1,145 @@
+[
+  {
+    "id": "B3688",
+    "meaning": "不同部分接合、配合，声音与规则都可协调",
+    "core": "HARMONY：可以各不相同，但放在一起合得上",
+    "image": "harmony → harmonize → harmonization、harmonisation；disharmony 是否定状态。",
+    "intro": "和声里不同音可以一起成立，合作里不同人也能配合。动词让它协调，过程名词说协调工作，dis- 再把关系反过来。",
+    "forms": "希腊 harmonía 接合、配合，经拉丁法语到 harmony；-ize／-ise 动词，-ation 过程，dis- 否定。\n\n共同核心是接合、配合。harmonica 早期指玻璃乐器，后来也命名口琴；共同名称不意味着玻璃乐器物理改造成口琴。",
+    "branches": [
+      [
+        "协调状态、动作及过程",
+        "harmony · harmonize · harmonization · harmonisation"
+      ],
+      [
+        "缺少协调的状态",
+        "disharmony"
+      ],
+      [
+        "harmony 的协调、和声与 harmonica 名称",
+        "harmony · harmonies · harmonic · harmonize · harmonise · harmonized · harmonizing · harmonica · harmonicas"
+      ]
+    ],
+    "contrasts": "harmonization 过程与 harmony 状态分清；s、z 是拼写对应。",
+    "practice": "They harmonized the rules to reduce disharmony between the departments.\n\n他们协调规则，以减少部门之间的不和。",
+    "words": [
+      "harmony",
+      "harmonize",
+      "harmonization",
+      "harmonisation",
+      "disharmony",
+      "harmonies",
+      "harmonic",
+      "harmonise",
+      "harmonized",
+      "harmonizing",
+      "harmonica",
+      "harmonicas"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4342",
+    "meaning": "忙于事务、生意，到协商条件及设法过关",
+    "core": "NEGOTIATE：来回调整，设法让事情过得去",
+    "image": "negotiate → negotiation、negotiator、negotiable；renegotiate 重谈。",
+    "intro": "过程、人物、可商量的性质与重新协商依次展开。旧词的生意背景解释谈条件，后起通过障碍义则帮助看懂道路、弯道场景。",
+    "forms": "neg- 不 + otium 闲暇 → negotium 事务 → 拉丁商务词族；英语借入与逆构路径有不同分析。\n\n法语或拉丁 negotiatio 的商务、交易活动名词，现代与 negotiate 配套，不颠倒借入时间。\n\nnegotiate 可由 negotiation 逆构，或接拉丁 negotiatus；再接 negotiari 做生意、negotium 事务，其材料为否定成分 neg- 与 otium 闲暇。现代协商、谈妥与设法通过障碍要看宾语，不能一律机械翻成不休息。",
+    "branches": [
+      [
+        "动作、过程及代表",
+        "negotiate · negotiation · negotiator"
+      ],
+      [
+        "可商谈与重新协商",
+        "negotiable · renegotiate"
+      ],
+      [
+        "negotiation → negotiations：各方来回商量条件",
+        "negotiate · negotiation · negotiations"
+      ],
+      [
+        "negotiate：谈条件，也设法通过难处",
+        "negotiate · negotiates · negotiated · negotiating · negotiator · negotiators"
+      ]
+    ],
+    "contrasts": "negotiation 不保证成功；negotiator 不必是中立调解者；negotiable 不等于必定降价。",
+    "practice": "The negotiator asked to renegotiate a few negotiable details.\n\n谈判代表要求重新商谈几项仍可协商的细节。",
+    "words": [
+      "negotiate",
+      "negotiation",
+      "negotiator",
+      "negotiable",
+      "renegotiate",
+      "negotiations",
+      "negotiates",
+      "negotiated",
+      "negotiating",
+      "negotiators"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3903",
+    "meaning": "碰撞后弹回，延伸为恢复、活力与场所人物名",
+    "core": "BOUNCE：撞一下，又跳回来",
+    "image": "bounce → bouncy、bouncer。",
+    "intro": "实体球弹跳最好记，邮件退回、状态恢复和想法来回交流沿同一动作扩展。bouncer 的职业名还联系旧的强力驱逐等用法。",
+    "forms": "bounsen 等旧捶击词 → bounce，来源未定；-y 性质，-er 人物、事物，均去末尾 e。\n\nbounce 接中古英语打击材料，远源未定，弹回义后来发展；现代球反弹、邮件退回、bounce back 恢复等分别给出场景。\n\nbouncer 接 bounce 加 -er，旧 bounce 有捶击等义，后来可指场所维持秩序、驱走闹事者的人；不只按现代弹跳译成人在跳。",
+    "branches": [
+      [
+        "弹回及活泼性质",
+        "bounce · bouncy"
+      ],
+      [
+        "人物与特定职业",
+        "bouncer"
+      ],
+      [
+        "bounce：反弹、退回与恢复活力",
+        "bounce · bounces · bounced · bouncing"
+      ],
+      [
+        "bouncers：把闹事者请出去的门卫等",
+        "bounce · bouncer · bouncers"
+      ]
+    ],
+    "contrasts": "bounce an idea off 是征求反馈；bouncer 常是娱乐场所保安。",
+    "practice": "The bouncy ball bounced past the bouncer at the door.\n\n弹性球蹦到了门口保安身边。",
+    "words": [
+      "bounce",
+      "bouncy",
+      "bouncer",
+      "bounces",
+      "bounced",
+      "bouncing",
+      "bouncers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4395",
+    "meaning": "失去配偶的人物称呼与丧偶状态",
+    "core": "WIDOW：按失去配偶的关系说人，再说这段生活时期",
+    "image": "widow ↔ widower；widowhood 是状态、时期。",
+    "intro": "人物称呼区分常用性别形式，状态名词把视线移到丧偶后的生活。-er 在本组有特定历史作用，-hood 是人生状态。",
+    "forms": "widuwe → widow；中古英语 widwere → widower；widow + -hood → widowhood。",
+    "branches": [
+      [
+        "人物与状态",
+        "widow · widower · widowhood"
+      ]
+    ],
+    "contrasts": "widower 与 bachelor 不同；widowhood 可说女性、男性的丧偶状态。",
+    "practice": "The memoirs of a widow and a widower describe different experiences of widowhood.\n\n一位丧偶女性和一位丧偶男性的回忆录，描述了各自不同的丧偶经历。",
+    "words": [
+      "widow",
+      "widower",
+      "widowhood"
+    ],
+    "exclude": {
+      "widow-hunter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "widow-maker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

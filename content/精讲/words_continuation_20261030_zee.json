@@ -1,0 +1,955 @@
+[
+  {
+    "word": "replays",
+    "ipa": "名词 /ˈriːpleɪz/；动词 /ˌriːˈpleɪz/",
+    "meaning": "重播、回放片段、重赛〔复数〕；再播放、重赛〔第三人称单数〕",
+    "sense": "一个动作已经发生，再把那一段放给你看，叫 a replay；几段回放是 replays。也能说某人重新播放。",
+    "split": "re- 再 + play 播放、比赛 → replay；再加 -s，/eɪ/ 后读 /z/。名词常重读前面，动词常重读 play。",
+    "history": [
+      [
+        "re- + play → replay",
+        "再播放；再次比赛；相应回放"
+      ],
+      [
+        "replay + -s → replays",
+        "多段回放、重赛；它再播放"
+      ]
+    ],
+    "explanation": "slow-motion replays 是慢动作回放，方便重新观察；不是每段 replays 都代表球赛重新举行。",
+    "usage": "watch replays 看回放；replays the clip 重新播放片段。",
+    "contrast": "replay 的回放义看录下的内容，重赛义说真的再比一次，主语和对象能帮你区分。",
+    "examples": [
+      [
+        "The broadcast included several slow-motion replays.",
+        "节目包含几段慢动作回放。"
+      ],
+      [
+        "She replays the last sentence until she understands it.",
+        "她反复播放最后一句，直到听懂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replays#English",
+      "https://en.wiktionary.org/wiki/replay#English"
+    ]
+  },
+  {
+    "word": "replayed",
+    "ipa": "/ˌriːˈpleɪd/",
+    "meaning": "重新播放、回放了；重赛了",
+    "sense": "已经发生的片段，又放了一遍；已经比过的比赛，又进行了一次。replayed 把“再做”放到过去。",
+    "split": "replay + 完整 -ed，/eɪ/ 后读 /d/。play 的 y 前是元音 a，直接保留 y，不改成 i。",
+    "history": [
+      [
+        "re- + play → replay",
+        "再播放、再比赛"
+      ],
+      [
+        "replay + -ed → replayed",
+        "过去再次播放或比赛"
+      ]
+    ],
+    "explanation": "replayed the message 是把留言重新放了一遍；was replayed 可说比赛已经重赛。",
+    "usage": "replayed the recording 重放了录音；the match was replayed 比赛重赛了。",
+    "contrast": "replayed 指再播放或再比赛，replaced 指换掉；一个是又来一次，一个是换成别的。",
+    "examples": [
+      [
+        "I replayed the message to check the address.",
+        "我又放了一遍留言，核对地址。"
+      ],
+      [
+        "The match was replayed the following week.",
+        "比赛在接下来一周重赛了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replayed#English",
+      "https://en.wiktionary.org/wiki/replay#English"
+    ]
+  },
+  {
+    "word": "replaying",
+    "ipa": "/ˌriːˈpleɪɪŋ/",
+    "meaning": "正在重播、重赛；反复在脑中回想",
+    "sense": "不只设备能把片段再放一遍，脑中也会把刚才的话一遍遍“回放”。这个正在发生的过程是 replaying。",
+    "split": "replay + -ing，保留 y；play 的 /eɪ/ 接 -ing 的 /ɪŋ/。re- 给再一次，不必总是往回倒。",
+    "history": [
+      [
+        "re- + play → replay",
+        "把比赛、录音或记忆再呈现"
+      ],
+      [
+        "replay + -ing → replaying",
+        "正在重播、重赛；反复回想"
+      ]
+    ],
+    "explanation": "keep replaying something in your head 说某个片段在脑中反复出现，不需要真的有播放器。",
+    "usage": "replaying a clip 重放片段；replaying the conversation in my head 在脑中反复回想谈话。",
+    "contrast": "rewinding 强调把播放位置往回移，replaying 强调再播放；常先倒回，再重新听。",
+    "examples": [
+      [
+        "The app is replaying the last ten seconds.",
+        "应用正在重放最后十秒。"
+      ],
+      [
+        "I kept replaying our conversation in my head.",
+        "我一直在脑中回想我们的谈话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replaying#English",
+      "https://en.wiktionary.org/wiki/replay#English"
+    ]
+  },
+  {
+    "word": "rewinds",
+    "ipa": "动词 /ˌriːˈwaɪndz/；名词 /ˈriːwaɪndz/",
+    "meaning": "倒回、回卷〔第三人称单数〕；倒回操作〔复数〕",
+    "sense": "磁带本来一边放、一边卷到另一轴上，往反方向卷回去，就是 rewinds 的基本画面。数字播放也沿用。",
+    "split": "re- 回、再 + wind /waɪnd/ 缠绕 → rewind，加 -s。名词的常见前重音与动词后重音分开认。",
+    "history": [
+      [
+        "古英语 windan → wind",
+        "缠绕、卷动"
+      ],
+      [
+        "re- + wind → rewind → rewinds",
+        "向回卷；它倒回或多次倒回操作"
+      ]
+    ],
+    "explanation": "播放器 rewinds the video 时，改变的是播放位置；不必真的存在磁带。",
+    "usage": "rewinds the tape 倒带；rewinds the video 倒回视频。",
+    "contrast": "这里 wind 读 /waɪnd/，与天气的 wind /wɪnd/ 分开；来源和现代用法都不要靠“风”去猜。",
+    "examples": [
+      [
+        "This button rewinds the tape.",
+        "这个按钮用来倒带。"
+      ],
+      [
+        "The player rewinds the video by ten seconds.",
+        "播放器把视频倒回十秒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rewinds#English",
+      "https://en.wiktionary.org/wiki/rewind#English"
+    ]
+  },
+  {
+    "word": "rewound",
+    "ipa": "/ˌriːˈwaʊnd/",
+    "meaning": "倒回、回卷了；rewind 的过去分词",
+    "sense": "刚才已经把带子卷回、视频退回去了，就用 rewound。那个 /aɪ/ 变 /aʊ/，是跟着 wind 的不规则变化走。",
+    "split": "rewind 的过去式、过去分词都是 rewound，对应 wind—wound—wound；不是给 rewind 加 -ed。",
+    "history": [
+      [
+        "wind—wound—wound",
+        "卷绕动词保留不规则元音变化"
+      ],
+      [
+        "rewind—rewound—rewound",
+        "前面保留 re-，后面的基础动词跟着变化"
+      ]
+    ],
+    "explanation": "I rewound 直接讲过去做了；has rewound、was rewound 则把同形的 rewound 当过去分词用。",
+    "usage": "rewound the tape 倒了带；had rewound 已经倒回。",
+    "contrast": "rewound 中 wound 读 /waʊnd/；伤口 wound 读 /wuːnd/，这两个拼写相同的形式不要混读。",
+    "examples": [
+      [
+        "I rewound the recording to hear the name again.",
+        "我把录音倒回，再听一遍名字。"
+      ],
+      [
+        "The tape had already been rewound.",
+        "磁带已经倒回去了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rewound#English",
+      "https://en.wiktionary.org/wiki/rewind#English"
+    ]
+  },
+  {
+    "word": "rewinding",
+    "ipa": "/ˌriːˈwaɪndɪŋ/",
+    "meaning": "正在倒回、回卷；倒回的过程",
+    "sense": "播放位置正在往前面已经播过的地方退，就是 rewinding。先想磁带往回卷，再理解视频进度往回走。",
+    "split": "rewind + -ing；wind 的 /waɪnd/ 在这里保留，不用过去式 wound。",
+    "history": [
+      [
+        "re- + wind → rewind",
+        "把卷动方向转回；使播放位置倒回"
+      ],
+      [
+        "rewind + -ing → rewinding",
+        "回卷、倒回的过程"
+      ]
+    ],
+    "explanation": "rewinding to the beginning 指回到开头；rewinding a little 指只退一小段。",
+    "usage": "rewinding the tape 正在倒带；keep rewinding 不断往回倒。",
+    "contrast": "replaying 是再放，rewinding 是先退回；倒回的过程有时不播放声音。",
+    "examples": [
+      [
+        "The machine is rewinding the tape.",
+        "机器正在倒带。"
+      ],
+      [
+        "I kept rewinding to catch the first word.",
+        "我不断往回倒，想听清第一个词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rewinding#English",
+      "https://en.wiktionary.org/wiki/rewind#English"
+    ]
+  },
+  {
+    "word": "pauses",
+    "ipa": "英 /ˈpɔːzɪz/；美 /ˈpɔːzɪz/、/ˈpɑːzɪz/",
+    "meaning": "停顿、暂停〔复数〕；停顿、暂停〔第三人称单数〕",
+    "sense": "话讲到一半稍停一下，音乐中间留一点空，都是 pauses。停下来以后通常还会继续。",
+    "split": "pause + -s；原词已经以 e 结尾，写作 pauses，/z/ 后另成 /ɪz/ 音节。近源经法语、拉丁语接希腊 pausis 停止。",
+    "history": [
+      [
+        "希腊 pausis → 拉丁 pausa → 法语、英语 pause",
+        "停止、短暂中断；相应动词有法语等相关路线"
+      ],
+      [
+        "pause + -s → pauses",
+        "几次停顿；它暂停"
+      ]
+    ],
+    "explanation": "long pauses in a conversation 是谈话中的长停顿；she pauses 说她先停一下。",
+    "usage": "awkward pauses 尴尬的停顿；pauses to think 停下来想一想。",
+    "contrast": "pause 通常留着继续的可能，stop 只说停；pauses between sentences 是句间停顿，不是几句没有说完的话。",
+    "examples": [
+      [
+        "There were long pauses between his answers.",
+        "他每次回答之间都有长长的停顿。"
+      ],
+      [
+        "She pauses before answering difficult questions.",
+        "她回答难题前会先停下来想一想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pauses#English",
+      "https://en.wiktionary.org/wiki/pause#English"
+    ]
+  },
+  {
+    "word": "unpause",
+    "ipa": "英 /ʌnˈpɔːz/；美 /ʌnˈpɔːz/、/ʌnˈpɑːz/",
+    "meaning": "解除暂停，恢复播放或运行",
+    "sense": "画面停住了，再让它接着往下走，就是 unpause。好像把刚放下的暂停键再松开。",
+    "split": "un- 撤销某状态 + pause 暂停。是对暂停动作的反向操作，不是 unus 一个那条拉丁词根。",
+    "history": [
+      [
+        "pause 暂停",
+        "进入暂时不继续的状态"
+      ],
+      [
+        "un- + pause → unpause",
+        "撤销暂停，让原来的活动接着进行"
+      ]
+    ],
+    "explanation": "unpause a video、unpause a game 都常指从暂停位置继续；resume 的使用范围更广。",
+    "usage": "unpause the video 恢复播放视频；unpause the game 解除游戏暂停。",
+    "contrast": "restart 常从头再来或重新启动；unpause 通常接着暂停处继续。",
+    "examples": [
+      [
+        "Please unpause the video when everyone is ready.",
+        "大家准备好以后，请恢复播放视频。"
+      ],
+      [
+        "I will unpause the game after the break.",
+        "休息后我会解除游戏暂停。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpause#English",
+      "https://en.wiktionary.org/wiki/pause#English"
+    ]
+  },
+  {
+    "word": "unpauses",
+    "ipa": "英 /ʌnˈpɔːzɪz/；美 /ʌnˈpɔːzɪz/、/ʌnˈpɑːzɪz/",
+    "meaning": "解除暂停、恢复播放〔第三人称单数〕",
+    "sense": "说“它让停住的东西继续”，主语是单数时常用 unpauses。恢复的是原来的播放、运行过程。",
+    "split": "unpause + -s；原词尾 e 保留，末尾读 /zɪz/。先由 un- 撤销 pause，再变化整个动词。",
+    "history": [
+      [
+        "un- + pause → unpause",
+        "解除暂停"
+      ],
+      [
+        "unpause + -s → unpauses",
+        "它、他、她解除暂停"
+      ]
+    ],
+    "explanation": "button、player 等单数主语配 unpauses：按钮或播放器使进度接着走。",
+    "usage": "unpauses the recording 恢复播放录音；unpauses the game 解除游戏暂停。",
+    "contrast": "pauses 是让它停一下，unpauses 是解除这次停顿，前面的 un- 改变动作方向。",
+    "examples": [
+      [
+        "This button unpauses the recording.",
+        "这个按钮恢复播放录音。"
+      ],
+      [
+        "She unpauses the game after checking the controls.",
+        "她查看操作按键后解除游戏暂停。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpauses#English",
+      "https://en.wiktionary.org/wiki/unpause#English"
+    ]
+  },
+  {
+    "word": "unpaused",
+    "ipa": "英 /ʌnˈpɔːzd/；美 /ʌnˈpɔːzd/、/ʌnˈpɑːzd/",
+    "meaning": "解除了暂停；未暂停、已恢复运行的",
+    "sense": "刚让停住的画面接着走，可以说 unpaused the video；描述视频处于没暂停的状态，也可见 unpaused。",
+    "split": "动作义是 unpause 去末尾 e 加完整 -ed，/z/ 后读 /d/；状态形容词还可按 un- 不 + paused 暂停的理解。",
+    "history": [
+      [
+        "un- + pause → unpause",
+        "撤销暂停"
+      ],
+      [
+        "unpause + -ed → unpaused；un- + paused → unpaused",
+        "过去解除了暂停；处于非暂停状态"
+      ]
+    ],
+    "explanation": "I unpaused 讲过去做的动作；remained unpaused 则说一直没有进入暂停状态。",
+    "usage": "unpaused the video 恢复了播放；left the game unpaused 没有暂停游戏就放着。",
+    "contrast": "unpaused 和 restarted 不同：恢复暂停通常接着原来进度，重新开始可能回到起点。",
+    "examples": [
+      [
+        "I unpaused the video after taking notes.",
+        "我记完笔记后恢复了视频播放。"
+      ],
+      [
+        "He accidentally left the game unpaused.",
+        "他不小心让游戏一直运行着，没有暂停。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpaused#English",
+      "https://en.wiktionary.org/wiki/unpause#English"
+    ]
+  },
+  {
+    "word": "unpausing",
+    "ipa": "英 /ʌnˈpɔːzɪŋ/；美 /ʌnˈpɔːzɪŋ/、/ʌnˈpɑːzɪŋ/",
+    "meaning": "解除暂停、恢复播放的动作",
+    "sense": "大家刚才按住了进度，现在正要放它继续走，动作叫 unpausing。",
+    "split": "unpause 去不发音 e，加完整 -ing；un- 撤销暂停的方向仍保留。",
+    "history": [
+      [
+        "un- + pause → unpause",
+        "让暂时停住的活动继续"
+      ],
+      [
+        "unpause + -ing → unpausing",
+        "解除暂停的动作或过程"
+      ]
+    ],
+    "explanation": "before unpausing 是恢复之前，after unpausing 是恢复之后；动作常一下就完成，不必想成漫长过程。",
+    "usage": "before unpausing 恢复播放前；unpausing the game 解除游戏暂停。",
+    "contrast": "pausing 和 unpausing 可交替出现：前者停，后者接着走，两者都不一定让内容回到开头。",
+    "examples": [
+      [
+        "Check the volume before unpausing the video.",
+        "恢复播放视频前，检查一下音量。"
+      ],
+      [
+        "Unpausing the game brought us straight back into the action.",
+        "解除暂停后，我们马上又回到了游戏中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpausing#English",
+      "https://en.wiktionary.org/wiki/unpause#English"
+    ]
+  },
+  {
+    "word": "melodies",
+    "ipa": "/ˈmelədiz/",
+    "meaning": "旋律、曲调〔复数〕",
+    "sense": "一首歌里你能单独哼出来的那条高低起伏的线，就是 melody；几条这样的曲调是 melodies。",
+    "split": "melody 的辅音字母 d 后 y 改为 i，加 -es。基础词由希腊 melos 歌曲、乐句 + oide 歌组合，经拉丁 melodia、法语 melodie 传入。",
+    "history": [
+      [
+        "希腊 melos + oide → meloidia → 拉丁 melodia",
+        "歌曲、歌唱的组合"
+      ],
+      [
+        "法语 melodie → melody → melodies",
+        "旋律；多条曲调"
+      ]
+    ],
+    "explanation": "catchy melodies 是容易记住、听后会跟着哼的曲调；不要求有歌词。",
+    "usage": "simple melodies 简单曲调；folk melodies 民间曲调。",
+    "contrast": "melody 关注先后连起来的音高线条，rhythm 关注长短、轻重的节奏；同一旋律也可以换节奏来奏。",
+    "examples": [
+      [
+        "The children learned three simple melodies.",
+        "孩子们学了三条简单曲调。"
+      ],
+      [
+        "His songs have melodies that are easy to remember.",
+        "他的歌曲旋律很容易记住。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melodies#English",
+      "https://en.wiktionary.org/wiki/melody#English"
+    ]
+  },
+  {
+    "word": "singers",
+    "ipa": "英 /ˈsɪŋəz/；美 /ˈsɪŋərz/",
+    "meaning": "歌手、唱歌的人〔复数〕",
+    "sense": "把唱歌这个动作变成人的名称：sing → singer；几位唱歌的人就是 singers，不限于职业明星。",
+    "split": "sing + 完整 -er → singer，再加 -s，末尾读 /z/。基础 sing 经中古英语接古英语 singan；ng 通常只读 /ŋ/。",
+    "history": [
+      [
+        "古英语 singan → sing",
+        "唱歌"
+      ],
+      [
+        "sing + -er → singer → singers",
+        "唱歌的人；几位歌手"
+      ]
+    ],
+    "explanation": "lead singers 主唱，backing singers 伴唱；都按在演唱中承担的角色命名。",
+    "usage": "opera singers 歌剧演员；a group of singers 一群歌手。",
+    "contrast": "singer 的 ng 与 sing 一样，通常没有 finger 中紧接 /ŋ/ 的 /ɡ/；不是看见 ng 都读成同一种组合。",
+    "examples": [
+      [
+        "The singers rehearsed together before the concert.",
+        "歌手们在音乐会前一起排练。"
+      ],
+      [
+        "Two backing singers joined her on stage.",
+        "两位伴唱和她一起登台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/singers#English",
+      "https://en.wiktionary.org/wiki/singer#English"
+    ]
+  },
+  {
+    "word": "songwriters",
+    "ipa": "英 /ˈsɒŋraɪtəz/；美 /ˈsɔːŋraɪtərz/",
+    "meaning": "歌曲创作者〔复数〕",
+    "sense": "唱出来的人是 singer，写出歌的人是 songwriter；同一个人可以同时做这两件事。songwriters 是几位歌曲创作者。",
+    "split": "song 歌 + writer 写作者 → songwriter，再加 -s。writer 由 write 去 e 加完整 -er；整个复合词只在最后变复数。",
+    "history": [
+      [
+        "write + -er → writer〔去 e〕",
+        "写作者"
+      ],
+      [
+        "song + writer → songwriter → songwriters",
+        "写歌的人；多位歌曲创作者"
+      ]
+    ],
+    "explanation": "songwriters 可写词、写曲或合作完成歌曲，不一定每个人独力包办全部。",
+    "usage": "a team of songwriters 歌曲创作团队；young songwriters 年轻的歌曲创作者。",
+    "contrast": "composer 更常突出作曲，lyricist 明确说写歌词；songwriter 常用于歌曲创作，实际贡献看具体作品。",
+    "examples": [
+      [
+        "The two songwriters worked on the chorus together.",
+        "两位歌曲创作者一起修改副歌。"
+      ],
+      [
+        "The festival gives new songwriters a chance to perform.",
+        "音乐节给新的歌曲创作者登台机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/songwriters#English",
+      "https://en.wiktionary.org/wiki/songwriter#English"
+    ]
+  },
+  {
+    "word": "composes",
+    "ipa": "英 /kəmˈpəʊzɪz/；美 /kəmˈpoʊzɪz/",
+    "meaning": "作曲、撰写、组成〔第三人称单数〕",
+    "sense": "把零散材料安排成完整作品：音符变成曲子，语句变成文章。说某人常做这件事，可用 composes。",
+    "split": "compose + -s，原词尾 e 保留，/z/ 后读 /ɪz/。compose 经法语 composer 接拉丁 componere 把……放在一起的词族。",
+    "history": [
+      [
+        "拉丁 com- + ponere → componere；法语 composer",
+        "放在一起、组织成整体"
+      ],
+      [
+        "compose + -s → composes",
+        "他、她作曲、撰写或构成"
+      ]
+    ],
+    "explanation": "composes music 是创作音乐；composes a message 是组织文字写出消息。",
+    "usage": "composes for films 为电影作曲；composes an email 撰写邮件。",
+    "contrast": "compose 既能说创作，也有组成义；常见 be composed of 则从整体说由哪些部分组成。",
+    "examples": [
+      [
+        "She composes music for short films.",
+        "她为短片作曲。"
+      ],
+      [
+        "He carefully composes a reply before sending it.",
+        "他仔细写好回复再发送。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composes#English",
+      "https://en.wiktionary.org/wiki/compose#English"
+    ]
+  },
+  {
+    "word": "composing",
+    "ipa": "英 /kəmˈpəʊzɪŋ/；美 /kəmˈpoʊzɪŋ/",
+    "meaning": "作曲、撰写、组织作品的过程；使自己镇定",
+    "sense": "正把音符、文字安排成形，是 composing；把慌乱的自己重新收拢，也可说 composing yourself。",
+    "split": "compose 去末尾不发音 e，加完整 -ing。com- 一起与 ponere 放的旧材料，经过借词形成 compose 后，再有现代变化。",
+    "history": [
+      [
+        "拉丁 componere 的组合词族 → 法语 composer → compose",
+        "组织、构成；创作；使平静"
+      ],
+      [
+        "compose + -ing → composing〔去 e〕",
+        "这些动作的进行、活动"
+      ]
+    ],
+    "explanation": "composing a song 是写歌，composing yourself 是让自己稳住，不是替自己创作一首曲子。",
+    "usage": "composing music 作曲；composing a letter 写信；composing herself 使自己镇定。",
+    "contrast": "compose yourself 把心绪收拢，calm down 更日常直接；两者可以在紧张、激动的场景里出现。",
+    "examples": [
+      [
+        "He spent the morning composing a song.",
+        "他花了一上午写歌。"
+      ],
+      [
+        "She took a moment, composing herself before speaking.",
+        "她缓了一下，镇定下来再开口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composing#English",
+      "https://en.wiktionary.org/wiki/compose#English"
+    ]
+  },
+  {
+    "word": "composers",
+    "ipa": "英 /kəmˈpəʊzəz/；美 /kəmˈpoʊzərz/",
+    "meaning": "作曲家、作曲者〔复数〕",
+    "sense": "音乐还没响起来以前，有人先把音符组织成作品，这些创作者叫 composers。",
+    "split": "compose 去 e，加完整 -er → composer；复数再加 -s，末尾读 /z/。现代看是动作名变人物名。",
+    "history": [
+      [
+        "compose 组织、作曲 + -er → composer〔去 e〕",
+        "创作音乐的人"
+      ],
+      [
+        "composer + -s → composers",
+        "多位作曲者"
+      ]
+    ],
+    "explanation": "film composers 给电影创作配乐，classical composers 创作古典音乐；名称关注创作工作。",
+    "usage": "young composers 年轻作曲家；works by different composers 不同作曲家的作品。",
+    "contrast": "performers 把作品演奏、演唱出来，composers 创作作品；同一个人可兼有两种身份。",
+    "examples": [
+      [
+        "The concert features works by three living composers.",
+        "音乐会将演奏三位在世作曲家的作品。"
+      ],
+      [
+        "Film composers often work closely with directors.",
+        "电影作曲家常与导演密切合作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/composers#English",
+      "https://en.wiktionary.org/wiki/composer#English"
+    ]
+  },
+  {
+    "word": "compositions",
+    "ipa": "英 /ˌkɒmpəˈzɪʃənz/；美 /ˌkɑːmpəˈzɪʃənz/",
+    "meaning": "音乐作品、作文；组成、成分结构〔复数〕",
+    "sense": "材料已经排成一个整体，可以看这个整体是什么作品，也可以看它由什么构成。compositions 把这些作品、组成情况分别拿来数。",
+    "split": "composition + -s。composition 经法语等路线接拉丁 compositio、componere；与 compose 同族，不是英语随意把 -se 换成所谓 -sition 后缀。",
+    "history": [
+      [
+        "拉丁 componere → compositio；法语 composicion → composition",
+        "放在一起的组织、组成；作品"
+      ],
+      [
+        "composition + -s → compositions",
+        "多篇作文、乐曲或不同组成情况"
+      ]
+    ],
+    "explanation": "musical compositions 是乐曲，school compositions 是作文；chemical compositions 则比较材料的化学组成。",
+    "usage": "short compositions 短小作品；different compositions 不同组成。",
+    "contrast": "composer 是作曲的人，composition 是组织出来的作品或组成；词尾变了，指向也从人换成结果、结构。",
+    "examples": [
+      [
+        "The students performed their own compositions.",
+        "学生们演奏了自己创作的乐曲。"
+      ],
+      [
+        "These rocks have different chemical compositions.",
+        "这些岩石的化学组成不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compositions#English",
+      "https://en.wiktionary.org/wiki/composition#English"
+    ]
+  },
+  {
+    "word": "musicals",
+    "ipa": "/ˈmjuːzɪkəlz/",
+    "meaning": "音乐剧〔复数〕",
+    "sense": "人物不光说话，还把剧情唱出来、演出来，这类作品叫 musicals。它数的是剧目，不是在数“音乐的”这个性质。",
+    "split": "musical 的名词用途缩自 musical comedy 等组合，再加 -s。形容词 musical 的历史还接法语、拉丁 musicalis，与 music 同族。",
+    "history": [
+      [
+        "拉丁 musica → musicalis；法语、英语 musical",
+        "与音乐有关的"
+      ],
+      [
+        "musical comedy 等 → musical → musicals",
+        "缩略为音乐剧名称；多部音乐剧"
+      ]
+    ],
+    "explanation": "stage musicals 舞台音乐剧，film musicals 音乐歌舞电影；可以按表现媒介区别。",
+    "usage": "Broadway musicals 百老汇音乐剧；watch musicals 看音乐剧。",
+    "contrast": "music 常指音乐本身，通常不靠加 -s 数作品；musicals 明确数一部部剧。",
+    "examples": [
+      [
+        "She enjoys both stage musicals and film musicals.",
+        "她既喜欢舞台音乐剧，也喜欢音乐歌舞电影。"
+      ],
+      [
+        "The theatre will present two new musicals this year.",
+        "剧院今年会推出两部新音乐剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/musicals#English",
+      "https://en.wiktionary.org/wiki/musical#English"
+    ]
+  },
+  {
+    "word": "pianos",
+    "ipa": "英 /piˈænəʊz/；美 /piˈænoʊz/",
+    "meaning": "钢琴〔复数〕",
+    "sense": "按下琴键，琴槌敲响琴弦；手上用力不同，可以奏轻、奏响。这个轻响变化正藏在钢琴名称的来历里。",
+    "split": "piano 直接加 -s → pianos，不加 -es。乐器名缩自意大利 pianoforte：piano 轻柔 + forte 响、强；piano 更早接拉丁 planus 平、平稳一族。",
+    "history": [
+      [
+        "意大利 piano 轻柔 + forte 响 → pianoforte",
+        "以演奏力度变化命名乐器"
+      ],
+      [
+        "pianoforte → piano → pianos",
+        "乐器名称缩短；多架钢琴"
+      ]
+    ],
+    "explanation": "grand pianos 三角钢琴，upright pianos 立式钢琴；这些复数数的是一架架乐器。",
+    "usage": "two pianos 两架钢琴；digital pianos 数码钢琴。",
+    "contrast": "乐谱上的 piano 还可作轻奏指令；pianos 作普通复数名词时，通常是在数钢琴。",
+    "examples": [
+      [
+        "The school has two upright pianos.",
+        "学校有两架立式钢琴。"
+      ],
+      [
+        "The piece was arranged for two pianos.",
+        "这首曲子被改编成双钢琴版本。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/piano",
+      "https://en.wiktionary.org/wiki/pianos#English"
+    ]
+  },
+  {
+    "word": "pianists",
+    "ipa": "英 /ˈpɪənɪsts/；美 /ˈpiːənɪsts/",
+    "meaning": "钢琴家、钢琴演奏者〔复数〕",
+    "sense": "piano 是琴，pianist 是弹琴的人，pianists 是几位演奏者。换后缀以后，连常见重音位置也跟着变了。",
+    "split": "现代认形可看 piano 去末尾 o + -ist → pianist，再加 -s；实际英语 pianist 还经法语 pianiste，接意大利 pianista，不只是一条英语新拼路线。",
+    "history": [
+      [
+        "意大利 pianista → 法语 pianiste → 英语 pianist",
+        "钢琴演奏者的借词路线"
+      ],
+      [
+        "pianist + -s → pianists",
+        "多位钢琴演奏者"
+      ]
+    ],
+    "explanation": "concert pianists 是在音乐会上演奏的钢琴家；名称本身不保证只弹古典音乐。",
+    "usage": "jazz pianists 爵士钢琴家；young pianists 年轻钢琴演奏者。",
+    "contrast": "piano 常后重音，pianist 常前重音，开头元音也可变化；不要机械地把 piano 的整段读音后接 /ɪst/。",
+    "examples": [
+      [
+        "Two pianists shared the stage for the final piece.",
+        "最后一首曲子由两位钢琴家同台演奏。"
+      ],
+      [
+        "The course is designed for young pianists.",
+        "这门课面向年轻钢琴演奏者。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/piano",
+      "https://en.wiktionary.org/wiki/pianists#English",
+      "https://en.wiktionary.org/wiki/pianist#English"
+    ]
+  },
+  {
+    "word": "guitars",
+    "ipa": "英 /ɡɪˈtɑːz/；美 /ɡɪˈtɑːrz/",
+    "meaning": "吉他〔复数〕",
+    "sense": "一只手按弦改变音高，另一只手拨弦或扫弦，几把这样的乐器就是 guitars。先抓住拨弦乐器的画面。",
+    "split": "guitar + -s，末尾读 /z/。英语名称有法语 guitare、直接西班牙语 guitarra 等路线，更远接拉丁 cithara、希腊 kithara 等弦乐器名；阿拉伯相关词的借用方向有争论。",
+    "history": [
+      [
+        "希腊 kithara → 拉丁 cithara 等欧洲相关形式",
+        "较远的弦乐器名称来源"
+      ],
+      [
+        "法语 guitare、西班牙语 guitarra → guitar → guitars",
+        "多条传播路线；多把吉他"
+      ]
+    ],
+    "explanation": "acoustic guitars 原声吉他，electric guitars 电吉他；具体弦数、结构要看种类。",
+    "usage": "play guitars 弹吉他；a collection of guitars 收藏的多把吉他。",
+    "contrast": "guitars 在数乐器，guitarists 在数演奏者；play the guitar 则常泛说会弹、在弹这种乐器。",
+    "examples": [
+      [
+        "The shop sells both acoustic and electric guitars.",
+        "商店出售原声吉他和电吉他。"
+      ],
+      [
+        "Three guitars were hanging on the wall.",
+        "墙上挂着三把吉他。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/guitar",
+      "https://en.wiktionary.org/wiki/guitars#English"
+    ]
+  },
+  {
+    "word": "guitarists",
+    "ipa": "/ɡɪˈtɑːrɪsts/",
+    "meaning": "吉他手、吉他演奏者〔复数〕",
+    "sense": "同样一把吉他，有人负责旋律，有人负责节奏；这些弹吉他的人都可以叫 guitarists。",
+    "split": "guitar + -ist → guitarist，再加 -s。-ist 命名从事某活动的人；guitar 的借词历史先于这一人物名称。",
+    "history": [
+      [
+        "guitar + -ist → guitarist",
+        "演奏吉他的人"
+      ],
+      [
+        "guitarist + -s → guitarists",
+        "多位吉他演奏者"
+      ]
+    ],
+    "explanation": "lead guitarists 常担任主音吉他，rhythm guitarists 常负责节奏、和弦支撑，具体分工也能交替。",
+    "usage": "jazz guitarists 爵士吉他手；two guitarists 两位吉他手。",
+    "contrast": "英音 guitar 末尾 r 常不发音，但 guitarist 中 r 后面接元音，通常读出来；不要照搬独立 guitar 的词尾处理。",
+    "examples": [
+      [
+        "The band has two guitarists and a drummer.",
+        "乐队有两位吉他手和一位鼓手。"
+      ],
+      [
+        "Several guitarists joined the final song.",
+        "几位吉他手加入了最后一首歌的演奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guitarists#English",
+      "https://en.wiktionary.org/wiki/guitarist#English"
+    ]
+  },
+  {
+    "word": "violins",
+    "ipa": "/ˌvaɪəˈlɪnz/",
+    "meaning": "小提琴〔复数〕",
+    "sense": "琴弓擦过琴弦，声音连成一条线；弦乐队中这一件件小提琴就是 violins，也能借指演奏它们的声部。",
+    "split": "violin + -s，末尾 /n/ 后读 /z/。violin 借意大利 violino，来自 viola 加小称后缀 -ino；这个“小”是历史命名，不是说玩具。",
+    "history": [
+      [
+        "意大利 viola + -ino → violino",
+        "相对较小的相关弦乐器名称"
+      ],
+      [
+        "violino → 英语 violin → violins",
+        "小提琴；多把小提琴、相应声部"
+      ]
+    ],
+    "explanation": "first violins、second violins 是乐队里的第一、第二小提琴声部，不是按器材购买先后编号。",
+    "usage": "two violins 两把小提琴；the first violins 第一小提琴声部。",
+    "contrast": "violin 是小提琴，viola 是中提琴；现代两种乐器各有名称，不能把 viola 一概译成大一点的小提琴。",
+    "examples": [
+      [
+        "The quartet includes two violins, a viola and a cello.",
+        "四重奏包括两把小提琴、一把中提琴和一把大提琴。"
+      ],
+      [
+        "The first violins carry the melody here.",
+        "这里由第一小提琴声部奏主旋律。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/violin",
+      "https://en.wiktionary.org/wiki/violins#English"
+    ]
+  },
+  {
+    "word": "violinists",
+    "ipa": "/ˌvaɪəˈlɪnɪsts/",
+    "meaning": "小提琴手、小提琴家〔复数〕",
+    "sense": "乐器叫 violin，拿着它演奏的人叫 violinist；一群小提琴演奏者就是 violinists。",
+    "split": "violin + -ist → violinist，再加 -s；有法语 violoniste 等相应形式可对照。-ist 后面再数人，不改变前面的乐器名称。",
+    "history": [
+      [
+        "意大利 violino → 英语 violin",
+        "小提琴名称"
+      ],
+      [
+        "violin + -ist → violinist → violinists",
+        "小提琴演奏者；多位演奏者"
+      ]
+    ],
+    "explanation": "young violinists 年轻小提琴手，professional violinists 职业小提琴演奏者；词本身不表示水平等级。",
+    "usage": "a group of violinists 一群小提琴手；solo violinists 独奏小提琴家。",
+    "contrast": "violinists 数人，violins 数琴或借指乐队声部；买两把琴用 two violins。",
+    "examples": [
+      [
+        "The violinists tuned their instruments together.",
+        "小提琴手们一起给乐器调音。"
+      ],
+      [
+        "The workshop welcomes young violinists.",
+        "工作坊欢迎年轻的小提琴演奏者参加。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/violinists#English",
+      "https://en.wiktionary.org/wiki/violinist#English"
+    ]
+  },
+  {
+    "word": "drummers",
+    "ipa": "英 /ˈdrʌməz/；美 /ˈdrʌmərz/",
+    "meaning": "鼓手〔复数〕",
+    "sense": "音乐往前走的拍子，常由鼓手用重复敲击撑起来。drummers 是这些打鼓的人。",
+    "split": "drum 双写 m，加完整 -er → drummer；复数再加 -s。drum 的较远历史与荷兰语、低地德语等形式相关，具体早期形成有不同分析。",
+    "history": [
+      [
+        "drum + -er → drummer〔双写 m〕",
+        "打鼓的人"
+      ],
+      [
+        "drummer + -s → drummers",
+        "多位鼓手"
+      ]
+    ],
+    "explanation": "jazz drummers、rock drummers 按音乐风格说鼓手；不只乐队架子鼓手才能这样叫。",
+    "usage": "a group of drummers 一群鼓手；skilled drummers 熟练的鼓手。",
+    "contrast": "drummers 数人，drums 数鼓；percussionists 打击乐手的范围更广，还可能演奏其他打击乐器。",
+    "examples": [
+      [
+        "The drummers kept a steady beat.",
+        "鼓手们保持着稳定节拍。"
+      ],
+      [
+        "A group of drummers led the parade.",
+        "一群鼓手走在游行队伍前面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drummers#English",
+      "https://en.wiktionary.org/wiki/drummer#English"
+    ]
+  },
+  {
+    "word": "drummed",
+    "ipa": "/drʌmd/",
+    "meaning": "打鼓、咚咚敲击了；反复灌输了",
+    "sense": "不一定真拿着鼓：手指在桌上连续敲，也像打鼓。一个意思反复讲到记住，则像把它一拍拍敲进脑中。",
+    "split": "drum 双写 m，加完整 -ed，/m/ 后读 /d/。drum 的重复敲击画面发展出敲手指、反复教导等用途。",
+    "history": [
+      [
+        "drum 打鼓 → 重复敲击",
+        "从乐器动作延伸到手指、雨点等"
+      ],
+      [
+        "drum + -ed → drummed〔双写 m〕",
+        "过去敲击；通过反复讲而灌输"
+      ]
+    ],
+    "explanation": "drummed his fingers on the desk 是手指在桌上敲；drummed a rule into us 是把规则反复讲到我们记住。",
+    "usage": "drummed on the table 敲桌子；drummed into someone 向某人反复灌输。",
+    "contrast": "tap 可只轻敲一下，drum 更容易让人想到连续、有节奏的敲击。",
+    "examples": [
+      [
+        "He drummed his fingers on the desk while waiting.",
+        "他等候时用手指在桌上咚咚敲。"
+      ],
+      [
+        "Our teacher drummed that rule into us.",
+        "老师反复给我们讲那条规则，让我们牢牢记住。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drummed#English",
+      "https://en.wiktionary.org/wiki/drum#English"
+    ]
+  },
+  {
+    "word": "drumming",
+    "ipa": "/ˈdrʌmɪŋ/",
+    "meaning": "打鼓；连续敲击、敲击声；正在招揽〔drum up〕",
+    "sense": "雨点不断打在屋顶上，像一阵鼓点；这种连续的敲击感，可以叫 drumming。音乐中则直接指打鼓。",
+    "split": "drum 双写 m，加 -ing。动作名词和进行形式同形；drum up 则由鼓声招集等用途发展出争取支持、招揽生意等义。",
+    "history": [
+      [
+        "drum 的乐器敲击 → 连续敲击；drum up 招集",
+        "把重复声响及招徕用途延伸开"
+      ],
+      [
+        "drum + -ing → drumming〔双写 m〕",
+        "打鼓活动、正在敲击；随 up 表正在争取"
+      ]
+    ],
+    "explanation": "the drumming of rain 是雨点连续敲击声；drumming up support 则是在争取支持。",
+    "usage": "drumming lessons 打鼓课；rain drumming on the roof 雨点敲着屋顶。",
+    "contrast": "drumming 讲动作、声音或活动；drummer 才是在打鼓的人，后缀决定关注过程还是人物。",
+    "examples": [
+      [
+        "She practises drumming every evening.",
+        "她每天晚上练习打鼓。"
+      ],
+      [
+        "We could hear the rain drumming on the roof.",
+        "我们听得见雨点不断敲着屋顶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drumming#English",
+      "https://en.wiktionary.org/wiki/drum#English"
+    ]
+  }
+]

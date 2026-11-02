@@ -1,0 +1,131 @@
+[
+  {
+    "id": "B2720",
+    "meaning": "软皮抛光、爱好者称呼与缓冲击打词分支",
+    "core": "BUFF：先分皮革用途与旧击打词，现代义就不乱",
+    "image": "buff → 抛光器 buffer；击打词 buff → 缓冲器 buffer；rebuff 拒绝另看借词。",
+    "intro": "同形词在词表里常被挤在一起，学习时用来源和场景拆开。buffer 的中间缓冲层能帮助理解软件暂存，不能拿抛光解释全部。",
+    "forms": "buffle 水牛 → buff 软皮、抛光等；另有旧打击 buff；-er 工具；rebuff 借法语、意大利相应词。",
+    "branches": [
+      [
+        "皮革、抛光及现代扩展",
+        "buff"
+      ],
+      [
+        "缓冲与抛光的同形工具名",
+        "buffer"
+      ],
+      [
+        "断然拒绝",
+        "rebuff"
+      ]
+    ],
+    "contrasts": "buffer 两条来源分开；rebuff 常用回绝义不按再次抛光来理解。",
+    "practice": "The film buff’s proposal met with a rebuff.\n\n那位影迷的提议遭到了冷淡回绝。",
+    "words": [
+      "buff",
+      "buffer",
+      "rebuff"
+    ],
+    "exclude": {
+      "buffy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3552",
+    "meaning": "表面细冰晶、霜状覆盖及严寒复合名词",
+    "core": "FROST：细冰晶覆上一层，外观可以借，温度概念另要看定义",
+    "image": "frost → frosting、frosted、defrost；frostbite、permafrost。",
+    "intro": "糖霜、磨砂借外观；除霜说去除；冻伤说组织损害；多年冻土则有持续温度定义。每一支保留最关键的区别。",
+    "forms": "旧 frost、forst 形式与 freeze 词族相连；-ing、-ed 覆盖层及状态；de- 去除，bite 咬，perma- 长期。",
+    "branches": [
+      [
+        "霜与相似覆盖",
+        "frost · frosting · frosted"
+      ],
+      [
+        "去除霜、冷冻状态",
+        "defrost"
+      ],
+      [
+        "严寒相关专名",
+        "frostbite · permafrost"
+      ]
+    ],
+    "contrasts": "frosted glass 不必真结冰；frosting 不等于冰霜；permafrost 至少连续两年处于冰点或以下。",
+    "practice": "Frost covered the frosted glass, so the window was difficult to see through.\n\n霜覆在磨砂玻璃上，更难透过窗看清外面。",
+    "words": [
+      "frost",
+      "frosting",
+      "frosted",
+      "defrost",
+      "frostbite",
+      "permafrost"
+    ],
+    "exclude": {
+      "frost-nail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4075",
+    "meaning": "喧闹、失序与热烈纷繁的比喻",
+    "core": "RIOT：动静大得收不住，具体场景决定是否骚乱",
+    "image": "riot → rioter、riotous。",
+    "intro": "人群暴力、热闹大笑、色彩繁盛不是同一件事。人物后缀和性质后缀帮你认结构，语境再帮你选中文。",
+    "forms": "古法语 riote、rioter → riot；-er 人物，-ous 性质。\n\n古法语 riote、rioter，更远来源未定，s 读 ts。",
+    "branches": [
+      [
+        "事件、参与者与性质",
+        "riot · rioter · riotous"
+      ],
+      [
+        "riot → riots：喧闹、纷乱与骚乱",
+        "riot · riots"
+      ]
+    ],
+    "contrasts": "riot 不等于所有 protest；riotous laughter 可以是正常哄堂大笑。",
+    "practice": "The story contrasted a street riot with a garden’s riotous colour.\n\n故事把街头骚乱与花园热烈纷繁的色彩作了对照。",
+    "words": [
+      "riot",
+      "rioter",
+      "riotous",
+      "riots"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2605",
+    "meaning": "短促轻碰、声音与刻度，蜱和织物另源",
+    "core": "TICK：一小下、一小格；同形动物与覆盖物别混",
+    "image": "tick → ticking、ticker、uptick；tickle 可能接轻碰旧词。",
+    "intro": "滴答、勾号、刻度都是短促一点的好画面。动物名、床垫罩布各有旧来源，不能全用钟表解释。",
+    "forms": "轻触 tick 词族；ticia → 蜱 tick；theca 覆盖物经借入 → 织物 tick；-ing、-er、up；tickle 的 -le 分析有讨论。",
+    "branches": [
+      [
+        "短促动作、持续声与显示",
+        "tick · ticking · ticker"
+      ],
+      [
+        "小幅向上变化",
+        "uptick"
+      ],
+      [
+        "轻触、逗乐的近形词",
+        "tickle"
+      ]
+    ],
+    "contrasts": "蜱属于蛛形动物；织物 ticking 不从滴答声得名；uptick 不保证长期上涨。",
+    "practice": "The ticking clock sat above a screen showing a small uptick in visitor numbers.\n\n滴答作响的钟下面，屏幕显示访客人数略有增加。",
+    "words": [
+      "tick",
+      "ticking",
+      "ticker",
+      "uptick",
+      "tickle"
+    ],
+    "exclude": {
+      "tick-trefoil": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ticky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

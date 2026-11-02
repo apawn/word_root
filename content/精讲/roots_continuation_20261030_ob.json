@@ -1,0 +1,132 @@
+[
+  {
+    "id": "B3047",
+    "meaning": "吞入、接受与鸟名分源，燕尾形状另接鸟名",
+    "core": "SWALLOW：动词往里吞，鸟名看燕子",
+    "image": "swallow 的吞咽、接受支与燕子支分开；swallowtail 按燕尾形状命名。",
+    "intro": "比喻的说法、骄傲像东西一样被吞下，容易形象理解。鸟的名称另有旧词，不能因为它吃飞虫就当作动词转名词的确定历史。",
+    "forms": "swelgan → swolwen → 吞 swallow；swealwe → swalwe 等 → 鸟 swallow；鸟名 + tail。\n\n吞咽接古英语 swelgan，鸟名接 swealwe，不编成燕子吞食产生动词；过去、ing 这里讲吞咽支。",
+    "branches": [
+      [
+        "吞咽、接受与同形鸟名",
+        "swallow"
+      ],
+      [
+        "借燕尾形状命名",
+        "swallowtail"
+      ],
+      [
+        "swallow 的吞咽支、燕子支与常用变化",
+        "swallow · swallows · swallowed · swallowing"
+      ]
+    ],
+    "contrasts": "swallow 是吞，chew 是嚼；swallowtail 的 tail 指形状，不是吞掉尾巴。",
+    "practice": "A swallow flew past while he swallowed the last sip of water.\n\n一只燕子飞过，他咽下最后一口水。",
+    "words": [
+      "swallow",
+      "swallowtail",
+      "swallows",
+      "swallowed",
+      "swallowing"
+    ],
+    "exclude": {
+      "swallow-wort": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1718",
+    "meaning": "整十基数的序数、等分份额，拼写沿历史类推固定",
+    "core": "-ETH：数量变成排位，整十分之一也借序数命名",
+    "image": "twentieth、thirtieth、fortieth、fiftieth、sixtieth、seventieth 按 20 到 70 的数值顺序复习。",
+    "intro": "排位回答第几个，数量回答有多少；a twentieth of 则回答二十等分里的一份。共同拼写是 -ty 变 -tieth，但各自还保留英语历史词形。",
+    "forms": "旧序数形式经类推 → 现代 twenty、thirty 等对应形式；y 改 i 接 -eth；缩写 20th、30th、40th、50th、60th、70th。",
+    "branches": [
+      [
+        "按数值读整十序数",
+        "twentieth · thirtieth · fortieth · fiftieth · sixtieth · seventieth"
+      ]
+    ],
+    "contrasts": "thirteenth／thirtieth、fifteenth／fiftieth 等要读清；fortieth 沿用 forty，无 u。",
+    "practice": "She read the twentieth, thirtieth and fortieth entries, then checked the fiftieth.\n\n她读了第二十、第三十、第四十个条目，再检查第五十个。",
+    "words": [
+      "twentieth",
+      "thirtieth",
+      "fortieth",
+      "fiftieth",
+      "sixtieth",
+      "seventieth"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1952",
+    "meaning": "旧工具、小称等后缀与同形结尾汇集，逐词看历史",
+    "core": "-EL：有时是旧工具、小称材料，有时只是相似字尾",
+    "image": "shovel、swivel 可看旧工具构词；morel、sorrel 等有外语小称路线；gavel、hovel 的常用义不能靠同一后缀包办。",
+    "intro": "历史构词不等于今天按字母砍开。whirl 的旧形式更长，gavel 木槌与旧赋税同形词分开，hovel 的最早来源也有争议。每个词的实体画面与已知近源更可靠。",
+    "forms": "日耳曼旧 -el、-le 等与法语小称等材料并非一条现代规则；各词另有缩合、借入、来源未定的情况。\n\n现代把 shovel 整词加 s；旧 el 材料不参与复数变化。",
+    "branches": [
+      [
+        "旧工具、动作与形态名称",
+        "shovel · swivel · whirl · cudgel"
+      ],
+      [
+        "外语小称、旧名借入",
+        "morel · sorrel · lapel · lintel"
+      ],
+      [
+        "仅按常用实义和已知历史对照",
+        "gavel · hovel"
+      ],
+      [
+        "旧工具名称 shovel 的复数",
+        "shovel · shovels"
+      ]
+    ],
+    "contrasts": "gavel 木槌起源未定，不照搬赋税义的 give 构词；hovel 也不确定由房屋词加小称造出。",
+    "practice": "The visitor swivelled the chair and compared a gavel, a shovel and a cudgel in the display.\n\n参观者转过椅子，对比展柜里的小槌、铲子和棍棒。",
+    "words": [
+      "shovel",
+      "swivel",
+      "whirl",
+      "cudgel",
+      "morel",
+      "sorrel",
+      "lapel",
+      "lintel",
+      "gavel",
+      "hovel",
+      "shovels"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4203",
+    "meaning": "背上的行李成为旅行方式，再命名参与者",
+    "core": "BACKPACK：包背在身上，人就能带着行李移动",
+    "image": "backpack → backpacking、backpacker，物件、活动、人物依次看。",
+    "intro": "实体背包提供共同画面，户外露营与城市经济旅行各有传统。装备、行程决定具体活动，不把一个词当作所有人都相同的旅行方案。",
+    "forms": "back + pack → backpack；-ing 活动，-er 参与者。\n\nback 背部 + pack 行囊先组成名词 backpack，后来动词说背着装备徒步、旅行，再有 -er 人称派生；不是把 back 当作返回前缀。",
+    "branches": [
+      [
+        "背包、旅行活动与背包客",
+        "backpack · backpacking · backpacker"
+      ],
+      [
+        "backpack：背在身后的包，到背包旅行",
+        "backpack · backpacks · backpacked · backpacking · backpacker · backpackers"
+      ]
+    ],
+    "contrasts": "背着包通勤不一定是 backpacking；backpacker 是活动角色，backpack 是物件。",
+    "practice": "The backpacker packed her backpack before the backpacking trip.\n\n背包客在背包旅程前收拾好背包。",
+    "words": [
+      "backpack",
+      "backpacking",
+      "backpacker",
+      "backpacks",
+      "backpacked",
+      "backpackers"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "B3527",
+    "meaning": "啪响、裂开，及打开难题、零食和各类俚语",
+    "core": "CRACK：先听啪，再看裂口，难题也像被打开",
+    "image": "crack → crackle 连响；cracker 裂响物、薄脆饼等；crackhead 取毒品专义，crackpot 是另一人物组合。",
+    "intro": "裂缝、薄饼、拉炮能用声音连起来，精锐团队、尝试、毒品相关俚语却需分支。生动图像帮助理解，不能替代所有历史证据。",
+    "forms": "cracian → crack；crack + -le/-er；crack 毒品名 + -head；crack + pot。\n\n名词 crackers 是 cracker 复数；英式俚语形容词说疯狂、荒唐，与 cracked 等比喻材料有联系，不按饼干的复数直译。\n\n本族尖锐声响词和拟声画面，裂开、解开等分支后来发展。\n\n古英语尖响材料的拟声背景，现代直接加 ing，不再添一个 k。\n\n旧拟声材料的响裂义扩展；s 表复数或三单。\n\ncroak 接中古英语 crouken，或拟声，或与古英语 cracian 一系相关；只作有条件的历史比较，不写成现代 crack 按规则变元音得到 croak。\n\ncrackle 接中古英语 crackelen，是 cracken 的旧反复动作形式；crackling 另有烤肉脆皮名词义，不能只解释成进行时。",
+    "branches": [
+      [
+        "声音、裂口与连续声",
+        "crack · crackle"
+      ],
+      [
+        "器物、食品与人物俚语",
+        "cracker · crackhead · crackpot"
+      ],
+      [
+        "crackers 的名词与英式俚语形容词",
+        "crack · cracker · crackers"
+      ],
+      [
+        "crack → cracked：啪地裂开，也能打开难题",
+        "crack · cracked"
+      ],
+      [
+        "crack → cracking：爆裂声、裂开与解开难题",
+        "crack · cracking"
+      ],
+      [
+        "crack → cracks：裂开、裂缝及固定搭配",
+        "crack · cracks"
+      ],
+      [
+        "croak 与 crack：可比较的拟声材料",
+        "crack · croak · croaks · croaked · croaking · croaky"
+      ],
+      [
+        "crack 与 crackle：一声啪响到接连噼啪",
+        "crack · crackle · crackles · crackled · crackling"
+      ]
+    ],
+    "contrasts": "crack/shatter 裂与粉碎；a crack team 是精锐；cracker 不只饼干；crackhead 强烈贬损。",
+    "practice": "The fire crackled while she ate a cracker and studied a crack in the old wall.\n\n火劈啪响着，她吃着薄脆饼，观察旧墙上的一道裂缝。",
+    "words": [
+      "crack",
+      "crackle",
+      "cracker",
+      "crackhead",
+      "crackpot",
+      "crackers",
+      "cracked",
+      "cracking",
+      "cracks",
+      "croak",
+      "croaks",
+      "croaked",
+      "croaking",
+      "croaky",
+      "crackles",
+      "crackled",
+      "crackling"
+    ],
+    "exclude": {
+      "crackerjack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1680",
+    "meaning": "心灵、心理和精神活动；不只精神障碍",
+    "core": "PSYCHO-：先定位心理领域，再由后半段说明研究、治疗、来源或作用",
+    "image": "psychology 研究心理；psychotherapy 治疗；psychogenic 来源在心理；psychotropic 作用于精神活动。",
+    "intro": "心理这个前半段不自动说某人危险、异常。后半段才决定是学科、治疗、人、测量，还是形成原因、药物作用。",
+    "forms": "psykhē → psycho-；-logy 学科、therapy 治疗、-genic 来源、-tropic 作用方向；social/somatic 等说明与社会、身体的关系。",
+    "branches": [
+      [
+        "研究、测量与障碍相关名称",
+        "psychology · psychometric · psychosis · psychopathic · psychopathy · psychopathology"
+      ],
+      [
+        "治疗、分析与相关人物",
+        "psychotherapy · psychotherapist · psychoanalytic · psychoanalytical · psychoanalyst · psychodynamic"
+      ],
+      [
+        "关系、来源与作用",
+        "psychosocial · psychosomatic · psychogenic · psychoactive · psychotropic"
+      ],
+      [
+        "其他专门活动与过程",
+        "psychomotor · psychosexual · psychodrama"
+      ]
+    ],
+    "contrasts": "psychogenic/psychotropic 来源与作用方向；psychology 不等于精神病学；psycho- 作构词材料与骂人 psycho 的语气分开。",
+    "practice": "The glossary distinguishes psychology, psychotherapy and psychogenic factors.\n\n术语表区分了心理学、心理治疗与心理起源因素。",
+    "words": [
+      "psychology",
+      "psychometric",
+      "psychosis",
+      "psychopathic",
+      "psychopathy",
+      "psychopathology",
+      "psychotherapy",
+      "psychotherapist",
+      "psychoanalytic",
+      "psychoanalytical",
+      "psychoanalyst",
+      "psychodynamic",
+      "psychosocial",
+      "psychosomatic",
+      "psychogenic",
+      "psychoactive",
+      "psychotropic",
+      "psychomotor",
+      "psychosexual",
+      "psychodrama"
+    ],
+    "exclude": {
+      "psycho-socio-philosophical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "psychopharmacology": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "psychotherapeutic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

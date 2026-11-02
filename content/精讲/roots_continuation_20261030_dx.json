@@ -1,0 +1,124 @@
+[
+  {
+    "id": "B2522",
+    "meaning": "工业、工业经营者与发展工业的过程",
+    "core": "INDUSTRIAL：工作活动词族，现代主要落到工业体系",
+    "image": "industrial → industrially、industrialist；industrialize → industrialization 紧随看变化。",
+    "intro": "industrial 和 industrious 形似同族，今天工业与勤奋各有搭配；工业家不等于每个产业工人。",
+    "forms": "industria → industriel 等 → industrial；industrial + -ly/-ist/-ize；industrialisation 等 → industrialization。\n\nindustry 与 industrial 同接拉丁语 industria 的勤勉、工作活动词族；industrial 另有法语、拉丁语形容词借入史。先读 industry，便于理解后面的工业、工业化等扩展。\n\nindustrialize 使工业化；industrialized 工业化了的；industrialization 工业化过程。industrialized 是分词形容词，也可作过去式，不能仅看到 -ed 就认定句子在讲过去。\n\n拉丁 industriā 的勤勉词经法语等借入，行业义后续发展。",
+    "branches": [
+      [
+        "性质、方式与人物",
+        "industrial · industrially · industrialist"
+      ],
+      [
+        "工业化动作与过程",
+        "industrialize · industrialization"
+      ],
+      [
+        "行业、工业的基础名词",
+        "industry · industrial"
+      ],
+      [
+        "工业化的动作、状态和过程",
+        "industrialize · industrialized · industrialization"
+      ],
+      [
+        "industry → industries：勤勉到产业",
+        "industry · industries"
+      ]
+    ],
+    "contrasts": "industrial/industrious 工业与勤奋；industrialist/worker 工业家与工人；industrialize/modernize 范围不同。",
+    "practice": "Industrialization brought more industrial jobs to the region.\n\n工业化为地区带来了更多工业岗位。",
+    "words": [
+      "industrial",
+      "industrially",
+      "industrialist",
+      "industrialize",
+      "industrialization",
+      "industry",
+      "industrialized",
+      "industries"
+    ],
+    "exclude": {
+      "anti-industrial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3365",
+    "meaning": "绑住、连接、领带和平局；tier 另源辨析",
+    "core": "TIE：连在一起分不开，成绩相同也没拉开",
+    "image": "tie → tying、untie；necktie、bowtie 服饰组合；tiebreak、tiebreaker 接平局；tier 的常用层级义以形近异源对照另列。",
+    "intro": "tying 的拼写例外值得单列：ie 变 y。tier 层级常用读音与 tie 系结不同，不按字母样子假设一定是人物后缀。",
+    "forms": "tēag、tīġan 等 → tie；tie + -ing 为 tying；un- + tie；tie + breaker；tier 层级借法语，另源。\n\n本族绳带和系结动词汇入现代词，分数相同是另一现代用法。\n\n古英语绳带、系结词后来汇入同形，现代名词与动词并学。",
+    "branches": [
+      [
+        "系结、动作变化与解除",
+        "tie · tying · untie"
+      ],
+      [
+        "领带和比赛组合",
+        "necktie · bowtie · tiebreak · tiebreaker"
+      ],
+      [
+        "常用层级词另源对照",
+        "tier"
+      ],
+      [
+        "tie → tied：系住、关联与平局",
+        "tie · tied"
+      ],
+      [
+        "tie → ties：系结、领带、联系和平局",
+        "tie · ties"
+      ]
+    ],
+    "contrasts": "tying/tiring 系结与疲倦；tier 层级非普通tie加er；tiebreaker 可用决胜条件，不限运动项目。",
+    "practice": "The quiz ended in a tie, so they used a tiebreaker.\n\n问答赛打平了，于是他们加了一道决胜题。",
+    "words": [
+      "tie",
+      "tying",
+      "untie",
+      "necktie",
+      "bowtie",
+      "tiebreak",
+      "tiebreaker",
+      "tier",
+      "tied",
+      "ties"
+    ],
+    "exclude": {
+      "tie-out": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3901",
+    "meaning": "古地理分带到长期天气特征",
+    "core": "CLIMATE：看长期规律，再看气候条件、研究与局部尺度",
+    "image": "climate → climatic、climatology；microclimate 缩小空间范围。",
+    "intro": "旧倾斜、地带语义关联纬度日照的分区，现代主要看长期条件。climatic 气候与 climactic 高潮只差一字母，现代词基、搭配却不同。",
+    "forms": "klíma → clima → climat → climate；climat- + -ic/-ology；micro- + climate。",
+    "branches": [
+      [
+        "基础、性质与学科",
+        "climate · climatic · climatology"
+      ],
+      [
+        "局部尺度",
+        "microclimate"
+      ]
+    ],
+    "contrasts": "climate/weather 长期规律与短时天气；climatic/climactic 气候与高潮；microclimate 小尺度非一瞬间天气。",
+    "practice": "Climatology examines climatic patterns, including local microclimates.\n\n气候学研究气候规律，也包括局地小气候。",
+    "words": [
+      "climate",
+      "climatic",
+      "climatology",
+      "microclimate"
+    ],
+    "exclude": {
+      "climate-speak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cli-fi": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

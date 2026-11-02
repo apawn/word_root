@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B3955",
+    "meaning": "控制、熟练与大师；母版的现代用途",
+    "core": "MASTER：人可以是高手，动作可以是掌握，版本可以是母版",
+    "image": "master → mastery、masterful、masterly；grandmaster 人物称号，remaster 则接母版义。",
+    "intro": "拉丁负责人、教师词经古英语和法语传入。熟练、控制、学位和母版等分支要各自抓场景，已有常用复合词共享。",
+    "forms": "master → mastery〔法语名词支线〕、masterful、masterly；grand- + master；re- + master〔母版〕。\n\n拉丁 magister 早借入英语并受法语影响，专业用途另看语境。\n\nmistress 经古法语 maistresse，含 maistre 负责人、老师与阴性后缀材料；词形在借入中变化，现代女主人、精通者、情妇等义分别解释。",
+    "branches": [
+      [
+        "基本能力与性质",
+        "master · mastery · masterful · masterly"
+      ],
+      [
+        "人物与作品",
+        "grandmaster · masterpiece · mastermind · headmaster · postmaster · quartermaster · schoolmaster · paymaster"
+      ],
+      [
+        "母版与作品词",
+        "remaster · masterwork"
+      ],
+      [
+        "master → masters：熟练者、负责人、母版",
+        "master · masters"
+      ],
+      [
+        "master 与 mistress：同族的不同历史用法",
+        "mistress"
+      ]
+    ],
+    "contrasts": "masterful 今可高超也可强势；masterly 主要形容词；grandmaster 不等于祖父；remaster 接母版义。",
+    "practice": "The remastered recording preserves a masterful performance.\n\n重新制作的录音母版保留了一场精湛演奏。",
+    "words": [
+      "master",
+      "mastery",
+      "masterful",
+      "masterly",
+      "grandmaster",
+      "masterpiece",
+      "mastermind",
+      "headmaster",
+      "postmaster",
+      "quartermaster",
+      "schoolmaster",
+      "paymaster",
+      "remaster",
+      "masterwork",
+      "masters",
+      "mistress"
+    ],
+    "exclude": {
+      "webmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "taskmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ringmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "masterstroke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spymaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "choirmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beastmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "concertmaster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2750",
+    "meaning": "唱、歌唱活动、歌唱者与跟唱",
+    "core": "SING：动作；SINGING：活动；SINGER：人物",
+    "image": "sing 后接 singing、singer，再看 singalong 把跟唱活动变成名称。",
+    "intro": "古英语唱歌动词延续，sing—sang—sung 保留不规则变化。后缀词形规则与元音变化分别认识。",
+    "forms": "sing—sang—sung；sing + -ing/-er；sing along → singalong。\n\nsing /sɪŋ/ → sang /sæŋ/ → sung /sʌŋ/，过去、分词的元音不同，常见读音词尾不额外加 /ɡ/。\n\n古英语 singan 继承，ng 为一个鼻音，s 读 z。\n\nsing 加完整 -er，singer 的 ng 通常是 /ŋ/，没有 finger 中的 /ɡ/。",
+    "branches": [
+      [
+        "动作、活动与人物",
+        "sing · singing · singer"
+      ],
+      [
+        "共同参与",
+        "singalong"
+      ],
+      [
+        "sing、sang、sung 连着读",
+        "sing · sang · sung"
+      ],
+      [
+        "sing → sings：唱歌动词三单",
+        "sing · sings"
+      ],
+      [
+        "sing → singer → singers：唱歌的人",
+        "singer · singers"
+      ]
+    ],
+    "contrasts": "sing/singing/singer 的 ng 常读 /ŋ/；singe 燎焦另词；singalong 不必正式合唱团。",
+    "practice": "The singer encouraged everyone to join the singalong.\n\n歌手鼓励大家一起跟唱。",
+    "words": [
+      "sing",
+      "singing",
+      "singer",
+      "singalong",
+      "sang",
+      "sung",
+      "sings",
+      "singers"
+    ],
+    "exclude": {
+      "sing-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sing-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mis-sing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

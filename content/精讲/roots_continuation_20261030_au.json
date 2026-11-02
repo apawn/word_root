@@ -1,0 +1,107 @@
+[
+  {
+    "id": "B3886",
+    "meaning": "身体、实体和自然物理；先看对象再定义",
+    "core": "PHYSICAL：身体这一面，或物质和自然规律这一面",
+    "image": "既有 physical、physically 先读；physicality 把身体特征名词化，astrophysical 与既有 geophysical、biophysical 按研究对象并列。",
+    "intro": "physical 的身体和物理学含义同有自然背景，却在现代句子里分工很清楚，不把身体对抗读成物理课。",
+    "forms": "physical + -ly/-ity；astro-/geo-/bio- + physical。",
+    "branches": [
+      [
+        "基本形容词、副词与性质",
+        "physical · physically · physicality"
+      ],
+      [
+        "研究对象的组合",
+        "astrophysical · geophysical · biophysical"
+      ]
+    ],
+    "contrasts": "physicality 身体表现或实体性不同于 physics 学科；astro- 天体、geo- 地球、bio- 生命并列说明对象。",
+    "practice": "The lecture moved from physical observations to an astrophysical model.\n\n讲座从物理观测讲到了天体物理模型。",
+    "words": [
+      "physical",
+      "physically",
+      "physicality",
+      "astrophysical",
+      "geophysical",
+      "biophysical"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3647",
+    "meaning": "所指内容、意图和价值；有无意义分两路",
+    "core": "MEANING：到底指什么，又为什么值得在意",
+    "image": "meaning → meaningful → meaningless；先分语言含义和人生、行动价值，例句各落具体场景。",
+    "intro": "mean 意指的旧名词延续至今。平均数、刻薄的同形 mean 不拿来硬连这一组。",
+    "forms": "mean〔意指〕+ -ing；meaning + -ful/-less。\n\n本组来自意指的 mean，平均数、刻薄等同形词分别看。",
+    "branches": [
+      [
+        "内容与价值",
+        "meaning"
+      ],
+      [
+        "有意义和缺少意义",
+        "meaningful · meaningless"
+      ],
+      [
+        "meaning → meanings：想表达的内容",
+        "meaning · meanings"
+      ]
+    ],
+    "contrasts": "definition 是定义，meaning 是所指和价值；meaningless 不等于只是 unclear；-ful 只有一个 l。",
+    "practice": "A meaningful promise needs action, or its words may become meaningless.\n\n有意义的承诺需要行动，否则那些话可能失去价值。",
+    "words": [
+      "meaning",
+      "meaningful",
+      "meaningless",
+      "meanings"
+    ],
+    "exclude": {
+      "well-meaning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3679",
+    "meaning": "车辆载人到目的地；辅导者带人过关",
+    "core": "COACH：车载人前进，教练带人进步",
+    "image": "coach 一词分交通和指导两路；coachman 接旧马车，不接教练。",
+    "intro": "名称可追到匈牙利地名 Kocs；从车到辅导者的英语比喻有历史依据，不能把现代所有教练都画成马车夫演变。",
+    "forms": "地名 Kocs → kocsi → 欧洲语言车辆词 → coach；coach + man。\n\n车辆词经法语、德语接匈牙利地名相关称呼，辅导比喻后来发展。\n\n车辆名称接匈牙利地名 Kocs；教练义由辅导学生的比喻发展。\n\n车辆名接匈牙利地名 Kocs 的材料；此处不是教练义。",
+    "branches": [
+      [
+        "车与辅导者",
+        "coach"
+      ],
+      [
+        "旧车辆职业",
+        "coachman"
+      ],
+      [
+        "coach → coaching：载人前进到辅导",
+        "coach · coaching"
+      ],
+      [
+        "coach → coaches：载人的车与带人进步的教练",
+        "coach · coaches"
+      ],
+      [
+        "coach 的马车义进入分段行驶的 stagecoach",
+        "coach · stagecoach · stagecoaches"
+      ]
+    ],
+    "contrasts": "coach 教练、客车与 couch 沙发不同；coachman 马车夫不等于男教练；fly coach 美式经济舱。",
+    "practice": "The coach travelled by coach to meet the team.\n\n教练乘长途客车去与队伍会合。",
+    "words": [
+      "coach",
+      "coachman",
+      "coaching",
+      "coaches",
+      "stagecoach",
+      "stagecoaches"
+    ],
+    "exclude": {
+      "stage-coach": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

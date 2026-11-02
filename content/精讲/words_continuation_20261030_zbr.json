@@ -1,0 +1,546 @@
+[
+  {
+    "word": "tales",
+    "ipa": "/teɪlz/",
+    "meaning": "故事、遭遇的讲述〔复数〕",
+    "sense": "把经历讲给别人听，一段段讲出来的内容就是 tales。可以是真实经历，也可以是编的故事，并不天生就是谎话。",
+    "split": "tale 接古英语 talu 的叙述、计数材料，与 tell 有历史联系。现代直接加 -s，/l/ 后读 /z/，不额外加音节。",
+    "history": [
+      [
+        "古英语 talu → 中古英语 tale → tale",
+        "叙述、计数等旧义 → 故事、讲述"
+      ],
+      [
+        "tale + -s → tales",
+        "多个故事、几段遭遇"
+      ]
+    ],
+    "explanation": "fairy tales 童话；tales of adventure 冒险故事；tell tales 讲故事，某些语境也指打小报告。",
+    "usage": "tales from childhood 童年故事；strange tales 奇闻。",
+    "contrast": "tales 与 tails 尾巴同音。tale 是讲出来的故事；true tales 明确可以是真事，不能见到 tales 就译成谎言。",
+    "examples": [
+      [
+        "He told us tales of his travels.",
+        "他给我们讲旅行中的见闻。"
+      ],
+      [
+        "The book contains five fairy tales.",
+        "这本书收录了五篇童话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tales#English",
+      "https://en.wiktionary.org/wiki/tale#English"
+    ]
+  },
+  {
+    "word": "washed",
+    "ipa": "英 /wɒʃt/；美 /wɑːʃt/",
+    "meaning": "洗过、冲刷过；被洗的〔过去式、过去分词〕",
+    "sense": "水经过东西，把污物带走，是 washed 的洗净画面；浪冲上岸、冲走东西，也能用 washed 来说。",
+    "split": "wash 从古英语 wascan 延续。现代加完整 -ed，/ʃ/ 是清辅音，所以这里 -ed 读 /t/，washed 不另加 /ɪd/。",
+    "history": [
+      [
+        "古英语 wascan → wash",
+        "用水洗、冲刷"
+      ],
+      [
+        "wash + -ed → washed",
+        "洗过了、冲刷了；被洗过的"
+      ]
+    ],
+    "explanation": "washed the dishes 洗了餐具；freshly washed clothes 刚洗过的衣服；washed ashore 被冲上岸。",
+    "usage": "washed away 被冲走；washed his hands 洗了手。",
+    "contrast": "washed 讲完成或被动，不等于 washing 正在洗。washed ashore 也不表示有人把东西擦洗干净，而是水把东西带到岸上。",
+    "examples": [
+      [
+        "She washed the cups after breakfast.",
+        "早餐后她洗了杯子。"
+      ],
+      [
+        "A piece of wood washed ashore.",
+        "一块木头被冲上了岸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/washed#English",
+      "https://en.wiktionary.org/wiki/wash#English"
+    ]
+  },
+  {
+    "word": "appearances",
+    "ipa": "英 /əˈpɪərənsɪz/；美 /əˈpɪrənsɪz/",
+    "meaning": "外表、表面印象；出现、露面〔复数〕",
+    "sense": "从外面看得到的样子，是 appearances 的外表义；某人一次次出现在公众面前，又是 appearances 的露面义。都连着显出来。",
+    "split": "appearance 接法语 apparence、拉丁 apparentia，与 appear 的显露词族相连。现代直接加 -s，词尾 /s/ 后加 /ɪz/，不把它当成换掉 -ance。",
+    "history": [
+      [
+        "拉丁 apparere、apparentia → 法语、英语 appearance",
+        "显露 → 外观、出现"
+      ],
+      [
+        "appearance + -s → appearances",
+        "表面上的样子；多次露面"
+      ]
+    ],
+    "explanation": "public appearances 公开露面；judging by appearances 从外表判断；keep up appearances 维持表面体面。",
+    "usage": "despite appearances 尽管表面看着如此；two appearances on stage 两次登台。",
+    "contrast": "appearances 不只指一个人的长相。事件表面看来的样子、公开露面的次数，都要由上下文分开。",
+    "examples": [
+      [
+        "Appearances can be misleading.",
+        "表面印象可能会误导人。"
+      ],
+      [
+        "The singer made two public appearances that week.",
+        "那位歌手那周公开露面了两次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appearances#English",
+      "https://en.wiktionary.org/wiki/appearance#English"
+    ]
+  },
+  {
+    "word": "challenged",
+    "ipa": "/ˈtʃælɪndʒd/",
+    "meaning": "质疑了、挑战了、要求较量〔过去式、过去分词〕",
+    "sense": "有人说这是真的，你提出反问和证据，是 challenged；有人邀另一人比一比，也可以说 challenged。都在要求对方应对。",
+    "split": "challenge 的拉丁指控、争辩材料经法语进入英语。现代去末尾不发音 e，加完整 -ed；/dʒ/ 后读 /d/，结尾 /dʒd/ 不另添音节。",
+    "history": [
+      [
+        "拉丁 calumnia、calumniari → 法语 → challenge",
+        "指控、争辩 → 提出挑战、质疑"
+      ],
+      [
+        "challenge 去 e + -ed → challenged",
+        "质疑过；发起挑战或被提出挑战"
+      ]
+    ],
+    "explanation": "challenged the claim 质疑该说法；challenged him to a race 向他挑战赛跑；felt challenged 感到面对挑战。",
+    "usage": "challenged an assumption 质疑一个假设；challenged us to think 促使我们认真思考。",
+    "contrast": "challenged a claim 是对说法提出质疑，并不自动证明它错了。challenged someone to do 则是要求对方试着做某事。",
+    "examples": [
+      [
+        "She challenged the claim with new evidence.",
+        "她用新证据质疑了那个说法。"
+      ],
+      [
+        "He challenged me to a game of chess.",
+        "他向我挑战下一盘国际象棋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/challenged#English",
+      "https://en.wiktionary.org/wiki/challenge#English"
+    ]
+  },
+  {
+    "word": "cigarettes",
+    "ipa": "英 /ˌsɪɡəˈrets/；美常 /ˈsɪɡərets/",
+    "meaning": "香烟、纸烟〔复数〕",
+    "sense": "一支支用纸卷成的烟，是 cigarettes。它借来了法语的小称名字，但今天的名称已经固定，不能只靠大小和 cigar 雪茄区分。",
+    "split": "西班牙 cigarro 借入法语为 cigare，再加指小后缀 -ette 成 cigarette，英语整词借入。现代最后再加复数 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "西班牙 cigarro → 法语 cigare + -ette → cigarette",
+        "雪茄名称 → 小称的纸烟名"
+      ],
+      [
+        "英语 cigarette + -s → cigarettes",
+        "多支香烟"
+      ]
+    ],
+    "explanation": "a packet of cigarettes 一包香烟；cigarettes in a shop 商店里的香烟；a cigarette case 烟盒。",
+    "usage": "two cigarettes 两支香烟；cigarettes and matches 香烟与火柴。",
+    "contrast": "-ette 是法语构词时已有的部分；末尾 -s 才是现代英语复数。不要把 cigarettes 的所有结尾一股脑当成一个后缀。",
+    "examples": [
+      [
+        "The old advertisement showed a packet of cigarettes.",
+        "那张旧广告里画着一包香烟。"
+      ],
+      [
+        "The character leaves two cigarettes on the table.",
+        "那个角色把两支香烟留在桌上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cigarettes#English",
+      "https://en.wiktionary.org/wiki/cigarette#English"
+    ]
+  },
+  {
+    "word": "consisting",
+    "ipa": "/kənˈsɪstɪŋ/",
+    "meaning": "由……组成〔现在分词〕",
+    "sense": "先看一个整体，再列出组成它的各部分：a team consisting of five people，就是一个由五人组成的团队。",
+    "split": "consist 经法语 consister 或直接借拉丁 consistere，con- 一起 + sistere 站定。现代直接加完整 -ing，常接 of 引出组成部分。",
+    "history": [
+      [
+        "拉丁 con- + sistere → consistere → consist",
+        "一起存在、站定 → 构成、在于"
+      ],
+      [
+        "consist + -ing → consisting",
+        "作分词说明一个整体由什么构成"
+      ]
+    ],
+    "explanation": "a group consisting of students 一个由学生组成的小组；a meal consisting of soup and bread 一顿由汤和面包组成的饭。",
+    "usage": "a collection consisting of ten stories 一部包含十篇故事的集子；consisting mainly of… 主要由……组成。",
+    "contrast": "consisting of 常放在名词后修饰它。普通的由……组成谓语通常用 consists of，不常说 is consisting of；不要把分词修饰语等同进行时。",
+    "examples": [
+      [
+        "We formed a team consisting of five people.",
+        "我们组成了一个五人团队。"
+      ],
+      [
+        "She prepared a simple meal consisting of soup and bread.",
+        "她准备了一顿简单的饭，有汤和面包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consisting#English",
+      "https://en.wiktionary.org/wiki/consist#English"
+    ]
+  },
+  {
+    "word": "destroying",
+    "ipa": "/dɪˈstrɔɪɪŋ/",
+    "meaning": "摧毁、破坏到不能存在或发挥作用〔现在分词、动名词〕",
+    "sense": "不只是表面坏一点，而是把原有结构或作用毁掉，是 destroying。房屋可以被毁，信任、机会也可以被毁。",
+    "split": "destroy 接拉丁 de- 撤去、拆下 + struere 建造，经法语相关形式传入。现代 destroy 直接加 -ing，y 保留，读 /ɔɪ/ 后接 /ɪŋ/。",
+    "history": [
+      [
+        "拉丁 destruere → 古法语 destruire → 英语 destroy",
+        "拆掉搭好的结构 → 摧毁"
+      ],
+      [
+        "destroy + -ing → destroying",
+        "正在摧毁；毁掉某物的过程"
+      ]
+    ],
+    "explanation": "destroying buildings 摧毁建筑；destroying trust 毁掉信任；destroying a chance 断送机会。",
+    "usage": "a storm destroying homes 一场摧毁房屋的风暴；destroying the evidence 毁掉证据。",
+    "contrast": "damage 可以只是损坏一部分，destroy 通常更强，强调原有存在或功能被毁掉。用于信任等抽象对象时也是这种强度。",
+    "examples": [
+      [
+        "The storm was destroying homes along the coast.",
+        "风暴当时正在摧毁沿海的房屋。"
+      ],
+      [
+        "Constant dishonesty is destroying their trust.",
+        "不断说谎正在毁掉他们之间的信任。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/destroying#English",
+      "https://en.wiktionary.org/wiki/destroy#English"
+    ]
+  },
+  {
+    "word": "edges",
+    "ipa": "/ˈedʒɪz/",
+    "meaning": "边、边缘、锋刃〔复数〕；慢慢挪动、险胜〔第三人称单数〕",
+    "sense": "一张纸周围的界线，是 edges；刀上锋利的边也可以这样说。动词 edges 常像沿边一点点挪，幅度很小。",
+    "split": "edge 接古英语 ecg 的边、刃材料。现代直接加 -s，词尾 /dʒ/ 后读 /ɪz/；拼写是 edge 加 s，不再额外写一个 e。",
+    "history": [
+      [
+        "古英语 ecg → edge",
+        "刃、边 → 边缘、优势与缓慢移动"
+      ],
+      [
+        "edge + -s → edges",
+        "多条边；某人或某物缓缓挪动、微胜"
+      ]
+    ],
+    "explanation": "sharp edges 锋利的边；the edges of the paper 纸的边缘；edges closer 慢慢挪近。",
+    "usage": "rough edges 粗糙的边，也可比喻尚不成熟的细节；edges towards the door 慢慢挪向门。",
+    "contrast": "edges 作名词时看边界或锋刃；作动词时常强调一点点移动。不是每个 edges 都在说切东西。",
+    "examples": [
+      [
+        "The paper has rough edges.",
+        "这张纸的边缘很毛糙。"
+      ],
+      [
+        "The cat edges closer to the bowl.",
+        "猫一点点挪近碗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/edges#English",
+      "https://en.wiktionary.org/wiki/edge#English"
+    ]
+  },
+  {
+    "word": "entries",
+    "ipa": "/ˈentriz/",
+    "meaning": "记录条目；参赛作品或报名者；进入、入口〔复数〕",
+    "sense": "在本子里写进去的一条记录，在比赛名单里报进去的一件作品，都可以是 entries。核心是进入某个空间、记录或名单。",
+    "split": "entry 经法语 entree 等进入名词借入，较远连拉丁进入词族；不是现代 enter 去 er 加 y。现代辅音字母加 y 的结尾改成 i，再加 -es，读 /iz/。",
+    "history": [
+      [
+        "拉丁进入词族 → 法语 entree → 英语 entry",
+        "进入、入口 → 录入的一条、报名对象"
+      ],
+      [
+        "entry → entries：y 改 i，加 -es",
+        "多条记录、多件参赛作品等"
+      ]
+    ],
+    "explanation": "diary entries 日记条目；competition entries 参赛作品；dictionary entries 词典词条。",
+    "usage": "three entries in the notebook 笔记本里的三条记录；receive many entries 收到许多报名或作品。",
+    "contrast": "entries 可以指报名的人，也可以指提交的作品，得看比赛规则与语境。在日记或词典里则通常是一条条内容。",
+    "examples": [
+      [
+        "She read the first three diary entries.",
+        "她读了日记的前三条。"
+      ],
+      [
+        "The competition received over a hundred entries.",
+        "比赛收到了超过一百份参赛作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entries#English",
+      "https://en.wiktionary.org/wiki/entry#English"
+    ]
+  },
+  {
+    "word": "evolved",
+    "ipa": "英 /ɪˈvɒlvd/；美 /ɪˈvɑːlvd/",
+    "meaning": "逐渐发展、演变了；演化形成的〔过去式、过去分词〕",
+    "sense": "原来的样子经过一连串变化，慢慢成了后来的样子，就是 evolved。可以讲想法、制度，也可以讲生物的演化。",
+    "split": "evolve 接拉丁 e-、ex- 向外 + volvere 卷的 evolvere 展开。现代去末尾不发音 e，加完整 -ed，/v/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 evolvere → 英语 evolve",
+        "展开卷起的东西 → 逐渐展开、发展"
+      ],
+      [
+        "evolve 去 e + -ed → evolved",
+        "已经演变；经变化形成的"
+      ]
+    ],
+    "explanation": "evolved over time 随时间演变；evolved from an earlier design 从较早设计发展而来；evolved into a plan 逐渐形成一个方案。",
+    "usage": "a fully evolved idea 已发展成形的想法；evolved gradually 逐渐演变。",
+    "contrast": "evolved 不自动等于更高级或更完美，尤其生物演化不是朝预定终点升级。一般事务里，它先表达逐步改变。",
+    "examples": [
+      [
+        "The idea evolved into a practical plan.",
+        "这个想法逐渐发展成了可行方案。"
+      ],
+      [
+        "The design evolved over several years.",
+        "这项设计经过了数年的演变。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evolved#English",
+      "https://en.wiktionary.org/wiki/evolve#English"
+    ]
+  },
+  {
+    "word": "exports",
+    "ipa": "名词：英 /ˈekspɔːts/、美 /ˈekspɔːrts/；动词：英 /ɪkˈspɔːts/、美 /ɪkˈspɔːrts/",
+    "meaning": "出口货物、出口额〔复数〕；出口、导出〔第三人称单数〕",
+    "sense": "把东西往外送，是 exports 的共同方向：国家把商品卖向外部，软件把数据送成另一个文件。名词 exports 还能把出口商品或总量合在一起谈。",
+    "split": "拉丁 ex- 向外 + portare 运送，形成 exportare，进入英语 export。现代加 -s，/t/ 后读 /s/；名词重音在前，动词在后。",
+    "history": [
+      [
+        "拉丁 exportare → 英语 export",
+        "向外运送 → 商品出口、数据导出"
+      ],
+      [
+        "export + -s → exports",
+        "出口货物、出口量；某主体出口或导出"
+      ]
+    ],
+    "explanation": "agricultural exports 农产品出口；exports goods 出口货物；exports the file 导出文件。",
+    "usage": "exports to other countries 向其他国家的出口；exports data as text 把数据导出为文本。",
+    "contrast": "名词 exports 常整体谈出口商品或出口规模，不一定在数几次操作。电脑语境 exports 是输出文件或数据；imports 则朝内引入。",
+    "examples": [
+      [
+        "The company exports furniture to several countries.",
+        "公司向几个国家出口家具。"
+      ],
+      [
+        "The report describes the region’s main exports.",
+        "报告介绍了该地区主要的出口产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exports#English",
+      "https://en.wiktionary.org/wiki/export#English"
+    ]
+  },
+  {
+    "word": "flags",
+    "ipa": "/flæɡz/",
+    "meaning": "旗帜、标记〔复数〕；标出、提醒注意；衰弱〔第三人称单数〕",
+    "sense": "一面面旗是 flags；把问题做个记号，让人一眼注意到，动词也说 flags。若说精力 flags，则是在慢慢泄劲。",
+    "split": "旗名 flag 接中古英语 flagge，更远来源不定，标记动词可由旗发展。衰弱动词有松垂、失去劲头的旧路径；石板义另接北欧材料。现代加 -s，/ɡ/ 后读 /z/。",
+    "history": [
+      [
+        "中古英语 flagge → flag；另有衰弱、石板路径",
+        "旗 → 标记；各同形来源须分开"
+      ],
+      [
+        "flag + -s → flags",
+        "多面旗、多项标记；标出或衰弱的三单"
+      ]
+    ],
+    "explanation": "national flags 国旗；flags an error 标出错误；red flags 警示信号。",
+    "usage": "colourful flags 彩旗；her energy flags 她的精力衰退。",
+    "contrast": "flags an issue 强调提醒关注，不一定已经解决问题。energy flags 的动词不能硬解释成给精力插旗，历史上另有松垂、衰弱材料。",
+    "examples": [
+      [
+        "Colourful flags hung above the street.",
+        "彩旗挂在街道上方。"
+      ],
+      [
+        "The program flags possible errors.",
+        "程序标出可能的错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flags#English",
+      "https://en.wiktionary.org/wiki/flag#English"
+    ]
+  },
+  {
+    "word": "flies",
+    "ipa": "/flaɪz/",
+    "meaning": "苍蝇、飞虫〔复数〕；飞、飞行、快速流逝〔第三人称单数〕",
+    "sense": "桌边有几只苍蝇，是 flies；一只鸟飞过来，也会用 flies。看到这个词，先看它在句里当虫子的名字，还是在做飞的动作。",
+    "split": "飞行动词接古英语 fleogan，飞虫名接相关的 fleoge 等形式。现代两种 fly 都把 y 改成 i 再加 -es，读音仍是 /aɪ/ 加 /z/。",
+    "history": [
+      [
+        "古英语飞行动词、飞虫名 → fly",
+        "飞行动作；会飞的虫子名称"
+      ],
+      [
+        "fly → flies：y 改 i，加 -es",
+        "多只苍蝇；单数主语飞或快速过去"
+      ]
+    ],
+    "explanation": "flies around the room 在房间里飞；fruit flies 果蝇；time flies 时间过得飞快。",
+    "usage": "a bird flies past 一只鸟飞过；keep flies away 赶走苍蝇。",
+    "contrast": "flies 不是不规则过去式，过去式是 flew，过去分词是 flown。这里的拼写改变只服务于名词复数或动词三单。",
+    "examples": [
+      [
+        "A bird flies over the garden every morning.",
+        "每天早晨都有一只鸟飞过花园。"
+      ],
+      [
+        "There were several flies near the fruit.",
+        "水果附近有几只苍蝇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flies#English",
+      "https://en.wiktionary.org/wiki/fly#English"
+    ]
+  },
+  {
+    "word": "indicating",
+    "ipa": "/ˈɪndɪkeɪtɪŋ/",
+    "meaning": "表明、显示、指示〔现在分词、动名词〕",
+    "sense": "一个箭头把方向指出来，一组数字把趋势显出来，都在 indicating。它不一定靠人开口说，也可以靠迹象给出信息。",
+    "split": "indicate 连拉丁 indicare 指出，有借 indicatus 词干或由较早 indication 逆构的分析。现代去结尾 e，加完整 -ing；词干 /eɪt/ 保留。",
+    "history": [
+      [
+        "拉丁 indicare、indicatus；较早 indication → indicate",
+        "指出、指明；两种近源分析"
+      ],
+      [
+        "indicate 去 e + -ing → indicating",
+        "正在指示；通过迹象显示"
+      ]
+    ],
+    "explanation": "indicating the direction 指示方向；a sign indicating the exit 指示出口的标志；indicating a change 显示变化。",
+    "usage": "data indicating a trend 显示某趋势的数据；an arrow indicating where to go 指示往哪走的箭头。",
+    "contrast": "indicating 常是提供线索或信息；是否足以确定结论，还要看证据本身。不要把所有 indicates 都直接升级为 proves 已证明。",
+    "examples": [
+      [
+        "The map has an arrow indicating the entrance.",
+        "地图上有个箭头指示入口。"
+      ],
+      [
+        "The figures are indicating a gradual change.",
+        "这些数字显示出一种逐渐的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indicating#English",
+      "https://en.wiktionary.org/wiki/indicate#English"
+    ]
+  },
+  {
+    "word": "jets",
+    "ipa": "/dʒets/",
+    "meaning": "喷流；喷气式飞机〔复数〕；乘喷气式飞机出行、喷出〔第三人称单数〕",
+    "sense": "水从小孔集中喷出，是 jets；靠喷气动力飞行的一架架飞机，也叫 jets。重点是集中喷出的流，后来带出机器名称。",
+    "split": "喷流 jet 经法语 jet、jeter，连拉丁 iactus、iactare 的投掷材料。黑玉 jet 接另一地名来源，另分。现代直接加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁投掷材料 → 法语 jet、jeter → jet",
+        "抛出 → 喷出的一股流"
+      ],
+      [
+        "喷流 → 喷气发动机、飞机；jet + -s → jets",
+        "多股喷流、多架喷气飞机；动词三单"
+      ]
+    ],
+    "explanation": "jets of water 几股水柱；passenger jets 喷气客机；jets across the world 乘喷气式飞机往返各地。",
+    "usage": "small jets of steam 几股细蒸汽；two jets on the runway 跑道上的两架喷气飞机。",
+    "contrast": "jets 不必都指飞机，of water、of steam 往往直接说喷流。jet black 乌黑中的 jet 则联系黑玉的另源用法。",
+    "examples": [
+      [
+        "The fountain sends up small jets of water.",
+        "喷泉向上喷出几股细水柱。"
+      ],
+      [
+        "Two passenger jets waited on the runway.",
+        "两架喷气客机在跑道上等候。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jets#English",
+      "https://en.wiktionary.org/wiki/jet#English"
+    ]
+  },
+  {
+    "word": "mentions",
+    "ipa": "/ˈmenʃənz/",
+    "meaning": "提到、提及〔第三人称单数〕；提及记录〔复数〕",
+    "sense": "说话或文章顺带把某人某事点出来，是 mentions；一篇文章里提到某名字几次，也可以把那些提及叫 mentions。",
+    "split": "mention 名词经法语接拉丁 mentio、mention-，较远连思考、使人想起的材料。动词可接英语名词或法语动词路径。现代直接加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 mentio → 法语 mencion → 英语 mention；再有动词用法",
+        "使想起、说到 → 提及"
+      ],
+      [
+        "mention + -s → mentions",
+        "某人提到；多处提及"
+      ]
+    ],
+    "explanation": "mentions your name 提到你的名字；mentions a problem 提到一个问题；several mentions in the article 文章里的几处提及。",
+    "usage": "brief mentions 简短的提及；mentions it in passing 顺带提到它。",
+    "contrast": "mention 往往只是说到，不保证详细讲解。explain 会把事情说清楚，describe 会描述细节；mentions 可以仅仅点一下名字。",
+    "examples": [
+      [
+        "The letter mentions your name twice.",
+        "信里两次提到了你的名字。"
+      ],
+      [
+        "The book contains several mentions of the old bridge.",
+        "书里有好几处提到那座老桥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mentions#English",
+      "https://en.wiktionary.org/wiki/mention#English"
+    ]
+  }
+]

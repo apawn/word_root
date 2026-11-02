@@ -1,0 +1,141 @@
+[
+  {
+    "id": "B4323",
+    "meaning": "归到更基本层次的解释及相应立场",
+    "core": "REDUCTION：这里不是只减数量，还可把解释带回基础",
+    "image": "reduction → reductionism 方法或立场 → reductionist 人或相关性质。",
+    "intro": "一方面是研究部件如何造成整体，另一方面是是否认为这就穷尽整体。两种说法强弱不同，不能一见还原论就只背成错误简化。",
+    "forms": "redūcere → reductiō → reduction；接 -ism、-ist。",
+    "branches": [
+      [
+        "过程、方法与立场",
+        "reduction · reductionism · reductionist"
+      ]
+    ],
+    "contrasts": "普通减价、降低与哲学还原是不同语境；-ist 可兼作形容词。",
+    "practice": "The essay distinguishes useful reduction from an overly reductionist explanation.\n\n文章区分有用的还原分析和过度单一的解释。",
+    "words": [
+      "reduction",
+      "reductionism",
+      "reductionist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2695",
+    "meaning": "财产抵押担保，以及动作和受领方",
+    "core": "MORTGAGE：先分借款的钱与抵押的担保往哪边走",
+    "image": "mortgage → mortgaging 行为；mortgagee 接受担保的贷款方。",
+    "intro": "最容易错的是角色：借钱的人收到钱，却不是因此就叫 mortgagee。词尾受领的是抵押担保，必须回到基础动作看方向。",
+    "forms": "mort + gage → mortgage；去 e 接 -ing、-ee。t 不发音。\n\nmortgage 接古法语 mort gage 字面死的抵押，关联债务结清或履约失败使旧抵押关系结束等历史解释；不硬译成人要还到死。保留 e 加 -s。",
+    "branches": [
+      [
+        "基本安排、行为和参与方",
+        "mortgage · mortgaging · mortgagee"
+      ],
+      [
+        "mort- 死 + gage 抵押 → mortgages",
+        "mortgages"
+      ]
+    ],
+    "contrasts": "mortgagee 不等于借款人；mortgaging 不表示直接卖断；历史死的抵押不是现代死亡保险。",
+    "practice": "The document identifies the mortgagee in the mortgage arrangement.\n\n文件列明了抵押安排中的抵押权人。",
+    "words": [
+      "mortgage",
+      "mortgaging",
+      "mortgagee",
+      "mortgages"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3090",
+    "meaning": "剑的实体、人物和鱼类形状命名",
+    "core": "SWORD：w 不读，组合后仍不读",
+    "image": "sword → broadsword；swordsman 人，swordfish 借长吻像剑命名。",
+    "intro": "按前后半各自的任务理解：宽说明剑刃特点，人说明使用者，鱼说明长吻外形。不是看见 sword 就指同一类武器。",
+    "forms": "sweord → sword；broad + sword；sword + -s- + man；sword + fish。\n\nsword 承古英语 sweord、swyrd 等日耳曼剑名，常联系切割的较远词根。现代复数 -s，w 不发音，/d/ 后读 /z/。",
+    "branches": [
+      [
+        "剑与具体剑型",
+        "sword · broadsword"
+      ],
+      [
+        "人物和形状命名",
+        "swordsman · swordfish"
+      ],
+      [
+        "sword → swords：刀剑与冲突的形象",
+        "swords"
+      ]
+    ],
+    "contrasts": "sword 的 w 不发音；broadsword 与 longsword 不能只按长短互换。",
+    "practice": "The display places a broadsword beside a picture of a swordfish.\n\n展台把阔刃剑放在一幅剑鱼图片旁。",
+    "words": [
+      "sword",
+      "broadsword",
+      "swordsman",
+      "swordfish",
+      "swords"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2855",
+    "meaning": "倒下、落下后的状态与失落神情",
+    "core": "FALLEN：已经落下、倒下；神情也能低垂",
+    "image": "fall → fell → fallen；crest + fallen → crestfallen。",
+    "intro": "过去分词保存不规则变化。crestfallen 抓高起的冠、颈部低垂这一失意形象，不用编某一匹战马的确定故事。",
+    "forms": "feallan → fall；fall—fell—fallen；crest + fallen。",
+    "branches": [
+      [
+        "分词与比喻组合",
+        "fallen · crestfallen"
+      ]
+    ],
+    "contrasts": "fell 是过去式，fallen 是过去分词；crestfallen 是沮丧，不是地上任何掉落的徽章。",
+    "practice": "He looked crestfallen as he picked up the fallen trophy.\n\n他捡起掉落的奖杯时，神情十分沮丧。",
+    "words": [
+      "fallen",
+      "crestfallen"
+    ],
+    "exclude": {
+      "root-fallen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3280",
+    "meaning": "后悔、遗憾，与感受、评价和副词的区分",
+    "core": "REGRET：希望事情当初不是这样",
+    "image": "regret → regretful / regretfully；regrettable / regrettably 说事情值得遗憾。",
+    "intro": "一个人心里后悔，和某件事令人遗憾，要分开。regretfully 多描写带着遗憾去说、去做，regrettably 常评价整件事。",
+    "forms": "古法语 regreter → regret；加 -ful、-able，再接 -ly。-able 前双写 t，-ful 前不双写。\n\n古法语 regreter 的哀叹材料传入，re- 常作加强解释；后重音短元音后单 t，加 -ed、-ing 时双写。",
+    "branches": [
+      [
+        "基础感受及主体态度",
+        "regret · regretful · regretfully"
+      ],
+      [
+        "事情的性质及整句评价",
+        "regrettable · regrettably"
+      ],
+      [
+        "regret 的遗憾、后悔与双写 t",
+        "regret · regrets · regretted · regretting"
+      ]
+    ],
+    "contrasts": "不是 re- 再次 + greet 问候；regretful 感到遗憾，regrettable 令人遗憾。",
+    "practice": "She regretfully admitted that it had been a regrettable mistake.\n\n她遗憾地承认，那是个令人惋惜的错误。",
+    "words": [
+      "regret",
+      "regretful",
+      "regretfully",
+      "regrettable",
+      "regrettably",
+      "regrets",
+      "regretted",
+      "regretting"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "word": "firmware",
+    "ipa": "英 /ˈfɜːmweə/；美 /ˈfɜːrmwer/",
+    "meaning": "固件；设备基础控制程序",
+    "sense": "路由器、相机等设备里，负责让硬件按设计运转的一层基础程序，常叫 firmware。它属于程序，又比随手安装的普通应用更贴近设备。",
+    "split": "firm 稳固的 + 从 software 等借来的 -ware，二十世纪形成，命名上居于 hardware 硬件和 software 软件之间。这里 firm 不是公司。",
+    "history": [
+      [
+        "hardware、software 的命名对照",
+        "硬件与软件的词形材料"
+      ],
+      [
+        "firm + -ware → firmware",
+        "与设备硬件紧密相关的基础控制程序"
+      ]
+    ],
+    "explanation": "a firmware update 固件更新；router firmware 路由器固件。早期常与只读存储器相联，现代许多固件可以更新，不可把“固”误解成永远不能改。",
+    "usage": "a firmware update；camera firmware。",
+    "contrast": "firmware 是程序，hardware 是实体部件；更换固件通常不是把相机里的电路板换掉，也不是所有应用都叫 firmware。",
+    "examples": [
+      [
+        "The camera received a firmware update.",
+        "相机收到了一个固件更新。"
+      ],
+      [
+        "The new firmware fixed a problem with the display.",
+        "新固件修复了显示方面的一个问题。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/firmware",
+      "https://en.wiktionary.org/wiki/firmware#English"
+    ]
+  },
+  {
+    "word": "ransom",
+    "ipa": "/ˈrænsəm/",
+    "meaning": "赎金；付赎金赎回",
+    "sense": "有人或东西被扣着，对方要求交钱才放回，这笔钱是 ransom；动词就是付出相应代价赎回。",
+    "split": "经中古英语 raunsoun 接古法语 raençon，来自拉丁 redemptio 赎回的材料，与 redemption 同源。不是 random 随机少一个字母的近义词。",
+    "history": [
+      [
+        "拉丁 redemptio → 古法语 raençon",
+        "赎回、赎金的词族"
+      ],
+      [
+        "中古英语 raunsoun → ransom",
+        "赎金；赎回"
+      ]
+    ],
+    "explanation": "demand a ransom 索要赎金；hold someone for ransom 绑架索赎；pay a ransom 支付赎金。也可比喻某方拿关键资源要挟别人。",
+    "usage": "a ransom demand；hold for ransom。",
+    "contrast": "ransom 围绕扣押、勒索的赎回要求，fee 是费用；ransom 不是普通服务的收费。",
+    "examples": [
+      [
+        "The kidnappers demanded a ransom.",
+        "绑架者索要赎金。"
+      ],
+      [
+        "The novel follows a family trying to ransom a captive.",
+        "小说讲述一家人试图赎回被扣押者的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ransom#English"
+    ]
+  },
+  {
+    "word": "ransomware",
+    "ipa": "英 /ˈrænsəmweə/；美 /ˈrænsəmwer/",
+    "meaning": "勒索软件",
+    "sense": "恶意程序把文件或系统控制住，让受害者无法正常使用，再要求交钱；这像把数据扣做人质，所以叫 ransomware。",
+    "split": "ransom 赎金 + 从 software 延伸的 -ware。这里不是一款帮你管理赎金的正常财务软件，而是以勒索为目的的恶意软件类别。",
+    "history": [
+      [
+        "ransom",
+        "扣押后要求支付的赎金"
+      ],
+      [
+        "ransom + -ware → ransomware",
+        "用控制、加密等手段索要赎金的软件"
+      ]
+    ],
+    "explanation": "a ransomware attack 勒索软件攻击；ransomware can encrypt files 勒索软件可加密文件。也可能涉及窃取信息、威胁公开等，不能把所有案例锁定为一种技术过程。",
+    "usage": "a ransomware attack；ransomware protection。",
+    "contrast": "malware 恶意软件是大类，ransomware 是其中以勒索为核心的一类；spyware 侧重窃探，不等于一定索取赎金。",
+    "examples": [
+      [
+        "The company reported a ransomware attack.",
+        "公司报告遭遇了勒索软件攻击。"
+      ],
+      [
+        "The training explains how ransomware can disrupt everyday work.",
+        "培训说明勒索软件怎样扰乱日常工作。"
+      ]
+    ],
+    "sources": [
+      "https://www.microsoft.com/en-us/security/business/security-101/what-is-ransomware",
+      "https://en.wiktionary.org/wiki/ransomware#English"
+    ]
+  },
+  {
+    "word": "adware",
+    "ipa": "英 /ˈædweə/；美 /ˈædwer/",
+    "meaning": "广告软件；显示广告的程序",
+    "sense": "程序运行时给你显示广告，这个广告相关的软件类别可叫 adware；是否令人讨厌、是否越界，还要看实际行为。",
+    "split": "ad 在这里缩自 advertisement 广告 + -ware 软件类词尾。ad 还有别的缩略、拉丁材料，解释这个词时不能拿“朝向”的前缀义来硬套。",
+    "history": [
+      [
+        "advertisement → ad",
+        "广告的缩略形式"
+      ],
+      [
+        "ad + -ware → adware",
+        "与显示广告有关的软件"
+      ]
+    ],
+    "explanation": "adware displays advertisements 广告软件显示广告；unwanted adware 不需要的广告软件。有的与免费软件的广告支持模式有关，有的会带来侵扰，须看软件做了什么。",
+    "usage": "unwanted adware；remove adware。",
+    "contrast": "adware 以广告为特征，不自动等于所有 spyware 窃探软件；若同时追踪、窃取信息，就还涉及其他行为分类。",
+    "examples": [
+      [
+        "The scan detected unwanted adware.",
+        "扫描检测到了不需要的广告软件。"
+      ],
+      [
+        "The article explains the difference between adware and spyware.",
+        "文章解释了广告软件与间谍软件的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adware#English"
+    ]
+  },
+  {
+    "word": "earthenware",
+    "ipa": "英 /ˈɜːθənweə/；美 /ˈɜːrθənwer/",
+    "meaning": "陶器；陶制品",
+    "sense": "泥土做坯、烧成能盛东西的碗罐，是最容易认出的 earthenware 画面。不是把地球当商品卖。",
+    "split": "earth 土 → earthen 土制的 + ware 制品；中间 -en 表材料这一层不要漏。英语早已有这种按材料给器物分类的构词。",
+    "history": [
+      [
+        "earth + -en → earthen",
+        "土 → 土制的"
+      ],
+      [
+        "earthen + ware → earthenware",
+        "陶制器物"
+      ]
+    ],
+    "explanation": "an earthenware bowl 陶碗；earthenware pots 陶罐。作为材料、制品类别通常不可数，单件说 a piece of earthenware 或用 bowl、pot。",
+    "usage": "an earthenware pot；glazed earthenware。",
+    "contrast": "earthenware 陶器与 porcelain 瓷器、stoneware 炻器在专业陶瓷分类里有区别；日常都像碗罐，不能因此视为完全同一材料。",
+    "examples": [
+      [
+        "She served the soup in an earthenware bowl.",
+        "她用一个陶碗盛汤。"
+      ],
+      [
+        "The market sells handmade earthenware.",
+        "市场卖手工陶器。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/earthenware"
+    ]
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "word": "switch",
+    "ipa": "/swɪtʃ/",
+    "meaning": "开关；切换、转变、调换；细枝、鞭条〔旧义等〕",
+    "sense": "原来走这条路，现在拨一下走另一条；从轨道、电路到频道、计划，都能用“转到另一个状态”来抓住现代核心。",
+    "split": "早期细枝、鞭条义可能接低地德语或荷兰语相关词，机械切换义也可能另从欧洲相关用法借入。不能把旧鞭子当成所有现代义都已证实的唯一中间环节。",
+    "history": [
+      [
+        "低地德语、荷兰语细枝或细杆相关形式 → switch",
+        "早期英语的细枝、鞭条等名称，直接来源未完全确定"
+      ],
+      [
+        "铁路道岔、电路切换等机械用法",
+        "改变路径或状态；并非已证实全由鞭打动作单线演变"
+      ],
+      [
+        "英语常用名词、动词与派生",
+        "开关、切换；switchable、switcher；switchblade、switchgear、switcheroo"
+      ]
+    ],
+    "explanation": "a light switch 电灯开关，switch to another plan 换方案，switch seats 换座位，switch off 关掉。switch 也能说交换，不每次都是关机。",
+    "usage": "a light switch；switch to；switch on/off；switch places。",
+    "contrast": "switch 强调改道、改状态或互换，change 范围更广；switch 与 witch 女巫形近而不按 s- 加 witch 造义。",
+    "examples": [
+      [
+        "She switched off the light before leaving.",
+        "她离开前关了灯。"
+      ],
+      [
+        "We switched to a simpler plan.",
+        "我们换成了一个更简单的方案。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/switch",
+      "https://en.wiktionary.org/wiki/switch#English"
+    ]
+  },
+  {
+    "word": "switchable",
+    "ipa": "/ˈswɪtʃəbəl/",
+    "meaning": "可切换的、可转换的",
+    "sense": "预留了从 A 换到 B 的能力；不是说它此刻正在变，而是有这个切换选项。",
+    "split": "switch 切换 + -able 可……的，组成能力、可操作性形容词。",
+    "history": [
+      [
+        "铁路道岔、电路切换等机械用法",
+        "改变路径或状态；并非已证实全由鞭打动作单线演变"
+      ],
+      [
+        "英语常用名词、动词与派生",
+        "开关、切换；switchable、switcher；switchblade、switchgear、switcheroo"
+      ],
+      [
+        "switch + -able → switchable",
+        "允许或能够切换"
+      ]
+    ],
+    "explanation": "switchable modes 可切换模式，switchable graphics 可切换显卡模式，a switchable power supply 可切换的电源。能切哪些档位仍看设备说明。",
+    "usage": "switchable modes；switchable graphics；a switchable setting。",
+    "contrast": "switchable 能换，switched 已被切换；adjustable 可调范围更广，不一定只有几个明确状态。",
+    "examples": [
+      [
+        "The lamp has two switchable colour modes.",
+        "灯有两种可切换的色彩模式。"
+      ],
+      [
+        "The display has a switchable privacy setting.",
+        "显示屏有可切换的隐私设置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switchable#English"
+    ]
+  },
+  {
+    "word": "switcher",
+    "ipa": "英 /ˈswɪtʃə/；美 /ˈswɪtʃər/",
+    "meaning": "切换者、改换者；切换设备；调车机车〔美〕",
+    "sense": "做 switch 这件事的人或机器；换职业的人、切视频源的设备，都得看它究竟在换什么。",
+    "split": "switch + -er，人物与工具后缀。铁路中可指调车机车，广播制作中可指切换画面的设备，不能统一译成开灯的人。",
+    "history": [
+      [
+        "铁路道岔、电路切换等机械用法",
+        "改变路径或状态；并非已证实全由鞭打动作单线演变"
+      ],
+      [
+        "英语常用名词、动词与派生",
+        "开关、切换；switchable、switcher；switchblade、switchgear、switcheroo"
+      ],
+      [
+        "switch + -er → switcher",
+        "执行转换的人或设备"
+      ]
+    ],
+    "explanation": "a career switcher 转行者，a video switcher 视频切换台，a railway switcher 调车机车。",
+    "usage": "a career switcher；a video switcher；a railway switcher。",
+    "contrast": "switcher 通常是切换的主体或工具，switch 还可指单个开关、一次转变；职业称呼要看修饰词。",
+    "examples": [
+      [
+        "The course is designed for career switchers.",
+        "这门课是为转行者设计的。"
+      ],
+      [
+        "The director used a video switcher to choose the next camera view.",
+        "导演用视频切换台选择下一个机位画面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switcher#English"
+    ]
+  },
+  {
+    "word": "switcheroo",
+    "ipa": "/ˌswɪtʃəˈruː/",
+    "meaning": "出其不意的调换、巧妙掉包〔口语〕",
+    "sense": "你以为眼前还是原来的东西，结果悄悄换过了；这个加长的词尾让普通 switch 多了点俏皮、戏剧感。",
+    "split": "switch + 表口语色彩的扩展 -eroo，不是 roo 在这里代表袋鼠。常用于美式等口语里的意外调换。",
+    "history": [
+      [
+        "铁路道岔、电路切换等机械用法",
+        "改变路径或状态；并非已证实全由鞭打动作单线演变"
+      ],
+      [
+        "英语常用名词、动词与派生",
+        "开关、切换；switchable、switcher；switchblade、switchgear、switcheroo"
+      ],
+      [
+        "switch + -eroo → switcheroo",
+        "有意外感、诙谐感的调换"
+      ]
+    ],
+    "explanation": "pull a switcheroo 来一次掉包，a last-minute switcheroo 最后关头的突然调换。未必都是犯罪，也可能只是游戏恶作剧。",
+    "usage": "pull a switcheroo；a clever switcheroo；a last-minute switcheroo。",
+    "contrast": "switcheroo 比 neutral switch 更口语、更有突然换掉的感觉；正式技术说明通常直接说 change、switch、replacement。",
+    "examples": [
+      [
+        "The twins pulled a switcheroo during the game.",
+        "双胞胎在游戏中突然互换了位置。"
+      ],
+      [
+        "A last-minute switcheroo put a different host on stage.",
+        "最后关头突然换人，另一位主持人上了台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switcheroo#English"
+    ]
+  },
+  {
+    "word": "switchblade",
+    "ipa": "/ˈswɪtʃbleɪd/",
+    "meaning": "弹簧折刀、自动弹出式折刀",
+    "sense": "刀刃平时折在柄里，由按钮等开关机构释放弹出；名称说的是开关控制的刀，不是两片刀互换位置。",
+    "split": "switch 开关 + blade 刀刃，由 switchblade knife 等称呼缩成名词。词义只描述器物类别。",
+    "history": [
+      [
+        "铁路道岔、电路切换等机械用法",
+        "改变路径或状态；并非已证实全由鞭打动作单线演变"
+      ],
+      [
+        "switch + blade → switchblade",
+        "靠开关机构弹出的折刀"
+      ]
+    ],
+    "explanation": "a switchblade knife 弹簧折刀，the handle of a switchblade 弹簧折刀的刀柄。",
+    "usage": "a switchblade knife；the handle of a switchblade；an old switchblade。",
+    "contrast": "switchblade 属于特定开启机构的刀；pocketknife 口袋折刀范围较广，并非所有折刀都自动弹出。",
+    "examples": [
+      [
+        "The museum displayed an old switchblade in a glass case.",
+        "博物馆把一把旧弹簧折刀放在玻璃柜里展出。"
+      ],
+      [
+        "The prop department replaced the switchblade with a harmless model.",
+        "道具组把弹簧折刀换成了无伤害性的模型。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/switchblade#English"
+    ]
+  },
+  {
+    "word": "switchgear",
+    "ipa": "英 /ˈswɪtʃɡɪə/；美 /ˈswɪtʃɡɪr/",
+    "meaning": "开关设备、配电开关装置",
+    "sense": "不是墙上单独一个小开关，而是一组负责电路接通、分断、控制和保护的装置。gear 在这里是设备，不是必须长着齿轮。",
+    "split": "switch 开关、切换 + gear 设备，电力设备名词；由功能命名，不能直译成开关齿轮。",
+    "history": [
+      [
+        "铁路道岔、电路切换等机械用法",
+        "改变路径或状态；并非已证实全由鞭打动作单线演变"
+      ],
+      [
+        "switch + gear → switchgear",
+        "进行电路开关、控制保护的设备"
+      ]
+    ],
+    "explanation": "electrical switchgear 电气开关设备，switchgear maintenance 开关设备维护，a switchgear room 开关设备室。",
+    "usage": "electrical switchgear；switchgear maintenance；a switchgear room。",
+    "contrast": "switchgear 常作设备总称，switch 可以是单个元件；gearbox 才明确说变速齿轮箱一类结构。",
+    "examples": [
+      [
+        "The engineers inspected the electrical switchgear.",
+        "工程师检查了电气开关设备。"
+      ],
+      [
+        "The new building has a separate switchgear room.",
+        "新楼有独立的开关设备室。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/switchgear",
+      "https://en.wiktionary.org/wiki/switchgear#English"
+    ]
+  },
+  {
+    "word": "uncompetitive",
+    "ipa": "/ˌʌnkəmˈpetətɪv/",
+    "meaning": "缺乏竞争力的；不爱竞争的",
+    "sense": "一起比价格、品质、能力时，自己这一方没优势；说人时也可能只是没那么爱争输赢。",
+    "split": "un- 不 + competitive，否定相应竞争性质。既可缺少取胜优势，也可少竞争心理，不能只背一个没竞争。",
+    "history": [
+      [
+        "compete 的竞争词族 → competitive",
+        "相互争取、较量；有竞争力或好胜的"
+      ],
+      [
+        "英语 un- / anti- + competitive",
+        "不具竞争力；妨碍竞争，两种方向不同"
+      ]
+    ],
+    "explanation": "uncompetitive prices 没有竞争力的价格，an uncompetitive industry 缺乏竞争力的行业，an uncompetitive person 不爱竞争的人。",
+    "usage": "uncompetitive prices；uncompetitive products；an uncompetitive industry。",
+    "contrast": "uncompetitive 自己竞争不过或不热衷竞争；anticompetitive 是限制、妨碍竞争，可能恰恰出自很强势的企业。",
+    "examples": [
+      [
+        "High costs made their products uncompetitive.",
+        "高成本让他们的产品缺乏竞争力。"
+      ],
+      [
+        "She enjoys sport but is fairly uncompetitive.",
+        "她喜欢运动，却不太爱争输赢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncompetitive#English"
+    ]
+  },
+  {
+    "word": "anticompetitive",
+    "ipa": "/ˌæntikəmˈpetətɪv/",
+    "meaning": "妨碍竞争的、限制竞争的",
+    "sense": "赛场上不让别人公平进来或较量，例如把路堵住；说的是竞争环境被压制，不是自己跑得慢。",
+    "split": "anti- 反对、阻碍 + competitive，常接商业行为、协议、做法的性质。",
+    "history": [
+      [
+        "compete 的竞争词族 → competitive",
+        "相互争取、较量；有竞争力或好胜的"
+      ],
+      [
+        "anti- + competitive → anticompetitive",
+        "限制、损害竞争的"
+      ]
+    ],
+    "explanation": "anticompetitive practices 限制竞争的做法，anticompetitive behaviour 反竞争行为，an anticompetitive agreement 妨碍竞争的协议。",
+    "usage": "anticompetitive practices；anticompetitive behaviour；anticompetitive conduct。",
+    "contrast": "anti- 对抗竞争，与 un- 缺少竞争力不同；competitive 也有好胜义，这里主要取市场竞争一支。",
+    "examples": [
+      [
+        "The article examines anticompetitive practices in the industry.",
+        "文章研究了该行业限制竞争的做法。"
+      ],
+      [
+        "They argued that the agreement was anticompetitive.",
+        "他们认为这项协议妨碍竞争。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/anticompetitive#English"
+    ]
+  },
+  {
+    "word": "reassess",
+    "ipa": "/ˌriːəˈses/",
+    "meaning": "重新评估、重新判断",
+    "sense": "先前打过一个分，现在有新情况，拿回来再看一次；重评不保证一定改成更高或更低。",
+    "split": "re- 再 + assess 评估，保留 assess 词族；assess 的较早来源接拉丁 assidēre、assessus 的坐在旁边协助判断等路径，不把 re + assess 编成重新坐下这个现代词义。",
+    "history": [
+      [
+        "拉丁 assessus 等 → assess",
+        "从评定相关旧路径到评估"
+      ],
+      [
+        "re- + assess → reassess",
+        "再次评估"
+      ]
+    ],
+    "explanation": "reassess a situation 重新判断形势，reassess priorities 重估优先事项，reassess a decision 重新审视决定。",
+    "usage": "reassess the situation；reassess priorities；reassess the evidence。",
+    "contrast": "reassess 再判断，reverse 推翻；重新看后也可以维持原判断。",
+    "examples": [
+      [
+        "We need to reassess our priorities.",
+        "我们需要重新评估事情的轻重缓急。"
+      ],
+      [
+        "The new evidence made her reassess the situation.",
+        "新证据让她重新判断了形势。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reassess#English"
+    ]
+  },
+  {
+    "word": "drunkard",
+    "ipa": "英 /ˈdrʌŋkəd/；美 /ˈdrʌŋkərd/",
+    "meaning": "酒鬼、酗酒者〔贬称〕",
+    "sense": "不是偶尔醉一次的人，而是把爱喝醉、常喝醉当成这个人的标签，带明显贬义。",
+    "split": "可对应 drunk 醉 + -ard 带贬义的人物后缀，早期形式也可能受低地德语相关人物词影响。-ard 不等于 hard，也不是醉得很硬。",
+    "history": [
+      [
+        "drink 的旧强变化词族 → drunk",
+        "喝醉的状态"
+      ],
+      [
+        "早期 droncarde 等 → drunkard",
+        "可按 drunk + -ard 理解的贬义人物名称"
+      ]
+    ],
+    "explanation": "a notorious drunkard 出名的酒鬼，portrayed as a drunkard 被描写成酒鬼。作为人物标签比 drunk 醉了语气更重。",
+    "usage": "a notorious drunkard；an old drunkard；portrayed as a drunkard。",
+    "contrast": "drunk 主要说醉的状态，也可作醉汉名词；drunkard 更常说惯常酗酒、带贬义的人，不由词尾推出医学诊断。",
+    "examples": [
+      [
+        "The novel portrays him as a lonely drunkard.",
+        "小说把他描写成一个孤独的酒鬼。"
+      ],
+      [
+        "The character is dismissed as a drunkard by his neighbours.",
+        "邻居们把这个人物轻蔑地当作酒鬼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drunkard#English"
+    ]
+  }
+]

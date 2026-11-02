@@ -1,0 +1,393 @@
+[
+  {
+    "word": "defensiveness",
+    "ipa": "/dɪˈfensɪvnəs/",
+    "meaning": "防御性、戒备；受质疑时急于自我辩护的反应",
+    "sense": "别人一提问题，先感觉自己被攻击，赶紧解释、反击或关上话头；日常心理、人际语境常说这种护住自己的反应。",
+    "split": "defensive + -ness，性质名词；defensive 远接 defend 防卫词族。不是 defense 再加一个表示人的 -iveness。",
+    "history": [
+      [
+        "defend → defensive",
+        "防卫 → 防御的、戒备自卫的"
+      ],
+      [
+        "defensive + -ness → defensiveness",
+        "这种防御态度、反应"
+      ]
+    ],
+    "explanation": "respond with defensiveness 带防御心回应，reduce defensiveness 减少戒备，a tone of defensiveness 自我辩护的语气。",
+    "usage": "respond with defensiveness；reduce defensiveness；a tone of defensiveness。",
+    "contrast": "defensiveness 常聚焦态度和反应，defence 是防守、辩护本身；合理说明理由不一定就是过度防御，要看具体互动。",
+    "examples": [
+      [
+        "His defensiveness made the discussion more difficult.",
+        "他的戒备、自我辩护让讨论更难进行。"
+      ],
+      [
+        "She answered the criticism without anger or defensiveness.",
+        "她回应批评时，既不生气，也不急着自我辩护。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/defensiveness#English"
+    ]
+  },
+  {
+    "word": "immunity",
+    "ipa": "/ɪˈmjuːnəti/",
+    "meaning": "免疫力、免疫保护；豁免权；免受某事影响的状态",
+    "sense": "身体对某种威胁有保护，和法律上某种义务、程序被豁免，都保留免于某事的共同感觉；不是任意情况下无敌。",
+    "split": "经法语 immunité 接拉丁 immūnitās，法律豁免背景较早；现代对应 immune 去 e + -ity。医学保护义是后来的专门发展。",
+    "history": [
+      [
+        "拉丁 immūnis / immūnitās → 法语、英语相应词",
+        "免除义务、负担 → 豁免及其状态"
+      ],
+      [
+        "医学与一般引申",
+        "对疾病的免疫保护；不受某种影响"
+      ]
+    ],
+    "explanation": "immunity to a disease 对某病的免疫保护，diplomatic immunity 外交豁免，immunity from prosecution 免受起诉的相关豁免，acquired immunity 获得性免疫。",
+    "usage": "immunity to；immunity from；diplomatic immunity；acquired immunity。",
+    "contrast": "免疫保护常针对具体对象，程度也不同；法律 immunity 也有具体适用范围，不能仅凭词义认定一个人完全不受任何法律约束。",
+    "examples": [
+      [
+        "The chapter compares different forms of immunity.",
+        "这一章比较不同形式的免疫。"
+      ],
+      [
+        "The article explains the scope of diplomatic immunity.",
+        "文章解释外交豁免的范围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/immunity#English",
+      "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+      "https://www.law.cornell.edu/wex/immunity"
+    ]
+  },
+  {
+    "word": "immunology",
+    "ipa": "英 /ˌɪmjʊˈnɒlədʒi/；美 /ˌɪmjəˈnɑːlədʒi/",
+    "meaning": "免疫学",
+    "sense": "研究身体怎样识别、应对不同对象，以及这种系统怎样工作；不是只研究疫苗，也不只是问抵抗力强不强。",
+    "split": "immune 的词干 immun- + -ology 研究、学科。去掉 immune 末尾 e 后连接；学科词重音落在后半 /nɒl/、/nɑːl/。",
+    "history": [
+      [
+        "拉丁 immūnis / immūnitās → 法语、英语相应词",
+        "免除义务、负担 → 豁免及其状态"
+      ],
+      [
+        "医学与一般引申",
+        "对疾病的免疫保护；不受某种影响"
+      ],
+      [
+        "immun- + -ology → immunology",
+        "研究免疫系统及相关过程的学科"
+      ]
+    ],
+    "explanation": "a course in immunology 免疫学课程，an immunology laboratory 免疫学实验室，basic immunology 基础免疫学。",
+    "usage": "a course in immunology；an immunology laboratory；basic immunology。",
+    "contrast": "immunology 是学科，immunity 是免疫状态，immunization 是获得相应保护的过程。三个名词不能只按中文免疫互换。",
+    "examples": [
+      [
+        "She took an introductory course in immunology.",
+        "她上了一门免疫学入门课。"
+      ],
+      [
+        "The laboratory studies a basic question in immunology.",
+        "实验室研究免疫学中的一个基础问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/immunology#English"
+    ]
+  },
+  {
+    "word": "immunisation",
+    "ipa": "/ˌɪmjʊnaɪˈzeɪʃən/",
+    "meaning": "免疫、预防接种〔immunization 的常见英式拼写〕",
+    "sense": "看到 s 不必再学一种接种方式，它和 immunization 在常见医学语境里是同一个过程名词。",
+    "split": "接法语 immunisation 等形式，现代对应 immunise + -ation；-ise/-ize 相关拼写使名词出现 -isation/-ization 两种形式。",
+    "history": [
+      [
+        "拉丁 immūnis / immūnitās → 法语、英语相应词",
+        "免除义务、负担 → 豁免及其状态"
+      ],
+      [
+        "医学与一般引申",
+        "对疾病的免疫保护；不受某种影响"
+      ],
+      [
+        "现代派生",
+        "immunize/immunization；immunology；-s- 拼写变体 immunisation"
+      ],
+      [
+        "immunise + -ation → immunisation",
+        "与 immunization 对应的常见英式名词拼写"
+      ]
+    ],
+    "explanation": "an immunisation programme 免疫接种项目，immunisation records 接种记录，routine immunisation 常规免疫接种。",
+    "usage": "an immunisation programme；immunisation records；routine immunisation。",
+    "contrast": "immunisation/immunization 不是两种不同疫苗；vaccination 与它们的区别仍是接种动作和形成免疫保护的概念侧重。",
+    "examples": [
+      [
+        "The leaflet explains the school immunisation programme.",
+        "传单介绍学校免疫接种项目。"
+      ],
+      [
+        "Please bring the child’s immunisation records to the appointment.",
+        "预约时请带上孩子的接种记录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/immunisation#English",
+      "https://www.england.nhs.uk/long-read/nhs-vaccination-strategy/"
+    ]
+  },
+  {
+    "word": "log",
+    "ipa": "英 /lɒɡ/；美 /lɑːɡ/",
+    "meaning": "原木；日志、记录；伐木；记录；对数〔另路缩称〕",
+    "sense": "木柴堆里是原木；系统报错时看的 log 是事件记录。记录义能接回航海：测速用木块的 log，再到记录航行数据的 logbook。",
+    "split": "原木接中古英语 logge 等，远源不定，可能有北欧相关词。日志从 logbook 截短，和旧航海测速装置相连；数学 log 却是 logarithm 的截短，另一路。",
+    "history": [
+      [
+        "中古英语 logge/logg → log",
+        "原木；更早可能有北欧来源，细节不定"
+      ],
+      [
+        "航海测速用木质浮块 → logbook → log",
+        "测速装置 → 航海日志 → 各类记录"
+      ],
+      [
+        "另线 logarithm → log",
+        "数学对数的缩称，不从木头变来"
+      ]
+    ],
+    "explanation": "a log fire 木柴火，a system log 系统日志，log the results 记录结果，log in 登录，log out 退出登录，log 10 数学对数表达。",
+    "usage": "a log fire；a system log；log the results；log in；log out。",
+    "contrast": "log in 动词短语，login 常作名词或定语；logs 可是木头也可是多条记录。记录在 log 里不保证记录内容完整或正确。",
+    "examples": [
+      [
+        "They stacked the logs beside the stove.",
+        "他们把原木柴块堆在炉子旁。"
+      ],
+      [
+        "The system logs every failed connection attempt.",
+        "系统记录每次失败的连接尝试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/log#English",
+      "https://www.etymonline.com/word/log"
+    ]
+  },
+  {
+    "word": "logger",
+    "ipa": "英 /ˈlɒɡə/；美 /ˈlɑːɡər/",
+    "meaning": "伐木工；记录器、日志记录程序",
+    "sense": "在林场做 logging 的是伐木工；程序里做 logging 的，则是帮你把事件写下来的记录器。",
+    "split": "log + -er，双写 g。两种常见角色分别接原木、伐木义和日志、记录义；-er 可以是人，也可以是程序、装置。",
+    "history": [
+      [
+        "中古英语 logge/logg → log",
+        "原木；更早可能有北欧来源，细节不定"
+      ],
+      [
+        "航海测速用木质浮块 → logbook → log",
+        "测速装置 → 航海日志 → 各类记录"
+      ],
+      [
+        "log + -er → logger",
+        "伐木者；日志记录角色"
+      ]
+    ],
+    "explanation": "a timber logger 伐木工，a data logger 数据记录器，a temperature logger 温度记录器，a software logger 软件日志记录器。",
+    "usage": "a timber logger；a data logger；a temperature logger。",
+    "contrast": "logger 不等于 log 记录本身；data logger 可是器材，也可是软件功能。看到 -er 不要直接补成人。",
+    "examples": [
+      [
+        "The logger recorded the room temperature every hour.",
+        "记录器每小时记录一次室温。"
+      ],
+      [
+        "The documentary follows a team of loggers.",
+        "纪录片跟拍了一队伐木工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/logger#English"
+    ]
+  },
+  {
+    "word": "weblog",
+    "ipa": "英 /ˈweblɒɡ/；美 /ˈweblɑːɡ/",
+    "meaning": "网络日志、博客〔较完整的早期名称〕",
+    "sense": "把持续更新的记录放到网上，web + log 形成网络日志；后来短到 blog 更普遍。",
+    "split": "Web 网络 + log 日志，取记录义，不是网上的一根木头。blog 是从 weblog 进一步截短、重新切分的形式。",
+    "history": [
+      [
+        "航海测速用木质浮块 → logbook → log",
+        "测速装置 → 航海日志 → 各类记录"
+      ],
+      [
+        "Web + log → weblog → blog",
+        "网上持续发布的日志式页面或网站"
+      ]
+    ],
+    "explanation": "keep a weblog 写网络日志，a personal weblog 个人博客，a travel weblog 旅行博客；现代通常直接说 blog。",
+    "usage": "keep a weblog；a personal weblog；a travel weblog。",
+    "contrast": "weblog 不是所有 website 网站的同义词，强调持续更新的日志式发布；今天博客也未必只写私人日记。",
+    "examples": [
+      [
+        "She kept a weblog during her journey.",
+        "旅行期间，她持续写网络日志。"
+      ],
+      [
+        "The old website linked to several personal weblogs.",
+        "旧网站链接了几个个人博客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weblog#English"
+    ]
+  },
+  {
+    "word": "logjam",
+    "ipa": "英 /ˈlɒɡdʒæm/；美 /ˈlɑːɡdʒæm/",
+    "meaning": "原木拥塞；僵局、积压堵塞",
+    "sense": "一根根木头在河里挤成一堵，后面的都过不去；事情积压、各方卡住，也能叫 logjam。",
+    "split": "log 原木 + jam 挤塞。实物漂木拥塞是最直观入口，后来比喻工作、谈判、流程无法推进。",
+    "history": [
+      [
+        "中古英语 logge/logg → log",
+        "原木；更早可能有北欧来源，细节不定"
+      ],
+      [
+        "log + jam → logjam",
+        "漂运木材堵住 → 进程被积压、僵住"
+      ]
+    ],
+    "explanation": "break the logjam 打破僵局，a legislative logjam 立法僵局，a logjam of applications 申请积压。",
+    "usage": "break the logjam；a legislative logjam；a logjam of applications。",
+    "contrast": "logjam 的 jam 不是果酱；比喻里也不要求真的有木头。backlog 强调待处理积压，logjam 更突出积压使进展堵住。",
+    "examples": [
+      [
+        "The agreement finally broke the logjam.",
+        "协议终于打破了僵局。"
+      ],
+      [
+        "The office faced a logjam of unprocessed applications.",
+        "办公室面对堵住流程的大量未处理申请。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/logjam#English"
+    ]
+  },
+  {
+    "word": "knife",
+    "ipa": "/naɪf/",
+    "meaning": "刀；用刀切或刺；像刀一样穿过〔比喻〕",
+    "sense": "有刀刃、用来切的工具；动词把工具名变成动作，既可真用刀，也可借说寒风像刀一样穿透。",
+    "split": "接较早英语 cnīf/knif，联系古诺尔斯语 knífr 等形式，具体早期借入分析有不同看法。开头 k 现代不发音；名词复数 knives /naɪvz/，动词形式另看。",
+    "history": [
+      [
+        "古英语 cnīf、中古英语 knif，联系北欧相关刀名",
+        "切割用刀具，早期借入、继承分析有不同看法"
+      ],
+      [
+        "现代 knife 名词转动词",
+        "刀 → 用刀切、刺；比喻锋利穿过、背叛"
+      ]
+    ],
+    "explanation": "a kitchen knife 厨刀，a bread knife 面包刀，a knife blade 刀刃，the wind knifed through 寒风像刀一样穿过，knife someone in the back 也可比喻背叛。",
+    "usage": "a kitchen knife；a bread knife；a knife blade；knife through。",
+    "contrast": "名词多把刀是 knives，动词第三人称却可写 knifes；过去式 knifed /naɪft/，没有 k 音，也不加 /ɪd/。",
+    "examples": [
+      [
+        "The bread knife is in the drawer.",
+        "面包刀在抽屉里。"
+      ],
+      [
+        "A cold wind knifed through the thin coat.",
+        "冷风像刀一样穿透薄外套。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knife#English"
+    ]
+  },
+  {
+    "word": "knifed",
+    "ipa": "/naɪft/",
+    "meaning": "被刀切、刺过的；knife 的过去式、分词",
+    "sense": "可以说受过刀伤，也可以在文学描写里说寒风、光束锋利地穿过；先看主语和对象。",
+    "split": "knife + -ed，末尾 e 后加 d。/f/ 后词尾读 /t/，不同于名词复数 knives 的 /v/。",
+    "history": [
+      [
+        "古英语 cnīf、中古英语 knif，联系北欧相关刀名",
+        "切割用刀具，早期借入、继承分析有不同看法"
+      ],
+      [
+        "现代 knife 名词转动词",
+        "刀 → 用刀切、刺；比喻锋利穿过、背叛"
+      ],
+      [
+        "knife → knifed",
+        "用刀作用完成；或锋利穿过的比喻过去动作"
+      ]
+    ],
+    "explanation": "had been knifed 曾被刀刺伤，knifed through the darkness 像刀一样划破黑暗；较少见组合还可说配某种刀片。",
+    "usage": "had been knifed；knifed through；knifed apart。",
+    "contrast": "knifed 不发 /k/；knifed through 可以纯粹是比喻，不能看到这个词就认为每句都有真实袭击。",
+    "examples": [
+      [
+        "The report said that the man had been knifed.",
+        "报道说，那名男子被刀刺伤。"
+      ],
+      [
+        "A beam of light knifed through the darkness.",
+        "一道光束利落地划破黑暗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knifed#English"
+    ]
+  },
+  {
+    "word": "unremarkable",
+    "ipa": "英 /ˌʌnrɪˈmɑːkəbl/；美 /ˌʌnrɪˈmɑːrkəbl/",
+    "meaning": "平常的、不显眼的、没有特别之处的",
+    "sense": "没有什么值得停下来专门说一笔；可能平淡，也可能只是正常，不一定是批评。",
+    "split": "un- 不 + remarkable 值得注意、令人称奇的。remark 与注意、评论相关，-able 在这里保留值得注意的性质。",
+    "history": [
+      [
+        "remarkable",
+        "值得注意、特别显著的"
+      ],
+      [
+        "un- + remarkable → unremarkable",
+        "没有显著特别之处的"
+      ]
+    ],
+    "explanation": "an unremarkable building 普通建筑，an unremarkable day 平常一天，a largely unremarkable career 大体平淡的经历。",
+    "usage": "an unremarkable building；an unremarkable day；largely unremarkable。",
+    "contrast": "unremarkable 不等于无法评论，也不必等于 bad 很差；一段平静普通的日子完全可能令人满意。",
+    "examples": [
+      [
+        "The office was in an unremarkable building near the station.",
+        "办公室在车站附近一栋不起眼的楼里。"
+      ],
+      [
+        "It was a quiet, unremarkable day.",
+        "那是安静、平常的一天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unremarkable#English"
+    ]
+  }
+]

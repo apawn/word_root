@@ -1,0 +1,288 @@
+[
+  {
+    "word": "grass",
+    "ipa": "英 /ɡrɑːs/；美 /ɡræs/",
+    "meaning": "草、草地；种草",
+    "sense": "地上一层细长叶子，连起来成草地；日常先按这一画面懂，植物学 grass 又能严格指禾本科。",
+    "split": "接古英语 græs，现代拼写 grass；更远常与生长类材料联系，但并非现代 grow + 某个尾巴直接拼成。自然名称里一些带 grass 的植物并不是禾本科。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "英语 grass",
+        "草、草地；植物外形与基层比喻等扩展"
+      ]
+    ],
+    "explanation": "cut the grass 剪草，keep off the grass 勿踏草地，grass seed 草籽；grass 作整体覆盖物通常不可数，grasses 可说不同草类。",
+    "usage": "cut the grass；keep off the grass；grass seed；different grasses。",
+    "contrast": "grass 草或草地覆盖物，lawn 常是修整过的草坪；weed 是相对于种植目的不想要的植物，不是某个固定草类。",
+    "examples": [
+      [
+        "The children sat on the grass.",
+        "孩子们坐在草地上。"
+      ],
+      [
+        "The guide pointed out several native grasses.",
+        "向导指出了几种本地草类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grass#English"
+    ]
+  },
+  {
+    "word": "grassy",
+    "ipa": "英 /ˈɡrɑːsi/；美 /ˈɡræsi/",
+    "meaning": "长满草的；像草的、有青草味的",
+    "sense": "斜坡上铺着草，脚踩下去是草面的感觉；饮料、食物也能借青草气味说 grassy。",
+    "split": "grass + -y 的形容词对应，历史有更早的同族形式。保留词基 ss，不是 gray 灰色的变化。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "英语 grass",
+        "草、草地；植物外形与基层比喻等扩展"
+      ],
+      [
+        "grass + -y → grassy",
+        "草多；像青草的气味等"
+      ]
+    ],
+    "explanation": "a grassy slope 长草斜坡，a grassy bank 草坡岸，a grassy aroma 青草般气味。",
+    "usage": "a grassy slope；a grassy bank；a grassy aroma。",
+    "contrast": "grassy 描述草或草感，green 更宽是绿色、环保、新手等；绿色塑料地板不能只因绿就叫 grassy。",
+    "examples": [
+      [
+        "We rested on a grassy slope above the river.",
+        "我们在河边上方一片长草斜坡休息。"
+      ],
+      [
+        "The tea has a fresh, grassy aroma.",
+        "这茶有清新的青草香。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grassy#English"
+    ]
+  },
+  {
+    "word": "grassroots",
+    "ipa": "英 /ˈɡrɑːsruːts/；美 /ˈɡræsruːts/",
+    "meaning": "基层的、由普通民众发起的；基层",
+    "sense": "上面看是一片草，下面靠许多根撑着；组织、社会最下面的普通成员，就借草根说 grassroots。",
+    "split": "grass + roots，复数 roots 被整体用在基层比喻里；常作形容词，也有 at the grassroots 等基层层面说法。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "英语 grass",
+        "草、草地；植物外形与基层比喻等扩展"
+      ],
+      [
+        "grass + roots → grassroots",
+        "草根 → 社会、组织基层及来自基层的"
+      ]
+    ],
+    "explanation": "a grassroots movement 基层运动，grassroots support 民间、基层支持，at the grassroots 在基层。也常分写 grass roots。",
+    "usage": "a grassroots movement；grassroots support；at the grassroots。",
+    "contrast": "grassroots 说自下而上的组织基础，不等于贫穷，也不由名字保证任何宣称基层的活动都真实自发。",
+    "examples": [
+      [
+        "The proposal gained grassroots support.",
+        "提案获得了基层支持。"
+      ],
+      [
+        "A grassroots campaign persuaded the council to reconsider.",
+        "一场民众自发的倡议活动促使市议会重新考虑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grassroots#English"
+    ]
+  },
+  {
+    "word": "grasshopper",
+    "ipa": "英 /ˈɡrɑːshɒpə/；美 /ˈɡræshɑːpər/",
+    "meaning": "蚱蜢、蝗虫类跳跃昆虫",
+    "sense": "伏在草里，后腿一蹬就蹦很远；名字把活动环境和跳跃动作直接画出来。",
+    "split": "现代可拆 grass + hopper；hopper 是 hop 跳 + -er，双写 p。古英语已有 græshoppa，后来变为中古、现代形式。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "古英语 græshoppa → grasshopper",
+        "草间跳跃者；现代可对照 grass + hopper"
+      ]
+    ],
+    "explanation": "a green grasshopper 绿色蚱蜢，a grasshopper’s hind legs 蚱蜢后腿，grasshoppers in the field 田里的蚱蜢。",
+    "usage": "a green grasshopper；a grasshopper’s hind legs。",
+    "contrast": "grasshopper 和 cricket 蟋蟀相近但不是同一个名称；hopper 也可作别的器具名，具体此处取跳跃者。",
+    "examples": [
+      [
+        "A grasshopper jumped from the path into the grass.",
+        "一只蚱蜢从小路跳进了草丛。"
+      ],
+      [
+        "The child watched the grasshopper move its long hind legs.",
+        "孩子看着蚱蜢活动它长长的后腿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grasshopper#English"
+    ]
+  },
+  {
+    "word": "lemongrass",
+    "ipa": "英 /ˈlemənɡrɑːs/；美 /ˈlemənɡræs/",
+    "meaning": "柠檬草、香茅",
+    "sense": "长得像草，闻起来却带柠檬般香气，名字抓这两点；不是把柠檬树种到草里。",
+    "split": "lemon 柠檬般的气味 + grass 草，合成植物名，常指香茅属中用于烹调、香味材料的种类。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "英语 grass",
+        "草、草地；植物外形与基层比喻等扩展"
+      ],
+      [
+        "lemon + grass → lemongrass",
+        "带柠檬香的草类植物"
+      ]
+    ],
+    "explanation": "fresh lemongrass 新鲜香茅，a lemongrass stalk 一根香茅茎，lemongrass tea 柠檬草茶。",
+    "usage": "fresh lemongrass；a lemongrass stalk；lemongrass tea。",
+    "contrast": "lemongrass 是植物香料，lemon zest 是柠檬皮屑；闻着相近不代表名称、材料完全一样。",
+    "examples": [
+      [
+        "The soup is flavored with lemongrass.",
+        "这汤用香茅调味。"
+      ],
+      [
+        "She bought fresh lemongrass at the market.",
+        "她在市场买了新鲜柠檬草。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lemongrass#English"
+    ]
+  },
+  {
+    "word": "seagrass",
+    "ipa": "英 /ˈsiːɡrɑːs/；美 /ˈsiːɡræs/",
+    "meaning": "海草〔海中生活的草状开花植物〕",
+    "sense": "水下像草甸一样铺开的植物，有根、茎、叶，还能开花；英语里它和 seaweed 海藻有区别。",
+    "split": "sea 海 + grass 草，按环境、外形命名；植物学的 seagrass 是海生开花植物群，不是所有水下绿东西的总称。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "英语 grass",
+        "草、草地；植物外形与基层比喻等扩展"
+      ],
+      [
+        "sea + grass → seagrass",
+        "海中草状植物的名称"
+      ]
+    ],
+    "explanation": "a seagrass meadow 海草床、海草甸，seagrass beds 海草床，protect seagrass 保护海草。",
+    "usage": "a seagrass meadow；seagrass beds；protect seagrass。",
+    "contrast": "seagrass 海生开花植物，seaweed 海藻；中文日常可能都宽泛说海草，英语科学语境要分。",
+    "examples": [
+      [
+        "Fish sheltered among the seagrass.",
+        "鱼躲在海草间。"
+      ],
+      [
+        "The survey mapped the seagrass meadows near the coast.",
+        "调查绘制了近岸海草床的分布。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seagrass#English",
+      "https://sanctuaries.noaa.gov/visit/ecosystems/seagrass.html"
+    ]
+  },
+  {
+    "word": "wheatgrass",
+    "ipa": "英 /ˈwiːtɡrɑːs/；美 /ˈwiːtɡræs/",
+    "meaning": "小麦草、幼嫩麦苗；某些冰草类植物",
+    "sense": "常见食品用法是小麦还没长成麦穗时的嫩苗；名字按 wheat 小麦 + grass 草状幼苗，很直观。",
+    "split": "wheat + grass。普通食用材料常指小麦嫩苗，植物名称中也用于一些相关草类，不保证每个 wheatgrass 都是同一物种。",
+    "history": [
+      [
+        "古英语 græs → 中古英语 gras → grass",
+        "草，日耳曼语旧植物名"
+      ],
+      [
+        "英语 grass",
+        "草、草地；植物外形与基层比喻等扩展"
+      ],
+      [
+        "wheat + grass → wheatgrass",
+        "小麦嫩苗；某些相关草类名"
+      ]
+    ],
+    "explanation": "wheatgrass juice 小麦草汁，a tray of wheatgrass 一盘小麦草，grow wheatgrass 种小麦草。词名说明材料，不自行许诺健康效果。",
+    "usage": "wheatgrass juice；a tray of wheatgrass；grow wheatgrass。",
+    "contrast": "wheatgrass 嫩苗与 wheat grain 麦粒分开；wheatgrass juice 也不等于把面粉加水。",
+    "examples": [
+      [
+        "A tray of wheatgrass stood beside the window.",
+        "窗边放着一盘小麦草。"
+      ],
+      [
+        "The menu lists wheatgrass juice among the drinks.",
+        "菜单的饮品里列有小麦草汁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wheatgrass#English"
+    ]
+  },
+  {
+    "word": "hydrophone",
+    "ipa": "英 /ˈhaɪdrəfəʊn/；美 /ˈhaɪdrəfoʊn/",
+    "meaning": "水听器、水下拾音器",
+    "sense": "把传感器放进水里，听船声、鲸声等水下声音；像水里的麦克风，不是给鱼打电话的手机。",
+    "split": "hydro- 水 + -phone 声音，希腊来源的科学构词材料。phone 在这里取声音、拾音器材这一支，不直接套现代电话意思。",
+    "history": [
+      [
+        "希腊 hydōr 与 phōnē",
+        "水；声音"
+      ],
+      [
+        "hydro- + -phone → hydrophone",
+        "把水下声压变化转换成电信号的传感器"
+      ]
+    ],
+    "explanation": "a hydrophone array 水听器阵列，record with a hydrophone 用水听器录音，underwater hydrophones 水下拾音器。",
+    "usage": "a hydrophone array；record with a hydrophone。",
+    "contrast": "hydrophone 主要接收水下声音，loudspeaker 常把电信号转为可听声音；声呐系统可能有发射、接收等部件，水听器本身不等于整个系统。",
+    "examples": [
+      [
+        "The researchers lowered a hydrophone into the water.",
+        "研究人员把水听器放进了水中。"
+      ],
+      [
+        "A hydrophone recorded the whale’s calls.",
+        "水听器录下了鲸的叫声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hydrophone#English",
+      "https://oceanservice.noaa.gov/facts/hydrophone.html"
+    ]
+  }
+]

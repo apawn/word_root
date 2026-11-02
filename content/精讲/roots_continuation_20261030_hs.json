@@ -1,0 +1,110 @@
+[
+  {
+    "id": "B3663",
+    "meaning": "独自的状态、孤独的感受和习惯独处的人",
+    "core": "ALONE / LONELY：身边几个人，和心里缺不缺陪伴分开",
+    "image": "alone → lone；lonely/lonesome 常谈感受；loner 谈习惯或交往状态。",
+    "intro": "人群里可以孤独，独处时也可以满足。先分事实、感受、人物习惯三层，再记词就不容易混。",
+    "forms": "eall ān → all one/allone → alone → lone；lone + -ly/-some/-er，lonely 另有旧 alonely 截短解释。",
+    "branches": [
+      [
+        "独自状态与唯一者",
+        "alone · lone"
+      ],
+      [
+        "感受与地方气氛",
+        "lonely · lonesome"
+      ],
+      [
+        "交往习惯的人物",
+        "loner"
+      ]
+    ],
+    "contrasts": "alone 多作表语、状语，lone 放名词前；-ly 这里不是副词；loner 不一定 lonely，也不必不友好。",
+    "practice": "The lone traveller enjoyed being alone and did not feel lonely.\n\n那位独行旅人享受独处，并不觉得孤独。",
+    "words": [
+      "alone",
+      "lone",
+      "lonely",
+      "lonesome",
+      "loner"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2934",
+    "meaning": "宗教、道德框架中的罪过，以及人物和性质",
+    "core": "SIN：违背所奉行的规范，先问是哪种规范",
+    "image": "sin → sinner；sinful 有罪，sinless 无罪；日常比喻可能只是说太可惜、太放纵。",
+    "intro": "中文罪字容易把法律、道德、宗教混成一团。英语这些词也要放进具体框架，不能只靠一个字互换。",
+    "forms": "synn → sin；sin + -er〔双写 n〕；sin + -ful/-less。\n\n古英语 synn 传下，现代也有非宗教的夸张说法。",
+    "branches": [
+      [
+        "罪过及人物",
+        "sin · sinner"
+      ],
+      [
+        "性质两面",
+        "sinful · sinless"
+      ],
+      [
+        "sin → sins：宗教、道德框架中的过错",
+        "sin · sins"
+      ]
+    ],
+    "contrasts": "sin/crime 不完全重合；sinner/criminal 不机械互换；sinful 甜点常是夸张；sinless 不等于零笔误。",
+    "practice": "The novel asks whether its sinner can leave a sinful life behind.\n\n小说追问，这位有罪的人能否告别过去被视为罪恶的生活。",
+    "words": [
+      "sin",
+      "sinner",
+      "sinful",
+      "sinless",
+      "sins"
+    ],
+    "exclude": {
+      "sin-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sin-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2985",
+    "meaning": "纺线、旋转及相关人物、器具和叙事比喻",
+    "core": "SPIN：捻成线、绕轴转，故事也能被加工出角度",
+    "image": "spin → spinner/spindle；spinster 保留职业转身份的社会历史；tailspin 是旋转失控相关的另一组合。",
+    "intro": "把动作、做事的人和那根轴分开，再看文字宣传的倾向性加工。spinster 的社会意义不是只用词根就能推出来的。",
+    "forms": "spinnan → spin；spin + -er/-ster；spinel → spindle〔旧器具形式〕；tail + spin。\n\n古英语 spinnan 本族纺线词，现代 ing 双写 n。\n\n古英语 spinnan 继承，spun 是不规则过去式、分词。",
+    "branches": [
+      [
+        "动作、执行者与器具",
+        "spin · spinner · spindle"
+      ],
+      [
+        "社会身份与失控画面",
+        "spinster · tailspin"
+      ],
+      [
+        "spin → spinning：捻线时的转动，扩展为旋转",
+        "spin · spinning"
+      ],
+      [
+        "spin → spins、spun：捻线到旋转",
+        "spin · spins · spun"
+      ]
+    ],
+    "contrasts": "spin 宣传可只是选择性解读；spinner 不一定是人；spindle 没有现代万能 -dle；spinster 婚姻称谓有旧式色彩。",
+    "practice": "The spinner watched the spindle turn as the thread formed.\n\n纺线者看着纺锭转动，纤维渐渐成线。",
+    "words": [
+      "spin",
+      "spinner",
+      "spindle",
+      "spinster",
+      "tailspin",
+      "spinning",
+      "spins",
+      "spun"
+    ],
+    "exclude": {
+      "spin-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

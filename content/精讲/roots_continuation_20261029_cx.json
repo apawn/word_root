@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B4106",
+    "meaning": "价值、值得；相称、尊荣与崇拜",
+    "core": "WORTH：够不够抵得上，或配不配得上",
+    "image": "worth 看价值和投入，worthy 看配得上怎样对待，worthwhile 看时间、精力花得值；worship 有尊荣的历史背景。",
+    "intro": "worth 接古英语 weorþ。worship 旧构词里的 -scipe 是 -ship 后缀，不是船；现代不能把它写成 worthship，也别与 warship 混淆。",
+    "forms": "worth → worthy、worthless；worth + while → worthwhile；古 worth 词族 + -ship → worship 的历史形式。",
+    "branches": [
+      [
+        "价值及值得",
+        "worth · worthy · worthwhile · worthless"
+      ],
+      [
+        "尊荣与崇敬",
+        "worship"
+      ]
+    ],
+    "contrasts": "worth doing，worthy of；worthless 无价值，priceless 珍贵；worship 不是 warship。",
+    "practice": "The visit was worthwhile, and the old place of worship was worth seeing.\n\n这趟参观很值得，古老的宗教礼拜场所值得一看。",
+    "words": [
+      "worth",
+      "worthy",
+      "worthwhile",
+      "worthless",
+      "worship"
+    ],
+    "exclude": {
+      "self-worth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pennyworth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2588",
+    "meaning": "国王、王国；君王角色与关键人物",
+    "core": "KING：居首的人，和相关角色、领域分开",
+    "image": "king 是人，kingdom 是王国，kingship 是君王身份、权力制度，kingly 是气派；关键人物和鸟名另按固定用法学。",
+    "intro": "king 延续古英语 cyning 等形式，与 kin 亲族词族有关，但最初意义联系有争论。kingfisher 命名原因也保留不明，不拿好记故事替代证据。",
+    "forms": "king → kingdom、kingship、kingly；kingmaker 促成人上位，kingpin 关键人物、部件；kingfisher 固定鸟名。\n\n古英语 cyning 延续，与 kin 亲族同族但命名细节未定。",
+    "branches": [
+      [
+        "君王、领域与角色",
+        "king · kingdom · kingship · kingly"
+      ],
+      [
+        "影响人选及关键人物",
+        "kingmaker · kingpin"
+      ],
+      [
+        "鸟类名称",
+        "kingfisher"
+      ],
+      [
+        "king → kings：君王与突出者",
+        "king · kings"
+      ]
+    ],
+    "contrasts": "kingship 君王角色，kinship 亲属关系；kingmaker 促成人上位，kingpin 核心人物；kingfisher 不是皇家渔夫。",
+    "practice": "The kingmaker helped choose a new king for the kingdom.\n\n左右王位人选的人，帮助这个王国选出了新国王。",
+    "words": [
+      "king",
+      "kingdom",
+      "kingship",
+      "kingly",
+      "kingmaker",
+      "kingpin",
+      "kingfisher",
+      "kings"
+    ],
+    "exclude": {
+      "god-king": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "priest-king": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingsman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingslayer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

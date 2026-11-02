@@ -1,0 +1,185 @@
+[
+  {
+    "id": "B4505",
+    "meaning": "倾斜、使倾斜；立场、局势的偏向",
+    "core": "TILT：从平衡或原来的方向偏到一侧",
+    "image": "头可以歪，镜头可以斜，局势也像天平一样向某方偏。先抓住方向发生偏转的共同画面。",
+    "intro": "常见倾斜义接早期英语不稳、倒下的词族；后来发展出倾斜状态及抽象偏向。比武、棚盖等同形词义的历史交织更复杂。",
+    "forms": "tilt 同时作动词、名词；tilted、tilting 不双写 t。tilt the balance 把方向变化用在比较、局势上。\n\ntilt 较早接中古英语倒下、使倒下材料，可能上溯古英语不稳词族；现代 tilts、tilted、tilting 把倾斜、偏向分开讲。",
+    "branches": [
+      [
+        "具体方向、姿态",
+        "tilt〔动词〕"
+      ],
+      [
+        "倾斜程度与抽象偏向",
+        "tilt〔名词及比喻〕"
+      ],
+      [
+        "tilt：从不稳到倾斜、偏向",
+        "tilt · tilts · tilted · tilting"
+      ]
+    ],
+    "contrasts": "full tilt 全速、全力是固定表达，不能只按头歪了一点理解；tilt towards 则常说明偏向哪一方。",
+    "practice": "The photographer tilted the camera slightly to frame the doorway.\n\n摄影师把相机稍稍倾斜，将门框收入画面。",
+    "words": [
+      "tilt",
+      "tilts",
+      "tilted",
+      "tilting"
+    ],
+    "exclude": {
+      "a-tilt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-tilt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2513",
+    "meaning": "冒号及分号；另有结肠的同形医学名称",
+    "core": "COLON：标点一路，身体部位一路",
+    "image": "“:”是 colon，“;”是 semicolon；身体里的 colon 又是结肠。标点与解剖名来自不同古希腊形式，现代英语恰好同形同音。",
+    "intro": "标点词经拉丁接希腊 kōlon 肢节、句中分节，从被分出的部分到标示边界的符号；解剖词接另一希腊 kolon 肠道名。",
+    "forms": "semi- + colon〔标点〕→ semicolon；它是拉丁半与希腊来源标点词组合的名称。解剖 colon 的相关医学词走另一分支。",
+    "branches": [
+      [
+        "句中的边界符号",
+        "colon · semicolon"
+      ],
+      [
+        "人体解剖名称",
+        "colon〔结肠〕"
+      ]
+    ],
+    "contrasts": "semicolon 分号与 colon 冒号不同；colonize 的殖民词族又是另一来源，不能因前几字母相同就套这里的两种解释。",
+    "practice": "A colon introduces the explanation; a semicolon links related clauses.\n\n冒号引出说明；分号连接相关分句。",
+    "words": [
+      "colon",
+      "semicolon"
+    ],
+    "exclude": {
+      "colonic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3051",
+    "meaning": "骆驼及按颜色、材料、形状形成的用法",
+    "core": "CAMEL：动物名称跨语言传播，再参加现代比喻",
+    "image": "a camel 是骆驼；camel hair 是骆驼毛；camel coat 常说驼色或相关材料的大衣，按上下文判断。",
+    "intro": "名称由闪米特语相关动物名传入希腊、拉丁，英语既有较早借入，也有法语相应形式的影响。不是现代英语短前缀的拼接。",
+    "forms": "闪米特语相关名称 → 希腊 kamelos → 拉丁 camelus → 英语、法语相应形式。现代还可借动物毛色、驼峰等形象构成修饰。",
+    "branches": [
+      [
+        "动物本身",
+        "camel"
+      ],
+      [
+        "颜色、毛料等相关用法",
+        "camel〔名词修饰语、形容性质〕"
+      ]
+    ],
+    "contrasts": "camel 一词不限定一个或两个驼峰；camel coat 的具体材质依说明，颜色名称与动物名称不能每次按同一层意思翻。",
+    "practice": "The camel rested while the travellers sheltered from the sun.\n\n旅人避着太阳休息时，骆驼也歇了下来。",
+    "words": [
+      "camel"
+    ],
+    "exclude": {
+      "she-camel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "camelback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3610",
+    "meaning": "男人、家伙的口语称呼；另有皮肤干裂词族",
+    "core": "CHAP：人物称呼与表面裂开分成两条线",
+    "image": "friendly chap 是友善的家伙；chapped lips 是干裂嘴唇；chapstick 里取后面这条干裂关系。",
+    "intro": "人物 chap 缩自旧 chapman 商人、顾客，与 cheap 的旧交易材料相连；干裂动词接中古英语 chappen，可能连着切裂材料，远源未定。",
+    "forms": "chapman 缩短 → chap〔人物〕；chap〔干裂〕+ -ed → chapped，双写 p、读 /t/；chapstick 的 stick 是条状物关系。",
+    "branches": [
+      [
+        "交易人物称呼的缩短与近亲",
+        "chap〔家伙〕；cheap"
+      ],
+      [
+        "皮肤干裂与相关名称",
+        "chap〔动词〕· chapped · chapstick"
+      ]
+    ],
+    "contrasts": "chap 的人物义偏英式口语，man 更中性；干裂义常见于 chapped lips、chapped hands。读 chapstick 时也取干裂这条关系。",
+    "practice": "The friendly chap complained about his chapped lips.\n\n那个友善的男子抱怨嘴唇干裂。",
+    "words": [
+      "chap",
+      "cheap",
+      "chapped",
+      "chapstick"
+    ],
+    "exclude": {
+      "chappy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4338",
+    "meaning": "鳃；相似的菌褶；脸色、满载等习语",
+    "core": "GILL：鱼的鳃部位与薄片形象，再延伸到相似结构",
+    "image": "鱼鳃常是薄片状的器官结构；蘑菇帽下面一排排的菌褶，也借相似外形叫 gills。",
+    "intro": "鳃名接中古英语 gille、gylle 及北欧语相关材料，更远与唇、颌部位名称的关系仍有重建讨论。其他同形 gill 也可能有独立借词史。",
+    "forms": "gill → gills 是普通复数；在 fish gills、mushroom gills 里保持 /ɡ/ 的读音。green around the gills、full to the gills 是后续固定习语。",
+    "branches": [
+      [
+        "水中呼吸器官",
+        "gill〔鳃〕"
+      ],
+      [
+        "相似薄片结构",
+        "gill〔菌褶〕"
+      ],
+      [
+        "脸色与极满状态的习语",
+        "gill〔固定表达〕"
+      ]
+    ],
+    "contrasts": "full to the gills 说装得、吃得很满，green around the gills 说脸色不好；旧液量单位同形词另有 /dʒɪl/ 读音与法语来源。",
+    "practice": "The mushroom’s pale gills were visible beneath the cap.\n\n菌帽下面可以看到浅色菌褶。",
+    "words": [
+      "gill"
+    ],
+    "exclude": {
+      "bluegill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gillie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2080",
+    "meaning": "谱；光谱及相应观察、测量形式",
+    "core": "SPECTRO：把信息展开成谱，再观察、测量",
+    "image": "spectrum 是谱或范围；spectroscopy 是光谱学、分析；spectrometer 是仪器；spectroscopic 是相关性质。先分对象、活动、工具、性质。",
+    "intro": "spectro- 是科学构词中的结合形式，接拉丁 spectrum 形象、呈现等材料；再与观察、测量等希腊来源形式组合，形成相应术语。",
+    "forms": "spectro- + 观察材料 → spectroscopy、spectroscopic；spectro- + 测量材料 → spectrometry、spectrometer。现代学科名称、技术实际用法有重叠，不能只靠词尾划出绝对界线。",
+    "branches": [
+      [
+        "基本对象与宽泛范围",
+        "spectrum"
+      ],
+      [
+        "观察、分析及相关性质",
+        "spectroscopy · spectroscopic"
+      ],
+      [
+        "测量及仪器",
+        "spectrometry · spectrometer"
+      ]
+    ],
+    "contrasts": "spectrum 不只人眼看到的彩虹；-metry 常说测量，-meter 常说测量工具。spectroscopy、spectrometry 的技术命名会有交叉，不简单分成只定性、只定量。",
+    "practice": "The spectrometer produced data for the spectroscopic analysis.\n\n测谱仪为光谱分析提供了数据。",
+    "words": [
+      "spectrum",
+      "spectroscopy",
+      "spectroscopic",
+      "spectrometry",
+      "spectrometer"
+    ],
+    "exclude": {
+      "spectrograph": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spectrophotometer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

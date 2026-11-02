@@ -1,0 +1,818 @@
+[
+  {
+    "word": "refreshes",
+    "ipa": "/rɪˈfreʃɪz/",
+    "meaning": "使恢复精神；刷新；唤起记忆〔第三人称单数〕",
+    "sense": "让疲倦的精神缓过来，让页面内容重新取一次，让模糊的记忆清楚起来，都能用 refreshes。",
+    "split": "refresh + -es，/ʃ/ 后读 /ɪz/。历史经法语 refreschier，现代可对应 re- 再次 + fresh 清新。",
+    "history": [
+      [
+        "法语 refreschier → 英语 refresh",
+        "使恢复、更新、如新"
+      ],
+      [
+        "refresh + -es → refreshes",
+        "它使恢复、刷新"
+      ]
+    ],
+    "explanation": "refreshes the page 刷新页面；refreshes my memory 帮我重新想起。",
+    "usage": "refreshes the display 更新显示；refreshes us 让我们恢复精神。",
+    "contrast": "刷新一个页面和重启整个程序是不同范围的动作；refreshes 本身没说把系统重新启动。",
+    "examples": [
+      [
+        "The display refreshes every minute.",
+        "显示内容每分钟更新一次。"
+      ],
+      [
+        "A short walk refreshes me after a long meeting.",
+        "开完长会，走一小段路让我恢复精神。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refreshes#English",
+      "https://en.wiktionary.org/wiki/refresh#English"
+    ]
+  },
+  {
+    "word": "refreshed",
+    "ipa": "/rɪˈfreʃt/",
+    "meaning": "恢复精神的；刷新、更新了；重新想起了",
+    "sense": "休息后精神回来了，可以说 refreshed；页面、记忆重新变清楚、更新了，也沿同一恢复画面。",
+    "split": "refresh + -ed，/ʃ/ 后读 /t/，不是 /ɪd/。基础词经法语进入英语。",
+    "history": [
+      [
+        "法语 refreschier → refresh",
+        "恢复、使清新、更新"
+      ],
+      [
+        "refresh + -ed → refreshed",
+        "过去更新；恢复精神后的状态"
+      ]
+    ],
+    "explanation": "feel refreshed 感到精神恢复；refreshed the page 刷新了页面。",
+    "usage": "refreshed my memory 使我重新想起；a refreshed design 更新的设计。",
+    "contrast": "refreshed 可说结果状态：I feel refreshed；也可作动作过去式：I refreshed the page。",
+    "examples": [
+      [
+        "I felt refreshed after a short sleep.",
+        "小睡后我觉得精神恢复了。"
+      ],
+      [
+        "She refreshed the page to check the score.",
+        "她刷新页面查看比分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/refreshed#English",
+      "https://en.wiktionary.org/wiki/refresh#English"
+    ]
+  },
+  {
+    "word": "reloads",
+    "ipa": "英 /ˌriːˈləʊdz/；美 /ˌriːˈloʊdz/",
+    "meaning": "重新装载、重新加载〔第三人称单数〕；重装、加载操作〔复数〕",
+    "sense": "装过一次，现在再装一次，是 reloads；既可给设备重新装材料，也可重新读取网页。",
+    "split": "re- 再次 + load 装载 → reload，再加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "re- + load → reload",
+        "重新装入、重新加载"
+      ],
+      [
+        "reload + -s → reloads",
+        "它重新加载；多次加载操作"
+      ]
+    ],
+    "explanation": "reloads the page 重新加载页面；reloads the machine 重新给机器装料。",
+    "usage": "automatic reloads 自动重新加载操作；reloads the file 重新载入文件。",
+    "contrast": "reloads 说再装载某对象，restarts 说再启动运行；二者可以前后发生，不能只凭“重新”混为一词。",
+    "examples": [
+      [
+        "The program reloads the file after each change.",
+        "每次更改后，程序都会重新加载文件。"
+      ],
+      [
+        "The operator reloads the printer with paper.",
+        "操作员给打印机重新装纸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reloads#English",
+      "https://en.wiktionary.org/wiki/reload#English"
+    ]
+  },
+  {
+    "word": "reloaded",
+    "ipa": "英 /ˌriːˈləʊdɪd/；美 /ˌriːˈloʊdɪd/",
+    "meaning": "重新装载、重新加载了",
+    "sense": "原来的材料用完、内容要再读，于是又装入一次、加载一次，是 reloaded。",
+    "split": "reload + -ed，/d/ 后词尾读 /ɪd/；re- 的再次义仍完整。",
+    "history": [
+      [
+        "re- + load → reload",
+        "重新装载实物、载入内容"
+      ],
+      [
+        "reload + -ed → reloaded",
+        "过去重新装载、加载"
+      ]
+    ],
+    "explanation": "reloaded the page 重新加载了页面；reloaded the printer 给打印机重新装料。",
+    "usage": "reloaded the file 重新载入了文件；already reloaded 已重新加载。",
+    "contrast": "reloaded 不自动表示重新安装软件；reinstalled 才直接说重新安装。",
+    "examples": [
+      [
+        "I reloaded the page after the connection returned.",
+        "连接恢复后，我重新加载了页面。"
+      ],
+      [
+        "She reloaded the printer with fresh paper.",
+        "她给打印机重新装了新纸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reloaded#English",
+      "https://en.wiktionary.org/wiki/reload#English"
+    ]
+  },
+  {
+    "word": "reloading",
+    "ipa": "英 /ˌriːˈləʊdɪŋ/；美 /ˌriːˈloʊdɪŋ/",
+    "meaning": "重新装载、重新加载的过程",
+    "sense": "再次装入、读取的动作还在进行，就是 reloading；对象决定你是在看机器装料还是数字内容读取。",
+    "split": "reload + -ing，不改基础拼写；reload 本身是 re- 再次与 load 装载的组合。",
+    "history": [
+      [
+        "re- + load → reload",
+        "再装载一次"
+      ],
+      [
+        "reload + -ing → reloading",
+        "重新装载的过程、正在加载"
+      ]
+    ],
+    "explanation": "reloading the page 正在重新加载页面；finish reloading 重新加载完。",
+    "usage": "while reloading 重新装载时；reloading the printer 给打印机重新装纸。",
+    "contrast": "loading 是装载、加载，reloading 特别点明又做一次。",
+    "examples": [
+      [
+        "The page was still reloading when I returned.",
+        "我回来时，页面还在重新加载。"
+      ],
+      [
+        "Reloading the printer took less than a minute.",
+        "给打印机重新装纸不到一分钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reloading#English",
+      "https://en.wiktionary.org/wiki/reload#English"
+    ]
+  },
+  {
+    "word": "reboots",
+    "ipa": "动词 /ˌriːˈbuːts/；名词 /ˈriːbuːts/",
+    "meaning": "重启〔第三人称单数〕；重启操作、重启版作品〔复数〕",
+    "sense": "电脑重新走启动过程，是 reboots；老作品系列重新开篇，名词复数也可叫 reboots。",
+    "split": "re- 再次 + boot 启动 → reboot，加 -s，/t/ 后读 /s/。boot 的计算机义缩自 bootstrap。",
+    "history": [
+      [
+        "bootstrap 计算机义 → boot；re- + boot → reboot",
+        "启动；重新启动"
+      ],
+      [
+        "reboot + -s → reboots",
+        "它重启；多次重启、多个作品重启版"
+      ]
+    ],
+    "explanation": "system reboots 系统重启操作；film reboots 电影重启版。",
+    "usage": "the computer reboots 电脑重新启动；frequent reboots 频繁重启。",
+    "contrast": "作品 reboot 强调重新开篇，sequel 强调承接前作；实际作品的设定延续程度还要看内容。",
+    "examples": [
+      [
+        "The computer reboots after the installation.",
+        "安装后电脑会重新启动。"
+      ],
+      [
+        "The article compares three reboots of the series.",
+        "文章比较了这个系列的三个重启版本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reboots#English",
+      "https://en.wiktionary.org/wiki/reboot#English"
+    ]
+  },
+  {
+    "word": "rebooted",
+    "ipa": "/ˌriːˈbuːtɪd/",
+    "meaning": "重新启动了；重新开篇、重启了",
+    "sense": "机器启动流程再走了一遍，是 rebooted；项目或作品重新起步，也可借这个词。",
+    "split": "reboot + -ed，/t/ 后词尾读 /ɪd/。reboot 接计算机 boot，后者缩自 bootstrap。",
+    "history": [
+      [
+        "bootstrap → boot；re- + boot → reboot",
+        "启动；再次启动"
+      ],
+      [
+        "reboot + -ed → rebooted",
+        "过去重启机器或作品、项目"
+      ]
+    ],
+    "explanation": "rebooted the computer 重启了电脑；a rebooted series 重启的系列。",
+    "usage": "the machine rebooted 机器重新启动了；rebooted the project 让项目重新起步。",
+    "contrast": "rebooted 说重新启动，不自动等于资料被清空、软件被重装。",
+    "examples": [
+      [
+        "I rebooted the computer after saving the file.",
+        "保存文件后，我重启了电脑。"
+      ],
+      [
+        "The studio rebooted the series with a new cast.",
+        "制片公司用新演员阵容重启了这个系列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rebooted#English",
+      "https://en.wiktionary.org/wiki/reboot#English"
+    ]
+  },
+  {
+    "word": "rebooting",
+    "ipa": "/ˌriːˈbuːtɪŋ/",
+    "meaning": "正在重启；重新启动、重新起步的过程",
+    "sense": "机器正在重新走启动流程，是 rebooting。电影、项目重新开篇时，也可以借同一个重新起步的画面。",
+    "split": "reboot + -ing。基础 re- 再次 + boot 启动，boot 的近源是计算机 bootstrap 的截短。",
+    "history": [
+      [
+        "bootstrap → boot；re- + boot → reboot",
+        "重新启动的计算机用语"
+      ],
+      [
+        "reboot + -ing → rebooting",
+        "重启动作的进行、过程"
+      ]
+    ],
+    "explanation": "rebooting the system 重启系统；after rebooting 重启后。",
+    "usage": "the computer is rebooting 电脑正在重启；rebooting a series 重启一个系列。",
+    "contrast": "rebooting 强调重新启动过程，resetting 强调重设状态，操作目的和影响未必相同。",
+    "examples": [
+      [
+        "The computer was rebooting when I came back.",
+        "我回来时，电脑正在重启。"
+      ],
+      [
+        "Rebooting the old series gave the writers a fresh start.",
+        "重启老系列给编剧带来了重新开篇的机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rebooting#English",
+      "https://en.wiktionary.org/wiki/reboot#English"
+    ]
+  },
+  {
+    "word": "restarts",
+    "ipa": "动词英 /ˌriːˈstɑːts/、美 /ˌriːˈstɑːrts/；名词英 /ˈriːstɑːts/、美 /ˈriːstɑːrts/",
+    "meaning": "重新开始、重启〔第三人称单数〕；重启、重新开始〔复数〕",
+    "sense": "停下的运行、谈判又开始，是 restarts；把几次重新开始当成事件来数，也可用它。",
+    "split": "re- 再次 + start 开始 → restart，再加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "start 的开始义 + re- → restart",
+        "再次开始、启动"
+      ],
+      [
+        "restart + -s → restarts",
+        "它重新开始；多次重新开始"
+      ]
+    ],
+    "explanation": "restarts the engine 重新启动发动机；several restarts 几次重启。",
+    "usage": "the race restarts 比赛重新开始；frequent restarts 频繁重启。",
+    "contrast": "start 的旧词源与突然跃起、冲出有关；现代 restart 直接用已经固定的开始义，不用每次都想跳跃。",
+    "examples": [
+      [
+        "The race restarts after the track is cleared.",
+        "赛道清理好后，比赛重新开始。"
+      ],
+      [
+        "The computer needed two restarts during the test.",
+        "测试期间，电脑需要重启两次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restarts#English",
+      "https://en.wiktionary.org/wiki/restart#English"
+    ]
+  },
+  {
+    "word": "restarted",
+    "ipa": "英 /ˌriːˈstɑːtɪd/；美 /ˌriːˈstɑːrtɪd/",
+    "meaning": "重新开始、重新启动了",
+    "sense": "已经停过的东西又开始运行、推进，是 restarted。可以是机器，也可以是暂停的活动。",
+    "split": "restart + -ed，/t/ 后读 /ɪd/；re- 表再次。",
+    "history": [
+      [
+        "re- + start → restart",
+        "重新开始、启动"
+      ],
+      [
+        "restart + -ed → restarted",
+        "过去重新开始、重新启动"
+      ]
+    ],
+    "explanation": "restarted the engine 重启了发动机；restarted the talks 重启了谈判。",
+    "usage": "the game restarted 比赛重新开始了；restarted after a pause 暂停后重新开始。",
+    "contrast": "restarted 不必从零清空原有进展；中断后接着推进也可以用。",
+    "examples": [
+      [
+        "She restarted the engine after a short wait.",
+        "等了一会儿后，她重新启动发动机。"
+      ],
+      [
+        "The discussion restarted after lunch.",
+        "午饭后，讨论重新开始了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restarted#English",
+      "https://en.wiktionary.org/wiki/restart#English"
+    ]
+  },
+  {
+    "word": "restarting",
+    "ipa": "英 /ˌriːˈstɑːtɪŋ/；美 /ˌriːˈstɑːrtɪŋ/",
+    "meaning": "正在重新开始、重启；重新开始的过程",
+    "sense": "从停着的状态往再次运行过渡，正在发生时用 restarting。",
+    "split": "restart + -ing，保留原拼写；基础词是 re- 再次 + start 开始。",
+    "history": [
+      [
+        "re- + start → restart",
+        "再次开始、运行"
+      ],
+      [
+        "restart + -ing → restarting",
+        "重新开始的过程或进行动作"
+      ]
+    ],
+    "explanation": "restarting the computer 重启电脑；before restarting 重新开始前。",
+    "usage": "restarting talks 重新展开谈判；the machine is restarting 机器正在重启。",
+    "contrast": "restarting 可以是不及物：机器自己正在重启；也可带宾语：某人正在重启机器。",
+    "examples": [
+      [
+        "The machine is restarting now.",
+        "机器现在正在重启。"
+      ],
+      [
+        "Restarting the discussion helped us find a compromise.",
+        "重新展开讨论帮我们找到了折中办法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restarting#English",
+      "https://en.wiktionary.org/wiki/restart#English"
+    ]
+  },
+  {
+    "word": "usernames",
+    "ipa": "英 /ˈjuːzəneɪmz/；美 /ˈjuːzərneɪmz/",
+    "meaning": "用户名、账户标识名〔复数〕",
+    "sense": "系统用来分清不同账户的名称，是 usernames；不一定是使用者的真实姓名。",
+    "split": "use 去 e + -er → user，user + name → username，再加 -s，/m/ 后读 /z/。",
+    "history": [
+      [
+        "user + name → username",
+        "用于识别账户的名称"
+      ],
+      [
+        "username + -s → usernames",
+        "多个账户名称"
+      ]
+    ],
+    "explanation": "choose usernames 选择用户名；a list of usernames 用户名列表。",
+    "usage": "different usernames 不同用户名；usernames beside comments 评论旁的用户名。",
+    "contrast": "username 侧重账户识别，display name 侧重展示；两者是否一样，由具体系统决定。",
+    "examples": [
+      [
+        "The students chose different usernames.",
+        "学生们选择了不同的用户名。"
+      ],
+      [
+        "The report listed usernames rather than real names.",
+        "报告列的是用户名，而不是真实姓名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/usernames#English",
+      "https://en.wiktionary.org/wiki/username#English"
+    ]
+  },
+  {
+    "word": "passwords",
+    "ipa": "英 /ˈpɑːswɜːdz/；美 /ˈpæswɜːrdz/",
+    "meaning": "口令、密码〔复数〕",
+    "sense": "说对约定内容才获准通过的口令，后来进入计算机；多份这种认证内容就是 passwords。",
+    "split": "pass 通过 + word 口令 → password，再加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "pass + word → password",
+        "获准通过的口令"
+      ],
+      [
+        "计算机认证用途；password + -s → passwords",
+        "多个账户等使用的密码"
+      ]
+    ],
+    "explanation": "forgotten passwords 忘记的密码；reset passwords 重设密码。",
+    "usage": "different passwords 不同密码；passwords for the accounts 各账户的密码。",
+    "contrast": "word 保留口令的命名背景；现代 password 不要求只含一个完整英语单词。",
+    "examples": [
+      [
+        "I forgot the passwords for two old accounts.",
+        "我忘记了两个旧账户的密码。"
+      ],
+      [
+        "The training exercise used fictional passwords.",
+        "培训练习使用了虚构密码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/passwords#English",
+      "https://en.wiktionary.org/wiki/password#English"
+    ]
+  },
+  {
+    "word": "passcodes",
+    "ipa": "英 /ˈpɑːskəʊdz/；美 /ˈpæskoʊdz/",
+    "meaning": "通行码、解锁码〔复数〕",
+    "sense": "输入约定代码，设备或门禁才放行；有多份代码时就用 passcodes。",
+    "split": "pass 获准通过 + code 代码 → passcode，整词加 -s，/d/ 后读 /z/。末尾 e 保留。",
+    "history": [
+      [
+        "pass + code → passcode",
+        "用于放行、解锁的代码"
+      ],
+      [
+        "passcode + -s → passcodes",
+        "多个通行、解锁代码"
+      ]
+    ],
+    "explanation": "device passcodes 设备解锁码；temporary passcodes 临时通行码。",
+    "usage": "enter passcodes 输入通行码；different passcodes 不同代码。",
+    "contrast": "passcodes 常用于数字代码的名称，但词本身不保证只含数字、固定几位；password 与它也有用法交叠。",
+    "examples": [
+      [
+        "The devices used different passcodes.",
+        "这些设备使用不同解锁码。"
+      ],
+      [
+        "The visitors received temporary passcodes for the doors.",
+        "访客拿到了门禁的临时通行码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/passcodes#English",
+      "https://en.wiktionary.org/wiki/passcode#English"
+    ]
+  },
+  {
+    "word": "screenshots",
+    "ipa": "英 /ˈskriːnʃɒts/；美 /ˈskriːnʃɑːts/",
+    "meaning": "屏幕截图〔复数〕；给屏幕截图〔第三人称单数〕",
+    "sense": "把屏幕某一刻的显示内容截成静止图，多张这样的图就是 screenshots。",
+    "split": "screen 屏幕 + shot 一张画面 → screenshot，再加 -s，/t/ 后读 /s/。也可作动词第三人称形式。",
+    "history": [
+      [
+        "screen + shot → screenshot",
+        "屏幕显示内容的静态截取图"
+      ],
+      [
+        "screenshot + -s → screenshots",
+        "多张截图；它执行截图"
+      ]
+    ],
+    "explanation": "take screenshots 截图；screenshots of the error 错误画面的截图。",
+    "usage": "save the screenshots 保存截图；compare screenshots 比较截图。",
+    "contrast": "截图通常是静态图；recordings 记录时间中的变化，单张截图无法表现整个操作过程。",
+    "examples": [
+      [
+        "She saved screenshots of the timetable.",
+        "她保存了几张时刻表截图。"
+      ],
+      [
+        "The screenshots showed the error messages clearly.",
+        "截图清楚地显示了错误信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screenshots#English",
+      "https://en.wiktionary.org/wiki/screenshot#English"
+    ]
+  },
+  {
+    "word": "bookmarks",
+    "ipa": "英 /ˈbʊkmɑːks/；美 /ˈbʊkmɑːrks/",
+    "meaning": "书签、收藏入口〔复数〕；加书签、收藏〔第三人称单数〕",
+    "sense": "留个位置，下次直接回去：纸书里是书签，浏览器里是收藏入口，都叫 bookmarks。",
+    "split": "book + mark → bookmark，现代整词加 -s，/k/ 后读 /s/；名词也转成加标记、收藏的动词。",
+    "history": [
+      [
+        "book + mark → bookmark",
+        "标出读到哪里的书签"
+      ],
+      [
+        "数字访问入口、动词用途；+ -s → bookmarks",
+        "多个书签、收藏入口；它收藏"
+      ]
+    ],
+    "explanation": "paper bookmarks 纸书签；browser bookmarks 浏览器书签。",
+    "usage": "save bookmarks 保存书签；organise bookmarks 整理收藏入口。",
+    "contrast": "数字 bookmarks 通常保存访问入口，不等于把每个网页的全部内容都存到设备。",
+    "examples": [
+      [
+        "She makes bookmarks from old postcards.",
+        "她用旧明信片做书签。"
+      ],
+      [
+        "I organised my bookmarks into folders.",
+        "我把书签整理到文件夹里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bookmarks#English",
+      "https://en.wiktionary.org/wiki/bookmark#English"
+    ]
+  },
+  {
+    "word": "bookmarked",
+    "ipa": "英 /ˈbʊkmɑːkt/；美 /ˈbʊkmɑːrkt/",
+    "meaning": "加了书签、作了收藏标记的；收藏了",
+    "sense": "给内容留了一个下次能找到的入口，是 bookmarked；重点在标位置、方便回来。",
+    "split": "bookmark + -ed，/k/ 后词尾读 /t/。组合 book、mark 先形成书签名称，再有相应动词与数字用途。",
+    "history": [
+      [
+        "book + mark → bookmark；名词转动词",
+        "书签；给内容作回访标记"
+      ],
+      [
+        "bookmark + -ed → bookmarked",
+        "过去收藏；已经标记的状态"
+      ]
+    ],
+    "explanation": "bookmarked the article 收藏了文章；a bookmarked page 作了书签的页面。",
+    "usage": "already bookmarked 已经收藏；bookmarked for later 留待以后再看。",
+    "contrast": "bookmarked 不保证内容已经阅读，也不保证链接以后一直有效；它只表达作了标记这一层意思。",
+    "examples": [
+      [
+        "I bookmarked the article for the weekend.",
+        "我收藏了那篇文章，准备周末看。"
+      ],
+      [
+        "The bookmarked page contained the example we needed.",
+        "作了书签的那页有我们需要的例子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bookmarked#English",
+      "https://en.wiktionary.org/wiki/bookmark#English"
+    ]
+  },
+  {
+    "word": "bookmarking",
+    "ipa": "英 /ˈbʊkmɑːkɪŋ/；美 /ˈbʊkmɑːrkɪŋ/",
+    "meaning": "添加书签、收藏入口的过程",
+    "sense": "正在给有用内容留回来的入口，就是 bookmarking。相当于先插好一个位置标记。",
+    "split": "bookmark + -ing，整词不改拼写；book、mark 提供书本位置标记的旧画面。",
+    "history": [
+      [
+        "book + mark → bookmark；转为动词",
+        "书签；为内容标位置、入口"
+      ],
+      [
+        "bookmark + -ing → bookmarking",
+        "正在收藏、加标记；相应过程"
+      ]
+    ],
+    "explanation": "bookmarking useful pages 收藏有用页面；a bookmarking tool 书签工具。",
+    "usage": "bookmarking articles 收藏文章；bookmarking for later 为以后阅读作标记。",
+    "contrast": "bookmarking 是作入口标记，downloading 是接收文件；两种动作可一起做，但不是同一词义。",
+    "examples": [
+      [
+        "She was bookmarking useful pages for her project.",
+        "她正为项目收藏有用页面。"
+      ],
+      [
+        "Bookmarking the article made it easier to find later.",
+        "收藏这篇文章后，以后更容易找到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bookmarking#English",
+      "https://en.wiktionary.org/wiki/bookmark#English"
+    ]
+  },
+  {
+    "word": "backups",
+    "ipa": "/ˈbækʌps/",
+    "meaning": "备份、后备人或物、支援〔复数〕",
+    "sense": "主方案出问题时还有另一份、另一位接上，这些后备安排就是 backups。文件场景常说保留的副本。",
+    "split": "back up 动词短语形成合写名词 backup，再加 -s，/p/ 后读 /s/。",
+    "history": [
+      [
+        "back up → backup",
+        "在后面支持、后备；再有备份用途"
+      ],
+      [
+        "backup + -s → backups",
+        "多份备份或多位后备人员、物品"
+      ]
+    ],
+    "explanation": "file backups 文件备份；keep backups 保留备份。",
+    "usage": "regular backups 定期备份；backups for the main team 主队的后备人员。",
+    "contrast": "backups 是合写名词；动词“备份它们”写 back them up，代词放在短语中间。",
+    "examples": [
+      [
+        "We kept two backups of the original files.",
+        "我们为原文件保留了两份备份。"
+      ],
+      [
+        "The main players had experienced backups.",
+        "主力队员都有经验丰富的后备人选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/backups#English",
+      "https://en.wiktionary.org/wiki/backup#English"
+    ]
+  },
+  {
+    "word": "restores",
+    "ipa": "英 /rɪˈstɔːz/；美 /rɪˈstɔːrz/",
+    "meaning": "恢复、修复、归还〔第三人称单数〕；还原操作〔复数〕",
+    "sense": "把受损的东西修回去，把原来的秩序、状态找回来，是 restores；先抓回到原先状态的方向。",
+    "split": "restore + -s，读 /z/。restore 经古法语 restorer 接拉丁 restaurare 修复、重建，不是现代 store 仓储义前加 re。",
+    "history": [
+      [
+        "拉丁 restaurare → 法语 restorer → restore",
+        "重建、修复、恢复"
+      ],
+      [
+        "restore + -s → restores",
+        "它修复、恢复；多次还原操作"
+      ]
+    ],
+    "explanation": "restores old paintings 修复旧画；restores confidence 恢复信心。",
+    "usage": "restores a file 还原文件；restores order 恢复秩序。",
+    "contrast": "restore 着重恢复原有状态；renovate 往往包含翻新、改善，不一定追求旧样。",
+    "examples": [
+      [
+        "The workshop restores old furniture.",
+        "这家工坊修复旧家具。"
+      ],
+      [
+        "The program restores the file from a backup.",
+        "程序从备份中还原文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restores#English",
+      "https://www.etymonline.com/word/restore"
+    ]
+  },
+  {
+    "word": "restoring",
+    "ipa": "英 /rɪˈstɔːrɪŋ/；美 /rɪˈstɔːrɪŋ/",
+    "meaning": "正在恢复、修复；恢复原状的过程",
+    "sense": "损坏、消失的状态正在被找回，是 restoring；可修画、修楼，也可恢复秩序、还原文件。",
+    "split": "restore 去 e 加 -ing → restoring。r 在英式里也因后接元音而读出来；词源接法语、拉丁语修复词。",
+    "history": [
+      [
+        "拉丁 restaurare → 古法语 restorer → restore",
+        "修复、恢复、重建"
+      ],
+      [
+        "restore + -ing → restoring〔去 e〕",
+        "正在恢复、修复的过程"
+      ]
+    ],
+    "explanation": "restoring a painting 修复画作；restoring confidence 恢复信心。",
+    "usage": "restoring files 还原文件；restoring the building 修复建筑。",
+    "contrast": "restoring the files 说恢复内容；restarting the computer 说重新启动机器，动作对象和目的不同。",
+    "examples": [
+      [
+        "The team is restoring a wooden bridge.",
+        "团队正在修复一座木桥。"
+      ],
+      [
+        "Restoring the files took most of the afternoon.",
+        "还原文件花了大半个下午。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restoring#English",
+      "https://www.etymonline.com/word/restore"
+    ]
+  },
+  {
+    "word": "resets",
+    "ipa": "/ˌriːˈsets/〔动词〕；/ˈriːsets/〔名词〕",
+    "meaning": "重新设置、复位〔第三人称单数〕；重设操作〔复数〕",
+    "sense": "把原来的设定再定一遍、换到新位置，或回到某个起点，是 resets。宾语告诉你究竟设什么。",
+    "split": "re- 再次、回 + set → reset，再加 -s，/t/ 后读 /s/。这不是过去式。",
+    "history": [
+      [
+        "re- + set → reset",
+        "再次设定、使回到某状态"
+      ],
+      [
+        "reset + -s → resets",
+        "它重设；多次重设操作"
+      ]
+    ],
+    "explanation": "resets the clock 重设时钟；password resets 密码重设操作。",
+    "usage": "resets the counter 把计数器复位；resets the timer 重设计时器。",
+    "contrast": "set、reset 的过去式和过去分词都保持原形；resets 是现在第三人称或复数名词。",
+    "examples": [
+      [
+        "She resets the clock after a power cut.",
+        "停电后她重新设时钟。"
+      ],
+      [
+        "The report counted password resets for the month.",
+        "报告统计了这个月的密码重设次数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resets#English",
+      "https://en.wiktionary.org/wiki/reset#English"
+    ]
+  },
+  {
+    "word": "resetting",
+    "ipa": "/ˌriːˈsetɪŋ/",
+    "meaning": "正在重新设置、复位；重设过程",
+    "sense": "把某个时间、参数、起点重新定好，动作进行中就是 resetting。重设什么，要看后面的对象。",
+    "split": "reset 的末音节重读、以短元音加单个 t 结尾，双写 t 加 -ing → resetting。基础词是 re- + set。",
+    "history": [
+      [
+        "re- + set → reset",
+        "重新设定、回到某种状态"
+      ],
+      [
+        "reset + -ing → resetting〔双写 t〕",
+        "正在重设；重设过程"
+      ]
+    ],
+    "explanation": "resetting the clock 重设时钟；resetting a password 重设密码。",
+    "usage": "before resetting 重设前；resetting the timer 重新设计时器。",
+    "contrast": "resetting 是进行形式；过去已完成仍可用 reset，如 I reset the clock yesterday。",
+    "examples": [
+      [
+        "He was resetting the clock when I called.",
+        "我打电话时，他正在重设时钟。"
+      ],
+      [
+        "Resetting the timer took only a few seconds.",
+        "重新设计时器只花了几秒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resetting#English",
+      "https://en.wiktionary.org/wiki/reset#English"
+    ]
+  },
+  {
+    "word": "startups",
+    "ipa": "英 /ˈstɑːtʌps/；美 /ˈstɑːrtʌps/",
+    "meaning": "初创企业；启动过程、启动事件〔复数〕",
+    "sense": "事业刚开始起步的公司，是 startups；设备的几次启动过程，也可用这个复数。",
+    "split": "动词短语 start up 形成合写名词 startup，再加 -s，/p/ 后读 /s/。",
+    "history": [
+      [
+        "start up → startup",
+        "启动过程；处于起步阶段的企业"
+      ],
+      [
+        "startup + -s → startups",
+        "多家初创企业、多个启动事件"
+      ]
+    ],
+    "explanation": "local startups 当地初创企业；technology startups 科技初创企业。",
+    "usage": "support startups 支持初创企业；system startups 系统启动过程。",
+    "contrast": "startup 不要求公司只能做互联网业务；说的是初创、起步这个角度。",
+    "examples": [
+      [
+        "The programme supports local startups.",
+        "这个项目支持当地初创企业。"
+      ],
+      [
+        "The log recorded three system startups that morning.",
+        "日志记下了那天上午的三次系统启动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/startups#English",
+      "https://en.wiktionary.org/wiki/startup#English"
+    ]
+  }
+]

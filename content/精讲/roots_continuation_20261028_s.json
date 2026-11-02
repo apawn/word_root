@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B3475",
+    "meaning": "完整、无损；同源的健康与神圣词",
+    "core": "WHOLE：把一个东西完整地看，不缺一块",
+    "image": "完整圆饼、完整一天、整颗心投入，先抓住没有缺损的整体。",
+    "intro": "whole 接古英语 hāl“完整、健康”。wh- 是后来的拼写，现代 w 不发音。health 和 holy 是更早的同源分支，不是现代 whole 临时加后缀的新词；神圣义的形成不能靠一个中文谐趣故事代替历史。",
+    "forms": "先读 whole、wholly、wholeness，再看 wholesome 的健康旧义、wholehearted 的全心投入，以及 wholesale、wholemeal 的组合。health、holy 在最后单列旧词族分支，避免混成同一条现代派生链。",
+    "branches": [
+      [
+        "完整与程度",
+        "whole · wholly · wholeness"
+      ],
+      [
+        "有益与投入",
+        "wholesome · wholehearted"
+      ],
+      [
+        "整批、全谷物",
+        "wholesale · wholemeal"
+      ],
+      [
+        "较早同源分支",
+        "health · holy"
+      ]
+    ],
+    "contrasts": "wholly／holy：常同音，前者完全地，后者神圣的。wholemeal：meal 是谷物粉。wholesale：整批销售，延伸为大规模。",
+    "practice": "The whole family enjoyed a wholesome meal made with wholemeal bread.\n\n全家享用了一顿搭配全麦面包的健康饭食。",
+    "words": [
+      "whole",
+      "wholly",
+      "wholeness",
+      "wholesome",
+      "wholehearted",
+      "wholesale",
+      "wholemeal",
+      "health",
+      "holy"
+    ],
+    "exclude": {
+      "whole-time": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whole-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whole-footed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2411",
+    "meaning": "自由、不受束缚；免费、空闲",
+    "core": "FREE：看具体少了哪一种约束",
+    "image": "手里没被绑住，日程没被占满，账单没有收费；free 的不同义来自不同限制。",
+    "intro": "free 接古英语 frēo 等形式，更早历史还与亲爱、自身群体等词义有关；现代学习先抓不受某种束缚，不把更早的关联编成单一因果故事。",
+    "forms": "先看 free、freedom、freely；身份上有 freeman、freeborn，活动形式上有 freestyle、freelance，生活科技中有 freebie、freestanding、freeware、freehand。每个词都要问“免除了什么”，不是全部解释成免费。freemason、freestone 涉及专门历史或专业用法，本页先不展开。\n\nfree 承古英语自由、不受束缚的材料，也作使自由动词；过去词尾完整为 -ed，拼写与词末 e 合并成 freed，不误说 free 的长元音中有一个独立不发音 e。\n\nfreedom 承古英语 freodom，free 加 -dom 表状态、范围。现代复数常数不同方面的自由，不必一律作不可数。",
+    "branches": [
+      [
+        "自由、方式与身份",
+        "free · freedom · freely · freeman · freeborn"
+      ],
+      [
+        "活动与工作形式",
+        "freestyle · freelance"
+      ],
+      [
+        "免费与不依附",
+        "freebie · freeware · freestanding · freeway"
+      ],
+      [
+        "动作与评价",
+        "freefall · freehand · freeloader"
+      ],
+      [
+        "free → freed：解除束缚、释放空间",
+        "freed"
+      ],
+      [
+        "free 自由 + -dom 状态 → freedoms",
+        "freedoms"
+      ]
+    ],
+    "contrasts": "freelance 是自由职业，不是工作免费。freeman／freedman：自由身份与获释经历。freeware 免费使用不自动等于开放源码。",
+    "practice": "The freelance designer sketched freely, drawing the first idea freehand.\n\n这位自由设计师放开手画草图，徒手勾出了第一个想法。",
+    "words": [
+      "free",
+      "freedom",
+      "freely",
+      "freeman",
+      "freeborn",
+      "freestyle",
+      "freelance",
+      "freebie",
+      "freestanding",
+      "freeware",
+      "freefall",
+      "freehand",
+      "freeloader",
+      "freeway",
+      "freed",
+      "freedoms"
+    ],
+    "exclude": {
+      "half-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "free-mix": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "free-hanging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "free-bleeding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "free-flowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "freemason": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "freestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

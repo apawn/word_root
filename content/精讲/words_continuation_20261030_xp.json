@@ -1,0 +1,308 @@
+[
+  {
+    "word": "appeal",
+    "ipa": "/əˈpiːl/",
+    "meaning": "呼吁、请求；上诉；吸引力；使感兴趣",
+    "sense": "把希望得到回应的话朝对方送过去，是 appeal 的呼求画面；东西仿佛在招呼你，让你愿意靠近，就形成吸引力的用法。后一个画面帮助理解，实际意义变化有历史过程。",
+    "split": "名词、动词经古法语 apel、apeler 等借入，接拉丁 appellāre 呼唤、对某人说、请求，较早关联 ad- 向与 pellere 推、驱动的词族，ad- 在 p 前呈 ap-。理解现代词义时先抓呼求这一中间层。",
+    "history": [
+      [
+        "拉丁 appellāre → 法语 apel／apeler → 英语 appeal",
+        "呼唤、求助 → 请求、更高权威复核"
+      ],
+      [
+        "英语 appeal 的后续发展",
+        "希望得到回应 → 引起兴趣、吸引力"
+      ]
+    ],
+    "explanation": "appeal for help 呼吁援助；appeal against a decision 对决定提出上诉；appeal to young readers 吸引年轻读者；have broad appeal 有广泛吸引力。",
+    "usage": "make an appeal；appeal to someone for support。",
+    "contrast": "appeal to someone 看向谁呼求，或吸引谁；appeal for something 看请求什么。法律语境的 appeal 则说请求复核原有决定。",
+    "examples": [
+      [
+        "The charity made an appeal for warm clothes.",
+        "这家慈善机构呼吁捐赠保暖衣物。"
+      ],
+      [
+        "The idea of a quiet weekend really appeals to me.",
+        "安静度过周末这个想法很吸引我。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appeal#English",
+      "https://www.etymonline.com/word/appeal"
+    ]
+  },
+  {
+    "word": "appeals",
+    "ipa": "/əˈpiːlz/",
+    "meaning": "呼吁、请求、上诉〔复数〕；吸引、呼求〔第三人称单数〕",
+    "sense": "一声声请求、一次次上诉，是名词 appeals；某个事物让一个人愿意关注，也能说它 appeals to 那个人。",
+    "split": "appeal + -s，/l/ 后读 /z/。词基经法语接拉丁 appellāre 呼唤、请求，英语后有吸引兴趣、获得回应的分支。",
+    "history": [
+      [
+        "拉丁呼唤、请求词族 → 法语 → appeal",
+        "呼求、上诉；后来有吸引力"
+      ],
+      [
+        "appeal + -s → appeals",
+        "多个请求、上诉；单数主语呼求或吸引"
+      ]
+    ],
+    "explanation": "appeals for donations 募捐呼吁；hear appeals 审理上诉；appeals to families 吸引家庭客群；appeals to common sense 诉诸常识。",
+    "usage": "repeated appeals；appeals to a wide audience。",
+    "contrast": "appeals to emotion 常说诉诸情感，希望借情感获得回应；appeals to readers 常说吸引读者。同一结构需要结合主语与上下文理解。",
+    "examples": [
+      [
+        "The simple design appeals to people of all ages.",
+        "这个简洁设计吸引各个年龄段的人。"
+      ],
+      [
+        "Their appeals for help received a quick response.",
+        "他们求助的呼吁很快得到了回应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appeals#English",
+      "https://en.wiktionary.org/wiki/appeal#English"
+    ]
+  },
+  {
+    "word": "appealed",
+    "ipa": "/əˈpiːld/",
+    "meaning": "呼吁过；提出了上诉；曾吸引、引起兴趣；appeal 的过去式和过去分词",
+    "sense": "回头说曾向人求助、曾要求复核，或某个想法当时很合心意，就可以用 appealed。",
+    "split": "appeal + -ed，/l/ 后词尾读 /d/，不增加音节。appeal 经法语承接拉丁呼唤、请求词族，现代规则变化为 appealed。",
+    "history": [
+      [
+        "法语相关借词 → appeal",
+        "呼求、上诉；吸引兴趣"
+      ],
+      [
+        "appeal + -ed → appealed",
+        "过去呼求、上诉；当时有吸引力"
+      ]
+    ],
+    "explanation": "appealed for calm 呼吁保持冷静；appealed against the ruling 对裁决提出上诉；appealed to me 当时吸引我。",
+    "usage": "has appealed；appealed directly to the audience。",
+    "contrast": "appealed for something 说明请求的内容；appealed to someone 可说向其求助，也可说对其有吸引力。上诉结构在不同英语地区可见 appeal a decision 或 appeal against a decision。",
+    "examples": [
+      [
+        "The organizers appealed for more volunteers.",
+        "组织者呼吁更多志愿者加入。"
+      ],
+      [
+        "The chance to work outdoors appealed to her.",
+        "能在户外工作的机会很吸引她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appealed#English",
+      "https://en.wiktionary.org/wiki/appeal#English"
+    ]
+  },
+  {
+    "word": "appealing",
+    "ipa": "/əˈpiːlɪŋ/",
+    "meaning": "有吸引力的、让人想要的；恳求的；正在呼吁、上诉",
+    "sense": "一种东西看起来让你想靠近、想拥有，就是 appealing；它还保留恳求、希望别人回应的用法。",
+    "split": "appeal + -ing，既是动词形式，也形成分词形容词。appeal 的呼求、请求历史在前，appealing 后来又广用于使人感兴趣、令人喜欢的性质。",
+    "history": [
+      [
+        "appeal 的呼求、请求义 → appealing 分词及形容词",
+        "正在请求；带恳求意味"
+      ],
+      [
+        "appealing 的形容词分支扩展",
+        "让人愿意回应 → 有吸引力、令人喜欢"
+      ]
+    ],
+    "explanation": "an appealing idea 吸引人的想法；an appealing smile 让人喜欢的笑容；an appealing look 恳求或惹人喜爱的神情；is appealing for help 正在呼吁援助。",
+    "usage": "visually appealing；an appealing alternative。",
+    "contrast": "an appealing plan 形容计划吸引人；They are appealing for help 是进行中的求助。appealing 在物品、设计语境更常是有吸引力的，神情语境有时保留恳求意味。",
+    "examples": [
+      [
+        "A free afternoon in the garden sounds very appealing.",
+        "在花园里悠闲地待一个下午，听起来很诱人。"
+      ],
+      [
+        "The group is appealing for volunteers to help with the repairs.",
+        "这个团体正在呼吁志愿者协助修缮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appealing#English",
+      "https://www.etymonline.com/word/appealing"
+    ]
+  },
+  {
+    "word": "repeal",
+    "ipa": "/rɪˈpiːl/",
+    "meaning": "废止、撤销〔法律、规定〕；废止这一行为",
+    "sense": "原来发布、施行的规则，现在正式收回、使它不再有效，就是 repeal。“叫回来”是它历史上很直观的画面。",
+    "split": "经盎格鲁法语 repeler、古法语 rapeler 的叫回来、撤回义借入；较早含 re- 回与 apeler 呼唤，后者和 appeal 同族。这是较早法语内部的组合，经借入成为英语 repeal。",
+    "history": [
+      [
+        "法语 re- 回 + apeler 呼唤 → rapeler／repeler",
+        "叫回来、撤回"
+      ],
+      [
+        "英语 repeal 动词、名词",
+        "废止、撤销；废止行为"
+      ]
+    ],
+    "explanation": "repeal a law 废止法律；repeal a regulation 撤销规定；the repeal of an old law 一部旧法的废止。",
+    "usage": "call for repeal；vote to repeal the rule。",
+    "contrast": "repeal 强调正式使已有法律、规则失效；appeal 在法律语境多说请求复核决定。repel /rɪˈpel/ 则是排斥、击退，拼写、元音和词义都要分开。",
+    "examples": [
+      [
+        "The council voted to repeal the old regulation.",
+        "议会投票决定废止那项旧规定。"
+      ],
+      [
+        "The book explains the repeal of the law and its effects.",
+        "这本书解释了该法的废止及其影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/repeal#English",
+      "https://www.etymonline.com/word/repeal"
+    ]
+  },
+  {
+    "word": "repealed",
+    "ipa": "/rɪˈpiːld/",
+    "meaning": "已经废止、撤销；repeal 的过去式和过去分词",
+    "sense": "一项原本有效的法律、规则，后来被正式收回、不再施行，就可以说 was repealed。",
+    "split": "repeal + -ed，/l/ 后过去词尾读 /d/。repeal 经法语的叫回来、撤回词族传入；repealed 按英语规则形成过去形式。",
+    "history": [
+      [
+        "法语叫回来、撤回词族 → repeal",
+        "撤回规定、废止"
+      ],
+      [
+        "repeal + -ed → repealed",
+        "已经撤销、废止；被废止的"
+      ]
+    ],
+    "explanation": "was repealed 被废止；a repealed law 已废止的法律；has been repealed 已经被废止。",
+    "usage": "later repealed；repealed by a new act。",
+    "contrast": "was repealed 常以规则、法律为主语，说它被正式废止；revised 只说修订，并不必然表示整项废止。过去分词 repealed 也能放在名词前。",
+    "examples": [
+      [
+        "The old rule was repealed after the review.",
+        "复审后，那项旧规则被废止了。"
+      ],
+      [
+        "The article compares the repealed law with the new one.",
+        "文章比较了已废止的旧法和新法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/repealed#English",
+      "https://en.wiktionary.org/wiki/repeal#English"
+    ]
+  },
+  {
+    "word": "repealing",
+    "ipa": "/rɪˈpiːlɪŋ/",
+    "meaning": "正在废止、撤销；废止这一行为；repeal 的 -ing 形式",
+    "sense": "把正式收回一项法律、规定当作正在做的事，或作为讨论中的一种行动，就是 repealing。",
+    "split": "repeal + -ing，直接加，保留 l。较早的 re- 回与法语 apeler 呼唤构成叫回来、撤回的词族，借入英语后形成规则 -ing 形式。",
+    "history": [
+      [
+        "法语撤回词族 → 英语 repeal",
+        "叫回来 → 废止已有规定"
+      ],
+      [
+        "repeal + -ing → repealing",
+        "废止的动作；正在撤销"
+      ]
+    ],
+    "explanation": "repealing the law 废止这部法律；consider repealing 考虑废止；a bill repealing the rule 废止该规定的法案。",
+    "usage": "debate repealing a regulation；the effects of repealing the law。",
+    "contrast": "repealing 在 consider、discuss、介词后可表示废止这件事；is repealing 交代进行中的动作。replacing 是以另一个东西替换，repealing 强调使旧规定失效。",
+    "examples": [
+      [
+        "The committee discussed repealing the outdated rule.",
+        "委员会讨论了废止那项过时规定的问题。"
+      ],
+      [
+        "The chapter examines the effects of repealing the law.",
+        "这一章分析了废止该法带来的影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/repealing#English",
+      "https://en.wiktionary.org/wiki/repeal#English"
+    ]
+  },
+  {
+    "word": "stadium",
+    "ipa": "/ˈsteɪdiəm/",
+    "meaning": "体育场；大型有看台的比赛场地",
+    "sense": "中间比赛，周围有成排看台让人观看的场地，就是 stadium。名字的早期画面连接跑道与用来量长度的一个单位。",
+    "split": "借拉丁 stadium，来自希腊 stádion，早有长度单位、跑道等义；现代拼写保留拉丁化 -ium，不能按近代金属命名来解释。希腊词更早来源有不同分析，和表示固定、站立的词族是否直接相接并无一致结论。",
+    "history": [
+      [
+        "希腊 stádion → 拉丁 stadium",
+        "长度单位；相应长度的跑道"
+      ],
+      [
+        "拉丁形式进入英语，拼写后有再拉丁化",
+        "跑道、竞赛场 → 有看台的大型体育场"
+      ]
+    ],
+    "explanation": "a football stadium 足球场；an Olympic stadium 奥林匹克体育场；a packed stadium 坐满观众的体育场。",
+    "usage": "enter the stadium；the stadium’s main entrance。",
+    "contrast": "stadium 常强调比赛场地及观众看台的整体；arena 可说表演、比赛场地，现代也常指室内场馆，具体名称有重合。复数 stadiums 很常用，stadia 也存在。",
+    "examples": [
+      [
+        "The crowd began to enter the stadium an hour before the match.",
+        "比赛开始前一小时，观众开始进入体育场。"
+      ],
+      [
+        "The stadium has seats on all four sides of the pitch.",
+        "这座体育场在球场四周都有看台座位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stadium#English",
+      "https://www.etymonline.com/word/stadium"
+    ]
+  },
+  {
+    "word": "stadiums",
+    "ipa": "/ˈsteɪdiəmz/",
+    "meaning": "体育场〔stadium 的复数〕",
+    "sense": "把一座座设有观众看台的比赛场地放在一起说，就是 stadiums。",
+    "split": "stadium + -s，/m/ 后读 /z/。单数经拉丁 stadium 接希腊 stádion；英语复数 stadiums 直接加 s，另有保留古典变化的 stadia。",
+    "history": [
+      [
+        "希腊跑道、长度单位词 → 拉丁 stadium → 英语 stadium",
+        "跑道 → 体育场"
+      ],
+      [
+        "stadium + -s → stadiums",
+        "多座体育场"
+      ]
+    ],
+    "explanation": "large stadiums 大型体育场；football stadiums 足球场；stadiums across the country 全国各地的体育场。",
+    "usage": "two stadiums near the city；stadiums with covered seating。",
+    "contrast": "stadiums 和 stadia 都可作复数，日常无需一见 -ium 就把所有词强行套成 -a。比如元素名、普通物质名是否可数、怎样变复数，要看具体词。",
+    "examples": [
+      [
+        "The tournament used stadiums in three different cities.",
+        "这项锦标赛使用了三个不同城市的体育场。"
+      ],
+      [
+        "Both stadiums are easy to reach by train.",
+        "这两座体育场都很方便坐火车前往。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stadiums#English",
+      "https://en.wiktionary.org/wiki/stadium#English"
+    ]
+  }
+]

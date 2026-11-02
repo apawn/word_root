@@ -1,0 +1,124 @@
+[
+  {
+    "id": "B3553",
+    "meaning": "发展、成长、开发与进展",
+    "core": "DEVELOPMENT：从没展开到逐步成形",
+    "image": "想象折着的东西慢慢展开；发展既可能是成长，也可能是局面冒出新变化。",
+    "intro": "develop 经法语保留展开的历史画面，development 是相应过程、结果名词。现代很多用法已固定，不要把每一次发展都解释成进步。",
+    "forms": "development → developmental；re- 重新开发 → redevelopment；under- 发展不足 → underdevelopment。\n\ndevelop 接法语解开包裹，ment 名词亦与法语对应；复数可指新情况或开发项目。\n\n法语解开包裹材料，更远来源未定；s 后读 ps。",
+    "branches": [
+      [
+        "发展及阶段",
+        "development · developmental"
+      ],
+      [
+        "重新开发与发展不足",
+        "redevelopment · underdevelopment"
+      ],
+      [
+        "development → developments：展开的过程与新进展",
+        "develop · development · developments"
+      ],
+      [
+        "develop → develops：展开潜能、逐渐形成",
+        "develop · develops"
+      ]
+    ],
+    "contrasts": "development 不总是 improvement；underdevelopment 与 under development 要分开认。",
+    "practice": "The redevelopment plan is still under development.\n\n这份重新开发方案仍在制定中。",
+    "words": [
+      "development",
+      "developmental",
+      "redevelopment",
+      "underdevelopment",
+      "develop",
+      "developments",
+      "develops"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3783",
+    "meaning": "个人的、私人的；个性与定制",
+    "core": "PERSONAL：落到具体这个人身上",
+    "image": "从人人一样的一套，切换到这个人的意见、性格、需要与私人范围。",
+    "intro": "personal 经法语接拉丁语 persōnālis，与 person 属同族。先分清个人的、性格、按个人定制，再看人与人之间的 interpersonal。不把 persona 更远来源的争议编成确定故事。",
+    "forms": "personal → personally、impersonal、personality；personal → personalize → personalization；interpersonal 看人与人之间。\n\n法语、拉丁名词借入；英语 y 改 i 加 es。",
+    "branches": [
+      [
+        "个人与非个人",
+        "personal · personally · impersonal"
+      ],
+      [
+        "性格",
+        "personality"
+      ],
+      [
+        "个性化定制",
+        "personalize · personalization"
+      ],
+      [
+        "人与人之间",
+        "interpersonal · transpersonal"
+      ],
+      [
+        "personality → personalities：性格与鲜明人物",
+        "personality · personalities"
+      ]
+    ],
+    "contrasts": "personal 不是 personnel 员工；personality 不是 personalization；impersonal 也不是 interpersonal。",
+    "practice": "Personally, I prefer a personal message to an impersonal reply.\n\n就我个人而言，我更喜欢专门写给我的信息，而非没有人情味的回复。",
+    "words": [
+      "personal",
+      "personally",
+      "impersonal",
+      "personality",
+      "personalize",
+      "personalization",
+      "interpersonal",
+      "transpersonal",
+      "personalities"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2421",
+    "meaning": "月；每月的、按月",
+    "core": "MONTH：用月划分时间",
+    "image": "从月亮周期的古老计时背景，走到今天日历上一格格的月份。",
+    "intro": "month 与 moon 历史相关，但现代日历月份不必严格等于月相周期。monthly 就把 month 变成每月发生、按月计算的表达。",
+    "forms": "month → monthly；-ly 在这里可成形容词，也可成副词，monthly 还可作月刊名词。\n\n本组仅为日历词汇阅读对照：month 是本族的月亮计时词，月份名分别借入拉丁、法语等命名传统，不能把它们都拆成 month 加后缀。每个月份按各自真实来源解释。",
+    "branches": [
+      [
+        "月份与按月",
+        "month · monthly"
+      ],
+      [
+        "日历语境对照：month 与十二个月份名〔月份名并非 month 的派生词〕",
+        "month · months · January · February · March · April · May · June · July · August · September · October · November · December"
+      ]
+    ],
+    "contrasts": "monthly 每月；twice monthly 每月两次；every two months 每两个月一次。",
+    "practice": "We pay monthly, on the first day of each month.\n\n我们按月付款，在每月第一天支付。",
+    "words": [
+      "month",
+      "monthly",
+      "months",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "exclude": {
+      "man-month": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

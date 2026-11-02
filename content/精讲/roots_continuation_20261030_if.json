@@ -1,0 +1,191 @@
+[
+  {
+    "id": "B4258",
+    "meaning": "防守性质、行事方式与人际防御反应",
+    "core": "DEFENSIVE：护住自己，可能是战术，也可能是态度",
+    "image": "defensive → defensively/defensiveness；前者性质，后两者分别说方式和反应状态。",
+    "intro": "防守在球场可完全中性；在交谈中则常指怕被批评、急着护自己。不能把所有 defensive 都只翻成防御工事。",
+    "forms": "defend 及相应历史词干 → defensive；defensive + -ly/-ness。",
+    "branches": [
+      [
+        "性质、方式与防御态度",
+        "defensive · defensively · defensiveness"
+      ]
+    ],
+    "contrasts": "defensiveness 不等于 defence 的所有意思；defensive tactics 可中性，defensive tone 常指戒备。",
+    "practice": "He spoke defensively, and his defensiveness distracted us from the facts.\n\n他说话很戒备，这种急于自辩的态度让我们偏离了事实。",
+    "words": [
+      "defensive",
+      "defensively",
+      "defensiveness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4049",
+    "meaning": "从免除义务到免疫保护，以及相关学科、过程",
+    "core": "IMMUNE：免于某种影响，但要问免于什么",
+    "image": "immune → immunity；immunize → immunization/immunisation；immunology 是研究学科；autoimmune 另指定自身免疫相关方向。",
+    "intro": "免除、保护是连接线。医学不是笼统无敌，法律也不是无条件免责；把保护对象、制度范围补出来，含义才完整。",
+    "forms": "in- 不 + mūnus 服务、义务 → immūnis；immūnitās → immunity；immune + -ize；immun- + -ology；auto- + immune。",
+    "branches": [
+      [
+        "豁免、保护与状态",
+        "immune · immunity"
+      ],
+      [
+        "使免疫及过程、拼写变体",
+        "immunize · immunization · immunisation"
+      ],
+      [
+        "研究学科与自身方向",
+        "immunology · autoimmune"
+      ]
+    ],
+    "contrasts": "immunity 状态、immunology 学科、immunization 过程；-s-/-z- 常是拼写差异；autoimmune 不是自动使一切都免疫。",
+    "practice": "The immunology course explains immunity before discussing immunization.\n\n免疫学课程先解释免疫，再讨论免疫接种。",
+    "words": [
+      "immune",
+      "immunity",
+      "immunize",
+      "immunization",
+      "immunisation",
+      "immunology",
+      "autoimmune"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3443",
+    "meaning": "原木、航海记录路线与堵塞比喻",
+    "core": "LOG：一根木头能连到航海日志，数学缩称另分",
+    "image": "log → logger；Web + log → weblog/blog；logjam 是原木拥塞比喻。backlog、changelog 又分别看积压和变更记录。",
+    "intro": "从木块测速到记录航行，再到一般日志，这条历史比只背日志直观；对数 log 则缩自另一个长词。",
+    "forms": "logge → 原木 log → 测速 log / logbook → 记录 log；log + -er/jam；Web + log；logarithm → log 另线。\n\n计算机登录、退出短语进入固定名词；记录支通过航海 logbook 联系木块用具，不接希腊 logos 或数学 log。\n\n合写名词与 log out 动作短语分开。\n\n与 login、logout 对应的计算机用语，具体系统术语会有习惯差别。\n\nlog 取记录义；混成近处接 video、blog。log 的原木义远源未定，这里沿日志、网络日志的用途连读。\n\n这里联系原木名词 log，早期像把船变成水里沉重木块；不是程序日志 log。更远 log 的来源有争论，不硬排北欧直接借入链。\n\n木材 log 远源不明；记录 log 原是 logbook 的短称，联系船用木片测速的旧方法。现代 logs 可数原木、日志，或表示记录动作；数学 log 又缩 logarithm。\n\nlog 原木远源不定；航海测速用木块的名称连到日志、记录用法。现代双写 g 加 -ing；伐木、记录、登录等要看对象与小词。\n\n日志 log 从航海测速、航海日志发展，另有伐木动词；现代双写 g 加 -ed，/ɡ/ 后读 /d/，logged in 是已登录。",
+    "branches": [
+      [
+        "原木、记录与记录角色",
+        "log · logger"
+      ],
+      [
+        "网络、变更记录与积压",
+        "weblog · changelog · backlog · logjam"
+      ],
+      [
+        "log 的记录支：log in、login 与 logout",
+        "log · login · logins · logout"
+      ],
+      [
+        "logout → logouts：退出登录事件",
+        "logout · logouts"
+      ],
+      [
+        "log on、log off 的合写事件名",
+        "log · logon · logoff"
+      ],
+      [
+        "日志 log → weblog、blog → vlog 的近代支线",
+        "log · blog · vlog · vlogs · vlogged · vlogging · vlogger · vloggers"
+      ],
+      [
+        "waterlogged 的 log：原木般沉重难动",
+        "log · waterlogged"
+      ],
+      [
+        "log → logs：原木与记录的联系",
+        "logs"
+      ],
+      [
+        "log 原木、记录 → logging",
+        "logging"
+      ],
+      [
+        "log 记录、原木 → logged",
+        "logged"
+      ]
+    ],
+    "contrasts": "logger 可是程序或工人；weblog 不等于所有网站；logjam 的 jam 是塞住；log 对数不从木头义演化。",
+    "practice": "The logger wrote the error to the log while a logjam delayed the remaining work.\n\n记录程序把错误写进日志，流程堵塞则拖延了其余工作。",
+    "words": [
+      "log",
+      "logger",
+      "weblog",
+      "changelog",
+      "backlog",
+      "logjam",
+      "login",
+      "logins",
+      "logout",
+      "logouts",
+      "logon",
+      "logoff",
+      "blog",
+      "vlog",
+      "vlogs",
+      "vlogged",
+      "vlogging",
+      "vlogger",
+      "vloggers",
+      "waterlogged",
+      "logs",
+      "logging",
+      "logged"
+    ],
+    "exclude": {
+      "log-burner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3083",
+    "meaning": "刀具、用刀动作和旧制笔工具",
+    "core": "KNIFE：工具名可作动作，读音保留历史变化",
+    "image": "knife → knifed；penknife 是旧时修整笔尖的小刀，后来成为随身小折刀名。",
+    "intro": "掌握 k 不发音、复数 knives 和过去式 knifed，读写就不容易照字母机械拼。动作也可进入风、光的文学比喻。",
+    "forms": "cnīf/knif 与北欧相关形式 → knife；knife → knives/knifed；pen + knife。\n\n名词复数写 knives，f 对应 v，开头 k 仍不发音；与动词 knifes 分开看。",
+    "branches": [
+      [
+        "工具及其动作变化",
+        "knife · knifed"
+      ],
+      [
+        "用途组合",
+        "penknife"
+      ],
+      [
+        "knife → knives：刀具的复数",
+        "knife · knives"
+      ]
+    ],
+    "contrasts": "knife 不读 k；knives 名词复数变 /v/，knifed 仍 /f/；penknife 不必外形像笔。",
+    "practice": "The old penknife lay beside two larger knives.\n\n旧小折刀放在两把较大的刀旁。",
+    "words": [
+      "knife",
+      "knifed",
+      "penknife",
+      "knives"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4458",
+    "meaning": "值得注意，或没有特别之处",
+    "core": "REMARKABLE：值得特意说一笔，反面便是普通",
+    "image": "remarkable → remarkably；unremarkable 不显眼、平常，不自动是坏。",
+    "intro": "remarkable 可以赞成就，也可说异常程度；unremarkable 则撤去特别显著的评价。语气和好坏由具体对象决定。",
+    "forms": "remark 与 -able 相关 → remarkable；remarkable → remarkably；un- + remarkable。",
+    "branches": [
+      [
+        "显著性质、程度与反面",
+        "remarkable · remarkably · unremarkable"
+      ]
+    ],
+    "contrasts": "remarkably 可修饰程度；unremarkable 不是无话可评，也不自动很差。",
+    "practice": "The building looked unremarkable outside but was remarkably bright inside.\n\n楼的外表不起眼，里面却格外明亮。",
+    "words": [
+      "remarkable",
+      "remarkably",
+      "unremarkable"
+    ],
+    "exclude": {}
+  }
+]

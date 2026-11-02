@@ -1,0 +1,37 @@
+[
+  {
+    "id": "B3942",
+    "meaning": "观察、暗中搜集信息，以及行为、负责人和软件器具",
+    "core": "SPY：观察可以是发现，也可以是秘密窥探",
+    "image": "spy → spying；spymaster 看指挥者；spyware 看程序；spyglass 看观察器具。",
+    "intro": "前半都保留观察的联系，后半说明人、过程、软件还是器具。spy 本身也有单纯看到的用法。",
+    "forms": "日耳曼语观察词源经古法语 espier、中古英语 espien／spien → spy；再与 -ing、master、-ware、glass 组合。\n\nspy 经法语与日耳曼观察、暗中看词族，现代 y 变 i 加 -es。间谍复数与第三人称察看、窥探同形。",
+    "branches": [
+      [
+        "人物、动作与过程",
+        "spy · spying · spymaster"
+      ],
+      [
+        "软件与观察器具",
+        "spyware · spyglass"
+      ],
+      [
+        "spy 察看 → spies",
+        "spies"
+      ]
+    ],
+    "contrasts": "spy on 与 spy a familiar face 语义不同；spyware 不等于所有 virus。",
+    "practice": "The spy novel follows a spymaster whose agents uncover spying through software.\n\n这部间谍小说讲述一位谍报首脑手下的特工发现软件监视活动。",
+    "words": [
+      "spy",
+      "spying",
+      "spymaster",
+      "spyware",
+      "spyglass",
+      "spies"
+    ],
+    "exclude": {
+      "co-spy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "word": "swallows",
+    "ipa": "英 /ˈswɒləʊz/；美 /ˈswɑːloʊz/",
+    "meaning": "吞咽、吞下、接受〔第三人称单数〕；燕子、一口量〔复数〕",
+    "sense": "食物咽进身体，是 swallows 的动词方向；天空里的 swallows 则是燕子。两者现代写法一样，不能用燕子会吞食来当历史词源。",
+    "split": "吞咽动词接古英语 swelgan，经中古英语 swolwen；鸟名另接古英语 swealwe、后来的 swalwe 等。现代都加 -s，词尾元音后读 /z/。",
+    "history": [
+      [
+        "古英语 swelgan → swallow 动词；另一支 swealwe → swallow 鸟名",
+        "吞下；燕子，两条近源"
+      ],
+      [
+        "各自加 -s → swallows",
+        "某人吞咽；多只燕子或几口量"
+      ]
+    ],
+    "explanation": "swallows the food 吞下食物；swallows a story 相信一个说法〔常带怀疑语气〕；swallows in the sky 空中的燕子。",
+    "usage": "a few swallows of water 几口水；swallows flying above the field 在田野上空飞的燕子。",
+    "contrast": "swallows 有三个常见判断口：后面接食物多半是动词，天空里飞的是鸟，a few swallows of 则是在数几口。",
+    "examples": [
+      [
+        "She swallows the last bite of bread.",
+        "她咽下最后一口面包。"
+      ],
+      [
+        "Swallows flew above the field.",
+        "燕子在田野上空飞翔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swallows#English",
+      "https://en.wiktionary.org/wiki/swallow#English"
+    ]
+  },
+  {
+    "word": "swallowed",
+    "ipa": "英 /ˈswɒləʊd/；美 /ˈswɑːloʊd/",
+    "meaning": "吞下了、咽下了；接受了、抑制住了、吞没了〔过去式、过去分词〕",
+    "sense": "把东西咽进去了，是 swallowed。把委屈、失望压回去不露出来，也像把它吞回身体；接受一个说法则像把话听进去。",
+    "split": "吞咽 swallow 接古英语 swelgan、中古英语 swolwen，后来有接受、抑制感情、吸收吞没等比喻。现代直接加完整 -ed，元音后读 /d/。",
+    "history": [
+      [
+        "古英语 swelgan → swallow",
+        "吞进身体 → 接受、压住感情、吞没"
+      ],
+      [
+        "swallow + -ed → swallowed",
+        "已经吞下；相关比喻已发生"
+      ]
+    ],
+    "explanation": "swallowed the food 吞下了食物；swallowed her disappointment 忍住失望；swallowed by darkness 被黑暗吞没。",
+    "usage": "swallowed the explanation 接受了那种解释；swallowed hard 用力咽了一下。",
+    "contrast": "swallowed a story 常有不加怀疑就信了的意味。swallowed disappointment 则说没有表现出来，不保证失望本身已消失。",
+    "examples": [
+      [
+        "He swallowed the last mouthful of water.",
+        "他咽下最后一口水。"
+      ],
+      [
+        "She swallowed her disappointment and congratulated the winner.",
+        "她忍住失望，向获胜者道贺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swallowed#English",
+      "https://en.wiktionary.org/wiki/swallow#English"
+    ]
+  },
+  {
+    "word": "swallowing",
+    "ipa": "英 /ˈswɒləʊɪŋ/；美 /ˈswɑːloʊɪŋ/",
+    "meaning": "吞咽、咽下；接受、忍住、吞没〔现在分词、动名词〕",
+    "sense": "东西正从嘴里被咽进去，是 swallowing。情绪被压回去、一个说法被接受，也能借吞下这个过程讲。",
+    "split": "吞咽支 swallow 继承古英语 swelgan，鸟名另源。现代直接加完整 -ing，保留 ow 的双元音，末尾不把 w 删掉。",
+    "history": [
+      [
+        "古英语吞咽动词 → swallow",
+        "吞下 → 相关接受、抑制、吞没比喻"
+      ],
+      [
+        "swallow + -ing → swallowing",
+        "正在吞咽、忍住或吞没"
+      ]
+    ],
+    "explanation": "swallowing food 吞咽食物；swallowing her anger 忍住怒气；swallowing the claim 相信那种说法。",
+    "usage": "the act of swallowing 吞咽动作；swallowing disappointment 忍住失望。",
+    "contrast": "swallowing a claim 是接受说法；swallowing disappointment 是把感受压住。两者都借吞进去的方向，但对象和实际含义不同。",
+    "examples": [
+      [
+        "The child was swallowing the last bite of bread.",
+        "孩子正咽下最后一口面包。"
+      ],
+      [
+        "Swallowing her anger, she answered calmly.",
+        "她忍住怒气，平静地回答。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swallowing#English",
+      "https://en.wiktionary.org/wiki/swallow#English"
+    ]
+  },
+  {
+    "word": "sucked",
+    "ipa": "/sʌkt/",
+    "meaning": "吸入了、吮吸了；吸走了、吸引住了〔过去式、过去分词〕",
+    "sense": "靠吸力把东西往里面带，是 sucked。故事把人吸进去、某件事把精力吸走，都能借这个方向来理解。",
+    "split": "suck 继承古英语 sūcan，经中古英语 souken 延续。现代直接加完整 -ed，/k/ 后读 /t/；词尾已有 ck，不额外双写 k。",
+    "history": [
+      [
+        "古英语 sūcan → 中古英语 souken → suck",
+        "用嘴吸入 → 吸取、吸引、耗走"
+      ],
+      [
+        "suck + -ed → sucked",
+        "已经吸入；相关吸引、消耗已经发生"
+      ]
+    ],
+    "explanation": "sucked through a straw 用吸管吸了；sucked in dust 吸进灰尘；sucked into the story 被故事吸引住。",
+    "usage": "sucked up water 吸起水；sucked the joy out of… 把……的乐趣都耗掉。",
+    "contrast": "sucked in 可以是物体被吸进去，也可以是人被吸引、被卷进去。判断被吸入的是什么，比死记一个中文词更有用。",
+    "examples": [
+      [
+        "The pump sucked water from the tank.",
+        "泵从水箱里吸出了水。"
+      ],
+      [
+        "The opening scene sucked me into the story.",
+        "开场那一幕一下把我吸引进故事里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sucked#English",
+      "https://en.wiktionary.org/wiki/suck#English"
+    ]
+  },
+  {
+    "word": "sucking",
+    "ipa": "/ˈsʌkɪŋ/",
+    "meaning": "吸、吮吸、吸走〔现在分词、动名词〕",
+    "sense": "一股吸力正把东西往里带，是 sucking。也能借吸走画面，说某个过程不断消耗精力、乐趣。",
+    "split": "suck 接古英语 sūcan 吸吮，后来扩大到吸取、耗走等用法。现代直接加完整 -ing，词尾 ck 保留，读 /kɪŋ/。",
+    "history": [
+      [
+        "古英语 sūcan → suck",
+        "吸入液体 → 吸取、耗走"
+      ],
+      [
+        "suck + -ing → sucking",
+        "正在吸、不断吸走"
+      ]
+    ],
+    "explanation": "sucking water from… 从……吸水；sucking up dust 吸走灰尘；sucking the fun out of… 耗掉……的乐趣。",
+    "usage": "a sucking sound 吸吮声；sucking through a straw 用吸管吸。",
+    "contrast": "sucking 不必总是嘴做动作，泵、吸尘器也能这样工作。抽象宾语 energy、fun 则表示某种好东西在被耗走。",
+    "examples": [
+      [
+        "The machine was sucking up dust from the floor.",
+        "机器正在吸走地板上的灰尘。"
+      ],
+      [
+        "The repeated delays were sucking the fun out of the trip.",
+        "一次次延误正在耗掉旅行的乐趣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sucking#English",
+      "https://en.wiktionary.org/wiki/suck#English"
+    ]
+  },
+  {
+    "word": "spills",
+    "ipa": "/spɪlz/",
+    "meaning": "洒出、溢出、泄露〔第三人称单数〕；洒漏、溢出物〔复数〕",
+    "sense": "东西越过原来容器的边界，散到外面，是 spills。水会洒出，人群、灯光也能像流体一样从门口涌出来。",
+    "split": "spill 继承古英语 spillan、spildan，早期有毁坏、浪费等义，中古英语 spillen 延续，现代洒出义常见。加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 spillan、spildan → spill",
+        "毁坏、浪费等 → 洒出、散出"
+      ],
+      [
+        "spill + -s → spills",
+        "某物溢出；多次洒漏、溢出物"
+      ]
+    ],
+    "explanation": "spills the water 把水洒了；small spills 少量洒漏；light spills through the door 灯光从门口泻出。",
+    "usage": "spills out 涌出、洒出；spills a secret 泄露秘密。",
+    "contrast": "spills 可以是人使东西洒出，也可以是液体自己溢出。spill a secret 把内容漏出去，和水越过边界的画面相连。",
+    "examples": [
+      [
+        "Water spills over the edge of the bowl.",
+        "水从碗边溢出来。"
+      ],
+      [
+        "The cloth is useful for wiping up small spills.",
+        "这块布适合擦掉少量洒出的液体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spills#English",
+      "https://en.wiktionary.org/wiki/spill#English"
+    ]
+  },
+  {
+    "word": "spilled",
+    "ipa": "/spɪld/",
+    "meaning": "洒出了、泼洒了；泄露了、涌出了〔过去式、过去分词〕",
+    "sense": "东西已经越过容器边缘、散到外面，是 spilled。人群突然涌出、秘密被说漏，也有同样从里面跑出来的感觉。",
+    "split": "spill 接古英语毁坏、浪费词族，现代洒出义成为常见。直接加完整 -ed，/l/ 后读 /d/；另有 spilt /spɪlt/，两种过去形式都常见。",
+    "history": [
+      [
+        "古英语 spillan、spildan → spill",
+        "旧毁坏、浪费义 → 洒出、泄露等"
+      ],
+      [
+        "spill + -ed → spilled；亦用 spilt",
+        "已经洒出、涌出或泄露"
+      ]
+    ],
+    "explanation": "spilled water 洒出的水；spilled into the street 涌上街道；spilled the secret 说漏了秘密。",
+    "usage": "spilled across the table 洒满桌面；spilled out of the room 从屋里涌出。",
+    "contrast": "spilled 和 spilt 在洒出等普通用法里可对应，美式更常用 spilled，英式两种都用。不是两种不同液体动作。",
+    "examples": [
+      [
+        "He spilled water across the table.",
+        "他把水洒了一桌。"
+      ],
+      [
+        "The audience spilled into the street after the concert.",
+        "音乐会后，观众涌上街道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spilled#English",
+      "https://en.wiktionary.org/wiki/spill#English"
+    ]
+  },
+  {
+    "word": "spilling",
+    "ipa": "/ˈspɪlɪŋ/",
+    "meaning": "洒出、溢出、涌出；泄露〔现在分词、动名词〕",
+    "sense": "容器装不住，里面的东西正往外散，是 spilling。消息也能像液体一样被漏出去，形成泄露用法。",
+    "split": "spill 继承古英语 spillan、spildan，经中古英语 spillen 延续。现代直接加完整 -ing，词干已经双 l，不再多加一个 l。",
+    "history": [
+      [
+        "古英语相关词 → spill",
+        "毁坏、浪费等旧义；现代洒出、涌出"
+      ],
+      [
+        "spill + -ing → spilling",
+        "正在往外洒、溢出或泄露"
+      ]
+    ],
+    "explanation": "spilling water 洒水；spilling over 溢出；spilling into the hall 涌进大厅。",
+    "usage": "spilling a secret 泄密；spilling out of the bag 从袋里散出来。",
+    "contrast": "spilling 常突出从边界往外跑的过程。spilling over 还可比喻某种影响超出原范围，不要求真的有水。",
+    "examples": [
+      [
+        "Water was spilling over the rim of the bucket.",
+        "水正从桶沿溢出。"
+      ],
+      [
+        "Light was spilling through the open door.",
+        "灯光正从敞开的门口泻出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spilling#English",
+      "https://en.wiktionary.org/wiki/spill#English"
+    ]
+  },
+  {
+    "word": "bends",
+    "ipa": "/bendz/",
+    "meaning": "弯曲、转弯、变通〔第三人称单数〕；弯道、弯曲处〔复数〕",
+    "sense": "原来直着的线往一边拐，是 bends。道路会转弯，材料会变形，规则被稍作变通也借这个弯过去的画面。",
+    "split": "bend 接古英语 bendan 给弓上弦、使弯，与 bind 等绑束词族有关。现代加 -s，/d/ 后读 /z/，名词复数与动词三单同形。",
+    "history": [
+      [
+        "古英语 bendan → bend",
+        "上弓弦、使弯 → 弯曲、改变方向"
+      ],
+      [
+        "bend + -s → bends",
+        "某物弯曲；多处弯道、弯折"
+      ]
+    ],
+    "explanation": "the road bends 道路转弯；sharp bends 急弯；bends the rules 对规则作变通。",
+    "usage": "bends to the left 向左拐；bends in the river 河道弯曲处。",
+    "contrast": "bends the rules 说放松、调整规则的严格执行，常带没有完全照章办的意味。物理形状和抽象标准都在发生弯曲。",
+    "examples": [
+      [
+        "The road bends to the left beyond the bridge.",
+        "过桥后道路向左转。"
+      ],
+      [
+        "The path has several sharp bends.",
+        "小路有几处急弯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bends#English",
+      "https://en.wiktionary.org/wiki/bend#English"
+    ]
+  },
+  {
+    "word": "bending",
+    "ipa": "/ˈbendɪŋ/",
+    "meaning": "弯曲、弯身、使变形；变通〔现在分词、动名词〕",
+    "sense": "直的东西正在弯过去，或人把身体弯下来，是 bending。也能借弯曲说让原来硬直的要求稍作变通。",
+    "split": "bend 继承古英语 bendan 的使弯、上弓弦材料。现代直接加完整 -ing；过程形式用原词 bend，不用过去式、分词 bent。",
+    "history": [
+      [
+        "古英语 bendan → bend",
+        "使弯、弯下 → 方向与标准的变化"
+      ],
+      [
+        "bend + -ing → bending",
+        "正在弯曲、弯身或变通"
+      ]
+    ],
+    "explanation": "bending over the map 弯身看地图；bending under the weight 被重量压弯；bending the rules 变通规则。",
+    "usage": "bending a wire 弯金属丝；bending gently 轻轻弯曲。",
+    "contrast": "bending 可以是自己弯，也可以是使另一样东西弯。bending over 常说身体前倾，后面的对象说明在俯身看、做什么。",
+    "examples": [
+      [
+        "The branch was bending under the snow.",
+        "树枝被积雪压弯了。"
+      ],
+      [
+        "She was bending over the map when we entered.",
+        "我们进来时，她正俯身看地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bending#English",
+      "https://en.wiktionary.org/wiki/bend#English"
+    ]
+  },
+  {
+    "word": "bites",
+    "ipa": "/baɪts/",
+    "meaning": "咬、叮、产生刺痛或影响〔第三人称单数〕；咬痕、一口量〔复数〕",
+    "sense": "牙齿切入、夹住东西，是 bites。被咬留下的痕迹、吃下去的一口量也能这样数；风、寒意等则借刺进去的感觉表达。",
+    "split": "bite 继承古英语 bītan，经中古英语 biten 延续。现代直接加 -s，/t/ 后读 /s/；过去式另是 bit，分词是 bitten。",
+    "history": [
+      [
+        "古英语 bītan → bite",
+        "用牙切开、咬住 → 咬痕、一口量及刺痛比喻"
+      ],
+      [
+        "bite + -s → bites",
+        "某物咬、刺；多处咬痕或几口量"
+      ]
+    ],
+    "explanation": "bites the apple 咬苹果；small bites 小口、一小口一小口；insect bites 虫咬痕。",
+    "usage": "takes two bites 咬两口；the cold bites 寒气刺骨。",
+    "contrast": "bites 作名词可以说动作、痕迹或一口的量。a bite to eat 还可说少量吃的东西，不必是某个咬痕。",
+    "examples": [
+      [
+        "She bites into the apple.",
+        "她咬了一口苹果。"
+      ],
+      [
+        "He finished the sandwich in three bites.",
+        "他三口吃完了三明治。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bites#English",
+      "https://en.wiktionary.org/wiki/bite#English"
+    ]
+  },
+  {
+    "word": "tearing",
+    "ipa": "撕裂：英 /ˈteərɪŋ/、美 /ˈterɪŋ/；流泪：英 /ˈtɪərɪŋ/、美 /ˈtɪrɪŋ/",
+    "meaning": "撕扯、撕裂；流泪、泛泪〔现在分词、动名词〕",
+    "sense": "把纸扯开，是 tearing 的撕裂读法；眼睛泛起泪水，尤其 tearing up，则用眼泪那条读法。拼写一样，声音和来源分开。",
+    "split": "撕裂动词接古英语 teran；眼泪词接古英语 tear、teor，后有流泪动词，与拉丁 lacrima 是远同族而非直接借入。现代两条动词都直接加完整 -ing。",
+    "history": [
+      [
+        "古英语 teran → tear 撕裂；另支 tear、teor → tear 眼泪、流泪",
+        "两条来源，两套读音"
+      ],
+      [
+        "各自 tear + -ing → tearing",
+        "正在撕开；正在泛泪"
+      ]
+    ],
+    "explanation": "tearing paper 撕纸〔/teər/ 一支〕；tearing a page out 撕下一页；eyes tearing up 眼里泛泪〔/tɪər/ 一支〕。",
+    "usage": "tearing apart 扯开；tearing up at a song 听歌时泛起泪水。",
+    "contrast": "tearing up a letter 是把信撕碎；tearing up while reading 是读着读着眼泛泪水。前者有被撕的对象，后者常说人的反应，读音也随之变化。",
+    "examples": [
+      [
+        "He was tearing the paper into strips.",
+        "他正把纸撕成条。"
+      ],
+      [
+        "Her eyes were tearing up as the song ended.",
+        "歌曲结束时，她的眼里泛起了泪水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tearing#English",
+      "https://en.wiktionary.org/wiki/tear#English",
+      "https://www.merriam-webster.com/dictionary/tear"
+    ]
+  },
+  {
+    "word": "melted",
+    "ipa": "/ˈmeltɪd/",
+    "meaning": "熔化了、融化了；软化了、消散了〔过去式、过去分词〕",
+    "sense": "原来硬着、结成块的东西变成液体，是 melted。怒气、紧张不再硬撑在那里，也能说像冰一样化开了。",
+    "split": "英语 melt 合流古英语 meltan 自己融化与 mieltan 使融化的旧形式，现代兼顾两种方向。直接加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "古英语 meltan、mieltan → melt",
+        "自己化开、使化开 → 一个英语动词兼两种方向"
+      ],
+      [
+        "melt + -ed → melted",
+        "已经熔化；情绪等软化、消散"
+      ]
+    ],
+    "explanation": "melted butter 熔化的黄油；melted the ice 使冰融化；anger melted away 怒气消散了。",
+    "usage": "melted chocolate 熔化的巧克力；melted into the crowd 融入、消失在人群里。",
+    "contrast": "melted 可以自己融化，也可以被某物融化。与 dissolved 的溶进另一种介质不同，melt 更常说物质变成液体。",
+    "examples": [
+      [
+        "The sun melted the thin layer of ice.",
+        "太阳把薄冰融化了。"
+      ],
+      [
+        "Her anger melted away when she heard the explanation.",
+        "听到解释后，她的怒气渐渐消散了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melted#English",
+      "https://en.wiktionary.org/wiki/melt#English"
+    ]
+  },
+  {
+    "word": "melting",
+    "ipa": "/ˈmeltɪŋ/",
+    "meaning": "熔化、融化；软化、消散〔现在分词、动名词〕",
+    "sense": "冰、蜡、黄油正从硬块化成能流动的状态，是 melting。用在人或气氛上，则常说防备、紧张慢慢松软下来。",
+    "split": "melt 接古英语 meltan、mieltan 两套相关动词的合流。现代直接加完整 -ing，保留词干 melt；形容词用法也能说柔和动人的。",
+    "history": [
+      [
+        "古英语自己融化、使融化材料 → melt",
+        "固体化开 → 情绪、态度变软"
+      ],
+      [
+        "melt + -ing → melting",
+        "正在化开、软化；相关性质用法"
+      ]
+    ],
+    "explanation": "melting ice 正在融化的冰；melting chocolate 熔化巧克力；a melting smile 温柔动人的微笑。",
+    "usage": "a melting point 熔点；tension melting away 紧张渐渐消散。",
+    "contrast": "melting point 的 melting 指熔化这件事，整组是一个性质名词。melting smile 则是让人心软的比喻，不是笑容真的成了液体。",
+    "examples": [
+      [
+        "The ice was melting in the afternoon sun.",
+        "冰在午后阳光下融化。"
+      ],
+      [
+        "The scene shows the tension slowly melting away.",
+        "这一幕展现了紧张气氛渐渐消散。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melting#English",
+      "https://en.wiktionary.org/wiki/melt#English"
+    ]
+  },
+  {
+    "word": "floats",
+    "ipa": "英 /fləʊts/；美 /floʊts/",
+    "meaning": "漂浮、浮动、提出想法〔第三人称单数〕；浮具、花车〔复数〕",
+    "sense": "不往下沉，而是被水、空气等托住，是 floats。游行花车缓缓移动、像漂过去一样；提出想法则像先把它放出来，让人考虑。",
+    "split": "float 动词继承古英语 flotian，名词有相关 flota 船、漂浮者等旧材料；现代发展浮具、花车及提出想法等义。加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "古英语 flotian、flota 等 → float 相关名动词",
+        "水上浮着、船 → 漂浮、浮具等"
+      ],
+      [
+        "float + -s → floats",
+        "某物漂浮、某人提出想法；多个花车、浮具"
+      ]
+    ],
+    "explanation": "floats on water 浮在水上；parade floats 游行花车；floats an idea 提出一个想法供考虑。",
+    "usage": "floats gently 轻轻漂动；fishing floats 钓鱼浮漂。",
+    "contrast": "floats an idea 不等于已经决定采用，常是先试探大家反应。花车、浮漂是具体名词，动词三单则描述动作。",
+    "examples": [
+      [
+        "The leaf floats on the water.",
+        "叶子浮在水上。"
+      ],
+      [
+        "The parade included several colourful floats.",
+        "游行中有几辆彩色花车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/floats#English",
+      "https://en.wiktionary.org/wiki/float#English"
+    ]
+  },
+  {
+    "word": "floated",
+    "ipa": "英 /ˈfləʊtɪd/；美 /ˈfloʊtɪd/",
+    "meaning": "漂浮了、漂过了；提出了〔过去式、过去分词〕",
+    "sense": "叶子顺着水面漂过去，是 floated；一个想法被先放出来、让大家看看，也是 floated。后者重心在试着提出。",
+    "split": "float 动词接古英语 flotian 的漂浮材料，相关名词有旧船、漂浮者来源。现代直接加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "古英语 flotian → float",
+        "浮着、漂移 → 让想法浮出来供讨论"
+      ],
+      [
+        "float + -ed → floated",
+        "已经漂浮、漂过；已经提出供考虑"
+      ]
+    ],
+    "explanation": "floated down the stream 顺溪流漂下；floated an idea 提出了一个想法；floated gently 轻轻漂着。",
+    "usage": "floated past the window 飘过窗外；floated a suggestion 提出建议供讨论。",
+    "contrast": "floated 的东西可能在水里，也可能在空中。想法 floated 只是进入讨论范围，不能直接当作最终决定。",
+    "examples": [
+      [
+        "A yellow leaf floated down the stream.",
+        "一片黄叶顺溪水漂下。"
+      ],
+      [
+        "She floated an idea for the next concert.",
+        "她提出一个关于下次音乐会的想法，供大家考虑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/floated#English",
+      "https://en.wiktionary.org/wiki/float#English"
+    ]
+  }
+]

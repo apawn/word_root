@@ -1,0 +1,353 @@
+[
+  {
+    "word": "principal",
+    "ipa": "/ˈprɪnsəpəl/",
+    "meaning": "主要的；校长、负责人；本金",
+    "sense": "一堆原因里领头的那个是 principal reason；学校里领头的人可以是 principal；一笔生息的钱，原本那一大块是 principal。",
+    "split": "经法语接拉丁 prīncipālis，来自 prīnceps 首领、居首者。后者历史材料与 prīmus 第一、capere 取得有关，现代不能硬切成 prin + cip + al 后逐个照字面翻。",
+    "history": [
+      [
+        "拉丁 prīnceps、词干 prīncip-",
+        "居首者、首领；材料与第一、取得有关"
+      ],
+      [
+        "拉丁 prīncipālis → 法语 principal → 英语 principal",
+        "居首、主要的；主要人物、主要金额"
+      ]
+    ],
+    "explanation": "the principal reason 主要原因，the school principal 校长，principal and interest 本金和利息。名词校长用法尤常见于美式英语。",
+    "usage": "the principal reason；a principal investigator；the school principal；principal and interest。",
+    "contrast": "principal 主要的、负责人、本金；principle 原则。两者通常同音，拼写靠意思分，不靠听音分。",
+    "examples": [
+      [
+        "The principal reason for the delay was bad weather.",
+        "延误的主要原因是天气恶劣。"
+      ],
+      [
+        "The payment covers interest but does not reduce the principal.",
+        "这笔付款偿付利息，但没有减少本金。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/principal"
+    ]
+  },
+  {
+    "word": "principally",
+    "ipa": "/ˈprɪnsəpəli/",
+    "meaning": "主要地、以……为主",
+    "sense": "不是说只有这一个原因，而是把分量最大、最居中的那项挑出来：主要是它。",
+    "split": "principal + -ly 的副词对应；中古英语已有相应形式。它接主要这支，不是校长本人做某事的专用副词。",
+    "history": [
+      [
+        "拉丁 prīnceps、词干 prīncip-",
+        "居首者、首领；材料与第一、取得有关"
+      ],
+      [
+        "拉丁 prīncipālis → 法语 principal → 英语 principal",
+        "居首、主要的；主要人物、主要金额"
+      ],
+      [
+        "principal + -ly → principally",
+        "以主要部分或原因而言 → 主要地"
+      ]
+    ],
+    "explanation": "principally because 主要因为，principally concerned with 主要涉及，principally used for 主要用于。比 mainly 稍正式。",
+    "usage": "principally because；principally concerned with；principally used for。",
+    "contrast": "principally 可换成 mainly 理解，in principle 是原则上；principally 不等于“根据原则地”。",
+    "examples": [
+      [
+        "The room is used principally for meetings.",
+        "这个房间主要用来开会。"
+      ],
+      [
+        "The delay was principally caused by missing documents.",
+        "延误主要由文件缺失造成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/principally#English"
+    ]
+  },
+  {
+    "word": "principality",
+    "ipa": "/ˌprɪnsɪˈpæləti/",
+    "meaning": "公国；君主、亲王统治的领地",
+    "sense": "沿着首领、统治者那一支走：先是统治者的地位、权力，再拿来叫他统治的那片地方。",
+    "split": "经法语 principalité 等接晚期拉丁 prīncipālitās，由 prīncipālis + 状态名词后缀形成。现代可对照 principal + -ity，但不是校长地盘，也不是 principle 原则的名词。",
+    "history": [
+      [
+        "拉丁 prīnceps、词干 prīncip-",
+        "居首者、首领；材料与第一、取得有关"
+      ],
+      [
+        "晚期拉丁 prīncipālitās → 法语 principalité",
+        "居首地位、君主权力"
+      ],
+      [
+        "英语 principality",
+        "统治权 → 相应领地、国家"
+      ]
+    ],
+    "explanation": "a small principality 小公国，the ruler of a principality 公国统治者。具体中文爵位译名要看历史制度，不能拿英语 prince 一律译成某国王子。",
+    "usage": "a small principality；the ruler of a principality。",
+    "contrast": "principality 是领地或国家名称类词，principal 是主要的或负责人；municipality 市镇、自治市另有来路。",
+    "examples": [
+      [
+        "The novel is set in a small mountain principality.",
+        "小说以一个山间小公国为背景。"
+      ],
+      [
+        "The map shows the boundaries of the former principality.",
+        "地图标出了昔日公国的疆界。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/principality"
+    ]
+  },
+  {
+    "word": "deniability",
+    "ipa": "/dɪˌnaɪəˈbɪləti/",
+    "meaning": "可否认性；能够否认知情或参与的余地",
+    "sense": "出了事，还能说“我不知道、我没参与”，而且一时难证明你说假话；这块回旋空间就是 deniability。",
+    "split": "deny → deniable → deniability；y 后接元音开头的派生材料改写 i，-able 对应 -ability 形成性质名词。不是说否认越大声就越有 deniability。",
+    "history": [
+      [
+        "拉丁 dēnegāre → 法语 denier → deny",
+        "否定、拒绝承认"
+      ],
+      [
+        "deny → deniable → deniability",
+        "能否认的 → 可否认性、否认余地"
+      ]
+    ],
+    "explanation": "plausible deniability 是还能提出看似可信的“不知情、未参与”说法；maintain deniability 保留否认余地。常见于政治、组织责任、小说情节。",
+    "usage": "plausible deniability；maintain deniability；a degree of deniability。",
+    "contrast": "denial 是否认这个行为或说法，deniability 是能否认的余地；plausible deniability 不证明一个人确实无辜。",
+    "examples": [
+      [
+        "The character avoids written orders to preserve deniability.",
+        "这个人物避免下书面命令，以保留否认的余地。"
+      ],
+      [
+        "The emails left the director with little deniability.",
+        "这些邮件让主管几乎没有否认的余地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deniability#English"
+    ]
+  },
+  {
+    "word": "quotable",
+    "ipa": "英 /ˈkwəʊtəbəl/；美 /ˈkwoʊtəbəl/",
+    "meaning": "值得引用的、适合摘引的",
+    "sense": "一句话短、准、醒目，别人一听就想拿来复述；quotable 常夸这种容易被记住、被引用的特点。",
+    "split": "quote 去末尾 e + -able，可供、值得被引用。这里的值得引用不保证内容就真实。",
+    "history": [
+      [
+        "拉丁 quotus → 中世纪拉丁 quotāre",
+        "第几个 → 编号、标出位置"
+      ],
+      [
+        "法语 coter 等 → 英语 quote",
+        "标出处 → 引用原话；报出价格"
+      ],
+      [
+        "quote + -able → quotable",
+        "可以、适合或值得引用的"
+      ]
+    ],
+    "explanation": "a quotable line 值得摘引的一句，highly quotable 很适合引用，quotable remarks 容易被摘引的话。",
+    "usage": "a quotable line；a quotable phrase；highly quotable。",
+    "contrast": "quotable 是适合引用，quoted 是已经被引用；一句话可以很 quotable，却还没人真的 quoted it。",
+    "examples": [
+      [
+        "The speech contained several quotable lines.",
+        "演讲里有几句很值得摘引的话。"
+      ],
+      [
+        "Her answer was brief, clear and highly quotable.",
+        "她的回答简短清楚，很适合被引用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/quotable#English"
+    ]
+  },
+  {
+    "word": "unquote",
+    "ipa": "英 /ˈʌnkwəʊt/；美 /ˈʌnkwoʊt/",
+    "meaning": "引文结束〔口头标记〕",
+    "sense": "写字能画右引号，说话看不到标点，于是直接说 unquote：刚才引的那段到此为止。",
+    "split": "un- + quote，和电报、口述时把引号读出来的习惯有关。quote 开引，unquote 关引；现代 quote unquote 连着说还可带怀疑、讽刺。",
+    "history": [
+      [
+        "拉丁 quotus → 中世纪拉丁 quotāre",
+        "第几个 → 编号、标出位置"
+      ],
+      [
+        "法语 coter 等 → 英语 quote",
+        "标出处 → 引用原话；报出价格"
+      ],
+      [
+        "quote / unquote 口述标点",
+        "开始引用 / 引文到此结束"
+      ]
+    ],
+    "explanation": "quote, ... unquote 把原话框起来；his quote unquote expert 可暗示所谓专家。讽刺来自语气和上下文，单纯标引文时不必有讽刺。",
+    "usage": "quote, … unquote；quote unquote〔亦可带讽刺〕。",
+    "contrast": "unquote 结束引文，不是声称上一句话完全没发生；not quote 才是直接否定引用这个动作的普通结构。",
+    "examples": [
+      [
+        "She said, quote, I will be there, unquote.",
+        "她说，原话是“我会到场”，引文结束。"
+      ],
+      [
+        "He described the delay as, quote, a minor inconvenience, unquote.",
+        "他把延误称为，原话是“一点小麻烦”。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/quote",
+      "https://www.merriam-webster.com/dictionary/unquote"
+    ]
+  },
+  {
+    "word": "finger",
+    "ipa": "英 /ˈfɪŋɡə/；美 /ˈfɪŋɡər/",
+    "meaning": "手指；用手指触摸；指出、指认",
+    "sense": "手上能弯曲的一根指头；作动词就把手指的动作借出来：摸弄东西，或指着某人说就是他。",
+    "split": "接古英语 finger，是旧日耳曼语词。更远常被联系到表示五的印欧材料，但关系有不确定性；现代 -er 不是人后缀，不能拆成 fing + 做事的人。",
+    "history": [
+      [
+        "古英语 finger → 中古英语 finger/fynger",
+        "手指，日耳曼语旧词"
+      ],
+      [
+        "英语 finger",
+        "手指 → 用手指触摸、演奏、指出某人"
+      ]
+    ],
+    "explanation": "an index finger 食指，run your fingers through your hair 用手指梳过头发，finger a suspect 指认嫌疑人。日常有时把 thumb 拇指和其余 fingers 分开算。",
+    "usage": "an index finger；run your fingers through；finger someone as。",
+    "contrast": "finger 常说手指，toe 是脚趾；digit 是更宽的指、趾及数字用词。finger someone 指认不自动等于已经证明有罪。",
+    "examples": [
+      [
+        "She ran her fingers through her hair.",
+        "她用手指梳了梳头发。"
+      ],
+      [
+        "A witness fingered him as the man at the door.",
+        "一名证人指认他就是当时在门口的人。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/finger"
+    ]
+  },
+  {
+    "word": "fingered",
+    "ipa": "英 /ˈfɪŋɡəd/；美 /ˈfɪŋɡərd/",
+    "meaning": "用手指摸过、指认了；有某种手指的",
+    "sense": "先看结构：He fingered the fabric 是他用手指摸布；形容词里的 fingered 则可说长着某种手指。",
+    "split": "动词 finger + -ed 可成过去式、过去分词；另有 finger + -ed 具有……手指的形容词构造，常与前面描述一起出现。",
+    "history": [
+      [
+        "古英语 finger → 中古英语 finger/fynger",
+        "手指，日耳曼语旧词"
+      ],
+      [
+        "英语 finger",
+        "手指 → 用手指触摸、演奏、指出某人"
+      ],
+      [
+        "finger + -ed",
+        "过去触摸、被指认；另一构造表有相应手指"
+      ]
+    ],
+    "explanation": "fingered the material 摸了摸布料，was fingered as 被指认为；long-fingered hands 手指修长的双手。形容词构造不必表示过去发生。",
+    "usage": "fingered the fabric；was fingered as；long-fingered hands。",
+    "contrast": "-ed 读 /d/；fingered 不像 needed 那样加出 /ɪd/ 音节。动词过去式与具有某种特征的形容词，要靠句子分。",
+    "examples": [
+      [
+        "He fingered the edge of the fabric while thinking.",
+        "他一边思考，一边用手指摸着布边。"
+      ],
+      [
+        "Her long-fingered hands moved across the piano keys.",
+        "她修长的手指在钢琴键上移动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fingered#English"
+    ]
+  },
+  {
+    "word": "fingernail",
+    "ipa": "英 /ˈfɪŋɡəneɪl/；美 /ˈfɪŋɡərneɪl/",
+    "meaning": "手指甲",
+    "sense": "手指尖那片硬硬的甲；finger 先把部位限定在手上，再由 nail 说是哪种东西。",
+    "split": "finger + nail，中古英语已有组合。nail 在此是指甲，不是钉子；同一个 nail 的不同义靠搭配分。",
+    "history": [
+      [
+        "古英语 finger → 中古英语 finger/fynger",
+        "手指，日耳曼语旧词"
+      ],
+      [
+        "finger + nail → fingernail",
+        "手指上的甲"
+      ]
+    ],
+    "explanation": "trim your fingernails 修剪手指甲，a broken fingernail 断裂的指甲，under your fingernails 指甲缝里。",
+    "usage": "trim your fingernails；a broken fingernail；under your fingernails。",
+    "contrast": "fingernail 手指甲，toenail 脚趾甲；fingertip 指尖还包括皮肤部位，不只那片甲。",
+    "examples": [
+      [
+        "There was paint under his fingernails.",
+        "他的指甲缝里有油漆。"
+      ],
+      [
+        "She caught a broken fingernail on the wool.",
+        "她断裂的指甲勾住了毛线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fingernail#English"
+    ]
+  },
+  {
+    "word": "fingerless",
+    "ipa": "英 /ˈfɪŋɡələs/；美 /ˈfɪŋɡərləs/",
+    "meaning": "无手指的；露指的〔手套〕",
+    "sense": "手套把手掌裹住，却把手指留在外面；fingerless gloves 是常见画面。说人时也可直接表示没有手指。",
+    "split": "finger + -less，没有。修饰手套时说手套没有完整覆盖手指的部分，不是穿手套的人没手指。",
+    "history": [
+      [
+        "古英语 finger → 中古英语 finger/fynger",
+        "手指，日耳曼语旧词"
+      ],
+      [
+        "finger + -less → fingerless",
+        "没有手指；手套缺少完整指部覆盖"
+      ]
+    ],
+    "explanation": "fingerless gloves 露指手套，常方便敲键盘、抓握等；有些款式留半截指套，也照样这样称呼。",
+    "usage": "fingerless gloves；a pair of fingerless gloves。",
+    "contrast": "fingerless gloves 露着手指，mittens 连指手套是把多数手指放在同一袋里；两个设计关注点不同。",
+    "examples": [
+      [
+        "She wore fingerless gloves while typing in the cold room.",
+        "她在冷房间里戴着露指手套打字。"
+      ],
+      [
+        "The shop sells both mittens and fingerless gloves.",
+        "店里既卖连指手套，也卖露指手套。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fingerless#English"
+    ]
+  }
+]

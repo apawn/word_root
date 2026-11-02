@@ -5,7 +5,7 @@
     "core": "CAD / CID / CAS = FALL",
     "image": "先看一片叶子落下，再看一件事落到自己头上：一个是下落，一个是发生",
     "intro": "**先记“落下”，再记“事情落到头上”。** 拉丁语 cadere 的基本动作是落下、倒下。向下落、越来越坏，是 decay“腐败、衰退”；落到某个人身上，就能说 accident“意外”或 incident“事件”；两件事落到同一时点，是 coincide“同时发生”。词根不是给单词硬套一个中文标签，而是帮你看见这些意思之间怎样走得通。",
-    "forms": "cad- 是较直观的样子；加前缀的拉丁复合词常把 a 变成 i，于是出现 cid-，如 in + cadere → incidere。cas- 可见于 cāsus“落下、发生的事”，因此 case、casual 虽没有 d，仍在这一族。经过法语，chance、chute、cheat 的字形变化更大。图中带 * 的古形式是语言学重建。另有 caedere“切”的 cid-/cis-，如 decide、incision，与本组的“落”不是一条线。",
+    "forms": "cad- 是较直观的样子；加前缀的拉丁复合词常把 a 变成 i，于是出现 cid-，如 in + cadere → incidere。cas- 可见于 cāsus“落下、发生的事”，因此 case、casual 虽没有 d，仍在这一族。经过法语，chance、chute、cheat 的字形变化更大。图中带 * 的古形式是语言学重建。另有 caedere“切”的 cid-/cis-，如 decide、incision，与本组的“落”不是一条线。\n\n落下、发生词族经法语发展，机会与可能性按语境区分。\n\n拉丁 occasio 经法语借入，较早与落下、发生词族相关。\n\ncheat 缩短自 escheat 的财产归回、没收分支，语义经过后起变化。\n\n拉丁 accidere 接 ad 与 cadere 落下，经法语传入；现代事故、意外义突出。\n\n拉丁 incidens、incidere 接 in 与 cadere，经法语借入；事故 accident 是相邻但不同用法。\n\n中古英语偶发之事、不幸事件走向损失、伤亡者；不能把 casualties 只译成死亡。\n\n较早 escheat 财产归回词一支缩短、转义，现代 ed 在 t 后读 id。\n\n和 cheat 比较欺骗，不是 escheat 旧没收财产词族的派生。scam 早见美国俚语、嘉年华行业材料，来历未定，与 scamp 骗子的联系只是分析。",
     "branches": [
       [
         "事情落到头上 → 发生",
@@ -58,6 +58,38 @@
       [
         "太阳落下的一方 → 西方",
         "occident · occidental"
+      ],
+      [
+        "chance → chances：发生、偶然与机会",
+        "chance · chances"
+      ],
+      [
+        "occasion → occasions：碰到的一次时机、场合",
+        "occasion · occasions"
+      ],
+      [
+        "cheat → cheating：不正当地夺取到欺骗、作弊",
+        "escheat · cheat · cheating"
+      ],
+      [
+        "accident → accidents：意外发生的事",
+        "accident · accidents"
+      ],
+      [
+        "incident → incidents：发生的一件件事",
+        "incident · incidents"
+      ],
+      [
+        "casualty → casualties：不幸事件中的伤亡与损失",
+        "casualty · casualties"
+      ],
+      [
+        "cheat → cheated：欺骗、作弊与被坑骗",
+        "cheat · cheated"
+      ],
+      [
+        "scam：另源的骗局、诈骗",
+        "scam · scams · scammed · scamming"
       ]
     ],
     "contrasts": "**accident / incident / incidence**：意外事故；发生的一件事；这类事的发生情况或发生率。\n\n**accidental / incidental / coincidental**：不是有意发生的；主要事情之外附带的；两个事实出于巧合地对上。\n\n**case 的两条来源**：情况、案件、实例来自 cāsus“发生的事”；盒子、套子来自 capsa。两组同形，不该画成同一条故事。\n\n**deciduous / decide**：会脱落的；作决定。前者来自 cadere“落”，后者来自 caedere“切”，不要只见 cid 就合并。\n\n**cadence / cadenza**：节奏、终止式；华彩乐段。共同的“落定”背景，长出了不同的音乐用途。\n\n**cadaver 的联系有保留**：拉丁语 cadāver“尸体”可能来自 cadere，但更深一步未完全确定；相关图从已确定的 cadāver 开始。",
@@ -129,7 +161,18 @@
       "occident",
       "occidental",
       "accidence",
-      "semelincident"
+      "semelincident",
+      "chances",
+      "occasions",
+      "cheating",
+      "accidents",
+      "incidents",
+      "casualties",
+      "cheated",
+      "scam",
+      "scams",
+      "scammed",
+      "scamming"
     ]
   }
 ]

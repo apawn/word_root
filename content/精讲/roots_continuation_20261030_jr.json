@@ -1,0 +1,77 @@
+[
+  {
+    "id": "B4090",
+    "meaning": "短促、突然的动作与声音，再形成风格、动物和返回等名称",
+    "core": "SNAP：一下很快、很尖利，具体扩展看搭配",
+    "image": "snap → snappy、snapper；snapshot 抓拍；snapback 返回或帽子结构；snapdragon 另有花形命名。",
+    "intro": "共同的短促感很好记，但固定名词已经各自有具体所指。会咬的鱼不都叫 snapper，快动作也不都等于拍照。",
+    "forms": "snappen 等相关形式 → snap；-y、-er 前双写 p；back 可能是返回方向，也可能是后部。\n\nsnap 接低地日耳曼突然咬、抓等拟声材料，现代有断裂、拍照、厉声说话等。双写 p 加完整 -ed，词尾 /pt/。\n\nsnap 接荷兰语、低地德语相关拟声材料，强调突然、快、脆的动作。现代加 -s，/p/ 后读 /s/；照片名、断裂、厉声说话等义按语境。",
+    "branches": [
+      [
+        "动作、性质与角色",
+        "snap · snappy · snapper"
+      ],
+      [
+        "固定组合",
+        "snapshot · snapback · snapdragon"
+      ],
+      [
+        "snap → snapped：突然断开、拍下与厉声说",
+        "snapped"
+      ],
+      [
+        "snap → snaps：啪的一下与快照",
+        "snaps"
+      ]
+    ],
+    "contrasts": "snappy 可利落也可没好气；snapback 的措施恢复不自动是好转；snapper 是固定俗名。",
+    "practice": "He snapped a photo of his friend in a snapback.\n\n他抓拍了朋友戴后扣调节帽的样子。",
+    "words": [
+      "snap",
+      "snappy",
+      "snapper",
+      "snapshot",
+      "snapback",
+      "snapdragon",
+      "snapped",
+      "snaps"
+    ],
+    "exclude": {
+      "snap-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4107",
+    "meaning": "不合地点、用途需要的植物，以及按形态命名、筛除等扩展",
+    "core": "WEED：杂草是一种情境判断，植物俗名另看固定所指",
+    "image": "weed → weedy；tumbleweed 看翻滚，knotweed 看茎节；seaweed、milkweed 已各有固定名称。",
+    "intro": "不要把名称中含 weed 的植物一律说成没有价值、一定外来或入侵。具体用途、地点与物种分别判断。",
+    "forms": "wēod → weed；wēodian 联系除草动词；-y 性质；tumble、knot、sea、milk 等组成不同俗名。\n\n古英语有植物名与除草动词，现代 s 读 dz。",
+    "branches": [
+      [
+        "杂草、动作与性质",
+        "weed · weedy"
+      ],
+      [
+        "固定植物名称",
+        "tumbleweed · knotweed · seaweed · milkweed"
+      ],
+      [
+        "weed → weeds：不想要的植物与除草",
+        "weed · weeds"
+      ]
+    ],
+    "contrasts": "weed 的园艺义不等于所有外来植物；tumbleweed 也不只是一种植物。",
+    "practice": "The guide distinguished a weedy patch from the specific plants called knotweed and milkweed.\n\n向导区分了一片杂草地，以及叫作 knotweed、milkweed 的具体植物。",
+    "words": [
+      "weed",
+      "weedy",
+      "tumbleweed",
+      "knotweed",
+      "seaweed",
+      "milkweed",
+      "weeds"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "departments",
+    "ipa": "英 /dɪˈpɑːtmənts/；美 /dɪˈpɑːrtmənts/",
+    "meaning": "部门、系、科；分部等〔复数〕",
+    "sense": "一个大组织把工作划成几块，每块负责不同事情，就有 departments。大学的系、商店的商品分区也能这样称。",
+    "split": "department + -s，/t/ 后读 /s/。department 借法语 departement，接 departir 分开、分配的词族，ment 名词指划分的部分、部门。",
+    "history": [
+      [
+        "法语 departir、departement → department",
+        "分开、分配 → 划出的工作部分"
+      ],
+      [
+        "department + -s → departments",
+        "多个部门、系科、分区"
+      ]
+    ],
+    "explanation": "different departments 不同部门；university departments 大学系科；work across departments 跨部门工作。",
+    "usage": "sales and design departments 销售与设计部门；departments in a store 商店分区。",
+    "contrast": "departments 说组织内部划分，不是出发地点。department store 则是百货商店这一固定名称，department 作前置修饰常用单数。",
+    "examples": [
+      [
+        "Several departments worked together on the project.",
+        "几个部门合作完成了这个项目。"
+      ],
+      [
+        "The university has expanded two of its science departments.",
+        "大学扩充了两个理科系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/departments#English",
+      "https://en.wiktionary.org/wiki/department#English"
+    ]
+  },
+  {
+    "word": "missions",
+    "ipa": "/ˈmɪʃənz/",
+    "meaning": "任务、使命；派遣团、代表团等〔复数〕",
+    "sense": "有人被派出去，带着明确要完成的事情，就有 missions 的任务画面。组织长期要实现的目标，也能叫它的使命。",
+    "split": "mission + -s，/n/ 后读 /z/。mission 接拉丁 missio 派遣，来自 mittere 派、送的 miss- 词干；后来有任务、代表团等分支。",
+    "history": [
+      [
+        "拉丁 mittere、missio → mission",
+        "派遣 → 被派去完成的工作、派出团体"
+      ],
+      [
+        "mission + -s → missions",
+        "多项任务、多次派遣或多个代表团"
+      ]
+    ],
+    "explanation": "space missions 太空任务；rescue missions 救援任务；diplomatic missions 外交使团。",
+    "usage": "missions to explore the ocean 海洋探索任务；complete missions 完成任务。",
+    "contrast": "missions 常强调带着特定目的被派去做；tasks 可以只是日常工作项。mission statement 是机构使命说明，通常用单数作修饰。",
+    "examples": [
+      [
+        "The museum’s exhibition follows several early space missions.",
+        "博物馆展览介绍了几次早期太空任务。"
+      ],
+      [
+        "The teams had different missions during the expedition.",
+        "考察中，各队承担了不同任务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/missions#English",
+      "https://en.wiktionary.org/wiki/mission#English"
+    ]
+  },
+  {
+    "word": "paintings",
+    "ipa": "/ˈpeɪntɪŋz/",
+    "meaning": "绘画作品、画作〔复数〕",
+    "sense": "painting 可以是画画这件事；数成 paintings 时，通常已经是在数完成的一幅幅作品。",
+    "split": "paint + -ing → painting，再加 -s，/ŋ/ 后读 /z/。英语 ing 名词在中古英语已有记录，动作和作品两义逐渐分化。",
+    "history": [
+      [
+        "paint + -ing → painting",
+        "绘画动作；后来也指画出的作品"
+      ],
+      [
+        "可数 painting + -s → paintings",
+        "多幅画作"
+      ]
+    ],
+    "explanation": "oil paintings 油画；landscape paintings 风景画；a collection of paintings 画作收藏。",
+    "usage": "paintings by local artists 本地艺术家的画；hang paintings 挂画。",
+    "contrast": "I enjoy painting 中 painting 常是活动；I enjoy these paintings 中是作品。paintings 不包括每一种照片、图表，要看创作形式。",
+    "examples": [
+      [
+        "The gallery displays paintings by local artists.",
+        "美术馆展出本地艺术家的画作。"
+      ],
+      [
+        "Three paintings hang above the fireplace.",
+        "壁炉上方挂着三幅画。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paintings#English",
+      "https://en.wiktionary.org/wiki/painting#English"
+    ]
+  },
+  {
+    "word": "proposals",
+    "ipa": "英 /prəˈpəʊzəlz/；美 /prəˈpoʊzəlz/",
+    "meaning": "提案、建议方案；求婚等〔复数〕",
+    "sense": "不只是脑里想过，而是把想法拿到别人面前，请对方考虑接受，这样的方案就是 proposals。",
+    "split": "propose 去 e 加名词尾 -al → proposal，再加 -s，/l/ 后读 /z/。propose 经法语相关词形，有 poser 的历史改形背景，不能把所有 pose 都原样接拉丁 ponere。",
+    "history": [
+      [
+        "法语相关词 → propose；英语名词构形 proposal",
+        "提出供考虑 → 提出的安排、方案"
+      ],
+      [
+        "proposal + -s → proposals",
+        "多项方案、提议；也可为求婚"
+      ]
+    ],
+    "explanation": "submit proposals 提交方案；proposals for a new building 新建筑方案；consider proposals 审议提案。",
+    "usage": "research proposals 研究计划；marriage proposals 求婚。",
+    "contrast": "proposals 是拿来讨论、决定的方案；plans 可能已经是准备执行的计划。proposal 的 al 在这里构成名词，不是每个 al 结尾都为形容词。",
+    "examples": [
+      [
+        "The committee will consider three proposals.",
+        "委员会将审议三项提案。"
+      ],
+      [
+        "The students presented proposals for improving the library.",
+        "学生们提出了改善图书馆的方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proposals#English",
+      "https://en.wiktionary.org/wiki/proposal#English"
+    ]
+  },
+  {
+    "word": "relatives",
+    "ipa": "/ˈrelətɪvz/",
+    "meaning": "亲属、亲戚；近缘生物等〔复数〕",
+    "sense": "人与人之间有亲属联系，这些有关系的人就是 relatives。生物之间如果有较近的演化亲缘，也会借这个家庭关系来称呼。",
+    "split": "relative + -s，/v/ 后读 /z/。relative 经法语接晚期拉丁 relativus，较早连 referre 的 relat- 分词词干；名词亲属义是相应的关系扩展。",
+    "history": [
+      [
+        "晚期拉丁 relativus → 法语 → relative",
+        "有关联、相对等性质；再发展亲属名词"
+      ],
+      [
+        "名词 relative + -s → relatives",
+        "多位亲戚；多种近缘生物"
+      ]
+    ],
+    "explanation": "close relatives 近亲；distant relatives 远亲；visit relatives 探亲。",
+    "usage": "friends and relatives 亲朋好友；wild relatives of a crop 某作物的野生近缘种。",
+    "contrast": "relatives 在这里是名词；relative 作形容词时可表示相对的、有关的。relative to something 是相对于、关于的结构，不能都译成亲戚。",
+    "examples": [
+      [
+        "We visited relatives during the holiday.",
+        "假期里我们探望了亲戚。"
+      ],
+      [
+        "These plants are close relatives of the common bean.",
+        "这些植物与普通菜豆有较近的亲缘关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/relatives#English",
+      "https://en.wiktionary.org/wiki/relative#English"
+    ]
+  },
+  {
+    "word": "vessels",
+    "ipa": "/ˈvesəlz/",
+    "meaning": "容器、器皿；船舶；血管等管道〔复数〕",
+    "sense": "能盛东西、容纳或输送东西的器具，是 vessel 的老核心。大到运载货物的船，小到身体中输送血液的管道，都形成了固定用法。",
+    "split": "vessel + -s，/l/ 后读 /z/。vessel 经法语接晚期拉丁 vascellum 小容器，更早有 vasculum、vas 的小称材料；英语主要分支在早期已并存。",
+    "history": [
+      [
+        "拉丁容器、小容器材料 → 法语 → vessel",
+        "盛装物的器具；船、身体管道等义分支"
+      ],
+      [
+        "vessel + -s → vessels",
+        "多个容器、多艘船或多条相关管道"
+      ]
+    ],
+    "explanation": "storage vessels 储存容器；fishing vessels 渔船；blood vessels 血管。",
+    "usage": "large vessels 大船；ceramic vessels 陶器容器。",
+    "contrast": "vessels 在港口多指船，在陶器展多指器皿，在身体结构中常指血管。vase 与它有远处材料联系，也不能当现代英语临时加减字母造词。",
+    "examples": [
+      [
+        "The harbour can receive large vessels.",
+        "这个港口能停靠大型船舶。"
+      ],
+      [
+        "The exhibition includes ceramic vessels used for storing oil.",
+        "展览包括用来储油的陶器容器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vessels#English",
+      "https://en.wiktionary.org/wiki/vessel#English"
+    ]
+  },
+  {
+    "word": "volumes",
+    "ipa": "英 /ˈvɒljuːmz/；美 /ˈvɑːljuːmz/",
+    "meaning": "卷、册；体积、容量、数量；音量等〔复数〕",
+    "sense": "古人把文字写在可卷起来的材料上，一卷便成了 volume 的书卷画面。英语后来也用 volume 谈一团东西的量、空间大小和声音大小。",
+    "split": "volume + -s，/m/ 后读 /z/。volume 经古法语接拉丁 volumen 卷起的东西、书卷，属 volvere 卷、转的词族；各现代量义有后续发展。",
+    "history": [
+      [
+        "拉丁 volvere、volumen → 古法语 volume → 英语 volume",
+        "卷起的东西 → 书卷；英语另发展体积、数量、音量等"
+      ],
+      [
+        "volume + -s → volumes",
+        "多卷书、多种体积或不同数量、音量等"
+      ]
+    ],
+    "explanation": "three volumes 三卷；large volumes of data 大量数据；equal volumes 相等体积。",
+    "usage": "speak at different volumes 以不同音量说话；volumes in a series 一套丛书的各卷。",
+    "contrast": "volumes of data 常强调数量大，不是在数几本数据书。turn up the volume 调高音量则常用单数不可数形式。",
+    "examples": [
+      [
+        "The history was published in three volumes.",
+        "这部历史著作分三卷出版。"
+      ],
+      [
+        "The system processes large volumes of data.",
+        "系统处理大量数据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/volumes#English",
+      "https://en.wiktionary.org/wiki/volume#English"
+    ]
+  },
+  {
+    "word": "wondered",
+    "ipa": "英 /ˈwʌndəd/；美 /ˈwʌndərd/",
+    "meaning": "想知道、心中纳闷；感到惊奇〔过去式、过去分词〕",
+    "sense": "心里冒出一个问题，暂时没有答案；或者看到不寻常的东西觉得惊奇，都能用 wondered 把那个心思放在过去。",
+    "split": "wonder + -ed，结尾读 /d/。wonder 继承古英语 wundor 名词和 wundrian 等动词形式，现代疑问、好奇义与惊奇相连。",
+    "history": [
+      [
+        "古英语 wundor、wundrian → wonder",
+        "令人惊奇的事、感到惊奇；后来广有好奇疑问"
+      ],
+      [
+        "wonder + -ed → wondered",
+        "过去心中疑问、想知道或惊奇"
+      ]
+    ],
+    "explanation": "wondered why 想知道为什么；wondered whether 不知道是否；wondered at 对……感到惊奇。",
+    "usage": "wondered what to do 不知道怎么办；had often wondered 以前常常想知道。",
+    "contrast": "wondered 常是心中想知道，不等于已经开口问人；asked 才明确是问。wandered 是四处走，拼写、发音、来源不同。",
+    "examples": [
+      [
+        "I wondered why the shop was closed.",
+        "我纳闷店为什么关着。"
+      ],
+      [
+        "She wondered whether she had taken the right path.",
+        "她不知道自己是否走对了路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wondered#English",
+      "https://en.wiktionary.org/wiki/wonder#English"
+    ]
+  },
+  {
+    "word": "airlines",
+    "ipa": "英 /ˈeəlaɪnz/；美 /ˈerlaɪnz/",
+    "meaning": "航空公司；航空运输线路等〔复数〕",
+    "sense": "飞机沿线路把人、货从一地送到另一地，运营这种服务的公司便叫 airlines。现代最常见是在数航空公司。",
+    "split": "air + line → airline，再加 -s，/n/ 后读 /z/。早期 airline 可指不随地面地形绕弯的直线，后来发展航空运输公司名称。",
+    "history": [
+      [
+        "air + line → airline",
+        "空中的线、直线概念；后有航空运输线路、公司"
+      ],
+      [
+        "airline + -s → airlines",
+        "多家航空公司或多条相应线路"
+      ]
+    ],
+    "explanation": "different airlines 不同航空公司；major airlines 主要航空公司；airline tickets 机票，前置修饰常用单数。",
+    "usage": "airlines serving the island 为岛屿提供航班服务的航空公司；compare airlines 比较航空公司。",
+    "contrast": "airlines 是公司或线路名称；flights 是一次次航班。两家 airlines 可以各运营许多 flights。",
+    "examples": [
+      [
+        "Three airlines offer flights to the island.",
+        "三家航空公司提供前往这座岛的航班。"
+      ],
+      [
+        "We compared the baggage rules of several airlines.",
+        "我们比较了几家航空公司的行李规定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/airlines#English",
+      "https://en.wiktionary.org/wiki/airline#English"
+    ]
+  },
+  {
+    "word": "albums",
+    "ipa": "/ˈælbəmz/",
+    "meaning": "相册、集邮册等；音乐专辑〔复数〕",
+    "sense": "把照片、纪念物或几首歌曲收进一个有边界的合集里，就有 albums 的现代形象。它更早却与供人题写的白色板面有关。",
+    "split": "album + -s，/m/ 后读 /z/。拉丁 album 是 albus 白的中性形式，曾指涂白的题写板；纪念题名册、收藏册后来把名称带入英语，音乐合集再沿用。",
+    "history": [
+      [
+        "拉丁 album 白色题写板 → 题名、收藏册的名称 → 英语 album",
+        "供题写、收存的册子"
+      ],
+      [
+        "音乐合集等发展；album + -s → albums",
+        "多本收藏册、相册；多张音乐专辑"
+      ]
+    ],
+    "explanation": "photo albums 相册；stamp albums 集邮册；record albums 唱片专辑。",
+    "usage": "her latest albums 她近期的专辑；family albums 家庭相册。",
+    "contrast": "album 是组织成一套的合集；song 是一首歌，single 常是一首为主发行的单曲。今天数字 albums 不一定需要实体册子、唱片。",
+    "examples": [
+      [
+        "We looked through old family albums.",
+        "我们翻看了旧家庭相册。"
+      ],
+      [
+        "The band has released three albums.",
+        "乐队已经发行了三张专辑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/albums#English",
+      "https://en.wiktionary.org/wiki/album#English"
+    ]
+  },
+  {
+    "word": "beings",
+    "ipa": "/ˈbiːɪŋz/",
+    "meaning": "存在的个体；生物、生灵〔复数〕",
+    "sense": "不是只抽象谈存在，而是把一个个存在着的个体数出来，就是 beings。human beings 是人类、一个个人。",
+    "split": "be + -ing → being，名词个体义再加 -s。中古英语已有 being 的存在、状态名词，后来有存在的个体；beings 是这个可数名词的复数。",
+    "history": [
+      [
+        "be + -ing → 名词 being",
+        "存在、状态 → 存在着的个体"
+      ],
+      [
+        "名词 being + -s → beings",
+        "多个存在的个体、生灵"
+      ]
+    ],
+    "explanation": "human beings 人；living beings 生物；imaginary beings 想象的生灵。",
+    "usage": "other beings 其他生灵；intelligent beings 有智慧的生命个体。",
+    "contrast": "beings 是名词复数；动词进行结构里的 being 不随复数主语加 s。They are being careful 中仍用 being。",
+    "examples": [
+      [
+        "Human beings depend on one another.",
+        "人离不开彼此。"
+      ],
+      [
+        "The story describes strange beings living beneath the sea.",
+        "故事描述了生活在海底的奇异生灵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beings#English",
+      "https://en.wiktionary.org/wiki/being#English"
+    ]
+  },
+  {
+    "word": "bucks",
+    "ipa": "/bʌks/",
+    "meaning": "雄鹿等雄性动物〔复数〕；美元等货币单位〔口语复数〕；猛跳、抗拒〔第三人称单数〕",
+    "sense": "野外语境可能是在数雄鹿，商店里说 ten bucks 多半是在数钱。动词又可形容动物猛跳，或人反抗某种趋势。",
+    "split": "buck + -s，/k/ 后读 /s/。动物名接旧日耳曼材料；美元义常被解释为鹿皮交易单位的缩短，但路径并不完全确定。抗拒、顶撞动词另有相关动作词影响。",
+    "history": [
+      [
+        "旧日耳曼动物词 → buck；钱的俗称与动作义另有发展",
+        "雄性动物；美元义常联系鹿皮交易，仍有不确定性"
+      ],
+      [
+        "buck + -s → bucks",
+        "多只动物、若干美元；某物猛跳、抗拒"
+      ]
+    ],
+    "explanation": "ten bucks 十美元，具体币种也看地区；young bucks 年轻雄鹿，也可能比喻年轻男子；bucks the trend 逆势而行。",
+    "usage": "a few bucks 几块钱；bucks and does 雄鹿与雌鹿。",
+    "contrast": "bucks 的钱义是随意口语；正式金额常用相应货币名称。它不表示所有地区都一定是美元，尤其要看说话地点。",
+    "examples": [
+      [
+        "The book cost me five bucks.",
+        "这本书花了我五块钱。"
+      ],
+      [
+        "Two bucks stood at the edge of the forest.",
+        "两只雄鹿站在森林边缘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bucks#English",
+      "https://en.wiktionary.org/wiki/buck#English"
+    ]
+  },
+  {
+    "word": "camps",
+    "ipa": "/kæmps/",
+    "meaning": "营地；夏令营等；阵营〔复数〕；露营〔第三人称单数〕",
+    "sense": "人暂时聚在一处住、活动，是 camps 的实物画面；观点相近的人聚成一边，又叫一个阵营。",
+    "split": "camp + -s，/p/ 后读 /s/。现代营地义经法语 camp、意大利 campo 接拉丁 campus；古英语同源战斗词不是现代露营义的单线传承。风格词 camp 另源不明。",
+    "history": [
+      [
+        "拉丁 campus → 意大利、法语 → 现代 camp 营地分支",
+        "场地、驻扎地 → 营地、集体活动营"
+      ],
+      [
+        "camp + -s → camps",
+        "多个营地、夏令营；不同观点阵营；或某人露营"
+      ]
+    ],
+    "explanation": "summer camps 夏令营；training camps 训练营；opposing camps 对立阵营。",
+    "usage": "camps by the river 在河边露营；divided into two camps 分成两个阵营。",
+    "contrast": "camps 可以是地点，也可以是共享观点的人群。形容风格夸张、戏谑的 camp 不宜直接从露营画面硬猜。",
+    "examples": [
+      [
+        "The children attended different summer camps.",
+        "孩子们参加了不同的夏令营。"
+      ],
+      [
+        "The debate divided the group into two camps.",
+        "这场辩论让小组分成了两个阵营。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/camps#English",
+      "https://en.wiktionary.org/wiki/camp#English"
+    ]
+  },
+  {
+    "word": "cried",
+    "ipa": "/kraɪd/",
+    "meaning": "哭了；喊叫、叫出了〔过去式、过去分词〕",
+    "sense": "情绪从声音里冲出来，可以是哭，也可以是一声叫喊。cried 说这个声音、哭泣已经发生。",
+    "split": "cry 改 y 为 i 加 -ed → cried，词干 /aɪ/ 后读 /d/。cry 借古法语 crier，更早常追到俗拉丁 *critare、拉丁 quiritare 呼喊，但路线有争议。",
+    "history": [
+      [
+        "古法语 crier → 英语 cry",
+        "呼喊、发声；后来哭泣等用法"
+      ],
+      [
+        "cry → cried",
+        "改 y 为 i 加 ed；哭或喊发生了"
+      ]
+    ],
+    "explanation": "cried for help 呼救；cried with joy 喜极而泣；cried out 叫出声。",
+    "usage": "cried all night 哭了一夜；cried, “Look!” 喊道：“看！”",
+    "contrast": "cried 接直接引语常是喊道，不一定流泪。wept 更明确表示哭泣，且语气往往较书面。",
+    "examples": [
+      [
+        "The child cried when the balloon burst.",
+        "气球破了，孩子哭了。"
+      ],
+      [
+        "“There it is!” she cried.",
+        "“它在那儿！”她喊道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cried#English",
+      "https://en.wiktionary.org/wiki/cry#English"
+    ]
+  },
+  {
+    "word": "deemed",
+    "ipa": "/diːmd/",
+    "meaning": "认为、视作、判定为〔过去式、过去分词〕",
+    "sense": "经过某种判断，把人或事归到一个结论上，是 deemed。它常出现在正式说明里，像“被认为适合”“被判定不安全”。",
+    "split": "deem + -ed，/m/ 后读 /d/。deem 继承古英语 deman 判断，远接日耳曼判断名词的派生动词，与 doom 有旧同族关系。",
+    "history": [
+      [
+        "古英语 deman → deem",
+        "作出判断、看作"
+      ],
+      [
+        "deem + -ed → deemed",
+        "某项判断已经作出；be deemed 表示被认为"
+      ]
+    ],
+    "explanation": "deemed necessary 被认为必要；deemed suitable 被认为适合；deemed to be 被认为是。",
+    "usage": "deemed a success 被视为成功；deemed unsafe 被判定不安全。",
+    "contrast": "deemed 较正式，接性质时常可直接用形容词，如 deemed suitable；不必总写 deemed as。它说明有这种判断，不自动说明谁作了判断或用了什么标准。",
+    "examples": [
+      [
+        "The old bridge was deemed unsafe.",
+        "旧桥被判定为不安全。"
+      ],
+      [
+        "The event was deemed a success.",
+        "这次活动被认为是成功的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deemed#English",
+      "https://en.wiktionary.org/wiki/deem#English"
+    ]
+  },
+  {
+    "word": "fights",
+    "ipa": "/faɪts/",
+    "meaning": "打斗、争执、比赛等〔复数〕；战斗、争取、抗争〔第三人称单数〕",
+    "sense": "两边用力对抗，可以是身体交手，也可以是争取一种改变。fights 既能数一场场冲突，也能说某人一直在争取。",
+    "split": "fight + -s，/t/ 后读 /s/。fight 继承古英语 feohte 名词、feohtan 动词等本族材料；现代过去式、分词是 fought。",
+    "history": [
+      [
+        "古英语名词、动词的交战材料 → fight",
+        "交手、对抗 → 争执、为目标抗争等"
+      ],
+      [
+        "fight + -s → fights",
+        "多场冲突、比赛；某人在争取、对抗"
+      ]
+    ],
+    "explanation": "fights over small things 为小事争吵；fights for equal access 为平等使用机会争取；boxing fights 拳击比赛。",
+    "usage": "avoids fights 避免争执；fights against waste 反对浪费。",
+    "contrast": "fights for 后常接要争取的东西，fights against 后常接反对、对抗的对象。名词 fights 可以是争执，未必一定有人受伤。",
+    "examples": [
+      [
+        "The children sometimes have fights over small things.",
+        "孩子们有时会为小事争吵。"
+      ],
+      [
+        "She fights for better access to public spaces.",
+        "她努力争取让公共空间更便于使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fights#English",
+      "https://en.wiktionary.org/wiki/fight#English"
+    ]
+  }
+]

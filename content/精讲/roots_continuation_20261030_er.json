@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2670",
+    "meaning": "翅翼的形状、侧边位置与支援功能",
+    "core": "WING：向两边伸出去，后来借给楼、阵型、器件",
+    "image": "wing → wingless；wingspan、wingtip、wingsuit 描部位、尺寸、衣物；winger、wingback、wingman 按人物位置；wingnut 分器件植物俚语，batwing 看外形。",
+    "intro": "翼不等于羽毛，无翼不等于不能飞；翼展量两端，翼尖说一端。形状、位置、作用不同，组合义也各有方向。",
+    "forms": "vængr 经中古英语 → wing；wing + -less/span/tip/suit/-er/back/man/nut；bat + wing。\n\n借入北欧翅膀词，现代可指机翼、建筑侧翼或组织派别。",
+    "branches": [
+      [
+        "基础与无翼状态",
+        "wing · wingless"
+      ],
+      [
+        "尺寸、尖端与服装",
+        "wingspan · wingtip · wingsuit · batwing"
+      ],
+      [
+        "侧翼人物、角色",
+        "winger · wingback · wingman"
+      ],
+      [
+        "翼状器件、植物与口语人物",
+        "wingnut"
+      ],
+      [
+        "wing → wings：从翅膀到侧边分支",
+        "wing · wings"
+      ]
+    ],
+    "contrasts": "wingless/flightless 结构能力不同；wingspan/wingtip 总跨距与尖端；winger/wingman 位置与支援；wingnut 人物义不从机械硬接。",
+    "practice": "The diagram marked the wingtips and measured the wingspan.\n\n示意图标出了翼尖，并量出翼展。",
+    "words": [
+      "wing",
+      "wingless",
+      "wingspan",
+      "wingtip",
+      "wingsuit",
+      "batwing",
+      "winger",
+      "wingback",
+      "wingman",
+      "wingnut",
+      "wings"
+    ],
+    "exclude": {
+      "standard-wing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redwing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2689",
+    "meaning": "试着做、观察发生什么，而非只凭想象",
+    "core": "EXPERIMENT：让想法接受一次实际尝试",
+    "image": "experiment → experimental、experimentation、experimenter，按一次试验、性质、过程和人物排在一起。",
+    "intro": "experiment with colours 日常尝试，experimental results 实验所得；experimental music 探索形式，不必都按实验室解释。",
+    "forms": "experīrī → experimentum 经法语 → experiment；experiment + -al/-ation/-er。\n\nexperiment、experience、expert 共享拉丁尝试、检验材料的历史；expertise 经法语专家鉴定、专长名词另行借入，不是 experiment 的机械缩写。\n\n法语、拉丁经历词借入，经验总体与一次次经历的可数用法分开。\n\n拉丁 experiri 的分词 expertus 经法语借入，英语形容词可转为专家名词。\n\n拉丁尝试词族经法语形成英语名词，英语再有动词用法。\n\n拉丁 experiri、experientia 经法语借入，动词 ing 描写正在经历。",
+    "branches": [
+      [
+        "试验、性质、过程与人物",
+        "experiment · experimental · experimentation · experimenter"
+      ],
+      [
+        "experiri 尝试词族：试验、经历与专家",
+        "experiment · experience · expert · expertise"
+      ],
+      [
+        "experience → experiences：试过、经历与经验",
+        "experience · experiences"
+      ],
+      [
+        "expert → experts：经试验、经历而熟悉的人",
+        "expert · experts"
+      ],
+      [
+        "experiment → experiments：试验、检验与尝试",
+        "experiment · experiments"
+      ],
+      [
+        "experience → experiencing：亲身走过，而非只听说",
+        "experience · experiencing"
+      ]
+    ],
+    "contrasts": "experiment/experience 实验经验；experimental/experienced 实验性与有经验；experimenter/participant 实施者参加者。",
+    "practice": "The experimenter encouraged experimentation and recorded the experimental results.\n\n实验者鼓励尝试，并记录实验结果。",
+    "words": [
+      "experiment",
+      "experimental",
+      "experimentation",
+      "experimenter",
+      "experience",
+      "expert",
+      "expertise",
+      "experiences",
+      "experts",
+      "experiments",
+      "experiencing"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "B2741",
+    "meaning": "留神听、听众、倾听与可听性",
+    "core": "LISTEN：把注意力给声音，而非只听见",
+    "image": "listen 动作，listener 听的人，listening 活动和听力，listenable 再说内容听起来怎么样。",
+    "intro": "listen 来自古英语听的词族，与 list 清单分开。t 不发音，衍生词也延续；listen to 是最常见接对象结构。",
+    "forms": "listen → listener、listening、listenable。\n\nlisten 的 t 不发音；listens 词尾 /z/，listened 词尾 /d/；与 list 清单不是现代拼接关系。\n\n本族听取动词加人物 er，t 不发音。\n\n与 listen 比较听取信息，不是现代 listen 派生。侦察 scout 接法语 escouter 听，上接拉丁 auscultare；具体英语动词亦有从旧警卫称呼形成的分析。另源的蔑视动词暂不展开。",
+    "branches": [
+      [
+        "动作、人物、活动及性质",
+        "listen · listener · listening · listenable"
+      ],
+      [
+        "listen → listens／listened：主动留神听",
+        "listen · listens · listened"
+      ],
+      [
+        "listen → listener → listeners：主动听的人",
+        "listen · listener · listeners"
+      ],
+      [
+        "scout：从听取到侦察、寻找人才",
+        "scout · scouts · scouted · scouting"
+      ]
+    ],
+    "contrasts": "listen to，不是 listen someone；hear 听见、listen 留心听；listenable 不只 audible 听得见。",
+    "practice": "The regular listener found the new programme easy to listen to.\n\n这位固定听众觉得新节目听起来很轻松。",
+    "words": [
+      "listen",
+      "listener",
+      "listening",
+      "listenable",
+      "listens",
+      "listened",
+      "listeners",
+      "scout",
+      "scouts",
+      "scouted",
+      "scouting"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3341",
+    "meaning": "一份、股份；分享、共用与分担",
+    "core": "SHARE：分出一份，也可把东西放在一起共用",
+    "image": "分蛋糕是一份，分担费用是责任共担，股份是公司权益份额；数字分享又不必让原物消失。",
+    "intro": "share 接古英语分切、份额词族。先看基础和可分享性，再把股东、持股成组；shareware、rideshare 是固定分发、出行模式名称。",
+    "forms": "share → shareable；shareholder 人物 → shareholding 份额；shareware 软件模式，rideshare 车程服务。\n\nshare 接古英语 sċearu 部分、切分词族；shares 可数份额，shared 可说共同使用、拥有或感受。\n\nshare 去 e 加 -ing；sharing 可说交流信息，也可说共同使用、共同承担，不一律等于转发。\n\nshare、shear 接不同古英语名词、动词，同属较早剪切材料。sheer 另作同音辨析：其更远词源有剪切、亮泽等不同分析，不列为已确定的剪切同源词。\n\nshare 股份 + hold 持有 + -er 人 → shareholder，复数给整个名词末尾加 s；这里的 share 是公司份额，holder 是持有者。",
+    "branches": [
+      [
+        "份额、分享及可分享性",
+        "share · shareable"
+      ],
+      [
+        "股东和持股",
+        "shareholder · shareholding"
+      ],
+      [
+        "软件与车程模式",
+        "shareware · rideshare"
+      ],
+      [
+        "share → shares／shared：分出的一份与共同使用",
+        "share · shares · shared"
+      ],
+      [
+        "share → shares／shared／sharing：分给、共用与交流",
+        "share · sharing"
+      ],
+      [
+        "share 与剪切同源词：一份、剪开；附 sheer 同音辨析",
+        "share · shear · shears · sheared · shearing · shorn · sheer"
+      ],
+      [
+        "shareholder → shareholders：持有股份的人",
+        "shareholder · shareholders"
+      ]
+    ],
+    "contrasts": "shareholder 不等于所有 stakeholder；shareware 不一定免费；rideshare 不保证多人拼同一辆车。",
+    "practice": "The shareholders shared the cost of creating a shareable report.\n\n股东们分担了制作可分享报告的费用。",
+    "words": [
+      "share",
+      "shareable",
+      "shareholder",
+      "shareholding",
+      "shareware",
+      "rideshare",
+      "shares",
+      "shared",
+      "sharing",
+      "shear",
+      "shears",
+      "sheared",
+      "shearing",
+      "shorn",
+      "sheer",
+      "shareholders"
+    ],
+    "exclude": {
+      "sharer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3861",
+    "meaning": "储存、储备、商店；空间与看管者",
+    "core": "STORE：留着供使用，再看储备与商店",
+    "image": "store food 是存食物，a food store 是食品店；storage 说储存过程、空间，storekeeper 看管物资或店铺。",
+    "intro": "store 经法语接拉丁配备、建立词族。restore 的旧拉丁重建背景另看历史，不能只按英语重新存入解释恢复。",
+    "forms": "store → storage、storekeeper；drugstore、bookstore、webstore 按所售物和媒介；storehouse、storeroom 看存放建筑、房间。\n\n法语供应、储备词族借入，商品储放地点后来有商店义。\n\n法语旧形式接拉丁 instaurare 的建立、配备词族，现代 ed 在 r 等浊音后读 d。\n\nstore 取商店用法，和 bookshop 意义重叠。",
+    "branches": [
+      [
+        "储存、空间及管理",
+        "store · storage · storekeeper"
+      ],
+      [
+        "不同商店及店面",
+        "drugstore · bookstore · superstore · webstore · storefront"
+      ],
+      [
+        "仓储地点",
+        "storehouse · storeroom"
+      ],
+      [
+        "历史相关、现代非直接拆分",
+        "restore"
+      ],
+      [
+        "store → stores：储备、存放与商店",
+        "store · stores"
+      ],
+      [
+        "store → stored：先留下，供以后用",
+        "store · stored"
+      ],
+      [
+        "bookstore → bookstores：售书店",
+        "bookstore · bookstores"
+      ]
+    ],
+    "contrasts": "store 存，restore 恢复；storage 不通常说一间商店；drugstore 不把 drug 只认成毒品。",
+    "practice": "The storekeeper stored the boxes in the storeroom to save space in the store.\n\n店铺管理员把箱子放进储物间，腾出店内空间。",
+    "words": [
+      "store",
+      "storage",
+      "storekeeper",
+      "drugstore",
+      "bookstore",
+      "superstore",
+      "webstore",
+      "storefront",
+      "storehouse",
+      "storeroom",
+      "restore",
+      "stores",
+      "stored",
+      "bookstores"
+    ],
+    "exclude": {
+      "e-store": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "storer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "instore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3911",
+    "meaning": "事物联系、亲属；相处关系及相关性质",
+    "core": "RELATION：怎样联系，或因什么关系连在一起",
+    "image": "relation 可说联系，也可指亲戚本人；relationship 常说相处、关联状态；relational 是关系方面的形容词。",
+    "intro": "relation 经法语接拉丁 relātiō，与 referre、relātus 历史相关。现代分清名词与形容词，比把所有中文关系都同词替换更有用。",
+    "forms": "relation → relationship、relational；-ship 说关系状态，-al 说相关性质。\n\n-ship 表状态、关系；relationship 包括人际关系及事物关联。\n\n拉丁不规则词干 relāt- 与 referre 同族，名词有独立借入路线。",
+    "branches": [
+      [
+        "关系、相处和性质",
+        "relation · relationship · relational"
+      ],
+      [
+        "relation → relationship → relationships：联系与相处",
+        "relationship · relationships"
+      ],
+      [
+        "relation → relations：联系、关系与亲属",
+        "relation · relations"
+      ]
+    ],
+    "contrasts": "a relation 可以是一位亲戚；relationship 不只恋爱；relational database 有专门数学关系模型背景。",
+    "practice": "The article explains the relationship between social experience and relational skills.\n\n文章解释了社会经历与人际关系技能之间的联系。",
+    "words": [
+      "relation",
+      "relationship",
+      "relational",
+      "relationships",
+      "relations"
+    ],
+    "exclude": {
+      "co-relation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

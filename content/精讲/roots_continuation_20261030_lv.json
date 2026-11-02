@@ -1,0 +1,140 @@
+[
+  {
+    "id": "B3846",
+    "meaning": "人名昵称转为娃娃，又形成亲昵称呼和设备名",
+    "core": "DOLL：像一个小人，名字也能借给小装置",
+    "image": "doll → dolly；doll up 是打扮的常用短语。",
+    "intro": "人名、玩具、设备不必是毫无联系的三个死词。昵称的传播路线能帮助理解，但每种机械命名细节不硬编。",
+    "forms": "Dorothy → Doll → doll；-y 亲昵形式 dolly；up 参与打扮短语。\n\nDoll 是 Dorothy 等的人名昵称形式，后来有玩偶、娃娃名词用法。现代复数 -s 在 /l/ 后读 /z/；用来称呼真人的口语语气要看关系。",
+    "branches": [
+      [
+        "玩偶、昵称与设备",
+        "doll · dolly"
+      ],
+      [
+        "人名昵称 → doll → dolls",
+        "dolls"
+      ]
+    ],
+    "contrasts": "dolly 摄影移动与 zoom 不同；doll 指真人语气看关系；dollar 另有来历。",
+    "practice": "The child put her dolly beside the larger doll.\n\n孩子把小娃娃放在较大的玩偶旁。",
+    "words": [
+      "doll",
+      "dolly",
+      "dolls"
+    ],
+    "exclude": {
+      "doll-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2702",
+    "meaning": "制革树皮到鞣皮、棕色，另辨旧枝条 tān",
+    "core": "TAN：先把皮鞣成革，再借它说棕褐色",
+    "image": "tan → tanner、tannery、suntan；mistletoe 单列旧枝条来源。",
+    "intro": "制革工在制革厂处理皮革，颜色再延伸到晒后肤色。mistletoe 看似也接 tan，实际上是另一个表示枝条的旧词。",
+    "forms": "tan、tannāre 等制革词族；-er 人物，-ery 场所，sun 太阳；mistel + tān → mistletoe。",
+    "branches": [
+      [
+        "动作、人物与场所",
+        "tan · tanner · tannery"
+      ],
+      [
+        "日晒颜色",
+        "suntan"
+      ],
+      [
+        "同形旧词的比较",
+        "mistletoe"
+      ]
+    ],
+    "contrasts": "tanner 人、tannery 场所；tan 也作颜色；mistletoe 不来自晒黑或脚趾。",
+    "practice": "The tanner worked in a tannery beside the river.\n\n制革工在河边的制革厂工作。",
+    "words": [
+      "tan",
+      "tanner",
+      "tannery",
+      "suntan",
+      "mistletoe"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4007",
+    "meaning": "树木、梁柱到光束，再到笑容和传送",
+    "core": "BEAM：一根长梁、一束长光，笑容也能亮起来",
+    "image": "beam → sunbeam、moonbeam。",
+    "intro": "阳光、月光在前项说明来源；beam 自身还保留梁和动词笑容、传送义。用形状、光亮串起来，再看对象。",
+    "forms": "bēam → beam；sun 太阳、moon 月亮 + beam；更远树名来源有讨论。\n\n古英语已有柱木、光柱材料，现代发光动词走向笑得明亮、定向传送；不能只按建筑梁解释所有动作。\n\n树、柱梁的旧名词早已发展出光柱、光束义；动词从发光扩到灿烂笑容、定向传播，beamed 按场景选择。",
+    "branches": [
+      [
+        "梁、光与光源复合",
+        "beam · sunbeam · moonbeam"
+      ],
+      [
+        "beam 的柱梁、光束与灿烂笑容",
+        "beam · beams · beaming"
+      ],
+      [
+        "beam 的发光、灿烂笑与传送",
+        "beam · beams · beamed · beaming"
+      ]
+    ],
+    "contrasts": "梁不只木制；beam with pride 是笑容；beamish、部分 beamer 行业用法先略过。",
+    "practice": "A moonbeam fell across the old roof beam.\n\n一束月光落在旧屋顶梁上。",
+    "words": [
+      "beam",
+      "sunbeam",
+      "moonbeam",
+      "beams",
+      "beaming",
+      "beamed"
+    ],
+    "exclude": {
+      "beamer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beamish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1912",
+    "meaning": "化学名称中的醇、羟基线索，也要看完整组合",
+    "core": "-OL：认出结构线索，再看碳骨架、数量和其他前项",
+    "image": "methanol、ethanol；glycol、diol、glycerol；menthol、retinol、cortisol；thiol 另看硫的对应。",
+    "intro": "这里的词尾帮助读名称，不让所有词变成同一种酒精。di- 可数两个羟基，thio- 则把结构类比引到硫；复杂保留名称仍须按整词识别。",
+    "forms": "-ol 从 alcohol 的末段形成化学命名后缀；meth-、eth- 联系碳骨架系列，di- 两，thio- 硫。",
+    "branches": [
+      [
+        "基础醇与羟基数量",
+        "methanol · ethanol · glycol · diol · glycerol"
+      ],
+      [
+        "常见复杂保留名称",
+        "menthol · retinol · cortisol"
+      ],
+      [
+        "硫的对应结构",
+        "thiol"
+      ]
+    ],
+    "contrasts": "带 -ol 不表示可饮用；thiol 看 —SH；glycol 与 diol 的类别范围有细分；gasoline 不按本后缀解释成某种醇。",
+    "practice": "The report distinguishes methanol, ethanol and several diols.\n\n报告区分甲醇、乙醇及几种二醇。",
+    "words": [
+      "methanol",
+      "ethanol",
+      "glycol",
+      "diol",
+      "glycerol",
+      "menthol",
+      "retinol",
+      "cortisol",
+      "thiol"
+    ],
+    "exclude": {
+      "gasoline": "汽油名称及其历史构成另见该词，不以醇类 -ol 后缀归为一种醇。",
+      "inositol": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "propranolol": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cannabidiol": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "haloperidol": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

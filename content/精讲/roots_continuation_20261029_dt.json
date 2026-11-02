@@ -1,0 +1,62 @@
+[
+  {
+    "id": "B3120",
+    "meaning": "钥匙、按键、关键与音乐中心",
+    "core": "KEY：打开、控制、解答与中心作用",
+    "image": "把钥匙物件、键盘按键和音乐中心分组，再看 keynote、keystone、turnkey 各自的具体故事。",
+    "intro": "key 继承古英语 cǣġ，更远来源不明。音乐的调与乐器键还接欧洲音乐术语传统，不能把所有意义都当现代开门记忆故事。",
+    "forms": "key → keyless；key + hole、ring、chain；键义 → keyboard、keypad、keystroke；keynote 音乐主音 → 主旨；keystone 拱顶石 → 核心。\n\n本族钥匙词与音乐语境的拉丁 clavis 影响共同参与相关意义发展。\n\nhole 提供开口，ring 提供环状器具，不能换成音乐键和响铃义。\n\nkey 取键的用法，和钥匙的器物用途分别认。",
+    "branches": [
+      [
+        "核心与钥匙物件",
+        "key · keyless · keyhole · keyring · keychain"
+      ],
+      [
+        "按键与信息输入",
+        "keyboard · keypad · keystroke · keyword"
+      ],
+      [
+        "中心、支撑与即用交付",
+        "keynote · keystone · turnkey"
+      ],
+      [
+        "key → keys：开锁工具、按键与答案关键",
+        "key · keys"
+      ],
+      [
+        "key 的两种用品组合：钥匙孔与钥匙环",
+        "key · keyhole · keyholes · keyring · keyrings"
+      ],
+      [
+        "key 的输入组合：键盘、按键小面板",
+        "key · keyboard · keyboards · keypad · keypads"
+      ]
+    ],
+    "contrasts": "keypad 是小键盘，keystroke 是按键动作；keynote 的 note 接音符，keystone 的 stone 接石拱。keyless 不等于没上锁。",
+    "practice": "The keynote speaker called trust the keystone of teamwork.\n\n主旨演讲嘉宾称信任是团队合作的核心支撑。",
+    "words": [
+      "key",
+      "keyless",
+      "keyhole",
+      "keyring",
+      "keychain",
+      "keyboard",
+      "keypad",
+      "keystroke",
+      "keyword",
+      "keynote",
+      "keystone",
+      "turnkey",
+      "keys",
+      "keyholes",
+      "keyrings",
+      "keyboards",
+      "keypads"
+    ],
+    "exclude": {
+      "high-key": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-key": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-key": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "B2800",
+    "meaning": "使起作用、激活，以及使失去活性",
+    "core": "ACTIVATE：让原本没运转的能力开始起作用",
+    "image": "activate → activation、activator；deactivate、inactivate 停用或失活；reactivate 再次激活。",
+    "intro": "先看起作用，再把过程、促成者和反向操作接起来。失去活性不一定是物体消失，重新激活则是恢复其作用。",
+    "forms": "active → activate；-ation 过程，-or 促成者；de-、in- 在本组关联停用、无活性，re- 表再次。\n\n英语 activ 词干加动词后缀 ate；active 早经法语接拉丁 activus。",
+    "branches": [
+      [
+        "激活、过程与促成者",
+        "activate · activation · activator"
+      ],
+      [
+        "停用、失活与恢复",
+        "deactivate · inactivate · reactivate"
+      ],
+      [
+        "activate → activated：让它开始起作用",
+        "active · activate · activated"
+      ]
+    ],
+    "contrasts": "activation 是过程，activator 是促成者；inactivate、deactivate 的范围有重叠，按语境选。",
+    "practice": "The team studied activation and compared the effects of two activators.\n\n团队研究了激活过程，并比较两种活化剂的作用。",
+    "words": [
+      "activate",
+      "activation",
+      "activator",
+      "deactivate",
+      "inactivate",
+      "reactivate",
+      "active",
+      "activated"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4427",
+    "meaning": "具有或缺少特定技能训练",
+    "core": "SKILLED：手里的这份活，是否已经受过训练、做得熟",
+    "image": "skilled → unskilled。",
+    "intro": "技能要放在具体任务里看：擅长一门手艺的人，也可能对另一项操作毫无经验。工作分类与人的全部能力分开理解。",
+    "forms": "skill + -ed → skilled；un- + skilled → unskilled。",
+    "branches": [
+      [
+        "技能状态及其否定",
+        "skilled · unskilled"
+      ]
+    ],
+    "contrasts": "skilled 强调相应本领；experienced 强调经验；unskilled 通常有具体工作范围。",
+    "practice": "Skilled workers helped train the unskilled newcomers.\n\n熟练工帮助培训尚无相关技能的新员工。",
+    "words": [
+      "skilled",
+      "unskilled"
+    ],
+    "exclude": {
+      "low-skilled": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3996",
+    "meaning": "轮子中心扩展为枢纽；hubby 的常用义另有来源",
+    "core": "HUB：许多连接向中心汇聚",
+    "image": "hub 是中心；husband → hubby 是另一路昵称。",
+    "intro": "从轮毂联想到交通、文化、贸易汇聚点很直观。hubby 虽然开头相同，常用丈夫义却来自 husband，单列在旁边辨清。",
+    "forms": "hubbe → hub；husband 的截短昵称 + -y → hubby。\n\n早期方言 hubbe，远源不定，现代复数直接加 s。",
+    "branches": [
+      [
+        "轮毂与枢纽",
+        "hub"
+      ],
+      [
+        "不同来源的丈夫昵称",
+        "husband · hubby"
+      ],
+      [
+        "hub → hubs：车轮中心到连接枢纽",
+        "hub · hubs"
+      ]
+    ],
+    "contrasts": "hub 的枢纽义突出连接汇聚；hubby 常用义来自 husband，语体随意。",
+    "practice": "Her hubby works near the city’s main transport hub.\n\n她丈夫在城市主要交通枢纽附近工作。",
+    "words": [
+      "hub",
+      "husband",
+      "hubby",
+      "hubs"
+    ],
+    "exclude": {
+      "e-hub": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3362",
+    "meaning": "地名经文学关联，形成女性同性恋的现代称呼",
+    "core": "LESBIAN：从岛名到与女性之间爱恋相关的称呼",
+    "image": "Lesbos → lesbian → lesbianism。",
+    "intro": "地名成为人物、属性名称，再加后缀成为抽象现象。记住文学关联，就不必把现代意思硬塞进岛名字面。",
+    "forms": "Lesbos 的地域称呼经过拉丁语及欧洲语言形式发展；lesbian + -ism → lesbianism。",
+    "branches": [
+      [
+        "人物、属性与抽象现象",
+        "lesbian · lesbianism"
+      ]
+    ],
+    "contrasts": "lesbian 可名词、形容词；lesbianism 通常抽象不可数。古代人物的生平与现代标签不宜简单画等号。",
+    "practice": "The course discusses lesbian writers and representations of lesbianism in fiction.\n\n这门课讨论女同性恋作家，以及小说中对女性同性恋的呈现。",
+    "words": [
+      "lesbian",
+      "lesbianism"
+    ],
+    "exclude": {
+      "ex-lesbian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-lesbian": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lesbo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4191",
+    "meaning": "像岛一样分开，动作、状态和装置连着理解",
+    "core": "ISOLATE：从周围分离出来，像留出一座独立小岛",
+    "image": "isolate → isolation、isolator。",
+    "intro": "可以隔开人、设备或样品，也可以从复杂问题里单独找出一个因素。动作变成状态名词，再变成执行隔离的装置名称。",
+    "forms": "拉丁 īnsula 岛 → 意大利 isolato、法语 isolé → 英语 isolated；isolate 有逆构过程；-ion 过程、状态，-or 装置。",
+    "branches": [
+      [
+        "隔开、隔离过程与装置",
+        "isolate · isolation · isolator"
+      ]
+    ],
+    "contrasts": "isolate 的岛意象属于词源，现代不要求真的四面环水；isolator 与 isolation 分别说装置和状态、过程。",
+    "practice": "The isolator keeps the samples in isolation from the surrounding environment.\n\n隔离装置使样品与周围环境分开。",
+    "words": [
+      "isolate",
+      "isolation",
+      "isolator"
+    ],
+    "exclude": {
+      "self-isolate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

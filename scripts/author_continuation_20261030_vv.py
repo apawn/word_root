@@ -1,0 +1,107 @@
+"""Twelve very frequent verb forms, with useful sentence structures."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3216':dict(words=['call','called'],label='call → called：称作、打电话与要求',note='called 是规则过去、分词形式；be called 常说名字，call for 则要整体看搭配。'),
+ 'B2868':dict(words=['get','getting'],label='get → getting：得到、变得与进行中的变化',note='getting 双写 t，重点理解 get 后面接名词、形容词或分词时的不同结构。'),
+ 'C1594':dict(words=['use','using'],label='use → using：使用与用某种方式',note='using 来自动词 use，s 读 z；名词 use 则常读 s。'),
+ 'C0232':dict(words=['include','including'],label='include → including：把某物包含在内',note='including 既可作动词形式，也常作介词引出包括的例项，延续包含在内的画面。'),
+ 'B3634':dict(words=['follow','following'],label='follow → following：跟随、接下来的与追随群体',note='following 可作动词、形容词、介词和名词，分别用跟在后面的画面理解。'),
+ 'B2894':dict(words=['make','makes'],label='make → makes：做出、使得与品牌复数',note='makes 可为 make 的第三人称单数，也可是制造品牌、型号类别的名词复数。'),
+ 'B2841':dict(words=['come','comes'],label='come → comes：来到、出现与固定结构',note='comes 是第三人称单数；在某种形态出售、谈到某事等搭配中，不能每次都直译走来。'),
+ 'B2871':dict(words=['go','goes'],label='go → goes：去、运转、进展与相配',note='goes 加 es 但不增加音节，英 /ɡəʊz/、美 /ɡoʊz/；过去式 went 是另一形式。'),
+ 'B2550':dict(words=['know','knows'],label='know → knows：知道、认识',note='knows 的 k 仍不发音；区分 knows、knew、known 的语法位置。'),
+ 'A1740':dict(words=['seem','seems'],label='seem → seems：看起来、似乎',note='seems 是 seem 的第三人称单数，继承看起来、似乎的意思；后面常接形容词或 to 加动词。'),
+ 'B3173':dict(words=['want','wants'],label='want → wants：想要与想要的东西',note='wants 是普通动词第三人称单数，也可作名词复数；较早缺乏义发展为想要。'),
+ 'B3918':dict(words=['need','needs'],label='need → needs：需要与具体需求',note='needs 可以是动词，也可以是名词复数，meet people’s needs 中是满足人们的需求。'),
+}
+W('called','英 /kɔːld/；美 /kɔːld/、/kɑːld/','称作、叫作；打电话、召唤了；call 的过去式、过去分词',
+ '给某人打过电话，或说一个地方叫什么，都可能看到 called。先看它是主动动作，还是 be called 说明名称。',
+ 'call + -ed，/l/ 后读 /d/。call 经较早英语、北欧语召唤、称呼词族发展，现代命名、电话、要求等义在过去、分词形式中保留。',
+ [['较早英语、北欧语称呼、召唤词 → call','叫某人、称某名；后来也用于电话'],['call + -ed → called','过去叫、联系；被称作某名']],
+ 'a town called ... 一座叫……的镇；called me yesterday 昨天给我打过电话；called for more time 要求更多时间；called off the meeting 取消了会议。',
+ 'be called ...；called back later。','be called 后常直接接名称：a cafe called Rose。call for、call off 是不同搭配，分别可说要求、需要与取消。',
+ ('The cafe is called Rose Garden.','这家咖啡馆叫 Rose Garden。'),('She called me yesterday to ask about the trip.','她昨天给我打电话，询问旅行的事。'),sources=['https://en.wiktionary.org/wiki/called#English','https://en.wiktionary.org/wiki/call#English'])
+W('getting','/ˈɡetɪŋ/','正在得到、取得；正变得；get 的 -ing 形式',
+ '东西到手、状态发生变化、慢慢接近某个结果，都能用 getting。先看后面接的是什么，再理解变化的方向。',
+ 'get 双写 t 加 -ing。get 主要经古诺尔斯语 geta 获得、取得进入英语；得到一个结果的画面扩大到变成某种状态等。',
+ [['古诺尔斯语 geta → get','获得、取得'],['get 双写 t + -ing → getting','正在得到；变化正在推进']],
+ 'getting a ticket 拿到票；getting colder 越来越冷；getting ready 正在准备；getting to know someone 逐渐了解某人；getting there 正在接近完成。',
+ 'getting better；getting used to it。','getting 后接形容词常说变得：getting tired 渐渐累了。getting used to 后的 to 是介词，接名词或动名词，表示逐渐习惯。',
+ ('It is getting dark, so let us head home.','天渐渐黑了，我们回家吧。'),('I am getting used to working in the new office.','我正逐渐习惯在新办公室工作。'),sources=['https://en.wiktionary.org/wiki/getting#English','https://en.wiktionary.org/wiki/get#English'])
+W('using','/ˈjuːzɪŋ/','使用、利用；用……的方式；use 的 -ing 形式',
+ '把某个工具、材料或方法拿来达到目的，就是 using。它也能把方法直接放在句后：using a map，用地图。',
+ '动词 use 去 e 加 -ing，s 保持动词的 /z/。动词经法语 user 接拉丁 uti、usus 使用词族；名词 use 常见 /s/ 结尾，读音需分词性。',
+ [['拉丁使用词族 → 法语 user → use 动词','把工具、方法等用于某事'],['use 去 e + -ing → using','正在使用；说明所用的方法']],
+ 'using a computer 使用电脑；using both hands 用双手；by using a map 通过使用地图；using recycled paper 使用再生纸。',
+ 'avoid using ...；without using ...。','by using 常明确方法；using 单独引出的分词短语也能补充方法，要让它和做动作的人对应清楚。名词 use 的 /s/ 不照搬到 using。',
+ ('She opened the box using a small key.','她用一把小钥匙打开了盒子。'),('We are using recycled paper for the invitations.','我们正用再生纸制作邀请函。'),sources=['https://en.wiktionary.org/wiki/using#English','https://en.wiktionary.org/wiki/use#English'])
+W('including','/ɪnˈkluːdɪŋ/','包括、包含……在内；include 的 -ing 形式',
+ '先画一个范围，再把某人某物放进这个范围：including 就是特别说明它也在里面。',
+ 'include 去 e 加 -ing。拉丁 in- 在内 + claudere 关、围 → includere 包含在内；英语 -ing 形式常进一步作介词，引出范围中的成员、项目。',
+ [['拉丁 in- + claudere → includere → include','关在范围内 → 包括'],['include 去 e + -ing → including','正在包括；常作介词引出包含的项目']],
+ 'including breakfast 包括早餐；everyone, including me 所有人，包括我；including tax 含税；without including ... 不把……包括在内。',
+ 'several people, including ...；including all the details。','including 后常接名词、代词等，意为也包括；such as 常举例，侧重点不同。Everyone, including the guides, was ready 的主语仍是 everyone。',
+ ('Six people joined us, including two neighbours.','六个人加入了我们，其中包括两位邻居。'),('The price is eighty dollars, including breakfast.','价格是八十元，包括早餐。'),sources=['https://en.wiktionary.org/wiki/including#English','https://en.wiktionary.org/wiki/include#English'])
+W('following','英 /ˈfɒləʊɪŋ/；美 /ˈfɑːloʊɪŋ/','跟随、遵循；接下来的；在……之后；追随群体',
+ '一个接在另一个后面，是 follow；following 把这个画面用到移动、顺序、时间和追随者群体。',
+ 'follow + -ing，不双写末尾 w；接古英语 folgian 跟随。由动词形式扩展为接下来的形容词、之后的介词，以及追随群体的名词。',
+ [['古英语 folgian → follow','跟在后面；遵循、理解'],['follow + -ing → following','正在跟随；顺序、时间上的随后；追随群体']],
+ 'following the instructions 按说明做；the following day 第二天；the following questions 下列问题；following the meeting 会后；a loyal following 一群忠实追随者。',
+ 'the following week；a growing following。','the following day 从故事中的某天往后数，未必是今天的明天。following a discussion 可以是之后，也可能是正在跟进讨论，靠结构、上下文判断。',
+ ('We returned the following morning.','我们第二天早上回去了。'),('The singer has a small but loyal following.','这位歌手有一群人数不多却很忠实的支持者。'),sources=['https://en.wiktionary.org/wiki/following#English','https://en.wiktionary.org/wiki/follow#English'])
+W('makes','/meɪks/','制作、使得、达到等〔make 的第三人称单数〕；品牌、型号类别〔名词复数〕',
+ 'He makes bread 说他做面包；It makes me happy 说它让我高兴。换到 different makes of cars，又是在数不同品牌的汽车。',
+ '动词 make 或现代品牌义名词 make 加 s，/k/ 后读 /s/。动词接古英语 macian 制作，现代品牌义从制造类型、方式发展；两种语法角色同形。',
+ [['古英语 macian → make','制作、使成；现代也形成制造类型、品牌名词'],['make + -s → makes','单数主语的制作、使得等；多个品牌']],
+ 'makes dinner 做晚饭；makes me laugh 让我发笑；makes a difference 产生影响；different makes of bikes 不同品牌的自行车。',
+ 'makes it easier；makes the room look bigger。','make someone do 的 do 用动词原形：makes me laugh。被动 be made to do 才常出现 to；名词 makes 另要从品牌语境判断。',
+ ('This extra window makes the room look bigger.','多出的这扇窗让房间显得更大。'),('The shop repairs several makes of bicycles.','这家店维修几个品牌的自行车。'),sources=['https://en.wiktionary.org/wiki/makes#English','https://en.wiktionary.org/wiki/make#English'])
+W('comes','/kʌmz/','来、出现、到来；以某形式供应等；come 的第三人称单数',
+ '东西朝谈话的中心来到，是 comes；机会出现、结果到来，也借这个画面。商品以什么颜色、样式出现，则常说 comes in。',
+ 'come 末尾已有 e，直接加 s，词尾读 /z/。come 继承古英语 cuman 的来、到达词族；comes 是现在时单数主语的形式。',
+ [['古英语 cuman → come','来、到达；后来有出现、结果等扩展'],['come + -s → comes','他、她、它或单数事物的到来、出现等']],
+ 'comes home 回家；comes from ... 来自……；comes in three colours 有三种颜色；when it comes to ... 谈到……；comes to ten dollars 合计十元。',
+ 'here comes the bus；comes with a case。','comes with a case 常说附带一个盒子、套；when it comes to 后的 to 是介词，可接名词或动名词：when it comes to cooking。',
+ ('This notebook comes in three colours.','这款笔记本有三种颜色。'),('When it comes to cooking, he is very patient.','说到做饭，他很有耐心。'),sources=['https://en.wiktionary.org/wiki/comes#English','https://en.wiktionary.org/wiki/come#English'])
+W('goes','英 /ɡəʊz/；美 /ɡoʊz/','去、走；运行、进展、相配等；go 的第三人称单数',
+ '人去某处、事情往前推进、机器运转，都能用 goes。说一种颜色和另一种相配，也常说 goes with。',
+ 'go 加 -es 写 goes，但词尾只读 /z/，不另加一个音节。go 接古英语 gan；goes 是现在时第三人称单数，went 是另一来源进入变化表的过去式。',
+ [['古英语 gan → go','去、移动 → 运转、进展等'],['go + -es → goes','单数主语的现在时；读 /ɡəʊz/、/ɡoʊz/']],
+ 'goes to work 去上班；goes well 进展顺利；goes with ... 与……相配；goes wrong 出错；as time goes by 随着时间过去。',
+ 'see how it goes；the story goes ...。','goes、went、gone 分别用于不同结构，不是可随意替换的三种拼写。goes with 往往是相配或伴随，要按后面的对象理解。',
+ ('The blue scarf goes well with your coat.','这条蓝围巾和你的外套很搭。'),('Let us try the new plan and see how it goes.','我们试试新计划，看看进展怎样。'),sources=['https://en.wiktionary.org/wiki/goes#English','https://en.wiktionary.org/wiki/go#English'])
+W('knows','英 /nəʊz/；美 /noʊz/','知道、了解、认识；know 的第三人称单数',
+ '一个人心里已有这份信息、经验，或者与某人相识，就可以说 he knows。它表示已掌握、已认识的状态。',
+ 'know + -s，开头 k 不发音，末尾读 /z/。接古英语 cnawan 知道、认识词族；较早开头曾有辅音组合，现代读音已简化。',
+ [['古英语 cnawan → know','知道、认识'],['know + -s → knows','单数主语知道、了解；开头 k 仍不发音']],
+ 'knows the answer 知道答案；knows how to cook 知道怎样做饭；knows that ... 知道……；knows someone well 很了解某人。',
+ 'Who knows?；as everyone knows。','knows 和 nose 常同音。I know 是我知道，He knows 是他知道；通常的认知状态用一般时表达。know of、know about、know someone 的熟悉程度、对象又各有侧重。',
+ ('She knows how to repair the old radio.','她知道怎样修好那台旧收音机。'),('He knows the area well because he grew up here.','他很熟悉这一带，因为他在这里长大。'),sources=['https://en.wiktionary.org/wiki/knows#English','https://en.wiktionary.org/wiki/know#English'])
+W('seems','/siːmz/','似乎、看起来；seem 的第三人称单数',
+ '根据眼前表现作判断，但话里留着余地：She seems tired，她似乎累了。seems 说的是给人的印象。',
+ 'seem + -s，/m/ 后读 /z/。seem 借古诺尔斯语相称、合适等词，经中古英语发展到看起来、似乎的用法。',
+ [['古诺尔斯语相称、合适词 → seem','较早相称义 → 看起来呈某状态'],['seem + -s → seems','单数主语给人的印象、推测']],
+ 'seems tired 似乎累了；seems to know 似乎知道；It seems that ... 看来……；seems like a good idea 似乎是个好主意。',
+ 'seems reasonable；There seems to be ...。','seems 后可直接接形容词，不用再加 is：seems tired。seems to be tired 也可以。It seems that 后则接完整从句。',
+ ('The plan seems reasonable to me.','我觉得这个计划似乎合理。'),('There seems to be a mistake in the address.','地址里似乎有一处错误。'),sources=['https://en.wiktionary.org/wiki/seems#English','https://en.wiktionary.org/wiki/seem#English'])
+W('wants','英 /wɒnts/；美 /wɑːnts/','想要、需要〔want 的第三人称单数〕；想要的东西、欲求〔名词复数〕',
+ 'She wants a break 是她想休息；needs and wants 则把必须满足的需求和想要的东西放在一起比较。',
+ '动词 want 或名词 want 加 -s，/t/ 后读 /s/。want 接古诺尔斯语缺乏的词族，缺少逐渐延伸到需要、想要；两种词性都保留对应意义。',
+ [['古诺尔斯语缺少词族 → want','缺乏 → 需要、想要'],['want + -s → wants','单数主语想要；多个欲求、想要的东西']],
+ 'wants to leave 想离开；wants someone to help 想让某人帮忙；knows what she wants 知道自己想要什么；needs and wants 需求与欲求。',
+ 'wants a little more time；different wants。','want someone to do 中有宾语和 to；make someone do 的结构不同。第三人称 wants to do 不写成 wants doing 来表达同一个想做动作。',
+ ('She wants to finish the book before the weekend.','她想在周末前读完这本书。'),('The exercise asks us to separate our needs from our wants.','这道练习要求我们区分必需的需求和想要的东西。'),sources=['https://en.wiktionary.org/wiki/wants#English','https://en.wiktionary.org/wiki/want#English'])
+W('needs','/niːdz/','需要〔need 的第三人称单数〕；需要的东西、需求〔名词复数〕',
+ '设备缺少电、一个人需要时间，动词可以说 needs。把不同人具体需要的东西列出来，名词也叫 needs。',
+ 'need + -s，/d/ 后读 /z/。need 承接古英语必要、欲求等相近词的合流；现代名词与普通动词都能形成 needs。',
+ [['较早英语必要、欲求词 → need','必要性、需求；需要某物'],['need + -s → needs','单数主语需要；多个具体需求']],
+ 'needs more time 需要更多时间；needs to rest 需要休息；meet people’s needs 满足人们的需求；different needs 不同需求。',
+ 'what she needs；the needs of the group。','needs to do 是主语需要做；needs cleaning／needs to be cleaned 常说某物需要被清洁。The room needs cleaning 里的 cleaning 具有被动含义。',
+ ('The room needs cleaning before the guests arrive.','客人到来前，这个房间需要打扫。'),('The new design meets the needs of different users.','新设计满足不同使用者的需求。'),sources=['https://en.wiktionary.org/wiki/needs#English','https://en.wiktionary.org/wiki/need#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_vv',ROOTS,WORDS)
+ extend_lessons()

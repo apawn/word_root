@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A2085",
+    "meaning": "球体到包围层、作用范围、活动领域",
+    "core": "-SPHERE：像包围成球的层，也能是某种作用范围",
+    "image": "atmosphere 气体；ionosphere 电离；magnetosphere 磁场；photosphere 光；blogosphere 网络活动领域。",
+    "intro": "球的画面帮助你抓包围、范围，别强求每个术语都是几何正球。不同科学词按气体、温度、电离、磁场等不同尺度命名，不只是顺序堆壳。",
+    "forms": "sphaira → sphaera/sphere → -sphere；atmo-/strato-/tropo-/iono-/litho-/magneto-/photo- + -sphere；blogosphere 活动领域比喻。",
+    "branches": [
+      [
+        "大气相关区域",
+        "atmosphere · troposphere · stratosphere · ionosphere"
+      ],
+      [
+        "其他实体、作用区域",
+        "lithosphere · magnetosphere · photosphere"
+      ],
+      [
+        "网络领域比喻",
+        "blogosphere"
+      ]
+    ],
+    "contrasts": "ionosphere/magnetosphere 电离与磁场尺度不同；photosphere 不是固体壳；-sphere 可只是作用范围。",
+    "practice": "The course compares the atmosphere, ionosphere and magnetosphere without treating them as identical kinds of layers.\n\n课程对比大气、电离层和磁层，并说明它们不是按同一种标准划分的层。",
+    "words": [
+      "atmosphere",
+      "troposphere",
+      "stratosphere",
+      "ionosphere",
+      "lithosphere",
+      "magnetosphere",
+      "photosphere",
+      "blogosphere"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1976",
+    "meaning": "光；由光成像延伸为摄影、照片",
+    "core": "PHOTO-：科学先读光，影像语境常读摄影、照片",
+    "image": "photograph → photographic；photosynthesis → photosynthetic；photojournalism/photojournalist 行业与人物；photorealistic 照片般逼真。",
+    "intro": "photons、光合作用里不是照片，摄影记者里也不只是物理光线。先看构词场景，前半段的光与照片两层关系就能分清。",
+    "forms": "phōs/phōt- → photo-；接 graph、synthesis、voltaic、genic 等科学材料；photo- 接 journalism/journalist/realistic；photosphere 在两种领域可作不同解释。",
+    "branches": [
+      [
+        "光成像与摄影",
+        "photograph · photographic · photocopy · photogenic"
+      ],
+      [
+        "新闻摄影行业和人物",
+        "photojournalism · photojournalist"
+      ],
+      [
+        "视觉逼真",
+        "photorealistic"
+      ],
+      [
+        "光的作用和感受",
+        "photon · photosynthesis · photosynthetic · photovoltaic · photoelectric · photoelectron · photosensitive · photoreceptor · photochemical · photoresist"
+      ],
+      [
+        "光的测量与层",
+        "photometry · photometric · photosphere"
+      ]
+    ],
+    "contrasts": "photo- 不总是照片；photojournalism/photojournalist 行业与人；photorealistic 不保证事件真实；photosphere 先看天文还是全景摄影。",
+    "practice": "The photojournalist studied light but did not mistake photorealistic art for documentary evidence.\n\n摄影记者研究光线，也会区分照片般逼真的艺术画面和纪实证据。",
+    "words": [
+      "photograph",
+      "photographic",
+      "photocopy",
+      "photogenic",
+      "photojournalism",
+      "photojournalist",
+      "photorealistic",
+      "photon",
+      "photosynthesis",
+      "photosynthetic",
+      "photovoltaic",
+      "photoelectric",
+      "photoelectron",
+      "photosensitive",
+      "photoreceptor",
+      "photochemical",
+      "photoresist",
+      "photometry",
+      "photometric",
+      "photosphere"
+    ],
+    "exclude": {}
+  }
+]

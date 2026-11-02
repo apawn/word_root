@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B2749",
+    "meaning": "歌曲、歌唱声；创作与鸟鸣",
+    "core": "SONG：一首歌，或歌唱的声音",
+    "image": "songwriter 是人，songwriting 是创作活动；songbird 是鸟，birdsong 是声音，用顺序抓住复合词中心。",
+    "intro": "song 由古英语 sang 延续，与 sing 历史同族。先看作品，再看创作者与过程，最后按鸟及鸣唱声成对记。",
+    "forms": "song → songwriter、songwriting、songbook；song + bird → songbird，bird + song → birdsong；evensong 是已学固定词。\n\nsong 继承古英语 sang，与 sing 有历史元音变化关系；现代复数直接加 s。\n\nsong 与 writer 组合，可能写词、写曲或参与其中，不要求每个人独力包办一首歌。",
+    "branches": [
+      [
+        "歌曲、创作与歌本",
+        "song · songwriter · songwriting · songbook"
+      ],
+      [
+        "鸟及鸣唱声",
+        "songbird · birdsong"
+      ],
+      [
+        "固定宗教用语",
+        "evensong"
+      ],
+      [
+        "sing／song → songs：歌唱与一首首歌",
+        "song · songs"
+      ],
+      [
+        "songwriter 的歌曲创作者复数",
+        "songwriter · songwriters"
+      ]
+    ],
+    "contrasts": "songwriter 不一定是演唱者；songwriting 不等于 recording；songbird 与 birdsong 换顺序换对象。",
+    "practice": "The songwriter listened to birdsong before starting a new song.\n\n歌曲创作者开始写新歌前，听了一会儿鸟鸣。",
+    "words": [
+      "song",
+      "songwriter",
+      "songwriting",
+      "songbook",
+      "songbird",
+      "birdsong",
+      "evensong",
+      "songs",
+      "songwriters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3143",
+    "meaning": "通过、经过、传递；通行物与认证",
+    "core": "PASS：从这一边通过到另一边",
+    "image": "pass 本身有经过、传递、及格等固定用法；交通设施分上下通行，认证用词分口令、代码和短语。",
+    "intro": "pass 经法语接通行、步子词族。overpass、underpass 用位置修饰通道；password、passcode、passphrase 用材料或形式修饰通行凭据。",
+    "forms": "pass → passing、passerby、passable、impassable；bypass 绕过；overpass 在上、underpass 在下；password、passcode、passphrase 并排辨析。\n\npassword、passcode 用法有交叠，具体格式不能仅凭词名推断。\n\npass 取获准通过，phrase 给短语式内容材料。",
+    "branches": [
+      [
+        "通过的基础及人物、性质",
+        "pass · passing · passerby · passable · impassable"
+      ],
+      [
+        "绕过和上下通行",
+        "bypass · overpass · underpass"
+      ],
+      [
+        "通行凭据、记录及认证",
+        "passport · passbook · password · passcode · passphrase"
+      ],
+      [
+        "pass 的通行认证组合及复数",
+        "password · passwords · passcode · passcodes"
+      ],
+      [
+        "passphrase → passphrases：口令短语",
+        "passphrase · passphrases"
+      ]
+    ],
+    "contrasts": "overpass 上跨，underpass 下穿；password、passcode 命名范围交叠；passphrase 说短语式口令，不自动保证强度。",
+    "practice": "The passerby used the overpass rather than crossing the busy road.\n\n路人走了天桥，没有直接横穿繁忙道路。",
+    "words": [
+      "pass",
+      "passing",
+      "passerby",
+      "passable",
+      "impassable",
+      "bypass",
+      "overpass",
+      "underpass",
+      "passport",
+      "passbook",
+      "password",
+      "passcode",
+      "passphrase",
+      "passwords",
+      "passcodes",
+      "passphrases"
+    ],
+    "exclude": {
+      "multi-pass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "passer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

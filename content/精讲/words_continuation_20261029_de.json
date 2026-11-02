@@ -1,0 +1,833 @@
+[
+  {
+    "word": "cost",
+    "ipa": "英 /kɒst/；美 /kɔːst/，亦 /kɑːst/",
+    "meaning": "花费；成本；代价；估算费用",
+    "sense": "为了拿到一个东西、完成一件事，要付出去多少；钱之外，机会、时间甚至信任也能算代价。",
+    "split": "经法语 coster 等接拉丁 cōnstāre 的历史词族，现代花费义已固定，不照站在一起逐字硬猜。普通花费义过去式 cost；核算某方案成本的动词义常见 costed。",
+    "history": [
+      [
+        "拉丁 cōnstāre → 法语 coster、couster → 中古英语 costen",
+        "较早有站在一起、确定等义，经历史发展形成花费义"
+      ],
+      [
+        "现代 cost",
+        "所需费用、代价；使人付出某种损失"
+      ]
+    ],
+    "explanation": "The ticket costs ten pounds 票价十英镑；cost someone a job 让某人丢掉工作；cost a project 核算项目费用。at all costs 不惜一切代价。",
+    "usage": "the cost of；cost someone something；at all costs；cost a project。",
+    "contrast": "物品 cost 人钱，人 spend 钱 on 物品：The ticket cost me ten pounds，I spent ten pounds on the ticket。",
+    "examples": [
+      [
+        "The repair cost more than we expected.",
+        "修理费用比我们预想的高。"
+      ],
+      [
+        "The mistake cost them an important customer.",
+        "这个错误让他们失去了一位重要客户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cost#English"
+    ]
+  },
+  {
+    "word": "costly",
+    "ipa": "英 /ˈkɒstli/；美 /ˈkɔːstli/，亦 /ˈkɑːstli/",
+    "meaning": "昂贵的；代价高的",
+    "sense": "不只价签高，还可能是一个错误让人损失很大，代价高得难承受。",
+    "split": "cost + -ly，形容词后缀，中古英语已有形式。这里是形容词，不是修饰 cost 动作的普通副词。",
+    "history": [
+      [
+        "拉丁 cōnstāre → 法语 coster、couster → 中古英语 costen",
+        "较早有站在一起、确定等义，经历史发展形成花费义"
+      ],
+      [
+        "现代 cost",
+        "所需费用、代价；使人付出某种损失"
+      ],
+      [
+        "cost + -ly → costly",
+        "花费、代价 → 所费很多、损失大的"
+      ]
+    ],
+    "explanation": "a costly mistake 代价惨重的错误，costly repairs 昂贵修缮；a costly delay 代价高的延误，可能损失时间、机会等。",
+    "usage": "a costly mistake；costly repairs；a costly delay。",
+    "contrast": "costly 可说后果代价，expensive 更常看价格、所费；an expensive mistake 也能比喻，但 costly mistake 是很常见搭配。",
+    "examples": [
+      [
+        "Ignoring the warning proved to be a costly mistake.",
+        "忽视警告，最终成了一个代价很高的错误。"
+      ],
+      [
+        "The building needs costly repairs.",
+        "这座楼需要花很多钱修缮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/costly#English"
+    ]
+  },
+  {
+    "word": "star",
+    "ipa": "英 /stɑː/；美 /stɑːr/",
+    "meaning": "星；星形标记；明星；主演；标星",
+    "sense": "天上显眼发亮的星，被借来称在人群中出众、受关注的人；星形又成了评分、收藏标记。",
+    "split": "由古英语 steorra 经中古英语 sterre 延续，与拉丁 stella 等远处同族。名人比喻、星形标记及动词主演是不同固定用法，不能只记天文名词。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ]
+    ],
+    "explanation": "a bright star 明亮的星，a film star 电影明星；star in a film 在电影里主演，star a message 给消息标星。太阳也是一颗恒星，但日常 night sky 的 stars 常有更窄的场景。",
+    "usage": "a film star；a rising star；star in；a five-star rating。",
+    "contrast": "star 星、明星，stare 盯着看；starred 与 stared 只差一个 r，却对应不同动词。",
+    "examples": [
+      [
+        "She stars in the new film.",
+        "她在新电影中担任主演。"
+      ],
+      [
+        "I starred the message so I could find it later.",
+        "我给消息标了星，方便以后找到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/star#English"
+    ]
+  },
+  {
+    "word": "starred",
+    "ipa": "英 /stɑːd/；美 /stɑːrd/",
+    "meaning": "标了星的；布满星星的；主演过的",
+    "sense": "消息旁边加了星，就是 starred；放进动词句，还可以说某人当过主演。",
+    "split": "star + -ed，双写 r，是过去式、过去分词，也形成有星标等形容词。star 本身不同义决定最终解释。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ],
+      [
+        "star + -ed → starred",
+        "标星、主演 → 标过星、曾主演"
+      ]
+    ],
+    "explanation": "starred messages 星标消息，a starred item 标星条目；She starred in the play 她在戏里主演。a starred sky 还可文艺地说繁星天空。",
+    "usage": "starred messages；a starred item；starred in the film。",
+    "contrast": "starred 主演、标星，stared 盯着看；She starred in it 她主演，She stared at it 她盯着看。",
+    "examples": [
+      [
+        "Open the folder containing your starred messages.",
+        "打开存放星标消息的文件夹。"
+      ],
+      [
+        "He starred in several early television dramas.",
+        "他在几部早期电视剧中担任主演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starred#English"
+    ]
+  },
+  {
+    "word": "starry",
+    "ipa": "英 /ˈstɑːri/；美 /ˈstɑːri/",
+    "meaning": "布满星星的；像星星的",
+    "sense": "仰头一看，到处亮着小星星；形容眼睛等时也可借那种发亮、梦幻的感觉。",
+    "split": "star + -y，双写 r，形成有星、星状的形容词；不是 story 故事的拼写变化。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ],
+      [
+        "star + -y → starry",
+        "星 → 多星的、星状的"
+      ]
+    ],
+    "explanation": "a starry night 繁星之夜，a starry sky 星空；starry-eyed 固定说过分理想化、充满幻想，当前只在搭配解释，不另开连字符标题。",
+    "usage": "a starry night；a starry sky；a starry pattern。",
+    "contrast": "starry 多星、星状；starred 可以是有星标、主演过。starred messages 不是讲消息里画满夜空。",
+    "examples": [
+      [
+        "We sat outside under a starry sky.",
+        "我们坐在外面，头顶是繁星夜空。"
+      ],
+      [
+        "She chose a scarf with a starry pattern.",
+        "她选了一条带星形图案的围巾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starry#English"
+    ]
+  },
+  {
+    "word": "starlet",
+    "ipa": "英 /ˈstɑːlət/；美 /ˈstɑːrlət/",
+    "meaning": "初露头角的年轻女演员；演艺新星",
+    "sense": "还没成为大明星，但已经进入聚光灯的小新星；常用于年轻女演员的媒体称呼。",
+    "split": "star 明星 + -let 指小后缀。现代是演艺人物标签，不是真正尺寸很小的恒星，也不保证评价总是尊重。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ],
+      [
+        "star + -let → starlet",
+        "明星 → 年轻、尚未成名的演艺新星"
+      ]
+    ],
+    "explanation": "a rising starlet 初露头角的演艺新星，a Hollywood starlet 好莱坞年轻女演员；语气可能带外貌、资历等媒体标签意味。",
+    "usage": "a young starlet；a Hollywood starlet；an aspiring starlet。",
+    "contrast": "starlet 常带年轻女演员含义，a rising star 新星适用领域、性别更宽；不把 -let 一律当亲切赞美。",
+    "examples": [
+      [
+        "The film introduced an unknown starlet to a wider audience.",
+        "电影让一位不知名的年轻女演员进入了更多观众的视野。"
+      ],
+      [
+        "The article follows a starlet’s first year in the industry.",
+        "文章追踪了一位演艺新星入行第一年的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starlet#English"
+    ]
+  },
+  {
+    "word": "stardom",
+    "ipa": "英 /ˈstɑːdəm/；美 /ˈstɑːrdəm/",
+    "meaning": "明星地位；成名",
+    "sense": "不是某一个明星，而是被大众认识、追捧的那种地位和生活状态。",
+    "split": "star 明星 + -dom 身份、状态后缀；与 kingdom 中的 -dom 同一类材料，但这里不是一块明星领土。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ],
+      [
+        "star + -dom → stardom",
+        "明星 → 明星身份、成名状态"
+      ]
+    ],
+    "explanation": "rise to stardom 成名，achieve stardom 成为明星；the pressures of stardom 明星地位带来的压力。",
+    "usage": "rise to stardom；achieve stardom；the pressures of stardom。",
+    "contrast": "star 可指人，stardom 指地位、状态；a film star 电影明星，不说 a film stardom 来指一个演员。",
+    "examples": [
+      [
+        "Her first album brought her overnight stardom.",
+        "第一张专辑让她一夜成名。"
+      ],
+      [
+        "He found the pressures of stardom difficult to handle.",
+        "他发现明星地位带来的压力很难应对。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stardom#English"
+    ]
+  },
+  {
+    "word": "rockstar",
+    "ipa": "英 /ˈrɒkstɑː/；美 /ˈrɑːkstɑːr/",
+    "meaning": "摇滚明星；非常出色、受追捧的人〔口语〕",
+    "sense": "先是摇滚舞台上的明星，后来也夸某个领域表现耀眼、受欢迎的人。",
+    "split": "rock 摇滚音乐 + star 明星，也常写 rock star。rock 在这里不是石头；比喻夸能人是后来口语发展。",
+    "history": [
+      [
+        "rock 摇滚音乐；star 明星",
+        "并列构词部分"
+      ],
+      [
+        "rockstar",
+        "摇滚明星 → 口语中的耀眼能人"
+      ]
+    ],
+    "explanation": "a famous rockstar 著名摇滚明星，a rockstar developer 口语中被大力夸赞的开发者；这种招聘、赞美语气可能比较夸张。",
+    "usage": "a rockstar；a rockstar performance；a rockstar developer。",
+    "contrast": "rockstar 是明星或夸张能人，不是 rock 这块石头在太空成为 star；一般正式描述可直接说 highly skilled。",
+    "examples": [
+      [
+        "The documentary follows a rockstar on tour.",
+        "纪录片跟拍一位摇滚明星巡演。"
+      ],
+      [
+        "Her colleagues jokingly called her a rockstar after the successful launch.",
+        "发布成功后，同事们开玩笑地说她是团队里的大明星。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rockstar#English"
+    ]
+  },
+  {
+    "word": "costar",
+    "ipa": "英 /ˈkəʊstɑː/；美 /ˈkoʊstɑːr/；动词也重读 star",
+    "meaning": "联合主演；同台主演者",
+    "sense": "一部戏里不只一个主要演员，和某人一起担任主要角色的人就是 costar。",
+    "split": "co- 共同 + star 主演、明星，也常写 co-star。不是 cost 花费 + ar，看到前面四个字母相同也不要按成本词族来拆。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ],
+      [
+        "co- + star → costar",
+        "共同主演 → 联合主演者、共同担任主演"
+      ]
+    ],
+    "explanation": "her costar in the film 她在片中的搭档主演，costar with someone 与某人联合主演；不保证所有同组演员都是 costars。",
+    "usage": "a film costar；costar with；costar in。",
+    "contrast": "costar 是共同主演的人或动作，cast 是整套演员阵容、选角等；不是每个临时演员都因同场出现而成 costar。",
+    "examples": [
+      [
+        "She thanked her costar after the performance.",
+        "演出后，她向另一位主演搭档道谢。"
+      ],
+      [
+        "The two actors costarred in a television series.",
+        "两位演员在一部电视剧中联合主演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/costar#English"
+    ]
+  },
+  {
+    "word": "megastar",
+    "ipa": "英 /ˈmeɡəstɑː/；美 /ˈmeɡəstɑːr/",
+    "meaning": "超级巨星",
+    "sense": "不只是出了名，而是知名度和影响力大到让人再加一个巨大来强调。",
+    "split": "mega- 巨大、非常 + star 明星；这里是加强名气的用法，不是严格计算明星数量有一百万。",
+    "history": [
+      [
+        "古英语 steorra → 中古英语 sterre → star",
+        "星"
+      ],
+      [
+        "现代 star",
+        "恒星、星形标记 → 明星、突出者；主演、标星等"
+      ],
+      [
+        "mega- + star → megastar",
+        "明星 → 知名度极高的巨星"
+      ]
+    ],
+    "explanation": "a global megastar 全球巨星，a pop megastar 流行乐巨星；属于强调性称呼，不是统一评级证书。",
+    "usage": "a global megastar；a pop megastar；become a megastar。",
+    "contrast": "megastar、superstar 都强调极有名；stardom 说明星地位，starlet 则多指初起步的年轻女演员。",
+    "examples": [
+      [
+        "The small role launched her career before she became a megastar.",
+        "她成为巨星之前，那个小角色开启了她的事业。"
+      ],
+      [
+        "Thousands of fans came to see the pop megastar.",
+        "成千上万粉丝来看这位流行乐巨星。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/megastar#English"
+    ]
+  },
+  {
+    "word": "starship",
+    "ipa": "英 /ˈstɑːʃɪp/；美 /ˈstɑːrʃɪp/",
+    "meaning": "星际飞船〔常见于科幻〕",
+    "sense": "把能在海上航行的船想象为能在星际航行的飞船，名字就直接说它去向哪里。",
+    "split": "star 星、恒星 + ship 船，复合为星际飞船名称。这里 ship 是完整的船名词，与 stardom 等身份后缀不同。",
+    "history": [
+      [
+        "star 星、恒星；ship 船",
+        "并列构词部分"
+      ],
+      [
+        "starship",
+        "设想在星际航行的飞船"
+      ]
+    ],
+    "explanation": "a fictional starship 虚构星际飞船，a starship captain 星际飞船船长；现实项目用作专名时，要按那个项目读。",
+    "usage": "a starship captain；a fictional starship；aboard the starship。",
+    "contrast": "starship 通常突出星际航行，spaceship 太空飞船范围更宽；starboard 右舷另有掌舵侧词源，不是 starship 的缩短。",
+    "examples": [
+      [
+        "The novel begins aboard a damaged starship.",
+        "小说从一艘受损星际飞船上的场景开始。"
+      ],
+      [
+        "The crew prepared the starship for its next journey.",
+        "船员为星际飞船的下一次航行做准备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starship#English"
+    ]
+  },
+  {
+    "word": "stardust",
+    "ipa": "英 /ˈstɑːdʌst/；美 /ˈstɑːrdʌst/",
+    "meaning": "星尘；梦幻、迷人的魅力",
+    "sense": "字面让人想到星星相关的细小尘埃；文艺表达里又像撒上一层闪光，让人觉得梦幻、着迷。",
+    "split": "star 星 + dust 尘埃，形成星尘名词，再有浪漫、明星魅力等比喻。科学具体所指须按上下文，不把所有发光粉末都当宇宙物质。",
+    "history": [
+      [
+        "star 星；dust 尘埃",
+        "并列构词部分"
+      ],
+      [
+        "stardust",
+        "星尘 → 令人梦幻、着迷的魅力"
+      ]
+    ],
+    "explanation": "a touch of stardust 一点梦幻魅力；bring stardust to an event 可说明星、表演给活动添光彩。",
+    "usage": "a touch of stardust；a little stardust；stardust in a science article。",
+    "contrast": "stardust 可具体、可比喻；stardom 是成名地位，不是同一个词换尾字母。",
+    "examples": [
+      [
+        "The guest singer brought a little stardust to the local show.",
+        "嘉宾歌手给当地演出添了一点明星光彩。"
+      ],
+      [
+        "The article explains what astronomers mean by stardust.",
+        "文章解释了天文学家所说的星尘是什么。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stardust#English"
+    ]
+  },
+  {
+    "word": "starburst",
+    "ipa": "英 /ˈstɑːbɜːst/；美 /ˈstɑːrbɜːrst/",
+    "meaning": "放射状星形图案；星芒效果",
+    "sense": "从中心往各方向迸出一束束光、线条，像星形突然绽开。",
+    "split": "star 星形、星 + burst 迸发，形成放射状图案、光芒等名称。天文学也有星暴等专业用法，本轮先认常见视觉效果义。",
+    "history": [
+      [
+        "star 星、星形；burst 迸发",
+        "并列构词部分"
+      ],
+      [
+        "starburst",
+        "从中心向外迸开的星状效果"
+      ]
+    ],
+    "explanation": "a starburst pattern 放射星形图案，a starburst effect 星芒效果；可用于设计、烟花、摄影描述。",
+    "usage": "a starburst pattern；a starburst effect；a starburst of light。",
+    "contrast": "starburst 多说向外放射形状，不是每个圆形亮点；starry 只是多星、星状，不自动含迸发感。",
+    "examples": [
+      [
+        "The poster has a bright starburst pattern.",
+        "海报上有一个明亮的放射星形图案。"
+      ],
+      [
+        "The photograph captures a starburst of light.",
+        "照片捕捉到一片向外放射的星芒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starburst#English"
+    ]
+  },
+  {
+    "word": "starfish",
+    "ipa": "英 /ˈstɑːfɪʃ/；美 /ˈstɑːrfɪʃ/",
+    "meaning": "海星",
+    "sense": "身体常有向外伸的腕，看着像星形，于是名字把星形和海里的动物连起来。",
+    "split": "star 星形 + fish，后者在历史动物名中比现代鱼类分类宽。海星不是现代生物分类中的鱼；另称 sea star。",
+    "history": [
+      [
+        "star 星形；fish 旧动物命名中较宽的水生动物用法",
+        "并列构词部分"
+      ],
+      [
+        "starfish",
+        "按星状外形命名的海星"
+      ]
+    ],
+    "explanation": "a starfish on a rock 岩石上的海星；复数可仍用 starfish，也可见 starfishes。不能只凭典型图形断言每个海星都恰好五条腕。",
+    "usage": "a starfish；a starfish on the seabed；a sea star。",
+    "contrast": "starfish 是动物固定名，starry fish 可只是有星点的鱼这一描述；结尾 fish 不足以替代科学分类。",
+    "examples": [
+      [
+        "We saw a starfish in the rock pool.",
+        "我们在岩石潮池里看见了一只海星。"
+      ],
+      [
+        "The guide explained why starfish are also called sea stars.",
+        "向导解释了海星为何也叫 sea stars。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starfish#English"
+    ]
+  },
+  {
+    "word": "stargazer",
+    "ipa": "英 /ˈstɑːɡeɪzə/；美 /ˈstɑːrɡeɪzər/",
+    "meaning": "观星者；空想家〔比喻〕",
+    "sense": "字面是抬头凝望星空的人；若被批评光望远处、不管眼前，也可指空想者。",
+    "split": "star 星 + gazer 凝视者，gazer 来自 gaze + -er。观星活动者和空想家比喻分开，不能据称呼判断每位观星者都不务实际。",
+    "history": [
+      [
+        "star 星；gazer 凝视者",
+        "并列构词部分"
+      ],
+      [
+        "stargazer",
+        "观星者 → 某些语境的空想者"
+      ]
+    ],
+    "explanation": "amateur stargazers 业余观星者，a group of stargazers 一群观星人；天文活动中常中性。",
+    "usage": "amateur stargazers；a keen stargazer；stargazers at the observatory。",
+    "contrast": "stargazer 可以是爱好者，astronomer 天文学家强调研究身份；不能因为看过星星就自动成专业 astronomer。",
+    "examples": [
+      [
+        "Stargazers gathered outside the observatory.",
+        "观星者聚集在天文台外。"
+      ],
+      [
+        "She is a keen stargazer with a small telescope.",
+        "她是个热衷观星的人，有一架小望远镜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stargazer#English"
+    ]
+  },
+  {
+    "word": "lodestar",
+    "ipa": "英 /ˈləʊdstɑː/；美 /ˈloʊdstɑːr/",
+    "meaning": "指路星；指导原则、精神指引",
+    "sense": "夜里靠一颗星辨认方向；行动时靠一个信念决定往哪里走，也把它叫指路星。",
+    "split": "中古英语 lode 行程、路线 + star 星，形成指导航行的星名词，再用于指导原则。lode 是旧行程词，不是现代 load 装载。",
+    "history": [
+      [
+        "lode 旧词：行程、路线；star 星",
+        "并列构词部分"
+      ],
+      [
+        "lodestar",
+        "引导行程的星 → 指导原则"
+      ]
+    ],
+    "explanation": "a moral lodestar 道德指引，serve as a lodestar 起指导作用；比 guiding principle 更有文学、正式色彩。",
+    "usage": "a moral lodestar；serve as a lodestar；a lodestar for。",
+    "contrast": "lodestar 常指指路星、精神指引；loadstar 不是其通常规范拼写，不能把前半误认成搬运货物。",
+    "examples": [
+      [
+        "Fairness remained her moral lodestar.",
+        "公平始终是她的道德指引。"
+      ],
+      [
+        "The poet describes the distant star as a lodestar for the traveller.",
+        "诗人把远处的星描写成旅人的指路星。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lodestar#English"
+    ]
+  },
+  {
+    "word": "web",
+    "ipa": "/web/",
+    "meaning": "网；蛛网；交织关系；万维网",
+    "sense": "很多细线相互牵连，织成一张网；关系、谎言、网页互相连接，也借这幅图景。",
+    "split": "继承古英语 webb，与 weave 织有历史关联。现代 Web、World Wide Web 把互相链接的信息比成网，不是英语 web 最初就为计算机而造。",
+    "history": [
+      [
+        "古英语 webb → 中古英语 web、webbe",
+        "织成的东西、网，与 weave 织的词族相关"
+      ],
+      [
+        "英语 web",
+        "蛛网、交织关系；Web 用于互相链接的信息系统"
+      ]
+    ],
+    "explanation": "a spider’s web 蛛网，a web of lies 一张谎言网；on the web 在万维网上。Web 是借互联网运行的信息系统之一，不等于所有互联网服务。",
+    "usage": "a spider’s web；a web of lies；on the web；search the web。",
+    "contrast": "web 万维网与 internet 互联网不是完全同义：网络基础设施能承载网页，也能承载其他服务。口语有时混用，学习时先分清。",
+    "examples": [
+      [
+        "A web stretched between the branches.",
+        "树枝之间结着一张网。"
+      ],
+      [
+        "The detective uncovered a web of lies.",
+        "侦探揭开了一张交织的谎言网。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/web#English",
+      "https://home.cern/science/computing/the-birth-of-the-web"
+    ]
+  },
+  {
+    "word": "spiderweb",
+    "ipa": "英 /ˈspaɪdəweb/；美 /ˈspaɪdərweb/",
+    "meaning": "蜘蛛网；蛛网状结构",
+    "sense": "蜘蛛吐丝结成的网；交错线条、裂纹像它，也可以借这个名称。",
+    "split": "spider 蜘蛛 + web 网，透明复合词，也常写 spider web。名字说的是来源、样子，不是所有蜘蛛网都同样圆、同样规则。",
+    "history": [
+      [
+        "spider 蜘蛛；web 网",
+        "并列构词部分"
+      ],
+      [
+        "spiderweb",
+        "蜘蛛结的网 → 蛛网状结构"
+      ]
+    ],
+    "explanation": "a spiderweb in the corner 角落的蛛网，a spiderweb of cracks 蛛网般裂纹；后一种是外形比喻。",
+    "usage": "a spiderweb；a spiderweb of cracks；a delicate spiderweb。",
+    "contrast": "spiderweb 蛛网，website 网站；同有 web 并不能替代前面的对象。",
+    "examples": [
+      [
+        "A spiderweb glistened with morning dew.",
+        "蜘蛛网上的晨露闪着光。"
+      ],
+      [
+        "A spiderweb of cracks covered the old glass.",
+        "旧玻璃上布满蛛网般的裂纹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiderweb#English"
+    ]
+  },
+  {
+    "word": "cobweb",
+    "ipa": "英 /ˈkɒbweb/；美 /ˈkɑːbweb/",
+    "meaning": "蜘蛛网；陈旧积灰的蛛网印象",
+    "sense": "和 spiderweb 都能说蛛网，但家务场景里 cobweb 常让人想到角落里积灰、久未清理的网。",
+    "split": "中古英语 copweb 等，前半 cob、coppe 是蜘蛛的旧称，与现代 corn cob 玉米芯不同；后半 web 是网。它不是玉米芯织网。",
+    "history": [
+      [
+        "古英语 webb → 中古英语 web、webbe",
+        "织成的东西、网，与 weave 织的词族相关"
+      ],
+      [
+        "旧 coppe 蜘蛛 + web → cobweb",
+        "旧蜘蛛称呼 + 网 → 蛛网"
+      ]
+    ],
+    "explanation": "cobwebs in the attic 阁楼蛛网；blow away the cobwebs 固定说去掉昏沉、焕发精神。自然分类里 cobweb 也有具体使用，不能一律要求蛛网已被废弃。",
+    "usage": "clear away cobwebs；cobwebs in the corner；blow away the cobwebs。",
+    "contrast": "cobweb 和 spiderweb 意义重叠，前者日常更易联想到陈旧积灰；这不是把所有活蜘蛛的网都排除的硬规则。",
+    "examples": [
+      [
+        "The old shed was full of cobwebs.",
+        "旧棚屋里到处是蛛网。"
+      ],
+      [
+        "A brisk walk helped blow away the cobwebs.",
+        "快步走一会儿，让人一扫昏沉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cobweb#English",
+      "https://www.etymonline.com/word/cobweb"
+    ]
+  },
+  {
+    "word": "webcast",
+    "ipa": "英 /ˈwebkɑːst/；美 /ˈwebkæst/",
+    "meaning": "网络音视频播出；网络转播",
+    "sense": "把活动、节目通过网络送到观众屏幕或耳机里，像把传统广播、电视播出搬上网。",
+    "split": "web 万维网 + cast 播出相关构词部分，仿照 broadcast 等形成。不是把网撒进水里的字面动作。",
+    "history": [
+      [
+        "古英语 webb → 中古英语 web、webbe",
+        "织成的东西、网，与 weave 织的词族相关"
+      ],
+      [
+        "英语 web",
+        "蛛网、交织关系；Web 用于互相链接的信息系统"
+      ],
+      [
+        "web + cast；联系 broadcast 的播出构词",
+        "网络 → 网络音视频播出"
+      ]
+    ],
+    "explanation": "a live webcast 网络直播，a webcast of the ceremony 典礼网络转播；也可有录播、按需观看，不是每次都同时直播。",
+    "usage": "a live webcast；watch a webcast；a webcast of the event。",
+    "contrast": "webcast 广播式网络节目，webinar 通常是在线研讨、讲座；实际活动形式可能交叠，不能只因在线就都叫 webinar。",
+    "examples": [
+      [
+        "The lecture is available as a webcast.",
+        "讲座可以通过网络音视频节目观看。"
+      ],
+      [
+        "We watched a live webcast of the opening ceremony.",
+        "我们观看了开幕式网络直播。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/webcast#English"
+    ]
+  },
+  {
+    "word": "webstore",
+    "ipa": "英 /ˈwebstɔː/；美 /ˈwebstɔːr/",
+    "meaning": "网店；在线商店",
+    "sense": "顾客通过网页浏览商品、下单的店；没有临街门面，也能把它当一家商店。",
+    "split": "web 万维网 + store 商店，也常写 web store、online store。不是把蜘蛛网存到仓库的 store 动词。",
+    "history": [
+      [
+        "web 万维网；store 商店",
+        "并列构词部分"
+      ],
+      [
+        "webstore",
+        "通过网页经营的商店"
+      ]
+    ],
+    "explanation": "open a webstore 开网店，buy from a webstore 从网店购买；某些平台专名也使用 Web Store，需区分普通词与品牌。",
+    "usage": "open a webstore；an official webstore；buy from a webstore。",
+    "contrast": "webstore 网店是一类 website 网站；不是所有网站都销售东西。storefront 则强调面向顾客的店面、界面。",
+    "examples": [
+      [
+        "The artist opened a webstore for her handmade jewellery.",
+        "艺术家为手工首饰开了一家网店。"
+      ],
+      [
+        "The official webstore lists the available sizes.",
+        "官方网店列出了现有尺码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/webstore#English"
+    ]
+  },
+  {
+    "word": "member",
+    "ipa": "英 /ˈmembə/；美 /ˈmembər/",
+    "meaning": "成员；会员；组成部分；较正式的肢体义",
+    "sense": "手臂是身体的一部分，一个人也可以是团队这个整体的一部分；成员义由这个部分关系理解。",
+    "split": "经法语接拉丁 membrum 肢体、身体部分。团体成员的比喻把组织当作一个整体；现代不必真的与身体相连。",
+    "history": [
+      [
+        "拉丁 membrum → 法语 membre → 中古英语 membre",
+        "肢体、身体的一部分"
+      ],
+      [
+        "现代 member",
+        "整体中的一部分 → 团体成员、会员等"
+      ]
+    ],
+    "explanation": "a team member 团队成员，a family member 家庭成员；a member of a club 俱乐部会员。技术里也可指集合等的元素、成员。",
+    "usage": "a member of；a team member；a family member；a staff member。",
+    "contrast": "member 人或组成部分，membership 身份、成员群体或会籍；a club member 一位会员，不说 a club membership 指这个人。",
+    "examples": [
+      [
+        "She is a member of the local choir.",
+        "她是当地合唱团成员。"
+      ],
+      [
+        "Every team member contributed an idea.",
+        "每位团队成员都贡献了一个想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/member#English",
+      "https://www.etymonline.com/word/member"
+    ]
+  },
+  {
+    "word": "membership",
+    "ipa": "英 /ˈmembəʃɪp/；美 /ˈmembərʃɪp/",
+    "meaning": "成员身份；会籍；全体会员",
+    "sense": "不是指某一个人，而是他有没有加入、入会资格有效多久，或这个组织共有多少会员。",
+    "split": "member + -ship 身份、状态后缀；还可集合指会员群体。ship 在这里不是船。",
+    "history": [
+      [
+        "拉丁 membrum → 法语 membre → 中古英语 membre",
+        "肢体、身体的一部分"
+      ],
+      [
+        "现代 member",
+        "整体中的一部分 → 团体成员、会员等"
+      ],
+      [
+        "member + -ship → membership",
+        "成员 → 会籍、成员身份；全体成员"
+      ]
+    ],
+    "explanation": "renew a membership 续会籍，membership fees 会费；the club’s membership increased 俱乐部会员人数增加，the membership voted 会员群体投票。",
+    "usage": "renew membership；a gym membership；membership fees；apply for membership。",
+    "contrast": "membership 可以指会籍，也可指全体成员；membership fee 才明确是费用，不把每个 membership 都直接译成会费。",
+    "examples": [
+      [
+        "My gym membership expires next month.",
+        "我的健身房会籍下个月到期。"
+      ],
+      [
+        "The club’s membership has grown steadily.",
+        "俱乐部会员人数稳步增加。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/membership#English"
+    ]
+  },
+  {
+    "word": "crewmember",
+    "ipa": "英 /ˈkruːmembə/；美 /ˈkruːmembər/",
+    "meaning": "机组、船上等的工作人员；组员",
+    "sense": "不是来乘坐的客人，而是这一趟船、飞机等运行团队里负责工作的成员。",
+    "split": "crew 工作团队、机组、船员群体 + member 成员，也常分写 crew member。组合中心是 member，一个团队里的单个人。",
+    "history": [
+      [
+        "crew 工作团队、机组或船员群体；member 成员",
+        "并列构词部分"
+      ],
+      [
+        "crewmember",
+        "团队里的一名工作人员"
+      ]
+    ],
+    "explanation": "an airline crewmember 航空机组人员，a ship’s crewmember 船员；crew 在拍摄等其他团队场景也可用，完整上下文决定是哪种。",
+    "usage": "a ship’s crewmember；an airline crewmember；a crewmember on duty。",
+    "contrast": "crew 是团队集合，crewmember 是其中一人；passenger 乘客不因在同一架飞机上就成了机组成员。",
+    "examples": [
+      [
+        "A crewmember helped the passenger find her seat.",
+        "一位机组人员帮乘客找到了座位。"
+      ],
+      [
+        "Each crewmember had an assigned task.",
+        "每位组员都有分配好的任务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crewmember#English"
+    ]
+  }
+]

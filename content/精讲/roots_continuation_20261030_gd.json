@@ -1,0 +1,91 @@
+[
+  {
+    "id": "B2603",
+    "meaning": "存在、共同存在与不存在",
+    "core": "EXISTENCE：把存在这件事当名词",
+    "image": "existence → coexistence 共同存在；nonexistence 否定存在。",
+    "intro": "co-、non- 作用在同一个名词上，却改变关系不同：前者把多个存在者放一起，后者否定有没有。",
+    "forms": "exist 词族 → existence；co- + existence → coexistence；non- + existence → nonexistence。",
+    "branches": [
+      [
+        "存在状态与关系",
+        "existence · coexistence · nonexistence"
+      ]
+    ],
+    "contrasts": "nonexistence/absence 根本不存在与不在场、缺少；coexistence 共同存在不自动保证完全和谐。",
+    "practice": "The essay considers existence, coexistence and the possibility of nonexistence.\n\n文章讨论存在、共同存在，以及不存在的可能。",
+    "words": [
+      "existence",
+      "coexistence",
+      "nonexistence"
+    ],
+    "exclude": {
+      "self-existence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4040",
+    "meaning": "一起走、一起做，现代也可是一伙犯罪者",
+    "core": "GANG：群体与旧通路分开选义",
+    "image": "gang → gangster、gangland 接犯罪；gangplank、gangway 接旧通路；gangbang 俚语义按语境辨。",
+    "intro": "the gang of friends 与 gangsters 语气不同。通路复合词不必拖入黑帮故事，俚语也不只按两个常用字面义猜。",
+    "forms": "gang 行进通路旧材料 → 成套、群体；gang + -ster/land；gang + plank/way；gang + bang。\n\ngang 接古英语 gang 行进与古北欧 gangr 一组等同族材料，具体发展有不同分析；不等同于 go 的词源。现代复数可说帮派、成组人群。",
+    "branches": [
+      [
+        "群体与犯罪人物",
+        "gang · gangster · gangland"
+      ],
+      [
+        "行走通道",
+        "gangway · gangplank"
+      ],
+      [
+        "特殊俚语组合",
+        "gangbang"
+      ],
+      [
+        "同行、一组 → gang → gangs",
+        "gangs"
+      ]
+    ],
+    "contrasts": "gang/gangster 普通一群与犯罪人物；gangplank 不按帮派木板讲；gangbang 的不同语义不抹平同意与伤害。",
+    "practice": "The whole gang walked up the gangplank together.\n\n一伙朋友一起沿跳板登船。",
+    "words": [
+      "gang",
+      "gangster",
+      "gangland",
+      "gangway",
+      "gangplank",
+      "gangbang",
+      "gangs"
+    ],
+    "exclude": {
+      "gang-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "press-gang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2520",
+    "meaning": "鸟名经过地域联想与误认，再固定下来",
+    "core": "TURKEY：名字带旧地理印象，鸟却不因此原产那儿",
+    "image": "turkey 鸟 → 肉料；俚语 turkey 可指失败作品。",
+    "intro": "词名保存了贸易、地理认知的历史，不能只照名字给动物画原产地。失败作品的比喻则按现代上下文辨。",
+    "forms": "Turkey 关联的早期鸟名 → 转用于北美火鸡 → turkey；再有肉料、失败之作等义。",
+    "branches": [
+      [
+        "鸟、食物与俚语",
+        "turkey"
+      ]
+    ],
+    "contrasts": "turkey/Turkey 普通鸟名与大写地域名；turkey 原产地不由英文名字推出；a turkey 还可失败之作。",
+    "practice": "The documentary explains how the turkey got its misleading English name.\n\n纪录片解释了火鸡怎样得到这个容易误导人的英文名字。",
+    "words": [
+      "turkey"
+    ],
+    "exclude": {
+      "turkey-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brush-turkey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "turkey-hen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

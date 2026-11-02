@@ -1,0 +1,118 @@
+[
+  {
+    "id": "B3103",
+    "meaning": "吸吮、吸取；哺乳、吸盘和随意差评",
+    "core": "SUCK：靠吸力带进来，或把力量抽走",
+    "image": "suck → sucker、sucky；suckle 与 suckling 放一起分后缀；honeysuckle 保留蜜、吸吮的旧植物命名。",
+    "intro": "先学动作，再看器官、幼兽、口语评价。suckling 可是 -ling 幼小个体名，也可是 suckle 的 -ing，恰好说明字母相同不等于构词相同。",
+    "forms": "sūcan → suck；suck + -er/-y/-ling；suckle 与旧动词、逆构解释有关；huniġsūce → honeysuckle。\n\n古英语吸吮动词，负面口语评价为后起用法。\n\n古英语 sūcan 继承，现代直接加完整 ed、ing。\n\nsoak 承古英语 socian，是 sucan 吸一系的旧次生形式；联系在古代词族层面，不是现代英语把 suck 按规则改拼成 soak。",
+    "branches": [
+      [
+        "吸取与工具、人物",
+        "suck · sucker · sucky"
+      ],
+      [
+        "哺乳、吃奶与幼兽",
+        "suckle · suckling"
+      ],
+      [
+        "植物旧名",
+        "honeysuckle"
+      ],
+      [
+        "suck → sucks：吸入与糟糕的口语评价",
+        "suck · sucks"
+      ],
+      [
+        "suck → sucked、sucking：往里吸",
+        "suck · sucked · sucking"
+      ],
+      [
+        "suck 与 soak 的旧吸液材料",
+        "suck · soak · soaks · soaked · soaking"
+      ]
+    ],
+    "contrasts": "suck/sip 吸与小口喝；sucker for 常自嘲偏爱；suckling 两种词尾来源分开；honeysuckle 不按现代喂奶硬讲。",
+    "practice": "The suckling calf stopped suckling and looked toward the honeysuckle by the fence.\n\n还没断奶的小牛停下吃奶，望向围栏边的忍冬。",
+    "words": [
+      "suck",
+      "sucker",
+      "sucky",
+      "suckle",
+      "suckling",
+      "honeysuckle",
+      "sucks",
+      "sucked",
+      "sucking",
+      "soak",
+      "soaks",
+      "soaked",
+      "soaking"
+    ],
+    "exclude": {
+      "self-suck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4428",
+    "meaning": "令人意外、出人意料，及人的惊讶感受",
+    "core": "SURPRISING：事情超出预期，人于是感到 surprised",
+    "image": "surprise → surprising → surprisingly；un- + surprising → unsurprising；surprised 说感受。",
+    "intro": "致使和感受放在同一页对照。副词可以评价整个事实，也能加强某个程度；否定支只说不意外，不保证事情好坏。",
+    "forms": "surprise 去 e + -ing/-ed；surprising + -ly；un- + surprising。\n\nprendre 抓取的历史支，现代不一概当积极惊喜。",
+    "branches": [
+      [
+        "令人意外及副词程度",
+        "surprise · surprising · surprisingly"
+      ],
+      [
+        "否定意外与人的感受",
+        "unsurprising · surprised"
+      ],
+      [
+        "surprise → surprises：没料到的事与感受",
+        "surprise · surprises"
+      ]
+    ],
+    "contrasts": "surprising/surprised 令人惊讶与感到惊讶；unsurprising 不出所料；surprisingly 不等于幸运地。",
+    "practice": "I was surprised that such a surprising problem had a surprisingly simple answer.\n\n这样一个出人意料的问题，答案竟然很简单，这让我吃了一惊。",
+    "words": [
+      "surprise",
+      "surprising",
+      "surprisingly",
+      "unsurprising",
+      "surprised",
+      "surprises"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2568",
+    "meaning": "灰色与模糊界限；greyhound 犬名不能按颜色硬拆",
+    "core": "GREY：黑白之间的颜色，greyhound 却另有旧犬名",
+    "image": "grey/gray 是同一颜色的拼写变体；grey area 借界限不清；greyhound 来自旧犬名重分析。",
+    "intro": "颜色义很直观，真正值得特别记的是犬名：狗可以黑、白、花，不能因为名字看着有 grey 就替它限定毛色。",
+    "forms": "grēġ/grǣġ → grey/gray；grīghund 等 → greyhound，后受颜色词影响。",
+    "branches": [
+      [
+        "颜色、状态与比喻",
+        "grey"
+      ],
+      [
+        "同形联想需分开的犬种名",
+        "greyhound"
+      ]
+    ],
+    "contrasts": "grey/gray 拼写变体；greyhound/a grey hound 犬种与灰色猎犬描述。",
+    "practice": "The black greyhound slept beneath a grey blanket.\n\n黑色灵缇睡在一条灰毯子下面。",
+    "words": [
+      "grey",
+      "greyhound"
+    ],
+    "exclude": {
+      "wolf-grey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grey-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pinko-grey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

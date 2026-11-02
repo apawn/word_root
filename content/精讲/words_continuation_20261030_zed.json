@@ -1,0 +1,788 @@
+[
+  {
+    "word": "dub",
+    "ipa": "/dʌb/",
+    "meaning": "配音、复制录音；给……起名、授爵〔另源支〕",
+    "sense": "给画面另加一条录好的说话声音，是音频 dub；说某人被叫作某称号，也可用 dub，但来源不同。",
+    "split": "声音支是 double 的截短，因另做录音并与原声音结合。起名、授爵支接晚古英语 dubbian，可能借古法语 aduber，更远未定；不是一条双倍故事能解释所有义。",
+    "history": [
+      [
+        "晚古英语 dubbian → dub〔授爵、起名支〕",
+        "可能有古法语影响，近源与声音支分开"
+      ],
+      [
+        "double → dub〔声音支〕",
+        "截短；给影片另加、改变录音"
+      ]
+    ],
+    "explanation": "dub a film into English 给影片配英语；dub someone a hero 称某人为英雄。",
+    "usage": "dub the dialogue 配对白声音；a dubbed film 配音电影。",
+    "contrast": "字幕把话语写在画面上，dub 把声音另录、配上；称号义则看 dub someone something 的句子结构。",
+    "examples": [
+      [
+        "The studio will dub the film into Spanish.",
+        "制作室会给影片配西班牙语声音。"
+      ],
+      [
+        "The team decided to dub him “Professor”.",
+        "团队决定叫他“教授”。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dub",
+      "https://en.wiktionary.org/wiki/dub#English"
+    ]
+  },
+  {
+    "word": "dubs",
+    "ipa": "/dʌbz/",
+    "meaning": "配音、起名〔第三人称单数〕；配音版、录音副本〔复数〕",
+    "sense": "它给影片另配声音，或把谁叫作一个称号，可用 dubs；配音版本、录音副本作名词时也能这样数。",
+    "split": "dub + -s，/b/ 后读 /z/。声音支缩自 double，起名授爵支接另一路 dubbian，现代形式同形。",
+    "history": [
+      [
+        "dub 的声音支与授爵、起名支",
+        "两个近源不同的同形词"
+      ],
+      [
+        "dub + -s → dubs",
+        "它配音、称作；多个配音版本等"
+      ]
+    ],
+    "explanation": "English dubs 英语配音版；dubs the film 给影片配音。",
+    "usage": "dubs him a star 称他为明星；different dubs 不同配音版本。",
+    "contrast": "films、voices 等对象常选出配音义；dubs someone a name 则把称号放到人后面。",
+    "examples": [
+      [
+        "The studio dubs films into several languages.",
+        "制作室给影片配几种语言。"
+      ],
+      [
+        "The collection includes English and French dubs of the film.",
+        "这套收藏包含影片的英语和法语配音版。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dubs#English",
+      "https://www.etymonline.com/word/dub"
+    ]
+  },
+  {
+    "word": "dubbed",
+    "ipa": "/dʌbd/",
+    "meaning": "配了音的、配音了；被叫作、授爵了",
+    "sense": "画面已有另一条配音，是 dubbed；一个人被冠上称号，也可说 was dubbed。对象、句子结构帮你选支线。",
+    "split": "dub 双写 b 加完整 -ed，/b/ 后读 /d/。两条 dub 各自按同样规则变化。",
+    "history": [
+      [
+        "音频 dub 缩自 double；另源 dub 授爵、起名",
+        "共同拼写不等于同一直接历史"
+      ],
+      [
+        "dub + -ed → dubbed〔双写 b〕",
+        "过去配音、称作；相应被动状态"
+      ]
+    ],
+    "explanation": "a dubbed film 配音电影；dubbed in English 配英语的。",
+    "usage": "dubbed a hero 被称为英雄；dubbed the dialogue 配了对白。",
+    "contrast": "dubbed into a language 说配音语言；dubbed a name 则常在给人、物冠称号。",
+    "examples": [
+      [
+        "The film was dubbed in English.",
+        "影片配有英语声音。"
+      ],
+      [
+        "The press dubbed the building “the glass ship”.",
+        "媒体把这座建筑称作“玻璃船”。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dubbed#English",
+      "https://www.etymonline.com/word/dub"
+    ]
+  },
+  {
+    "word": "dubbing",
+    "ipa": "/ˈdʌbɪŋ/",
+    "meaning": "配音、录音复制；正在配音、冠名",
+    "sense": "把另外录好的对白配到画面上，这项工作叫 dubbing。另一个同形动作也能说给人、物起称号。",
+    "split": "dub 双写 b 加 -ing。音频词缩自 double；命名、授爵词另有更早的英语、可能法语路线。",
+    "history": [
+      [
+        "音频 dub；另源授爵、起名 dub",
+        "按场景分开理解两个基础词"
+      ],
+      [
+        "dub + -ing → dubbing〔双写 b〕",
+        "相应动作进行；配音制作活动"
+      ]
+    ],
+    "explanation": "film dubbing 电影配音；a dubbing studio 配音室。",
+    "usage": "dubbing the dialogue 给对白配音；finish dubbing 配音完成。",
+    "contrast": "dubbing 侧重声音制作，subtitling 侧重画面文字，两种本地化形式可以各自完成。",
+    "examples": [
+      [
+        "She works in film dubbing.",
+        "她从事电影配音工作。"
+      ],
+      [
+        "Dubbing the dialogue took three days.",
+        "给对白配音花了三天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dubbing#English",
+      "https://www.etymonline.com/word/dub"
+    ]
+  },
+  {
+    "word": "overdub",
+    "ipa": "英 /ˌəʊvəˈdʌb/；美 /ˌoʊvərˈdʌb/〔动词〕",
+    "meaning": "叠录、加录声部；叠录声部〔名词〕",
+    "sense": "原来已有一条录音，再把另一条声音加上去，像在已有图层上添新层，就是 overdub。",
+    "split": "over- 叠加 + dub 声音录制一支。这里 dub 缩自 double，与给人授爵的另一词分开。名词常前重音。",
+    "history": [
+      [
+        "double → dub 声音制作词",
+        "另录、改变录音"
+      ],
+      [
+        "over- + dub → overdub",
+        "在已有录音上增加声音层"
+      ]
+    ],
+    "explanation": "overdub a guitar part 叠录吉他声部；a vocal overdub 加录的人声层。",
+    "usage": "overdub the backing vocals 叠录和声；add an overdub 加一层录音。",
+    "contrast": "overdub 常保留已有录音再添声部；rerecord 说再录一次，可把原来那条整个重做。",
+    "examples": [
+      [
+        "They will overdub a guitar part tomorrow.",
+        "他们明天会叠录一个吉他声部。"
+      ],
+      [
+        "The producer added a vocal overdub.",
+        "制作人加录了一层人声。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dub",
+      "https://en.wiktionary.org/wiki/overdub#English"
+    ]
+  },
+  {
+    "word": "overdubbed",
+    "ipa": "英 /ˌəʊvəˈdʌbd/；美 /ˌoʊvərˈdʌbd/",
+    "meaning": "叠录、加录了；叠录的",
+    "sense": "已有录音上已经添了一层新声音，是 overdubbed。重点在额外加层，不是只把音量调高。",
+    "split": "overdub 双写 b 加完整 -ed，/b/ 后读 /d/；基础 over- + dub 取声音叠加。",
+    "history": [
+      [
+        "over- + dub → overdub",
+        "在已有录音上加声音层"
+      ],
+      [
+        "overdub + -ed → overdubbed〔双写 b〕",
+        "过去叠录；加录后的状态"
+      ]
+    ],
+    "explanation": "overdubbed vocals 叠录人声；overdubbed the guitar 加录了吉他。",
+    "usage": "a later overdubbed part 后来叠录的声部；overdubbed harmonies 叠录和声。",
+    "contrast": "overdubbed 说录制层的加入；mixed louder 说在混音里调得更响，制作动作不同。",
+    "examples": [
+      [
+        "She overdubbed the backing vocals.",
+        "她叠录了伴唱。"
+      ],
+      [
+        "The final version included an overdubbed guitar part.",
+        "最终版本里有后来加录的吉他声部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overdubbed#English",
+      "https://en.wiktionary.org/wiki/overdub#English"
+    ]
+  },
+  {
+    "word": "overdubbing",
+    "ipa": "英 /ˌəʊvəˈdʌbɪŋ/；美 /ˌoʊvərˈdʌbɪŋ/",
+    "meaning": "叠录、加录声音的过程",
+    "sense": "一边保留原来录好的声音，一边添上新的演奏、歌声，过程叫 overdubbing。像让一个人分几次把不同声部拼齐。",
+    "split": "overdub 双写 b 加 -ing；over- 表叠加，dub 接另录声音的用途。",
+    "history": [
+      [
+        "over- + dub → overdub",
+        "在已有声音上增加录音层"
+      ],
+      [
+        "overdub + -ing → overdubbing〔双写 b〕",
+        "叠录的过程、进行动作"
+      ]
+    ],
+    "explanation": "vocal overdubbing 人声叠录；overdubbing a new part 加录新声部。",
+    "usage": "finish overdubbing 完成叠录；overdubbing in the studio 在录音室叠录。",
+    "contrast": "演奏者不必同时在场一次录完，多次分别录下再形成多声部，是理解 overdubbing 的好画面。",
+    "examples": [
+      [
+        "They spent the afternoon overdubbing the harmonies.",
+        "他们花了整个下午叠录和声。"
+      ],
+      [
+        "Overdubbing allowed one musician to perform several parts.",
+        "叠录让一位乐手能分别演奏几个声部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overdubbing#English",
+      "https://en.wiktionary.org/wiki/overdub#English"
+    ]
+  },
+  {
+    "word": "remixes",
+    "ipa": "名词 /ˈriːmɪksɪz/；动词 /ˌriːˈmɪksɪz/",
+    "meaning": "混音版〔复数〕；重新混合、混音〔第三人称单数〕",
+    "sense": "已有声音重新调整、安排，形成新版本，这些版本叫 remixes；作动词则说它重新混音。",
+    "split": "re- 再次 + mix 混合 → remix，加 -es，/ks/ 后读 /ɪz/。名词常前重音，动词后重音。",
+    "history": [
+      [
+        "re- + mix → remix",
+        "重新混合；重新安排录音、所得版本"
+      ],
+      [
+        "remix + -es → remixes",
+        "多个混音版；它重新混音"
+      ]
+    ],
+    "explanation": "dance remixes 舞曲混音版；remixes the track 重混曲目。",
+    "usage": "compare remixes 比较混音版；new remixes 新混音版本。",
+    "contrast": "remix 常处理已有录音素材，cover 常重新演奏、演唱，制作方式不一样。",
+    "examples": [
+      [
+        "The album includes two dance remixes.",
+        "专辑里有两个舞曲混音版。"
+      ],
+      [
+        "She remixes old recordings for the new release.",
+        "她为新发行版本重新混音旧录音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remixes#English",
+      "https://en.wiktionary.org/wiki/remix#English"
+    ]
+  },
+  {
+    "word": "remixed",
+    "ipa": "/ˌriːˈmɪkst/",
+    "meaning": "重新混合、混音了；混音的",
+    "sense": "原有材料的比例、排列已经重新调过，是 remixed。音乐里常把不同录音声部重新安排成另一版。",
+    "split": "remix + -ed，/s/ 后读 /t/，词末成为 /kst/；基础词不双写 x。",
+    "history": [
+      [
+        "re- + mix → remix",
+        "重新混合、处理已有录音"
+      ],
+      [
+        "remix + -ed → remixed",
+        "过去重新混音；混音后的版本"
+      ]
+    ],
+    "explanation": "a remixed version 混音版本；remixed the song 为歌曲重混了音。",
+    "usage": "remixed for the release 为发行重混；remixed recordings 重混录音。",
+    "contrast": "remixed 说重组、重调已有材料，rerecorded 说再录一次，不必把两种版本制作都叫重录。",
+    "examples": [
+      [
+        "The producer remixed the track for the album.",
+        "制作人为专辑重新混音了曲目。"
+      ],
+      [
+        "I preferred the remixed version.",
+        "我更喜欢混音版本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remixed#English",
+      "https://en.wiktionary.org/wiki/remix#English"
+    ]
+  },
+  {
+    "word": "remixing",
+    "ipa": "/ˌriːˈmɪksɪŋ/",
+    "meaning": "重新混合、混音的过程",
+    "sense": "在已有录音中重新安排节奏、声部、效果，过程叫 remixing。已有材料变成新组合。",
+    "split": "remix + -ing，保留原拼写；re- 给再次，mix 给混合。",
+    "history": [
+      [
+        "re- + mix → remix",
+        "再次处理混合材料"
+      ],
+      [
+        "remix + -ing → remixing",
+        "重混的过程、进行动作"
+      ]
+    ],
+    "explanation": "remixing a track 重新混音曲目；finish remixing 重混完成。",
+    "usage": "remixing old recordings 重混旧录音；remixing for a new audience 为新听众重混。",
+    "contrast": "remixing 不必让歌手重新唱，所用材料可以是已有录音；是否增加新声部要另看作品制作。",
+    "examples": [
+      [
+        "She is remixing the track for a dance performance.",
+        "她正为舞蹈演出重新混音曲目。"
+      ],
+      [
+        "Remixing the recording gave it a different rhythm.",
+        "重混让录音有了不同节奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/remixing#English",
+      "https://en.wiktionary.org/wiki/remix#English"
+    ]
+  },
+  {
+    "word": "rerecord",
+    "ipa": "英 /ˌriːrɪˈkɔːd/；美 /ˌriːrɪˈkɔːrd/",
+    "meaning": "重新录制",
+    "sense": "前一次已经录过，现在再录一次，叫 rerecord。可能为了改错、改善效果，也可能重新诠释。",
+    "split": "现代 re- 再次 + record 录制。record 本身是拉丁、法语借词，在已固定的录制义上再添英语可用前缀。",
+    "history": [
+      [
+        "record 的录制义 + re- → rerecord",
+        "再次把声音、影像录下"
+      ],
+      [
+        "现代影视、音乐用途",
+        "重新制作一次录音、录影"
+      ]
+    ],
+    "explanation": "rerecord the dialogue 重录对白；rerecord a song 重录歌曲。",
+    "usage": "have to rerecord 必须重录；rerecord the introduction 重录开场。",
+    "contrast": "rerecord 再录，remix 重新处理已有录音；制作一版新作品可以包含其中一种或两种。",
+    "examples": [
+      [
+        "We need to rerecord the introduction.",
+        "我们需要重录开场部分。"
+      ],
+      [
+        "She decided to rerecord the song with a smaller band.",
+        "她决定用较小编制的乐队重录这首歌。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/rerecord",
+      "https://en.wiktionary.org/wiki/rerecord#English"
+    ]
+  },
+  {
+    "word": "rerecords",
+    "ipa": "英 /ˌriːrɪˈkɔːdz/；美 /ˌriːrɪˈkɔːrdz/",
+    "meaning": "重新录制〔第三人称单数〕",
+    "sense": "他把已经录过的内容再录一遍，是 rerecords。",
+    "split": "re- + record → rerecord，加 -s，/d/ 后读 /z/。词首两个 re 的材料属于不同历史层次，现代先认完整 record。",
+    "history": [
+      [
+        "现代 re- + record → rerecord",
+        "在完整录制动词上加再次"
+      ],
+      [
+        "rerecord + -s → rerecords",
+        "它重新录制"
+      ]
+    ],
+    "explanation": "rerecords the dialogue 重录对白；rerecords the song 重录歌曲。",
+    "usage": "rerecords each section 重录每节；rerecords the narration 重录旁白。",
+    "contrast": "record 自己有记住、记录的借词史；rerecord 在完整 record 上再加 re-，先理解录制，再理解再录。",
+    "examples": [
+      [
+        "She rerecords any section with unclear speech.",
+        "她会重录说话不清楚的段落。"
+      ],
+      [
+        "The band rerecords the old song for the new album.",
+        "乐队为新专辑重录老歌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rerecords#English",
+      "https://www.etymonline.com/word/rerecord"
+    ]
+  },
+  {
+    "word": "rerecorded",
+    "ipa": "英 /ˌriːrɪˈkɔːdɪd/；美 /ˌriːrɪˈkɔːrdɪd/",
+    "meaning": "重新录制了；重录的",
+    "sense": "原来已有一次录制，现在另一遍也做过了，是 rerecorded。",
+    "split": "rerecord + -ed，/d/ 后读 /ɪd/；现代 re- 再次 + record 组成基础词。",
+    "history": [
+      [
+        "re- + record → rerecord",
+        "重新录制"
+      ],
+      [
+        "rerecord + -ed → rerecorded",
+        "过去重录；重录后的版本"
+      ]
+    ],
+    "explanation": "a rerecorded version 重录版；rerecorded the vocals 重录了人声。",
+    "usage": "rerecorded the introduction 重录了开场；rerecorded in the studio 在录音室重录的。",
+    "contrast": "重录意味着再发生录制动作；只重新调已有声轨，通常说 remixed。",
+    "examples": [
+      [
+        "She rerecorded the vocals the next morning.",
+        "她第二天早上重录了人声。"
+      ],
+      [
+        "The rerecorded version had a slower tempo.",
+        "重录版的速度较慢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rerecorded#English",
+      "https://en.wiktionary.org/wiki/rerecord#English"
+    ]
+  },
+  {
+    "word": "rerecording",
+    "ipa": "英 /ˌriːrɪˈkɔːdɪŋ/；美 /ˌriːrɪˈkɔːrdɪŋ/",
+    "meaning": "正在重录；重录过程、重录版本",
+    "sense": "以前录过的内容还在重新录，这个过程叫 rerecording；名词也可说重新录下的那一版。",
+    "split": "rerecord + -ing，保留基础拼写；re- 再次在完整 record 上起作用。",
+    "history": [
+      [
+        "re- + record → rerecord",
+        "再录一次"
+      ],
+      [
+        "rerecord + -ing → rerecording",
+        "重录的进行、过程或结果名"
+      ]
+    ],
+    "explanation": "rerecording the scene 重录场景；a rerecording of the song 歌曲重录版。",
+    "usage": "finish rerecording 重录完；rerecording the narration 重录旁白。",
+    "contrast": "rerecording 可以是活动，也可以是一份重录作品，a、the 等结构常帮助判断。",
+    "examples": [
+      [
+        "The actors are rerecording the dialogue.",
+        "演员们正在重录对白。"
+      ],
+      [
+        "The album includes a rerecording of her first single.",
+        "专辑中有她首支单曲的重录版。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rerecording#English",
+      "https://en.wiktionary.org/wiki/rerecord#English"
+    ]
+  },
+  {
+    "word": "prerecord",
+    "ipa": "英 /ˌpriːrɪˈkɔːd/；美 /ˌpriːrɪˈkɔːrd/",
+    "meaning": "预先录制",
+    "sense": "要等到之后才播、才用，现在先把声音、画面录好，叫 prerecord。",
+    "split": "pre- 提前、在前 + record 录制。现代英语组合，用已固定的技术动词表达先录后用。",
+    "history": [
+      [
+        "pre- + record → prerecord",
+        "在正式使用、播送之前录好"
+      ],
+      [
+        "媒体、教学等用途",
+        "预制供稍后播放的声音、画面"
+      ]
+    ],
+    "explanation": "prerecord a lecture 预录讲座；prerecord the announcement 预录通知。",
+    "usage": "prerecord before the event 活动前预录；prerecord the narration 预录旁白。",
+    "contrast": "prerecord 强调时间先后，rerecord 强调再做一次；一段内容可以既预录、又因错误而重录。",
+    "examples": [
+      [
+        "She will prerecord the lecture before travelling.",
+        "她会在出行前预录讲座。"
+      ],
+      [
+        "They plan to prerecord the announcement.",
+        "他们计划提前录好通知。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prerecord#English",
+      "https://www.etymonline.com/word/record"
+    ]
+  },
+  {
+    "word": "prerecords",
+    "ipa": "英 /ˌpriːrɪˈkɔːdz/；美 /ˌpriːrɪˈkɔːrdz/",
+    "meaning": "预先录制〔第三人称单数〕",
+    "sense": "他先把稍后要用的内容录下来，是 prerecords。pre 把动作放到正式播送之前。",
+    "split": "pre- + record → prerecord，加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "pre- + record → prerecord",
+        "先录好供后用"
+      ],
+      [
+        "prerecord + -s → prerecords",
+        "它预先录制"
+      ]
+    ],
+    "explanation": "prerecords the lessons 预录课程；prerecords the message 预录消息。",
+    "usage": "prerecords at home 在家预录；prerecords the introduction 预录开场。",
+    "contrast": "预录可以在家、录音室等不同地方完成，pre 限定的是先后，不是场所。",
+    "examples": [
+      [
+        "She prerecords the lessons before each term.",
+        "她每学期开始前预录课程。"
+      ],
+      [
+        "The station prerecords some weekend programmes.",
+        "电台预录部分周末节目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prerecords#English",
+      "https://en.wiktionary.org/wiki/prerecord#English"
+    ]
+  },
+  {
+    "word": "prerecorded",
+    "ipa": "英 /ˌpriːrɪˈkɔːdɪd/；美 /ˌpriːrɪˈkɔːrdɪd/",
+    "meaning": "预先录制的；预录了",
+    "sense": "现在听、看的内容是之前录好的，就是 prerecorded。时间上的先录后放是关键。",
+    "split": "prerecord + -ed，/d/ 后读 /ɪd/；pre- 在前与 record 录制形成基础动词。",
+    "history": [
+      [
+        "pre- + record → prerecord",
+        "正式使用前先录"
+      ],
+      [
+        "prerecord + -ed → prerecorded",
+        "已经预录；预先录好的内容"
+      ]
+    ],
+    "explanation": "a prerecorded message 预录消息；prerecorded lessons 预录课程。",
+    "usage": "prerecorded music 预录音乐；prerecorded the introduction 预录了开场。",
+    "contrast": "prerecorded 与 live 对照先录、实时呈现；直播中也可以插播一段预录材料。",
+    "examples": [
+      [
+        "The phone played a prerecorded message.",
+        "电话播放了一段预录消息。"
+      ],
+      [
+        "The course includes prerecorded lessons.",
+        "课程包含预先录好的课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prerecorded#English",
+      "https://en.wiktionary.org/wiki/prerecord#English"
+    ]
+  },
+  {
+    "word": "prerecording",
+    "ipa": "英 /ˌpriːrɪˈkɔːdɪŋ/；美 /ˌpriːrɪˈkɔːrdɪŋ/",
+    "meaning": "正在预录；预先录制的过程、内容",
+    "sense": "把稍后要用的节目、声音先录下来，这项准备工作叫 prerecording；名词也可说预录内容。",
+    "split": "prerecord + -ing，基础词不改；pre- 提前 + record。",
+    "history": [
+      [
+        "pre- + record → prerecord",
+        "先录后用"
+      ],
+      [
+        "prerecord + -ing → prerecording",
+        "预录的进行、过程或结果"
+      ]
+    ],
+    "explanation": "prerecording the lecture 预录讲座；a prerecording of the speech 讲话预录内容。",
+    "usage": "finish prerecording 预录完；prerecording at the studio 在录音室预录。",
+    "contrast": "prerecording 可是尚在进行的工作，也可是已经录下的内容；句子时态、冠词帮助区分。",
+    "examples": [
+      [
+        "She is prerecording next week’s lecture.",
+        "她正在预录下周的讲座。"
+      ],
+      [
+        "The broadcast used a prerecording of the speech.",
+        "节目使用了讲话的预录内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prerecording#English",
+      "https://en.wiktionary.org/wiki/prerecord#English"
+    ]
+  },
+  {
+    "word": "camcorders",
+    "ipa": "英 /ˈkæmkɔːdəz/；美 /ˈkæmkɔːrdərz/",
+    "meaning": "便携摄像机、录像摄像设备〔复数〕",
+    "sense": "既把画面拍进来，又把内容录下来，camera 与 recorder 两种作用合到一起，名称混成 camcorders。",
+    "split": "camera + recorder → camcorder，混成后再加 -s，读 /z/。保留各词的一段，不是把 camera 与 recorder 全部拼上。",
+    "history": [
+      [
+        "camera + recorder → camcorder",
+        "拍摄与录制用途混成设备名"
+      ],
+      [
+        "camcorder + -s → camcorders",
+        "多台便携摄像录制设备"
+      ]
+    ],
+    "explanation": "digital camcorders 数码摄像机；old camcorders 旧便携摄像机。",
+    "usage": "compare camcorders 比较摄像机；camcorders in the exhibition 展览里的摄像机。",
+    "contrast": "camera 范围更广，可拍静态照片；camcorder 明确摄像录制设备这个类别。",
+    "examples": [
+      [
+        "The exhibition showed early digital camcorders.",
+        "展览展示了早期数码摄像机。"
+      ],
+      [
+        "The team used two camcorders to record the interview.",
+        "团队用两台摄像机录制访谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/camcorders#English",
+      "https://en.wiktionary.org/wiki/camcorder#English"
+    ]
+  },
+  {
+    "word": "turntables",
+    "ipa": "英 /ˈtɜːnteɪblz/；美 /ˈtɜːrnteɪblz/",
+    "meaning": "转盘、唱盘机、铁路转车盘〔复数〕",
+    "sense": "一个平台围着中心转，按结构叫 turntables；可以让唱片转，也可以让机车调转方向。",
+    "split": "turn 转动 + table 平台 → turntable，加 -s，/l/ 后读 /z/。较早铁路等转动平台用途，后来进入唱片设备。",
+    "history": [
+      [
+        "turn + table → turntable",
+        "能转动的平台"
+      ],
+      [
+        "唱盘等用途；+ -s → turntables",
+        "多台转盘、唱盘机"
+      ]
+    ],
+    "explanation": "record turntables 唱盘机；railway turntables 铁路转车盘。",
+    "usage": "old turntables 旧唱盘机；compare turntables 比较转盘设备。",
+    "contrast": "turntable 是实体平台，turn the tables 是扭转局面的习语，不能用唱片播放解释那个短语。",
+    "examples": [
+      [
+        "The museum displayed two old record turntables.",
+        "博物馆展示了两台旧唱盘机。"
+      ],
+      [
+        "The railway yard once had several turntables.",
+        "铁路站场过去有几座转车盘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/turntables#English",
+      "https://en.wiktionary.org/wiki/turntable#English"
+    ]
+  },
+  {
+    "word": "karaoke",
+    "ipa": "英 /ˈkæriˌəʊki/；美 /ˌkæriˈoʊki/",
+    "meaning": "卡拉 OK；跟录好伴奏唱歌的活动",
+    "sense": "伴奏已经放好，自己跟着唱，把歌声加到音乐里，这种活动就是 karaoke。通常说 sing karaoke、go to karaoke。",
+    "split": "借日语 kara 空 + oke；oke 缩自日语 okesutora，而后者借英语 orchestra。日语两项材料组合后，整个词又借入英语。",
+    "history": [
+      [
+        "希腊、拉丁 orchestra → 英语 orchestra",
+        "表演区域的旧名称，后来指乐队"
+      ],
+      [
+        "英语 orchestra → 日语 okesutora → oke",
+        "日语借词再缩短"
+      ],
+      [
+        "日语 kara 空 + oke → karaoke → 英语 karaoke",
+        "日语组合后，整个活动名称再借入英语"
+      ]
+    ],
+    "explanation": "sing karaoke 唱卡拉 OK；a karaoke bar 卡拉 OK 酒吧。",
+    "usage": "a karaoke night 卡拉 OK 晚会；a karaoke machine 卡拉 OK 设备。",
+    "contrast": "名字里的 orchestra 绕过日语再回到英语，是借词来回传播；kara 空则是日语材料。",
+    "examples": [
+      [
+        "We sang karaoke after dinner.",
+        "晚饭后我们唱了卡拉 OK。"
+      ],
+      [
+        "The café organised a karaoke night.",
+        "咖啡馆组织了一场卡拉 OK 晚会。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/karaoke",
+      "https://en.wiktionary.org/wiki/karaoke#English"
+    ]
+  },
+  {
+    "word": "orchestras",
+    "ipa": "英 /ˈɔːkɪstrəz/；美 /ˈɔːrkɪstrəz/",
+    "meaning": "管弦乐团〔复数〕",
+    "sense": "不同乐器分工演奏、合成一套音乐，几支这样的乐队叫 orchestras。",
+    "split": "orchestra 接希腊歌队表演的区域名，经拉丁等借入；后来从位置指演奏团体。现代加 -s，元音后读 /z/。",
+    "history": [
+      [
+        "希腊 orchestra → 拉丁、英语 orchestra",
+        "剧场表演区域，后来指相应乐队"
+      ],
+      [
+        "orchestra + -s → orchestras",
+        "多支管弦乐团"
+      ]
+    ],
+    "explanation": "symphony orchestras 交响乐团；chamber orchestras 室内管弦乐团。",
+    "usage": "local orchestras 当地管弦乐团；play in orchestras 在乐团演奏。",
+    "contrast": "orchestra 常说管弦乐团，band 的范围和编制习惯更广；具体编制仍随风格、作品变化。",
+    "examples": [
+      [
+        "Two local orchestras performed at the festival.",
+        "两支当地管弦乐团参加了音乐节演出。"
+      ],
+      [
+        "The competition brought together several youth orchestras.",
+        "比赛聚集了几支青年管弦乐团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orchestras#English",
+      "https://en.wiktionary.org/wiki/orchestra#English"
+    ]
+  },
+  {
+    "word": "jukeboxes",
+    "ipa": "英 /ˈdʒuːkbɒksɪz/；美 /ˈdʒuːkbɑːksɪz/",
+    "meaning": "自动点唱机〔复数〕",
+    "sense": "投币、选一首歌，机器把选中的录音放出来，这类老式点唱设备叫 jukeboxes。",
+    "split": "jukebox 加 -es，/ks/ 后读 /ɪz/。juke 接美国 Gullah 语言与音乐娱乐场所的用词背景，box 给机器外壳；更远非洲来源细节未定。",
+    "history": [
+      [
+        "juke／jook 娱乐场所背景 + box → jukebox",
+        "自动播放选定录音的机器名"
+      ],
+      [
+        "jukebox + -es → jukeboxes",
+        "多台自动点唱机"
+      ]
+    ],
+    "explanation": "old jukeboxes 旧自动点唱机；coin-operated jukeboxes 投币点唱机。",
+    "usage": "restore jukeboxes 修复点唱机；jukeboxes in the cafés 咖啡馆里的点唱机。",
+    "contrast": "jukebox 接机器点播录音的类别；karaoke 则以人跟伴奏唱歌为活动焦点。",
+    "examples": [
+      [
+        "The museum restored two old jukeboxes.",
+        "博物馆修复了两台旧自动点唱机。"
+      ],
+      [
+        "The exhibition explained how jukeboxes selected records.",
+        "展览解释了自动点唱机怎样选择唱片。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/jukebox",
+      "https://en.wiktionary.org/wiki/jukeboxes#English"
+    ]
+  }
+]

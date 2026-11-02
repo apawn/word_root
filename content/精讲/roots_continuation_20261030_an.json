@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B2917",
+    "meaning": "陈述如何改变分量：说轻、说重、再说",
+    "core": "STATEMENT：说出来的内容，可以不足、过量或再表述",
+    "image": "先读已有 statement，再连续对照 understatement、overstatement、restatement。",
+    "intro": "这一页延伸既有 state 陈述词族。前缀说明表述与实际的关系，不是把每个词重新拆成站立来死译。",
+    "forms": "state + -ment；under-/over-/re- + statement；也有相应动词 + -ment 的分析。\n\nstate 陈述加 ment，现代可数不同说法、正式声明或报表记录。",
+    "branches": [
+      [
+        "基本陈述",
+        "statement"
+      ],
+      [
+        "分量与重复",
+        "understatement · overstatement · restatement"
+      ],
+      [
+        "statement → statements：说出的内容与文字记录",
+        "statement · statements"
+      ]
+    ],
+    "contrasts": "understatement 说轻、overstatement 夸大；restatement 重述不必逐字照抄；estimate 估计与 state 陈述角度不同。",
+    "practice": "Calling the delay inconvenient was an understatement, so she gave a clearer restatement.\n\n说延误只是不方便太轻了，于是她重新作了更清楚的表述。",
+    "words": [
+      "statement",
+      "understatement",
+      "overstatement",
+      "restatement",
+      "statements"
+    ],
+    "exclude": {
+      "e-statement": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3925",
+    "meaning": "拥有者与拥有关系；责任义的延伸",
+    "core": "OWNER：东西归谁；OWNERSHIP：归属关系或主动负责",
+    "image": "owner → ownership；homeowner、landowner、shipowner 按拥有对象分组共享。",
+    "intro": "现代 own + -er 的认形很有用，历史却有旧拥有者词及动词再形成的关系，正文分开说明。",
+    "forms": "owner 的历史本族词；owner + -ship；home/land/ship + owner。\n\n现代 own + er 的对应帮助记忆；owner 本身也有较早英语词形，历史比现代组合更长。",
+    "branches": [
+      [
+        "人和关系",
+        "owner · ownership"
+      ],
+      [
+        "拥有的对象",
+        "homeowner · landowner · shipowner"
+      ],
+      [
+        "own／owner → owners：拥有者",
+        "owner · owners"
+      ]
+    ],
+    "contrasts": "owner/user/tenant/manager 分角色；ownership/possession 分归属与持有；take ownership 可说负责。",
+    "practice": "The new owner took ownership of the problem on the first day.\n\n新主人第一天就主动接手处理了这个问题。",
+    "words": [
+      "owner",
+      "ownership",
+      "homeowner",
+      "landowner",
+      "shipowner",
+      "owners"
+    ],
+    "exclude": {
+      "co-owner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "owner-driver": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multi-owner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2424",
+    "meaning": "小部分、分钟与细微细致；同形分音",
+    "core": "MINUTE：时间细分为分钟，观察细到微小处",
+    "image": "minute 先分两种读音与词性，再接 minutely；会议记录放在短记支线。",
+    "intro": "同一个拉丁小的来源走不同借入支线，不把分钟、微小、会议记录编成单线依次演变。",
+    "forms": "拉丁 minuere → minūtus；名词 minūta 的时间、短记支线；minute + -ly。\n\n时间名词接小分量；会议记录接摘要、草稿和小字笔记材料。两者常读 /ˈmɪnɪts/；微小的 minute 形容词读 /maɪˈnjuːt/ 或相应变体。",
+    "branches": [
+      [
+        "时间、短记与微小〔分音〕",
+        "minute"
+      ],
+      [
+        "方式〔也分音〕",
+        "minutely"
+      ],
+      [
+        "minutes：分钟与会议记录同读，路径分开",
+        "minute · minutes"
+      ]
+    ],
+    "contrasts": "minute 分钟 /ˈmɪnɪt/，微小 /maɪˈnjuːt/；minutes 会议记录不按会议分钟数命名。",
+    "practice": "She spent a minute examining the minute marks minutely.\n\n她花了一分钟，极细致地查看那些微小痕迹。",
+    "words": [
+      "minute",
+      "minutely",
+      "minutes"
+    ],
+    "exclude": {
+      "yester-minute": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "shining",
+    "ipa": "/ˈʃaɪnɪŋ/",
+    "meaning": "发光、闪耀〔现在分词〕；明亮、出色的〔形容词〕",
+    "sense": "光从这里出来，或表面亮得能反光，是 shining；某个人表现特别好，也像在周围人中发光。",
+    "split": "shine 去 e 加完整 -ing。shine 继承古英语 scinan 发光词族，亮光画面后来扩展到擦亮、表现出色等义。",
+    "history": [
+      [
+        "古英语 scinan → shine",
+        "发光、反光 → 表现出色"
+      ],
+      [
+        "shine 去 e + -ing → shining",
+        "正在发光；明亮、出色的"
+      ]
+    ],
+    "explanation": "the sun is shining 阳光照耀；shining eyes 发亮的眼睛；a shining example 出色的榜样。",
+    "usage": "shining through the window 从窗户照进来；shining with pride 因自豪而神采飞扬。",
+    "contrast": "shining 是规则 ing；过去发光常见 shone，擦亮常用 shined，不能从 ing 反推所有过去形式都一样。a shining example 是褒义比喻。",
+    "examples": [
+      [
+        "The sun is shining through the window.",
+        "阳光从窗户照进来。"
+      ],
+      [
+        "Her work is a shining example of careful research.",
+        "她的作品是严谨研究的出色范例。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shining#English",
+      "https://en.wiktionary.org/wiki/shine#English"
+    ]
+  },
+  {
+    "word": "spinning",
+    "ipa": "/ˈspɪnɪŋ/",
+    "meaning": "旋转、纺线〔现在分词、动名词〕",
+    "sense": "把纤维边转边捻成线，是 spin 的老动作；抓住转动，就能理解车轮、陀螺、故事加工等后续用法。",
+    "split": "spin 双写 n 加完整 -ing。spin 继承古英语 spinnan 纺线，经中古英语延续，后来泛说旋转及相关比喻。",
+    "history": [
+      [
+        "古英语 spinnan → spin",
+        "捻成线 → 旋转及相关动作"
+      ],
+      [
+        "spin 双写 n + -ing → spinning",
+        "正在旋转、纺线；旋转过程"
+      ]
+    ],
+    "explanation": "a spinning wheel 纺车；spinning wool 纺羊毛；spinning a tale 编故事。",
+    "usage": "spinning round 转圈；my head is spinning 我晕头转向了，也可比喻信息多得应接不暇。",
+    "contrast": "spinning 不是过去式，过去式、分词常用 spun。双写 n 是短元音后重读单音节的常见规则，读音并不多出一个 n。",
+    "examples": [
+      [
+        "The wheel is spinning quickly.",
+        "轮子转得很快。"
+      ],
+      [
+        "She spent the evening spinning wool.",
+        "她整个晚上都在纺羊毛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spinning#English",
+      "https://en.wiktionary.org/wiki/spin#English"
+    ]
+  },
+  {
+    "word": "touches",
+    "ipa": "/ˈtʌtʃɪz/",
+    "meaning": "触碰、打动〔第三人称单数〕；轻触、少量润色〔复数〕",
+    "sense": "轻轻接触到某物，是 touches；小小的一笔修饰却让整体更好，也像最后轻触几下，便有 finishing touches。",
+    "split": "touch + -es，/tʃ/ 后读 /ɪz/。touch 经古法语 tochier 到中古英语 touchen，接触、敲击扩展到情感、联系和少量修饰。",
+    "history": [
+      [
+        "古法语 tochier → touch",
+        "触及、敲击 → 情感触动、少量修饰"
+      ],
+      [
+        "touch + -es → touches",
+        "某物触及、打动；多次轻触、细节修饰"
+      ]
+    ],
+    "explanation": "touches the wall 碰到墙；touches the heart 打动人心；finishing touches 最后的润色。",
+    "usage": "personal touches 个人风格的小细节；touches on a topic 简要谈及一个话题。",
+    "contrast": "touches 作名词可以数一笔笔细节，不只数身体接触。keep in touch 保持联系是固定单数搭配，不因联系多人就改成 keep in touches。",
+    "examples": [
+      [
+        "The story touches the heart.",
+        "故事打动人心。"
+      ],
+      [
+        "She added the finishing touches to the display.",
+        "她为展台作了最后润色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/touches#English",
+      "https://en.wiktionary.org/wiki/touch#English"
+    ]
+  },
+  {
+    "word": "travelled",
+    "ipa": "/ˈtrævəld/",
+    "meaning": "旅行、行进过〔过去式、过去分词，常见英式拼写〕；有游历经验的",
+    "sense": "走过一段旅程，是 travelled；消息走到另一地，也能借旅行画面说传开。它和 traveled 是常见英美拼写对应。",
+    "split": "英式 travel 双写 l 加完整 -ed，/l/ 后读 /d/；美式通常 traveled。travel 是中古英语 travail 辛劳词的变体，更早木桩刑具与出行的具体联系仍有疑问。",
+    "history": [
+      [
+        "法语 travail、travailler → 中古英语 travel 等",
+        "辛劳、艰难行程 → 旅行、移动"
+      ],
+      [
+        "travel 双写 l + -ed → travelled",
+        "常见英式过去、分词；美式对应 traveled"
+      ]
+    ],
+    "explanation": "travelled by train 乘火车走过；well travelled 游历丰富的；the distance travelled 走过的距离。",
+    "usage": "travelled widely 到过很多地方；news travelled 消息传开。",
+    "contrast": "travelled 和 traveled 意义、读音通常相同，差别主要是拼写习惯。well travelled 说人有游历经验；a heavily travelled road 则说路上通行繁忙。",
+    "examples": [
+      [
+        "We travelled along the coast by train.",
+        "我们乘火车沿海岸旅行。"
+      ],
+      [
+        "The news travelled quickly through the town.",
+        "消息很快传遍小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/travelled#English",
+      "https://en.wiktionary.org/wiki/travel#English"
+    ]
+  },
+  {
+    "word": "twisted",
+    "ipa": "/ˈtwɪstɪd/",
+    "meaning": "扭转、拧了；扭曲、弯曲的〔过去式、过去分词及形容词〕",
+    "sense": "把东西绕着、拧着，让它偏离原来的直样子，是 twisted；把别人的话说歪，也像把原意扭弯。",
+    "split": "twist + -ed，/t/ 后读 /ɪd/。twist 接中古英语 twist、twisten，与较早日耳曼两股、绳线扭合材料相关，现代不限只能扭两股。",
+    "history": [
+      [
+        "旧两股、绳线材料 → 中古英语 → twist",
+        "扭合成线绳 → 扭转、偏离原样"
+      ],
+      [
+        "twist + -ed → twisted",
+        "已经拧转；被扭曲的"
+      ]
+    ],
+    "explanation": "twisted wire 拧合的铁丝；twisted the lid 拧盖子；twisted the meaning 曲解意思。",
+    "usage": "a twisted branch 弯曲枝条；twisted into a loop 拧成一圈。",
+    "contrast": "twisted 可描述实物扭曲，也可说观点、故事被歪曲。它还可带强烈负面人物评价，本页先把实际扭转和意思扭曲两种常用画面记牢。",
+    "examples": [
+      [
+        "She twisted the lid until it came loose.",
+        "她拧着盖子，直到它松开。"
+      ],
+      [
+        "The headline twisted the meaning of his words.",
+        "标题曲解了他的话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/twisted#English",
+      "https://en.wiktionary.org/wiki/twist#English"
+    ]
+  },
+  {
+    "word": "writings",
+    "ipa": "/ˈraɪtɪŋz/",
+    "meaning": "著作、作品、写下的文字〔复数〕",
+    "sense": "写作是活动，写下来的一篇篇作品、留下的文字，则可合称 writings。常用来讨论某人的一批作品、思想表达。",
+    "split": "writing + -s，/ŋ/ 后读 /z/。writing 继承古英语 writing 的名词，也可现代对应 write 去 e 加完整 -ing；复数转向可数的书面产物。",
+    "history": [
+      [
+        "古英语 writan、writing → write、writing",
+        "刻写、写作 → 写成的文字"
+      ],
+      [
+        "writing + -s → writings",
+        "一篇篇著作、书面表达"
+      ]
+    ],
+    "explanation": "early writings 早期著作；collected writings 文集；writings on history 关于历史的著作。",
+    "usage": "personal writings 个人文字；the author’s writings 作者的作品。",
+    "contrast": "writing 说写作活动、字迹时常不可数；writings 常数作品、文章等写成的内容。拼写仍只有一个 t，w 不发音。",
+    "examples": [
+      [
+        "The course explores the author’s early writings.",
+        "课程探讨这位作者的早期著作。"
+      ],
+      [
+        "Her writings cover art and everyday life.",
+        "她的文字涵盖艺术与日常生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/writings#English",
+      "https://en.wiktionary.org/wiki/writing#English"
+    ]
+  },
+  {
+    "word": "bulls",
+    "ipa": "/bʊlz/",
+    "meaning": "公牛、雄性大型动物；教宗诏书等〔复数，须分源〕",
+    "sense": "先认动物公牛 bulls；特定文本里的教宗诏书也是 bulls，但这个名字来自文件上的印玺，不能从牛的性格硬推。",
+    "split": "bull + -s，/l/ 后读 /z/。公牛名接北欧 boli、古英语相关日耳曼材料；诏书名接拉丁 bulla 印玺的借词线，其他同形俚语另有背景。",
+    "history": [
+      [
+        "日耳曼公牛词；拉丁 bulla 印玺 → 不同 bull",
+        "动物名；封印文件的名称，近源分别传入"
+      ],
+      [
+        "bull + -s → bulls",
+        "多头公牛；多份相应诏书等"
+      ]
+    ],
+    "explanation": "bulls in a field 田里的公牛；young bulls 年轻公牛；papal bulls 教宗诏书。",
+    "usage": "bull elephants 雄象，bull 作前置修饰通常单数；bulls and cows 公牛和母牛。",
+    "contrast": "bulls 不只可说牛，也可在特定动物名称里说雄性。诏书义和金融、俚语等其他用法需按上下文分辨，本页以动物义为先。",
+    "examples": [
+      [
+        "Two bulls stood in the field.",
+        "两头公牛站在田里。"
+      ],
+      [
+        "The museum displayed copies of old papal bulls.",
+        "博物馆展出了旧教宗诏书的复制品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bulls#English",
+      "https://en.wiktionary.org/wiki/bull#English"
+    ]
+  },
+  {
+    "word": "columns",
+    "ipa": "英 /ˈkɒləmz/；美 /ˈkɑːləmz/",
+    "meaning": "柱子；竖列、分栏；专栏〔复数〕",
+    "sense": "像柱子一样竖着立、竖着排，是 columns 的形状核心。建筑有立柱，表格有竖列，报纸有文字栏。",
+    "split": "column + -s，原形末尾 n 不读，实际 /m/ 后读 /z/。column 经法语等接拉丁 columna 柱，竖向形状扩展为排版和队列。",
+    "history": [
+      [
+        "拉丁 columna → 法语、中古英语 → column",
+        "柱子 → 竖排的一列、报刊一栏"
+      ],
+      [
+        "column + -s → columns",
+        "多根柱子、多列内容、多篇专栏"
+      ]
+    ],
+    "explanation": "stone columns 石柱；rows and columns 行与列；newspaper columns 报纸专栏。",
+    "usage": "columns of numbers 一列列数字；write columns 写专栏。",
+    "contrast": "columns 通常是竖列，rows 通常是横行。column、columns 的 n 都不发音；在 columnist 等加元音词尾的相关形式里，读音又可能显出 n。",
+    "examples": [
+      [
+        "The entrance has four stone columns.",
+        "入口有四根石柱。"
+      ],
+      [
+        "Put the figures into separate columns.",
+        "把数字放进分开的几列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/columns#English",
+      "https://en.wiktionary.org/wiki/column#English"
+    ]
+  },
+  {
+    "word": "concerts",
+    "ipa": "英 /ˈkɒnsəts/；美 /ˈkɑːnsərts/",
+    "meaning": "音乐会、演奏会〔复数〕",
+    "sense": "乐手相互配合、一起奏出音乐，是 concert 名称里协调、合奏的画面。今天 concerts 最常数一场场音乐演出。",
+    "split": "名词 concert + -s，/t/ 后读 /s/。名词经法语 concert 接意大利 concerto，动词另有相关法语、意大利语路线；更早拉丁争论材料怎样转到协调，仍有疑问。",
+    "history": [
+      [
+        "意大利 concerto → 法语 concert → 英语 concert",
+        "合奏、协同 → 音乐会"
+      ],
+      [
+        "concert + -s → concerts",
+        "多场音乐演出"
+      ]
+    ],
+    "explanation": "live concerts 现场音乐会；outdoor concerts 户外音乐会；attend concerts 参加音乐会、去听演出。",
+    "usage": "give concerts 举行音乐会；a series of concerts 一系列音乐会。",
+    "contrast": "concerts 常是音乐演出，performance 的表演范围更宽。in concert 可表示协同、共同进行，这是保留下来的另一固定用法。",
+    "examples": [
+      [
+        "The park hosts outdoor concerts in summer.",
+        "公园夏天举办户外音乐会。"
+      ],
+      [
+        "She enjoys going to live concerts.",
+        "她喜欢去听现场音乐会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concerts#English",
+      "https://en.wiktionary.org/wiki/concert#English"
+    ]
+  },
+  {
+    "word": "condemned",
+    "ipa": "/kənˈdemd/",
+    "meaning": "谴责、判定有罪或不合用；被判不安全的〔过去式、过去分词及形容词〕",
+    "sense": "明确说某事错了、有害、不该接受，是 condemned。对建筑等，也能说经过判定已不安全、不适用。",
+    "split": "condemn + -ed，实际 /m/ 后读 /d/，末尾 n 不发音。condemn 经法语接拉丁 condemnare，com- 加强与 damnare 判罪、谴责的材料组合。",
+    "history": [
+      [
+        "拉丁 condemnare → 古法语 → condemn",
+        "判罪、谴责 → 严厉否定、作不利判定"
+      ],
+      [
+        "condemn + -ed → condemned",
+        "已经谴责、判定；以 /md/ 结尾"
+      ]
+    ],
+    "explanation": "condemned the action 谴责行为；condemned as unsafe 被判定不安全；condemned to a fate 注定承受某种命运。",
+    "usage": "widely condemned 广受谴责；a condemned building 已判定不安全、不能正常使用的建筑。",
+    "contrast": "condemned 语气比普通 criticized 更强，常是明确否定、判为有害或不当。原形和 ed 形式的 n 都不读，不能看字母数硬加一个 /n/。",
+    "examples": [
+      [
+        "The committee condemned the action.",
+        "委员会谴责了这一行为。"
+      ],
+      [
+        "The old house was condemned as unsafe.",
+        "老房子被判定不安全。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/condemned#English",
+      "https://en.wiktionary.org/wiki/condemn#English"
+    ]
+  },
+  {
+    "word": "coupled",
+    "ipa": "/ˈkʌpəld/",
+    "meaning": "连接、结合了；相配、相连的〔过去式、过去分词〕",
+    "sense": "把两边接成一组、让它们一起起作用，就是 coupled。实体部件能接，条件、优点也能搭在一起。",
+    "split": "couple 去 e 加完整 -ed，/l/ 后读 /d/。couple 名词经法语 couple 接拉丁 copula 纽带，动词另经法语 copler 借入，不把两种词性全说成现代英语内部转换。",
+    "history": [
+      [
+        "拉丁 copula → 古法语名词、动词 → couple",
+        "连接、纽带 → 一对；把东西接起来"
+      ],
+      [
+        "couple 去 e + -ed → coupled",
+        "已经连接、结合；与另一条件一起"
+      ]
+    ],
+    "explanation": "coupled to a machine 与机器连接；coupled with practice 加上练习、结合练习。",
+    "usage": "closely coupled 紧密相连的；coupled together 接在一起。",
+    "contrast": "coupled with 常把两种因素放在一起说，相当于再加上；不一定谈恋爱中的 couple。物理、技术语境的 coupled 又可有特定耦合含义。",
+    "examples": [
+      [
+        "The engine was coupled to a generator.",
+        "发动机和发电机连接在一起。"
+      ],
+      [
+        "Good tools, coupled with practice, made the work easier.",
+        "好工具加上练习，让工作更轻松了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coupled#English",
+      "https://en.wiktionary.org/wiki/couple#English"
+    ]
+  },
+  {
+    "word": "determining",
+    "ipa": "英 /dɪˈtɜːmɪnɪŋ/；美 /dɪˈtɜːrmɪnɪŋ/",
+    "meaning": "确定、查明；决定〔现在分词及形容词〕",
+    "sense": "原来结果、边界还模糊，把它定清楚，就是 determining；某个因素把结果定下来，也可以叫 determining factor。",
+    "split": "determine 去 e 加完整 -ing。determine 经法语接拉丁 determinare，de- 在此加强与 terminare 划界组合，terminus 是边界、尽头。",
+    "history": [
+      [
+        "拉丁 terminus、determinare → 法语 → determine",
+        "划清界限 → 确定、定下结果"
+      ],
+      [
+        "determine 去 e + -ing → determining",
+        "正在查明、决定；起决定作用的"
+      ]
+    ],
+    "explanation": "determining the cause 查明原因；determining the size 确定大小；a determining factor 决定性因素。",
+    "usage": "determining whether... 确定是否……；determining the outcome 决定结果。",
+    "contrast": "determining 可以是查清已有事实，也可以是让结果朝某方向发生。a determining factor 说因素起决定作用，a determined person 则说人坚定。",
+    "examples": [
+      [
+        "We are determining the cause of the delay.",
+        "我们正在查明延误原因。"
+      ],
+      [
+        "Cost is a determining factor in the choice.",
+        "成本是这次选择中的决定性因素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/determining#English",
+      "https://en.wiktionary.org/wiki/determine#English"
+    ]
+  },
+  {
+    "word": "entities",
+    "ipa": "/ˈentɪtiz/",
+    "meaning": "实体；独立存在的事物、组织〔复数〕",
+    "sense": "把一个事物当成能单独识别、讨论的单位，就是 entity；不要求都能用手摸到，一家公司、一项数据对象也可以这样看。",
+    "split": "entity 的辅音字母加 y 改为 ies，末尾 /tiz/。entity 接中世纪拉丁 entitas 存在，ens、ent- 存在者加性质名词 -tas，较早联系 esse 是、存在。",
+    "history": [
+      [
+        "中世纪拉丁 ens、ent- + -tas → entitas → entity",
+        "存在这一性质 → 一个独立看待的存在"
+      ],
+      [
+        "entity → entities",
+        "多个独立事物、组织、数据对象"
+      ]
+    ],
+    "explanation": "separate entities 独立实体；different entities 不同对象；business entities 经营组织。",
+    "usage": "named entities 有名称的对象；entities in a model 模型里的实体。",
+    "contrast": "entities 不等于全部是实心物体，强调可作为独立单位识别。entries 是条目、参赛者等，拼写相近但不是这个词的另一种复数。",
+    "examples": [
+      [
+        "The two departments operate as separate entities.",
+        "两个部门作为独立单位运作。"
+      ],
+      [
+        "The model describes relationships between different entities.",
+        "模型描述不同实体之间的关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entities#English",
+      "https://en.wiktionary.org/wiki/entity#English"
+    ]
+  },
+  {
+    "word": "exceptions",
+    "ipa": "/ɪkˈsepʃənz/",
+    "meaning": "例外；被排除的情况〔复数〕",
+    "sense": "一条规则通常包住一类情况，但有几件事要拿出去另看，这些就是 exceptions。",
+    "split": "exception + -s，/n/ 后读 /z/。exception 经法语接拉丁 exceptio，来自 excipere 拿出、排除的词族，较早联系 ex- 向外与 capere 拿。",
+    "history": [
+      [
+        "拉丁 excipere → exceptio → 法语 → exception",
+        "拿出去、排除 → 一般规则之外的情况"
+      ],
+      [
+        "exception + -s → exceptions",
+        "多个例外、排除项"
+      ]
+    ],
+    "explanation": "a few exceptions 少数例外；exceptions to the rule 规则的例外；make exceptions 破例。",
+    "usage": "with some exceptions 除少数情况之外；no exceptions 没有例外。",
+    "contrast": "exceptions to a rule 的介词常用 to。without exception 毫无例外是固定单数表达，不按讨论对象多就加 s。",
+    "examples": [
+      [
+        "The rule has a few exceptions.",
+        "规则有少数例外。"
+      ],
+      [
+        "We cannot make exceptions for individual requests.",
+        "我们不能为个别请求破例。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exceptions#English",
+      "https://en.wiktionary.org/wiki/exception#English"
+    ]
+  },
+  {
+    "word": "flooding",
+    "ipa": "/ˈflʌdɪŋ/",
+    "meaning": "淹没、大量涌入〔现在分词〕；洪涝、水淹〔名词〕",
+    "sense": "水多到漫过原来的边界，涌进本来不该有水的地方，是 flooding；信息、人群大量涌来，也能借这种势头。",
+    "split": "flood + -ing，直接相加。flood 继承古英语 flod，现代 oo 在这里读 /ʌ/，与 food /uː/ 的拼读不同。",
+    "history": [
+      [
+        "古英语 flod → flood",
+        "涌水、洪水 → 大量涌入、充满"
+      ],
+      [
+        "flood + -ing → flooding",
+        "正在淹没；水淹、洪涝的情况"
+      ]
+    ],
+    "explanation": "severe flooding 严重洪涝；flooding the fields 淹没田地；messages flooding in 消息大量涌来。",
+    "usage": "flooding in the town 镇上水淹；flooding with light 充满光线。",
+    "contrast": "flooding 可作过程动词，也可不可数地说洪涝现象。名词 flooding 和 floods 都可能谈水灾，但句法、表达角度不同。",
+    "examples": [
+      [
+        "The river is flooding the fields.",
+        "河水正淹没田地。"
+      ],
+      [
+        "The town suffered severe flooding.",
+        "小镇遭遇了严重水淹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flooding#English",
+      "https://en.wiktionary.org/wiki/flood#English"
+    ]
+  },
+  {
+    "word": "foundations",
+    "ipa": "/faʊnˈdeɪʃənz/",
+    "meaning": "地基；基础、根基；基金会〔复数〕",
+    "sense": "最下面那层撑得住，上面才立得稳，就是 foundations。建筑有地基，学习、制度也有支撑后续发展的基础。",
+    "split": "foundation + -s，/n/ 后读 /z/。foundation 经法语 fondacion 接拉丁 fundatio，来自 fundare 奠基、建立，根在 fundus 底部、地产。",
+    "history": [
+      [
+        "拉丁 fundus、fundare → fundatio → 法语 → foundation",
+        "底部、奠基 → 地基、基础，后有基金会等义"
+      ],
+      [
+        "foundation + -s → foundations",
+        "多处地基、若干基础条件；多家基金会"
+      ]
+    ],
+    "explanation": "lay the foundations 奠定基础；building foundations 建筑地基；charitable foundations 慈善基金会。",
+    "usage": "foundations for further study 深入学习的基础；solid foundations 扎实基础。",
+    "contrast": "foundations 的地基可用复数指一栋建筑的整体基础。它连建立义 found，不是 find 的过去式 found；基金会则是相应建立、资助机构的固定名词义。",
+    "examples": [
+      [
+        "The builders checked the foundations.",
+        "建筑工检查了地基。"
+      ],
+      [
+        "The course lays the foundations for further study.",
+        "课程为进一步学习打下基础。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foundations#English",
+      "https://en.wiktionary.org/wiki/foundation#English"
+    ]
+  }
+]

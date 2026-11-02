@@ -1,0 +1,132 @@
+[
+  {
+    "id": "B2435",
+    "meaning": "配对后多出一个，转到零散、反常、古怪",
+    "core": "ODD：剩一个没成双，也可能与通常一套不一样",
+    "image": "odd → oddly 方式；oddity 怪事、奇特性；oddball 古怪人物。",
+    "intro": "从奇数与落单抓起，再看零散工作、偶尔小错、古怪想法。每个搭配选不同支，别见 odd 就统一成奇怪。",
+    "forms": "oddi → odd；odd + -ly/-ity/ball。\n\nodds 接 odd 的旧名词化、复数用法，发展出差异、优势、机会等分支；at odds、against the odds 按固定结构理解。",
+    "branches": [
+      [
+        "基本多义及副词",
+        "odd · oddly"
+      ],
+      [
+        "奇特事物和人物",
+        "oddity · oddball"
+      ],
+      [
+        "odds：差别、不均势与可能性",
+        "odd · odds"
+      ]
+    ],
+    "contrasts": "odd jobs 零活、the odd mistake 偶尔一个错；oddity 不必 error；oddball 语气依关系。",
+    "practice": "Oddly enough, the oddball noticed an oddity that everyone else had missed.\n\n说来也怪，那位怪人注意到了别人都没发现的特殊现象。",
+    "words": [
+      "odd",
+      "oddly",
+      "oddity",
+      "oddball",
+      "odds"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3768",
+    "meaning": "工作、行为或资产带来所得",
+    "core": "EARN：做了、提供了，就有一份所得回来",
+    "image": "earn → earner；earn money 是钱，earn respect 是认可，earn criticism 也可能是不利后果。",
+    "intro": "先抓所得从行为、工作、资产产生，不把它只锁在正面工资里。人物后缀也能说赚钱产品，所以 earner 不必都是人。",
+    "forms": "earnian → earn；earn + -er → earner。\n\nearn 接旧劳动、赢得报酬词族；earning 为动作或相应分词，earnings 常说收入。\n\n古英语取得回报词延续，可说钱也可说信任、尊重。",
+    "branches": [
+      [
+        "取得所得与带来收入者",
+        "earn · earner"
+      ],
+      [
+        "earn、earning、earnings：付出与所得",
+        "earn · earning · earnings"
+      ],
+      [
+        "earn → earned：以付出换得",
+        "earn · earned"
+      ]
+    ],
+    "contrasts": "earn/win 劳动行为所得与竞赛获胜等；earner/breadwinner 挣钱者与家庭经济支柱；earn/learn 拼写不同。",
+    "practice": "The high earner still had to earn the team’s trust.\n\n那位高收入者仍得赢得团队信任。",
+    "words": [
+      "earn",
+      "earner",
+      "earning",
+      "earnings",
+      "earned"
+    ],
+    "exclude": {
+      "re-earn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3238",
+    "meaning": "监督、照看者成为宗教职务，再有辖区和棋子名",
+    "core": "BISHOP：从监督者，到主教及其职权范围",
+    "image": "bishop → bishopric 地区、职位；archbishop 按教会职务级别构成名称。",
+    "intro": "现代字母已不像原来的希腊观察词，但一路借词、缩变可以解释。不要把 bi + shop 的现代误拆当成词源。",
+    "forms": "epi- + skopos → episkopos → episcopus → bisċop → bishop；bishop + -ric；arch- + bishop。\n\n希腊 epi- 在上 + skopos 观察、照看者 → episkopos，经拉丁 episcopus、古英语 bisceop 进入英语。现代既说主教，也说国际象棋中的象。",
+    "branches": [
+      [
+        "主教及相应地区、职位",
+        "bishop · bishopric"
+      ],
+      [
+        "级别组合",
+        "archbishop"
+      ],
+      [
+        "监督照看者 → bishop → bishops",
+        "bishops"
+      ]
+    ],
+    "contrasts": "bishop/bishopric 人与职权地区；bishop/priest 具体教会职务不同；国际象棋 bishop 不是中国象棋同规则的象。",
+    "practice": "The archbishop visited a bishopric whose bishop had recently retired.\n\n大主教访问了一个主教刚刚退休的教区。",
+    "words": [
+      "bishop",
+      "bishopric",
+      "archbishop",
+      "bishops"
+    ],
+    "exclude": {
+      "even-bishop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4461",
+    "meaning": "爱与关怀的表达；方式和否定",
+    "core": "LOVING：把关怀给出去，再看方式是否有爱",
+    "image": "love → loving → lovingly；unloving 缺少关爱。",
+    "intro": "这一组最实用的是方向：loving 在表达爱，loved 在接受爱；unloving 和 unloved 也沿不同方向否定。",
+    "forms": "lufu/lufian → love；love 去 e + -ing；loving + -ly；un- + loving。",
+    "branches": [
+      [
+        "基本爱与关爱方式",
+        "love · loving · lovingly"
+      ],
+      [
+        "否定表达关爱",
+        "unloving"
+      ]
+    ],
+    "contrasts": "loving/loved 表达爱与被爱；unloving/unloved 不关爱与未被爱；lovingly/lovely 副词与形容词。",
+    "practice": "A loving parent can speak firmly and still act lovingly.\n\n有爱的父母可以语气坚定，同时仍以关爱的方式对待孩子。",
+    "words": [
+      "love",
+      "loving",
+      "lovingly",
+      "unloving"
+    ],
+    "exclude": {
+      "all-loving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-loving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-loving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

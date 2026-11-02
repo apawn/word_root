@@ -1,0 +1,388 @@
+[
+  {
+    "word": "warn",
+    "ipa": "英 /wɔːn/；美 /wɔːrn/",
+    "meaning": "警告；提醒提防、事先告知",
+    "sense": "危险还没发生，先让别人注意：前面路滑、动作会带来后果。warn 把话指向需要提防的风险。",
+    "split": "接古英语 warnian 留意、警告，经中古英语 warnen 延续。更早日耳曼语材料有留心、防备的意思；今天常说预先提醒危险或不利后果。",
+    "history": [
+      [
+        "古英语 warnian → 中古英语 warnen",
+        "留意、防备；提前告知危险"
+      ],
+      [
+        "现代 warn",
+        "提醒提防；警告某人或不要做某事"
+      ]
+    ],
+    "explanation": "warn someone about a risk 提醒某人注意风险；warn someone not to do 警告不要做；warn of danger 提醒危险；warn against doing 告诫不要做。",
+    "usage": "warn someone in advance；I warned you。",
+    "contrast": "warn of／about 提醒某种风险；warn against doing 告诫不要做某事。remind 更广地说提醒记起，不一定涉及危险。",
+    "examples": [
+      [
+        "The sign warns drivers about the sharp bend.",
+        "路牌提醒司机注意急弯。"
+      ],
+      [
+        "She warned me not to touch the wet paint.",
+        "她提醒我不要碰未干的油漆。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/warn",
+      "https://en.wiktionary.org/wiki/warn#English"
+    ]
+  },
+  {
+    "word": "warning",
+    "ipa": "英 /ˈwɔːnɪŋ/；美 /ˈwɔːrnɪŋ/",
+    "meaning": "警告、预警；警示信号；warn 的 -ing 形式",
+    "sense": "可能出问题的提示已经亮起：一声警报、一块牌子、一次提醒，都能是 a warning。它把 warn 的动作变成可接收的信号或通知。",
+    "split": "warn + -ing 的现代关系清楚；古英语已有 warnung 一类动词名词，故英语名词有更早历史。后来也指预兆、警示、提前通知。",
+    "history": [
+      [
+        "古英语 warnian → warnung 等",
+        "警告 → 警告动作、通知"
+      ],
+      [
+        "现代 warning",
+        "警告；预先提示风险的信号；正在警告"
+      ]
+    ],
+    "explanation": "a warning sign 警示牌、危险征兆；a weather warning 天气预警；without warning 毫无预兆；a warning light 警示灯；give a warning 发出警告。",
+    "usage": "an early warning；take a warning seriously。",
+    "contrast": "warning 可以是文字、声音，也可以是显示问题的迹象，不一定有人开口。a warning sign 既可能是实体牌子，也可能是抽象征兆。",
+    "examples": [
+      [
+        "A warning light appeared on the dashboard.",
+        "仪表盘上亮起了警示灯。"
+      ],
+      [
+        "The lights went out without warning.",
+        "毫无预兆地，灯全灭了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/warn",
+      "https://en.wiktionary.org/wiki/warning#English"
+    ]
+  },
+  {
+    "word": "tissue",
+    "ipa": "英 /ˈtɪʃuː/、/ˈtɪsjuː/；美 /ˈtɪʃuː/",
+    "meaning": "纸巾；薄纸；组织〔生物〕；织物〔历史用法等〕",
+    "sense": "老画面是细线织成一片。身体里细胞形成有结构的组织，也借这个织物名称；薄纸、纸巾则沿另一条与细薄织物相关的用法发展。",
+    "split": "经法语 tissu 织成的、织物，接拉丁 texere 编织。生物组织义经法语发展；纸类义来自 tissue paper 的缩短，其名称常联系保护细织物所用薄纸。两条线不能直接画成身体组织变成纸巾。",
+    "history": [
+      [
+        "拉丁 texere → 法语 tissu → tissue",
+        "编织 → 织成的细织物"
+      ],
+      [
+        "并行分支：生物组织；tissue paper 的缩短",
+        "细胞结构的组织；薄纸、纸巾"
+      ]
+    ],
+    "explanation": "a paper tissue 一张纸巾；a box of tissues 一盒纸巾；tissue paper 薄包装纸；muscle tissue 肌肉组织；plant tissue 植物组织。",
+    "usage": "a tissue sample；wrap something in tissue paper。",
+    "contrast": "a tissue 通常能数一张纸巾，muscle tissue 通常把组织当材料、结构说。a tissue sample 是一份组织样本，不能照日常纸巾义猜。",
+    "examples": [
+      [
+        "She took a tissue from the box.",
+        "她从盒里抽了一张纸巾。"
+      ],
+      [
+        "The textbook explains how muscle tissue works.",
+        "教材解释了肌肉组织怎样发挥作用。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tissue",
+      "https://en.wiktionary.org/wiki/tissue#English"
+    ]
+  },
+  {
+    "word": "margin",
+    "ipa": "英 /ˈmɑːdʒɪn/；美 /ˈmɑːrdʒɪn/",
+    "meaning": "页边空白、边缘；余地；差距；利润幅度等",
+    "sense": "纸上正文旁留一圈空白，是 margin；时间和预算也能留一圈余量；两边结果相差多少，又可以说 margin。",
+    "split": "经法语或直接接拉丁 margo、margin- 边缘、边界。英语由实际边缘到页边空白，再发展出缓冲余地、差距等；商业语境另有利润幅度等专门义。",
+    "history": [
+      [
+        "拉丁 margo／margin- → margin",
+        "边缘、界限；页边空白"
+      ],
+      [
+        "英语抽象扩展",
+        "留出的余地；胜负差距、利润幅度等"
+      ]
+    ],
+    "explanation": "write in the margin 写在页边；leave a margin 留出余地；a margin of error 误差范围；win by a narrow margin 险胜；profit margin 利润率、利润幅度等按指标看。",
+    "usage": "wide margins；a safety margin。",
+    "contrast": "margin 不全是纸边。by a large margin 说相差很多；a small margin for error 说可出错余地很小。不要把数值差距和预留空间都死译成边缘。",
+    "examples": [
+      [
+        "She wrote a question in the margin.",
+        "她在页边写了一个问题。"
+      ],
+      [
+        "Leave a little margin in the schedule for delays.",
+        "日程中给延误留一点余量。"
+      ],
+      [
+        "The team won by a narrow margin.",
+        "球队以微弱优势获胜。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/margin",
+      "https://en.wiktionary.org/wiki/margin#English"
+    ]
+  },
+  {
+    "word": "vase",
+    "ipa": "英 /vɑːz/；美常 /veɪs/，亦有其他读法",
+    "meaning": "花瓶；装饰性瓶、器皿",
+    "sense": "放在桌上用来插花或装饰的器皿，是 vase；可以装花，也可以本身就是展品。",
+    "split": "经法语 vas、vase 接拉丁 vas 容器，复数 vasa，更远来源不明。现代常用于花瓶、装饰器皿，不必给 vas 再硬编一个更古老来源。",
+    "history": [
+      [
+        "拉丁 vas → 法语 vas／vase",
+        "容器、器皿"
+      ],
+      [
+        "英语 vase",
+        "花瓶；装饰性器皿"
+      ]
+    ],
+    "explanation": "a vase of flowers 一瓶花；put flowers in a vase 把花插进花瓶；a glass vase 玻璃花瓶；an antique vase 古董瓶。",
+    "usage": "a ceramic vase；a vase on the table。",
+    "contrast": "vase 有多种实际读音，常见英式 /vɑːz/、美式 /veɪs/；这不改变词义。vessel 范围更广，也能说船和脉管，不能处处换成 vase。",
+    "examples": [
+      [
+        "She put the flowers in a tall glass vase.",
+        "她把花插进一只高玻璃花瓶。"
+      ],
+      [
+        "The museum displayed a painted ceramic vase.",
+        "博物馆展出了一只彩绘陶瓶。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/vase",
+      "https://en.wiktionary.org/wiki/vase#English"
+    ]
+  },
+  {
+    "word": "vessel",
+    "ipa": "/ˈvesəl/",
+    "meaning": "容器、器皿；船舶；血管等脉管",
+    "sense": "一个中空结构，能盛东西、承载人货或让液体通过。碗罐、船舶、血管这几个意思，都保留承载或输送的联系。",
+    "split": "经法语 vessel 等接晚期拉丁 vascellum 小容器，较早接 vasculum、vas 容器的小称材料。英语容器、船和身体管道义在较早时期已并存，不是现代从英语 vase 临时变来。",
+    "history": [
+      [
+        "拉丁 vas → vasculum／vascellum",
+        "容器 → 小容器及相应名称"
+      ],
+      [
+        "法语 → 英语 vessel",
+        "容器；船；输送体液的脉管"
+      ]
+    ],
+    "explanation": "a drinking vessel 饮用器皿；a fishing vessel 渔船；a cargo vessel 货船；a blood vessel 血管；a reaction vessel 反应容器。",
+    "usage": "a small vessel；blood vessels。",
+    "contrast": "a blood vessel 是输血液的管道；a fishing vessel 是船。vessel 比 boat 正式、范围也不同，不要每项船名都按小船想象。",
+    "examples": [
+      [
+        "The vessel carried food and medical supplies to the island.",
+        "船把食品和医疗用品运到了岛上。"
+      ],
+      [
+        "The diagram shows the blood vessels in the arm.",
+        "示意图展示了手臂里的血管。"
+      ],
+      [
+        "The liquid was heated in a sealed vessel.",
+        "液体在一个密闭容器中被加热。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/vessel",
+      "https://en.wiktionary.org/wiki/vessel#English"
+    ]
+  },
+  {
+    "word": "fleet",
+    "ipa": "/fliːt/",
+    "meaning": "舰队、船队；车队、机队；迅捷的〔较文学〕",
+    "sense": "一批在水上航行的船，组成 a fleet；管理对象换成车辆、飞机，这个成组交通工具的名称也跟着扩大。",
+    "split": "船队名词承接古英语 fleot 船、浮动器物，较早接漂浮、流动词族，与 float 同族。形容词迅捷的则联系北欧语快速、流动相关材料，不是英语名词船队直接推出的单一路线。",
+    "history": [
+      [
+        "古英语 fleot 与漂浮词族",
+        "浮动器物、船 → 船队"
+      ],
+      [
+        "现代名词扩展；另有同族速度形容词",
+        "车队、机队；迅捷的"
+      ]
+    ],
+    "explanation": "a fishing fleet 渔船队；a fleet of buses 一支公交车队；an airline’s fleet 航空公司机队；fleet feet 轻快的脚步，较文学。",
+    "usage": "manage a fleet；a fleet of delivery vans。",
+    "contrast": "fleet 名词是同一管理、用途等联系下的一批交通工具，不必都是军舰。a fleet of taxis 是出租车队；Fleet Street 则是专名，另有河道地名历史。",
+    "examples": [
+      [
+        "The company operates a fleet of electric vans.",
+        "公司运营着一支电动货车车队。"
+      ],
+      [
+        "The fishing fleet returned before the storm.",
+        "渔船队在风暴前返航了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/fleet",
+      "https://en.wiktionary.org/wiki/fleet#English"
+    ]
+  },
+  {
+    "word": "fleeting",
+    "ipa": "/ˈfliːtɪŋ/",
+    "meaning": "短暂的、转瞬即逝的；fleet 的 -ing 形式",
+    "sense": "像一阵水流从眼前掠过，还没抓住就过去了。a fleeting moment 是很快就消失的一瞬。",
+    "split": "fleet + -ing，接旧动词漂浮、流动，后来流逝、消失的分支。这个常用形容词不是把现代 fleet 船队直接加 -ing，就得出船队正在开动。",
+    "history": [
+      [
+        "旧动词 fleet",
+        "漂浮、流动 → 流逝、消失"
+      ],
+      [
+        "fleet + -ing → fleeting",
+        "流逝得很快；短暂的"
+      ]
+    ],
+    "explanation": "a fleeting glimpse 短暂的一瞥；a fleeting thought 一闪而过的念头；a fleeting smile 转瞬即逝的微笑；a fleeting moment 短暂瞬间。",
+    "usage": "a fleeting impression；a fleeting visit。",
+    "contrast": "fleeting 强调时间短、很快过去；temporary 强调暂时而非永久，可以持续更长一段时间。a fleeting thought 不只是被暂时安排的想法。",
+    "examples": [
+      [
+        "A fleeting smile crossed her face.",
+        "她脸上掠过一丝微笑。"
+      ],
+      [
+        "I caught a fleeting glimpse of the sea between the trees.",
+        "透过树木间隙，我短暂地瞥见了大海。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/fleet",
+      "https://en.wiktionary.org/wiki/fleeting#English"
+    ]
+  },
+  {
+    "word": "foster",
+    "ipa": "英 /ˈfɒstə/；美 /ˈfɑːstər/",
+    "meaning": "培养、促进；寄养、抚养；寄养的",
+    "sense": "先给食物和照料，让生命长起来；再给条件、鼓励，让信任、兴趣、能力长起来。这是 foster 的养育到培养的主线。",
+    "split": "接古英语 fostor 食物、养育及相应养育动词，较早属于喂养词族，与 food、feed 有历史联系。现代既保留照养儿童的用法，也常说促进某种事物发展。",
+    "history": [
+      [
+        "古英语 fostor 及养育动词",
+        "食物、营养、养育；与 food／feed 同族"
+      ],
+      [
+        "现代 foster",
+        "抚养、寄养；培养、促进发展"
+      ]
+    ],
+    "explanation": "foster trust 培养信任；foster creativity 培养创造力；foster cooperation 促进合作；foster parents 寄养父母；foster children 寄养儿童。",
+    "usage": "foster a sense of belonging；foster understanding。",
+    "contrast": "foster 不只用于好事，也能说 foster resentment 滋长怨恨。foster children 与 adopted children 不是同一个关系名称，不宜都笼统译成已收养的孩子。",
+    "examples": [
+      [
+        "The course aims to foster curiosity and independent thinking.",
+        "课程旨在培养好奇心和独立思考。"
+      ],
+      [
+        "They have fostered several children over the years.",
+        "这些年来，他们寄养照料过几名儿童。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/foster",
+      "https://en.wiktionary.org/wiki/foster#English"
+    ]
+  },
+  {
+    "word": "inner",
+    "ipa": "英 /ˈɪnə/；美 /ˈɪnər/",
+    "meaning": "内部的、里面的；内心的；核心圈内的",
+    "sense": "一层外壳里面还有一层，是 inner layer；一个人不直接给外界看的感受，是 inner feelings。先从外层向内看。",
+    "split": "承接古英语 inne 在里面的比较形式 inra、innera。与现代 in 同族；虽有旧比较来源，现代通常作为内部的性质词，不像普通比较级接 than。英语 in 与拉丁 in 远层同源，不表示 inner 借自拉丁。",
+    "history": [
+      [
+        "古英语 inne → inra／innera",
+        "在里面 → 较里面的"
+      ],
+      [
+        "现代 inner",
+        "内部的；内心的；较核心的"
+      ]
+    ],
+    "explanation": "the inner wall 内墙、里面一层墙；an inner pocket 内袋；inner peace 内心平静；the inner circle 核心圈；inner city 中心城区。",
+    "usage": "an inner layer；inner thoughts。",
+    "contrast": "inner 与 outer 对照说内、外层。inner 有历史比较词尾，但现代通常不说 inner than this one 来当更里面的标准比较；可改为 further inside 等。",
+    "examples": [
+      [
+        "Keep the passport in an inner pocket.",
+        "把护照放在内袋里。"
+      ],
+      [
+        "The novel explores the character’s inner life.",
+        "小说探讨了这个人物的内心世界。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/inner",
+      "https://en.wiktionary.org/wiki/inner#English"
+    ]
+  },
+  {
+    "word": "stem",
+    "ipa": "/stem/",
+    "meaning": "茎、柄；词干；起源于〔stem from〕；另源：遏止",
+    "sense": "花朵、叶子从一条支撑主干长出，这是 stem；问题也可以从某个来源长出，于是 stem from 表起因。另一个 stem the flow 则是挡住流动，要分开认。",
+    "split": "名词接古英语 stemn、stefn 树干、船端木柱，通常联系更早站立、支撑材料；与拉丁 stare 为远层同源比较。stem from 接主干、来源的动词扩展；阻挡流动的动词另借北欧语 stemma。",
+    "history": [
+      [
+        "古英语 stemn／stefn → stem 名词",
+        "树干、支撑主干 → 茎、柄、词干；来源关系"
+      ],
+      [
+        "另源北欧语 stemma → stem 动词",
+        "挡住、堵住 → 遏止流动或发展"
+      ]
+    ],
+    "explanation": "a flower stem 花茎；the stem of a glass 杯脚、杯柄；a word stem 词干；stem from a misunderstanding 起因于误会；stem the flow 遏止流动。",
+    "usage": "cut the stem；stem from several causes。",
+    "contrast": "词干不一定是最小词根：teachers 去复数 -s 后，词干 teacher 还能拆 teach + -er。stem from 是起源于；stem the tide 是遏止趋势，两种结构的方向不同。",
+    "examples": [
+      [
+        "Cut the flower stems before putting them in water.",
+        "把花放进水里前，先修剪花茎。"
+      ],
+      [
+        "Most of the problems stem from poor communication.",
+        "大多数问题起因于沟通不畅。"
+      ],
+      [
+        "The changes helped stem the decline in visitor numbers.",
+        "这些改变帮助遏止了游客数量下降的趋势。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/stem",
+      "https://en.wiktionary.org/wiki/stem#English"
+    ]
+  }
+]

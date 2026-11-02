@@ -1,0 +1,151 @@
+[
+  {
+    "id": "B3062",
+    "meaning": "设防城堡及其形状、位置组合",
+    "core": "CASTLE：先有防守的堡，再借给沙堆和船上结构",
+    "image": "castle → sandcastle 把沙堆成城堡；forecastle 历史联系船前部的堡状结构。",
+    "intro": "把防御性建筑作为入口，比直接背豪华房子准确。组合词有的保留外形，有的因旧船结构固定了位置名称。",
+    "forms": "castrum → castellum → castle；sand + castle；fore + castle。",
+    "branches": [
+      [
+        "堡垒与仿造形状",
+        "castle · sandcastle"
+      ],
+      [
+        "船上前部结构",
+        "forecastle"
+      ]
+    ],
+    "contrasts": "castle 通常不读 t；palace 不等于设防城堡；forecastle 有特殊常见读法，不能机械逐字拼音。",
+    "practice": "The children built a sandcastle after visiting the old castle.\n\n参观旧城堡后，孩子们堆了一座沙堡。",
+    "words": [
+      "castle",
+      "sandcastle",
+      "forecastle"
+    ],
+    "exclude": {
+      "counter-castle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2473",
+    "meaning": "残渣、废物形象形成的粗俗词族",
+    "core": "CRAP：把东西、说法嫌成废料，语气很粗",
+    "image": "crap → crappy 糟糕；bullcrap 胡扯；crapper 厕所俚语。",
+    "intro": "看电影、读口语时常遇见，理解语气很有用。它们不都在讲排泄，但评价仍带粗俗色彩，不能只抄成中性的差、不对。",
+    "forms": "crappe 等残渣词 → crap；crap + -y/-er；bull + crap。",
+    "branches": [
+      [
+        "粗俗评价及其形容词",
+        "crap · crappy · bullcrap"
+      ],
+      [
+        "厕所俚语",
+        "crapper"
+      ]
+    ],
+    "contrasts": "crap 早于 Crapper；-er 可指器具或地方；bullcrap 是态度，不是证据；crappy 语气比普通 poor 强烈。",
+    "practice": "The dialogue uses crap and crappy to show the speaker’s rough tone.\n\n这段对白用 crap 和 crappy 表现说话者粗鲁的语气。",
+    "words": [
+      "crap",
+      "crappy",
+      "bullcrap",
+      "crapper"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3564",
+    "meaning": "发现的过程、结果和再次发现",
+    "core": "REDISCOVERY：旧东西重新被看见、被重视",
+    "image": "discovery 发现；rediscovery 再次发现，不必重新造出东西。",
+    "intro": "书架里重找到一册旧书，或重新爱上家乡风景，都能体现重新进入视野。",
+    "forms": "discover → discovery；re- + discovery → rediscovery。",
+    "branches": [
+      [
+        "初次进入视野与重新进入",
+        "discovery · rediscovery"
+      ]
+    ],
+    "contrasts": "re- 不保证发现者同一个人；rediscovery 不等于 invention 发明。",
+    "practice": "The rediscovery gave new meaning to the original discovery.\n\n这次重新发现，赋予最初的发现新的意义。",
+    "words": [
+      "discovery",
+      "rediscovery"
+    ],
+    "exclude": {
+      "e-discovery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-discovery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3154",
+    "meaning": "宠养、宠爱与偏爱",
+    "core": "PET：当伴侣养，或特别放在心上",
+    "image": "pet 可作宠物名词、抚摸动词，也可修饰特别偏爱的项目；固定搭配另看语气。",
+    "intro": "宠爱让动物、人物和项目连起来，但 pet peeve 是特别在意的烦恼，不能只把 pet 译成宠物。",
+    "forms": "苏格兰语 pet；可能联系 peata → 英语 pet；名词转动词，petted/petting。\n\npet 经苏格兰语相关称呼进入一般英语，可能联系盖尔语 peata；动词由宠爱、宠物关系发展。",
+    "branches": [
+      [
+        "宠养、抚摸与固定偏爱搭配",
+        "pet"
+      ],
+      [
+        "pet → pets：宠物；轻抚",
+        "pet · pets"
+      ]
+    ],
+    "contrasts": "pet project 不一定真养动物；pet peeve 是烦处；teacher’s pet 常带批评偏心的语气。",
+    "practice": "Her pet project is a shelter for abandoned pets.\n\n她特别上心的项目是一所遗弃宠物收容所。",
+    "words": [
+      "pet",
+      "pets"
+    ],
+    "exclude": {
+      "pet-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "petter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3532",
+    "meaning": "判断糊涂、受骗和欠考虑的冒险",
+    "core": "FOOL：判断没跟上，才会受骗或冒失",
+    "image": "fool → foolish → foolishly/foolishness；foolhardy 是缺少判断的大胆；foolproof 尽量防止误操作。",
+    "intro": "重点放在具体判断和做法，而非只背傻瓜。会被骗、决定不周、轻率逞勇有各自搭配，设计能防误用又是反过来考虑这些问题。",
+    "forms": "follis → fol → fool；fool + -ish；foolish + -ly/-ness；fol hardi → foolhardy；fool + proof。\n\n法语、拉丁风箱或皮囊材料，语义桥梁有推测。\n\n与 fool 比较滑稽、愚蠢，不从拉丁 follis 派生。clown 较早是粗笨乡人、后有职业丑角义，远源有北欧、低地德语等分析，不能定成拉丁 colonus 农夫的直接借词。",
+    "branches": [
+      [
+        "人、行为及其性质",
+        "fool · foolish · foolishly · foolishness"
+      ],
+      [
+        "风险判断与防误操作",
+        "foolhardy · foolproof"
+      ],
+      [
+        "fool → fools：人物名到欺骗动词",
+        "fool · fools"
+      ],
+      [
+        "clown：粗笨者到逗笑演员",
+        "clown · clowns"
+      ]
+    ],
+    "contrasts": "fool 可侮辱；foolish 不只稍微傻；foolhardy 不是单纯赞勇敢；foolproof 日常强调容易正确用，不保证绝对不出错。",
+    "practice": "A foolproof checklist can reduce mistakes, but ignoring it would be foolish.\n\n一份便于正确使用的检查单能减少错误，但无视它就很不明智。",
+    "words": [
+      "fool",
+      "foolish",
+      "foolishly",
+      "foolishness",
+      "foolhardy",
+      "foolproof",
+      "fools",
+      "clown",
+      "clowns"
+    ],
+    "exclude": {
+      "fool-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "A1982",
+    "meaning": "属于、像……的形容词传统，及其物质名称扩展",
+    "core": "-INE：先看词基和历史，不能只靠尾巴猜化学性质",
+    "image": "关系形容词与科学物质名的历史有关，但现代用途已不同；果名、品牌名、旧借词各自追到实际来源。",
+    "intro": "caffeine 咖啡、nicotine 人名、iodine 紫色、creatine 肉，各自抓住不同命名线索。-ine 可读 /iːn/、/aɪn/、/ɪn/ 等，不一刀切。",
+    "forms": "拉丁 -īnus、-īna 经法语等 → 英语 -ine；关系形容词与事物名 → 化学命名扩展；有些整词在英语形成以前就带相应词尾。",
+    "branches": [
+      [
+        "关系性质与旧借词",
+        "alkaline · labyrinthine · serpentine · riverine · turpentine"
+      ],
+      [
+        "果名与商品名",
+        "tangerine · nectarine · vaseline"
+      ],
+      [
+        "常见物质名",
+        "caffeine · nicotine · cocaine · codeine · iodine · fluorine · chlorine · bromine · gasoline"
+      ],
+      [
+        "生化名称与近形辨析",
+        "amine · glycine · tyrosine · creatine · creatinine · epinephrine · adrenaline · adenosine · lysine · taurine · thyroxine"
+      ],
+      [
+        "人物等其他派生",
+        "heroine · figurine · argentine · saccharine"
+      ]
+    ],
+    "contrasts": "creatine/creatinine 肌酸肌酐；epinephrine/adrenaline 同物两名；tangerine/nectarine 不同果；opine 常用动词不按 op+-ine 拆。",
+    "practice": "The labels distinguished caffeine from nicotine and creatine from creatinine.\n\n标签分别区分了咖啡因与尼古丁、肌酸与肌酐。",
+    "words": [
+      "alkaline",
+      "labyrinthine",
+      "serpentine",
+      "riverine",
+      "turpentine",
+      "tangerine",
+      "nectarine",
+      "vaseline",
+      "caffeine",
+      "nicotine",
+      "cocaine",
+      "codeine",
+      "iodine",
+      "fluorine",
+      "chlorine",
+      "bromine",
+      "gasoline",
+      "amine",
+      "glycine",
+      "tyrosine",
+      "creatine",
+      "creatinine",
+      "epinephrine",
+      "adrenaline",
+      "adenosine",
+      "lysine",
+      "taurine",
+      "thyroxine",
+      "heroine",
+      "figurine",
+      "argentine",
+      "saccharine"
+    ],
+    "exclude": {
+      "palatine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "delphine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "methionine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "atropine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "estuarine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tetracycline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "leucine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ephedrine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "strychnine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mescaline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "guanine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "opine": "常用动词来自法语 opiner、拉丁 opīnor 表意见，不是 op 加本页词尾；同形化学名词较冷门暂略。",
+      "dauphine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "colchicine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "amitriptyline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "betaine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "valine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "phosphine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "promethazine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thymine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "adamantine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

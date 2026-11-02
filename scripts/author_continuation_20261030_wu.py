@@ -1,0 +1,79 @@
+"""Newness, brightness, darkness and strength in comparison."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B2515':dict(words=['new','newer','newest'],label='new → newer → newest：出现、制作时间的先后',note='new 继承古英语 nīwe／nēowe，更远与拉丁 novus、希腊 neos 同源，但不是借自这些现代教学词根。'),
+ 'B2929':dict(words=['bright','brighter','brightest'],label='bright → brighter → brightest：更亮、更聪明、更有希望',note='bright 接古英语 beorht、bryht 等；gh 现代不发音，比较形式仍保留拼写。'),
+ 'B3063':dict(words=['dark','darker','darkest'],label='dark → darker → darkest：光线、颜色与处境',note='dark 继承古英语 deorc，比较形式可比缺光、颜色深，也可比处境阴暗等抽象义。'),
+ 'B3393':dict(words=['weak','weaker','weakest'],label='weak → weaker → weakest：力、强度和依据',note='weak 现代形式接北欧 veikr，与本族 wāc 有同族联系；论据较弱与身体力气小分别按场景看。'),
+ 'B3359':dict(words=['strong','stronger','strongest'],label='strong → stronger → strongest：最有力、最强',note='strong 的 strongest 常在 /ŋ/ 后读出 /ɡ/，不要只按单数基本词的末尾音照抄。'),
+}
+W('newer','英 /ˈnjuːə/；美 /ˈnuːər/','更新的；出现、制作、采用时间更晚的；new 的比较级',
+ '两件东西相比，较晚出现、较新的一件是 newer。它只比较新旧，不自动说明质量或效果更好。',
+ 'new + -er，直接加，不双写 w。new 继承古英语 nīwe、nēowe，经日耳曼语路线延续，与拉丁 novus、希腊 neos 是更远同源。',
+ [['古英语 nīwe／nēowe → new','新的、较近才出现的'],['new + -er → newer','相比之下时间更新']],
+ 'a newer version 更新的版本；a newer building 较新的建筑；newer than ... 比……新；the newer of the two 两者中较新的。',
+ 'much newer；newer equipment。','newer 强调新旧比较，better 强调某项表现更好。a newer version 可能有不同功能，是否更适合你的用途，还要看具体内容。',
+ ('The newer map shows the road that opened last year.','较新的地图标出了去年开通的那条路。'),('We moved the old files onto the newer computer.','我们把旧文件移到了较新的那台电脑上。'),sources=['https://en.wiktionary.org/wiki/newer#English','https://en.wiktionary.org/wiki/new#English'])
+W('newest','英 /ˈnjuːɪst/；美 /ˈnuːɪst/','最新的；出现时间最近的；new 的最高级',
+ '在一组东西里，最晚加入、最晚出现的那一个，就是 newest。可以是成员、产品或最近建成的房子。',
+ 'new + -est，保留 w，词尾 /ɪst/。new 接古英语 nīwe、nēowe，现代最高级直接加后缀。',
+ [['古英语 nīwe／nēowe → new','新的'],['new + -est → newest','给定范围里最新、最近出现的']],
+ 'our newest member 我们最新加入的成员；the newest model 最新型号；the newest building 最新建成的建筑；the newest addition 最近新增的东西、成员。',
+ 'the newest of the group；our newest design。','newest 与 latest 常重叠，但搭配有习惯：newest member 很自然，latest news、latest update 也很常见。latest 还可说最晚时间，newest 主要比较新旧。',
+ ('Please welcome the newest member of our team.','请欢迎我们团队新加入的成员。'),('The newest building stands beside the old library.','最新建成的那栋楼在老图书馆旁。'),sources=['https://en.wiktionary.org/wiki/newest#English','https://en.wiktionary.org/wiki/new#English'])
+W('brighter','英 /ˈbraɪtə/；美 /ˈbraɪtər/','更亮的；颜色更鲜明的；更聪明、更有希望的；bright 的比较级',
+ '光更多、更显眼，是 brighter；人的思路更灵活、前景更有希望，也沿着明亮的感觉理解。',
+ 'bright + -er，gh 不单独发音，/t/ 保留。bright 接古英语 beorht、bryht 等，经过旧词形变化延续到现代。',
+ [['古英语 beorht／bryht → bright','明亮；聪明、乐观等引申'],['bright + -er → brighter','更亮；更聪明、更有希望等']],
+ 'a brighter room 更明亮的房间；brighter colours 更鲜明的颜色；a brighter future 更有希望的未来；look brighter 显得更乐观、明朗。',
+ 'much brighter；a little brighter。','brighter future 是对前景更有希望的比喻，brighter light 则通常说实际光线。颜色的 brighter 与 darker、paler 等要按具体视觉效果区分。',
+ ('The white walls made the room look brighter.','白墙让房间显得更亮了。'),('After the repairs, the theatre’s future looked brighter.','修缮完成后，这座剧院的前景显得更乐观了。'),sources=['https://en.wiktionary.org/wiki/brighter#English','https://en.wiktionary.org/wiki/bright#English'])
+W('brightest','/ˈbraɪtɪst/','最亮的；最聪明、最有前途的；bright 的最高级',
+ '在一组里最明亮、最显眼的一项，是 brightest。形容学生、人才时，又常说思维最敏捷、最有才华。',
+ 'bright + -est，gh 不发音，/t/ 后接 /ɪst/。bright 延续古英语 beorht、bryht 等，最高级按光、色彩、聪明等具体义项使用。',
+ [['古英语 beorht／bryht → bright','明亮；头脑敏捷、前景乐观等'],['bright + -est → brightest','给定范围里最亮、最聪明等']],
+ 'the brightest light 最亮的光；the brightest colours 最鲜明的颜色；one of the brightest students 最聪明的学生之一。',
+ 'the brightest part；our brightest idea。','brightest student 通常评价聪明、有才华，highest score 则明确比较分数。两者可能相关，但表达的依据不同。',
+ ('Put the plant in the brightest part of the room.','把这株植物放在房间最明亮的地方。'),('She was one of the brightest students in the class.','她是班上最聪明的学生之一。'),sources=['https://en.wiktionary.org/wiki/brightest#English','https://en.wiktionary.org/wiki/bright#English'])
+W('darker','英 /ˈdɑːkə/；美 /ˈdɑːrkər/','更暗的；颜色更深的；更阴沉、沉重的；dark 的比较级',
+ '光少了，是 darker；颜色往深处走，也是 darker。故事、气氛或时期更沉重阴暗时，还会沿这个画面引申。',
+ 'dark + -er，直接加，不双写 k。dark 继承古英语 deorc，更远来源未定，现代比较形式按缺光、颜色、气氛等场景使用。',
+ [['古英语 deorc → dark','暗；颜色深；阴沉等引申'],['dark + -er → darker','更暗、更深；气氛等更沉重']],
+ 'a darker room 更暗的房间；a darker blue 更深的蓝；darker clouds 更暗的云；a darker tone 更阴沉的基调〔看声音、故事等语境〕。',
+ 'much darker；getting darker。','darker colour 说颜色更深，brighter colour 常说更鲜明、明亮。颜色比较不是一条万能的好坏刻度，要看是在讲深浅、亮暗还是饱和感。',
+ ('The room grew darker as the clouds covered the sun.','云遮住太阳后，房间暗了下来。'),('She chose a darker shade of green for the door.','她给门选了更深一点的绿色。'),sources=['https://en.wiktionary.org/wiki/darker#English','https://en.wiktionary.org/wiki/dark#English'])
+W('darkest','英 /ˈdɑːkɪst/；美 /ˈdɑːrkɪst/','最暗的；颜色最深的；最阴沉、艰难的；dark 的最高级',
+ '在亮暗比较里最缺光，在颜色比较里最深，都可用 darkest。也可比喻处境最阴暗、最艰难的一段。',
+ 'dark + -est，词尾 /ɪst/。dark 延续古英语 deorc，最高级与具体、抽象义项对应。',
+ [['古英语 deorc → dark','暗、颜色深；阴沉等'],['dark + -est → darkest','所比范围里最暗、最深、最艰难等']],
+ 'the darkest corner 最暗的角落；the darkest blue 最深的蓝；the darkest clouds 最阴暗的云；the darkest days 最艰难、最黑暗的日子。',
+ 'at its darkest；the darkest part of the room。','darkest 不只说黑色：the darkest blue 仍是蓝色，只是在这组蓝里最深。the darkest period 则要按生活、历史、故事等背景理解。',
+ ('The cat hid in the darkest corner of the cupboard.','猫躲在柜子最暗的角落里。'),('Use the darkest pencil for the deepest shadows.','画最深的阴影时，用颜色最深的那支铅笔。'),sources=['https://en.wiktionary.org/wiki/darkest#English','https://en.wiktionary.org/wiki/dark#English'])
+W('weaker','英 /ˈwiːkə/；美 /ˈwiːkər/','更弱的；力量、强度、说服力更低的；weak 的比较级',
+ '力气、信号或依据不如另一个有劲，是 weaker。具体可以是物理力量小，也可以是味道淡、论据不够有力。',
+ 'weak + -er，直接加。weak 的现代形式经中古英语 weik 接古诺尔斯语 veikr，与本族 wāc 同族，较早有容易弯、让步等背景。',
+ [['古诺尔斯语 veikr → 中古英语 weik → weak','弱、易让步；与本族相关形式同族'],['weak + -er → weaker','力量、强度、依据等更弱']],
+ 'a weaker signal 更弱的信号；a weaker argument 较薄弱的论证；weaker tea 更淡的茶；feel weaker 感觉力气更小。',
+ 'much weaker；weaker than expected。','weaker argument 常说依据、推理不够有力，不是在评价说话人音量小。weaker tea 比较浓淡，a weaker signal 比较信号强度。',
+ ('The signal becomes weaker farther from the window.','离窗户越远，信号越弱。'),('The second argument was weaker because it ignored an important detail.','第二个论证遗漏了一个重要细节，因此说服力较弱。'),sources=['https://en.wiktionary.org/wiki/weaker#English','https://en.wiktionary.org/wiki/weak#English'])
+W('weakest','/ˈwiːkɪst/','最弱的；最薄弱、最缺乏力度的；weak 的最高级',
+ '在几个环节里，最容易撑不住、最缺乏力量的一处，是 weakest。可以是结构、信号、理由，也可以是某项技能。',
+ 'weak + -est，词尾 /ɪst/。weak 接北欧 veikr 及相关日耳曼词族，现代最高级按力量、强度、依据等比较。',
+ [['古诺尔斯语 veikr 及相关词族 → weak','弱、易让步'],['weak + -est → weakest','所比范围里最弱、最薄弱']],
+ 'the weakest link 最薄弱的环节；the weakest signal 最弱信号；the weakest point 最薄弱之处；my weakest subject 我最薄弱的科目。',
+ 'the weakest of the three；at its weakest。','weakest point 可以说物理结构最薄弱的位置，也可以是论证最站不住的一处。先确认比较对象，才能把弱解释具体。',
+ ('We tested the weakest part of the frame first.','我们先测试了框架最薄弱的部位。'),('Listening used to be my weakest language skill.','听力曾是我最薄弱的语言技能。'),sources=['https://en.wiktionary.org/wiki/weakest#English','https://en.wiktionary.org/wiki/weak#English'])
+W('strongest','英 /ˈstrɒŋɡɪst, ˈstrɒŋɡəst/；美 /ˈstrɔŋɡəst, ˈstrɑŋɡəst/','最强壮的；力度、说服力最强的；最浓烈的；strong 的最高级',
+ '在一组里，最能使上劲、最能撑住，或最有说服力的一项，是 strongest。咖啡、气味等还可比较浓烈程度。',
+ '现代认形为 strong + -est；历史最高级已有古英语 strongesta／strengesta，经中古英语 strongeste 等延续。常见读音在 /ŋ/ 后保留 /ɡ/，词尾有 /ɪst/、/əst/ 等读法。',
+ [['古英语 strongesta／strengesta → 中古英语 strongeste 等 → strongest','最高级旧形式延续；最强、最有力'],['现代 strong／stronger／strongest 的认形与读音对应','比较形式常读出 /ŋɡ/；尾部可为 /ɪst/、/əst/']],
+ 'the strongest person 最强壮的人；the strongest argument 最有说服力的理由；the strongest signal 最强信号；the strongest flavour 最浓烈的味道。',
+ 'the strongest of the group；at its strongest。','strong /strɒŋ/ 的词尾常没有独立 /ɡ/，stronger／strongest 却常有 /ŋɡ/，不能把末尾音机械照抄。strongest argument 比的是论证力度，loudest voice 比的是音量。',
+ ('This rope is the strongest of the three we tested.','这根绳子是我们测试的三根里最结实的。'),('She saved her strongest argument for the end.','她把最有说服力的理由留到最后。'),sources=['https://en.wiktionary.org/wiki/strongest#English','https://en.wiktionary.org/wiki/strong#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_wu',ROOTS,WORDS)
+ extend_lessons()

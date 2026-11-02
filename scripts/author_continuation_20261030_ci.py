@@ -1,0 +1,129 @@
+"""Silver and taste: material vs resemblance; flavour vs judgment and preference."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+SI=[['古英语 seolfor → 中古英语 silver、selver → silver','银这种金属；更远来源未定'],['英语 silver','银、银器；银色；镀银或染成银灰等']]
+def SH(f,m):return SI+[[f,m]]
+W('silver','英 /ˈsɪlvə/；美 /ˈsɪlvər/','银；银色、银制的；银牌；镀银、使银白',
+ '先是明亮的银白金属；不是真银的头发、月光，也可借它的颜色来形容。',
+ '本族词，接古英语 seolfor，中古英语 silver 等。较远来源不定；金属名、颜色名、银牌等用法相互联系，但不能看到银色就判材质是银。',SI,
+ 'a silver ring 银戒指，silver hair 银发，win silver 获银牌，silver the surface 给表面镀银或使银白。元素符号 Ag 接拉丁语 argentum，不是 silver 的首字母。',
+ 'a silver ring；silver hair；win silver；a silver medal。',
+ 'silver 可材料也可颜色，silvery 更明确说像银的光泽、颜色；a silver car 通常说颜色，不是整辆车用银造。',
+ ('She polished the silver ring with a soft cloth.','她用软布擦亮了银戒指。'),('The swimmer won silver in the final.','那位游泳选手在决赛中获得银牌。'))
+W('silvery','英 /ˈsɪlvəri/；美 /ˈsɪlvəri/','银白、银光闪闪的；清亮悦耳的〔声音〕',
+ '湖面映着月光，像洒了一层银；笑声清亮，也能借银的光泽、响亮感来形容。',
+ 'silver + -y，中古英语已有相关形式。-y 表像银、带银的特点，不表示加上后缀就真的含银。',SH('silver + -y → silvery','像银的颜色、光泽；声音清亮'),
+ 'silvery light 银色光，silvery hair 银灰头发，silvery laughter 清亮笑声。',
+ 'silvery light；silvery hair；a silvery voice。',
+ 'silvery 侧重像银的感觉，silver 还可实指银材质；silvery laughter 不在说发声者嘴里装了银。',
+ ('Silvery moonlight lay across the water.','银色月光铺在水面上。'),('We heard her silvery laughter from the garden.','我们听见花园里传来她清亮的笑声。'))
+W('silverware','英 /ˈsɪlvəweə/；美 /ˈsɪlvərwer/','银器；刀叉匙等餐具〔尤美式，可非银制〕',
+ '原来按银这种材料叫器物，后来美式日常也拿来统称刀叉匙，哪怕是不锈钢的。',
+ 'silver + ware 制品，形成集合名词。银制器物的材料义与美式餐具泛称分开记。',SH('silver + ware → silverware','银制器物；尤美式泛指刀叉匙等餐具'),
+ 'polish the silverware 擦亮银器，set out the silverware 摆好餐具；通常不可数，不把每把叉子叫一个 silverware。',
+ 'polish the silverware；set out the silverware；a drawer of silverware。',
+ 'silverware 美式可餐具，cutlery 英式常指刀叉匙；材质不能只靠名字判。glassware 是玻璃器皿，ware 成分相同。',
+ ('She set out the silverware before dinner.','晚饭前她摆好了刀叉匙。'),('The museum keeps its antique silverware in a locked case.','博物馆把古董银器保存在锁着的展柜里。'),
+ sources=['https://en.wiktionary.org/wiki/silverware#English','https://www.merriam-webster.com/dictionary/silverware'])
+W('silverback','英 /ˈsɪlvəbæk/；美 /ˈsɪlvərbæk/','银背大猩猩〔成熟雄性〕',
+ '成熟雄性大猩猩背上出现银灰色毛，背部颜色成了称呼。它不是一只银做的动物。',
+ 'silver 银灰色 + back 背，用显著身体特征称呼成熟雄性大猩猩；不是一个单独物种的名字。',SH('silver + back → silverback','背部长出银灰毛的成熟雄性大猩猩'),
+ 'a mature silverback 成熟银背雄性，a silverback gorilla 银背大猩猩。群体角色可依具体动物情况，不凭名词保证每只都在领导一个群体。',
+ 'a silverback gorilla；a mature silverback；the silverback’s back。',
+ 'silverback 形态、性别年龄称呼，gorilla 动物类别；不是所有大猩猩都是 silverbacks。',
+ ('The silverback rested in the shade.','那只银背大猩猩在阴凉处休息。'),('The guide pointed out the grey hair on the silverback’s back.','向导指给我们看那只雄性大猩猩背上的灰毛。'),
+ sources=['https://en.wiktionary.org/wiki/silverback#English','https://nationalzoo.si.edu/animals/western-lowland-gorilla'])
+R('B2571','银金属；银色光泽与按颜色命名','SILVER：银这种材料，也借它的颜色、亮度给别物命名','silver → silvery、silverware；silversmith 职业、quicksilver 旧名、silverfish 与 silverback 外形命名复用或新写。',
+ '金属与颜色不混。silverware 可非银餐具，silverfish 非鱼、quicksilver 非银，已有旧精讲一起对照。',
+ 'silver + -y/ware/back/fish/smith；quick + silver 的 quick 有旧活的义。',
+ [['材料、光泽和器物','silver · silvery · silverware'],['工艺和旧金属名','silversmith · quicksilver'],['按外观叫动物','silverfish · silverback']],
+ 'silver 颜色不保证材质；silverware 尤美式可普通餐具；silverback 成熟雄性称呼，不是独立物种。',
+ 'Silvery light fell on the old silverware.\n\n银色光线落在旧银器上。','silver silvery silverware silversmith quicksilver silverfish silverback')
+TA=[['法语 taster〔触摸、尝试、品尝等〕→ 中古英语 tasten → taste','通过接触、试尝来感知；更早拉丁语形式的具体发展有不同分析'],['英语 taste','品尝、味道、味觉；少量体验；喜好、审美判断']]
+def TH(f,m):return TA+[[f,m]]
+W('taste','/teɪst/','尝；有……味道；味觉、滋味；品味、喜好；一点体验',
+ '舌头先试一口，判断喜欢不喜欢；后来用同样的判断画面谈音乐、衣服、生活选择，就有了品味、偏好。',
+ '近源经法语 taster、tast 等进入中古英语，旧义还含接触、感知。更早通俗拉丁语等细节有不同分析，不把现代 taste 简写成英语某个孤立 tas 词根。',TA,
+ 'taste the soup 尝汤，taste sweet 尝起来甜，taste in music 音乐喜好，a taste of freedom 一点自由体验。',
+ 'taste the soup；taste good；have a taste for；taste in music。',
+ 'taste 主动尝时带宾语，The soup tastes good 作连系用法后接形容词；不说 tastes well 来表示汤好喝。个人 taste 不等于他人公认标准。',
+ ('Taste the soup before adding more salt.','加更多盐之前先尝尝汤。'),('We have very different tastes in music.','我们的音乐喜好很不一样。'))
+W('tasting','/ˈteɪstɪŋ/','品尝；品鉴活动；正在尝、尝起来〔分词〕',
+ '把几种食物、饮料逐一试尝比较，这次活动就叫 a tasting；普通句子里也可只是尝这个动作。',
+ 'taste 去 e 加 -ing，动作名词和分词用法；中古英语已有 tastynge 等形式。',TH('taste + -ing → tasting','品尝活动；尝的动作或相关性质'),
+ 'a wine tasting 葡萄酒品鉴，a tasting menu 小份多道品尝菜单，a tasting session 试吃活动。',
+ 'a wine tasting；a tasting menu；a tasting session。',
+ 'tasting 活动，taste 味道、品味等基础概念；a tasting menu 通常安排多道小份体验，不是把菜单纸拿来尝。',
+ ('The shop is holding a cheese tasting this afternoon.','店里今天下午举办奶酪品尝活动。'),('We chose the restaurant’s tasting menu.','我们选了餐厅的小份多道品尝菜单。'))
+W('taster','英 /ˈteɪstə/；美 /ˈteɪstər/','品尝者、品鉴员；试吃份、体验样本',
+ '替你尝味道的人是 taster；让你先尝一点的样品，或先体验一点的课程，也能这么叫。',
+ 'taste + -er，中古英语已有相应人物词。现代由品尝者又可指供试尝、预览的小样。',TH('taste + -er → taster','品尝的人；供先试一点的样本'),
+ 'a professional taster 专业品鉴员，a taster session 体验课，a taster of the new course 新课程初体验。',
+ 'a professional taster；a taster session；a free taster。',
+ 'taster 人或样本，tasting 活动；taster session 不保证真的提供食物，也可体验课程。',
+ ('The taster compared three kinds of tea.','品鉴员比较了三种茶。'),('The college offers a free taster session for the course.','学院为这门课提供一次免费体验课。'))
+W('tasty','/ˈteɪsti/','好吃、美味的',
+ '尝一口觉得味道不错，是正面的食物评价；不只是味道存在，而是味道让人喜欢。',
+ 'taste 去 e 加 -y。虽然 taste 有审美义，tasty 日常基本仍先抓好吃这一支。',TH('taste + -y → tasty','味道好、可口的'),
+ 'a tasty meal 美味一餐，a tasty snack 好吃的小食，look tasty 看起来好吃。',
+ 'a tasty meal；a tasty snack；look tasty。',
+ 'tasty 好吃，tasteful 有品位、得体；tasty soup 汤好喝，tasteful decoration 装修雅致，不互换。',
+ ('She made a tasty soup from the leftover vegetables.','她用剩下的蔬菜做了一锅好喝的汤。'),('These little snacks are surprisingly tasty.','这些小零食好吃得出乎意料。'))
+W('tasteless','/ˈteɪstləs/','淡而无味的；没品位、不得体的',
+ '食物没有什么味道，是舌头的判断；拿别人的痛苦开玩笑不合适，是社会、审美判断。',
+ 'taste + -less，分别接味道和品位两条义。不必说人失去味觉，食物 tasteless 可以只是在评价它无味。',TH('taste + -less → tasteless','缺少滋味；缺乏得体品位'),
+ 'tasteless food 淡而无味食物，a tasteless joke 不得体的笑话，a tasteless remark 冒犯、没分寸的话。',
+ 'tasteless food；a tasteless joke；a tasteless remark。',
+ 'tasteless 无味或不得体，tasty 美味、tasteful 得体分别对应不同方面；不得体笑话不译为尝起来没味。',
+ ('The potatoes were watery and tasteless.','土豆水乎乎的，没什么味道。'),('He apologized for making a tasteless joke.','他为开了一个不得体的玩笑道歉。'))
+W('tasteful','/ˈteɪstfəl/','有品位的、雅致得体的',
+ '颜色、摆设、分寸搭配得让人觉得合适，不俗气；这里 taste 在评价审美和得体程度。',
+ 'taste + -ful，具有良好品味。词尾保留 e，写 tasteful；常用义不同于 tasty 美味。',TH('taste + -ful → tasteful','体现好品味、合宜得体的'),
+ 'tasteful decoration 雅致装饰，tasteful furniture 有品位的家具，a tasteful design 雅致设计。',
+ 'tasteful decoration；a tasteful design；tasteful furniture。',
+ 'tasteful 有品味，不等于 expensive 贵；便宜、简洁的布置也可 tasteful。tasty 则主要说好吃。',
+ ('The room has simple, tasteful furniture.','房间里摆着简洁雅致的家具。'),('They chose a tasteful design for the invitation.','他们为邀请函选了一个雅致的设计。'))
+W('tastefully','/ˈteɪstfəli/','有品位地、雅致得体地',
+ '把好品味体现在怎样布置、穿着、设计上；修饰做法，而不直接命名某件物品。',
+ 'tasteful + -ly，形成方式副词，-ful 的 l 与 -ly 的 l 都保留，写 tastefully。',TH('tasteful + -ly → tastefully','以有品位、雅致得体的方式'),
+ 'tastefully decorated 装饰雅致，tastefully furnished 家具陈设得体，tastefully dressed 穿着有品位。',
+ 'tastefully decorated；tastefully furnished；tastefully dressed。',
+ 'a tasteful room 形容房间，a tastefully decorated room 修饰装饰方式；不是 tasty 的吃得香副词。',
+ ('The apartment is tastefully furnished.','这套公寓的家具陈设很有品位。'),('The hall was tastefully decorated with fresh flowers.','大厅用鲜花布置得十分雅致。'))
+W('distaste','/dɪsˈteɪst/','反感、厌恶、不喜欢',
+ '像某种味道让你不愿再尝一口；进一步也可以反感某种行为、风格，不局限于舌头。',
+ 'dis- 否定、反向 + taste，形成不喜欢、反感的名词等用法。现代常见抽象厌恶义，不能限定为味觉坏了。',TH('dis- + taste → distaste','不喜欢、反感'),
+ 'a distaste for violence 反感暴力，with distaste 带着厌恶，express distaste 表达反感。',
+ 'a distaste for；with distaste；express distaste。',
+ 'distaste 反感，bad taste 可坏味道、不得体；distaste for a joke 是听者感受，a tasteless joke 评价笑话本身。',
+ ('She has a strong distaste for gossip.','她很反感闲言碎语。'),('He looked at the mess with obvious distaste.','他看着那堆脏乱，明显很嫌恶。'))
+W('distasteful','/dɪsˈteɪstfəl/','令人反感、令人不快的',
+ '事情摆在面前，让人想避开、不愿接受。重点在引起不喜欢，不一定说味道难吃。',
+ '可按 distaste + -ful，或 dis- + tasteful 分析。两种材料关系都能帮助认形；实际先掌握令人反感的常见用法。',TH('distaste + -ful / dis- + tasteful → distasteful','使人不喜欢、反感的'),
+ 'find something distasteful 觉得某事令人反感，a distasteful task 令人不快的任务，distasteful remarks 令人反感的言论。',
+ 'find it distasteful；a distasteful task；distasteful to someone。',
+ 'distasteful 令某人反感，tasteless 常批评缺乏分寸；两词有重叠，但一个必要、合规的任务也可能让某人觉得 distasteful。',
+ ('She found his comments distasteful.','她觉得他的评论令人反感。'),('He accepted the distasteful task of clearing out the abandoned shed.','他接下了清理废弃棚屋这件令人不快的差事。'))
+W('aftertaste','英 /ˈɑːftəteɪst/；美 /ˈæftərteɪst/','余味；事后留下的感受〔比喻〕',
+ '东西已经吞下，嘴里还有一点味道；事情结束后，心里留下不舒服或美好感受，也可借来说。',
+ 'after 之后 + taste 味道，合成余味名词。after 说品尝结束后的持续效果。',TH('after + taste → aftertaste','吃喝后的余味；经历后的残留感受'),
+ 'a bitter aftertaste 苦涩余味，leave an aftertaste 留下余味，an unpleasant aftertaste 不快的残留感觉。',
+ 'a bitter aftertaste；leave an aftertaste；a lingering aftertaste。',
+ 'aftertaste 吃后余味、foretaste 事前预尝；bitter aftertaste 可字面也可比喻，不必真吃苦味食物。',
+ ('The coffee left a bitter aftertaste.','咖啡留下了苦涩的余味。'),('The argument left an unpleasant aftertaste.','那场争论结束后仍让人心里不舒服。'))
+W('foretaste','名词：英 /ˈfɔːteɪst/、美 /ˈfɔːrteɪst/','预尝；即将发生之事的初步体验、先兆',
+ '正餐还没到，先让你尝一小口；用来比喻眼前这一点已经让你知道后面会是什么滋味。',
+ 'fore- 在前、预先 + taste，来自中古英语相关形式。现代多见名词 a foretaste of，动词用法较少见。',TH('fore- + taste → foretaste','预先品尝、体验到的一点'),
+ 'a foretaste of what is to come 未来事情的初体验，a foretaste of winter 冬天将至的先尝。',
+ 'a foretaste of；a foretaste of things to come；give a foretaste。',
+ 'foretaste 先体验一点，不等于一定是快乐的期待；寒风、麻烦也可让人尝到未来滋味。aftertaste 则是经历后的余感。',
+ ('The cold morning gave us a foretaste of winter.','这个寒冷早晨让我们先尝到了冬天的滋味。'),('The opening chapter offers a foretaste of the adventure ahead.','开篇让人先体验到后面冒险的一点滋味。'))
+R('B3702','品尝、味道；体验、喜好与得体判断','TASTE：先尝一点来判断，再把判断借给审美和经历','taste → tasting、taster、tasty；tasteful → tastefully 与 tasteless 相邻；distaste → distasteful 相邻；foretaste、aftertaste 按前后体验。',
+ '法语旧接触、试尝背景不用硬翻到每个现代句子。tasty 美味与 tasteful 有品位分开，是本组学习重点。tastefully 讲得体方式，distasteful 讲引起反感。',
+ 'taste + -ing/-er/-y/-less/-ful；tasteful + -ly；dis- + taste → distaste → distasteful；fore-/after + taste。',
+ [['尝、品鉴与好吃','taste · tasting · taster · tasty'],['审美、得体与否定','tasteful · tastefully · tasteless'],['反感和令人反感','distaste · distasteful'],['预尝与余味','foretaste · aftertaste']],
+ 'tasty 食物好吃、tasteful 雅致得体；taste good 系动词后形容词；distaste 感受、distasteful 令人反感；foretaste 事前、aftertaste 事后。',
+ 'The meal was tasty, and the room was tastefully decorated.\n\n饭菜好吃，房间也布置得雅致。',
+ 'taste tasting taster tasty tasteful tastefully tasteless distaste distasteful foretaste aftertaste')
+if __name__=='__main__':save('continuation_20261030_ci',ROOTS,WORDS)

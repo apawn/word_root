@@ -1,0 +1,131 @@
+[
+  {
+    "id": "B4494",
+    "meaning": "持有某种权利、合同、物件，或为内容占住位置",
+    "core": "HOLDER：看持有什么，也看是不是承托、占位功能",
+    "image": "holder → shareholder、stockholder 看股份；policyholder 看保单；stakeholder 看利害；placeholder 看预留位置。",
+    "intro": "hold 的持有不只限于手里抓住。身份、权利、位置和实物都能成为持有对象，复合词因此各有专门含义。",
+    "forms": "hold + -er → holder；stake／place／policy 等对象成分与 holder 组合。",
+    "branches": [
+      [
+        "持有身份",
+        "holder · shareholder · stockholder · cardholder · policyholder"
+      ],
+      [
+        "利益相关与占位",
+        "stakeholder · placeholder"
+      ]
+    ],
+    "contrasts": "stakeholder 不只指股东；policyholder 不是政策制定者；placeholder 是占位内容。",
+    "practice": "The placeholder in the form shows where the policyholder’s name belongs.\n\n表格里的占位提示标明了保单持有人姓名该填在哪里。",
+    "words": [
+      "holder",
+      "shareholder",
+      "stockholder",
+      "cardholder",
+      "policyholder",
+      "stakeholder",
+      "placeholder"
+    ],
+    "exclude": {
+      "dwarf-holder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3354",
+    "meaning": "日常果实名称，以及借入和旧构词留下的差异",
+    "core": "BERRY：果名可以直观，也可能保留说不清的古老命名",
+    "image": "berry → blackberry、blueberry 可看颜色；strawberry、cranberry、gooseberry 的具体命名不能全靠现代字面猜。",
+    "intro": "把常吃果名放一起记，同时知道解释的边界：构词成分看得见，不代表命名缘由都已经确定。",
+    "forms": "古英语 berġe → berry；复数 berries；有些名称直接组合，有些经借词、改造而来。\n\n古英语继承，现代 y 改 i 加 es；生活名称与植物学分类不必一致。",
+    "branches": [
+      [
+        "基础及常见果名",
+        "berry · strawberry · blackberry · blueberry"
+      ],
+      [
+        "其他果名",
+        "cranberry · gooseberry · elderberry"
+      ],
+      [
+        "berry → berries：小果实名的复数",
+        "berry · berries"
+      ]
+    ],
+    "contrasts": "日常 berry 与植物学分类不同；gooseberry 不必从鹅的食物硬猜，cran- 也不是自由前缀。",
+    "practice": "The fruit stall sold strawberries, blueberries, cranberries and gooseberries.\n\n水果摊卖草莓、蓝莓、蔓越莓和醋栗。",
+    "words": [
+      "berry",
+      "strawberry",
+      "blackberry",
+      "blueberry",
+      "cranberry",
+      "gooseberry",
+      "elderberry",
+      "berries"
+    ],
+    "exclude": {
+      "apple-berry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4200",
+    "meaning": "从头、人头到计票与意见调查；蝌蚪保存另一条旧义",
+    "core": "POLL：先是头，数人头才走到投票和民调",
+    "image": "poll → pollster 做民调者；tadpole 的后半保存头的旧义。",
+    "intro": "同一个旧意思分两路：政治用法数人头，动物名称看头部形状。不要用今天最常见的民调义倒推蝌蚪。",
+    "forms": "中古英语 pol、polle 头 → 投票、调查；poll + -ster；toad 旧形式 + poll → tadpole。\n\npoll 早有头、头部相关意义，按人头数的关系发展为票数、投票、民调；polls 既可为多次调查，也用于 the polls 投票处、投票活动等。\n\npoll 较早指头、头顶，后以数人头表达点票、询问公众。poll + -ing 保留已有双 l；现代还可说程序定期查询状态。",
+    "branches": [
+      [
+        "调查、投票与职业",
+        "poll · pollster"
+      ],
+      [
+        "保存头的旧义",
+        "tadpole"
+      ],
+      [
+        "poll → polls：数人头到投票、民调",
+        "poll · polls"
+      ],
+      [
+        "数人头 → poll → polling",
+        "polling"
+      ]
+    ],
+    "contrasts": "poll 与 pole 同音，词源不能直接混；tadpole 不是投票小杆。",
+    "practice": "The teacher used poll and tadpole to show two developments from the older sense of head.\n\n老师用 poll 和 tadpole 展示头这一旧义的两条发展路线。",
+    "words": [
+      "poll",
+      "pollster",
+      "tadpole",
+      "polls",
+      "polling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3710",
+    "meaning": "令人愉悦、美味的性质、表现方式和状态名词",
+    "core": "DELICIOUS：让人享受，食物是最常见对象",
+    "image": "delicious → deliciously / deliciousness。",
+    "intro": "词源里的愉悦比今天常用的好吃更宽。解释非食物用法时，抓住享受、痛快的感觉就容易理解。",
+    "forms": "拉丁 dēliciōsus 经法语进入英语；-ly 副词，-ness 性质名词。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "delicious · deliciously · deliciousness"
+      ]
+    ],
+    "contrasts": "delicious 不等于 delicate；deliciously crisp 是酥脆可口，别逐字译成美味地脆。",
+    "practice": "The delicious tart was deliciously crisp, and everyone praised its deliciousness.\n\n果馅饼美味、酥脆，大家都赞叹它好吃。",
+    "words": [
+      "delicious",
+      "deliciously",
+      "deliciousness"
+    ],
+    "exclude": {
+      "uber-delicious": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

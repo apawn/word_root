@@ -1,0 +1,830 @@
+[
+  {
+    "word": "swap",
+    "ipa": "英 /swɒp/；美 /swɑp/",
+    "meaning": "交换、互换；换用；一次互换",
+    "sense": "你坐我的位置，我坐你的，两边互换，是 swap。它很适合日常换座位、换班、换东西，也能说把一种东西换成另一种。",
+    "split": "旧 swappen 曾说打击、拍打，来源未定；后来达成交易、交换义可能通过拍手成交联系，但那条具体桥只是分析。现代使用直接抓双方互换或替换的动作。",
+    "history": [
+      [
+        "中古英语 swappen：打击、拍打，远源未定",
+        "可能模仿拍击声"
+      ],
+      [
+        "达成交易 → 交换",
+        "可能借拍手成交的画面衔接，但具体过程只是分析"
+      ]
+    ],
+    "explanation": "swap seats 交换座位；swap shifts 换班；swap A for B 用 A 换 B。",
+    "usage": "swap stories 交流各自经历；a book swap 图书交换活动。",
+    "contrast": "swap 常是互换或以一种换另一种，buy 明确购买；交换故事不是把其中一个人的故事永久交出去。",
+    "examples": [
+      [
+        "Can we swap seats so I can sit by the window?",
+        "我们能换个座位，让我坐窗边吗？"
+      ],
+      [
+        "I want to swap this heavy bag for a lighter one.",
+        "我想把这个重包换成轻一点的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swap#English",
+      "https://www.etymonline.com/word/swap"
+    ]
+  },
+  {
+    "word": "swaps",
+    "ipa": "英 /swɒps/；美 /swɑps/",
+    "meaning": "交换、换用〔第三人称单数〕；互换、交换活动〔复数〕",
+    "sense": "她每周和同事换一次班，动词用 swaps；社区办的几场图书交换活动，名词也可用 swaps。",
+    "split": "swap + -s，/p/ 后读 /s/；动词三单与名词复数同形。金融中的 swaps 则是互换合约的特定用法。",
+    "history": [
+      [
+        "中古英语 swappen：打击、拍打，远源未定",
+        "可能模仿拍击声"
+      ],
+      [
+        "达成交易 → 交换",
+        "可能借拍手成交的画面衔接，但具体过程只是分析"
+      ],
+      [
+        "swap + -s → swaps",
+        "他或它交换；多次交换、交换活动等"
+      ]
+    ],
+    "explanation": "swaps shifts with a colleague 和同事换班；book swaps 图书交换活动。",
+    "usage": "swaps one thing for another；clothes swaps 衣物交换活动。",
+    "contrast": "swaps 说双方交换，gives away 说赠送出去；一场 clothes swap 通常不只是一方向外捐衣服。",
+    "examples": [
+      [
+        "She swaps shifts with a colleague once a month.",
+        "她每月和一位同事换一次班。"
+      ],
+      [
+        "The library hosts book swaps for local families.",
+        "图书馆为本地家庭举办图书交换活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swaps#English",
+      "https://www.etymonline.com/word/swap"
+    ]
+  },
+  {
+    "word": "swapped",
+    "ipa": "英 /swɒpt/；美 /swɑpt/",
+    "meaning": "交换、换用、替换了",
+    "sense": "原来用纸杯，后来改用可重复用的杯子，是 swapped paper cups for reusable ones。它把原先和后来两边清楚摆出来。",
+    "split": "swap 双写 p 加完整 -ed，/p/ 后读 /t/；过去式、过去分词。",
+    "history": [
+      [
+        "中古英语 swappen：打击、拍打，远源未定",
+        "可能模仿拍击声"
+      ],
+      [
+        "达成交易 → 交换",
+        "可能借拍手成交的画面衔接，但具体过程只是分析"
+      ],
+      [
+        "swap + -ed → swapped",
+        "过去完成互换或替换，双写末尾 p"
+      ]
+    ],
+    "explanation": "swapped seats 交换了座位；swapped A for B 用 B 替掉 A。",
+    "usage": "swapped stories over dinner 晚饭时交流经历；swapped the old battery。",
+    "contrast": "swapped A for B 中，A 是拿去换、被替下的，B 是换来的；方向不要只看中文一个换字。",
+    "examples": [
+      [
+        "We swapped seats halfway through the journey.",
+        "旅途中途我们换了座位。"
+      ],
+      [
+        "The café swapped plastic straws for paper ones.",
+        "咖啡馆把塑料吸管换成了纸吸管。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swapped#English",
+      "https://www.etymonline.com/word/swap"
+    ]
+  },
+  {
+    "word": "swapping",
+    "ipa": "英 /ˈswɒpɪŋ/；美 /ˈswɑpɪŋ/",
+    "meaning": "正在交换、换用；交换活动",
+    "sense": "几个人坐着轮流讲自己的经历，是 swapping stories；把旧部件换成新部件，也能用 swapping。",
+    "split": "swap 双写 p 加 -ing；动作形式可作名词谈交换活动，内部的现代意义不靠旧打击义逐字推。",
+    "history": [
+      [
+        "中古英语 swappen：打击、拍打，远源未定",
+        "可能模仿拍击声"
+      ],
+      [
+        "达成交易 → 交换",
+        "可能借拍手成交的画面衔接，但具体过程只是分析"
+      ],
+      [
+        "swap + -ing → swapping",
+        "互换、替换的过程或活动"
+      ]
+    ],
+    "explanation": "swapping stories 交流经历；swapping shifts 换班。",
+    "usage": "swapping one item for another；swapping contact details 交换联系方式。",
+    "contrast": "swapping contact details 通常是彼此提供，不是删除自己原有资料；具体交换常只是双方都获得信息。",
+    "examples": [
+      [
+        "The neighbours spent the evening swapping stories.",
+        "邻居们一晚上都在交流各自的经历。"
+      ],
+      [
+        "Swapping the old bulb for an LED one was easy.",
+        "把旧灯泡换成 LED 灯泡很容易。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swapping#English",
+      "https://www.etymonline.com/word/swap"
+    ]
+  },
+  {
+    "word": "swappable",
+    "ipa": "英 /ˈswɒpəbəl/；美 /ˈswɑpəbəl/",
+    "meaning": "可以互换、替换的",
+    "sense": "电池用完，不必把整台设备丢掉，取下来换一块就行，这块电池就是 swappable。重点是设计上能换。",
+    "split": "swap 双写 p 加完整 -able；-able 写可以进行相应动作的性质，不是单独用一个 -ble 解释。",
+    "history": [
+      [
+        "中古英语 swappen：打击、拍打，远源未定",
+        "可能模仿拍击声"
+      ],
+      [
+        "达成交易 → 交换",
+        "可能借拍手成交的画面衔接，但具体过程只是分析"
+      ],
+      [
+        "swap + -able → swappable",
+        "可以交换、替换，双写末尾 p"
+      ]
+    ],
+    "explanation": "a swappable battery 可更换电池；swappable parts 可替换部件。",
+    "usage": "easily swappable 容易换的；a swappable cover 可更换外壳。",
+    "contrast": "swappable 说能换，removable 只说能取下；某个盖子可以取下清洗，却未必提供别的盖子供替换。",
+    "examples": [
+      [
+        "The device comes with a swappable battery.",
+        "这台设备配有可更换电池。"
+      ],
+      [
+        "The keyboard has swappable keycaps.",
+        "这把键盘的键帽可以更换。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swappable#English",
+      "https://www.etymonline.com/word/swap"
+    ]
+  },
+  {
+    "word": "barter",
+    "ipa": "英 /ˈbɑːtə/；美 /ˈbɑrtɚ/",
+    "meaning": "以物易物；用物品、服务交换",
+    "sense": "你修我的自行车，我给你几箱苹果，双方不用先算成现金购买，这种交换就是 barter。核心是拿自己有的东西或服务来换。",
+    "split": "借古法语 barater 等交易、议价材料，远源未定；旧法语有欺骗义，不表示现代每次 barter 都含诈骗。英语常把借入动词整体理解，-er 不是此词的人物后缀。",
+    "history": [
+      [
+        "古法语 barater 等 → 英语 barter",
+        "交易、议价材料，远源未定；旧语境还可带欺骗义"
+      ],
+      [
+        "英语 barter 动词 → 以物易物名词",
+        "现代常说物品、服务相换，不直接用钱购买"
+      ]
+    ],
+    "explanation": "barter goods 交换货物；barter A for B 用 A 换 B；a barter system 以物易物体系。",
+    "usage": "barter for food 用物品、服务换食物；barter with neighbours。",
+    "contrast": "barter 重点在以物或服务交换，haggle 重点在争取价格、条件；现金购物也可 haggle，不必是 barter。",
+    "examples": [
+      [
+        "They agreed to barter fresh vegetables for repair work.",
+        "他们同意用新鲜蔬菜交换维修服务。"
+      ],
+      [
+        "Barter was common in the village when cash was scarce.",
+        "现金少的时候，村里常以物易物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barter#English",
+      "https://www.etymonline.com/word/barter"
+    ]
+  },
+  {
+    "word": "barters",
+    "ipa": "英 /ˈbɑːtəz/；美 /ˈbɑrtɚz/",
+    "meaning": "以物或服务交换〔第三人称单数〕；交换交易〔复数〕",
+    "sense": "她把自制面包拿去换鸡蛋，是 she barters；不在于东西贵不贵，而在于用自己提供的东西换对方的。",
+    "split": "barter + -s，读 /z/；通常为动词三单，也可在具体语境中数一笔笔交换。基础 barter 整体经法语借入。",
+    "history": [
+      [
+        "古法语 barater 等 → 英语 barter",
+        "交易、议价材料，远源未定；旧语境还可带欺骗义"
+      ],
+      [
+        "英语 barter 动词 → 以物易物名词",
+        "现代常说物品、服务相换，不直接用钱购买"
+      ],
+      [
+        "barter + -s → barters",
+        "他或她以物易物，或多笔交换"
+      ]
+    ],
+    "explanation": "barters bread for eggs 用面包换鸡蛋；barters with local farmers。",
+    "usage": "barters services 换服务；barters for supplies 换取补给。",
+    "contrast": "barters 不要求双方交换完全相同的东西；swaps seats 才是很典型的同类位置互换。",
+    "examples": [
+      [
+        "She barters homemade bread for fresh eggs.",
+        "她用自制面包换新鲜鸡蛋。"
+      ],
+      [
+        "The mechanic barters repair work for vegetables.",
+        "那位修理工用维修服务换蔬菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barters#English",
+      "https://www.etymonline.com/word/barter"
+    ]
+  },
+  {
+    "word": "bartered",
+    "ipa": "英 /ˈbɑːtəd/；美 /ˈbɑrtɚd/",
+    "meaning": "以物、服务换取了；交换了",
+    "sense": "旅途中把多余工具换成食物，这个交换过去完成了，就用 bartered。句子把拿出去的东西和换回的东西对应起来。",
+    "split": "barter + 完整 -ed，读 /d/；普通规则过去式、过去分词，没有另加 /ɪd/ 音节。",
+    "history": [
+      [
+        "古法语 barater 等 → 英语 barter",
+        "交易、议价材料，远源未定；旧语境还可带欺骗义"
+      ],
+      [
+        "英语 barter 动词 → 以物易物名词",
+        "现代常说物品、服务相换，不直接用钱购买"
+      ],
+      [
+        "barter + -ed → bartered",
+        "过去用物品、服务换取所需"
+      ]
+    ],
+    "explanation": "bartered A for B 用 A 换了 B；bartered with traders 与商贩交换。",
+    "usage": "bartered for food；bartered away valuables 拿贵重物换走别的东西。",
+    "contrast": "bartered 是以物或服务交换，bought 通常是付钱买；具体故事若用了钱和物混合交换，应看句子交代。",
+    "examples": [
+      [
+        "The travellers bartered spare tools for food.",
+        "旅人们用多余工具换食物。"
+      ],
+      [
+        "We bartered a day of painting for help with the garden.",
+        "我们用一天刷漆的活，换来别人帮忙打理花园。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bartered#English",
+      "https://www.etymonline.com/word/barter"
+    ]
+  },
+  {
+    "word": "bartering",
+    "ipa": "英 /ˈbɑːtərɪŋ/；美 /ˈbɑrtərɪŋ/",
+    "meaning": "正在以物易物；物品、服务交换活动",
+    "sense": "不用先把每件东西卖成钱，而是把彼此需要的物品、技能直接对换，这项活动就是 bartering。",
+    "split": "barter + -ing；英式在元音词尾前可读出 r。作为动作名词，可以谈以物易物这种方式。",
+    "history": [
+      [
+        "古法语 barater 等 → 英语 barter",
+        "交易、议价材料，远源未定；旧语境还可带欺骗义"
+      ],
+      [
+        "英语 barter 动词 → 以物易物名词",
+        "现代常说物品、服务相换，不直接用钱购买"
+      ],
+      [
+        "barter + -ing → bartering",
+        "以物或服务交换的过程、活动"
+      ]
+    ],
+    "explanation": "bartering skills 交换技能；bartering for supplies 交换获得补给。",
+    "usage": "a system of bartering；bartering goods and services。",
+    "contrast": "bartering 描写交换方式，bargaining 描写谈条件的活动；人可以先谈条件，再按谈好的方式以物交换。",
+    "examples": [
+      [
+        "Bartering allowed the neighbours to exchange skills without using cash.",
+        "以物易物让邻居们不用现金就能交换技能。"
+      ],
+      [
+        "They spent the morning bartering for supplies.",
+        "他们一上午都在用物品交换补给。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bartering#English",
+      "https://www.etymonline.com/word/barter"
+    ]
+  },
+  {
+    "word": "haggles",
+    "ipa": "/ˈhæɡəlz/",
+    "meaning": "讨价还价、争论条件〔第三人称单数〕",
+    "sense": "标价十元，他还八元，对方说九元，来回磨价就是 haggles。动作像一点点往下削，但现代不是真砍东西。",
+    "split": "haggle + -s，/l/ 后读 /z/；haggle 接旧砍切词的反复动作材料，后有议价义。",
+    "history": [
+      [
+        "旧 haggen 砍的反复动作材料 → haggle",
+        "较早指不整齐、笨拙地砍切，比较 hack 同族"
+      ],
+      [
+        "一点点砍削的画面 → 讨价还价",
+        "这座语义桥通常作可能的理解，不把价格谈判说成真的动刀"
+      ],
+      [
+        "haggle + -s → haggles",
+        "他或她反复议价、争论条件"
+      ]
+    ],
+    "explanation": "haggles over the price 为价格讨价还价；haggles with sellers 和卖家讲价。",
+    "usage": "haggles for a better deal；haggles over every detail。",
+    "contrast": "haggles 常强调来回磨条件，asks for a discount 可能只是问一次能否打折；反复程度不同。",
+    "examples": [
+      [
+        "He always haggles over the price at the market.",
+        "他在市场买东西总爱讲价。"
+      ],
+      [
+        "She haggles with the seller until they agree on a price.",
+        "她和卖家来回议价，直到双方谈妥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haggles#English",
+      "https://www.etymonline.com/word/haggle"
+    ]
+  },
+  {
+    "word": "haggled",
+    "ipa": "/ˈhæɡəld/",
+    "meaning": "讨价还价、反复争论条件了",
+    "sense": "谈了半天，一方再让一点，另一方再添一点，过去这段磨条件的过程就是 haggled。它不预先保证最后成交。",
+    "split": "haggle 去 e 加完整 -ed，/l/ 后读 /d/；词干本有的 /əl/ 仍保留，不是 -ed 另起一个音节。",
+    "history": [
+      [
+        "旧 haggen 砍的反复动作材料 → haggle",
+        "较早指不整齐、笨拙地砍切，比较 hack 同族"
+      ],
+      [
+        "一点点砍削的画面 → 讨价还价",
+        "这座语义桥通常作可能的理解，不把价格谈判说成真的动刀"
+      ],
+      [
+        "haggle + -ed → haggled",
+        "过去反复议价、争论条件"
+      ]
+    ],
+    "explanation": "haggled over the price 为价格来回讲；haggled for an hour 讲价一小时。",
+    "usage": "haggled with the owner；haggled over the terms。",
+    "contrast": "haggled over the price 只说议价，agreed on the price 才明确谈妥价格；过程与结果分开。",
+    "examples": [
+      [
+        "We haggled over the price for twenty minutes.",
+        "我们为价格来回讲了二十分钟。"
+      ],
+      [
+        "They haggled with the owner but left without buying anything.",
+        "他们和店主讨价还价，最后什么也没买就走了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haggled#English",
+      "https://www.etymonline.com/word/haggle"
+    ]
+  },
+  {
+    "word": "haggling",
+    "ipa": "/ˈhæɡlɪŋ/",
+    "meaning": "正在讨价还价；反复议价、磨条件",
+    "sense": "双方你一句我一句，不断改价格、磨条件，整段过程就叫 haggling。比普通讨论更有互相拉扯的感觉。",
+    "split": "haggle 去 e 加 -ing，常读 /ˈhæɡlɪŋ/；可作动作形式，也可作活动名词。",
+    "history": [
+      [
+        "旧 haggen 砍的反复动作材料 → haggle",
+        "较早指不整齐、笨拙地砍切，比较 hack 同族"
+      ],
+      [
+        "一点点砍削的画面 → 讨价还价",
+        "这座语义桥通常作可能的理解，不把价格谈判说成真的动刀"
+      ],
+      [
+        "haggle + -ing → haggling",
+        "反复议价、争论条件的过程"
+      ]
+    ],
+    "explanation": "haggling over prices 为价格反复讲；no haggling 不讲价。",
+    "usage": "hours of haggling 好几小时讨价还价；haggling with a dealer。",
+    "contrast": "haggling 常聚焦价格、细节上的来回磨，negotiating 范围更广，也可严肃协商政策、和平等事务。",
+    "examples": [
+      [
+        "After an hour of haggling, we finally agreed on a price.",
+        "讲价一小时后，我们终于谈妥了价格。"
+      ],
+      [
+        "The shop has fixed prices, so there is no haggling.",
+        "这家店明码定价，不讲价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haggling#English",
+      "https://www.etymonline.com/word/haggle"
+    ]
+  },
+  {
+    "word": "haggler",
+    "ipa": "英 /ˈhæɡlə/；美 /ˈhæɡlɚ/",
+    "meaning": "讨价还价的人",
+    "sense": "看到标价不立刻付钱，总要问能不能再少一点、来回磨条件的人，是 a haggler。词指习惯或角色，不说明他一定不讲理。",
+    "split": "现代可拆 haggle 去 e 加 -er。较早 haggler 还有笨拙切砍的工人义，因此这个人物词的所有历史不能只从现代价格动词临时派生来讲。",
+    "history": [
+      [
+        "旧 haggen 砍的反复动作材料 → haggle",
+        "较早指不整齐、笨拙地砍切，比较 hack 同族"
+      ],
+      [
+        "一点点砍削的画面 → 讨价还价",
+        "这座语义桥通常作可能的理解，不把价格谈判说成真的动刀"
+      ],
+      [
+        "haggle + -er → haggler",
+        "现代常指反复议价的人；更早人物义还保留砍切背景"
+      ]
+    ],
+    "explanation": "a skilled haggler 讲价能手；a persistent haggler 总爱磨价的人。",
+    "usage": "a good haggler；an experienced haggler。",
+    "contrast": "haggler 说爱讲价或会讲价的人，bargain hunter 说爱找便宜货的人；后者可能只看打折，不跟卖家议价。",
+    "examples": [
+      [
+        "My aunt is a skilled haggler at street markets.",
+        "我姑姑在街市上很会讲价。"
+      ],
+      [
+        "The seller smiled when he realised he was dealing with an experienced haggler.",
+        "卖家发现面前是个讲价老手，笑了起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haggler#English",
+      "https://www.etymonline.com/word/haggle"
+    ]
+  },
+  {
+    "word": "hagglers",
+    "ipa": "英 /ˈhæɡləz/；美 /ˈhæɡlɚz/",
+    "meaning": "讨价还价的人〔复数〕",
+    "sense": "市场里一群人围着摊位，你来我往地讲价，便可以把他们叫 hagglers。最后的 -s 只把讲价者变成多个。",
+    "split": "haggler + -s，读 /z/；内层 haggle 去 e 加 -er。现代通常按价格、条件场景理解人物义。",
+    "history": [
+      [
+        "旧 haggen 砍的反复动作材料 → haggle",
+        "较早指不整齐、笨拙地砍切，比较 hack 同族"
+      ],
+      [
+        "一点点砍削的画面 → 讨价还价",
+        "这座语义桥通常作可能的理解，不把价格谈判说成真的动刀"
+      ],
+      [
+        "haggler + -s → hagglers",
+        "多位讨价还价的人"
+      ]
+    ],
+    "explanation": "experienced hagglers 讲价老手；persistent hagglers 一直磨价的人。",
+    "usage": "hagglers at the market；a group of hagglers。",
+    "contrast": "hagglers 在争取条件，bidders 在报出愿付价格；拍卖者可能不断出价，却未必和卖家一对一讨价还价。",
+    "examples": [
+      [
+        "Experienced hagglers knew which stalls offered room for bargaining.",
+        "讲价老手知道哪些摊位留有还价余地。"
+      ],
+      [
+        "The seller stayed patient with the persistent hagglers.",
+        "面对一直磨价的顾客，卖家保持着耐心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hagglers#English",
+      "https://www.etymonline.com/word/haggle"
+    ]
+  },
+  {
+    "word": "bidding",
+    "ipa": "/ˈbɪdɪŋ/",
+    "meaning": "正在出价；竞价；〔at someone’s bidding〕依某人吩咐",
+    "sense": "拍卖时大家一轮轮报价格，是 bidding；at her bidding 则是按她的吩咐。两种现代义接 bid 合流的不同旧材料。",
+    "split": "bid 双写 d 加 -ing。出价线接古英语 beodan 提供、宣布等；吩咐线接 biddan 请求、命令等，不能全拿价钱解释。",
+    "history": [
+      [
+        "古英语 biddan 请求、命令与 beodan 提供、宣布等合流",
+        "出价和命令不是单一现代词义互相硬变"
+      ],
+      [
+        "出价 → bidder；out- 超过 + bid → outbid",
+        "bidding 也可接指令、吩咐的一支"
+      ],
+      [
+        "bid + -ing → bidding",
+        "竞价过程；另一支可说吩咐、指令"
+      ]
+    ],
+    "explanation": "competitive bidding 竞争性投标；bidding for a painting 竞拍画作；at his bidding 依他吩咐。",
+    "usage": "open the bidding 开始竞价；a bidding war 竞价争夺。",
+    "contrast": "bidding 是出价过程，a bid 是一次报价；at your bidding 属于较正式的吩咐搭配，场景要另外识别。",
+    "examples": [
+      [
+        "Bidding for the painting started at five hundred pounds.",
+        "这幅画的起拍价是五百英镑。"
+      ],
+      [
+        "He expected everyone to act at his bidding.",
+        "他指望每个人都按他的吩咐行动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bidding#English",
+      "https://www.etymonline.com/word/bid"
+    ]
+  },
+  {
+    "word": "bidders",
+    "ipa": "英 /ˈbɪdəz/；美 /ˈbɪdɚz/",
+    "meaning": "竞价者、投标者〔复数〕",
+    "sense": "拍卖场里愿意报价格的人，或争取承包项目的公司，都可以叫 bidders。可能是个人，也可能是机构。",
+    "split": "bidder + -s，读 /z/；内层 bid 双写 d 加 -er，人物、角色尾在此也可指参与投标的公司。",
+    "history": [
+      [
+        "古英语 biddan 请求、命令与 beodan 提供、宣布等合流",
+        "出价和命令不是单一现代词义互相硬变"
+      ],
+      [
+        "出价 → bidder；out- 超过 + bid → outbid",
+        "bidding 也可接指令、吩咐的一支"
+      ],
+      [
+        "bid + -er → bidder → bidders",
+        "多个出价者、投标者"
+      ]
+    ],
+    "explanation": "potential bidders 潜在竞买者；successful bidders 中标者、竞得者。",
+    "usage": "several bidders；invite bidders 邀请投标者。",
+    "contrast": "bidders 是正在或准备出价的一方，buyers 是买家；参与竞价的人不一定最终买到。",
+    "examples": [
+      [
+        "Several bidders competed for the old clock.",
+        "几位竞买者争相竞拍那座旧钟。"
+      ],
+      [
+        "The company invited bids from qualified bidders.",
+        "公司邀请符合资格的投标者报价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bidders#English",
+      "https://www.etymonline.com/word/bid"
+    ]
+  },
+  {
+    "word": "outbids",
+    "ipa": "/ˌaʊtˈbɪdz/",
+    "meaning": "出价高于、压过〔第三人称单数〕",
+    "sense": "你报一百，对方报一百一十，他就 outbids you。out- 在这里给出“比你更高、更胜一筹”的方向。",
+    "split": "out- 超过 + bid 出价，再加 -s；/d/ 后读 /z/。宾语常是被超过报价的人或机构。",
+    "history": [
+      [
+        "古英语 biddan 请求、命令与 beodan 提供、宣布等合流",
+        "出价和命令不是单一现代词义互相硬变"
+      ],
+      [
+        "出价 → bidder；out- 超过 + bid → outbid",
+        "bidding 也可接指令、吩咐的一支"
+      ],
+      [
+        "out- + bid + -s → outbids",
+        "他或它报出比另一方更高的价"
+      ]
+    ],
+    "explanation": "outbids everyone 出价高过所有人；outbids a rival 出价压过对手。",
+    "usage": "consistently outbids us 总比我们出价高；outbids other buyers。",
+    "contrast": "outbids us 比的是报价高，outsells us 比的是卖得多；角色、衡量方向不同。",
+    "examples": [
+      [
+        "That collector always outbids us at auctions.",
+        "那位收藏家在拍卖时总比我们出价高。"
+      ],
+      [
+        "The larger company outbids smaller rivals for prime locations.",
+        "大公司为拿下黄金地段，出价压过较小的对手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outbids#English",
+      "https://www.etymonline.com/word/outbid"
+    ]
+  },
+  {
+    "word": "outbidding",
+    "ipa": "/ˌaʊtˈbɪdɪŋ/",
+    "meaning": "正在出更高价格、压过别人的报价",
+    "sense": "别人刚加价，你又加一点，一次次报得比对方高，是 outbidding。强调比较，不是单独报了一个高价就自动适用。",
+    "split": "outbid 双写 d 加 -ing；外层 out- 表超过，bid 出价。过去式、过去分词常为 outbid，与 -ing 的规则不相同。",
+    "history": [
+      [
+        "古英语 biddan 请求、命令与 beodan 提供、宣布等合流",
+        "出价和命令不是单一现代词义互相硬变"
+      ],
+      [
+        "出价 → bidder；out- 超过 + bid → outbid",
+        "bidding 也可接指令、吩咐的一支"
+      ],
+      [
+        "outbid + -ing → outbidding",
+        "通过更高报价压过另一方的过程"
+      ]
+    ],
+    "explanation": "outbidding other buyers 出价压过其他买家；keep outbidding each other 不断互相抬价。",
+    "usage": "outbidding a rival；a strategy of outbidding competitors。",
+    "contrast": "outbidding 强调相对另一方更高，overpaying 强调付得超过价值；出价高过别人不必然等于买贵。",
+    "examples": [
+      [
+        "The two collectors kept outbidding each other.",
+        "两位收藏家不断互相抬价。"
+      ],
+      [
+        "The broadcaster secured the rights by outbidding its rivals.",
+        "那家广播公司出价压过对手，拿到了相关权利。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outbidding#English",
+      "https://www.etymonline.com/word/outbid"
+    ]
+  },
+  {
+    "word": "negotiates",
+    "ipa": "英 /nɪˈɡəʊʃieɪts/；美 /nɪˈɡoʊʃieɪts/",
+    "meaning": "协商、谈妥；设法通过〔第三人称单数〕",
+    "sense": "她和供应商谈条件，是 negotiates with suppliers；车慢慢绕过急弯，也可说 negotiates a bend。后者是把难处处理过去。",
+    "split": "negotiate + -s，/t/ 后读 /s/。基础词可能由 negotiation 逆构，或接拉丁相应分词；现代短动词不一定历史先出现。",
+    "history": [
+      [
+        "拉丁 neg- 不 + otium 闲暇 → negotium 事务 → negotiari 做生意",
+        "事务、业务的旧命名，协商意义也已在拉丁发展"
+      ],
+      [
+        "英语 negotiate 可由 negotiation 逆构，或接拉丁分词 negotiatus",
+        "名词比英语动词更早；后来另有设法通过障碍义"
+      ],
+      [
+        "negotiate + -s → negotiates",
+        "他或它协商、谈成，或设法通过难处"
+      ]
+    ],
+    "explanation": "negotiates with suppliers 与供应商协商；negotiates a contract 谈成合同。",
+    "usage": "negotiates a sharp bend 设法通过急弯；negotiates terms 协商条件。",
+    "contrast": "negotiate with 后接交涉对象，negotiate a bend 的宾语是要通过的难处；同一中文谈判不能套遍。",
+    "examples": [
+      [
+        "She negotiates prices with suppliers every month.",
+        "她每月都和供应商协商价格。"
+      ],
+      [
+        "The bus negotiates the narrow bend slowly.",
+        "公交车慢慢通过那个狭窄弯道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negotiates#English",
+      "https://www.etymonline.com/word/negotiate"
+    ]
+  },
+  {
+    "word": "negotiated",
+    "ipa": "英 /nɪˈɡəʊʃieɪtɪd/；美 /nɪˈɡoʊʃieɪtɪd/",
+    "meaning": "协商、谈妥了；设法通过了；经协商达成的",
+    "sense": "双方坐下来谈，终于得到可接受的条件，是 negotiated a deal；走路小心越过难处，也可用 negotiated。看清宾语最省力。",
+    "split": "negotiate 去 e 加完整 -ed，/t/ 后读 /ɪd/，增加音节。分词也可写 negotiated agreement 经协商达成的协议。",
+    "history": [
+      [
+        "拉丁 neg- 不 + otium 闲暇 → negotium 事务 → negotiari 做生意",
+        "事务、业务的旧命名，协商意义也已在拉丁发展"
+      ],
+      [
+        "英语 negotiate 可由 negotiation 逆构，或接拉丁分词 negotiatus",
+        "名词比英语动词更早；后来另有设法通过障碍义"
+      ],
+      [
+        "negotiate + -ed → negotiated",
+        "过去协商、谈成或通过难处；也写谈成后的性质"
+      ]
+    ],
+    "explanation": "negotiated a lower price 谈到更低价格；a negotiated settlement 协商达成的和解。",
+    "usage": "negotiated the stairs 设法走过楼梯；negotiated with the owner。",
+    "contrast": "negotiated with someone 只说曾交涉，negotiated an agreement 通常明确谈出协议；有没有结果要看整个搭配。",
+    "examples": [
+      [
+        "They negotiated a lower price for the equipment.",
+        "他们把设备价格谈低了。"
+      ],
+      [
+        "We carefully negotiated the narrow steps with our bags.",
+        "我们拎着包，小心走过狭窄台阶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negotiated#English",
+      "https://www.etymonline.com/word/negotiate"
+    ]
+  },
+  {
+    "word": "negotiating",
+    "ipa": "英 /nɪˈɡəʊʃieɪtɪŋ/；美 /nɪˈɡoʊʃieɪtɪŋ/",
+    "meaning": "正在协商、谈条件；设法通过；协商用的",
+    "sense": "合同还没定，双方在谈细节，是 negotiating；带着自行车绕过人群，也是在设法处理眼前的通行难处。",
+    "split": "negotiate 去 e 加 -ing。可说协商过程，也可在 negotiating team 谈判团队等组合里说明用途、角色。",
+    "history": [
+      [
+        "拉丁 neg- 不 + otium 闲暇 → negotium 事务 → negotiari 做生意",
+        "事务、业务的旧命名，协商意义也已在拉丁发展"
+      ],
+      [
+        "英语 negotiate 可由 negotiation 逆构，或接拉丁分词 negotiatus",
+        "名词比英语动词更早；后来另有设法通过障碍义"
+      ],
+      [
+        "negotiate + -ing → negotiating",
+        "协商或设法通过的过程；相关角色修饰"
+      ]
+    ],
+    "explanation": "negotiating terms 协商条件；a negotiating team 谈判团队。",
+    "usage": "negotiating with the landlord；negotiating a difficult path 设法走过难行小路。",
+    "contrast": "negotiating 指过程，signing an agreement 指签下协议；谈着并不等于已经签好。",
+    "examples": [
+      [
+        "We are still negotiating the terms of the contract.",
+        "我们仍在协商合同条款。"
+      ],
+      [
+        "She had trouble negotiating the crowded street with a bicycle.",
+        "她推着自行车穿过拥挤街道时有些吃力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negotiating#English",
+      "https://www.etymonline.com/word/negotiate"
+    ]
+  },
+  {
+    "word": "negotiators",
+    "ipa": "英 /nɪˈɡəʊʃieɪtəz/；美 /nɪˈɡoʊʃieɪtɚz/",
+    "meaning": "谈判者、协商代表〔复数〕",
+    "sense": "坐到桌前，代表各方提条件、找共同方案的人，是 negotiators。他们不一定亲自拥有争议中的物品，也可以代表公司、团队。",
+    "split": "negotiator + -s，读 /z/；人物词借拉丁 negotiator 商务人物名，现代可与 negotiate 去 e 加 -or 对应认形，不能把词史只讲成英语现拼。",
+    "history": [
+      [
+        "拉丁 neg- 不 + otium 闲暇 → negotium 事务 → negotiari 做生意",
+        "事务、业务的旧命名，协商意义也已在拉丁发展"
+      ],
+      [
+        "英语 negotiate 可由 negotiation 逆构，或接拉丁分词 negotiatus",
+        "名词比英语动词更早；后来另有设法通过障碍义"
+      ],
+      [
+        "拉丁 negotiator → 英语 negotiator → negotiators",
+        "商务人物名发展为谈判者，再加现代复数"
+      ]
+    ],
+    "explanation": "skilled negotiators 谈判高手；peace negotiators 和平谈判代表。",
+    "usage": "negotiators from both sides；a team of negotiators。",
+    "contrast": "negotiators 代表各方谈条件，mediators 常从中帮助各方沟通；角色不同，不能只因都坐在谈判桌前就一律翻成代表。",
+    "examples": [
+      [
+        "Negotiators from both sides met again on Monday.",
+        "双方谈判代表周一再次会面。"
+      ],
+      [
+        "Skilled negotiators listen carefully before making an offer.",
+        "有经验的谈判者会先认真听，再提出条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negotiators#English",
+      "https://www.etymonline.com/word/negotiate"
+    ]
+  }
+]

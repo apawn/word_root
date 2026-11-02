@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B3147",
+    "meaning": "同形不同音：音乐低音、鱼名与韧皮材料",
+    "core": "BASS：先用 /beɪs/ 与 /bæs/ 分开来源",
+    "image": "音乐 bass → bassist、bassline；basswood 接 bast 韧皮变体；鱼名 bass 独立记。",
+    "intro": "拼写相同不代表读音、词源相同。三条短线比一个硬编的低音鱼故事更清楚。",
+    "forms": "base 受 basso 影响改写为音乐 bass；bærs → 鱼名 bass；bast 变化 → basswood 的前半。\n\n低音义读 /beɪs/，接 base 低的旧义并受意大利 basso 影响；鱼名读 /bæs/，承古英语 bærs 一支。",
+    "branches": [
+      [
+        "音乐及人物、声部",
+        "bass · bassist · bassline"
+      ],
+      [
+        "韧皮相关树名",
+        "basswood"
+      ],
+      [
+        "basses：低音与鱼名的不同来源和读音",
+        "bass · basses"
+      ]
+    ],
+    "contrasts": "bassline 不是 baseline；basswood 不读音乐 bass；bassist 通常说乐器演奏者。",
+    "practice": "The bassist played the bassline while a basswood carving stood beside the stage.\n\n贝斯手演奏低音声部，舞台旁放着一件椴木雕刻。",
+    "words": [
+      "bass",
+      "bassist",
+      "bassline",
+      "basswood",
+      "basses"
+    ],
+    "exclude": {
+      "sub-bass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3137",
+    "meaning": "转动钻孔的动作、工具与反复操练；另辨同形借词",
+    "core": "DRILL：钻孔与练熟都有固定用法，布料、动物另看来源",
+    "image": "drill → drilling、driller。",
+    "intro": "从工具主线学最常见用法，再把消防演习、发音操练等真实搭配接上；遇到布料或动物介绍则换到另一条来源。",
+    "forms": "中古荷兰语 drillen 等 → 工具、动作、操练 drill；-ing、-er 前双写 l；布料等另有借词线。\n\n工具、动作主线经荷兰语转动材料；布料、动物同形词的来源另算。",
+    "branches": [
+      [
+        "动作、工具与练习",
+        "drill · drilling · driller"
+      ],
+      [
+        "drill → drills、drilled：钻孔与反复操练",
+        "drill · drills · drilled"
+      ]
+    ],
+    "contrasts": "fire drill 是消防演习，drill bit 是钻头；drilling 不全是英语 -ing 词形。",
+    "practice": "The driller paused the drilling while the workers attended a fire drill.\n\n工人参加消防演习时，钻工暂停了钻探。",
+    "words": [
+      "drill",
+      "drilling",
+      "driller",
+      "drills",
+      "drilled"
+    ],
+    "exclude": {
+      "drop-drill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

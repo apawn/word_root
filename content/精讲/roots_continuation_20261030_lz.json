@@ -1,0 +1,157 @@
+[
+  {
+    "id": "B3814",
+    "meaning": "小点进入图案、符号和网络企业称呼；dotty 部分义另辨",
+    "core": "DOT：一个小点，放在不同系统里承担不同用途",
+    "image": "dot → dotted；.com → dotcom；dotty 的图案义与古怪义区分。",
+    "intro": "先看点的实体形状，再看 dotted 的散布状态和网址结尾形成的商业名称。dotty 的古怪义有另一段词源，不能全从圆点推出。",
+    "forms": "dott → dot；-ed、-y 双写 t；dotcom 取 .com 读法；dotty 古怪义联系 dote 旧词族。\n\ndot 有古英语 dott 的记录，远源及与现代点义的连续关系不完全明确。现代复数、动词第三人称同形，/ts/，小点也能比喻散布的物体。",
+    "branches": [
+      [
+        "小点及散布状态",
+        "dot · dotted"
+      ],
+      [
+        "网络商业称呼",
+        "dotcom"
+      ],
+      [
+        "图案与另源口语义",
+        "dotty"
+      ],
+      [
+        "dot → dots：小点与点缀",
+        "dots"
+      ]
+    ],
+    "contrasts": "dotted line 是点线；dotcom 不是所有 .com 网站的法定类别；dotty about 是口语迷恋。",
+    "practice": "A dotcom used a dotted pattern in its logo.\n\n一家互联网公司的标志用了圆点图案。",
+    "words": [
+      "dot",
+      "dotted",
+      "dotcom",
+      "dotty",
+      "dots"
+    ],
+    "exclude": {
+      "dash-dotted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3800",
+    "meaning": "毛皮、软厚被毛，到毛茸茸及相关爱好文化",
+    "core": "FUR：像给身体裹上一层软厚外衣",
+    "image": "fur → furry。",
+    "intro": "历史先关联覆盖、衬里，现代最常见的是动物毛皮。-y 把名词变成外观性质，再在特定文化语境里扩展。",
+    "forms": "日耳曼语护套、衬里词族经法语 → fur；fur + -y → furry，双写 r。",
+    "branches": [
+      [
+        "材料、被毛及外观性质",
+        "fur · furry"
+      ]
+    ],
+    "contrasts": "fur 多把被毛看整体；furry 可普通形容词，也有爱好文化用法。",
+    "practice": "The furry animal’s thick fur kept it warm.\n\n那只毛茸茸的动物靠浓密被毛保暖。",
+    "words": [
+      "fur",
+      "furry"
+    ],
+    "exclude": {
+      "fursuit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3664",
+    "meaning": "一排、一层，扩展成等级档次",
+    "core": "TIER：物理上一层层，抽象上也可以一档档",
+    "image": "tier 从看台的层到服务、价格的档。",
+    "intro": "看台分层、价格分档，都在把相似事物排成不同层次。先看层与档，不必去寻找现代 tie 系结动作。",
+    "forms": "借法语 tire、tier 等排、序列词，通常联系 tirer 拉出等；层级义 tier 读 /tɪə, tɪər/。",
+    "branches": [
+      [
+        "物理分层与抽象档次",
+        "tier"
+      ]
+    ],
+    "contrasts": "tier 层级与 tie 系结的常见读音不同；tier 可与眼泪 tear 同音。",
+    "practice": "The upper tier of seats has a different price tier.\n\n上层座位属于不同价格档。",
+    "words": [
+      "tier"
+    ],
+    "exclude": {
+      "n-tier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-tier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4059",
+    "meaning": "从不该有的缺口流过，延伸到消息和资源漏损",
+    "core": "LEAK：边界没守住，里面的东西漏出去或外面的漏进来",
+    "image": "leak → leakage、leaker。",
+    "intro": "先看容器与缺口，再看同一画面怎样进入信息传播、声音和计算机资源。过程名词与人物名词放在一起分清。",
+    "forms": "中古英语 leken 及日耳曼语相应词族 → leak；-age 泄漏现象、漏损，-er 人或物。\n\n中古英语 leken，直接传入路线有讨论，现代由液体漏出扩至消息、资源。\n\n中古英语流漏材料，近源有不同分析，名动词现代同形。\n\nleak 强调液体等穿过不应通过的位置；proof 为抵抗义。\n\nleaking 接整个漏的动词，实体水流与消息外泄分别给例；不是所有信息泄露都像水滴那样一点一点。",
+    "branches": [
+      [
+        "漏、漏损与泄密者",
+        "leak · leakage · leaker"
+      ],
+      [
+        "leak → leaked：从本不该有的口子流走",
+        "leak · leaked"
+      ],
+      [
+        "leak → leaks：从缺口漏出",
+        "leak · leaks"
+      ],
+      [
+        "leak + proof → leakproof：防从缝隙渗漏",
+        "leak · leakproof"
+      ],
+      [
+        "leak 的漏液与信息泄露",
+        "leak · leaks · leaked · leaking"
+      ]
+    ],
+    "contrasts": "leak 不一定只向外；leakage 通常整体不可数；leaker 常指泄密的人。",
+    "practice": "The report described the leak but did not name the leaker.\n\n报告描述了泄漏事件，却没有点出泄密者。",
+    "words": [
+      "leak",
+      "leakage",
+      "leaker",
+      "leaked",
+      "leaks",
+      "leakproof",
+      "leaking"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4298",
+    "meaning": "装配整套设备，与操纵结果的用法分清",
+    "core": "RIG：把一套东西配置起来；作弊义另留历史分寸",
+    "image": "rig → rigging、rigger、rigged。",
+    "intro": "航海索具、舞台吊装、动画绑定可以连着理解。操纵结果也是常用义，但其历史可能另接诡计旧词，不硬画一条确定演化线。",
+    "forms": "早期 rig 装船索具，来源未定；-ing、-er、-ed 都双写 g，分别形成系统、人物、状态等用法。",
+    "branches": [
+      [
+        "装配、系统和岗位",
+        "rig · rigging · rigger"
+      ],
+      [
+        "装配完成或被操纵的状态",
+        "rigged"
+      ]
+    ],
+    "contrasts": "设备用法中性；rigged contest 指做手脚，rigged ship 则要看装配语境。",
+    "practice": "The rigger inspected the rigging on the fully rigged vessel.\n\n索具工检查了这艘帆索齐备船只上的索具。",
+    "words": [
+      "rig",
+      "rigging",
+      "rigger",
+      "rigged"
+    ],
+    "exclude": {
+      "jury-rig": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

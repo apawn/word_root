@@ -1,0 +1,282 @@
+[
+  {
+    "word": "area",
+    "ipa": "英 /ˈeəriə/；美 /ˈeriə/",
+    "meaning": "地区、区域；面积；领域、方面",
+    "sense": "在地图上圈一片地方，是 an area；问这一片有多大，是 area 面积；把知识也想成一片版图，就有研究领域的意思。",
+    "split": "来自拉丁 area 平坦地面、空场，可用于建筑地、活动场、打谷场等；更远来源不定。英语由空场发展为边界内的表面量、区域和抽象领域。",
+    "history": [
+      [
+        "拉丁 area",
+        "平坦地面、开阔空场"
+      ],
+      [
+        "英语 area",
+        "区域；范围内的表面量；抽象领域"
+      ]
+    ],
+    "explanation": "a residential area 住宅区；the area of a circle 圆的面积；an area of study 研究领域；in this area 在这一带或这一方面。",
+    "usage": "a large area；areas of concern；calculate the area。",
+    "contrast": "area 是区域或面积，volume 是体积。词义随提问变化：Where? 常关心区域，How much surface? 关心面积；专业上下文也会把 area 用于方面。",
+    "examples": [
+      [
+        "The school is in a quiet residential area.",
+        "学校位于安静的住宅区。"
+      ],
+      [
+        "We calculated the area of the rectangle.",
+        "我们算出了长方形的面积。"
+      ],
+      [
+        "This is an area where we need more research.",
+        "这是我们需要进一步研究的领域。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/area",
+      "https://en.wiktionary.org/wiki/area#English"
+    ]
+  },
+  {
+    "word": "agency",
+    "ipa": "/ˈeɪdʒənsi/",
+    "meaning": "机构、代理处；作用；自主行动、作出影响的能力〔能动性〕",
+    "sense": "有人或某个单位能把事情办起来，是 agency 的老行动线索。a travel agency 是办理旅行事务的机构；a sense of agency 是感觉自己能作决定、让事情发生。",
+    "split": "接中世纪拉丁 agentia，来自拉丁 agens、agent- 行动、起作用者的分词材料，上接 agere 推动、做。英语先有作用、施加影响义，后来发展出替人办理业务的机构等。",
+    "history": [
+      [
+        "拉丁 agere → agens／agent- → agentia",
+        "做、推动 → 起作用、采取行动"
+      ],
+      [
+        "英语 agency",
+        "作用、能动性；代理业务单位、机构"
+      ]
+    ],
+    "explanation": "a travel agency 旅行社；a government agency 政府机构；an advertising agency 广告代理公司；human agency 人的能动作用；a sense of agency 能自己作决定的感受。",
+    "usage": "act through an agency；individual agency。",
+    "contrast": "agency 不总是一个办公单位。talk about personal agency 在谈人的自主行动能力；an agency 通常是可数机构，定冠词和修饰语有助分义。",
+    "examples": [
+      [
+        "She found the job through an employment agency.",
+        "她通过职业介绍机构找到了工作。"
+      ],
+      [
+        "The project gave students a stronger sense of agency.",
+        "那个项目让学生更感到自己能作决定并产生影响。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/agency",
+      "https://www.merriam-webster.com/dictionary/agency",
+      "https://en.wiktionary.org/wiki/agency#English"
+    ]
+  },
+  {
+    "word": "executive",
+    "ipa": "/ɪɡˈzekjətɪv/",
+    "meaning": "行政的、执行管理的；管理人员、高管；行政部门",
+    "sense": "计划写出来，还需要有人决定怎么落地、调动资源做成。executive 把重点放在实际执行、管理的一方。",
+    "split": "接拉丁 executivus，来自 exequi、exsequi 跟进完成、执行的分词词干；其 ex- 与 sequi 跟随材料相连。行政权用法后来形成企业管理人员、行政部门等名词义。",
+    "history": [
+      [
+        "拉丁 exsequi／exequi → executivus",
+        "跟进、完成 → 执行相关的"
+      ],
+      [
+        "英语 executive",
+        "行政、执行管理；相应人员或部门"
+      ]
+    ],
+    "explanation": "an executive decision 管理者作出的决定；chief executive 首席执行官等；executive summary 给决策者看的概要；a company executive 企业管理人员。",
+    "usage": "executive responsibility；the executive branch。",
+    "contrast": "execute 是执行动作，executive 是相关性质或执行管理者。executive summary 不是计划下一步要去执行的摘要，而是供决策者快速掌握重点的概要。",
+    "examples": [
+      [
+        "She works as an executive at a publishing company.",
+        "她在一家出版公司担任管理职务。"
+      ],
+      [
+        "The report begins with a short executive summary.",
+        "报告开头有一份简短的决策概要。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/executive",
+      "https://en.wiktionary.org/wiki/executive#English"
+    ]
+  },
+  {
+    "word": "attorney",
+    "ipa": "英 /əˈtɜːni/；美 /əˈtɝːni/",
+    "meaning": "律师〔尤美式常见〕；被授权的代理人",
+    "sense": "别人把某件事务交到你手里，让你代表他处理，老核心是被指定的代表。现代美式里 attorney 很常指律师。",
+    "split": "经古法语 atorné 被指派的人，原为 atorner 指定、安排、转向的分词；上接 a- 向与 tourner 转动，后者接拉丁 tornare。英语后来在法律代理、律师领域专门化。",
+    "history": [
+      [
+        "法语 atorner → atorné",
+        "指定、派定 → 被指定的代表"
+      ],
+      [
+        "英语 attorney",
+        "获授权代理者；现代常见律师义"
+      ]
+    ],
+    "explanation": "an attorney for a client 客户的代理律师；hire an attorney 聘请律师；power of attorney 授权委托、代理权等文书用语，具体所指由文本决定。",
+    "usage": "speak to an attorney；an attorney’s office。",
+    "contrast": "lawyer 泛指律师；attorney 在美式常这样用，也保留授权代理人的用法。不能单凭这个英文称号推定所有地区完全同一种资格或职能。",
+    "examples": [
+      [
+        "The company’s attorney reviewed the draft.",
+        "公司的律师审阅了草稿。"
+      ],
+      [
+        "She works as an attorney in a small law firm.",
+        "她在一家小型律师事务所做律师。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/attorney",
+      "https://www.merriam-webster.com/dictionary/attorney",
+      "https://en.wiktionary.org/wiki/attorney#English"
+    ]
+  },
+  {
+    "word": "cancer",
+    "ipa": "英 /ˈkænsə/；美 /ˈkænsər/",
+    "meaning": "癌；癌症；Cancer：巨蟹座等专名用法",
+    "sense": "现代医学里，它是一组异常细胞失控分裂、可能侵入或扩散到其他组织的疾病名称。老名字借螃蟹形状来联想部分肿瘤的外观。",
+    "split": "接拉丁 cancer 螃蟹、肿瘤等旧名，与希腊 karkinos 的螃蟹、肿瘤名称相关。英语古时已借入，后有受法语影响的 canker 等形式，近代医学中又固定 cancer；大写还用于巨蟹座。",
+    "history": [
+      [
+        "希腊、拉丁螃蟹与肿瘤旧名称",
+        "部分肿瘤周围血管使古人联想到螃蟹"
+      ],
+      [
+        "英语 cancer 的医学专门化",
+        "现代疾病类别名称；大写另有星座用法"
+      ]
+    ],
+    "explanation": "cancer cells 癌细胞；cancer research 癌症研究；a type of cancer 一类癌症；Cancer as a zodiac sign 巨蟹座。命名史与现代疾病机制分开理解。",
+    "usage": "study cancer；cancer biology；a cancer research centre。",
+    "contrast": "cancer 通常指癌这一疾病类，cancerous 是癌性的形容词。canker 是同源分化后的另一个词，现代不能到处拿它替换 cancer。",
+    "examples": [
+      [
+        "The laboratory studies how cancer cells grow.",
+        "实验室研究癌细胞怎样生长。"
+      ],
+      [
+        "The museum exhibition traced the history of cancer research.",
+        "博物馆展览回顾了癌症研究的历史。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cancer",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cancer",
+      "https://en.wiktionary.org/wiki/cancer#English"
+    ]
+  },
+  {
+    "word": "cancerous",
+    "ipa": "英 /ˈkænsərəs/；美 /ˈkænsərəs/",
+    "meaning": "癌性的、癌变的；比喻：像癌一样扩散、侵蚀的",
+    "sense": "cancer 是病名，cancerous 把癌的性质接到细胞、组织、肿瘤上。这个词说明所指东西具有癌性。",
+    "split": "cancer + -ous，-ous 形成具有某种性质的形容词。医学词族沿旧 cancer 名称发展，后来也有恶性蔓延、侵蚀的比喻用法。",
+    "history": [
+      [
+        "cancer",
+        "癌；疾病名称"
+      ],
+      [
+        "cancer + -ous → cancerous",
+        "具有癌性的；后来可比喻侵蚀扩散"
+      ]
+    ],
+    "explanation": "cancerous cells 癌细胞；cancerous tissue 癌组织；a cancerous tumour 癌性肿瘤。比喻用于抽象问题时有很强负面色彩。",
+    "usage": "cancerous growth；cancerous changes。",
+    "contrast": "cancerous 描写性质，cancer 是名词。不能仅由旧螃蟹字面判断今天的科学分类；读现代医学说明时按癌性的专业义理解。",
+    "examples": [
+      [
+        "The textbook includes images of cancerous cells.",
+        "教材中有癌细胞的图像。"
+      ],
+      [
+        "The lecture explained how cancerous tissue can affect nearby structures.",
+        "讲座解释了癌组织怎样影响邻近结构。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cancer",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cancer",
+      "https://en.wiktionary.org/wiki/cancerous#English"
+    ]
+  },
+  {
+    "word": "operations",
+    "ipa": "英 /ˌɒpəˈreɪʃənz/；美 /ˌɑːpəˈreɪʃənz/",
+    "meaning": "运营、业务活动；行动；手术、运算等〔operation 复数〕",
+    "sense": "不是纸上的想法，而是一整套实际做起来的工作。企业每天怎么运转、救援怎么组织，都能放进 operations。",
+    "split": "operation 经法语接拉丁 operatio 工作、施行，上接 operari 劳作及 opus、oper- 工作词族。复数 operations 在企业、军事、医疗、数学等领域各自固定下来。",
+    "history": [
+      [
+        "拉丁 operari → operatio → operation",
+        "工作、施行、产生作用"
+      ],
+      [
+        "operation + -s → operations",
+        "多次施行；领域中的整套活动或处理"
+      ]
+    ],
+    "explanation": "daily operations 日常运营；rescue operations 救援行动；military operations 军事行动；surgical operations 手术；arithmetic operations 算术运算。",
+    "usage": "manage operations；business operations。",
+    "contrast": "operations 在企业里通常不是按钮操作的复数，而是实际业务运作。要先认领域，再决定译运营、行动、手术还是运算。",
+    "examples": [
+      [
+        "She manages the hotel’s daily operations.",
+        "她管理酒店的日常运营。"
+      ],
+      [
+        "Rescue operations continued through the night.",
+        "救援行动持续了一整夜。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/operation",
+      "https://en.wiktionary.org/wiki/operations#English"
+    ]
+  },
+  {
+    "word": "arts",
+    "ipa": "英 /ɑːts/；美 /ɑːrts/",
+    "meaning": "艺术门类；人文学科、技艺等〔art 复数〕",
+    "sense": "绘画、音乐、戏剧等不同门类放在一起，是 the arts。大学里 arts 又常保留更广的人文、学习技艺的历史范围。",
+    "split": "art 经法语接拉丁 ars、art- 技能、手艺，旧时就可指学习实践得到的能力；arts 为复数，现代既统称艺术，也见于人文教育、学位名称。",
+    "history": [
+      [
+        "拉丁 ars／art- → 法语／英语 art",
+        "学习、实践得到的技能、手艺"
+      ],
+      [
+        "art + -s → arts",
+        "艺术门类；人文、技艺教育等历史分支"
+      ]
+    ],
+    "explanation": "the arts 艺术各门类；performing arts 表演艺术；arts and crafts 艺术与手工；a Bachelor of Arts 文学学士等学位名称，实际课程范围依学校而定。",
+    "usage": "support the arts；an arts festival。",
+    "contrast": "art 在普通语境常让人想到美术或艺术统称；arts 在教育名称中不只指画画。读 arts degree 时不能只凭日常美术义猜专业。",
+    "examples": [
+      [
+        "The town opened a new centre for the performing arts.",
+        "小镇新建了一座表演艺术中心。"
+      ],
+      [
+        "The festival brings together music, theatre and other arts.",
+        "那场艺术节汇集了音乐、戏剧等艺术门类。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/art",
+      "https://en.wiktionary.org/wiki/arts#English"
+    ]
+  }
+]

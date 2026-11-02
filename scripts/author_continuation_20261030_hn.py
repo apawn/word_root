@@ -1,0 +1,136 @@
+"""Work roles, rebroadcasts, execution and greetings versus regret."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('coworker','英 /ˌkəʊˈwɜːkə/；美 /ˌkoʊˈwɜːrkər/','同事、一起工作的人',
+ '不是只碰巧在同一栋楼，而是与你有一起工作的关系；前面的 co- 把两个人放进共同工作这一边。',
+ 'co- 共同 + worker 工作者；worker 对应 work + -er。也常写 co-worker，这里合并理解，不另学成两套词义。',
+ [['work + -er → worker','从事工作的人'],['co- + worker → coworker','与你一起工作的人']],
+ 'a former coworker 前同事，a close coworker 工作关系密切的同事，coworkers at the office 办公室同事。不必职位相同、年龄相近。',
+ 'a former coworker；a close coworker；coworkers at work。',
+ 'colleague 也常译同事，可包括同专业、同行关系；coworker 更直接指一起工作的人。coworker 不自动是 friend。',
+ ('A coworker showed me how to use the new system.','一位同事教我用新系统。'),('I still meet my former coworkers for lunch.','我仍会和以前的同事一起吃午饭。'))
+W('caseworker','英 /ˈkeɪswɜːkə/；美 /ˈkeɪswɜːrkər/','个案工作者、负责跟进个案的工作人员',
+ '不是只回答一次问题，而是跟进某个人或家庭的处境、申请和所需帮助；一个 case 对应一份持续处理的个案。',
+ 'case 个案 + worker 工作者。社会服务是常见语境；另有木工 casework 箱柜制作相关的少见职业义，不从社会个案义推出。',
+ [['case 个案 + worker → caseworker','按个案跟进需求、资料和服务的人'],['社会服务等用法','持续协助某个人、家庭或申请个案']],
+ 'a social services caseworker 社会服务个案工作者，an assigned caseworker 获指派的个案负责人，contact your caseworker 联系负责跟进的人。',
+ 'an assigned caseworker；a social services caseworker；contact a caseworker。',
+ 'caseworker 不等于所有社工，也不保证在每个机构都具有同一种执业资格；具体职责由机构和工作场景决定。',
+ ('The caseworker helped the family complete the forms.','个案工作者帮助这家人填好表格。'),('She arranged a meeting with her assigned caseworker.','她约了负责跟进她个案的工作人员见面。'))
+R('B3371','从事工作的人，以及共同工作、木作和个案角色','WORKER：先看做什么，再看与谁一起做','worker → coworker；woodworker 做木作；caseworker 按个案持续跟进。',
+ 'worker 抓的是从事工作的人。组合词前半部分可能说材料、协作关系，也可能说工作组织方式，不能都只翻成工人。',
+ 'work + -er → worker；co-/wood/case + worker。',
+ [['工作角色与协作','worker · coworker'],['材料、个案决定职责','woodworker · caseworker']],
+ 'worker 范围比工厂工人广；coworker 是工作关系；caseworker 依机构承担具体职责。',
+ 'My coworker introduced me to the caseworker handling the application.\n\n同事把我介绍给负责跟进申请的个案工作者。',
+ 'worker coworker woodworker caseworker')
+W('rebroadcast','英 /ˌriːˈbrɔːdkɑːst/；美 /ˌriːˈbrɔːdkæst/','重播、转播；重播的节目',
+ '原来的声音、画面再发出去一次；可能隔天重播，也可能由另一台转播，不要求重新演一遍。',
+ 're- 再次 + broadcast 广播。broadcast 由 broad 广泛 + cast 撒出构成，早期撒播种子的形象延伸到向广泛受众发送信息；rebroadcast 再加一轮发送。',
+ [['broad + cast → broadcast','广撒种子 → 广播信息'],['re- + broadcast → rebroadcast','再次播出，或接来后转播；也可作名词']],
+ 'rebroadcast an interview 重播访谈，a rebroadcast of the concert 音乐会重播，rebroadcast a signal 转播信号。',
+ 'rebroadcast an interview；a rebroadcast of；rebroadcast a signal。',
+ 'rebroadcast 不保证是 live 直播，也不保证重新录制；rerecord 才明确说重新录制。repeat 日常也可指节目重播。',
+ ('The station will rebroadcast the interview on Sunday.','电台周日会重播那次访谈。'),('We watched a rebroadcast of the concert.','我们看了音乐会的重播。'))
+R('B2832','向广泛受众播出，以及再次播出','BROADCAST：信息向外广撒，再播便是 rebroadcast','broadcast 广播；broadcaster 播出机构或主持等角色；rebroadcast 重播、转播。',
+ '像撒种一样广撒，是记忆入口；现代节目、网络和信号各有技术方式，不必真像种子四散飞。',
+ 'broad + cast → broadcast；broadcast + -er；re- + broadcast。',
+ [['播出与角色','broadcast · broadcaster'],['再次发出','rebroadcast']],
+ 'broadcaster 可指机构，也可指从业者；rebroadcast 不等于重新录制，也不必是直播。',
+ 'The broadcaster decided to rebroadcast the original broadcast.\n\n播出机构决定重播原来的节目。','broadcast broadcaster rebroadcast')
+E=[['拉丁 ex- + sequī → exsequī；分词 exsecūtus','跟随到底、把事做完'],['法语 executer → 英语 execute','执行、实行；执行刑罚等'],['现代专门用法','完成动作、运行程序；execution 指执行过程或方式']]
+W('execute','/ˈeksɪkjuːt/','执行、完成；表演动作；运行程序；处决',
+ '把定下的步骤真正走完，是 execute 的共同感觉：计划落地、动作做出、程序运行；处决是执行死刑那一支。',
+ '经法语接拉丁 exsecūtus，属 exsequī 跟随到底、实行，含 ex- + sequī 跟随。词里 cut 只是拼写相似的一段，不是英语切割。',E,
+ 'execute a plan 执行计划，execute a turn 完成转身动作，execute a command 运行命令，execute a prisoner 处决囚犯。看宾语才能确定哪一支。',
+ 'execute a plan；execute a maneuver；execute a command；be executed。',
+ 'execute 不一律杀死；执行程序和处决人的宾语语境差别很大。execute a document 在法律文本里可指按所需手续签署等，使其正式生效。',
+ ('The team executed the plan with great care.','团队非常仔细地落实了计划。'),('The interpreter executes the instructions one by one.','解释器逐条执行指令。'))
+W('execution','/ˌeksɪˈkjuːʃən/','执行、完成；完成方式、表现；程序运行；处决',
+ '想法写得好是一回事，真正做出来做得如何，是 execution；节目里说 superb execution，可能是在夸动作完成得漂亮。',
+ '借法语 execution，接拉丁 exsecūtiō 行为名词，现代对应 execute + -ion，末尾形态与读音变化，不是直接把整个 execute 原样保留。',E+[['拉丁 exsecūtiō → 法语 execution → 英语 execution','执行的过程、结果或方式；现代对应 execute + -ion']],
+ 'the execution of a plan 计划执行，flawless execution 完美完成，program execution 程序运行，public execution 公开处决。',
+ 'the execution of a plan；flawless execution；program execution。',
+ 'execution 是动作及完成方式，executor 是执行某任务的人或专门法律角色；听到 execution 时必须连同上下文理解，不能默认处决。',
+ ('The idea was promising, but the execution was poor.','想法很有希望，但做出来的效果很差。'),('The error interrupted program execution.','这个错误中断了程序运行。'))
+W('executable','/ˈeksɪkjuːtəbl/；也读 /ˌeksɪˈkjuːtəbl/','可执行的；可执行程序、文件',
+ '一般说事情可以实行；电脑上常说一个文件能作为程序启动执行，而不只是供人阅读的一页文字。',
+ 'execute + -able，末尾 e 去掉，-able 表可被执行。名词 executable 从可执行的文件这一形容用法转来，读音、重音有变体。',E+[['execute + -able → executable','能够执行的 → 可执行文件、程序']],
+ 'an executable file 可执行文件，an executable program 可运行程序，an executable plan 可实施的计划。文件是否可执行涉及格式、运行环境与权限。',
+ 'an executable file；an executable program；an executable plan。',
+ 'executable 不保证程序安全、正确或在所有系统都能跑；也不只等于文件名后有 .exe，其他系统和文件类型同样可以执行。',
+ ('The download contains an executable and a user guide.','下载包里有一个可执行程序和一份用户指南。'),('The file is executable only in the supported environment.','这个文件只有在支持的环境中才能执行。'))
+R('B3207','把事跟进到底、实际做出','EXECUTE：计划不只放在纸上，而是照着做完','execute 动作 → execution 过程、方式 → executable 能执行的文件或方案。',
+ '从实行看现代分支最清楚：计划、舞蹈动作、程序、刑罚都可能作执行对象。对象决定意思，不要被某个强烈义项盖住整个词。',
+ 'ex- + sequī → exsequī/exsecūtus → executer → execute；exsecūtiō → execution；execute + -able。',
+ [['实行与完成','execute · execution'],['能够执行','executable']],
+ 'execute 的 cut 不是英语切割；execution 可夸完成得好；executable 不能推出安全或跨系统通用。',
+ 'Good execution turns a plan into action; an executable turns instructions into a running program.\n\n好的执行把计划落实；可执行程序把指令带进运行。',
+ 'execute execution executable')
+G=[['古英语 grētan → greet','接近、接触、招呼 → 问候'],['英语 greet + -ing/-er','问候、迎接 → 问候语、迎宾者']]
+W('greet','/ɡriːt/','问候、迎接；首先映入眼帘等；以某反应对待',
+ '门打开，先有人向你招呼，是人 greet you；迎面是一片海景，也可让景色“迎接”你。',
+ '接古英语 grētan，早期含接近、接触、招呼等更广的义。今天常见问候义；方言另有哭泣的 greet，不能拿来和普通问候义随意混成一个确定故事。',G,
+ 'greet someone warmly 热情问候，be greeted with applause 受到掌声迎接，a view greeted us 一片景象首先映入我们眼帘。',
+ 'greet someone warmly；greet with a smile；be greeted with applause。',
+ 'greet 不一定主动表示欢迎：消息 can be greeted with anger，指引起愤怒反应。meet 见面也不必包含问候动作。',
+ ('She greeted us with a warm smile.','她微笑着热情迎接我们。'),('A sea of flowers greeted us at the entrance.','一到入口，一片花海就映入眼帘。'),sources=['https://www.etymonline.com/word/greet'])
+W('greeting','/ˈɡriːtɪŋ/','问候、招呼；问候语、祝词',
+ '抬手、说你好、写一句节日祝福，都是把问候送出去的具体方式。',
+ 'greet + -ing，已有古英语相关问候名词，现代可直接认出动作名词结构。这里不是只表示正在问候。',G+[['古英语 grēting 等 → greeting','问候动作、问候语；对应 greet + -ing']],
+ 'a friendly greeting 友好招呼，a greeting card 贺卡，send greetings 致问候，exchange greetings 互相打招呼。',
+ 'a friendly greeting；a greeting card；send greetings；exchange greetings。',
+ 'greeting 可以是一次招呼或一句问候；greetings 复数常用于致意、祝词。greeting card 比字面问候卡更常译贺卡。',
+ ('He raised his hand in greeting.','他抬手打了个招呼。'),('Please send my greetings to your family.','请代我向你的家人问好。'))
+W('greeter','英 /ˈɡriːtə/；美 /ˈɡriːtər/','迎宾员、接待来访者的人',
+ '把 greet 问候变成一个岗位：人来了，先由这位招呼、指路，让来访者知道下一步往哪走。',
+ 'greet + -er，现代可透明拆分，较早英语已有相应人物名词。也可指自愿带游客认识自己城市的人。',G+[['greet + -er → greeter','负责问候、迎接来访者的人']],
+ 'a store greeter 店门迎宾员，a volunteer greeter 志愿接待员，a greeter at the entrance 入口接待人员。',
+ 'a store greeter；a volunteer greeter；a greeter at the entrance。',
+ 'greeter 侧重迎接这一角色，不自动兼任所有接待、收银、导游任务；receptionist 一般有固定接待台和相关事务职责。',
+ ('A volunteer greeter welcomed visitors at the museum entrance.','一位志愿接待员在博物馆入口欢迎来访者。'),('The store greeter pointed us toward the service desk.','商店迎宾员给我们指了服务台的方向。'))
+Q=[['古法语 regreter','哀叹、怀念而悲伤；后半可能接日耳曼语哭泣词'],['英语 regret','遗憾、后悔，希望当初不是这样']]
+W('regret','/rɪˈɡret/','后悔、遗憾；为……感到遗憾',
+ '回头一想：早知道就不那么做了，或真希望事情没有这样发生。regret 是对已经做过、没做过或已知情况的难过。',
+ '借古法语 regreter，re- 在这里一般作加强解释，后半可能接哭泣、哀叹的日耳曼语词。不能拆成再次 + greet 问候；更早的细节仍有讨论。',Q,
+ 'regret doing 后悔做过，regret not doing 后悔没做，regret to inform 遗憾地通知，have no regrets 没有什么后悔的。',
+ 'regret doing；regret not doing；regret to inform；have no regrets。',
+ 'I regret saying it 后悔已经说了；I regret to say 常是现在遗憾地告诉你某事。遗憾不一定表示自己有罪，错过晴天也可 regret。',
+ ('I regret not asking for help sooner.','我后悔没有早点求助。'),('We regret to inform you that the event has been cancelled.','我们遗憾地通知你，活动取消了。'),sources=['https://www.etymonline.com/word/regret'])
+W('regretful','/rɪˈɡretfəl/','感到后悔、遗憾的；流露遗憾的',
+ '后悔装在人的心里，也能露在眼神、语气上；regretful 对准这个感受及其表现。',
+ 'regret + -ful，-ful 表充满、带有，不是完整的 full 再原样拼上。后缀首音为辅音，regret 不双写 t。',Q+[['regret + -ful → regretful','带有后悔、遗憾情绪的']],
+ 'feel regretful 感到后悔，a regretful smile 带遗憾的笑，a regretful tone 遗憾的语气。',
+ 'feel regretful；a regretful smile；a regretful tone。',
+ 'regretful 主要说有遗憾感；regrettable 说事情值得遗憾。a regretful decision 若无特殊拟人语境，不如 a regrettable decision 表错得可惜清楚。',
+ ('She sounded regretful about leaving so early.','她听起来很遗憾这么早就要离开。'),('He gave a regretful smile and put the photograph away.','他遗憾地笑了笑，把照片收起来。'))
+W('regretfully','/rɪˈɡretfəli/','遗憾地、带着后悔或惋惜的心情',
+ '动作是怎么做的？心里舍不得、很惋惜，却还是谢绝或离开，就是 regretfully。',
+ 'regretful + -ly，形容感受的词转成描述做事方式的副词；原有 -ful 保留，再加 -ly。',Q+[['regret + -ful → regretful','带遗憾的'],['regretful + -ly → regretfully','以遗憾、后悔的心情']],
+ 'regretfully decline 遗憾地谢绝，say regretfully 遗憾地说，look back regretfully 后悔地回顾。',
+ 'regretfully decline；say regretfully；look back regretfully。',
+ '传统清楚区分：regretfully 是做事的人心里遗憾；regrettably 评价发生的事令人遗憾。实际用法会有交叠，写作时这样分最清楚。',
+ ('I regretfully declined the invitation because I had to work.','因为要工作，我遗憾地谢绝了邀请。'),('She looked regretfully at the empty seat.','她遗憾地望着那个空座位。'))
+W('regrettable','/rɪˈɡretəbl/','令人遗憾的、可惜的；不妥而值得后悔的',
+ '镜头对准事情：这个错误、损失、决定让人回头觉得可惜，就是 regrettable。',
+ 'regret + -able，重读音节以单个辅音字母结尾，接元音开头后缀时双写 t。-able 在这里走值得被遗憾的评价义。',Q+[['regret + -able → regrettable','值得遗憾、令人后悔的事情或情况']],
+ 'a regrettable mistake 令人遗憾的错误，a regrettable incident 令人遗憾的事件，deeply regrettable 十分令人遗憾。',
+ 'a regrettable mistake；a regrettable incident；deeply regrettable。',
+ 'regrettable 不等于无法避免，也不保证故意或违法；它先表达负面评价。regretful 则说承受遗憾情绪的一方。',
+ ('The delay was regrettable but unavoidable.','这次延误令人遗憾，但确实无法避免。'),('It was a regrettable mistake, and we corrected it quickly.','那是个令人遗憾的错误，我们很快改正了。'))
+W('regrettably','/rɪˈɡretəbli/','令人遗憾的是、可惜',
+ '先给整件事盖上“可惜”的评价，再说消息；不必出现一个正在显露遗憾表情的人。',
+ 'regrettable + -ly，-able 形容词形成副词时结尾变为 -ably。中间双写 t 保留。',Q+[['regret + -able → regrettable','事情令人遗憾'],['regrettable → regrettably','以副词评价情况：可惜、令人遗憾的是']],
+ 'Regrettably, ... 令人遗憾的是……，regrettably absent 很遗憾缺席，regrettably common 令人遗憾地常见。',
+ 'Regrettably, ...；regrettably absent；regrettably common。',
+ 'regrettably 主要评事情可惜；regretfully 主要描做事者心情。Regrettably, the train was cancelled 很自然，不必设想火车自己在后悔。',
+ ('Regrettably, the train was cancelled.','很遗憾，那班火车取消了。'),('Such errors are regrettably common in the old records.','令人遗憾的是，旧记录中这种错误很常见。'))
+R('B4045','问候词族与哀叹、遗憾词的历史区别','GREET / REGRET：迎面打招呼，和回头感到可惜分开','greet → greeting/greeter；regret → regretful/regretfully、regrettable/regrettably。',
+ '拼写像不等于可以直拆。regret 联系哭泣、哀叹那一路，不能说再向人问好就成后悔；普通 greet 与哭泣方言词的深层联系也不能当成定论。',
+ 'grētan → greet；greet + -ing/-er。另线 regreter → regret；regret + -ful/-able；对应副词 -fully/-ably。',
+ [['问候与迎宾','greet · greeting · greeter'],['遗憾及感受者','regret · regretful · regretfully'],['令人生憾的事及评价','regrettable · regrettably']],
+ 'regret 不是再问候；regret doing 与 regret to inform 结构意义不同；regretful 有遗憾感，regrettable 事情令人遗憾。',
+ 'The greeter regretfully told us that, regrettably, the visit had been cancelled.\n\n接待员带着惋惜的心情告诉我们，很遗憾，参观取消了。',
+ 'greet greeting greeter regret regretful regretfully regrettable regrettably')
+if __name__=='__main__':save('continuation_20261030_hn',ROOTS,WORDS)

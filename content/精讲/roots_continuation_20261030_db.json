@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B3887",
+    "meaning": "恐惧与通过恐惧控制人",
+    "core": "TERROR：怕到压倒日常行动；再分感受、人物、做法和动作",
+    "image": "terror → terrorist、terrorism、terrorize，相邻看清恐惧感怎样变成用于控制人的手段。",
+    "intro": "terror 是感受或恐惧来源；terrorism 有历史上恐怖统治的背景，不把所有惊吓都叫恐怖主义。terr- 在这里不接土地 terra。",
+    "forms": "拉丁 terrēre → terror，经法语进入英语；terroriste、terrorisme 保留十八世纪末革命语境；terror + -ize。\n\nterrible 接拉丁 terribilis 吓人的，现代常弱化成很糟；terrify 接 terrificare，使人强烈害怕；不能把所有 terr- 字母串都拿来指土地。\n\nterrified 常说体验恐惧的人，terrifying 常说引起恐惧的事物、经历；两者分别接 -ed、-ing。\n\n形容词可接完整 ly，拼写 le 换成 ly；副词的程度强调义不必含可怕评价。\n\n拉丁 terrificare 的惊吓、使材料进入英语，现代 y 改 i 加 -es，不把 terr- 当作土地 terra。\n\n拉丁 terrificus 接 terrere 使恐惧 + facere 使、做的材料；英语从令人害怕扩大为很强烈，再有棒极了的口语赞美。副词 -ic 后常以 -ically 形成，不漏掉中间字母与音节。\n\nterrorist 借法语 terroriste，接 terror 恐惧与 -ist 人物称呼材料；最初与法国革命的恐怖统治背景有关，后来用于以暴力恐吓达到政治等目的的人，不只泛指令人害怕者。",
+    "branches": [
+      [
+        "恐惧本身",
+        "terror"
+      ],
+      [
+        "人物与做法",
+        "terrorist · terrorism"
+      ],
+      [
+        "使人害怕的动作",
+        "terrorize"
+      ],
+      [
+        "terrible、terrify：吓人词族与语义弱化",
+        "terror · terrible · terrify"
+      ],
+      [
+        "terrify 的双方：被吓到与让人害怕",
+        "terrify · terrified · terrifying"
+      ],
+      [
+        "terrible → terribly：糟糕地与非常",
+        "terrible · terribly"
+      ],
+      [
+        "terrify → terrifies：惊吓使动词的三单",
+        "terrify · terrifies · terrified · terrifying"
+      ],
+      [
+        "terrific → terrifically：恐惧强烈到棒极了",
+        "terrific · terrifically"
+      ],
+      [
+        "terrorist → terrorists：恐怖手段与实施者",
+        "terrorist · terrorists"
+      ]
+    ],
+    "contrasts": "terror 恐惧感，terrorism 系统性恐怖手段；terrorist 人物或修饰词，terrorize 动词也适用于日常恐吓。",
+    "practice": "The book explains how fear and terror can be used to control people.\n\n这本书解释了人们怎样用害怕、恐惧来控制别人。",
+    "words": [
+      "terror",
+      "terrorist",
+      "terrorism",
+      "terrorize",
+      "terrible",
+      "terrify",
+      "terrified",
+      "terrifying",
+      "terribly",
+      "terrifies",
+      "terrific",
+      "terrifically",
+      "terrorists"
+    ],
+    "exclude": {
+      "terroristic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2712",
+    "meaning": "上司与爱指使人的作派",
+    "core": "BOSS：谁在作主；bossy 则是总要替别人作主",
+    "image": "boss → bossy；先分有权安排工作与过度支使别人。",
+    "intro": "管事者来自荷兰语 baas，深源不确定。凸起、盾心 boss 另有法语来源，常见工作义不必硬接凸块。",
+    "forms": "荷兰 baas → boss；boss + -y → bossy；boss around 是发号施令的动词搭配。\n\n负责人接荷兰 baas，凸起接法语 bosse 等，现代都可加 es，但历史不并成一条。",
+    "branches": [
+      [
+        "人物、角色与动作",
+        "boss"
+      ],
+      [
+        "作派评价",
+        "bossy"
+      ],
+      [
+        "boss → bosses：负责人、发号施令；凸起同形词另源",
+        "boss · bosses"
+      ]
+    ],
+    "contrasts": "boss 可是受雇主管而非公司所有人；bossy 是行为评价，不是所有领导者的同义词。",
+    "practice": "A good boss can give clear instructions without being bossy.\n\n好上司能把指示说清楚，也不一味支使人。",
+    "words": [
+      "boss",
+      "bossy",
+      "bosses"
+    ],
+    "exclude": {
+      "boss-ship": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bossman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

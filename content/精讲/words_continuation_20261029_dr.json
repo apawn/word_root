@@ -1,0 +1,364 @@
+[
+  {
+    "word": "guess",
+    "ipa": "/ɡes/",
+    "meaning": "猜测；估计；我想、大概",
+    "sense": "信息还不够，你先给出一个可能答案。日常 I guess 也可以只是把话说得不那么肯定。",
+    "split": "中古英语 gessen 等，通常联系北欧相关猜测词；具体远源不强作定论。u 在现代拼写里不单独读音，不是 /ɡwes/。",
+    "history": [
+      [
+        "中古英语 gessen、gesse，可能与北欧猜测词有关",
+        "猜测、推想；具体借入关系不作定论"
+      ],
+      [
+        "现代 guess",
+        "没有把握地作判断；也可委婉表示我想、大概"
+      ]
+    ],
+    "explanation": "guess the answer 猜答案，take a guess 猜一下，I guess so 我想是吧。Guess what! 常用来引出有趣消息。",
+    "usage": "guess the answer；take a guess；I guess so；Guess what!。",
+    "contrast": "guess 可以依据很少的信息，estimate 往往强调依据资料估算；educated guess 是有根据但仍未确定的判断。",
+    "examples": [
+      [
+        "Can you guess how old this building is?",
+        "你能猜出这栋楼有多少年了吗？"
+      ],
+      [
+        "I guess we should leave before the traffic gets worse.",
+        "我想我们应该在交通更堵前离开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guess#English"
+    ]
+  },
+  {
+    "word": "guessing",
+    "ipa": "/ˈɡesɪŋ/",
+    "meaning": "猜测；正在猜的",
+    "sense": "答案没公开，大家还在给出可能答案；或者故意不说，让别人一直摸不准。",
+    "split": "guess + -ing，规则构成动词形式，也用于 guessing game 等表达。保留 guess 的双 s，不再另加一个 s。",
+    "history": [
+      [
+        "中古英语 gessen、gesse，可能与北欧猜测词有关",
+        "猜测、推想；具体借入关系不作定论"
+      ],
+      [
+        "现代 guess",
+        "没有把握地作判断；也可委婉表示我想、大概"
+      ],
+      [
+        "guess + -ing → guessing",
+        "猜 → 正在猜、猜测活动"
+      ]
+    ],
+    "explanation": "a guessing game 猜谜游戏，keep someone guessing 让人一直猜不透。后者常用于计划、去向、结果迟迟不明。",
+    "usage": "a guessing game；keep someone guessing；stop guessing。",
+    "contrast": "guessing 指过程或动作，guesswork 更常概括靠猜来做事的方式；两者不能所有位置机械互换。",
+    "examples": [
+      [
+        "The children played a guessing game on the train.",
+        "孩子们在火车上玩猜谜游戏。"
+      ],
+      [
+        "The manager kept us guessing about the new project.",
+        "经理一直没透露新项目的情况，让我们猜来猜去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guessing#English"
+    ]
+  },
+  {
+    "word": "trust",
+    "ipa": "/trʌst/",
+    "meaning": "信任；相信；托付；信托",
+    "sense": "觉得对方靠得住，所以敢把事情、秘密或责任交给他。",
+    "split": "中古英语 trust、trost 属日耳曼语信心、支持词族。常见词源解释联系古诺尔斯语 traust，但具体借入或本族传承有争论，不把一条路线说死。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ]
+    ],
+    "explanation": "trust someone 信任某人，trust someone with a secret 把秘密托付某人；a trust 还可是按特定安排持有、管理资产的组织或法律关系。这里只帮助读词，不展开法律规则。",
+    "usage": "trust someone；trust someone with；put your trust in；trust your judgement。",
+    "contrast": "believe someone 常是相信他这次说的话，trust someone 更偏觉得此人可靠；可能相信一句话，却仍不愿把钱托付给说话者。",
+    "examples": [
+      [
+        "I trust her to keep the information private.",
+        "我相信她会对这些信息保密。"
+      ],
+      [
+        "You need to trust your own judgement.",
+        "你需要相信自己的判断。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trust#English"
+    ]
+  },
+  {
+    "word": "trusting",
+    "ipa": "/ˈtrʌstɪŋ/",
+    "meaning": "信任他人的；容易相信人的",
+    "sense": "把视角放在愿意相信别人的那个人；并不是在评价他自己值不值得信任。",
+    "split": "trust + -ing，动词进行形式也可成为描述性格、态度的形容词。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "trust + -ing → trusting",
+        "相信别人 → 愿意信任他人的"
+      ]
+    ],
+    "explanation": "a trusting child 容易相信人的孩子，a trusting relationship 彼此有信任的关系，too trusting 过于轻信。",
+    "usage": "a trusting nature；too trusting；a trusting relationship。",
+    "contrast": "trusting 相信别人，trustworthy 值得别人相信；一个人可以很轻信，但不一定可靠。",
+    "examples": [
+      [
+        "She has a warm and trusting nature.",
+        "她性格温暖，愿意相信别人。"
+      ],
+      [
+        "He worried that he had been too trusting.",
+        "他担心自己之前太轻信别人了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trusting#English"
+    ]
+  },
+  {
+    "word": "trustworthy",
+    "ipa": "英 /ˈtrʌstwɜːði/；美 /ˈtrʌstwɜːrði/",
+    "meaning": "值得信任的；可靠的",
+    "sense": "把重要事情交给它，你有理由放心；这里重点是它配得上别人的信任。",
+    "split": "trust + worthy 值得的，组合成值得信任。worthy 读 /ˈwɜːði/ 等，th 是浊音 /ð/。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "trust + worthy → trustworthy",
+        "值得获得信任 → 可靠的"
+      ]
+    ],
+    "explanation": "a trustworthy person 可靠的人，a trustworthy source 可信来源；也可用于系统、信息是否可靠。",
+    "usage": "a trustworthy person；a trustworthy source；trustworthy information。",
+    "contrast": "trustworthy 说值得被信任，trusting 说愿意信任别人；不能互换方向。",
+    "examples": [
+      [
+        "We need a trustworthy source for this claim.",
+        "这个说法需要一个可信来源。"
+      ],
+      [
+        "She proved herself to be a trustworthy colleague.",
+        "她证明了自己是个可靠的同事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trustworthy#English"
+    ]
+  },
+  {
+    "word": "trusty",
+    "ipa": "/ˈtrʌsti/",
+    "meaning": "可靠、趁手的；忠实的",
+    "sense": "常说用了很久、一直没掉链子的熟悉工具或伙伴，带一点亲切感。",
+    "split": "trust + -y，形成可靠、忠实的形容词。现代常见 my trusty... 这个略带亲昵的说法；另有特定名词义不在此展开。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "trust + -y → trusty",
+        "有信任基础 → 可靠、忠实的"
+      ]
+    ],
+    "explanation": "my trusty bicycle 我的老可靠自行车，a trusty notebook 一直趁手的笔记本；用于工具时很自然。",
+    "usage": "a trusty companion；my trusty bike；a trusty old notebook。",
+    "contrast": "trusty 比 trustworthy 更有老伙伴、老工具的亲切语感；正式评估信息来源时 trustworthy 更常见。",
+    "examples": [
+      [
+        "I took my trusty old camera on the trip.",
+        "我带着那台一直很可靠的老相机去旅行。"
+      ],
+      [
+        "His trusty bicycle carried him to work every day.",
+        "他那辆可靠的自行车每天载着他去上班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trusty#English"
+    ]
+  },
+  {
+    "word": "trustee",
+    "ipa": "/trʌˈstiː/",
+    "meaning": "受托人；基金会、机构等的理事",
+    "sense": "别人把某项管理责任交过来，由这个人按职责替相关对象照管；不是泛指一个值得信任的朋友。",
+    "split": "trust + -ee，表示接受托付、承担相应角色的人。这里的 -ee 形成正式角色名词，现代也用于慈善、教育等机构理事。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "trust + -ee → trustee",
+        "接受托付的人 → 受托人、理事"
+      ]
+    ],
+    "explanation": "a board of trustees 理事会，a museum trustee 博物馆理事，a trustee of a fund 基金受托人；具体权限看机构和法律安排。",
+    "usage": "a board of trustees；a charity trustee；a museum trustee。",
+    "contrast": "trustee 是身份职责，trustworthy 是可靠这个评价；不能说一个人诚实就自动获得 trustee 身份。",
+    "examples": [
+      [
+        "She was appointed a trustee of the museum.",
+        "她被任命为博物馆理事。"
+      ],
+      [
+        "The board of trustees approved the new education programme.",
+        "理事会批准了新的教育项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trustee#English"
+    ]
+  },
+  {
+    "word": "distrust",
+    "ipa": "/dɪsˈtrʌst/",
+    "meaning": "不信任；怀疑可靠性",
+    "sense": "觉得可能靠不住，因此不愿轻易相信、交付或依赖。",
+    "split": "dis- 否定、相反 + trust，构成名词和动词。与 mistrust 用法大幅重叠，不硬分成一个有证据、一个绝无证据。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "dis- + trust → distrust",
+        "信任的反面 → 不信任"
+      ]
+    ],
+    "explanation": "distrust the information 不信这些信息，distrust of authority 对权威的不信任；a deep distrust 深深的不信任。",
+    "usage": "distrust of；deep distrust；distrust the source。",
+    "contrast": "distrust 与 mistrust 都可说不信任；dislike 是不喜欢，可能不喜欢某人却仍觉得他办事可靠。",
+    "examples": [
+      [
+        "Years of broken promises created deep distrust.",
+        "多年不兑现的承诺造成了深深的不信任。"
+      ],
+      [
+        "She distrusted the figures in the report.",
+        "她不信任报告里的数字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/distrust#English"
+    ]
+  },
+  {
+    "word": "entrust",
+    "ipa": "/ɪnˈtrʌst/",
+    "meaning": "托付；委托保管、处理",
+    "sense": "不只是心里相信，还真的把某样东西或某份责任交给对方。",
+    "split": "en- 与 trust 组合成托付动词，强调将某事交入对方负责范围。现代主要以两个固定句型记。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "en- + trust → entrust",
+        "把东西置于信任关系中 → 托付"
+      ]
+    ],
+    "explanation": "entrust someone with something 把某事托付某人；entrust something to someone 把某物交托某人。",
+    "usage": "entrust someone with；entrust something to；be entrusted with。",
+    "contrast": "trust 是信任，entrust 强调交付；entrust me with the keys 与 entrust the keys to me 表达同一方向。",
+    "examples": [
+      [
+        "She entrusted me with the keys to her flat.",
+        "她把公寓钥匙交给我保管。"
+      ],
+      [
+        "The project was entrusted to an experienced team.",
+        "这个项目交给了一个有经验的团队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/entrust#English"
+    ]
+  },
+  {
+    "word": "trustful",
+    "ipa": "/ˈtrʌstfəl/",
+    "meaning": "充满信任的；信赖他人的",
+    "sense": "态度里没有多少提防，带着信任看待对方；日常更常遇到近义 trusting。",
+    "split": "trust + -ful，充满信任，通常形容态度、表情或性情；不是值得被信任那个方向。",
+    "history": [
+      [
+        "日耳曼语信心、支持词族 → 中古英语 trust、trost",
+        "信赖、保护；英语具体传承或北欧借入关系有争论"
+      ],
+      [
+        "现代 trust",
+        "相信可靠 → 委托责任；另有信托、托拉斯等专门用法"
+      ],
+      [
+        "trust + -ful → trustful",
+        "充满信任的"
+      ]
+    ],
+    "explanation": "a trustful smile 信赖的笑容，a trustful attitude 信任的态度；学习重点是读懂，不必每次写作优先用这个较少见形式。",
+    "usage": "a trustful smile；a trustful expression；a trustful attitude。",
+    "contrast": "trustful 与 trusting 都偏相信别人，trustworthy 则是值得别人相信；注意信任的方向。",
+    "examples": [
+      [
+        "The child gave her a trustful smile.",
+        "孩子向她露出信赖的笑容。"
+      ],
+      [
+        "His trustful attitude surprised the suspicious guard.",
+        "他信任的态度让那位多疑的守卫感到意外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trustful#English"
+    ]
+  }
+]

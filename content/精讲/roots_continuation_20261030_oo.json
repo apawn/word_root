@@ -1,0 +1,235 @@
+[
+  {
+    "id": "B3141",
+    "meaning": "小重量旧材料形成质量单位，数量前缀再细分",
+    "core": "GRAM：克是一份，毫克是它的千分之一",
+    "image": "gram → milligram，先掌握数值方向；豆类同形词另源。",
+    "intro": "单位名与豆粉名字要分开。milli- 把单位缩小一千倍，数量换算则反过来一克有一千毫克；词尾 -gram 的写画义也不能都当质量单位。",
+    "forms": "gramma 小重量 → gramme → gram；milli- + gram；豆类 gram 经葡萄牙语接 granum。\n\nmilligram 经法语 milligramme，milli- 千分之一 + gram 克；gram 远接希腊小重量用法，与记录、字母的 gramma 有历史关系。\n\nmicro- 百万分之一 + gram 克；gram 经法语 gramme，远接希腊 gramma 小重量的用法。微克不是毫克，后者要大一千倍。\n\ngram 经法语 gramme，远接希腊 gramma 小重量用法；micro- 在计量名中规定为百万分之一。\n\ngram 借法语 gramme，接拉丁、希腊小重量名。现代加 -s，单位词可复数 grams，符号 g 不加 s；1 g = 0.001 kg，国际单位制质量基本单位是千克。",
+    "branches": [
+      [
+        "单位与数量细分",
+        "gram · milligram"
+      ],
+      [
+        "milligram → milligrams：克词族的细分单位",
+        "milligram · milligrams"
+      ],
+      [
+        "microgram → micrograms：微克",
+        "micrograms"
+      ],
+      [
+        "microgram → micrograms：克的细分单位",
+        "microgram · micrograms"
+      ],
+      [
+        "gram → grams：克与单位符号",
+        "grams"
+      ]
+    ],
+    "contrasts": "g、mg 是单位符号，不加 s；milligram 比 gram 小，不是因为 milli 看起来像 million 就变成百万克。",
+    "practice": "The label lists some quantities in grams and smaller ones in milligrams.\n\n标签把一些量用克列出，更小的量则用毫克。",
+    "words": [
+      "gram",
+      "milligram",
+      "milligrams",
+      "micrograms",
+      "microgram",
+      "grams"
+    ],
+    "exclude": {
+      "centimetre-gram-second": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4493",
+    "meaning": "不规则团块的名词，借到粗略归并与结块性质",
+    "core": "LUMP：一团不规则的块，或把差别捏成一团",
+    "image": "lump → lumpy；lumping 是动词变化，先看 lump together。",
+    "intro": "实体团块和抽象混为一谈靠形象连接。lumpy 看物体是否有块，lumping 则常看人怎样归类，不要因为都长就混成形容词。",
+    "forms": "lumpe → lump，远源未定；-y 性质；-ing 动作形式；mp 后不双写 p。",
+    "branches": [
+      [
+        "团块、归并及其形式",
+        "lump · lumpy · lumping"
+      ]
+    ],
+    "contrasts": "lump sum 是一次性总额，不是钞票粘成一团；lumpy 不要求一定坚硬。",
+    "practice": "The lumpy mixture contained several small lumps.\n\n那份结块的混合物里有几个小团块。",
+    "words": [
+      "lump",
+      "lumpy",
+      "lumping"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1968",
+    "meaning": "神圣材料进入宗教等级，再推广为一般层级",
+    "core": "HIERO：先是神圣事务，再留下等级结构的名称",
+    "image": "hierarchy 从宗教统领、等级走到组织层级，是本组最值得先学的词。",
+    "intro": "不能在现代每个 hierarchy 前都补一个神圣。历史解释前半来源，现代用法则可以只是公司层级、文件层级等。",
+    "forms": "希腊 hieros 神圣 + 统领材料 → hierarkhia；经拉丁、法语 → hierarchy。",
+    "branches": [
+      [
+        "宗教等级到一般结构",
+        "hierarchy"
+      ]
+    ],
+    "contrasts": "hierarchy 不自动说明某层人更有价值，只说明层级安排；现代定义也不要求宗教背景。",
+    "practice": "The diagram shows the hierarchy within the organisation.\n\n图示展示了组织内部的层级结构。",
+    "words": [
+      "hierarchy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3208",
+    "meaning": "奇怪旧义、辱称史与社群认领并存，语境决定读法",
+    "core": "QUEER：先读时代和说话者，再读具体含义",
+    "image": "queer → queerness；genderqueer 限定性别认同，不直接等于性取向。",
+    "intro": "词源能解释古怪旧义，却不能把这个旧评价强加给现代认同。自称、文学学科名和辱骂要分清，这是理解词义变化的关键。",
+    "forms": "苏格兰早期 queer，远源有争论；-ness 性质经验；gender + queer 具体认同名。",
+    "branches": [
+      [
+        "基本词与经验、性质名词",
+        "queer · queerness"
+      ],
+      [
+        "性别认同复合词",
+        "genderqueer"
+      ]
+    ],
+    "contrasts": "queer 不是所有 LGBTQ 人士都接受的自称；genderqueer 看性别认同，不凭外貌推定。",
+    "practice": "The anthology explores queer experience through work by several genderqueer writers.\n\n选集通过几位性别酷儿作者的作品探讨酷儿经验。",
+    "words": [
+      "queer",
+      "queerness",
+      "genderqueer"
+    ],
+    "exclude": {
+      "de-queer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-queer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2864",
+    "meaning": "投向目标的尖物，借快速动作与尖长形状命名",
+    "core": "DART：一下射出，快而突然",
+    "image": "dart → darts，先器具和迅速移动，再看复数运动名。",
+    "intro": "飞镖、飞快掠过与衣服省道靠动作、形状分别联系。运动 darts 带 s，却可以作为单个项目谈。",
+    "forms": "法语 dart、dard → dart，远接日耳曼投矛材料；名词作动词；复数 darts 固定为运动名。\n\n动词由飞镖、投矛名词发展，近源法语更早接日耳曼材料；darting pain 也像尖痛突然射来。",
+    "branches": [
+      [
+        "器具、动作与省道",
+        "dart"
+      ],
+      [
+        "复数器具与运动名",
+        "darts"
+      ],
+      [
+        "dart：像投出的尖物一样迅速窜过",
+        "dart · darted · darting"
+      ]
+    ],
+    "contrasts": "Darts is fun 与 These darts are new 看的是项目和多枚器具的区别；dart 不等于所有慢慢走动。",
+    "practice": "He threw a dart, then watched a bird dart past the window.\n\n他投出一枚飞镖，又看见一只鸟飞快掠过窗外。",
+    "words": [
+      "dart",
+      "darts",
+      "darted",
+      "darting"
+    ],
+    "exclude": {
+      "sun-darts": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "darter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3213",
+    "meaning": "微湿与抑制两条常用方向，历史不只从水开始",
+    "core": "DAMP：一边是有点湿，一边是把强度压下去",
+    "image": "damp → dampen；damper 看抑制装置或扫兴因素；dampness 看潮湿状态。",
+    "intro": "用湿毛巾和被压低的振动分两幅画面学。历史的窒息蒸气、压抑材料在前，不能把顺手的记忆比喻当成确定演化顺序。",
+    "forms": "中古英语 damp 与日耳曼蒸气材料相关；抑制义、微湿义分化；-en 动词；-er 装置；-ness 状态。\n\ndampen 的削弱、压低记录早于弄湿，不把现代湿布压火的助记画面当作唯一演化过程。",
+    "branches": [
+      [
+        "性质、动作与潮湿状态",
+        "damp · dampen · dampness"
+      ],
+      [
+        "抑制装置与扫兴因素",
+        "damper"
+      ],
+      [
+        "dampen 的削弱与弄湿：历史先后另看记录",
+        "damp · dampen · dampens · dampened · dampening"
+      ]
+    ],
+    "contrasts": "damper 装置不是更湿的东西；damp vibrations 不要求加水；dampen enthusiasm 也不是把热情真的浇湿。",
+    "practice": "The rain left dampness in the tent but did not dampen their spirits.\n\n雨让帐篷里有了潮气，却没有影响他们的兴致。",
+    "words": [
+      "damp",
+      "dampen",
+      "dampness",
+      "damper",
+      "dampens",
+      "dampened",
+      "dampening"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4043",
+    "meaning": "旧长袍衣物名进入礼服、学位与医院场景",
+    "core": "GOWN：长长罩在身上，场合再决定是哪种袍",
+    "image": "gown → nightgown，基础衣物名再由夜间使用限定。",
+    "intro": "不要一个 gown 只背成晚礼服。academic、hospital、evening 等修饰词把场景说清，nightgown 则是睡衣裙。",
+    "forms": "gunna → goune 等 → gown；night + gown → nightgown。\n\n经法语接晚期拉丁 gunna，远源未定；现代服装材料已不受古义限制。",
+    "branches": [
+      [
+        "场合袍服与夜间衣物",
+        "gown · nightgown"
+      ],
+      [
+        "gown → gowns：长袍、礼服、专用袍服",
+        "gown · gowns"
+      ]
+    ],
+    "contrasts": "gown /ɡaʊn/ 与 gone /ɡɒn、ɡɔːn/ 读音不同；病号服和学位袍不要按晚礼服义硬译。",
+    "practice": "She folded the academic gown and put her nightgown in the suitcase.\n\n她叠好学位袍，又把睡衣裙放进行李箱。",
+    "words": [
+      "gown",
+      "nightgown",
+      "gowns"
+    ],
+    "exclude": {
+      "tea-gown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3933",
+    "meaning": "甜的旧命名材料形成葡萄糖，再命名结构相关氨基糖",
+    "core": "GLUCOSE：具体糖名，衍生物还得看结构变化",
+    "image": "glucose → glucosamine，先具体糖，再看氨基材料带来的新物质。",
+    "intro": "gluco- 提供葡萄糖相关方向，不保证每个衍生物都能当糖吃或具有同样功能。化学后半部分改变物质类别，不能省略。",
+    "forms": "希腊甜葡萄汁等材料 → 法语 glucose → 英语 glucose；糖类词干 + -amine → glucosamine。",
+    "branches": [
+      [
+        "糖名与结构相关氨基糖",
+        "glucose · glucosamine"
+      ]
+    ],
+    "contrasts": "glucosamine 是氨基糖，不是把葡萄糖、维生素混合后的商品通称；名称不自动证明补充剂功效。",
+    "practice": "The diagram compares glucose with the related amino sugar glucosamine.\n\n图示比较了葡萄糖与相关氨基糖氨基葡萄糖。",
+    "words": [
+      "glucose",
+      "glucosamine"
+    ],
+    "exclude": {
+      "glucoside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

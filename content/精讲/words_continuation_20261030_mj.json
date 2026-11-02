@@ -1,0 +1,643 @@
+[
+  {
+    "word": "grip",
+    "ipa": "/ɡrɪp/",
+    "meaning": "紧握；握法、把手；抓地力；控制、吸引",
+    "sense": "手指合拢把东西握牢是 grip；鞋底不在地上打滑，也像紧紧抓住表面。故事让你舍不得移开注意，同样能 grip you。",
+    "split": "动词承古英语 grippan，名词与 gripe 等旧抓握词相连；由实体抓牢扩展到控制和强烈吸引。",
+    "history": [
+      [
+        "古英语 grippan、gripe 等 → grip",
+        "抓住、握持；相关名词指抓握"
+      ],
+      [
+        "抓牢实体 → 控制、吸引注意",
+        "情绪抓住人，故事抓住注意力"
+      ]
+    ],
+    "explanation": "a firm grip 握得牢，lose one’s grip 失去握持、控制，tyre grip 轮胎抓地力，get a grip on a problem 掌握问题。",
+    "usage": "a firm grip；lose one’s grip；get a grip on。",
+    "contrast": "grip 既能指握的动作，也能指使物体不滑动的能力；get a grip 单独对人说可带别慌、振作点的催促。",
+    "examples": [
+      [
+        "She tightened her grip on the rope.",
+        "她把绳子握得更紧。"
+      ],
+      [
+        "The story gripped me from the first page.",
+        "故事从第一页就抓住了我的注意力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grip#English"
+    ]
+  },
+  {
+    "word": "gripper",
+    "ipa": "英 /ˈɡrɪpə/；美 /ˈɡrɪpər/",
+    "meaning": "夹持器；增强握持的部件；抓握者",
+    "sense": "手不直接碰东西，而让一个部件夹住、拿起它，这个部件就可以 gripper；套在把手上防滑的握套，也可能这样命名。",
+    "split": "grip + -er，双写 p，形成人或工具名；具体夹、握结构由设备决定。",
+    "history": [
+      [
+        "古英语 grippan、gripe 等 → grip",
+        "抓住、握持；相关名词指抓握"
+      ],
+      [
+        "抓牢实体 → 控制、吸引注意",
+        "情绪抓住人，故事抓住注意力"
+      ],
+      [
+        "grip + -er → gripper",
+        "抓握、夹持的人或装置"
+      ]
+    ],
+    "explanation": "a robotic gripper 机器人夹持器，a rubber gripper 橡胶握持、防滑部件，a bottle gripper 瓶子夹持工具。",
+    "usage": "a robotic gripper；a rubber gripper。",
+    "contrast": "gripper 通常说起夹持、抓握作用的部件；不能单凭名称就认定它一定是人形机械手。",
+    "examples": [
+      [
+        "The robotic gripper lifted the small box.",
+        "机器人夹持器提起了小盒子。"
+      ],
+      [
+        "A rubber gripper made the handle easier to hold.",
+        "橡胶握套让把手更容易握牢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gripper#English"
+    ]
+  },
+  {
+    "word": "grippy",
+    "ipa": "/ˈɡrɪpi/",
+    "meaning": "抓得牢、防滑性好的",
+    "sense": "鞋底踩上去不容易滑，握把拿着不容易溜，就 grippy。它突出物体和接触表面牢牢咬住的感觉。",
+    "split": "grip + -y，双写 p，形成抓握、防滑能力好的性质。",
+    "history": [
+      [
+        "古英语 grippan、gripe 等 → grip",
+        "抓住、握持；相关名词指抓握"
+      ],
+      [
+        "抓牢实体 → 控制、吸引注意",
+        "情绪抓住人，故事抓住注意力"
+      ],
+      [
+        "grip + -y → grippy",
+        "容易抓牢、不易打滑"
+      ]
+    ],
+    "explanation": "grippy soles 防滑鞋底，a grippy handle 容易握牢的把手，grippy tyres 抓地力好的轮胎。",
+    "usage": "grippy soles；a grippy handle。",
+    "contrast": "grippy 主要看抓握、接触表现；sticky 更突出黏，表面不黏也可以 grippy。",
+    "examples": [
+      [
+        "The boots have grippy soles.",
+        "这双靴子的鞋底抓地力很好。"
+      ],
+      [
+        "The textured surface feels grippy even with gloves on.",
+        "这种带纹理的表面即使戴手套也容易握牢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grippy#English"
+    ]
+  },
+  {
+    "word": "gripping",
+    "ipa": "/ˈɡrɪpɪŋ/",
+    "meaning": "扣人心弦、紧紧吸引注意的；grip 的 -ing 形式",
+    "sense": "故事像一只手抓住注意力，让你一直想知道后面怎样，就 gripping。它可以是紧张，也可以是情节强烈吸引人。",
+    "split": "grip + -ing，双写 p；分词形容词从抓牢的动作扩展到造成强烈吸引的性质。",
+    "history": [
+      [
+        "古英语 grippan、gripe 等 → grip",
+        "抓住、握持；相关名词指抓握"
+      ],
+      [
+        "抓牢实体 → 控制、吸引注意",
+        "情绪抓住人，故事抓住注意力"
+      ],
+      [
+        "grip + -ing → gripping",
+        "抓住 → 紧紧吸引注意"
+      ]
+    ],
+    "explanation": "a gripping story 扣人心弦的故事，a gripping account 引人入胜的叙述，a gripping performance 吸引人的表演。",
+    "usage": "a gripping story；a gripping account。",
+    "contrast": "gripping 说作品造成的吸引效果；gripped 常说观众被吸引、被情绪攫住的状态。",
+    "examples": [
+      [
+        "The book gives a gripping account of the expedition.",
+        "这本书把远征经过讲得扣人心弦。"
+      ],
+      [
+        "It was such a gripping film that nobody checked their phone.",
+        "电影太吸引人了，没人去看手机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gripping#English"
+    ]
+  },
+  {
+    "word": "lemon",
+    "ipa": "/ˈlemən/",
+    "meaning": "柠檬；柠檬色；〔口语〕劣质货、问题车",
+    "sense": "最常见是酸酸的黄色柠檬。买回来的车总出问题，英语口语也能说 a lemon，像一笔令人不快的买卖；具体比喻起点有讨论。",
+    "split": "经中古英语 lymon、法语 limon，联系阿拉伯、波斯柑橘名，更远来源未定。劣质货义由水果名形成俚语，比喻的具体历史有不同解释。",
+    "history": [
+      [
+        "波斯、阿拉伯柑橘名称 → 法语 limon",
+        "柑橘果实；更远源有不同分析"
+      ],
+      [
+        "中古英语 lymon → lemon",
+        "柠檬、柠檬色"
+      ],
+      [
+        "lemon 的劣质货俚语",
+        "令人失望的东西；尤其问题汽车"
+      ]
+    ],
+    "explanation": "lemon juice 柠檬汁，a slice of lemon 一片柠檬，lemon yellow 柠檬黄，buy a lemon 买到问题货。",
+    "usage": "lemon juice；a slice of lemon；buy a lemon。",
+    "contrast": "a lemon 指问题车时不说明车的颜色；与 lime 青柠有词源关联，但现代是不同果实名称。",
+    "examples": [
+      [
+        "She added a slice of lemon to the tea.",
+        "她往茶里放了一片柠檬。"
+      ],
+      [
+        "The used car turned out to be a lemon.",
+        "那辆二手车结果是辆问题车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lemon#English",
+      "https://www.etymonline.com/word/lemon"
+    ]
+  },
+  {
+    "word": "lemony",
+    "ipa": "/ˈleməni/",
+    "meaning": "有柠檬味、香气或颜色的；像柠檬的",
+    "sense": "闻起来清新带柠檬气味、吃起来像柠檬，或者颜色像柠檬，都可以 lemony；具体是哪种相似由名词决定。",
+    "split": "lemon + -y，形成像柠檬、具有柠檬特征的性质形容词。",
+    "history": [
+      [
+        "波斯、阿拉伯柑橘名称 → 法语 limon",
+        "柑橘果实；更远源有不同分析"
+      ],
+      [
+        "中古英语 lymon → lemon",
+        "柠檬、柠檬色"
+      ],
+      [
+        "lemon + -y → lemony",
+        "气味、味道、颜色等像柠檬"
+      ]
+    ],
+    "explanation": "a lemony flavour 柠檬味，a lemony scent 柠檬香，a lemony yellow 柠檬般的黄色。",
+    "usage": "a lemony flavour；a lemony scent。",
+    "contrast": "lemony 不保证一定加入了真正柠檬；它可以只描述相似香味、颜色。",
+    "examples": [
+      [
+        "The sauce had a fresh, lemony flavour.",
+        "酱汁有清新的柠檬味。"
+      ],
+      [
+        "A lemony scent filled the kitchen.",
+        "厨房里弥漫着柠檬般的香气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lemony#English"
+    ]
+  },
+  {
+    "word": "lemonade",
+    "ipa": "英 /ˌlemənˈeɪd/；美 /ˈlemənˌeɪd/",
+    "meaning": "柠檬饮料、柠檬水；〔英式常指〕柠檬汽水",
+    "sense": "lemon 的味道被做成饮料，就是 lemonade。美国常让人想到加水、糖的柠檬饮料，英国日常则常指透明柠檬汽水。",
+    "split": "借法语 limonade，现代可对应 lemon + 饮料名后缀 -ade；词义随地区饮用、商品习惯有差别。",
+    "history": [
+      [
+        "波斯、阿拉伯柑橘名称 → 法语 limon",
+        "柑橘果实；更远源有不同分析"
+      ],
+      [
+        "中古英语 lymon → lemon",
+        "柠檬、柠檬色"
+      ],
+      [
+        "法语 limonade → lemonade",
+        "以柠檬味命名的饮料"
+      ]
+    ],
+    "explanation": "homemade lemonade 自制柠檬饮料，still lemonade 不含气柠檬饮料，a glass of lemonade 一杯柠檬饮料。",
+    "usage": "a glass of lemonade；homemade lemonade。",
+    "contrast": "lemonade 不在所有英语地区都保证无气或同一种配方；看 still、sparkling 等限定最清楚。",
+    "examples": [
+      [
+        "They sold homemade lemonade outside the house.",
+        "他们在屋外售卖自制柠檬饮料。"
+      ],
+      [
+        "She poured a glass of lemonade for each guest.",
+        "她为每位客人倒了一杯柠檬饮料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lemonade#English"
+    ]
+  },
+  {
+    "word": "loading",
+    "ipa": "英 /ˈləʊdɪŋ/；美 /ˈloʊdɪŋ/",
+    "meaning": "装载；加载；负荷、施载过程",
+    "sense": "货物进入车厢是 loading；数据进入程序、页面也借这个装进去的动作。工程里则可能是在说承受、施加负荷。",
+    "split": "load + -ing，分词、过程名词；实体装载义扩展到数据、资源加载及工程负荷语境。",
+    "history": [
+      [
+        "load 装载、负荷",
+        "把东西装上，或让系统承载"
+      ],
+      [
+        "load + -ing → loading",
+        "装载、加载过程；工程里也可说施加负荷"
+      ]
+    ],
+    "explanation": "cargo loading 货物装载，a loading screen 加载画面，loading time 加载时间，loading capacity 装载能力。",
+    "usage": "cargo loading；loading time；a loading screen。",
+    "contrast": "loading 不全是网络下载：程序从本地读取资源也能 loading；download 更具体说从远端获取数据。",
+    "examples": [
+      [
+        "Loading the truck took most of the morning.",
+        "给卡车装货花了大半个上午。"
+      ],
+      [
+        "A progress bar showed the page’s loading status.",
+        "进度条显示页面的加载状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loading#English"
+    ]
+  },
+  {
+    "word": "melt",
+    "ipa": "/melt/",
+    "meaning": "融化、熔化；使软化；逐渐消失",
+    "sense": "冰不再保持硬块而变成水，是 melt；人原本心硬，看到温柔举动后软下来，也能说心被融化。",
+    "split": "中古英语合流了古英语 meltan 自己融化与 mieltan 使融化等形式，现代一个 melt 就能兼顾两种方向。",
+    "history": [
+      [
+        "古英语 meltan、mieltan → melt",
+        "自己融化与使融化的旧动词合流"
+      ],
+      [
+        "固体变液体 → 情绪软化、逐渐消失",
+        "从不再坚硬的状态形成比喻"
+      ]
+    ],
+    "explanation": "melt the butter 把黄油融化，the ice melts 冰融化，melt someone’s heart 打动某人，melt away 逐渐消失。",
+    "usage": "melt away；melt someone’s heart。",
+    "contrast": "melt 说从固态走向液态，dissolve 常说溶入另一物质；日常有交叠，科学语境看实际变化。",
+    "examples": [
+      [
+        "The ice began to melt in the sun.",
+        "冰在阳光下开始融化。"
+      ],
+      [
+        "The child’s smile melted her heart.",
+        "孩子的笑容让她心都软了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melt#English"
+    ]
+  },
+  {
+    "word": "melty",
+    "ipa": "/ˈmelti/",
+    "meaning": "容易融化的；融软、融化状的",
+    "sense": "奶酪热得软软拉丝、巧克力快化开了，可以 melty。这个口语形容词让人直接感觉食物变软、快流动的状态。",
+    "split": "melt + -y，形成容易融化、已经融软的性质；常见于食物的口语描述。",
+    "history": [
+      [
+        "古英语 meltan、mieltan → melt",
+        "自己融化与使融化的旧动词合流"
+      ],
+      [
+        "固体变液体 → 情绪软化、逐渐消失",
+        "从不再坚硬的状态形成比喻"
+      ],
+      [
+        "melt + -y → melty",
+        "容易化开、呈融软状态"
+      ]
+    ],
+    "explanation": "melty cheese 融软奶酪，melty chocolate 化开的巧克力；比 melted 更带描述触感、食欲的口语色彩。",
+    "usage": "melty cheese；melty chocolate。",
+    "contrast": "melty 可突出倾向、触感，不严格等于每次已经完全化成液体；中性完成状态可说 melted。",
+    "examples": [
+      [
+        "The sandwich was filled with warm, melty cheese.",
+        "三明治里夹着温热融软的奶酪。"
+      ],
+      [
+        "The chocolate became soft and melty in the heat.",
+        "巧克力受热变得软软的，快化开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/melty#English"
+    ]
+  },
+  {
+    "word": "molten",
+    "ipa": "英 /ˈməʊltən/；美 /ˈmoʊltən/",
+    "meaning": "熔融的、熔化的〔尤其金属、岩石等〕",
+    "sense": "金属烧到不再是一块硬物、而能流动，就是 molten metal。它常把镜头放在高温熔融材料上。",
+    "split": "承古英语 molten、gemolten 的旧过去分词，经中古英语延续。现代 melt 的普通过去、过去分词通常 melted，molten 保留为特定状态形容词。",
+    "history": [
+      [
+        "古英语 meltan、mieltan → melt",
+        "自己融化与使融化的旧动词合流"
+      ],
+      [
+        "旧分词 molten → 现代形容词 molten",
+        "高温熔化后的状态"
+      ]
+    ],
+    "explanation": "molten metal 熔融金属，molten rock 熔融岩石，molten glass 熔融玻璃。",
+    "usage": "molten metal；molten rock。",
+    "contrast": "melted 范围很广，molten 常集中于高温材料；不把所有过去动作都改成 molten。",
+    "examples": [
+      [
+        "The mould was filled with molten metal.",
+        "模具中注入了熔融金属。"
+      ],
+      [
+        "Molten rock moved beneath the surface.",
+        "熔融岩石在地表下移动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/molten#English"
+    ]
+  },
+  {
+    "word": "neat",
+    "ipa": "/niːt/",
+    "meaning": "整洁、利落的；巧妙、很棒的；〔酒〕未掺兑的",
+    "sense": "桌面干净、东西摆好是 neat；办法简洁利落，也可 a neat solution。酒不加冰水、混合物，则借纯净、不掺杂义说 neat。",
+    "split": "经法语 net、neit 接拉丁 nitidus 光洁，联系 nitere 发亮；整洁、利落与不掺杂等分支逐步发展。",
+    "history": [
+      [
+        "拉丁 nitere 发亮 → nitidus 光洁",
+        "光亮、漂亮、整洁"
+      ],
+      [
+        "法语 net、neit → neat",
+        "干净、整齐、利落；又有纯净、不掺杂义"
+      ]
+    ],
+    "explanation": "a neat room 整洁房间，neat handwriting 工整字迹，a neat solution 巧妙利落的解法，whisky neat 不掺兑的威士忌。",
+    "usage": "neat handwriting；a neat solution。",
+    "contrast": "neat 不只说干净，也可赞做法巧妙；酒的 neat 是特定用法，不能套成所有饮料很整齐。",
+    "examples": [
+      [
+        "Her notes were written in neat handwriting.",
+        "她的笔记字迹工整。"
+      ],
+      [
+        "That is a neat solution to a difficult problem.",
+        "那个解法巧妙地解决了一个难题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neat#English",
+      "https://www.etymonline.com/word/neat"
+    ]
+  },
+  {
+    "word": "neatly",
+    "ipa": "/ˈniːtli/",
+    "meaning": "整齐、利落地；巧妙、恰当地",
+    "sense": "衣服叠得方方正正，是 neatly folded；一句话恰好概括复杂想法，也能 neatly summarize。整洁感走进了表达方式。",
+    "split": "neat + -ly，形成方式副词；从整齐到利落、巧妙的各分支随底层形容词延伸。",
+    "history": [
+      [
+        "拉丁 nitere 发亮 → nitidus 光洁",
+        "光亮、漂亮、整洁"
+      ],
+      [
+        "法语 net、neit → neat",
+        "干净、整齐、利落；又有纯净、不掺杂义"
+      ],
+      [
+        "neat + -ly → neatly",
+        "整齐、利落、恰当地"
+      ]
+    ],
+    "explanation": "neatly folded 叠得整齐，neatly arranged 排得整齐，neatly explain 清楚利落地解释。",
+    "usage": "neatly folded；neatly arranged。",
+    "contrast": "neatly 可以评价组织、概括得利落，不只说物理摆放；动词场景决定译法。",
+    "examples": [
+      [
+        "The towels were neatly folded on the shelf.",
+        "毛巾整齐叠在架子上。"
+      ],
+      [
+        "The example neatly illustrates the difference.",
+        "这个例子恰好清楚地说明了差别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neatly#English"
+    ]
+  },
+  {
+    "word": "neatness",
+    "ipa": "/ˈniːtnəs/",
+    "meaning": "整洁、工整；利落、巧妙",
+    "sense": "neat 说整洁，neatness 把整洁程度、安排得利落这件事本身变成讨论对象。字迹、房间、证明都能按场景用。",
+    "split": "neat + -ness，形成性质、状态名词，通常不可数。",
+    "history": [
+      [
+        "拉丁 nitere 发亮 → nitidus 光洁",
+        "光亮、漂亮、整洁"
+      ],
+      [
+        "法语 net、neit → neat",
+        "干净、整齐、利落；又有纯净、不掺杂义"
+      ],
+      [
+        "neat + -ness → neatness",
+        "整洁、利落的性质"
+      ]
+    ],
+    "explanation": "the neatness of handwriting 字迹工整，value neatness 重视整洁，the neatness of a solution 解法的利落巧妙。",
+    "usage": "the neatness of；value neatness。",
+    "contrast": "neatness 不必与事物绝对正确画等号：笔记整齐与内容正确，是两种评价。",
+    "examples": [
+      [
+        "The teacher praised the neatness of her work.",
+        "老师表扬了她作业的工整。"
+      ],
+      [
+        "I admired the neatness of the solution.",
+        "我很欣赏那个解法的简洁巧妙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neatness#English"
+    ]
+  },
+  {
+    "word": "nest",
+    "ipa": "/nest/",
+    "meaning": "巢、窝；筑巢；套叠",
+    "sense": "鸟把蛋和幼鸟安置的窝是 nest；大小碗一个装进另一个，也像把东西安顿进合适小窝，可以 nest。",
+    "split": "名词承古英语 nest，动词有 nistan、nistian 等旧形式。更远通常联系向下、坐的旧构词；现代扩展出舒适居处和套叠结构。",
+    "history": [
+      [
+        "古英语 nest 及相应筑巢动词",
+        "鸟巢、安居处；更远常分析为向下 + 坐"
+      ],
+      [
+        "窝状安居 → 套叠、安顿",
+        "大小结构像套娃一样放进去"
+      ]
+    ],
+    "explanation": "a bird’s nest 鸟巢，build a nest 筑巢，nesting birds 筑巢中的鸟，nest bowls 把碗套叠；计算机中 nested 也说一层放在另一层里面。",
+    "usage": "build a nest；nest inside。",
+    "contrast": "nest 不只鸟类可用；套叠重点是结构一层包含一层，不必真有树枝巢。",
+    "examples": [
+      [
+        "A bird built a nest above the window.",
+        "一只鸟在窗户上方筑了巢。"
+      ],
+      [
+        "The smaller bowls nest inside the larger ones.",
+        "小碗可以套进大碗里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nest#English"
+    ]
+  },
+  {
+    "word": "nestle",
+    "ipa": "/ˈnesəl/",
+    "meaning": "依偎、舒服地安顿；隐在、坐落于",
+    "sense": "像小鸟钻回窝里，把自己安顿得舒服，就是 nestle。小屋藏在山间，也像被环境温柔包住。",
+    "split": "承古英语 nestlian、中古英语 nestlen，包含 nest 词族和旧 -le／-el 动词构词后缀。由筑巢、住窝扩展为依偎、舒适安顿。",
+    "history": [
+      [
+        "古英语 nest 及相应筑巢动词",
+        "鸟巢、安居处；更远常分析为向下 + 坐"
+      ],
+      [
+        "旧 nest + -le 动词 → nestle",
+        "筑巢、住进窝 → 舒服安顿、依偎"
+      ]
+    ],
+    "explanation": "nestle against someone 依偎某人，nestle into a chair 舒服窝进椅子，a village nestled in the valley 隐在山谷中的村落。",
+    "usage": "nestle against；nestle into；nestle in。",
+    "contrast": "nestle 中 t 通常不发音；-le 是旧动词后缀，不是现代加一个小东西就都能这样造词。",
+    "examples": [
+      [
+        "The child nestled against her shoulder.",
+        "孩子依偎在她肩旁。"
+      ],
+      [
+        "The cottage nestles among the trees.",
+        "小屋隐在树丛中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nestle#English",
+      "https://www.etymonline.com/word/nestle"
+    ]
+  },
+  {
+    "word": "nestling",
+    "ipa": "幼鸟义 /ˈnestlɪŋ/；nestle 分词 /ˈnesəlɪŋ/，也有 /ˈneslɪŋ/",
+    "meaning": "尚在巢中的幼鸟；依偎、安顿〔另一构词〕",
+    "sense": "小鸟还待在窝里，叫 nestling；She is nestling ... 的字面同形，却是某人正在依偎。一个名字里 t 发音，另一个承 nestle 的无 t 读法。",
+    "split": "幼鸟名是 nest + -ling，-ling 指幼小者；分词则是 nestle 去末尾 e 加 -ing。相同拼写对应不同词素边界和读音。",
+    "history": [
+      [
+        "古英语 nest 及相应筑巢动词",
+        "鸟巢、安居处；更远常分析为向下 + 坐"
+      ],
+      [
+        "nest + -ling → nestling",
+        "巢中的幼鸟，/t/ 保留"
+      ],
+      [
+        "nestle + -ing → nestling",
+        "依偎、安顿的分词，通常无 /t/"
+      ]
+    ],
+    "explanation": "feed the nestlings 喂巢中幼鸟；be nestling against 依偎着；按词性、后面结构判断。",
+    "usage": "feed the nestlings；be nestling against。",
+    "contrast": "nestling 幼鸟不泛指所有已经能独立飞行的年轻鸟；分词用法则不指鸟的年龄。",
+    "examples": [
+      [
+        "The parents brought insects to the nestlings.",
+        "亲鸟把昆虫带给巢中幼鸟。"
+      ],
+      [
+        "The baby was nestling against his father’s chest.",
+        "婴儿正依偎在父亲胸前。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nestling#English"
+    ]
+  },
+  {
+    "word": "nester",
+    "ipa": "英 /ˈnestə/；美 /ˈnestər/",
+    "meaning": "筑巢、栖居者；喜爱居家安顿的人",
+    "sense": "在某处筑巢、安家的是 nester；empty nester 则借孩子离巢的画面，称孩子已经离家独立生活的父母。",
+    "split": "nest + -er，人物、动物名；从筑巢行为扩展到把家安顿得舒适、与家庭阶段有关的人物表达。",
+    "history": [
+      [
+        "古英语 nest 及相应筑巢动词",
+        "鸟巢、安居处；更远常分析为向下 + 坐"
+      ],
+      [
+        "窝状安居 → 套叠、安顿",
+        "大小结构像套娃一样放进去"
+      ],
+      [
+        "nest + -er → nester",
+        "筑巢、安家者；复合表达中的家庭角色"
+      ]
+    ],
+    "explanation": "a cavity nester 穴居筑巢鸟，an empty nester 空巢父母中的一人；empty nesters 为复数。",
+    "usage": "a cavity nester；an empty nester。",
+    "contrast": "empty nester 不要求房子完全空、本人没有其他关系；关键是子女离开原来共同生活的家。",
+    "examples": [
+      [
+        "This bird is a cavity nester and uses holes in trees.",
+        "这种鸟在洞穴筑巢，会利用树洞。"
+      ],
+      [
+        "They became empty nesters when their youngest child moved out.",
+        "最小的孩子搬走后，他们成了空巢父母。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nester#English"
+    ]
+  }
+]

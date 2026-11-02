@@ -1,0 +1,118 @@
+[
+  {
+    "id": "B3064",
+    "meaning": "死亡状态；失去活动与反应",
+    "core": "DEAD：已经不活、不动，或完全没有反应",
+    "image": "从 dead 的状态出发，读 undead 的奇幻设定，再把卡住、枯木和无表情这些扩展分别理解。",
+    "intro": "dead 继承古英语 dēad。复合词多利用失去生命、不活动或完全的含义；每个组合接的第二部分也要选对意思。",
+    "forms": "dead → undead；dead + lock、wood、pan、lift、bolt、head；deadbeat 的人物贬称单独辨析。\n\ndeadline 是 dead + line；时间限度义在出版业固定，较早还有不动线、禁越边界等用法，现代义与某一早期用法的直接演化关系并非完全确证。\n\n死亡动词 die 的过去形式是 died，词尾 /d/；与骰子名词 die 的法语来源分开。\n\n死亡动词可能北欧借入；die 骰子、模具的名词历史分开看。\n\n去 e 加完整 ing；内容语境决定名词成果还是动作。\n\ndeadly 继承古英语 deadlic，现代对应 dead 加 ly；ly 可构成形容词，不只有副词。\n\n和 dead 比较传说、影视中的死而复动，不由英语 dead 构词。zombie、zombi 的来路通常接西非、海地等语境，具体可能有不止一条旧词线，不能硬定一个非洲词包办所有意思。",
+    "branches": [
+      [
+        "状态与变化",
+        "die · dying · dead · death · undead"
+      ],
+      [
+        "卡住与不起作用",
+        "deadlock · deadbeat · deadwood"
+      ],
+      [
+        "具体复合词",
+        "deadpan · deadlift · deadbolt · deadhead"
+      ],
+      [
+        "deadline：不可越过的界线到时间限度",
+        "dead · line · deadline"
+      ],
+      [
+        "die → died：死去；声音、光线等渐息",
+        "die · died"
+      ],
+      [
+        "die → dies：死亡；模具另支",
+        "die · dies"
+      ],
+      [
+        "line → lining：内部一层与沿线排列",
+        "line · lining"
+      ],
+      [
+        "dead → deadly：不活着到致命的",
+        "dead · deadly"
+      ],
+      [
+        "zombie：另源的僵尸与没精神的人",
+        "zombie · zombies"
+      ]
+    ],
+    "contrasts": "dead 形容状态，die 表变化；pan 是旧俚语脸，bolt 是门闩。不要只看到 dead 就把每个组合都解释成死人。",
+    "practice": "The battery is dead, but the phone itself is fine.\n\n电池没电了，但手机本身没问题。",
+    "words": [
+      "die",
+      "dying",
+      "dead",
+      "death",
+      "undead",
+      "deadlock",
+      "deadbeat",
+      "deadwood",
+      "deadpan",
+      "deadlift",
+      "deadbolt",
+      "deadhead",
+      "line",
+      "deadline",
+      "died",
+      "dies",
+      "lining",
+      "deadly",
+      "zombie",
+      "zombies"
+    ],
+    "exclude": {
+      "nearly-dead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brain-dead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-dead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dead-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dead-naming": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deadman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deadass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2450",
+    "meaning": "死去、消退；死亡过程与状态",
+    "core": "DIE：从有生命、有活动走向结束",
+    "image": "先把 die、dying、dead、death 连起来，再分开处理同形的骰子名词。",
+    "intro": "死亡动词可能经北欧语言进入中古英语；dead 与 death 属相关古老词族，但现代形式不能机械地把 death 说成 die 加一个随意拼出的后缀。",
+    "forms": "die → died、dying；dead 形容状态，death 表死亡；骰子 die 走法语名词路线。\n\n古英语已有整词，现代不要当成 dead 的普通副词就套遍所有意思。\n\ndice 是骰子 die 的历史复数，/s/ 音保留在特殊拼写里；现代也有单数 dice。切丁动词从骰子状小块得名，与死亡 die 分源。",
+    "branches": [
+      [
+        "变化、进行、状态与事件",
+        "die · dying · dead · death"
+      ],
+      [
+        "死亡词族 deadly：致命与极度的引申",
+        "dead · deadly"
+      ],
+      [
+        "die 骰子 → dice；由形状到切丁",
+        "dice"
+      ]
+    ],
+    "contrasts": "dying 不是 dyeing；a die 的骰子义与死去动词来源分开。",
+    "practice": "The noise slowly died away.\n\n声音慢慢消失了。",
+    "words": [
+      "die",
+      "dying",
+      "dead",
+      "death",
+      "deadly",
+      "dice"
+    ],
+    "exclude": {
+      "die-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "die-cast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dier": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

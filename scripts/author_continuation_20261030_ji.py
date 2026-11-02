@@ -1,0 +1,77 @@
+"""Useful -in substance names; do not infer biology from spelling alone."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('serotonin','英 /ˌserəˈtəʊnɪn/；美 /ˌserəˈtoʊnɪn/','血清素；5-羟色胺',
+ '先在血清中研究到一种能影响血管张力的物质，名字便记下血清与张力这两件事。后来发现它也参与神经信号等作用，名称却保留下来。',
+ 'sero- 血清 + tone 张力相关成分 + -in 物质名词尾。名称来自早期发现和作用线索，不是由快乐的意思拼出来。',
+ [['血清 serum 与血管 tone 张力的早期研究','按来源材料和观察到的作用命名'],['sero- + tone + -in → serotonin','名称保留；现代知道它有多种生理作用']],
+ 'serotonin receptors 血清素受体，serotonin signalling 血清素信号传递。它既见于中枢神经系统，也在身体其他部位发挥作用，不只是一个快乐按钮。',
+ 'serotonin receptors；serotonin signalling。',
+ 'serotonin 是具体分子名称，不等于 happiness 快乐这种心理状态，也不能从词义直接推出越多越好。',
+ ('The lecture introduced serotonin as a signalling molecule.','讲座把血清素作为一种信号分子作了介绍。'),('The diagram shows a serotonin receptor in a cell membrane.','图示展示了细胞膜上的一个血清素受体。'),sources=['https://en.wiktionary.org/wiki/serotonin#English','https://www.acs.org/education/whatischemistry/landmarks/serotonin.html','https://www.ncbi.nlm.nih.gov/books/NBK28150/'])
+W('actin','/ˈæktɪn/，美式也见 /ˈæktən/','肌动蛋白',
+ '把它想成细胞里能搭成细丝的蛋白零件：既参与细胞形状和运动，也与肌肉收缩有关。它不只存在于肌肉里。',
+ '这是现代蛋白质名称，接 -in。来源有不同说法；《韦氏》倾向 act 或 activate + -in，不把另一个希腊语 aktís 射线的 actin-／actino- 直接当成确定来源。',
+ [['现代生化命名中的 act／activate 相关分析','可能联系作用、激活；具体来源保留谨慎'],['相应成分 + -in → actin','能聚合成细丝的细胞蛋白名称']],
+ 'actin filaments 肌动蛋白丝，actin and myosin 肌动蛋白与肌球蛋白。小蛋白单元可聚合成细丝，词既指蛋白类别，也进入相关结构名称。',
+ 'actin filaments；actin and myosin。',
+ 'actin 是蛋白；actin filament 是它组成的丝状结构。actino- 射线相关构词不能只因字形接近就替代这条物质名的来源分析。',
+ ('Actin helps cells maintain and change their shape.','肌动蛋白帮助细胞维持和改变形状。'),('The image shows a network of actin filaments.','图像展示了一张肌动蛋白丝网络。'),sources=['https://www.merriam-webster.com/dictionary/actin','https://www.ncbi.nlm.nih.gov/mesh/68000199'])
+W('tubulin','英 /ˈtjuːbjʊlɪn/；美 /ˈtuːbjəlɪn/','微管蛋白',
+ '细胞里有微小管状结构 microtubules，tubulin 是能组成这些管的蛋白零件。名字看管，概念记零件与组装体。',
+ 'tubule 小管的 tubul- + -in。按与小管结构的关系命名蛋白，不是把一根已经存在的管子缩短叫法。',
+ [['tubule 小管 → tubul-','管状结构的命名基础'],['tubul- + -in → tubulin','聚合形成微管的蛋白']],
+ 'tubulin proteins 微管蛋白，alpha and beta tubulin α与β微管蛋白。研究中会区分蛋白单元、二聚体和装配成的微管。',
+ 'tubulin proteins；alpha and beta tubulin。',
+ 'tubulin 是组成材料，microtubule 是形成的管状结构。与 actin 都属细胞骨架相关材料，但不是同一种蛋白。',
+ ('Tubulin assembles into microtubules.','微管蛋白组装成微管。'),('The researcher compared actin and tubulin in the cells.','研究人员比较了细胞里的肌动蛋白与微管蛋白。'),sources=['https://en.wiktionary.org/wiki/tubulin#English','https://www.merriam-webster.com/dictionary/tubulin'])
+W('fibrin','/ˈfaɪbrɪn/','纤维蛋白',
+ '血液凝固时，纤维蛋白能织出细纤维网络，像网一样帮助形成凝块。用纤维这个画面记，别把它当成饮食纤维。',
+ 'fibre 纤维相关词干 + -in，按纤维状性质形成物质名。联系 fibre 更早的拉丁 fibra 来源，但 fibrin 是具体蛋白名称。',
+ [['fibre 的纤维概念','细丝、纤维的形态'],['fibr- + -in → fibrin','凝固过程中形成纤维网络的蛋白']],
+ 'a fibrin network 纤维蛋白网络，fibrin formation 纤维蛋白形成。它由 fibrinogen 纤维蛋白原转变而来，原料与形成后的蛋白需区分。',
+ 'a fibrin network；fibrin formation。',
+ 'fibrin 与 fibrinogen 不是同一个状态的名称；fibre 则宽泛说纤维，不都指这种蛋白。',
+ ('Fibrin forms a network in the developing clot.','纤维蛋白在形成中的凝块里织成网络。'),('The textbook distinguishes fibrin from fibrinogen.','教材区分了纤维蛋白和纤维蛋白原。'))
+W('lignin','/ˈlɪɡnɪn/','木质素',
+ '植物的木质部分不只有纤维素，还含木质素这类复杂材料，帮助组织坚实、具有木质特征。把名字先与木联系。',
+ '拉丁 lignum 木、木材的 lign- + -in。按木材相关成分命名，不从英语 line 线或 light 光拆。',
+ [['拉丁 lignum','木、木材'],['lign- + -in → lignin','植物细胞壁中的木质素类复杂聚合物']],
+ 'lignin content 木质素含量，lignin in wood 木材中的木质素。它是一类复杂聚合物，不是每个样品都只有一个完全相同的小分子结构。',
+ 'lignin content；lignin in wood。',
+ 'lignin 与 cellulose 纤维素都是植物材料里的重要成分，但化学结构不同。lignin 也不是因为 -in 就变成蛋白质。',
+ ('The researchers measured the lignin content of the wood.','研究人员测量了木材中的木质素含量。'),('Lignin contributes to the rigidity of plant cell walls.','木质素帮助植物细胞壁变得坚实。'))
+W('auxin','英 /ˈɔːksɪn/；美 /ˈɔːksɪn/，也读 /ˈɑːksɪn/','生长素〔植物激素的一类〕',
+ '植物怎样伸长、形成根、协调生长，需要信号调节。auxin 是参与这些过程的一类植物生长调节物质，名字就抓住生长。',
+ '经德语 Auxin 的现代科学命名进入英语，取希腊 auxánein 使生长、增长的 aux- + -in。不是 auxiliary 辅助的随意缩写。',
+ [['希腊 auxánein','使生长、增长'],['现代德语科学命名 Auxin → 英语 auxin','按植物生长作用形成的物质名称']],
+ 'auxin transport 生长素运输，auxin concentration 生长素浓度，an auxin response 生长素响应。它调节多种生长过程，作用随部位、条件变化。',
+ 'auxin transport；auxin concentration；an auxin response。',
+ 'auxin 不是植物所有激素的总称，也不是凡促进生长的材料都可随便叫 auxin。名字的生长线索不能概括每种条件下的全部效果。',
+ ('The experiment tracked auxin transport in the stem.','实验追踪了茎中的生长素运输。'),('The chapter explains how auxin influences root development.','这一章解释了生长素如何影响根的发育。'),sources=['https://en.wiktionary.org/wiki/auxin#English','https://www.merriam-webster.com/dictionary/auxin'])
+W('penicillin','/ˌpenɪˈsɪlɪn/','青霉素；青霉素类抗生素',
+ '名字记下了最初的来源：Penicillium 青霉菌。它后来成为抗生素名称；不是把 mould 霉菌和这种药物混为同一个东西。',
+ '菌属名 Penicillium 的相关词干 + -in。Penicillium 更早联系拉丁 penicillus 小刷子，因菌的产孢结构像刷子；英语名称由 Fleming 命名。',
+ [['拉丁 penicillus 小刷子 → 菌属名 Penicillium','按刷状结构形成的青霉菌名'],['Penicillium + -in → penicillin','由菌名形成抗生素名称']],
+ 'penicillin production 青霉素生产，penicillin resistance 青霉素耐药性，the discovery of penicillin 青霉素的发现。可泛说该类，也可在具体语境指某一种制剂、化合物。',
+ 'penicillin production；penicillin resistance；the discovery of penicillin。',
+ 'Penicillium 是菌属名，penicillin 是相关抗生素名。抗生素与病毒不是同一概念，不把名称当成治所有感染的意思。',
+ ('The museum has an exhibit about the discovery of penicillin.','博物馆有一个介绍青霉素发现的展览。'),('The paper examines penicillin production by the fungus.','论文考察这种真菌产生青霉素的过程。'))
+W('streptomycin','英 /ˌstreptəʊˈmaɪsɪn/；美 /ˌstreptəˈmaɪsɪn/','链霉素',
+ '这种抗生素的名字来自产生它的 Streptomyces 链霉菌。先记来源关系，比把每一段都硬译成医学功效更可靠。',
+ 'Streptomyces 的相关词干 + -in，形成 streptomycin。菌名的 strepto- 联系扭转、链状，-myces 联系真菌样命名；链霉菌实际属于细菌，名称保留历史用语。',
+ [['Streptomyces 链霉菌属名','保留形态、分类命名的历史'],['菌名词干 + -in → streptomycin','按产生菌形成抗生素名称']],
+ 'streptomycin production 链霉素生产，streptomycin resistance 链霉素耐药性。历史、微生物学报道中常把它与产生菌、发现过程联系起来。',
+ 'streptomycin production；streptomycin resistance。',
+ 'streptomycin 与 penicillin 是不同抗生素名称，不因都有 -in 就视为同一种物质；-mycin 也是一组药名里可识别的历史命名成分。',
+ ('The lecture compared the histories of penicillin and streptomycin.','讲座比较了青霉素与链霉素的历史。'),('The laboratory studied streptomycin resistance in bacteria.','实验室研究了细菌对链霉素的耐药性。'))
+R('A1777','物质名称中的常见词尾，不能仅靠词尾判断功能或类别','-IN：常出现在物质名，前半记录来源、形态或发现线索','同样 -in，可以是蛋白、激素、色素、抗生素或其他物质；并不等于全都是蛋白质。',
+ '本组只保留阅读中常见、值得联系的名称。记来源线索：木的 lign-、小管的 tubul-、青霉菌名、血清与张力等。具体物质仍各自理解。',
+ '科学命名中的 -in 联系法语 -ine 等物质词尾的传统；不同词在不同语言、年代形成。尾部拼写 -in 本身不证明属于这一后缀。',
+ [['蛋白、结构材料','actin · tubulin · fibrin · keratin · myelin · chromatin'],['信号、激素和色素','serotonin · insulin · melatonin · melanin · auxin · prolactin'],['其他物质与抗生素','lignin · toxin · penicillin · streptomycin · heparin · interleukin · prostaglandin']],
+ '-in 不等于全是蛋白；actin 的物质名与 actino- 射线不能直接混同；merlin、elfin 的结尾也不因此成为物质后缀。',
+ 'The chapter compares actin and tubulin, then explains why lignin is a different kind of material.\n\n这一章比较肌动蛋白和微管蛋白，再说明木质素是另一类材料。','actin tubulin fibrin keratin myelin chromatin serotonin insulin melatonin melanin auxin prolactin lignin toxin penicillin streptomycin heparin interleukin prostaglandin')
+for w in ['merlin','elfin','livin']:
+ ROOTS[-1]['exclude'][w]='只是结尾近形或另有构词来源，不作为科学物质后缀 -in 的常用例词。'
+if __name__=='__main__':save('continuation_20261030_ji',ROOTS,WORDS)

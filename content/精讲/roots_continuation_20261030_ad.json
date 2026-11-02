@@ -1,0 +1,56 @@
+[
+  {
+    "id": "B3166",
+    "meaning": "跟随、配套、相合与衣物名称",
+    "core": "SUIT：成套、相配；前部告诉哪种服装",
+    "image": "suit → suitable、suited → suitability；接 suitcase 容器，再按游泳、跳伞、湿式保温等场景分服装。",
+    "intro": "词族最终来自拉丁跟随词。法语、英语早期有随从、追求、成套和诉讼等义，现代服装、合适和诉讼各有固定使用场景。",
+    "forms": "suit + -able/-ed；suitable + -ity；suit + case；swim/jump/wet/track/body + suit；law + suit。\n\nsuite 是法语同一跟随词族的另次借入，与 suit 同源异形；套房、组曲、软件套件都按配套整体理解。\n\n法语 suite、siute 接拉丁 sequi 跟随；名词诉讼、花色也需分场景。",
+    "branches": [
+      [
+        "基本词与适合程度",
+        "suit · suitable · suited · suitability"
+      ],
+      [
+        "旅行箱与活动服装",
+        "suitcase · swimsuit · jumpsuit · wetsuit · tracksuit · bodysuit"
+      ],
+      [
+        "另支常用词",
+        "lawsuit"
+      ],
+      [
+        "suit 与 suite：随从、相随的整组",
+        "suit · suite"
+      ],
+      [
+        "suit → suits：配套衣服与适合",
+        "suit · suits"
+      ]
+    ],
+    "contrasts": "suit 适合风格，fit 常合尺寸，match 常两物搭配；suitcase 可数而 luggage 常不可数；swimsuit 与 wetsuit 用途不同。",
+    "practice": "She packed a suitable swimsuit in her suitcase.\n\n她把一件合适的泳衣装进行李箱。",
+    "words": [
+      "suit",
+      "suitable",
+      "suited",
+      "suitability",
+      "suitcase",
+      "swimsuit",
+      "jumpsuit",
+      "wetsuit",
+      "tracksuit",
+      "bodysuit",
+      "lawsuit",
+      "suite",
+      "suits"
+    ],
+    "exclude": {
+      "pantsuit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "enviro-suit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "catsuit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wingsuit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fursuit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

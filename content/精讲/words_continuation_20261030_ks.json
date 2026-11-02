@@ -1,0 +1,425 @@
+[
+  {
+    "word": "dish",
+    "ipa": "/dɪʃ/",
+    "meaning": "盘、碟、盛食器皿；菜肴；餐具〔常复数〕；盛上、分发",
+    "sense": "先是装食物的器皿，再用器皿代里面的食物，于是 a dish 能指一道菜。do the dishes 则说洗餐具，通常不只洗某一个盘。",
+    "split": "古英语 disc 经中古英语 dissh、disch 传下，更早是拉丁 discus 经日耳曼语言的借词。与 disk、disc 等有词源联系，现代含义各自分工。",
+    "history": [
+      [
+        "拉丁 discus 盘 → 日耳曼借词 → 古英语 disc → dish",
+        "盘、碗等器皿"
+      ],
+      [
+        "器皿 → 内容物、菜肴",
+        "一盘东西 → 一道做好的菜；复数 dishes 还可统指待洗餐具"
+      ]
+    ],
+    "explanation": "a baking dish 烤盘，a rice dish 米饭菜肴，do the dishes 洗餐具，dish out the food 分食物；dish out criticism 也可比喻大加批评。a satellite dish 是碟形天线。",
+    "usage": "a baking dish；a rice dish；do the dishes；dish out。",
+    "contrast": "dish 作器皿名比 plate 范围宽，可有深度；作菜肴名则不是每次说盘子本身。",
+    "examples": [
+      [
+        "This dish is one of my grandmother’s recipes.",
+        "这道菜来自奶奶的食谱。"
+      ],
+      [
+        "I will do the dishes after dinner.",
+        "晚饭后我来洗餐具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dish#English"
+    ]
+  },
+  {
+    "word": "dishwasher",
+    "ipa": "英 /ˈdɪʃwɒʃə/；美 /ˈdɪʃwɑːʃər/",
+    "meaning": "洗碗机；洗碗工",
+    "sense": "洗餐具的人可以 dishwasher，替人自动清洗的机器也用同一名称。-er 在这里既能命名人，也能命名设备。",
+    "split": "dish + washer，washer 再拆 wash + -er。中古英语已有洗碗者的相应称呼，机器义是后来技术用途的扩展。",
+    "history": [
+      [
+        "拉丁 discus 盘 → 日耳曼借词 → 古英语 disc → dish",
+        "盘、碗等器皿"
+      ],
+      [
+        "器皿 → 内容物、菜肴",
+        "一盘东西 → 一道做好的菜；复数 dishes 还可统指待洗餐具"
+      ],
+      [
+        "dish + wash + -er → dishwasher",
+        "洗餐具者 → 自动洗餐具的机器"
+      ]
+    ],
+    "explanation": "load the dishwasher 把餐具装进洗碗机，empty the dishwasher 取出洗好的餐具，work as a dishwasher 当洗碗工。",
+    "usage": "load the dishwasher；empty the dishwasher；work as a dishwasher。",
+    "contrast": "dishwasher 看上下文判断人或机器；washing machine 日常通常说洗衣机，不能直接互换。",
+    "examples": [
+      [
+        "Please load the plates into the dishwasher.",
+        "请把盘子放进洗碗机。"
+      ],
+      [
+        "He worked as a dishwasher while studying.",
+        "他读书时做过洗碗工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dishwasher#English"
+    ]
+  },
+  {
+    "word": "dishwashing",
+    "ipa": "英 /ˈdɪʃwɒʃɪŋ/；美 /ˈdɪʃwɑːʃɪŋ/",
+    "meaning": "洗碗、洗餐具",
+    "sense": "把杯盘、餐具上的残渣油污洗掉，这项家务或工作叫 dishwashing。它说活动，不是执行者。",
+    "split": "dish + washing，washing 为 wash + -ing。中古英语已有相应组合，现代常作不可数活动名词，或放在用品前作修饰。",
+    "history": [
+      [
+        "拉丁 discus 盘 → 日耳曼借词 → 古英语 disc → dish",
+        "盘、碗等器皿"
+      ],
+      [
+        "器皿 → 内容物、菜肴",
+        "一盘东西 → 一道做好的菜；复数 dishes 还可统指待洗餐具"
+      ],
+      [
+        "dish + wash + -ing → dishwashing",
+        "清洗餐具的活动"
+      ]
+    ],
+    "explanation": "dishwashing liquid 洗洁精，dishwashing gloves 洗碗手套，share the dishwashing 分担洗餐具工作。",
+    "usage": "dishwashing liquid；dishwashing gloves。",
+    "contrast": "dishwashing liquid 不等于洗碗机专用清洁产品；产品用途由具体说明决定。dishwasher 是人、机器，dishwashing 是活动。",
+    "examples": [
+      [
+        "They take turns doing the dishwashing.",
+        "他们轮流洗餐具。"
+      ],
+      [
+        "She put on gloves before starting the dishwashing.",
+        "她开始洗餐具前戴上了手套。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dishwashing#English"
+    ]
+  },
+  {
+    "word": "utter",
+    "ipa": "英 /ˈʌtə/；美 /ˈʌtər/",
+    "meaning": "完全、十足的；说出、发出〔声音〕",
+    "sense": "an utter failure 是彻底失败，utter a word 是说出一个字。一个强调程度到头，一个把声音、想法放到外面，词性和句法不同。",
+    "split": "形容词承中古英语 outre、utter 等，上接古英语外部比较形式，与 outer 有历史联系。动词由相关外部词形及荷兰语、低地德语表达、显露形式等发展，并非两个现代义刚直接互变。",
+    "history": [
+      [
+        "古英语外部、在外的相关形式 → utter 形容词",
+        "最外、极端 → 完全、十足"
+      ],
+      [
+        "中古英语 utteren 等，亦受大陆日耳曼语影响",
+        "把东西显露、放出 → 说出、表达"
+      ]
+    ],
+    "explanation": "utter silence 一片寂静，utter nonsense 一派胡言，utter a word 说一个字，utter a cry 发出叫声。形容词常放在名词前。",
+    "usage": "utter silence；utter nonsense；utter a word。",
+    "contrast": "utter 形容词不宜照普通属性随意说 it is utter；通常说 utter confusion 等。utter 动词偏正式，未必是长篇讲话。",
+    "examples": [
+      [
+        "The room fell into utter silence.",
+        "房间陷入一片寂静。"
+      ],
+      [
+        "He left without uttering a word.",
+        "他一言不发地离开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/utter#English"
+    ]
+  },
+  {
+    "word": "utterly",
+    "ipa": "英 /ˈʌtəli/；美 /ˈʌtərli/",
+    "meaning": "完全、彻底地",
+    "sense": "把一个状态推到完全如此：utterly exhausted 累极了，utterly different 完全不同。它不是表示开口说话的方式。",
+    "split": "utter 形容词完全的 + -ly。派生选的是程度形容词支线，而非 utter 说出这个动词。",
+    "history": [
+      [
+        "古英语外部、在外的相关形式 → utter 形容词",
+        "最外、极端 → 完全、十足"
+      ],
+      [
+        "utter 形容词 + -ly → utterly",
+        "完全、十足的 → 完全、彻底地"
+      ]
+    ],
+    "explanation": "utterly exhausted 筋疲力尽，utterly impossible 完全不可能，utterly different 完全不同，utterly ridiculous 荒谬透顶。",
+    "usage": "utterly exhausted；utterly different；utterly ridiculous。",
+    "contrast": "utterly 是强程度副词，不像 very 那样在所有搭配都能替换。utterly exhausted 自然，utterly tall 则不是普通常用说法。",
+    "examples": [
+      [
+        "The two versions are utterly different.",
+        "这两个版本完全不同。"
+      ],
+      [
+        "After the long walk, we were utterly exhausted.",
+        "长途步行后，我们筋疲力尽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/utterly#English"
+    ]
+  },
+  {
+    "word": "utterance",
+    "ipa": "/ˈʌtərəns/",
+    "meaning": "说出、表达；一句话、一段实际说出的语段",
+    "sense": "一段话真从人嘴里说出来，是一次 utterance；也可把说出来的内容作为一个语段研究。它不要求总是完整长句。",
+    "split": "中古英语已有 utteraunce 等，现代对应 utter 动词 + -ance。-ance 命名行为、实例或相关能力，而不是接形容词彻底。",
+    "history": [
+      [
+        "中古英语 utteren 等，亦受大陆日耳曼语影响",
+        "把东西显露、放出 → 说出、表达"
+      ],
+      [
+        "utter 动词 + -ance → utterance",
+        "说出的行为；实际说出的一个语言片段"
+      ]
+    ],
+    "explanation": "a brief utterance 一句简短的话，every utterance 每一句话，give utterance to feelings 表达感受〔正式〕。语言学研究里可以分析一次实际发言。",
+    "usage": "a brief utterance；give utterance to。",
+    "contrast": "sentence 常看语法结构，utterance 常看实际使用的一次言语片段；一个回答 Yes. 也可构成 utterance。",
+    "examples": [
+      [
+        "Every utterance was recorded for the study.",
+        "研究录下了每一句发言。"
+      ],
+      [
+        "She gave utterance to feelings she had kept hidden.",
+        "她表达了藏在心里的感受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/utterance#English"
+    ]
+  },
+  {
+    "word": "clever",
+    "ipa": "英 /ˈklevə/；美 /ˈklevər/",
+    "meaning": "聪明、机灵的；巧妙的；手巧的",
+    "sense": "难题面前很快找到办法，或者设计让人一看就觉得巧，是 clever。早期偏手巧，现代也常说脑子灵、办法巧。",
+    "split": "联系英语方言 cliver 等擅长抓取、手巧形式；与荷兰语、弗里斯兰语等的关系有不同分析，不能把某个远源定为唯一事实。后来扩到智力、机巧。",
+    "history": [
+      [
+        "早期方言 cliver 等",
+        "手巧、擅长抓取等意义；更早来源有多种分析"
+      ],
+      [
+        "clever 的智力扩展",
+        "反应快、善用办法；点子巧妙"
+      ]
+    ],
+    "explanation": "a clever idea 巧妙点子，clever with your hands 手巧，a clever solution 巧妙解决法。too clever by half 可讽刺自作聪明。",
+    "usage": "a clever idea；a clever solution；clever with your hands。",
+    "contrast": "clever 强调聪明、机巧，不自动等于 wise 明智、有成熟判断。它也可能按语气带狡黠、自作聪明的评价。",
+    "examples": [
+      [
+        "That is a clever way to save space.",
+        "那是个节省空间的巧办法。"
+      ],
+      [
+        "She is clever with her hands and repairs old toys.",
+        "她手很巧，会修旧玩具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clever#English",
+      "https://www.etymonline.com/word/clever"
+    ]
+  },
+  {
+    "word": "cleverly",
+    "ipa": "英 /ˈklevəli/；美 /ˈklevərli/",
+    "meaning": "巧妙地、聪明地",
+    "sense": "办法安排得巧、东西藏得妙，用 cleverly 说明这个动作是怎样做成的。",
+    "split": "clever + -ly，形成方式副词。核心取聪明、机巧，不把某些旧地区义当现代通用意义。",
+    "history": [
+      [
+        "早期方言 cliver 等",
+        "手巧、擅长抓取等意义；更早来源有多种分析"
+      ],
+      [
+        "clever 的智力扩展",
+        "反应快、善用办法；点子巧妙"
+      ],
+      [
+        "clever + -ly → cleverly",
+        "以巧妙、聪明的方式"
+      ]
+    ],
+    "explanation": "cleverly designed 设计巧妙，cleverly hidden 藏得巧，cleverly arranged 安排巧妙。",
+    "usage": "cleverly designed；cleverly hidden。",
+    "contrast": "cleverly 说完成方式，不保证目的正当、结果公平；skillfully 更突出熟练技艺，cleverly 更容易突出巧办法。",
+    "examples": [
+      [
+        "The storage space is cleverly hidden under the stairs.",
+        "储物空间巧妙地藏在楼梯下。"
+      ],
+      [
+        "She cleverly turned the box into a small desk.",
+        "她巧妙地把盒子改成了一张小桌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cleverly#English"
+    ]
+  },
+  {
+    "word": "cleverness",
+    "ipa": "英 /ˈklevənəs/；美 /ˈklevərnəs/",
+    "meaning": "聪明、机巧；巧思",
+    "sense": "一个设计妙在哪里、一个人善于想办法，把这种性质单独谈，就是 cleverness。",
+    "split": "clever + -ness，将性质形容词转成名词。可谈人的聪明，也可谈作品的巧妙。",
+    "history": [
+      [
+        "早期方言 cliver 等",
+        "手巧、擅长抓取等意义；更早来源有多种分析"
+      ],
+      [
+        "clever 的智力扩展",
+        "反应快、善用办法；点子巧妙"
+      ],
+      [
+        "clever + -ness → cleverness",
+        "聪明、机巧的性质"
+      ]
+    ],
+    "explanation": "the cleverness of a design 设计的巧妙，admire someone’s cleverness 赞赏某人的聪明。",
+    "usage": "the cleverness of the design；admire the cleverness。",
+    "contrast": "cleverness 不等于 wisdom；巧思和成熟判断可以同时有，也可以分别不足。",
+    "examples": [
+      [
+        "I admired the cleverness of the folding mechanism.",
+        "我很欣赏折叠机构的巧思。"
+      ],
+      [
+        "The joke depends on verbal cleverness.",
+        "这个笑话靠的是语言上的机巧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cleverness#English"
+    ]
+  },
+  {
+    "word": "deliberate",
+    "ipa": "形容词 /dɪˈlɪbərət/；动词 /dɪˈlɪbəreɪt/",
+    "meaning": "故意的；慎重、从容的；仔细考虑、商议",
+    "sense": "把利弊放到脑中的天平上称一称，是 deliberate 动词。想过再做，也就发展出深思熟虑、故意的形容词；动作不仓促，又可说从容、缓慢。",
+    "split": "来自拉丁 dēlīberātus、dēlīberāre，联系 dē- 加强与 lībrāre 称量等词源分析，词形中还可能有邻近拉丁词影响。核心是充分权衡，不是简单去掉自由。",
+    "history": [
+      [
+        "拉丁 libra 天平、lībrāre 称量相关词",
+        "称量、使平衡"
+      ],
+      [
+        "dēlīberāre → dēlīberātus → deliberate",
+        "充分权衡 → 深思熟虑、故意；仔细考虑"
+      ]
+    ],
+    "explanation": "a deliberate choice 深思熟虑的选择，a deliberate lie 故意的谎言，deliberate movements 从容动作，deliberate on the options 仔细考虑选项。",
+    "usage": "a deliberate choice；deliberate movements；deliberate on。",
+    "contrast": "形容词尾 /ət/，动词尾 /eɪt/。故意不一定等于恶意，deliberate choice 可以中性；动作缓慢也不是反应迟钝的同义判断。",
+    "examples": [
+      [
+        "The omission was deliberate, not an accident.",
+        "遗漏是故意的，并非意外。"
+      ],
+      [
+        "The committee deliberated on the proposal for two hours.",
+        "委员会就提案仔细讨论了两小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deliberate#English",
+      "https://www.etymonline.com/word/deliberate"
+    ]
+  },
+  {
+    "word": "deliberately",
+    "ipa": "/dɪˈlɪbərətli/",
+    "meaning": "故意地；从容、谨慎地",
+    "sense": "知道自己在做什么、是有意而为，可以 deliberately；一步一步慎重、不急着做，也可以 deliberately。",
+    "split": "deliberate 形容词 + -ly。承接故意、慎重两条形容词用法，词尾不读成动词的 /eɪtli/。",
+    "history": [
+      [
+        "拉丁 libra 天平、lībrāre 称量相关词",
+        "称量、使平衡"
+      ],
+      [
+        "dēlīberāre → dēlīberātus → deliberate",
+        "充分权衡 → 深思熟虑、故意；仔细考虑"
+      ],
+      [
+        "deliberate 形容词 + -ly → deliberately",
+        "有意地；慢慢慎重地"
+      ]
+    ],
+    "explanation": "deliberately ignore 故意忽略，speak slowly and deliberately 缓慢而审慎地说，deliberately choose 有意识地选择。",
+    "usage": "deliberately ignore；slowly and deliberately。",
+    "contrast": "deliberately does not always mean slowly：故意忽略可以做得很快。只有从容、审慎这一支才把速度、方式放到前面。",
+    "examples": [
+      [
+        "She deliberately left her phone at home.",
+        "她故意把手机留在家里。"
+      ],
+      [
+        "He spoke slowly and deliberately.",
+        "他说得缓慢而审慎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deliberately#English"
+    ]
+  },
+  {
+    "word": "deliberation",
+    "ipa": "/dɪˌlɪbəˈreɪʃən/",
+    "meaning": "深思熟虑、权衡；慎重商议",
+    "sense": "把赞成、反对、后果摆出来，认真考虑再决定，这个过程是 deliberation。多人一起做，就可以是慎重商议。",
+    "split": "经法语 deliberation、拉丁 deliberātiō 传入；现代可对应 deliberate + -ion。名词选择权衡、讨论支线，不是每次表示故意。",
+    "history": [
+      [
+        "拉丁 libra 天平、lībrāre 称量相关词",
+        "称量、使平衡"
+      ],
+      [
+        "dēlīberāre → dēlīberātus → deliberate",
+        "充分权衡 → 深思熟虑、故意；仔细考虑"
+      ],
+      [
+        "deliberātiō → 法语、英语 deliberation",
+        "权衡、慎重商议的过程"
+      ]
+    ],
+    "explanation": "after careful deliberation 深思熟虑后，the jury’s deliberations 陪审团商议，with deliberation 慎重地、从容地。",
+    "usage": "after careful deliberation；lengthy deliberations。",
+    "contrast": "deliberation 常说考虑、商议，deliberateness 则更直接命名有意、从容等性质。不能只按中文故意套给所有派生词。",
+    "examples": [
+      [
+        "After careful deliberation, they chose the smaller house.",
+        "深思熟虑后，他们选了较小的房子。"
+      ],
+      [
+        "The board’s deliberations continued into the evening.",
+        "董事会的商议一直持续到晚上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deliberation#English",
+      "https://www.etymonline.com/word/deliberate"
+    ]
+  }
+]

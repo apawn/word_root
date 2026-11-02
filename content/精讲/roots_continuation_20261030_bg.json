@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3109",
+    "meaning": "流动、顺畅；流入、流出和超出边缘",
+    "core": "FLOW：连续往前流；边界方向和容量分别看",
+    "image": "flow → flowing；inflow/outflow 按方向对照，overflow 按容量超出；workflow、airflow 共享。",
+    "intro": "原自动词族里的 flower 花是误归组，本页排除。flowing 与 flowering 也不能只看相近拼写互推。",
+    "forms": "flow + -ing；in-/out-/over- + flow；work/air + flow。\n\n古英语 flowan 的本族流动动词，三单或名词复数 s。",
+    "branches": [
+      [
+        "基本流动与连贯",
+        "flow · flowing"
+      ],
+      [
+        "方向和容量",
+        "inflow · outflow · overflow"
+      ],
+      [
+        "具体流动过程",
+        "workflow · airflow"
+      ],
+      [
+        "flow → flows：不断从一处移向另一处",
+        "flow · flows"
+      ]
+    ],
+    "contrasts": "inflow/outflow 依参照边界；outflow 不等于泄漏；overflow 超容量；flower 不来自 flow。",
+    "practice": "The inflow exceeded the outflow, and the tank began to overflow.\n\n流入量超过流出量，水箱开始溢水。",
+    "words": [
+      "flow",
+      "flowing",
+      "inflow",
+      "outflow",
+      "overflow",
+      "workflow",
+      "airflow",
+      "flows"
+    ],
+    "exclude": {
+      "off-flow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flower": "花义及其动词来自 flower 名词，接法语、拉丁花词，不是 flow + -er。",
+      "flowy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3013",
+    "meaning": "烹调与厨师、器具；cookie 单作形似辨析",
+    "core": "COOK：做饭、做饭的人；COOKIE 不能硬拆进来",
+    "image": "cook → cooking、cooker、cookery、cookware；cookbook 共享，cookout 户外，overcook 过度；cookie 明确是不同来源的辨析参照。",
+    "intro": "烹调词系很早借入，后缀有活动、人、器具区别。cookie 源自荷兰小饼词，不为了凑词族把拼写相近当同源。",
+    "forms": "cook + -ing/-er/-ery/-ware/book/out；over- + cook；另源 Dutch koek 小称 → cookie。\n\n荷兰语 koekie、koekje 小糕饼借入，现代 cookie 保留 ie 直接加 s；技术义接 magic cookie 等旧用法。\n\ncook 接拉丁烹调材料，biscuit 接烤两次，apricot 较远通常接早熟果，precocious 接早熟。它们走不同借入路线，不是由现代英语 cook 现场派生。\n\ncook 名词经古英语 coc 远接拉丁 coquus、coquere 烹煮；现代动词有由人名词重新形成的历史。加 -s，/k/ 后读 /s/，名词复数与第三人称同形。",
+    "branches": [
+      [
+        "动作、活动、器具和手艺",
+        "cook · cooking · cooker · cookery · cookware · cookbook"
+      ],
+      [
+        "户外聚会与煮过头",
+        "cookout · overcook"
+      ],
+      [
+        "形似辨析：不是 cook 后代",
+        "cookie"
+      ],
+      [
+        "cookie → cookies：小糕饼与计算机数据名称",
+        "cookie · cookies"
+      ],
+      [
+        "熟、烹调词族的不同借词：cook、biscuit、apricot、precocious",
+        "cook · biscuit · biscuits · apricot · apricots · precocious"
+      ],
+      [
+        "拉丁 cook 词族 → cooks：厨师与烹调",
+        "cooks"
+      ]
+    ],
+    "contrasts": "cook 人、cooker 器具；cookware 炊具、tableware 餐具；cookout 现场户外做饭、picnic 可带现成食物；cookie 不能 cook+-ie。",
+    "practice": "The cook checked the cooker and cookware before the cookout.\n\n厨师在户外聚餐前检查了炉灶和锅具。",
+    "words": [
+      "cook",
+      "cooking",
+      "cooker",
+      "cookery",
+      "cookware",
+      "cookbook",
+      "cookout",
+      "overcook",
+      "cookie",
+      "cookies",
+      "biscuit",
+      "biscuits",
+      "apricot",
+      "apricots",
+      "precocious",
+      "cooks"
+    ],
+    "exclude": {
+      "cook-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

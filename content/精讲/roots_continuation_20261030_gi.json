@@ -1,0 +1,120 @@
+[
+  {
+    "id": "B4254",
+    "meaning": "圈外、外表、从外部而来",
+    "core": "EXTERNAL：先划定范围，再判断什么在外面",
+    "image": "external 外部的 → externally 从外部、就外表而言 → externality 外部性质、经济学外部性。",
+    "intro": "外部总是相对于一个范围：公司之外未必国家之外。externality 则把视线移到活动旁边，看看谁没参与却受到了影响。",
+    "forms": "exter/externus → external；external + -ly/-ity。",
+    "branches": [
+      [
+        "外部关系与观察位置",
+        "external · externally"
+      ],
+      [
+        "溢到第三方的影响",
+        "externality"
+      ]
+    ],
+    "contrasts": "external/foreign 外部不必外国；externally 不一定向外；externality 可好可坏。",
+    "practice": "An externally funded study examined the factory’s negative externalities.\n\n一项由外部资助的研究考察了工厂的负外部性。",
+    "words": [
+      "external",
+      "externally",
+      "externality"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4294",
+    "meaning": "欢庆表演的历史，现代喜剧的类型与效果",
+    "core": "COMEDY：让人发笑的表演，也有历史上的圆满结局义",
+    "image": "comedy 类型、作品 → comedic 相关本领、效果；comedienne 传统女性演员称呼。",
+    "intro": "先分作品、性质、演员三个位置。早期喜剧传统和今天的笑点有联系，但并不是每个历史 Comedy 标题都等于现代搞笑作品。",
+    "forms": "kōmos 与歌唱材料 → kōmōidia → cōmoedia/comédie → comedy；comedic 形容词；comédienne 借入人物名。\n\n共享希腊欢庆表演材料，但各英语词有自己的借入或派生历史，不把 comic 说成剪短 comedy。\n\n和 comic 比较漫画，不从希腊喜剧词根派生。manga 借日语漫画，man 漫、自由不拘一类材料 + ga 画；日语内部的旧用法不等于英语里才新造。",
+    "branches": [
+      [
+        "作品与效果",
+        "comedy · comedic"
+      ],
+      [
+        "演员称呼",
+        "comedienne"
+      ],
+      [
+        "comedy／comic／comical：喜剧、漫画与滑稽效果",
+        "comedy · comic · comics · comical"
+      ],
+      [
+        "manga：日语漫画名称进入英语",
+        "manga"
+      ]
+    ],
+    "contrasts": "comedy/joke 类型或作品与一条笑话；comedic/comic 常重叠；comedian 可泛指不同性别演员。",
+    "practice": "The comedienne’s comedic timing lifted the whole comedy.\n\n这位女喜剧演员对节奏的把握，让整部喜剧更加出彩。",
+    "words": [
+      "comedy",
+      "comedic",
+      "comedienne",
+      "comic",
+      "comics",
+      "comical",
+      "manga"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3641",
+    "meaning": "迅速抓住；抓人注意；抓着较劲",
+    "core": "GRAB：先伸手拿住，再看抓住的是东西还是注意",
+    "image": "grab → grabber 抓取的人或物 → grabby 爱抓抢的；grapple 抓握、抓钩历史交汇，现代常说与难题较劲。",
+    "intro": "抓咖啡是日常赶紧取用，抓注意是比喻。grapple 与 grab 的画面相近，但它的历史路线更复杂，不能只按现代字母硬拼。",
+    "forms": "grabben 等 → grab；grab + -er/-y 双写 b；grapple 有抓钩借词与抓握动词材料的交汇。\n\ngrasp 可能由 grapsen 换位，grab 经荷兰语、低地德语材料进入；同族对照，不当作现代自由互换字母。\n\n荷兰、低地德语抓取材料的具体路线有不同说法，现代双写 b 加完整 ed。\n\ngrasp 可能由较早 grapsen 音位换位，联系 grab 的抓取材料；grasping 贪婪形容词记录很早，不把它当现代理解义之后才出现。\n\ngrab 接中古荷兰语、低地德语 grabben 等抓取材料。现代双写 b 加 -ing，可说突然抓取、赶快拿到、吸引注意等。\n\ngrab 接荷兰语、低地德语 grabben 抓取词族。现代加 -s，/b/ 后读 /z/，动词抓取、吸引与 up for grabs 固定表达一起学。",
+    "branches": [
+      [
+        "基本动作和派生",
+        "grab · grabber · grabby"
+      ],
+      [
+        "抓住后较劲",
+        "grapple"
+      ],
+      [
+        "grab 与 grasp：相关日耳曼抓取材料的不同传承",
+        "grab · grasp"
+      ],
+      [
+        "grab → grabbed：一下抓住；顺手拿、引起注意",
+        "grab · grabbed"
+      ],
+      [
+        "grasp 的实物抓握、理解与贪抓",
+        "grab · grasp · grasps · grasped · grasping"
+      ],
+      [
+        "抓取 → grab → grabbing",
+        "grabbing"
+      ],
+      [
+        "grab → grabs：抓住与可供争取",
+        "grabs"
+      ]
+    ],
+    "contrasts": "grab/take 快速抓与一般取；grabby/grubby 爱抢与脏；grapple with/solve 费力应对与已经解决。",
+    "practice": "The headline grabbed our attention, but the article grappled with a serious problem.\n\n标题抓住了我们的注意，文章则认真探讨了一个难题。",
+    "words": [
+      "grab",
+      "grabber",
+      "grabby",
+      "grapple",
+      "grasp",
+      "grabbed",
+      "grasps",
+      "grasped",
+      "grasping",
+      "grabbing",
+      "grabs"
+    ],
+    "exclude": {}
+  }
+]

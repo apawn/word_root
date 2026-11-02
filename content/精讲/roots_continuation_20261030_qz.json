@@ -1,0 +1,128 @@
+[
+  {
+    "id": "B2692",
+    "meaning": "怎样、如何；方式和程度",
+    "core": "HOW：问的是怎么做、怎样了、多到什么程度",
+    "image": "同一扇门：what 问这是什么门，how 问怎么打开；somehow 则说办法讲不清，但总算打开了。",
+    "intro": "how 从古英语 hū 延续，和其他疑问词有古老的共同材料，但今天是完整词。扩展时，some 留下一个未说明的方式，any 放开方式，ever 可加强不受限制或疑问语气。",
+    "forms": "some + how → somehow；any + how → anyhow；how + ever → however。形式相近不等于语气相同；这页先抓方法、状态和程度。",
+    "branches": [
+      [
+        "基础问法",
+        "how"
+      ],
+      [
+        "方式没有具体说明",
+        "somehow"
+      ],
+      [
+        "不挑方式或胡乱来",
+        "anyhow"
+      ],
+      [
+        "既有常见扩展",
+        "however"
+      ]
+    ],
+    "contrasts": "somehow 不等于 sometimes；anyhow 不必然是靠运气；how long、how soon、how often 分别偏时长、等待时间、频率。",
+    "practice": "How did you move the sofa? Somehow, we got it through the doorway.\n\n你们怎么搬动沙发的？我们总算想办法把它搬过了门口。",
+    "words": [
+      "how",
+      "somehow",
+      "anyhow",
+      "however"
+    ],
+    "exclude": {
+      "how-to": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2634",
+    "meaning": "任何；疑问或否定中的不定数量、对象",
+    "core": "ANY：先不指定哪一个，再看句子有没有否定",
+    "image": "Any cup is fine 随便哪只杯子都行；I don’t have any cups 则是杯子一只也没有。否定来自整个结构。",
+    "intro": "any 的古英语材料与 one 相关，但现代是完整的不定词。它把选择范围打开，和不同的名词、地点词、方式词组合，分别落到人、物、地点、时间等范围。",
+    "forms": "any + one／body → anyone／anybody；any + thing → anything；any + where／place → anywhere／anyplace；any + time／way／how 形成相应扩展。\n\nanyways 有 any way、any ways 的旧副词结构背景，末尾 -s 是历史副词属格材料，不是把现代 anyway 数成好几个的复数。",
+    "branches": [
+      [
+        "基本选择范围",
+        "any"
+      ],
+      [
+        "人和东西",
+        "anyone · anybody · anything"
+      ],
+      [
+        "地点",
+        "anywhere · anyplace"
+      ],
+      [
+        "时间与方式",
+        "anytime · anyway · anyhow"
+      ],
+      [
+        "any、way → anyways：不管怎样、回到正题",
+        "anyways"
+      ]
+    ],
+    "contrasts": "anyone 与 any one 分别看人物代词与任意一个；anyplace 偏美式口语；any 可以出现在肯定句，关键看它是在表示任意选择还是不定数量。",
+    "practice": "Anyone can choose any seat, and bags can go anywhere under the table.\n\n任何人都可以随便选座位，包可以放在桌子下面任何地方。",
+    "words": [
+      "any",
+      "anyone",
+      "anybody",
+      "anything",
+      "anywhere",
+      "anyplace",
+      "anytime",
+      "anyway",
+      "anyhow",
+      "anyways"
+    ],
+    "exclude": {
+      "anywho": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2815",
+    "meaning": "那里；指回已经说过的地点、事件或文本",
+    "core": "THERE：先指向那儿，再指回那件事",
+    "image": "therein 像指进刚说的文件里面；thereafter 指回那件事之后；thereby 则指通过那种做法。",
+    "intro": "there 从古英语地点指示词延续，也很早用于引出存在事物。与介词或相应副词材料结合后，常把具体地点扩展为前文中的事、时间、文件。",
+    "forms": "there + in → therein；there + by → thereby；there + after → thereafter；there + upon → thereupon。不能只记成几个都表示“然后”的长词。",
+    "branches": [
+      [
+        "基本指示与存在结构",
+        "there"
+      ],
+      [
+        "指入前述内容",
+        "therein"
+      ],
+      [
+        "通过前事产生联系",
+        "thereby"
+      ],
+      [
+        "前事之后的时间与反应",
+        "thereafter · thereupon"
+      ]
+    ],
+    "contrasts": "thereby 是方式或结果关系；thereafter 是时间关系；thereupon 常紧接行动或反应；therein 可指抽象的问题所在。正式词不必硬塞进日常聊天。",
+    "practice": "The guide lists the steps; the examples therein show how to follow them.\n\n指南列出了步骤，其中的例子展示了怎样操作。",
+    "words": [
+      "there",
+      "therein",
+      "thereby",
+      "thereafter",
+      "thereupon"
+    ],
+    "exclude": {
+      "thereto": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thereon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "therewith": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "therefrom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thereunder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

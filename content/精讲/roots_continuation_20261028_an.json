@@ -1,0 +1,266 @@
+[
+  {
+    "id": "B2532",
+    "meaning": "整体、一般、普遍",
+    "core": "GENERAL：先看一整类的大样子",
+    "image": "镜头拉远，看整体轮廓，再决定能不能把个别经验推广。",
+    "intro": "general 经法语上接拉丁 generālis，与 genus“种类”有关。普遍、概括、通才共享范围较广的意思；将军义接统管全局的职位背景。",
+    "forms": "general → generally；general → generalize → generalization；general → generalist。\n\ngeneral 接拉丁 generalis 整类的，来自 genus 种类；总指挥的职位称呼缩短成 general。现代复数 -s，形容词 general 不随名词复数变化。",
+    "branches": [
+      [
+        "总体与通常情况",
+        "general · generally"
+      ],
+      [
+        "概括与结论",
+        "generalize · generalization"
+      ],
+      [
+        "知识工作范围",
+        "generalist"
+      ],
+      [
+        "general 总体的 → generals 将军",
+        "generals"
+      ]
+    ],
+    "contrasts": "general 不等于 every；generalize 不等于 summarize；generalist 与 specialist 按范围和专深方向区分。",
+    "practice": "Generally, a generalist can connect ideas across fields, but we should not generalize from one person.\n\n通常通才能联系不同领域的想法，但不能只凭一个人就作普遍判断。",
+    "words": [
+      "general",
+      "generally",
+      "generalize",
+      "generalization",
+      "generalist",
+      "generals"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3574",
+    "meaning": "实际、真实存在",
+    "core": "ACTUAL：把设想对上真正发生的事",
+    "image": "估计表写一百，结账是八十；actual cost 看结账的八十。",
+    "intro": "actual 经法语接晚期拉丁 actuālis，上接 actus、agere 的行动词族。今天重点抓真实、实际，不按同形法语硬译成当前。",
+    "forms": "actual → actually；actual → actuality。",
+    "branches": [
+      [
+        "真实的情况",
+        "actual"
+      ],
+      [
+        "说清实情",
+        "actually"
+      ],
+      [
+        "实际存在的状态",
+        "actuality"
+      ]
+    ],
+    "contrasts": "actual 实际，current 当前；actually 其实，currently 目前；actuality 比日常 reality 更正式。",
+    "practice": "The actual result was better than expected; actually, it was our best result so far.\n\n实际结果比预期好；其实，这还是我们迄今最好的成绩。",
+    "words": [
+      "actual",
+      "actually",
+      "actuality"
+    ],
+    "exclude": {
+      "actualize": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3174",
+    "meaning": "突然动起；开始、启动",
+    "core": "START：从静止或尚未进行，到突然动起来",
+    "image": "人惊跳、车发动、计划开工，都抓住开始动的那一下。",
+    "intro": "start 接古英语 styrtan、经中古英语 sterten 的跃起、冲出义。startle 有相关古英语形式，保留突然惊动的感觉，不能只按现代开始义硬拆。",
+    "forms": "start → starter、restart、startup；upstart 调换构词方向，另成冒头者；startle → startling。\n\nstart 原有突然跃起的动作义；started 的词尾增加 /ɪd/ 一个音节。\n\nstarting 不双写末尾 t；starting point 是起点，starting to do 可说开始做。\n\n突然一动的早期画面，发展到活动开始。\n\nrestart 是 re 加 start；startup 来自 start up，不把两种构词次序混为一条。",
+    "branches": [
+      [
+        "开始与启动",
+        "start · starter · restart · startup"
+      ],
+      [
+        "突然崛起的人",
+        "upstart"
+      ],
+      [
+        "受惊动作与引发惊讶",
+        "startle · startling"
+      ],
+      [
+        "start → started：开始、启动了",
+        "start · started"
+      ],
+      [
+        "start → started／starting：开始的过去与进行形式",
+        "start · starting"
+      ],
+      [
+        "start → starts：启动与起点",
+        "start · starts"
+      ],
+      [
+        "restart 的重新起步与 startup 的起步名词",
+        "restart · restarts · restarted · restarting · startup · startups"
+      ]
+    ],
+    "contrasts": "startup 初创企业，upstart 常带轻视；restart 重启，reset 重设；startled 人受惊，startling 事物令人吃惊。",
+    "practice": "The startup restarted the test after a startling noise startled everyone.\n\n一阵惊人的响声把大家吓了一跳后，这家初创公司重新开始测试。",
+    "words": [
+      "start",
+      "starter",
+      "restart",
+      "startup",
+      "upstart",
+      "startle",
+      "startling",
+      "started",
+      "starting",
+      "starts",
+      "restarts",
+      "restarted",
+      "restarting",
+      "startups"
+    ],
+    "exclude": {
+      "multi-start": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2778",
+    "meaning": "失去、丢失、输",
+    "core": "LOSE：原来有的没保住，原来想赢的没赢到",
+    "image": "手里少了钥匙、比分落在后面、兴趣慢慢消退，用法不同但都能看见失去。",
+    "intro": "lose 接古英语 losian；loss 接相关名词 los。两词是历史相关形式，不是现代 lose 再加 -ss。lost 是过去、分词形，losing 说过程。",
+    "forms": "lose → lost、losing → loser；loss 并列说明相应名词。\n\n本族失去词延续，可数事件与不可数总体分开。\n\n古英语 losian 的本族丢失词，现代原形 z，三单多一个 iz 音节。\n\nlose 去末尾 e，加完整 -er 人，再加 -s。现代可以中性说败者、受损者，也可作侮辱性评价；注意 lose 的 /z/ 和 loose 的 /s/ 不同。",
+    "branches": [
+      [
+        "动作与结果、过程",
+        "lose · lost · losing"
+      ],
+      [
+        "人和失去本身",
+        "loser · loss"
+      ],
+      [
+        "loss → losses：失去、损失与落败",
+        "loss · losses"
+      ],
+      [
+        "lose → loses：失去、没能保住",
+        "lose · loses · lost"
+      ],
+      [
+        "lose → loser → losers",
+        "losers"
+      ]
+    ],
+    "contrasts": "lose /luːz/，loose /luːs/；loser 人，loss 事情；good loser 是输得起。",
+    "practice": "We lost the game, but the loss did not stop us from trying again.\n\n我们输了比赛，但这次失利没有让我们放弃再试。",
+    "words": [
+      "lose",
+      "lost",
+      "losing",
+      "loser",
+      "loss",
+      "losses",
+      "loses",
+      "losers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3190",
+    "meaning": "成组、聚在一起",
+    "core": "GROUP：把一圈人或东西看作一组",
+    "image": "从结成一团的物体，到一群人、乐队，再到自己人和圈外人。",
+    "intro": "group 经法语 groupe 上接意大利语 gruppo、groppo。grouper 石斑鱼的名称另接葡萄牙语 garoupa，不归这里的 group + -er；很专门的数学、遗传学复合词暂缓。",
+    "forms": "group → groupie；ingroup ↔ outgroup 放一起；newsgroup 属网络讨论分支。已精讲的 subgroup 等保留相邻。\n\ngroup 经法语接意大利语 gruppo／groppo 结、团块；groups 可作复数，也可作分组的动词。\n\n与 group 比较群体，不由 group 派生。经法语 brigade 接意大利 brigata 队伍、brigare 争斗等材料，较远可能凯尔特或日耳曼语，尚不确定；fire brigade 是消防队。",
+    "branches": [
+      [
+        "基本分组与音乐追随",
+        "group · groupie"
+      ],
+      [
+        "归属视角",
+        "ingroup · outgroup"
+      ],
+      [
+        "网络讨论及既有复合词",
+        "newsgroup · subgroup · supergroup · intergroup · playgroup · groupthink · workgroup"
+      ],
+      [
+        "group → groups：成组的整体；把东西归类",
+        "group · groups"
+      ],
+      [
+        "brigade：另源的旅、成队群体",
+        "brigade · brigades"
+      ]
+    ],
+    "contrasts": "group 不一定是 team；groupie 不等于所有 fan；ingroup / outgroup 标认同边界，不按善恶分。",
+    "practice": "The group discussed how ingroup loyalty could affect attitudes toward an outgroup.\n\n小组讨论了对自己群体的忠诚如何影响对外群体的态度。",
+    "words": [
+      "group",
+      "groupie",
+      "ingroup",
+      "outgroup",
+      "newsgroup",
+      "subgroup",
+      "supergroup",
+      "intergroup",
+      "playgroup",
+      "groupthink",
+      "workgroup",
+      "groups",
+      "brigade",
+      "brigades"
+    ],
+    "exclude": {
+      "e-group": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grouper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "haplogroup": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semigroup": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2731",
+    "meaning": "坏、不好；严重、强悍等语境扩展",
+    "core": "BAD：东西、处境或行为没达到好的期待",
+    "image": "坏天气、坏品行、变质食物都叫 bad；先看评价对象，再选中文。",
+    "intro": "bad 可追到中古英语 bad、badde，更早来源不确定。比较级 worse、最高级 worst 属另一历史词干；不强造一个看似完整的故事。",
+    "forms": "bad → badly、badness；bad → baddie；bad + ass → badass 有口语态度转变。\n\n现代 bad—worse—worst 配成一组，但 worse、worst 继承不同于 bad 的更早词干；不是给 bad 普通加后缀得到。",
+    "branches": [
+      [
+        "基本评价与程度",
+        "bad · badly · badness"
+      ],
+      [
+        "故事人物与口语人物评价",
+        "baddie · badass · superbad"
+      ],
+      [
+        "bad 的不规则比较：worse 与 worst",
+        "bad · worse · worst"
+      ]
+    ],
+    "contrasts": "badly need 是急需；baddie 常指反派，badass 可能是夸强悍；粗俗与否和褒贬是两回事。",
+    "practice": "The baddie behaved badly, but the actor gave an impressive performance.\n\n反派行为恶劣，演员的表演却很出色。",
+    "words": [
+      "bad",
+      "badly",
+      "badness",
+      "baddie",
+      "badass",
+      "superbad",
+      "worse",
+      "worst"
+    ],
+    "exclude": {
+      "bad-looking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bad-jacket": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "badman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "id": "B3583",
+    "meaning": "新郎；照料、梳理、培养等动作和人物",
+    "core": "GROOM：照料、准备这一路，与婚礼称呼那一路",
+    "image": "马夫把马打理好，人在镜前打理自己，机构培养下一任负责人，是照料、准备的扩展；新郎义另从 bridegroom 缩短。",
+    "intro": "中古英语 groom 的男孩、侍从材料远源未定；马夫义再带出梳理动词。bridegroom 原含古英语 guma 男人，后来词尾受 groom 影响；groom 新郎义又从整词缩短。",
+    "forms": "bride + guma → 早期 bridegome → bridegroom → groom〔新郎〕；groom〔侍从、马夫〕→ groom〔打理、准备〕→ groomer、grooming。",
+    "branches": [
+      [
+        "婚礼人物的旧复合与缩短",
+        "bride · bridegroom · groom〔新郎〕；groomsman〔伴郎〕"
+      ],
+      [
+        "照料、外表与任职准备",
+        "groom〔动词〕· grooming"
+      ],
+      [
+        "执行相应行为的人",
+        "groomer"
+      ]
+    ],
+    "contrasts": "宠物洗护、培养任职与伤害性诱骗选不同动词义；bridegroom 里的旧 guma 也不是现代马夫职业的原始名称。",
+    "practice": "The groom thanked the friends who helped him prepare for the wedding.\n\n新郎感谢了帮他筹备婚礼的朋友。",
+    "words": [
+      "bride",
+      "bridegroom",
+      "groom",
+      "groomsman",
+      "groomer",
+      "grooming"
+    ],
+    "exclude": {
+      "groom-to-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3826",
+    "meaning": "针刺、刺痛；针脚、缝合及拼接",
+    "core": "STITCH：一个针刺点，连成缝接的一条线",
+    "image": "一次针穿留下针脚，多次针穿把布接起来；照片拼接借缝接画面，in stitches 又借笑到肚子痛的感觉。",
+    "intro": "stitch 接古英语 stice 刺、刺痛等，与 stick 的刺入词族有关。针脚、身体侧腹刺痛与后来的拼接、笑得肚子痛表达分别发展。",
+    "forms": "stitch 作名词、动词；stitch together 说把部分拼接起来，stitch up 说缝合或其他固定短语义。词末 -tch 是 /tʃ/ 的拼写部分，不拆成一个独立后缀。\n\n针刺、针脚材料与 stick 的刺入词族有关；规则 s、ed、ing 分开读。",
+    "branches": [
+      [
+        "针脚和缝合",
+        "stitch"
+      ],
+      [
+        "拼接材料、图像",
+        "stitch together"
+      ],
+      [
+        "刺痛与大笑习语",
+        "a stitch in the side；in stitches"
+      ],
+      [
+        "stitch → stitches、stitched、stitching：一针到缝接",
+        "stitch · stitches · stitched · stitching"
+      ]
+    ],
+    "contrasts": "sew 是更通用的缝纫动作词；stitch 可强调针脚，也能比喻拼接图像；in stitches 不要求真的进行缝纫。",
+    "practice": "The software stitched the pictures together while the funny story kept us in stitches.\n\n软件在拼接照片，那个有趣的故事则让我们笑得肚子痛。",
+    "words": [
+      "stitch",
+      "stitches",
+      "stitched",
+      "stitching"
+    ],
+    "exclude": {
+      "stitch-up": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-stitch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stitcher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4195",
+    "meaning": "朗姆酒；古怪的形容词；近形牌名辨析",
+    "core": "RUM：酒名与古怪形容词，要按搭配选义",
+    "image": "rum cake 取酒味，a rum fellow 取古怪；rummy 的牌名则不能只靠相同字母就认定为喝酒的游戏。",
+    "intro": "酒名可能从 rumbullion 等早期名称缩短，来源细节未定；形容词有旧俚语好、贵重到后来古怪等用法，具体历史关系也有争论。",
+    "forms": "rum 可作酒名或形容词；rummy 的部分形容词可按 rum + -y 理解，纸牌名 rummy 的准确来源则未定。这里把相近词并列辨析，不强画成一条父子演化线。",
+    "branches": [
+      [
+        "饮品与风味名称",
+        "rum〔朗姆酒〕"
+      ],
+      [
+        "较旧口语性质",
+        "rum〔古怪〕"
+      ],
+      [
+        "形近、来源尚不确定的牌名",
+        "rummy"
+      ]
+    ],
+    "contrasts": "喝的 rum 与 rummy 牌名不能一律作同一词义；名词作修饰语、真正形容词在不同完整搭配中分开读。",
+    "practice": "They played rummy while sharing a cake flavoured with rum.\n\n他们一边玩拉米纸牌，一边分吃朗姆风味蛋糕。",
+    "words": [
+      "rum",
+      "rummy"
+    ],
+    "exclude": {
+      "rum-runner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3131",
+    "meaning": "楔子、楔形物；楔入、挤住与造成隔阂",
+    "core": "WEDGE：薄端进缝，厚端把两边撑开",
+    "image": "木楔能固定门，一角奶酪有楔形；在朋友间塞进隔阂，也像用楔子把两边撑开。",
+    "intro": "wedge 从古英语 wecg、中古英语 wegge 等延续，属于日耳曼语词族，远源未定。名词转动词，再扩到形状、空间挤入与人际分隔。",
+    "forms": "wedge 名词 → wedge 动词；wedge + -ie → wedgie，口语名称在鞋形、衣物卡入等方面形成不同用法。",
+    "branches": [
+      [
+        "工具、切块与楔入动作",
+        "wedge"
+      ],
+      [
+        "隔开人际关系的比喻",
+        "drive a wedge between"
+      ],
+      [
+        "衣物相关的固定口语名词",
+        "wedgie"
+      ]
+    ],
+    "contrasts": "edge 边缘与 wedge 楔子不同；wedgie 是固定口语，不是对所有三角形物体的通用昵称。",
+    "practice": "The disagreement drove a wedge between the neighbours.\n\n那次分歧让邻居之间产生了隔阂。",
+    "words": [
+      "wedge",
+      "wedgie"
+    ],
+    "exclude": {
+      "wedge-writing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2719",
+    "meaning": "榛树、榛木；榛子及其颜色关系",
+    "core": "HAZEL：先认树，再认果实与色名",
+    "image": "hazel 是树，hazelnut 是它的果实；hazel eyes 则把榛子等颜色借到眼睛色调上。",
+    "intro": "hazel 继承古英语 hæsl、hæsel，接更早日耳曼语植物名；hazelnut 也有早期英语对应复合，颜色义后来由果实颜色扩展。",
+    "forms": "hazel + nut → hazelnut；hazel 可直接作色名、修饰语。果实名词、植物名词、颜色性质按对象区分。",
+    "branches": [
+      [
+        "植物名称",
+        "hazel"
+      ],
+      [
+        "结出的果实",
+        "hazelnut"
+      ],
+      [
+        "眼睛等的综合色调",
+        "hazel〔颜色〕"
+      ]
+    ],
+    "contrasts": "hazel eyes 是综合色名，不是单一固定色号；hazel 与 hassle 读音不同，不能凭相近拼写互换。",
+    "practice": "Hazelnuts grow on the hazel tree beside the path.\n\n小路旁的榛树上结着榛子。",
+    "words": [
+      "hazel",
+      "hazelnut"
+    ],
+    "exclude": {
+      "hazelwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4006",
+    "meaning": "大包、打捆；另有灾祸旧词与 baleful",
+    "core": "BALE：把材料扎成包，与旧灾祸词分开看",
+    "image": "hay bale 是一捆干草；baleful stare 是凶恶目光。读到后者，要切换到旧的灾祸词族。",
+    "intro": "大包义由法语接日耳曼语球、团材料；灾祸义继承古英语 bealu。两条词源在现代拼写重合，baleful 保留后一条。",
+    "forms": "bale〔包〕名词 → bale〔打捆〕动词；旧 bale〔灾祸〕+ -ful → baleful。后缀只接到所选分支，不把同形词的所有义都带进去。",
+    "branches": [
+      [
+        "储运中的包与动作",
+        "bale"
+      ],
+      [
+        "旧灾祸、恶害性质",
+        "baleful"
+      ]
+    ],
+    "contrasts": "bundle 比 bale 范围更广；baleful 的 -ful 接旧的恶害材料，不能用现代打捆动词来猜。",
+    "practice": "The guard gave a baleful look toward the stacked bales.\n\n守卫朝堆起的大包投去凶恶的一瞥。",
+    "words": [
+      "bale",
+      "baleful"
+    ],
+    "exclude": {
+      "baler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

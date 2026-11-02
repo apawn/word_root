@@ -1,0 +1,78 @@
+[
+  {
+    "id": "B3850",
+    "meaning": "装载、数据传送与负担数量",
+    "core": "LOAD：让某物承担内容，再看装入、移出与多少",
+    "image": "load、loaded、loader 紧邻，再按上传下载、重装卸下分动作，truckload、caseload、boatload 分量的对象。",
+    "intro": "历史接行程、运送词，负荷义后来发展；数字 load 借装入可用位置的画面。用户要求先略非常生僻、粗俗扩展，本页不列粗俗量词。",
+    "forms": "load → loaded、loader；up/down/re-/un-/off- + load；truck/case/boat + load；已有 overload、workload、payload、preload、freeloader 共享。\n\n古英语行程、运送材料到中古英语载量、负担，现代加载为后起技术用法。\n\n英语 up 加 load 的现代构词，过去尾 d 后完整 ed 读 id。\n\ndown、up 标示传送的相对方向，不表示机器的真实高度。\n\n物理装入和数字加载沿同一重新装载动作理解。",
+    "branches": [
+      [
+        "基本动作、结果与主体",
+        "load · loaded · loader"
+      ],
+      [
+        "数字传送与重复",
+        "upload · download · reload · preload"
+      ],
+      [
+        "卸下、转移与过载",
+        "unload · offload · overload"
+      ],
+      [
+        "不同负载内容与量",
+        "truckload · caseload · boatload · workload · payload · freeloader"
+      ],
+      [
+        "load → loads：装载量与很多东西",
+        "load · loads"
+      ],
+      [
+        "load、upload → uploaded：把数据传送到远端",
+        "load · upload · uploaded"
+      ],
+      [
+        "load 的数据传送组合及常用形式",
+        "load · download · downloads · downloaded · downloading · upload · uploading · uploader · uploaders"
+      ],
+      [
+        "reload 的重新装载与加载形式",
+        "reload · reloads · reloaded · reloading"
+      ]
+    ],
+    "contrasts": "upload 上传与 download 下载相对；unload 卸货不是 download；loaded question 带预设；caseload 个案量不等于全部工作。",
+    "practice": "The loader unloaded a truckload of gravel.\n\n装载机卸下了一卡车碎石。",
+    "words": [
+      "load",
+      "loaded",
+      "loader",
+      "upload",
+      "download",
+      "reload",
+      "preload",
+      "unload",
+      "offload",
+      "overload",
+      "truckload",
+      "caseload",
+      "boatload",
+      "workload",
+      "payload",
+      "freeloader",
+      "loads",
+      "uploaded",
+      "downloads",
+      "downloaded",
+      "downloading",
+      "uploading",
+      "uploader",
+      "uploaders",
+      "reloads",
+      "reloaded",
+      "reloading"
+    ],
+    "exclude": {
+      "shitload": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

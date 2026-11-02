@@ -1,0 +1,112 @@
+[
+  {
+    "id": "A1927",
+    "meaning": "把使成为、发生变化的动词转为过程、结果名词",
+    "core": "-IZATION：某种变化发生了，这件事叫一个名词",
+    "image": "sterile → sterilize → sterilization；marginal → marginalize → marginalization；miniature → miniaturize → miniaturization。",
+    "intro": "尾巴只提示过程或结果，不能代替核心解释：有的是灭菌，有的是把人挤到边缘，有的是把设备做小。还有一些词连同法语名词整体借入，现代可拆不表示英语动词一定先出现。",
+    "forms": "-ize 的希腊、拉丁、法语等构词传统，与 -ation 动作名词词尾结合成 -ization；英式常有 -isation 变体。动词末尾 e 通常去掉。\n\ne 去掉后加完整 ize、ise；两种拼写规则对应，不另编两条词源。",
+    "branches": [
+      [
+        "无菌、免疫与混合来源",
+        "sterile · sterilize · sterilization · immune · immunize · immunization · hybrid · hybridize · hybridization"
+      ],
+      [
+        "理性、效率与边缘位置",
+        "rational · rationalize · rationalization · marginal · marginalize · marginalization"
+      ],
+      [
+        "材料与尺寸变化",
+        "mineral · mineralize · mineralization · miniature · miniaturize · miniaturization · crystallization · vaporization · pressurization"
+      ],
+      [
+        "形象、规则与文本改写",
+        "demon · demonize · demonization · formalize · formalization · novel · novelize · novelization"
+      ],
+      [
+        "社会、制度和个人变化",
+        "civilization · socialization · industrialization · commercialization · liberalization · democratization · nationalization · unionization · internationalization · institutionalization · collectivization · centralization · polarization · radicalization · victimization · dehumanization · sexualization · westernization"
+      ],
+      [
+        "归类、组织与技术变化",
+        "generalization · normalization · criminalization · randomization · regularization · internalization · virtualization · digitalization · popularization · familiarization · periodization"
+      ],
+      [
+        "sterile → sterilize、sterilise 及过去分词",
+        "sterile · sterilize · sterilise · sterilized · sterilised"
+      ]
+    ],
+    "contrasts": "-ization 不等于所有现代英语都是临时加尾巴；rationalization 可是找借口；marginalization 不只空间边缘；miniature 词源是手稿彩绘一路；novelization 的改写方向要分清。",
+    "practice": "The report discusses miniaturization, not the marginalization of the people doing the work.\n\n报告讨论的是设备小型化，不是把工作人员挤到边缘。",
+    "words": [
+      "sterile",
+      "sterilize",
+      "sterilization",
+      "immune",
+      "immunize",
+      "immunization",
+      "hybrid",
+      "hybridize",
+      "hybridization",
+      "rational",
+      "rationalize",
+      "rationalization",
+      "marginal",
+      "marginalize",
+      "marginalization",
+      "mineral",
+      "mineralize",
+      "mineralization",
+      "miniature",
+      "miniaturize",
+      "miniaturization",
+      "demon",
+      "demonize",
+      "demonization",
+      "formalize",
+      "formalization",
+      "novel",
+      "novelize",
+      "novelization",
+      "civilization",
+      "polarization",
+      "generalization",
+      "industrialization",
+      "socialization",
+      "normalization",
+      "commercialization",
+      "liberalization",
+      "victimization",
+      "virtualization",
+      "democratization",
+      "nationalization",
+      "centralization",
+      "crystallization",
+      "radicalization",
+      "unionization",
+      "internationalization",
+      "criminalization",
+      "randomization",
+      "institutionalization",
+      "dehumanization",
+      "internalization",
+      "pressurization",
+      "collectivization",
+      "regularization",
+      "vaporization",
+      "popularization",
+      "sexualization",
+      "westernization",
+      "digitalization",
+      "familiarization",
+      "periodization",
+      "sterilise",
+      "sterilized",
+      "sterilised"
+    ],
+    "exclude": {
+      "catheterization": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dimerization": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2629",
+    "meaning": "空气；空中；航空；公开播出",
+    "core": "AIR：先分清空气物质、飞行空间和公开传播",
+    "image": "气囊用充气，航邮走空中，节目 airing 是播出；同一个 air 在不同组合里选不同义。",
+    "intro": "空气义 air 经法语、拉丁语接古希腊 āēr。现代作为自由词基能组成空气、航空、广播等多支词；音乐曲调等同形用法另按词条辨认。",
+    "forms": "air → airing、airy、airless 先看基本状态；airflow、airstream、airspeed、airfoil 抓空气运动。airbag、airbrush、airlock 看空气装置，airstrip、airframe、airman 等看航空，airdrop、airmail、airlift 看运输，airplay、airtime 看播出。airbus 小写旧类名与品牌、airsoft 专门运动本页暂不展开。\n\nair 与 port 组合，像港口承接船舶一样承接飞机。\n\n英语 air 与 line 的组合，航空运输公司义后来固定。\n\n现代同写 lining，近源分支应分别看。\n\nair 空气经法语、拉丁接希腊 aēr；名词作动词，放到空气中，引申公开表达，再用于广播等播出。air + -ed，读 /d/。",
+    "branches": [
+      [
+        "基本空气与流动",
+        "air · airing · airy · airless · airflow · airstream · airspeed · airfoil"
+      ],
+      [
+        "充气、喷绘与隔气",
+        "airbag · airbrush · airlock · airtight"
+      ],
+      [
+        "飞行场所、结构及人员",
+        "airport · airfield · airstrip · airspace · airway · aircraft · airplane · airframe · airship · airborne · midair · airman · aircrew"
+      ],
+      [
+        "航空运输和服务",
+        "airline · airliner · airfare · airlift · airdrop · airmail"
+      ],
+      [
+        "传播、行动与其他组合",
+        "airplay · airtime · airstrike · airpower · airhead"
+      ],
+      [
+        "airport → airports：空中交通的港口",
+        "airport · airports"
+      ],
+      [
+        "airline → airlines：空中线路到航空公司",
+        "air · line · airline · airlines"
+      ],
+      [
+        "line → lining：排列与加衬里分义",
+        "line · lining"
+      ],
+      [
+        "air → aired：通风、公开表达与播出",
+        "aired"
+      ]
+    ],
+    "contrasts": "airspeed 对空气、ground speed 对地面；airdrop 空投、airlift 空运。airbrush 既可喷绘也可把内容修饰抹去；airing 不一定是航空。",
+    "practice": "The airdrop reached the village near the airstrip, while a radio airing reported the delivery.\n\n空投物资送到简易跑道附近的村庄，广播节目报道了这次投送。",
+    "words": [
+      "air",
+      "airing",
+      "airy",
+      "airless",
+      "airflow",
+      "airstream",
+      "airspeed",
+      "airfoil",
+      "airbag",
+      "airbrush",
+      "airlock",
+      "airtight",
+      "airport",
+      "airfield",
+      "airstrip",
+      "airspace",
+      "airway",
+      "aircraft",
+      "airplane",
+      "airframe",
+      "airship",
+      "airborne",
+      "midair",
+      "airman",
+      "aircrew",
+      "airline",
+      "airliner",
+      "airfare",
+      "airlift",
+      "airdrop",
+      "airmail",
+      "airplay",
+      "airtime",
+      "airstrike",
+      "airpower",
+      "airhead",
+      "airports",
+      "line",
+      "airlines",
+      "lining",
+      "aired"
+    ],
+    "exclude": {
+      "anti-air": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-air": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "air-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "airbus": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "air-drumming": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "airsoft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

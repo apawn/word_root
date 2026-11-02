@@ -1,0 +1,624 @@
+[
+  {
+    "word": "heart",
+    "ipa": "英 /hɑːt/；美 /hɑːrt/",
+    "meaning": "心脏；内心、感情；勇气；中心",
+    "sense": "身体里跳动的心脏，语言里也常被用来放置感情、勇气和真正在意的事。",
+    "split": "继承古英语 heorte，经中古英语发展。许多内心、勇气、记忆的比喻在旧英语里已存在，并非现代才由泵血功能推出来。",
+    "history": [
+      [
+        "古英语 heorte → 中古英语 herte",
+        "心脏；也已有情感、意志、勇气等用法"
+      ],
+      [
+        "英语 heart",
+        "心脏；感情、内心、勇气；事物的中心"
+      ]
+    ],
+    "explanation": "a heart beats 心脏跳动；at the heart of 在核心；lose heart 灰心，take heart 振作。learn by heart 是记住、背熟，保留了把记忆放在心中的旧观念。",
+    "usage": "by heart；at heart；lose heart；take heart；from the heart；at the heart of。",
+    "contrast": "heart 在比喻里指内心，不说明生理心脏负责所有思考。heart 与 hard /d/ 的末辅音也要分清。",
+    "examples": [
+      [
+        "The old market lies at the heart of the town.",
+        "老市场位于小城中心。"
+      ],
+      [
+        "Don’t lose heart after one difficult day.",
+        "别因为一天不顺就灰心。"
+      ],
+      [
+        "She knows the whole poem by heart.",
+        "她能把整首诗背下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heart#English"
+    ]
+  },
+  {
+    "word": "heartbeat",
+    "ipa": "英 /ˈhɑːtbiːt/；美 /ˈhɑːrtbiːt/",
+    "meaning": "心跳；核心活力、节奏",
+    "sense": "心脏一次次跳动的节奏；借说一个地方或组织持续有活力的来源。",
+    "split": "heart 心脏 + beat 跳动，形成名词；现代也可比喻核心节奏、活力。",
+    "history": [
+      [
+        "heart 心脏；beat 跳动",
+        "并列构词部分"
+      ],
+      [
+        "heartbeat",
+        "心跳；借说核心节奏、活力"
+      ]
+    ],
+    "explanation": "hear a heartbeat 听到心跳；the heartbeat of a community 社区的活力中心。in a heartbeat 是立刻、毫不犹豫。",
+    "usage": "a steady heartbeat；the heartbeat of the city；in a heartbeat。",
+    "contrast": "a heartbeat 一次心跳或心跳现象，heart rate 心率侧重单位时间内次数；比喻的 heartbeat 不必有字面上的器官。",
+    "examples": [
+      [
+        "I could hear my own heartbeat in the quiet room.",
+        "安静房间里，我能听见自己的心跳。"
+      ],
+      [
+        "I’d accept another chance to work with them in a heartbeat.",
+        "如果有机会再和他们合作，我会毫不犹豫地接受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartbeat#English"
+    ]
+  },
+  {
+    "word": "heartwood",
+    "ipa": "英 /ˈhɑːtwʊd/；美 /ˈhɑːrtwʊd/",
+    "meaning": "心材",
+    "sense": "树干木质部分较内部的成熟木材；heart 在这里说内里、中心。",
+    "split": "heart 中心、内部 + wood 木材，形成木材学名称；不是木头里面有一颗动物心脏。",
+    "history": [
+      [
+        "heart 内部、中心；wood 木材",
+        "并列构词部分"
+      ],
+      [
+        "heartwood",
+        "树干木质部分内部的心材"
+      ]
+    ],
+    "explanation": "heartwood and sapwood 心材与边材。心材通常比外侧边材深色，但不能单靠所有木头颜色都一样这一假定来辨认。",
+    "usage": "the heartwood of a tree；heartwood and sapwood；dark heartwood。",
+    "contrast": "heartwood 是木材内部区域名称，不等于整棵树干的全部，也不是中央髓心 pith 的简单同义词。",
+    "examples": [
+      [
+        "The sample shows dark heartwood surrounded by lighter sapwood.",
+        "样本显示，较浅的边材围着深色心材。"
+      ],
+      [
+        "The carpenter explained the difference between heartwood and sapwood.",
+        "木匠解释了心材与边材的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartwood#English",
+      "https://research.fs.usda.gov/download/treesearch/7164.pdf"
+    ]
+  },
+  {
+    "word": "heartburn",
+    "ipa": "英 /ˈhɑːtbɜːn/；美 /ˈhɑːrtbɜːrn/",
+    "meaning": "胃灼热；烧心",
+    "sense": "胸口有烧灼感，位置靠近心脏，名字就沿用了心与烧的画面。",
+    "split": "heart 心、胸前位置 + burn 烧灼；中古英语已有对应复合词。现代常说胃酸反流引起的胸部烧灼感，不是心脏真的着火。",
+    "history": [
+      [
+        "heart 心、胸前位置的旧命名；burn 烧灼感",
+        "并列构词部分"
+      ],
+      [
+        "heartburn",
+        "胸部烧灼感，常与胃酸反流有关"
+      ]
+    ],
+    "explanation": "have heartburn 有烧心感，a leaflet about heartburn 介绍胃灼热的传单。这是一个具体症状名称，不等于感情上的心痛。",
+    "usage": "have heartburn；heartburn and acid reflux；a bout of heartburn。",
+    "contrast": "heartburn 是烧心、胃灼热；heartbreak、heartache 常指情感伤痛。英语词名不等于在判定发生问题的器官就是心脏。",
+    "examples": [
+      [
+        "The leaflet explains the link between heartburn and acid reflux.",
+        "传单解释了烧心与胃酸反流之间的联系。"
+      ],
+      [
+        "In the interview, he mentioned occasional heartburn.",
+        "采访中，他提到自己偶尔会烧心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartburn#English",
+      "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+    ]
+  },
+  {
+    "word": "sweetheart",
+    "ipa": "英 /ˈswiːthɑːt/；美 /ˈswiːthɑːrt/",
+    "meaning": "恋人；亲爱的；可爱体贴的人",
+    "sense": "把一个人看作让心里觉得甜、值得亲近的人。",
+    "split": "sweet 甜、美好 + heart 内心；中古英语已有 swete heorte 等爱称形式，现代固定为亲爱的人这一称呼。",
+    "history": [
+      [
+        "sweet 甜、美好；heart 内心、所爱之人",
+        "并列构词部分"
+      ],
+      [
+        "sweetheart",
+        "恋人、亲爱的人；体贴的人"
+      ]
+    ],
+    "explanation": "my childhood sweetheart 我童年、少年时期的恋人；You’re a sweetheart 可夸人真体贴。父母等也可用 sweetheart 亲昵称呼孩子，不必每次都指恋爱。",
+    "usage": "a childhood sweetheart；call someone sweetheart；be a real sweetheart。",
+    "contrast": "sweetheart 不只等于 boyfriend、girlfriend，亲情或友善夸赞也可用；具体亲密程度取决于关系和语气。",
+    "examples": [
+      [
+        "They were childhood sweethearts who met again years later.",
+        "他们少年时相恋，多年后再次相遇。"
+      ],
+      [
+        "You brought me lunch? You’re a sweetheart.",
+        "你给我带了午饭？你真体贴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sweetheart#English"
+    ]
+  },
+  {
+    "word": "heartthrob",
+    "ipa": "英 /ˈhɑːtθrɒb/；美 /ˈhɑːrtθrɑːb/",
+    "meaning": "令人心动的偶像、名人",
+    "sense": "不是只说心脏在跳，而是把让许多人心动的对象叫作心跳。",
+    "split": "heart 心 + throb 搏动；由心动、心跳的意象称让人迷恋的对象，现代常见于娱乐媒体，尤其说男性明星。",
+    "history": [
+      [
+        "heart 心；throb 搏动",
+        "并列构词部分"
+      ],
+      [
+        "heartthrob",
+        "让人心动的偶像、人物"
+      ]
+    ],
+    "explanation": "a screen heartthrob 银幕万人迷，a teenage heartthrob 少年歌迷、影迷喜爱的偶像；修饰语也可能指明星自己的年龄，具体看语境。",
+    "usage": "a screen heartthrob；a pop heartthrob；become a heartthrob。",
+    "contrast": "heartbeat 多说心跳现象，heartthrob 常指让人心动的人；不把名人受欢迎当作所有人都必须喜欢他。",
+    "examples": [
+      [
+        "The role turned the young adult actor into a screen heartthrob.",
+        "这个角色让那位年轻成年演员成了银幕万人迷。"
+      ],
+      [
+        "The article looks back at the pop heartthrobs of the decade.",
+        "文章回顾了那个十年间让歌迷心动的流行偶像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartthrob#English",
+      "https://dictionary.cambridge.org/dictionary/english/heartthrob"
+    ]
+  },
+  {
+    "word": "heartfelt",
+    "ipa": "英 /ˈhɑːtfelt/；美 /ˈhɑːrtfelt/",
+    "meaning": "真挚的；发自内心的",
+    "sense": "不是照着礼貌模板说一句，而是心里确实有这种感受。",
+    "split": "heart 内心 + felt，felt 是 feel 的过去分词；可以按 felt in the heart 在内心真切感受到来理解组合关系。",
+    "history": [
+      [
+        "heart 内心；felt 被感受到的，来自 feel",
+        "并列构词部分"
+      ],
+      [
+        "heartfelt",
+        "发自内心、真切感受到的"
+      ]
+    ],
+    "explanation": "heartfelt thanks 衷心感谢，a heartfelt apology 真诚道歉；常修饰感情表达，不是只说情绪很强烈。",
+    "usage": "heartfelt thanks；a heartfelt apology；a heartfelt message。",
+    "contrast": "heartfelt 重在真诚，不等于一定很长、很激动；一条简短留言也可以 heartfelt。",
+    "examples": [
+      [
+        "Please accept my heartfelt thanks for your help.",
+        "请接受我对你帮助的衷心感谢。"
+      ],
+      [
+        "Her short letter contained a heartfelt apology.",
+        "她简短的信中写着真诚的道歉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartfelt#English"
+    ]
+  },
+  {
+    "word": "heartstrings",
+    "ipa": "英 /ˈhɑːtstrɪŋz/；美 /ˈhɑːrtstrɪŋz/",
+    "meaning": "心弦；内心最深的感情",
+    "sense": "把强烈感情想成能被触动、牵拉的弦，一碰就动。",
+    "split": "heart + strings，早期与旧解剖观念中的连结、支撑心脏的筋索有关，后来发展为最深感情的比喻。现代记忆可借琴弦，但不能说这就是最初唯一词源。",
+    "history": [
+      [
+        "heart 心、内心；strings 筋索、细绳的旧义；现代弦的记忆画面",
+        "并列构词部分"
+      ],
+      [
+        "heartstrings",
+        "旧身体结构观念 → 深层情感"
+      ]
+    ],
+    "explanation": "tug at someone’s heartstrings 牵动心弦，pull at the heartstrings 让人心软、感动。常用复数，不必把它当作现代精确解剖名词。",
+    "usage": "tug at the heartstrings；pull at someone’s heartstrings。",
+    "contrast": "heartstrings 比喻深层感情；实际故事是否真实要另看证据，能感动人本身不保证叙述可靠。",
+    "examples": [
+      [
+        "The final scene really tugged at my heartstrings.",
+        "最后一幕真让我的心被牵动了。"
+      ],
+      [
+        "The charity film uses personal stories to pull at viewers’ heartstrings.",
+        "这部公益短片用个人故事打动观众。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartstrings#English",
+      "https://www.etymonline.com/word/heart-strings"
+    ]
+  },
+  {
+    "word": "hearty",
+    "ipa": "英 /ˈhɑːti/；美 /ˈhɑːrti/",
+    "meaning": "热诚的；爽朗有力的；丰盛的",
+    "sense": "把人的内在活力放出来，是热情、有力；放到一顿饭上，就是吃起来丰盛、顶饱。",
+    "split": "heart + -y，形容与内心、活力有关的性质，发展出热诚、强健、有力、丰盛等用法。",
+    "history": [
+      [
+        "古英语 heorte → 中古英语 herte",
+        "心脏；也已有情感、意志、勇气等用法"
+      ],
+      [
+        "英语 heart",
+        "心脏；感情、内心、勇气；事物的中心"
+      ],
+      [
+        "heart + -y → hearty",
+        "内在活力 → 热诚、有力；食物丰盛"
+      ]
+    ],
+    "explanation": "a hearty welcome 热情欢迎，a hearty laugh 爽朗大笑，a hearty breakfast 丰盛早餐。三个搭配不必都译成衷心的。",
+    "usage": "a hearty meal；a hearty laugh；a hearty welcome；a hearty appetite。",
+    "contrast": "heartfelt 强调真挚，hearty 常强调热情、力量或份量；hearty meal 是丰盛一餐，不是有真心的饭。",
+    "examples": [
+      [
+        "We ate a hearty breakfast before the long walk.",
+        "长途步行前，我们吃了一顿丰盛早餐。"
+      ],
+      [
+        "He greeted us with a hearty laugh.",
+        "他爽朗地笑着迎接我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hearty#English"
+    ]
+  },
+  {
+    "word": "heartily",
+    "ipa": "英 /ˈhɑːtɪli/；美 /ˈhɑːrtɪli/",
+    "meaning": "热诚地；尽情地；完全、非常",
+    "sense": "把热情和劲头充分放到动作里，也可加强一种态度。",
+    "split": "现代可按 hearty + -ly 分析，y 变 i；旧英语已有相应副词，意思包括全心、强有力地。",
+    "history": [
+      [
+        "古英语 heorte → 中古英语 herte",
+        "心脏；也已有情感、意志、勇气等用法"
+      ],
+      [
+        "英语 heart",
+        "心脏；感情、内心、勇气；事物的中心"
+      ],
+      [
+        "旧英语相关副词；现代 hearty → heartily",
+        "全心、有力地；尽情、非常"
+      ]
+    ],
+    "explanation": "laugh heartily 尽情大笑，eat heartily 吃得很香；heartily agree 完全赞同，heartily sick of 也能强烈表示厌烦。",
+    "usage": "laugh heartily；eat heartily；heartily agree；heartily sick of。",
+    "contrast": "heartily 不只限于积极情绪，heartily dislike 可以是非常不喜欢；healthy 健康的与 hearty 也不是同一个词。",
+    "examples": [
+      [
+        "Everyone laughed heartily at the unexpected joke.",
+        "大家听到意想不到的笑话都开怀大笑。"
+      ],
+      [
+        "I heartily agree that the instructions need to be clearer.",
+        "我完全同意，说明需要写得更清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartily#English"
+    ]
+  },
+  {
+    "word": "heartening",
+    "ipa": "英 /ˈhɑːtənɪŋ/；美 /ˈhɑːrtənɪŋ/",
+    "meaning": "令人鼓舞的；让人振作的",
+    "sense": "本来有点灰心，看到一件事后，心里又有了继续做下去的劲。",
+    "split": "heart 勇气 + 动词 -en → hearten 鼓舞，再接 -ing；现代形容词表示能让人振作的。",
+    "history": [
+      [
+        "古英语 heorte → 中古英语 herte",
+        "心脏；也已有情感、意志、勇气等用法"
+      ],
+      [
+        "英语 heart",
+        "心脏；感情、内心、勇气；事物的中心"
+      ],
+      [
+        "heart → hearten → heartening",
+        "勇气 → 鼓舞 → 令人鼓舞的"
+      ]
+    ],
+    "explanation": "heartening news 振奋消息，a heartening sign 令人鼓舞的迹象。通常表达重新获得信心，不是只让人觉得有趣。",
+    "usage": "a heartening sign；heartening news；it is heartening to see。",
+    "contrast": "heartening 令人鼓舞；heartwarming 常侧重让人感到温暖、感动，两者可能重叠，但重点不同。",
+    "examples": [
+      [
+        "It was heartening to see so many volunteers arrive.",
+        "看到这么多志愿者到来，真令人鼓舞。"
+      ],
+      [
+        "The first positive response was a heartening sign.",
+        "第一次积极回应是个令人振奋的迹象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartening#English"
+    ]
+  },
+  {
+    "word": "disheartening",
+    "ipa": "英 /dɪsˈhɑːtənɪŋ/；美 /dɪsˈhɑːrtənɪŋ/",
+    "meaning": "令人灰心的；让人泄气的",
+    "sense": "好像把原本支撑行动的那点勇气抽走了。",
+    "split": "dis- 去除、削弱 + hearten 的勇气词族，再接 -ing；也可从 dishearten 使灰心 + -ing 分析。",
+    "history": [
+      [
+        "古英语 heorte → 中古英语 herte",
+        "心脏；也已有情感、意志、勇气等用法"
+      ],
+      [
+        "英语 heart",
+        "心脏；感情、内心、勇气；事物的中心"
+      ],
+      [
+        "heart → dishearten → disheartening",
+        "勇气 → 使灰心 → 令人泄气的"
+      ]
+    ],
+    "explanation": "a disheartening result 令人灰心的结果；find something disheartening 觉得某事让人泄气。描述心理影响，不一定意味着事情已无转机。",
+    "usage": "a disheartening experience；a disheartening setback；find it disheartening。",
+    "contrast": "disheartening 是让人灰心，heartbreaking 通常伤痛更强烈，侧重心碎、悲痛；不必所有小挫折都夸到心碎。",
+    "examples": [
+      [
+        "Getting no replies after weeks of work was disheartening.",
+        "忙了几周却没有任何回复，让人很灰心。"
+      ],
+      [
+        "The delay was disheartening, but the team decided to continue.",
+        "延误让人泄气，但团队决定继续。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disheartening#English"
+    ]
+  },
+  {
+    "word": "heartless",
+    "ipa": "英 /ˈhɑːtləs/；美 /ˈhɑːrtləs/",
+    "meaning": "无情的；冷酷的",
+    "sense": "不是缺少器官，而是行动里看不到对别人的体谅。",
+    "split": "heart + -less。旧英语对应词曾有缺乏勇气、没精打采等义；现代常用无情、缺少同情的意思。不要只按最旧义替换今天的词义。",
+    "history": [
+      [
+        "古英语 heorte → 中古英语 herte",
+        "心脏；也已有情感、意志、勇气等用法"
+      ],
+      [
+        "英语 heart",
+        "心脏；感情、内心、勇气；事物的中心"
+      ],
+      [
+        "旧英语 heortlēas → heartless",
+        "旧有缺乏勇气等义；现代常指缺少同情、无情"
+      ]
+    ],
+    "explanation": "a heartless remark 无情的话，a heartless decision 冷酷决定。常是说话人对态度、行为的强烈道德评价。",
+    "usage": "a heartless comment；a heartless act；seem heartless。",
+    "contrast": "heartless 不等于 merely quiet 安静或 reserved 矜持；少说话不自动等于没有同情心。",
+    "examples": [
+      [
+        "It seemed heartless to joke about her loss.",
+        "拿她遭受的损失开玩笑，显得很无情。"
+      ],
+      [
+        "The novel’s villain makes a heartless decision to abandon his friends.",
+        "小说中的反派冷酷地决定抛弃朋友。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartless#English"
+    ]
+  },
+  {
+    "word": "heartbreak",
+    "ipa": "英 /ˈhɑːtbreɪk/；美 /ˈhɑːrtbreɪk/",
+    "meaning": "心碎；强烈悲痛",
+    "sense": "把深受伤害的感情想成心被打碎，强调难以承受的失落。",
+    "split": "heart 内心 + break 破碎，形成情感伤痛名词。不是在报告器官真的碎裂。",
+    "history": [
+      [
+        "heart 内心、感情；break 破碎",
+        "并列构词部分"
+      ],
+      [
+        "heartbreak",
+        "内心仿佛破碎的强烈悲痛"
+      ]
+    ],
+    "explanation": "the heartbreak of losing someone 失去某人的悲痛；a story of love and heartbreak 爱与心碎的故事。失恋之外，失去亲人、愿望破灭等也可造成 heartbreak。",
+    "usage": "cause heartbreak；love and heartbreak；the heartbreak of loss。",
+    "contrast": "heartbreak 不只限于恋爱；disappointment 可是一般失望，heartbreak 通常程度更深。",
+    "examples": [
+      [
+        "The novel follows a family through years of hope and heartbreak.",
+        "小说讲述一家人多年来的希望与悲痛。"
+      ],
+      [
+        "Missing the final by one point brought real heartbreak to the team.",
+        "差一分没能进决赛，让全队无比难过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartbreak#English"
+    ]
+  },
+  {
+    "word": "heartbreaking",
+    "ipa": "英 /ˈhɑːtbreɪkɪŋ/；美 /ˈhɑːrtbreɪkɪŋ/",
+    "meaning": "令人心碎的；令人极其难过的",
+    "sense": "消息、场景或损失，让人仿佛心里被重重击碎。",
+    "split": "heart + breaking，breaking 是 break 的 -ing 形式。整体形容造成心碎感的事物，也与名词 heartbreak 紧密对应。",
+    "history": [
+      [
+        "heart 内心；breaking 使破碎的",
+        "并列构词部分"
+      ],
+      [
+        "heartbreaking",
+        "引起强烈悲痛的"
+      ]
+    ],
+    "explanation": "heartbreaking news 令人心碎的消息，a heartbreaking loss 极痛苦的损失或败局。也用于影视评论形容极其感人的悲伤场面。",
+    "usage": "a heartbreaking story；heartbreaking news；a heartbreaking defeat。",
+    "contrast": "heartbreaking 形容让人难过的来源；heartbroken 形容感到心碎的人。",
+    "examples": [
+      [
+        "The documentary tells a heartbreaking story of separation.",
+        "纪录片讲述了一段令人心碎的离散故事。"
+      ],
+      [
+        "Losing the final in the last minute was heartbreaking.",
+        "最后一分钟输掉决赛，真让人难过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartbreaking#English"
+    ]
+  },
+  {
+    "word": "heartbroken",
+    "ipa": "英 /ˈhɑːtbrəʊkən/；美 /ˈhɑːrtbroʊkən/",
+    "meaning": "心碎的；悲痛欲绝的",
+    "sense": "不是这件事会让别人伤心，而是这个人自己已经深受伤害。",
+    "split": "heart 内心 + broken，broken 是 break 的过去分词；组合像在说内心已破碎，由此形成感到悲痛的形容词。",
+    "history": [
+      [
+        "heart 内心；broken 已破碎的",
+        "并列构词部分"
+      ],
+      [
+        "heartbroken",
+        "感到内心破碎、极其悲痛的"
+      ]
+    ],
+    "explanation": "be heartbroken over a loss 为失去某物而心碎；be heartbroken to hear 听到后极其难过。人物也可用来描述非常强烈的失望。",
+    "usage": "be heartbroken over；be heartbroken by；heartbroken to learn。",
+    "contrast": "heartbroken 的 -en 来自不规则 broken，不是另外表示变成心碎者的后缀。heartbreaking news 让 a heartbroken person 难过。",
+    "examples": [
+      [
+        "She was heartbroken when her closest friend moved away.",
+        "最亲近的朋友搬走时，她难过极了。"
+      ],
+      [
+        "The team looked heartbroken after the narrow defeat.",
+        "惜败后，队员们显得伤心极了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartbroken#English"
+    ]
+  },
+  {
+    "word": "heartbreaker",
+    "ipa": "英 /ˈhɑːtbreɪkə/；美 /ˈhɑːrtbreɪkər/",
+    "meaning": "伤人心的人；令人极其失望的事、败局",
+    "sense": "让别人心碎的那个人或那件事，也能指最后差一点点却输掉的比赛。",
+    "split": "heart + breaker，breaker 为 break + -er；行动者名词也可借指造成结果的事物。",
+    "history": [
+      [
+        "heart 内心、感情；break + -er 使破碎的人或事",
+        "并列构词部分"
+      ],
+      [
+        "heartbreaker",
+        "使人心碎的人、事物"
+      ]
+    ],
+    "explanation": "a charming heartbreaker 迷人却伤人心的人；The match was a heartbreaker 比赛输得让人心痛。感情与比赛两个场景分开。",
+    "usage": "a real heartbreaker；a charming heartbreaker；lose a heartbreaker。",
+    "contrast": "heartbreaker 不必是一位恋人；体育新闻可以把一场痛惜的败局也叫 heartbreaker。",
+    "examples": [
+      [
+        "The character is charming but turns out to be a heartbreaker.",
+        "这个人物很迷人，后来却证明是个伤人心的人。"
+      ],
+      [
+        "The final was a heartbreaker for the home crowd.",
+        "对主场观众来说，那场决赛输得令人心痛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartbreaker#English"
+    ]
+  },
+  {
+    "word": "heartache",
+    "ipa": "英 /ˈhɑːteɪk/；美 /ˈhɑːrteɪk/",
+    "meaning": "心痛；忧伤、情感上的痛苦",
+    "sense": "像隐隐疼着、不容易过去的伤感，重点在情感而非一次尖锐冲击。",
+    "split": "heart + ache 疼痛，旧英语已有 heorteċe 等形式。现代常用来讲感情痛苦，历史中身体与情绪意象相互交织。",
+    "history": [
+      [
+        "heart 内心、感情；ache 疼痛",
+        "并列构词部分"
+      ],
+      [
+        "heartache",
+        "内心忧伤、情感痛苦"
+      ]
+    ],
+    "explanation": "cause heartache 带来心痛；years of heartache 多年的忧伤。失恋之外，离别、担忧、家庭问题也可带来这种感受。",
+    "usage": "cause heartache；years of heartache；the heartache of separation。",
+    "contrast": "heartache、heartbreak 常指情感伤痛；chest pain 是胸痛这一身体症状表达，不能只按中文都有心痛就互换。",
+    "examples": [
+      [
+        "The long separation caused the family years of heartache.",
+        "长久分离给这个家庭带来多年的心痛。"
+      ],
+      [
+        "The song captures the quiet heartache of saying goodbye.",
+        "歌曲写出了告别时那种安静而绵长的忧伤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heartache#English"
+    ]
+  }
+]

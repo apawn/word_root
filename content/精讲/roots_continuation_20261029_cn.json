@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B2828",
+    "meaning": "打破、断裂；休息、突破及脱离",
+    "core": "BREAK：完整或连续的状态被打开",
+    "image": "杯子裂开、工作暂停、障碍被突破，都能从原来完整或连续的状态被打断理解。固定复合词再各看对象。",
+    "intro": "break 继承古英语 brecan。先读基础和可破性，再看打破者、突破、脱离；breakfast 的 fast 是禁食，breakdancing 的 break 联系音乐段落。",
+    "forms": "break → breakable → unbreakable；breakage 说破损，breaker 说作用者；through 穿过、away 脱离；fast 禁食加 break 得早餐。\n\nbreak + -ing；breaking news 接消息突然传开、出现的用法，不按字面译破碎的新闻。\n\nbreakdown 来自 break down，故障、崩溃线与分解、详细明细线分开举例，后者不意味着数据已经坏掉。\n\nbreak 结束与 fast 禁食组合，复数可数不同份或不同天的早餐。\n\n本族打破词延续，暂停是把连续活动断开。\n\nbreach 接古英语 bryce 的破裂名词，又受法语同源 breche 影响；不是现代 break 随意换几个字母。\n\n完整 er 表执行者、作用物，再加复数 s。\n\n和 break 比较打碎后的结果，不从英语 break 构词。debris 借法语 débris，接 debriser 打碎与 briser 破裂材料，更远有高卢来源分析。\n\nbreak up 拆散、解体的短语转作名词 breakup；现代常说关系结束或组织解体，连写名词与分写动词对照。",
+    "branches": [
+      [
+        "基础及可破性",
+        "break · breakable · unbreakable · breakage · breaker"
+      ],
+      [
+        "突破与脱离",
+        "breakthrough · breakaway · jailbreak · tiebreak"
+      ],
+      [
+        "速度与节奏",
+        "breakneck · breakdancing"
+      ],
+      [
+        "固定生活词",
+        "breakfast"
+      ],
+      [
+        "已学的其他复合词",
+        "heartbreak · daybreak · outbreak · breakwater · breakpoint"
+      ],
+      [
+        "breaking：打破与新闻刚刚传来",
+        "break · breaking"
+      ],
+      [
+        "breakdown：整体失效，或把整体分成小项",
+        "break · breakdown"
+      ],
+      [
+        "breakfast → breakfasts：结束禁食的一餐",
+        "breakfast · breakfasts"
+      ],
+      [
+        "break → breaks：打断、破裂与休息间隔",
+        "break · breaks"
+      ],
+      [
+        "break 与 breach：打破动作与破开的缺口",
+        "break · breach · breaches"
+      ],
+      [
+        "break → breaker → breakers：断开者、装置与碎浪",
+        "break · breaker · breakers"
+      ],
+      [
+        "debris：另源的破碎残余物",
+        "debris"
+      ],
+      [
+        "break + up → breakup",
+        "breakup"
+      ]
+    ],
+    "contrasts": "break 不等于 brake；breakfast 不是快餐；breakdancing 不是跳舞休息，breakthrough 不是普通小改动。",
+    "practice": "After a short break and some breakfast, the team finally made a breakthrough.\n\n短暂休息、吃过早餐后，团队终于取得了突破。",
+    "words": [
+      "break",
+      "breakable",
+      "unbreakable",
+      "breakage",
+      "breaker",
+      "breakthrough",
+      "breakaway",
+      "jailbreak",
+      "tiebreak",
+      "breakneck",
+      "breakdancing",
+      "breakfast",
+      "heartbreak",
+      "daybreak",
+      "outbreak",
+      "breakwater",
+      "breakpoint",
+      "breaking",
+      "breakdown",
+      "breakfasts",
+      "breaks",
+      "breach",
+      "breaches",
+      "breakers",
+      "debris",
+      "breakup"
+    ],
+    "exclude": {
+      "mini-break": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "break-bones": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bio-break": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "brokeback": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,1717 @@
+[
+  {
+    "word": "work",
+    "ipa": "英 /wɜːk/；美 /wɜːrk/",
+    "meaning": "工作；运作；奏效；作品",
+    "sense": "人付出劳动把事情做成；机器能按预期运转；一种办法能产生效果。",
+    "split": "名词接古英语 weorc，动词接 wyrcan 等本族形式，经中古英语延续；与“做、制作”的日耳曼语词族相连。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ]
+    ],
+    "explanation": "I work here 是在这里工作，The printer works 是打印机能用，The plan worked 是办法奏效。work 说工作或劳动通常不可数；a work of art 和 collected works 则可数，指作品。",
+    "usage": "at work；go to work；work on；work out；a work of art。",
+    "contrast": "job 是一份职位或具体任务，可数；work 是工作活动，常不可数。I have a lot of work 不能机械写成 many works。",
+    "examples": [
+      [
+        "This key does not work in the front door.",
+        "这把钥匙打不开前门。"
+      ],
+      [
+        "She has a lot of work to finish before Friday.",
+        "她周五前有很多工作要完成。"
+      ],
+      [
+        "We tried a different approach, and it worked.",
+        "我们试了另一种做法，结果奏效了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/work#English"
+    ]
+  },
+  {
+    "word": "working",
+    "ipa": "英 /ˈwɜːkɪŋ/；美 /ˈwɜːrkɪŋ/",
+    "meaning": "工作的；能运转的；暂用的；运作机制",
+    "sense": "把东西从摆着看的状态拿到实际使用中：人正在做事，机器确实能用。",
+    "split": "work + -ing；古英语相应动名词、分词及中古英语形式参与延续。现代也形成独立形容词和名词用法。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ],
+      [
+        "work + -ing → working",
+        "正在工作；可用；供工作暂用"
+      ]
+    ],
+    "explanation": "a working printer 是能用的打印机，a working title 是创作期间暂用的标题，working knowledge 是够实际使用的知识。the workings of a machine 常用复数说运行机制。",
+    "usage": "working hours；a working model；a working title；working knowledge。",
+    "contrast": "working 不一律等于“正在工作”：working days 常是工作日，a working assumption 是暂作依据的假设。",
+    "examples": [
+      [
+        "We need a working prototype by Monday.",
+        "我们周一前需要一台能实际运转的原型。"
+      ],
+      [
+        "She has a working knowledge of Spanish.",
+        "她的西班牙语达到能实际使用的水平。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/working#English"
+    ]
+  },
+  {
+    "word": "worker",
+    "ipa": "英 /ˈwɜːkə/；美 /ˈwɜːrkər/",
+    "meaning": "工作者；工人",
+    "sense": "同一项劳动，可以按谁在做来称呼：做这项事的人是 worker。",
+    "split": "work + -er，-er 表执行动作的人；接中古英语相应形式。比旧词 wright 的现代适用范围更宽。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ],
+      [
+        "work + -er → worker",
+        "做工作的人"
+      ]
+    ],
+    "explanation": "factory worker 是工厂工人，office worker 是办公室职员，social worker 是社会工作者。worker 不只指体力劳动，也可在昆虫语境说工蚁、工蜂。",
+    "usage": "a factory worker；an office worker；a skilled worker。",
+    "contrast": "employee 强调被某雇主雇用的关系，worker 关注做劳动的人；自雇者也能算 worker。",
+    "examples": [
+      [
+        "The workers stopped for a short break.",
+        "工人们停下来短暂休息。"
+      ],
+      [
+        "She is a social worker who supports local families.",
+        "她是一名为当地家庭提供支持的社会工作者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worker#English"
+    ]
+  },
+  {
+    "word": "workable",
+    "ipa": "英 /ˈwɜːkəbəl/；美 /ˈwɜːrkəbəl/",
+    "meaning": "可行的；可加工的",
+    "sense": "方案放到真实条件里，确实能推着走，不只是纸上好看。",
+    "split": "work + -able，-able 表能够被或可以。work 有运作、奏效和加工等义，因此可行与可加工两义各有对象。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ],
+      [
+        "work + -able → workable",
+        "可以奏效、实施或加工的"
+      ]
+    ],
+    "explanation": "a workable solution 是能执行的解决方案，未必最完美。workable clay 则说黏土适合加工，不是在给它评价工作效率。",
+    "usage": "a workable plan；a workable compromise；workable material。",
+    "contrast": "workable 关注实际可操作，working 可指正在运作或暂用。a working draft 是供修改的草稿，a workable draft 强调方案能行得通。",
+    "examples": [
+      [
+        "We finally found a workable compromise.",
+        "我们终于找到了一个可行的折中办法。"
+      ],
+      [
+        "Add a little water to make the clay more workable.",
+        "加一点水，让黏土更容易加工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workable#English"
+    ]
+  },
+  {
+    "word": "workability",
+    "ipa": "英 /ˌwɜːkəˈbɪləti/；美 /ˌwɜːrkəˈbɪləti/",
+    "meaning": "可行性；可加工性；和易性",
+    "sense": "不是只问它看上去对不对，而是问实际执行、塑形或处理起来顺不顺。",
+    "split": "workable 对应的性质名词，-able → -ability，现代也可分析 work + -ability。结尾表示“可行、可加工”这种性质。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ],
+      [
+        "workable → workability",
+        "从可行、可加工，转为相应性质名词"
+      ]
+    ],
+    "explanation": "计划的 workability 说落地是否行得通；材料领域可说处理性能，如混凝土拌合物的和易性。语境决定衡量的对象，不能混成统一数值。",
+    "usage": "the workability of a plan；improve workability；concrete workability。",
+    "contrast": "workability 与 affordability 不同：做得出来和付得起钱是两个条件，实际方案可能需要两者都满足。",
+    "examples": [
+      [
+        "The trial will test the workability of the new system.",
+        "试行将检验新制度的可操作性。"
+      ],
+      [
+        "The added water changed the workability of the mixture.",
+        "加水改变了混合物的可加工性能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workability#English"
+    ]
+  },
+  {
+    "word": "network",
+    "ipa": "英 /ˈnetwɜːk/；美 /ˈnetwɜːrk/",
+    "meaning": "网络；人脉网；建立联系",
+    "sense": "一个点连着多个点，再连成一张网；节点可以是电脑、道路，也可以是人。",
+    "split": "net（网）+ work（制成物、结构），先有网状结构等实体用法，后来扩大到相连系统。不是 computer 时代才首次出现的词。",
+    "history": [
+      [
+        "英语 net；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "net + work → network",
+        "网状结构 → 相连的系统或关系"
+      ]
+    ],
+    "explanation": "a rail network 是铁路网，a computer network 是计算机网络，a network of friends 是朋友支持网。动词 network 常说在职业场合结识人、建立联系。",
+    "usage": "a support network；a network connection；network with colleagues。",
+    "contrast": "internet 是一种特定的全球互联体系；network 范围更宽，可以完全没有互联网连接。",
+    "examples": [
+      [
+        "The storm damaged the railway network.",
+        "暴风雨损坏了铁路网。"
+      ],
+      [
+        "The event gave young designers a chance to network.",
+        "活动让年轻设计师有机会结识同行、建立联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/network#English"
+    ]
+  },
+  {
+    "word": "framework",
+    "ipa": "英 /ˈfreɪmwɜːk/；美 /ˈfreɪmwɜːrk/",
+    "meaning": "框架；体系；结构",
+    "sense": "先搭一个能承重、能安排位置的架子，再往里面加具体内容。",
+    "split": "frame（框架）+ work（构成的整体），可以说实体骨架，再比喻组织思想、规则或代码的基本结构。",
+    "history": [
+      [
+        "英语 frame；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "frame + work → framework",
+        "支撑整体的架构"
+      ]
+    ],
+    "explanation": "a legal framework 是一套基本规则，a framework for discussion 是安排讨论的结构。软件 framework 提供开发所依托的结构，不等于某一个独立功能。",
+    "usage": "a framework for；within a framework；a legal framework。",
+    "contrast": "framework 是支撑、组织内容的结构，detail 是填入结构的细节。只有框架，可能还没有具体执行方案。",
+    "examples": [
+      [
+        "The report provides a framework for future discussions.",
+        "报告为后续讨论提供了框架。"
+      ],
+      [
+        "Workers assembled the steel framework of the building.",
+        "工人组装了建筑的钢框架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/framework#English"
+    ]
+  },
+  {
+    "word": "workshop",
+    "ipa": "英 /ˈwɜːkʃɒp/；美 /ˈwɜːrkʃɑːp/",
+    "meaning": "作坊；车间；实践研讨班",
+    "sense": "大家围着工具、材料或一个问题，边做边学、边试边改。",
+    "split": "work（工作）+ shop（工坊、店）。从做东西的场所发展到实际练习、共同讨论的活动名称。",
+    "history": [
+      [
+        "英语 work；shop",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + shop → workshop",
+        "制作场所；动手实践的研讨活动"
+      ]
+    ],
+    "explanation": "a repair workshop 是维修作坊，a writing workshop 是有练习和反馈的写作工作坊。并非所有会议都可叫 workshop，通常强调参与和实践。",
+    "usage": "attend a workshop；a repair workshop；a workshop on design。",
+    "contrast": "lecture 常以听讲为主，workshop 通常让参与者动手或讨论。shop 在这里不必是卖商品的店铺。",
+    "examples": [
+      [
+        "She repairs bicycles in a small workshop.",
+        "她在一间小作坊里修自行车。"
+      ],
+      [
+        "The workshop included short exercises and group feedback.",
+        "工作坊包含小练习和小组反馈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workshop#English"
+    ]
+  },
+  {
+    "word": "homework",
+    "ipa": "英 /ˈhəʊmwɜːk/；美 /ˈhoʊmwɜːrk/",
+    "meaning": "家庭作业；事前功课",
+    "sense": "课堂结束了，仍带回去自己完成的练习；开会前也可以先把资料查好。",
+    "split": "home（家）+ work（工作），组合成家庭作业，后来 do your homework 可比喻提前调查准备。",
+    "history": [
+      [
+        "英语 home；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "home + work → homework",
+        "课后作业；准备工作"
+      ]
+    ],
+    "explanation": "通常不可数：some homework、a lot of homework。do your homework on a company 是事先了解公司，未必真有老师布置的练习。",
+    "usage": "do homework；hand in homework；do your homework on。",
+    "contrast": "homework 是作业，housework 是家务。打扫厨房通常叫 housework，不是学校的 homework。",
+    "examples": [
+      [
+        "I have finished my maths homework.",
+        "我已经做完数学作业了。"
+      ],
+      [
+        "Before buying the car, do your homework on its running costs.",
+        "买车前，先查清它的使用成本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homework#English"
+    ]
+  },
+  {
+    "word": "workforce",
+    "ipa": "英 /ˈwɜːkfɔːs/；美 /ˈwɜːrkfɔːrs/",
+    "meaning": "劳动力；全体员工",
+    "sense": "不看一个个职位，而把能投入劳动的所有人当成一支整体力量。",
+    "split": "work（工作）+ force（力量、队伍）。force 在这里是人员整体，不是用暴力逼迫工作。",
+    "history": [
+      [
+        "英语 work；force",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + force → workforce",
+        "工作的人组成的整体"
+      ]
+    ],
+    "explanation": "the company’s workforce 是公司员工总群体；enter the workforce 是进入劳动市场。可以说一个地区或行业的 workforce，具体范围由限定语给出。",
+    "usage": "a skilled workforce；enter the workforce；reduce the workforce。",
+    "contrast": "workforce 是集体名词，worker 是个人。the workforce grew 不一定表示每位现有员工都长大了，而是人数或规模扩大。",
+    "examples": [
+      [
+        "The company has a workforce of five hundred.",
+        "这家公司有五百名员工。"
+      ],
+      [
+        "Many graduates will enter the workforce this summer.",
+        "许多毕业生将在今年夏天进入职场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workforce#English"
+    ]
+  },
+  {
+    "word": "paperwork",
+    "ipa": "英 /ˈpeɪpəwɜːk/；美 /ˈpeɪpərwɜːrk/",
+    "meaning": "文书工作；相关手续资料",
+    "sense": "事情本身也许已经做完，还要填表、签字、核对、归档。",
+    "split": "paper（文件）+ work（工作），着眼于处理文件和手续，不只是把纸折成某个物件。",
+    "history": [
+      [
+        "英语 paper；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "paper + work → paperwork",
+        "处理表格、文件等事务的工作或资料"
+      ]
+    ],
+    "explanation": "complete the paperwork 是办完文书手续。即使表格在线填写、完全不用纸，也仍可叫 paperwork；词义已不受纸张材质限制。",
+    "usage": "fill out paperwork；complete the paperwork；a pile of paperwork。",
+    "contrast": "paperwork 多为不可数名词；a paper 可能是论文、报纸或一份文件，不能直接把二者数法互换。",
+    "examples": [
+      [
+        "We cannot release the goods until the paperwork is complete.",
+        "文书手续办完前，我们不能放行货物。"
+      ],
+      [
+        "Online forms have reduced some of the paperwork.",
+        "在线表格减少了部分文书工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paperwork#English"
+    ]
+  },
+  {
+    "word": "teamwork",
+    "ipa": "英 /ˈtiːmwɜːk/；美 /ˈtiːmwɜːrk/",
+    "meaning": "团队协作",
+    "sense": "不是几个人各干各的，而是互相接上动作，让整体配合起来。",
+    "split": "team（团队）+ work（工作、配合），组合强调多人协同完成任务的过程。",
+    "history": [
+      [
+        "英语 team；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "team + work → teamwork",
+        "团队成员之间的配合"
+      ]
+    ],
+    "explanation": "常用于体育、工作和协作项目，通常不可数。good teamwork 不要求每个人贡献相同，而要让不同分工有效衔接。",
+    "usage": "good teamwork；require teamwork；a spirit of teamwork。",
+    "contrast": "teamwork 强调合作方式，workforce 强调人员群体，team 则直接指团队本身。",
+    "examples": [
+      [
+        "The rescue required patience and excellent teamwork.",
+        "救援需要耐心和出色的团队协作。"
+      ],
+      [
+        "We finished early because of good teamwork.",
+        "配合得好，所以我们提前完成了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teamwork#English"
+    ]
+  },
+  {
+    "word": "workload",
+    "ipa": "英 /ˈwɜːkləʊd/；美 /ˈwɜːrkloʊd/",
+    "meaning": "工作量；工作负荷",
+    "sense": "把所有待处理任务放到肩上，这一堆有多重就是 workload。",
+    "split": "work（工作）+ load（负荷），组合量化人、团队或系统承担的工作。",
+    "history": [
+      [
+        "英语 work；load",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + load → workload",
+        "需要处理的工作总量"
+      ]
+    ],
+    "explanation": "a heavy workload 是工作量大，reduce the workload 是减轻任务负担。计算机语境也可指系统需要处理的任务集合，不只说人忙不忙。",
+    "usage": "a heavy workload；manage the workload；share the workload。",
+    "contrast": "workload 说任务量，不直接等于 working hours 工作时长；相同时间内的任务数量和复杂度也可能不同。",
+    "examples": [
+      [
+        "Her workload increased after two colleagues left.",
+        "两位同事离职后，她的工作量增加了。"
+      ],
+      [
+        "We need to distribute the workload more evenly.",
+        "我们需要更均匀地分配工作量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workload#English"
+    ]
+  },
+  {
+    "word": "workflow",
+    "ipa": "英 /ˈwɜːkfləʊ/；美 /ˈwɜːrkfloʊ/",
+    "meaning": "工作流程",
+    "sense": "一项任务从申请、审核到完成，像水流一样经过相连步骤。",
+    "split": "work（工作）+ flow（流动），用流动说明任务、信息在步骤之间传递。",
+    "history": [
+      [
+        "英语 work；flow",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + flow → workflow",
+        "工作步骤及其流转方式"
+      ]
+    ],
+    "explanation": "improve the workflow 是改善任务如何交接与推进，可以涉及顺序、角色和工具。不是只要让人做得更快就一定改善流程。",
+    "usage": "a review workflow；streamline the workflow；workflow automation。",
+    "contrast": "workflow 是怎么走流程，workload 是有多少任务。一个流程很清楚的团队也可能工作量过大。",
+    "examples": [
+      [
+        "The new tool simplifies our editing workflow.",
+        "新工具简化了我们的编辑流程。"
+      ],
+      [
+        "We mapped the workflow before changing the software.",
+        "更换软件前，我们画出了工作流程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workflow#English"
+    ]
+  },
+  {
+    "word": "groundwork",
+    "ipa": "英 /ˈɡraʊndwɜːk/；美 /ˈɡraʊndwɜːrk/",
+    "meaning": "基础工作；准备工作",
+    "sense": "盖房前先把地基做好，做大项目也先打基础。",
+    "split": "ground（地面、基础）+ work，实体基础的画面延伸为后续工作所依赖的前期准备。",
+    "history": [
+      [
+        "英语 ground；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "ground + work → groundwork",
+        "为后续发展打基础的工作"
+      ]
+    ],
+    "explanation": "lay the groundwork for 是为某事打基础，常用于研究、谈判、改革等。完成 groundwork 不等于后面的建设已经完成。",
+    "usage": "lay the groundwork；groundwork for；do the groundwork。",
+    "contrast": "groundwork 强调打基础，homework 可强调事前查资料，两者有交叉但不是所有搭配都能互换。",
+    "examples": [
+      [
+        "The early study laid the groundwork for later research.",
+        "早期研究为后续研究打下了基础。"
+      ],
+      [
+        "We did the groundwork before seeking funding.",
+        "我们申请资金前先做好了基础工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/groundwork#English"
+    ]
+  },
+  {
+    "word": "footwork",
+    "ipa": "英 /ˈfʊtwɜːk/；美 /ˈfʊtwɜːrk/",
+    "meaning": "步法；脚步动作；灵活应对",
+    "sense": "球还没打出去，脚先移动到合适位置，身体才能接上下一步。",
+    "split": "foot（脚）+ work（动作、运用），先关注脚的配合，也能比喻应变手法。",
+    "history": [
+      [
+        "英语 foot；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "foot + work → footwork",
+        "脚步的运用；比喻灵活应变"
+      ]
+    ],
+    "explanation": "在拳击、网球、舞蹈等语境说步法。fancy footwork 有时赞灵活，有时调侃用技巧回避问题，需看语气。",
+    "usage": "quick footwork；improve your footwork；fancy footwork。",
+    "contrast": "footwork 是脚步技巧，legwork 通常指跑腿调查的繁琐工作。不能因为都涉及腿脚就统一译成跑步。",
+    "examples": [
+      [
+        "The coach focused on footwork rather than power.",
+        "教练重点训练步法，而不是力量。"
+      ],
+      [
+        "Some quick footwork helped her avoid an awkward question.",
+        "她灵活应对，避开了一个尴尬问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footwork#English"
+    ]
+  },
+  {
+    "word": "patchwork",
+    "ipa": "英 /ˈpætʃwɜːk/；美 /ˈpætʃwɜːrk/",
+    "meaning": "拼布；拼凑而成的混合体",
+    "sense": "一小块红布、一小块蓝布缝起来，既能形成图案，也会留下明显接缝。",
+    "split": "patch（补丁、小块）+ work（制品、结构），先说拼接的布艺，再比喻多部分拼成、未必统一的整体。",
+    "history": [
+      [
+        "英语 patch；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "patch + work → patchwork",
+        "拼布作品；由不同小块拼成的整体"
+      ]
+    ],
+    "explanation": "a patchwork quilt 是拼布被；a patchwork of regulations 常批评规定来源杂、缺乏统一。田野的 patchwork 也可只是描绘不同色块，不一定贬义。",
+    "usage": "a patchwork quilt；a patchwork of fields；a patchwork of rules。",
+    "contrast": "patchwork 可强调拼接感，network 则强调连接关系。一个 network 可以设计统一，不必像临时拼凑的 patchwork。",
+    "examples": [
+      [
+        "Her grandmother made a patchwork quilt.",
+        "她祖母做了一床拼布被。"
+      ],
+      [
+        "The policy is a patchwork of old and new rules.",
+        "这项政策是新旧规定拼凑起来的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/patchwork#English"
+    ]
+  },
+  {
+    "word": "housework",
+    "ipa": "英 /ˈhaʊswɜːk/；美 /ˈhaʊswɜːrk/",
+    "meaning": "家务",
+    "sense": "饭后洗碗、擦地、收拾房间，让家能继续舒适地住。",
+    "split": "house（房屋、家）+ work（劳动），组合指照料家庭环境的日常事务。",
+    "history": [
+      [
+        "英语 house；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "house + work → housework",
+        "清洁、整理等家务劳动"
+      ]
+    ],
+    "explanation": "通常不可数：do some housework。家务由谁承担不写在词里，不能把它限定成女性的事。",
+    "usage": "do housework；share the housework；housework and childcare。",
+    "contrast": "housework 是家务，homework 是课后作业或准备功课；home 与 house 的近义不能使两个合成词自动相同。",
+    "examples": [
+      [
+        "We share the housework equally.",
+        "我们平等分担家务。"
+      ],
+      [
+        "I spent the morning doing housework.",
+        "我上午一直在做家务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/housework#English"
+    ]
+  },
+  {
+    "word": "fieldwork",
+    "ipa": "英 /ˈfiːldwɜːk/；美 /ˈfiːldwɜːrk/",
+    "meaning": "实地调查；田野工作",
+    "sense": "不只在办公室读报告，而是到事情实际发生的地方观察、访谈、采样。",
+    "split": "field（现场、领域）+ work（工作）；早期也有地面或田间工作材料，现代研究用法强调走到实地。",
+    "history": [
+      [
+        "英语 field；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "field + work → fieldwork",
+        "到现场进行的调查、研究"
+      ]
+    ],
+    "explanation": "人类学可访谈社区，地质学可采岩样，语言学可记录实际语言。field 不要求一定是一片农田。",
+    "usage": "conduct fieldwork；anthropological fieldwork；fieldwork data。",
+    "contrast": "fieldwork 关注研究发生在实际现场，lab work 关注实验室环境；两种方法常配合使用。",
+    "examples": [
+      [
+        "She spent six months doing fieldwork in coastal villages.",
+        "她在沿海村落做了六个月实地调查。"
+      ],
+      [
+        "The students collected soil samples during their fieldwork.",
+        "学生在实地调查时采集了土壤样本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fieldwork#English"
+    ]
+  },
+  {
+    "word": "firework",
+    "ipa": "英 /ˈfaɪəwɜːk/；美 /ˈfaɪərwɜːrk/",
+    "meaning": "烟花；烟火",
+    "sense": "点燃后把光、声音和形状送到空中，供人观赏。",
+    "split": "fire（火）+ work（制成物、技艺成果），英语组合词；复数 fireworks 常指烟花整体或烟花表演。",
+    "history": [
+      [
+        "英语 fire；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "fire + work → firework",
+        "以燃烧产生观赏效果的烟花"
+      ]
+    ],
+    "explanation": "a firework 是一个烟花装置，watch the fireworks 是看烟花表演。比喻 There will be fireworks 还可能说将有激烈争执或强烈反应。",
+    "usage": "a firework display；watch the fireworks；set off fireworks。",
+    "contrast": "firework 不是任何会燃烧的东西；firewood 是烧火木柴，firework 是特定烟花制品。",
+    "examples": [
+      [
+        "We watched the fireworks from across the river.",
+        "我们隔着河看烟花。"
+      ],
+      [
+        "A single firework lit up the sky.",
+        "一枚烟花照亮了天空。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firework#English"
+    ]
+  },
+  {
+    "word": "workman",
+    "ipa": "英 /ˈwɜːkmən/；美 /ˈwɜːrkmən/",
+    "meaning": "工人；工匠〔传统称呼〕",
+    "sense": "穿着工作服，带工具来安装、维修、建造的人。",
+    "split": "work + man，接古英语 weorcmann 及中古英语 werkman。历史上 man 指人或男性的材料参与，现代具体称呼宜看岗位与语境。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "古英语 weorcmann → 英语 workman",
+        "从事劳动，尤其手工、施工工作的人"
+      ]
+    ],
+    "explanation": "常见于施工、维修叙述；worker 更宽泛、也更中性。workmen 是复数，不用 workmans。",
+    "usage": "a skilled workman；a workman’s tools；workmen on the roof。",
+    "contrast": "workman 通常强调手工或体力技术劳动；office worker 不常直接换成 office workman。",
+    "examples": [
+      [
+        "A workman came to repair the window.",
+        "一位工人来修窗户。"
+      ],
+      [
+        "The workmen left their tools beside the gate.",
+        "工人们把工具放在大门旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workman#English"
+    ]
+  },
+  {
+    "word": "worksheet",
+    "ipa": "英 /ˈwɜːkʃiːt/；美 /ˈwɜːrkʃiːt/",
+    "meaning": "练习纸；工作表",
+    "sense": "先把要填的项目、题目或格子放在一张表上，边做边填写。",
+    "split": "work（工作、练习）+ sheet（一张纸、表），现代也用于电子表格里的工作表。",
+    "history": [
+      [
+        "英语 work；sheet",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + sheet → worksheet",
+        "供练习、处理数据的表页"
+      ]
+    ],
+    "explanation": "课堂 worksheet 常是练习单；电子表格 workbook 可含多个 worksheets。电子 worksheet 不要求能直接打印在一张纸上。",
+    "usage": "complete a worksheet；a maths worksheet；an Excel worksheet。",
+    "contrast": "worksheet 是一个表页，workbook 是整本练习册或整个电子表格文件；层级不同。",
+    "examples": [
+      [
+        "The teacher handed out a worksheet on fractions.",
+        "老师发了一张分数练习单。"
+      ],
+      [
+        "Each worksheet contains data for a different month.",
+        "每张工作表包含不同月份的数据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worksheet#English"
+    ]
+  },
+  {
+    "word": "rework",
+    "ipa": "英 动 /ˌriːˈwɜːk/；名 /ˈriːwɜːk/；美动 /ˌriːˈwɜːrk/",
+    "meaning": "返工；重做；修改加工",
+    "sense": "已有一版东西，但需要再动手，把有问题的部分改好。",
+    "split": "re-（再）+ work（加工、工作）。名词和动词可能有重音差别，具体读法随句中功能。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ],
+      [
+        "re- + work → rework",
+        "重新加工、修改；返工工作"
+      ]
+    ],
+    "explanation": "rework a paragraph 是重新修改一段，不要求从空白开始。生产中的 rework 常指为达到要求而再次加工，通常比一般编辑更强调已有问题要处理。",
+    "usage": "rework a draft；require rework；rework the design。",
+    "contrast": "rework 可以保留原有部分，replace 是用另一件替换。返工与完全推倒重来并非必然相同。",
+    "examples": [
+      [
+        "We need to rework the opening paragraph.",
+        "我们需要重写开头那一段。"
+      ],
+      [
+        "The faulty parts were sent back for rework.",
+        "有缺陷的零件被送回返工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rework#English"
+    ]
+  },
+  {
+    "word": "workbook",
+    "ipa": "英 /ˈwɜːkbʊk/；美 /ˈwɜːrkbʊk/",
+    "meaning": "练习册；电子表格工作簿",
+    "sense": "一本不是只让你读、还留着位置让你动手做的书。",
+    "split": "work（练习、工作）+ book（书、本），后来计算机借用成整份电子表格文件的名称。",
+    "history": [
+      [
+        "英语 work；book",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + book → workbook",
+        "练习册；包含工作表的电子文件"
+      ]
+    ],
+    "explanation": "a grammar workbook 有语法练习；save the workbook 在表格软件中指保存整个工作簿。两种场景都包含若干页面或表页。",
+    "usage": "a student workbook；open a workbook；save the workbook。",
+    "contrast": "textbook 是主要讲授内容的教材，workbook 主要让学习者练习；软件中的 worksheet 则是工作簿里的单张表。",
+    "examples": [
+      [
+        "Complete the first two pages of the workbook.",
+        "做完练习册的前两页。"
+      ],
+      [
+        "Save the workbook before closing the spreadsheet application.",
+        "关闭电子表格应用前先保存工作簿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workbook#English"
+    ]
+  },
+  {
+    "word": "workhouse",
+    "ipa": "英 /ˈwɜːkhaʊs/；美 /ˈwɜːrkhaʊs/",
+    "meaning": "济贫院〔历史〕；劳动收容机构",
+    "sense": "贫困者进入一个机构获取食宿，同时被要求劳动，条件往往严苛。",
+    "split": "work + house，古英语及中古英语已有工作场所的组合；后来英国历史制度中的济贫院成为重要义项，不把所有时期机构都看成同一种。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "古英语 weorchūs 等工作场所名称",
+        "劳动、制作的房屋"
+      ],
+      [
+        "英语 workhouse 的历史制度义",
+        "为贫困者提供食宿并要求劳动的机构"
+      ]
+    ],
+    "explanation": "阅读英国历史或狄更斯作品时常见。它是特定历史机构，不能直接当作现代普通办公室或居家办公地点。",
+    "usage": "a Victorian workhouse；enter the workhouse；the workhouse system。",
+    "contrast": "workhouse 是历史机构，workplace 是一般工作场所；house 在其中不表示轻松舒适的家。",
+    "examples": [
+      [
+        "The museum occupies a former workhouse.",
+        "博物馆设在一所旧济贫院内。"
+      ],
+      [
+        "The novel describes the harsh conditions of the workhouse.",
+        "小说描写了济贫院严酷的条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workhouse#English"
+    ]
+  },
+  {
+    "word": "bodywork",
+    "ipa": "英 /ˈbɒdiwɜːk/；美 /ˈbɑːdiwɜːrk/",
+    "meaning": "车身；车身修理；身体手法疗法〔特定语境〕",
+    "sense": "看汽车外面的壳和板件，而不是里面的发动机。",
+    "split": "body（主体、车身或身体）+ work（构成物、处理）。汽车与人体处理是分别沿 body 的不同义项形成的用法，不能混成一种技术。",
+    "history": [
+      [
+        "英语 body；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "body + work → bodywork",
+        "汽车车身或修理；另有人体手法处理义"
+      ]
+    ],
+    "explanation": "车评里 damage to the bodywork 说车身损伤，bodywork repairs 是车身修理。健康服务文本中另可能指身体手法处理，具体服务不能只靠单词断定。",
+    "usage": "damaged bodywork；bodywork repairs；paintwork and bodywork。",
+    "contrast": "bodywork 不自动包含发动机维修；engine repairs 与 bodywork repairs 是汽车维修的不同部分。",
+    "examples": [
+      [
+        "The engine is fine, but the bodywork needs attention.",
+        "发动机没问题，但车身需要处理。"
+      ],
+      [
+        "The garage specialises in bodywork repairs.",
+        "这家修理厂专修车身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bodywork#English"
+    ]
+  },
+  {
+    "word": "bulwark",
+    "ipa": "英 /ˈbʊlwək/；美 /ˈbʊlwərk/",
+    "meaning": "堡垒；防护物；坚强保障",
+    "sense": "外面有一道挡得住攻击或侵袭的屏障，替里面的人守住边界。",
+    "split": "经中古英语借自中古荷兰语、低地德语 bolwerk 一系，材料涉及树干、木料与 work“构筑物”的日耳曼语同源成分；不是现代 bull“公牛”+ work。",
+    "history": [
+      [
+        "中古荷兰语／中古低地德语 bolwerk",
+        "防御工事，木料与构筑物相关材料"
+      ],
+      [
+        "中古英语 bulwerk → bulwark",
+        "堡垒、屏障；后来比喻保障"
+      ]
+    ],
+    "explanation": "a bulwark against corruption 是防腐败的坚强保障；船舶复数 bulwarks 可指船边防护围板。主体意象是阻挡外来的侵袭。",
+    "usage": "a bulwark against；a bulwark of freedom；ship’s bulwarks。",
+    "contrast": "bulwark 的前段不是 bull，因此不靠公牛勤劳的故事解释；workhorse 才是与工作中的马相关的词。",
+    "examples": [
+      [
+        "An independent press can be a bulwark against abuse of power.",
+        "独立媒体可以成为防止滥权的一道保障。"
+      ],
+      [
+        "The old fortress served as a bulwark for the harbour.",
+        "旧堡垒曾是港口的防御屏障。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bulwark#English"
+    ]
+  },
+  {
+    "word": "schoolwork",
+    "ipa": "英 /ˈskuːlwɜːk/；美 /ˈskuːlwɜːrk/",
+    "meaning": "学业；学校功课",
+    "sense": "把上课相关的练习、作业和学习任务放在一起看。",
+    "split": "school（学校）+ work（功课），范围可以包括课堂内和课堂外的学习任务。",
+    "history": [
+      [
+        "英语 school；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "school + work → schoolwork",
+        "与学校学习有关的任务"
+      ]
+    ],
+    "explanation": "keep up with schoolwork 是跟上功课。不是修理校舍的施工，也不必只指回家做的作业。",
+    "usage": "finish schoolwork；keep up with schoolwork；fall behind with schoolwork。",
+    "contrast": "schoolwork 比 homework 广；homework 重点是课后布置的作业，schoolwork 还可包含课堂学习任务。",
+    "examples": [
+      [
+        "She found it hard to balance sport and schoolwork.",
+        "她觉得很难兼顾体育与学业。"
+      ],
+      [
+        "He missed a week of schoolwork because he was ill.",
+        "他生病耽误了一周功课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/schoolwork#English"
+    ]
+  },
+  {
+    "word": "guesswork",
+    "ipa": "英 /ˈɡeswɜːk/；美 /ˈɡeswɜːrk/",
+    "meaning": "猜测；凭猜判断",
+    "sense": "手头没有够用的资料，只能靠“我想大概是这样”把空白补上。",
+    "split": "guess（猜）+ work（工作、处理过程），强调以猜测代替有充分依据的判断。",
+    "history": [
+      [
+        "英语 guess；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "guess + work → guesswork",
+        "没有充分资料支持的推测过程"
+      ]
+    ],
+    "explanation": "take the guesswork out of 是让事情有据可依、减少盲猜。guesswork 多不可数；some guesswork 是带着猜测的成分。",
+    "usage": "pure guesswork；involve guesswork；take the guesswork out of。",
+    "contrast": "estimate 可以是有数据依据的估算，guesswork 更强调资料不足、主要靠猜；两者不都等于随便乱说。",
+    "examples": [
+      [
+        "Without measurements, the answer would be pure guesswork.",
+        "没有测量，答案就只能纯靠猜。"
+      ],
+      [
+        "The guide takes the guesswork out of choosing the right size.",
+        "这份指南让你选尺码时不用再盲猜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guesswork#English"
+    ]
+  },
+  {
+    "word": "handiwork",
+    "ipa": "英 /ˈhændiwɜːk/；美 /ˈhændiwɜːrk/",
+    "meaning": "手工制品；某人的所作所为",
+    "sense": "看见一件做出来的东西，就能认出是谁那双手留下的痕迹。",
+    "split": "接古英语 handġeweorc“手做的工作”、中古英语 hondywerk 等形式；是 hand 与 work 的历史组合，不能只按现代 handy“方便的”来编来源。",
+    "history": [
+      [
+        "古英语 hand + ġeweorc → handġeweorc",
+        "手做出的劳动、作品"
+      ],
+      [
+        "中古英语 handiwerk → 英语 handiwork",
+        "手工成果；某人做的事"
+      ]
+    ],
+    "explanation": "admire her handiwork 可说欣赏她的手工作品；This mess is your handiwork 可说这一团乱是你弄的，常带调侃或责备。",
+    "usage": "admire someone’s handiwork；recognise someone’s handiwork；skilled handiwork。",
+    "contrast": "handiwork 是做出的成果或痕迹；handwork 强调手工劳动，handy 则说便利或手巧，不能都换成同一个词。",
+    "examples": [
+      [
+        "She stepped back to admire her handiwork.",
+        "她退后一步欣赏自己的作品。"
+      ],
+      [
+        "The broken lock was clearly the thieves’ handiwork.",
+        "门锁显然是窃贼弄坏的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handiwork#English"
+    ]
+  },
+  {
+    "word": "workhorse",
+    "ipa": "英 /ˈwɜːkhɔːs/；美 /ˈwɜːrkhɔːrs/",
+    "meaning": "役马；可靠耐用、承担大量工作的人或物",
+    "sense": "不一定最耀眼，却每天都扛得住重活，少了它就转不动。",
+    "split": "work（劳动）+ horse（马），先说承担劳动的马，再比喻勤劳可靠的人、机器或工具。",
+    "history": [
+      [
+        "英语 work；horse",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + horse → workhorse",
+        "役马；承担大量日常任务的可靠主力"
+      ]
+    ],
+    "explanation": "an office workhorse 可说踏实干活的人；a workhorse printer 可夸打印机能承受大批量日常任务。通常是肯定可靠，并不必然说高端。",
+    "usage": "a reliable workhorse；the workhorse of the fleet；an office workhorse。",
+    "contrast": "workhorse 是可靠主力，workaholic 是难以停止工作的人；工作多与依赖工作不是同一种评价。",
+    "examples": [
+      [
+        "This old laptop is still the workhorse of my home office.",
+        "这台旧笔记本仍是我居家办公的主力。"
+      ],
+      [
+        "The small van became the workhorse of the business.",
+        "这辆小货车成了公司日常运输的主力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workhorse#English"
+    ]
+  },
+  {
+    "word": "workaround",
+    "ipa": "英 /ˈwɜːkəraʊnd/；美 /ˈwɜːrkəraʊnd/",
+    "meaning": "变通办法；绕过问题的临时方案",
+    "sense": "前门卡住了，先从侧门把事情办成，前门本身可能还没修好。",
+    "split": "work around（设法绕过困难）形成连写名词 workaround。around 指围着、绕过障碍，不表示彻底解决其根源。",
+    "history": [
+      [
+        "英语短语 work around a problem",
+        "绕过困难继续做事"
+      ],
+      [
+        "名词 workaround",
+        "使事情暂时能继续的变通办法"
+      ]
+    ],
+    "explanation": "技术与办公场景很常见。a workaround 可能可长期使用，但重点在绕过限制，不把它默认当成修复了底层问题。",
+    "usage": "find a workaround；a temporary workaround；use a workaround。",
+    "contrast": "fix 关注修好问题，workaround 关注避免被问题卡住；知道变通办法不代表原问题已经消失。",
+    "examples": [
+      [
+        "Restarting the app is a workaround, not a permanent fix.",
+        "重启应用是变通办法，不是永久修复。"
+      ],
+      [
+        "We found a workaround that let the team finish the report.",
+        "我们找到了一个变通办法，让团队完成了报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workaround#English"
+    ]
+  },
+  {
+    "word": "workaholic",
+    "ipa": "英 /ˌwɜːkəˈhɒlɪk/；美 /ˌwɜːrkəˈhɔːlɪk/",
+    "meaning": "工作狂",
+    "sense": "工作已经结束，人却放不下，总忍不住继续做，其他生活被挤开。",
+    "split": "work + -aholic；-aholic 从 alcoholic 等词重新分析，后来用于说对某活动的过度沉迷。不是古典英语里一直独立存在的“狂人”词根。",
+    "history": [
+      [
+        "英语 work；由 alcoholic 类推的 -aholic",
+        "工作；对某活动过度依赖的构词材料"
+      ],
+      [
+        "英语 workaholic",
+        "难以停止工作、过度投入工作的人"
+      ]
+    ],
+    "explanation": "日常可半开玩笑称工作很多的人，但也可能批评工作挤占健康与关系。词汇标签本身不是临床诊断。",
+    "usage": "a self-confessed workaholic；become a workaholic；a workaholic culture。",
+    "contrast": "hard worker 是勤奋工作者，通常是肯定；workaholic 更容易强调失去平衡、停不下来。",
+    "examples": [
+      [
+        "He calls himself a workaholic, but he is trying to take weekends off.",
+        "他自称工作狂，但正在努力周末休息。"
+      ],
+      [
+        "Her family worried that she was becoming a workaholic.",
+        "家人担心她正在变成工作狂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workaholic#English"
+    ]
+  },
+  {
+    "word": "overwork",
+    "ipa": "英 动 /ˌəʊvəˈwɜːk/；名 /ˈəʊvəwɜːk/；美动 /ˌoʊvərˈwɜːrk/",
+    "meaning": "过度工作；使过劳",
+    "sense": "原本能承受的劳动一再加码，超过了身体或人的持续承受能力。",
+    "split": "over-（过度）+ work；相关组合可接中古英语或更早本族材料。名词说过量劳动，动词说过度工作或使某人过劳。",
+    "history": [
+      [
+        "古英语 weorc；wyrcan → 中古英语 work／werken",
+        "工作、做出的事物；做、制作"
+      ],
+      [
+        "英语 work",
+        "工作；运作；做出的成果"
+      ],
+      [
+        "over- + work → overwork",
+        "工作超过适当限度；过量劳动"
+      ]
+    ],
+    "explanation": "Don’t overwork yourself 是别让自己过劳；be overworked 是工作负担太重。名词 from overwork 说因过量劳动，不能只因为某天很忙就替人作诊断。",
+    "usage": "overwork yourself；overworked staff；stress and overwork。",
+    "contrast": "overtime 是超出正常工时的加班，overwork 评价工作过量；加班未必每次都到过劳程度，正常工时内也可能负荷过重。",
+    "examples": [
+      [
+        "Do not overwork yourself before the exam.",
+        "考前别把自己累过头。"
+      ],
+      [
+        "The clinic was short of staff, and the remaining nurses were overworked.",
+        "诊所人手不足，留下的护士工作负担过重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overwork#English"
+    ]
+  },
+  {
+    "word": "workpiece",
+    "ipa": "英 /ˈwɜːkpiːs/；美 /ˈwɜːrkpiːs/",
+    "meaning": "工件",
+    "sense": "工具在动，台子上那块正在被切削、打磨或加工的材料，就是 workpiece。",
+    "split": "work（加工）+ piece（物件、块），为与德语 Werkstück 对应的英语组合、仿译；指正在加工的对象。",
+    "history": [
+      [
+        "英语 work；piece",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + piece → workpiece",
+        "接受加工的那件材料或零件"
+      ]
+    ],
+    "explanation": "用于制造、木工、金工等。workpiece 可以仍是半成品，不要求已经达到最终形状；工作台是 workbench。",
+    "usage": "clamp the workpiece；machine a workpiece；the surface of the workpiece。",
+    "contrast": "workpiece 是被加工的对象，tool 是用来加工的工具；不能把夹具、机器和工件混成同一类。",
+    "examples": [
+      [
+        "The worker checked the dimensions of the workpiece.",
+        "工人检查了工件的尺寸。"
+      ],
+      [
+        "The drawing shows how the workpiece sits in the clamp.",
+        "图示说明了工件如何放在夹具中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workpiece#English"
+    ]
+  },
+  {
+    "word": "workbench",
+    "ipa": "英 /ˈwɜːkbentʃ/；美 /ˈwɜːrkbentʃ/",
+    "meaning": "工作台",
+    "sense": "一张结实的台面，材料和工具放在上面，好让双手加工。",
+    "split": "work（加工、工作）+ bench（长凳、台），组合后通常指有相应功能的工作台，不是一切办公桌。",
+    "history": [
+      [
+        "英语 work；bench",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + bench → workbench",
+        "做手工、维修等使用的结实台子"
+      ]
+    ],
+    "explanation": "常出现在木工、维修和实验空间；软件名称也可借这个意象指一组操作工具。",
+    "usage": "a wooden workbench；at the workbench；a workbench drawer。",
+    "contrast": "workbench 强调实际加工操作，desk 通常用于写字、办公；材质相同也不一定是同一用途。",
+    "examples": [
+      [
+        "He laid the tools on the workbench.",
+        "他把工具放在工作台上。"
+      ],
+      [
+        "The garage has a workbench along one wall.",
+        "车库沿着一面墙设有工作台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workbench#English"
+    ]
+  },
+  {
+    "word": "workweek",
+    "ipa": "英 /ˈwɜːkwiːk/；美 /ˈwɜːrkwiːk/",
+    "meaning": "一周工作时间；工作周",
+    "sense": "把一周里用于上班的日子或工时圈出来，而不是整整七天都算工作。",
+    "split": "work（工作）+ week（周），美式常用连写形式；英式也常用 working week。",
+    "history": [
+      [
+        "英语 work；week",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + week → workweek",
+        "一周里的工作日或总工作时间"
+      ]
+    ],
+    "explanation": "a forty-hour workweek 强调工时，a four-day workweek 强调工作日安排。具体何时休息不由词本身规定。",
+    "usage": "a shorter workweek；a four-day workweek；the standard workweek。",
+    "contrast": "workweek 不能一律翻成“周一到周五”，轮班制的工作周可能采用其他安排。",
+    "examples": [
+      [
+        "The company is testing a four-day workweek.",
+        "公司正在试行每周工作四天。"
+      ],
+      [
+        "Her workweek includes Saturday but not Monday.",
+        "她一周的工作日包括周六，但不包括周一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workweek#English"
+    ]
+  },
+  {
+    "word": "legwork",
+    "ipa": "英 /ˈleɡwɜːk/；美 /ˈleɡwɜːrk/",
+    "meaning": "跑腿工作；实地搜集资料的基础工作",
+    "sense": "问几家店、跑几处地点、核几份资料，结论前有许多不起眼的小步骤。",
+    "split": "leg（腿）+ work（工作），从来回跑动的画面指调查、联系、核实等具体事务。",
+    "history": [
+      [
+        "英语 leg；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "leg + work → legwork",
+        "为取得结果所做的奔走、调查工作"
+      ]
+    ],
+    "explanation": "do the legwork 常说承担收集信息和核查细节的部分。现代即便在线完成，也可以用来强调繁琐基础调查，并非要求真的走路。",
+    "usage": "do the legwork；a lot of legwork；save someone legwork。",
+    "contrast": "legwork 是跑腿调查，footwork 是脚步技巧或灵活应对；两者同有腿脚画面，但重点不同。",
+    "examples": [
+      [
+        "I did the legwork, and she wrote the final report.",
+        "我负责调查核实，她写了最终报告。"
+      ],
+      [
+        "The comparison site saved us a lot of legwork.",
+        "比价网站替我们省了很多逐一打听的工夫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legwork#English"
+    ]
+  },
+  {
+    "word": "masterwork",
+    "ipa": "英 /ˈmɑːstəwɜːk/；美 /ˈmæstərwɜːrk/",
+    "meaning": "杰作；代表作",
+    "sense": "看过一位创作者的许多作品，这一件尤其能代表最高水平。",
+    "split": "master（大师、高手）+ work（作品），组合赞许一件作品达到杰出水平；work 在这里可数。",
+    "history": [
+      [
+        "英语 master；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "master + work → masterwork",
+        "出色的作品、杰作"
+      ]
+    ],
+    "explanation": "常用于艺术、音乐、文学评价。称 masterwork 是评价，不是一个人人都必须认可的客观等级。",
+    "usage": "a literary masterwork；a late masterwork；a masterwork of design。",
+    "contrast": "masterwork 与 masterpiece 很接近；homework、paperwork 的 work 通常不可数，而 masterwork 指一件作品，可数。",
+    "examples": [
+      [
+        "Critics regard the novel as her masterwork.",
+        "评论家认为这部小说是她的代表作。"
+      ],
+      [
+        "The gallery displayed a masterwork of early photography.",
+        "画廊展出了一件早期摄影杰作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/masterwork#English"
+    ]
+  },
+  {
+    "word": "workroom",
+    "ipa": "英 /ˈwɜːkruːm/；美 /ˈwɜːrkruːm/",
+    "meaning": "工作间",
+    "sense": "从住宅或建筑里划出一个房间，专门用来制作、整理或做事。",
+    "split": "work（工作）+ room（房间），名称按用途限定房间，不预设一定是办公室或工厂。",
+    "history": [
+      [
+        "英语 work；room",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + room → workroom",
+        "供工作、制作的房间"
+      ]
+    ],
+    "explanation": "可说裁缝的工作间、学校教职员工作间或艺术家的制作空间；是否售货、是否对外开放不是词名给出的。",
+    "usage": "a sewing workroom；the staff workroom；in the workroom。",
+    "contrast": "workroom 是一个具体房间，workspace 是工作空间，可能只是桌面、共享区或数字环境，不一定独立成室。",
+    "examples": [
+      [
+        "She converted the spare bedroom into a workroom.",
+        "她把空卧室改成了工作间。"
+      ],
+      [
+        "The costumes were stored beside the workroom.",
+        "服装放在工作间旁边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workroom#English"
+    ]
+  },
+  {
+    "word": "workwear",
+    "ipa": "英 /ˈwɜːkweə/；美 /ˈwɜːrkwer/",
+    "meaning": "工作服；适合工作场合的服装",
+    "sense": "围绕工作需要选衣服：可能要耐磨、防护，也可能要适合办公室。",
+    "split": "work（工作）+ wear（服装这一名词材料），组合说明穿着用途。wear 在这里不是单指磨损。",
+    "history": [
+      [
+        "英语 work；wear",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + wear → workwear",
+        "工作时穿的服装这一类别"
+      ]
+    ],
+    "explanation": "可涵盖工装裤、防护外套，也可在服装零售中说通勤办公服。具体保护性能要看衣物本身，workwear 这个标签不是认证。",
+    "usage": "durable workwear；protective workwear；office workwear。",
+    "contrast": "workwear 是类别名词，working clothes 是一般短语；uniform 则强调统一制式，并非所有 workwear 都统一。",
+    "examples": [
+      [
+        "The shop sells boots and durable workwear.",
+        "商店出售靴子和耐穿的工作服。"
+      ],
+      [
+        "She prefers simple, comfortable workwear for the office.",
+        "她上班喜欢穿简单舒服的通勤服装。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workwear#English"
+    ]
+  },
+  {
+    "word": "worksite",
+    "ipa": "英 /ˈwɜːksaɪt/；美 /ˈwɜːrksaɪt/",
+    "meaning": "作业现场；施工地点",
+    "sense": "图纸在办公室，真正挖土、安装、施工的那片地点是 worksite。",
+    "split": "work（作业）+ site（地点），组合按工作发生的位置命名。",
+    "history": [
+      [
+        "英语 work；site",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + site → worksite",
+        "具体进行作业的场所"
+      ]
+    ],
+    "explanation": "常用于施工和现场劳动，也可说开展特定工作的地点。范围由项目决定，不必是一整家公司的所有办公点。",
+    "usage": "arrive at the worksite；a construction worksite；worksite access。",
+    "contrast": "worksite 偏具体作业地点，workplace 更泛指工作环境；词之间有重叠，不能人为规定绝不互换。",
+    "examples": [
+      [
+        "The crew arrived at the worksite before sunrise.",
+        "施工队在日出前到达作业现场。"
+      ],
+      [
+        "Visitors must report to the office beside the worksite.",
+        "访客须先到作业现场旁的办公室报到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worksite#English"
+    ]
+  },
+  {
+    "word": "earthwork",
+    "ipa": "英 /ˈɜːθwɜːk/；美 /ˈɜːrθwɜːrk/",
+    "meaning": "土方工程；土筑工事",
+    "sense": "把土挖走、搬来、堆起，就能形成堤、壕沟或防御屏障。",
+    "split": "earth（土）+ work（工程、构筑物），不是 Earth 作为整颗行星在工作。",
+    "history": [
+      [
+        "英语 earth；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "earth + work → earthwork",
+        "移动土石的工程或筑出的土体结构"
+      ]
+    ],
+    "explanation": "工程中 earthworks 常指土方施工，历史、考古里可说土垒遗迹。艺术语境也可涉及以地表材料塑形的作品，具体看对象。",
+    "usage": "ancient earthworks；earthwork construction；an earthwork bank。",
+    "contrast": "earthwork 是土方或土筑结构，groundwork 常比喻准备基础；两个“地”相关词不总是近义。",
+    "examples": [
+      [
+        "The survey identified traces of ancient earthworks.",
+        "调查发现了古代土筑工事的痕迹。"
+      ],
+      [
+        "Earthwork began before the foundations were laid.",
+        "铺设地基之前，土方施工就开始了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/earthwork#English"
+    ]
+  },
+  {
+    "word": "workgroup",
+    "ipa": "英 /ˈwɜːkɡruːp/；美 /ˈwɜːrkɡruːp/",
+    "meaning": "工作组",
+    "sense": "围绕一项共同任务，把几个人组成小组，分担、讨论并推进。",
+    "split": "work（工作）+ group（组）。也见 working group 的短语形式；计算机命名里有相应专门用法。",
+    "history": [
+      [
+        "英语 work；group",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + group → workgroup",
+        "为某项工作组织起来的小组"
+      ]
+    ],
+    "explanation": "职场里可指任务组；计算机语境 workgroup 可能指一组相关联的设备或用户，具体技术含义由系统给定，不只是一群同事。",
+    "usage": "join a workgroup；a project workgroup；a workgroup meeting。",
+    "contrast": "workgroup 是围绕任务的组，workforce 是某机构或地区的人员整体。组内讨论方式不能由名称直接推断。",
+    "examples": [
+      [
+        "A small workgroup reviewed the proposed changes.",
+        "一个小工作组审查了拟议变更。"
+      ],
+      [
+        "Each workgroup presented its findings at the meeting.",
+        "各工作组在会上汇报了发现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workgroup#English"
+    ]
+  },
+  {
+    "word": "pipework",
+    "ipa": "英 /ˈpaɪpwɜːk/；美 /ˈpaɪpwɜːrk/",
+    "meaning": "管道系统；管道工程",
+    "sense": "不只一根管，而是一组连接、转弯、分支的管线及安装工作。",
+    "split": "pipe（管）+ work（组成结构或工程），集合地说安装好的管道系统，也可说相关施工。",
+    "history": [
+      [
+        "英语 pipe；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "pipe + work → pipework",
+        "一组管道及其安装工程"
+      ]
+    ],
+    "explanation": "英式维修、工程叙述常见，通常不可数。water pipework 是水管系统；不同系统输送什么，不由 work 这个尾部指定。",
+    "usage": "exposed pipework；replace the pipework；water pipework。",
+    "contrast": "pipe 是一根管或具体构件，可数；pipework 常将一整套管道作为整体来看。",
+    "examples": [
+      [
+        "The plumber replaced the damaged pipework.",
+        "管道工更换了受损的管线。"
+      ],
+      [
+        "The design leaves some of the pipework exposed.",
+        "这一设计让部分管道外露。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pipework#English"
+    ]
+  },
+  {
+    "word": "brushwork",
+    "ipa": "英 /ˈbrʌʃwɜːk/；美 /ˈbrʌʃwɜːrk/",
+    "meaning": "绘画笔法；画笔笔触",
+    "sense": "看同样的颜色怎样被画笔拖开、叠上、点出，能看出画者用笔的方式。",
+    "split": "brush（画笔）+ work（运用、做出的效果），用于绘画中笔触及用笔方式。",
+    "history": [
+      [
+        "英语 brush；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "brush + work → brushwork",
+        "运用画笔形成的技巧、笔触效果"
+      ]
+    ],
+    "explanation": "bold brushwork 是大胆笔触，delicate brushwork 是精细用笔。通常不可数，关注笔触如何组织画面，不只是用了哪种刷子。",
+    "usage": "loose brushwork；bold brushwork；delicate brushwork。",
+    "contrast": "brushwork 说用笔与笔触，composition 说画面构图；一幅画可以两方面风格不同。",
+    "examples": [
+      [
+        "The painting is known for its bold brushwork.",
+        "这幅画以大胆的笔触著称。"
+      ],
+      [
+        "Close inspection reveals the delicacy of her brushwork.",
+        "仔细看能发现她用笔的细腻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brushwork#English"
+    ]
+  },
+  {
+    "word": "ductwork",
+    "ipa": "英 /ˈdʌktwɜːk/；美 /ˈdʌktwɜːrk/",
+    "meaning": "风管系统；管道系统",
+    "sense": "天花板上方，一段段宽管接起来，把空气送到不同房间。",
+    "split": "duct（导管、风管）+ work（整体结构），通常集合地说建筑通风或空调的管道网络。",
+    "history": [
+      [
+        "英语 duct；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "duct + work → ductwork",
+        "由多段导管组成的系统"
+      ]
+    ],
+    "explanation": "常用于供暖、通风、空调说明。材质和尺寸随系统变化；普通住宅语境多抓住空气输送，不把每根水管都叫 ductwork。",
+    "usage": "air-conditioning ductwork；install ductwork；exposed ductwork。",
+    "contrast": "pipework 常偏一组管道，ductwork 常偏风管系统；具体工程也会有专门术语，不能仅由外形判断。",
+    "examples": [
+      [
+        "The ceiling hides the ventilation ductwork.",
+        "天花板遮住了通风管道。"
+      ],
+      [
+        "The contractor inspected the old ductwork.",
+        "承包商检查了旧风管系统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ductwork#English"
+    ]
+  },
+  {
+    "word": "roadwork",
+    "ipa": "英 /ˈrəʊdwɜːk/；美 /ˈroʊdwɜːrk/",
+    "meaning": "道路施工；公路训练跑",
+    "sense": "一条路可以是被修的对象，也可以是运动员跑步训练的场地。",
+    "split": "road（道路）+ work（作业、训练）。道路施工与训练跑依各自语境使用，不能把两义强行当成同一次活动。",
+    "history": [
+      [
+        "英语 road；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "road + work → roadwork",
+        "修路作业；在道路上做的耐力训练"
+      ]
+    ],
+    "explanation": "交通叙述常见英式 roadworks、美式 roadwork，说道路施工。拳击等训练语境的 roadwork 可指道路跑步训练。",
+    "usage": "delays due to roadworks；roadwork ahead；morning roadwork。",
+    "contrast": "roadwork 是施工或训练，roadway 是供通行的路面；后者是对象，前者是相关工作。",
+    "examples": [
+      [
+        "Roadworks delayed the bus for twenty minutes.",
+        "道路施工让公交车耽误了二十分钟。"
+      ],
+      [
+        "The boxer began the day with roadwork.",
+        "拳击手以公路跑步训练开始一天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roadwork#English"
+    ]
+  },
+  {
+    "word": "worktop",
+    "ipa": "英 /ˈwɜːktɒp/；美 /ˈwɜːrktɑːp/",
+    "meaning": "操作台面；厨房台面〔英式〕",
+    "sense": "切菜、放碗、揉面时双手直接操作的那片平面。",
+    "split": "work（操作）+ top（顶部平面），组合说柜体等上面的工作表面。",
+    "history": [
+      [
+        "英语 work；top",
+        "并列的两个构词材料"
+      ],
+      [
+        "work + top → worktop",
+        "厨房等供操作的台面"
+      ]
+    ],
+    "explanation": "英式 kitchen worktop，美式常说 countertop。worktop 侧重表面，不一定指整个柜子或工作台结构。",
+    "usage": "a kitchen worktop；a stone worktop；wipe the worktop。",
+    "contrast": "worktop 是台面，workbench 是整张工作台；擦台面和搬工作台不是同一层操作。",
+    "examples": [
+      [
+        "Please wipe the worktop after preparing the food.",
+        "备餐后请擦净台面。"
+      ],
+      [
+        "They chose a wooden worktop for the kitchen.",
+        "他们给厨房选了木质操作台面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worktop#English"
+    ]
+  },
+  {
+    "word": "telework",
+    "ipa": "英 /ˈtelɪwɜːk/；美 /ˈteliwɜːrk/",
+    "meaning": "远程工作；远程办公",
+    "sense": "人不必坐在公司的同一间屋里，通过通信工具把任务和结果接起来。",
+    "split": "tele-（远距离）+ work（工作），用古典组合形式与本族词组成现代工作名称。",
+    "history": [
+      [
+        "英语 tele-；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "tele- + work → telework",
+        "通过远程通信安排的工作"
+      ]
+    ],
+    "explanation": "可作动词或名词，常见政策、办公制度文本；并不要求所有 telework 都在自己家里完成。日常也常用 work remotely、remote work。",
+    "usage": "a telework policy；telework arrangements；be allowed to telework。",
+    "contrast": "telework 重在远程通信，homework 是作业，不能因为在家办公就把一般工作叫 homework。",
+    "examples": [
+      [
+        "Employees may telework two days a week.",
+        "员工可以每周远程办公两天。"
+      ],
+      [
+        "The new telework policy applies to several departments.",
+        "新的远程办公政策适用于几个部门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telework#English"
+    ]
+  },
+  {
+    "word": "woodwork",
+    "ipa": "英 /ˈwʊdwɜːk/；美 /ˈwʊdwɜːrk/",
+    "meaning": "木工；木制构件",
+    "sense": "把木料锯、刨、拼成东西；也可以直接指屋里的木门框、护壁板等构件。",
+    "split": "wood（木材）+ work（加工、制成物），中古英语已有相应组合；活动与成果两义都与木材有关。",
+    "history": [
+      [
+        "英语 wood；work",
+        "并列的两个构词材料"
+      ],
+      [
+        "wood + work → woodwork",
+        "木工劳动；建筑中的木制部分"
+      ]
+    ],
+    "explanation": "学校 woodwork 可说木工课程；paint the woodwork 是刷建筑里的木制构件。come out of the woodwork 是突然冒出来，常带原先不见人的意味。",
+    "usage": "do woodwork；paint the woodwork；come out of the woodwork。",
+    "contrast": "woodwork 不等于所有树林中的活动：伐木是 logging，林业是 forestry；work 的对象是木材加工或其制品。",
+    "examples": [
+      [
+        "He learned basic woodwork at school.",
+        "他在学校学过基础木工。"
+      ],
+      [
+        "The old house needs new paint on the woodwork.",
+        "旧房子的木制构件需要重新刷漆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/woodwork#English"
+    ]
+  }
+]

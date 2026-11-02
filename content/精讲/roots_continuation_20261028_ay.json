@@ -1,0 +1,115 @@
+[
+  {
+    "id": "B2480",
+    "meaning": "战争、争斗及相关人物事物",
+    "core": "WAR：从武装冲突，分出作战、人、工具和比喻",
+    "image": "war 是战争，warfare 看作战活动，warrior 是战斗者；鼓吹战争、老将与办公室发火另有语气。",
+    "intro": "war 经法语进入英语，更早又接日耳曼争斗、混乱词族。warrior 经法语人物名词借入，不把 -rior 当万能后缀。高度专门术语和主要是品牌才高频的词先不铺开。",
+    "forms": "war → warrior、warfare、warring；warship / warplane 放工具分支；warlord / warlike / warmonger → warmongering 讲身份态度；warpath、warhorse、wargaming 讲引申。\n\n日耳曼争斗词族经北部法语、盎格鲁诺曼语借入英语。\n\n法语 war 词族人物名词借入，不把 rior 当现代通用后缀。\n\n与 war 比较战争，不由 war 派生。martial 接拉丁 martialis，Mars、Mart- 战神名 + 关系形容词材料；与日耳曼管马职务名 marshal 来路不同。",
+    "branches": [
+      [
+        "战争、人物与过程",
+        "war · warrior · warfare · warring"
+      ],
+      [
+        "相关工具和既有时间词",
+        "warship · warplane · warhead · wartime · interwar"
+      ],
+      [
+        "掌权与好战态度",
+        "warlord · warlike · warmonger · warmongering"
+      ],
+      [
+        "比喻及模拟",
+        "warpath · warhorse · wargaming"
+      ],
+      [
+        "war → wars：争斗与战争",
+        "war · wars"
+      ],
+      [
+        "warrior → warriors：作战者",
+        "warrior · warriors"
+      ],
+      [
+        "martial：战神名到军事、武艺",
+        "martial"
+      ]
+    ],
+    "contrasts": "warship 军舰、worship 崇拜；warrior 战斗者、warmonger 鼓吹者；on the warpath 常是盛怒，不是真正 at war。",
+    "practice": "The historian studied warfare without treating every warrior as a warmonger.\n\n历史学家研究作战活动，并没有把每位战士都看成战争鼓吹者。",
+    "words": [
+      "war",
+      "warrior",
+      "warfare",
+      "warring",
+      "warship",
+      "warplane",
+      "warhead",
+      "wartime",
+      "interwar",
+      "warlord",
+      "warlike",
+      "warmonger",
+      "warmongering",
+      "warpath",
+      "warhorse",
+      "wargaming",
+      "wars",
+      "warriors",
+      "martial"
+    ],
+    "exclude": {
+      "post-war": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-war": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-war": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pro-war": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "war-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "warcraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "warfighter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "warfighting": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2482",
+    "meaning": "一片土地；国家；乡间",
+    "core": "COUNTRY：先看这片土地按什么方式划分",
+    "image": "政治边界是国家，城市之外是乡间；wide 扩到全国，side 明确乡村地区。",
+    "intro": "country 经法语 contree 到英语，更早拉丁来源有重建形式，不能伪装成实见词。county 行政区另源；country 的国家、乡间义进入不同复合词。",
+    "forms": "country → countryside、countryman、countrywide；backcountry 已有精讲复用。\n\n复数常说多个国家、地区；乡村和乡村音乐的 country 义有不同可数性、修饰结构。",
+    "branches": [
+      [
+        "国家和乡间两义",
+        "country"
+      ],
+      [
+        "乡间地区和人",
+        "countryside · countryman · backcountry"
+      ],
+      [
+        "整个国家范围",
+        "countrywide"
+      ],
+      [
+        "country → countries：国家、地区的复数",
+        "country · countries"
+      ]
+    ],
+    "contrasts": "country 国家或乡间，county 郡县；countrywide 全国，countryside 乡间，不只差一个尾巴。",
+    "practice": "The countrywide survey included both cities and the countryside.\n\n全国调查同时包含城市和乡村。",
+    "words": [
+      "country",
+      "countryside",
+      "countryman",
+      "countrywide",
+      "backcountry",
+      "countries"
+    ],
+    "exclude": {
+      "step-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bro-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

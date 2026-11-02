@@ -1,0 +1,168 @@
+[
+  {
+    "id": "B4435",
+    "meaning": "省区的范围，扩展到跨省与按省组织",
+    "core": "PROVINCIAL：先看省区范围，再看是否在评价眼界",
+    "image": "provincial → provincially；interprovincial 跨过省界。",
+    "intro": "地方、省级本来是中性的行政范围。省际交通、按省组织都沿这条线；眼界狭隘义要由语境另外确认。",
+    "forms": "provincia → provincialis → provincial；-ly 方式、层面；inter- 在不同省之间。",
+    "branches": [
+      [
+        "地方性质、方式和跨省范围",
+        "provincial · provincially · interprovincial"
+      ]
+    ],
+    "contrasts": "provincially funded 说出资层面；provincial outlook 才可能批评见识局限。",
+    "practice": "The provincially funded service supports interprovincial travel.\n\n这项省级出资的服务支持省际出行。",
+    "words": [
+      "provincial",
+      "provincially",
+      "interprovincial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2736",
+    "meaning": "盆的形状扩展到地形、流域与小篮床名称",
+    "core": "BASIN：凹进去、能围住东西的一片空间",
+    "image": "basin 看容器和地理；bassinet 看小盆名与婴儿床的历史联系。",
+    "intro": "盆、水槽看实体；盆地看凹陷形状；流域看共同汇水范围。小篮床的名称与小盆有关，但具体借词路径有不同解释。",
+    "forms": "*baccinum → bacin → basyn → basin；法语 bassin 的指小形式 bassinet，与英语婴儿床名相关。",
+    "branches": [
+      [
+        "盆及小盆形婴儿床名称",
+        "basin · bassinet"
+      ]
+    ],
+    "contrasts": "流域强调汇水出口；bassinet 的 -et 有指小背景，不表示所有小盆都能叫婴儿床。",
+    "practice": "A river basin is named through the image of a basin; a bassinet has its own borrowing history.\n\n流域借用了盆的形象；婴儿小床这个名称另有具体借词历史。",
+    "words": [
+      "basin",
+      "bassinet"
+    ],
+    "exclude": {
+      "slop-basin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3148",
+    "meaning": "面部胡须，连接外形描写与无胡须状态",
+    "core": "BEARD：下巴、两颊的一片胡须",
+    "image": "beard → beardless；goatee 可回看山羊胡那一组。",
+    "intro": "先抓胡须覆盖的部位，再理解须状物的外形比喻。-less 说明缺少胡须，文学里的年轻义来自这幅外貌。",
+    "forms": "古英语 beard → berd → beard；beardlēas → beardless，-less 缺少。\n\nbarb、barber 经法语接拉丁 barba 胡须，barbed 为 barb 加完整 -ed，barbershop 为 barber 加 shop。beard 接日耳曼胡须词，常与 barba 比较，但共同远祖分析有争议，不说 barber 是英语 beard 加 -er。",
+    "branches": [
+      [
+        "胡须与无胡须状态",
+        "beard · beardless"
+      ],
+      [
+        "拉丁 barba 胡须词族；与 beard 的更远联系有争议",
+        "barb · barbed · barber · barbershop"
+      ]
+    ],
+    "contrasts": "beardless 不保证年纪小；moustache 上唇胡须与 beard 的部位重点不同。",
+    "practice": "Without his beard, his beardless face looked unfamiliar.\n\n没了胡须后，他那张光洁的脸显得有些陌生。",
+    "words": [
+      "beard",
+      "beardless",
+      "barb",
+      "barbed",
+      "barber",
+      "barbershop"
+    ],
+    "exclude": {
+      "beard-second": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluebeard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitebeard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beardy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2596",
+    "meaning": "骰子方块的形象，扩展到数学、艺术与高维结构",
+    "core": "CUBE：正方形面围成立体，数学再把结构往外推广",
+    "image": "cube → cubic、cuboid；cubist 看艺术命名；hypercube 看维度推广。",
+    "intro": "一粒方糖能帮助记实体，边长连乘三次能帮助记立方；长方体允许长宽高不同，超立方体增加维度，立体主义另看艺术表达。",
+    "forms": "kybos → cubus → cube；-ic 性质，-oid 类似形状，-ist 艺术人物或风格；hyper- 超出通常维度。",
+    "branches": [
+      [
+        "几何实体与性质",
+        "cube · cubic · cuboid"
+      ],
+      [
+        "艺术与高维推广",
+        "cubist · hypercube"
+      ]
+    ],
+    "contrasts": "cubist 是艺术风格；hypercube 重点在维度，不能只按大小理解。",
+    "practice": "The lesson moves from a cube and its cubic volume to a hypercube.\n\n这节课从立方体及其体积讲到超立方体。",
+    "words": [
+      "cube",
+      "cubic",
+      "cuboid",
+      "cubist",
+      "hypercube"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4095",
+    "meaning": "高耸到陡坡的旧形象，与浸泡动词分开记",
+    "core": "STEEP：一支往上立，一支浸进液体",
+    "image": "steep → steeply、steepness；同族 steeple 高塔。泡茶 steep 单看动词支线。",
+    "intro": "陡坡、陡升的图线、过高的报价可以互相帮助理解。教堂高塔保留高耸旧意，浸泡则有另一条借词历史。",
+    "forms": "stēap 高耸 → steep 陡；-ly 方式、-ness 性质；stīpel → steeple。同形动词 stepen 浸泡来源另论。",
+    "branches": [
+      [
+        "陡峭的性质与程度",
+        "steep · steeply · steepness"
+      ],
+      [
+        "高塔保留高耸旧意",
+        "steeple"
+      ]
+    ],
+    "contrasts": "浸泡义不能硬接陡坡；steeper 的日常比较级在 steep 正文解释，生僻器具同形词略过。",
+    "practice": "The path rises steeply towards the church steeple.\n\n小路陡陡地通向教堂高塔。",
+    "words": [
+      "steep",
+      "steeply",
+      "steepness",
+      "steeple"
+    ],
+    "exclude": {
+      "steep-down": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "steeper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2419",
+    "meaning": "象的旧借名，日常比喻借它庞大的体形",
+    "core": "ELEPHANT：巨大而显眼，正好形容无法忽视的问题",
+    "image": "elephant 先学动物与常用固定比喻，冷门复合略过。",
+    "intro": "从希腊的象、象牙名称，经拉丁、法语传到英语。大象的长鼻、庞大体形比孤立背字母更容易形成记忆。",
+    "forms": "eléphās，词干 elephant- → elephantus → olifant、elefant → elephant；ph 读 /f/。\n\nelephant 经法语、拉丁接希腊 elephas、elephant- 象、象牙材料，更远借词来源未定。现代复数加 -s，末尾 /nts/。",
+    "branches": [
+      [
+        "动物与常见固定比喻",
+        "elephant"
+      ],
+      [
+        "希腊、拉丁动物名 → elephant → elephants",
+        "elephants"
+      ]
+    ],
+    "contrasts": "末尾 -ant 不按施事后缀乱拆；elephant in the room 是大家回避的大问题。",
+    "practice": "The enormous cost became the elephant in the room.\n\n巨额成本成了大家回避不谈的大问题。",
+    "words": [
+      "elephant",
+      "elephants"
+    ],
+    "exclude": {
+      "he-elephant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "she-elephant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "were-elephant": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

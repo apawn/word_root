@@ -1,0 +1,972 @@
+[
+  {
+    "word": "tempos",
+    "ipa": "英 /ˈtempəʊz/；美 /ˈtempoʊz/",
+    "meaning": "演奏速度、行进节奏〔复数〕",
+    "sense": "同一段音乐放慢、加快，旋律还在，推进的速度不同。这些不同速度叫 tempos，也可比喻事情进行的节奏。",
+    "split": "tempo + 英语复数 -s，直接写 tempos。tempo 借意大利语时间、速度，远接拉丁 tempus；不是临时 temporary 的截短。",
+    "history": [
+      [
+        "拉丁 tempus 时间 → 意大利 tempo",
+        "时间；音乐的演奏速度"
+      ],
+      [
+        "英语 tempo → tempos／tempi",
+        "英语式与意大利式复数并存"
+      ]
+    ],
+    "explanation": "different tempos 是不同演奏速度；the tempos of city life 可比喻不同城市生活的步调。",
+    "usage": "slow tempos 慢速度；practise at different tempos 以不同速度练习。",
+    "contrast": "tempo 看推进快慢，rhythm 看音的长短、轻重安排；同一节奏型可以用不同 tempos 演奏。",
+    "examples": [
+      [
+        "We practised the passage at three different tempos.",
+        "我们以三种速度练习这一段。"
+      ],
+      [
+        "The two recordings use noticeably different tempos.",
+        "两段录音的演奏速度明显不同。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tempo",
+      "https://en.wiktionary.org/wiki/tempos#English"
+    ]
+  },
+  {
+    "word": "tempi",
+    "ipa": "/ˈtempi/",
+    "meaning": "演奏速度〔tempo 的另一复数〕",
+    "sense": "tempi 仍在说多个演奏速度，只是保留了意大利语那套 o 变 i 的复数样子。",
+    "split": "tempo 的意大利式复数 tempi，英语也采用；与英语式 tempos 对应，不再额外加 -s。",
+    "history": [
+      [
+        "拉丁 tempus 时间 → 意大利 tempo",
+        "时间；音乐的演奏速度"
+      ],
+      [
+        "英语 tempo → tempos／tempi",
+        "英语式与意大利式复数并存"
+      ]
+    ],
+    "explanation": "音乐评论、乐谱讨论中可见 tempi；日常英语也常直接写 tempos，意思不因此分成高级、初级两种速度。",
+    "usage": "contrasting tempi 对比鲜明的速度；different tempi 不同演奏速度。",
+    "contrast": "tempo 是单数，tempi 是复数；不能把 tempi 再当单数来造 tempis。",
+    "examples": [
+      [
+        "The conductor chose brisk tempi throughout the work.",
+        "指挥为整部作品选择了轻快的演奏速度。"
+      ],
+      [
+        "We compared the tempi of the two performances.",
+        "我们比较了两场演出的速度。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tempo",
+      "https://en.wiktionary.org/wiki/tempi#English"
+    ]
+  },
+  {
+    "word": "sopranos",
+    "ipa": "英 /səˈprɑːnəʊz/；美 /səˈprænoʊz/",
+    "meaning": "女高音、高音声部及相应演唱者〔复数〕",
+    "sense": "在常见合唱安排中，较高的一条线常交给 soprano 声部；sopranos 既可说这些声音部分，也常指唱它的人。",
+    "split": "soprano + -s。原词借意大利 soprano，来自表示上方的材料，远接拉丁 super；不是英语 super 加某个人名。",
+    "history": [
+      [
+        "拉丁 super 上方 → 意大利相关形式、soprano",
+        "位于上方的声音部分"
+      ],
+      [
+        "英语 soprano + -s → sopranos",
+        "高音声部、相应演唱者"
+      ]
+    ],
+    "explanation": "the sopranos in the choir 是合唱团的高音声部、演唱者；人物不必仅靠性别猜，声部与音域才是重点。",
+    "usage": "two sopranos 两位女高音；the sopranos enter 高音声部加入。",
+    "contrast": "alto 的字面也与高有关，但现代常用分工中 soprano 比 alto 高；历史字面不直接代替现代声部位置。",
+    "examples": [
+      [
+        "The sopranos sing the melody in this section.",
+        "这一段由高音声部唱主旋律。"
+      ],
+      [
+        "Two guest sopranos joined the concert.",
+        "两位客座女高音参加了音乐会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sopranos#English",
+      "https://en.wiktionary.org/wiki/soprano#English"
+    ]
+  },
+  {
+    "word": "altos",
+    "ipa": "英 /ˈæltəʊz/；美 /ˈæltoʊz/",
+    "meaning": "女低音、合唱中低声部及相应演唱者〔复数〕",
+    "sense": "高声部下面还有一条更低的合唱线，常由 altos 承担。虽然名字字面有高，现代位置要按声部分工来学。",
+    "split": "alto + -s。原词借意大利 alto 高，接拉丁 altus；历史上的高相对当时 tenor 等声部命名，并不说它永远最高。",
+    "history": [
+      [
+        "拉丁 altus → 意大利 alto",
+        "高；历史声部相对命名"
+      ],
+      [
+        "英语 alto + -s → altos",
+        "现代中低合唱声部、相应歌手"
+      ]
+    ],
+    "explanation": "the altos in the choir 是合唱团中低声部，常与 sopranos、tenors、basses 对照。",
+    "usage": "the altos rehearse 中低声部排练；two altos 两位相应声部歌手。",
+    "contrast": "合唱分工中 altos 通常在 sopranos 下方；历史上的高是过去的命名关系，不当成现代声部排名。",
+    "examples": [
+      [
+        "The altos practise their part separately.",
+        "中低声部单独练自己的部分。"
+      ],
+      [
+        "The choir needs two more altos.",
+        "合唱团还需要两位中低声部演唱者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/altos#English",
+      "https://en.wiktionary.org/wiki/alto#English"
+    ]
+  },
+  {
+    "word": "tenors",
+    "ipa": "英 /ˈtenəz/；美 /ˈtenərz/",
+    "meaning": "男高音、相应声部或歌手〔复数〕",
+    "sense": "常见男声合唱中，tenors 负责较高的一条线。名字更早带着保持、延续的意思，与历史上承载旋律的声部有关。",
+    "split": "tenor + -s，末尾读 /z/。tenor 经法语接拉丁 tenor 延续、保持的进程，与 tenere 保持同族。",
+    "history": [
+      [
+        "拉丁 tenere → tenor → 法语、英语 tenor",
+        "保持、延续；历史上承载主要旋律的声部"
+      ],
+      [
+        "tenor + -s → tenors",
+        "男高音声部、演唱者；相应名词复数"
+      ]
+    ],
+    "explanation": "the tenors in the choir 是合唱团男高音；general tenor of a speech 中 tenor 则说整体基调、意思走向。",
+    "usage": "two tenors 两位男高音；the tenors enter 男高音声部加入。",
+    "contrast": "tenor 是声部名称时不等于声音都轻、都小；它关注音域与演唱角色。",
+    "examples": [
+      [
+        "The tenors repeat the melody after the sopranos.",
+        "男高音声部在女高音之后重复旋律。"
+      ],
+      [
+        "Two tenors shared the leading role during the season.",
+        "本乐季由两位男高音轮流担任主角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tenors#English",
+      "https://en.wiktionary.org/wiki/tenor#English"
+    ]
+  },
+  {
+    "word": "basses",
+    "ipa": "低音义 /ˈbeɪsɪz/；鱼名义 /ˈbæsɪz/",
+    "meaning": "低音声部、低音乐器、低音歌手；鲈鱼等鱼类〔复数〕",
+    "sense": "舞台上低沉的声部叫 bass，读 /beɪs/；水里的某些鱼也拼 bass，却读 /bæs/。复数拼写汇在一起，读音仍分两路。",
+    "split": "bass 加 -es → basses，/s/ 后读 /ɪz/。低音支由 base 低的旧义受意大利 basso 影响改写；鱼名承古英语 bærs 一支，另也常用不变复数 bass。",
+    "history": [
+      [
+        "base 低的旧义及意大利 basso → 音乐 bass /beɪs/",
+        "现代低音、低音歌手及乐器"
+      ],
+      [
+        "古英语 bærs → 鱼名 bass /bæs/；两支各有 basses",
+        "同形复数保留不同元音"
+      ]
+    ],
+    "explanation": "the basses in the choir 是低音歌手；electric basses 是低音吉他等乐器；鱼类语境则读另一音。",
+    "usage": "double basses 低音提琴；the basses sing 低音声部唱。",
+    "contrast": "低音 basses 与 bases 基础、底座的复数同音，但鱼名 basses 不同音；用场景配合拼写来分。",
+    "examples": [
+      [
+        "The basses sing a low note under the melody.",
+        "低音声部在旋律下面唱一个低音。"
+      ],
+      [
+        "The orchestra uses four double basses.",
+        "乐团使用四把低音提琴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/basses#English",
+      "https://en.wiktionary.org/wiki/bass#English"
+    ]
+  },
+  {
+    "word": "baritones",
+    "ipa": "英 /ˈbærɪtəʊnz/；美 /ˈbærɪtoʊnz/",
+    "meaning": "男中音、相应声部或歌手〔复数〕",
+    "sense": "在常见男声分类中，男高音与男低音之间还有温厚的男中音；baritones 可以说这些演唱者。",
+    "split": "baritone + -s。原词经意大利 baritono 接希腊 barytonos：barys 重、低沉 + tonos 音调；“重”形容声音，不是体重。",
+    "history": [
+      [
+        "希腊 barys + tonos → barytonos → 意大利 baritono",
+        "重、低沉的音调"
+      ],
+      [
+        "英语 baritone + -s → baritones",
+        "男中音声部、相应演唱者"
+      ]
+    ],
+    "explanation": "operatic baritones 是歌剧男中音；也能按演奏音域命名某些乐器，具体看前后文。",
+    "usage": "two baritones 两位男中音；a group of baritones 一组男中音。",
+    "contrast": "tenor、baritone、bass 是不同声部、音域名称；不能只用嗓音响不响判断是哪一类。",
+    "examples": [
+      [
+        "The production features two well-known baritones.",
+        "这部制作有两位知名男中音出演。"
+      ],
+      [
+        "The baritones sing the middle line in this passage.",
+        "这一段男中音声部唱中间的一条线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/baritones#English",
+      "https://en.wiktionary.org/wiki/baritone#English"
+    ]
+  },
+  {
+    "word": "applauds",
+    "ipa": "英 /əˈplɔːdz/；美 /əˈplɔːdz/、/əˈplɑːdz/",
+    "meaning": "鼓掌、赞许〔第三人称单数〕",
+    "sense": "一双手拍起来，表示“做得好”；即使没有真的拍手，也可以说某人 applauds 一个决定，意思是表示赞同。",
+    "split": "applaud + -s，/d/ 后读 /z/。基础词接拉丁 ad- 在 p 前同化为 ap- + plaudere 拍手、拍击。",
+    "history": [
+      [
+        "拉丁 ad- + plaudere → applaudere",
+        "向着对象拍手、表示赞许；ad- 在 p 前同化"
+      ],
+      [
+        "英语 applaud",
+        "早有称赞、赞许义，实际拍手义在英语的记录较晚"
+      ],
+      [
+        "applaud + -s → applauds",
+        "他、她鼓掌或赞许"
+      ]
+    ],
+    "explanation": "applauds the performers 是为表演者鼓掌，applauds the decision 是赞同决定，不要求现场拍手。",
+    "usage": "applauds loudly 大声鼓掌；applauds the effort 赞许这番努力。",
+    "contrast": "applause 是掌声、赞许的名词，applauds 是动词；不是给 applaud 随意换个字母作复数。",
+    "examples": [
+      [
+        "She applauds enthusiastically after every performance.",
+        "每次演出结束她都热烈鼓掌。"
+      ],
+      [
+        "He applauds their decision to try again.",
+        "他赞许他们再试一次的决定。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/applaud",
+      "https://en.wiktionary.org/wiki/applauds#English"
+    ]
+  },
+  {
+    "word": "applauded",
+    "ipa": "英 /əˈplɔːdɪd/；美 /əˈplɔːdɪd/、/əˈplɑːdɪd/",
+    "meaning": "鼓掌、称赞了；受到赞许的",
+    "sense": "演出刚结束，人们已经拍手叫好，是 applauded；一个做法得到肯定，也可以说 was applauded。",
+    "split": "applaud + 完整 -ed，原来以 /d/ 结尾，另成 /ɪd/ 音节；不把末尾读成又一段重读的 /ed/。",
+    "history": [
+      [
+        "拉丁 ad- + plaudere → applaudere",
+        "向着对象拍手、表示赞许；ad- 在 p 前同化"
+      ],
+      [
+        "英语 applaud",
+        "早有称赞、赞许义，实际拍手义在英语的记录较晚"
+      ],
+      [
+        "applaud + -ed → applauded",
+        "过去鼓掌、称赞；受到赞许"
+      ]
+    ],
+    "explanation": "was applauded for something 是因某事获赞，applauded the actor 是给演员鼓掌。",
+    "usage": "warmly applauded 获得热烈掌声的；applauded their courage 赞许了他们的勇气。",
+    "contrast": "praised 直接说称赞，applauded 可以是真的鼓掌，也可以只表达赞许；用对象和场景判断。",
+    "examples": [
+      [
+        "The audience applauded the young musician.",
+        "观众为年轻乐手鼓掌。"
+      ],
+      [
+        "Her patience was widely applauded.",
+        "她的耐心得到了广泛赞许。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/applauded#English",
+      "https://www.etymonline.com/word/applaud"
+    ]
+  },
+  {
+    "word": "applauding",
+    "ipa": "英 /əˈplɔːdɪŋ/；美 /əˈplɔːdɪŋ/、/əˈplɑːdɪŋ/",
+    "meaning": "正在鼓掌、赞许；鼓掌的动作",
+    "sense": "人们正拍着手，或者公开表示“这件事做得好”，都可说 applauding。动作可以有声音，也可以只体现在态度中。",
+    "split": "applaud + 完整 -ing，保留原拼写。拉丁词族本有拍击、鼓掌义，英语抽象赞许义的记录反而较早。",
+    "history": [
+      [
+        "拉丁 ad- + plaudere → applaudere",
+        "向着对象拍手、表示赞许；ad- 在 p 前同化"
+      ],
+      [
+        "英语 applaud",
+        "早有称赞、赞许义，实际拍手义在英语的记录较晚"
+      ],
+      [
+        "applaud + -ing → applauding",
+        "鼓掌、赞许的进行或活动"
+      ]
+    ],
+    "explanation": "keep applauding 是继续鼓掌；applauding a decision 是赞同某个决定。",
+    "usage": "applauding the performers 为表演者鼓掌；applauding the effort 赞许努力。",
+    "contrast": "clapping 明确描述拍手动作，applauding 更突出用它表示赞许，也能完全没有拍手。",
+    "examples": [
+      [
+        "The audience kept applauding after the curtain fell.",
+        "落幕后观众仍在鼓掌。"
+      ],
+      [
+        "I am applauding their effort, not just the final result.",
+        "我赞许的是他们的努力，不只是最终结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/applauding#English",
+      "https://www.etymonline.com/word/applaud"
+    ]
+  },
+  {
+    "word": "encore",
+    "ipa": "英 /ˈɒŋkɔː/；美 /ˈɑːŋkɔːr/",
+    "meaning": "再来一个！；返场加演节目；要求返场",
+    "sense": "节目结束了，观众还不愿走，喊“再来一个！”表演者回来加演的那一段，也叫 an encore。",
+    "split": "直接借法语 encore 再、仍。更远常用包含拉丁 hora 时刻的短语解释，但重构形式不一；不是英语 en- + core 核心。",
+    "history": [
+      [
+        "法语 encore 仍、再 → 英语 encore",
+        "请求表演者再来一次的呼声"
+      ],
+      [
+        "英语 encore 的名词与动词用途",
+        "返场加演节目；请求、进行返场；远源常联系含 hora 的拉丁短语，具体重构不唯一"
+      ]
+    ],
+    "explanation": "play an encore 是返场加演；shout “encore!” 是观众要求再来一次，名词与呼声有关。",
+    "usage": "an encore performance 返场演出；as an encore 作为加演节目。",
+    "contrast": "encore 不要求把刚才同一首完整重复，也可另演一个节目；重点是正式节目后的额外回应。",
+    "examples": [
+      [
+        "The audience shouted “Encore!”",
+        "观众高喊“再来一个！”"
+      ],
+      [
+        "She played a short piece as an encore.",
+        "她返场加演了一首短曲。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/encore",
+      "https://en.wiktionary.org/wiki/encore#English"
+    ]
+  },
+  {
+    "word": "encores",
+    "ipa": "英 /ˈɒŋkɔːz/；美 /ˈɑːŋkɔːrz/",
+    "meaning": "返场加演节目〔复数〕；要求返场〔第三人称单数〕",
+    "sense": "表演结束又加演一首、再加演一首，这些额外节目叫 encores。它数的是返场内容，不是掌声拍了几下。",
+    "split": "encore + -s，末尾读 /z/。法语再、仍的整词被借入英语，再发展出可数的节目名与相关动词。",
+    "history": [
+      [
+        "法语 encore 仍、再 → 英语 encore",
+        "请求表演者再来一次的呼声"
+      ],
+      [
+        "英语 encore 的名词与动词用途",
+        "返场加演节目；请求、进行返场；远源常联系含 hora 的拉丁短语，具体重构不唯一"
+      ],
+      [
+        "encore + -s → encores",
+        "多段返场节目；它要求返场"
+      ]
+    ],
+    "explanation": "two encores 是两段加演节目，multiple encores 说不止一次回应观众的返场。",
+    "usage": "play two encores 加演两个节目；request encores 要求返场。",
+    "contrast": "applause 是掌声，encores 是由回应掌声等要求而来的加演；一阵掌声不等于一个节目。",
+    "examples": [
+      [
+        "The band played two encores.",
+        "乐队返场加演了两个节目。"
+      ],
+      [
+        "The audience stayed for several encores.",
+        "观众留下来看了好几个返场节目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encores#English",
+      "https://www.etymonline.com/word/encore"
+    ]
+  },
+  {
+    "word": "ovation",
+    "ipa": "英 /əʊˈveɪʃən/；美 /oʊˈveɪʃən/",
+    "meaning": "热烈欢迎；热烈鼓掌、欢呼",
+    "sense": "全场一起热烈鼓掌，声音久久不落，给人很强的欢迎、赞许，这一阵回应叫 an ovation。",
+    "split": "经法语或直接拉丁 ovatio，接 ovare 欢庆、欢呼，远源可能与呼声拟声有关；不是 ovum 蛋那条词根。",
+    "history": [
+      [
+        "拉丁 ovare 欢庆、欢呼 → ovatio；法语或拉丁路线 → ovation",
+        "原有古罗马较低一级凯旋庆典的历史用途"
+      ],
+      [
+        "英语 ovation 的后起比喻义",
+        "一群人热烈鼓掌、欢呼的欢迎或赞许"
+      ]
+    ],
+    "explanation": "a standing ovation 是全场或许多人起立鼓掌；warm ovation 是热烈欢迎、掌声。",
+    "usage": "receive an ovation 获得热烈掌声；give someone an ovation 向某人热烈鼓掌。",
+    "contrast": "applause 泛说掌声，ovation 更强调一群人热烈而显著的欢迎、赞许；a standing ovation 又加上起立画面。",
+    "examples": [
+      [
+        "The audience gave her a standing ovation.",
+        "观众起立向她热烈鼓掌。"
+      ],
+      [
+        "The team received a warm ovation on their return.",
+        "队伍归来时受到热烈欢迎。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ovation",
+      "https://en.wiktionary.org/wiki/ovation#English"
+    ]
+  },
+  {
+    "word": "ovations",
+    "ipa": "英 /əʊˈveɪʃənz/；美 /oʊˈveɪʃənz/",
+    "meaning": "一阵阵热烈掌声、热烈欢迎〔复数〕",
+    "sense": "不同场次、不同节目后各有一阵热烈的集体回应，这些可以数作 ovations。",
+    "split": "ovation + -s，末尾 /n/ 后读 /z/。拉丁、法语的欢庆名称借入英语后，现代可数用法再加复数。",
+    "history": [
+      [
+        "拉丁 ovare 欢庆、欢呼 → ovatio；法语或拉丁路线 → ovation",
+        "原有古罗马较低一级凯旋庆典的历史用途"
+      ],
+      [
+        "英语 ovation 的后起比喻义",
+        "一群人热烈鼓掌、欢呼的欢迎或赞许"
+      ],
+      [
+        "ovation + -s → ovations",
+        "多次热烈鼓掌、欢迎"
+      ]
+    ],
+    "explanation": "standing ovations 是多次起立鼓掌；如果只泛说持续掌声，通常用不可数 applause。",
+    "usage": "receive ovations 获得热烈掌声；repeated ovations 一次次热烈欢迎。",
+    "contrast": "ovations 数一场场显著回应，不按鼓掌者的人数数；许多人共同鼓掌可形成一次 ovation。",
+    "examples": [
+      [
+        "The performers received standing ovations in several cities.",
+        "表演者在几个城市都获得了起立鼓掌。"
+      ],
+      [
+        "The two soloists received equally warm ovations.",
+        "两位独奏者都获得了同样热烈的掌声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ovations#English",
+      "https://www.etymonline.com/word/ovation"
+    ]
+  },
+  {
+    "word": "sonatas",
+    "ipa": "/səˈnɑːtəz/",
+    "meaning": "奏鸣曲〔复数〕",
+    "sense": "名称最早带着“被奏出来的作品”的意思，后来成为特定器乐体裁。几首这样的奏鸣曲叫 sonatas。",
+    "split": "sonata + -s；sonata 借意大利 sonare 演奏、发声的阴性过去分词名词化形式，接拉丁 sonare、sonus 声音一族。",
+    "history": [
+      [
+        "拉丁 sonare → 意大利 sonare、sonata",
+        "发声、演奏 → 被奏出的作品"
+      ],
+      [
+        "英语 sonata + -s → sonatas",
+        "多部奏鸣曲"
+      ]
+    ],
+    "explanation": "piano sonatas 是钢琴奏鸣曲，violin sonatas 常可有钢琴等合作；具体编制看作品。",
+    "usage": "two piano sonatas 两首钢琴奏鸣曲；perform sonatas 演奏奏鸣曲。",
+    "contrast": "sonatas 数作品，sonata form 奏鸣曲式说一种结构；作品标题与某一乐章的结构不是同一层。",
+    "examples": [
+      [
+        "She recorded three piano sonatas.",
+        "她录制了三首钢琴奏鸣曲。"
+      ],
+      [
+        "The programme includes two violin sonatas.",
+        "节目单包括两首小提琴奏鸣曲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sonatas#English",
+      "https://en.wiktionary.org/wiki/sonata#English"
+    ]
+  },
+  {
+    "word": "operas",
+    "ipa": "英 /ˈɒpərəz/；美 /ˈɑːpərəz/",
+    "meaning": "歌剧〔复数〕",
+    "sense": "人物用音乐、歌唱把戏演出来，一部叫 an opera，几部就是 operas。今天英语可以正常拿它当单数再变复数。",
+    "split": "opera + -s。opera 原是拉丁 opus 作品的复数，在意大利语中改作阴性单数名词；英语借入后跟着单数用法，再造 operas。",
+    "history": [
+      [
+        "拉丁 opus → 复数 opera → 意大利单数 opera",
+        "作品们的形式重新解释为一个作品名称"
+      ],
+      [
+        "英语 opera + -s → operas",
+        "多部歌剧"
+      ]
+    ],
+    "explanation": "Italian operas 意大利歌剧，comic operas 喜歌剧；一个剧院可在同一演季演出不同 operas。",
+    "usage": "write operas 写歌剧；perform operas 演歌剧。",
+    "contrast": "opera 与 operate 虽有较远同族材料，现代歌剧义不能靠操作动词推出来；operas 不是 operates。",
+    "examples": [
+      [
+        "The company will perform four operas this season.",
+        "歌剧团本演季将上演四部歌剧。"
+      ],
+      [
+        "She wrote songs before turning to operas.",
+        "她先写歌曲，后来转而创作歌剧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/operas#English",
+      "https://en.wiktionary.org/wiki/opera#English"
+    ]
+  },
+  {
+    "word": "ballerina",
+    "ipa": "英 /ˌbæləˈriːnə/；美 /ˌbæləˈriːnə/",
+    "meaning": "芭蕾女舞者",
+    "sense": "舞台上用芭蕾动作讲故事的女舞者，是 a ballerina。这个词按舞蹈身份叫人，不按会不会某一个动作判定。",
+    "split": "借意大利 ballerina，是 ballerino 舞者的阴性形式，接 ballo 舞蹈、ballare 跳舞一族；不是英语 ball 球加人名尾巴。",
+    "history": [
+      [
+        "意大利 ballo 舞蹈、ballerino 舞者 → 阴性 ballerina",
+        "舞者名称的性别词形"
+      ],
+      [
+        "意大利 ballerina → 英语 ballerina",
+        "常指女性芭蕾舞者"
+      ]
+    ],
+    "explanation": "a professional ballerina 是职业芭蕾女舞者；prima ballerina 可作首席女舞者的称呼。",
+    "usage": "a young ballerina 年轻芭蕾女舞者；become a ballerina 成为芭蕾女舞者。",
+    "contrast": "ballet dancer 可泛说芭蕾舞者，ballerina 通常明确说女性舞者；这里词尾 a 保留了意大利人物形式。",
+    "examples": [
+      [
+        "She dreamed of becoming a ballerina.",
+        "她梦想成为芭蕾女舞者。"
+      ],
+      [
+        "The ballerina rehearsed the final scene.",
+        "这位芭蕾女舞者排练了最后一场。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ballerina",
+      "https://en.wiktionary.org/wiki/ballerina#English"
+    ]
+  },
+  {
+    "word": "ballerinas",
+    "ipa": "英 /ˌbæləˈriːnəz/；美 /ˌbæləˈriːnəz/",
+    "meaning": "芭蕾女舞者〔复数〕",
+    "sense": "几位芭蕾女舞者一起排练，就叫 ballerinas。末尾 -s 数人，前面的 a 不需要像意大利语那样换成 e。",
+    "split": "ballerina + 英语复数 -s；也能见意大利式 ballerine，但普通英语常用 ballerinas。名称来自意大利舞者的阴性形式。",
+    "history": [
+      [
+        "意大利 ballo 舞蹈、ballerino 舞者 → 阴性 ballerina",
+        "舞者名称的性别词形"
+      ],
+      [
+        "意大利 ballerina → 英语 ballerina",
+        "常指女性芭蕾舞者"
+      ],
+      [
+        "ballerina + -s → ballerinas",
+        "多位芭蕾女舞者"
+      ]
+    ],
+    "explanation": "young ballerinas、professional ballerinas 分别说年轻、职业芭蕾女舞者；复数不会自动表示同一个舞团。",
+    "usage": "two ballerinas 两位芭蕾女舞者；a group of ballerinas 一群芭蕾女舞者。",
+    "contrast": "ballets 数芭蕾作品，ballerinas 数舞者；同一位舞者可参加许多部作品。",
+    "examples": [
+      [
+        "The ballerinas waited quietly in the wings.",
+        "芭蕾女舞者们在侧台安静等候。"
+      ],
+      [
+        "Two ballerinas shared the leading role.",
+        "两位芭蕾女舞者轮流担任主角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ballerinas#English",
+      "https://www.etymonline.com/word/ballerina"
+    ]
+  },
+  {
+    "word": "ensembles",
+    "ipa": "英 /ɒnˈsɒmbəlz/；美 /ɑːnˈsɑːmbəlz/",
+    "meaning": "合奏、合唱等表演组合；配套服装〔复数〕",
+    "sense": "把几个部分合起来看成一套：几位乐手组成乐组，几件衣服配成一身。不同组合可以叫 ensembles。",
+    "split": "ensemble + -s，末尾读 /z/。原词借法语 ensemble 一起，远接拉丁 simul、insimul；不是英语 en- 与 assemble 的缩写。",
+    "history": [
+      [
+        "拉丁 simul → insimul → 法语 ensemble",
+        "一起、同时；整体"
+      ],
+      [
+        "英语 ensemble → ensembles",
+        "多组表演团体、配套衣着等"
+      ]
+    ],
+    "explanation": "chamber ensembles 是室内乐组；matching ensembles 在服装语境可说搭配成套的衣着。",
+    "usage": "small ensembles 小型乐组；musical ensembles 音乐表演组合。",
+    "contrast": "ensemble 强调整体配合，orchestra 指较具体的乐队编制；ensemble 不一定人数很多。",
+    "examples": [
+      [
+        "The festival features several small ensembles.",
+        "音乐节有几个小型乐组演出。"
+      ],
+      [
+        "The exhibition displays complete stage ensembles.",
+        "展览陈列完整的舞台服装套装。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ensembles#English",
+      "https://en.wiktionary.org/wiki/ensemble#English"
+    ]
+  },
+  {
+    "word": "conductors",
+    "ipa": "英 /kənˈdʌktəz/；美 /kənˈdʌktərz/",
+    "meaning": "指挥；列车员；导体〔复数〕",
+    "sense": "乐队有人带着走，乘客有人引导查票，电流也有材料让它通过。conductors 把引导、传导这幅画面落到不同对象上。",
+    "split": "conductor + -s。现代对应 conduct + -or，历史另有法语 conductour、拉丁 conductor 的整词借入路线。",
+    "history": [
+      [
+        "拉丁 con- + ducere → conducere、conductus",
+        "带到一起、引领"
+      ],
+      [
+        "conduct、拉丁 conductor 及法语相关人物名 → 英语词族",
+        "指挥、实施、传导；指挥者、列车员、导体"
+      ],
+      [
+        "conductor + -s → conductors",
+        "多个执行引导或传导作用的人、物"
+      ]
+    ],
+    "explanation": "orchestral conductors 是乐团指挥，train conductors 是列车员，electrical conductors 是导电物。",
+    "usage": "good conductors of electricity 良好的电导体；guest conductors 客座指挥。",
+    "contrast": "-or 不保证是人：metal conductors 是导体；看被引导、被传导的对象，意义就容易对上。",
+    "examples": [
+      [
+        "The orchestra worked with three guest conductors.",
+        "乐团与三位客座指挥合作。"
+      ],
+      [
+        "Copper and aluminium are good conductors of electricity.",
+        "铜和铝是良好的电导体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conductors#English",
+      "https://en.wiktionary.org/wiki/conductor#English"
+    ]
+  },
+  {
+    "word": "conducts",
+    "ipa": "/kənˈdʌkts/",
+    "meaning": "指挥、开展、传导〔第三人称单数〕",
+    "sense": "把人、活动或能量引着往前走：他指挥乐队，她开展研究，金属传导热，都可用 conducts。",
+    "split": "conduct + -s，/t/ 后读 /s/。它是后重音动词形式，拉丁 con- 一起与 ducere 带领的材料保留在基础词历史里。",
+    "history": [
+      [
+        "拉丁 con- + ducere → conducere、conductus",
+        "带到一起、引领"
+      ],
+      [
+        "conduct、拉丁 conductor 及法语相关人物名 → 英语词族",
+        "指挥、实施、传导；指挥者、列车员、导体"
+      ],
+      [
+        "动词 conduct + -s → conducts",
+        "他、她、它指挥、开展或传导"
+      ]
+    ],
+    "explanation": "conducts an orchestra 是指挥乐队，conducts research 是开展研究，conducts heat 是传热。",
+    "usage": "conducts experiments 做实验；conducts electricity 导电。",
+    "contrast": "名词 conduct 行为常前重音，动词 conducts 后重音；主语、宾语能帮你判断是实施还是传导。",
+    "examples": [
+      [
+        "She conducts the orchestra with clear gestures.",
+        "她用清晰的手势指挥乐队。"
+      ],
+      [
+        "This material conducts heat well.",
+        "这种材料导热良好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conducts#English",
+      "https://en.wiktionary.org/wiki/conduct#English"
+    ]
+  },
+  {
+    "word": "accompaniments",
+    "ipa": "/əˈkʌmpənimənts/",
+    "meaning": "伴奏；配菜、伴随部分〔复数〕",
+    "sense": "主旋律旁边有钢琴托着，主菜旁边有小菜配着。不同领域都可把这些配合主角的部分叫 accompaniments。",
+    "split": "accompaniment + -s；名词借法语 accompagnement，现代对应 accompany 与 -ment。更远经同伴词族接一起吃面包的材料。",
+    "history": [
+      [
+        "拉丁 panis 面包 → companio 一起吃饭的伙伴",
+        "共同进食的画面进入同伴名称"
+      ],
+      [
+        "法语 accompagner、accompagnement → 英语 accompany、accompaniment",
+        "陪同、配合主角；伴奏、伴随部分"
+      ],
+      [
+        "accompaniment + -s → accompaniments",
+        "多份伴奏安排或配菜、伴随部分"
+      ]
+    ],
+    "explanation": "piano accompaniments 是钢琴伴奏，accompaniments to a meal 是配餐部分；都围绕主角提供配合。",
+    "usage": "simple accompaniments 简单伴奏；vegetable accompaniments 蔬菜配菜。",
+    "contrast": "accompaniments 是伴随的内容，accompanists 是做伴奏的人；-ment 与 -ist 指向不同。",
+    "examples": [
+      [
+        "The book includes piano accompaniments for all the songs.",
+        "书里收有全部歌曲的钢琴伴奏。"
+      ],
+      [
+        "The meal came with several vegetable accompaniments.",
+        "这顿饭配了几样蔬菜小菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accompaniments#English",
+      "https://en.wiktionary.org/wiki/accompaniment#English"
+    ]
+  },
+  {
+    "word": "accompanists",
+    "ipa": "/əˈkʌmpənɪsts/",
+    "meaning": "伴奏者〔复数〕",
+    "sense": "歌手在唱，钢琴手一边听、一边配合，这些负责伴奏的人是 accompanists。表演中配合主角，不等于他们没有技巧。",
+    "split": "accompany 去 y，接 -ist → accompanist，再加 -s；结果写 accompanists，不额外保留一个 y 或多写一段 -yi-。",
+    "history": [
+      [
+        "拉丁 panis 面包 → companio 一起吃饭的伙伴",
+        "共同进食的画面进入同伴名称"
+      ],
+      [
+        "accompany + -ist → accompanist → accompanists",
+        "提供伴奏的人；多位伴奏者"
+      ]
+    ],
+    "explanation": "piano accompanists 是钢琴伴奏者，也有其他乐器的 accompanists；名称关注表演角色。",
+    "usage": "experienced accompanists 有经验的伴奏者；two accompanists 两位伴奏者。",
+    "contrast": "soloists 担任主要独奏、独唱角色，accompanists 提供配合；同一位音乐家在不同场合可换角色。",
+    "examples": [
+      [
+        "The singers worked with two experienced accompanists.",
+        "歌手们与两位经验丰富的伴奏者合作。"
+      ],
+      [
+        "Good accompanists listen closely to the soloist.",
+        "好的伴奏者会仔细听独奏、独唱者的演绎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accompanists#English",
+      "https://en.wiktionary.org/wiki/accompanist#English"
+    ]
+  },
+  {
+    "word": "recitals",
+    "ipa": "/rɪˈsaɪtəlz/",
+    "meaning": "独奏、独唱或舞蹈专场；逐项陈述〔复数〕",
+    "sense": "乐器独奏、声乐独唱、学生舞蹈展示，都可能叫 recital；几场就是 recitals。先按实际演出内容理解这种专场名称。",
+    "split": "recital + -s；recital 现代对应 recite 去 e 加名词 -al，历史由陈述、讲述发展到音乐、舞蹈表演等用途。",
+    "history": [
+      [
+        "拉丁 ciere、citare → re- + citare → recitare",
+        "唤起、召唤 → 读出、再说出"
+      ],
+      [
+        "法语 reciter → 英语 recite；recital 的后续发展",
+        "朗诵、背诵、逐项陈述；名词另发展为音乐、舞蹈专场"
+      ],
+      [
+        "recital + -s → recitals",
+        "多场专场演出；多次详细陈述"
+      ]
+    ],
+    "explanation": "piano recitals 钢琴独奏会，dance recitals 舞蹈专场；演出可以包含伴奏。",
+    "usage": "student recitals 学生专场表演；give recitals 举行专场演出。",
+    "contrast": "concert 范围更广；音乐 recital 常以某位演奏者为主，dance recital 也可是一群学生的舞蹈展示。",
+    "examples": [
+      [
+        "She gives piano recitals across the country.",
+        "她在全国各地举办钢琴独奏会。"
+      ],
+      [
+        "The school holds student recitals every term.",
+        "学校每学期举行学生专场表演。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recitals#English",
+      "https://en.wiktionary.org/wiki/recital#English"
+    ]
+  },
+  {
+    "word": "recites",
+    "ipa": "/rɪˈsaɪts/",
+    "meaning": "朗诵、背诵、逐项陈述〔第三人称单数〕",
+    "sense": "诗句早已记在脑中，现在一句句说出来；或者把一串事实按顺序讲出来，单数主语可用 recites。",
+    "split": "recite + -s，词尾 e 保留，/t/ 后读 /s/。基础词经法语接拉丁 recitare 的读出、再说出词族。",
+    "history": [
+      [
+        "拉丁 ciere、citare → re- + citare → recitare",
+        "唤起、召唤 → 读出、再说出"
+      ],
+      [
+        "法语 reciter → 英语 recite；recital 的后续发展",
+        "朗诵、背诵、逐项陈述；名词另发展为音乐、舞蹈专场"
+      ],
+      [
+        "recite + -s → recites",
+        "他、她朗诵、背诵或逐项陈述"
+      ]
+    ],
+    "explanation": "recites a poem 是朗诵诗，recites the list 是把清单一项项念出；不一定每种用途都强调完全背下来。",
+    "usage": "recites from memory 凭记忆背诵；recites the facts 逐项陈述事实。",
+    "contrast": "read 可以照着文字读，recite 常强调正式说出、背出或逐项列出；是否脱稿看场景。",
+    "examples": [
+      [
+        "She recites a short poem at the start of the show.",
+        "她在演出开头朗诵一首短诗。"
+      ],
+      [
+        "He recites the rules whenever a new member joins.",
+        "每当新成员加入，他就把规则逐条讲一遍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recites#English",
+      "https://en.wiktionary.org/wiki/recite#English"
+    ]
+  },
+  {
+    "word": "recited",
+    "ipa": "/rɪˈsaɪtɪd/",
+    "meaning": "朗诵、背诵、逐项陈述了",
+    "sense": "刚才已经把诗说出来、把事实一条条讲过，用 recited。说出别人写的诗，也能用它。",
+    "split": "recite 去不发音 e，加完整 -ed；/t/ 后读 /ɪd/，所以末尾多一个轻读音节。",
+    "history": [
+      [
+        "拉丁 ciere、citare → re- + citare → recitare",
+        "唤起、召唤 → 读出、再说出"
+      ],
+      [
+        "法语 reciter → 英语 recite；recital 的后续发展",
+        "朗诵、背诵、逐项陈述；名词另发展为音乐、舞蹈专场"
+      ],
+      [
+        "recite + -ed → recited〔去 e〕",
+        "过去朗诵、背诵、陈述"
+      ]
+    ],
+    "explanation": "recited a poem 是朗诵过诗；recited the events 是把经过依次说出来。",
+    "usage": "recited from memory 凭记忆背出了；recited the names 逐一说出名字。",
+    "contrast": "wrote a poem 是写诗，recited a poem 是把诗说出来；创作与表演可由不同的人完成。",
+    "examples": [
+      [
+        "The child recited the poem from memory.",
+        "孩子凭记忆背出了这首诗。"
+      ],
+      [
+        "He recited the events in the order they happened.",
+        "他按事情发生的顺序讲述了经过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recited#English",
+      "https://en.wiktionary.org/wiki/recite#English"
+    ]
+  },
+  {
+    "word": "reciting",
+    "ipa": "/rɪˈsaɪtɪŋ/",
+    "meaning": "正在朗诵、背诵、逐项陈述",
+    "sense": "诗句、事实正一句句从口中说出，是 reciting。它关注把已有内容说出来的过程。",
+    "split": "recite 去词末 e，加完整 -ing；词干 /rɪˈsaɪt/ 保留，后接 /ɪŋ/。",
+    "history": [
+      [
+        "拉丁 ciere、citare → re- + citare → recitare",
+        "唤起、召唤 → 读出、再说出"
+      ],
+      [
+        "法语 reciter → 英语 recite；recital 的后续发展",
+        "朗诵、背诵、逐项陈述；名词另发展为音乐、舞蹈专场"
+      ],
+      [
+        "recite + -ing → reciting〔去 e〕",
+        "朗诵、陈述的进行或活动"
+      ]
+    ],
+    "explanation": "reciting poetry 是朗诵诗，reciting a list 是逐项念清单；表演或平常交谈都能出现。",
+    "usage": "reciting the alphabet 背字母表；reciting poetry 朗诵诗歌。",
+    "contrast": "reciting 关注说出内容，memorizing 关注把内容记牢；背熟后可以 recite，但二者不是同一过程。",
+    "examples": [
+      [
+        "The children were reciting the alphabet together.",
+        "孩子们正在一起背字母表。"
+      ],
+      [
+        "She enjoys reciting poetry aloud.",
+        "她喜欢大声朗诵诗歌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reciting#English",
+      "https://en.wiktionary.org/wiki/recite#English"
+    ]
+  }
+]

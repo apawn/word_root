@@ -1,0 +1,797 @@
+[
+  {
+    "word": "retails",
+    "ipa": "/ˈriːteɪlz/",
+    "meaning": "零售；以某零售价出售〔第三人称单数〕",
+    "sense": "这台咖啡机在店里卖多少钱，英文常用 it retails for…。主语是商品时，是说它的零售价格，不是机器自己当店主。",
+    "split": "retail + -s，/l/ 后读 /z/；基础词接法语切下部分、切分材料，现代零售动词可及物说商家卖，也可不及物说商品售价。",
+    "history": [
+      [
+        "法语 retail、retaillier 等：切下的部分、切下",
+        "英语接按件销售的画面，具体传入发展有不同分析"
+      ],
+      [
+        "英语 retail 名词、动词 → 现代形式",
+        "零售；retail for 某价表示以该零售价出售"
+      ],
+      [
+        "retail + -s → retails",
+        "它零售货品，或该商品以某零售价出售"
+      ]
+    ],
+    "explanation": "retails for fifty pounds 零售价五十英镑；retails at a higher price 以更高零售价出售。",
+    "usage": "the shop retails local products；a model that retails for…。",
+    "contrast": "retails for 某价 是终端零售价，costs the shop 某价 是商家的成本；句中谁花钱、谁卖要分清。",
+    "examples": [
+      [
+        "The camera retails for about three hundred pounds.",
+        "这台相机零售价约三百英镑。"
+      ],
+      [
+        "The shop retails products made by local craftspeople.",
+        "商店零售当地手艺人制作的产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retails#English",
+      "https://www.etymonline.com/word/retail"
+    ]
+  },
+  {
+    "word": "retailed",
+    "ipa": "/ˈriːteɪld/",
+    "meaning": "零售了；以某零售价出售了；转述了",
+    "sense": "当年这款机器在店里卖一百元，可以说 retailed for…。较书面的 retailed a story 则是把故事转述给别人，另按信息场景认。",
+    "split": "retail + 完整 -ed，/l/ 后读 /d/；零售之外，较早也有把信息分传、转述的动词分支。",
+    "history": [
+      [
+        "法语 retail、retaillier 等：切下的部分、切下",
+        "英语接按件销售的画面，具体传入发展有不同分析"
+      ],
+      [
+        "英语 retail 名词、动词 → 现代形式",
+        "零售；retail for 某价表示以该零售价出售"
+      ],
+      [
+        "retail + -ed → retailed",
+        "过去零售、以某价出售，或转述信息"
+      ]
+    ],
+    "explanation": "retailed for a certain price 以某零售价出售；retailed through shops 通过商店零售。",
+    "usage": "retailed stories 转述故事；retailed local goods 零售当地产品。",
+    "contrast": "retailed a story 是较书面的转述，told a story 更日常；不能在任何讲故事场景都优先换成 retail。",
+    "examples": [
+      [
+        "The model originally retailed for two hundred dollars.",
+        "这款产品最初零售价是二百美元。"
+      ],
+      [
+        "The company retailed its products through small local shops.",
+        "公司通过本地小店零售产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retailed#English",
+      "https://www.etymonline.com/word/retail"
+    ]
+  },
+  {
+    "word": "retailing",
+    "ipa": "/ˈriːteɪlɪŋ/",
+    "meaning": "零售活动、零售业；正在零售",
+    "sense": "把商品卖到最终顾客手里，像社区小店、网上零售店做的事，整体就叫 retailing。它说的是销售环节，店面可大可小。",
+    "split": "retail + -ing；作为动作名词的形式很早已有，现代可谈行业、业务活动。",
+    "history": [
+      [
+        "法语 retail、retaillier 等：切下的部分、切下",
+        "英语接按件销售的画面，具体传入发展有不同分析"
+      ],
+      [
+        "英语 retail 名词、动词 → 现代形式",
+        "零售；retail for 某价表示以该零售价出售"
+      ],
+      [
+        "retail + -ing → retailing",
+        "零售过程或这一商业活动领域"
+      ]
+    ],
+    "explanation": "online retailing 网上零售；food retailing 食品零售。",
+    "usage": "a career in retailing 零售业工作；retailing directly to customers 直接零售给顾客。",
+    "contrast": "retailing 面向终端顾客，wholesaling 常把货批给再售卖的商家；关键是销售链条角色，不仅看店铺面积。",
+    "examples": [
+      [
+        "Online retailing has changed how many people shop.",
+        "网上零售改变了许多人的购物方式。"
+      ],
+      [
+        "She began her career in food retailing.",
+        "她从食品零售行业开始职业生涯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retailing#English",
+      "https://www.etymonline.com/word/retail"
+    ]
+  },
+  {
+    "word": "wholesales",
+    "ipa": "英 /ˈhəʊlseɪlz/；美 /ˈhoʊlseɪlz/",
+    "meaning": "批发、成批出售〔第三人称单数〕",
+    "sense": "一家公司把整箱食品卖给餐馆、商店，让他们再用或再卖，叫 wholesales。看见 whole，抓整批供货的画面。",
+    "split": "wholesale + -s，/l/ 后读 /z/；内层 whole + sale。动词从既有的批发材料转用，历史比早期形容词等用途更晚。",
+    "history": [
+      [
+        "whole 整批、整体 + sale 销售 → wholesale",
+        "与按小份零售相对的成批销售"
+      ],
+      [
+        "较晚 wholesale 动词 → wholesaler 与现代屈折",
+        "批量供货的动作及批发商角色"
+      ],
+      [
+        "wholesale + -s → wholesales",
+        "它进行批发、成批供货"
+      ]
+    ],
+    "explanation": "wholesales goods to shops 向商店批发货物；wholesales food 批发食品。",
+    "usage": "wholesales in bulk；wholesales to restaurants。",
+    "contrast": "wholesales 常面向其他经营者供货，retails 常面向最终消费者；同一家公司可以同时做两种业务。",
+    "examples": [
+      [
+        "The company wholesales food to local restaurants.",
+        "公司向当地餐馆批发食品。"
+      ],
+      [
+        "The supplier wholesales cleaning products in large packs.",
+        "供应商成大包装批发清洁用品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wholesales#English",
+      "https://www.etymonline.com/word/wholesale"
+    ]
+  },
+  {
+    "word": "wholesaled",
+    "ipa": "英 /ˈhəʊlseɪld/；美 /ˈhoʊlseɪld/",
+    "meaning": "批发、成批出售了",
+    "sense": "工厂做好的桌布不是逐条卖给路人，而是一批批供给商店，过去的这项售货动作就是 wholesaled。",
+    "split": "wholesale 去 e 加完整 -ed，/l/ 后读 /d/；词基尾部原有的 sale 不当作独立时态尾。",
+    "history": [
+      [
+        "whole 整批、整体 + sale 销售 → wholesale",
+        "与按小份零售相对的成批销售"
+      ],
+      [
+        "较晚 wholesale 动词 → wholesaler 与现代屈折",
+        "批量供货的动作及批发商角色"
+      ],
+      [
+        "wholesale + -ed → wholesaled",
+        "过去进行批发、成批供货"
+      ]
+    ],
+    "explanation": "wholesaled goods to retailers 向零售商批发货物；wholesaled in bulk 成批出售。",
+    "usage": "wholesaled through distributors；wholesaled to shops。",
+    "contrast": "wholesaled 说明批发出售，manufactured 说明制造；工厂制造商品后，可以自行批发，也可交给其他企业卖。",
+    "examples": [
+      [
+        "The company wholesaled its furniture to regional stores.",
+        "公司把家具批发给各地区商店。"
+      ],
+      [
+        "They wholesaled fresh produce to hotels and restaurants.",
+        "他们向酒店和餐馆批发新鲜农产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wholesaled#English",
+      "https://www.etymonline.com/word/wholesale"
+    ]
+  },
+  {
+    "word": "wholesaling",
+    "ipa": "英 /ˈhəʊlseɪlɪŋ/；美 /ˈhoʊlseɪlɪŋ/",
+    "meaning": "批发活动、批发业；正在批发",
+    "sense": "从生产方拿成批商品，再分给商店、餐馆等经营者，这个销售环节可以叫 wholesaling。重点是成批供货的角色。",
+    "split": "wholesale 去 e 加 -ing；动作形式也可作名词谈批发业务，不等于把所有 wholesale 的大规模形容词义都转成买卖。",
+    "history": [
+      [
+        "whole 整批、整体 + sale 销售 → wholesale",
+        "与按小份零售相对的成批销售"
+      ],
+      [
+        "较晚 wholesale 动词 → wholesaler 与现代屈折",
+        "批量供货的动作及批发商角色"
+      ],
+      [
+        "wholesale + -ing → wholesaling",
+        "批发过程、业务活动"
+      ]
+    ],
+    "explanation": "food wholesaling 食品批发；a wholesaling business 批发业务。",
+    "usage": "wholesaling to retailers；experience in wholesaling。",
+    "contrast": "wholesaling 与 retailing 关注渠道角色，warehousing 关注存储；同一企业可能两者都有，但词指的活动不同。",
+    "examples": [
+      [
+        "The family business specialises in food wholesaling.",
+        "这家家族企业专做食品批发。"
+      ],
+      [
+        "They moved from wholesaling to selling directly to customers.",
+        "他们从批发转为直接向顾客销售。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wholesaling#English",
+      "https://www.etymonline.com/word/wholesale"
+    ]
+  },
+  {
+    "word": "wholesaler",
+    "ipa": "英 /ˈhəʊlseɪlə/；美 /ˈhoʊlseɪlɚ/",
+    "meaning": "批发商",
+    "sense": "把货成批供给商店、餐馆等经营者，而不是主要一件件卖给路过顾客，这种供货角色叫 wholesaler。",
+    "split": "wholesale 去不发音 e 加完整 -er，人物、机构尾；前面 whole + sale 的批量销售画面仍在。",
+    "history": [
+      [
+        "whole 整批、整体 + sale 销售 → wholesale",
+        "与按小份零售相对的成批销售"
+      ],
+      [
+        "较晚 wholesale 动词 → wholesaler 与现代屈折",
+        "批量供货的动作及批发商角色"
+      ],
+      [
+        "wholesale + -er → wholesaler",
+        "进行成批供货的人或企业"
+      ]
+    ],
+    "explanation": "a food wholesaler 食品批发商；a clothing wholesaler 服装批发商。",
+    "usage": "buy from a wholesaler 向批发商进货；a local wholesaler。",
+    "contrast": "wholesaler 关注批量供货，retailer 关注面向最终消费者零售；一家企业也可能兼做两种业务。",
+    "examples": [
+      [
+        "The restaurant buys fresh vegetables from a local wholesaler.",
+        "餐馆向当地一家批发商采购新鲜蔬菜。"
+      ],
+      [
+        "The wholesaler supplies small shops across the region.",
+        "这家批发商给整个地区的小店供货。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wholesaler#English",
+      "https://www.etymonline.com/word/wholesale"
+    ]
+  },
+  {
+    "word": "wholesalers",
+    "ipa": "英 /ˈhəʊlseɪləz/；美 /ˈhoʊlseɪlɚz/",
+    "meaning": "批发商〔复数〕",
+    "sense": "零售店要进一批货，不必一家家找生产工厂，可以找 wholesalers。这个词说的是向其他经营者成批供货的人、公司。",
+    "split": "wholesaler + -s，读 /z/；内层 wholesale 去 e 加 -er，人物、机构尾，再加复数。",
+    "history": [
+      [
+        "whole 整批、整体 + sale 销售 → wholesale",
+        "与按小份零售相对的成批销售"
+      ],
+      [
+        "较晚 wholesale 动词 → wholesaler 与现代屈折",
+        "批量供货的动作及批发商角色"
+      ],
+      [
+        "wholesale + -er → wholesaler → wholesalers",
+        "批发角色名称及其复数"
+      ]
+    ],
+    "explanation": "food wholesalers 食品批发商；local wholesalers 当地批发商。",
+    "usage": "buy from wholesalers 向批发商进货；wholesalers and retailers。",
+    "contrast": "wholesalers 是供货、售货角色，manufacturers 是生产者；批发商未必自己造货，生产者也可能直接批发。",
+    "examples": [
+      [
+        "Small shops often buy their stock from wholesalers.",
+        "小店常从批发商那里进货。"
+      ],
+      [
+        "Several food wholesalers supply the city’s restaurants.",
+        "几家食品批发商为这座城市的餐馆供货。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wholesalers#English",
+      "https://www.etymonline.com/word/wholesale"
+    ]
+  },
+  {
+    "word": "auctions",
+    "ipa": "英 /ˈɔːkʃənz/；美 /ˈɔkʃənz/",
+    "meaning": "拍卖活动〔复数〕；拍卖出售〔第三人称单数〕",
+    "sense": "一场场拍卖会，是 auctions；公司定期把旧设备拿去拍卖，动词也用 auctions。先看是在数活动，还是说谁在卖。",
+    "split": "auction + -s，/n/ 后读 /z/；拉丁 auctio 的旧名词连着报价增加，英语动词后来由名词转用。",
+    "history": [
+      [
+        "拉丁 augere 增加 → auctio、auctionem",
+        "通过报价不断加高来卖出的旧命名"
+      ],
+      [
+        "英语 auction 名词 → 动词；auction + -eer",
+        "拍卖活动、拍卖出售、主持拍卖者"
+      ],
+      [
+        "auction + -s → auctions",
+        "多场拍卖，或它以拍卖方式出售"
+      ]
+    ],
+    "explanation": "online auctions 网上拍卖；charity auctions 慈善拍卖。",
+    "usage": "auctions off old equipment 拍卖旧设备；attend auctions 参加拍卖。",
+    "contrast": "auctions 指活动或拍卖出售的动作，bids 指报价；一场 auction 里可以出现许多 bids。",
+    "examples": [
+      [
+        "The charity holds two auctions each year.",
+        "这家慈善机构每年举行两场拍卖。"
+      ],
+      [
+        "The council auctions off old vehicles.",
+        "市政部门拍卖旧车辆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auctions#English",
+      "https://www.etymonline.com/word/auction"
+    ]
+  },
+  {
+    "word": "auctioned",
+    "ipa": "英 /ˈɔːkʃənd/；美 /ˈɔkʃənd/",
+    "meaning": "拍卖出售了；被拍卖了",
+    "sense": "画、旧设备拿到拍卖场，让竞买者报价，最后以拍卖方式卖掉，就是 auctioned。它是售出的方式，不只是有人看了看。",
+    "split": "auction + 完整 -ed，/n/ 后读 /d/；英语拍卖动词由较早名词转用，off 常补出卖出去的结果感。",
+    "history": [
+      [
+        "拉丁 augere 增加 → auctio、auctionem",
+        "通过报价不断加高来卖出的旧命名"
+      ],
+      [
+        "英语 auction 名词 → 动词；auction + -eer",
+        "拍卖活动、拍卖出售、主持拍卖者"
+      ],
+      [
+        "auction + -ed → auctioned",
+        "过去以拍卖形式出售，或被这样出售"
+      ]
+    ],
+    "explanation": "auctioned off 拍卖卖掉；auctioned for charity 为慈善拍卖。",
+    "usage": "was auctioned online；auctioned at a high price。",
+    "contrast": "auctioned 通常说拿去拍卖出售，bid on 指作为买方出价；谁在卖、谁在买不要看成同一种动作。",
+    "examples": [
+      [
+        "The painting was auctioned to raise money for the school.",
+        "那幅画被拍卖，用来为学校筹款。"
+      ],
+      [
+        "They auctioned off the old workshop equipment.",
+        "他们拍卖了旧车间设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auctioned#English",
+      "https://www.etymonline.com/word/auction"
+    ]
+  },
+  {
+    "word": "auctioning",
+    "ipa": "英 /ˈɔːkʃənɪŋ/；美 /ˈɔkʃənɪŋ/",
+    "meaning": "正在拍卖出售；拍卖售卖活动",
+    "sense": "把几件物品交给拍卖，作为售货方式来做，是 auctioning。不是坐在观众席举牌买，而是让物品通过拍卖卖出去。",
+    "split": "auction + -ing；名词转动词后形成的现代动作形式，通常与 off、objects 等具体搭配一起认。",
+    "history": [
+      [
+        "拉丁 augere 增加 → auctio、auctionem",
+        "通过报价不断加高来卖出的旧命名"
+      ],
+      [
+        "英语 auction 名词 → 动词；auction + -eer",
+        "拍卖活动、拍卖出售、主持拍卖者"
+      ],
+      [
+        "auction + -ing → auctioning",
+        "以拍卖方式出售的过程、活动"
+      ]
+    ],
+    "explanation": "auctioning off furniture 拍卖家具；auctioning items online 网上拍卖物品。",
+    "usage": "auctioning a collection 拍卖一批收藏品；a plan for auctioning。",
+    "contrast": "auctioning 是拍卖出售，bidding 是参与出价；同一场活动里分属不同角色的动作。",
+    "examples": [
+      [
+        "The school is auctioning donated paintings to raise funds.",
+        "学校正在拍卖捐赠的画作筹款。"
+      ],
+      [
+        "They considered auctioning off the remaining furniture.",
+        "他们考虑把剩余家具拍卖掉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auctioning#English",
+      "https://www.etymonline.com/word/auction"
+    ]
+  },
+  {
+    "word": "auctioneers",
+    "ipa": "英 /ˌɔːkʃəˈnɪəz/；美 /ˌɔkʃəˈnɪrz/",
+    "meaning": "拍卖师、主持拍卖者〔复数〕",
+    "sense": "站在前面报出当前价、接受加价、最后落槌的人，是 auctioneers。不是所有来参加拍卖的人都算拍卖师。",
+    "split": "auctioneer + -s，读 /z/；内层 auction + 完整人物尾 -eer，不能只取 -er 而把剩下的 e 丢掉。",
+    "history": [
+      [
+        "拉丁 augere 增加 → auctio、auctionem",
+        "通过报价不断加高来卖出的旧命名"
+      ],
+      [
+        "英语 auction 名词 → 动词；auction + -eer",
+        "拍卖活动、拍卖出售、主持拍卖者"
+      ],
+      [
+        "auction + -eer → auctioneer → auctioneers",
+        "主持拍卖的角色名及其复数"
+      ]
+    ],
+    "explanation": "experienced auctioneers 有经验的拍卖师；auctioneers at the sale。",
+    "usage": "a team of auctioneers；auctioneers and bidders。",
+    "contrast": "auctioneers 主持出售，bidders 竞相报价；seller 是卖方，未必亲自担任主持拍卖的角色。",
+    "examples": [
+      [
+        "The auctioneers explained the rules before the sale began.",
+        "拍卖开始前，拍卖师们说明了规则。"
+      ],
+      [
+        "Experienced auctioneers keep track of bids quickly.",
+        "有经验的拍卖师能迅速跟上每次报价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auctioneers#English",
+      "https://www.etymonline.com/word/auction"
+    ]
+  },
+  {
+    "word": "underbid",
+    "ipa": "英 /ˌʌndəˈbɪd/；美 /ˌʌndɚˈbɪd/",
+    "meaning": "报价低于对手；出价不足、报得过低",
+    "sense": "对手说一万元能做，你报九千元，同样的项目报价比他低，是 underbid him。也可能说价格报得太低，连自己要做的成本都撑不住。",
+    "split": "under- 低于 + bid 出价，清楚的现代组合。bid 的报价线接古英语提供、宣布等材料；常见过去式、分词也为 underbid。",
+    "history": [
+      [
+        "bid 出价接古英语 beodan 提供、宣布等材料",
+        "现代 bid 还合流另一请求、命令线，当前只取报价义"
+      ],
+      [
+        "under- 低于、over- 超过 + bid",
+        "比某报价低、高，或低、高于合理、可支撑的水平"
+      ],
+      [
+        "under- + bid → underbid",
+        "低于另一报价，或低于适当、可支撑的水平"
+      ]
+    ],
+    "explanation": "underbid a rival 报价低于对手；underbid on a contract 对合同报低价。",
+    "usage": "underbid by a large amount 大幅低于报价；underbid the job 把工作价报低。",
+    "contrast": "underbid a rival 在供货投标里常用低报价争取项目；在竞买里出价更低未必有优势，角色要放回句子看。",
+    "examples": [
+      [
+        "The smaller firm managed to underbid its larger rival.",
+        "小公司设法报出了比大对手更低的价格。"
+      ],
+      [
+        "They worried that they had underbid the job.",
+        "他们担心这项工作报的价格过低。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underbid#English",
+      "https://www.etymonline.com/word/underbid",
+      "https://www.merriam-webster.com/dictionary/underbid"
+    ]
+  },
+  {
+    "word": "underbids",
+    "ipa": "英 /ˌʌndəˈbɪdz/；美 /ˌʌndɚˈbɪdz/",
+    "meaning": "报价低于、报低价〔第三人称单数〕",
+    "sense": "一家承包商每次都比别人报低一点，叫 it underbids the others。这里比较的是给出的价格，不是坐到谁的下面。",
+    "split": "underbid + -s，/d/ 后读 /z/；under- 给低于的比较方向，bid 给报价动作。",
+    "history": [
+      [
+        "bid 出价接古英语 beodan 提供、宣布等材料",
+        "现代 bid 还合流另一请求、命令线，当前只取报价义"
+      ],
+      [
+        "under- 低于、over- 超过 + bid",
+        "比某报价低、高，或低、高于合理、可支撑的水平"
+      ],
+      [
+        "underbid + -s → underbids",
+        "他或它给出较低、过低报价"
+      ]
+    ],
+    "explanation": "underbids competitors 报价低于竞争者；underbids on projects 对项目报低价。",
+    "usage": "consistently underbids us；underbids by ten percent。",
+    "contrast": "underbids 比报价低，undersells 通常比售价低；一次投标承诺的价格与实际零售商品价不是同一场景。",
+    "examples": [
+      [
+        "That contractor regularly underbids the competition.",
+        "那个承包商的报价经常低于对手。"
+      ],
+      [
+        "The firm underbids on small projects to win new clients.",
+        "公司在小项目上报低价，以争取新客户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underbids#English",
+      "https://www.etymonline.com/word/underbid"
+    ]
+  },
+  {
+    "word": "underbidding",
+    "ipa": "英 /ˌʌndəˈbɪdɪŋ/；美 /ˌʌndɚˈbɪdɪŋ/",
+    "meaning": "正在报更低价格；报低、报价不足的做法",
+    "sense": "两个商家轮流把承包报价往下压，是 underbidding each other。它可以只是竞争性低价，也可带报得不足的批评，取决于上下文。",
+    "split": "underbid 双写 d 加 -ing；内层 under- 低于 + bid。现代过程名词可谈这种报价方式。",
+    "history": [
+      [
+        "bid 出价接古英语 beodan 提供、宣布等材料",
+        "现代 bid 还合流另一请求、命令线，当前只取报价义"
+      ],
+      [
+        "under- 低于、over- 超过 + bid",
+        "比某报价低、高，或低、高于合理、可支撑的水平"
+      ],
+      [
+        "underbid + -ing → underbidding",
+        "报低价、报价低于另一方的过程或做法"
+      ]
+    ],
+    "explanation": "underbidding rivals 报价压低于对手；underbidding each other 互相压低报价。",
+    "usage": "a pattern of underbidding；underbidding on contracts。",
+    "contrast": "underbidding 不一定等于亏本；词可只比较另一报价，是否低于成本要有另外信息。",
+    "examples": [
+      [
+        "The two firms kept underbidding each other.",
+        "两家公司不断互相压低报价。"
+      ],
+      [
+        "The report linked the losses to repeated underbidding on projects.",
+        "报告把亏损与项目反复报低价联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underbidding#English",
+      "https://www.etymonline.com/word/underbid"
+    ]
+  },
+  {
+    "word": "overbid",
+    "ipa": "英 /ˌəʊvəˈbɪd/；美 /ˌoʊvɚˈbɪd/",
+    "meaning": "出价过高；报价超出某一水平；〔牌戏〕叫牌过高",
+    "sense": "看中一件东西，越争越上头，报出的价超过自己认为值的钱，是 overbid。打牌时也能说叫得超出这手牌能支持的水平。",
+    "split": "over- 超过 + bid 出价、叫牌；常见过去式、过去分词也是 overbid。可以比较价值、前一报价或牌力，不能一律只认超过别人。",
+    "history": [
+      [
+        "bid 出价接古英语 beodan 提供、宣布等材料",
+        "现代 bid 还合流另一请求、命令线，当前只取报价义"
+      ],
+      [
+        "under- 低于、over- 超过 + bid",
+        "比某报价低、高，或低、高于合理、可支撑的水平"
+      ],
+      [
+        "over- + bid → overbid",
+        "报价超过比较点，常带过高义；牌戏也用"
+      ]
+    ],
+    "explanation": "overbid at an auction 拍卖时出价过高；overbid on a hand 一手牌叫过高。",
+    "usage": "try not to overbid；overbid by a large margin。",
+    "contrast": "outbid 明确比另一方报得高，overbid 常有超过价值、承受水平的感觉；提高报价压过别人，不自动意味着买贵。",
+    "examples": [
+      [
+        "I did not want to overbid just because I liked the painting.",
+        "我不想只因喜欢那幅画就报出过高价格。"
+      ],
+      [
+        "He realised he had overbid after looking at his cards again.",
+        "再次看牌后，他意识到自己叫高了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overbid#English",
+      "https://www.merriam-webster.com/dictionary/overbid"
+    ]
+  },
+  {
+    "word": "overbids",
+    "ipa": "英 /ˌəʊvəˈbɪdz/；美 /ˌoʊvɚˈbɪdz/",
+    "meaning": "出价过高、叫牌过高〔第三人称单数〕；过高报价〔复数〕",
+    "sense": "他一到竞价现场就容易喊得太高，可以说 he overbids。要是说一笔笔过高报价，名词复数也能是 overbids。",
+    "split": "overbid + -s，/d/ 后读 /z/；常用动词三单，名词复数也可同形。名词、动词的重音可能不同，这里先给动词常用读法。",
+    "history": [
+      [
+        "bid 出价接古英语 beodan 提供、宣布等材料",
+        "现代 bid 还合流另一请求、命令线，当前只取报价义"
+      ],
+      [
+        "under- 低于、over- 超过 + bid",
+        "比某报价低、高，或低、高于合理、可支撑的水平"
+      ],
+      [
+        "overbid + -s → overbids",
+        "他或它报价、叫牌过高；也可说多笔过高报价"
+      ]
+    ],
+    "explanation": "overbids when excited 激动时出价过高；overbids a hand 叫牌超过牌力。",
+    "usage": "frequently overbids；overbids at auctions。",
+    "contrast": "overbids 常评价报价超出适当水平，bids high 只说报得高；是否带过度评价有差别。",
+    "examples": [
+      [
+        "She overbids when she gets caught up in an auction.",
+        "她一投入竞拍，就容易出价过高。"
+      ],
+      [
+        "The beginner often overbids in bridge.",
+        "那个初学者打桥牌时常叫得过高。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overbids#English",
+      "https://www.merriam-webster.com/dictionary/overbid"
+    ]
+  },
+  {
+    "word": "overbidding",
+    "ipa": "英 /ˌəʊvəˈbɪdɪŋ/；美 /ˌoʊvɚˈbɪdɪŋ/",
+    "meaning": "正在出价过高；叫牌过高的做法",
+    "sense": "随着竞争越喊越高，超过原来认为值的水平，这个过程可以叫 overbidding。牌戏里也能说一手牌叫得超出牌力。",
+    "split": "overbid 双写 d 加 -ing；over- 的超过要有具体比较点，不一定只指高于某个对手。",
+    "history": [
+      [
+        "bid 出价接古英语 beodan 提供、宣布等材料",
+        "现代 bid 还合流另一请求、命令线，当前只取报价义"
+      ],
+      [
+        "under- 低于、over- 超过 + bid",
+        "比某报价低、高，或低、高于合理、可支撑的水平"
+      ],
+      [
+        "overbid + -ing → overbidding",
+        "报价、叫牌超过适当水平的过程、做法"
+      ]
+    ],
+    "explanation": "overbidding for a property 为房产出价过高；overbidding in bridge 桥牌叫牌过高。",
+    "usage": "a habit of overbidding；avoid overbidding 避免报价、叫牌过高。",
+    "contrast": "overbidding 是报价行为，overpaying 是实际付得过多；报出过高价后未成交，不一定已经付了钱。",
+    "examples": [
+      [
+        "They blamed the loss on overbidding for the collection.",
+        "他们把亏损归因于为那批收藏品出价过高。"
+      ],
+      [
+        "Her coach pointed out a pattern of overbidding in bridge.",
+        "她的教练指出，她打桥牌时有反复叫高的倾向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overbidding#English",
+      "https://www.merriam-webster.com/dictionary/overbid"
+    ]
+  },
+  {
+    "word": "vends",
+    "ipa": "/vendz/",
+    "meaning": "出售、自动售出〔第三人称单数〕",
+    "sense": "投钱后机器出一瓶水，可以说 the machine vends drinks。vend 在售货设备里很直观，比日常随口说卖更正式。",
+    "split": "vend + -s，/d/ 后读 /z/；vend 借拉丁 vendere 出售，较远缩自出售相关材料与 dare 给的组合。",
+    "history": [
+      [
+        "拉丁 venum 出售相关材料 + dare 给 → vendere",
+        "提供出售"
+      ],
+      [
+        "拉丁动词 → 英语 vend → 现代词尾",
+        "出售；自动售货设备常用此动作"
+      ],
+      [
+        "vend + -s → vends",
+        "他或它出售、售出货品"
+      ]
+    ],
+    "explanation": "vends snacks 自动售出零食；vends tickets 售票。",
+    "usage": "a machine that vends drinks；vends goods 出售货品。",
+    "contrast": "vends 在机器、正式售货语境常见，普通说我卖旧车多用 sell；不要为了显得高级到处替换。",
+    "examples": [
+      [
+        "The machine vends snacks and cold drinks.",
+        "这台机器售出零食和冷饮。"
+      ],
+      [
+        "The kiosk vends tickets for local buses.",
+        "售票亭出售本地公交车票。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vends#English",
+      "https://www.etymonline.com/word/vend"
+    ]
+  },
+  {
+    "word": "vended",
+    "ipa": "/ˈvendɪd/",
+    "meaning": "出售、售出了",
+    "sense": "商品通过机器一件件售出，在较正式描述里可以写 was vended。这个词把东西放在出售环节，不是免费发放。",
+    "split": "vend + 完整 -ed，/d/ 后读 /ɪd/，多一个音节。前面的 vend 整体借拉丁动词，不把 ven、d 当作现代独立单词。",
+    "history": [
+      [
+        "拉丁 venum 出售相关材料 + dare 给 → vendere",
+        "提供出售"
+      ],
+      [
+        "拉丁动词 → 英语 vend → 现代词尾",
+        "出售；自动售货设备常用此动作"
+      ],
+      [
+        "vend + -ed → vended",
+        "过去出售、售出，-ed 在 /d/ 后增加音节"
+      ]
+    ],
+    "explanation": "vended by a machine 由机器售出；vended through kiosks 通过售货亭出售。",
+    "usage": "vended goods 已售货物；vended in small quantities 小量出售。",
+    "contrast": "vended 明确有出售意思，dispensed 可说机器分出、配出物品，不必发生买卖；上下文决定是否付钱。",
+    "examples": [
+      [
+        "The drinks were vended through machines in the lobby.",
+        "饮料通过大厅里的机器售出。"
+      ],
+      [
+        "The stall vended locally made crafts.",
+        "那个摊位出售当地制作的手工艺品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vended#English",
+      "https://www.etymonline.com/word/vend"
+    ]
+  },
+  {
+    "word": "bargainer",
+    "ipa": "英 /ˈbɑːɡɪnə/；美 /ˈbɑrɡənɚ/",
+    "meaning": "谈条件、讨价还价的人",
+    "sense": "报价摆上桌后，能坚持自己的条件，又寻找对方肯接受的让步，这样的谈判者可以叫 bargainer。常见 hard bargainer，就是条件不好轻易压下来的人。",
+    "split": "bargain + -er。bargain 经古法语议价、交易材料，远源有日耳曼借贷等分析但未定；人物词这一层写进行议价的人。",
+    "history": [
+      [
+        "古法语 bargaignier、bargaine 等 → bargain",
+        "交易、谈条件；远源分析不同"
+      ],
+      [
+        "bargain + -er → bargainer",
+        "进行议价、谈条件的人"
+      ]
+    ],
+    "explanation": "a hard bargainer 不轻易让步的谈判者；a skilled bargainer 谈条件的能手。",
+    "usage": "a tough bargainer；an experienced bargainer。",
+    "contrast": "bargainer 指谈条件的人，bargain hunter 指找便宜货的人；后者可以买现成折扣商品而不与人谈条件。",
+    "examples": [
+      [
+        "She is a hard bargainer, but she keeps her word.",
+        "她谈条件不轻易让步，但说话算话。"
+      ],
+      [
+        "An experienced bargainer knows when to compromise.",
+        "有经验的谈判者知道什么时候该妥协。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bargainer#English",
+      "https://www.etymonline.com/word/bargain"
+    ]
+  }
+]

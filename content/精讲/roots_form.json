@@ -5,7 +5,7 @@
     "core": "FORM = SHAPE / PATTERN",
     "image": "把材料、规则或想法塑造成一种清楚的样子",
     "intro": "**form-** 来自拉丁语 **fōrma**“形状、样式”，动词 **fōrmāre** 是塑形。它既能捏出物体，也能组织信息、行为和规则：form 是形成，conform 是按同样的样式，transform 是转成新样子，inform 最早还有塑造与教导的意思。",
-    "forms": "**forma → form** 保留得很清楚；**formula** 原是“小模子”，后来成为可反复套用的规则。借入的 formation、information、transformation 各有法语或拉丁语名词路线，图中不会都假装成现代英语临时加后缀。\n\n**perform 一组单独理解**：主要来自古法语 parfornir“办成、完成”，词形受 forme 影响。为了避免遇到这些常用词时误拆，本页保留 perform、performance 等辨析词，但不把它们说成 fōrma 的直接后代。",
+    "forms": "**forma → form** 保留得很清楚；**formula** 原是“小模子”，后来成为可反复套用的规则。借入的 formation、information、transformation 各有法语或拉丁语名词路线，图中不会都假装成现代英语临时加后缀。\n\n**perform 一组单独理解**：主要来自古法语 parfornir“办成、完成”，词形受 forme 影响。为了避免遇到这些常用词时误拆，本页保留 perform、performance 等辨析词，但不把它们说成 fōrma 的直接后代。\n\nformulas 是英语规则复数，formulae 是保留拉丁形式的复数。公式、配方、固定办法等按上下文取义。\n\n形状、样式发展到规范填写的文书，也有形成的动词分支。\n\n早期是法语完成、供给词族，拼写受 forme 影响；不同于直接拉丁 per 加 forma。\n\n拉丁 forma 的形状、样式词族，继续用于实体、群体、判断的形成。\n\n法语 forme 接拉丁 forma，现代 ing 直接接动词。\n\n拉丁 re 与 formare 经法语传入，英语三单和名词复数同形。\n\n拉丁 trans- 与 formare 塑形，经法语传入，过去尾读 d。\n\nperform 的形有 forme 影响，历史来自 parfornir；uniform 接拉丁 uni 加 forma。\n\nformat 经欧洲书籍尺寸用语借入，不拆成 form 加英语 at；formatted、formatting 按约定双写 t。\n\ninfotainment 以 information 的 info- 和 entertainment 材料缩合，表示兼有信息、娱乐功能的内容；车载系统搭配也常见，不把 -tainment 当一个独立古典词根。\n\ntransform 经法语、拉丁 transformare 改形，现代加 -ing 原词不改。空间、外观、工作方式的深刻变化都可以说 transforming。\n\nformation 经法语或拉丁 formatio 成形，现代复数可说形成物、岩体形态、队形等，不是任何语境都译形成过程。\n\nformulate 在英语中由 formula + -ate 形成，现代去 e 加完整 -ed，/t/ 后读 /ɪd/，说把方案、观点组织成清楚可用的形式。",
     "branches": [
       [
         "塑出形状",
@@ -30,6 +30,58 @@
       [
         "另源：做出来",
         "perform · performance · outperform"
+      ],
+      [
+        "formula 的两种常用复数",
+        "formula · formulas · formulae"
+      ],
+      [
+        "form → forms：形式、表格与形成",
+        "form · forms"
+      ],
+      [
+        "perform → performed：完成、表演与表现",
+        "perform · performed"
+      ],
+      [
+        "form → formed：成为某个形状或整体",
+        "form · formed"
+      ],
+      [
+        "form → forming：形状、结构逐步成形",
+        "form · forming"
+      ],
+      [
+        "reform → reforms：重新塑形，使制度、行为改善",
+        "reform · reforms"
+      ],
+      [
+        "transform → transformed：形态、用途发生显著改变",
+        "transform · transformed"
+      ],
+      [
+        "performer 执行者与 uniform 一样的形式",
+        "perform · performer · performers · uniform · uniforms"
+      ],
+      [
+        "format 的格式、排版与双写 t 变化",
+        "format · formats · formatted · formatting"
+      ],
+      [
+        "information + entertainment → infotainment：信息加娱乐",
+        "infotainment"
+      ],
+      [
+        "trans- 转变 + form- 形 → transforming",
+        "transforming"
+      ],
+      [
+        "form- 形状 + -ation → formations",
+        "formations"
+      ],
+      [
+        "formula 明确表达 + -ate → formulated",
+        "formulated"
       ]
     ],
     "contrasts": "**form / format / formula**：形状或形式 / 内容的排列与编码方式 / 能套用的规则或配方。\n\n**formal / informal / formulaic**：正式 / 非正式 / 套路化。\n\n**informative / informed**：能给人知识的内容 / 已了解情况的人或决定。\n\n**misinformation / disinformation**：错误信息 / 通常指故意传播的误导信息。\n\n**preform / perform**：事先成形 / 执行或表演。不要被相似拼写带偏。",
@@ -89,7 +141,24 @@
       "uniformed",
       "uniformity",
       "nonuniform",
-      "nonuniformity"
+      "nonuniformity",
+      "formulas",
+      "formulae",
+      "forms",
+      "performed",
+      "formed",
+      "forming",
+      "reforms",
+      "transformed",
+      "performers",
+      "uniforms",
+      "formats",
+      "formatted",
+      "formatting",
+      "infotainment",
+      "transforming",
+      "formations",
+      "formulated"
     ]
   }
 ]

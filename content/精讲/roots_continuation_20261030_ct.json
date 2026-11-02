@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B3331",
+    "meaning": "袋到邮袋、邮件；锁子甲另源；语音也借信箱",
+    "core": "MAIL：袋里的信成为邮件；小环连成的甲走另一来源",
+    "image": "mail → mailed、mailer；voicemail 声音消息；mailbox、mailbag、mailman、mailroom、airmail 按对象、场所、方式复用。",
+    "intro": "邮件与锁甲明确分源；mailed 两种用法随对象分辨。blackmail 旧付款来源只作辨析，不让邮件词族解释所有同形字串。",
+    "forms": "mail + -ed/-er/box/bag/man/room；voice/air + mail；mail 锁甲 + -ed 另支。\n\nemail 缩自 electronic mail，名词再作动词；这里只列无连字符的常见写法。\n\n不可数可说系统、功能，可数时数一条条语音留言。\n\nmail 的邮政义由袋子、装信的袋子发展，现代动词保留原词加 -s，/l/ 后读 /z/；重点学习第三人称寄送用法。",
+    "branches": [
+      [
+        "邮件、寄件与结果",
+        "mail · mailed · mailer"
+      ],
+      [
+        "语音与发送方式",
+        "voicemail · airmail"
+      ],
+      [
+        "存放、人物和场所",
+        "mailbox · mailbag · mailman · mailroom"
+      ],
+      [
+        "mail → email → emails／emailed／emailing：电子邮件与发送",
+        "mail · email · emails · emailed · emailing"
+      ],
+      [
+        "voicemail → voicemails：语音留言",
+        "voicemail · voicemails"
+      ],
+      [
+        "mail 邮件 → mails 寄送",
+        "mails"
+      ]
+    ],
+    "contrasts": "mail/male 同音；邮件通常不可数；mailed 已寄不等于 delivered 已投递；mailer 非一律投递员；锁甲另源。",
+    "practice": "The mailer included instructions for checking voicemail.\n\n那份邮寄材料里附有查看语音留言的说明。",
+    "words": [
+      "mail",
+      "mailed",
+      "mailer",
+      "voicemail",
+      "airmail",
+      "mailbox",
+      "mailbag",
+      "mailman",
+      "mailroom",
+      "email",
+      "emails",
+      "emailed",
+      "emailing",
+      "voicemails",
+      "mails"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3025",
+    "meaning": "双盘秤、协调平衡；状态、破坏、抵消与重调",
+    "core": "BALANCE：两边不互相压垮，再借来讲资源、观点和账目",
+    "image": "balance → balanced；unbalance → unbalanced；imbalance 状态；counterbalance 抵消、rebalance 重调、balancer 器具角色。",
+    "intro": "不把平衡机械认成每边一半。新增 balanced、unbalanced 是常见实际用法；双盘秤词源帮助串起来，不要求所有比喻真有秤。",
+    "forms": "拉丁 bi- 两 + lanx 盘；balance + -ed/-er；im-/un-/counter-/re- + balance；un- + balanced。\n\nbalance 经法语接拉丁双盘秤相关形式，后来有保持平衡、兼顾等义。去末尾 e 加完整 -ing，读 /ˈbælənsɪŋ/。\n\nbalance 经法语、拉丁双盘天平名称发展到均衡、账户余额。保留 e 加 -s，/s/ 后读 /ɪz/，名词复数与动词同形。",
+    "branches": [
+      [
+        "平衡与性质",
+        "balance · balanced"
+      ],
+      [
+        "失衡动作、结果和状态",
+        "unbalance · unbalanced · imbalance"
+      ],
+      [
+        "抵消、重调与器具",
+        "counterbalance · rebalance · balancer"
+      ],
+      [
+        "两盘秤 → balance → balancing",
+        "balancing"
+      ],
+      [
+        "balance 天平、平衡 → balances",
+        "balances"
+      ]
+    ],
+    "contrasts": "balanced 不必一半一半；imbalance 状态、unbalance 动作；counterbalance 抵消制衡、rebalance 重调；balancer 不只体重秤。",
+    "practice": "They rebalanced the unbalanced load before moving the cart.\n\n他们先重新调整失衡的负载，再推小车。",
+    "words": [
+      "balance",
+      "balanced",
+      "unbalance",
+      "unbalanced",
+      "imbalance",
+      "counterbalance",
+      "rebalance",
+      "balancer",
+      "balancing",
+      "balances"
+    ],
+    "exclude": {}
+  }
+]

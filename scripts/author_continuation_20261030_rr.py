@@ -1,0 +1,82 @@
+"""Finish common base overviews while retaining their existing word explanations."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('unfeeling','/ʌnˈfiːlɪŋ/','冷漠、没有同情心的；无感觉的〔依语境〕',
+ '对方已经很难过，还用一句冰冷的话打发他；这里的 unfeeling 不是手指麻了，而是没有体恤别人感受。',
+ 'un- 不、缺少 + feeling；feeling 来自 feel + -ing，已有情感、同情及感知的相关意义。否定落在哪种感觉上，由上下文决定。',
+ [['feel → feeling','感知、感情；对他人感受的体恤'],['un- + feeling → unfeeling','缺乏同情的；在特定语境中无感觉的']],
+ 'an unfeeling remark 冷漠的话；an unfeeling response 不体恤人的回应。现代描写人的态度时，通常重点是没有同情心。',
+ 'a cold and unfeeling reply；seem unfeeling。','unemotional 表现得情绪不强，未必不关心别人；unfeeling 常在批评缺乏体恤。calm 冷静更不等于冷漠。',
+ ('His unfeeling reply made her even more upset.','他那冷漠的回答让她更难过了。'),('She sounded calm, but she was far from unfeeling.','她听起来很平静，却绝不是没有同情心。'))
+R('B4491','看；寻找；显得的 -ing 形式','LOOKING：眼睛朝向对象，也可说事情呈现的样子',
+ 'looking at 看向，looking for 寻找，looking tired 显得疲惫；后面接什么，决定眼前是哪种关系。',
+ 'looking 延续古英语 lōciende 等分词及相关动作名词的历史，现代对应 look + -ing。过去不同来源的尾部在英语发展中合流。',
+ 'look + -ing → looking。look 的 oo 保留 /ʊ/；进行时由 be 与 looking 一起构成，不是只见 ing 就完成时态判断。',
+ [['先读基本动作','look'],['动作、寻找和外观','looking']],
+ 'look at a picture 看图；look for a picture 找图；look happy 显得开心，不在 happy 前硬加 at。',
+ 'She is looking for a book while he is looking at a map.\n\n她在找一本书，他在看一张地图。','look looking')
+R('B4212','基于的；以某地为基地、以某物为基础的','BASED：先找这件事站在哪个基础上',
+ 'based on evidence 立在证据上；based in a city 把工作基地放在那座城市。介词换了，关系跟着换。',
+ 'base + -ed，过去分词进一步形成形容词性用法。base 的基础、基地及放置等用法构成这些固定搭配的背景。',
+ 'base 以 e 结尾，加 d → based；末尾 -ed 读 /t/。be based on 与 be based in 适合放在一起学。',
+ [['基础、基地及动作','base'],['作为依据、工作位置的状态','based']],
+ 'a film based on a novel 根据小说改编；a team based in London 基地在伦敦的团队。不要把 on 与 in 全翻成一个模糊的基于。',
+ 'The team is based in a small town, and its plan is based on local needs.\n\n团队以一座小镇为基地，计划以当地需求为依据。','base based')
+R('B4544','说话、交谈；talk 的 -ing 形式','TALKING：人们在把话说出来、交流',
+ 'talking to someone 与人交谈；a talking bird 会说话的鸟；a talking point 是可拿来讨论的话题、要点。',
+ 'talking 接中古英语 talkynge 等，现代对应 talk + -ing。动作形式也可作名词、修饰语。',
+ 'talk + -ing → talking。talk 中 l 通常不发音，加入后缀也不必把 l 重新读出来。',
+ [['说、交谈','talk'],['说话的动作、性质及固定搭配','talking']],
+ 'talk to someone 交谈，talk about something 谈某事；talking 不是所有语境都说正在进行，还可能是 talking bird 一类性质修饰。',
+ 'The children were talking about a talking bird.\n\n孩子们正在谈论一只会说话的鸟。','talk talking')
+R('B3125','抱歉、遗憾；难过；可怜或糟糕的','SORRY：从痛苦、难过，走向歉意与遗憾',
+ '伤到别人说 I’m sorry；听到坏消息也可说 I’m sorry，表达难过、同情，并不每次都在承认自己做错。',
+ 'sorry 继承古英语 sārig，属 sore 疼痛的词族。拼写后来受 sorrow 影响，但不能直接写成现代 sorrow 去尾而来。',
+ '古英语 sārig → 中古英语 sory → sorry。现代 sorry for、sorry about 等搭配按对象区分歉意、同情和遗憾。',
+ [['疼痛背景的相关词','sore'],['难过、遗憾和歉意','sorry']],
+ 'sorry to hear that 常是同情；a sorry sight 则可说一副可怜、糟糕的样子。sorrow 的形近关系不等于直接派生。',
+ 'I’m sorry to hear that you missed the trip.\n\n听说你没赶上这次旅行，我很遗憾。','sore sorry')
+R('B2893','阅读；读数；解读；朗读活动','READING：把文字或信号读出来，再得到一种理解',
+ 'reading a book 是读书，a meter reading 是仪表读数，my reading of the poem 是我对诗的理解。',
+ 'reading 从古英语 rǣding 经中古英语延续，对应 read + -ing。活动、一次读取结果、解读等名词用法逐步固定。',
+ 'read + -ing → reading，读 /ˈriːdɪŋ/。它的元音与 read 的过去式 /red/ 不同，不因有读过的语境就改读 /redɪŋ/。',
+ [['读与理解','read'],['阅读、读数和解释','reading']],
+ 'do some reading 泛说阅读；take a reading 读取一次数值；a poetry reading 是诗歌朗读活动，不只是一个人默读。',
+ 'After reading the manual, she checked the meter reading.\n\n读完说明书后，她检查了仪表读数。','read reading')
+R('B3847','感觉、感情、直觉；感受的形式','FEELING：身体感觉与心里感受，先分清是哪一种',
+ 'a feeling of warmth 是温暖的感觉；hurt someone’s feelings 是伤感情；a feeling that something is wrong 则是觉得有点不对。',
+ 'feel + -ing，对应中古英语 felynge 等。感知动作的形式逐步成为感觉、情感等名词。',
+ 'feel + -ing → feeling；un- + feeling → unfeeling。unfeeling 现代形容人时常说没有同情心，而不是仅仅缺乏强烈情绪。',
+ [['基本感受动作','feel'],['感知、情感与直觉','feeling'],['缺少体恤的评价','unfeeling']],
+ 'feelings 复数常说感情、情绪；feeling 也可单数说一种感觉。unfeeling 冷漠与 calm 冷静不同。',
+ 'She had a feeling that his reply would sound unfeeling.\n\n她有种预感：他的回答会显得冷漠。','feel feeling unfeeling')
+R('B4450','看见、见面；see 的 -ing 形式','SEEING：眼前发生的视觉、见面或理解活动',
+ 'seeing a bird 看见鸟；seeing a friend 与朋友见面；sightseeing 则是到各处看景点。',
+ 'see + -ing，接 see 的古英语看见词族。现代 seeing 可在动词结构中出现，相关视觉词也参与 sightseeing 等复合。',
+ 'see + -ing → seeing，保留 ee；sight + seeing → sightseeing。see 与 sight 是旧词族的不同形式，不是今天照发音随意换尾巴。',
+ [['看见、理解及见面','see · seeing'],['参观景点','sight · sightseeing']],
+ 'seeing someone 可以说与人见面，也可能表示与人交往；sightseeing 是观光，不是看到自己视力好。',
+ 'We spent the morning sightseeing and the afternoon seeing old friends.\n\n我们上午参观景点，下午与老朋友见面。','see seeing sight sightseeing')
+R('B4238','好笑；古怪；略感不舒服的性质','FUNNY：逗人笑与让人觉得不对劲，两条常用方向',
+ 'a funny story 常是好笑的故事；a funny smell 则是怪味，重点不是让鼻子笑。',
+ 'fun + -y，双写 n。fun 的玩笑、愚弄等历史材料发展到好笑，也衍生出古怪、不对劲的用法。',
+ 'fun + -y → funny；funny 的 y 改 i 加 -ly → funnily；un- + funny → unfunny。',
+ [['乐趣与性质','fun · funny'],['说起来有趣及否定评价','funnily · unfunny']],
+ 'fun 有乐趣与 funny 好笑并非总能互换；feel funny 有时是不舒服、怪怪的。funnily enough 常引出巧合、意外细节。',
+ 'The funny story was fun to read, though its ending felt a little strange.\n\n这个好笑的故事读起来很有趣，不过结尾让人觉得有点怪。','fun funny funnily unfunny')
+R('B4316','站立；持续有效；地位、声誉','STANDING：从站着，延伸到持续存在、被认可的位置',
+ 'a standing passenger 是站立乘客；a standing agreement 长期有效；professional standing 则是专业声誉、地位。',
+ 'standing 接古英语 standende 等分词形式，现代对应 stand + -ing。分词进一步形成持续、地位等固定性质和名词用法。',
+ 'stand + -ing → standing；upstanding、freestanding、outstanding 也连着 stand 的复合、分词材料，具体意义各自发展，不一律译成朝某处站着。',
+ [['基本动作及多种固定义','stand · standing'],['独立支撑与正直评价','freestanding · upstanding'],['突出或仍未完成的性质','outstanding']],
+ 'outstanding work 可以说杰出工作，outstanding payment 却常是未付的款项；standing 也不要求实际有人一直站着。',
+ 'Her outstanding work improved her standing in the profession.\n\n她杰出的工作提高了她在业内的声誉。','stand standing freestanding upstanding outstanding')
+R('B2613','打猎；带着目标搜寻','HUNT：沿着线索、目标去找',
+ '在林里找猎物，或在家里翻找钥匙，都有认真搜寻的共同画面；具体是在打猎还是找东西，由对象决定。',
+ 'hunt 接古英语 huntian，经中古英语 hunten 延续。远源存在不同解释，不能简单说由现代 hound 猎犬按规则换个字母得到。',
+ 'hunt + -ing → hunting；hunt + -er → hunter；hunt 与 man 形成 huntsman，带连接形式；man + hunt → manhunt。',
+ [['动作、活动与人物','hunt · hunting · hunter · huntsman'],['按追寻对象命名的行动','manhunt']],
+ 'hunt for a key 找钥匙；hunt animals 捕猎动物；manhunt 常指追捕、搜寻某人，与普通找朋友见面不同。',
+ 'The hunter spent the morning hunting for a lost bag.\n\n那位猎人上午一直在找一只丢失的包。','hunt hunting hunter huntsman manhunt')
+if __name__=='__main__':save('continuation_20261030_rr',ROOTS,WORDS)

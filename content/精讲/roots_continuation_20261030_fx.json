@@ -1,0 +1,129 @@
+[
+  {
+    "id": "B4299",
+    "meaning": "水陆边界与在岸、离岸方向；支撑义另源",
+    "core": "SHORE：岸；SHORE UP：用支撑撑住",
+    "image": "shore → shoreline；ashore 上岸；onshore 陆上向岸；offshore 海上离岸；foreshore 等按前滨分支。",
+    "intro": "风向与风电设施位置要看完整搭配。shore up 的支撑不接海岸词源；shored 的少见带某种岸线性质先不单列。",
+    "forms": "schore 等 → shore 岸；shore + line；a-/on-/off- + shore；sea/lake/fore + shore；另一支柱词 → shore up。\n\n水岸 shore 接古英语或大陆日耳曼材料，远连切分的分析仍有不确定性。支撑动词 shore 另源，shores up 常说加固、支持，不从海岸义硬推。",
+    "branches": [
+      [
+        "岸边基础与岸线",
+        "shore · shoreline · seashore · lakeshore · foreshore"
+      ],
+      [
+        "位置与移动方向",
+        "ashore · onshore · offshore"
+      ],
+      [
+        "shore → shores：岸边与支撑分源",
+        "shores"
+      ]
+    ],
+    "contrasts": "shore/beach 岸与滩；onshore/offshore wind 的风向、设施位置按后文选；shore up 支撑另源。",
+    "practice": "We came ashore and followed the shoreline while the boat waited offshore.\n\n我们上岸后沿岸线走，船则在离岸处等着。",
+    "words": [
+      "shore",
+      "shoreline",
+      "seashore",
+      "lakeshore",
+      "foreshore",
+      "ashore",
+      "onshore",
+      "offshore",
+      "shores"
+    ],
+    "exclude": {
+      "shored": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3799",
+    "meaning": "伤害落在哪一方，再分动作、经历与身份",
+    "core": "VICTIM：承受伤害的人，不一定已经死亡",
+    "image": "victim → victimize → victimization；victimhood 处境身份；victimless 对直接受害者有无的判断。",
+    "intro": "过程、身份与标签各自回答不同问题。说 victimhood 未必否认真实受害；称 victimless 也不等于已经证明没有任何伤害。",
+    "forms": "victima → victime、victim；victim + -ize/-hood/-less；victimize + -ation → victimization。\n\n拉丁祭献对象词经借入后扩展为遭受伤害者，更远来源未定。",
+    "branches": [
+      [
+        "受害者、使受害与过程",
+        "victim · victimize · victimization"
+      ],
+      [
+        "身份与受害者有无",
+        "victimhood · victimless"
+      ],
+      [
+        "victim → victims：祭献对象与受害者",
+        "victim · victims"
+      ]
+    ],
+    "contrasts": "victimization/victimhood 受害过程与身份；victimless/harmless 无直接受害者标签与无害；victim/victor 不按外形强串。",
+    "practice": "The report describes the victims’ experiences without reducing their whole lives to victimhood.\n\n报告描述了受害者的经历，也呈现了他们人生中受害身份之外的部分。",
+    "words": [
+      "victim",
+      "victimize",
+      "victimization",
+      "victimhood",
+      "victimless",
+      "victims"
+    ],
+    "exclude": {
+      "victim-blame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "victim-blaming": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2694",
+    "meaning": "按周计频率，biweekly 要查清一次还是两次",
+    "core": "WEEKLY：每周；BIWEEKLY：有两种常见频率",
+    "image": "weekly → biweekly，bi- 在实际用法中可能每两周一次，也可能每周两次。",
+    "intro": "具体安排里用 every two weeks、twice a week 最清楚；频率歧义不能只靠坚持一个前缀解释消除。",
+    "forms": "week + -ly → weekly；bi- + weekly → biweekly。",
+    "branches": [
+      [
+        "每周与两种 biweekly 频率",
+        "weekly · biweekly"
+      ]
+    ],
+    "contrasts": "weekly 每周；biweekly 两周一次或一周两次，按明文日期判断。",
+    "practice": "Our weekly meeting stays on Monday; the biweekly report is issued every two weeks.\n\n每周会议仍在周一；这里说的 biweekly 报告明确为每两周发布一次。",
+    "words": [
+      "weekly",
+      "biweekly"
+    ],
+    "exclude": {
+      "semi-weekly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-weekly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-weekly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3948",
+    "meaning": "消费者到重消费观念，也可到权益主张",
+    "core": "CONSUMER：使用、购买者；后缀再谈立场",
+    "image": "consumer → consumerism、consumerist；把购买行为、消费观念与消费者保护分清。",
+    "intro": "consumerism 两支意思可能给相反阅读印象，先看文章是在批评物质购买，还是讨论消费者利益。",
+    "forms": "consume + -er → consumer；consumer + -ism/-ist → consumerism、consumerist。",
+    "branches": [
+      [
+        "消费者角色",
+        "consumer"
+      ],
+      [
+        "观念与相关主体、性质",
+        "consumerism · consumerist"
+      ]
+    ],
+    "contrasts": "consumption/consumerism 行为量与观念运动；consumer/consumerist 身份与立场；-ist 名词形容词都可。",
+    "practice": "A consumer can question consumerist values without giving up every purchase.\n\n消费者也可以质疑消费主义价值观，并不因此完全停止购买。",
+    "words": [
+      "consumer",
+      "consumerism",
+      "consumerist"
+    ],
+    "exclude": {
+      "anti-consumer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

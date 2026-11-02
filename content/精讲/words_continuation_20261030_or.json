@@ -1,0 +1,456 @@
+[
+  {
+    "word": "fin",
+    "ipa": "/fɪn/",
+    "meaning": "鳍；尾翼；散热片；〔复数〕脚蹼",
+    "sense": "鱼身上伸出来控制运动、稳定姿态的片状结构是 fin。飞机尾部、散热器上薄薄突出的结构，也借了相似的形状或功能。",
+    "split": "承古英语 finn，经中古英语延续，更早词源与其他鳍、突出结构材料的关系有不同解释。钱币俚语 fin 五元等另接意第绪语五，不从鱼鳍解释。",
+    "history": [
+      [
+        "古英语 finn → 中古英语 fin → fin",
+        "鱼、海生动物用于运动或稳定的鳍"
+      ],
+      [
+        "薄突出结构的形状、功能 → 机器尾翼、散热片等名",
+        "blue + fin；fin + -ed，复合与特征形容词"
+      ]
+    ],
+    "explanation": "a dorsal fin 背鳍；a tail fin 尾鳍、尾翼；cooling fins 散热片；swimming fins 游泳脚蹼。",
+    "usage": "a dorsal fin；cooling fins；swimming fins。",
+    "contrast": "fin 是形状、功能扩展的通名，不说明飞机也是动物；游泳 fins 常指穿在脚上的脚蹼。",
+    "examples": [
+      [
+        "A dorsal fin broke the surface of the water.",
+        "一个背鳍露出了水面。"
+      ],
+      [
+        "The metal fins help the device release heat.",
+        "金属散热片帮助设备散热。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fin#English"
+    ]
+  },
+  {
+    "word": "bluefin",
+    "ipa": "英 /ˈbluːfɪn/；美 /ˈbluːfɪn/",
+    "meaning": "蓝鳍金枪鱼〔bluefin tuna 的简称〕",
+    "sense": "这是一个鱼名，bluefin 常省掉后面的 tuna。blue + fin 帮你认形，却不能拿它当图鉴规则，说每一片鳍都必须蓝。",
+    "split": "blue 蓝 + fin 鳍，构成 bluefin tuna 的通俗名称，常缩成 bluefin。名称固定后指相应几类金枪鱼，不能按颜色临时把所有鱼都叫进来。",
+    "history": [
+      [
+        "古英语 finn → 中古英语 fin → fin",
+        "鱼、海生动物用于运动或稳定的鳍"
+      ],
+      [
+        "blue + fin → bluefin tuna → bluefin",
+        "由复合通名到常用简称"
+      ]
+    ],
+    "explanation": "Atlantic bluefin 大西洋蓝鳍金枪鱼；Pacific bluefin 太平洋蓝鳍金枪鱼；a bluefin 一条相应金枪鱼。",
+    "usage": "Atlantic bluefin；bluefin tuna。",
+    "contrast": "bluefin、yellowfin 是不同通俗鱼名，不是全身颜色的简单二选一；蓝鳍金枪鱼也有黄色小鳍等特征。",
+    "examples": [
+      [
+        "The display compares bluefin with other types of tuna.",
+        "展板比较了蓝鳍金枪鱼与其他金枪鱼。"
+      ],
+      [
+        "A bluefin appeared beside the research vessel.",
+        "一条蓝鳍金枪鱼出现在研究船旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bluefin#English",
+      "https://www.fisheries.noaa.gov/species/western-atlantic-bluefin-tuna/resources"
+    ]
+  },
+  {
+    "word": "finned",
+    "ipa": "/fɪnd/",
+    "meaning": "有鳍的；有鳍状结构的",
+    "sense": "fin 是一片鳍，finned 说这个动物、部件带着鳍或鳍状突出结构。-ed 在这里可以表达“有”，不是每次都被人加装了鳍。",
+    "split": "fin + -ed → finned，双写 n；特征形容词与动词过去式在字形上可重合，具体看句子。",
+    "history": [
+      [
+        "古英语 finn → 中古英语 fin → fin",
+        "鱼、海生动物用于运动或稳定的鳍"
+      ],
+      [
+        "薄突出结构的形状、功能 → 机器尾翼、散热片等名",
+        "blue + fin；fin + -ed，复合与特征形容词"
+      ],
+      [
+        "fin + -ed → finned",
+        "带鳍、带鳍状结构的性质"
+      ]
+    ],
+    "explanation": "a finned fish 有鳍的鱼；a finned heat sink 带散热鳍片的散热器；前面还可限定鳍数、形状。",
+    "usage": "a finned heat sink；finned surfaces。",
+    "contrast": "finned /fɪnd/ 与 find /faɪnd/ 拼写、元音不同；有鳍的形容词不能一律翻成过去被切了鳍。",
+    "examples": [
+      [
+        "The diagram shows a finned heat sink.",
+        "图示展示了带鳍片的散热器。"
+      ],
+      [
+        "The model has a smooth body and a finned tail.",
+        "模型的身体光滑，尾部带着鳍状结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/finned#English"
+    ]
+  },
+  {
+    "word": "borne",
+    "ipa": "英 /bɔːn/；美 /bɔːrn/",
+    "meaning": "承载、承担、忍受了；bear 的过去分词",
+    "sense": "负重被人扛着，费用由一方承担，压力被人忍着，都能用 borne。它的动词原形是 bear，不是 bore 钻孔。",
+    "split": "承古英语 beran 的分词 boren 等，经中古英语延续。现代 be born 专用于出生结构，其他承载、忍受用 borne；主动生育仍可说 has borne children。",
+    "history": [
+      [
+        "古英语 beran 承载、生育 → boren 等过去分词",
+        "承载、忍受、生育等动作的结果形式"
+      ],
+      [
+        "borne 与 born 现代拼写分工；相关媒介 + borne",
+        "承载、生育主动常用 borne；be born 出生；传播媒介构词"
+      ]
+    ],
+    "explanation": "costs borne by someone 由某人承担的费用；borne on the wind 随风传播；bear—bore—borne 是常见变化。",
+    "usage": "costs borne by；borne on the wind。",
+    "contrast": "She was born 出生不写 borne；She has borne two children 主动生育用 borne。bored 无聊的、钻孔了又是另一组词形。",
+    "examples": [
+      [
+        "The cost will be borne by the organisers.",
+        "费用将由组织者承担。"
+      ],
+      [
+        "The scent was borne on the wind.",
+        "香气随风飘来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/borne#English"
+    ]
+  },
+  {
+    "word": "fibre",
+    "ipa": "英 /ˈfaɪbə/；美 /ˈfaɪbər/",
+    "meaning": "纤维；纤维材料；膳食纤维〔常见英式拼写〕",
+    "sense": "线里的一根细丝、植物里的一缕组织，都能是 fibre；一大类纤维材料也这么叫。饮食 fibre 则是专门的膳食纤维用法。",
+    "split": "经法语接拉丁 fibra；fibre 常见英式，fiber 常见美式。拉丁和早期英语的身体内部义也参与历史，不能只从现代纺织布料反推。",
+    "history": [
+      [
+        "拉丁 fibra 丝状物、内脏等 → 法语 fibre → 英语 fibre／fiber",
+        "细长丝状结构，继而材料和饮食用语"
+      ],
+      [
+        "fibre + -ous → fibrous；纤维材料 + -in → fibrin",
+        "纤维状性质；具体蛋白名称"
+      ]
+    ],
+    "explanation": "natural fibres 天然纤维；dietary fibre 膳食纤维；optical fibre 光纤；moral fibre 道德意志的比喻。",
+    "usage": "natural fibres；dietary fibre；optical fibre。",
+    "contrast": "fibre 与 fiber 不是两类材料；dietary fibre 也不能由一根可见丝线的形状直接判断所有化学成分。",
+    "examples": [
+      [
+        "The fabric is made from natural fibres.",
+        "这块布由天然纤维制成。"
+      ],
+      [
+        "The cable contains several optical fibres.",
+        "电缆里含有几根光纤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fibre#English",
+      "https://www.etymonline.com/word/fibre"
+    ]
+  },
+  {
+    "word": "fibrous",
+    "ipa": "/ˈfaɪbrəs/",
+    "meaning": "纤维状的；多纤维的；富含纤维质的",
+    "sense": "切开茎，里面拉出一缕缕细丝，是 fibrous。它说形态或质地像纤维，不是只说这物品很会传播光。",
+    "split": "fibre 的 fibr- 词干 + -ous → fibrous，去末 e，词干与 ous 相接；不写 fibreous。",
+    "history": [
+      [
+        "拉丁 fibra 丝状物、内脏等 → 法语 fibre → 英语 fibre／fiber",
+        "细长丝状结构，继而材料和饮食用语"
+      ],
+      [
+        "fibre + -ous → fibrous；纤维材料 + -in → fibrin",
+        "纤维状性质；具体蛋白名称"
+      ],
+      [
+        "fibr- + -ous → fibrous",
+        "纤维相关、纤维状或多纤维的性质"
+      ]
+    ],
+    "explanation": "fibrous tissue 纤维组织；fibrous roots 须状纤维根系；a fibrous texture 纤维质地。",
+    "usage": "fibrous tissue；a fibrous texture。",
+    "contrast": "fibrous 是性质，fibrin 是具体蛋白；不能把所有纤维状东西都叫 fibrin。",
+    "examples": [
+      [
+        "The stem has a tough, fibrous texture.",
+        "茎的质地坚韧，纤维感明显。"
+      ],
+      [
+        "The diagram shows a layer of fibrous tissue.",
+        "图示展示了一层纤维组织。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fibrous#English"
+    ]
+  },
+  {
+    "word": "childishly",
+    "ipa": "/ˈtʃaɪldɪʃli/",
+    "meaning": "幼稚地；孩子气地",
+    "sense": "因为一点小事赌气，非要别人先道歉，这种行为方式可能被说 childishly。副词评价的是做法，不是把对方真的变成儿童。",
+    "split": "childish + -ly → childishly，保留 sh。现代常接不成熟评价，也可随描写语境保留较中性的孩子气。",
+    "history": [
+      [
+        "child + -ish → childish",
+        "像小孩，现代常带不成熟评价"
+      ],
+      [
+        "childish + -ly、-ness",
+        "幼稚地；幼稚性质、行为"
+      ]
+    ],
+    "explanation": "behave childishly 行事幼稚；react childishly 反应孩子气；argue childishly 幼稚争吵。",
+    "usage": "behave childishly；react childishly。",
+    "contrast": "childishly 多不同于 childlike 那类童真好奇的褒义画面；一个成年人偶尔这样做，不代表整体能力是儿童水平。",
+    "examples": [
+      [
+        "He reacted childishly to a small disappointment.",
+        "面对一点失望，他反应得很孩子气。"
+      ],
+      [
+        "She admitted that she had behaved childishly.",
+        "她承认自己当时做得很幼稚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childishly#English"
+    ]
+  },
+  {
+    "word": "childishness",
+    "ipa": "/ˈtʃaɪldɪʃnəs/",
+    "meaning": "幼稚、孩子气；幼稚行为",
+    "sense": "childish 描写做法幼稚，childishness 则把那种不成熟的劲头单独拿出来谈，也能指具体行为。",
+    "split": "childish + -ness → childishness，中古英语已有相应名词。先由 child 加 -ish 成性质，再由 -ness 成名词。",
+    "history": [
+      [
+        "child + -ish → childish",
+        "像小孩，现代常带不成熟评价"
+      ],
+      [
+        "childish + -ly、-ness",
+        "幼稚地；幼稚性质、行为"
+      ]
+    ],
+    "explanation": "a moment of childishness 一时孩子气；the childishness of an argument 争论的幼稚；不是 childhood 童年这段时间。",
+    "usage": "a moment of childishness；the childishness of。",
+    "contrast": "childishness 评价性质，childhood 是人生阶段；儿童也可以成熟处事，成年人也可能表现 childishness。",
+    "examples": [
+      [
+        "The argument revealed the childishness of their rivalry.",
+        "争吵显出了他们竞争方式的幼稚。"
+      ],
+      [
+        "He regretted that moment of childishness.",
+        "他后悔那一时的孩子气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/childishness#English"
+    ]
+  },
+  {
+    "word": "bleed",
+    "ipa": "/bliːd/",
+    "meaning": "流血；渗色、洇开；不断流失；〔印刷〕出血边",
+    "sense": "里面的东西流出来是主画面：身体流血，墨色洇出边界，公司也可能像在不断流失现金。印刷 bleed 则是故意多留到裁切线外的图像部分。",
+    "split": "承古英语 blēdan，早由血的日耳曼材料派生；现代 blood /blʌd/ 与 bleed /bliːd/ 的元音差来自旧变化。过去式、过去分词 bled。",
+    "history": [
+      [
+        "古英语 blōd 血 → blēdan 流血 → 中古英语 bleden → bleed",
+        "古老词形变化，不是现代 blood 加 -ed"
+      ],
+      [
+        "流出画面 → 颜色渗开、资源不断流失；印刷边缘出血",
+        "实体流出到技术、比喻名词"
+      ]
+    ],
+    "explanation": "bleed through paper 洇透纸；bleed money 不断亏钱、流失现金；print bleed 印刷出血边；不把所有 bleed 都看成身体受伤。",
+    "usage": "bleed through；bleed money；print bleed。",
+    "contrast": "印刷 bleed 是为裁切误差预留延展，不是错误把纸染脏；blood 名词与 bleed 动词也不是普通 -ed 变化。",
+    "examples": [
+      [
+        "The ink bled through the thin paper.",
+        "墨水洇透了薄纸。"
+      ],
+      [
+        "The layout includes a bleed beyond the trim line.",
+        "版面在裁切线外留有出血边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bleed#English"
+    ]
+  },
+  {
+    "word": "knot",
+    "ipa": "英 /nɒt/；美 /nɑːt/",
+    "meaning": "结、绳结；打结；木节；〔速度〕节",
+    "sense": "绳子绕住打成一结，是 knot；头发结团、木头的节也保留结块画面。船速的 knot 则来自旧时按测速绳结计数的方法。",
+    "split": "承古英语 cnotta，经中古英语 knotte 延续；词首 k 现代不发音。速度义接旧航海测速绳，现代一节等于一海里每小时。",
+    "history": [
+      [
+        "古英语 cnotta → 中古英语 knotte → knot",
+        "绳结、结团、木节等凸结材料"
+      ],
+      [
+        "knot + -y → knotty；测速绳结 → 速度单位 knot",
+        "有结、难解；一节为一海里每小时"
+      ]
+    ],
+    "explanation": "tie a knot 打结；a knot in the wood 木节；ten knots 十节；tie the knot 是结婚的固定比喻。",
+    "usage": "tie a knot；tie the knot；ten knots。",
+    "contrast": "knot 速度已含每小时，通常不再说 knots per hour 表速度；knot 与 not 同音，却不是否定词。",
+    "examples": [
+      [
+        "She tied a knot in the end of the rope.",
+        "她在绳端打了一个结。"
+      ],
+      [
+        "The boat was travelling at ten knots.",
+        "船正以十节速度航行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knot#English",
+      "https://oceanservice.noaa.gov/facts/nautical-mile-knot.html"
+    ]
+  },
+  {
+    "word": "knotty",
+    "ipa": "英 /ˈnɒti/；美 /ˈnɑːti/",
+    "meaning": "多结的、多木节的；棘手、复杂难解的",
+    "sense": "一根满是结的绳子不好解，一个关系绕来绕去的问题也很难解，于是叫 a knotty problem。",
+    "split": "中古英语已有相应形容词，现代对应 knot 双写 t + -y → knotty，保持词首 k 不发音。",
+    "history": [
+      [
+        "古英语 cnotta → 中古英语 knotte → knot",
+        "绳结、结团、木节等凸结材料"
+      ],
+      [
+        "knot + -y → knotty；测速绳结 → 速度单位 knot",
+        "有结、难解；一节为一海里每小时"
+      ],
+      [
+        "knot + -y → knotty",
+        "有结 → 复杂难解的性质"
+      ]
+    ],
+    "explanation": "knotty wood 多节木材；a knotty problem 棘手问题；a knotty question 复杂难题。",
+    "usage": "knotty wood；a knotty problem。",
+    "contrast": "knotty 问题侧重关系复杂、难解；naughty 淘气的虽音近却不同词，不是问题很调皮。",
+    "examples": [
+      [
+        "The carpenter examined a piece of knotty wood.",
+        "木匠查看了一块多节木材。"
+      ],
+      [
+        "The team faced a knotty problem with no simple answer.",
+        "团队面对一个没有简单答案的棘手问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knotty#English"
+    ]
+  },
+  {
+    "word": "elastomer",
+    "ipa": "英 /ɪˈlæstəmə/；美 /ɪˈlæstəmər/",
+    "meaning": "弹性体、弹性聚合物",
+    "sense": "像橡胶一样能明显变形、卸力后恢复的聚合物，常归作 elastomer。它比形容词 elastic 更具体，是材料类别名。",
+    "split": "elastic 的缩短词干 + 连接元音 o + -mer → elastomer，联系 polymer 等科学命名模式。不是所有弹性物体都因末尾 mer 变成一种塑料。",
+    "history": [
+      [
+        "希腊 meros 部分 → 科学构词 -mer",
+        "分子部分、单元相关命名"
+      ],
+      [
+        "mono-、di-、poly-、iso- 等 + -mer；elastic 材料 + -mer",
+        "数量、相同组成、弹性类别，不能都解成同一种链"
+      ],
+      [
+        "elastic 的词干 + -o- + -mer → elastomer",
+        "具有橡胶式弹性性质的聚合物类别"
+      ]
+    ],
+    "explanation": "a silicone elastomer 硅橡胶弹性体；elastomer seals 弹性体密封件；rubber 是常见入口，类别还包括合成材料。",
+    "usage": "a silicone elastomer；elastomer seals。",
+    "contrast": "elastic 是性质形容词，elastomer 是材料类名；不是所有 polymer 聚合物都具同样橡胶式弹性。",
+    "examples": [
+      [
+        "The seal is made from a flexible elastomer.",
+        "密封件由柔性的弹性体制成。"
+      ],
+      [
+        "The chart compares this elastomer with a rigid polymer.",
+        "图表把这种弹性体与一种刚性聚合物作了比较。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elastomer#English",
+      "https://www.merriam-webster.com/dictionary/elastomer"
+    ]
+  },
+  {
+    "word": "proteome",
+    "ipa": "英 /ˈprəʊtiəʊm/；美 /ˈproʊtioʊm/",
+    "meaning": "蛋白质组、蛋白质总集",
+    "sense": "genome 像一套遗传资料，proteome 则看细胞、组织或生物生产的蛋白质清单。不同时间、状态下，实际出现的蛋白质和数量可以变化。",
+    "split": "由 protein 蛋白质与 genome 缩合，亦可按 proteo- 蛋白质 + -ome 总集认形。名字仿基因组，研究对象已经换成蛋白质。",
+    "history": [
+      [
+        "-ome 接希腊相关名词词尾材料，形成整体、总集命名模式",
+        "不能直接等同 -some 的 body 身体"
+      ],
+      [
+        "genome 原由德语 gene、chromosome 缩合；类推 proteome 等",
+        "基因总集模式拓展到蛋白质总集"
+      ],
+      [
+        "protein 与 genome 缩合／proteo- + -ome → proteome",
+        "相应细胞、生物的蛋白质清单"
+      ]
+    ],
+    "explanation": "the human proteome 人类蛋白质组；a cell’s proteome 细胞蛋白质组；具体研究会限定生物、组织、时间或条件。",
+    "usage": "the human proteome；a cell’s proteome。",
+    "contrast": "proteome 不是 genome 另一个拼写，也不是单个 protein；某物种可编码的全套与某状态实际表达的清单，研究范围需看文章定义。",
+    "examples": [
+      [
+        "The study compares the proteome of cells under two conditions.",
+        "研究比较了两种条件下细胞的蛋白质组。"
+      ],
+      [
+        "The diagram places the proteome after the genome in the flow of biological information.",
+        "图示在生物信息流中把蛋白质组放在基因组之后。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proteome#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/proteome"
+    ]
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "word": "dear",
+    "ipa": "英 /dɪə/；美 /dɪr/",
+    "meaning": "亲爱的、珍视的；昂贵的〔尤英式〕；天哪〔Oh dear〕",
+    "sense": "一个人对你很有分量，是 dear；一件东西价格高，也能 dear。心里的价值与市场价格是不同场景。",
+    "split": "接古英语 dēore、dȳre，旧时珍贵、昂贵、受喜爱的意思已经相连。更远来源未定，不编成 deer 鹿带来亲切感。",
+    "history": [
+      [
+        "古英语 dēore、dȳre 等 → 中古英语 dere → dear",
+        "珍贵、价高、受喜爱的；更远来源未定"
+      ],
+      [
+        "英语 dear",
+        "亲爱的、珍视的；贵的；呼语与感叹等"
+      ]
+    ],
+    "explanation": "a dear friend 亲密朋友，dear to someone 为某人珍视，Dear Alex 信函开头；Oh dear 表惊讶、担忧、无奈等，不一定有亲爱的人被叫到。",
+    "usage": "a dear friend；dear to me；Dear Alex；Oh dear。",
+    "contrast": "dear/deer 同音异词；Dear 后写收信人是惯常称呼，不证明恋爱关系。dear 价格义偏英式，日常也常用 expensive。",
+    "examples": [
+      [
+        "This old photograph is very dear to me.",
+        "这张旧照片对我很珍贵。"
+      ],
+      [
+        "Oh dear, I have left the keys inside.",
+        "哎呀，我把钥匙落在里面了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dear#English"
+    ]
+  },
+  {
+    "word": "dearly",
+    "ipa": "英 /ˈdɪəli/；美 /ˈdɪrli/",
+    "meaning": "深深地、充满爱意地；高价地、付出惨重代价地",
+    "sense": "love dearly 是把人看得很重；pay dearly 则是代价很重。不是所有 dearly 都在表达亲热。",
+    "split": "dear + -ly，古英语 dēorlīċe、中古英语相关形式延续。温情与高代价分别接 dear 的受珍爱和昂贵两条常用义。",
+    "history": [
+      [
+        "古英语 dēore、dȳre 等 → 中古英语 dere → dear",
+        "珍贵、价高、受喜爱的；更远来源未定"
+      ],
+      [
+        "英语 dear",
+        "亲爱的、珍视的；贵的；呼语与感叹等"
+      ],
+      [
+        "dear + -ly；旧副词形式延续 → dearly",
+        "深切珍爱地；付出高代价地"
+      ]
+    ],
+    "explanation": "love dearly 深爱，dearly beloved 深受爱戴的，pay dearly for 为……付惨重代价，dearly wanted 迫切想要。",
+    "usage": "love dearly；pay dearly for；dearly beloved。",
+    "contrast": "dearly 修饰爱或代价，Dearly Alex 不能替换信头 Dear Alex；后者用形容词称呼。",
+    "examples": [
+      [
+        "She dearly loved the village where she grew up.",
+        "她深深爱着自己长大的村子。"
+      ],
+      [
+        "The team paid dearly for that early mistake.",
+        "球队为开场时那个失误付出了沉重代价。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dearly#English"
+    ]
+  },
+  {
+    "word": "endear",
+    "ipa": "英 /ɪnˈdɪə/；美 /ɪnˈdɪr/，亦有 /en-/ 开头",
+    "meaning": "使受喜爱、使讨人喜欢",
+    "sense": "某个举动让别人心里把你看得更亲、更可爱。不是自己决定去爱某人，而是让自己或某物获得喜爱。",
+    "split": "en- 使成为 + dear 可爱的、珍视的，形成使受爱动词。常见结构 endear someone to someone。",
+    "history": [
+      [
+        "古英语 dēore、dȳre 等 → 中古英语 dere → dear",
+        "珍贵、价高、受喜爱的；更远来源未定"
+      ],
+      [
+        "英语 dear",
+        "亲爱的、珍视的；贵的；呼语与感叹等"
+      ],
+      [
+        "en- + dear → endear",
+        "使在别人心中变得亲切、讨喜"
+      ]
+    ],
+    "explanation": "endear yourself to someone 赢得某人喜爱，endear the character to readers 让读者喜欢这个角色。",
+    "usage": "endear oneself to；endear her to readers；do little to endear。",
+    "contrast": "endear 使别人喜欢，love 自己喜爱；His honesty endeared him to us 是他的诚实让我们喜欢他，不是他变得喜欢我们。",
+    "examples": [
+      [
+        "Her kindness endeared her to the whole neighbourhood.",
+        "她的善良让整个街区的人都喜欢她。"
+      ],
+      [
+        "His rude reply did little to endear him to the audience.",
+        "他粗鲁的回答没能给观众留下什么好感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endear#English"
+    ]
+  },
+  {
+    "word": "endearing",
+    "ipa": "英 /ɪnˈdɪərɪŋ/；美 /ɪnˈdɪrɪŋ/",
+    "meaning": "讨人喜欢、惹人喜爱的",
+    "sense": "一个小动作、不太完美的习惯，反而让人想亲近、喜欢。重点是能引起温柔好感。",
+    "split": "endear + -ing，形容词接使人受爱这个动词，表示能让人喜欢的特质。不是简单说已经被爱。",
+    "history": [
+      [
+        "古英语 dēore、dȳre 等 → 中古英语 dere → dear",
+        "珍贵、价高、受喜爱的；更远来源未定"
+      ],
+      [
+        "英语 dear",
+        "亲爱的、珍视的；贵的；呼语与感叹等"
+      ],
+      [
+        "en- + dear → endear；endear + -ing → endearing",
+        "使受爱 → 具有讨喜效果的"
+      ]
+    ],
+    "explanation": "an endearing smile 讨喜笑容，an endearing habit 惹人喜爱的习惯，an endearing quality 可爱特质。",
+    "usage": "an endearing smile；an endearing habit；an endearing quality。",
+    "contrast": "endearing 容易惹人喜欢，enduring 持久的；拼写近但含义和来源不一样。",
+    "examples": [
+      [
+        "He has an endearing habit of thanking everyone by name.",
+        "他有个讨人喜欢的习惯：会叫着名字向每个人道谢。"
+      ],
+      [
+        "Her awkward smile was strangely endearing.",
+        "她略显笨拙的笑容反而格外可爱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endearing#English"
+    ]
+  },
+  {
+    "word": "endearment",
+    "ipa": "英 /ɪnˈdɪəmənt/；美 /ɪnˈdɪrmənt/",
+    "meaning": "爱意表达、亲昵称呼",
+    "sense": "不一定是一段长告白，可能只是对亲近的人叫一声 darling；最常见搭配 term of endearment 就是爱称。",
+    "split": "endear + -ment，形成表达爱意的言语、动作等名词。现代常见复数 endearments 和 term of endearment。",
+    "history": [
+      [
+        "古英语 dēore、dȳre 等 → 中古英语 dere → dear",
+        "珍贵、价高、受喜爱的；更远来源未定"
+      ],
+      [
+        "英语 dear",
+        "亲爱的、珍视的；贵的；呼语与感叹等"
+      ],
+      [
+        "endear + -ment → endearment",
+        "表达亲昵、爱意的言语或举动"
+      ]
+    ],
+    "explanation": "a term of endearment 爱称，whisper endearments 轻声说亲昵的话，an affectionate endearment 亲热称呼。",
+    "usage": "a term of endearment；whisper endearments；exchange endearments。",
+    "contrast": "endearment 爱意表达，endearing 讨喜性质；一个爱称也要依双方关系判断，词形不保证对方愿意被这样叫。",
+    "examples": [
+      [
+        "“Darling” is a common term of endearment.",
+        "darling 是一个常见爱称。"
+      ],
+      [
+        "The letter was full of small endearments.",
+        "信里满是亲昵的话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endearment#English"
+    ]
+  },
+  {
+    "word": "dearth",
+    "ipa": "英 /dɜːθ/；美 /dɜːrθ/",
+    "meaning": "缺乏、短缺〔较书面〕",
+    "sense": "不是东西亲爱，而是可用的东西太少。历史与价高相连，常用短缺时价格高来解释二者的联系。",
+    "split": "接中古英语 derthe、derth，与 dear 昂贵义及旧抽象后缀 -th 同族。更早古英语形部分属重建；现代读音已不同于 dear 直接加 /θ/。",
+    "history": [
+      [
+        "古英语 dēore、dȳre 等 → 中古英语 dere → dear",
+        "珍贵、价高、受喜爱的；更远来源未定"
+      ],
+      [
+        "中古英语 derthe、derth → dearth",
+        "昂贵、稀缺的旧联系 → 短缺"
+      ]
+    ],
+    "explanation": "a dearth of evidence 缺乏证据，a dearth of ideas 缺乏想法，a dearth of skilled workers 缺乏熟练工。",
+    "usage": "a dearth of evidence；a dearth of ideas；a dearth of information。",
+    "contrast": "dearth 缺少，death 死亡是另词；a dearth of evidence 并不是证据证明什么东西死了。",
+    "examples": [
+      [
+        "There is a dearth of reliable information about the event.",
+        "关于这件事，可靠资料很少。"
+      ],
+      [
+        "The discussion revealed no dearth of interesting ideas.",
+        "讨论表明，有趣的想法并不少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dearth#English",
+      "https://www.etymonline.com/word/dearth"
+    ]
+  },
+  {
+    "word": "edition",
+    "ipa": "/ɪˈdɪʃən/",
+    "meaning": "版、版本；〔报刊〕期；一次播出的节目版本",
+    "sense": "把一份内容按某次形式推出去，就是一个 edition。可能是书改版，也可能是今天这一期报纸。",
+    "split": "经法语 édition 或直接拉丁语 ēditiōn-，接 ēdere 出版、拿出来。英语 edition 早于现代 edit，不能画成较晚英语 edit 加 -ion 生出较早 edition。",
+    "history": [
+      [
+        "拉丁语 ēdere → ēditiō、ēditiōnem",
+        "拿出来、出版 → 出版、推出之物"
+      ],
+      [
+        "法语 édition → 英语 edition",
+        "作品版本；一期刊物、一次新闻节目等"
+      ]
+    ],
+    "explanation": "the first edition 第一版，a revised edition 修订版，today’s edition 今日这一期，the evening edition 晚报版、晚间节目。",
+    "usage": "a revised edition；the first edition；today’s edition；a limited edition。",
+    "contrast": "edition 一种出版版本、一期内容，copy 一份实物；第一版可以印很多 copies。edition 与 addition 增加不是同词。",
+    "examples": [
+      [
+        "The revised edition includes a new chapter.",
+        "修订版新增了一章。"
+      ],
+      [
+        "I read the interview in today’s edition of the paper.",
+        "我在今天的报纸上读了那篇访谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/edition#English"
+    ]
+  },
+  {
+    "word": "bet",
+    "ipa": "/bet/",
+    "meaning": "打赌、赌注；我敢说、我猜〔I bet〕；当然〔You bet〕",
+    "sense": "把某种结果当作自己押中的那一边；口语 I bet 经常没有真钱，只是在表达很有把握或推测。",
+    "split": "16世纪英语俚语已有名词、动词，较远来源不明，缩自 abet、联系旧 better 等都是解释方案，不能说已经确定。",
+    "history": [
+      [
+        "16世纪英语 bet",
+        "赌注、打赌；来自当时俚语，具体来源未定"
+      ],
+      [
+        "英语 bet 与口语扩展",
+        "下注、押某结果；确信、猜测；You bet 等回应"
+      ]
+    ],
+    "explanation": "make a bet 打赌，bet on something 押某结果，I bet you are tired 我猜你累了，You bet! 当然、没问题。过去式、分词常 bet，也见 betted。",
+    "usage": "make a bet；bet on；I bet；You bet。",
+    "contrast": "I bet 是说话人态度，不构成证据；a safe bet 也可比喻稳妥选择，不一定建议真钱投注。",
+    "examples": [
+      [
+        "I bet the train will be crowded this evening.",
+        "我猜今晚火车上会很挤。"
+      ],
+      [
+        "“Can you help?” “You bet!”",
+        "“能帮个忙吗？”“当然！”"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bet#English"
+    ]
+  },
+  {
+    "word": "bettor",
+    "ipa": "英 /ˈbetə/；美 /ˈbetər/",
+    "meaning": "下注者、打赌者",
+    "sense": "bet 是押一个结果，bettor 是参与押注的人。人名词不替这个人保证能猜中。",
+    "split": "bet + -or，双写 t；常用尤其美式，英语也有 better 这个人物变体，但 better 更常是好或好的比较形式等。",
+    "history": [
+      [
+        "16世纪英语 bet",
+        "赌注、打赌；来自当时俚语，具体来源未定"
+      ],
+      [
+        "英语 bet 与口语扩展",
+        "下注、押某结果；确信、猜测；You bet 等回应"
+      ],
+      [
+        "bet + -or → bettor",
+        "下注、打赌的人"
+      ]
+    ],
+    "explanation": "a bettor 一位下注者，sports bettors 体育下注者，a group of bettors 一群下注者。",
+    "usage": "a bettor；sports bettors；a group of bettors。",
+    "contrast": "bettor 下注的人，不等于 winner 赢家；单词只标参与行为，不说明结果、能力。",
+    "examples": [
+      [
+        "The report interviewed several bettors about their habits.",
+        "报告采访了几位下注者，了解他们的习惯。"
+      ],
+      [
+        "Every bettor made a different prediction.",
+        "每位下注者作了不同预测。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bettor#English"
+    ]
+  },
+  {
+    "word": "betcha",
+    "ipa": "/ˈbetʃə/",
+    "meaning": "〔口语拼写〕bet you；You betcha 当然、没问题",
+    "sense": "快速说 bet you，/t/ 和后面的音靠在一起，听起来就像 betcha；常见于很随意的对白。",
+    "split": "bet + you 的口语缩合拼写，-cha 记录连读的声音，不是古典词根。You betcha 也可作肯定回应。",
+    "history": [
+      [
+        "16世纪英语 bet",
+        "赌注、打赌；来自当时俚语，具体来源未定"
+      ],
+      [
+        "英语 bet 与口语扩展",
+        "下注、押某结果；确信、猜测；You bet 等回应"
+      ],
+      [
+        "bet you 连读、缩合 → betcha",
+        "我敢说你……；肯定回应"
+      ]
+    ],
+    "explanation": "I betcha ... 我敢说……，You betcha! 当然！适合口语、台词、非正式文字，正式书面一般恢复普通表达。",
+    "usage": "I betcha；You betcha；betcha it will。",
+    "contrast": "betcha 非独立表示更好、更佳的词；它把口语声音写下来，不是所有正式文本都按这样拼。",
+    "examples": [
+      [
+        "I betcha he forgot to check the time.",
+        "我敢说他忘了看时间。"
+      ],
+      [
+        "“Will you be there?” “You betcha!”",
+        "“你会到吗？”“当然会！”"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/betcha#English"
+    ]
+  },
+  {
+    "word": "insight",
+    "ipa": "/ˈɪnsaɪt/",
+    "meaning": "洞见、深入理解；有帮助的认识",
+    "sense": "不只看见表面发生什么，而是看出里面为什么这样运作。一个关键认识，能让整件事突然明白。",
+    "split": "中古英语 insight、insiht 已有，现代对应 in- 向内 + sight 看见。更早与旧英语同形词的继承关系有不同分析，从可靠中古英语心理视觉义讲。",
+    "history": [
+      [
+        "中古英语 insight、insiht 等",
+        "内在、心智的看见、理解；可能有更早对应形式"
+      ],
+      [
+        "in- + sight 的表面结构 → insight",
+        "深入认识、洞见；有助理解的发现"
+      ]
+    ],
+    "explanation": "insight into something 对某事的深入认识，gain insight 获得洞见，a useful insight 一个有用认识。既有不可数理解力，也有可数具体洞见。",
+    "usage": "insight into；gain insight；a valuable insight；offer insights。",
+    "contrast": "insight 理解，eyesight 视力；oversight 可疏漏或监督，hindsight 事后看法，不能只按 sight 一律译眼睛看见。",
+    "examples": [
+      [
+        "The interview gave us insight into how the team works.",
+        "访谈让我们深入了解了团队怎样运作。"
+      ],
+      [
+        "Her comment offered a useful insight into the problem.",
+        "她的评论为理解问题提供了一个有用认识。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insight#English"
+    ]
+  }
+]

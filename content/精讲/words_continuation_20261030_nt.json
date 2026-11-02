@@ -1,0 +1,533 @@
+[
+  {
+    "word": "pi",
+    "ipa": "/paɪ/",
+    "meaning": "希腊字母 π；圆周率",
+    "sense": "一个圆沿边走一圈的长度，除以穿过圆心的直径，得到同一个比值 π。圆放大了，两种长度都一起变大，比值留下不变。",
+    "split": "来自希腊字母名称。数学用 π 记圆周率，通常联系表示圆周的希腊词 periphereia 首字母；字母名称的历史与后来选作符号的用途要分开。",
+    "history": [
+      [
+        "希腊字母名称 pi，字形 π",
+        "先是字母名称，数学借其作符号"
+      ],
+      [
+        "π 用作普通平面圆的周长与直径之比",
+        "圆周率，约为 3.14159，近似值不等于精确有限小数"
+      ]
+    ],
+    "explanation": "the value of pi 圆周率的值；pi times the diameter π 乘直径；digits of pi 圆周率各位数字。普通欧氏平面圆的周长 C = πd。",
+    "usage": "the value of pi；digits of pi。",
+    "contrast": "3.14 是近似值，π 不是精确等于 3.14；半径 r 对应直径 d = 2r，所以 C = 2πr。",
+    "examples": [
+      [
+        "Pi is the ratio of a circle’s circumference to its diameter.",
+        "圆周率是圆的周长与直径之比。"
+      ],
+      [
+        "The student wrote the first ten digits of pi.",
+        "学生写出了圆周率的前十位数字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pi#English"
+    ]
+  },
+  {
+    "word": "sour",
+    "ipa": "英 /ˈsaʊə/；美 /ˈsaʊər/",
+    "meaning": "酸的；发酸的；不悦的；变坏、使恶化",
+    "sense": "柠檬让舌头一紧，是 sour；牛奶变酸也叫 sour。人的脸色、关系像发了酸，便接到不悦、恶化的比喻。",
+    "split": "承古英语 sūr，经中古英语 sour 延续。酸味扩展到变酸、难闻、不友好及关系、安排变坏；形容词也作相应变化动词。",
+    "history": [
+      [
+        "古英语 sūr → 中古英语 sour → sour",
+        "酸味的日耳曼旧词"
+      ],
+      [
+        "sour → 不悦、变坏；-ness；法语 surele 等 → sorrel",
+        "味觉性质；酸味植物借名，红棕色 sorrel 另有来源"
+      ]
+    ],
+    "explanation": "a sour taste 酸味；go sour 变酸、变坏；a sour expression 不悦表情；sour a relationship 使关系恶化。",
+    "usage": "a sour taste；go sour；turn sour。",
+    "contrast": "sour 是酸，bitter 是苦；酸味本身未必是坏事，发酵食品、柑橘本来就可以酸。",
+    "examples": [
+      [
+        "The sauce tasted pleasantly sour.",
+        "这酱汁带着令人愉快的酸味。"
+      ],
+      [
+        "The mood turned sour after the announcement.",
+        "公告出来后，气氛变得不愉快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sour#English"
+    ]
+  },
+  {
+    "word": "sourness",
+    "ipa": "英 /ˈsaʊənəs/；美 /ˈsaʊərnəs/",
+    "meaning": "酸味；不悦、刻薄的态度",
+    "sense": "sour 描述味道酸，sourness 把酸的程度、性质单独拿出来。声音、态度里的不悦也可以像味道一样被品出来。",
+    "split": "承古英语 sūrnes、中古英语 sournesse 等，对应 sour + -ness。味觉与情绪评价的性质名词随 sour 义项发展。",
+    "history": [
+      [
+        "古英语 sūr → 中古英语 sour → sour",
+        "酸味的日耳曼旧词"
+      ],
+      [
+        "sour + -ness → sourness",
+        "酸的性质、程度；不悦态度"
+      ]
+    ],
+    "explanation": "the sourness of the fruit 水果的酸味；a hint of sourness 一丝酸味或不悦。",
+    "usage": "the sourness of；a hint of sourness。",
+    "contrast": "sourness 的味道、态度义看对象；不能把所有酸度测量都只凭味觉 sourness 推算。",
+    "examples": [
+      [
+        "A little sugar balanced the sourness of the fruit.",
+        "少量糖平衡了水果的酸味。"
+      ],
+      [
+        "There was a trace of sourness in his reply.",
+        "他的回答里带着一点不悦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sourness#English"
+    ]
+  },
+  {
+    "word": "sorrel",
+    "ipa": "英 /ˈsɒrəl/；美 /ˈsɔːrəl/",
+    "meaning": "酸模等酸味植物；〔另一来源〕红棕色、红棕色马",
+    "sense": "植物 sorrel 先抓叶子有酸味这点，名字就容易连到 sour。马的毛色 sorrel 却说红棕色，历史上来自另一条颜色词，不能解释成马吃酸模变了色。",
+    "split": "植物名经中古英语 sorel，借古法语 surele、sorel，上接 sur 酸，后者为日耳曼来源。红棕色名称另借法语 sor、sorel 等颜色形式，近源不同。",
+    "history": [
+      [
+        "古英语 sūr → 中古英语 sour → sour",
+        "酸味的日耳曼旧词"
+      ],
+      [
+        "法语 sur 酸 → surele、sorel → 植物 sorrel",
+        "酸叶植物；颜色 sorrel 另有法语色彩词来源"
+      ]
+    ],
+    "explanation": "sorrel leaves 酸模叶；sorrel soup 酸模汤；a sorrel horse 红棕色马，场景直接决定分支。",
+    "usage": "sorrel leaves；a sorrel horse。",
+    "contrast": "植物俗名 sorrel 在不同地区可指不同植物，不能仅凭通俗名称确认物种；颜色义则看马、毛色等上下文。",
+    "examples": [
+      [
+        "The recipe calls for a handful of sorrel leaves.",
+        "食谱需要一把酸模叶。"
+      ],
+      [
+        "A sorrel horse stood beside the gate.",
+        "一匹红棕色马站在门旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sorrel#English"
+    ]
+  },
+  {
+    "word": "stern",
+    "ipa": "英 /stɜːn/；美 /stɜːrn/",
+    "meaning": "严厉、严肃的；船尾",
+    "sense": "a stern face 是板着、严肃的脸；the stern of a boat 却是船尾。两种场景一眼可分，不能编成“严厉的人总坐船尾”来当词源。",
+    "split": "严厉义承古英语 styrne 等，联系刚硬词族。船尾义见中古英语 sterne，可能接北欧、弗里斯语掌舵、舵相关形式，具体路线有讨论。",
+    "history": [
+      [
+        "古英语 styrne → 中古英语 stern 等 → stern 严厉",
+        "严峻、严肃，联系刚硬的古老词族"
+      ],
+      [
+        "北欧、弗里斯语的掌舵相关形式 → stern 船尾",
+        "船尾的 stern 与严厉形容词近源不同；a- + stern → astern"
+      ]
+    ],
+    "explanation": "a stern warning 严厉警告；a stern test 严峻考验；the stern of the ship 船尾。",
+    "usage": "a stern warning；a stern test；the stern of。",
+    "contrast": "stern 严肃严厉不一定是 cruel 残忍；船的 stern 与 bow 船首相对。",
+    "examples": [
+      [
+        "The teacher gave them a stern warning.",
+        "老师严厉地警告了他们。"
+      ],
+      [
+        "A small flag flew at the stern of the boat.",
+        "船尾飘着一面小旗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stern#English",
+      "https://www.etymonline.com/word/stern"
+    ]
+  },
+  {
+    "word": "sternly",
+    "ipa": "英 /ˈstɜːnli/；美 /ˈstɜːrnli/",
+    "meaning": "严肃、严厉地",
+    "sense": "不是随口提醒，而是语气硬下来，让对方明白必须认真对待，这种说话、看人的方式可叫 sternly。",
+    "split": "承古英语 styrnlice 等，经中古英语 sternly 等延续，现代对应 stern 严厉 + -ly。这里接人物态度，不接船尾位置。",
+    "history": [
+      [
+        "古英语 styrne → 中古英语 stern 等 → stern 严厉",
+        "严峻、严肃，联系刚硬的古老词族"
+      ],
+      [
+        "stern + -ly → sternly",
+        "以严肃、严厉的方式"
+      ]
+    ],
+    "explanation": "speak sternly 严肃地说；look sternly at 严厉地看着；warn sternly 严厉警告。",
+    "usage": "speak sternly；look sternly at。",
+    "contrast": "sternly 描述态度、方式，不直接说明声音一定很大；低声也可以严厉。",
+    "examples": [
+      [
+        "“Enough,” she said sternly.",
+        "“够了。”她严肃地说。"
+      ],
+      [
+        "He looked sternly at the noisy group.",
+        "他严厉地看着那群吵闹的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sternly#English"
+    ]
+  },
+  {
+    "word": "astern",
+    "ipa": "英 /əˈstɜːn/；美 /əˈstɜːrn/",
+    "meaning": "在船尾方向；在后方；向后行驶",
+    "sense": "站在船上朝船尾看，那个方向就是 astern。它既能说某物位于船后，也能说船往船尾方向倒退。",
+    "split": "a- 在、朝向 + stern 船尾。复合形成航海方向、位置词，接船尾词源支，不接严厉形容词。",
+    "history": [
+      [
+        "北欧、弗里斯语的掌舵相关形式 → stern 船尾",
+        "船尾的 stern 与严厉形容词近源不同；a- + stern → astern"
+      ],
+      [
+        "a- + stern → astern",
+        "朝船尾、在船后；向后运动"
+      ]
+    ],
+    "explanation": "a vessel astern 后方的船；go astern 后退；astern of 在……后方，常见于航海叙述。",
+    "usage": "go astern；astern of。",
+    "contrast": "astern 说相对船尾的方向，sternly 说严厉方式；拼写相近但分支不同。",
+    "examples": [
+      [
+        "Another boat followed a short distance astern.",
+        "另一艘船在后方不远处跟着。"
+      ],
+      [
+        "The captain ordered the vessel to go astern.",
+        "船长命令船向后退。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/astern#English"
+    ]
+  },
+  {
+    "word": "vascular",
+    "ipa": "英 /ˈvæskjələ/；美 /ˈvæskjələr/",
+    "meaning": "血管的、脉管的；植物输导组织的",
+    "sense": "把身体里的输送通道想成一套细管，vascular 就是与这套脉管有关。医学里常看血管，植物学里则看输送水、养分等的组织。",
+    "split": "借新拉丁语 vascularis，上接拉丁语 vasculum 小容器、vas 容器；-ar 形成相关性质词。由小容器、管道形象进入生物学术语。",
+    "history": [
+      [
+        "拉丁语 vas 容器 → vasculum 小容器 → 新拉丁语 vascularis",
+        "容纳、输送流体的小管、管束相关形象"
+      ],
+      [
+        "vascular → 血管、脉管或植物输导组织相关",
+        "与 cardio- 心脏结合 → cardiovascular"
+      ]
+    ],
+    "explanation": "the vascular system 脉管系统；vascular tissue 植物维管组织；vascular structures 管状输导结构。",
+    "usage": "the vascular system；vascular tissue。",
+    "contrast": "vascular 不只等于 heart 心脏；cardiovascular 才把心脏与血管一起纳入名称。",
+    "examples": [
+      [
+        "The lesson compares vascular tissue in different plants.",
+        "课程对比不同植物的维管组织。"
+      ],
+      [
+        "The diagram shows the main vascular structures in the arm.",
+        "图示标出了手臂主要的血管结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vascular#English",
+      "https://my.clevelandclinic.org/departments/heart/patient-education/dictionary"
+    ]
+  },
+  {
+    "word": "sewer",
+    "ipa": "排水管义英 /ˈsuːə/、美 /ˈsuːər/；缝纫者义英 /ˈsəʊə/、美 /ˈsoʊər/",
+    "meaning": "下水道、排污管；〔另一来源〕缝纫者",
+    "sense": "街道下面把废水排走的管道是 sewer，开头读 /suː/。a sewer of clothes 是缝衣的人，接 sew 缝，开头读 /səʊ/ 或 /soʊ/，同拼写却读音、来源都不同。",
+    "split": "排水义借盎格鲁法语、古北法语 sewere、sewiere 等，上接拉丁语 ex 出、水相关材料，先有水道，再常指地下排污渠道。缝纫者义则是 sew + -er。",
+    "history": [
+      [
+        "拉丁水相关材料 → 法语 sewiere、sewere → 中古英语 sewer",
+        "排水通道，后来常指地下排污渠道"
+      ],
+      [
+        "sewage、sewerage",
+        "前者常说污水，后者常说输送污水的管网系统"
+      ]
+    ],
+    "explanation": "a sewer pipe 排污管；the sewer system 排污系统；a blocked sewer 堵塞的下水道。",
+    "usage": "a sewer pipe；the sewer system。",
+    "contrast": "排水 sewer /suː/ 不按 sew 缝 /səʊ/ 读；同形词的 -er 不能决定历史。",
+    "examples": [
+      [
+        "The workers inspected the damaged sewer pipe.",
+        "工人检查了受损的排污管。"
+      ],
+      [
+        "The street was connected to the main sewer.",
+        "这条街接入了主下水道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sewer#English",
+      "https://www.etymonline.com/word/sewer"
+    ]
+  },
+  {
+    "word": "sewage",
+    "ipa": "/ˈsuːɪdʒ/",
+    "meaning": "污水、生活污水",
+    "sense": "sewer 是通道，sewage 是通道里要被排走、处理的污水。把管子和管中东西分开，词义就清楚了。",
+    "split": "由 sewer 的排水词族形成，常分析为 sewer 的缩合词干或 sew 排水 + -age。现代主要命名含废物的污水，通常不可数。",
+    "history": [
+      [
+        "拉丁水相关材料 → 法语 sewiere、sewere → 中古英语 sewer",
+        "排水通道，后来常指地下排污渠道"
+      ],
+      [
+        "排水相关 sew／sewer + -age → sewage",
+        "需要输送、处理的污水"
+      ]
+    ],
+    "explanation": "sewage treatment 污水处理；raw sewage 未经处理的污水；a sewage treatment plant 污水处理厂。",
+    "usage": "sewage treatment；raw sewage。",
+    "contrast": "sewage 是污水，sewerage 常是管网系统；wastewater 废水范围更广，具体统计边界依文本。",
+    "examples": [
+      [
+        "The plant treats sewage from the town.",
+        "这座处理厂处理镇上的污水。"
+      ],
+      [
+        "The report describes how sewage enters the treatment system.",
+        "报告描述污水怎样进入处理系统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sewage#English"
+    ]
+  },
+  {
+    "word": "sewerage",
+    "ipa": "英 /ˈsuːərɪdʒ/；美 /ˈsuːərɪdʒ/",
+    "meaning": "排污管网、下水道系统；排污设施",
+    "sense": "污水要流走，得有连起来的管道、渠道和相关设施。这套基础设施就是 sewerage 的常用重点，和正在流动的 sewage 污水分开。",
+    "split": "sewer + -age → sewerage，保留 sewer 的 r。-age 在这里形成相关系统、集合或设施名称，不能只凭与 sewage 相似就当拼写变体。",
+    "history": [
+      [
+        "拉丁水相关材料 → 法语 sewiere、sewere → 中古英语 sewer",
+        "排水通道，后来常指地下排污渠道"
+      ],
+      [
+        "sewer + -age → sewerage",
+        "排污管道及相关系统、设施"
+      ]
+    ],
+    "explanation": "the sewerage system 排污系统；sewerage infrastructure 排污基础设施；sewerage services 排污服务。",
+    "usage": "the sewerage system；sewerage infrastructure。",
+    "contrast": "sewage 常指流体内容，sewerage 常指输送设施；个别地区用法可有重叠，但学习先抓常用区别。",
+    "examples": [
+      [
+        "The village needs a better sewerage system.",
+        "村里需要更完善的排污系统。"
+      ],
+      [
+        "The council invested in sewerage infrastructure.",
+        "市政部门投资建设排污基础设施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sewerage#English"
+    ]
+  },
+  {
+    "word": "breeze",
+    "ipa": "/briːz/",
+    "meaning": "微风；轻松的事；轻快地行进、轻松完成",
+    "sense": "风轻轻吹过，是 breeze；考试顺顺当当做完，说 It was a breeze，像没有遇到阻力。breeze through 就是轻松过关。",
+    "split": "承较早的 brise、brize、brees 等风名，最远来源涉及日耳曼、罗曼语言等不同解释。由轻风扩展到轻松、轻快的事与动作。",
+    "history": [
+      [
+        "英语较早 brise、brize、brees 等 → breeze",
+        "风的名称，最远来源有不同语言解释"
+      ],
+      [
+        "轻风、轻快感 → 轻松事；breeze + -y → breezy",
+        "轻松完成、随意进出；有风、轻快的"
+      ]
+    ],
+    "explanation": "a cool breeze 凉风；a gentle breeze 微风；breeze through an exam 轻松通过考试；breeze in 轻快随意地走进。",
+    "usage": "a cool breeze；a breeze；breeze through。",
+    "contrast": "It’s a breeze 不是说事情真的会吹风；另有煤渣的 breeze 及虫名等同形支，来源另辨。",
+    "examples": [
+      [
+        "A cool breeze came through the open window.",
+        "凉风从开着的窗户吹进来。"
+      ],
+      [
+        "With clear instructions, the task was a breeze.",
+        "说明清楚，任务做起来很轻松。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breeze#English"
+    ]
+  },
+  {
+    "word": "breezy",
+    "ipa": "/ˈbriːzi/",
+    "meaning": "有风的；轻快、爽朗的；随意轻松的",
+    "sense": "天气 breezy 是风在吹；人说话 breezy 则像轻风一样爽利、轻松。好时显得明快，谈严肃问题却也可能显得过于随便。",
+    "split": "breeze 去末尾 e + -y → breezy。由有风的天气扩展到轻快、随意的举止、风格。",
+    "history": [
+      [
+        "英语较早 brise、brize、brees 等 → breeze",
+        "风的名称，最远来源有不同语言解释"
+      ],
+      [
+        "breeze + -y → breezy",
+        "有风的 → 爽朗、轻松随意的"
+      ]
+    ],
+    "explanation": "a breezy day 有风的一天；a breezy manner 爽朗随意的举止；a breezy style 轻快文风。",
+    "usage": "a breezy day；a breezy manner。",
+    "contrast": "breezy manner 可褒可贬；轻松随意不自动等于没礼貌或不认真，判断看场景。",
+    "examples": [
+      [
+        "It was bright but breezy on the coast.",
+        "海边阳光明亮，但风不小。"
+      ],
+      [
+        "She greeted us in her usual breezy manner.",
+        "她像平常一样爽朗地招呼我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breezy#English"
+    ]
+  },
+  {
+    "word": "coprocessor",
+    "ipa": "英 /ˌkəʊˈprəʊsesə/；美 /ˌkoʊˈprɑːsesər/",
+    "meaning": "协处理器",
+    "sense": "主处理器负责总体工作，某些专门计算交给旁边能协同完成的处理部件，是 coprocessor 的角色画面。co- 点明一起分工，不要求它一定装在另一块独立电路板上。",
+    "split": "co- 共同、协同 + processor 处理器。计算机按辅助主处理器的任务关系命名，常用于浮点计算、图形等专门处理角色。",
+    "history": [
+      [
+        "process 处理 → processor 处理器、处理者",
+        "执行相应处理任务"
+      ],
+      [
+        "co- 一起、协同 + processor → coprocessor",
+        "协助主处理器承担特定任务的处理器"
+      ]
+    ],
+    "explanation": "a maths coprocessor 数学协处理器；a graphics coprocessor 图形协处理器；a dedicated coprocessor 专用协处理器。",
+    "usage": "a maths coprocessor；a dedicated coprocessor。",
+    "contrast": "coprocessor 说协助关系，multiprocessor 说多处理器配置；不靠同一个中文“多”来混同。",
+    "examples": [
+      [
+        "The system used a coprocessor for specialised calculations.",
+        "系统使用协处理器完成专门计算。"
+      ],
+      [
+        "The diagram shows how the main processor communicates with the coprocessor.",
+        "图示展示主处理器怎样与协处理器通信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coprocessor#English"
+    ]
+  },
+  {
+    "word": "fist",
+    "ipa": "/fɪst/",
+    "meaning": "拳头；握拳",
+    "sense": "把手指蜷进掌心，拇指收住，手就变成 fist。拳头可以表示愤怒、决心、抗议，但动作本身并不总在打人。",
+    "split": "承古英语 fyst，经中古英语 fist 延续，是日耳曼旧名称；更远来源有讨论。现代基本义是握紧的手，复合词沿数量、动作展开。",
+    "history": [
+      [
+        "古英语 fyst → 中古英语 fist → fist",
+        "手指向掌心蜷起形成拳"
+      ],
+      [
+        "fist + -ful；fist + fight",
+        "拳头握住的一把；用拳头打架"
+      ]
+    ],
+    "explanation": "clench your fist 握紧拳头；raise a fist 举拳；an iron fist 铁腕，是强硬控制的比喻。",
+    "usage": "clench a fist；raise a fist；an iron fist。",
+    "contrast": "fist 是蜷紧的手，palm 是掌心，knuckle 是指关节，身体部位观察不同。",
+    "examples": [
+      [
+        "She clenched her fists in frustration.",
+        "她懊恼地握紧拳头。"
+      ],
+      [
+        "He raised a fist in celebration.",
+        "他举起拳头庆祝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fist#English"
+    ]
+  },
+  {
+    "word": "fistful",
+    "ipa": "/ˈfɪstfʊl/",
+    "meaning": "一把、一拳握住的量；少量",
+    "sense": "手合起来能攥住多少，就是 a fistful。它是凭手来估计的一小把，不是固定毫升或固定克数。",
+    "split": "fist + -ful → fistful。这里 -ful 形成容量、数量名词，像 handful、spoonful；不是形容词后缀“充满某性质”。",
+    "history": [
+      [
+        "古英语 fyst → 中古英语 fist → fist",
+        "手指向掌心蜷起形成拳"
+      ],
+      [
+        "fist + 数量 -ful → fistful",
+        "一拳可握的量；泛说少量"
+      ]
+    ],
+    "explanation": "a fistful of coins 一把硬币；a fistful of sand 一把沙。复数常用 fistfuls。",
+    "usage": "a fistful of；two fistfuls of。",
+    "contrast": "fistful 是估量，实际量随手、材料改变；-ful 只写一个 l。",
+    "examples": [
+      [
+        "He pulled a fistful of coins from his pocket.",
+        "他从口袋里掏出一把硬币。"
+      ],
+      [
+        "The child squeezed a fistful of wet sand.",
+        "孩子攥着一把湿沙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fistful#English"
+    ]
+  }
+]

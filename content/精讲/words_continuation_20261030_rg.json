@@ -1,0 +1,530 @@
+[
+  {
+    "word": "seamstress",
+    "ipa": "/ˈsiːmstrəs/，亦见 /ˈsiːmstrɪs/、/ˈsemstrɪs/ 等",
+    "meaning": "女裁缝；以缝纫为业的女性",
+    "sense": "用针线改衣服、缝衣服，缝线 seam 把两片布接住；seamstress 是传统上专指女性从业者的名称。",
+    "split": "seamster + -ess，seamster 又接 seam + -ster。-ster 早期本有女性人物材料，但后来不再总被理解为女性，于是又加 -ess；不能把 stress 压力当这个词的后半部。",
+    "history": [
+      [
+        "seam + -ster → seamster 的旧职业词",
+        "做缝纫的人"
+      ],
+      [
+        "seamster + -ess → seamstress",
+        "明确女性的缝纫职业名称"
+      ]
+    ],
+    "explanation": "a skilled seamstress 手艺熟练的女裁缝；work as a seamstress 做缝纫工作。具体做改衣、定制还是生产，要看工作场景。",
+    "usage": "a professional seamstress；an experienced seamstress。",
+    "contrast": "tailor 现在可不限定性别；seamstress 词义中通常明确女性。seamstress 不等于给人带来 stress 压力的人。",
+    "examples": [
+      [
+        "The seamstress altered the jacket so it fitted properly.",
+        "女裁缝修改了夹克，让它穿起来合身。"
+      ],
+      [
+        "Her grandmother worked as a seamstress for many years.",
+        "她祖母做了多年缝纫工作。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/seamstress"
+    ]
+  },
+  {
+    "word": "stewardess",
+    "ipa": "英 /ˌstjuːəˈdes/；美 /ˈstuːərdəs/ 等读法",
+    "meaning": "女乘务员；〔旧称〕空姐、女服务人员",
+    "sense": "旧书、旧电影里常用来称飞机上的女性乘务员；现代不限定性别的常见称呼是 flight attendant、cabin crew。",
+    "split": "steward + -ess，职业名再加女性词尾。steward 更早是管理家务、庄园等事务的人，后来扩展到船上及交通服务，不能从 stew 炖菜猜这个职业。",
+    "history": [
+      [
+        "steward",
+        "管理事务者；后来也指乘务、服务人员"
+      ],
+      [
+        "steward + -ess → stewardess",
+        "女性乘务、服务人员"
+      ]
+    ],
+    "explanation": "a ship’s stewardess 船上女乘务员；an airline stewardess 航空女乘务员，后者带较明显时代色彩。阅读旧文时理解原称呼即可。",
+    "usage": "an airline stewardess；a ship’s stewardess。",
+    "contrast": "stewardess 指女性，flight attendant 不限定性别，也更符合现代常见职业表达；不能把现代所有 cabin crew 都翻成空姐。",
+    "examples": [
+      [
+        "In the old film, a stewardess greeted the passengers.",
+        "旧电影里，一位女乘务员迎接乘客。"
+      ],
+      [
+        "The memoir describes her years working as a ship’s stewardess.",
+        "回忆录写了她在船上做女乘务员的那些年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stewardess#English"
+    ]
+  },
+  {
+    "word": "temptress",
+    "ipa": "/ˈtemptrəs/，亦见 /ˈtemptres/",
+    "meaning": "诱惑人的女人〔常见于文学、带评价〕",
+    "sense": "故事把某个女性写成让别人偏离原来选择、屈从欲望的人，会用 temptress；这是叙述者给她的角色和评价。",
+    "split": "tempter 诱惑者 + -ess，词尾组合压缩成 -tress。远接 tempt 试探、引诱词族，不是 actress 女演员前加 tem-。",
+    "history": [
+      [
+        "tempt → tempter",
+        "诱惑 → 诱惑者"
+      ],
+      [
+        "tempter + -ess → temptress",
+        "女性诱惑者的固定名称"
+      ]
+    ],
+    "explanation": "a mysterious temptress 神秘的诱惑女性角色；常见于神话、小说、影评。词里有诱使别人动摇的评价，不是所有有魅力女性的中性称呼。",
+    "usage": "a seductive temptress；portrayed as a temptress。",
+    "contrast": "temptress 强调诱惑角色；actress 说表演职业。两者末尾相似，不意味着演员天然就是诱惑者。",
+    "examples": [
+      [
+        "The legend portrays her as a temptress who tests the hero’s resolve.",
+        "传说把她写成考验英雄意志的诱惑者。"
+      ],
+      [
+        "The critic questioned the novel’s use of the temptress stereotype.",
+        "评论者质疑小说使用了诱惑女性的刻板角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/temptress#English"
+    ]
+  },
+  {
+    "word": "songstress",
+    "ipa": "英 /ˈsɒŋstrəs/；美 /ˈsɔːŋstrəs/、/ˈsɑːŋstrəs/",
+    "meaning": "女歌手〔较文学、宣传性称呼〕",
+    "sense": "报刊写一位女歌手时，用 songstress 会比 singer 多一点旧式、赞美或舞台包装的味道。",
+    "split": "songster 唱歌的人 + -ess，词形压缩为 songstress；songster 含 song 与 -ster 人物材料。不是 song + stress 强调歌曲压力。",
+    "history": [
+      [
+        "song + -ster → songster",
+        "唱歌的人"
+      ],
+      [
+        "songster + -ess → songstress",
+        "女性歌唱者名称"
+      ]
+    ],
+    "explanation": "a celebrated songstress 著名女歌手；a jazz songstress 爵士女歌手。singer 是通常更中性的基本职业名。",
+    "usage": "a local songstress；a celebrated songstress。",
+    "contrast": "songstress 不意味着一定自己作曲；singer、songwriter、singer-songwriter 分别强调演唱、写歌或两者兼有，不能全按中文歌手混用。",
+    "examples": [
+      [
+        "The festival featured a celebrated jazz songstress.",
+        "音乐节邀请了一位著名爵士女歌手。"
+      ],
+      [
+        "The article called her the city’s favourite songstress.",
+        "文章称她为这座城市最受欢迎的女歌手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/songstress#English"
+    ]
+  },
+  {
+    "word": "shepherdess",
+    "ipa": "英 /ˌʃepəˈdes/；美 /ˈʃepərdəs/ 等读法",
+    "meaning": "牧羊女；女牧羊人",
+    "sense": "草地上看护羊群的女性，在田园诗、绘画、童话里常被称为 shepherdess。",
+    "split": "shepherd + -ess，中古英语已有相应女性人物形式。shepherd 原有 sheep 羊 + herd 看护者的组合历史，不是 she 她 + pherdess。",
+    "history": [
+      [
+        "sheep + herd 的旧组合 → shepherd",
+        "羊群看护者"
+      ],
+      [
+        "shepherd + -ess → shepherdess",
+        "女性牧羊人"
+      ]
+    ],
+    "explanation": "a young shepherdess 年轻牧羊女；a painting of a shepherdess 牧羊女题材画作。现代 shepherd 也可按语境说任何性别的牧羊人。",
+    "usage": "a shepherdess tending sheep；a pastoral shepherdess。",
+    "contrast": "shepherdess 指照看羊群的人；sheep 母羊通常说 ewe，不能把女性人物词尾用于区分羊的性别。",
+    "examples": [
+      [
+        "The painting shows a shepherdess beside her flock.",
+        "画中是一位站在羊群旁的牧羊女。"
+      ],
+      [
+        "The story begins with a shepherdess searching for a lost lamb.",
+        "故事开始时，一位牧羊女正在找走失的小羊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shepherdess#English"
+    ]
+  },
+  {
+    "word": "seductress",
+    "ipa": "/sɪˈdʌktrəs/，亦见 /sɪˈdʌktres/",
+    "meaning": "引诱人的女人；魅惑女性角色〔常含评价〕",
+    "sense": "故事里的女性角色用魅力引人动摇、使人着迷，叙述者可能叫她 seductress；这个称呼带角色判断。",
+    "split": "历史对应 seductor 引诱者 + -ess，接 seduce 的拉丁 seduct- 词干，含 se- 离开与 duc- 引导。不能把 modern seduce 的全部字母保留再写 seduceess。",
+    "history": [
+      [
+        "拉丁 seducere／seduct- 人物词族",
+        "引离、引诱及相应人物名称"
+      ],
+      [
+        "seductor + -ess → seductress",
+        "女性引诱者、魅惑角色"
+      ]
+    ],
+    "explanation": "a mysterious seductress 神秘的魅惑女性；常见于小说、影评，带文学或刻板人物色彩。并非所有令人喜欢的人都叫 seductress。",
+    "usage": "portrayed as a seductress；a fictional seductress。",
+    "contrast": "seductress 与 temptress 有重合，前者常更突出魅力诱引；两个都是带评价的人物称呼，不是通用中性职业名。",
+    "examples": [
+      [
+        "The film presents her as a clever seductress rather than a passive character.",
+        "影片把她写成聪明的魅惑者，而非被动角色。"
+      ],
+      [
+        "The essay examines the seductress figure in old legends.",
+        "文章研究旧传说里的魅惑女性形象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seductress#English"
+    ]
+  },
+  {
+    "word": "giant",
+    "ipa": "/ˈdʒaɪənt/",
+    "meaning": "巨人；巨大的；行业巨头、杰出人物",
+    "sense": "童话里大得远超常人的角色，是 a giant；把这个体量转到公司、成就上，就有行业巨头、学界巨人的说法。",
+    "split": "经古法语 geant 接拉丁 gigas、gigant-，再接希腊 gigas 巨人。不是 giant 比 giantess 短，就说明它与 ant 蚂蚁相反拼造。",
+    "history": [
+      [
+        "希腊 gigas／gigant- → 拉丁、古法语相应词",
+        "神话巨人名称"
+      ],
+      [
+        "英语 giant",
+        "巨人；巨大事物、顶尖人物；巨大的"
+      ]
+    ],
+    "explanation": "a giant tree 一棵巨大的树；a technology giant 科技巨头；a giant of literature 文坛巨匠。名词和修饰语都常见。",
+    "usage": "a giant leap；an industry giant。",
+    "contrast": "giant 不只形容身高；giga- 科学前缀与同一古典巨人材料有关，但 billion 的具体数值不能据此赋给每个 giant。",
+    "examples": [
+      [
+        "A giant tree stood in the middle of the garden.",
+        "花园中央长着一棵巨大的树。"
+      ],
+      [
+        "The small firm competes with several industry giants.",
+        "这家小公司与几家行业巨头竞争。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/giant#English"
+    ]
+  },
+  {
+    "word": "giantess",
+    "ipa": "/ˌdʒaɪənˈtes/，亦见 /ˈdʒaɪəntəs/ 等读法",
+    "meaning": "女巨人〔神话、幻想故事〕",
+    "sense": "童话里的巨人明确写成女性，可以叫 giantess；词义落在故事角色，不是现实女性身高的常见中性称呼。",
+    "split": "giant + -ess，中古英语已有相应女性巨人名称，也与法语对应形式有关。-ess 标明女性，不表示更小一号的巨人。",
+    "history": [
+      [
+        "giant／法语相应词 + 女性材料",
+        "巨人的女性对应名称"
+      ],
+      [
+        "giantess",
+        "神话、幻想中的女巨人"
+      ]
+    ],
+    "explanation": "a giantess in a fairy tale 童话里的女巨人；the giantess’s castle 女巨人的城堡。giant 也可按现代语境不分性别，具体看作者。",
+    "usage": "a friendly giantess；a mythical giantess。",
+    "contrast": "giantess 不是 giant 的复数；复数 giants 可以包括多个巨人，giantesses 则明确多个女巨人。",
+    "examples": [
+      [
+        "The fairy tale features a kind giantess who protects the village.",
+        "童话里有一位保护村庄的善良女巨人。"
+      ],
+      [
+        "The giantess lived in a castle above the clouds.",
+        "女巨人住在云层上方的城堡里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/giantess#English"
+    ]
+  },
+  {
+    "word": "retaliatory",
+    "ipa": "英 /rɪˈtæliətri/；美 /rɪˈtæliətɔːri/",
+    "meaning": "报复性的；反击性的",
+    "sense": "不是先做一次行动，而是因为对方先动手、先伤害自己，回过头还击；这个回击性质就是 retaliatory。",
+    "split": "retaliate 的词干 + -ory，远接拉丁相应回报、报复材料。re- 在这条历史里有回返关系，但具体词义不是随便把任何动作再做一次。",
+    "history": [
+      [
+        "retaliate",
+        "针对前面行为作出还击"
+      ],
+      [
+        "retaliat- + -ory → retaliatory",
+        "报复、还击性质的"
+      ]
+    ],
+    "explanation": "retaliatory action 报复行动；a retaliatory measure 反击措施。常见于冲突、政策等叙述，语义包含对前事的反应，不替代正当与否的具体判断。",
+    "usage": "a retaliatory move；retaliatory action。",
+    "contrast": "retaliatory 是回击性质，preventive 预防性的把重点放在事前防止；任何发生较晚的行动也不一定就是 retaliatory。",
+    "examples": [
+      [
+        "Both sides wanted to avoid a cycle of retaliatory actions.",
+        "双方都想避免陷入相互报复的循环。"
+      ],
+      [
+        "The manager denied that the schedule change was retaliatory.",
+        "经理否认调整排班是出于报复。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/retaliatory"
+    ]
+  },
+  {
+    "word": "exposition",
+    "ipa": "英 /ˌekspəˈzɪʃən/；美 /ˌekspəˈzɪʃən/",
+    "meaning": "阐述、讲解；〔故事〕背景交代；博览会",
+    "sense": "把原先叠着、藏着的信息一层层铺开，让别人看明白；一场博览会则把作品、产品摆出来供公众看。",
+    "split": "经法语 exposition 接拉丁 expositio，来自 exponere 放出来、陈列的 exposit- 词干：ex- 向外 + ponere 放。和 expound、expose 有共同历史材料，不是 exit 出口加 position。",
+    "history": [
+      [
+        "拉丁 exponere → expositio → 法语 exposition",
+        "放出来、陈列 → 说明、展示"
+      ],
+      [
+        "英语 exposition",
+        "阐述；背景交代；大型展示活动"
+      ]
+    ],
+    "explanation": "a clear exposition of the theory 清楚阐述理论；opening exposition 故事开头的背景交代；a world exposition 世界博览会。看是在讲信息还是实际展览活动。",
+    "usage": "an exposition of；a trade exposition。",
+    "contrast": "exhibition 常说展览，exposition 还常说详细讲解、叙事交代；exposure 暴露、接触等名词和它同族，但现代用法不能互换。",
+    "examples": [
+      [
+        "The book offers a clear exposition of the main ideas.",
+        "这本书清楚阐述了主要观点。"
+      ],
+      [
+        "The film handles the necessary exposition through a short conversation.",
+        "影片通过一段简短对话交代了必要背景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exposition#English"
+    ]
+  },
+  {
+    "word": "expository",
+    "ipa": "英 /ɪkˈspɒzɪtəri/；美 /ɪkˈspɑːzətɔːri/",
+    "meaning": "说明性的；阐释性的",
+    "sense": "写作目标是把一个概念讲明白，按步骤、定义、原因铺开，常叫 expository writing。",
+    "split": "接中世纪拉丁 expositorius，来自拉丁 exponere 陈述、摆出的 exposit- 词干；与 exposition 词族对应 -ory 形容词材料。不是英语 expose 原封不动加 story。",
+    "history": [
+      [
+        "拉丁 exponere／exposit- → expositorius",
+        "摆出、陈述 → 说明性的"
+      ],
+      [
+        "英语 expository",
+        "以说明、解释为目的的"
+      ]
+    ],
+    "explanation": "an expository essay 说明性文章；expository passages 解释背景、知识的段落。也可用于宗教、学术讲解，重点是展开说明。",
+    "usage": "expository writing；an expository essay。",
+    "contrast": "expository 常强调解释清楚，persuasive 强调说服读者接受主张，narrative 强调叙述事件；一篇文章可以混用多种方式。",
+    "examples": [
+      [
+        "The students wrote expository essays about local history.",
+        "学生们写了介绍地方历史的说明文。"
+      ],
+      [
+        "An expository paragraph explains how the process works.",
+        "一个说明性段落解释了这个过程如何运作。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/expository"
+    ]
+  },
+  {
+    "word": "revelatory",
+    "ipa": "英 /ˌrevəˈleɪtəri/；美 /ˈrevələtɔːri/ 等读法",
+    "meaning": "揭示性的；使人获得新认识的",
+    "sense": "读完访谈，原来不明白的背景突然亮了：啊，原来是这样。这样的内容可叫 revelatory。",
+    "split": "借拉丁 revelatorius 一类形容词，接揭开、显露的 reveal／revelation 词族历史，可见 revelat- + -ory。这里不属于 revel 狂欢的来源。",
+    "history": [
+      [
+        "拉丁揭示词族与 revelatorius",
+        "揭开、使人看见真相或内容"
+      ],
+      [
+        "英语 revelatory",
+        "让人知道此前不明白的东西"
+      ]
+    ],
+    "explanation": "a revelatory interview 让人获得新认识的访谈；a revelatory insight 有启发、揭示作用的洞见。可以来自重要新事实，也可只是让读者换个角度看清。",
+    "usage": "a revelatory account；a revelatory insight。",
+    "contrast": "revelatory 强调揭示、带来认识，revolutionary 革命性的强调巨大改变；两者都可能让人惊讶，但不是一回事。",
+    "examples": [
+      [
+        "The interview was revelatory about her early career.",
+        "这次访谈让人对她的早期职业经历有了新的了解。"
+      ],
+      [
+        "The comparison provided a revelatory insight into the two designs.",
+        "这番比较让人看清了两种设计中此前没注意到的差别。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/revelatory"
+    ]
+  },
+  {
+    "word": "hallucinatory",
+    "ipa": "英 /həˈluːsɪnətəri/；美 /həˈluːsɪnətɔːri/",
+    "meaning": "幻觉般的；与幻觉有关或引发幻觉的",
+    "sense": "灯光、声音、画面像失去现实边界，影评会说 hallucinatory atmosphere；也可在专业文字里描述与幻觉有关的东西。",
+    "split": "hallucinate 的词干 + -ory，与拉丁 hallucinari 等心神游移、产生错觉的历史材料相关。后缀把它变成性质、作用的形容词。",
+    "history": [
+      [
+        "hallucinate 的历史词族",
+        "心神游移、产生幻觉等"
+      ],
+      [
+        "hallucinat- + -ory → hallucinatory",
+        "幻觉相关、幻觉般或有相应作用的"
+      ]
+    ],
+    "explanation": "a hallucinatory scene 幻觉般的场景；hallucinatory imagery 幻觉式意象。艺术评论里的比喻不等于声称作者或观众发生了具体症状。",
+    "usage": "a hallucinatory atmosphere；hallucinatory imagery。",
+    "contrast": "hallucinatory 幻觉般的，imaginary 想象中的，illusory 虚幻、不真实的，侧重点各异；实际发生的表演也可以营造 hallucinatory 效果。",
+    "examples": [
+      [
+        "The film creates a hallucinatory atmosphere with shifting colours.",
+        "影片用不断变化的色彩营造了幻觉般的氛围。"
+      ],
+      [
+        "The novel’s final pages are filled with hallucinatory images.",
+        "小说最后几页充满了幻觉般的意象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hallucinatory#English"
+    ]
+  },
+  {
+    "word": "vibratory",
+    "ipa": "英 /ˈvaɪbrətəri/；美 /ˈvaɪbrətɔːri/",
+    "meaning": "振动的；能引起或依靠振动的",
+    "sense": "不是一直朝一个方向走，而是快速来回、上下摆动；用这种运动工作的机器或反馈方式，可叫 vibratory。",
+    "split": "vibrate 的词干 + -ory，远接拉丁 vibrare 摆动、抖动的材料。与 vibration 振动名词对应，但不是把 vibrator 任何意思都套到所有场景。",
+    "history": [
+      [
+        "vibrate／拉丁振动词族",
+        "来回摆动、抖动"
+      ],
+      [
+        "vibrat- + -ory → vibratory",
+        "发生、造成或依靠振动的"
+      ]
+    ],
+    "explanation": "vibratory motion 振动运动；vibratory feedback 振动反馈；vibratory equipment 振动设备。看修饰的对象是在振动还是用振动产生作用。",
+    "usage": "vibratory motion；vibratory feedback。",
+    "contrast": "vibrant 常说充满活力、色彩鲜明；vibratory 更具体地说振动性质。一个 vibrant city 不等于地面一直振动的城市。",
+    "examples": [
+      [
+        "The controller provides vibratory feedback during the game.",
+        "游戏过程中，手柄会提供振动反馈。"
+      ],
+      [
+        "The device converts the signal into vibratory motion.",
+        "设备把信号转成振动运动。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/vibratory"
+    ]
+  },
+  {
+    "word": "stimulatory",
+    "ipa": "英 /ˈstɪmjʊlətəri/；美 /ˈstɪmjələtɔːri/",
+    "meaning": "起刺激、促进作用的",
+    "sense": "某个因素像推了一把，让活动、反应或增长更容易起来，可以说有 stimulatory effect。",
+    "split": "stimulate 的词干 + -ory，远接拉丁 stimulus 刺、驱策工具与相关动词材料。这里 -ory 形成作用性质的形容词，不是一个存放刺激物的房间。",
+    "history": [
+      [
+        "stimulate／拉丁 stimulus 词族",
+        "促动、刺激、推动反应"
+      ],
+      [
+        "stimulat- + -ory → stimulatory",
+        "起刺激、促进作用的"
+      ]
+    ],
+    "explanation": "a stimulatory effect 促进作用；a stimulatory response 相应促动反应，常见于研究、政策等正式文字。实际促进哪一项、多少，需要上下文交代。",
+    "usage": "a stimulatory effect on；stimulatory signals。",
+    "contrast": "stimulating 可形容让人觉得有趣、动脑的经历；stimulatory 更常是正式说明某因素具有促进、刺激作用，两者不在所有场合互换。",
+    "examples": [
+      [
+        "The report discusses the policy’s stimulatory effect on demand.",
+        "报告讨论了政策对需求的促进作用。"
+      ],
+      [
+        "The experiment compared stimulatory and inhibitory signals.",
+        "实验比较了促进性信号与抑制性信号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stimulatory#English"
+    ]
+  },
+  {
+    "word": "thespian",
+    "ipa": "/ˈθespiən/",
+    "meaning": "演员〔较文学或诙谐〕；戏剧表演的",
+    "sense": "日常 actor 就能说演员；thespian 常让人想到舞台、戏剧圈，语气更书面，有时带亲切的戏称。",
+    "split": "以古希腊戏剧人物 Thespis 的名字 + -ian 形成；他的生平与戏剧起源传统带有传说成分。先有戏剧表演相关形容词，再转为演员名词。",
+    "history": [
+      [
+        "Thespis 人名 + -ian",
+        "与古希腊戏剧人物相关的命名"
+      ],
+      [
+        "thespian 由形容词转人物名",
+        "戏剧表演的；演员"
+      ]
+    ],
+    "explanation": "a veteran thespian 资深演员；thespian talents 表演才能。它不一定只用于古希腊演员，也不表示某个人属于一个叫 Thespia 的现代职业工会。",
+    "usage": "a distinguished thespian；thespian talent。",
+    "contrast": "actor 中性、通用；thespian 常有舞台文学色彩或诙谐感。人名来源不保证所有演员都知道或信奉同一套历史传统。",
+    "examples": [
+      [
+        "The theatre invited a veteran thespian to speak to the students.",
+        "剧院邀请了一位资深演员给学生们讲话。"
+      ],
+      [
+        "Her thespian talents first appeared in school plays.",
+        "她的表演才能最早在学校话剧中显露。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/thespian"
+    ]
+  }
+]

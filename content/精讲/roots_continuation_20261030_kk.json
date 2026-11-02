@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B2916",
+    "meaning": "雷声与轰鸣、力量的比喻，再到突发震撼",
+    "core": "THUNDER：先听雷声，再借它的响亮和冲击力",
+    "image": "thunder → thunderous、thundering；thunderbolt、thunderclap、thunderstruck 分别看一击、爆响、惊呆。",
+    "intro": "声音、雷电、人的情绪不能全叫同一件事。雷的共同形象，把这些固定用法串起来，却不取消各词的分工。",
+    "forms": "þunor → thunder；-ous 性质，-ing 分词；bolt 一击，clap 爆响，struck 被击中。\n\nastonish 经法语 estoner，接重建 *extonare 与拉丁 tonare 打雷；stun 大概从相关中古英语形式缩短。英语 thunder 与拉丁 tonare 是更远的同源材料，不是把现代 thunder 换字母生成 astonish。",
+    "branches": [
+      [
+        "基础与响亮性质",
+        "thunder · thunderous · thundering"
+      ],
+      [
+        "雷电、爆响与震撼",
+        "thunderbolt · thunderclap · thunderstruck"
+      ],
+      [
+        "其他复合名称",
+        "thunderstorm · thunderbird"
+      ],
+      [
+        "astonish、stun：雷击般震住的历史材料",
+        "thunder · astonish · astonishes · astonished · astonishing · astonishingly · stun · stuns · stunned · stunning · stunningly"
+      ]
+    ],
+    "contrasts": "thunder 是声音，lightning 是闪电；thunderstruck 通常说惊呆；thunderous applause 是比喻。",
+    "practice": "A thunderclap interrupted the speech, but the audience soon answered with thunderous applause.\n\n一声霹雳打断了演讲，但观众很快以雷鸣般的掌声回应。",
+    "words": [
+      "thunder",
+      "thunderous",
+      "thundering",
+      "thunderbolt",
+      "thunderclap",
+      "thunderstruck",
+      "thunderstorm",
+      "thunderbird",
+      "astonish",
+      "astonishes",
+      "astonished",
+      "astonishing",
+      "astonishingly",
+      "stun",
+      "stuns",
+      "stunned",
+      "stunning",
+      "stunningly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4003",
+    "meaning": "名气转称有名的人，再截短为口语名称",
+    "core": "CELEBRITY：从被许多人知道，到指那个有名的人",
+    "image": "celebrity → celeb。",
+    "intro": "celebrity 可以数一个人，也能说抽象名气。celebrate 与它有词源联系，但不宜只按现代英语拼装来代替历史。",
+    "forms": "celeber／celēbritās → 法语相关形式 → celebrity；截短 → celeb。\n\n拉丁 celebritas 经法语借入，名气转指有名的人；不是现代 celebrate 简单换后缀。",
+    "branches": [
+      [
+        "名人与口语短形式",
+        "celebrity · celeb"
+      ],
+      [
+        "celebrity → celebrities：有名的人们",
+        "celebrity · celebrities"
+      ]
+    ],
+    "contrasts": "a celebrity 是人，celebrity 可说名气；celeb 语体更口语；知名不保证品德。",
+    "practice": "The local celebrity joked that he had never expected to become a celeb.\n\n那位当地名人开玩笑说，自己从没想过会成名。",
+    "words": [
+      "celebrity",
+      "celeb",
+      "celebrities"
+    ],
+    "exclude": {
+      "e-celebrity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pro-celebrity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3212",
+    "meaning": "按纺丝行为形成的动物名，再借网形成技术比喻",
+    "core": "SPIDER：历史上可理解为纺丝的动物",
+    "image": "spider → spiderweb；计算机 spider 借网页链接之网。",
+    "intro": "历史解释负责说明名称来历，现代分类、动物行为要分别理解；有产丝能力，不代表所有蜘蛛都织同样的捕猎网。",
+    "forms": "spin 相关旧词族 → spīþra 等 → spider；web 网形成 spiderweb。\n\nspider 承古英语 spiðra，远接纺、拉伸词族；历史中 n 脱落、th 与 d 等变化造成现代外形。复数 -s，不能把词尾误作现代 -er 才解释整词。",
+    "branches": [
+      [
+        "动物、网与技术比喻",
+        "spider · spiderweb"
+      ],
+      [
+        "纺丝者的老名称 → spider → spiders",
+        "spiders"
+      ]
+    ],
+    "contrasts": "spider 不属于 insect；名称和 spin 有历史联系，但现代不能直接按规则变词形。",
+    "practice": "The spider waited beside its spiderweb.\n\n蜘蛛待在它结的网旁边。",
+    "words": [
+      "spider",
+      "spiderweb",
+      "spiders"
+    ],
+    "exclude": {
+      "spider-crawl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spiderman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

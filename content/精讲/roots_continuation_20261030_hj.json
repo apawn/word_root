@@ -1,0 +1,126 @@
+[
+  {
+    "id": "B2969",
+    "meaning": "来回摇晃；不稳、器具及有争议的旧词关联",
+    "core": "SHAKE：向一边再向另一边，手、桌子、信心都可能晃",
+    "image": "shake → shaky、shaker；handshake、milkshake 选不同摇动作；shackle 旧扣件词与 shake 关系有讨论。",
+    "intro": "动词、状态、器具放一起。shackle 不拿现代字母强当确定派生，重点仍是它如何从金属束缚走到抽象限制。",
+    "forms": "sċeacan → shake/shook/shaken；shake + -y/-er 去 e；hand/milk + shake；sċacul → shackle 的旧路径另看。\n\nshook 是过去式，shaken 是过去分词；shaken 作状态形容词时还常指受到惊吓、心绪不宁。\n\n本族 shake 去末尾 e 加 ing；shook、shaken 是另外的不规则变化。\n\n古英语 sceacan 继承；饮料名 shake 可缩自 milkshake。\n\nshaky 接 shake 与 -y；木材裂隙等较早材料和抽象不可靠义都很早，学习画面可以从不稳来串联，不把具体、抽象硬排成唯一先后。\n\n否定 un-、shake 与 -able 组成；unshakeable 保留 e，是同词的拼写变体。副词 unshakably 用 -able 到 -ably 的形式变化。",
+    "branches": [
+      [
+        "基本动作、不稳状态和器具",
+        "shake · shaky · shaker"
+      ],
+      [
+        "日常组合",
+        "handshake · milkshake"
+      ],
+      [
+        "旧关联需保留疑问",
+        "shackle"
+      ],
+      [
+        "shake、shook、shaken：摇动与内心震动",
+        "shake · shook · shaken"
+      ],
+      [
+        "shake → shaking：来回晃动与发抖",
+        "shake · shaking"
+      ],
+      [
+        "shake → shakes：摇动、发抖与奶昔短称",
+        "shake · shakes"
+      ],
+      [
+        "shaky：身体、结构、论据都可能缺稳定",
+        "shake · shaky · shakier · shakiest · shakily · shakiness"
+      ],
+      [
+        "unshakable：摇不动，到信念不动摇",
+        "unshakable · unshakeable · unshakably"
+      ]
+    ],
+    "contrasts": "shake/shackle 元音不同；shaky/shaken 性质与受震动状态；shaker 不只指人。",
+    "practice": "His shaky hands reached for the shaker after the news shook him.\n\n消息让他受了震动后，他用发抖的手去拿调味瓶。",
+    "words": [
+      "shake",
+      "shaky",
+      "shaker",
+      "handshake",
+      "milkshake",
+      "shackle",
+      "shook",
+      "shaken",
+      "shaking",
+      "shakes",
+      "shakier",
+      "shakiest",
+      "shakily",
+      "shakiness",
+      "unshakable",
+      "unshakeable",
+      "unshakably"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2774",
+    "meaning": "传信者到宗教天使，再到好心人和甜美外观",
+    "core": "ANGEL：原来是信使，后来传的是神的消息",
+    "image": "angel → angelic；人物比喻可夸好心，外貌声音可说天使般。",
+    "intro": "旧信使义帮助理解宗教角色；翅膀等是常见艺术形象，并不是 angel 这个词本身写明的特征。现代好心人用法也不必谈宗教信仰。",
+    "forms": "angelos → angelus → 古英语、法语相关形式 → angel；angelicus 等 → angelic，现代对应 -ic。\n\n希腊 angelos 信使，经拉丁、古英语及法语等影响传入，不与 angle 角度混同。",
+    "branches": [
+      [
+        "天使人物及天使般性质",
+        "angel · angelic"
+      ],
+      [
+        "angel → angels：信使、天使与亲切称呼",
+        "angel · angels"
+      ]
+    ],
+    "contrasts": "angel/angle 读音和含义不同；angelic 重音、元音变化；甜美外表不等于性格证据。",
+    "practice": "The angel in the painting has an angelic smile.\n\n画上的天使带着天使般甜美的微笑。",
+    "words": [
+      "angel",
+      "angelic",
+      "angels"
+    ],
+    "exclude": {
+      "half-angel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "angel-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3507",
+    "meaning": "纤维细线，到连续脉络、螺旋纹和信息串",
+    "core": "THREAD：细长、连续，能穿过也能串起",
+    "image": "thread → threaded；threadbare 织物磨薄后露线，再到陈旧说法。",
+    "intro": "物理线、螺纹、故事线和消息串各取连续或盘绕特点。程序线程是另一技术命名，不拿所有 threaded 都当计算机并行。",
+    "forms": "þrǣd → thread；thread + -ed；thread + bare。\n\n古英语继承；连续的线成为理解各类引申义的画面。",
+    "branches": [
+      [
+        "基本线及对应状态",
+        "thread · threaded"
+      ],
+      [
+        "磨旧露线的比喻",
+        "threadbare"
+      ],
+      [
+        "thread → threads：纺线到讨论串、螺纹",
+        "thread · threads"
+      ]
+    ],
+    "contrasts": "thread/threat 线与威胁；threaded rod/discussion 螺纹杆与串式讨论；threadbare 也能说陈词滥调。",
+    "practice": "The threaded discussion helped us follow the thread without repeating threadbare arguments.\n\n串式讨论帮助我们跟住思路，避免重复陈旧论调。",
+    "words": [
+      "thread",
+      "threaded",
+      "threadbare",
+      "threads"
+    ],
+    "exclude": {}
+  }
+]

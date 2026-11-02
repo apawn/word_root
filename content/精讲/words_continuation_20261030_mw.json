@@ -1,0 +1,646 @@
+[
+  {
+    "word": "unsophisticated",
+    "ipa": "/ˌʌnsəˈfɪstɪkeɪtɪd/",
+    "meaning": "简单的、不精密的；不老练的；质朴的",
+    "sense": "没有那么多复杂技巧和精细加工，便是 unsophisticated。说装置可能只是简单，说人可能是不老练；谈食物、生活也能欣赏那份质朴。",
+    "split": "un- 否定 + sophisticated 精密复杂、老练的。前缀否定其相应性质，具体褒贬随对象变化。",
+    "history": [
+      [
+        "sophisticate → sophisticated",
+        "从使不再单纯，到精密复杂、老练的"
+      ],
+      [
+        "un- + sophisticated → unsophisticated",
+        "不精密复杂；不老练；也可说质朴简单"
+      ]
+    ],
+    "explanation": "unsophisticated equipment 简单设备，an unsophisticated audience 鉴赏经验较少的观众，simple, unsophisticated food 朴实的食物。",
+    "usage": "unsophisticated equipment；unsophisticated tastes。",
+    "contrast": "unsophisticated 不必翻成愚蠢；缺少某种复杂性、经验与缺少智力不是一回事。",
+    "examples": [
+      [
+        "The device is unsophisticated but easy to repair.",
+        "这个装置很简单，不过容易修。"
+      ],
+      [
+        "They enjoyed the restaurant’s fresh, unsophisticated food.",
+        "他们喜欢餐馆里新鲜朴实的食物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsophisticated#English"
+    ]
+  },
+  {
+    "word": "spam",
+    "ipa": "/spæm/",
+    "meaning": "垃圾信息、垃圾邮件；刷屏、滥发消息；罐装午餐肉品牌相关称呼",
+    "sense": "你没要求，对方却把同样内容一遍遍塞进来，就是 spam 的网络画面。它从罐装肉品牌，经过喜剧里反复唱喊同一词的场景，变成信息泛滥的比喻。",
+    "split": "原为 SPAM 品牌名，确切命名含义未公开确定；spiced ham 的拆法只是常见说法。网络义联系 Monty Python 喜剧中不断重复品牌名的桥段。",
+    "history": [
+      [
+        "SPAM 罐装肉品牌名",
+        "品牌名称的确切含义未公开确定，spiced ham 等是常见解释"
+      ],
+      [
+        "喜剧中反复喊 SPAM → 网络反复塞入内容的比喻",
+        "spam 垃圾信息、刷屏；再生 spammer、spammy"
+      ]
+    ],
+    "explanation": "a spam filter 垃圾信息过滤器，the spam folder 垃圾邮件文件夹，spam a chat 在聊天里刷屏；名词垃圾邮件通常不可数。",
+    "usage": "a spam filter；spam messages；stop spamming。",
+    "contrast": "spam 不限电子邮件，也包括评论、即时消息等；收到的普通广告是否构成 spam，要看未经请求、大量或重复等语境。",
+    "examples": [
+      [
+        "The filter moved the message to the spam folder.",
+        "过滤器把消息移进了垃圾邮件文件夹。"
+      ],
+      [
+        "Please stop spamming the chat with the same link.",
+        "请别再在聊天里反复刷同一个链接。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spam#English",
+      "https://www.spam.com/faq",
+      "https://www.etymonline.com/word/Spam"
+    ]
+  },
+  {
+    "word": "spammer",
+    "ipa": "英 /ˈspæmə/；美 /ˈspæmər/",
+    "meaning": "垃圾信息发送者、刷屏者",
+    "sense": "spam 是滥发内容，spammer 就是做这件事的人或账号。-er 从动作推出执行者，未必是对方真实姓名。",
+    "split": "spam + -er，双写 m。这里接网络滥发义，不接肉制品名。",
+    "history": [
+      [
+        "SPAM 罐装肉品牌名",
+        "品牌名称的确切含义未公开确定，spiced ham 等是常见解释"
+      ],
+      [
+        "spam 滥发信息 + -er → spammer",
+        "发送垃圾信息、反复刷屏者"
+      ]
+    ],
+    "explanation": "block a spammer 屏蔽垃圾信息发送者，identify spammers 识别刷屏者。",
+    "usage": "block a spammer；a persistent spammer。",
+    "contrast": "spammer 描述发送行为、账号角色；bot 强调自动程序，两者能重叠，但不能互相完全代替。",
+    "examples": [
+      [
+        "The moderator blocked the spammer.",
+        "管理员屏蔽了那个刷屏者。"
+      ],
+      [
+        "Several spammers posted identical comments below the article.",
+        "几名垃圾信息发送者在文章下发了相同评论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spammer#English"
+    ]
+  },
+  {
+    "word": "spammy",
+    "ipa": "/ˈspæmi/",
+    "meaning": "像垃圾信息的；广告过多、充斥刷屏内容的",
+    "sense": "一个页面满眼弹窗、重复推销，读着像被广告围住，可以说 spammy。它评价的是带有垃圾信息那种烦扰特征。",
+    "split": "spam + -y，双写 m；由垃圾信息名词形成带该特征的口语形容词，也有较少见的肉制品相关用法。",
+    "history": [
+      [
+        "SPAM 罐装肉品牌名",
+        "品牌名称的确切含义未公开确定，spiced ham 等是常见解释"
+      ],
+      [
+        "spam 垃圾信息 + -y → spammy",
+        "像垃圾信息、广告重复过多的"
+      ]
+    ],
+    "explanation": "spammy emails 像垃圾信息的邮件，a spammy website 充斥垃圾推广的网站。",
+    "usage": "spammy comments；a spammy message。",
+    "contrast": "spammy 常是印象或评价，不能单凭这个形容词断定内容全部虚假；真正有用的内容也可能被反复推广得很烦。",
+    "examples": [
+      [
+        "The repeated sales links made the message look spammy.",
+        "反复出现的推销链接让消息看起来像垃圾信息。"
+      ],
+      [
+        "She left the site because it felt too spammy.",
+        "她觉得网站垃圾推广太多，就离开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spammy#English"
+    ]
+  },
+  {
+    "word": "dope",
+    "ipa": "英 /dəʊp/；美 /doʊp/",
+    "meaning": "黏稠配制物、涂料；毒品；给……用药、掺杂；傻瓜；〔俚语〕很棒的",
+    "sense": "最早先想一份浓稠的配制物，像蘸酱、涂料。后来分成药物、材料处理等用途；俚语又有傻瓜、内幕消息和很酷的意思，必须看句子。",
+    "split": "借自荷兰 doop 蘸酱，与 dopen 蘸相关。由浓稠物、配制物发展药物及处理用料；傻人义的具体语义桥梁不定，不编成一条已证实的药物故事。",
+    "history": [
+      [
+        "荷兰 doop 蘸酱、浓稠液体 → 英语 dope",
+        "浓稠配制物、涂料等"
+      ],
+      [
+        "后续分支",
+        "药物及使用；掺入材料；傻人、内幕消息等词义各有发展，具体桥梁有讨论"
+      ]
+    ],
+    "explanation": "get the dope on something 得到某事内幕，dope a material 给材料掺杂，That’s dope. 俚语很酷；a dope 骂人傻瓜，语气不客气。",
+    "usage": "the dope on；dope a material；That’s dope.。",
+    "contrast": "dope 很棒的属于口语俚语；a dope 却可能是贬义人物名。dopamine 多巴胺的名称另有构成，不由这个词直接派生。",
+    "examples": [
+      [
+        "“That new track is dope,” he said.",
+        "他说：“那首新歌真酷。”"
+      ],
+      [
+        "The conservator described the dope once used on the aircraft’s fabric covering.",
+        "修复师介绍了这种飞机蒙布上过去使用的涂料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dope#English",
+      "https://www.etymonline.com/word/dope"
+    ]
+  },
+  {
+    "word": "doping",
+    "ipa": "英 /ˈdəʊpɪŋ/；美 /ˈdoʊpɪŋ/",
+    "meaning": "〔体育〕使用兴奋剂；〔材料〕掺杂；涂布处理",
+    "sense": "在比赛报道里，doping 常说违规借药物提高表现；在芯片课里，则是加入少量物质改变材料性质。同形词跨了两个领域。",
+    "split": "dope 去末尾 e 加 -ing，形成活动名词、分词。各义承 dope 的药物、材料处理等不同动词分支。",
+    "history": [
+      [
+        "荷兰 doop 蘸酱、浓稠液体 → 英语 dope",
+        "浓稠配制物、涂料等"
+      ],
+      [
+        "dope + -ing → doping",
+        "用药、掺杂、涂布等过程"
+      ]
+    ],
+    "explanation": "a doping investigation 兴奋剂调查，semiconductor doping 半导体掺杂，doping levels 掺杂水平。",
+    "usage": "semiconductor doping；a doping investigation。",
+    "contrast": "材料里的 doping 是技术过程名，不能自动翻成体育作弊；体育报道则需按竞赛及规则语境读。",
+    "examples": [
+      [
+        "The athlete denied involvement in doping.",
+        "这名运动员否认参与使用兴奋剂。"
+      ],
+      [
+        "The chapter explains semiconductor doping.",
+        "这一章解释半导体掺杂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/doping#English"
+    ]
+  },
+  {
+    "word": "dopant",
+    "ipa": "英 /ˈdəʊpənt/；美 /ˈdoʊpənt/",
+    "meaning": "掺杂剂、掺杂物",
+    "sense": "少量加进材料，用来改变电学、光学等性质的那份物质，是 dopant。它按“起掺杂作用的东西”命名。",
+    "split": "dope 掺杂去末尾 e + -ant，表示起作用的物质；与 doping 掺杂过程相配。",
+    "history": [
+      [
+        "荷兰 doop 蘸酱、浓稠液体 → 英语 dope",
+        "浓稠配制物、涂料等"
+      ],
+      [
+        "dope + -ant → dopant",
+        "加入材料、改变其性质的掺杂物"
+      ]
+    ],
+    "explanation": "a dopant in a semiconductor 半导体中的掺杂物，dopant concentration 掺杂物浓度。",
+    "usage": "dopant concentration；a semiconductor dopant。",
+    "contrast": "dopant 指加入的物质，doping 指加入、处理过程；这里的 -ant 不限人，也能指物质。",
+    "examples": [
+      [
+        "The diagram shows dopant atoms in the material.",
+        "图示展示了材料中的掺杂原子。"
+      ],
+      [
+        "The researchers compared samples with different dopant concentrations.",
+        "研究人员比较了掺杂物浓度不同的样品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dopant#English"
+    ]
+  },
+  {
+    "word": "dopey",
+    "ipa": "英 /ˈdəʊpi/；美 /ˈdoʊpi/",
+    "meaning": "迷迷糊糊的、反应迟钝的；傻气的",
+    "sense": "人像没完全醒来，反应慢半拍，可以说 dopey。也能批评一个主意傻乎乎；它是口语评价，要顾及语气。",
+    "split": "dope + -y，常见拼写保留 e 成 dopey，也见 dopy。承 dope 的呆傻、迟钝人物或状态分支。",
+    "history": [
+      [
+        "荷兰 doop 蘸酱、浓稠液体 → 英语 dope",
+        "浓稠配制物、涂料等"
+      ],
+      [
+        "dope + -y → dopey",
+        "迟钝迷糊；傻气的"
+      ]
+    ],
+    "explanation": "feel dopey 感到迷糊，a dopey grin 傻乎乎的笑，a dopey idea 傻主意。",
+    "usage": "feel dopey；a dopey grin。",
+    "contrast": "dopey 描述外在反应、主观感觉或评价；并不必然说明用了药，也不是正式诊断。",
+    "examples": [
+      [
+        "He still felt dopey after waking from a long nap.",
+        "睡了很长一觉起来，他还觉得迷迷糊糊。"
+      ],
+      [
+        "She gave him a dopey grin.",
+        "她朝他傻乎乎地笑了笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dopey#English",
+      "https://www.etymonline.com/word/dopey"
+    ]
+  },
+  {
+    "word": "predictably",
+    "ipa": "/prɪˈdɪktəbli/",
+    "meaning": "可预见地；果然、不出所料",
+    "sense": "事情沿着你大概猜到的方向发生，就是 predictably。用在句首，常像中文“果然”：说话人觉得结果并不意外。",
+    "split": "predictable + -ly；-able 变 -ably，结尾通常 /əbli/。从可预测的性质变为方式副词或整句评注。",
+    "history": [
+      [
+        "praedicere 预先说 → predict → predictable",
+        "预测 → 可以预测的"
+      ],
+      [
+        "predictable + -ly → predictably",
+        "按可预料的方式；果然、不出所料"
+      ]
+    ],
+    "explanation": "behave predictably 表现得有规律，Predictably, ... 果然……；设备行为可预测通常是优点，故事套路可预测可能被嫌乏味。",
+    "usage": "behave predictably；respond predictably；Predictably, ...。",
+    "contrast": "predictably 不保证说话人事先实际做过预测；有时是事后表达“这结果很容易想到”。",
+    "examples": [
+      [
+        "The system behaves predictably under normal conditions.",
+        "系统在正常条件下表现稳定、可预料。"
+      ],
+      [
+        "Predictably, the free tickets were gone within minutes.",
+        "不出所料，免费票几分钟就领光了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predictably#English"
+    ]
+  },
+  {
+    "word": "wreck",
+    "ipa": "/rek/",
+    "meaning": "严重毁坏；失事、残骸；破败物；身心崩溃的人",
+    "sense": "船、车坏到面目全非，是 wreck；被毁掉的计划也能这样说。a nervous wreck 则像人被焦虑折腾得快散架了。",
+    "split": "中古英语 wrek 经盎格鲁诺曼语，联系北欧漂流物、海难词族。由失事、被冲上岸的船货扩展到严重毁坏与相关状态；开头 w 不发音。",
+    "history": [
+      [
+        "古诺尔斯相关漂流、抛上岸词，经盎格鲁诺曼语 → 中古英语 wrek",
+        "海难、被冲上岸的船货等"
+      ],
+      [
+        "wreck 失事物、残骸 → 动词及比喻",
+        "严重破坏；人被折腾得筋疲力尽"
+      ]
+    ],
+    "explanation": "a shipwreck 船难、沉船，wreck a plan 毁掉计划，a nervous wreck 极度焦虑、身心疲惫的人。",
+    "usage": "wreck a car；wreck a plan；a nervous wreck。",
+    "contrast": "wreck /rek/ 与 wreak /riːk/ 读音、常见搭配不同；wreak havoc 是造成严重破坏的固定表达。",
+    "examples": [
+      [
+        "The storm wrecked several boats.",
+        "风暴毁坏了几条船。"
+      ],
+      [
+        "I was a nervous wreck before the interview.",
+        "面试前，我紧张得快崩溃了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wreck#English"
+    ]
+  },
+  {
+    "word": "wreckage",
+    "ipa": "/ˈrekɪdʒ/",
+    "meaning": "残骸、毁坏后留下的碎片",
+    "sense": "东西已严重损坏，现场剩下一堆破片、扭曲结构，就是 wreckage。-age 在这里把残余部分作为一整体来谈。",
+    "split": "wreck + -age，构成集合性名词。由毁坏的东西走到事故、破坏后的残存部分，通常不可数。",
+    "history": [
+      [
+        "古诺尔斯相关漂流、抛上岸词，经盎格鲁诺曼语 → 中古英语 wrek",
+        "海难、被冲上岸的船货等"
+      ],
+      [
+        "wreck + -age → wreckage",
+        "毁坏后留下的残存物集合"
+      ]
+    ],
+    "explanation": "the wreckage of a plane 飞机残骸，clear the wreckage 清理残骸，pieces of wreckage 几块残骸。",
+    "usage": "aircraft wreckage；clear the wreckage；pieces of wreckage。",
+    "contrast": "a wreck 可指一艘毁船、一辆报废车；wreckage 看留下的残片整体，通常不说 several wreckages。",
+    "examples": [
+      [
+        "Rescuers searched the wreckage.",
+        "救援人员搜查了残骸。"
+      ],
+      [
+        "Pieces of wreckage washed up on the beach.",
+        "几块残骸被冲上了海滩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wreckage#English"
+    ]
+  },
+  {
+    "word": "wrecker",
+    "ipa": "英 /ˈrekə/；美 /ˈrekər/",
+    "meaning": "破坏者；废车拆解者；拖车",
+    "sense": "wreck 严重损坏，-er 可以指造成破坏的人；行业里也指拆解废车、回收零件的人或企业，美式还常指处理故障车的拖车。",
+    "split": "wreck + -er，执行者、工具名。拖车义来自处理失事、故障车辆的用途，不意味着拖车故意把汽车弄坏。",
+    "history": [
+      [
+        "古诺尔斯相关漂流、抛上岸词，经盎格鲁诺曼语 → 中古英语 wrek",
+        "海难、被冲上岸的船货等"
+      ],
+      [
+        "wreck + -er → wrecker",
+        "破坏者、拆解者；处理故障车的拖车"
+      ]
+    ],
+    "explanation": "call a wrecker 叫拖车，an auto wrecker 废车拆解者、企业，a wrecker of plans 破坏计划者。",
+    "usage": "a tow truck／wrecker；an auto wrecker。",
+    "contrast": "wrecker 的角色看语境；拆车行业与故意破坏不是同一评价。",
+    "examples": [
+      [
+        "They called a wrecker to remove the damaged car.",
+        "他们叫来拖车移走受损汽车。"
+      ],
+      [
+        "The auto wrecker salvaged usable parts.",
+        "废车拆解商回收了可用零件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrecker#English"
+    ]
+  },
+  {
+    "word": "zip",
+    "ipa": "/zɪp/",
+    "meaning": "嗖地移动；拉上拉链；压缩文件；拉链；活力；零",
+    "sense": "嗖地一过去，是 zip；拉链一拉合拢，也带着这股轻快感。文件 zip 起来则是打包压缩；口语 zip 还可说活力，或一点也没有。",
+    "split": "起于模仿快速掠过声音的拟声词。拉链动词可接 zipper、zip 拉链名词；计算机压缩义为后来的技术用法。零的俚语义另有发展，不强接成确定故事。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zipper 商品命名 → 拉链通名；zip 拉上、合拢",
+        "后来计算机沿打包压缩的概念用 zip"
+      ]
+    ],
+    "explanation": "zip up a jacket 拉上夹克拉链，zip past 飞快掠过，zip the files 压缩文件；zip code 美国邮政编码里的 ZIP 另为 Zone Improvement Plan 缩写。",
+    "usage": "zip up；zip past；zip a file。",
+    "contrast": "zip a file 是压缩，不等于加密；有无加密要看实际设置。美国邮编缩写 ZIP 的来源也不能只按拟声词理解。",
+    "examples": [
+      [
+        "She zipped past us on her bicycle.",
+        "她骑自行车嗖地从我们身边过去。"
+      ],
+      [
+        "He zipped the files into a single archive.",
+        "他把这些文件压缩进一个归档文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zip#English"
+    ]
+  },
+  {
+    "word": "zipper",
+    "ipa": "英 /ˈzɪpə/；美 /ˈzɪpər/",
+    "meaning": "拉链",
+    "sense": "两排齿牙一拉就合在一起，像嗖地闭合，zipper 把快速动作变成了工具名。这个名称还经历过商品命名再成为通名的过程。",
+    "split": "zip + -er，双写 p。早期 Zipper 商品名用于配这种扣合装置的靴子，后来用于装置本身，成为普通拉链名。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zip + -er → zipper；商品名进入通用名称",
+        "拉链、拉链式扣合装置"
+      ]
+    ],
+    "explanation": "a broken zipper 坏拉链，the zipper on a bag 包上的拉链；英式常也直接叫 zip。",
+    "usage": "a zipper on a jacket；a broken zipper。",
+    "contrast": "zipper 是扣合装置，zip 作动词才说明拉动、合上；button 是另一类纽扣结构。",
+    "examples": [
+      [
+        "The zipper on my bag is stuck.",
+        "我的包拉链卡住了。"
+      ],
+      [
+        "She checked that the zipper was fully closed.",
+        "她检查了拉链是否完全拉好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zipper#English",
+      "https://www.etymonline.com/word/zipper"
+    ]
+  },
+  {
+    "word": "zipped",
+    "ipa": "/zɪpt/",
+    "meaning": "拉上拉链的；压缩了的；zip 的过去式、过去分词",
+    "sense": "袋口的拉链已经合好，是 zipped；文件已经装进压缩包，也能说 zipped。两个都是 zip 动作完成的状态。",
+    "split": "zip + -ed，短元音后双写 p；/p/ 后 -ed 读 /t/。还有与美国 ZIP 邮编相关的较少见同形用法，来源另看缩写。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zipper 商品命名 → 拉链通名；zip 拉上、合拢",
+        "后来计算机沿打包压缩的概念用 zip"
+      ],
+      [
+        "zip + -ed → zipped",
+        "拉链合拢、文件压缩完成的状态"
+      ]
+    ],
+    "explanation": "a zipped pocket 拉好拉链的口袋，a zipped file 压缩文件，keep the bag zipped 保持包口拉好。",
+    "usage": "a zipped pocket；a zipped archive。",
+    "contrast": "zipped file 描述打包压缩状态，并不自动说明内容安全或有密码。",
+    "examples": [
+      [
+        "Keep the pocket zipped while you travel.",
+        "出行时把口袋拉链拉好。"
+      ],
+      [
+        "The zipped archive contains three documents.",
+        "压缩归档里有三份文档。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zipped#English"
+    ]
+  },
+  {
+    "word": "unzip",
+    "ipa": "/ʌnˈzɪp/",
+    "meaning": "拉开拉链；解压缩",
+    "sense": "zip 把两排拉链合上，unzip 沿反向把它打开。文件已经打成压缩包，再取出恢复，就是计算机里的 unzip。",
+    "split": "un- 撤去、反向 + zip。先承拉链动作，技术领域也承 zip 压缩的反向过程。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zipper 商品命名 → 拉链通名；zip 拉上、合拢",
+        "后来计算机沿打包压缩的概念用 zip"
+      ],
+      [
+        "un- + zip → unzip",
+        "打开拉链；还原压缩文件"
+      ]
+    ],
+    "explanation": "unzip a jacket 拉开夹克拉链，unzip an archive 解压归档文件。",
+    "usage": "unzip a bag；unzip the files。",
+    "contrast": "unzip 是解压，decrypt 是解密；有些文件兼有压缩与加密，两种过程仍有不同含义。",
+    "examples": [
+      [
+        "She unzipped her jacket when she came inside.",
+        "进屋后，她拉开夹克拉链。"
+      ],
+      [
+        "Unzip the archive to view its contents.",
+        "解压归档即可查看里面的文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unzip#English"
+    ]
+  },
+  {
+    "word": "unzipped",
+    "ipa": "/ʌnˈzɪpt/",
+    "meaning": "拉链敞开的；已经解压的；unzip 的过去式、过去分词",
+    "sense": "先合拢，再打开，留下 unzipped 的状态。衣袋看开口，文件看从压缩包里取出后的状态。",
+    "split": "unzip + -ed，双写 p，末尾 -ed 读 /t/；形容词还可按 un- + zipped 理解。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zipper 商品命名 → 拉链通名；zip 拉上、合拢",
+        "后来计算机沿打包压缩的概念用 zip"
+      ],
+      [
+        "unzip + -ed → unzipped",
+        "已经拉开或解压的状态"
+      ]
+    ],
+    "explanation": "an unzipped bag 拉链敞开的包，unzipped files 解压后的文件。",
+    "usage": "leave a bag unzipped；unzipped files。",
+    "contrast": "unzipped 的具体意思由包、衣物还是文件决定；解压后文件仍可能需要专门软件才能阅读。",
+    "examples": [
+      [
+        "He noticed that his backpack was unzipped.",
+        "他发现背包拉链敞着。"
+      ],
+      [
+        "The unzipped files appeared in a new folder.",
+        "解压后的文件出现在新文件夹里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unzipped#English"
+    ]
+  },
+  {
+    "word": "zippy",
+    "ipa": "/ˈzɪpi/",
+    "meaning": "轻快的、敏捷的；充满活力的",
+    "sense": "像 zip 嗖地走起来，zippy 就有轻快、利落的感觉。可以说小车反应快，也可以说曲调活泼。",
+    "split": "zip 快速动作、活力 + -y，双写 p，形成口语形容词。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zip + -y → zippy",
+        "快速、轻快、充满活力的"
+      ]
+    ],
+    "explanation": "a zippy little car 轻快灵活的小车，a zippy tune 活泼曲调。",
+    "usage": "a zippy car；a zippy tune。",
+    "contrast": "zippy 带活泼轻快的口语色彩，通常比普通 fast 更有感觉描述。",
+    "examples": [
+      [
+        "The band opened with a zippy tune.",
+        "乐队用一支轻快曲子开场。"
+      ],
+      [
+        "The little car felt zippy in city traffic.",
+        "这辆小车在城市车流里显得很轻快灵活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zippy#English"
+    ]
+  },
+  {
+    "word": "zipline",
+    "ipa": "/ˈzɪplaɪn/",
+    "meaning": "滑索、飞索；乘滑索滑行",
+    "sense": "人悬在索道的滑轮下，沿钢索嗖地滑向另一端，zip 的速度感加 line 索线，就形成 zipline。",
+    "split": "zip 快速移动 + line 索线，现代复合词，也常见 zip line、zip-line 写法；这里统一讲连写词。",
+    "history": [
+      [
+        "拟声 zip，模仿轻小物体嗖地掠过",
+        "快速运动的声音、动作"
+      ],
+      [
+        "zip + line → zipline",
+        "沿高架索线滑行的装置、活动"
+      ]
+    ],
+    "explanation": "ride a zipline 乘滑索，a zipline across the valley 横跨山谷的滑索。",
+    "usage": "a zipline ride；ride a zipline。",
+    "contrast": "zipline 指这种索道滑行装置或活动；普通缆车 cabin、cable car 是不同具体设备。",
+    "examples": [
+      [
+        "The zipline stretched across the valley.",
+        "滑索横跨山谷。"
+      ],
+      [
+        "They watched visitors ride the zipline.",
+        "他们看游客乘滑索滑行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/zipline#English"
+    ]
+  }
+]

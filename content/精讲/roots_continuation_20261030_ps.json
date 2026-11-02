@@ -1,0 +1,275 @@
+[
+  {
+    "id": "A1693",
+    "meaning": "形成动作、过程、状态或结果名词",
+    "core": "-TION：把一个动作当成一件可以讨论的事",
+    "image": "produce 生产 → production 生产；abolish 废除 → abolition 废除这件事。看见相似名词尾，再回到基础动作判断具体含义。",
+    "intro": "词尾不是整词答案：solution 可以是解决办法，也可以是溶液；prescription 可以是处方；junction 是交会处。先把名词尾认出来，再看词根怎样把动作带向结果、地点或具体事物。",
+    "forms": "主要承接法语、拉丁 -tion、-tio、-tion- 等动作名词材料，与更广的 -ion 系列交叠，不是一组与 -ion 完全无关的词。现代教学常见 -tion、-sion、-ation 等外观，真实词干会变化，如 receive → reception、produce → production；并非每个英文动词都能原样拼上 tion。多数常见词中读 /ʃən/，question 的末段为 /tʃən/ 一类，不能拿统一拼读盖住整词。\n\nammunition 经法语 la munition 的重新切分形成，更早接拉丁 munitio 防御、加固词族；ammunition → ammo 是现代截短。",
+    "branches": [
+      [
+        "生产、消耗与减少",
+        "production · consumption · reduction"
+      ],
+      [
+        "介绍、描写与废除",
+        "introduction · description · abolish · abolition"
+      ],
+      [
+        "接收、限制与干预",
+        "reception · detention · intervention"
+      ],
+      [
+        "引导、推理与板块向下",
+        "induction · deduction · subduction"
+      ],
+      [
+        "结果、观念与交会",
+        "solution · conception · junction"
+      ],
+      [
+        "借词中的名词尾与截短形式",
+        "ammunition · ammo"
+      ]
+    ],
+    "contrasts": "abolish 的 -ish 属借入词干历史，不是 childish 的像小孩；subduction 俯冲与 subtraction 相减分开；attention 不等于一个现代动词 atten 加后缀。",
+    "practice": "The introduction explains the production process and the reduction in waste.\n\n引言解释了生产过程和废弃物的减少。",
+    "words": [
+      "abolish",
+      "abolition",
+      "subduction",
+      "production",
+      "attention",
+      "solution",
+      "description",
+      "introduction",
+      "convention",
+      "reduction",
+      "consumption",
+      "intervention",
+      "reception",
+      "prescription",
+      "detention",
+      "junction",
+      "conception",
+      "contention",
+      "induction",
+      "absorption",
+      "deduction",
+      "abduction",
+      "seduction",
+      "convolution",
+      "ammunition",
+      "ammo"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1958",
+    "meaning": "具有某种作用、倾向、性质；有时转成名词",
+    "core": "-IVE：有这种作用，或容易这样做",
+    "image": "supportive 给人支持；excessive 超过合适程度；combative 容易交锋。先找到动作、性质，再看形容的是谁。",
+    "intro": "不是每个 -ive 都译成主动的。a supportive friend 是给支持的朋友，a restrictive rule 是限制人的规则，a cumulative effect 是逐次积累的效果。objective、detective、incentive 还可常作名词，必须看完整单词的实际用法。",
+    "forms": "多接拉丁 -ivus，也有经法语 -if 借入，再在英语中继续类推。形容词词干常与动作名词相应：produce、production、productive；deduce、deduction、deductive。词干会变，不能每次删除 ive 就要求剩下一整个现代英语动词。某些历史法语形式后来在英语变成 -y，但 jolly 的远源不确定，本页不把它硬接成确定的 -ive 范例。\n\n三者接拉丁节庆词族而借入路径不同；feast 可说盛宴或节日，festival 是节庆活动，festive 是有节日气氛的。\n\ninitiative 经法语借入，连接拉丁 initiare 开始、initium 开端及相应 -ivus 材料；主动性与发起的一项行动分别举例。\n\n节日的形容词经名词化形成活动名称，现代音乐、电影等也可办节。\n\n拉丁 in 与 facere 到 inficere、infectus，染色、使染上的背景经借入到英语。\n\n法语借词，远接拉丁 initium、initiare 开始，具体倡议可数。\n\nive 在历史形容词材料中，英语名词加复数 s。",
+    "branches": [
+      [
+        "行动、创造与产出",
+        "active · creative · productive · effective"
+      ],
+      [
+        "过量与逐次累积",
+        "excessive · cumulative"
+      ],
+      [
+        "强迫、交锋与报复",
+        "coerce · coercive · combat · combative · vindicate · vindictive"
+      ],
+      [
+        "后退、退化与感染",
+        "recede · recessive · degenerate · degenerative · infect · infective"
+      ],
+      [
+        "推理、疑问与关联",
+        "deduce · deduction · deductive · interrogate · interrogative · correlate · correlative"
+      ],
+      [
+        "挤压和提取",
+        "compress · compressive · extract · extractive"
+      ],
+      [
+        "方向随对象判断",
+        "supportive · restrictive · receptive · dismissive"
+      ],
+      [
+        "feast、festival、festive：庆典和宴饮的同源材料",
+        "feast · festival · festive"
+      ],
+      [
+        "initiative：把开头做起来的主动性",
+        "initiate · initiative"
+      ],
+      [
+        "festival → festivals：节日与文化节庆",
+        "festival · festivals"
+      ],
+      [
+        "infect → infected：浸入、染上与感染",
+        "infect · infected · infection"
+      ],
+      [
+        "initiative → initiatives：主动发起的一项项行动",
+        "initiative · initiatives"
+      ],
+      [
+        "incentive → incentives：多个激励因素",
+        "incentive · incentives"
+      ]
+    ],
+    "contrasts": "vindicate 证明无辜、正确与 vindictive 爱报复分清；excessive 不只是数量大；cumulative 是接连累计；recessive 隐性不等于在人群中少见；correlative 关联不自动等于 causal 因果。",
+    "practice": "The report was descriptive rather than predictive, but its cumulative evidence was impressive.\n\n这份报告重在描述而非预测，但其累积证据很有说服力。",
+    "words": [
+      "excessive",
+      "cumulative",
+      "degenerate",
+      "degenerative",
+      "coerce",
+      "coercive",
+      "vindicate",
+      "vindictive",
+      "recede",
+      "recessive",
+      "combat",
+      "combative",
+      "deduce",
+      "deduction",
+      "deductive",
+      "compress",
+      "compressive",
+      "extract",
+      "extractive",
+      "interrogate",
+      "interrogative",
+      "infect",
+      "infective",
+      "correlate",
+      "correlative",
+      "active",
+      "effective",
+      "massive",
+      "creative",
+      "competitive",
+      "attractive",
+      "impressive",
+      "administrative",
+      "defensive",
+      "objective",
+      "aggressive",
+      "legislative",
+      "productive",
+      "detective",
+      "respective",
+      "innovative",
+      "intensive",
+      "supportive",
+      "incentive",
+      "abusive",
+      "decisive",
+      "subjective",
+      "collaborative",
+      "investigative",
+      "adaptive",
+      "festive",
+      "reflective",
+      "reactive",
+      "restrictive",
+      "preventive",
+      "retrospective",
+      "disruptive",
+      "oppressive",
+      "obsessive",
+      "expansive",
+      "predictive",
+      "intrusive",
+      "elective",
+      "cohesive",
+      "corrective",
+      "secretive",
+      "immersive",
+      "manipulative",
+      "appreciative",
+      "conducive",
+      "seductive",
+      "adoptive",
+      "suggestive",
+      "assertive",
+      "repulsive",
+      "repressive",
+      "conductive",
+      "dismissive",
+      "instinctive",
+      "illustrative",
+      "instructive",
+      "obstructive",
+      "regressive",
+      "integrative",
+      "recursive",
+      "reconstructive",
+      "reflexive",
+      "presumptive",
+      "preemptive",
+      "associative",
+      "reclusive",
+      "pejorative",
+      "demonstrative",
+      "assistive",
+      "suppressive",
+      "transgressive",
+      "derisive",
+      "evaluative",
+      "contrastive",
+      "allusive",
+      "receptive",
+      "descriptive",
+      "feast",
+      "festival",
+      "initiate",
+      "initiative",
+      "festivals",
+      "infected",
+      "infection",
+      "initiatives",
+      "incentives"
+    ],
+    "exclude": {
+      "self-defensive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jolly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oxidative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "refractive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "projective": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dissociative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "convective": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "congestive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "constitutive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ulcerative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "capacitive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "resistive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "percussive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hypertensive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "propulsive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rehabilitative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "evaporative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "educative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sportive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proliferative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dispersive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "subtractive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alliterative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "acquisitive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "concussive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "accommodative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "adjunctive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "duplicative": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "consumptive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B3441",
+    "meaning": "水体集中与另一条共同资源路径",
+    "core": "POOL：东西聚到一处，但台球、共同赌注另有旧来源",
+    "image": "pool → poolside、whirlpool；cesspool 语义相近而深源不定；carpool 是合乘。",
+    "intro": "资源池用汇集画面很好记，但不能拿水池直接虚构台球的历史；污水池词的前半部也有争议。",
+    "forms": "pōl → 水体 pool；法语 poule 等 → 共同赌注、台球和资源分支；pool + side；whirl + pool；car + pool。\n\n水体继承古英语，合资、游戏支接法语 poule；理解可比喻相助，历史不混。\n\n水体 pool 接古英语 pol，汇集资金等线接法语 poule 赌注材料，远源未定；现代 pooled、pooling 既可写积水，也可写合力，不把所有抽象义都当英语水池的新比喻。",
+    "branches": [
+      [
+        "池边、漩涡与污水",
+        "pool · poolside · whirlpool · cesspool"
+      ],
+      [
+        "汇集交通资源",
+        "carpool"
+      ],
+      [
+        "pool → pools：水体与汇集资源的不同来源",
+        "pool · pools"
+      ],
+      [
+        "pool 的水体与合资线分别加词尾",
+        "pool · pooled · pooling"
+      ]
+    ],
+    "contrasts": "play pool 非游泳；poolside 不在水中；whirlpool/whirlwind 水风不同；cesspool 深源不强拆。",
+    "practice": "They formed a carpool to reach the swimming pool.\n\n他们合乘一辆车前往游泳池。",
+    "words": [
+      "pool",
+      "poolside",
+      "whirlpool",
+      "cesspool",
+      "carpool",
+      "pools",
+      "pooled",
+      "pooling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2929",
+    "meaning": "亮让人看清，再借给头脑、心情、前景",
+    "core": "BRIGHT：光亮、颜色鲜明，也可以是心里亮起来",
+    "image": "bright → brightness、brightly、brighten；brights 另记亮色与远光灯名词。",
+    "intro": "名词说亮的程度，副词说动作方式，动词说变亮；bright child 和 bright future 都有抽象引申。",
+    "forms": "beorht、bryht → bright；beorhtnes → brightness；beorhtlice → brightly；bright + -en；bright + -s。\n\nbright 接古英语 beorht、bryht 等；gh 现代不发音，比较形式仍保留拼写。\n\nbright 加动词 -en；相关变亮动词历史很早，现代 brightens、brightened、brightening 按规则扩展。",
+    "branches": [
+      [
+        "基础、性质、方式和变化",
+        "bright · brightness · brightly · brighten"
+      ],
+      [
+        "亮色和灯光名词",
+        "brights"
+      ],
+      [
+        "bright → brighter → brightest：更亮、更聪明、更有希望",
+        "bright · brighter · brightest"
+      ],
+      [
+        "brighten：光线与表情、心情亮起来",
+        "bright · brighten · brightens · brightened · brightening"
+      ]
+    ],
+    "contrasts": "brightness/contrast 亮度对比度；brightly 方式非名词；brighten 可使变亮也可自己变亮；brights 看服装驾驶场景。",
+    "practice": "The bright flowers brightened her day.\n\n鲜艳的花让她一天的心情都好了起来。",
+    "words": [
+      "bright",
+      "brightness",
+      "brightly",
+      "brighten",
+      "brights",
+      "brighter",
+      "brightest",
+      "brightens",
+      "brightened",
+      "brightening"
+    ],
+    "exclude": {
+      "night-bright": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bright-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2757",
+    "meaning": "支付动作与款项，再看时间、金额和方向",
+    "core": "PAYMENT：付多少、何时付、有没有付，前缀把差别说清",
+    "image": "payment → prepayment、repayment；overpayment、underpayment 比金额；nonpayment 说未付。",
+    "intro": "提前付不是多付，少付也不是完全没付。先看前缀控制哪个维度，再读整笔款项。",
+    "forms": "pay、payment 与法语对应词；pre- 提前；repay + -ment；over-/under-/non- + payment。",
+    "branches": [
+      [
+        "基础支付、提前与偿还",
+        "payment · prepayment · repayment"
+      ],
+      [
+        "金额不足过多与未支付",
+        "overpayment · underpayment · nonpayment"
+      ]
+    ],
+    "contrasts": "repayment/payment 还款与一般支付；prepayment/overpayment 时间与金额；underpayment/nonpayment 少付与没付。",
+    "practice": "The repayment was late, but there was no underpayment.\n\n还款晚了，不过金额没有少付。",
+    "words": [
+      "payment",
+      "prepayment",
+      "repayment",
+      "overpayment",
+      "underpayment",
+      "nonpayment"
+    ],
+    "exclude": {
+      "e-payment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2997",
+    "meaning": "身体在水里前进，再分活动、人和衣物",
+    "core": "SWIM：基础动作是游，派生词按用途放到旁边",
+    "image": "swim → swimming、swimmer；swimwear 总称，swimsuit 具体泳装。",
+    "intro": "先记 swim—swam—swum，再看 swimming、swimmer 双写 m。衣物总称通常不可数，不用一个 -s 包办所有数量。",
+    "forms": "swimman 经中古英语 → swim；swim + -ing/-er 双写 m；swim + wear/suit。\n\nswam /swæm/ 是过去式，swum /swʌm/ 是过去分词；与 sing、sang、sung 对照记，但不把相似读音当所有动词的通用造词规则。\n\n与 swim 比较泳装名称，bikini 经法语借 Bikini 环礁地名命名，相关历史背景是当时核试验引发的关注。最初 bi- 不是两的前缀，后来单基尼等名称则重新利用了这种联想。",
+    "branches": [
+      [
+        "动作、活动与人物",
+        "swim · swimming · swimmer"
+      ],
+      [
+        "泳装总称与具体衣物",
+        "swimwear · swimsuit"
+      ],
+      [
+        "swim、swam、swum 连着读",
+        "swim · swam · swum"
+      ],
+      [
+        "bikini → bikinis：借环礁地名的泳装名称",
+        "bikini · bikinis"
+      ]
+    ],
+    "contrasts": "swam/swum 过去式分词；go swimming 不加 to；swimwear 总称与 swimsuit 一件。",
+    "practice": "The swimmer packed a swimsuit before going swimming.\n\n游泳者去游泳前装好了泳装。",
+    "words": [
+      "swim",
+      "swimming",
+      "swimmer",
+      "swimwear",
+      "swimsuit",
+      "swam",
+      "swum",
+      "bikini",
+      "bikinis"
+    ],
+    "exclude": {
+      "swim-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "swim-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "id": "A2351",
+    "meaning": "写、画、记录相关的形容词材料，需看前半对象",
+    "core": "-GRAPHIC：这幅表现、记录与什么有关",
+    "image": "photographic 看照片，stratigraphic 看地层记录，choreographic 看编舞，iconographic 看图像体系。",
+    "intro": "不能把每个 graphic 都只译成图形。写、画、记录的旧材料进入不同学科后，具体对象有照片、地层、舞蹈和象征图像。",
+    "forms": "希腊 graphein 写、画 → graphic 相关材料；-graphy 与 -graphic 常形成名词、形容词对应，具体整词各有借入、造词历史。",
+    "branches": [
+      [
+        "照片、地层与舞蹈表现",
+        "photographic · stratigraphic · choreographic"
+      ],
+      [
+        "图像题材与象征体系",
+        "iconographic"
+      ]
+    ],
+    "contrasts": "iconographic 不等于 iconic 标志性的；photographic memory 是逼真记忆的说法，不表示脑内真的装着相机。",
+    "practice": "The exhibition pairs photographic records with iconographic analysis.\n\n展览把照片记录与图像学分析放在一起。",
+    "words": [
+      "photographic",
+      "stratigraphic",
+      "choreographic",
+      "iconographic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4495",
+    "meaning": "演化相关性质与演化观察角度",
+    "core": "EVOLUTIONARY：把镜头拉到长期演变",
+    "image": "evolutionary → evolutionarily，形容词到副词；生物与一般发展语境分开。",
+    "intro": "生物演化常讨论跨世代的变化、关系，普通语境也可比喻渐进发展。不要只因中文常译进化，就预设每个变化都朝更好走。",
+    "forms": "evolution + -ary → evolutionary；y 改 i 接 -ly → evolutionarily。",
+    "branches": [
+      [
+        "演化性质与角度",
+        "evolutionary · evolutionarily"
+      ]
+    ],
+    "contrasts": "evolutionary 与 revolutionary 革命性的不同；演化过程与个体成长、成熟也不是同一层面。",
+    "practice": "The evolutionary study compares two evolutionarily related species.\n\n这项演化研究比较了两个有亲缘关系的物种。",
+    "words": [
+      "evolutionary",
+      "evolutionarily"
+    ],
+    "exclude": {
+      "non-evolutionary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4422",
+    "meaning": "让人不舒服、不愉快，性质与不快事件均可表达",
+    "core": "UNPLEASANT：体验让人不想继续待下去",
+    "image": "unpleasant → unpleasantly、unpleasantness，先性质，再方式、状态或事件。",
+    "intro": "气味、消息、相处体验都可以 unpleasant。unpleasantness 还会把一次口角、冲突委婉地包起来说成不愉快。",
+    "forms": "un- + pleasant；-ly 方式；-ness 性质，进一步可具体指不快事件。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "unpleasant · unpleasantly · unpleasantness"
+      ]
+    ],
+    "contrasts": "unpleasant 不必严重到可怕；unpleasantness 也不一定都是争吵，不要把委婉说法当唯一义。",
+    "practice": "The unpleasant reply led to more unpleasantness.\n\n那个令人不快的回复又引出了更多不愉快。",
+    "words": [
+      "unpleasant",
+      "unpleasantly",
+      "unpleasantness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3124",
+    "meaning": "血管与脉状分布，旧词本已有多种用法",
+    "core": "VEIN：一条条脉，能输送也能显出纹路",
+    "image": "vein → veiny；venous 接拉丁形容词来源，不是现代 vein 随手加 -ous。",
+    "intro": "身体静脉是入口，矿脉、叶脉、石纹也能接成长条分布的画面。拉丁近源已有多义，不把每一支都说成英语后来新造的比喻。",
+    "forms": "vena → veine → vein；+ -y → veiny；venosus → venous。\n\nvein 经法语接拉丁 vena 血管、矿脉等，远源不明。现代复数常说静脉、叶脉、矿脉、纹理，末尾 /nz/。",
+    "branches": [
+      [
+        "脉状结构与可见纹路",
+        "vein · veiny"
+      ],
+      [
+        "静脉相关性质",
+        "venous"
+      ],
+      [
+        "vein → veins：血管与细长分支",
+        "veins"
+      ]
+    ],
+    "contrasts": "veiny 侧重明显的脉或纹，venous 说静脉相关；vein 与 vain 徒劳的、vane 风向标虽同音却不同源。",
+    "practice": "The drawing shows a vein beneath the veiny surface of the hand.\n\n画上展示了手部明显血管纹路下的一条静脉。",
+    "words": [
+      "vein",
+      "veiny",
+      "venous",
+      "veins"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4484",
+    "meaning": "猪名与贪占比喻，动物复合名常借外形",
+    "core": "HOG：猪的名字，也能说把好处全占了",
+    "image": "hog → warthog；hedgehog、groundhog 借动物形象命名；hogwash 从猪食走向胡话。",
+    "intro": "先分清动物分类和形象命名。warthog 属猪科，而刺猬、土拨鼠不是猪；动词 hog 则让人想到自己占着不分给别人。",
+    "forms": "hogg 等 → hog，远源未定；wart、hedge、ground 分别限定；hogwash 中 wash 为残液、泔水材料。",
+    "branches": [
+      [
+        "猪名、贪占与疣猪",
+        "hog · warthog"
+      ],
+      [
+        "借猪形象的其他动物名",
+        "hedgehog · groundhog"
+      ],
+      [
+        "猪食到空话的比喻",
+        "hogwash"
+      ]
+    ],
+    "contrasts": "不是所有含 hog 的动物都属于猪科；hogwash 不译成给猪洗澡。",
+    "practice": "The guide explained why a warthog is a pig but a groundhog is not.\n\n向导解释了为什么疣猪是猪，而土拨鼠不是。",
+    "words": [
+      "hog",
+      "warthog",
+      "hedgehog",
+      "groundhog",
+      "hogwash"
+    ],
+    "exclude": {
+      "gas-hog": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4601",
+    "meaning": "发育、发展相关，再限定角度或神经系统",
+    "core": "DEVELOPMENTAL：看它正处在哪个发展阶段",
+    "image": "developmental → developmentally；neurodevelopmental 限定为神经发育相关。",
+    "intro": "先想从不会到会、从初期到成熟的发展过程。-al 说相关性质，-ly 说从这一层面看，neuro- 把对象进一步限定到神经系统。",
+    "forms": "development + -al；再接 -ly 成 ll；neuro- 神经 + developmental。",
+    "branches": [
+      [
+        "发展性质与观察角度",
+        "developmental · developmentally"
+      ],
+      [
+        "神经发育相关",
+        "neurodevelopmental"
+      ]
+    ],
+    "contrasts": "不能把 developmental 拆成 develop + 独立 mental 心理；发展阶段也不只是按年龄简单排名。",
+    "practice": "The developmental study examines whether the activities are developmentally appropriate.\n\n这项发展研究考察这些活动是否符合相应的发展阶段。",
+    "words": [
+      "developmental",
+      "developmentally",
+      "neurodevelopmental"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3440",
+    "meaning": "教导、传承的旧知识词，延伸到虚构世界背景",
+    "core": "LORE：这群人或这个世界背后积下来的知识与故事",
+    "image": "lore → folklore，民间传统由 folk 限定；作品 lore 则看世界设定。",
+    "intro": "不要把 lore 只背成学问。它常带长期积累、口耳传承的味道，真实地方传统与虚构世界背景都能使用。",
+    "forms": "lār → lore；folk + lore → folklore，由 William Thoms 于1846年提出名称；动物部位同形词另接拉丁 lorum。",
+    "branches": [
+      [
+        "传统知识与民间传承",
+        "lore · folklore"
+      ]
+    ],
+    "contrasts": "lore 不是每条都可靠的科学事实；冷门的动物部位 loreal 不能按知识相关的 -al 望文生义。",
+    "practice": "The collection preserves local lore and other forms of folklore.\n\n这部合集保存了地方传说及其他民间传统。",
+    "words": [
+      "lore",
+      "folklore"
+    ],
+    "exclude": {
+      "beer-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ocean-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lore-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "angel-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "devil-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fowl-lore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loreal": "动物部位义接另一条拉丁来源，不列作 lore 传承知识的直接扩展。"
+    }
+  },
+  {
+    "id": "B4262",
+    "meaning": "固定位置与停止进展；故意拖延义有其他材料交汇",
+    "core": "STALL：占着一个位置，或卡在原地不往前",
+    "image": "stall 摊位、畜栏与停住分支先分；forestall 保留在前拦截的旧组合。",
+    "intro": "用固定一格的位置记摊位，用卡住不动记进展停滞。拖时间可故意，发动机停转可意外；航空失速则按专业状态理解。",
+    "forms": "steall → stall；法语同源位置词参与；fore- + steall 的旧形式 → forestall；非 forest + all。",
+    "branches": [
+      [
+        "固定位置、停顿与拖延",
+        "stall"
+      ],
+      [
+        "抢先行动以防阻",
+        "forestall"
+      ]
+    ],
+    "contrasts": "不是所有 stall 都指坏了；摊位是正常实物名。飞机失速不等于发动机熄火，forestall 则非到森林里。",
+    "practice": "The team tried to forestall a dispute before talks stalled.\n\n团队试图在谈判陷入停滞前，先行防止争端。",
+    "words": [
+      "stall",
+      "forestall"
+    ],
+    "exclude": {
+      "stallman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,1091 @@
+[
+  {
+    "word": "disciplines",
+    "ipa": "英、美 /ˈdɪsəplɪnz/",
+    "meaning": "学科；训练门类〔复数〕；管教、训练〔第三人称单数〕",
+    "sense": "学问分成不同领域，每个领域有自己的方法和训练，这些领域就是 disciplines。说一个人 disciplines himself，则是在训练自己按要求做事。",
+    "split": "discipline 保留 e，加 -s → disciplines，末尾 /nz/。经法语或直接接拉丁 disciplina 教导、学习、知识，来自 discipulus 学生、跟随者。",
+    "history": [
+      [
+        "拉丁 disciplina 教导、学习 → 法语等 → discipline",
+        "英语早期管教、纠正等义很突出，后来学科与训练规则等用法并存"
+      ],
+      [
+        "discipline 名词、动词 + -s → disciplines",
+        "现代复数常说学科、训练门类；动词说某人管教、约束"
+      ]
+    ],
+    "explanation": "academic disciplines 是学科；different disciplines 是不同领域；disciplines himself 是约束、训练自己。",
+    "usage": "academic disciplines；different disciplines；disciplines himself。",
+    "contrast": "discipline 纪律常不可数；disciplines 可数不同学科。名词后的复数与动词第三人称形式同形，需要看句中是谁在做什么。",
+    "examples": [
+      [
+        "The project brings together researchers from several disciplines.",
+        "这个项目汇集了几个学科的研究者。"
+      ],
+      [
+        "She disciplines herself to write a little every morning.",
+        "她训练自己每天早上写一点东西。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disciplines#English",
+      "https://www.etymonline.com/word/discipline"
+    ]
+  },
+  {
+    "word": "explosions",
+    "ipa": "英 /ɪkˈspləʊʒənz/；美 /ɪkˈsploʊʒənz/",
+    "meaning": "爆炸；爆发；激增〔复数〕",
+    "sense": "积蓄的力量突然向外释放，是 explosion 的现代核心画面。也可以比喻声音、情绪或数量突然爆发增长。",
+    "split": "explosion + -s → explosions。历史接法语、拉丁 explosio，来自 explodere 的分词词干 explos-，配名词词尾 -ion；ex- 向外，plaudere 拍手在复合中变成 -plod- 等形式。",
+    "history": [
+      [
+        "拉丁 explodere 用响声把演员轰下台 → explosio → explosion",
+        "早期含以声响驱离、突然轰出的意思"
+      ],
+      [
+        "声响、猛然向外 → 爆炸、突然增长 → explosions",
+        "现代意思已发展，词源中的拍手不能机械当作今天的释义"
+      ]
+    ],
+    "explanation": "distant explosions 是远处的爆炸；explosions of laughter 是阵阵爆笑；explosions of colour 是绚烂色彩突然迸出的形象表达。",
+    "usage": "distant explosions；explosions of laughter；explosions of colour。",
+    "contrast": "explosions 可以是真实爆炸，也可以是情绪、声音等的比喻。an explosion in demand 常说需求激增，重点是增长突然、幅度大。",
+    "examples": [
+      [
+        "The film uses sound effects to suggest distant explosions.",
+        "影片用音效表现远处的爆炸。"
+      ],
+      [
+        "The performance drew several explosions of laughter.",
+        "这场表演引来了好几阵爆笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/explosions#English",
+      "https://www.etymonline.com/word/explosion"
+    ]
+  },
+  {
+    "word": "figuring",
+    "ipa": "英 /ˈfɪɡərɪŋ/；美 /ˈfɪɡjərɪŋ/",
+    "meaning": "计算；琢磨；认为〔分词、动名词〕",
+    "sense": "把线索、数字摆在脑子里，慢慢算出、想出结果，是 figuring 的常见感觉。figuring out 尤其常说把原本不清楚的事弄明白。",
+    "split": "figure 去末尾 e，加完整 -ing → figuring。figure 接法语 figurer、拉丁 figurare 成形、描画；figure 的图形、数字与心中描绘等用法为后来的计算、推想提供背景。",
+    "history": [
+      [
+        "拉丁 figurare 塑形、描画 → 法语 figurer → figure",
+        "英语有描绘形象、在心中构想等动词义"
+      ],
+      [
+        "数字计算、推想用法；figure + -ing → figuring",
+        "现代 figuring out 常指通过思考找到答案或办法"
+      ]
+    ],
+    "explanation": "figuring out a problem 是想明白一个问题；figuring the cost 是计算费用；figuring out how 是想办法弄清如何做。",
+    "usage": "figuring out a problem；figuring the cost；figuring out how。",
+    "contrast": "figuring out 突出想出、弄明白的过程；knowing 强调已经知道。figure 也能表示认为、估计，具体语气要看后面的句子。",
+    "examples": [
+      [
+        "I am figuring out how the parts fit together.",
+        "我正在琢磨这些部件怎样装到一起。"
+      ],
+      [
+        "She spent the evening figuring the total cost.",
+        "她花了一个晚上计算总费用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/figuring#English",
+      "https://www.etymonline.com/word/figure"
+    ]
+  },
+  {
+    "word": "financed",
+    "ipa": "英、美 /ˈfaɪnænst/",
+    "meaning": "资助了；提供了资金；由资金支持的",
+    "sense": "一个计划要落地，总得有人把钱拿出来。说项目 was financed by donations，就是它由捐款提供资金支持。",
+    "split": "finance 去末尾 e，加完整 -ed → financed，原词末尾 /s/，后缀读 /t/。finance 经法语支付、结清债务词族发展，fin- 的结束可联系把欠款结清。",
+    "history": [
+      [
+        "法语 fin 结束 → finer 结清 → finance 支付、结算 → 英语 finance",
+        "后来形成资金管理与提供资金的用法"
+      ],
+      [
+        "finance 提供资金 + -ed → financed",
+        "现代叙述谁出了钱、项目靠什么资金完成"
+      ]
+    ],
+    "explanation": "financed by donations 是由捐款资助；publicly financed 是由公共资金支持；financed the project 是为项目提供资金。",
+    "usage": "financed by donations；financed the project；privately financed。",
+    "contrast": "financed 说资金来源、资金支持；paid for 也可说付了钱，但范围更广。financed a project 不直接说明资金是借款、投资还是捐款，需要句子补充。",
+    "examples": [
+      [
+        "The small library was financed by local donations.",
+        "这座小图书馆由当地捐款资助建成。"
+      ],
+      [
+        "The foundation financed the restoration of the old hall.",
+        "基金会资助了旧会堂的修复。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/financed#English",
+      "https://www.etymonline.com/word/finance"
+    ]
+  },
+  {
+    "word": "fisheries",
+    "ipa": "英 /ˈfɪʃəriz/；美 /ˈfɪʃəriz/",
+    "meaning": "渔业；渔场；特定捕捞活动〔复数〕",
+    "sense": "不只是一条鱼，而是围绕某种鱼、某片水域展开的一整套捕捞活动，或这样的生产场所，可以叫 fishery。fisheries 把几种、几处分别说出来。",
+    "split": "fish + -ery 行业、活动或场所 → fishery；复数把 y 变 i，加 -es → fisheries。这里 -ery 是完整词尾。fish 本身属于古英语以来的鱼、捕鱼词族。",
+    "history": [
+      [
+        "fish 捕鱼 + -ery → fishery",
+        "英语形成捕鱼行业、捕捞场所等名词义"
+      ],
+      [
+        "fishery → fisheries",
+        "现代可数不同渔场、捕捞业，也常在机构、研究名称中统称渔业"
+      ]
+    ],
+    "explanation": "coastal fisheries 是沿海渔业；freshwater fisheries 是淡水渔业；fisheries research 是渔业研究。",
+    "usage": "coastal fisheries；freshwater fisheries；fisheries research。",
+    "contrast": "fisher 是捕鱼的人；fishery 说活动、行业或场所。fisheries 不只是“很多渔民”，它把围绕捕鱼展开的生产活动或场所作为单位。",
+    "examples": [
+      [
+        "The report compares coastal fisheries in several regions.",
+        "报告比较了几个地区的沿海渔业。"
+      ],
+      [
+        "She works in fisheries research.",
+        "她从事渔业研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fisheries#English",
+      "https://www.etymonline.com/word/fishery"
+    ]
+  },
+  {
+    "word": "flyers",
+    "ipa": "英 /ˈflaɪəz/；美 /ˈflaɪɚz/",
+    "meaning": "传单；飞行者、乘机者〔复数〕",
+    "sense": "一张张散发出去，让消息到处传播的小纸张，是 flyers。这个词也能指飞行的人或乘机的人，具体看是在谈宣传还是航空。",
+    "split": "fly + -er → flyer，再加 -s → flyers；加 -er 时保留 y。flyer 早指飞行的人或物，传单义与广泛散发的意象有关；另有 flier 拼写。",
+    "history": [
+      [
+        "fly 飞 + -er → flyer 飞行者、飞行之物",
+        "后来有飞行员、经常乘机者等用法"
+      ],
+      [
+        "广泛散发的宣传单页 → flyer → flyers",
+        "不同意思共存，不把每一次 flyers 都理解成空中飞着的人"
+      ]
+    ],
+    "explanation": "hand out flyers 是发传单；promotional flyers 是宣传单；frequent flyers 是经常乘机的人。",
+    "usage": "hand out flyers；promotional flyers；frequent flyers。",
+    "contrast": "flyers 在街头宣传语境通常是传单；frequent flyers 在航空语境通常是常旅客。leaflets 也说传单、小册子，往往强调印刷宣传材料。",
+    "examples": [
+      [
+        "Volunteers handed out flyers about the exhibition.",
+        "志愿者发放了介绍展览的传单。"
+      ],
+      [
+        "The questionnaire asked frequent flyers about their habits.",
+        "问卷询问了常旅客的出行习惯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flyers#English",
+      "https://www.etymonline.com/word/flyer"
+    ]
+  },
+  {
+    "word": "footsteps",
+    "ipa": "英 /ˈfʊtsteps/；美 /ˈfʊtsteps/",
+    "meaning": "脚步；脚步声；前人走过的道路〔复数〕",
+    "sense": "脚落下一步，再落下一步，就是 footsteps。你可以听见脚步声，也可以比喻沿着前人走过的路，做和他们相似的事情。",
+    "split": "foot 脚 + step 步 → footstep，再加 -s → footsteps，/p/ 后读 /s/。复合词早有足迹义，后来脚落地的步子、声音等也常见。",
+    "history": [
+      [
+        "foot + step → footstep",
+        "脚与步合起来，早期可说脚留下的印迹"
+      ],
+      [
+        "脚步、行走踪迹 → footsteps；follow in someone’s footsteps",
+        "现代既有实际行走，也有仿效前人道路的比喻"
+      ]
+    ],
+    "explanation": "hear footsteps 是听见脚步声；heavy footsteps 是沉重的脚步；follow in her footsteps 是走她走过的路、效仿她。",
+    "usage": "hear footsteps；heavy footsteps；follow in someone’s footsteps。",
+    "contrast": "footprints 更明确说留下的脚印；footsteps 常说脚步及其声音。follow in someone’s footsteps 常指职业、行为上的沿袭，不要求真在地上跟着脚印走。",
+    "examples": [
+      [
+        "I heard footsteps outside the room.",
+        "我听见房间外有脚步声。"
+      ],
+      [
+        "She followed in her mother’s footsteps and became a teacher.",
+        "她走上母亲的道路，也成了一名教师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footsteps#English",
+      "https://www.etymonline.com/word/footstep"
+    ]
+  },
+  {
+    "word": "hides",
+    "ipa": "英、美 /haɪdz/",
+    "meaning": "藏起、掩盖〔第三人称单数〕；兽皮〔复数〕",
+    "sense": "把东西挡住，让人看不见，是 hides；动物身上包着的皮，复数也叫 hides。两个意思直接进入英语的路径不同，远处都能联系覆盖。",
+    "split": "hide 保留 e，加 -s → hides，末尾 /dz/。隐藏动词接古英语 hydan；兽皮名词接古英语 hyd。两者远处与覆盖、遮蔽词族相关。",
+    "history": [
+      [
+        "古英语 hydan 隐藏 → hide 动词；hyd 兽皮 → hide 名词",
+        "分别继承两条形式，不把现代兽皮名词简单当成隐藏动词的产物"
+      ],
+      [
+        "hide + -s → hides",
+        "现代可说某人藏物，也可数几张动物皮"
+      ]
+    ],
+    "explanation": "hides a key 是藏起钥匙；hides behind something 是躲在某物后；animal hides 是兽皮。",
+    "usage": "hides a key；hides behind；animal hides。",
+    "contrast": "she hides the box 是动作；animal hides 是名词复数。hidden 是过去分词，hides 是现在时第三人称，不能只凭都与隐藏有关就混用。",
+    "examples": [
+      [
+        "She hides the gift behind the books.",
+        "她把礼物藏在书后面。"
+      ],
+      [
+        "The museum display includes tools once used to prepare hides.",
+        "博物馆展品包括过去用来处理兽皮的工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hides#English",
+      "https://www.etymonline.com/word/hide"
+    ]
+  },
+  {
+    "word": "housed",
+    "ipa": "英、美 /haʊzd/",
+    "meaning": "安置了；容纳着；收藏于〔过去式、过去分词〕",
+    "sense": "给人安排住处，是 housed；把资料、设备放在建筑或容器里，也可以用 housed。像给它们安排了一个能待着的空间。",
+    "split": "house 动词去末尾 e，加完整 -ed → housed。动词 house 的 s 读 /z/，后缀读 /d/，所以 /haʊzd/。承古英语 husian 安置进屋，与 hus 房屋相关。",
+    "history": [
+      [
+        "古英语 hus 房屋、husian 安置进屋 → house",
+        "名词与安置、容纳的动词关系很早便存在"
+      ],
+      [
+        "house + -ed → housed",
+        "现代也说机构、收藏、设备被放置或容纳在某处"
+      ]
+    ],
+    "explanation": "housed in a building 是安置、收藏在一栋建筑中；housed the collection 是收藏了该批藏品；housed the visitors 是为访客安排了住处。",
+    "usage": "housed in；housed the collection；housed the visitors。",
+    "contrast": "名词 house 房子末尾通常 /s/，动词 house 容纳末尾 /z/。housed 常说容纳在某处，不要求被容纳的东西是人。",
+    "examples": [
+      [
+        "The collection is housed in an old school building.",
+        "这批藏品收藏在一栋旧校舍里。"
+      ],
+      [
+        "The hostel housed the visitors for two nights.",
+        "旅舍为访客提供了两晚住处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/housed#English",
+      "https://www.etymonline.com/word/house"
+    ]
+  },
+  {
+    "word": "incorporating",
+    "ipa": "英 /ɪnˈkɔːpəreɪtɪŋ/；美 /ɪnˈkɔːrpəreɪtɪŋ/",
+    "meaning": "纳入；吸收；合并为一体〔分词、动名词〕",
+    "sense": "把一块新材料放进整个方案，让它成为整体的一部分，就是 incorporating。不是只把东西摆在旁边，而是让它参与组成这个整体。",
+    "split": "incorporate 去末尾 e，加完整 -ing → incorporating。in- 进入 + corpor- 身体、整体 + -ate 动词形式材料；接晚期拉丁 incorporare 合成一个身体、整体。",
+    "history": [
+      [
+        "拉丁 corpus 身体 → incorporare 纳入、合成一体 → incorporate",
+        "身体的整体画面扩展到组织、混合物、方案等"
+      ],
+      [
+        "incorporate + -ing → incorporating",
+        "现代常说把建议、内容、成分吸收到原有整体中"
+      ]
+    ],
+    "explanation": "incorporating feedback 是吸收反馈；incorporating changes 是纳入修改；incorporating something into a plan 是把某物纳入计划。",
+    "usage": "incorporating feedback；incorporating changes；incorporating into。",
+    "contrast": "add 常只说增加；incorporate 更突出加入之后成为整体的一部分。incorporating feedback 常表示依据反馈调整内容，具体改法由上下文说明。",
+    "examples": [
+      [
+        "We are incorporating your comments into the next draft.",
+        "我们正在把你的意见纳入下一版草稿。"
+      ],
+      [
+        "The design succeeds by incorporating natural light.",
+        "这个设计通过引入自然光取得了良好效果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incorporating#English",
+      "https://www.etymonline.com/word/incorporate"
+    ]
+  },
+  {
+    "word": "injected",
+    "ipa": "英、美 /ɪnˈdʒektɪd/",
+    "meaning": "注入了；注射了；使增添了",
+    "sense": "把某种东西送进原来的内部，是 injected。可以是液体被注入，也可以比喻一句笑话给沉闷讨论添进一点活力。",
+    "split": "inject + 完整 -ed → injected，/t/ 后读 /ɪd/。in- 向内 + -ject- 投；接拉丁 inicere 投入、放入，相关分词 iniectus 提供了英语词干材料。",
+    "history": [
+      [
+        "拉丁 in- + iacere 投 → inicere、iniectus → inject",
+        "英语早期用于把液体送入体内等语境"
+      ],
+      [
+        "inject + -ed → injected",
+        "现代也比喻给活动注入新意、活力、幽默等"
+      ]
+    ],
+    "explanation": "injected into 是注入某物之中；injected energy into 是给……增添活力；injected humour into 是给……加入幽默。",
+    "usage": "injected into；injected energy into；injected humour into。",
+    "contrast": "injected 强调进入内部、加入原有事物的动作。注入活力的用法是比喻，句子直接说注入什么，不需要对应某一种具体液体。",
+    "examples": [
+      [
+        "In the demonstration, coloured water was injected into the clear container.",
+        "演示中，带颜色的水被注入透明容器。"
+      ],
+      [
+        "Her joke injected some humour into the discussion.",
+        "她的笑话给讨论增添了一点幽默。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/injected#English",
+      "https://www.etymonline.com/word/inject"
+    ]
+  },
+  {
+    "word": "insured",
+    "ipa": "英 /ɪnˈʃʊəd/；美 /ɪnˈʃʊɚd/",
+    "meaning": "投保了的；由保险承保的；承保了",
+    "sense": "某样东西有相应保险安排，就可以说它 is insured。重点是保险关系存在；至于具体保什么、怎么赔，要看句子和保单内容。",
+    "split": "insure 去末尾 e，加完整 -ed → insured，后缀读 /d/。insure 与 ensure 是历史拼写变体关系，经法语使安全、使可靠的词族而来；in- 在这里不是否定。",
+    "history": [
+      [
+        "法语 en- 使 + seur、sur 安全、可靠 → ensure、insure",
+        "历史上的一般保证、安全义逐渐分化"
+      ],
+      [
+        "insure 的商业保险义突出 + -ed → insured",
+        "现代常描述人或财物已安排保险，也可作被保险人的名词"
+      ]
+    ],
+    "explanation": "an insured vehicle 是已投保车辆；insured against something 是针对某风险投保；the insured 可指被保险人。",
+    "usage": "an insured vehicle；insured against；the insured。",
+    "contrast": "现代 insure 常明确谈保险，ensure 常说确保事情发生。insured 表示已有保险安排，并不单凭这个词就说明所有损失都在保障范围内。",
+    "examples": [
+      [
+        "The van was insured before the trip.",
+        "出行前，这辆货车已经投保。"
+      ],
+      [
+        "The painting was insured during transport.",
+        "这幅画运输期间有保险保障。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insured#English",
+      "https://www.etymonline.com/word/insure"
+    ]
+  },
+  {
+    "word": "intends",
+    "ipa": "英、美 /ɪnˈtendz/",
+    "meaning": "打算；意欲；为某用途而设〔第三人称单数〕",
+    "sense": "心里已经把下一步指向某件事，是 intends。它讲的是计划、意图，事情还不一定已经发生。",
+    "split": "intend + -s → intends，/d/ 后读 /z/。in- 朝向 + tend- 伸；经法语接拉丁 intendere 伸向、把注意力朝向、打算。",
+    "history": [
+      [
+        "拉丁 intendere 伸向、注意、打算 → 法语 entendre、intendre → intend",
+        "向某方向用力的画面也用于心思、计划的指向"
+      ],
+      [
+        "intend + -s → intends",
+        "现代常用 intends to do 或 intends something for 某用途"
+      ]
+    ],
+    "explanation": "intends to stay 是打算留下；intends to apply 是打算申请；intends something as a gift 是打算把它作为礼物。",
+    "usage": "intends to do；intends something for；intends something as。",
+    "contrast": "intends 说意图，does 说实际行动。She intends to leave 说明她打算离开，离开是否已经发生还要另看时间和上下文。",
+    "examples": [
+      [
+        "She intends to stay until Friday.",
+        "她打算待到星期五。"
+      ],
+      [
+        "He intends the book as a gift for his sister.",
+        "他打算把这本书送给妹妹作礼物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intends#English",
+      "https://www.etymonline.com/word/intend"
+    ]
+  },
+  {
+    "word": "killings",
+    "ipa": "英、美 /ˈkɪlɪŋz/",
+    "meaning": "杀害、杀戮事件〔复数〕",
+    "sense": "把夺去生命的行为或事件一件件数出来，可以说 killings。它先描述致死行为；行为的具体性质要靠上下文交代。",
+    "split": "kill + -ing 构成动作名词 killing，再加 -s → killings。原词 kill 已有双 l，加 -ing 时直接保留；复数后缀在 /ŋ/ 后读 /z/。",
+    "history": [
+      [
+        "kill 使死亡 → killing 杀害行为名词",
+        "动作名词在英语中历史很早，后来另有大赚等口语用法"
+      ],
+      [
+        "killing + -s → killings",
+        "现代复数通常指几起杀害事件，不把单数习语大赚随意套给复数"
+      ]
+    ],
+    "explanation": "the killings 是这些杀害事件；a series of killings 是接连发生的杀害事件；investigate the killings 是调查这些事件。",
+    "usage": "the killings；a series of killings；investigate the killings。",
+    "contrast": "killings 指致死行为或事件；murders 更明确指谋杀。make a killing 大赚是一个单独记忆的单数习语，和新闻里 killings 的常见意思不同。",
+    "examples": [
+      [
+        "The documentary examines the killings and their aftermath.",
+        "纪录片探讨了这些杀害事件及其后续影响。"
+      ],
+      [
+        "The novel connects the killings to an old family dispute.",
+        "小说把这些杀害事件与一场旧家族纠纷联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/killings#English",
+      "https://www.etymonline.com/word/killing"
+    ]
+  },
+  {
+    "word": "liberties",
+    "ipa": "英 /ˈlɪbətiz/；美 /ˈlɪbɚtiz/",
+    "meaning": "各项自由、权利；越界的行为〔复数〕",
+    "sense": "一个人能自主行动、表达的不同方面，可以合称 liberties。另一个常见搭配 take liberties，则是自行多走了一步，超出了合适或获准的范围。",
+    "split": "liberty 变 y 为 i，加 -es → liberties。经法语 liberte 接拉丁 libertas 自由、许可，来自 liber 自由的；英语 -ty 对应这类状态名词形式。",
+    "history": [
+      [
+        "拉丁 liber 自由的 → libertas → 法语 liberte → liberty",
+        "英语有个人自由、获准范围、特权等用法"
+      ],
+      [
+        "liberty → liberties；take liberties",
+        "复数可列举各项自由；搭配中也可表示过度自作主张"
+      ]
+    ],
+    "explanation": "civil liberties 是公民自由；individual liberties 是个人的各项自由；take liberties with a text 是对文本擅自大改。",
+    "usage": "civil liberties；individual liberties；take liberties with。",
+    "contrast": "liberty 可以统说自由，liberties 可说自由的不同方面。take liberties with the facts 常带批评，意思是随意改动事实，不是认真维护事实的自由。",
+    "examples": [
+      [
+        "The essay discusses the balance between security and civil liberties.",
+        "文章讨论了安全与公民自由之间的平衡。"
+      ],
+      [
+        "The adaptation takes liberties with the original story.",
+        "这部改编作品对原作故事作了相当随意的改动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/liberties#English",
+      "https://www.etymonline.com/word/liberty"
+    ]
+  },
+  {
+    "word": "minors",
+    "ipa": "英 /ˈmaɪnəz/；美 /ˈmaɪnɚz/",
+    "meaning": "未成年人；辅修科目〔复数〕；辅修〔第三人称单数〕",
+    "sense": "minor 原来抓住较小、较年轻、较次要这个方向。说人时，minors 常指未成年人；大学里则可以说主修之外的辅修科目。",
+    "split": "minor + -s → minors，末尾 /z/。minor 经拉丁 minor 较小、较少、较年轻进入英语，也有法语影响；这里的 -or 属历史比较形式，不是现代职业人后缀。",
+    "history": [
+      [
+        "拉丁 minor 较小、较年轻 → minor",
+        "英语发展出年龄尚未达到相应成年界限的人这个名词用法"
+      ],
+      [
+        "minor 次要学习方向、辅修 → minors",
+        "现代学业语境也能说多个辅修科目，或某人辅修某学科"
+      ]
+    ],
+    "explanation": "adults and minors 是成年人和未成年人；majors and minors 是主修与辅修科目；minors in history 是辅修历史。",
+    "usage": "adults and minors；majors and minors；minors in history。",
+    "contrast": "minors 在年龄语境指未成年人；minor problems 中 minor 是较小、不太严重的形容词。判断成年界限要看具体情境，词本身不携带全球统一年龄。",
+    "examples": [
+      [
+        "The study compares responses from adults and minors.",
+        "研究比较了成年人和未成年人的回答。"
+      ],
+      [
+        "She majors in physics and minors in history.",
+        "她主修物理，辅修历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/minors#English",
+      "https://www.etymonline.com/word/minor"
+    ]
+  },
+  {
+    "word": "monuments",
+    "ipa": "英 /ˈmɒnjʊmənts/；美 /ˈmɑːnjəmənts/",
+    "meaning": "纪念碑、纪念物；重要历史遗存〔复数〕",
+    "sense": "留下一个能让后来的人记住某个人、某件事的东西，是 monument 的核心画面。monuments 可以是纪念碑，也可以是具有历史意义的建筑遗存。",
+    "split": "monument + -s → monuments。接法语、拉丁 monumentum 纪念物，来自 monere 提醒、让人记起；mon- 提醒与 -ment 名词材料组合，现代再加复数。",
+    "history": [
+      [
+        "拉丁 monere 使记起 → monumentum 纪念物、记录等 → monument",
+        "英语早期也用于墓与墓上纪念物"
+      ],
+      [
+        "纪念结构、重要遗存及持久见证 → monuments",
+        "现代使用范围超过单一形状的石碑"
+      ]
+    ],
+    "explanation": "historic monuments 是历史古迹；war monuments 是战争纪念物；preserve monuments 是保存古迹、纪念物。",
+    "usage": "historic monuments；ancient monuments；preserve monuments。",
+    "contrast": "monument 常强调纪念意义、历史价值或作为见证；statue 强调雕像的形体。一座 statue 可以同时是 monument，但 monument 也可以是建筑或碑。",
+    "examples": [
+      [
+        "The city has several monuments to its founders.",
+        "这座城市有几处纪念建城者的纪念物。"
+      ],
+      [
+        "The exhibition shows drawings of ancient monuments.",
+        "展览展示了古代遗迹的图画。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/monuments#English",
+      "https://www.etymonline.com/word/monument"
+    ]
+  },
+  {
+    "word": "mortgages",
+    "ipa": "英 /ˈmɔːɡɪdʒɪz/；美 /ˈmɔːrɡɪdʒɪz/",
+    "meaning": "抵押贷款、按揭〔复数〕；将财产抵押〔第三人称单数〕",
+    "sense": "用房产等财产作担保来借款，是 mortgage 的常见场景。mortgages 可以数几笔抵押贷款；动词则说某人把财产拿去抵押。",
+    "split": "mortgage 保留 e，加 -s → mortgages，/dʒ/ 后读 /ɪz/，中间 t 不发音。接古法语 mort gage：mort 死的 + gage 抵押、担保物。",
+    "history": [
+      [
+        "古法语 mort gage 字面死的抵押 → mortgage",
+        "传统词源解释把死与债务清偿或履约失败时原抵押安排的终结联系起来"
+      ],
+      [
+        "抵押安排、相应贷款与抵押动词 → mortgages",
+        "现代具体权利义务依制度与合同，词汇学习先抓财产担保借款"
+      ]
+    ],
+    "explanation": "home mortgages 是住房抵押贷款；several mortgages 是几笔按揭；mortgages a property 是把房产抵押。",
+    "usage": "home mortgages；several mortgages；mortgages a property。",
+    "contrast": "loan 泛指贷款；mortgage 常涉及以房产等财产作担保。the mortgages 是几笔贷款；he mortgages the house 是他把房子抵押的动作。",
+    "examples": [
+      [
+        "The report compares several types of mortgages.",
+        "报告比较了几类抵押贷款。"
+      ],
+      [
+        "In the novel, he mortgages the house to save the workshop.",
+        "小说里，他为保住作坊把房子抵押了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mortgages#English",
+      "https://www.etymonline.com/word/mortgage"
+    ]
+  },
+  {
+    "word": "objections",
+    "ipa": "英、美 /əbˈdʒekʃənz/",
+    "meaning": "反对意见；异议〔复数〕",
+    "sense": "别人提出一个方案，你把不同意的理由摆出来，让它成为必须回应的问题，这些理由就是 objections。",
+    "split": "objection + -s → objections。接拉丁 obiectio，来自 obicere 迎面投放、反对的分词词干 obiect-；ob- 面前、对着 + iacere 投，配 -ion 名词词尾。",
+    "history": [
+      [
+        "拉丁 ob- + iacere → obicere、obiect- → obiectio",
+        "放到面前、挡在前面的画面发展出反对理由"
+      ],
+      [
+        "法语等 → objection → objections",
+        "现代可数几条不同的异议、反对意见"
+      ]
+    ],
+    "explanation": "raise objections 是提出异议；objections to a plan 是对计划的反对意见；address objections 是回应异议。",
+    "usage": "raise objections；objections to；address objections。",
+    "contrast": "objections 表达反对或不认可；questions 可以只是为了弄清情况。objection to 后面接反对的对象，可能是名词，也可能是动名词。",
+    "examples": [
+      [
+        "She raised two objections to the proposal.",
+        "她对提议提出了两条反对意见。"
+      ],
+      [
+        "The revised plan addresses their main objections.",
+        "修改后的计划回应了他们的主要异议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/objections#English",
+      "https://www.etymonline.com/word/objection"
+    ]
+  },
+  {
+    "word": "preaching",
+    "ipa": "英、美 /ˈpriːtʃɪŋ/",
+    "meaning": "布道；宣讲；说教〔分词、动名词〕",
+    "sense": "站出来向人郑重讲信仰、道理，是 preaching。用在日常抱怨里，也可能是嫌对方一直摆出教训人的口气。",
+    "split": "preach + 完整 -ing → preaching，直接加后缀。preach 有古英语教会借词与后来法语再借入的路径，远接拉丁 praedicare 公开宣告，含 prae- 在前与 dicare 宣说。",
+    "history": [
+      [
+        "拉丁 praedicare 公开宣告 → 教会拉丁、古英语及法语相关形式 → preach",
+        "宗教宣讲是重要历史用法"
+      ],
+      [
+        "preach + -ing → preaching",
+        "现代既可中性说布道、宣讲，也可带不耐烦地说说教"
+      ]
+    ],
+    "explanation": "preaching a sermon 是讲道；preaching tolerance 是倡导宽容；stop preaching 是别再说教。",
+    "usage": "preaching a sermon；preaching tolerance；stop preaching。",
+    "contrast": "preaching 在宗教场景未必有贬义；You’re preaching at me 常表示听者觉得被教训。teaching 更中性地强调传授知识、技能。",
+    "examples": [
+      [
+        "The minister was preaching to a small congregation.",
+        "牧师正在向一小群会众布道。"
+      ],
+      [
+        "I wanted practical help, not more preaching.",
+        "我想要的是实际帮助，不是更多说教。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preaching#English",
+      "https://www.etymonline.com/word/preach"
+    ]
+  },
+  {
+    "word": "princes",
+    "ipa": "英、美 /ˈprɪnsɪz/",
+    "meaning": "王子；亲王等贵族、统治者称号〔复数〕",
+    "sense": "童话里的 princes 常是王子；历史里也可能是亲王、某些地方统治者。它背后的旧画面是站在前面、居于首位的领头人。",
+    "split": "prince 保留 e，加 -s → princes，/s/ 后读 /ɪz/。经法语 prince 接拉丁 princeps、princip- 首领，来自 primus 第一与 capere 取的词根材料。",
+    "history": [
+      [
+        "拉丁 primus 第一 + capere 取 → princeps 首领 → 法语 prince → prince",
+        "早期英语有领袖、统治者等广义用法"
+      ],
+      [
+        "王室成员、特定贵族头衔等 → princes",
+        "现代具体译法随国家、时代和身份变化"
+      ]
+    ],
+    "explanation": "fairy-tale princes 是童话王子；two princes 是两位王子、亲王；princes and princesses 是王子和公主等王室人物。",
+    "usage": "two princes；princes and princesses；fairy-tale princes。",
+    "contrast": "prince 的具体头衔义依背景判断；不能看到复数就确定每个人都是国王的儿子。principal 的首要与 prince 的首领，在更早词源上相连。",
+    "examples": [
+      [
+        "The story follows two princes who take different paths.",
+        "故事讲述两位走上不同道路的王子。"
+      ],
+      [
+        "The portrait gallery includes several princes and princesses.",
+        "肖像馆里有几位王子和公主的画像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/princes#English",
+      "https://www.etymonline.com/word/prince"
+    ]
+  },
+  {
+    "word": "scheduling",
+    "ipa": "英 /ˈʃedjuːlɪŋ/；美 /ˈskedʒuːlɪŋ/",
+    "meaning": "排期；安排时间、任务〔分词、动名词〕",
+    "sense": "把会议、课程或任务放到合适的时间格子里，就是 scheduling。重点是决定什么时候做，怎样与其他安排配合。",
+    "split": "schedule 去末尾 e，加完整 -ing → scheduling。schedule 经法语接拉丁 schedula 小纸条，来自 scheda 纸片与表示小的 -ula；写着事项的小纸条后来发展出表格、时间表等义。",
+    "history": [
+      [
+        "拉丁 schedula 小纸条 → 法语 cedule → schedule",
+        "表列事项、明细发展为时刻表等用法"
+      ],
+      [
+        "schedule 安排入表 + -ing → scheduling",
+        "现代用于人的日程，也用于任务、机器运行的时间安排"
+      ]
+    ],
+    "explanation": "scheduling a meeting 是安排会议时间；scheduling conflicts 是时间安排冲突；task scheduling 是任务调度。",
+    "usage": "scheduling a meeting；scheduling conflicts；task scheduling。",
+    "contrast": "planning 泛指做计划；scheduling 更关注时间先后、时段和可用空档。英式常以 /ʃ/ 开头，美式常以 /sk/ 开头，都是常见读法。",
+    "examples": [
+      [
+        "We are scheduling the interviews for next week.",
+        "我们正在把面试安排到下周。"
+      ],
+      [
+        "A scheduling conflict prevented her from attending.",
+        "时间安排冲突使她没能参加。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scheduling#English",
+      "https://www.etymonline.com/word/schedule"
+    ]
+  },
+  {
+    "word": "shootings",
+    "ipa": "英、美 /ˈʃuːtɪŋz/",
+    "meaning": "枪击事件〔复数〕",
+    "sense": "新闻或叙事里说 several shootings，通常是在数几起有人开枪的事件。shooting 把 shoot 的动作当作一件事来讲，再用复数区分不同事件。",
+    "split": "shoot + -ing 动作名词 → shooting，再加 -s → shootings；双 o 保留，末尾后缀读 /z/。shoot 承古英语 sceotan 发射、迅速向外运动等词族。",
+    "history": [
+      [
+        "古英语 shoot 词族及 scotung 射击动作名词 → shooting",
+        "早期射出箭等动作，后来对象与用途随时代变化"
+      ],
+      [
+        "shooting 具体枪击事件 + -s → shootings",
+        "现代新闻、小说语境常用这个复数数不同枪击事件"
+      ]
+    ],
+    "explanation": "a series of shootings 是接连发生的枪击事件；the shootings 是这些枪击事件；reports of shootings 是枪击事件报道。",
+    "usage": "a series of shootings；the shootings；reports of shootings。",
+    "contrast": "shooting 单数也常统说射击活动或摄影、拍摄；shootings 在常见报道语境通常指枪击事件。数量和语境一起决定意思。",
+    "examples": [
+      [
+        "The documentary examines a series of shootings.",
+        "纪录片探讨了一连串枪击事件。"
+      ],
+      [
+        "The novel links the two shootings through a shared clue.",
+        "小说通过一条共同线索把两起枪击事件联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shootings#English",
+      "https://www.etymonline.com/word/shooting"
+    ]
+  },
+  {
+    "word": "slipping",
+    "ipa": "英、美 /ˈslɪpɪŋ/",
+    "meaning": "滑动、滑落；溜走；逐渐下降〔分词、动名词〕",
+    "sense": "脚底没抓牢，或手里的东西慢慢往下滑，都是 slipping。注意力、水平、时间也能像东西滑走一样，渐渐离开原来状态。",
+    "split": "slip 双写 p，加完整 -ing → slipping。slip 接日耳曼滑动词族，直接来自未见记录的古英语形式还是相关低地日耳曼材料，仍有不同解释。",
+    "history": [
+      [
+        "日耳曼滑动、滑行词族 → slip",
+        "英语有轻快移动、失脚打滑、滑离原位等用法"
+      ],
+      [
+        "slip + -ing → slipping",
+        "现代也比喻水平下降、注意力流失或机会溜走"
+      ]
+    ],
+    "explanation": "slipping on ice 是在冰上打滑；slipping from her hand 是从她手中滑落；slipping away 是溜走、逐渐流失。",
+    "usage": "slipping on ice；slipping from one’s hand；slipping away。",
+    "contrast": "slipping 往往突出失去抓力或悄悄滑离；falling 更直接说落下。slipping standards 是标准逐渐下滑，保留了慢慢离开原有位置的比喻。",
+    "examples": [
+      [
+        "The bag kept slipping from her shoulder.",
+        "包总是从她肩上往下滑。"
+      ],
+      [
+        "I noticed my attention slipping during the long meeting.",
+        "漫长会议中，我察觉自己的注意力渐渐涣散。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slipping#English",
+      "https://www.etymonline.com/word/slip"
+    ]
+  },
+  {
+    "word": "spreads",
+    "ipa": "英、美 /spredz/",
+    "meaning": "铺开；扩散；涂抹〔第三人称单数〕；涂抹食品等〔复数〕",
+    "sense": "原来集中在一处，现在向更大范围铺开，是 spreads。果酱被抹开、消息传到更多人那里，都可以抓住这个共同画面。",
+    "split": "spread + -s → spreads，/d/ 后读 /z/。spread 接古英语相关形式与日耳曼铺开、延展词族；后来也形成展开范围、涂抹食品等名词。",
+    "history": [
+      [
+        "古英语、日耳曼铺开词族 → spread 动词",
+        "物体展开、向外分散与信息传播等用法并存"
+      ],
+      [
+        "spread 动词及涂抹物等名词 + -s → spreads",
+        "现代动词第三人称与名词复数同形"
+      ]
+    ],
+    "explanation": "spreads quickly 是迅速传播；spreads butter 是涂黄油；sweet spreads 是甜味涂抹食品。",
+    "usage": "spreads quickly；spreads butter；sweet spreads。",
+    "contrast": "the news spreads 是消息扩散；a selection of spreads 是几种适合涂抹的食品。spread 的两个方向都能联系从一小处铺到较大表面。",
+    "examples": [
+      [
+        "News spreads quickly in a small town.",
+        "小镇上的消息传得很快。"
+      ],
+      [
+        "The café serves several spreads with the bread.",
+        "咖啡馆随面包供应几种涂抹酱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spreads#English",
+      "https://www.etymonline.com/word/spread"
+    ]
+  },
+  {
+    "word": "stickers",
+    "ipa": "英 /ˈstɪkəz/；美 /ˈstɪkɚz/",
+    "meaning": "贴纸；黏性标签〔复数〕",
+    "sense": "背面能粘住，贴到本子、包装或别的表面上的小纸片，是 stickers。抓住“能贴住的小东西”，意思就很直接。",
+    "split": "stick 黏附 + -er 人或物 → sticker，再加 -s → stickers。sticker 早有刺、固定之物等用法，后来黏性标签义常见；-er 在这里可以构成物品名。",
+    "history": [
+      [
+        "stick 刺入、固定、黏住词族 → sticker",
+        "-er 不只命名人，也可命名具有相关作用的东西"
+      ],
+      [
+        "黏性标签这一用法 → stickers",
+        "现代日常重点是装饰贴纸、标识标签等"
+      ]
+    ],
+    "explanation": "colourful stickers 是彩色贴纸；put stickers on 是把贴纸贴在上面；price stickers 是价格标签。",
+    "usage": "colourful stickers；put stickers on；price stickers。",
+    "contrast": "sticker 强调能粘贴；label 强调标识内容和作用，可能用其他方法固定。一张价格贴纸既可以叫 sticker，也可以叫 label。",
+    "examples": [
+      [
+        "She decorated her notebook with stickers.",
+        "她用贴纸装饰了自己的笔记本。"
+      ],
+      [
+        "The boxes had bright stickers showing their contents.",
+        "箱子上贴着醒目的标签，说明里面装了什么。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stickers#English",
+      "https://www.etymonline.com/word/sticker"
+    ]
+  },
+  {
+    "word": "strengthened",
+    "ipa": "英、美 /ˈstreŋθənd/",
+    "meaning": "加强了；加固了；变得更强了",
+    "sense": "原来不够结实、不够稳，现在更能撑得住，是 strengthened。梁柱可以加固，信心、联系、论据也可以被加强。",
+    "split": "strength 力量 + 完整 -en 使、变得 → strengthen，再加完整 -ed → strengthened，/n/ 后读 /d/。strength 承古英语 strengþu 强大、力量，与 strong 同词族。",
+    "history": [
+      [
+        "古英语 strengþu 力量 → strength；strength + -en → strengthen",
+        "名词用 -en 形成使更强、变更强的动词"
+      ],
+      [
+        "strengthen + -ed → strengthened",
+        "现代实体结构与抽象关系都可以变得更强、更稳"
+      ]
+    ],
+    "explanation": "strengthened the bridge 是加固了桥；strengthened ties 是加强了联系；strengthened the argument 是增强了论证。",
+    "usage": "strengthened the bridge；strengthened ties；strengthened the argument。",
+    "contrast": "strong 描述强，strength 是力量，strengthen 是使更强。strengthened 可以叙述加强动作，也可以在结构中描述已经得到加固的状态。",
+    "examples": [
+      [
+        "The extra supports strengthened the roof.",
+        "额外支架加固了屋顶。"
+      ],
+      [
+        "Their shared experience strengthened their friendship.",
+        "共同经历加深了他们的友谊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strengthened#English",
+      "https://www.etymonline.com/word/strengthen"
+    ]
+  },
+  {
+    "word": "truths",
+    "ipa": "英、美 /truːðz/，也读 /truːθs/",
+    "meaning": "真实事实；真实陈述；道理〔复数〕",
+    "sense": "truth 可以统说真实性；把一件件确实如此的事分别讲出来，就是 truths。hard truths 是那些虽然真实，却让人不容易接受的事实。",
+    "split": "truth + -s → truths。truth 与 true 同词族，-th 是历史上构成抽象名词的词尾；整个 truth 继承古英语 triewð 等形式。复数有 /ðz/ 与 /θs/ 两种读法。",
+    "history": [
+      [
+        "古英语忠诚、可信、真实词族 → truth",
+        "从可靠、真实的性质，也发展出一条真实陈述的可数用法"
+      ],
+      [
+        "truth 可数事实 + -s → truths",
+        "现代说几条事实、道理，或不同方面的真实情况"
+      ]
+    ],
+    "explanation": "hard truths 是难以接受的事实；simple truths 是朴素的道理；uncomfortable truths 是令人不舒服的真相。",
+    "usage": "hard truths；simple truths；uncomfortable truths。",
+    "contrast": "the truth 常统说事实真相；several truths 则分开数几条真实陈述。复数发音存在变体，听到 /ðz/ 或 /θs/ 都可能是 truths。",
+    "examples": [
+      [
+        "The book explores some uncomfortable truths about ambition.",
+        "这本书探讨了一些有关野心、让人不太舒服的真相。"
+      ],
+      [
+        "She explained two simple truths about teamwork.",
+        "她解释了团队合作中的两个朴素道理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/truths#English",
+      "https://www.etymonline.com/word/truth"
+    ]
+  },
+  {
+    "word": "urges",
+    "ipa": "英 /ˈɜːdʒɪz/；美 /ˈɝːdʒɪz/",
+    "meaning": "强烈欲望、冲动〔复数〕；敦促〔第三人称单数〕",
+    "sense": "心里有股力量推着你去做某事，是 an urge；别人用话推你尽快行动，是 urges。两种用法都能抓住推动、催促的感觉。",
+    "split": "urge 保留 e，加 -s → urges，/dʒ/ 后读 /ɪz/。接拉丁 urgere 用力推、逼迫、驱动；更远来源仍有不同解释。",
+    "history": [
+      [
+        "拉丁 urgere 推压、催促 → urge 动词",
+        "英语有强力推动、恳切劝说等用法"
+      ],
+      [
+        "urge 动词 → 内心驱动力名词；加 -s → urges",
+        "现代冲动复数与敦促第三人称同形"
+      ]
+    ],
+    "explanation": "competing urges 是相互冲突的冲动；sudden urges 是突然的强烈欲望；urges someone to do 是敦促某人做。",
+    "usage": "competing urges；sudden urges；urges someone to do。",
+    "contrast": "the urges 是内心的一股股冲动；she urges him to stay 是她劝他留下。ask 比较宽泛，urge 更突出强烈、恳切地推动对方。",
+    "examples": [
+      [
+        "The character struggles with competing urges to stay and leave.",
+        "这个人物在想留下和想离开的两股冲动之间挣扎。"
+      ],
+      [
+        "She urges the team to consider another approach.",
+        "她敦促团队考虑另一种方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/urges#English",
+      "https://www.etymonline.com/word/urge"
+    ]
+  },
+  {
+    "word": "weighs",
+    "ipa": "英、美 /weɪz/",
+    "meaning": "称重；重达；权衡〔第三人称单数〕",
+    "sense": "放到秤上，看看有多重，是 weighs。把两种选择放进心里的天平，比较哪边更有分量，也是 weighs 的常用比喻。",
+    "split": "weigh + -s → weighs，/weɪz/，gh 在这里不发音。weigh 承古英语 wegan 移动、承载、称量、具有重量等，历史中提升、承起与测重相联系。",
+    "history": [
+      [
+        "古英语 wegan 承载、称量等 → weigh",
+        "更早词族与移动、承载有关，称重是其发展方向之一"
+      ],
+      [
+        "实际称重 → 比喻衡量；加 -s → weighs",
+        "现代可说称某物、某物重多少，也可说衡量意见或选择"
+      ]
+    ],
+    "explanation": "weighs the parcel 是称包裹；weighs two kilos 是重两千克；weighs the options 是权衡选择。",
+    "usage": "weighs the parcel；weighs two kilos；weighs the options。",
+    "contrast": "She weighs the box 是她在称盒子；the box weighs two kilos 是盒子重两千克。weight 是重量名词，weigh 是称量、权衡动词。",
+    "examples": [
+      [
+        "The parcel weighs less than a kilo.",
+        "包裹不到一千克重。"
+      ],
+      [
+        "He weighs each option before making a decision.",
+        "他作决定前会权衡每个选项。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weighs#English",
+      "https://www.etymonline.com/word/weigh"
+    ]
+  },
+  {
+    "word": "assistants",
+    "ipa": "英、美 /əˈsɪstənts/",
+    "meaning": "助手；助理〔复数〕",
+    "sense": "站在旁边帮忙，让另一人的工作能顺利推进，这些人就是 assistants。可以在课堂、商店、研究或办公等不同场景帮忙。",
+    "split": "assistant + -s → assistants。assist 帮助 + -ant 人；历史接拉丁 assistere 站在旁边、帮助的分词名词形式，含 ad- 朝向与 sistere 站立。",
+    "history": [
+      [
+        "拉丁 ad- + sistere → assistere 站在旁边、帮助 → assist 词族",
+        "assistant 直接历史材料来自相关拉丁分词名词，后来拼写受法语影响"
+      ],
+      [
+        "assistant 助手 + -s → assistants",
+        "现代称协助工作的人员，末尾 /nts/"
+      ]
+    ],
+    "explanation": "research assistants 是研究助理；teaching assistants 是助教；shop assistants 是店员。",
+    "usage": "research assistants；teaching assistants；shop assistants。",
+    "contrast": "assistants 强调协助工作的人；assistance 是帮助这件事，通常不可数。assistant 有时还是职位名称的一部分，具体职责由工作场景说明。",
+    "examples": [
+      [
+        "Two assistants helped prepare the exhibition.",
+        "两名助手帮助筹备了展览。"
+      ],
+      [
+        "The teaching assistants answered questions after class.",
+        "助教们课后回答了问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assistants#English",
+      "https://www.etymonline.com/word/assistant",
+      "https://www.etymonline.com/word/assist"
+    ]
+  },
+  {
+    "word": "bonding",
+    "ipa": "英 /ˈbɒndɪŋ/；美 /ˈbɑːndɪŋ/",
+    "meaning": "黏合；结合；建立感情联系〔分词、动名词〕",
+    "sense": "把原来分开的东西牢牢连起来，是 bonding。对象是材料时说黏合、结合；对象是人时，则说一起相处，让关系变得更亲近。",
+    "split": "bond + 完整 -ing → bonding。bond 原指系住、联结的东西，与 band、bind 相关，再形成联结动词；现代 -ing 可说动作或活动。",
+    "history": [
+      [
+        "bond 系住、联结之物 → bond 动词",
+        "材料等对象可以被联结、固定在一起"
+      ],
+      [
+        "人与人建立联系等扩展 + -ing → bonding",
+        "现代情感联系与材料黏合是不同对象上的常用分支"
+      ]
+    ],
+    "explanation": "bonding with someone 是与某人建立亲近关系；team bonding 是团队成员增进联系；bonding materials 是黏合材料的动作或相关材料，依句法判断。",
+    "usage": "bonding with；team bonding；a bonding experience。",
+    "contrast": "bonding 强调联系在建立、加深的过程；a bond 说已经存在的联系。谈材料的 bonding 时，更直接关注东西怎样结合在一起。",
+    "examples": [
+      [
+        "Cooking together became a bonding experience for the family.",
+        "一起做饭成了让这家人更亲近的经历。"
+      ],
+      [
+        "The workshop covered cutting, shaping and bonding the materials.",
+        "工作坊介绍了材料的切割、塑形与黏合。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bonding#English",
+      "https://www.etymonline.com/word/bond"
+    ]
+  }
+]

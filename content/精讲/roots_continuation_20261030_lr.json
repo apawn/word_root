@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B3870",
+    "meaning": "丝的纤维、材料及柔滑性质，连接产丝动物与工艺",
+    "core": "SILK：细丝织成布，顺滑感觉再借给别的东西",
+    "image": "silk → silky、silken；silkworm、silkscreen 按动物、工艺分开。",
+    "intro": "silk 看材料，silky、silken 可以看丝般触感；worm 是旧小虫名称，screen 是印刷工艺中的网版。",
+    "forms": "seoloc、seolc → silk；-y、-en 性质或材料；silk + worm、screen。更早借词路线有讨论。",
+    "branches": [
+      [
+        "材料与相似性质",
+        "silk · silky · silken"
+      ],
+      [
+        "产丝动物与工艺名称",
+        "silkworm · silkscreen"
+      ]
+    ],
+    "contrasts": "silky 不保证成分真丝；silken 也可比喻；silkworm 是蛾类幼虫。",
+    "practice": "The silken fabric had a smooth, silky feel.\n\n丝织物摸起来柔滑如丝。",
+    "words": [
+      "silk",
+      "silky",
+      "silken",
+      "silkworm",
+      "silkscreen"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3412",
+    "meaning": "传播立场的活动、材料，及参与者、性质",
+    "core": "PROPAGANDA：材料怎么安排，想把观点推向哪边",
+    "image": "propaganda → propagandist、propagandistic。",
+    "intro": "信息材料、从事宣传的人、作品的宣传特点分开看。词源传播义帮助理解，现代评价仍需结合立场、方法和事实。",
+    "forms": "propagāre 传播 → 机构相关名称 propaganda → 广义宣传；-ist 人物，-istic 性质。",
+    "branches": [
+      [
+        "材料、人物与性质",
+        "propaganda · propagandist · propagandistic"
+      ]
+    ],
+    "contrasts": "宣传不必每句虚假；propagandistic 常带批评；人物和性质后缀不同。",
+    "practice": "The propagandist designed images with a strongly propagandistic message.\n\n宣传者设计的图像带有强烈的宣传鼓动信息。",
+    "words": [
+      "propaganda",
+      "propagandist",
+      "propagandistic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3506",
+    "meaning": "雄兽、货币与抗拒，近形扣具和丰满词另有来历",
+    "core": "BUCK：动物、钱、抗拒先分场景，再比较近形词",
+    "image": "buck → roebuck、buckskin、buckshot；buckle → buckling 单列；buxom 单列；humbucker 取抗拒动作分支。",
+    "intro": "外形相似的词放在一起，不等于统统来自公鹿。扣具来自法语、拉丁颊带词，buxom 从弯曲、顺从的旧词一路换了重点。",
+    "forms": "buck 动物旧词；skin 皮、roe 狍、shot 弹丸；buckle 联系 buccula；buxom 联系弯曲旧动词 + -some。\n\n动物名接旧日耳曼材料；美元义常联系鹿皮交易，但路径有不确定性。",
+    "branches": [
+      [
+        "雄兽与皮革、固定复合",
+        "buck · roebuck · buckskin · buckshot"
+      ],
+      [
+        "扣紧与变形",
+        "buckle · buckling"
+      ],
+      [
+        "另源人物性质",
+        "buxom"
+      ],
+      [
+        "抗拒动作的技术复合",
+        "humbucker"
+      ],
+      [
+        "buck → bucks：雄性动物与口语美元",
+        "buck · bucks"
+      ]
+    ],
+    "contrasts": "美元义来源有推测；buckle 不是 buck + -le；buxom 现代不是顺从；buckling 工程屈曲与普通弯曲有区别。",
+    "practice": "He spent a few bucks replacing the buckle on his buckskin bag.\n\n他花了几美元，换掉鹿皮包上的扣子。",
+    "words": [
+      "buck",
+      "roebuck",
+      "buckskin",
+      "buckshot",
+      "buckle",
+      "buckling",
+      "buxom",
+      "humbucker",
+      "bucks"
+    ],
+    "exclude": {
+      "buck-passing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bucko": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

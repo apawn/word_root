@@ -1,0 +1,505 @@
+[
+  {
+    "word": "chop",
+    "ipa": "英 /tʃɒp/；美 /tʃɑːp/",
+    "meaning": "切、剁、劈；一块带骨肉；切击",
+    "sense": "刀不是一直平拖，而是一下一下落下，把东西切开、剁碎，这就是 chop。切下的一块肉也能叫 a chop。",
+    "split": "承中古英语 choppen、chappen 等，来源有拟声、法语和日耳曼语近形词等分析。肉块名词由切、切下的部分发展。",
+    "history": [
+      [
+        "中古英语 choppen、chappen",
+        "短促用力地切、劈，更远拟声、法语、日耳曼语等来源有讨论"
+      ],
+      [
+        "切一块 → chop 肉块等",
+        "动词与成品、切击动作互相联系"
+      ]
+    ],
+    "explanation": "chop onions 切洋葱，chop wood 劈柴，chop something up 切碎，a lamb chop 羊排，chop something off 剁掉、切去。",
+    "usage": "chop up；chop off；a lamb chop。",
+    "contrast": "chop 常带短促切击，slice 突出切成片；具体食谱可互有重合。chopstick 的 chop 历史不直接按这里的剁来定。",
+    "examples": [
+      [
+        "She chopped the onions into small pieces.",
+        "她把洋葱切成小块。"
+      ],
+      [
+        "He ordered a lamb chop with vegetables.",
+        "他点了一份配蔬菜的羊排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chop#English",
+      "https://www.etymonline.com/word/chop"
+    ]
+  },
+  {
+    "word": "chopped",
+    "ipa": "英 /tʃɒpt/；美 /tʃɑːpt/",
+    "meaning": "切碎、剁过的；chop 的过去式、过去分词",
+    "sense": "原来一整颗洋葱，处理成小块以后，就可以 chopped onion。这个分词让你看到动作完成后的食材状态。",
+    "split": "chop + -ed，双写 p；-ed 在 /p/ 后读 /t/。过去式说做过切剁，形容词说切过的状态。",
+    "history": [
+      [
+        "中古英语 choppen、chappen",
+        "短促用力地切、劈，更远拟声、法语、日耳曼语等来源有讨论"
+      ],
+      [
+        "切一块 → chop 肉块等",
+        "动词与成品、切击动作互相联系"
+      ],
+      [
+        "chop + -ed → chopped",
+        "已切、剁过的状态"
+      ]
+    ],
+    "explanation": "chopped onions 碎洋葱，finely chopped herbs 切得很碎的香草，roughly chopped vegetables 粗切蔬菜。",
+    "usage": "finely chopped；roughly chopped。",
+    "contrast": "chopped 不单独规定每块多大，finely、roughly 等再说明精细程度；读一音节，不把 -ed 发成 /ɪd/。",
+    "examples": [
+      [
+        "Add the chopped tomatoes to the bowl.",
+        "把切好的番茄加入碗里。"
+      ],
+      [
+        "The recipe calls for finely chopped parsley.",
+        "食谱需要切得很碎的欧芹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chopped#English"
+    ]
+  },
+  {
+    "word": "chopper",
+    "ipa": "英 /ˈtʃɒpə/；美 /ˈtʃɑːpər/",
+    "meaning": "切碎工具、砍刀等；〔口语〕直升机；改装摩托车",
+    "sense": "厨房里负责切碎的器具可以 chopper；电影里 get to the chopper 则可能是去直升机。机械名称各有场景，先不要只认切菜刀。",
+    "split": "切具义是 chop + -er，双写 p。直升机俗称联系旋翼反复声音、动作的联想，二十世纪军队俚语已有；改装摩托车义联系删改、简化车体等。",
+    "history": [
+      [
+        "中古英语 choppen、chappen",
+        "短促用力地切、劈，更远拟声、法语、日耳曼语等来源有讨论"
+      ],
+      [
+        "切一块 → chop 肉块等",
+        "动词与成品、切击动作互相联系"
+      ],
+      [
+        "chop + -er 及后续俗称",
+        "切具；直升机、特定改装摩托车等"
+      ]
+    ],
+    "explanation": "a vegetable chopper 蔬菜切碎器，a rescue chopper 救援直升机，a custom chopper 定制改装摩托车。",
+    "usage": "a vegetable chopper；a rescue chopper。",
+    "contrast": "-er 可造工具名；chopper 的几种现代物名不是完全相同的机械功能，前项和场景很重要。",
+    "examples": [
+      [
+        "The vegetable chopper made quick work of the carrots.",
+        "蔬菜切碎器很快就处理好了胡萝卜。"
+      ],
+      [
+        "A rescue chopper hovered above the hillside.",
+        "一架救援直升机在山坡上方盘旋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chopper#English",
+      "https://www.etymonline.com/word/chopper"
+    ]
+  },
+  {
+    "word": "choppy",
+    "ipa": "英 /ˈtʃɒpi/；美 /ˈtʃɑːpi/",
+    "meaning": "碎浪多、颠簸的；断断续续、不流畅的",
+    "sense": "水面被分成一片片短促波动，不是平滑长浪，就 choppy。视频卡成一段一段、文字句子断裂不顺，也借这个不连续画面。",
+    "split": "chop + -y，双写 p；结合碎浪、突然变化的相关义，形成短促、不平稳、断续的性质。",
+    "history": [
+      [
+        "中古英语 choppen、chappen",
+        "短促用力地切、劈，更远拟声、法语、日耳曼语等来源有讨论"
+      ],
+      [
+        "chop + -y → choppy",
+        "短碎波动 → 不连续、不流畅"
+      ]
+    ],
+    "explanation": "choppy water 碎浪翻动的水面，a choppy video 卡顿视频，choppy writing 断裂不流畅的文字。",
+    "usage": "choppy water；choppy playback。",
+    "contrast": "choppy 不等于浪一定巨大；它常突出短浪多、变化碎。文字 choppy 也不必真有刀剪痕迹。",
+    "examples": [
+      [
+        "The small boat struggled in the choppy water.",
+        "小船在碎浪翻动的水面上吃力前行。"
+      ],
+      [
+        "The video became choppy when the connection slowed.",
+        "连接变慢时，视频播放开始卡顿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choppy#English"
+    ]
+  },
+  {
+    "word": "chopstick",
+    "ipa": "英 /ˈtʃɒpstɪk/；美 /ˈtʃɑːpstɪk/",
+    "meaning": "一根筷子〔常用复数 chopsticks〕",
+    "sense": "stick 让你看见一根细棒，但吃饭通常用两根，所以常说 chopsticks 或 a pair of chopsticks。先用夹食物的小棒画面记住用途。",
+    "split": "外形是 chop + stick，但 chop 的具体旧义有争论。快快的洋泾浜英语解释很流行，却不是无争议结论；较早渔具同名也进入词源讨论，不把剁菜棒当确定来历。",
+    "history": [
+      [
+        "chopstick 的较早同名用法",
+        "早见于渔具横杆等，后来用于餐具"
+      ],
+      [
+        "餐具 chopstick",
+        "stick 是棒；chop 前项有快、嘴、旧英语词等不同解释"
+      ],
+      [
+        "现代常用复数 chopsticks",
+        "一双用来夹食物的细长餐具"
+      ]
+    ],
+    "explanation": "a pair of chopsticks 一双筷子，eat with chopsticks 用筷子吃，drop a chopstick 掉了一根筷子。",
+    "usage": "a pair of chopsticks；eat with chopsticks。",
+    "contrast": "一根 a chopstick，一双 a pair of chopsticks；两根作为餐具配合使用，不能因此把所有 stick 都叫筷子。",
+    "examples": [
+      [
+        "She picked up the noodles with chopsticks.",
+        "她用筷子夹起面条。"
+      ],
+      [
+        "One chopstick rolled off the table.",
+        "一根筷子滚下了桌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chopstick#English",
+      "https://www.etymonline.com/word/chopstick"
+    ]
+  },
+  {
+    "word": "podcast",
+    "ipa": "英 /ˈpɒdkɑːst/；美 /ˈpɑːdkæst/",
+    "meaning": "播客节目；一期播客；以播客形式发布",
+    "sense": "你不是只能等固定广播时段，而能自己选一期来听。podcast 可以整档系列，也可以其中一集，读 a new podcast 要由背景判断。",
+    "split": "由 iPod 品牌名截取 pod，加 broadcast 的 cast 段构成混成词。名称与那款播放器的历史有关，现代泛指节目形式，不要求使用原品牌设备。",
+    "history": [
+      [
+        "iPod 品牌名的 pod 段 + broadcast 广播",
+        "二〇〇四年前后形成混成词"
+      ],
+      [
+        "podcast",
+        "可按需收听、观看的系列节目，也指其中一期"
+      ]
+    ],
+    "explanation": "listen to a podcast 听播客，a podcast episode 一期播客，host a podcast 主持播客，a video podcast 视频播客。",
+    "usage": "listen to a podcast；a podcast episode。",
+    "contrast": "pod 这里不按普通豆荚来解释；podcast 也不限于音频，现代有视频播客，仍以系列、按需节目语境理解。",
+    "examples": [
+      [
+        "I listened to a history podcast on the train.",
+        "我在火车上听了一档历史播客。"
+      ],
+      [
+        "The latest podcast episode features a museum curator.",
+        "最新一期播客邀请了一位博物馆策展人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/podcast#English",
+      "https://www.etymonline.com/word/podcast"
+    ]
+  },
+  {
+    "word": "podcasting",
+    "ipa": "英 /ˈpɒdkɑːstɪŋ/；美 /ˈpɑːdkæstɪŋ/",
+    "meaning": "播客制作、发布活动；播客行业",
+    "sense": "podcast 是节目或发布动作，podcasting 是持续录制、编辑、发布这件事，也可说整个领域。",
+    "split": "podcast + -ing，活动名词、分词形式。保留整个混成词，不重新把 pod 当一个普通独立词根翻译。",
+    "history": [
+      [
+        "iPod 品牌名的 pod 段 + broadcast 广播",
+        "二〇〇四年前后形成混成词"
+      ],
+      [
+        "podcast",
+        "可按需收听、观看的系列节目，也指其中一期"
+      ],
+      [
+        "后缀扩展",
+        "podcasting 制作、发布播客的活动；podcaster 从业、创作者"
+      ]
+    ],
+    "explanation": "get into podcasting 开始做播客，podcasting equipment 播客制作设备，the growth of podcasting 播客领域的发展。",
+    "usage": "get into podcasting；podcasting equipment。",
+    "contrast": "podcasting 不是一个主播；人用 podcaster，单集可说 episode。",
+    "examples": [
+      [
+        "She got into podcasting while studying journalism.",
+        "学新闻期间，她开始做播客。"
+      ],
+      [
+        "The workshop covers the basics of podcasting.",
+        "工作坊介绍播客制作发布的基础。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/podcasting#English"
+    ]
+  },
+  {
+    "word": "podcaster",
+    "ipa": "英 /ˈpɒdkɑːstə/；美 /ˈpɑːdkæstər/",
+    "meaning": "播客创作者、主播、发布者",
+    "sense": "把节目录出来、组织起来并发布的人可以 podcaster；不一定每个人都只负责拿麦克风讲话，也可能兼做策划、制作。",
+    "split": "podcast + -er，人物后缀。以参与创作、发布活动来命名人物。",
+    "history": [
+      [
+        "iPod 品牌名的 pod 段 + broadcast 广播",
+        "二〇〇四年前后形成混成词"
+      ],
+      [
+        "podcast",
+        "可按需收听、观看的系列节目，也指其中一期"
+      ],
+      [
+        "后缀扩展",
+        "podcasting 制作、发布播客的活动；podcaster 从业、创作者"
+      ]
+    ],
+    "explanation": "an independent podcaster 独立播客创作者，a science podcaster 科学播客主播，interview a podcaster 采访播客创作者。",
+    "usage": "an independent podcaster；a science podcaster。",
+    "contrast": "podcaster 不表示听众；a podcast listener 才是听播客的人。角色与节目、活动区分开。",
+    "examples": [
+      [
+        "The podcaster interviewed a local scientist.",
+        "播客主播采访了一位当地科学家。"
+      ],
+      [
+        "Independent podcasters shared their recording experiences.",
+        "独立播客创作者交流了录制经验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/podcaster#English"
+    ]
+  },
+  {
+    "word": "onwards",
+    "ipa": "英 /ˈɒnwədz/；美 /ˈɑːnwərdz/",
+    "meaning": "继续向前；从……起、往后",
+    "sense": "前面还有路，接着走是 onwards；from Monday onwards 则把星期一当时间起点，从那时往后。",
+    "split": "on 向前、继续 + -wards 方向副词形式，内含 -ward 与副词 -s。也有不带 s 的 onward 作副词、形容词。",
+    "history": [
+      [
+        "-ward 朝向的方向形式",
+        "接在位置、方向词后"
+      ],
+      [
+        "副词 -s → -wards",
+        "表示朝相应方向；-s 不是复数"
+      ],
+      [
+        "常用分支",
+        "onwards 继续向前、从某时起；inwards 向内"
+      ]
+    ],
+    "explanation": "move onwards 继续前进，from now onwards 从现在起，from six onwards 从六点起。常见英式写法，onward 也广泛使用。",
+    "usage": "from now onwards；from Monday onwards。",
+    "contrast": "from Monday onwards 通常把星期一包括在起点，不是自动等于星期二以后；-s 不表示多个前方。",
+    "examples": [
+      [
+        "From that day onwards, they met every week.",
+        "从那天起，他们每周见面。"
+      ],
+      [
+        "We rested briefly and then travelled onwards.",
+        "我们短暂休息后继续前行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/onwards#English"
+    ]
+  },
+  {
+    "word": "inwards",
+    "ipa": "英 /ˈɪnwədz/；美 /ˈɪnwərdz/",
+    "meaning": "向内、朝里面",
+    "sense": "门往房间里面开，是 opens inwards；注意力从外界转向自己的感受，也可以 turn inwards。方向先看观察对象的内外。",
+    "split": "in 向里 + -wards，方向副词；对应 inward 的副词形式。-s 不表示很多个里面。",
+    "history": [
+      [
+        "-ward 朝向的方向形式",
+        "接在位置、方向词后"
+      ],
+      [
+        "副词 -s → -wards",
+        "表示朝相应方向；-s 不是复数"
+      ],
+      [
+        "常用分支",
+        "onwards 继续向前、从某时起；inwards 向内"
+      ]
+    ],
+    "explanation": "open inwards 向内开，turn inwards 转向内侧、转向内心，curve inwards 向内弯。",
+    "usage": "open inwards；curve inwards。",
+    "contrast": "inwards 常作副词；前置形容词常用 inward，如 inward movement，不通常把全部 inward 都随意加 s。",
+    "examples": [
+      [
+        "The door opens inwards.",
+        "这扇门向内开。"
+      ],
+      [
+        "The petals curved inwards towards the centre.",
+        "花瓣向中心内弯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inwards#English"
+    ]
+  },
+  {
+    "word": "herd",
+    "ipa": "英 /hɜːd/；美 /hɜːrd/",
+    "meaning": "兽群、牧群；放牧、赶拢成群",
+    "sense": "一群牛、鹿等共同活动，是 a herd；把它们往某处集中赶，就是 herd。用在人身上时，也可能说被像牲畜般赶成一群，语气要读出来。",
+    "split": "动物群名词承古英语 heord，经中古英语到现代，动词由相关名词形成。牧人的旧词 hyrde、hierde 同属相连词族，在复合词中保留。",
+    "history": [
+      [
+        "古英语 heord → herd",
+        "成群家畜，后来也说野生动物群"
+      ],
+      [
+        "动词 herd",
+        "把动物赶成群、照料；使人群集中移动"
+      ]
+    ],
+    "explanation": "a herd of cattle 一群牛，herd the sheep 把羊赶成群，herd people into a room 把人群赶进房间，herd mentality 从众心态。",
+    "usage": "a herd of；herd into；herd mentality。",
+    "contrast": "herd 与 heard 听见的过去式同音；常说 herd of cattle、deer，flock 常说鸟群、羊群，搭配有习惯。",
+    "examples": [
+      [
+        "A herd of deer crossed the field.",
+        "一群鹿穿过田地。"
+      ],
+      [
+        "The guide herded the visitors towards the exit.",
+        "导游把游客集中引向出口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/herd#English",
+      "https://www.etymonline.com/word/herd"
+    ]
+  },
+  {
+    "word": "herder",
+    "ipa": "英 /ˈhɜːdə/；美 /ˈhɜːrdər/",
+    "meaning": "牧人、赶牧者",
+    "sense": "herd 是牧群，herder 是照看、驱赶这群动物的人。要说具体放什么，还能在前面加 cattle、reindeer 等。",
+    "split": "现代对应 herd + -er，也承中古英语对旧牧人 herde、古英语 hyrde 等的形式扩展。shepherd、cowherd 的后项本来就有牧人义，不是任意漏写现代 -er。",
+    "history": [
+      [
+        "古英语 heord → herd",
+        "成群家畜，后来也说野生动物群"
+      ],
+      [
+        "动词 herd",
+        "把动物赶成群、照料；使人群集中移动"
+      ],
+      [
+        "人物词族",
+        "herder 对应牧人旧词并有 -er 形式；shepherd、cowherd 等保留旧牧人后项"
+      ]
+    ],
+    "explanation": "a cattle herder 牧牛人，a reindeer herder 驯鹿牧民，nomadic herders 游牧者。",
+    "usage": "a cattle herder；a reindeer herder。",
+    "contrast": "herder 是人，herd 是动物群或动作；shepherd 的词尾、读音有历史变化，按整词掌握。",
+    "examples": [
+      [
+        "The herder led the cattle towards the river.",
+        "牧人把牛群领向河边。"
+      ],
+      [
+        "Reindeer herders moved with their animals across the snow.",
+        "驯鹿牧民带着牲畜穿过雪地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/herder#English"
+    ]
+  },
+  {
+    "word": "meaningfully",
+    "ipa": "/ˈmiːnɪŋfəli/",
+    "meaning": "有意义、实质性地；意味深长地",
+    "sense": "参与讨论真的有贡献，是 participate meaningfully；看一眼时钟暗示该走了，则是 glance meaningfully。一个是实质效果，一个是话外意思。",
+    "split": "meaningful + -ly，末尾写 -fully 是 -ful 与 -ly 相接，不能把 meaningful 自己的 -ful 改成 full。",
+    "history": [
+      [
+        "meaning 意义、含义 + -ful → meaningful",
+        "有意义、有分量；含有某种暗示"
+      ],
+      [
+        "meaningful + -ly → meaningfully",
+        "实质性地；意味深长地"
+      ]
+    ],
+    "explanation": "contribute meaningfully 作出实质贡献，engage meaningfully 有实质参与，look meaningfully at someone 意味深长地看某人。",
+    "usage": "contribute meaningfully；look meaningfully at。",
+    "contrast": "meaningfully 不都译得很庄严；一个眼神也能携带暗示。与 meaningful 的形容词用法分开。",
+    "examples": [
+      [
+        "Everyone had a chance to contribute meaningfully to the discussion.",
+        "每个人都有机会为讨论作出实质贡献。"
+      ],
+      [
+        "She glanced meaningfully at the clock.",
+        "她意味深长地看了一眼时钟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meaningfully#English"
+    ]
+  },
+  {
+    "word": "meaningfulness",
+    "ipa": "/ˈmiːnɪŋfəlnəs/",
+    "meaning": "意义感、有意义的程度；含义的充分性",
+    "sense": "一份活动让人觉得值得、和生活有关，这种有意义的程度可以叫 meaningfulness；讨论一句话是否真能传达含义时，也能用它。",
+    "split": "meaningful + -ness，形成性质、程度名词。里面 meaning + -ful 先给出有意义，-ness 再把性质变成讨论对象。",
+    "history": [
+      [
+        "meaning 意义、含义 + -ful → meaningful",
+        "有意义、有分量；含有某种暗示"
+      ],
+      [
+        "meaningful + -ly → meaningfully",
+        "实质性地；意味深长地"
+      ],
+      [
+        "meaningful + -ness → meaningfulness",
+        "有意义、有价值、能传达含义的性质"
+      ]
+    ],
+    "explanation": "a sense of meaningfulness 意义感，the meaningfulness of work 工作的意义感，question the meaningfulness of a statement 质疑说法是否真有意义。",
+    "usage": "the meaningfulness of；a sense of meaningfulness。",
+    "contrast": "meaningfulness 不是意义很多的数量单位；日常 meaning 也能表达意义，长词更突出这种性质或程度。",
+    "examples": [
+      [
+        "The interviews explored the meaningfulness of the volunteers’ work.",
+        "访谈探讨了志愿者工作带来的意义感。"
+      ],
+      [
+        "Shared goals gave the project a sense of meaningfulness.",
+        "共同目标让项目有了意义感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meaningfulness#English"
+    ]
+  }
+]

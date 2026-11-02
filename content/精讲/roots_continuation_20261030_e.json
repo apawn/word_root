@@ -1,0 +1,102 @@
+[
+  {
+    "id": "B3763",
+    "meaning": "来自外部与外来者",
+    "core": "FOREIGN：相对这个国家、对象或个人而言，是外来的",
+    "image": "foreign 性质后接 foreigner 人物，外语、异物与不合本性的搭配分别举例。",
+    "intro": "经法语接拉丁外面词，g 后起且不发音；现代不是 fore + reign 的意思相加。",
+    "forms": "foreign → foreigner；foreign to 为常用关系搭配。\n\n拉丁外面词经法语，foreign 的 g 不发音，完整 er 再加 s。",
+    "branches": [
+      [
+        "性质与人物",
+        "foreign · foreigner"
+      ],
+      [
+        "foreign → foreigner → foreigners：外部、外来者",
+        "foreign · foreigner · foreigners"
+      ]
+    ],
+    "contrasts": "foreign body 常指异物；foreigner 名词不直接代替 foreign 修饰 student。",
+    "practice": "The foreigner asked for help with the unfamiliar language.\n\n那位外国人因不熟悉语言而寻求帮助。",
+    "words": [
+      "foreign",
+      "foreigner",
+      "foreigners"
+    ],
+    "exclude": {
+      "foreign-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2840",
+    "meaning": "选择、选定与挑剔",
+    "core": "CHOOSE：定下一种可能；再看结果与选择习惯",
+    "image": "choose—chose—chosen 放一组，再看 choosy 对选择讲究的性格。",
+    "intro": "古英语继承词保留不规则元音变化。与试、尝的古老关系帮助理解选择，但现代 choose 不等于 taste。",
+    "forms": "choose → chose → chosen；choose + -y → choosy。\n\nchoose /tʃuːz/ → chose /tʃəʊz/ 或 /tʃoʊz/ → chosen；过去式与原形元音不同。\n\n古英语选择词保留不规则过去形式，ing 形式去不发音 e。\n\nchoose 承古英语 ceosan 选择、尝试、品尝等材料；现代 choose 保留末尾 e 加 -s，/z/ 后词尾读 /ɪz/。",
+    "branches": [
+      [
+        "动作与分词结果",
+        "choose · chosen"
+      ],
+      [
+        "选择习惯",
+        "choosy"
+      ],
+      [
+        "choose、chose、chosen 的常见分工",
+        "choose · chose · chosen"
+      ],
+      [
+        "choose → choosing：从多个可能中选出",
+        "choose · chose · chosen · choosing"
+      ],
+      [
+        "choose → chooses：选择的第三人称",
+        "chooses"
+      ]
+    ],
+    "contrasts": "has chosen 不写 has chose；choosy 是挑剔，不是比较级；between、from 搭配区分。",
+    "practice": "The choosy customer has finally chosen a design.\n\n讲究的顾客终于选定了一个设计。",
+    "words": [
+      "choose",
+      "chosen",
+      "choosy",
+      "chose",
+      "choosing",
+      "chooses"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2658",
+    "meaning": "女儿与继亲、教亲关系",
+    "core": "DAUGHTER：从父母端看女性孩子，不限年龄",
+    "image": "daughter 后接 stepdaughter、goddaughter，并把已有 granddaughter 放在一起区分关系。",
+    "intro": "古英语继承的古老亲属词，现代 gh 不发音。前部组合改变关系，不改变女儿一定未成年的错误推断。",
+    "forms": "daughter → stepdaughter、goddaughter、granddaughter。\n\ndaughter 的 gh 在现代不发音，daughters 的词尾读 /z/；称谓自身不说明年龄。",
+    "branches": [
+      [
+        "基本亲属与关系组合",
+        "daughter · stepdaughter · goddaughter · granddaughter"
+      ],
+      [
+        "daughter → daughters：女儿们",
+        "daughter · daughters"
+      ]
+    ],
+    "contrasts": "stepdaughter 继女，goddaughter 教女，granddaughter 孙女、外孙女；daughter-in-law 儿媳另为姻亲。",
+    "practice": "Her adult daughter and granddaughter visited together.\n\n她的成年女儿和外孙女一起来看望她。",
+    "words": [
+      "daughter",
+      "stepdaughter",
+      "goddaughter",
+      "granddaughter",
+      "daughters"
+    ],
+    "exclude": {
+      "daughter-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "daughter-out-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "B2805",
+    "meaning": "竞速、比赛；另源的血统与种族词族",
+    "core": "RACE：竞速和种族分两条来源",
+    "image": "跑道上的 race 与社会话题中的 race 不强串；racer 是参赛者，racist 则完全是另一分支的人物、性质词。",
+    "intro": "竞速分支接古英语、古诺尔斯语奔跑、奔流词族；种族分支经法语、意大利语来，更远不确定。racy 接旧风味、特质义，另列历史辨析。",
+    "forms": "竞速 race → racer、racehorse、racetrack、raceway、racecourse；群体 race → racial、racism、racist；旧风味义 → racy。\n\n本组是古英语、北欧快跑词族，另一个血统、种族 race 来源不同。\n\n快跑支接本族、北欧词；血统分类支经法语借入。\n\n与 race 比较比赛，不由 race 派生。Derby 赛马以德比伯爵名号命名，更远接德比地名；普通名词扩大到重大比赛，同城对抗等。不能误说赛马最初就在德比市举行。",
+    "branches": [
+      [
+        "竞速及场地",
+        "race · racer · racehorse · racetrack · racecourse · raceway"
+      ],
+      [
+        "种族相关及歧视",
+        "racial · racism · racist"
+      ],
+      [
+        "旧特质分支的固定词",
+        "racy"
+      ],
+      [
+        "race → racing：快跑与竞速",
+        "race · racing"
+      ],
+      [
+        "race → races：竞速与族群分类另源",
+        "race · races"
+      ],
+      [
+        "derby：赛事专名到同城、同地区对抗",
+        "derby · derbies"
+      ]
+    ],
+    "contrasts": "racer 不是 racist；racial 不等于 racist；racy 不从赛车刺激硬推，也不等于 racial。",
+    "practice": "The racer joined a campaign against racism in sport.\n\n赛车手参加了反对体育中种族歧视的活动。",
+    "words": [
+      "race",
+      "racer",
+      "racehorse",
+      "racetrack",
+      "racecourse",
+      "raceway",
+      "racial",
+      "racism",
+      "racist",
+      "racy",
+      "racing",
+      "races",
+      "derby",
+      "derbies"
+    ],
+    "exclude": {
+      "race-fellow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "race-blind": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ur-race": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "race-bait": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "race-bending": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "proto-race": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "race-monger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

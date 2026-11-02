@@ -1,0 +1,35 @@
+[
+  {
+    "word": "unfeeling",
+    "ipa": "/ʌnˈfiːlɪŋ/",
+    "meaning": "冷漠、没有同情心的；无感觉的〔依语境〕",
+    "sense": "对方已经很难过，还用一句冰冷的话打发他；这里的 unfeeling 不是手指麻了，而是没有体恤别人感受。",
+    "split": "un- 不、缺少 + feeling；feeling 来自 feel + -ing，已有情感、同情及感知的相关意义。否定落在哪种感觉上，由上下文决定。",
+    "history": [
+      [
+        "feel → feeling",
+        "感知、感情；对他人感受的体恤"
+      ],
+      [
+        "un- + feeling → unfeeling",
+        "缺乏同情的；在特定语境中无感觉的"
+      ]
+    ],
+    "explanation": "an unfeeling remark 冷漠的话；an unfeeling response 不体恤人的回应。现代描写人的态度时，通常重点是没有同情心。",
+    "usage": "a cold and unfeeling reply；seem unfeeling。",
+    "contrast": "unemotional 表现得情绪不强，未必不关心别人；unfeeling 常在批评缺乏体恤。calm 冷静更不等于冷漠。",
+    "examples": [
+      [
+        "His unfeeling reply made her even more upset.",
+        "他那冷漠的回答让她更难过了。"
+      ],
+      [
+        "She sounded calm, but she was far from unfeeling.",
+        "她听起来很平静，却绝不是没有同情心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfeeling#English"
+    ]
+  }
+]

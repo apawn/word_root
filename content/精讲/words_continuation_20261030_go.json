@@ -1,0 +1,286 @@
+[
+  {
+    "word": "tag",
+    "ipa": "/tæɡ/",
+    "meaning": "标签、标记；贴标签、标注；捉人游戏〔另一支〕",
+    "sense": "行李上挂一片写名字的小牌，照片旁也能挂一个可点击的名字；tag 就从实物标签伸进了数字世界。",
+    "split": "标签义接中古英语 tagge 挂出的小片，更早可能与北欧等材料相关。捉人游戏 tag 常另联系到 tig 触碰等词，来路有不确定性；不把全部义定成同一条标签派生。",
+    "history": [
+      [
+        "中古英语 tagge",
+        "衣物挂出的小片、垂饰；更早来源不确定"
+      ],
+      [
+        "英语 tag",
+        "附着的小标签 → 身份标记、数字标签；贴标签"
+      ],
+      [
+        "另一路：tig 等触碰词 → 游戏 tag",
+        "捉人、轻触；具体路线不确定"
+      ]
+    ],
+    "explanation": "a price tag 价签，a luggage tag 行李牌，tag someone in a photo 在照片里标出某人；play tag 玩捉人游戏，tag along 跟着一起去。",
+    "usage": "a price tag；a luggage tag；tag someone in a photo；play tag；tag along。",
+    "contrast": "tag 数字标签不一定只指 # 话题，HTML tag、人员标记也是 tag；hashtag 是带 # 的具体一类。",
+    "examples": [
+      [
+        "Please leave the price tag on the gift.",
+        "请把礼物上的价签留着。"
+      ],
+      [
+        "She tagged me in the group photo.",
+        "她在合照里标出了我。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/tag"
+    ]
+  },
+  {
+    "word": "hashtag",
+    "ipa": "/ˈhæʃtæɡ/",
+    "meaning": "带 # 的话题标签；# 号〔相关语境〕",
+    "sense": "给一条内容贴上 # 后跟关键词的标签，别人能沿标签找同主题内容；hash 指 #，tag 指标签。",
+    "split": "hash 符号名 + tag 标签，早期也写 hash tag。现代网络用法把符号和标签内容结合，不是 hash 食物肉末，也不等于密码散列值。",
+    "history": [
+      [
+        "中古英语 tagge",
+        "衣物挂出的小片、垂饰；更早来源不确定"
+      ],
+      [
+        "英语 tag",
+        "附着的小标签 → 身份标记、数字标签；贴标签"
+      ],
+      [
+        "hash 符号 + tag → hashtag",
+        "# 开头的主题、元数据标签"
+      ]
+    ],
+    "explanation": "add a hashtag 添加话题标签，a trending hashtag 热门话题标签，use the same hashtag 用同一话题标签。",
+    "usage": "add a hashtag；a trending hashtag；use the same hashtag。",
+    "contrast": "hashtag 完整标签常包括 # 和后面的关键词；把 # 本身叫 hashtag 也有口语用法，但符号名 hash 与完整标签仍可区分。",
+    "examples": [
+      [
+        "Use the hashtag #CityWalk for photos from the event.",
+        "活动照片请使用 #CityWalk 这个话题标签。"
+      ],
+      [
+        "The hashtag helped us find posts about the same topic.",
+        "这个话题标签帮我们找到了同主题帖子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hashtag#English"
+    ]
+  },
+  {
+    "word": "tagline",
+    "ipa": "/ˈtæɡlaɪn/",
+    "meaning": "广告语、品牌标语；结尾点题句",
+    "sense": "一小句跟在品牌、电影或广告旁边，像标签一样让人记住它的主张；不是整篇广告正文。",
+    "split": "tag 附加、标记材料 + line 一行话，组合为附在后面的短句；常用义是广告、宣传中的标语。",
+    "history": [
+      [
+        "中古英语 tagge",
+        "衣物挂出的小片、垂饰；更早来源不确定"
+      ],
+      [
+        "英语 tag",
+        "附着的小标签 → 身份标记、数字标签；贴标签"
+      ],
+      [
+        "tag + line → tagline",
+        "附带、点题的短句 → 宣传标语"
+      ]
+    ],
+    "explanation": "a memorable tagline 令人记住的广告语，a movie tagline 电影宣传短句，the brand’s tagline 品牌标语。",
+    "usage": "a memorable tagline；a movie tagline；a brand tagline。",
+    "contrast": "tagline 宣传短句，headline 标题，caption 图注；短不等于同一种功能，位置、用途要看内容。",
+    "examples": [
+      [
+        "The poster uses a short, memorable tagline.",
+        "海报用了一句简短好记的宣传语。"
+      ],
+      [
+        "They changed the logo but kept the old tagline.",
+        "他们换了标志，却保留了原来的标语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tagline#English"
+    ]
+  },
+  {
+    "word": "gamertag",
+    "ipa": "英 /ˈɡeɪmətæɡ/；美 /ˈɡeɪmərtæɡ/",
+    "meaning": "玩家代号、游戏用户名",
+    "sense": "多人游戏里，别人不一定知道你的真名，先认屏幕上的那串名字；那就是你挂在游戏身份上的标签。",
+    "split": "gamer 玩家 + tag 身份标签。gamer 自己是 game + -er，-er 在前半段，不是整个 gamertag 的人物后缀。",
+    "history": [
+      [
+        "中古英语 tagge",
+        "衣物挂出的小片、垂饰；更早来源不确定"
+      ],
+      [
+        "英语 tag",
+        "附着的小标签 → 身份标记、数字标签；贴标签"
+      ],
+      [
+        "game → gamer；gamer + tag → gamertag",
+        "玩家 → 标识玩家的代号"
+      ]
+    ],
+    "explanation": "choose a gamertag 选择玩家代号，change your gamertag 更改游戏用户名，recognize a gamertag 认出玩家代号。",
+    "usage": "choose a gamertag；change your gamertag。",
+    "contrast": "gamertag 是显示的玩家标识，不必是真名，也不等于登录密码；username 更泛。",
+    "examples": [
+      [
+        "She chose a gamertag that her friends could remember.",
+        "她选了一个朋友们记得住的玩家代号。"
+      ],
+      [
+        "I recognized his gamertag before I heard his voice.",
+        "还没听到他的声音，我就认出了他的玩家代号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gamertag#English"
+    ]
+  },
+  {
+    "word": "tagger",
+    "ipa": "英 /ˈtæɡə/；美 /ˈtæɡər/",
+    "meaning": "标注者、标注工具；涂鸦签名者；捉人者",
+    "sense": "谁在贴标记、什么工具在做标注，都可接 -er；墙上留下固定涂鸦签名的人也能这样称。游戏义则是在追着碰别人的人。",
+    "split": "tag 双写 g + -er，按 tag 的标签、涂鸦、游戏等义分别命名执行者。双写保留短元音构词习惯，不把 g 读成长音。",
+    "history": [
+      [
+        "中古英语 tagge",
+        "衣物挂出的小片、垂饰；更早来源不确定"
+      ],
+      [
+        "英语 tag",
+        "附着的小标签 → 身份标记、数字标签；贴标签"
+      ],
+      [
+        "tag + -er → tagger",
+        "贴标签、标注或涂鸦的人或工具；游戏中的追捕者"
+      ]
+    ],
+    "explanation": "a graffiti tagger 涂鸦签名者，a part-of-speech tagger 词性标注工具，the tagger in a game 捉人游戏中负责追的人。",
+    "usage": "a graffiti tagger；a part-of-speech tagger；the tagger in a game。",
+    "contrast": "tagger 可是程序，不限人；tagline 是短句，不是做标记的人。具体含义先看 tag 做了哪种动作。",
+    "examples": [
+      [
+        "The program includes a part-of-speech tagger.",
+        "程序包含一个词性标注工具。"
+      ],
+      [
+        "The tagger chased the other children across the playground.",
+        "负责捉人的孩子追着其他孩子跑过操场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tagger#English"
+    ]
+  },
+  {
+    "word": "reliably",
+    "ipa": "/rɪˈlaɪəbli/",
+    "meaning": "可靠地、稳定可信地",
+    "sense": "不是只碰巧成功一次，而是反复用都靠得住；reliably works 就是能稳定运行，不让人一直提心吊胆。",
+    "split": "reliable → reliably，-le 这类形容词形成 -ly 副词时，末尾 -le 对应 -ly；可理解为可靠的性质转成做事方式。",
+    "history": [
+      [
+        "rely + -able → reliable",
+        "可以依靠的"
+      ],
+      [
+        "reliable → reliably",
+        "以稳定、可信的方式"
+      ]
+    ],
+    "explanation": "work reliably 稳定运行，reliably predict 可靠预测，reliably informed 由可信来源获悉。后一表达说消息来源可靠，仍应按具体证据判断。",
+    "usage": "work reliably；reliably predict；reliably informed。",
+    "contrast": "reliably 说可靠程度，regularly 说规律、定期；定期开机不保证每次都能可靠运行。",
+    "examples": [
+      [
+        "The device works reliably even in cold weather.",
+        "这个设备即使在冷天也能稳定运行。"
+      ],
+      [
+        "We cannot reliably predict the result from one example.",
+        "仅凭一个例子，我们无法可靠预测结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reliably#English"
+    ]
+  },
+  {
+    "word": "defenceman",
+    "ipa": "英 /dɪˈfensmən/；美同音；美式常拼 defenseman",
+    "meaning": "后卫〔尤冰球、长曲棍球〕",
+    "sense": "球队里主要负责挡住对方进攻、保护本方得分区域的那个位置；这是具体运动的位置名称，不是所有帮助辩护的人。",
+    "split": "defence 防守 + man 人，复数 defencemen，尾部读 /mən/。defenseman 是美式拼写对应，不是另一个位置。",
+    "history": [
+      [
+        "defence 防御、防守",
+        "与 defend 等同族"
+      ],
+      [
+        "defence + man → defenceman",
+        "承担防守职责的球员；复数 defencemen"
+      ]
+    ],
+    "explanation": "an ice hockey defenceman 冰球后卫，a veteran defenceman 经验丰富的后卫；具体站位、分工依运动而定。",
+    "usage": "an ice hockey defenceman；a veteran defenceman；defencemen〔复数〕。",
+    "contrast": "defenceman 运动位置；defender 范围更宽，也可指辩护者、保护者。别把每个 defender 都改成 defenceman。",
+    "examples": [
+      [
+        "The defenceman blocked the shot.",
+        "后卫挡住了射门。"
+      ],
+      [
+        "The team signed an experienced defenceman.",
+        "球队签下了一名经验丰富的后卫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/defenceman#English"
+    ]
+  },
+  {
+    "word": "reintroduction",
+    "ipa": "英 /ˌriːɪntrəˈdʌkʃən/；美 /ˌriːɪntrəˈdʌkʃən/",
+    "meaning": "重新引入、恢复推行；把物种重新引回原有地区",
+    "sense": "以前有过，后来没有了，如今再带回来：政策可以重推，物种也可以回到原有分布区。",
+    "split": "re- 再次 + introduction 引入。introduction 上接拉丁 intrōdūctiō 的 duct- 带领材料，长词不是随意把 introduce 字尾拼错。",
+    "history": [
+      [
+        "拉丁 intrōdūctiō → introduction",
+        "带进、引入的动作或结果"
+      ],
+      [
+        "re- + introduction → reintroduction",
+        "再次引入；恢复原有状态或分布"
+      ]
+    ],
+    "explanation": "the reintroduction of a policy 重新推行政策，species reintroduction 物种重新引入，a reintroduction program 重引入计划。",
+    "usage": "the reintroduction of；species reintroduction；a reintroduction program。",
+    "contrast": "reintroduction 物种义通常是回到原有地区；把从未在此存在的外来物种随便带来，不因此就叫重引入。",
+    "examples": [
+      [
+        "The proposal calls for the reintroduction of the old bus route.",
+        "提议要求恢复原来的公交线路。"
+      ],
+      [
+        "The documentary follows a species reintroduction program.",
+        "纪录片跟踪了一项物种重新引入计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reintroduction#English"
+    ]
+  }
+]

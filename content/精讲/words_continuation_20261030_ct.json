@@ -1,0 +1,431 @@
+[
+  {
+    "word": "mail",
+    "ipa": "/meɪl/",
+    "meaning": "邮件、邮政；邮寄；〔另源〕锁子甲",
+    "sense": "常用邮寄义的旧画面是一只装信的袋子，后来用袋叫里面的信；骑士身上的 mail 却是小金属环连成的甲，来源不同。",
+    "split": "邮件义经法语 male 袋；锁甲义经 maille 小环、网眼，接拉丁语 macula 等。动词寄送从邮件名词发展。blackmail 勒索里的 mail 又接旧付款、租税等词，不是三种都来自一袋信。",
+    "history": [
+      [
+        "法语 male 袋 → 中古英语 male → mail",
+        "装物袋 → 邮袋、袋中信件 → 邮件、邮政"
+      ],
+      [
+        "另一来源：法语 maille → 中古英语 mayle → mail",
+        "小环、网眼 → 环环相扣的锁子甲"
+      ],
+      [
+        "现代 mail 动词",
+        "由邮政名词转为寄送；盔甲相关用法另接锁甲来源"
+      ]
+    ],
+    "explanation": "check the mail 查看邮件，send by mail 邮寄，mail a letter 寄信，a coat of mail 锁子甲。邮件名词通常不可数；单封可说 a letter、a piece of mail。",
+    "usage": "check the mail；send by mail；mail a letter；a coat of mail。",
+    "contrast": "mail/male 男性同音异词；mail 邮件不通常说 a mail 来数一封，电子语境 an email 更常见。post 在英式邮寄场景也很常用。",
+    "examples": [
+      [
+        "The mail arrived earlier than usual today.",
+        "今天邮件比平时到得早。"
+      ],
+      [
+        "The knight wore a coat of mail beneath his tunic.",
+        "骑士在外袍下穿着锁子甲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mail#English",
+      "https://www.etymonline.com/word/mail"
+    ]
+  },
+  {
+    "word": "mailed",
+    "ipa": "/meɪld/",
+    "meaning": "已邮寄的；穿锁子甲的〔另来源〕",
+    "sense": "mailed letter 是寄出的信；mailed knight 则是披锁甲的骑士。看后面对象才能确定到底走哪条 mail。",
+    "split": "邮寄义是 mail 动词 + -ed；锁甲形容词是 mail 锁甲 + -ed，旧时已有 mayled 等。两者同音、同形，不能统一理解成把骑士塞进邮袋。",
+    "history": [
+      [
+        "mail〔邮寄〕+ -ed → mailed",
+        "已寄出的"
+      ],
+      [
+        "mail〔锁子甲〕+ -ed → mailed",
+        "披锁子甲的；有中古英语旧形背景"
+      ]
+    ],
+    "explanation": "a mailed letter 寄出的信，mailed copies 邮寄的副本，a mailed knight 锁甲骑士。被寄出不保证对方已经收到。",
+    "usage": "a mailed letter；mailed copies；a mailed knight。",
+    "contrast": "mailed 已寄出、delivered 已投递，步骤不同；mailed armour 语境接锁甲来源，不接邮政。",
+    "examples": [
+      [
+        "The mailed copies should arrive next week.",
+        "邮寄出去的副本预计下周送到。"
+      ],
+      [
+        "The illustration shows a mailed knight on horseback.",
+        "插图画着一位骑马的锁甲骑士。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mailed#English"
+    ]
+  },
+  {
+    "word": "mailer",
+    "ipa": "英 /ˈmeɪlə/；美 /ˈmeɪlər/",
+    "meaning": "寄件人；邮寄广告、邮寄包装；邮件程序〔按语境〕",
+    "sense": "可以指把邮件送出去的一方，也可以是供邮寄的包装、寄到手里的宣传单；具体角色看物品和场景。",
+    "split": "mail 邮寄 + -er，人、器具或相关物名称。寄件人和包装、广告、程序是不同专门化用法，不全翻成邮递员。",
+    "history": [
+      [
+        "法语 male 袋 → 中古英语 male → mail",
+        "装物袋 → 邮袋、袋中信件 → 邮件、邮政"
+      ],
+      [
+        "mail + -er → mailer",
+        "寄件方；邮寄包装、广告或邮件程序等"
+      ]
+    ],
+    "explanation": "a padded mailer 气泡衬垫信封，a promotional mailer 邮寄宣传材料，a bulk mailer 批量寄件者或程序。",
+    "usage": "a padded mailer；a promotional mailer；a bulk mailer。",
+    "contrast": "mailer 寄件方、包装等，mail carrier 投递邮件的人；两者都跟邮件有关，但工作环节不同。",
+    "examples": [
+      [
+        "She packed the booklet in a padded mailer.",
+        "她把小册子装进气泡衬垫信封。"
+      ],
+      [
+        "We received a promotional mailer from the museum.",
+        "我们收到了博物馆寄来的宣传材料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mailer#English"
+    ]
+  },
+  {
+    "word": "voicemail",
+    "ipa": "/ˈvɔɪsmeɪl/",
+    "meaning": "语音信箱；语音留言",
+    "sense": "对方没接电话，声音先被存下来，等对方有空再听；像给声音留一个信箱。",
+    "split": "voice 声音 + mail 邮件，合成按声音存储、传递的通信名称。可指系统、功能，也可指里面的一条留言。",
+    "history": [
+      [
+        "法语 male 袋 → 中古英语 male → mail",
+        "装物袋 → 邮袋、袋中信件 → 邮件、邮政"
+      ],
+      [
+        "voice + mail → voicemail",
+        "存储语音消息的系统；语音留言"
+      ]
+    ],
+    "explanation": "leave a voicemail 留语音消息，check voicemail 听语音留言，go to voicemail 转入语音信箱。",
+    "usage": "leave a voicemail；check voicemail；go to voicemail。",
+    "contrast": "voicemail 留下后再听，a live call 实时通话；voice message 更泛，可在不同通信服务发送。",
+    "examples": [
+      [
+        "I left her a voicemail about the meeting.",
+        "我给她留了条语音，告诉她会议的事。"
+      ],
+      [
+        "The call went straight to voicemail.",
+        "电话直接转进了语音信箱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/voicemail#English"
+    ]
+  },
+  {
+    "word": "balance",
+    "ipa": "/ˈbæləns/",
+    "meaning": "平衡、均衡；天平；余额；保持平衡、权衡",
+    "sense": "天平两边放东西，别让一边把另一边完全压下去；身体、时间、观点也可用这个协调画面。账目里则看两边算过之后剩多少。",
+    "split": "经法语 balance 接拉丁语双盘秤相关形式，旧成分 bi- 两、lanx 盘。动词由名词发展，数学相等、身体平衡和日常兼顾各按对象理解。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ]
+    ],
+    "explanation": "keep your balance 保持平衡，a balance between work and rest 工作休息平衡，a bank balance 账户余额，balance A against B 权衡两者。",
+    "usage": "keep your balance；strike a balance；on balance；a bank balance。",
+    "contrast": "balance 平衡不要求所有东西各占同样数量；balanced schedule 可以按需要安排不同时间。on balance 总的权衡来看，并不是站在天平上。",
+    "examples": [
+      [
+        "She lost her balance on the uneven ground.",
+        "她在不平地面上失去了平衡。"
+      ],
+      [
+        "We need to balance speed against accuracy.",
+        "我们需要在速度和准确性之间作权衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/balance#English"
+    ]
+  },
+  {
+    "word": "balanced",
+    "ipa": "/ˈbælənst/",
+    "meaning": "平衡、均衡的；公允、全面的",
+    "sense": "不让某一边压倒一切；描述报道时，就是给不同相关方面适当位置，别只剩一面。",
+    "split": "balance 去 e 加 -ed，过去分词形成形容词。/s/ 后 -ed 常读 /t/，不是单独再读一节 /ɪd/。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "balance + -ed → balanced",
+        "平衡的；各方面考虑得当的"
+      ]
+    ],
+    "explanation": "a balanced view 公允看法，a balanced account 全面叙述，a balanced schedule 均衡日程。",
+    "usage": "a balanced view；a balanced account；a balanced schedule。",
+    "contrast": "balanced 不等于每边严格一半；报道 balanced 也不意味着证据强弱不同的说法必须得到完全相同权重。",
+    "examples": [
+      [
+        "The article gives a balanced account of the debate.",
+        "文章较全面公允地叙述了那场争论。"
+      ],
+      [
+        "She tries to keep a balanced schedule of work and rest.",
+        "她尽量把工作与休息安排得均衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/balanced#English"
+    ]
+  },
+  {
+    "word": "imbalance",
+    "ipa": "/ɪmˈbæləns/",
+    "meaning": "不平衡、失衡",
+    "sense": "该协调的两边差得太多，一边过重或过少；先说这种状态，而不直接说谁把它弄偏了。",
+    "split": "否定前缀 im- + balance；im- 是 in- 在 b 前的相应形式。这里构成状态名词，不是动词移除平衡的动作。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "im- + balance → imbalance",
+        "缺少应有协调、平衡的状态"
+      ]
+    ],
+    "explanation": "an imbalance between A and B 两者间失衡，a power imbalance 权力不对等，correct an imbalance 纠正失衡。",
+    "usage": "an imbalance between；a power imbalance；correct an imbalance。",
+    "contrast": "imbalance 状态，unbalance 常动词使失衡；不对等不一定只指物理重量，也可资源、权力、供需。",
+    "examples": [
+      [
+        "The report highlights an imbalance between supply and demand.",
+        "报告指出供需之间存在失衡。"
+      ],
+      [
+        "They changed the schedule to correct the imbalance.",
+        "他们调整日程来纠正不均衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imbalance#English"
+    ]
+  },
+  {
+    "word": "unbalance",
+    "ipa": "/ʌnˈbæləns/",
+    "meaning": "使失去平衡；打乱均衡",
+    "sense": "原来还能站住、配合得当，某股力量把它推歪、弄乱。",
+    "split": "un- 移除、逆转 + balance 保持平衡，形成动词。不是把名词简单放在前面作一个没有平衡的标签。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "un- + balance → unbalance",
+        "破坏平衡、使失衡"
+      ]
+    ],
+    "explanation": "unbalance the load 使负载失衡，unbalance the system 打乱系统均衡，unbalance someone 使人失去稳定。",
+    "usage": "unbalance the load；unbalance the system；unbalance the team。",
+    "contrast": "unbalance 动作，imbalance 状态；The change unbalanced the system 是变化造成失衡。",
+    "examples": [
+      [
+        "Putting all the boxes on one side unbalanced the cart.",
+        "把所有箱子放在一边，使小推车失去了平衡。"
+      ],
+      [
+        "The sudden departure unbalanced the team.",
+        "那个人突然离开，打乱了团队的协调。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbalance#English"
+    ]
+  },
+  {
+    "word": "unbalanced",
+    "ipa": "/ʌnˈbælənst/",
+    "meaning": "不平衡、失衡的；偏颇的",
+    "sense": "力气、重量、资源没配好，或一份说明只顾一边；重点在已经呈现的不均衡。",
+    "split": "un- + balanced 可表示不平衡的性质；也可是 unbalance + -ed 的结果。两种结构在现代形式上重合，依句法判断。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "un- + balanced / unbalance + -ed → unbalanced",
+        "处于不平衡状态；被打乱均衡的"
+      ]
+    ],
+    "explanation": "an unbalanced load 失衡负载，an unbalanced account 偏颇叙述，an unbalanced design 比例不协调设计。旧人物精神状态用法不作中性医学名称。",
+    "usage": "an unbalanced load；an unbalanced account；an unbalanced design。",
+    "contrast": "unbalanced 不平衡，imbalanced 也有相近性质用法；不是所有不平衡都涉及人的精神问题。",
+    "examples": [
+      [
+        "An unbalanced load made the machine shake.",
+        "负载失衡使机器抖动起来。"
+      ],
+      [
+        "The reviewer criticized the book’s unbalanced account of events.",
+        "评论者批评书中对事件的叙述偏颇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unbalanced#English"
+    ]
+  },
+  {
+    "word": "counterbalance",
+    "ipa": "英 /ˌkaʊntəˈbæləns/；美 /ˌkaʊntərˈbæləns/",
+    "meaning": "抵消、制衡；平衡重、抗衡力量",
+    "sense": "一边太重，就在另一边放一个相应力量。也可一项好处抵消某项坏处，不必真搬砝码。",
+    "split": "counter- 相对、抵消 + balance，构成名词和动词。counter 在这里不是柜台，也不是数东西的计数器。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "counter- + balance → counterbalance",
+        "相对力量、平衡重；用它抵消、制衡"
+      ]
+    ],
+    "explanation": "counterbalance a risk 抵消风险，a counterbalance to something 对某物的制衡，a counterbalance weight 平衡重。",
+    "usage": "counterbalance the effect；a counterbalance to；a counterbalance weight。",
+    "contrast": "counterbalance 强调相对力量抵消或制衡，rebalance 调整整体分配使重新协调；不保证一定完全消掉另一项影响。",
+    "examples": [
+      [
+        "The lower price counterbalanced the longer journey.",
+        "较低价格抵消了路程更长的不利之处。"
+      ],
+      [
+        "The heavy base acts as a counterbalance to the long arm.",
+        "沉重底座给长臂提供平衡重量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counterbalance#English"
+    ]
+  },
+  {
+    "word": "rebalance",
+    "ipa": "/ˌriːˈbæləns/",
+    "meaning": "重新平衡、调整比例",
+    "sense": "原来配好的比重不再合适，就把任务、资源、重量重新分配一下。",
+    "split": "re- 重新 + balance，组成恢复或调整均衡的动词。没有由词本身规定必须恢复到最初的相同比例。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "re- + balance → rebalance",
+        "再次调整，使比例或作用协调"
+      ]
+    ],
+    "explanation": "rebalance the workload 调整工作量分配，rebalance the system 重新平衡系统，rebalance priorities 调整重点。",
+    "usage": "rebalance the workload；rebalance priorities；rebalance the system。",
+    "contrast": "rebalance 重新协调，unbalance 打乱协调；重新分配可因目标改变，不必原样倒回。",
+    "examples": [
+      [
+        "The manager rebalanced the workload across the team.",
+        "经理重新调整了团队各人的工作量。"
+      ],
+      [
+        "They moved several boxes to rebalance the cart.",
+        "他们挪动几个箱子，让小推车重新平衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rebalance#English"
+    ]
+  },
+  {
+    "word": "balancer",
+    "ipa": "英 /ˈbælənsə/；美 /ˈbælənsər/",
+    "meaning": "平衡装置、使平衡者",
+    "sense": "负责把不均匀的负载、力量分配稳的人或设备；实际指什么得看前面的修饰词。",
+    "split": "balance + -er，词尾 e 与 -er 衔接。器具、人物和系统功能都能借使平衡这个动作命名。",
+    "history": [
+      [
+        "拉丁语 bilanx〔双盘的〕、相关 bilancia → 法语 balance → 中古英语 balaunce",
+        "bi- 两 + lanx 盘，双盘秤"
+      ],
+      [
+        "英语 balance",
+        "称量、平衡；协调、收支差额、余额等"
+      ],
+      [
+        "balance + -er → balancer",
+        "提供、调整平衡的装置或执行者"
+      ]
+    ],
+    "explanation": "a wheel balancer 车轮平衡设备，a load balancer 负载均衡器，a mechanical balancer 机械平衡装置。",
+    "usage": "a wheel balancer；a load balancer；a mechanical balancer。",
+    "contrast": "balancer 实现平衡的角色或设备，balance 状态、动作、秤等；不把所有 balancer 都认成测体重的秤。",
+    "examples": [
+      [
+        "The mechanic checked the wheel on a balancer.",
+        "机械师用平衡设备检查了车轮。"
+      ],
+      [
+        "A load balancer distributes requests among several servers.",
+        "负载均衡器把请求分配给几台服务器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/balancer#English"
+    ]
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "word": "enhance",
+    "ipa": "英 /ɪnˈhɑːns/；美 /ɪnˈhæns/",
+    "meaning": "增强、提高、改善某种性质或效果",
+    "sense": "灯光让纹理更明显，训练让表现更好；不是凭空换成另一件东西，而是把原有某种效果往上推。",
+    "split": "经法语接拉丁高、抬高相关形式，现代意思从实际抬高扩展为提升程度和效果。不能按英语 en + chance 机会去拆。",
+    "history": [
+      [
+        "拉丁 altus 高及相关动词 → 法语 enhauncer 等",
+        "抬高、使更大、更强"
+      ],
+      [
+        "中古英语 enhauncen → enhance",
+        "提高程度、增进价值、改善表现"
+      ]
+    ],
+    "explanation": "enhance the flavour 增强风味，enhance performance 改善表现，enhance the image 增强图像效果，enhance your understanding 加深理解。",
+    "usage": "enhance the flavour；enhance performance；enhance an image；enhance understanding。",
+    "contrast": "enhance 常指改善、增强某一方面；increase 单纯说数量、程度增加。enhance an image 不保证揭示真实新细节，也可以是处理后的视觉效果。",
+    "examples": [
+      [
+        "A little salt can enhance the flavour of the soup.",
+        "一点盐能增强汤的风味。"
+      ],
+      [
+        "The course is designed to enhance your understanding of the subject.",
+        "这门课旨在加深你对这个主题的理解。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enhance#English",
+      "https://www.etymonline.com/word/enhance"
+    ]
+  },
+  {
+    "word": "enhanced",
+    "ipa": "英 /ɪnˈhɑːnst/；美 /ɪnˈhænst/",
+    "meaning": "增强的、改进的、提高后的",
+    "sense": "在一个已有版本上把某方面提起来：更清楚的画面、更强功能，就是增强版本。增强了哪一项，要接着问。",
+    "split": "enhance + -ed，末尾 e 后加 d；/s/ 后词尾读 /t/，不读成额外的 /ɪd/。可作分词或结果形容词。",
+    "history": [
+      [
+        "拉丁 altus 高及相关动词 → 法语 enhauncer 等",
+        "抬高、使更大、更强"
+      ],
+      [
+        "中古英语 enhauncen → enhance",
+        "提高程度、增进价值、改善表现"
+      ],
+      [
+        "enhance → enhanced",
+        "提高效果 → 已被增强、改进的"
+      ]
+    ],
+    "explanation": "an enhanced version 增强版本，enhanced features 增强功能，an enhanced image 增强处理的图像，enhanced performance 改善后的表现。",
+    "usage": "an enhanced version；enhanced features；an enhanced image。",
+    "contrast": "enhanced 是相对某个基准提高，不保证所有方面更好；enhanced image 也不等于未经处理的原始照片。",
+    "examples": [
+      [
+        "The update includes enhanced search features.",
+        "更新加入了增强的搜索功能。"
+      ],
+      [
+        "The exhibition shows both the original and the enhanced image.",
+        "展览同时展示原图和增强处理后的图像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enhanced#English"
+    ]
+  },
+  {
+    "word": "enhancement",
+    "ipa": "英 /ɪnˈhɑːnsmənt/；美 /ɪnˈhænsmənt/",
+    "meaning": "增强、提升；改进项",
+    "sense": "既能说把效果往上推的过程，也能数出这次更新多了哪些改进。",
+    "split": "enhance + -ment，-ment 形成动作、状态或结果名词。原词末尾 e 保留，写 enhancement。",
+    "history": [
+      [
+        "拉丁 altus 高及相关动词 → 法语 enhauncer 等",
+        "抬高、使更大、更强"
+      ],
+      [
+        "中古英语 enhauncen → enhance",
+        "提高程度、增进价值、改善表现"
+      ],
+      [
+        "enhance + -ment → enhancement",
+        "增强的过程、效果；一项改进"
+      ]
+    ],
+    "explanation": "image enhancement 图像增强，performance enhancement 性能提升，an enhancement to the system 系统的一项改进。",
+    "usage": "image enhancement；performance enhancement；an enhancement to。",
+    "contrast": "enhancement 不一定是修 bug：可以是增加功能或改善体验。也不能仅凭这个词判断实际改善幅度。",
+    "examples": [
+      [
+        "The new release includes several small enhancements.",
+        "新版本包含几项小改进。"
+      ],
+      [
+        "Image enhancement made the faded writing easier to read.",
+        "图像增强让褪色字迹更容易辨认。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enhancement#English"
+    ]
+  },
+  {
+    "word": "enhancer",
+    "ipa": "英 /ɪnˈhɑːnsə/；美 /ɪnˈhænsər/",
+    "meaning": "增强物、增效剂；增强装置或工具",
+    "sense": "不是自己当主角，而是加入以后让另一种味道、声音、效果更突出。",
+    "split": "enhance + -er，-er 指起增强作用的东西或角色，末尾 e 与词尾连接。具体增强什么，常由前面的名词说明。",
+    "history": [
+      [
+        "拉丁 altus 高及相关动词 → 法语 enhauncer 等",
+        "抬高、使更大、更强"
+      ],
+      [
+        "中古英语 enhauncen → enhance",
+        "提高程度、增进价值、改善表现"
+      ],
+      [
+        "enhance + -er → enhancer",
+        "起增强作用的物质、工具、因素等"
+      ]
+    ],
+    "explanation": "a flavour enhancer 增味剂，a signal enhancer 信号增强装置，an image enhancer 图像增强工具；生物学里也有调控 DNA 的专门名词义。",
+    "usage": "a flavour enhancer；a signal enhancer；an image enhancer。",
+    "contrast": "enhancer 不等于被增强的对象：flavour enhancer 是增味的成分，flavour 是被增强的风味。-er 不保证是人。",
+    "examples": [
+      [
+        "The label lists the ingredient as a flavour enhancer.",
+        "标签把该成分列为增味剂。"
+      ],
+      [
+        "The editor used an image enhancer to improve the contrast.",
+        "编辑用图像增强工具改善对比度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enhancer#English"
+    ]
+  },
+  {
+    "word": "compensator",
+    "ipa": "英 /ˈkɒmpenseɪtə/；美 /ˈkɑːmpenseɪtər/",
+    "meaning": "补偿者；补偿器、起平衡或校正作用的装置",
+    "sense": "某个变化把平衡推偏，装置往另一方向作相应调整；这类承担补偿作用的东西可叫 compensator。",
+    "split": "compensate 去末尾 e + -or。-or 可以是提供补偿的一方，也可以是为变化、偏差作校正的设备。",
+    "history": [
+      [
+        "拉丁 com- + pensāre → compensāre",
+        "放在一起称量 → 抵平、弥补"
+      ],
+      [
+        "英语 compensate / compensation",
+        "补偿动作与补偿、薪酬等名词各有借入史"
+      ],
+      [
+        "compensate + -or → compensator",
+        "提供补偿者；抵消偏差的装置"
+      ]
+    ],
+    "explanation": "a pressure compensator 压力补偿器，a motion compensator 运动补偿器，a compensator in a control system 控制系统中的补偿器。",
+    "usage": "a pressure compensator；a motion compensator；a control compensator。",
+    "contrast": "compensator 不只赔钱的人，也不是 compensation 补偿这件事本身。技术上补偿哪种量，要看设备说明。",
+    "examples": [
+      [
+        "The system uses a compensator to correct for small changes.",
+        "系统用补偿器校正细小变化。"
+      ],
+      [
+        "The diagram shows a pressure compensator beside the main unit.",
+        "图中在主装置旁标出了压力补偿器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compensator#English"
+    ]
+  },
+  {
+    "word": "overcompensate",
+    "ipa": "英 /ˌəʊvəˈkɒmpenseɪt/；美 /ˌoʊvərˈkɑːmpenseɪt/",
+    "meaning": "补偿过度、矫枉过正",
+    "sense": "天平左边轻了，本来补一点就好，却在右边放得太多，又向另一头倒；行为上也会这样用力过头。",
+    "split": "over- 超过适当程度 + compensate 弥补。可以说给付补偿过多，也可说为了盖过不足而在另方面过度表现。",
+    "history": [
+      [
+        "拉丁 com- + pensāre → compensāre",
+        "放在一起称量 → 抵平、弥补"
+      ],
+      [
+        "英语 compensate / compensation",
+        "补偿动作与补偿、薪酬等名词各有借入史"
+      ],
+      [
+        "over- + compensate → overcompensate",
+        "想补平，结果补过头"
+      ]
+    ],
+    "explanation": "overcompensate for a weakness 为弥补弱点而过度反应，overcompensate by doing 通过做某事补偿过头，overcompensate financially 金钱补偿过多。",
+    "usage": "overcompensate for；overcompensate by doing。",
+    "contrast": "overcompensate 不是尽力弥补的中性赞扬，而是指出超过合适程度；中文常译矫枉过正，但对象不只改错误。",
+    "examples": [
+      [
+        "He overcompensated for his nervousness by talking too loudly.",
+        "他为了掩饰紧张，说话大声得过了头。"
+      ],
+      [
+        "The adjustment overcompensated for the original error.",
+        "那次调整对最初的误差补偿过度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overcompensate#English"
+    ]
+  },
+  {
+    "word": "spiritualism",
+    "ipa": "/ˈspɪrɪtʃuəlɪzəm/",
+    "meaning": "唯灵论等精神性学说；招魂、通灵信仰",
+    "sense": "哲学里可能在谈精神与物质谁更根本；历史、宗教文章里则常指相信亡者可通过灵媒与生者沟通。先问文章在谈理论还是通灵活动。",
+    "split": "spiritual + -ism，先有精神性学说方向，后来通灵信念成为常见专义。不是所有 spiritual 精神生活都自动属于这种通灵学说。",
+    "history": [
+      [
+        "拉丁 spiritus → spiritualis → 英语 spiritual",
+        "气息、精神 → 精神或灵性相关的"
+      ],
+      [
+        "spiritual + -ism/-ist",
+        "精神性理论及其主张者；通灵信念与相关人物"
+      ]
+    ],
+    "explanation": "nineteenth-century spiritualism 十九世纪通灵信仰，the spiritualist movement 通灵信仰运动，philosophical spiritualism 哲学上的唯灵论。",
+    "usage": "nineteenth-century spiritualism；the spiritualist movement；philosophical spiritualism。",
+    "contrast": "spirituality 灵性、精神生活与 spiritualism 不等同；词条描述一种信念，不是在确认其所声称的超自然沟通是事实。",
+    "examples": [
+      [
+        "The exhibition examines the popularity of spiritualism in the nineteenth century.",
+        "展览考察十九世纪通灵信仰的流行。"
+      ],
+      [
+        "The essay distinguishes philosophical spiritualism from materialism.",
+        "文章区分哲学上的唯灵论与唯物论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiritualism#English",
+      "https://www.etymonline.com/word/spiritualism"
+    ]
+  },
+  {
+    "word": "spiritualist",
+    "ipa": "/ˈspɪrɪtʃuəlɪst/",
+    "meaning": "唯灵论者；通灵信仰者、通灵活动参与者；相关的",
+    "sense": "给持有那套精神性理论或相信通灵的人命名。称一个人 spiritualist，只说明立场或活动类别，不说明他说的每件事都得到证实。",
+    "split": "spiritual + -ist，人物、立场词尾；现代可与 spiritualism 对照。也可作形容词，修饰会议、运动、组织。",
+    "history": [
+      [
+        "拉丁 spiritus → spiritualis → 英语 spiritual",
+        "气息、精神 → 精神或灵性相关的"
+      ],
+      [
+        "spiritual + -ism/-ist",
+        "精神性理论及其主张者；通灵信念与相关人物"
+      ],
+      [
+        "spiritual + -ist → spiritualist",
+        "精神性学说主张者；通灵信仰者及其相关的"
+      ]
+    ],
+    "explanation": "a spiritualist meeting 通灵信仰者聚会，a spiritualist movement 通灵运动，a spiritualist writer 相应立场的作者。",
+    "usage": "a spiritualist meeting；a spiritualist movement；a spiritualist writer。",
+    "contrast": "spiritualist 不等于所有 religious person 有宗教信仰者，也不等于 spiritual adviser 精神、宗教指导者。具体采用哪支含义要看文本。",
+    "examples": [
+      [
+        "The historian interviewed people from a spiritualist community.",
+        "历史学家采访了一个通灵信仰群体的人。"
+      ],
+      [
+        "The novel includes a scene at a spiritualist meeting.",
+        "小说有一场发生在通灵信仰者聚会上的戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiritualist#English"
+    ]
+  }
+]

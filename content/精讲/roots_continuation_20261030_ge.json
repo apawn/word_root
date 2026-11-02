@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B2766",
+    "meaning": "鼻子、嗅觉与伸出的前端",
+    "core": "NOSE：先看鼻子，再看像鼻子的前端",
+    "image": "nose → nosy 打听；nozzle 小管嘴；nose + 孔 → nostril；nosebleed、nosedive 各选不同鼻子义。",
+    "intro": "鼻子能闻、能往前伸，这两点足以解释很多扩展。先分清器官、嗅探、前端，再接后面的材料。",
+    "forms": "nosu → nose；noselle → nozzle；nosþyrel → nostril；nose + -y/bleed/dive；bottle + nose。\n\nnose 已有 e，加 s，词尾增加 /ɪz/；接古英语 nosu，不把末尾 -se 当独立后缀。\n\n旧 þyrel 是孔洞，不能拆成现代 trill。",
+    "branches": [
+      [
+        "基本词与爱打听",
+        "nose · nosy"
+      ],
+      [
+        "形状与孔口",
+        "nozzle · nostril · bottlenose"
+      ],
+      [
+        "部位和运动",
+        "nosebleed · nosedive"
+      ],
+      [
+        "nose → noses：鼻子、前端；探查",
+        "nose · noses"
+      ],
+      [
+        "nostril → nostrils：鼻子加孔的古英语组合",
+        "nose · nostril · nostrils"
+      ]
+    ],
+    "contrasts": "nose/nostril 整体与开口；nosy/curious 越界打听与一般好奇；nosedive 不只是轻微下降。",
+    "practice": "The nosy neighbor watched as the plane’s nose dipped.\n\n爱打听的邻居看着飞机机头低了下去。",
+    "words": [
+      "nose",
+      "nosy",
+      "nozzle",
+      "nostril",
+      "bottlenose",
+      "nosebleed",
+      "nosedive",
+      "noses",
+      "nostrils"
+    ],
+    "exclude": {
+      "hard-nose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-nose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-nose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nose-ish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nose-ender": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neb-nose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2569",
+    "meaning": "花名借给颜色，颜色还能变成政治标签",
+    "core": "PINK：花的名字变成粉红；小指另走一条路",
+    "image": "pink → pinkish 稍粉红；pink → pinko 政治贬称；pinky 小指另接荷兰语指小形式。",
+    "intro": "花名到颜色很直观，但花名最早从哪来仍有争议。小指的常用名也别被现代粉红色带偏。",
+    "forms": "花名 pink → 颜色 pink → pinkish/pinko；荷兰语 pinkje → pinkie/pinky 小指。",
+    "branches": [
+      [
+        "颜色与程度",
+        "pink · pinkish"
+      ],
+      [
+        "颜色的政治比喻",
+        "pinko"
+      ],
+      [
+        "同形分路：小指",
+        "pinky"
+      ]
+    ],
+    "contrasts": "pink/pinky 颜色与常用小指名分路；pinkish/pale pink 有点粉红与浅粉；pinko 带贬意。",
+    "practice": "She painted her pinky nail a pinkish colour.\n\n她把小指指甲涂成了略带粉红的颜色。",
+    "words": [
+      "pink",
+      "pinkish",
+      "pinko",
+      "pinky"
+    ],
+    "exclude": {
+      "pink-collar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

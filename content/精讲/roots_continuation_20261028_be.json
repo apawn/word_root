@@ -1,0 +1,69 @@
+[
+  {
+    "id": "B4199",
+    "meaning": "柱与张贴；邮递；驻点、岗位",
+    "core": "POST：同形几条来路，先问它在说柱、信、帖子还是岗位",
+    "image": "柱上贴告示成为公开发布；驿站联系邮递；安置的位置联系驻点岗位。不要用一个在后来包所有意思。",
+    "intro": "柱义上接拉丁 postis，经古英语、古法语；邮递、驻点岗位接法语 poste、意大利 posta 等。post- 表在后的前缀另看，不能把 postman 解释成后面的人。",
+    "forms": "post → poster、posting、repost 讲发布；postal → postage、postcard、postmark、postcode、postman、postmaster 讲邮务；blogpost 讲内容；outpost、goalpost 与已有 signpost 等分清位置和柱。\n\npost 的柱、邮递、岗位等材料有不同历史路线；posted 不一律按前缀 post- 在后解释。\n\n柱与驿站、岗位等分支分别追溯，张贴内容后有网络发布义。\n\n张贴义 post 加完整 er，人物和物品两种词义都常见。",
+    "branches": [
+      [
+        "柱、发布、派驻的基本词",
+        "post · poster · posting · repost"
+      ],
+      [
+        "邮政与费用、载体、印记、编码",
+        "postal · postage · postcard · postmark · postcode"
+      ],
+      [
+        "邮政人员和数字内容",
+        "postman · postmaster · blogpost"
+      ],
+      [
+        "驻点和柱形物",
+        "outpost · goalpost · signpost · lamppost · milepost"
+      ],
+      [
+        "post → posted：发布、寄出与派驻",
+        "post · posted"
+      ],
+      [
+        "post → posts：柱、岗位与发布内容",
+        "post · posts"
+      ],
+      [
+        "poster → posters：张贴出来的内容与发帖的人",
+        "post · poster · posters"
+      ]
+    ],
+    "contrasts": "poster 海报、发帖者；postcard 明信片；postage 邮资、postmark 邮戳、postcode 邮编；postmaster 管理者，不是所有 post 都等于在后。",
+    "practice": "The postman brought a postcard with a clear postmark, while I reposted a photo of the old goalposts.\n\n邮递员带来一张邮戳清晰的明信片，我则重发了一张旧门柱照片。",
+    "words": [
+      "post",
+      "poster",
+      "posting",
+      "repost",
+      "postal",
+      "postage",
+      "postcard",
+      "postmark",
+      "postcode",
+      "postman",
+      "postmaster",
+      "blogpost",
+      "outpost",
+      "goalpost",
+      "signpost",
+      "lamppost",
+      "milepost",
+      "posted",
+      "posts",
+      "posters"
+    ],
+    "exclude": {
+      "post-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "top-post": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bottom-post": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

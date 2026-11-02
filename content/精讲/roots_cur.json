@@ -5,7 +5,7 @@
     "core": "CUR = CARE",
     "image": "把注意力放在一件事上，认真照料它",
     "intro": "**先想有人把一件事放在心上，愿意照看、料理。** 拉丁语 cūra 是关心、照料，也可以是忧虑；cūrāre 是照管、处理。照顾病人形成 cure，照看藏品的人是 curator，认真处理到位得到 accurate。另一条很有用的路线是 sēcūrus：不用再操心 → 安全、放心 → secure 和 sure。",
-    "forms": "cur- 是照料这一族，别和 curr- / curs-“跑”混为一谈。secure 中 sē- 表示离开、没有，sure 是经过法语变化后的同源形式。pro- 在 procure 中带出代为办理；manicure、pedicure 分别说明照料手和脚。curate 的牧师名词与策展动词各有来路，读音也不同。scour 的清洗义与本族可能相关，搜寻义还有另一来源，图中作了区分。",
+    "forms": "cur- 是照料这一族，别和 curr- / curs-“跑”混为一谈。secure 中 sē- 表示离开、没有，sure 是经过法语变化后的同源形式。pro- 在 procure 中带出代为办理；manicure、pedicure 分别说明照料手和脚。curate 的牧师名词与策展动词各有来路，读音也不同。scour 的清洗义与本族可能相关，搜寻义还有另一来源，图中作了区分。\n\ncure 接拉丁 cura、curare 的照料词族；治好、食品腌制保存、材料固化或养护已是不同固定用法，按对象理解，不能都译治病或晾干。\n\n无忧、安全的历史词族，扩展到保障债务等的文书，再有证券的专门用法。\n\n拉丁 securus 接 se- 与 cura，现代动词扩为使稳固、确保取得。\n\n法语使安全、确定的组合，远接 securus、cura，ing 去 e。\n\n古法语 asseurer 连拉丁 securus 安全、无忧虑，不是现代 assure 一词里每段都仍独立。\n\n拉丁 securus 无忧虑、安全，经借入，现代去 e 加 ing。\n\n安全、无忧的拉丁材料经法语形成 assure、reassure；后者有较早法语 rasseurer 路线，不只是在现代英语临时加 re-。\n\nassurance 的法语名词借入与 assure 对应；复数常数若干保证话、安抚承诺，不把所有抽象信心机械复数。\n\ninsure 是 ensure 的历史拼写变体，来自法语使安全词族，后来保险义突出。去 e 加完整 -ed，后缀读 /d/，sure 部分的元音存在英美与口音差异。",
     "branches": [
       [
         "照护与处理",
@@ -30,6 +30,42 @@
       [
         "代为操办",
         "procure · proctor · proxy"
+      ],
+      [
+        "cure 的护理、处理与完成状态",
+        "cure · curing · cured · curable · incurable"
+      ],
+      [
+        "security → securities：安全、担保与证券",
+        "security · securities"
+      ],
+      [
+        "secure → secured：固定、保住与成功取得",
+        "secure · secured · security"
+      ],
+      [
+        "ensure → ensuring：把不确定的事落实成确定",
+        "ensure · ensuring"
+      ],
+      [
+        "assure → assured：使人放心；有把握的",
+        "assure · assured"
+      ],
+      [
+        "secure → securing：固定、使安全与争取得到",
+        "secure · securing"
+      ],
+      [
+        "assure 与 reassure：使人确信与打消担忧",
+        "assure · assures · assuring · reassure · reassures · reassured · reassuring"
+      ],
+      [
+        "保证与安抚话：assurance、reassurance 的可数复数",
+        "assurance · assurances · reassurance · reassurances"
+      ],
+      [
+        "in-/en- 使 + sure 可靠 → insured",
+        "insured"
       ]
     ],
     "contrasts": "**assure / ensure / insure**：向人保证；确保事情实现；提供保险。\n\n**cure / treat / heal**：治好；治疗；愈合、恢复。可治疗不一定等于可治愈。\n\n**curious / curiosity / curio**：好奇的或奇特的；好奇心或奇物；小型珍奇物件。\n\n**curator / curate**：馆藏管理人、策展人；curate 作动词是策展，作名词却是牧师职位。\n\n**secure / sure / sinecure**：安全牢靠；心里确信；有报酬而少有实际职责的职位。同根的“免于操心”走出了不同方向。",
@@ -98,7 +134,22 @@
       "assecure",
       "pococurante",
       "scour",
-      "scourage"
+      "scourage",
+      "curing",
+      "cured",
+      "securities",
+      "secured",
+      "ensuring",
+      "assured",
+      "securing",
+      "assures",
+      "assuring",
+      "reassures",
+      "reassured",
+      "reassuring",
+      "assurances",
+      "reassurances",
+      "insured"
     ]
   }
 ]

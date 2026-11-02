@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2542",
+    "meaning": "喝、饮品与饮酒；不规则变化和醉态分清",
+    "core": "DRINK：喝液体，是否喝酒、是否醉要看结构",
+    "image": "drink → drinking、drinker、drinkable；drunk 与 drunken 一起读，说明前者分词和醉态不同；drinkwater 冷门形式先略。",
+    "intro": "旧动词变化保留 dr-i/dr-a/dr-u，不是 drank、drunk 两个新词根。喝水的完成时与醉态形容词分开。",
+    "forms": "drink—drank—drunk；drink + -ing/-er/-able；drunken 保留旧较完整分词形。\n\ndrank 是过去式，drunk 是过去分词；drunk 另有醉的常用形容词义，已分别说明。\n\n本族名动词都有旧形式，第三人称单数与名词复数同形。\n\ndrench 承古英语 drencan，是 drincan 喝的旧使动形式，早有使饮、浸透等义；现代 drench 常说浇透、弄湿透。\n\ndrown 近源有古英语 druncnian 与古北欧 drukna 等不同分析，通常联系 drink 的较远词族；不是现代 drink 按普通规则变来的动词。加 -ing 不改词干。\n\ndrown 近源有古英语 druncnian、古北欧 drukna 等不同分析，通常联系 drink 的较远词族。现代加完整 -ed，/n/ 后读 /d/，与 drowning 连在一起学习。",
+    "branches": [
+      [
+        "动作、活动、人物与可饮用",
+        "drink · drinking · drinker · drinkable"
+      ],
+      [
+        "分词及醉态",
+        "drunk · drunken"
+      ],
+      [
+        "drink、drank、drunk 的元音变化",
+        "drink · drank · drunk"
+      ],
+      [
+        "drink → drinks：饮品与喝",
+        "drink · drinks"
+      ],
+      [
+        "drink 与 drench 的旧使动关系",
+        "drink · drench · drenches · drenched · drenching"
+      ],
+      [
+        "水吞没的词族 → drown → drowning",
+        "drown · drowning"
+      ],
+      [
+        "drown → drowned：水淹与声音盖过",
+        "drowned"
+      ]
+    ],
+    "contrasts": "drinking water 可能饮用水或正在喝水的结构；has drunk 不等于喝醉；drinker 不自动成瘾；drunken 多形容修饰。",
+    "practice": "The tea drinker has drunk some water and found the tea quite drinkable.\n\n这位爱喝茶的人喝了些水，也觉得那茶还算能喝。",
+    "words": [
+      "drink",
+      "drinking",
+      "drinker",
+      "drinkable",
+      "drunk",
+      "drunken",
+      "drank",
+      "drinks",
+      "drench",
+      "drenches",
+      "drenched",
+      "drenching",
+      "drown",
+      "drowning",
+      "drowned"
+    ],
+    "exclude": {
+      "pre-drink": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drinkwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3008",
+    "meaning": "穿戴状态与用久磨损；人也会被消耗",
+    "core": "WEAR：穿在身上；反复使用会磨损、耗精力",
+    "image": "wear → worn、wearing，再 wearer、wearable；变化 wore 直接在基础词说明，所有新增词逐词讲清。",
+    "intro": "穿戴与损耗有历史联系；不把 wear 当只会穿衣。它还显示英语旧规则动词能后来类推成不规则。",
+    "forms": "wear—wore—worn；wear + -ing/-er/-able；wear out/down/off 等接不同耗损方向。\n\nwear 较早有 wered 等带词尾形式，后来受 bear、tear 等相近读音词的变位模式影响，形成现代 wore、worn。\n\n本族覆盖、穿用材料走向反复使用造成损耗，三单规则，过去式 wore 另记。",
+    "branches": [
+      [
+        "基本状态、分词和耗人过程",
+        "wear · worn · wearing"
+      ],
+      [
+        "穿戴者与适穿、设备",
+        "wearer · wearable"
+      ],
+      [
+        "wear 的过去形式如何改换模式",
+        "wear · wore · worn"
+      ],
+      [
+        "wear → wears：穿戴；磨耗",
+        "wear · wears"
+      ]
+    ],
+    "contrasts": "wear 状态、put on 动作；worn 穿过不一定磨坏；wearing 耗人、worn 已疲惫；wearable 可戴与 portable 可带不同。",
+    "practice": "The wearer was wearing a new device, while the old strap looked worn.\n\n佩戴者戴着新设备，旧表带则显得磨损了。",
+    "words": [
+      "wear",
+      "worn",
+      "wearing",
+      "wearer",
+      "wearable",
+      "wore",
+      "wears"
+    ],
+    "exclude": {}
+  }
+]

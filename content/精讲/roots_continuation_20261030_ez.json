@@ -1,0 +1,173 @@
+[
+  {
+    "id": "B4423",
+    "meaning": "旧无言义与现代犯傻义，派生词按分支理解",
+    "core": "DUMB：b 不发音；无声和愚蠢不要每次混为一谈",
+    "image": "dumb → dummy、dumbass；dumbbell、dumbstruck 保留无声、无言画面。",
+    "intro": "dummy data 是测试替代物，dumbbell 是哑铃，dumbstruck 是一时惊呆；词源并不把说话能力与智力等同。",
+    "forms": "古英语 dumb → dumb；dumb + -y/ass/bell；dumb + struck。",
+    "branches": [
+      [
+        "基础与人物、替代物",
+        "dumb · dummy · dumbass"
+      ],
+      [
+        "旧无声义的保留",
+        "dumbbell · dumbstruck"
+      ]
+    ],
+    "contrasts": "dumb/deaf 说话听觉不同；dummy 替代物可很有用；dumbbell/barbell 哑铃杠铃；dumbstruck 非变笨。",
+    "practice": "The surprising display left him dumbstruck beside the crash test dummy.\n\n惊人的展示让他在碰撞测试假人旁惊得说不出话。",
+    "words": [
+      "dumb",
+      "dummy",
+      "dumbass",
+      "dumbbell",
+      "dumbstruck"
+    ],
+    "exclude": {
+      "dumbo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3897",
+    "meaning": "围闭、关押的空间与执行拘禁的人",
+    "core": "JAIL：从笼的历史画面到监牢和关押",
+    "image": "jail → jailer、jailhouse、jailbreak，场所、人物与逃脱组合相邻。",
+    "intro": "jail/gaol 同词传统拼写，jailer 关别人，prisoner 被关；jailbreak 软件语境又借解除限制画面。",
+    "forms": "cavea → caveola 经法语、中古英语 → jail；法语 jaiolier → jailer；jail + house/break。",
+    "branches": [
+      [
+        "监牢、看守与具体场所",
+        "jail · jailer · jailhouse"
+      ],
+      [
+        "逃脱或解除限制",
+        "jailbreak"
+      ]
+    ],
+    "contrasts": "jail/prison 地区用法；jailer/prisoner 关押角色；gaol 同读；jailbreak 不每次实际逃出牢房。",
+    "practice": "The jailer worked in the old jailhouse.\n\n看守在旧监牢里工作。",
+    "words": [
+      "jail",
+      "jailer",
+      "jailhouse",
+      "jailbreak"
+    ],
+    "exclude": {
+      "jailbait": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2489",
+    "meaning": "结果、成果与具体水果名称",
+    "core": "FRUIT：树上结出的东西，再借给努力的成果",
+    "image": "fruit → fruity、fruitful、fruitless；grapefruit 是具体果名，别按葡萄加任意水果猜。",
+    "intro": "fruitful meeting 有成果，fruitless search 无结果；fruit 的具体品种名常有自己的命名史。",
+    "forms": "拉丁 fructus 等经法语 → fruit；fruit + -y/-ful/-less；grape + fruit → grapefruit。\n\n与 fruit 比较食物，不是 fruit 派生。banana 经西班牙语或葡萄牙语，较远接西非词，有沃洛夫语来源分析；不是现代英语前后缀组合。\n\n与 fruit 比较水果，不是拉丁 fructus 派生。mango 经葡萄牙语，较远接马来语、泰米尔语等材料；avocado 经西班牙语接纳瓦特尔语水果名，不能按现代英语前缀自由拼。\n\n经美洲西班牙语接纳瓦特尔语的牛油果 + 酱材料；现代英语短称 guac 才由 guacamole 截短。",
+    "branches": [
+      [
+        "水果、味道与结果性质",
+        "fruit · fruity · fruitful · fruitless"
+      ],
+      [
+        "具体水果",
+        "grapefruit"
+      ],
+      [
+        "banana：借入的水果名与发疯口语",
+        "banana · bananas"
+      ],
+      [
+        "mango、avocado：不同语言传来的水果名",
+        "mango · mangoes · avocado · avocados"
+      ],
+      [
+        "avocado 对照：guacamole 牛油果酱",
+        "guacamole"
+      ]
+    ],
+    "contrasts": "fruitful/fruitless 有成果无结果；grapefruit/grape/pomelo 不同果名；fruity 果香与成果性质不同。",
+    "practice": "The fruitless search ended when they found the grapefruit tree.\n\n他们终于找到葡萄柚树，先前毫无结果的寻找结束了。",
+    "words": [
+      "fruit",
+      "fruity",
+      "fruitful",
+      "fruitless",
+      "grapefruit",
+      "banana",
+      "bananas",
+      "mango",
+      "mangoes",
+      "avocado",
+      "avocados",
+      "guacamole"
+    ],
+    "exclude": {
+      "fruit-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fruit-eater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fruited": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2900",
+    "meaning": "给表面上色到器具、动作与彩弹活动",
+    "core": "PAINT：颜料、涂画，再看拿什么、重涂或标记",
+    "image": "paint → painter、paintbrush、paintwork、repaint；paintball 接颜色标记的球与游戏。",
+    "intro": "painter 人物，paintbrush 工具，paintwork 表面涂层；paintball 里颜色用于标记，未必实际绘画。",
+    "forms": "拉丁 pingere 等相关形式经法语英语 → paint；paint + -er/brush/work；re- + paint；paint + ball。",
+    "branches": [
+      [
+        "基础、人物、工具与结果",
+        "paint · painter · paintbrush · paintwork"
+      ],
+      [
+        "重涂与彩弹",
+        "repaint · paintball"
+      ]
+    ],
+    "contrasts": "paintwork 表面涂装非 painter 职业；paintball 活动与一颗弹丸可数用法；repaint 重新上色。",
+    "practice": "The painter repainted the damaged paintwork.\n\n油漆工重新涂好了受损漆面。",
+    "words": [
+      "paint",
+      "painter",
+      "paintbrush",
+      "paintwork",
+      "repaint",
+      "paintball"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3508",
+    "meaning": "戳的动作、袋子名与其他借词分开",
+    "core": "POKE：戳是一个词族，口袋沿另一个袋词而来",
+    "image": "poke → poker 工具；pocket 接袋词；poker 牌名和夏威夷 poke 食物另源；slowpoke 是慢吞吞者。",
+    "intro": "拼写近能帮导航，不能替代历史。口袋不是戳出来的，扑克也不一定由拨火棍命名。",
+    "forms": "poken 等 → poke 戳 → poker 工具；poque、poke 袋 → pocket；纸牌名称 → poker 游戏；夏威夷词 → poke 食品。\n\n古法语小袋名称借入，衣袋、局部小区域和收进自己手里的动词义各有扩展。",
+    "branches": [
+      [
+        "基础多义与戳的工具",
+        "poke · poker"
+      ],
+      [
+        "袋子与相关人物名",
+        "pocket · slowpoke"
+      ],
+      [
+        "pocket → pockets：小袋与放进口袋",
+        "pocket · pockets"
+      ]
+    ],
+    "contrasts": "poker 工具与牌名分源；pocket 接袋非戳；poke 食品另读音；a pig in a poke 的 poke 是袋。",
+    "practice": "He found a poker chip in his coat pocket.\n\n他在外套口袋里找到一枚扑克筹码。",
+    "words": [
+      "poke",
+      "poker",
+      "pocket",
+      "slowpoke",
+      "pockets"
+    ],
+    "exclude": {}
+  }
+]

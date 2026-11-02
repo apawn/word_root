@@ -1,0 +1,107 @@
+[
+  {
+    "id": "B2580",
+    "meaning": "错误；不合适；不公；不对劲",
+    "core": "WRONG：从不正到不正确、不公正",
+    "image": "旧的歪曲意象帮助记忆；现代一定看语境，答案错、尺寸不合、行为不公不是同一个层面。",
+    "intro": "wrong 有古诺斯语 rangr、vrangr 背景，经英语早期形式发展；开头 w 不发音。",
+    "forms": "wrong → wrongly、wrongful、wrongness；wrongdoing 是已经形成的不当行为名词。",
+    "branches": [
+      [
+        "基本判断与方式",
+        "wrong · wrongly"
+      ],
+      [
+        "行为不当及其性质",
+        "wrongful · wrongness · wrongdoing"
+      ]
+    ],
+    "contrasts": "wrong answer 是答案错；wrongful act 是行为不当；What’s wrong? 常只是问怎么了。",
+    "practice": "I wrongly assumed that choosing the wrong size was the only thing that could go wrong.\n\n我原先误以为，唯一可能出的问题就是尺寸选错。",
+    "words": [
+      "wrong",
+      "wrongly",
+      "wrongful",
+      "wrongness",
+      "wrongdoing"
+    ],
+    "exclude": {
+      "self-wrong": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wrong-timed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3345",
+    "meaning": "不错；愉快；友善；另有精细义",
+    "core": "NICE：今天的友善、愉快，不能只靠最古老词义理解",
+    "image": "这个词能提醒我们：知道来源有助理解，却不能拿古义替代现代义。",
+    "intro": "nice 经法语来自拉丁语 nescius 不知情的。英语史上有挑剔、精细等多种用法，愉快、友善是后来发展的常用义。",
+    "forms": "nice → nicely、niceness；精细义在 a nice distinction 等搭配中还能看见。\n\nnice 去 e 加完整比较级 -er，/ˈnaɪsə/ 或 /ˈnaɪsɚ/。远接拉丁 nescius 不知道，历经挑剔、精细、合意等意义，现代好、友善义须按现用法理解。",
+    "branches": [
+      [
+        "现代常用评价",
+        "nice"
+      ],
+      [
+        "动作方式与品质",
+        "nicely · niceness"
+      ],
+      [
+        "nice → nicer：更好、更友善",
+        "nicer"
+      ]
+    ],
+    "contrasts": "look nice 看起来不错；ask nicely 好好开口；a nice distinction 是细微精确的区别。",
+    "practice": "She asked nicely, and he found a solution that worked nicely for everyone.\n\n她好好提出请求，他找到了一种让所有人都满意的解决办法。",
+    "words": [
+      "nice",
+      "nicely",
+      "niceness",
+      "nicer"
+    ],
+    "exclude": {
+      "nice-to-have": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2940",
+    "meaning": "简单；朴素；简化与过分简单化",
+    "core": "SIMPLE：层次不复杂，表达可以清楚",
+    "image": "只有一重的旧构词画面，帮助理解不复杂；是否简化得好，还得看有没有保住关键内容。",
+    "intro": "simple 经法语来自拉丁语 simplex 一重的。simply 是副词，simplify 是简化，simplistic 常是批评简化过度。",
+    "forms": "simple → simply、simplify；再对照 simplistic；simpleton 是带贬义的人物称呼。\n\nsimple 接拉丁 simplex 一重的经法语借入；比较级、最高级都先去 e，再分别加完整 -er、-est。\n\nsimplicity 经法语 simplicite 接拉丁 simplicitas，来自 simplex、simplic- 单纯，不能直接把 simple 的 e 改成 icity 当成普遍规则。现代常说简洁、朴素。",
+    "branches": [
+      [
+        "简单、表达方式与简化动作",
+        "simple · simply · simplify"
+      ],
+      [
+        "简化过度与人物贬称",
+        "simplistic · simpleton"
+      ],
+      [
+        "simple → simpler → simplest：更简单、最简单",
+        "simple · simpler · simplest"
+      ],
+      [
+        "simple 与 simplicity：不复杂、朴素",
+        "simplicity"
+      ]
+    ],
+    "contrasts": "simple 常肯定，simplistic 常批评；simply wonderful 是简直太棒，不能逐字理解成简单地棒。",
+    "practice": "Explain it simply, but avoid a simplistic explanation.\n\n把它讲简单些，但别为了简单而漏掉关键复杂因素。",
+    "words": [
+      "simple",
+      "simply",
+      "simplify",
+      "simplistic",
+      "simpleton",
+      "simpler",
+      "simplest",
+      "simplicity"
+    ],
+    "exclude": {
+      "simple-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

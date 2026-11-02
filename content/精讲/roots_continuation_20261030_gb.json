@@ -1,0 +1,89 @@
+[
+  {
+    "id": "B2945",
+    "meaning": "凸起小结变纽扣，再到按一下的按钮",
+    "core": "BUTTON：扣合与触发，按场景抓功能",
+    "image": "button → unbutton 解除扣合；bellybutton 借形状称肚脐。",
+    "intro": "衣扣和屏幕按钮都叫 button，功能已分；bellybutton 则只借外观称身体部位，不是按钮功能。",
+    "forms": "bouter → boton → button；un- + button；belly + button。\n\n法语 boton 芽、凸起等旧义发展纽扣，现代再扩到实体、虚拟按钮。\n\n法语借入的纽扣名转成扣紧动作，再加完整 -ed、-ing。",
+    "branches": [
+      [
+        "纽扣、按钮与扣合动作",
+        "button · unbutton"
+      ],
+      [
+        "形状比喻身体名",
+        "bellybutton"
+      ],
+      [
+        "button → buttons：凸起小结与按下的控制点",
+        "button · buttons"
+      ],
+      [
+        "button → buttoned、buttoning：纽扣到扣好衣物",
+        "button · buttoned · buttoning"
+      ]
+    ],
+    "contrasts": "unbutton/unzip 解纽扣与解拉链；bellybutton/navel 口语与正式名称；button 不硬拆 butt + on。",
+    "practice": "He unbuttoned his coat, then pressed the lift button.\n\n他解开外套纽扣，然后按了电梯按钮。",
+    "words": [
+      "button",
+      "unbutton",
+      "bellybutton",
+      "buttons",
+      "buttoned",
+      "buttoning"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4204",
+    "meaning": "先掂量、看细，再作判断",
+    "core": "EXAMINE：仔细检验，不只写试卷",
+    "image": "examine → examiner 人物；examination 历史名词支线，exam 是常见缩短。",
+    "intro": "sample、evidence、student 不同宾语，让同一个动作落到实验、审查、考核中。名词、人物和动作集中对照。",
+    "forms": "exāmen、exāmināre → examiner → examine；exāminātiō → examinacion → examination；examine + -er。\n\n先有 examination，后来截短 exam，再按普通名词数考试、检查。\n\n法语 examiner 接拉丁 examinare 的称量、检验材料，过去尾 d。\n\n拉丁 examen 称量材料经法语；去 e 加完整 ing。\n\nexamination 经法语、拉丁 examinatio，接 examinare 检验、衡量。现代复数说考试、检查活动；与 exam 简称相邻理解。",
+    "branches": [
+      [
+        "仔细检查动作",
+        "examine"
+      ],
+      [
+        "检查过程、简称与实施者",
+        "examination · exam · examiner"
+      ],
+      [
+        "examination → exam → exams：长名称缩成日常短词",
+        "examination · exam · exams"
+      ],
+      [
+        "examine → examined：仔细检视、查问",
+        "examine · examined"
+      ],
+      [
+        "examine → examining：仔细检验、权衡",
+        "examine · examining"
+      ],
+      [
+        "examine 检验、细看 → examinations",
+        "examinations"
+      ]
+    ],
+    "contrasts": "examine/look at 仔细检验与泛看；examination/examiner 过程与人；名词借入链不只现代贴后缀。",
+    "practice": "The examiner examined the answers after the examination.\n\n考试后，考官检查了答卷。",
+    "words": [
+      "examine",
+      "examination",
+      "exam",
+      "examiner",
+      "exams",
+      "examined",
+      "examining",
+      "examinations"
+    ],
+    "exclude": {
+      "re-examine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-examine": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

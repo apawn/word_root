@@ -1,0 +1,278 @@
+[
+  {
+    "word": "regard",
+    "ipa": "英 /rɪˈɡɑːd/；美 /rɪˈɡɑːrd/",
+    "meaning": "看待、认为；注视；关心、敬重；方面；问候〔复数〕",
+    "sense": "先把目光、心思放到某处，再看“你把它当什么”。放在心上可变成关心、敬重；in this regard 则把讨论目光限定到这一方面。",
+    "split": "经古法语 regarder、reguarder 与名词 regard 的相应路径；更早的 garder 有看守、留意的日耳曼语背景。re- 在旧词中带加强等作用，不机械译成再次守卫。",
+    "history": [
+      [
+        "古法语 regarder、reguarder → 中古英语 regarden → regard〔动词〕",
+        "留意看、看待；后有尊重、认为"
+      ],
+      [
+        "法语 regard → 中古英语 regard、regarde → regard〔名词〕",
+        "注意、看待 → 关心、敬重；方面、问候等"
+      ]
+    ],
+    "explanation": "regard A as B 把 A 看作 B，have regard for 顾及，hold someone in high regard 敬重某人，in this regard 在这方面，Best regards 信末问候。",
+    "usage": "regard A as B；have regard for；in this regard；with regard to；Best regards。",
+    "contrast": "regard as 后不再套一个多余的 as；regard 可作动词，regarding 常是关于。regards 复数可问候，但单数 regard 不一般独立说一声问候。",
+    "examples": [
+      [
+        "They regard her as a reliable colleague.",
+        "他们认为她是一位可靠的同事。"
+      ],
+      [
+        "The report says little in this regard.",
+        "报告在这方面没说多少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/regard#English"
+    ]
+  },
+  {
+    "word": "regarding",
+    "ipa": "英 /rɪˈɡɑːdɪŋ/；美 /rɪˈɡɑːrdɪŋ/",
+    "meaning": "关于、就……而言；正在看待、注视〔分词〕",
+    "sense": "把目光转到某个话题：regarding your question，就是下面说的话针对你的问题。",
+    "split": "regard + -ing 的分词形式发展出介词用法，表示在考虑、涉及某事方面。现代句中常已是介词，不必每次译成正在注视。",
+    "history": [
+      [
+        "古法语 regarder、reguarder → 中古英语 regarden → regard〔动词〕",
+        "留意看、看待；后有尊重、认为"
+      ],
+      [
+        "法语 regard → 中古英语 regard、regarde → regard〔名词〕",
+        "注意、看待 → 关心、敬重；方面、问候等"
+      ],
+      [
+        "regard + -ing → regarding",
+        "看待、考虑 → 引出相关话题的介词"
+      ]
+    ],
+    "explanation": "regarding your request 关于你的请求，information regarding the project 项目相关信息。正式邮件常见。",
+    "usage": "regarding your request；information regarding；questions regarding。",
+    "contrast": "regarding 后直接接对象，with regard to 才接 to；不要混成 regarding to。regarding 与 about 常可替换，但语气更正式。",
+    "examples": [
+      [
+        "I am writing regarding your application.",
+        "我写信是想谈谈你的申请。"
+      ],
+      [
+        "Please contact us with any questions regarding the schedule.",
+        "关于日程有任何问题，请联系我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/regarding#English"
+    ]
+  },
+  {
+    "word": "regardless",
+    "ipa": "英 /rɪˈɡɑːdləs/；美 /rɪˈɡɑːrdləs/",
+    "meaning": "不顾、不受影响地；不管怎样",
+    "sense": "知道有某个条件、阻力，却不让它改变接下来的决定；有时也批评根本不顾后果。",
+    "split": "regard 关注、顾及 + -less 没有。现代常作副词；regardless of 后接那个不影响结果的条件。",
+    "history": [
+      [
+        "古法语 regarder、reguarder → 中古英语 regarden → regard〔动词〕",
+        "留意看、看待；后有尊重、认为"
+      ],
+      [
+        "法语 regard → 中古英语 regard、regarde → regard〔名词〕",
+        "注意、看待 → 关心、敬重；方面、问候等"
+      ],
+      [
+        "regard + -less → regardless",
+        "不予顾及 → 不管怎样、不受其影响"
+      ]
+    ],
+    "explanation": "regardless of age 不论年龄，regardless of cost 不计成本，carry on regardless 不管怎样继续。",
+    "usage": "regardless of；regardless of age；carry on regardless。",
+    "contrast": "regardless of 后接名词或名词性结构，although 常引句子；不顾成本与不受年龄影响，褒贬由具体场景决定。",
+    "examples": [
+      [
+        "Everyone is welcome, regardless of age.",
+        "不论年龄，所有人都欢迎来。"
+      ],
+      [
+        "The rain was heavy, but they carried on regardless.",
+        "雨很大，但他们还是照常继续。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/regardless#English"
+    ]
+  },
+  {
+    "word": "disregard",
+    "ipa": "英 /ˌdɪsrɪˈɡɑːd/；美 /ˌdɪsrɪˈɡɑːrd/",
+    "meaning": "不理会、忽视；不顾",
+    "sense": "信息、规则就在眼前，却不把它算进自己的行动里；可以故意不理，也可在要求对方别把旧消息当回事。",
+    "split": "dis- 否定、逆转 + regard 顾及，形成不理会的动词，也可作不顾的名词。",
+    "history": [
+      [
+        "古法语 regarder、reguarder → 中古英语 regarden → regard〔动词〕",
+        "留意看、看待；后有尊重、认为"
+      ],
+      [
+        "法语 regard → 中古英语 regard、regarde → regard〔名词〕",
+        "注意、看待 → 关心、敬重；方面、问候等"
+      ],
+      [
+        "dis- + regard → disregard",
+        "不予考虑、不顾及"
+      ]
+    ],
+    "explanation": "disregard a warning 不理警告，disregard the previous email 忽略上一封邮件，a disregard for safety 不顾安全。",
+    "usage": "disregard a warning；disregard the previous email；a disregard for。",
+    "contrast": "disregard 常比 overlook 更有不把它当回事的感觉；overlook 还可是不小心漏看。disregard 具体动作、态度，regardless 常修饰不受某条件影响。",
+    "examples": [
+      [
+        "Please disregard the date in my previous message.",
+        "请忽略我上一条消息中的日期。"
+      ],
+      [
+        "The review criticized the company’s disregard for safety.",
+        "评论批评了公司不顾安全的态度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disregard#English"
+    ]
+  },
+  {
+    "word": "employable",
+    "ipa": "/ɪmˈplɔɪəbəl/",
+    "meaning": "具备就业条件的、能被雇用的",
+    "sense": "拥有让雇主愿意考虑聘用的技能、条件。说具备机会和能力，不是已经拿到工作。",
+    "split": "employ + -able；employ 经法语 employer 接拉丁 implicāre 等旧路径，现代 employable 说可被雇用，不要硬译成可被缠绕。",
+    "history": [
+      [
+        "法语 employer → employ",
+        "使用、雇用"
+      ],
+      [
+        "employ + -able → employable",
+        "具备被雇用的条件"
+      ]
+    ],
+    "explanation": "become more employable 提升就业能力，employable skills 有助就业的技能，highly employable 很有就业竞争力。",
+    "usage": "become more employable；highly employable；employable skills。",
+    "contrast": "employable 能被雇用，employed 已受雇，unemployed 未就业；一个人可以暂未就业却具备很强的就业能力。",
+    "examples": [
+      [
+        "The course aims to make graduates more employable.",
+        "这门课旨在提高毕业生的就业能力。"
+      ],
+      [
+        "Her language skills make her highly employable.",
+        "她的语言能力使她很有就业竞争力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/employable#English"
+    ]
+  },
+  {
+    "word": "behaviorism",
+    "ipa": "英 /bɪˈheɪvjərɪzəm/；美 /bɪˈheɪvjərɪzəm/",
+    "meaning": "行为主义〔心理学理论取向〕",
+    "sense": "研究心理时，先盯住能观察、记录的行为，以及行为怎样受环境和学习影响；不是在赞美某个人表现乖。",
+    "split": "behavior + -ism，-ism 命名理论取向。英式常拼 behaviourism；不同流派对内部过程的看法不全相同，不缩成所有行为主义都否认人有想法。",
+    "history": [
+      [
+        "behave → behavior",
+        "举止、行事 → 行为、表现"
+      ],
+      [
+        "behavior + -ism/-ist",
+        "以行为研究为核心的理论名称及其研究者称呼"
+      ]
+    ],
+    "explanation": "the history of behaviorism 行为主义史，the rise of behaviorism 行为主义的兴起，an introduction to behaviorism 行为主义入门。",
+    "usage": "the history of behaviorism；the rise of behaviorism；an introduction to behaviorism。",
+    "contrast": "behavior 行为，behavioral 与行为有关，behaviorism 特定理论取向；不是所有观察行为的研究都自动属于行为主义。",
+    "examples": [
+      [
+        "The chapter introduces the main ideas of behaviorism.",
+        "这一章介绍行为主义的主要思想。"
+      ],
+      [
+        "We compared behaviorism with other approaches to learning.",
+        "我们比较了行为主义与其他学习研究取向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/behaviorism#English"
+    ]
+  },
+  {
+    "word": "behaviorist",
+    "ipa": "英 /bɪˈheɪvjərɪst/；美 /bɪˈheɪvjərɪst/",
+    "meaning": "行为主义者；行为主义的",
+    "sense": "人物名词指采取行为主义取向的人；修饰观点时，就是从这种理论出发看问题。",
+    "split": "behavior + -ist，和 behaviorism 构成理论、人物的对应。英式也见 behaviourist。",
+    "history": [
+      [
+        "behave → behavior",
+        "举止、行事 → 行为、表现"
+      ],
+      [
+        "behavior + -ist → behaviorist",
+        "采用行为主义取向的人；相关的"
+      ]
+    ],
+    "explanation": "a behaviorist psychologist 行为主义心理学家，a behaviorist approach 行为主义取向，behaviorist theories 行为主义理论。",
+    "usage": "a behaviorist psychologist；a behaviorist approach；behaviorist theories。",
+    "contrast": "behaviorist 接特定理论，behavioral 范围更宽；behavioral research 研究行为，不一定宣称采用行为主义。",
+    "examples": [
+      [
+        "The lecturer described herself as a behaviorist.",
+        "讲师说自己是一位行为主义者。"
+      ],
+      [
+        "The essay examines a behaviorist approach to language learning.",
+        "文章考察了一种研究语言学习的行为主义取向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/behaviorist#English"
+    ]
+  },
+  {
+    "word": "violence",
+    "ipa": "/ˈvaɪələns/",
+    "meaning": "暴力、强力侵害；猛烈、剧烈",
+    "sense": "人与人之间以力量伤害、压制，叫 violence；风暴、爆炸等猛烈到让人感到冲击，也可借用同一词。",
+    "split": "中古英语 violence 借古法语 violence，上接拉丁 violentia，由 violēns、violentus 的猛烈、强力含义接抽象名词。不是 violin 小提琴或 violet 紫罗兰的随意缩写。",
+    "history": [
+      [
+        "拉丁 violentia → 古法语 violence → 中古英语 violence",
+        "强力、猛烈、暴力"
+      ],
+      [
+        "英语 violence",
+        "暴力侵害；自然力量的猛烈"
+      ]
+    ],
+    "explanation": "domestic violence 家庭暴力，an act of violence 暴力行为，the violence of the storm 风暴的猛烈，nonviolence 非暴力立场、方式。",
+    "usage": "an act of violence；domestic violence；the violence of the storm。",
+    "contrast": "violent 强烈、暴力的形容词，violence 名词；不同专业文本对暴力的范围可能不同，读搭配确认是人际侵害还是自然力量。",
+    "examples": [
+      [
+        "The novel explores the effects of violence on a family.",
+        "小说探讨暴力对一个家庭的影响。"
+      ],
+      [
+        "We were surprised by the violence of the storm.",
+        "风暴的猛烈程度让我们吃惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/violence#English"
+    ]
+  }
+]

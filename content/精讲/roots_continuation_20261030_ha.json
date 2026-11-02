@@ -1,0 +1,135 @@
+[
+  {
+    "id": "B2765",
+    "meaning": "耳朵、听觉；身体部位、话语和旋律比喻",
+    "core": "EAR：声音进耳朵，话也可能多到灌满耳朵",
+    "image": "ear → eared；earful 一顿话；earwax 分泌物；earache 疼痛；earworm 音乐比喻与穗虫分支。",
+    "intro": "身体部位、听到的话、戴在耳边的器物各成一支。earworm 特别注意：旋律走耳朵比喻，农害虫走植物穗的另源词。",
+    "forms": "ēare → ear；ear + -ed/-ful/wax/ache/worm/ring/piece/shot/phone/drum/mark；ear 植物穗另有旧源。\n\n耳朵接古英语 eare，谷穗另接古英语 ear、aeher；复数同形，不能据同音认定它们是一条意义链。\n\n古英语 earhring 已有相应组合；现代耳饰不限完整圆环形。\n\nphone 接声音器具，bud 提供小型芽状外形的比喻。\n\n按部件位置命名，可指耳机一侧或独立接收器。",
+    "branches": [
+      [
+        "耳部与外形",
+        "ear · eared · earwax · earache · eardrum"
+      ],
+      [
+        "听到的话及挥不去的旋律",
+        "earful · earworm"
+      ],
+      [
+        "器物、范围和标记",
+        "earring · earpiece · earphone · earshot · earmark"
+      ],
+      [
+        "ear → ears：耳朵与谷穗分两条来源",
+        "ear · ears"
+      ],
+      [
+        "ear + ring → earring → earrings：耳饰",
+        "ear · earring · earrings"
+      ],
+      [
+        "ear 的两类声音用品：耳机、小芽状耳塞",
+        "ear · earphone · earphones · earbud · earbuds"
+      ],
+      [
+        "earpiece → earpieces：贴耳接收部件",
+        "earpiece · earpieces"
+      ]
+    ],
+    "contrasts": "eared/heard 形态与听见；earache 是症状名不等于病因；earworm 音乐与穗虫按语境分。",
+    "practice": "The long-eared rabbit in her drawing reminded her of a song that became an earworm.\n\n画里的长耳兔让她想起一首歌，旋律后来一直在脑中回放。",
+    "words": [
+      "ear",
+      "eared",
+      "earwax",
+      "earache",
+      "eardrum",
+      "earful",
+      "earworm",
+      "earring",
+      "earpiece",
+      "earphone",
+      "earshot",
+      "earmark",
+      "ears",
+      "earrings",
+      "earphones",
+      "earbud",
+      "earbuds",
+      "earpieces"
+    ],
+    "exclude": {
+      "dog-ear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ear-reach": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mouse-ear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ear-piercing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2718",
+    "meaning": "蛋、卵及食材组合；怂恿动词另源",
+    "core": "EGG：先看食物与卵细胞，egg on 再分另一条线",
+    "image": "egg → eggy；eggnog 蛋奶饮；eggplant 植物名、eggshell 蛋壳、egghead 人物比喻。",
+    "intro": "同一蛋名可以用于生物、食品、外形。起哄的 egg on 却另有旧动词来路，蛋奶饮的 nog 也不必强选不确定的起源。",
+    "forms": "北欧 egg → 现代蛋名；egg + -y/nog/plant/shell/head；eggja 等 → egg on 的怂恿动词。\n\n现代蛋名 egg 接北欧形式，egg on 怂恿接古北欧 eggja 刺激，两支分开看。",
+    "branches": [
+      [
+        "蛋与食材性质",
+        "egg · eggy · eggnog"
+      ],
+      [
+        "壳、植物和人物组合",
+        "eggshell · eggplant · egghead"
+      ],
+      [
+        "egg → eggs：蛋；eggs on 的怂恿另源",
+        "egg · eggs"
+      ]
+    ],
+    "contrasts": "egg on 与蛋名另源；eggnog 可无酒精；eggy 味道材料与 egg-shaped 外形分用。",
+    "practice": "The egghead ordered eggy bread and nonalcoholic eggnog.\n\n那位书呆子点了蛋液煎面包和无酒精蛋奶饮。",
+    "words": [
+      "egg",
+      "eggy",
+      "eggnog",
+      "eggshell",
+      "eggplant",
+      "egghead",
+      "eggs"
+    ],
+    "exclude": {
+      "egg-bound": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "egg-shaped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eggman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "egger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2784",
+    "meaning": "主要通行道路；现代高速、大容量比喻",
+    "core": "HIGHWAY：重要通行干道，再引到快速信息通道",
+    "image": "highway → superhighway；high 在旧组合中有主要、公共通行等地位意味。",
+    "intro": "highway 不要求道路物理位置很高。现代很多公路可这样称，但是否等于特定国家的高速公路等级，要看具体制度、语境。",
+    "forms": "high + way 的旧组合 → highway；super- + highway → superhighway。\n\n不同地区具体道路分类有差异，词义不固定等于高速公路。",
+    "branches": [
+      [
+        "主要干道及更大通道",
+        "highway · superhighway"
+      ],
+      [
+        "highway → highways：way 道路支",
+        "highway · highways"
+      ]
+    ],
+    "contrasts": "highway 不必高架，也不在所有地区都等于收费高速；information superhighway 是信息通道比喻。",
+    "practice": "The highway was later expanded into a superhighway.\n\n这条公路后来扩建成了大型高速干道。",
+    "words": [
+      "highway",
+      "superhighway",
+      "highways"
+    ],
+    "exclude": {
+      "semi-highway": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

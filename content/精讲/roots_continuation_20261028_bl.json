@@ -1,0 +1,54 @@
+[
+  {
+    "id": "B3310",
+    "meaning": "网、网络；另有不同源的净额义",
+    "core": "NET：线与节点相连；净额另记",
+    "image": "实体网的网眼容易看见，通信网络则把设备与连接织在一起。净的来自另一条洁净的词源。",
+    "intro": "网一支接古英语 net(t)，可扩展为通信网络；净的一支经法语来自拉丁语 nitidus，表示去掉应扣部分后所余。",
+    "forms": "net → netting；fish + net、drag + net、net + ball；network 一支再看 internet、intranet、subnet、botnet、darknet。\n\nnet 与 work 的较早复合，现代可为人际、交通或计算机网络。\n\n英语 net 与 work 构成网状结构名，后有系统、人际联系等动词。\n\n织网 net 承古英语 net 等；净额的 net 经法语清净词义进入，来源不同。现代 nets 可数网，也可说捕获、净得，不能把所有义项都追到捕鱼。",
+    "branches": [
+      [
+        "实体网与其外观、用途",
+        "net · netting · fishnet · dragnet · netball"
+      ],
+      [
+        "设备相连的网络",
+        "network · internet · intranet · subnet · botnet · darknet"
+      ],
+      [
+        "network → networks：网状结构与相连系统",
+        "network · networks"
+      ],
+      [
+        "network → networking：连成网，也建立人际联系",
+        "net · network · networking"
+      ],
+      [
+        "net → nets：网与净得分源",
+        "nets"
+      ]
+    ],
+    "contrasts": "net profit 净利润不是捕鱼网义；fishnet 是渔网或网眼织物，botnet 是受协调控制的设备网络。",
+    "practice": "A fishnet catches fish; a botnet connects controlled devices.\n\n渔网用于捕鱼；僵尸网络把受控设备连接成群。",
+    "words": [
+      "net",
+      "netting",
+      "fishnet",
+      "dragnet",
+      "netball",
+      "network",
+      "internet",
+      "intranet",
+      "subnet",
+      "botnet",
+      "darknet",
+      "networks",
+      "networking",
+      "nets"
+    ],
+    "exclude": {
+      "nettie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "benet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

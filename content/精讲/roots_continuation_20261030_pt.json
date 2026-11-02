@@ -1,0 +1,124 @@
+[
+  {
+    "id": "A1935",
+    "meaning": "动作、过程、状态、性质；也可指具体所得或障碍",
+    "core": "-ANCE：把做法、状态或结果当作一件事来谈",
+    "image": "avoid 避免 → avoidance 回避；hinder 妨碍 → hindrance 障碍；reluctant 不情愿的 → reluctance 不情愿。",
+    "intro": "不能只背成某某性。allowance 可以是给的钱、允许的量，appliance 可以是器具，appearance 可以是出现、外表。一边认名词尾，一边问今天这个句子在说动作、状态，还是具体的东西。",
+    "forms": "经法语相应名词尾，远接拉丁 -antia、-entia 等材料；与 -ence 的历史相关。现代拼写不能只凭发音选，因为常读相近的 /əns/。常见 -ant 与 -ance 对应如 reluctant／reluctance，但 assistance 对 assist，也不能硬找每个词都有常用 -ant 形容词。hindrance 对 hinder 的常用拼写有缩短；vengeance 借法语，与报复词族相联；comeuppance 是英语短语材料加外来名词尾。\n\n-ant／-ance 的形式对应可帮助记忆；tolerance 从承受、容忍发展出允许偏差的技术义。\n\nperform 加 ance；较早法语 parfornir 完成词史保留。\n\n法语 parfornir、performer 的历史，词形受 forme 影响，不硬拆拉丁 per 与 forma。",
+    "branches": [
+      [
+        "出现、消失与重现",
+        "appear · appearance · disappear · disappearance · reappear · reappearance"
+      ],
+      [
+        "避开、迟疑与阻碍",
+        "avoid · avoidance · reluctant · reluctance · hinder · hindrance"
+      ],
+      [
+        "报复、惩罚与张扬",
+        "vengeance · comeuppance · flamboyant · flamboyance"
+      ],
+      [
+        "接受、配合与依赖",
+        "acceptance · compliance · reliance"
+      ],
+      [
+        "给出的量、工具与性质",
+        "allowance · appliance · brilliance · resemblance"
+      ],
+      [
+        "tolerant ↔ tolerance：性质与容许程度",
+        "tolerant · tolerance"
+      ],
+      [
+        "performance → performances：完成、表现与演出",
+        "perform · performance · performances"
+      ],
+      [
+        "perform → performs：把事情做出来、办到",
+        "perform · performs · performance"
+      ]
+    ],
+    "contrasts": "disappearance 失踪不等于死亡；hindrance 妨碍不保证完全阻止；comeuppance 带应得的惩罚这一评价；appearance、performance 等要随场景理解，不能所有 -ance 都译成性。",
+    "practice": "Their reluctance to discuss the problem led to avoidance rather than acceptance.\n\n他们不愿讨论这个问题，于是选择回避，而非接受它。",
+    "words": [
+      "appear",
+      "appearance",
+      "disappear",
+      "disappearance",
+      "reappear",
+      "reappearance",
+      "avoid",
+      "avoidance",
+      "reluctant",
+      "reluctance",
+      "hinder",
+      "hindrance",
+      "vengeance",
+      "comeuppance",
+      "flamboyant",
+      "flamboyance",
+      "performance",
+      "insurance",
+      "resistance",
+      "alliance",
+      "guidance",
+      "compliance",
+      "acceptance",
+      "accordance",
+      "governance",
+      "clearance",
+      "abundance",
+      "allowance",
+      "dominance",
+      "assurance",
+      "reliance",
+      "inheritance",
+      "relevance",
+      "endurance",
+      "remembrance",
+      "resemblance",
+      "acquaintance",
+      "variance",
+      "brilliance",
+      "appliance",
+      "issuance",
+      "annoyance",
+      "severance",
+      "grievance",
+      "impedance",
+      "temperance",
+      "observance",
+      "deliverance",
+      "radiance",
+      "sustenance",
+      "capacitance",
+      "admittance",
+      "conveyance",
+      "utterance",
+      "remittance",
+      "furtherance",
+      "predominance",
+      "conductance",
+      "forbearance",
+      "contrivance",
+      "cognizance",
+      "tolerant",
+      "tolerance",
+      "perform",
+      "performances",
+      "performs"
+    ],
+    "exclude": {
+      "e-governance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "preponderance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reflectance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "inductance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "absorbance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "irradiance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pursuance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "reactance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

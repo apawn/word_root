@@ -5,7 +5,7 @@
     "core": "pungere = 刺、戳；punct- = 同一拉丁动词的另一词干形态",
     "image": "一根针落在纸上：动作是“刺”，留下的是“点”，针头本身是“尖端”。",
     "intro": "从一针刺下去，可以分清三种画面：puncture 是刺出的洞，point 是小点或尖端，pungent / poignant 是像被刺了一下的强烈感觉。点又能成为确定的时刻、安排和文字记号：punctual 守时，appoint 定下安排，punctuation 用标点组织文字。这些是有历史关联的分支，不能把每个现代词都硬拆成同一套英语零件。",
-    "forms": "pung-：拉丁语 pungere“刺”；可见于 pungent、expunge；punct-：同一动词的分词词干；可见于 puncture、punctual、punctuation；point-：经法语发展的“小点、尖端”词族；poign-：经法语 poindre“刺”留下的形式；现代常说情感触动；punch-：经法语尖工具、戳刺词族发展；饮料同形词须分开。",
+    "forms": "pung-：拉丁语 pungere“刺”；可见于 pungent、expunge；punct-：同一动词的分词词干；可见于 puncture、punctual、punctuation；point-：经法语发展的“小点、尖端”词族；poign-：经法语 poindre“刺”留下的形式；现代常说情感触动；punch-：经法语尖工具、戳刺词族发展；饮料同形词须分开。\n\npoint 的点和尖端两路都与拉丁刺、戳词族相连；points 还可作指向的第三人称形式。\n\n法语 apointier、apointement 有各自借入，现代动作与名词配对理解。\n\npoint 加 er 按指向作用命名，复数既可说物件也可说建议。\n\n猛扑 pounce 联系较早猛禽尖爪与穿刺工具材料，古法语中间来源有不确定部分；粉末旧义另接浮石来源。现代本组聚焦常用猛扑、抓住机会义。",
     "branches": [
       [
         "点、尖端和指向",
@@ -50,6 +50,22 @@
       [
         "用点画画、用音符配合",
         "pointillism, pointillist, counterpoint, contrapuntal"
+      ],
+      [
+        "point → points：点、要点、分数与指向",
+        "point · points"
+      ],
+      [
+        "appoint → appointing；appointment → appointments：指定职位与约定时间",
+        "appoint · appointing · appointment · appointments"
+      ],
+      [
+        "pointer → pointers：指示物与指点建议",
+        "pointer · pointers"
+      ],
+      [
+        "pounce：从尖爪攫取到猛扑、迅速抓住",
+        "pounce · pounces · pounced · pouncing"
       ]
     ],
     "contrasts": "punctual / punctilious：punctual 今天主要说准时；punctilious 说礼节、规矩、细节都做到位。\n\npungent / poignant：pungent 常是蒜、芥末等气味或评论很冲；poignant 常是回忆、场景令人感动而酸楚。\n\npuncture / punctate：puncture 是刺破、刺孔；punctate 描述点状或有小凹点的外观，不必真被针扎过。\n\nappointed / disappointed：一个定好了安排；另一个发展为期待落空。今天 disappoint 不等于简单取消预约。\n\npunch 的分源：工具、击打支线可追到“刺”；饮料常被联系到印地语“五”，但词源有争议，不能拿这个故事当定论。\n\n相近拼写的边界：punish 的惩罚主源不是 pungere；pugnare“搏斗”与 pungere 有更远的关联，也不能把所有 pugn- 词都当作 pungere 的直接后代。",
@@ -124,7 +140,14 @@
       "punchbag",
       "pounce",
       "puncheon",
-      "viewpoint"
+      "viewpoint",
+      "points",
+      "appointing",
+      "appointments",
+      "pointers",
+      "pounces",
+      "pounced",
+      "pouncing"
     ]
   }
 ]

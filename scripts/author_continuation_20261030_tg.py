@@ -1,0 +1,98 @@
+"""Core everyday verbs and meaningful noun/adjective extensions."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3560':dict(words=['bring','brought','upbringing'],label='带来、带大与成长中的教养',note='bring 的标准过去式、过去分词都是 brought；bring up 抚养，与较早 upbring、名词 upbringing 的历史相连。这里 bring 是理解复合所需的基础词，不来自 up。'),
+ 'A1741':dict(words=['abide','abiding','jog','jogging','itch','itching','reckon','reckoning','season','seasoning'],label='持续、慢跑、发痒、核算与调味',note='abiding 常指持久的；jogging 是慢跑；itching 可比喻迫切想做某事；reckoning 有计算、估计及清算用法；seasoning 是调味或调味料。'),
+}
+W('bring','/brɪŋ/','带来、拿来；引起、带来某种结果',
+ '把人、东西带到语境中的目的地，也把某种结果带到面前。Bring your book 是把书带来，bring happiness 是带来快乐。',
+ '经中古英语接古英语 bringan 携带、带来，属于日耳曼本族词。标准过去式、过去分词都是 brought，这种不同词形有较早历史。',
+ [['古英语 bringan → 中古英语 bringen 等','在来到的过程中携带、送来'],['现代 bring 的具体与抽象用法','带人、物到达；引起某种结果']],
+ 'bring something to someone 把东西带给某人；bring a friend 带个朋友来；bring about change 促成变化；bring up a child 抚养孩子。',
+ 'bring good news；bring the bag with you。','bring 常朝说话者、听话者或指定中心带来；take 常从这个中心带走。方向参照由语境决定，不只按中文来、去逐字套。',
+ ('Please bring your notebook to the meeting.','请把笔记本带到会上来。'),('The visit brought back many happy memories.','这次重访唤起了许多美好回忆。'),sources=['https://www.etymonline.com/word/bring','https://en.wiktionary.org/wiki/bring#English'])
+W('brought','英 /brɔːt/；美 /brɔːt/ 或 /brɑːt/','带来了、带来的；bring 的过去式、过去分词',
+ 'bring 的动作发生在过去，或已经完成、被完成，就常看到 brought。意思没换成另一件事，换的是动词形态。',
+ '古英语 bringan 的过去式 brohte、分词 broht 等对应形式，经中古英语语音、拼写变化延续为 brought。不是现代英语临时把 bring 加 -ed 得到。',
+ [['古英语 bringan 的旧过去、分词形式','brohte、broht 等'],['现代 bring → brought → brought','原形、过去式、过去分词的标准变位']],
+ 'brought a gift 带来了礼物；have brought 已经带来；was brought 被带来；was brought up 被抚养长大。完成时、被动句与一般过去时都可能用。',
+ 'brought to the office；brought up by relatives。','brought 是 bring 的形式，bought 是 buy 买的形式；只差 r，意思与动词词族却不同。',
+ ('She brought a cake to the party.','她给聚会带来一个蛋糕。'),('I have brought the documents you asked for.','我已经把你要的文件带来了。'),sources=['https://www.etymonline.com/word/bring','https://en.wiktionary.org/wiki/brought#English'])
+W('upbringing','/ˈʌpbrɪŋɪŋ/','成长中的养育、家庭教育、教养',
+ '孩子怎样被带大：家里的习惯、规矩、待人方式和成长环境，一起塑造 upbringing。它说的是养大的过程、方式。',
+ 'up + bringing；与较早动词 upbring 抚养、现代 bring up a child 相连。完整名词较早在苏格兰等语境使用，后来广泛用于成长教养。',
+ [['bring 的带、养育材料与 up 组合','把孩子带大、抚养成人'],['upbring、upbringing 的历史词族','养育过程；成长中的教育、环境']],
+ 'a strict upbringing 严格的家庭教育；a happy upbringing 幸福的成长经历；her upbringing 她从小受到的教养。可以谈环境与价值习惯，不只礼貌。',
+ 'family upbringing；a sheltered upbringing。','education 常包括学校教育、学习；upbringing 更侧重从小被怎样养育。良好教养也不只等于考试成绩高。',
+ ('He had a happy upbringing in a small town.','他在一个小镇度过了幸福的成长岁月。'),('Her upbringing taught her to treat others with respect.','她从小受到的教养让她学会尊重别人。'),sources=['https://www.etymonline.com/word/upbringing','https://en.wiktionary.org/wiki/upbringing#English'])
+W('abide','/əˈbaɪd/','忍受；遵守〔常见于 abide by〕；居留、持续〔较旧用法〕',
+ '最常见的两处：I can’t abide it 是我受不了；abide by the rules 是遵守规则。旧的停留、保持材料在不同搭配中保留下来。',
+ '经中古英语 abiden 接古英语 abidan 等等待、停留、忍耐词族，与 bide 相连。现代主要保留固定搭配与较书面用法。',
+ [['古英语、中古英语的等待、停留材料','留下、坚持承受'],['现代 abide 的固定用法','忍受；遵守、依照；较旧的居留、持续']],
+ 'can’t abide rudeness 无法忍受无礼；abide by an agreement 遵守协议。abide by 中 by 属于固定搭配，后接所遵守的规则、约定。',
+ 'abide by the rules；cannot abide something。','abide by 是遵守，can’t abide 是无法忍受。看到 by 和句子的否定形式，往往就能判断常见分支。',
+ ('Everyone must abide by the rules of the game.','每个人都必须遵守比赛规则。'),('I can’t abide that constant noise.','我受不了那种不停的噪声。'))
+W('abiding','/əˈbaɪdɪŋ/','持久的、长存的；abide 的 -ing 形式',
+ '兴趣、信念、感情过了很久仍在那里，没有轻易消失。abiding 常把 abide 旧的停留、持续感保留下来。',
+ 'abide 去末尾 e 加 -ing；由继续停留、存在的动词用法形成持久的分词形容词。',
+ [['abide 的停留、持续分支','保持存在、不离开'],['abide + -ing → abiding','持续的；长久不变的']],
+ 'an abiding interest 持久兴趣；abiding love 长久的爱；an abiding memory 长存的记忆。语体往往较书面。',
+ 'an abiding belief；a deep and abiding interest。','abide by 是遵守，但 an abiding interest 不表示遵守兴趣；这里取持续存在的历史分支。',
+ ('She has an abiding interest in astronomy.','她一直对天文学抱有浓厚兴趣。'),('The trip left him with an abiding love of the sea.','那次旅行让他从此长久地热爱大海。'))
+W('jog','英 /dʒɒɡ/；美 /dʒɑːɡ/','慢跑；轻推、轻碰；唤起、促使想起',
+ '跑步时步伐轻轻颠动，也能轻碰一下某人、让一个提醒把记忆推醒。jog 的几个常用意思围绕轻微推动、颠动展开。',
+ '早期有上下颠动、轻推等义，来源未定，可能与旧 shog 等摇动词相连。现代健身慢跑义后来广泛流行。',
+ [['较早 jog 的颠动、轻推用法','让东西轻轻动一下'],['动作与比喻的发展','轻步慢跑；轻推；刺激记忆使人想起']],
+ 'go for a jog 去慢跑；jog someone’s elbow 轻碰某人手肘；jog your memory 提醒你、唤起记忆。memory 搭配不是让记忆去跑步。',
+ 'jog around the park；a note to jog my memory。','jogging 常是较轻缓的跑步活动；sprinting 则强调冲刺。jog a memory 的轻推是比喻，保留促进想起的感觉。',
+ ('He jogs around the park before breakfast.','他早餐前绕公园慢跑。'),('The old photograph jogged her memory.','那张旧照片唤起了她的记忆。'),sources=['https://www.etymonline.com/word/jog','https://en.wiktionary.org/wiki/jog#English'])
+W('jogging','英 /ˈdʒɒɡɪŋ/；美 /ˈdʒɑːɡɪŋ/','慢跑；jog 的 -ing 形式',
+ '把一阵阵轻缓跑动当作一项活动、习惯，常用 jogging。它最常让人想到健身慢跑。',
+ 'jog + -ing，末尾 g 双写；较早也能说颠动等动作，现代活动名常取慢跑这一支。',
+ [['jog 的颠动、慢跑词义 + -ing','形成动作、活动名称'],['现代常用 jogging','作为锻炼习惯的慢跑']],
+ 'go jogging 去慢跑；take up jogging 开始把慢跑当爱好；jogging shoes 慢跑鞋。活动名通常不可数。',
+ 'morning jogging；jogging in the park。','jog 是动词或一次慢跑的名词，jogging 常说这项活动。go for a jog 与 go jogging 都是常见表达。',
+ ('She took up jogging last spring.','她去年春天开始慢跑。'),('We often go jogging in the park.','我们经常去公园慢跑。'))
+W('itch','/ɪtʃ/','痒、发痒；迫切想做某事',
+ '身体痒，会忍不住想挠；把那股按捺不住的冲动借到心里，就能说特别想行动。',
+ '经中古英语接古英语发痒的日耳曼词族，更远来源未定。由身体痒的感觉，扩展为急切、想满足某种愿望。',
+ [['旧英语、中古英语的发痒词族','引起想挠的身体感觉'],['现代身体与心理比喻','痒；迫不及待、强烈想做']],
+ 'My arm itches. 手臂痒；an itch on the leg 腿上一处痒感；itch to do something 迫切想做某事。常见进行形式 itching to do。',
+ 'scratch an itch；an itch to travel。','itch 侧重痒和想挠，pain 侧重疼痛。比喻 itch to travel 则是按捺不住想旅行，不是身体症状。',
+ ('The woollen scarf made my neck itch.','羊毛围巾弄得我的脖子发痒。'),('After a week indoors, he had an itch to go exploring.','在室内待了一周后，他特别想出去探索一番。'))
+W('itching','/ˈɪtʃɪŋ/','发痒、瘙痒；迫不及待想做；itch 的 -ing 形式',
+ '身体那股想挠的感觉持续着；比喻里则是心里按捺不住，特别想去做。',
+ 'itch + -ing，较早中古英语已有相应动作、感觉名词。现代延续身体痒和心理急切两条用法。',
+ [['itch 发痒 + -ing','持续的痒感、发痒过程'],['itching to do 的比喻搭配','像痒得难忍那样，迫切想行动']],
+ 'itching skin 发痒的皮肤；itching to leave 急着离开；itching for a chance 迫切想得到一个机会。to 后接动作，for 后接对象。',
+ 'an itching sensation；itching to get started。','itching to do 在日常常只是迫切愿望，不是报告身体发痒；结合后面的动作就能选对意思。',
+ ('The rough fabric left her skin itching.','粗糙布料弄得她皮肤发痒。'),('The children were itching to open their presents.','孩子们迫不及待想拆礼物。'))
+W('reckon','/ˈrekən/','认为、估计；计算；把……考虑在内〔reckon with〕',
+ '像在心里把线索、数目理一遍，得出一个判断。口语 I reckon 常是我想、我估计。',
+ '经中古英语 rekenen 接古英语 recenian、gerecenian 等安排、计算、说明词族，属于日耳曼本族材料，不是现代 re- + 一个独立 ckon。',
+ [['旧英语计算、安排、解释词族','把事情理出次序、数清楚'],['现代 reckon 的判断扩展','估算；认为；考虑某个因素']],
+ 'I reckon... 我想……〔英式等口语常见〕；reckon the cost 计算成本；reckon with a difficulty 考虑、应对困难；reckon on someone 依靠、指望某人。',
+ 'reckon that；a force to be reckoned with。','reckon 常可比 think 更口语，也能表示估算；reckon with 不一律是算出数字，而是把某个真实因素算进去。',
+ ('I reckon we should leave before noon.','我想我们应该中午前离开。'),('We had not reckoned with such heavy traffic.','我们没有预料到交通会这么拥堵。'))
+W('reckoning','/ˈrekənɪŋ/','计算、估计；清算、算总账的时刻；reckon 的 -ing 形式',
+ '先是把数目、情况算一遍；再像把一直欠着的账摆到桌面，终于要交代结果、承担后果。',
+ 'reckon + -ing，由计算、评估活动名发展出结账、清算等意义；与日耳曼其他计算、账单词有历史联系。',
+ [['reckon 计算、估计 + -ing','计算、判断的过程或结果'],['账目算清的比喻','清算、面对后果的时刻']],
+ 'by my reckoning 据我估计；a rough reckoning 粗略计算；a day of reckoning 算总账、面对后果的一天。可具体算数，也可用于历史、文学叙述。',
+ 'by anyone’s reckoning；the final reckoning。','reckoning 不总是惩罚或报复。by my reckoning 只是按我的估算；清算意味需要 day、final 等搭配及上下文支持。',
+ ('By my reckoning, we have enough time to finish.','据我估算，我们有足够时间完成。'),('In the novel, the day of reckoning finally arrives.','小说里，最终面对后果的那一天终于到来。'))
+W('seasoning','/ˈsiːzənɪŋ/','调味；调味料；使材料适于使用的处理〔部分场景〕',
+ '把食物的味道调到合适状态，所做的动作是 seasoning，放进去帮助调味的材料也能叫 seasoning。',
+ 'season 动词 + -ing。season 的调味义接法语 saisonner 等，与合适时机、成熟、变得适口的词族相连；名词 season 季节也属于相邻历史词族。',
+ [['合时、成熟、适口的旧词族 → season 动词','给食物调味；也可使木材等达到适用状态'],['season + -ing → seasoning','处理过程；调味动作及所用调味料']],
+ 'adjust the seasoning 调整调味；a mixture of seasonings 混合调味料；seasoning timber 使木材干燥、适于使用。日常最常见于食物。',
+ 'salt and other seasonings；add seasoning。','season 作季节与作调味动词不应逐字硬译。food seasoning 是调味，不是食物正在过某个季节。',
+ ('Taste the soup and adjust the seasoning.','尝尝汤，调整一下调味。'),('The packet contains a mixture of herbs and seasonings.','小包里装有香草与调味料的混合物。'),sources=['https://www.etymonline.com/word/season','https://en.wiktionary.org/wiki/seasoning#English'])
+def extend_lessons():
+    extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+    save('continuation_20261030_tg',ROOTS,WORDS)
+    extend_lessons()

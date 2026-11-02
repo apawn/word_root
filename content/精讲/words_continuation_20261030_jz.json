@@ -1,0 +1,390 @@
+[
+  {
+    "word": "beast",
+    "ipa": "/biːst/",
+    "meaning": "野兽、动物；怪物；粗暴的人；庞大强劲的对象〔口语〕",
+    "sense": "故事里的大野兽是 beast；口语里说 a beast of a machine，又像夸机器是一头猛兽，体积、性能或力量惊人。",
+    "split": "经古法语 beste 接拉丁 bēstia，进入中古英语。旧时可宽泛说动物，现代常带野兽、怪物或力量、粗暴的色彩。",
+    "history": [
+      [
+        "拉丁 bēstia → 古法语 beste → 中古英语 beste／beeste",
+        "动物、野兽；也用于怪物和粗暴者"
+      ],
+      [
+        "现代 beast",
+        "野兽、庞大强劲的对象；人物评价随语气变化"
+      ]
+    ],
+    "explanation": "a wild beast 野兽，a mythical beast 神话怪兽，a beast of a machine 一台庞大强劲的机器，a beast of burden 驮畜。",
+    "usage": "a wild beast；a mythical beast；a beast of a machine；a beast of burden。",
+    "contrast": "animal 较中性、范围广；beast 常更有野性、力量或文学色彩。称人 a beast 可能贬粗暴，也可能在体育口语中夸强悍，要看语气。",
+    "examples": [
+      [
+        "The tale describes a beast guarding the forest.",
+        "故事描写了一头守着森林的怪兽。"
+      ],
+      [
+        "That new machine is a beast.",
+        "那台新机器可真是个强悍的大家伙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beast#English"
+    ]
+  },
+  {
+    "word": "beastie",
+    "ipa": "/ˈbiːsti/",
+    "meaning": "小动物、小家伙；怪物〔亲昵、戏谑或苏格兰用法〕",
+    "sense": "在 beast 后面添一点亲近、玩笑的语气，小虫、小动物甚至怪物都能叫 beastie。不是词尾一加，动物尺寸就有严格标准。",
+    "split": "beast + -ie，小称、亲昵称呼词尾。苏格兰英语和带玩笑语气的表达中尤其容易见到。",
+    "history": [
+      [
+        "拉丁 bēstia → 古法语 beste → 中古英语 beste／beeste",
+        "动物、野兽；也用于怪物和粗暴者"
+      ],
+      [
+        "现代 beast",
+        "野兽、庞大强劲的对象；人物评价随语气变化"
+      ],
+      [
+        "beast + -ie → beastie",
+        "带亲昵、玩笑色彩的动物称呼"
+      ]
+    ],
+    "explanation": "a little beastie 一个小家伙，a strange beastie 奇怪小动物、怪物。名字可以温和，也可能是故意把吓人的东西说得可爱。",
+    "usage": "a little beastie；a strange beastie。",
+    "contrast": "beastie 是语气与称呼变化，不是生物分类名。-ie 在这里也不是复数，多个是 beasties。",
+    "examples": [
+      [
+        "A little beastie crawled across the leaf.",
+        "一个小家伙爬过叶面。"
+      ],
+      [
+        "The children drew strange beasties for the story.",
+        "孩子们为故事画了些奇怪的小怪物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beastie#English"
+    ]
+  },
+  {
+    "word": "beastly",
+    "ipa": "/ˈbiːstli/",
+    "meaning": "野兽般的、残忍的；讨厌、糟糕的；很、非常〔旧式英式用法〕",
+    "sense": "从兽性、粗暴的评价出发，beastly 也能说天气、疼痛糟透了。它常带比较鲜明、略老派的表达色彩。",
+    "split": "beast + -ly，中古英语已有 bestely、bestly。-ly 在此常形成形容词；另有方式、程度副词用法，不能见 -ly 就只当副词。",
+    "history": [
+      [
+        "拉丁 bēstia → 古法语 beste → 中古英语 beste／beeste",
+        "动物、野兽；也用于怪物和粗暴者"
+      ],
+      [
+        "现代 beast",
+        "野兽、庞大强劲的对象；人物评价随语气变化"
+      ],
+      [
+        "beast + -ly → beastly",
+        "兽性、粗暴性质；强烈负面评价与程度用法"
+      ]
+    ],
+    "explanation": "beastly behaviour 残暴行为，beastly weather 糟糕天气，a beastly headache 难受的头痛。beastly cold 在旧式英式语气中可加强很冷。",
+    "usage": "beastly behaviour；beastly weather；a beastly headache。",
+    "contrast": "beastly 在 weather 前是形容词；beastie 则是动物称呼。称事物糟糕不意味着说它真长成动物。",
+    "examples": [
+      [
+        "We had beastly weather all weekend.",
+        "整个周末天气都糟透了。"
+      ],
+      [
+        "The story condemns the character’s beastly behaviour.",
+        "故事谴责了那个角色的残暴行为。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beastly#English"
+    ]
+  },
+  {
+    "word": "hood",
+    "ipa": "/hʊd/",
+    "meaning": "连衣帽、兜帽；罩、发动机盖〔美式〕；街区或匪徒〔不同缩称〕",
+    "sense": "衣服上能拉起来罩头的部分，是 hood；发动机上方、灶台上方的罩盖，也借相似的覆盖功能命名。街区、匪徒的俚语义则来自缩词。",
+    "split": "覆盖物主线接古英语 hōd。hood 匪徒缩自 hoodlum，街区义缩自 neighborhood；它们不能都从头罩推出来。childhood 的 -hood 状态后缀又是另一条历史。",
+    "history": [
+      [
+        "古英语 hōd → 中古英语 hood／hod → hood",
+        "罩头的覆盖物；连衣帽"
+      ],
+      [
+        "覆盖形状、功能的扩展",
+        "罩子、发动机盖、排气罩等"
+      ],
+      [
+        "其他独立缩称",
+        "hoodlum → hood 匪徒；neighborhood → hood 街区"
+      ]
+    ],
+    "explanation": "pull up your hood 拉起兜帽，under the hood 发动机盖下、内部机制〔美式及比喻〕，a cooker hood／range hood 抽油烟罩。the hood 在某些美国口语里说自己的街区。",
+    "usage": "pull up your hood；under the hood；a range hood；the hood。",
+    "contrast": "hood 的 oo 常读 /ʊ/，不是 food 的 /uː/。美式汽车 hood 对应英式 bonnet；帽罩主线和街区缩称先分开。",
+    "examples": [
+      [
+        "She pulled up her hood when the rain started.",
+        "开始下雨时，她拉起了兜帽。"
+      ],
+      [
+        "The mechanic looked under the hood.",
+        "机械师查看了发动机盖下面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hood#English"
+    ]
+  },
+  {
+    "word": "hoodie",
+    "ipa": "/ˈhʊdi/",
+    "meaning": "连帽卫衣",
+    "sense": "卫衣上带一顶连着的帽子，就形成 hoodie 这个日常服装名称。可以是套头款，也可以带拉链。",
+    "split": "hood + -ie，小称、熟悉称呼形式。原本的头罩成为整件衣服名称的识别特征。",
+    "history": [
+      [
+        "古英语 hōd → 中古英语 hood／hod → hood",
+        "罩头的覆盖物；连衣帽"
+      ],
+      [
+        "覆盖形状、功能的扩展",
+        "罩子、发动机盖、排气罩等"
+      ],
+      [
+        "hood + -ie → hoodie",
+        "以连帽特征命名的卫衣"
+      ]
+    ],
+    "explanation": "a grey hoodie 灰色连帽卫衣，a zip-up hoodie 拉链连帽卫衣，the hood of a hoodie 连帽卫衣的帽子。某些报道也用 hoodie 称穿这种衣服的年轻人，可能带刻板、贬义语气。",
+    "usage": "a grey hoodie；a zip-up hoodie；the hood of a hoodie。",
+    "contrast": "hood 是帽子、罩的部分，hoodie 通常是整件连帽卫衣。穿 hoodie 本身不表示某种行为或身份。",
+    "examples": [
+      [
+        "He wore a grey hoodie on the walk.",
+        "散步时他穿着灰色连帽卫衣。"
+      ],
+      [
+        "She put the hoodie in her bag when it got warm.",
+        "天暖后，她把连帽卫衣放进了包里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hoodie#English"
+    ]
+  },
+  {
+    "word": "hooded",
+    "ipa": "/ˈhʊdɪd/",
+    "meaning": "戴兜帽的、有罩的；呈帽罩形的",
+    "sense": "hooded jacket 说外套带帽，hooded figure 说人影戴着帽罩。自然界一些罩状结构，也能借这个形状命名。",
+    "split": "hood + -ed，具有、戴着罩帽的形容词，也可作 hood 动词的分词。原词以 /d/ 结尾，-ed 读 /ɪd/。",
+    "history": [
+      [
+        "古英语 hōd → 中古英语 hood／hod → hood",
+        "罩头的覆盖物；连衣帽"
+      ],
+      [
+        "覆盖形状、功能的扩展",
+        "罩子、发动机盖、排气罩等"
+      ],
+      [
+        "hood + -ed → hooded",
+        "有帽、被罩住或形似帽罩"
+      ]
+    ],
+    "explanation": "a hooded jacket 连帽外套，a hooded figure 戴兜帽的人影，hooded eyes 上眼睑有罩覆感的眼形。",
+    "usage": "a hooded jacket；a hooded figure；hooded eyes。",
+    "contrast": "hooded 不固定只指人穿帽子；描述动物、眼形、物件时可能借形状。hoodie 则常是具体衣物名词。",
+    "examples": [
+      [
+        "A hooded figure stood near the gate.",
+        "门边站着一个戴兜帽的人影。"
+      ],
+      [
+        "The coat has a hooded design for wet weather.",
+        "这件外套采用连帽设计，供阴雨天气穿用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hooded#English"
+    ]
+  },
+  {
+    "word": "mouser",
+    "ipa": "英 /ˈmaʊzə/；美 /ˈmaʊzər/，也读 /ˈmaʊsə(r)/",
+    "meaning": "捕鼠猫；善捕鼠的动物",
+    "sense": "猫以会捉老鼠著称，就可以叫 a good mouser。-er 在这里命名动物角色，不一定是一个人。",
+    "split": "mouse 捕鼠动词 + -er，或按 mouse 老鼠 + 角色后缀理解；中古英语已有 mousere 捕鼠者。常见 /z/ 读法也提示它与动词 mouse 的联系。",
+    "history": [
+      [
+        "mouse 的动物名与捕鼠动词",
+        "老鼠；寻找、捕捉老鼠"
+      ],
+      [
+        "mouse + -er → mouser",
+        "捕鼠者，通常具体说猫"
+      ]
+    ],
+    "explanation": "a good mouser 善于捕鼠的猫，an excellent mouser 捕鼠能手。不是每只宠物猫都一定按这个功能称呼。",
+    "usage": "a good mouser；an excellent mouser。",
+    "contrast": "mouser 不等于 mouse 老鼠，mousetrap 则是捕鼠器。mousy 更常说像老鼠的颜色、外表或胆小安静等性质。",
+    "examples": [
+      [
+        "The farm cat is an excellent mouser.",
+        "农场这只猫是个捕鼠能手。"
+      ],
+      [
+        "They kept a mouser in the old grain store.",
+        "他们在旧粮仓养了一只捕鼠猫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mouser#English"
+    ]
+  },
+  {
+    "word": "folk",
+    "ipa": "英 /fəʊk/；美常 /foʊk/，也见 /foʊlk/",
+    "meaning": "人们；亲人、父母〔folks〕；民间的、民俗的",
+    "sense": "old folk 是老人们，my folks 是我的家人、常指父母；放到 music、tradition 前面，又指民间传承的性质。",
+    "split": "承接古英语 folc，经中古英语 folk，长期表示人群、族群。现代常有 folk、folks 两种形式，音乐、文化相关修饰用法尤其常见。",
+    "history": [
+      [
+        "古英语 folc → 中古英语 folk → folk",
+        "人们、族群、群体"
+      ],
+      [
+        "民间文化的现代构词",
+        "folklore 民间传承，folktale 民间故事，folksy 亲切质朴的风格"
+      ]
+    ],
+    "explanation": "local folk 当地人，my folks 我的家人，folk music 民间音乐，folk traditions 民间传统。典型读音 l 不发，部分口音也会读出。",
+    "usage": "local folk；my folks；folk music；folk traditions。",
+    "contrast": "folk 不只指古代农村人，也能亲切说某一群人。my folks 不表示我拥有的人，而是熟悉的家人称呼。",
+    "examples": [
+      [
+        "Local folk told us about the history of the bridge.",
+        "当地人向我们讲了桥的历史。"
+      ],
+      [
+        "I am visiting my folks this weekend.",
+        "我这周末去看家人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folk#English"
+    ]
+  },
+  {
+    "word": "folklore",
+    "ipa": "英 /ˈfəʊklɔː/；美 /ˈfoʊklɔːr/",
+    "meaning": "民俗、民间传承；群体共享的故事、知识与传统",
+    "sense": "故事口口相传，习俗代代实践，这一整片民间传承就是 folklore。它不只等于神话，也不把所有内容都预先判成假的。",
+    "split": "folk 人民、民间 + lore 传承知识。William Thoms 于1846年提出这个英语名称，用来称呼民间传统等研究对象。",
+    "history": [
+      [
+        "古英语 folc → 中古英语 folk → folk",
+        "人们、族群、群体"
+      ],
+      [
+        "folk + lore → folklore",
+        "民间传承的知识、故事、习俗等"
+      ]
+    ],
+    "explanation": "local folklore 当地民俗，stories from folklore 民间传说中的故事，a folklore collection 民俗资料集。也能说某一行业、共同体内部流传的故事、知识。",
+    "usage": "local folklore；stories from folklore；a folklore collection。",
+    "contrast": "folklore 范围比 folktale 一则故事宽；记录成文字后，传统并不因此自动失去民间传承背景。",
+    "examples": [
+      [
+        "The book explores local folklore and customs.",
+        "这本书探讨当地民俗与习惯。"
+      ],
+      [
+        "The dragon appears in the folklore of several communities.",
+        "这条龙的形象出现在几个共同体的民间传说中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folklore#English",
+      "https://www.etymonline.com/word/folklore"
+    ]
+  },
+  {
+    "word": "folksy",
+    "ipa": "英 /ˈfəʊksi/；美 /ˈfoʊksi/",
+    "meaning": "亲切、质朴的；民间风格的",
+    "sense": "说话像邻里聊天，装饰像乡间手工风格，可以说 folksy。常有亲近感，也可能被人嫌刻意装朴实。",
+    "split": "folks + -y，或按 folk 与 -sy 的扩展分析。把普通人、乡土、熟悉的语气形成风格形容词。",
+    "history": [
+      [
+        "古英语 folc → 中古英语 folk → folk",
+        "人们、族群、群体"
+      ],
+      [
+        "民间文化的现代构词",
+        "folklore 民间传承，folktale 民间故事，folksy 亲切质朴的风格"
+      ],
+      [
+        "folks + -y → folksy",
+        "亲切质朴、带乡土或民间风格"
+      ]
+    ],
+    "explanation": "a folksy manner 亲切质朴的举止，folksy stories 乡土、民间风格故事，a folksy style 质朴风格。赞赏还是批评作态，依句子。",
+    "usage": "a folksy manner；folksy stories；a folksy style。",
+    "contrast": "folksy 不保证内容确实来自古老民间传统，也可形容后来营造的风格；folkloric 则更直接联系民俗材料或形式。",
+    "examples": [
+      [
+        "The host welcomed everyone in a warm, folksy manner.",
+        "主持人用温暖亲切的方式欢迎大家。"
+      ],
+      [
+        "The room was decorated in a folksy style.",
+        "房间装饰成质朴的乡土风格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folksy#English"
+    ]
+  },
+  {
+    "word": "folktale",
+    "ipa": "英 /ˈfəʊkteɪl/；美 /ˈfoʊkteɪl/",
+    "meaning": "民间故事",
+    "sense": "在一个群体里流传、讲给下一代听的故事，是 folktale。后来印成书、改成电影，仍可以保留这个传统背景。",
+    "split": "folk 民间 + tale 故事，现代复合名称抓传承背景与叙事形式。与 folklore 的知识、习俗总范围相比，它专注故事。",
+    "history": [
+      [
+        "古英语 folc → 中古英语 folk → folk",
+        "人们、族群、群体"
+      ],
+      [
+        "folk + tale → folktale",
+        "民间叙事传统中的故事"
+      ]
+    ],
+    "explanation": "an old folktale 古老民间故事，a collection of folktales 民间故事集，retell a folktale 重讲、改编民间故事。",
+    "usage": "an old folktale；a collection of folktales；retell a folktale。",
+    "contrast": "folktale 不要求每个讲述者都声称故事真实发生；legend、myth、fairy tale 等分类又各有重叠和研究习惯。先抓民间故事这个宽范围。",
+    "examples": [
+      [
+        "The grandmother retold a folktale she had heard as a child.",
+        "祖母重讲了一个她小时候听过的民间故事。"
+      ],
+      [
+        "The anthology includes folktales from several regions.",
+        "选集收录了几个地区的民间故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folktale#English"
+    ]
+  }
+]

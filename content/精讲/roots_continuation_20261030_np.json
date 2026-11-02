@@ -1,0 +1,249 @@
+[
+  {
+    "id": "B3882",
+    "meaning": "钱袋与掌管财务、旅客事务的人员",
+    "core": "PURSE：钱装进袋里，掌管账目的人由此得名",
+    "image": "purse → purser，物件与相关岗位连起来。",
+    "intro": "purse 是具体的钱袋、钱包，也能借指财力；purser 的旧财务职责提供造词线索，现代岗位可兼顾旅客服务。",
+    "forms": "purse 去 e + -er → purser。\n\n与 purse 比较装钱、随身物品的功能，不是 purse 派生。wallet 早有旅行袋、大钱袋义，远源未定，有古法语与日耳曼卷起材料的分析。",
+    "branches": [
+      [
+        "钱袋、财力与相关岗位",
+        "purse · purser"
+      ],
+      [
+        "wallet：旅行袋到随身钱包",
+        "wallet · wallets"
+      ]
+    ],
+    "contrasts": "purser 不是钱包持有者的泛称，而是船舶、航空等语境的岗位。",
+    "practice": "The purser dealt with the passengers’ accounts.\n\n事务长处理旅客的账务。",
+    "words": [
+      "purse",
+      "purser",
+      "wallet",
+      "wallets"
+    ],
+    "exclude": {
+      "purse-proud": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3596",
+    "meaning": "抱负与目标高度，副词和否定形式沿性质展开",
+    "core": "AMBITIOUS：想做得更大、更高，或给计划设高目标",
+    "image": "ambitious → ambitiously、unambitious。",
+    "intro": "人物有抱负，计划雄心大；ambitiously 说做法的目标高度，unambitious 则把这份性质否定。不要直接与能力强弱、是否勤奋画等号。",
+    "forms": "ambition → ambitious；-ly 方式；un- 否定。",
+    "branches": [
+      [
+        "目标高度、方式与否定",
+        "ambitious · ambitiously · unambitious"
+      ]
+    ],
+    "contrasts": "ambitious 可以赞目标高，也可担心过高；unambitious 只说目标不高，不自动说没能力。",
+    "practice": "The first plan was too ambitious, while the revision seemed unambitious.\n\n第一版计划目标太高，修改后又显得目标太低。",
+    "words": [
+      "ambitious",
+      "ambitiously",
+      "unambitious"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4314",
+    "meaning": "具有某种眼睛的性质形式，与打量的过去式同形",
+    "core": "EYED：有怎样的眼睛，或曾经怎样看过",
+    "image": "eyed 在复合形容词里常表示具有眼睛、眼状特点；独立动词位置还可能是 eye 的过去式。",
+    "intro": "先看句法：blue-eyed 放在人前面描述特点；eyed the object 后接宾语，叙述打量动作。一个后缀形状能承载不同构词机制。",
+    "forms": "eye + 性质 -ed → eyed；eye 动词去 e + -ed → eyed；均读 /aɪd/。",
+    "branches": [
+      [
+        "具有特点与过去动作的同形对照",
+        "eyed"
+      ]
+    ],
+    "contrasts": "带 -ed 的形容词未必都由被动动作形成；eyed 的 /d/ 不另起一音节。",
+    "practice": "The wide-eyed visitor eyed the huge doorway.\n\n睁大眼睛的来客打量着巨大的门口。",
+    "words": [
+      "eyed"
+    ],
+    "exclude": {
+      "one-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moon-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bright-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hollow-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blink-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mole-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gravy-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "steely-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dewy-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bleary-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3653",
+    "meaning": "郑重承诺的誓言，咒骂义另看历史语境",
+    "core": "OATH：把一句承诺放进庄重作证的框架",
+    "image": "oath 是古老的誓言词，take、keep、break、under 等搭配帮助记实际用途。",
+    "intro": "承诺并非只有一种语气。oath 强调正式、庄重，文学里的咒骂义则接起誓词被轻慢使用的旧历史，不能反过来把所有 oath 都当粗话。",
+    "forms": "āþ → ooth、oth → oath；th 读 /θ/。",
+    "branches": [
+      [
+        "誓言与宣誓用法",
+        "oath"
+      ]
+    ],
+    "contrasts": "take an oath 是宣誓，under oath 是在宣誓保证下；普通 promise 适用范围更宽。",
+    "practice": "She took an oath and intended to keep it.\n\n她郑重起誓，并打算守住誓言。",
+    "words": [
+      "oath"
+    ],
+    "exclude": {
+      "oath-helping": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oath-ring": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1986",
+    "meaning": "使成为、发生变化的相应过程或结果名词",
+    "core": "-IFICATION：把“使它变成怎样”这件事作为名词谈",
+    "image": "-ify 动词与 -ification 名词常配对：变化动作与变化过程、结果相对应。",
+    "intro": "unify 到 unification 是统一过程，personify 到 personification 是拟人、体现。长词不要只译成某某化，还要把到底什么改变了说清楚。",
+    "forms": "拉丁 -ficāre、-ficātiō → -ify、-ification；-ify 到 -ification 是对应词尾替换；不同词还有整词借入的历史。",
+    "branches": [
+      [
+        "统一、强化与结构变化",
+        "unification · magnification · intensification · stratification · solidification · ossification"
+      ],
+      [
+        "物质、环境与城市变化",
+        "acidification · gasification · desertification · gentrification"
+      ],
+      [
+        "表达、评价与社会过程",
+        "personification · objectification · nullification · falsification · gamification · commodification"
+      ]
+    ],
+    "contrasts": "gentrification 不只是翻修；desertification 不只指沙丘扩张；personification 可是修辞，也可是品质化身。",
+    "practice": "The chapter compares personification in language with gentrification in cities and desertification in drylands.\n\n这一章对比语言里的拟人、城市里的绅士化与旱地的荒漠化。",
+    "words": [
+      "unification",
+      "magnification",
+      "intensification",
+      "stratification",
+      "acidification",
+      "objectification",
+      "nullification",
+      "falsification",
+      "gamification",
+      "gasification",
+      "commodification",
+      "solidification",
+      "ossification",
+      "gentrification",
+      "personification",
+      "desertification"
+    ],
+    "exclude": {
+      "self-qualification": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2165",
+    "meaning": "切开、切割，部位结合形式说明切在哪里",
+    "core": "-TOMY：先认切开，再认前面是哪一部位",
+    "image": "thoracotomy、laparotomy、tracheotomy 通过部位区分；anatomy 有剖开研究身体结构的历史。",
+    "intro": "切开不等于切除，也不自动等于造口。先把后缀动作记清，再用 thoraco- 胸、laparo- 腹、tracheo- 气管认部位。",
+    "forms": "希腊 tomē 切割，上接 temnein；部位形式 + -tomy；anatomy 的 ana- 与剖开、分解的历史连读。",
+    "branches": [
+      [
+        "切开与身体结构研究",
+        "anatomy · tracheotomy · thoracotomy · laparotomy"
+      ]
+    ],
+    "contrasts": "-tomy 切开、-ectomy 切除、-stomy 造口的命名重点不同。",
+    "practice": "The anatomy course explains how thoracotomy and laparotomy name different regions.\n\n解剖学课程解释开胸术与开腹术怎样在名称中区分部位。",
+    "words": [
+      "anatomy",
+      "tracheotomy",
+      "thoracotomy",
+      "laparotomy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4232",
+    "meaning": "照亮走向讲明白，人物与性质各接一支",
+    "core": "ILLUSTRATE：给难懂的地方打光，用例子或图让人看清",
+    "image": "illustrate → illustrator、illustrative，动作、画图者、说明性质依次区分。",
+    "intro": "配图只是让人看懂的一种方式。讲故事举例也可以 illustrate，illustrative 则表示起说明作用，不自动等于已完成严格验证。",
+    "forms": "illustrare → illustration 等 → illustrate；illustrat- + -or、-ive；英语还受到拉丁对应形式影响。\n\n从 illustration 等回构并有拉丁 illustratus 影响，较早 illustrare 使清楚，英语 t 后 ed 读 id。\n\n名词有法语、拉丁独立借词史，英语记录早于常用动词。\n\n现代对应 illustrate 去 e 加 or，历史有晚期拉丁对应人物名，说明者再到插图者的用途变化要保留。\n\nillustrate 接 illustration 逆构与拉丁 illustrare 照亮的材料，后来是用例子、图说明。保留 e 加 -s，/t/ 后读 /s/。",
+    "branches": [
+      [
+        "说明动作、配图人物与说明性质",
+        "illustrate · illustrator · illustrative"
+      ],
+      [
+        "illustrate → illustrated：照亮含义与配图",
+        "illustrate · illustrated · illustration"
+      ],
+      [
+        "illustration → illustrations：照清楚到例证、插图",
+        "illustrate · illustration · illustrations"
+      ],
+      [
+        "illustrator → illustrators：用图帮助理解的人",
+        "illustrator · illustrators"
+      ],
+      [
+        "照亮 → illustrate → illustrates",
+        "illustrates"
+      ]
+    ],
+    "contrasts": "illustrate 不只画图；illustrative 说明性的与 illustrated 配有插图的不同。",
+    "practice": "The illustrator used an illustrative scene to illustrate the idea.\n\n插画师用一个便于说明的场景来讲清这个想法。",
+    "words": [
+      "illustrate",
+      "illustrator",
+      "illustrative",
+      "illustrated",
+      "illustration",
+      "illustrations",
+      "illustrators",
+      "illustrates"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3505",
+    "meaning": "孵化、开口与绘画排线分源，复合词各接一支",
+    "core": "HATCH：小生命出壳，小门通行，画笔排线",
+    "image": "hatch 同形汇集几条路线；hatchery、hatchling 接孵化，hatchback 接后门，nuthatch 接鸟名自己的命名史。",
+    "intro": "不要编成先有小鸡破壳，所以船也有门的单线故事。计划像被孵出来是现代可懂的比喻，历史独立的门名则保留自己的来源。",
+    "forms": "hæc → 开口 hatch；hacchen 等 → 孵化 hatch；hacher → 排线 hatch；-ery 场所，-ling 幼小个体，back 后部。",
+    "branches": [
+      [
+        "同形基础词与孵化分支",
+        "hatch · hatchery · hatchling"
+      ],
+      [
+        "后门车辆与鸟名",
+        "hatchback · nuthatch"
+      ]
+    ],
+    "contrasts": "hatchery 接孵化义；hatchback 接后部开门形式，来源分支不同。",
+    "practice": "The hatchery staff watched the first hatchlings emerge.\n\n孵化场工作人员看着第一批幼小动物出壳。",
+    "words": [
+      "hatch",
+      "hatchery",
+      "hatchling",
+      "hatchback",
+      "nuthatch"
+    ],
+    "exclude": {
+      "hatcher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

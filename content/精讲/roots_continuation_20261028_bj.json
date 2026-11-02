@@ -1,0 +1,73 @@
+[
+  {
+    "id": "B3373",
+    "meaning": "清醒守望、观察；相关计时器名称",
+    "core": "WATCH：注意力持续留住，计时器帮人留意时间",
+    "image": "从守望、观察到看节目，再到旧闹醒装置、小型表；手表义不能直接编成守卫先戴腕表。",
+    "intro": "watch 动词与名词分别有古英语 wæċċan、wæċċe 前身，均与清醒守望相关。计时装置义早期见于唤醒用钟，后发展为便携表名；watched 在 watch 内交代，不另堆普通过去式。",
+    "forms": "watch → watchful、watcher；watchman、watchdog、watchtower、watchlist、watchword 分职责与用途；rewatch、watchable 分重复与可看；wristwatch、smartwatch、stopwatch 分位置、功能，再接 watchmaker → watchmaking。\n\nwatching 的 ch 保持 /tʃ/，不双写末尾 h；watch 原与清醒、守望相关，持续观察是常见动作画面。\n\nwatch 名词、动词接早期清醒、守望词族，watches 在 /tʃ/ 后增加 /ɪz/。\n\n手腕加计时表名，不是把两种看守动作接起来。\n\nwatch 提供手表类器物，复数 ch 后加 es。",
+    "branches": [
+      [
+        "观看、留意及观察者",
+        "watch · watchful · watcher"
+      ],
+      [
+        "守卫、监督和清单、准则",
+        "watchman · watchdog · watchtower · watchlist · watchword"
+      ],
+      [
+        "再次与值得观看",
+        "rewatch · watchable"
+      ],
+      [
+        "表的种类与制作",
+        "wristwatch · smartwatch · stopwatch · watchmaker · watchmaking"
+      ],
+      [
+        "watch → watching：持续留意、观看",
+        "watch · watching"
+      ],
+      [
+        "watch → watches：持续观察；一只只表",
+        "watch · watches"
+      ],
+      [
+        "watch 的计时器组合 wristwatch 及复数",
+        "watch · wristwatch · wristwatches"
+      ],
+      [
+        "smartwatch → smartwatches：智能手表",
+        "smartwatch · smartwatches"
+      ]
+    ],
+    "contrasts": "watchman 守卫、watchmaker 制表；watchlist 关注待看、blacklist 禁止；wrist 的 w 不读；watchword 还可指行动准则。",
+    "practice": "The watchmaker checked his wristwatch while a watchman kept watch outside.\n\n制表师查看腕表时，一位看守人在外面值守。",
+    "words": [
+      "watch",
+      "watchful",
+      "watcher",
+      "watchman",
+      "watchdog",
+      "watchtower",
+      "watchlist",
+      "watchword",
+      "rewatch",
+      "watchable",
+      "wristwatch",
+      "smartwatch",
+      "stopwatch",
+      "watchmaker",
+      "watchmaking",
+      "watching",
+      "watches",
+      "wristwatches",
+      "smartwatches"
+    ],
+    "exclude": {
+      "people-watch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "watched": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "binge-watch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "overwatch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

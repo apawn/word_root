@@ -1,0 +1,79 @@
+[
+  {
+    "id": "B3366",
+    "meaning": "目标、球门与进球角色",
+    "core": "GOAL：要到达的终点，也指球门和进球",
+    "image": "goal 基本词后把守门者与守门活动放一起，再看进球者、进球表现和无进球。",
+    "intro": "中古英语边界、终点词发展出现代目标义。具体球类术语按运动辨，尤其 goaltending 的篮球与冰球不同。",
+    "forms": "goal + keeper/tender/tending；goal + scorer/scoring；goal + -less。\n\ngoal 较早有边界、界限义，后用于终点、球门与目的，远源细节仍有讨论。",
+    "branches": [
+      [
+        "基本目标与守门",
+        "goal · goalkeeper · goaltender · goaltending"
+      ],
+      [
+        "进球者、表现与否定",
+        "goalscorer · goalscoring · goalless"
+      ],
+      [
+        "goal → goals：目标、球门与进球",
+        "goal · goals"
+      ]
+    ],
+    "contrasts": "goalscorer 人、goalscoring 活动；goaltending 可是正常守门或篮球违例；goalless draw 零比零。",
+    "practice": "The goalkeeper’s saves kept the match goalless.\n\n守门员的扑救让比赛保持零进球。",
+    "words": [
+      "goal",
+      "goalkeeper",
+      "goaltender",
+      "goaltending",
+      "goalscorer",
+      "goalscoring",
+      "goalless",
+      "goals"
+    ],
+    "exclude": {
+      "goal-directed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goal-oriented": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goalpost": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2502",
+    "meaning": "加上、相加；加法器与另源蛇名",
+    "core": "ADD：把新的一份放到原有东西上",
+    "image": "add → adder 加法器很透明；同形蛇名另讲词界重分，不把两义混成一个故事。",
+    "intro": "add 借拉丁加上词；蛇 adder 来自 nadder 旧形式，与加法器的 -er 无关。",
+    "forms": "add → adder；蛇名 a nadder → an adder 为独立历史。\n\nadded 的 -ed 在 /d/ 后读 /ɪd/；英语 add 保留拉丁 addere 加上的词源。\n\naddere 的历史是 ad- 向与 -dere 放、置相连；这里区别于表示给的拉丁 dare。\n\n拉丁 addere 的后半是放置材料，不是 dare 给。",
+    "branches": [
+      [
+        "增加与执行器具",
+        "add · adder"
+      ],
+      [
+        "add → added：加上了；补充说",
+        "add · added"
+      ],
+      [
+        "add → adding：再放上一份与补充说明",
+        "add · adding"
+      ],
+      [
+        "add → adds：把另一份放上去",
+        "add · adds"
+      ]
+    ],
+    "contrasts": "adder 加法器与蛇两源；add up 还可说事情合乎逻辑。",
+    "practice": "The adder adds the two binary values.\n\n加法器把两个二进制数相加。",
+    "words": [
+      "add",
+      "adder",
+      "added",
+      "adding",
+      "adds"
+    ],
+    "exclude": {
+      "add-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

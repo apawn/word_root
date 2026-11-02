@@ -1,0 +1,70 @@
+[
+  {
+    "id": "B3639",
+    "meaning": "彼此交换；兑换、更换和交流",
+    "core": "EXCHANGE：拿出一物，换来另一物；双方有往来",
+    "image": "exchange → exchangeable → exchanger，按动作、可能性、实现者排序。",
+    "intro": "保留法语借入和拼写调整背景。交换礼物、意见、货币以具体例子联系；交换器按技术常见搭配理解。",
+    "forms": "exchange + -able/-er；exchange A for B；exchange something with someone。\n\n法语 eschange、eschanger 等名词、动词各有借入，后调整 ex 拼写。\n\nexchange 经法语 eschangier 等接拉丁 ex- 与 cambire 交换词族。现代去 e 加完整 -ed，/dʒ/ 后读 /d/，交换物品、话语、微笑等均常用。",
+    "branches": [
+      [
+        "交换及派生",
+        "exchange · exchangeable · exchanger"
+      ],
+      [
+        "exchange → exchanges：双方把东西、话语互换",
+        "exchange · exchanges"
+      ],
+      [
+        "相互给换 → exchange → exchanged",
+        "exchanged"
+      ]
+    ],
+    "contrasts": "exchange 与 change 不完全同义；exchangeable 可换、interchangeable 可互换使用；exchanger 不只人物。",
+    "practice": "We exchanged the vouchers for food.\n\n我们拿那些券换了食物。",
+    "words": [
+      "exchange",
+      "exchangeable",
+      "exchanger",
+      "exchanges",
+      "exchanged"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3037",
+    "meaning": "内陆湖泊；湖边、湖岸与多湖地区",
+    "core": "LAKE：一片内陆水体，周围地点按相对位置命名",
+    "image": "lake → lakeside、lakeshore、lakefront、lakeview、lakeland，按边、岸、前沿、景观、地区区分。",
+    "intro": "水体义有本族与法语借词合流背景。laker 还有不同来源和专门用法，本轮先略；已有湖景、临湖精讲复用。",
+    "forms": "lake + side/shore/front/view/land。\n\n古英语 lacu 与法语 lac、拉丁 lacus 背景在中古英语中相互影响，现代湖泊义承接这些材料。",
+    "branches": [
+      [
+        "水体与周边位置",
+        "lake · lakeside · lakeshore · lakefront · lakeview"
+      ],
+      [
+        "湖区",
+        "lakeland"
+      ],
+      [
+        "lake → lakes：较早英语与法语水体词的影响",
+        "lake · lakes"
+      ]
+    ],
+    "contrasts": "lakeside 在湖边，lakeview 看得见湖，未必同一位置；lakeshore 湖岸；lakeland 地区不是一个湖本身。",
+    "practice": "Our lakeside room had a beautiful view of the lake.\n\n我们的湖边房间能清楚地看见湖景。",
+    "words": [
+      "lake",
+      "lakeside",
+      "lakeshore",
+      "lakefront",
+      "lakeview",
+      "lakeland",
+      "lakes"
+    ],
+    "exclude": {
+      "laker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

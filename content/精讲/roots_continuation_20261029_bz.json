@@ -1,0 +1,65 @@
+[
+  {
+    "id": "B3061",
+    "meaning": "心脏；内心；中心；感情与勇气",
+    "core": "HEART：身体在跳，语言把感情和勇气放在心里",
+    "image": "实际心脏、事物内部与情感比喻分开看，才能既理解画面，又不把比喻当生理事实。",
+    "intro": "heart 接古英语 heorte；许多情绪、勇气等用法已经很古老。heartwood 用中心义，heartburn 按胸部烧灼感命名；其余词看感情与勇气分支。",
+    "forms": "heart → heartbeat、heartwood、heartburn；sweetheart、heartthrob、heartfelt、heartstrings；hearty → heartily；heartening ↔ disheartening、heartless；heartbreak → heartbreaking、heartbroken、heartbreaker，再看 heartache。\n\nheart 接古英语 heorte，内心、勇气等比喻较早已有；hearts 也用于扑克牌的红心花色。",
+    "branches": [
+      [
+        "身体、内部与感受命名",
+        "heart · heartbeat · heartwood · heartburn · heartland"
+      ],
+      [
+        "亲爱、心动与真情",
+        "sweetheart · heartthrob · heartfelt · heartstrings"
+      ],
+      [
+        "热情、勇气及其缺失",
+        "hearty · heartily · heartening · disheartening · heartless"
+      ],
+      [
+        "心碎与伤痛",
+        "heartbreak · heartbreaking · heartbroken · heartbreaker · heartache"
+      ],
+      [
+        "heart → hearts：心脏、内心；红心牌",
+        "heart · hearts"
+      ]
+    ],
+    "contrasts": "heartfelt 真挚，hearty 热情、有力或丰盛；heartbreaking 是让人心碎，heartbroken 是自己已心碎。heartburn 不属于失恋心痛。",
+    "practice": "Her heartfelt words were heartening after a disheartening week.\n\n令人泄气的一周之后，她真挚的话让人重新振作。",
+    "words": [
+      "heart",
+      "heartbeat",
+      "heartwood",
+      "heartburn",
+      "heartland",
+      "sweetheart",
+      "heartthrob",
+      "heartfelt",
+      "heartstrings",
+      "hearty",
+      "heartily",
+      "heartening",
+      "disheartening",
+      "heartless",
+      "heartbreak",
+      "heartbreaking",
+      "heartbroken",
+      "heartbreaker",
+      "heartache",
+      "hearts"
+    ],
+    "exclude": {
+      "heart-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heart-touching": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bleeding-heart": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "braveheart": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lionheart": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heartworm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

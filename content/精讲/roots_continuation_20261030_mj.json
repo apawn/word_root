@@ -1,0 +1,192 @@
+[
+  {
+    "id": "B3839",
+    "meaning": "抓握实体、接触防滑与注意力被抓住",
+    "core": "GRIP：握牢东西，也能牢牢抓住人的注意",
+    "image": "grip → gripper、grippy、gripping。",
+    "intro": "把手、轮胎、故事看似相隔很远，其实都在说不容易松开、滑走。工具、表面性质和作品吸引力各配场景。",
+    "forms": "古英语抓握词族 → grip；-er 工具、人，-y 性质，-ing 造成作用的性质，均双写 p。\n\n短重读音节后双写 p 加 ed，动作与情绪比喻各有具体对象。",
+    "branches": [
+      [
+        "抓握及工具",
+        "grip · gripper"
+      ],
+      [
+        "防滑与吸引性质",
+        "grippy · gripping"
+      ],
+      [
+        "grip → grips、gripped：抓握到控制、吸引",
+        "grip · grips · gripped · gripping"
+      ]
+    ],
+    "contrasts": "grippy 不一定黏；gripping 与 gripped 的主动吸引、被吸引状态分清。",
+    "practice": "The grippy handle helped her keep a firm grip on the tool.\n\n防滑把手帮助她握牢工具。",
+    "words": [
+      "grip",
+      "gripper",
+      "grippy",
+      "gripping",
+      "grips",
+      "gripped"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2714",
+    "meaning": "柠檬的味、香、颜色与饮料，另有劣质货俚语",
+    "core": "LEMON：从水果感官扩展，问题车则看俚语背景",
+    "image": "lemon → lemony、lemonade；lemongrass 以类似香味命名。",
+    "intro": "味道、颜色和饮料容易沿水果联想；香茅叫 lemongrass 是闻起来相似，不是柠檬树长出来的草。",
+    "forms": "波斯、阿拉伯柑橘词经法语等 → lemon；-y 性质，-ade 饮料；grass 草。\n\n法语、阿拉伯、波斯语言路线，劣质货义不编成唯一确定的酸味故事。",
+    "branches": [
+      [
+        "水果与相似性质",
+        "lemon · lemony"
+      ],
+      [
+        "饮料及香草名称",
+        "lemonade · lemongrass"
+      ],
+      [
+        "lemon → lemons：柑橘名与劣质货俚语",
+        "lemon · lemons"
+      ]
+    ],
+    "contrasts": "lemony 不保证含真实柠檬；lemonade 地区配方不同；问题车 lemon 不说颜色。",
+    "practice": "The lemonade had a bright, lemony flavour.\n\n这杯柠檬饮料有鲜明的柠檬味。",
+    "words": [
+      "lemon",
+      "lemony",
+      "lemonade",
+      "lemongrass",
+      "lemons"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4568",
+    "meaning": "东西装进去，系统也可载入资源或承受负荷",
+    "core": "LOADING：从车厢装货到程序载入",
+    "image": "load → loading；overloading 是超过适当负荷。",
+    "intro": "有一个承载空间，东西进入其中。loading 看过程，overloading 再加过量限制，工程和程序的具体承载对象不同。",
+    "forms": "load + -ing；over- 过度 + loading。",
+    "branches": [
+      [
+        "装载、加载与过载",
+        "load · loading · overloading"
+      ]
+    ],
+    "contrasts": "loading 不等于一律下载；overloading 说超过适当范围。",
+    "practice": "The loading crew avoided overloading the truck.\n\n装货人员避免让卡车超载。",
+    "words": [
+      "load",
+      "loading",
+      "overloading"
+    ],
+    "exclude": {
+      "self-loading": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3078",
+    "meaning": "坚硬形态变软、流动，实体与情绪都能借用",
+    "core": "MELT：硬块不再硬了，逐步化开",
+    "image": "melt → melty、molten；snowmelt、meltwater；meltdown 有崩溃等比喻。",
+    "intro": "先看物态变化，再看心软、逐渐消失。材料状态与融雪、水流复合分开；molten 保存旧分词，不是普通过去式替换。",
+    "forms": "meltan、mieltan 合流 → melt；-y 性质；molten 旧分词；snow、water、down 限定对象或过程。\n\n古英语 meltan、mieltan 在英语合流，现代一个词兼顾两种动作方向。",
+    "branches": [
+      [
+        "融化、融软与高温熔融",
+        "melt · melty · molten"
+      ],
+      [
+        "雪和融水",
+        "snowmelt · meltwater"
+      ],
+      [
+        "熔毁及崩溃比喻",
+        "meltdown"
+      ],
+      [
+        "melt → melted、melting：自己熔化、使熔化",
+        "melt · melted · melting"
+      ]
+    ],
+    "contrasts": "melt 与 dissolve 按实际变化分；molten 常高温材料，普通完成用 melted。",
+    "practice": "Snow began to melt, and meltwater filled the stream.\n\n雪开始融化，融水汇进溪流。",
+    "words": [
+      "melt",
+      "melty",
+      "molten",
+      "snowmelt",
+      "meltwater",
+      "meltdown",
+      "melted",
+      "melting"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4064",
+    "meaning": "光洁、整齐到利落、巧妙，方式与性质连着看",
+    "core": "NEAT：东西摆得利落，办法也可以处理得利落",
+    "image": "neat → neatly、neatness；neato 是口语赞叹。",
+    "intro": "物理整洁、思路利落与口语称赞联系紧密；酒的纯饮义则走不掺杂这条线。",
+    "forms": "nitere → nitidus → 法语 net、neit → neat；-ly 方式，-ness 性质，-o 口语变体。",
+    "branches": [
+      [
+        "整洁性质、方式和抽象评价",
+        "neat · neatly · neatness"
+      ],
+      [
+        "口语称赞",
+        "neato"
+      ]
+    ],
+    "contrasts": "neat 不只干净；neatly 可说概括利落；neatness 不保证内容正确。",
+    "practice": "She arranged the papers neatly and appreciated the neatness of the result.\n\n她把文件排整齐，很满意整理后的利落样子。",
+    "words": [
+      "neat",
+      "neatly",
+      "neatness",
+      "neato"
+    ],
+    "exclude": {
+      "neat-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3808",
+    "meaning": "窝的安居功能与一层包一层的结构",
+    "core": "NEST：把东西安置进一个能容纳它的位置",
+    "image": "nest → nester；nestle 依偎；nestling 的两种构词分别看。",
+    "intro": "鸟巢、人安顿、碗套叠都能借安放进窝的画面。幼鸟名和依偎分词恰好同形，拆分后读音差异就清楚了。",
+    "forms": "nest 旧名词、动词；-er 筑巢者；-le 旧动词形式；nest + -ling 幼鸟与 nestle + -ing 分词不同。\n\n和 nest 比较容身空间；niche 经法语，远源有意大利贝壳、小凹处与拉丁 nidus 巢等不同分析，不能把其中任一条定为已证实。",
+    "branches": [
+      [
+        "巢与筑巢者",
+        "nest · nester"
+      ],
+      [
+        "依偎动作与同形幼鸟名",
+        "nestle · nestling"
+      ],
+      [
+        "niche：凹龛到适合自己的位置",
+        "niche · niches"
+      ]
+    ],
+    "contrasts": "nestle 不读 t；幼鸟 nestling 通常读 t；empty nester 看孩子离家这一家庭阶段。",
+    "practice": "The nestlings stayed in the nest while their parents searched for food.\n\n亲鸟寻找食物时，幼鸟留在巢中。",
+    "words": [
+      "nest",
+      "nester",
+      "nestle",
+      "nestling",
+      "niche",
+      "niches"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "B3335",
+    "meaning": "杆、阻隔、柜台与长条形；压力单位分源",
+    "core": "BAR：一根横杆能隔开空间，也能借指条状物",
+    "image": "先条杆与阻止，再讲酒吧人员、客房迷你吧，接屏幕长条与实体工具；已有 sidebar、crossbar、barkeep 共享。",
+    "intro": "常见多个意思通过横杆、隔栏、柜台联系，压力单位却来自希腊重量词，必须单独注明。",
+    "forms": "bar + tender/man/maid；mini- + bar；tool/task/sound/handle/crow/sand + bar；rebar 缩自 reinforcing bar。\n\nbarrier 经法语 barriere 接 barre 杆、栅栏，与 bar 的门栓、阻隔线同族；不接压力单位 bar 的另一来源。\n\n条杆词经法语借入，压力单位则来自希腊重量词。\n\n法语 barre 杆、栅栏到 barriere，扩展为实体和抽象障碍。\n\nscrollbar 用于移动可见内容，sidebar 在主区旁放导航或补充材料。\n\nbar 取界面条栏，tool 取工具功能。\n\nbar 提供条状外形，区别界面里的音量控制条。\n\nbar 经法语 barre 与俗拉丁 barra 横杆、障碍词族，现代双写 r 加完整 -ed，末尾 /d/。被禁止进入与有条纹、栏杆两类按对象理解。",
+    "branches": [
+      [
+        "基本物与阻隔",
+        "bar · crossbar"
+      ],
+      [
+        "酒吧与人员",
+        "bartender · bartending · barman · barmaid · barkeep · minibar"
+      ],
+      [
+        "界面条与声音设备",
+        "toolbar · taskbar · sidebar · soundbar"
+      ],
+      [
+        "杆具和自然条状物",
+        "handlebar · crowbar · rebar · sandbar"
+      ],
+      [
+        "barrier：拦在面前的杆到障碍",
+        "bar · barrier"
+      ],
+      [
+        "bar → bars：条杆、柜台、小节；压力单位另源",
+        "bar · bars"
+      ],
+      [
+        "barrier → barriers：一道挡住去路的东西",
+        "bar · barrier · barriers"
+      ],
+      [
+        "bar 的界面条栏：滚动条、侧栏",
+        "bar · scrollbar · scrollbars · sidebar · sidebars"
+      ],
+      [
+        "toolbar → toolbars：工具按钮所在条栏",
+        "toolbar · toolbars"
+      ],
+      [
+        "soundbar → soundbars：条状音箱",
+        "soundbar · soundbars"
+      ],
+      [
+        "bar 横杆、阻挡 → barred",
+        "barred"
+      ]
+    ],
+    "contrasts": "bar 条杆与压力单位分源；bartender 照料者不是柔嫩；rebar 是缩合；soundbar 音箱、toolbar 工具栏。",
+    "practice": "The bartender used the toolbar to check the minibar order.\n\n吧台服务员用工具栏查看迷你吧订单。",
+    "words": [
+      "bar",
+      "crossbar",
+      "bartender",
+      "bartending",
+      "barman",
+      "barmaid",
+      "barkeep",
+      "minibar",
+      "toolbar",
+      "taskbar",
+      "sidebar",
+      "soundbar",
+      "handlebar",
+      "crowbar",
+      "rebar",
+      "sandbar",
+      "barrier",
+      "bars",
+      "barriers",
+      "scrollbar",
+      "scrollbars",
+      "sidebars",
+      "toolbars",
+      "soundbars",
+      "barred"
+    ],
+    "exclude": {
+      "armbar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "barroom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

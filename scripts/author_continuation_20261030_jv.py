@@ -1,0 +1,95 @@
+"""Relate and a useful set of -istic adjectives."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+L=[['拉丁 referre 带回，其分词 relātus → 法语 relater 等','带回消息、报告、讲述'],['英语 relate 的发展','讲述；联系、有关联；再有心理上的理解、共鸣']]
+W('relate','/rɪˈleɪt/','讲述；联系、有关；理解、产生共鸣',
+ '把经历带回来讲给人听，是 relate 的讲述；把两件事接上关系，也是 relate；别人的故事与你经历接得上，就有 relate to 的共鸣。',
+ '经法语 relater 并联系拉丁 relātus，后者是 referre 带回、报告的分词形式。讲述、关联、心理共鸣在不同阶段发展，现代 relate 不能只按一个中文义使用。',L,
+ 'relate an experience 讲述经历，relate A to B 把A联系到B，relate to the problem 与问题有关，relate to a character 理解一个角色、与之共鸣。',
+ 'relate an experience；relate A to B；relate to。',
+ 'relate to 的有关、理解要随主语和对象判断。The figures relate to sales 是数据与销售有关，不是在说数字同情销售额。',
+ ('She related her experience to the class.','她向全班讲述了自己的经历。'),('I can relate to the character’s uncertainty.','我能理解这个角色的不确定感。'))
+W('relatable','/rɪˈleɪtəbəl/','令人有共鸣、容易理解的；可以联系起来、讲述的〔依语境〕',
+ '看见角色的烦恼，心想我也这样，便觉得 relatable。日常最常用的不是可以讲，而是与自己的经验接得上。',
+ 'relate + -able，去末尾 e；能力义随 relate 的联系、讲述、心理共鸣各自形成，今天人物、故事的共鸣义很常见。',L+[['relate + -able → relatable','可联系、可讲述；容易从自身经验理解']],
+ 'a relatable character 令人共鸣的角色，a relatable story 有共鸣的故事，find something relatable 觉得某事贴近自己的经历。',
+ 'a relatable character；a relatable story；find it relatable。',
+ 'relatable 不等于 likeable 讨喜；一个犯错的角色也可能让人觉得很真实、能理解。related 只说明已有关联，并不自动令人共鸣。',
+ ('The film’s main character is flawed but relatable.','电影主角有缺点，却让人能理解、产生共鸣。'),('Her story made the abstract problem feel relatable.','她的故事让那个抽象问题变得贴近人的经验。'))
+W('correlate','动词：英 /ˈkɒrəleɪt/、美 /ˈkɔːrəleɪt/；名词末尾常 /lət/','相关联；使对应；相关物〔名词〕',
+ '看两组变化是否有对应关系：一边变化时，另一边是否也按某种方式变化。correlate 把镜头放在这种关联。',
+ 'cor- 是 con- 共同、一起的同化形式 + relate。现代形成使相互关联、呈相关关系的用法；动词词尾 -ate 读 /eɪt/，名词常弱读。',L+[['cor- + relate → correlate','使建立对应关系；有相关性']],
+ 'correlate with 与……相关，correlate A with B 比较、联系A与B，a correlate of 某物的相关物〔名词〕。统计里方向可正可负，具体强弱靠数据分析。',
+ 'correlate with；correlate A with B；a correlate of。',
+ 'correlate 说明关联，不自动证明一项造成另一项。相关也不要求两条线每一点完全同步、数值相同。',
+ ('The two measurements correlate closely.','这两项测量结果关系密切。'),('The study asks whether the scores correlate with experience.','研究考察分数是否与经验有关联。'))
+R('B3324','讲述、建立联系，以及共鸣与相关性','RELATE：把消息讲出来，把对象联系起来，再有经验上的共鸣','relate → relatable；correlate 聚焦相互对应、相关。',
+ '词源的带回、报告是一条旧起点，现代联系和共鸣已形成稳定用法。用真实句型区分，会比把每次 relate 都译成关联更好。',
+ 'referre 的分词 relātus，经法语等 → relate；-able 能力，cor- 共同 + relate。',
+ [['基础与共鸣性质','relate · relatable'],['相关、对应','correlate']],
+ 'relatable 不等于讨喜；correlate 也不自动证明因果。',
+ 'The teacher related a story that students found relatable, then asked how it related to the topic.\n\n老师讲了一个学生能共鸣的故事，再问它与主题有什么联系。','relate relatable correlate')
+W('ritualistic','/ˌrɪtʃuəˈlɪstɪk/','仪式性的；按固定程式反复进行的',
+ '动作有固定顺序，像在完成一套仪式，就是 ritualistic。它可以是真正宗教仪式，也可以是每天重复的郑重小习惯。',
+ 'ritual 仪式 + -istic；也可联系 ritualist、ritualism 这组词。ritual 更早接拉丁 rītuālis、rītus 仪式。',
+ [['拉丁 rītus、rītuālis → ritual','仪式、仪式相关'],['ritual + -istic → ritualistic','具有仪式、固定程式特征的']],
+ 'ritualistic movements 仪式性动作，a ritualistic routine 固定程式，ritualistic behaviour 仪式般行为。是否宗教、是否负面，依对象、语境。',
+ 'ritualistic movements；a ritualistic routine。',
+ 'ritualistic 不必意味着毫无意义；habitual 只说习惯性，ritualistic 往往更突出一套程式、仪式感。',
+ ('The ceremony included a series of ritualistic movements.','典礼包含一系列仪式性动作。'),('He made coffee with an almost ritualistic care.','他冲咖啡时认真得近乎在举行仪式。'))
+W('minimalistic','/ˌmɪnɪməˈlɪstɪk/','极简风格的；与极简主义有关的',
+ '把颜色、线条、装饰减到很少，让主要结构显出来，是 minimalistic 常描述的设计感觉。少，不等于随便漏做。',
+ 'minimal 最少、最低限度 + -istic，联系 minimalism 极简主义这一词族。不同艺术、设计领域的极简做法各有背景。',
+ [['minimal 最小限度 → minimalism','以削减、简化为显著特征的风格、思想'],['minimal + -istic → minimalistic','极简风格相关的性质']],
+ 'a minimalistic design 极简设计，minimalistic furniture 极简风格家具。minimalist 也很常作形容词，两者在风格描述中经常交叠。',
+ 'a minimalistic design；minimalistic furniture。',
+ 'minimal 是数量、程度最少或很小；minimalistic 常是风格。a minimal change 细微变化，不必成为极简主义作品。',
+ ('The room has a minimalistic design with few decorations.','房间采用极简设计，装饰很少。'),('She prefers minimalistic furniture with clean lines.','她喜欢线条干净的极简风格家具。'))
+W('masochistic','/ˌmæsəˈkɪstɪk/','受虐倾向的；喜欢自讨苦吃的〔口语夸张〕',
+ '本义联系从受苦、受虐中获得满足的倾向；口语也会夸张说，明知事情折磨人却还偏去做，简直自讨苦吃。',
+ '联系 masochist + -ic 或 Masoch 名称词干 + -istic。masochism 的历史命名取自作家 Sacher-Masoch 的姓，与其作品主题相关，并非普通拉丁词根。',
+ [['Sacher-Masoch 的姓名 → 德语 Masochismus 等术语','取人名形成心理、性行为相关名称'],['masochist／Masoch 词干 → masochistic','相应性质；再有口语夸张扩展']],
+ 'a masochistic tendency 受虐倾向，a masochistic sense of humour 自嘲、自讨苦吃式幽默〔依语境〕。口语夸张不自动构成专业心理判断。',
+ 'a masochistic tendency；a masochistic streak。',
+ 'masochistic 的满足方向在承受苦痛；sadistic 则联系使别人受苦得到满足。日常抱怨难工作时的夸张，与严格术语用途分开。',
+ ('The critic describes the fictional character as masochistic.','评论者把那个虚构角色描述为有受虐倾向。'),('Rewriting the same page for the tenth time felt almost masochistic.','同一页重写第十遍，简直像在自讨苦吃。'),sources=['https://en.wiktionary.org/wiki/masochistic#English','https://www.etymonline.com/word/masochism'])
+W('imperialistic','英 /ɪmˌpɪəriəˈlɪstɪk/；美 /ɪmˌpɪriəˈlɪstɪk/','帝国主义的；奉行扩张、支配政策的',
+ '不仅是与帝国有关，而是强调把权力、控制伸向别国或地区的帝国主义立场、做法。常带批评意味。',
+ 'imperialist + -ic，或 imperial + -istic，联系 imperialism。imperial 接拉丁 imperium 命令、统治、政权一系，现代新增词尾让重点落到思想、政策性质。',
+ [['拉丁 imperium → imperial','统治、帝国相关'],['imperialism／imperialist → imperialistic','与帝国主义、扩张支配政策有关的']],
+ 'imperialistic policies 帝国主义政策，an imperialistic attitude 扩张支配的态度。历史、政治评论中较常见，要看文本在评价何种政策。',
+ 'imperialistic policies；an imperialistic attitude。',
+ 'imperial 只是帝国的也可以中性，如 imperial administration；imperialistic 更聚焦帝国主义性质，不与所有皇室装饰、帝制物品同义。',
+ ('The historian examines imperialistic policies of the period.','历史学家研究那个时期的帝国主义政策。'),('The essay criticizes the movement’s imperialistic ambitions.','文章批评了这场运动的扩张支配野心。'))
+W('cannibalistic','/ˌkænɪbəˈlɪstɪk/','同类相食的；食人的〔人类语境〕',
+ '动物吃掉同种的其他个体，是生物学里的 cannibalistic；谈人类时，才会落到食人的含义。范围不只限恐怖故事。',
+ 'cannibal + -istic，联系 cannibalism。cannibal 的历史名称经西班牙语等联系殖民时期对加勒比地区人群的称呼，名称历史带有外部命名、指控背景。',
+ [['西班牙语等历史人群称呼 → cannibal','在殖民叙述中形成的食人者名称'],['cannibal + -istic → cannibalistic','扩展到同种生物相食的性质']],
+ 'cannibalistic behaviour 同类相食行为，cannibalistic larvae 同类相食的幼虫，a cannibalistic character 食人角色。具体指动物还是人，由主语决定。',
+ 'cannibalistic behaviour；cannibalistic larvae。',
+ 'carnivorous 食肉的只说明吃动物性食物，cannibalistic 还要求吃的是同种个体；两者不同。',
+ ('The study documents cannibalistic behaviour in the insects.','研究记录了这些昆虫的同类相食行为。'),('The novel includes a cannibalistic monster.','小说里有一个食人的怪物。'))
+W('surrealistic','/səˌrɪəˈlɪstɪk/，也见 /səˌriːəˈlɪstɪk/','超现实主义的；梦幻怪诞的',
+ '熟悉东西被放进不合日常逻辑的场景，像梦一样，是 surrealistic 常给人的感觉。艺术史里又可明确指超现实主义。',
+ 'surreal + -istic，联系 surrealism、surrealist；surrealism 接法语 surréalisme，sur- 超越 + réalisme 现实主义，不是把所有内容变得更真实。',
+ [['法语 surréalisme → surrealism 等','超现实主义运动与命名'],['surreal + -istic → surrealistic','相应风格；引申出梦境般怪诞的']],
+ 'a surrealistic painting 超现实主义画作，surrealistic imagery 梦幻怪诞的意象。风格描写与具体艺术运动归属在实际用法中未必完全一致。',
+ 'a surrealistic painting；surrealistic imagery。',
+ 'surrealistic、surreal 常有交叠；realistic 真实、写实则是另一种评价。梦幻怪诞不自动说明作者缺少技巧或作品没有内部逻辑。',
+ ('The film uses surrealistic imagery to show the character’s dreams.','电影用梦幻怪诞的意象表现角色的梦。'),('The gallery displayed several surrealistic paintings.','画廊展出了几幅超现实主义画作。'))
+W('jingoistic','英 /ˌdʒɪŋɡəʊˈɪstɪk/；美 /ˌdʒɪŋɡoʊˈɪstɪk/','好战民族主义的；盲目、激进爱国主义的',
+ '它不只是爱自己的国家，而是批评那种盲目夸本国、对外强硬甚至好战的态度。词本身带明显负面评价。',
+ 'jingo + -istic，联系 jingoism、jingoist。人物称呼 jingo 的政治用法与十九世纪英国一首歌曲里的 by jingo 感叹语有关；感叹语更远来源未完全确定。',
+ [['by jingo 的歌曲背景 → 政治称呼 jingo','支持强硬、好战政策者的带批评称谓'],['jingo／jingoist → jingoistic','与这种盲目、好战民族主义有关的']],
+ 'jingoistic rhetoric 好战民族主义言辞，a jingoistic speech 鼓吹盲目、激进爱国主义的演说。常见于评论者对语言、政策的批评。',
+ 'jingoistic rhetoric；a jingoistic speech。',
+ 'patriotic 爱国的本身可以中性、正面，jingoistic 已加入盲目、好战等批评。不能只因谈本国文化就自动贴同样标签。',
+ ('The review criticizes the film’s jingoistic tone.','评论批评了电影好战民族主义的基调。'),('The essay distinguishes patriotic feeling from jingoistic rhetoric.','文章区分了爱国感情与好战民族主义言辞。'),sources=['https://en.wiktionary.org/wiki/jingoistic#English','https://www.etymonline.com/word/jingoism'])
+R('A2005','相关思想、风格、行为或领域的性质；具体关系由整词决定','-ISTIC：常与 -ist、-ism 词族相连，不是一句固定中文','ritualistic 看仪式程式，minimalistic 看风格，imperialistic 看思想政策，cannibalistic 看行为。',
+ '有些是 -ist 再加 -ic，有些按已有词族重分析成 -istic。看前半真实来源和整词用法，再判断是中性领域词还是带评价的形容词。',
+ '常联系希腊 -istikos、拉丁 -isticus、法语 -istique 的传统；现代可分析 -ist + -ic，或整体 -istic 的扩展。',
+ [['风格、艺术与表达','minimalistic · surrealistic · futuristic · stylistic · impressionistic · journalistic'],['思想、社会与评价','imperialistic · jingoistic · idealistic · materialistic · individualistic · moralistic · legalistic'],['行为、程式与倾向','ritualistic · masochistic · cannibalistic · paternalistic · animalistic'],['领域与方法','holistic · mechanistic · probabilistic · relativistic · pluralistic · simplistic']],
+ '-istic 不统一表示坏、夸张或主义；有些整词有评价，有些只是领域性质；minimalistic 不等于 minimal 数量少。',
+ 'The lesson compares a minimalistic design, ritualistic behaviour and imperialistic rhetoric to show how the same ending works differently.\n\n这课比较极简设计、仪式性行为与帝国主义言辞，说明同一词尾怎样随整词变化。','minimalistic surrealistic futuristic stylistic impressionistic journalistic imperialistic jingoistic idealistic materialistic individualistic moralistic legalistic ritualistic masochistic cannibalistic paternalistic animalistic holistic mechanistic probabilistic relativistic pluralistic simplistic')
+if __name__=='__main__':save('continuation_20261030_jv',ROOTS,WORDS)

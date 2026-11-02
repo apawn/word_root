@@ -1,0 +1,58 @@
+[
+  {
+    "id": "B2644",
+    "meaning": "泥土、大地、地球与相关性质",
+    "core": "EARTH：从手里的土到脚下的整个世界",
+    "image": "earthly、earthy、earthen 紧挨着比较；unearth 看挖出，earthbound 看限制与方向，动物、人类和电气用语另组。",
+    "intro": "earth 是古英语继承词；后缀区别改变关注点：-ly 尘世性质，-y 土味，-en 土制材质。",
+    "forms": "earth → earthly、earthy、earthen、earthing；un- → unearth；earth + quake、bound、worm、-ling；共享 earthwork。\n\n与 earth 比较地下矿物材料。ore 包含古英语 ora 矿石与 ar 铜、青铜等旧词的汇合；不能直接写成现代 earth 截短。\n\nearthquake 是英语复合词，现代保留 e 加 -s，/k/ 后读 /s/，说一次次地震；quake 震动的画面直观可记。",
+    "branches": [
+      [
+        "核心与地震",
+        "earth · earthquake"
+      ],
+      [
+        "三个相近形容词",
+        "earthly · earthy · earthen"
+      ],
+      [
+        "发现与地面关系",
+        "unearth · earthbound · earthwork"
+      ],
+      [
+        "生命与工程",
+        "earthworm · earthling · earthing"
+      ],
+      [
+        "ore：矿石与金属旧词的汇合",
+        "ore · ores"
+      ],
+      [
+        "earth 大地 + quake 震动 → earthquakes",
+        "earthquakes"
+      ]
+    ],
+    "contrasts": "earthen pot 陶罐，earthy smell 土味，earthly life 尘世生活；earthbound 的 bound 有限制与朝向两义。",
+    "practice": "They unearthed an earthen pot from the damp earth.\n\n他们从湿土里挖出一个陶罐。",
+    "words": [
+      "earth",
+      "earthquake",
+      "earthly",
+      "earthy",
+      "earthen",
+      "unearth",
+      "earthbound",
+      "earthwork",
+      "earthworm",
+      "earthling",
+      "earthing",
+      "ore",
+      "ores",
+      "earthquakes"
+    ],
+    "exclude": {
+      "earth-fast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "counter-earth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

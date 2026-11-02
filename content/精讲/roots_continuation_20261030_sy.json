@@ -1,0 +1,575 @@
+[
+  {
+    "id": "A1897",
+    "meaning": "细胞",
+    "core": "-CYTE：把前面的特征接成细胞名称",
+    "image": "leukocyte 是白细胞，erythrocyte 是红细胞。后部固定给细胞，前部区分细胞类别。",
+    "intro": "经科学拉丁语等接希腊 kytos 容器、空腔的材料，近代生物学取作细胞的构词后部。容器是命名线索，不是完整细胞定义。",
+    "forms": "leuko- 白 + -cyte → leukocyte；erythro- 红 + -cyte → erythrocyte。",
+    "branches": [
+      [
+        "白细胞与红细胞",
+        "leukocyte · erythrocyte"
+      ]
+    ],
+    "contrasts": "相同 -cyte 告诉你两者都是细胞；颜色前部反映命名、分类，但两类细胞的功能、结构仍有明显差别。",
+    "practice": "The diagram labels leukocytes and erythrocytes.\n\n图示标出了白细胞和红细胞。",
+    "words": [
+      "leukocyte",
+      "erythrocyte"
+    ],
+    "exclude": {
+      "lymphocyte": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oocyte": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hepatocyte": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2202",
+    "meaning": "黑、深色",
+    "core": "MELA-：从深色色素名称连接到相邻科学命名",
+    "image": "melanin 是黑色素；melatonin 是褪黑素。两者名字有关，实际一个是色素类别，一个是激素名称。",
+    "intro": "接希腊 melas 黑及其变格词干 melan-。melanin 采用黑材料命名；melatonin 又借 melanin、serotonin 等相邻名称材料组成。",
+    "forms": "melan- 黑相关 + 物质名材料 → melanin；melanin 的部分词形与 serotonin 相关词形 → melatonin。不能把后者当 melanin 新加一个普通后缀。",
+    "branches": [
+      [
+        "色素名称",
+        "melanin"
+      ],
+      [
+        "另一个相关命名词",
+        "melatonin"
+      ]
+    ],
+    "contrasts": "melatonin 不是黑色素的另一拼写。前部的历史联系帮助认词，现代物质身份要分别记。",
+    "practice": "The glossary distinguishes melanin from melatonin.\n\n词汇表区分了黑色素与褪黑素。",
+    "words": [
+      "melanin",
+      "melatonin"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2282",
+    "meaning": "地方；经文学命名发展的社会想象",
+    "core": "-TOPIA：给一种社会想象安置一个地方",
+    "image": "utopia 让人想到理想社会，dystopia 则是令人压抑、可怕的社会图景。地方材料被文学用来承载社会设想。",
+    "intro": "更早接希腊 topos 地方。utopia 是近代文学造词，带无此地及好地方的双关；后续再抽出 -topia，类比形成 dystopia 等。",
+    "forms": "utopia → 可重用的 -topia；dys- 坏、失调 + -topia → dystopia → dystopian。具体文学历史见各词讲解。",
+    "branches": [
+      [
+        "理想社会的设想",
+        "utopia"
+      ],
+      [
+        "压抑社会图景及相关性质",
+        "dystopia · dystopian"
+      ]
+    ],
+    "contrasts": "utopia 常有理想化、难实现的意味；dystopia 不只是任何糟糕地点，常指一套令人压抑的社会秩序或其文学描绘。",
+    "practice": "The novel presents a dystopian society.\n\n小说描绘了一个反乌托邦社会。",
+    "words": [
+      "utopia",
+      "dystopia",
+      "dystopian"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2233",
+    "meaning": "管理、规律、学科相关的名词后部",
+    "core": "-NOMICS：把活动与管理、规律研究接起来",
+    "image": "ergonomics 是人体工学、工效学：让工具、工作环境和人的能力、特点更相配。ergo- 给工作，后部给规律、研究关系。",
+    "intro": "接希腊 nomos 规律、习惯、管理等词族及相应学科词尾。ergonomics 有近代欧洲学术命名背景，不只是英语现成两个独立词拼接。",
+    "forms": "ergo- 工作 + 规律、管理相关的 -nomics → ergonomics；ergonomic 是相应形容词。",
+    "branches": [
+      [
+        "人体工学及相关设计性质",
+        "ergonomics · ergonomic"
+      ]
+    ],
+    "contrasts": "ergonomic design 说设计考虑人的使用特点，不只是外观圆润，也不等于所有舒适感都来自同一原则。",
+    "practice": "The course applies ergonomics to workplace design.\n\n这门课把人体工学用于工作场所设计。",
+    "words": [
+      "ergonomics",
+      "ergonomic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1951",
+    "meaning": "带有、承载某物的",
+    "core": "-FEROUS：前面的东西在其中被携带、含有",
+    "image": "carboniferous 的旧画面是带有碳、煤的；Carboniferous 又固定为石炭纪名称。先从含有的结构记，再认识地质分期。",
+    "intro": "接拉丁 ferre 带、承载及 -fer 词族，再有形容词 -ous。经近代科学、地质命名形成相关形容词。",
+    "forms": "carbon- 碳、煤相关材料 + -ferous 含有、承载的 → carboniferous；大写 Carboniferous 用为石炭纪名称。",
+    "branches": [
+      [
+        "含碳、含煤及地质分期名称",
+        "carboniferous"
+      ]
+    ],
+    "contrasts": "carboniferous 的一般含有义与 Carboniferous 的固定分期要按大小写、搭配区分；地质年代名不只是随意说一块煤。",
+    "practice": "The museum explains coal formation during the Carboniferous.\n\n博物馆解释了石炭纪时期的成煤过程。",
+    "words": [
+      "carboniferous"
+    ],
+    "exclude": {
+      "fossiliferous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2378",
+    "meaning": "出生、来源、种类相关的历史材料",
+    "core": "-GENE：在同源、同类词族里认识来源关系",
+    "image": "homogenous 常作为 homogeneous 的变体，表达同质、均一；某些较专门用法还保留同来源、同祖系等关系。",
+    "intro": "经法语 -gene、德语 -gen 等相关学术形式，接希腊 -genes 生于某来源、某种类及拉丁 -genus 词族。这里不是独立英语 gene 的所有现代含义。",
+    "forms": "homo- 相同 + 来源、种类相关材料 → homogenous；homogeneous 是相邻而更常见的同质形容词形式。具体传入路径分别见各词。",
+    "branches": [
+      [
+        "同质、同来源等相关形式",
+        "homogenous · homogeneous"
+      ]
+    ],
+    "contrasts": "表达一般均一、同质时 homogeneous 更常见；不能只看到 gene 字母，就把整个词读成同一个基因。",
+    "practice": "The mixture should be homogeneous.\n\n混合物应当均匀一致。",
+    "words": [
+      "homogenous",
+      "homogeneous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2252",
+    "meaning": "动作、过程、状态的名词材料",
+    "core": "-SIS：在历史借词中把过程或状态命名",
+    "image": "neurosis 是神经症，名称属于旧的心理、医学分类传统。词尾给名词关系，现代意思不能只靠神经加状态就完整猜出。",
+    "intro": "来自希腊 -sis 动作名词词尾，经拉丁、法语等借词进入英语。-osis、-esis 等相邻形式也有各自词干、造词历史。",
+    "forms": "neur- 神经相关材料 + -osis 的科学状态命名 → neurosis；较深的 -sis 是相关名词材料。不要机械地把每个尾部 sis 都切到同一层。",
+    "branches": [
+      [
+        "历史心理、医学状态名称",
+        "neurosis"
+      ]
+    ],
+    "contrasts": "neurosis 的分类、日常引申要看年代和语境；不是所有焦虑、紧张都直接叫同一个术语。",
+    "practice": "The book discusses the history of the concept of neurosis.\n\n这本书讨论了神经症概念的历史。",
+    "words": [
+      "neurosis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1924",
+    "meaning": "产生、来源、世系相关",
+    "core": "-GENY：把一个群体的起源、世系放到整体来看",
+    "image": "phylogeny 是系统发育、演化关系：一个类群从什么祖先发展，分支之间怎样相连。",
+    "intro": "来自希腊 -geneia 出生、来源等材料，经近代生物学命名形成 -geny。phylo- 则接族群、类群材料。",
+    "forms": "phylo- 类群 + -geny 来源、发展 → phylogeny。它的对象是类群的演化历史，不只是一个个体从小长大。",
+    "branches": [
+      [
+        "类群的演化历史、关系",
+        "phylogeny"
+      ]
+    ],
+    "contrasts": "phylogeny 常可用演化树表达；一个个体的发育过程则有 ontogeny 等相邻术语，研究尺度不同。",
+    "practice": "The tree shows the inferred phylogeny of the species.\n\n这棵树展示了推断出的物种演化关系。",
+    "words": [
+      "phylogeny"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1742",
+    "meaning": "双、两重",
+    "core": "DIPLO-：在染色体名称里认两套",
+    "image": "diploid 二倍体的，通常说有两套染色体组；haploid 单倍体则通常是一套。先数套数，再问每套有几条。",
+    "intro": "来自希腊 diploos、diplous 双重的，经新拉丁语科学构词进入英语。",
+    "forms": "diplo- 双重 + -ploid 染色体组数材料 → diploid；与 haploid 构成一套、两套的对照。",
+    "branches": [
+      [
+        "单倍体与二倍体对照",
+        "haploid · diploid"
+      ]
+    ],
+    "contrasts": "diploid 不是一共只有两条染色体。两套的意义与某物种每套具体条数是两层信息。",
+    "practice": "The diagram shows a diploid cell with two chromosome sets.\n\n图示展示了一个具有两套染色体组的二倍体细胞。",
+    "words": [
+      "haploid",
+      "diploid"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2309",
+    "meaning": "视网膜",
+    "core": "RETINO-：把病变等关系限定到视网膜",
+    "image": "retina 是视网膜，retinal 是相关形容词，retinopathy 则说视网膜病变。先认结构，后面的派生就顺了。",
+    "intro": "接 retina 视网膜及其新拉丁语词族，远处与拉丁 rete 网的材料相关。近代医学采用 retino- 组合形式。",
+    "forms": "retina → retinal；retino- + -pathy 病变 → retinopathy。其中 retinal 也在化学中作另一具体物质名，用法要按语境区分。",
+    "branches": [
+      [
+        "视网膜与相关性质",
+        "retina · retinal"
+      ],
+      [
+        "视网膜病变",
+        "retinopathy"
+      ]
+    ],
+    "contrasts": "retinopathy 指病变类别，不直接等于某一种病因；retinal disease 中 retinal 是形容词，不能自动按化学物质视黄醛理解。",
+    "practice": "The illustration shows the retina and nearby structures.\n\n插图展示了视网膜及附近结构。",
+    "words": [
+      "retina",
+      "retinal",
+      "retinopathy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2266",
+    "meaning": "声音",
+    "core": "SONO-：把成像技术接到声波",
+    "image": "sonography 是超声成像、检查，sonogram 是相应图像。声音帮助形成图像，一个后部说过程，一个后部说结果。",
+    "intro": "来自拉丁 sonus 声音，近代科学组成 sono-；超声检查名称采用声音材料，但完整技术用的是超声波。",
+    "forms": "sono- + -graphy 记录、成像过程 → sonography；sono- + -gram 记录、图像 → sonogram。",
+    "branches": [
+      [
+        "超声成像过程与图像",
+        "sonography · sonogram"
+      ]
+    ],
+    "contrasts": "sonogram 通常是图像、记录，不是检查操作者的称呼；sonography 才常说技术、检查过程。",
+    "practice": "The report includes a sonogram from the examination.\n\n报告附有检查得到的一张超声图像。",
+    "words": [
+      "sonography",
+      "sonogram"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2074",
+    "meaning": "腹部、胁腹",
+    "core": "LAPARO-：把观察、切开等动作落到腹部",
+    "image": "laparoscopy 是腹腔镜检查、手术相关过程；laparotomy 是剖腹术。两个后部决定检查、操作方式的不同命名。",
+    "intro": "来自希腊 lapara 胁腹、身体侧腹等，进入医学组合形式 laparo-。现代术语采用腹部这一相关范围。",
+    "forms": "laparo- 腹部 + -scopy 观察、检查 → laparoscopy；laparo- + -tomy 切开 → laparotomy。",
+    "branches": [
+      [
+        "腹腔镜相关过程",
+        "laparoscopy"
+      ],
+      [
+        "切开腹部的手术名称",
+        "laparotomy"
+      ]
+    ],
+    "contrasts": "laparoscopy 与 laparotomy 不是拼写变体：后半一个接镜检、观察材料，一个接切开材料，实际操作名称也不同。",
+    "practice": "The glossary compares laparoscopy with laparotomy.\n\n词汇表对照了腹腔镜操作与剖腹术。",
+    "words": [
+      "laparoscopy",
+      "laparotomy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1695",
+    "meaning": "动物、生命相关",
+    "core": "ZOO-：在现代生物分类名称里先认动物",
+    "image": "zoology 是动物学，zooplankton 是浮游动物；独立短词 zoo 则是动物园，从较长名称缩短而来。",
+    "intro": "来自希腊 zoion 动物、生物，经近代学术词进入 zoology 等；zoo 动物园来自 zoological garden 的截短，不是所有 zoo- 词都先由动物园这个短词构成。",
+    "forms": "zoo- + -logy → zoology → zoologist；zoological garden → zoo；zoo- + plankton → zooplankton。",
+    "branches": [
+      [
+        "动物园的短称",
+        "zoo"
+      ],
+      [
+        "动物学、研究者",
+        "zoology · zoologist"
+      ],
+      [
+        "浮游动物类别",
+        "zooplankton"
+      ]
+    ],
+    "contrasts": "zooplankton 不是动物园里的浮游生物；前部直接给动物这一旧材料。plankton 的分类关键仍是随水流漂移的生活方式。",
+    "practice": "The zoologist studies zooplankton in coastal waters.\n\n动物学家研究近岸水域的浮游动物。",
+    "words": [
+      "zoo",
+      "zoology",
+      "zoologist",
+      "zooplankton"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2000",
+    "meaning": "大、巨大的",
+    "core": "MEGALO-：在完整名称中表达大规模",
+    "image": "megalopolis 是规模很大、多个城市相互联系的都市群；把多个都市放到一张区域图上，就容易看出这个大。",
+    "intro": "来自希腊 megas 大及 megalos 等词形，组成 megalo-。近代地理等学科借它命名大规模对象。",
+    "forms": "megalo- 大 + polis 城市 → megalopolis。metropolis 是相邻大都市词，但其更早前部是母城材料，不能因为现代中文相近就拆成同一来源。",
+    "branches": [
+      [
+        "大都市与更广的都市群",
+        "metropolis · megalopolis"
+      ]
+    ],
+    "contrasts": "megalo- 的一般大义与 SI mega- 的精确一百万倍不同；完整词应按大规模都市群的固定意思理解。",
+    "practice": "Several cities have grown into a connected megalopolis.\n\n几座城市发展成了相互联系的大型都市群。",
+    "words": [
+      "metropolis",
+      "megalopolis"
+    ],
+    "exclude": {
+      "cytomegalovirus": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2100",
+    "meaning": "运动、移动",
+    "core": "KINESI-：把人体运动作为研究对象",
+    "image": "kinesiology 是运动学、人体运动相关研究；先想肌肉、关节与动作怎样配合。",
+    "intro": "来自希腊 kinesis 运动、移动，联系 kinein 使动、移动的词族。近代学科采用 kinesi- 组合形式。",
+    "forms": "kinesi- 运动 + -logy 学科 → kinesiology。具体课程可覆盖生物力学、生理等不同主题，名字先圈定运动对象。",
+    "branches": [
+      [
+        "人体运动研究",
+        "kinesiology"
+      ]
+    ],
+    "contrasts": "kinesiology 的一般学科用法与名为 applied kinesiology 的特定做法需要按完整名称区分；共同运动材料不代表内容相同。",
+    "practice": "She studies human movement in a kinesiology course.\n\n她在运动学课程中研究人体运动。",
+    "words": [
+      "kinesiology"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2331",
+    "meaning": "指、趾",
+    "core": "-DACTYL：把某种指趾结构接成名称",
+    "image": "pterodactyl 的旧命名像翼指：用延长的指骨支撑飞行膜翼。指的材料让名字与身体结构连起来。",
+    "intro": "经拉丁化 -dactylus、法语等接希腊 daktylos 指、趾。不同科学名称用前部限定数量、形态或相关结构。",
+    "forms": "ptero- 翼 + dactyl- 指 → pterodactyl。完整词的普通用法与严格分类名称范围可能不同，需看文章语境。",
+    "branches": [
+      [
+        "翼指相关的古生物名称",
+        "pterodactyl"
+      ]
+    ],
+    "contrasts": "指、趾是同一旧材料的不同身体位置用法；pterodactyl 在这里突出翼与指骨关系，不是只按脚趾理解。",
+    "practice": "The museum model shows the wing structure of a pterodactyl.\n\n博物馆模型展示了翼手龙的翼部结构。",
+    "words": [
+      "pterodactyl"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1965",
+    "meaning": "翼、羽毛",
+    "core": "PTERO-：把飞行结构的翼认出来",
+    "image": "pterodactyl 把翼与指的材料放在一起，保存了对膜翼支撑结构的观察。",
+    "intro": "来自希腊 pteron 翼、羽毛，经近代古生物学等命名进入 ptero-。英语 pterodactyl 的开头 p 通常不发音。",
+    "forms": "ptero- 翼 + dactyl- 指 → pterodactyl。开头不读 p 是借词读音习惯，不表示书写中的 p 没有历史来源。",
+    "branches": [
+      [
+        "有翼的古生物名称",
+        "pterodactyl"
+      ]
+    ],
+    "contrasts": "pterodactyl 在日常可被泛用于部分翼龙形象，但严格古生物分类更精细；翼龙也不能直接当成鸟类。",
+    "practice": "The child pointed to the pterodactyl in the illustration.\n\n孩子指着插图里的翼手龙。",
+    "words": [
+      "pterodactyl"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2305",
+    "meaning": "名字、词语之间的关系名词材料",
+    "core": "-ONYMY：把词与词的命名、意义关系变成名词",
+    "image": "synonym 是同义词，synonymy 是同义关系。一个说参与关系的词，一个说词之间的关系。",
+    "intro": "接希腊 onoma、onyma 名字等词族及 -ia 名词材料，经学术拉丁语、法语等形式进入英语 -onymy。",
+    "forms": "syn- 共同、相同相关 + 名字材料 → synonym 词族；对应抽象关系名 synonymy。",
+    "branches": [
+      [
+        "词语与同义关系",
+        "synonym · synonymy"
+      ]
+    ],
+    "contrasts": "synonymy 不是再多一个同义词的称呼；它说关系、现象。同义程度也可受语境、语气、搭配限制。",
+    "practice": "The lesson explores synonymy and differences in usage.\n\n这节课探讨同义关系以及用法差别。",
+    "words": [
+      "synonym",
+      "synonymy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2327",
+    "meaning": "朝向、寻向",
+    "core": "-PETAL：把方向拉向前面的对象",
+    "image": "centripetal 向心的，像物体做圆周运动时所需加速度朝向圆心。前部给中心，后部给朝向。",
+    "intro": "接拉丁 petere 寻求、朝向的词干，再加 -al 形容词材料。centripetal 经近代科学拉丁语命名进入英语。",
+    "forms": "centri- 中心 + pet- 朝向 + -al → centripetal。与 centrifugal 离心的构成方向对照。",
+    "branches": [
+      [
+        "向心与离心方向",
+        "centripetal · centrifugal"
+      ]
+    ],
+    "contrasts": "这里的 -petal 不是 flower petal 花瓣的意思。共同字母不能代替词源，向心词族接的是寻向材料。",
+    "practice": "The diagram shows the centripetal acceleration toward the centre.\n\n图示展示了指向圆心的向心加速度。",
+    "words": [
+      "centripetal",
+      "centrifugal"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2373",
+    "meaning": "速度",
+    "core": "TACHO-：先认速度，再看仪器实际测哪一种",
+    "image": "tachometer 常指转速表，车上显示发动机每分钟转多少圈；speedometer 通常显示车辆行进速度。",
+    "intro": "来自希腊 tachos 速度，近代仪器命名取 tacho- 与测量后部结合。相邻 tachy- 则常表示快、快速。",
+    "forms": "tacho- 速度 + -meter 仪器 → tachometer。名称有较广的测速历史，现代常用搭配特别落在转速。",
+    "branches": [
+      [
+        "转速表与行驶速度表对照",
+        "tachometer · speedometer"
+      ]
+    ],
+    "contrasts": "一辆车的发动机转速和车辆行进速度不是同一个量；两个仪表的读数、单位不同，不能只按中文速度二字互换。",
+    "practice": "The tachometer displays the engine speed in revolutions per minute.\n\n转速表以每分钟转数显示发动机转速。",
+    "words": [
+      "tachometer",
+      "speedometer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1757",
+    "meaning": "地区、人群、语言相关；转用为某类行话",
+    "core": "-ESE：从语言名称模式扩展到特定说话方式",
+    "image": "legalese 是法律行话、难懂的法律文体。后部借语言名称的模式，把一种专业表达说成一套话语。",
+    "intro": "经中古英语 -eys、古法语 -eis，接拉丁 -ensis 等地区、所属材料。英语后续又类比用于专业、机构等话语名称。",
+    "forms": "地区、语言名称中的 -ese 模式 → 新的文体、行话词尾；legal 法律的 + -ese → legalese。",
+    "branches": [
+      [
+        "法律相关基础性质",
+        "legal"
+      ],
+      [
+        "法律行话、法律文体",
+        "legalese"
+      ]
+    ],
+    "contrasts": "legal English 可中性说法律英语；legalese 常带表达冗长、难懂的评价。后缀的语气随着整词用途变化。",
+    "practice": "The editor replaced the legalese with clear language.\n\n编辑把难懂的法律行话改成了清楚的表达。",
+    "words": [
+      "legal",
+      "legalese"
+    ],
+    "exclude": {
+      "fuck-ese": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1792",
+    "meaning": "某种表达方式、行话",
+    "core": "-SPEAK：把一套说话方式当成可命名的对象",
+    "image": "doublespeak 指模棱两可、掩饰或误导的官样话。它不是普通会说两种语言，而是表达表面与实际意图不一致。",
+    "intro": "现代后部 -speak 的流行与 George Orwell 在文学中创造的 Newspeak 等有密切联系，再类比形成其他话语名称。",
+    "forms": "speak 说话 → 名词式的 -speak 表达方式；double + -speak → doublespeak。完整词有文学、政治话语传统的影响。",
+    "branches": [
+      [
+        "普通说话的基础词",
+        "speak"
+      ],
+      [
+        "掩饰、误导式表达",
+        "doublespeak"
+      ]
+    ],
+    "contrasts": "doublespeak 与 bilingual 双语的不同；它评价话语是否掩饰、误导，不是计算掌握几种语言。",
+    "practice": "The statement was full of doublespeak.\n\n那份声明充满了掩饰、误导性的官样话。",
+    "words": [
+      "speak",
+      "doublespeak"
+    ],
+    "exclude": {
+      "climate-speak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "therapy-speak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meme-speak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "diplomat-speak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "espresso-speak": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2153",
+    "meaning": "人、人类相关的态度名词材料",
+    "core": "-ANTHROPY：把态度落到人类这个对象",
+    "image": "misanthropy 是厌人、厌世，侧重对人类、人性的反感；misanthrope 是持这种态度的人。",
+    "intro": "接希腊 anthropos 人、人类及相应抽象名词形式。不同完整词经欧洲借词、学术构词分别进入英语。",
+    "forms": "mis- 接厌恶材料 + anthrop- 人 + 相应名词形式 → misanthropy；人物名 misanthrope，形容词 misanthropic。",
+    "branches": [
+      [
+        "厌人态度、人物与性质",
+        "misanthrope · misanthropy · misanthropic"
+      ]
+    ],
+    "contrasts": "misanthropy 不等于独处习惯或性格内向；它表达对人类、人的行为有负面态度，评价内容更明确。",
+    "practice": "The novel’s narrator expresses a deep misanthropy.\n\n小说叙述者表现出深深的厌人情绪。",
+    "words": [
+      "misanthrope",
+      "misanthropy",
+      "misanthropic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2225",
+    "meaning": "以某物为中心的观点、取向",
+    "core": "-CENTRISM：把某个群体或立场放在判断中心",
+    "image": "ethnocentrism 是民族中心主义：以自己群体的习惯、价值来衡量其他群体，容易把自己的标准当成普遍标准。",
+    "intro": "从 -centric 以某物为中心的相关形容词重新分析，再接 -ism 形成观点、取向名称。centre 词族更早接圆心、中心材料。",
+    "forms": "ethno- 群体、民族 + -centric → ethnocentric；相应观点名 ethnocentrism。词形关系不等于每次都按同一英语造词顺序。",
+    "branches": [
+      [
+        "以自身群体为中心的性质、取向",
+        "ethnocentric · ethnocentrism"
+      ]
+    ],
+    "contrasts": "关心本群体不必然就是 ethnocentrism；关键词义在于拿自己的群体标准作为评价其他群体的中心。",
+    "practice": "The course asks students to examine ethnocentrism in travel writing.\n\n课程要求学生审视旅行写作中的民族中心主义。",
+    "words": [
+      "ethnocentric",
+      "ethnocentrism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1869",
+    "meaning": "厌恶、不喜欢",
+    "core": "MISO-：把厌恶态度指向后面的对象",
+    "image": "misanthropy 把厌恶与人类接起来；前部在元音前采用 mis- 的形式，不能与表示做错的英语 mis- 一概混用。",
+    "intro": "来自希腊 misein 厌恶、misos 厌恨。miso-、mis- 反映相邻组合形式，完整词经希腊、法语等路线进入英语。",
+    "forms": "miso- 厌恶 + anthrop- 人 → misanthropy 的相邻词族；misanthrope 人物名，misanthropic 形容词。",
+    "branches": [
+      [
+        "对人类的厌恶态度词族",
+        "misanthrope · misanthropy · misanthropic"
+      ]
+    ],
+    "contrasts": "misunderstand 的 mis- 常说错误，misanthropy 的 mis- 来自厌恶材料；相同拼写片段需要按整词的来源区分。",
+    "practice": "The critic described the narrator as misanthropic.\n\n评论者认为叙述者流露出厌人的态度。",
+    "words": [
+      "misanthrope",
+      "misanthropy",
+      "misanthropic"
+    ],
+    "exclude": {}
+  }
+]

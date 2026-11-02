@@ -1,0 +1,580 @@
+[
+  {
+    "word": "vests",
+    "ipa": "/vests/",
+    "meaning": "背心、马甲〔复数，英美指称不同〕；赋予〔第三人称单数〕",
+    "sense": "没有袖子的贴身上衣或外穿背心，可以是 vests，具体看地区和用途。动词 vests 则借给人穿上一层身份的老画面，说把权力、责任交给他。",
+    "split": "名词经法语 veste 等接拉丁 vestis 衣服；动词经法语 vestir、拉丁 vestire 穿衣相关路线更早进入英语。现代都加 -s，/t/ 后读 /s/，不要只排成现代名词先生动词。",
+    "history": [
+      [
+        "拉丁衣服、穿衣材料 → 英语不同借词支",
+        "衣物；使人拥有某种身份、权力"
+      ],
+      [
+        "vest + -s → vests",
+        "多件背心；某规则、主体赋予"
+      ]
+    ],
+    "explanation": "safety vests 安全背心；cotton vests 棉背心；vests responsibility in… 把责任赋予……。",
+    "usage": "life vests 救生衣；vests under shirts 衬衫里面的背心〔常见英式用法〕。",
+    "contrast": "英式 vest 常指内穿背心，美式 vest 常指外穿马甲；具体款式仍看修饰语。动词赋予义是另一条较早借词支的延伸。",
+    "examples": [
+      [
+        "The children wore cotton vests under their shirts.",
+        "孩子们在衬衫里面穿着棉背心。"
+      ],
+      [
+        "Bright safety vests hung beside the door.",
+        "门边挂着鲜艳的安全背心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vests#English",
+      "https://en.wiktionary.org/wiki/vest#English"
+    ]
+  },
+  {
+    "word": "drains",
+    "ipa": "/dreɪnz/",
+    "meaning": "排水沟、排水管、下水道口〔复数〕；排走、耗尽〔第三人称单数〕",
+    "sense": "让水离开原处的通道，是 drains。精力、时间也能像水一样不断流走，所以某事消耗精力也用 drains。",
+    "split": "drain 继承古英语 drēahnian 等排水、逐渐引走液体材料，与变干词族相关，后有排水通道名词。现代加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "古英语排走液体材料 → drain",
+        "使变干、排走 → 排水通道"
+      ],
+      [
+        "drain + -s → drains",
+        "多个排水口、沟管；某物排走、消耗"
+      ]
+    ],
+    "explanation": "blocked drains 堵住的下水道；drains the water 排走水；drains her energy 消耗她的精力。",
+    "usage": "street drains 街道排水口；drains away 逐渐流走、消散。",
+    "contrast": "drains 既可指排水通道，也可说流走动作。精力被 drains，强调逐步耗掉，不必真的接一根管子。",
+    "examples": [
+      [
+        "Leaves had gathered around the street drains.",
+        "树叶聚在街道排水口周围。"
+      ],
+      [
+        "The long rehearsal drains her energy.",
+        "长时间排练耗费她的精力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/drains#English",
+      "https://en.wiktionary.org/wiki/drain#English"
+    ]
+  },
+  {
+    "word": "roasted",
+    "ipa": "英 /ˈrəʊstɪd/；美 /ˈroʊstɪd/",
+    "meaning": "烤过的、烘焙的；被调侃、严厉批评了〔过去式、过去分词〕",
+    "sense": "食物经过干热烘烤，是 roasted。喜剧里拿一个人的特点集中开涮，也像把他放在热处烤，用 roasted 来形容。",
+    "split": "roast 经古法语 rostir 接日耳曼烘烤材料，进入中古英语 rosten；后有批评、调侃比喻。现代加完整 -ed，词尾 /t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "日耳曼烘烤词 → 法语 rostir → roast",
+        "用干热烤熟；后有调侃、批评义"
+      ],
+      [
+        "roast + -ed → roasted",
+        "已经烘烤；已经受到调侃"
+      ]
+    ],
+    "explanation": "roasted vegetables 烤蔬菜；roasted coffee beans 烘焙咖啡豆；roasted by friends 被朋友拿来开涮。",
+    "usage": "freshly roasted 刚烘焙的；roasted in the comedy show 在喜剧节目中被调侃。",
+    "contrast": "roasted 的调侃义常在幽默语境里，但是否友善仍看场面。食物义则不必限定某一种烤具。",
+    "examples": [
+      [
+        "The kitchen smelled of roasted vegetables.",
+        "厨房里飘着烤蔬菜的香味。"
+      ],
+      [
+        "In the comedy show, the host was roasted by old friends.",
+        "喜剧节目里，主持人被老朋友们拿来开涮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roasted#English",
+      "https://en.wiktionary.org/wiki/roast#English"
+    ]
+  },
+  {
+    "word": "weeds",
+    "ipa": "/wiːdz/",
+    "meaning": "杂草〔复数〕；除草、筛除〔第三人称单数〕",
+    "sense": "某种植物长在不想让它出现的地方，就可能被叫 weeds。动词 weeds 是把不需要的草拔掉，再扩展为筛掉不需要的条目。",
+    "split": "植物名 weed 接古英语 weod，除草动词也有古英语 weodian 对应。现代加 -s，/d/ 后读 /z/；衣着义的旧同形 weeds 另源，日常先记杂草支。",
+    "history": [
+      [
+        "古英语 weod、weodian → weed 名动词",
+        "草、不想要的植物；除草"
+      ],
+      [
+        "weed + -s → weeds",
+        "多株杂草；某人除草、筛除"
+      ]
+    ],
+    "explanation": "pull up weeds 拔草；weeds in the garden 园中杂草；weeds out errors 筛除错误。",
+    "usage": "remove the weeds 清除杂草；weeds between the stones 石缝里的杂草。",
+    "contrast": "weeds 不是植物学上固定一类植物的名称，常随种植者想保留什么来判断。weed out 则把除去不需要东西的关系用于抽象筛选。",
+    "examples": [
+      [
+        "Weeds grew between the stones on the path.",
+        "小路石缝间长出了杂草。"
+      ],
+      [
+        "The program weeds out duplicate entries.",
+        "程序会筛掉重复条目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weeds#English",
+      "https://en.wiktionary.org/wiki/weed#English"
+    ]
+  },
+  {
+    "word": "skirts",
+    "ipa": "英 /skɜːts/；美 /skɜːrts/",
+    "meaning": "裙子、下摆、边缘〔复数〕；沿边走、绕开〔第三人称单数〕",
+    "sense": "衣服往下垂、围在身体周围的部分，是 skirts 的衣物方向。到了地方边缘或话题边缘，动词又能说沿边走、避开中心。",
+    "split": "skirt 借古诺尔斯 skyrta，与继承古英语的 shirt 同出较早词族；英语下摆、裙义扩展为边缘、沿边、回避。现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "北欧 skyrta → skirt；与 shirt 不同借入路径",
+        "衣物 → 下摆、裙、边缘"
+      ],
+      [
+        "skirt + -s → skirts",
+        "多条裙子；某人或路线绕边、避开"
+      ]
+    ],
+    "explanation": "long skirts 长裙；skirts the village 绕村边走；skirts the question 绕开问题。",
+    "usage": "cotton skirts 棉裙；skirts around the issue 回避问题。",
+    "contrast": "skirts the question 不是用裙子遮住问题，是沿边走的比喻。服装名词和回避动词读音相同。",
+    "examples": [
+      [
+        "Colourful skirts hung beside the jackets.",
+        "彩色裙子挂在夹克旁边。"
+      ],
+      [
+        "His answer skirts the main question.",
+        "他的回答绕开了主要问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skirts#English",
+      "https://en.wiktionary.org/wiki/skirt#English"
+    ]
+  },
+  {
+    "word": "dusted",
+    "ipa": "/ˈdʌstɪd/",
+    "meaning": "除尘了；撒上薄粉了〔过去式、过去分词〕",
+    "sense": "把表面的灰抹掉，可以是 dusted；给蛋糕撒薄薄一层糖粉，也可以是 dusted。共同对象是表面细粉，方向要看句子。",
+    "split": "dust 接古英语 dūst 细尘材料；英语动词发展去除灰尘和撒上一层粉两个方向。现代加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "古英语 dūst → 英语 dust 名词、动词",
+        "细粉 → 去粉尘；加上一层细粉"
+      ],
+      [
+        "dust + -ed → dusted",
+        "已经除尘；已经撒薄粉"
+      ]
+    ],
+    "explanation": "dusted the shelves 给架子除尘；dusted with sugar 撒了糖粉；lightly dusted 薄薄撒粉的。",
+    "usage": "freshly dusted 刚擦过灰的；dusted off the book 拂去书上的灰。",
+    "contrast": "dusted 不固定只有去掉。with 后面出现 sugar、flour 等时，常在说撒上；dust off 还可比喻重新拿出久置的东西使用。",
+    "examples": [
+      [
+        "She dusted the shelves before arranging the books.",
+        "她摆书前擦掉了架子上的灰。"
+      ],
+      [
+        "He dusted the cake with icing sugar.",
+        "他给蛋糕撒了一层糖粉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dusted#English",
+      "https://en.wiktionary.org/wiki/dust#English"
+    ]
+  },
+  {
+    "word": "seams",
+    "ipa": "/siːmz/",
+    "meaning": "接缝、缝合处；矿层〔复数〕",
+    "sense": "两片材料缝到一起，会留下一条连接线，这些是 seams。地层里一条连续的矿物带，也像夹在材料间的一层，可叫 seam。",
+    "split": "seam 继承古英语 sēam，经中古英语 seme 等延续，核心是缝合的东西、连接处。现代加 -s，/m/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 sēam → 中古英语 seme → seam",
+        "缝合处 → 接缝；带状矿层"
+      ],
+      [
+        "seam + -s → seams",
+        "多处接缝、多条矿层"
+      ]
+    ],
+    "explanation": "the seams of a jacket 夹克接缝；coal seams 煤层；coming apart at the seams 接缝散开、濒临崩溃。",
+    "usage": "strong seams 牢固接缝；seams in the fabric 布料上的接缝。",
+    "contrast": "seams 与 seems 同音，但 seems 是 seem 似乎的三单。seams 先抓两片连接处，矿层义是形状上的扩展。",
+    "examples": [
+      [
+        "The jacket has strong, neat seams.",
+        "夹克的接缝牢固整齐。"
+      ],
+      [
+        "The diagram shows several coal seams underground.",
+        "示意图显示了地下几条煤层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seams#English",
+      "https://en.wiktionary.org/wiki/seam#English"
+    ]
+  },
+  {
+    "word": "rhythms",
+    "ipa": "/ˈrɪðəmz/",
+    "meaning": "节奏、节律、规律性模式〔复数〕",
+    "sense": "声音、动作或生活一拍一拍、有规律地重复，这些不同模式是 rhythms。音乐能有节奏，工作和生活也有自己的快慢循环。",
+    "split": "rhythm 接拉丁 rhythmus、希腊 rhythmos 有秩序的运动，常与 rhein 流动相连；英语拼写受恢复古典形式影响，与 rime 历史有交织。现代加 -s，/m/ 后读 /z/。",
+    "history": [
+      [
+        "希腊、拉丁节律材料 → 英语 rhythm",
+        "有安排的运动 → 节奏、规律"
+      ],
+      [
+        "rhythm + -s → rhythms",
+        "多种节奏、不同活动循环"
+      ]
+    ],
+    "explanation": "musical rhythms 音乐节奏；daily rhythms 日常生活节律；rhythms of speech 说话的节奏。",
+    "usage": "different rhythms 不同节奏；slow rhythms 缓慢节奏。",
+    "contrast": "rhythms 中 th 读 /ð/，全词通常两音节，末尾 s 不再添一节。rhythm 说节奏，rhyme 说押韵，现代用法要分开。",
+    "examples": [
+      [
+        "The drummer combined several simple rhythms.",
+        "鼓手把几种简单节奏组合起来。"
+      ],
+      [
+        "The novel captures the daily rhythms of village life.",
+        "小说捕捉了乡村生活的日常节律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rhythms#English",
+      "https://en.wiktionary.org/wiki/rhythm#English"
+    ]
+  },
+  {
+    "word": "stirred",
+    "ipa": "英 /stɜːd/；美 /stɜːrd/",
+    "meaning": "搅动了、移动了；激起了、打动了〔过去式、过去分词〕",
+    "sense": "让原本静着的东西动起来，是 stirred。勺子让汤动，人被一段话打动，或一个消息激起议论，都能从动起来理解。",
+    "split": "stir 继承古英语 styrian 移动、扰动材料，经中古英语延续。现代双写 r，再加完整 -ed，尾读 /d/，没有新添 /ɪd/ 一节。",
+    "history": [
+      [
+        "古英语 styrian → 中古英语 stiren 等 → stir",
+        "使动、扰动 → 搅拌、激起情绪"
+      ],
+      [
+        "stir 双写 r + -ed → stirred",
+        "已经搅动；已被激起、打动"
+      ]
+    ],
+    "explanation": "stirred the soup 搅了汤；stirred memories 唤起回忆；stirred by the music 被音乐打动。",
+    "usage": "stirred up debate 激起讨论；stirred gently 轻轻搅拌了。",
+    "contrast": "stirred 的人或情绪用法不要求身体真的移动。stirred up 常更强调把本来平静的事搅起、激活。",
+    "examples": [
+      [
+        "She stirred the soup with a wooden spoon.",
+        "她用木勺搅了搅汤。"
+      ],
+      [
+        "The song stirred memories of childhood.",
+        "歌曲唤起了童年的回忆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stirred#English",
+      "https://en.wiktionary.org/wiki/stir#English"
+    ]
+  },
+  {
+    "word": "docks",
+    "ipa": "英 /dɒks/；美 /dɑːks/",
+    "meaning": "码头、船坞、港区〔复数〕；停靠、对接、扣减〔第三人称单数〕",
+    "sense": "船靠到能停泊、装卸或修理的位置，是 docks 的港口画面；设备接上底座，也像停到合适位置。扣减义另有截短的来源。",
+    "split": "码头 dock 借荷兰语、低地德语 docke，较远未知，停泊发展对接。扣减支接旧截短材料；被告席、植物同形词也有不同来源。现代加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "荷兰、低地德语码头名 → dock → 对接动词",
+        "停泊、装卸处 → 接到相应位置"
+      ],
+      [
+        "dock + -s → docks；另支扣减义单独辨认",
+        "多处码头、船坞；某物对接或扣减"
+      ]
+    ],
+    "explanation": "the docks 港区、码头区；dry docks 干船坞；the ship docks 船停靠。",
+    "usage": "docks near the town 镇旁码头；docks with another craft 与另一飞行器等对接。",
+    "contrast": "docks the pay 说扣工资，不能从船靠码头推出来。常用同形词应按自己的来源、对象分开记。",
+    "examples": [
+      [
+        "Old warehouses stood beside the docks.",
+        "码头旁立着旧仓库。"
+      ],
+      [
+        "The ferry docks near the town centre.",
+        "渡船在镇中心附近停靠。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/docks#English",
+      "https://en.wiktionary.org/wiki/dock#English"
+    ]
+  },
+  {
+    "word": "ankles",
+    "ipa": "/ˈæŋkəlz/",
+    "meaning": "脚踝、踝关节周围部位〔复数〕",
+    "sense": "小腿到脚之间能弯动的连接部位，是 ankles。衣服长度到这里，可以说 ankle length 一类表达。",
+    "split": "ankle 接古英语 ancol 等，经中古英语 ankel、ancle 延续，属于古老关节、弯曲相关词族。现代整个 ankle 加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 ancol 等 → 中古英语 ankel、ancle → ankle",
+        "脚与小腿相接的关节部位"
+      ],
+      [
+        "ankle + -s → ankles",
+        "两只或多人的脚踝"
+      ]
+    ],
+    "explanation": "around the ankles 在脚踝周围；bare ankles 露出的脚踝；water up to the ankles 水没到脚踝。",
+    "usage": "boots covering the ankles 盖过脚踝的靴子；crossed ankles 交叠的脚踝。",
+    "contrast": "ankles 指部位整体，不能只按一块骨头理解。现代词不是 angle 角度直接加一个 le，历史相近概念不等于现代造词步骤。",
+    "examples": [
+      [
+        "The water reached our ankles.",
+        "水没到了我们的脚踝。"
+      ],
+      [
+        "Her boots cover her ankles.",
+        "她的靴子盖过脚踝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ankles#English",
+      "https://en.wiktionary.org/wiki/ankle#English"
+    ]
+  },
+  {
+    "word": "wrists",
+    "ipa": "/rɪsts/",
+    "meaning": "手腕、腕部〔复数〕",
+    "sense": "手掌和前臂之间能转动、弯动的连接部位，是 wrists。戴表、系腕带的位置，就在这里。",
+    "split": "wrist 继承古英语 wrist，联系日耳曼扭、转材料。现代加 -s，词首 w 不发音，词尾 /st/ 再接 /s/，读 /rɪsts/。",
+    "history": [
+      [
+        "古英语 wrist → 中古英语、现代 wrist",
+        "手与前臂的连接处；与转动词族相关"
+      ],
+      [
+        "wrist + -s → wrists",
+        "两只或多人的手腕"
+      ]
+    ],
+    "explanation": "around the wrists 绕在腕部；wrists and hands 手腕和双手；watch straps around wrists 腕上的表带。",
+    "usage": "bare wrists 没戴东西的手腕；wrists resting on the table 搁在桌上的手腕。",
+    "contrast": "wrists 的 w 和 write 的 w 一样不发音，但词尾 /sts/ 要连起来。它不是 wrists 后额外添一个元音音节。",
+    "examples": [
+      [
+        "The cuffs were loose around his wrists.",
+        "袖口在他的腕部有些宽松。"
+      ],
+      [
+        "She rested her wrists on the edge of the table.",
+        "她把手腕轻放在桌沿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrists#English",
+      "https://en.wiktionary.org/wiki/wrist#English"
+    ]
+  },
+  {
+    "word": "elbows",
+    "ipa": "英 /ˈelbəʊz/；美 /ˈelboʊz/",
+    "meaning": "肘、肘部；弯管接头〔复数〕；用肘挤〔第三人称单数〕",
+    "sense": "胳膊中间弯起来的地方，是 elbows。管道里弯折连接的部件也借这个形状叫 elbow；动词则是用肘挤开。",
+    "split": "elbow 接古英语 elboga、elnboga，前项是前臂旧词，后项 bow 弯曲。现代加 -s，双元音后读 /z/，名词复数与动词三单同形。",
+    "history": [
+      [
+        "古英语前臂 + 弯曲材料 → elbow",
+        "前臂弯曲处 → 肘"
+      ],
+      [
+        "elbow + -s → elbows；形状、动作扩展",
+        "多个肘、弯管；某人用肘挤"
+      ]
+    ],
+    "explanation": "rest on one’s elbows 用双肘支撑；pipe elbows 弯管接头；elbows through the crowd 用肘挤过人群。",
+    "usage": "elbows on the table 搁在桌上的肘；bent elbows 弯着的肘。",
+    "contrast": "elbows 不只说皮肤外表那一个尖点，而是肘部。弯管义看形状，用肘挤的动词看动作。",
+    "examples": [
+      [
+        "He rested his elbows on the table.",
+        "他把双肘搁在桌上。"
+      ],
+      [
+        "The model uses two plastic elbows to turn the pipe.",
+        "模型用两个塑料弯管接头改变管道方向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elbows#English",
+      "https://en.wiktionary.org/wiki/elbow#English"
+    ]
+  },
+  {
+    "word": "forks",
+    "ipa": "英 /fɔːks/；美 /fɔːrks/",
+    "meaning": "叉子、岔路、分岔处〔复数〕；分岔〔第三人称单数〕",
+    "sense": "一根主干往前分成几支，是 forks 的共同形状。餐叉有几个叉齿，道路和河流也能从一条分成两条。",
+    "split": "fork 接古英语 forca 等，较早拉丁 furca 叉形器具的日耳曼借词；餐叉义可能又受法语同源词影响。现代加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 furca → 早期日耳曼借词、古英语 → fork",
+        "叉形工具 → 餐叉；分岔形状"
+      ],
+      [
+        "fork + -s → forks",
+        "多个叉子、岔路；某道路分岔"
+      ]
+    ],
+    "explanation": "knives and forks 刀叉；forks in the road 道路分岔；the path forks 小路分岔。",
+    "usage": "wooden forks 木叉；forks into two branches 分成两支。",
+    "contrast": "forks 作动词不用真有餐叉，形状上从一条分出几支就够。与 forks in the road 的名词结构区分词性即可。",
+    "examples": [
+      [
+        "She placed the forks beside the plates.",
+        "她把叉子摆在盘子旁。"
+      ],
+      [
+        "The path forks just beyond the bridge.",
+        "小路在桥那边不远处分岔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forks#English",
+      "https://en.wiktionary.org/wiki/fork#English"
+    ]
+  },
+  {
+    "word": "spoons",
+    "ipa": "/spuːnz/",
+    "meaning": "勺子、调羹〔复数〕；用勺舀〔第三人称单数〕",
+    "sense": "能把少量食物或液体舀起来的器具，是 spoons。动词 spoons 则是照着这个器具做动作。",
+    "split": "spoon 接古英语 spon 木片、削片，经过中古英语发展为勺，北欧相应勺名也有联系；现代材料不限木头。加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 spon → 中古英语 spoon 等 → spoon",
+        "木片、削片 → 舀食物的勺"
+      ],
+      [
+        "spoon + -s → spoons",
+        "多个勺；某人用勺舀"
+      ]
+    ],
+    "explanation": "wooden spoons 木勺；soup spoons 汤匙；spoons the sauce 舀酱汁。",
+    "usage": "spoons in the drawer 抽屉里的勺子；spoons food into a bowl 把食物舀进碗里。",
+    "contrast": "spoons 数勺这个器具；spoonfuls 更明确数一勺一勺的量。两者可能在口语里接近，学习时先分清器具和容量。",
+    "examples": [
+      [
+        "The spoons are in the top drawer.",
+        "勺子在最上面的抽屉里。"
+      ],
+      [
+        "She spoons the sauce over the vegetables.",
+        "她把酱汁舀到蔬菜上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spoons#English",
+      "https://en.wiktionary.org/wiki/spoon#English"
+    ]
+  },
+  {
+    "word": "blankets",
+    "ipa": "/ˈblæŋkɪts/",
+    "meaning": "毯子；覆盖层〔复数〕；全面覆盖〔第三人称单数〕",
+    "sense": "把人或物一大片盖住的毯子，是 blankets。雪、雾等把一个地方全罩住，也像盖上毯子，动词可以用 blankets。",
+    "split": "blanket 经古北法语 blanket、blancet 等，历史关联 blanc 白和白色毛织物名称。英语毯子义发展全面覆盖的比喻；现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "法语白色毛织物名称 → blanket",
+        "布料 → 毯子、大片覆盖层"
+      ],
+      [
+        "blanket + -s → blankets",
+        "多条毯子；某物全面盖住"
+      ]
+    ],
+    "explanation": "warm blankets 保暖毯；blankets of snow 大片积雪；snow blankets the fields 雪覆盖田野。",
+    "usage": "fold the blankets 叠毯子；blankets the town 笼罩全镇。",
+    "contrast": "blankets 的现代毯子义不限白色。动词通常比 cover 更突出一大片、全面铺开的覆盖感。",
+    "examples": [
+      [
+        "Clean blankets were folded on the shelf.",
+        "干净毯子叠放在架子上。"
+      ],
+      [
+        "In the final scene, snow blankets the village.",
+        "最后一幕里，雪覆盖了整个村庄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blankets#English",
+      "https://en.wiktionary.org/wiki/blanket#English"
+    ]
+  },
+  {
+    "word": "curtains",
+    "ipa": "英 /ˈkɜːtənz/；美 /ˈkɜːrtənz/",
+    "meaning": "窗帘、帷幕〔复数〕；完了、失败了〔固定口语〕",
+    "sense": "一片片挂起来，拉开能露出后面、拉上能挡住，是 curtains。剧场幕布落下代表结束，口语里也会借它说某件事完了。",
+    "split": "curtain 经古法语 cortine 接晚期拉丁 cortina 帘，古典拉丁同词还有容器义，帘义转变有不同解释。现代名词加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "晚期拉丁 cortina → 古法语 cortine → curtain",
+        "帘；更早语义转变不宜硬编"
+      ],
+      [
+        "curtain + -s → curtains；舞台结束比喻",
+        "多片帘幕；it is curtains for… 就此完了"
+      ]
+    ],
+    "explanation": "draw the curtains 拉窗帘〔开合依语境〕；open the curtains 拉开窗帘；close the curtains 拉上窗帘。",
+    "usage": "stage curtains 舞台帷幕；curtains for someone 某人或某事完了〔口语〕。",
+    "contrast": "draw the curtains 本身可能拉开，也可能拉拢，想明确方向可用 open、close。it is curtains 是舞台结束的比喻，不是真在安装窗帘。",
+    "examples": [
+      [
+        "She opened the curtains to let in the morning light.",
+        "她拉开窗帘，让晨光照进来。"
+      ],
+      [
+        "The stage curtains rose slowly.",
+        "舞台帷幕缓缓升起。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curtains#English",
+      "https://en.wiktionary.org/wiki/curtain#English"
+    ]
+  }
+]

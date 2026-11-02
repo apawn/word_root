@@ -1,0 +1,139 @@
+[
+  {
+    "id": "B2769",
+    "meaning": "腿的支撑、细长形状与分段延伸",
+    "core": "LEG：身体的一条支撑，也能借给桌子和分段旅程",
+    "image": "leg → leggy、legless、legging；bootleg 从靴筒进入私酒、翻版；legroom、legwork 放在实用组合里理解。",
+    "intro": "同一个腿字可借形状、支撑作用和路程分段产生不同引申，不能一见 leg 就硬译成人的腿。",
+    "forms": "古诺斯 leggr 经中古英语 → leg；leg + -y/-less/-ing；boot + leg；leg + room/work。\n\nleg 经北欧语进入英语，身体的腿、家具支撑和旅程阶段是现代常见分支。\n\nleg + 名词构词 -ing → legging，双写 g；现代 leggings 常说紧身长裤，通常用复数，数一条用 a pair。不是腿这个名词直接变成动作进行时。",
+    "branches": [
+      [
+        "基础与腿部形容、衣物",
+        "leg · leggy · legless · legging"
+      ],
+      [
+        "空间、跑腿与靴筒分支",
+        "legroom · legwork · bootleg"
+      ],
+      [
+        "leg → legs：腿、支撑脚与行程段",
+        "leg · legs"
+      ],
+      [
+        "leg → legging → leggings：腿部覆盖物到紧身裤",
+        "leggings"
+      ]
+    ],
+    "contrasts": "leg/foot 腿脚不同；leggy 植物可细弱；leggings 服装常复数；bootleg 许可问题与现场录音不是一回事。",
+    "practice": "The final leg of the trip involved a lot of legwork.\n\n旅程最后一段需要做不少实地跑动的工作。",
+    "words": [
+      "leg",
+      "leggy",
+      "legless",
+      "legging",
+      "legroom",
+      "legwork",
+      "bootleg",
+      "legs",
+      "leggings"
+    ],
+    "exclude": {
+      "legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2650",
+    "meaning": "生育者到现代养育角色，再借作上一级关系",
+    "core": "PARENT：人物是父母，动作是养育，结构里是上一级",
+    "image": "parent → parenthood、parenting；grandparent 往上一代。",
+    "intro": "词源的生育画面帮助记忆，现代 parent 还包括实际养育关系；透明 transparent 不属于这个父母分支。",
+    "forms": "parere → parēns、parentem，经法语 → parent；parent + -hood；parent 作动词 + -ing；grand- + parent。\n\nparent 经法语接拉丁 parens／parentem 生育者；现代人物关系也包括养育、收养等，不能被字面生育义限制。\n\ngrand 在亲属称谓中标上一代，不是夸赞亲属伟大。\n\nparental 借拉丁 parentalis，接 parens、parent- 父母词族，远有生育、产生的材料。现代可按 parent + -al 形容词来对应学习，含父方母方。",
+    "branches": [
+      [
+        "角色、经历与日常养育",
+        "parent · parenthood · parenting"
+      ],
+      [
+        "上一代",
+        "grandparent"
+      ],
+      [
+        "parent → parents：父母、家长；养育",
+        "parent · parents"
+      ],
+      [
+        "grandparent → grandparents：亲属关系复数",
+        "grandparent · grandparents"
+      ],
+      [
+        "parent- 父母 + -al 对应 → parental",
+        "parental"
+      ]
+    ],
+    "contrasts": "parent 单数与 parents 复数；parenthood 身份经历与 parenting 过程；transparent 不按现代字母切进本族。",
+    "practice": "Parenting skills helped them adjust to parenthood.\n\n育儿技能帮助他们适应为人父母的生活。",
+    "words": [
+      "parent",
+      "parenthood",
+      "parenting",
+      "grandparent",
+      "parents",
+      "grandparents",
+      "parental"
+    ],
+    "exclude": {
+      "parent-to-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "parent-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-parent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "transparent": "透明一词接显现、看见的另一条词源，不是现代 parent 父母的派生。"
+    }
+  },
+  {
+    "id": "B3912",
+    "meaning": "空隙小、绷得紧，再说余地少",
+    "core": "TIGHT：实物不松，安排、资金也没多少松动空间",
+    "image": "tight → tightly、tightness、tighten；tights 是衣物，tightrope 是绷紧的绳，再分 airt​ight、watertight、skintight。",
+    "intro": "紧预算不等于有钱，紧比赛是双方差距小；tighten 的现代拆分清楚，更早动词背景另外交代。",
+    "forms": "密实词族 → 中古英语 tight；tight + -ly/-ness/-en；tight + -s/rope；air/water/skin + tight。\n\n现代对应 tight 加 en，更早有旧动词材料交织；s、ed、ing 形式分别说明。",
+    "branches": [
+      [
+        "基础状态、方式和变化",
+        "tight · tightly · tightness · tighten"
+      ],
+      [
+        "服装与绳索",
+        "tights · tightrope"
+      ],
+      [
+        "紧密的具体范围",
+        "airtight · watertight · skintight"
+      ],
+      [
+        "tighten 的三种形式：变紧、收紧的动作与过程",
+        "tight · tighten · tightens · tightened · tightening"
+      ]
+    ],
+    "contrasts": "tighten/loosen 收紧松开；tightness 状态非动作；tights 复数衣物；tightrope 比喻两难平衡。",
+    "practice": "Tighten the rope and check that the knot is tight.\n\n拉紧绳子，再检查绳结是否牢靠。",
+    "words": [
+      "tight",
+      "tightly",
+      "tightness",
+      "tighten",
+      "tights",
+      "tightrope",
+      "airtight",
+      "watertight",
+      "skintight",
+      "tightens",
+      "tightened",
+      "tightening"
+    ],
+    "exclude": {
+      "light-tight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tight-knit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tight-lipped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tight-fisted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

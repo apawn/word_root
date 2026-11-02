@@ -1,0 +1,772 @@
+[
+  {
+    "word": "toy",
+    "ipa": "/tɔɪ/",
+    "meaning": "玩具；小型的；随意摆弄、并不认真地考虑",
+    "sense": "孩子拿来玩的车，是 a toy；大人一直拨弄桌上的笔，是 toy with a pen。把一个念头拿在心里转两圈，也能说 toy with the idea。",
+    "split": "较早有小事、玩笑、玩乐等义，远源未定；后来从供娱乐的小玩意收窄到儿童玩具。动词承接随意玩弄，并非一切意义都从现代儿童玩具才开始。",
+    "history": [
+      [
+        "toy 较早有小事、玩笑、玩乐等材料",
+        "远源未定，可能涉及不止一个旧词"
+      ],
+      [
+        "供娱乐的小玩意 → 儿童玩具；动词随意玩弄",
+        "toy with an idea 是先在脑中试试，未必认真决定"
+      ]
+    ],
+    "explanation": "toy 作名词数玩具；toy car 是玩具车。toy with an idea 是考虑过、玩味一下，通常未认真承诺要做。",
+    "usage": "a toy car；toy with a pencil；toy with the idea of moving。",
+    "contrast": "toy with an idea 比 decide to do 更试探，想过换城市不等于已经决定搬家；toy dog 中 toy 又可说体型极小的犬类。",
+    "examples": [
+      [
+        "The child held a small wooden toy.",
+        "孩子手里拿着一件小木玩具。"
+      ],
+      [
+        "I sometimes toy with the idea of opening a bookshop.",
+        "我有时会想想开家书店这件事，但还没认真决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toy#English",
+      "https://www.etymonline.com/word/toy"
+    ]
+  },
+  {
+    "word": "toys",
+    "ipa": "/tɔɪz/",
+    "meaning": "玩具〔复数〕；随意摆弄、试着考虑〔第三人称单数〕",
+    "sense": "地板上散着好几件玩具，是 toys；他边想边拨弄拉链，可以说 toys with the zip。",
+    "split": "toy 的 y 前是元音 o，直接加 -s → toys，读 /z/；名词复数、动词三单同形。",
+    "history": [
+      [
+        "toy 较早有小事、玩笑、玩乐等材料",
+        "远源未定，可能涉及不止一个旧词"
+      ],
+      [
+        "供娱乐的小玩意 → 儿童玩具；动词随意玩弄",
+        "toy with an idea 是先在脑中试试，未必认真决定"
+      ],
+      [
+        "toy + -s → toys",
+        "多件玩具；或他、她随意玩弄"
+      ]
+    ],
+    "explanation": "children’s toys 数玩具；someone toys with an idea 说一个人随便琢磨某个念头。",
+    "usage": "put away the toys；wooden toys；toys with his pen。",
+    "contrast": "toys 不是因为 y 就改成 toies；元音字母加 y 的基础词一般保留 y，如 boy → boys。",
+    "examples": [
+      [
+        "Please put the toys back in the box.",
+        "请把玩具放回箱子里。"
+      ],
+      [
+        "He toys with his pen while thinking.",
+        "他思考时会随手拨弄钢笔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toys#English",
+      "https://www.etymonline.com/word/toy"
+    ]
+  },
+  {
+    "word": "toyed",
+    "ipa": "/tɔɪd/",
+    "meaning": "摆弄过；曾试着考虑；玩弄了",
+    "sense": "一度想过换工作，后来没真正去做，可以说 toyed with the idea。它写念头曾拿出来玩味，不保证行动。",
+    "split": "toy 保留 y，加完整 -ed → toyed；词尾读 /d/，不加音节。",
+    "history": [
+      [
+        "toy 较早有小事、玩笑、玩乐等材料",
+        "远源未定，可能涉及不止一个旧词"
+      ],
+      [
+        "供娱乐的小玩意 → 儿童玩具；动词随意玩弄",
+        "toy with an idea 是先在脑中试试，未必认真决定"
+      ],
+      [
+        "toy + -ed → toyed",
+        "过去随意摆弄或试着考虑"
+      ]
+    ],
+    "explanation": "toyed with a bracelet 是无意识摆弄手链；toyed with someone’s feelings 则是玩弄感情，带批评。",
+    "usage": "toyed with the idea；toyed with a ring；toyed with his feelings。",
+    "contrast": "toyed with 不等于认真尝试并实施；tried 描述实际试做时，承诺程度、动作都可能更具体。",
+    "examples": [
+      [
+        "She toyed with the idea of studying abroad.",
+        "她曾想过出国读书，但没真正定下来。"
+      ],
+      [
+        "He toyed with the loose thread on his sleeve.",
+        "他随手拨弄袖口那根松线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toyed#English",
+      "https://www.etymonline.com/word/toy"
+    ]
+  },
+  {
+    "word": "toying",
+    "ipa": "/ˈtɔɪɪŋ/",
+    "meaning": "正在随意摆弄、试着考虑、玩弄",
+    "sense": "手上摆弄小东西，或脑中把某种可能翻来覆去地想，还没有当成正式计划，是 toying with。",
+    "split": "toy + -ing，保留 y；/ɔɪ/ 接 /ɪŋ/，不能照辅音加 y 的过去式规则改字母。",
+    "history": [
+      [
+        "toy 较早有小事、玩笑、玩乐等材料",
+        "远源未定，可能涉及不止一个旧词"
+      ],
+      [
+        "供娱乐的小玩意 → 儿童玩具；动词随意玩弄",
+        "toy with an idea 是先在脑中试试，未必认真决定"
+      ],
+      [
+        "toy + -ing → toying",
+        "随意摆弄、试探考虑的过程"
+      ]
+    ],
+    "explanation": "toying with the idea of doing something 很适合说尚未成熟的计划；用于人的感情时，则常是批评不认真。",
+    "usage": "toying with a necklace；toying with the idea of leaving。",
+    "contrast": "toying with a plan 常保留轻松、试探，working on a plan 已经进入具体推进；不要把只是想想翻成正在执行。",
+    "examples": [
+      [
+        "We are toying with the idea of taking a long train trip.",
+        "我们正在琢磨要不要坐火车来一次长途旅行。"
+      ],
+      [
+        "She was toying with her necklace during the meeting.",
+        "开会时，她一直无意识地摆弄项链。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toying#English",
+      "https://www.etymonline.com/word/toy"
+    ]
+  },
+  {
+    "word": "spare",
+    "ipa": "英 /speə/；美 /sper/",
+    "meaning": "备用的、空闲的；匀出；使免受、饶过；备用件",
+    "sense": "先留下一点，别把所有东西都用光：留下的钥匙是 spare key，能匀出的五分钟是 spare five minutes。让人少受一番折腾，也能用 spare。",
+    "split": "承古英语 sparian 不伤害、放过、节省使用等材料。备用、匀出自己的资源等意义逐步发展，形容词再有备用件名词；不是从现代 save 换字母。",
+    "history": [
+      [
+        "古英语 sparian：不伤害、节省使用",
+        "同族旧形容词有节俭、少用的意思"
+      ],
+      [
+        "不动用尽 → 留作备用；可以匀出；让人免受",
+        "这是帮助理解的关系网，不把每个现代义当成同时诞生"
+      ]
+    ],
+    "explanation": "spare me the details 是细节就免了；spare no effort 是一点力都不省，尽全力。spare time 是空闲时间，spare tyre 是备用轮胎。",
+    "usage": "a spare key；spare a minute；spare someone the trouble；spare no expense。",
+    "contrast": "spare 是有余可匀出或留作备用，free 强调未占用、无收费等；spare a seat 可说腾出座位，a free seat 只说座位没人占。",
+    "examples": [
+      [
+        "Do you have a spare key?",
+        "你有备用钥匙吗？"
+      ],
+      [
+        "Can you spare a few minutes to help me?",
+        "你能匀出几分钟帮我吗？"
+      ],
+      [
+        "The shortcut will spare us a long walk.",
+        "走这条近路可以让我们少走很长一段路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spare#English",
+      "https://www.etymonline.com/word/spare"
+    ]
+  },
+  {
+    "word": "spares",
+    "ipa": "英 /speəz/；美 /sperz/",
+    "meaning": "备用件、备件；匀出、使免受〔第三人称单数〕",
+    "sense": "机器坏了能换上的备用零件，是 spares；一个小功能让你免掉重复输入，也可说 it spares you the work。",
+    "split": "spare + -s，读 /z/，不增加音节；作名词数备用件，作动词是第三人称单数。",
+    "history": [
+      [
+        "古英语 sparian：不伤害、节省使用",
+        "同族旧形容词有节俭、少用的意思"
+      ],
+      [
+        "不动用尽 → 留作备用；可以匀出；让人免受",
+        "这是帮助理解的关系网，不把每个现代义当成同时诞生"
+      ],
+      [
+        "spare + -s → spares",
+        "备用物品复数；或它让人省去、免受"
+      ]
+    ],
+    "explanation": "keep spares 留备件；spares you the trouble 表让你不必费这番工夫。",
+    "usage": "a box of spares；spares for the machine；spares us the journey。",
+    "contrast": "spares 是可以备用的东西，savings 常是省下的钱、节省额；不把两种复数都译成储备后混用。",
+    "examples": [
+      [
+        "The repair shop keeps a box of spares.",
+        "修理店备着一箱备用零件。"
+      ],
+      [
+        "The automatic backup spares us the trouble of copying every file.",
+        "自动备份让我们免去了逐个复制文件的麻烦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spares#English",
+      "https://www.etymonline.com/word/spare"
+    ]
+  },
+  {
+    "word": "spared",
+    "ipa": "英 /speəd/；美 /sperd/",
+    "meaning": "匀出了；饶过了；免受了、被保全了",
+    "sense": "暴风雨经过，唯独这座村庄没受破坏，可以说 was spared。像灾害把它留了下来，没下那一手。",
+    "split": "spare 去末尾 e，加完整 -ed → spared，读 /d/；过去式、过去分词。",
+    "history": [
+      [
+        "古英语 sparian：不伤害、节省使用",
+        "同族旧形容词有节俭、少用的意思"
+      ],
+      [
+        "不动用尽 → 留作备用；可以匀出；让人免受",
+        "这是帮助理解的关系网，不把每个现代义当成同时诞生"
+      ],
+      [
+        "spare 去 e + -ed → spared",
+        "曾匀出、放过；或被保全、免受"
+      ]
+    ],
+    "explanation": "was spared the worst 是躲过了最糟情况；spared no effort 是已经尽了全力，不能按没有努力翻译。",
+    "usage": "spared his life；spared us the trouble；spared no effort。",
+    "contrast": "spared 写免受或放过，saved 常强调主动救出、保存；免于灾害未必是有人实施营救。",
+    "examples": [
+      [
+        "The village was spared the worst of the storm.",
+        "村庄躲过了风暴最严重的破坏。"
+      ],
+      [
+        "She spared no effort in preparing the exhibition.",
+        "她筹备展览时不遗余力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spared#English",
+      "https://www.etymonline.com/word/spare"
+    ]
+  },
+  {
+    "word": "sparing",
+    "ipa": "英 /ˈspeərɪŋ/；美 /ˈsperɪŋ/",
+    "meaning": "节省的、少量使用的；正在匀出、使免受",
+    "sense": "盐只放一点，夸奖也不轻易给，这种用得克制、舍不得多给的态度，是 sparing。它不只是正在留备用品。",
+    "split": "spare 去末尾 e 加完整 -ing → sparing；由动词过程形式也形成节省、克制使用的形容词。",
+    "history": [
+      [
+        "古英语 sparian：不伤害、节省使用",
+        "同族旧形容词有节俭、少用的意思"
+      ],
+      [
+        "不动用尽 → 留作备用；可以匀出；让人免受",
+        "这是帮助理解的关系网，不把每个现代义当成同时诞生"
+      ],
+      [
+        "spare 去 e + -ing → sparing",
+        "动作过程；或习惯少用、少给的性质"
+      ]
+    ],
+    "explanation": "be sparing with something 指少用、少给；be sparing in praise 是不轻易夸人。",
+    "usage": "sparing with salt；sparing in her praise；sparing us the trouble。",
+    "contrast": "sparing 可中性说节制，stingy 更常批评吝啬；少放盐与舍不得给别人钱，不是同一种评价。",
+    "examples": [
+      [
+        "Be sparing with the salt; you can add more later.",
+        "盐先少放一点，后面还能再加。"
+      ],
+      [
+        "The reviewer was sparing in her praise.",
+        "那位评论者给的赞扬很克制。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparing#English",
+      "https://www.etymonline.com/word/spare"
+    ]
+  },
+  {
+    "word": "sparingly",
+    "ipa": "英 /ˈspeərɪŋli/；美 /ˈsperɪŋli/",
+    "meaning": "少量地；节制地；不常、不多地",
+    "sense": "不是把一瓶全倒进去，而是点到为止。给颜色、调味、特殊效果留一点空间，就是 use sparingly。",
+    "split": "sparing + -ly，形容词转副词；完整基底是 sparing，不是 spare 直接加 -ly。",
+    "history": [
+      [
+        "古英语 sparian：不伤害、节省使用",
+        "同族旧形容词有节俭、少用的意思"
+      ],
+      [
+        "不动用尽 → 留作备用；可以匀出；让人免受",
+        "这是帮助理解的关系网，不把每个现代义当成同时诞生"
+      ],
+      [
+        "sparing + -ly → sparingly",
+        "用得少、给得克制的方式"
+      ]
+    ],
+    "explanation": "use sparingly 常出现在食谱、写作与设计说明，意为别堆太多；不一定是因为材料昂贵。",
+    "usage": "add sparingly；use bright colours sparingly；apply sparingly。",
+    "contrast": "sparingly 强调数量少、用得克制，rarely 强调发生频率低；偶尔一次倒一大瓶，可以 rarely，却不算 sparingly。",
+    "examples": [
+      [
+        "Add the sauce sparingly at first.",
+        "一开始酱汁少加一点。"
+      ],
+      [
+        "The designer used bright colours sparingly.",
+        "设计师只少量使用了鲜艳颜色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sparingly#English",
+      "https://www.etymonline.com/word/spare"
+    ]
+  },
+  {
+    "word": "bin",
+    "ipa": "/bɪn/",
+    "meaning": "储物箱、容器；垃圾桶；把……丢掉〔尤英式〕",
+    "sense": "一个专门装某类东西的容器，是 bin：可以装粮食、玩具，也可以装垃圾。英式口语 bin it 常是把它扔掉。",
+    "split": "承古英语 binne 篮、槽等材料，远源未定，可能接凯尔特容器词。垃圾桶是储物容器的一支，现代又由名词形成放进桶、丢弃的动词。",
+    "history": [
+      [
+        "古英语 binne：篮、饲槽等容器",
+        "远源未定，有凯尔特材料分析"
+      ],
+      [
+        "存储容器 → 包括垃圾桶；动词放入或丢掉",
+        "英式口语 bin it 常是把它扔了"
+      ]
+    ],
+    "explanation": "storage bin 是收纳箱，rubbish bin 是垃圾桶；美式 garbage can、trash can 常对应垃圾桶这一支。",
+    "usage": "a recycling bin；a storage bin；put it in the bin；bin the draft。",
+    "contrast": "bin 不自动表示垃圾：grain bin 装粮食，storage bin 装杂物；看里面放什么，再决定中文用箱、仓还是桶。",
+    "examples": [
+      [
+        "Put the empty bottle in the recycling bin.",
+        "把空瓶放进回收桶。"
+      ],
+      [
+        "We decided to bin the first draft and start again.",
+        "我们决定丢掉初稿，重新开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bin#English",
+      "https://www.etymonline.com/word/bin"
+    ]
+  },
+  {
+    "word": "bins",
+    "ipa": "/bɪnz/",
+    "meaning": "储物箱、垃圾桶等〔复数〕；丢弃〔第三人称单数〕",
+    "sense": "不同颜色的分类垃圾桶是 bins；仓库里装零件的收纳箱，也可以是 bins，词本身没有限定脏不脏。",
+    "split": "bin + -s，/n/ 后读 /z/；容器复数与动词第三人称单数同形。",
+    "history": [
+      [
+        "古英语 binne：篮、饲槽等容器",
+        "远源未定，有凯尔特材料分析"
+      ],
+      [
+        "存储容器 → 包括垃圾桶；动词放入或丢掉",
+        "英式口语 bin it 常是把它扔了"
+      ],
+      [
+        "bin + -s → bins",
+        "多个容器；或他、她把东西丢掉"
+      ]
+    ],
+    "explanation": "recycling bins 指分类回收容器；empty the bins 是清空垃圾桶，不是把桶本身一起扔掉。",
+    "usage": "storage bins；colour-coded bins；empty the bins。",
+    "contrast": "bins 数桶、箱，rubbish 通常不可数；three bins of rubbish 是三桶垃圾，不是三个垃圾。",
+    "examples": [
+      [
+        "The toys are sorted into labelled bins.",
+        "玩具分门别类放进了贴好标签的收纳箱。"
+      ],
+      [
+        "Please empty the bins before you leave.",
+        "离开前请把垃圾桶清空。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bins#English",
+      "https://www.etymonline.com/word/bin"
+    ]
+  },
+  {
+    "word": "binned",
+    "ipa": "/bɪnd/",
+    "meaning": "丢掉了、废弃了〔尤英式〕；放进容器了",
+    "sense": "写好的方案决定不用，像把它扔进废纸桶，就是 binned。也可是真把一件东西放进桶中丢掉。",
+    "split": "bin 双写 n 加完整 -ed → binned，词尾读 /d/；过去式、过去分词。",
+    "history": [
+      [
+        "古英语 binne：篮、饲槽等容器",
+        "远源未定，有凯尔特材料分析"
+      ],
+      [
+        "存储容器 → 包括垃圾桶；动词放入或丢掉",
+        "英式口语 bin it 常是把它扔了"
+      ],
+      [
+        "bin → binned",
+        "双写 n 加 -ed，过去装入或丢掉"
+      ]
+    ],
+    "explanation": "binned the idea 可说放弃某个想法；食品、包装场景常是实际丢弃，要看宾语。",
+    "usage": "binned the proposal；binned the packaging；was binned。",
+    "contrast": "binned 常有干脆不要的口语语气，stored 是存起来；同样是放入容器，动词的实际意图不同。",
+    "examples": [
+      [
+        "She binned the torn envelope.",
+        "她把撕坏的信封扔掉了。"
+      ],
+      [
+        "The committee binned the original proposal.",
+        "委员会把原来的提案直接弃用了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/binned#English",
+      "https://www.etymonline.com/word/bin"
+    ]
+  },
+  {
+    "word": "binning",
+    "ipa": "/ˈbɪnɪŋ/",
+    "meaning": "正在丢弃、废弃；装入容器；分箱〔按语境〕",
+    "sense": "把旧东西一件件扔掉，是 binning；数据工作里把数值分进一个个区间，也会借“放进不同箱子”的画面叫 binning。",
+    "split": "bin 双写 n 加 -ing → binning。丢弃接垃圾桶这支；数据分箱接一般容器、分组这支，不是把数据当垃圾。",
+    "history": [
+      [
+        "古英语 binne：篮、饲槽等容器",
+        "远源未定，有凯尔特材料分析"
+      ],
+      [
+        "存储容器 → 包括垃圾桶；动词放入或丢掉",
+        "英式口语 bin it 常是把它扔了"
+      ],
+      [
+        "bin → binning",
+        "双写 n 加 -ing，装箱、丢弃或按箱分组的过程"
+      ]
+    ],
+    "explanation": "日常英语优先掌握 binning old papers；遇到图表、统计语境，再按区间分组理解 data binning。",
+    "usage": "binning old receipts；binning the data into ranges。",
+    "contrast": "binning 可能是分组保留，也可能是丢弃；统计语境不能见 bin 就译成删除数据。",
+    "examples": [
+      [
+        "He was binning old receipts when I arrived.",
+        "我到的时候，他正在扔旧收据。"
+      ],
+      [
+        "Binning the ages into ranges made the chart easier to read.",
+        "把年龄分成区间后，图表更容易读了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/binning#English",
+      "https://www.etymonline.com/word/bin"
+    ]
+  },
+  {
+    "word": "robin",
+    "ipa": "英 /ˈrɒbɪn/；美 /ˈrɑbɪn/",
+    "meaning": "知更鸟〔欧洲〕；旅鸫〔北美〕",
+    "sense": "看英国家庭花园的 robin，常是胸前橙红的小知更鸟；北美文章里的 robin 常是另一种较大的旅鸫。名字一样，不代表物种一样。",
+    "split": "缩自 Robin Redbreast，把人名 Robin 加在红胸鸟的称呼上；Robin 经法语是 Robert 的小称。后来北美把同一鸟名借给胸前也偏红的另一种鸟。",
+    "history": [
+      [
+        "人名 Robin → Robin Redbreast 对小鸟的称呼",
+        "Robin 本身经法语是 Robert 的小称"
+      ],
+      [
+        "简称 robin；在北美又用于红胸的另一种鸟",
+        "欧洲 robin 与美洲 robin 指不同物种"
+      ]
+    ],
+    "explanation": "欧洲、北美的自然描写要分别读图景；robin’s-egg blue 常指北美旅鸫蛋的蓝绿色，不是所有 robin 的蛋都同色。",
+    "usage": "a robin in the garden；an American robin；a European robin。",
+    "contrast": "robin 是整体鸟名；人名 Robin 的 -in 有历史小称关系，不能因此把鸟名中的字母拆成独立英语单词。",
+    "examples": [
+      [
+        "A robin landed on the garden fence.",
+        "一只知更鸟落在花园篱笆上。"
+      ],
+      [
+        "The American robin is different from the European robin.",
+        "美洲旅鸫与欧洲知更鸟不是同一种鸟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/robin#English",
+      "https://www.etymonline.com/word/robin"
+    ]
+  },
+  {
+    "word": "robins",
+    "ipa": "英 /ˈrɒbɪnz/；美 /ˈrɑbɪnz/",
+    "meaning": "知更鸟、旅鸫〔复数，依地区而定〕",
+    "sense": "草地、花园里的几只 robins，要先判断故事发生在哪儿：欧洲通常是知更鸟，北美通常是旅鸫。",
+    "split": "robin + -s，/n/ 后读 /z/；复数不改变人名借给鸟、再跨地区借用鸟名的来历。",
+    "history": [
+      [
+        "人名 Robin → Robin Redbreast 对小鸟的称呼",
+        "Robin 本身经法语是 Robert 的小称"
+      ],
+      [
+        "简称 robin；在北美又用于红胸的另一种鸟",
+        "欧洲 robin 与美洲 robin 指不同物种"
+      ],
+      [
+        "robin + -s → robins",
+        "多只由当地用法称作 robin 的鸟"
+      ]
+    ],
+    "explanation": "European robins 和 American robins 加地区限定，能避免把同名不同种混为一谈。",
+    "usage": "robins in the garden；American robins；a pair of robins。",
+    "contrast": "robins 的复数只增加数量，不会消除地区义差别；阅读自然题材时地点比词尾更能帮助认物种。",
+    "examples": [
+      [
+        "Two robins were searching the lawn for food.",
+        "两只知更鸟正在草坪上觅食。"
+      ],
+      [
+        "American robins often feed on lawns.",
+        "美洲旅鸫常在草坪上觅食。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/robins#English",
+      "https://www.etymonline.com/word/robin"
+    ]
+  },
+  {
+    "word": "ads",
+    "ipa": "/ædz/",
+    "meaning": "广告〔ad 的复数〕",
+    "sense": "视频前插一条、网页边再来几条，这些一则则广告就是 ads。advertising 常说广告活动或行业，ads 则能直接数具体广告。",
+    "split": "advertisement 截短为 ad，再加 -s → ads，词尾读 /z/；完整原词经法语接把注意力转向某物的材料。",
+    "history": [
+      [
+        "法语 avertissement 等通知、引人注意材料 → advertisement",
+        "现代常用作商业广告名词"
+      ],
+      [
+        "advertisement → ad → ads",
+        "截短，再按普通名词加复数"
+      ]
+    ],
+    "explanation": "online ads、video ads、job ads 都在说具体发布的广告、招聘启事等；不是每一则都必然在卖商品。",
+    "usage": "run ads；job ads；skip the ads；classified ads。",
+    "contrast": "ads 与 adds 同音，前者广告，后者 add 的三单“添加”；This app adds ads 是这个应用会加入广告。",
+    "examples": [
+      [
+        "The free version shows ads between videos.",
+        "免费版会在视频之间显示广告。"
+      ],
+      [
+        "She found the job through online ads.",
+        "她通过网上招聘广告找到了那份工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ads#English",
+      "https://www.etymonline.com/word/ad"
+    ]
+  },
+  {
+    "word": "pro",
+    "ipa": "英 /prəʊ/；美 /proʊ/",
+    "meaning": "职业人士、行家；职业的；赞成理由、优点",
+    "sense": "看一个人做得熟练，像靠这门手艺吃饭，可以说 a pro。列 pros and cons 时，pro 却是支持这一方案的理由，来自另一支。",
+    "split": "职业人士、职业的截短自 professional；赞成理由接拉丁 pro 为、支持，常在 pro and contra 的对照中使用。两种独立来路不能合成一个截短过程。",
+    "history": [
+      [
+        "professional 截短 → pro 职业人士、行家",
+        "可再作职业的、专业的修饰语"
+      ],
+      [
+        "另一支直接接拉丁 pro 为、赞成",
+        "pros and cons 是赞成与反对的理由"
+      ]
+    ],
+    "explanation": "go pro 是转为职业选手；like a pro 是像行家一样。a pro of the plan 则是方案的一项优点、赞成理由。",
+    "usage": "a tennis pro；go pro；like a pro；the pros and cons。",
+    "contrast": "pro 与 amateur 对照时谈职业、业余身份；pros 与 cons 对照时谈利弊。业余的人也可能技术很高。",
+    "examples": [
+      [
+        "She handled the interview like a pro.",
+        "她像个行家一样从容应对了采访。"
+      ],
+      [
+        "Before deciding, we listed every pro and con.",
+        "决定之前，我们列出了每项赞成和反对的理由。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pro#English",
+      "https://www.etymonline.com/word/pro"
+    ]
+  },
+  {
+    "word": "pros",
+    "ipa": "英 /prəʊz/；美 /proʊz/",
+    "meaning": "职业人士、行家〔复数〕；赞成理由、优点〔复数〕",
+    "sense": "一群职业球手是 pros；纸上写出的几项好处，也是 pros。后面是否跟 cons，通常一下就能认出正在说哪一支。",
+    "split": "pro + -s，读 /z/；professional 的简称和拉丁赞成义名词分别用同样的普通复数。",
+    "history": [
+      [
+        "professional 截短 → pro 职业人士、行家",
+        "可再作职业的、专业的修饰语"
+      ],
+      [
+        "另一支直接接拉丁 pro 为、赞成",
+        "pros and cons 是赞成与反对的理由"
+      ],
+      [
+        "pro + -s → pros",
+        "多个行家；或多项支持理由"
+      ]
+    ],
+    "explanation": "the pros and cons of doing something 是做某事的利弊；leave it to the pros 是交给专业人士。",
+    "usage": "weigh the pros and cons；experienced pros；leave it to the pros。",
+    "contrast": "pros and cons 不是专业人士和骗子的固定组合；con 在这里接 contra 反对，和 trick、诈骗那条另源用法分开。",
+    "examples": [
+      [
+        "We discussed the pros and cons of moving closer to work.",
+        "我们讨论了搬到单位附近住的利弊。"
+      ],
+      [
+        "Even the pros make mistakes sometimes.",
+        "即使是行家，有时也会出错。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pros#English",
+      "https://www.etymonline.com/word/pro"
+    ]
+  },
+  {
+    "word": "mama",
+    "ipa": "英 /məˈmɑː/ 等；美 /ˈmɑmə/ 等",
+    "meaning": "妈妈〔孩子、家庭里的亲昵称呼〕",
+    "sense": "小孩朝妈妈伸手，嘴里重复容易发的 ma 音，就是 mama 很自然的画面。英语里也有这种称呼，不过每个家庭的习惯不同。",
+    "split": "mama 是 mamma 的拼写变体；一般联系儿语重复 ma 的声音，也可能受相关语言称呼影响。多种语言有相似发声，不等于每一种都从现代英语借入。",
+    "history": [
+      [
+        "ma 一类儿语发声，重复成 mamma 等称呼",
+        "更远形成细节有分析，不必硬拆拉丁前后缀"
+      ],
+      [
+        "英语 mamma、mama",
+        "家庭中对妈妈的亲昵称呼"
+      ]
+    ],
+    "explanation": "直接叫自己的妈妈时可写 Mama；叙述 my mama 时常小写。不同地区也常用 Mum、Mom、Mummy、Mommy 等。",
+    "usage": "my mama；call for mama；Mama, look at this。",
+    "contrast": "mama 语气亲密、家庭化，mother 更中性、正式；正式登记表上的 mother 不一定适合换成 mama。",
+    "examples": [
+      [
+        "The baby reached for her mama.",
+        "宝宝伸手要妈妈抱。"
+      ],
+      [
+        "Mama, can you read me a story?",
+        "妈妈，你能给我读个故事吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mama#English",
+      "https://www.etymonline.com/word/mama"
+    ]
+  },
+  {
+    "word": "earl",
+    "ipa": "英 /ɜːl/；美 /ɝl/",
+    "meaning": "伯爵〔英国贵族头衔〕",
+    "sense": "历史小说里 a duke、an earl 是不同贵族头衔；earl 通常译伯爵。它先是旧英语里的勇士、首领称呼，后来固定成贵族爵位。",
+    "split": "承古英语 eorl 勇士、首领、贵族，接日耳曼 *erlaz，与古诺尔斯 jarl 同源，远源未定。后来作为英国头衔，对应欧洲其他地区的 count。",
+    "history": [
+      [
+        "古英语 eorl：勇士、首领，后来贵族",
+        "接日耳曼 *erlaz，与古诺尔斯 jarl 同源"
+      ],
+      [
+        "历史职位、身份 → 英国伯爵头衔",
+        "对应其他地区的 count，但两个词近源不同"
+      ]
+    ],
+    "explanation": "an earl 用不定冠词 an；the Earl of 某地是具体头衔格式。Earl Grey tea 的名字也接格雷伯爵，具体命名传说不必当成确定配方史。",
+    "usage": "an English earl；the Earl of 某地；Earl Grey tea。",
+    "contrast": "earl 与 count 可对应伯爵头衔，但来源不同；count 的数数动词又是另一支，不从贵族人数来编词源。",
+    "examples": [
+      [
+        "The novel follows the life of an English earl.",
+        "小说讲述了一位英国伯爵的一生。"
+      ],
+      [
+        "The earl invited the guests to the old hall.",
+        "伯爵邀请宾客到那座古老大厅里去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/earl#English",
+      "https://www.etymonline.com/word/earl"
+    ]
+  },
+  {
+    "word": "earls",
+    "ipa": "英 /ɜːlz/；美 /ɝlz/",
+    "meaning": "伯爵〔复数〕",
+    "sense": "一份家族史中出现几位伯爵，就是 earls。它数持有某种爵位的人，不是数一类普通官职。",
+    "split": "earl + -s，/l/ 后读 /z/；本族旧词照普通英语规则成复数，不套用拉丁变格。",
+    "history": [
+      [
+        "古英语 eorl：勇士、首领，后来贵族",
+        "接日耳曼 *erlaz，与古诺尔斯 jarl 同源"
+      ],
+      [
+        "历史职位、身份 → 英国伯爵头衔",
+        "对应其他地区的 count，但两个词近源不同"
+      ],
+      [
+        "earl + -s → earls",
+        "多位持有伯爵头衔的人"
+      ]
+    ],
+    "explanation": "successive earls 常是同一家族先后继承头衔的人，不表示这些人都同时在世。",
+    "usage": "the earls of 某地；successive earls；portraits of earls。",
+    "contrast": "earls 是人，earldoms 是伯爵爵位或相关领地；多个爵位与多个人不能只按一个中文伯爵互换。",
+    "examples": [
+      [
+        "The gallery displays portraits of several earls.",
+        "画廊陈列着几位伯爵的肖像。"
+      ],
+      [
+        "The book describes the lives of successive earls in the family.",
+        "书中描述了那个家族历任伯爵的生平。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/earls#English",
+      "https://www.etymonline.com/word/earl"
+    ]
+  }
+]

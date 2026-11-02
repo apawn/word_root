@@ -1,0 +1,84 @@
+[
+  {
+    "id": "B4321",
+    "meaning": "讲理、公道与程度适中",
+    "core": "REASONABLE：理由和要求摆在一起，觉得过得去",
+    "image": "reasonable → reasonably、reasonableness；unreasonable 加否定。",
+    "intro": "价格公道不一定最便宜，还算好不一定顶级。合理性要结合条件，不是只要能说出一个理由就算合理。",
+    "forms": "ratiōnābilis 经法语、中古英语 → reasonable；-ble → -bly；reasonable + -ness；un- + reasonable。",
+    "branches": [
+      [
+        "性质、方式与抽象评价",
+        "reasonable · reasonably · reasonableness"
+      ],
+      [
+        "否定合理",
+        "unreasonable"
+      ]
+    ],
+    "contrasts": "reasonably good 语气可能有所保留；reasonable/cheap 公道与便宜；unreasonable 不自动违法；reason/reasonableness 理由与合理性。",
+    "practice": "A reasonable request should be discussed reasonably.\n\n合理的请求应当得到讲道理的讨论。",
+    "words": [
+      "reasonable",
+      "reasonably",
+      "reasonableness",
+      "unreasonable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3563",
+    "meaning": "付费暂用与出租；裂口另源",
+    "core": "RENT：给钱换一段时间的使用权，双方方向要说清",
+    "image": "rent → rental、renter；renting 在基础词的动作变化里理解。裂口、rend 形式在 rent 内作为另源辨析。",
+    "intro": "rent from 向别人租，rent to 租给别人。裂口义不是租金历史自然变来的现代比喻。",
+    "forms": "法语 rente、renter 等 → rent；rental 有独立旧名词路径；rent + -er；rend 的 rent 另接本族撕裂。\n\n法语收入、租赁词族；同形撕裂 rent 另源，不混过去式。",
+    "branches": [
+      [
+        "租金、租用、租客",
+        "rent · rental · renter"
+      ],
+      [
+        "rent → rented：租用、出租",
+        "rent · rented"
+      ]
+    ],
+    "contrasts": "rent/rent out 租入出租方向；rental 可名词也可形容；renter 常租客；a rent in cloth 裂口另源。",
+    "practice": "The renter paid the rent for the rental flat.\n\n租客付了出租公寓的租金。",
+    "words": [
+      "rent",
+      "rental",
+      "renter",
+      "rented"
+    ],
+    "exclude": {
+      "rent-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "water-rent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rent-seeking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "renting": "rent 的规则 -ing 变化，可说租赁活动；基础词已说明租入、出租方向，不另立重复词头。",
+      "quasi-rent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3581",
+    "meaning": "资源是否足够承担；能提供什么",
+    "core": "AFFORD：能拿出资源做成，或能够给出某种好处",
+    "image": "afford → affordable → affordability 相邻。基础动词的提供义与支付能力义分开用例句看。",
+    "intro": "钱不是唯一资源，时间、失败代价也可以负担不起。支付得起与有没有货不同，不按 a + ford 字面乱拆。",
+    "forms": "古英语 ġeforþian 经中古 aforth → afford；afford + -able/-ability；-able → -ability。",
+    "branches": [
+      [
+        "动词、形容词与性质",
+        "afford · affordable · affordability"
+      ]
+    ],
+    "contrasts": "affordable/cheap 相对负担与低价；affordability/availability 付得起与可获得；cannot afford to fail 不是只说钱包。",
+    "practice": "The lower price made the car more affordable.\n\n价格降低后，这辆车更容易负担得起了。",
+    "words": [
+      "afford",
+      "affordable",
+      "affordability"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "B2863",
+    "meaning": "账目、说明、账号；会计职业与责任",
+    "core": "ACCOUNT：一份账、一个说法，或要说明白的责任",
+    "image": "account 本身有账目、叙述、账号等分支；会计词族 accounting、accountant、accountancy 放在一起，accountable 则看须作出说明的责任。",
+    "intro": "account 接法语、拉丁计算词族。先读基础，再读会计动作、人物、行业，最后对照承担说明责任的 accountable。",
+    "forms": "account → accounting、accountant、accountancy；accountable 按须解释、负责理解。\n\naccount 经法语计算、叙述词族进入英语，远接拉丁 computare。现代 account + -ed，accounted for 可说明原因、占某比例或交代去向，按主语和上下文分辨。",
+    "branches": [
+      [
+        "基础及会计职业",
+        "account · accounting · accountant · accountancy"
+      ],
+      [
+        "说明责任",
+        "accountable"
+      ],
+      [
+        "account → accounted：说明、占比与去向清楚",
+        "accounted"
+      ]
+    ],
+    "contrasts": "accountant 是人，accountancy 是专业；accountable 负责不是只会做账。",
+    "practice": "The accountant explained the account to a student of accountancy.\n\n会计师向一位会计专业学生解释了这份账目。",
+    "words": [
+      "account",
+      "accounting",
+      "accountant",
+      "accountancy",
+      "accountable",
+      "accounted"
+    ],
+    "exclude": {
+      "e-account": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4211",
+    "meaning": "特定、特别；特别地与具体特点",
+    "core": "PARTICULAR：从一般整体中指到具体这一项",
+    "image": "particular 指特定对象或特点，particularly 强调尤其，particularity 再把具体性、独特点拿出来当名词说。",
+    "intro": "particular 历史接拉丁小部分词族，经法语进入英语；particularity 也有相应法语、拉丁名词来路，不只是一段现代机械加尾。",
+    "forms": "particular → particularly、particularity；后者更正式，日常可用 details、distinctive features 按语境表达。",
+    "branches": [
+      [
+        "特定与尤其",
+        "particular · particularly"
+      ],
+      [
+        "具体性和特点",
+        "particularity"
+      ]
+    ],
+    "contrasts": "particularly 是副词尤其，particularity 是名词；particular 不只等于奇怪，还常是某个特定的。",
+    "practice": "The book pays particular attention to the particularities of local speech.\n\n这本书特别关注当地说话方式的具体特点。",
+    "words": [
+      "particular",
+      "particularly",
+      "particularity"
+    ],
+    "exclude": {
+      "non-particular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2752",
+    "meaning": "眼睛、眼光；眼部用品与形象引申",
+    "core": "EYE：看见、关注，再到像眼的孔和中心",
+    "image": "先分眼球、眼皮、睫毛、眉毛；再读眼线和眼镜用品，最后看目击、碍眼、目镜、靶心及历史相关词。",
+    "intro": "eye 继承古英语 ēage。window 的后半来自古诺尔斯语眼，ogle 则通常从低地德语眼相关动词借入；它们不都是现代 eye 直接加英语后缀。",
+    "forms": "eye → eyeball、eyelid、eyelash、eyebrow、eyesight；eyeliner、eyewear、eyeglasses 按用品；eyewitness 亲眼见，eyesore 看着难受。\n\nlid 补足 eyelid 的底词说明，基本是可开合的覆盖物；由物体盖子的日常画面理解眼睑名称。\n\n名词眼睛的复数和动词注视的第三人称都写 eyes、读 /aɪz/。\n\nwindow 借古诺尔斯语 vindauga，历史 vindr 风加 auga 眼；现代 windows 是英语词加复数，不是词干 wind 加新造 ow。\n\neye 加 brow，复数 s 读 z。\n\neyes 语境可用 lids 回指 eyelids，普通器物语境先看盖子。\n\n各组合后半分别提供细毛、盖、球、阴影的画面；不能凭中文相关就当同一个来源。\n\n这里以眼部动作作场景扩展，不将 squint 说成 eye 的同源派生。squint 从旧 asquint 缩短、转成形容词再作动词，远源未定；现代眯眼动作不自动等于名词的斜视状态。\n\nogle 可能借低地德语 oeglen，其基础 oege 为眼，与英语 eye 有同源关系；不是现代英语 eye 加一个词尾直接变成 ogle。",
+    "branches": [
+      [
+        "眼部结构和视力",
+        "eye · eyeball · eyelid · eyelash · eyebrow · eyesight"
+      ],
+      [
+        "化妆、穿戴用品",
+        "eyeliner · eyewear · eyeglasses"
+      ],
+      [
+        "观察与视觉评价",
+        "eyewitness · eyesore"
+      ],
+      [
+        "光学和中心比喻",
+        "eyepiece · fisheye · bullseye"
+      ],
+      [
+        "历史相关词",
+        "window · ogle"
+      ],
+      [
+        "eye + lid → eyelid：眼睛的盖",
+        "eye · lid · eyelid"
+      ],
+      [
+        "eye → eyes：眼睛与注视",
+        "eye · eyes"
+      ],
+      [
+        "window → windows：风之眼到窗户、界面窗口",
+        "eye · window · windows"
+      ],
+      [
+        "eyebrow → eyebrows：眼上方眉部",
+        "eyebrow · eyebrows"
+      ],
+      [
+        "lid → lids：容器盖与眼睑的短称",
+        "lid · lids"
+      ],
+      [
+        "eye 的部位和用品：睫毛、眼睑、眼球、眼影",
+        "eye · eyeshadow · eyelash · eyelashes · eyelid · eyelids · eyeball · eyeballs"
+      ],
+      [
+        "squint：眼睛眯起来和眼位斜向的不同用法",
+        "eye · squint · squints · squinted · squinting"
+      ],
+      [
+        "ogle 与 eye 的远亲联系：带欲望地看",
+        "eye · ogle · ogles · ogled · ogling"
+      ]
+    ],
+    "contrasts": "eyelash 睫毛，eyebrow 眉毛；eyewear 总类，eyeglasses 常用复数；window、ogle 都不硬套现代英语直接派生。",
+    "practice": "The eyewitness raised an eyebrow and looked out of the window.\n\n目击者挑了挑眉，朝窗外望去。",
+    "words": [
+      "eye",
+      "eyeball",
+      "eyelid",
+      "eyelash",
+      "eyebrow",
+      "eyesight",
+      "eyeliner",
+      "eyewear",
+      "eyeglasses",
+      "eyewitness",
+      "eyesore",
+      "eyepiece",
+      "fisheye",
+      "bullseye",
+      "window",
+      "ogle",
+      "lid",
+      "eyes",
+      "windows",
+      "eyebrows",
+      "lids",
+      "eyeshadow",
+      "eyelashes",
+      "eyelids",
+      "eyeballs",
+      "squint",
+      "squints",
+      "squinted",
+      "squinting",
+      "ogles",
+      "ogled",
+      "ogling"
+    ],
+    "exclude": {
+      "side-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "white-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-opening": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shut-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-apple": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-roll": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-opener": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wheel-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cow-eyed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-watering": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-catcher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "popeye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goldeneye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eyeglass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eyeless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "word": "videos",
+    "ipa": "英 /ˈvɪdiəʊz/；美 /ˈvɪdioʊz/",
+    "meaning": "视频、录像〔复数〕；录下影像〔第三人称单数〕",
+    "sense": "把能看的活动画面保存、传给别人，是 videos 的视频义；与 audio 声音相对，video 的近代名字就是借我看这个拉丁形式。",
+    "split": "video + -s，元音后读 /z/，结尾是 o 的名词在这里直接加 s。video 近代仿 audio，借拉丁 videō 我看，属于 vidēre 看词族，后有录制品与录影动词。",
+    "history": [
+      [
+        "拉丁 videō 我看；近代仿 audio → video",
+        "视觉部分、图像信号的技术命名"
+      ],
+      [
+        "video + -s → videos；录制用途",
+        "多段视频、录像；单数主语录影"
+      ]
+    ],
+    "explanation": "short videos 短视频；instructional videos 教学视频；watch videos 看视频。",
+    "usage": "videos stored on the device；videos explaining the steps。",
+    "contrast": "videos 的复数没有 e；potatoes 的复数有 es，o 结尾名词要按具体词记。video 表示影像，audio 更侧重声音。",
+    "examples": [
+      [
+        "The course includes short videos explaining each step.",
+        "课程配有短视频，讲解每个步骤。"
+      ],
+      [
+        "She saved the videos in a separate folder.",
+        "她把视频存进单独的文件夹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/videos#English",
+      "https://www.etymonline.com/word/video"
+    ]
+  },
+  {
+    "word": "films",
+    "ipa": "/fɪlmz/",
+    "meaning": "电影；薄膜、薄层〔复数〕；拍摄〔第三人称单数〕",
+    "sense": "film 最早的画面是一层薄皮、薄膜；摄影把影像留在感光薄层上，后来便用 films 数电影。拍摄也直接用 film 作动词。",
+    "split": "film + -s，/m/ 后读 /z/。继承古英语 filmen 薄皮、膜；感光层、胶片再引出电影和拍摄用法，数字电影沿用这个名称。",
+    "history": [
+      [
+        "古英语 filmen → film",
+        "薄皮、膜 → 摄影感光薄层、胶片"
+      ],
+      [
+        "电影与动词用途；film + -s → films",
+        "多部电影、多层薄膜；单数主语拍摄"
+      ]
+    ],
+    "explanation": "documentary films 纪录片；thin films 薄膜；films interviews 拍摄采访。",
+    "usage": "films shown at the festival；films covering a surface。",
+    "contrast": "films 不保证今天仍用实体胶片拍，名称会在技术变化后延续。材料科学里的 films 则通常回到薄层、薄膜义。",
+    "examples": [
+      [
+        "The festival shows films from several countries.",
+        "电影节放映几个国家的电影。"
+      ],
+      [
+        "She films interviews for the school website.",
+        "她为学校网站拍摄采访。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/films#English",
+      "https://en.wiktionary.org/wiki/film#English"
+    ]
+  },
+  {
+    "word": "cards",
+    "ipa": "英 /kɑːdz/；美 /kɑːrdz/",
+    "meaning": "卡片、纸牌；银行卡、证件卡等〔复数〕",
+    "sense": "一张张较挺的纸片，是 cards 的具体画面；在上面写信息、印图案，就能用作贺卡、纸牌、身份或支付凭证。",
+    "split": "card + -s，/d/ 后读 /z/。经法语 carte 接拉丁 charta、希腊 khártēs 等纸张词，与 chart 有较早同族关系；梳理纤维的同形 card 另有历史。",
+    "history": [
+      [
+        "希腊、拉丁纸张词 → 法语 carte → card",
+        "纸张 → 卡片、凭证"
+      ],
+      [
+        "card + -s → cards；信息、用途扩展",
+        "多张卡；纸牌、证件或支付工具"
+      ]
+    ],
+    "explanation": "playing cards 扑克牌；birthday cards 生日卡片；bank cards 银行卡；a pack of cards 一副纸牌〔英式常见〕。",
+    "usage": "cards printed on thick paper；cards kept in a wallet。",
+    "contrast": "cards 数单张卡，a pack 或 deck of cards 常数一副纸牌。虚拟卡也沿凭证、信息载体的名称，不要求每张都真是纸片。",
+    "examples": [
+      [
+        "The children made birthday cards for their teacher.",
+        "孩子们为老师制作了生日卡片。"
+      ],
+      [
+        "He put the playing cards back in the box.",
+        "他把纸牌放回盒子里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cards#English",
+      "https://en.wiktionary.org/wiki/card#English"
+    ]
+  },
+  {
+    "word": "taxes",
+    "ipa": "/ˈtæksɪz/",
+    "meaning": "税、税款〔复数〕；征税；使负担很重〔第三人称单数〕",
+    "sense": "按一定方式评定后征收的款项，是 taxes 的税款义；给一个人的能力、设备的资源加上重负担，动词也能用 tax。",
+    "split": "tax + -es，/ks/ 后增加 /ɪz/。tax 经法语接拉丁 taxāre 评定、估量等词；现代征收义与使承受负担的比喻用途按对象区分。",
+    "history": [
+      [
+        "拉丁 taxāre → 法语 → tax",
+        "评定、估量 → 征收税款"
+      ],
+      [
+        "tax + -es → taxes；负担比喻",
+        "多项税款；单数主语征税或使吃力"
+      ]
+    ],
+    "explanation": "pay taxes 纳税；local taxes 地方税；taxes included 已含税；taxes the system 给系统带来沉重负担。",
+    "usage": "taxes listed in the statement；taxes the old computer。",
+    "contrast": "taxes 可以泛说多项税款；taxes a person’s patience 这类动词用法则像加上吃力负担。读到税的句子时，具体项目由上下文说明。",
+    "examples": [
+      [
+        "The price includes all taxes.",
+        "这个价格包含全部税款。"
+      ],
+      [
+        "The large file taxes the old computer.",
+        "这个大文件让那台旧电脑不堪重负。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taxes#English",
+      "https://en.wiktionary.org/wiki/tax#English"
+    ]
+  },
+  {
+    "word": "returns",
+    "ipa": "英 /rɪˈtɜːnz/；美 /rɪˈtɜːrnz/",
+    "meaning": "返回、归还〔第三人称单数〕；退货；回报；报表等〔复数〕",
+    "sense": "人或物转回来，是 returns 的回返画面；商品送回来是退货，付出之后得到的东西可说回报，按要求交回的信息则可以叫 return。",
+    "split": "return + -s，/n/ 后读 /z/。动词经古法语 retorner 等及相关中世纪拉丁形式，名词还接法语 retorn 等；现代 re- 回 + turn 的认形不等于名动词只有一条借入路径。",
+    "history": [
+      [
+        "法语名动词及相关拉丁形式 → return",
+        "转回、返回 → 归还、回报等"
+      ],
+      [
+        "return + -s → returns；按领域专门化",
+        "单数主语回来、归还；退货、回报或提交的信息"
+      ]
+    ],
+    "explanation": "returns home 回家；returns the keys 还钥匙；product returns 商品退货；tax returns 纳税申报表。",
+    "usage": "returns made to the shop；returns from a period of work。",
+    "contrast": "tax returns 通常说提交的申报资料，不等于退税；product returns 则是送回的商品。动词 returns 的对象、方向决定是返回还是归还。",
+    "examples": [
+      [
+        "She returns the keys before leaving the building.",
+        "她离开大楼前归还钥匙。"
+      ],
+      [
+        "The shop keeps a record of product returns.",
+        "这家店保留商品退货记录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/returns#English",
+      "https://en.wiktionary.org/wiki/return#English"
+    ]
+  },
+  {
+    "word": "humans",
+    "ipa": "/ˈhjuːmənz/",
+    "meaning": "人、人类个体〔human 的复数〕",
+    "sense": "把人作为一种生物、或与机器等对象对照时，常用 humans；它把注意放在人这一类存在，而不是具体身份。",
+    "split": "human + -s，/n/ 后读 /z/。古法语 humain 接拉丁 hūmānus 人的，和 homō 人同族；英语形容词也用作可数名词。",
+    "history": [
+      [
+        "拉丁 homō、hūmānus → 法语 humain → human",
+        "人 → 人的、人类的"
+      ],
+      [
+        "human 名词 + -s → humans",
+        "一个个人类个体；合称人类"
+      ]
+    ],
+    "explanation": "humans and animals 人与其他动物；humans and robots 人与机器人；help humans 帮助人。",
+    "usage": "humans living in the region；designed for humans。",
+    "contrast": "humans 常用于生物、技术等对照；people 说人们更日常。human 与 humane 仁慈的现代意义、重音不同，虽共享较早词族。",
+    "examples": [
+      [
+        "Humans use language to share ideas.",
+        "人类用语言交流想法。"
+      ],
+      [
+        "The machine was designed to work alongside humans.",
+        "这台机器被设计为与人协作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humans#English",
+      "https://en.wiktionary.org/wiki/human#English"
+    ]
+  },
+  {
+    "word": "folks",
+    "ipa": "英 /fəʊks/；美 /foʊks/",
+    "meaning": "人们、各位〔口语〕；家人、父母〔my folks 等〕",
+    "sense": "亲切、随意地说一群人，可以用 folks；说 my folks，又常指我的家人，尤其父母。它比正式的 people、parents 更有口语气。",
+    "split": "folk + -s，/k/ 后读 /s/，l 在常见读音里不发音。folk 延续古英语 folc 人群、族群，原来就能作集合词；现代 folks 成为常用口语形式。",
+    "history": [
+      [
+        "古英语 folc → folk",
+        "人群、群体"
+      ],
+      [
+        "folk + -s → folks；亲切称呼与家庭用法",
+        "人们、各位；自己的家人、父母"
+      ]
+    ],
+    "explanation": "local folks 当地人；my folks 我的家人、父母；Hi, folks 各位好。",
+    "usage": "folks living nearby；visiting her folks。",
+    "contrast": "folk music 民间音乐中的 folk 通常用原形修饰；folks 单独作名词常是人们。my folks 的具体家人范围由语境决定。",
+    "examples": [
+      [
+        "The local folks helped us find the old road.",
+        "当地人帮我们找到了那条老路。"
+      ],
+      [
+        "She is visiting her folks this weekend.",
+        "她这个周末去看望父母。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folks#English",
+      "https://en.wiktionary.org/wiki/folk#English"
+    ]
+  },
+  {
+    "word": "practices",
+    "ipa": "/ˈpræktɪsɪz/",
+    "meaning": "做法、惯例；练习、执业机构等〔复数〕；练习〔美式第三人称单数〕",
+    "sense": "把事情实际做起来、反复做，形成 practices 的练习与做法义；一种经常这样处理事情的方式，也可以数成一项 practice。",
+    "split": "practice + -s，/s/ 后增加 /ɪz/。希腊 praktikós 行动相关材料经拉丁 practicāre、法语 pratiser 等进入英语，中古英语有 practisen；名词写法后来形成 practice。",
+    "history": [
+      [
+        "希腊行动词族 → 拉丁、法语 → 英语 practice 名动词",
+        "实际做、反复做 → 练习、做法"
+      ],
+      [
+        "practice + -s → practices；英美拼写分工",
+        "多项做法；美式单数主语练习，英式动词常用 practises"
+      ]
+    ],
+    "explanation": "working practices 工作惯例；good practices 良好做法；practices the piano 练钢琴〔美式〕。",
+    "usage": "practices used in the classroom；practices speaking each day。",
+    "contrast": "英式名词通常写 practice，动词写 practise，所以名词复数 practices、动词 practises 要分清；美式常都用 practice 及 practices。",
+    "examples": [
+      [
+        "The course compares working practices in different teams.",
+        "课程比较不同团队的工作做法。"
+      ],
+      [
+        "She practices the piano every evening.",
+        "她每天晚上练钢琴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/practices#English",
+      "https://www.etymonline.com/word/practice"
+    ]
+  },
+  {
+    "word": "agencies",
+    "ipa": "/ˈeɪdʒənsiz/",
+    "meaning": "代理机构；机构、部门〔agency 的复数〕",
+    "sense": "有一群人专门代办、开展某类事务，是 agencies 的机构义；旅行代理、广告机构、公共部门都可按承担的业务命名。",
+    "split": "agency 的 y 前是辅音 c，变 y 为 i 加 -es，词尾读 /z/。中世纪拉丁 agentia 来自 agēns、agent- 行动者，英语先有起作用等抽象义，后来发展为代办业务的机构。",
+    "history": [
+      [
+        "拉丁 agere、agēns → 中世纪拉丁 agentia → agency",
+        "行动、起作用 → 办事、施加作用的组织"
+      ],
+      [
+        "agency → agencies",
+        "y 变 i 加 es；多个办事、代理机构"
+      ]
+    ],
+    "explanation": "travel agencies 旅行代理机构；advertising agencies 广告机构；public agencies 公共机构。",
+    "usage": "agencies sharing information；agencies representing writers。",
+    "contrast": "agency 的机构义不只商业中介，也可用于公共部门。agent 常指执行事务的人或作用物，agency 则可把整个办事组织框起来。",
+    "examples": [
+      [
+        "Local agencies shared information after the storm.",
+        "暴风雨后，当地机构共享了信息。"
+      ],
+      [
+        "The writer contacted several literary agencies.",
+        "这位作家联系了几家文学代理机构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/agencies#English",
+      "https://www.etymonline.com/word/agency"
+    ]
+  },
+  {
+    "word": "programmes",
+    "ipa": "英 /ˈprəʊɡræmz/；美式读音 /ˈproʊɡræmz/",
+    "meaning": "节目；计划、项目；活动安排〔英式复数拼写〕",
+    "sense": "先把要呈现、要开展的事情排出来，是 programmes 的节目、项目画面。它和 programs 是同一历史词的不同拼写习惯。",
+    "split": "programme + -s，/m/ 后读 /z/。法语 programme 经后期拉丁接希腊 prógramma 公告，属于 pro- 在前与写的 gráphein 词族；从公布的内容发展到节目单、安排与项目。",
+    "history": [
+      [
+        "希腊 prógramma → 拉丁、法语 → programme／program",
+        "先公示写出的内容 → 节目、安排"
+      ],
+      [
+        "programme + -s → programmes",
+        "多套节目、项目、计划；英式拼写"
+      ]
+    ],
+    "explanation": "television programmes 电视节目；education programmes 教育项目；training programmes 培训计划。",
+    "usage": "programmes broadcast each week；programmes offered by the centre。",
+    "contrast": "英式在电视节目、活动安排等语境常写 programme，计算机程序通常也写 program；美式较广地使用 program。programs 与 programmes 的拼写差别不代表两个词根。",
+    "examples": [
+      [
+        "The station broadcasts educational programmes every week.",
+        "这家台站每周播出教育节目。"
+      ],
+      [
+        "The centre offers training programmes for new volunteers.",
+        "这个中心为新志愿者开设培训项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/programmes#English",
+      "https://en.wiktionary.org/wiki/programme#English"
+    ]
+  }
+]

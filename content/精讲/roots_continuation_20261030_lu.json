@@ -1,0 +1,132 @@
+[
+  {
+    "id": "B3626",
+    "meaning": "木片、长板转为滑雪器材与相应动作、人物",
+    "core": "SKI：脚下长板把人在雪上托着滑",
+    "image": "ski → skier；skiing 是活动形式。",
+    "intro": "器材叫 ski，一双是 skis；动作也可 ski，做的人 skier。词来自挪威语木片、长板的旧名称。",
+    "forms": "skíð → 挪威 ski → 英语 ski；-er 人物，-ing 活动，均保留词干 i。\n\n与 ski 较远北欧木片词族可能相关，不是现代英语 ski 加 d。skid 名词先见垫木、木梁；动词制动轮子到轮不转而滑、侧滑，现代名词滑行又随动词发展。\n\nski 借挪威语 ski，接古北欧 skíð 劈开的木片、板材。skiing 保留原词的 i 再加 -ing，拼写 ii，读 /ˈskiːɪŋ/。",
+    "branches": [
+      [
+        "器材、动作与参与者",
+        "ski · skier"
+      ],
+      [
+        "skid：垫木、制动块到轮子滑行",
+        "skid · skids · skidded · skidding"
+      ],
+      [
+        "ski + -ing → skiing：两个 i 都有来处",
+        "skiing"
+      ]
+    ],
+    "contrasts": "读 /skiː/；a pair of skis 数一双板；skier 不一定专业运动员。",
+    "practice": "The skier checked her skis before starting.\n\n滑雪者出发前检查了滑雪板。",
+    "words": [
+      "ski",
+      "skier",
+      "skid",
+      "skids",
+      "skidded",
+      "skidding",
+      "skiing"
+    ],
+    "exclude": {
+      "sit-ski": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4196",
+    "meaning": "感激的心情、品质，以及对好结果的庆幸评论",
+    "core": "THANKFUL：既可谢谢某件事，也可庆幸结果还好",
+    "image": "thankful → thankfully、thankfulness。",
+    "intro": "I’m thankful for your help 是感谢帮助；Thankfully, nobody was hurt 是幸好没人受伤，句首副词表达说话人的庆幸。thankfulness 则把感激变成可谈论的状态。",
+    "forms": "thank + -ful 具有感激；-ly 方式或全句评论；-ness 抽象品质。",
+    "branches": [
+      [
+        "感激性质、表达方式与状态",
+        "thankful · thankfully · thankfulness"
+      ]
+    ],
+    "contrasts": "thankfully 不只机械译为感谢地；句首常译幸好；thankfulness 不是一封感谢信。",
+    "practice": "Thankfully, we arrived safely, and we were thankful for their help.\n\n幸好我们平安抵达，也很感谢他们的帮助。",
+    "words": [
+      "thankful",
+      "thankfully",
+      "thankfulness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4584",
+    "meaning": "心思朝向某事、具有某种想法或态度",
+    "core": "MINDED：看一个人的心思、想法往哪边去",
+    "image": "minded 常在 be minded to do 或复合形容词里说明想法、态度。",
+    "intro": "be minded to agree 较正式，说有意、倾向同意；open-minded 的 open 说明愿意接纳，narrow-minded 则说明想法狭窄。先理解整组，不单背一个有思想的。",
+    "forms": "mind 心思 + -ed 性质，minded；复合前项给出心思的方向、特点，-ed 在这里不都表示过去发生一次动作。",
+    "branches": [
+      [
+        "倾向与心态性质",
+        "minded"
+      ]
+    ],
+    "contrasts": "be minded to 比普通 want 更正式；open-minded 的含义由 open + minded 共同形成；很少独立使用的后缀扩展先略过。",
+    "practice": "After hearing the explanation, she was minded to agree.\n\n听过解释后，她倾向于同意。",
+    "words": [
+      "minded"
+    ],
+    "exclude": {
+      "up-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "even-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "off-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "same-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "open-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fair-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "soft-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "weak-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "narrow-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heavenly-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hive-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "feeble-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mindedness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "twi-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mindedly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4038",
+    "meaning": "古怪、异常与突发反应，区分性质、动作和一次经历",
+    "core": "FREAK：超出寻常，会让人惊讶，也可能让人慌乱",
+    "image": "freak → freaky、freakish；freak out → freakout。",
+    "intro": "天气、巧合、力量各有异常，人的反应可能 freak out。异常不只恐怖，也可能惊人；人物称呼则须读出贬义或自嘲。",
+    "forms": "freak 更远来源未定；-y、-ish 性质；out 与动词成短语，再名词化为 freakout。\n\nfreak 更远来源不明，早有突然奇想、异常事物等义，后来也说对某事着迷的人；freak out 是现代惊慌、失控表达。freaking 作加强语气词又是更粗俗词的委婉替代，不能只靠 -ing 解释完。",
+    "branches": [
+      [
+        "异常与相应性质",
+        "freak · freaky · freakish"
+      ],
+      [
+        "失控动作的名词化",
+        "freakout"
+      ],
+      [
+        "freak：奇异、着迷、失控与程度加强",
+        "freak · freaks · freaked · freaking"
+      ]
+    ],
+    "contrasts": "freaky 不必真危险；freakish 不一定贬义；freak out 动词分开，a freakout 名词可合写。",
+    "practice": "The freaky noise caused a brief freakout.\n\n那个诡异声音让人短暂慌乱了一阵。",
+    "words": [
+      "freak",
+      "freaky",
+      "freakish",
+      "freakout",
+      "freaks",
+      "freaked",
+      "freaking"
+    ],
+    "exclude": {}
+  }
+]

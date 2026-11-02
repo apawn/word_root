@@ -1,0 +1,682 @@
+[
+  {
+    "word": "stiff",
+    "ipa": "/stɪf/",
+    "meaning": "僵硬的、硬挺的；拘谨的；严厉的、艰难的",
+    "sense": "纸板折不动，脖子转起来不灵活，都能 stiff。人说话动作绷着、场面不轻松，也像身体没放开；stiff competition 则是不好应付的激烈竞争。",
+    "split": "承古英语 stif，经中古英语延续。由物理硬直扩展到动作不灵活、举止拘谨及强度高、难应付。",
+    "history": [
+      [
+        "古英语 stif → 中古英语 stif、stiff → stiff",
+        "硬直、不易弯曲"
+      ],
+      [
+        "实体难弯 → 动作、社交拘谨；要求、竞争严峻",
+        "-en 变硬，-ly 方式，-ness 性质"
+      ]
+    ],
+    "explanation": "stiff cardboard 硬纸板，a stiff neck 僵硬的脖子，stiff competition 激烈竞争，a stiff penalty 严厉处罚。",
+    "usage": "a stiff neck；stiff competition；a stiff smile。",
+    "contrast": "stiff 重点不易弯、不放松或强度大；hard 范围更广，不能所有场景都直接互换。",
+    "examples": [
+      [
+        "The cardboard was too stiff to fold easily.",
+        "纸板太硬挺，不容易折。"
+      ],
+      [
+        "She gave him a stiff smile.",
+        "她朝他拘谨地笑了笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stiff#English"
+    ]
+  },
+  {
+    "word": "stiffen",
+    "ipa": "/ˈstɪfən/",
+    "meaning": "使变硬、使僵硬；变得僵直；加强",
+    "sense": "原来能动，后来绷紧、硬起来，是 stiffen。布料能被处理得挺，人的身体也会在惊觉危险时突然一僵。",
+    "split": "stiff + -en，形成使变得、变成某种性质的动词，中古英语已有相应形式。",
+    "history": [
+      [
+        "古英语 stif → 中古英语 stif、stiff → stiff",
+        "硬直、不易弯曲"
+      ],
+      [
+        "stiff + -en → stiffen",
+        "使硬直；自身变得僵直"
+      ]
+    ],
+    "explanation": "stiffen the fabric 使布变挺，her body stiffened 她身体一僵，stiffen resistance 加强抵抗。",
+    "usage": "stiffen the material；stiffen in surprise。",
+    "contrast": "stiffen 可及物也可不及物；stiff 是状态，stiffen 是进入或造成状态。",
+    "examples": [
+      [
+        "The fabric stiffened as it dried.",
+        "布料干了以后变挺了。"
+      ],
+      [
+        "He stiffened when he heard footsteps behind him.",
+        "听到身后脚步声时，他身体一僵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stiffen#English"
+    ]
+  },
+  {
+    "word": "stiffly",
+    "ipa": "/ˈstɪfli/",
+    "meaning": "僵硬地；拘谨地、冷淡生硬地",
+    "sense": "动作不灵活，或态度像隔着一道硬板，都可 stiffly。sit stiffly 是身体绷着，reply stiffly 常是语气不放松。",
+    "split": "stiff + -ly，承中古英语相应形式；由硬直性质形成动作、态度方式副词。",
+    "history": [
+      [
+        "古英语 stif → 中古英语 stif、stiff → stiff",
+        "硬直、不易弯曲"
+      ],
+      [
+        "stiff + -ly → stiffly",
+        "以僵硬、拘谨方式"
+      ]
+    ],
+    "explanation": "move stiffly 动作僵硬，sit stiffly 绷直坐着，reply stiffly 生硬答复。",
+    "usage": "move stiffly；reply stiffly。",
+    "contrast": "stiffly 的态度义可能带距离感；不自动表示说话人道德上顽固。",
+    "examples": [
+      [
+        "She sat stiffly on the edge of the chair.",
+        "她拘谨地坐在椅边。"
+      ],
+      [
+        "“That will not be necessary,” he replied stiffly.",
+        "他生硬地回答：“没有那个必要。”"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stiffly#English"
+    ]
+  },
+  {
+    "word": "stiffness",
+    "ipa": "/ˈstɪfnəs/",
+    "meaning": "僵硬、硬挺；刚度；拘谨、生硬",
+    "sense": "stiff 的硬直性质抽出来，是 stiffness。材料科学可量它抵抗形变的程度，社交场面则说态度有多不放松。",
+    "split": "stiff + -ness，承中古英语相应名词；由实体性质扩展到动作、举止的生硬。",
+    "history": [
+      [
+        "古英语 stif → 中古英语 stif、stiff → stiff",
+        "硬直、不易弯曲"
+      ],
+      [
+        "stiff + -ness → stiffness",
+        "硬直性质、程度；举止拘谨"
+      ]
+    ],
+    "explanation": "material stiffness 材料刚度，stiffness in movement 动作僵硬，social stiffness 社交拘谨。",
+    "usage": "the stiffness of the material；stiffness in her manner。",
+    "contrast": "工程 stiffness 刚度与 hardness 硬度不是同一个量；前者关注抵抗形变，后者常关注抵抗局部压入、划伤等。",
+    "examples": [
+      [
+        "The engineers compared the stiffness of the panels.",
+        "工程师比较了这些板材的刚度。"
+      ],
+      [
+        "There was a stiffness in his manner at first.",
+        "他起初举止有些拘谨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stiffness#English"
+    ]
+  },
+  {
+    "word": "elegant",
+    "ipa": "/ˈelɪɡənt/",
+    "meaning": "优雅的、雅致的；简洁精妙的",
+    "sense": "衣服线条干净、动作从容好看，可以 elegant；一个解法步骤不绕、恰好抓住关键，也叫 elegant。精致不是只靠堆装饰。",
+    "split": "经法语及拉丁 elegant-、elegans 借入，联系 eligere 细心挑选词族。古义讲究、挑剔等，后发展精致、有品味的赞义。",
+    "history": [
+      [
+        "拉丁 eligere 细心挑选的词族 → elegans、elegant-",
+        "讲究、精致；历史上也曾带挑剔意味"
+      ],
+      [
+        "法语、拉丁形式 → elegant；elegantia → elegance",
+        "优雅精致的；优雅、精妙性质"
+      ]
+    ],
+    "explanation": "an elegant dress 雅致连衣裙，an elegant solution 简洁精妙的解法，elegant prose 优美简洁的文字。",
+    "usage": "an elegant solution；an elegant design。",
+    "contrast": "elegant 不必豪华昂贵；常欣赏恰到好处、结构清楚、没有多余。",
+    "examples": [
+      [
+        "She wore a simple but elegant dress.",
+        "她穿着一条简单却雅致的连衣裙。"
+      ],
+      [
+        "The proof gives an elegant solution to the problem.",
+        "这个证明给出了问题的一个简洁精妙的解法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elegant#English",
+      "https://www.etymonline.com/word/elegant"
+    ]
+  },
+  {
+    "word": "elegantly",
+    "ipa": "/ˈelɪɡəntli/",
+    "meaning": "优雅地；简洁精妙地",
+    "sense": "elegant 说设计、动作优雅，elegantly 则说怎样做。一个论证几步就把关节讲通，是 elegantly explained。",
+    "split": "elegant + -ly，形成方式副词，保留原形。由外观、举止延伸到解题、表达的精妙方式。",
+    "history": [
+      [
+        "拉丁 eligere 细心挑选的词族 → elegans、elegant-",
+        "讲究、精致；历史上也曾带挑剔意味"
+      ],
+      [
+        "法语、拉丁形式 → elegant；elegantia → elegance",
+        "优雅精致的；优雅、精妙性质"
+      ],
+      [
+        "elegant + -ly → elegantly",
+        "以优雅、简洁精妙方式"
+      ]
+    ],
+    "explanation": "elegantly dressed 穿着雅致，elegantly designed 设计精巧，explain elegantly 讲解简洁精妙。",
+    "usage": "elegantly designed；elegantly expressed。",
+    "contrast": "elegantly 不只修饰人的动作；软件设计、数学论证也能有这种精巧。",
+    "examples": [
+      [
+        "The bridge is elegantly designed.",
+        "桥梁设计得简洁优美。"
+      ],
+      [
+        "She explained the difficult idea elegantly.",
+        "她把难懂的想法讲得简洁又清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elegantly#English"
+    ]
+  },
+  {
+    "word": "elegance",
+    "ipa": "/ˈelɪɡəns/",
+    "meaning": "优雅、雅致；简洁精妙",
+    "sense": "看到一件作品，觉得各部分配合得恰到好处、没有多余，那份美与精巧就是 elegance。它既能说外观，也能说思路。",
+    "split": "经法语 elegance 接拉丁 elegantia，来自 elegant- 一族。现代可与 elegant 对照 -ant／-ance，但它有自己的整词借入史。",
+    "history": [
+      [
+        "拉丁 eligere 细心挑选的词族 → elegans、elegant-",
+        "讲究、精致；历史上也曾带挑剔意味"
+      ],
+      [
+        "法语、拉丁形式 → elegant；elegantia → elegance",
+        "优雅精致的；优雅、精妙性质"
+      ]
+    ],
+    "explanation": "the elegance of a design 设计的雅致，mathematical elegance 数学上的精妙，simple elegance 朴素雅致。",
+    "usage": "the elegance of the solution；simple elegance。",
+    "contrast": "elegance 不等于华丽装饰量；少而精准的安排也能很有 elegance。",
+    "examples": [
+      [
+        "They admired the elegance of the solution.",
+        "他们赞赏这个解法的简洁精妙。"
+      ],
+      [
+        "The room has a quiet elegance.",
+        "房间透着低调雅致。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elegance#English",
+      "https://www.etymonline.com/word/elegance"
+    ]
+  },
+  {
+    "word": "inelegant",
+    "ipa": "/ɪnˈelɪɡənt/",
+    "meaning": "不雅致的；笨拙繁琐的、不够精巧的",
+    "sense": "东西可以勉强好用，但线条乱、步骤绕、不够利落，就可能 inelegant。它常批评处理方式，而不只是说外貌难看。",
+    "split": "经法语 inelegant 接拉丁 inelegans，对应 in- 否定 + elegans；现代也可按 in- + elegant 识别。",
+    "history": [
+      [
+        "拉丁 eligere 细心挑选的词族 → elegans、elegant-",
+        "讲究、精致；历史上也曾带挑剔意味"
+      ],
+      [
+        "法语、拉丁形式 → elegant；elegantia → elegance",
+        "优雅精致的；优雅、精妙性质"
+      ],
+      [
+        "in- + elegant → inelegant",
+        "缺乏优雅、精巧的"
+      ]
+    ],
+    "explanation": "an inelegant solution 繁琐笨拙的解法，inelegant wording 不够简练妥帖的措辞。",
+    "usage": "an inelegant workaround；inelegant phrasing。",
+    "contrast": "inelegant 不必无效；方案可能奏效，只是实现不够利落、优美。",
+    "examples": [
+      [
+        "The workaround is inelegant, but it works.",
+        "这个变通办法不够漂亮，但管用。"
+      ],
+      [
+        "The editor replaced the inelegant phrasing.",
+        "编辑改掉了那处笨拙措辞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inelegant#English"
+    ]
+  },
+  {
+    "word": "preach",
+    "ipa": "/priːtʃ/",
+    "meaning": "布道、讲道；宣扬；说教",
+    "sense": "站在人前郑重宣讲一种道理，是 preach 的核心。宗教里可正常讲道，日常说 Stop preaching 则常嫌对方把自己当成训人的讲台。",
+    "split": "拉丁 praedicare 公开宣告含 prae- 与 dicare；英语曾从教会拉丁语借相应词，后又经法语 preechier 重借、演变到 preach。",
+    "history": [
+      [
+        "拉丁 prae- 在前 + dicare 宣告 → praedicare",
+        "公开宣告；教会语境宣讲"
+      ],
+      [
+        "经古法语 preechier → preach",
+        "布道；认真劝说；使人反感的说教"
+      ]
+    ],
+    "explanation": "preach a sermon 讲道，preach tolerance 宣扬宽容，preach to the converted／choir 向早已赞同者反复说教，practise what you preach 言行一致。",
+    "usage": "preach a sermon；practise what you preach。",
+    "contrast": "preach 宗教讲道义可中性；日常批评说教的语气由对象和表达决定。pray 是祈祷，动作、角色不同。",
+    "examples": [
+      [
+        "She preached a sermon about forgiveness.",
+        "她作了一场关于宽恕的讲道。"
+      ],
+      [
+        "He preaches patience but loses his temper easily.",
+        "他宣扬耐心，自己却动不动发脾气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preach#English",
+      "https://www.etymonline.com/word/preach"
+    ]
+  },
+  {
+    "word": "preacher",
+    "ipa": "英 /ˈpriːtʃə/；美 /ˈpriːtʃər/",
+    "meaning": "传道者、讲道者；宣讲某种思想的人",
+    "sense": "preach 是把道理讲出来，preacher 是承担宣讲角色的人。常见宗教人物，也可泛说积极宣扬某种观点的人。",
+    "split": "现代对应 preach + -er；历史还承法语 preecheor、拉丁 praedicator 宣告者的人物名。不是全部形式只由现代英语后加 -er 才产生。",
+    "history": [
+      [
+        "拉丁 prae- 在前 + dicare 宣告 → praedicare",
+        "公开宣告；教会语境宣讲"
+      ],
+      [
+        "经古法语 preechier → preach",
+        "布道；认真劝说；使人反感的说教"
+      ],
+      [
+        "preach + -er，并承 preecheor 等旧人物词 → preacher",
+        "宗教或思想的宣讲者"
+      ]
+    ],
+    "explanation": "a visiting preacher 来访讲道者，a street preacher 街头传道者。",
+    "usage": "a preacher’s sermon；a street preacher。",
+    "contrast": "preacher 强调讲道、宣讲功能；是否具有某个正式教职，要看具体宗派、制度。",
+    "examples": [
+      [
+        "A visiting preacher spoke at the service.",
+        "一位来访讲道者在礼拜中讲话。"
+      ],
+      [
+        "The preacher’s words filled the small hall.",
+        "讲道者的声音响彻小礼堂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preacher#English"
+    ]
+  },
+  {
+    "word": "preachy",
+    "ipa": "/ˈpriːtʃi/",
+    "meaning": "说教的、道德训诫味太重的",
+    "sense": "故事本来在讲人、讲事，忽然不断替你下道德结论，让人像在听训，这种感觉就是 preachy。",
+    "split": "preach + -y，形成带这种特点、倾向的口语形容词，通常批评说教过多。",
+    "history": [
+      [
+        "拉丁 prae- 在前 + dicare 宣告 → praedicare",
+        "公开宣告；教会语境宣讲"
+      ],
+      [
+        "经古法语 preechier → preach",
+        "布道；认真劝说；使人反感的说教"
+      ],
+      [
+        "preach + -y → preachy",
+        "说教味太重的"
+      ]
+    ],
+    "explanation": "a preachy tone 说教口吻，a preachy film 说教味重的电影，sound preachy 听起来像训人。",
+    "usage": "a preachy tone；a preachy ending。",
+    "contrast": "preachy 批评表达方式过度训诫；作品有主题、价值观本身不必然是 preachy。",
+    "examples": [
+      [
+        "The film becomes preachy in its final scene.",
+        "电影到最后一幕变得说教味很重。"
+      ],
+      [
+        "She wanted to explain the lesson without sounding preachy.",
+        "她想讲清这个教训，又不想听起来像训人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preachy#English"
+    ]
+  },
+  {
+    "word": "skirt",
+    "ipa": "英 /skɜːt/；美 /skɝːt/",
+    "meaning": "裙子、裙摆；边缘；沿边走、绕过、回避",
+    "sense": "裙摆在身体下方围一圈，skirt 又能说边缘。小路绕着湖边走，是 skirt the lake；说话绕开要害，是 skirt the issue。",
+    "split": "借自古诺尔斯 skyrta 衣物名，与 shirt 的古英语来源同出更早词族。英语裙、下摆义发展边缘，再成沿边走、回避的动词。",
+    "history": [
+      [
+        "古诺尔斯 skyrta 衣物名 → 中古英语 skirt",
+        "与本族 shirt 是同源不同路径的双式词"
+      ],
+      [
+        "衣物下摆、裙 → 边缘 → 沿边走、绕开",
+        "skirted 状态、过去动作；mini- + skirt 超短裙"
+      ]
+    ],
+    "explanation": "a pleated skirt 百褶裙，the skirt of a dress 连衣裙裙摆，skirt the town 绕过城镇边缘，skirt the issue 回避问题。",
+    "usage": "a long skirt；skirt the issue；skirt around。",
+    "contrast": "skirt 与 shirt 同源不同借入路径，现代一个裙、一个衬衫；skirt the issue 的动词不直接译成给问题穿裙子。",
+    "examples": [
+      [
+        "She wore a dark skirt and a white shirt.",
+        "她穿着深色裙子和白衬衫。"
+      ],
+      [
+        "The path skirts the lake.",
+        "小路沿着湖边绕行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skirt#English"
+    ]
+  },
+  {
+    "word": "skirted",
+    "ipa": "英 /ˈskɜːtɪd/；美 /ˈskɝːtɪd/",
+    "meaning": "有裙摆的；沿边经过、绕过了的；skirt 的过去式、过去分词",
+    "sense": "家具底边挂着裙状布边，是 skirted；路线沿边绕行已经发生，也写 skirted。一个看外形，一个看动作完成。",
+    "split": "skirt + -ed，/t/ 后读 /ɪd/。名词加 -ed 可表示带裙状部分，动词加 -ed 可表示绕过、沿边经过。",
+    "history": [
+      [
+        "古诺尔斯 skyrta 衣物名 → 中古英语 skirt",
+        "与本族 shirt 是同源不同路径的双式词"
+      ],
+      [
+        "skirt + -ed → skirted",
+        "带裙状边；沿边、回避动作的过去状态"
+      ]
+    ],
+    "explanation": "a skirted chair 底部带布裙的椅子，skirted the village 绕过村边，skirted the question 回避了问题。",
+    "usage": "a skirted chair；skirted the question。",
+    "contrast": "-ed 这里并行两种关系：具有裙边，或过去做过绕行动作；句法决定用法。",
+    "examples": [
+      [
+        "The old room contained a skirted armchair.",
+        "旧房间里有一把底部带布裙的扶手椅。"
+      ],
+      [
+        "The road skirted the village before turning east.",
+        "道路沿村边绕过，随后折向东。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skirted#English"
+    ]
+  },
+  {
+    "word": "miniskirt",
+    "ipa": "英 /ˈmɪniskɜːt/；美 /ˈmɪniskɝːt/",
+    "meaning": "迷你裙、超短裙",
+    "sense": "mini- 把小、短的尺度放到 skirt 前，名字直接指裙摆明显高于膝部的短裙类型。",
+    "split": "mini- 小、短 + skirt，现代服装复合名；mini- 与 miniature 等小形式词族的现代缩短用法有关。",
+    "history": [
+      [
+        "古诺尔斯 skyrta 衣物名 → 中古英语 skirt",
+        "与本族 shirt 是同源不同路径的双式词"
+      ],
+      [
+        "mini- + skirt → miniskirt",
+        "短款、裙摆高于膝部的裙子"
+      ]
+    ],
+    "explanation": "a denim miniskirt 牛仔迷你裙，a pleated miniskirt 百褶迷你裙。",
+    "usage": "a denim miniskirt；a pleated miniskirt。",
+    "contrast": "miniskirt 是服装类型名称，现实长度随设计变化；不靠一个固定厘米数记这个词。",
+    "examples": [
+      [
+        "She paired the miniskirt with boots.",
+        "她用靴子搭配迷你裙。"
+      ],
+      [
+        "The exhibition includes miniskirts from the 1960s.",
+        "展览里有二十世纪六十年代的迷你裙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/miniskirt#English"
+    ]
+  },
+  {
+    "word": "denialism",
+    "ipa": "/dɪˈnaɪəlɪzəm/",
+    "meaning": "否认主义；无视有力证据而坚持否认的做法",
+    "sense": "问“证据够不够”是正常质疑；证据已经很强，却不断回避、挑碎片维持原来的否认，才是 denialism 常批评的模式。",
+    "split": "denial 否认 + -ism，形成做法、立场名称；不表示任何一次说不都是一套主义。",
+    "history": [
+      [
+        "deny 否认 → denial",
+        "否认行为、否认状态"
+      ],
+      [
+        "denial + -ism → denialism",
+        "持续拒绝强证据支持的事实、结论的做法或立场"
+      ]
+    ],
+    "explanation": "scientific denialism 对强科学证据的持续否认，historical denialism 对有力历史证据的否认。",
+    "usage": "historical denialism；the difference between scepticism and denialism。",
+    "contrast": "denialism 是带批评的词；不能只因为别人不同意自己，就跳过证据判断而贴这个标签。",
+    "examples": [
+      [
+        "The lecture distinguished scepticism from denialism.",
+        "讲座区分了怀疑态度与否认主义。"
+      ],
+      [
+        "Even the new records did not end the group’s denialism.",
+        "即使新记录出现，也没让该群体放下那种否认立场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/denialism#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/denialism"
+    ]
+  },
+  {
+    "word": "roast",
+    "ipa": "英 /rəʊst/；美 /roʊst/",
+    "meaning": "烘烤、烤；烤肉、烤餐；烘焙程度；拿人开涮",
+    "sense": "热围着食物烤，表面上色、香气出来，是 roast。朋友或喜剧演员轮流用尖锐笑话“烤”一个人，则是 roast 的调侃比喻。",
+    "split": "经法语 rostir 接日耳曼烘烤词，进入中古英语 rosten。动作名转为食物、餐食、烘焙程度，后有严厉批评、喜剧调侃。",
+    "history": [
+      [
+        "日耳曼烘烤词经古法语 rostir → 中古英语 rosten → roast",
+        "用干热烘烤食物"
+      ],
+      [
+        "烘烤 → 一顿烤食、烘焙程度；拿人开涮的比喻",
+        "roasting 活动或炎热；roaster 人、机器、容器等"
+      ]
+    ],
+    "explanation": "roast vegetables 烤蔬菜，a Sunday roast 周日烤餐，a dark roast 深烘咖啡，a comedy roast 吐槽、调侃节目。",
+    "usage": "roast vegetables；roast coffee；a comedy roast。",
+    "contrast": "roast 与 bake 的实际烤箱用法有重叠，常见按食物习惯区分；不是只凭同一台烤箱就把所有词统一翻译。",
+    "examples": [
+      [
+        "They roasted vegetables for dinner.",
+        "他们晚餐烤了蔬菜。"
+      ],
+      [
+        "The comedian roasted his friends with affectionate jokes.",
+        "喜剧演员用带亲昵意味的笑话拿朋友们开涮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roast#English"
+    ]
+  },
+  {
+    "word": "roasting",
+    "ipa": "英 /ˈrəʊstɪŋ/；美 /ˈroʊstɪŋ/",
+    "meaning": "烘烤、烘焙；挨骂、被调侃；热得像烤着的",
+    "sense": "咖啡豆在加热，是 roasting；人在烈日下热得像被烤，也可以说 It’s roasting。a roasting 还可能是一顿严厉批评。",
+    "split": "roast + -ing，形成活动名词、分词及极热形容词；比喻义承 roast 的批评、调侃支线。",
+    "history": [
+      [
+        "日耳曼烘烤词经古法语 rostir → 中古英语 rosten → roast",
+        "用干热烘烤食物"
+      ],
+      [
+        "roast + -ing → roasting",
+        "烘烤活动；极热；批评、调侃"
+      ]
+    ],
+    "explanation": "coffee roasting 咖啡烘焙，roasting vegetables 烤蔬菜，get a roasting 挨一顿狠批。",
+    "usage": "coffee roasting；roasting hot；get a roasting。",
+    "contrast": "roasting 的极热义是口语夸张；不意味着身体真的在进行食物烹饪过程。",
+    "examples": [
+      [
+        "The smell of coffee roasting filled the room.",
+        "咖啡烘焙香味充满了房间。"
+      ],
+      [
+        "It was roasting in the sun.",
+        "太阳底下热得像在烤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roasting#English"
+    ]
+  },
+  {
+    "word": "roaster",
+    "ipa": "英 /ˈrəʊstə/；美 /ˈroʊstər/",
+    "meaning": "烘烤者、烘焙商；烘烤机、烤盘等；适合烤的家禽",
+    "sense": "负责 roast 的人、机器、器具，都可 roaster。咖啡行业里既可能是烘焙师、商家，也可能是那台烘豆机。",
+    "split": "roast + -er，中古英语已有相关人物形式。工具名按作用扩展；适于烤的家禽义则按用途分类，读上下文。",
+    "history": [
+      [
+        "日耳曼烘烤词经古法语 rostir → 中古英语 rosten → roast",
+        "用干热烘烤食物"
+      ],
+      [
+        "roast + -er → roaster",
+        "烘烤执行者、工具；适于烤的食材"
+      ]
+    ],
+    "explanation": "a coffee roaster 咖啡烘焙师、商家、机器，an electric roaster 电烤器。",
+    "usage": "a coffee roaster；an electric roaster。",
+    "contrast": "roaster 不能见 -er 就只当人；shop、machine、beans 等上下文会说明具体角色。",
+    "examples": [
+      [
+        "The local roaster supplied beans to several cafés.",
+        "本地烘焙商给几家咖啡馆供豆。"
+      ],
+      [
+        "The coffee roaster can process a small batch at a time.",
+        "这台咖啡烘豆机一次能处理一小批豆子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roaster#English"
+    ]
+  },
+  {
+    "word": "thirst",
+    "ipa": "英 /θɜːst/；美 /θɝːst/",
+    "meaning": "口渴；渴望；渴求",
+    "sense": "身体想喝水，是 thirst；心里像缺水一样盼着知识、自由、冒险，也能说 a thirst for。",
+    "split": "承古英语 þurst，经中古英语 thirst、thurst 演变，与更远干燥词族相关。身体感受扩展到强烈渴望，名词也能作渴求的动词。",
+    "history": [
+      [
+        "古英语 þurst → 中古英语 thirst、thurst → thirst",
+        "口渴，联系干燥词族"
+      ],
+      [
+        "想喝水 → 强烈渴望；+ -y → thirsty",
+        "口渴的；求知等抽象渴望"
+      ]
+    ],
+    "explanation": "quench one’s thirst 解渴，a thirst for knowledge 求知欲，thirst for freedom 渴求自由。",
+    "usage": "a thirst for；quench one’s thirst。",
+    "contrast": "thirst 名词渴的感受，thirsty 形容人处于口渴状态；通常说 I’m thirsty，不说 I’m thirst。",
+    "examples": [
+      [
+        "The water quenched his thirst.",
+        "水解了他的渴。"
+      ],
+      [
+        "She has a thirst for knowledge.",
+        "她求知欲很强。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thirst#English"
+    ]
+  },
+  {
+    "word": "thirsty",
+    "ipa": "英 /ˈθɜːsti/；美 /ˈθɝːsti/",
+    "meaning": "口渴的；渴求的；耗液体多的",
+    "sense": "人想喝水，是 thirsty；机器老要加燃料，也会被形容 thirsty，好像总喝不够。thirsty for knowledge 则把感受转到求知。",
+    "split": "thirst + -y，承古英语 þurstig 等旧形容词。身体口渴性质发展到抽象渴望及高消耗比喻。",
+    "history": [
+      [
+        "古英语 þurst → 中古英语 thirst、thurst → thirst",
+        "口渴，联系干燥词族"
+      ],
+      [
+        "thirst + -y → thirsty",
+        "处于口渴、渴求状态；消耗大"
+      ]
+    ],
+    "explanation": "feel thirsty 感到渴，thirsty for knowledge 渴望知识，a thirsty engine 耗油的发动机。",
+    "usage": "feel thirsty；thirsty for knowledge。",
+    "contrast": "thirsty 也有社交、性渴望的口语评价，具体看对象；普通喝水场景先读基本义。",
+    "examples": [
+      [
+        "We were thirsty after the long walk.",
+        "走了很久后，我们都渴了。"
+      ],
+      [
+        "The old engine is rather thirsty.",
+        "这台旧发动机相当耗油。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thirsty#English"
+    ]
+  }
+]

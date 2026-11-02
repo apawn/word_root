@@ -1,0 +1,341 @@
+[
+  {
+    "id": "B2662",
+    "meaning": "孙女、外孙女",
+    "core": "GRANDDAUGHTER：隔一代的女儿，英语不分内外孙",
+    "image": "自己儿子或女儿的女儿，都可叫 granddaughter；英语这个名称不靠内、外来区分亲属方向。",
+    "intro": "grand- 在亲属词中表示隔代关系，接 daughter 女儿形成 granddaughter。历史的 grand 大、重要等材料进入亲属称呼后形成固定用途。",
+    "forms": "grand- + daughter → granddaughter；对照 grandson 孙子、外孙。不能只把 grand 译成巨大的。",
+    "branches": [
+      [
+        "隔代女性后辈",
+        "granddaughter"
+      ],
+      [
+        "隔代男性后辈对照",
+        "grandson"
+      ]
+    ],
+    "contrasts": "granddaughter 可以是儿子的女儿，也可以是女儿的女儿；必要时额外说明通过哪位子女相连。",
+    "practice": "Her granddaughter is her son’s daughter.\n\n她的这个 granddaughter 是她儿子的女儿，也就是孙女。",
+    "words": [
+      "granddaughter",
+      "grandson"
+    ],
+    "exclude": {
+      "great-granddaughter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "granddaughter-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1759",
+    "meaning": "小称、人物或仿制品等命名材料",
+    "core": "-ETTE：小物件、女性称呼、仿制材料，要看整词",
+    "image": "kitchenette 是小厨房，barrette 原是小横条；bachelorette 指未婚女性，leatherette 则是仿皮材料。不能只背成一种小。",
+    "intro": "来自古法语 -ette 等小称材料，经借词和英语新构词扩展。现代商品、人物名称等各有特定用法，不都表示同一大小或性别关系。",
+    "forms": "barre + -ette 在法语形成 barrette；disk + -ette 在英语形成 diskette；bachelor + -ette 形成女性人物称呼。\n\ncigarette 在法语中由 cigare 加 -ette 形成；英语借入整词，不说英语使用者直接把 cigar 加任意字母变成香烟。\n\n法语 cigare 加 ette 后整词借入，现代复数 s 不属于指小词尾。",
+    "branches": [
+      [
+        "小空间、短片与小物件",
+        "kitchenette · featurette · barrette · diskette"
+      ],
+      [
+        "人物、材料的特定扩展",
+        "bachelor · bachelorette · leatherette"
+      ],
+      [
+        "cigar → cigarette：法语小称与整词借入",
+        "cigar · cigarette"
+      ],
+      [
+        "cigarette → cigarettes：法语指小名称的现代复数",
+        "cigarette · cigarettes"
+      ]
+    ],
+    "contrasts": "bachelorette 不是小男学士，也不是所有女性学位名称；leatherette 的重点是仿皮，不是小皮革。",
+    "practice": "She left a barrette beside the old diskette in the kitchenette.\n\n她把一枚发夹放在小厨房里那张旧软盘旁边。",
+    "words": [
+      "kitchenette",
+      "featurette",
+      "barrette",
+      "diskette",
+      "bachelor",
+      "bachelorette",
+      "leatherette",
+      "cigar",
+      "cigarette",
+      "cigarettes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1970",
+    "meaning": "长、大、宏观尺度",
+    "core": "MACRO-：把参照对象放到更大的尺度",
+    "image": "macroeconomics 看整体经济，macroscopic 看肉眼、宏观尺度，macromolecular 看大分子；大的参照对象不相同。",
+    "intro": "经拉丁、法语等接希腊 makros 长、大，近代成为能产构词材料。科学和社会词汇各自取整体、大型或大尺度关系。",
+    "forms": "macro- + economics／economic → macroeconomics／macroeconomic；macro- + molecular → macromolecular；macrophage 又是大、吞噬者的特定细胞名称。",
+    "branches": [
+      [
+        "整体经济",
+        "macroeconomics · macroeconomic"
+      ],
+      [
+        "观察尺度与分子",
+        "macroscopic · molecule · molecular · macromolecular"
+      ],
+      [
+        "特定细胞名称",
+        "macrophage"
+      ]
+    ],
+    "contrasts": "macromolecular 的分子大，不等于肉眼一定可见；macroeconomic 的宏观，也不是经济体数字恰好达到某个统一门槛。",
+    "practice": "The course moves from molecular to macromolecular structures.\n\n课程从分子结构讲到大分子结构。",
+    "words": [
+      "macroeconomics",
+      "macroeconomic",
+      "macroscopic",
+      "molecule",
+      "molecular",
+      "macromolecular",
+      "macrophage"
+    ],
+    "exclude": {
+      "macro-fiction": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2071",
+    "meaning": "免疫系统及相关作用",
+    "core": "IMMUNO-：先看免疫，再看它在治疗、缺陷还是抑制中扮演什么角色",
+    "image": "免疫不足是 immunodeficiency，能压低反应的是 immunosuppressive，功能受到损害的状态是 immunocompromised；前半一样，后半决定关系。",
+    "intro": "immune 相关词族加连接形式 -o-，形成近代医学构词材料。immune 更早有免除负担、免受某事的历史，医学义专门化为免疫。",
+    "forms": "immune／immunity → immuno-；加 therapy、deficiency、suppression 等形成不同词。compromised 在复合里取受损义，不取谈判妥协义。",
+    "branches": [
+      [
+        "基础性质、能力",
+        "immune · immunity"
+      ],
+      [
+        "治疗、蛋白相关",
+        "immunotherapy · immunoglobulin"
+      ],
+      [
+        "不足、抑制与受损",
+        "immunodeficiency · immunosuppression · immunosuppressive · immunocompromised"
+      ]
+    ],
+    "contrasts": "同一个免疫前部不保证词义相近到能互换；尤其区分功能状态、抑制作用和治疗方法。",
+    "practice": "The review compares immunodeficiency with treatment-related immunosuppression.\n\n这篇综述比较了免疫缺陷与治疗相关的免疫抑制。",
+    "words": [
+      "immune",
+      "immunity",
+      "immunotherapy",
+      "immunoglobulin",
+      "immunodeficiency",
+      "immunosuppression",
+      "immunosuppressive",
+      "immunocompromised"
+    ],
+    "exclude": {
+      "immunofluorescence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "immunohistochemical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "immunohistochemistry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "immunoassay": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2137",
+    "meaning": "癌的科学构词材料",
+    "core": "CARCINO-：把物质、性质和形成过程都限定到癌这一主题",
+    "image": "carcinogen 是能致癌的因素，carcinogenic 说致癌性质，carcinogenesis 说癌怎样发生；不是一个意思换几个词尾。",
+    "intro": "希腊 karkinos 有蟹与癌的旧名称，进入医学、拉丁化材料后形成 carcino-；各后部再给出肿瘤、发生、因素或性质关系。",
+    "forms": "carcino- + -oma → carcinoma；carcino- + -gen → carcinogen → carcinogenic；carcino- + -genesis → carcinogenesis。",
+    "branches": [
+      [
+        "肿瘤名称",
+        "carcinoma"
+      ],
+      [
+        "因素及性质",
+        "carcinogen · carcinogenic"
+      ],
+      [
+        "形成过程",
+        "carcinogenesis"
+      ]
+    ],
+    "contrasts": "carcinoma 是癌中的特定病理类别，不等于所有肿瘤；前部相同不取消各完整术语的范围差别。",
+    "practice": "The lecture links carcinogens to the study of carcinogenesis.\n\n讲座把致癌因素与癌发生研究联系起来。",
+    "words": [
+      "carcinoma",
+      "carcinogen",
+      "carcinogenic",
+      "carcinogenesis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2083",
+    "meaning": "形态、形状",
+    "core": "MORPHO-：看结构是什么样，以及形状怎样形成",
+    "image": "morphology 看形态、结构；morphogenesis 特别把镜头对准形态如何形成。生物、语言学等领域按各自对象使用这些材料。",
+    "intro": "来自希腊 morphe 形状，近代形成 morpho- 与相关科学词。-logy 给出学科、论述关系，-genesis 给出形成过程。",
+    "forms": "morpho- + -logy → morphology → morphological；morpho- + -genesis → morphogenesis。",
+    "branches": [
+      [
+        "形态及相关描述",
+        "morphology · morphological"
+      ],
+      [
+        "形态形成过程",
+        "morphogenesis"
+      ]
+    ],
+    "contrasts": "语言学 morphology 研究词的形态结构，生物 morphology 研究生物形态；不能因为前部相同就把研究对象混在一起。",
+    "practice": "The course connects plant morphology with morphogenesis.\n\n课程把植物形态与形态发生联系起来。",
+    "words": [
+      "morphology",
+      "morphological",
+      "morphogenesis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2239",
+    "meaning": "相等、对等",
+    "core": "PARI-：把双方放到同等水平来看",
+    "image": "两边的工资、地位、数值达到同一水平，可以用 parity；共同核心是对等，而不是两边长得完全一样。",
+    "intro": "拉丁 par 相等、词干 paris 形成 paritas，经法语 parite 等到英语 parity。现代不同学科再把相等关系专门化。",
+    "forms": "拉丁 par → paritas → 法语 parite → parity；前部相等材料与英语 pair 的一对关系在学习上可对照，具体借入路线分别看。",
+    "branches": [
+      [
+        "同等、对等关系",
+        "parity"
+      ]
+    ],
+    "contrasts": "医学另有与生育次数相关的同形 parity，属于另一来源；本组的相等词族不把它合进同一条语义链。",
+    "practice": "The two groups are seeking pay parity.\n\n这两个群体正在争取同等薪酬。",
+    "words": [
+      "parity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1964",
+    "meaning": "新、刚到的",
+    "core": "NEW-：时间上刚发生，或身份上刚进入",
+    "image": "newcomer 是刚来到某地、某行业的人；不一定年纪小，而是相对于这片环境、这项活动还新。",
+    "intro": "new 是古英语等日耳曼语继承词，长期进入复合；newcomer 的历史可从 new-come 刚来的加人物 -er 理解。",
+    "forms": "new + come → 旧 new-come → newcomer；现代还能直接辨认新、来、人物这三层材料。",
+    "branches": [
+      [
+        "新到、刚加入的人",
+        "newcomer"
+      ]
+    ],
+    "contrasts": "newcomer 可以是刚加入的资深成年人；beginner 常说技能初学者。刚来和刚学不必是同一回事。",
+    "practice": "The experienced designer was a newcomer to the company.\n\n这位经验丰富的设计师刚加入这家公司。",
+    "words": [
+      "newcomer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2315",
+    "meaning": "与年、若干年相关的形容词材料",
+    "core": "-ENNIAL：旧的年词干，进入若干年、千年等名称",
+    "image": "millennial 原来说千年、千禧年相关；后来按出生时期命名某一代人，又有千禧一代这一常见用法。",
+    "intro": "拉丁 annus 年，在复合、派生中有 -ennis、-ennium、-ennialis 等相关形式；英语各词可通过借入、后续派生进入词族。",
+    "forms": "mille 千 + 年的复合材料 → millennium；millenni- + -al → millennial。现代世代名称是后来新增，古代没有这一代人的现代标签。",
+    "branches": [
+      [
+        "千年及后来世代名称",
+        "millennial"
+      ]
+    ],
+    "contrasts": "millennial 不是单位前缀 milli- 的千分之一；现代名词作世代成员称呼时，还要看文章采用的年代划分。",
+    "practice": "The museum displayed plans for the millennial celebrations.\n\n博物馆展示了当年千禧庆典的计划。",
+    "words": [
+      "millennial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2328",
+    "meaning": "观察、检测方式相关的形容词",
+    "core": "-SCOPIC：与怎样看、怎样检测有关",
+    "image": "telescopic 联系望远镜，endoscopic 联系内窥观察，spectroscopic 联系光谱分析，macroscopic 则联系肉眼可见的宏观层面。",
+    "intro": "与 -scope 观察装置、-scopy 观察方法及 -ic 形容词材料相连，远接希腊 skopein 看、观察。现代科学按各领域形成对应。",
+    "forms": "-scope／-scopy → -scopic 是学习对应；具体词可能从相应学术形容词借入，也可能在现代语言中构成。",
+    "branches": [
+      [
+        "远处、内部的观察",
+        "telescopic · endoscopic"
+      ],
+      [
+        "光谱与宏观层面",
+        "spectroscopic · macroscopic"
+      ]
+    ],
+    "contrasts": "不都表示拿某一种镜子看；spectroscopic 常说分析方法，macroscopic 常直接说肉眼尺度。先看前部和完整搭配。",
+    "practice": "The report compares macroscopic observations with spectroscopic measurements.\n\n报告比较了宏观观察与光谱测量。",
+    "words": [
+      "telescopic",
+      "endoscopic",
+      "spectroscopic",
+      "macroscopic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1955",
+    "meaning": "变化、状态的名词材料；发光现象名称",
+    "core": "-ESCENCE：某种状态、变化的命名，发光词各有来路",
+    "image": "fluorescence 是荧光，luminescence 是更广的非白炽发光；词尾相似，具体光学现象与命名线索各自不同。",
+    "intro": "联系拉丁 -escens、-escentia 等成为、变化材料。近代科学造发光名词时借用这些形式，有些相应英语动词反而后来才逆构。",
+    "forms": "fluorspar 萤石相关材料 + -escence → fluorescence；拉丁 lumin- 光 + -escence → luminescence。不能一律倒画成先有英语动词再加 -ence。",
+    "branches": [
+      [
+        "具体激发发光现象",
+        "fluorescence"
+      ],
+      [
+        "更广的非白炽发光",
+        "luminescence"
+      ]
+    ],
+    "contrasts": "fluorescence 属于 luminescence 范围中的一种；名称都含 -escence，不表示两者概念完全一样。",
+    "practice": "The lesson introduces fluorescence as a form of luminescence.\n\n这节课把荧光作为冷发光的一种形式来介绍。",
+    "words": [
+      "fluorescence",
+      "luminescence"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2159",
+    "meaning": "皮肤",
+    "core": "DERMATO-：把研究、疾病和相关人物限定到皮肤",
+    "image": "dermatology 是皮肤病学、皮肤科，dermatologist 是皮肤科医生；从对象到学科，再到人物，顺着读很清楚。",
+    "intro": "希腊 derma 皮肤，扩展词干 dermat-，加连接元音 o 进入近代医学构词。t 来自原有词干，不是现代英语随意添加。",
+    "forms": "derma／dermat- → dermato- + -logy → dermatology → dermatologist〔学科、人物对应〕。",
+    "branches": [
+      [
+        "学科、科室",
+        "dermatology"
+      ],
+      [
+        "相关医生",
+        "dermatologist"
+      ]
+    ],
+    "contrasts": "dermatologist 是有医学职业含义的皮肤科医生；不能把所有提供皮肤护理、美容服务的人都用这个词称呼。",
+    "practice": "The dermatologist explained the diagram of the skin.\n\n皮肤科医生讲解了那张皮肤结构图。",
+    "words": [
+      "dermatology",
+      "dermatologist"
+    ],
+    "exclude": {}
+  }
+]

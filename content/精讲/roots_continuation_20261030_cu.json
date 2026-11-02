@@ -1,0 +1,194 @@
+[
+  {
+    "id": "B3493",
+    "meaning": "警戒、保护；器具、人物和表达保留",
+    "core": "GUARD：盯住危险、守住边界",
+    "image": "guard → guarded；guardian、guardsman 人物；guardrail、guardhouse 用途设施；safeguard、bodyguard、lifeguard、mouthguard 复习。",
+    "intro": "guard 经法语借入、ward 本族词走不同路径。guardian 有法语人物词历史，不只用现代后缀替代；guarded reply 从戒备走向说话保留。",
+    "forms": "guard + -ed；guardian 借法语人物词；guard + -s- + man；guard + rail/house；body/life/mouth + guard；safeguard 另有法语借入背景。\n\n日耳曼看守词经法语进入，与 ward 同源而路径不同。\n\nwardrobe 借古北法语 warder 保管加 robe 衣物的组合；与 guard 是同族的不同借入形式。\n\nguardian 经法语 gardien、gardein 等接日耳曼看守词族。现代可指守护者、监护人，词末 -ian 的样子不能覆盖全部借入变化。",
+    "branches": [
+      [
+        "基本警戒与表达",
+        "guard · guarded"
+      ],
+      [
+        "守护人物",
+        "guardian · guardsman · bodyguard · lifeguard"
+      ],
+      [
+        "器具、场所与措施",
+        "guardrail · guardhouse · mouthguard · safeguard"
+      ],
+      [
+        "guard → guards：看守的人与防护物",
+        "guard · guards"
+      ],
+      [
+        "看守、保管材料进入 wardrobe 衣物收藏空间",
+        "guard · wardrobe · wardrobes"
+      ],
+      [
+        "守护 → guardian → guardians",
+        "guardians"
+      ]
+    ],
+    "contrasts": "guardian 长期照护、bodyguard 人身安保；guarded optimism 谨慎乐观；guardrail 非保证；blackguard 较旧人物贬称暂略。",
+    "practice": "The guard gave a guarded reply before returning to the guardhouse.\n\n警卫谨慎地答了一句，随后回到警卫室。",
+    "words": [
+      "guard",
+      "guarded",
+      "guardian",
+      "guardsman",
+      "bodyguard",
+      "lifeguard",
+      "guardrail",
+      "guardhouse",
+      "mouthguard",
+      "safeguard",
+      "guards",
+      "wardrobe",
+      "wardrobes",
+      "guardians"
+    ],
+    "exclude": {
+      "wire-guard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackguard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4205",
+    "meaning": "善加利用、产生收益到改善质量",
+    "core": "IMPROVE：让原有东西发挥得更好",
+    "image": "improve → improvement → improver，把动作、变化、人物或改良物放相邻。",
+    "intro": "旧法语收益背景，不硬拆 im- + prove；improvement 另有法语名词路径。进阶 improver 以实际课程场景理解。",
+    "forms": "盎格鲁法语 emprouwer、emprouwement；现代 improve + -ment/-er。\n\n收益、善加利用的早期词义发展为提高质量；不是现代 im 加 prove 的否定组合。\n\n盎格鲁法语产生收益的词发展成改善，并受 prove 类拼写影响。\n\n收益词发展成改善，英语 ment 命名改进或过程。\n\nimprove 经盎格鲁法语 emprouwer 使获益等，原来与 profit 词族有关，拼写后来受 -prove 类词影响。现代保留 e 加 -s，/v/ 后读 /z/。",
+    "branches": [
+      [
+        "改进、进步与进阶者",
+        "improve · improvement · improver"
+      ],
+      [
+        "improve → improved：使更好与变好",
+        "improve · improved"
+      ],
+      [
+        "improve → improving：从收益到变好",
+        "improve · improving"
+      ],
+      [
+        "improve → improvement → improvements：变好与具体改进",
+        "improve · improvement · improvements"
+      ],
+      [
+        "使有收益 → improve → improves",
+        "improves"
+      ]
+    ],
+    "contrasts": "improve/prove 改进与证明不同；improvement 变化、improver 人或材料；进步不等于完美。",
+    "practice": "The improvers made steady improvements through practice.\n\n这些已有基础的学习者通过练习不断进步。",
+    "words": [
+      "improve",
+      "improvement",
+      "improver",
+      "improved",
+      "improving",
+      "improvements",
+      "improves"
+    ],
+    "exclude": {
+      "self-improve": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2449",
+    "meaning": "车辆长名截短；小型载客和露营用途",
+    "core": "VAN：caravan 截短后的厢式车名称",
+    "image": "van → minivan、campervan；先讲结构，再讲家庭载客与露营用途。",
+    "intro": "先锋义 van 截自 vanguard，单独说明，不混成车辆义发展。较冷 devan 及筛谷等旧同形用法暂略。",
+    "forms": "caravan → van〔截短〕；mini-/camper + van；vanguard → van〔另一缩短〕。",
+    "branches": [
+      [
+        "厢式车与用途",
+        "van · minivan · campervan"
+      ]
+    ],
+    "contrasts": "van/fan 读音不同；van 车与先锋来自不同截短；campervan 和英式拖挂 caravan 的常见结构不同。",
+    "practice": "They replaced the delivery van with a campervan for their holiday.\n\n度假时，他们换下送货车，开上了露营车。",
+    "words": [
+      "van",
+      "minivan",
+      "campervan"
+    ],
+    "exclude": {
+      "e-van": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "devan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3597",
+    "meaning": "网络日志缩短；作者、文章和讨论圈",
+    "core": "BLOG：网络上的日志，再到写作者和博客圈",
+    "image": "blog → blogger；blogpost 单篇已有精讲，blogosphere 把整个圈子放最后。",
+    "intro": "截短和合成清楚讲；不把博客空间、单篇文章、作者混成同一个对象。博客不等于必须每天写私人日记。",
+    "forms": "web + log → weblog → blog；blog + -er 双写 g；blog + post；blog + -o- + sphere。\n\nweblog 缩成 blog，复数或三单结尾读 z，不重新拆 b 与 log。\n\nblog 缩自 weblog，vlog 再把 video 与 blog 混合；新词可以在截短词基础上继续混成、派生。",
+    "branches": [
+      [
+        "博客、作者和单篇内容",
+        "blog · blogger · blogpost"
+      ],
+      [
+        "整个讨论圈",
+        "blogosphere"
+      ],
+      [
+        "blog → blogs：网络日志、博客",
+        "blog · blogs"
+      ],
+      [
+        "blog 的博客动作与 video、blog 混成的 vlog",
+        "blog · blogs · blogged · blogging · blogger · bloggers · vlog · vlogs · vlogged · vlogging · vlogger · vloggers"
+      ]
+    ],
+    "contrasts": "blog 整体、blogpost 单篇、blogger 人、blogosphere 圈子；Blogger 大写也可服务专名。",
+    "practice": "The blogger’s latest blogpost was discussed across the blogosphere.\n\n博主最新一篇博文在博客圈受到讨论。",
+    "words": [
+      "blog",
+      "blogger",
+      "blogpost",
+      "blogosphere",
+      "blogs",
+      "blogged",
+      "blogging",
+      "bloggers",
+      "vlog",
+      "vlogs",
+      "vlogged",
+      "vlogging",
+      "vlogger",
+      "vloggers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3930",
+    "meaning": "压力、紧张及压力来源",
+    "core": "STRESS：承受压力；STRESSOR 把压力带来",
+    "image": "stress → stressful；stressor 单列来源，与已有两词精讲一起学习。",
+    "intro": "物理受力、重音和心理压力有各自用法，stressor 常用于产生压力、负荷的因素。不要因为后缀像人物就只找一个坏人。",
+    "forms": "stress + -ful/-or；stressful 性质、stressor 因素。",
+    "branches": [
+      [
+        "压力、性质和来源",
+        "stress · stressful · stressor"
+      ]
+    ],
+    "contrasts": "stress 状态、stressful 性质、stressor 来源；压力源不一定是人，也不对每个人造成同等影响。",
+    "practice": "The report identified several stressors in the stressful working environment.\n\n报告找出了那个高压工作环境中的几个压力源。",
+    "words": [
+      "stress",
+      "stressful",
+      "stressor"
+    ],
+    "exclude": {}
+  }
+]

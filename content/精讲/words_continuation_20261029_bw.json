@@ -1,0 +1,375 @@
+[
+  {
+    "word": "deal",
+    "ipa": "/diːl/",
+    "meaning": "分发；处理、应对；交易；待遇；大量",
+    "sense": "先是把东西分成份，再延伸到人与人分配、交换的交易；deal with 则已固定为处理、与人打交道。",
+    "split": "常用词族接古英语 dǣl 一份与 dǣlan 分配。名词和动词都有旧来路，不是所有名词义都由现代动词临时造出。木板、松木材料的同形 deal 另有借词背景，不硬归为一份。",
+    "history": [
+      [
+        "古英语 dǣl；相关动词 dǣlan → 中古英语 del、delen",
+        "一份；分开、分配"
+      ],
+      [
+        "英语 deal",
+        "分发；经营、往来；交易、待遇；大量这一固定短语用法"
+      ]
+    ],
+    "explanation": "deal cards 发牌，make a deal 达成交易，a good deal 划算的交易；a great deal of time 大量时间。deal with a problem 处理问题，deal in antiques 经营古董。过去式、过去分词 dealt /delt/。",
+    "usage": "deal with；deal in；make a deal；a raw deal；a great deal of。",
+    "contrast": "deal with 处理、与……打交道，deal in 经营某类商品；a good deal of 可表许多，不一定是在说一桩好买卖。",
+    "examples": [
+      [
+        "Who will deal the cards this time?",
+        "这次谁发牌？"
+      ],
+      [
+        "We need to deal with the booking problem first.",
+        "我们得先处理预订问题。"
+      ],
+      [
+        "The old house needs a great deal of work.",
+        "这所老房子需要做大量修整。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deal#English"
+    ]
+  },
+  {
+    "word": "dealing",
+    "ipa": "/ˈdiːlɪŋ/",
+    "meaning": "经营、交易；发牌；处理、交往的过程",
+    "sense": "把分发、买卖或应对当成正在进行的一种活动。",
+    "split": "deal + -ing，名词或分词用法。意思跟随当前 deal 是发牌、买卖还是处理问题来确定。",
+    "history": [
+      [
+        "古英语 dǣl；相关动词 dǣlan → 中古英语 del、delen",
+        "一份；分开、分配"
+      ],
+      [
+        "英语 deal",
+        "分发；经营、往来；交易、待遇；大量这一固定短语用法"
+      ],
+      [
+        "deal → dealing",
+        "分发、交易、处理 → 这些活动及进行状态"
+      ]
+    ],
+    "explanation": "art dealing 艺术品交易；dealing with complaints 处理投诉。fair dealing 公平交易、诚实往来，还可在某些制度中形成专门术语。",
+    "usage": "art dealing；dealing in antiques；dealing with customers；fair dealing。",
+    "contrast": "dealing in 说交易什么，dealing with 说处理什么、与谁打交道；不必看到 dealing 就理解成非法交易。",
+    "examples": [
+      [
+        "His business involves dealing in old maps and books.",
+        "他的生意涉及买卖旧地图和旧书。"
+      ],
+      [
+        "Dealing with customers requires patience.",
+        "与顾客打交道需要耐心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dealing#English"
+    ]
+  },
+  {
+    "word": "dealings",
+    "ipa": "/ˈdiːlɪŋz/",
+    "meaning": "往来；交易活动",
+    "sense": "不只看某一桩成交，而是看人与人、机构与机构怎样打交道。",
+    "split": "dealing + 复数 -s，常以复数形式说一段交往、商业往来或活动。现代固定用法不等于随便给所有 -ing 都加 s。",
+    "history": [
+      [
+        "古英语 dǣl；相关动词 dǣlan → 中古英语 del、delen",
+        "一份；分开、分配"
+      ],
+      [
+        "英语 deal",
+        "分发；经营、往来；交易、待遇；大量这一固定短语用法"
+      ],
+      [
+        "dealing → dealings",
+        "交易、交往 → 具体或持续的往来活动"
+      ]
+    ],
+    "explanation": "have dealings with 与……有往来；business dealings 商业往来；在调查报道中还可能说可疑交易，但词本身不自动含犯罪。",
+    "usage": "have dealings with；business dealings；in all one’s dealings with。",
+    "contrast": "a deal 可以是一桩交易；dealings with a supplier 是与供应商的往来，不必只限某一个合同。",
+    "examples": [
+      [
+        "I have had no dealings with that supplier before.",
+        "我以前没和那家供应商打过交道。"
+      ],
+      [
+        "She values honesty in all her business dealings.",
+        "她在所有商业往来中都重视诚信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dealings#English"
+    ]
+  },
+  {
+    "word": "dealer",
+    "ipa": "英 /ˈdiːlə/；美 /ˈdiːlər/",
+    "meaning": "经销商；商人；发牌者",
+    "sense": "一边是专门买卖某类东西的人或商家，另一边是给大家分牌的人。",
+    "split": "deal + -er，古英语已有相应名词 dǣlere。现代继承不同动词义，所以不是所有 dealer 都做同一种事。",
+    "history": [
+      [
+        "古英语 dǣl；相关动词 dǣlan → 中古英语 del、delen",
+        "一份；分开、分配"
+      ],
+      [
+        "英语 deal",
+        "分发；经营、往来；交易、待遇；大量这一固定短语用法"
+      ],
+      [
+        "deal → dealer",
+        "分发、经营 → 发牌者、经销商"
+      ]
+    ],
+    "explanation": "a car dealer 汽车经销商，an art dealer 艺术品商人；card dealer 发牌者。drug dealer 是特定搭配，不能反过来把所有 dealer 都读成毒贩。",
+    "usage": "a car dealer；an antiques dealer；an authorized dealer；the card dealer。",
+    "contrast": "dealer 常突出经营、经销具体商品，seller 泛指卖方；牌桌上的 dealer 却可以完全没有卖东西。",
+    "examples": [
+      [
+        "We bought the van from a local car dealer.",
+        "我们从当地一家汽车经销商买了这辆厢式车。"
+      ],
+      [
+        "The dealer shuffled the cards before the next round.",
+        "发牌者在下一轮前洗了牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dealer#English"
+    ]
+  },
+  {
+    "word": "dealership",
+    "ipa": "英 /ˈdiːləʃɪp/；美 /ˈdiːlərʃɪp/",
+    "meaning": "经销业务；经销商店、公司；经销资格",
+    "sense": "从做经销的人，转到他的业务、经营场所或被授予的经销身份。",
+    "split": "dealer + -ship，后缀表示业务、身份等；并不是 dealer 加船这个名词。",
+    "history": [
+      [
+        "古英语 dǣl；相关动词 dǣlan → 中古英语 del、delen",
+        "一份；分开、分配"
+      ],
+      [
+        "英语 deal",
+        "分发；经营、往来；交易、待遇；大量这一固定短语用法"
+      ],
+      [
+        "dealer + -ship → dealership",
+        "经销商 → 经销业务、机构或资格"
+      ]
+    ],
+    "explanation": "a car dealership 汽车经销商店，open a dealership 开设经销店；a dealership agreement 是经销协议。到底说机构还是资格，要看句子。",
+    "usage": "a car dealership；run a dealership；a dealership agreement。",
+    "contrast": "dealer 可以是商人或公司，dealership 更明确指经销业务、门店或资格；它不直接等于汽车制造厂。",
+    "examples": [
+      [
+        "She manages a small motorcycle dealership.",
+        "她管理一家小型摩托车经销店。"
+      ],
+      [
+        "The company awarded him a dealership for the region.",
+        "公司授予他在该地区的经销资格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dealership#English"
+    ]
+  },
+  {
+    "word": "singlet",
+    "ipa": "/ˈsɪŋɡlət/",
+    "meaning": "背心；某些运动中的紧身单件服",
+    "sense": "现在通常想到无袖贴身上衣；历史名字却抓住它没有里衬、单层这一点。",
+    "split": "single + 指小后缀 -let / -et 的构形，仿照 doublet 等衣物名称。早期用于无衬短上衣，后来发展为背心等服装名称；不是一份单人票。",
+    "history": [
+      [
+        "拉丁语 singulus → 古法语 sengle → 中古英语 single",
+        "一个的、单个的"
+      ],
+      [
+        "英语 single",
+        "单个、单独；相关词按数量、状态或衣物名称继续发展"
+      ],
+      [
+        "single 的单层义 + 指小形式 → singlet",
+        "无衬衣物名称 → 背心、某类运动服"
+      ]
+    ],
+    "explanation": "a running singlet 跑步背心；a wrestling singlet 摔跤紧身连体服。地区、项目不同，衣物具体样式也不同。",
+    "usage": "a cotton singlet；a running singlet；a wrestling singlet。",
+    "contrast": "single 是单个的，singlet 是固定衣物名；不能给所有 single things 都改叫 singlet。",
+    "examples": [
+      [
+        "He wore a light running singlet for the race.",
+        "他比赛时穿了一件轻薄跑步背心。"
+      ],
+      [
+        "The team’s singlets were blue with white numbers.",
+        "队员的比赛背心是蓝色的，印着白色号码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/singlet#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/singlet"
+    ]
+  },
+  {
+    "word": "singleness",
+    "ipa": "/ˈsɪŋɡəlnəs/",
+    "meaning": "单一；专一；单身状态",
+    "sense": "可以说生活里没有伴侣，也可以说心思只朝一个方向、不分散。",
+    "split": "single + -ness，把单个、未婚、专一等性质变成名词。具体义由后面的修饰内容决定。",
+    "history": [
+      [
+        "拉丁语 singulus → 古法语 sengle → 中古英语 single",
+        "一个的、单个的"
+      ],
+      [
+        "英语 single",
+        "单个、单独；相关词按数量、状态或衣物名称继续发展"
+      ],
+      [
+        "single → singleness",
+        "单一、单身、专一 → 相应状态、性质"
+      ]
+    ],
+    "explanation": "singleness of purpose 目标专一；her singleness 她的单身状态。前者不是说目标没有结婚，而是心无旁骛。",
+    "usage": "singleness of purpose；the experience of singleness；singleness of mind。",
+    "contrast": "singleness 单身不等于 loneliness 孤独；是否有伴侣与是否感到孤独不是同一个问题。",
+    "examples": [
+      [
+        "Her singleness of purpose helped the project survive many setbacks.",
+        "她目标专一，帮助项目挺过了多次挫折。"
+      ],
+      [
+        "The essay discusses singleness without treating it as a problem.",
+        "文章讨论单身状态，并没有把它当成问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/singleness#English"
+    ]
+  },
+  {
+    "word": "informational",
+    "ipa": "英 /ˌɪnfəˈmeɪʃənəl/；美 /ˌɪnfərˈmeɪʃənəl/",
+    "meaning": "提供信息的；与信息有关的",
+    "sense": "目的主要是把情况说明白，让人知道怎么回事。",
+    "split": "information + -al，形成与信息相关的形容词；不是把 information 误看成动词后再加时态。",
+    "history": [
+      [
+        "拉丁语 informāre → informātiō 等词族形式",
+        "赋予形态；教导、告知；说明"
+      ],
+      [
+        "经法语、英语历史发展 → information",
+        "信息、消息；现代又产生相关技术、学科名称"
+      ],
+      [
+        "information + -al → informational",
+        "信息 → 提供信息、与信息有关的"
+      ]
+    ],
+    "explanation": "an informational leaflet 信息说明传单；an informational meeting 介绍情况的会议；for informational purposes 供了解情况之用。",
+    "usage": "informational materials；an informational video；for informational purposes。",
+    "contrast": "informational 常说明用途、类别；informative 常评价内容让人得到知识、很有信息量。两者有重叠，不是绝对互斥。",
+    "examples": [
+      [
+        "The library prepared an informational leaflet for new members.",
+        "图书馆为新会员准备了一份信息介绍传单。"
+      ],
+      [
+        "The school held an informational meeting about the exchange programme.",
+        "学校举行了一次交流项目情况说明会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/informational#English"
+    ]
+  },
+  {
+    "word": "informatics",
+    "ipa": "英 /ˌɪnfəˈmætɪks/；美 /ˌɪnfərˈmætɪks/",
+    "meaning": "信息学；信息处理及其应用研究",
+    "sense": "研究信息怎样被获取、组织、处理、传递，以及这些过程怎样服务人和系统。",
+    "split": "20世纪形成的学科名称，构词与 information 的词干、学科后缀 -ics 有关，也有德语 Informatik、法语 informatique 等命名背景。不是说一堆信息的复数。",
+    "history": [
+      [
+        "拉丁语 informāre → informātiō 等词族形式",
+        "赋予形态；教导、告知；说明"
+      ],
+      [
+        "经法语、英语历史发展 → information",
+        "信息、消息；现代又产生相关技术、学科名称"
+      ],
+      [
+        "information 相关词干 + -ics → informatics",
+        "信息 → 研究信息处理及其应用的学科名称"
+      ]
+    ],
+    "explanation": "health informatics 健康、医疗信息学；bioinformatics 生物信息学。学校、行业对 informatics 的具体边界可能不同，不能处处直接等同某一门编程课。",
+    "usage": "study informatics；health informatics；a school of informatics。",
+    "contrast": "information 是信息，informatics 是研究领域；词尾 s 属于 -ics 学科名，通常说 Informatics is...，不是一定要用 are。",
+    "examples": [
+      [
+        "She studies informatics and is interested in how people use data.",
+        "她学习信息学，对人们如何使用数据很感兴趣。"
+      ],
+      [
+        "The university offers a course in health informatics.",
+        "大学开设了一门健康信息学课程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/informatics#English",
+      "https://informatics.ed.ac.uk/about/what-is-informatics",
+      "https://ischool.uw.edu/programs/informatics/what-is-informatics"
+    ]
+  },
+  {
+    "word": "numberless",
+    "ipa": "英 /ˈnʌmbələs/；美 /ˈnʌmbərləs/",
+    "meaning": "无数的；没有号码的",
+    "sense": "可以是多得数不过来，也可以按字面说没有给它分配号码。",
+    "split": "number + -less，没有……的；常用文学性义把没有可给出的数理解成数量极多，另有无编号的字面用法。",
+    "history": [
+      [
+        "拉丁语 numerus → 古法语 nombre → 中古英语 number",
+        "数；数量"
+      ],
+      [
+        "英语 number",
+        "数字、数量、编号；还可作编号等动词"
+      ],
+      [
+        "number + -less → numberless",
+        "数、号码 → 无数；没有号码的"
+      ]
+    ],
+    "explanation": "numberless stars 无数星辰；a numberless house 没有门牌号的房子。前者偏文学，日常很多场合直接说 countless、many。",
+    "usage": "numberless stars；numberless times；a numberless door。",
+    "contrast": "numberless 不等于数量为零；无数与无编号由名词、上下文分清。numbered 则是有编号的。",
+    "examples": [
+      [
+        "Numberless stars filled the dark sky.",
+        "无数星辰布满夜空。"
+      ],
+      [
+        "The address led us to a numberless door in a narrow lane.",
+        "地址把我们带到一条窄巷里一扇没有门牌号的门前。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/numberless#English"
+    ]
+  }
+]

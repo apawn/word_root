@@ -1,0 +1,149 @@
+"""Useful -ize verbs with their everyday bases, and conventional -ise variants."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+W('moisture','英 /ˈmɔɪstʃə/；美 /ˈmɔɪstʃər/','水分；湿气',
+ '叶子上的薄水珠、土壤里含的水、空气凝在窗上的湿气，都可说 moisture。通常是分散、附着的水分，不是一杯水的杯数。',
+ '经中古英语接古法语 moistour 潮湿、水分，与 moist 湿润的同族。不是现代 moisture 完全等于 moist 加一个普通 ure 就能代替它的法语借入史。',
+ [['古法语 moistour → 中古英语 moisture','潮湿、水分的材料'],['英语 moisture；与 moist 对照','湿气、水分／湿润的']],
+ 'retain moisture 保持水分；moisture in the soil 土壤水分；moisture on the windows 窗上的湿气。通常为不可数名词。',
+ 'retain moisture；moisture content。','moisture 是水分，humidity 尤常说空气湿度；地板上的一点水分不因此都叫 humidity。',
+ ('The soil retains moisture well.','这种土壤保水性很好。'),('Moisture had collected on the inside of the window.','窗户内侧凝起了水汽。'))
+W('moisturize','英 /ˈmɔɪstʃəraɪz/；美 /ˈmɔɪstʃəraɪz/','给皮肤保湿；使滋润',
+ '皮肤干，抹上乳液，让它没那么干，这个护理动作常叫 moisturize。比给任何东西洒水的泛义更常见。',
+ 'moisture 去末尾 e + -ize，形成提供、保持水分的动词；英式也常写 moisturise。',
+ [['moist、moisture','湿润的、水分'],['moisture + -ize → moisturize','让皮肤获得或保持水分']],
+ 'moisturize your hands 给手部保湿；a moisturizing lotion 保湿乳液；可不带宾语说 I moisturize daily。',
+ 'moisturize the skin；a moisturizing cream。','moisten 更泛指把东西弄湿，moisturize 尤常用于皮肤护理；给信封封口处润湿通常不用护肤词。',
+ ('She moisturizes her hands after washing them.','她洗手后会给手部保湿。'),('The lotion helps moisturize dry skin.','这款乳液帮助滋润干燥皮肤。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/moisturize'])
+W('moisturizer','英 /ˈmɔɪstʃəraɪzə/；美 /ˈmɔɪstʃəraɪzər/','保湿霜、保湿乳等保湿护肤品',
+ 'moisturize 是保湿动作，moisturizer 是拿来做这件事的产品。-er 在这里是东西，不是一个给别人抹乳液的职业。',
+ 'moisturize + -er，动词末尾 e 与后缀连接形成 moisturizer；词义固定到常见保湿产品。',
+ [['moisture → moisturize','水分 → 使皮肤保湿'],['moisturize + -er → moisturizer','用于保湿的产品']],
+ 'apply moisturizer 涂保湿霜、乳等；a facial moisturizer 面部保湿品。可数时说一种产品或一款保湿品，不可数时说涂的材料。',
+ 'apply moisturizer；a light moisturizer。','moisturizer 是产品，moisture 是水分；不是直接把一瓶护肤品叫 a moisture。不同产品成分和功能还要看本身。',
+ ('He applied a little moisturizer to his hands.','他在手上涂了少量保湿乳。'),('She keeps a bottle of moisturizer on the shelf.','她在架子上放了一瓶保湿品。'))
+W('item','/ˈaɪtəm/','一件物品；一项条目、议题；一则消息',
+ '清单一行一行列东西，每行里的一项就是 item；后来也直接说购物篮里的一件物品。',
+ '借拉丁 item 也、另外。账目、列表里逐条引入“另外一项”，这个引项词逐渐变成条目本身的名称。不是 it + em 的英语拼合。',
+ [['拉丁 item','也、另外，用于逐项列举'],['英语 item','被列出的一项；单件物品、消息等']],
+ 'an item on the agenda 一项议题；an item of clothing 一件衣物；a news item 一则新闻；three items 三件商品。',
+ 'a list of items；an item on the agenda。','item 强调一项、单件，article 可另指文章或一件物品，thing 更泛；议程的一项不是自动一篇 article。',
+ ('The next item on the agenda is the budget.','议程下一项是预算。'),('I only bought three items at the shop.','我在店里只买了三件东西。'))
+W('itemize','/ˈaɪtəmaɪz/','逐项列出；分项开列',
+ '不是只给一个总数，而是把每一项摊开：车费多少、材料费多少，一行行列出来。',
+ 'item 条目 + -ize，让内容按一个个 item 呈现。英式也常写 itemise。',
+ [['item','清单中的一项'],['item + -ize → itemize','把内容逐项列出']],
+ 'itemize expenses 逐项列支出；an itemized bill 明细账单；itemize the damage 逐项列损坏情况。',
+ 'itemize costs；an itemized bill。','summarize 抓总意、概括，itemize 展开各项；只给支出总额通常还不算已 itemized。',
+ ('Please itemize the expenses on your claim form.','请在报销表上逐项列出费用。'),('The hotel sent us an itemized bill.','酒店给我们发了一份明细账单。'))
+W('accessory','英 /əkˈsesəri/；美 /əkˈsesəri/','配件；饰品；从犯〔正式、法律语境〕',
+ '主体已经在那里，再配一个包、围巾或设备附件，这些辅助东西是 accessories；人物语境里则可指帮助犯罪的一方。',
+ '借中世纪拉丁 accessorius，接 accessor 辅助者及 accedere 接近、附加的词族。现代不能把完整 access 访问权限直接等同每个 accessory 的来源和意思。',
+ [['拉丁 accessor、accessorius 等','附加、辅助者及相应材料'],['英语 accessory','辅助配件、饰品；协助犯罪者等']],
+ 'fashion accessories 时尚配饰；phone accessories 手机配件；an accessory to a crime 犯罪的协助者。犯罪语境具体责任不能只由日常定义推出。',
+ 'fashion accessories；a phone accessory。','accessory 是附加、辅助品，不是主设备本身；accomplice 同谋与 accessory 在正式用法中可能有区别，普通阅读先看参与角色。',
+ ('The shop sells bags and other accessories.','店里卖包和其他配饰。'),('A protective case is a useful phone accessory.','保护壳是一件实用的手机配件。'))
+W('accessorize','英 /əkˈsesəraɪz/；美 /əkˈsesəraɪz/','用配饰搭配；给……配饰品',
+ '裙子已穿好，再加条腰带、一个包，把整身搭起来，这个动作是 accessorize。',
+ 'accessory 的词干 + -ize；y 在这种扩展中不保留为完整 accessoryize，而成 accessorize。英式也可写 accessorise。',
+ [['accessory','配件、饰品'],['accessory + -ize → accessorize','给服装等配饰品']],
+ 'accessorize an outfit 给一身衣服搭配饰；accessorize with a scarf 用围巾搭配。动词常取时尚配饰义，不是参与犯罪。',
+ 'accessorize an outfit；accessorize with。','accessorize 通常说增加配饰，dress 说穿衣、打扮范围更广；也不等于 grant access 授予访问权限。',
+ ('She accessorized the dress with a simple belt.','她用一条简单的腰带搭配那条裙子。'),('The article shows how to accessorize a plain outfit.','文章介绍怎样给简单的一身衣服搭配饰品。'))
+W('vandal','/ˈvændəl/','故意损坏公物、他人财物者',
+ '不是失手碰坏，而是故意砸、刻、破坏不属于自己的东西，这种人可叫 vandal。',
+ '普通名词来自 Vandals 汪达尔人的历史族名，以及后世把他们与破坏古罗马文物相联的叙述。英语的贬义名称反映后世评价，不能用它证明整个古代民族的行为都符合现代词义。',
+ [['Vandal、Vandals 历史族名','后世叙述中与破坏相联'],['小写普通名词 vandal','故意破坏财物、文物的人']],
+ 'vandals damaged the statue 滋事破坏者损坏了雕像；a vandal 是行为人物名，复数 vandals。',
+ 'a group of vandals；damage caused by vandals。','vandal 故意破坏者，thief 窃贼重在偷走东西；破坏者可能并不拿走财物。',
+ ('Vandals broke several windows at the school.','有人故意砸坏了学校的几扇窗户。'),('The statue was damaged by vandals.','雕像被破坏者损坏了。'),sources=['https://www.etymonline.com/word/vandalize'])
+W('vandalism','/ˈvændəlɪzəm/','故意破坏公物、他人财物的行为',
+ 'vandal 是人，vandalism 是那种故意毁坏东西的行为；不需要把它想成一派拥护破坏的学说。',
+ '借法语 vandalisme，十八世纪末在批评文物破坏的语境使用，材料来自 Vandal 与 -isme；英语可对应 vandal + -ism。',
+ [['Vandal 的历史命名 → 法语 vandalisme','用族名材料命名毁坏文物的行为'],['英语 vandalism','故意破坏公共、他人财物等行为']],
+ 'an act of vandalism 一次故意破坏行为；prevent vandalism 防止破坏；damage caused by vandalism 故意破坏造成的损失。',
+ 'an act of vandalism；prevent vandalism。','vandalism 强调故意破坏，accidental damage 是意外损坏；损坏的结果相似，行为性质可能不同。',
+ ('The park closed temporarily after an act of vandalism.','公园发生故意破坏事件后暂时关闭。'),('The campaign asks residents to report vandalism.','这项活动呼吁居民报告故意破坏公物的行为。'),sources=['https://www.etymonline.com/word/vandalize'])
+W('vandalize','/ˈvændəlaɪz/','故意损坏、破坏公物或他人财物',
+ '把 vandal 的破坏行为变成动词：他们砸坏站台、毁坏雕像，就可说 vandalize。',
+ '现代对应 vandal + -ize；历史也有由 vandalism 逆构的分析，不能把表面更短的动词绝对排在名词之前。',
+ [['vandal、vandalism 的既有材料','故意破坏者与破坏行为名称'],['vandalize','可按 vandal + -ize 或由名词逆构分析的动词']],
+ 'vandalize a building 故意破坏建筑；a vandalized bus shelter 被人损坏的公交候车亭；英式也常见 vandalise。',
+ 'vandalize property；a vandalized monument。','damage 损坏不必故意，vandalize 通常指故意破坏；这不是把物体装饰成汪达尔民族风格。',
+ ('Someone vandalized the bus shelter overnight.','有人在夜里故意损坏了公交候车亭。'),('The memorial had been vandalized.','那座纪念碑遭到了蓄意破坏。'),sources=['https://www.etymonline.com/word/vandalize'])
+W('compartmentalize','英 /ˌkɒmpɑːtˈmentəlaɪz/；美 /kəmˌpɑːrtˈmentəlaɪz/','分隔；分门别类、分开处理〔想法、生活领域等〕',
+ '像把东西放进不同小格：工作归工作，私人生活归私人生活；不让一格的情绪、信息总冲进另一格。',
+ 'compartment 隔间 + -al → compartmental，再接 -ize。中间的 -al 不能漏掉；更早 compartment 经法语、意大利语接划分的拉丁材料。',
+ [['compartment → compartmental','隔开的部分 → 相应形容词'],['compartmental + -ize → compartmentalize','分成隔开的部分；比喻分开处理']],
+ 'compartmentalize information 把信息分隔管理；compartmentalize work and personal life 把工作与私人生活分开。可以是实用安排，也可能被批评人为割裂，按场景看。',
+ 'compartmentalize information；compartmentalize one’s life。','categorize 主要是归类，compartmentalize 更有分隔、不互相渗透的感觉；不是所有分类表都强调这种隔离。',
+ ('She tries to compartmentalize work and personal life.','她尽量把工作和私人生活分开处理。'),('The organisation compartmentalized sensitive information.','机构将敏感信息分隔管理。'))
+W('actualize','英 /ˈæktʃuəlaɪz/；美 /ˈæktʃuəlaɪz/','实现；使潜能成为现实〔较正式〕',
+ '能力、可能性还停在可以做到，actualize 把它推到真正做到。最常见的理解点是让潜能落地。',
+ 'actual 实际的 + -ize；使成为实际。不是 actual 里 act 动作就能让每个用法自动等于 perform 表演。英式也可见 actualise。',
+ [['actual','实际的、现实存在的'],['actual + -ize → actualize','使可能或潜能成为实际']],
+ 'actualize one’s potential 发挥、实现潜能；actualize a vision 把愿景实现。较正式，日常常直接用 realize、achieve、put into practice 等相应表达。',
+ 'actualize potential；actualize a vision。','realize 还常指意识到，actualize 通常不代替这个认知义；“我意识到忘带钥匙”不用 I actualized that …。',
+ ('The programme helps students actualize their potential.','这个项目帮助学生发挥潜能。'),('The team worked to actualize the original vision.','团队努力把最初的愿景变成现实。'))
+W('evangelize','/ɪˈvændʒəlaɪz/','传福音；积极宣扬、推广〔比喻〕',
+ '宗教语境是向人传播福音；科技、商业话题里也可比喻热心讲一种做法的好处，希望更多人采用。',
+ '经法语、晚期拉丁 evangelizare 接希腊 euangelizein 传播好消息，eu- 好 + angel- 消息、使者的材料。词尾与 -ize 同族，但整个历史词不是今天英语临时拼出来。',
+ [['希腊 euangelizein → 拉丁 evangelizare、法语相关形式','传播好消息、福音'],['英语 evangelize','传福音；比喻积极倡导、推广']],
+ 'evangelize about a technology 积极宣讲某技术；evangelize a community 可在宗教场景说向社群传福音。比喻义通常比简单 mention 提一下强。',
+ 'evangelize about；evangelize for a cause。','explain 是解释，evangelize 常带热心劝说、传播信念的劲头；不等于所有介绍产品的中性动作。',
+ ('The book describes how missionaries evangelized in the region.','书中描述了传教士怎样在当地传福音。'),('He spends much of his time evangelizing about open standards.','他花很多时间积极推广开放标准。'))
+W('proselytize','英 /ˈprɒsələtaɪz/；美 /ˈprɑːsələtaɪz/','劝人改信；积极拉人接受某种主张〔常含不满〕',
+ '不只是说出自己的信仰，而是努力让对方也改信、加入；政治理念等也可这样用，有时带拉人入派的批评。',
+ 'proselyte 新皈依者的材料 + -ize；proselyte 经拉丁接希腊 proselytos 来到的人、后来加入者等。现代不拆成 prose 散文 + lytize。',
+ [['希腊 proselytos → proselyte 的词族','来到者、新加入或皈依者'],['proselyte + -ize → proselytize','劝人改变信仰、加入某主张']],
+ 'proselytize for a religion 劝人改信某宗教；proselytize among students 在学生中拉人接受主张。可与 discuss 讨论的语气明显不同。',
+ 'proselytize for；attempt to proselytize。','evangelize 原义强调传播福音，proselytize 更突出让别人改变信仰或立场；实际语境可重叠，二者也可能带不同评价。',
+ ('The meeting was intended for discussion, not for proselytizing.','这次会议本是用来讨论的，不是拉人改信的。'),('He denied trying to proselytize for any political movement.','他否认自己试图为任何政治运动拉人入派。'))
+W('plagiarist','/ˈpleɪdʒərɪst/','抄袭者；剽窃者',
+ 'plagiarize 是抄袭，plagiarism 是抄袭行为，plagiarist 是把别人成果冒充自己成果的人。',
+ 'plagiarism 的词族接 -ist 形成人物名，历史还有更早 plagiary 文学窃贼的材料；不要按英语词长替整个词族编固定出现顺序。',
+ [['plagiary、plagiarism 等较早材料','文学剽窃的人物、行为词族'],['plagiarist','抄袭、剽窃他人成果的人']],
+ 'an alleged plagiarist 被指控的抄袭者；a plagiarist’s work 抄袭者的作品。描述具体人时要分清指控与已确认事实。',
+ 'a plagiarist；an alleged plagiarist。','plagiarist 指人，plagiarism 指行为；write about plagiarism 讨论抄袭，不等于自己就是 a plagiarist。',
+ ('The novel exposes its narrator as a plagiarist.','小说揭露叙述者原来是个抄袭者。'),('The article distinguishes a careless citation error from the deliberate work of a plagiarist.','文章区分了疏忽造成的引用错误与抄袭者的蓄意剽窃。'),sources=['https://www.etymonline.com/word/plagiarism'])
+def variant(word,base,ipa,meaning,picture,detail,ex1,ex2):
+ W(word,ipa,meaning,picture,
+  f'{base} 的常见 -ise 拼写变体；这一组 -ise／-ize 承接相同动词构词材料，不能推广到所有末尾有 ise 的词。',
+  [[f'{base} 的既有词族','基础材料和动词意义相同'],[f'{base}／{word}','常见拼写变体，不是新造一个相反动作']],
+  detail,f'{word}；具体宾语和搭配与 {base} 对应。',
+  f'{word} 和 {base} 在这里意义、基本读音对应；不是每个 -ise 词都能机械改 z，如 advise、surprise 要分别记。',ex1,ex2)
+variant('moisturise','moisturize','英 /ˈmɔɪstʃəraɪz/；美 /ˈmɔɪstʃəraɪz/','给皮肤保湿；使滋润〔常见英式拼写〕',
+ '皮肤干时抹乳液，让它滋润些；与 moisturize 是同一护理动作，不是清洁、洗掉水分。',
+ 'moisturise your hands 给手部保湿；moisturising cream 保湿霜。英式英语也使用 -ize 规范，一篇文章可随所采用规范统一。',
+ ('She moisturises her hands before bed.','她睡前会给手部保湿。'),('This cream moisturises without feeling heavy.','这款霜用来保湿，感觉不厚重。'))
+variant('itemise','itemize','/ˈaɪtəmaɪz/','逐项列出；分项开列〔常见英式拼写〕',
+ '把总账摊开成一行一项，让人看清每一笔是什么。itemise 和 itemize 做的是同一件事。',
+ 'itemise costs 分项列费用；an itemised receipt 明细收据。只有合计数的账单不因此已经叫 itemised。',
+ ('Please itemise the travel costs.','请逐项列出差旅费用。'),('We requested an itemised receipt.','我们要求提供明细收据。'))
+variant('accessorise','accessorize','英 /əkˈsesəraɪz/；美 /əkˈsesəraɪz/','用配饰搭配〔常见英式拼写〕',
+ '衣服穿好，再配腰带、项链、包；accessorise 把附加配饰带进整体装扮。',
+ 'accessory 的词干接 -ise，y 不保留成 accessoryise；accessorise with a necklace 用项链搭配。',
+ ('She accessorised the outfit with a silver necklace.','她用一条银项链搭配那身衣服。'),('The guide explains how to accessorise for a formal event.','指南介绍参加正式活动时怎样搭配饰品。'))
+variant('vandalise','vandalize','/ˈvændəlaɪz/','蓄意破坏公物、他人财物〔常见英式拼写〕',
+ '故意把站台、建筑或雕像弄坏，换成 s 拼写也仍是这种蓄意破坏。',
+ 'vandal／vandalism 的词族接 -ise，与 vandalize 对应；现代名词、动词的先后不能只按词形长短推断。',
+ ('The playground was vandalised during the night.','游乐场夜里遭到蓄意破坏。'),('Someone had vandalised the information board.','有人蓄意破坏了信息告示牌。'))
+variant('compartmentalise','compartmentalize','英 /ˌkɒmpɑːtˈmentəlaɪz/；美 /kəmˌpɑːrtˈmentəlaɪz/','分隔；把不同领域分开处理〔常见英式拼写〕',
+ '把工作、家庭等放进不同小格，不让一边的事情总淹到另一边，是常见的比喻画面。',
+ 'compartment + -al + -ise，-al 这一层在 s 拼写里也保留；可以分隔信息，也可以分开处理生活领域。',
+ ('He tries to compartmentalise his different responsibilities.','他尽量把不同职责分开处理。'),('The team compartmentalised the information for security reasons.','团队出于安全考虑把信息分隔管理。'))
+variant('actualise','actualize','英 /ˈæktʃuəlaɪz/；美 /ˈæktʃuəlaɪz/','实现；使潜能成为现实〔常见英式拼写，较正式〕',
+ '原来只是可以做到，后来真的发挥出来；actualise 让可能性落到实际。',
+ 'actual + -ise，与 actualize 对应；actualise one’s potential 发挥潜能，不能代替 realize 的所有意识到义。',
+ ('The course aims to help learners actualise their potential.','课程旨在帮助学习者发挥潜能。'),('The design actualises an idea developed over many years.','这个设计实现了一个酝酿多年的想法。'))
+R('A1834','使成为、使具有；实施某种行为〔动词词尾〕',
+ 'IZE：把一个性质、东西或做法，变成可以执行的动作',
+ 'item 是一项项内容，itemize 是把它们逐项列出；moisture 是水分，moisturize 是使皮肤滋润；modern 现代的，modernize 是使现代化。',
+ '-ize 经古法语 -iser、-izer 和晚期拉丁 -izare 接希腊 -izein，形成与名词、形容词相关的动词。它可说使成为、提供某物、按某方式处理，也能命名特定行为。一个后缀只给方向，实际动作仍要逐词看。',
+ 'moisture 去 e + -ize；accessory 以相应词干接 -ize；compartment + -al + -ize，不能漏掉 -al。-ise 是许多词的常见英式变体，-ize 也用于英式规范；不是所有 advise、surprise 之类 ise 结尾都能任意换 z。借词和逆构词要保留各自历史，不能所有词都画成现代英语现场拼装。',
+ [['从基础名词到动作、产品','moist · moisture · moisturize · moisturise · moisturizer；item · itemize · itemise'],['配饰、分隔与实现','accessory · accessorize · accessorise；compartment · compartmentalize · compartmentalise；actual · actualize · actualise'],['行为名、人和动词连读','vandal · vandalism · vandalize · vandalise；plagiarize · plagiarism · plagiarist'],['常用的状态或处理动作','modernize · standardize · prioritize · summarize · categorize · customize；evangelize · proselytize']],
+ 'itemize 逐项列出／summarize 概括；moisturize 皮肤保湿／moisten 泛指弄湿；actualize 实现不代替 realize 所有意识到用法；vandalize 蓄意破坏／damage 不必故意。',
+ 'Please itemize the costs before we finalize and standardize the process.\n\n在最终确定并统一流程之前，请先把费用逐项列出来。',
+ 'moist moisture moisturize moisturise moisturizer item itemize itemise accessory accessorize accessorise compartment compartmentalize compartmentalise actual actualize actualise vandal vandalism vandalize vandalise plagiarize plagiarism plagiarist evangelize proselytize realize realise apologize minimize criticize maximize stabilize capitalize prioritize specialize customize visualize legalize summarize socialize jeopardize modernize normalize materialize synthesize subsidize categorize generalize finalize revitalize revolutionize fantasize familiarize terrorize colonize energize scrutinize legitimize penalize patronize standardize synchronize personalize sterilize fertilize conceptualize criminalize equalize privatize hypnotize internalize theorize localize hypothesize idolize formalize monopolize vaporize incentivize popularize unionize humanize initialize centralize sanitize commercialize marginalize oxidize crystallize immobilize memorialize romanticize digitize polarize contextualize politicize verbalize victimize liberalize weaponize institutionalize democratize trivialize idealize radicalize satirize economize')
+if __name__=='__main__':save('continuation_20261030_qo',ROOTS,WORDS)

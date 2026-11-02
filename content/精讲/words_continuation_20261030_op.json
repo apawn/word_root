@@ -1,0 +1,589 @@
+[
+  {
+    "word": "slack",
+    "ipa": "/slæk/",
+    "meaning": "松弛的；懈怠的；清淡的；松弛部分；富余；松懈",
+    "sense": "绳子没拉紧，垂下来一截，是 slack。人干活松了劲、业务没那么忙，也能接上“不紧”的画面。",
+    "split": "承古英语 slæc 及相关动词，经中古英语延续。松弛名词可指绳索余量，再借为可用余地、未满负荷的部分；地形、煤屑等同形词有别的历史材料。",
+    "history": [
+      [
+        "古英语 slæc、slacian → 中古英语 slak、slakken → slack",
+        "松、不紧；放松、减弱"
+      ],
+      [
+        "slack + -er、-en",
+        "不尽力的人；使松、使强度减弱"
+      ]
+    ],
+    "explanation": "a slack rope 松绳；slack demand 清淡需求；slack off 偷懒、放松；take up the slack 收紧余量、补上缺口；cut someone some slack 别对某人太苛刻。",
+    "usage": "slack off；take up the slack；cut someone some slack。",
+    "contrast": "slack 可中性说松或业务淡，不必每次责备懒惰；slacks 长裤常用复数，是另一固定衣物用法。",
+    "examples": [
+      [
+        "The rope was too slack to hold the banner straight.",
+        "绳子太松，没法把横幅拉直。"
+      ],
+      [
+        "Could you cut him some slack on his first day?",
+        "他第一天来，能不能别对他那么苛刻？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slack#English"
+    ]
+  },
+  {
+    "word": "slacker",
+    "ipa": "英 /ˈslækə/；美 /ˈslækər/",
+    "meaning": "偷懒、不尽责的人；懒散的人",
+    "sense": "明明该一起出力，却总让别人多干，可能被嫌是 a slacker。重点是该出的力没出，不是单纯今天没工作。",
+    "split": "slack + -er → slacker，接松懈、偷懒动词分支，常与 slack off 联系。ck 已是辅音组合，不再双写 k。",
+    "history": [
+      [
+        "古英语 slæc、slacian → 中古英语 slak、slakken → slack",
+        "松、不紧；放松、减弱"
+      ],
+      [
+        "slack + -er、-en",
+        "不尽力的人；使松、使强度减弱"
+      ],
+      [
+        "slack + -er → slacker",
+        "不肯尽应有努力的人"
+      ]
+    ],
+    "explanation": "a slacker in the team 团队里偷懒的人；call someone a slacker 说某人不尽责，通常负面。",
+    "usage": "a slacker；call someone a slacker。",
+    "contrast": "unemployed 只说失业，slacker 评价努力、责任；不能把没有工作与偷懒直接画等号。",
+    "examples": [
+      [
+        "The team resented the slacker who left every task to others.",
+        "团队很不满那个把每件事都留给别人的偷懒者。"
+      ],
+      [
+        "She is no slacker; she finished her share before lunch.",
+        "她可不偷懒，午饭前就干完了自己的份内工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slacker#English"
+    ]
+  },
+  {
+    "word": "slacken",
+    "ipa": "/ˈslækən/",
+    "meaning": "使松弛；放松；减弱、放缓",
+    "sense": "把拉紧的绳子放松一点，或雨势、节奏弱下来，都可说 slacken。-en 把松的状态变成变化动作。",
+    "split": "中古英语已有 slakenen 等形式，现代对应 slack + -en。可及物使变松，也可不及物自行减弱。",
+    "history": [
+      [
+        "古英语 slæc、slacian → 中古英语 slak、slakken → slack",
+        "松、不紧；放松、减弱"
+      ],
+      [
+        "slack + -er、-en",
+        "不尽力的人；使松、使强度减弱"
+      ],
+      [
+        "slack + -en → slacken",
+        "变松、使松；强度或速度降低"
+      ]
+    ],
+    "explanation": "slacken the rope 放松绳子；slacken the pace 放缓步伐；the rain slackens 雨势减弱。",
+    "usage": "slacken the rope；slacken the pace。",
+    "contrast": "slacken 只说强度、紧度降低，不保证完全停止；slack off 在工作语境更容易带偷懒评价。",
+    "examples": [
+      [
+        "The rain began to slacken after midnight.",
+        "午夜过后，雨势开始减弱。"
+      ],
+      [
+        "He slackened the rope a little.",
+        "他把绳子稍微放松了一点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slacken#English"
+    ]
+  },
+  {
+    "word": "mole",
+    "ipa": "英 /məʊl/；美 /moʊl/；墨西哥酱名常 /ˈmoʊleɪ/",
+    "meaning": "鼹鼠；内鬼；痣；摩尔；〔饮食〕墨西哥莫莱酱",
+    "sense": "鼹鼠在地底活动，卧底像藏在组织内部；脸上的痣和化学的摩尔却不是从这只动物变来。读到 mole，先看是花园、间谍、皮肤还是化学。",
+    "split": "痣承古英语 māl 斑点；鼹鼠经中古英语相关名词，更早来源路线有讨论，不确定只是 moldwarp 截短。单位借德语 Mol 的分子词缩短；酱料名经西班牙语接纳瓦特尔语 mōlli。",
+    "history": [
+      [
+        "古英语 māl 斑点 → mole 皮肤痣；中古英语 molle 等 → mole 鼹鼠",
+        "同形异源；鼹鼠更早与土相关材料的具体路线有争论"
+      ],
+      [
+        "鼹鼠钻入地下 → mole 潜伏内部的间谍",
+        "动物形象到秘密身份"
+      ],
+      [
+        "德语 Mol 缩自 Molekül → 英语 mole；西班牙 mole 接纳瓦特尔语酱料名",
+        "单位与食物又是不同来源"
+      ]
+    ],
+    "explanation": "a molehill 鼹鼠丘；a mole in the organisation 内部间谍；a mole on the cheek 面颊上的痣；one mole 一摩尔，含6.02214076×10²³个指定基本单元。",
+    "usage": "a mole on；one mole；a mole in the organisation。",
+    "contrast": "mole 单位计物质的量，不是固定质量的一袋；mole 酱也不意味着含鼹鼠。单个分子叫 molecule，数量单位叫 mole。",
+    "examples": [
+      [
+        "A mole had dug a tunnel beneath the lawn.",
+        "一只鼹鼠在草坪下挖了地道。"
+      ],
+      [
+        "She has a small mole on her cheek.",
+        "她面颊上有一颗小痣。"
+      ],
+      [
+        "One mole contains a fixed number of specified entities.",
+        "一摩尔包含固定数量的指定基本单元。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mole#English",
+      "https://www.etymonline.com/word/mole",
+      "https://www.bipm.org/en/si-base-units/mole"
+    ]
+  },
+  {
+    "word": "saddle",
+    "ipa": "/ˈsædəl/",
+    "meaning": "马鞍；自行车座；给……装鞍；使承担负担",
+    "sense": "坐在马背上的座具是 saddle，自行车供人坐的小座也借这个名。把任务硬扣给别人，就像给马装上一副负担，叫 saddle someone with it。",
+    "split": "承古英语 sadol 及相应装鞍动词，更早常与坐的材料联系，但构形有争论，不说是现代 sad 悲伤 + -dle。后有座具扩展与负担比喻。",
+    "history": [
+      [
+        "古英语 sadol、sadolian 等 → saddle 名词、动词",
+        "骑乘座具与装鞍动作"
+      ],
+      [
+        "saddle + -ing → saddling；saddle someone with",
+        "装鞍活动；把负担加给人的比喻"
+      ]
+    ],
+    "explanation": "a horse saddle 马鞍；a bicycle saddle 自行车座；saddle a horse 给马备鞍；be saddled with debt 背上债务。",
+    "usage": "a bicycle saddle；saddle someone with。",
+    "contrast": "saddle 座具不只马鞍；saddled with 常带负担不情愿，不是所有普通承担任务的中性表达。",
+    "examples": [
+      [
+        "She adjusted the height of the bicycle saddle.",
+        "她调整了自行车座的高度。"
+      ],
+      [
+        "The team was saddled with work that nobody had planned for.",
+        "团队被压上了一堆原先没人安排过的工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saddle#English"
+    ]
+  },
+  {
+    "word": "saddling",
+    "ipa": "/ˈsædlɪŋ/",
+    "meaning": "备鞍、装鞍；把负担加给；saddle 的 -ing 形式",
+    "sense": "saddling the horse 是给马装鞍；saddling a team with extra work 则是把额外任务压给团队。后面的对象和 with 把两种场景分开。",
+    "split": "saddle 去末 e + -ing → saddling，原来的 dd 保留。动词形式也可作装鞍活动名词。",
+    "history": [
+      [
+        "古英语 sadol、sadolian 等 → saddle 名词、动词",
+        "骑乘座具与装鞍动作"
+      ],
+      [
+        "saddle + -ing → saddling；saddle someone with",
+        "装鞍活动；把负担加给人的比喻"
+      ],
+      [
+        "saddle + -ing → saddling",
+        "装鞍活动，或正在把负担加给"
+      ]
+    ],
+    "explanation": "saddling a horse 给马装鞍；saddling someone with a task 把任务压给某人；并非每次都和马有关。",
+    "usage": "saddling a horse；saddling someone with。",
+    "contrast": "saddling 的 -ing 不添加承担者身份；saddler 才是另一个人物名词，常指鞍具制作、修理者。",
+    "examples": [
+      [
+        "He was saddling the horse when we arrived.",
+        "我们到的时候，他正在给马备鞍。"
+      ],
+      [
+        "The manager avoided saddling one person with every urgent task.",
+        "经理避免把所有急事都压给一个人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saddling#English"
+    ]
+  },
+  {
+    "word": "sorrow",
+    "ipa": "英 /ˈsɒrəʊ/；美 /ˈsɑːroʊ/",
+    "meaning": "悲伤、哀痛；伤心事",
+    "sense": "不是一瞬间不高兴，而常是一种沉沉的难过。不可数 sorrow 是这种感受，复数 sorrows 则能把不同伤心事数出来。",
+    "split": "承古英语 sorg、sorh 等忧虑、哀痛词，经中古英语 sorwe 等延续。虽然像 sorry、sore，历史并不来自同一条直接词源。",
+    "history": [
+      [
+        "古英语 sorg、sorh 忧虑、悲伤 → 中古英语 sorwe → sorrow",
+        "忧伤、哀痛；不同于 sorry 的另一来源"
+      ],
+      [
+        "旧 sorhful 等 → sorrowful",
+        "现代可对应 sorrow + -ful，充满悲伤"
+      ]
+    ],
+    "explanation": "deep sorrow 深切悲伤；joys and sorrows 喜乐与忧伤；to my sorrow 令我伤心的是；也有较文学的悲伤动词。",
+    "usage": "deep sorrow；joys and sorrows。",
+    "contrast": "sadness 较一般，sorrow 常显得更深、更有哀痛或文学色彩；sorry 不能简单当 sorrow 的短形容词。",
+    "examples": [
+      [
+        "She expressed deep sorrow at the loss.",
+        "她对这次失去表达了深切哀痛。"
+      ],
+      [
+        "They shared the joys and sorrows of everyday life.",
+        "他们分享着日常生活里的喜与忧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sorrow#English"
+    ]
+  },
+  {
+    "word": "sorrowful",
+    "ipa": "英 /ˈsɒrəʊfəl/；美 /ˈsɑːroʊfəl/",
+    "meaning": "悲伤的、忧伤的；令人伤心的",
+    "sense": "sorrow 是心里的哀伤，sorrowful 把它放到脸、声音、故事上：看起来、听起来都带着悲意。",
+    "split": "古英语 sorhful、sorgful 等形容词延续，现代对应 sorrow + -ful。-ful 只有一个 l，读轻 /fəl/。",
+    "history": [
+      [
+        "古英语 sorg、sorh 忧虑、悲伤 → 中古英语 sorwe → sorrow",
+        "忧伤、哀痛；不同于 sorry 的另一来源"
+      ],
+      [
+        "旧 sorhful 等 → sorrowful",
+        "现代可对应 sorrow + -ful，充满悲伤"
+      ]
+    ],
+    "explanation": "a sorrowful expression 悲伤表情；a sorrowful voice 忧伤声音；a sorrowful tale 伤心故事。",
+    "usage": "a sorrowful expression；a sorrowful voice。",
+    "contrast": "sorrowful 主要写悲伤，不是 apologetic 道歉的通用替代词；不要因为 sorry 相近就把它都翻成抱歉。",
+    "examples": [
+      [
+        "He gave her a sorrowful look.",
+        "他忧伤地看了她一眼。"
+      ],
+      [
+        "The song tells a sorrowful tale of separation.",
+        "歌曲讲述了一个悲伤的离别故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sorrowful#English"
+    ]
+  },
+  {
+    "word": "tar",
+    "ipa": "英 /tɑː/；美 /tɑːr/",
+    "meaning": "焦油；涂焦油；〔计算机〕tar 归档程序、文件",
+    "sense": "黑、黏、稠的一类焦油物质是 tar，旧时可给船上材料作防水处理。电脑里的 .tar 却是 tape archive 的缩写，文件并没有涂焦油。",
+    "split": "物质名承古英语 teoru，经中古英语延续，旧词联系树木、树脂材料；后来也指煤等来源焦油。计算机 tar 是独立缩略命名，不把它当物质词的现代比喻。",
+    "history": [
+      [
+        "古英语 teoru 树脂、焦油材料 → 中古英语 ter → tar",
+        "黑黏物质名，旧材料与树木有关"
+      ],
+      [
+        "tar + macadam → tarmacadam → tarmac",
+        "焦油碎石铺面到道路、机场铺装面名称"
+      ],
+      [
+        "tar + palling 等帆布材料 → tarpaulin",
+        "防水罩布的旧名，细部构形有讨论"
+      ]
+    ],
+    "explanation": "coal tar 煤焦油；tar a surface 给表面涂焦油；a tar archive 一个 tar 归档；tarred with the same brush 被一概作同样负面评价。",
+    "usage": "coal tar；a tar archive；tarred with the same brush。",
+    "contrast": "tar 焦油与石油沥青等材料不能仅凭黑色混为同一物；tar 文件的归档也不自动表示内容已经压缩。",
+    "examples": [
+      [
+        "The old rope was coated with tar.",
+        "旧绳上涂着焦油。"
+      ],
+      [
+        "The folder was stored in a tar archive.",
+        "文件夹保存在一个 tar 归档中。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tar#English",
+      "https://www.etymonline.com/word/tar"
+    ]
+  },
+  {
+    "word": "tarmac",
+    "ipa": "英 /ˈtɑːmæk/；美 /ˈtɑːrmæk/",
+    "meaning": "柏油碎石铺面；铺装路面；机场铺装地面",
+    "sense": "先是焦油与碎石的铺面名称，后来口语常拿它称道路、机场供飞机活动的铺装地面。机场的 on the tarmac 不必每次精确到正在起飞的跑道。",
+    "split": "tarmacadam 缩短为 tarmac，原为商标名称；tar 焦油 + macadam 碎石铺路材料，后者来自 McAdam 人名。",
+    "history": [
+      [
+        "古英语 teoru 树脂、焦油材料 → 中古英语 ter → tar",
+        "黑黏物质名，旧材料与树木有关"
+      ],
+      [
+        "tar + macadam → tarmacadam → tarmac",
+        "焦油碎石铺面到道路、机场铺装面名称"
+      ],
+      [
+        "tar + palling 等帆布材料 → tarpaulin",
+        "防水罩布的旧名，细部构形有讨论"
+      ],
+      [
+        "tar + macadam → tarmacadam → tarmac",
+        "铺面材料名 → 铺好的路、机场地面"
+      ]
+    ],
+    "explanation": "a tarmac road 铺装公路；on the tarmac 在机场铺装地面上；现代通俗材料用法范围可能比原工艺宽。",
+    "usage": "a tarmac road；on the tarmac。",
+    "contrast": "tarmac 机场用法不是永远等于 runway 跑道；也不能由字面断定现代每片相关路面都用原先的煤焦油工艺。",
+    "examples": [
+      [
+        "The aircraft waited on the tarmac.",
+        "飞机在机场铺装地面上等待。"
+      ],
+      [
+        "The gravel track joined a narrow tarmac road.",
+        "碎石小路接上了一条窄铺装公路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tarmac#English",
+      "https://www.etymonline.com/word/tarmac"
+    ]
+  },
+  {
+    "word": "tarpaulin",
+    "ipa": "英 /tɑːˈpɔːlɪn/；美 /tɑːrˈpɔːlɪn/",
+    "meaning": "防水帆布；防水篷布、罩布",
+    "sense": "下雨前盖住货物、木料的那大张防水布，就是 tarpaulin。今天可能是塑料或其他材料，不要求真有一层焦油。",
+    "split": "历史通常联系 tar 与 palling、pall 等厚罩布材料，原来防水处理的命名细节仍有讨论。现代也常缩成 tarp。",
+    "history": [
+      [
+        "古英语 teoru 树脂、焦油材料 → 中古英语 ter → tar",
+        "黑黏物质名，旧材料与树木有关"
+      ],
+      [
+        "tar + macadam → tarmacadam → tarmac",
+        "焦油碎石铺面到道路、机场铺装面名称"
+      ],
+      [
+        "tar + palling 等帆布材料 → tarpaulin",
+        "防水罩布的旧名，细部构形有讨论"
+      ],
+      [
+        "tar + palling 等相关罩布材料 → tarpaulin",
+        "旧防水布名称 → 现代各种防水罩布"
+      ]
+    ],
+    "explanation": "a waterproof tarpaulin 防水篷布；cover with a tarpaulin 用篷布盖住；a sheet of tarpaulin 一张防水布。",
+    "usage": "cover with a tarpaulin；a tarpaulin sheet。",
+    "contrast": "tarpaulin 指罩布、材料，不必是完整的帐篷 tent；现代不能从 tar 断定它一定沾着焦油。",
+    "examples": [
+      [
+        "They covered the woodpile with a tarpaulin.",
+        "他们用防水篷布盖住木堆。"
+      ],
+      [
+        "Rain drummed on the blue tarpaulin.",
+        "雨点咚咚打在蓝色篷布上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tarpaulin#English",
+      "https://www.etymonline.com/word/tar"
+    ]
+  },
+  {
+    "word": "choke",
+    "ipa": "英 /tʃəʊk/；美 /tʃoʊk/",
+    "meaning": "噎住、窒息；堵塞；哽咽；〔比赛等〕紧张失常",
+    "sense": "本来该顺畅通过的气、话、动作，卡住了：吃东西噎住、路被堵住、感动得说不出话，都能接这个画面。",
+    "split": "中古英语 choken 等由更早 acheken 缩短，上接古英语 aceocian，常联系旧颌、颊词族。堵塞、情绪与临场失常等比喻后来各有固定搭配。",
+    "history": [
+      [
+        "古英语 aceocian → 中古英语 acheken、choken → choke",
+        "气流、呼吸受阻，常联系旧颌颊材料"
+      ],
+      [
+        "choke → 堵塞、情绪哽咽、关键时刻失常；+ -er → choker",
+        "受阻动作到结果和物品名称"
+      ]
+    ],
+    "explanation": "choke on food 吃东西噎住；choke a drain 堵住排水道；get choked up 哽咽；choke under pressure 压力下失常。",
+    "usage": "choke on；get choked up；choke under pressure。",
+    "contrast": "choke 的情绪、比赛用法不要求真实气道阻塞；chokehold 另指具体控制姿势或比喻控制，不从词义推实际操作。",
+    "examples": [
+      [
+        "Leaves choked the narrow drain.",
+        "树叶堵住了窄排水沟。"
+      ],
+      [
+        "She got choked up while thanking her teacher.",
+        "她感谢老师时哽咽了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choke#English",
+      "https://www.etymonline.com/word/choke"
+    ]
+  },
+  {
+    "word": "choker",
+    "ipa": "英 /ˈtʃəʊkə/；美 /ˈtʃoʊkər/",
+    "meaning": "颈圈式短项链；紧贴颈部的饰物；使人噎住者或物",
+    "sense": "项链不是垂到胸前，而是紧贴颈部一圈，服饰里叫 choker。名字借了贴喉的形象，不意味着每次戴上就真的窒息。",
+    "split": "choke 去末 e + -er → choker；动作人物、物品名再固定为颈部短饰物称呼，也有特定机械、道路等行话。",
+    "history": [
+      [
+        "古英语 aceocian → 中古英语 acheken、choken → choke",
+        "气流、呼吸受阻，常联系旧颌颊材料"
+      ],
+      [
+        "choke → 堵塞、情绪哽咽、关键时刻失常；+ -er → choker",
+        "受阻动作到结果和物品名称"
+      ],
+      [
+        "choke + -er → choker",
+        "贴喉、限制相关物名，常用为短项链"
+      ]
+    ],
+    "explanation": "a velvet choker 天鹅绒颈圈项链；a pearl choker 珍珠短项链；先按服饰名理解常见搭配。",
+    "usage": "a velvet choker；a pearl choker。",
+    "contrast": "choker 不只是 choking person 的普通人称；首饰语境是固定物名，项链长短与整体穿搭由实物判断。",
+    "examples": [
+      [
+        "She wore a black velvet choker.",
+        "她戴着一条黑色天鹅绒颈圈项链。"
+      ],
+      [
+        "The portrait shows a pearl choker around her neck.",
+        "肖像画中，她颈部戴着一圈珍珠短项链。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/choker#English"
+    ]
+  },
+  {
+    "word": "elastic",
+    "ipa": "/ɪˈlæstɪk/",
+    "meaning": "有弹性的；可灵活调整的；松紧带、橡皮筋",
+    "sense": "拉开后松手能回来，是 elastic 最直观的画面。安排、规则能随情况调整，也能借弹性；名词则可直接指松紧材料。",
+    "split": "经法语、新拉丁语接希腊可延展材料，十七世纪科学用法先描述气体压缩恢复，后推广至固体与抽象灵活性。不是 e- + last 最后 + -ic。",
+    "history": [
+      [
+        "希腊 elastos 可延展等 → 新拉丁 elasticus → 法语 elastique → elastic",
+        "早期科学中谈气体压缩后恢复，后来用于固体"
+      ],
+      [
+        "elastic + -ity → elasticity；in- + elastic → inelastic",
+        "恢复性质、响应敏感度；缺乏相应弹性"
+      ]
+    ],
+    "explanation": "an elastic band 橡皮筋；an elastic waistband 松紧腰带；elastic demand 经济中的弹性需求，指相对变化响应。",
+    "usage": "an elastic band；an elastic waistband。",
+    "contrast": "flexible 说能弯、能变通，elastic 还常强调卸力后能恢复；能拉长却不能恢复的材料不能因此就判作弹性变形。",
+    "examples": [
+      [
+        "The waistband is made from elastic material.",
+        "腰带部分用了弹性材料。"
+      ],
+      [
+        "The elastic band returned to its original length.",
+        "橡皮筋恢复了原来的长度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elastic#English",
+      "https://www.etymonline.com/word/elastic"
+    ]
+  },
+  {
+    "word": "elasticity",
+    "ipa": "/ˌiːlæˈstɪsəti/",
+    "meaning": "弹性；〔经济等〕弹性、相对响应程度",
+    "sense": "材料被拉、压后能恢复，谈的是 elasticity；价格变一点，需求量相对变多少，经济学又借弹性说这种响应敏感度。",
+    "split": "elastic + -ity → elasticity，c 在后接 i 的形式里读 /s/，重音移到 /stɪ/。物理性质名词进入经济、系统等变化关系用法。",
+    "history": [
+      [
+        "希腊 elastos 可延展等 → 新拉丁 elasticus → 法语 elastique → elastic",
+        "早期科学中谈气体压缩后恢复，后来用于固体"
+      ],
+      [
+        "elastic + -ity → elasticity；in- + elastic → inelastic",
+        "恢复性质、响应敏感度；缺乏相应弹性"
+      ],
+      [
+        "elastic + -ity → elasticity",
+        "恢复性质 → 相对变化响应度"
+      ]
+    ],
+    "explanation": "the elasticity of rubber 橡胶弹性；price elasticity of demand 需求价格弹性；具体计算定义需看学科。",
+    "usage": "the elasticity of；price elasticity of demand。",
+    "contrast": "elasticity 不等于一个东西能被拉多长；经济弹性也不只是价格贵不贵，而看相对变化关系。",
+    "examples": [
+      [
+        "The experiment compares the elasticity of two materials.",
+        "实验比较两种材料的弹性。"
+      ],
+      [
+        "The lesson introduces the price elasticity of demand.",
+        "这节课介绍需求价格弹性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elasticity#English"
+    ]
+  },
+  {
+    "word": "inelastic",
+    "ipa": "/ˌɪnɪˈlæstɪk/",
+    "meaning": "缺乏弹性的；〔经济〕弹性较小的",
+    "sense": "材料不容易作相应弹性恢复，可说 inelastic；需求对价格变化不敏感，则是经济语境的 inelastic。不是所有场景都意味着完全不变。",
+    "split": "in- 否定 + elastic → inelastic。否定前缀改变性质，具体物理、经济专业义按领域定义，不只翻成不能拉长。",
+    "history": [
+      [
+        "希腊 elastos 可延展等 → 新拉丁 elasticus → 法语 elastique → elastic",
+        "早期科学中谈气体压缩后恢复，后来用于固体"
+      ],
+      [
+        "elastic + -ity → elasticity；in- + elastic → inelastic",
+        "恢复性质、响应敏感度；缺乏相应弹性"
+      ],
+      [
+        "in- + elastic → inelastic",
+        "否定弹性性质，专业领域常有界定"
+      ]
+    ],
+    "explanation": "inelastic demand 缺乏弹性的需求；inelastic deformation 非弹性变形；an inelastic response 不灵敏的相应响应。",
+    "usage": "inelastic demand；inelastic deformation。",
+    "contrast": "inelastic demand 不是需求量完全固定，完全不变另有 perfectly inelastic 等限定；物理 inelastic collision 也不等于所有物体都丝毫不变形。",
+    "examples": [
+      [
+        "The chart illustrates relatively inelastic demand.",
+        "图表展示了相对缺乏弹性的需求。"
+      ],
+      [
+        "The test revealed an inelastic change in the material.",
+        "测试显示材料发生了非弹性变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inelastic#English"
+    ]
+  }
+]

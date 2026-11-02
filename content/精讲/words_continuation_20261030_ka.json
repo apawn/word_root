@@ -1,0 +1,175 @@
+[
+  {
+    "word": "brutal",
+    "ipa": "/ˈbruːtəl/",
+    "meaning": "残暴、残酷的；严酷的；直白刺耳的",
+    "sense": "对人不留情，是 brutal；天气、赛程像毫不留情地压过来，也叫 brutal。brutal honesty 则是真话说得让人难受。",
+    "split": "联系中世纪拉丁 brūtālis、拉丁 brūtus，旧有沉重、迟钝、粗野等意义。进入现代残暴、严酷评价，再借给天气、竞争、语言等对象。",
+    "history": [
+      [
+        "拉丁 brūtus → 中世纪拉丁 brūtālis 等 → brutal",
+        "沉重、迟钝、粗野等旧义 → 残暴、严酷的"
+      ],
+      [
+        "现代语言的程度扩展",
+        "天气严酷、赛程艰难、坦白刺耳"
+      ]
+    ],
+    "explanation": "a brutal attack 残暴袭击，a brutal winter 严冬，brutal honesty 刺耳的坦率，a brutal schedule 极其艰难的日程。",
+    "usage": "a brutal attack；a brutal winter；brutal honesty；a brutal schedule。",
+    "contrast": "brutal 不只形容暴力，严冬、艰难日程也可以用。brutal honesty 不表示说话正确与否已获保证，只评价方式直白、不留情。",
+    "examples": [
+      [
+        "The expedition faced a brutal winter.",
+        "考察队遭遇了严酷冬季。"
+      ],
+      [
+        "Her review was honest but brutal.",
+        "她的评论诚实，却很刺耳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brutal#English"
+    ]
+  },
+  {
+    "word": "brutally",
+    "ipa": "/ˈbruːtəli/",
+    "meaning": "残暴、残酷地；直白刺耳地；极其",
+    "sense": "把 brutal 放到动作、程度上：残酷对待，或坦率得很扎人。brutally difficult 又是强调困难得厉害。",
+    "split": "brutal + -ly，形成副词；原词以 l 结尾，拼写出现 ll。随形容词的暴力、严酷、直白几条常用义使用。",
+    "history": [
+      [
+        "拉丁 brūtus → 中世纪拉丁 brūtālis 等 → brutal",
+        "沉重、迟钝、粗野等旧义 → 残暴、严酷的"
+      ],
+      [
+        "现代语言的程度扩展",
+        "天气严酷、赛程艰难、坦白刺耳"
+      ],
+      [
+        "brutal + -ly → brutally",
+        "以残酷、直白方式；强烈加强程度"
+      ]
+    ],
+    "explanation": "brutally attacked 遭到残暴袭击，brutally honest 直白得刺耳，brutally difficult 极其困难。",
+    "usage": "brutally honest；brutally difficult；brutally attacked。",
+    "contrast": "brutally honest 不等于无礼就是诚实，也不等于动手打人。形容难度时则是程度强调。",
+    "examples": [
+      [
+        "To be brutally honest, the plan is not ready.",
+        "坦白说得直一点，这个计划还没准备好。"
+      ],
+      [
+        "The last section of the climb was brutally difficult.",
+        "攀登最后一段极其艰难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brutally#English"
+    ]
+  },
+  {
+    "word": "brutality",
+    "ipa": "/bruːˈtæləti/",
+    "meaning": "残暴、残酷；暴行〔可数用法〕",
+    "sense": "brutal 直接评价行为残酷，brutality 则把那种残暴性质、实际暴行当成对象来谈。",
+    "split": "现代对应 brutal + -ity，亦联系法语 brutalité 等相应形式。词尾名词化，重音移到 /tæl/，不同于形容词开头重读。",
+    "history": [
+      [
+        "拉丁 brūtus → 中世纪拉丁 brūtālis 等 → brutal",
+        "沉重、迟钝、粗野等旧义 → 残暴、严酷的"
+      ],
+      [
+        "brutal → brutality",
+        "残暴性质；一件件残酷行为"
+      ]
+    ],
+    "explanation": "the brutality of war 战争的残酷，an act of brutality 一次暴行，brutalities committed during a conflict 冲突中的种种暴行。通常性质义不可数，行为义可复数。",
+    "usage": "the brutality of；an act of brutality。",
+    "contrast": "brutality 是残暴、残酷，不是建筑流派 Brutalism 的普通同义词。名词后缀相近，整词已有不同用途。",
+    "examples": [
+      [
+        "The memoir describes the brutality of the conflict.",
+        "回忆录描述了冲突的残酷。"
+      ],
+      [
+        "The report records several acts of brutality.",
+        "报告记录了几起暴行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brutality#English"
+    ]
+  },
+  {
+    "word": "brutalism",
+    "ipa": "/ˈbruːtəlɪzəm/",
+    "meaning": "粗野主义建筑；粗暴行为〔其他旧用法〕",
+    "sense": "建筑里常把材料、结构直露出来，混凝土、几何体块很有存在感，是 Brutalism 常见的识别画面。名称不是在宣称住在里面的人残暴。",
+    "split": "普通 brutal + -ism 可说粗暴行为；二十世纪建筑术语另有命名背景，涉及瑞典 nybrutalism、法语 béton brut 原状混凝土、art brut 等影响，具体来源有讨论。",
+    "history": [
+      [
+        "建筑术语 Brutalism 的形成",
+        "瑞典 nybrutalism、法语 béton brut 等多种命名影响；不能只从暴力义推"
+      ],
+      [
+        "建筑语境中的 Brutalism",
+        "结构、材料直接呈现的建筑思想与风格；常见裸露混凝土"
+      ]
+    ],
+    "explanation": "Brutalist architecture 粗野主义建筑，the history of Brutalism 粗野主义建筑史。裸露混凝土很常见，但并非所有作品只用混凝土，运动也不只有表面造型。",
+    "usage": "the history of Brutalism；Brutalist architecture。",
+    "contrast": "brutality 残暴与建筑 Brutalism 不等同。不能因一座建筑体量大、混凝土多，就不看背景直接断定它属于同一历史流派。",
+    "examples": [
+      [
+        "The exhibition explores Brutalism in postwar architecture.",
+        "展览探讨战后建筑中的粗野主义。"
+      ],
+      [
+        "The book discusses exposed materials in Brutalism.",
+        "这本书讨论了粗野主义建筑中外露材料的使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brutalism#English",
+      "https://www.architecture.com/-/media/Files/RSAW/Touchstone-2021.pdf",
+      "https://www.vam.ac.uk/articles/robin-hood-gardens"
+    ]
+  },
+  {
+    "word": "brutalist",
+    "ipa": "/ˈbruːtəlɪst/",
+    "meaning": "粗野主义建筑师、追随者；粗野主义风格的",
+    "sense": "a brutalist 可以是采用这种建筑思想、风格的人；a brutalist building 则把这个名称拿来修饰建筑。不要把它自动理解成残暴的人。",
+    "split": "联系 brutalism 的建筑术语词族与 -ist 人物、相关性质。若只写 brutal + -ist 而不讲建筑命名史，会漏掉现代最重要的用法。",
+    "history": [
+      [
+        "建筑术语 Brutalism 的形成",
+        "瑞典 nybrutalism、法语 béton brut 等多种命名影响；不能只从暴力义推"
+      ],
+      [
+        "brutalism 词族 → brutalist",
+        "相关建筑师、追随者；建筑风格形容词"
+      ]
+    ],
+    "explanation": "a brutalist architect 粗野主义建筑师，a brutalist building 粗野主义建筑，brutalist design 粗野主义设计。大小写依文本和编辑风格。",
+    "usage": "a brutalist architect；a brutalist building；brutalist design。",
+    "contrast": "brutalist 是建筑流派关系，不是 brutal 残暴的普通比较级，也不证明建筑师的个人性格。",
+    "examples": [
+      [
+        "The guide described the building as a brutalist landmark.",
+        "讲解员把这座建筑介绍为粗野主义地标。"
+      ],
+      [
+        "The essay examines the ideas of several brutalist architects.",
+        "文章研究了几位粗野主义建筑师的思想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brutalist#English",
+      "https://www.architecture.com/-/media/Files/RSAW/Touchstone-2021.pdf",
+      "https://www.vam.ac.uk/articles/robin-hood-gardens"
+    ]
+  }
+]

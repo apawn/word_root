@@ -1,0 +1,323 @@
+[
+  {
+    "word": "shitfaced",
+    "ipa": "/ˈʃɪtfeɪst/",
+    "meaning": "醉得烂醉的〔粗俗〕",
+    "sense": "比 just drunk 更重、更粗鲁，像中文烂醉、醉得一塌糊涂；不是正式评价饮酒状态的中性术语。",
+    "split": "shit 粗俗强化材料 + faced 的俚语组合。现代约定说烂醉，不凭字面编一个脸上必定沾了什么的真实动作来源。",
+    "history": [
+      [
+        "shit + faced → shitfaced",
+        "粗俗组合形成强烈评价"
+      ],
+      [
+        "现代俚语",
+        "烂醉、醉得很厉害"
+      ]
+    ],
+    "explanation": "get shitfaced 喝得烂醉，be shitfaced 烂醉着。可用于人物对白，听到时要保留粗俗、程度重的语气。",
+    "usage": "get shitfaced；be shitfaced〔粗俗〕。",
+    "contrast": "shitfaced 比一般 drunk 粗俗、程度重；faced 单独可说面对，不能把一个俚语组合倒推为所有 -faced 都等于喝醉。",
+    "examples": [
+      [
+        "In the novel, he gets shitfaced after the party.",
+        "小说里，他聚会后喝得烂醉。"
+      ],
+      [
+        "She described the character as shitfaced, a deliberately crude choice of words.",
+        "她用 shitfaced 形容那个角色烂醉，是故意用了粗俗措辞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shitfaced#English"
+    ]
+  },
+  {
+    "word": "narrow",
+    "ipa": "英 /ˈnærəʊ/；美 /ˈnæroʊ/",
+    "meaning": "狭窄的；范围小的；差距很小的；缩小",
+    "sense": "两边靠得近，车不好过，是窄路；选项、胜负差距也能像这样被夹得很小。",
+    "split": "接古英语 nearu，旧词已带受限、狭小等义；现代 narrow 是整体。比较级 narrower、最高级 narrowest，不需再单背一个人后缀解释。",
+    "history": [
+      [
+        "古英语 nearu → 中古英语 narow → narrow",
+        "空间受限、狭窄、余地小"
+      ],
+      [
+        "英语 narrow",
+        "宽度小 → 范围有限、差距很小；使范围缩小"
+      ]
+    ],
+    "explanation": "a narrow street 窄街，a narrow victory 险胜，a narrow range 小范围，narrow down the options 缩小选项范围。",
+    "usage": "a narrow street；a narrow victory；a narrow range；narrow down。",
+    "contrast": "narrow 说宽度小，thin 说厚度、粗细等小；窄木板和薄木板不是一个方向。a narrow victory 不表示赢得没价值。",
+    "examples": [
+      [
+        "The road narrows just beyond the bridge.",
+        "过桥不远，道路变窄了。"
+      ],
+      [
+        "We narrowed the list down to three names.",
+        "我们把名单缩小到三个人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrow#English"
+    ]
+  },
+  {
+    "word": "narrowly",
+    "ipa": "英 /ˈnærəʊli/；美 /ˈnæroʊli/",
+    "meaning": "差一点、险些地；以微小差距；狭隘地、范围有限地",
+    "sense": "擦着边缘过去：narrowly escaped 差点没逃掉，narrowly won 只领先一点就赢了；余地、差距都很窄。",
+    "split": "narrow + -ly，副词保留范围小、余量小两支。修饰 escape 时是险险逃过，不是差点逃出去却没逃成。",
+    "history": [
+      [
+        "古英语 nearu → 中古英语 narow → narrow",
+        "空间受限、狭窄、余地小"
+      ],
+      [
+        "英语 narrow",
+        "宽度小 → 范围有限、差距很小；使范围缩小"
+      ],
+      [
+        "narrow + -ly → narrowly",
+        "以很小余量、很窄范围"
+      ]
+    ],
+    "explanation": "narrowly escape 险些没逃过，narrowly win 险胜，narrowly defined 定义范围很窄的，focus narrowly on 只盯有限部分。",
+    "usage": "narrowly escape；narrowly win；narrowly defined。",
+    "contrast": "narrowly escaped 确实逃过，nearly escaped 通常差点逃过但没成功；一个词的差别会反转结果。",
+    "examples": [
+      [
+        "The car narrowly missed the tree.",
+        "车险些撞上树，但避开了。"
+      ],
+      [
+        "She narrowly won the election.",
+        "她以微小优势赢得了选举。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrowly#English"
+    ]
+  },
+  {
+    "word": "narrowness",
+    "ipa": "英 /ˈnærəʊnəs/；美 /ˈnæroʊnəs/",
+    "meaning": "狭窄、狭小；范围有限、狭隘",
+    "sense": "把巷子有多窄、视野有多局限、胜负差距有多小说成一个性质；中文随对象选狭窄或狭隘。",
+    "split": "narrow + -ness，已有中古英语相应形式。并非自带坏评价：巷子窄是尺寸，心胸、观点窄才常是批评。",
+    "history": [
+      [
+        "古英语 nearu → 中古英语 narow → narrow",
+        "空间受限、狭窄、余地小"
+      ],
+      [
+        "英语 narrow",
+        "宽度小 → 范围有限、差距很小；使范围缩小"
+      ],
+      [
+        "narrow + -ness → narrowness",
+        "宽度或范围小的性质"
+      ]
+    ],
+    "explanation": "the narrowness of the lane 巷子的狭窄，the narrowness of the victory 获胜优势微小，narrowness of outlook 眼界狭隘。",
+    "usage": "the narrowness of；narrowness of outlook。",
+    "contrast": "narrowness 可量空间或范围，thinness 多看厚度、粗细、稀密等；只用中文小来记会丢掉方向。",
+    "examples": [
+      [
+        "The narrowness of the lane made deliveries difficult.",
+        "巷子太窄，送货很困难。"
+      ],
+      [
+        "The essay criticizes the narrowness of that viewpoint.",
+        "文章批评那个观点的狭隘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrowness#English"
+    ]
+  },
+  {
+    "word": "narrowband",
+    "ipa": "英 /ˈnærəʊbænd/；美 /ˈnæroʊbænd/",
+    "meaning": "窄带的",
+    "sense": "把频率轴想成一条路，只占其中较窄一段；不是电线外观看着细就一定窄带。",
+    "split": "narrow 窄 + band 频带，合成技术形容词。band 在这里是某个范围的一带，不是乐队。",
+    "history": [
+      [
+        "古英语 nearu → 中古英语 narow → narrow",
+        "空间受限、狭窄、余地小"
+      ],
+      [
+        "英语 narrow",
+        "宽度小 → 范围有限、差距很小；使范围缩小"
+      ],
+      [
+        "narrow + band → narrowband",
+        "占用、通过或处理较小频带范围的"
+      ]
+    ],
+    "explanation": "a narrowband signal 窄带信号，narrowband communication 窄带通信，a narrowband filter 窄带滤波器。具体宽窄要看领域、比较尺度。",
+    "usage": "a narrowband signal；narrowband communication；a narrowband filter。",
+    "contrast": "narrowband 频带窄，broadband 宽带；不只按电缆粗细、设备大小判断，也不等于所有窄带系统都同一种速度。",
+    "examples": [
+      [
+        "The receiver is designed for narrowband signals.",
+        "接收机为窄带信号设计。"
+      ],
+      [
+        "The lesson compares narrowband and broadband communication.",
+        "课程对比了窄带和宽带通信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/narrowband#English"
+    ]
+  },
+  {
+    "word": "pride",
+    "ipa": "/praɪd/",
+    "meaning": "自豪、自尊；骄傲、傲慢；狮群；以……为傲",
+    "sense": "做好一件事，挺起胸说这是我的努力，是自豪；挺到觉得别人都不如自己，就可能是傲慢。同一个词褒贬都要看分寸。",
+    "split": "接古英语 prȳde 等，与 proud 的旧词形派生关系有关，现代不是 pride 先变 proud 的普通时态。狮群用法是传统动物集合名，不由每只狮子必定骄傲来证明。",
+    "history": [
+      [
+        "古英语 prūd/prȳde 等 → proud/pride",
+        "骄傲的及相应骄傲、自重名词"
+      ],
+      [
+        "英语 pride",
+        "自豪、自尊；过高自视、傲慢；使自己引以为傲"
+      ]
+    ],
+    "explanation": "take pride in 为……自豪，hurt someone’s pride 伤自尊，pride yourself on 以……自豪，a pride of lions 一群狮子。",
+    "usage": "take pride in；hurt someone’s pride；pride yourself on；a pride of lions。",
+    "contrast": "pride 褒贬看语境，self-respect 更偏自重；a pride of lions 是集合名，别把句子读成狮子们的傲慢。",
+    "examples": [
+      [
+        "She takes pride in doing careful work.",
+        "她以做事细致为荣。"
+      ],
+      [
+        "A pride of lions rested in the shade.",
+        "一群狮子在阴凉处休息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pride#English"
+    ]
+  },
+  {
+    "word": "prideful",
+    "ipa": "/ˈpraɪdfəl/",
+    "meaning": "骄傲、自负的；满怀自豪的",
+    "sense": "心里装满 pride；在很多人物评价里会偏自负，也可由上下文说自豪感强，不能一律夸奖。",
+    "split": "pride + -ful，性质形容词，已有中古英语形式。-ful 只有一个 l，不能当作过去式。",
+    "history": [
+      [
+        "古英语 prūd/prȳde 等 → proud/pride",
+        "骄傲的及相应骄傲、自重名词"
+      ],
+      [
+        "英语 pride",
+        "自豪、自尊；过高自视、傲慢；使自己引以为傲"
+      ],
+      [
+        "pride + -ful → prideful",
+        "充满自豪、自重或过高自视的"
+      ]
+    ],
+    "explanation": "a prideful attitude 自负态度，a prideful refusal 因自尊、傲慢而拒绝；文学、较正式人物评价里常见。",
+    "usage": "a prideful attitude；a prideful refusal。",
+    "contrast": "proud 是更通用的自豪、骄傲形容词，prideful 往往较强调充满自视的性格倾向；语境仍决定褒贬。",
+    "examples": [
+      [
+        "His prideful attitude made it hard for him to accept help.",
+        "他自负的态度让他很难接受帮助。"
+      ],
+      [
+        "The story follows a prideful ruler who refuses advice.",
+        "故事围绕一位拒绝建议的自负统治者展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prideful#English"
+    ]
+  },
+  {
+    "word": "sustainment",
+    "ipa": "/səˈsteɪnmənt/",
+    "meaning": "持续保障、维持、供给支持",
+    "sense": "让一套系统、行动一直转下去，要不断补给、维修、组织支持；尤其后勤语境里不是只顶住一秒。",
+    "split": "sustain + -ment，动作、过程名词。普通写作有时用 support、maintenance 更自然，sustainment 常见于持续保障等专门语境。",
+    "history": [
+      [
+        "拉丁 sub- + tenēre → sustinēre",
+        "从下面托住、支撑、维持"
+      ],
+      [
+        "法语相关形式 → sustain",
+        "使持续、支撑；承受等分支"
+      ],
+      [
+        "sustain + -ment → sustainment",
+        "使活动、系统长期继续的支持与维持"
+      ]
+    ],
+    "explanation": "logistical sustainment 后勤持续保障，long-term sustainment 长期维持，sustainment costs 持续保障费用。",
+    "usage": "logistical sustainment；long-term sustainment；sustainment costs。",
+    "contrast": "sustainment 是支撑、维持过程，sustainability 是能否长期持续的性质；sustenance 又常是维生食物、养料。",
+    "examples": [
+      [
+        "The plan includes long-term sustainment costs.",
+        "计划包含长期保障费用。"
+      ],
+      [
+        "The report focuses on the sustainment of field operations.",
+        "报告重点讨论外勤行动的持续保障。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sustainment#English"
+    ]
+  },
+  {
+    "word": "sustainer",
+    "ipa": "英 /səˈsteɪnə/；美 /səˈsteɪnər/",
+    "meaning": "维持、支撑的人或物；持续推力发动机〔技术〕",
+    "sense": "主力活动持续下去，背后那个一直托着、供着的角色；可以是人，也可以是某个系统部件。",
+    "split": "sustain + -er，施事或器物名词。火箭等语境借它叫持续提供推力的发动机，但不只限航天。",
+    "history": [
+      [
+        "拉丁 sub- + tenēre → sustinēre",
+        "从下面托住、支撑、维持"
+      ],
+      [
+        "法语相关形式 → sustain",
+        "使持续、支撑；承受等分支"
+      ],
+      [
+        "sustain + -er → sustainer",
+        "持续支撑者、维持装置；技术中持续推力部件"
+      ]
+    ],
+    "explanation": "a sustainer of life 维持生命的事物，a sustainer engine 持续推力发动机，a long-term sustainer 长期支持者。",
+    "usage": "a sustainer of life；a sustainer engine。",
+    "contrast": "sustainer 是支撑者或装置，sustenance 是维生食物、支持；两者都同族，但句中角色不同。",
+    "examples": [
+      [
+        "The essay describes food as a sustainer of life.",
+        "文章把食物称为维持生命的事物。"
+      ],
+      [
+        "The diagram labels the booster and the sustainer engine.",
+        "图示标出了助推器和持续推力发动机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sustainer#English"
+    ]
+  }
+]

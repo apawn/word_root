@@ -1,0 +1,290 @@
+[
+  {
+    "word": "movie",
+    "ipa": "/ˈmuːvi/",
+    "meaning": "电影；影片",
+    "sense": "一张张画面连起来像在动，moving picture 的活动画面就被缩短叫 movie。",
+    "split": "从 moving picture 的 moving 缩短，再加昵称式 -ie 形成，先在美式英语常见。不是 move 加表示人的后缀。",
+    "history": [
+      [
+        "moving picture 活动画面 → movie",
+        "moving 的缩短昵称式表达"
+      ],
+      [
+        "现代 movie",
+        "电影、影片；美式尤常见"
+      ]
+    ],
+    "explanation": "watch a movie 看电影，go to the movies 去看电影，a movie star 电影明星；英式 film 也很常见。",
+    "usage": "watch a movie；go to the movies；a movie star；a movie theatre。",
+    "contrast": "movie 与 film 很多场景可互换，film 还能指胶片、薄膜；movie 不泛指一切会动的东西。",
+    "examples": [
+      [
+        "We watched a movie after dinner.",
+        "晚饭后，我们看了一部电影。"
+      ],
+      [
+        "Do you want to go to the movies this weekend?",
+        "你这周末想去看电影吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/movie#English"
+    ]
+  },
+  {
+    "word": "sport",
+    "ipa": "英 /spɔːt/；美 /spɔːrt/",
+    "meaning": "体育运动；消遣；有风度的人；展示、穿戴",
+    "sense": "现代主要先想体育运动；旧的娱乐玩乐还留在一些表达里，动词 sport 则可说显眼地穿着、留着某种外观。",
+    "split": "中古英语 disport 的前部脱落成 sport，上接法语 desporter 消遣，历史有让心情离开严肃事务的画面。不是 s- 加 port 港口。",
+    "history": [
+      [
+        "古法语 desporter 消遣 → 中古英语 disport、sport",
+        "让心情离开正事 → 娱乐、玩乐"
+      ],
+      [
+        "现代 sport",
+        "娱乐活动 → 体育运动；也保留玩乐、展示等义"
+      ]
+    ],
+    "explanation": "play sport 参加体育运动，a team sport 团队运动，be a good sport 输赢、玩笑中有风度；sport a beard 留着胡须。",
+    "usage": "a team sport；competitive sport；a good sport；sport a beard。",
+    "contrast": "sport 不仅是竞技比赛，语境也可说娱乐；a good sport 评价人有风度，不是说一项运动规则好。",
+    "examples": [
+      [
+        "Swimming is her favourite sport.",
+        "游泳是她最喜欢的运动。"
+      ],
+      [
+        "He was a good sport about losing the game.",
+        "他输了比赛也很有风度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sport#English"
+    ]
+  },
+  {
+    "word": "sports",
+    "ipa": "英 /spɔːts/；美 /spɔːrts/",
+    "meaning": "体育运动；体育相关的修饰形式",
+    "sense": "可以是多种运动，也能在名词前组成体育新闻、运动装备等固定说法。",
+    "split": "sport + -s，复数形式及体育类名词前的惯用修饰形式。美式总说体育时尤其常用 sports，英式单数集合 sport 也很常见。",
+    "history": [
+      [
+        "古法语 desporter 消遣 → 中古英语 disport、sport",
+        "让心情离开正事 → 娱乐、玩乐"
+      ],
+      [
+        "现代 sport",
+        "娱乐活动 → 体育运动；也保留玩乐、展示等义"
+      ],
+      [
+        "sport + -s → sports",
+        "多种运动；体育类别修饰形式"
+      ]
+    ],
+    "explanation": "sports news 体育新闻，sports equipment 运动器材，a sports car 跑车；不因有 s 就把后面名词都变复数。",
+    "usage": "sports news；sports equipment；sports day；a sports car。",
+    "contrast": "a sports car 是一辆跑车，sports 的 s 不表示有很多车；news、equipment 也有各自的不可数规则。",
+    "examples": [
+      [
+        "She writes sports news for the local paper.",
+        "她为当地报纸写体育新闻。"
+      ],
+      [
+        "The school bought new sports equipment.",
+        "学校买了新运动器材。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sports#English"
+    ]
+  },
+  {
+    "word": "sporty",
+    "ipa": "英 /ˈspɔːti/；美 /ˈspɔːrti/",
+    "meaning": "爱运动的；有运动风格的",
+    "sense": "说人时常是喜欢运动，说衣服、汽车时则是看着有运动感，不是物件真的去比赛。",
+    "split": "sport + -y，具有体育、运动特点。现代性格爱好与设计外观都可用。",
+    "history": [
+      [
+        "古法语 desporter 消遣 → 中古英语 disport、sport",
+        "让心情离开正事 → 娱乐、玩乐"
+      ],
+      [
+        "现代 sport",
+        "娱乐活动 → 体育运动；也保留玩乐、展示等义"
+      ],
+      [
+        "sport + -y → sporty",
+        "有运动特点 → 爱运动、运动风的"
+      ]
+    ],
+    "explanation": "a sporty person 爱运动的人，a sporty jacket 运动风夹克，a sporty car 运动感强的汽车。",
+    "usage": "a sporty person；sporty clothes；a sporty car。",
+    "contrast": "sporty 是爱好或风格，athletic 常更强调身体运动能力、体型；穿 sporty clothes 不保证很会运动。",
+    "examples": [
+      [
+        "She comes from a sporty family.",
+        "她来自一个爱运动的家庭。"
+      ],
+      [
+        "The jacket has a sporty look.",
+        "这件夹克很有运动风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sporty#English"
+    ]
+  },
+  {
+    "word": "reproduction",
+    "ipa": "英 /ˌriːprəˈdʌkʃən/；美 /ˌriːprəˈdʌkʃən/",
+    "meaning": "复制、复制品；再现；繁殖",
+    "sense": "让另一份相同或相近的东西产生出来：可以是印画复制，也可以是生物产生后代。",
+    "split": "re- 再 + production 产出，历史也经法语及 reproduce 对应名词形成。不同语境抓再产生，不把生物繁殖只翻成复印。",
+    "history": [
+      [
+        "拉丁 producere 引出、带出 → 法语及英语 produce",
+        "产出、制造、产生"
+      ],
+      [
+        "英语 production 及派生",
+        "生产、制作 → 复制；生产过量"
+      ],
+      [
+        "re- + production → reproduction",
+        "再次产出 → 复制、再现；繁殖"
+      ]
+    ],
+    "explanation": "a reproduction of a painting 画作复制品，sound reproduction 声音重现，plant reproduction 植物繁殖。",
+    "usage": "a reproduction of；sound reproduction；plant reproduction。",
+    "contrast": "reproduction 复制不保证原作身份；original 原作与 reproduction 复制品要分开。",
+    "examples": [
+      [
+        "The museum shop sells reproductions of famous paintings.",
+        "博物馆商店出售名画复制品。"
+      ],
+      [
+        "The lesson explains how plant reproduction works.",
+        "这节课解释植物如何繁殖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reproduction#English"
+    ]
+  },
+  {
+    "word": "overproduction",
+    "ipa": "英 /ˌəʊvəprəˈdʌkʃən/；美 /ˌoʊvərprəˈdʌkʃən/",
+    "meaning": "生产过剩；产出过量",
+    "sense": "生产的量超过实际需要、需求或适当程度；不只是产量很大。",
+    "split": "over- 过度 + production 生产、产生。可谈工业库存，也可在其他领域说某物产生过量。",
+    "history": [
+      [
+        "拉丁 producere 引出、带出 → 法语及英语 produce",
+        "产出、制造、产生"
+      ],
+      [
+        "英语 production 及派生",
+        "生产、制作 → 复制；生产过量"
+      ],
+      [
+        "over- + production → overproduction",
+        "产出超过需要 → 生产过剩"
+      ]
+    ],
+    "explanation": "overproduction of goods 商品生产过剩，reduce overproduction 减少过量生产；影视评论也可指制作加工过头。",
+    "usage": "overproduction of；industrial overproduction；reduce overproduction。",
+    "contrast": "mass production 大规模生产，overproduction 超过需求；前者规模大并不自动后者过剩。",
+    "examples": [
+      [
+        "Overproduction left the company with unsold stock.",
+        "生产过剩让公司积压了卖不掉的库存。"
+      ],
+      [
+        "The report links waste to the overproduction of goods.",
+        "报告把浪费与商品生产过量联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overproduction#English"
+    ]
+  },
+  {
+    "word": "directorate",
+    "ipa": "英 /dəˈrektərət/；美 /dəˈrektərət/",
+    "meaning": "管理局；处、司等主管机构；董事会",
+    "sense": "不是一名主管，而是承担某方面管理职能的部门，或由董事组成的管理机构。",
+    "split": "director + -ate，形成机构、群体等名词。各机构正式中文译名可能是局、司、处，不能只靠后缀确定行政级别。",
+    "history": [
+      [
+        "拉丁 dirigere、directus → 英语 direct、director",
+        "指引、使朝某方向 → 指导、管理的人"
+      ],
+      [
+        "现代 director 派生",
+        "管理机构；担任董事、主管的职务与任期"
+      ],
+      [
+        "director + -ate → directorate",
+        "管理者群体或其机构"
+      ]
+    ],
+    "explanation": "the finance directorate 财务主管部门，a government directorate 政府主管机构；先看该组织自己的名称和层级。",
+    "usage": "a finance directorate；a government directorate；the directorate’s staff。",
+    "contrast": "director 人，directorate 机构群体；directory 名录是另一个词，不要只按前半字母猜。",
+    "examples": [
+      [
+        "The finance directorate reviewed the budget.",
+        "财务主管部门审核了预算。"
+      ],
+      [
+        "The directorate published its annual report.",
+        "管理机构发布了年度报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/directorate#English"
+    ]
+  },
+  {
+    "word": "directorship",
+    "ipa": "英 /dəˈrektəʃɪp/；美 /dəˈrektərʃɪp/",
+    "meaning": "董事、主管职务；担任该职的期间",
+    "sense": "谈的是这个职位、这份任职，不是泛指指导别人这个动作。",
+    "split": "director + -ship，后缀表示身份、职务、任期；-ship 不是船。",
+    "history": [
+      [
+        "拉丁 dirigere、directus → 英语 direct、director",
+        "指引、使朝某方向 → 指导、管理的人"
+      ],
+      [
+        "现代 director 派生",
+        "管理机构；担任董事、主管的职务与任期"
+      ],
+      [
+        "director + -ship → directorship",
+        "主管身份 → 董事、主管职务及任期"
+      ]
+    ],
+    "explanation": "hold a directorship 担任董事，resign a directorship 辞去董事职务，under her directorship 在她主管期间。",
+    "usage": "hold a directorship；accept a directorship；under her directorship。",
+    "contrast": "directorship 职务，direction 方向、指导；directorate 则是管理机构，不是同一个名词换尾巴。",
+    "examples": [
+      [
+        "She accepted a directorship at the company.",
+        "她接受了这家公司的董事职务。"
+      ],
+      [
+        "The museum expanded under his directorship.",
+        "博物馆在他担任主管期间扩大了规模。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/directorship#English"
+    ]
+  }
+]

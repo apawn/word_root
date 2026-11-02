@@ -1,0 +1,128 @@
+[
+  {
+    "id": "B3512",
+    "meaning": "植物根、来源、扎根与拔根；拱土和喝彩分支",
+    "core": "ROOT：先抓固定、供养的根，再追到来源和生活根基",
+    "image": "root → rooting；beetroot 食材；rootstock 支撑基株；uproot 拔根、迁离；rootkit 技术词选系统根权限等支。",
+    "intro": "根能引出原因、词根、生活背景，但并非同形 root 每个义都由植物根直线派生。支持球队、拱土的历史关系要分别交代。",
+    "forms": "rót → root 名词及生根动词；wrōtan → 拱土 root；root for 的习语来源有讨论；root + -ing/stock/kit；beet + root；up- + root。\n\n植物根接北欧词族，拱土和支持喝彩的动词各有历史，本次以根与来源为重点。\n\nbeet 经古英语 bete 借拉丁 beta；beet + root 是甜菜的根。不是英语 beat 打击改一个字母形成。\n\n植物根的 root 接古英语、北欧相应词族；生根、扎根动词在此词线发展。root + -ed，/t/ 后读 /ɪd/；rooted in 常说根源、基础在某处。",
+    "branches": [
+      [
+        "根与根的变化",
+        "root · rooting"
+      ],
+      [
+        "食材和根基植物",
+        "beetroot · rootstock"
+      ],
+      [
+        "拔根与技术组合",
+        "uproot · rootkit"
+      ],
+      [
+        "root → roots：根部、来源与词根",
+        "root · roots"
+      ],
+      [
+        "beet → beetroot：甜菜到甜菜根",
+        "beet · beetroot"
+      ],
+      [
+        "root → rooted：扎根与有根据",
+        "rooted"
+      ]
+    ],
+    "contrasts": "root/route 根与路线；root for/root out 支持与清除；rootstock/scion 砧木与接穗；rootkit 不等于所有管理员工具。",
+    "practice": "The gardener watched the cuttings rooting and checked the rootstock before uprooting an old tree.\n\n园丁观察插枝生根、检查砧木，然后去拔一棵老树。",
+    "words": [
+      "root",
+      "rooting",
+      "beetroot",
+      "rootstock",
+      "uproot",
+      "rootkit",
+      "roots",
+      "beet",
+      "rooted"
+    ],
+    "exclude": {
+      "root-fallen": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rooty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rooter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3369",
+    "meaning": "挡光形成的影子，以及跟随、隐蔽、盖过",
+    "core": "SHADOW：暗形跟着物走，别的事也可能盖在阴影下",
+    "image": "shadow → shadowy 模糊、神秘 → shadowing 跟岗、跟读；overshadow 盖过；foreshadow 事先投影般预示。",
+    "intro": "同一个影子有两条好抓的线：挡光让人看不清，跟随让动作紧挨着。前缀 over-、fore- 再改变覆盖与先后的关系。",
+    "forms": "sċeadu/sċeaduwe → shade/shadow；shadow + -y/-ing；over-/fore- + shadow。\n\n与 shade 同出古英语词形分支，跟随、笼罩等比喻从影子关系发展。\n\n现代英语组合的化妆品名称，材料义常不可数。\n\nshade、shadow 接古英语同一词的不同形态发展；shadowed 可说遮暗、情绪笼罩或跟着观察，按宾语辨义。",
+    "branches": [
+      [
+        "影子和模糊形态",
+        "shadow · shadowy"
+      ],
+      [
+        "紧随学习及遮蔽过程",
+        "shadowing"
+      ],
+      [
+        "覆盖和预示",
+        "overshadow · foreshadow"
+      ],
+      [
+        "shadow → shadows：光被遮住留下的影子",
+        "shadow · shadows"
+      ],
+      [
+        "eye + shadow → eyeshadow：用于眼周的颜色阴影",
+        "shadow · eyeshadow"
+      ],
+      [
+        "shadow：阴影笼罩与形影相随",
+        "shadow · shadows · shadowed · shadowing"
+      ]
+    ],
+    "contrasts": "shadow/shade 投影与遮阴区域；shadowy 不自动犯罪；shadowing 跟岗不只秘密尾随；overshadow/foreshadow 盖过与预示。",
+    "practice": "While shadowing her colleague, she learned how one dramatic story can overshadow quieter achievements.\n\n跟岗时，她学到了一个轰动故事怎样会盖过那些不张扬的成就。",
+    "words": [
+      "shadow",
+      "shadowy",
+      "shadowing",
+      "overshadow",
+      "foreshadow",
+      "shadows",
+      "eyeshadow",
+      "shadowed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4470",
+    "meaning": "适合标准、得体，转到像样、厚道与否定",
+    "core": "DECENT：达到应有的标准，对人也要有基本体面",
+    "image": "decent → decency 性质、基本公德 → decently 方式；indecent 超过合宜尺度。",
+    "intro": "像样的一餐、厚道的人、基本道歉礼貌，靠合乎应有标准串起来。否定词不只限制在一种不雅话题，也不自动等于法律定罪。",
+    "forms": "decēre → decēns → decent；decentia → decency；decent + -ly；in- + decent 等对应 → indecent。",
+    "branches": [
+      [
+        "合宜、性质与方式",
+        "decent · decency · decently"
+      ],
+      [
+        "否定合宜",
+        "indecent"
+      ]
+    ],
+    "contrasts": "decent/descent/dissent 重音和词源分开；decency 不只衣着；indecent 不总等于 illegal。",
+    "practice": "A decent person shows basic decency by treating others decently.\n\n厚道的人通过体面待人，表现出基本公德。",
+    "words": [
+      "decent",
+      "decency",
+      "decently",
+      "indecent"
+    ],
+    "exclude": {}
+  }
+]

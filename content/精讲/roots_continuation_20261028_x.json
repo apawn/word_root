@@ -1,0 +1,63 @@
+[
+  {
+    "id": "B3191",
+    "meaning": "游戏、比赛；愿意尝试；猎物",
+    "core": "GAME：参与活动是中心，但现代已分出不同用法",
+    "image": "一场游戏、一场比赛，肯不肯参与；到了猎场，game 又指被猎取的动物。",
+    "intro": "game 接古英语 gamen“欢乐、娱乐”，更早构成有不同分析。不能看到 gamer、gamekeeper 就以为所有 game 都指电子游戏；后者用猎物义。",
+    "forms": "先学 game、gamer、gameplay、gamepad、minigame；比赛时间有 pregame、gameday、postgame、endgame，非游戏活动引入机制叫 gamification。gamely 接有斗志义，gamekeeper、gamey 接猎物义；gamble 单独说明历史关联。\n\n复数 games 可说多场活动，也可在 play games 中说耍花招；game 狩猎物的集合义一般不这样数。\n\n本族娱乐词和英语动词用途，电脑游戏是现代扩展。",
+    "branches": [
+      [
+        "玩家与玩法",
+        "game · gamer · gameplay · gamepad · minigame"
+      ],
+      [
+        "赛前、赛日与赛后",
+        "pregame · gameday · postgame · endgame"
+      ],
+      [
+        "玩法进入其他活动、争胜手腕",
+        "gamification · gamesmanship"
+      ],
+      [
+        "应战、风险与另一个义项",
+        "gamely · gamble · gamekeeper · gamey"
+      ],
+      [
+        "game → games：游戏、比赛与花招",
+        "game · games"
+      ],
+      [
+        "game → gaming：游戏活动与利用规则",
+        "game · gaming"
+      ]
+    ],
+    "contrasts": "gamesmanship 不等于 sportsmanship；gamekeeper 管猎场，gamey 说野味风味，gamely 则说不服输地尝试。",
+    "practice": "The gamer gamely tried the new minigame with a gamepad.\n\n这位玩家拿着手柄，兴致不减地尝试了新小游戏。",
+    "words": [
+      "game",
+      "gamer",
+      "gameplay",
+      "gamepad",
+      "minigame",
+      "pregame",
+      "gameday",
+      "postgame",
+      "endgame",
+      "gamification",
+      "gamesmanship",
+      "gamely",
+      "gamble",
+      "gamekeeper",
+      "gamey",
+      "games",
+      "gaming"
+    ],
+    "exclude": {
+      "in-game": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "game-end": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "game-making": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ingame": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

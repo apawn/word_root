@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B3545",
+    "meaning": "酱汁、调味液体，相关器具及带俏皮、冒犯感的扩展",
+    "core": "SAUCE：给食物添味；SAUCY 则已有自己的语气",
+    "image": "sauce → saucepan；applesauce 是具体食物；saucy 看大胆、俏皮或冒犯的态度。",
+    "intro": "食物主线来自调味。形容人 saucy，不能只译满身都是酱；要看已经形成的俏皮、放肆等用法。",
+    "forms": "拉丁 salsus 咸的及相应酱汁形式，经法语 sauce 进入英语；pan 锅，-y 性质。",
+    "branches": [
+      [
+        "食物与器具",
+        "sauce · applesauce · saucepan"
+      ],
+      [
+        "态度、语气的扩展",
+        "saucy"
+      ]
+    ],
+    "contrasts": "sauce 与 source 来源在一些口音同音，来源与意义不同；saucy 不总在夸食物有味道。",
+    "practice": "She heated the sauce in a saucepan and served it with dinner.\n\n她用小锅热了酱汁，晚餐时一起端上桌。",
+    "words": [
+      "sauce",
+      "applesauce",
+      "saucepan",
+      "saucy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2886",
+    "meaning": "倾斜、依靠与倾向，另有瘦、少脂肪及精简的形容词主线",
+    "core": "LEAN：先分倾靠动作和少脂肪性质，再看扩展",
+    "image": "lean 动词 → leaning；lean 形容词 → leaner 比较级。",
+    "intro": "两条古老词形汇到同一拼写，远处关系并非完全确定。用现代常见搭配分清，比牵强串成一个画面更好。",
+    "forms": "hleonian／hlinian → lean 动词；hlǣne → lean 形容词；-ing 过程、倾向，-er 可为比较级或人物词尾。\n\n动词接 hleonian、hlinian，瘦的形容词有另一近源；两种过去形式常用地区有差异。\n\n和 lean 比较倾斜，不是 lean 派生。slope 可能接中古英语 aslope、古英语滑开材料；旧形容、副词到英语动词、名词的形成，不能反画成只有现代斜坡名词先存在。\n\n与 lean 比较倾斜，不是 lean 派生。slant 改自中古英语 slenten 侧滑等材料，可能接北欧同族；实体倾斜后来引申为叙述偏向、看问题的角度。\n\n与 lean 比较倾斜，不由英语 lean 派生。prone 借拉丁 pronus，兼有俯身与倾向义，可能接 pro 向前材料；英语倾向义的记录比俯卧义早，学习画面不等于英语先后顺序。",
+    "branches": [
+      [
+        "基础的两条主线",
+        "lean"
+      ],
+      [
+        "倾向、状态与比较",
+        "leaning · leaner"
+      ],
+      [
+        "lean → leans、leaned、leant：倾斜、依靠",
+        "lean · leans · leaned · leant"
+      ],
+      [
+        "slope：另源的倾斜、斜坡",
+        "slope · slopes · sloped · sloping"
+      ],
+      [
+        "slant：斜着，到偏向某一边",
+        "slant · slants · slanted · slanting"
+      ],
+      [
+        "prone：向前俯 → 易于、倾向于",
+        "prone"
+      ]
+    ],
+    "contrasts": "leaner 常不是 learner；lean on 可依靠，也可施压。",
+    "practice": "The team is leaning towards a leaner structure.\n\n团队正倾向于采用更精简的结构。",
+    "words": [
+      "lean",
+      "leaning",
+      "leaner",
+      "leans",
+      "leaned",
+      "leant",
+      "slope",
+      "slopes",
+      "sloped",
+      "sloping",
+      "slant",
+      "slants",
+      "slanted",
+      "slanting",
+      "prone"
+    ],
+    "exclude": {
+      "lean-back": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4129",
+    "meaning": "给得大方、待人宽厚，以及数量、空间的充足",
+    "core": "GENEROUS：不吝啬、给得足；随对象决定理解",
+    "image": "generous → generously、generosity。",
+    "intro": "从人的举动，到食物分量、空间大小，同一个词族有不同常用观察角度。",
+    "forms": "拉丁 generōsus 经法语 → generous；-ly 副词，generosity 是相应性质名词，另有借词历史。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "generous · generously · generosity"
+      ]
+    ],
+    "contrasts": "generous portions 是分量足，不是每盘食物都有善良性格。",
+    "practice": "The generous host served generously sized portions.\n\n大方的主人端上了分量很足的食物。",
+    "words": [
+      "generous",
+      "generously",
+      "generosity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2415",
+    "meaning": "重量和货币、反复敲打、圈栏扣留的多源同形词",
+    "core": "POUND：至少三条主线，先看重量、动作还是围栏",
+    "image": "pound → pounder 可接不同义；impound 只接圈住、扣留这条主线。",
+    "intro": "用多条短路线解释，比把磅、英镑、敲门和扣车塞进一个画面更清楚。",
+    "forms": "pondō → pund → 重量 pound；pūnian → pounen → 敲打 pound；围栏 pound → im- + pound。\n\n重量和货币义有历史联系，动词敲打与围栏等另有词支。\n\npond 接 pound 圈围一支的变体，不接一磅重量，也不接捶打动作；更远来源未明。\n\npesto 接意大利语 pestare 捣、碾的分词材料，远处与拉丁捣碎词族、pestle 名称相关。与英语 pound 只是动作意义对照，不表示由英语 pound 改音产生。",
+    "branches": [
+      [
+        "基础的多条来源",
+        "pound"
+      ],
+      [
+        "按重量或动作命名",
+        "pounder"
+      ],
+      [
+        "圈住、扣留",
+        "impound"
+      ],
+      [
+        "pound → pounds：重量、钱币；敲打另源",
+        "pound · pounds"
+      ],
+      [
+        "pound 的围栏线与 pond：围住动物、围住水",
+        "pound · pond · ponds"
+      ],
+      [
+        "与 pound 动作对照：pesto 捣碎的酱",
+        "pesto"
+      ]
+    ],
+    "contrasts": "impound 不等于罚款；pounder 的 -er 也不总是人物。",
+    "practice": "The lesson distinguishes a pound of fruit, a meat pounder and an impounded car.\n\n这课区分一磅水果、捣肉器与被扣留的车。",
+    "words": [
+      "pound",
+      "pounder",
+      "impound",
+      "pounds",
+      "pond",
+      "ponds",
+      "pesto"
+    ],
+    "exclude": {
+      "pound-force": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pound-mass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-pounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-pounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "third-pounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "B2842",
+    "meaning": "费用、成本；付出的代价",
+    "core": "COST：要得到它，得付出去什么",
+    "image": "钱是最直接的成本，时间、机会、信任也是代价；costly 把这个代价强调为很高。",
+    "intro": "cost 经法语接拉丁历史形式，现代直接按花费和代价使用。主语通常是物或事情；核算预算的 costed 与花费过去式 cost 分清。",
+    "forms": "cost → costly；-ly 在这里成形容词，像 friendly 一类，不一律看成副词。\n\ncost 经法语接拉丁 constare 一系，现代 -s 可标名词复数或单数主语花费。\n\ncost 经法语、拉丁 constare 立在某价位的词族，现代加 -ing 原词不改。正在耗费与估算成本的动作都可，也可作成本估算名词。",
+    "branches": [
+      [
+        "花费及高代价",
+        "cost · costly"
+      ],
+      [
+        "cost → costs：费用；使付出代价",
+        "cost · costs"
+      ],
+      [
+        "cost 成本、花费 → costing",
+        "costing"
+      ]
+    ],
+    "contrasts": "The ticket cost me ten pounds；I spent ten pounds on it。costly mistake 代价高，不一定是在商店买贵了。",
+    "practice": "The costly delay increased the total cost of the project.\n\n代价高昂的延误增加了项目总成本。",
+    "words": [
+      "cost",
+      "costly",
+      "costs",
+      "costing"
+    ],
+    "exclude": {
+      "cost-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cost-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2455",
+    "meaning": "星、星形、明星；耀眼、成名与指引",
+    "core": "STAR：亮在远处，再到人群里的突出者",
+    "image": "先看 star、starred、starry，再把明星与成名词连读；科幻、动物、图案和指引比喻另成组。",
+    "intro": "star 继承古英语 steorra。-let 指小、-dom 状态、co- 共同、mega- 加强，分别形成不同角色。starboard 右舷另源于掌舵侧，是形似辨析，不当真正星派生。",
+    "forms": "star → starred、starry；starlet → star、rockstar、costar、superstar、megastar；stardom 明星地位；starship、starfish 等依用途、外形命名。\n\nstar 继承古英语 steorra；星形标记、名人和主演等现代分支分别看。\n\n本族星词的明星比喻，现代先双写 r，再加 ing，完整后缀不丢。",
+    "branches": [
+      [
+        "基础、标星与多星",
+        "star · starred · starry · starlight"
+      ],
+      [
+        "明星角色和地位",
+        "starlet · rockstar · costar · superstar · megastar · stardom"
+      ],
+      [
+        "太空、星芒与动物名",
+        "starship · stardust · starburst · starfish"
+      ],
+      [
+        "观星与指引",
+        "stargazer · lodestar"
+      ],
+      [
+        "另源形似辨析",
+        "starboard"
+      ],
+      [
+        "star → stars：星星、明星与主演",
+        "star · stars"
+      ],
+      [
+        "star → starring：明星、主演与片名中的演员介绍",
+        "star · starring"
+      ]
+    ],
+    "contrasts": "starred 不等于 stared；costar 不是 cost 加后缀；starfish 不是现代鱼类；starboard 不是星星板。",
+    "practice": "The young starlet costarred in a film that brought her stardom.\n\n那位演艺新星联合主演了一部电影，并因此成名。",
+    "words": [
+      "star",
+      "starred",
+      "starry",
+      "starlight",
+      "starlet",
+      "rockstar",
+      "costar",
+      "superstar",
+      "megastar",
+      "stardom",
+      "starship",
+      "stardust",
+      "starburst",
+      "starfish",
+      "stargazer",
+      "lodestar",
+      "starboard",
+      "stars",
+      "starring"
+    ],
+    "exclude": {
+      "star-crossed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "worm-star": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stargate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "starcraft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "starfighter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "instar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "starrer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tristar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "starman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "starbase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3744",
+    "meaning": "织成的网；蛛网、关系网与万维网",
+    "core": "WEB：细线彼此牵连，织成一个整体",
+    "image": "先抓住织网，再理解谎言网、关系网；万维网借同样的互联图景。在线播出、商店再按功能形成词。",
+    "intro": "web 继承古英语 webb，与 weave 历史相关。cobweb 前半是蜘蛛旧称，不是玉米芯；现代 Web 与整个互联网基础设施分开。",
+    "forms": "web → spiderweb、cobweb；Web → website、webcast、webstore。前一组具体网，后一组在线信息功能。\n\nWeb 给网络用途，cam 缩自 camera，不取机械凸轮的另源 cam。\n\nweb 是网络用途，cast 接播出材料；是否现场实时，另看 live 等限定。",
+    "branches": [
+      [
+        "织网、蛛网与关系",
+        "web · spiderweb · cobweb"
+      ],
+      [
+        "在线页面、播出与商店",
+        "website · webcast · webstore"
+      ],
+      [
+        "web + cam → webcam → webcams：网络摄像头",
+        "web · webcam · webcams"
+      ],
+      [
+        "webcast 的网络播送与常用形式",
+        "webcast · webcasts · webcasting"
+      ]
+    ],
+    "contrasts": "web 不等于全部 internet；cobweb 不从玉米芯来；webcast 可以录播，webstore 只是网站的一类用途。",
+    "practice": "The webstore’s website hosted a webcast about handmade weaving.\n\n网店的网站播出了一段介绍手工编织的网络节目。",
+    "words": [
+      "web",
+      "spiderweb",
+      "cobweb",
+      "website",
+      "webcast",
+      "webstore",
+      "webcam",
+      "webcams",
+      "webcasts",
+      "webcasting"
+    ],
+    "exclude": {
+      "webber": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "webby": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3630",
+    "meaning": "整体中的部分；团体成员、会籍",
+    "core": "MEMBER：把组织看成整体，人是其中一员",
+    "image": "从身体部位到团体成员，抓住整体中的一部分；membership 再说成员身份或整个成员群体。",
+    "intro": "member 经法语接拉丁 membrum 肢体。crew、council 等把成员所在整体说明白，-ship 则把人物变成身份、状态及集合。",
+    "forms": "member → membership；crew + member → crewmember；councilmember 是已学同类固定称谓。\n\nmember 接拉丁 membrum 身体的一部分，扩展为组织成员；members 可指会员、委员等。",
+    "branches": [
+      [
+        "成员与会籍",
+        "member · membership"
+      ],
+      [
+        "不同团队中的一员",
+        "crewmember · councilmember"
+      ],
+      [
+        "member → members：团体成员",
+        "member · members"
+      ]
+    ],
+    "contrasts": "member 一位成员，membership 会籍、成员群体；crew 集合，crewmember 其中一人。",
+    "practice": "The new crewmember was already a member of the sailing club.\n\n这位新船员原本就是帆船俱乐部成员。",
+    "words": [
+      "member",
+      "membership",
+      "crewmember",
+      "councilmember",
+      "members"
+    ],
+    "exclude": {
+      "e-member": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-member": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-member": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "membered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

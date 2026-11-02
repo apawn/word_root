@@ -1,0 +1,119 @@
+[
+  {
+    "id": "B3326",
+    "meaning": "活动画面缩短成电影称呼",
+    "core": "MOVIE：moving picture 的日常短称",
+    "image": "把活动画面缩短成电影称呼，先掌握 watch a movie 与 go to the movies。",
+    "intro": "现代名词由 moving picture 相关缩短形式构成，昵称式 -ie 不是现代拉丁词根。较冷的 telemovie 暂留词典版。",
+    "forms": "moving picture → movie；movie star、movie theatre 为常用短语。\n\nmoving picture 的缩短及 -ie 形成 movie，再加 s 为 movies。",
+    "branches": [
+      [
+        "常用基本词",
+        "movie"
+      ],
+      [
+        "movie → movies：活动影像与电影",
+        "movie · movies"
+      ]
+    ],
+    "contrasts": "movie 多指电影，film 另有胶片、薄膜义；不是所有运动都叫 movie。",
+    "practice": "The movie tells the story of a young filmmaker.\n\n电影讲述了一位年轻电影制作者的故事。",
+    "words": [
+      "movie",
+      "movies"
+    ],
+    "exclude": {
+      "e-movie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "telemovie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3966",
+    "meaning": "从消遣到体育与运动风格",
+    "core": "SPORT：娱乐玩乐的历史，体育运动的现代重点",
+    "image": "sport、sports、sporty 紧挨着读，分清活动、惯用修饰和设计风格。",
+    "intro": "sport 从 disport 缩短，经法语接消遣词；名词前 sports 是实际搭配，不按单复数一条规则乱推。",
+    "forms": "sport → sports、sporty；motor、super + sport 为已有相关词。\n\nsport 是 disport 前部脱落，经法语消遣词传来；现代还有穿戴、展示的动词用法。",
+    "branches": [
+      [
+        "基本词与形式、风格",
+        "sport · sports · sporty"
+      ],
+      [
+        "相关复合词",
+        "motorsport · supersport"
+      ],
+      [
+        "sport → sporting：消遣到运动、风度与展示",
+        "sport · sporting"
+      ]
+    ],
+    "contrasts": "a good sport 是有风度的人；a sports car 一辆车；sporty 衣着不等于具备运动能力。",
+    "practice": "She likes sport and often wears sporty clothes.\n\n她喜欢运动，也经常穿运动风衣服。",
+    "words": [
+      "sport",
+      "sports",
+      "sporty",
+      "motorsport",
+      "supersport",
+      "sporting"
+    ],
+    "exclude": {
+      "mar-sport": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sportive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sportster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4288",
+    "meaning": "复制、再现与产出过量",
+    "core": "PRODUCTION：产出；RE- 再产出，OVER- 产出过头",
+    "image": "基本词 production 与 preproduction 已精讲，这里接复制、繁殖和过剩。",
+    "intro": "production 的历史接引出、产出的拉丁词族；reproduction 有多条应用语境，overproduction 明确过量。",
+    "forms": "production → preproduction、reproduction、overproduction。",
+    "branches": [
+      [
+        "基本生产与准备",
+        "production · preproduction"
+      ],
+      [
+        "再次产出与产出过量",
+        "reproduction · overproduction"
+      ]
+    ],
+    "contrasts": "reproduction 也可生物繁殖，不只复印；overproduction 不是一切大规模生产。",
+    "practice": "The company reduced production to avoid overproduction.\n\n公司削减产量，避免生产过剩。",
+    "words": [
+      "production",
+      "preproduction",
+      "reproduction",
+      "overproduction"
+    ],
+    "exclude": {
+      "post-production": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-production": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4166",
+    "meaning": "管理者的机构与职务",
+    "core": "DIRECTOR：人；DIRECTORATE：机构；DIRECTORSHIP：职务",
+    "image": "以已有 director 为基础，接机构群体与职位任期两种名词扩展。",
+    "intro": "director 词族接引导方向、管理的历史词。后缀分别标明机构与身份，不只是笼统多一个名词。",
+    "forms": "director → directorate、directorship。",
+    "branches": [
+      [
+        "个人、机构、职位",
+        "director · directorate · directorship"
+      ]
+    ],
+    "contrasts": "directorate 不是 directory 名录；directorship 不是 direction 方向；-ship 此处不指船。",
+    "practice": "The directorate approved her appointment to the directorship.\n\n管理机构批准她出任主管。",
+    "words": [
+      "director",
+      "directorate",
+      "directorship"
+    ],
+    "exclude": {}
+  }
+]

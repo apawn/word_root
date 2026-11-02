@@ -1,0 +1,95 @@
+[
+  {
+    "id": "B4165",
+    "meaning": "从随从到天体陪伴者，以及依附中心的机构",
+    "core": "SATELLITE：围着中心、依附中心的陪伴者",
+    "image": "satellite → microsatellite；小型航天器与短重复DNA序列是不同领域的用法。",
+    "intro": "随从的旧义很好地连起卫星、卫星城、附属办事处。DNA术语是另一种科学命名，不拿空间运行的画面机械套。",
+    "forms": "satelles／satellit- → 法语、英语 satellite；micro- 使大小或尺度受限，但具体尺度、对象由领域确定。\n\nsatellite 经法语、拉丁 satelles 随从、侍卫等，远源未定；后来比喻随行的天体，再用于人造卫星。现代保留 e 加 -s，词尾 /ts/。",
+    "branches": [
+      [
+        "基础与小尺度扩展",
+        "satellite · microsatellite"
+      ],
+      [
+        "随从 → 卫星 → satellites",
+        "satellites"
+      ]
+    ],
+    "contrasts": "satellite 不全人造；microsatellite 的遗传学义不是微小天体。",
+    "practice": "The exhibit compares a natural satellite with an artificial microsatellite.\n\n展览比较了自然卫星和人造微型卫星。",
+    "words": [
+      "satellite",
+      "microsatellite",
+      "satellites"
+    ],
+    "exclude": {
+      "anti-satellite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quasi-satellite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3797",
+    "meaning": "爵士乐，以及活力、鲜明风格的扩展",
+    "core": "JAZZ：音乐名称之外，还可借活力、热闹来形容风格",
+    "image": "jazz → jazzy；jazz up 是增添趣味、活力。",
+    "intro": "源头不完全确定，现代用法却能靠真实搭配学清楚。音乐、视觉装饰和口语套语各有分工。",
+    "forms": "美国早期 jazz 口语 → 音乐名、动词；-y 形成 jazzy。",
+    "branches": [
+      [
+        "音乐、动作与风格",
+        "jazz · jazzy"
+      ]
+    ],
+    "contrasts": "jazzy 的视觉用法不要求真有爵士乐；all that jazz 是口语等等。",
+    "practice": "The jazz band played under a jazzy poster at the festival.\n\n爵士乐队在音乐节上一张色彩活泼的海报下演奏。",
+    "words": [
+      "jazz",
+      "jazzy"
+    ],
+    "exclude": {
+      "jazz-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4313",
+    "meaning": "火箭、快速上升与技术人物；另辨蔬菜的同形名称",
+    "core": "ROCKET：火箭的形状命名，与芝麻菜另有来源",
+    "image": "rocket → rocketry 技术领域、rocketeer 人物、skyrocket 猛升；菜名 rocket 独立记。",
+    "intro": "技术词族沿火箭义扩展，食物名称另接植物借词。看上下文，才不会把菜单读成航天说明。",
+    "forms": "意大利 rocca 的小称等 → 火箭 rocket；-ry 领域、-eer 人物；植物名经 roquette 等另线借入。\n\n意大利纺纱杆小称按形状命名火箭；蔬菜同形词另一来源。\n\nrocket 火箭由意大利 rocchetto 线轴般形状的命名借入；另有蔬菜 rocket 的独立来源。skyrocket 是 sky 加火箭名词，后来作急升动词，现代用法不保证随后下跌。",
+    "branches": [
+      [
+        "火箭、技术与人物",
+        "rocket · rocketry · rocketeer"
+      ],
+      [
+        "快速上升的扩展",
+        "skyrocket"
+      ],
+      [
+        "rocket → rockets：火箭与快速上升",
+        "rocket · rockets"
+      ],
+      [
+        "rocket 与 skyrocket：像火箭般向上冲",
+        "rocket · rocketed · rocketing · skyrocket · skyrockets · skyrocketed · skyrocketing"
+      ]
+    ],
+    "contrasts": "rocketry 不是复数；rocketeer 不必是宇航员；rocket 菜名不是火箭比喻。",
+    "practice": "The rocketeer studied rocketry before helping design a new rocket.\n\n这位火箭工作者先学习火箭技术，后来参与设计新火箭。",
+    "words": [
+      "rocket",
+      "rocketry",
+      "rocketeer",
+      "skyrocket",
+      "rockets",
+      "rocketed",
+      "rocketing",
+      "skyrockets",
+      "skyrocketed",
+      "skyrocketing"
+    ],
+    "exclude": {}
+  }
+]

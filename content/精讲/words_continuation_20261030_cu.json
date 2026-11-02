@@ -1,0 +1,572 @@
+[
+  {
+    "word": "guard",
+    "ipa": "英 /ɡɑːd/；美 /ɡɑːrd/",
+    "meaning": "守卫、保护；警卫；防护装置；戒备",
+    "sense": "盯着可能出问题的地方，挡住外来的危险。既可以是守门的人，也可以是保护机器、身体的装置。",
+    "split": "经法语 garder、garde 等进入英语，背后接日耳曼语看守词族。和 ward 同族但传入路径不同，不把现代英语 ward 直接改两个字母叫唯一历史。",
+    "history": [
+      [
+        "日耳曼语看守词族 → 法语 guarder、garde → 英语 guard",
+        "看守、保护；与本族 ward 是不同传入路径的同族词"
+      ],
+      [
+        "英语 guard",
+        "保护、警戒；守卫、防护装置；防备姿态"
+      ]
+    ],
+    "explanation": "guard the entrance 守入口，a security guard 保安，a machine guard 机器护罩，be on guard 保持警惕，lower your guard 放松戒备。",
+    "usage": "guard against；a security guard；be on guard；lower your guard。",
+    "contrast": "guard 看守、防护，guardian 监护、守护者更重长期照看责任；guard 名词也可装置，不一律译成保安。",
+    "examples": [
+      [
+        "A guard stood beside the entrance.",
+        "一位警卫站在入口旁。"
+      ],
+      [
+        "The cover guards the moving parts against dust.",
+        "外罩保护活动部件免受灰尘影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guard#English"
+    ]
+  },
+  {
+    "word": "guarded",
+    "ipa": "英 /ˈɡɑːdɪd/；美 /ˈɡɑːrdɪd/",
+    "meaning": "有防卫的；谨慎、有保留的",
+    "sense": "说话像把门只开一条缝，给一点回应，却不把真实态度全部摊开。这是 guarded answer 很直观的感觉。",
+    "split": "guard + -ed，保护、戒备的分词结果转成形容词，后来扩展到谨慎发言、不轻易表态。d 后 -ed 读 /ɪd/。",
+    "history": [
+      [
+        "日耳曼语看守词族 → 法语 guarder、garde → 英语 guard",
+        "看守、保护；与本族 ward 是不同传入路径的同族词"
+      ],
+      [
+        "英语 guard",
+        "保护、警戒；守卫、防护装置；防备姿态"
+      ],
+      [
+        "guard + -ed → guarded",
+        "受保护的；比喻表达上有戒备、保留的"
+      ]
+    ],
+    "explanation": "a guarded entrance 有守卫的入口，a guarded reply 谨慎答复，guarded optimism 谨慎乐观。",
+    "usage": "a guarded reply；guarded optimism；a guarded entrance。",
+    "contrast": "guarded reply 并非有保安护送的答复；guarded optimism 看好但保留条件，不等于完全悲观。",
+    "examples": [
+      [
+        "She gave a guarded reply to the unexpected question.",
+        "对那个意外问题，她谨慎地作了答复。"
+      ],
+      [
+        "The news was met with guarded optimism.",
+        "人们对这消息抱着谨慎乐观的态度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guarded#English"
+    ]
+  },
+  {
+    "word": "guardian",
+    "ipa": "英 /ˈɡɑːdiən/；美 /ˈɡɑːrdiən/",
+    "meaning": "监护人；守护者",
+    "sense": "不只是临时看一扇门，而是承担照看、保护某人或某种事物的责任。",
+    "split": "经中古英语 gardein 等接法语 guardein，与 guarder 看守同族；现代可对照 guard + -ian，但有独立法语人物词路径。与 warden 也有历史同族关系。",
+    "history": [
+      [
+        "日耳曼语看守词族 → 法语 guarder、garde → 英语 guard",
+        "看守、保护；与本族 ward 是不同传入路径的同族词"
+      ],
+      [
+        "法语 guardein → 中古英语 gardein 等 → guardian",
+        "看护、保护的人；监护人、守护者"
+      ]
+    ],
+    "explanation": "a parent or guardian 家长或监护人，a legal guardian 法定监护人，a guardian of tradition 传统守护者。具体法律身份依适用制度确定，词本身不授予身份。",
+    "usage": "a parent or guardian；a legal guardian；a guardian of tradition。",
+    "contrast": "guardian 长期照护角色，bodyguard 保镖更偏人身安全；guard 单次看守人物、装置等更广。",
+    "examples": [
+      [
+        "The form must be signed by a parent or guardian.",
+        "表格须由家长或监护人签字。"
+      ],
+      [
+        "She saw herself as a guardian of the town’s history.",
+        "她把自己看作小镇历史的守护者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guardian#English"
+    ]
+  },
+  {
+    "word": "guardsman",
+    "ipa": "英 /ˈɡɑːdzmən/；美 /ˈɡɑːrdzmən/",
+    "meaning": "近卫军士兵、卫兵〔按国家、部队语境〕",
+    "sense": "作为某个卫队、近卫部队成员的士兵，重点是所属队伍，不只是任何站岗的人。",
+    "split": "guard + 连接 -s- + man，形成卫队成员称呼，复数 guardsmen。中间 s 不是普通复数先加完再随意接另一个单词。",
+    "history": [
+      [
+        "日耳曼语看守词族 → 法语 guarder、garde → 英语 guard",
+        "看守、保护；与本族 ward 是不同传入路径的同族词"
+      ],
+      [
+        "英语 guard",
+        "保护、警戒；守卫、防护装置；防备姿态"
+      ],
+      [
+        "guard + -s- + man → guardsman",
+        "卫队、近卫部队中的成员"
+      ]
+    ],
+    "explanation": "a guardsman on duty 值勤卫兵，a guardsman in uniform 穿制服的卫队成员；某些国家有特定 Guards、National Guard 用法，依背景判断。",
+    "usage": "a guardsman on duty；a uniformed guardsman；two guardsmen。",
+    "contrast": "guardsman 部队身份，security guard 常一般保安；词不自动说明每位卫兵的全部职责。",
+    "examples": [
+      [
+        "A guardsman stood at the palace gate.",
+        "一名卫兵站在宫门前。"
+      ],
+      [
+        "The photographer spoke to two guardsmen after the ceremony.",
+        "典礼后，摄影师与两名卫队士兵交谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guardsman#English"
+    ]
+  },
+  {
+    "word": "guardrail",
+    "ipa": "英 /ˈɡɑːdreɪl/；美 /ˈɡɑːrdreɪl/",
+    "meaning": "护栏；约束、保护边界〔比喻〕",
+    "sense": "路边一排栏杆挡住偏出去的危险；制度、程序里防止事情跑偏的边界，也可借来叫 guardrails。",
+    "split": "guard 防护 + rail 栏杆，合成器物名；比喻再从防越界功能发展。",
+    "history": [
+      [
+        "日耳曼语看守词族 → 法语 guarder、garde → 英语 guard",
+        "看守、保护；与本族 ward 是不同传入路径的同族词"
+      ],
+      [
+        "英语 guard",
+        "保护、警戒；守卫、防护装置；防备姿态"
+      ],
+      [
+        "guard + rail → guardrail",
+        "防护栏；比喻限制不当偏离的边界"
+      ]
+    ],
+    "explanation": "a roadside guardrail 路边护栏，hit the guardrail 撞上护栏，set guardrails for a process 给流程设边界。",
+    "usage": "a roadside guardrail；hit the guardrail；set guardrails。",
+    "contrast": "guardrail 物理或比喻边界，guarantee 保证不同；有护栏不等于任何行为都不可能出错。",
+    "examples": [
+      [
+        "The car stopped just before the guardrail.",
+        "汽车在护栏前刚好停住。"
+      ],
+      [
+        "The guidelines provide guardrails for difficult decisions.",
+        "这些准则为困难决策提供了边界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guardrail#English"
+    ]
+  },
+  {
+    "word": "guardhouse",
+    "ipa": "英 /ˈɡɑːdhaʊs/；美 /ˈɡɑːrdhaʊs/",
+    "meaning": "警卫室、卫兵值勤房",
+    "sense": "门口有卫兵值勤，给他们设的一间房；军事语境还可承担拘留等用途，要看具体场所。",
+    "split": "guard 警卫 + house 房屋，按使用者、用途组成建筑名。",
+    "history": [
+      [
+        "日耳曼语看守词族 → 法语 guarder、garde → 英语 guard",
+        "看守、保护；与本族 ward 是不同传入路径的同族词"
+      ],
+      [
+        "英语 guard",
+        "保护、警戒；守卫、防护装置；防备姿态"
+      ],
+      [
+        "guard + house → guardhouse",
+        "警卫值勤等用途的房屋"
+      ]
+    ],
+    "explanation": "a guardhouse at the gate 门口警卫室，report to the guardhouse 到警卫室报到，the old guardhouse 旧警卫室。",
+    "usage": "at the guardhouse；a guardhouse at the gate；the old guardhouse。",
+    "contrast": "guardhouse 房屋，guardsman 人；不是专门用来保护普通 house 的所有房屋总称。",
+    "examples": [
+      [
+        "Visitors reported to the guardhouse at the main gate.",
+        "访客先到大门口警卫室报到。"
+      ],
+      [
+        "The old guardhouse is now part of the museum.",
+        "旧警卫室现在成了博物馆的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guardhouse#English"
+    ]
+  },
+  {
+    "word": "improve",
+    "ipa": "/ɪmˈpruːv/",
+    "meaning": "改进、改善；进步、变好",
+    "sense": "原来的东西还不够好，做些调整后更有用、更有效，或表现上升；自己进步也可不带宾语。",
+    "split": "接盎格鲁法语 emprouwer，使产生收益的旧意，后发展为使更好。词形后受 prove 等影响，不等于词源是 im- 否定 + prove 证明。",
+    "history": [
+      [
+        "盎格鲁法语 emprouwer 等 → 英语 improve",
+        "使产生收益、善加利用；与 prou 收益相关"
+      ],
+      [
+        "英语 improve",
+        "提高质量、改善；自己变好，拼写受 prove 等词影响"
+      ]
+    ],
+    "explanation": "improve the design 改进设计，improve your English 提高英语，conditions improve 情况改善，improve on a result 取得更好成绩。",
+    "usage": "improve the design；improve your English；improve on；improve steadily。",
+    "contrast": "improve 及物改进某物、不及物自身变好都可；prove 证明，不是 improve 的相反动作。",
+    "examples": [
+      [
+        "The new handle improves the design.",
+        "新把手让设计更好了。"
+      ],
+      [
+        "Her English has improved a lot this year.",
+        "她的英语今年进步很大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improve#English",
+      "https://www.etymonline.com/word/improve"
+    ]
+  },
+  {
+    "word": "improvement",
+    "ipa": "/ɪmˈpruːvmənt/",
+    "meaning": "改善、进步；改进之处",
+    "sense": "既可说整体变好的过程，也可数具体改了哪几处。a small improvement 是有进步，不保证已经完美。",
+    "split": "有盎格鲁法语 emprouwement 的名词来源，现代对应 improve + -ment。保留平行名词借入背景，不把词尾讲成毫无历史的现拼。",
+    "history": [
+      [
+        "盎格鲁法语 emprouwer 等 → 英语 improve",
+        "使产生收益、善加利用；与 prou 收益相关"
+      ],
+      [
+        "盎格鲁法语 emprouwement → improvement",
+        "使产生收益、改善；现代与 improve + -ment 对照"
+      ]
+    ],
+    "explanation": "an improvement in accuracy 准确性提高，an improvement on the old version 比旧版更好，make improvements 作改进。",
+    "usage": "an improvement in；an improvement on；make improvements。",
+    "contrast": "improvement 过程或具体变化，improver 人或改良物；有 improvement 仍可能有问题待解决。",
+    "examples": [
+      [
+        "There has been a clear improvement in her writing.",
+        "她的写作有了明显进步。"
+      ],
+      [
+        "The new version includes several small improvements.",
+        "新版包含几处小改进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improvement#English"
+    ]
+  },
+  {
+    "word": "improver",
+    "ipa": "英 /ɪmˈpruːvə/；美 /ɪmˈpruːvər/",
+    "meaning": "进阶学习者；改进者、改良材料",
+    "sense": "比刚开始多学了一些、还在继续进步的人，在课程分组里可叫 improver；某些材料则以改善效果得名。",
+    "split": "improve + -er，人或改善用物名称。即兴表演 improv 的人物词也可能同形，但来源和重音不同，不混入改进义。",
+    "history": [
+      [
+        "盎格鲁法语 emprouwer 等 → 英语 improve",
+        "使产生收益、善加利用；与 prou 收益相关"
+      ],
+      [
+        "英语 improve",
+        "提高质量、改善；自己变好，拼写受 prove 等词影响"
+      ],
+      [
+        "improve + -er → improver",
+        "有进步的学习者；改良者或材料"
+      ]
+    ],
+    "explanation": "a class for improvers 进阶班，beginners and improvers 初学者与进阶者，a bread improver 面包改良剂〔行业用语〕。",
+    "usage": "a class for improvers；beginners and improvers；a bread improver。",
+    "contrast": "improver 学习者分组依课程标准，不是一种统一考试等级；improvement 进步本身。",
+    "examples": [
+      [
+        "The swimming class is suitable for beginners and improvers.",
+        "游泳课适合初学者和已有一些基础的人。"
+      ],
+      [
+        "She joined the improvers’ group after learning the basics.",
+        "她学过基础后加入了进阶组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improver#English"
+    ]
+  },
+  {
+    "word": "van",
+    "ipa": "/væn/",
+    "meaning": "厢式货车、客货车；〔另缩短〕先头、先锋〔in the van〕",
+    "sense": "车后半截是有顶、有壁的一整块空间，可以装货，也能布置座位。今天日常先掌握这个车辆义。",
+    "split": "车辆 van 是 caravan 的截短。较旧 in the van 站在前列的 van 则来自 vanguard 截短，不能说一辆货车自动变成思想先锋。其他筛谷等旧同形词暂略。",
+    "history": [
+      [
+        "英语 caravan → 截短 van",
+        "较大有篷车辆名称缩短；caravan 有更早跨语言商旅名称背景"
+      ],
+      [
+        "现代 van",
+        "厢式车；小型载客和露营车辆的基础词"
+      ],
+      [
+        "另一缩短：vanguard → van",
+        "先头、先锋位置；in the van 较书面"
+      ]
+    ],
+    "explanation": "a delivery van 送货车，a moving van 搬家货车，a passenger van 载客厢式车。in the van of a movement 是走在运动前列，较旧书面。",
+    "usage": "a delivery van；a moving van；a passenger van。",
+    "contrast": "van 车与 van 先锋来自两个不同长词截短；van/fan 清浊音不同，不把风扇拿来解释货车。",
+    "examples": [
+      [
+        "The boxes arrived in a delivery van.",
+        "箱子由一辆送货车运来了。"
+      ],
+      [
+        "They hired a van to move the furniture.",
+        "他们租了一辆厢式货车搬家具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/van#English"
+    ]
+  },
+  {
+    "word": "minivan",
+    "ipa": "/ˈmɪnivæn/",
+    "meaning": "小型客货车、家用小型厢式车〔尤美式〕",
+    "sense": "借用厢式车的空间，做成适合多人乘坐、家庭出行的车。mini- 与车类基础 van 比较，不是玩具微型车。",
+    "split": "mini- 小型 + van，形成车辆类别名称。具体座位数、分类依市场、车型，不由词形给出统一数字。",
+    "history": [
+      [
+        "英语 caravan → 截短 van",
+        "较大有篷车辆名称缩短；caravan 有更早跨语言商旅名称背景"
+      ],
+      [
+        "现代 van",
+        "厢式车；小型载客和露营车辆的基础词"
+      ],
+      [
+        "mini- + van → minivan",
+        "小型厢式载客、家庭用车类别"
+      ]
+    ],
+    "explanation": "a family minivan 家用小型厢式车，drive a minivan 开小型厢式车，a rented minivan 租来的小型客货车。",
+    "usage": "a family minivan；drive a minivan；a rented minivan。",
+    "contrast": "minivan 与 minibus 都可载多人，但类别和地区称法不同；不能只凭 mini- 推断一定比所有轿车都小。",
+    "examples": [
+      [
+        "The family travelled in a rented minivan.",
+        "一家人坐租来的小型厢式车出游。"
+      ],
+      [
+        "She loaded the bags into the back of the minivan.",
+        "她把包放进小型厢式车后部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/minivan#English"
+    ]
+  },
+  {
+    "word": "campervan",
+    "ipa": "英 /ˈkæmpəvæn/；美 /ˈkæmpərvæn/",
+    "meaning": "露营车、带住宿设施的厢式车",
+    "sense": "把车后面的空间安排成能睡、能住的地方，停车后也能当临时住处。",
+    "split": "camper 露营者、露营用物 + van 厢式车，按用途组成车辆名。camper van 分写也常见。",
+    "history": [
+      [
+        "英语 caravan → 截短 van",
+        "较大有篷车辆名称缩短；caravan 有更早跨语言商旅名称背景"
+      ],
+      [
+        "现代 van",
+        "厢式车；小型载客和露营车辆的基础词"
+      ],
+      [
+        "camper + van → campervan",
+        "适合露营、住宿的厢式车"
+      ]
+    ],
+    "explanation": "hire a campervan 租露营车，travel by campervan 开露营车旅行，a converted campervan 改装露营车。",
+    "usage": "hire a campervan；travel by campervan；a converted campervan。",
+    "contrast": "campervan 通常自身有动力、以厢式车改造，caravan 英式常是拖挂房车；使用范围因地区有重叠。",
+    "examples": [
+      [
+        "They travelled around the coast in a campervan.",
+        "他们开着露营车沿海岸旅行。"
+      ],
+      [
+        "The campervan has a small bed and a folding table.",
+        "露营车里有张小床和一张折叠桌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/campervan#English"
+    ]
+  },
+  {
+    "word": "blog",
+    "ipa": "英 /blɒɡ/；美 /blɑːɡ/ 或 /blɔːɡ/",
+    "meaning": "博客；写博客",
+    "sense": "按时间不断发布文章、记录的一处网上空间；也可以是写这类内容的动作。",
+    "split": "weblog 的缩短，web 网络 + log 日志；不是 b 字母代表某个神秘词根再加木头 log。这里 log 用记录义。",
+    "history": [
+      [
+        "web + log → weblog → blog",
+        "网络记录、日志名称缩短"
+      ],
+      [
+        "现代 blog",
+        "博客；写博客；相应作者和网络群体"
+      ]
+    ],
+    "explanation": "write a blog 写博客，a travel blog 旅行博客，blog about cooking 写烹饪博客，a blog post 一篇博文。",
+    "usage": "a travel blog；write a blog；blog about；a blog post。",
+    "contrast": "blog 通常整处博客或写作活动，blog post 单篇文章；口语里也有人把一篇叫 a blog，具体语境要看清。",
+    "examples": [
+      [
+        "She writes a blog about old buildings.",
+        "她写一个介绍老建筑的博客。"
+      ],
+      [
+        "He blogs about his experiences as a teacher.",
+        "他用博客记录自己的教学经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blog#English",
+      "https://www.etymonline.com/word/blog"
+    ]
+  },
+  {
+    "word": "blogger",
+    "ipa": "英 /ˈblɒɡə/；美 /ˈblɑːɡər/ 或 /ˈblɔːɡər/",
+    "meaning": "博主、博客作者",
+    "sense": "在 blog 发布内容的人。它标写作角色，不自动说明职业、收入或专业资格。",
+    "split": "blog + -er，双写 g，形成人物名词。大写 Blogger 还可见服务专名，按上下文区分。",
+    "history": [
+      [
+        "web + log → weblog → blog",
+        "网络记录、日志名称缩短"
+      ],
+      [
+        "现代 blog",
+        "博客；写博客；相应作者和网络群体"
+      ],
+      [
+        "blog + -er → blogger",
+        "写博客的人"
+      ]
+    ],
+    "explanation": "a food blogger 美食博主，a travel blogger 旅行博主，an independent blogger 独立博客作者。",
+    "usage": "a food blogger；a travel blogger；an independent blogger。",
+    "contrast": "blogger 博客作者，reader 读者；一个人可以兼具两种角色。视频为主的 vlogger 又对应 vlog，不把它们全当同一构词。",
+    "examples": [
+      [
+        "The blogger posted photographs of the local market.",
+        "博主发布了当地市场的照片。"
+      ],
+      [
+        "Several travel bloggers attended the event.",
+        "几位旅行博主参加了活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blogger#English"
+    ]
+  },
+  {
+    "word": "blogosphere",
+    "ipa": "英 /ˈblɒɡəʊsfɪə/；美 /ˈblɑːɡoʊsfɪr/",
+    "meaning": "博客圈、博客世界",
+    "sense": "把很多互相引用、讨论的博客和作者看成一个共同世界；不是实际包着地球的一层气体。",
+    "split": "blog + 连接元音 -o- + -sphere 圈、领域，可能参照 biosphere、atmosphere 等形式。sphere 在这里借指活动圈。",
+    "history": [
+      [
+        "web + log → weblog → blog",
+        "网络记录、日志名称缩短"
+      ],
+      [
+        "现代 blog",
+        "博客；写博客；相应作者和网络群体"
+      ],
+      [
+        "blog + -o- + sphere → blogosphere",
+        "博客共同体、讨论空间"
+      ]
+    ],
+    "explanation": "in the blogosphere 在博客圈，debate across the blogosphere 博客圈广泛讨论，the political blogosphere 政治博客圈。",
+    "usage": "in the blogosphere；the political blogosphere；debate across the blogosphere。",
+    "contrast": "blogosphere 比喻群体和空间，不是所有互联网内容的总称，也不保证其中意见一致。",
+    "examples": [
+      [
+        "The article sparked a debate across the blogosphere.",
+        "文章在博客圈引发了广泛讨论。"
+      ],
+      [
+        "Her work became well known in the local blogosphere.",
+        "她的作品在当地博客圈出了名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blogosphere#English"
+    ]
+  },
+  {
+    "word": "stressor",
+    "ipa": "英 /ˈstresə/；美 /ˈstresər/",
+    "meaning": "压力源、引起压力的因素",
+    "sense": "stress 是承受到的压力，stressor 是把压力带来的那个因素：噪声、赶时间、环境变化，都可能在具体研究中被这样分析。",
+    "split": "stress + -or，形成产生影响的因素名词。这里 -or 不一定是一个有意施压的人，也可能环境条件。",
+    "history": [
+      [
+        "stress 的压力、紧张等用法",
+        "物理受力、心理压力及强调、重音等分别看语境"
+      ],
+      [
+        "stress + -or → stressor",
+        "引起压力反应、负荷的因素"
+      ]
+    ],
+    "explanation": "a major stressor 主要压力源，environmental stressors 环境压力因素，identify stressors 识别压力来源。",
+    "usage": "a major stressor；environmental stressors；identify stressors。",
+    "contrast": "stressor 压力源、stress 压力、stressful 造成压力的性质；同一个因素对不同对象、条件的影响可能不同。",
+    "examples": [
+      [
+        "The survey listed noise as a common workplace stressor.",
+        "调查把噪声列为常见工作场所压力源。"
+      ],
+      [
+        "The experiment compared plants exposed to different environmental stressors.",
+        "实验比较了受到不同环境压力因素影响的植物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stressor#English"
+    ]
+  }
+]

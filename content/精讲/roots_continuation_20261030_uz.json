@@ -1,0 +1,40 @@
+[
+  {
+    "id": "A1890",
+    "meaning": "容器、脉管；vaso- 在现代医学中常指血管",
+    "core": "VAS：能盛放的器物，也能发展为输送液体的管道",
+    "image": "花瓶盛水，船承载人货，血管输送血液。vase、vessel、vascular 的近源不同，但都能追到拉丁 vas 这个容器词族。",
+    "intro": "拉丁 vas，复数 vasa，意为容器。vasculum 是相应小称形式；较后 vascellum 经法语形成 vessel。现代组合形式 vaso- 则把 vas 与连接元音 -o- 组合，常用于血管相关的医学词。",
+    "forms": "vase 经法语借入；vessel 经更长的小称、法语变化链借入；vascular 接 vasculum、vascul- 等性质词材料。它们是同族的不同路径，不是现代英语把 vase 加各种任意字尾。\n\n法语接拉丁小容器材料，英语几种主要义在较早时期已并存，不说现代由 vase 改几个字母而来。",
+    "branches": [
+      [
+        "日常容器",
+        "vase"
+      ],
+      [
+        "容器、船与身体脉管",
+        "vessel"
+      ],
+      [
+        "脉管的性质",
+        "vascular"
+      ],
+      [
+        "vessel → vessels：容器、船与输送管道",
+        "vessel · vessels"
+      ]
+    ],
+    "contrasts": "vase 通常是花瓶、装饰器皿；vessel 可说容器、船或脉管；vascular 是脉管的形容词。现代 vaso- 常特指血管，不能把每个专业复合词都按花瓶理解。",
+    "practice": "The diagram shows blood vessels and other vascular structures.\n\n示意图展示了血管及其他脉管结构。",
+    "words": [
+      "vase",
+      "vessel",
+      "vascular",
+      "vessels"
+    ],
+    "exclude": {
+      "vasoconstriction": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vasodilation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

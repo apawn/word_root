@@ -1,0 +1,183 @@
+[
+  {
+    "id": "B3382",
+    "meaning": "担保、借贷历史走向现代借入，再扩到想法与词语",
+    "core": "BORROW：从别人那里借进来，和 LEND 的方向相反",
+    "image": "borrow → borrower、borrowing。",
+    "intro": "书、伞、钱先用借入方向记，想法、词语再借这个转移关系理解。专业借词不要求以后归还。",
+    "forms": "borgian → borwen → borrow；-er 借用者，-ing 行为或借来之物。\n\nbargain 法语近源清楚，较早或联系法兰克语借贷词，但也有其他分析且均有难点；与 borrow 只作有争议的比较。\n\n近源古法语可见，更远与借贷材料的关系仍有争议；现代 ed、ing 变化是确定的。\n\n借贷的担保材料、埋藏与港湾的遮蔽材料常接更早 bhergh 保护词族，各走不同近源路径；harbor 不从现代 borrow 派生。\n\nburial 经古英语 byrgels 的旧名词变化，s 被当复数标记去掉，后又按 bury 加 al 分析，不能只给现代拼合一条线。\n\n古英语 borgian 的担保、借贷材料，现代方向为借入；过去尾 d。\n\nbargain 经法语议价材料，远源有日耳曼借贷等不同分析，未全定。现代 bargainer 为 bargain 加 -er，不能由含义直接认定与 bar 船或 gain 得到是现拼。",
+    "branches": [
+      [
+        "动作、人物与行为、借词",
+        "borrow · borrower · borrowing"
+      ],
+      [
+        "可能的同源对照：bargain 与 borrow 的借贷材料",
+        "borrow · bargain · bargains"
+      ],
+      [
+        "bargain 的常用变化：讨价还价与谈妥条件",
+        "bargain · bargains · bargained · bargaining"
+      ],
+      [
+        "保护、遮蔽的远源对照：borrow、bury 与 harbor",
+        "borrow · bury · harbor · harbors · harbour · harbours"
+      ],
+      [
+        "bury 与 burial：埋藏、埋葬及旧名词的重新分析",
+        "bury · burial · burials"
+      ],
+      [
+        "borrow → borrowed：借入、借用与外语借词",
+        "borrow · borrowed"
+      ],
+      [
+        "bargainer：谈条件的人",
+        "bargain · bargainer"
+      ]
+    ],
+    "contrasts": "borrow from，lend to；borrower 借入者；语言学 borrowing 是吸收使用的比喻。",
+    "practice": "The borrower returned the book after borrowing it for a week.\n\n借阅者借书一周后把它还了。",
+    "words": [
+      "borrow",
+      "borrower",
+      "borrowing",
+      "bargain",
+      "bargains",
+      "bargained",
+      "bargaining",
+      "bury",
+      "harbor",
+      "harbors",
+      "harbour",
+      "harbours",
+      "burial",
+      "burials",
+      "borrowed",
+      "bargainer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4053",
+    "meaning": "解释、诠释本身，分成重新与错误理解",
+    "core": "INTERPRETATION：意义是怎样被理解、表现出来的",
+    "image": "interpretation → reinterpretation；misinterpretation 加入错误方向。",
+    "intro": "前缀给解释这件事加方向：重新不等于错误，改变角度也不必改变原始材料。",
+    "forms": "interpretation 继承法语、拉丁相关名词；re- 再，mis- 错。",
+    "branches": [
+      [
+        "基础、重新与错误",
+        "interpretation · reinterpretation · misinterpretation"
+      ]
+    ],
+    "contrasts": "reinterpretation 不自动错误；interpretation 也可说艺术表现，而不只是翻译词义。",
+    "practice": "The new interpretation challenged an earlier misinterpretation.\n\n新解释对较早的误读提出了质疑。",
+    "words": [
+      "interpretation",
+      "reinterpretation",
+      "misinterpretation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4179",
+    "meaning": "向下沉、进入，以及容纳排水、使下沉与不被击垮",
+    "core": "SINK：位置、心情、理解，都可借向下进入的画面",
+    "image": "sink → sinker、unsinkable；sinkhole 看地表塌陷、凹坑。",
+    "intro": "沉水、陷入椅子、消息沉进脑子，是不同对象的进入。名词洗涤槽走下水、汇水位置的历史。",
+    "forms": "sincan → sink；sank、sunk 不规则变化；-er 器具，un- + -able 否定可能性，hole 洞。\n\n现代常用 sink → sank → sunk；水中下沉、跌落的心情、投入难收回的时间等分别按搭配解释。\n\n古英语 sincan 继承，ing 不改成过去式 sank 或分词 sunk。\n\nsag 可能由北欧、低地德语下沉词借入，与 sink 的更远材料相关；来源是候选分析，不把现代 sink 按字母变为 sag。\n\nsaggy 接 sag 名词与 -y，双写 g；sag 较早来源有北欧、低地德语等分析。现代形容词写易松垂或已经松垂的外观。",
+    "branches": [
+      [
+        "基础与器具",
+        "sink · sinker"
+      ],
+      [
+        "否定可能性与地表名称",
+        "unsinkable · sinkhole"
+      ],
+      [
+        "sink、sank、sunk：向下沉",
+        "sink · sank · sunk"
+      ],
+      [
+        "sink → sinking：往下沉与心一沉",
+        "sink · sinking"
+      ],
+      [
+        "sag 与 sink：可能相关的下沉材料",
+        "sink · sag · sags · sagged · sagging"
+      ],
+      [
+        "saggy：撑不住、松垂下来的性质",
+        "sag · saggy"
+      ]
+    ],
+    "contrasts": "let it sink in 是慢慢理解；unsinkable 可比喻精神；sinker 钓坠。",
+    "practice": "The sinker sank quickly, but the little float stayed on the surface.\n\n钓坠很快下沉，小浮子却留在水面。",
+    "words": [
+      "sink",
+      "sinker",
+      "unsinkable",
+      "sinkhole",
+      "sank",
+      "sunk",
+      "sinking",
+      "sag",
+      "sags",
+      "sagged",
+      "sagging",
+      "saggy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4521",
+    "meaning": "能持续维持的性质，及相应方式、否定",
+    "core": "SUSTAINABLE：现在能做，还保留以后继续做的条件",
+    "image": "sustainable → sustainably；unsustainable 不能持续维持。",
+    "intro": "资源、环境、工作与经营都能涉及可持续性。具体怎样持续，要由对象和长期条件说明。",
+    "forms": "sustain + -able → sustainable；-ably 副词，un- 否定。",
+    "branches": [
+      [
+        "性质、方式与否定",
+        "sustainable · sustainably · unsustainable"
+      ]
+    ],
+    "contrasts": "sustainably 修饰做法；sustainable 描述性质；可持续不只是商品宣传中的一个字样。",
+    "practice": "A sustainable plan explains how the work can continue sustainably.\n\n一项可持续的计划应说明工作怎样持续进行。",
+    "words": [
+      "sustainable",
+      "sustainably",
+      "unsustainable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4029",
+    "meaning": "超出一般范围的例外，分成出众、异常、普通与特殊论",
+    "core": "EXCEPTIONAL：先是超出一般，再由对象决定褒贬",
+    "image": "exceptional → exceptionally、unexceptional、exceptionalism。",
+    "intro": "杰出才能、异常天气、一个群体的例外论，虽然同族，却不能都翻成优秀。先判断在谈性质、程度还是一种主张。",
+    "forms": "exception + -al → exceptional；-ly 副词，un- 否定，-ism 状态或理论。",
+    "branches": [
+      [
+        "性质、程度与普通范围",
+        "exceptional · exceptionally · unexceptional"
+      ],
+      [
+        "特殊性及理论",
+        "exceptionalism"
+      ]
+    ],
+    "contrasts": "exceptional 不总褒义；unexceptional 不等于糟糕；exceptionalism 不只是成绩很好。",
+    "practice": "An exceptionally talented performer turned an unexceptional script into something exceptional.\n\n一位才华出众的演员，把普通剧本演得格外出色。",
+    "words": [
+      "exceptional",
+      "exceptionally",
+      "unexceptional",
+      "exceptionalism"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A1985",
+    "meaning": "意大利语小称词尾；英语借词中的 -ino；另有专业领域借用",
+    "core": "-INO：在来源语言里把名称缩小、变亲近，再随整词进入英语",
+    "image": "小屋可以是 casino 的旧画面；neutrino 的名称有小中性者的意味。借入英语以后，它们各自成为完整名称，现代意思不必仍然小。",
+    "intro": "意大利语 -ino 是常见小称词尾，往前联系拉丁 -inus。英语常从整词借入认识它；英语物理学还有按 neutrino 等名称类推形成的专业 -ino，本页先学常见借词。",
+    "forms": "casino 来自 casa 小屋的指小形式；cappuccino 经兜帽、修士名到饮料名，有额外的命名步骤；neutrino 是科学命名。它们并非英语现造的同一种机械拼接。",
+    "branches": [
+      [
+        "生活场所与饮品名称",
+        "casino cappuccino"
+      ],
+      [
+        "科学命名中保留的小称意味",
+        "neutrino"
+      ]
+    ],
+    "contrasts": "词尾线索需要和真实来源合看。casino 今天通常是赌场，不表示规模一定小；neutrino 不是缩小的 neutron。",
+    "practice": "We ordered a cappuccino and read an article about neutrinos.\n\n我们点了一杯卡布奇诺，读了一篇关于中微子的文章。",
+    "words": [
+      "casino",
+      "cappuccino",
+      "neutrino"
+    ],
+    "exclude": {
+      "wino": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

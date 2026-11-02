@@ -1,0 +1,320 @@
+[
+  {
+    "id": "B2584",
+    "meaning": "编织；交织内容；穿行",
+    "core": "WEAVE：一组材料穿过另一组，交错成整体",
+    "image": "线交错成布，枝条交错成篮，回忆交错成故事；基本画面都是材料相连成整体。穿行用法另外保留来源有争论的说明。",
+    "intro": "编织义接古英语 wefan；weaver、weft 属同一编织词族。移动义的中古英语同形词可能与这组或北欧语材料相关，不能强定。",
+    "forms": "weave—wove—woven〔编织常用变化〕；weaver 是织工；warp 是经线、weft 是纬线。穿行义常见规则 weaved。\n\nwobble 可能由低地德语 wabbeln 等借入，更远有与 weave 的来回动作材料联系的分析，保留不确定性，不当作现代 weave 直接构词。\n\n食物 waffle 经荷兰语 wafel，wafer 经法语相关形式，远接日耳曼蜂巢、网状材料，与 weave 有较远联系。动词 waffle 啰嗦、犹豫另源，不由饼的食物义推出。",
+    "branches": [
+      [
+        "编织与完成状态",
+        "weave · woven"
+      ],
+      [
+        "人物",
+        "weaver"
+      ],
+      [
+        "织物的两组线",
+        "warp · weft"
+      ],
+      [
+        "wobble 与 weave 的可能远源联系",
+        "weave · wobble · wobbles · wobbled · wobbling · wobbly"
+      ],
+      [
+        "织网、蜂巢材料的借词支线：waffle、wafer",
+        "waffle · wafer"
+      ]
+    ],
+    "contrasts": "warp、weft 按织造方向区分，不只按页面横竖记。knit 的线圈结构与 weave 的交错结构也不同。",
+    "practice": "The weaver passes the weft through the warp to weave the cloth.\n\n织工把纬线穿过经线，织出布来。",
+    "words": [
+      "weave",
+      "woven",
+      "weaver",
+      "warp",
+      "weft",
+      "wobble",
+      "wobbles",
+      "wobbled",
+      "wobbling",
+      "wobbly",
+      "waffle",
+      "wafer"
+    ],
+    "exclude": {
+      "even-weave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3344",
+    "meaning": "双关语；玩双关",
+    "core": "PUN：声音或词义一转，接出另一个意思",
+    "image": "同一个 dough，既是面团，也能在俚语说钱；一句面包师需要更多 dough 的话，就能让两个意思一起出现。",
+    "intro": "现代双关语 pun 的确切来源不明；有较长旧词缩短等推测。不能把旧捣打动词与双关语的联系当作已经确定。",
+    "forms": "pun〔名词、动词〕→ punny〔双写 n，加 -y〕；punny 还可能受到 funny 的近形影响。",
+    "branches": [
+      [
+        "双关与说双关",
+        "pun"
+      ],
+      [
+        "双关性质、风格",
+        "punny"
+      ]
+    ],
+    "contrasts": "双关是手法，笑不笑是反应；punny 不保证 funny。学习时抓同音或一词多义如何同时起作用。",
+    "practice": "The punny title makes a pun on the word “light”.\n\n这个双关标题利用了 light 这个词的多种意思。",
+    "words": [
+      "pun",
+      "punny"
+    ],
+    "exclude": {
+      "pun-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4128",
+    "meaning": "懂行、精明；实际见识",
+    "core": "SAVVY：知道实际怎么运作，懂得门道",
+    "image": "会比较总成本、知道媒体怎样呈现消息、明白某个行业的惯例，都可以体现 savvy；强调能用得上的判断。",
+    "intro": "经接触语 sabi、save 等知道材料，联系葡萄牙语 saber、sabe 与拉丁 sapere。英语先有见识名词等，后来形容词很常用。",
+    "forms": "savvy 是借入、变化形成的整体词，不拆成 save + -y。business savvy 作名词短语，savvy shopper 用作形容词。",
+    "branches": [
+      [
+        "懂行、精明的形容",
+        "savvy"
+      ],
+      [
+        "实际见识的名词",
+        "business savvy；political savvy"
+      ]
+    ],
+    "contrasts": "knowledge 强调知识，savvy 强调实际判断；懂行不等于单靠背术语，也不保证每次都判断正确。",
+    "practice": "Her marketing savvy helped the small shop grow.\n\n她的营销头脑帮助小店发展起来。",
+    "words": [
+      "savvy"
+    ],
+    "exclude": {
+      "media-savvy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tech-savvy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4577",
+    "meaning": "盛大展示、表演；仪仗排场",
+    "core": "PAGEANT：安排给公众看的华丽表演",
+    "image": "一场历史服装演出、节日盛大表演可称 pageant；把其中仪仗、装束、场面整体来看，是 pageantry。",
+    "intro": "中古英语 pagent 与中世纪戏剧材料相关，更远或连拉丁 pagina 书页，具体路线有讨论。pageantry 后加 -ry 形成整体展示名称。",
+    "forms": "pageant → pageantry；beauty pageant 是特定选美搭配，不能代替 pageant 的所有意义。",
+    "branches": [
+      [
+        "具体表演、比赛名称",
+        "pageant"
+      ],
+      [
+        "仪式场面的整体观感",
+        "pageantry"
+      ]
+    ],
+    "contrasts": "parade 强调行进队列，pageant 强调公开展示、表演；有些节庆活动同时具备两者。",
+    "practice": "The historical pageant brought colour and pageantry to the square.\n\n历史主题表演让广场充满缤纷色彩与盛大场面。",
+    "words": [
+      "pageant",
+      "pageantry"
+    ],
+    "exclude": {
+      "pageant-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4399",
+    "meaning": "座位、凳子；排便、粪便",
+    "core": "STOOL：从坐具到便椅，再到委婉的身体用语",
+    "image": "家具里的 stool 是凳子；医疗语境的 stool 是大便。知道中间曾有便椅这一环，就能理解两义如何相连。",
+    "intro": "古英语 stol 座位，经中古英语延续；现代多指无靠背、扶手的小坐具。便椅名称后来转指排便及排泄物。",
+    "forms": "stool → foot + stool → footstool〔脚凳〕；stool sample 则取粪便义。不要只凭同形逐字替换。",
+    "branches": [
+      [
+        "坐具及脚凳",
+        "stool · footstool"
+      ],
+      [
+        "较正式身体表达",
+        "stool；a stool sample"
+      ]
+    ],
+    "contrasts": "chair 通常有靠背，stool 常没有；大便义属于常见正式表达，与家具义按语境分开。",
+    "practice": "She pulled up a stool and rested her feet on the footstool.\n\n她拉过一张凳子坐下，把脚放到脚凳上。",
+    "words": [
+      "stool",
+      "footstool"
+    ],
+    "exclude": {
+      "paddock-stool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4192",
+    "meaning": "敷贴、抹灰材料及相关工作",
+    "core": "PLASTER：把一层材料敷上、抹上表面",
+    "image": "墙面抹灰、受伤处贴敷料，plaster 在不同语境说不同材料；共同容易抓到的是覆盖、敷贴在表面这一画面。",
+    "intro": "旧英语、中古英语相关形式接拉丁 emplastrum、缩短 plastrum 等敷贴材料，后来又受法语相关词强化。动词从名词转用。",
+    "forms": "plaster → plasterer〔做抹灰、石膏工作的人〕；plaster + board → plasterboard〔石膏板〕。",
+    "branches": [
+      [
+        "材料、敷贴与抹灰动作",
+        "plaster"
+      ],
+      [
+        "工作人物与板材",
+        "plasterer · plasterboard"
+      ]
+    ],
+    "contrasts": "英式 sticking plaster 是创可贴一类敷料；建筑 plaster 又是灰泥等，不能都当同一种配方。plasterboard 则是成板的材料名称。",
+    "practice": "The plasterer repaired the wall beside the plasterboard partition.\n\n抹灰工修好了石膏板隔墙旁的墙面。",
+    "words": [
+      "plaster",
+      "plasterer",
+      "plasterboard"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2057",
+    "meaning": "前面、以前；前文已经……的",
+    "core": "AFORE-：把注意力指回前面说过的内容",
+    "image": "文件已经提过一份报告，后面再说 aforementioned report，就把读者指回前文那一份。",
+    "intro": "afore 是由旧的 a-、fore 前等材料构成、延续的形式；现代常见于几个正式固定词，独立日常使用较少。",
+    "forms": "afore- + mentioned → aforementioned；afore- + said → aforesaid。mentioned、said 取已经提到、已经说过的状态。",
+    "branches": [
+      [
+        "前文提到的",
+        "aforementioned"
+      ],
+      [
+        "前文说过的",
+        "aforesaid"
+      ]
+    ],
+    "contrasts": "这组常带正式书面语气；previously mentioned、mentioned earlier 往往更直白。先找它具体回指哪件事。",
+    "practice": "The aforementioned report supports the aforesaid conclusion.\n\n上述报告支持前面说过的结论。",
+    "words": [
+      "aforementioned",
+      "aforesaid"
+    ],
+    "exclude": {
+      "afore-explained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "afore-enumerated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2181",
+    "meaning": "某身份、职业中的女性",
+    "core": "-WOMAN：前面给角色，后面明确女性",
+    "image": "saleswoman 是从事销售的女性，businesswoman 是从商的女性，chairwoman 则是担任主席的女性；前半部决定角色。",
+    "intro": "从独立名词 woman 的旧英语、中古英语形式延续，长期用于复合人物名称。各职业词形成时间、社会使用习惯不同。",
+    "forms": "sales + woman → saleswoman；police + woman → policewoman；复数通常 woman → women，前部保留。",
+    "branches": [
+      [
+        "销售、商业与公共职务",
+        "saleswoman · businesswoman · congresswoman · chairwoman · policewoman · councilwoman · assemblywoman"
+      ],
+      [
+        "身份、传统称呼及描述",
+        "noblewoman · gentlewoman · madwoman"
+      ]
+    ],
+    "contrasts": "是否强调性别依表达目的；salesperson、chair 等可作为部分职业的通用称呼。madwoman 等又含各自评价、时代色彩，不能只当职业名。",
+    "practice": "The businesswoman spoke with the saleswoman about a new product.\n\n这位女商人与女销售员谈起了一款新产品。",
+    "words": [
+      "saleswoman",
+      "businesswoman",
+      "congresswoman",
+      "chairwoman",
+      "policewoman",
+      "councilwoman",
+      "assemblywoman",
+      "noblewoman",
+      "gentlewoman",
+      "madwoman"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1789",
+    "meaning": "小型、缩小规模、迷你版本",
+    "core": "MINI-：把某类东西做成较小、较短或较轻的版本",
+    "image": "minibus 比大型巴士小，miniskirt 是迷你裙，miniseries 集数较有限；mini- 的小随所修饰对象变化。",
+    "intro": "mini- 与 miniature 的缩短、现代小型命名习惯相连，逐渐作为能产构词材料使用。各复合名称又会固定自己的类别意义。",
+    "forms": "mini- + bus／van／bar／skirt 等；minicab 形成特定预约车名称，不能按车身大小猜完所有现代意义。",
+    "branches": [
+      [
+        "车辆与小型设施",
+        "minibus · minivan · minicab · minibar"
+      ],
+      [
+        "服饰与节目、游戏",
+        "miniskirt · miniseries · minigame · minifigure"
+      ]
+    ],
+    "contrasts": "mini- 的缩小可能是体积、长度、规模；具体边界由整词习惯决定。miniseries 不等于每集只有几分钟。",
+    "practice": "We watched a miniseries while waiting for the minicab.\n\n等预约出租车时，我们看了一部迷你剧。",
+    "words": [
+      "minibus",
+      "minivan",
+      "minicab",
+      "minibar",
+      "miniskirt",
+      "miniseries",
+      "minigame",
+      "minifigure"
+    ],
+    "exclude": {
+      "mini-me": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-country": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-break": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-hold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-page": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-nation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-stroke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-trench": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-manifesto": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-mal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-roundabout": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-floppy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-baccarat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mini-diskette": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4032",
+    "meaning": "动物群；大型动物群",
+    "core": "FAUNA：把某地、某时有哪些动物作为整体看",
+    "image": "flora 看植物，fauna 看动物；加 mega- 后，megafauna 把焦点进一步放在体型较大的那部分动物上。",
+    "intro": "近代学术拉丁语取罗马神话 Fauna 名称作动物群名称，英语借用。megafauna 后用 mega- 大型与 fauna 组合。",
+    "forms": "fauna → mega- + fauna → megafauna；flora 是相邻学习的植物群名称，两词分别有自己的命名历史。",
+    "branches": [
+      [
+        "地区、时期的自然类群对照",
+        "flora · fauna"
+      ],
+      [
+        "大型动物",
+        "megafauna"
+      ]
+    ],
+    "contrasts": "fauna 通常说动物整体，不能当作每一只 animal 的普通单数替换；megafauna 不限于灭绝、史前动物。",
+    "practice": "The book compares the island’s modern fauna with its extinct megafauna.\n\n这本书比较了岛上现生动物群和已经灭绝的大型动物群。",
+    "words": [
+      "flora",
+      "fauna",
+      "megafauna"
+    ],
+    "exclude": {
+      "faunal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

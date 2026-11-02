@@ -1,0 +1,200 @@
+[
+  {
+    "word": "lay",
+    "ipa": "/leɪ/",
+    "meaning": "放下、铺设、安置；下蛋；非专业的、非神职的〔另源形容词〕",
+    "sense": "把一本书平放在桌上、把轨道铺到地面，lay 都有让东西落到某个位置的感觉；lay an egg 则是产蛋的固定说法。",
+    "split": "放置的动词承古英语 lecgan，与 lie 躺的本族词有使动关系。另一个 lay 非神职、非专业的，经法语接拉丁 laicus、希腊 laikos 属于普通人的，须分开词源。",
+    "history": [
+      [
+        "古英语 lecgan → 中古英语 leien → lay 动词",
+        "使躺下、放置"
+      ],
+      [
+        "法语 lai、拉丁 laicus 等 → lay 形容词",
+        "普通人的、非神职、非专业的另源词"
+      ]
+    ],
+    "explanation": "lay the book on the table 把书放桌上；lay the foundations 打基础；lay eggs 下蛋；a lay audience 非专业听众。动词变化 lay—laid—laid。",
+    "usage": "lay something down；lay the foundations；a lay reader。",
+    "contrast": "lay 放某物通常要有对象，lie 躺是对象自己处在那儿；I lay the book down／I lie down。lie 的过去式也写 lay，要靠句子区分。",
+    "examples": [
+      [
+        "She laid the book on the table.",
+        "她把书放在桌上。"
+      ],
+      [
+        "The guide explains the science for a lay audience.",
+        "指南为非专业读者解释这些科学知识。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/lay"
+    ]
+  },
+  {
+    "word": "pour",
+    "ipa": "英 /pɔː/；美 /pɔːr/",
+    "meaning": "倒、倾倒；涌入、倾泻；下大雨",
+    "sense": "把壶倾斜，水连续流出来，是 pour；人群一下涌进门、雨像倒下来一样，也借这个流动的画面。",
+    "split": "中古英语已有 pour 的相关形式，确切来源未定；一种分析联系法语方言 purer 筛、倒水等，更远拉丁材料只是可能路线。不能把“倒水为了净化”当成确定历史故事。",
+    "history": [
+      [
+        "中古英语相关形式",
+        "倾倒液体等；更早来源不确定"
+      ],
+      [
+        "现代 pour 的扩展",
+        "倒出、涌入；雨下得很大"
+      ]
+    ],
+    "explanation": "pour water into a glass 把水倒进杯里；pour out one’s feelings 倾诉感情；It is pouring 下大雨。细沙等能连续流动的颗粒也可用 pour。",
+    "usage": "pour into；pour out；pour with rain。",
+    "contrast": "pour 强调倾倒、成流，spill 强调洒出、溢出常带意外；有意把水倒进杯子是 pour，不等于 spill it。",
+    "examples": [
+      [
+        "Pour the water slowly into the bowl.",
+        "把水慢慢倒进碗里。"
+      ],
+      [
+        "People poured into the square after the announcement.",
+        "消息宣布后，人群涌入了广场。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/pour"
+    ]
+  },
+  {
+    "word": "outlay",
+    "ipa": "/ˈaʊtleɪ/",
+    "meaning": "支出；投入的费用〔尤指启动项目等〕",
+    "sense": "想把事情做起来，先要把一笔钱拿出来付设备、场地等，这笔投入是 outlay。画面是钱从口袋往外放。",
+    "split": "out- + lay 放置的材料；lay out money 花钱、支出的动词组合可帮助理解名词。不能把名词当成 out + lie 说谎。",
+    "history": [
+      [
+        "out- + lay",
+        "往外放、付出相应资源的组合"
+      ],
+      [
+        "名词 outlay",
+        "为某事支付、投入的费用"
+      ]
+    ],
+    "explanation": "the initial outlay 初期投入；a capital outlay 资本支出；outlay on equipment 设备投入。常指为开始或完成项目而先花出的款项。",
+    "usage": "an initial outlay；a large financial outlay。",
+    "contrast": "outlay 是投入支出，不是最终 profit 利润；revenue 收入与现金流出的方向相反。",
+    "examples": [
+      [
+        "The project requires a substantial initial outlay.",
+        "项目需要相当大的一笔初期投入。"
+      ],
+      [
+        "The new equipment soon repaid the outlay.",
+        "新设备很快带回了足以抵回那笔投入的收益。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/outlay"
+    ]
+  },
+  {
+    "word": "outpouring",
+    "ipa": "英 /ˈaʊtpɔːrɪŋ/；美 /ˈaʊtpɔːrɪŋ/",
+    "meaning": "倾泻；大量涌现的感情、反应等",
+    "sense": "杯里的水一下倒出来；很多人的支持、悲伤、愤怒也像这样一起涌出，就是 an outpouring。",
+    "split": "out- + pouring，pour 倒、倾泻 + -ing 动作名词材料。常见抽象义取水大量涌出的画面，不是说支持者真的泼水。",
+    "history": [
+      [
+        "pour → pouring；out- 向外",
+        "倾倒、向外流出的组合"
+      ],
+      [
+        "outpouring",
+        "大量表达、涌现的感情或反应"
+      ]
+    ],
+    "explanation": "an outpouring of support 大量支持；an outpouring of grief 悲伤涌现；public outpourings of anger 公众集中表达愤怒。",
+    "usage": "an outpouring of support；an outpouring of emotion。",
+    "contrast": "outpouring 强调大量、较自然集中的表达，statement 是一份声明；一份冷静公文不因谈感情就一定是 outpouring。",
+    "examples": [
+      [
+        "The announcement prompted an outpouring of support.",
+        "消息引来了大量支持。"
+      ],
+      [
+        "Her letter was a moving outpouring of gratitude.",
+        "她的信感人地倾诉了满心感激。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outpouring#English"
+    ]
+  },
+  {
+    "word": "outrigger",
+    "ipa": "英 /ˈaʊtrɪɡə/；美 /ˈaʊtrɪɡər/",
+    "meaning": "船的外伸平衡装置；外伸支架、支腿等",
+    "sense": "独木舟旁边伸出横架，再连一根浮体，船更不容易翻；这种伸到主体外面辅助稳定的装置，可叫 outrigger。",
+    "split": "由较早 outligger 外伸杆等形式受 rig 装配的词形影响而来，更早与 lie 躺、处于某位置的日耳曼词族相连。不是 out + rigger 一个人走到外面的简单职业名。",
+    "history": [
+      [
+        "较早 outligger",
+        "从船身等向外伸出的杆、构件"
+      ],
+      [
+        "受 rig 词形影响 → outrigger",
+        "外伸平衡装置及其他外伸支撑构件"
+      ]
+    ],
+    "explanation": "an outrigger canoe 带外伸平衡装置的独木舟；crane outriggers 起重机外伸支腿。具体结构不同，共同点是向主体外伸出以支撑、稳定等。",
+    "usage": "an outrigger canoe；extend the outriggers。",
+    "contrast": "outrigger 是构件、装置，outlier 是与其他点偏离的观测值等；虽然远处词形材料有关，现代不是同一个东西。",
+    "examples": [
+      [
+        "The canoe has a wooden outrigger for stability.",
+        "这条独木舟有一个木制外伸平衡装置。"
+      ],
+      [
+        "The crane operator extended the outriggers.",
+        "起重机操作员展开了外伸支腿。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/outrigger"
+    ]
+  },
+  {
+    "word": "pairwise",
+    "ipa": "英 /ˈpeəwaɪz/；美 /ˈperwaɪz/",
+    "meaning": "成对地；逐对的",
+    "sense": "比较一组方案时，每次拿两个放在一起比较，是 pairwise comparison；重点是以两个为一组的关系。",
+    "split": "pair 一对 + -wise 按某方式；不是 wise 明智的，所以不能翻成聪明的一对。",
+    "history": [
+      [
+        "pair + -wise",
+        "一对 + 按这种方式"
+      ],
+      [
+        "pairwise",
+        "按成对关系处理；逐对的"
+      ]
+    ],
+    "explanation": "pairwise comparisons 两两比较；compare items pairwise 把条目成对比较。是否把所有可能组合都比较一遍，取决于方法和语境，词本身不保证样本覆盖全部。",
+    "usage": "a pairwise comparison；compare pairwise。",
+    "contrast": "pairwise 是成对关系，in pairs 常说人两人一组站、走或工作；简单分组活动不必都用较技术的 pairwise。",
+    "examples": [
+      [
+        "The researchers made pairwise comparisons between the methods.",
+        "研究人员把这些方法两两作了比较。"
+      ],
+      [
+        "The program compares the entries pairwise.",
+        "程序按成对方式比较这些条目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pairwise#English"
+    ]
+  }
+]

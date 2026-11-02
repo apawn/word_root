@@ -1,0 +1,220 @@
+[
+  {
+    "id": "B4386",
+    "meaning": "把松散部分收进去、安置妥当",
+    "core": "TUCK：衣角掖好，被角收妥，身体团起来",
+    "image": "tuck 的现代动作很具体：收进去，而且放得贴合。",
+    "intro": "先用衬衫、被子、抱膝动作抓住核心，再把 tuck into a meal、tucker 等习惯用法接上。tucker 的食物义和疲惫义各按实际用法理解。",
+    "forms": "tuken、touken → tuck；食物义 tuck → tucker；tuckered out 累坏。\n\n拉起、整理衣料的旧材料延伸为折起、塞妥；tuck in 还可表示给人掖被子或开始吃，须看宾语和上下文。",
+    "branches": [
+      [
+        "收妥、折起与进食搭配",
+        "tuck"
+      ],
+      [
+        "口语食物、疲惫分支",
+        "tucker"
+      ],
+      [
+        "tuck：把伸出的边收进、掖妥",
+        "tuck · tucks · tucked · tucking"
+      ]
+    ],
+    "contrasts": "tuck 通常比 put 多出塞妥、收紧的感觉；tucker 的 -er 不一律表示人。",
+    "practice": "She tucked the blanket around him; he was completely tuckered out.\n\n她把毯子替他掖好；他已经累坏了。",
+    "words": [
+      "tuck",
+      "tucker",
+      "tucks",
+      "tucked",
+      "tucking"
+    ],
+    "exclude": {
+      "tuck-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3113",
+    "meaning": "雾挡住视线，再借来形容思路不清",
+    "core": "FOG：景物被白雾挡住，思路也像被挡住",
+    "image": "fog 是雾或蒙雾动作，foggy 是有雾、模糊的状态；foghorn 是雾中帮助船只辨认的声音信号装置。",
+    "intro": "天气、镜片与脑中困惑，用的都是清晰度下降这一层联系。雾的最早来源未定，现代比喻则很直观。",
+    "forms": "fog → foggy，双写 g；fog + horn → foghorn。",
+    "branches": [
+      [
+        "雾与模糊状态",
+        "fog · foggy"
+      ],
+      [
+        "雾中的声音信号",
+        "foghorn"
+      ]
+    ],
+    "contrasts": "foggy 可说暂时昏沉，不必推成一个人长期健忘。",
+    "practice": "On the foggy coast, a foghorn sounded through the fog.\n\n雾蒙蒙的海岸边，雾号的声音穿过浓雾。",
+    "words": [
+      "fog",
+      "foggy",
+      "foghorn"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3769",
+    "meaning": "能揉、能擀的面团，质地与食品沿它展开",
+    "core": "DOUGH：加水揉成一团，还能继续塑形",
+    "image": "dough 是面团，doughy 是面团般口感；sourdough、doughnut 是食品名称。",
+    "intro": "先分清材料 dough、质地 doughy，再看酸面团和甜面圈各自怎样借面团命名。钱的俚语义单独记作随意用法，最早联系未定。",
+    "forms": "dāg → dow、dogh → dough；-y 质地；sour 酸；nut 原本也可指小块、团状形状。\n\n和 dough 比较厨房动作，不是 dough 派生。knead 接古英语 cnedan、日耳曼语揉压一族；早期 k、n 都发音，现代标准英语 k 不发音。现代过去式已常规化为 kneaded。",
+    "branches": [
+      [
+        "面团与口感",
+        "dough · doughy"
+      ],
+      [
+        "发酵面包与甜面圈",
+        "sourdough · doughnut"
+      ],
+      [
+        "knead：反复揉压面团",
+        "knead · kneads · kneaded · kneading"
+      ]
+    ],
+    "contrasts": "dough 面团与 batter 稀面糊通常看能否揉成形；doughy 成品常嫌黏重。",
+    "practice": "The sourdough loaf looked ready, but its centre was still doughy.\n\n这条酸面包看着烤好了，里面却还像生面团。",
+    "words": [
+      "dough",
+      "doughy",
+      "sourdough",
+      "doughnut",
+      "knead",
+      "kneads",
+      "kneaded",
+      "kneading"
+    ],
+    "exclude": {
+      "doughboy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4160",
+    "meaning": "户外步行、向上提与顺路搭载",
+    "core": "HIKE：靠脚走一段，或把数量往上一抬",
+    "image": "hike → hiker；hitch + hike → hitchhike。",
+    "intro": "先在步道上认远足者，再把 hike the price 的向上动作接上。hitchhike 加入搭上、捎带，旅行方式随之改变。",
+    "forms": "方言 hyke → hike；去 e + -er；hitch 搭上 + hike。\n\n方言来源，更远未知，现代去 e 加完整 ing。\n\nhike 方言来历未定，徒步支与上提、提价支的具体形成需分开；上提义或受 hitch 影响。hitchhike 是 hitch 挂接等材料与 hike 组成，较早已有搭接移动车辆的画面。",
+    "branches": [
+      [
+        "远足与远足者",
+        "hike · hiker"
+      ],
+      [
+        "搭便车与随物携带",
+        "hitchhike"
+      ],
+      [
+        "hike → hiking：用力步行到远足",
+        "hike · hiking"
+      ],
+      [
+        "hike 与 hitchhike：徒步、提价、搭便车",
+        "hike · hikes · hiked · hiking · hiker · hikers · hitchhike · hitchhikes · hitchhiked · hitchhiking · hitchhiker · hitchhikers"
+      ]
+    ],
+    "contrasts": "a price hike 谈涨价，a mountain hike 谈远足，前面的词直接给出场景。",
+    "practice": "The hiker described how he once hitchhiked home after a long hike.\n\n这位徒步者讲起自己一次长途远足后搭便车回家的经历。",
+    "words": [
+      "hike",
+      "hiker",
+      "hitchhike",
+      "hiking",
+      "hikes",
+      "hiked",
+      "hikers",
+      "hitchhikes",
+      "hitchhiked",
+      "hitchhiking",
+      "hitchhiker",
+      "hitchhikers"
+    ],
+    "exclude": {
+      "thru-hike": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3380",
+    "meaning": "香料姜的借名，颜色与糕饼沿用途展开",
+    "core": "GINGER：先闻辛辣姜香，再认颜色和姜味糕饼",
+    "image": "ginger 是姜，也可作姜红色的；gingerbread 以食材命名。",
+    "intro": "这是一个随植物、香料传播而跨语言旅行的名称。记厨房、毛色、糕饼这三个生活场景，比把现代拼写强拆成小词更清楚。",
+    "forms": "南亚名称 → 希腊、拉丁语 → 古英语 gingifer 等 → ginger；ginger + bread。",
+    "branches": [
+      [
+        "姜与姜味糕饼",
+        "ginger · gingerbread"
+      ]
+    ],
+    "contrasts": "gingerly 的谨慎义走另一条历史路线；ginger 的颜色义看红橙棕色范围。",
+    "practice": "The gingerbread smelled strongly of ginger.\n\n姜味糕饼散发着浓浓的姜香。",
+    "words": [
+      "ginger",
+      "gingerbread"
+    ],
+    "exclude": {
+      "ginger-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3328",
+    "meaning": "红褐铁锈的颜色和久不用的生疏感",
+    "core": "RUST：金属不再灵活，技能也会像生锈一样",
+    "image": "rust 是锈、生锈；rusty 是有锈的，也可说本领生疏。",
+    "intro": "铁门、工具给出实物画面；多年不练的钢琴、外语给出比喻画面。生疏往往意味着以前学过，练习断了。",
+    "forms": "古英语 rust → rust；rust + -y → rusty。",
+    "branches": [
+      [
+        "锈与有锈、生疏的状态",
+        "rust · rusty"
+      ]
+    ],
+    "contrasts": "rust 通常是铁、钢的锈；更广的腐蚀叫 corrosion。",
+    "practice": "The tools were rusty, and his repair skills were rusty too.\n\n工具生锈了，他的修理手艺也生疏了。",
+    "words": [
+      "rust",
+      "rusty"
+    ],
+    "exclude": {
+      "rust-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-rust": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3974",
+    "meaning": "智者走向魔法师，高手与技术也借神奇效果命名",
+    "core": "WIZARD：懂得多，后来像能施法一样做得到",
+    "image": "wizard → wizardry、wizarding，人物、本领、活动世界依次连起来。",
+    "intro": "wise 的智慧提供历史起点，魔法师提供后来最鲜明的形象。日常说某人是 wizard，常是在赞他技艺高，而不是在谈奇幻人物。",
+    "forms": "wise + -ard → 中古英语 wysard → wizard；-ry 技艺，-ing 活动及修饰。\n\nwizard 经中古英语 wys + -ard 形成，先说智者，后来用于巫师、能手及分步骤指导设置的软件。现代 -s，/d/ 后读 /z/。",
+    "branches": [
+      [
+        "人物、技艺与魔法世界",
+        "wizard · wizardry · wizarding"
+      ],
+      [
+        "wise 聪慧 + -ard → wizards",
+        "wizards"
+      ]
+    ],
+    "contrasts": "wizard 高手、角色；wizardry 本领；wizarding 常修饰世界、学校等场景。",
+    "practice": "A computer wizard used technical wizardry to bring the wizarding world to the screen.\n\n一位电脑高手用高超技术把魔法世界呈现在银幕上。",
+    "words": [
+      "wizard",
+      "wizardry",
+      "wizarding",
+      "wizards"
+    ],
+    "exclude": {
+      "half-wizard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

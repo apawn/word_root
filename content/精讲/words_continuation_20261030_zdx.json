@@ -1,0 +1,748 @@
+[
+  {
+    "word": "footnotes",
+    "ipa": "英 /ˈfʊtnəʊts/；美 /ˈfʊtnoʊts/",
+    "meaning": "脚注〔复数〕；加脚注〔第三人称单数〕",
+    "sense": "正文下面、页面底部放补充说明，那些小注就是 footnotes。foot 给页面底部的位置。",
+    "split": "foot 页面下部 + note 注释 → footnote，加 -s，/t/ 后读 /s/；名词也转成加脚注的动词。",
+    "history": [
+      [
+        "foot + note → footnote",
+        "放在页面底部的说明"
+      ],
+      [
+        "footnote + -s → footnotes",
+        "多条脚注；它加脚注"
+      ]
+    ],
+    "explanation": "read the footnotes 阅读脚注；footnotes to the article 文章脚注。",
+    "usage": "add footnotes 加脚注；footnotes at the bottom 页面底部脚注。",
+    "contrast": "footnotes 通常放页面底部，endnotes 集中放章末、文末，位置不同。",
+    "examples": [
+      [
+        "The footnotes explain the unfamiliar names.",
+        "脚注解释了那些不熟悉的名字。"
+      ],
+      [
+        "She checked the sources listed in the footnotes.",
+        "她核对了脚注列出的来源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footnotes#English",
+      "https://en.wiktionary.org/wiki/footnote#English"
+    ]
+  },
+  {
+    "word": "footnoted",
+    "ipa": "英 /ˈfʊtnəʊtɪd/；美 /ˈfʊtnoʊtɪd/",
+    "meaning": "加了脚注；带脚注说明的",
+    "sense": "某个出处、说法已经在页面下部配了说明，是 footnoted。读正文时还能回到对应的小注。",
+    "split": "footnote 去 e 加完整 -ed，/t/ 后读 /ɪd/；从脚注名发展加注动词。",
+    "history": [
+      [
+        "foot + note → footnote；名词转动词",
+        "脚注；为文字加脚注"
+      ],
+      [
+        "footnote + -ed → footnoted〔去 e〕",
+        "加了脚注；带脚注的状态"
+      ]
+    ],
+    "explanation": "a footnoted passage 带脚注的一段；footnoted the quotation 为引文加了脚注。",
+    "usage": "carefully footnoted 认真加注的；a heavily footnoted book 脚注很多的书。",
+    "contrast": "well-footnoted 强调脚注做得充分；脚注可以给出处，也可以补充正文中没展开的解释。",
+    "examples": [
+      [
+        "The author footnoted the quotation.",
+        "作者给引文加了脚注。"
+      ],
+      [
+        "The carefully footnoted chapter was easy to check.",
+        "这一章注释做得认真，很容易核查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footnoted#English",
+      "https://en.wiktionary.org/wiki/footnote#English"
+    ]
+  },
+  {
+    "word": "footnoting",
+    "ipa": "英 /ˈfʊtnəʊtɪŋ/；美 /ˈfʊtnoʊtɪŋ/",
+    "meaning": "添加脚注的过程；正在加脚注",
+    "sense": "正文写好了，正在把出处、补充解释配到页面底部，是 footnoting。",
+    "split": "footnote 去 e 加 -ing。foot 与 note 先形成位置名词，再用作加脚注的动作。",
+    "history": [
+      [
+        "foot + note → footnote 名词、动词",
+        "页底小注；为内容加小注"
+      ],
+      [
+        "footnote + -ing → footnoting〔去 e〕",
+        "加脚注的过程"
+      ]
+    ],
+    "explanation": "footnoting quotations 给引文加脚注；finish footnoting 加注完成。",
+    "usage": "footnoting the chapter 给章节加脚注；a system of footnoting 脚注标注方法。",
+    "contrast": "footnoting 是添加注释，quoting 是引用内容；引文可以配注，但两种动作不是同一件事。",
+    "examples": [
+      [
+        "She was footnoting the quotations in her essay.",
+        "她正在给文章中的引文加脚注。"
+      ],
+      [
+        "Footnoting the chapter took the whole afternoon.",
+        "给这一章加脚注花了一整个下午。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/footnoting#English",
+      "https://en.wiktionary.org/wiki/footnote#English"
+    ]
+  },
+  {
+    "word": "endnote",
+    "ipa": "英 /ˈendnəʊt/；美 /ˈendnoʊt/",
+    "meaning": "尾注、章末注、文末注",
+    "sense": "不把每条补充说明放在当页下面，而是统一收在章节、文章末尾，这样一条注叫 endnote。",
+    "split": "end 末尾 + note 注释的英语组合；note 的标记材料经法语接拉丁 nota。",
+    "history": [
+      [
+        "end + note",
+        "末尾位置与注释用途组合"
+      ],
+      [
+        "endnote",
+        "收在章末、文末的说明"
+      ]
+    ],
+    "explanation": "an endnote to the chapter 章节尾注；read the endnote 阅读尾注。",
+    "usage": "add an endnote 加尾注；an endnote explaining the source 说明来源的尾注。",
+    "contrast": "endnote 与 footnote 都能补说明、给出处，主要区别是集中放文末还是当页底部。",
+    "examples": [
+      [
+        "An endnote explains where the quotation came from.",
+        "一条尾注说明了引文出处。"
+      ],
+      [
+        "She added an endnote about the translation.",
+        "她加了一条说明翻译情况的尾注。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endnote#English"
+    ]
+  },
+  {
+    "word": "endnotes",
+    "ipa": "英 /ˈendnəʊts/；美 /ˈendnoʊts/",
+    "meaning": "尾注、章末注、文末注〔复数〕",
+    "sense": "文章、章节后面集中列出的一组补充说明，是 endnotes。读正文时，可按标号到后面找到。",
+    "split": "end + note → endnote，整词加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "end + note → endnote",
+        "放在末尾的注释"
+      ],
+      [
+        "endnote + -s → endnotes",
+        "多条章末、文末注释"
+      ]
+    ],
+    "explanation": "chapter endnotes 章末注；endnotes and references 尾注与参考文献。",
+    "usage": "consult the endnotes 查阅尾注；numbered endnotes 编号尾注。",
+    "contrast": "尾注可以含出处和解释，bibliography 常集中列文献资料；内容会重叠，组织用途不同。",
+    "examples": [
+      [
+        "The endnotes appear after the final chapter.",
+        "尾注列在最后一章之后。"
+      ],
+      [
+        "I checked the endnotes for the original source.",
+        "我查阅尾注寻找原始来源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/endnotes#English",
+      "https://en.wiktionary.org/wiki/endnote#English"
+    ]
+  },
+  {
+    "word": "postscripts",
+    "ipa": "英 /ˈpəʊstskrɪpts/；美 /ˈpoʊstskrɪpts/",
+    "meaning": "附言、补记〔复数〕",
+    "sense": "正文已经收尾，想到还有一句要补，就再加一段附言；几段、几份这样的补记叫 postscripts。",
+    "split": "postscript 接拉丁 post scriptum 写在后面的内容，post 之后 + scriptum 已写的；现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 post scriptum → postscript",
+        "正文写好以后再加的文字"
+      ],
+      [
+        "postscript + -s → postscripts",
+        "多段附言、补记"
+      ]
+    ],
+    "explanation": "postscripts to the letters 信件附言；brief postscripts 简短补记。",
+    "usage": "add postscripts 添加附言；read the postscripts 阅读补记。",
+    "contrast": "postscript 按写完后补充命名，endnote 按文章末尾放置命名；并不是所有文末注释都叫附言。",
+    "examples": [
+      [
+        "Her letters often had long postscripts.",
+        "她的信常带很长的附言。"
+      ],
+      [
+        "The editor collected the author’s postscripts.",
+        "编辑汇集了作者的补记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/postscripts#English",
+      "https://en.wiktionary.org/wiki/postscript#English"
+    ]
+  },
+  {
+    "word": "appendixes",
+    "ipa": "/əˈpendɪksɪz/",
+    "meaning": "附录；阑尾〔appendix 的规则复数〕",
+    "sense": "附在主体后面的补充部分，是 appendix 的早期主线；多份可以用 appendixes。身体里的阑尾也是这个词的固定用法。",
+    "split": "appendix + -es，/ks/ 后读 /ɪz/；整词借拉丁 appendix 附加物，来自 appendere 挂上、附上。另有复数 appendices。",
+    "history": [
+      [
+        "拉丁 appendere → appendix → 英语 appendix",
+        "挂上；附加物，后来有书面、解剖用途"
+      ],
+      [
+        "appendix + -es → appendixes",
+        "英语规则复数"
+      ]
+    ],
+    "explanation": "appendixes to the report 报告附录；the book’s appendixes 书的附录。",
+    "usage": "two appendixes 两份附录；information in the appendixes 附录中的资料。",
+    "contrast": "appendixes 与 appendices 都是词典收录的复数，某领域、出版机构可能偏好一种，不必强行按书和人体绝对二分。",
+    "examples": [
+      [
+        "The report has two appendixes with detailed tables.",
+        "报告有两份附录，附有详细表格。"
+      ],
+      [
+        "She checked the appendixes for additional examples.",
+        "她查阅附录寻找更多例子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/appendixes#English",
+      "https://en.wiktionary.org/wiki/appendix#English"
+    ]
+  },
+  {
+    "word": "indexes",
+    "ipa": "/ˈɪndeksɪz/",
+    "meaning": "索引、指标〔复数〕；编索引、收录〔第三人称单数〕",
+    "sense": "索引把词条指向正文位置，指标把注意力指向某种状态；多份可写 indexes，动词也能说编索引、收录。",
+    "split": "index + -es，/ks/ 后读 /ɪz/。index 借拉丁指出、指示词族的整词，另有复数 indices。",
+    "history": [
+      [
+        "拉丁 index → 英语 index",
+        "指示物、食指；索引、指标"
+      ],
+      [
+        "index + -es → indexes",
+        "多个索引、指标；它编索引、收录"
+      ]
+    ],
+    "explanation": "book indexes 书籍索引；search indexes 搜索索引。",
+    "usage": "indexes the documents 为文档编索引；separate indexes 分开的索引。",
+    "contrast": "indexes 是规则复数，indices 在数学等语境尤其常见；实际领域用法有偏好和交叠。",
+    "examples": [
+      [
+        "The books have detailed indexes.",
+        "这些书有详细索引。"
+      ],
+      [
+        "The system indexes new documents every evening.",
+        "系统每天晚上收录新文档并编索引。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indexes#English",
+      "https://en.wiktionary.org/wiki/index#English"
+    ]
+  },
+  {
+    "word": "indexing",
+    "ipa": "/ˈɪndeksɪŋ/",
+    "meaning": "编制索引；建立可检索记录的过程",
+    "sense": "先把材料里有什么、在什么位置整理成能查的入口，这个过程叫 indexing。",
+    "split": "index + -ing，保留原拼写，不双写 x；基础名词的指示作用转成编索引动词。",
+    "history": [
+      [
+        "index 指示、索引名 → 动词",
+        "给内容建立查找位置的入口"
+      ],
+      [
+        "index + -ing → indexing",
+        "编索引的过程、进行动作"
+      ]
+    ],
+    "explanation": "indexing documents 为文档编索引；book indexing 书籍索引编制。",
+    "usage": "finish indexing 索引建好；automatic indexing 自动索引。",
+    "contrast": "indexing 是预先组织查找入口，searching 是提出条件去找，两项工作目的相接、动作不同。",
+    "examples": [
+      [
+        "The library was indexing the new collection.",
+        "图书馆正在给新藏品编索引。"
+      ],
+      [
+        "Indexing the documents made them easier to search.",
+        "给文档编索引后，更容易检索了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indexing#English",
+      "https://en.wiktionary.org/wiki/index#English"
+    ]
+  },
+  {
+    "word": "indexed",
+    "ipa": "/ˈɪndekst/",
+    "meaning": "编了索引、被收录的；与某指标挂钩的",
+    "sense": "材料已经有了可检索入口，是 indexed；经济等语境还可说数值跟某项指标联动，先看对象。",
+    "split": "index + -ed，基础末音 /s/ 后词尾读 /t/，全词末尾 /kst/；不是 /ɪd/。",
+    "history": [
+      [
+        "index 名词 → 编索引、按指标调整的动词",
+        "按不同用途转为动作"
+      ],
+      [
+        "index + -ed → indexed",
+        "已经编索引、已收录或挂钩的状态"
+      ]
+    ],
+    "explanation": "indexed documents 已建索引文档；an indexed collection 有索引的藏品集。",
+    "usage": "fully indexed 全部编入索引；indexed in the catalogue 收录在目录中。",
+    "contrast": "索引常按词条、主题带你找到相关位置；目录 table of contents 则按章节结构带你看全书安排。",
+    "examples": [
+      [
+        "The collection has been fully indexed.",
+        "这批藏品已全部编好索引。"
+      ],
+      [
+        "The indexed documents were easy to find.",
+        "建好索引的文档很容易找到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indexed#English",
+      "https://en.wiktionary.org/wiki/index#English"
+    ]
+  },
+  {
+    "word": "citations",
+    "ipa": "/saɪˈteɪʃnz/",
+    "meaning": "引用、引文出处；表彰状、传票等〔复数〕",
+    "sense": "文章指出用了哪份资料，叫 citations；把某人公开提出来表彰、召到场等，也有相应固定用法。先分领域。",
+    "split": "citation 经法语借拉丁 citatio，与 cite 同族，是独立名词借词；现代加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 citatio → 法语 citation → 英语 citation",
+        "召来、提及；相关正式用途逐步固定"
+      ],
+      [
+        "citation + -s → citations",
+        "多处引用、出处或正式文书"
+      ]
+    ],
+    "explanation": "citations in the paper 论文引用；citations for bravery 英勇表彰。",
+    "usage": "check the citations 核查引用；a list of citations 引用列表。",
+    "contrast": "citation 常指一次引用或其出处信息，quotation 常指引用出来的原话；引用一个研究观点也能有 citation。",
+    "examples": [
+      [
+        "The paper includes citations to several earlier studies.",
+        "论文引用了几项早期研究。"
+      ],
+      [
+        "The volunteers received citations for bravery.",
+        "志愿者因勇敢表现获得了表彰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/citations#English",
+      "https://en.wiktionary.org/wiki/citation#English"
+    ]
+  },
+  {
+    "word": "bibliographies",
+    "ipa": "英 /ˌbɪbliˈɒɡrəfiz/；美 /ˌbɪbliˈɑːɡrəfiz/",
+    "meaning": "书目、参考文献表；书目研究〔复数用途〕",
+    "sense": "把一本书、一项研究相关的文献集中列成表，这些文献表叫 bibliographies。它给读者一张继续找资料的路线表。",
+    "split": "bibliography 的 y 改 i 加 -es，读 /iz/。希腊 biblion 书与书写材料构成 bibliographia，经学术借入形成英语词。",
+    "history": [
+      [
+        "希腊 bibliographia 等学术材料 → bibliography",
+        "较早抄书、写书相关义；后来有书目、书目研究"
+      ],
+      [
+        "bibliography → bibliographies〔y 改 ies〕",
+        "多份书目、参考文献表"
+      ]
+    ],
+    "explanation": "annotated bibliographies 带说明的书目；bibliographies of the subject 该主题书目。",
+    "usage": "compare bibliographies 比较文献表；bibliographies at the end 末尾参考文献表。",
+    "contrast": "bibliographies 集中列文献，footnotes、endnotes 还可放解释；组织方式不同，内容可能交叠。",
+    "examples": [
+      [
+        "The students compared the books’ bibliographies.",
+        "学生们比较了几本书的参考文献表。"
+      ],
+      [
+        "The guide includes bibliographies for each topic.",
+        "指南为每个主题列了书目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bibliographies#English",
+      "https://en.wiktionary.org/wiki/bibliography#English"
+    ]
+  },
+  {
+    "word": "referenced",
+    "ipa": "/ˈrefərənst/",
+    "meaning": "引用、参照了；附有参考依据的",
+    "sense": "把另一份资料指给读者，或参照某个对象来写，是 referenced。中心是建立可追过去的联系。",
+    "split": "reference 去 e 加完整 -ed，/s/ 后读 /t/。名词有英语派生、法语借入等分析，动词后来由名词转用。",
+    "history": [
+      [
+        "reference 名词 → reference 动词",
+        "提及、参照信息转为引用动作"
+      ],
+      [
+        "reference + -ed → referenced〔去 e〕",
+        "过去引用；附有引用信息的状态"
+      ]
+    ],
+    "explanation": "referenced the report 引用了报告；a well-referenced article 引用依据充分的文章。",
+    "usage": "referenced sources 引用来源；referenced in the text 正文中提及的。",
+    "contrast": "referenced the report 是引用报告，referenced in the report 是在报告中被提及，介词与句子结构帮你看清方向。",
+    "examples": [
+      [
+        "She referenced the earlier report in her introduction.",
+        "她在引言中引用了较早的报告。"
+      ],
+      [
+        "The article was carefully referenced.",
+        "这篇文章认真标注了引用依据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/referenced#English",
+      "https://en.wiktionary.org/wiki/reference#English"
+    ]
+  },
+  {
+    "word": "referencing",
+    "ipa": "/ˈrefərənsɪŋ/",
+    "meaning": "引用、参照；标注引用依据的过程",
+    "sense": "正在把内容连到相应资料、给读者指出依据，就是 referencing。学术写作里也常指按规定格式标注来源。",
+    "split": "reference 去 e 加 -ing；这个动词由名词 reference 转用，名词更早有不同传播路线。",
+    "history": [
+      [
+        "reference 名词 → 动词",
+        "提及、参照；引用资料"
+      ],
+      [
+        "reference + -ing → referencing〔去 e〕",
+        "引用、标注依据的过程"
+      ]
+    ],
+    "explanation": "referencing sources 引用资料；a referencing style 引用格式。",
+    "usage": "consistent referencing 一致的引用标注；referencing earlier work 参照早期成果。",
+    "contrast": "referencing 说建立、标出来源联系；quoting 特别说引用原话，写参考依据未必逐字引用。",
+    "examples": [
+      [
+        "The course teaches referencing in academic writing.",
+        "这门课教论文写作中的引用标注。"
+      ],
+      [
+        "She was referencing earlier studies in the discussion.",
+        "她正在讨论部分引用早期研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/referencing#English",
+      "https://en.wiktionary.org/wiki/reference#English"
+    ]
+  },
+  {
+    "word": "annotations",
+    "ipa": "/ˌænəˈteɪʃnz/",
+    "meaning": "注释、批注〔复数〕",
+    "sense": "原文旁边再写几句解释、提醒、分析，这些加上去的小说明就是 annotations。",
+    "split": "annotation 直接接拉丁 annotatio 加注，与 annotare 同族；英语名词记录早于 annotate。现代复数加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 annotare → annotatio → 英语 annotation",
+        "加标记、加说明；注释"
+      ],
+      [
+        "annotation + -s → annotations",
+        "多条注释、批注"
+      ]
+    ],
+    "explanation": "annotations in the margin 页边批注；add annotations 添加批注。",
+    "usage": "handwritten annotations 手写注释；annotations on the text 文本注释。",
+    "contrast": "现代可把 annotate、annotation 对应着学，但不能因此断定英文动词先造出名词。",
+    "examples": [
+      [
+        "Her copy had handwritten annotations in the margins.",
+        "她那本书的页边有手写批注。"
+      ],
+      [
+        "The annotations explained the historical references.",
+        "注释解释了文中提到的历史背景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/annotations#English",
+      "https://en.wiktionary.org/wiki/annotation#English"
+    ]
+  },
+  {
+    "word": "annotated",
+    "ipa": "/ˈænəteɪtɪd/",
+    "meaning": "加了注释、批注的；已经加注了",
+    "sense": "原材料旁已经添了说明、分析、标记，就是 annotated。读者得到原文，也得到额外的理解帮助。",
+    "split": "annotate 去 e 加完整 -ed，/t/ 后读 /ɪd/。基础词借拉丁 annotatus，接 ad- 加到 + notare 标记，n 前同化为 an-。",
+    "history": [
+      [
+        "拉丁 adnotare／annotare → annotatus → annotate",
+        "给材料添标记、说明"
+      ],
+      [
+        "annotate + -ed → annotated〔去 e〕",
+        "加注了；带注释的"
+      ]
+    ],
+    "explanation": "an annotated edition 注释版；an annotated bibliography 带解说的书目。",
+    "usage": "annotated the passage 给那段文字加注；annotated notes 带批注的笔记。",
+    "contrast": "annotated bibliography 除列文献，还附介绍、评价等说明；不只是一张没有解释的文献清单。",
+    "examples": [
+      [
+        "She annotated the passage with short explanations.",
+        "她给那段文字加了简短解释。"
+      ],
+      [
+        "The class used an annotated edition of the play.",
+        "班上用的是这部剧的注释版。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/annotated#English",
+      "https://en.wiktionary.org/wiki/annotate#English"
+    ]
+  },
+  {
+    "word": "annotating",
+    "ipa": "/ˈænəteɪtɪŋ/",
+    "meaning": "正在加注释、做批注；加注过程",
+    "sense": "一边读，一边在旁边写理解、问题、背景说明，这个动作可以叫 annotating。",
+    "split": "annotate 去 e 加 -ing；基础词接拉丁加到、作标记的构词材料。",
+    "history": [
+      [
+        "annotare、annotatus → annotate",
+        "添加标记、注释"
+      ],
+      [
+        "annotate + -ing → annotating〔去 e〕",
+        "加注的进行、过程"
+      ]
+    ],
+    "explanation": "annotating a text 给文本加注；annotating a map 给地图作说明标记。",
+    "usage": "finish annotating 批注完；annotating while reading 边读边批注。",
+    "contrast": "highlighting 着重让部分内容显眼，annotating 着重额外添说明、标记；两种阅读动作可配合。",
+    "examples": [
+      [
+        "She was annotating the poem for the lesson.",
+        "她正在为上课给诗歌做批注。"
+      ],
+      [
+        "Annotating the map helped us explain the route.",
+        "给地图加注帮助我们说明路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/annotating#English",
+      "https://en.wiktionary.org/wiki/annotate#English"
+    ]
+  },
+  {
+    "word": "annotates",
+    "ipa": "/ˈænəteɪts/",
+    "meaning": "加注释、做批注〔第三人称单数〕",
+    "sense": "他在原材料旁边添上解释、提示，是 annotates；对象可以是书页、地图、图片等。",
+    "split": "annotate + -s，/t/ 后读 /s/，末尾 e 保留；基础词接拉丁 annotare 加标记。",
+    "history": [
+      [
+        "annotare、annotatus → annotate",
+        "为材料添加标记、解释"
+      ],
+      [
+        "annotate + -s → annotates",
+        "他给内容加注"
+      ]
+    ],
+    "explanation": "annotates the text 给文本加注；annotates the diagram 给图加说明。",
+    "usage": "annotates in the margin 在页边批注；annotates the examples 给例子加解释。",
+    "contrast": "annotates 不只说用笔画亮，文字说明、解释性标记等也属于加注。",
+    "examples": [
+      [
+        "She annotates each example with a short explanation.",
+        "她给每个例子加一段简短解释。"
+      ],
+      [
+        "The editor annotates the unfamiliar names.",
+        "编辑给不熟悉的名字加注。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/annotates#English",
+      "https://en.wiktionary.org/wiki/annotate#English"
+    ]
+  },
+  {
+    "word": "highlighting",
+    "ipa": "/ˈhaɪlaɪtɪŋ/",
+    "meaning": "标亮、突出重点；正在强调",
+    "sense": "把一段文字画得亮一点，让眼睛先注意它，是 highlighting；说话写作时让某件事突出，也用这个词。",
+    "split": "high + light → highlight，明亮部分的概念扩到重点、精彩处及突出动作；再加 -ing。",
+    "history": [
+      [
+        "high + light → highlight",
+        "明亮部分；重要、精彩内容；使显眼"
+      ],
+      [
+        "highlight + -ing → highlighting",
+        "正在标亮、突出；相应过程"
+      ]
+    ],
+    "explanation": "highlighting key words 标亮关键词；highlighting a problem 突出一个问题。",
+    "usage": "text highlighting 文字标亮；highlighting the difference 强调差别。",
+    "contrast": "highlighting 可只靠视觉突出，annotating 常额外加解释；选中重点和说明重点是不同阅读动作。",
+    "examples": [
+      [
+        "She was highlighting the key words in the passage.",
+        "她正在标亮文中的关键词。"
+      ],
+      [
+        "The report is highlighting a gap in the evidence.",
+        "报告正在突出证据中的缺口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highlighting#English",
+      "https://en.wiktionary.org/wiki/highlight#English"
+    ]
+  },
+  {
+    "word": "subheading",
+    "ipa": "/ˈsʌbhedɪŋ/",
+    "meaning": "小标题、下级标题",
+    "sense": "大标题下面再分几块，每块起一个能看懂内容的小标题，就是 subheading。sub 把层级低一级说出来。",
+    "split": "sub- 之下、下一级 + heading 标题；heading 来自 head 的标题、开头位置用法与 -ing 名词材料。",
+    "history": [
+      [
+        "head + -ing → heading",
+        "标题等固定名词"
+      ],
+      [
+        "sub- + heading → subheading",
+        "较低层级的标题"
+      ]
+    ],
+    "explanation": "a clear subheading 清楚的小标题；a subheading under the main title 主标题下的小标题。",
+    "usage": "add a subheading 加小标题；use subheadings 用下级标题组织内容。",
+    "contrast": "subheading 可以在大标题下概括内容，也可分出下一层章节，具体层级由文档安排。",
+    "examples": [
+      [
+        "The subheading explains what the section covers.",
+        "小标题说明了这一节讲什么。"
+      ],
+      [
+        "She added a subheading above the examples.",
+        "她在例子上方加了一个小标题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subheading#English"
+    ]
+  },
+  {
+    "word": "subheadings",
+    "ipa": "/ˈsʌbhedɪŋz/",
+    "meaning": "小标题、下级标题〔复数〕",
+    "sense": "一篇长文分成几个能快速看懂的小块，各块的小标题就是 subheadings。",
+    "split": "sub- + heading → subheading，加 -s，/ŋ/ 后读 /z/。",
+    "history": [
+      [
+        "sub- + heading → subheading",
+        "下一级标题"
+      ],
+      [
+        "subheading + -s → subheadings",
+        "多个小标题、下级标题"
+      ]
+    ],
+    "explanation": "descriptive subheadings 能说明内容的小标题；section subheadings 分节小标题。",
+    "usage": "add subheadings 添加小标题；scan the subheadings 快速浏览小标题。",
+    "contrast": "subheadings 帮人看结构，captions 通常给图、表等对象作说明，位置用途不同。",
+    "examples": [
+      [
+        "The article uses subheadings to guide the reader.",
+        "文章用小标题引导读者。"
+      ],
+      [
+        "I scanned the subheadings before reading the whole chapter.",
+        "读整章前，我先快速看了小标题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subheadings#English",
+      "https://en.wiktionary.org/wiki/subheading#English"
+    ]
+  },
+  {
+    "word": "headings",
+    "ipa": "/ˈhedɪŋz/",
+    "meaning": "标题；行进方向〔复数〕",
+    "sense": "文档每部分开头的标识是 headings；交通、导航语境里，指向哪里前进的方向也可叫 headings。",
+    "split": "head + -ing → heading，成为标题、朝向等固定名词，再加 -s，/ŋ/ 后读 /z/。",
+    "history": [
+      [
+        "head 的开头、朝向用途 + -ing → heading",
+        "标题；行进方向"
+      ],
+      [
+        "heading + -s → headings",
+        "多个标题、方向"
+      ]
+    ],
+    "explanation": "section headings 分节标题；different headings 不同标题、方向。",
+    "usage": "clear headings 清楚的标题；headings in the report 报告标题。",
+    "contrast": "headings 不是每次都表示某些人正在领导；ing 可以已经成为名词的一部分。",
+    "examples": [
+      [
+        "The headings made the report easy to scan.",
+        "标题让报告容易快速浏览。"
+      ],
+      [
+        "The aircraft were flying on different headings.",
+        "这些飞机正沿不同方向飞行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/headings#English",
+      "https://en.wiktionary.org/wiki/heading#English"
+    ]
+  }
+]

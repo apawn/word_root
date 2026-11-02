@@ -1,0 +1,73 @@
+[
+  {
+    "id": "A2228",
+    "meaning": "常见形容词尾部；与某种活动、性质有关",
+    "core": "-ASTIC：先认出形容词，再查清前面的实际词干",
+    "image": "体操运动员在做动作，旁边的说明用 gymnastic 描述动作；活动、人、形容词彼此对应。",
+    "intro": "读到 enthusiastic、gymnastic、scholastic，可以先认出形容词。词典把 -astic 概括为 -ast 与 -ic 的组合，但几个词的完整历史并不都等于英语词根加同一个尾巴：有的整词借自希腊、拉丁和法语形容词，有的经历英语类推。把这些词放在一页，是帮助看清相似结构，也看清不能硬拆的边界。",
+    "forms": "-ic 常标记形容词；-ast 可出现在人物、活动相关词干中。gymnast／gymnastic 是好认的现代对应；enthusiastic 上接希腊 enthousiastikos；sarcastic 的英语形成与法语借入有不同分析。",
+    "branches": [
+      [
+        "体操：人、形容词、活动",
+        "gymnast · gymnastic · gymnastics"
+      ],
+      [
+        "学校与学问",
+        "school · scholar · scholastic"
+      ],
+      [
+        "热情与嘲讽的形容词对照",
+        "enthusiast · enthusiastic · sarcasm · sarcastic"
+      ]
+    ],
+    "contrasts": "相同尾部不保证相同词根。sarcastic 不拆成 sarc + 一个万能的英语 -astic；scholastic 与 school 同族，但不是英语 school 简单加字母而来。",
+    "practice": "Her enthusiastic description made the gymnastic exercises sound less intimidating.\n\n她兴致勃勃地介绍了这些体操练习，让它们听起来没那么吓人。",
+    "words": [
+      "gymnast",
+      "gymnastic",
+      "gymnastics",
+      "school",
+      "scholar",
+      "scholastic",
+      "enthusiast",
+      "enthusiastic",
+      "sarcasm",
+      "sarcastic"
+    ],
+    "exclude": {},
+    "checked_sources": [
+      "https://en.wiktionary.org/wiki/-astic",
+      "https://en.wiktionary.org/wiki/gymnastic",
+      "https://en.wiktionary.org/wiki/scholastic"
+    ]
+  },
+  {
+    "id": "A2298",
+    "meaning": "与心智状态有关的医学命名尾部",
+    "core": "PHREN-：历史上的心智词；-IA：状态名词材料",
+    "image": "把一个医学名称看作历史标签：标签的字面材料帮助认词，完整含义仍由现代医学用法决定。",
+    "intro": "-phrenia 由希腊 phren- 心智词干与 -ia 状态名词材料组成。phren 一系古义也有膈膜，但这个命名尾部关注心智状态。最值得认的词是 schizophrenia：它经近代德语造词进入英语，不是古代已有同名现代诊断。这里保留常见词，冷门专科词先不展开。",
+    "forms": "phren- + -ia → -phrenia；schizo- 分开 + phren- 心智形成历史命名。schizophrenic 是同一名称的形容词、人物称呼形式；涉及人时常用 person with schizophrenia。",
+    "branches": [
+      [
+        "心智状态名称",
+        "schizophrenia"
+      ],
+      [
+        "相应形容词与人物称呼",
+        "schizophrenic"
+      ]
+    ],
+    "contrasts": "schizophrenia 不能按汉语字面理解成多重人格。现代用词指精神分裂症，与 dissociative identity disorder 是不同概念；不用词根字面替代完整术语含义。",
+    "practice": "The glossary explains the word schizophrenia without relying on its literal parts alone.\n\n术语表解释 schizophrenia 时，没有只靠字面拆分来下定义。",
+    "words": [
+      "schizophrenia",
+      "schizophrenic"
+    ],
+    "exclude": {},
+    "checked_sources": [
+      "https://en.wiktionary.org/wiki/-phrenia",
+      "https://www.nimh.nih.gov/health/publications/schizophrenia"
+    ]
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "word": "song",
+    "ipa": "英 /sɒŋ/；美 /sɔːŋ/，亦 /sɑːŋ/",
+    "meaning": "歌曲；歌唱；鸣唱声",
+    "sense": "通常把旋律和可唱的词组织成一首作品；鸟儿唱出的声音也能说 song。",
+    "split": "接古英语 sang，经中古英语 song 等延续，与 sing 唱歌是历史相关形式。不是现代英语任意把 sing 的 i 换成 o 都能造名词的规则。",
+    "history": [
+      [
+        "古英语 sang → 中古英语 song、sang",
+        "歌唱、歌曲，与 sing 历史同族"
+      ],
+      [
+        "英语 song",
+        "歌曲、歌唱声；某些固定比喻"
+      ]
+    ],
+    "explanation": "sing a song 唱一首歌，write a song 写歌；bird song 鸟鸣。for a song 固定说花很便宜的价钱，不是用一首歌直接付款。",
+    "usage": "sing a song；write a song；a love song；for a song。",
+    "contrast": "song 通常是一首可唱作品，music 是音乐上位词；instrumental music 器乐不必称 song，但日常有时会把音乐曲目宽泛叫 song。",
+    "examples": [
+      [
+        "She sang a song she had written herself.",
+        "她唱了一首自己写的歌。"
+      ],
+      [
+        "We heard the song of a bird outside the window.",
+        "我们听见窗外鸟儿的鸣唱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/song#English"
+    ]
+  },
+  {
+    "word": "songwriter",
+    "ipa": "英 /ˈsɒŋraɪtə/；美 /ˈsɔːŋraɪtər/",
+    "meaning": "歌曲创作者；词曲作者",
+    "sense": "负责把一首歌写出来的人：可能写旋律、歌词，也可能与别人分工。",
+    "split": "song 歌 + writer 作者。歌曲由歌词和音乐等部分组成，songwriter 的具体贡献按作品、署名情况，不强定人人必须独写全部。",
+    "history": [
+      [
+        "song 歌曲；writer 作者",
+        "并列构词部分"
+      ],
+      [
+        "songwriter",
+        "创作歌曲的人"
+      ]
+    ],
+    "explanation": "a singer-songwriter 创作型歌手，a team of songwriters 歌曲创作团队；连字符组合可在搭配中理解，当前不另开标题。",
+    "usage": "a talented songwriter；a team of songwriters；a songwriter’s work。",
+    "contrast": "songwriter 写歌，singer 唱歌；同一个人可以两者都是，但演唱一首歌不自动拥有其创作署名。",
+    "examples": [
+      [
+        "The songwriter worked with a singer on the new album.",
+        "词曲作者与一位歌手合作制作新专辑。"
+      ],
+      [
+        "She is best known as a songwriter.",
+        "她最为人熟知的身份是歌曲创作者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/songwriter#English"
+    ]
+  },
+  {
+    "word": "songwriting",
+    "ipa": "英 /ˈsɒŋraɪtɪŋ/；美 /ˈsɔːŋraɪtɪŋ/",
+    "meaning": "歌曲创作；写歌",
+    "sense": "把歌词、旋律等逐步构思成一首歌的工作，而不是台上唱完一次。",
+    "split": "song 歌曲 + writing 写作、创作，动作名词通常不可数。与 songwriter 人物词并排看，writer 与 writing 分别说人和活动。",
+    "history": [
+      [
+        "song 歌曲；writing 创作活动",
+        "并列构词部分"
+      ],
+      [
+        "songwriting",
+        "歌曲的创作过程、技艺"
+      ]
+    ],
+    "explanation": "songwriting skills 写歌能力，a songwriting workshop 歌曲创作工作坊；不只手写到纸上，现代也可在电脑里完成。",
+    "usage": "songwriting skills；a songwriting workshop；the songwriting process。",
+    "contrast": "songwriting 创作，singing 演唱，recording 录制；可能相互配合，但不是同一动作。",
+    "examples": [
+      [
+        "He attends a weekly songwriting workshop.",
+        "他每周参加一次歌曲创作工作坊。"
+      ],
+      [
+        "Her songwriting draws on memories of her hometown.",
+        "她写歌时会借用家乡记忆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/songwriting#English"
+    ]
+  },
+  {
+    "word": "songbird",
+    "ipa": "英 /ˈsɒŋbɜːd/；美 /ˈsɔːŋbɜːrd/",
+    "meaning": "鸣禽；善鸣的鸟",
+    "sense": "名字把重点放在鸟会唱、善于鸣叫，而不是会写歌词。",
+    "split": "song 鸣唱 + bird 鸟，形成鸣禽、善鸣鸟的名称。自然分类中 songbirds 有更具体的范围，不能只按人觉得好听就随意给所有鸟归类。",
+    "history": [
+      [
+        "song 鸣唱；bird 鸟",
+        "并列构词部分"
+      ],
+      [
+        "songbird",
+        "按鸣唱特点称呼的鸟类"
+      ]
+    ],
+    "explanation": "a garden songbird 花园里的鸣禽，songbird populations 鸣禽种群；文学、比喻里范围有时较宽。",
+    "usage": "a songbird；garden songbirds；songbird populations。",
+    "contrast": "songbird 是鸟，birdsong 是鸟发出的鸣唱；前后顺序决定中心是鸟还是声音。",
+    "examples": [
+      [
+        "A small songbird perched on the fence.",
+        "一只小鸣禽栖在围栏上。"
+      ],
+      [
+        "The study follows changes in local songbird populations.",
+        "研究追踪当地鸣禽种群的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/songbird#English"
+    ]
+  },
+  {
+    "word": "birdsong",
+    "ipa": "英 /ˈbɜːdsɒŋ/；美 /ˈbɜːrdsɔːŋ/",
+    "meaning": "鸟鸣声；鸟的鸣唱",
+    "sense": "清早树林里传来一片鸟叫的旋律，把这一类声音整体叫 birdsong。",
+    "split": "bird 鸟 + song 鸣唱，中心是 song 声音，通常作不可数名词。不是倒过来就仍说一只鸟。",
+    "history": [
+      [
+        "bird 鸟；song 鸣唱",
+        "并列构词部分"
+      ],
+      [
+        "birdsong",
+        "鸟发出的鸣唱声"
+      ]
+    ],
+    "explanation": "wake to birdsong 在鸟鸣中醒来，a recording of birdsong 鸟鸣录音；也可泛说鸟儿的歌唱现象。",
+    "usage": "the sound of birdsong；wake to birdsong；record birdsong。",
+    "contrast": "birdsong 声音，songbird 鸟；one songbird 一只鸣禽，some birdsong 一阵鸟鸣。",
+    "examples": [
+      [
+        "We woke to birdsong outside the tent.",
+        "我们伴着帐篷外的鸟鸣醒来。"
+      ],
+      [
+        "The recording captures the dawn birdsong.",
+        "录音记录了黎明时的鸟鸣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/birdsong#English"
+    ]
+  },
+  {
+    "word": "overpass",
+    "ipa": "英 /ˈəʊvəpɑːs/；美 /ˈoʊvərpæs/",
+    "meaning": "跨线桥；高架跨越通道",
+    "sense": "一条路从上面跨过另一条路、铁路等，让两股交通不用在同一平面相交。",
+    "split": "over- 在上、越过 + pass 通行，名词为上方跨越的通道。另有较少见动词义，本轮主学交通设施名词。",
+    "history": [
+      [
+        "over- 在上、越过；pass 通行",
+        "并列构词部分"
+      ],
+      [
+        "overpass",
+        "从上方跨越其他线路的通道"
+      ]
+    ],
+    "explanation": "a pedestrian overpass 人行天桥，a highway overpass 公路跨线桥；不是所有 elevated road 高架道路都只是一处交叉跨线桥。",
+    "usage": "a pedestrian overpass；a highway overpass；cross the overpass。",
+    "contrast": "overpass 从上面跨过，underpass 从下面穿过；同一交叉设施也可从不同线路观察来描述。",
+    "examples": [
+      [
+        "We crossed the railway on a pedestrian overpass.",
+        "我们通过人行天桥跨过铁路。"
+      ],
+      [
+        "The bus passed beneath the overpass.",
+        "公交车从跨线桥下驶过。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overpass#English"
+    ]
+  },
+  {
+    "word": "underpass",
+    "ipa": "英 /ˈʌndəpɑːs/；美 /ˈʌndərpæs/",
+    "meaning": "下穿通道；地下通道",
+    "sense": "不从车流前横穿，而是从道路、铁路等下面穿过去。",
+    "split": "under- 在下 + pass 通行，形成下方穿越通道名称。可能供行人、车辆使用，不只人行地下道。",
+    "history": [
+      [
+        "under- 在下；pass 通行",
+        "并列构词部分"
+      ],
+      [
+        "underpass",
+        "从道路、铁路等下方穿越的通道"
+      ]
+    ],
+    "explanation": "a pedestrian underpass 人行地下通道，a road underpass 道路下穿通道；具体深度、长度依设施。",
+    "usage": "a pedestrian underpass；walk through an underpass；a road underpass。",
+    "contrast": "underpass 突出穿过上方其他线路，tunnel 隧道范围更广，可穿山、地底或水下；二者会有重叠。",
+    "examples": [
+      [
+        "The underpass connects the two sides of the busy road.",
+        "地下通道连接繁忙道路的两侧。"
+      ],
+      [
+        "Cyclists used the underpass to avoid the junction.",
+        "骑行者通过下穿通道避开路口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/underpass#English"
+    ]
+  },
+  {
+    "word": "passcode",
+    "ipa": "英 /ˈpɑːskəʊd/；美 /ˈpæskoʊd/",
+    "meaning": "通行码；解锁码",
+    "sense": "输入约定的一串代码，门禁或设备才放行、解锁。",
+    "split": "pass 通过、获准 + code 代码，形成认证或访问用代码名称。常见数字代码，但名称不保证只能使用数字。",
+    "history": [
+      [
+        "pass 获准通过；code 代码",
+        "并列构词部分"
+      ],
+      [
+        "passcode",
+        "用于放行、解锁的代码"
+      ]
+    ],
+    "explanation": "enter a passcode 输入解锁码，a device passcode 设备解锁码；具体格式由系统规定。",
+    "usage": "enter a passcode；set a passcode；a device passcode。",
+    "contrast": "passcode 与 password 实际产品命名有交叠；passphrase 特别强调以短语式较长内容组成，不能仅凭名称断言哪种绝对更安全。",
+    "examples": [
+      [
+        "Enter your passcode to unlock the device.",
+        "请输入解锁码以解锁设备。"
+      ],
+      [
+        "The app asked her to set a new passcode.",
+        "应用要求她设置新的通行码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/passcode#English"
+    ]
+  },
+  {
+    "word": "passphrase",
+    "ipa": "英 /ˈpɑːsfreɪz/；美 /ˈpæsfreɪz/",
+    "meaning": "口令短语；密码短语",
+    "sense": "把口令设计成一串词或短语式内容，而不只想到一个短单词。",
+    "split": "pass 获准通过 + phrase 短语，形成以短语式内容构成的口令名称。可以包含多个词、字符，具体是否允许空格由系统决定。",
+    "history": [
+      [
+        "pass 获准通过；phrase 短语",
+        "并列构词部分"
+      ],
+      [
+        "passphrase",
+        "短语式构成的认证口令"
+      ]
+    ],
+    "explanation": "enter a passphrase 输入口令短语，a backup passphrase 备份相关口令；它仍可能作为广义 password 使用。",
+    "usage": "enter a passphrase；choose a passphrase；a long passphrase。",
+    "contrast": "passphrase 特别说口令形式，password 是更宽泛的密码称谓；phrase 在这里不是日常说一句话就能跳过认证。",
+    "examples": [
+      [
+        "The program asks for a passphrase before opening the file.",
+        "程序打开文件前要求输入口令短语。"
+      ],
+      [
+        "She chose a passphrase that she could remember.",
+        "她选择了一条自己能记住的口令短语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/passphrase#English"
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "B3779",
+    "meaning": "包成整体、装入和压紧；再到群体与积雪",
+    "core": "PACK：收拢在一起成为一包、一组或一层",
+    "image": "pack → packing、packer；package → packaging 连读；unpack/repack 分拆开和重装；backpack 已有精讲。",
+    "intro": "核心是收在一起的整体。包裹、套装、动物群体和积雪并非同一个物品，但都能用整体感帮助认义。",
+    "forms": "pack + -ing/-er/-age；package + -ing；un-/re- + pack；back/wolf/snow + pack。\n\n日耳曼包、捆材料，现代装包、紧密聚集与打包义各有用途。\n\npackage 可对应 pack 加 age，也可能有荷兰语等相关形式影响。\n\n中古英语包、捆名词，直接来源有低地日耳曼与本族旧形等分析。\n\npackage 有欧陆同族形式影响等历史分析，现代 ed 变化明确。\n\npacket 可按 pack + 小称 -et 对照，词形可能仿照法语 pacquet，远接大陆日耳曼包裹词族。现代小包、信息包等用法保留分成一份的形象。",
+    "branches": [
+      [
+        "打包与执行者",
+        "pack · packing · packer"
+      ],
+      [
+        "包裹与包装",
+        "package · packaging"
+      ],
+      [
+        "拆开与重装",
+        "unpack · repack"
+      ],
+      [
+        "不同整体",
+        "backpack · wolfpack · snowpack"
+      ],
+      [
+        "pack → packed：装进包、挤满",
+        "pack · packed"
+      ],
+      [
+        "package → packages：包成一份、组合成一套",
+        "pack · package · packages"
+      ],
+      [
+        "pack → packs：装成一份，或紧聚的一组",
+        "pack · packs"
+      ],
+      [
+        "package 的包装动作与 packaged 状态",
+        "package · packaged · packaging"
+      ],
+      [
+        "pack 一包 + -et 小 → packet",
+        "packet"
+      ]
+    ],
+    "contrasts": "package 包裹、套装与 packaging 包装材料分清；unpack 也可展开分析；snowfall 下雪、snowpack 积雪。",
+    "practice": "Unpack the package, keep the packaging, and repack it if necessary.\n\n拆开包裹，留好包装，必要时再装回去。",
+    "words": [
+      "pack",
+      "packing",
+      "packer",
+      "package",
+      "packaging",
+      "unpack",
+      "repack",
+      "backpack",
+      "wolfpack",
+      "snowpack",
+      "packed",
+      "packages",
+      "packs",
+      "packaged",
+      "packet"
+    ],
+    "exclude": {
+      "jam-pack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2447",
+    "meaning": "跳起、涌出、萌发；泉、春天、弹簧与后代",
+    "core": "SPRING：向外涌出、向上弹起、生长出来",
+    "image": "spring 分动作、泉源、季节、弹性几路；springy 接回弹，offspring 接后代；已有 springtime、springboard、wellspring 共享。",
+    "intro": "同族名词与动词都有古老形式，不把所有名词强说成一条现代新造线；用冒出、弹起帮助理解即可。",
+    "forms": "spring + -y；off- + spring 的旧组合；spring + time/board；well + spring。\n\n古英语 springan 跳、涌出、萌发等材料；名词多支有旧形式，不全是现代转用。",
+    "branches": [
+      [
+        "基本动作与回弹",
+        "spring · springy"
+      ],
+      [
+        "季节、泉源和借力点",
+        "springtime · wellspring · springboard"
+      ],
+      [
+        "后代",
+        "offspring"
+      ],
+      [
+        "spring → springs：跳出、泉水与弹簧",
+        "spring · springs"
+      ]
+    ],
+    "contrasts": "spring water 泉水不是春水；springy 回弹不只软；offspring 单复数同形，off- 不接离开春天。",
+    "practice": "In spring, the birds raise their offspring near a natural spring.\n\n春天，鸟儿在天然泉眼附近养育后代。",
+    "words": [
+      "spring",
+      "springy",
+      "springtime",
+      "wellspring",
+      "springboard",
+      "offspring",
+      "springs"
+    ],
+    "exclude": {
+      "spring-box": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mid-spring": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "springer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "springwood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

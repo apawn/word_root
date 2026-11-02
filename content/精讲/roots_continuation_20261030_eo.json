@@ -1,0 +1,227 @@
+[
+  {
+    "id": "B3307",
+    "meaning": "亲吻到轻触，再有口语部位名",
+    "core": "KISS：轻轻一碰的动作，也可以说告别",
+    "image": "kiss → kissing、kisser，基础动作、过程和人物部位用法相邻。",
+    "intro": "kiss goodbye to a plan 不一定真的亲吻，kisser 的脸是俚语；kissing circles 则是轻触画面。",
+    "forms": "cyssan、coss 等经中古英语 → kiss；kiss + -ing/-er。\n\n古英语名词、动词分别传承，现代过去式 s 后读 t。\n\nkiss 承古英语 cyssan、coss 等日耳曼亲吻材料，远处可能与声音模仿有关。ss 后加 -es，读 /ɪz/，名词复数与动词第三人称同形。",
+    "branches": [
+      [
+        "动作、过程和口语人物部位",
+        "kiss · kissing · kisser"
+      ],
+      [
+        "kiss → kissed：亲吻、轻触",
+        "kiss · kissed"
+      ],
+      [
+        "kiss → kisses：亲吻与轻触",
+        "kisses"
+      ]
+    ],
+    "contrasts": "kiss 与 give a kiss 动词名词结构；kisser 正式部位仍用 face、mouth；kiss goodbye to 可比喻放弃。",
+    "practice": "The film ended with the characters kissing goodbye.\n\n影片以人物吻别作结。",
+    "words": [
+      "kiss",
+      "kissing",
+      "kisser",
+      "kissed",
+      "kisses"
+    ],
+    "exclude": {
+      "kiss-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kiss-cut": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kiss-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kiss-her-in-the-buttery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meet-her-in-the-entry-and-kiss-her-in-the-buttery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kissy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4170",
+    "meaning": "写在纸上的清单，到安排时间和任务",
+    "core": "SCHEDULE：把事项放进可执行的次序、时间里",
+    "image": "schedule → reschedule、scheduler，先安排，再改期和执行工具。",
+    "intro": "英美读法不同不等于两个词；改期可提前，附表可没有钟点，排程器则是安排的人或程序。",
+    "forms": "纸片、字条相关古典词经法语 → schedule 清单、日程 → 动词；re- + schedule；schedule + -er。\n\n纸片、清单发展为日程，名词再转动词。\n\nschedule 经法语接拉丁 schedula 小纸条，远有希腊劈开、薄片材料，后来有清单、日程表义。现代保留 e 加 -s，/l/ 后读 /z/，英美词首读法不同。\n\nschedule 接拉丁 schedula 小纸条，经法语等发展出表格、时刻表；动词去 e 加完整 -ing。英美开头读音不同。",
+    "branches": [
+      [
+        "安排、改期与排程者",
+        "schedule · reschedule · scheduler"
+      ],
+      [
+        "schedule → scheduled：清单到排定日程",
+        "schedule · scheduled"
+      ],
+      [
+        "写字纸条 → schedule → schedules",
+        "schedules"
+      ],
+      [
+        "schedule 小纸条、时刻表 → scheduling",
+        "scheduling"
+      ]
+    ],
+    "contrasts": "reschedule/postpone/cancel 改期、推迟、取消；schedule/scheduler 安排与执行者。",
+    "practice": "The scheduler rescheduled the task without changing the other appointments.\n\n排程工具重新安排了这项任务，其他预约未变。",
+    "words": [
+      "schedule",
+      "reschedule",
+      "scheduler",
+      "scheduled",
+      "schedules",
+      "scheduling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3673",
+    "meaning": "组合成整体与口语缩短",
+    "core": "COMBINATION：几个部分合在一起，日常也简称 combo",
+    "image": "combination → combo；recombination 看已存在的材料重新组合。",
+    "intro": "combo 套餐、小乐队、游戏连招，都是不同场景的一组；recombination 的科学义有更具体对象。",
+    "forms": "combine 相关名词 combination 的借入历史；combination 缩短配 -o → combo；re- + combination。\n\n晚期拉丁 combinatio 接 combinare 结合，含 com- 一起与 bini 两个两个的材料，经法语进入英语。现代 combination + -s，可说多种组合。",
+    "branches": [
+      [
+        "组合及口语简称",
+        "combination · combo"
+      ],
+      [
+        "重新组合",
+        "recombination"
+      ],
+      [
+        "combine → combination → combinations",
+        "combinations"
+      ]
+    ],
+    "contrasts": "combo 口语与 combination 一般用法；recombination 重新组合非完全凭空新造。",
+    "practice": "The small combo used an unusual combination of instruments.\n\n小乐队采用了一种不常见的乐器组合。",
+    "words": [
+      "combination",
+      "combo",
+      "recombination",
+      "combinations"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2631",
+    "meaning": "愤怒情绪和带着愤怒做事",
+    "core": "ANGRY：心里生气，再看动作怎么表现",
+    "image": "angry → angrily，把状态和动作方式放一起学。",
+    "intro": "angry 的乌云、海浪义是气势比喻；angrily 则经 y 变 i 后接 -ly。",
+    "forms": "angr → anger；anger + -y 对应 angry；angry + -ly → angrily。\n\nanger 借古诺斯语痛苦、烦恼词族，现代愤怒义突出；angry 与 anger 加性质后缀的历史对应，不能硬拆现代不存在的 ry。\n\nanguish 经法语接拉丁 angustia、angere，anger 走日耳曼、北欧路线；远源可比较，不把 anguish 说成现代 anger 的派生词。\n\n名词、动词接北欧 angr、angra 等痛苦烦恼材料，现代愤怒义突出；angering 是使生气的过程，angry 是生气的状态。",
+    "branches": [
+      [
+        "情绪状态与动作方式",
+        "angry · angrily"
+      ],
+      [
+        "anger 与 angry：不满痛苦到愤怒",
+        "anger · angry"
+      ],
+      [
+        "anger 与 anguish：痛苦、紧迫的远源联系，近源各分",
+        "anger · angry · anguish · anguished"
+      ],
+      [
+        "anger 的使生气动词与形容词分开",
+        "anger · angers · angered · angering · angry"
+      ]
+    ],
+    "contrasts": "angry/hungry 生气饥饿不同；be angry/reply angrily 状态方式；介词搭配看实际对象。",
+    "practice": "He was angry and answered angrily.\n\n他心里生气，回答时也带着怒气。",
+    "words": [
+      "angry",
+      "angrily",
+      "anger",
+      "anguish",
+      "anguished",
+      "angers",
+      "angered",
+      "angering"
+    ],
+    "exclude": {
+      "semi-angry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3123",
+    "meaning": "可爱、讨喜与过度装可爱",
+    "core": "CUTE：可爱是性质，小可爱是对象，cutesy 常嫌过头",
+    "image": "cute → cuteness、cutie、cutesy，从性质、对象到带评价的过度可爱。",
+    "intro": "cute 原与 acute 缩短、机灵义有关，现代可爱是常见意思；cutesy 不要当完全中性赞美。",
+    "forms": "acute → cute；cute + -ness/-ie/-sy，去 e 的位置按具体拼法记。",
+    "branches": [
+      [
+        "可爱性质、对象与语气",
+        "cute · cuteness · cutie · cutesy"
+      ]
+    ],
+    "contrasts": "cute 形容；cutie 名词对象；cuteness 性质；cutesy 通常负面嫌做作。",
+    "practice": "The puppy was cute, but the advertisement felt cutesy.\n\n小狗很可爱，不过广告显得过分装可爱。",
+    "words": [
+      "cute",
+      "cuteness",
+      "cutie",
+      "cutesy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1765",
+    "meaning": "能够、可以被……，随词基确定方向",
+    "core": "-IBLE：别只背一个能，要看究竟能做什么、被怎样处理",
+    "image": "从常见 accessible、flexible 到 deductible、reproducible、invertible，按具体词基理解；gullible 单列不确定历史。",
+    "intro": "有的整词早从拉丁法语借来，有的英语后来接尾；-ible 与 -able 功能近，不能凭中文意思随意换拼法。",
+    "forms": "拉丁 -ibilis、-bilis 等经法语及直接借词 → -ible；现代动词词基继续接尾形成性质形容词。",
+    "branches": [
+      [
+        "能力、接近与接受",
+        "accessible · admissible · inducible · digestible · gullible"
+      ],
+      [
+        "变换与反向操作",
+        "convertible · reversible · reproducible · invertible · reducible"
+      ],
+      [
+        "材料、器具与传递",
+        "flexible · compressible · collapsible · submersible · transmissible"
+      ],
+      [
+        "评价、辩护和扣除",
+        "deductible · negligible · collectible · reprehensible · forcible · defensible · irascible · fungible"
+      ]
+    ],
+    "contrasts": "deductible/deduction 可扣与扣除额；reproducible 看重现条件；invertible 数学逆；gullible 非海鸥故事；-able/-ible 拼法随整词。",
+    "practice": "A reproducible example made the problem easier to understand.\n\n可复现示例让问题更容易理解。",
+    "words": [
+      "accessible",
+      "admissible",
+      "inducible",
+      "digestible",
+      "gullible",
+      "convertible",
+      "reversible",
+      "reproducible",
+      "invertible",
+      "reducible",
+      "flexible",
+      "compressible",
+      "collapsible",
+      "submersible",
+      "transmissible",
+      "deductible",
+      "negligible",
+      "collectible",
+      "reprehensible",
+      "forcible",
+      "defensible",
+      "irascible",
+      "fungible"
+    ],
+    "exclude": {}
+  }
+]

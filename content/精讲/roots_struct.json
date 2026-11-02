@@ -5,7 +5,7 @@
     "core": "STRU / STRUCT：把零散部分按顺序搭成整体",
     "image": "把砖块搭成墙；在前面砌墙挡路；把搭好的墙拆开",
     "intro": "从**把积木一块块搭起来**开始。拉丁语 struere 是堆叠、排列、建造，structus 是它的分词形式。construct 把东西合起来搭，structure 看搭成的整体怎样组织；obstruct 在前面堆出障碍；destroy 则把原先搭好的拆毁。instruct 走过“安排、装备”的意思，后来成为教导。砖块换成知识、规则、证据，这个词族就能从工地一直用到课堂、写作和程序设计。",
-    "forms": "**stru- 与 struct- 是同一拉丁动词不同词形留下的痕迹**，并不是英语里随意增删 ct。**construe / construct** 是同源异形词：一条专门发展了语法分析、解释的用法，另一条保留更显眼的 struct。**destroy** 经法语传播，外形已经变化；**destruction、destructive、destructor** 各有自己的借入路线。现代英语里的 **re-、micro-、sub-、super-** 又在借词上继续造词。图示呈现具体来源；积木、墙和骨架是理解现代词义的联想。",
+    "forms": "**stru- 与 struct- 是同一拉丁动词不同词形留下的痕迹**，并不是英语里随意增删 ct。**construe / construct** 是同源异形词：一条专门发展了语法分析、解释的用法，另一条保留更显眼的 struct。**destroy** 经法语传播，外形已经变化；**destruction、destructive、destructor** 各有自己的借入路线。现代英语里的 **re-、micro-、sub-、super-** 又在借词上继续造词。图示呈现具体来源；积木、墙和骨架是理解现代词义的联想。\n\n把材料排列、堆搭的动作，是理解结构的共同画面。\n\nde- 撤去与 struere 建造相连，形成拆毁、使失去作用的词族。\n\n拉丁 instructio 经法语借入，与 instruct 相关而非现代才造。\n\n拉丁 con 与 struere，英语动词接 constructus 分词词干。\n\n拉丁 de- 加 struere 建造，经法语传入；现代 y 后直接加 ing。\n\n拉丁 in- 在上、于其中等 + struere 堆建，形成 instruere 安排、装备、教导；分词 instructus 等材料进入英语。instruct + -ed，/t/ 后读 /ɪd/。\n\ndestroy 经法语、俗拉丁词形改造，远接拉丁 destruere 拆除、毁坏。现代元音字母 + y 后直接加 -s，读 /ɔɪz/。",
     "branches": [
       [
         "把部分搭成整体",
@@ -50,6 +50,34 @@
       [
         "拆毁、损坏与耐损坏",
         "destroy · destruction · destructive · indestructible"
+      ],
+      [
+        "structure → structures：搭成的整体与安排结构",
+        "structure · structures"
+      ],
+      [
+        "destroy → destroyed：拆掉、毁坏",
+        "destroy · destroyed"
+      ],
+      [
+        "instruction → instructions：教导、搭好做事步骤",
+        "instruction · instructions"
+      ],
+      [
+        "construct → constructed：把部分搭起来",
+        "construct · constructed"
+      ],
+      [
+        "destroy → destroying：拆掉结构，使东西不再能存在或运作",
+        "destroy · destroying"
+      ],
+      [
+        "安排、备齐 → instruct → instructed",
+        "instructed"
+      ],
+      [
+        "de- 拆下 + stru- 建 → destroys",
+        "destroys"
       ]
     ],
     "contrasts": "**construct / construe**：建造或构建 / 把话语、行为理解成某种意思。不能用 construct my silence as agreement。\n\n**construction / structure**：搭建过程或构造方式 / 形成的整体及其内部关系。construction 还可指语法结构和解释。\n\n**constructive / constructional / structural / structured**：有助改进 / 建造构造相关 / 结构方面的 / 已按明确条理安排的。\n\n**instructive / instructional**：能让人学到东西 / 用于教学。一个失败案例可以很有启发，但并非为了教学而发生。\n\n**reconstruct / restructure**：重建或还原 / 重新安排已有部分之间的关系。\n\n**destructive / destructible / indestructible**：有破坏性的 / 可被破坏的 / 不可摧毁或极耐用的。\n\n**deconstruct / destroy**：拆开分析 / 毁坏。解构分析不等于把讨论对象全部否定。\n\n**constructor / destructor**：编程里分别与对象的初始化、销毁时清理有关；不要把这对术语直接简化成申请内存、释放内存。",
@@ -110,7 +138,14 @@
       "indestructibility",
       "constructiveness",
       "misconstruction",
-      "obstructively"
+      "obstructively",
+      "structures",
+      "destroyed",
+      "instructions",
+      "constructed",
+      "destroying",
+      "instructed",
+      "destroys"
     ]
   }
 ]

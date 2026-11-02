@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B2849",
+    "meaning": "火、点燃；射击；强烈情绪等",
+    "core": "FIRE：燃烧发光发热，再看开火、消防和强度比喻",
+    "image": "火能取暖，也能失控；firefighter 扑火，firefight 却常是交火，关键看 fire 的哪种义参与。",
+    "intro": "fire 接古英语 fȳr。fiery 保留历史拼写变化，不常规写 firey；fireworks 的欧洲相关构词传播有不确定细节；fireman 在旧蒸汽机语境还可司炉。",
+    "forms": "fire → fired、fiery、afire；射击分 firearm、gunfire、firefight、ceasefire；消防人物与活动相邻；野火、柴火营火、自然火光命名、强烈反应及旧火把意象分组。\n\n本族火名词发展动作；枪炮、陶器和工作岗位有不同用法，不把全部现代义硬归成一个动作。\n\n本族古英语 fyr 的火词，现代名词复数与动词三单同形，场景决定意思。\n\n名字按发光小虫的形象组合，现代分类是甲虫，不把日常 fly 命名材料当成家蝇分类。\n\nfire 火、燃烧 + arm 武器 → firearm；arm 在这里接法语、拉丁 arma 武器，不是现代胳膊义。整个复合名词末尾加 s，通常汉译枪械、火器。\n\nfirefighter 是 fire 火 + fighter 对抗者的英语复合词，末尾 -s 读 /z/。现代消防员的工作范围还包括救援，职业名从灭火职责形成。",
+    "branches": [
+      [
+        "基本火与词形、状态",
+        "fire · fired · fiery · afire"
+      ],
+      [
+        "射击与停止射击",
+        "firearm · gunfire · firefight · ceasefire · firepower · crossfire · misfire · firebomb"
+      ],
+      [
+        "消防人物与活动",
+        "firefighter · firefighting · fireman · firehouse · fireproof · firewall"
+      ],
+      [
+        "野外火与燃料、聚会场景",
+        "wildfire · bushfire · firewood · campfire · fireplace · fireside · firelight"
+      ],
+      [
+        "生物、火球、声光与强烈意象",
+        "firefly · fireball · firework · fireworks · firecracker · firestorm · hellfire · firebrand · backfire"
+      ],
+      [
+        "fire → firing：火、烧制、射击与解雇",
+        "fire · firing"
+      ],
+      [
+        "fire → fires：火、火灾与发射、解雇动作",
+        "fire · fires · firing"
+      ],
+      [
+        "firefly → fireflies：火光的比喻与飞虫名称",
+        "firefly · fireflies"
+      ],
+      [
+        "firearm → firearms：火药发射的武器名称",
+        "firearm · firearms"
+      ],
+      [
+        "fire + fight + -er → firefighters",
+        "firefighters"
+      ]
+    ],
+    "contrasts": "firefight 交火、firefighting 灭火；fired 解雇或烧制，retired 退休；firefly 甲虫发光，不是微型火；firebrand 的 brand 是燃烧木块旧义。",
+    "practice": "The firefighter watched a documentary about firefighting while the children watched fireflies outside.\n\n消防员看消防纪录片时，孩子们在外面看萤火虫。",
+    "words": [
+      "fire",
+      "fired",
+      "fiery",
+      "afire",
+      "firearm",
+      "gunfire",
+      "firefight",
+      "ceasefire",
+      "firepower",
+      "crossfire",
+      "misfire",
+      "firebomb",
+      "firefighter",
+      "firefighting",
+      "fireman",
+      "firehouse",
+      "fireproof",
+      "firewall",
+      "wildfire",
+      "bushfire",
+      "firewood",
+      "campfire",
+      "fireplace",
+      "fireside",
+      "firelight",
+      "firefly",
+      "fireball",
+      "firework",
+      "fireworks",
+      "firecracker",
+      "firestorm",
+      "hellfire",
+      "firebrand",
+      "backfire",
+      "firing",
+      "fires",
+      "fireflies",
+      "firearms",
+      "firefighters"
+    ],
+    "exclude": {
+      "sure-fire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-fire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-fire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pre-fire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fire-breathing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fire-fang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fire-bellied": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firebird": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firebox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firebase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firewire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firebug": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rimfire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "firestarter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

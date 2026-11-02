@@ -1,0 +1,749 @@
+[
+  {
+    "word": "gardener",
+    "ipa": "英 /ˈɡɑːdənə/；美 /ˈɡɑːrdənər/",
+    "meaning": "园丁；种植、照料园地的人",
+    "sense": "给园地种东西、浇水、修整、照料的人，就是 gardener。可以是职业园丁，也可以是爱种花种菜的人。",
+    "split": "历史经古北法语、盎格鲁法语 gardinier 等园丁名称，接 gardin 园地；有借入或仿照法语构形的分析。现代 garden + -er 能帮助认形，较远的围地材料与 yard 同族。",
+    "history": [
+      [
+        "古北法语 gardin → *gardinier 等 → gardener",
+        "园地 → 园丁名的借入"
+      ],
+      [
+        "现代 garden + -er 的对应",
+        "帮助理解做园艺的人；不等于英语里临时造词"
+      ]
+    ],
+    "explanation": "a keen gardener 热衷园艺的人；a professional gardener 职业园丁。",
+    "usage": "hire a gardener 雇园丁；an amateur gardener 业余园艺爱好者。",
+    "contrast": "gardener 不保证是受雇职业。喜欢照料自家园子的人也能说 I am a gardener，具体身份靠语境。",
+    "examples": [
+      [
+        "The gardener planted roses along the wall.",
+        "园丁沿墙种了玫瑰。"
+      ],
+      [
+        "She is a keen gardener who grows her own vegetables.",
+        "她热衷园艺，自己种蔬菜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gardener#English",
+      "https://www.etymonline.com/word/gardener"
+    ]
+  },
+  {
+    "word": "gardeners",
+    "ipa": "英 /ˈɡɑːdənəz/；美 /ˈɡɑːrdənərz/",
+    "meaning": "园丁、园艺爱好者〔复数〕",
+    "sense": "多位种植、照料园子的人，是 gardeners。可以是一队职业园丁，也可以是一群种花种菜的爱好者。",
+    "split": "gardener 本身接法语园丁名称的借入，现代与 garden + -er 对应；整词加 -s，尾 /z/。",
+    "history": [
+      [
+        "法语园地、园丁词族 → gardener",
+        "照料园地的人"
+      ],
+      [
+        "gardener + -s → gardeners",
+        "多个园丁或园艺爱好者"
+      ]
+    ],
+    "explanation": "local gardeners 本地园艺人；experienced gardeners 有经验的园丁。",
+    "usage": "gardeners at work 正在干活的园丁；advice for gardeners 给园艺爱好者的建议。",
+    "contrast": "gardening 是园艺活动，gardeners 是做这件事的人。不要把人的复数译成许多花园。",
+    "examples": [
+      [
+        "The gardeners were planting young trees.",
+        "园丁们正在栽小树。"
+      ],
+      [
+        "Local gardeners exchanged seeds at the event.",
+        "当地园艺爱好者在活动中交换种子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gardeners#English",
+      "https://en.wiktionary.org/wiki/gardener#English"
+    ]
+  },
+  {
+    "word": "watering",
+    "ipa": "英 /ˈwɔːtərɪŋ/；美 /ˈwɔːtərɪŋ/，也读 /ˈwɑːtərɪŋ/",
+    "meaning": "浇水、供水；正在流泪、流口水等〔按语境〕",
+    "sense": "把水送给植物，是 watering the plants；眼睛自己出水，也能说 eyes watering。都是围绕水出现、流动的不同场景。",
+    "split": "water 的名词承古英语 wæter，相关供水动词古英语已有。现代 water 加 -ing，形成动作过程、活动名和用途修饰语。",
+    "history": [
+      [
+        "古英语水名与相关动词 → water",
+        "水；供水、产生水状液体"
+      ],
+      [
+        "water + -ing → watering",
+        "正在浇、供水、流泪；相应过程"
+      ]
+    ],
+    "explanation": "watering the plants 给植物浇水；watering eyes 流泪的眼睛；a watering can 浇水壶。",
+    "usage": "daily watering 每日浇水；mouth watering 嘴里流口水〔具体结构看句子〕。",
+    "contrast": "watering 的主语、对象很关键：人 watering plants 是给水；eyes watering 是眼睛流泪。不把所有情况都译成浇水。",
+    "examples": [
+      [
+        "She was watering the plants on the balcony.",
+        "她正在给阳台植物浇水。"
+      ],
+      [
+        "His eyes were watering in the cold wind.",
+        "他的眼睛在冷风里流泪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/watering#English",
+      "https://en.wiktionary.org/wiki/water#English"
+    ]
+  },
+  {
+    "word": "hoses",
+    "ipa": "英 /ˈhəʊzɪz/；美 /ˈhoʊzɪz/",
+    "meaning": "软管、水管〔复数〕；用软管冲洗〔第三人称单数〕",
+    "sense": "水从一条柔软管子里送过去，这种管子是 hose，多条是 hoses。动词则说拿软管喷水、冲洗。",
+    "split": "hose 继承古英语腿部覆盖衣物名，后来按管状形态称软管，再转喷水动作。现代加 -s，原尾 /z/ 后复数、三单增加 /ɪz/。",
+    "history": [
+      [
+        "古英语衣物名 → hose 的管状物用法",
+        "腿部覆盖物 → 输送液体的软管"
+      ],
+      [
+        "hose + -s → hoses；管名转动作",
+        "多条软管；某人喷水冲洗"
+      ]
+    ],
+    "explanation": "garden hoses 园艺水管；hoses down the path 用软管冲洗小路。",
+    "usage": "rubber hoses 橡胶软管；connect the hoses 接上软管。",
+    "contrast": "现代衣物集合 hose 还有自身用法；这里的 hoses 是常见软管、冲洗义。末尾不是单独一个 /s/，而是多出音节。",
+    "examples": [
+      [
+        "The hoses were coiled beside the shed.",
+        "水管盘放在棚子旁边。"
+      ],
+      [
+        "He hoses down the path after sweeping it.",
+        "他扫完小路后用软管冲洗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hoses#English",
+      "https://en.wiktionary.org/wiki/hose#English"
+    ]
+  },
+  {
+    "word": "hosed",
+    "ipa": "英 /həʊzd/；美 /hoʊzd/",
+    "meaning": "用软管冲洗了、冲洗过的",
+    "sense": "水管朝地面喷过去，把灰土冲掉，这个动作做过了，就是 hosed。",
+    "split": "hose 的软管名由早期管状衣物名称扩展，再转成喷水动作；现代去 e 加完整 -ed，/z/ 后读 /d/。",
+    "history": [
+      [
+        "hose 名词 → hose 动词",
+        "软管 → 用软管喷水冲洗"
+      ],
+      [
+        "hose 去 e + -ed → hosed",
+        "过去冲洗了；冲洗过的"
+      ]
+    ],
+    "explanation": "hosed down the path 冲洗了小路；hosed the mud off 冲掉泥。",
+    "usage": "hosed with water 用水管冲过的；hosed the yard 冲洗院子。",
+    "contrast": "down 常突出冲洗整片表面；off 后面接要冲掉的东西。这里先掌握常用冲洗动作，俚语义另按语境认识。",
+    "examples": [
+      [
+        "She hosed the mud off the boots.",
+        "她用软管冲掉了靴子上的泥。"
+      ],
+      [
+        "He hosed down the path after the work.",
+        "干完活后，他用软管冲洗了小路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hosed#English",
+      "https://en.wiktionary.org/wiki/hose#English"
+    ]
+  },
+  {
+    "word": "lawnmower",
+    "ipa": "英 /ˈlɔːnməʊə/；美 /ˈlɔːnmoʊər/",
+    "meaning": "草坪割草机",
+    "sense": "机器沿草坪走，把高出的草割短，就是 lawnmower。lawn 说明草坪，mower 说明割草的机器。",
+    "split": "lawn 草地 + mower，mower 可拆 mow 割草 + 完整 -er，早期也指割草的人，后来用于机器。这个组合取机器义。",
+    "history": [
+      [
+        "古英语 mawan → mow；mow + -er → mower",
+        "割草 → 割草的人、后来割草机器"
+      ],
+      [
+        "lawn + mower → lawnmower",
+        "用于草坪的割草机器"
+      ]
+    ],
+    "explanation": "an electric lawnmower 电动割草机；push the lawnmower 推割草机。",
+    "usage": "a petrol lawnmower 汽油割草机〔英式表达〕；repair a lawnmower 修割草机。",
+    "contrast": "lawnmower 也可分写 lawn mower。这里 mower 已固定取机器义，不把整个组合逐字译成草坪上的人。",
+    "examples": [
+      [
+        "He pushed the lawnmower across the grass.",
+        "他推着割草机走过草坪。"
+      ],
+      [
+        "The lawnmower was stored in the shed.",
+        "割草机放在棚子里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawnmower#English",
+      "https://en.wiktionary.org/wiki/mower#English"
+    ]
+  },
+  {
+    "word": "lawnmowers",
+    "ipa": "英 /ˈlɔːnməʊəz/；美 /ˈlɔːnmoʊərz/",
+    "meaning": "草坪割草机〔复数〕",
+    "sense": "多台修剪草坪的机器，就是 lawnmowers。按用途 lawn，加上割草机器 mower，整个词能直接形成器物画面。",
+    "split": "lawn + mow + -er → lawnmower，现代整词再加复数 -s，尾 /z/。也常分写 lawn mowers。",
+    "history": [
+      [
+        "lawn + mower → lawnmower",
+        "草坪用割草机"
+      ],
+      [
+        "lawnmower + -s → lawnmowers",
+        "多台机器"
+      ]
+    ],
+    "explanation": "electric lawnmowers 电动割草机；repair lawnmowers 修割草机。",
+    "usage": "lawnmowers in the workshop 车间里的割草机；different lawnmowers 不同割草机。",
+    "contrast": "复数 s 加在完整词末，前面的 lawn 保持单数形式来说明用途。",
+    "examples": [
+      [
+        "The shop repairs lawnmowers.",
+        "这家店修理割草机。"
+      ],
+      [
+        "Two lawnmowers stood outside the workshop.",
+        "车间外停着两台割草机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawnmowers#English",
+      "https://en.wiktionary.org/wiki/lawnmower#English"
+    ]
+  },
+  {
+    "word": "mowers",
+    "ipa": "英 /ˈməʊəz/；美 /ˈmoʊərz/",
+    "meaning": "割草者、割草机〔复数〕",
+    "sense": "做割草这件事的人或机器，是 mowers。现代设备语境里常直接用它简称割草机。",
+    "split": "mow 继承古英语 mawan；mow + -er → mower，人物义早于机器义。现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "mow + -er → mower",
+        "割草的人；后来执行动作的机器"
+      ],
+      [
+        "mower + -s → mowers",
+        "多个割草者、割草机"
+      ]
+    ],
+    "explanation": "electric mowers 电动割草机；mowers at work 正在工作的割草机、割草者。",
+    "usage": "push mowers 手推式割草机；repair mowers 修割草机。",
+    "contrast": "看 engine、repair、electric 多半是机器；人物、手持镰刀的旧场景也可以是人。-er 的作用物范围随着技术发展扩大。",
+    "examples": [
+      [
+        "The mowers were stored behind the workshop.",
+        "割草机放在车间后面。"
+      ],
+      [
+        "The catalogue includes small electric mowers.",
+        "目录里有小型电动割草机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mowers#English",
+      "https://www.etymonline.com/word/mow"
+    ]
+  },
+  {
+    "word": "mowed",
+    "ipa": "英 /məʊd/；美 /moʊd/",
+    "meaning": "割过草了、割短了；割过的",
+    "sense": "把一片高草割短，这件事发生过，就说 mowed。结果是草的高度被整理下来。",
+    "split": "mow 继承古英语 mawan 割草，现代加 -ed，元音后读 /d/。普通过去式 mowed，过去分词 mowed 或 mown。",
+    "history": [
+      [
+        "古英语 mawan → mow",
+        "割草、谷物的动作"
+      ],
+      [
+        "mow + -ed → mowed",
+        "过去式；也是一种过去分词形式"
+      ]
+    ],
+    "explanation": "mowed the lawn 修剪了草坪；freshly mowed grass 刚割过的草。",
+    "usage": "has mowed 已割过；mowed last week 上周修剪过。",
+    "contrast": "mowed 能写普通过去动作；mown 更常出现在分词、形容词位置。两者都在现代标准用法中。",
+    "examples": [
+      [
+        "He mowed the lawn before lunch.",
+        "他午饭前修剪了草坪。"
+      ],
+      [
+        "The freshly mowed grass smelled sweet.",
+        "刚割过的青草闻起来清香。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mowed#English",
+      "https://www.etymonline.com/word/mow"
+    ]
+  },
+  {
+    "word": "mown",
+    "ipa": "英 /məʊn/；美 /moʊn/",
+    "meaning": "割过的、修剪过的；mow 的过去分词",
+    "sense": "眼前草已经被割过，描述这个结果时常见 mown，尤其在 freshly mown grass 里。",
+    "split": "mow 的较早古英语分词 mawen 有 n；mown 与这一类强变化历史相接。现代 mow → mowed → mown 或 mowed，不能把 n 当成所有动词都能自由使用的分词尾。",
+    "history": [
+      [
+        "古英语 mawan、分词 mawen → mow、mown",
+        "古老割草动词及分词路线"
+      ],
+      [
+        "现代分词 mown 或 mowed",
+        "已经割过的草、地面状态"
+      ]
+    ],
+    "explanation": "freshly mown grass 刚割过的草；a mown lawn 修剪过的草坪。",
+    "usage": "newly mown 新割过的；has been mown 已被修剪过。",
+    "contrast": "通常说 He mowed the lawn，而不是把 mown 直接作普通过去式。形容草坪状态时，mown 与 mowed 都可出现。",
+    "examples": [
+      [
+        "The path crossed a freshly mown lawn.",
+        "小路穿过一片刚修剪过的草坪。"
+      ],
+      [
+        "The grass has been mown.",
+        "草已经修剪过了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mown#English",
+      "https://www.etymonline.com/word/mow"
+    ]
+  },
+  {
+    "word": "mowing",
+    "ipa": "英 /ˈməʊɪŋ/；美 /ˈmoʊɪŋ/",
+    "meaning": "正在割草；割草的活动",
+    "sense": "刀或机器一片片把草割短，过程正在展开，就是 mowing。",
+    "split": "mow 接古英语 mawan；现代直接加 -ing，保留 w，不额外双写，mow 的元音后接 /ɪŋ/。",
+    "history": [
+      [
+        "古英语 mawan → mow",
+        "割草的本族继承词"
+      ],
+      [
+        "mow + -ing → mowing",
+        "正在割草；割草这项活动"
+      ]
+    ],
+    "explanation": "mowing the lawn 正在修剪草坪；regular mowing 定期割草。",
+    "usage": "finish mowing 割完草；mowing equipment 割草设备。",
+    "contrast": "mowing 可作活动名，也可跟在 is、was 后组成进行形式；mower 则是做这件事的人或机器。",
+    "examples": [
+      [
+        "She was mowing the lawn when we arrived.",
+        "我们到时，她正在修剪草坪。"
+      ],
+      [
+        "He finished mowing before the rain.",
+        "他赶在下雨前割完了草。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mowing#English",
+      "https://www.etymonline.com/word/mow"
+    ]
+  },
+  {
+    "word": "shovels",
+    "ipa": "/ˈʃʌvəlz/",
+    "meaning": "铲子〔复数〕；铲、用铲搬运〔第三人称单数〕",
+    "sense": "宽铲面伸进沙土、雪或碎料下面，再把它们搬走，是 shovels 的画面。它既能数工具，也能写用工具做的动作。",
+    "split": "shovel 继承古英语 scofl，与 shove 推的词族相连，工具名的构形很早已有。现代整词加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 scofl → shovel",
+        "推、铲词族的旧工具名称"
+      ],
+      [
+        "shovel + -s → shovels；工具名转动作",
+        "多把铲子；某人铲、搬运"
+      ]
+    ],
+    "explanation": "snow shovels 雪铲；shovels sand 铲沙。",
+    "usage": "garden shovels 园艺铲；shovels snow from the path 铲掉小路上的雪。",
+    "contrast": "现代不需要先另造一个 shove 加 el 的词再用；shovel 作为工具名已经继承下来。动词具体铲什么由对象确定。",
+    "examples": [
+      [
+        "The shovels stood beside the shed.",
+        "铲子靠在棚子旁。"
+      ],
+      [
+        "He shovels snow from the path each winter.",
+        "每年冬天，他都铲掉小路上的雪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shovels#English",
+      "https://en.wiktionary.org/wiki/shovel#English"
+    ]
+  },
+  {
+    "word": "spades",
+    "ipa": "/speɪdz/",
+    "meaning": "锹、铲〔复数〕；黑桃牌；挖、铲〔第三人称单数〕",
+    "sense": "园艺里的 spades 是挖土的锹；纸牌里的 spades 是黑桃。两条近源不同，不能只凭形状就把全部历史压成一条。",
+    "split": "工具 spade 继承古英语 spadu、spada；纸牌名通常接意大利语 spade，即 spada 剑的复数，经拉丁 spatha 接希腊 spathē。现代工具加 -s，牌花色名固定用 spades。",
+    "history": [
+      [
+        "古英语 spadu → spade；另路意大利语 spade → 纸牌名",
+        "本族工具名；罗曼语剑名进入牌花色"
+      ],
+      [
+        "spade + -s → spades；花色、习语用法",
+        "多把锹；黑桃；in spades 大量、非常"
+      ]
+    ],
+    "explanation": "garden spades 园艺锹；the ace of spades 黑桃 A；in spades 非常、大量地。",
+    "usage": "spades in the shed 棚里的锹；a card in spades 一张黑桃牌。",
+    "contrast": "工具与牌名更远能联系到宽刃材料，但具体借入路线仍要分开。in spades 已是固定程度习语。",
+    "examples": [
+      [
+        "The gardeners carried spades and forks.",
+        "园丁们拿着锹和园艺叉。"
+      ],
+      [
+        "She turned over the ace of spades.",
+        "她翻出了黑桃 A。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spades#English",
+      "https://en.wiktionary.org/wiki/spade#English"
+    ]
+  },
+  {
+    "word": "pruning",
+    "ipa": "/ˈpruːnɪŋ/",
+    "meaning": "修剪枝条；删减的过程；正在修剪",
+    "sense": "把多余枝条剪掉，让留下的部分更合适，是 pruning。文章、计划删去多余内容，也借这个修整画面。",
+    "split": "动词 prune 接古法语 proignier、poroindre 等，远源有不同解释。英语早有整理羽毛、仪容等用法，现代修枝义也可能另次借入；现代去 e 加 -ing。",
+    "history": [
+      [
+        "法语修整材料 → 英语 prune",
+        "整理、削去多余部分；具体借入有层次"
+      ],
+      [
+        "prune 去 e + -ing → pruning",
+        "修剪过程；删减的比喻"
+      ]
+    ],
+    "explanation": "pruning the roses 修剪玫瑰；careful pruning 细致修剪；pruning a draft 删减草稿。",
+    "usage": "pruning shears 修枝剪；time spent pruning 用在修剪上的时间。",
+    "contrast": "这个动词与果干 prune 不是同一个来源。pruning 是剪掉多余枝、内容，不要编成把李子剪成干果。",
+    "examples": [
+      [
+        "She spent the morning pruning the roses.",
+        "她用一上午修剪玫瑰。"
+      ],
+      [
+        "The draft improved after some careful pruning.",
+        "草稿经仔细删减后变好了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pruning#English",
+      "https://www.etymonline.com/word/prune"
+    ]
+  },
+  {
+    "word": "pruned",
+    "ipa": "/pruːnd/",
+    "meaning": "修剪了、修剪过的；删减了",
+    "sense": "多余枝条或内容已经削掉，就是 pruned。强调经过修整，留下更合适的部分。",
+    "split": "修剪 prune 接法语 proignier 等，远源未定；现代去 e 加完整 -ed，/n/ 后读 /d/。水果 prune 的拉丁来源另算。",
+    "history": [
+      [
+        "法语修整动词 → prune",
+        "削去多余枝条、部分"
+      ],
+      [
+        "prune 去 e + -ed → pruned",
+        "过去修剪了；经过删减的"
+      ]
+    ],
+    "explanation": "pruned branches 修剪过的枝条；pruned the draft 删减了草稿。",
+    "usage": "carefully pruned 仔细修剪过的；pruned back 修剪、削减回去。",
+    "contrast": "pruned 是动作或结果，不是 dried 的同义词。看到后面接树、文章、清单时，抓修整、删减方向。",
+    "examples": [
+      [
+        "He pruned the tree last week.",
+        "他上周修剪了那棵树。"
+      ],
+      [
+        "The editor pruned several repeated paragraphs.",
+        "编辑删去了几段重复内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pruned#English",
+      "https://www.etymonline.com/word/prune"
+    ]
+  },
+  {
+    "word": "prunes",
+    "ipa": "/pruːnz/",
+    "meaning": "李子干、西梅干〔复数〕；修剪、删减〔第三人称单数〕",
+    "sense": "碗里的果干 prunes 与园丁 prunes a tree，看起来是同一个词，却是两条历史。先看它在数水果还是在写动作。",
+    "split": "果名 prune 经古法语接拉丁 prunum 李子，现代加复数 -s；修剪 prune 经法语 proignier 等另一来源，加三单 -s。两者 /n/ 后都读 /z/。",
+    "history": [
+      [
+        "拉丁 prunum → 法语 → prune 果名；另路法语修整动词 → prune",
+        "水果与动作的近源分开"
+      ],
+      [
+        "各自 prune + -s → prunes",
+        "多颗果干；某人修剪、删减"
+      ]
+    ],
+    "explanation": "dried prunes 李子干；prunes the roses 修剪玫瑰；prunes a list 删减清单。",
+    "usage": "a bowl of prunes 一碗西梅干；prunes the branches 修剪枝条。",
+    "contrast": "水果 prune 与 plum 同族；修剪动词不因此变成水果派生。两个例句放在一起，靠词性和对象就能区分。",
+    "examples": [
+      [
+        "A bowl of prunes stood beside the cereal.",
+        "早餐谷物旁放着一碗西梅干。"
+      ],
+      [
+        "She prunes the roses each spring.",
+        "她每年春天修剪玫瑰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prunes#English",
+      "https://www.etymonline.com/word/prune"
+    ]
+  },
+  {
+    "word": "hedges",
+    "ipa": "/ˈhedʒɪz/",
+    "meaning": "树篱、围篱〔复数〕；保留余地、含糊其词、做防护〔第三人称单数〕",
+    "sense": "一排密植物把地方围起来，是 hedges。说话先围上一道余地、不把话说满，也是 hedge 的常见比喻。",
+    "split": "hedge 继承古英语 hecg 篱、围栏，名词转围护动作，再有保护、限制承诺等抽象义。现代加 -s，/dʒ/ 后增加 /ɪz/。",
+    "history": [
+      [
+        "古英语 hecg → hedge",
+        "篱、围栏 → 围住、保护"
+      ],
+      [
+        "hedge + -s → hedges；抽象义发展",
+        "多道篱；某人说话留余地、安排防护"
+      ]
+    ],
+    "explanation": "trim the hedges 修整树篱；hedges his answer 回答留有余地。",
+    "usage": "tall hedges 高树篱；hedges with qualifications 用限定条件保留余地。",
+    "contrast": "hedges 作动词不一定涉及金融。语言中的 hedge 常在降低断言的绝对程度，例如加 perhaps、usually 一类限定。",
+    "examples": [
+      [
+        "Tall hedges bordered the garden.",
+        "高树篱围着花园。"
+      ],
+      [
+        "He hedges his answer with several qualifications.",
+        "他在回答里加了几个限定，留了余地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hedges#English",
+      "https://en.wiktionary.org/wiki/hedge#English"
+    ]
+  },
+  {
+    "word": "seedlings",
+    "ipa": "/ˈsiːdlɪŋz/",
+    "meaning": "幼苗、实生苗〔复数〕",
+    "sense": "种子发芽、长出小植株，还在幼小阶段，就是 seedlings。seed 是种子，-ling 给幼小个体命名。",
+    "split": "seed + -ling → seedling，现代加复数 -s，/ŋ/ 后读 /z/。这个 ling 没有像某些人物词那样的轻蔑意味。",
+    "history": [
+      [
+        "seed + -ling → seedling",
+        "种子相关的幼小植株"
+      ],
+      [
+        "seedling + -s → seedlings",
+        "多株幼苗"
+      ]
+    ],
+    "explanation": "young seedlings 幼小苗株；tomato seedlings 番茄苗。",
+    "usage": "plant the seedlings 栽幼苗；seedlings in pots 盆里的苗。",
+    "contrast": "严格说可突出种子长出的苗；日常也常宽泛说待移栽幼苗。具体植物、栽培方式由上下文说明。",
+    "examples": [
+      [
+        "The seedlings stood in small pots.",
+        "幼苗种在小盆里。"
+      ],
+      [
+        "They planted tomato seedlings in the garden.",
+        "他们在园里栽了番茄苗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seedlings#English",
+      "https://en.wiktionary.org/wiki/seedling#English"
+    ]
+  },
+  {
+    "word": "flowerpot",
+    "ipa": "英 /ˈflaʊəpɒt/；美 /ˈflaʊərpɑːt/",
+    "meaning": "花盆",
+    "sense": "装土、种花草的容器，是 flowerpot。flower 给典型用途，pot 给有深度的盆状容器画面。",
+    "split": "英语 flower + pot 直接组合。flower 经法语接拉丁 florem，pot 为很早的容器材料；组合成器物名后不限制只种开花植物。",
+    "history": [
+      [
+        "flower + pot → flowerpot",
+        "花草 + 盆状容器"
+      ],
+      [
+        "固定种植用品名称",
+        "花盆；具体植物不必正在开花"
+      ]
+    ],
+    "explanation": "a clay flowerpot 陶花盆；a small flowerpot 小花盆。",
+    "usage": "put a plant in a flowerpot 把植物放进花盆；an empty flowerpot 空花盆。",
+    "contrast": "花盆没有花时也仍叫 flowerpot，种叶类植物也可用。英语还可写 flower pot。",
+    "examples": [
+      [
+        "A small flowerpot stood on the windowsill.",
+        "窗台上放着一个小花盆。"
+      ],
+      [
+        "She put the young plant in a clay flowerpot.",
+        "她把小植株放进陶花盆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flowerpot#English"
+    ]
+  },
+  {
+    "word": "flowerpots",
+    "ipa": "英 /ˈflaʊəpɒts/；美 /ˈflaʊərpɑːts/",
+    "meaning": "花盆〔复数〕",
+    "sense": "一排排种植物的盆，是 flowerpots。前半说明典型用途，后半 pot 才是数器物的主体。",
+    "split": "flower + pot → flowerpot，现代整词加 -s，/t/ 后读 /s/；也可分写 flower pots。",
+    "history": [
+      [
+        "flower + pot → flowerpot",
+        "种花草的容器"
+      ],
+      [
+        "flowerpot + -s → flowerpots",
+        "多个花盆"
+      ]
+    ],
+    "explanation": "clay flowerpots 陶花盆；empty flowerpots 空花盆。",
+    "usage": "flowerpots on the balcony 阳台上的花盆；wash the flowerpots 清洗花盆。",
+    "contrast": "不是把 flower 也先改成复数；这里 flower 作组合修饰部分，复数通常放在最后的 pot 上。",
+    "examples": [
+      [
+        "Clay flowerpots lined the balcony.",
+        "阳台上排着陶花盆。"
+      ],
+      [
+        "She washed the empty flowerpots.",
+        "她把空花盆洗干净。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flowerpots#English",
+      "https://en.wiktionary.org/wiki/flowerpot#English"
+    ]
+  },
+  {
+    "word": "potting",
+    "ipa": "英 /ˈpɒtɪŋ/；美 /ˈpɑːtɪŋ/",
+    "meaning": "把植物装盆、上盆；相关过程",
+    "sense": "把苗放进盆里、加上栽培材料，让它在盆中生长，就是 potting。容器 pot 直接变成相关动作。",
+    "split": "pot 容器名转把植物装盆等动词，短重读音节后双写 t，加完整 -ing。这里取种植常用义，其他技术义按场景另认。",
+    "history": [
+      [
+        "pot 名词 → pot 动词",
+        "盆 → 把植物放入盆中"
+      ],
+      [
+        "pot 双写 t + -ing → potting",
+        "正在装盆；上盆活动及用品修饰语"
+      ]
+    ],
+    "explanation": "potting seedlings 给幼苗上盆；potting soil 盆栽用土；a potting shed 上盆用园艺棚。",
+    "usage": "potting plants 给植物装盆；potting mix 盆栽基质。",
+    "contrast": "potting soil、potting mix 的 ing 说明用途；is potting seedlings 里的 ing 写正在做的动作。",
+    "examples": [
+      [
+        "She was potting seedlings in the shed.",
+        "她正在棚子里给幼苗上盆。"
+      ],
+      [
+        "A bag of potting soil stood beside the door.",
+        "门旁放着一袋盆栽用土。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/potting#English",
+      "https://en.wiktionary.org/wiki/pot#English"
+    ]
+  },
+  {
+    "word": "greenhouses",
+    "ipa": "/ˈɡriːnhaʊzɪz/",
+    "meaning": "温室〔复数〕",
+    "sense": "用透光覆盖物围出供植物生长的空间，是 greenhouses。green 抓绿植，house 抓建筑，用途比墙面颜色更重要。",
+    "split": "green + house → greenhouse；复数 greenhouses 中，house 部分常把 /s/ 变为 /z/，再加 /ɪz/。",
+    "history": [
+      [
+        "green + house → greenhouse",
+        "用于种植绿植的建筑"
+      ],
+      [
+        "greenhouse → greenhouses",
+        "多座温室；house 部分的复数读音变化"
+      ]
+    ],
+    "explanation": "glass greenhouses 玻璃温室；plants in greenhouses 温室中的植物。",
+    "usage": "large greenhouses 大温室；rows of greenhouses 一排排温室。",
+    "contrast": "greenhouses 不要求房子涂绿色。这个组合按种植用途命名；温室材料、大小和设备各不相同。",
+    "examples": [
+      [
+        "Rows of greenhouses stood behind the farm.",
+        "农场后面建着一排排温室。"
+      ],
+      [
+        "The seedlings were grown in greenhouses.",
+        "幼苗在温室里培育。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/greenhouses#English",
+      "https://en.wiktionary.org/wiki/greenhouse#English"
+    ]
+  }
+]

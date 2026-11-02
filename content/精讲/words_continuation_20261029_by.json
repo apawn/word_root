@@ -1,0 +1,275 @@
+[
+  {
+    "word": "main",
+    "ipa": "/meɪn/",
+    "meaning": "主要的；最重要的；主管道、干线",
+    "sense": "在一堆事情或部件里，挑出承担中心作用、分量最大的一项。",
+    "split": "与古英语 mæġen 力量、强大相关，经中古英语 main、mayn 等形式发展出现代主要义；现代 main 不必再拆。不是 mine 我的、矿的变形。",
+    "history": [
+      [
+        "古英语 mæġen 等相关形式 → 中古英语 main / mayn",
+        "力量、强大；强有力、主要的"
+      ],
+      [
+        "英语 main",
+        "主要的；总管、干线；mains 可指公用供应系统"
+      ]
+    ],
+    "explanation": "the main reason 主要原因，the main entrance 正门、主要入口；a water main 供水主管，the mains 可指供电、供水等公共供应系统，英式电源场景很常见。",
+    "usage": "the main purpose；the main road；a water main；the mains supply；in the main。",
+    "contrast": "main 强调中心、主要作用，不保证尺寸一定最大；the main problem 可以很小，却决定成败。",
+    "examples": [
+      [
+        "The main reason for the delay was a missing part.",
+        "延误的主要原因是缺了一个零件。"
+      ],
+      [
+        "Workers repaired a burst water main outside the school.",
+        "工人修好了学校外破裂的供水主管。"
+      ],
+      [
+        "This clock runs from the mains rather than batteries.",
+        "这个钟接市电使用，不靠电池。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/main#English"
+    ]
+  },
+  {
+    "word": "mainly",
+    "ipa": "/ˈmeɪnli/",
+    "meaning": "主要地；大部分",
+    "sense": "说的是占主要份量的那一部分，同时允许还有别的因素。",
+    "split": "main + -ly，中古英语已有相关副词形式。现代常说主要原因、主要组成或大部分情况。",
+    "history": [
+      [
+        "古英语 mæġen 等相关形式 → 中古英语 main / mayn",
+        "力量、强大；强有力、主要的"
+      ],
+      [
+        "英语 main",
+        "主要的；总管、干线；mains 可指公用供应系统"
+      ],
+      [
+        "main → mainly",
+        "主要的 → 主要地、大部分"
+      ]
+    ],
+    "explanation": "mainly because 主要因为，mainly made of 主要由……制成。mainly adults 以成年人为主，不等于完全没有孩子。",
+    "usage": "mainly because；mainly for；consist mainly of；mainly used for。",
+    "contrast": "mainly 大部分、主要，only 只有；mainly English books 不排除另有其他语言的书。",
+    "examples": [
+      [
+        "The visitors were mainly local residents.",
+        "访客主要是当地居民。"
+      ],
+      [
+        "We chose the flat mainly because it was close to work.",
+        "我们选这套公寓，主要因为它离工作地点近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainly#English"
+    ]
+  },
+  {
+    "word": "mainstream",
+    "ipa": "/ˈmeɪnstriːm/",
+    "meaning": "主流；主流的；使纳入主流",
+    "sense": "先把思想、文化或做法想成一条条水流，最大、最被广泛接受的一股叫主流。",
+    "split": "main 主要 + stream 水流，由主要水流的意象发展为社会、文化、观念等的主流。现代可作名词、形容词、动词。",
+    "history": [
+      [
+        "main 主要；stream 水流",
+        "并列构词部分"
+      ],
+      [
+        "mainstream",
+        "主要水流 → 广泛接受的观念、做法等"
+      ]
+    ],
+    "explanation": "mainstream media 主流媒体；enter the mainstream 进入主流；mainstream a practice 让某种做法被普遍采用。其判断依具体社会、时期和领域变化。",
+    "usage": "mainstream culture；mainstream media；enter the mainstream；become mainstream。",
+    "contrast": "mainstream 说广泛接受，不自动等于正确或优质；alternative、fringe 等词描述与主流的关系，也不能直接判断真假。",
+    "examples": [
+      [
+        "The style moved from small clubs into the mainstream.",
+        "这种风格从小型俱乐部走进了主流。"
+      ],
+      [
+        "The festival combines mainstream films with experimental work.",
+        "电影节把主流电影与实验作品结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainstream#English"
+    ]
+  },
+  {
+    "word": "mainline",
+    "ipa": "/ˈmeɪnlaɪn/",
+    "meaning": "干线；主线的；主流、既有的",
+    "sense": "一套线路里的主要一条，其他支线从它分出去；也可借说某领域的既有主流。",
+    "split": "main 主要 + line 线路，形成干线名称；形容词可用于铁路、机构等主线、既有主流的意思。",
+    "history": [
+      [
+        "main 主要；line 线路",
+        "并列构词部分"
+      ],
+      [
+        "mainline",
+        "干线；主线、既有主流的"
+      ]
+    ],
+    "explanation": "a mainline station 干线车站，a mainline service 干线班次。分写 main line 也常见。这个词另有毒品语境的俚语动词义，读材料时按语境区分。",
+    "usage": "a mainline railway；mainline services；a mainline station。",
+    "contrast": "mainline 线路是主干，不等于某趟 express 特快车；branch line 才是支线。单凭词义也不能推出具体停站。",
+    "examples": [
+      [
+        "The village station connects to the mainline railway.",
+        "村里的车站接入铁路干线。"
+      ],
+      [
+        "The timetable separates mainline services from local buses.",
+        "时刻表把干线班次与本地公交分开列出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainline#English"
+    ]
+  },
+  {
+    "word": "mainstay",
+    "ipa": "/ˈmeɪnsteɪ/",
+    "meaning": "主要支柱；中坚；主要依靠",
+    "sense": "原来是撑住船桅的重要索具，后来借说少了它就撑不住的人或事物。",
+    "split": "main 主要、主桅相关 + stay 支索，旧航海复合名词；再引申为主要依靠。stay 在这里不是停留那个普通动词的直接用法。",
+    "history": [
+      [
+        "main 主桅相关、主要；stay 支索",
+        "并列构词部分"
+      ],
+      [
+        "mainstay",
+        "重要支索 → 主要支柱、依靠"
+      ]
+    ],
+    "explanation": "the mainstay of the economy 经济支柱；a mainstay of the team 团队中坚。可以是产业、收入来源，也可以是长期可靠的人。",
+    "usage": "a mainstay of the economy；the family’s mainstay；remain a mainstay。",
+    "contrast": "mainstay 强调提供稳定支撑，不必是名义上的 leader；不是 main + stay 理解为主要待着不走。",
+    "examples": [
+      [
+        "Tourism is a mainstay of the island’s economy.",
+        "旅游业是这个岛屿的经济支柱。"
+      ],
+      [
+        "Her practical advice remained a mainstay throughout the project.",
+        "她实用的建议始终是项目的重要支撑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainstay#English"
+    ]
+  },
+  {
+    "word": "mainframe",
+    "ipa": "/ˈmeɪnfreɪm/",
+    "meaning": "大型主机；大型计算机",
+    "sense": "不是仅看外壳有多大，而是想到能长期承担大量重要处理任务的一类计算机系统。",
+    "split": "main 主要 + frame 框架；名称与早期计算设备的主要框架、机柜有关，后来固定为一类大型计算机的称呼。",
+    "history": [
+      [
+        "main 主要；frame 框架、机架",
+        "并列构词部分"
+      ],
+      [
+        "mainframe",
+        "计算设备主框架相关名称 → 大型主机"
+      ]
+    ],
+    "explanation": "a mainframe computer 大型主机，mainframe systems 大型主机系统。常见于需要大量事务处理、可靠性要求高的机构计算场景。",
+    "usage": "a mainframe computer；mainframe systems；run on a mainframe。",
+    "contrast": "mainframe 不是随便一台放在大机箱里的个人电脑；mainframe 也不直接等于个人网页里的主框架。",
+    "examples": [
+      [
+        "The bank’s older records were stored on a mainframe.",
+        "银行的旧记录存储在一台大型主机上。"
+      ],
+      [
+        "The course compares mainframe systems with other computing platforms.",
+        "课程比较大型主机系统与其他计算平台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainframe#English",
+      "https://www.ibm.com/think/topics/mainframe"
+    ]
+  },
+  {
+    "word": "mainstage",
+    "ipa": "/ˈmeɪnsteɪdʒ/",
+    "meaning": "主舞台；主要演出场地",
+    "sense": "同一场活动可能有好几个舞台，把主要表演放到其中最重要的一处。",
+    "split": "main 主要 + stage 舞台，复合为活动、剧院等场合的主舞台名称；也常分写 main stage。",
+    "history": [
+      [
+        "main 主要；stage 舞台",
+        "并列构词部分"
+      ],
+      [
+        "mainstage",
+        "主要演出舞台、场地"
+      ]
+    ],
+    "explanation": "on the mainstage 在主舞台演出；a mainstage production 主舞台制作。并不单凭这个词就能判断台子的实际大小。",
+    "usage": "a mainstage performance；on the mainstage；a mainstage production。",
+    "contrast": "mainstage 主舞台，backstage 后台；stage 在这里不是任务的某个阶段。",
+    "examples": [
+      [
+        "The band will perform on the mainstage on Saturday evening.",
+        "乐队将在周六晚上登上主舞台。"
+      ],
+      [
+        "The theatre announced three mainstage productions for the season.",
+        "剧院公布了本演出季三部主舞台作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainstage#English"
+    ]
+  },
+  {
+    "word": "mainsail",
+    "ipa": "/ˈmeɪnseɪl/，也读 /ˈmeɪnsəl/",
+    "meaning": "主帆",
+    "sense": "帆船上有不同位置、用途的帆，这一名称标出主桅或主要帆位对应的帆。",
+    "split": "main 主桅相关、主要 + sail 帆，形成航海名称。具体形状、位置要看船的帆装，不能只凭名字断定所有船完全相同。",
+    "history": [
+      [
+        "main 主桅相关、主要；sail 帆",
+        "并列构词部分"
+      ],
+      [
+        "mainsail",
+        "主帆"
+      ]
+    ],
+    "explanation": "raise the mainsail 升主帆，lower the mainsail 降主帆。小说和航海说明里常见，也可作 sails 这些帆中的具体一项。",
+    "usage": "raise the mainsail；lower the mainsail；the boat’s mainsail。",
+    "contrast": "mainsail 是帆，mainmast 是桅杆；sail 不等于 sale 出售，虽然两者同音。",
+    "examples": [
+      [
+        "The painting shows a boat with a bright white mainsail.",
+        "画上是一艘扬着亮白主帆的船。"
+      ],
+      [
+        "The sailors lowered the mainsail as they returned to the harbour.",
+        "水手回港时降下了主帆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mainsail#English"
+    ]
+  }
+]

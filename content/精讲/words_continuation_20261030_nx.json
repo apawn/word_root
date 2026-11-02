@@ -1,0 +1,644 @@
+[
+  {
+    "word": "lyric",
+    "ipa": "/ˈlɪrɪk/",
+    "meaning": "歌词；抒情诗；抒情诗的",
+    "sense": "最早画面是琴声伴着诗句唱出来，后来 lyric 连到抒情诗、歌词。日常说一首歌的歌词通常用 lyrics；a lyric 也能说其中一句，或在特定文体指整篇歌词。",
+    "split": "经法语 lyrique、拉丁语 lyricus 上接希腊 lyrikos，来自 lyra 里拉琴。原先与琴伴唱的诗相关，后来用于抒情诗和声乐文字，不是现代英语先造 lyre + -ic 才有全部用法。",
+    "history": [
+      [
+        "希腊语 lyra 里拉琴 → lyrikos → 拉丁 lyricus、法语 lyrique",
+        "由琴伴唱的诗、与抒情诗相关"
+      ],
+      [
+        "英语 lyric → 歌词、抒情；+ -al、-ist、-ism",
+        "抒情性质；作词人；抒情风格"
+      ]
+    ],
+    "explanation": "song lyrics 歌词；write lyrics 写歌词；lyric poetry 抒情诗；a memorable lyric 一句难忘歌词。",
+    "usage": "song lyrics；write lyrics；lyric poetry。",
+    "contrast": "lyrics 是文字内容，melody 是旋律；a lyric 并非只能按单复数认成一首完整歌曲。",
+    "examples": [
+      [
+        "I know the tune but cannot remember the lyrics.",
+        "我记得曲调，却想不起歌词。"
+      ],
+      [
+        "One lyric from the song stayed in her mind.",
+        "歌里有一句歌词一直留在她心里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lyric#English"
+    ]
+  },
+  {
+    "word": "lyrical",
+    "ipa": "/ˈlɪrɪkəl/",
+    "meaning": "抒情的；富有诗意的；热情赞颂的",
+    "sense": "文字、画面不是只交代事实，还像歌一样流露感情、带着节奏美，就是 lyrical。wax lyrical about 则是越说越热情，兴致勃勃地赞颂。",
+    "split": "lyric + -al → lyrical，形成性质形容词。由抒情诗、歌唱相关，扩展到表达浓烈感情、富诗意的风格。",
+    "history": [
+      [
+        "希腊语 lyra 里拉琴 → lyrikos → 拉丁 lyricus、法语 lyrique",
+        "由琴伴唱的诗、与抒情诗相关"
+      ],
+      [
+        "英语 lyric → 歌词、抒情；+ -al、-ist、-ism",
+        "抒情性质；作词人；抒情风格"
+      ],
+      [
+        "lyric + -al → lyrical",
+        "抒情、富诗意的性质；热情表达"
+      ]
+    ],
+    "explanation": "lyrical prose 抒情散文；a lyrical passage 富有诗意的一段；wax lyrical about 热情赞颂。",
+    "usage": "lyrical prose；wax lyrical about。",
+    "contrast": "lyrical 可形容没有歌词的器乐、电影画面；重点是抒情效果，不要求真的含 words。",
+    "examples": [
+      [
+        "The book is written in lyrical prose.",
+        "这本书用富有诗意的散文写成。"
+      ],
+      [
+        "He waxed lyrical about the beauty of the island.",
+        "他兴致勃勃地赞叹岛上的美景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lyrical#English"
+    ]
+  },
+  {
+    "word": "lyricist",
+    "ipa": "/ˈlɪrɪsɪst/",
+    "meaning": "作词人",
+    "sense": "一首歌有曲和词，lyricist 负责歌词这一部分。这个角色可以和 composer 作曲者是同一个人，也可以分工合作。",
+    "split": "lyric + -ist → lyricist，-ist 命名从事相应活动的人。这个派生词里 c 读 /s/，与 lyric 的 /k/ 不同。",
+    "history": [
+      [
+        "希腊语 lyra 里拉琴 → lyrikos → 拉丁 lyricus、法语 lyrique",
+        "由琴伴唱的诗、与抒情诗相关"
+      ],
+      [
+        "英语 lyric → 歌词、抒情；+ -al、-ist、-ism",
+        "抒情性质；作词人；抒情风格"
+      ],
+      [
+        "lyric + -ist → lyricist",
+        "创作歌词的人"
+      ]
+    ],
+    "explanation": "a song’s lyricist 歌曲作词人；a composer and lyricist 作曲兼作词者。",
+    "usage": "a lyricist；composer and lyricist。",
+    "contrast": "lyricist 写词，composer 写曲；songwriter 范围可包括词曲创作，不能都缩成同一种单一职责。",
+    "examples": [
+      [
+        "The lyricist rewrote the final verse.",
+        "作词人重写了最后一节。"
+      ],
+      [
+        "The composer worked closely with the lyricist.",
+        "作曲者与作词人密切合作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lyricist#English"
+    ]
+  },
+  {
+    "word": "lyricism",
+    "ipa": "/ˈlɪrɪsɪzəm/",
+    "meaning": "抒情性；诗意、抒情风格",
+    "sense": "lyrical 描述一段文字很抒情，lyricism 则把这份流动的感情、诗意作为艺术特点来谈。音乐、电影、舞蹈也可以有 lyricism。",
+    "split": "lyric + -ism → lyricism，命名抒情风格、性质；其中 c 读 /s/。-ism 这里不必是一个组织严密的政治学说。",
+    "history": [
+      [
+        "希腊语 lyra 里拉琴 → lyrikos → 拉丁 lyricus、法语 lyrique",
+        "由琴伴唱的诗、与抒情诗相关"
+      ],
+      [
+        "英语 lyric → 歌词、抒情；+ -al、-ist、-ism",
+        "抒情性质；作词人；抒情风格"
+      ],
+      [
+        "lyric + -ism → lyricism",
+        "抒情的艺术性质、表达风格"
+      ]
+    ],
+    "explanation": "the lyricism of the music 音乐的抒情性；quiet lyricism 安静含蓄的诗意。",
+    "usage": "the lyricism of；quiet lyricism。",
+    "contrast": "lyricism 不等于歌词数量；没有歌词的音乐、镜头也能有抒情性。",
+    "examples": [
+      [
+        "The film combines realism with quiet lyricism.",
+        "影片把写实与含蓄诗意结合起来。"
+      ],
+      [
+        "She admired the lyricism of the slow movement.",
+        "她欣赏慢乐章的抒情性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lyricism#English"
+    ]
+  },
+  {
+    "word": "wherein",
+    "ipa": "英 /weərˈɪn/；美 /werˈɪn/",
+    "meaning": "其中；在……之中；在什么方面",
+    "sense": "wherein 常像把 in which 压成一个词：在刚说的那件事、文件、情况里面。Wherein lies the difference? 则是在问差别到底在什么地方、方面。",
+    "split": "承中古英语 wherin，对应 where + in。where 的关系、疑问用法与介词合成，指向地点，也可指抽象方面。",
+    "history": [
+      [
+        "where 与介词组成中古英语等复合形式",
+        "可相当于 in which、upon which 等，where 不只问地点"
+      ],
+      [
+        "where + withal → wherewithal，先副词后名词",
+        "凭借什么 → 完成事情所需的资金、资源、能力"
+      ]
+    ],
+    "explanation": "a situation wherein……一种其中……的情况；Wherein lies……？……到底在何处？语体通常正式。",
+    "usage": "wherein lies；a situation wherein。",
+    "contrast": "wherein 不必是实体地点；in which 常能用来展开它，日常表达往往更自然。",
+    "examples": [
+      [
+        "Wherein lies the main difference?",
+        "主要差别到底在哪里？"
+      ],
+      [
+        "The report describes a system wherein each member has a vote.",
+        "报告描述了一种每位成员都有投票权的制度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wherein#English"
+    ]
+  },
+  {
+    "word": "whereupon",
+    "ipa": "英 /ˌweərəˈpɒn/；美 /ˌwerəˈpɑːn/",
+    "meaning": "随之、于是；在那以后",
+    "sense": "前一件事刚发生，后面紧跟着出现反应，whereupon 就像“于是、随即”。它常把叙述往前推一步，语气比 then 更书面。",
+    "split": "承中古英语 wherupon，对应 where + upon。原来的在其上关系扩展为在该事发生之后、由此引出的接续关系。",
+    "history": [
+      [
+        "where 与介词组成中古英语等复合形式",
+        "可相当于 in which、upon which 等，where 不只问地点"
+      ],
+      [
+        "where + upon → whereupon",
+        "在其上、就该事 → 随之、于是"
+      ]
+    ],
+    "explanation": "……, whereupon……，用于承接前句事件；读叙事时可展开成 after which、at which point 等。",
+    "usage": "whereupon he replied；whereupon the meeting ended。",
+    "contrast": "whereupon 常强调紧接前事的后续，不保证每次都构成严格因果证明。",
+    "examples": [
+      [
+        "She raised her hand, whereupon the room fell silent.",
+        "她举起手，屋里随即安静下来。"
+      ],
+      [
+        "He read the letter, whereupon he immediately called her.",
+        "他读完信，随即打电话给她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whereupon#English"
+    ]
+  },
+  {
+    "word": "wherewithal",
+    "ipa": "英 /ˈweəwɪðɔːl/；美 /ˈwerwɪðɔːl/",
+    "meaning": "所需资金、资源、能力",
+    "sense": "想开店是一回事，钱、人手、精力、实际办法凑不凑得齐，是有没有 the wherewithal。它抓“凭什么把事做成”，常先指资金，也能说能力资源。",
+    "split": "where + withal，原先是凭什么、用什么的副词表达，后来转成所凭借的手段、资金等名词。现代不把 all 单独硬翻成全部地点。",
+    "history": [
+      [
+        "where 与介词组成中古英语等复合形式",
+        "可相当于 in which、upon which 等，where 不只问地点"
+      ],
+      [
+        "where + withal → wherewithal 副词 → 名词",
+        "凭借什么 → 做成某事所需手段、资源"
+      ]
+    ],
+    "explanation": "have the wherewithal to do 有资源、能力去做；the financial wherewithal 财力。",
+    "usage": "the wherewithal to；financial wherewithal。",
+    "contrast": "wherewithal 常说实际手段，不只愿望、热情；want to do 不保证 have the wherewithal to do。",
+    "examples": [
+      [
+        "They had the idea but lacked the wherewithal to develop it.",
+        "他们有想法，却缺少把它做出来的资源。"
+      ],
+      [
+        "She finally had the financial wherewithal to start the project.",
+        "她终于有了启动项目的财力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wherewithal#English"
+    ]
+  },
+  {
+    "word": "hardy",
+    "ipa": "英 /ˈhɑːdi/；美 /ˈhɑːrdi/",
+    "meaning": "强健耐劳的；耐寒、耐逆境的；勇敢的",
+    "sense": "冷风、劳累来了，仍扛得住，是 hardy。形容人看耐受困难，形容植物常看能否撑过寒冷等环境，不是说摸起来表面很硬。",
+    "split": "借古法语 hardi，经中古英语到 hardy，上游联系法兰克语使坚强、坚硬材料，具体形式路线有讨论，也受英语 hard 影响。历史先有勇敢、大胆，后扩展到强健、耐寒。",
+    "history": [
+      [
+        "古法语 hardi 勇敢、大胆 → 中古英语 hardy → hardy",
+        "上游联系日耳曼坚硬、使坚强材料，受英语 hard 影响"
+      ],
+      [
+        "身体能经受困难 → 植物耐不良环境；hardy + -ness",
+        "强健耐劳、耐寒等性质"
+      ]
+    ],
+    "explanation": "hardy walkers 体力耐受强的徒步者；a hardy plant 耐寒、耐逆境植物；hardy enough to survive 足够强健而能存活。",
+    "usage": "a hardy plant；hardy walkers。",
+    "contrast": "hardy 不等于 hard 硬，也不等于 hardly 几乎不；植物能耐什么、程度多高仍看具体环境。",
+    "examples": [
+      [
+        "These hardy plants survive the cold winter.",
+        "这些耐寒植物能熬过寒冬。"
+      ],
+      [
+        "Only a few hardy walkers continued in the rain.",
+        "只有几个能吃苦的徒步者继续在雨中走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hardy#English",
+      "https://www.etymonline.com/word/hardy"
+    ]
+  },
+  {
+    "word": "hardiness",
+    "ipa": "英 /ˈhɑːdinəs/；美 /ˈhɑːrdinəs/",
+    "meaning": "强健、耐劳；耐寒、耐逆性",
+    "sense": "hardy 描述谁扛得住，hardiness 把能扛的性质拿出来。比较植物 hardiness，就是比较它们对寒冷等环境的耐受能力。",
+    "split": "承中古英语 hardynesse，现代对应 hardy 的 y 改 i + -ness → hardiness。性质名词承接人物耐劳、植物耐逆等用法。",
+    "history": [
+      [
+        "古法语 hardi 勇敢、大胆 → 中古英语 hardy → hardy",
+        "上游联系日耳曼坚硬、使坚强材料，受英语 hard 影响"
+      ],
+      [
+        "hardy + -ness → hardiness",
+        "耐劳、耐寒等承受逆境的性质"
+      ]
+    ],
+    "explanation": "winter hardiness 越冬耐寒性；plant hardiness 植物耐寒性；the hardiness of the breed 品种的强健程度。",
+    "usage": "winter hardiness；plant hardiness。",
+    "contrast": "hardiness 耐受逆境与 hardness 材料硬度不同，前者是 hardy 的名词，后者是 hard 的名词。",
+    "examples": [
+      [
+        "The varieties differ in winter hardiness.",
+        "这些品种的越冬耐寒性不同。"
+      ],
+      [
+        "The hikers admired the hardiness of the local people.",
+        "徒步者佩服当地人的强健耐劳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hardiness#English"
+    ]
+  },
+  {
+    "word": "mold",
+    "ipa": "英 /məʊld/；美 /moʊld/",
+    "meaning": "模具、模型；塑造；霉菌；〔较旧〕腐殖土",
+    "sense": "mold 既能是把材料定形的模具，也能是食物上长出的霉。模具 → 塑造和霉 → 发霉各自很好记，但两条不能编成模具久放才变成词义霉菌。",
+    "split": "模具义借法语，上接拉丁 modulus；霉菌义接中古英语 mowlde、mowlen 发霉等，与北欧同族形式相关，也可能受土壤词影响；土壤义另承古英语 molde。常见英式拼写 mould、美式 mold。",
+    "history": [
+      [
+        "拉丁 modulus 模型、尺度 → 法语 modle、mole → mold 模具",
+        "定形工具与塑造动作"
+      ],
+      [
+        "霉菌 mold 接中古英语发霉词、北欧相关形式；土壤 mold 另承古英语 molde",
+        "三条近源路线汇成同形，molding 与 moldy 各接一支"
+      ]
+    ],
+    "explanation": "a cake mold 蛋糕模具；mold clay 塑造黏土；mold someone’s character 塑造性格；mold on bread 面包上的霉。",
+    "usage": "a cake mold；mold clay；mold on bread。",
+    "contrast": "mold 的模具、霉菌、土壤是同形不同近源；mould 与 mold 则是拼写变体，不按有无 u 分义。",
+    "examples": [
+      [
+        "She poured the mixture into a mold.",
+        "她把混合物倒进模具。"
+      ],
+      [
+        "There was mold on the old bread.",
+        "旧面包上长了霉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mold#English",
+      "https://www.etymonline.com/word/mold"
+    ]
+  },
+  {
+    "word": "molding",
+    "ipa": "英 /ˈməʊldɪŋ/；美 /ˈmoʊldɪŋ/",
+    "meaning": "模制、成形过程；装饰线脚、模制件",
+    "sense": "把材料压、浇成某种形状，是 molding；房间墙顶、门边的凸起装饰条也叫 molding，接成形制品、装饰形面的路线。",
+    "split": "承中古英语 moldynge，对应 mold 模具、塑造 + -ing。动作名发展为模制成品、装饰线脚名；常见英式 moulding、美式 molding。",
+    "history": [
+      [
+        "拉丁 modulus 模型、尺度 → 法语 modle、mole → mold 模具",
+        "定形工具与塑造动作"
+      ],
+      [
+        "mold + -ing → molding／moulding",
+        "塑造、模制过程 → 相应制品、装饰线脚"
+      ]
+    ],
+    "explanation": "injection molding 注塑成形；decorative molding 装饰线脚；ceiling molding 顶角线。",
+    "usage": "injection molding；decorative molding。",
+    "contrast": "molding 接塑造义，不是“正在长霉”的固定名称；发霉通常看 mold、moldy 的具体用法。",
+    "examples": [
+      [
+        "The factory uses injection molding to make the parts.",
+        "工厂用注塑成形制作这些部件。"
+      ],
+      [
+        "Decorative molding runs along the ceiling.",
+        "装饰线脚沿天花板边缘延伸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/molding#English"
+    ]
+  },
+  {
+    "word": "moldy",
+    "ipa": "英 /ˈməʊldi/；美 /ˈmoʊldi/",
+    "meaning": "发霉的；霉味的；陈腐的",
+    "sense": "面包上长了毛状斑块，地下室有陈旧霉味，都可能 moldy。它接霉菌这支，不是在夸东西很容易放进模具。",
+    "split": "mold 霉菌 + -y → moldy，英式常写 mouldy。由被霉覆盖、带霉味扩展到陈旧、过时等评价。",
+    "history": [
+      [
+        "霉菌 mold 接中古英语发霉词、北欧相关形式；土壤 mold 另承古英语 molde",
+        "三条近源路线汇成同形，molding 与 moldy 各接一支"
+      ],
+      [
+        "mold 霉菌 + -y → moldy／mouldy",
+        "发霉、带霉味 → 陈腐的"
+      ]
+    ],
+    "explanation": "moldy bread 发霉面包；a moldy smell 霉味；moldy old ideas 陈腐旧观念，后者带贬意。",
+    "usage": "moldy bread；a moldy smell。",
+    "contrast": "moldy 与 old 不等同：旧东西不一定发霉；霉味、霉生长的描述也不要只凭一个旧字判断。",
+    "examples": [
+      [
+        "The bread had become moldy.",
+        "面包发霉了。"
+      ],
+      [
+        "The cupboard had a damp, moldy smell.",
+        "橱柜有股潮湿霉味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moldy#English"
+    ]
+  },
+  {
+    "word": "forge",
+    "ipa": "英 /fɔːdʒ/；美 /fɔːrdʒ/",
+    "meaning": "锻造；努力建立；伪造；锻炉、铁匠铺；向前推进",
+    "sense": "金属被加热、锤出形状，是 forge；关系靠共同努力建立，也是 forge a bond。做出假签名则是 forge a signature。上游共同有制作线索，但英语里的伪造义并不比锻造义更晚。",
+    "split": "名词借法语 forge，上接拉丁 fabrica 作坊；制作动词借 forgier，上接 fabricari，法语已有制作、伪造等义，英语早有伪造。forge ahead 前进的动词最早路线另有争议，可能联系 force，不能固定编成一路打铁向前。",
+    "history": [
+      [
+        "拉丁 fabrica 作坊、fabricari 制作 → 法语 forge、forgier → forge",
+        "作坊、锻造、制作，也有伪制义"
+      ],
+      [
+        "forge 制作、伪造 → forger、forgery；forge ahead 另有未定路线",
+        "人物、伪造行为或伪作；前进义不强归为锤打起源"
+      ]
+    ],
+    "explanation": "forge steel 锻钢；forge a friendship 建立友谊；forge a signature 伪造签名；forge ahead 努力向前。",
+    "usage": "forge a bond；forge a signature；forge ahead。",
+    "contrast": "forge a bond 通常是积极建立；forge a document 才是假造文件，动词不能一律贴贬义。",
+    "examples": [
+      [
+        "Shared difficulties helped them forge a strong friendship.",
+        "共同的困难帮助他们建立了深厚友谊。"
+      ],
+      [
+        "The museum displays an old forge and its tools.",
+        "博物馆展出一座旧锻炉及其工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forge#English",
+      "https://www.etymonline.com/word/forge"
+    ]
+  },
+  {
+    "word": "forger",
+    "ipa": "英 /ˈfɔːdʒə/；美 /ˈfɔːrdʒər/",
+    "meaning": "伪造者；锻工",
+    "sense": "forger 常是伪造文件、艺术品的人；在金属加工场景，也可以是锻造的人。-er 只给人物角色，具体是哪种 forge 由对象决定。",
+    "split": "承中古英语 forger、forgere，并有法语 forgiere 来源，现代对应 forge 去 e + -er。伪造者与锻造者义随基础动作分支。",
+    "history": [
+      [
+        "拉丁 fabrica 作坊、fabricari 制作 → 法语 forge、forgier → forge",
+        "作坊、锻造、制作，也有伪制义"
+      ],
+      [
+        "forge + -er／法语对应人物形式 → forger",
+        "从事伪造或锻造的人"
+      ]
+    ],
+    "explanation": "an art forger 艺术品伪造者；a document forger 文件伪造者；a skilled metal forger 熟练锻工。",
+    "usage": "an art forger；a document forger。",
+    "contrast": "forger 不是每次都是罪犯标签，金属加工义可中性；艺术、文件语境则常指造假者。",
+    "examples": [
+      [
+        "The novel follows an art forger.",
+        "小说讲述一个艺术品伪造者的经历。"
+      ],
+      [
+        "The forger copied the signature in the story.",
+        "故事里的伪造者仿写了签名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forger#English"
+    ]
+  },
+  {
+    "word": "forgery",
+    "ipa": "英 /ˈfɔːdʒəri/；美 /ˈfɔːrdʒəri/",
+    "meaning": "伪造；伪作、赝品",
+    "sense": "forger 是人，forgery 是伪造行为，或做出来的假作品。The painting is a forgery 重点是这幅画并非声称的那个真迹。",
+    "split": "forge + -ery → forgery，上接法语、拉丁制作词族。早期也有锻造相关义，现代常用重点是伪造行为、伪造物。",
+    "history": [
+      [
+        "拉丁 fabrica 作坊、fabricari 制作 → 法语 forge、forgier → forge",
+        "作坊、锻造、制作，也有伪制义"
+      ],
+      [
+        "forge + -ery → forgery",
+        "伪造行为；相应伪造物"
+      ]
+    ],
+    "explanation": "an art forgery 艺术赝品；a clever forgery 逼真的伪作；detect a forgery 识破伪作。",
+    "usage": "an art forgery；detect a forgery。",
+    "contrast": "a copy 可以公开说明是复制品，forgery 常涉及冒充真品；区别在所声称身份、意图等，不只画得像不像。",
+    "examples": [
+      [
+        "The painting was exposed as a forgery.",
+        "这幅画被揭穿是赝品。"
+      ],
+      [
+        "The expert noticed small details that revealed the forgery.",
+        "专家注意到暴露这件伪作的小细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forgery#English"
+    ]
+  },
+  {
+    "word": "knit",
+    "ipa": "/nɪt/",
+    "meaning": "编织、针织；紧密结合；皱紧",
+    "sense": "一圈线套进另一圈，反复扣住，织成布，是 knit。人群、组织像线圈一样连得紧，也可 knit together；knit your brows 则是眉头聚拢。",
+    "split": "承古英语 cnyttan，经中古英语 knytten 到 knit，与 knot 结同族。结、接合的旧义发展为针织及紧密连接等比喻，现代开头 k 不发音。",
+    "history": [
+      [
+        "古英语 cnyttan → 中古英语 knytten → knit",
+        "结、接合，与 knot 同族"
+      ],
+      [
+        "线圈互扣成布 → knit 编织；连接紧密的比喻；-ing、-er",
+        "编织活动、在织的物件；编织者、编织机"
+      ]
+    ],
+    "explanation": "knit a scarf 织围巾；knit together 紧密结合；knit your brows 皱眉。过去、分词可用 knitted，也可用 knit，按用法辨认。",
+    "usage": "knit a scarf；knit together；knit your brows。",
+    "contrast": "knit 主要是线圈相互套连，weave 通常是经纬交织，工艺结构不同；不是所有布都用同一种动作。",
+    "examples": [
+      [
+        "She knitted a scarf for her brother.",
+        "她给弟弟织了一条围巾。"
+      ],
+      [
+        "The shared project knitted the group together.",
+        "共同项目把小组成员紧密联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knit#English"
+    ]
+  },
+  {
+    "word": "knitting",
+    "ipa": "/ˈnɪtɪŋ/",
+    "meaning": "编织、针织；在织的织物；knit 的 -ing 形式",
+    "sense": "knitting 可以是织的活动，也可以是你手上那团尚在进行的织物。put down your knitting 就是先放下手里的针线活，不是把一个抽象爱好放桌上。",
+    "split": "承中古英语 knyttynge，现代 knit + -ing，双写 t → knitting。动作名进一步指正在制作的针织物。",
+    "history": [
+      [
+        "古英语 cnyttan → 中古英语 knytten → knit",
+        "结、接合，与 knot 同族"
+      ],
+      [
+        "knit + -ing → knitting",
+        "编织活动 → 所织、在织的物件"
+      ]
+    ],
+    "explanation": "take up knitting 开始学编织；knitting needles 棒针；put down one’s knitting 放下针线活。",
+    "usage": "knitting needles；take up knitting。",
+    "contrast": "knitting 与 knitwear 不同：前者可说活动、手上的活，后者通常是针织衣物总称。",
+    "examples": [
+      [
+        "She took her knitting on the train.",
+        "她把针线活带上了火车。"
+      ],
+      [
+        "Knitting helps him relax in the evening.",
+        "晚上织东西能让他放松。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knitting#English"
+    ]
+  },
+  {
+    "word": "knitter",
+    "ipa": "英 /ˈnɪtə/；美 /ˈnɪtər/",
+    "meaning": "编织者；针织机",
+    "sense": "knit 是织，knitter 可以是织的人，也可以是执行针织工作的机器。初学者、爱好者不必靠它谋生，也能叫 knitter。",
+    "split": "承中古英语 knytter 等，对应 knit + -er，双写 t。执行者后缀同时可用于人和机器。",
+    "history": [
+      [
+        "古英语 cnyttan → 中古英语 knytten → knit",
+        "结、接合，与 knot 同族"
+      ],
+      [
+        "knit + -er → knitter",
+        "从事针织的人、针织设备"
+      ]
+    ],
+    "explanation": "a beginner knitter 编织初学者；an experienced knitter 有经验的编织者；a machine knitter 可指机织者，须看具体上下文。",
+    "usage": "a beginner knitter；an experienced knitter。",
+    "contrast": "knitter 不只职业工人，-er 也不一律是人；具体角色由活动、设备语境决定。",
+    "examples": [
+      [
+        "The pattern is suitable for beginner knitters.",
+        "这份图解适合编织初学者。"
+      ],
+      [
+        "An experienced knitter showed me the stitch.",
+        "一位有经验的编织者教我这个针法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/knitter#English"
+    ]
+  },
+  {
+    "word": "brokenhearted",
+    "ipa": "英 /ˌbrəʊkənˈhɑːtɪd/；美 /ˌbroʊkənˈhɑːrtɪd/",
+    "meaning": "心碎的、极度悲伤的",
+    "sense": "重要的人、关系、希望失去以后，心里像被打碎，是 brokenhearted。情感的承载处借作 heart，broken 把失落程度形象地放大。",
+    "split": "broken 打碎的 + hearted 具有某种心态的。heart + -ed 在复合词中表示具有，不必先有给心脏实施动作的字面过程。也常见带连字符拼写。",
+    "history": [
+      [
+        "heart 心，借作情绪、性格、态度中心",
+        "与 -ed 形成具有某种心态的复合形容词"
+      ],
+      [
+        "broken + hearted → brokenhearted",
+        "心像被打碎的悲伤状态，不是字面心脏破裂"
+      ]
+    ],
+    "explanation": "feel brokenhearted 感到心碎；be brokenhearted over 因……伤心欲绝。",
+    "usage": "feel brokenhearted；brokenhearted over。",
+    "contrast": "brokenhearted 常是情感比喻，不等于心脏发生字面破裂；sad 的范围更宽、程度也可更轻。",
+    "examples": [
+      [
+        "She was brokenhearted when her closest friend moved away.",
+        "最亲近的朋友搬走时，她伤心极了。"
+      ],
+      [
+        "The farewell left him brokenhearted.",
+        "这场告别让他心碎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brokenhearted#English"
+    ]
+  }
+]

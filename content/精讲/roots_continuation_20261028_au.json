@@ -1,0 +1,57 @@
+[
+  {
+    "id": "B2572",
+    "meaning": "白、浅色、明亮；相关命名与引申",
+    "core": "WHITE：先看颜色，再看命名、覆盖和分类",
+    "image": "白纸、白涂料和白鱼名各有对象；刷白盖住污点，才容易理解粉饰掩盖。",
+    "intro": "white 接古英语 hwīt。whiten 有旧动词来源；whiting 的鱼名和粉料义是并列分支，不假造一个变成另一个。white 用于人群时是社会分类，不给不同群体硬套共同特征。",
+    "forms": "white → whiten、whiteness、whitish；whiteboard、whitewash、whitelist 说明板、覆盖与名单；nonwhite 讲类别否定；whitehead、whitefish、whiting 讲具体命名。",
+    "branches": [
+      [
+        "白色与变化、性质",
+        "white · whiten · whiteness · whitish"
+      ],
+      [
+        "书写、覆盖与允许名单",
+        "whiteboard · whitewash · whitelist"
+      ],
+      [
+        "类别否定及具体名称",
+        "nonwhite · whitehead · whitefish · whiting"
+      ]
+    ],
+    "contrasts": "whitish 略白、whiten 变白、whiteness 白的性质；whitewash 可能粉饰，whitelist 是配置允许；nonwhite 不只等于 black。",
+    "practice": "A whitish coating covered the whiteboard, so the writing was hard to see.\n\n白板覆着一层发白的东西，字迹很难看清。",
+    "words": [
+      "white",
+      "whiten",
+      "whiteness",
+      "whitish",
+      "whiteboard",
+      "whitewash",
+      "whitelist",
+      "nonwhite",
+      "whitehead",
+      "whitefish",
+      "whiting"
+    ],
+    "exclude": {
+      "off-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "white-eye": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "milk-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snow-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "white-shirt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "white-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lily-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "white-haired": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chalk-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "silvery-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "green-white-checkered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "paperwhite": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitetail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitestone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whitebeard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

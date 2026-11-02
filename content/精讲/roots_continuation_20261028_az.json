@@ -1,0 +1,159 @@
+[
+  {
+    "id": "B3263",
+    "meaning": "感谢、感念与庆幸",
+    "core": "THANK：把得到的帮助记在心里，再表达谢意",
+    "image": "thank 是感谢动作，thanks 是谢谢、谢意；thankless task 则是做了却少人感激。",
+    "intro": "thank 接古英语 þancian，与 þanc 感念、思想的旧词族有关。thanks 保留名词复数历史；thankful、thankfully 有对应旧形。",
+    "forms": "thank → thanks；thank → thankful → thankfully、thankfulness；thankless 单列不受感谢的任务义。\n\n古英语名词、动词的感念材料与 think 远有联系，现代 thanked 的 -ed 在 /k/ 后读 /t/。",
+    "branches": [
+      [
+        "感谢动作与表达",
+        "thank · thanks"
+      ],
+      [
+        "感受、副词与抽象名词",
+        "thankful · thankfully · thankfulness"
+      ],
+      [
+        "未获感谢的另一方向",
+        "thankless"
+      ],
+      [
+        "thank 的感念、感谢与常用变化",
+        "thank · thanked · thanking"
+      ]
+    ],
+    "contrasts": "Thank you / Thanks，不写 Thanks you；thankfully 幸好、hopefully 但愿；thankless task 说工作不受感谢，不是工作忘恩负义。",
+    "practice": "Thanks for doing such a thankless task; we are truly thankful.\n\n谢谢你做这件吃力不讨好的事，我们真心感激。",
+    "words": [
+      "thank",
+      "thanks",
+      "thankful",
+      "thankfully",
+      "thankfulness",
+      "thankless",
+      "thanked",
+      "thanking"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2541",
+    "meaning": "努力争取到；赢、获胜",
+    "core": "WIN：把想要的胜利、奖励或信任争取到手",
+    "image": "先努力争取，再看胜者、成功特征、实际所得，最后分未获胜和仍可赢。",
+    "intro": "win 接古英语努力、争取词族；won /wʌn/ 是过去、分词。winner、winning、winnable 双写 n；winnings 是获胜所得的常用复数名词。",
+    "forms": "win → winner、winning → winnings；winless 与 winnable 相邻对照。\n\nwin → won → won；动词 won 读 /wʌn/，与 one 常同音；货币名 won 的读音和来源另记。\n\n早期劳作、争取词族，现代突出赢得结果，wins 也可数一次次胜利。\n\n本族词加表示人的 er，复数再加 s。\n\nprize 奖项 + winner 获胜者，winner 内部为 win 双写 n 加 -er；完整复合词再加 -s 成复数，不把 prize 的撬动同形动词套进来。",
+    "branches": [
+      [
+        "动作、胜者和制胜特征",
+        "win · winner · winning"
+      ],
+      [
+        "所得与获胜可能",
+        "winnings · winless · winnable"
+      ],
+      [
+        "win 到 won：过去赢得与已经赢得",
+        "win · won"
+      ],
+      [
+        "win → wins：努力后取得胜利、争取到",
+        "win · wins"
+      ],
+      [
+        "win → winner → winners：赢与获胜者",
+        "winner · winners"
+      ],
+      [
+        "prizewinner：赢得奖项的人",
+        "prizewinner · prizewinners"
+      ]
+    ],
+    "contrasts": "win a game、beat a team；winning smile 迷人笑容；winless 可能包括平局，winnable 不等于 already won。",
+    "practice": "The winless team still believed the next game was winnable.\n\n这支未尝胜绩的球队仍相信下一场有希望赢。",
+    "words": [
+      "win",
+      "winner",
+      "winning",
+      "winnings",
+      "winless",
+      "winnable",
+      "won",
+      "wins",
+      "winners",
+      "prizewinner",
+      "prizewinners"
+    ],
+    "exclude": {
+      "no-win": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3612",
+    "meaning": "玩笑、乐趣；好笑与奇怪",
+    "core": "FUN：让人愿意参与、感到愉快",
+    "image": "fun 好玩，funny 可能好笑也可能古怪；从最常见场景理解，别只背有趣两个字。",
+    "intro": "fun 与旧愚弄、玩笑词形有关，更早来源有不确定性。funny 由 fun + -y 发展出好笑、奇怪两路；funnily 常评论巧合。",
+    "forms": "fun → funny → unfunny、funnily；funfair 解释场所，funhouse 已有精讲复用。",
+    "branches": [
+      [
+        "乐趣和好笑、奇怪",
+        "fun · funny · unfunny · funnily"
+      ],
+      [
+        "游乐场所",
+        "funfair · funhouse"
+      ]
+    ],
+    "contrasts": "fun trip 好玩之旅，funny smell 怪味；unfunny 不等于所有不幽默的内容都无聊；fair 在 funfair 是集市。",
+    "practice": "The funfair was fun, though the clown’s joke was unfunny.\n\n游乐场很好玩，不过小丑的笑话不好笑。",
+    "words": [
+      "fun",
+      "funny",
+      "unfunny",
+      "funnily",
+      "funfair",
+      "funhouse"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2539",
+    "meaning": "询问、提出请求或价格",
+    "core": "ASK：把想知道、想要的向别人提出来",
+    "image": "问问题、请帮忙、开价，都是把一项需求摆到对方面前。",
+    "intro": "ask 接古英语 āscian、中古英语 asken、axen 等形式。asking 在常规分词之外，重点说明要价和只需开口两种常用表达。",
+    "forms": "ask → asking：先看动词句型，再看 asking price、for the asking。\n\nasked 的 -ed 读 /t/；asked someone to do 是请某人做，asked if 是问是否。\n\nasks 的结尾 /sks/ 是连在一起的辅音，通常不另添元音；ask 的询问、请求语法结构要分开。",
+    "branches": [
+      [
+        "基本询问与请求",
+        "ask"
+      ],
+      [
+        "常用分词搭配",
+        "asking"
+      ],
+      [
+        "ask → asked：问过、请求过",
+        "ask · asked"
+      ],
+      [
+        "ask → asks：提问、请求与要求",
+        "ask · asks"
+      ]
+    ],
+    "contrasts": "ask a question，ask for help；asking price 是要价，不保证等于成交价。",
+    "practice": "We asked about the asking price before making a decision.\n\n我们作决定前问了要价。",
+    "words": [
+      "ask",
+      "asking",
+      "asked",
+      "asks"
+    ],
+    "exclude": {
+      "asker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

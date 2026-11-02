@@ -1,0 +1,346 @@
+[
+  {
+    "word": "environmentally",
+    "ipa": "/ɪnˌvaɪrənˈmentəli/",
+    "meaning": "从环境角度、在环境方面；对环境地〔与形容词连用〕",
+    "sense": "把评判的镜头放到环境影响上：environmentally friendly 说对环境较友好，不是这个产品对人态度热情。",
+    "split": "environmental + -ly，副词修饰友好、可持续、有害等性质，说明从环境影响方面看。",
+    "history": [
+      [
+        "法语 environ、environner 等 → environ → environment",
+        "周围、围绕 → 所处环境"
+      ],
+      [
+        "environment + -al → environmental",
+        "与环境有关的"
+      ],
+      [
+        "environmental + -ly → environmentally",
+        "在环境方面、从环境影响看"
+      ]
+    ],
+    "explanation": "environmentally friendly 对环境友好的，environmentally damaging 损害环境的，environmentally sustainable 环境上可持续的。",
+    "usage": "environmentally friendly；environmentally damaging；environmentally sustainable。",
+    "contrast": "environmentally 限定环境维度，不自动保证所有方面都更好；friendly 的这种搭配是兼容、影响较小的引申，不是物品有情绪。",
+    "examples": [
+      [
+        "The team looked for more environmentally friendly packaging.",
+        "团队寻找对环境更友好的包装。"
+      ],
+      [
+        "The report called the project environmentally damaging.",
+        "报告认为项目会损害环境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/environmentally#English"
+    ]
+  },
+  {
+    "word": "environmentalist",
+    "ipa": "/ɪnˌvaɪrənˈmentəlɪst/",
+    "meaning": "环保人士、环境保护主义者；相关的",
+    "sense": "把保护环境当作关心、倡导的目标的人。可以从事不同职业，不必都在实验室研究环境。",
+    "split": "environmental + -ist，人物后缀命名关心、倡导环境保护的人；也可作修饰立场的词。",
+    "history": [
+      [
+        "法语 environ、environner 等 → environ → environment",
+        "周围、围绕 → 所处环境"
+      ],
+      [
+        "environment + -al → environmental",
+        "与环境有关的"
+      ],
+      [
+        "environmental + -ist → environmentalist",
+        "倡导环境保护的人或相关立场"
+      ]
+    ],
+    "explanation": "an environmentalist 环保人士，local environmentalists 当地环保人士，an environmentalist group 环保团体。",
+    "usage": "an environmentalist；local environmentalists；an environmentalist group。",
+    "contrast": "environmentalist 侧重倡导、关心环境，environmental scientist 环境科学家是研究职业；一个人可兼任，但不能自动互换。",
+    "examples": [
+      [
+        "Local environmentalists opposed the plan.",
+        "当地环保人士反对该计划。"
+      ],
+      [
+        "The documentary interviews several environmentalists.",
+        "纪录片采访了几位环保人士。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/environmentalist#English"
+    ]
+  },
+  {
+    "word": "environmentalism",
+    "ipa": "/ɪnˌvaɪrənˈmentəlɪzəm/",
+    "meaning": "环保理念、环境保护主义及其运动",
+    "sense": "不再指某一个人，而是保护环境这一套关心、主张和推动社会行动的观念。",
+    "split": "environmental + -ism，-ism 命名理念、取向或运动。不是环境本身的另一个长名字。",
+    "history": [
+      [
+        "法语 environ、environner 等 → environ → environment",
+        "周围、围绕 → 所处环境"
+      ],
+      [
+        "environment + -al → environmental",
+        "与环境有关的"
+      ],
+      [
+        "environmental + -ism → environmentalism",
+        "保护环境的理念、主张或运动"
+      ]
+    ],
+    "explanation": "the history of environmentalism 环保运动史，modern environmentalism 现代环保理念，debates about environmentalism 关于环保主义的讨论。",
+    "usage": "the history of environmentalism；modern environmentalism；debates about environmentalism。",
+    "contrast": "environment 环境，environmentalism 保护环境的理念；environmentalist 人物，不是把 -ism 和 -ist 都译成同一种环境。",
+    "examples": [
+      [
+        "The course traces the history of environmentalism.",
+        "课程追溯环保运动的历史。"
+      ],
+      [
+        "The essay compares different forms of environmentalism.",
+        "文章比较了不同形式的环保理念。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/environmentalism#English"
+    ]
+  },
+  {
+    "word": "crowd",
+    "ipa": "/kraʊd/",
+    "meaning": "人群、一群人；挤满、挤入；围拢",
+    "sense": "许多人挤在一处，是 a crowd；动词说人或东西把空间塞紧。网络复合词里的 crowd 则能是分散各地、一起参与的大众。",
+    "split": "动词继承古英语 crūdan 推、挤，经中古英语到现代；名词人群由聚挤动作发展。不能只靠拼写把 crow 乌鸦和某个 d 后缀合起来。",
+    "history": [
+      [
+        "古英语 crūdan → 中古英语 crouden → crowd〔动词〕",
+        "推挤、挤压"
+      ],
+      [
+        "英语 crowd〔名词〕及后来的参与比喻",
+        "挤在一起的人 → 人群；也可说共同参与的大众"
+      ]
+    ],
+    "explanation": "a crowd of people 一群人，crowd into a room 挤进房间，crowd around 围拢，crowd out 挤走、排挤，stand out from the crowd 脱颖而出。",
+    "usage": "a crowd of；crowd into；crowd around；crowd out；stand out from the crowd。",
+    "contrast": "crowd 不保证愤怒、暴力，mob 常更带失控、威胁色彩；crowdfunding 的人不一定身体站在同一屋里。",
+    "examples": [
+      [
+        "A crowd gathered outside the theatre.",
+        "剧院外聚起一群人。"
+      ],
+      [
+        "People crowded around the tiny stage.",
+        "人们围拢在小舞台周围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crowd#English",
+      "https://www.etymonline.com/word/crowd"
+    ]
+  },
+  {
+    "word": "crowded",
+    "ipa": "/ˈkraʊdɪd/",
+    "meaning": "拥挤的、挤满的",
+    "sense": "人或物很多，空间显得不够，想转身、放东西都有点难；不是只说现场有人。",
+    "split": "crowd + -ed，过去分词发展为形容词。d 后的 -ed 读 /ɪd/，把两节读清楚。",
+    "history": [
+      [
+        "古英语 crūdan → 中古英语 crouden → crowd〔动词〕",
+        "推挤、挤压"
+      ],
+      [
+        "crowd + -ed → crowded",
+        "被挤满、空间紧张的"
+      ]
+    ],
+    "explanation": "a crowded bus 拥挤公交车，crowded streets 拥挤街道，crowded with people 挤满人，a crowded schedule 排得很满的日程。",
+    "usage": "a crowded bus；crowded streets；crowded with；a crowded schedule。",
+    "contrast": "crowded 人或事塞得多，popular 受欢迎可能导致拥挤，却不保证时刻都挤；empty 与 crowded 对看空间占用。",
+    "examples": [
+      [
+        "The bus was too crowded to sit down.",
+        "公交车太挤，没地方坐。"
+      ],
+      [
+        "She has a crowded schedule this week.",
+        "她本周日程排得很满。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crowded#English"
+    ]
+  },
+  {
+    "word": "crowdfunding",
+    "ipa": "/ˈkraʊdfʌndɪŋ/",
+    "meaning": "众筹、大众筹资",
+    "sense": "钱不是只向一个大出资人要，而是让很多参与者各出一点，共同凑起一个项目的资金。",
+    "split": "crowd 大众 + funding 筹资，现代复合词，也与动词 crowdfund 的 -ing 形式对应；构词材料并列，不画成人群先演变成基金。",
+    "history": [
+      [
+        "古英语 crūdan → 中古英语 crouden → crowd〔动词〕",
+        "推挤、挤压"
+      ],
+      [
+        "crowd + funding → crowdfunding",
+        "由大众共同提供资金的筹资方式"
+      ]
+    ],
+    "explanation": "a crowdfunding campaign 众筹活动，a crowdfunding platform 众筹平台，raise money through crowdfunding 通过众筹筹钱。",
+    "usage": "a crowdfunding campaign；a crowdfunding platform；through crowdfunding。",
+    "contrast": "crowdfunding 重点钱，crowdsourcing 重点让大众提供点子、数据、工作等；不同众筹可涉及捐赠、回报等方式，不只一种投资机制。",
+    "examples": [
+      [
+        "The film raised money through crowdfunding.",
+        "电影通过众筹筹集了资金。"
+      ],
+      [
+        "They launched a crowdfunding campaign to restore the hall.",
+        "他们发起众筹，想修复那座大厅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crowdfunding#English"
+    ]
+  },
+  {
+    "word": "rediscover",
+    "ipa": "英 /ˌriːdɪˈskʌvə/；美 /ˌriːdɪˈskʌvər/",
+    "meaning": "重新发现、重新认识到价值",
+    "sense": "曾经知道、后来忘了或忽略的东西，重新进入眼前；重听一首旧歌、找回兴趣，也可叫 rediscover。",
+    "split": "re- 再 + discover。discover 的揭开、发现是已有整体，前缀接在整体前，不把 re- 当其中某个远古字母变化。",
+    "history": [
+      [
+        "法语 descovrir、相关旧形式 → discover",
+        "揭去覆盖、显露 → 发现"
+      ],
+      [
+        "re- + discover → rediscover",
+        "再次发现；找回原先忽略的价值"
+      ]
+    ],
+    "explanation": "rediscover an old book 重新发现一本旧书，rediscover a love of painting 找回对绘画的热爱，rediscover the city 重新认识城市。",
+    "usage": "rediscover an old book；rediscover a love of；rediscover the city。",
+    "contrast": "rediscover 不保证此前全人类都不知道，也不等于从零 invent 发明；个人重新欣赏旧物也很自然。",
+    "examples": [
+      [
+        "I rediscovered an old favourite while sorting my books.",
+        "整理书时，我重新翻到一本从前很喜欢的书。"
+      ],
+      [
+        "The trip helped her rediscover her love of nature.",
+        "旅行让她重新找回了对自然的热爱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rediscover#English"
+    ]
+  },
+  {
+    "word": "discoverer",
+    "ipa": "英 /dɪˈskʌvərə/；美 /dɪˈskʌvərər/",
+    "meaning": "发现者",
+    "sense": "把原来未被相关人群知道、确认的东西找出来的人；某地的发现者这个称呼还要留意是谁的叙述视角。",
+    "split": "现代对应 discover + -er；中古英语 discoverour 等既有法语 descouvreur 的借入，也有英语派生因素，不能只画成现代新加一个后缀。",
+    "history": [
+      [
+        "法语 descovrir、相关旧形式 → discover",
+        "揭去覆盖、显露 → 发现"
+      ],
+      [
+        "法语 descouvreur、英语 discover + -er 等 → discoverer",
+        "揭示、发现某物的人"
+      ]
+    ],
+    "explanation": "the discoverer of a comet 彗星发现者，one of the discoverers 发现者之一，credit the discoverer 给发现者应有认可。",
+    "usage": "the discoverer of；one of the discoverers；credit the discoverer。",
+    "contrast": "discoverer 发现已有事物，inventor 发明新装置、方法等；谁算最早发现者需要证据，不能由词形证明。",
+    "examples": [
+      [
+        "The museum honours the discoverer of the comet.",
+        "博物馆纪念那颗彗星的发现者。"
+      ],
+      [
+        "The article names several independent discoverers.",
+        "文章列出了几位各自独立作出发现的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discoverer#English"
+    ]
+  },
+  {
+    "word": "discoverable",
+    "ipa": "英 /dɪˈskʌvərəbəl/；美 /dɪˈskʌvərəbəl/",
+    "meaning": "可发现的、能被找到的",
+    "sense": "东西在那里，别人有办法搜到、察觉到它；不是它一定会主动出现，而是能被发现。",
+    "split": "discover + -able，形成可被发现的形容词。词基结尾 r 直接接后缀，不需要删一个并不存在的 e。",
+    "history": [
+      [
+        "法语 descovrir、相关旧形式 → discover",
+        "揭去覆盖、显露 → 发现"
+      ],
+      [
+        "discover + -able → discoverable",
+        "能够被发现、找到的"
+      ]
+    ],
+    "explanation": "easily discoverable 容易找到的，make content discoverable 让内容可被检索发现，a discoverable device 可被发现的设备。",
+    "usage": "easily discoverable；make discoverable；a discoverable device。",
+    "contrast": "discoverable 能找到，discovered 已找到；可被发现的设备也可能尚未被任何人连接。",
+    "examples": [
+      [
+        "The new index makes the articles more discoverable.",
+        "新索引让这些文章更容易找到。"
+      ],
+      [
+        "The device remained discoverable during the test.",
+        "测试期间，这个设备一直能被发现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discoverable#English"
+    ]
+  },
+  {
+    "word": "telepresence",
+    "ipa": "/ˌteləˈprezəns/",
+    "meaning": "远程临场、遥在；远程在场技术及体验",
+    "sense": "人还在这边，却能通过画面、声音、机器人等在远处观察、交流、行动，获得仿佛在那里的一种在场感。",
+    "split": "tele- 远距离 + presence 在场，现代技术复合词。presence 接法语 présence、拉丁 praesentia 的在场词族；不是把身体真的瞬间传送过去。",
+    "history": [
+      [
+        "presence〔在场〕+ tele-〔远〕→ telepresence",
+        "远距离而有在场感"
+      ],
+      [
+        "现代 telepresence",
+        "实现远程行动、交流的技术及体验"
+      ]
+    ],
+    "explanation": "a telepresence robot 远程临场机器人，telepresence technology 远程在场技术，a sense of telepresence 远程临场感。",
+    "usage": "a telepresence robot；telepresence technology；a sense of telepresence。",
+    "contrast": "telepresence 强调远程在场、行动或体验，teleportation 瞬间传送是另一概念；不必所有方案都戴 VR 头显。",
+    "examples": [
+      [
+        "A telepresence robot allowed the student to join the class remotely.",
+        "远程临场机器人让学生得以远程参与课堂。"
+      ],
+      [
+        "The exhibition explored the experience of telepresence.",
+        "展览探讨了远程在场的体验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telepresence#English",
+      "https://www.merriam-webster.com/dictionary/telepresence"
+    ]
+  }
+]

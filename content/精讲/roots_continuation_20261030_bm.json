@@ -1,0 +1,126 @@
+[
+  {
+    "id": "B3605",
+    "meaning": "带路、指方向与逐步帮助；指南、指导、准则",
+    "core": "GUIDE：有人或说明帮你知道往哪儿、怎么做",
+    "image": "guide → guidance → guideline；人物与文档、整体帮助与具体准则按角色连读，偏专门 waveguide 暂略。",
+    "intro": "法语带路词借入，后来既用于旅行，也用于学习、判断和操作。guideline 的实体线与抽象原则都有实际用法。",
+    "forms": "guide + -ance；guide + line；guide 的 gu- 读 /ɡ/。\n\nguide 与 line 的英语组合，从实物操作参照线扩到做事指导。\n\n古法语 guier、guider 通常接日耳曼指路材料，复数与三单同形。\n\n法语带路词通常连日耳曼材料，过去尾在 d 后读 id。\n\nguide 经法语接日耳曼指路材料，现代与 book 组合命名指南。",
+    "branches": [
+      [
+        "引导者、帮助和参照原则",
+        "guide · guidance · guideline"
+      ],
+      [
+        "guideline → guidelines：先画参照线，再定指导原则",
+        "guideline · guidelines"
+      ],
+      [
+        "guide → guides：向导、指南与引导动作",
+        "guide · guides"
+      ],
+      [
+        "guide → guided：带路、指引过的",
+        "guide · guided"
+      ],
+      [
+        "guide 的书面指引组合",
+        "guide · guidebook · guidebooks"
+      ]
+    ],
+    "contrasts": "guidance 通常不可数，a guideline 可一条；guide to 后 to 常介词；文件效力不能只由名字 guideline 判断。",
+    "practice": "The guide offered guidance and explained the guidelines.\n\n向导提供指点，并解释了相关准则。",
+    "words": [
+      "guide",
+      "guidance",
+      "guideline",
+      "guidelines",
+      "guides",
+      "guided",
+      "guidebook",
+      "guidebooks"
+    ],
+    "exclude": {
+      "waveguide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3389",
+    "meaning": "疾病与恶心；厌烦、体弱和贬称分场景",
+    "core": "SICK：身体不适；也可胃里反感、心里受够",
+    "image": "sick → sickness、sickly、sicken、sicko；已有 homesick、lovesick、seasick 共享，分别想家、苦恋与晕船。",
+    "intro": "先抓身体不适，再看厌恶、俚语夸赞等固定现代用法，不把想家当具体传染病。",
+    "forms": "sick + -ness/-ly/-en/-o；home/love/sea + sick，部分词有名词逆构历史。",
+    "branches": [
+      [
+        "基本状态、性质和变化",
+        "sick · sickness · sickly · sicken"
+      ],
+      [
+        "固定组合和侮辱称呼",
+        "homesick · lovesick · seasick · sicko"
+      ]
+    ],
+    "contrasts": "sick of 厌烦；英式 be sick 可呕吐；sickly sweet 甜腻；sicko 贬称不等于普通病人。",
+    "practice": "The sickly sweet smell sickened the traveller, who was already seasick.\n\n甜腻的气味让本已晕船的旅客更恶心了。",
+    "words": [
+      "sick",
+      "sickness",
+      "sickly",
+      "sicken",
+      "homesick",
+      "lovesick",
+      "seasick",
+      "sicko"
+    ],
+    "exclude": {
+      "sick-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "iron-sick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "guilt-sick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sick-wagon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3865",
+    "meaning": "坏、不好到身体不适；疾病、恶意和副词保留",
+    "core": "ILL：身体不好是常用义，旧坏义仍在固定搭配里",
+    "image": "ill → illness；含连字符组合按要求先略，ill will、speak ill of 放基础词讲常用旧义保留。",
+    "intro": "来自北欧坏、不好词，远源不强定。别把所有 ill 都当生病，副词和恶意名词搭配尤其要看对象。",
+    "forms": "ill + -ness；ill health、ill will、speak ill of、can ill afford 等固定搭配。\n\nillness 起初也泛说坏的性质，后来常说病痛。现代 ss 后加 -es，读 /ɪz/，复数常数几种病或几次患病经历。",
+    "branches": [
+      [
+        "状态、旧坏义与疾病名词",
+        "ill · illness"
+      ],
+      [
+        "ill + -ness → illness → illnesses",
+        "illnesses"
+      ]
+    ],
+    "contrasts": "ill 常表语但并非绝不前置；ill will 恶意不指一种病；illness/disease 常有重合而着眼不同。",
+    "practice": "Though he was ill, he spoke with no ill will towards anyone.\n\n他虽然病着，说话却不对任何人带恶意。",
+    "words": [
+      "ill",
+      "illness",
+      "illnesses"
+    ],
+    "exclude": {
+      "ill-being": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-prepared": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-treat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-willing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-defined": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-fortune": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-equipped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-suited": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-judged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-behaved": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-tempered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-scented": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-fated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-willed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "illy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-wisher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

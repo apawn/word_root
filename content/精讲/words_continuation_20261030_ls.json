@@ -1,0 +1,423 @@
+[
+  {
+    "word": "scratch",
+    "ipa": "/skrætʃ/",
+    "meaning": "抓、搔、刮；划痕；划掉、取消；〔from scratch〕从头开始",
+    "sense": "指甲在表面划过去，是 scratch；留下一道浅痕也叫 a scratch。名单上划去名字能表示取消；from scratch 则从体育起点线的旧用法扩为从头开始。",
+    "split": "来自中古英语 scracchen，可能是 scratten、cracchen 等抓刮词合流。更远来源不定；名词划痕、体育起点线和短语由动作扩展。",
+    "history": [
+      [
+        "中古英语 scracchen",
+        "可能由两个抓、刮近形动词合流，更远来源未定"
+      ],
+      [
+        "抓刮 → 划痕、划掉",
+        "表面受损；取消名字或计划"
+      ],
+      [
+        "划出的起点线 → from scratch",
+        "不靠现成进度，从头做起"
+      ]
+    ],
+    "explanation": "scratch your head 挠头、困惑，scratch the surface 只触及皮毛，from scratch 从头、用基本原料开始，scratch that 刚才那句作废。",
+    "usage": "from scratch；scratch the surface；scratch that。",
+    "contrast": "scratch the surface 常是比喻了解很浅；from scratch 不是说先把东西刮坏，而是从基本起点开始。",
+    "examples": [
+      [
+        "A branch scratched the side of the car.",
+        "树枝刮到了车侧面。"
+      ],
+      [
+        "They built the website from scratch.",
+        "他们从头搭建了这个网站。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scratch#English",
+      "https://www.etymonline.com/word/scratch"
+    ]
+  },
+  {
+    "word": "scratchy",
+    "ipa": "/ˈskrætʃi/",
+    "meaning": "粗糙扎人的、发痒的；沙哑、杂音多的",
+    "sense": "毛衣像在轻轻刮皮肤，是 scratchy；声音像夹着擦刮杂音，也能 scratchy。把同一种不顺滑的感觉从触觉借到听觉。",
+    "split": "scratch + -y，形成带抓刮特点、造成类似感受的性质。它可说实际划痕，也可说痒、刺和声音粗粝。",
+    "history": [
+      [
+        "中古英语 scracchen",
+        "可能由两个抓、刮近形动词合流，更远来源未定"
+      ],
+      [
+        "scratch + -y → scratchy",
+        "抓刮感觉 → 扎皮肤、喉咙不适、声音杂音等"
+      ]
+    ],
+    "explanation": "a scratchy sweater 扎人的毛衣，a scratchy throat 喉咙发痒、发涩，a scratchy recording 杂音多的录音。",
+    "usage": "a scratchy sweater；a scratchy voice。",
+    "contrast": "scratchy 不只等于有划痕；喉咙、嗓音多描述感受、音质，不能逐字当成被爪子抓了。",
+    "examples": [
+      [
+        "The scratchy scarf irritated his neck.",
+        "扎人的围巾让他脖子不舒服。"
+      ],
+      [
+        "The old recording sounded thin and scratchy.",
+        "旧录音听起来单薄，杂音很多。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scratchy#English"
+    ]
+  },
+  {
+    "word": "scratcher",
+    "ipa": "英 /ˈskrætʃə/；美 /ˈskrætʃər/",
+    "meaning": "抓挠者；搔痒工具、猫抓板等",
+    "sense": "人够不到背，可以借 scratcher 搔；猫需要磨爪，可以用 cat scratcher。-er 看执行抓挠动作的人或物，并不只说一个爱挠痒的人。",
+    "split": "scratch + -er，施事、工具后缀。专门用途常由前面的 back、cat 等说明。",
+    "history": [
+      [
+        "中古英语 scracchen",
+        "可能由两个抓、刮近形动词合流，更远来源未定"
+      ],
+      [
+        "scratch + -er → scratcher",
+        "抓挠的人、工具或供抓挠的物品"
+      ]
+    ],
+    "explanation": "a back scratcher 搔背工具，a cat scratcher 猫抓板、抓挠用品，a cardboard scratcher 纸板猫抓用品。",
+    "usage": "a back scratcher；a cat scratcher。",
+    "contrast": "scratcher 是宽泛功能名，形状未必是一块板；更冷门行业同名物不必一次全记。",
+    "examples": [
+      [
+        "The cat preferred its cardboard scratcher to the sofa.",
+        "猫更喜欢抓纸板猫抓用品，而不是沙发。"
+      ],
+      [
+        "He used a wooden back scratcher.",
+        "他用了一把木制搔背工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scratcher#English"
+    ]
+  },
+  {
+    "word": "keen",
+    "ipa": "/kiːn/",
+    "meaning": "热切、热衷的；敏锐、锋利的；强烈的",
+    "sense": "注意力像刀刃一样能抓住细处，是 keen eye；心思紧紧朝一件事去，是 keen to learn。这个尖、强、有劲的画面能串起现代常用义，但不替代旧词源。",
+    "split": "承古英语 cēne，早有勇敢、有能力、聪明等义，中古英语后热切、锋利等分支突出。更早与能、知的关系有讨论，不把所有义都说成最初从刀刃来。",
+    "history": [
+      [
+        "古英语 cēne → 中古英语 kene → keen",
+        "勇敢、有能力、聪明等；更早核心连接有讨论"
+      ],
+      [
+        "现代常见分支",
+        "热切、敏锐、锋利、强烈"
+      ]
+    ],
+    "explanation": "be keen on something 热衷某事，be keen to do 很想做，a keen eye 敏锐眼力，a keen interest 浓厚兴趣，a keen edge 锋利刃口。",
+    "usage": "be keen on；be keen to；a keen eye。",
+    "contrast": "keen on 后接名词或 -ing，keen to 后接动词原形；敏锐义不等于总会判断正确。",
+    "examples": [
+      [
+        "She is keen to learn how the machine works.",
+        "她很想弄懂机器怎样运作。"
+      ],
+      [
+        "He has a keen eye for small details.",
+        "他善于敏锐发现细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/keen#English",
+      "https://www.etymonline.com/word/keen"
+    ]
+  },
+  {
+    "word": "keenly",
+    "ipa": "/ˈkiːnli/",
+    "meaning": "敏锐、密切地；强烈、深切地",
+    "sense": "keenly aware 是清楚而强烈地意识到；keenly felt 是感受很深。它不只是热情地，还能突出敏感度、强度。",
+    "split": "对应 keen + -ly，承古英语 cēnlīce 等旧形式；旧勇敢方式义后来有敏锐、强烈等现代用法。",
+    "history": [
+      [
+        "古英语 cēne → 中古英语 kene → keen",
+        "勇敢、有能力、聪明等；更早核心连接有讨论"
+      ],
+      [
+        "keen + -ly → keenly",
+        "敏锐、强烈、深切地"
+      ]
+    ],
+    "explanation": "keenly aware of 深知，feel something keenly 深切感受，watch keenly 密切注视。",
+    "usage": "keenly aware of；keenly felt。",
+    "contrast": "keenly 不等于 happily；痛苦、损失也可能感受得很强烈。要按它修饰的动作、状态选中文。",
+    "examples": [
+      [
+        "She was keenly aware of the time limit.",
+        "她很清楚时间限制。"
+      ],
+      [
+        "His absence was keenly felt by the team.",
+        "团队深深感到他的缺席带来的影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/keenly#English"
+    ]
+  },
+  {
+    "word": "keenness",
+    "ipa": "/ˈkiːnnəs/",
+    "meaning": "热切、热心；敏锐、锋利程度",
+    "sense": "刀有多锋利，人有多敏锐，做事有多积极，都能把 keen 的性质拿出来称 keenness。前后的对象决定该用哪个中文。",
+    "split": "keen + -ness；keen 末尾 n 与 -ness 开头 n 都保留，写成 nn，并不是重新双写词干来加 -ing。",
+    "history": [
+      [
+        "古英语 cēne → 中古英语 kene → keen",
+        "勇敢、有能力、聪明等；更早核心连接有讨论"
+      ],
+      [
+        "现代常见分支",
+        "热切、敏锐、锋利、强烈"
+      ],
+      [
+        "后缀",
+        "keenly 方式、程度；keenness 性质；keener 比较级或口语人物名词"
+      ]
+    ],
+    "explanation": "keenness to learn 学习的热切，keenness of mind 思维敏锐，the keenness of a blade 刀刃锋利。通常不可数。",
+    "usage": "keenness to learn；keenness of mind。",
+    "contrast": "keenness 是品质、程度，不是一个热心人；人物名词 keener 在一些口语语境中另用。",
+    "examples": [
+      [
+        "Her keenness to help was obvious.",
+        "她很愿意帮忙，这一点很明显。"
+      ],
+      [
+        "Age had not reduced his keenness of mind.",
+        "年纪增长没有削弱他思维的敏锐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/keenness#English"
+    ]
+  },
+  {
+    "word": "keener",
+    "ipa": "英 /ˈkiːnə/；美 /ˈkiːnər/",
+    "meaning": "更热切、更敏锐的；〔部分口语，尤加拿大〕过分积极的人",
+    "sense": "先学最直接的比较：a keener eye 是更敏锐的眼力。口语中 a keener 还可以把热心过头、特别积极的人叫出来，可能带打趣或嫌弃。",
+    "split": "比较级是 keen + 比较后缀 -er；人物名词也是 keen + -er，但后缀作用不同。另源哀哭动词的 keener 不并入热切词族。",
+    "history": [
+      [
+        "古英语 cēne → 中古英语 kene → keen",
+        "勇敢、有能力、聪明等；更早核心连接有讨论"
+      ],
+      [
+        "现代常见分支",
+        "热切、敏锐、锋利、强烈"
+      ],
+      [
+        "keen + -er 的两种语法",
+        "更热切、敏锐；以这种特点称呼某人"
+      ]
+    ],
+    "explanation": "a keener interest 更浓厚的兴趣，a keener eye 更敏锐的眼力，a classroom keener 课堂里过分积极的人〔口语〕。",
+    "usage": "a keener interest；a keener eye。",
+    "contrast": "keener 作比较级时不是人名词；a keener 的评价有地区、语气差异，日常先掌握普通比较形式。",
+    "examples": [
+      [
+        "The exercise helped her develop a keener eye for errors.",
+        "这项练习让她更敏锐地发现错误。"
+      ],
+      [
+        "His friends jokingly called him a keener because he always arrived early.",
+        "因为他总早到，朋友们打趣说他积极过头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/keener#English"
+    ]
+  },
+  {
+    "word": "crop",
+    "ipa": "英 /krɒp/；美 /krɑːp/",
+    "meaning": "庄稼、作物；收成；剪短、裁剪；一批；嗉囊等",
+    "sense": "从植物顶上能收取的部分想到收成，再到整类作物；把顶部、外边剪掉，则是 crop 的动词。手机裁掉照片边缘，也在用剪去外围的画面。",
+    "split": "承古英语 cropp，早有植物顶端、鸟嗉囊等义；动词取剪去、收取顶部，随后发展为作物产量、裁短等。",
+    "history": [
+      [
+        "古英语 cropp",
+        "植物顶端、圆头、鸟嗉囊等旧义"
+      ],
+      [
+        "顶端被剪、被收取 → crop",
+        "作物、收成；剪短、裁边"
+      ]
+    ],
+    "explanation": "grow crops 种庄稼，a good crop 好收成，crop a photo 裁照片，a crop of young writers 一批年轻作家，problems crop up 问题冒出来。",
+    "usage": "grow crops；crop a photo；crop up。",
+    "contrast": "crop 不只等于收获动作 harvest；它可说作物、产量，也可说剪裁。crop up 是出现，不译成把某物种上去。",
+    "examples": [
+      [
+        "The farm grows several different crops.",
+        "农场种几种不同作物。"
+      ],
+      [
+        "Crop the photo to remove the empty space.",
+        "裁掉照片里的空白部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/crop#English",
+      "https://www.etymonline.com/word/crop"
+    ]
+  },
+  {
+    "word": "outcrop",
+    "ipa": "英 /ˈaʊtkrɒp/；美 /ˈaʊtkrɑːp/",
+    "meaning": "岩石露头、出露部分；出露地表",
+    "sense": "本来延伸在地下的岩层，在某处露出地表，这一段就是 outcrop。不是新长出一茬石头，而是地层的一部分露出来。",
+    "split": "out 向外、显露 + crop，联系 crop 的冒出、出现支线。名词说露出的岩石、地层部分，动词说出露。",
+    "history": [
+      [
+        "古英语 cropp",
+        "植物顶端、圆头、鸟嗉囊等旧义"
+      ],
+      [
+        "out + crop → outcrop",
+        "岩层、沉积物等露出地表及其部分"
+      ]
+    ],
+    "explanation": "a rocky outcrop 岩石露头，examine an outcrop 观察出露地层，limestone outcrops 石灰岩露头。",
+    "usage": "a rocky outcrop；examine an outcrop。",
+    "contrast": "outcrop 不只是任何松散摆在地上的石块；地质语境通常说地层、岩体出露部分。",
+    "examples": [
+      [
+        "They rested beside a rocky outcrop.",
+        "他们在一处岩石露头旁休息。"
+      ],
+      [
+        "The geologist examined the limestone outcrop.",
+        "地质学家观察石灰岩出露部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outcrop#English"
+    ]
+  },
+  {
+    "word": "cropper",
+    "ipa": "英 /ˈkrɒpə/；美 /ˈkrɑːpər/",
+    "meaning": "〔come a cropper〕摔倒；遭到惨败、栽跟头",
+    "sense": "这个词日常最值得整组学 come a cropper：真的摔一跤，或事情失败、栽了跟头。不要只按 -er 就认定它一定是收庄稼的人。",
+    "split": "习语相关名词较早说骑马时向前摔下，可能联系 crop 顶、头部的旧义，细节仍有推测。后来由摔倒转为事业、计划失败；其他人物、鸟种义先不展开。",
+    "history": [
+      [
+        "古英语 cropp",
+        "植物顶端、圆头、鸟嗉囊等旧义"
+      ],
+      [
+        "cropper 摔倒 → come a cropper",
+        "从实在跌落扩到失败、栽跟头"
+      ]
+    ],
+    "explanation": "come a cropper 栽跟头、失败，come a cropper on a slippery path 在滑路上摔倒。多见英式非正式表达。",
+    "usage": "come a cropper。",
+    "contrast": "cropper 在这个习语里不是人物后缀的普通逐字义；比喻失败也不意味着一定有人受伤。",
+    "examples": [
+      [
+        "He came a cropper on the icy path.",
+        "他在结冰小路上摔了一跤。"
+      ],
+      [
+        "The ambitious plan came a cropper when funding disappeared.",
+        "资金一断，那个雄心勃勃的计划就栽了跟头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cropper#English",
+      "https://www.etymonline.com/word/cropper"
+    ]
+  },
+  {
+    "word": "identification",
+    "ipa": "/aɪˌdentɪfɪˈkeɪʃən/，也读 /ɪˌdentɪfɪˈkeɪʃən/",
+    "meaning": "识别、身份确认；身份证明；认同",
+    "sense": "先把眼前对象和某个身份对上号：这是谁、这是什么。用来证明身份的文件也能直接 identification；心理上又可说把自己与某人联到一起的认同。",
+    "split": "借法语 identification，联系 identifier。现代与 identify 对应，-ify 的动词形式变成 -ification 名词形式，不能只保留原拼写再硬接 -ation。更里层 ident- 联系同一、身份。",
+    "history": [
+      [
+        "法语 identifier → identification",
+        "认作同一、确认身份；联系 identité 身份、同一"
+      ],
+      [
+        "英语 identification",
+        "识别过程 → 身份证明文件；另有心理认同义"
+      ],
+      [
+        "现代构词对应",
+        "identify 的 -ify 对应名词 -ification；mis- 再加识别错误"
+      ]
+    ],
+    "explanation": "plant identification 植物识别，show identification 出示身份证明，identification with a character 对角色的认同，misidentification 认错。",
+    "usage": "show identification；identification of；identification with。",
+    "contrast": "show identification 常说出示证件，不只是口头报名字；识别、证件、认同三义靠宾语、介词和场景区分。",
+    "examples": [
+      [
+        "Please show some identification at the entrance.",
+        "请在入口出示身份证明。"
+      ],
+      [
+        "The guide includes a key for plant identification.",
+        "指南附有植物识别检索表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/identification#English",
+      "https://www.etymonline.com/word/identification"
+    ]
+  },
+  {
+    "word": "invitational",
+    "ipa": "/ˌɪnvɪˈteɪʃənəl/",
+    "meaning": "邀请性的；限受邀者参加的；邀请赛",
+    "sense": "比赛不是所有人随时报名，而是主办方邀请选手参加，这类比赛可叫 invitational。形容词省掉 tournament 等后，也能直接作比赛名词。",
+    "split": "invitation + -al，相关性质后缀。先说邀请相关，再在赛事语境固定为受邀参与，随后名词化为一场邀请赛。",
+    "history": [
+      [
+        "invite 邀请 → invitation",
+        "邀请行为、邀请信息"
+      ],
+      [
+        "invitation + -al → invitational",
+        "邀请性质；限受邀者参加的赛事、活动"
+      ],
+      [
+        "形容词 → 名词",
+        "an invitational 一场邀请赛"
+      ]
+    ],
+    "explanation": "an invitational tournament 邀请赛，an invitational event 受邀参加的活动，win an invitational 赢得邀请赛。",
+    "usage": "an invitational tournament；an invitational。",
+    "contrast": "invitation 是邀请、邀请函，invitational 可是赛事性质或赛事名词；收到普通邀请函不表示参加的都是竞赛。",
+    "examples": [
+      [
+        "She competed in an invitational tournament.",
+        "她参加了一场邀请赛。"
+      ],
+      [
+        "The club will host an invitational next month.",
+        "俱乐部下个月将举办一场邀请赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/invitational#English"
+    ]
+  }
+]

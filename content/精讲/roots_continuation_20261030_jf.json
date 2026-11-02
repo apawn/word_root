@@ -1,0 +1,169 @@
+[
+  {
+    "id": "B3346",
+    "meaning": "水大量漫入，以及像洪水一样涌来的数量、光和情绪",
+    "core": "FLOOD：从漫过边界到大量充满",
+    "image": "flood → floodwater、floodplain 看洪水；floodgate 看控制水流；floodlight 借光线洒满的形象。",
+    "intro": "同一画面在实体水流和比喻表达中都好用，但每个复合词仍有固定的具体所指。",
+    "forms": "古英语 flōd → flood；oo 读 /ʌ/；flood 与 water、plain、gate、light 组合。\n\n古英语 flod 本族传承，现代 oo 读 /ʌ/，ing 直接加。\n\nflood 在复合词里把光比作大量漫开；过去式、过去分词可用 floodlit，也有 floodlighted。\n\nflood 承古英语 flod 流水、洪水材料，后来动词说淹没、涌入。加完整 -ed，/d/ 后读 /ɪd/；现代 flood 的 oo 读 /ʌ/。\n\nflood 承古英语流水、洪水等材料，现代复数可数洪水事件，动词第三人称也同形。oo 读 /ʌ/，-s 在 /d/ 后读 /z/。",
+    "branches": [
+      [
+        "洪水、地形和控制",
+        "flood · floodwater · floodplain · floodgate"
+      ],
+      [
+        "光线的扩展",
+        "floodlight"
+      ],
+      [
+        "flood → flooding：水或大量事物涌进来",
+        "flood · flooding"
+      ],
+      [
+        "flood 的涌来、铺开进入大范围照明",
+        "floodlight · floodlights · floodlit · floodlighting"
+      ],
+      [
+        "flood → flooded：淹没与大量涌入",
+        "flooded"
+      ],
+      [
+        "flood → floods：洪水与大量涌来",
+        "floods"
+      ]
+    ],
+    "contrasts": "floodplain 不一定常年泡在水里；floodlight 是照明设备，不是水发出的光。",
+    "practice": "Floodwater spread across the floodplain beyond the floodgate.\n\n洪水越过水闸一带，漫上洪泛平原。",
+    "words": [
+      "flood",
+      "floodwater",
+      "floodplain",
+      "floodgate",
+      "floodlight",
+      "flooding",
+      "floodlights",
+      "floodlit",
+      "floodlighting",
+      "flooded",
+      "floods"
+    ],
+    "exclude": {
+      "fore-flood": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3603",
+    "meaning": "撕开及工具词；另辨水波、水流用法的历史和专业差异",
+    "core": "RIP：撕开很直观，但相近词的来源不能一律硬接",
+    "image": "rip → ripper；ripple 波纹的直接来源有争议；riptide 的水流用法看具体语境。",
+    "intro": "这一组用来分清可拆的构词与有疑问的历史联系。解释得形象，也保留真实边界。",
+    "forms": "中古英语 rippen → rip；-er 器具、人物；ripple 有不同起源分析；rip + tide 为水流名称。\n\n中古英语 rippen，较早北海日耳曼、北欧关系并非每一步确定。",
+    "branches": [
+      [
+        "撕开与执行者、器具",
+        "rip · ripper"
+      ],
+      [
+        "波纹与水流的辨认",
+        "ripple · riptide"
+      ],
+      [
+        "rip → ripped：用力扯开",
+        "rip · ripped"
+      ]
+    ],
+    "contrasts": "ripple 不可靠地等于小撕裂；riptide 的大众用法不等于严格的 rip current 定义。",
+    "practice": "The lesson contrasts a rip in cloth, ripples on water and the water movement called a riptide.\n\n这课比较布上的裂口、水面涟漪和叫作 riptide 的水流。",
+    "words": [
+      "rip",
+      "ripper",
+      "ripple",
+      "riptide",
+      "ripped"
+    ],
+    "exclude": {
+      "rip-roaring": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3588",
+    "meaning": "农业相关的性质，以及从农业角度作评价",
+    "core": "AGRICULTURAL：农业相关；AGRICULTURALLY：从农业方面说",
+    "image": "agricultural → agriculturally。",
+    "intro": "后缀变化让同一个领域概念在句子里换位置：一个修饰用地、产业，一个修饰重要、富产等评价。",
+    "forms": "agriculture + -al → agricultural；再接 -ly。",
+    "branches": [
+      [
+        "性质与观察角度",
+        "agricultural · agriculturally"
+      ]
+    ],
+    "contrasts": "agricultural land 与 agriculturally important land 结构不同，不把副词直接顶替形容词。",
+    "practice": "Agricultural land can be agriculturally valuable even when it looks ordinary.\n\n农用地即使看起来普通，也可能有很高农业价值。",
+    "words": [
+      "agricultural",
+      "agriculturally"
+    ],
+    "exclude": {
+      "aggie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3014",
+    "meaning": "苦味，以及由苦感形成的痛苦、怨恨和苦乐交杂",
+    "core": "BITTER：味觉的苦，借给情绪和经历",
+    "image": "bitter → bitterly、bitterness；bittersweet 把苦与甜并在一起。",
+    "intro": "味道难以下咽，经历也可能难以接受。词族把这种感觉放进味觉、心理、回忆等语境；但 bitter cold 是刺骨寒冷的固定搭配。",
+    "forms": "古英语 biter → bitter；-ly 副词，-ness 性质、状态；bitter + sweet 是苦乐交杂的组合。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "bitter · bitterly · bitterness"
+      ],
+      [
+        "两种感觉并存",
+        "bittersweet"
+      ]
+    ],
+    "contrasts": "bitter 不是所有味道不好的总称；bittersweet 可指同时快乐、伤感，不是先苦后甜的必然时间顺序。",
+    "practice": "The bittersweet memory brought happiness without the old bitterness.\n\n那段苦乐交杂的回忆带来快乐，却没有旧日的怨恨。",
+    "words": [
+      "bitter",
+      "bitterly",
+      "bitterness",
+      "bittersweet"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2559",
+    "meaning": "面对风险敢做，以及向别人发出的挑战",
+    "core": "DARE：有顾虑，仍跨出这一步",
+    "image": "dare → daredevil 冒险者；daresay 的固定表达常是推测、承认。",
+    "intro": "先抓勇气、挑战关系，再看语气。敢做不一定是好事，固定说法也不总保留字面的勇敢。",
+    "forms": "古英语 durran → dare；普通动词与情态用法并存；daredevil、daresay 已各自固定。\n\ndare 承古英语 durran 敢，现代去 e 加 -ing。动作形式与大胆、勇敢的形容词用法并存。",
+    "branches": [
+      [
+        "敢与挑战",
+        "dare"
+      ],
+      [
+        "固定人物、表达",
+        "daredevil · daresay"
+      ],
+      [
+        "dare 敢 + -ing → daring",
+        "daring"
+      ]
+    ],
+    "contrasts": "How dare you! 常是指责；I dare say 是固定推测表达，不只按敢翻译。",
+    "practice": "The daredevil dared to attempt the jump.\n\n那个冒险者敢尝试那次跳跃。",
+    "words": [
+      "dare",
+      "daredevil",
+      "daresay",
+      "daring"
+    ],
+    "exclude": {}
+  }
+]

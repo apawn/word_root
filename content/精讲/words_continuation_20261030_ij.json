@@ -1,0 +1,403 @@
+[
+  {
+    "word": "translational",
+    "ipa": "/trænzˈleɪʃənəl/",
+    "meaning": "翻译的；平移的；科研转化的；生物学翻译过程的",
+    "sense": "共同抓住从一处、一个表达体系转到另一处。具体转什么，要看语言、运动、科研还是生物学语境。",
+    "split": "translation + -al，形成相关形容词。translation 接拉丁 trānslātiō；trānslāt- 中 lāt- 来自 ferre 带的不规则分词路线，不是晚 late。",
+    "history": [
+      [
+        "拉丁 trāns- + ferre 的不规则分词路线 → trānslātus",
+        "带到另一边，转移"
+      ],
+      [
+        "拉丁 trānslātiō → 法语、英语 translation",
+        "转移；翻译及各领域相应过程"
+      ],
+      [
+        "translation + -al → translational",
+        "与相应转移、翻译过程有关的"
+      ]
+    ],
+    "explanation": "translational choices 翻译选择；translational motion 平移运动；translational research 把发现推进到实际应用的研究；translational control 蛋白质合成中翻译环节的调控。",
+    "usage": "translational research；translational motion；translational control。",
+    "contrast": "科研转化不是把论文译成别国语言。纯平移强调物体不随之转向，不把所有轨迹都限定为直线；生物学翻译是按 mRNA 信息组装氨基酸链，也不是人类语言。",
+    "examples": [
+      [
+        "The centre supports translational research that connects laboratory findings with practical use.",
+        "该中心支持把实验室发现与实际应用连接起来的转化研究。"
+      ],
+      [
+        "The model separates translational motion from rotation.",
+        "模型把平移运动和转动分开分析。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/translational#English",
+      "https://ncats.nih.gov/about/about-translational-science",
+      "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/aircraft-translations/",
+      "https://www.genome.gov/genetics-glossary/Translation"
+    ]
+  },
+  {
+    "word": "seed",
+    "ipa": "/siːd/",
+    "meaning": "种子；开端、萌芽；种子选手；播种、设定初始条件",
+    "sense": "一粒小东西种下，后面长出一大片。这个起点的画面可讲植物，也可讲想法、创业资金和程序的起始条件。",
+    "split": "接古英语 sēd、sǣd，远源与 sow 播种同族。体育种子义联系把强手分散放进签表，避免过早相遇；不是说选手年幼。",
+    "history": [
+      [
+        "古英语 sēd/sǣd → 中古英语 seed → seed",
+        "播下去的东西，种子"
+      ],
+      [
+        "实体与比喻的生长起点",
+        "种子 → 起初的想法、资金、条件"
+      ],
+      [
+        "固定扩展和构词",
+        "比赛分散安排强手 → 种子选手；seed 接各类词尾、植物名称"
+      ]
+    ],
+    "explanation": "plant seeds 播种，the seeds of doubt 怀疑的萌芽，seed funding 启动资金，the top seed 头号种子选手，a random seed 伪随机生成器的起始值。",
+    "usage": "plant seeds；the seeds of doubt；seed funding；the top seed；a random seed。",
+    "contrast": "seed 作动词可给土地播种，菜谱里又可指去籽，要看对象。程序的 seed 决定相应生成过程的起点，不是让结果必然真正随机。",
+    "examples": [
+      [
+        "We planted the seeds in small pots.",
+        "我们把种子种进小花盆。"
+      ],
+      [
+        "Her question planted the seeds of doubt in his mind.",
+        "她的问题在他心里埋下了怀疑的种子。"
+      ],
+      [
+        "The top seed reached the final.",
+        "头号种子选手进入了决赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seed#English",
+      "https://www.etymonline.com/word/seed"
+    ]
+  },
+  {
+    "word": "seedy",
+    "ipa": "/ˈsiːdi/",
+    "meaning": "破旧寒酸的；不体面的、名声不好的；多籽的",
+    "sense": "读到 a seedy hotel，通常是在说看起来破旧、让人不太放心的旅馆，不是旅馆里撒满了种子。",
+    "split": "seed + -y，本可表示多籽。破败义可能借植物结籽、过了盛放期的画面发展，具体语义连接不说成绝无疑问的唯一故事。",
+    "history": [
+      [
+        "古英语 sēd/sǣd → 中古英语 seed → seed",
+        "播下去的东西，种子"
+      ],
+      [
+        "seed + -y → seedy",
+        "多籽的"
+      ],
+      [
+        "可能借过了盛放期的植物作比喻",
+        "贫困、失去光鲜 → 寒酸、破败、名声不佳"
+      ]
+    ],
+    "explanation": "a seedy hotel 破旧而不体面的旅馆，a seedy bar 名声不佳的酒吧，look seedy 看起来邋遢或气色差。字面多籽义仍可存在。",
+    "usage": "a seedy hotel；a seedy bar；look seedy。",
+    "contrast": "seedy 常带负面观感，不等于看到某地旧就已证明那里违法；seedless 和 seedy 的字面种子义可相对，不能拿来反推道德好坏。",
+    "examples": [
+      [
+        "They stayed in a seedy hotel near the station.",
+        "他们住在车站附近一家破旧而不体面的旅馆。"
+      ],
+      [
+        "The film begins in a seedy bar on the edge of town.",
+        "电影从城边一家名声不佳的酒吧开场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seedy#English"
+    ]
+  },
+  {
+    "word": "seedling",
+    "ipa": "/ˈsiːdlɪŋ/",
+    "meaning": "幼苗，尤指由种子长出的苗",
+    "sense": "种子已经发芽，长成小小的一株，还远没到成熟植物的样子；这就是 seedling。",
+    "split": "seed + -ling，-ling 在此给幼小的个体命名。由种子长出的苗是核心用法，也可较宽泛地指待移栽幼苗。",
+    "history": [
+      [
+        "古英语 sēd/sǣd → 中古英语 seed → seed",
+        "播下去的东西，种子"
+      ],
+      [
+        "seed + -ling → seedling",
+        "从种子长出的幼小植株"
+      ]
+    ],
+    "explanation": "tomato seedlings 番茄幼苗，young seedlings 小苗，transplant seedlings 移栽幼苗。",
+    "usage": "tomato seedlings；young seedlings；transplant seedlings。",
+    "contrast": "seed 是种子，seedling 已经是长出的植株；sapling 通常是年轻树木，不能无差别用于所有蔬菜小苗。",
+    "examples": [
+      [
+        "Tiny seedlings appeared a week later.",
+        "一周后冒出了细小的幼苗。"
+      ],
+      [
+        "Each seedling was labelled with the date it was planted.",
+        "每株幼苗都标上了种植日期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seedling#English"
+    ]
+  },
+  {
+    "word": "flaxseed",
+    "ipa": "/ˈflæksiːd/，也读 /ˈflæksˌsiːd/",
+    "meaning": "亚麻籽",
+    "sense": "前半交代是哪种植物，后半交代它的种子：flax 亚麻 + seed，合起来就是亚麻籽。",
+    "split": "flax 接古英语 fleax 这一亚麻植物名，和 seed 组成复合词。连读时两个相邻 /s/ 常合成较长或单个 /s/。",
+    "history": [
+      [
+        "古英语 fleax → flax",
+        "亚麻植物，可提供纤维与种子"
+      ],
+      [
+        "flax + seed → flaxseed",
+        "亚麻的种子"
+      ]
+    ],
+    "explanation": "flaxseed oil 亚麻籽油，ground flaxseed 磨碎的亚麻籽，a bag of flaxseed 一袋亚麻籽。linseed 也是这类种子的常见名称。",
+    "usage": "flaxseed oil；ground flaxseed；a bag of flaxseed。",
+    "contrast": "flaxseed 指种子，不是把亚麻布磨成籽。linen 联系亚麻纤维制品；flaxseed、linseed 常对应同类种子，具体产品用途看标签。",
+    "examples": [
+      [
+        "The label lists ground flaxseed as an ingredient.",
+        "标签把磨碎的亚麻籽列为一种配料。"
+      ],
+      [
+        "The exhibit shows both flax fibres and flaxseed.",
+        "展览同时展示了亚麻纤维和亚麻籽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flaxseed#English"
+    ]
+  },
+  {
+    "word": "seedless",
+    "ipa": "/ˈsiːdləs/",
+    "meaning": "无籽的，没有明显种子的",
+    "sense": "吃葡萄时不用反复吐硬籽，商品就可能标 seedless。它讲的是种子这一项特征，不是没有果肉或没有繁殖方式。",
+    "split": "seed + -less，无、没有。常见水果用法也涵盖没有明显成熟硬籽，不能拿标签要求每个果实绝不存在任何微小种子痕迹。",
+    "history": [
+      [
+        "古英语 sēd/sǣd → 中古英语 seed → seed",
+        "播下去的东西，种子"
+      ],
+      [
+        "seed + -less → seedless",
+        "没有种子或没有明显硬籽的"
+      ]
+    ],
+    "explanation": "seedless grapes 无籽葡萄，a seedless watermelon 无籽西瓜，seedless varieties 无籽品种。",
+    "usage": "seedless grapes；a seedless watermelon；seedless varieties。",
+    "contrast": "seedless 是性质，seeded 在菜谱里可能是去过籽，也可能表示有籽、播过种，须看场景；词形不能替你选定同一个方向。",
+    "examples": [
+      [
+        "The shop sells both seeded and seedless grapes.",
+        "店里既卖有籽葡萄，也卖无籽葡萄。"
+      ],
+      [
+        "The description identifies it as a seedless variety.",
+        "说明把它标为无籽品种。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seedless#English"
+    ]
+  },
+  {
+    "word": "racially",
+    "ipa": "/ˈreɪʃəli/",
+    "meaning": "在种族方面；涉及种族地",
+    "sense": "diverse 是多样，再加 racially，就说清多样性指种族背景这一方面，而不是年龄、职业或兴趣。",
+    "split": "racial + -ly，性质形容词变为限定方面或方式的副词。前面的 race 是群体分类义，和赛跑那条来源分开。",
+    "history": [
+      [
+        "法语 race、意大利语 razza → 英语 race 的群体义",
+        "血统、群体等；更远词源不确定"
+      ],
+      [
+        "race + -ial → racial",
+        "与种族、相应社会分类有关"
+      ],
+      [
+        "相关前后缀扩展",
+        "racially 副词；bi-/inter-/multi- 指涉及数量或关系"
+      ]
+    ],
+    "explanation": "racially diverse 种族背景多样的，racially mixed 种族背景混合的，racially motivated 出于种族因素的。",
+    "usage": "racially diverse；racially mixed；racially motivated。",
+    "contrast": "racially 说明讨论的维度，本身不等于 racist 带歧视的；具体褒贬来自后接内容和整句。",
+    "examples": [
+      [
+        "The school serves a racially diverse community.",
+        "这所学校服务于种族背景多样的社区。"
+      ],
+      [
+        "The report examines whether the incident was racially motivated.",
+        "报告调查这一事件是否出于种族因素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/racially#English"
+    ]
+  },
+  {
+    "word": "biracial",
+    "ipa": "/ˌbaɪˈreɪʃəl/",
+    "meaning": "有两种种族背景的；涉及两个种族群体的",
+    "sense": "bi- 给的是二，racial 给的是种族背景这个维度。常用来描述个人的家庭背景，也可描述涉及两个群体的情况。",
+    "split": "bi- 二 + racial。表示两种背景或两个群体，不是说一个人必定被划成可精确量出的两半。",
+    "history": [
+      [
+        "法语 race、意大利语 razza → 英语 race 的群体义",
+        "血统、群体等；更远词源不确定"
+      ],
+      [
+        "race + -ial → racial",
+        "与种族、相应社会分类有关"
+      ],
+      [
+        "bi- + racial → biracial",
+        "两种种族背景的、两个群体相关的"
+      ]
+    ],
+    "explanation": "a biracial family 有两种种族背景的家庭，biracial identity 双种族背景身份认同，a biracial character 有两种种族背景的角色。",
+    "usage": "a biracial family；biracial identity；a biracial character。",
+    "contrast": "biracial 常侧重两种背景，multiracial 更宽；interracial 常说不同群体之间的关系或互动。标签含义还受语境、自我认同影响。",
+    "examples": [
+      [
+        "The novel follows a biracial teenager growing up in a small town.",
+        "小说描写一位有两种种族背景的少年在小镇成长的经历。"
+      ],
+      [
+        "She writes about biracial identity in her essays.",
+        "她在随笔中讨论双种族背景的身份认同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/biracial#English"
+    ]
+  },
+  {
+    "word": "hire",
+    "ipa": "英 /ˈhaɪə/；美 /haɪr/",
+    "meaning": "雇用；租用；雇来的人；租用状态",
+    "sense": "不是把东西永远买下，而是付钱获得一段时间的服务或使用。人可以 hire，英式英语里车和器材也常 hire。",
+    "split": "接古英语 hȳr 工钱、雇用关系与 hȳrian 雇用。人和器物有不同现代搭配，不把每次 hire 都译成招长期员工。",
+    "history": [
+      [
+        "古英语 hȳr、hȳrian → hire",
+        "为服务或使用付钱；雇用、租用"
+      ],
+      [
+        "英语现代用法",
+        "雇人、租器具；新雇来的员工也可叫 a hire"
+      ]
+    ],
+    "explanation": "hire a designer 雇设计师，hire a car 租车〔英式常见〕，a new hire 新员工，for hire 可供租用、可受雇。美式租车通常说 rent a car。",
+    "usage": "hire a designer；hire a car；a new hire；for hire。",
+    "contrast": "hire 常侧重取得服务或开始雇用；employ 可描述持续雇用关系。hire out 表把自己的物品、服务租出去，要分清谁提供谁使用。",
+    "examples": [
+      [
+        "The studio plans to hire two designers.",
+        "工作室计划雇两名设计师。"
+      ],
+      [
+        "We hired a car for the weekend.",
+        "我们租了一辆车过周末。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hire#English"
+    ]
+  },
+  {
+    "word": "rehire",
+    "ipa": "英 /ˌriːˈhaɪə/；美 /ˌriːˈhaɪr/",
+    "meaning": "重新雇用；重新雇回的人",
+    "sense": "这个人以前在这里做过，离开后又雇回来。re- 强调同一雇用关系重新开始，不只是公司又招了一个陌生人。",
+    "split": "re- 再次 + hire 雇用。名词 a rehire 可指被重新雇回的前员工。",
+    "history": [
+      [
+        "古英语 hȳr、hȳrian → hire",
+        "为服务或使用付钱；雇用、租用"
+      ],
+      [
+        "英语现代用法",
+        "雇人、租器具；新雇来的员工也可叫 a hire"
+      ],
+      [
+        "re- + hire → rehire",
+        "重新雇用；被重新雇回的人"
+      ]
+    ],
+    "explanation": "rehire a former employee 重新雇用前员工，eligible for rehire 符合再次受雇条件，a recent rehire 最近重新雇回的员工。",
+    "usage": "rehire a former employee；eligible for rehire；a recent rehire。",
+    "contrast": "rehire 说明重新雇用，不保证岗位、薪资和合同条款都与从前一样；renew a contract 续约也不必先经历离职。",
+    "examples": [
+      [
+        "The company decided to rehire a former editor.",
+        "公司决定重新雇用一名前编辑。"
+      ],
+      [
+        "Several of the new team members are rehires.",
+        "新加入团队的几个人都是重新雇回的员工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rehire#English"
+    ]
+  },
+  {
+    "word": "chemistry",
+    "ipa": "/ˈkemɪstri/",
+    "meaning": "化学；物质的化学性质与变化；人与人之间的吸引、默契",
+    "sense": "学科上问东西由什么组成、为什么这样反应；说两个人有 chemistry，则像在说他们碰到一起自然有反应、很合拍。",
+    "split": "chemist + -ry，词尾可表示相关实践或领域。chemist 经法语、拉丁词形联系 alchemy 炼金术名称；更远的希腊名称来源有争议，不硬定成唯一的倒液体或埃及黑土地故事。",
+    "history": [
+      [
+        "希腊炼金术名称 → 阿拉伯 al-kīmiyāʔ → 欧洲拉丁、法语形式",
+        "炼金术；更远的希腊名称来源有争议"
+      ],
+      [
+        "alchimista 等缩减 → chimista / chimiste → chemist",
+        "炼金术实践者，后来也指化学家"
+      ],
+      [
+        "chemist + -ry → chemistry",
+        "早期也说炼金术，后来形成现代化学学科义；人与人契合的比喻也很早"
+      ]
+    ],
+    "explanation": "study chemistry 学化学，organic chemistry 有机化学，the chemistry of water 水的化学性质与相关反应，screen chemistry 银幕上的默契或吸引。ch 读 /k/。",
+    "usage": "study chemistry；organic chemistry；the chemistry of water；screen chemistry。",
+    "contrast": "chemical 是相关形容词或化学物质名词，chemistry 是学科、性质或默契。人与人的 chemistry 不保证一定发展成恋爱；比喻义也不必编成现代实验室之后才有。",
+    "examples": [
+      [
+        "She studies chemistry at university.",
+        "她在大学学化学。"
+      ],
+      [
+        "The two actors have great chemistry on screen.",
+        "两位演员在银幕上很有默契。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chemistry#English",
+      "https://www.etymonline.com/word/chemistry",
+      "https://www.etymonline.com/word/alchemy"
+    ]
+  }
+]

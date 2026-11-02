@@ -1,0 +1,175 @@
+[
+  {
+    "word": "untrained",
+    "ipa": "/ˌʌnˈtreɪnd/",
+    "meaning": "未经训练的、不熟练的",
+    "sense": "别人练过、受过专门指导，这个人还没有；to the untrained eye 是“在外行看来”，不是说眼球也去上过课。",
+    "split": "un- 未、不 + trained 受过训练的，否定训练状态；train 训练义有自己的旧牵引、引导发展，不由火车开过去推断。",
+    "history": [
+      [
+        "train 的训练用法 → trained",
+        "接受过培养、训练"
+      ],
+      [
+        "un- + trained → untrained",
+        "没有接受相应训练"
+      ]
+    ],
+    "explanation": "untrained staff 未受训员工，an untrained dog 未训练过的狗，to the untrained eye 外行看来。是否在某方面受训，要看修饰范围。",
+    "usage": "untrained staff；an untrained dog；to the untrained eye。",
+    "contrast": "untrained 未练过，unskilled 技能不足，可能重叠但不等同；有经验的人也可能没接受某一项专门训练。",
+    "examples": [
+      [
+        "The untrained dog ignored the command.",
+        "未经训练的狗没理会指令。"
+      ],
+      [
+        "To the untrained eye, the two paintings look identical.",
+        "在外行看来，这两幅画一模一样。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/untrained#English"
+    ]
+  },
+  {
+    "word": "guest",
+    "ipa": "/ɡest/",
+    "meaning": "客人、旅客、嘉宾；访客；做嘉宾",
+    "sense": "来到别人的地盘，受到主人接待；旅馆住客付了钱，节目嘉宾带着专门身份，也仍站在“来访这一方”。",
+    "split": "中古英语 gest 等接古诺尔斯语 gestr，并与古英语 ġiest 近亲形式合流。更远与 hospitality 的主客互惠词族相关，不等于现代 host 主人和 guest 客人可以随便互换。",
+    "history": [
+      [
+        "古英语 ġiest 与古诺尔斯语 gestr 等近亲形式 → 中古英语 gest → guest",
+        "被接待、来访的人；旧形式在英语中合流"
+      ],
+      [
+        "接待关系扩展",
+        "家中客人、旅馆住客、节目嘉宾、系统访客"
+      ],
+      [
+        "组合",
+        "guesthouse 接待住宿的房子；houseguest 住在别人家里的客人"
+      ]
+    ],
+    "explanation": "a dinner guest 晚餐客人，hotel guests 旅馆住客，a guest speaker 特邀演讲者，a guest account 访客账户，guest on a show 做节目嘉宾。",
+    "usage": "a dinner guest；a guest speaker；hotel guests；a guest account。",
+    "contrast": "guest 被接待或特邀，visitor 泛说访客；customer 顾客说交易角色，同一个人可同时是旅馆 guest 与付费 customer。",
+    "examples": [
+      [
+        "We have three guests staying this weekend.",
+        "这个周末有三位客人来住。"
+      ],
+      [
+        "The professor appeared as a guest on the programme.",
+        "教授作为嘉宾参加了节目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guest#English"
+    ]
+  },
+  {
+    "word": "breathing",
+    "ipa": "/ˈbriːðɪŋ/",
+    "meaning": "呼吸；呼吸着的；呼吸过程、方式",
+    "sense": "把吸气、呼气这套持续动作当一件事说；也能修饰生物活着在呼吸，不是把 breath 名词复数化。",
+    "split": "breathe + -ing，去掉末尾不发音 e，保留动词长元音 /iː/ 和浊 /ð/。",
+    "history": [
+      [
+        "古英语 breath 词族 → 中古英语 brethen → breathe",
+        "气息名词基础上形成呼吸动词"
+      ],
+      [
+        "breathe + -ing → breathing",
+        "正在呼吸；呼吸这一过程"
+      ]
+    ],
+    "explanation": "steady breathing 平稳呼吸，breathing space 缓冲空间、喘息机会，a living, breathing person 活生生的人。",
+    "usage": "steady breathing；normal breathing；breathing space；living and breathing。",
+    "contrast": "breathing 是过程，breath 是一口气；a breathing space 常比喻留一点处理事情的余地，不只物理上能吸气的房间。",
+    "examples": [
+      [
+        "Her breathing became slower and steadier.",
+        "她的呼吸变得更慢、更平稳。"
+      ],
+      [
+        "The delay gave us some breathing space.",
+        "延后给了我们一点喘息、调整的余地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breathing#English"
+    ]
+  },
+  {
+    "word": "breather",
+    "ipa": "英 /ˈbriːðə/；美 /ˈbriːðər/",
+    "meaning": "呼吸者；通气装置；短暂休息、喘口气",
+    "sense": "原本可以是呼吸的东西；日常 take a breather 常说先歇一小会儿，恢复节奏再继续。",
+    "split": "breathe + -er，去末尾 e；人物、装置义之外，又发展出喘息恢复的一段休息。不要把所有 -er 名词都锁死成人。",
+    "history": [
+      [
+        "古英语 breath 词族 → 中古英语 brethen → breathe",
+        "气息名词基础上形成呼吸动词"
+      ],
+      [
+        "breathe + -er → breather",
+        "呼吸者、通气装置"
+      ],
+      [
+        "英语休息义",
+        "短暂喘息、暂停"
+      ]
+    ],
+    "explanation": "take a breather 歇口气，need a breather 需要短暂停一下，a breather pipe 通气管。",
+    "usage": "take a breather；need a breather；a brief breather。",
+    "contrast": "breather 休息可短，holiday 通常较长假期；breather 也可技术装置，读维修材料时不总是让人休假。",
+    "examples": [
+      [
+        "Let us take a breather before the next section.",
+        "下一部分开始前，我们先歇一会儿。"
+      ],
+      [
+        "The short break gave the team a welcome breather.",
+        "短暂休息让团队有了难得的喘息机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breather#English"
+    ]
+  },
+  {
+    "word": "breathable",
+    "ipa": "/ˈbriːðəbəl/",
+    "meaning": "可供呼吸的；透气的",
+    "sense": "空气让人能吸，是 breathable air；布料让湿气、空气适当通过，也说 breathable，但不是衣服自己长肺在呼吸。",
+    "split": "breathe + -able，去掉末尾 e，接能呼吸、允许气体通过的能力。词干沿 breathe /briːð/，不是 breath /breθ/。",
+    "history": [
+      [
+        "古英语 breath 词族 → 中古英语 brethen → breathe",
+        "气息名词基础上形成呼吸动词"
+      ],
+      [
+        "breathe + -able → breathable",
+        "可呼吸；可让气体、水汽通过"
+      ]
+    ],
+    "explanation": "breathable air 可呼吸空气，breathable fabric 透气面料，a breathable jacket 透气外套。",
+    "usage": "breathable air；breathable fabric；a breathable jacket。",
+    "contrast": "breathable 透气性不等于 waterproof 防水性，两种性质可按材料结构组合；不能只凭透气一词推定所有天气用途。",
+    "examples": [
+      [
+        "The jacket is made from a lightweight, breathable fabric.",
+        "外套采用轻薄透气的面料。"
+      ],
+      [
+        "The astronauts checked the supply of breathable air.",
+        "宇航员检查了可供呼吸的空气储备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breathable#English"
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "B3815",
+    "meaning": "必要性与必然推论",
+    "core": "NECESSARY：少不了；NECESSARILY：是否一定能推出",
+    "image": "必要形容词后接必然副词，not necessarily 的日常逻辑最值得掌握；unnecessary 否定必要性。",
+    "intro": "借法语接拉丁不可避免、需要词。现代派生透明，但不凭远源猜测替代实际用法。",
+    "forms": "necessary → necessarily；un- + necessary → unnecessary。\n\nnecessary、necessity 分别承接拉丁及法语相关形式；不把整段历史改成英语简单换后缀。",
+    "branches": [
+      [
+        "性质、推论与否定",
+        "necessary · necessarily · unnecessary"
+      ],
+      [
+        "necessary／necessity → necessities：必需与必需品",
+        "necessary · necessity · necessities"
+      ]
+    ],
+    "contrasts": "not necessarily 不一定，不等于必然相反；useful 有用不自动 necessary 必需。",
+    "practice": "More equipment is not necessarily necessary.\n\n更多设备未必是必需的。",
+    "words": [
+      "necessary",
+      "necessarily",
+      "unnecessary",
+      "necessity",
+      "necessities"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2488",
+    "meaning": "慢、放慢与迟缓的历史派生",
+    "core": "SLOW：完成同一动作需要更久",
+    "image": "slow、slower、slowly、slowness 按程度、方式、性质连读；sloth 是旧名词派生，slowpoke 是人物口语称呼。",
+    "intro": "古英语慢、迟缓词族保留旧抽象形式 sloth。树懒英语名利用动作缓慢命名，不把比喻当动物道德判断。",
+    "forms": "slow → slower、slowly、slowness；旧 -th 派生 → sloth；slow + poke → slowpoke。\n\nslow 接古英语 slāw，最高级直接加 -est，不双写 w。\n\nsloth 的懒散名词联系 slow 与抽象 -th 材料；动物树懒名称后来才出现。slothful 由懒散义加 -ful，不是说一个人长满了树懒。",
+    "branches": [
+      [
+        "基本性质、比较与方式",
+        "slow · slower · slowly · slowness"
+      ],
+      [
+        "旧派生与人物称呼",
+        "sloth · slowpoke"
+      ],
+      [
+        "slow → slower → slowest：最慢",
+        "slow · slower · slowest"
+      ],
+      [
+        "slothful：懒散得不愿动",
+        "sloth · slothful · slothfully · slothfulness"
+      ]
+    ],
+    "contrasts": "slow 慢与 late 晚不同；sloth 动物可数、懒惰抽象义不可数；slowpoke 看语气。",
+    "practice": "The slower route allowed us to walk slowly and enjoy the view.\n\n那条较慢的路线让我们能慢慢走，欣赏景色。",
+    "words": [
+      "slow",
+      "slower",
+      "slowly",
+      "slowness",
+      "sloth",
+      "slowpoke",
+      "slowest",
+      "slothful",
+      "slothfully",
+      "slothfulness"
+    ],
+    "exclude": {
+      "slow-growing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slow-burning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slow-paced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

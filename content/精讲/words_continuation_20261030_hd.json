@@ -1,0 +1,488 @@
+[
+  {
+    "word": "root",
+    "ipa": "/ruːt/",
+    "meaning": "根、根源、词根；生根；拱土；支持〔root for〕",
+    "sense": "植物靠根固定、吸收，问题、词形也能追到根；但给别人加油的 root for 和猪拱土的 root，需要交代各自旧词、习语线。",
+    "split": "植物名承接北欧 rót 等材料；生根动词由此发展。拱土接古英语 wrōtan 的旧动词。美式喝彩义更晚，来源解释不一，不能直接断言支持就是把植物根送给对方。",
+    "history": [
+      [
+        "古北欧 rót 等 → 晚期古英语、中古英语 root",
+        "植物根"
+      ],
+      [
+        "英语名词及相应动词",
+        "根 → 原因、来源、词根；生根、扎根"
+      ],
+      [
+        "另有旧动词和晚出习语",
+        "旧 wrōtan 拱土；美式 root for 支持、喝彩的来路另有讨论"
+      ]
+    ],
+    "explanation": "take root 生根、扎根，the root cause 根本原因，word roots 词根，root around 翻找，root for someone 为某人加油。",
+    "usage": "take root；the root cause；word roots；root around；root for。",
+    "contrast": "root 根与 route 路线在部分口音同音，拼写和意义分开；root for 支持人，root out 清除问题等不能换介词。",
+    "examples": [
+      [
+        "The idea took root in the community.",
+        "这个想法在社区扎下了根。"
+      ],
+      [
+        "I’ll be rooting for you in the final.",
+        "决赛时我会为你加油。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/root",
+      "https://en.wiktionary.org/wiki/root#English"
+    ]
+  },
+  {
+    "word": "rooting",
+    "ipa": "/ˈruːtɪŋ/",
+    "meaning": "生根、扎根；翻拱、翻找；加油支持〔rooting for〕",
+    "sense": "先看后面跟什么：rooting a cutting 让插枝生根，rooting around 四处翻找，rooting for a team 给球队加油；一个 -ing 盖不掉词基的分支。",
+    "split": "root + -ing，生根名词、各类动词形式分别接 root 的对应来源。不要把所有 rooting 都当植物学过程。",
+    "history": [
+      [
+        "古北欧 rót 等 → 晚期古英语、中古英语 root",
+        "植物根"
+      ],
+      [
+        "英语名词及相应动词",
+        "根 → 原因、来源、词根；生根、扎根"
+      ],
+      [
+        "另有旧动词和晚出习语",
+        "旧 wrōtan 拱土；美式 root for 支持、喝彩的来路另有讨论"
+      ],
+      [
+        "root + -ing → rooting",
+        "生根、翻找或喝彩的形式，按所选动词义分"
+      ]
+    ],
+    "explanation": "rooting cuttings 使插枝生根，rooting around in a drawer 翻抽屉，rooting for the home team 支持主队。",
+    "usage": "rooting cuttings；rooting around；rooting for。",
+    "contrast": "rooting for 后接支持的对象，rooting around 常接翻找地点；routing 可是规划路线等，少了一个 o 不是同一词。",
+    "examples": [
+      [
+        "The cuttings are rooting in the nursery.",
+        "插枝正在苗圃里生根。"
+      ],
+      [
+        "Everyone in the room was rooting for the same team.",
+        "屋里所有人都在支持同一支球队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rooting#English"
+    ]
+  },
+  {
+    "word": "beetroot",
+    "ipa": "/ˈbiːtruːt/",
+    "meaning": "甜菜根、红菜头",
+    "sense": "把 beet 甜菜的可食根部拿出来命名；常见深红色，切开容易让人记住，但不同品种也有其他颜色。",
+    "split": "beet 甜菜 + root 根，英式常用整词称菜根；美式食物语境常直接说 beet。不是把 beat 打击 + root 拼成打根。",
+    "history": [
+      [
+        "古北欧 rót 等 → 晚期古英语、中古英语 root",
+        "植物根"
+      ],
+      [
+        "beet + root → beetroot",
+        "甜菜的根部、作为蔬菜的根"
+      ]
+    ],
+    "explanation": "pickled beetroot 腌甜菜根，beetroot salad 甜菜根沙拉，beetroot juice 甜菜根汁。",
+    "usage": "pickled beetroot；beetroot salad；beetroot juice。",
+    "contrast": "beetroot 根菜，beet greens 甜菜叶；同一株植物的不同食材部位，不把 root 省到哪里都毫无区别。",
+    "examples": [
+      [
+        "She added sliced beetroot to the salad.",
+        "她往沙拉里加了切片甜菜根。"
+      ],
+      [
+        "The sandwich came with pickled beetroot.",
+        "三明治配了腌甜菜根。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beetroot#English"
+    ]
+  },
+  {
+    "word": "rootstock",
+    "ipa": "英 /ˈruːtstɒk/；美 /ˈruːtstɑːk/",
+    "meaning": "砧木、根砧；植物的根基部分",
+    "sense": "嫁接时，下面那株负责长根、支撑，上面接想要的枝条；下面提供根基的植物就是 rootstock。",
+    "split": "root 根 + stock 植株基部、基株等材料。stock 在这里不是股票，也不是仓库库存；词名按植物支撑功能解释。",
+    "history": [
+      [
+        "古北欧 rót 等 → 晚期古英语、中古英语 root",
+        "植物根"
+      ],
+      [
+        "root + stock → rootstock",
+        "提供根部、根基的植株，尤嫁接砧木"
+      ]
+    ],
+    "explanation": "a hardy rootstock 强健砧木，graft onto rootstock 嫁接到砧木上，a dwarfing rootstock 矮化砧木。这里只认名称，不由字面推全部栽培特性。",
+    "usage": "a hardy rootstock；graft onto rootstock；a dwarfing rootstock。",
+    "contrast": "rootstock 下面提供根基的植株，scion 接上去的接穗；两者都属嫁接术语但位置、作用不同。",
+    "examples": [
+      [
+        "The label identifies the rootstock used for the tree.",
+        "标签注明了这棵树使用的砧木。"
+      ],
+      [
+        "The grower selected a hardy rootstock.",
+        "种植者选了强健的砧木。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rootstock#English"
+    ]
+  },
+  {
+    "word": "uproot",
+    "ipa": "/ˌʌpˈruːt/",
+    "meaning": "连根拔起；使迁离熟悉环境、连根迁移",
+    "sense": "不只摘叶子，而是把原来扎住的根也拔起来；人被迫离开生活已扎根的地方，也会有 uprooted 的失去根基感。",
+    "split": "up- 向上、移起 + root 根及拔根动词。英语有很早的相应构造；人的迁移比喻借生活根基，不要求身体真有植物根。",
+    "history": [
+      [
+        "古北欧 rót 等 → 晚期古英语、中古英语 root",
+        "植物根"
+      ],
+      [
+        "英语名词及相应动词",
+        "根 → 原因、来源、词根；生根、扎根"
+      ],
+      [
+        "up- + root → uproot",
+        "把根拔起 → 迁离既有生活环境"
+      ]
+    ],
+    "explanation": "uproot a tree 把树连根拔起，uproot a family 让一家迁离，be uprooted by conflict 因冲突流离失所。也可说主动 uproot yourself 搬离熟悉环境。",
+    "usage": "uproot a tree；uproot a family；be uprooted。",
+    "contrast": "uproot 常强调原有根基被动摇、搬离，move 更中性；不是任何挪动一张椅子都用 uproot。",
+    "examples": [
+      [
+        "The storm uprooted several trees.",
+        "风暴把几棵树连根拔起。"
+      ],
+      [
+        "Moving overseas meant uprooting the whole family.",
+        "移居海外意味着全家离开熟悉的生活环境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uproot#English"
+    ]
+  },
+  {
+    "word": "shadow",
+    "ipa": "英 /ˈʃædəʊ/；美 /ˈʃædoʊ/",
+    "meaning": "影子、阴影；笼罩；如影随形地跟着、跟岗",
+    "sense": "物体挡住光，后面出现随它走的暗形；人也能像影子一样紧跟别人，偷偷跟踪或公开跟岗学习都可能。",
+    "split": "接古英语 sċeadu 的相关格变化形式，和 shade 是双式词，不是在现代 shade 后任意加 ow。遮光、相伴跟随两幅画推动后来的比喻。",
+    "history": [
+      [
+        "古英语 sċeadu 与相关词形 sċeaduwe 等",
+        "阴影、遮阴"
+      ],
+      [
+        "中古英语 shade/shadow",
+        "同一旧词不同形态走向现代两个词"
+      ],
+      [
+        "英语 shadow",
+        "投影、阴暗 → 笼罩、跟随、模拟角色"
+      ]
+    ],
+    "explanation": "cast a shadow 投下影子，in the shadow of 在……阴影、影响下，shadow a colleague 跟随同事学习，a shadow cabinet 影子内阁等对位政治用法。",
+    "usage": "cast a shadow；in the shadow of；shadow a colleague；a shadow cabinet。",
+    "contrast": "shadow 常是一道投出的暗形，shade 常是遮阴区域；shadowing 也可合法公开跟岗，不能一律译成秘密尾随。",
+    "examples": [
+      [
+        "The tree cast a long shadow across the path.",
+        "树在小路上投下长长的影子。"
+      ],
+      [
+        "New employees shadow a colleague during their first week.",
+        "新员工第一周跟着一位同事学习。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/shadow"
+    ]
+  },
+  {
+    "word": "shadowy",
+    "ipa": "英 /ˈʃædəʊi/；美 /ˈʃædoʊi/",
+    "meaning": "昏暗的、影影绰绰的；神秘隐蔽的",
+    "sense": "灯光照不到，人和物只剩模糊轮廓；组织活动也能像躲在阴影里，让人摸不清。",
+    "split": "shadow + -y，中古英语已有相应形容词；物理暗影转到不公开、难辨身份的抽象义。",
+    "history": [
+      [
+        "古英语 sċeadu 与相关词形 sċeaduwe 等",
+        "阴影、遮阴"
+      ],
+      [
+        "中古英语 shade/shadow",
+        "同一旧词不同形态走向现代两个词"
+      ],
+      [
+        "英语 shadow",
+        "投影、阴暗 → 笼罩、跟随、模拟角色"
+      ],
+      [
+        "shadow + -y → shadowy",
+        "影子多、昏暗 → 隐蔽、轮廓不明"
+      ]
+    ],
+    "explanation": "a shadowy figure 模糊人影、神秘人物，a shadowy corner 昏暗角落，a shadowy organization 神秘组织。",
+    "usage": "a shadowy figure；a shadowy corner；a shadowy organization。",
+    "contrast": "shadowy 不一定等于 criminal 犯罪的；只能说看不清、隐蔽，是否违法要另有事实。",
+    "examples": [
+      [
+        "A shadowy figure stood at the end of the corridor.",
+        "走廊尽头站着一个模糊人影。"
+      ],
+      [
+        "The novel describes a shadowy organization behind the events.",
+        "小说描写了事件背后一个神秘组织。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shadowy#English"
+    ]
+  },
+  {
+    "word": "shadowing",
+    "ipa": "英 /ˈʃædəʊɪŋ/；美 /ˈʃædoʊɪŋ/",
+    "meaning": "跟随、跟岗；影子跟读；遮蔽效应",
+    "sense": "动作跟着别人紧挨着走：新人跟岗，学语言者边听边尽快跟说，都像影子跟着原动作。也有真正挡住光、信号的技术义。",
+    "split": "shadow + -ing，动作名和动词形式。语言中的跟读借紧随之意，不是自己随便大声朗读；跟岗则是跟随观察工作。",
+    "history": [
+      [
+        "古英语 sċeadu 与相关词形 sċeaduwe 等",
+        "阴影、遮阴"
+      ],
+      [
+        "中古英语 shade/shadow",
+        "同一旧词不同形态走向现代两个词"
+      ],
+      [
+        "英语 shadow",
+        "投影、阴暗 → 笼罩、跟随、模拟角色"
+      ],
+      [
+        "shadow + -ing → shadowing",
+        "遮蔽或紧跟的过程；跟岗、跟读等用法"
+      ]
+    ],
+    "explanation": "job shadowing 工作跟岗，practice shadowing 练影子跟读，radio shadowing 无线电遮蔽。语境告诉你是行为还是物理传播现象。",
+    "usage": "job shadowing；practice shadowing；radio shadowing。",
+    "contrast": "shadowing 语言用法紧随听到的声音复述，reading aloud 朗读可没有同步输入；job shadowing 不等于已独立承担同样岗位。",
+    "examples": [
+      [
+        "She spent a day shadowing an experienced nurse.",
+        "她跟着一位有经验的护士观察学习了一天。"
+      ],
+      [
+        "He practised shadowing with a short audio recording.",
+        "他用一段短录音练习影子跟读。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shadowing#English"
+    ]
+  },
+  {
+    "word": "overshadow",
+    "ipa": "英 /ˌəʊvəˈʃædəʊ/；美 /ˌoʊvərˈʃædoʊ/",
+    "meaning": "遮住光；使黯然失色；给……蒙上阴影",
+    "sense": "大树的影子盖住小屋，小屋暗了；一个成就、坏消息过于抢眼，也能把旁边别的事压得不显眼。",
+    "split": "over- 在上、覆盖 + shadow，古英语 ofersċeadwian 等已有对应形式，不是最近从 over 多余硬造的新词。",
+    "history": [
+      [
+        "古英语 sċeadu 与相关词形 sċeaduwe 等",
+        "阴影、遮阴"
+      ],
+      [
+        "中古英语 shade/shadow",
+        "同一旧词不同形态走向现代两个词"
+      ],
+      [
+        "英语 shadow",
+        "投影、阴暗 → 笼罩、跟随、模拟角色"
+      ],
+      [
+        "over- + shadow → overshadow",
+        "盖上阴影 → 比……突出、遮去关注或带来阴霾"
+      ]
+    ],
+    "explanation": "overshadow a success 给成功蒙阴影，overshadow other achievements 让其他成就黯然失色，be overshadowed by 被……掩盖。",
+    "usage": "overshadow a success；overshadow other achievements；be overshadowed by。",
+    "contrast": "overshadow 可是别的事更耀眼，也可是坏消息笼罩，未必有人故意抢风头；foreshadow 是预示、伏笔，前缀方向不同。",
+    "examples": [
+      [
+        "The scandal overshadowed the company’s achievements.",
+        "丑闻掩盖了公司的成就。"
+      ],
+      [
+        "The tall building overshadowed the little garden.",
+        "高楼遮住了小花园的光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overshadow#English"
+    ]
+  },
+  {
+    "word": "decent",
+    "ipa": "/ˈdiːsənt/",
+    "meaning": "得体、体面的；像样、还不错的；厚道正派的",
+    "sense": "达到该有的基本标准：住处像样、人做事不亏待别人、衣着足以见客。说 decent 往往是过得去到不错，不必夸顶级。",
+    "split": "经法语或直接接拉丁 decēns，来自适合、合宜的 decēre。现代不拆成 de- 去掉 + cent 分币。",
+    "history": [
+      [
+        "拉丁 decēre → decēns",
+        "适合、合宜 → 得体、合乎标准的"
+      ],
+      [
+        "法语 décent → 英语 decent",
+        "体面、合宜 → 过得去、像样；人品厚道"
+      ]
+    ],
+    "explanation": "a decent meal 像样的一餐，a decent salary 不错的工资，a decent person 厚道人；Are you decent? 可问穿好衣服、方便见人了吗。",
+    "usage": "a decent meal；a decent salary；a decent person；Are you decent?。",
+    "contrast": "decent /ˈdiːsənt/ 与 descent /dɪˈsent/ 下降、dissent /dɪˈsent/ 异议，重音、拼写和词源不同。",
+    "examples": [
+      [
+        "We finally found a decent place to stay.",
+        "我们终于找到了像样的住处。"
+      ],
+      [
+        "It was decent of you to help without being asked.",
+        "不用人开口你就来帮忙，真够厚道。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/decent"
+    ]
+  },
+  {
+    "word": "decency",
+    "ipa": "/ˈdiːsənsi/",
+    "meaning": "得体、体面；基本良知、礼貌、公德",
+    "sense": "哪怕关系不好，至少别让人难堪、别做太过分的事；have the decency to apologize 是说连道歉这点起码礼貌也该有。",
+    "split": "接拉丁 decentia 等相应名词，和 decent 同族；现代对应 decent + -cy，词尾 -t 对应名词 -cy，并非在完整 decent 后再原样拼 cy。",
+    "history": [
+      [
+        "拉丁 decēre → decēns",
+        "适合、合宜 → 得体、合乎标准的"
+      ],
+      [
+        "法语 décent → 英语 decent",
+        "体面、合宜 → 过得去、像样；人品厚道"
+      ],
+      [
+        "拉丁 decentia → decency",
+        "合宜、得体的性质；基本道德和礼貌标准"
+      ]
+    ],
+    "explanation": "common decency 基本公德，have the decency to 至少有礼貌去……，a sense of decency 正派感、礼义感。",
+    "usage": "common decency；have the decency to；a sense of decency。",
+    "contrast": "decency 抽象礼义、得体，decent 形容符合标准；decency 不只是穿戴好看，也能说怎样对人。",
+    "examples": [
+      [
+        "He did not even have the decency to apologize.",
+        "他连道歉这点起码的礼貌都没有。"
+      ],
+      [
+        "Common decency should guide how we treat strangers.",
+        "我们对待陌生人应遵守基本公德。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decency#English"
+    ]
+  },
+  {
+    "word": "indecent",
+    "ipa": "/ɪnˈdiːsənt/",
+    "meaning": "不得体的、不雅的；过分、不合宜的",
+    "sense": "越过了场合或社会习惯能接受的尺度；可以是猥亵不雅，也可以是做事急得失了分寸。",
+    "split": "in- 不 + decent 的词义对应；历史有法语 indécent、拉丁 indecēns 等相应借词路线。in- 此处是否定，不是在里面。",
+    "history": [
+      [
+        "拉丁 decēre → decēns",
+        "适合、合宜 → 得体、合乎标准的"
+      ],
+      [
+        "法语 décent → 英语 decent",
+        "体面、合宜 → 过得去、像样；人品厚道"
+      ],
+      [
+        "in- + decēns → indecēns 等 → indecent",
+        "不合宜、不得体"
+      ]
+    ],
+    "explanation": "indecent language 不雅语言，indecent behavior 不雅行为，with indecent haste 仓促得失了分寸。具体是否涉及法律另看制度、事实，不由词名直接决定。",
+    "usage": "indecent language；indecent behavior；with indecent haste。",
+    "contrast": "indecent 不一定只指性内容，indecent haste 是不合宜地急；illegal 才直接说违法，词义不能互相替代所有场合。",
+    "examples": [
+      [
+        "The editor removed the indecent language from the children’s edition.",
+        "编辑删去了儿童版里的不雅语言。"
+      ],
+      [
+        "They sold the house with what she considered indecent haste.",
+        "他们仓促卖了房子，她觉得急得太不合适。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indecent#English"
+    ]
+  },
+  {
+    "word": "decently",
+    "ipa": "/ˈdiːsəntli/",
+    "meaning": "得体地、厚道地；相当不错地",
+    "sense": "对人至少像样、把事情做得过得去；副词把 decent 的标准放到动作、程度上。",
+    "split": "decent + -ly，形成方式、程度副词。既能说 treat people decently 厚道待人，也能说 do decently 表现不错。",
+    "history": [
+      [
+        "拉丁 decēre → decēns",
+        "适合、合宜 → 得体、合乎标准的"
+      ],
+      [
+        "法语 décent → 英语 decent",
+        "体面、合宜 → 过得去、像样；人品厚道"
+      ],
+      [
+        "decent + -ly → decently",
+        "按合宜标准；达到不错、过得去的程度"
+      ]
+    ],
+    "explanation": "treat someone decently 体面、厚道地待人，decently paid 薪酬还不错的，do decently 表现不错。",
+    "usage": "treat someone decently；decently paid；do decently。",
+    "contrast": "decently 过得去、得体，perfectly 完美地更强；decently paid 不保证高收入，只说达到相当不错、合适的水平。",
+    "examples": [
+      [
+        "Everyone deserves to be treated decently.",
+        "每个人都值得被体面地对待。"
+      ],
+      [
+        "She found a decently paid job near home.",
+        "她在家附近找到了一份报酬还不错的工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decently#English"
+    ]
+  }
+]

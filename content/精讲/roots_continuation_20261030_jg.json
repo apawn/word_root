@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B4401",
+    "meaning": "城镇共同体、地方公共管理，以及相应行政单位和归属",
+    "core": "MUNICIPAL：共同体里的地方公共事务",
+    "image": "municipal → municipality 行政单位或当局；municipally 修饰拥有、资助等关系。",
+    "intro": "先抓地方公共管理，再区分性质、行政对象和句子里的方式、归属。不要只记成城里的。",
+    "forms": "mūnus 与承担的成分 → mūniceps、mūnicipium → mūnicipālis；经法语形成英语相关词。\n\nmunicipality 经法语 municipalité，远连拉丁共同承担地方义务的词族。复数 y 变 i 加 -es，现代说地方自治体或相应地方政府。",
+    "branches": [
+      [
+        "性质、行政对象与副词",
+        "municipal · municipality · municipally"
+      ],
+      [
+        "municipal 地方市政 + -ity → municipalities",
+        "municipalities"
+      ]
+    ],
+    "contrasts": "municipal 不等于所有 urban；municipality 的具体层级随制度变化。",
+    "practice": "The municipality operates several municipally owned facilities and provides municipal services.\n\n当地政府运营几处自有设施，并提供市政服务。",
+    "words": [
+      "municipal",
+      "municipality",
+      "municipally",
+      "municipalities"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1785",
+    "meaning": "写、描记、记录，以及记录物、设备和动作",
+    "core": "-GRAPH：看整词，可能是记录物、仪器，也可能是动词",
+    "image": "photograph 照片；spectrograph 记录光谱的仪器；choreograph 编排舞蹈动作。",
+    "intro": "共同来源指向写、描记，不意味着每个整词都该译成图。随前半对象和词的历史，结果可以是成品、设备或动作。",
+    "forms": "希腊 gráphein 写、描记，相关 -graphos 等进入学术构词；各词借入、造词路线分别看。\n\n由较长名词逆构等分析解释形成，不能把 -graph 每次都当一个先独立存在的英语动词。",
+    "branches": [
+      [
+        "记录物与记录设备",
+        "photograph · autograph · phonograph · polygraph · chronograph · spectrograph"
+      ],
+      [
+        "记录、编排及相关形式",
+        "lithograph · choreograph · orthographic"
+      ],
+      [
+        "choreograph 的逆构动词及常用形式",
+        "choreograph · choreographs · choreographed · choreographing"
+      ]
+    ],
+    "contrasts": "-graph 不固定只表示图；spectrograph 仪器与 spectrogram 图样不同。",
+    "practice": "The spectrograph records a spectrum, while a photograph records a visible scene.\n\n摄谱仪记录光谱，照片则记录可见场景。",
+    "words": [
+      "photograph",
+      "autograph",
+      "phonograph",
+      "polygraph",
+      "chronograph",
+      "spectrograph",
+      "lithograph",
+      "choreograph",
+      "orthographic",
+      "choreographs",
+      "choreographed",
+      "choreographing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3595",
+    "meaning": "带着使命代表派遣方，以及大使相关职责和职位",
+    "core": "AMBASSADOR：受派遣，代表某一方",
+    "image": "ambassador 人物 → ambassadorial 相关性质 → ambassadorship 职位、任职。",
+    "intro": "国家大使是正式外交角色，品牌和公益也借用代表形象的意义。用途扩展不等于职权一样。",
+    "forms": "经法语、盎格鲁诺曼语等形式借入；现代 ambassador 接 -ial、-ship。\n\nembassy 与 ambassador 经罗曼语不同形式接更早使者、随从材料；embassy 由使命、职务转指人员机构与馆舍，不能直接按英语 ambassador 换尾造词。",
+    "branches": [
+      [
+        "人物、性质与职位",
+        "ambassador · ambassadorial · ambassadorship"
+      ],
+      [
+        "ambassador 与 embassy：使者、使命与使馆",
+        "ambassador · embassy"
+      ]
+    ],
+    "contrasts": "brand ambassador 不自动是外交官；-ship 在此表职位而不是船。",
+    "practice": "During her ambassadorship, the ambassador carried out many ambassadorial duties.\n\n任大使期间，她履行了许多大使职责。",
+    "words": [
+      "ambassador",
+      "ambassadorial",
+      "ambassadorship",
+      "embassy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3632",
+    "meaning": "水从容器、土地流走，再借给资源和精力的消耗",
+    "core": "DRAIN：从里面流出去，剩下的越来越少",
+    "image": "drain → drainage 排水概念、系统；drained 排走、耗尽后的状态；drainpipe 排水管。",
+    "intro": "名词可以是出口或管道，动词是流走、排走；比喻里则是精力、资源被不断带走。",
+    "forms": "drēahnian → dreinen → drain；-age 名词，-ed 分词状态；drain + pipe。\n\n古英语排水材料，名词通道和动词三单同形。\n\ndraining 可写水正排出，也可形容事情耗神；不按现代 d + rain 雨来拆。",
+    "branches": [
+      [
+        "动作、设施与系统",
+        "drain · drainpipe · drainage"
+      ],
+      [
+        "结果状态",
+        "drained"
+      ],
+      [
+        "drain → drains：液体、资源流走",
+        "drain · drains"
+      ],
+      [
+        "drain 从排液到耗尽精力",
+        "drain · drains · drained · draining"
+      ]
+    ],
+    "contrasts": "drained 状态与 draining 造成耗力的性质不同；drainage 不只指一根管。",
+    "practice": "The blocked drainpipe caused poor drainage, and the repair work left everyone drained.\n\n排水管堵塞导致排水不畅，维修工作又让大家疲惫不堪。",
+    "words": [
+      "drain",
+      "drainpipe",
+      "drainage",
+      "drained",
+      "drains",
+      "draining"
+    ],
+    "exclude": {
+      "top-drain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

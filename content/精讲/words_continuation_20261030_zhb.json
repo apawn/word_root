@@ -1,0 +1,743 @@
+[
+  {
+    "word": "swat",
+    "ipa": "英 /swɒt/；美 /swɑt/",
+    "meaning": "啪地拍打、挥击；一拍",
+    "sense": "蚊子停在手臂上，手掌啪地拍过去，叫 swat。也能写把球、东西一把拍开，动作短而直接。",
+    "split": "见于美国和英格兰北部方言，可能是中古英语 swap 打击义的变化，最终可能拟声。不要先绕到现代 swap 交换再解释拍打。",
+    "history": [
+      [
+        "方言 swat；有接旧 swap 打击义或方言 squat 的不同分析",
+        "远源未定，拟声也只是分析；旧打击义不等于现代交换义"
+      ],
+      [
+        "拍打动词 → swat 一拍；swat + -er → swatter",
+        "人物、工具尾常具体指拍苍蝇的工具"
+      ]
+    ],
+    "explanation": "swat a fly 拍苍蝇；swat at a mosquito 挥手拍蚊子；a quick swat 快速一拍。",
+    "usage": "swat away 拍开；take a swat at 朝……挥打一记。",
+    "contrast": "swat at a fly 写朝苍蝇拍，不保证拍中；swat a fly 更直接把苍蝇作为拍击对象，是否打死仍看句子。",
+    "examples": [
+      [
+        "She tried to swat a fly with a rolled-up newspaper.",
+        "她想用卷起的报纸拍苍蝇。"
+      ],
+      [
+        "He gave the cushion a quick swat to remove the dust.",
+        "他啪地拍了一下靠垫，把灰尘拍掉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swat#English",
+      "https://www.etymonline.com/word/swat"
+    ]
+  },
+  {
+    "word": "swats",
+    "ipa": "英 /swɒts/；美 /swɑts/",
+    "meaning": "拍打、挥击〔第三人称单数〕；一下一下拍击〔复数〕",
+    "sense": "猫拿爪子一把拍向玩具，是 it swats；几下短促拍打，也可叫 swats。动作都像迅速挥过去的一掌。",
+    "split": "swat + -s，/t/ 后读 /s/；动词三单与名词复数同形。",
+    "history": [
+      [
+        "方言 swat；有接旧 swap 打击义或方言 squat 的不同分析",
+        "远源未定，拟声也只是分析；旧打击义不等于现代交换义"
+      ],
+      [
+        "拍打动词 → swat 一拍；swat + -er → swatter",
+        "人物、工具尾常具体指拍苍蝇的工具"
+      ],
+      [
+        "swat + -s → swats",
+        "它挥拍；多次短促拍打"
+      ]
+    ],
+    "explanation": "swats at the toy 朝玩具挥爪；a few swats 几下拍打。",
+    "usage": "swats the ball aside 把球拍到一边；swats away insects。",
+    "contrast": "swats 常是短促挥打，strokes 常是顺着表面轻抚；猫爪伸向玩具和手抚猫背，动作劲头不同。",
+    "examples": [
+      [
+        "The cat swats at the toy hanging above it.",
+        "猫伸爪拍上方吊着的玩具。"
+      ],
+      [
+        "A few swats with the towel drove the insects away.",
+        "毛巾挥打几下，就把虫子赶开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swats#English",
+      "https://www.etymonline.com/word/swat"
+    ]
+  },
+  {
+    "word": "swatted",
+    "ipa": "英 /ˈswɒtɪd/；美 /ˈswɑtɪd/",
+    "meaning": "拍打、挥击了；拍开了",
+    "sense": "小虫在眼前晃，人顺手一拍，过去动作就是 swatted；它也可以写球员一下把球拍走。",
+    "split": "swat 双写 t 加完整 -ed，/t/ 后读 /ɪd/，多一个音节。",
+    "history": [
+      [
+        "方言 swat；有接旧 swap 打击义或方言 squat 的不同分析",
+        "远源未定，拟声也只是分析；旧打击义不等于现代交换义"
+      ],
+      [
+        "拍打动词 → swat 一拍；swat + -er → swatter",
+        "人物、工具尾常具体指拍苍蝇的工具"
+      ],
+      [
+        "swat + -ed → swatted",
+        "过去挥拍、拍开，双写末尾 t"
+      ]
+    ],
+    "explanation": "swatted at the fly 朝苍蝇拍去；swatted the ball away 把球拍开。",
+    "usage": "swatted away the insects；swatted a mosquito。",
+    "contrast": "swatted at 写尝试挥打，不保证拍中；swatted away 更突出把东西挥开，方向和结果由 away 补出来。",
+    "examples": [
+      [
+        "He swatted at a mosquito near his face.",
+        "他挥手拍脸边的一只蚊子。"
+      ],
+      [
+        "The goalkeeper swatted the ball away.",
+        "守门员把球拍开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swatted#English",
+      "https://www.etymonline.com/word/swat"
+    ]
+  },
+  {
+    "word": "swatting",
+    "ipa": "英 /ˈswɒtɪŋ/；美 /ˈswɑtɪŋ/",
+    "meaning": "正在拍打、挥击；〔另一用法〕虚报警情引发武装警力出动",
+    "sense": "边走边挥手赶虫，是 swatting at insects。网络新闻里的 swatting 却常是另一回事：故意虚报警情，把警察引到别人那里。",
+    "split": "拍打动作是 swat 双写 t 加 -ing。虚报警情的 swatting 另接缩写 SWAT 的相关动词材料，不能拿拍苍蝇画面解释全部词义。",
+    "history": [
+      [
+        "方言 swat；有接旧 swap 打击义或方言 squat 的不同分析",
+        "远源未定，拟声也只是分析；旧打击义不等于现代交换义"
+      ],
+      [
+        "拍打动词 → swat 一拍；swat + -er → swatter",
+        "人物、工具尾常具体指拍苍蝇的工具"
+      ],
+      [
+        "swat + -ing → swatting；另有 SWAT 缩写相关用法",
+        "普通拍打的动作形式；虚报警情义有另一条近源"
+      ]
+    ],
+    "explanation": "swatting at flies 挥手拍苍蝇；a swatting incident 一起虚报警情引发出警的事件。",
+    "usage": "keep swatting away insects；reports of swatting。",
+    "contrast": "小写 swatting 在新闻中可能是固定的虚报警情用法；在花园拍虫的句子里，通常仍按普通动作理解。",
+    "examples": [
+      [
+        "We spent the picnic swatting at flies.",
+        "野餐时，我们一直挥手拍苍蝇。"
+      ],
+      [
+        "The report described a swatting incident targeting a streamer.",
+        "报道描述了一起针对主播的虚报警情出警事件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swatting#English",
+      "https://www.etymonline.com/word/swat",
+      "https://www.merriam-webster.com/dictionary/swatting"
+    ]
+  },
+  {
+    "word": "swatter",
+    "ipa": "英 /ˈswɒtə/；美 /ˈswɑtɚ/",
+    "meaning": "苍蝇拍等拍打工具；拍打的人",
+    "sense": "把 swat 拍打变成“用来拍的东西”，就得到 swatter。日常说 a swatter，常是长柄带拍面的苍蝇拍。",
+    "split": "swat 双写 t 加 -er；人物、器具尾在此常具体指拍苍蝇的工具，不是 swat 加表示比较的 -er。",
+    "history": [
+      [
+        "方言 swat；有接旧 swap 打击义或方言 squat 的不同分析",
+        "远源未定，拟声也只是分析；旧打击义不等于现代交换义"
+      ],
+      [
+        "拍打动词 → swat 一拍；swat + -er → swatter",
+        "人物、工具尾常具体指拍苍蝇的工具"
+      ],
+      [
+        "swat + -er → swatter",
+        "做拍打动作的人或工具，常指苍蝇拍"
+      ]
+    ],
+    "explanation": "a fly swatter 苍蝇拍；a plastic swatter 塑料苍蝇拍。",
+    "usage": "reach for a swatter 伸手拿苍蝇拍；an insect swatter。",
+    "contrast": "swatter 常供拍打虫子，net 常供网住虫子；拍击和捕捉的动作不同，工具形状也通常不同。",
+    "examples": [
+      [
+        "There is a fly swatter hanging by the door.",
+        "门边挂着一个苍蝇拍。"
+      ],
+      [
+        "She reached for the swatter when a fly landed on the table.",
+        "苍蝇落到桌上时，她伸手去拿苍蝇拍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swatter#English",
+      "https://www.etymonline.com/word/swatter"
+    ]
+  },
+  {
+    "word": "swatters",
+    "ipa": "英 /ˈswɒtəz/；美 /ˈswɑtɚz/",
+    "meaning": "苍蝇拍等拍打工具〔复数〕；拍打者",
+    "sense": "杂货店里挂着一排苍蝇拍，可以叫 swatters。-er 指工具，最后的 -s 再把一个工具变成多个。",
+    "split": "swatter + -s，读 /z/；内层 swat 双写 t 加 -er。现代新闻中由 SWAT 衍生的同形人物用法须另按上下文理解。",
+    "history": [
+      [
+        "方言 swat；有接旧 swap 打击义或方言 squat 的不同分析",
+        "远源未定，拟声也只是分析；旧打击义不等于现代交换义"
+      ],
+      [
+        "拍打动词 → swat 一拍；swat + -er → swatter",
+        "人物、工具尾常具体指拍苍蝇的工具"
+      ],
+      [
+        "swatter + -s → swatters",
+        "多个拍打工具或做动作的人"
+      ]
+    ],
+    "explanation": "plastic swatters 塑料苍蝇拍；fly swatters 苍蝇拍。",
+    "usage": "sell swatters；a pack of swatters。",
+    "contrast": "swatters 是工具或人物，swats 是拍打动作的复数、动词三单；-er 这一层改变了词指向的对象。",
+    "examples": [
+      [
+        "The shop sells fly swatters near the cleaning supplies.",
+        "商店把苍蝇拍放在清洁用品附近卖。"
+      ],
+      [
+        "We bought two plastic swatters for the kitchen.",
+        "我们给厨房买了两个塑料苍蝇拍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/swatters#English",
+      "https://www.etymonline.com/word/swatter"
+    ]
+  },
+  {
+    "word": "flaps",
+    "ipa": "/flæps/",
+    "meaning": "扑动、拍动〔第三人称单数〕；盖片、翼片等〔复数〕",
+    "sense": "鸟的翅膀一上一下拍，是 it flaps；口袋、信封上能翻开的那片盖子，则是 flaps。用可翻动、垂搭的片来理解实物义。",
+    "split": "flap + -s，/p/ 后读 /s/；名词复数和动词三单同形。基础词大概拟声，片状物义有自己的发展，不全指鸟翅。",
+    "history": [
+      [
+        "较早 flap 动词、名词可能拟声",
+        "扑动、拍打及一拍的声感"
+      ],
+      [
+        "松松拍动 → 可翻动的片、盖片等名词义",
+        "现代 flaps 要分动作与实物，不把全部意义都定成同一派生顺序"
+      ],
+      [
+        "flap + -s → flaps",
+        "它扑动；多片盖片、翼片等"
+      ]
+    ],
+    "explanation": "flaps its wings 扑动翅膀；pocket flaps 口袋盖；wing flaps 飞机襟翼。",
+    "usage": "flaps in the wind 在风里拍动；the flaps of an envelope。",
+    "contrast": "flaps 可说物体自身拍动，也可说把翅膀等拍起来；一个 -s 外形不能独自决定它是名词还是动词。",
+    "examples": [
+      [
+        "The pigeon flaps its wings before taking off.",
+        "鸽子起飞前扑动翅膀。"
+      ],
+      [
+        "The jacket has two large pocket flaps.",
+        "这件外套有两个大口袋盖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flaps#English",
+      "https://www.etymonline.com/word/flap"
+    ]
+  },
+  {
+    "word": "flapped",
+    "ipa": "/flæpt/",
+    "meaning": "扑动、拍动了；松松地拍打了",
+    "sense": "风吹进来，晾着的衣服来回拍；鸟张开翅膀扑几下，过去发生了就是 flapped。动作有来回拍打的节奏。",
+    "split": "flap 双写 p 加完整 -ed，/p/ 后读 /t/；没有新增音节。",
+    "history": [
+      [
+        "较早 flap 动词、名词可能拟声",
+        "扑动、拍打及一拍的声感"
+      ],
+      [
+        "松松拍动 → 可翻动的片、盖片等名词义",
+        "现代 flaps 要分动作与实物，不把全部意义都定成同一派生顺序"
+      ],
+      [
+        "flap + -ed → flapped",
+        "过去拍动、扑动，双写末尾 p"
+      ]
+    ],
+    "explanation": "flapped in the wind 在风中拍动；flapped its wings 扑动翅膀。",
+    "usage": "flapped against the window 拍打窗户；flapped open 翻动着打开。",
+    "contrast": "flapped 常是松动部分反复拍，waved 范围更广，也可指人有意挥手；不要把旗子 flapped 自动理解为有人挥旗。",
+    "examples": [
+      [
+        "The sheets flapped in the strong wind.",
+        "床单在大风中来回拍动。"
+      ],
+      [
+        "The bird flapped its wings and rose from the ground.",
+        "鸟扑动翅膀，从地上飞了起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flapped#English",
+      "https://www.etymonline.com/word/flap"
+    ]
+  },
+  {
+    "word": "flapping",
+    "ipa": "/ˈflæpɪŋ/",
+    "meaning": "正在扑动、拍打的；扑扑的拍动",
+    "sense": "帐篷有一角没绑牢，风一吹就来回拍，叫 flapping；手臂、翅膀也能这样上下拍动。",
+    "split": "flap 双写 p 加 -ing；可作动作形式或修饰性质，不是多出一个独立词根 flapp。",
+    "history": [
+      [
+        "较早 flap 动词、名词可能拟声",
+        "扑动、拍打及一拍的声感"
+      ],
+      [
+        "松松拍动 → 可翻动的片、盖片等名词义",
+        "现代 flaps 要分动作与实物，不把全部意义都定成同一派生顺序"
+      ],
+      [
+        "flap + -ing → flapping",
+        "扑动、松动部分来回拍打的过程"
+      ]
+    ],
+    "explanation": "flapping wings 扑动的翅膀；flapping fabric 拍动的布。",
+    "usage": "a flapping sound 扑扑声；flapping in the breeze。",
+    "contrast": "flapping wings 明确拍动翅膀，gliding 常是展开翅膀滑翔；鸟飞着不等于翅膀一直在拍。",
+    "examples": [
+      [
+        "We woke to the sound of the tent flapping in the wind.",
+        "我们被帐篷在风中拍动的声音弄醒。"
+      ],
+      [
+        "The child ran around with arms flapping like wings.",
+        "孩子像扑翅膀一样上下拍着双臂跑来跑去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flapping#English",
+      "https://www.etymonline.com/word/flap"
+    ]
+  },
+  {
+    "word": "blotch",
+    "ipa": "英 /blɒtʃ/；美 /blɑtʃ/",
+    "meaning": "一大块不规则色斑、污斑；使斑驳",
+    "sense": "本来均匀的表面上出现一块形状不规则的颜色，像墨迹晕成一片，就是 a blotch。重点是斑块的样子，不先猜原因。",
+    "split": "可能由 blot 斑点延伸，受 botch、patch 等影响，来源未全定；早期名词、动词记录接近。不能把 -ch 认作通用斑点后缀。",
+    "history": [
+      [
+        "blotch 可能联系 blot 斑点，受 botch、patch 等影响",
+        "具体来源未全定"
+      ],
+      [
+        "不规则色斑名词、动词 → 现代分词与 blotchy",
+        "按对象可写皮肤、纸面、涂层等斑驳"
+      ]
+    ],
+    "explanation": "a blotch of ink 一块墨斑；a red blotch 一块红斑；blotch the surface 使表面斑驳。",
+    "usage": "a dark blotch；an irregular blotch。",
+    "contrast": "blotch 常让人看到较大、不规则的一块，dot 常是小点；只凭 blotch 这个词本身不能判断斑块成因。",
+    "examples": [
+      [
+        "A large blotch of ink covered the corner of the page.",
+        "一大块墨斑盖住了页角。"
+      ],
+      [
+        "There was a dark blotch on the pale wall.",
+        "浅色墙面上有一块深色斑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blotch#English",
+      "https://www.etymonline.com/word/blotch"
+    ]
+  },
+  {
+    "word": "blotches",
+    "ipa": "英 /ˈblɒtʃɪz/；美 /ˈblɑtʃɪz/",
+    "meaning": "不规则色斑、污斑〔复数〕；使斑驳〔第三人称单数〕",
+    "sense": "墙上不是均匀掉色，而是一块深一块浅，可以把那些不规则斑块叫 blotches。先数得出一块块，才用这个复数。",
+    "split": "blotch + -es，/tʃ/ 后读 /ɪz/；名词复数也与动词三单同形。",
+    "history": [
+      [
+        "blotch 可能联系 blot 斑点，受 botch、patch 等影响",
+        "具体来源未全定"
+      ],
+      [
+        "不规则色斑名词、动词 → 现代分词与 blotchy",
+        "按对象可写皮肤、纸面、涂层等斑驳"
+      ],
+      [
+        "blotch + -es → blotches",
+        "多块不规则斑点，或它使表面斑驳"
+      ]
+    ],
+    "explanation": "blotches of paint 一块块油漆斑；red blotches 红斑。",
+    "usage": "dark blotches on the wall；uneven blotches。",
+    "contrast": "blotches 强调一块块斑，streaks 更像一条条拖痕；面积、方向感不同。",
+    "examples": [
+      [
+        "Dark blotches covered the old wallpaper.",
+        "旧墙纸上布满深色斑块。"
+      ],
+      [
+        "The paint had dried in uneven blotches.",
+        "油漆干后，留下了一块块不均匀的色斑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blotches#English",
+      "https://www.etymonline.com/word/blotch"
+    ]
+  },
+  {
+    "word": "blotched",
+    "ipa": "英 /blɒtʃt/；美 /blɑtʃt/",
+    "meaning": "被弄得斑驳；带不规则色斑的",
+    "sense": "画纸上几滴水把颜色晕开，变成一片片色斑，就可以说 blotched。它把不均匀斑块的结果呈现出来。",
+    "split": "blotch + 完整 -ed，/tʃ/ 后读 /t/；可作动词过去、分词，也作形容词写表面已有斑块。",
+    "history": [
+      [
+        "blotch 可能联系 blot 斑点，受 botch、patch 等影响",
+        "具体来源未全定"
+      ],
+      [
+        "不规则色斑名词、动词 → 现代分词与 blotchy",
+        "按对象可写皮肤、纸面、涂层等斑驳"
+      ],
+      [
+        "blotch + -ed → blotched",
+        "被斑块弄得不均匀，或带斑块的状态"
+      ]
+    ],
+    "explanation": "blotched with paint 沾满斑块状油漆；blotched paper 斑驳的纸。",
+    "usage": "a blotched surface；blotched with red。",
+    "contrast": "blotched 是呈斑块，striped 是带条纹；同样不止一种颜色，图案却不同。",
+    "examples": [
+      [
+        "The paper was blotched with spilled ink.",
+        "纸被洒出的墨水弄得斑斑点点。"
+      ],
+      [
+        "Her apron was blotched with red paint.",
+        "她的围裙上沾着一块块红油漆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blotched#English",
+      "https://www.etymonline.com/word/blotch"
+    ]
+  },
+  {
+    "word": "blotching",
+    "ipa": "英 /ˈblɒtʃɪŋ/；美 /ˈblɑtʃɪŋ/",
+    "meaning": "形成不规则斑块；斑驳现象",
+    "sense": "给木板涂色，本想涂匀，却有的地方吃色深、有的浅，这种不规则斑驳可以叫 blotching。",
+    "split": "blotch + -ing；可说形成斑块的动作、过程，也可把不均匀着色现象当作名词来谈。",
+    "history": [
+      [
+        "blotch 可能联系 blot 斑点，受 botch、patch 等影响",
+        "具体来源未全定"
+      ],
+      [
+        "不规则色斑名词、动词 → 现代分词与 blotchy",
+        "按对象可写皮肤、纸面、涂层等斑驳"
+      ],
+      [
+        "blotch + -ing → blotching",
+        "形成或造成不规则斑块的过程、现象"
+      ]
+    ],
+    "explanation": "prevent blotching 避免着色斑驳；uneven blotching 不均匀的斑块现象。",
+    "usage": "blotching on wood 木材着色斑驳；reduce blotching。",
+    "contrast": "blotching 是斑块式不均匀，fading 是颜色褪淡；涂层可能没褪色却已一块深一块浅。",
+    "examples": [
+      [
+        "The finish showed blotching on the softer parts of the wood.",
+        "涂层在木材较软的部位出现了斑驳。"
+      ],
+      [
+        "A test on scrap wood helped us avoid blotching.",
+        "先在废木料上试涂，帮助我们避免着色斑驳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blotching#English",
+      "https://www.etymonline.com/word/blotch"
+    ]
+  },
+  {
+    "word": "blotchy",
+    "ipa": "英 /ˈblɒtʃi/；美 /ˈblɑtʃi/",
+    "meaning": "一块块斑驳的；带不均匀色斑的",
+    "sense": "墙面涂得有的深、有的浅，脸上红一块白一块，都能说 blotchy。它描述颜色分布不均，不直接说明为什么这样。",
+    "split": "blotch 名词 + -y；基础词可能联系 blot 并受相近词影响，但现代这一层清楚表示有不规则斑块的性质。",
+    "history": [
+      [
+        "blotch 可能联系 blot 斑点，受 botch、patch 等影响",
+        "具体来源未全定"
+      ],
+      [
+        "不规则色斑名词、动词 → 现代分词与 blotchy",
+        "按对象可写皮肤、纸面、涂层等斑驳"
+      ],
+      [
+        "blotch + -y → blotchy",
+        "带不规则斑块、颜色斑驳的性质"
+      ]
+    ],
+    "explanation": "blotchy paintwork 斑驳的漆面；blotchy skin 颜色不均的皮肤。",
+    "usage": "red and blotchy 红一块白一块的；a blotchy surface。",
+    "contrast": "blotchy 常是大块、不均匀的斑，freckled 则指带雀斑；形态与常用搭配各自有区别。",
+    "examples": [
+      [
+        "The paint dried to a blotchy finish.",
+        "油漆干后，表面一块深一块浅。"
+      ],
+      [
+        "Her face was red and blotchy after crying.",
+        "她哭过后，脸红一块白一块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blotchy#English",
+      "https://www.etymonline.com/word/blotch"
+    ]
+  },
+  {
+    "word": "splat",
+    "ipa": "英 /splæt/；美 /splæt/",
+    "meaning": "啪地撞落、摔扁；啪声；溅落的一摊",
+    "sense": "熟番茄掉到地上，“啪”地摊开，声音和动作都很像 splat。这个词尤其容易让人想到湿软东西撞上表面。",
+    "split": "现代撞落、啪声义通常分析为拟声；更早同形 splatten 摊开、剖开材料可能另有关联，不能把关系未定的形式都画成确定祖先。",
+    "history": [
+      [
+        "现代 splat：模仿湿软物啪地撞落声",
+        "拟声分析，不硬接成某个现代词的普通前后缀"
+      ],
+      [
+        "撞落、声响 → 名词斑、啪声及现代动作形式",
+        "更早同形摊开材料的关系不确定"
+      ]
+    ],
+    "explanation": "land with a splat 啪地落下；go splat 啪地摔扁；a splat of paint 一摊溅落油漆。",
+    "usage": "a wet splat；splat against the wall 啪地撞到墙上。",
+    "contrast": "splat 突出撞上去啪地摊开，splash 突出液体溅起；一枚软番茄摔落可能既有 splat 声又有汁水 splash。",
+    "examples": [
+      [
+        "The tomato hit the floor with a splat.",
+        "番茄啪地摔在地上。"
+      ],
+      [
+        "A splat of paint landed on my shoe.",
+        "一摊溅出的油漆落到我的鞋上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/splat#English",
+      "https://www.etymonline.com/word/splat"
+    ]
+  },
+  {
+    "word": "splats",
+    "ipa": "/splæts/",
+    "meaning": "啪地撞落〔第三人称单数〕；啪声、溅落斑〔复数〕",
+    "sense": "一滴厚油漆啪地落到桌上，是 it splats；桌面留下的一摊摊油漆，也可以叫 splats。",
+    "split": "splat + -s，/t/ 后读 /s/；动词三单、名词复数同形，现代这一组通常按拟声理解。",
+    "history": [
+      [
+        "现代 splat：模仿湿软物啪地撞落声",
+        "拟声分析，不硬接成某个现代词的普通前后缀"
+      ],
+      [
+        "撞落、声响 → 名词斑、啪声及现代动作形式",
+        "更早同形摊开材料的关系不确定"
+      ],
+      [
+        "splat + -s → splats",
+        "它啪地撞落；多个啪声、溅落斑"
+      ]
+    ],
+    "explanation": "splats of paint 油漆溅斑；splats against the window 啪地撞到窗上。",
+    "usage": "bright splats of colour；splats on the floor。",
+    "contrast": "splats 常让人想到撞落摊开的斑，dots 只是小圆点；一个图案可以由刻意画出的点构成，而没有溅落过程。",
+    "examples": [
+      [
+        "The apron was covered in splats of yellow paint.",
+        "围裙上满是黄色油漆溅斑。"
+      ],
+      [
+        "The water balloon splats against the wall.",
+        "水气球啪地撞在墙上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/splats#English",
+      "https://www.etymonline.com/word/splat"
+    ]
+  },
+  {
+    "word": "splatted",
+    "ipa": "/ˈsplætɪd/",
+    "meaning": "啪地撞落、摔扁了",
+    "sense": "一团湿泥被扔到墙上，啪地贴住；食物从碗里滑落后摊在地上，过去发生了就是 splatted。",
+    "split": "splat 双写 t 加完整 -ed，/t/ 后读 /ɪd/，增加一个音节。",
+    "history": [
+      [
+        "现代 splat：模仿湿软物啪地撞落声",
+        "拟声分析，不硬接成某个现代词的普通前后缀"
+      ],
+      [
+        "撞落、声响 → 名词斑、啪声及现代动作形式",
+        "更早同形摊开材料的关系不确定"
+      ],
+      [
+        "splat + -ed → splatted",
+        "过去啪地撞落、摔扁，双写末尾 t"
+      ]
+    ],
+    "explanation": "splatted on the floor 啪地摔在地上；splatted against a wall 啪地撞在墙上。",
+    "usage": "splatted onto the plate；splatted on the pavement。",
+    "contrast": "splatted 比 landed 多了撞击声、摊开的画面；一片羽毛轻轻落下通常不配这种声感。",
+    "examples": [
+      [
+        "The wet mud splatted against the wall.",
+        "湿泥啪地撞到墙上。"
+      ],
+      [
+        "A spoonful of porridge splatted onto the floor.",
+        "一勺粥啪地掉到地上，摊开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/splatted#English",
+      "https://www.etymonline.com/word/splat"
+    ]
+  },
+  {
+    "word": "splatting",
+    "ipa": "/ˈsplætɪŋ/",
+    "meaning": "正在啪地撞落、摊开",
+    "sense": "雨点、颜料或湿泥一团团撞上表面，强调那种啪地摊开的声感，可以用 splatting。",
+    "split": "splat 双写 t 加 -ing；拟声动作词的现代过程形式，不是固定表示暴力或损坏的后缀。",
+    "history": [
+      [
+        "现代 splat：模仿湿软物啪地撞落声",
+        "拟声分析，不硬接成某个现代词的普通前后缀"
+      ],
+      [
+        "撞落、声响 → 名词斑、啪声及现代动作形式",
+        "更早同形摊开材料的关系不确定"
+      ],
+      [
+        "splat + -ing → splatting",
+        "啪地撞落、摊开的过程"
+      ]
+    ],
+    "explanation": "splatting against the window 啪啪撞在窗上；splatting onto the floor 啪啪落在地上。",
+    "usage": "paint splatting everywhere 油漆到处啪地溅落；a splatting sound。",
+    "contrast": "splatting 写撞到表面的啪声，dripping 更像液体一滴滴往下掉；二者能出现在同一事件的不同阶段。",
+    "examples": [
+      [
+        "We heard large raindrops splatting against the window.",
+        "我们听见大雨点啪啪打在窗上。"
+      ],
+      [
+        "The children sent wet paint splatting onto the paper.",
+        "孩子们把湿油漆啪地甩落到纸上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/splatting#English",
+      "https://www.etymonline.com/word/splat"
+    ]
+  },
+  {
+    "word": "smudgy",
+    "ipa": "/ˈsmʌdʒi/",
+    "meaning": "有污痕的；被蹭糊、晕开的",
+    "sense": "铅笔字被手掌蹭过，边缘糊成灰灰一片，就是 smudgy。它强调脏痕、晕开的模糊感，不只是整体颜色暗。",
+    "split": "smudge 去不发音 e 加 -y。smudge 较早 smogen 弄脏、染污的远源未定，有邻近日耳曼材料可比较。",
+    "history": [
+      [
+        "较早 smogen 等 → smudge",
+        "弄脏、染污；远源未定"
+      ],
+      [
+        "smudge + -y → smudgy",
+        "带污痕、被蹭糊的性质"
+      ]
+    ],
+    "explanation": "smudgy pencil marks 被蹭糊的铅笔痕；smudgy fingerprints 模糊的手印。",
+    "usage": "smudgy glasses 镜片有污痕的眼镜；a smudgy drawing。",
+    "contrast": "smudgy 突出污痕、晕蹭导致的模糊，blurry 范围更广，也可能只是镜头没对焦。",
+    "examples": [
+      [
+        "The page was covered in smudgy pencil marks.",
+        "纸上满是被蹭糊的铅笔痕。"
+      ],
+      [
+        "I could barely see through my smudgy glasses.",
+        "眼镜片上有污痕，我几乎看不清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smudgy#English",
+      "https://www.etymonline.com/word/smudge"
+    ]
+  },
+  {
+    "word": "smeary",
+    "ipa": "英 /ˈsmɪəri/；美 /ˈsmɪri/",
+    "meaning": "满是涂抹痕、油痕的；糊成一片的",
+    "sense": "手指带油擦过玻璃，留下一道道黏糊油痕，叫 smeary；妆、颜料被抹开，也可以呈现这种样子。",
+    "split": "smear + -y；smear 接古英语涂油、涂抹材料，较早名动词还有油脂相关来源。此形容词写涂抹痕迹的性质。",
+    "history": [
+      [
+        "古英语 smerian 等涂油、涂抹 → smear",
+        "在表面抹开油脂、黏稠物的动作"
+      ],
+      [
+        "smear + -y → smeary",
+        "沾有抹开的痕迹、油痕的性质"
+      ]
+    ],
+    "explanation": "smeary windows 满是抹痕的窗；smeary makeup 被抹花的妆。",
+    "usage": "smeary fingerprints 油糊糊的手印；a smeary surface。",
+    "contrast": "smeary 常偏抹开的油、颜料等痕，smudgy 常偏蹭糊的污痕；实际场景可重叠，没有绝对材料分界。",
+    "examples": [
+      [
+        "The window was smeary with greasy fingerprints.",
+        "窗上满是油糊糊的手印。"
+      ],
+      [
+        "She wiped off the smeary makeup around her eyes.",
+        "她擦掉眼周抹花的妆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smeary#English",
+      "https://www.etymonline.com/word/smear"
+    ]
+  }
+]

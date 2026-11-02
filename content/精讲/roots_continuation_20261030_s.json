@@ -1,0 +1,122 @@
+[
+  {
+    "id": "B3036",
+    "meaning": "冰、冰冷、破冰与冰柱",
+    "core": "ICE：实物冰层，也能比喻冷淡和僵局",
+    "image": "ice → icy、iced 先讲状态与处理，再看 icebreaker、icicle；现有 icebox、icehouse 共享。",
+    "intro": "古英语冰词延续至今。icicle 后部是旧本族冰柱词，不把相似结尾一律当拉丁小称；冷门人名式、地名式扩展暂略。",
+    "forms": "ice + -y → icy；ice + -ed → iced；ice + breaker；旧 is + ikel → icicle；ice + box/house。",
+    "branches": [
+      [
+        "基本状态与处理",
+        "ice · icy · iced"
+      ],
+      [
+        "破冰与冰柱",
+        "icebreaker · icicle"
+      ],
+      [
+        "储冰设施",
+        "icebox · icehouse"
+      ]
+    ],
+    "contrasts": "icy 冰冷与 iced 被处理有别；iced cake 常说糖霜；icicle 不是 ice 加拉丁 -icle。",
+    "practice": "We drank iced tea while the last icicles melted outside.\n\n我们喝着冰茶，窗外最后几根冰柱正在融化。",
+    "words": [
+      "ice",
+      "icy",
+      "iced",
+      "icebreaker",
+      "icicle",
+      "icebox",
+      "icehouse"
+    ],
+    "exclude": {
+      "ice-out": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-saw": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-ice": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-cold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-ice": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-jack": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-calm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "iceland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "iceman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2983",
+    "meaning": "成功进展的旧义；现代速度与加快",
+    "core": "SPEED：今天看多快，历史也曾说进展顺利",
+    "image": "speed → speedy；speeding、speeder 放一起，再按赛道、快艇和测量复合词扩展。",
+    "intro": "古英语已有成功、进展词族，快速义在早期英语中出现，现代 speed 还泛指速率，快慢都能有。过冷俚语和专名先略。",
+    "forms": "speed → speedy、speeding、speeder；speed + way/boat；air/light + speed；speed + -o- + meter。\n\n本族成功、进展材料后来以速度义为主，复数和三单同形。",
+    "branches": [
+      [
+        "基础、性质、行为与人物",
+        "speed · speedy · speeding · speeder"
+      ],
+      [
+        "交通与测量",
+        "speedway · speedboat · airspeed · lightspeed · speedometer"
+      ],
+      [
+        "已有数字场景",
+        "speedrun"
+      ],
+      [
+        "speed → speeds：前进得多快",
+        "speed · speeds"
+      ]
+    ],
+    "contrasts": "speed 不必快；speeding 常超速；speedway 多赛道；speedometer 是速度表。",
+    "practice": "The speedboat maintained a steady speed as it crossed the bay.\n\n快艇以稳定速度穿过海湾。",
+    "words": [
+      "speed",
+      "speedy",
+      "speeding",
+      "speeder",
+      "speedway",
+      "speedboat",
+      "airspeed",
+      "lightspeed",
+      "speedometer",
+      "speedrun",
+      "speeds"
+    ],
+    "exclude": {
+      "speed-dial": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "speedster": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "speedball": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3721",
+    "meaning": "父亲的亲昵称呼与继亲",
+    "core": "DAD：亲近口语；DADDY：更亲昵；STEPDAD：继父",
+    "image": "dad 后接 daddy，再看 stepdad 与已有 granddad，分清亲昵后缀和亲属前部。",
+    "intro": "dad 可能与儿童发音有关，具体早源未定。step- 是旧继亲材料，grand- 则接上一代。",
+    "forms": "dad + -y → daddy；step- + dad；grand- + dad → granddad。",
+    "branches": [
+      [
+        "基本称呼与亲昵",
+        "dad · daddy"
+      ],
+      [
+        "家庭关系",
+        "stepdad · granddad"
+      ]
+    ],
+    "contrasts": "dad 与 father 的语体；daddy 的 -y 是亲昵；stepdad 继父不必等于收养父亲。",
+    "practice": "Dad and Granddad helped the child make a card for his stepdad.\n\n爸爸和爷爷帮孩子给继父做了一张卡片。",
+    "words": [
+      "dad",
+      "daddy",
+      "stepdad",
+      "granddad"
+    ],
+    "exclude": {
+      "insta-dad": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

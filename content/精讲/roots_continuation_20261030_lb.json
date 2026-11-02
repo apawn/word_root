@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B4398",
+    "meaning": "弹指般的快动作，走向翻转、快速浏览和态度转向",
+    "core": "FLIP：轻快地翻过去、拨一下",
+    "image": "flip → flipper；backflip 指向后翻；flipside 是另一面。",
+    "intro": "物件翻面、手拨开关、想法反转，可以共享翻一下的形象。鳍状肢和脚蹼再按动作、形状命名。",
+    "forms": "fillip 等 → flip；-er 结构、器具，back 向后，side 一面。\n\nflip 的远源有拟声、flap 变体或 fillip 缩合等分析。现代双写 p，加完整 -ed，/p/ 后读 /t/，翻页、翻转、投硬币等很常用。",
+    "branches": [
+      [
+        "基础与相应结构",
+        "flip · flipper"
+      ],
+      [
+        "方向与另一面",
+        "backflip · flipside"
+      ],
+      [
+        "flip → flipped：轻弹、翻转",
+        "flipped"
+      ]
+    ],
+    "contrasts": "flip through 是快速翻看；flipper 不只指人；轻率的 flip 形容词另接 flippant 短化。",
+    "practice": "She flipped the card to see its flipside.\n\n她把卡片翻过去，看它的另一面。",
+    "words": [
+      "flip",
+      "flipper",
+      "backflip",
+      "flipside",
+      "flipped"
+    ],
+    "exclude": {
+      "flipboard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flippy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4279",
+    "meaning": "最里面、深入相识的旧形象，走向亲密、私人与含蓄透露",
+    "core": "INTIMATE：让人接近内层，也能说深入掌握细节",
+    "image": "intimate → intimacy、intimately；intimate 动词读音与形容词不同。",
+    "intro": "内层可以是人的情感，也可以是城市、系统的细节。按对象解释，亲密就不会只剩一种关系。",
+    "forms": "intimus → intimāre、intimātus → intimate；-acy 状态名词，-ly 方式；形容词 /ət/、动词 /eɪt/。",
+    "branches": [
+      [
+        "性质、人物与透露动作",
+        "intimate"
+      ],
+      [
+        "关系、状态与方式",
+        "intimacy · intimately"
+      ]
+    ],
+    "contrasts": "intimate 不只性关系；intimacy 不等于 privacy；intimately familiar 可说深入知识。",
+    "practice": "Their intimate conversations gradually built a sense of intimacy.\n\n亲密的交谈逐渐让他们建立起亲近感。",
+    "words": [
+      "intimate",
+      "intimacy",
+      "intimately"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2117",
+    "meaning": "对抗、退回、离开等旧构词用法",
+    "core": "WITH：在这些词里看对抗、留住或向后拉",
+    "image": "withstand 抵挡；withhold 留着不给；withdraw 往回拉 → withdrawal、withdrawn。",
+    "intro": "现代 with 最熟悉的是和……一起，但这个旧前缀保留另一套意义。逐个看 stand、hold、draw 的动作，就能形成不同画面。",
+    "forms": "with- 旧对抗、退回意义 + stand 站、hold 持、draw 拉；-al 行为名词，withdrawn 过去分词。",
+    "branches": [
+      [
+        "对抗与扣留",
+        "withstand · withhold"
+      ],
+      [
+        "撤回、退出与相应名词、状态",
+        "withdraw · withdrawal · withdrawn"
+      ]
+    ],
+    "contrasts": "with- 不取一起；withdraw 是动作，withdrawal 是行为名词；withdrawn 还可形容少交往。",
+    "practice": "They withdrew the proposal but did not withhold their support for the project.\n\n他们撤回提案，却仍然支持这个项目。",
+    "words": [
+      "withstand",
+      "withhold",
+      "withdraw",
+      "withdrawal",
+      "withdrawn"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3888",
+    "meaning": "沸腾的动作、过程与按功能命名的设备",
+    "core": "BOIL：液体受热沸腾；BOILER 命名相应供热设备",
+    "image": "boil → boiling、boiler。",
+    "intro": "沸腾、极热的比喻和锅炉设备分层理解；现代设备名称不必把所有运行状态都写在字面上。",
+    "forms": "bullīre → boillir → boil；-ing 过程、状态，-er 设备。",
+    "branches": [
+      [
+        "动作、过程与设备",
+        "boil · boiling · boiler"
+      ]
+    ],
+    "contrasts": "boiling 常形容很热；boiler 具体功能看设备；boil 的皮肤疖子义另有旧来源。",
+    "practice": "The boiler heats water while the kettle boils water for tea.\n\n供热设备加热水，水壶则烧水泡茶。",
+    "words": [
+      "boil",
+      "boiling",
+      "boiler"
+    ],
+    "exclude": {
+      "glue-boiler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3858",
+    "meaning": "身体发热的状态，借来描述热潮、亢奋与忙乱",
+    "core": "FEVER：身体的热，也成为情绪、群体活动的热",
+    "image": "fever → feverish、fevered。",
+    "intro": "医学发热与比喻热潮先分开，再看形容词是说人的感受，还是描述活动、想象的强烈程度。",
+    "forms": "febris → 古英语、法语相关路径 → fever；-ish 有此性质、像，-ed 状态。",
+    "branches": [
+      [
+        "身体状态与热潮",
+        "fever"
+      ],
+      [
+        "性质、感受与激动状态",
+        "feverish · fevered"
+      ]
+    ],
+    "contrasts": "fever 不单独说明病因；feverish activity 是比喻；fevered speculation 常说狂热猜测。",
+    "practice": "Football fever brought feverish excitement to the town.\n\n足球热让小镇充满狂热兴奋。",
+    "words": [
+      "fever",
+      "feverish",
+      "fevered"
+    ],
+    "exclude": {
+      "fever-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

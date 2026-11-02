@@ -1,0 +1,128 @@
+[
+  {
+    "id": "B3459",
+    "meaning": "观点用理由交锋，也可内心权衡",
+    "core": "DEBATE：两种看法拉开来，各自拿理由说话",
+    "image": "debate → debatable、debater，行为、可商榷性质、人物按关系相邻。",
+    "intro": "历史有争斗背景，现代 debate 不要求动手或骂人；that is debatable 可以委婉表达不同意。",
+    "forms": "battuere → batre、debatre 经法语英语 → debate；法语 debatable → debatable；debate + -er。\n\n法语 debatre、debat 接击打、争斗词族，现代也可说自己权衡。\n\ndebate 接古法语 debatre 争论、争斗，含加强性 de- 与 batre 打。现代去 e 加完整 -ing。",
+    "branches": [
+      [
+        "辩论、争议与辩手",
+        "debate · debatable · debater"
+      ],
+      [
+        "debate → debates：观点用理由来回交锋",
+        "debate · debates"
+      ],
+      [
+        "de- + bat- 击打 → debating",
+        "debating"
+      ]
+    ],
+    "contrasts": "debate/argue 语气依场景；debatable 非已证伪；debater/moderator 辩手主持；善辩非永远正确。",
+    "practice": "The debater explained why the conclusion was still debatable.\n\n辩手解释了为何结论仍值得商榷。",
+    "words": [
+      "debate",
+      "debatable",
+      "debater",
+      "debates",
+      "debating"
+    ],
+    "exclude": {
+      "self-debate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4046",
+    "meaning": "造成不利变化与有害、无害的性质",
+    "core": "HARM：让某人、某物受损，再看有没有这种影响",
+    "image": "harm → harmful、harmless，两种相反性质放在基础损害旁边。",
+    "intro": "harm 不只身体伤口，也可环境、利益受损；-ful 不一定褒义，-less 也不一定贬义。",
+    "forms": "hearm 经中古英语 → harm；harm + -ful/-less。",
+    "branches": [
+      [
+        "损害与相反性质",
+        "harm · harmful · harmless"
+      ]
+    ],
+    "contrasts": "harm/hurt 侧重；harmful/harmless 相反；harmless/useless 无害无用不同；词尾不能代替具体影响判断。",
+    "practice": "The test distinguished harmful substances from harmless ones.\n\n测试区分了有害物质与无害物质。",
+    "words": [
+      "harm",
+      "harmful",
+      "harmless"
+    ],
+    "exclude": {
+      "self-harm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "harmer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3395",
+    "meaning": "旗帜信号、标记与另一条板石词源",
+    "core": "FLAG：旗是让人看见，石板的 flag 另有历史",
+    "image": "flag → flagpole、flagstaff、flagship；flagstone 单列板石来源，衰弱动词也交代旧形式。",
+    "intro": "系统标记不等于删除，flagging enthusiasm 是热情减退；flagstone 不能为了同拼写说成石头旗。",
+    "forms": "flagge 等 → 旗 flag → 标记动词；flag + pole/staff/ship；北欧 flaga 等 → 石板 flag → flagstone。\n\n旗、衰弱与石板等路径有区分；不要把一切都强行从现代旗帜派生。",
+    "branches": [
+      [
+        "旗帜、杆与代表者",
+        "flag · flagpole · flagstaff · flagship"
+      ],
+      [
+        "石板的独立词义来源",
+        "flagstone"
+      ],
+      [
+        "flag → flags：旗帜、标记与精力衰退的同形词",
+        "flag · flags"
+      ]
+    ],
+    "contrasts": "flag a record 非必然删除；flagpole/flagstaff 都可旗杆；flagship 借代表地位；flagstone 石板非旗帜。",
+    "practice": "A flagpole stood beside the flagstone path.\n\n旗杆立在石板小径旁。",
+    "words": [
+      "flag",
+      "flagpole",
+      "flagstaff",
+      "flagship",
+      "flagstone",
+      "flags"
+    ],
+    "exclude": {
+      "flag-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flag-waving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flag-bearer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "flag-waver": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3786",
+    "meaning": "烹调的地方，到小厨房与厨房器物",
+    "core": "KITCHEN：先有做饭空间，再看空间大小、里面的器物",
+    "image": "kitchen → kitchenette、kitchenware；房间、小型房间、用品类别放到一起。",
+    "intro": "cuisine 与 kitchen 同族不同借词路径，现代常说菜系与房间；kitchenware 不可数总称，kitchenette 小称。",
+    "forms": "coquina、cocina 等早期借入 → cycene → kitchen；kitchen + -ette；kitchen + ware。\n\n拉丁烹调处词较早借入日耳曼语，经古英语延续。",
+    "branches": [
+      [
+        "厨房、小厨房与器物总称",
+        "kitchen · kitchenette · kitchenware"
+      ],
+      [
+        "kitchen → kitchens：烹调空间",
+        "kitchen · kitchens"
+      ]
+    ],
+    "contrasts": "kitchen/cuisine 场所风格；kitchenette/kitchenware 小空间与器物类；-ette 此处小称，ware 非 where。",
+    "practice": "The kitchenette came with basic kitchenware.\n\n简易厨房配有基本厨具。",
+    "words": [
+      "kitchen",
+      "kitchenette",
+      "kitchenware",
+      "kitchens"
+    ],
+    "exclude": {
+      "kitchen-boy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

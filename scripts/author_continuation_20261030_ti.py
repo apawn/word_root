@@ -1,0 +1,111 @@
+"""Common agents, their bases, and genuine borrowing histories."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'A1697':dict(words=['rob','robber','stalk','stalker','compile','compiler','slay','slayer','dye','dyer','golf','golfer','carve','carver','voyage','voyager'],label='动作与实施动作的人：抢夺、追踪、编纂、染色与雕刻',note='-er 常把动作联系到实施者，但历史不完全相同：robber、compiler、voyager 等还涉及法语借词；slayer 也承接较早人物名词。现代拆法帮助理解，不取代各词的历史。'),
+}
+W('rob','英 /rɒb/；美 /rɑːb/','抢劫、掠夺；使失去、剥夺',
+ '从一个人、地方手里把东西夺走。镜头常对着受损的一方：rob a bank 是银行被抢，rob someone of sleep 是某人被夺走睡眠。',
+ '中古英语 robben 借自古法语 rober 抢夺；法语材料又接日耳曼语的抢掠、战利品词族。现代 rob 是一个完整基础动词。',
+ [['日耳曼语抢掠词族 → 古法语 rober','掠夺、夺取财物'],['中古英语 robben → rob','抢劫；进一步比喻剥夺某人拥有的东西']],
+ 'rob someone of something 抢走某人的某物、使某人失去某物；rob a shop 抢劫商店。rob 常把人或地点放在宾语位置。',
+ 'rob a bank；rob someone of a chance。','steal 常直接接被偷的东西：steal a bag；rob 常接人或地方：rob a passenger。两词的常用宾语视角不同。',
+ ('The thieves tried to rob a jewellery shop.','盗贼试图抢劫一家珠宝店。'),('The constant noise robbed her of sleep.','持续的噪声让她无法安睡。'),sources=['https://www.etymonline.com/word/rob','https://en.wiktionary.org/wiki/rob#English'])
+W('robber','英 /ˈrɒbə/；美 /ˈrɑːbər/','抢劫者、强盗',
+ 'rob 说抢，robber 把目光转向实施抢劫的人。故事里的拦路强盗、新闻里的银行抢劫者都能用。',
+ '英语较早 robber 与古法语 robeor 等人物名词相连；现代结构可理解为 rob + -er，书写双写 b。借词历史与英语内部的透明对应同时保留。',
+ [['古法语 rober 与 robeor 等人物形式','抢夺 → 抢夺者'],['英语 robber 与 rob 的对应','实施抢劫的人；现代拼写 rob + -er → robber']],
+ 'a bank robber 银行抢劫者；an armed robber 持械抢劫者；a gang of robbers 一伙强盗。',
+ 'a masked robber；the robber escaped。','thief 泛指偷窃者；robber 更具体联系抢劫。burglar 则突出闯入建筑行窃这一类行为。',
+ ('The bank robber wore a dark jacket.','那名银行抢劫者穿着深色夹克。'),('In the story, the travellers were stopped by robbers.','故事里，旅人被强盗拦住了。'))
+W('stalker','英 /ˈstɔːkə/；美 /ˈstɔːkər/','跟踪骚扰者；悄悄追踪猎物的人',
+ '从躲着、盯着猎物走的人，转到持续盯梢、打扰他人的人。现代日常语境常强调让被跟踪者不安的纠缠。',
+ 'stalk 悄悄追踪 + -er。人物名称较早用于猎人等，后来扩展出执意跟踪骚扰人的意思；取的是 stalk 动词分支。',
+ [['stalk 的悄悄接近、追踪动作','追着目标而尽量不惊动它'],['stalker 的人物用法','猎物追踪者；后来常说纠缠、跟踪骚扰者']],
+ 'an obsessive stalker 执意纠缠的跟踪者；a deer stalker 追踪鹿的猎人。现代孤立出现 stalker，常先想到骚扰人的义。',
+ 'a persistent stalker；identify the stalker。','stalker 和 follower 都可能跟在别人后面，但 stalker 常带隐蔽、执着、令人不安的意味；社交平台的普通关注者叫 follower。',
+ ('She blocked the stalker’s messages.','她屏蔽了那名跟踪骚扰者发来的消息。'),('The experienced stalker moved quietly through the woods.','那位经验丰富的猎物追踪者悄悄穿过树林。'),sources=['https://www.etymonline.com/word/stalker','https://en.wiktionary.org/wiki/stalker#English'])
+W('compiler','英 /kəmˈpaɪlə/；美 /kəmˈpaɪlər/','编纂者；编译器',
+ '把分散材料收集、整理成有组织的东西，做这件事的人是 compiler；计算机里则是把源代码翻译成另一种代码的程序。',
+ '较早经法语 compilour、compileur 接拉丁语 compilator 人物名词，与 compile 同族。现代可对应 compile + -er；计算机义沿用执行编译任务者的名称。',
+ [['拉丁语 compilator → 法语人物名词 → 英语 compiler','收集、编纂资料的人'],['compiler 在计算机语境的扩展','把源程序转换成目标代码的程序']],
+ 'the compiler of a dictionary 词典编纂者；a compiler error 编译器报错；a C compiler C 语言编译器。目标代码可以是机器码，也可以是其他代码形式。',
+ 'a compiler warning；the compiler of the collection。','compiler 指编译程序，编译的产物不是 compiler。把它只理解成机器码生成器也偏窄，具体目标取决于编译器。',
+ ('The compiler of the anthology selected poems from several centuries.','选集编纂者选入了跨越数百年的诗作。'),('The compiler reported an error on line ten.','编译器报告第十行有错误。'),sources=['https://www.etymonline.com/word/compiler','https://en.wiktionary.org/wiki/compiler#English'])
+W('slay','/sleɪ/','杀死〔较文学〕；表现极出色、惊艳〔俚语〕',
+ '在英雄故事里，slay 是杀死敌人、怪物；夸赞表演时，说 someone slays 则是“太出色了，震住全场”。先辨认场景和语气。',
+ '古英语 slean 有击打、杀死等义，经中古英语演变而来。击倒、压倒的比喻后来也用于令人赞叹；现代俚语中常作强烈赞美。',
+ [['古英语 slean → 中古英语相关形式','击打；以武器杀死'],['现代 slay 的文学义与比喻义','杀死；压倒性地令人赞叹、表现出色']],
+ 'slay a dragon 杀死巨龙；slay on stage 在台上表现惊艳。标准变位 slay → slew → slain；部分现代俚语用法也见规则形式 slayed。',
+ 'the hero slew the monster；slay the performance。','普通叙述死亡或杀人更常用 kill；slay 常带文学、戏剧色彩。She slays! 作为夸赞，语体很口语，不能见到 slay 就套杀死。',
+ ('In the legend, the hero slew a dragon.','传说中，英雄杀死了一条巨龙。'),('You absolutely slayed on stage tonight!','你今晚在台上简直太惊艳了！'),sources=['https://www.etymonline.com/word/slay','https://en.wiktionary.org/wiki/slay#English'])
+W('slayer','英 /ˈsleɪə/；美 /ˈsleɪər/','杀死者、诛杀者〔常见于故事、称号〕',
+ 'slay 的镜头从动作转到行动者：谁杀死了怪物，谁就被故事称作它的 slayer。这个词常带英雄叙事或戏剧感。',
+ '经中古英语 slear、sleere 等形式，承接古英语 slaga 等旧人物词；现代结构对应 slay + -er。不能把整段历史缩成近期临时加后缀。',
+ [['古英语旧人物词 → 中古英语相关形式','实施杀死动作的人'],['现代 slayer 与 slay 的对应','杀死者，尤其用于故事、称号等']],
+ 'a dragon slayer 屠龙者；the slayer of the monster 杀死怪物的人。单独 slayer 语气往往比普通 killer 更具叙事色彩。',
+ 'a legendary slayer；the monster’s slayer。','slayer 与 killer 意义相近，但 slayer 常出现在传奇、奇幻或强调性的称呼里；它不自动表示这个人正义。',
+ ('The villagers welcomed the slayer of the dragon.','村民们迎接杀死巨龙的人。'),('The story follows a young monster slayer.','故事讲述一位年轻的怪物诛杀者的经历。'),sources=['https://en.wiktionary.org/wiki/slayer#English'])
+W('dye','/daɪ/','染料；染色',
+ '让颜色进入布、线、头发等材料，把原来的颜色改掉。名词是用来染的颜色材料，动词是染这个动作。',
+ '名词接古英语 deag、deah 颜色，动词接 deagian 染色，经中古英语发展。现代 dye、die 的拼写区别后来才逐渐固定。',
+ [['古英语颜色名词与染色动词','颜色材料；使材料着色'],['中古英语相关形式 → dye','现代名词染料、动词染色']],
+ 'dye your hair 染发；dye the fabric blue 把布染蓝；natural dye 天然染料。dye → dyed → dyeing，-ing 前保留 e。',
+ 'hair dye；dye a shirt black。','dyeing 是染色，dying 是 die 的 -ing 形式，常说正在死亡。两者读音相同，拼写和来源不同。',
+ ('She used a natural dye to colour the wool.','她用天然染料给羊毛上色。'),('He dyed his hair blue for the play.','为了演出，他把头发染成了蓝色。'),sources=['https://www.etymonline.com/word/dye','https://en.wiktionary.org/wiki/dye#English'])
+W('dyer','英 /ˈdaɪə/；美 /ˈdaɪər/','染工、染色的人',
+ 'dye 是染，dyer 是把布、线等染上颜色的人。常用于纺织工艺、手工染色的语境。',
+ 'dye + -er，组合时不重复写两个 e，形成 dyer。人物后缀把染色动作转成实施者名称。',
+ [['dye 染色 + 人物后缀 -er','从动作转向做这件事的人'],['dyer 的职业、工艺用法','染工；从事染色的人']],
+ 'a skilled dyer 熟练的染工；a textile dyer 纺织品染工；natural dyers 使用天然材料染色的人。',
+ 'a wool dyer；the dyer’s workshop。','dye 是染料或染色，dyer 是人。dry cleaner 是干洗店或干洗业者，也不等于 dyer。',
+ ('The dyer tested the colour on a small piece of cloth.','染工先在一小块布上试了颜色。'),('Local dyers used plants to colour the yarn.','当地染工用植物给纱线上色。'),sources=['https://en.wiktionary.org/wiki/dyer#English'])
+W('golf','英 /ɡɒlf/；美 /ɡɑːlf/','高尔夫球运动；打高尔夫球',
+ '用球杆把小球打向远处的洞，以完成各洞所用杆数比较成绩。golf 既能叫这项运动，也能说参加它。',
+ '英语接苏格兰语 gouf、golf 等旧形式，通常认为与中古荷兰语 colf、colve 球杆相连；更早借入关系存在讨论。运动名与器具名联系紧密。',
+ [['苏格兰语 gouf、golf 与荷兰语球杆材料的联系','拿球杆进行的球类活动'],['golf 的现代运动名与动词','高尔夫球；打高尔夫球']],
+ 'play golf 打高尔夫；a round of golf 一轮高尔夫；a golf course 高尔夫球场。运动名前通常不用 a。',
+ 'a golf club；go golfing。','golf club 可以是高尔夫球杆，也可以是高尔夫俱乐部，看是器材还是组织语境。golf 的名字有历史词源，不是几个现代英语词首字母组成。',
+ ('They play golf on Sunday mornings.','他们星期日早晨打高尔夫。'),('The hotel overlooks a golf course.','从酒店可以俯瞰一座高尔夫球场。'),sources=['https://www.etymonline.com/word/golf','https://en.wiktionary.org/wiki/golf#English'])
+W('golfer','英 /ˈɡɒlfə/；美 /ˈɡɑːlfər/','高尔夫球手、打高尔夫球的人',
+ '给 golf 加上人物后缀，运动就转到参与运动的人。golfer 可以是周末爱好者，也可以是职业球手。',
+ 'golf + -er；由运动名称形成参与者名称。并不要求先成为职业选手才能用。',
+ [['golf 高尔夫运动 + -er','把运动联系到参与者'],['golfer 的普通与职业语境','高尔夫球手；高尔夫爱好者']],
+ 'a professional golfer 职业高尔夫球手；an amateur golfer 业余球手；a keen golfer 热衷打高尔夫的人。',
+ 'a talented golfer；a group of golfers。','golfer 是打球的人，caddie 是帮助球手携带球具、提供场地相关帮助的球童，两者角色不同。',
+ ('She is a keen golfer and plays every weekend.','她很爱打高尔夫，每个周末都去。'),('The young golfer practised his putting.','年轻的高尔夫球手练习推杆。'))
+W('carve','英 /kɑːv/；美 /kɑːrv/','雕刻；切开熟肉；开辟、争取〔常与 out 连用〕',
+ '一刀刀切掉材料，形状就露出来了。雕木头、切烤肉都保留切的动作；carve out a career 则像一步步给自己开出位置。',
+ '古英语 ceorfan 切，经中古英语 kerven 等发展。早期切的范围较广，现代常集中在雕刻、切分熟肉等用途。',
+ [['古英语 ceorfan → 中古英语 kerven','切、割材料'],['现代 carve 的较专门与比喻用法','雕刻；切分肉；靠努力开辟机会或道路']],
+ 'carve a bird out of wood 用木头雕一只鸟；carve a name into stone 把名字刻进石头；carve the roast 切烤肉。',
+ 'carve out a niche；carve the turkey。','carve a figure 强调雕出形象，engrave letters 更常强调把文字、图案刻入表面；carve 也可以用于刻字，范围有交集。',
+ ('He carved a small bird out of wood.','他用木头雕了一只小鸟。'),('She carved out a successful career in design.','她在设计领域闯出了成功的事业。'),sources=['https://www.etymonline.com/word/carve','https://en.wiktionary.org/wiki/carve#English'])
+W('carver','英 /ˈkɑːvə/；美 /ˈkɑːrvər/','雕刻者；切分熟肉的人',
+ '把 carve 的切、雕动作交给一个人：雕木头的是 carver，餐桌边负责切大块熟肉的人也可以这样叫。',
+ 'carve + -er，形成动作实施者名称。具体雕刻还是切肉，取决于 carve 使用的是哪一支。',
+ [['carve 雕刻、切分 + -er','由动作形成实施者名称'],['carver 的工艺与餐饮语境','雕刻者；负责切分熟肉的人']],
+ 'a wood carver 木雕工；a stone carver 石雕工；the carver at the table 餐桌边切肉的人。',
+ 'a skilled carver；a traditional wood carver。','sculptor 更宽泛地说雕塑家，可用塑造、焊接等方法；carver 更具体联系切削、雕刻的方法。',
+ ('The carver worked slowly on the wooden mask.','雕刻者慢慢雕琢着那副木面具。'),('At dinner, her father acted as the carver.','晚餐时，她父亲负责切分熟肉。'))
+W('voyage','/ˈvɔɪɪdʒ/','航行、航程；远行〔尤指海上，也用于太空〕',
+ '船离港，穿过一大片海，到另一个地方去，这整段远行就是 voyage。太空旅行也借用这幅长途航行的画面。',
+ '拉丁语 via 道路 → viaticus 旅途所用的 → viaticum 旅途给养、后来也指旅程，经古法语 voiage 借入英语。英语后来尤常用于水上航程。',
+ [['拉丁语 via → viaticum → 古法语 voiage','道路、旅途给养 → 旅程'],['英语 voyage 的常用范围','尤指海上航程，也用于太空等远行']],
+ 'a voyage across the Atlantic 横渡大西洋的航程；a maiden voyage 首航；a voyage of discovery 探索之旅。也能作动词说航行。',
+ 'a long sea voyage；a voyage into space。','trip 用途很广，voyage 常突出海上或太空的长程旅途。去街角商店的一次出门通常不叫 voyage，除非刻意夸张。',
+ ('The ship began its voyage at dawn.','船在黎明时开始了航程。'),('The book describes a voyage across the Pacific.','这本书描写了一次横渡太平洋的航行。'),sources=['https://www.etymonline.com/word/voyage','https://en.wiktionary.org/wiki/voyage#English'])
+W('voyager','英 /ˈvɔɪɪdʒə/；美 /ˈvɔɪɪdʒər/','航行者、远行者',
+ 'voyage 是那段远途，voyager 是踏上旅程的人。词的气氛常偏探索、航海或文学叙述。',
+ '历史可追到古法语 voyagier 远行者，与 voiage 旅程相连；现代英语结构清楚对应 voyage + -er。两种分析分别说明借入历史和今天的构词联系。',
+ [['古法语 voiage、voyagier 的旅途词族','旅程、远行者'],['英语 voyager 与 voyage 的对应','进行长途航行、探索旅行的人']],
+ 'an ocean voyager 远洋航行者；an intrepid voyager 无畏的远行者。大写 Voyager 还可能是专有名称，需按上下文区分。',
+ 'a seasoned voyager；early voyagers。','traveller 是很宽泛的旅行者；voyager 往往令人想到较远、较长、带航行意味的旅程。',
+ ('The voyagers reached the island after weeks at sea.','航行者们在海上走了数周后抵达岛屿。'),('Her diary records the hopes of a young voyager.','她的日记记录了一位年轻远行者的希望。'),sources=['https://www.etymonline.com/word/voyager','https://en.wiktionary.org/wiki/voyager#English'])
+def extend_lessons():
+    extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+    save('continuation_20261030_ti',ROOTS,WORDS)
+    extend_lessons()

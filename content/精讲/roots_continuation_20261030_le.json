@@ -1,0 +1,169 @@
+[
+  {
+    "id": "B4272",
+    "meaning": "承载、带着，发展出姿态、方位及支承部件",
+    "core": "BEARING：带着重量，也带着某种姿态或方向",
+    "image": "bear → bearing；childbearing 把孩子孕育、生育出来。",
+    "intro": "bearing 不只是轴承。人的举止像身体怎样端着、带着自己；机器里的轴承则负责支承运动部件；take a bearing 是确定朝向。几个意思要靠场景接起来。",
+    "forms": "bear 的承载、生育动词支线 + -ing；child + bearing 是生育。bearing 的方位、姿态、支承义各已成为固定用法。",
+    "branches": [
+      [
+        "承载与相应名词",
+        "bear · bearing"
+      ],
+      [
+        "孕育、生育",
+        "childbearing"
+      ]
+    ],
+    "contrasts": "bearing 的轴承、举止、方位不可互换；get your bearings 常说弄清方位，也比喻熟悉处境。",
+    "practice": "After checking our bearings, we continued along the coast.\n\n确认方位后，我们继续沿海岸走。",
+    "words": [
+      "bear",
+      "bearing",
+      "childbearing"
+    ],
+    "exclude": {
+      "life-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "thought-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "death-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wonder-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "apple-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fruit-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horn-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3360",
+    "meaning": "能否起作用，及不起作用的方式、状态",
+    "core": "USELESS：对眼前目的帮不上忙",
+    "image": "useless → uselessly、uselessness。",
+    "intro": "不是只背一个没用：useless 说东西或办法的性质，uselessly 说白费的动作，uselessness 把无用的状态当作一件事讨论。",
+    "forms": "use + -less → useless；-ly 副词，-ness 状态名词。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "useless · uselessly · uselessness"
+      ]
+    ],
+    "contrasts": "be useless at 可说不擅长；uselessness 是抽象名词。批评办法无效，不必扩大为对人的整体判断。",
+    "practice": "The damaged motor ran uselessly, making the machine useless.\n\n坏马达徒劳地运转着，机器无法使用。",
+    "words": [
+      "useless",
+      "uselessly",
+      "uselessness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2892",
+    "meaning": "把东西点亮，及光从哪儿照来的状态",
+    "core": "LIT：亮起来以后，再看谁在照、从哪儿照",
+    "image": "light → lit → unlit；sunlit、moonlit、candlelit、backlit 各说明光源或方向。",
+    "intro": "sunlit 像阳光洒进房间，moonlit 像月光照着水面，backlit 是从背后照。后面的 lit 都是已被照亮的状态，不必各记成毫无关系的新词。",
+    "forms": "light 的过去式、过去分词 lit；un- 否定；sun、moon、candle 是光源，back 指背后。\n\n比较后缀 -est 本身不表人或工具；光、轻两条词源分开，比较含义依对象决定。",
+    "branches": [
+      [
+        "点亮与没有点亮",
+        "light · lit · unlit"
+      ],
+      [
+        "光源与方向",
+        "sunlit · moonlit · candlelit · backlit"
+      ],
+      [
+        "light → lighter → lightest：最轻、最浅等比较",
+        "light · lighter · lightest"
+      ]
+    ],
+    "contrasts": "lit 口语精彩义和 literature 缩略义另看场景；unlit 不排除自然光；backlit 看照光方向。",
+    "practice": "The candlelit room opened onto a moonlit garden.\n\n烛光照着的房间通向月光下的花园。",
+    "words": [
+      "light",
+      "lit",
+      "unlit",
+      "sunlit",
+      "moonlit",
+      "candlelit",
+      "backlit",
+      "lighter",
+      "lightest"
+    ],
+    "exclude": {
+      "lit-house": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-lit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lit-verse": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dim-lit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4446",
+    "meaning": "纯粹、真实的旧义，发展为里外一致的真心",
+    "core": "SINCERE：说出来的心意没有掺假",
+    "image": "sincere → sincerely；sincerity 把真诚变成可讨论的品质。",
+    "intro": "像一杯没有掺杂的东西，后来用来形容不装、不假。这是帮助理解的画面；拉丁词更早怎么构成仍有争论，不能用蜡像故事充当历史。",
+    "forms": "拉丁 sincērus → 法语、英语 sincere；-ly 方式副词；拉丁 sincēritās 对应现代 sincere + -ity。",
+    "branches": [
+      [
+        "态度、方式与品质",
+        "sincere · sincerely · sincerity"
+      ]
+    ],
+    "contrasts": "sincere 不保证观点正确；sincerely 可作信末礼貌结语；sincerity 的重音、元音与 sincere 不同。",
+    "practice": "She sincerely thanked us, and we could hear the sincerity in her voice.\n\n她由衷地感谢我们，我们能从她的声音里听出诚意。",
+    "words": [
+      "sincere",
+      "sincerely",
+      "sincerity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2860",
+    "meaning": "骨架、外皮里面的软组织，延伸为充实内容",
+    "core": "FLESH：骨架外面的肉，也能让空想法长出细节",
+    "image": "flesh → fleshy；flesh out 是把想法补得具体。",
+    "intro": "身体有肉，水果有果肉；计划也能从一副骨架变得细节丰满。这个画面能把名词和短语动词串起来。",
+    "forms": "古英语 flǣsc → flesh；-y 肉质性质；out 在 flesh out 中与动词合成补全、充实的短语。",
+    "branches": [
+      [
+        "肉与肉质性质",
+        "flesh · fleshy"
+      ]
+    ],
+    "contrasts": "in the flesh 说见到本人；flesh out 是补充细节；果肉可以 flesh，不把所有食物肉一律换成它。",
+    "practice": "The fruit has thick skin and soft flesh.\n\n这种水果皮厚，果肉柔软。",
+    "words": [
+      "flesh",
+      "fleshy"
+    ],
+    "exclude": {
+      "flesh-colored": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3771",
+    "meaning": "给原本不错的东西添上缺陷、损伤",
+    "core": "MAR：一道划痕坏了美感，一场争吵坏了气氛",
+    "image": "mar → marred、marring。",
+    "intro": "核心是损害整体的好，而不一定把东西彻底毁掉。表面、体验、场合都能成为它的对象。",
+    "forms": "古英语 mierran、merran → 中古英语 merren → mar；加 -ed、-ing 双写 r。",
+    "branches": [
+      [
+        "原形与动作状态",
+        "mar · marred · marring"
+      ]
+    ],
+    "contrasts": "mar 不是拉丁海的词根；be marred by 常说被某事留下遗憾；marring 的名词用法可以先识别。",
+    "practice": "A scratch was marring the otherwise beautiful finish.\n\n那道划痕破坏了原本漂亮的表面涂饰。",
+    "words": [
+      "mar",
+      "marred",
+      "marring"
+    ],
+    "exclude": {
+      "mar-sport": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

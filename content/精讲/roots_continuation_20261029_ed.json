@@ -1,0 +1,127 @@
+[
+  {
+    "id": "B2954",
+    "meaning": "睡眠、困意、睡着与无眠",
+    "core": "SLEEP：先判断是想睡、已睡，还是没睡",
+    "image": "sleep 基本动作之后对照 sleepy、asleep、sleepless，再看 sleeper 人物设施和 sleepwear 衣物。",
+    "intro": "sleep 是古英语继承词。asleep 的 a- 表处于状态，不是否定；sleeper 枕木的历史不全用睡觉民间故事解释。",
+    "forms": "sleep → sleepy、sleeper、sleepless；a- + sleep → asleep；sleep + wear、over、walk、walker。\n\nsleep → slept → slept，现代过去与分词同形；不能只凭词尾 t 把 sleep 的全部旧变位历史说成和 keep 完全相同。\n\nsleeping 直接加 -ing，sleep 本族名词、动词都有古老历史；与过去形式 slept 分开。\n\n这里和 sleep 作近义比较，不把两个词说成从现代 sleep 派生。doze 可能来自北欧日耳曼打盹材料；snooze 来源未定，可能模拟鼾声。\n\n和 sleep 比较死亡如长眠的历史比喻；cemetery 经法语、拉丁接希腊 koimeterion 睡处、宿舍，不由英语 sleep 直接构词。",
+    "branches": [
+      [
+        "动作与不同状态",
+        "sleep · sleepy · asleep · sleepless"
+      ],
+      [
+        "人物、设施与衣物",
+        "sleeper · sleepwear"
+      ],
+      [
+        "其他常见活动",
+        "sleepover · sleepwalk · sleepwalker"
+      ],
+      [
+        "sleep 与 slept：过去、完成的睡眠",
+        "sleep · slept"
+      ],
+      [
+        "sleep → sleeping：睡眠状态与睡觉用途",
+        "sleep · sleeping"
+      ],
+      [
+        "doze 与 snooze：睡一小会儿",
+        "doze · dozes · dozed · dozing · dozy · snooze · snoozes · snoozed · snoozing · snoozer · snoozers"
+      ],
+      [
+        "cemetery：另源的安睡之地",
+        "cemetery · cemeteries"
+      ]
+    ],
+    "contrasts": "sleepy 想睡，asleep 已睡着；asleep 常作表语，名词前用 sleeping；sleep—slept—slept。",
+    "practice": "After a sleepless night, I felt sleepy but could not fall asleep.\n\n一夜未眠后，我很困，却还是睡不着。",
+    "words": [
+      "sleep",
+      "sleepy",
+      "asleep",
+      "sleepless",
+      "sleeper",
+      "sleepwear",
+      "sleepover",
+      "sleepwalk",
+      "sleepwalker",
+      "slept",
+      "sleeping",
+      "doze",
+      "dozes",
+      "dozed",
+      "dozing",
+      "dozy",
+      "snooze",
+      "snoozes",
+      "snoozed",
+      "snoozing",
+      "snoozer",
+      "snoozers",
+      "cemetery",
+      "cemeteries"
+    ],
+    "exclude": {
+      "sleep-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleep-eat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleep-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleep-deprived": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2801",
+    "meaning": "训练、培训与受训角色",
+    "core": "TRAIN：引导、培养；火车名词在相关历史分支",
+    "image": "train 已精讲，本页把 trained、trainer、trainee 紧挨着，再看 retrain 与 trainable。",
+    "intro": "经法语接拉丁拉、牵引词族。训练与引导培养有关，不能解释成坐火车才能学技能；powertrain、drivetrain 为已有机械词族共享内容。",
+    "forms": "train → trained、trainer、trainee、trainable；re- + train → retrain；power、drive + train。\n\n拖、牵引词族经法语发展；火车、训练通过不同语义分支形成。\n\ntrainer 的复数，train 训练 + -er + -s。鞋义接运动、训练的用途，两个现代名词用法按上下文分辨。",
+    "branches": [
+      [
+        "基本词与训练结果",
+        "train · trained"
+      ],
+      [
+        "培训双方",
+        "trainer · trainee"
+      ],
+      [
+        "重新训练与可训练性",
+        "retrain · trainable"
+      ],
+      [
+        "机械传动词",
+        "powertrain · drivetrain"
+      ],
+      [
+        "train → trains：牵引的一列与训练",
+        "train · trains"
+      ],
+      [
+        "trainers：教练们；英式运动鞋",
+        "trainers"
+      ]
+    ],
+    "contrasts": "trainer 教练，trainee 学员；trained 已训练，trainable 能训练；英式 trainers 还指运动鞋。",
+    "practice": "The trainer retrained the trainees to use the new equipment.\n\n培训师重新培训学员使用新设备。",
+    "words": [
+      "train",
+      "trained",
+      "trainer",
+      "trainee",
+      "retrain",
+      "trainable",
+      "powertrain",
+      "drivetrain",
+      "trains",
+      "trainers"
+    ],
+    "exclude": {
+      "post-train": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-train": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "train-mate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

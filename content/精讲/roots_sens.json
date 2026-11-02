@@ -5,7 +5,7 @@
     "core": "SENT / SENS = FEEL, PERCEIVE",
     "image": "信息进来引起感受，再形成理解、态度和判断",
     "intro": "**sent-/sens-** 来自拉丁语 **sentīre**“感到、察觉、认为”。它不只管五官：感受到是 sense，容易受触动是 sensitive，能作实际判断是 sensible。大家想法一致是 consent、consensus；想法分开则是 dissent。",
-    "forms": "**sent-** 见 sentient、sentence、sentiment；**sens-** 与拉丁语 sēnsus 等形式有关，见 sense、sensation。经法语变化还有 scent、resent。**scent** 的 c 是后加的拼写，不能当成一个额外词根。send 的过去式 sent 虽同形，不从这条拉丁语路径来。",
+    "forms": "**sent-** 见 sentient、sentence、sentiment；**sens-** 与拉丁语 sēnsus 等形式有关，见 sense、sensation。经法语变化还有 scent、resent。**scent** 的 c 是后加的拼写，不能当成一个额外词根。send 的过去式 sent 虽同形，不从这条拉丁语路径来。\n\n拉丁 sententia 思考、意见、判断经法语到英语，句子与判决为不同用法分支。\n\n拉丁 sententia 经法语，动词有宣判义；sentenced 不是把字写成句子。\n\n拉丁 sentire、sens- 词族，现代装置名可联系 sense 与 or 的执行者构词。\n\n法语 ressentir 接感觉材料，re- 可作加强解释；现代怨恨义不是每次再次感觉的字面组合。\n\nsense 经法语、拉丁 sensus 接 sentire 感知、感觉；英语很早已有词义、理解用法，不把现代学习的先后当作历史。senses 兼复数名词和第三人称单数动词。\n\nsense 经法语、拉丁 sensus 接 sentire 感知，现代动词去 e 加 -ing；凭迹象察觉与仪器检测都能用。\n\nsentence 经法语、拉丁 sententia 判断、意见，英语由判决义形成宣判动词。去 e 加 -ing，通常指量刑、判处刑罚的过程。",
     "branches": [
       [
         "感知与设备",
@@ -30,6 +30,34 @@
       [
         "感受与判断的特殊去向",
         "sentient · sentence · antisense"
+      ],
+      [
+        "sentence → sentences：完整话语与作出的判断",
+        "sentence · sentences"
+      ],
+      [
+        "sentence → sentenced：判断、判决名词的动词用法",
+        "sentence · sentenced"
+      ],
+      [
+        "sense、sensor → sensors：感知与感知装置",
+        "sense · sensor · sensors"
+      ],
+      [
+        "resent 的强烈感受与受到不公后的怨气",
+        "resent · resents · resented · resenting · resentment · resentful · resentfully"
+      ],
+      [
+        "sense → senses：感官、理智、词义及察觉",
+        "sense · senses"
+      ],
+      [
+        "sens- 感觉 → sensing",
+        "sensing"
+      ],
+      [
+        "sent- 感知、判断 → sentencing",
+        "sentencing"
       ]
     ],
     "contrasts": "**sensible / sensitive / sensory**：明智的 / 敏感或体贴的 / 与感官相关的。\n\n**sentimental / sentimentality**：有感情，不代表一定过度煽情。sentimental value 通常是温和的感情价值，sentimentality 常批评过度感伤。\n\n**consent / consensus / assent**：当事人同意或许可 / 群体共识 / 对观点或提议表示认可。\n\n**sensation / sentiment**：一次直接感受或轰动 / 更持续的情绪、态度与看法。",
@@ -75,7 +103,17 @@
       "unsentimental",
       "sentient",
       "sentience",
-      "antisense"
+      "antisense",
+      "sentences",
+      "sentenced",
+      "sensors",
+      "resents",
+      "resented",
+      "resenting",
+      "resentfully",
+      "senses",
+      "sensing",
+      "sentencing"
     ]
   }
 ]

@@ -1,0 +1,748 @@
+[
+  {
+    "word": "shred",
+    "ipa": "/ʃred/",
+    "meaning": "细条、碎片；切成条、撕碎、粉碎",
+    "sense": "一整张纸被分成窄条、食物被切成细丝，分下来的小条可以叫 a shred，做这个动作则是 shred。",
+    "split": "名词继承古英语 screade 切下的片，动词接 screadian 削、切去，经中古英语 shrede、shreden 延续。与 sharp 较远共享切割材料，各自有自己的英语历史。",
+    "history": [
+      [
+        "古英语 screade、screadian → 中古英语 → shred",
+        "切下的小片；切成条、削去"
+      ],
+      [
+        "现代实物、抽象用法扩大",
+        "撕碎文件、切食物；a shred of evidence 一丝证据"
+      ]
+    ],
+    "explanation": "shred the paper 把纸撕碎；shred cheese 把奶酪切、擦成细丝；a shred of evidence 一丝证据。",
+    "usage": "a shred of cloth 一条碎布；shred into strips 切、撕成细条。",
+    "contrast": "shred 常突出小而细、被分下来的片条；抽象 a shred of… 便借极少量来强调几乎没有。",
+    "examples": [
+      [
+        "She used the machine to shred the paper.",
+        "她用机器把纸切碎。"
+      ],
+      [
+        "There was not a shred of evidence for the claim.",
+        "那种说法连一丝证据都没有。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shred#English",
+      "https://www.etymonline.com/word/shred"
+    ]
+  },
+  {
+    "word": "shreds",
+    "ipa": "/ʃredz/",
+    "meaning": "细条、碎片〔复数〕；切碎、撕碎〔第三人称单数〕",
+    "sense": "一条条碎纸、碎布是 shreds；某人把东西切碎，也可以说 she shreds。结果与动作在同一个词上相接。",
+    "split": "shred 的名词、动词接古英语切片、切去词族。现代加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "古英语切下片条、切去材料 → shred",
+        "细碎片条及形成它们的动作"
+      ],
+      [
+        "shred + -s → shreds",
+        "多片细条；某人切碎、撕碎"
+      ]
+    ],
+    "explanation": "shreds of paper 细碎纸条；tears it to shreds 把它撕成碎片。",
+    "usage": "shreds the cabbage 把卷心菜切成丝；in shreds 破成碎片、破败不堪。",
+    "contrast": "to shreds 还可比喻把论点批得体无完肤。实物是撕成碎片，抽象对象则是原来完整的论证被拆散。",
+    "examples": [
+      [
+        "Shreds of paper covered the floor.",
+        "地上铺着细碎纸条。"
+      ],
+      [
+        "She shreds the cabbage for the salad.",
+        "她把做沙拉用的卷心菜切成丝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shreds#English",
+      "https://en.wiktionary.org/wiki/shred#English"
+    ]
+  },
+  {
+    "word": "shredded",
+    "ipa": "/ˈʃredɪd/",
+    "meaning": "切碎了、撕成条的、粉碎过的",
+    "sense": "整块已经变成许多细条、碎片，就是 shredded。食物和文件都能出现这个结果形容。",
+    "split": "shred 短重读音节后双写 d，加完整 -ed；/d/ 后 ed 读 /ɪd/，所以整体两音节。",
+    "history": [
+      [
+        "shred 切成细条、碎片",
+        "把完整物分散成小片条"
+      ],
+      [
+        "shred 双写 d + -ed → shredded",
+        "过去切碎；已切成条、碎片的"
+      ]
+    ],
+    "explanation": "shredded cheese 奶酪丝；shredded paper 碎纸条。",
+    "usage": "shredded cabbage 卷心菜丝；shredded the document 把文件切碎了。",
+    "contrast": "shredded 不一定是粉末，常是细丝、小条。中文按实际食物、纸片形状译成丝、条或碎片。",
+    "examples": [
+      [
+        "She added shredded cheese to the dish.",
+        "她往菜里加入奶酪丝。"
+      ],
+      [
+        "The bag was filled with shredded paper.",
+        "袋子里装满了碎纸条。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shredded#English",
+      "https://en.wiktionary.org/wiki/shred#English"
+    ]
+  },
+  {
+    "word": "shredding",
+    "ipa": "/ˈʃredɪŋ/",
+    "meaning": "正在切碎、撕碎；切成细条的过程",
+    "sense": "整张纸、整块食物正一点点变成细条，就是 shredding。",
+    "split": "shred 双写词末 d，加完整 -ing。较早的英语名词、动词都与切下细片、去掉小片有关。",
+    "history": [
+      [
+        "shred 的切片、撕碎动作",
+        "使完整物分成细小片条"
+      ],
+      [
+        "shred 双写 d + -ing → shredding",
+        "正在做；相应处理过程"
+      ]
+    ],
+    "explanation": "shredding paper 切碎纸；shredding cabbage 把卷心菜切成丝。",
+    "usage": "a shredding machine 碎纸、切丝机；finish shredding 切碎完。",
+    "contrast": "shredding 是动作过程，shredder 是设备，shredded 常是处理后的状态。这个小词族可以按过程、工具、结果来连读。",
+    "examples": [
+      [
+        "He was shredding old papers in the office.",
+        "他正在办公室切碎旧纸张。"
+      ],
+      [
+        "She finished shredding the cabbage.",
+        "她把卷心菜切成丝了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shredding#English",
+      "https://en.wiktionary.org/wiki/shred#English"
+    ]
+  },
+  {
+    "word": "shredder",
+    "ipa": "英 /ˈʃredə/；美 /ˈʃredər/",
+    "meaning": "碎纸机、切碎设备；执行切碎者",
+    "sense": "把纸、材料切成许多小条的器具，是 shredder。shred 给动作，er 给负责做这件事的人或机器。",
+    "split": "shred 双写词末 d，加完整 -er。现代办公室常用为 paper shredder 碎纸机，其他材料场景也可有相应切碎设备。",
+    "history": [
+      [
+        "shred + -er〔双写 d〕→ shredder",
+        "切碎动作的执行者、作用物"
+      ],
+      [
+        "设备用途细分",
+        "纸张、食物或其他材料的切碎机器"
+      ]
+    ],
+    "explanation": "a paper shredder 碎纸机；a garden shredder 园艺枝料粉碎机。",
+    "usage": "use a shredder 使用切碎机；a shredder beside the copier 复印机旁的碎纸机。",
+    "contrast": "er 命名的是起作用者；办公室语境中默认常是机器，具体切什么由前面的 paper 等词说明。",
+    "examples": [
+      [
+        "A paper shredder stood beside the copier.",
+        "复印机旁放着一台碎纸机。"
+      ],
+      [
+        "The workshop repaired a small shredder.",
+        "车间修了一台小切碎机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shredder#English",
+      "https://en.wiktionary.org/wiki/shred#English"
+    ]
+  },
+  {
+    "word": "shredders",
+    "ipa": "英 /ˈʃredəz/；美 /ˈʃredərz/",
+    "meaning": "碎纸机、切碎设备〔复数〕",
+    "sense": "几台负责把完整材料分成小条、小片的机器，就是 shredders。用途可由具体材料名进一步限定。",
+    "split": "shred 双写 d 加 -er → shredder，再加复数 -s，尾 /z/。",
+    "history": [
+      [
+        "shred + -er〔双写 d〕→ shredder",
+        "执行切碎的机器、人员"
+      ],
+      [
+        "shredder + -s → shredders",
+        "多台切碎设备或相应执行者"
+      ]
+    ],
+    "explanation": "paper shredders 碎纸机；garden shredders 园艺粉碎机。",
+    "usage": "repair shredders 修理切碎机；shredders in the office 办公室里的碎纸机。",
+    "contrast": "shreds 是分下来的碎条或三单动作，shredders 多出 er，重点就变成执行这个动作的设备。",
+    "examples": [
+      [
+        "The office ordered two paper shredders.",
+        "办公室订了两台碎纸机。"
+      ],
+      [
+        "The company repairs garden shredders.",
+        "这家公司修理园艺粉碎机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shredders#English",
+      "https://en.wiktionary.org/wiki/shredder#English"
+    ]
+  },
+  {
+    "word": "cartridge",
+    "ipa": "英 /ˈkɑːtrɪdʒ/；美 /ˈkɑːrtrɪdʒ/",
+    "meaning": "可更换的装载件、墨盒、卡带；弹药筒等〔按设备〕",
+    "sense": "内容物先装在一个可整体拿出、更换的小容器里，这一整件常叫 cartridge。办公室里可指墨盒，旧游戏机里可指卡带。",
+    "split": "经法语 cartouche 接意大利 cartoccio 纸卷，较远接拉丁 carta、charta 纸，与 card 同族。早期英语 cartage 等先指纸等包成的弹药装载件，后来范围扩大，现代也有非纸容器。",
+    "history": [
+      [
+        "拉丁纸材料 → 意大利 cartoccio → 法语 cartouche → 英语 cartridge",
+        "纸卷包装的装载件；英语词形经转借改变"
+      ],
+      [
+        "容器、整份内容物的用途扩大",
+        "打印耗材、游戏卡带等可更换装载件"
+      ]
+    ],
+    "explanation": "an ink cartridge 墨盒；a game cartridge 游戏卡带。",
+    "usage": "replace the cartridge 更换装载件、墨盒；an empty cartridge 空盒、空筒。",
+    "contrast": "cartridge 的共同点是内容物和可更换的载体被当作一整件。具体装什么、什么形状，看 ink、game 等修饰语。",
+    "examples": [
+      [
+        "The printer needs a new ink cartridge.",
+        "打印机需要一个新墨盒。"
+      ],
+      [
+        "He kept the old game cartridge in a box.",
+        "他把旧游戏卡带放在盒子里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cartridge#English",
+      "https://www.etymonline.com/word/cartridge"
+    ]
+  },
+  {
+    "word": "cartridges",
+    "ipa": "英 /ˈkɑːtrɪdʒɪz/；美 /ˈkɑːrtrɪdʒɪz/",
+    "meaning": "墨盒、卡带、装载筒件等〔复数〕",
+    "sense": "几只装好耗材、可以整件更换的小盒、小筒，就是 cartridges。词名从纸卷包装的历史走到各种现代设备。",
+    "split": "cartridge 经法语、意大利语纸卷名称借入，较远与 card 同接纸材料。现代整词加 -s，/dʒ/ 后增加 /ɪz/。",
+    "history": [
+      [
+        "纸卷名称的多语言路线 → cartridge",
+        "整份装载件的名称"
+      ],
+      [
+        "cartridge + -s → cartridges",
+        "多个盒、筒、卡带等"
+      ]
+    ],
+    "explanation": "ink cartridges 墨盒；game cartridges 游戏卡带。",
+    "usage": "replacement cartridges 替换装载件；empty cartridges 空盒、空筒。",
+    "contrast": "复数最后有 /ɪz/ 音节，具体中文译名仍靠设备、所装内容确定。不是所有 cartridges 都应译成墨盒。",
+    "examples": [
+      [
+        "The cupboard held spare ink cartridges.",
+        "柜子里放着备用墨盒。"
+      ],
+      [
+        "The collection included old game cartridges.",
+        "藏品包括旧游戏卡带。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cartridges#English",
+      "https://en.wiktionary.org/wiki/cartridge#English"
+    ]
+  },
+  {
+    "word": "toner",
+    "ipa": "英 /ˈtəʊnə/；美 /ˈtoʊnər/",
+    "meaning": "显影墨粉、打印墨粉；调色用品；爽肤水〔化妆语境〕",
+    "sense": "打印机、复印机用来形成可见图文的粉状耗材，常叫 toner。化妆语境里，同名词又可指爽肤水；这是另一个用品场景。",
+    "split": "tone 动词去 e 加 -er，给起调整某种 tone、状态作用的用品命名。先有相应作用物用法，后来在摄影、复印等领域专门化；不能只按音乐音调去解释所有用品。",
+    "history": [
+      [
+        "tone + -er〔去 e〕→ toner",
+        "由调整色调、状态等动作命名作用物"
+      ],
+      [
+        "不同领域专门用法发展",
+        "摄影调色剂、打印墨粉、化妆用品等"
+      ]
+    ],
+    "explanation": "printer toner 打印墨粉；a toner cartridge 墨粉盒；facial toner 爽肤水。",
+    "usage": "replace the toner 更换墨粉；a bottle of toner 一瓶爽肤水〔化妆语境〕。",
+    "contrast": "墨粉、调色液、爽肤水不是同一种材料。名称共享作用物构形，具体意思由 printer、facial 或化妆台、办公设备等场景确定。",
+    "examples": [
+      [
+        "The printer was low on toner.",
+        "打印机墨粉快用完了。"
+      ],
+      [
+        "A bottle of toner stood beside the mirror.",
+        "镜子旁放着一瓶爽肤水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toner#English",
+      "https://www.etymonline.com/word/toner"
+    ]
+  },
+  {
+    "word": "toners",
+    "ipa": "英 /ˈtəʊnəz/；美 /ˈtoʊnərz/",
+    "meaning": "显影墨粉、调色用品、爽肤水等的种类或产品〔复数〕",
+    "sense": "比较几种 toner 产品，就可以用 toners。常见于产品种类、颜色或化妆用品的比较。",
+    "split": "tone 去 e 加 -er → toner，再加 -s，尾 /z/。整体材料可用不可数形式，复数常把不同产品、种类分开。",
+    "history": [
+      [
+        "tone + -er〔去 e〕→ toner",
+        "起相关调色、调整作用的材料、用品名"
+      ],
+      [
+        "toner + -s → toners",
+        "多个或不同种类产品"
+      ]
+    ],
+    "explanation": "facial toners 不同爽肤水；colour toners 不同颜色显影墨粉。",
+    "usage": "different toners 不同产品；toners on the shelf 架上的相关用品。",
+    "contrast": "打印材料整体常用不可数 toner，比较颜色、产品时可以用 toners。化妆产品也常按种类用复数。",
+    "examples": [
+      [
+        "The shop displayed several facial toners.",
+        "店里陈列着几种爽肤水。"
+      ],
+      [
+        "The catalogue lists toners for different printers.",
+        "目录列着适用于不同打印机的墨粉产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toners#English",
+      "https://en.wiktionary.org/wiki/toner#English"
+    ]
+  },
+  {
+    "word": "highlighter",
+    "ipa": "英 /ˈhaɪlaɪtə/；美 /ˈhaɪlaɪtər/",
+    "meaning": "荧光笔、标亮工具；高光化妆品〔相应语境〕",
+    "sense": "把重要字句涂成显眼颜色，让眼睛一下找到重点，这支笔就是 highlighter。化妆用品里也能用它说制造高光效果的产品。",
+    "split": "high + light → highlight 明亮、显眼部分，再有突出、标亮动作；加 -er 命名起相应作用的用品。",
+    "history": [
+      [
+        "high + light → highlight",
+        "高光、显眼部分 → 使内容显眼"
+      ],
+      [
+        "highlight + -er → highlighter",
+        "标亮文字的笔、工具；高光用品"
+      ]
+    ],
+    "explanation": "a yellow highlighter 黄色荧光笔；a highlighter pen 荧光标记笔。",
+    "usage": "mark with a highlighter 用荧光笔标注；a highlighter on the desk 桌上的荧光笔。",
+    "contrast": "highlighter 的共同作用是把某处变得显眼。文字标注和化妆高光是不同用品，靠 pen、text 或 makeup 等场景分开。",
+    "examples": [
+      [
+        "She marked the date with a yellow highlighter.",
+        "她用黄色荧光笔标出日期。"
+      ],
+      [
+        "A highlighter lay beside the notebook.",
+        "笔记本旁放着一支荧光笔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highlighter#English"
+    ]
+  },
+  {
+    "word": "highlighters",
+    "ipa": "英 /ˈhaɪlaɪtəz/；美 /ˈhaɪlaɪtərz/",
+    "meaning": "荧光笔、标亮工具；高光化妆品〔复数〕",
+    "sense": "多支把内容标得显眼的笔，是 highlighters；产品比较里也可数多种高光用品。",
+    "split": "highlight + -er → highlighter，现代再加复数 -s，尾 /z/。er 先构成作用物名，s 再数多个。",
+    "history": [
+      [
+        "highlight + -er → highlighter",
+        "使某处显眼的工具、用品"
+      ],
+      [
+        "highlighter + -s → highlighters",
+        "多个或多种相应用品"
+      ]
+    ],
+    "explanation": "coloured highlighters 彩色荧光笔；a set of highlighters 一套荧光笔。",
+    "usage": "highlighters in the pencil case 笔袋里的荧光笔；use highlighters 使用荧光笔。",
+    "contrast": "highlights 是显眼、精彩部分或动词形式；highlighters 多出 er，通常是在说做标亮工作的用品。",
+    "examples": [
+      [
+        "The box held highlighters in several colours.",
+        "盒子里装着几种颜色的荧光笔。"
+      ],
+      [
+        "The students used highlighters to mark key words.",
+        "学生用荧光笔标出关键词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highlighters#English",
+      "https://en.wiktionary.org/wiki/highlighter#English"
+    ]
+  },
+  {
+    "word": "sharpener",
+    "ipa": "英 /ˈʃɑːpənə/；美 /ˈʃɑːrpənər/",
+    "meaning": "卷笔刀、削尖器、磨利工具",
+    "sense": "把钝的边、尖磨利的工具，是 sharpener。铅笔放进去削出尖头，就形成最常见的 pencil sharpener。",
+    "split": "sharp 尖利 + -en → sharpen，再加完整 -er。er 接在使变尖利的整个动词后，给执行者、工具命名。",
+    "history": [
+      [
+        "sharp + -en → sharpen",
+        "使尖、使刃变利"
+      ],
+      [
+        "sharpen + -er → sharpener",
+        "负责削尖、磨利的人或工具"
+      ]
+    ],
+    "explanation": "a pencil sharpener 卷笔刀；a knife sharpener 磨刀器。",
+    "usage": "use a sharpener 用削尖器；an electric sharpener 电动削尖器。",
+    "contrast": "sharpener 不只一种器具，pencil、knife 会限定磨什么。它与 sharper 更尖的比较级功能不同。",
+    "examples": [
+      [
+        "She used a pencil sharpener before drawing.",
+        "她画画前用卷笔刀削了铅笔。"
+      ],
+      [
+        "A small sharpener lay in the pencil case.",
+        "笔袋里放着一个小卷笔刀。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharpener#English"
+    ]
+  },
+  {
+    "word": "sharpeners",
+    "ipa": "英 /ˈʃɑːpənəz/；美 /ˈʃɑːrpənərz/",
+    "meaning": "卷笔刀、削尖器、磨利器具〔复数〕",
+    "sense": "多只把铅笔、刀刃等变尖利的器具，是 sharpeners。具体用品看前面的对象限定。",
+    "split": "sharp + -en → sharpen，加 -er → sharpener，再加复数 -s，尾 /z/。三层分别给性质、使成动作、作用物。",
+    "history": [
+      [
+        "sharp → sharpen → sharpener",
+        "尖利 → 使尖利 → 起相应作用的器具"
+      ],
+      [
+        "sharpener + -s → sharpeners",
+        "多只削尖、磨利工具"
+      ]
+    ],
+    "explanation": "pencil sharpeners 卷笔刀；knife sharpeners 磨刀器。",
+    "usage": "electric sharpeners 电动削尖器；sharpeners in the drawer 抽屉里的削尖器。",
+    "contrast": "整个词里 -en 和 -er 各做一件事，不能把末尾一长串当成一个模糊词尾。复数 s 最后才加。",
+    "examples": [
+      [
+        "The drawer held pencils and sharpeners.",
+        "抽屉里放着铅笔和卷笔刀。"
+      ],
+      [
+        "The shop sells several electric sharpeners.",
+        "店里卖几种电动削尖器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sharpeners#English",
+      "https://en.wiktionary.org/wiki/sharpener#English"
+    ]
+  },
+  {
+    "word": "notebooks",
+    "ipa": "英 /ˈnəʊtbʊks/；美 /ˈnoʊtbʊks/",
+    "meaning": "笔记本、记事本；笔记本电脑〔复数〕",
+    "sense": "把笔记收成一本册子，是 notebooks 的纸本画面。小型便携电脑后来也借这种便携记事本的名称。",
+    "split": "note 记录、笔记 + book 册子 → notebook，现代加 -s，/k/ 后读 /s/。电脑用法是后来形成的专门场景。",
+    "history": [
+      [
+        "note + book → notebook",
+        "收笔记、记录的册子"
+      ],
+      [
+        "notebook + -s → notebooks；便携电脑用法",
+        "多个纸本或相应电脑"
+      ]
+    ],
+    "explanation": "school notebooks 学校笔记本；notebook computers 笔记本电脑〔前部修饰用单数〕。",
+    "usage": "fill notebooks 写满笔记本；lightweight notebooks 轻便笔记本电脑〔设备语境〕。",
+    "contrast": "notes 数记录内容，notebooks 数承载内容的本子或设备。提到 battery、program 等常选出电脑用法。",
+    "examples": [
+      [
+        "She filled two notebooks with sketches.",
+        "她画满了两个笔记本。"
+      ],
+      [
+        "The students used notebooks to run the program.",
+        "学生用笔记本电脑运行程序。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/notebooks#English",
+      "https://en.wiktionary.org/wiki/notebook#English"
+    ]
+  },
+  {
+    "word": "notepads",
+    "ipa": "英 /ˈnəʊtpædz/；美 /ˈnoʊtpædz/",
+    "meaning": "便笺本、记事本；简单记事工具〔复数〕",
+    "sense": "一叠纸接在一起，方便随手记几笔，就是 notepads。pad 比 book 更容易让人想到纸垫、成叠便笺。",
+    "split": "note + pad → notepad，现代加 -s，/d/ 后读 /z/。电子记事工具的名称可借用纸本用途。",
+    "history": [
+      [
+        "note + pad → notepad",
+        "记录用途的一叠纸、便笺本"
+      ],
+      [
+        "notepad + -s → notepads",
+        "多个记事纸本或相应工具"
+      ]
+    ],
+    "explanation": "small notepads 小便笺本；paper notepads 纸便笺本。",
+    "usage": "notepads by the telephone 电话旁的便笺本；write on notepads 在便笺本上记。",
+    "contrast": "notebook 与 notepad 日常可有重叠，前者更容易想到成册，后者更突出随手记事的纸叠。具体结构仍看实物。",
+    "examples": [
+      [
+        "Small notepads were placed beside the phones.",
+        "电话旁放着小便笺本。"
+      ],
+      [
+        "The students received pens and notepads.",
+        "学生领到了笔和便笺本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/notepads#English",
+      "https://en.wiktionary.org/wiki/notepad#English"
+    ]
+  },
+  {
+    "word": "markers",
+    "ipa": "英 /ˈmɑːkəz/；美 /ˈmɑːrkərz/",
+    "meaning": "记号笔；标记物、标志、指标等〔复数〕",
+    "sense": "让某个位置、状态被认出来的东西，可以叫 markers。笔把记号写上去，路标把位置标出来，抽象指标也把变化显出来。",
+    "split": "mark + -er → marker，按标记动作命名器具、指示物等，现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "mark + -er → marker",
+        "作记号的用品、标出信息的指示物"
+      ],
+      [
+        "marker + -s → markers",
+        "多支记号笔、多种标志或指标"
+      ]
+    ],
+    "explanation": "coloured markers 彩色记号笔；road markers 道路标记物；markers of progress 进步的标志。",
+    "usage": "write with markers 用记号笔写；position markers 位置标记。",
+    "contrast": "markers 的对象范围很宽，核心是留下记号、指示位置或状态。实际是什么，要看 road、progress、pen 等上下文。",
+    "examples": [
+      [
+        "The children drew with coloured markers.",
+        "孩子们用彩色记号笔画画。"
+      ],
+      [
+        "White markers showed the edge of the path.",
+        "白色标记物标出了小路边缘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/markers#English",
+      "https://en.wiktionary.org/wiki/marker#English"
+    ]
+  },
+  {
+    "word": "erasers",
+    "ipa": "英 /ɪˈreɪzəz/；美 /ɪˈreɪsərz/",
+    "meaning": "橡皮擦、擦除工具〔复数〕",
+    "sense": "把铅笔痕迹等擦掉的工具，是 erasers。erase 给擦除动作，er 给执行这个作用的物。",
+    "split": "erase 去词末 e，加完整 -er → eraser，再加 -s。早期擦除工具可有刮除器具，后来常指橡皮擦；英美词干 s、z 读法有差别。",
+    "history": [
+      [
+        "erase + -er〔去 e〕→ eraser",
+        "擦除动作 → 相应工具"
+      ],
+      [
+        "eraser + -s → erasers",
+        "多个橡皮擦、擦除工具"
+      ]
+    ],
+    "explanation": "pencil erasers 铅笔橡皮；small erasers 小橡皮。",
+    "usage": "erasers in the pencil case 笔袋里的橡皮；replace the erasers 更换擦除工具。",
+    "contrast": "常见英式词干可读 /z/，常见美式 /s/，最后的复数尾通常仍读 /z/。拼写变化与两处声音分别认识。",
+    "examples": [
+      [
+        "The box held pencils and erasers.",
+        "盒子里放着铅笔和橡皮。"
+      ],
+      [
+        "The children chose small colourful erasers.",
+        "孩子们挑了彩色小橡皮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/erasers#English",
+      "https://en.wiktionary.org/wiki/eraser#English"
+    ]
+  },
+  {
+    "word": "rulers",
+    "ipa": "英 /ˈruːləz/；美 /ˈruːlərz/",
+    "meaning": "尺子；统治者〔复数〕",
+    "sense": "用直边画线、量距离的工具是 rulers；掌管、统治的人也叫 rulers。rule 的不同动作方向，各自得到 er 执行者、器物名。",
+    "split": "rule + -er，去掉词末 e 后加完整 er；先有统治者称呼，后来也有划线工具称呼。现代整词加 -s，尾 /z/。",
+    "history": [
+      [
+        "rule 的治理、划线等不同用法 + -er → ruler",
+        "统治的人；划线、量距的工具"
+      ],
+      [
+        "ruler + -s → rulers",
+        "多个尺子或统治者"
+      ]
+    ],
+    "explanation": "wooden rulers 木尺；ancient rulers 古代统治者。",
+    "usage": "rulers on the desks 桌上的尺子；rulers of the kingdom 王国统治者。",
+    "contrast": "两种意义共享 rule 这个基础词，但不能编成某位国王拿尺子的故事。工具、人物由 wood、kingdom 等线索选出。",
+    "examples": [
+      [
+        "Wooden rulers lay on the desks.",
+        "桌上放着木尺。"
+      ],
+      [
+        "The chapter describes the kingdom’s early rulers.",
+        "这一章介绍了王国早期统治者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rulers#English",
+      "https://en.wiktionary.org/wiki/ruler#English"
+    ]
+  },
+  {
+    "word": "folders",
+    "ipa": "英 /ˈfəʊldəz/；美 /ˈfoʊldərz/",
+    "meaning": "文件夹；折叠工具、人员等〔复数，按场景〕",
+    "sense": "两片可折合的外页，把散纸收在里面，就是 folders 的常见实物画面。电脑里把文件收成一组，也借用这个名称。",
+    "split": "fold 折叠 + -er → folder，命名折叠者、折合器具等；纸夹、电子文件组织用法各自固定。现代加 -s，尾 /z/。",
+    "history": [
+      [
+        "fold + -er → folder",
+        "折叠动作的执行者、器具；折合文件夹"
+      ],
+      [
+        "folder + -s → folders；电子组织用法",
+        "多个实物或电子文件夹"
+      ]
+    ],
+    "explanation": "paper folders 纸文件夹；folders on the computer 电脑里的文件夹。",
+    "usage": "organize the folders 整理文件夹；folders of receipts 装收据的文件夹。",
+    "contrast": "实物是折合收纳，电子文件夹则把收在同一处的组织关系借过来。fold 的羊圈名词是另一历史支，和这里分开。",
+    "examples": [
+      [
+        "She sorted the receipts into folders.",
+        "她把收据分类放进文件夹。"
+      ],
+      [
+        "The computer had separate folders for each project.",
+        "电脑里每个项目都有独立文件夹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folders#English",
+      "https://en.wiktionary.org/wiki/folder#English"
+    ]
+  },
+  {
+    "word": "binders",
+    "ipa": "英 /ˈbaɪndəz/；美 /ˈbaɪndərz/",
+    "meaning": "活页夹、装订夹；结合剂、装订者等〔复数〕",
+    "sense": "把散页收拢、固定在一起的夹具，是 binders。更宽泛说，把材料接合起来的东西、做装订的人，也能用 binder。",
+    "split": "bind 结合、绑住 + -er → binder，中古英语已有相应执行者名。现代加 -s，尾 /z/，作用物可为器具、材料或人。",
+    "history": [
+      [
+        "bind + -er → binder",
+        "把东西结合起来的执行者、材料、器具"
+      ],
+      [
+        "binder + -s → binders",
+        "多个夹具、结合材料或装订人员"
+      ]
+    ],
+    "explanation": "ring binders 活页夹；binders of notes 装着笔记的夹子。",
+    "usage": "binders on the shelf 架上的装订夹；chemical binders 化学结合材料〔相应技术语境〕。",
+    "contrast": "文件场景优先认夹具；材料场景可指让成分结合的物质。共同点是把散开的东西固定成一组。",
+    "examples": [
+      [
+        "The shelf held several binders of notes.",
+        "架子上放着几本装笔记的活页夹。"
+      ],
+      [
+        "She labelled the binders by subject.",
+        "她按主题给装订夹贴了标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/binders#English",
+      "https://en.wiktionary.org/wiki/binder#English"
+    ]
+  },
+  {
+    "word": "inking",
+    "ipa": "/ˈɪŋkɪŋ/",
+    "meaning": "正在上墨、描墨线；上墨过程；签订〔口语比喻〕",
+    "sense": "给印面加墨，或在铅笔线稿上描出清楚墨线，是 inking。协议正式用墨签下，也能借这个动作说 inking a deal。",
+    "split": "ink 的墨液名经法语、拉丁、希腊相关名称传入，再形成上墨、墨描、签下等动作。现代 ink 加 -ing，保留 nk 字母组合。",
+    "history": [
+      [
+        "墨液名 ink → 上墨、描线、签下的动词",
+        "把墨用于表面或文字"
+      ],
+      [
+        "ink + -ing → inking",
+        "动作进行；相应加工、签订过程"
+      ]
+    ],
+    "explanation": "inking a stamp 给印章上墨；inking the outlines 用墨描轮廓。",
+    "usage": "inking a deal 签订协议〔口语〕；the inking stage 描墨线阶段。",
+    "contrast": "漫画里的 inking 常是铅笔稿后的墨线处理；协议里的用法则借签名动作。两个场景都从实际用墨出发。",
+    "examples": [
+      [
+        "The artist was inking the outlines of the drawing.",
+        "画家正在用墨描出图画轮廓。"
+      ],
+      [
+        "She finished inking the stamp before printing.",
+        "她印之前给印章上好了墨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inking#English",
+      "https://en.wiktionary.org/wiki/ink#English"
+    ]
+  }
+]

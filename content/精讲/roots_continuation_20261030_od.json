@@ -1,0 +1,230 @@
+[
+  {
+    "id": "B2587",
+    "meaning": "火燃起来，也借指兴趣、希望被唤起",
+    "core": "KINDLE：把一点火苗或一点兴趣点起来",
+    "image": "kindle → rekindle；kindling 是点火动作和引火材料。",
+    "intro": "先看火苗从没有到出现，再把画面放进心里：兴趣、希望也会被点起。重燃加 re-，帮助起火的材料用 kindling。",
+    "forms": "古诺尔斯 kynda → 中古英语 kindelen → kindle；re- 再次；去 e + -ing。",
+    "branches": [
+      [
+        "点燃与重新点燃",
+        "kindle · rekindle"
+      ],
+      [
+        "动作和引火材料",
+        "kindling"
+      ]
+    ],
+    "contrasts": "kindle 不是 kind 善良加词尾；kindling 说引火材料，不能当所有木柴的总名。",
+    "practice": "The exhibition kindled an interest that the next trip rekindled.\n\n展览激起了一份兴趣，下一次旅行又让它重新燃起。",
+    "words": [
+      "kindle",
+      "rekindle",
+      "kindling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2986",
+    "meaning": "吐与唾液一支，烤签、狭长沙嘴另有来源",
+    "core": "SPIT：嘴里向外吐；另一支像细长的签",
+    "image": "spit 与 spittle 放在一起学，spit 的烤签、地形义另接长杆形状。",
+    "intro": "同一个拼法装了两条历史线。嘴里的唾液与吐出动作互相照应；细长烤签与伸入水中的沙嘴靠外形联系。",
+    "forms": "spǣtan、spittan → spit 吐；spātl → spattle → spittle；spitu → spit 烤签。",
+    "branches": [
+      [
+        "吐出与唾液",
+        "spit · spittle"
+      ],
+      [
+        "同形的长签、地形名",
+        "spit"
+      ]
+    ],
+    "contrasts": "spittle 的唾液义不是现代 spit 随意加 -le；长签义也不是从唾液演变。",
+    "practice": "He spat out the seed, then wiped away the spittle.\n\n他吐出种子，又擦掉唾沫。",
+    "words": [
+      "spit",
+      "spittle"
+    ],
+    "exclude": {
+      "spitter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2452",
+    "meaning": "在适当成熟、发生时间之前，常暗示太早",
+    "core": "PREMATURE：还没到火候，就提前发生",
+    "image": "premature → prematurely、prematurity；preemie 是早产儿的口语缩略称呼。",
+    "intro": "时间上的“早”不一定不好，但 premature 常暗示条件未成熟。先学形容词，再看副词、状态名词和宝宝称呼。",
+    "forms": "prae- 先 + maturus 成熟 → praematurus；-ly 方式；-ity 状态；缩短 + -ie。",
+    "branches": [
+      [
+        "过早的性质、方式与状态",
+        "premature · prematurely · prematurity"
+      ],
+      [
+        "早产儿的口语称呼",
+        "preemie"
+      ]
+    ],
+    "contrasts": "early 中性说早，premature 常说太早；preemie 不等于所有个头小的宝宝。",
+    "practice": "A premature conclusion may end the discussion prematurely.\n\n一个过早的结论可能让讨论提前结束。",
+    "words": [
+      "premature",
+      "prematurely",
+      "prematurity",
+      "preemie"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4293",
+    "meaning": "从混合诗集名称走向揭批恶习的讽刺形式",
+    "core": "SATIRE：让荒唐自己露出来，笑声里带着批评",
+    "image": "satire → satirical；satirist 做创作，satirize 是实施讽刺。",
+    "intro": "学现代词义时先抓“借笑揭问题”。历史上的满盘混合物经过杂集、诗集的命名才走向讽刺文学，不能把现代义直接翻成一盘菜。",
+    "forms": "satura → satira → satire；-ical 性质；-ist 人；-ize 动作；satyr 是历史误联想而非真正词源。",
+    "branches": [
+      [
+        "手法、作品与性质",
+        "satire · satirical"
+      ],
+      [
+        "创作者与创作动作",
+        "satirist · satirize"
+      ]
+    ],
+    "contrasts": "satire 不等于所有幽默；satirical 的重音移到中间，satirist、satirize 则重读前部。",
+    "practice": "The satirist uses a satirical story to satirize needless rules.\n\n讽刺作家用一个讽刺故事，挖苦那些多余的规定。",
+    "words": [
+      "satire",
+      "satirical",
+      "satirist",
+      "satirize"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2716",
+    "meaning": "果串一簇的旧名称，用于葡萄并形成复合词",
+    "core": "GRAPE：先看藤上垂着的一串果实",
+    "image": "grape → grapevine；grapefruit 另按成簇命名理解。",
+    "intro": "grape 先抓果实，grapevine 把藤说明白。grapefruit 虽带 grape，却是另一类果实，复合词要看命名画面。",
+    "forms": "法语 grappe → grape；vine 藤；fruit 果实，grapefruit 的葡萄联想来自成簇等命名背景。\n\n法语 grappe 一串、一簇，与钩取采摘材料的细部联系有不同解释。",
+    "branches": [
+      [
+        "果实与藤",
+        "grape · grapevine"
+      ],
+      [
+        "借成簇形象命名的另一种果实",
+        "grapefruit"
+      ],
+      [
+        "grape → grapes：果串名到葡萄",
+        "grape · grapes"
+      ]
+    ],
+    "contrasts": "grapevine 还有非正式消息传播网络的比喻；grapefruit 不按 grape 的植物分类直译。",
+    "practice": "A bunch of grapes hung from the grapevine.\n\n葡萄藤上挂着一串葡萄。",
+    "words": [
+      "grape",
+      "grapevine",
+      "grapefruit",
+      "grapes"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3218",
+    "meaning": "水花飞溅，借指显眼的动静和展示",
+    "core": "SPLASH：啪地一下，水花和注意力都散开",
+    "image": "splash → splashy，先实物飞溅，再看醒目效果。",
+    "intro": "一落水就有声音、水滴、动静，这个画面能帮你连起溅水、一点液体、一抹亮色和引起轰动。",
+    "forms": "plash 等拟声材料 → splash；+ -y → splashy。具体远源并不完全确定，不硬拆成 spill + ash。\n\nsplash 可能接 plash 加强化材料；splatter 有受 splash、spatter 影响的分析，保留可能性，不把教学联想写成确定混成史。\n\n现代撞落声义 splat 通常作拟声分析；更早同形 splatten 摊开材料可能另有联系，不硬画成每一个古词都确定直接传到现代声音词。与 splash 比较是帮助辨声音、形态。",
+    "branches": [
+      [
+        "溅水与醒目效果",
+        "splash · splashy"
+      ],
+      [
+        "splash 与 splatter：水花、飞溅与形象比较",
+        "splash · splashes · splashed · splashing · splatter · splatters · splattered · splattering"
+      ],
+      [
+        "splat：湿软物啪地撞落",
+        "splat · splats · splatted · splatting"
+      ]
+    ],
+    "contrasts": "spill 看洒出，splash 看飞溅；splashy 的宣传、登场义可带高调甚至浮夸的评价。",
+    "practice": "The splashy advertisement helped the new shop make a splash.\n\n醒目的广告帮新店引起了关注。",
+    "words": [
+      "splash",
+      "splashy",
+      "splashes",
+      "splashed",
+      "splashing",
+      "splatter",
+      "splatters",
+      "splattered",
+      "splattering",
+      "splat",
+      "splats",
+      "splatted",
+      "splatting"
+    ],
+    "exclude": {
+      "splash-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4466",
+    "meaning": "不肯改变，也能说东西难去掉、问题难解决",
+    "core": "STUBBORN：推不动、劝不动、清不掉",
+    "image": "stubborn → stubbornly → stubbornness，性质、表现方式、抽象名词。",
+    "intro": "一个“不容易改变”的画面就能串起倔脾气、顽渍、顽强抵抗。是否值得赞许，要看坚持的事和语境。",
+    "forms": "中古英语多种形式 → stubborn，远源未定；-ly 方式；-ness 性质，接成 nn。",
+    "branches": [
+      [
+        "性质、方式与抽象名词",
+        "stubborn · stubbornly · stubbornness"
+      ]
+    ],
+    "contrasts": "树桩可作帮助记忆的画面，不能当确定词源；stubbornness 不必每次都翻成贬义的顽固。",
+    "practice": "He stubbornly defended the idea, but later admitted his stubbornness.\n\n他曾固执地维护那个想法，后来却承认了自己的固执。",
+    "words": [
+      "stubborn",
+      "stubbornly",
+      "stubbornness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3005",
+    "meaning": "逆转做过的事，或毁掉建立起来的局面",
+    "core": "UNDO：把原来做上的事拆回来",
+    "image": "undo → undone、undoing，动作、结果形式与动作或败因名词。",
+    "intro": "先从解扣子、撤销一步操作进入，再看更抽象的拆毁：让一个人的局面垮掉也可说 undo，造成败局的事则可说 undoing。",
+    "forms": "un- 解除、逆转 + do；undone 是过去分词；undoing 接 -ing。",
+    "branches": [
+      [
+        "逆转动作与结果",
+        "undo · undone"
+      ],
+      [
+        "动作与败因名词",
+        "undoing"
+      ]
+    ],
+    "contrasts": "undone 可说未完成或解开的状态；undoing 可说毁掉某人的因素，不能见 -ing 就只译正在。",
+    "practice": "The careless decision was his undoing, and he could not undo its effects.\n\n那个草率决定成了他的败因，而他无法消除它的后果。",
+    "words": [
+      "undo",
+      "undone",
+      "undoing"
+    ],
+    "exclude": {}
+  }
+]

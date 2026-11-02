@@ -1,0 +1,200 @@
+[
+  {
+    "word": "when",
+    "ipa": "/wen/，部分口音保留 /hw/",
+    "meaning": "什么时候；何时〔疑问时间用法〕",
+    "sense": "把事件放到时间线上，却还没标日期，就用 when 问那个点：会议到底什么时候开始？",
+    "split": "古英语 hwonne 经中古英语 whenne／whanne 延续，和其他疑问词同属古老的疑问材料。现代完整用作时间询问词，不能拆成 wh + en 来猜。",
+    "history": [
+      [
+        "古英语 hwonne → 中古英语 whenne／whanne",
+        "在什么时间"
+      ],
+      [
+        "现代 when 的疑问用法",
+        "什么时候、何时"
+      ]
+    ],
+    "explanation": "When does it start? 问开始时间；Since when? 问从什么时候起；By when? 问最迟到什么时候。这里先掌握疑问时间用法。",
+    "usage": "since when；by when；When will ...?。",
+    "contrast": "when 问时间点，how long 常问持续时长，how soon 问还要等多久。Do you know when it starts? 是间接问题，内部不倒装成 when does it start。",
+    "examples": [
+      [
+        "When does the next train leave?",
+        "下一班火车什么时候开？"
+      ],
+      [
+        "Do you know when the museum opens?",
+        "你知道博物馆什么时候开门吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/when#English"
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "ipa": "英 /ˌnevəðəˈles/；美 /ˌnevərðəˈles/",
+    "meaning": "尽管如此；然而仍然",
+    "sense": "困难确实摆在那里，但没有把后面的事实压下去：事情很难，仍然值得做。",
+    "split": "中古英语 never the less 一类组合固定成词；never 在这里有一点也不的强调，旧 the 与程度比较有关，不宜逐字背成永远那个更少。",
+    "history": [
+      [
+        "中古英语 never the less",
+        "并不因此更少、较弱"
+      ],
+      [
+        "nevertheless 合写",
+        "尽管前述因素，仍然如此"
+      ]
+    ],
+    "explanation": "通常作为连接上下文的副词：The task was difficult. Nevertheless, we continued。句中也可说 It was nevertheless useful，表示前述不利因素没推翻判断。",
+    "usage": "nevertheless continued；nevertheless important。",
+    "contrast": "nevertheless 与 however 常相近，但更突出“虽有前面那个情况，仍然如此”。它不是 nevertheless than 一类比较结构。",
+    "examples": [
+      [
+        "The instructions were brief but nevertheless useful.",
+        "说明很简短，但仍然有用。"
+      ],
+      [
+        "It was raining heavily. Nevertheless, the game continued.",
+        "雨下得很大。尽管如此，比赛仍在继续。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/nevertheless"
+    ]
+  },
+  {
+    "word": "while",
+    "ipa": "/waɪl/，部分口音保留 /hw/",
+    "meaning": "一段时间〔名词〕；消磨〔时间，动词〕",
+    "sense": "坐下歇一会儿，时间不用精确到几分钟，那段模糊的时间就是 a while。",
+    "split": "古英语 hwīl 经中古英语 whyle 延续，早期是时间段的名词，远处有休息时段的历史联系；今天名词用法仍活在 a while、for a while 等常见短语中。",
+    "history": [
+      [
+        "古英语 hwīl → 中古英语 whyle",
+        "一段时间"
+      ],
+      [
+        "现代 while 的名词和动词",
+        "一会儿；消磨时间"
+      ]
+    ],
+    "explanation": "for a while 一会儿；in a while 过一会儿；once in a while 偶尔；while away an afternoon 消磨一个下午。这里先讲名词、动词，连词用法暂略。",
+    "usage": "for a while；a little while；while away。",
+    "contrast": "awhile 是副词，a while 是冠词加名词；介词后通常写 for a while，不能把所有 a while 都强行合写。",
+    "examples": [
+      [
+        "We sat by the river for a while.",
+        "我们在河边坐了一会儿。"
+      ],
+      [
+        "She whiled away the afternoon reading old letters.",
+        "她读着旧信，消磨了一个下午。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/while#English"
+    ]
+  },
+  {
+    "word": "meanwhile",
+    "ipa": "/ˈmiːnwaɪl/，部分口音保留 /hw/",
+    "meaning": "与此同时；在这期间",
+    "sense": "一边锅里煮水，另一边你切菜；meanwhile 把镜头切到同一段时间的另一件事。",
+    "split": "mean 的中间、居间义 + while 时间段，中古英语有相应名词组合；副词用法与 in the mean while 一类结构省略、固定有关。这里不是刻薄的 mean。",
+    "history": [
+      [
+        "mean〔居间〕+ while〔时段〕",
+        "中间这段时间"
+      ],
+      [
+        "meanwhile 的副词用法",
+        "与此同时；在这期间"
+      ]
+    ],
+    "explanation": "The soup is cooking. Meanwhile, chop the vegetables 汤在煮，这期间切菜。也可用于对照同一时间的另一幅景象。",
+    "usage": "meanwhile, ...；in the meanwhile。",
+    "contrast": "meanwhile 要让两件事共享一段时间；afterwards 说后来的事。meanwhile 不是“故意很刻薄地等一会儿”。",
+    "examples": [
+      [
+        "The paint needs an hour to dry. Meanwhile, we can clean the brushes.",
+        "油漆需要一小时晾干。这期间，我们可以清洗刷子。"
+      ],
+      [
+        "The children played outside. Meanwhile, their parents prepared dinner.",
+        "孩子们在外面玩；与此同时，家长们在准备晚饭。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/meanwhile"
+    ]
+  },
+  {
+    "word": "erstwhile",
+    "ipa": "英 /ˈɜːstwaɪl/；美 /ˈɜːrstwaɪl/",
+    "meaning": "从前的、昔日的〔较正式〕；从前〔少见副词用法〕",
+    "sense": "两个人以前是同事，如今已经各奔东西，文章可叫 them erstwhile colleagues：点出那段已经过去的关系。",
+    "split": "erst 从前、最初 + while，先形成从前的副词用法，后来也作形容词。erst 本身接古英语 ærest 等形式，不是英语 first 随便删一个字母。",
+    "history": [
+      [
+        "erst + while",
+        "在从前那个时段"
+      ],
+      [
+        "erstwhile 从副词扩展为形容词",
+        "昔日的、从前的"
+      ]
+    ],
+    "explanation": "an erstwhile colleague 昔日同事；erstwhile rivals 昔日对手。语气比 former 更书面；它不自动说明关系为何改变，也不意味着故人已去世。",
+    "usage": "erstwhile allies；an erstwhile colleague。",
+    "contrast": "former 在日常和正式文体中都常见；erstwhile 更有文章叙述色彩。它不等于 early 早的，也不表示本来就应该如此。",
+    "examples": [
+      [
+        "She met an erstwhile colleague at the conference.",
+        "她在会议上遇到了一位昔日同事。"
+      ],
+      [
+        "The erstwhile rivals now work on the same team.",
+        "从前的对手如今在同一个团队工作。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/erstwhile"
+    ]
+  },
+  {
+    "word": "must",
+    "ipa": "强读 /mʌst/；弱读 /məst/",
+    "meaning": "必须；一定是〔推断〕；必需或不可错过的事物〔名词〕",
+    "sense": "You must leave 可以是必须走；You must be tired 则常是看你忙了一天，推断你一定累了。两种“必然”要分开。",
+    "split": "由古英语 mōtan 的过去形式 mōste 经中古英语 moste 发展而来，旧过去式后来承担现在的情态意义。它不是现代动词 must 后再藏着一个 -ed。",
+    "history": [
+      [
+        "古英语 mōste → 中古英语 moste",
+        "较早的情态动词过去形式"
+      ],
+      [
+        "现代 must",
+        "必须、强烈推断；再转指必需之物"
+      ]
+    ],
+    "explanation": "must + 动词原形：must go、must be；不用 he musts。You must not enter 是禁止进入，You don’t have to enter 是不用进入；名词 a must 指必做、必看或必需之物。",
+    "usage": "must be；must not；an absolute must。",
+    "contrast": "musty 霉味的与情态动词 must 另有来源，不能解释成“非常必须”。讲过去的义务常用 had to，历史上来自过去式不等于今天可随意拿 must 当普通过去式。",
+    "examples": [
+      [
+        "You must wear your badge inside the building.",
+        "在楼内你必须佩戴证件。"
+      ],
+      [
+        "You have walked for hours; you must be tired.",
+        "你走了几个小时，一定累了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/must"
+    ]
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "word": "lacks",
+    "ipa": "/læks/",
+    "meaning": "缺少、欠缺〔第三人称单数〕",
+    "sense": "本来需要有的东西，这里却没有，或不足以支撑事情，就是 lacks。比如计划缺细节、房间缺光线。",
+    "split": "lack 接中古英语 lak、lakken，可能有低地日耳曼影响或未记录本族形式，确切直接来源有不同分析。现代动词直接加 -s，/k/ 后读 /s/。",
+    "history": [
+      [
+        "中古英语 lak、lakken → lack",
+        "欠缺、没有所需的东西"
+      ],
+      [
+        "lack + -s → lacks",
+        "某主体缺少、欠缺"
+      ]
+    ],
+    "explanation": "lacks detail 缺少细节；lacks confidence 缺乏信心；lacks space 空间不足。",
+    "usage": "lacks a clear purpose 缺少明确目的；lacks experience 缺乏经验。",
+    "contrast": "动词 lacks 后直接接缺少的东西：lacks detail。名词则常是 a lack of detail，不要把两套搭配混成 lacks of detail。",
+    "examples": [
+      [
+        "The plan lacks a clear ending.",
+        "这个计划缺少明确的收尾安排。"
+      ],
+      [
+        "The room lacks natural light.",
+        "这个房间缺少自然采光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lacks#English",
+      "https://en.wiktionary.org/wiki/lack#English"
+    ]
+  },
+  {
+    "word": "launches",
+    "ipa": "英 /ˈlɔːntʃɪz/；美 /ˈlɔːntʃɪz/ 或 /ˈlɑːntʃɪz/",
+    "meaning": "推出、启动、发射〔第三人称单数〕；发布、启动活动〔复数〕",
+    "sense": "把东西送出去，让它正式开始运作，是 launches。可以是新书推出，也可以是项目启动；名词则数这些启动、发布的事件。",
+    "split": "启动支经古法语 lancher、lancier，较早接拉丁 lanceare 投矛、lancea 矛。现代 launch 加 -es，/tʃ/ 后读 /ɪz/。小船名 launch 有葡萄牙语等另一来源。",
+    "history": [
+      [
+        "拉丁投矛材料 → 法语、英语 launch",
+        "向前投出 → 下水、发射、启动"
+      ],
+      [
+        "launch + -es → launches",
+        "某主体推出；多次发布、启动活动"
+      ]
+    ],
+    "explanation": "launches a project 启动项目；book launches 新书发布活动；launches into a story 开始滔滔不绝地讲故事。",
+    "usage": "product launches 产品发布活动；launches a website 推出网站。",
+    "contrast": "launches 着重正式推出或开始，不只是完成制作。一本书写好了，不表示它已经对外发布。",
+    "examples": [
+      [
+        "The publisher launches the new series in spring.",
+        "出版社在春季推出这个新系列。"
+      ],
+      [
+        "The library hosts several book launches each year.",
+        "图书馆每年举办几场新书发布活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/launches#English",
+      "https://en.wiktionary.org/wiki/launch#English"
+    ]
+  },
+  {
+    "word": "museums",
+    "ipa": "/mjuˈziːəmz/",
+    "meaning": "博物馆〔复数〕",
+    "sense": "把有文化、历史、科学等意义的东西收藏起来，让人观看、研究和学习的机构，是 museums。重点是收藏、展示和理解。",
+    "split": "museum 经拉丁 museum 接希腊 mouseion 缪斯的场所，连 Mousa 缪斯，较早包含艺术、学习场所义。现代英语整个 museum 加 -s，尾 /mz/。",
+    "history": [
+      [
+        "希腊 Mousa、mouseion → 拉丁 museum → 英语 museum",
+        "缪斯的场所 → 学术、收藏场所 → 博物馆"
+      ],
+      [
+        "museum + -s → museums",
+        "多家博物馆"
+      ]
+    ],
+    "explanation": "art museums 艺术博物馆；science museums 科学博物馆；local museums 当地博物馆。",
+    "usage": "visit museums 参观博物馆；collections in museums 博物馆里的收藏。",
+    "contrast": "museum 的现代核心不是只放古物。科学、艺术等机构也可叫 museum；复数常规加 s，不需要自行造一个拉丁形式。",
+    "examples": [
+      [
+        "We visited two museums during the trip.",
+        "旅行期间我们参观了两家博物馆。"
+      ],
+      [
+        "Local museums helped prepare the exhibition.",
+        "当地博物馆协助筹备了展览。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/museums#English",
+      "https://en.wiktionary.org/wiki/museum#English"
+    ]
+  },
+  {
+    "word": "phrases",
+    "ipa": "/ˈfreɪzɪz/",
+    "meaning": "短语、说法、乐句〔复数〕；措辞、表述〔第三人称单数〕",
+    "sense": "几词放在一起表达一块意思，是 phrases；音乐里像一句话一样完整的一小段，也能叫 phrases。动词则说怎样把意思说出来。",
+    "split": "phrase 经晚期拉丁 phrasis 接希腊 phrasis 表达方式、phrazo 讲明。现代加 -s，词干末是 /z/，所以 phrases 读 /ˈfreɪzɪz/。",
+    "history": [
+      [
+        "希腊表达材料 → 拉丁 phrasis → phrase",
+        "表达方式 → 措辞、短语；乐句"
+      ],
+      [
+        "phrase + -s → phrases",
+        "多个表达单位；某人这样措辞"
+      ]
+    ],
+    "explanation": "common phrases 常用短语；musical phrases 乐句；phrases the question carefully 斟酌着提出问题。",
+    "usage": "useful phrases 实用说法；short phrases 短语、短乐句。",
+    "contrast": "phrases 常是一段意义单位，不要求都是完整句子。动词 she phrases it differently 则在说她换了一种措辞。",
+    "examples": [
+      [
+        "The guide explains several common phrases.",
+        "指南解释了几个常用短语。"
+      ],
+      [
+        "She phrases difficult ideas in simple language.",
+        "她用简单语言表述难懂的想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/phrases#English",
+      "https://en.wiktionary.org/wiki/phrase#English"
+    ]
+  },
+  {
+    "word": "prevents",
+    "ipa": "/prɪˈvents/",
+    "meaning": "防止、阻止〔第三人称单数〕",
+    "sense": "抢在一件事发生前把它挡住，是 prevents。可能是主动设置保护，也可能是某个条件让事情没法发生。",
+    "split": "prevent 接拉丁 praevenire、praeventus，prae- 在前 + venire 来，较早先到、抢先。由抢先行动发展为防止、阻止。现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 prae- + venire → praevenire → prevent",
+        "先来到、抢先 → 阻止发生"
+      ],
+      [
+        "prevent + -s → prevents",
+        "某物防止某事、阻止某人做事"
+      ]
+    ],
+    "explanation": "prevents damage 防止损坏；prevents someone from doing… 使某人无法做……；prevents confusion 避免混淆。",
+    "usage": "prevents the door from closing 使门关不上；prevents mistakes 防止出错。",
+    "contrast": "prevents something from happening 说使它发生不了；protects something 说保护某物。两者对象和着眼点不同。",
+    "examples": [
+      [
+        "The cover prevents dust from settling on the keyboard.",
+        "罩子防止灰尘落到键盘上。"
+      ],
+      [
+        "Clear wording prevents confusion.",
+        "措辞清楚能避免混淆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prevents#English",
+      "https://en.wiktionary.org/wiki/prevent#English"
+    ]
+  },
+  {
+    "word": "profiles",
+    "ipa": "英 /ˈprəʊfaɪlz/；美 /ˈproʊfaɪlz/",
+    "meaning": "侧面轮廓、简介、个人资料页〔复数〕；作简介、勾勒〔第三人称单数〕",
+    "sense": "不用呈现全部细节，先勾出一个人或事物的样子，是 profiles。它可以是真侧脸，也可以是资料页、人物简述。",
+    "split": "profile 接意大利 profilo、profilare 勾出轮廓，较早 pro- 加 filare 拉出线，接拉丁 filum 线；部分分析列法语中介。现代加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 filum → 意大利 profilare、profilo → profile",
+        "线 → 勾出的轮廓 → 对象概要"
+      ],
+      [
+        "profile + -s → profiles",
+        "多个轮廓、简介；某作品介绍人物"
+      ]
+    ],
+    "explanation": "user profiles 用户资料页；personal profiles 个人简介；profiles local artists 介绍当地艺术家。",
+    "usage": "company profiles 公司简介；profiles in silhouette 剪影式侧面轮廓。",
+    "contrast": "profiles 抓主要特征，不保证是完整传记或全部记录。网站语境里常直接指个人资料页。",
+    "examples": [
+      [
+        "The website includes short profiles of the artists.",
+        "网站收录了艺术家们的简短介绍。"
+      ],
+      [
+        "The documentary profiles three local teachers.",
+        "这部纪录片介绍了三位当地教师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/profiles#English",
+      "https://en.wiktionary.org/wiki/profile#English"
+    ]
+  },
+  {
+    "word": "pursued",
+    "ipa": "英 /pəˈsjuːd/；美 /pərˈsuːd/",
+    "meaning": "追赶了、追求了；继续从事了〔过去式、过去分词〕",
+    "sense": "前面有一个人、目标或想法，自己一直跟着往前走，就是 pursued。可以真追人，也可以持续做学业、兴趣或事业。",
+    "split": "pursue 经盎格鲁诺曼语 pursure、poursuire 接拉丁 prosequi，并受 persequi 影响，连 sequi 跟随。现代去末尾 e 加完整 -ed，尾 /d/。",
+    "history": [
+      [
+        "拉丁跟随材料 → 盎格鲁诺曼语 → pursue",
+        "向前跟随、追踪 → 追求、继续从事"
+      ],
+      [
+        "pursue 去 e + -ed → pursued",
+        "已经追赶、追求或从事"
+      ]
+    ],
+    "explanation": "pursued a goal 追求目标；pursued an interest 继续发展兴趣；pursued the matter 继续追查此事。",
+    "usage": "pursued further study 继续深造；pursued by… 被……追赶。",
+    "contrast": "pursued 是朝目标努力，不表示已经拿到结果。pursued a career in music 说走音乐这条路，不自动说已经成名。",
+    "examples": [
+      [
+        "She pursued her interest in photography at college.",
+        "上大学时，她继续发展对摄影的兴趣。"
+      ],
+      [
+        "The dog pursued the ball across the grass.",
+        "狗追着球跑过草地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pursued#English",
+      "https://en.wiktionary.org/wiki/pursue#English"
+    ]
+  },
+  {
+    "word": "salaries",
+    "ipa": "/ˈsæləriz/",
+    "meaning": "薪水、薪酬〔复数〕",
+    "sense": "按工作约定定期支付给一个人的报酬，是 salary。把几个人或几种岗位的薪水分别拿出来看，就用 salaries。",
+    "split": "salary 经法语 salaire、salarie 接拉丁 salarium 津贴、报酬，与 sal 盐相关；具体古代支付安排不能仅凭词源定成拿盐发工资。现代 y 改 i 加 -es，尾 /riz/。",
+    "history": [
+      [
+        "拉丁 sal、salarium → 法语 → salary",
+        "与盐相关的津贴、报酬 → 按期薪酬"
+      ],
+      [
+        "salary 的 y 改 i + -es → salaries",
+        "不同人员、岗位的薪水"
+      ]
+    ],
+    "explanation": "annual salaries 年薪；staff salaries 员工薪水；different salaries 不同薪酬。",
+    "usage": "pay salaries 发薪；salaries for the roles 这些岗位的薪酬。",
+    "contrast": "salaries 通常说固定、按期的工作报酬；income 范围更广，还能包括别的来源。这个词本身不规定一定按哪一天发放。",
+    "examples": [
+      [
+        "The fictional company lists salaries for each role.",
+        "这家虚构公司列出了各岗位的薪酬。"
+      ],
+      [
+        "Staff salaries are included in the budget.",
+        "员工薪酬列入了预算。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/salaries#English",
+      "https://en.wiktionary.org/wiki/salary#English"
+    ]
+  },
+  {
+    "word": "seated",
+    "ipa": "/ˈsiːtɪd/",
+    "meaning": "坐着的、就座的；安排坐下了〔过去式、过去分词〕",
+    "sense": "人已经在一个位置上坐好，是 seated；工作人员把客人引到座位坐下，也可以说 seated them。",
+    "split": "seat 经中古英语 sete，接古英语 sæte、古诺尔斯语 sæti 等座位材料，借入和同族影响有不同分析；远源与 sit、拉丁 sedere 相连。现代 seat 动词加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "日耳曼座位名称 → 中古英语 sete → seat",
+        "座位 → 安排某人坐下"
+      ],
+      [
+        "seat + -ed → seated",
+        "已经安排坐下；人处于就座状态"
+      ]
+    ],
+    "explanation": "be seated 坐下、就座；remain seated 保持坐着；seated at the table 坐在桌旁。",
+    "usage": "seated beside someone 坐在某人旁边；seated the guests 给客人安排了座位。",
+    "contrast": "be seated 常描述坐好的状态；sit down 着重从站着到坐下的动作。seat someone 是安排别人坐下，不是普通地说自己坐。",
+    "examples": [
+      [
+        "The guests remained seated until the music ended.",
+        "宾客们一直坐着，直到音乐结束。"
+      ],
+      [
+        "The host seated us near the window.",
+        "主人安排我们坐在窗边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seated#English",
+      "https://en.wiktionary.org/wiki/seat#English"
+    ]
+  },
+  {
+    "word": "showers",
+    "ipa": "英 /ˈʃaʊəz/；美 /ˈʃaʊərz/",
+    "meaning": "阵雨、淋浴、淋浴设施〔复数〕；淋浴、成阵落下、接连给予〔第三人称单数〕",
+    "sense": "不是一直下，而是一阵阵落下的雨，是 showers。水从喷头成片落下成为淋浴；赞美接连落到人身上，也能借这个画面说 showers。",
+    "split": "常用 shower 接古英语 scur、后来 schour 的阵雨材料，延续喷淋和成阵给予等义。现代加 -s，尾读 /z/；这里不是 show 加表人后缀。",
+    "history": [
+      [
+        "古英语 scur → 中古英语 schour → shower",
+        "阵雨 → 喷淋、淋浴；成阵落下"
+      ],
+      [
+        "shower + -s → showers",
+        "多阵雨、几次淋浴；某人淋浴或不断给予"
+      ]
+    ],
+    "explanation": "heavy showers 大阵雨；hot showers 热水淋浴；showers someone with praise 接连夸赞某人。",
+    "usage": "shared showers 公用淋浴设施；short showers 短暂阵雨或短时间淋浴〔看语境〕。",
+    "contrast": "showers 可以数天气里的阵雨，也可以数洗澡次数或淋浴设施。praise、gifts 作宾语时，常是大量给予的比喻。",
+    "examples": [
+      [
+        "We waited inside while the showers passed.",
+        "阵雨经过时，我们在室内等候。"
+      ],
+      [
+        "The campsite has toilets and hot showers.",
+        "营地有厕所和热水淋浴设施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/showers#English",
+      "https://en.wiktionary.org/wiki/shower#English"
+    ]
+  },
+  {
+    "word": "sings",
+    "ipa": "/sɪŋz/",
+    "meaning": "唱、唱歌〔第三人称单数〕；鸣唱〔鸟等〕",
+    "sense": "让声音跟着旋律走，是 sings。人能唱歌，鸟也能鸣唱，机械发出持续有调子的声音有时也会被这样比喻。",
+    "split": "sing 继承古英语 singan，经中古英语 singen 延续。现代第三人称单数加 -s，/ŋ/ 后读 /z/，没有额外的 /ɡ/。",
+    "history": [
+      [
+        "古英语 singan → 中古英语 singen → sing",
+        "有旋律地发声、歌唱"
+      ],
+      [
+        "sing + -s → sings",
+        "某个人唱歌；某只鸟鸣唱"
+      ]
+    ],
+    "explanation": "sings in a choir 在合唱团唱歌；sings softly 轻声唱；a bird sings 鸟鸣唱。",
+    "usage": "sings along 跟着唱；sings the melody 唱旋律。",
+    "contrast": "sings 是现在形式，不是过去式。过去唱了用 sang，过去分词 sung；现代三单则照常加 s。",
+    "examples": [
+      [
+        "She sings in a small choir.",
+        "她在一个小合唱团唱歌。"
+      ],
+      [
+        "A bird sings outside the window.",
+        "窗外有只鸟在鸣唱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sings#English",
+      "https://en.wiktionary.org/wiki/sing#English"
+    ]
+  },
+  {
+    "word": "surprises",
+    "ipa": "英 /səˈpraɪzɪz/；美 /sərˈpraɪzɪz/",
+    "meaning": "意外的事、惊喜〔复数〕；使吃惊〔第三人称单数〕",
+    "sense": "人没料到，却突然来到眼前的事，是 surprises；某件事让人一下感到意外，动词也写 surprises。可以愉快，也可以令人不安。",
+    "split": "surprise 接法语 surprise、surprendre 等趁不备抓住材料，prendre 追到拉丁 prehendere；英语名动词有相关借入、转用路线。现代加 -s，词尾 /z/ 后读 /ɪz/。",
+    "history": [
+      [
+        "法语 surprendre、surprise → 英语 surprise",
+        "趁不备抓住 → 意外的事、使惊讶"
+      ],
+      [
+        "surprise + -s → surprises",
+        "多件意外事；某事使人吃惊"
+      ]
+    ],
+    "explanation": "pleasant surprises 愉快的惊喜；no surprises 没有意外；surprises everyone 让大家吃惊。",
+    "usage": "full of surprises 充满意外；never surprises me 从不让我觉得意外。",
+    "contrast": "surprises 并不天生等于好消息。pleasant、unpleasant 等修饰语，或前后情境，才告诉你惊讶是好是坏。",
+    "examples": [
+      [
+        "The story is full of surprises.",
+        "这个故事充满意想不到的变化。"
+      ],
+      [
+        "Her patience surprises me every time.",
+        "她的耐心每次都让我惊讶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surprises#English",
+      "https://en.wiktionary.org/wiki/surprise#English"
+    ]
+  },
+  {
+    "word": "touring",
+    "ipa": "英 /ˈtʊərɪŋ/ 或 /ˈtɔːrɪŋ/；美 /ˈtʊrɪŋ/ 或 /ˈtɔrɪŋ/",
+    "meaning": "巡游、游览、巡演〔现在分词、动名词〕；巡回的〔定语〕",
+    "sense": "行程不是只停在一个点，而是一处接一处绕着走，是 touring。乐队到不同地方演出，就是把这段行程用于巡演。",
+    "split": "tour 经法语 tour、tourner 接拉丁 tornare 转动的词族，发展绕行、行程。现代直接加完整 -ing，词干 tour 保留。",
+    "history": [
+      [
+        "拉丁 tornare → 法语 tour 等 → 英语 tour",
+        "转动、绕行 → 游历、参观、巡演"
+      ],
+      [
+        "tour + -ing → touring",
+        "正在多处游览、巡演；巡回的"
+      ]
+    ],
+    "explanation": "touring the country 在国内各处游览、巡演；a touring company 巡演剧团；touring by bicycle 骑车旅行。",
+    "usage": "a touring exhibition 巡回展览；touring with a band 随乐队巡演。",
+    "contrast": "touring 的核心是串起多个地点的行程。traveling 更泛，touring 常有参观、演出等一站接一站的安排。",
+    "examples": [
+      [
+        "The band is touring small towns this summer.",
+        "乐队这个夏天在各个小镇巡演。"
+      ],
+      [
+        "We spent a week touring the coast by bicycle.",
+        "我们花了一周骑车游览海岸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/touring#English",
+      "https://en.wiktionary.org/wiki/tour#English"
+    ]
+  },
+  {
+    "word": "traces",
+    "ipa": "/ˈtreɪsɪz/",
+    "meaning": "痕迹、微量、蛛丝马迹〔复数〕；追溯、描摹〔第三人称单数〕",
+    "sense": "东西虽然走了、消失了，仍留下一点能顺着找的线索，是 traces。动词则沿着这些线索往回找，或沿轮廓描画。",
+    "split": "trace 经古法语 trace、tracer 进入中古英语，较远与拉丁拖、描线、追踪等材料的具体路线有不同分析。现代加 -s，词尾 /s/ 后读 /ɪz/。",
+    "history": [
+      [
+        "古法语 trace、tracer → 中古英语、现代 trace",
+        "痕迹、轮廓；沿线描画、追查"
+      ],
+      [
+        "trace + -s → traces",
+        "多处痕迹、微量；某作品追溯等"
+      ]
+    ],
+    "explanation": "traces of paint 油漆残痕；traces of doubt 一丝怀疑；traces the history 追溯历史。",
+    "usage": "leave traces 留下痕迹；traces the outline 描摹轮廓。",
+    "contrast": "traces of something 常说少量残留，不一定是脚印。动词 traces 也不要求侦查场景，书和文章都能追溯发展过程。",
+    "examples": [
+      [
+        "There are traces of blue paint on the frame.",
+        "框上残留着蓝色油漆的痕迹。"
+      ],
+      [
+        "The book traces the history of the theatre.",
+        "这本书追溯了这家剧院的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/traces#English",
+      "https://en.wiktionary.org/wiki/trace#English"
+    ]
+  },
+  {
+    "word": "utilities",
+    "ipa": "/juːˈtɪlətiz/",
+    "meaning": "水电等公用服务、公用事业；实用工具程序〔复数〕",
+    "sense": "房子日常运转离不开的供水、供电等基础服务，常合称 utilities。电脑里完成清理、转换、整理等具体任务的小工具，也可叫 utilities。",
+    "split": "utility 经古法语 utilite 接拉丁 utilitas 用处，连 utilis 有用、uti 使用。由用处发展为提供基本服务的事业、实用工具。现代末尾 y 改 i 加 -es，尾 /tiz/。",
+    "history": [
+      [
+        "拉丁 uti、utilis、utilitas → 法语、英语 utility",
+        "使用、有用 → 实用性、具体服务或工具"
+      ],
+      [
+        "utility 的 y 改 i + -es → utilities",
+        "多种公用服务、事业；工具程序"
+      ]
+    ],
+    "explanation": "public utilities 公用事业；utilities included 包含水电等服务费用〔依约定语境〕；software utilities 工具程序。",
+    "usage": "pay for utilities 支付水电等费用；file utilities 文件处理工具。",
+    "contrast": "utilities 在住宿语境常说基础服务或费用，在电脑语境则说工具。utility 泛说实用性时，常是不可数抽象义。",
+    "examples": [
+      [
+        "The brochure lists the utilities available at the campsite.",
+        "宣传册列出了营地可用的基础服务。"
+      ],
+      [
+        "The program includes several useful file utilities.",
+        "这个程序包含几个实用的文件处理工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/utilities#English",
+      "https://en.wiktionary.org/wiki/utility#English"
+    ]
+  },
+  {
+    "word": "yields",
+    "ipa": "/jiːldz/",
+    "meaning": "产出、带来；让出、让步〔第三人称单数〕；产量、收益〔复数〕",
+    "sense": "土地或方法给出结果，是 yields；把原来抓着的位置、控制权交出去，也用 yields。两边都能抓住给予、交出的老方向。",
+    "split": "yield 继承古英语 gieldan 支付、给予、回报，经中古英语 yelden 延续，后来发展产出、让步等分支。现代加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "古英语 gieldan → 中古英语 yelden → yield",
+        "支付、给予、交出 → 产出、回报、让步"
+      ],
+      [
+        "yield + -s → yields",
+        "某物产出、某人让步；不同产量、收益"
+      ]
+    ],
+    "explanation": "yields results 产生结果；crop yields 作物产量；yields to pressure 向压力让步。",
+    "usage": "higher yields 更高产量；yields a clue 提供线索。",
+    "contrast": "yields 作动词可以是不费力地产生，也可以是交出控制。名词复数的 yields 要看是在数农作物产量，还是别的回报。",
+    "examples": [
+      [
+        "The garden yields enough beans for the family.",
+        "菜园种出的豆子够一家人吃。"
+      ],
+      [
+        "The experiment compares yields from three small plots.",
+        "实验比较了三块小地的产量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/yields#English",
+      "https://en.wiktionary.org/wiki/yield#English"
+    ]
+  },
+  {
+    "word": "assignments",
+    "ipa": "/əˈsaɪnmənts/",
+    "meaning": "任务、作业；分配、派驻任务〔复数〕",
+    "sense": "一件工作被指定交给你，让你负责完成，就是 an assignment。几项分别交付的工作或学校作业，是 assignments。",
+    "split": "assignment 经古法语 assignement 借入，接 assigner、拉丁 assignare，ad- 加 signare 做记号、指定。现代能对应 assign + -ment，但名词有独立法语来源；再加复数 -s，尾 /nts/。",
+    "history": [
+      [
+        "拉丁 assignare → 法语 assignement → assignment",
+        "指定、划归 → 被交付的任务"
+      ],
+      [
+        "assignment + -s → assignments",
+        "多项作业、工作任务或派驻安排"
+      ]
+    ],
+    "explanation": "homework assignments 家庭作业任务；writing assignments 写作作业；overseas assignments 海外派驻任务。",
+    "usage": "complete the assignments 完成任务；class assignments 课堂、课程作业。",
+    "contrast": "assignments 常是可数的一项项工作；homework 泛说家庭作业时通常不可数。a homework assignment 可以，不能照搬成 a homework。",
+    "examples": [
+      [
+        "We have two writing assignments this week.",
+        "我们这周有两项写作作业。"
+      ],
+      [
+        "She completed all her assignments before the trip.",
+        "出发旅行前，她完成了所有任务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assignments#English",
+      "https://en.wiktionary.org/wiki/assignment#English"
+    ]
+  }
+]

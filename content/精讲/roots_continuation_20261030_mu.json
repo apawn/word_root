@@ -1,0 +1,198 @@
+[
+  {
+    "id": "B4224",
+    "meaning": "划边界到使结束，再形成状态与终结者名称",
+    "core": "TERMINATE：在这里划一道终止线",
+    "image": "terminate → terminated、terminator。",
+    "intro": "工作流程、合同和程序都可以到终点。终结者这一人物名、终止符这一工具名，以及天体明暗边界，都能由尽头、界线来串联。",
+    "forms": "terminus 边界、尽头 → terminare → terminate；-ed 状态，-or 人或起作用的东西。",
+    "branches": [
+      [
+        "动作、状态、执行或划界者",
+        "terminate · terminated · terminator"
+      ]
+    ],
+    "contrasts": "terminated 按对象读终止；terminator 的范围比电影角色宽。",
+    "practice": "A terminator marks where the record ends; the process is then terminated.\n\n终止符标出记录的末尾，之后进程结束。",
+    "words": [
+      "terminate",
+      "terminated",
+      "terminator"
+    ],
+    "exclude": {
+      "self-terminate": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3491",
+    "meaning": "表面与实际的距离，扩展到情境反差的评论",
+    "core": "IRONIC：话有反意，事情有出人意料的反差",
+    "image": "ironic、ironical 两种形容词；ironically 说方式或评注情境。",
+    "intro": "重点放在反差：表面赞扬可能实际挖苦，强调节约的安排却特别浪费。偶然发生两件事则未必有这层讽刺。",
+    "forms": "eirōneia、eirōnikos 经拉丁等 → ironic；-al 同义扩展，-ally 副词。",
+    "branches": [
+      [
+        "形容词与副词",
+        "ironic · ironical · ironically"
+      ]
+    ],
+    "contrasts": "ironical 与 ironic 基本同义；ironically 不等于所有“碰巧”。",
+    "practice": "Ironically, his ironical warning was taken as sincere praise.\n\n讽刺的是，他那句反讽的提醒被当成了真心赞扬。",
+    "words": [
+      "ironic",
+      "ironical",
+      "ironically"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1848",
+    "meaning": "神经系统的组合成分，把研究对象放在词首",
+    "core": "NEURO-：先锁定神经系统，再读后面做什么",
+    "image": "成像 imaging；肌肉 muscular；发育 developmental；退行 degeneration；生成 genesis。",
+    "intro": "把长词读成几块：neuroimaging 给神经系统成像，neuromuscular 看神经和肌肉，neurogenesis 看神经元形成。过程、性质和学科名各有分工。",
+    "forms": "希腊 neuron 筋、腱，后指神经 → neuro-；后接名词、形容词或学科组合成分。",
+    "branches": [
+      [
+        "对象与研究方法",
+        "neuroscience · neuroscientist · neurobiology · neurobiological · neuroimaging"
+      ],
+      [
+        "肌肉联系、发育与生成",
+        "neuromuscular · neurodevelopmental · neurogenesis · neuroplasticity"
+      ],
+      [
+        "退行、损伤与保护",
+        "neurodegeneration · neurodegenerative · neuropathy · neuropathic · neurotoxin · neurotoxic · neuroprotective"
+      ],
+      [
+        "相关专业及其他性质",
+        "neurologist · neurosurgery · neurosurgeon · neurosurgical · neurotransmitter · neuroendocrine · neurocognitive · neuropsychology · neuropsychological · neurotic · neurosis · neuroblastoma"
+      ]
+    ],
+    "contrasts": "neuro- 指神经系统；含此成分的词未必在说日常情绪紧张。生成、发育、退行是不同过程。",
+    "practice": "Neuroimaging helps researchers examine the nervous system, while neurogenesis names the formation of neurons.\n\n神经影像帮助研究人员考察神经系统；神经发生则命名神经元形成这一过程。",
+    "words": [
+      "neuroscience",
+      "neuroscientist",
+      "neurobiology",
+      "neurobiological",
+      "neuroimaging",
+      "neuromuscular",
+      "neurodevelopmental",
+      "neurogenesis",
+      "neuroplasticity",
+      "neurodegeneration",
+      "neurodegenerative",
+      "neuropathy",
+      "neuropathic",
+      "neurotoxin",
+      "neurotoxic",
+      "neuroprotective",
+      "neurologist",
+      "neurosurgery",
+      "neurosurgeon",
+      "neurosurgical",
+      "neurotransmitter",
+      "neuroendocrine",
+      "neurocognitive",
+      "neuropsychology",
+      "neuropsychological",
+      "neurotic",
+      "neurosis",
+      "neuroblastoma"
+    ],
+    "exclude": {
+      "neuro-oncology": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neuro-ophthalmology": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neuropsychiatric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurophysiology": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurotoxicity": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurogenic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurotrophic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neuroanatomy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neurophysiological": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neuropeptide": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4104",
+    "meaning": "遮着到揭开，再到公开信息",
+    "core": "VEIL：遮一层布，揭开就让人看见",
+    "image": "veil → unveil → unveiled。",
+    "intro": "面纱、薄雾或故意的掩饰都能形成遮挡。un- 在 unveil 里撤去遮挡，过去分词再交代已经揭开、公开的状态。",
+    "forms": "velum → veil；un- 撤去 + veil → unveil；-ed 完成状态。\n\n借阿拉伯语 ḥijāb，根材料 h-j-b 遮挡、遮盖；旧有隔屏、遮挡等义，现代英语常说部分穆斯林女性所戴头巾，也可能说相关衣着观念。与英语 veil 只作意义对照。",
+    "branches": [
+      [
+        "遮盖、揭开与已公开状态",
+        "veil · unveil · unveiled"
+      ],
+      [
+        "veil 对照：hijab 的遮盖与头巾用法",
+        "hijab"
+      ]
+    ],
+    "contrasts": "unveiled plan 是已公开的计划，是否已经实行另看下文。",
+    "practice": "They unveiled the model, and photographs of the unveiled design soon appeared.\n\n他们揭开模型，新设计的照片很快就出现了。",
+    "words": [
+      "veil",
+      "unveil",
+      "unveiled",
+      "hijab"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4381",
+    "meaning": "一条痕迹，连接连续表现、性格倾向与飞快掠过",
+    "core": "STREAK：细长一条，也能把连续事件串成一条",
+    "image": "streak → streaky；裸奔动词 → streaker。",
+    "intro": "白发一缕、玻璃条痕、连胜一串都能用一条线帮助记忆。streaky 又描述好坏表现成段起伏，streaker 则走特定的裸奔动作义。",
+    "forms": "strica → streke → streak；-y 性质，-er 做动作的人。",
+    "branches": [
+      [
+        "条痕、连续表现及性质",
+        "streak · streaky"
+      ],
+      [
+        "飞快跑过的特定人物名",
+        "streaker"
+      ]
+    ],
+    "contrasts": "streaky 表现一阵好一阵坏；streaker 常指裸奔者。",
+    "practice": "A streaky performance finally ended the team’s winning streak.\n\n一场起伏不定的表现终于终结了球队的连胜。",
+    "words": [
+      "streak",
+      "streaky",
+      "streaker"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3937",
+    "meaning": "细长材料丝线，连接板材与微细纤维",
+    "core": "FIBER：先抓一根细丝，再看如何组合成材料",
+    "image": "fiber、fibre 两种拼写；fiberboard 成板，microfiber 特别细的纤维。",
+    "intro": "细丝可以织成布，也可以结合成板。材料词看结构，膳食纤维看食品领域的专门用法，moral fiber 借纤维支撑形象谈品格。",
+    "forms": "fibra → fibre → fiber；fiber + board，micro- 微细 + fiber。\n\nfiber 经拉丁 fibra 接细丝、内脏相关旧义，远源未定；美式 fibers 对应英式 fibres，现代可说材料纤维、身体里的纤维。",
+    "branches": [
+      [
+        "纤维与材料扩展",
+        "fiber · fiberboard · microfiber"
+      ],
+      [
+        "fiber 细丝、纤维 → fibers",
+        "fibers"
+      ]
+    ],
+    "contrasts": "fiber／fibre 是拼写差异；fiberboard 与 plywood 的内部材料组织不同。",
+    "practice": "The shop sells fiberboard panels and microfiber cloths.\n\n店里卖纤维板，也卖微纤维布。",
+    "words": [
+      "fiber",
+      "fiberboard",
+      "microfiber",
+      "fibers"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,621 @@
+[
+  {
+    "word": "north",
+    "ipa": "英 /nɔːθ/；美 /nɔːrθ/",
+    "meaning": "北；北方；北部的；向北",
+    "sense": "先在方向盘上认出北，再看说的是北边的位置，还是向北移动。",
+    "split": "接古英语 norþ、中古英语 north，日耳曼诸语有同源形式。更早为什么取这个名字有不同解释，不把面朝日出左手边的故事当定论。",
+    "history": [
+      [
+        "古英语 norþ → 中古英语 north",
+        "北方、向北"
+      ],
+      [
+        "英语 north",
+        "北；北部、北方的"
+      ]
+    ],
+    "explanation": "head north 向北走，north of the city 在城北，the north of the country 国家北部。指南针、地图语境的北，不由页面上方朝哪旋转来决定。",
+    "usage": "head north；north of；the north of；due north。",
+    "contrast": "north of London 在伦敦以北；in the north of London 在伦敦北部。一个在城市外的相对方位，一个属于城内区域。",
+    "examples": [
+      [
+        "We drove north for two hours.",
+        "我们往北开了两小时。"
+      ],
+      [
+        "The village lies north of the lake.",
+        "村庄在湖的北边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/north#English",
+      "https://www.etymonline.com/word/north"
+    ]
+  },
+  {
+    "word": "northern",
+    "ipa": "英 /ˈnɔːðən/；美 /ˈnɔːrðərn/",
+    "meaning": "北方的；北部的",
+    "sense": "给一片区域贴上北部的位置标签，不说它正在往北跑。",
+    "split": "现代对应 north + -ern；古英语已有 norþerne，中古英语 northerne。词中 th 通常读 /ð/，与 north 的 /θ/ 不同。",
+    "history": [
+      [
+        "古英语 norþ → 中古英语 north",
+        "北方、向北"
+      ],
+      [
+        "英语 north",
+        "北；北部、北方的"
+      ],
+      [
+        "古英语 norþerne → 英语 northern",
+        "北方、北部的；现代对应 north + -ern"
+      ]
+    ],
+    "explanation": "northern Europe 北欧、欧洲北部，the northern coast 北部海岸。大小写要看是否正式地名，不是一切方位形容词都大写。",
+    "usage": "northern Europe；the northern coast；the northern hemisphere。",
+    "contrast": "northern 主要说所在区域，northbound 说朝北行进。a northern train service 可涉及北方地区，不保证这班车正在北上。",
+    "examples": [
+      [
+        "Snow covered the northern hills.",
+        "雪覆盖了北部山丘。"
+      ],
+      [
+        "The bird breeds in northern Europe.",
+        "这种鸟在欧洲北部繁殖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northern#English"
+    ]
+  },
+  {
+    "word": "northerly",
+    "ipa": "英 /ˈnɔːðəli/；美 /ˈnɔːrðərli/",
+    "meaning": "偏北的；向北的；从北方来的〔风〕",
+    "sense": "行进方向朝北，与风来自北边，是同一个方位词在两个参照方式里的用法。",
+    "split": "与 norther 等方位词形及 -ly 相连；可理解为 north 词族的方位形容词、副词，不是只给 northern 再机械叠 ly。",
+    "history": [
+      [
+        "古英语 norþ → 中古英语 north",
+        "北方、向北"
+      ],
+      [
+        "英语 north",
+        "北；北部、北方的"
+      ],
+      [
+        "相关 norther 词形 + -ly → northerly",
+        "偏北、向北；风向中特指来自北方"
+      ]
+    ],
+    "explanation": "a northerly route 是偏北、向北的路线；a northerly wind 从北往南吹。天气报告按来向给风命名，不按吹去的方向。",
+    "usage": "a northerly wind；a northerly direction；a northerly route。",
+    "contrast": "northerly wind 与 northbound train 的参照相反：风从北来，车往北去；不要只背一个朝北。",
+    "examples": [
+      [
+        "A northerly wind blew across the lake.",
+        "一阵北风吹过湖面。"
+      ],
+      [
+        "They followed a more northerly route.",
+        "他们走了一条更偏北的路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northerly#English",
+      "https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind"
+    ]
+  },
+  {
+    "word": "northward",
+    "ipa": "英 /ˈnɔːθwəd/；美 /ˈnɔːrθwərd/",
+    "meaning": "向北；向北的",
+    "sense": "在地图上从当前位置画一根朝北的箭头。",
+    "split": "north + -ward，-ward 表朝某方向；形容词和副词都可用。不是 northern“位于北部”的完全同义替身。",
+    "history": [
+      [
+        "north；-ward",
+        "并列构词部分"
+      ],
+      [
+        "northward",
+        "朝北的方向"
+      ]
+    ],
+    "explanation": "move northward 向北移动，a northward journey 向北的旅程。描述持续位移或方向，不必已经到达北方终点。",
+    "usage": "move northward；a northward journey；northward movement。",
+    "contrast": "northward 向北，northern 北部的；北部城市的人也可以 southward 向南走。",
+    "examples": [
+      [
+        "The birds moved northward in spring.",
+        "鸟儿春天向北迁移。"
+      ],
+      [
+        "The road makes a northward turn beyond the bridge.",
+        "过桥后，路向北拐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northward#English"
+    ]
+  },
+  {
+    "word": "northwards",
+    "ipa": "英 /ˈnɔːθwədz/；美 /ˈnɔːrθwərdz/",
+    "meaning": "向北",
+    "sense": "和 northward 一样看那根向北的箭头，只是常用副词多了一个 s。",
+    "split": "north + -wards，-wards 是方向副词后缀形式。末尾 s 不是名词复数，读 /z/。",
+    "history": [
+      [
+        "north；-wards",
+        "并列构词部分"
+      ],
+      [
+        "northwards",
+        "向北移动或延伸"
+      ]
+    ],
+    "explanation": "travel northwards 向北旅行；英式副词常见 -wards，美式常偏 -ward，不能当绝对地域禁区。作名词前形容词通常选 northward。",
+    "usage": "travel northwards；look northwards；extend northwards。",
+    "contrast": "northwards 与 northward 的副词义基本相同；不要把 s 理解成好几个北方。",
+    "examples": [
+      [
+        "The railway extends northwards from the capital.",
+        "铁路从首都向北延伸。"
+      ],
+      [
+        "We watched the flock flying northwards.",
+        "我们看着鸟群向北飞去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northwards#English"
+    ]
+  },
+  {
+    "word": "northbound",
+    "ipa": "英 /ˈnɔːθbaʊnd/；美 /ˈnɔːrθbaʊnd/",
+    "meaning": "北行的；开往北方的",
+    "sense": "车头、航线或人流正在指向北，不必已经在北部地区。",
+    "split": "north + bound，bound 在这种组合里表示前往某处，不是 bind“捆绑”的被动含义。",
+    "history": [
+      [
+        "north；bound〔前往的〕",
+        "并列构词部分"
+      ],
+      [
+        "northbound",
+        "驶向、行向北方的"
+      ]
+    ],
+    "explanation": "a northbound train 北行列车，northbound traffic 北向车流；时刻表、道路提示很常见。",
+    "usage": "a northbound train；northbound traffic；the northbound lane。",
+    "contrast": "northbound 往北去，northerly wind 从北来；列车是否位于国家北部要另看位置。",
+    "examples": [
+      [
+        "We boarded a northbound train.",
+        "我们登上一列北行列车。"
+      ],
+      [
+        "The northbound lane was closed for repairs.",
+        "北向车道因维修关闭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northbound#English"
+    ]
+  },
+  {
+    "word": "northeast",
+    "ipa": "英 /ˌnɔːθˈiːst/；美 /ˌnɔːrθˈiːst/",
+    "meaning": "东北；东北部；向东北",
+    "sense": "在北和东之间取一个斜方向，地图上通常是右上斜线。",
+    "split": "north + east，古英语有 norþēast，经中古英语 northest 等延续。现代也常见分写、连字符写法，本页保留连写词形。",
+    "history": [
+      [
+        "north；east",
+        "并列构词部分"
+      ],
+      [
+        "northeast",
+        "北与东之间的方向、对应区域"
+      ]
+    ],
+    "explanation": "northeast of the city 城市东北方，the northeast of the country 国家东北部。go northeast 是向东北走。",
+    "usage": "northeast of；the northeast of；head northeast。",
+    "contrast": "northeast 是方向或区域名，northeastern 常是修饰某地区部分的形容词；northeasterly 另有风的来向用法。",
+    "examples": [
+      [
+        "The village is northeast of the airport.",
+        "村庄在机场东北方。"
+      ],
+      [
+        "We headed northeast after crossing the river.",
+        "过河后，我们向东北走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northeast#English"
+    ]
+  },
+  {
+    "word": "northeastern",
+    "ipa": "英 /ˌnɔːθˈiːstən/；美 /ˌnɔːrθˈiːstərn/",
+    "meaning": "东北部的；东北方的",
+    "sense": "把一片区域分成方向，这里挑的是东北那一块。",
+    "split": "north + eastern，古英语已有 norþēasterne，中古英语有相应形式。也可从 northeast 对照 -ern 的形容词关系。",
+    "history": [
+      [
+        "north；eastern",
+        "并列构词部分"
+      ],
+      [
+        "northeastern",
+        "位于东北部、与东北方有关的"
+      ]
+    ],
+    "explanation": "the northeastern coast 东北海岸，northeastern regions 东北地区；强调区域位置，不强制描述移动方向。",
+    "usage": "the northeastern coast；a northeastern region；the northeastern corner。",
+    "contrast": "northeastern 静态区域常见，northbound / eastbound 明确交通去向；一辆车在东北地区也可以向西走。",
+    "examples": [
+      [
+        "The storm reached the northeastern coast.",
+        "风暴抵达东北海岸。"
+      ],
+      [
+        "The plant grows in the northeastern part of the country.",
+        "这种植物生长在该国东北部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northeastern#English"
+    ]
+  },
+  {
+    "word": "northeasterly",
+    "ipa": "英 /ˌnɔːθˈiːstəli/；美 /ˌnɔːrθˈiːstərli/",
+    "meaning": "向东北的；从东北来的〔风〕",
+    "sense": "路线往东北画，风却按来自东北命名，先问对象是什么。",
+    "split": "north + easterly，对应东北方位的形容词、副词；不是所有 -ly 结尾都只能作副词。",
+    "history": [
+      [
+        "north；easterly",
+        "并列构词部分"
+      ],
+      [
+        "northeasterly",
+        "东北方向；风自东北来"
+      ]
+    ],
+    "explanation": "a northeasterly wind 东北风，a northeasterly direction 朝东北方向。两例方向参照不同，但都围绕东北。",
+    "usage": "a northeasterly wind；a northeasterly direction；a northeasterly course。",
+    "contrast": "northeasterly wind 从东北吹来，不是吹向东北；行船 northeasterly course 则是东北向航线。",
+    "examples": [
+      [
+        "A northeasterly wind carried the mist inland.",
+        "东北风把雾带向内陆。"
+      ],
+      [
+        "The path continues in a northeasterly direction.",
+        "小路继续向东北延伸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northeasterly#English",
+      "https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind"
+    ]
+  },
+  {
+    "word": "northwest",
+    "ipa": "英 /ˌnɔːθˈwest/；美 /ˌnɔːrθˈwest/",
+    "meaning": "西北；西北部；向西北",
+    "sense": "北和西之间的斜方向；与东北隔着正北对称。",
+    "split": "north + west，古英语已有 norþwest，经中古英语 northwest 延续。方向名称不是 north“北”否定了 west“西”。",
+    "history": [
+      [
+        "north；west",
+        "并列构词部分"
+      ],
+      [
+        "northwest",
+        "北与西之间的方向、区域"
+      ]
+    ],
+    "explanation": "northwest of here 在这里西北方，the northwest corner 西北角；方位名可直接用于组合修饰。",
+    "usage": "northwest of；the northwest corner；head northwest。",
+    "contrast": "northwest 西北，northeast 东北；英语组合先说南北再说东西，中文则习惯先东西后南北。",
+    "examples": [
+      [
+        "The mountains lie northwest of the city.",
+        "山脉在城市西北方。"
+      ],
+      [
+        "The map shows a lake in the northwest corner.",
+        "地图显示西北角有一座湖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northwest#English"
+    ]
+  },
+  {
+    "word": "northwestern",
+    "ipa": "英 /ˌnɔːθˈwestən/；美 /ˌnɔːrθˈwestərn/",
+    "meaning": "西北部的；西北方的",
+    "sense": "在区域地图上圈出西北那一片，用形容词说明它的位置。",
+    "split": "north + western；历史有相关旧方向形容词形式，现代构词关系清楚。早期具体形式有重建成分，不把带星号的词形当作实见原文。",
+    "history": [
+      [
+        "north；western",
+        "并列构词部分"
+      ],
+      [
+        "northwestern",
+        "位于西北部、属于西北方的"
+      ]
+    ],
+    "explanation": "the northwestern coast 西北海岸，northwestern districts 西北片区。大小写取决于是否正式地名。",
+    "usage": "the northwestern coast；northwestern districts；the northwestern edge。",
+    "contrast": "northwestern 指位置、区域，northwesterly 还常说风或路线方向。",
+    "examples": [
+      [
+        "The road follows the northwestern edge of the forest.",
+        "道路沿森林西北边缘延伸。"
+      ],
+      [
+        "Heavy rain affected the northwestern districts.",
+        "大雨影响了西北各区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northwestern#English"
+    ]
+  },
+  {
+    "word": "northwesterly",
+    "ipa": "英 /ˌnɔːθˈwestəli/；美 /ˌnɔːrθˈwestərli/",
+    "meaning": "向西北的；从西北来的〔风〕",
+    "sense": "位置箭头指向西北；天气里则是西北那边送来的风。",
+    "split": "north + westerly，方位组合表西北方向。ly 不负责统一决定到底往哪吹，对象语境才决定来向、去向。",
+    "history": [
+      [
+        "north；westerly",
+        "并列构词部分"
+      ],
+      [
+        "northwesterly",
+        "向西北；风从西北来"
+      ]
+    ],
+    "explanation": "a northwesterly wind 西北风，a northwesterly route 西北向路线。后者说人、路线往哪里延伸，前者按气流来源。",
+    "usage": "a northwesterly wind；a northwesterly route；a northwesterly direction。",
+    "contrast": "northwesterly wind 自西北而来；不是看到 north 就认为所有这类风一定寒冷，温度还看季节和地点。",
+    "examples": [
+      [
+        "A northwesterly wind cleared the clouds.",
+        "西北风吹散了云。"
+      ],
+      [
+        "The hikers took a northwesterly route toward the ridge.",
+        "徒步者沿西北向路线走向山脊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/northwesterly#English",
+      "https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind"
+    ]
+  },
+  {
+    "word": "east",
+    "ipa": "/iːst/",
+    "meaning": "东；东方；东部的；向东",
+    "sense": "日常认方向时，常借太阳升起的大致一侧来抓东的画面。",
+    "split": "接古英语 ēast、中古英语 est；更早词族与黎明、东方有关。日出具体方位随地点、季节变化，记忆画面不等于每天都精确正东。",
+    "history": [
+      [
+        "古英语 ēast → 中古英语 est",
+        "东方、向东"
+      ],
+      [
+        "英语 east",
+        "东；东部、东方的"
+      ]
+    ],
+    "explanation": "travel east 向东旅行，east of the town 镇东，the east coast 东海岸。east 不一定只表示某个特定文化地区。",
+    "usage": "head east；east of；the east coast；due east。",
+    "contrast": "east of the city 在城以东，in the east of the city 在城内东部；和 north 一样先分相对位置与所属区域。",
+    "examples": [
+      [
+        "The road runs east toward the coast.",
+        "路向东通往海岸。"
+      ],
+      [
+        "The village is east of the river.",
+        "村庄在河的东边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/east#English"
+    ]
+  },
+  {
+    "word": "eastern",
+    "ipa": "英 /ˈiːstən/；美 /ˈiːstərn/",
+    "meaning": "东方的；东部的",
+    "sense": "区域图上选东边那一块，而不是说它正在往东移动。",
+    "split": "现代对应 east + -ern；古英语已有 ēasterne，经中古英语 esterne 等延续。不是 Easter“复活节”的所有用法都能按 eastern 分解。",
+    "history": [
+      [
+        "古英语 ēast → 中古英语 est",
+        "东方、向东"
+      ],
+      [
+        "英语 east",
+        "东；东部、东方的"
+      ],
+      [
+        "古英语 ēasterne → 英语 eastern",
+        "东部、东方的；现代对应 east + -ern"
+      ]
+    ],
+    "explanation": "eastern Europe 欧洲东部，the eastern border 东部边界；文化、地理区域的实际范围要看上下文。",
+    "usage": "the eastern coast；the eastern border；eastern regions。",
+    "contrast": "eastern 区域位置，eastbound 东行；东部边界上的车也可能往西。",
+    "examples": [
+      [
+        "The eastern side of the house gets morning light.",
+        "房子东侧早晨能照到阳光。"
+      ],
+      [
+        "The railway serves several eastern towns.",
+        "铁路为东部几个城镇提供服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eastern#English"
+    ]
+  },
+  {
+    "word": "easterly",
+    "ipa": "英 /ˈiːstəli/；美 /ˈiːstərli/",
+    "meaning": "向东的；偏东的；从东边来的〔风〕",
+    "sense": "画路线时朝东，报风时从东来；两个句子别用同一根箭头。",
+    "split": "与 easter 旧方位词形 + -ly 相连；这里 easter 不是只说复活节专名。",
+    "history": [
+      [
+        "古英语 ēast → 中古英语 est",
+        "东方、向东"
+      ],
+      [
+        "英语 east",
+        "东；东部、东方的"
+      ],
+      [
+        "相关 easter 方位词形 + -ly → easterly",
+        "向东、偏东；风从东来"
+      ]
+    ],
+    "explanation": "an easterly wind 东风，从东向西吹；an easterly course 是朝东方向的行进路线。",
+    "usage": "an easterly wind；an easterly direction；an easterly course。",
+    "contrast": "easterly wind 的来向与 eastbound train 的去向不同；不是两词能无条件互换。",
+    "examples": [
+      [
+        "An easterly wind blew across the bay.",
+        "东风吹过海湾。"
+      ],
+      [
+        "The boat followed an easterly course.",
+        "小船沿向东的航线行驶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/easterly#English",
+      "https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind"
+    ]
+  },
+  {
+    "word": "eastward",
+    "ipa": "英 /ˈiːstwəd/；美 /ˈiːstwərd/",
+    "meaning": "向东；向东的",
+    "sense": "从当前位置往东继续走或伸展。",
+    "split": "east + -ward，古英语已有 ēastweard 等形式，经中古英语 estward 延续。",
+    "history": [
+      [
+        "古英语 ēast → 中古英语 est",
+        "东方、向东"
+      ],
+      [
+        "英语 east",
+        "东；东部、东方的"
+      ],
+      [
+        "east + -ward → eastward",
+        "向东移动、延伸的方向"
+      ]
+    ],
+    "explanation": "eastward movement 向东移动，an eastward journey 东行旅程；可作形容词、副词。",
+    "usage": "move eastward；an eastward journey；eastward expansion。",
+    "contrast": "eastward 向东的箭头，eastern 东部的一片区域；描述角度不同。",
+    "examples": [
+      [
+        "The clouds moved eastward.",
+        "云向东移动。"
+      ],
+      [
+        "The river makes a sharp eastward turn.",
+        "河流急转向东。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eastward#English"
+    ]
+  },
+  {
+    "word": "eastwards",
+    "ipa": "英 /ˈiːstwədz/；美 /ˈiːstwərdz/",
+    "meaning": "向东",
+    "sense": "和 eastward 一样，表示往东这一方向，常放在动作后面。",
+    "split": "east + -wards，末尾 s 是方向副词形式的一部分，不是多个方向的复数。",
+    "history": [
+      [
+        "east；-wards",
+        "并列构词部分"
+      ],
+      [
+        "eastwards",
+        "向东"
+      ]
+    ],
+    "explanation": "travel eastwards 向东旅行，spread eastwards 向东扩展。副词两种写法 eastward、eastwards 都可见，英式更常用后者。",
+    "usage": "travel eastwards；spread eastwards；look eastwards。",
+    "contrast": "eastwards 常作副词；名词前说 an eastward journey，不照搬 an eastwards journey。",
+    "examples": [
+      [
+        "We continued eastwards after lunch.",
+        "午饭后我们继续向东走。"
+      ],
+      [
+        "The settlement gradually spread eastwards.",
+        "聚落逐渐向东扩展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eastwards#English"
+    ]
+  },
+  {
+    "word": "eastbound",
+    "ipa": "/ˈiːstbaʊnd/",
+    "meaning": "东行的；开往东方的",
+    "sense": "路上车流、列车或航班，目的方向是东边。",
+    "split": "east + bound（前往的）；bound 在方向词后说明去向，不是被绳捆住。",
+    "history": [
+      [
+        "east；bound",
+        "并列构词部分"
+      ],
+      [
+        "eastbound",
+        "朝东方向行进的"
+      ]
+    ],
+    "explanation": "an eastbound train 东行列车，eastbound traffic 东向车流。说路线方向，不保证当前所在位置在东部。",
+    "usage": "an eastbound train；eastbound traffic；an eastbound flight。",
+    "contrast": "eastbound 去东，easterly wind 从东来；先看是在说交通工具还是风。",
+    "examples": [
+      [
+        "The eastbound train leaves from platform three.",
+        "东行列车从三号站台出发。"
+      ],
+      [
+        "An accident delayed eastbound traffic.",
+        "一场事故耽搁了东向车流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eastbound#English"
+    ]
+  }
+]

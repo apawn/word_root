@@ -1,0 +1,345 @@
+[
+  {
+    "word": "wish",
+    "ipa": "/wɪʃ/",
+    "meaning": "希望；但愿；祝愿；愿望",
+    "sense": "心里想让某件事变成真的；可以是生日祝愿，也可以是明知现实不同、还是忍不住盼它另一种样子。",
+    "split": "继承古英语 wȳsċan 希望。现代名词、动词都常用，wish 从愿望发展出祝愿、遗憾等固定句型。",
+    "history": [
+      [
+        "古英语 wȳsċan → 中古英语 wisshen → wish",
+        "希望、想要"
+      ],
+      [
+        "现代 wish",
+        "愿望、祝愿；也可说与事实相反的期待"
+      ]
+    ],
+    "explanation": "make a wish 许愿，wish you luck 祝你好运；I wish I knew 是现在不知道但希望知道。wish to do 较正式地说想做。",
+    "usage": "make a wish；wish you luck；wish to do；I wish I could。",
+    "contrast": "hope 常期待有可能实现的事，wish 常用于祝愿或与事实不同的想法；I wish I knew 中 knew 不必说过去某天知道。",
+    "examples": [
+      [
+        "Close your eyes and make a wish.",
+        "闭上眼睛，许个愿吧。"
+      ],
+      [
+        "I wish I had more time to read.",
+        "但愿我有更多时间看书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wish#English"
+    ]
+  },
+  {
+    "word": "wishful",
+    "ipa": "/ˈwɪʃfəl/",
+    "meaning": "抱有愿望的；一厢情愿的",
+    "sense": "很想结果如自己所愿，甚至可能把想要当成了会发生。最常见在 wishful thinking。",
+    "split": "wish + -ful，充满愿望。现代固定搭配 wishful thinking 尤其突出受愿望驱动、缺乏现实依据的想法。",
+    "history": [
+      [
+        "古英语 wȳsċan → 中古英语 wisshen → wish",
+        "希望、想要"
+      ],
+      [
+        "现代 wish",
+        "愿望、祝愿；也可说与事实相反的期待"
+      ],
+      [
+        "wish + -ful → wishful",
+        "满怀愿望 → 一厢情愿的"
+      ]
+    ],
+    "explanation": "wishful thinking 一厢情愿，a wishful look 渴望的眼神；并不是所有 wishful 都必须译成愚蠢。",
+    "usage": "wishful thinking；a wishful look；mere wishful thinking。",
+    "contrast": "hopeful 有希望或抱希望，wishful thinking 往往批评把愿望当事实；语气不能简单等同乐观。",
+    "examples": [
+      [
+        "Expecting the project to finish tomorrow is wishful thinking.",
+        "指望项目明天完成，只是一厢情愿。"
+      ],
+      [
+        "He gave the last piece of cake a wishful look.",
+        "他渴望地望了一眼最后那块蛋糕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wishful#English"
+    ]
+  },
+  {
+    "word": "wishbone",
+    "ipa": "/ˈwɪʃbəʊn/；美 /ˈwɪʃboʊn/",
+    "meaning": "鸟类叉骨；叉形结构",
+    "sense": "鸡、火鸡等胸前一块像 Y 的骨头；名字来自两个人拉断它、借此许愿的习俗。",
+    "split": "wish 许愿 + bone 骨头，按拉叉骨许愿的习俗命名。相似形状也借用于机械结构，不是骨头自己产生愿望。",
+    "history": [
+      [
+        "古英语 wȳsċan → 中古英语 wisshen → wish",
+        "希望、想要"
+      ],
+      [
+        "现代 wish",
+        "愿望、祝愿；也可说与事实相反的期待"
+      ],
+      [
+        "wish + bone → wishbone",
+        "许愿习俗中的叉骨 → 叉形物"
+      ]
+    ],
+    "explanation": "a chicken wishbone 鸡叉骨，break the wishbone 拉断叉骨；a wishbone suspension 是汽车悬架的叉臂式结构名称。",
+    "usage": "a chicken wishbone；break the wishbone；a wishbone shape。",
+    "contrast": "wishbone 是骨头的特定名称，backbone 是脊骨；两者形状、部位都不同。",
+    "examples": [
+      [
+        "They saved the turkey’s wishbone after dinner.",
+        "晚饭后，他们留下了火鸡的叉骨。"
+      ],
+      [
+        "The metal support has a wishbone shape.",
+        "这个金属支架呈叉骨形。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/wishbone",
+      "https://en.wiktionary.org/wiki/wishbone#English"
+    ]
+  },
+  {
+    "word": "bank",
+    "ipa": "/bæŋk/",
+    "meaning": "银行；河岸；资源库；把钱存入；依赖",
+    "sense": "先把银行和河岸分开。银行接收、管理钱，后来储存别的资源的库也借它命名；河岸不是银行搬到河边才来的意思。",
+    "split": "金融义经法语 banque 接意大利语 banca 柜台、桌凳，联系兑换钱的工作台。地形义接另一日耳曼词族路线，历史上彼此可能有远缘联系，但英语中不能把河岸说成金融义的直接扩展。",
+    "history": [
+      [
+        "法语 banque ← 意大利语 banca 等",
+        "兑换钱的柜台、桌凳 → 银行"
+      ],
+      [
+        "英语 bank 的另一路地形词",
+        "河岸、土坡、堆积；属日耳曼相关词族，路线与金融义分开"
+      ],
+      [
+        "现代 bank",
+        "金融机构；河岸；储存资源的库等"
+      ]
+    ],
+    "explanation": "a bank account 银行账户，the river bank 河岸，a blood bank 血库；bank on someone 指依靠、指望某人，bank money 是存钱。",
+    "usage": "a bank account；on the river bank；a blood bank；bank on。",
+    "contrast": "bank 金融机构与 bank 河岸须按上下文选；bank on 不按字面译成在银行上面。",
+    "examples": [
+      [
+        "We sat on the bank and watched the boats.",
+        "我们坐在岸边看船。"
+      ],
+      [
+        "You can bank on her to keep her promise.",
+        "你可以相信她会信守承诺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bank#English"
+    ]
+  },
+  {
+    "word": "banker",
+    "ipa": "英 /ˈbæŋkə/；美 /ˈbæŋkər/",
+    "meaning": "银行家；银行业从业者",
+    "sense": "以银行业务为职业的人；具体可以是经营、管理或专业服务，不只银行的所有者。",
+    "split": "金融 bank + -er，历史也受法语 banquier 对应词影响。另有地形等同形用法，先掌握银行从业者义。",
+    "history": [
+      [
+        "法语 banque ← 意大利语 banca 等",
+        "兑换钱的柜台、桌凳 → 银行"
+      ],
+      [
+        "bank + -er → banker",
+        "从事银行工作的人"
+      ]
+    ],
+    "explanation": "an investment banker 投资银行从业者，a private banker 私人银行业务人员；实际职位再由修饰语限定。",
+    "usage": "an investment banker；a private banker；a former banker。",
+    "contrast": "banker 不等于每一位坐柜台的 cashier 出纳、收银员，也不自动是银行老板。",
+    "examples": [
+      [
+        "She worked as an investment banker before starting her company.",
+        "她创办公司前曾在投资银行业工作。"
+      ],
+      [
+        "The banker explained the available account options.",
+        "银行工作人员解释了可选的账户类型。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/banker#English"
+    ]
+  },
+  {
+    "word": "bankable",
+    "ipa": "/ˈbæŋkəbəl/",
+    "meaning": "有赚钱把握、能带来收入的；银行可接受的",
+    "sense": "觉得这名字、项目或东西有足够把握带来钱，所以商业上敢依赖它。",
+    "split": "bank + -able，可被银行接受、承兑等金融用法在先，再扩展为能保证商业收益、票房的评价。",
+    "history": [
+      [
+        "法语 banque ← 意大利语 banca 等",
+        "兑换钱的柜台、桌凳 → 银行"
+      ],
+      [
+        "bank + -able → bankable",
+        "银行可接受 → 商业上有收入把握的"
+      ]
+    ],
+    "explanation": "a bankable star 有票房号召力的明星，a bankable idea 有商业前景的点子；这是商业评价，不是绝对盈利保证。",
+    "usage": "a bankable star；a bankable name；a bankable project。",
+    "contrast": "bankable 常说卖得动、能吸引资金，talented 说有才华；有才华与商业号召力不是同一个判断。",
+    "examples": [
+      [
+        "The studio wanted a bankable star for the leading role.",
+        "制片公司想请一位有票房号召力的明星担任主演。"
+      ],
+      [
+        "They needed to turn the idea into a bankable project.",
+        "他们需要把想法变成一个有商业吸引力的项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bankable#English"
+    ]
+  },
+  {
+    "word": "banknote",
+    "ipa": "英 /ˈbæŋknəʊt/；美 /ˈbæŋknoʊt/",
+    "meaning": "钞票；纸币",
+    "sense": "手里那张代表一定金额的票子；note 在这里是有金额、承诺或价值凭据背景的票据。",
+    "split": "bank 银行 + note 票据，按银行发行的票据命名，现代泛指钞票。不是银行工作人员记的一张便签。",
+    "history": [
+      [
+        "法语 banque ← 意大利语 banca 等",
+        "兑换钱的柜台、桌凳 → 银行"
+      ],
+      [
+        "bank + note → banknote",
+        "银行票据 → 钞票"
+      ]
+    ],
+    "explanation": "a ten-pound banknote 十英镑钞票，a counterfeit banknote 假钞；不同地区也常直接说 note 或美式 bill。",
+    "usage": "a ten-pound banknote；a counterfeit banknote；a damaged banknote。",
+    "contrast": "banknote 是钞票，bank statement 银行对账单；两者都是纸张或记录，却不是同一种金融物件。",
+    "examples": [
+      [
+        "The machine rejected the damaged banknote.",
+        "机器拒收了那张破损钞票。"
+      ],
+      [
+        "The exhibition includes banknotes from different countries.",
+        "展览包含不同国家的钞票。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/banknote#English"
+    ]
+  },
+  {
+    "word": "databank",
+    "ipa": "/ˈdeɪtəbæŋk/，data 的读音可有口音差别",
+    "meaning": "数据库；数据资料库",
+    "sense": "把数据集中存放起来，像银行集中保管钱，方便以后查找、使用。",
+    "split": "data 数据 + bank 储存资源的库。这里 bank 是资源储存的扩展义，不要求由银行机构经营。",
+    "history": [
+      [
+        "法语 banque ← 意大利语 banca 等",
+        "兑换钱的柜台、桌凳 → 银行"
+      ],
+      [
+        "data + bank → databank",
+        "集中储存数据的库 → 数据资料库"
+      ]
+    ],
+    "explanation": "a research databank 研究数据资料库，a genetic databank 遗传数据资料库；data bank 分写也可见。",
+    "usage": "a research databank；a national databank；a central databank。",
+    "contrast": "databank 与 database 常有重合，databank 更突出集中资料储存；名字本身不规定具体数据库软件或数据模型。",
+    "examples": [
+      [
+        "The researchers added the results to a shared databank.",
+        "研究人员把结果加入共享数据资料库。"
+      ],
+      [
+        "The databank contains records from several decades.",
+        "这个资料库收录了数十年的记录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/databank#English"
+    ]
+  },
+  {
+    "word": "riverbank",
+    "ipa": "英 /ˈrɪvəbæŋk/；美 /ˈrɪvərbæŋk/",
+    "meaning": "河岸",
+    "sense": "沿着河水两边的陆地边缘，可以坐在上面看水流过去。",
+    "split": "river 河 + bank 岸、土坡。bank 在这里接地形词族，不是存钱的银行。",
+    "history": [
+      [
+        "英语 bank 的另一路地形词",
+        "河岸、土坡、堆积；属日耳曼相关词族，路线与金融义分开"
+      ],
+      [
+        "river + bank → riverbank",
+        "河的岸边 → 河岸"
+      ]
+    ],
+    "explanation": "on the riverbank 在河岸上，along the riverbank 沿河岸；river bank 分写也常见。",
+    "usage": "on the riverbank；along the riverbank；a steep riverbank。",
+    "contrast": "riverbank 陆地岸边，riverbed 河床是承载水流的底部；bank branch 则是银行分行。",
+    "examples": [
+      [
+        "We followed a path along the riverbank.",
+        "我们沿着河岸小路前行。"
+      ],
+      [
+        "Children watched ducks from the riverbank.",
+        "孩子们在河岸上看鸭子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/riverbank#English"
+    ]
+  },
+  {
+    "word": "sandbank",
+    "ipa": "/ˈsændbæŋk/",
+    "meaning": "沙洲；水中的沙坝、沙脊",
+    "sense": "水里或岸边积起来的一片沙，形成比周围高的区域；水位低时可能露出来。",
+    "split": "sand 沙 + bank 堆积的地形，组合成沙洲、沙坝。bank 这一路有堆积、高起之地的画面。",
+    "history": [
+      [
+        "英语 bank 的另一路地形词",
+        "河岸、土坡、堆积；属日耳曼相关词族，路线与金融义分开"
+      ],
+      [
+        "sand + bank → sandbank",
+        "沙的堆积高地 → 沙洲、沙坝"
+      ]
+    ],
+    "explanation": "a sandbank in the river 河中沙洲，run aground on a sandbank 在沙洲搁浅；不一定每座沙洲都常年高出水面。",
+    "usage": "a shifting sandbank；a river sandbank；run aground on a sandbank。",
+    "contrast": "sandbank 是沙堆积的地形，riverbank 是河两边陆地；沙洲可以位于河道中央。",
+    "examples": [
+      [
+        "A sandbank appeared as the tide went out.",
+        "退潮时，一片沙洲露了出来。"
+      ],
+      [
+        "The boat ran aground on a sandbank.",
+        "船在一片沙洲上搁浅了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sandbank#English"
+    ]
+  }
+]

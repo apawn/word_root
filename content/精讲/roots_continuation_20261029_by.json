@@ -1,0 +1,44 @@
+[
+  {
+    "id": "B3425",
+    "meaning": "主要；主干；主要依靠",
+    "core": "MAIN：看哪个承担中心作用",
+    "image": "主要不只等于尺寸大，也可以是最重要的原因、线路、支撑或表演场地。",
+    "intro": "main 与古英语 mæġen 力量、强大等相关形式有历史关系，现代发展出主要义。复合词里的另一半决定具体中心是什么。",
+    "forms": "main → mainly；mainstream、mainline 看主流与干线；mainstay 看主要支撑；mainframe、mainstage、mainsail 是固定场景名称；mainland 与岛屿对照。\n\nmain 明说主要，board 给板状电路部件。",
+    "branches": [
+      [
+        "主要与大部分",
+        "main · mainly"
+      ],
+      [
+        "主流、干线与依靠",
+        "mainstream · mainline · mainstay"
+      ],
+      [
+        "设备、场地与航海名称",
+        "mainframe · mainstage · mainsail · mainland"
+      ],
+      [
+        "mainboard → mainboards：主板",
+        "main · mainboard · mainboards"
+      ]
+    ],
+    "contrasts": "mainly 大部分，不等于 only 只有；mainstay 的 stay 是支索背景；mainstream 不自动等于正确。",
+    "practice": "The festival mainly uses the mainstage, but experimental shows take place elsewhere.\n\n艺术节主要使用主舞台，但实验演出在别处进行。",
+    "words": [
+      "main",
+      "mainly",
+      "mainstream",
+      "mainline",
+      "mainstay",
+      "mainframe",
+      "mainstage",
+      "mainsail",
+      "mainland",
+      "mainboard",
+      "mainboards"
+    ],
+    "exclude": {}
+  }
+]

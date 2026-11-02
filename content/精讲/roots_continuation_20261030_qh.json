@@ -1,0 +1,90 @@
+[
+  {
+    "id": "A2029",
+    "meaning": "自己；本人；反身或强调",
+    "core": "SELF：动作或注意力回到同一个人、同一件事",
+    "image": "一个人照镜子，看的那个人与镜中的人是同一个；另一个画面是举手说：这件事是我亲自做的。",
+    "intro": "self 本是古英语里自己的、相同的等材料，原可跟在人称代词后，后来凝结成 myself、himself 等。学习时分两条：反身把动作接回同一主体，强调则突出本人亲自。再看 by oneself 独自或不靠帮助等固定组合。",
+    "forms": "myself 现代看似 my + self，但历史还包括 me + self 的材料；yourself、herself、himself、itself 各有固定的人称形式，不能统一拿领属词拼造。oneself 配泛指人；themself 是单数 they 的一种反身形式，文体接受程度不一。\n\nones 可以代替已知类别的可数复数名词；这是 one 的形式变化，与 one- 的复合构词用法分别理解。",
+    "branches": [
+      [
+        "先认前面的代词",
+        "my · your · him · her · one"
+      ],
+      [
+        "动作回到自己或强调本人",
+        "myself · yourself · himself · herself · itself"
+      ],
+      [
+        "泛指与单数 they",
+        "one · oneself；themself"
+      ],
+      [
+        "one → ones：一个代替词与多个代替词",
+        "one · ones"
+      ]
+    ],
+    "contrasts": "my book／mine；her book／hers；your／you’re；him／himself；by myself 独自或不靠帮助，与 for myself 为自己或亲自判断区别。",
+    "practice": "I wanted to see the place for myself, so I went there by myself.\n\n我想亲自看看那个地方，所以独自去了。",
+    "words": [
+      "self",
+      "my",
+      "myself",
+      "your",
+      "yourself",
+      "him",
+      "himself",
+      "her",
+      "herself",
+      "it",
+      "its",
+      "itself",
+      "one",
+      "oneself",
+      "themself",
+      "ones"
+    ],
+    "exclude": {
+      "ourself": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hisself": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2030",
+    "meaning": "我们、你们、他们等自己；self 的复数对应",
+    "core": "SELVES：把自己这一点对应到我们、你们、他们",
+    "image": "一群人各自穿外套，也可以一起动手搬桌子；自己既可说每个人，也可强调这群人亲自完成。",
+    "intro": "-selves 是 self 在 ourselves、yourselves、themselves 等形式里的复数对应，典型读 /selvz/。它不是另一个表示多人的拉丁词根；看清前面的 our、your、them，才能知道回指谁。themselves 还广泛随单数 they 使用，人数不能只看词尾。",
+    "forms": "our + -selves → ourselves；your + -selves → yourselves；them + -selves → themselves。不是把 self 一律加 s 写成 selfs。单数对应不全用相同前半段：myself／ourselves，yourself／yourselves；himself、herself、itself／themselves。",
+    "branches": [
+      [
+        "领属形式先读懂",
+        "our · their · your"
+      ],
+      [
+        "单数与复数对应",
+        "myself · ourselves；yourself · yourselves"
+      ],
+      [
+        "他们自己与某人自己",
+        "themselves · themself"
+      ]
+    ],
+    "contrasts": "ourselves 我们自己，yourselves 你们自己；themselves 不等于 each other 彼此；by ourselves 独自、靠自己，to ourselves 给我们独享。",
+    "practice": "We introduced ourselves, and the visitors introduced themselves.\n\n我们作了自我介绍，来客们也介绍了他们自己。",
+    "words": [
+      "self",
+      "my",
+      "myself",
+      "our",
+      "ourselves",
+      "your",
+      "yourself",
+      "yourselves",
+      "their",
+      "themself",
+      "themselves"
+    ],
+    "exclude": {}
+  }
+]

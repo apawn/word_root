@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B3324",
+    "meaning": "讲述、建立联系，以及共鸣与相关性",
+    "core": "RELATE：把消息讲出来，把对象联系起来，再有经验上的共鸣",
+    "image": "relate → relatable；correlate 聚焦相互对应、相关。",
+    "intro": "词源的带回、报告是一条旧起点，现代联系和共鸣已形成稳定用法。用真实句型区分，会比把每次 relate 都译成关联更好。",
+    "forms": "referre 的分词 relātus，经法语等 → relate；-able 能力，cor- 共同 + relate。\n\n法语 relater 接拉丁 relatus、referre，保留历史报告与现代关系等不同用法。\n\nrelate 接拉丁 relatus，属 referre 带回、报告的变位体系，lat- 与 fer- 为补充式材料，不是简单音变。现代 relates 可说叙述、联系或产生共鸣。\n\nun- 否定 related 的相关、亲属等形容词义。related 词基与拉丁 relatus、referre 报告词族相连；现代 unrelated 常配 to。",
+    "branches": [
+      [
+        "基础与共鸣性质",
+        "relate · relatable"
+      ],
+      [
+        "相关、对应",
+        "correlate"
+      ],
+      [
+        "relate → relating：讲述、关联与共鸣",
+        "relate · relating · relation"
+      ],
+      [
+        "带回、叙述 → relate → relates",
+        "relates"
+      ],
+      [
+        "relate → related → unrelated：没有相关联系",
+        "unrelated"
+      ]
+    ],
+    "contrasts": "relatable 不等于讨喜；correlate 也不自动证明因果。",
+    "practice": "The teacher related a story that students found relatable, then asked how it related to the topic.\n\n老师讲了一个学生能共鸣的故事，再问它与主题有什么联系。",
+    "words": [
+      "relate",
+      "relatable",
+      "correlate",
+      "relating",
+      "relation",
+      "relates",
+      "unrelated"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2005",
+    "meaning": "相关思想、风格、行为或领域的性质；具体关系由整词决定",
+    "core": "-ISTIC：常与 -ist、-ism 词族相连，不是一句固定中文",
+    "image": "ritualistic 看仪式程式，minimalistic 看风格，imperialistic 看思想政策，cannibalistic 看行为。",
+    "intro": "有些是 -ist 再加 -ic，有些按已有词族重分析成 -istic。看前半真实来源和整词用法，再判断是中性领域词还是带评价的形容词。",
+    "forms": "常联系希腊 -istikos、拉丁 -isticus、法语 -istique 的传统；现代可分析 -ist + -ic，或整体 -istic 的扩展。",
+    "branches": [
+      [
+        "风格、艺术与表达",
+        "minimalistic · surrealistic · futuristic · stylistic · impressionistic · journalistic"
+      ],
+      [
+        "思想、社会与评价",
+        "imperialistic · jingoistic · idealistic · materialistic · individualistic · moralistic · legalistic"
+      ],
+      [
+        "行为、程式与倾向",
+        "ritualistic · masochistic · cannibalistic · paternalistic · animalistic"
+      ],
+      [
+        "领域与方法",
+        "holistic · mechanistic · probabilistic · relativistic · pluralistic · simplistic"
+      ]
+    ],
+    "contrasts": "-istic 不统一表示坏、夸张或主义；有些整词有评价，有些只是领域性质；minimalistic 不等于 minimal 数量少。",
+    "practice": "The lesson compares a minimalistic design, ritualistic behaviour and imperialistic rhetoric to show how the same ending works differently.\n\n这课比较极简设计、仪式性行为与帝国主义言辞，说明同一词尾怎样随整词变化。",
+    "words": [
+      "minimalistic",
+      "surrealistic",
+      "futuristic",
+      "stylistic",
+      "impressionistic",
+      "journalistic",
+      "imperialistic",
+      "jingoistic",
+      "idealistic",
+      "materialistic",
+      "individualistic",
+      "moralistic",
+      "legalistic",
+      "ritualistic",
+      "masochistic",
+      "cannibalistic",
+      "paternalistic",
+      "animalistic",
+      "holistic",
+      "mechanistic",
+      "probabilistic",
+      "relativistic",
+      "pluralistic",
+      "simplistic"
+    ],
+    "exclude": {
+      "autistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "naturalistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "synergistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "militaristic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monopolistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dualistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "voyeuristic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "patristic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "terroristic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "atavistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "modernistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "propagandistic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "B3548",
+    "meaning": "液面浮层、残留物与厌恶评价，派生词各有强度",
+    "core": "SCUM：浮在上面的杂质，再借去骂低劣的人或做法",
+    "image": "scum → scummy、scumbag，后两者的人物、行为用法常带明显贬斥。",
+    "intro": "先看池面浮层、皂垢的实物，再看厌恶感怎样进入评价。不是每一团泡沫都要用 scum，中性泡沫常用 foam。",
+    "forms": "schume 等 → scum；双写 m + -y → scummy；scumbag 的人物骂法另见基础词条。",
+    "branches": [
+      [
+        "浮渣、污膜与强贬评价",
+        "scum · scummy · scumbag"
+      ]
+    ],
+    "contrasts": "foam 可中性，scum 常嫌杂质；scumbag 是强贬人物称呼，不能当普通人称。",
+    "practice": "Scum floated on the scummy water.\n\n浮有污膜的水面上漂着浮渣。",
+    "words": [
+      "scum",
+      "scummy",
+      "scumbag"
+    ],
+    "exclude": {
+      "scum-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3330",
+    "meaning": "补全、恢复的算书术语走向代数学科，形容词再派生",
+    "core": "ALGEBRA：把已知关系写清楚，让未知量有办法求",
+    "image": "algebra → algebraic，学科名与相关方法、表达式的性质分开。",
+    "intro": "初等学习可以从 x 与方程进入，历史名称则来自阿拉伯补全、恢复术语。现代抽象代数范围更广，不把一个入门画面当作全部定义。",
+    "forms": "al-jabr → 拉丁 algebra → 英语 algebra；去 a 的词干接 -ic，亦有法语对应影响。",
+    "branches": [
+      [
+        "代数学科与相应性质",
+        "algebra · algebraic"
+      ]
+    ],
+    "contrasts": "algebra 术语与 algorithm 人名借词不同；algebraic 的重音与 algebra 不同。",
+    "practice": "The algebra lesson begins with a simple algebraic expression.\n\n代数课从一个简单代数式开始。",
+    "words": [
+      "algebra",
+      "algebraic"
+    ],
+    "exclude": {
+      "anti-algebra": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2621",
+    "meaning": "条件作为前提，副词与否定说明是否附带要求",
+    "core": "CONDITIONAL：这件事成立，但先得满足那件事",
+    "image": "conditional → conditionally、unconditional、conditionality，性质、方式、否定与抽象名词分开。",
+    "intro": "批准、数学结论、关系表达都可能有条件。词先说明依赖结构，具体门槛再由 if、under、provided 等上下文交代。",
+    "forms": "condition + -al → conditional；-ly 方式；un- 否定条件性；-ity 抽象性质。",
+    "branches": [
+      [
+        "条件性质、方式与抽象名词",
+        "conditional · conditionally · conditionality"
+      ],
+      [
+        "不附条件",
+        "unconditional"
+      ]
+    ],
+    "contrasts": "conditionally 不是批准程度低一点，而是附有前提；unconditional 则否定这层条件限制。",
+    "practice": "The conditional offer was accepted conditionally, after the details were clarified.\n\n细节澄清后，那份附带条件的提议被有条件地接受。",
+    "words": [
+      "conditional",
+      "conditionally",
+      "conditionality",
+      "unconditional"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3430",
+    "meaning": "猛禽名走向强硬立场，叫卖动词另有商贩来源",
+    "core": "HAWK：鸟在空中盯猎物，政策比喻借强硬形象",
+    "image": "hawk → hawkish、nighthawk；叫卖 hawk 保留独立的词源说明。",
+    "intro": "立场人物与性质通过鸟的形象连接，夜猫子通过夜间活动连接；街头叫卖则是商贩动词，不编成鸟的拟人动作。",
+    "forms": "hafoc → hauk、hawke → hawk；-ish 性质；night + hawk；hawk 叫卖由 hawker 回构。\n\n鸟承古英语 hafoc；叫卖由 hawker 回构，不能串成一个来源。\n\n叫卖 hawk 由 hawker 逆构，人物词接低地德语叫卖、背负等材料；猎鹰 hawk 动词来自鹰名，清嗓 hawk 另多作拟声。现代同形不等于都由鹰抓猎物推来。",
+    "branches": [
+      [
+        "鹰名与强硬立场",
+        "hawk · hawkish"
+      ],
+      [
+        "夜鹰与夜猫子",
+        "nighthawk"
+      ],
+      [
+        "hawk → hawks：猛禽名与另源叫卖动词",
+        "hawk · hawks"
+      ],
+      [
+        "hawk 的叫卖线独立于鹰名",
+        "hawk · hawked · hawking · hawker · hawkers"
+      ]
+    ],
+    "contrasts": "nighthawk 的鸟类身份不由字面决定；hawkish 货币立场与军事立场按议题分开。",
+    "practice": "The nighthawk read a hawkish editorial late at night.\n\n那位夜猫子深夜读着一篇鹰派社论。",
+    "words": [
+      "hawk",
+      "hawkish",
+      "nighthawk",
+      "hawks",
+      "hawked",
+      "hawking",
+      "hawker",
+      "hawkers"
+    ],
+    "exclude": {
+      "make-hawk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cuckoo-hawk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "seahawk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hawk-beaked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sparrowhawk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2959",
+    "meaning": "还回、报偿的动作，名词与可还、须还性质",
+    "core": "REPAY：收到的款、恩情等，以相应方式还回去",
+    "image": "repay → repayment、repayable，动作、还款事件与性质按顺序读。",
+    "intro": "钱可还回，帮助可报答；repayment 常用于款项，repayable 再看是否须还、可还。前缀在这里有回返意义，不只是再付一次。",
+    "forms": "re- 回、再 + pay；-ment 动作、结果；-able 相应可还、须还性质。",
+    "branches": [
+      [
+        "偿还动作、还款与应还性质",
+        "repay · repayment · repayable"
+      ]
+    ],
+    "contrasts": "repay 的 re- 可说还回；repayable 不总只是能力，也可能说明约定须还。",
+    "practice": "The agreement explains when repayment is due and how much is repayable.\n\n协议说明何时还款，以及须还多少。",
+    "words": [
+      "repay",
+      "repayment",
+      "repayable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3445",
+    "meaning": "人物旧称与粗俗贬称，复合场所名保留语气",
+    "core": "WHORE：认出所指，也认出它带来的侮辱语气",
+    "image": "whore → whorehouse，人物称呼与场所名分别识别。",
+    "intro": "学习阅读需要明白粗俗、贬义本身就是词义信息。现代拼写还有不发音的 w，不能照 who 的字形猜读。",
+    "forms": "hore → whore，现代 w 不发音；whore + house → whorehouse。",
+    "branches": [
+      [
+        "人物贬称与场所名",
+        "whore · whorehouse"
+      ]
+    ],
+    "contrasts": "whore 不是中性职业词；whorehouse 与 brothel 所指相近，语体力度不同。",
+    "practice": "The dictionary distinguishes the neutral description from the insult whore.\n\n词典区分中性描述与 whore 这个辱称。",
+    "words": [
+      "whore",
+      "whorehouse"
+    ],
+    "exclude": {
+      "he-whore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3922",
+    "meaning": "一同或反向变动的关联，自相关把比较对象转回自己",
+    "core": "CORRELATION：先看一起怎么变，再问是不同记录还是自己",
+    "image": "correlation → autocorrelation，后者用 auto- 限定为与自身不同位置、时间的关联。",
+    "intro": "同时起伏不自动说明因果，反向起伏也可有强相关。自相关把同一条记录错开来比较，帮助看重复与持续性。",
+    "forms": "correlation 经法语、拉丁相关材料；现代 correlate 的名词对应；auto- 自己。",
+    "branches": [
+      [
+        "关联与自身滞后关联",
+        "correlation · autocorrelation"
+      ]
+    ],
+    "contrasts": "相关不直接确立因果；auto- 自己不等于自动。",
+    "practice": "The report first measured correlation between two series, then autocorrelation within each series.\n\n报告先测两条序列之间的相关，再测各自内部的自相关。",
+    "words": [
+      "correlation",
+      "autocorrelation"
+    ],
+    "exclude": {
+      "cross-correlation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3825",
+    "meaning": "切下的票券换权益，数字券与票息继续沿用旧名",
+    "core": "COUPON：剪下一段作凭证，今天也可以只是手机里的代码",
+    "image": "coupon → couponing，从物件、权益凭证到用券活动。",
+    "intro": "纸券的切割形象提供起点，数字形式保留功能而不保留剪刀。票息也从可剪下兑领的息票转为利息支付名称。",
+    "forms": "couper 切 → coupon；coupon + -ing → couponing。\n\ncoupon 借法语切下的小片，早期票据可剪下兑换，后来常说优惠券；现代 -s 读 /z/。",
+    "branches": [
+      [
+        "优惠券、票息与用券活动",
+        "coupon · couponing"
+      ],
+      [
+        "coup、couper 切 → coupon → coupons",
+        "coupons"
+      ]
+    ],
+    "contrasts": "coupon 可是票息，不只购物折扣；couponing 是使用、收集等活动。",
+    "practice": "Her digital couponing began with a single coupon code.\n\n她从一个优惠码开始学着使用数字优惠券。",
+    "words": [
+      "coupon",
+      "couponing",
+      "coupons"
+    ],
+    "exclude": {
+      "e-coupon": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

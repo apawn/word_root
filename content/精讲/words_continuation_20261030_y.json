@@ -1,0 +1,168 @@
+[
+  {
+    "word": "treatable",
+    "ipa": "/ˈtriːtəbl/",
+    "meaning": "可治疗的；可以处理的",
+    "sense": "有办法进行治疗或处理，仍要分清能干预和能完全消除。",
+    "split": "treat + -able；中古英语已有对应形式，也与法语 traitable 相关。医疗义对应 treat 治疗，不是请客的 treat 加能请客。",
+    "history": [
+      [
+        "法语 traiter → 英语 treat",
+        "处理、对待；治疗"
+      ],
+      [
+        "treat + -able → treatable",
+        "可以施以治疗、处理的"
+      ]
+    ],
+    "explanation": "a treatable condition 可治疗的病症，a treatable problem 可处理的问题；这个词本身不说明具体方法或疗效幅度。",
+    "usage": "a treatable condition；a treatable problem；considered treatable。",
+    "contrast": "treatable 可治疗，不必等于 curable 可治愈；treatment 治疗过程和 cure 治愈结果的着眼点不同。",
+    "examples": [
+      [
+        "The doctor explained that the condition was treatable.",
+        "医生解释说这种病症可以治疗。"
+      ],
+      [
+        "The report describes it as a treatable problem rather than an inevitable outcome.",
+        "报告把它描述为可处理的问题，而非不可避免的结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/treatable#English"
+    ]
+  },
+  {
+    "word": "microeconomic",
+    "ipa": "英 /ˌmaɪkrəʊˌiːkəˈnɒmɪk/；美 /ˌmaɪkroʊˌekəˈnɑːmɪk/",
+    "meaning": "微观经济的；微观经济学的",
+    "sense": "把镜头拉到消费者、企业、某个市场怎样作选择，而不是先看全国总量。",
+    "split": "micro- 小、微观 + economic；也可对应 microeconomics 的形容词关系。micro- 来自希腊表示小的构词材料。",
+    "history": [
+      [
+        "economic〔经济的〕；micro-〔微观〕",
+        "两个构词材料组合"
+      ],
+      [
+        "micro- + economic → microeconomic",
+        "关注个体、企业及具体市场的经济分析"
+      ]
+    ],
+    "explanation": "microeconomic analysis 微观经济分析，microeconomic theory 微观经济理论；已有 microeconomics 是学科名词。",
+    "usage": "microeconomic analysis；microeconomic theory；microeconomic factors。",
+    "contrast": "microeconomic 不是小金额的唯一说法；macroeconomic 关注总量等更整体层面。economical 节省的与 economic 经济的另分。",
+    "examples": [
+      [
+        "The course introduces microeconomic analysis of consumer choices.",
+        "课程介绍消费者选择的微观经济分析。"
+      ],
+      [
+        "The paper examines microeconomic factors affecting small firms.",
+        "论文研究影响小企业的微观经济因素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/microeconomic#English"
+    ]
+  },
+  {
+    "word": "giving",
+    "ipa": "/ˈɡɪvɪŋ/",
+    "meaning": "给予；捐赠；慷慨的、愿意付出的",
+    "sense": "把时间、精力、钱或关心送给别人；经常这样做的人，也可说很 giving。",
+    "split": "give 去末尾 e + -ing，既可动词形式和活动名词，也固定作慷慨、愿意付出的形容词。来自 give 的给予支线。",
+    "history": [
+      [
+        "古英语 giefan → 英语 give",
+        "给予、交付"
+      ],
+      [
+        "give + -ing → giving",
+        "给予、捐赠活动 → 愿意付出的性质"
+      ]
+    ],
+    "explanation": "charitable giving 慈善捐赠，a giving person 乐于付出的人，the giving of gifts 赠礼行为。词义比只给金钱宽。",
+    "usage": "charitable giving；a giving person；the giving of gifts。",
+    "contrast": "giving 慷慨的不是 gifted 有天赋的；give 的动词变化 giving 与形容词评价需要按句法辨别。",
+    "examples": [
+      [
+        "She is a warm and giving person.",
+        "她是个温暖、乐于付出的人。"
+      ],
+      [
+        "The report tracks charitable giving over the past decade.",
+        "报告跟踪了过去十年的慈善捐赠情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/giving#English"
+    ]
+  },
+  {
+    "word": "thanksgiving",
+    "ipa": "/ˌθæŋksˈɡɪvɪŋ/",
+    "meaning": "感恩、致谢；感恩节〔大写 Thanksgiving〕",
+    "sense": "把谢意表达出来，就是 giving thanks；后来也指以感恩为主题的庆祝或节日。",
+    "split": "thanks 谢意 + giving 表达、给予，16世纪英语已有相应名词。后来的动词 thanksgive 是逆构，不能把它误画成这个名词最初的来源。",
+    "history": [
+      [
+        "thanks〔谢意〕；giving〔表达、给予〕",
+        "对应短语 give thanks"
+      ],
+      [
+        "thanks + giving → thanksgiving",
+        "表达感谢 → 感恩庆祝、特定节日名称"
+      ]
+    ],
+    "explanation": "a prayer of thanksgiving 感恩祷告，Thanksgiving dinner 感恩节晚餐。大写节日义在美国、加拿大等语境常见，具体节日传统按地区看。",
+    "usage": "a prayer of thanksgiving；Thanksgiving dinner；at Thanksgiving。",
+    "contrast": "小写 thanksgiving 可泛指感恩，不只某一国节日；thanks 的 s 是这个组合的固定部分，不写成 thankgiving。",
+    "examples": [
+      [
+        "The service ended with a prayer of thanksgiving.",
+        "仪式以感恩祷告结束。"
+      ],
+      [
+        "The family gathered for Thanksgiving dinner.",
+        "一家人聚在一起吃感恩节晚餐。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/thanksgiving",
+      "https://en.wiktionary.org/wiki/thanksgiving#English"
+    ]
+  },
+  {
+    "word": "hourglass",
+    "ipa": "英 /ˈaʊəɡlɑːs/；美 /ˈaʊərɡlæs/",
+    "meaning": "沙漏；沙漏状物",
+    "sense": "两个玻璃腔中间掐细，沙子从上面慢慢漏到下面，用漏完所需时间来计时。",
+    "split": "hour 时间单位 + glass 玻璃器皿，按计时用途与材料命名。hour 的 h 不发音；现代沙漏未必都恰好量一小时。",
+    "history": [
+      [
+        "hour〔小时、计时〕；glass〔玻璃器皿〕",
+        "并列的用途和材料成分"
+      ],
+      [
+        "hour + glass → hourglass",
+        "双腔漏沙计时器 → 沙漏形状"
+      ]
+    ],
+    "explanation": "turn the hourglass 翻转沙漏，an hourglass shape 沙漏形状；旧电脑忙碌指针也常画成沙漏。",
+    "usage": "turn an hourglass；an hourglass shape；an hourglass cursor。",
+    "contrast": "hourglass 测时间，普通 glass 玻璃杯不一定；egg timer 可用沙漏，也可用其他计时装置，不完全同义。",
+    "examples": [
+      [
+        "She turned the hourglass over to start the game.",
+        "她翻转沙漏，开始游戏。"
+      ],
+      [
+        "The screen displayed an hourglass cursor while the file opened.",
+        "文件打开时，屏幕显示沙漏指针。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hourglass#English"
+    ]
+  }
+]

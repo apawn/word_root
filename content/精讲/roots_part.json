@@ -5,7 +5,7 @@
     "core": "PART = A SHARE / A SIDE",
     "image": "把整体分成几份；看你占哪一份、站在哪一方",
     "intro": "**part-** 来自拉丁语 **pars**“一部分”，相关形式里出现 part-。一份东西是 part，拿到自己的一份参与是 participate，站在某一方是 partisan，切出的独立空间是 apartment 或 compartment。抓住“一份、一方”，比死背“部分”更容易串起来。",
-    "forms": "**particula** 是“小部分”，留下 particle；它的法语支线还留下 parcel。**partīre** 是“分开、分配”，留下 depart、partition、party。**particip-** 还含与 capere“拿取”有关的成分。partner 则经过法语与中古英语音形变化，不是任意把 -ner 当后缀。",
+    "forms": "**particula** 是“小部分”，留下 particle；它的法语支线还留下 parcel。**partīre** 是“分开、分配”，留下 depart、partition、party。**particip-** 还含与 capere“拿取”有关的成分。partner 则经过法语与中古英语音形变化，不是任意把 -ner 当后缀。\n\npart 接拉丁 pars／part- 部分，经法语进入；parts 可数多个部分，也可作动词第三人称。\n\n小部分、个别的词族，发展为需要填写或交代的详细资料。\n\n部分与拿取的拉丁构词材料形成参与词族，participant 的人物词尾来自分词历史。\n\n法语 departement 接分开、分配词族，不把它只按 depart 出发解释。\n\n拉丁 pars 与 capere 到 particeps、participare，英语去 e 加 ing。\n\n意大利 appartamento 经法语 appartement 借入，不把现代拆分当完整历史。\n\n拉丁 particeps、participare 结合部分与拿取的历史材料。\n\n拉丁 part- 加指小 icula 形成 particula，英语对应 icle；现代再加复数 s。\n\ndepart 经法语、晚期拉丁 de- 离开 + partire 分开等材料，现代加 -ed，/t/ 后读 /ɪd/。可说离去，也可委婉称已故。",
     "branches": [
       [
         "部分与细节",
@@ -30,6 +30,42 @@
       [
         "离开原处",
         "depart · departure · department"
+      ],
+      [
+        "part → parts：组成部分、零件；分开",
+        "part · parts"
+      ],
+      [
+        "particular → particulars：一个个具体情况",
+        "particular · particulars"
+      ],
+      [
+        "participate／participant → participants：拿到一份、参与其中",
+        "participant · participants"
+      ],
+      [
+        "department → departments：组织里分出来的部分",
+        "department · departments"
+      ],
+      [
+        "participate → participating：在事情中有自己的一份",
+        "participate · participating"
+      ],
+      [
+        "apartment → apartments：单独划出的一套住所",
+        "apartment · apartments"
+      ],
+      [
+        "participate → participated：在事情里拿一份、参与",
+        "participate · participated"
+      ],
+      [
+        "part → particle → particles：部分、小部分、微粒",
+        "part · particle · particles"
+      ],
+      [
+        "分开 → depart → departed",
+        "departed"
       ]
     ],
     "contrasts": "**partial / impartial**：偏向一方 / 不偏袒；impartial 并不表示“全部的”。\n\n**apart / a part**：分开 / 一个部分，空格会改变意思。\n\n**departure / department**：一个是离开或出发，另一个是划分出的部门。它们保留了“分开”的不同去向。\n\n**participate / attend**：真正参与 / 到场。光到场不一定有参与讨论。",
@@ -61,7 +97,16 @@
       "partner",
       "partnership",
       "impart",
-      "party"
+      "party",
+      "parts",
+      "particulars",
+      "participants",
+      "departments",
+      "participating",
+      "apartments",
+      "participated",
+      "particles",
+      "departed"
     ]
   }
 ]

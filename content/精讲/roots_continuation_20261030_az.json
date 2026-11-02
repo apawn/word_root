@@ -1,0 +1,156 @@
+[
+  {
+    "id": "B3576",
+    "meaning": "斑点、小处和具体位置；发现与分布品质",
+    "core": "SPOT：从一大片背景里看一个小点、认一个位置",
+    "image": "spot → spotless、spotty、spotter；spotlight、sunspot 既有共享，分光照与太阳斑点。",
+    "intro": "小点能成为污点、地点或名额；spotty 的不稳定要从分布零散理解，不能只死记多斑点。",
+    "forms": "spot + -less/-y/-er；spot + light；sun + spot。\n\n中古英语斑点词有本族、低地日耳曼相关来源，地点和发现义后发展。\n\n中古英语及低地日耳曼相关形式，地点、发现义后来发展；过去式双写 t。\n\n地点可因活动集中、无线接入等条件被称为 hotspot，按语境选义。\n\n先集中照到一处，再形象地把注意力集中到一个问题、人身上。",
+    "branches": [
+      [
+        "基本点位及性质",
+        "spot · spotless · spotty"
+      ],
+      [
+        "观察者与照明、天象",
+        "spotter · spotlight · sunspot"
+      ],
+      [
+        "spot → spots：小点、地方与发现",
+        "spot · spots"
+      ],
+      [
+        "spot → spotted：斑点、地点与发现",
+        "spot · spots · spotted"
+      ],
+      [
+        "spot 的地点义进入 hotspot",
+        "spot · hotspot · hotspots"
+      ],
+      [
+        "spot 的某一点与 spotlight 的关注焦点",
+        "spotlight · spotlights · spotlighted · spotlighting"
+      ]
+    ],
+    "contrasts": "spotless 无污点可说名誉；spotty coverage 不均；spotter 可辅助角色，不等于一般观众。",
+    "practice": "The spotter found a quiet spot where the view was clear.\n\n观察员找了个安静、视野清楚的地方。",
+    "words": [
+      "spot",
+      "spotless",
+      "spotty",
+      "spotter",
+      "spotlight",
+      "sunspot",
+      "spots",
+      "spotted",
+      "hotspot",
+      "hotspots",
+      "spotlights",
+      "spotlighted",
+      "spotlighting"
+    ],
+    "exclude": {
+      "self-spot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3167",
+    "meaning": "脚下承托表面；楼层、下限与地板下方",
+    "core": "FLOOR：脚下的一层，既是表面也可成楼层或底线",
+    "image": "floor 先讲常用多义；floorboard 板材、underfloor 位置；seafloor 既有共享。",
+    "intro": "地板、海底、价格下限可借底面相连；发言权和动词难倒是固定用法，不能每次只靠物理地面猜。",
+    "forms": "floor + board；under- + floor；sea + floor。\n\n古英语铺地、地面的词族，后发展为楼层与底线。",
+    "branches": [
+      [
+        "基本地板、楼层和固定用法",
+        "floor"
+      ],
+      [
+        "材料和位置",
+        "floorboard · underfloor · seafloor"
+      ],
+      [
+        "floor → floors：承托的表面、楼层与下限",
+        "floor · floors"
+      ]
+    ],
+    "contrasts": "英美楼层计数不同；underfloor 不要求地下；floorboard 材料板；have the floor 正在或获准发言。",
+    "practice": "Underfloor pipes run beneath the wooden floorboards.\n\n地板下的管道从木地板条下面穿过。",
+    "words": [
+      "floor",
+      "floorboard",
+      "underfloor",
+      "seafloor",
+      "floors"
+    ],
+    "exclude": {
+      "floor-walker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2963",
+    "meaning": "从低到高、起身和产生；旧动词变化与使动分清",
+    "core": "RISE：自己升起；ARISE：常说事情出现",
+    "image": "rise → risen，再 arise → riser；moonrise、sunrise 按天体并列；例句对照 raise。",
+    "intro": "本族升起动词元音变化保留至今。不要把 raise 当普通拼写变体，也不要把 arise 所有产生义都译成高度增加。",
+    "forms": "rise—rose—risen；旧 a- + rise → arise—arose—arisen；rise + -er；moon/sun + rise。\n\narise → arose → arisen，常说问题、机会、需要出现；保留 rise 词族的元音换形。\n\n古英语升起词延续，现代通常不及物。\n\n古英语 risan 的继承，三单规则，过去式 rose；raise 使升高是另一同族形式。\n\nuprising 由 up 与 rising 行为名词组成，早有起床、升起等用法，后常指群体起义、反抗；不是泛指所有向上增长。\n\narise 承古英语 arisan，含旧前缀 a- 与 rise，现代保留 e 加 -s，/z/ 后读 /ɪz/；常说问题、机会产生。\n\narise 承古英语 arisan，现代去 e 加完整 -ing；问题、机会或结果出现，以及 arising from 源于某事都常见。",
+    "branches": [
+      [
+        "基本升起和分词",
+        "rise · risen"
+      ],
+      [
+        "出现、人物与构件",
+        "arise · riser"
+      ],
+      [
+        "天体升起",
+        "moonrise · sunrise"
+      ],
+      [
+        "arise：事情冒出来",
+        "arise · arose · arisen"
+      ],
+      [
+        "rise → rising：向上与增加",
+        "rise · rising"
+      ],
+      [
+        "rise → rises：自己升起、增长",
+        "rise · rises"
+      ],
+      [
+        "up + rising → uprising：起来反抗",
+        "uprising"
+      ],
+      [
+        "arise 升起、出现 → arises",
+        "arises"
+      ],
+      [
+        "arise 出现 → arising",
+        "arising"
+      ]
+    ],
+    "contrasts": "rise 自升、raise 使升；arise 出现；risen 分词不是 rose；early riser 的 early 才说明早。",
+    "practice": "A problem arose after the water level had risen.\n\n水位上涨后，出现了一个问题。",
+    "words": [
+      "rise",
+      "risen",
+      "arise",
+      "riser",
+      "moonrise",
+      "sunrise",
+      "arose",
+      "arisen",
+      "rising",
+      "rises",
+      "uprising",
+      "arises",
+      "arising"
+    ],
+    "exclude": {
+      "high-rise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

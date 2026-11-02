@@ -1,0 +1,140 @@
+[
+  {
+    "id": "B2808",
+    "meaning": "盛食器皿转称菜肴，再形成清洗工作与设备名",
+    "core": "DISH：从盛菜的器皿，到里面那道菜",
+    "image": "dish → dishwasher；dishwashing 说清洗活动。",
+    "intro": "先辨器皿、食物、待洗餐具三种语境，再看 -er 执行者、-ing 活动的区别。",
+    "forms": "discus → 古英语 disc → dish；wash 清洗，-er 人或器具，-ing 活动。\n\ndish、desk、disk、disc 共享更早拉丁 discus、希腊 diskos 材料，但分别经不同年代和路径进入英语；desktop 是现代 desk + top，不能把所有词画成 dish 的现代派生。\n\n中世纪拉丁书写桌词，远接盘、平面器物的希腊、拉丁词族。\n\n希腊、拉丁盘器词很早借入日耳曼语成为 dish，与 desk、disk 各走不同后续路线。\n\ndish 加 washer；复数 s 只加在完整词末尾。\n\ndish 在复合词前部说明用途，现代通常保留单数形式。\n\ndisk、disc 是同源拼写，desk 经中世纪拉丁、意大利等路线发展为书桌；现代名称和用途已分开。",
+    "branches": [
+      [
+        "器皿与食物",
+        "dish"
+      ],
+      [
+        "执行者、机器与活动",
+        "dishwasher · dishwashing"
+      ],
+      [
+        "discus 的多次借入：盘、圆片与书桌",
+        "dish · desk · desktop · disk · disc"
+      ],
+      [
+        "desk → desks：书写桌与接待、业务台",
+        "desk · desks"
+      ],
+      [
+        "dish → dishes：盛食物的器物与盘中菜",
+        "dish · dishes"
+      ],
+      [
+        "dishwasher → dishwashers：洗碗者与洗碗机",
+        "dish · dishwasher · dishwashers"
+      ],
+      [
+        "dish + cloth → dishcloth → dishcloths：洗碗布",
+        "dish · dishcloth · dishcloths"
+      ],
+      [
+        "desk、desktop 与 disk、disc 的旧盘面联系",
+        "desktop · desktops · disk · disks · disc · discs"
+      ]
+    ],
+    "contrasts": "dish 可说菜肴；dishes 可泛说餐具；dishwasher 不总是机器。",
+    "practice": "The dishwasher makes the dishwashing easier after a large meal.\n\n一顿大餐之后，洗碗机让洗餐具轻松些。",
+    "words": [
+      "dish",
+      "dishwasher",
+      "dishwashing",
+      "desk",
+      "desktop",
+      "disk",
+      "disc",
+      "desks",
+      "dishes",
+      "dishwashers",
+      "dishcloth",
+      "dishcloths",
+      "desktops",
+      "disks",
+      "discs"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4257",
+    "meaning": "外部、极端的旧形象，分成彻底程度与说出表达",
+    "core": "UTTER：形容词说十足，动词说放出声音、话语",
+    "image": "utter 形容词 → utterly；utter 动词 → utterance。",
+    "intro": "两种词性先分开，派生词选择哪条意义就清楚了。utterly 不是说话方式，utterance 也不是程度名称。",
+    "forms": "旧外部词形 → utter 形容词；显露、表达相关路径 → utter 动词；-ly 副词，-ance 行为、实例。",
+    "branches": [
+      [
+        "完整程度",
+        "utter · utterly"
+      ],
+      [
+        "实际说出的内容",
+        "utterance"
+      ]
+    ],
+    "contrasts": "utter a word 是动词；utter nonsense 中是形容词；utterance 不必是完整语法句。",
+    "practice": "His brief utterance left everyone utterly confused.\n\n他简短的一句话让大家完全摸不着头脑。",
+    "words": [
+      "utter",
+      "utterly",
+      "utterance"
+    ],
+    "exclude": {
+      "utters": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4242",
+    "meaning": "手巧到脑子机灵，再评价点子、设计与动作方式",
+    "core": "CLEVER：很快抓住问题，或想出巧办法",
+    "image": "clever → cleverly、cleverness。",
+    "intro": "抓住的画面可以帮助联想理解，但远源仍有讨论。现代重点是反应、机巧与设计，不保证同时明智。",
+    "forms": "cliver 等早期、方言形式 → clever；-ly 方式，-ness 性质名词。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "clever · cleverly · cleverness"
+      ]
+    ],
+    "contrasts": "clever 可称赞也可讽刺；cleverness 不自动等于 wisdom；远源不要定成唯一说法。",
+    "practice": "The clever design was cleverly assembled from simple parts.\n\n这个巧妙设计用简单零件巧妙地组装起来。",
+    "words": [
+      "clever",
+      "cleverly",
+      "cleverness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4019",
+    "meaning": "像天平称量利弊，再走向有意与从容的状态",
+    "core": "DELIBERATE：先抓仔细权衡，再理解想过、有意、不仓促",
+    "image": "deliberate → deliberately；deliberation 说权衡、商议。",
+    "intro": "故意、深思熟虑、从容缓慢是相邻但不同用法。每个派生词不必完整继承全部意义。",
+    "forms": "libra 天平、lībrāre 称量相关 → dēlīberāre、dēlīberātus；-ly 副词，deliberātiō 名词。",
+    "branches": [
+      [
+        "动作与形容词、副词",
+        "deliberate · deliberately"
+      ],
+      [
+        "权衡商议的过程",
+        "deliberation"
+      ]
+    ],
+    "contrasts": "deliberate 形容词 /ət/、动词 /eɪt/；deliberately 不总慢；deliberation 不等于每次故意。",
+    "practice": "After deliberation, she deliberately chose a simpler design.\n\n权衡之后，她有意识地选择了更简单的设计。",
+    "words": [
+      "deliberate",
+      "deliberately",
+      "deliberation"
+    ],
+    "exclude": {}
+  }
+]

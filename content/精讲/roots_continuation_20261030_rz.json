@@ -1,0 +1,180 @@
+[
+  {
+    "id": "B3893",
+    "meaning": "爸爸的亲昵称呼；爷爷、老祖宗式的称呼",
+    "core": "DADDY：家庭称呼中的亲昵形式",
+    "image": "dad、daddy 都叫爸爸，daddy 更显亲昵、儿童口吻；granddaddy 可叫爷爷，也能比喻某一类东西的老祖宗。",
+    "intro": "daddy 与 dad 的亲昵称呼形式相连；这类亲属称呼常有儿童语言背景，不需要追成某个确定古人造出的词。granddaddy 再接 grand- 的祖辈、较上一代关系。",
+    "forms": "dad + -y → daddy，双写 d；grand- + daddy → granddaddy。这里 -y 造亲昵称呼，与很多形容词的 -y 用法不同。\n\ndad 来自儿童、家庭称呼一类形式，具体更早来源未定；dads 是现代复数。",
+    "branches": [
+      [
+        "基本与亲昵叫法",
+        "dad · daddy"
+      ],
+      [
+        "祖辈及比喻的先驱",
+        "granddaddy"
+      ],
+      [
+        "dad → dads：家庭口语中的爸爸",
+        "dad · dads"
+      ]
+    ],
+    "contrasts": "granddaddy 可在口语中比喻某类事物最早、最有代表性的一员；不是每次都在查真实家庭谱系。",
+    "practice": "She showed Daddy a photo of her granddaddy.\n\n她给爸爸看了一张爷爷的照片。",
+    "words": [
+      "dad",
+      "daddy",
+      "granddaddy",
+      "dads"
+    ],
+    "exclude": {
+      "daddy-o": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4310",
+    "meaning": "相信、信奉的人；不信者与不信的状态",
+    "core": "BELIEVER：先找相信的对象，再分人物和态度",
+    "image": "a believer in practice 相信练习的作用；宗教里的 believer 是信徒；unbeliever 是相应不相信、未信奉的人。",
+    "intro": "believer 是 believe + -er，现代人物名词；believe、belief 有共同的早期英语信、信任材料。否定人物、否定状态分别成词。",
+    "forms": "believe + -er → believer；un- + believer → unbeliever；unbelief、disbelief 是同族的不同否定状态名词，并非人物。",
+    "branches": [
+      [
+        "信的动作与状态",
+        "believe · belief"
+      ],
+      [
+        "信者与不信者",
+        "believer · unbeliever"
+      ],
+      [
+        "不信、难以置信等状态",
+        "unbelief · disbelief"
+      ]
+    ],
+    "contrasts": "believer 不只宗教信徒，还可说某种方法的坚定支持者；disbelief 常有难以相信的惊讶，不等同每种无信仰身份。",
+    "practice": "The believer tried to explain the idea to an unbeliever.\n\n那位相信这一主张的人，试着向不信者解释这个想法。",
+    "words": [
+      "believe",
+      "belief",
+      "believer",
+      "unbeliever",
+      "unbelief",
+      "disbelief"
+    ],
+    "exclude": {
+      "co-believer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "crypto-believer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4452",
+    "meaning": "赞同、有利及其否定；常见英美拼写对应",
+    "core": "FAVOURABLE：条件帮忙，或评价站在肯定的一边",
+    "image": "favourable conditions 有利条件；respond favourably 肯定回应；unfavourable 则把性质转为不利、负面。",
+    "intro": "favourable、favorable 接法语、拉丁相应形容词，与 favour／favor 同族。u 的有无主要是常见英美拼写差异，不产生两套词义。",
+    "forms": "favour／favor；favourable／favorable；favourably／favorably；unfavourable／unfavorable。形容词 -able 转副词 -ably，un- 否定性质。\n\n法语、意大利语受偏爱词族，favorite、favourite 是常见美英拼写。\n\nfavored 是 favor + -ed，美式常见，对应英式 favoured；不是 favourable 截短。favor 远接拉丁 favere 示好、支持词族，后来表示偏爱、支持、有利于等。\n\nfavor 远接拉丁 favere 善意、支持，名词好意与动词偏爱各有借入史。现代 -s，/r/ 等后读 /z/，对应英式 favours；不由 favourable 删词尾形成。",
+    "branches": [
+      [
+        "基本赞同、帮助词族",
+        "favour · favor"
+      ],
+      [
+        "有利、正面性质",
+        "favourable · favorable"
+      ],
+      [
+        "评价、回应、比较方式",
+        "favourably · favorably"
+      ],
+      [
+        "不利或负面性质",
+        "unfavourable · unfavorable"
+      ],
+      [
+        "favorite → favorites：最受偏爱的人、物及收藏项",
+        "favor · favour · favorite · favorites"
+      ],
+      [
+        "favor、favored 与 favourable 的同族对照",
+        "favored"
+      ],
+      [
+        "favor、favors 与 favourable 同族对照",
+        "favors"
+      ]
+    ],
+    "contrasts": "compare favourably with 表比较结果不逊、不错；favourable 不是所有语境的被偏爱，unfavourable 也不自动等于不公平。",
+    "practice": "The plan received a favourable response despite the unfavourable conditions.\n\n尽管条件不利，这个计划仍得到了正面回应。",
+    "words": [
+      "favour",
+      "favor",
+      "favourable",
+      "favorable",
+      "favourably",
+      "favorably",
+      "unfavourable",
+      "unfavorable",
+      "favorite",
+      "favorites",
+      "favored",
+      "favors"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3941",
+    "meaning": "跟不上、落后；变化、响应之间的滞后",
+    "core": "LAG：前面已经动了，后面还慢半拍",
+    "image": "人落在队尾，进度落在计划后面，画面落在按键后面，都是落后于某个参照点的关系。",
+    "intro": "lag 较早有末位、迟缓等用法，来源不完全确定，可能与北欧语材料有关。现代延迟名词由动作、状态关系发展。",
+    "forms": "lag + -y → laggy，双写 g；lagged、lagging 也双写 g。jet lag 等固定组合把滞后关系放到新的具体场景。",
+    "branches": [
+      [
+        "动作与延迟",
+        "lag"
+      ],
+      [
+        "迟缓、卡顿性质",
+        "laggy"
+      ]
+    ],
+    "contrasts": "lag behind 可用于普通进度，不只计算机；laggy 常描述响应不跟手，具体原因不是这个单词自动给出的。",
+    "practice": "The laggy controls made every movement feel delayed.\n\n迟缓的操作响应让每个动作都像慢了一拍。",
+    "words": [
+      "lag",
+      "laggy"
+    ],
+    "exclude": {
+      "cross-lag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4295",
+    "meaning": "梯子式上升的高潮、顶点；预期落空的反向发展",
+    "core": "CLIMAX：一路升高到顶点，或在期待中突然跌下来",
+    "image": "climax 是高潮，climactic scene 是高潮场景；anticlimax 是前面推得高、后面却让人泄气的落差。",
+    "intro": "climax 接希腊 klimax 梯子及逐级推进的修辞材料，经拉丁等形式进入。情节高潮、顶点义是从上升到顶端发展而来。",
+    "forms": "climax ↔ climactic；anti- + climax → anticlimax；anti- + climactic → anticlimactic。名词与形容词的尾部、重音分别学。",
+    "branches": [
+      [
+        "顶点与高潮性质",
+        "climax · climactic"
+      ],
+      [
+        "预期未接住的落差、性质",
+        "anticlimax · anticlimactic"
+      ]
+    ],
+    "contrasts": "climactic 高潮的与 climatic 气候的不同；anticlimactic 不只是安静，而是没有接住上下文建立的期待。",
+    "practice": "The climactic scene was powerful, but the final announcement felt anticlimactic.\n\n高潮场景很有力，最后的揭晓却让人有些泄气。",
+    "words": [
+      "climax",
+      "climactic",
+      "anticlimax",
+      "anticlimactic"
+    ],
+    "exclude": {}
+  }
+]

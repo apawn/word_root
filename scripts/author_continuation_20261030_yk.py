@@ -1,0 +1,139 @@
+"""Frequent past forms: meanings, real formation, and sentence use."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C0769':dict(words=['remove','removed'],label='remove → removed：移走与被移开的状态',note='re- 与移动词根历史组合，现代过去形式加 d。'),
+ 'B2669':dict(words=['carry','carried','carrying'],label='carry → carried → carrying：承载与携带',note='车辆运输背景扩展成多种承载动作，y 的变化看后接词尾。'),
+ 'C1064':dict(words=['complete','completed'],label='complete → completed：填满、完成与完成状态',note='完整形容词与英语完成动词的关系分开解释。'),
+ 'B3718':dict(words=['like','liked'],label='like → liked：合意、喜欢与点赞',note='本族喜欢动词延续，网络点赞是后来的用途。'),
+ 'B3774':dict(words=['present','presented'],label='present → presented：放到面前与展示',note='present 作动词的重音在后，过去词尾增加音节。'),
+ 'B3067':dict(words=['list','listed'],label='list → listed：列清单与列入其中',note='本组清单分支，其他 list 同形词来源另看。'),
+ 'C0229':dict(words=['claim','claimed'],label='claim → claimed：声称、要求与主张',note='喊出、宣布的历史背景，声称本身不判定真假。'),
+ 'B3891':dict(words=['charge','charged'],label='charge → charged：收费、充电与被指控',note='装载、负担词族发展出多个分支，按对象判断意思。'),
+ 'B3971':dict(words=['estimate','estimated'],label='estimate → estimated：估价、估算与估计值',note='动词 estimate 的词尾读音与名词不同。'),
+ 'B3465':dict(words=['enjoy','enjoyed'],label='enjoy → enjoyed：享受与享有',note='法语快乐动词借入，既说愉快感受也说拥有好处。'),
+ 'C1057':dict(words=['explain','explained'],label='explain → explained：展开、铺平与讲清',note='拉丁平坦词族形成讲清义，再经法语、拉丁进入英语。'),
+ 'B3269':dict(words=['realize','realized'],label='realize → realized：看清事实与变成现实',note='现代 real + -ize 的认形与法语相应形式的历史联系并存。'),
+ 'C0351':dict(words=['conduct','conducted'],label='conduct → conducted：引领、实施与传导',note='带领词族发展到使过程向前运行。'),
+ 'C0305':dict(words=['dedicate','dedicated'],label='dedicate → dedicated：专门留给与投入',note='郑重奉献发展到专用、敬业的现代意义。'),
+ 'C0289':dict(words=['occur','occurred'],label='occur → occurred：出现、发生与想到',note='迎面跑来、呈现词族发展；现代过去形式双写 r。'),
+ 'C0425':dict(words=['define','defined'],label='define → defined：划边界与界定',note='边界词族扩展为讲清范围、内容和特征。'),
+}
+W('removed','/rɪˈmuːvd/','移走、去除〔过去式、过去分词〕；远离的、相隔的',
+ '原来在这里的东西被拿走、删掉，是 removed；相隔一段距离或层次，也可以说 removed，像把两者拉开了。',
+ 'remove 末尾已有 e，加 -d，/v/ 后读 /d/。remove 经法语接拉丁 removēre：re- 在这里带移开方向，movēre 是移动；过去分词再可表示相隔的状态。',
+ [['拉丁 re- + movēre → removēre → 法语 → remove','移动开 → 移除'],['remove 去 e + -ed → removed；分词状态扩展','移除了、被移除；相隔、远离']],
+ 'removed the cover 移走盖子；removed from the list 从名单移除；far removed from 相去甚远。',
+ 'removed the old label；removed from everyday life。','was removed 常说被移除；far removed from 常说距离或差别很大。亲属称呼 once removed 表示相差一代，是专门的亲属用法。',
+ ('She removed the old label from the jar.','她把罐子上的旧标签去掉了。'),('His account was far removed from what I remembered.','他的叙述与我记得的情况相去甚远。'),sources=['https://en.wiktionary.org/wiki/removed#English','https://en.wiktionary.org/wiki/remove#English'])
+W('carried','/ˈkærid/','携带、搬运、承载、传播〔carry 的过去式、过去分词〕',
+ '人把箱子带走、车辆把乘客送走、声音传到远处，都可以用 carried；共同点是某样东西随着承载它的人或媒介到了另一处。',
+ 'carry 的 y 前是辅音 r，加 -ed 时变 y 为 i，形成 carried，词尾读 /d/，整体通常两个音节。carry 经盎格鲁法语、古北法语运输动词，接较早车的拉丁、高卢词族。',
+ [['车的词族 → 法语运输动词 → carry','用车运 → 更广的承载、携带'],['carry → carried','y 变 i 加 ed；带去了、被运载']],
+ 'carried the bags 提包；carried passengers 运送乘客；carried the sound 传播声音；carried out the plan 执行计划。',
+ 'carried upstairs；carried across the water。','carried out 常是执行、完成安排，作为整个短语学。carrying 保留 y；carried 变 i，两者由所接词尾决定。',
+ ('He carried the heavy box upstairs.','他把那个重箱子搬上了楼。'),('The wind carried their voices across the water.','风把他们的说话声传过了水面。'),sources=['https://en.wiktionary.org/wiki/carried#English','https://en.wiktionary.org/wiki/carry#English'])
+W('completed','/kəmˈpliːtɪd/','完成〔过去式、过去分词〕；已完成的',
+ '需要补的部分都补齐、需要做的步骤都做完，事情便 completed 了。老词根的填满画面可以帮助理解这种到齐、完成的状态。',
+ 'complete 已有 e，加 -d；/t/ 后读 /ɪd/，增加一个音节。complete 接拉丁 complēre 填满及 complētus，经法语或拉丁借入；英语完成动词又与完整形容词相连。',
+ [['拉丁 com- + plēre → complēre、complētus → complete','填满、完成 → 完整的'],['英语动词 complete 去 e + -ed → completed','做完；完成后的状态']],
+ 'completed the course 完成课程；completed forms 填好的表格；completed on time 按时完成。',
+ 'a completed report；has completed the training。','completed 强调完成了某件工作；complete 还可直接作形容词说完整、齐全。a completed form 是已经填写完成的表格。',
+ ('She completed the course in June.','她六月完成了这门课程。'),('Please leave the completed forms on the desk.','请把填好的表格放在桌上。'),sources=['https://en.wiktionary.org/wiki/completed#English','https://en.wiktionary.org/wiki/complete#English'])
+W('liked','/laɪkt/','喜欢；点赞〔like 的过去式、过去分词〕',
+ '一件事让人觉得合意、愿意接近，是 liked 的喜欢义；社交平台把这种认可做成按钮，便又有点过赞的用法。',
+ 'like 已有 e，加 -d，清音 /k/ 后读 /t/，整体一个音节。喜欢动词接古英语 līcian 使人愉快、合意；表示相似的 like 有相关但不同的较早词支。',
+ [['古英语 līcian → 中古英语 → 喜欢义 like','合意、令人愉快 → 喜欢'],['like 去 e + -ed → liked；网络用途扩展','曾喜欢、受喜欢；点过赞']],
+ 'liked the idea 喜欢这个想法；well liked 很受喜欢的；liked the photo 给照片点了赞。',
+ 'liked working there；liked by the whole team。','liked doing something 说喜欢做某事；would have liked to do 常谈过去本想做却未必做到。liked 的词尾不增加一个 /ɪd/ 音节。',
+ ('I liked the way she explained the problem.','我喜欢她解释这个问题的方式。'),('Several friends liked the photo within minutes.','几分钟内就有几个朋友给照片点了赞。'),sources=['https://en.wiktionary.org/wiki/liked#English','https://en.wiktionary.org/wiki/like#English'])
+W('presented','/prɪˈzentɪd/','展示、呈递、提出；赠予〔present 的过去式、过去分词〕',
+ '把成果、问题或礼物放到别人面前，让对方看到、接收，是 presented 的核心画面。具体是展示还是赠送，看放到面前的是什么。',
+ '动词 present + -ed，/t/ 后读 /ɪd/。动词经法语接拉丁 praesentāre 呈上、放到面前，与 praesens 在场词族相连；重音在 /zent/。',
+ [['拉丁 praesentāre → 法语 → 动词 present','放到面前、呈上'],['present + -ed → presented','展示过、被呈递、被赠予']],
+ 'presented the results 展示结果；presented a problem 带来问题；presented her with a prize 向她颁奖。',
+ 'presented to the committee；presented with a certificate。','presented somebody with something 是把某物赠给或颁给某人。名词 present 礼物和形容词 present 在场的重音在前，与这里动词不同。',
+ ('She presented the results at the meeting.','她在会上展示了结果。'),('The students presented their teacher with a card.','学生们送给老师一张卡片。'),sources=['https://en.wiktionary.org/wiki/presented#English','https://en.wiktionary.org/wiki/present#English'])
+W('listed','/ˈlɪstɪd/','列出、列入清单〔过去式、过去分词〕；在列的',
+ '把项目一条条写出来，或者把某项放进已有清单，就是 listed；网页、名单、目录里的在列项目都能用这个画面理解。',
+ 'list + -ed，/t/ 后读 /ɪd/。清单 list 联系古英语、法语等条带、边条材料，后来有条状记录、目录义，再形成列清单动词；倾斜等同形词另有来源。',
+ [['条带、边条相关旧词 → list 的清单分支','条状记录、目录'],['list + -ed → listed','列出了；已被列入']],
+ 'listed below 列在下面；listed on the website 列在网站上；listed the reasons 列出原因。',
+ 'names listed alphabetically；listed among the options。','listed below 中 below 说明列在哪里；listed as 说明以什么身份、类别列入。股票、建筑保护等领域还有专门的在列含义，要随清单类型理解。',
+ ('She listed the tools we would need.','她列出了我们需要的工具。'),('All available dates are listed on the website.','所有可选日期都列在网站上。'),sources=['https://en.wiktionary.org/wiki/listed#English','https://en.wiktionary.org/wiki/list#English'])
+W('claimed','/kleɪmd/','声称；要求、认领、申领〔claim 的过去式、过去分词〕',
+ '把自己的说法或权利要求明确提出来，是 claimed；可能是在说自己知道什么，也可能是说某样东西应归自己。',
+ 'claim + -ed，/m/ 后读 /d/。拉丁 clāmāre 喊、宣布，经古法语 clamer 等进入英语；名词主张也有平行借入线。',
+ [['拉丁 clāmāre → 古法语 clamer → claim','喊出、宣布 → 声称、提出要求'],['claim + -ed → claimed','声称过；要求、认领过']],
+ 'claimed to know 声称知道；claimed that... 声称……；claimed her bag 领回她的包；claimed the prize 领取奖品。',
+ 'claimed ownership；claimed to have seen it。','claimed 本身是在转述某人的主张，真假仍要看证据与语境。claim a bag 是认领、领取，别只记声称这一个中文义。',
+ ('He claimed to have seen the missing dog.','他声称见过那只走失的狗。'),('She claimed her bag at the service desk.','她在服务台领回了自己的包。'),sources=['https://en.wiktionary.org/wiki/claimed#English','https://en.wiktionary.org/wiki/claim#English'])
+W('charged','英 /tʃɑːdʒd/；美 /tʃɑːrdʒd/','收费、充电、指控〔过去式、过去分词〕；带电的、情绪强烈的',
+ 'charged 的几个常见画面要分开：给账户记上费用、给电池充入电能、给人提出指控。它们接在装载、负担这一老词族的不同意义分支上。',
+ 'charge 已有 e，加 -d，/dʒ/ 后读 /d/。晚期拉丁 carricāre 装车经法语 chargier 等进入英语；费用、责任、指控、电学等义在不同阶段发展。',
+ [['拉丁 carrus 车 → carricāre → 法语 → charge','装载、加上负担 → 多个专门意义'],['charge 去 e + -ed → charged；分词状态扩展','收了费、充了电、被指控；带电或充满情绪']],
+ 'charged a fee 收费；fully charged 充满电的；charged with theft 被指控盗窃；an emotionally charged discussion 情绪激烈的讨论。',
+ 'charged the phone；charged for delivery。','charged somebody for something 说向某人收某项费用；charged somebody with something 在指控语境说指控某事，with 在其他语境也可引出任务等。',
+ ('The hotel charged us for breakfast.','酒店向我们收了早餐费。'),('I charged my phone before leaving home.','出门前我给手机充了电。'),('The room grew quiet during the emotionally charged discussion.','在这场情绪激烈的讨论中，房间渐渐安静了下来。'),sources=['https://en.wiktionary.org/wiki/charged#English','https://en.wiktionary.org/wiki/charge#English'])
+W('estimated','/ˈestɪmeɪtɪd/','估计、估算〔过去式、过去分词〕；估算的',
+ '资料还不够精确，但能根据已有信息判断大约是多少，就是 estimated；重点是有依据地估出一个数或范围。',
+ '动词 estimate 已有 e，加 -d，/t/ 后读 /ɪd/。estimate 接拉丁 aestimāre 估价、评价及 aestimātus 等形式；动词词尾 /meɪt/ 保留在 estimated 中。',
+ [['拉丁 aestimāre、aestimātus → estimate','估价、判断价值 → 估算'],['动词 estimate 去 e + -ed → estimated','估算过；按估计得到的']],
+ 'estimated cost 估计费用；estimated arrival time 预计到达时间；estimated at 估计为。',
+ 'estimated the distance；an estimated hundred people。','estimated 强调估算结果，数值未必精确。名词 estimate 末尾常弱读 /mət/，过去动词 estimated 则接 /meɪtɪd/，别按名词发音机械加词尾。',
+ ('We estimated the distance at about five kilometres.','我们估计距离约五公里。'),('The estimated arrival time is shown on the screen.','屏幕上显示着预计到达时间。'),sources=['https://en.wiktionary.org/wiki/estimated#English','https://en.wiktionary.org/wiki/estimate#English'])
+W('enjoyed','/ɪnˈdʒɔɪd/','喜欢、享受；享有〔enjoy 的过去式、过去分词〕',
+ '从活动中感到愉快，可以说 enjoyed；拥有便利、支持等好处，也可以用 enjoyed，不一定是在描述当时的心情。',
+ 'enjoy + -ed，元音 /ɔɪ/ 后读 /d/；y 前是元音 o，保留 y。古法语 enjoir 等由 en- 与 joir 享受组成，后者接拉丁 gaudēre 喜悦；英语借入后有享受、享有等义。',
+ [['拉丁 gaudēre → 古法语 joir、enjoir → enjoy','喜悦 → 感到快乐、享受'],['enjoy + -ed → enjoyed；利益用法','享受过；曾享有好处或支持']],
+ 'enjoyed the concert 喜欢这场音乐会；enjoyed working together 喜欢一起工作；enjoyed wide support 得到广泛支持。',
+ 'enjoyed the visit；enjoyed herself at the party。','enjoyed 后接动作通常用 -ing，如 enjoyed walking。enjoyed herself 说她玩得开心；enjoyed support 则是享有支持，两个语境别混成一个情绪解释。',
+ ('We enjoyed walking along the river.','我们很喜欢沿河散步。'),('The plan enjoyed broad support from the team.','这项计划得到了团队的广泛支持。'),sources=['https://en.wiktionary.org/wiki/enjoyed#English','https://www.etymonline.com/word/enjoy'])
+W('explained','/ɪkˈspleɪnd/','解释、讲清楚〔explain 的过去式、过去分词〕',
+ '原来乱、看不懂的事情被一层层展开，别人终于看明白，就是 explained 的直观画面；老词的铺平、展开能帮你记住讲清楚。',
+ 'explain + -ed，/n/ 后读 /d/。拉丁 ex- 向外、展开与 planāre 使平组成 explānāre，已有讲清等义，经法语、拉丁进入英语。',
+ [['拉丁 ex- + planāre → explānāre → explain','铺平、展开 → 解释清楚'],['explain + -ed → explained','解释过；被讲明白']],
+ 'explained the rules 解释规则；explained why... 解释为什么……；explained something to somebody 向某人解释某事。',
+ 'explained in simple terms；explained how it works。','向某人解释：explain something to somebody。人通常用 to 引出；直接宾语是所解释的事情，如 explained the problem to me。',
+ ('She explained the rules to the new players.','她向新来的队员解释了规则。'),('The guide explained how the old machine worked.','导览员讲解了那台旧机器怎样运转。'),sources=['https://en.wiktionary.org/wiki/explained#English','https://en.wiktionary.org/wiki/explain#English'])
+W('realized','/ˈrɪəlaɪzd/','意识到；实现〔realize 的过去式、过去分词〕',
+ '脑子里忽然看清了实际情况，是 realized；原来只在计划里的目标真正做到了，也可以说 realized。两支分别抓看清事实、成为现实。',
+ 'realize 已有 e，加 -d，/z/ 后读 /d/。real 的较早来源接拉丁 rēs 事物与 reālis；real + -ize 的形成又与法语 réaliser 等相关。英式还常拼 realised。',
+ [['拉丁 rēs、reālis → 法语、英语 real → realize','事物、实际 → 使成实际；清楚认识'],['realize 去 e + -ed → realized','意识到了；实现了']],
+ 'realized that... 意识到……；realized a dream 实现梦想；fully realized 充分实现或表现出来的。',
+ 'realized the mistake；realized her ambition。','I realized that... 常是某一刻明白了情况；realized a dream 则是让梦想变成现实。具体是哪一支，主要看后面的宾语。',
+ ('I realized that I had left my keys at home.','我意识到自己把钥匙落在家里了。'),('She finally realized her dream of opening a bookshop.','她终于实现了开书店的梦想。'),sources=['https://en.wiktionary.org/wiki/realized#English','https://en.wiktionary.org/wiki/realize#English'])
+W('conducted','/kənˈdʌktɪd/','开展、实施；指挥；传导〔conduct 的过去式、过去分词〕',
+ '把人或过程带着向前运行，是 conducted 的引导画面：开展研究、指挥演出、让热或电通过，都有各自的现代用法。',
+ '动词 conduct + -ed，/t/ 后读 /ɪd/。拉丁 con- 一起与 dūcere 带领形成 condūcere、conductus，经借入发展为英语词族；动词重音在后。',
+ [['拉丁 con- + dūcere → condūcere、conductus → conduct','带到一起、引领 → 实施、传导'],['conduct + -ed → conducted','实施过、被进行；传导过']],
+ 'conducted a study 开展研究；conducted interviews 进行访谈；conducted the orchestra 指挥乐团；conducted heat 传热。',
+ 'conducted by the research team；conducted through the metal。','conducted 在研究语境常是开展、实施，比 done 正式；名词 conduct 行为重音在前 /ˈkɒndʌkt/ 等，动词 conducted 延续后重音。',
+ ('The team conducted interviews with local residents.','团队访谈了当地居民。'),('The metal conducted heat quickly.','这种金属传热很快。'),sources=['https://en.wiktionary.org/wiki/conducted#English','https://en.wiktionary.org/wiki/conduct#English'])
+W('dedicated','/ˈdedɪkeɪtɪd/','奉献、题献〔过去式、过去分词〕；专用的；投入、敬业的',
+ '把时间、空间或心力专门留给某人、某件事，是 dedicated；一个人长期把心力放在工作上，就有投入、敬业的形容词义。',
+ 'dedicate 已有 e，加 -d，/t/ 后读 /ɪd/。拉丁 dēdicāre、dēdicātus 含 dē- 与 dicāre 郑重宣布，较早为专门奉献；英语分词再发展出投入、专用的状态义。',
+ [['拉丁 dēdicāre、dēdicātus → dedicate','郑重宣布奉献、专门留给'],['dedicate 去 e + -ed → dedicated；分词形容词','奉献、题献了；专用、尽心投入的']],
+ 'dedicated staff 敬业的员工；a dedicated room 专用房间；dedicated to doing something 致力于做某事。',
+ 'a dedicated teacher；a room dedicated to study。','dedicated to 的 to 在致力于结构里是介词，后接名词或 -ing，如 dedicated to helping others。dedicated 作专用时，强调为特定用途留出。',
+ ('The school has a room dedicated to music practice.','学校有一间专门用于练习音乐的房间。'),('She is a dedicated teacher who prepares every lesson carefully.','她是一位敬业的老师，每节课都认真准备。'),sources=['https://en.wiktionary.org/wiki/dedicated#English','https://www.etymonline.com/word/dedicate'])
+W('occurred','英 /əˈkɜːd/；美 /əˈkɜːrd/','发生；出现；被想到〔occur 的过去式、过去分词〕',
+ '一件事在事情发展中冒出来、出现了，就是 occurred；一个念头在脑中出现，也能用 occurred to somebody。',
+ 'occur 最后音节重读，加 -ed 时双写 r，形成 occurred，词尾读 /d/。拉丁 ob- 向着与 currere 跑组成 occurrere，原有迎面而来、呈现；经法语或直接拉丁进入英语。',
+ [['拉丁 ob- + currere → occurrere → 英语 occur','迎面跑来、呈现 → 出现、发生'],['occur → occurred','双写 r 加 ed；发生了、在脑中出现了']],
+ 'occurred last night 昨夜发生；occurred during the test 测试时出现；it occurred to me that... 我想到……。',
+ 'a problem occurred；an idea occurred to her。','occur 是不及物动词：The accident occurred。想到某事用 It occurred to me that...，me 由 to 引出；过去式只一个 e，双写的是 r。',
+ ('The problem occurred during the final test.','问题出现在最后一次测试中。'),('It occurred to me that we could take an earlier train.','我想到我们可以坐早一班火车。'),sources=['https://en.wiktionary.org/wiki/occurred#English','https://www.etymonline.com/word/occur'])
+W('defined','/dɪˈfaɪnd/','定义、界定；确定特征〔过去式、过去分词〕；清楚划定的',
+ '给一个概念画清边界，说明它包括什么、范围到哪里，就是 defined；形状、职责划得清楚，也能说 clearly defined。',
+ 'define 已有 e，加 -d，/n/ 后读 /d/。拉丁 fīnis 边界形成 fīnīre 划界，再有 dēfīnīre 明确规定，经古法语相关形式借入英语。',
+ [['拉丁 fīnis → fīnīre、dēfīnīre → 法语 → define','边界 → 划界、明确规定'],['define 去 e + -ed → defined','界定过；边界或内容明确的']],
+ 'defined the term 定义术语；clearly defined roles 明确的职责；defined by 由……界定或以……为特征。',
+ 'a clearly defined area；defined in the opening paragraph。','defined 常关乎范围、内容、特征；解释一个词怎么用可用 explain，给出这个词的明确含义则可用 define。二者在具体任务中也会结合。',
+ ('The report defined the main goals of the project.','报告明确界定了项目的主要目标。'),('Each team member has a clearly defined role.','每位团队成员都有明确的职责。'),sources=['https://en.wiktionary.org/wiki/defined#English','https://en.wiktionary.org/wiki/define#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_yk',ROOTS,WORDS)
+ extend_lessons()

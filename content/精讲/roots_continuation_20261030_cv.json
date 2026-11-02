@@ -1,0 +1,216 @@
+[
+  {
+    "id": "B4367",
+    "meaning": "牢固不易分开；耐损、难做、强硬",
+    "core": "TOUGH：费力也不容易弄开、弄坏或对付",
+    "image": "tough → toughness → toughen，性质、性质名词、变化动词相邻。",
+    "intro": "从材料韧性讲起，接难嚼的肉、难题、艰难处境和强硬态度；不把所有 tough 翻成坚硬。",
+    "forms": "tough + -ness/-en；gh 在这些词里读 /f/。\n\ntough 承古英语 toh 韧、坚固，现代加完整 -er，读 /ˈtʌfə/ 或 /ˈtʌfɚ/。gh 在 tough 读 /f/，更韧、更艰难或更坚决由对象区分。",
+    "branches": [
+      [
+        "韧、坚韧性质与增强",
+        "tough · toughness · toughen"
+      ],
+      [
+        "tough + -er 比较级 → tougher",
+        "tougher"
+      ]
+    ],
+    "contrasts": "toughness/hardness 韧与硬不同；tough meat 难嚼，tough question 难答；toughen 变化而非状态。",
+    "practice": "The tough fabric was chosen for its toughness.\n\n选用这种结实布料，是看中了它的耐损韧性。",
+    "words": [
+      "tough",
+      "toughness",
+      "toughen",
+      "tougher"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3624",
+    "meaning": "外缘、刀刃到优势；紧张、风格和侧边方向",
+    "core": "EDGE：最外侧、最薄的边，也像一点锋利优势",
+    "image": "edge → edged、edgy、edgewise，动作结果、性质和方向相邻。",
+    "intro": "优势不是刀的实际威胁；edgy 的人和作品含义不同；edgewise 插话用挤薄边的画面理解。",
+    "forms": "edge + -ed/-y 去 e；edge + -wise；on edge、have an edge over。\n\n本族边缘材料；现代复数和三单同形，读 iz。",
+    "branches": [
+      [
+        "边、结果、性质和方向",
+        "edge · edged · edgy · edgewise"
+      ],
+      [
+        "edge → edges：边、刃与缓慢挪动",
+        "edge · edges"
+      ]
+    ],
+    "contrasts": "edge/age 元音不同；edged closer 缓移；edgy comedy 风格大胆；edgewise 与 lengthwise 的方向不同。",
+    "practice": "She edged toward the door, feeling a little edgy.\n\n她慢慢挪向门口，心里有点紧张。",
+    "words": [
+      "edge",
+      "edged",
+      "edgy",
+      "edgewise",
+      "edges"
+    ],
+    "exclude": {
+      "re-edge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "anti-edge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "edge-triggered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-edge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3415",
+    "meaning": "与历史相关；以历史视角说明或脱离它",
+    "core": "HISTORICAL：放回历史背景看，再对照不顾历史",
+    "image": "historical → historically；ahistorical 作为否定视角相邻，复用前两词。",
+    "intro": "historical 与 historic 的常用区别沿用基础精讲；新词强调是否采用历史背景，不一律归成事实真假。",
+    "forms": "historical + -ly；a- + historical，或 ahistoric + -al。",
+    "branches": [
+      [
+        "历史性质、方式和否定",
+        "historical · historically · ahistorical"
+      ]
+    ],
+    "contrasts": "ahistorical 方法、视角与历史事实写错不完全相同；a- 非冠词；historically 以历史看。",
+    "practice": "The essay is historically informed rather than ahistorical.\n\n这篇文章结合了历史背景，并未脱离历史。",
+    "words": [
+      "historical",
+      "historically",
+      "ahistorical"
+    ],
+    "exclude": {
+      "world-historical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4373",
+    "meaning": "知道、知情；心照不宣与不知情",
+    "core": "KNOWING：看人是否知道，或神态是否显出知道",
+    "image": "knowing → knowingly → unknowing，已有前两词精讲复用。",
+    "intro": "knowing smile 心领神会的笑，不只是正在学习的笑；unknowing 与 unknown 的知情方向分清。",
+    "forms": "knowing + -ly；un- + knowing；know 的 k 不发音。",
+    "branches": [
+      [
+        "知情、方式与否定",
+        "knowing · knowingly · unknowing"
+      ]
+    ],
+    "contrasts": "unknowing 自己不知情、unknown 身份或内容不被知道；knowing 可神态含义，不全当进行时。",
+    "practice": "He gave a knowing smile while the unknowing visitors looked puzzled.\n\n他心领神会地笑了笑，不知情的访客却一脸疑惑。",
+    "words": [
+      "knowing",
+      "knowingly",
+      "unknowing"
+    ],
+    "exclude": {
+      "all-knowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-knowing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2623",
+    "meaning": "磨碎加工；加工设施、动力、人物和制品",
+    "core": "MILL：让机器加工物料，再按工具、动力和角色分支",
+    "image": "mill → miller；windmill、treadmill 驱动力，sawmill 锯木加工；millstone 部件；millwright 工匠、millwork 制品。",
+    "intro": "mill、miller、windmill、millstone 已有完整精讲。加工场不一定磨面粉，现代 treadmill 不一定实际带动磨机。",
+    "forms": "mill + -er/stone/work/wright；wind/tread/saw + mill；wright 工匠非 write/right。\n\nmill 的加工设施义与 saw 锯相接，现代可指工厂及相应设备。",
+    "branches": [
+      [
+        "基本装置和操作者",
+        "mill · miller"
+      ],
+      [
+        "动力、加工对象和部件",
+        "windmill · treadmill · sawmill · millstone"
+      ],
+      [
+        "建装工匠和木制品",
+        "millwright · millwork"
+      ],
+      [
+        "sawmill → sawmills：以锯加工木料的工厂",
+        "mill · sawmill · sawmills"
+      ]
+    ],
+    "contrasts": "miller 使用、经营磨坊，millwright 建装维护；sawmill 锯木厂、lumberyard 木材场；millwork 专门木作制品。",
+    "practice": "The millwright repaired the machinery at the sawmill.\n\n机械维护技工修好了锯木厂的设备。",
+    "words": [
+      "mill",
+      "miller",
+      "windmill",
+      "treadmill",
+      "sawmill",
+      "millstone",
+      "millwright",
+      "millwork",
+      "sawmills"
+    ],
+    "exclude": {
+      "gig-mill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "millman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3306",
+    "meaning": "一天主餐及用餐器皿、时间",
+    "core": "DINNER：一天主餐，时点会随习惯变化",
+    "image": "dinner → dinnertime、dinnerware，已有 dinnertime 精讲复用。",
+    "intro": "词源从破斋、首顿大餐到主餐，不能靠现代中文晚餐一词固定所有时期。餐具集合与食物本身分开。",
+    "forms": "dinner + time/ware；ware 制品集合；have dinner 通常不用冠词，特定宴会可 a dinner。\n\n借入后用餐时间变化，dinner 并非在所有语境都只能指晚餐。",
+    "branches": [
+      [
+        "主餐、时间和用品",
+        "dinner · dinnertime · dinnerware"
+      ],
+      [
+        "dinner → dinners：主餐与宴会",
+        "dinner · dinners"
+      ]
+    ],
+    "contrasts": "dinner 可中午主餐；dinnerware 盘碗、silverware 常刀叉匙；a formal dinner 可数一次宴会。",
+    "practice": "She set out the dinnerware before cooking dinner.\n\n她做正餐前先摆好了盘碗餐具。",
+    "words": [
+      "dinner",
+      "dinnertime",
+      "dinnerware",
+      "dinners"
+    ],
+    "exclude": {
+      "dinner-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2949",
+    "meaning": "跨过间隔的连接结构；连接人与知识",
+    "core": "BRIDGE：把两边接起来，让间隔可跨越",
+    "image": "bridge → footbridge、bridgehead；基础词内讲桥牌另源，冷门人物和旧芯片术语暂略。",
+    "intro": "已有 footbridge 人行桥、bridgehead 桥头阵地精讲复用。桥梁比喻解释跨越差距，纸牌名来源不确定，不能据拼写随意编因。",
+    "forms": "foot + bridge；bridge + head；bridge—bridged—bridging；bridge 桥牌另源。\n\n古英语桥梁名词与相应旧动词，普通连接比喻与纸牌游戏的同形借词分开。",
+    "branches": [
+      [
+        "桥梁及用途位置",
+        "bridge · footbridge · bridgehead"
+      ],
+      [
+        "bridge → bridges：跨过间隔与连接两边",
+        "bridge · bridges"
+      ]
+    ],
+    "contrasts": "bridge the gap 弥合而非只搭实桥；鼻梁、驾驶台依语境；桥牌不从桥梁义硬推。",
+    "practice": "The footbridge helped bridge the gap between the two neighbourhoods.\n\n人行桥把两个社区之间的间隔连通了。",
+    "words": [
+      "bridge",
+      "footbridge",
+      "bridgehead",
+      "bridges"
+    ],
+    "exclude": {
+      "bridge-builder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bridger": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bridgeman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "northbridge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "southbridge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

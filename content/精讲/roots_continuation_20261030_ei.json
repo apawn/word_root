@@ -1,0 +1,152 @@
+[
+  {
+    "id": "B2781",
+    "meaning": "拖随、留痕，沿痕迹形成路",
+    "core": "TRAIL：身后的一道痕迹，可以变成后来人走的路",
+    "image": "trail → trailer；trailhead 是路口；trailblazer → trailblazing 是开路人物与性质。",
+    "intro": "预告片保留旧放映位置的名称；开拓者的 blaze 接做路标，不是点火烧出一条路。",
+    "forms": "trailler 经中古英语 → trail；trail + -er/head；trail + blaze + -er/-ing。\n\n法语 trailler 的拖行词，更远拉丁联系保留可能性；现代 s。\n\ntrail 经法语接拖行、循迹材料；现代 trailed、trailing 可用于身体跟随、拖曳、比分落后、话音渐弱等场景。\n\ntrailer 由 trail + -er 形成，现代说拖车、预告片；电影名称与胶片尾部材料有关，确切支线应保留不确定性。",
+    "branches": [
+      [
+        "路径、拖随物与入口",
+        "trail · trailer · trailhead"
+      ],
+      [
+        "开路人物与开创性质",
+        "trailblazer · trailblazing"
+      ],
+      [
+        "trail → trails：留下的踪迹、小径与拖在后面",
+        "trail · trails"
+      ],
+      [
+        "trail：拖在后面、跟随与落后",
+        "trail · trails · trailed · trailing"
+      ],
+      [
+        "trail 跟随、拖行 → trailers",
+        "trailers"
+      ]
+    ],
+    "contrasts": "trail/trial 拼写不同；trailer 不等于正片；trailhead 非山顶；trailblazer 标路分支非烧路。",
+    "practice": "A sign at the trailhead described the work of early trailblazers.\n\n步道入口的标牌介绍了早期开路者的工作。",
+    "words": [
+      "trail",
+      "trailer",
+      "trailhead",
+      "trailblazer",
+      "trailblazing",
+      "trails",
+      "trailed",
+      "trailing",
+      "trailers"
+    ],
+    "exclude": {
+      "cross-trail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3853",
+    "meaning": "从行列到相对等级、名次",
+    "core": "RANK：把对象放进同一套次序里",
+    "image": "rank → ranked；outrank 比谁等级、名次更高。难闻义另保留古英语来源。",
+    "intro": "有排名不等于排得高；等级高不等于实际表现总更好；难闻气味也不是某种排行榜。",
+    "forms": "法语 ranc、rang → rank 行列、等级 → 排名动词；rank + -ed；out- + rank；古英语 ranc 另形容词路径。\n\n行列词经法语借入，后来有等级、排名；旧英语难闻、过度形容词另源。\n\n法语行列词借入后有排名动词，ing 名词说排名过程、结果。\n\n行列名词到排名动词，再接 ing 形成过程、结果名词。",
+    "branches": [
+      [
+        "等级与比较",
+        "rank · ranked · outrank"
+      ],
+      [
+        "rank → ranks：排成的行与层级",
+        "rank · ranks"
+      ],
+      [
+        "rank → ranking：排出高低次序与名次",
+        "rank · ranks · ranking"
+      ],
+      [
+        "ranking → rankings：按标准排出的名次结果",
+        "rank · ranking · rankings"
+      ]
+    ],
+    "contrasts": "ranked/highly ranked 是否评级与排名高；outrank/outperform 等级与表现；rank smell 另源。",
+    "practice": "The highly ranked player outranked most of the competitors.\n\n那位排名靠前的选手名次高于大多数参赛者。",
+    "words": [
+      "rank",
+      "ranked",
+      "outrank",
+      "ranks",
+      "ranking",
+      "rankings"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2717",
+    "meaning": "一道光与另一条鱼名路径",
+    "core": "RAY：光线向外伸，鳐鱼另有鱼名来源",
+    "image": "ray 先分光、鱼；sunray 归光线，stingray 归鱼。",
+    "intro": "ray 与 radius 同族的线条画面很直观；鳐鱼不能为了同拼写硬解释成海里的光线。",
+    "forms": "radius 经 rai → ray 光；raia 经 raie → ray 鱼；sun + ray；sting + ray。\n\n光线接拉丁 radius，鱼名接 raia，两条同形来源分开。",
+    "branches": [
+      [
+        "光线与来源",
+        "ray · sunray"
+      ],
+      [
+        "鳐类的具体名称",
+        "stingray"
+      ],
+      [
+        "ray → rays：一道道光；另有鳐鱼",
+        "ray · rays"
+      ]
+    ],
+    "contrasts": "ray 两源；sunray/sunlight 一道光与泛指阳光；stingray 非全部 ray 的无差别替换。",
+    "practice": "Sunrays lit the water above a passing stingray.\n\n阳光照亮水面下方，一条魟正游过。",
+    "words": [
+      "ray",
+      "sunray",
+      "stingray",
+      "rays"
+    ],
+    "exclude": {
+      "half-ray": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2709",
+    "meaning": "一个环接一个环，形成连续链条",
+    "core": "CHAIN：每一节都接着下一节",
+    "image": "chain → keychain、blockchain，先实物连接，再借连续、相互衔接的结构。",
+    "intro": "钥匙链是实际串联；区块链借链式关系命名，不能只靠 chain 一个词推断系统一定可靠或适合某用途。",
+    "forms": "拉丁 catēna 经法语、英语 → chain；key + chain；block + chain。\n\n前半是承载切齿、连续运动的链条，后半是锯具。",
+    "branches": [
+      [
+        "基础链条与钥匙链",
+        "chain · keychain"
+      ],
+      [
+        "信息结构中的链",
+        "blockchain"
+      ],
+      [
+        "chain + saw → chainsaw → chainsaws：链锯",
+        "chain · chainsaw · chainsaws"
+      ]
+    ],
+    "contrasts": "chain 可锁链、连锁店、事件链；keychain 和 blockchain 的连接对象不同。",
+    "practice": "The diagram showed the blocks connected in a chain.\n\n图里显示各个区块按链式关系连接。",
+    "words": [
+      "chain",
+      "keychain",
+      "blockchain",
+      "chainsaw",
+      "chainsaws"
+    ],
+    "exclude": {
+      "drag-chain": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

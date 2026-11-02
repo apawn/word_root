@@ -1,0 +1,139 @@
+[
+  {
+    "id": "B2759",
+    "meaning": "一份、一件作品与部件",
+    "core": "PIECE：整体的一部分，也能数成一件作品",
+    "image": "piece 基本量词后读 masterpiece 杰作，再将 mouthpiece、earpiece、mantelpiece、altarpiece 按用途归组，最后对照 piecemeal、piecewise。",
+    "intro": "经法语接部分、碎块词，更远来历不确定。-meal 是历史逐次成分，不能只看现代饭的常用义。",
+    "forms": "piece → masterpiece、mouthpiece、earpiece、mantelpiece、altarpiece；piece + -meal、-wise；已有部件、作品词共享。\n\n部分、碎片的法语借词发展出一件、一份及拼合的动词。\n\npiece 指部件，两个前半分别给使用位置。",
+    "branches": [
+      [
+        "基本部分与作品",
+        "piece · masterpiece · workpiece · showpiece · centrepiece"
+      ],
+      [
+        "身体、器具与艺术部件",
+        "mouthpiece · earpiece · eyepiece · headpiece · hairpiece · timepiece · mantelpiece · altarpiece"
+      ],
+      [
+        "按块与按段",
+        "piecemeal · piecewise"
+      ],
+      [
+        "piece → pieces：一部分、一份与拼接",
+        "piece · pieces"
+      ],
+      [
+        "piece 的耳部、嘴部器物组合",
+        "earpiece · earpieces · mouthpiece · mouthpieces"
+      ]
+    ],
+    "contrasts": "piece 与 peace 同音；mouthpiece 可有负面传声筒义；piecemeal 零碎、piecewise 分段技术描述。",
+    "practice": "The curator pieced together the history of the masterpiece.\n\n策展人拼出了这件杰作的历史。",
+    "words": [
+      "piece",
+      "masterpiece",
+      "workpiece",
+      "showpiece",
+      "centrepiece",
+      "mouthpiece",
+      "earpiece",
+      "eyepiece",
+      "headpiece",
+      "hairpiece",
+      "timepiece",
+      "mantelpiece",
+      "altarpiece",
+      "piecemeal",
+      "piecewise",
+      "pieces",
+      "earpieces",
+      "mouthpieces"
+    ],
+    "exclude": {
+      "vent-piece": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2493",
+    "meaning": "墙面、障碍与靠边站的人",
+    "core": "WALL：把空间隔开，也能把信息挡住",
+    "image": "wall 后接 stonewall 不合作的障碍、drywall 工法和 wallflower 靠墙者；已有 firewall、paywall、seawall 等共享。",
+    "intro": "墙词接古英语与更早拉丁防御工事借词。现代复合词可技术类别或行为比喻，不能只按空间物理墙解释。",
+    "forms": "wall → stonewall、drywall、wallflower；wall + paper；fire/pay/sea/side + wall。\n\n较早由拉丁 vallum 借入日耳曼语，古英语 weall 延续为 wall。\n\n材料名称固定后，实际产品材料可以变化，数字用法则是用途比喻。\n\nwall 与 interval 共同接拉丁 vallum 相关材料，英语 interval 不是直接把现代 wall 拼进去。",
+    "branches": [
+      [
+        "基本墙与工法",
+        "wall · stonewall · drywall"
+      ],
+      [
+        "人物与已有复合词",
+        "wallflower · wallpaper · firewall · paywall · seawall · sidewall"
+      ],
+      [
+        "wall → walls：防御墙与隔开空间的墙",
+        "wall · walls"
+      ],
+      [
+        "paper 的墙面装饰组合及复数",
+        "wallpaper · wallpapers"
+      ],
+      [
+        "vallum 的墙、栅栏材料进入 interval",
+        "interval · intervals"
+      ]
+    ],
+    "contrasts": "stonewall 动词可拒绝合作；drywall 非任意干墙；wallflower 人物义看聚会情境。",
+    "practice": "The company stonewalled questions about the damaged wall.\n\n公司对受损墙壁的问题拒不答复。",
+    "words": [
+      "wall",
+      "stonewall",
+      "drywall",
+      "wallflower",
+      "wallpaper",
+      "firewall",
+      "paywall",
+      "seawall",
+      "sidewall",
+      "walls",
+      "wallpapers",
+      "interval",
+      "intervals"
+    ],
+    "exclude": {
+      "wall-less": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wall-crawler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackwall": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3338",
+    "meaning": "坏结果的可能与承担风险",
+    "core": "RISK：还没发生，但可能损失",
+    "image": "risk 名词、动词后接 risky 形容词，强调可能性而非已成事实。",
+    "intro": "借法语接意大利语风险词，更深历史不定。保留确定借入路线，不用礁石故事替代不确定性。",
+    "forms": "risk → risky；take a risk、risk doing 为常用搭配。\n\n法语、意大利危险词借入，更远词源仍有分歧。",
+    "branches": [
+      [
+        "基本风险与性质",
+        "risk · risky"
+      ],
+      [
+        "risk → risks：可能出问题的地方",
+        "risk · risks"
+      ]
+    ],
+    "contrasts": "risk doing 不机械套 to do；risky 不等于 impossible；at risk 不是已经受损。",
+    "practice": "Taking a risky shortcut could put the whole project at risk.\n\n走一条冒险捷径，可能让整个项目面临风险。",
+    "words": [
+      "risk",
+      "risky",
+      "risks"
+    ],
+    "exclude": {
+      "high-risk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "risk-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

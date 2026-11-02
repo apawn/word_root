@@ -1,0 +1,80 @@
+[
+  {
+    "id": "B3671",
+    "meaning": "从细粉到酒精；生活用语与化学名称",
+    "core": "ALCOHOL：旧时精制物的名字，后来专指酒的成分，再扩到醇类",
+    "image": "alcohol → alcoholic、alcoholism；ethanol 是乙醇，alkyl 是历史关联的化学基团命名，不把它们都译成酒。",
+    "intro": "先看日常酒、酒精，再看化学醇类。形容饮料含酒精和人物名词说人的依赖，是不同用法。",
+    "forms": "阿拉伯 al-kuḥl 经中世纪拉丁等 → alcohol；alcohol + -ic/-ism；ethane + -ol → ethanol；alcohol 缩短材料 + -yl → alkyl。",
+    "branches": [
+      [
+        "日常、人物与状态",
+        "alcohol · alcoholic · alcoholism"
+      ],
+      [
+        "化学物质与基团",
+        "ethanol · alkyl"
+      ]
+    ],
+    "contrasts": "alcohol 类别不全是可饮用酒；alcoholic drink 非人的依赖；ethanol 是特定醇，alkyl 是基团；-ism 不只主义。",
+    "practice": "The label gives the alcohol content, while the lab report names ethanol.\n\n标签写酒精含量，实验报告则明确写乙醇。",
+    "words": [
+      "alcohol",
+      "alcoholic",
+      "alcoholism",
+      "ethanol",
+      "alkyl"
+    ],
+    "exclude": {
+      "alcohol-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3179",
+    "meaning": "严重道德之恶与恶意表达",
+    "core": "EVIL：比一般“不好”更重，常涉及蓄意伤害和道德判断",
+    "image": "evil → evilly、evilness，分别看性质、动作方式与抽象性质。",
+    "intro": "形容饭菜不好不必叫邪恶，故事里的反派才常用 evil 的强烈评价。evilness 可读懂，日常很多地方用 evil 已足够。",
+    "forms": "古英语 yfel → evil；evil + -ly → evilly；yfelnyss 经中古英语 → evilness。",
+    "branches": [
+      [
+        "性质、动作方式与性质名词",
+        "evil · evilly · evilness"
+      ]
+    ],
+    "contrasts": "bad 范围宽，evil 道德评价重；mischievous 淘气不自动邪恶；evil 本身也可名词。",
+    "practice": "The evil character grinned evilly.\n\n邪恶的角色露出恶毒的狞笑。",
+    "words": [
+      "evil",
+      "evilly",
+      "evilness"
+    ],
+    "exclude": {
+      "evil-speaking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4218",
+    "meaning": "派上用场与有益的行动",
+    "core": "USEFUL：能帮你把事情往前推，时间也可以用得有价值",
+    "image": "useful → usefully、usefulness，分别说性质、方式和性质名词。",
+    "intro": "不只是放在一边也不坏，而是实际能帮忙。忙着做事和忙得有益要分清。",
+    "forms": "use + -ful → useful；useful + -ly/-ness；usefully 接成 ll。",
+    "branches": [
+      [
+        "性质、方式与有用性",
+        "useful · usefully · usefulness"
+      ]
+    ],
+    "contrasts": "useful 形容物、usefully 修饰做法、usefulness 讨论有用程度；useful 一个 l、usefully 接后缀后两个。",
+    "practice": "The useful notes helped us spend the time usefully.\n\n这些有用的笔记帮助我们把时间用得有价值。",
+    "words": [
+      "useful",
+      "usefully",
+      "usefulness"
+    ],
+    "exclude": {
+      "non-useful": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

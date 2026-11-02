@@ -1,0 +1,91 @@
+[
+  {
+    "id": "B2471",
+    "meaning": "人名昵称与粗俗、旧俚语分支",
+    "core": "DICK：昵称成为泛指人物，后来走向粗俗用法；侦探另辨",
+    "image": "dick → dickhead；先辨昵称、身体粗话、人物侮称与旧侦探用法。",
+    "intro": "读懂对白也要读懂语气。大写昵称不等于粗话，侦探旧称也不按身体意义翻。",
+    "forms": "Richard → Rick → Dick；泛指男人的旧用法到小写俚义；侦探义可能从 detective 缩略；dick + head。",
+    "branches": [
+      [
+        "多种俚义与语域",
+        "dick · dickhead"
+      ]
+    ],
+    "contrasts": "Dick 昵称与小写俚语分开；dickhead 粗俗侮称；private dick 是旧侦探称呼。",
+    "practice": "The dictionary distinguishes the nickname Dick from the slang word dick.\n\n词典区分人名昵称 Dick 和俚语词 dick。",
+    "words": [
+      "dick",
+      "dickhead"
+    ],
+    "exclude": {
+      "t-dick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dicky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dicked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3251",
+    "meaning": "容器、装罐、圆形与一锅混合的比喻",
+    "core": "POT：把东西装在一起，能变成器皿、工艺、资金池或诱饵",
+    "image": "pot → potter、pottery、potted、potty；teapot、crockpot 是器具；potash、jackpot、honeypot 等各按场景；pothead 接大麻另源分支。",
+    "intro": "potty 痴迷义来源不定，potter 零碎忙另有旧动词路径，crackpot 的头脑比喻也不能当真实破锅。hodgepodge 的旧杂烩名经过词形变化。",
+    "forms": "pott、法语 pot → pot；陶工、陶艺有旧法语路径；pot 双写 t 加 -ed；pot + ash/belly 等；jack/honey/crock + pot；hochepot 等 → hodgepodge。\n\n古英语、法语容器词有交汇，更远未定；这里补日常容器、装盆支。\n\n容器名转为把植物放入盆中的动作；potting 双写 t，加完整 ing。",
+    "branches": [
+      [
+        "容器、人物与装入状态",
+        "pot · potter · pottery · potted · potty"
+      ],
+      [
+        "相关器物、物质和形状",
+        "teapot · crockpot · potash · potbelly · pothole"
+      ],
+      [
+        "资金、诱饵与混合",
+        "jackpot · honeypot · hodgepodge · potluck"
+      ],
+      [
+        "人物比喻和另一俚义",
+        "crackpot · pothead"
+      ],
+      [
+        "pot → pots：容器和把植物装盆",
+        "pot · pots"
+      ],
+      [
+        "pot 的种植动作与 flowerpot 花盆",
+        "pot · potting · flowerpot · flowerpots"
+      ]
+    ],
+    "contrasts": "potter 陶工与potter about分路；potty便盆与痴迷深源另辨；potash不只是灰；jackpot大奖可比喻；pothead接大麻非制陶。",
+    "practice": "The potter displayed handmade pottery beside a large pot.\n\n陶工在一只大罐旁展示手工陶器。",
+    "words": [
+      "pot",
+      "potter",
+      "pottery",
+      "potted",
+      "potty",
+      "teapot",
+      "crockpot",
+      "potash",
+      "potbelly",
+      "pothole",
+      "jackpot",
+      "honeypot",
+      "hodgepodge",
+      "potluck",
+      "crackpot",
+      "pothead",
+      "pots",
+      "potting",
+      "flowerpot",
+      "flowerpots"
+    ],
+    "exclude": {
+      "pot-house": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pot-bound": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tin-pot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quart-pot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

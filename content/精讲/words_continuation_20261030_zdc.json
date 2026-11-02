@@ -1,0 +1,886 @@
+[
+  {
+    "word": "spillproof",
+    "ipa": "/ˈspɪlpruːf/",
+    "meaning": "防洒的、不易把内容物洒出的",
+    "sense": "杯子被晃一下，里面的液体也不容易洒到外面，是 spillproof 的使用画面。spill 提供意外洒出，proof 表抵抗。",
+    "split": "英语 spill + 后置 proof 的组合。proof 的抵抗义来自经历检验、能经受的用法；这里已形成能抵抗前项的构词方式。",
+    "history": [
+      [
+        "proof 的检验、经受材料 → 后置抵抗义",
+        "能经受、抵抗某种影响"
+      ],
+      [
+        "spill + proof → spillproof",
+        "抵抗意外洒出 → 防洒的"
+      ]
+    ],
+    "explanation": "a spillproof cup 防洒杯；a spillproof lid 防洒盖。",
+    "usage": "spillproof design 防洒设计；spillproof containers 防洒容器。",
+    "contrast": "spillproof 关注晃动、倾斜时内容物洒出；leakproof 更关注从缝隙渗漏。日常名称表达设计用途，实际效果仍随具体物件而定。",
+    "examples": [
+      [
+        "The child used a spillproof cup.",
+        "孩子用了一只防洒杯。"
+      ],
+      [
+        "She chose a bottle with a spillproof lid.",
+        "她选了一个带防洒盖的瓶子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spillproof#English",
+      "https://en.wiktionary.org/wiki/proof#English"
+    ]
+  },
+  {
+    "word": "leakproof",
+    "ipa": "/ˈliːkpruːf/",
+    "meaning": "防漏的、不渗漏的",
+    "sense": "液体没有从盖边、接缝等地方钻出去，是 leakproof 的画面。leak 是漏，proof 说明抵抗这种问题。",
+    "split": "英语 leak + proof 组合，取后置 proof 抵抗、经得住的构词义。leak 本身接日耳曼流漏词族，直接传入的细节有不同分析。",
+    "history": [
+      [
+        "日耳曼流漏材料 → leak；proof 的抵抗义",
+        "漏；能够经受某种影响"
+      ],
+      [
+        "leak + proof → leakproof",
+        "防止渗漏的"
+      ]
+    ],
+    "explanation": "a leakproof bottle 防漏瓶；a leakproof seal 防漏密封。",
+    "usage": "leakproof containers 防漏容器；a leakproof lid 防漏盖。",
+    "contrast": "漏强调不该通过的缝、孔有东西通过。与 spillproof 的防洒侧重点不同，实际产品也可能同时宣传两种特点。",
+    "examples": [
+      [
+        "She packed the soup in a leakproof container.",
+        "她把汤装进防漏容器。"
+      ],
+      [
+        "The bottle needs a leakproof seal.",
+        "这个瓶子需要防漏密封。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leakproof#English",
+      "https://en.wiktionary.org/wiki/leak#English"
+    ]
+  },
+  {
+    "word": "unwashed",
+    "ipa": "英 /ʌnˈwɒʃt/；美 /ʌnˈwɑːʃt/",
+    "meaning": "没有洗过的、未清洗的",
+    "sense": "该洗的碗、衣物还放着，没有经过清洗，就是 unwashed。un- 把 washed 洗过的状态否定掉。",
+    "split": "wash 继承古英语 wascan；加 -ed 得 washed，再加否定 un-。/ʃ/ 后 -ed 读 /t/，unwashed 末尾 /ʃt/。",
+    "history": [
+      [
+        "wash + -ed → washed",
+        "洗过、被洗过的状态"
+      ],
+      [
+        "un- + washed → unwashed",
+        "没有清洗的"
+      ]
+    ],
+    "explanation": "unwashed dishes 没洗的碗碟；unwashed clothes 没洗的衣物。",
+    "usage": "an unwashed cup 一只没洗的杯子；leave something unwashed 留着没洗。",
+    "contrast": "unwashed 是状态形容词；说过去没洗某物，也可用 did not wash。不要把 un- 当成已经执行过反向清洗的动作。",
+    "examples": [
+      [
+        "Unwashed dishes filled the sink.",
+        "水槽里堆满了没洗的碗碟。"
+      ],
+      [
+        "He left the cup unwashed on the table.",
+        "他把没洗的杯子留在桌上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unwashed#English",
+      "https://en.wiktionary.org/wiki/wash#English"
+    ]
+  },
+  {
+    "word": "dishwashers",
+    "ipa": "英 /ˈdɪʃwɒʃəz/；美 /ˈdɪʃwɑːʃərz/",
+    "meaning": "洗碗机；洗碗工〔复数〕",
+    "sense": "负责洗碗的可以是人，也可以是机器，二者都能叫 dishwashers。dish 是碗碟，washer 是执行清洗的人或物。",
+    "split": "dish + washer，后者为 wash + -er；洗碗者的称呼早已有，机器义是后来的扩展。现代整个 dishwasher 加 -s，尾 /z/。",
+    "history": [
+      [
+        "dish + wash + -er → dishwasher",
+        "洗碗者；后来洗碗机器"
+      ],
+      [
+        "dishwasher + -s → dishwashers",
+        "多个洗碗者、洗碗机"
+      ]
+    ],
+    "explanation": "commercial dishwashers 商用洗碗机；two dishwashers 两台机器或两名洗碗工。",
+    "usage": "install dishwashers 安装洗碗机；hire dishwashers 雇洗碗工。",
+    "contrast": "install、repair 常接机器，hire、staff 常接人。-er 可以命名人也可以命名工具，靠场景确定。",
+    "examples": [
+      [
+        "The shop displays several dishwashers.",
+        "商店陈列着几台洗碗机。"
+      ],
+      [
+        "The restaurant hired two dishwashers.",
+        "餐馆雇了两名洗碗工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dishwashers#English",
+      "https://en.wiktionary.org/wiki/dishwasher#English"
+    ]
+  },
+  {
+    "word": "laundries",
+    "ipa": "/ˈlɔːndriz/",
+    "meaning": "洗衣店、洗衣房、洗衣设施〔复数〕",
+    "sense": "一个负责洗衣的场所叫 a laundry，多个就是 laundries。这里在数场所，不是在数一件件脏衣服。",
+    "split": "laundry 经中古英语 lavendrie、古法语 lavanderie，接拉丁洗的材料；场所义很早已有。现代 y 改 i 加 -es，复数尾 /z/。",
+    "history": [
+      [
+        "法语 lavanderie → 中古英语 lavendrie → laundry",
+        "洗衣场所；后来清洗及衣物集合用法"
+      ],
+      [
+        "laundry 的 y 改 i + -es → laundries",
+        "多个洗衣场所、设施"
+      ]
+    ],
+    "explanation": "commercial laundries 商业洗衣设施；local laundries 附近的洗衣店。",
+    "usage": "hotel laundries 酒店洗衣房；work in laundries 在洗衣场所工作。",
+    "contrast": "dirty laundry 脏衣物通常不可数，不能按三件衣服说 three laundries。数店铺、设施或相应组织时才常用 laundries。",
+    "examples": [
+      [
+        "Two laundries served the neighbourhood.",
+        "两家洗衣店为这个街区服务。"
+      ],
+      [
+        "The chapter describes old hotel laundries.",
+        "这一章介绍了旧式酒店洗衣房。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laundries#English",
+      "https://en.wiktionary.org/wiki/laundry#English",
+      "https://www.etymonline.com/word/laundromat"
+    ]
+  },
+  {
+    "word": "laundromats",
+    "ipa": "英 /ˈlɔːndrəmæts/；美 /ˈlɔːndrəmæts/",
+    "meaning": "自助洗衣店〔复数，常见美式〕",
+    "sense": "顾客把衣物放进店里的机器自己洗，这类场所常叫 laundromats。词里有洗衣材料，也带自动设备命名的背景。",
+    "split": "Laundromat 原是自动洗衣机的专有名称，laundry 的词干接受 automat 启发的结尾，后来用来称自助洗衣店。现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "laundry 的词干 + 受 automat 启发的结尾 → Laundromat",
+        "自动洗衣设备的名称"
+      ],
+      [
+        "普通场所名 laundromat + -s → laundromats",
+        "多个自助洗衣店"
+      ]
+    ],
+    "explanation": "local laundromats 附近的自助洗衣店；laundromats in the area 这一带的自助洗衣店。",
+    "usage": "use laundromats 去自助洗衣店；laundromats near the station 车站附近的自助洗衣店。",
+    "contrast": "不能把末尾 mat 当成地垫来拆。英式还常用 launderette、laundrette 表示这类场所。",
+    "examples": [
+      [
+        "There are two laundromats near the station.",
+        "车站附近有两家自助洗衣店。"
+      ],
+      [
+        "They used local laundromats during the trip.",
+        "旅行中，他们在当地自助洗衣店洗衣服。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laundromats#English",
+      "https://www.etymonline.com/word/laundromat"
+    ]
+  },
+  {
+    "word": "cleaners",
+    "ipa": "英 /ˈkliːnəz/；美 /ˈkliːnərz/",
+    "meaning": "清洁工；清洁剂、清洁设备；洗衣店〔相应用法〕",
+    "sense": "让东西变干净的人或产品，是 cleaners。店铺语境里的 the cleaners 还常指提供洗衣、干洗服务的地方。",
+    "split": "名词 cleaner 为 clean 清洁 + -er，再加复数 -s，尾 /z/。店铺用法与 cleaner 的职业、服务称呼有关；形容词比较级 cleaner 是另一种 -er 功能。",
+    "history": [
+      [
+        "clean + 名词 -er → cleaner",
+        "清洁的人、用品或设备"
+      ],
+      [
+        "cleaner + -s → cleaners；相关店铺称呼",
+        "多个清洁者、清洁品；洗衣店"
+      ]
+    ],
+    "explanation": "window cleaners 擦窗工；household cleaners 家用清洁剂；take clothes to the cleaners 送衣服去洗衣店。",
+    "usage": "hire cleaners 雇清洁工；cleaners under the sink 水槽下的清洁用品。",
+    "contrast": "a cleaner room 的 cleaner 是更干净，不是名词复数的基础义。the cleaners 在送洗衣物的语境常说店，而非一群清洁工。",
+    "examples": [
+      [
+        "The cleaners arrived before the office opened.",
+        "清洁工在办公室开门前到了。"
+      ],
+      [
+        "She took the coat to the cleaners.",
+        "她把大衣送到洗衣店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cleaners#English",
+      "https://en.wiktionary.org/wiki/cleaner#English"
+    ]
+  },
+  {
+    "word": "detergents",
+    "ipa": "英 /dɪˈtɜːdʒənts/；美 /dɪˈtɜːrdʒənts/",
+    "meaning": "洗涤剂、清洁剂〔多种或多种产品〕",
+    "sense": "帮助把污垢从表面带走的洗涤用品，是 detergents。较远的词源画面正是把东西擦掉、擦净。",
+    "split": "拉丁 de- 离开 + tergere 擦 → detergere，其分词 detergens 经法语等路线进入 detergent。现代名词加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 de- + tergere → detergere、detergens → detergent",
+        "擦除、擦净 → 有清洁作用的、清洁用品"
+      ],
+      [
+        "detergent + -s → detergents",
+        "多个或不同种类洗涤用品"
+      ]
+    ],
+    "explanation": "laundry detergents 洗衣剂；liquid detergents 液体洗涤剂。",
+    "usage": "different detergents 不同清洁剂；detergents on the shelf 架上的洗涤用品。",
+    "contrast": "detergent 可用不可数形式说材料；detergents 常在分产品或种类。词尾是借入后保留的分词材料，今天不必假设有一个常用动词 deterge 才能读懂。",
+    "examples": [
+      [
+        "The shelf held several laundry detergents.",
+        "架子上放着几种洗衣剂。"
+      ],
+      [
+        "The guide compares liquid detergents.",
+        "指南比较了液体洗涤剂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/detergents#English",
+      "https://en.wiktionary.org/wiki/detergent#English"
+    ]
+  },
+  {
+    "word": "disinfectants",
+    "ipa": "/ˌdɪsɪnˈfektənts/",
+    "meaning": "消毒剂〔复数〕",
+    "sense": "用来对物体、表面等进行消毒的用品，可以叫 disinfectants。它是动作 disinfect 对应的用品名称。",
+    "split": "disinfectant 与法语 désinfectant 相连，现代对应 disinfect + -ant；disinfect 经法语撤除感染、污染的材料借入。现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "法语相关形式 → disinfect、disinfectant",
+        "消毒动作与起相应作用的用品"
+      ],
+      [
+        "disinfectant + -s → disinfectants",
+        "多种、多件消毒用品"
+      ]
+    ],
+    "explanation": "surface disinfectants 表面消毒剂；different disinfectants 不同消毒剂。",
+    "usage": "disinfectants in storage 储存的消毒用品；labels on disinfectants 消毒剂上的标签。",
+    "contrast": "cleaner 突出清洁，disinfectant 突出消毒用途；名称所强调的用途不同，具体产品指什么看对象和说明。",
+    "examples": [
+      [
+        "The manual lists several surface disinfectants.",
+        "手册列了几种表面消毒剂。"
+      ],
+      [
+        "The labels identify the disinfectants in the cupboard.",
+        "标签标明了柜子里的消毒剂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disinfectants#English",
+      "https://en.wiktionary.org/wiki/disinfectant#English"
+    ]
+  },
+  {
+    "word": "sanitiser",
+    "ipa": "英 /ˈsænɪtaɪzə/；美 /ˈsænɪtaɪzər/",
+    "meaning": "清洁、消毒用品或装置〔sanitizer 的拼写变体〕",
+    "sense": "让某物达到清洁、卫生状态的产品，可以叫 sanitiser。手部用品语境里常译免洗洗手液、手部消毒用品。",
+    "split": "sanitary 的 sanit- 词干加 -ise 成 sanitise，再去词末 e 加完整 -er 成 sanitiser。与 sanitizer 是拼写对应，较远接拉丁 sanus 健康、健全的材料。",
+    "history": [
+      [
+        "sanitary 的 sanit- + -ise → sanitise",
+        "使清洁、卫生；后有删改敏感内容等比喻"
+      ],
+      [
+        "sanitise 去 e + -er → sanitiser",
+        "起相应清洁作用的用品、装置"
+      ]
+    ],
+    "explanation": "hand sanitiser 手部消毒用品；a sanitiser dispenser 清洁液分配器。",
+    "usage": "a bottle of sanitiser 一瓶清洁液；sanitiser on the shelf 架上的清洁用品。",
+    "contrast": "英式常用 sanitiser，也可用 sanitizer；两种拼写不是不同物品。语境才能进一步确定产品类型。",
+    "examples": [
+      [
+        "A bottle of hand sanitiser stood by the door.",
+        "门旁放着一瓶手部消毒用品。"
+      ],
+      [
+        "The label on the dispenser said sanitiser.",
+        "分配器的标签上写着 sanitiser。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sanitiser#English",
+      "https://en.wiktionary.org/wiki/sanitizer#English"
+    ]
+  },
+  {
+    "word": "sanitizers",
+    "ipa": "英 /ˈsænɪtaɪzəz/；美 /ˈsænɪtaɪzərz/",
+    "meaning": "清洁、消毒用品或装置〔复数〕",
+    "sense": "比较几种清洁用品、几台清洁装置，可以叫 sanitizers。这里在数产品、种类或设备。",
+    "split": "sanitize 由 sanitary 的 sanit- 加 -ize；去 e 加 -er 成 sanitizer，最后加 -s，尾 /z/。",
+    "history": [
+      [
+        "sanit- + -ize → sanitize；去 e + -er → sanitizer",
+        "使清洁、卫生 → 相应用品或装置"
+      ],
+      [
+        "sanitizer + -s → sanitizers",
+        "多个产品、装置或不同品类"
+      ]
+    ],
+    "explanation": "hand sanitizers 手部消毒用品；different sanitizers 不同清洁用品。",
+    "usage": "sanitizers on display 陈列的清洁用品；sanitizers in the catalogue 目录里的相关产品。",
+    "contrast": "sanitizer 也可不可数地说液体材料；sanitizers 的复数角度常在种类、产品或装置。英式还有 sanitisers 拼写。",
+    "examples": [
+      [
+        "The catalogue lists several hand sanitizers.",
+        "目录列了几种手部消毒用品。"
+      ],
+      [
+        "The shop placed the sanitizers near the entrance.",
+        "店里把这些清洁用品放在入口附近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sanitizers#English",
+      "https://en.wiktionary.org/wiki/sanitizer#English"
+    ]
+  },
+  {
+    "word": "sanitisers",
+    "ipa": "英 /ˈsænɪtaɪzəz/；美 /ˈsænɪtaɪzərz/",
+    "meaning": "清洁、消毒用品或装置〔复数，拼写变体〕",
+    "sense": "sanitisers 与 sanitizers 指同类东西。把 sanitiser 作为完整名词，再数多个或多种，就得到这个形式。",
+    "split": "sanitise 去 e 加 -er → sanitiser，再加复数 -s。ise、iser 与 ize、izer 两套拼写相对应，发音不因 s、z 字母选择而变成不同词。",
+    "history": [
+      [
+        "sanitise + -er〔去 e〕→ sanitiser",
+        "英式常见拼写的用品、装置名"
+      ],
+      [
+        "sanitiser + -s → sanitisers",
+        "多个或不同品类"
+      ]
+    ],
+    "explanation": "hand sanitisers 手部消毒用品；sanitisers on the shelf 架上的清洁用品。",
+    "usage": "a range of sanitisers 一系列清洁用品；labels for sanitisers 清洁用品标签。",
+    "contrast": "读音中的 /z/ 对应词里的 s，复数尾也读 /z/。拼写变体并不改变同一个产品名称的基本理解。",
+    "examples": [
+      [
+        "The display included soaps and hand sanitisers.",
+        "陈列区有肥皂和手部消毒用品。"
+      ],
+      [
+        "She checked the labels on the sanitisers.",
+        "她看了看那些清洁用品上的标签。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sanitisers#English",
+      "https://en.wiktionary.org/wiki/sanitiser#English"
+    ]
+  },
+  {
+    "word": "disinfected",
+    "ipa": "/ˌdɪsɪnˈfektɪd/",
+    "meaning": "消毒了、经过消毒的",
+    "sense": "某物已经做过消毒处理，可以说 disinfected。它描述已做的动作或处理后的状态。",
+    "split": "disinfect 经法语相关动词借入，现代可认 dis- 撤除 + infect。加完整 -ed，/t/ 后增加 /ɪd/。",
+    "history": [
+      [
+        "法语相关动词 → disinfect",
+        "消毒、去除污染的动作"
+      ],
+      [
+        "disinfect + -ed → disinfected",
+        "过去处理了；已处理的状态"
+      ]
+    ],
+    "explanation": "disinfected surfaces 消毒过的表面；was disinfected 经过了消毒。",
+    "usage": "disinfected the table 给桌子消毒了；freshly disinfected 刚消毒过的。",
+    "contrast": "disinfected 在说做过相应处理，和 uninfected 没受感染不同：一个说处理动作，一个说是否有感染。",
+    "examples": [
+      [
+        "The report says the table was disinfected.",
+        "记录写着桌子已做过消毒处理。"
+      ],
+      [
+        "The cleaner disinfected the work surface.",
+        "清洁人员给工作台表面做了消毒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disinfected#English",
+      "https://en.wiktionary.org/wiki/disinfect#English"
+    ]
+  },
+  {
+    "word": "disinfecting",
+    "ipa": "/ˌdɪsɪnˈfektɪŋ/",
+    "meaning": "正在消毒；消毒的过程、有消毒用途的",
+    "sense": "消毒动作还在进行，或在谈这项处理过程，就会用 disinfecting。",
+    "split": "disinfect 经法语相关材料借入，现代直接加 -ing。与 -ant 的用品名、-ed 的已处理状态放在一起，就能看出各自角度。",
+    "history": [
+      [
+        "disinfect 消毒",
+        "相应处理动作"
+      ],
+      [
+        "disinfect + -ing → disinfecting",
+        "正在处理；处理过程、用途"
+      ]
+    ],
+    "explanation": "disinfecting surfaces 给表面消毒；disinfecting wipes 消毒湿巾。",
+    "usage": "finish disinfecting 完成消毒；disinfecting the equipment 正在给设备消毒。",
+    "contrast": "disinfecting wipes 里的 ing 表用途或作用；is disinfecting 中的 ing 表进行。两种结构都围绕同一个动作。",
+    "examples": [
+      [
+        "The cleaner was disinfecting the table.",
+        "清洁人员正在给桌子消毒。"
+      ],
+      [
+        "The cupboard held a packet of disinfecting wipes.",
+        "柜子里放着一包消毒湿巾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disinfecting#English",
+      "https://en.wiktionary.org/wiki/disinfect#English"
+    ]
+  },
+  {
+    "word": "sterilise",
+    "ipa": "/ˈsterɪlaɪz/",
+    "meaning": "灭菌；使不育〔sterilize 的拼写变体〕",
+    "sense": "sterilise 是使某物达到 sterile 状态。器具语境里说灭菌；生育语境里则说使不育，必须按对象分开理解。",
+    "split": "sterile 经法语接拉丁 sterilis 不育、无产出；英语去 e 加完整 -ise。与 sterilize 是拼写变体，ise 仍读 /aɪz/。",
+    "history": [
+      [
+        "拉丁 sterilis → 法语、英语 sterile",
+        "不育、无产出；后来有无菌用法"
+      ],
+      [
+        "sterile 去 e + -ise → sterilise",
+        "使达到相应状态；英式常见拼写"
+      ]
+    ],
+    "explanation": "sterilise equipment 给设备灭菌；sterilise instruments 给器械灭菌。",
+    "usage": "the verb sterilise 动词 sterilise；sterilise the jars 给罐子灭菌。",
+    "contrast": "无菌与不育是现代不同用法，不能互相代换。这里记词义、构形，按句子中的对象决定译法。",
+    "examples": [
+      [
+        "The manual uses the verb sterilise for the equipment.",
+        "手册用 sterilise 这个动词描述设备的灭菌处理。"
+      ],
+      [
+        "The instructions say to sterilise the jars.",
+        "说明中写着给罐子灭菌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sterilise#English",
+      "https://en.wiktionary.org/wiki/sterilize#English"
+    ]
+  },
+  {
+    "word": "sterilized",
+    "ipa": "英 /ˈsterɪlaɪzd/；美 /ˈsterəlaɪzd/",
+    "meaning": "灭菌了、灭菌过的；被绝育的〔按对象〕",
+    "sense": "相应处理已经做过，就是 sterilized。器具语境常译灭菌过的，动物等语境另看使不育的用法。",
+    "split": "sterile 去 e 加 -ize → sterilize，再去词末 e 加完整 -ed → sterilized。/z/ 后 -ed 读 /d/。",
+    "history": [
+      [
+        "sterile 去 e + -ize → sterilize",
+        "使达到 sterile 的相关状态"
+      ],
+      [
+        "sterilize 去 e + -ed → sterilized",
+        "过去动作、处理后的状态"
+      ]
+    ],
+    "explanation": "sterilized equipment 灭菌过的设备；sterilized containers 灭菌过的容器。",
+    "usage": "has been sterilized 已经过相应处理；freshly sterilized 刚灭菌的。",
+    "contrast": "sterilized 与普通 cleaned 的意义侧重不同，不宜都只译成弄干净了。英式也写 sterilised。",
+    "examples": [
+      [
+        "The label identified the sterilized instruments.",
+        "标签标明了灭菌过的器械。"
+      ],
+      [
+        "The record says the equipment was sterilized.",
+        "记录写着设备已做过灭菌处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sterilized#English",
+      "https://en.wiktionary.org/wiki/sterilize#English"
+    ]
+  },
+  {
+    "word": "sterilised",
+    "ipa": "/ˈsterɪlaɪzd/",
+    "meaning": "灭菌了、灭菌过的；被绝育的〔拼写变体，按对象〕",
+    "sense": "sterilised 与 sterilized 表达同样的处理动作或状态。这里沿用 sterilise 的 s 拼写。",
+    "split": "sterile 去 e 加 -ise → sterilise，再去词末 e 加完整 -ed → sterilised。ise 读 /aɪz/，ed 接成 /d/。",
+    "history": [
+      [
+        "sterile + -ise〔去 e〕→ sterilise",
+        "相应使成动词"
+      ],
+      [
+        "sterilise + -ed〔去 e〕→ sterilised",
+        "过去式、过去分词的英式常见拼写"
+      ]
+    ],
+    "explanation": "sterilised equipment 灭菌过的设备；sterilised containers 灭菌过的容器。",
+    "usage": "was sterilised 经过了相应处理；labelled sterilised 标注为灭菌过的。",
+    "contrast": "s 与 z 的拼写对应不改变词义。理解仍先看对象和前后文，再决定是灭菌还是使不育。",
+    "examples": [
+      [
+        "The box was labelled sterilised equipment.",
+        "盒子上标着“灭菌过的设备”。"
+      ],
+      [
+        "The record states that the instruments were sterilised.",
+        "记录说明器械已做过灭菌处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sterilised#English",
+      "https://en.wiktionary.org/wiki/sterilise#English"
+    ]
+  },
+  {
+    "word": "untidiness",
+    "ipa": "/ʌnˈtaɪdinəs/",
+    "meaning": "不整洁、凌乱的状态",
+    "sense": "东西没有放齐、整体看着乱，这种状态是 untidiness。-ness 让不整洁变成可以讨论的一种性质。",
+    "split": "un- 不 + tidy 整洁的 → untidy，再把 y 改 i 加完整 -ness。tidy 的较远历史接 tide 的时间、合宜材料，不是直接从海潮乱动造出今天意思。",
+    "history": [
+      [
+        "tidy → un- + tidy → untidy",
+        "整洁的 → 不整洁的"
+      ],
+      [
+        "untidy 的 y 改 i + -ness → untidiness",
+        "把不整洁性质名词化"
+      ]
+    ],
+    "explanation": "the untidiness of the room 房间的凌乱；tolerate untidiness 容忍不整洁。",
+    "usage": "general untidiness 整体杂乱；notice the untidiness 注意到不整齐。",
+    "contrast": "untidiness 常不可数地说状态；untidy 修饰人、物、空间。不要为了数散落物品给 untidiness 随意加复数。",
+    "examples": [
+      [
+        "The untidiness of the desk made the letter hard to find.",
+        "桌子的凌乱让那封信很难找到。"
+      ],
+      [
+        "She noticed the untidiness but said nothing.",
+        "她注意到了不整洁，却没说什么。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/untidiness#English",
+      "https://en.wiktionary.org/wiki/untidy#English"
+    ]
+  },
+  {
+    "word": "messier",
+    "ipa": "英 /ˈmesiə/；美 /ˈmesiər/",
+    "meaning": "更凌乱的；更棘手、更混乱的",
+    "sense": "两种情况比较，东西散得更乱、事情纠缠更多的一种，就是 messier。",
+    "split": "mess 乱局、杂乱 + -y → messy，已有两个 s；再把 y 改 i，加完整 -er → messier。",
+    "history": [
+      [
+        "mess + -y → messy",
+        "杂乱 → 凌乱、难处理的"
+      ],
+      [
+        "messy 的 y 改 i + -er → messier",
+        "比较两者：更加凌乱、棘手"
+      ]
+    ],
+    "explanation": "a messier room 更乱的房间；messier than before 比以前更乱。",
+    "usage": "a messier situation 更棘手的局面；get messier 变得更混乱。",
+    "contrast": "物理空间乱和事情难理清，都能比较为 messier。它比 dirty 更突出无序，不一定有污垢。",
+    "examples": [
+      [
+        "My desk is messier than yours.",
+        "我的桌子比你的更乱。"
+      ],
+      [
+        "The argument made the situation messier.",
+        "争吵让局面更加混乱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/messier#English",
+      "https://en.wiktionary.org/wiki/messy#English"
+    ]
+  },
+  {
+    "word": "messiest",
+    "ipa": "/ˈmesiɪst/",
+    "meaning": "最凌乱的；最棘手、最混乱的",
+    "sense": "几处地方摆在一起，这一处最乱，就是 messiest。也能在几种事情中指出最难理清的那一种。",
+    "split": "messy 的 y 改 i 加完整 -est → messiest，保留原有 ss。-est 的读音 /ɪst/ 接在 /i/ 后。",
+    "history": [
+      [
+        "mess → messy",
+        "乱局、杂乱 → 凌乱的"
+      ],
+      [
+        "messy 的 y 改 i + -est → messiest",
+        "在比较范围内程度最高"
+      ]
+    ],
+    "explanation": "the messiest room 最乱的房间；the messiest part 最混乱、最棘手的部分。",
+    "usage": "the messiest desk 最乱的桌子；one of the messiest cases 最棘手的情况之一。",
+    "contrast": "最高级通常要有比较范围；可以是屋里的几个房间，也可以是已见过的若干事情。most messy 也可在特别结构出现，常用形式先认 messiest。",
+    "examples": [
+      [
+        "This is the messiest desk in the office.",
+        "这是办公室里最乱的桌子。"
+      ],
+      [
+        "Packing was the messiest part of the move.",
+        "打包是这次搬家最乱的环节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/messiest#English",
+      "https://en.wiktionary.org/wiki/messy#English"
+    ]
+  },
+  {
+    "word": "declutter",
+    "ipa": "英 /ˌdiːˈklʌtə/；美 /ˌdiːˈklʌtər/",
+    "meaning": "清理杂物、减少杂乱",
+    "sense": "东西挤得到处都是，把不需要的拿走，让空间清爽起来，就是 declutter。de- 是去掉，clutter 是挤在一起的杂乱。",
+    "split": "现代英语 de- 去除 + clutter 杂物、杂乱。clutter 的较早团块、堆积材料可追至中古英语，与 clot 团块相关；现代组合把去除方向说清。",
+    "history": [
+      [
+        "中古英语团块、堆积材料 → clutter",
+        "东西挤在一起的杂乱"
+      ],
+      [
+        "de- + clutter → declutter",
+        "去除杂物、减少拥挤杂乱"
+      ]
+    ],
+    "explanation": "declutter a room 清理房间杂物；declutter the desk 清理桌面。",
+    "usage": "declutter a page 减少页面杂乱元素；time to declutter 清理杂物的时候。",
+    "contrast": "declutter 侧重减少多余、拥挤元素；clean 还可侧重洗掉污垢。房间、页面、安排都可以借杂乱画面来讲。",
+    "examples": [
+      [
+        "We need to declutter the spare room.",
+        "我们需要清理空房里的杂物。"
+      ],
+      [
+        "She removed extra icons to declutter the page.",
+        "她删掉多余图标，让页面清爽些。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/declutter#English",
+      "https://www.merriam-webster.com/dictionary/declutter"
+    ]
+  },
+  {
+    "word": "decluttered",
+    "ipa": "英 /ˌdiːˈklʌtəd/；美 /ˌdiːˈklʌtərd/",
+    "meaning": "清理过杂物了、减少杂乱后的",
+    "sense": "杂物已经拿走、空间变清爽，就是 decluttered。它看的是清理动作发生后留下的状态。",
+    "split": "de- 去除 + clutter → declutter，再加完整 -ed，/ə/ 或 /r/ 后读 /d/。原词末尾 t 后面已有 er，不在这里再双写 t。",
+    "history": [
+      [
+        "de- + clutter → declutter",
+        "移除多余杂物"
+      ],
+      [
+        "declutter + -ed → decluttered",
+        "过去清理了；清理杂物后的"
+      ]
+    ],
+    "explanation": "a decluttered desk 清理过杂物的桌面；decluttered the room 清了房间杂物。",
+    "usage": "a decluttered layout 简洁清爽的版面；has decluttered 已经清理了。",
+    "contrast": "decluttered 不一定等于所有表面都擦洗过；它首先说明多余、杂乱的元素被减少了。",
+    "examples": [
+      [
+        "They decluttered the room before moving the furniture.",
+        "他们搬家具前先清了房间杂物。"
+      ],
+      [
+        "The decluttered desk felt much easier to use.",
+        "清理过杂物的桌面用起来方便多了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decluttered#English",
+      "https://en.wiktionary.org/wiki/declutter#English"
+    ]
+  },
+  {
+    "word": "decluttering",
+    "ipa": "英 /ˌdiːˈklʌtərɪŋ/；美 /ˌdiːˈklʌtərɪŋ/",
+    "meaning": "正在清理杂物；减少杂乱的过程",
+    "sense": "一件件挑掉多余东西、让空间清爽起来的过程，就是 decluttering。",
+    "split": "现代可认 declutter + -ing，也可认 de- + clutter + -ing。名词 decluttering 的所见记录早于独立动词；现代拆分不能当作历史出现顺序。词末 er 音节不重读，不额外双写。",
+    "history": [
+      [
+        "de- + clutter + -ing → 名词 decluttering",
+        "去除杂乱的活动；所见记录早于独立动词"
+      ],
+      [
+        "现代 declutter + -ing 的分词对应",
+        "正在清理；现代拆分不表示历史动词一定先出现"
+      ]
+    ],
+    "explanation": "decluttering the house 清理家中杂物；a day of decluttering 一天的杂物整理。",
+    "usage": "start decluttering 开始清理杂物；decluttering a page 简化页面。",
+    "contrast": "decluttering 可作活动名，也可跟在 is、was 后写进行动作。与 decluttered 的已处理状态连着学，过程与结果就清楚了。",
+    "examples": [
+      [
+        "She spent the morning decluttering the kitchen.",
+        "她用一上午清理厨房杂物。"
+      ],
+      [
+        "Decluttering made the small room feel larger.",
+        "清理杂物让小房间显得宽敞了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decluttering#English",
+      "https://en.wiktionary.org/wiki/declutter#English"
+    ]
+  },
+  {
+    "word": "dustpan",
+    "ipa": "/ˈdʌstpæn/",
+    "meaning": "簸箕、畚斗、扫地用承接盘",
+    "sense": "用扫帚把灰尘扫进一个浅浅的接盘，那只盘就是 dustpan。dust 说明装什么，pan 说明容器形状。",
+    "split": "英语 dust 灰尘 + pan 浅盘的直接组合；dust 继承古英语细尘名，pan 的容器义也很早进入英语。",
+    "history": [
+      [
+        "dust + pan → dustpan",
+        "盛接灰尘的浅盘"
+      ],
+      [
+        "固定清洁用品名",
+        "配合扫帚把灰尘、碎屑收走"
+      ]
+    ],
+    "explanation": "a brush and dustpan 刷子和畚斗；a plastic dustpan 塑料簸箕。",
+    "usage": "sweep into the dustpan 把东西扫进簸箕；empty the dustpan 倒空簸箕。",
+    "contrast": "这里是扫地用的接灰器物。中文簸箕还可指筛扬粮食的器具，具体英语名称要看用途，不能一律套 dustpan。",
+    "examples": [
+      [
+        "She swept the crumbs into the dustpan.",
+        "她把碎屑扫进簸箕。"
+      ],
+      [
+        "The dustpan hung beside the brush.",
+        "簸箕挂在刷子旁边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dustpan#English"
+    ]
+  },
+  {
+    "word": "dustpans",
+    "ipa": "/ˈdʌstpænz/",
+    "meaning": "簸箕、畚斗〔复数〕",
+    "sense": "多只承接扫地灰尘的浅盘，是 dustpans。dust 和 pan 的用途、形状关系没有改变，只是数多个器具。",
+    "split": "dust + pan → dustpan，现代把完整复合词加 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "dust + pan → dustpan",
+        "按所装内容与容器形状组合"
+      ],
+      [
+        "dustpan + -s → dustpans",
+        "多只扫地承接盘"
+      ]
+    ],
+    "explanation": "plastic dustpans 塑料簸箕；brushes and dustpans 刷子和簸箕。",
+    "usage": "empty the dustpans 倒空簸箕；dustpans in the cupboard 柜子里的簸箕。",
+    "contrast": "复数落在最后的 pan 上；不把 dust 也改成 dusts。前面的 dust 在复合词里说明用途。",
+    "examples": [
+      [
+        "The cupboard held brushes and dustpans.",
+        "柜子里放着刷子和簸箕。"
+      ],
+      [
+        "They emptied the dustpans after cleaning.",
+        "打扫后，他们倒空了簸箕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dustpans#English",
+      "https://en.wiktionary.org/wiki/dustpan#English"
+    ]
+  },
+  {
+    "word": "doormats",
+    "ipa": "英 /ˈdɔːmæts/；美 /ˈdɔːrmæts/",
+    "meaning": "门垫〔复数〕；任人摆布的人〔贬义比喻〕",
+    "sense": "门前用来踩、擦鞋的垫子，是 doormats。把人也当成随便踩的垫子，就有任人摆布、总受欺负的比喻。",
+    "split": "door + mat → doormat，实物名后来转成贬义人物称呼；现代加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "door + mat → doormat",
+        "门口的垫子"
+      ],
+      [
+        "被踩踏的形象引申；doormat + -s → doormats",
+        "多个门垫；被说成一味退让的人"
+      ]
+    ],
+    "explanation": "rubber doormats 橡胶门垫；treat people like doormats 把人当作任由摆布的对象。",
+    "usage": "clean the doormats 清洗门垫；refuse to be doormats 不愿任人欺负。",
+    "contrast": "人物义通常带贬低或劝人别过度退让的语气；说门口实物时则是普通中性名称。",
+    "examples": [
+      [
+        "Rubber doormats lay outside the doors.",
+        "门外铺着橡胶门垫。"
+      ],
+      [
+        "They refused to be treated like doormats.",
+        "他们拒绝被当作任人摆布的对象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/doormats#English",
+      "https://en.wiktionary.org/wiki/doormat#English"
+    ]
+  }
+]

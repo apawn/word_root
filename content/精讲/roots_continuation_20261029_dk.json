@@ -1,0 +1,164 @@
+[
+  {
+    "id": "B3465",
+    "meaning": "喜悦、乐趣；享受与相关固定词",
+    "core": "JOY：高兴的感受，和产生乐趣的经历分开",
+    "image": "joy 是喜悦，joyful 是满怀喜悦，joyfully 是动作方式；enjoy 享受，enjoyable 好玩、愉快，enjoyment 乐趣。",
+    "intro": "joy 经法语接拉丁喜悦词，enjoy 有相应古法语借词来路。joyride 带固定擅用车辆义，joystick 的 joy 命名关系不明，不靠开心游戏编词源。",
+    "forms": "joy → joyful → joyfully；joy → joyless；enjoy → enjoyable、enjoyment；joyride、joystick、killjoy 各学固定用途。\n\n法语快乐动词借入，既说愉快感受也说拥有好处。\n\n法语快乐词族借入，享有权利等用法另结合搭配理解。\n\n法语 enjoier 接 joy 相关历史，不是所有现代意思都由英语 joy 临时加前缀产生。\n\n表面可辨 joy、stick，早期用于飞机控制；为何选 joy 不能当作已有证据的游戏快乐故事。\n\njoy 经法语接拉丁喜悦材料；joyous、joyful 平行发展，副词、性质名词分别接 -ly、-ness，不能把所有 -ous 和 -ful 都说成固定完全同义。",
+    "branches": [
+      [
+        "喜悦及有无喜悦",
+        "joy · joyful · joyfully · joyless"
+      ],
+      [
+        "享受、令人愉快和乐趣",
+        "enjoy · enjoyable · enjoyment"
+      ],
+      [
+        "固定用途和人物比喻",
+        "joyride · joystick · killjoy"
+      ],
+      [
+        "enjoy → enjoyed：享受与享有",
+        "enjoy · enjoyed"
+      ],
+      [
+        "enjoy → enjoying：感到愉快；享有好处",
+        "enjoy · enjoying"
+      ],
+      [
+        "enjoy → enjoys：从中得到快乐；享有好条件",
+        "enjoy · enjoys"
+      ],
+      [
+        "joystick → joysticks：控制杆名，命名缘由未定",
+        "joy · joystick · joysticks"
+      ],
+      [
+        "joy 的 -ous、-ful 与副词、性质名词",
+        "joy · joyous · joyously · joyousness · joyful · joyfully · joyfulness"
+      ]
+    ],
+    "contrasts": "enjoy doing，不是 enjoy to do；enjoyable 不等于 joyful；joystick 早用于航空；joyride 常不只是普通兜风。",
+    "practice": "The enjoyable lesson gave the children real enjoyment, and they left joyfully.\n\n有趣的一课让孩子们体会到乐趣，他们欢欢喜喜地离开了。",
+    "words": [
+      "joy",
+      "joyful",
+      "joyfully",
+      "joyless",
+      "enjoy",
+      "enjoyable",
+      "enjoyment",
+      "joyride",
+      "joystick",
+      "killjoy",
+      "enjoyed",
+      "enjoying",
+      "enjoys",
+      "joysticks",
+      "joyous",
+      "joyously",
+      "joyousness",
+      "joyfulness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2739",
+    "meaning": "床、铺垫、底层；嵌入与试验平台",
+    "core": "BED：承托的位置，再到各类底部、平台",
+    "image": "床是承托身体，河床承托水流，基岩承托地表结构，testbed 再把承托基础借给实验。用品和时间先各归类。",
+    "intro": "bed 继承古英语 bedd，远源有推测，保留不确定。不要把所有 bed 都套成卧床；bedding、bedsheet、bedspread 分总类与具体用品。",
+    "forms": "bed → bedding；bedsheet、bedspread、bedside 围绕床；seabed、riverbed、bedrock、roadbed 围绕底层；embed 放进去，testbed 提供试验基础。\n\n本族床、铺垫词的历史分支，形成花坛、河床等常见用法。\n\nsheet 为布单，spread 为铺开的覆盖物；各有固定寝具用法。\n\n与 bed 比较寝具，不是 bed 的派生。pillow 承古英语 pyle，较早日耳曼形式借自拉丁 pulvinus 软垫，更远来历未定。\n\ndivan 的名称有文书、官署厅堂到沿墙长座的语义历史，现代也用于相应床具；和英语 bed 只作家具类别对照。\n\n按坐卧用品对照，不表示各词都由 bed 派生。mattress 远接阿拉伯铺垫名；quilt 接拉丁床垫名；cushion 经法语，远源有分歧；futon 借日语；cot 床义经南亚语言；crib 承古英语饲槽名。\n\nbedroom 是英语复合词，现代复数 -s；说供睡眠用的房间，bed 不要求每次都在强调某一张实体床。",
+    "branches": [
+      [
+        "床铺及用品",
+        "bed · bedding · bedsheet · bedspread · bedroom · bedside · bedtime"
+      ],
+      [
+        "虫、日晒设备与固定场景",
+        "bedbug · sunbed · deathbed · hotbed"
+      ],
+      [
+        "底层、承载面和基岩",
+        "seabed · riverbed · bedrock · roadbed · flatbed"
+      ],
+      [
+        "嵌入及试验",
+        "embed · testbed"
+      ],
+      [
+        "bed → beds：躺卧处与承托的地层、园地",
+        "bed · beds"
+      ],
+      [
+        "bed 的两种铺盖：床单和床罩及复数",
+        "bed · bedsheet · bedsheets · bedspread · bedspreads"
+      ],
+      [
+        "pillow：枕头与枕靠",
+        "pillow · pillows"
+      ],
+      [
+        "bed 对照：divan 的坐卧家具用法",
+        "divan"
+      ],
+      [
+        "bed 对照：床垫、被子、坐垫与几类床",
+        "mattress · mattresses · quilt · quilts · cushion · cushions · futon · cot · cots · crib · cribs · bunks"
+      ],
+      [
+        "bed 床 + room 房间 → bedrooms",
+        "bedrooms"
+      ]
+    ],
+    "contrasts": "bedding 总称、bedsheet 床单、bedspread 床罩；riverbed 不等于 riverbank；testbed 是平台不是测试用例。",
+    "practice": "The testbed included sensors embedded in a model riverbed.\n\n试验平台包含嵌入模拟河床的传感器。",
+    "words": [
+      "bed",
+      "bedding",
+      "bedsheet",
+      "bedspread",
+      "bedroom",
+      "bedside",
+      "bedtime",
+      "bedbug",
+      "sunbed",
+      "deathbed",
+      "hotbed",
+      "seabed",
+      "riverbed",
+      "bedrock",
+      "roadbed",
+      "flatbed",
+      "embed",
+      "testbed",
+      "beds",
+      "bedsheets",
+      "bedspreads",
+      "pillow",
+      "pillows",
+      "divan",
+      "mattress",
+      "mattresses",
+      "quilt",
+      "quilts",
+      "cushion",
+      "cushions",
+      "futon",
+      "cot",
+      "cots",
+      "crib",
+      "cribs",
+      "bunks",
+      "bedrooms"
+    ],
+    "exclude": {
+      "co-bed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bed-breaking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ant-bed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sofa-bed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

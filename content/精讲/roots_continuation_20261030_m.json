@@ -1,0 +1,87 @@
+[
+  {
+    "id": "B3245",
+    "meaning": "裂开、失常与狂热口语",
+    "core": "CRAZE／CRAZY：从裂损的旧义，走向失常和强烈热情",
+    "image": "先分 craze 风潮和 crazy 形容词，再看 crazed 结果、craziness 状态、crazily 方式。",
+    "intro": "中古英语破碎词发展出失常和热衷义，具体深层路线有不确定。现代常用搭配远比机械翻成碎裂有效。",
+    "forms": "craze → crazy、crazed；crazy → craziness、crazily，后两者 y 改 i。",
+    "branches": [
+      [
+        "基础与状态结果",
+        "craze · crazy · crazed"
+      ],
+      [
+        "名词与副词",
+        "craziness · crazily"
+      ]
+    ],
+    "contrasts": "craze 一阵风潮，crazy about 迷上；crazed 通常更强；这些是日常用语，不作为诊断。",
+    "practice": "The latest craze made those shoes crazily expensive.\n\n最新风潮让那种鞋贵得离谱。",
+    "words": [
+      "craze",
+      "crazy",
+      "crazed",
+      "craziness",
+      "crazily"
+    ],
+    "exclude": {
+      "crazy-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3420",
+    "meaning": "敬畏、惊叹及褒贬分化",
+    "core": "AWE：面对强大事物，惊叹又敬畏",
+    "image": "awe → awesome、awful → awfully；awestruck 则讲感受震撼的人。",
+    "intro": "旧义带惧怕，后来惊叹与敬意更突出。awesome 与 awful 的现代方向不同，是词义演变的好例子。",
+    "forms": "awe + -some/-ful；awful + -ly；awe + struck。awe 接后缀时通常去末尾 e。",
+    "branches": [
+      [
+        "核心感受与正面惊叹",
+        "awe · awesome · awestruck"
+      ],
+      [
+        "负面评价与程度弱化",
+        "awful · awfully"
+      ]
+    ],
+    "contrasts": "awesome 棒、awful 糟；awfully kind 又是非常好心。分清事物令人震撼与人感到震撼。",
+    "practice": "The awesome landscape left us awestruck despite the awful weather.\n\n尽管天气糟糕，壮丽景色仍让我们惊叹不已。",
+    "words": [
+      "awe",
+      "awesome",
+      "awestruck",
+      "awful",
+      "awfully"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3716",
+    "meaning": "上方、超过与口语强化",
+    "core": "SUPER：高出普通水平；术语还要看具体造法",
+    "image": "独立 super 先讲夸赞、程度和缩略用法，再讲 super + ego 的仿译术语。",
+    "intro": "拉丁 super 表在上、超过。独立 super 和前缀关系紧密，superego 按德语理论名称仿译，不能只凭前缀编现代故事。",
+    "forms": "super- → super；super + ego → superego；superintendent 的缩略也可为 super。",
+    "branches": [
+      [
+        "口语与缩略",
+        "super"
+      ],
+      [
+        "理论仿译",
+        "superego"
+      ]
+    ],
+    "contrasts": "super 夸好、加强程度或缩略身份，看词性与语境；superego 是特定理论术语。",
+    "practice": "The teacher gave a super clear explanation of the superego.\n\n老师把超我这个概念解释得特别清楚。",
+    "words": [
+      "super",
+      "superego"
+    ],
+    "exclude": {
+      "super-app": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

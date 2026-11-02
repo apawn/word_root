@@ -1,0 +1,294 @@
+[
+  {
+    "id": "B2676",
+    "meaning": "其他；别的",
+    "core": "OTHER：把视线移到当前对象之外",
+    "image": "已经拿起一只鞋，再找剩下的那一只。",
+    "intro": "other 是古英语本族词，核心是别的、另外的。otherwise 转到其他方式或条件，otherness 说不同感，otherworld 则在故事中指另一个世界。",
+    "forms": "the other／others／another 的选择受特指、数量影响；-wise 在 otherwise 中表示方式，-ness 说性质。otherworld 是复合名词，不从 otherness 的抽象义硬派生。\n\nothers 可以自己代替复数人、物，不再在后面直接添同一个被省略的名词；另有 the others 特指其余。",
+    "branches": [
+      [
+        "不同对象",
+        "other"
+      ],
+      [
+        "换一种情况",
+        "otherwise"
+      ],
+      [
+        "不同感与异界",
+        "otherness · otherworld"
+      ],
+      [
+        "other → others：其他的与其他人、物",
+        "other · others"
+      ]
+    ],
+    "contrasts": "other 后可接复数名词，others 通常独立使用；another 是另外一个，the other 是特定范围里的另一个。",
+    "practice": "Try the other door; otherwise, we may have to turn back.\n\n试试另一扇门，否则我们可能得返回。",
+    "words": [
+      "other",
+      "otherwise",
+      "otherness",
+      "otherworld",
+      "others"
+    ],
+    "exclude": {
+      "other-sex": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "other-sexual": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2479",
+    "meaning": "最多；大多数",
+    "core": "MOST：数量或程度的大头、上端",
+    "image": "一群对象中占大部分，或比较时走到最高的一端。",
+    "intro": "most 接古英语最高级形式；almost 早已有固定的接近、差不多用法，mostly 则表示大部分如此。三者不要都压缩成“大多数”。",
+    "forms": "most people、most of the people 和 the most useful 的结构不同；almost 通常放在 all、everyone 或形容词动词前表达接近；mostly 是副词，描述主要情况。",
+    "branches": [
+      [
+        "最多与大多数",
+        "most"
+      ],
+      [
+        "差一点",
+        "almost"
+      ],
+      [
+        "主要如此",
+        "mostly"
+      ]
+    ],
+    "contrasts": "most people：大多数人；almost everyone：几乎每个人；mostly students：主要是学生。",
+    "practice": "Most of the work is done, so the project is almost finished.\n\n大部分工作已完成，项目因此快结束了。",
+    "words": [
+      "most",
+      "almost",
+      "mostly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2505",
+    "meaning": "第一；最先",
+    "core": "FIRST：排在时间或顺序的前面",
+    "image": "先到的是第一名，先做的是第一步，先出生的是第一个孩子。",
+    "intro": "first 来自古英语在前、最高级一系。firstly 用于列举；firsthand 是直接经手、亲历；firstborn 和 headfirst 则各自让后面的材料说明什么在先。",
+    "forms": "first 可作形容词、副词及名词，不能只当序数词表格中的一项。firsthand 与 headfirst 虽共享 first，却不属于同一个意思：前者亲历，后者头在前。",
+    "branches": [
+      [
+        "顺序",
+        "first · firstly"
+      ],
+      [
+        "经验与出生",
+        "firsthand · firstborn"
+      ],
+      [
+        "姿势与投入",
+        "headfirst"
+      ]
+    ],
+    "contrasts": "at first：起初；firstly：第一点。firsthand：亲身；headfirst：头朝前或贸然。",
+    "practice": "First, listen to someone with firsthand experience rather than rushing headfirst into action.\n\n首先，听听有亲身经验的人怎么说，再行动，别一头扎进去。",
+    "words": [
+      "first",
+      "firstly",
+      "firsthand",
+      "firstborn",
+      "headfirst"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3259",
+    "meaning": "好地；健康；井泉与涌出〔分源〕",
+    "core": "WELL：一边是过得好，一边是水的源头",
+    "image": "用两幅图分开记：事情顺利；井泉涌水。",
+    "intro": "well 至少要分“好地”的古英语 wel 与“井泉”的 wielle 等来源。welfare、farewell、unwell 接前一侧；stairwell、wellspring 接井泉空间与水源一侧。拼写一样不表示必须有一条共同的英语词义链。",
+    "forms": "well 可作副词、健康形容词、井名词、涌出动词及话语词。farewell 的 fare 是行进、过日子的旧动词；stairwell 的 well 是井状空间。\n\n井泉名词接古英语 wielle，涌出动词关联 weallan 等；好地的 wel 是另一历史支。\n\nweld 是旧 well 沸腾动词的改形，受 welled 等形式影响；不接好地的副词 well。植物名 weld 另源。",
+    "branches": [
+      [
+        "状态与安康",
+        "well · unwell · welfare"
+      ],
+      [
+        "告别祝愿",
+        "farewell"
+      ],
+      [
+        "井状空间与源头",
+        "stairwell · wellspring"
+      ],
+      [
+        "well → wells：井泉与水涌出，分清同形的好",
+        "well · wells"
+      ],
+      [
+        "well 的沸腾、涌动旧支 → weld 焊接词族",
+        "well · weld · welded · welding · welder · welders"
+      ]
+    ],
+    "contrasts": "good／well 先看修饰对象；well 表健康时也可作形容词。welfare 不是 wealth；stairwell 不是 stairway 的完全同义词。",
+    "practice": "She wished us farewell, and the memory remained a wellspring of comfort.\n\n她与我们道别，这段回忆始终带来安慰。",
+    "words": [
+      "well",
+      "unwell",
+      "welfare",
+      "farewell",
+      "stairwell",
+      "wellspring",
+      "wells",
+      "weld",
+      "welded",
+      "welding",
+      "welder",
+      "welders"
+    ],
+    "exclude": {
+      "well-will": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-set": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-thought-out": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-known": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-paid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-built": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-established": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-meaning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-willing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-boat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-intended": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-appointed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-equipped": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-lit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-beloved": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-documented": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-behaved": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-rested": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "welp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "well-wisher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wellhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wellbore": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3637",
+    "meaning": "平整、相等；傍晚一支另源",
+    "core": "EVEN：均匀一侧，与傍晚一侧分开记",
+    "image": "先铺平一层材料，再另看黄昏的天色，不把两幅画硬串。",
+    "intro": "even 的平整、相等来自古英语 efn；evening 和 evensong 接 ǣfen“傍晚”。两条近源不同，即使都能在现代看到 even 字母，也不能解释成同一个基础意思。",
+    "forms": "evenly、uneven 对应平整均匀这支；evening 的 -ing 接较早“入晚”形式。even 作强调副词时要看它强调的是谁、什么情况。数学“奇数”通常用 odd。\n\neve 与 evening 同接古英语 æfen 傍晚，eve 后来丢失末尾 n；平整、相等的 even 是另一近源。人名 Eve 也另源，不能只按大小写相似硬串。",
+    "branches": [
+      [
+        "齐平、分配与强调",
+        "even · evenly · uneven"
+      ],
+      [
+        "傍晚与晚间仪式",
+        "evening · evensong"
+      ],
+      [
+        "eve：傍晚，到节日前夕、事件前夕",
+        "eve · eves"
+      ]
+    ],
+    "contrasts": "even numbers 的反面 odd numbers；uneven road 说路不平。Good evening 多在见面时说，Good night 多在道别或睡前说。",
+    "practice": "One evening, we noticed that the light was not spread evenly across the room.\n\n一天晚上，我们发现房间里的光照分布不均。",
+    "words": [
+      "even",
+      "evenly",
+      "uneven",
+      "evening",
+      "evensong",
+      "eve",
+      "eves"
+    ],
+    "exclude": {
+      "even-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "even-weave": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "even-toed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3724",
+    "meaning": "试；检验；审理",
+    "core": "TRY：先做一次，让结果接受检验",
+    "image": "未知能否打开的门，先推一推；方案也先试一轮。",
+    "intro": "try 从法语挑选、检验一系进入英语，同时保留审理案件等用法。trying 可以说难熬，tried 可以说经验证，不能只把后缀当时态标签。",
+    "forms": "try → trying 保留 y，try → tried 则 y 变 i；trier 是人，retry 是再做。历史的检验、审理义也参与这些词，不统一压成“尝试”。\n\n法语挑选、检验词借入，现代名动词形式有对应变化。",
+    "branches": [
+      [
+        "动作与再试",
+        "try · retry"
+      ],
+      [
+        "考验与经验证",
+        "trying · tried"
+      ],
+      [
+        "尝试、裁断的人",
+        "trier"
+      ],
+      [
+        "try → tries：尝试、检验与多次努力",
+        "try · tries"
+      ]
+    ],
+    "contrasts": "try to do 偏努力达成；try doing 偏试试这个办法。trying day：难熬的一天；tried method：经验证的办法。",
+    "practice": "If the first attempt fails, retry using a tried and tested method.\n\n第一次失败后，用经过验证的方法再试一次。",
+    "words": [
+      "try",
+      "trying",
+      "tried",
+      "trier",
+      "retry",
+      "tries"
+    ],
+    "exclude": {
+      "mistry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2857",
+    "meaning": "感觉；触摸；察觉",
+    "core": "FEEL：身体碰到，心里也感到",
+    "image": "摸毯子觉出柔软，收到好消息感到轻松，两种感受都可用 feel。",
+    "intro": "feel 接古英语 fēlan，延伸到情绪和主观判断。feeling 是感觉、情感或直觉；feeler 是触角，也能比喻探口风；mouthfeel 单说食物在口中的触感。",
+    "forms": "feel／felt／felt 不规则变化。felt 的毛毡名词另源，不能因同形就反推来源。feely 在原词典里有不同、较少用分析，本页先略；常见的口语表达也不应靠这一个片段包办。\n\n同一形式可说人的感受，也可说事物摸起来、给人的感觉。\n\nfeeling 由感知过程发展为可数感受、情绪；feelings 常说感情感受。",
+    "branches": [
+      [
+        "感知与过去形式",
+        "feel · felt"
+      ],
+      [
+        "感受与试探",
+        "feeling · feeler"
+      ],
+      [
+        "饮食触感",
+        "mouthfeel"
+      ],
+      [
+        "feel → feels：感到与给人的感觉",
+        "feel · feels"
+      ],
+      [
+        "feel → feeling → feelings：感受与情绪",
+        "feeling · feelings"
+      ]
+    ],
+    "contrasts": "felt 是 feel 的过去式；fell 是 fall 的过去式。feeling 可能主观，不能直接当证据；mouthfeel 也不等于所有味觉。",
+    "practice": "I felt the cloth and had a feeling that it would make a comfortable blanket.\n\n我摸了摸布料，觉得它做成毯子会很舒服。",
+    "words": [
+      "feel",
+      "feeling",
+      "felt",
+      "feeler",
+      "mouthfeel",
+      "feels",
+      "feelings"
+    ],
+    "exclude": {
+      "feely": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

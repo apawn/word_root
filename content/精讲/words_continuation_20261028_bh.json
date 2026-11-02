@@ -1,0 +1,516 @@
+[
+  {
+    "word": "girl",
+    "ipa": "英 /ɡɜːl/；美 /ɡɜːrl/",
+    "meaning": "女孩；少女；女性〔部分非正式语境〕",
+    "sense": "今天先想女孩、少女；朋友间 the girls 也可能指一群成年女性。",
+    "split": "可追到中古英语 gerle、girle、gyrle，早期年轻人义不只指女性；更早来源不确定，重建的古英语形式不能当实见祖先写死。",
+    "history": [
+      [
+        "中古英语 gerle / girle / gyrle",
+        "年轻人，早期可包含男孩、女孩"
+      ],
+      [
+        "英语 girl",
+        "女孩、少女；部分非正式用法也称成年女性"
+      ]
+    ],
+    "explanation": "a young girl 一个小女孩，a girls’ school 女校，a girls’ night 女性朋友聚会。称成年女性为 girl 要看关系、语气，工作场合有时显得把人叫小了。",
+    "usage": "a young girl；a schoolgirl；the girls；a girls’ night。",
+    "contrast": "girl 与 woman 主要年龄、语境不同；女性朋友自称 the girls 不表示所有正式称呼都能用 girls。",
+    "examples": [
+      [
+        "The girl carried a stack of books.",
+        "女孩抱着一摞书。"
+      ],
+      [
+        "The girls from our old class meet once a month.",
+        "我们老同学里的女同学每月聚一次。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/girl#English"
+    ]
+  },
+  {
+    "word": "girlish",
+    "ipa": "英 /ˈɡɜːlɪʃ/；美 /ˈɡɜːrlɪʃ/",
+    "meaning": "像女孩、少女的；带少女特点的",
+    "sense": "说笑容、声音、热情像少女，描述的是观察者感到的特点，不只报年龄。",
+    "split": "girl + -ish，-ish 表像、带有某种特点；这里不主要表示时间大约几点那种模糊数量。",
+    "history": [
+      [
+        "中古英语 gerle / girle / gyrle",
+        "年轻人，早期可包含男孩、女孩"
+      ],
+      [
+        "英语 girl",
+        "女孩、少女；部分非正式用法也称成年女性"
+      ],
+      [
+        "girl + -ish → girlish",
+        "具有女孩、少女相关特点的"
+      ]
+    ],
+    "explanation": "a girlish laugh 少女般的笑，girlish enthusiasm 少女般热情。成年人也可被这样形容，常含青春、轻快感。",
+    "usage": "a girlish laugh；girlish enthusiasm；a girlish voice。",
+    "contrast": "girlish 描述特征，girlhood 说少女时期；显得少女般不证明实际仍是未成年人。",
+    "examples": [
+      [
+        "She gave a sudden girlish laugh.",
+        "她突然发出少女般轻快的笑声。"
+      ],
+      [
+        "The letter was full of girlish enthusiasm.",
+        "信里满是少女般的热情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/girlish#English"
+    ]
+  },
+  {
+    "word": "girly",
+    "ipa": "英 /ˈɡɜːli/；美 /ˈɡɜːrli/",
+    "meaning": "少女风的；偏传统女性化的〔非正式〕",
+    "sense": "说话人把某种颜色、服饰、活动联想到少女或传统女性风格；这是一种文化印象。",
+    "split": "girl + -y，形成相关特征形容词；也有 girlie 拼写，其成人画报相关用法要另看语境，不全都译作少女风。",
+    "history": [
+      [
+        "中古英语 gerle / girle / gyrle",
+        "年轻人，早期可包含男孩、女孩"
+      ],
+      [
+        "英语 girl",
+        "女孩、少女；部分非正式用法也称成年女性"
+      ],
+      [
+        "girl + -y → girly",
+        "与女孩、传统女性风格相联的口语特征"
+      ]
+    ],
+    "explanation": "a girly style 少女风，girly clothes 偏少女、传统女性化服饰。可喜爱也可贬低，语气决定，不能拿它断定所有女孩的喜好。",
+    "usage": "a girly style；girly clothes；a girly look。",
+    "contrast": "girly 更口语，也可能有刻板印象；girlish 常描写声音、笑容、青春气质，范围重叠但搭配不同。",
+    "examples": [
+      [
+        "She described the pink ribbons as too girly for her taste.",
+        "她觉得粉红丝带太少女风，不合自己口味。"
+      ],
+      [
+        "The costume has a playful, girly look.",
+        "服装带着俏皮的少女风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/girly#English"
+    ]
+  },
+  {
+    "word": "girlhood",
+    "ipa": "英 /ˈɡɜːlhʊd/；美 /ˈɡɜːrlhʊd/",
+    "meaning": "女孩时期；少女时代",
+    "sense": "把一个人作为女孩长大的那段时光，当作人生的一章来看。",
+    "split": "girl + -hood，-hood 表时期、身份或状态；这里不是头罩 hood 的普通物名。",
+    "history": [
+      [
+        "中古英语 gerle / girle / gyrle",
+        "年轻人，早期可包含男孩、女孩"
+      ],
+      [
+        "英语 girl",
+        "女孩、少女；部分非正式用法也称成年女性"
+      ],
+      [
+        "girl + -hood → girlhood",
+        "身为女孩的时期、经历"
+      ]
+    ],
+    "explanation": "in her girlhood 在她少女时代，memories of girlhood 少女时期回忆。描写经历，不是精确规定法律年龄段。",
+    "usage": "in one’s girlhood；memories of girlhood；a girlhood friend。",
+    "contrast": "girlhood 人生时期，girlish 具有少女特点；一个年长的人仍可有 girlish enthusiasm。",
+    "examples": [
+      [
+        "She spent her girlhood in a small coastal town.",
+        "她的少女时代在一座沿海小镇度过。"
+      ],
+      [
+        "The diary preserves memories of her girlhood.",
+        "日记保存了她少女时代的回忆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/girlhood#English"
+    ]
+  },
+  {
+    "word": "cowgirl",
+    "ipa": "英 /ˈkaʊɡɜːl/；美 /ˈkaʊɡɜːrl/",
+    "meaning": "女牛仔；照管牛群的女性；牛仔文化中的女性",
+    "sense": "和 cowboy 对照，骑马、牧牛或认同西部牛仔文化的女性。",
+    "split": "cow（牛）+ girl，girl 在职业、文化称呼里不必指儿童。不是 cow 的女儿那样的动物亲属关系。",
+    "history": [
+      [
+        "cow；girl",
+        "并列构词部分"
+      ],
+      [
+        "cowgirl",
+        "女性牛仔、牧牛者或相关文化角色"
+      ]
+    ],
+    "explanation": "a rodeo cowgirl 牛仔竞技中的女性参与者，a cowgirl hat 女牛仔帽。服饰场景里也可只是在扮牛仔造型。",
+    "usage": "a rodeo cowgirl；a cowgirl hat；dress as a cowgirl。",
+    "contrast": "cowgirl 女牛仔，female calf 小母牛是动物；不要见 girl 就把人、动物幼崽混在一起。",
+    "examples": [
+      [
+        "The cowgirl rode alongside the cattle.",
+        "女牛仔骑马走在牛群旁。"
+      ],
+      [
+        "She wore a cowgirl hat to the costume party.",
+        "她戴着女牛仔帽参加化装聚会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cowgirl#English"
+    ]
+  },
+  {
+    "word": "fangirl",
+    "ipa": "英 /ˈfænɡɜːl/；美 /ˈfænɡɜːrl/",
+    "meaning": "女粉丝；狂热女粉丝〔非正式〕；激动追捧",
+    "sense": "喜爱某作品、名人到很投入，见到新消息就激动起来；用作动词时突出这种反应。",
+    "split": "fan（粉丝）+ girl，名词再转为动词 fangirl。fan 在这里不是风扇，girl 也不限定所有人物都未成年。",
+    "history": [
+      [
+        "fan〔粉丝〕；girl",
+        "并列构词部分"
+      ],
+      [
+        "fangirl",
+        "女性热心粉丝；激动追捧的反应"
+      ]
+    ],
+    "explanation": "a fangirl of a series 某剧的热心女粉丝，fangirl over an author 对作者兴奋追捧。可自嘲、亲昵，也可带轻视，不宜见女粉丝就默认她不理性。",
+    "usage": "fangirl over；a devoted fangirl；a fangirl moment。",
+    "contrast": "fan 范围更广、通常更中性；fangirl 常强调女性、投入热情或夸张反应，与 groupie 的追随名人接近身边意味不同。",
+    "examples": [
+      [
+        "She had a fangirl moment when she met her favorite author.",
+        "见到最喜欢的作家时，她兴奋得像个追星女孩。"
+      ],
+      [
+        "They fangirled over the new trailer after class.",
+        "下课后，她们兴奋地追捧新预告片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fangirl#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/fangirl"
+    ]
+  },
+  {
+    "word": "car",
+    "ipa": "英 /kɑː/；美 /kɑːr/",
+    "meaning": "汽车；车厢、铁路车辆〔尤美式〕",
+    "sense": "最常见是路上开的汽车；放进 railway、passenger 等语境，也可能是火车车厢。",
+    "split": "经古法语、盎格鲁诺曼 carre 到中古英语，接拉丁 carrus“运货车”，更早与高卢语车辆词有关。起初并不专指现代汽车。",
+    "history": [
+      [
+        "古法语 carre → 中古英语 carre",
+        "有轮车辆；上接拉丁 carrus 与高卢语相关词"
+      ],
+      [
+        "英语 car",
+        "汽车；部分铁路语境的车厢、车辆"
+      ]
+    ],
+    "explanation": "drive a car 开汽车，a passenger car 可是乘用汽车，也可在铁路语境说客车车厢；a dining car 是餐车车厢。对象看上下文。",
+    "usage": "drive a car；a car park；a passenger car；a dining car。",
+    "contrast": "car 日常汽车与 carriage、railcar 的地区用法不同；不能把 train car 看成开进火车里的一辆轿车。",
+    "examples": [
+      [
+        "We left the car outside the hotel.",
+        "我们把车停在酒店外。"
+      ],
+      [
+        "The train has a dining car.",
+        "这趟列车有餐车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/car#English"
+    ]
+  },
+  {
+    "word": "carmaker",
+    "ipa": "英 /ˈkɑːmeɪkə/；美 /ˈkɑːrmeɪkər/",
+    "meaning": "汽车制造商",
+    "sense": "把汽车设计、生产出来的企业，而不是只负责开车、卖二手车的人。",
+    "split": "car + maker，maker 是 make + -er，去 e 接后缀；常用于汽车制造企业。",
+    "history": [
+      [
+        "car；maker〔make + -er〕",
+        "并列构词部分"
+      ],
+      [
+        "carmaker",
+        "制造汽车的企业、制造者"
+      ]
+    ],
+    "explanation": "a major carmaker 主要汽车制造商，an electric carmaker 电动汽车制造商。企业也可外包部分生产，词义重点是制造业务身份。",
+    "usage": "a major carmaker；an electric carmaker；a domestic carmaker。",
+    "contrast": "carmaker 制造商，car dealer 经销商，driver 驾驶者；同一产业链里的角色不同。",
+    "examples": [
+      [
+        "The carmaker announced a new electric model.",
+        "汽车制造商宣布了一款新电动车型。"
+      ],
+      [
+        "Several carmakers displayed prototypes at the show.",
+        "几家汽车制造商在展会上展出了原型车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carmaker#English"
+    ]
+  },
+  {
+    "word": "carpool",
+    "ipa": "英 /ˈkɑːpuːl/；美 /ˈkɑːrpuːl/",
+    "meaning": "合乘安排、合乘群体；拼车",
+    "sense": "几个人路线差不多，把座位、车和出行需求凑到一起用。",
+    "split": "car + pool，pool 在这里是共同汇集、共享资源，不是游泳池。名词再可作动词。",
+    "history": [
+      [
+        "car；pool〔共同汇集、共享〕",
+        "并列构词部分"
+      ],
+      [
+        "carpool",
+        "共同乘车的安排、人群；合乘"
+      ]
+    ],
+    "explanation": "join a carpool 加入合乘，carpool to work 拼车上班。可能轮流开，也可按其他方式安排，词不规定唯一费用规则。",
+    "usage": "join a carpool；carpool to work；a carpool arrangement。",
+    "contrast": "carpool 合乘，car rental 租车；合租一辆车和几个人同程乘坐可能交叉，但不是同一概念。",
+    "examples": [
+      [
+        "We carpool to work three days a week.",
+        "我们每周三天拼车上班。"
+      ],
+      [
+        "She joined a carpool with two neighbors.",
+        "她加入了两位邻居的合乘安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carpool#English"
+    ]
+  },
+  {
+    "word": "carport",
+    "ipa": "英 /ˈkɑːpɔːt/；美 /ˈkɑːrpɔːrt/",
+    "meaning": "有顶敞式车棚",
+    "sense": "车有屋顶遮雨晒，却不像完整车库那样四面围住。",
+    "split": "car + port，20世纪建筑命名，与法语 porte cochère 车辆入口的表达背景有关；不是让汽车开到海港 port。",
+    "history": [
+      [
+        "car；port〔车辆遮护入口相关命名〕",
+        "并列构词部分"
+      ],
+      [
+        "carport",
+        "有顶、至少部分侧面敞开的停车结构"
+      ]
+    ],
+    "explanation": "a covered carport 有顶车棚，park under the carport 停在车棚下。可连着房屋，也有独立结构。",
+    "usage": "a covered carport；park under a carport；an attached carport。",
+    "contrast": "carport 通常侧面开放，garage 更常围合成车库；名称看建筑形式、用途，不只按停几辆车分。",
+    "examples": [
+      [
+        "They parked the car under the carport.",
+        "他们把车停在车棚下。"
+      ],
+      [
+        "The house has a carport beside the kitchen entrance.",
+        "房子的厨房入口旁有一个车棚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carport#English"
+    ]
+  },
+  {
+    "word": "railcar",
+    "ipa": "英 /ˈreɪlkɑː/；美 /ˈreɪlkɑːr/",
+    "meaning": "铁路车辆、车厢；自走式轨道客车〔部分用法〕",
+    "sense": "car 放到轨道上，就往铁路车辆理解；某些地区、专业材料又特指自己带动力的客车。",
+    "split": "rail（轨道）+ car（车辆），不把普通汽车义生搬成一辆在火车旁开的轿车。",
+    "history": [
+      [
+        "rail；car",
+        "并列构词部分"
+      ],
+      [
+        "railcar",
+        "铁路车辆；在部分语境中特指自走式客车"
+      ]
+    ],
+    "explanation": "a passenger railcar 客运铁路车辆。美式可广说铁路车厢、车辆，部分英式和技术用法偏自走式客车；按地区与上下文判断。",
+    "usage": "a passenger railcar；a historic railcar；railcar maintenance。",
+    "contrast": "railcar 范围、含义随地区，boxcar 常明确封闭式铁路货车车厢；不能一律规定 railcar 必须有动力。",
+    "examples": [
+      [
+        "The museum restored a historic railcar.",
+        "博物馆修复了一辆历史铁路车辆。"
+      ],
+      [
+        "Passengers boarded the small railcar at the village station.",
+        "乘客在村站登上小型轨道客车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/railcar#English",
+      "https://dictionary.cambridge.org/us/dictionary/english/rail-car",
+      "https://www.collinsdictionary.com/us/dictionary/english/railcar"
+    ]
+  },
+  {
+    "word": "boxcar",
+    "ipa": "英 /ˈbɒkskɑː/；美 /ˈbɑːkskɑːr/",
+    "meaning": "有篷铁路货车；封闭式货运车厢",
+    "sense": "像一个大箱子放在轨道轮组上，货物装在封闭车厢里。",
+    "split": "box + car，car 取铁路车辆、车厢义，不是轿车后备箱。",
+    "history": [
+      [
+        "box；car〔铁路车厢〕",
+        "并列构词部分"
+      ],
+      [
+        "boxcar",
+        "箱体状封闭铁路货车车厢"
+      ]
+    ],
+    "explanation": "a freight boxcar 货运有篷车，load a boxcar 装货进车厢；通常美式铁路用语。",
+    "usage": "a freight boxcar；load a boxcar；an empty boxcar。",
+    "contrast": "boxcar 是铁路货运车厢，car trunk 是汽车后备箱；两者都能装货，却不是同一对象。",
+    "examples": [
+      [
+        "Workers loaded crates into the boxcar.",
+        "工人把货箱装进有篷货运车厢。"
+      ],
+      [
+        "A line of empty boxcars stood beside the warehouse.",
+        "仓库旁停着一排空货运车厢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/boxcar#English"
+    ]
+  },
+  {
+    "word": "altogether",
+    "ipa": "英 /ˌɔːltəˈɡeðə/；美 /ˌɔːltəˈɡeðər/",
+    "meaning": "总共；完全；总的来说",
+    "sense": "把数量加到一处，是总共；把情况合起来看，是总体；完全则是没有留下例外。",
+    "split": "中古英语 altogeder、altogedere，对应 all 的旧形式 al- + together，后来合成一个词。现代连写与分写 all together 已有用法分工。",
+    "history": [
+      [
+        "all 的旧形式 al-；together",
+        "并列构词部分"
+      ],
+      [
+        "altogether",
+        "完全；合计；综合看来"
+      ]
+    ],
+    "explanation": "ten people altogether 总共十人，an altogether different matter 完全另一回事；Altogether, it went well 总体顺利。",
+    "usage": "altogether different；ten altogether；not altogether；Altogether, ...。",
+    "contrast": "altogether 总共、完全，all together 全部人或东西在一起。We were all together 是我们都在一处，不是我们完全。",
+    "examples": [
+      [
+        "The tickets cost forty pounds altogether.",
+        "票总共四十英镑。"
+      ],
+      [
+        "That is an altogether different question.",
+        "那是完全不同的问题。"
+      ],
+      [
+        "Altogether, the trip was a success.",
+        "总的来说，旅行很成功。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/altogether#English"
+    ]
+  },
+  {
+    "word": "togetherness",
+    "ipa": "英 /təˈɡeðənəs/；美 /təˈɡeðərnəs/",
+    "meaning": "相聚；亲密、团结、在一起的联结感",
+    "sense": "不只几个人碰巧挤在一屋，而是感觉彼此连着、一起做事、一起生活。",
+    "split": "together + -ness，-ness 抽出在一起的状态、感受；可强调情感联结而非物理距离。",
+    "history": [
+      [
+        "together",
+        "共同、在一起"
+      ],
+      [
+        "together + -ness → togetherness",
+        "共同相处、团结和联结的感受"
+      ]
+    ],
+    "explanation": "family togetherness 家人相聚的亲密感，a sense of togetherness 团结、联结感；常带积极感受。",
+    "usage": "family togetherness；a sense of togetherness；promote togetherness。",
+    "contrast": "togetherness 亲密联结，being in the same room 只是同处一室；空间接近未必产生联结感。",
+    "examples": [
+      [
+        "Cooking the meal created a sense of togetherness.",
+        "一起做饭带来了亲密联结感。"
+      ],
+      [
+        "The festival celebrates family togetherness.",
+        "节庆强调家人团聚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/togetherness#English"
+    ]
+  },
+  {
+    "word": "unimportant",
+    "ipa": "英 /ˌʌnɪmˈpɔːtənt/；美 /ˌʌnɪmˈpɔːrtənt/",
+    "meaning": "不重要的；无关紧要的",
+    "sense": "这件事即使拿掉、改掉，也几乎不影响当前要紧的结果。",
+    "split": "un-（不）+ important，否定重要、有影响的性质；不是把 import“进口”倒回去。",
+    "history": [
+      [
+        "important",
+        "重要、对结果有分量的"
+      ],
+      [
+        "un- + important → unimportant",
+        "在相应范围里无关紧要的"
+      ]
+    ],
+    "explanation": "an unimportant detail 不重要的细节，seem unimportant 看着无关紧要。重要与否相对当前目标，不必对所有场景永远不重要。",
+    "usage": "an unimportant detail；seem unimportant；relatively unimportant。",
+    "contrast": "unimportant 不重要，unknown 不知道；一件尚不知道的事可能非常重要，两个判断不等同。",
+    "examples": [
+      [
+        "We spent too long arguing about an unimportant detail.",
+        "我们为一个无关紧要的细节争了太久。"
+      ],
+      [
+        "The difference may seem unimportant at first.",
+        "这点差别起初可能显得不重要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unimportant#English"
+    ]
+  }
+]

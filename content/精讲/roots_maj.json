@@ -5,7 +5,7 @@
     "core": "把同类放在一起，分量、份额或地位更高的一边。",
     "image": "两堆石头，一堆更大 → 更多选票、更高地位、更大影响。",
     "intro": "maj- 这一组来自拉丁语 maior / maius“更大”，是 magnus“大”的比较级。它不只是物理尺寸：数量、重要性、地位都可以比较。",
-    "forms": "maior / maius：拉丁语的不同形式，英语常写成 major。\n\nmayor：经法语 maire 传入，词形变了，仍与 major 同源。\n\nmaiestas → majesty：从更大、尊贵发展为庄严与尊号。\n\nmajuscul-：稍大的字母，进入大写体术语。",
+    "forms": "maior / maius：拉丁语的不同形式，英语常写成 major。\n\nmayor：经法语 maire 传入，词形变了，仍与 major 同源。\n\nmaiestas → majesty：从更大、尊贵发展为庄严与尊号。\n\nmajuscul-：稍大的字母，进入大写体术语。\n\nmajor 接拉丁 maior 更大的，系 magnus 的历史比较级。现代名词复数可说主修专业、该专业学生、少校等；动词第三人称 majors in 表主修。",
     "branches": [
       [
         "重要或主要",
@@ -34,6 +34,10 @@
       [
         "字母与几何",
         "majuscule, semimajor"
+      ],
+      [
+        "maj- 更大、主要 → major → majors",
+        "majors"
       ]
     ],
     "contrasts": "major / mayor 同源，但 major 不是 mayor 的现代词根拆分。\n\nmajor 的专业、军衔和音乐义不是一个接一个串起来的故事。\n\nmajority 的过半数、领先票数、成年身份要按搭配区分。\n\nmaj- 不能把所有 ma- 开头的单词都拉进来；muscular 是肌肉，不是这一组。",
@@ -56,7 +60,8 @@
       "majuscule",
       "majuscular",
       "majordomo",
-      "majorette"
+      "majorette",
+      "majors"
     ]
   }
 ]

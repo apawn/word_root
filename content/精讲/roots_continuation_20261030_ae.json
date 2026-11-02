@@ -1,0 +1,174 @@
+[
+  {
+    "id": "B3633",
+    "meaning": "液滴、下降、投放与屋檐偷听的历史",
+    "core": "DROP：一滴落下；后部和前部改变对象、大小与功能",
+    "image": "drop → droplet、dropper；雨滴和投递箱相邻，eavesdrop 则说明旧场所到人物再到动词的历史。",
+    "intro": "本族滴、滴落词发展出下降和放下等义。eavesdrop 有屋檐滴水处的旧名词背景，不能只用现代词面硬猜。",
+    "forms": "drop + -let/-er；rain/back/tear/air + drop；drop + box/ship；eavesdrop 旧场所→eavesdropper→动词。\n\n滴、落下的早期词族，现代扩展到放下物品、减少、停止某事。\n\n本族滴与滴落词，名词计数和动词变化相邻。\n\n来自 drop down 的向下展开画面，合写后作固定界面名词。\n\ndroopy 的早期 drupie 记录早于 droop 的现存记录，可能联系北欧 drupr 或 droop 一系；droop + -y 是方便理解的现代分析，不作唯一历史路线。",
+    "branches": [
+      [
+        "基本动作、微滴与工具",
+        "drop · droplet · dropper"
+      ],
+      [
+        "自然滴落与投递",
+        "raindrop · teardrop · dropbox · airdrop · dropship"
+      ],
+      [
+        "背景与历史延伸",
+        "backdrop · eavesdrop"
+      ],
+      [
+        "drop → dropped：落下、降低与放弃",
+        "drop · dropped"
+      ],
+      [
+        "drop → drops → dropping：滴、掉落、减少",
+        "drop · drops · dropping"
+      ],
+      [
+        "drop 的下拉列表名及复数",
+        "drop · dropdown · dropdowns"
+      ],
+      [
+        "droopy 与下垂、低落的材料",
+        "drop · droop · droopy"
+      ]
+    ],
+    "contrasts": "drop 可及物或不及物；droplet 液滴、dropper 工具；eavesdrop 主动偷听与 overhear 无意听见。",
+    "practice": "Raindrops fell from the eaves while someone eavesdropped below.\n\n雨滴从屋檐落下，下面有人正在偷听。",
+    "words": [
+      "drop",
+      "droplet",
+      "dropper",
+      "raindrop",
+      "teardrop",
+      "dropbox",
+      "airdrop",
+      "dropship",
+      "backdrop",
+      "eavesdrop",
+      "dropped",
+      "drops",
+      "dropping",
+      "dropdown",
+      "dropdowns",
+      "droop",
+      "droopy"
+    ],
+    "exclude": {
+      "name-drop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drop-drill": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snowdrop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3030",
+    "meaning": "干净、清洁主体与方式；环境技术",
+    "core": "CLEAN：去掉污物杂乱；不同后缀说人、工具、程度或方式",
+    "image": "clean → cleaner、unclean、cleanly，再接 clean + tech 的现代行业词。品牌词暂略。",
+    "intro": "古英语洁净词延续至今，人物 -er 与比较级 -er 同形；cleanly 还有词性对应的元音差异。",
+    "forms": "clean + -er〔工具人物／比较级〕；un- + clean；clean + -ly；clean + tech。\n\nclean 接古英语 clǣne，最高级按洁净、整齐、无杂乱等具体语境使用。\n\n本族干净词，动词表达使干净。\n\n古英语洁净词传下，相应动词说使干净，过去形式 n 后读 d。\n\n这里复数对应名词 cleaner，不是把形容词比较级再加 s。",
+    "branches": [
+      [
+        "基本清洁与主体",
+        "clean · cleaner"
+      ],
+      [
+        "否定与方式",
+        "unclean · cleanly"
+      ],
+      [
+        "现代行业",
+        "cleantech"
+      ],
+      [
+        "clean → cleaner → cleanest：最干净、最利落",
+        "clean · cleaner · cleanest"
+      ],
+      [
+        "clean → cleaning：让脏东西离开",
+        "clean · cleaning"
+      ],
+      [
+        "clean → cleaned：把污物、杂乱去掉",
+        "clean · cleaned"
+      ],
+      [
+        "cleaner → cleaners：清洁者、清洁用品及店铺用法",
+        "clean · cleaner · cleaners"
+      ]
+    ],
+    "contrasts": "cleaner 可清洁工、剂、器具或比较级；cleanly 副词长元音；cleantech 不是只说擦洗技术。",
+    "practice": "The cleaner left the windows clean and the room much cleaner.\n\n清洁工把窗户擦干净，也让房间干净了许多。",
+    "words": [
+      "clean",
+      "cleaner",
+      "unclean",
+      "cleanly",
+      "cleantech",
+      "cleanest",
+      "cleaning",
+      "cleaned",
+      "cleaners"
+    ],
+    "exclude": {
+      "broom-clean": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kleenex": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "clean-limbed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3555",
+    "meaning": "小山羊到孩子口语；亲昵称呼与绑架旧称",
+    "core": "KID：孩子口语有小山羊历史，后部各有作用",
+    "image": "kid 先讲小羊、孩子与玩笑；kiddo、kiddie 亲昵，kidnap 的 nap 必须按旧抓走义。",
+    "intro": "借古诺尔斯语小山羊名，再发展出小孩口语。kidnap 不是小孩打盹，也不是今天只用于儿童。较冷的 kidder 先略。",
+    "forms": "kid + -o/-ie → kiddo/kiddie；kid + nap〔抓走〕，kidnapper 与动词逆构关系保留可能性。\n\nkid 的小山羊义接古诺尔斯语 kið，后来小孩与开玩笑的口语用法常见；现代多义并不等于每条语义过渡都有定论。\n\n小羊名借北欧语，小孩、玩笑动词是后来的意义发展。\n\nkid 加旧 nap 抓走材料，动词也有从较早 kidnapper 逆构的分析。\n\nkidnap 含 kid 孩子与 nap 抓走，后者可能是 nab 的变体；动词也可能由更早 kidnapper 逆构。现代双写 p 加 -ing，绑架对象不限儿童。",
+    "branches": [
+      [
+        "基础与亲昵",
+        "kid · kiddo · kiddie"
+      ],
+      [
+        "旧组合的现代词",
+        "kidnap"
+      ],
+      [
+        "kid → kids：小孩；小山羊；开玩笑",
+        "kid · kids"
+      ],
+      [
+        "kid → kidding：小孩与开玩笑",
+        "kid · kidding"
+      ],
+      [
+        "kidnap → kidnapped：旧儿童拐走词扩大为绑架",
+        "kid · kidnap · kidnapped"
+      ],
+      [
+        "kid 孩子 + nap 抓走 → kidnapping",
+        "kidnapping"
+      ]
+    ],
+    "contrasts": "I’m kidding 开玩笑；kiddo 与 kiddie 有口语语气；kidnap 的 nap 不打盹，对象不限儿童。",
+    "practice": "The kid was only kidding when he said the cake had disappeared.\n\n孩子说蛋糕不见了，其实只是在开玩笑。",
+    "words": [
+      "kid",
+      "kiddo",
+      "kiddie",
+      "kidnap",
+      "kids",
+      "kidding",
+      "kidnapped",
+      "kidnapping"
+    ],
+    "exclude": {
+      "e-kid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rich-kid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kidder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kiddy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

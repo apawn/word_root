@@ -1,0 +1,321 @@
+[
+  {
+    "word": "mud",
+    "ipa": "/mʌd/",
+    "meaning": "泥、泥浆；抹黑言辞〔比喻〕",
+    "sense": "土、细颗粒沉积物混了水，黏黏湿湿的是 mud。拿泥往别人身上抹的形象，再变成以恶意话语损害名声。",
+    "split": "中古英语 mudde、mud 等，通常认为可能借自低地德语、荷兰语相关泥词，更早来源有不同分析。现代湿泥、建筑材料和抹黑比喻分别发展。",
+    "history": [
+      [
+        "中古荷兰语、低地德语 modde 等可能借词 → 中古英语 mudde → mud",
+        "水和土等混成的泥"
+      ],
+      [
+        "泥的颜色、混浊、难辨形象",
+        "muddy 泥泞、浑浊；把事情搅浑"
+      ]
+    ],
+    "explanation": "boots covered in mud 沾满泥的靴子，thick mud 厚泥，throw mud at someone 抹黑某人，drag someone’s name through the mud 糟蹋某人的名声。",
+    "usage": "covered in mud；thick mud；drag a name through the mud。",
+    "contrast": "mud 是湿泥，dust 常说干尘；soil 更广泛地说土壤。比喻里的 mud 不是在交代对方真沾了泥。",
+    "examples": [
+      [
+        "The boots were covered in mud.",
+        "靴子上沾满了泥。"
+      ],
+      [
+        "The wheels sank into the soft mud.",
+        "车轮陷进软泥里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mud#English"
+    ]
+  },
+  {
+    "word": "muddy",
+    "ipa": "/ˈmʌdi/",
+    "meaning": "泥泞、沾泥的；浑浊、混杂不清的；使浑浊、搅乱",
+    "sense": "路混着泥，水里搅起泥，都 muddy；颜色、声音、解释失去清楚边界，也可借浑浊的画面形容。",
+    "split": "mud + -y，双写 d；中古英语已有相应性质词，动词再由形容词发展。",
+    "history": [
+      [
+        "中古荷兰语、低地德语 modde 等可能借词 → 中古英语 mudde → mud",
+        "水和土等混成的泥"
+      ],
+      [
+        "泥的颜色、混浊、难辨形象",
+        "muddy 泥泞、浑浊；把事情搅浑"
+      ],
+      [
+        "mud + -y → muddy",
+        "有泥、浑浊 → 不清楚；使变得混浊"
+      ]
+    ],
+    "explanation": "muddy boots 沾泥靴子，muddy water 浑水，muddy colors 发浑颜色，muddy the waters 把问题搅浑、弄复杂。",
+    "usage": "muddy boots；muddy water；muddy the waters。",
+    "contrast": "muddy water 重点是浑浊含泥，muddy explanation 比喻解释不清。作动词时可以不涉及真的加泥。",
+    "examples": [
+      [
+        "The path was muddy after the rain.",
+        "雨后小路泥泞。"
+      ],
+      [
+        "His extra comments only muddied the waters.",
+        "他多加的评论只把事情搅得更乱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/muddy#English"
+    ]
+  },
+  {
+    "word": "mudstone",
+    "ipa": "英 /ˈmʌdstəʊn/；美 /ˈmʌdstoʊn/",
+    "meaning": "泥岩",
+    "sense": "细小泥质沉积物经过成岩，变成了岩石，就可以叫 mudstone。名字把原来的泥和已经成岩这两层连起来。",
+    "split": "mud 泥质沉积物 + stone 岩石，按主要沉积物及成岩后的物质状态组成名称。",
+    "history": [
+      [
+        "中古荷兰语、低地德语 modde 等可能借词 → 中古英语 mudde → mud",
+        "水和土等混成的泥"
+      ],
+      [
+        "mud + stone → mudstone",
+        "泥质沉积物成岩 → 泥岩"
+      ]
+    ],
+    "explanation": "a layer of mudstone 一层泥岩，mudstone samples 泥岩样本，a mudstone cliff 泥岩崖。颜色、硬度等随具体岩石变化。",
+    "usage": "a layer of mudstone；mudstone samples。",
+    "contrast": "mudstone 已是岩石，mud 是松散湿泥。不能因为名称含 mud，就以为碰到水会立即成为泥浆。",
+    "examples": [
+      [
+        "A thin layer of mudstone lies above the sandstone.",
+        "砂岩上方有一薄层泥岩。"
+      ],
+      [
+        "The geologist collected mudstone samples from the cliff.",
+        "地质学家从崖壁采集泥岩样本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mudstone#English"
+    ]
+  },
+  {
+    "word": "spray",
+    "ipa": "/spreɪ/",
+    "meaning": "喷、喷洒；飞沫、喷雾、喷剂；带花小枝〔另源〕",
+    "sense": "液体分成许多细滴向外散开，是 spray；浪打在石头上扬起飞沫，也可叫 spray。a spray of flowers 却是带花枝条，来自另一条词线。",
+    "split": "喷洒动词通常借中古荷兰语 sprayen 等，联系散播、撒散词族；液滴名词相关。小枝义在中古英语已有，远源未明，可能联系古英语枝条形式。",
+    "history": [
+      [
+        "中古荷兰语 sprayen 等 → spray 动词",
+        "撒散、喷洒液滴"
+      ],
+      [
+        "动词 → 液滴、喷雾产品等名词",
+        "分散的细水滴；喷雾、喷剂"
+      ],
+      [
+        "另源同形词 spray",
+        "小枝、带花小枝；与喷雾线分开"
+      ]
+    ],
+    "explanation": "sea spray 海浪飞沫，a fine spray of water 细水雾，spray water on leaves 往叶子上喷水，spray the leaves with water 用水喷叶子，a spray of flowers 带花的小枝。",
+    "usage": "sea spray；a fine spray；spray something with water。",
+    "contrast": "spray 液滴分散，pour 倒水更像液流；花枝义不能只按现代喷雾比喻倒推词源。",
+    "examples": [
+      [
+        "Sea spray reached the windows of the boat.",
+        "海浪飞沫溅到船窗上。"
+      ],
+      [
+        "She added a spray of small flowers to the arrangement.",
+        "她往插花中添了一小枝花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spray#English",
+      "https://www.etymonline.com/word/spray"
+    ]
+  },
+  {
+    "word": "spraying",
+    "ipa": "/ˈspreɪɪŋ/",
+    "meaning": "喷洒、喷涂等活动",
+    "sense": "液体、涂料等分成细滴施到表面，这个动作过程可以 spraying。对象不同，可译喷洒、喷涂等。",
+    "split": "spray + -ing，保留 y。这里的 y 是元音组合 ay 的一部分，不像 tidy 那样在相应派生中换 i。",
+    "history": [
+      [
+        "中古荷兰语 sprayen 等 → spray 动词",
+        "撒散、喷洒液滴"
+      ],
+      [
+        "动词 → 液滴、喷雾产品等名词",
+        "分散的细水滴；喷雾、喷剂"
+      ],
+      [
+        "spray + -ing → spraying",
+        "喷洒、喷涂的过程"
+      ]
+    ],
+    "explanation": "water spraying 喷水，paint spraying 喷涂，a spraying system 喷洒系统。",
+    "usage": "paint spraying；a spraying system。",
+    "contrast": "spraying 是活动，sprayer 是执行喷洒的人、设备；spray 可是动作，也可是喷雾物。",
+    "examples": [
+      [
+        "The system provides even spraying across the surface.",
+        "系统让液体均匀喷洒在表面。"
+      ],
+      [
+        "The film shows the spraying of water over the young plants.",
+        "影片展示给幼苗喷水的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spraying#English"
+    ]
+  },
+  {
+    "word": "sprayer",
+    "ipa": "英 /ˈspreɪə/；美 /ˈspreɪər/",
+    "meaning": "喷雾器、喷洒设备；喷洒者",
+    "sense": "把水、涂料等喷成细滴的器具，可以叫 sprayer。小喷瓶、大型喷洒设备都能按功能这样命名。",
+    "split": "spray + -er，保留 y；-er 指执行喷洒功能的人或设备。",
+    "history": [
+      [
+        "中古荷兰语 sprayen 等 → spray 动词",
+        "撒散、喷洒液滴"
+      ],
+      [
+        "动词 → 液滴、喷雾产品等名词",
+        "分散的细水滴；喷雾、喷剂"
+      ],
+      [
+        "spray + -er → sprayer",
+        "喷洒的人、器具或设备"
+      ]
+    ],
+    "explanation": "a hand sprayer 手持喷雾器，a garden sprayer 园艺喷雾器，a paint sprayer 喷涂设备。",
+    "usage": "a hand sprayer；a garden sprayer。",
+    "contrast": "sprayer 是较宽的功能名称，spray bottle 明确是喷瓶；不是所有喷洒设备都做成瓶子。",
+    "examples": [
+      [
+        "She filled the hand sprayer with water.",
+        "她给手持喷雾器装了水。"
+      ],
+      [
+        "The gardener adjusted the sprayer before watering the plants.",
+        "园丁给植物喷水前，调整了喷雾器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sprayer#English"
+    ]
+  },
+  {
+    "word": "bulk",
+    "ipa": "/bʌlk/",
+    "meaning": "体积、大块；大部分；大批量、散装",
+    "sense": "一堆货看起来占多大地方，是 bulk 的体积感；一件事的大部分是 the bulk of；货物大批、散装处理，则说 in bulk。",
+    "split": "中古英语 bulk、bolke 借古诺尔斯语 búlki 船货等，且与其他躯体、隆起词形有交汇。现代规模、主要部分和批量用法分别固定。",
+    "history": [
+      [
+        "古诺尔斯语 búlki 等 → 中古英语 bulk、bolke",
+        "船货、堆、体积；与其他躯体词形有交汇"
+      ],
+      [
+        "bulk 的现代扩展",
+        "体积、大部分；成批、散装"
+      ]
+    ],
+    "explanation": "the bulk of the work 大部分工作，buy in bulk 大批购买，bulk cargo 散货，without adding bulk 不增加厚重体积，bulk up 增大体量、增肌等。",
+    "usage": "the bulk of；buy in bulk；bulk cargo。",
+    "contrast": "bulk 重点可在体积，不等于 weight 重量。in bulk 随语境可大批量或散装，不能一律当同一种包装方式。",
+    "examples": [
+      [
+        "The bulk of the work is already finished.",
+        "大部分工作已经完成。"
+      ],
+      [
+        "The thick lining adds bulk to the coat.",
+        "厚里衬增加了外套的厚重感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bulk#English"
+    ]
+  },
+  {
+    "word": "bulky",
+    "ipa": "/ˈbʌlki/",
+    "meaning": "体积大、占地方的；笨重难搬的",
+    "sense": "东西很占空间，搬、装、穿时显得不利落，是 bulky。它可以很轻，只是太占地方。",
+    "split": "bulk + -y，中古英语已有相应形式。由体积、块头形象形成性质词。",
+    "history": [
+      [
+        "古诺尔斯语 búlki 等 → 中古英语 bulk、bolke",
+        "船货、堆、体积；与其他躯体词形有交汇"
+      ],
+      [
+        "bulk 的现代扩展",
+        "体积、大部分；成批、散装"
+      ],
+      [
+        "bulk + -y → bulky",
+        "体积大、占空间，因而难搬或不利落"
+      ]
+    ],
+    "explanation": "a bulky coat 厚重外套，bulky luggage 大件行李，a bulky package 体积大的包裹。",
+    "usage": "bulky luggage；a bulky coat；a bulky package。",
+    "contrast": "bulky 不保证很重；heavy 强调重量。空纸箱可以 bulky，金属小块却可能 heavy。",
+    "examples": [
+      [
+        "The bulky suitcase would not fit under the seat.",
+        "大行李箱塞不进座位下面。"
+      ],
+      [
+        "The coat is warm without being bulky.",
+        "外套很暖，却不显臃肿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bulky#English"
+    ]
+  },
+  {
+    "word": "bulkhead",
+    "ipa": "/ˈbʌlkhed/",
+    "meaning": "舱壁、隔舱板；飞机、车辆等内部隔板",
+    "sense": "大空间里竖起一面隔板，把船体内部、机舱等分成区域，就是 bulkhead。先抓隔开，而不是大头。",
+    "split": "head 与前部隔断、梁类旧词组合，前部通常联系古诺尔斯语 bálkr 等；具体中间形式有讨论。不能简单拿现代 bulk 体积大 + head 头来解释全部历史。",
+    "history": [
+      [
+        "bulkhead 的前部另看隔断词",
+        "通常联系 bálkr 等梁、隔板形式，中间构词有讨论"
+      ],
+      [
+        "隔断相关旧词 + head → bulkhead",
+        "船内竖直隔板 → 其他交通工具等内部隔板"
+      ]
+    ],
+    "explanation": "a watertight bulkhead 水密舱壁，a cabin bulkhead 客舱隔板，a bulkhead seat 隔板前的座位。具体隔板不一定都水密。",
+    "usage": "a watertight bulkhead；a cabin bulkhead。",
+    "contrast": "bulkhead 侧重内部隔断，hull 是船体外壳等。只有加 watertight 等明确说明，才是在说相应水密结构。",
+    "examples": [
+      [
+        "A watertight bulkhead separated the two compartments.",
+        "一道水密舱壁把两个舱室隔开。"
+      ],
+      [
+        "The seat is directly behind the cabin bulkhead.",
+        "座位就在客舱隔板后面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bulkhead#English",
+      "https://www.etymonline.com/word/bulkhead"
+    ]
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "word": "shot",
+    "ipa": "英 /ʃɒt/；美 /ʃɑːt/",
+    "meaning": "射击；投篮、射门；照片、镜头；尝试；针剂；少量烈酒",
+    "sense": "常把一次短促的动作或一份结果当成一项来数：射一发、拍一张、试一次；具体是哪种，看对象。",
+    "split": "名词接古英语 sċeot 等，与 shoot 词族相关；动词形式 shot 是 shoot 的过去式、过去分词。不同固定量词义经过各自发展，不把酒、针剂都编成真正射出子弹。",
+    "history": [
+      [
+        "古英语 sċeot → 中古英语 schot → shot",
+        "发射、射出的东西；与 shoot 历史相关"
+      ],
+      [
+        "现代 shot 的固定用法",
+        "一次射击、投射 → 拍摄、尝试等；也是 shoot 的过去式、过去分词"
+      ]
+    ],
+    "explanation": "take a shot 拍照、射门或尝试，靠场景定；a flu shot 一针流感疫苗，a shot of espresso 一份浓缩咖啡，a shot of whisky 一小杯威士忌；give it a shot 试试。",
+    "usage": "give it a shot；a close-up shot；take a shot；a shot of espresso。",
+    "contrast": "shoot 是动作原形，shot 可是名词或过去形式；My phone is shot 口语还可说手机坏掉、不能用了，不是每次真的中弹。",
+    "examples": [
+      [
+        "Give it a shot; you may enjoy it.",
+        "试试看，你也许会喜欢。"
+      ],
+      [
+        "The photographer took a wide shot of the room.",
+        "摄影师拍了一张房间的广角画面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shot#English"
+    ]
+  },
+  {
+    "word": "snapshot",
+    "ipa": "英 /ˈsnæpʃɒt/；美 /ˈsnæpʃɑːt/",
+    "meaning": "快照；某一时刻的概况、状态记录",
+    "sense": "迅速抓住眼前一瞬间；数据报告也能只呈现某一刻的截面，而不是完整过程。",
+    "split": "snap 快速动作 + shot 拍摄、射击；历史有快速、不细瞄的射击用法，再用于随手照片及状态记录。不是所有 snapshot 都只是一张图像文件。",
+    "history": [
+      [
+        "snap 快速动作；shot 拍摄、一次发射",
+        "并列构词部分"
+      ],
+      [
+        "snapshot",
+        "快拍 → 某时刻的简要记录"
+      ]
+    ],
+    "explanation": "a holiday snapshot 假期随手照，a snapshot of the economy 经济某时点概况；系统 snapshot 可指可供保存、恢复等用途的状态记录，具体内容依工具。",
+    "usage": "take a snapshot；a snapshot of；a system snapshot。",
+    "contrast": "snapshot 常强调一瞬间的样子，trend 趋势要跨时间观察；一个 snapshot 不足以自动说明长期变化方向。",
+    "examples": [
+      [
+        "She showed me a few snapshots from the trip.",
+        "她给我看了几张旅行随手照。"
+      ],
+      [
+        "The report provides a snapshot of local employment.",
+        "报告给出了当地就业情况的一个时点概况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/snapshot#English"
+    ]
+  },
+  {
+    "word": "screenshot",
+    "ipa": "英 /ˈskriːnʃɒt/；美 /ˈskriːnʃɑːt/",
+    "meaning": "屏幕截图；截取屏幕画面",
+    "sense": "把屏幕此刻显示的全部或一部分内容，保存成一张静止图。",
+    "split": "screen 屏幕 + shot 拍摄的画面，形成数字截图名词，也可作动词。不是用相机对着屏幕拍才算。",
+    "history": [
+      [
+        "screen 屏幕；shot 一张画面",
+        "并列构词部分"
+      ],
+      [
+        "screenshot",
+        "屏幕内容的静态截取图"
+      ]
+    ],
+    "explanation": "take a screenshot 截图，a screenshot of the error 错误界面截图；可以截全屏，也可以只截一个窗口、区域。",
+    "usage": "take a screenshot；save a screenshot；a screenshot of the message。",
+    "contrast": "screenshot 静态截图，screen recording 屏幕录制通常包含时间过程；snapshot 范围更宽，还能指系统状态。",
+    "examples": [
+      [
+        "Please take a screenshot of the error message.",
+        "请把错误信息截个图。"
+      ],
+      [
+        "She saved a screenshot of the timetable.",
+        "她保存了一张时刻表截图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/screenshot#English"
+    ]
+  },
+  {
+    "word": "gunshot",
+    "ipa": "英 /ˈɡʌnʃɒt/；美 /ˈɡʌnʃɑːt/",
+    "meaning": "枪声；枪击、开枪",
+    "sense": "一次开枪的动作，或听到的那声响；修饰伤口时又说明由枪击造成。",
+    "split": "gun 枪 + shot 射击，复合为枪击、枪声名词。与 shotgun 交换前后顺序，中心词也随之改变。",
+    "history": [
+      [
+        "gun 枪；shot 射击",
+        "并列构词部分"
+      ],
+      [
+        "gunshot",
+        "开枪动作、枪声及相关性质"
+      ]
+    ],
+    "explanation": "hear a gunshot 听到枪声，a gunshot wound 枪伤；故事、报道中依所修饰对象判断。",
+    "usage": "hear gunshots；a distant gunshot；a gunshot wound。",
+    "contrast": "gunshot 枪击、枪声，shotgun 是一种枪；gunshot 是事件、声音，不是那件武器本身。",
+    "examples": [
+      [
+        "A distant gunshot broke the silence in the film.",
+        "电影中，远处一声枪响打破了沉默。"
+      ],
+      [
+        "The witness said she had heard two gunshots.",
+        "目击者说她听见了两声枪响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gunshot#English"
+    ]
+  },
+  {
+    "word": "shotgun",
+    "ipa": "英 /ˈʃɒtɡʌn/；美 /ˈʃɑːtɡʌn/",
+    "meaning": "霰弹枪；副驾驶座〔美式口语搭配〕",
+    "sense": "是一种以发射霰弹等为人熟知的枪械类别；ride shotgun 在现代口语里常只是坐副驾驶。",
+    "split": "shot 霰弹、小弹丸 + gun 枪，复合为枪械名称。ride shotgun 有旧日护卫坐在车夫旁的历史背景，后转作副驾驶位置；并不表示现代乘客必须带枪。",
+    "history": [
+      [
+        "shot 小弹丸、霰弹；gun 枪",
+        "并列构词部分"
+      ],
+      [
+        "shotgun",
+        "枪械类别 → ride shotgun 的座位称呼"
+      ]
+    ],
+    "explanation": "a shotgun in a historical display 历史展品中的霰弹枪；ride shotgun 坐副驾驶，call shotgun 口语抢先说自己要坐副驾驶。",
+    "usage": "a shotgun；ride shotgun；call shotgun。",
+    "contrast": "shotgun 武器名，gunshot 枪声、枪击；ride shotgun 通常不是正在开枪，先看是不是乘车口语。",
+    "examples": [
+      [
+        "The museum displayed an old shotgun.",
+        "博物馆展出了一支旧霰弹枪。"
+      ],
+      [
+        "I’ll drive, and you can ride shotgun.",
+        "我来开车，你可以坐副驾驶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shotgun#English",
+      "https://www.etymonline.com/word/shotgun"
+    ]
+  },
+  {
+    "word": "buckshot",
+    "ipa": "英 /ˈbʌkʃɒt/；美 /ˈbʌkʃɑːt/",
+    "meaning": "较大颗粒的霰弹",
+    "sense": "shot 还可以指一群小弹丸；buckshot 是其中颗粒较大的类别名称。",
+    "split": "buck 雄鹿等相关动物称谓 + shot 弹丸，命名有狩猎用途背景。是固定弹药名，不是被鹿踢出来的一次射门。",
+    "history": [
+      [
+        "buck 雄鹿相关动物名；shot 弹丸",
+        "并列构词部分"
+      ],
+      [
+        "buckshot",
+        "以较大颗粒为特点的霰弹类别"
+      ]
+    ],
+    "explanation": "buckshot in a historical collection 历史收藏中的霰弹；通常作材料、集合式不可数名词。",
+    "usage": "buckshot；a description of buckshot；buckshot in a museum display。",
+    "contrast": "buckshot 是弹丸类别，shotgun 是枪械；不能把弹药和武器当同一个物体。",
+    "examples": [
+      [
+        "The label identified the old pellets as buckshot.",
+        "标签把这些旧弹丸标为较大颗粒的霰弹。"
+      ],
+      [
+        "The historian explained the word “buckshot” in the letter.",
+        "历史学家解释了信中 buckshot 这个词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/buckshot#English"
+    ]
+  },
+  {
+    "word": "slingshot",
+    "ipa": "英 /ˈslɪŋʃɒt/；美 /ˈslɪŋʃɑːt/",
+    "meaning": "弹弓；像弹射一样快速移动",
+    "sense": "用拉紧后回弹的器具把小物体弹出去；动词借这种突然被送出去的速度感。",
+    "split": "sling 抛投、投石器相关词 + shot 发射，复合为弹弓名称；动词有借势迅速冲出等用法。",
+    "history": [
+      [
+        "sling 抛投、投石器相关词；shot 发射",
+        "并列构词部分"
+      ],
+      [
+        "slingshot",
+        "弹弓 → 弹射般迅速移动的比喻"
+      ]
+    ],
+    "explanation": "a slingshot in an illustration 插图中的弹弓；slingshot ahead 迅速冲到前面。太空文章的 gravitational slingshot 另有引力助推专门含义。",
+    "usage": "a slingshot；slingshot ahead；a slingshot effect。",
+    "contrast": "slingshot 是弹弓，sling 更早可指投石索等不同器具；不要把所有抛投器都当同一结构。",
+    "examples": [
+      [
+        "The drawing shows a character holding a slingshot.",
+        "画里的人物拿着弹弓。"
+      ],
+      [
+        "The cyclist slingshotted ahead as the road opened up.",
+        "道路变开阔时，那位骑行者一下冲到了前面。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/slingshot#English"
+    ]
+  },
+  {
+    "word": "earshot",
+    "ipa": "英 /ˈɪəʃɒt/；美 /ˈɪrʃɑːt/",
+    "meaning": "听得见的距离、范围",
+    "sense": "声音传到耳朵还能听清，才算在这个范围里；不需要真的向耳朵发射任何东西。",
+    "split": "ear 耳朵 + shot，后者用射程、所及范围的引申，形成听力所及范围名词。",
+    "history": [
+      [
+        "ear 耳朵；shot 所及范围的旧引申",
+        "并列构词部分"
+      ],
+      [
+        "earshot",
+        "声音能被听见的距离范围"
+      ]
+    ],
+    "explanation": "within earshot 在听得见的范围内，out of earshot 到了听不见处；范围会随声音、环境、听者而变。",
+    "usage": "within earshot；out of earshot；stay within earshot。",
+    "contrast": "earshot 听觉范围，eyesight 视力、视线相关能力；out of earshot 不等于 out of sight 看不见。",
+    "examples": [
+      [
+        "Wait until they are out of earshot.",
+        "等他们走到听不见的地方再说。"
+      ],
+      [
+        "The children stayed within earshot of the campsite.",
+        "孩子们待在营地喊话能听见的范围内。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/earshot#English"
+    ]
+  },
+  {
+    "word": "bloodshot",
+    "ipa": "英 /ˈblʌdʃɒt/；美 /ˈblʌdʃɑːt/",
+    "meaning": "眼睛布满血丝的",
+    "sense": "眼白上显出红红的血丝，看起来发红；这不是描述眼睛中了枪。",
+    "split": "blood 血 + shoot 的旧过去分词 shotten，早期 bloodshotten 后缩短成 bloodshot。可用血丝布满的画面帮助理解，不是名词枪击。",
+    "history": [
+      [
+        "blood + 旧分词 shotten → bloodshotten",
+        "血丝布满的旧形式"
+      ],
+      [
+        "bloodshotten → bloodshot",
+        "缩短形式：眼睛显出红血丝的"
+      ]
+    ],
+    "explanation": "bloodshot eyes 布满血丝的眼睛；常用于叙述外观，原因还需上下文，不能仅凭这个词判断具体疾病。",
+    "usage": "bloodshot eyes；look bloodshot；tired, bloodshot eyes。",
+    "contrast": "bloodshot 说眼白血丝外观，a black eye 眼周瘀青是另一表达；red eyes 范围又更宽。",
+    "examples": [
+      [
+        "His eyes were bloodshot after the overnight journey.",
+        "通宵旅行后，他眼里布满血丝。"
+      ],
+      [
+        "The actor’s makeup made his eyes look bloodshot.",
+        "演员的妆容让他的眼睛显得布满血丝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bloodshot#English",
+      "https://www.etymonline.com/word/bloodshot"
+    ]
+  },
+  {
+    "word": "upshot",
+    "ipa": "英 /ˈʌpʃɒt/；美 /ˈʌpʃɑːt/",
+    "meaning": "最终结果；结局",
+    "sense": "前面折腾了很多步骤，最后归结到什么结果；常用于把复杂经过收拢成一句结论。",
+    "split": "up- + shot，历史常追到射箭比赛最后一箭的用法，再发展最终结果义。现代不能只按 up 向上译成朝天射一枪。",
+    "history": [
+      [
+        "up- + shot；射箭比赛最后一箭的旧用法",
+        "决定结果的一次射击"
+      ],
+      [
+        "现代 upshot",
+        "事情最终归结的结果"
+      ]
+    ],
+    "explanation": "the upshot of the discussion 讨论结果，The upshot is that... 最后的结果是……；不一定是好结果。",
+    "usage": "the upshot is that；the upshot of；the final upshot。",
+    "contrast": "upshot 结果，upset 扰乱、难过、爆冷等是另一词；upshot 本身不说明结果令人高兴还是失望。",
+    "examples": [
+      [
+        "The upshot is that we need another week.",
+        "结果就是，我们还需要一周。"
+      ],
+      [
+        "What was the upshot of the meeting?",
+        "会议最后得出了什么结果？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upshot#English",
+      "https://www.etymonline.com/word/upshot"
+    ]
+  },
+  {
+    "word": "baby",
+    "ipa": "/ˈbeɪbi/",
+    "meaning": "婴儿；幼崽；宝贝；过分照顾",
+    "sense": "最小、最需要照顾的孩子；也能叫幼小动物、最小成员，或亲昵地称宝贝。",
+    "split": "中古英语 baby、babie，来自 babe 的亲昵、指小形式；更早常被联系婴儿发声，具体起点不强定。动词 baby 是把人当小婴儿那样照顾。",
+    "history": [
+      [
+        "中古英语 babe → baby、babie",
+        "婴儿；-y、-ie 亲昵、指小形式"
+      ],
+      [
+        "现代 baby",
+        "婴儿；幼小的；娇惯、像婴儿般照顾的比喻"
+      ]
+    ],
+    "explanation": "a newborn baby 新生儿，a baby elephant 小象；the baby of the family 家中最小成员；Don’t baby me 别把我当小孩处处照顾。",
+    "usage": "a newborn baby；a baby animal；the baby of the family；baby someone。",
+    "contrast": "baby 通常比 child 年龄更小，但 the baby of the family 可能已经成年；baby 作亲昵称呼也不说明对方真是婴儿。",
+    "examples": [
+      [
+        "The baby fell asleep in the car.",
+        "婴儿在车里睡着了。"
+      ],
+      [
+        "Please don’t baby me; I can do this myself.",
+        "请别把我当小孩哄着照顾，我自己能做。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/baby#English"
+    ]
+  },
+  {
+    "word": "babysitter",
+    "ipa": "英 /ˈbeɪbisɪtə/；美 /ˈbeɪbisɪtər/",
+    "meaning": "临时照看孩子的人",
+    "sense": "父母出门或忙时，替他们看一会儿孩子的人；孩子不一定还是婴儿。",
+    "split": "baby 孩子 + sitter 留守照看者。sit 的待着、看护用法与这里的角色有关，不表示整场只能坐着不动。这个人物词也与后来 babysit 逆构形成有关。",
+    "history": [
+      [
+        "baby 孩子；sitter 留守照看者",
+        "并列构词部分"
+      ],
+      [
+        "babysitter",
+        "临时照看孩子的人"
+      ]
+    ],
+    "explanation": "hire a babysitter 请临时保姆、看护者，a regular babysitter 常来帮忙照看的人员；可以有偿，也可以亲友帮助。",
+    "usage": "hire a babysitter；find a babysitter；a regular babysitter。",
+    "contrast": "babysitter 偏临时照看，nanny 通常有更持续的照料职责；实际安排各异，不按名称假定同样工时或资格。",
+    "examples": [
+      [
+        "We need a babysitter for Saturday evening.",
+        "周六晚上我们需要有人临时照看孩子。"
+      ],
+      [
+        "The babysitter read the children a story.",
+        "临时看护者给孩子们读了个故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/babysitter#English"
+    ]
+  },
+  {
+    "word": "babysit",
+    "ipa": "/ˈbeɪbisɪt/",
+    "meaning": "临时照看孩子；一直盯着照料〔比喻〕",
+    "sense": "别人暂时顾不上孩子，你接手看护；说设备、同事时可夸张表示总得有人盯着。",
+    "split": "现代材料可认 baby + sit，词源资料也按 babysitter 去掉 -er 逆构解释。较短形式不必历史更早；变化 babysat、babysat，跟 sit—sat 一样。",
+    "history": [
+      [
+        "中古英语 babe → baby、babie",
+        "婴儿；-y、-ie 亲昵、指小形式"
+      ],
+      [
+        "现代 baby",
+        "婴儿；幼小的；娇惯、像婴儿般照顾的比喻"
+      ],
+      [
+        "baby + sitter → babysitter；由人物词逆构 babysit",
+        "临时照看者 → 临时照看孩子"
+      ]
+    ],
+    "explanation": "babysit for a neighbour 替邻居看孩子，babysit the children 照看孩子；babysit a slow machine 抱怨需要一直守着机器。",
+    "usage": "babysit for；babysit the children；offer to babysit。",
+    "contrast": "babysit 是做事，babysitter 是人；不必仅限 baby 婴儿，也可照顾大一些的儿童。",
+    "examples": [
+      [
+        "Can you babysit for us on Friday?",
+        "周五你能帮我们看一下孩子吗？"
+      ],
+      [
+        "He babysat his niece while her parents were out.",
+        "侄女父母外出时，他帮忙照看了她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/babysit#English"
+    ]
+  },
+  {
+    "word": "babysitting",
+    "ipa": "/ˈbeɪbisɪtɪŋ/",
+    "meaning": "临时照看孩子；代看孩子的工作",
+    "sense": "把看一会儿孩子这件事当成一项安排、活动或工作来讲。",
+    "split": "baby + sitting 的动作名词，也与 babysit + -ing 的现代词族对应；双写 sit 的 t。历史记录不能仅因较长就断定一定晚于较短动词。",
+    "history": [
+      [
+        "中古英语 babe → baby、babie",
+        "婴儿；-y、-ie 亲昵、指小形式"
+      ],
+      [
+        "现代 baby",
+        "婴儿；幼小的；娇惯、像婴儿般照顾的比喻"
+      ],
+      [
+        "baby + sitting；与 babysit 的 -ing 形式对应",
+        "照看孩子的活动、工作"
+      ]
+    ],
+    "explanation": "do some babysitting 帮忙或兼职看孩子，a babysitting job 临时看护工作；通常用不可数活动名词。",
+    "usage": "do some babysitting；a babysitting job；babysitting arrangements。",
+    "contrast": "babysitting 是活动，babysitter 是从事者，babysit 是动词；I do babysitting 不等于 I am a babysitting。",
+    "examples": [
+      [
+        "She earns extra money from babysitting.",
+        "她靠临时看孩子赚些额外收入。"
+      ],
+      [
+        "We arranged babysitting before booking the tickets.",
+        "我们订票前先安排了代看孩子的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/babysitting#English"
+    ]
+  }
+]

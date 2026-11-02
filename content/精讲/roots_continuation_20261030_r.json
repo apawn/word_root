@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B2628",
+    "meaning": "鱼、捕鱼及按外形命名的常见动物",
+    "core": "FISH：日常俗名比现代鱼类分类更宽",
+    "image": "先 fish → fishing、fisher、fisherman、fishery、fishmonger；再看 fishy、鱼骨鱼尾与熟悉动物。",
+    "intro": "古英语鱼名和捕鱼动词延续至今。许多复合名沿旧水生动物概念，jellyfish、shellfish、cuttlefish 不是真正鱼类；silverfish 甚至常指昆虫。较冷门鱼名先略。",
+    "forms": "fish + -ing/-er/-ery/-y；fisher + man；fish + monger/bone/tail；cat/sword/clown/jelly/shell/cuttle/silver + fish。\n\n普通复数常用 fish，fishes 也是复数，尤其常在不同种类等语境；动词第三人称则用 fishes。\n\n与 fish 比较鱼类，不是 fish 派生。salmon 经法语接拉丁 salmo、salmonem；与 salire 跳跃的联系有争议，不定为已经证实的跳跃者构词。\n\n和 fish 比较鱼类，不是 fish 派生。cod 作为鱼名更远来源不明，与古英语 codd 袋子的关系没有确证；常见鱼名复数仍可用 cod。\n\nphishing 是 fishing 的变形拼写，用诱饵引人上钩的画面说电子通信中的信息诱骗；ph 的选择常联系黑客词语习惯，但具体影响不能全当作定论。\n\n这里按鱼类概念聚合，不把各名称都说成英语 fish 的派生词。tuna 经西班牙语、阿拉伯语接拉丁希腊鱼名；trout 有古英语与法语传播线；mackerel 经古法语，远源不明；eel 承古英语 æl。\n\nfisherman 由 fisher 捕鱼者 + man 形成，现代复合词保留 man 的不规则复数 men。不是在全词后加 -s；可与 fisher、fishers 对照。\n\nfishery 指渔业、捕捞活动或渔场，-ery 是完整词尾，复数 y 变 i 加 -es，不能误拆为 fisher 后随意加一个字母。",
+    "branches": [
+      [
+        "基本动作、人员与行业",
+        "fish · fishing · fisher · fisherman · fishery · fishmonger"
+      ],
+      [
+        "性质与结构比喻",
+        "fishy · fishbone · fishtail · fisheye · fishnet"
+      ],
+      [
+        "熟悉的鱼类名",
+        "catfish · swordfish · clownfish · goldfish · whitefish"
+      ],
+      [
+        "带 fish 而不属鱼类的俗名",
+        "jellyfish · shellfish · cuttlefish · starfish · silverfish"
+      ],
+      [
+        "fish → fish／fishes：名词复数与动词形式",
+        "fish · fishes"
+      ],
+      [
+        "salmon：鲑鱼、三文鱼，到相近颜色",
+        "salmon"
+      ],
+      [
+        "cod：另源的鳕鱼名",
+        "cod"
+      ],
+      [
+        "fishing → phishing：用钓鱼画面说信息诱骗",
+        "phishing"
+      ],
+      [
+        "fish 对照下的常见鱼名",
+        "tuna · trout · mackerel · eel · eels"
+      ],
+      [
+        "fish + -er + man → fishermen",
+        "fishermen"
+      ],
+      [
+        "fish + -ery 场所、行业 → fisheries",
+        "fisheries"
+      ]
+    ],
+    "contrasts": "fish 通常单复同形，鱼肉不可数；fisher 捕、fishmonger 卖；fishy 可疑；动物俗名不等于科学分类。",
+    "practice": "The fisherman sold his fish to the fishmonger before going fishing again.\n\n渔民把鱼卖给鱼贩，又去捕鱼了。",
+    "words": [
+      "fish",
+      "fishing",
+      "fisher",
+      "fisherman",
+      "fishery",
+      "fishmonger",
+      "fishy",
+      "fishbone",
+      "fishtail",
+      "fisheye",
+      "fishnet",
+      "catfish",
+      "swordfish",
+      "clownfish",
+      "goldfish",
+      "whitefish",
+      "jellyfish",
+      "shellfish",
+      "cuttlefish",
+      "starfish",
+      "silverfish",
+      "fishes",
+      "salmon",
+      "cod",
+      "phishing",
+      "tuna",
+      "trout",
+      "mackerel",
+      "eel",
+      "eels",
+      "fishermen",
+      "fisheries"
+    ],
+    "exclude": {
+      "nigger-fish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fishman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blackfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "zebrafish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sunfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dogfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "blowfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sailfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rockfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "codfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bluefish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "kingfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "monkfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "parrotfish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "word": "wrench",
+    "ipa": "/rentʃ/",
+    "meaning": "猛扭、猛拉；扭伤；扳手；痛苦的分离",
+    "sense": "抓住东西，猛地一扭一拉，是 wrench。用来夹住螺母扳转的工具，也就叫 wrench；情感分离还可借用被猛扯的痛感。",
+    "split": "动词承古英语 wrencan 扭转，名词有古英语 wrenc 扭转、计谋等旧材料。工具义较后固定；与 wring、wrist 属较远日耳曼扭转词族。",
+    "history": [
+      [
+        "古英语 wrencan、wrenc → wrench",
+        "扭转动作及相关名词"
+      ],
+      [
+        "工具义与痛苦引申发展",
+        "用于扳转的工具；被强拉般的分离痛感"
+      ]
+    ],
+    "explanation": "a wrench 扳手；wrench the door open 猛拉开门；a painful wrench 痛苦的割舍。",
+    "usage": "wrench something from his hand 从他手里猛夺某物；an adjustable wrench 活动扳手。",
+    "contrast": "wrench 强调带力的扭、拉；工具名就抓夹住并扳转的用途。英式常用 spanner 指这类工具，美式常用 wrench。",
+    "examples": [
+      [
+        "He used a wrench to tighten the nut.",
+        "他用扳手拧紧螺母。"
+      ],
+      [
+        "She had to wrench the stuck door open.",
+        "她得用力猛拉才能把卡住的门打开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrench#English",
+      "https://www.etymonline.com/word/wrench"
+    ]
+  },
+  {
+    "word": "wrenches",
+    "ipa": "/ˈrentʃɪz/",
+    "meaning": "扳手；猛扭、猛拉〔复数或第三人称单数〕",
+    "sense": "工具箱里几把扳手，是 wrenches；一个人用力把东西扭开、扯开，也能用动词 wrenches。",
+    "split": "wrench 的扭转材料继承古英语，工具义后来固定。现代加 -es，/tʃ/ 后读 /ɪz/。",
+    "history": [
+      [
+        "古英语扭转材料 → wrench",
+        "扭拉动作；后来扳转工具"
+      ],
+      [
+        "wrench + -es → wrenches",
+        "多把扳手；某人猛扭、猛拉"
+      ]
+    ],
+    "explanation": "adjustable wrenches 活动扳手；wrenches the handle 用力扭把手。",
+    "usage": "wrenches in the toolbox 工具箱里的扳手；wrenches the door open 猛拉开门。",
+    "contrast": "es 在这里多出一个 /ɪz/ 音节。wrench 也可以是痛苦割舍的名词，具体还要看对象。",
+    "examples": [
+      [
+        "The drawer held several wrenches.",
+        "抽屉里放着几把扳手。"
+      ],
+      [
+        "He wrenches the door open with both hands.",
+        "他双手用力拉开门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrenches#English",
+      "https://en.wiktionary.org/wiki/wrench#English"
+    ]
+  },
+  {
+    "word": "wring",
+    "ipa": "/rɪŋ/",
+    "meaning": "拧、拧挤；费力取得；绞扭双手",
+    "sense": "两手反向扭一块湿布，把水挤出来，是 wring 最直接的画面。费力从某人那里挤出回答、让步，也可借这个动作。",
+    "split": "承古英语 wringan 扭、挤，经中古英语 wringen 延续。与 wrench 等扭转材料同族，现代不规则变化 wring → wrung → wrung。",
+    "history": [
+      [
+        "古英语 wringan → 中古英语 wringen → wring",
+        "扭转、拧挤柔软物"
+      ],
+      [
+        "旧动作的抽象扩展",
+        "费力取得；痛苦、焦虑时绞扭双手"
+      ]
+    ],
+    "explanation": "wring out a cloth 拧干布；wring water from a towel 从毛巾拧出水；wring his hands 焦急地绞扭双手。",
+    "usage": "wring a promise from someone 费力逼得某人承诺；wring it dry 把它拧干。",
+    "contrast": "w 不发音，wring 与 ring 常同音，但一个是拧挤动作，一个常是环、响铃等不同词。结构 wring…out、from 说明挤出什么、从哪里挤。",
+    "examples": [
+      [
+        "She used both hands to wring out the cloth.",
+        "她双手把布拧干。"
+      ],
+      [
+        "It was hard to wring an answer from him.",
+        "要从他嘴里挤出一个回答很难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wring#English",
+      "https://www.etymonline.com/word/wring"
+    ]
+  },
+  {
+    "word": "wrung",
+    "ipa": "/rʌŋ/",
+    "meaning": "拧过、挤出了；wring 的过去式和过去分词",
+    "sense": "湿布已经拧过、水被挤出来，就是 wrung。它把 wring 的动作放到过去或完成状态。",
+    "split": "wring 继承古英语强变化动词 wringan，现代过去式、过去分词都是 wrung，靠词干元音变化，不接普通 -ed。",
+    "history": [
+      [
+        "古英语 wringan 的强变化 → wring",
+        "拧挤动作的旧不规则词族"
+      ],
+      [
+        "wring → wrung → wrung",
+        "现代过去式、过去分词"
+      ]
+    ],
+    "explanation": "wrung out the cloth 拧干了布；wrung from someone 从某人那里费力取得。",
+    "usage": "has wrung 已经拧过；wrung her hands 焦急地绞扭双手。",
+    "contrast": "写法有 w，发音起首只有 /r/。wrung /rʌŋ/ 和 rung 常同音，前者对应 wring，后者对应 ring 的一套变化。",
+    "examples": [
+      [
+        "He wrung the water from the towel.",
+        "他把水从毛巾里拧出来。"
+      ],
+      [
+        "She had wrung out the cloth before hanging it up.",
+        "她挂布前已经把布拧过了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrung#English",
+      "https://en.wiktionary.org/wiki/wring#English"
+    ]
+  },
+  {
+    "word": "wringing",
+    "ipa": "/ˈrɪŋɪŋ/",
+    "meaning": "正在拧挤、绞扭；拧挤过程",
+    "sense": "双手仍在反向用力，把湿布里的水挤出来，就是 wringing。焦急绞手的动作也可以这样写。",
+    "split": "wring 继承古英语扭挤动词，现代直接加 -ing，保留 ng，不加额外 g；过去变化不规则，ing 形式仍按普通方式形成。",
+    "history": [
+      [
+        "古英语 wringan → wring",
+        "扭、挤；后来相关抽象用法"
+      ],
+      [
+        "wring + -ing → wringing",
+        "正在拧挤、绞手；相应过程"
+      ]
+    ],
+    "explanation": "wringing out a towel 正在拧毛巾；wringing her hands 焦急地绞手。",
+    "usage": "wringing wet 湿得能拧出水的；wringing water from the cloth 从布里拧水。",
+    "contrast": "wringing wet 是程度很高的湿，不要求说话当下正在拧。其余是否进行动作，看 is、was 或后面的名词结构。",
+    "examples": [
+      [
+        "She was wringing out a towel by the sink.",
+        "她正在水槽边拧毛巾。"
+      ],
+      [
+        "He stood waiting, wringing his hands.",
+        "他站着等候，焦急地绞扭双手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wringing#English",
+      "https://en.wiktionary.org/wiki/wring#English"
+    ]
+  },
+  {
+    "word": "saws",
+    "ipa": "英 /sɔːz/；美 /sɔːz/，也读 /sɑːz/",
+    "meaning": "锯子〔复数〕；锯切〔第三人称单数〕",
+    "sense": "带齿刀片来回或旋转着把材料切开，这类工具是 saws；一个人用锯切，也能说 she saws。",
+    "split": "工具 saw 承古英语 sagu，较远与拉丁 secare 切割同源。名词转为锯切动作，现代加 -s，元音后读 /z/；与 see 的过去式 saw 分源。",
+    "history": [
+      [
+        "古英语 sagu → saw 工具、相关动词",
+        "有齿切割工具及锯切动作"
+      ],
+      [
+        "saw + -s → saws",
+        "多把锯；某人锯切"
+      ]
+    ],
+    "explanation": "hand saws 手锯；saws the board 锯木板。",
+    "usage": "electric saws 电锯；saws through the wood 锯穿木头。",
+    "contrast": "He saws wood 是他锯木头；He saw wood 是他看见了木头。这里一个 s 会改变句法关系与词源选择。",
+    "examples": [
+      [
+        "Several saws hung on the workshop wall.",
+        "车间墙上挂着几把锯。"
+      ],
+      [
+        "She saws the board into two pieces.",
+        "她把木板锯成两块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saws#English",
+      "https://www.etymonline.com/word/saw"
+    ]
+  },
+  {
+    "word": "sawed",
+    "ipa": "英 /sɔːd/；美 /sɔːd/，也读 /sɑːd/",
+    "meaning": "锯了、锯开的；saw 的过去式和一种过去分词",
+    "sense": "用带齿刀片把材料锯开，这件事发生过了，就是 sawed。",
+    "split": "锯动词 saw 由古英语工具名 sagu 一支发展；现代加 -ed，元音后读 /d/。过去式 sawed，过去分词 sawed 或 sawn。",
+    "history": [
+      [
+        "古英语锯名 → saw → 锯切动词",
+        "器物名命名使用动作"
+      ],
+      [
+        "saw + -ed → sawed",
+        "过去锯了；也是一种过去分词"
+      ]
+    ],
+    "explanation": "sawed the wood 锯了木头；sawed into pieces 锯成几块。",
+    "usage": "has sawed 已经锯过；sawed through 锯穿了。",
+    "contrast": "看见的那套是 see—saw—seen；锯切的这套是 saw—sawed—sawn 或 sawed。把两条线分开，便不会把 sawed 当成看见。",
+    "examples": [
+      [
+        "He sawed the branch into shorter pieces.",
+        "他把树枝锯成较短的几段。"
+      ],
+      [
+        "They sawed through the old plank.",
+        "他们锯穿了旧木板。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sawed#English",
+      "https://www.etymonline.com/word/saw"
+    ]
+  },
+  {
+    "word": "sawn",
+    "ipa": "英 /sɔːn/；美 /sɔːn/，也读 /sɑːn/",
+    "meaning": "锯过的、锯切的；saw 的过去分词",
+    "sense": "板材已被锯切，描述完成结果或材料状态，就会遇到 sawn。",
+    "split": "锯动词 saw 的强式分词 sawn 是较后受 draw 等形式影响出现的类推变化。现代 saw → sawed → sawn 或 sawed，不把 sawn 当成古英语本来就保留的同一强变位。",
+    "history": [
+      [
+        "古英语工具名一支 → saw 锯切",
+        "先有锯名和相关动作"
+      ],
+      [
+        "中古英语后期类推强式分词 → sawn",
+        "受其他强变化词影响；现代仍用为分词"
+      ]
+    ],
+    "explanation": "sawn timber 锯材；freshly sawn wood 刚锯过的木头。",
+    "usage": "has been sawn 已被锯开；sawn into pieces 已被锯成几段。",
+    "contrast": "通常用 sawed 写普通过去动作，sawn 用在分词、形容词位置。英语不规则形式也能在后期类推形成，不都来自最早阶段。",
+    "examples": [
+      [
+        "The boards had been sawn to the same length.",
+        "木板已被锯成相同长度。"
+      ],
+      [
+        "Freshly sawn wood lay beside the bench.",
+        "工作台旁放着刚锯过的木头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sawn#English",
+      "https://www.etymonline.com/word/saw"
+    ]
+  },
+  {
+    "word": "sawing",
+    "ipa": "英 /ˈsɔːɪŋ/；美 /ˈsɔːɪŋ/，也读 /ˈsɑːɪŋ/",
+    "meaning": "正在锯切；锯切过程",
+    "sense": "锯齿不断穿过材料，切口一点点深入，是 sawing。过程名与正在做的动作都能用它。",
+    "split": "锯动词 saw 接旧工具名，现代直接加 -ing，保留 w。读音的长元音后接 /ɪŋ/，不同于 seeing 看见。",
+    "history": [
+      [
+        "锯子名 saw → saw 锯切",
+        "器物与使用动作相连"
+      ],
+      [
+        "saw + -ing → sawing",
+        "正在锯；锯切活动"
+      ]
+    ],
+    "explanation": "sawing wood 锯木头；the sound of sawing 锯切声。",
+    "usage": "finish sawing 锯完；sawing through a plank 锯穿木板。",
+    "contrast": "sawing 属于锯子这条词源线。辨认同形基础 saw 时，看后面材料与工具场景很有帮助。",
+    "examples": [
+      [
+        "She was sawing a branch near the shed.",
+        "她正在棚子旁锯树枝。"
+      ],
+      [
+        "We heard the sound of sawing from the workshop.",
+        "我们听见车间传来锯切声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sawing#English",
+      "https://en.wiktionary.org/wiki/saw#English"
+    ]
+  },
+  {
+    "word": "unscrewed",
+    "ipa": "/ʌnˈskruːd/",
+    "meaning": "拧开了、旋下了；松脱旋紧状态的",
+    "sense": "顺着螺纹把原来拧紧的部分转出来，就是 unscrewed。重点是解除原来的旋紧连接。",
+    "split": "un- 反向解除 + screw → unscrew，现代加 -ed，元音后读 /d/。具体向哪边拧由实际结构决定。",
+    "history": [
+      [
+        "un- + screw → unscrew",
+        "解除旋紧、旋入状态"
+      ],
+      [
+        "unscrew + -ed → unscrewed",
+        "过去拧开、旋下；相应完成状态"
+      ]
+    ],
+    "explanation": "unscrewed the lid 拧开了盖子；unscrewed the bolt 旋下了螺栓。",
+    "usage": "unscrewed from the frame 从框架旋下；partly unscrewed 部分拧松的。",
+    "contrast": "un- 给反向解除，ed 给过去、完成视角。词形本身只说明连接被解除，不规定所有螺纹一律向同一方向。",
+    "examples": [
+      [
+        "She unscrewed the lid and opened the jar.",
+        "她拧开盖子，打开了罐子。"
+      ],
+      [
+        "He unscrewed the handle from the frame.",
+        "他把把手从框架上旋了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unscrewed#English",
+      "https://en.wiktionary.org/wiki/unscrew#English"
+    ]
+  },
+  {
+    "word": "unscrewing",
+    "ipa": "/ʌnˈskruːɪŋ/",
+    "meaning": "正在拧开、旋下；解除旋紧的过程",
+    "sense": "螺纹连接正在一圈圈松开，就是 unscrewing。和 screwing 的旋入、旋紧方向形成对应。",
+    "split": "un- + screw → unscrew，整词直接加 -ing。末尾 w 保留，不加额外辅音字母。",
+    "history": [
+      [
+        "un- + screw → unscrew",
+        "反向解除旋紧"
+      ],
+      [
+        "unscrew + -ing → unscrewing",
+        "正在旋出、拧开；相应过程"
+      ]
+    ],
+    "explanation": "unscrewing the lid 正在拧开盖子；unscrewing the handle 正在旋下把手。",
+    "usage": "finish unscrewing 拧开、旋下完毕；unscrewing the cap 拧开瓶盖。",
+    "contrast": "unscrewing 关注过程；unscrewed 可写过去动作或已解除连接的状态。实际对象帮你判断是盖子还是紧固件。",
+    "examples": [
+      [
+        "He was unscrewing the cap when she arrived.",
+        "她到时，他正在拧开瓶盖。"
+      ],
+      [
+        "They removed the panel by unscrewing the fasteners.",
+        "他们旋下紧固件，把面板取了下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unscrewing#English",
+      "https://en.wiktionary.org/wiki/unscrew#English"
+    ]
+  },
+  {
+    "word": "sanded",
+    "ipa": "/ˈsændɪd/",
+    "meaning": "打磨了、砂磨过的；撒过沙的",
+    "sense": "用带砂粒的材料磨过表面，让它平顺些，是 sanded；在地面撒沙，也能用同一个动作形式。",
+    "split": "sand 继承古英语材料名，后来有用沙覆盖、用砂磨的动词。现代加 -ed，/d/ 后增加 /ɪd/ 音节。",
+    "history": [
+      [
+        "古英语 sand → 材料、相关动词",
+        "沙；撒沙、用砂磨"
+      ],
+      [
+        "sand + -ed → sanded",
+        "过去磨了、撒了沙；对应结果状态"
+      ]
+    ],
+    "explanation": "sanded wood 打磨过的木头；sanded the surface 磨过表面。",
+    "usage": "smoothly sanded 打磨平滑的；sanded the path 给小路撒了沙。",
+    "contrast": "sanded 可能是去掉表面粗糙部分，也可能是加上一层沙；材料和动作对象一起决定方向。",
+    "examples": [
+      [
+        "She sanded the wooden surface before painting.",
+        "她刷漆前打磨了木表面。"
+      ],
+      [
+        "The sanded boards felt smooth.",
+        "打磨过的木板摸起来平滑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sanded#English",
+      "https://en.wiktionary.org/wiki/sand#English"
+    ]
+  },
+  {
+    "word": "sanders",
+    "ipa": "英 /ˈsændəz/；美 /ˈsændərz/",
+    "meaning": "砂磨机、打磨工具；打磨者〔复数〕",
+    "sense": "把砂磨材料带动起来磨平表面的设备，是 sanders。词尾 -er 让 sand 的打磨动作变成作用物、执行者。",
+    "split": "sand 动词 + -er → sander，再加复数 -s，尾 /z/。现代常见为电动砂磨设备，也可按语境指人。",
+    "history": [
+      [
+        "sand + -er → sander",
+        "打磨动作 → 执行者、工具"
+      ],
+      [
+        "sander + -s → sanders",
+        "多个砂磨设备或打磨者"
+      ]
+    ],
+    "explanation": "electric sanders 电动砂磨机；orbital sanders 轨道式砂磨机。",
+    "usage": "sanders in the workshop 车间里的砂磨设备；repair the sanders 修理砂磨机。",
+    "contrast": "sand 是动作基础，sanding 是过程，sander 是做这件事的人或机器。把这几个形式连起来学，角色会很清楚。",
+    "examples": [
+      [
+        "The workshop has two electric sanders.",
+        "车间有两台电动砂磨机。"
+      ],
+      [
+        "They stored the sanders beside the drills.",
+        "他们把砂磨机放在电钻旁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sanders#English",
+      "https://en.wiktionary.org/wiki/sander#English"
+    ]
+  },
+  {
+    "word": "polisher",
+    "ipa": "英 /ˈpɒlɪʃə/；美 /ˈpɑːlɪʃər/",
+    "meaning": "抛光者；抛光机、擦亮工具",
+    "sense": "把表面打磨到更平滑、发亮的人或机器，是 polisher。polish 给擦亮、打磨动作，-er 给执行者或工具。",
+    "split": "在已借入英语的 polish 动词后加 -er；polish 较早经法语接拉丁 polire。派生词 polisher 的现代构形清楚。",
+    "history": [
+      [
+        "拉丁 polire → 法语、英语 polish",
+        "打磨、擦亮"
+      ],
+      [
+        "polish + -er → polisher",
+        "做相应动作的人、设备"
+      ]
+    ],
+    "explanation": "a floor polisher 地板抛光机；a skilled polisher 熟练抛光工。",
+    "usage": "an electric polisher 电动抛光机；use a polisher 使用抛光设备。",
+    "contrast": "有职业、雇用等语境可指人，有电机、设备等语境则是机器。先抓共同的抛光作用，再认具体对象。",
+    "examples": [
+      [
+        "The cleaner used a floor polisher.",
+        "清洁工使用地板抛光机。"
+      ],
+      [
+        "He worked as a metal polisher.",
+        "他做金属抛光工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/polisher#English",
+      "https://en.wiktionary.org/wiki/polish#English"
+    ]
+  },
+  {
+    "word": "polishers",
+    "ipa": "英 /ˈpɒlɪʃəz/；美 /ˈpɑːlɪʃərz/",
+    "meaning": "抛光工、抛光设备〔复数〕",
+    "sense": "几位把金属磨亮的人，或几台给表面抛光的机器，都可叫 polishers。共同点是执行 polish 这个动作。",
+    "split": "polish + -er → polisher，再加复数 -s，尾 /z/。这个 er 是执行者、作用物名词尾。",
+    "history": [
+      [
+        "polish + -er → polisher",
+        "动作名变成人、工具名"
+      ],
+      [
+        "polisher + -s → polishers",
+        "多个抛光者、抛光机"
+      ]
+    ],
+    "explanation": "floor polishers 地板抛光机；metal polishers 金属抛光工、设备〔看语境〕。",
+    "usage": "electric polishers 电动抛光设备；hire polishers 雇抛光工。",
+    "contrast": "polishes 可能是擦亮动词或光亮用品；polishers 多了一层 er，强调谁、什么设备在做这个动作。",
+    "examples": [
+      [
+        "The company repairs floor polishers.",
+        "这家公司修理地板抛光机。"
+      ],
+      [
+        "The workshop employed several metal polishers.",
+        "车间雇了几位金属抛光工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/polishers#English",
+      "https://en.wiktionary.org/wiki/polisher#English"
+    ]
+  },
+  {
+    "word": "tightens",
+    "ipa": "/ˈtaɪtənz/",
+    "meaning": "拧紧、收紧；变紧〔第三人称单数〕",
+    "sense": "空隙变小、松动余地变少，就是 tightens。螺丝可以拧紧，绳子可以绷紧，规定也可以收紧。",
+    "split": "现代 tighten 对应 tight + -en；更早有古英语相关动词材料与现代形式交织。加 -s，/n/ 后读 /z/，tight 中 gh 不发音。",
+    "history": [
+      [
+        "tight + -en 的现代对应；旧动词材料交织",
+        "使紧、变紧"
+      ],
+      [
+        "tighten + -s → tightens",
+        "某人收紧；某物变紧"
+      ]
+    ],
+    "explanation": "tightens the screw 拧紧螺丝；tightens the rules 收紧规定。",
+    "usage": "the rope tightens 绳子绷紧；tightens the belt 收紧带子。",
+    "contrast": "主语可主动使它紧，也可以是东西自己变紧。抽象规定收紧时，可理解为允许的余地变小。",
+    "examples": [
+      [
+        "She tightens the screw with a screwdriver.",
+        "她用螺丝刀拧紧螺丝。"
+      ],
+      [
+        "The rope tightens as the boat moves away.",
+        "船离开时，绳子绷紧了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tightens#English",
+      "https://en.wiktionary.org/wiki/tighten#English"
+    ]
+  },
+  {
+    "word": "tightened",
+    "ipa": "/ˈtaɪtənd/",
+    "meaning": "拧紧了、收紧了；变紧的",
+    "sense": "原来松动的地方被收紧，动作已经发生，就是 tightened。它可以描述螺丝、带子，也可描述规定、控制。",
+    "split": "tighten 的现代构形对应 tight + -en，整词加完整 -ed；/n/ 后读 /d/，不增加 /ɪd/。",
+    "history": [
+      [
+        "tight → tighten",
+        "使紧、变紧的动词"
+      ],
+      [
+        "tighten + -ed → tightened",
+        "过去拧紧、收紧；已变紧的状态"
+      ]
+    ],
+    "explanation": "tightened the belt 收紧了带子；tightened controls 加强的控制。",
+    "usage": "tightened the screws 拧紧了螺丝；her face tightened 她的脸绷紧了。",
+    "contrast": "描述脸、声音时，tightened 可体现紧张、克制等绷紧感。仍围绕余地减少、肌肉或结构收紧来理解。",
+    "examples": [
+      [
+        "He tightened the loose screws.",
+        "他拧紧了松螺丝。"
+      ],
+      [
+        "She tightened her grip on the rope.",
+        "她把绳子抓得更紧了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tightened#English",
+      "https://en.wiktionary.org/wiki/tighten#English"
+    ]
+  },
+  {
+    "word": "tightening",
+    "ipa": "/ˈtaɪtənɪŋ/",
+    "meaning": "正在拧紧、收紧；收紧过程",
+    "sense": "松动余地正在一点点缩小，就是 tightening。动作还在进行，或把整个收紧过程拿出来谈，都可用它。",
+    "split": "tighten 直接加 -ing；词末 en 所在音节不重读，不额外双写。词形由现代 tight 加 en 对应，更早的历史另有旧动词材料。",
+    "history": [
+      [
+        "tight 的紧密性质 → tighten",
+        "使紧、变紧"
+      ],
+      [
+        "tighten + -ing → tightening",
+        "收紧进行、收紧活动"
+      ]
+    ],
+    "explanation": "tightening the screws 正在拧螺丝；a tightening of controls 控制的收紧。",
+    "usage": "tightening her grip 抓得更紧；tightening the belt 收带子。",
+    "contrast": "a tightening 是把程度变化当作一次过程来谈；is tightening 则常写具体进行动作。",
+    "examples": [
+      [
+        "He was tightening the screws when we arrived.",
+        "我们到时，他正在拧紧螺丝。"
+      ],
+      [
+        "The report describes a tightening of entry rules.",
+        "报告描述了准入规定的收紧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tightening#English",
+      "https://en.wiktionary.org/wiki/tighten#English"
+    ]
+  },
+  {
+    "word": "loosens",
+    "ipa": "/ˈluːsənz/",
+    "meaning": "弄松、放宽；变松〔第三人称单数〕",
+    "sense": "原来紧的地方留出了更多活动余地，就是 loosens。带子松一点，限制放宽一点，都能沿这个画面理解。",
+    "split": "loose + -en → loosen，末尾 e 在形成 en 时不重复。现代加 -s，词干 s 读清 /s/，最后的三单尾则在 /n/ 后读 /z/。",
+    "history": [
+      [
+        "loose + -en → loosen",
+        "松的 → 使松、变松"
+      ],
+      [
+        "loosen + -s → loosens",
+        "某人放松；某物变松"
+      ]
+    ],
+    "explanation": "loosens the knot 松开绳结；loosens restrictions 放宽限制。",
+    "usage": "the screw loosens 螺丝松动；loosens her grip 放松抓握。",
+    "contrast": "loosens 中有两处 s 的拼写，分别位于词干和变化尾，发音功能不同。lose 丢失则是另一个动词。",
+    "examples": [
+      [
+        "She loosens the knot with her fingers.",
+        "她用手指松开绳结。"
+      ],
+      [
+        "The screw loosens over time.",
+        "螺丝逐渐松动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loosens#English",
+      "https://en.wiktionary.org/wiki/loosen#English"
+    ]
+  },
+  {
+    "word": "loosened",
+    "ipa": "/ˈluːsənd/",
+    "meaning": "弄松了、放宽了；变松的",
+    "sense": "束得紧的带子已经松一些，就是 loosened。对象是规定、抓握时，也是在说限制、力度减少。",
+    "split": "loose 加 -en 形成 loosen，整词再加完整 -ed；/n/ 后读 /d/，词干 /s/ 仍清。",
+    "history": [
+      [
+        "loose → loosen",
+        "使松、变松"
+      ],
+      [
+        "loosen + -ed → loosened",
+        "过去弄松、放宽；相应完成状态"
+      ]
+    ],
+    "explanation": "loosened the knot 松开了结；loosened restrictions 放宽的限制。",
+    "usage": "loosened her grip 放松了抓握；a loosened screw 松动的螺丝。",
+    "contrast": "loosened 可以只是松一点，还没完全解除连接；untied 则更直接说明结已经被解开。",
+    "examples": [
+      [
+        "He loosened the knot before pulling the rope free.",
+        "他先松了结，再把绳子抽出。"
+      ],
+      [
+        "She loosened her grip on the handle.",
+        "她放松了握把手的力度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loosened#English",
+      "https://en.wiktionary.org/wiki/loosen#English"
+    ]
+  },
+  {
+    "word": "loosening",
+    "ipa": "/ˈluːsənɪŋ/",
+    "meaning": "正在弄松、放宽；松动的过程",
+    "sense": "原来紧绷、受限制的状态正在放松，就是 loosening。可以看实际连接，也可以看规则允许的空间。",
+    "split": "loosen 直接加 -ing，en 音节不重读，不额外双写；现代 loosen 对应 loose 加 -en 的使成构形。",
+    "history": [
+      [
+        "loose + -en → loosen",
+        "使松、变松"
+      ],
+      [
+        "loosen + -ing → loosening",
+        "正在放松；松动、放宽活动"
+      ]
+    ],
+    "explanation": "loosening the knot 正在松结；a loosening of restrictions 限制的放宽。",
+    "usage": "loosening her grip 松开抓握；loosening screws 拧松螺丝。",
+    "contrast": "loosening 和 tightening 可以连着记：一个让活动余地增大，一个让余地缩小。两者都可由实物走到规则、控制的比喻。",
+    "examples": [
+      [
+        "She was loosening the knot with both hands.",
+        "她正在双手松开绳结。"
+      ],
+      [
+        "The change led to a loosening of restrictions.",
+        "这项变化带来了限制的放宽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loosening#English",
+      "https://en.wiktionary.org/wiki/loosen#English"
+    ]
+  }
+]

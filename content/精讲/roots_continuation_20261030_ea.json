@@ -1,0 +1,35 @@
+[
+  {
+    "id": "B3241",
+    "meaning": "奶、挤奶与乳白形象的扩展",
+    "core": "MILK：能被挤出的乳液，后来也借给颜色、汁液和反复榨取",
+    "image": "milk → milky、milking；milkshake、buttermilk 是饮品乳品，milkman 是配送人物，milkweed 取乳白汁液形象。",
+    "intro": "奶名词与挤奶动词是同族不同旧形式，现代同形。buttermilk 不等于往牛奶加黄油，milkweed 不会产动物乳。",
+    "forms": "meolc 等 → milk 名词，melcan → milk 动词；milk + -y/-ing；milk + shake/man/weed；butter + milk。",
+    "branches": [
+      [
+        "基础、性质与过程",
+        "milk · milky · milking"
+      ],
+      [
+        "乳品、配送与植物",
+        "milkshake · buttermilk · milkman · milkweed"
+      ]
+    ],
+    "contrasts": "milky 外观不保证含奶；milkshake 配方非唯一；buttermilk 旧工序与现代培养产品分；milkweed 是植物俗名。",
+    "practice": "The milkman delivered milk, and she used some to make a milkshake.\n\n送奶工送来牛奶，她用其中一些做了奶昔。",
+    "words": [
+      "milk",
+      "milky",
+      "milking",
+      "milkshake",
+      "buttermilk",
+      "milkman",
+      "milkweed"
+    ],
+    "exclude": {
+      "milk-white": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "milk-cap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

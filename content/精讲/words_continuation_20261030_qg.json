@@ -1,0 +1,1228 @@
+[
+  {
+    "word": "guitar",
+    "ipa": "英 /ɡɪˈtɑː/；美 /ɡɪˈtɑːr/",
+    "meaning": "吉他",
+    "sense": "一只手按住琴颈上的弦，另一只手拨弦或扫弦：这是吉他最容易认出的演奏画面。",
+    "split": "英语有法语 guitare 与直接西班牙语 guitarra 的传播路线，较远接希腊 kithara、拉丁 cithara 等弦乐器名。阿拉伯 qīthāra 在相关语言间的借用方向有不同分析，不排成唯一确定的单线。",
+    "history": [
+      [
+        "希腊 kithara → 拉丁 cithara → 古法语相关形式",
+        "弦乐器名称传播，器物形制并非处处相同"
+      ],
+      [
+        "法语 guitare；西班牙 guitarra → 英语 guitar",
+        "法语形式受西班牙等形式影响，英语也直接借西班牙形式"
+      ],
+      [
+        "阿拉伯 qīthāra 等相关形式",
+        "具体传播先后、借用方向有不同词源分析"
+      ]
+    ],
+    "explanation": "play the guitar 弹吉他；acoustic guitar 原声吉他；electric guitar 电吉他。日常典型吉他有六根弦，但也有其他弦数。",
+    "usage": "play the guitar；an electric guitar。",
+    "contrast": "guitar 是乐器，guitarist 是弹它的人；它与 sitar 印度西塔琴不能只按相似词尾当作同一个词。",
+    "examples": [
+      [
+        "He plays the guitar in a local band.",
+        "他在一支当地乐队里弹吉他。"
+      ],
+      [
+        "She bought an acoustic guitar to practise at home.",
+        "她买了一把原声吉他在家练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guitar#English",
+      "https://www.etymonline.com/word/guitar"
+    ]
+  },
+  {
+    "word": "guitarist",
+    "ipa": "英 /ɡɪˈtɑːrɪst/；美 /ɡɪˈtɑːrɪst/",
+    "meaning": "吉他手；吉他演奏者",
+    "sense": "把镜头从那把吉他移到弹琴的人，就从 guitar 到 guitarist。",
+    "split": "guitar + -ist；-ist 把乐器名接到相应的演奏者。这里不需要先有某种 guitarism 思想。",
+    "history": [
+      [
+        "guitar",
+        "吉他"
+      ],
+      [
+        "guitar + -ist → guitarist",
+        "弹吉他的人"
+      ]
+    ],
+    "explanation": "a lead guitarist 主音吉他手；a rhythm guitarist 节奏吉他手；可以是职业演奏者，也可以是业余乐手。",
+    "usage": "a talented guitarist；the band’s guitarist。",
+    "contrast": "guitarist 说演奏角色，musician 范围更广；不能把 guitarist 当作吉他本身。",
+    "examples": [
+      [
+        "The guitarist played a short solo.",
+        "吉他手演奏了一小段独奏。"
+      ],
+      [
+        "Our guitarist also writes most of the songs.",
+        "我们的吉他手还负责写大多数歌曲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guitarist#English"
+    ]
+  },
+  {
+    "word": "pianist",
+    "ipa": "英 /ˈpɪənɪst/；美 /ˈpiːənɪst/",
+    "meaning": "钢琴演奏者；钢琴家",
+    "sense": "坐到钢琴前弹奏的人是 pianist，是否已经成名不由这个后缀决定。",
+    "split": "借法语 pianiste，材料是 piano 与 -iste；piano 又缩自意大利语 pianoforte。现代可对应 piano 去末尾 o + -ist，而不是读成完整 piano 后再机械接音。",
+    "history": [
+      [
+        "意大利 pianoforte → piano",
+        "钢琴的名称缩短"
+      ],
+      [
+        "法语 pianiste → 英语 pianist",
+        "弹钢琴的人"
+      ]
+    ],
+    "explanation": "a concert pianist 音乐会钢琴家；a jazz pianist 爵士钢琴手。音标这里列牛津学习词典的一组常见英美读法，实际还有读音变体。",
+    "usage": "a concert pianist；an accomplished pianist。",
+    "contrast": "piano 是钢琴，pianist 是人；a famous pianist 强调著名，但 pianist 本身不等于世界级大师。",
+    "examples": [
+      [
+        "The pianist accompanied the singer.",
+        "钢琴演奏者为歌手伴奏。"
+      ],
+      [
+        "She hopes to become a professional pianist.",
+        "她希望成为职业钢琴演奏者。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/pianist"
+    ]
+  },
+  {
+    "word": "violin",
+    "ipa": "/ˌvaɪəˈlɪn/",
+    "meaning": "小提琴",
+    "sense": "把琴夹在肩颈附近，一手按弦，一手拉弓：这是小提琴常见的画面。",
+    "split": "借意大利语 violino，是 viola 乐器名的指小形式，-ino 表小。英语不是 vio + lin；“小”来自历史构词，并不表示儿童玩具。",
+    "history": [
+      [
+        "意大利 viola + -ino → violino",
+        "较小的相应弦乐器名称"
+      ],
+      [
+        "英语 violin",
+        "小提琴"
+      ]
+    ],
+    "explanation": "play the violin 拉小提琴；a violin concerto 小提琴协奏曲。也可拨弦，不是所有声音都靠弓拉出。",
+    "usage": "play the violin；a violin lesson。",
+    "contrast": "violin 小提琴与 viola 中提琴、cello 大提琴是相关但不同的乐器，不按中文大小随便互换。",
+    "examples": [
+      [
+        "She began learning the violin at seven.",
+        "她七岁开始学小提琴。"
+      ],
+      [
+        "The violin needs new strings.",
+        "这把小提琴需要换弦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/violin#English"
+    ]
+  },
+  {
+    "word": "violinist",
+    "ipa": "/ˌvaɪəˈlɪnɪst/",
+    "meaning": "小提琴演奏者；小提琴家",
+    "sense": "violin 是手里的琴，violinist 是拉这把琴的人。",
+    "split": "violin + -ist，可与法语 violoniste 等相应形式对照。后缀标演奏者，原来的词尾 n 仍保留。",
+    "history": [
+      [
+        "violin",
+        "小提琴"
+      ],
+      [
+        "violin + -ist → violinist",
+        "小提琴演奏者"
+      ]
+    ],
+    "explanation": "a solo violinist 小提琴独奏者；the first violinist 可说第一小提琴手，具体席位看乐团语境。",
+    "usage": "a young violinist；a solo violinist。",
+    "contrast": "violinist 不等于所有 string players 弦乐演奏者；大提琴演奏者通常叫 cellist。",
+    "examples": [
+      [
+        "A young violinist opened the concert.",
+        "一位年轻的小提琴演奏者为音乐会开场。"
+      ],
+      [
+        "The violinist adjusted her bow before the next piece.",
+        "下一首曲子开始前，小提琴手调整了一下琴弓。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/violinist#English"
+    ]
+  },
+  {
+    "word": "cello",
+    "ipa": "英 /ˈtʃeləʊ/；美 /ˈtʃeloʊ/",
+    "meaning": "大提琴",
+    "sense": "演奏者坐着，把较大的琴放在两膝间，琴脚支在地上；这就是大提琴最直观的画面。",
+    "split": "由意大利语 violoncello 缩短。较长词中 violone 是较大的相关弦乐器名，-cello 是指小材料；缩短后 cello 成为现代乐器名。词首 c 在这里读 /tʃ/。",
+    "history": [
+      [
+        "意大利 violone + 指小材料 → violoncello",
+        "相关弦乐器的历史名称"
+      ],
+      [
+        "violoncello 缩短 → cello",
+        "英语常用的大提琴名"
+      ]
+    ],
+    "explanation": "play the cello 拉大提琴；a cello solo 大提琴独奏。英语复数 cellos，也可见 celli。",
+    "usage": "play the cello；a cello case。",
+    "contrast": "cello 的大小不能只拿历史指小后缀猜：今天它比 violin 大，但词中指小关系来自更早的另一层乐器名称。",
+    "examples": [
+      [
+        "He carried his cello onto the train.",
+        "他把大提琴带上了火车。"
+      ],
+      [
+        "The piece begins with a quiet cello solo.",
+        "这首曲子以一段轻柔的大提琴独奏开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cello#English"
+    ]
+  },
+  {
+    "word": "cellist",
+    "ipa": "/ˈtʃelɪst/",
+    "meaning": "大提琴演奏者；大提琴家",
+    "sense": "从放在膝间的大提琴，转到演奏它的人：cello → cellist。",
+    "split": "cello 去末尾 o + -ist，接相应演奏者名；保留 cello 的词首 /tʃ/，不读成英语 cell 细胞的 /s/。",
+    "history": [
+      [
+        "cello",
+        "大提琴"
+      ],
+      [
+        "cell- + -ist → cellist",
+        "大提琴演奏者"
+      ]
+    ],
+    "explanation": "a solo cellist 大提琴独奏家；an orchestral cellist 管弦乐团大提琴手。",
+    "usage": "a gifted cellist；the orchestra’s cellist。",
+    "contrast": "cellist 不是 cell 细胞的专家；细胞学相关职业要用实际的学科名称。",
+    "examples": [
+      [
+        "The cellist rehearsed with the pianist.",
+        "大提琴手与钢琴手一起排练。"
+      ],
+      [
+        "She is the youngest cellist in the orchestra.",
+        "她是乐团里最年轻的大提琴手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cellist#English"
+    ]
+  },
+  {
+    "word": "harp",
+    "ipa": "英 /hɑːp/；美 /hɑːrp/",
+    "meaning": "竖琴；反复唠叨〔harp on〕",
+    "sense": "一排长短不同的弦张在框架里，手指直接拨出声音，是竖琴；说话反复拨同一个话题，又像一直弹同一根弦。",
+    "split": "本族词，承古英语 hearpe 乐器名；相关动词早有演奏义，后来 harp on 引申反复谈某事。更远来源不必硬拆出一个现代英语词根。",
+    "history": [
+      [
+        "古英语 hearpe、hearpian",
+        "竖琴；弹竖琴"
+      ],
+      [
+        "现代 harp；harp on",
+        "竖琴；反复纠缠同一话题"
+      ]
+    ],
+    "explanation": "play the harp 弹竖琴；harp on about a mistake 老是唠叨某个错误。口语音乐语境 harp 也可能缩指口琴，要看场景。",
+    "usage": "play the harp；harp on about something。",
+    "contrast": "harp on 常带不耐烦：不是一次正常讨论，也不一定是认真研究。",
+    "examples": [
+      [
+        "Soft harp music filled the room.",
+        "轻柔的竖琴声飘满房间。"
+      ],
+      [
+        "He keeps harping on about one small mistake.",
+        "他一直揪着一个小错误唠叨。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/harp"
+    ]
+  },
+  {
+    "word": "harpist",
+    "ipa": "英 /ˈhɑːpɪst/；美 /ˈhɑːrpɪst/",
+    "meaning": "竖琴演奏者",
+    "sense": "harp 是竖琴，harpist 是坐在琴旁拨弦的人。",
+    "split": "harp + -ist，乐器加人的后缀。这里取竖琴义，不是把 harp on 唠叨套成唠叨专家。",
+    "history": [
+      [
+        "harp",
+        "竖琴"
+      ],
+      [
+        "harp + -ist → harpist",
+        "竖琴演奏者"
+      ]
+    ],
+    "explanation": "a professional harpist 职业竖琴演奏者；a concert harpist 音乐会竖琴手。",
+    "usage": "a harpist；a skilled harpist。",
+    "contrast": "harpist 通常指竖琴演奏者；不要把这个词理解成所有被口语称作 harp 的乐器演奏者。",
+    "examples": [
+      [
+        "A harpist played during the reception.",
+        "招待会期间，一位竖琴手在演奏。"
+      ],
+      [
+        "The harpist tuned the strings before the concert.",
+        "音乐会前，竖琴手给琴弦调音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/harpist#English"
+    ]
+  },
+  {
+    "word": "saxophonist",
+    "ipa": "英 /ˌsækˈsɒfənɪst/；美 /ˈsæksəfoʊnɪst/",
+    "meaning": "萨克斯管演奏者",
+    "sense": "手里拿着带弯管、按键的萨克斯管吹奏，表演者就是 saxophonist。",
+    "split": "saxophone 去末尾 e + -ist；乐器名取自发明者 Adolphe Sax 的姓与 -phone 声音的材料。不是英语 sax 表某个动作。",
+    "history": [
+      [
+        "Sax + -phone → saxophone",
+        "以发明者姓氏命名的乐器"
+      ],
+      [
+        "saxophone + -ist → saxophonist",
+        "演奏萨克斯管的人"
+      ]
+    ],
+    "explanation": "a jazz saxophonist 爵士萨克斯手；an alto saxophonist 中音萨克斯手。",
+    "usage": "a jazz saxophonist；the band’s saxophonist。",
+    "contrast": "saxophonist 是人，saxophone 是乐器；不能因管体常是金属就把它按材料简单等同于所有铜管乐手。",
+    "examples": [
+      [
+        "The saxophonist led the jazz quartet.",
+        "萨克斯手领奏这支爵士四重奏。"
+      ],
+      [
+        "We invited a saxophonist to record the melody.",
+        "我们请了一位萨克斯手录制旋律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saxophonist#English"
+    ]
+  },
+  {
+    "word": "keyboardist",
+    "ipa": "英 /ˈkiːbɔːdɪst/；美 /ˈkiːbɔːrdɪst/",
+    "meaning": "键盘乐器演奏者；键盘手",
+    "sense": "乐队里站在电子琴、合成器等键盘乐器后演奏的那个人，常叫 keyboardist。",
+    "split": "keyboard 键盘、键盘乐器 + -ist。这里取音乐义，不是电脑键盘打字的人。",
+    "history": [
+      [
+        "key + board → keyboard",
+        "按键排列的面板；键盘乐器"
+      ],
+      [
+        "keyboard + -ist → keyboardist",
+        "演奏键盘乐器的人"
+      ]
+    ],
+    "explanation": "the band’s keyboardist 乐队键盘手；可演奏电子琴、合成器等，不仅限传统钢琴。",
+    "usage": "a keyboardist；a singer and keyboardist。",
+    "contrast": "pianist 专指钢琴演奏者，keyboardist 常在乐队语境覆盖更广的键盘乐器。",
+    "examples": [
+      [
+        "Our keyboardist created the opening sound.",
+        "我们的键盘手做出了开头的音色。"
+      ],
+      [
+        "She joined the band as a singer and keyboardist.",
+        "她以歌手兼键盘手的身份加入乐队。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/keyboardist#English"
+    ]
+  },
+  {
+    "word": "medal",
+    "ipa": "/ˈmedəl/",
+    "meaning": "奖牌；奖章",
+    "sense": "比赛结束，获奖者脖子上挂的一块金属牌是 medal；纪念或表彰用的奖章也可这样叫。",
+    "split": "经法语 médaille 接意大利语 medaglia、中世纪拉丁 medalia 等钱币名材料，后来用于纪念、奖励的金属章。不要因为更早的钱币名涉及半数，就说现代奖牌固定表示半个奖。",
+    "history": [
+      [
+        "意大利 medaglia → 法语 médaille",
+        "钱币、金属纪念章等名称"
+      ],
+      [
+        "英语 medal",
+        "奖章；比赛奖牌"
+      ]
+    ],
+    "explanation": "win a medal 赢奖牌；a gold medal 金牌；a medal for bravery 英勇奖章。",
+    "usage": "win a gold medal；an Olympic medal。",
+    "contrast": "medal 是奖章，metal 是金属，读音接近但不是同一个词；trophy 多说奖杯或其他奖品形体。",
+    "examples": [
+      [
+        "She won a silver medal in the final.",
+        "她在决赛中获得银牌。"
+      ],
+      [
+        "The museum displays his medals for bravery.",
+        "博物馆展出了他的英勇奖章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medal#English"
+    ]
+  },
+  {
+    "word": "medalist",
+    "ipa": "/ˈmedəlɪst/",
+    "meaning": "奖牌获得者〔常见美式拼写〕",
+    "sense": "medal 是领奖的牌，medalist 是拿到牌的人。可以拿铜牌，不专指冠军。",
+    "split": "medal + -ist；美式常写 medalist，英式常写 medallist。这里 -ist 标获得某种荣誉的人，不是研究奖牌的专家。",
+    "history": [
+      [
+        "medal",
+        "奖牌、奖章"
+      ],
+      [
+        "medal + -ist → medalist",
+        "获奖牌的人"
+      ]
+    ],
+    "explanation": "a gold medalist 金牌得主；an Olympic medalist 奥运奖牌获得者。",
+    "usage": "a silver medalist；an Olympic medalist。",
+    "contrast": "medalist 不一定是 winner 冠军；银牌和铜牌得主也属于 medalists。",
+    "examples": [
+      [
+        "The Olympic medalist visited her old school.",
+        "这位奥运奖牌得主回访了母校。"
+      ],
+      [
+        "He became the youngest medalist in the event.",
+        "他成为这项赛事最年轻的奖牌获得者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medalist#English"
+    ]
+  },
+  {
+    "word": "medallist",
+    "ipa": "/ˈmedəlɪst/",
+    "meaning": "奖牌获得者〔常见英式拼写〕",
+    "sense": "和 medalist 是同一个身份；多出来的 l 是拼写习惯，不是多领一块牌。",
+    "split": "medal + -ist，英式常双写 l → medallist；美式常见 medalist。词义和基本读音相同。",
+    "history": [
+      [
+        "medal + -ist",
+        "从奖牌名构成人物名"
+      ],
+      [
+        "medallist／medalist",
+        "常见英美拼写差别"
+      ]
+    ],
+    "explanation": "a gold medallist 金牌得主；a bronze medallist 铜牌得主。写作时随所选英美拼写规范保持一致。",
+    "usage": "an Olympic medallist；a bronze medallist。",
+    "contrast": "medallist 是得奖牌的人，不是 medal 奖牌本身；两种拼写通常不表示两种不同级别。",
+    "examples": [
+      [
+        "The bronze medallist thanked her coach.",
+        "铜牌得主感谢了教练。"
+      ],
+      [
+        "Several former medallists attended the ceremony.",
+        "几位往届奖牌获得者参加了仪式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medallist#English"
+    ]
+  },
+  {
+    "word": "lobby",
+    "ipa": "英 /ˈlɒbi/；美 /ˈlɑːbi/",
+    "meaning": "大厅、门厅；游说；利益游说团体",
+    "sense": "先是一座楼里供人等候、碰面的大厅；走到议会场景，人们在那里接触议员、表达诉求，就接出了游说这一条线。",
+    "split": "经中世纪拉丁 lobia、lobium 等有顶通道、廊道的材料，远与日耳曼语材料有关。政治义与立法机关大厅里接触议员的活动相连。现代不拆成 lob + by。",
+    "history": [
+      [
+        "中世纪拉丁 lobia、lobium → lobby",
+        "廊道、大厅"
+      ],
+      [
+        "议会大厅里的接触活动 → lobby 动词、团体名",
+        "游说；争取政策利益的团体"
+      ]
+    ],
+    "explanation": "wait in the lobby 在大厅等；lobby for reform 游说推动改革；lobby the government 游说政府；the transport lobby 交通业游说团体。",
+    "usage": "a hotel lobby；lobby for change。",
+    "contrast": "lobby 表达影响决策的游说，不自动等于 bribe 贿赂；是否涉及违法行为要由事实判断，不能从这个单词直接推出。",
+    "examples": [
+      [
+        "I will meet you in the hotel lobby.",
+        "我会在酒店大厅和你见面。"
+      ],
+      [
+        "Residents are lobbying for a safer crossing.",
+        "居民们正游说争取设置更安全的人行过街设施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lobby#English"
+    ]
+  },
+  {
+    "word": "lobbyist",
+    "ipa": "英 /ˈlɒbiɪst/；美 /ˈlɑːbiɪst/",
+    "meaning": "游说者；游说团体代表",
+    "sense": "把某个群体的诉求带到决策者面前、争取政策支持的人，叫 lobbyist。",
+    "split": "lobby 游说 + -ist；这里保留 y，不写成 lobbist。人的名称承接政治活动义，不是酒店大堂接待员。",
+    "history": [
+      [
+        "lobby",
+        "游说、争取政策支持"
+      ],
+      [
+        "lobby + -ist → lobbyist",
+        "从事游说的人"
+      ]
+    ],
+    "explanation": "a lobbyist for an industry 某行业的游说代表；hire a lobbyist 雇用游说代表。",
+    "usage": "a professional lobbyist；an industry lobbyist。",
+    "contrast": "lobbyist 与 hotel receptionist 酒店前台不同；也不能把这个职业名直接当作腐败者的同义词。",
+    "examples": [
+      [
+        "The group hired a lobbyist to present its concerns.",
+        "该团体聘请了一位游说代表表达他们的关切。"
+      ],
+      [
+        "A lobbyist met lawmakers to discuss the proposal.",
+        "一位游说代表会见议员，讨论那项提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lobbyist#English"
+    ]
+  },
+  {
+    "word": "alchemy",
+    "ipa": "/ˈælkəmi/",
+    "meaning": "炼金术；奇妙的转化、融合〔比喻〕",
+    "sense": "历史上试图改变物质、把普通金属变成贵金属等的技艺，叫 alchemy；今天说 the alchemy of music，也可能只是说音乐带来的奇妙变化。",
+    "split": "经法语、 中世纪拉丁语接阿拉伯语 al-kīmiyā；al- 是阿拉伯语定冠词。更远与希腊语、埃及名称的关系有争论，不强定为唯一故事。",
+    "history": [
+      [
+        "阿拉伯 al-kīmiyā → 中世纪拉丁 alchimia 等",
+        "炼金技艺名称"
+      ],
+      [
+        "英语 alchemy",
+        "历史炼金术；比喻奇妙转化"
+      ]
+    ],
+    "explanation": "medieval alchemy 中世纪炼金术；the alchemy between two performers 两位表演者产生的奇妙配合。历史信念不等于那些目标已被证明能按古法实现。",
+    "usage": "the history of alchemy；a strange alchemy。",
+    "contrast": "alchemy 与现代 chemistry 化学有词源联系，今天却不是同一学科名称；比喻义也不表示真实发生了金属转化。",
+    "examples": [
+      [
+        "The exhibition explores the history of alchemy.",
+        "展览探讨炼金术的历史。"
+      ],
+      [
+        "The film captures the strange alchemy of friendship.",
+        "影片捕捉到了友谊带来的奇妙变化。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/alchemy"
+    ]
+  },
+  {
+    "word": "alchemist",
+    "ipa": "/ˈælkəmɪst/",
+    "meaning": "炼金术士；善于奇妙转化的人〔比喻〕",
+    "sense": "在历史故事里研究物质变化、追寻炼金目标的人，是 alchemist；比喻时可说他能把普通材料变得惊艳。",
+    "split": "借法语 alquemiste、 中世纪拉丁 alchemista 一类人物名。现代对应 alchemy 的词干 + -ist，但不是说先有现代英语 alchemy，再一定由英语独立造出。",
+    "history": [
+      [
+        "中世纪拉丁 alchimia／alchemista、法语相关形式",
+        "炼金技艺及从事者"
+      ],
+      [
+        "英语 alchemy／alchemist",
+        "炼金术／炼金术士"
+      ]
+    ],
+    "explanation": "a medieval alchemist 中世纪炼金术士；a culinary alchemist 可比喻善于把食材变出新意的厨师。",
+    "usage": "a medieval alchemist；an alchemist’s workshop。",
+    "contrast": "alchemist 是历史炼金术士，不直接等同于现代职业 chemist 化学家。",
+    "examples": [
+      [
+        "The novel follows an alchemist searching for a lost manuscript.",
+        "小说讲述一位炼金术士寻找遗失手稿的故事。"
+      ],
+      [
+        "The chef is an alchemist with ordinary ingredients.",
+        "这位厨师能把普通食材变得令人惊艳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alchemist#English"
+    ]
+  },
+  {
+    "word": "archivist",
+    "ipa": "英 /ˈɑːkɪvɪst/；美 /ˈɑːrkɪvɪst/",
+    "meaning": "档案管理员；档案工作者",
+    "sense": "不是把旧纸堆起来，而是整理、保存、说明来历，让以后的人能找到并理解这些记录。做这项工作的人是 archivist。",
+    "split": "archive 去末尾 e + -ist，对应法语 archiviste 等形式。archive 中常见 /aɪ/，archivist 中常见 /ɪ/，不要逐字母照读。",
+    "history": [
+      [
+        "archive",
+        "档案、档案馆；保存档案"
+      ],
+      [
+        "archive + -ist → archivist",
+        "从事档案整理保存的人"
+      ]
+    ],
+    "explanation": "a museum archivist 博物馆档案工作者；a digital archivist 数字档案工作者，材料不一定是纸。",
+    "usage": "a university archivist；a digital archivist。",
+    "contrast": "archivist 注重记录的保存、来源与查用；librarian 图书馆员常处理图书等馆藏，两者工作可有交叉但名称不完全等同。",
+    "examples": [
+      [
+        "The archivist helped us locate the original letters.",
+        "档案管理员帮我们找到了信件原件。"
+      ],
+      [
+        "A digital archivist preserved the project’s early files.",
+        "一位数字档案工作者保存了项目早期文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/archivist#English"
+    ]
+  },
+  {
+    "word": "abolitionist",
+    "ipa": "英 /ˌæbəˈlɪʃənɪst/；美 /ˌæbəˈlɪʃənɪst/",
+    "meaning": "主张废除某制度者；废奴主义者〔常见历史义〕",
+    "sense": "不只是要求改好一点，而是主张把某项制度取消；历史材料里尤其常说主张废除奴隶制的人。",
+    "split": "abolition 废除 + -ist，前面已有 -tion 名词层；不是直接拿 abolish 不变再加 -ist。具体废除什么，要看历史或政策语境。",
+    "history": [
+      [
+        "abolish → 对应名词 abolition",
+        "废除某项制度"
+      ],
+      [
+        "abolition + -ist → abolitionist",
+        "主张废除的人"
+      ]
+    ],
+    "explanation": "the abolitionist movement 废奴运动等，具体所指由上下文确定；a death penalty abolitionist 主张废除死刑的人。",
+    "usage": "an abolitionist campaign；the abolitionist movement。",
+    "contrast": "abolitionist 主张废除，reformer 改革者可主张保留并修改；历史中的常见废奴义不应随意抹去。",
+    "examples": [
+      [
+        "The museum tells the stories of local abolitionists.",
+        "博物馆讲述当地废奴主义者的故事。"
+      ],
+      [
+        "She joined an abolitionist campaign against the death penalty.",
+        "她加入了主张废除死刑的运动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/abolitionist#English"
+    ]
+  },
+  {
+    "word": "conservationist",
+    "ipa": "英 /ˌkɒnsəˈveɪʃənɪst/；美 /ˌkɑːnsərˈveɪʃənɪst/",
+    "meaning": "自然环境、野生生物保护者",
+    "sense": "看见湿地被填、物种减少，努力把自然环境保留下来的人，可叫 conservationist。",
+    "split": "conservation 保护、保存 + -ist；通常接自然保护这一常见义，而不是泛指所有保存文件的人。",
+    "history": [
+      [
+        "conserve → conservation",
+        "保护、节约等行为或工作"
+      ],
+      [
+        "conservation + -ist → conservationist",
+        "尤其从事自然保护的人"
+      ]
+    ],
+    "explanation": "wildlife conservationists 野生生物保护者；a leading conservationist 知名自然保护人士。",
+    "usage": "a wildlife conservationist；local conservationists。",
+    "contrast": "conservationist 自然保护人士与 conservative 政治上的保守派不能混同；相近词形不代表政治立场相同。",
+    "examples": [
+      [
+        "Conservationists are working to restore the wetland.",
+        "自然保护人士正努力恢复那片湿地。"
+      ],
+      [
+        "The conservationist explained why the nesting area matters.",
+        "这位保护人士解释了那片筑巢区为何重要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conservationist#English"
+    ]
+  },
+  {
+    "word": "essay",
+    "ipa": "名词 /ˈeseɪ/；动词 /eˈseɪ/",
+    "meaning": "短文；论说文；尝试〔正式动词〕",
+    "sense": "围绕一个题目，用一篇不太长的文章试着展开、推敲观点，常叫 essay。不是只有学校里写的作文。",
+    "split": "借法语 essai 尝试、试验等，远接拉丁 exagium 称量、检验。文章像一次对问题的试探；现代不拆成 ess + ay。",
+    "history": [
+      [
+        "拉丁 exagium → 法语 essai",
+        "称量、检验 → 尝试"
+      ],
+      [
+        "英语 essay",
+        "尝试；探讨一个题目的短文"
+      ]
+    ],
+    "explanation": "write an essay 写短文；an essay on memory 关于记忆的随笔。动词 essay 尝试较正式，常见学习重点仍是名词。",
+    "usage": "write an essay；a collection of essays。",
+    "contrast": "essay 通常是展开观点或思考的文章，report 更常报告调查和事实；具体格式仍由任务要求决定。",
+    "examples": [
+      [
+        "We have to write an essay on urban life.",
+        "我们要写一篇关于城市生活的短文。"
+      ],
+      [
+        "Her essays combine personal memories with social observation.",
+        "她的随笔把个人回忆与社会观察结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/essay"
+    ]
+  },
+  {
+    "word": "essayist",
+    "ipa": "/ˈeseɪɪst/",
+    "meaning": "散文家；随笔、论说文作者",
+    "sense": "essay 是一篇篇随笔或论说文章，essayist 是以写这类文章见长的人。",
+    "split": "essay + -ist；与法语 essayiste 对应。保留 essay 的写法，词尾两个元音相接，不把它缩成 novelist 小说家。",
+    "history": [
+      [
+        "essay",
+        "围绕题目展开思考的文章"
+      ],
+      [
+        "essay + -ist → essayist",
+        "写这类文章的人"
+      ]
+    ],
+    "explanation": "a political essayist 政论随笔作者；an essayist and critic 随笔作家兼评论家。",
+    "usage": "a celebrated essayist；an essayist and critic。",
+    "contrast": "essayist 不是泛指写过一次学校作文的所有人；通常作为作者身份或擅长的体裁来介绍。",
+    "examples": [
+      [
+        "She is best known as an essayist and critic.",
+        "她最为人熟知的身份是随笔作家和评论家。"
+      ],
+      [
+        "The essayist turns everyday events into thoughtful prose.",
+        "这位随笔作家把日常小事写成引人思考的文章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/essayist#English"
+    ]
+  },
+  {
+    "word": "hobby",
+    "ipa": "英 /ˈhɒbi/；美 /ˈhɑːbi/",
+    "meaning": "业余爱好",
+    "sense": "不用为了交差，也不主要为谋生，闲下来就愿意自己投入的活动，是 hobby。",
+    "split": "早有小马的旧义，后有 hobbyhorse 玩具马及个人钟爱的活动、话题，再缩为现代爱好义。更早小马名称来源有争论；不是现代英语 hob + 可爱后缀的透明组合。",
+    "history": [
+      [
+        "hobby 小马 → hobbyhorse",
+        "马形玩具等名称"
+      ],
+      [
+        "hobbyhorse 的爱好义 → 缩短 hobby",
+        "个人喜欢反复投入的活动"
+      ]
+    ],
+    "explanation": "take up a hobby 培养一项爱好；gardening as a hobby 把园艺作为业余爱好。爱好可以做得很专业，也可能后来变成事业。",
+    "usage": "take up a hobby；a favourite hobby。",
+    "contrast": "hobby 是爱好活动；habit 是习惯。经常刷牙是 habit，不因此通常被称为 hobby。",
+    "examples": [
+      [
+        "Photography started as a hobby for her.",
+        "摄影起初是她的业余爱好。"
+      ],
+      [
+        "He took up gardening as a new hobby.",
+        "他开始把园艺当作一项新爱好。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/hobby"
+    ]
+  },
+  {
+    "word": "hobbyist",
+    "ipa": "英 /ˈhɒbiɪst/；美 /ˈhɑːbiɪst/",
+    "meaning": "业余爱好者",
+    "sense": "因为喜欢而在业余钻研这件事的人是 hobbyist；不拿它当主业，也不等于做得差。",
+    "split": "hobby + -ist，保留 y → hobbyist；现代直接从爱好名构成人。",
+    "history": [
+      [
+        "hobby",
+        "业余爱好"
+      ],
+      [
+        "hobby + -ist → hobbyist",
+        "投入某项业余爱好的人"
+      ]
+    ],
+    "explanation": "a photography hobbyist 摄影爱好者；hobbyists and professionals 业余爱好者与职业从业者。",
+    "usage": "a model railway hobbyist；electronics hobbyists。",
+    "contrast": "hobbyist 重点在兴趣和业余参与，beginner 重点在刚开始；一个 hobbyist 可以已有几十年经验。",
+    "examples": [
+      [
+        "The workshop welcomes both hobbyists and professionals.",
+        "这个工作坊欢迎业余爱好者和专业人士参加。"
+      ],
+      [
+        "Electronics hobbyists built the device in a weekend.",
+        "几位电子技术爱好者利用一个周末做出了这个装置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hobbyist#English"
+    ]
+  },
+  {
+    "word": "alarm",
+    "ipa": "英 /əˈlɑːm/；美 /əˈlɑːrm/",
+    "meaning": "警报；闹钟；惊慌；使担忧",
+    "sense": "原来是提醒大家危险来了，后来既指发出提醒的声音、设备，也指人心里被惊动的担忧。",
+    "split": "借法语 alarme，接意大利语 all’arme 到武器那里、拿起武器的呼喊，arma 是武器。现代不是 all + arm 的英语临时组合。",
+    "history": [
+      [
+        "意大利 all’arme → 法语 alarme",
+        "拿起武器的警示呼喊"
+      ],
+      [
+        "英语 alarm",
+        "警报、提醒设备；惊慌及使惊慌"
+      ]
+    ],
+    "explanation": "set an alarm 设闹钟；a fire alarm 火警警报；cause alarm 引起担忧；be alarmed at something 对某事感到惊慌。",
+    "usage": "set an alarm；sound the alarm。",
+    "contrast": "alarm 比一般 concern 担忧更有被惊动的感觉；an alarm 可以是闹钟或警报器，按场景判断。",
+    "examples": [
+      [
+        "I set an alarm for six in the morning.",
+        "我设了早上六点的闹钟。"
+      ],
+      [
+        "The sudden noise caused alarm among the passengers.",
+        "突如其来的声音让乘客们惊慌起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alarm#English"
+    ]
+  },
+  {
+    "word": "alarmist",
+    "ipa": "英 /əˈlɑːmɪst/；美 /əˈlɑːrmɪst/",
+    "meaning": "危言耸听者；过分渲染危险的",
+    "sense": "正常提醒是指出风险；把每件事都说成马上要大难临头，就可能被批评为 alarmist。",
+    "split": "alarm 警报、惊慌 + -ist，可作人物名词，也作形容词。不是所有发警报的人都叫 alarmist，常含夸大风险的批评。",
+    "history": [
+      [
+        "alarm",
+        "惊动、警报、担忧"
+      ],
+      [
+        "alarm + -ist → alarmist",
+        "常渲染危险的人；危言耸听的"
+      ]
+    ],
+    "explanation": "an alarmist headline 耸人听闻的标题；sound alarmist 听起来过分渲染危险。",
+    "usage": "alarmist predictions；an alarmist tone。",
+    "contrast": "alarmist 有判断语气：称一个人 alarmist，是说其警告过头，并不能由这个标签证明实际风险不存在。",
+    "examples": [
+      [
+        "The headline was criticised as alarmist.",
+        "这个标题被批评为危言耸听。"
+      ],
+      [
+        "We need clear information rather than alarmist predictions.",
+        "我们需要清楚的信息，而不是夸大危险的预测。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alarmist#English"
+    ]
+  },
+  {
+    "word": "humorist",
+    "ipa": "英 /ˈhjuːmərɪst/；美 /ˈhjuːmərɪst/",
+    "meaning": "幽默作家；善于幽默表达的表演者",
+    "sense": "把生活里好笑的、不协调的地方写出来或讲出来，让人会心一笑，这类作者或表演者可叫 humorist。",
+    "split": "humor + -ist；承接幽默这一义，不把 humor 的古代体液义硬译成人。英式常用 humour，但人物名通常也写 humorist。",
+    "history": [
+      [
+        "humor 的幽默义",
+        "使人觉得有趣的表达、趣味"
+      ],
+      [
+        "humor + -ist → humorist",
+        "以幽默表达见长的人"
+      ]
+    ],
+    "explanation": "a writer and humorist 作家兼幽默作家；a celebrated humorist 知名幽默作家。",
+    "usage": "a political humorist；a writer and humorist。",
+    "contrast": "comedian 常强调喜剧表演者，humorist 尤其可包括写幽默文章的人；也不等于这个人时时都开玩笑。",
+    "examples": [
+      [
+        "The humorist wrote a column about everyday frustrations.",
+        "这位幽默作家写了一个谈日常烦心事的专栏。"
+      ],
+      [
+        "He introduced himself as a novelist and humorist.",
+        "他介绍自己是小说家兼幽默作家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/humorist#English"
+    ]
+  },
+  {
+    "word": "masochism",
+    "ipa": "/ˈmæsəkɪzəm/",
+    "meaning": "受虐倾向；从自己受苦中寻求满足〔亦可比喻〕",
+    "sense": "普通抱怨里说“我这不是自找苦吃吗”，有时会夸张用 masochism；专门语境还涉及从自身痛苦、受辱中获得满足的意义。",
+    "split": "十九世纪术语，借德语 Masochismus，取自作家 Leopold von Sacher-Masoch 的姓名，加 -ism。不是 maso 表痛苦、chism 表快乐的现代词根相加。",
+    "history": [
+      [
+        "人名 Sacher-Masoch → 德语 Masochismus",
+        "以作家姓名形成的术语"
+      ],
+      [
+        "英语 masochism",
+        "相应倾向；也用于自找苦吃的夸张说法"
+      ]
+    ],
+    "explanation": "an act of masochism 可在日常比喻一件让自己受苦的事。普通人一句玩笑不能当作医学诊断；这里重点是读懂语气。",
+    "usage": "a form of masochism；pure masochism〔夸张说法〕。",
+    "contrast": "masochism 侧重自己受苦所带来的满足，sadism 则侧重他人受苦；日常夸张用法与专门含义需分开。",
+    "examples": [
+      [
+        "Watching that terrible film again felt like pure masochism.",
+        "再看一遍那部烂片，简直像在自找苦吃。"
+      ],
+      [
+        "The critic described the character’s need to suffer as masochism.",
+        "评论者把这个人物对受苦的执着称为受虐倾向。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/masochism"
+    ]
+  },
+  {
+    "word": "masochist",
+    "ipa": "/ˈmæsəkɪst/",
+    "meaning": "有受虐倾向者；自找苦吃的人〔常见夸张说法〕",
+    "sense": "明明过程很折磨，却仍往里钻，朋友可能开玩笑说 you’re a masochist；这句话不一定在作严肃的人格判断。",
+    "split": "与 masochism 对应，以 Masoch 的姓名材料 + -ist 构成人物名；现代可对照 -ism 倾向、-ist 人，但不能据长短自动断言造词先后。",
+    "history": [
+      [
+        "Sacher-Masoch 的姓名材料",
+        "相关术语的命名来源"
+      ],
+      [
+        "masochism／masochist",
+        "倾向与相应人物名称"
+      ]
+    ],
+    "explanation": "You must be a masochist 可夸张说你真会自找苦吃；不宜对不熟的人或严肃经历随便贴这个标签。",
+    "usage": "a masochist；Only a masochist would …〔夸张〕。",
+    "contrast": "masochist 的口语玩笑不能自动理解成一个人的性偏好或诊断，先看谈的到底是什么活动。",
+    "examples": [
+      [
+        "Only a masochist would enjoy assembling this desk twice.",
+        "只有特别爱自找苦吃的人，才会喜欢把这张桌子装两遍。"
+      ],
+      [
+        "He jokingly called himself a masochist for rereading the harsh reviews.",
+        "他开玩笑说，自己反复看那些尖刻评论，真是自找苦吃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/masochist#English"
+    ]
+  },
+  {
+    "word": "defeatist",
+    "ipa": "英 /dɪˈfiːtɪst/；美 /dɪˈfiːtɪst/",
+    "meaning": "失败主义者；未战先认输的",
+    "sense": "事情还没开始，就一直说肯定没用、肯定会输，连尝试都放弃：这是 defeatist 的典型感觉。",
+    "split": "defeat 失败 + -ist，可作名词或形容词；也与 defeatism 失败主义对应。不是简单指曾经输过的人。",
+    "history": [
+      [
+        "defeat",
+        "击败；失败"
+      ],
+      [
+        "defeat + -ist → defeatist",
+        "预先接受失败的人；这种态度的"
+      ]
+    ],
+    "explanation": "a defeatist attitude 未战先认输的态度；Don’t be so defeatist 别这么轻易就认输。",
+    "usage": "defeatist thinking；a defeatist attitude。",
+    "contrast": "pessimistic 是不乐观，defeatist 更容易包含因此不愿行动、提前认输；承认困难不自动就是 defeatist。",
+    "examples": [
+      [
+        "We should test the idea before adopting a defeatist attitude.",
+        "我们应该先试试这个想法，别提前就认输。"
+      ],
+      [
+        "Her response sounded defeatist rather than practical.",
+        "她的回答听起来是在提前认输，而不是务实分析。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/defeatist#English"
+    ]
+  },
+  {
+    "word": "conversationalist",
+    "ipa": "英 /ˌkɒnvəˈseɪʃənəlɪst/；美 /ˌkɑːnvərˈseɪʃənəlɪst/",
+    "meaning": "善于交谈的人；谈话者",
+    "sense": "不是一个人滔滔不绝，而是接得住话、问得自然，让别人也愿意聊下去；这样的人常是 a good conversationalist。",
+    "split": "conversation → conversational + -ist；中间的 -al 也要看见。这里说交谈的本领或参与者，不是 conversation 后直接接一个完整 alist 后缀。",
+    "history": [
+      [
+        "conversation → conversational",
+        "交谈 → 交谈的"
+      ],
+      [
+        "conversational + -ist → conversationalist",
+        "交谈者，常与善谈评价连用"
+      ]
+    ],
+    "explanation": "a good conversationalist 很会聊天的人；an engaging conversationalist 让人愿意聊下去的人。",
+    "usage": "a good conversationalist；a witty conversationalist。",
+    "contrast": "talkative 爱说话不一定善于互动；a good conversationalist 往往既会说，也会听。",
+    "examples": [
+      [
+        "She is a good conversationalist who makes everyone feel included.",
+        "她很会聊天，能让每个人都觉得自己参与其中。"
+      ],
+      [
+        "He became a better conversationalist by learning to listen.",
+        "他通过学习倾听，变得更善于交谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conversationalist#English"
+    ]
+  },
+  {
+    "word": "criminologist",
+    "ipa": "英 /ˌkrɪmɪˈnɒlədʒɪst/；美 /ˌkrɪməˈnɑːlədʒɪst/",
+    "meaning": "犯罪学研究者",
+    "sense": "研究犯罪为什么发生、呈现什么模式、社会如何回应的人，是 criminologist；不一定亲自抓犯人。",
+    "split": "criminology 犯罪学的 -logy 对应 -logist 人物形式；crimino- 来自拉丁 crimen 犯罪、指控的材料。不是 criminal 犯罪者直接贴一个职业尾巴。",
+    "history": [
+      [
+        "拉丁 crimen → crimino- + -logy",
+        "犯罪相关材料 + 学科名称"
+      ],
+      [
+        "criminology／criminologist",
+        "犯罪学／相应研究者"
+      ]
+    ],
+    "explanation": "a leading criminologist 知名犯罪学研究者；consult a criminologist 向犯罪学研究者咨询。",
+    "usage": "a criminologist；research by criminologists。",
+    "contrast": "criminologist 研究犯罪现象，detective 侦查具体案件；criminal 是犯罪者，角色完全不同。",
+    "examples": [
+      [
+        "The criminologist studied patterns in youth crime.",
+        "这位犯罪学研究者研究青少年犯罪的规律。"
+      ],
+      [
+        "A criminologist explained the limits of the statistics.",
+        "一位犯罪学研究者说明了那些统计数据的局限。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/criminologist#English"
+    ]
+  },
+  {
+    "word": "ableist",
+    "ipa": "/ˈeɪbəlɪst/",
+    "meaning": "歧视残障者的；持这种偏见的人",
+    "sense": "默认所有人都该按没有残障的方式行动，还因此排斥或贬低残障者，就可能被批评为 ableist。",
+    "split": "able 有能力的 + -ist，按 racist、sexist 等偏见词的模式形成，并与 ableism 对应。这里不是表扬有能力的人。",
+    "history": [
+      [
+        "able + -ist 的类比构词",
+        "围绕身体、心智能力建立偏见的命名"
+      ],
+      [
+        "ableist",
+        "歧视残障者的；持相应偏见的人"
+      ]
+    ],
+    "explanation": "ableist language 歧视残障者的说法；ableist assumptions 带有这类偏见的假定。可批评措辞、规则或态度，不只用于人物标签。",
+    "usage": "ableist language；an ableist assumption。",
+    "contrast": "ableist 不等于 able 能干，也不宜简单译成所有按能力评价都叫歧视；词义要落到对残障者的偏见或不公平对待。",
+    "examples": [
+      [
+        "The guide asks writers to avoid ableist language.",
+        "指南要求作者避免歧视残障者的措辞。"
+      ],
+      [
+        "The discussion challenged ableist assumptions about work.",
+        "这场讨论质疑了工作话题中歧视残障者的假定。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/ableist"
+    ]
+  },
+  {
+    "word": "supremacist",
+    "ipa": "/suːˈpreməsɪst/",
+    "meaning": "某群体至上主义者；至上主义的",
+    "sense": "不仅说自己的群体好，还主张本群体天生优越、应凌驾于其他群体之上，这种立场可用 supremacist。",
+    "split": "supremacy 至高地位、支配地位，换为人物尾 -ist → supremacist；末尾 -cy 与 -cist 的对应不要漏看。词义常含群体等级、支配主张。",
+    "history": [
+      [
+        "supreme → supremacy",
+        "最高的 → 至高地位"
+      ],
+      [
+        "supremacy → supremacist",
+        "主张某群体至上者及相应立场"
+      ]
+    ],
+    "explanation": "a white supremacist 白人至上主义者；supremacist ideology 至上主义思想。描述该词不表示认可这种主张。",
+    "usage": "supremacist ideology；a supremacist group。",
+    "contrast": "supremacist 比 proud of one’s culture 对本文化自豪强得多，涉及把其他群体置于较低地位的主张。",
+    "examples": [
+      [
+        "The article examined how supremacist groups recruit online.",
+        "文章研究了至上主义团体如何在网上招募成员。"
+      ],
+      [
+        "The museum explains the harm caused by supremacist ideology.",
+        "博物馆解释了至上主义思想造成的伤害。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supremacist#English"
+    ]
+  },
+  {
+    "word": "rapist",
+    "ipa": "/ˈreɪpɪst/",
+    "meaning": "强奸犯；实施强奸的人",
+    "sense": "这是指实施强奸的人，语义严肃，不能只按 -ist 泛译成某方面从业者。",
+    "split": "rape 去末尾 e + -ist；rape 的历史材料经法语上接拉丁 rapere 强夺等，但现代这个人物名明确指性暴力行为实施者。",
+    "history": [
+      [
+        "rape",
+        "强奸这一现代核心义"
+      ],
+      [
+        "rape + -ist → rapist",
+        "实施该行为的人"
+      ]
+    ],
+    "explanation": "a convicted rapist 已定罪的强奸犯；在报道事实或作品情节中准确使用，不能把尚未证实的指控当作已定事实。",
+    "usage": "a convicted rapist；identify the rapist。",
+    "contrast": "rapist 指行为实施者，suspect 是嫌疑人；两者在事实状态上不同，不因词尾表示人就可以随意替换。",
+    "examples": [
+      [
+        "The novel ends with the rapist being brought to justice.",
+        "小说以强奸犯被绳之以法结尾。"
+      ],
+      [
+        "The report referred to him as a convicted rapist.",
+        "报道将他称为已被定罪的强奸犯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rapist#English"
+    ]
+  },
+  {
+    "word": "panellist",
+    "ipa": "/ˈpænəlɪst/",
+    "meaning": "讨论小组、评审团成员〔常见英式拼写〕",
+    "sense": "坐在台上一排讨论嘉宾中，或参加评审小组的人，可叫 panellist。",
+    "split": "panel 小组 + -ist；英式常见双 l 的 panellist，美式常用 panelist。取 panel 的人员小组义，不是木板加工者。",
+    "history": [
+      [
+        "panel 的小组义",
+        "参与讨论、评审的一组人"
+      ],
+      [
+        "panel + -ist → panellist／panelist",
+        "小组成员；英美常见拼写差别"
+      ]
+    ],
+    "explanation": "a discussion panellist 讨论嘉宾；a regular panellist 经常参加节目的嘉宾。",
+    "usage": "a panellist；a regular panellist。",
+    "contrast": "panellist 不一定是主持人 moderator；也不代表同组所有人意见一致。",
+    "examples": [
+      [
+        "Each panellist had two minutes to answer.",
+        "每位讨论嘉宾有两分钟回答问题。"
+      ],
+      [
+        "She is a regular panellist on the radio programme.",
+        "她是那个广播节目的常驻讨论嘉宾。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/panellist#English"
+    ]
+  }
+]

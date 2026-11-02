@@ -1,0 +1,202 @@
+[
+  {
+    "id": "B3100",
+    "meaning": "河流、上下游与河边环境",
+    "core": "RIVER：名称来自河岸，方向跟着水流看",
+    "image": "river 为起点，上下游成对；接船与环境形容词，河岸、河床等已有词一起复习。",
+    "intro": "法语河流词最终接拉丁河岸 rīpa，不与 rīvus 小溪混同。少见地名式和专名式复合先略。",
+    "forms": "up-/down- + river；river + boat/-ine；已有 river + side/bank/front/bed/walk。\n\nriver 经法语接拉丁河岸相关材料，arrive 经法语接到岸、上岸；两词共享更早的岸词，不是把英语 river 在今天任意拆改。arrival 历史另经法语名词借入。\n\n到岸的历史画面扩展到一般到达；-ing 形式去末尾不发音 e。\n\n接拉丁 ripa 河岸及 riparia 岸边地带，经法语进入英语。\n\n法语 ariver 接重构拉丁 arripare 等，ad 与 ripa 岸，现代三单加 s。\n\n与 river 作水域词比较，不是 river 的后代。creek 可能接古诺尔斯 kriki 角落、弯处等材料，早有狭窄水湾义，后来在美式等英语中常指小溪、支流。",
+    "branches": [
+      [
+        "河流与上下游",
+        "river · upriver · downriver"
+      ],
+      [
+        "河边位置",
+        "riverside · riverbank · riverfront · riverbed · riverwalk"
+      ],
+      [
+        "船只与环境",
+        "riverboat · riverine"
+      ],
+      [
+        "ripa 岸的历史分支：river 与 arrive",
+        "river · arrive · arrival"
+      ],
+      [
+        "arrive → arrived → arriving：到达与正在到来",
+        "arrive · arrived · arriving"
+      ],
+      [
+        "river → rivers：从河岸名称到河流",
+        "river · rivers"
+      ],
+      [
+        "arrive → arrives：到岸到一般抵达",
+        "arrive · arrives"
+      ],
+      [
+        "creek：狭窄水湾，到小溪",
+        "creek · creeks"
+      ]
+    ],
+    "contrasts": "upriver 朝源头，downriver 朝河口，与南北无固定关系；riverine 偏环境描述。",
+    "practice": "The riverboat travelled upriver past several riverside villages.\n\n内河船驶向上游，经过几个河边村庄。",
+    "words": [
+      "river",
+      "upriver",
+      "downriver",
+      "riverside",
+      "riverbank",
+      "riverfront",
+      "riverbed",
+      "riverwalk",
+      "riverboat",
+      "riverine",
+      "arrive",
+      "arrival",
+      "arrived",
+      "arriving",
+      "rivers",
+      "arrives",
+      "creek",
+      "creeks"
+    ],
+    "exclude": {
+      "river-nymph": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "riverhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "riverbend": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "riverdance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3585",
+    "meaning": "称重与权衡",
+    "core": "WEIGH：放上秤，或在心里掂量",
+    "image": "补上动作 weigh，再共享 weight 重量与 outweigh 更有分量。",
+    "intro": "古英语动词兼有举起与称量义。weight 为同源旧名词，不是今天 weigh 临时加 t 的通用规则。",
+    "forms": "weigh／weight 同族；out- + weigh → outweigh。\n\nweigh 承古英语 wegan 举、承载、称量等材料，后来用于思考、权衡。weigh + -ing，gh 不发音，/weɪ/ 与 /ɪŋ/ 相接；与 weighting 加权不同。\n\nweigh 加完整 -ed，gh 不发音，词尾 /d/，整个 weighed 读 /weɪd/。古英语 wegan 举、承载、称量等材料，还发展为考虑、权衡。\n\nweigh 承古英语 wegan 移动、承载、称量等，现代 -s，/weɪz/。igh 不是单独词根，gh 在此不发音。\n\nweight 承古英语 wiht、gewiht 重量，与 weigh 同族，动词可加重或赋予不同影响权重。现代完整 -ed，/t/ 后读 /ɪd/。",
+    "branches": [
+      [
+        "动作、名词与比较",
+        "weigh · weight · outweigh"
+      ],
+      [
+        "weigh → weighing：称重与权衡",
+        "weighing"
+      ],
+      [
+        "weigh → weighed：称过与权衡过",
+        "weighed"
+      ],
+      [
+        "weigh 称重、权衡 → weighs",
+        "weighs"
+      ],
+      [
+        "weight 重量、加权 → weighted",
+        "weighted"
+      ]
+    ],
+    "contrasts": "weigh 动词与 weight 名词区分；weigh anchor 起锚保留举起旧义。",
+    "practice": "We weighed the options and decided the benefits outweighed the risks.\n\n我们权衡选项后，认为收益大于风险。",
+    "words": [
+      "weigh",
+      "weight",
+      "outweigh",
+      "weighing",
+      "weighed",
+      "weighs",
+      "weighted"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3270",
+    "meaning": "真实与不实之言",
+    "core": "TRUTH：真相；UNTRUTH：说法与事实不符",
+    "image": "已有 truth → truthful，本页接 untruth；较专门的 truther 暂略。",
+    "intro": "truth 与 untruth 都有古英语历史，现代 un- 帮助识别否定，但不需要把每个旧词都当现代新造。",
+    "forms": "truth → truthful；un- + truth → untruth。\n\ntruth 承古英语 triewð 可信、忠诚、真实词族，-th 是历史抽象名词词尾。复数可数真实陈述或事实，常见 /truːðz/，也有 /truːθs/。",
+    "branches": [
+      [
+        "真实、诚实与不实",
+        "truth · truthful · untruth"
+      ],
+      [
+        "true 真实 + -th 状态 → truths",
+        "truths"
+      ]
+    ],
+    "contrasts": "truth 真相、真实性；truthful 诚实的；untruth 不实陈述。",
+    "practice": "A truthful account should correct the untruths in the report.\n\n一份如实的叙述应纠正报告中的不实之言。",
+    "words": [
+      "truth",
+      "truthful",
+      "untruth",
+      "truths"
+    ],
+    "exclude": {
+      "post-truth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-truth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "truth-telling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "truther": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3227",
+    "meaning": "先生尊称与派生态度",
+    "core": "SIR：尊称；SURLY：从老爷派头变成没好气",
+    "image": "sir 已精讲，接 surly 的贬化，再看 yes + sir 的口语应答。",
+    "intro": "sir 是历史尊称形式；surly 的旧形 sirly 先说老爷派头，后来侧重粗暴不友好。yessir 则只是肯定回答与尊称结合。",
+    "forms": "sir + -ly → sirly → surly；yes + sir → yessir。",
+    "branches": [
+      [
+        "尊称及应答",
+        "sir · yessir"
+      ],
+      [
+        "态度贬化",
+        "surly"
+      ]
+    ],
+    "contrasts": "surly 的 -ly 是形容词后缀；yessir 不保证态度恭敬，需看语调。",
+    "practice": "His surly reply was far from a polite “Yes, sir.”\n\n他没好气的回答，和礼貌的一句“是的，先生”相去甚远。",
+    "words": [
+      "sir",
+      "yessir",
+      "surly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4239",
+    "meaning": "西部的、居民、位置与变化过程",
+    "core": "WESTERN：先定参照范围，再看人、最西端或变化",
+    "image": "western 已有精讲，相关西北西南形式共享；补中西部、人名词、最西端与西方化。",
+    "intro": "西方可以是地理方位，也可以是约定地区、文化范围。后缀解释词性，具体所指仍要看上下文。",
+    "forms": "mid-/north-/south- + western；western + -er/-most/-ization。",
+    "branches": [
+      [
+        "地区形容词",
+        "western · northwestern · southwestern · midwestern"
+      ],
+      [
+        "居民、极端位置与过程",
+        "westerner · westernmost · westernization"
+      ]
+    ],
+    "contrasts": "Midwest 是历史地区名；westerner 的参照范围要明确；westernmost 是最靠西；西方化与现代化不简单等同。",
+    "practice": "The westerner travelled to the westernmost village in the region.\n\n这位西部居民来到该地区最西边的村庄。",
+    "words": [
+      "western",
+      "northwestern",
+      "southwestern",
+      "midwestern",
+      "westerner",
+      "westernmost",
+      "westernization"
+    ],
+    "exclude": {}
+  }
+]

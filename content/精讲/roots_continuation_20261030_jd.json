@@ -1,0 +1,96 @@
+[
+  {
+    "id": "B3319",
+    "meaning": "重击、响声和固定口语扩展；另辨不同源的首饰词",
+    "core": "BANG：声音有冲击；BANGLE 首饰词另有来源",
+    "image": "bang → banger 的不同固定口语义；bangle 放在这里作近形辨认，不当作同源扩展。",
+    "intro": "先抓砰的一声，再看具体搭配。拼写长得像的首饰 bangle，则需要另接印地语来源。",
+    "forms": "bang 拟声或斯堪的纳维亚语相关来源；bang + -er；bangle 首饰名为独立借词。\n\nbang 大概拟声或联系北欧敲击材料；美式 bangs 刘海或与骤然齐截的动作感有关，不能当作头发发出砰声的确定故事。",
+    "branches": [
+      [
+        "响声与口语扩展",
+        "bang · banger"
+      ],
+      [
+        "近形、不同源辨认",
+        "bangle"
+      ],
+      [
+        "bang 的突响、重敲与刘海等用法",
+        "bang · bangs · banged · banging"
+      ]
+    ],
+    "contrasts": "bangers 可是香肠，bangs 可是刘海；bangle 手镯不能拆成 bang + -le。",
+    "practice": "The bang startled the customer while she was looking at a silver bangle.\n\n顾客看银手镯时，被砰的一声吓了一跳。",
+    "words": [
+      "bang",
+      "banger",
+      "bangle",
+      "bangs",
+      "banged",
+      "banging"
+    ],
+    "exclude": {
+      "flash-bang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slap-bang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gangbang": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shebang": "常用整词的远源有争议，不按外形强接 bang；已有独立精讲。"
+    }
+  },
+  {
+    "id": "B3749",
+    "meaning": "把对象移出范围，从逐出门外到消除、排除和淘汰",
+    "core": "ELIMINATE：让它不再留在这一范围里",
+    "image": "eliminate 动作 → elimination 过程 → eliminator 器具、产品或选拔赛。",
+    "intro": "词源里的门槛给了一个好画面，但现代不一定真有门：错误离开清单、选手离开晋级名单、未知量从方程中被消去。",
+    "forms": "ē- 向外 + līmen 门槛 → ēlīmināre；ēlīmināt- 联系英语 eliminate；-ation／-or 形成名词。\n\n拉丁 e 向外与 limen 门槛，现代过去式多一个 id 音节。\n\n拉丁 ex- 向外 + limen 门槛相关材料形成 eliminare 赶出门外，后有排除、去掉义。现代去 e 加完整 -ing，末尾 /neɪtɪŋ/。",
+    "branches": [
+      [
+        "动作、过程与执行者",
+        "eliminate · elimination · eliminator"
+      ],
+      [
+        "eliminate → eliminated：从门内赶到门外，再到排除",
+        "eliminate · eliminated"
+      ],
+      [
+        "移出门槛 → eliminate → eliminating",
+        "eliminating"
+      ]
+    ],
+    "contrasts": "eliminate 常说消除，reduce 只是减少；eliminator 不必是人。",
+    "practice": "The elimination round will eliminate half the teams from the tournament.\n\n这一淘汰轮会让半数球队退出赛事。",
+    "words": [
+      "eliminate",
+      "elimination",
+      "eliminator",
+      "eliminated",
+      "eliminating"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3542",
+    "meaning": "用首字母的读音形成委婉口语",
+    "core": "PEE：把 p 的读音写成词",
+    "image": "piss → p → pee；不要把常用 peer 按外形接过来。",
+    "intro": "英语不只靠古典词根造词，也会用字母名作委婉替代。pee 就是常见例子。",
+    "forms": "首字母 p 的读音 /piː/ → 拼写 pee；名词、动词并用。",
+    "branches": [
+      [
+        "日常委婉用法",
+        "pee"
+      ]
+    ],
+    "contrasts": "pee 与 pea 同音；常用 peer 的凝视、同等身份各有自己的来源。",
+    "practice": "The parent used pee when speaking to the child.\n\n家长对孩子说话时用了 pee 这个口语词。",
+    "words": [
+      "pee"
+    ],
+    "exclude": {
+      "peer": "常用的同等者、同龄人来自拉丁 pār 经法语；凝视义另有来源。只有罕见 pee + -er 同形词与此有关，先不列。",
+      "pee-on": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pee-er": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

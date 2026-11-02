@@ -1,0 +1,710 @@
+[
+  {
+    "word": "late",
+    "ipa": "/leɪt/",
+    "meaning": "迟的；晚的；已故的",
+    "sense": "时间往后移：可能晚于约定，也可能只是在一天或一段时期的后面。",
+    "split": "接古英语 læt“慢、迟”等，经中古英语 late 延续。已故的用法与此前、最近仍在世等历史用法相连，不能照“迟到”硬翻。",
+    "history": [
+      [
+        "古英语 læt → 中古英语 late",
+        "慢、迟、晚"
+      ],
+      [
+        "英语 late",
+        "迟到；接近某时段末尾"
+      ]
+    ],
+    "explanation": "late for class 是上课迟到，late at night 是深夜，in late June 是六月下旬；her late husband 是她已故的丈夫。late 也能直接作副词说 arrive late。",
+    "usage": "be late for；arrive late；late at night；in late summer。",
+    "contrast": "late 是晚、迟，lately 是最近。He arrived late 是他来晚了，He has been busy lately 是他最近很忙。",
+    "examples": [
+      [
+        "Sorry, I’m late for the meeting.",
+        "抱歉，我开会迟到了。"
+      ],
+      [
+        "The flowers usually appear in late spring.",
+        "这些花通常在春末开放。"
+      ],
+      [
+        "The painting belonged to her late father.",
+        "这幅画原属于她已故的父亲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/late#English"
+    ]
+  },
+  {
+    "word": "later",
+    "ipa": "英 /ˈleɪtə/；美 /ˈleɪtər/",
+    "meaning": "后来；稍后；更晚的",
+    "sense": "把两件事放到时间线上，后一件比前一件再往右一点。",
+    "split": "late + -er 的比较形式，接古英语相应比较级、中古英语 later。它与 latter 历史有关，但现代元音和用途已分开。",
+    "history": [
+      [
+        "古英语 læt → 中古英语 late",
+        "慢、迟、晚"
+      ],
+      [
+        "英语 late",
+        "迟到；接近某时段末尾"
+      ],
+      [
+        "late + -er → later",
+        "更晚；在之后"
+      ]
+    ],
+    "explanation": "two days later 是两天以后，later than expected 是比预期更晚，a later version 是后来的版本。See you later 是稍后见，也可作随口告别。",
+    "usage": "two weeks later；later than；a later edition；See you later.。",
+    "contrast": "later 是时间更晚，latter 常指前面两项中的后者；前者 /ˈleɪtə/，后者 /ˈlætə/，不只是双写字母区别。",
+    "examples": [
+      [
+        "We can discuss the details later.",
+        "我们可以稍后讨论细节。"
+      ],
+      [
+        "A later edition corrected the error.",
+        "后来的版本改正了这个错误。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/later#English"
+    ]
+  },
+  {
+    "word": "latter",
+    "ipa": "英 /ˈlætə/；美 /ˈlætər/",
+    "meaning": "后者；较后的；后半段的",
+    "sense": "前面摆出两个选项，回头指第二个；一段时间里也可指偏后的部分。",
+    "split": "接古英语 lætra、中古英语 latter，是 late 的较早比较形式；与 later 同源而分化，不是 letter“信件”的另一拼法。",
+    "history": [
+      [
+        "古英语 læt → 中古英语 late",
+        "慢、迟、晚"
+      ],
+      [
+        "古英语 lætra → 中古英语 latter → latter",
+        "较后 → 后者、后一部分"
+      ]
+    ],
+    "explanation": "the latter 在清楚的两项对比中指第二项；the latter half of the year 是后半年。项目很多时直接重复名称通常更清晰。",
+    "usage": "the former and the latter；the latter half；the latter part of。",
+    "contrast": "former 前者、latter 后者；later 稍后，latest 最新。These latter chapters 是这些靠后的章节，不等于 the latest chapters 最新章节。",
+    "examples": [
+      [
+        "Of tea and coffee, I prefer the latter.",
+        "茶和咖啡相比，我更喜欢后者。"
+      ],
+      [
+        "Most of the work was completed in the latter half of the year.",
+        "大部分工作在后半年完成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/latter#English"
+    ]
+  },
+  {
+    "word": "lately",
+    "ipa": "/ˈleɪtli/",
+    "meaning": "最近；近来",
+    "sense": "回看离现在不远的一小段日子，看看这阵子发生了什么。",
+    "split": "late + -ly，接中古英语 lately 等形式；现代常用义已经固定为最近，不按 late 的迟到义机械翻成迟迟地。",
+    "history": [
+      [
+        "古英语 læt → 中古英语 late",
+        "慢、迟、晚"
+      ],
+      [
+        "英语 late",
+        "迟到；接近某时段末尾"
+      ],
+      [
+        "late + -ly → lately",
+        "较近时间内 → 最近"
+      ]
+    ],
+    "explanation": "常与现在完成时谈近期情况：I haven’t seen her lately。也可用于其他合适时态，不必记成只允许某一种语法。",
+    "usage": "not lately；a lot lately；feel tired lately。",
+    "contrast": "late 是迟、晚；lately 是最近。stay up late 是熬夜，不能把副词再加 -ly 改成 stay up lately 来表达同一件事。",
+    "examples": [
+      [
+        "I haven’t heard from him lately.",
+        "我最近没收到他的消息。"
+      ],
+      [
+        "She has been travelling a lot lately.",
+        "她近来经常出行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lately#English"
+    ]
+  },
+  {
+    "word": "lateness",
+    "ipa": "/ˈleɪtnəs/",
+    "meaning": "迟到；晚、迟的状态",
+    "sense": "不是某个迟到的人，而是来得太晚这一情况本身。",
+    "split": "late + -ness，-ness 把迟、晚的性质名词化，保留末尾 e。",
+    "history": [
+      [
+        "古英语 læt → 中古英语 late",
+        "慢、迟、晚"
+      ],
+      [
+        "英语 late",
+        "迟到；接近某时段末尾"
+      ],
+      [
+        "late + -ness → lateness",
+        "迟到或晚的状态"
+      ]
+    ],
+    "explanation": "apologize for lateness 是为迟到道歉；the lateness of the hour 是时间已经很晚。是否带责备，要看所说的是误点还是单纯夜深。",
+    "usage": "persistent lateness；apologize for lateness；the lateness of the hour。",
+    "contrast": "lateness 是名词，late 是形容词、副词；because of his lateness 与 because he was late 结构不同。",
+    "examples": [
+      [
+        "He apologized for his lateness.",
+        "他为迟到道歉。"
+      ],
+      [
+        "Despite the lateness of the hour, the café was still busy.",
+        "尽管时间已晚，咖啡馆仍很热闹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lateness#English"
+    ]
+  },
+  {
+    "word": "old",
+    "ipa": "英 /əʊld/；美 /oʊld/",
+    "meaning": "老的；旧的；以前的；……岁的",
+    "sense": "把一个人或东西放到时间里看，已经走过多少年，或者是否属于过去那一段。",
+    "split": "接古英语 ald、eald，经中古英语 old 延续；更早关联长大、成熟的历史。常见比较级 older，也有 elder 的特定用法，不能仅凭字母推现代通用替换。",
+    "history": [
+      [
+        "古英语 ald / eald → 中古英语 old",
+        "年老、古老、存在已久"
+      ],
+      [
+        "英语 old",
+        "年纪大；旧的；以前的"
+      ]
+    ],
+    "explanation": "an old house 是老房子，an old friend 常指相识已久的朋友，my old job 是以前的工作；a five-year-old child 常写成连字符短语，此处理解年龄结构即可。",
+    "usage": "years old；an old friend；the old days；too old to do。",
+    "contrast": "old friend 多强调交情久，不一定朋友年纪大；elderly 更明确年长者。年龄五岁也能说 five years old，old 并非总评价苍老。",
+    "examples": [
+      [
+        "How old is this building?",
+        "这栋建筑有多少年历史了？"
+      ],
+      [
+        "I met an old friend for lunch.",
+        "我和一位老朋友一起吃午饭。"
+      ],
+      [
+        "My daughter is six years old.",
+        "我女儿六岁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/old#English"
+    ]
+  },
+  {
+    "word": "olden",
+    "ipa": "英 /ˈəʊldən/；美 /ˈoʊldən/",
+    "meaning": "古时的；往昔的",
+    "sense": "讲故事时镜头推回很久以前，带一点怀旧或古朴语气。",
+    "split": "接中古英语 olden，可能起于 old 的旧屈折形式，后来被重新分析为 old + -en；不是普通现代规则一律给形容词加 -en 就表示古代。",
+    "history": [
+      [
+        "古英语 ald / eald → 中古英语 old",
+        "年老、古老、存在已久"
+      ],
+      [
+        "中古英语 olden → 英语 olden",
+        "旧时的、往昔的"
+      ]
+    ],
+    "explanation": "最值得记 in the olden days，通常带讲往事的口吻。现代普通说旧电脑还是 old computer，不常说 olden computer。",
+    "usage": "in the olden days；olden times；tales of olden days。",
+    "contrast": "olden 强调过去时代，old 可说人的年龄、物品旧；golden 是金色的、黄金般的，不是给 olden 加个无意义字母。",
+    "examples": [
+      [
+        "In the olden days, messages could take weeks to arrive.",
+        "在从前，消息可能花几周才传到。"
+      ],
+      [
+        "The village festival celebrates customs from olden times.",
+        "村庄节庆展示往昔的风俗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/olden#English"
+    ]
+  },
+  {
+    "word": "oldie",
+    "ipa": "英 /ˈəʊldi/；美 /ˈoʊldi/",
+    "meaning": "老歌；老片、旧物；老人〔口语〕",
+    "sense": "有些旧作品一出现，立刻把人带回过去，尤其是一首熟悉老歌。",
+    "split": "old + -ie，-ie 带口语、亲昵的命名色彩。常说老歌、旧作品，称人时态度需看关系和语境。",
+    "history": [
+      [
+        "古英语 ald / eald → 中古英语 old",
+        "年老、古老、存在已久"
+      ],
+      [
+        "英语 old",
+        "年纪大；旧的；以前的"
+      ],
+      [
+        "old + -ie → oldie",
+        "旧时代的作品或人，尤老歌"
+      ]
+    ],
+    "explanation": "radio oldies 是电台播放的经典老歌，an oldie but a goodie 是虽老但经典。年代相对，不是固定在某个十年。",
+    "usage": "play oldies；a golden oldie；an oldie but a goodie。",
+    "contrast": "oldie 是名词，可数；old 是形容词。a collection of oldies 常是一批老歌，不是抽象“年老”。",
+    "examples": [
+      [
+        "The station plays oldies from several decades ago.",
+        "电台播放几十年前的老歌。"
+      ],
+      [
+        "That film is an oldie, but it still makes us laugh.",
+        "那是部老电影，却仍让我们发笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oldie#English"
+    ]
+  },
+  {
+    "word": "ready",
+    "ipa": "/ˈredi/",
+    "meaning": "准备好的；愿意的；预备、备好",
+    "sense": "东西都齐了、人也就位，现在给个信号就能开始。",
+    "split": "接古英语 rǣde、ġerǣde 及中古英语 redy 等形式，词尾 -y 的形成有历史变化。不是 read“阅读”今天加 -y，所以读 /ˈredi/。",
+    "history": [
+      [
+        "古英语 rǣde / ġerǣde → 中古英语 redy",
+        "准备好、可立即行动"
+      ],
+      [
+        "英语 ready",
+        "准备好的；愿意、便于行动的"
+      ]
+    ],
+    "explanation": "ready for dinner 是准备好吃饭，ready to help 可说愿意且准备帮忙；ready cash 是随时可用的现金。动词 ready equipment 表备好设备，较书面。",
+    "usage": "be ready for；be ready to do；get ready；ready cash。",
+    "contrast": "ready 强调现在可行动，prepared 也可强调事先做了准备；ready to leave 与 ready for leaving 的常用程度不同，通常前者更自然。",
+    "examples": [
+      [
+        "Are you ready to leave?",
+        "你准备好出发了吗？"
+      ],
+      [
+        "The room will be ready for guests by noon.",
+        "中午前房间会准备好迎接客人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ready#English"
+    ]
+  },
+  {
+    "word": "readily",
+    "ipa": "/ˈredɪli/",
+    "meaning": "乐意地；毫不迟疑地；轻易地",
+    "sense": "想做时不推辞，需要取得时没障碍：两边都没有卡住。",
+    "split": "ready 的 y 变 i 后接 -ly；接中古英语 redily、rediliche 等形式。现代常见愿意、容易两路，不能只说“准备好地”。",
+    "history": [
+      [
+        "古英语 rǣde / ġerǣde → 中古英语 redy",
+        "准备好、可立即行动"
+      ],
+      [
+        "英语 ready",
+        "准备好的；愿意、便于行动的"
+      ],
+      [
+        "ready → readi- + -ly → readily",
+        "毫不犹豫地；容易地"
+      ]
+    ],
+    "explanation": "readily agree 是爽快同意，readily available 是容易获得，readily understood 是容易理解。不同宾语决定是在说意愿还是难度。",
+    "usage": "readily available；readily agree；readily accessible；readily understand。",
+    "contrast": "already 是已经，readily 是容易或乐意。The information is readily available 不是信息已经可用这一时间重点。",
+    "examples": [
+      [
+        "She readily agreed to help.",
+        "她爽快地答应帮忙。"
+      ],
+      [
+        "The information is readily available online.",
+        "这些信息在网上很容易查到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readily#English"
+    ]
+  },
+  {
+    "word": "readiness",
+    "ipa": "/ˈredinəs/",
+    "meaning": "准备状态；就绪程度；乐意",
+    "sense": "不是只列准备做过什么，而是看此刻能否开始、愿不愿行动。",
+    "split": "ready 的 y 变 i 后接 -ness，形成状态名词；其中 readi- 不是 read“读”的另一词根。",
+    "history": [
+      [
+        "古英语 rǣde / ġerǣde → 中古英语 redy",
+        "准备好、可立即行动"
+      ],
+      [
+        "英语 ready",
+        "准备好的；愿意、便于行动的"
+      ],
+      [
+        "ready → readi- + -ness → readiness",
+        "就绪状态；愿意行动"
+      ]
+    ],
+    "explanation": "in readiness for 是为……准备就绪，readiness to help 是乐意帮助；评估设备、人、组织都可用，标准视具体任务。",
+    "usage": "in readiness for；readiness to help；check readiness。",
+    "contrast": "readiness 是准备好的状态，preparation 是准备过程、准备工作；进行了准备还要确认是否就绪。",
+    "examples": [
+      [
+        "The team checked the equipment’s readiness before departure.",
+        "出发前团队检查了设备是否就绪。"
+      ],
+      [
+        "Her readiness to listen made the discussion easier.",
+        "她愿意倾听，让讨论顺畅了些。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/readiness#English"
+    ]
+  },
+  {
+    "word": "unready",
+    "ipa": "/ʌnˈredi/",
+    "meaning": "未准备好的；尚未就绪的",
+    "sense": "人已经到了现场，材料却没齐，或者心里还没准备好开始。",
+    "split": "un-（不）+ ready；中古英语 unredy 已见，否定整个准备好的状态，不改变 ready 的基本读音。",
+    "history": [
+      [
+        "古英语 rǣde / ġerǣde → 中古英语 redy",
+        "准备好、可立即行动"
+      ],
+      [
+        "英语 ready",
+        "准备好的；愿意、便于行动的"
+      ],
+      [
+        "un- + ready → unready",
+        "尚未准备好"
+      ]
+    ],
+    "explanation": "unready for a task 是对任务还没准备好；日常 not ready 更常见，unready 可在简洁书面表述中出现。",
+    "usage": "unready for；feel unready；leave someone unready。",
+    "contrast": "unready 不等于 unwilling：一个人很想上台，但还没有练好，也可能愿意却未就绪。",
+    "examples": [
+      [
+        "He felt unready for the responsibility.",
+        "他觉得自己还没准备好承担这份责任。"
+      ],
+      [
+        "The sudden announcement caught the team unready.",
+        "突如其来的通知让团队措手不及。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unready#English"
+    ]
+  },
+  {
+    "word": "already",
+    "ipa": "/ɔːlˈredi/",
+    "meaning": "已经；这么快就",
+    "sense": "本以为还要等，回头一看，事情在这个时间点之前就完成或成立了。",
+    "split": "al-（all、完全）+ ready，经中古英语 alredy 从完全准备好等旧义发展为已经。如今已固定，不能每次都拆成所有东西准备好了。",
+    "history": [
+      [
+        "中古英语 al- + ready → alredy",
+        "完全准备好等早期用法"
+      ],
+      [
+        "英语 already",
+        "此前已经；比预期更早"
+      ]
+    ],
+    "explanation": "I have already eaten 是已经吃过，Already? 可惊讶怎么这么快。位置常在助动词后、实义动词前；不同句式也可前置或句末强调。",
+    "usage": "have already done；already know；already there；Already?。",
+    "contrast": "already 已经，all ready 两词是全部准备好了：The team is all ready；not yet 则是还没有。",
+    "examples": [
+      [
+        "I’ve already sent the email.",
+        "我已经发了邮件。"
+      ],
+      [
+        "Is it lunchtime already?",
+        "这么快就到午饭时间了吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/already#English"
+    ]
+  },
+  {
+    "word": "own",
+    "ipa": "英 /əʊn/；美 /oʊn/",
+    "meaning": "自己的；拥有；承认〔常见 own up〕",
+    "sense": "同样是一本书，强调这是我自己的；作动词则把人与所有物直接连起来。",
+    "split": "形容词接古英语 āgen，是 āgan“拥有”的旧分词相关形式。现代 own 动词的形成又与 owner 等名词及旧拥有动词相互关联，不只把两种词性画成一个简单新派生。",
+    "history": [
+      [
+        "古英语 āgen → 中古英语 owen / oun",
+        "自己的；早期与拥有动词相连"
+      ],
+      [
+        "英语 own",
+        "自己的；拥有、承认"
+      ]
+    ],
+    "explanation": "my own room 是我自己的房间，on my own 是独自或独立完成，own a shop 是拥有商店。own up to a mistake 是坦承错误，别把 to 后直接接动词原形。",
+    "usage": "my own；on one’s own；own a business；own up to。",
+    "contrast": "own 强调属于自己或自己负责，owe 是欠。I own the car 是我拥有车，I owe money 是我欠钱。",
+    "examples": [
+      [
+        "She wants a room of her own.",
+        "她想要一间属于自己的房间。"
+      ],
+      [
+        "They own a small bakery.",
+        "他们拥有一家小面包店。"
+      ],
+      [
+        "He finally owned up to breaking the vase.",
+        "他终于承认是自己打碎了花瓶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/own#English"
+    ]
+  },
+  {
+    "word": "disown",
+    "ipa": "英 /dɪsˈəʊn/；美 /dɪsˈoʊn/",
+    "meaning": "否认与……的关系；不认〔亲属等〕",
+    "sense": "不是单纯没拥有，而是明确说：这事、这个人与我无关，我不认。",
+    "split": "dis-（否定、解除关系）+ own（认作自己的、承认关系），把认领、归属反过来。",
+    "history": [
+      [
+        "古英语 āgen → 中古英语 owen / oun",
+        "自己的；早期与拥有动词相连"
+      ],
+      [
+        "英语 own",
+        "自己的；拥有、承认"
+      ],
+      [
+        "dis- + own → disown",
+        "拒绝承认所有、亲属或其他关联"
+      ]
+    ],
+    "explanation": "disown a statement 是否认声明与自己有关，disown a child 是不认子女，后者语气强烈。也有计算机命令等专用语境，不能自动套成家庭意思。",
+    "usage": "disown a statement；disown responsibility；disown a relative。",
+    "contrast": "disown 拒绝承认关系，disagree 只是意见不同。与家人争论一次不等于 disown 他们。",
+    "examples": [
+      [
+        "The politician disowned the statement attributed to him.",
+        "这位政治人物否认那份被指由他作出的声明。"
+      ],
+      [
+        "The novel tells of a son disowned by his family.",
+        "小说讲述一个被家人断绝关系的儿子的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disown#English"
+    ]
+  },
+  {
+    "word": "put",
+    "ipa": "/pʊt/",
+    "meaning": "放；使处于某状态；表达",
+    "sense": "把东西放到一个位置，也可把问题放进某个说法、把人置于某种处境。",
+    "split": "经中古英语 putten 等形式，早期与推、放动作有关，更远来源不完全确定。过去式和过去分词仍拼读 put /pʊt/，不加普通 -ed。",
+    "history": [
+      [
+        "古英语相关推、放词形 → 中古英语 putten",
+        "推、放置；更远来源仍有争议"
+      ],
+      [
+        "英语 put",
+        "放到某处、某状态；表达"
+      ]
+    ],
+    "explanation": "put the cup on the table 是把杯子放桌上；put someone at ease 是让人放松；put it simply 是简单地表达。动作常需要说明放哪里、成什么状态，单说 put the cup 往往没说完。",
+    "usage": "put something somewhere；put into words；put it simply；put someone at ease。",
+    "contrast": "put 常表示主动放置，lie 可说物体躺着的状态。I put it there 说明谁放，It lies there 说明它在那里。put on、put off 等短语还须按搭配学。",
+    "examples": [
+      [
+        "Please put the keys on the table.",
+        "请把钥匙放在桌上。"
+      ],
+      [
+        "I don’t know how to put my feelings into words.",
+        "我不知道怎样用语言表达自己的感受。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/put#English"
+    ]
+  },
+  {
+    "word": "putting",
+    "ipa": "放置 /ˈpʊtɪŋ/；高尔夫推杆 /ˈpʌtɪŋ/",
+    "meaning": "放置；高尔夫推杆",
+    "sense": "同样一串字母，可能是在把书放回去，也可能是在果岭上轻推高尔夫球。",
+    "split": "普通 putting 是 put + -ing，双写 t；高尔夫 putting 是 putt + -ing，putt 经苏格兰语相关形式进入英语。两种基词和读音要分清，不只按单词长度猜。",
+    "history": [
+      [
+        "put + -ing → putting /ˈpʊtɪŋ/",
+        "放置等动作的形式"
+      ],
+      [
+        "另一路：putt + -ing → putting /ˈpʌtɪŋ/",
+        "高尔夫推杆活动"
+      ]
+    ],
+    "explanation": "putting things away 是收好东西；practise putting 是练习推杆。语境通常很清楚：书包、杯子接放置，球场、球杆接推杆。",
+    "usage": "putting things away；putting it simply；practise putting。",
+    "contrast": "一般 put /pʊt/ 和高尔夫 putt /pʌt/ 在常见标准读音中不同；不能因为都写 putting 就只记一个 /ʊ/。",
+    "examples": [
+      [
+        "She is putting the books back on the shelf.",
+        "她正在把书放回书架。"
+      ],
+      [
+        "He spent an hour practising his putting.",
+        "他花了一小时练习高尔夫推杆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/putting#English"
+    ]
+  },
+  {
+    "word": "input",
+    "ipa": "/ˈɪnpʊt/",
+    "meaning": "输入；投入；意见、贡献；输入数据",
+    "sense": "把某样东西送进处理过程：可以是数据，也可以是时间、材料或建议。",
+    "split": "in-（向内）+ put（放），接较早英语 inputten 等形式；现代名词、动词都常用。",
+    "history": [
+      [
+        "古英语相关推、放词形 → 中古英语 putten",
+        "推、放置；更远来源仍有争议"
+      ],
+      [
+        "英语 put",
+        "放到某处、某状态；表达"
+      ],
+      [
+        "in- + put → input",
+        "放进去 → 输入或投入的内容"
+      ]
+    ],
+    "explanation": "user input 是用户输入，input data 是输入数据；Thanks for your input 是谢谢你的意见。生产分析中的 inputs 也可指各种投入资源。",
+    "usage": "user input；data input；input from the team；input data。",
+    "contrast": "input 是进入过程的，output 是出来的结果；反馈意见也可算 input，不只键盘打字才叫输入。",
+    "examples": [
+      [
+        "The form checks user input before saving it.",
+        "表单在保存前检查用户输入。"
+      ],
+      [
+        "We would welcome your input on the design.",
+        "我们欢迎你对设计提出意见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/input#English"
+    ]
+  },
+  {
+    "word": "throughput",
+    "ipa": "/ˈθruːpʊt/",
+    "meaning": "吞吐量；单位时间处理量",
+    "sense": "不只看门口进了多少、最后出了什么，而是看一段时间能让多少东西穿过整个流程。",
+    "split": "through（通过）+ put，仿 input、output 一类形式构成；不是 through“做完”单独变成了名词后缀。",
+    "history": [
+      [
+        "英语 through；input / output 的命名模式",
+        "通过；输入输出相关构词参照"
+      ],
+      [
+        "through + put → throughput",
+        "系统、生产流程的处理速率"
+      ]
+    ],
+    "explanation": "网络数据、工厂、服务流程都可谈 throughput。必须带时间或明确计算口径，如每秒请求、每小时件数，不能直接当总容量。",
+    "usage": "increase throughput；network throughput；production throughput。",
+    "contrast": "throughput 是单位时间完成多少，latency 是一次任务等多久；系统吞吐高不保证每个人等待短。",
+    "examples": [
+      [
+        "The new machine increased production throughput.",
+        "新机器提高了单位时间产量。"
+      ],
+      [
+        "The test measured throughput in requests per second.",
+        "测试用每秒请求数衡量吞吐量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/throughput#English"
+    ]
+  },
+  {
+    "word": "putter",
+    "ipa": "高尔夫、闲忙 /ˈpʌtə/（英）、/ˈpʌtər/（美）；放置者旧义 /ˈpʊtə(r)/",
+    "meaning": "高尔夫推杆；慢悠悠做零碎事〔尤美〕",
+    "sense": "球场上一支用于轻推球的杆；家里又可能是人这儿整理一下、那儿弄一下的闲忙。",
+    "split": "高尔夫名词是 putt + -er；putter around 的动词与 potter 的变体有关；另有 put + -er“放置者”等较少用名词。三路同形，不能讲成“拿推杆所以在家瞎忙”。",
+    "history": [
+      [
+        "putt + -er → putter",
+        "用于推杆的球杆或做推杆的人"
+      ],
+      [
+        "另一路：potter 的变体 putter",
+        "慢悠悠做零碎事；另有 put + -er 名词"
+      ]
+    ],
+    "explanation": "高尔夫中 pick up a putter 是拿起推杆；美式 putter around the garden 是在花园做些零碎事，英式常用 potter about。",
+    "usage": "a golf putter；practise with a putter；putter around。",
+    "contrast": "putter 的常用读音 /ʌ/ 与普通 put 的 /ʊ/ 不同；器具名与闲忙动词又不应被硬拼成同一现代派生过程。",
+    "examples": [
+      [
+        "He chose a new putter at the golf shop.",
+        "他在高尔夫用品店选了一支新推杆。"
+      ],
+      [
+        "She likes to putter around the garden on Sundays.",
+        "她喜欢周日在花园慢悠悠做些零碎活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/putter#English"
+    ]
+  }
+]

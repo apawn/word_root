@@ -1,0 +1,920 @@
+[
+  {
+    "word": "evolving",
+    "ipa": "英 /ɪˈvɒlvɪŋ/；美 /ɪˈvɑːlvɪŋ/",
+    "meaning": "演变；逐渐发展；进化〔分词、动名词〕",
+    "sense": "原来的画面是把卷起来的东西一点点展开。后来用来讲事物经过变化，逐步成为新的样子；计划、语言、生物都能成为它的对象。",
+    "split": "evolve 去末尾 e，加 -ing → evolving。拉丁 ex- 向外 + volvere 卷、转 → evolvere 展开卷物；英语后来由展开发展出逐渐变化的意思。",
+    "history": [
+      [
+        "拉丁 evolvere 展开、展开书卷 → evolve",
+        "英语较早指展开、扩展"
+      ],
+      [
+        "evolve 的发展、演变义 + -ing → evolving",
+        "现代泛指逐渐变化，生物学另有具体用法"
+      ]
+    ],
+    "explanation": "an evolving plan 是仍在逐渐调整的计划；evolving language 是演变中的语言；keep evolving 是持续发展变化。",
+    "usage": "an evolving plan；an evolving relationship；constantly evolving。",
+    "contrast": "evolving 不自动意味着每一步都更好。生物进化也不是必然朝某个预定的高级终点前进；日常语境则常强调仍在变化。",
+    "examples": [
+      [
+        "Our plans are still evolving.",
+        "我们的计划还在逐步调整。"
+      ],
+      [
+        "The book explores an evolving friendship.",
+        "这本书探讨了一段逐渐变化的友谊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evolving#English",
+      "https://www.etymonline.com/word/evolve"
+    ]
+  },
+  {
+    "word": "exploded",
+    "ipa": "英 /ɪkˈspləʊdɪd/；美 /ɪkˈsploʊdɪd/",
+    "meaning": "爆炸了；突然激增、爆发了；推翻了〔过去形式〕",
+    "sense": "声音、力量一下子向外爆开，是现代 explode 的典型画面。人数、情绪突然大增，也可以借用这种“猛地爆发”的感觉。",
+    "split": "explode 去末尾 e，加完整 -ed → exploded，/d/ 后读 /ɪd/。拉丁 ex- 向外 + plaudere 拍手 → explodere，较早是用噪声把演员赶下台。",
+    "history": [
+      [
+        "拉丁 explodere 以噪声逐出 → 英语 explode 驳斥、赶出",
+        "早期义与今天常见爆炸义不同"
+      ],
+      [
+        "猛烈、嘈杂地驱出 → 突然爆开、爆发 → exploded",
+        "旧的驳倒义还留在推翻某种说法的用法里"
+      ]
+    ],
+    "explanation": "exploded in popularity 是受欢迎程度猛增；exploded with laughter 是突然大笑；exploded a myth 是推翻一个错误说法。",
+    "usage": "exploded in popularity；exploded with laughter；an exploded myth。",
+    "contrast": "exploded 的意思随主语、宾语变化。The audience exploded with laughter 是观众笑声爆发，属于形象的说法。",
+    "examples": [
+      [
+        "The audience exploded with laughter at the final joke.",
+        "最后那个笑话让观众突然爆笑。"
+      ],
+      [
+        "Interest in the old game exploded after the documentary.",
+        "纪录片播出后，人们对那款老游戏的兴趣猛增。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exploded#English",
+      "https://www.etymonline.com/word/explode"
+    ]
+  },
+  {
+    "word": "favored",
+    "ipa": "英 /ˈfeɪvəd/；美 /ˈfeɪvɚd/",
+    "meaning": "支持了；偏爱的；占优势的、被看好的〔过去形式、形容词，美式常见拼写〕",
+    "sense": "选择时更往一边倾，便是 favor；得到这份偏爱、支持的一方，就是 favored。环境对某种结果有利，也能说 favored it。",
+    "split": "favor + -ed → favored，-ed 读 /d/；英式常见 favoured。favor 经法语 favor、favorer 等远接拉丁 favor、favere 善意、支持的词族。",
+    "history": [
+      [
+        "拉丁 favere 示好、支持 → favor → 法语相关名词、动词",
+        "善意、偏向某一方"
+      ],
+      [
+        "英语 favor + -ed → favored",
+        "过去形式，也可形容得到偏爱、被看好的人或方案"
+      ]
+    ],
+    "explanation": "a favored choice 是偏爱的选项；favored by the weather 是受天气条件帮助；favored to win 是被看好会获胜。",
+    "usage": "a favored choice；favored by the conditions；favored to win。",
+    "contrast": "favored 常说得到偏爱或优势的一方；favorable、favourable 常说有利的条件、肯定的评价。两者属于同族，但修饰的角度不同。",
+    "examples": [
+      [
+        "Most members favored the simpler plan.",
+        "多数成员更支持那个简单方案。"
+      ],
+      [
+        "The team was favored to win the final.",
+        "这支队伍被看好能赢得决赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/favored#English",
+      "https://www.etymonline.com/word/favor"
+    ]
+  },
+  {
+    "word": "flats",
+    "ipa": "英、美 /flæts/",
+    "meaning": "公寓〔英式常用〕；平底鞋；平坦地带〔名词复数〕",
+    "sense": "英国日常语境里，flats 常是一套套公寓；穿鞋语境里，是鞋底平、没有高跟的鞋；地形里则是平坦地带。先确定正在谈房子、鞋还是土地。",
+    "split": "flat + -s → flats，词尾 /ts/。公寓名经苏格兰语楼层义远接古英语 flett 地板、居所；平底鞋、平地等则接 flat 平的形容词。",
+    "history": [
+      [
+        "古英语 flett 地板、居所 → 苏格兰语楼层 → flat 公寓",
+        "从一层或一层中的住处形成住房名称"
+      ],
+      [
+        "古北欧 flatr 平的 → flat；平底鞋、平地等 → flats",
+        "两路在现代拼写上相同，较远都联系铺展词族"
+      ]
+    ],
+    "explanation": "a block of flats 是公寓楼；a pair of flats 是一双平底鞋；tidal flats 是潮滩、潮间带的平地。",
+    "usage": "a block of flats；a pair of flats；tidal flats。",
+    "contrast": "住房 flat 在美式英语里常对应 apartment。flats 作鞋名不把 flat 当普通形容词加复数，而是已用作鞋的名词。",
+    "examples": [
+      [
+        "The old offices were converted into flats.",
+        "旧办公室被改成了公寓。"
+      ],
+      [
+        "She changed from heels into flats.",
+        "她脱下高跟鞋，换上了平底鞋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flats#English",
+      "https://www.etymonline.com/word/flat"
+    ]
+  },
+  {
+    "word": "fulfilled",
+    "ipa": "英、美 /fʊlˈfɪld/",
+    "meaning": "履行了；实现了；满足的、有成就感的〔过去形式、形容词〕",
+    "sense": "把答应的事真正做完，把要求补齐，就是 fulfilled；人觉得自己的能力、愿望得到了发挥，也会感到 fulfilled，像心里某个空位终于填满了。",
+    "split": "美式 fulfill + -ed → fulfilled；英式 fulfil 双写末尾 l 后加 -ed，也得到 fulfilled。远接古英语 fullfyllan 填满，含 full 满与 fyllan 填。",
+    "history": [
+      [
+        "古英语 fullfyllan 填满、使充实 → fulfill、fulfil",
+        "后来用于完成、落实、满足"
+      ],
+      [
+        "动词过去形式 fulfilled → 满足、有成就感的形容词",
+        "动作完成与人的内心状态分别理解"
+      ]
+    ],
+    "explanation": "fulfilled a promise 是兑现了承诺；fulfilled the requirements 是满足了要求；feel fulfilled 是觉得充实、满足。",
+    "usage": "fulfilled a promise；fulfilled the requirements；feel fulfilled。",
+    "contrast": "fulfilled 不等于所有事情都没有遗憾。形容人时，它侧重所做的事有意义、内心有满足感；形容要求时则表示已经达到。",
+    "examples": [
+      [
+        "She fulfilled her promise to finish the book.",
+        "她兑现了承诺，把书写完了。"
+      ],
+      [
+        "He felt fulfilled after helping to restore the old theatre.",
+        "帮助修复老剧院后，他感到很有成就感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fulfilled#English",
+      "https://www.etymonline.com/word/fulfill"
+    ]
+  },
+  {
+    "word": "grabbing",
+    "ipa": "英、美 /ˈɡræbɪŋ/",
+    "meaning": "突然抓住；赶快拿取；吸引〔分词、动名词〕",
+    "sense": "伸手迅速抓住，是 grabbing；引人注意的东西像把你的目光抓过去，也可以说 grabbing attention。",
+    "split": "grab 双写末尾 b，加完整 -ing → grabbing。grab 接中古荷兰语、低地德语 grabben 等抓取动词，远连抓、够取的日耳曼词族。",
+    "history": [
+      [
+        "大陆日耳曼抓取动词 grabben 等 → 英语 grab",
+        "迅速、用力地拿住"
+      ],
+      [
+        "grab + -ing → grabbing",
+        "现代也说赶快拿点东西、吸引注意"
+      ]
+    ],
+    "explanation": "grabbing a bag 是迅速拿起包；grabbing lunch 是赶快吃点午饭；grabbing attention 是吸引眼球。",
+    "usage": "grabbing a bag；grabbing lunch；grabbing attention。",
+    "contrast": "grab 常带突然、迅速或抢先的感觉；take 本身更宽泛。grabbing lunch 在日常话里通常是简便、赶快吃一顿。",
+    "examples": [
+      [
+        "She left after grabbing her bag from the chair.",
+        "她从椅子上抓起包就离开了。"
+      ],
+      [
+        "The bright cover is good at grabbing attention.",
+        "这个鲜亮的封面很能吸引目光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grabbing#English",
+      "https://www.etymonline.com/word/grab"
+    ]
+  },
+  {
+    "word": "guts",
+    "ipa": "英、美 /ɡʌts/",
+    "meaning": "肠、内脏；内部构造；勇气、胆量〔名词，常作复数形式〕",
+    "sense": "guts 字面是身体里面的肠等；打开机器看到里面的部件，也可以比喻成它的 guts。说一个人有 guts，则是在夸他内里有胆气。",
+    "split": "gut + -s → guts，词尾 /ts/。gut 承古英语 guttas 肠道等，远连流通、倒出的材料；勇气义来自把内脏看作情绪、精神力量所在的旧观念。",
+    "history": [
+      [
+        "古英语 guttas 肠道等 → gut、guts",
+        "身体内部的通道与内容物"
+      ],
+      [
+        "内部 → 事物的内部构造；内在精神力量 → guts 勇气",
+        "这是不同语境中的比喻扩展"
+      ]
+    ],
+    "explanation": "have the guts to do something 是有胆量做某事；the guts of a machine 是机器内部构造；hate someone’s guts 是很强烈地讨厌某人。",
+    "usage": "have the guts to；the guts of the machine；show some guts。",
+    "contrast": "guts 表胆量时，常作为固定复数形式整体用：It takes guts 是这需要勇气。它比 courage 更口语、更有劲。",
+    "examples": [
+      [
+        "It takes guts to admit that you were wrong.",
+        "承认自己错了需要勇气。"
+      ],
+      [
+        "The display shows the guts of an old radio.",
+        "展品展示了一台老收音机的内部构造。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/guts#English",
+      "https://www.etymonline.com/word/guts"
+    ]
+  },
+  {
+    "word": "handing",
+    "ipa": "英、美 /ˈhændɪŋ/",
+    "meaning": "递给；交出；移交〔分词、动名词〕",
+    "sense": "东西从自己的手里到别人手里，是 handing；权力、责任虽然拿不在手里，也可以用这个动作来形容移交。",
+    "split": "hand + -ing → handing，原词不改。hand 承古英语 hond、hand 手，也有控制、持有的意思，更远来源不确定；英语后来把名词用作动词。",
+    "history": [
+      [
+        "古英语 hand 手、持有 → 英语 hand 名词",
+        "以手的抓握表达持有、控制"
+      ],
+      [
+        "hand 转动词接管、递交 → handing",
+        "现代递交义常与介词、副词组成短语"
+      ]
+    ],
+    "explanation": "handing out leaflets 是分发传单；handing in work 是交作业；handing over responsibility 是移交责任。",
+    "usage": "handing out；handing in；handing over。",
+    "contrast": "handing 后的小词会改变动作方向：out 是向大家分发，in 常是向负责接收的一方上交，over 常强调交给别人接手。",
+    "examples": [
+      [
+        "They were handing out maps at the entrance.",
+        "他们正在入口处分发地图。"
+      ],
+      [
+        "She is handing over the project to a colleague.",
+        "她正在把项目移交给一位同事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/handing#English",
+      "https://www.etymonline.com/word/hand"
+    ]
+  },
+  {
+    "word": "husbands",
+    "ipa": "英、美 /ˈhʌzbəndz/",
+    "meaning": "丈夫们〔复数〕；节约使用、妥善管理〔第三人称单数〕",
+    "sense": "现代最常见的是“丈夫”的复数。较旧的“家主、管家”意思还留下一个动词：husband resources，像精打细算管家一样管理资源。",
+    "split": "husband + -s → husbands，末尾 /dz/。古英语 husbonda 很可能借自古北欧 husbondi，含 hus 房屋与 bondi 居住者、家主；后者接 bua 居住。",
+    "history": [
+      [
+        "古北欧 husbondi 家主、居住者 → 古英语 husbonda → husband",
+        "后来成为与配偶相对的丈夫称呼"
+      ],
+      [
+        "家主、管理者旧义 → 节约管理的动词；加 -s → husbands",
+        "现代名词复数最常见，动词用法需看句子"
+      ]
+    ],
+    "explanation": "their husbands 是她们或他们的丈夫；husbands his resources 是他谨慎使用自己的资源，属于较正式的动词表达。",
+    "usage": "their husbands；husbands and wives；husbands his resources。",
+    "contrast": "husband 里的后半截历史上是居住者的材料，不能照现代 band 的“乐队、带子”去拼故事。现代动词更接近 conserve、manage carefully。",
+    "examples": [
+      [
+        "Their husbands joined them for dinner.",
+        "她们的丈夫也来与她们一起吃晚饭。"
+      ],
+      [
+        "The novel compares the lives of two husbands.",
+        "这部小说比较了两位丈夫的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/husbands#English",
+      "https://www.etymonline.com/word/husband"
+    ]
+  },
+  {
+    "word": "kidnapping",
+    "ipa": "英、美 /ˈkɪdnæpɪŋ/",
+    "meaning": "绑架；绑架事件〔分词、动名词、名词〕",
+    "sense": "把人强行带走、非法控制，是 kidnapping。词里的 kid 留着早期涉及儿童的历史，但今天这个词的对象也可以是成人。",
+    "split": "kidnap 双写末尾 p，加 -ing → kidnapping。kid 孩子 + nap 抓走，nap 可能是 nab 的变体；kidnap 也可能从记录更早的 kidnapper 逆构而来。",
+    "history": [
+      [
+        "kid 孩子 + nap 抓走 → kidnap 词族",
+        "早期联系强行带走儿童的行径，具体动词形成或有逆构"
+      ],
+      [
+        "kidnap + -ing → kidnapping",
+        "现代用于绑架行为，也可数一场绑架事件"
+      ]
+    ],
+    "explanation": "a kidnapping 是一宗绑架事件；a kidnapping plot 是绑架情节、阴谋；kidnapping a character 是绑架某个人物。",
+    "usage": "a kidnapping；a kidnapping plot；a story about kidnapping。",
+    "contrast": "kidnap 的 nap 是抓走的历史材料，与 nap 小睡不同。现代 kidnapping 并不限定受害者年龄。",
+    "examples": [
+      [
+        "The novel opens with a kidnapping.",
+        "小说以一宗绑架事件开场。"
+      ],
+      [
+        "The film’s kidnapping plot is entirely fictional.",
+        "电影中的绑架情节完全是虚构的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/kidnapping#English",
+      "https://www.etymonline.com/word/kidnap"
+    ]
+  },
+  {
+    "word": "medicines",
+    "ipa": "英 /ˈmedsənz/；美 /ˈmedəsənz/",
+    "meaning": "药物；药品〔复数〕",
+    "sense": "medicine 可以统说药，也可以是一种药；把不同种类、不同份的药品数出来，就用 medicines。",
+    "split": "medicine 保留末尾 e，加 -s → medicines，/n/ 后读 /z/。经古法语 medecine 接拉丁 medicina 医术、药物，远连 medicus 医者；更细的名词形成有不同分析。",
+    "history": [
+      [
+        "拉丁 medicina 医术、药物 → 古法语 medecine → medicine",
+        "医学活动与所用药物两种意思很早就并存"
+      ],
+      [
+        "medicine 的药物可数用法 + -s → medicines",
+        "现代复数常指数种药品"
+      ]
+    ],
+    "explanation": "different medicines 是不同药物；the history of medicines 是药物历史；medicines on display 是展出的药品。",
+    "usage": "different medicines；traditional medicines；the history of medicines。",
+    "contrast": "medicine 表医学这门领域时通常不可数：study medicine。medicines 常在数药品，而不是在说几门医学。",
+    "examples": [
+      [
+        "The museum displays old bottles used for medicines.",
+        "博物馆展出了旧时盛药用的瓶子。"
+      ],
+      [
+        "The chapter compares the names of several medicines.",
+        "这一章比较了几种药物的名称。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medicines#English",
+      "https://www.etymonline.com/word/medicine"
+    ]
+  },
+  {
+    "word": "observers",
+    "ipa": "英 /əbˈzɜːvəz/；美 /əbˈzɜːrvɚz/",
+    "meaning": "观察者；观察员；旁观者〔复数〕",
+    "sense": "留心看、记录变化的人是 observers。有些场合还特指在场观察、了解情况，却不以正式参与者身份行动的人。",
+    "split": "observe 去末尾 e，加完整 -er → observer，再加 -s。observe 经法语接拉丁 observare 看顾、留意、遵守，含 ob- 与 servare 看守、保护。",
+    "history": [
+      [
+        "拉丁 observare 看顾、遵守 → observe → observer",
+        "早期 observer 有遵守规则、习俗者的意思"
+      ],
+      [
+        "观察、留意的用法增强 → observers",
+        "现代观察者、观察员等角色名称"
+      ]
+    ],
+    "explanation": "careful observers 是细心的观察者；outside observers 是外部观察人士；observers at a meeting 是列席观察员。",
+    "usage": "careful observers；outside observers；observers at the meeting。",
+    "contrast": "observers 侧重观察、留意或相应角色；spectators 更常说观看赛事、表演的人。观察员是否参与具体事务，要看该场合的安排。",
+    "examples": [
+      [
+        "Careful observers noticed a change in the bird’s behaviour.",
+        "细心的观察者注意到那只鸟的行为变了。"
+      ],
+      [
+        "Several guests attended the meeting as observers.",
+        "几位来宾以观察员身份参加了会议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observers#English",
+      "https://www.etymonline.com/word/observer"
+    ]
+  },
+  {
+    "word": "packet",
+    "ipa": "英 /ˈpækɪt/；美 /ˈpækɪt/、/ˈpækət/",
+    "meaning": "小包；一包；数据包〔名词〕",
+    "sense": "把东西分成一小份、包成一包，就是 packet；数据传输时把信息分成一份份可传送的单位，也借用这个小包的名字。",
+    "split": "pack 包、捆 + -et 小称后缀 → packet。历史上可能在英语内形成并受法语 pacquet 影响，也有借法语的分析；远连日耳曼包裹词族。",
+    "history": [
+      [
+        "pack、法语 pacquet 等的小包材料 → 中古英语 paket",
+        "早期特别可说装有信件、公文的一包"
+      ],
+      [
+        "packet 的小包义 → 现代商品包装、数据包等用法",
+        "-et 原有小称作用，现代整体作为常用名词"
+      ]
+    ],
+    "explanation": "a packet of seeds 是一包种子；a packet of biscuits 在英式里是一包饼干；a data packet 是一个数据包。",
+    "usage": "a packet of seeds；a packet of biscuits；a data packet。",
+    "contrast": "packet 和 package 都与包装有关，地区、商品习惯会影响选词；packet 常让人想到小包。网络 packet 则是按技术规则划分的信息单位。",
+    "examples": [
+      [
+        "She opened a packet of seeds.",
+        "她打开了一包种子。"
+      ],
+      [
+        "The diagram shows the route taken by a data packet.",
+        "图示展示了一个数据包经过的路径。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/packet#English",
+      "https://www.etymonline.com/word/packet"
+    ]
+  },
+  {
+    "word": "pads",
+    "ipa": "英、美 /pædz/",
+    "meaning": "垫子；护垫；便笺本、画纸本〔复数〕；填充；轻步走〔第三人称单数〕",
+    "sense": "一层软东西垫在下面，是 pad；一叠纸固定在一边、可以一页页写，也叫 pad。它们的复数都写 pads。",
+    "split": "pad + -s → pads，/d/ 后读 /z/。垫子名的远源不明确，早有铺睡的草束、软垫义，后来发展出成叠纸张的名称。轻步走的 pad 另有来源线索。",
+    "history": [
+      [
+        "pad 的草束、软垫 → 垫层、护垫",
+        "远源可能涉及多种词的混合，不能定为唯一祖形"
+      ],
+      [
+        "pad 的成叠纸张等义 → pads；动词另分填垫与轻步走",
+        "现代同形，要随句子区分"
+      ]
+    ],
+    "explanation": "knee pads 是护膝；writing pads 是便笺本；pads the box 是给盒子加衬垫；the cat pads across... 是猫轻轻走过。",
+    "usage": "knee pads；writing pads；pads across the room。",
+    "contrast": "纸本与软垫都可以用 pad 来命名；轻步走的动词却不能简单理解成“脚下有软垫”造出来的，它有另一条历史线。",
+    "examples": [
+      [
+        "The drawers contain pencils and writing pads.",
+        "抽屉里放着铅笔和便笺本。"
+      ],
+      [
+        "She wore knee pads while skating.",
+        "她滑冰时戴着护膝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pads#English",
+      "https://www.etymonline.com/word/pad"
+    ]
+  },
+  {
+    "word": "patents",
+    "ipa": "英 /ˈpeɪtənts/；美 /ˈpætənts/、/ˈpeɪtənts/",
+    "meaning": "专利、专利权〔复数〕；为……取得专利〔第三人称单数〕",
+    "sense": "最早的画面是公开展示的授予文书：某种权利正式授予谁，让大家都能知道。后来 patent 特别用于发明专利，复数便是 patents。",
+    "split": "patent + -s → patents，末尾 /nts/。拉丁 patere 敞开 → patens 敞开的，经法语、拉丁“公开授予文书”的名称缩短发展而来。",
+    "history": [
+      [
+        "拉丁 patens 敞开的 → lettre patent、litterae patentes 公开文书",
+        "与封起给特定人看的信件相对"
+      ],
+      [
+        "授予某种权利的文书 → 发明专利 → patents",
+        "名词后来也转成申请取得专利的动词"
+      ]
+    ],
+    "explanation": "patents for inventions 是发明专利；holds several patents 是拥有几项专利；patents a design 是为设计取得专利，具体权利范围由相应制度决定。",
+    "usage": "holds several patents；patents for inventions；a collection of patents。",
+    "contrast": "patents 与版权 copyrights 不是同一个词义。这里记住发明、专利这一常用分支；patent 另有明显的、公开的形容词义，通常不以 patents 表达。",
+    "examples": [
+      [
+        "The inventor held several patents.",
+        "那位发明家拥有几项专利。"
+      ],
+      [
+        "The archive contains old patents for mechanical devices.",
+        "档案里有一些机械装置的旧专利文书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/patents#English",
+      "https://www.etymonline.com/word/patent"
+    ]
+  },
+  {
+    "word": "plots",
+    "ipa": "英 /plɒts/；美 /plɑːts/",
+    "meaning": "地块；情节；阴谋；图〔复数〕；绘图、策划〔第三人称单数〕",
+    "sense": "一小块划好的土地是 plot；故事里安排好的事件线是 plot；暗中安排的计划也可以是 plot。意思不少，靠对象把分支认清。",
+    "split": "plot + -s → plots，末尾 /ts/。古英语后期 plot 是小地块，远源不明；后来有平面图、绘图义。计划、阴谋义可能受法语 complot 影响，再有叙事情节。",
+    "history": [
+      [
+        "早期 plot 小地块 → 平面图、图示 → 绘图动词",
+        "围绕土地、在纸上规划的分支"
+      ],
+      [
+        "complot 等可能影响计划义 → 阴谋、故事情节 → plots",
+        "历史包含词形影响，不必强串成一条单线"
+      ]
+    ],
+    "explanation": "garden plots 是小块园地；novel plots 是小说情节；plots the points 是把各点标在图上。",
+    "usage": "garden plots；novel plots；plots the points。",
+    "contrast": "plots 的情节义强调事件怎样安排、怎样推进；themes 是作品探讨的主题。相同主题可以写成完全不同的 plots。",
+    "examples": [
+      [
+        "The two novels have very different plots.",
+        "这两部小说的情节很不一样。"
+      ],
+      [
+        "The program plots the points on a graph.",
+        "这个程序把各点标在图上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plots#English",
+      "https://www.etymonline.com/word/plot"
+    ]
+  },
+  {
+    "word": "proclaimed",
+    "ipa": "英 /prəˈkleɪmd/；美 /prəˈkleɪmd/、/proʊˈkleɪmd/",
+    "meaning": "宣布了；公开宣称了；明确显示了〔过去形式〕",
+    "sense": "把话向外喊，让大家都知道，是 proclaim 的画面。今天不一定真靠喊，但仍带公开、郑重，或鲜明表达立场的感觉。",
+    "split": "proclaim + -ed → proclaimed，/m/ 后读 /d/。拉丁 pro- 向外 + clamare 喊 → proclamare；英语早期 proclamen，后来拼写受 claim 影响。",
+    "history": [
+      [
+        "拉丁 proclamare 公开喊出 → 英语 proclaim",
+        "向公众宣布、使大家知道"
+      ],
+      [
+        "proclaim + -ed → proclaimed",
+        "现代可说正式宣布，也可说毫不掩饰地表达"
+      ]
+    ],
+    "explanation": "proclaimed the winner 是宣布获胜者；proclaimed their support 是公开表态支持；proclaimed a holiday 是宣布放假。",
+    "usage": "proclaimed the winner；proclaimed their support；proclaimed a holiday。",
+    "contrast": "proclaimed 表示公开宣布、宣称，不自动保证内容真实。The character proclaimed himself a genius 只是那个人物自称天才。",
+    "examples": [
+      [
+        "The judges proclaimed her the winner.",
+        "评委宣布她获胜。"
+      ],
+      [
+        "The group proclaimed its support for the new library.",
+        "这个团体公开表示支持新图书馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proclaimed#English",
+      "https://www.etymonline.com/word/proclaim"
+    ]
+  },
+  {
+    "word": "recognizing",
+    "ipa": "英、美 /ˈrekəɡnaɪzɪŋ/",
+    "meaning": "认出；辨认；承认；认可〔分词、动名词〕",
+    "sense": "看见一张脸，和记忆中的人对上了，是 recognizing；看见一项贡献，承认它值得重视，也叫 recognizing。核心是“认出来，并把它当回事”。",
+    "split": "recognize 去末尾 e，加完整 -ing → recognizing；也有 recognising。远接拉丁 re- 再 + cognoscere 认识 → recognoscere；英语近源有法语动词借入或 recognizance 逆构等分析。",
+    "history": [
+      [
+        "拉丁 recognoscere 再认识、承认 → 法语相关词族",
+        "与知识、认识的 gnosc- 词族相连"
+      ],
+      [
+        "英语 recognize 的多种近源分析 → recognizing",
+        "现代词尾处理明确，早期借入路径保留不同意见"
+      ]
+    ],
+    "explanation": "recognizing a face 是认出一张脸；recognizing a problem 是意识到问题；recognizing someone’s contribution 是认可某人的贡献。",
+    "usage": "recognizing faces；recognizing a problem；recognizing her contribution。",
+    "contrast": "recognizing 可以是认出熟悉对象，也可以是承认事实、认可价值。会读出名字只是 reading it，认出这个人是谁才是 recognizing the person。",
+    "examples": [
+      [
+        "She is good at recognizing voices.",
+        "她很善于凭声音认人。"
+      ],
+      [
+        "The ceremony focused on recognizing the volunteers’ work.",
+        "这场仪式着重表彰志愿者的工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recognizing#English",
+      "https://www.etymonline.com/word/recognize"
+    ]
+  },
+  {
+    "word": "recommends",
+    "ipa": "英、美 /ˌrekəˈmendz/",
+    "meaning": "推荐；建议〔第三人称单数〕",
+    "sense": "觉得一个东西值得别人考虑，把它推到别人面前，是 recommends；觉得某种做法合适，建议别人采用，也用这个词。",
+    "split": "recommend + -s → recommends，/d/ 后读 /z/。中世纪拉丁 recommendare 接 re- 与 commendare 委托、称许；re- 在此可能加强，不能固定译成再次。",
+    "history": [
+      [
+        "拉丁 commendare 委托、称许 → recommendare → recommend",
+        "从交付信任、认为值得关注到推荐"
+      ],
+      [
+        "recommend + -s → recommends",
+        "现代推荐人、物，也可建议某种行动"
+      ]
+    ],
+    "explanation": "recommends a book 是推荐一本书；recommends taking a break 是建议休息；recommends that... 后面可以说明建议的做法。",
+    "usage": "recommends a book；recommends doing；recommends that。",
+    "contrast": "推荐不需要此前已经推荐过一次，re- 在这里不能机械理解成“再来一遍”。recommend 常用 recommend doing，或 recommend that... 来说明建议。",
+    "examples": [
+      [
+        "She recommends this book to new readers.",
+        "她向刚入门的读者推荐这本书。"
+      ],
+      [
+        "The guide recommends arriving before noon.",
+        "指南建议中午前到达。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recommends#English",
+      "https://www.etymonline.com/word/recommend"
+    ]
+  },
+  {
+    "word": "repaired",
+    "ipa": "英 /rɪˈpeəd/；美 /rɪˈperd/",
+    "meaning": "修好了；修补过的；弥补了〔过去形式、形容词〕",
+    "sense": "坏了、裂了、不能正常用，把它恢复到能用的状态，就是 repaired。关系受损后重新修复，也能借用这个画面。",
+    "split": "repair + 完整 -ed → repaired，-ed 读 /d/。拉丁 re- 再 + parare 准备 → reparare 恢复，经法语 reparer 接英语修复的 repair。",
+    "history": [
+      [
+        "拉丁 reparare 恢复、重新准备 → 法语 reparer → repair",
+        "把状态重新整理到可用、完好"
+      ],
+      [
+        "repair + -ed → repaired",
+        "现代修理实物，也可修复损害、关系"
+      ]
+    ],
+    "explanation": "repaired the roof 是修好了屋顶；a repaired chair 是修补过的椅子；repaired a friendship 是修复了友谊。",
+    "usage": "repaired the roof；a repaired chair；repaired the damage。",
+    "contrast": "repaired 关注修复，replaced 关注换掉。一个零件可以 repaired 后继续用，也可以用新的零件 replaced。",
+    "examples": [
+      [
+        "The carpenter repaired the old chair.",
+        "木匠修好了那把旧椅子。"
+      ],
+      [
+        "The repaired roof kept the room dry.",
+        "修好的屋顶让房间不再漏雨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/repaired#English",
+      "https://www.etymonline.com/word/repair"
+    ]
+  },
+  {
+    "word": "rotating",
+    "ipa": "英 /rəʊˈteɪtɪŋ/；美 /ˈroʊteɪtɪŋ/",
+    "meaning": "旋转的；使旋转；轮换的〔分词、形容词〕",
+    "sense": "轮子围着轴转，是 rotating；职责轮流交给不同的人，也像把位置一格格转到下一个人手里。",
+    "split": "rotate 去末尾 e，加完整 -ing → rotating。英语 rotate 由较早的 rotation 逆构，远接拉丁 rotatio、rotare 转动与 rota 轮。",
+    "history": [
+      [
+        "拉丁 rota 轮、rotare 转 → rotatio → 英语 rotation",
+        "英语先借入相应的转动名词"
+      ],
+      [
+        "由 rotation 逆构 rotate → rotating",
+        "现代说物体转动，也说任务、岗位轮换"
+      ]
+    ],
+    "explanation": "a rotating wheel 是转动的轮子；rotating duties 是轮换职责；a rotating display 是旋转的展示装置，也可随语境说轮换展示的内容。",
+    "usage": "a rotating wheel；rotating duties；a rotating display。",
+    "contrast": "rotating 侧重围绕轴、中心转，或按顺序轮换。moving 的范围更广，直线走动也可以 moving。",
+    "examples": [
+      [
+        "The display stands on a rotating platform.",
+        "展品放在一个旋转平台上。"
+      ],
+      [
+        "The team uses a rotating schedule for weekend duties.",
+        "团队按轮换表安排周末值班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rotating#English",
+      "https://www.etymonline.com/word/rotate"
+    ]
+  },
+  {
+    "word": "satellites",
+    "ipa": "英、美 /ˈsætəlaɪts/",
+    "meaning": "卫星；人造卫星；附属机构、附庸〔复数〕",
+    "sense": "古时 satellite 是重要人物身边跟随的人。天体绕着另一天体运行，像一个随从，于是借这个名字叫卫星；后来人造卫星也沿用它。",
+    "split": "satellite 保留末尾 e，加 -s → satellites，末尾 /ts/。经法语 satellite 接拉丁 satelles、satellit- 随从、侍卫，更远来源不确定。",
+    "history": [
+      [
+        "拉丁 satelles 随从、侍卫 → 法语 satellite → 英语 satellite",
+        "较早指跟随重要人物的人"
+      ],
+      [
+        "随从的比喻 → 天体卫星 → 人造卫星；复数 satellites",
+        "也可比喻依附某个中心的机构、地区等"
+      ]
+    ],
+    "explanation": "natural satellites 是天然卫星；artificial satellites 是人造卫星；weather satellites 是气象卫星。",
+    "usage": "natural satellites；artificial satellites；weather satellites。",
+    "contrast": "satellites 不只说人造设备，月球也是地球的天然卫星。satellite office 等则借附属、分支的关系来形容机构。",
+    "examples": [
+      [
+        "The diagram shows several satellites orbiting a planet.",
+        "示意图展示了几颗绕行一颗行星的卫星。"
+      ],
+      [
+        "Weather satellites provide images of clouds.",
+        "气象卫星提供云层图像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/satellites#English",
+      "https://www.etymonline.com/word/satellite"
+    ]
+  },
+  {
+    "word": "shores",
+    "ipa": "英 /ʃɔːz/；美 /ʃɔːrz/",
+    "meaning": "岸、滨岸地区〔复数〕；支撑、巩固〔第三人称单数，常接 up〕",
+    "sense": "水边的陆地是 shore，沿湖、沿海的各处岸边可以说 shores。另一个动词 shore up 是撑住、加固，历史上属于另一条词线。",
+    "split": "shore 保留末尾 e，加 -s → shores。岸名可能接古英语或低地德语、荷兰语等材料；远连切分的分析有不确定性。支撑动词接另一个日耳曼支柱词族。",
+    "history": [
+      [
+        "古英语、低地日耳曼岸边名称 → shore → shores",
+        "具体借入、继承路径与更远含义仍有不同分析"
+      ],
+      [
+        "另源的 shore 支柱、支撑 → shores up",
+        "从实体支撑扩展到抽象支持、巩固"
+      ]
+    ],
+    "explanation": "the shores of a lake 是湖岸；distant shores 是遥远的海岸、异乡；shores up confidence 是增强、稳住信心。",
+    "usage": "the shores of the lake；distant shores；shores up confidence。",
+    "contrast": "shores 不一定是沙滩，岩岸、湖岸也可以。shores up the roof 是支撑屋顶，要按动词理解，别从海边的名词去拼意思。",
+    "examples": [
+      [
+        "Small villages stood along the shores of the lake.",
+        "湖岸沿线散布着小村庄。"
+      ],
+      [
+        "The final clue shores up the detective’s theory.",
+        "最后一条线索为侦探的推论提供了支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shores#English",
+      "https://www.etymonline.com/word/shore"
+    ]
+  },
+  {
+    "word": "simplicity",
+    "ipa": "英 /sɪmˈplɪsəti/；美 /sɪmˈplɪsəti/",
+    "meaning": "简单；简洁；朴素〔名词〕",
+    "sense": "没有绕很多弯、堆很多东西，让人一眼抓到重点，是 simplicity。它可以夸设计干净，也可以说生活不铺张。",
+    "split": "与 simple 对应的性质名词。历史经法语 simplicite 接拉丁 simplicitas，来自 simplex、simplic- 单纯、单一；不是把现代 simple 随意改几个字母就有一条通用规则。",
+    "history": [
+      [
+        "拉丁 simplex、simplic- 单纯 → simplicitas",
+        "单一、坦率、不复杂等性质"
+      ],
+      [
+        "法语 simplicite → 英语 simplicity",
+        "现代常用在表达、设计、生活方式的简洁与朴素"
+      ]
+    ],
+    "explanation": "the simplicity of the design 是设计的简洁；for simplicity 是为了简便；simplicity of life 是生活的朴素。",
+    "usage": "the simplicity of；for simplicity；elegant simplicity。",
+    "contrast": "simplicity 可以是优点；oversimplification 是过度简化、把重要部分省掉。简洁并不等于内容贫乏，要看是否保住了重点。",
+    "examples": [
+      [
+        "I like the simplicity of this design.",
+        "我喜欢这个设计的简洁。"
+      ],
+      [
+        "For simplicity, the diagram uses only two colours.",
+        "为了简明，这幅图只用了两种颜色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/simplicity#English",
+      "https://www.etymonline.com/word/simplicity"
+    ]
+  },
+  {
+    "word": "specimens",
+    "ipa": "英、美 /ˈspesɪmɪnz/",
+    "meaning": "标本；样本；典型实物〔复数〕",
+    "sense": "拿出一个实物，让人通过观察它认识这一类东西，这个实物就可以叫 specimen。昆虫标本、矿物样本都是清楚的例子。",
+    "split": "specimen + -s → specimens，/n/ 后读 /z/。拉丁 specimen 标记、例子、据以认识之物，接 specere 看；词根 spec- 的画面是看、观察。",
+    "history": [
+      [
+        "拉丁 specere 看 → specimen 例子、识别的依据",
+        "通过看得见的东西认识某类事物"
+      ],
+      [
+        "英语 specimen 的代表实物、自然标本等义 → specimens",
+        "现代可数一件件样本、标本"
+      ]
+    ],
+    "explanation": "plant specimens 是植物标本；mineral specimens 是矿物样本；specimens in a collection 是收藏中的各件标本。",
+    "usage": "plant specimens；mineral specimens；a collection of specimens。",
+    "contrast": "specimens 是具体样本，species 是种、类别；两个 specimen 可以属于同一 species。specimen 也不要求一定经过保存处理。",
+    "examples": [
+      [
+        "The museum has a large collection of mineral specimens.",
+        "博物馆收藏了大量矿物样本。"
+      ],
+      [
+        "The students drew several plant specimens.",
+        "学生们画了几件植物标本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/specimens#English",
+      "https://www.etymonline.com/word/specimen"
+    ]
+  },
+  {
+    "word": "supplements",
+    "ipa": "名词：英 /ˈsʌplɪmənts/、美 /ˈsʌpləmənts/；动词：英、美 /ˈsʌplɪments/",
+    "meaning": "补充物；增刊、附刊；补充剂〔复数〕；补充〔第三人称单数〕",
+    "sense": "原来的东西还缺一块，再加一些使它更完整，这些加进去的东西是 supplements。书报可以有附刊，收入可以由额外工作补上。",
+    "split": "supplement + -s → supplements。拉丁 sub- 与 plere 填满 → supplere 补足 → supplementum 补充物。名词末尾常弱读 /mənt/，动词末尾较清楚地读 /ment/。",
+    "history": [
+      [
+        "拉丁 supplere 补满 → supplementum → supplement 名词",
+        "加进来弥补不足的东西"
+      ],
+      [
+        "英语名词转动词补充 → supplements",
+        "现代名词复数和动词第三人称同形，读音略有区别"
+      ]
+    ],
+    "explanation": "newspaper supplements 是报纸附刊；dietary supplements 是膳食补充剂；supplements an income 是补充收入。",
+    "usage": "newspaper supplements；dietary supplements；supplements her income。",
+    "contrast": "supplements 的共同点是加在已有内容上。replacement 是替代物；增刊补充正刊，额外收入补充原有收入。",
+    "examples": [
+      [
+        "The library keeps the newspaper supplements with the main editions.",
+        "图书馆把报纸附刊与正刊放在一起保存。"
+      ],
+      [
+        "She supplements her income by teaching drawing.",
+        "她通过教画画来补充收入。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplements#English",
+      "https://www.etymonline.com/word/supplement"
+    ]
+  },
+  {
+    "word": "whales",
+    "ipa": "英、美 /weɪlz/；部分口音 /hweɪlz/",
+    "meaning": "鲸〔复数〕",
+    "sense": "在海里生活、用肺呼吸的哺乳动物，是 whales。外形虽然适应了游水，鲸仍属于哺乳动物。",
+    "split": "whale 保留末尾 e，加 -s → whales，/l/ 后读 /z/。whale 承古英语 hwæl，旧时名称曾涵盖更宽的海兽范围。",
+    "history": [
+      [
+        "古英语 hwæl 等日耳曼海兽名称 → whale",
+        "古时的日常分类与现代生物分类不完全相同"
+      ],
+      [
+        "现代 whale 鲸 + -s → whales",
+        "词首 wh 多数口音读 /w/，部分口音保留 /hw/"
+      ]
+    ],
+    "explanation": "blue whales 是蓝鲸；a group of whales 是一群鲸；whales at the surface 是浮到水面的鲸。",
+    "usage": "blue whales；a group of whales；whales at the surface。",
+    "contrast": "whales 的复数只在末尾加 -s，末尾 e 保留。whale shark 是鲸鲨的复合名称，其中 shark 才说明它属于鲨鱼。",
+    "examples": [
+      [
+        "We watched the whales from the shore.",
+        "我们在岸上观察那些鲸。"
+      ],
+      [
+        "The documentary follows a group of whales across the ocean.",
+        "纪录片跟拍一群鲸穿越海洋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whales#English",
+      "https://www.etymonline.com/word/whale"
+    ]
+  }
+]

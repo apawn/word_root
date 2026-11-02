@@ -1,0 +1,103 @@
+[
+  {
+    "id": "B2850",
+    "meaning": "睡梦、想象和理想；梦幻场景与人物分组",
+    "core": "DREAM：脑中的画面；也承载现实还没实现的向往",
+    "image": "dream → dreamt、dreamer、dreamy、dreamlike；梦中地方和画面一起读，再讲文化物件、迷人对象；daydream、dreamworld 共享。",
+    "intro": "古英语快乐、音乐的同形词与现代睡梦词如何衔接仍有争议，从可靠中古英语睡梦用法讲起。",
+    "forms": "dream → dreamt/dreamed；dream + -er/-y/-like；dream + land/world/catcher/boat；dream + -scape；day + dream。\n\n中古英语睡梦词与北欧同族关系密切；和古英语快乐、音乐义的具体关系未定。\n\n中古英语睡梦义与北欧同族词相关，古英语快乐、音乐同形词的连接有争论。\n\n现代梦的 dream 与古英语同形的快乐、音乐义之间关系未定，可能有北欧影响。现代加完整 -ed，读 /d/；另有 dreamt，不强列唯一区域规则。",
+    "branches": [
+      [
+        "基本词、变化和人物",
+        "dream · dreamt · dreamer"
+      ],
+      [
+        "状态和类梦特征",
+        "dreamy · dreamlike · daydream"
+      ],
+      [
+        "梦中地方、画面和物件",
+        "dreamland · dreamworld · dreamscape · dreamcatcher"
+      ],
+      [
+        "理想对象的俚语",
+        "dreamboat"
+      ],
+      [
+        "dream → dreams：睡梦与梦想",
+        "dream · dreams"
+      ],
+      [
+        "dream → dreaming：梦中画面与对未来的想象",
+        "dream · dreaming"
+      ],
+      [
+        "dream → dreamed：梦见与梦想",
+        "dreamed"
+      ]
+    ],
+    "contrasts": "dreamt/dreamed 都标准；dreamy 未必等于 dreamlike 所有用法；dreamcatcher 文化物件与信念分清；dreamboat 人物俚语。",
+    "practice": "The dreamer dreamt of a strange dreamscape and painted it the next day.\n\n这个爱做梦的人梦见奇异景象，第二天把它画了下来。",
+    "words": [
+      "dream",
+      "dreamt",
+      "dreamer",
+      "dreamy",
+      "dreamlike",
+      "daydream",
+      "dreamland",
+      "dreamworld",
+      "dreamscape",
+      "dreamcatcher",
+      "dreamboat",
+      "dreams",
+      "dreaming",
+      "dreamed"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3356",
+    "meaning": "扇具与爱好者两条来源；设备和粉丝扩展分组",
+    "core": "FAN：风扇、粉丝同形，来源分开",
+    "image": "fan 先明确两源；fandom、fanboy 等接粉丝支线，turbofan 接风扇支线；已有同族词共享。",
+    "intro": "扇动和热情都能帮助想象，但不是风扇吹得热就变粉丝。爱好者义有 fanatic 缩略来源，现代语气通常更中性。",
+    "forms": "拉丁 vannus → fann → fan；另源 fanatic → fan；fan + -dom/boy/girl/art/site；super- + fan；turbo- + fan。\n\n扇具 fan 远接拉丁 vannus，爱好者 fan 常视为 fanatic 截短；复数同写 fans，但来源分开。",
+    "branches": [
+      [
+        "基本词的两条来源",
+        "fan"
+      ],
+      [
+        "爱好者与文化",
+        "fandom · fanboy · fangirl · fanart · fansite · superfan"
+      ],
+      [
+        "设备",
+        "turbofan"
+      ],
+      [
+        "fan → fans：扇子、爱好者与煽动",
+        "fan · fans"
+      ]
+    ],
+    "contrasts": "fan 中性粉丝不等于 fanatic 的过度狂热；fandom 圈子不必正式俱乐部；turbofan 接风扇义。",
+    "practice": "The aircraft fan enjoyed studying the turbofan display.\n\n这位飞机迷很喜欢研究涡扇发动机展品。",
+    "words": [
+      "fan",
+      "fandom",
+      "fanboy",
+      "fangirl",
+      "fanart",
+      "fansite",
+      "superfan",
+      "turbofan",
+      "fans"
+    ],
+    "exclude": {
+      "anti-fan": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fan-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fan-blast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1206,7 +1206,7 @@
     "ipa": "英 /rɪˈfaɪnə/；美 /rɪˈfaɪnər/",
     "meaning": "精炼者；精炼企业；精炼设备",
     "sense": "refiner 是做 refine 这件事的人、企业或设备。看到 oil refiner，可以想成把原油加工为可用产品的一方。",
-    "split": "refine + -er，词末已有 e，只加 r。-er 不限于表示人，也能表示企业和机器。",
+    "split": "refine 去末尾 e，加完整表人或器物后缀 -er。-er 不限于表示人，也能表示企业和机器。",
     "history": [
       [
         "古法语：fin",
@@ -1366,7 +1366,7 @@
     "ipa": "/əˈkjuːzd/",
     "meaning": "被指控的；被告；accuse 的过去式和过去分词",
     "sense": "accused 把镜头转向受到指控的一方：有人说他做了错事。仅凭这个词，还不能知道这件事最后是否被证实。",
-    "split": "accuse + -ed；词尾已有 e，只加 d。过去分词可用来描述状态；the accused 可以指被告。",
+    "split": "accuse + -ed；拼写时先去 e，再加完整 -ed。过去分词可用来描述状态；the accused 可以指被告。",
     "history": [
       [
         "拉丁语：causa",

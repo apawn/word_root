@@ -1,0 +1,225 @@
+[
+  {
+    "id": "B3670",
+    "meaning": "臀部口语、闲混人物与拟声动作分支，现代同形各辨",
+    "core": "BUM：几条路碰成同形，场景比硬拆更管用",
+    "image": "bum 的英式身体义、美式人物和讨要义分开；bummer 抓扫兴，bumble 抓笨拙、嗡鸣。",
+    "intro": "这是不适合用一个中文根义包到底的组。实际句子先认身体、人物评价、失望感叹或笨拙动作，再接各自已知历史。",
+    "forms": "bom → 身体 bum；Bummler → bummer、人物 bum；拟声 bum、boom + -le → 声音 bumble，笨拙义还有表现性发展。",
+    "branches": [
+      [
+        "常用口语与扫兴表达",
+        "bum · bummer"
+      ],
+      [
+        "声音、笨拙动作对照",
+        "bumble"
+      ]
+    ],
+    "contrasts": "bummer 常指事，不是一定指人；bumble 不由臀部义推出。",
+    "practice": "He bumbled to the station, missed the train, and said, “What a bummer!”\n\n他慌慌张张赶到车站，错过列车，只好说：“真倒霉！”",
+    "words": [
+      "bum",
+      "bummer",
+      "bumble"
+    ],
+    "exclude": {
+      "bum-clock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bare-bum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4231",
+    "meaning": "锥形与球果的老名称，性质和树种复合依次展开",
+    "core": "CONE：一头宽、一头收拢，球果也借同一形状名",
+    "image": "cone → conical、pinecone，物体、相应形状性质、松树球果分别读。",
+    "intro": "几何锥体与自然球果形状相连，pine 再限定树种。松果不是松子，前者是结构，后者是其中所含的种子。",
+    "forms": "cone 的希腊、拉丁借词历史见基础词条；conic／conical 为性质；pine + cone。",
+    "branches": [
+      [
+        "锥体、锥形与松果",
+        "cone · conical · pinecone"
+      ]
+    ],
+    "contrasts": "pinecone 与 pine nut 不是同一层物件；conical 是形容性质。",
+    "practice": "The pinecone had a roughly conical shape.\n\n这枚松果大致呈锥形。",
+    "words": [
+      "cone",
+      "conical",
+      "pinecone"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3318",
+    "meaning": "破坏性质、方式、程度与否定，按操作对象理解",
+    "core": "DESTRUCTIVE：会破坏，non- 则否定这份性质",
+    "image": "destructive → destructively、destructiveness、nondestructive。",
+    "intro": "破坏可以谈实体、生态或关系。无损检测、编辑则按是否保留对象这一标准命名，不把无损误读成没有任何局限。",
+    "forms": "destroy 相关词族 → destructive；-ly 方式，-ness 性质；non- 否定。",
+    "branches": [
+      [
+        "破坏性质、方式与程度",
+        "destructive · destructively · destructiveness"
+      ],
+      [
+        "保留对象的否定性质",
+        "nondestructive"
+      ]
+    ],
+    "contrasts": "nondestructive 否定破坏，不自动说明精度、覆盖率；具体检测目标另看。",
+    "practice": "They compared destructive and nondestructive ways of examining the material.\n\n他们比较了检查材料的破坏性和无损方法。",
+    "words": [
+      "destructive",
+      "destructively",
+      "destructiveness",
+      "nondestructive"
+    ],
+    "exclude": {
+      "self-destructive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4102",
+    "meaning": "怪物名与滚动、拖钓动词分支，网络挑衅可能汇合意象",
+    "core": "TROLL：故事看怪物，拖钓看诱饵，小车看滚动",
+    "image": "troll → trolley 的可能联系在滚动动作；网络 troll 的引诱争吵义还有其他形象影响。",
+    "intro": "几条近源路线分别看，才能避免把同形都当神话怪物的派生。现代学习先用桥下怪物、拖行鱼饵、滚轮小车三个场景定位。",
+    "forms": "北欧 troll → 怪物名；trollen 等 → 滚动、拖钓、引诱；可能 troll + -ey → trolley。\n\n怪物名接古北欧 troll；网络 troll 的形成联系引诱上钩的动词，并可能与怪物形象汇合。复数 -s，不把单一比喻当作唯一历史。",
+    "branches": [
+      [
+        "怪物、拖钓与网上挑衅",
+        "troll"
+      ],
+      [
+        "滚动小车与电车",
+        "trolley"
+      ],
+      [
+        "troll 民间怪物与网络挑衅分线",
+        "trolls"
+      ]
+    ],
+    "contrasts": "trolley 不由怪物形象直接派生；网络 troll 常有诱发反应的意图，不能等同一切异议。",
+    "practice": "The trolley passed a shop displaying a wooden troll.\n\n电车经过一家店，店里陈列着木雕巨怪。",
+    "words": [
+      "troll",
+      "trolley",
+      "trolls"
+    ],
+    "exclude": {
+      "troll-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hill-troll": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3058",
+    "meaning": "围绕外周的边沿，具有边框与围边动作同形",
+    "core": "RIM：沿外圈走一圈，杯沿、镜框、轮辋都能看到",
+    "image": "rim → rimmed，从外沿到具有边沿、给边沿围上东西的形式。",
+    "intro": "环状边缘最容易形成图像。名词做身体、器物局部名称，动词让东西沿边围出一圈，-ed 再可表示具有边框或过去状态。",
+    "forms": "rima → rim；双写 m + -ed → rimmed。",
+    "branches": [
+      [
+        "边沿与有边框、围边状态",
+        "rim · rimmed"
+      ]
+    ],
+    "contrasts": "rim 不是整个圆盘，rimmed 也未必都来自被动动作；按句法辨认。",
+    "practice": "The gold-rimmed cup had a narrow rim.\n\n那只金边杯子的杯沿很窄。",
+    "words": [
+      "rim",
+      "rimmed"
+    ],
+    "exclude": {
+      "sea-rim": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rimmer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rimfire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3249",
+    "meaning": "估价、评价走向看重人物的能力与品格",
+    "core": "ESTEEM：心里给很高的价值评价，所以尊重",
+    "image": "esteem 与 estimable 同接估价、评价的历史，上游相通但具体词各有路线。",
+    "intro": "价格不是唯一价值。人物的能力、品格值得看重，价值判断就走向尊敬；estimable 则形容值得尊敬、称许。",
+    "forms": "aestimare → 法语 estimer → esteem；estimable 经相应法语、拉丁形容形式，现代可按评价词干与 -able 理解。",
+    "branches": [
+      [
+        "尊敬与值得尊敬的性质",
+        "esteem · estimable"
+      ]
+    ],
+    "contrasts": "esteem 尊重不等于亲密喜欢；estimate 现代更常说数量、费用估计。",
+    "practice": "They held the estimable teacher in high esteem.\n\n他们十分敬重那位值得尊敬的老师。",
+    "words": [
+      "esteem",
+      "estimable"
+    ],
+    "exclude": {
+      "self-esteem": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3363",
+    "meaning": "建造者名称，再按建造对象限定职业或活动",
+    "core": "BUILDER：把东西一点点建起来的人、工具或角色",
+    "image": "builder → shipbuilder、bodybuilder，建造的对象改变，具体活动也改变。",
+    "intro": "造船者造船，健美者通过训练塑造体形，builder 本身则看建造人、机构、工具等上下文。bodybuilder 的 build 不按砌砖逐字翻。",
+    "forms": "build + -er → builder；ship + builder；body + builder。\n\nbuild 承古英语建房的动词，与房屋名词词族相关。-er 构成建造者，现代复数 -s；比喻也可说关系、桥梁等的建设者。",
+    "branches": [
+      [
+        "建造者与具体对象",
+        "builder · shipbuilder · bodybuilder"
+      ],
+      [
+        "build + -er → builder → builders",
+        "builders"
+      ]
+    ],
+    "contrasts": "bodybuilder 是健美训练者，不等于所有体力劳动者；shipbuilder 按造船职责命名。",
+    "practice": "The builder admired the shipbuilder’s careful planning.\n\n建筑工人赞赏造船者细致的规划。",
+    "words": [
+      "builder",
+      "shipbuilder",
+      "bodybuilder",
+      "builders"
+    ],
+    "exclude": {
+      "bridge-builder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2417",
+    "meaning": "鸟名、叫声与形象复合，稻草人按用途命名",
+    "core": "CROW：名词看乌鸦，动词常听公鸡或得意叫嚷",
+    "image": "crow → scarecrow、crowbar，各自借用途与鸟喙形状等命名线索。",
+    "intro": "乌鸦给鸟名，啼叫给声音与自夸，赶鸟装置直接把 scare 放前面。crowbar 的工具词源另看基础词条，不因为它能吓鸟才叫撬棍。",
+    "forms": "crawe、crawan → crowe、crowen → crow；scare + crow；crow + bar。\n\n古英语 crow 鸟名和啼叫动词有拟声背景。现代 crow 动词常说公鸡啼叫，也比喻得意吹嘘；不是只有乌鸦能作它的主语。",
+    "branches": [
+      [
+        "鸟、叫声与护田装置",
+        "crow · scarecrow"
+      ],
+      [
+        "借鸟喙形象的工具名",
+        "crowbar"
+      ],
+      [
+        "crow → crows、crowed、crowing：鸟名、啼叫与得意",
+        "crow · crows · crowed · crowing"
+      ]
+    ],
+    "contrasts": "crow 动词不限乌鸦；scarecrow 的用途是吓鸟，不是说一只受惊的鸟。",
+    "practice": "A crow sat calmly on the scarecrow.\n\n一只乌鸦安稳地停在稻草人身上。",
+    "words": [
+      "crow",
+      "scarecrow",
+      "crowbar",
+      "crows",
+      "crowed",
+      "crowing"
+    ],
+    "exclude": {}
+  }
+]

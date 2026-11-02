@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B2967",
+    "meaning": "出售、推销与不同销售方向",
+    "core": "SELL：交出去换钱；前缀说明再卖、胜过或过头",
+    "image": "sell → sold、selling、seller → bestseller；再接 resell、outsell、upsell、oversell、sellout，关联名词 sale。",
+    "intro": "古英语 sellan 早有给予、交付，收钱转让义后来成为中心。sale 是同族旧名词，比较字母能帮记，不能当现代随意换元音规则。",
+    "forms": "sell—sold—sold；sell + -ing/-er；best + seller；re-/out-/up-/over- + sell；sell out → sellout。\n\n古英语 sellan 原有交付等宽义，现代 sell 的三单加 s，过去式另为 sold。\n\nbest 限定销售表现，不表示所有比较范围里都排第一。\n\nre- 再次 + sell，过去式、分词随 sell → sold 变 resold；reseller 加人物、机构尾 -er，不表示重新推销同一句话。",
+    "branches": [
+      [
+        "动作、词形与人物",
+        "sell · sold · selling · seller · bestseller"
+      ],
+      [
+        "再售与销售方向",
+        "resell · outsell · upsell · oversell · sellout"
+      ],
+      [
+        "相关名词",
+        "sale · sales · resale · saleable"
+      ],
+      [
+        "sell → sells：出售、推销与卖得怎样",
+        "sell · sells"
+      ],
+      [
+        "bestseller → bestsellers：畅销书、畅销品",
+        "bestseller · bestsellers"
+      ],
+      [
+        "resell：再卖、转售及出售者",
+        "resell · resells · resold · reselling · reseller · resellers"
+      ]
+    ],
+    "contrasts": "outsell 比对方卖得多，oversell 超量或夸大；upsell 提高购买金额；resell 动词与 resale 名词。",
+    "practice": "The seller resold the book after it became a bestseller.\n\n这位卖家在那本书成为畅销书后又把它转售了。",
+    "words": [
+      "sell",
+      "sold",
+      "selling",
+      "seller",
+      "bestseller",
+      "resell",
+      "outsell",
+      "upsell",
+      "oversell",
+      "sellout",
+      "sale",
+      "sales",
+      "resale",
+      "saleable",
+      "sells",
+      "bestsellers",
+      "resells",
+      "resold",
+      "reselling",
+      "reseller",
+      "resellers"
+    ],
+    "exclude": {
+      "cross-sell": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mis-sell": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2786",
+    "meaning": "出售行为、销售业绩与再售",
+    "core": "SALE：卖这件事；SALES：销售工作和业绩",
+    "image": "先关联动作 sell，再 sale → sales → resale、saleable；批发和预售已有精讲。",
+    "intro": "sale 和 sell 同属旧日耳曼词族。sale 可指一般出售或降价活动，sales 的业绩义还需看数量、金额单位。",
+    "forms": "sale → sales、saleable；re- + sale → resale；whole/pre- + sale → wholesale、presale。\n\nwhole 加 sale 构成成批销售材料，动词较晚出现；wholesaler 为 wholesale 去 e 加 -er。大批、全面的形容词义也有发展，但不是把所有义都译作卖完整物品。",
+    "branches": [
+      [
+        "动词与出售名词",
+        "sell · sale · sales"
+      ],
+      [
+        "再售、可售与交易方式",
+        "resell · resale · saleable · wholesale · presale"
+      ],
+      [
+        "wholesale：成批出售与批发商",
+        "wholesale · wholesales · wholesaled · wholesaling · wholesaler · wholesalers"
+      ]
+    ],
+    "contrasts": "for sale 待售；on sale 看地区与场景；sales 销售额不等于 profit；saleable 不等于已经 sold。",
+    "practice": "The shop buys saleable used books for resale.\n\n店里购入适合出售的二手书来转售。",
+    "words": [
+      "sell",
+      "sale",
+      "sales",
+      "resell",
+      "resale",
+      "saleable",
+      "wholesale",
+      "presale",
+      "wholesales",
+      "wholesaled",
+      "wholesaling",
+      "wholesaler",
+      "wholesalers"
+    ],
+    "exclude": {
+      "sale-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "yard-sale": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sale-goer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

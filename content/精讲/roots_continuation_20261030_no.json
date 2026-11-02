@@ -1,0 +1,235 @@
+[
+  {
+    "id": "B3096",
+    "meaning": "少了敏锐、光彩或趣味，比较级和性质名词接着展开",
+    "core": "DULL：刀不利，光不亮，故事也提不起劲",
+    "image": "dull → duller、dullness，依次看性质、程度比较与性质名词。",
+    "intro": "现代各义可用少了锋芒、亮度、刺激来串记；历史起点还有迟钝、愚钝等状态，并非先有钝刀才产生所有比喻。",
+    "forms": "dol → dull、dul → dull；比较级 -er；性质 -ness，保留 ll。",
+    "branches": [
+      [
+        "性质、比较与性质名词",
+        "dull · duller · dullness"
+      ]
+    ],
+    "contrasts": "duller 的 -er 在比较句中是更；dullness 才把性质作为名词谈。",
+    "practice": "The duller blade made the dullness of the old tools obvious.\n\n那片更钝的刀刃让旧工具的钝显得很明显。",
+    "words": [
+      "dull",
+      "duller",
+      "dullness"
+    ],
+    "exclude": {
+      "dull-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dull-witted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dowie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3976",
+    "meaning": "不锐利的性质与少铺垫的表达方式",
+    "core": "BLUNT：刀口不尖，说话却可能直得很清楚",
+    "image": "blunt → bluntly、bluntness，性质、方式、性质名词分开。",
+    "intro": "blunt 的说话义突出不拐弯、少委婉，不是含糊。工具义则仍看钝与锐利，动词借去表示削弱效果。",
+    "forms": "blunt、blont → blunt；-ly 方式；-ness 性质。",
+    "branches": [
+      [
+        "性质、说法与直率程度",
+        "blunt · bluntly · bluntness"
+      ]
+    ],
+    "contrasts": "blunt 可能生硬但清楚；dull 形容故事常是无聊，两者不能随处互换。",
+    "practice": "She spoke bluntly, and her bluntness ended the debate.\n\n她说得很直接，这份直率让争论结束了。",
+    "words": [
+      "blunt",
+      "bluntly",
+      "bluntness"
+    ],
+    "exclude": {
+      "blunt-witted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4363",
+    "meaning": "东西与信息被带到目的地，工具和动作名随之展开",
+    "core": "CONVEY：把实物送过去，把意思传过去",
+    "image": "convey → conveyor、conveyance，分别看动作、装置角色、运送及交通手段。",
+    "intro": "运输线最容易看到：箱子上 conveyor，被 convey 到装货处。信息线把运送对象换成意思、感情，不一定真的说出一句话。",
+    "forms": "conveier → conveien → convey；-or 执行者、装置；-ance 动作、手段等。",
+    "branches": [
+      [
+        "运送、装置与正式名词",
+        "convey · conveyor · conveyance"
+      ]
+    ],
+    "contrasts": "convey 强调传到；conveyance 可是交通工具，也可在文书中说产权转让。",
+    "practice": "The sign conveys where the conveyor takes the luggage.\n\n标牌说明传送装置会把行李送到哪里。",
+    "words": [
+      "convey",
+      "conveyor",
+      "conveyance"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3151",
+    "meaning": "让静止的东西动起来，情绪和议论也会被搅动",
+    "core": "STIR：勺子搅汤，话语也能搅起人心",
+    "image": "stir → stirrer，从动作到人、工具；stir up、cause a stir 看比喻场景。",
+    "intro": "锅里的流动给基本画面。人的感情被唤起、平静局面出现议论，也借动起来的形象，不必只记一个搅拌中文词。",
+    "forms": "styrian → stiren 等 → stir；stir + -er 双写 r → stirrer。\n\n古英语 styrian 继承，现代双写 r 加完整 ed。\n\n古英语 styrian、stirian 已兼有移动、搅动、激起等义。stirring 从正在搅动，还能形容激动人心；不必编造所有抽象义都先经过现代厨房。",
+    "branches": [
+      [
+        "搅动与执行者、工具",
+        "stir · stirrer"
+      ],
+      [
+        "stir → stirred：搅动、激起",
+        "stir · stirred"
+      ],
+      [
+        "stir → stirs、stirring：让东西动起来，也让心动起来",
+        "stir · stirs · stirring"
+      ]
+    ],
+    "contrasts": "stir 与 shake 看搅动方式；a stirrer 是工具还是挑事者，看周围名词和行为。",
+    "practice": "She stirred the coffee with a small wooden stirrer.\n\n她用一根小木搅拌棒搅咖啡。",
+    "words": [
+      "stir",
+      "stirrer",
+      "stirred",
+      "stirs",
+      "stirring"
+    ],
+    "exclude": {
+      "stir-fry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4506",
+    "meaning": "内衬、画线与航线分支，客运器具逐层限定",
+    "core": "LINER：先问 line 在这里是衬、线，还是航线",
+    "image": "liner 的内衬与客轮支分开；eyeliner 走画线，airliner、jetliner 走航线；headliner 看节目的领衔位置。",
+    "intro": "同一个词形汇集了不同 line 用法。把场景先分清，再接 eye、air、jet、head，就不会用一条假故事硬包所有词。",
+    "forms": "line 的不同词义 + -er → liner；air + liner；jet + airliner 融合；eye、head 各限定用途和位置。",
+    "branches": [
+      [
+        "内衬与勾线用品",
+        "liner · eyeliner"
+      ],
+      [
+        "客运飞机与喷气客机",
+        "airliner · jetliner"
+      ],
+      [
+        "节目的领衔人物",
+        "headliner"
+      ]
+    ],
+    "contrasts": "liner 内衬与定期客轮不是一回事；jetliner 比 airliner 多限定喷气动力。",
+    "practice": "The jetliner carried the festival’s headliner to the city.\n\n喷气客机把音乐节的领衔艺人送到了这座城市。",
+    "words": [
+      "liner",
+      "eyeliner",
+      "airliner",
+      "jetliner",
+      "headliner"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4296",
+    "meaning": "文学中的人名成为引路人通名，再形成关系名词",
+    "core": "MENTOR：有人走过这条路，现在愿意带你一程",
+    "image": "mentor → mentorship，先认提供经验指导的人，再认指导关系与安排。",
+    "intro": "这是专名成为通名的词。实际使用不必把导师神化，重点是可信赖的经验、建议与较持续指导。",
+    "forms": "Mentōr 人名 → mentor 导师、指导；mentor + -ship → mentorship。",
+    "branches": [
+      [
+        "引路人、指导与关系",
+        "mentor · mentorship"
+      ]
+    ],
+    "contrasts": "mentor 不一定是学校正式导师，也能是职场前辈；-ship 这里命名关系、角色状态。",
+    "practice": "A good mentor can make a mentorship programme valuable.\n\n一位好导师能让导师指导项目真正有价值。",
+    "words": [
+      "mentor",
+      "mentorship"
+    ],
+    "exclude": {
+      "e-mentor": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4396",
+    "meaning": "长细杆身，再借形状说旋转轴与井道",
+    "core": "SHAFT：长、细、沿一个方向伸出去",
+    "image": "shaft → crankshaft、camshaft、driveshaft、mineshaft，先看轴还是井，再认前面的限定。",
+    "intro": "机械复合词多按结构、功能命名，井筒则借狭长空间形状。a shaft of light 又把同样的长条形象借给光。",
+    "forms": "sceaft → shafte → shaft；crank 曲柄，cam 凸轮，drive 传动，mine 矿。",
+    "branches": [
+      [
+        "长杆、旋转轴及部件",
+        "shaft · crankshaft · camshaft · driveshaft"
+      ],
+      [
+        "狭长井道",
+        "mineshaft"
+      ]
+    ],
+    "contrasts": "crankshaft 曲轴与 camshaft 凸轮轴不同；mineshaft 是井筒，具体不指机械转轴。",
+    "practice": "The model shows a crankshaft beside a cutaway of a mineshaft.\n\n模型把一根曲轴放在矿井井筒剖面旁作展示。",
+    "words": [
+      "shaft",
+      "crankshaft",
+      "camshaft",
+      "driveshaft",
+      "mineshaft"
+    ],
+    "exclude": {
+      "shafter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4445",
+    "meaning": "从原有范围流出，过去词形、结果名词与通道各有位置",
+    "core": "SPILL：原来装着、拦着的东西流出来了",
+    "image": "spill → spilt、spillage；spillway 走通道，spillover 走溢出或影响延伸。",
+    "intro": "桌上咖啡给出动作，spilt milk 给出结果状态，spillage 给过程和洒漏物命名；工程通道与跨界影响再各走一支。",
+    "forms": "spillan、spildan → spill；spilt／spilled 并存；-age 动作、结果；way 通道；over 越出范围。\n\n古英语早有毁坏、浪费义，现代洒出义常用；spilled 与 spilt 对应。\n\nspill 的古义有毁坏、浪费；这里取现代液体洒出义组合。",
+    "branches": [
+      [
+        "洒出、过去形式与洒漏名词",
+        "spill · spilt · spillage"
+      ],
+      [
+        "泄洪通道与外溢影响",
+        "spillway · spillover"
+      ],
+      [
+        "spill → spills、spilled、spilling：洒出、溢出",
+        "spill · spills · spilled · spilling"
+      ],
+      [
+        "spill + proof → spillproof：防意外洒出",
+        "spill · spillproof"
+      ]
+    ],
+    "contrasts": "spilt 与 spilled 基本义相同；spillway 是设计的通道，不把它当意外漏水。",
+    "practice": "A tray caught the spilt water and prevented further spillage.\n\n托盘接住了洒出的水，避免进一步洒漏。",
+    "words": [
+      "spill",
+      "spilt",
+      "spillage",
+      "spillway",
+      "spillover",
+      "spills",
+      "spilled",
+      "spilling",
+      "spillproof"
+    ],
+    "exclude": {
+      "spiller": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

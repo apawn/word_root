@@ -1,0 +1,55 @@
+[
+  {
+    "id": "B2546",
+    "meaning": "粗俗性行为词；广泛的咒骂、强烈评价与语气表达",
+    "core": "FUCK：历史身体词，现代也成为强烈情绪的工具",
+    "image": "fucking amazing 可以是极兴奋；the engine is fucked 是坏透了；clusterfuck 说多环节搞成的混乱局面。别把固定口语一律直译成同一个动作。",
+    "intro": "英语较早时期已有相关形式，可能与日耳曼语材料有关，具体远源和传播路线仍有争论。任何王室许可长句的首字母故事都不是可靠词源。",
+    "forms": "fuck + -ed → fucked；fuck + -ing → fucking；fuck + -er → fucker；mother + fucker → motherfucker；cluster + fuck → clusterfuck；mind + fuck → mindfuck。后面几词的日常比喻义要作为整词学。",
+    "branches": [
+      [
+        "基本词与语法、强调形式",
+        "fuck · fucked · fucking"
+      ],
+      [
+        "人物、物件的粗俗称呼",
+        "fucker · motherfucker"
+      ],
+      [
+        "一团混乱的局面",
+        "cluster · clusterfuck"
+      ],
+      [
+        "认知、心理冲击的比喻",
+        "mindfuck"
+      ]
+    ],
+    "contrasts": "fucking 不是每次都进行时；fucked 不只说字面性行为；cluster 是中性群、簇，clusterfuck 则加上很强的混乱、搞砸评价。所有这些口语粗话都要保留语气信息。",
+    "practice": "The files were fucked, and the whole handover had become a clusterfuck.\n\n文件坏透了，整个交接也搞成了一团烂摊子。",
+    "words": [
+      "fuck",
+      "fucked",
+      "fucking",
+      "fucker",
+      "motherfucker",
+      "cluster",
+      "clusterfuck",
+      "mindfuck"
+    ],
+    "exclude": {
+      "half-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleep-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gang-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bull-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skull-fuck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuck-knuckle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuck-ese": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckface": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckable": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fuckwit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fucktard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

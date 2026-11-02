@@ -1,0 +1,556 @@
+[
+  {
+    "id": "A1891",
+    "meaning": "毒、毒性相关材料",
+    "core": "TOXI-：把毒性、毒物作为科学命名关系",
+    "image": "toxin 是毒素名称；毒性形容词 toxic 与性质名词 toxicity 也在相邻词族中。对象、性质、程度要分别读。",
+    "intro": "远接希腊 toxikon 箭毒等历史材料，后来毒物、毒性义泛化；近代科学通过 toxin 等名称使用 toxi- 相关词干。",
+    "forms": "toxi- 的毒性材料 + 物质名词尾 → toxin；toxic → toxicity 是另一组英语性质派生。",
+    "branches": [
+      [
+        "毒素、性质与程度",
+        "toxin · toxic · toxicity"
+      ]
+    ],
+    "contrasts": "toxin 通常用于生物来源毒素；toxic、toxicity 的适用范围更广，也能有社会关系中的比喻用法。",
+    "practice": "The report compares the toxicity of several toxins.\n\n报告比较了几种毒素的毒性。",
+    "words": [
+      "toxin",
+      "toxic",
+      "toxicity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1922",
+    "meaning": "起源、产生、形成过程",
+    "core": "-GENESIS：关注某事怎样发生、形成",
+    "image": "morphogenesis 看形态怎样形成，neurogenesis 看新神经元产生，carcinogenesis 看癌怎样发生；前面给对象，后面给形成关系。",
+    "intro": "来自希腊 genesis 起源、产生，进入近代科学复合名称。不同学科把产生过程专门化，不能只靠一个出生译完所有词。",
+    "forms": "morpho-／neuro-／carcino-／patho- + -genesis，分别形成形态发生、神经发生、癌发生、发病机制等名称。",
+    "branches": [
+      [
+        "形态、神经的形成",
+        "morphogenesis · neurogenesis"
+      ],
+      [
+        "疾病、癌的发生",
+        "pathogenesis · carcinogenesis"
+      ],
+      [
+        "生殖细胞形成",
+        "spermatogenesis"
+      ]
+    ],
+    "contrasts": "pathogenesis 常重疾病如何形成、发展的机制；carcinogen 的 -gen 指致癌因素，carcinogenesis 的 -genesis 指发生过程，两者别混。",
+    "practice": "The book compares morphogenesis with other forms of biological development.\n\n这本书把形态发生与其他生物发育过程作了比较。",
+    "words": [
+      "morphogenesis",
+      "neurogenesis",
+      "pathogenesis",
+      "carcinogenesis",
+      "spermatogenesis"
+    ],
+    "exclude": {
+      "angiogenesis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "embryogenesis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "osteogenesis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tumorigenesis": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2065",
+    "meaning": "治疗、医学专科的名称材料",
+    "core": "-IATRICS：研究、照料某类人的医学领域",
+    "image": "pediatrics 看儿童医疗，geriatrics 看老年医疗；前面给人群，后面给医学、治疗相关学科。",
+    "intro": "希腊 iatros 医生、治疗者进入近代医学构词，配合 -ics 等学科名形式；相关专科名称有近代类比形成的关系。",
+    "forms": "pedi- 儿童 + -iatrics → pediatrics；ger- 老年 + -iatrics → geriatrics。末尾 s 属学科名称，不是在数几门相同的课。",
+    "branches": [
+      [
+        "儿童、老年医疗专科",
+        "pediatrics · geriatrics"
+      ]
+    ],
+    "contrasts": "这些词是医学专科名称；普通照看儿童、老人，不自动等于从事相应临床专科。",
+    "practice": "The hospital has departments of pediatrics and geriatrics.\n\n这家医院设有儿科和老年医学科。",
+    "words": [
+      "pediatrics",
+      "geriatrics"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1791",
+    "meaning": "重量；气压测量相关",
+    "core": "BARO-：从空气的重量感，理解气压这一组",
+    "image": "空气虽然看不见，也会产生压力；测气压的仪器叫 barometer，barometric 则说气压、气压计相关的性质。",
+    "intro": "来自希腊 baros 重量、barus 重，近代科学把这组材料用于压力等名称，进入仪器、相关形容词。",
+    "forms": "baro- + -meter → barometer；barometr- + -ic → barometric。-meter 在这里说测量仪器。",
+    "branches": [
+      [
+        "仪器和相关性质",
+        "barometer · barometric"
+      ]
+    ],
+    "contrasts": "barometer 也比喻反映形势的指标；词源重量不代表今天把它当秤使用。",
+    "practice": "The barometer showed a change in air pressure.\n\n气压计显示气压发生了变化。",
+    "words": [
+      "barometer",
+      "barometric"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1728",
+    "meaning": "四",
+    "core": "QUADRI-：拉丁语的四，进入数量、结构名称",
+    "image": "quadruple 是四倍、四重，quadruped 是四足动物；数字四给出共同线索，具体数什么由后半部决定。",
+    "intro": "来自拉丁 quadri-、quattuor 四；quadru-、quadr- 等相应形式在不同复合中延续。与希腊 tetra- 的四可对照学习。",
+    "forms": "quadru- + 倍、重材料 → quadruple；quadru- + ped- 足 → quadruped；quadrillion 是近代大数名称的固定形式。",
+    "branches": [
+      [
+        "四倍、四足",
+        "quadruple · quadruped"
+      ],
+      [
+        "固定大数名称",
+        "quadrillion"
+      ]
+    ],
+    "contrasts": "quadrillion 不能只拆成四百万，大数名称有命名体系；四足动物 quadruped 的后部则明确是足的材料。",
+    "practice": "The horse is a quadruped.\n\n马是一种四足动物。",
+    "words": [
+      "quadruple",
+      "quadruped",
+      "quadrillion"
+    ],
+    "exclude": {
+      "quadriplegic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1963",
+    "meaning": "足、腿；按支撑脚命名",
+    "core": "-POD：从脚认支架、动物的名称",
+    "image": "tripod 是三脚架；arthropod 是节肢动物，后部足材料与前面关节材料结合。共同线索是脚、附肢。",
+    "intro": "来自希腊 pous 足，其变格词干 pod- 在 podos 等形式中可见，近代借作组合材料。d 来自旧词干，不是英语随意添的字母。",
+    "forms": "tri- 三 + pod- 足 → tripod；arthro- 关节 + pod- 足 → arthropod。",
+    "branches": [
+      [
+        "三脚支撑物",
+        "tripod"
+      ],
+      [
+        "关节附肢动物的名称",
+        "arthropod"
+      ]
+    ],
+    "contrasts": "tripod 多是器材支架名称；arthropod 是动物类群。词尾材料一样，不表示二者都是同一种设备。",
+    "practice": "The camera stood on a tripod while we photographed the arthropod.\n\n我们拍摄那只节肢动物时，相机放在三脚架上。",
+    "words": [
+      "tripod",
+      "arthropod"
+    ],
+    "exclude": {
+      "bipod": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1947",
+    "meaning": "颜色",
+    "core": "-CHROME：前面的材料告诉你是单色还是多色",
+    "image": "monochrome 是单色，polychrome 是多色；从一色、几色来看，能很直观地记住这组。",
+    "intro": "来自希腊 chroma 颜色及相关形容词、法语等借入形式，进入英语色彩与艺术术语。前后部 chrōm-、chrom-、chromo- 有相应词形。",
+    "forms": "mono- 单一 + chrome 色 → monochrome；poly- 多 + chrome 色 → polychrome。具体名词、形容词用法再看句法。",
+    "branches": [
+      [
+        "单色和多色",
+        "monochrome · polychrome"
+      ]
+    ],
+    "contrasts": "monochrome 可以是一种颜色的不同深浅，不只黑白；polychrome 的多色也不要求某个固定数量。",
+    "practice": "The exhibition included monochrome prints and polychrome sculptures.\n\n展览包括单色版画和多色雕塑。",
+    "words": [
+      "monochrome",
+      "polychrome"
+    ],
+    "exclude": {
+      "cytochrome": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2007",
+    "meaning": "某项技能、风度、做派",
+    "core": "-MANSHIP：从承担角色的人，谈他的技艺、品格",
+    "image": "penmanship 看写字技巧，marksmanship 看射击技巧，sportsmanship 看比赛风度，gamesmanship 又偏争胜手腕。具体落点有差别。",
+    "intro": "从 -man 人物与 -ship 技能、状态等材料结合；不少词可先分析人物名，再加 -ship，后来整体成为能识别的构词群。",
+    "forms": "penman + -ship → penmanship；marksman + -ship → marksmanship；sportsman + -ship → sportsmanship。现代语义并不限定男性才具备。",
+    "branches": [
+      [
+        "书写、射击本领",
+        "penmanship · marksmanship"
+      ],
+      [
+        "体育风度与争胜手腕",
+        "sportsmanship · gamesmanship"
+      ]
+    ],
+    "contrasts": "sportsmanship 常称赞公平、尊重对手；gamesmanship 常讲利用规则、心理等争胜技巧，语气不总是赞美。",
+    "practice": "The coach valued sportsmanship more than gamesmanship.\n\n教练更看重体育风度，而不是争胜手腕。",
+    "words": [
+      "penmanship",
+      "marksmanship",
+      "sportsmanship",
+      "gamesmanship"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2201",
+    "meaning": "性质、关系的名词形式",
+    "core": "-ALITY：把某种性质、关系单独拿来谈",
+    "image": "causal 是因果相关的，causality 是因果关系；dimensional 是维度相关，dimensionality 是维度性质、维数。",
+    "intro": "来自法语 -alite、拉丁 -alitas 等，也可与英语 -al + -ity 对应。具体词有现成借入、后续英语派生等不同路线。",
+    "forms": "causal + -ity → causality；dimensional + -ity → dimensionality；chiral + -ity → chirality。不要把剩下部分都当普通独立动词。",
+    "branches": [
+      [
+        "因果、共同点",
+        "causality · commonality"
+      ],
+      [
+        "维度与手性",
+        "dimensionality · chirality"
+      ]
+    ],
+    "contrasts": "commonality 常说共同特征，causality 是因果关系，chirality 是手性；词尾给名词关系，不会自动告诉你具体学科意义。",
+    "practice": "The two accounts share an important commonality.\n\n这两份叙述有一个重要共同点。",
+    "words": [
+      "causality",
+      "commonality",
+      "dimensionality",
+      "chirality"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1863",
+    "meaning": "地名、姓氏材料及少数固定人物词",
+    "core": "-TON：有地名历史，少数普通词又借用命名外形",
+    "image": "英国地名、姓氏里常见 -ton；simpleton、singleton 等普通词又与这种人物命名外形、词形类比有关，但不是普通村镇名称。",
+    "intro": "地名后部接古英语 tun 围地、聚落。simpleton 常解释为仿姓氏的戏谑构词，singleton 又有参照 simpleton 或法语往返借入等来源分析。",
+    "forms": "simple + 人名式 -ton → simpleton〔常见分析〕；single → singleton〔具体借入、类比路线有不同分析〕。",
+    "branches": [
+      [
+        "固定普通词",
+        "simpleton · singleton"
+      ]
+    ],
+    "contrasts": "不能把 simpleton 直译成简单村，把 singleton 直译成单人镇；也不是重量 tonne 吨的词尾。不要把少数固定词当万能派生规则。",
+    "practice": "The set contains one element, so it is a singleton.\n\n这个集合只含一个元素，所以是单元素集合。",
+    "words": [
+      "simpleton",
+      "singleton"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2307",
+    "meaning": "产生、来源等科学关系",
+    "core": "-GENOUS：与某处产生，或引发某种感觉有关",
+    "image": "endogenous 是内生、内源，exogenous 是外生、外源；erogenous 又说能引起性兴奋的，前部决定产生的是来源还是某种反应。",
+    "intro": "联系希腊产生、出生等 -genes、gen- 词族及形容词形式，近代科学又形成多组对应。现代可与 -gen + -ous 对照，不把每个词都临时拼造。",
+    "forms": "endo- 内 + -genous → endogenous；exo- 外 + -genous → exogenous；ero- 爱欲材料 + -genous → erogenous。",
+    "branches": [
+      [
+        "内部、外部来源",
+        "endogenous · exogenous"
+      ],
+      [
+        "引起特定感觉的性质",
+        "erogenous"
+      ]
+    ],
+    "contrasts": "来源的内外要看研究怎样划定系统边界；-genous 的产生关系不是所有词都机械译成出生。",
+    "practice": "The model separates endogenous changes from exogenous influences.\n\n模型把内部产生的变化与外部影响分开。",
+    "words": [
+      "endogenous",
+      "exogenous",
+      "erogenous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1856",
+    "meaning": "没有、免于、不受……影响",
+    "core": "-FREE：前面给出没有或免除的对象",
+    "image": "carefree 是没有烦忧，childfree 可说选择不育或某时没有孩子在场；这里的 free 主要表达没有、免于。",
+    "intro": "free 的旧英语、日耳曼语材料长期进入复合，形成免除某种负担、不含某物等关系。现代固定组合各自分化语气。",
+    "forms": "care + free → carefree；child + free → childfree。前者没有的 care 取忧虑，不是做事认真，所以与 careless 的含义不同。",
+    "branches": [
+      [
+        "基础自由、免除关系",
+        "free"
+      ],
+      [
+        "没有烦忧或孩子在场等",
+        "carefree · childfree"
+      ]
+    ],
+    "contrasts": "carefree 常称轻松自在，careless 常批评马虎；childfree 的具体含义则看生活选择还是临时安排。",
+    "practice": "They enjoyed a carefree afternoon while the children visited their grandparents.\n\n孩子们去看祖父母时，他们度过了一个无忧无虑的下午。",
+    "words": [
+      "free",
+      "carefree",
+      "childfree"
+    ],
+    "exclude": {
+      "point-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "post-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fact-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "class-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "human-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heart-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "child-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "phone-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cost-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lead-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "interest-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hands-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "value-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tax-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "step-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "risk-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pain-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "content-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "region-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "contact-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "disease-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "side-effect-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cell-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fat-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "screen-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "traffic-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "worry-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "trouble-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ad-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nuclear-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "duty-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "debt-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smoke-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sugar-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "snow-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "conflict-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "distribution-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fault-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "context-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alcohol-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gender-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rent-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "chemical-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "carbon-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "maintenance-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "noise-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "license-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "acid-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pet-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "legacy-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sin-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fancy-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "woke-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pollution-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tobacco-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cage-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "visa-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dairy-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "toll-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "triangle-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "envy-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "exhaust-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "royalty-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cruelty-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rust-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "caffeine-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pest-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gluten-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semantics-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rattle-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scot-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "clutter-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "germ-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sulphur-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lactose-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wrinkle-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "draught-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bilge-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1889",
+    "meaning": "碳的科学构词材料",
+    "core": "CARBO-：把名称与碳这一元素相连",
+    "image": "carbohydrate 中文是碳水化合物，词中 carbo- 提示碳，hydrate 提示水的命名关系；完整名称已经是特定物质类别。",
+    "intro": "carbo- 联系拉丁 carbo 煤、炭，近代化学用于碳相关构词。carbohydrate 的历史命名与早期碳、水比例的理解相连。",
+    "forms": "carbo- + hydrate → carbohydrate；carbon 是相邻基础元素名。这里的组合是化学命名，不是教人把炭和水混成食物。",
+    "branches": [
+      [
+        "元素及物质类名称",
+        "carbon · carbohydrate"
+      ]
+    ],
+    "contrasts": "carbohydrate 不等于碳与水的物理混合物；现代类别和结构还要靠完整化学意义理解。",
+    "practice": "The lesson introduces carbohydrate as a class of carbon-containing compounds.\n\n这节课把碳水化合物作为一类含碳化合物来介绍。",
+    "words": [
+      "carbon",
+      "carbohydrate"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2253",
+    "meaning": "cranberry 中已不透明的旧命名部分",
+    "core": "CRAN-：cranberry 的旧鹤名线索",
+    "image": "今天学 cranberry 最实用是记住蔓越莓；往回看，前部和鹤的旧名称有关，但英语里已不能随便拿 cran- 造一串常用词。",
+    "intro": "cranberry 改自低地德语等对应的 Kraanbeere，前部与 crane 鹤同族，后部对应 berry 浆果。为何联系鹤仍有不同解释。",
+    "forms": "旧鹤名材料 + 浆果名 → 相关德语形式 → 英语 cranberry；今天 cranberry 中的 cran- 常作为不自由使用的词素例子。",
+    "branches": [
+      [
+        "常用植物、果实名称",
+        "cranberry"
+      ]
+    ],
+    "contrasts": "花部像鹤嘴只是命名解释之一，不当确定事实；这个旧材料也不是英语里表示酸的通用词根。",
+    "practice": "She added dried cranberries to the bread.\n\n她把蔓越莓干加进了面包里。",
+    "words": [
+      "cranberry"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2247",
+    "meaning": "科幻、幻想风格名称的后部材料",
+    "core": "-PUNK：从一种反叛文化语感，进入类型风格名称",
+    "image": "cyberpunk 常把高科技、社会压力等放在一起；steampunk 常借蒸汽时代、复古机械的想象造世界。punk 给这类名称带来特定文化、风格联系。",
+    "intro": "从 cyberpunk 等作品、类型名称中形成可类比使用的后部，steampunk 等又参照其形式造词，关系受朋克文化等影响。",
+    "forms": "cyber- + punk → cyberpunk；steam + punk → steampunk〔依前一类型名类比〕。具体体裁特色由长期使用固定。",
+    "branches": [
+      [
+        "网络、高科技相关风格",
+        "cyberpunk"
+      ],
+      [
+        "复古机械想象风格",
+        "steampunk"
+      ]
+    ],
+    "contrasts": "词尾不保证每部作品都遵守同一套主题；steampunk 的 steam 是风格命名线索，也不要求故事每个装置真的只用蒸汽。",
+    "practice": "The exhibition contrasts cyberpunk cities with steampunk machines.\n\n展览对照了赛博朋克城市与蒸汽朋克机器。",
+    "words": [
+      "cyberpunk",
+      "steampunk"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1684",
+    "meaning": "百；单位中的百分之一",
+    "core": "CENTI-：旧核心是百，单位里改成一百分之一",
+    "image": "centimetre 是一米的百分之一；centigrade 却联系一百分度，centipede 又有百足的旧命名。相同远源，具体数量关系不同。",
+    "intro": "经法语等接拉丁 centum 百。公制前缀 centi- 约定为百分之一；普通旧复合的百关系另按历史理解。",
+    "forms": "centi- + metre → centimetre；centi- 百 + grade 度 → centigrade；centi- 百 + pede 足 → centipede。\n\ncenti- 接拉丁 centum 百，公制单位里约定为百分之一；英美厘米复数拼写相邻，两个名称表示相同长度。",
+    "branches": [
+      [
+        "单位与温标名称",
+        "centimetre · centigrade"
+      ],
+      [
+        "动物旧命名",
+        "centipede"
+      ],
+      [
+        "centi-：一百份里的一份",
+        "centimetres · centimeters"
+      ]
+    ],
+    "contrasts": "centipede 的百足是名称画面，不保证每只恰好一百条腿；centigrade 也不能按百分之一度机械翻译。",
+    "practice": "The chart gives the length in centimetres.\n\n图表以厘米给出了长度。",
+    "words": [
+      "centimetre",
+      "centigrade",
+      "centipede",
+      "centimetres",
+      "centimeters"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2068",
+    "meaning": "景观、听觉或想象中的整体环境",
+    "core": "-SCAPE：把某一类内容看成一整片景象",
+    "image": "cityscape 是城市景观，soundscape 把周围声音当成整体环境，dreamscape 则是梦境般的场景。像拉远镜头，看一整片。",
+    "intro": "从 landscape 中抽出后部；landscape 主要受荷兰 landschap 等影响，-schap 早有地区、形态等关系，后来用于风景画、景观。",
+    "forms": "landscape → 可类比的 -scape；city、sea、street、sound、dream 分别给景象内容，形成现代复合名称。",
+    "branches": [
+      [
+        "城市、街道与海景",
+        "cityscape · streetscape · seascape"
+      ],
+      [
+        "听觉和想象环境",
+        "soundscape · dreamscape"
+      ]
+    ],
+    "contrasts": "-scape 不是英语 escape 逃脱的截短；soundscape 看声音环境，不要求真的画出一幅有颜色的景色。",
+    "practice": "Traffic and birdsong formed the city’s morning soundscape.\n\n车声与鸟鸣共同构成了城市清晨的声音环境。",
+    "words": [
+      "landscape",
+      "cityscape",
+      "streetscape",
+      "seascape",
+      "soundscape",
+      "dreamscape"
+    ],
+    "exclude": {
+      "rot-scape": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1687",
+    "meaning": "十亿倍；普通命名中的巨大规模",
+    "core": "GIGA-：计量时精确到十亿，普通词可强调巨大",
+    "image": "gigabit 是十亿比特，gigabyte 是十亿字节；gigafactory 说超大工厂，通常不是精确在数十亿座工厂。",
+    "intro": "来自希腊 gigas 巨人，与 giant 的历史相关；近代科学约定单位前缀为十亿倍，商业等新词又借它强调规模。",
+    "forms": "giga- + bit／byte → gigabit／gigabyte；giga- + factory → gigafactory。计量单位和一般命名的解释层次分开。\n\ngiga- 名称接希腊 gigas 巨人，在现代十进制 GB 中表示十亿倍。GiB 则明确表示二进制量，不能把二者拼写差别当装饰。",
+    "branches": [
+      [
+        "数据计量",
+        "gigabit · byte · gigabyte"
+      ],
+      [
+        "巨大规模命名",
+        "gigafactory"
+      ],
+      [
+        "giga-：从巨人的词源材料到十亿倍",
+        "gigabytes"
+      ]
+    ],
+    "contrasts": "byte 与 bit 的基本单位不同；GB、GiB 还可明确区分十进制和二进制容量。普通词 gigafactory 则不按这些容量规则理解。",
+    "practice": "The application shows storage in gigabytes and network speed in gigabits per second.\n\n应用用吉字节显示存储空间，用每秒吉比特显示网络速度。",
+    "words": [
+      "gigabit",
+      "byte",
+      "gigabyte",
+      "gigafactory",
+      "gigabytes"
+    ],
+    "exclude": {
+      "giga-amp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "giga-watt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "giga-volt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "giga-annum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "giga-ohm": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "giga-joule": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

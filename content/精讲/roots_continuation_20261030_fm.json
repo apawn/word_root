@@ -1,0 +1,162 @@
+[
+  {
+    "id": "B4516",
+    "meaning": "产生结果，再问结果多少、方向对不对",
+    "core": "PRODUCTIVE：做出来有用结果",
+    "image": "productive → productively、productivity；unproductive 无成果；counterproductive 反效果；reproductive 接再产生、繁殖。",
+    "intro": "一忙到底不等于有成效；没有帮助和帮倒忙也不同。reproductive 则转到复制、繁殖的固定语义分支。",
+    "forms": "prōdūcere、product- → productive；+ -ly、-ity；un-/counter-/re- + productive。",
+    "branches": [
+      [
+        "产出性质、方式与效率",
+        "productive · productively · productivity"
+      ],
+      [
+        "没成果与反效果",
+        "unproductive · counterproductive"
+      ],
+      [
+        "再产生与繁殖",
+        "reproductive"
+      ]
+    ],
+    "contrasts": "unproductive/counterproductive 没推进与倒退；productive/reproductive 有成果与生殖复制相关。",
+    "practice": "Pressure that makes a productive team less effective is counterproductive.\n\n如果压力让一个有成效的团队效率下降，它就起了反作用。",
+    "words": [
+      "productive",
+      "productively",
+      "productivity",
+      "unproductive",
+      "counterproductive",
+      "reproductive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3260",
+    "meaning": "借一样东西，把手头的事做成",
+    "core": "TOOL：实物器具，也可是一套方法",
+    "image": "tool → tooled、retool；toolkit、toolbox、toolset 成套配置；toolbar、tooltip 接软件工具界面。",
+    "intro": "工具可以有形，也可以是程序、方法；说某个人是别人的 tool，往往是说他被利用，而非夸他有用。",
+    "forms": "tōl → tool；tool + kit/box/set/bar/tip；tool + -ed；re- + tool。\n\n实物工具与软件、思考工具保留帮助完成任务的共同画面。\n\nbox 强调容器，kit 强调配成一套；软件、方法用法仍可沿这两幅画认识。\n\n简短说明工具或界面对象用途，形成固定界面名词。\n\n与 tooltips 的说明文字分开认识。",
+    "branches": [
+      [
+        "基础、加工与重配",
+        "tool · tooled · retool"
+      ],
+      [
+        "成套装备与界面",
+        "toolkit · toolbox · toolset · toolbar · tooltip"
+      ],
+      [
+        "tool → tools：帮人完成事情的器具、方法",
+        "tool · tools"
+      ],
+      [
+        "tool 的容器、成套资源组合及复数",
+        "tool · toolbox · toolboxes · toolkit · toolkits"
+      ],
+      [
+        "tool 的界面提示组合",
+        "tool · tooltip · tooltips"
+      ],
+      [
+        "tool 的工具栏组合及复数",
+        "toolbar · toolbars"
+      ]
+    ],
+    "contrasts": "toolkit/toolbox 成套工具与箱体、抽象用法交叉；retool/repair 改装重配与维修。",
+    "practice": "The toolkit contains the tools needed to retool the small workshop.\n\n工具包里配有改装这间小作坊所需的工具。",
+    "words": [
+      "tool",
+      "tooled",
+      "retool",
+      "toolkit",
+      "toolbox",
+      "toolset",
+      "toolbar",
+      "tooltip",
+      "tools",
+      "toolboxes",
+      "toolkits",
+      "tooltips",
+      "toolbars"
+    ],
+    "exclude": {
+      "work-tool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-tool": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tool-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2950",
+    "meaning": "从主体分出去的一支",
+    "core": "BRANCH：先画主干，再画侧支",
+    "image": "branch 树枝 → 分店、学科、路线分支；branched 有分叉的结构。",
+    "intro": "树根也可以是 branched，因为这里说形状，不是把根叫树枝。分支关系也不要求从主体彻底分离。",
+    "forms": "branca → branche → branch；branch + -ed → branched；branch off/out 固定组合。\n\n法语树枝词向支路、分店、学科等扩展；更早来源不作确定故事。",
+    "branches": [
+      [
+        "树枝与各种分支",
+        "branch"
+      ],
+      [
+        "分支结构",
+        "branched"
+      ],
+      [
+        "branch → branches：主干伸出的分支",
+        "branch · branches"
+      ]
+    ],
+    "contrasts": "branched/broken 分叉与断裂；branch/root 分支与根，根本身也能分支。",
+    "practice": "The main path branched into two smaller paths.\n\n主路分成了两条较小的路。",
+    "words": [
+      "branch",
+      "branched",
+      "branches"
+    ],
+    "exclude": {
+      "tree-branch": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3049",
+    "meaning": "让纸面要求真正得到遵守",
+    "core": "ENFORCE：不只宣布，还要执行",
+    "image": "enforce → enforcement；enforceable → enforceability；enforcer 执行者。",
+    "intro": "把动作、过程、可执行性质和执行人物排开学。force 的力量材料不意味着每个执行行为都在使用武器。",
+    "forms": "enforcier 等 → enforce；enforce + -ment/-able/-er；enforceable → enforceability。\n\nenforce 有法语借入或 en- + force 的分析，远连拉丁 fortis 强。现代去 e 加完整 -ed，/s/ 后读 /t/，可说执行规则、被强制的状态。",
+    "branches": [
+      [
+        "执行动作与过程",
+        "enforce · enforcement"
+      ],
+      [
+        "能否执行与相应性质",
+        "enforceable · enforceability"
+      ],
+      [
+        "负责执行的人",
+        "enforcer"
+      ],
+      [
+        "使有力 → enforce → enforced",
+        "enforced"
+      ]
+    ],
+    "contrasts": "enforceability/enforcement 可执行性与实施过程；enforceable/enforced 能执行与已执行；enforcer 语气由角色语境定。",
+    "practice": "The enforcer can apply the rule only if there is a clear way to enforce it.\n\n只有执行办法清楚，执行者才能落实这条规则。",
+    "words": [
+      "enforce",
+      "enforcement",
+      "enforceable",
+      "enforceability",
+      "enforcer",
+      "enforced"
+    ],
+    "exclude": {
+      "re-enforce": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

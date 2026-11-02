@@ -1,0 +1,125 @@
+"""Common adjective/adverb families with useful differences of degree and attitude."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'A1740':dict(words=['horrible','horribly','endless','endlessly','reluctant','reluctantly','mild','mildly','unbelievable','unbelievably','unnecessary','unnecessarily','vigorous','vigorously','plain','plainly','decide','decided','decidedly','exceed','exceeding','exceedingly','excessive','excessively','improper','improperly'],label='程度、态度与方式的常用词族',note='horrible → horribly；mild → mildly；unbelievable → unbelievably。exceedingly 表极其，excessively 表过度；decidedly 接 decided 明确、明显的形容词义。'),
+}
+W('horrible','英 /ˈhɒrɪbəl/；美 /ˈhɔːrəbəl/','可怕的；糟糕、令人难受的',
+ '从让人吓得发抖，到生活中让人感觉真糟，都能用 horrible。天气、味道、经历不一定真的像恐怖片，仍可叫 horrible。',
+ '经法语 horrible 接拉丁 horribilis，来自 horrere 颤抖、毛发竖立、害怕等材料，加相应形容词尾。英语也发展出一般强烈负面评价。',
+ [['拉丁 horrere → horribilis','使人害怕、颤抖的'],['法语 → 英语 horrible','可怕的；再扩展为糟糕、难受的']],
+ 'a horrible experience 糟糕的经历；horrible weather 坏透的天气；a horrible smell 难闻的气味。评价强度通常高于普通 bad。',
+ 'a horrible noise；feel horrible。','horrible 可以是糟糕而非恐怖；horrified 则常说人已经惊恐。描述事物性质与描述人的反应要分开。',
+ ('We had horrible weather throughout the trip.','整个旅途中天气都糟透了。'),('There was a horrible smell in the room.','房间里有股很难闻的气味。'),sources=['https://www.etymonline.com/word/horrible','https://en.wiktionary.org/wiki/horrible#English'])
+W('horribly','英 /ˈhɒrɪbli/；美 /ˈhɔːrəbli/','可怕地、糟糕地；非常、厉害地〔常修饰负面性质〕',
+ '动作做得很糟，或一个坏性质强到让人难受。horribly wrong 是错得很厉害，horribly cold 是冷得受不了。',
+ 'horrible + -ly，拼写由 -ble 转为 -bly；中古英语已有对应形式。副词保留可怕、糟糕评价，也能加强程度。',
+ [['horrible 的负面性质','可怕、难受、糟糕'],['horrible + -ly → horribly','糟糕地；在负面评价中加强程度']],
+ 'go horribly wrong 出严重差错；feel horribly lonely 感到孤独极了；be horribly rude 极其无礼。语气通常比普通 very 更带情绪。',
+ 'horribly cold；horribly disappointed。','horrible 修饰名词或作表语；horribly 修饰动作、形容词等。a horrible mistake 与 horribly wrong 是两种搭配结构。',
+ ('The plan went horribly wrong.','计划出了严重差错。'),('I felt horribly embarrassed when I forgot her name.','忘记她名字时，我尴尬极了。'))
+W('endlessly','/ˈendləsli/','无尽地；没完没了地；不断地',
+ '看不到尽头，或感觉同一件事一直在重复。常是说话者感到没完，并不真在测量无限时间。',
+ 'endless 无尽的 + -ly，较早古英语、中古英语已有相应形式；end + -less 去掉终点的画面，再转为副词。',
+ [['end + -less → endless','没有尽头的'],['endless + -ly → endlessly','无尽地；反复、持续得让人觉得没完']],
+ 'talk endlessly 没完没了地说；endlessly fascinating 总让人着迷；wait endlessly 等得似乎没有尽头。可抱怨，也可夸持续吸引。',
+ 'argue endlessly；an endlessly varied landscape。','endlessly 常带持续、反复感；forever 还可直接指永远。endlessly interesting 是一直让人觉得有趣，不一定是客观时间无限。',
+ ('They argued endlessly about minor details.','他们为小细节争论个没完。'),('She finds the natural world endlessly fascinating.','她觉得自然界总有让人着迷的新东西。'))
+W('reluctantly','/rɪˈlʌktəntli/','不情愿地、勉强地',
+ '心里不想，但最后还是做了。动作发生了，内心却像向后拽着，这是 reluctantly 的感觉。',
+ 'reluctant 不情愿的 + -ly；reluctant 的历史接拉丁 reluctari 抵抗、挣扎的词族。',
+ [['reluctant 的抵抗、不愿词族','内心不愿配合'],['reluctant + -ly → reluctantly','带着不情愿去做']],
+ 'reluctantly agree 不情愿地同意；reluctantly accept 勉强接受；leave reluctantly 恋恋不舍地离开。具体不愿可能是担忧、留恋或反对。',
+ 'admit reluctantly；reluctantly give up。','reluctantly 不等于 refuse 拒绝：拒绝可能没做，reluctantly 常表示最后确实做了，只是不愿意。',
+ ('He reluctantly agreed to change the date.','他不情愿地同意更改日期。'),('She reluctantly left the party early.','她恋恋不舍地提前离开了聚会。'))
+W('mild','/maɪld/','温和的；不强烈、较轻的',
+ '没有很强的刺激、冲击：天气不严寒，味道不浓辣，说话不过分激烈，都能叫 mild。核心是力道比较轻。',
+ '经中古英语 milde 接古英语 milde 温和、仁慈等，属于日耳曼本族词。现代在性情、天气、味道、程度等对象上分别使用。',
+ [['古英语 milde → 中古英语 milde','温和、仁慈'],['现代 mild 的范围扩展','天气温和；味道不强；反应、程度较轻']],
+ 'mild weather 温和天气；a mild flavour 清淡温和的味道；mild criticism 温和批评；a mild reaction 较轻反应。具体对照尺度由名词给出。',
+ 'a mild winter；mild surprise。','mild 不等于完全没有影响；它说相对不强。a mild flavour 有味道，通常只是不会太浓烈、刺激。',
+ ('We had a mild winter this year.','今年冬天天气温和。'),('The cheese has a mild, creamy flavour.','这种奶酪味道温和，带奶油香。'))
+W('mildly','/ˈmaɪldli/','温和地；稍微、有点',
+ '把反应的音量调低一点：mildly surprised 是有点惊讶，mildly annoyed 是有点恼火，没有说成大惊或暴怒。',
+ 'mild + -ly，形成方式、程度副词。性情温和的材料可描述说话方式，程度不强的材料又可弱化形容词。',
+ [['mild 温和、不强 + -ly','转成动作方式、性质程度'],['mildly 的常用用法','温和地；有点、稍微']],
+ 'say mildly 温和地说；mildly amusing 有点好笑；mildly surprised 略感惊讶。常用来压低评价强度。',
+ 'mildly annoyed；mildly interested。','mild 是形容词，mildly 是副词。mild surprise 是轻微的惊讶，mildly surprised 则说人略感惊讶。',
+ ('I was mildly surprised by the result.','结果让我略感惊讶。'),('“That may be difficult,” she said mildly.','“那可能有点难。”她温和地说。'))
+W('unbelievable','/ˌʌnbɪˈliːvəbəl/','难以置信的；不可信的；惊人极了的',
+ '一层是真让人怀疑能不能信；另一层是口语夸张：太厉害、太离谱，简直不敢相信。',
+ 'un- 否定 + believable 可信的；believable 对应 believe 去词末 e 加 -able。整个结构把能相信改成难以相信。',
+ [['believe + -able → believable','能让人相信、可信的'],['un- + believable → unbelievable','不可信；再作惊人的夸张评价']],
+ 'an unbelievable excuse 不可信的借口；an unbelievable performance 惊人的表现；unbelievable luck 难以置信的运气。夸赞、质疑要看对象与语调。',
+ 'an unbelievable story；That’s unbelievable!。','unbelievable 不总表示事情是假的。对精彩表演说 unbelievable 可能是在赞叹，称 excuse unbelievable 则更可能是怀疑。',
+ ('Her performance was unbelievable.','她的表现简直太惊人了。'),('He offered an unbelievable excuse for missing the meeting.','他为缺席会议找了一个令人难以相信的借口。'))
+W('unbelievably','/ˌʌnbɪˈliːvəbli/','令人难以置信地；极其、异常地',
+ '程度高到超出预期：速度快得难信，或者一个人粗鲁得离谱。它可以加强好性质，也可以加强坏性质。',
+ 'unbelievable + -ly，末尾 -ble 改成 -bly。由难以相信的性质转成对动作、程度的强评价。',
+ [['unbelievable 的难以置信性质','强烈惊讶、赞叹或不满'],['unbelievable + -ly → unbelievably','程度超出预料；极其']],
+ 'unbelievably fast 快得惊人；unbelievably rude 粗鲁得离谱；unbelievably expensive 贵得难以置信。常比普通 very 更有感情色彩。',
+ 'unbelievably lucky；unbelievably good。','unbelievable 修饰名词或作表语；unbelievably 用来加强 fast、good 等性质。其惊讶语气不保证评价一定正面。',
+ ('The train was unbelievably fast.','那列火车快得惊人。'),('He was unbelievably rude to the waiter.','他对服务员粗鲁得离谱。'))
+W('unnecessarily','英 /ʌnˈnesəsərəli/；美 /ʌnˌnesəˈserəli/','没有必要地；多此一举地；本可避免地',
+ '事情本来不需要这么麻烦、这么贵或这么难，却被弄成那样。unnecessarily 常带一句其实可以不必的评价。',
+ 'unnecessary 不必要的 + -ly，词末 y 变 i；也可按 un- 否定 + necessarily 的相邻形式认识。',
+ [['un- + necessary → unnecessary','没有必要的'],['unnecessary + -ly → unnecessarily','做了不需要做的事；增加了可避免的程度']],
+ 'unnecessarily complicated 不必要地复杂；wait unnecessarily 白白等待；unnecessarily expensive 本可不这么贵。重点是必要性。',
+ 'unnecessarily difficult；cause unnecessary worry → worry unnecessarily。','unnecessarily 重在本无必要；excessively 重在超过适当程度。两者有时同时适用，但评价角度不同。',
+ ('The instructions were unnecessarily complicated.','说明被写得过于复杂，其实没有必要。'),('We waited unnecessarily because the meeting had already been cancelled.','会议早已取消，我们却白白等了一场。'))
+W('vigorously','英 /ˈvɪɡərəsli/；美 /ˈvɪɡərəsli/','有力地、充满干劲地；坚决地',
+ '不是软绵绵地做，而是投入明显的力量、精力。可以是身体用力，也可以是在争论中强烈反对。',
+ 'vigorous 有活力、有力的 + -ly；vigorous 的较早词族经法语接拉丁 vigor 活力、力量。',
+ [['vigor 活力 → vigorous 有力的相关词族','充足力量、精力'],['vigorous + -ly → vigorously','用力、积极投入；强烈地表态']],
+ 'shake vigorously 用力摇动；work vigorously 干劲十足地工作；vigorously oppose 强烈反对。动作和立场都能带力度。',
+ 'stir vigorously；argue vigorously。','vigorously 强调投入的力道；quickly 强调速度。动作有力可以很慢，不必把两个副词当同义词。',
+ ('She shook the bottle vigorously.','她用力摇了摇瓶子。'),('The committee vigorously opposed the change.','委员会强烈反对这项变动。'))
+W('plainly','/ˈpleɪnli/','清楚、直白地；显然；朴素地',
+ '没有遮挡、没有绕弯：话直接说清，事实明显摆着，或穿着没有繁复装饰。plain 的不同性质在这里都能接上。',
+ 'plain 清楚的、朴素的 + -ly；中古英语已有对应形式。plain 更早经法语接拉丁平坦、明白等词族。',
+ [['plain 的平明、清楚、朴素性质','没有复杂遮挡或装饰'],['plain + -ly → plainly','直白地；显然；朴素地']],
+ 'speak plainly 直说；plainly visible 清楚可见；plainly dressed 衣着朴素。依据动词、形容词判断具体哪一支。',
+ 'put it plainly；plainly wrong。','plainly 与 clearly 有时接近，但 plainly dressed 主要是朴素，不是把衣服看得清楚。',
+ ('Please tell me plainly what the problem is.','请直截了当地告诉我问题是什么。'),('She was plainly disappointed by the news.','她显然对消息感到失望。'))
+W('decided','/dɪˈsaɪdɪd/','决定了；明确的、明显的',
+ '一层是决定已经作出；形容词 a decided advantage 则说优势清清楚楚，不能轻易忽略。',
+ 'decide + -ed，形成过去式、过去分词，再有确定、明显等形容词用法。decide 的词族更早接拉丁作出裁断的材料。',
+ [['decide + -ed','已经决定、裁定'],['分词形容词 decided','确定的；区别、优势等清楚明显的']],
+ 'decided to leave 决定了离开；a decided improvement 明显改善；a decided advantage 明显优势。动词和形容词要按位置分。',
+ 'a decided change；a decided preference。','decided 作形容词不只表示有人决定过；a decided improvement 强调改善明显，不是一次作决定的改进。',
+ ('We decided to take the earlier train.','我们决定乘坐更早一班火车。'),('The new design offers a decided advantage.','新设计带来了明显优势。'))
+W('decidedly','/dɪˈsaɪdɪdli/','明显地、明确地；无疑地',
+ '说话者把判断说得很清楚：明显偏冷、明显更好，或答案明确是否定。不是描述一个人如何作决定。',
+ 'decided 明确、明显的 + -ly。它从形容词的确定性发展为方式、程度和判断副词。',
+ [['decided 的明确、明显性质','差别或判断确定'],['decided + -ly → decidedly','明显地；明确地；无疑地']],
+ 'decidedly different 明显不同；decidedly chilly 明显有些冷；decidedly not 明确不是。常带较坚定的判断语气。',
+ 'decidedly better；decidedly unusual。','decidedly 常是明显、无疑；decisively 常说决定性地、果断地。两者都接 decide 词族，但现代用法侧重点不同。',
+ ('The weather turned decidedly chilly.','天气明显转冷了。'),('The second version is decidedly better.','第二版明显更好。'))
+W('exceedingly','/ɪkˈsiːdɪŋli/','极其、非常〔较正式、略显传统〕',
+ '把程度推得很高：极其困难、非常感激。它强调强度，不自动表示这种程度已经不合适。',
+ 'exceeding 的较旧极大、非同寻常等程度用法 + -ly；更深接 exceed 越过、超出的词族。现代常作为正式程度副词使用。',
+ [['exceed 的越界词族 → exceeding 的旧程度用法','超乎普通程度、极大的'],['exceeding + -ly → exceedingly','极其、非常']],
+ 'exceedingly difficult 极其困难；exceedingly grateful 非常感激；exceedingly rare 极其少见。日常也可用 very、extremely，语体更普通。',
+ 'exceedingly complex；exceedingly polite。','exceedingly 是程度很高；excessively 是过度、不合适地多。exceedingly polite 不必有过分客套的批评。',
+ ('The puzzle was exceedingly difficult.','这道谜题极其困难。'),('We are exceedingly grateful for your help.','我们非常感激你的帮助。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/exceedingly','https://en.wiktionary.org/wiki/exceedingly#English'])
+W('excessively','/ɪkˈsesɪvli/','过度地、过分地',
+ '程度不只是高，而是越过合适的范围。excessively noisy 说吵得过分，带有不该这么吵的评价。',
+ 'excessive 过度的 + -ly；excess、excessive 与 exceed 所接的拉丁超过词族相连，英语中已有各自形式和语气。',
+ [['excess 超量、过分 → excessive','程度超过适当范围'],['excessive + -ly → excessively','过度地、过分地']],
+ 'excessively high prices 过高价格；excessively complicated 过分复杂；talk excessively 说得过多。合适的尺度来自上下文。',
+ 'excessively noisy；excessively expensive。','exceedingly 通常只是极其；excessively 还评价过头。两者音形接近，却不能在所有赞美句中互换。',
+ ('The room was excessively hot.','房间热得过分。'),('The form is excessively complicated for a simple request.','只是一个简单申请，表格却复杂得过头了。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/excessively','https://en.wiktionary.org/wiki/excessively#English'])
+W('improperly','英 /ɪmˈprɒpəli/；美 /ɪmˈprɑːpərli/','不恰当地、不正确地；不合规矩地',
+ '事情做了，但方式、位置或用法不对：装错、用错、处理不得体。improperly 评价的是做法。',
+ 'improper 不恰当的 + -ly，也可按 im- 否定 + properly 认识。proper 的合适、恰当义在否定后转为做法不对。',
+ [['im- + proper → improper','不恰当、不合适的'],['improper + -ly → improperly','以不正确、不适当的方式']],
+ 'improperly installed 安装不当；improperly used 使用不当；improperly dressed 衣着不合场合。具体标准由设备、场合等给出。',
+ 'handled improperly；improperly labelled。','improperly 可说操作不对，也可说行为失当；不一律等于技术错误。看它修饰的是安装、使用还是社会行为。',
+ ('The shelf had been improperly installed.','架子安装不当。'),('Several boxes were improperly labelled.','几个箱子的标签贴错了。'))
+def extend_lessons():
+    extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+    save('continuation_20261030_te',ROOTS,WORDS)
+    extend_lessons()

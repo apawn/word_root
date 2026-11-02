@@ -1,0 +1,71 @@
+"""Common comparisons: bigger, smaller, shorter and higher."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B2492':dict(words=['big','bigger','biggest'],label='big → bigger → biggest：更大、最大',note='big 的比较级、最高级都双写 g；尺寸之外，也能比重要性、程度。'),
+ 'B2562':dict(words=['small','smaller','smallest'],label='small → smaller → smallest：更小、最小',note='small 原有 ll，直接加 -er／-est；数量、规模、尺寸都可按场景比较。'),
+ 'B3070':dict(words=['short','shorter','shortest'],label='short → shorter → shortest：更短、最短',note='short 可以比较长度、时间和内容篇幅；shorter 不自动意味着更容易，具体评价看语境。'),
+ 'B3074':dict(words=['high','higher','highest'],label='high → higher → highest：更高、最高',note='high 的 gh 在现代不单独发音，higher／highest 继续保留；高度、程度、等级都可比较。'),
+}
+W('bigger','英 /ˈbɪɡə/；美 /ˈbɪɡər/','更大的；规模、程度、重要性更高的；big 的比较级',
+ '把两个东西摆到一起，体积、影响或分量更大的一边，是 bigger。a bigger problem 可以是问题更严重，不是问题真有物理尺寸。',
+ 'big 双写末尾 g，再加 -er，读 /ˈbɪɡə(r)/。big 接北部中古英语 big、bigge，早有强壮等义，更早来源未完全确定。',
+ [['北部中古英语 big／bigge → big','强壮、有力 → 大、重要'],['big 双写 g + -er → bigger','两者或多个对象间比较：更大']],
+ 'a bigger room 更大的房间；a bigger problem 更大的问题；much bigger 大得多；bigger than ... 比……大。',
+ 'get bigger；a little bigger。','bigger 已有更的意思，不再写 more bigger。much bigger 是大得多，a little bigger 是大一点；big 说程度、重要性时，译法按对象调整。',
+ ('We need a bigger table for the whole group.','我们需要一张更大的桌子，才坐得下全组。'),('The delay caused a bigger problem than we expected.','这次延误造成的问题比我们预想的更大。'),sources=['https://en.wiktionary.org/wiki/bigger#English','https://en.wiktionary.org/wiki/big#English'])
+W('biggest','/ˈbɪɡɪst/','最大的；最重要、程度最高的；big 的最高级',
+ '在一个范围里挑出最大、最突出的一项，就是 biggest。先知道是在这几个人、这座城，还是你接触过的所有东西里比较。',
+ 'big 双写 g 加 -est；词尾读 /ɪst/。big 的历史见北部中古英语 big、bigge；现代最高级按常见单音节词规则形成。',
+ [['北部中古英语 big／bigge → big','强壮、大、有分量'],['big 双写 g + -est → biggest','给定范围内最大、最重要等']],
+ 'the biggest room 最大的房间；our biggest challenge 我们最大的挑战；by far the biggest 远远最大的；one of the biggest ... 最大的……之一。',
+ 'the biggest change；my biggest concern。','one of the biggest problems 后面用复数 problems，表示最大那一组问题中的一个。my biggest concern 已有 my，通常不再在 my 后硬加 the。',
+ ('This is the biggest room in the building.','这是整栋楼里最大的房间。'),('Finding enough space was our biggest challenge.','找到足够空间是我们最大的难题。'),sources=['https://en.wiktionary.org/wiki/biggest#English','https://en.wiktionary.org/wiki/big#English'])
+W('smaller','英 /ˈsmɔːlə/；美 /ˈsmɔːlər, ˈsmɑːlər/','更小的；规模、数量更少的；small 的比较级',
+ '尺寸缩了一圈，人数、规模少了一些，都可以用 smaller。它比较某个对象或数值的大小。',
+ 'small + -er，保留原有 ll，不再添第三个 l。small 接古英语 smæl，早有窄、细小等义，经中古英语延续。',
+ [['古英语 smæl → 中古英语 smal／small → small','窄、细小 → 小、规模低'],['small + -er → smaller','更小；规模、数量更少']],
+ 'a smaller bag 更小的包；smaller groups 更小规模的小组；a smaller number of people 更少的人；smaller than expected 比预想的小。',
+ 'slightly smaller；a smaller amount。','smaller number 指数目更小，fewer people 直接说人更少。不能把 smaller people 不加区别地当成人数少，它通常会让人想到人的身材较小。',
+ ('We moved the discussion to a smaller room.','我们把讨论移到了一个更小的房间。'),('The second group had a smaller number of participants.','第二组的参与人数更少。'),sources=['https://en.wiktionary.org/wiki/smaller#English','https://en.wiktionary.org/wiki/small#English'])
+W('smallest','英 /ˈsmɔːlɪst/；美 /ˈsmɔːlɪst, ˈsmɑːlɪst/','最小的；程度、规模最低的；small 的最高级',
+ '在一组里找到占得最少、尺寸最小的一项，就是 smallest；放在 detail、change 前，也可以突出再细小也算数。',
+ 'small + -est，保留原来的 ll，词尾读 /ɪst/。small 延续古英语 smæl 等本族词，不把 -est 另解释成词根。',
+ [['古英语 smæl → small','小、窄、细小'],['small + -est → smallest','给定范围内最小；极细小的']],
+ 'the smallest room 最小的房间；the smallest change 最微小的变化；even the smallest detail 即使最细小的细节。',
+ 'the smallest of the three；our smallest size。','the smallest of three 是三者里最小的；smaller than the other two 也能比较同样关系。最高级要有实际或语境里的比较范围，不必每次都写出来。',
+ ('Choose the smallest box that will hold all the pieces.','选一个装得下所有零件的最小盒子。'),('Even the smallest change can affect the result.','即使最微小的变化也可能影响结果。'),sources=['https://en.wiktionary.org/wiki/smallest#English','https://en.wiktionary.org/wiki/small#English'])
+W('shorter','英 /ˈʃɔːtə/；美 /ˈʃɔːrtər/','更短的；更矮的；用时更少、篇幅更短的；short 的比较级',
+ '线段短了一截，路程少了一段，讲话少用几分钟，都可以说 shorter。要看比较的是长度、身高、时间还是篇幅。',
+ 'short + -er，直接加后缀，不双写 t。short 接古英语 sċeort、中古英语 schort 等，长度短向时间、数量等语境扩展。',
+ [['古英语 sċeort → 中古英语 schort → short','短；扩展到时间、篇幅等'],['short + -er → shorter','长度、时间等更短']],
+ 'a shorter route 更短路线；a shorter meeting 更短会议；shorter than ... 比……短、矮；make it shorter 把它缩短。',
+ 'a little shorter；a shorter version。','a shorter route 只说路程更短，a quicker route 说用时更少；道路拥堵时，两者不一定是同一条路。',
+ ('Is there a shorter route to the station?','去车站有更短的路线吗？'),('Please write a shorter version for the noticeboard.','请写一个更简短的版本，用于布告栏。'),sources=['https://en.wiktionary.org/wiki/shorter#English','https://en.wiktionary.org/wiki/short#English'])
+W('shortest','英 /ˈʃɔːtɪst/；美 /ˈʃɔːrtɪst/','最短的；最矮的；用时、篇幅最少的；short 的最高级',
+ '在几条路、几段文字或几个人之间比较，最短、最矮的一项就是 shortest。比较哪种量，仍由对象决定。',
+ 'short + -est，词尾 /ɪst/。short 延续古英语 sċeort，现代最高级直接加后缀，不双写末尾 t。',
+ [['古英语 sċeort → short','长度、时间等短'],['short + -est → shortest','给定范围内最短、最矮等']],
+ 'the shortest route 最短路线；the shortest day 白昼最短的一天〔看场景〕；the shortest answer 最简短回答；the shortest person 最矮的人。',
+ 'the shortest of the three；the shortest possible time。','the shortest day 在季节讨论中常说白昼最短，不意味着那一天的钟表时长只有几小时。shortest 描述哪一部分时间，要看场景。',
+ ('The map shows the shortest route between the two villages.','地图标出了两个村子之间最短的路线。'),('She gave the shortest answer in the discussion.','讨论中，她的回答最简短。'),sources=['https://en.wiktionary.org/wiki/shortest#English','https://en.wiktionary.org/wiki/short#English'])
+W('higher','英 /ˈhaɪə/；美 /ˈhaɪər/','更高的；位置、数值、等级更高；更高地；high 的比较级',
+ '沿着一条高低的刻度往上移，就是 higher。刻度可以是实际高度，也可以是价格、温度、要求或等级。',
+ 'high + -er；gh 不单独发音，常读两个音节。high 继承古英语 hēah，经中古英语 high、heigh 等延续。',
+ [['古英语 hēah → 中古英语 high／heigh → high','高、重要、显著'],['high + -er → higher','位置、程度等更高；向更高处']],
+ 'higher prices 更高价格；a higher shelf 位置更高的架子；higher education 高等教育；climb higher 爬得更高；higher than ... 高于……。',
+ 'much higher；a higher level。','说人的身高通常用 taller，说架子位置、价格、温度、等级常用 higher。higher education 是固定领域名称，不是临时说教育的物理位置更高。',
+ ('Could you put the picture a little higher?','能把画挂高一点吗？'),('The new plan has a higher cost but needs less space.','新方案成本更高，但占用空间更少。'),sources=['https://en.wiktionary.org/wiki/higher#English','https://en.wiktionary.org/wiki/high#English'])
+W('highest','/ˈhaɪɪst/','最高的；程度、数值、等级最高；在最高处；high 的最高级',
+ '在某个高低刻度上，最上面的那一项是 highest。山峰、价格、优先级、要求，都可以各自有最高的一项。',
+ 'high + -est，gh 仍不单独发音，常读 /ˈhaɪɪst/。high 延续古英语 hēah 的高、重要等词义，最高级在现代按 -est 构成。',
+ [['古英语 hēah → high','高；程度、重要性等的高'],['high + -est → highest','某范围内最高；向最高处']],
+ 'the highest point 最高点；the highest price 最高价；our highest priority 我们最优先的事项；the highest standards 最高标准。',
+ 'the highest level；at its highest。','highest 是最高级，higher 是比较级。the highest price in this shop 比较范围是这家店，不自动等于所有店里最高。',
+ ('This shelf is at the highest point we can reach safely.','这个架子位于我们能稳妥够到的最高位置。'),('Keeping the information accurate is our highest priority.','确保信息准确是我们最优先的事。'),sources=['https://en.wiktionary.org/wiki/highest#English','https://en.wiktionary.org/wiki/high#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_wp',ROOTS,WORDS)
+ extend_lessons()

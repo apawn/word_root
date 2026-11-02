@@ -1,0 +1,236 @@
+[
+  {
+    "word": "macrocosm",
+    "ipa": "英 /ˈmækrəʊˌkɒzəm/；美 /ˈmækrəˌkɑːzəm/",
+    "meaning": "大宇宙；包含许多小系统的整体〔较正式〕",
+    "sense": "把镜头从一个家庭拉到整个社会：前者可以是缩影，后者是包含它的更大整体。macrocosm 抓住这个大层面。",
+    "split": "经法语 macrocosme、中世纪拉丁 macrocosmus 等形式，接希腊 makros 大、长 + kosmos 秩序、世界。词形对应 macro- + -cosm。",
+    "history": [
+      [
+        "希腊 makros + kosmos",
+        "大的、有秩序的世界"
+      ],
+      [
+        "法语、拉丁相应形式 → 英语 macrocosm",
+        "宇宙；作为整体来看的复杂大系统"
+      ]
+    ],
+    "explanation": "常与 microcosm 缩影、小宇宙对照：一个社区可以反映社会的一部分结构，而社会是讨论中的 macrocosm。也可以直接说整个宇宙。",
+    "usage": "the social macrocosm；the microcosm and the macrocosm。",
+    "contrast": "microcosm 常强调小范围里呈现了大整体的特征；macrocosm 说那个更大的整体，不能只当成体积很大的物件。",
+    "examples": [
+      [
+        "The writer sees the family as a microcosm of the social macrocosm.",
+        "作者把家庭看作整个社会的缩影。"
+      ],
+      [
+        "The essay explores the relationship between the microcosm and the macrocosm.",
+        "这篇文章探讨小系统与更大整体之间的关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/macrocosm#English"
+    ]
+  },
+  {
+    "word": "pseudocode",
+    "ipa": "英 /ˈsjuːdəʊkəʊd/；美 /ˈsuːdoʊkoʊd/",
+    "meaning": "伪代码",
+    "sense": "先用“如果满足条件，就重复这一步”把程序思路写清楚，不必马上遵守某种编程语言的全部语法。这样的说明可以叫 pseudocode。",
+    "split": "pseudo- 仿、非真正的 + code 代码，是近代计算机用语。pseudo- 在这里说明它像代码、用来表达逻辑，不带骗子、欺骗的指责。",
+    "history": [
+      [
+        "pseudo- + code",
+        "采用代码式结构来表达"
+      ],
+      [
+        "计算机语境中的 pseudocode",
+        "便于人理解的算法步骤说明"
+      ]
+    ],
+    "explanation": "write pseudocode 写伪代码；express an algorithm in pseudocode 用伪代码表达算法。通常面向读者，不要求能直接由计算机执行。",
+    "usage": "a pseudocode description；translate pseudocode into Python。",
+    "contrast": "source code 是按具体语言写的源代码；pseudocode 更自由，重点是先让人读懂步骤。它的“伪”是形式关系，不是说内容错误。",
+    "examples": [
+      [
+        "Write the algorithm in pseudocode before implementing it.",
+        "实现算法前，先用伪代码把它写出来。"
+      ],
+      [
+        "This pseudocode shows how the search stops when a match is found.",
+        "这段伪代码展示了找到匹配项后如何停止搜索。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pseudocode#English"
+    ]
+  },
+  {
+    "word": "motocross",
+    "ipa": "英 /ˈməʊtəʊkrɒs/；美 /ˈmoʊtoʊˌkrɔːs/",
+    "meaning": "摩托车越野赛；摩托车越野运动",
+    "sense": "骑摩托车在土路、坡道和起伏赛道上比赛。先记住摩托加越野这个画面。",
+    "split": "借自法语 motocross，其中 moto 缩自 motocyclette 摩托车，cross 接英语 cross-country 越野的缩短材料。现代可认作 moto- + -cross。",
+    "history": [
+      [
+        "法语 moto + 英语 cross-country 的缩短材料",
+        "把摩托与越野比赛结合命名"
+      ],
+      [
+        "法语 motocross → 英语 motocross",
+        "摩托车越野运动、赛事"
+      ]
+    ],
+    "explanation": "a motocross track 越野摩托赛道；a motocross rider 越野摩托车手。运动名称通常不可数，也可以用于说具体赛事。",
+    "usage": "watch motocross；a motocross race。",
+    "contrast": "supercross 是在体育场等场地布置赛道的相关竞赛类型；motocross 通常让人想到户外越野赛道，两个名称有各自赛事用法。",
+    "examples": [
+      [
+        "We watched a motocross race on Sunday.",
+        "我们周日看了一场摩托车越野赛。"
+      ],
+      [
+        "The motocross track has steep jumps and tight turns.",
+        "这条越野摩托赛道有陡跳台和急转弯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/motocross#English"
+    ]
+  },
+  {
+    "word": "tetrahedral",
+    "ipa": "/ˌtetrəˈhiːdrəl/",
+    "meaning": "四面体的；四面体形的",
+    "sense": "想象一个三角锥：四个面围成一个立体。形容这种形状或相关排列，就用 tetrahedral。",
+    "split": "tetra- 四 + -hedral 面相关的；后部接希腊 hedra 座、底面及几何中的面。对应名词 tetrahedron 四面体。",
+    "history": [
+      [
+        "tetra- + -hedral",
+        "四 + 面相关性质"
+      ],
+      [
+        "tetrahedral 的几何与结构用法",
+        "四面体形的；与四面体有关的"
+      ]
+    ],
+    "explanation": "a tetrahedral shape 四面体形；tetrahedral symmetry 四面体对称；a tetrahedral model 四面体模型。一般不用于比较“更四面体”。",
+    "usage": "tetrahedral geometry；a tetrahedral structure。",
+    "contrast": "tetrahedron 是一个四面体，tetrahedral 是形容词。普通四面体不必四个面全等；regular tetrahedron 才明确说正四面体。",
+    "examples": [
+      [
+        "The model has a tetrahedral shape.",
+        "这个模型呈四面体形。"
+      ],
+      [
+        "The students compared tetrahedral and octahedral structures.",
+        "学生们比较了四面体和八面体结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tetrahedral#English"
+    ]
+  },
+  {
+    "word": "octahedral",
+    "ipa": "英 /ˌɒktəˈhiːdrəl/；美 /ˌɑːktəˈhiːdrəl/",
+    "meaning": "八面体的；八面体形的",
+    "sense": "把两个方锥底面对底面接起来，是熟悉的正八面体外形；八个三角形面包住一个立体。octahedral 可形容这类外形、排列。",
+    "split": "octa- 八 + -hedral 面相关的；与名词 octahedron 八面体对应。前部数面，后部形成形容词。",
+    "history": [
+      [
+        "octa- + -hedral",
+        "八 + 面相关性质"
+      ],
+      [
+        "octahedral",
+        "八面体的；呈八面体结构的"
+      ]
+    ],
+    "explanation": "an octahedral crystal 八面体晶体；octahedral symmetry 八面体对称。几何、晶体及化学结构说明中常见。",
+    "usage": "an octahedral model；octahedral geometry。",
+    "contrast": "octagon 是平面八边形，octahedron 是立体八面体；octahedral 形容后者相关形态，不能只看到 octa- 就都译八边形。",
+    "examples": [
+      [
+        "The crystal has an octahedral shape.",
+        "这颗晶体呈八面体形。"
+      ],
+      [
+        "The class built an octahedral model from eight triangles.",
+        "全班用八个三角形搭了一个八面体模型。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/octahedral#English"
+    ]
+  },
+  {
+    "word": "bait",
+    "ipa": "/beɪt/",
+    "meaning": "诱饵；装饵；引诱；故意激怒",
+    "sense": "把食物放到鱼钩上引鱼来咬，是放 bait；把一句话抛出去等人发火，也是拿话作诱饵。",
+    "split": "名词经中古英语接古诺斯语 beita 食物、诱饵；相关动词 beita 有使咬、驱使攻击等义，深处与 bite 的日耳曼语词族有关。英语里不能拆成 ba- + -it。",
+    "history": [
+      [
+        "古诺斯语 beita → 中古英语 bait 词族",
+        "诱饵；使咬、引诱等相关动作"
+      ],
+      [
+        "具体鱼饵 → 比喻诱引",
+        "吸引人上钩的东西；故意挑衅"
+      ]
+    ],
+    "explanation": "take the bait 是上钩，既可以说鱼，也可以说人中了圈套。bait someone 常是故意刺激对方，让他作出反应；bait a hook 则是给鱼钩装饵。",
+    "usage": "use worms as bait；take the bait；bait someone into an argument。",
+    "contrast": "bait 重在诱引对方作出反应；普通 criticize 只说批评。bate 是另一个词，with bated breath 的 bated 不写成 baited。",
+    "examples": [
+      [
+        "The fish took the bait almost immediately.",
+        "鱼几乎立刻就咬钩了。"
+      ],
+      [
+        "He tried to bait me into an argument, but I stayed calm.",
+        "他想激我和他争吵，但我保持了冷静。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/bait",
+      "https://en.wiktionary.org/wiki/bait#English"
+    ]
+  },
+  {
+    "word": "marathon",
+    "ipa": "英 /ˈmærəθən/；美 /ˈmærəθɑːn/",
+    "meaning": "马拉松赛跑；漫长而费力的活动",
+    "sense": "不是短时间冲一下，而是要持续很久、分配体力。于是跑步之外，漫长谈判、连续观影也能借用 marathon。",
+    "split": "现代赛事名来自希腊地名 Marathon，联系古代报捷奔跑的传说。这个名称进入英语后，再引申长时间活动；-athon 是后来从完整词重新切分出来的。",
+    "history": [
+      [
+        "希腊地名 Marathon → 近代赛事名称",
+        "马拉松长跑"
+      ],
+      [
+        "耐力长跑 → 持续很久的活动",
+        "marathon talks、a movie marathon 等"
+      ]
+    ],
+    "explanation": "run a marathon 跑马拉松；marathon talks 漫长谈判；a movie marathon 连续看多部电影。比喻用法强调持续和投入，不表示所有活动都要跑步。",
+    "usage": "train for a marathon；a fundraising marathon。",
+    "contrast": "标准现代马拉松全程为 42.195 公里；half marathon 是半程。比喻 marathon meeting 则不涉及实际跑步距离。",
+    "examples": [
+      [
+        "She is training for her first marathon.",
+        "她正在为自己的第一场马拉松训练。"
+      ],
+      [
+        "We spent the rainy weekend having a movie marathon.",
+        "那个下雨的周末，我们接连看了好几部电影。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/marathon",
+      "https://en.wiktionary.org/wiki/marathon#English",
+      "https://worldathletics.org/disciplines/road-running/marathon"
+    ]
+  }
+]

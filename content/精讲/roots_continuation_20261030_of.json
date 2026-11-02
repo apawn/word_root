@@ -1,0 +1,284 @@
+[
+  {
+    "id": "A2016",
+    "meaning": "抵挡某种影响，或不容易被某种做法弄坏",
+    "core": "PROOF：让某种东西难以穿过、影响或破坏",
+    "image": "waterproof、fireproof、soundproof 先看防什么；foolproof 再借去说不容易操作出错。",
+    "intro": "前半告诉你要挡住水、火、声音还是天气，后半 proof 说具有相应抵抗能力。用在实际产品时，单靠词形并不能读出全部条件和程度。",
+    "forms": "proof 的检验、经受考验材料走向抗某物的复合词尾；water、fire、sound、weather 等限定对象。\n\n后置 proof 表能抵抗前项，不是证明液体；具体性能需看对象、使用条件。",
+    "branches": [
+      [
+        "防外界物质、作用",
+        "waterproof · fireproof · weatherproof · soundproof · bulletproof"
+      ],
+      [
+        "不容易操作出错",
+        "foolproof"
+      ],
+      [
+        "-proof 的容器用品：防洒、防漏",
+        "proof · spillproof · leakproof"
+      ]
+    ],
+    "contrasts": "proof 在这些复合词里不是证明文件；foolproof 说设计易用、不容易出错，也常带夸张，不是逻辑上排除所有错误。",
+    "practice": "The weatherproof box has a foolproof lid that is easy to close.\n\n这个耐候箱子的盖子设计简单，容易关好。",
+    "words": [
+      "waterproof",
+      "fireproof",
+      "weatherproof",
+      "soundproof",
+      "bulletproof",
+      "foolproof",
+      "proof",
+      "spillproof",
+      "leakproof"
+    ],
+    "exclude": {
+      "air-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "future-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "review-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleep-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sale-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heat-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "audience-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "actor-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "soldier-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "jimmy-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "idiot-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "explosion-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scratch-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rabbit-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "conscience-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "splash-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "moist-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dummy-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sermon-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4463",
+    "meaning": "荒地与低灌木，宗教同族称呼的更早联系不确定",
+    "core": "HEATH：开阔地上长着低矮灌木",
+    "image": "heath → heathland；heathen 的常见荒地关联解释保留不确定性。",
+    "intro": "从地貌和植物入手，heathland 很好懂。heathen 则有独立的旧宗教称呼史，不把一条有争论的词源讲成荒地居民的固定评价。",
+    "forms": "hǣþ → heath；+ land 地貌；hǣþen → heathen，远源、宗教义联系存在不同解释。\n\nheather 接北部、苏格兰等植物名称，较远可能有凯尔特语来路；heath 荒原可能影响拼写，但不宜当成已证实的 heath + -er 派生。",
+    "branches": [
+      [
+        "地貌、植物与生境",
+        "heath · heathland"
+      ],
+      [
+        "旧宗教称呼及评价用法",
+        "heathen"
+      ],
+      [
+        "heather：石南植物名，词形受 heath 影响",
+        "heather"
+      ]
+    ],
+    "contrasts": "heathland 不是没有生命的废地；heathen 的 th 读 /ð/，heath 的 th 读 /θ/。",
+    "practice": "The path leads from the village onto open heathland.\n\n小路从村庄通向开阔的石南荒地。",
+    "words": [
+      "heath",
+      "heathland",
+      "heathen",
+      "heather"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1716",
+    "meaning": "科学命名中的酶词尾，前半提示底物、反应等",
+    "core": "-ASE：先认出这是酶，再看它处理什么",
+    "image": "lactase、amylase 先看底物；kinase、phosphatase 对照反应；polymerase、nuclease 对照链的合成和切开。",
+    "intro": "-ase 能帮你认出大量酶名，不能单靠前半字面推出所有机制。先学常见底物和动作，再看少量代表名称，不必把所有专业酶名一口气背下。",
+    "forms": "diastase 等旧酶名末尾推广为 -ase；接不同科学词干；常读 /eɪs/，不少词也读 /eɪz/，不是统一读 /eɪz/ 的硬规则。",
+    "branches": [
+      [
+        "按底物及常见作用理解",
+        "lactase · amylase · protease · nuclease"
+      ],
+      [
+        "磷酸基团与氧化等反应",
+        "kinase · phosphatase · oxidase · dehydrogenase · catalase"
+      ],
+      [
+        "合成、连接与其他代表酶名",
+        "polymerase · ligase · synthetase · transferase · telomerase · luciferase"
+      ]
+    ],
+    "contrasts": "不是所有酶都以 -ase 结尾，如 pepsin；也不能把拼写碰巧相似的 phase 当酶名。catalase 是特定酶，不是催化剂总称。",
+    "practice": "The chart compares a kinase, a phosphatase and a nuclease by their functions.\n\n图表按功能比较激酶、磷酸酶和核酸酶。",
+    "words": [
+      "lactase",
+      "amylase",
+      "protease",
+      "nuclease",
+      "kinase",
+      "phosphatase",
+      "oxidase",
+      "dehydrogenase",
+      "catalase",
+      "polymerase",
+      "ligase",
+      "synthetase",
+      "transferase",
+      "telomerase",
+      "luciferase"
+    ],
+    "exclude": {
+      "hydroxylase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "peroxidase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "transcriptase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cyclase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "phosphodiesterase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3549",
+    "meaning": "覆盖、分隔的薄层及相应性质",
+    "core": "MEMBRANE：薄薄一层，把两边分开",
+    "image": "membrane → membranous；transmembrane 再加跨过膜的方向。",
+    "intro": "用一层隔开两边的薄膜记住主画面，再按上下文分天然生物膜与人工膜。不是每种膜都完全不让东西通过。",
+    "forms": "membrum → membrana → membrane；法语相关形容词与 -ous 对应；trans- 跨越。",
+    "branches": [
+      [
+        "薄层本身与性质",
+        "membrane · membranous"
+      ],
+      [
+        "跨膜结构",
+        "transmembrane"
+      ]
+    ],
+    "contrasts": "membrane /membreɪn/ 与 membranous /membrənəs/ 中间元音不同；膜的选择通透性不能只由名字推定。",
+    "practice": "The diagram shows a membrane and a transmembrane protein.\n\n图示画出了一层膜和一个跨膜蛋白。",
+    "words": [
+      "membrane",
+      "membranous",
+      "transmembrane"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3819",
+    "meaning": "邋遢的旧称发展出性道德辱称，现代用法带立场",
+    "core": "SLUT：先读出这是一种羞辱性标签",
+    "image": "slut → slutty，名词辱称与性质评价放在一起理解。",
+    "intro": "旧义不能直接套进现代，现代强贬义也不能被轻轻翻成一般女性称呼。掌握这个词主要为了读懂人物态度、历史文本和语言讨论。",
+    "forms": "中古英语 slutte 等 → slut；更早来源未定；双写 t + -y → slutty。",
+    "branches": [
+      [
+        "辱称及相应评价",
+        "slut · slutty"
+      ]
+    ],
+    "contrasts": "不把词里的羞辱评价当客观事实；旧文本中邋遢、女佣等义要结合时代。",
+    "practice": "The discussion examines slut and slutty as insulting labels.\n\n讨论把 slut 和 slutty 作为羞辱性标签来分析。",
+    "words": [
+      "slut",
+      "slutty"
+    ],
+    "exclude": {
+      "out-slut": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3456",
+    "meaning": "旧有乐趣、渴望较广，现代欲望与活力分开发展",
+    "core": "LUST：想要的劲头很强，同族词却各走一支",
+    "image": "lust → lustful；lusty 保留活力、热烈，wanderlust、bloodlust 则限定渴求对象。",
+    "intro": "不要看到 lust 就把每个长词都变成性欲。旧词有更宽的欲乐、活力范围，lusty 的洪亮、有活力正是关键对照。",
+    "forms": "古英语 lust → lust；-y 性质；-ful 充满；wanderlust 借德语相应复合词，bloodlust 限定为杀戮欲等。",
+    "branches": [
+      [
+        "欲望与相应性质",
+        "lust · lustful"
+      ],
+      [
+        "保留活力、热烈",
+        "lusty"
+      ],
+      [
+        "限定渴求对象",
+        "wanderlust · bloodlust"
+      ]
+    ],
+    "contrasts": "lusty cry 是洪亮啼哭，不能误译成淫欲哭声；lust for life 则是对生活的强烈热情。",
+    "practice": "Her lusty singing expressed a lasting lust for life.\n\n她中气十足的歌声，表达了对生活持久的热情。",
+    "words": [
+      "lust",
+      "lustful",
+      "lusty",
+      "wanderlust",
+      "bloodlust"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2611",
+    "meaning": "追逐用快船的旧名，走向私人游乐、竞赛船",
+    "core": "YACHT：用途看游乐与竞赛，读音别被 ch 绊住",
+    "image": "yacht → yachtsman、superyacht；先船名，再人名与规模修饰。",
+    "intro": "既要记住它不是一般大船，也要记住它不一定有帆。现代常用名接荷兰语快船材料，而不是英语 y + acht。",
+    "forms": "jacht、jachtschip → yacht；yacht + -s- + man → yachtsman；super- 加强规模。",
+    "branches": [
+      [
+        "船名与相关人物",
+        "yacht · yachtsman"
+      ],
+      [
+        "大型游艇",
+        "superyacht"
+      ]
+    ],
+    "contrasts": "ch 不发音；superyacht 是规模与豪华报道中的常用构词，不用据词形推定统一法定尺寸。",
+    "practice": "The yachtsman watched a motor yacht pass the harbour entrance.\n\n那位帆艇爱好者看着一艘机动游艇驶过港口入口。",
+    "words": [
+      "yacht",
+      "yachtsman",
+      "superyacht"
+    ],
+    "exclude": {
+      "yachty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2286",
+    "meaning": "希腊、拉丁形容词材料，常和专业名词形成对应",
+    "core": "-OTIC：认出性质词，词义仍要接前面的材料",
+    "image": "chaos → chaotic；neurosis 等名词与 -otic 形容词常成对，但各词借入史不同。",
+    "intro": "这个词尾本身不统一表示某种病。chaotic 是混乱，biotic 是生命相关，另一些才接疾病或医学结构；前半材料不能省略。",
+    "forms": "chaotic 有借晚期拉丁 chaoticus 和英语由 chaos 类推构形的不同分析；bioticus 等 → biotic；-osis 与 -otic 常对应，amniotic 中 t 则沿用历史构形。\n\nchaos 接希腊张开的虚空、原初无定形状态；chaotic 的借入与英语类推构形有不同分析，逐词保留。",
+    "branches": [
+      [
+        "一般性质与生命材料",
+        "chaotic · biotic"
+      ],
+      [
+        "医学、心理与结构相关性质",
+        "neurotic · amniotic · zoonotic · sclerotic"
+      ],
+      [
+        "chaos → chaotic：混乱状态与混乱的",
+        "chaos · chaotic"
+      ]
+    ],
+    "contrasts": "-otic 不能一律翻成病的；也不都由英语 -osis 临时去字母再加尾。chaotic 的数学义与日常乱不同。",
+    "practice": "The biotic environment changed, and the records became chaotic.\n\n生物环境发生了变化，记录也变得混乱。",
+    "words": [
+      "chaotic",
+      "biotic",
+      "neurotic",
+      "amniotic",
+      "zoonotic",
+      "sclerotic",
+      "chaos"
+    ],
+    "exclude": {},
+    "sources": [
+      "https://en.wiktionary.org/wiki/chaotic#English",
+      "https://www.etymonline.com/word/chaotic"
+    ]
+  }
+]

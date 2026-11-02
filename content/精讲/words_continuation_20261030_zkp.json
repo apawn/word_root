@@ -1,0 +1,1059 @@
+[
+  {
+    "word": "prestige",
+    "ipa": "英、美 /preˈstiːʒ/",
+    "meaning": "声望；威望；因出色、重要而受到仰慕的地位",
+    "sense": "别人一听这个名字，就觉得它出色、重要、值得敬重，这种声望叫 prestige。重点是人们眼中的地位和仰慕感。",
+    "split": "整体借法语 prestige，远接拉丁 praestigium 幻象、迷惑。更远与 praestringere 遮住眼睛、使眩目等材料的联系属于通常提出的分析；现代不把拼写拆成英语 pre- 加独立 stige。",
+    "history": [
+      [
+        "拉丁、法语幻象、迷惑词族 → prestige",
+        "英语早期也说把戏、幻象，今天这些旧义不常用"
+      ],
+      [
+        "使人觉得非凡、重要的光环 → 正面的声望、威望",
+        "现代通常讲社会评价、受尊重的地位"
+      ]
+    ],
+    "explanation": "gain prestige 是获得声望；social prestige 是社会声望；a position of prestige 是受人尊重的地位。",
+    "usage": "gain prestige；social prestige；a position of prestige。",
+    "contrast": "prestige 是名词，prestigious 是有声望的形容词。现代可以把名词放前帮助学习，但 prestigious 的旧魔术义很早，历史不能简化为现代 prestige 先加 -ous。",
+    "examples": [
+      [
+        "The award brought the small institution considerable prestige.",
+        "这个奖为小机构带来了相当高的声望。"
+      ],
+      [
+        "She valued the work itself more than the prestige of the position.",
+        "比起职位的声望，她更看重工作本身。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prestige#English",
+      "https://www.etymonline.com/word/prestige"
+    ]
+  },
+  {
+    "word": "obscure",
+    "ipa": "形容词：英 /əbˈskjʊə/、美 /əbˈskjʊr/；动词：英 /əbˈskjʊə/、美 /əbˈskjʊr/",
+    "meaning": "不知名的；难懂的；模糊的；遮住、使不清楚",
+    "sense": "光线暗、被东西盖住，看不清，是 obscure 的底层画面。一个人不出名、一个典故难懂，也像没有被大家清楚看见。",
+    "split": "经法语 obscur、拉丁 obscurus 昏暗、难辨，传统分析联系 ob- 覆在上面与表示覆盖的 -scur- 材料。现代作为完整借词使用，昏暗、遮蔽是理解其几个常用义的共同线索。",
+    "history": [
+      [
+        "拉丁 obscurus 昏暗、难辨 → 法语 obscur → obscure",
+        "看不清可用于光线、形状，也可用于知识与名声"
+      ],
+      [
+        "形容词与遮暗、掩盖动词发展",
+        "现代 obscure a view 是遮住视线，an obscure writer 是不知名作家"
+      ]
+    ],
+    "explanation": "an obscure reference 是难懂的典故；an obscure writer 是不知名作家；obscure the view 是挡住视线。",
+    "usage": "an obscure reference；an obscure writer；obscure the view。",
+    "contrast": "obscure 作形容词、动词时通常读音相同，靠句法辨别。不知名不自动等于不重要；难懂也可能是背景知识不熟，而不只是句子写得差。",
+    "examples": [
+      [
+        "The essay contains an obscure reference to an old play.",
+        "文章里有一处让人难懂的旧戏典故。"
+      ],
+      [
+        "Tall trees obscure the view from the window.",
+        "高树挡住了窗外的景色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obscure#English",
+      "https://www.etymonline.com/word/obscure"
+    ]
+  },
+  {
+    "word": "obscurity",
+    "ipa": "英 /əbˈskjʊərəti/；美 /əbˈskjʊrəti/",
+    "meaning": "默默无闻；不清楚、难懂的状态",
+    "sense": "一个人做了多年工作，却几乎没人知道，是 in obscurity。文字让人摸不着头脑，也可以谈它的 obscurity，重点是没被清楚看见、理解。",
+    "split": "现代可联系 obscure 去末尾 e + -ity 状态名词材料 → obscurity。历史也经法语 obscurete、拉丁 obscuritas 昏暗、模糊等形式发展，不强定只有英语临时加后缀一条路。",
+    "history": [
+      [
+        "拉丁 obscurus 昏暗 → obscuritas → 法语等 → obscurity",
+        "形成看不清、难理解的性质名词"
+      ],
+      [
+        "不清楚与不被人知的分支",
+        "现代常用默默无闻义，也可说表达晦涩"
+      ]
+    ],
+    "explanation": "in obscurity 是默默无闻；fade into obscurity 是逐渐被遗忘；the obscurity of a passage 是一段文字的晦涩。",
+    "usage": "in obscurity；fade into obscurity；the obscurity of。",
+    "contrast": "obscurity 与 fame 名声形成常见对照；与 clarity 清楚对照时，则强调晦涩、不明。先看谈人还是谈内容，就能分清两个用法。",
+    "examples": [
+      [
+        "The artist worked in obscurity for many years.",
+        "这位艺术家默默无闻地创作了多年。"
+      ],
+      [
+        "Readers complained about the obscurity of the final chapter.",
+        "读者抱怨最后一章晦涩难懂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obscurity#English",
+      "https://www.etymonline.com/word/obscurity"
+    ]
+  },
+  {
+    "word": "carpenter",
+    "ipa": "英 /ˈkɑːpəntə/；美 /ˈkɑːrpəntɚ/",
+    "meaning": "木匠；木工师傅",
+    "sense": "把木料量好、切开、接起来，做成门窗、结构或其他木制品的人，是 carpenter。先抓住做木工的师傅这个职业画面。",
+    "split": "整体经英法语 carpenter、古北法语 carpentier 接晚期拉丁 carpentarius 造车者，来自 carpentum 车辆。职业词尾历史涉及法语、拉丁形式，不是现代英语有独立 carpen 再加 -er。",
+    "history": [
+      [
+        "拉丁 carpentum 车辆 → carpentarius 造车者、木匠",
+        "车架制作与木工技艺相连，职业范围后来扩大"
+      ],
+      [
+        "法语相关形式 → carpenter",
+        "现代泛指从事相应木工工作的人"
+      ]
+    ],
+    "explanation": "a skilled carpenter 是熟练木匠；work as a carpenter 是做木工；a carpenter’s tools 是木匠工具。",
+    "usage": "a skilled carpenter；work as a carpenter；a carpenter’s tools。",
+    "contrast": "carpenter 是人，carpentry 是技艺、工作。carpenter 常可做结构、安装等木工；具体工种分法依地区、工作习惯，不把它绝对限定成只做某一种木制品。",
+    "examples": [
+      [
+        "The carpenter repaired the wooden door.",
+        "木匠修好了木门。"
+      ],
+      [
+        "She trained as a carpenter before starting her own workshop.",
+        "她受过木工训练，后来开了自己的作坊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carpenter#English",
+      "https://www.etymonline.com/word/carpenter"
+    ]
+  },
+  {
+    "word": "carpentry",
+    "ipa": "英 /ˈkɑːpəntri/；美 /ˈkɑːrpəntri/",
+    "meaning": "木工技艺；木工工作；木制构件",
+    "sense": "木匠不是只会拿锯子，而是知道怎样把木料加工、拼接、安装，这整套手艺叫 carpentry。也可以说一栋建筑里的木工活。",
+    "split": "经法语 carpenterie、charpenterie 木工技艺，接 carpenter 的木匠词族与 -erie/-ery 技艺、行业名词材料，英语形式发生收缩。学习时可对照 carpenter 人与 carpentry 工作，不把 -try 当通用后缀。",
+    "history": [
+      [
+        "法语 carpenterie、charpenterie → carpentry",
+        "历史后缀用于职业活动、技艺，形成木工工作的名称"
+      ],
+      [
+        "木工技艺 → 木工活、相应木制构件",
+        "现代常作不可数名词描述一门手艺或工程部分"
+      ]
+    ],
+    "explanation": "learn carpentry 是学木工；basic carpentry 是基础木工；the carpentry in a house 是房屋里的木工活。",
+    "usage": "learn carpentry；basic carpentry；carpentry skills。",
+    "contrast": "carpenter 数做木工的人，carpentry 通常不数人。joinery 更常关注木件接合、门窗等细作，实际职业分工仍按当地习惯理解。",
+    "examples": [
+      [
+        "He learned basic carpentry from his grandfather.",
+        "他跟祖父学了基础木工。"
+      ],
+      [
+        "The renovation included repairs to the old carpentry.",
+        "翻修包括修复旧木制构件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carpentry#English",
+      "https://www.etymonline.com/word/carpentry"
+    ]
+  },
+  {
+    "word": "foam",
+    "ipa": "英 /fəʊm/；美 /foʊm/",
+    "meaning": "泡沫；泡沫材料；起泡",
+    "sense": "许多小气泡挤在一起，看起来轻、蓬、有孔，就是 foam。海浪、肥皂水能产生泡沫，包装和坐垫里那种多孔轻材料也叫 foam。",
+    "split": "承古英语 fam 泡沫、唾沫等，经中古英语 fom、fome 发展为 foam。名词与起泡动词历史都很早，现代不是从英语某个前缀加词根拼出来。",
+    "history": [
+      [
+        "古英语 fam 泡沫与相关起泡动词 → foam",
+        "细小气泡聚成一层的画面长期保留"
+      ],
+      [
+        "泡沫结构 → 泡沫材料；foam 也作动词",
+        "现代按场景分真实气泡、类似多孔结构的材料"
+      ]
+    ],
+    "explanation": "sea foam 是海浪泡沫；a layer of foam 是一层泡沫；foam padding 是泡沫衬垫。",
+    "usage": "sea foam；a layer of foam；foam padding。",
+    "contrast": "bubble 可以数单个气泡，foam 常统说一团、一层泡沫。foam 通常不可数，数一层可说 a layer of foam。",
+    "examples": [
+      [
+        "White foam formed along the edge of the water.",
+        "水边形成了白色泡沫。"
+      ],
+      [
+        "The box was lined with foam to protect the instrument.",
+        "盒子里衬着泡沫材料，以保护仪器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foam#English",
+      "https://www.etymonline.com/word/foam"
+    ]
+  },
+  {
+    "word": "foamy",
+    "ipa": "英 /ˈfəʊmi/；美 /ˈfoʊmi/",
+    "meaning": "有泡沫的；多泡沫的",
+    "sense": "表面冒着一层细泡，看上去蓬松、起沫，就是 foamy。先想泡沫真的在物体上，而不是抽象的形容。",
+    "split": "foam 泡沫 + 完整 -y 有、带某种性质 → foamy。古英语已有 faemig 有泡沫的对应形式，现代拆分方便识别，不能据此说英语最近才造出它。",
+    "history": [
+      [
+        "古英语 fam 泡沫、faemig 有泡沫的 → foam、foamy",
+        "名词与形容词关系很早便已存在"
+      ],
+      [
+        "现代 foam + -y 的透明对应",
+        "-y 把物质、特征名词变成具有该特征的形容词"
+      ]
+    ],
+    "explanation": "a foamy surface 是起泡的表面；foamy water 是有泡沫的水；a foamy layer 是一层泡沫状表层。",
+    "usage": "a foamy surface；foamy water；a foamy layer。",
+    "contrast": "foam 是泡沫名词，foamy 是带泡沫的形容词。a layer of foam 与 a foamy layer 从不同词性表达相近画面。",
+    "examples": [
+      [
+        "The waves left a foamy line on the sand.",
+        "海浪在沙滩上留下了一条泡沫带。"
+      ],
+      [
+        "A foamy layer covered the top of the mixture.",
+        "混合物表面覆盖着一层泡沫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foamy#English",
+      "https://www.etymonline.com/word/foam"
+    ]
+  },
+  {
+    "word": "spiral",
+    "ipa": "英 /ˈspaɪrəl/；美 /ˈspaɪrəl/",
+    "meaning": "螺旋；螺旋形的；盘旋；不断加剧",
+    "sense": "绕着中心一圈圈转，同时向外扩开或向前推进，就是 spiral。事情也可能一圈带动下一圈，越走越失控，形成恶性循环的比喻。",
+    "split": "经法语 spiral、拉丁 spiralis 螺旋形的，来自 spira 盘卷、希腊 speira 盘绕之物；-al 对应拉丁 -alis 形容词材料。它与 spir- 呼吸词根有不同来源。",
+    "history": [
+      [
+        "希腊 speira 盘卷 → 拉丁 spira、spiralis → spiral 形容词",
+        "盘成一圈圈的形态提供名称"
+      ],
+      [
+        "螺旋名词、盘旋动词与恶化的比喻",
+        "现代不仅说形状，也说费用、局势不断升级"
+      ]
+    ],
+    "explanation": "a spiral staircase 是螺旋楼梯；draw a spiral 是画螺线；spiral out of control 是越来越失控。",
+    "usage": "a spiral staircase；draw a spiral；spiral out of control。",
+    "contrast": "a circle 是一个闭合圆圈，a spiral 一圈圈延展。a spiral of rising costs 常强调各因素互相推动，使成本不断上升。",
+    "examples": [
+      [
+        "Draw a spiral from the centre of the page.",
+        "从纸页中心画出一条螺线。"
+      ],
+      [
+        "The costs began to spiral out of control.",
+        "费用开始不断增加，逐渐失控。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiral#English",
+      "https://www.etymonline.com/word/spiral"
+    ]
+  },
+  {
+    "word": "spiralling",
+    "ipa": "英、美 /ˈspaɪrəlɪŋ/",
+    "meaning": "盘旋的；不断上涨、加剧的〔常见英式拼写〕",
+    "sense": "一圈接着一圈转下去，是 spiralling 的形状画面。谈费用时，它常说数字越涨越快，让人担心难以控制。",
+    "split": "spiral + 完整 -ing → spiralling，常见英式拼写双写 l；美式通常 spiraling。spiral 的拉丁 spira 盘卷与 -alis 材料在更早阶段形成，现代直接在整个动词后变化。",
+    "history": [
+      [
+        "希腊、拉丁盘卷词族 → spiral",
+        "螺旋形态、盘旋动作与不断加剧的比喻并存"
+      ],
+      [
+        "spiral + -ing → spiralling",
+        "英式双 l 是拼写习惯，不因为这个词末音节一定重读"
+      ]
+    ],
+    "explanation": "spiralling costs 是不断上涨的费用；spiralling upwards 是盘旋向上；spiralling out of control 是越来越失控。",
+    "usage": "spiralling costs；spiralling upwards；spiralling out of control。",
+    "contrast": "spiralling costs 比单说 rising costs 更容易带不断加速、互相推动或难以控制的感觉。spiralling 与 spiraling 是同词同形式的拼写变体。",
+    "examples": [
+      [
+        "Spiralling costs forced the team to revise the plan.",
+        "不断上涨的费用迫使团队修改计划。"
+      ],
+      [
+        "The paper strip was spiralling down through the air.",
+        "纸条在空中盘旋着落下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiralling#English",
+      "https://www.etymonline.com/word/spiral"
+    ]
+  },
+  {
+    "word": "spiraling",
+    "ipa": "英、美 /ˈspaɪrəlɪŋ/",
+    "meaning": "盘旋的；不断上涨、恶化的〔常见美式拼写〕",
+    "sense": "事情绕着原来的问题一层层扩大，最后难以收住，可以说 spiraling。实际在空中打转、盘旋的动作也可以用它。",
+    "split": "spiral + 完整 -ing → spiraling，美式通常保留一个 l；英式常写 spiralling。这个区别不改变词根、意思或发音。",
+    "history": [
+      [
+        "希腊 speira、拉丁 spira 盘卷 → spiral",
+        "英语名词、形容词、动词围绕螺旋形态发展"
+      ],
+      [
+        "spiral + -ing → spiraling",
+        "现代美式常用单 l，形状动作与局势加剧都能表达"
+      ]
+    ],
+    "explanation": "spiraling prices 是不断上涨的价格；spiraling down 是盘旋而下；spiraling out of control 是越来越失控。",
+    "usage": "spiraling prices；spiraling down；spiraling out of control。",
+    "contrast": "spiraling 强调持续盘旋、扩大或恶化；spiral 单独可以是螺旋名词，也可以是基础动词。两种拼写 spiraling、spiralling 放在一起学习即可。",
+    "examples": [
+      [
+        "The leaves were spiraling down from the tree.",
+        "树叶从树上盘旋着落下。"
+      ],
+      [
+        "They were worried about spiraling prices.",
+        "他们担心价格不断上涨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spiraling#English",
+      "https://www.etymonline.com/word/spiral"
+    ]
+  },
+  {
+    "word": "revere",
+    "ipa": "英 /rɪˈvɪə/；美 /rɪˈvɪr/",
+    "meaning": "深深敬重；崇敬",
+    "sense": "对某个人、某种传统抱有很深的敬意，像面对值得珍重的东西，不敢轻慢，就是 revere。比一般觉得不错更郑重。",
+    "split": "经法语 révérer 接拉丁 revereri 敬畏、敬重，含加强性的 re- 与 vereri 敬畏。现代不把 re- 固定理解为再一次，ver- 也不是这里的真理词根。",
+    "history": [
+      [
+        "拉丁 re- 加强 + vereri 敬畏 → revereri → 法语 révérer",
+        "敬畏、尊崇的情感联系起来"
+      ],
+      [
+        "英语 revere 深敬",
+        "reverence 名词及相关动词出现更早；现代学习先放基础动词，是为了看清词性"
+      ]
+    ],
+    "explanation": "revere a teacher 是崇敬老师；revere a tradition 是敬重传统；revere someone as something 是尊某人为……。",
+    "usage": "revere a teacher；revere a tradition；revere someone as。",
+    "contrast": "respect 很通用，revere 更强调深深敬重，常带庄重感。revere 是对人的态度，不自动表示赞成对方做过的每一件事。",
+    "examples": [
+      [
+        "Many former students revere her as a great teacher.",
+        "许多以前的学生把她敬奉为一位伟大的老师。"
+      ],
+      [
+        "The community continues to revere the old tradition.",
+        "这个社区仍然深深敬重那项古老传统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revere#English",
+      "https://www.etymonline.com/word/revere"
+    ]
+  },
+  {
+    "word": "reverence",
+    "ipa": "英、美 /ˈrevərəns/",
+    "meaning": "崇敬；敬意；敬畏",
+    "sense": "面对珍重的人或事，声音放轻、态度郑重，这种深深的敬意是 reverence。既可以是心里的情感，也可以表现为举止。",
+    "split": "经法语、拉丁 reverentia 敬意，接 revereri 敬畏、敬重词族；-ence 对应状态、性质名词材料。现代可与 revere 对照，但不能说历史上英语先有 revere 才加 -ence。",
+    "history": [
+      [
+        "拉丁 revereri 敬畏 → reverentia → 法语、英语 reverence",
+        "名词保留深敬、庄重对待的意思"
+      ],
+      [
+        "现代 reverence for、with reverence",
+        "分别说对某物的敬意、怀着敬意采取行动"
+      ]
+    ],
+    "explanation": "reverence for someone 是对某人的崇敬；with reverence 是怀着敬意；a sense of reverence 是肃然起敬的感觉。",
+    "usage": "reverence for；with reverence；a sense of reverence。",
+    "contrast": "reverence 通常是不可数情感名词；revere 是动词，reverent 是表现恭敬的形容词。三个词表达同一种敬意在句中不同的位置。",
+    "examples": [
+      [
+        "She spoke of her mentor with reverence.",
+        "她怀着敬意谈起自己的导师。"
+      ],
+      [
+        "The ceremony expressed reverence for the natural world.",
+        "仪式表达了对自然世界的敬畏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reverence#English",
+      "https://www.etymonline.com/word/reverence"
+    ]
+  },
+  {
+    "word": "reverent",
+    "ipa": "英、美 /ˈrevərənt/",
+    "meaning": "恭敬的；怀着崇敬的",
+    "sense": "面对自己深深尊重的人或事，举止认真、声音放轻，是 reverent。它主要描述表现出来的敬意，而不只是对方地位高。",
+    "split": "经法语或拉丁 reverens、reverent-，是 revereri 敬畏的现在分词材料；末尾 -ent 在英语里形成相应形容词。re- 在这条历史词里可起加强作用。",
+    "history": [
+      [
+        "拉丁 revereri 敬畏 → reverens、reverent- → reverent",
+        "历史上也有值得敬重的旧义"
+      ],
+      [
+        "现代 reverent 深敬、表现恭敬",
+        "常修饰语气、态度、沉默等行为表现"
+      ]
+    ],
+    "explanation": "a reverent tone 是恭敬语气；reverent silence 是肃静、带敬意的沉默；a reverent attitude 是恭敬态度。",
+    "usage": "a reverent tone；reverent silence；a reverent attitude。",
+    "contrast": "reverent 常描述人怀着敬意的态度；reverend 常见于教士称谓，历史词尾也不同。现代不能只看最后 d、t 相近就互换。",
+    "examples": [
+      [
+        "The visitors stood in reverent silence.",
+        "参观者们肃然静立。"
+      ],
+      [
+        "He spoke in a reverent tone about his teacher.",
+        "他用恭敬的语气谈起自己的老师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reverent#English",
+      "https://www.etymonline.com/word/reverent"
+    ]
+  },
+  {
+    "word": "reverend",
+    "ipa": "英、美 /ˈrevərənd/",
+    "meaning": "应受尊敬的；教士称谓〔如牧师〕",
+    "sense": "把某位教士郑重地称为值得尊敬的人，是 Reverend 作为称谓的来历。现代常在姓名前看到 the Reverend 或缩写 Rev.。",
+    "split": "接法语相关形式与拉丁 reverendus 应被敬重的，是 revereri 敬畏的动形词。-endus 的历史被动、应当色彩，与 reverent 的现在分词 -ent 分开。",
+    "history": [
+      [
+        "拉丁 revereri 敬畏 → reverendus 应受敬重的 → reverend",
+        "英语早期也泛说因年龄、品格而值得敬重"
+      ],
+      [
+        "尊敬形容词 → 教士敬称",
+        "现代常作某些基督教教士的姓名前称谓，也有相应名词用法"
+      ]
+    ],
+    "explanation": "the Reverend 加姓名是教士敬称；Rev. 是常见缩写；a reverend figure 在较旧或文学语境可说值得尊敬的人物。",
+    "usage": "the Reverend；Rev.；a reverend figure。",
+    "contrast": "reverent 常说某人态度恭敬；Reverend 常是教士称谓。一般说一位令人尊敬的老师，现代 respect、respected 等往往更通用。",
+    "examples": [
+      [
+        "The notice names the Reverend Anne Brown as the speaker.",
+        "通知列出安妮·布朗牧师为发言人。"
+      ],
+      [
+        "The novel introduces a quiet reverend who runs the village school.",
+        "小说介绍了一位安静的牧师，他负责村里的学校。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reverend#English",
+      "https://www.etymonline.com/word/reverend"
+    ]
+  },
+  {
+    "word": "reverential",
+    "ipa": "英 /ˌrevəˈrenʃəl/；美 /ˌrevəˈrenʃəl/",
+    "meaning": "崇敬的；表示深敬的",
+    "sense": "讲一位大师的作品时，几乎每句话都带着郑重的赞叹，可以说语气很 reverential。它突出对对象抱有深深敬意的表达方式。",
+    "split": "历史接拉丁 reverentia 敬意的 reverenti- 材料 + 完整 -al 相关的 → reverential。现代可以用 reverence 名词与 reverential 形容词来对照，词形里有 -ial 这一段。",
+    "history": [
+      [
+        "拉丁 reverentia 敬意 → reverenti- + -al → reverential",
+        "与 revere、reverent 同接敬畏词族，形容词形成材料不同"
+      ],
+      [
+        "现代 reverential 崇敬、带敬意的",
+        "常形容文字、评论、语气与对待对象的方式"
+      ]
+    ],
+    "explanation": "a reverential tone 是崇敬的语气；reverential treatment 是郑重、崇敬的对待；a reverential account 是带着敬意的记述。",
+    "usage": "a reverential tone；reverential treatment；a reverential account。",
+    "contrast": "reverential 与 reverent 意义接近，前者尤其常形容对对象的呈现、对待方式。也可被评论者用来指出过于崇敬，具体褒贬看语境。",
+    "examples": [
+      [
+        "The biography takes a reverential approach to its subject.",
+        "这部传记以崇敬的态度对待传主。"
+      ],
+      [
+        "She lowered her voice to a reverential whisper.",
+        "她压低声音，化为带着敬意的轻语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reverential#English",
+      "https://www.etymonline.com/word/reverential"
+    ]
+  },
+  {
+    "word": "reverently",
+    "ipa": "英、美 /ˈrevərəntli/",
+    "meaning": "恭敬地；怀着崇敬地",
+    "sense": "小心地翻开一位敬重之人的旧笔记，态度很郑重，这个动作可以用 reverently 来说明。它把 reverent 的敬意放到动作方式上。",
+    "split": "reverent 恭敬的 + 完整 -ly 副词词尾 → reverently，原词不改。reverent 接拉丁敬畏词族的现在分词材料，-ent 是形容词历史组成部分。",
+    "history": [
+      [
+        "拉丁 revereri 敬畏 → reverent 恭敬的",
+        "现代形容人的态度、表现"
+      ],
+      [
+        "reverent + -ly → reverently",
+        "形成方式副词，说明带着敬意怎样做"
+      ]
+    ],
+    "explanation": "speak reverently 是怀着敬意说话；bow reverently 是恭敬地鞠躬；handle something reverently 是郑重、小心地对待某物。",
+    "usage": "speak reverently；bow reverently；handle reverently。",
+    "contrast": "a reverent gesture 是恭敬的举动，bowed reverently 是恭敬地鞠了躬。形容词修饰事物，副词修饰动作，不必逐个重新猜词根义。",
+    "examples": [
+      [
+        "She opened the old notebook reverently.",
+        "她怀着敬意翻开了旧笔记本。"
+      ],
+      [
+        "The audience listened reverently as the poem was read.",
+        "诗歌朗读时，听众们恭敬地聆听。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reverently#English",
+      "https://www.etymonline.com/word/reverent"
+    ]
+  },
+  {
+    "word": "irreverent",
+    "ipa": "英 /ɪˈrevərənt/；美 /ɪˈrevərənt/",
+    "meaning": "不恭敬的；不把权威、惯例当神圣的；戏谑大胆的",
+    "sense": "别人对一件事很庄重，你偏要开个玩笑、打破那份严肃，可以说 irreverent。它可能批评不尊重，也可能赞作品敢于挑战惯例。",
+    "split": "ir- 不，是 in- 在 r 前同化的形式 + reverent 恭敬的 → irreverent。历史经法语或直接接拉丁 irreverens、irreverent-，不是现代英语才首次临时拼成。",
+    "history": [
+      [
+        "拉丁 in- 不 + reverens 恭敬的 → irreverens → 法语等 → irreverent",
+        "否定敬意，形成不恭敬的描述"
+      ],
+      [
+        "现代不恭敬与戏谑挑战权威的评价",
+        "作品评论里可能是欣赏其不拘一格，褒贬取决于场景"
+      ]
+    ],
+    "explanation": "irreverent humour 是不拘庄重、敢开权威玩笑的幽默；an irreverent remark 是不恭敬的话；an irreverent take on something 是戏谑式重新解读。",
+    "usage": "irreverent humour；an irreverent remark；an irreverent take on。",
+    "contrast": "irreverent 不总等于恶意辱骂。它说对庄重对象缺少通常的敬意，艺术语境也可能欣赏这种大胆、幽默的突破。",
+    "examples": [
+      [
+        "The film is known for its irreverent humour.",
+        "影片以它大胆戏谑的幽默著称。"
+      ],
+      [
+        "His irreverent remark surprised the otherwise solemn audience.",
+        "他那句不拘庄重的话让原本严肃的听众吃了一惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/irreverent#English",
+      "https://www.etymonline.com/word/irreverent"
+    ]
+  },
+  {
+    "word": "irreverence",
+    "ipa": "英 /ɪˈrevərəns/；美 /ɪˈrevərəns/",
+    "meaning": "不敬；不拘庄重的态度；大胆戏谑",
+    "sense": "把通常该肃然起敬的对象拿来开玩笑，这种态度或风格叫 irreverence。它把 irreverent 所描述的性质作为一个名词来谈。",
+    "split": "ir- 不 + reverence 敬意，是现代易认的对应。历史接法语 irreverence、拉丁 irreverentia，来自否定的敬畏词族；-ence 对应状态、性质名词材料。",
+    "history": [
+      [
+        "拉丁 irreverens 不恭敬的 → irreverentia → 法语等 → irreverence",
+        "名词有独立借入历史，不能只按现代英语先后顺序推断"
+      ],
+      [
+        "现代不敬、戏谑挑战惯例的态度",
+        "对艺术风格的评价可能带欣赏，也可能带责备"
+      ]
+    ],
+    "explanation": "a touch of irreverence 是一点不拘庄重；irreverence towards authority 是对权威不存通常敬畏；a spirit of irreverence 是敢于戏谑、挑战的精神。",
+    "usage": "a touch of irreverence；irreverence towards；a spirit of irreverence。",
+    "contrast": "irreverence 是名词，irreverent 是形容词。an irreverent joke 形容笑话，the joke’s irreverence 讨论这则笑话的不拘庄重之处。",
+    "examples": [
+      [
+        "A touch of irreverence kept the ceremony from becoming dull.",
+        "一点不拘庄重的幽默使仪式没有变得沉闷。"
+      ],
+      [
+        "Some readers disliked the book’s irreverence towards tradition.",
+        "有些读者不喜欢这本书对传统的不敬态度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/irreverence#English",
+      "https://www.etymonline.com/word/irreverence"
+    ]
+  },
+  {
+    "word": "asthma",
+    "ipa": "英 /ˈæsmə/；美 /ˈæzmə/",
+    "meaning": "哮喘",
+    "sense": "asthma 是哮喘这个疾病名称，属于影响呼吸的气道疾病。它的旧名字抓住了喘息、呼吸费力的现象，但现代疾病含义比一个单独症状更具体。",
+    "split": "经拉丁 asthma 接希腊 asthma 喘息、气短，相关 azein 用力呼吸。英语早期常写 asma，后来按古典拼写恢复 th；今天常见读音里 th 并不单独发 /θ/。",
+    "history": [
+      [
+        "希腊喘息词 → 拉丁 asthma → 英语早期 asma",
+        "词名来自呼吸现象，现代用于特定疾病"
+      ],
+      [
+        "古典拼写恢复 → asthma",
+        "书写保留 th，常用读音仍是两音节，重音在开头"
+      ]
+    ],
+    "explanation": "have asthma 是患有哮喘；asthma research 是哮喘研究；asthma symptoms 是哮喘症状。",
+    "usage": "have asthma；asthma research；asthma symptoms。",
+    "contrast": "asthma 是疾病名，breathlessness 是呼吸困难、气短这个症状词。二者不能只因旧词源相近，就在现代每个句子里互换。",
+    "examples": [
+      [
+        "The leaflet explains asthma in plain language.",
+        "小册子用浅显语言解释哮喘。"
+      ],
+      [
+        "Her research focuses on asthma in children.",
+        "她的研究关注儿童哮喘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/asthma#English",
+      "https://www.etymonline.com/word/asthma",
+      "https://www.nhs.uk/conditions/asthma/"
+    ]
+  },
+  {
+    "word": "asthmatic",
+    "ipa": "英 /æsˈmætɪk/；美 /æzˈmætɪk/",
+    "meaning": "哮喘的；患哮喘的；哮喘患者〔名词〕",
+    "sense": "asthma 是疾病名，asthmatic 把话转成“与哮喘有关的、患哮喘的”。所以 asthmatic patients 就是患哮喘的患者。",
+    "split": "asthma 的希腊词干 asthmat- + 完整 -ic 相关的 → asthmatic；经希腊 asthmatikos、拉丁 asthmaticus 进入英语。中间 t 是词干扩展材料，不能只写成 asthma 后加一个 c。",
+    "history": [
+      [
+        "希腊 asthma、asthmat- 喘息词干 + -ikos → 拉丁 asthmaticus",
+        "构成与哮喘相关、受其影响的形容词"
+      ],
+      [
+        "英语 asthmatic → 相关形容词，也可转指患者",
+        "现代名词、形容词要按句法分别理解"
+      ]
+    ],
+    "explanation": "asthmatic patients 是患哮喘的患者；asthmatic symptoms 是哮喘相关症状；an asthmatic 可作一位哮喘患者的名词表达。",
+    "usage": "asthmatic patients；asthmatic symptoms；an asthmatic。",
+    "contrast": "asthma 是名词，asthmatic 常作形容词，重音也移到中间。学习这组词时，注意原名词 -ma 与扩展词干 -mat- 的对应。",
+    "examples": [
+      [
+        "The study included asthmatic patients from several clinics.",
+        "研究纳入了几家诊所的哮喘患者。"
+      ],
+      [
+        "The article explains what the term asthmatic means.",
+        "文章解释了 asthmatic 这个术语的意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/asthmatic#English",
+      "https://www.etymonline.com/word/asthmatic",
+      "https://www.nhs.uk/conditions/asthma/"
+    ]
+  },
+  {
+    "word": "lade",
+    "ipa": "英、美 /leɪd/",
+    "meaning": "装载〔较旧，现主要见于船运等语境〕",
+    "sense": "把货物一件件放上船，让船承载它们，是 lade。今天一般装载多说 load；认出 lade 主要有助于理解常见的 laden 和 lading。",
+    "split": "承古英语 hladan 装载、堆上去，经过中古英语发展为 lade。旧分词为 laden；现代不把它硬拆成 la 加某个后缀。",
+    "history": [
+      [
+        "古英语 hladan 装载 → lade",
+        "历史上可以装载、堆积，也曾有取水等用法"
+      ],
+      [
+        "现代主要留下船运书面用法及 laden、lading",
+        "学习基点与今天最常用的主动动词不一定相同"
+      ]
+    ],
+    "explanation": "lade a ship 是给船装货；lade a vessel with grain 是给船装谷物；laden 是装载的旧分词形容词。",
+    "usage": "lade a ship；lade a vessel with；laden。",
+    "contrast": "普通现代叙述装载，load 更通用；lade 主要用于理解旧文、特定船运文字与派生形式。它和 load 的拼写、使用相互影响，但两词早期来源不能简单等同。",
+    "examples": [
+      [
+        "At dawn, the crew begins to lade the ship.",
+        "黎明时，船员开始给船装货。"
+      ],
+      [
+        "The old manual uses lade for putting cargo aboard.",
+        "旧手册用 lade 表示把货物装上船。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lade#English",
+      "https://www.etymonline.com/word/lade"
+    ]
+  },
+  {
+    "word": "laden",
+    "ipa": "英、美 /ˈleɪdən/",
+    "meaning": "满载的；负担着的；充满某种情绪的",
+    "sense": "树枝压满果实、车里装满货物，是 laden。情绪也能像重量装在声音里，a voice laden with regret 就是满是悔意的声音。",
+    "split": "lade 装载的旧过去分词 → laden，结尾 -en 属历史分词材料。现代主要作形容词，常接 with；不能把它当成普通规则动词再机械加 -ed。",
+    "history": [
+      [
+        "古英语装载动词 hladan、旧分词 gehladen → lade、laden",
+        "旧分词形态在英语中保留下来"
+      ],
+      [
+        "满载 → 带着沉重负担或情感",
+        "现代物体与抽象情绪都可 laden with"
+      ]
+    ],
+    "explanation": "laden with fruit 是挂满果实；heavily laden 是满载的；laden with regret 是满怀悔意。",
+    "usage": "laden with fruit；heavily laden；laden with regret。",
+    "contrast": "laden 常强调装得满、承着重量或浓重情绪；loaded 使用范围更宽。a laden branch 可以想枝条被累累果实压低的画面。",
+    "examples": [
+      [
+        "The branches were laden with fruit.",
+        "枝条上挂满了果实。"
+      ],
+      [
+        "Her voice was laden with regret.",
+        "她的声音里满是悔意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laden#English",
+      "https://www.etymonline.com/word/laden"
+    ]
+  },
+  {
+    "word": "whiskey",
+    "ipa": "英、美 /ˈwɪski/",
+    "meaning": "威士忌〔一种谷物蒸馏酒；whisky 的拼写变体〕",
+    "sense": "whiskey 是酒名，中文音译威士忌。它更早的盖尔语名称意为生命之水；现代短词形是这个长名称经过借入、语音变化和缩短的结果。",
+    "split": "借盖尔语 uisge beatha 生命之水的词族，uisge、早期 uisce 是水，beatha、早期 bethu 是生命。水这一部分与英语 water 远处同源，现代不把 whiskey 拆成英语 whisk 扫动。",
+    "history": [
+      [
+        "盖尔语 uisge beatha 生命之水 → 早期英语多种借入形式",
+        "酒名由整体借入、缩短和发音变化发展"
+      ],
+      [
+        "whiskey、whisky 的现代拼写传统",
+        "有无 e 通常与地区、品牌习惯相连，不据此划成全球无例外的类别"
+      ]
+    ],
+    "explanation": "a bottle of whiskey 是一瓶威士忌；whiskey production 是威士忌生产；the history of whiskey 是威士忌的历史。",
+    "usage": "a bottle of whiskey；whiskey production；the history of whiskey。",
+    "contrast": "whiskey 与 whisky 是同一类酒名的常见拼写；具体产品仍看名称、标签和背景。生命之水是历史命名，不是现代健康含义。",
+    "examples": [
+      [
+        "An unopened bottle of whiskey stood on the shelf.",
+        "架子上放着一瓶未开封的威士忌。"
+      ],
+      [
+        "The exhibition includes a section on whiskey production.",
+        "展览有一个介绍威士忌生产的部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whiskey#English",
+      "https://www.etymonline.com/word/whiskey"
+    ]
+  },
+  {
+    "word": "whisky",
+    "ipa": "英、美 /ˈwɪski/",
+    "meaning": "威士忌〔whiskey 的拼写变体〕",
+    "sense": "看到 whisky，不必再猜另一种陌生饮料。它与 whiskey 属同一个酒名的不同拼写传统，中文都常译威士忌。",
+    "split": "同接盖尔语 uisge beatha 生命之水的词族，长期缩短、借入为现代 whisky。末尾 -y 这里是整个借词拼写的一部分，不是英语的带有某物形容词后缀。",
+    "history": [
+      [
+        "盖尔语生命之水名称 → 英语借词、缩短形式",
+        "水、生命两个历史组成部分都不是现代英语现场拼合"
+      ],
+      [
+        "现代 whisky 与 whiskey",
+        "拼写习惯有地区、品牌差异，核心酒名相同"
+      ]
+    ],
+    "explanation": "a whisky label 是威士忌标签；whisky production 是威士忌生产；a whisky distillery 是威士忌蒸馏酒厂。",
+    "usage": "a whisky label；whisky production；a whisky distillery。",
+    "contrast": "whisky 与 whiskey 通常无需分成两套读音、基本释义。它们与 water 的联系在更远的同源词族，不是现代英语 water 直接派生。",
+    "examples": [
+      [
+        "The label uses the spelling whisky.",
+        "标签使用了 whisky 这个拼写。"
+      ],
+      [
+        "The old building once housed a whisky distillery.",
+        "这栋老建筑过去曾是一家威士忌酒厂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/whisky#English",
+      "https://www.etymonline.com/word/whiskey"
+    ]
+  },
+  {
+    "word": "stoke",
+    "ipa": "英 /stəʊk/；美 /stoʊk/",
+    "meaning": "添燃料、拨旺火；激起、煽动",
+    "sense": "火还在烧，再加点燃料、拨一拨让它更旺，是 stoke。担忧、愤怒也能像火一样被添旺，所以有 stoke fears 煽起忧虑。",
+    "split": "英语 stoke 由较早的 stoker 炉工逆构而来，远接荷兰语 stoken 拨动、戳动、拨火，与 stock 的棍棒词族相关。现代可以看 stoke + -er，却不能把它当历史最初顺序。",
+    "history": [
+      [
+        "荷兰语拨动、拨火词族 → 英语 stoker 炉工",
+        "人与动作之间的材料关系存在，但借入先后要分清"
+      ],
+      [
+        "stoker → 逆构 stoke；实体拨火 → 煽起情绪",
+        "去掉像职业后缀的部分得到较短动词，后来用于抽象情绪"
+      ]
+    ],
+    "explanation": "stoke a fire 是添燃料、拨旺火；stoke fears 是加剧担忧；stoke resentment 是煽起怨恨。",
+    "usage": "stoke a fire；stoke fears；stoke resentment。",
+    "contrast": "stoke 突出给原来的火或情绪继续添动力；start 只说开始。stoke fears 的火是比喻，理解为让已有或可能出现的担忧更强。",
+    "examples": [
+      [
+        "In the story, he paused to stoke the fire.",
+        "故事里，他停下来给火添燃料。"
+      ],
+      [
+        "The rumours could stoke resentment within the team.",
+        "谣言可能加剧团队内部的怨恨。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stoke#English",
+      "https://www.etymonline.com/word/stoke"
+    ]
+  },
+  {
+    "word": "stoker",
+    "ipa": "英 /ˈstəʊkə/；美 /ˈstoʊkɚ/",
+    "meaning": "司炉工；给炉火添燃料的人",
+    "sense": "蒸汽机车、锅炉需要有人照看炉火、持续添燃料，这个工人叫 stoker。画面是让火不断烧下去的人。",
+    "split": "历史借荷兰语拨动、拨火词族的职业形式；英语 stoker 先见，后来逆构出 stoke。现代可用 stoke 拨火 + -er 人理解其透明关系，但不倒写英语造词时间线。",
+    "history": [
+      [
+        "荷兰语拨火职业名材料 → 英语 stoker",
+        "早期英语先借入相应从业者名称"
+      ],
+      [
+        "stoker → stoke 的逆构；现代保留司炉工义",
+        "与蒸汽动力、锅炉场景联系紧密"
+      ]
+    ],
+    "explanation": "a railway stoker 是铁路机车司炉工；work as a stoker 是当司炉工；a boiler stoker 可指司炉者或相关添煤装置，依语境判断。",
+    "usage": "a railway stoker；work as a stoker；the stoker’s job。",
+    "contrast": "stoker 是职位、从业者，stoke 是动作。firefighter 是消防员，与照看炉火、添燃料的工作不同。",
+    "examples": [
+      [
+        "The museum describes the work of a railway stoker.",
+        "博物馆介绍了铁路司炉工的工作。"
+      ],
+      [
+        "The stoker worked beside the engine’s furnace.",
+        "司炉工在发动机炉膛旁工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stoker#English",
+      "https://www.etymonline.com/word/stoke"
+    ]
+  },
+  {
+    "word": "instil",
+    "ipa": "英、美 /ɪnˈstɪl/",
+    "meaning": "逐渐灌输；逐步培养〔instill 的常见英式拼写〕",
+    "sense": "一种习惯、信心或责任感，不是一下子塞给人，而是在一次次相处中慢慢进入心里，这就是 instil 的常用画面。",
+    "split": "in- 向内 + still- 滴的词族 → instil。接拉丁 instillare 一滴滴放入，含 in- 与 stilla 一滴；现代 instil 常见于英式拼写，instill 在美式常见。",
+    "history": [
+      [
+        "拉丁 in- + stilla 一滴 → instillare → 英语 instil、instill",
+        "字面少量滴入，很早也用于感受、观念慢慢进入"
+      ],
+      [
+        "现代 instil a value、confidence 等",
+        "抽象灌输、培养是常见重点，不表示一次强迫接受所有观念"
+      ]
+    ],
+    "explanation": "instil confidence 是培养信心；instil a sense of responsibility 是培养责任感；instil something in someone 是把某种观念逐渐传给某人。",
+    "usage": "instil confidence；instil a sense of responsibility；instil in。",
+    "contrast": "instil 强调逐渐建立、培养；inform 只说告知信息。英美拼写差异不改变其含义，重音在后面的 /stɪl/。",
+    "examples": [
+      [
+        "A patient teacher can instil confidence in a hesitant student.",
+        "有耐心的老师能逐渐帮助犹豫的学生建立信心。"
+      ],
+      [
+        "The programme aims to instil a sense of responsibility.",
+        "这个项目旨在培养责任感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/instil#English",
+      "https://www.etymonline.com/word/instill"
+    ]
+  },
+  {
+    "word": "distil",
+    "ipa": "英、美 /dɪˈstɪl/",
+    "meaning": "蒸馏；提炼要点〔distill 的常见英式拼写〕",
+    "sense": "把复杂材料里需要的部分提炼出来，是 distil 的常见比喻。它本来联系蒸馏：蒸气冷凝回来形成液滴，收集所需的液体部分。",
+    "split": "dis- 分开 + still- 滴 → distil，历史经法语 distiller 接拉丁 distillare 滴下、逐滴流。常见英式单 l distil，对应美式常用 distill。",
+    "history": [
+      [
+        "拉丁 dis- + stillare 滴 → distillare → 法语、英语 distil",
+        "从滴液相关表达形成蒸馏的技术用法"
+      ],
+      [
+        "蒸馏、取得所需部分 → 把内容提炼为重点",
+        "现代也用于文章、经验、研究材料的概括"
+      ]
+    ],
+    "explanation": "distil a liquid 是蒸馏液体；distil the main points 是提炼要点；distil something into a summary 是把内容提炼成摘要。",
+    "usage": "distil a liquid；distil the main points；distil into。",
+    "contrast": "distil 强调从复杂整体中提炼精要；summarise 侧重概括。instil 是一点点放进去，distil 常是分离、提炼出来，方向不同。",
+    "examples": [
+      [
+        "The workshop showed how to distil a liquid mixture.",
+        "工作坊展示了液体混合物的蒸馏过程。"
+      ],
+      [
+        "She can distil a long discussion into three clear points.",
+        "她能把一场长讨论提炼为三个清楚的要点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/distil#English",
+      "https://www.etymonline.com/word/distill",
+      "https://edu.rsc.org/separating-mixtures/simple-distillation-practical-videos-14-16-years/4018538.article"
+    ]
+  },
+  {
+    "word": "obscured",
+    "ipa": "英 /əbˈskjʊəd/；美 /əbˈskjʊrd/",
+    "meaning": "遮住了；被遮蔽的；使难以理解了",
+    "sense": "本来能看见的景色被雾、树或别的东西挡住，就是 obscured。原因被复杂说法盖住，让人抓不到重点，也能这样比喻。",
+    "split": "obscure 动词去末尾 e，加完整 -ed → obscured，后缀读 /d/。接拉丁 obscurare 使昏暗、obscurus 昏暗词族，经法语等进入英语；现代直接以 obscure 变化。",
+    "history": [
+      [
+        "拉丁昏暗、使暗词族 → 法语、英语 obscure",
+        "从遮暗视线，也发展到使意思不清"
+      ],
+      [
+        "obscure + -ed → obscured",
+        "现代叙述遮蔽动作或已经被遮住的状态"
+      ]
+    ],
+    "explanation": "obscured by fog 是被雾遮住；obscured the view 是遮住了景色；obscured the issue 是把问题弄得难看清。",
+    "usage": "obscured by；obscured the view；obscured the issue。",
+    "contrast": "obscured 不一定是故意隐藏，雾和树也能自然挡住。hidden 泛指藏着、看不到；obscured 更突出有遮挡、昏暗或混淆让人难以看清。",
+    "examples": [
+      [
+        "The mountains were obscured by fog.",
+        "群山被雾遮住了。"
+      ],
+      [
+        "Technical language obscured the main point.",
+        "专业术语掩盖了主要意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obscured#English",
+      "https://www.etymonline.com/word/obscure"
+    ]
+  },
+  {
+    "word": "lading",
+    "ipa": "英、美 /ˈleɪdɪŋ/",
+    "meaning": "装货；货物；提单搭配中的用词",
+    "sense": "给船装货这一活动，以及装上的货物，都与 lading 有关。今天最值得先记的是 bill of lading，运输单据里的提单。",
+    "split": "lade 去末尾 e，加完整 -ing → lading。lade 装载承古英语 hladan；-ing 在这里把动作名词化，后来也可指装载物。",
+    "history": [
+      [
+        "lade 装载 + -ing → lading 装货活动",
+        "早期尤其联系给船装货"
+      ],
+      [
+        "动作名词 → 船上货物；bill of lading 固定搭配",
+        "现代学习重点是装运场景与提单名称"
+      ]
+    ],
+    "explanation": "a bill of lading 是一份提单；the lading of a ship 是船的装货；lading documents 是装运相关单据。",
+    "usage": "a bill of lading；the lading of a ship；lading documents。",
+    "contrast": "lading 的日常使用面较窄，loading 更通用；但 bill of lading 是值得整体认识的运输术语。词根解释帮助记名，具体单据作用按实际文本理解。",
+    "examples": [
+      [
+        "The shipment arrived with a bill of lading.",
+        "这批货到达时随附一份提单。"
+      ],
+      [
+        "The old records describe the lading of the ship.",
+        "旧记录描述了那艘船的装货过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lading#English",
+      "https://www.etymonline.com/word/lade"
+    ]
+  },
+  {
+    "word": "foaming",
+    "ipa": "英 /ˈfəʊmɪŋ/；美 /ˈfoʊmɪŋ/",
+    "meaning": "起泡的；正在产生泡沫的",
+    "sense": "水、肥皂液或海浪不断冒出、聚起小气泡，就是 foaming。它比 foamy 更容易把注意放在起泡这个过程上。",
+    "split": "foam + 完整 -ing → foaming，原词不改。foam 的起泡动词与古英语 fam 泡沫、famgian 起泡相关；现代 -ing 表示动作，也可作性质描述。",
+    "history": [
+      [
+        "古英语泡沫名词与起泡动词 → foam",
+        "名词、动词的对应历史很早"
+      ],
+      [
+        "foam + -ing → foaming",
+        "现代说正在起泡，也修饰会起泡或带着泡沫的东西"
+      ]
+    ],
+    "explanation": "foaming water 是起泡的水；foaming waves 是泛着泡沫的波浪；a foaming mixture 是正在起泡的混合物。",
+    "usage": "foaming water；foaming waves；a foaming mixture。",
+    "contrast": "foamy 常说有泡沫这个特征；foaming 常强调产生泡沫的过程。两者在描述表面状态时也可能接近，具体看句子关注动作还是外观。",
+    "examples": [
+      [
+        "The waves were foaming against the rocks.",
+        "海浪拍向岩石，泛起泡沫。"
+      ],
+      [
+        "The mixture kept foaming in the bowl.",
+        "混合物在碗里不断起泡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foaming#English",
+      "https://www.etymonline.com/word/foam"
+    ]
+  }
+]

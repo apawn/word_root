@@ -1,0 +1,107 @@
+[
+  {
+    "id": "B3098",
+    "meaning": "平滑、顺畅，再到口感和人物风格",
+    "core": "SMOOTH：手滑过去没有刺，事情走下去没有坎",
+    "image": "smooth → smoothly 方式、smoothness 性质；smoothie 以顺滑命名饮料，也曾先称圆滑人物。",
+    "intro": "摸、开车、谈判、喝饮料，用不同感觉抓住同一个顺。好的一面是流畅，人物语气里也可能带过分讨好的圆滑。",
+    "forms": "smēþe/smōþ → smooth；smooth + -ly/-ness/-ie。",
+    "branches": [
+      [
+        "基本性质和方式",
+        "smooth · smoothly · smoothness"
+      ],
+      [
+        "饮料与人物口语名词",
+        "smoothie"
+      ]
+    ],
+    "contrasts": "smooth/soft 平滑与软；smoothly/quickly 过程不卡与速度快；smoothie 不必每杯加奶。",
+    "practice": "The smoothie’s smoothness came from thoroughly blending the fruit.\n\n这杯果昔的细滑口感来自充分搅打的水果。",
+    "words": [
+      "smooth",
+      "smoothly",
+      "smoothness",
+      "smoothie"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3759",
+    "meaning": "展开、发展，及生物跨世代演化",
+    "core": "EVOLUTION：旧画面是卷轴展开，现代看变化历程",
+    "image": "evolution → evolutionary；拉丁 volūt- 是滚转动词的词干形式，不靠现代字母硬凑。",
+    "intro": "卷轴画面帮助认来源，不能替代现代科学含义。一般演变可以说设计、语言，生物演化则要放到跨世代遗传变化理解。",
+    "forms": "ex- + volvere → ēvolvere → ēvolūtiō → evolution；evolution + -ary → evolutionary。",
+    "branches": [
+      [
+        "演化过程与相应形容词",
+        "evolution · evolutionary"
+      ]
+    ],
+    "contrasts": "evolution 不等于个人努力升级；evolutionary 不保证先进；evolution/revolution 演变与剧变按场景区别。",
+    "practice": "Evolutionary biology studies evolution across generations.\n\n演化生物学研究跨世代的演化。",
+    "words": [
+      "evolution",
+      "evolutionary"
+    ],
+    "exclude": {
+      "self-evolution": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2958",
+    "meaning": "清理障碍、摆脱不要的东西",
+    "core": "RID：把占着、碍着的东西清出去",
+    "image": "rid 的重点是 get rid of 和 rid 人或地方 of 某物；常规 -ing 形式为 ridding。",
+    "intro": "短词不靠猜单个字母，靠两个高频句型掌握。清除义和 ride 的骑行义不是一个动词。",
+    "forms": "旧清地词 → ridden → rid；rid + -ing 双写 d → ridding；常见过去式、分词 rid。",
+    "branches": [
+      [
+        "清理、摆脱的核心动词",
+        "rid"
+      ]
+    ],
+    "contrasts": "rid/ride 两个动词分开；get rid of 的对象是不想要的东西；rid 地方 of 东西则地方先作宾语。",
+    "practice": "We got rid of the old curtains to rid the room of the musty smell.\n\n我们清掉旧窗帘，好让房间不再有霉味。",
+    "words": [
+      "rid"
+    ],
+    "exclude": {
+      "ridding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ridder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3497",
+    "meaning": "说话者、议长与扬声器的不同组合",
+    "core": "SPEAKER：人能说话，器材能放声，议事也有专门主持者",
+    "image": "speaker → speakership 取议长支；speakerphone、loudspeaker 取扬声器支。",
+    "intro": "共同点是发声，但句中角色差别很大。后面的 phone、-ship 分别把设备用途和职位标出来，不把 speaker 固定译成一个中文。",
+    "forms": "speak + -er → speaker；loud + speaker；speaker + phone；speaker + -ship。\n\ner 在这里命名器具。",
+    "branches": [
+      [
+        "人及职位",
+        "speaker · speakership"
+      ],
+      [
+        "扬声器和通话设备",
+        "loudspeaker · speakerphone"
+      ],
+      [
+        "speaker 的响亮发声设备组合及复数",
+        "speaker · loudspeaker · loudspeakers"
+      ]
+    ],
+    "contrasts": "speakerphone/loudspeaker 通话设备与一般扬声器；speakership 议长职位不是口才。",
+    "practice": "The speaker discussed the speakership over the speakerphone.\n\n发言者通过免提电话讨论议长职位的事。",
+    "words": [
+      "speaker",
+      "speakership",
+      "loudspeaker",
+      "speakerphone",
+      "loudspeakers"
+    ],
+    "exclude": {}
+  }
+]

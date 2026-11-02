@@ -1,0 +1,214 @@
+[
+  {
+    "id": "B4460",
+    "meaning": "调到适当程度，连接材料状态、性情与自我节制",
+    "core": "TEMPER：太过了就调一调，性情与材料各有状态",
+    "image": "temper → tempered；temperance 节制。",
+    "intro": "乐观被经验调和，是情绪；钢、玻璃经处理，是材料；节制欲望，是行为。词族能串联，但具体工艺和历史运动仍按对象解释。",
+    "forms": "temperare → temprian → temper；-ed 状态；temperantia → temperance，节制性质名。\n\ntemperature 接拉丁 temperatura 调配、适当比例，后来冷热程度义专门化；不是现代英语 temper 加任意字母拼成。\n\n拉丁适当比例、调和词族，现代温度义后来专门化。",
+    "branches": [
+      [
+        "调节、状态与节制",
+        "temper · tempered · temperance"
+      ],
+      [
+        "temper 与 temperature：调配状态到冷热程度",
+        "temper · temperature"
+      ],
+      [
+        "temperature → temperatures：调配到冷热程度",
+        "temperature · temperatures"
+      ]
+    ],
+    "contrasts": "tempered glass 与 tempered steel 具体工艺不同；temperance movement 要读饮酒历史背景。",
+    "practice": "Experience tempered his enthusiasm and taught him temperance.\n\n经历让他的热情多了克制，也教会他节制。",
+    "words": [
+      "temper",
+      "tempered",
+      "temperance",
+      "temperature",
+      "temperatures"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3844",
+    "meaning": "一套按顺序执行、带意义的动作",
+    "core": "RITUAL：程序反复做，也被赋予一种意义",
+    "image": "ritual → ritually；ritualistic 强调仪式化特点。",
+    "intro": "宗教典礼与晨间咖啡都能提供画面，具体意义、庄重程度不同。副词说怎样执行，ritualistic 则说行为带有仪式化特点。",
+    "forms": "ritus → ritualis → ritual；-ly 方式；-istic 性质。\n\nritual 经法语、拉丁 ritualis 礼仪的，接 ritus 仪式、习俗，再由形容词转作仪式名词。复数也常说有固定流程的日常习惯。",
+    "branches": [
+      [
+        "仪式、方式与仪式化性质",
+        "ritual · ritually · ritualistic"
+      ],
+      [
+        "rite、ritual → rituals",
+        "rituals"
+      ]
+    ],
+    "contrasts": "ritual 比普通 habit 更容易突出固定程序、意义；日常使用不必都是宗教。",
+    "practice": "The ritual was performed in a ritually significant place.\n\n这套仪式在一个具有仪式意义的地点举行。",
+    "words": [
+      "ritual",
+      "ritually",
+      "ritualistic",
+      "rituals"
+    ],
+    "exclude": {
+      "bi-ritual": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1925",
+    "meaning": "写、画、记录，扩展到描述学科、成像技术和作品目录",
+    "core": "-GRAPHY：把信息写下、画出或留下记录",
+    "image": "iconography 看图像符号；historiography 看历史书写；videography 看视频；radiography 看射线影像。",
+    "intro": "有的词重研究，有的重记录技术，有的重作品集合。先问“前半是什么信息，后半怎样把它表现出来”，再读成熟的领域用法。",
+    "forms": "graphein 写、画 → -graphia → -graphy；与不同对象、技术的组合成分相接。",
+    "branches": [
+      [
+        "影像、声音与作品目录",
+        "cinematography · videography · filmography · sonography"
+      ],
+      [
+        "人群、历史、文化与地图",
+        "demography · ethnography · historiography · iconography · cartography"
+      ],
+      [
+        "海洋、地层及晶体结构",
+        "oceanography · stratigraphy · crystallography"
+      ],
+      [
+        "记录、书写与保密",
+        "orthography · telegraphy · cryptography"
+      ],
+      [
+        "身体成像技术",
+        "tomography · mammography · radiography · angiography"
+      ]
+    ],
+    "contrasts": "-graphy 不必全译成学；filmography 是作品目录，angiography 是血管成像过程。",
+    "practice": "The exhibition combines photography with videography and explains its religious iconography.\n\n展览结合照片与视频，也解释其中的宗教图像符号。",
+    "words": [
+      "cinematography",
+      "videography",
+      "filmography",
+      "sonography",
+      "demography",
+      "ethnography",
+      "historiography",
+      "iconography",
+      "cartography",
+      "oceanography",
+      "stratigraphy",
+      "crystallography",
+      "orthography",
+      "telegraphy",
+      "cryptography",
+      "tomography",
+      "mammography",
+      "radiography",
+      "angiography"
+    ],
+    "exclude": {
+      "hagiography": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hydrography": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "electroencephalography": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4155",
+    "meaning": "火神、火山岛的专名背景，再到普通火山与活动名称",
+    "core": "VOLCAN-：地下力量涌上地表，物体、性质、过程各有词形",
+    "image": "volcano → volcanic、volcanism。",
+    "intro": "火山是物体、系统名称，火山岩是形成来源，火山作用是整体活动。神名与岛名解释借词历史，现代科学含义则按实际过程读。",
+    "forms": "Vulcanus → Vulcano → 意大利 vulcano → volcano；volcan- + -ic、-ism。",
+    "branches": [
+      [
+        "火山、性质与作用",
+        "volcano · volcanic · volcanism"
+      ]
+    ],
+    "contrasts": "volcanism 不只一次喷发；volcanic 不包办所有地下形成的火成岩。",
+    "practice": "The volcanic rocks record a long period of volcanism around the volcano.\n\n这些火山岩记录了火山周围长期的火山活动。",
+    "words": [
+      "volcano",
+      "volcanic",
+      "volcanism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1681",
+    "meaning": "拉丁借词与近代科学名称保留的结尾",
+    "core": "-UM：常是借入时留下的旧词形，先看整个词的历史",
+    "image": "forum 讨论场所，datum 一项依据，addendum 该补上的内容；platinum 看近代元素命名。",
+    "intro": "拉丁语里的语法结尾随着整个词进入英语，各词又按英语习惯发展。album、curriculum、medium 等并不因为同结尾就意义相同；科学名称的 -um 是另一种命名运用。",
+    "forms": "拉丁原词形式 → 英语整体借入；datum／data、addendum／addenda 保留旧对举；forum 常复数 forums，album 常 albums。\n\n拉丁 forum 公共广场、集市场所借入英语，后来用于讨论场所、网络论坛。现代规则复数保留 -um 加 -s，另有拉丁式复数 fora。",
+    "branches": [
+      [
+        "讨论、依据与文件补充",
+        "forum · datum · addendum · memorandum"
+      ],
+      [
+        "其他拉丁词形借入与学术用语",
+        "album · curriculum · medium · bacterium"
+      ],
+      [
+        "近代元素名称的结尾",
+        "platinum"
+      ],
+      [
+        "forum → forums：从公共广场到讨论场所",
+        "forums"
+      ]
+    ],
+    "contrasts": "-um 不是英语通用单数后缀，也没有所有词都必须 -um 变 -a 的规则；逐词掌握通行复数。",
+    "practice": "The forum discussed an addendum containing a missing datum.\n\n论坛讨论了一份补充文件，里面补入了缺失的一项数据。",
+    "words": [
+      "forum",
+      "datum",
+      "addendum",
+      "memorandum",
+      "album",
+      "curriculum",
+      "medium",
+      "bacterium",
+      "platinum",
+      "forums"
+    ],
+    "exclude": {
+      "molybdenum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lanthanum": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4122",
+    "meaning": "矿物名称，连接自然物质、形成作用和研究者",
+    "core": "MINERAL：具体成分与结构的自然物，岩石可由它们组成",
+    "image": "mineral → mineralization；mineralogist 是矿物学研究者。",
+    "intro": "地质矿物看结构、成分，营养矿物质另有日常范围。形成、沉积等过程与专家人物名分别由后续成分命名。",
+    "forms": "minera 等矿石词 → mineral；-ization 过程，-logist 研究者。\n\n法语、中世纪拉丁矿石材料的借词，复数 s；矿物不按 min 小解释。",
+    "branches": [
+      [
+        "矿物、作用与研究者",
+        "mineral · mineralization · mineralogist"
+      ],
+      [
+        "mineral → minerals：矿物与无机元素的不同语境",
+        "mineral · minerals"
+      ]
+    ],
+    "contrasts": "岩石与矿物不是同一层概念；营养矿物质也不是直接指一整块石头。",
+    "practice": "The mineralogist studied mineralization in the region.\n\n矿物学家研究了该地区的矿化作用。",
+    "words": [
+      "mineral",
+      "mineralization",
+      "mineralogist",
+      "minerals"
+    ],
+    "exclude": {}
+  }
+]

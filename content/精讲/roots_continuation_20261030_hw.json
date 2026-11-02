@@ -1,0 +1,117 @@
+[
+  {
+    "id": "B4335",
+    "meaning": "把程度、效果抬高，增强已有性质",
+    "core": "ENHANCE：把某一方面往上提",
+    "image": "enhance → enhanced；enhancement 是过程或改进项；enhancer 是起增强作用的东西。",
+    "intro": "味道、理解、图像和性能都能提升，但提升对象不同。读到增强后，继续找究竟哪一项效果增强。",
+    "forms": "altus 及抬高形式 → enhauncer → enhance；enhance + -ed/-ment/-er。\n\nenhance 经法语、拉丁高、抬高的词族，现代去 e 加 -ing。提升品质、效果，不一定改变事物本质。",
+    "branches": [
+      [
+        "动作、结果与改进项",
+        "enhance · enhanced · enhancement"
+      ],
+      [
+        "起增强作用的东西",
+        "enhancer"
+      ],
+      [
+        "提高 → enhance → enhancing",
+        "enhancing"
+      ]
+    ],
+    "contrasts": "enhance 不是 en + chance；enhanced 不加 /ɪd/；enhancement 不一定修错；enhancer 不等于增强后的对象。",
+    "practice": "The enhancer produced an enhanced image, and the enhancement made the text clearer.\n\n增强工具生成了处理后的图像，增强效果使文字更清楚。",
+    "words": [
+      "enhance",
+      "enhanced",
+      "enhancement",
+      "enhancer",
+      "enhancing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4406",
+    "meaning": "步行者、辅助行走器具和梦游者",
+    "core": "WALKER：做行走动作的人，也可能是帮你走的器具",
+    "image": "walk → walker；sleepwalker 是梦游者；器具 walker 可指助行器。",
+    "intro": "看到 -er 先问是人还是工具。步行者喜欢自己走路，助行器帮助使用者走，词尾可以从不同角色命名。",
+    "forms": "walk + -er → walker；sleepwalk + -er 或 sleep + walker → sleepwalker。",
+    "branches": [
+      [
+        "行走角色与器具",
+        "walker"
+      ],
+      [
+        "睡眠状态下的行走者",
+        "sleepwalker"
+      ]
+    ],
+    "contrasts": "walker 不只散步者；like a sleepwalker 可以是文学比喻，不必指真实梦游。",
+    "practice": "The keen walker moved through the station like a sleepwalker after the overnight journey.\n\n通宵旅行后，那位徒步爱好者像梦游一般穿过车站。",
+    "words": [
+      "walker",
+      "sleepwalker"
+    ],
+    "exclude": {
+      "floor-walker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skywalker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3991",
+    "meaning": "称量抵平、弥补损失，以及补偿过头",
+    "core": "COMPENSATE：一边少了，用另一边补平",
+    "image": "compensate → compensator；compensation 另有补偿、报酬的名词史；overcompensate 把平衡推过另一头。",
+    "intro": "钱、设备校正和人的行为，都可沿平衡画面理解。补偿不保证恰好补平；over- 专门指出补过量。",
+    "forms": "com- + pensāre → compensāre；compensāt- → compensate；compensātiō → compensation；-or、over- 的派生。",
+    "branches": [
+      [
+        "弥补及其结果、角色",
+        "compensate · compensation · compensator"
+      ],
+      [
+        "补过头",
+        "overcompensate"
+      ]
+    ],
+    "contrasts": "compensation 可是薪酬；compensator 可是装置；overcompensate 含超过合适程度，不只一般补偿。",
+    "practice": "The compensator should correct the error without overcompensating.\n\n补偿器应校正误差，同时避免补偿过头。",
+    "words": [
+      "compensate",
+      "compensation",
+      "compensator",
+      "overcompensate"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3973",
+    "meaning": "精神、灵性的一般性质与特定精神性学说",
+    "core": "SPIRITUAL：精神生活很广，-ism 可能进入特定学说",
+    "image": "spiritual → spiritually/spirituality；spiritualism/spiritualist 要分哲学精神性理论与通灵信念的语境。",
+    "intro": "后缀不只改变词性，也可能带来已固定的历史专义。一个人重视精神生活，不因此自动相信亡者沟通。",
+    "forms": "spiritus → spiritualis → spiritual；spiritual + -ly；spiritualitas 等 → spirituality；spiritual + -ism/-ist。",
+    "branches": [
+      [
+        "一般性质、方式与精神生活",
+        "spiritual · spiritually · spirituality"
+      ],
+      [
+        "特定学说、信念与人物",
+        "spiritualism · spiritualist"
+      ]
+    ],
+    "contrasts": "spirituality 不等于 spiritualism；spiritual 也有灵歌名词；spiritualist 是立场、活动称谓，不自动是任何宗教导师。",
+    "practice": "The book discusses spirituality broadly, then turns to the spiritualist movement.\n\n书先广泛讨论精神生活，再转入通灵信仰运动。",
+    "words": [
+      "spiritual",
+      "spiritually",
+      "spirituality",
+      "spiritualism",
+      "spiritualist"
+    ],
+    "exclude": {}
+  }
+]

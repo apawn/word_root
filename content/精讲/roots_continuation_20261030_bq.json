@@ -1,0 +1,77 @@
+[
+  {
+    "id": "B3694",
+    "meaning": "谷粒、谷物与地区玉米义；盐粒和小称保留",
+    "core": "CORN：先是谷粒，现代美式常指玉米",
+    "image": "已有 corn 先读，kernel 旧小称，corny 俚义、corned 盐粒义分开；cornstarch/cornmeal/cornflower 比材料与花。cornfield、peppercorn 共享。",
+    "intro": "常用 corner 角落来自角、突出点词系，不是这一组谷物加 -er；不沿用自动归族。cornish、cornhole 等本轮略。",
+    "forms": "旧 corn 同族词干 + -el → kernel；corn + -y/-ed/starch/meal/flower/field；pepper + corn。",
+    "branches": [
+      [
+        "谷粒、颗粒和旧义",
+        "corn · kernel · peppercorn · corned"
+      ],
+      [
+        "玉米材料与谷物田",
+        "cornstarch · cornmeal · cornflower · cornfield"
+      ],
+      [
+        "口语评价",
+        "corny"
+      ]
+    ],
+    "contrasts": "corn 地区所指不同；corned 盐粒不等于玉米；cornstarch/cornmeal 不是一种粉；cornflower/cornflour 常同音。",
+    "practice": "The recipe uses cornmeal, while the sauce needs cornstarch.\n\n食谱用玉米粉，酱汁则需要玉米淀粉。",
+    "words": [
+      "corn",
+      "kernel",
+      "peppercorn",
+      "corned",
+      "cornstarch",
+      "cornmeal",
+      "cornflower",
+      "cornfield",
+      "corny"
+    ],
+    "exclude": {
+      "corner": "常用角落、拐角义接法语角、拉丁 cornu 角，不是谷物 corn + -er；另有罕见谷物工人同形词，本页暂略。",
+      "off-corn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "corn-factor": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "corn-pit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cornish": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cornhole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3917",
+    "meaning": "权势、富有背景到内容丰厚、味浓色深",
+    "core": "RICH：里面很丰厚，不只钱包丰厚",
+    "image": "rich → richness、richly；每个词用钱之外的例子说明，减少只会背富有一个义。",
+    "intro": "旧权势和财富关联发展到丰富程度。食物 rich 不一定价格贵，文化 richness 也不是文化机构有钱。",
+    "forms": "rich + -ness/-ly；rich in + 所富含的东西；比较 richer、richest。\n\nrich 接古英语 rīċe 权势大、富有等材料；食物、颜色、内容的丰厚义按具体名词理解。",
+    "branches": [
+      [
+        "丰厚性质、名词和方式程度",
+        "rich · richness · richly"
+      ],
+      [
+        "rich → richer → richest：财富与丰厚程度",
+        "rich · richer · richest"
+      ]
+    ],
+    "contrasts": "rich 不等于 expensive；richness 丰富特质、riches 财富；richly deserved 是实至名归。",
+    "practice": "The richly detailed story reveals the richness of local life.\n\n这个细节丰富的故事展现了当地生活的多彩。",
+    "words": [
+      "rich",
+      "richness",
+      "richly",
+      "richer",
+      "richest"
+    ],
+    "exclude": {
+      "rich-kid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neo-rich": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nickel-rich": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "word": "coppery",
+    "ipa": "英 /ˈkɒpəri/；美 /ˈkɑːpəri/",
+    "meaning": "铜色的、像铜的；含铜的",
+    "sense": "头发、夕阳、叶子有铜那样的红棕光泽，可以说 coppery；材料里铜含量明显，也可能用它形容。",
+    "split": "copper 铜 + -y，形成像铜、有铜等性质。具体指颜色、外观还是成分，由名词决定。",
+    "history": [
+      [
+        "拉丁 aes Cyprium 等塞浦路斯铜的名称 → cuprum",
+        "铜的名称"
+      ],
+      [
+        "古英语、日耳曼借词路径 → copper",
+        "金属铜"
+      ],
+      [
+        "颜色、外形的构词",
+        "coppery 铜色、像铜；copperhead 铜色头部的蛇名等"
+      ]
+    ],
+    "explanation": "coppery hair 红铜色头发，a coppery glow 铜色光泽，a coppery taste 铜样的金属味。",
+    "usage": "coppery hair；a coppery glow。",
+    "contrast": "coppery hair 不表示头发由铜做成；copper wire 才常说铜材料的电线。性质后缀可以表达相似，而非材质本身。",
+    "examples": [
+      [
+        "The leaves took on a coppery glow in the evening light.",
+        "叶子在暮光中泛起铜色光泽。"
+      ],
+      [
+        "She painted the roof in a coppery shade.",
+        "她把屋顶涂成一种铜色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coppery#English"
+    ]
+  },
+  {
+    "word": "copperhead",
+    "ipa": "英 /ˈkɒpəhed/；美 /ˈkɑːpərhed/",
+    "meaning": "铜头蛇〔若干蛇类的俗名〕",
+    "sense": "名字抓住头部像铜的颜色。不同地区叫 copperhead 的蛇可能不同，不能只凭同一俗名就当同一种。",
+    "split": "copper 铜、铜色 + head 头，按外观组成动物名称。北美语境常指相应蝮蛇，澳大利亚又有其他蛇类使用这个名称。",
+    "history": [
+      [
+        "拉丁 aes Cyprium 等塞浦路斯铜的名称 → cuprum",
+        "铜的名称"
+      ],
+      [
+        "古英语、日耳曼借词路径 → copper",
+        "金属铜"
+      ],
+      [
+        "copper + head → copperhead",
+        "铜色头部的外观 → 蛇的俗名"
+      ]
+    ],
+    "explanation": "a northern copperhead 北美铜头蛇的相关常用名称，an Australian copperhead 澳大利亚铜头蛇。完整名称、地区会帮助确定所指。",
+    "usage": "a copperhead snake；an Australian copperhead。",
+    "contrast": "这类俗名不是科学分类本身。同名不能保证相同属种，也不能用英文名字单独鉴定蛇。",
+    "examples": [
+      [
+        "The exhibit includes a photograph of a copperhead.",
+        "展览里有一张铜头蛇的照片。"
+      ],
+      [
+        "The guide compares Australian copperheads with North American copperheads.",
+        "指南比较澳大利亚与北美被称作铜头蛇的蛇类。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/copperhead#English"
+    ]
+  },
+  {
+    "word": "woke",
+    "ipa": "英 /wəʊk/；美 /woʊk/",
+    "meaning": "wake 的过去式等词形；警觉社会不公的；所谓过度进步、政治正确的〔贬义标签〕",
+    "sense": "I woke 是我醒了。社会语境里的 woke 则把醒着借成看清、警觉不公；后来不同说话者又用它赞同、质疑或贬斥某些立场。",
+    "split": "从 wake 的过去式、分词相关形式发展。社会警觉义在非裔美国英语中发展，随后传播更广，并产生批评性、贬义用法；两种语气不能合并成一个中性判断。",
+    "history": [
+      [
+        "古英语醒来、唤醒的词族 → wake",
+        "由睡眠转为醒着"
+      ],
+      [
+        "wake → woke、woken",
+        "不规则过去式与过去分词"
+      ],
+      [
+        "清醒的比喻 → woke 的社会语境形容词",
+        "对不公保持警觉；后来也被用作贬义政治标签"
+      ]
+    ],
+    "explanation": "I woke up early. 我很早醒了。stay woke 在社会语境说保持警觉，woke policies 等可带说话者的赞同或批评。先看句子是否普通过去时。",
+    "usage": "woke up early；stay woke；described as woke。",
+    "contrast": "报道中把某物称作 woke，常是在呈现一种立场标签，不能据此直接认定评价客观成立。普通 woke up 与政治语境无必然关系。",
+    "examples": [
+      [
+        "I woke up before the alarm rang.",
+        "闹钟响前我就醒了。"
+      ],
+      [
+        "The critic dismissed the film as woke.",
+        "那位评论者把电影斥为所谓过度政治正确的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/woke#English",
+      "https://www.merriam-webster.com/dictionary/woke"
+    ]
+  },
+  {
+    "word": "woken",
+    "ipa": "英 /ˈwəʊkən/；美 /ˈwoʊkən/",
+    "meaning": "wake 的过去分词：醒来、被唤醒",
+    "sense": "I woke 单说过去醒了；I have woken 说已经醒来，I was woken 说被叫醒。先认它在句中的不规则分词位置。",
+    "split": "wake 的强变化词形，常见系列 wake → woke → woken。-en 保留旧分词词尾，不能把常用分词误解为现代 woke 政治形容词临时加后缀。",
+    "history": [
+      [
+        "古英语醒来、唤醒的词族 → wake",
+        "由睡眠转为醒着"
+      ],
+      [
+        "wake → woke、woken",
+        "不规则过去式与过去分词"
+      ]
+    ],
+    "explanation": "have woken up 已经醒来，be woken by 被……叫醒、惊醒。美式等语境中 wake 的分词也见其他形式，woken 是常用标准形式之一。",
+    "usage": "have woken up；be woken by something。",
+    "contrast": "woken 在这些句子里是过去分词，不是普通过去式：I woke；I had woken。被动式还要看谁使谁醒来。",
+    "examples": [
+      [
+        "She had already woken when I called.",
+        "我打电话时，她已经醒了。"
+      ],
+      [
+        "I was woken by a knock at the door.",
+        "我被敲门声叫醒了。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/woken",
+      "https://www.merriam-webster.com/dictionary/wake"
+    ]
+  },
+  {
+    "word": "nail",
+    "ipa": "/neɪl/",
+    "meaning": "指甲、趾甲；钉子；钉牢；准确完成、抓住",
+    "sense": "身体末端的硬甲是 nail，固定木料的硬钉也叫 nail。把东西钉准、钉牢的形象，又能说准确做好动作或确定细节。",
+    "split": "名词承古英语 nægl，动词有 næglan 等形式，经中古英语传下。身体甲、钉子与固定等意义有悠久联系，不需要再强拆成现代小部件。",
+    "history": [
+      [
+        "古英语 nægl、næglan → 中古英语 nail、naylen",
+        "指甲、趾甲；钉子及钉牢动作"
+      ],
+      [
+        "按位置命名身体部位",
+        "fingernail、toenail、thumbnail"
+      ],
+      [
+        "固定、击中与小尺寸比喻",
+        "nail a task 做得漂亮；thumbnail 小图、简述"
+      ]
+    ],
+    "explanation": "trim your nails 修指甲，hammer in a nail 敲进钉子，nail the performance 演得很出色，nail down the details 把细节敲定。",
+    "usage": "trim your nails；nail the performance；nail down details。",
+    "contrast": "nail it 口语常说做得准、做好了，不是在命令真钉钉子。nail polish 是指甲油，按身体义认。",
+    "examples": [
+      [
+        "He hammered a nail into the board.",
+        "他把一颗钉子敲进木板。"
+      ],
+      [
+        "She nailed the difficult final note.",
+        "她准确唱出了最后那个难音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nail#English"
+    ]
+  },
+  {
+    "word": "toenail",
+    "ipa": "英 /ˈtəʊneɪl/；美 /ˈtoʊneɪl/",
+    "meaning": "趾甲",
+    "sense": "toe 脚趾 + nail 甲：脚趾末端那片硬甲。与手指上的 fingernail 对照就很好记。",
+    "split": "toe + nail，两个完整词按身体位置组成复合词。toe 的 e 保留在词内。",
+    "history": [
+      [
+        "古英语 nægl、næglan → 中古英语 nail、naylen",
+        "指甲、趾甲；钉子及钉牢动作"
+      ],
+      [
+        "toe + nail → toenail",
+        "脚趾上的甲"
+      ]
+    ],
+    "explanation": "trim your toenails 修趾甲，paint your toenails 涂趾甲油，a broken toenail 断裂的趾甲。",
+    "usage": "trim your toenails；paint your toenails。",
+    "contrast": "toenail 是甲，toe 是整个脚趾；fingernail 在手指上。",
+    "examples": [
+      [
+        "She trimmed her toenails before the trip.",
+        "出行前她修了趾甲。"
+      ],
+      [
+        "He painted each toenail a different color for the costume.",
+        "为了配合造型，他给每片趾甲涂了不同颜色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/toenail#English"
+    ]
+  },
+  {
+    "word": "thumbnail",
+    "ipa": "/ˈθʌmneɪl/",
+    "meaning": "拇指甲；缩略图；简要概述、小草图",
+    "sense": "先是拇指上的甲。像拇指甲那么小的一幅草图，再发展成代表大图的小预览图；简短勾勒一个人、一件事，也可用 thumbnail 修饰。",
+    "split": "thumb 拇指 + nail 甲。小尺寸的形象发展出 thumbnail sketch，再到现代图像预览等用途。thumb 的 b 不读。",
+    "history": [
+      [
+        "古英语 nægl、næglan → 中古英语 nail、naylen",
+        "指甲、趾甲；钉子及钉牢动作"
+      ],
+      [
+        "按位置命名身体部位",
+        "fingernail、toenail、thumbnail"
+      ],
+      [
+        "thumb + nail → thumbnail",
+        "拇指甲 → 小草图、简述 → 缩略图"
+      ]
+    ],
+    "explanation": "click a thumbnail 点击缩略图，a video thumbnail 视频封面预览图，a thumbnail sketch of someone 某人的简短介绍。",
+    "usage": "a video thumbnail；click a thumbnail；a thumbnail sketch。",
+    "contrast": "thumbnail 是预览图时，不要求尺寸真等于一片指甲；thumbnail sketch 是简要勾勒，也不保证完整细致。",
+    "examples": [
+      [
+        "Click the thumbnail to open the full image.",
+        "点击缩略图打开完整图片。"
+      ],
+      [
+        "The introduction gives a thumbnail sketch of the author’s life.",
+        "引言简要介绍了作者的一生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thumbnail#English"
+    ]
+  }
+]

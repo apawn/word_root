@@ -1,0 +1,153 @@
+[
+  {
+    "id": "B4225",
+    "meaning": "教学、训练的旧核心，发展为秩序、自律与知识领域",
+    "core": "DISCIPLINE：有方法地学习、训练，也管理行为",
+    "image": "discipline → disciplinarian。",
+    "intro": "一边是学习内容成了学科，一边是训练方式成了纪律、自律；处分则是纠正行为的另一常用支线。",
+    "forms": "discipulus → disciplina → 法语、英语 discipline；-arian 形成相关人物名词。\n\n接拉丁 disciplina 教导、学习，经法语等进入英语；学科复数与管教的第三人称形式同形。保留 e 加 -s，末尾 /nz/。",
+    "branches": [
+      [
+        "训练、学科与严格管教者",
+        "discipline · disciplinarian"
+      ],
+      [
+        "discipline 教导、训练 → disciplines",
+        "disciplines"
+      ]
+    ],
+    "contrasts": "discipline 不只惩罚；复数 disciplines 常说学科；更早词源拆分有讨论。",
+    "practice": "The strict disciplinarian demanded discipline during practice.\n\n那位严格的管教者要求练习时遵守纪律。",
+    "words": [
+      "discipline",
+      "disciplinarian",
+      "disciplines"
+    ],
+    "exclude": {
+      "self-discipline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pseudo-discipline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3761",
+    "meaning": "形态、结构的变化及相应性质",
+    "core": "TRANSFORMATION：不仅说换了什么，也可说变化多深",
+    "image": "transformation → transformational。",
+    "intro": "名词看转变本身，形容词看与转变有关、能否带来重大改变。它不预先保证变化有益。",
+    "forms": "trans- + form → transform；-ation 行为、结果，-al 关系、性质。",
+    "branches": [
+      [
+        "转变与变革性质",
+        "transformation · transformational"
+      ]
+    ],
+    "contrasts": "transformational 可是根本变化，也可是专业关系形容词；具体含义看领域。",
+    "practice": "The transformation brought a transformational change in daily travel.\n\n这次转变给日常出行带来了根本改变。",
+    "words": [
+      "transformation",
+      "transformational"
+    ],
+    "exclude": {
+      "agro-transformation": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4591",
+    "meaning": "费用与能力相配，区分性质、方式与否定",
+    "core": "AFFORDABLE：在相关人的负担能力内",
+    "image": "affordable → affordably；unaffordable 负担不起。",
+    "intro": "可负担是价格和人、预算之间的关系，不是一个全球固定的便宜数值。",
+    "forms": "afford + -able → affordable；-ably 副词，un- 否定。",
+    "branches": [
+      [
+        "性质、方式与否定",
+        "affordable · affordably · unaffordable"
+      ]
+    ],
+    "contrasts": "expensive 不自动等于 unaffordable；affordably priced 修饰定价方式。",
+    "practice": "An affordably priced room made the trip affordable.\n\n一间定价较易负担的客房，让这次旅行的费用能承担。",
+    "words": [
+      "affordable",
+      "affordably",
+      "unaffordable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2416",
+    "meaning": "没有道理、意义的内容，及相应形容词",
+    "core": "NONSENSE：道理、意义接不上；艺术里也可故意荒诞",
+    "image": "nonsense → nonsensical。",
+    "intro": "日常批评可说荒唐，文学也能故意用不合常理的话创造幽默。不同场景的评价并不相同。",
+    "forms": "non- + sense → nonsense；-ical 形成性质形容词，使用 nonsens- 词干。",
+    "branches": [
+      [
+        "内容名词与性质形容词",
+        "nonsense · nonsensical"
+      ]
+    ],
+    "contrasts": "nonsensical 常作形容词；文学荒诞不必等于作品无价值；听不懂不自动证明没道理。",
+    "practice": "The nonsensical reply sounded like complete nonsense to the visitor.\n\n那个荒诞回答在访客听来完全是胡说。",
+    "words": [
+      "nonsense",
+      "nonsensical"
+    ],
+    "exclude": {
+      "non-nonsense": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3745",
+    "meaning": "分开安排、支配，走向处理掉与可供使用的不同分支",
+    "core": "DISPOSE：由谁安排、怎样处置，再决定留下使用还是处理掉",
+    "image": "dispose → disposal、disposable；dispose of、at your disposal、disposable income 各有固定用法。",
+    "intro": "一次性用品和可支配收入看似很远，连接点是能够怎样处置、使用。不要让最熟悉的一个义替代所有历史分支。",
+    "forms": "dis- + pōnere → dispōnere → disposer → dispose；-al 名词，-able 性质。",
+    "branches": [
+      [
+        "动作与处置、支配",
+        "dispose · disposal"
+      ],
+      [
+        "可舍弃或可供使用",
+        "disposable"
+      ]
+    ],
+    "contrasts": "dispose of 常需 of；disposal 在这里是名词；disposable income 不取一次性义。",
+    "practice": "The disposable cups were left at our disposal for the picnic.\n\n一次性杯子留给我们野餐时使用。",
+    "words": [
+      "dispose",
+      "disposal",
+      "disposable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4424",
+    "meaning": "最少、最低程度，扩成简约风格与相应人物、理念",
+    "core": "MINIMAL：数量可极少，风格可有意简化",
+    "image": "minimal → minimally、minimalist、minimalism；minimalistic 也是相应性质词。",
+    "intro": "少量程度与极简理念分两层。少不是自动的艺术价值，也不是一律要求越少越好。",
+    "forms": "minimus → minimal；-ly 副词，-ist 人、性质，-ism 风格理念，-istic 相应性质。",
+    "branches": [
+      [
+        "程度与方式",
+        "minimal · minimally"
+      ],
+      [
+        "人物、理念与风格",
+        "minimalist · minimalism · minimalistic"
+      ]
+    ],
+    "contrasts": "minimal 仍可能非零；minimalism 不说人；minimalist 可作名词、形容词。",
+    "practice": "The minimalist design uses minimal color and minimally altered shapes.\n\n这个极简设计用色很少，形状改动也极少。",
+    "words": [
+      "minimal",
+      "minimally",
+      "minimalist",
+      "minimalism",
+      "minimalistic"
+    ],
+    "exclude": {}
+  }
+]

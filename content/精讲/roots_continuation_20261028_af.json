@@ -1,0 +1,206 @@
+[
+  {
+    "id": "B2540",
+    "meaning": "夜晚；夜间活动和用品",
+    "core": "NIGHT：白日之后的黑暗时段",
+    "image": "同一个夜晚可说钟点、睡眠、服饰和娱乐；前后搭配告诉你在谈哪一部分。",
+    "intro": "night 接古英语 niht，经中古英语延续；gh 在常见现代读音里已不发音。nightmare 的 mare 是旧传说恶灵，fortnight 来自十四夜，都不能只按今天常见同形词拆。",
+    "forms": "先夜间时段 night、nightly、midnight、fortnight、nightfall，再看 nightmare、nightclub 与共享 nightlife、nighttime、overnight、goodnight、weeknight；用品 nightlight、nightwear、nightgown、nightie、nightcap 与夜间床边 nightstand 放一起。冷门鸟名、专用钓具等先略过。\n\nnight 给睡眠、床边用途，不要求只有夜间才使用。\n\n用灯的时段给名称，常见是夜间保留的柔和光源。",
+    "branches": [
+      [
+        "时段、频率及计数",
+        "night · nightly · midnight · fortnight · nightfall · nighttime · overnight · weeknight"
+      ],
+      [
+        "睡眠、告别与娱乐",
+        "nightmare · nightclub · nightlife · goodnight"
+      ],
+      [
+        "灯具、睡衣及床边",
+        "nightlight · nightwear · nightgown · nightie · nightcap · nightstand"
+      ],
+      [
+        "nightstand → nightstands：床边夜间使用的台柜",
+        "night · nightstand · nightstands"
+      ],
+      [
+        "night 的夜里用途进入小夜灯",
+        "nightlight · nightlights"
+      ]
+    ],
+    "contrasts": "nightmare 不是夜里的母马。fortnight 两周，不是四夜；nightly 每晚。nightwear 是睡眠衣物，nightlife 是夜间娱乐生活。",
+    "practice": "By nightfall, the family had returned home, leaving a nightlight on until midnight.\n\n入夜时一家人已回到家，留着小夜灯一直到午夜。",
+    "words": [
+      "night",
+      "nightly",
+      "midnight",
+      "fortnight",
+      "nightfall",
+      "nighttime",
+      "overnight",
+      "weeknight",
+      "nightmare",
+      "nightclub",
+      "nightlife",
+      "goodnight",
+      "nightlight",
+      "nightwear",
+      "nightgown",
+      "nightie",
+      "nightcap",
+      "nightstand",
+      "nightstands",
+      "nightlights"
+    ],
+    "exclude": {
+      "to-night": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "all-night": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "late-night": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "night-bright": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nights": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "night-ape": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nighter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nightcrawler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nightshade": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nighthawk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nightline": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nightjar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2538",
+    "meaning": "钱、货币、资金",
+    "core": "MONEY：可以用于支付、交换、储存的价值",
+    "image": "纸钞硬币是钱，账户资金也叫钱；按用途可以存、花、挣、筹。",
+    "intro": "money 经法语接拉丁 monēta，与罗马铸币场所的历史相连。现代通常不可数，不用一枚钱币的形象限制所有 money。",
+    "forms": "money 先讲概念和搭配；moneyed 是有钱的性质，moneylender 是借出钱的角色，moneymaker 为共享讲解。\n\nmonetary 接拉丁 monetarius 铸币、钱币相关的性质词，与 money 接 moneta 铸币处、钱币同族；不是现代 money 直接加 tary。\n\n与 money 比较货币，不从 money 派生。euro 与 Europe、European 的名称材料相关，1995 年马德里会议确定名称；英语日常常用复数 euros，正式文件中也可见不变形式。",
+    "branches": [
+      [
+        "基础概念及财富性质",
+        "money · moneyed"
+      ],
+      [
+        "资金活动与角色",
+        "moneylender · moneymaker"
+      ],
+      [
+        "monetary：铸币材料中的货币性质",
+        "money · monetary"
+      ],
+      [
+        "euro → euros：欧洲货币名称及其英语复数",
+        "euro · euros"
+      ]
+    ],
+    "contrasts": "money 总概念，cash 常说现金；moneyed 富裕不等于 paid 已付。moneylender 放贷不自动等同高利贷，具体要看条件。",
+    "practice": "The moneyed businessman raised money for the school rather than borrowing from a moneylender.\n\n那位富裕商人为学校筹款，没有向放贷者借钱。",
+    "words": [
+      "money",
+      "moneyed",
+      "moneylender",
+      "moneymaker",
+      "monetary",
+      "euro",
+      "euros"
+    ],
+    "exclude": {
+      "money-love": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-money": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "money-in-both-pockets": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "money-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3000",
+    "meaning": "告诉、讲述；计数旧义与辨别、显露",
+    "core": "TELL：把信息逐项说清，或从线索看出来",
+    "image": "讲故事是把事情说出来，辨认差别是把信息看出来；银行 teller 又提醒它曾有数数义。",
+    "intro": "tell 接古英语 tellan，早兼计数、讲述，经中古英语延续。tell → told，foretell → foretold，retell → retold；不是统一加 -ed。",
+    "forms": "tell、telling、teller 先并排看动作、揭示力和角色，telltale 看泄密线索；foretell 与 retell 比较未来预说和已有内容重讲。\n\ntell → told → told；told 接古英语 tealde、teald 的旧变位，不是现代常规拼写 telled。all told 还保留计数旧义。\n\ntell 旧有计数、计算义，所以 untold 的未计数支线很早就存在；未讲述也是另一常用支线，不能只按今天 tell a story 来解释全部。\n\ntell 的早期计数、讲述义相连，tells 后的对象和小词决定告诉内容、区分或显出信息。",
+    "branches": [
+      [
+        "基本动作、性质与人物",
+        "tell · telling · teller"
+      ],
+      [
+        "线索与时间关系",
+        "telltale · foretell · retell"
+      ],
+      [
+        "tell 的过去与过去分词：told",
+        "tell · told"
+      ],
+      [
+        "untold：数不清与没讲出的两条旧义",
+        "tell · told · untold"
+      ],
+      [
+        "tell → tells：告诉、讲述与辨别",
+        "tell · tells"
+      ]
+    ],
+    "contrasts": "telling silence 是很说明问题的沉默，不必开口。bank teller 接计数义；telltale 的 tale 是故事，不是尾巴。",
+    "practice": "She retold the story, adding a telling detail that helped us tell the characters apart.\n\n她重讲故事，补上一个很有说明力的细节，帮助我们分清人物。",
+    "words": [
+      "tell",
+      "telling",
+      "teller",
+      "telltale",
+      "foretell",
+      "retell",
+      "told",
+      "untold",
+      "tells"
+    ],
+    "exclude": {
+      "tell-worthy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "telly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2487",
+    "meaning": "未封闭；可进入、可讨论；打开",
+    "core": "OPEN：把阻挡移开，让对象能进入或显现",
+    "image": "门敞开，人能进；想法敞开，别人也能把新意见带进来。",
+    "intro": "open 接古英语 open，动词、名词相关形式也很早就有。它的拼写不应按现代几个字母硬拆，再把 -en 任意当新后缀。",
+    "forms": "open → opening → opener 是状态、活动开口和工具；openly、openness 是公开方式和开放性质，reopen 再打开。opencast 属采矿专门用法，本页先略过。\n\nopened 的词尾读 /d/；open 是形容词，opened 是动词过去式或分词，状态和动作结构不同。\n\n本族敞开词的名词、动词等形式保留古老历史，opens 是规则第三人称。",
+    "branches": [
+      [
+        "打开、开口与执行物",
+        "open · opening · opener"
+      ],
+      [
+        "公开、开放与再次开启",
+        "openly · openness · reopen"
+      ],
+      [
+        "open → opened：打开了；开放、开始营业了",
+        "open · opened"
+      ],
+      [
+        "open → opens：从封闭到能通过、能开始",
+        "open · opens"
+      ]
+    ],
+    "contrasts": "The door is open 说状态，不需要变成 is opening；opening hours 营业时间，job opening 职位空缺，opener 开瓶器或开场项目。",
+    "practice": "The library reopened with longer opening hours and a new spirit of openness.\n\n图书馆以更长的开放时间和新的开放精神重新迎客。",
+    "words": [
+      "open",
+      "opening",
+      "opener",
+      "openly",
+      "openness",
+      "reopen",
+      "opened",
+      "opens"
+    ],
+    "exclude": {
+      "half-open": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "open-mid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "open-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "open-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "open-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "opencast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

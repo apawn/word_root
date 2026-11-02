@@ -1,0 +1,100 @@
+[
+  {
+    "id": "B3949",
+    "meaning": "愿望、祝愿与一厢情愿",
+    "core": "WISH：心里想让它成真",
+    "image": "先分愿望与祝愿，再读 wishful thinking 的一厢情愿；wishbone 连接真实民俗。",
+    "intro": "wish 是古英语继承词。现代句型里与事实相反的愿望很常用，别只停在希望这个中文词。",
+    "forms": "wish → wishful；wish + list → wishlist；wish + bone → wishbone。\n\n古英语愿望动词延续，固定句型在英语中发展。\n\n古英语 wyscan 的希望词，现代时态与从句形式各有作用。\n\n本族希望词，ing 直接相加，常见于 wishing someone something。",
+    "branches": [
+      [
+        "基本愿望与态度",
+        "wish · wishful"
+      ],
+      [
+        "清单与习俗物件",
+        "wishlist · wishbone"
+      ],
+      [
+        "wish → wishes：愿望、祝愿与遗憾",
+        "wish · wishes"
+      ],
+      [
+        "wish → wished：愿望、祝愿与遗憾",
+        "wish · wished"
+      ],
+      [
+        "wish → wishing：希望发生，也向人送祝愿",
+        "wish · wished · wishing"
+      ]
+    ],
+    "contrasts": "I wish I knew 表现在不知道；wishful thinking 通常含缺少现实根据的评价。",
+    "practice": "I wish I could finish everything on my wishlist this year.\n\n但愿我今年能完成心愿清单上的所有事情。",
+    "words": [
+      "wish",
+      "wishful",
+      "wishlist",
+      "wishbone",
+      "wishes",
+      "wished",
+      "wishing"
+    ],
+    "exclude": {
+      "wisher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2484",
+    "meaning": "银行、资源库；另一路的河岸与堆积地形",
+    "core": "BANK：先分金融柜台与地形岸坡",
+    "image": "银行词族从兑换钱的柜台讲起，河岸词族按地形讲；同形并不要求同一条直接演化链。",
+    "intro": "金融义经法语、意大利语的柜台词进入英语；河岸义走日耳曼地形词族路线。现代资源库借银行的集中储存功能。",
+    "forms": "bank → banker、bankable；bank + note → banknote；data + bank → databank；river、sand + 地形 bank → riverbank、sandbank；共享 interbank。\n\n金融柜台与地形河岸在英语中分路借入，不把一个现代义直接编成另一个。\n\n金融银行来自钱币柜台的词史，河岸、堆起支线分开说明。\n\n金融 bank 远接意大利语、法语的交易柜台、桌台名称。现代 -er 表相应从业者，复数 -s；交易桌台的名称后来用于金融机构，再形成从业者名称。",
+    "branches": [
+      [
+        "金融机构与从业者",
+        "bank · banker · bankable · banknote · interbank"
+      ],
+      [
+        "储存资源的扩展",
+        "databank"
+      ],
+      [
+        "地形分支",
+        "riverbank · sandbank"
+      ],
+      [
+        "bank → banks：银行与河岸的不同借入线",
+        "bank · banks"
+      ],
+      [
+        "bank → banking：银行业务；堆积、倾斜另看搭配",
+        "bank · banking"
+      ],
+      [
+        "bank 银行 + -er → banker → bankers",
+        "bankers"
+      ]
+    ],
+    "contrasts": "bankable 商业上有吸引力不等于绝对保证盈利；bank on 是依靠；riverbank 河岸与 banknote 钞票分历史来源读。",
+    "practice": "The old bank building stands near the riverbank.\n\n那座旧银行建筑位于河岸附近。",
+    "words": [
+      "bank",
+      "banker",
+      "bankable",
+      "banknote",
+      "interbank",
+      "databank",
+      "riverbank",
+      "sandbank",
+      "banks",
+      "banking",
+      "bankers"
+    ],
+    "exclude": {
+      "e-bank": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bankside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "banky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

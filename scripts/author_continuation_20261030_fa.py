@@ -1,0 +1,121 @@
+"""Swear, dying, surgery, uni- and shock: promises, duration, scale and impact."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+S=[['古英语 swerian → 中古英语 sweren → swear','郑重发誓、作承诺'],['现代说脏话的另一常见义','宗教誓词、禁忌用语的历史背景 → 说粗话'],['不规则变化与派生','swear—swore—sworn；swearing 活动名；sworn 已发誓、坚决的']]
+W('swear','英 /sweə/；美 /swer/','发誓、郑重保证；说脏话、骂粗话',
+ 'I swear it is true 是郑重保证；he swore at the driver 则是朝司机骂粗话。两义看句型，不是每次 swear 都在骂人。',
+ '继承古英语 swerian，经中古英语传下；说粗话义常联系亵用神圣名称、禁忌誓词的历史。现代 swear by 还可说极信赖某办法。',S,
+ 'swear that 郑重保证，swear to do 发誓去做，swear at someone 朝某人骂粗话，swear by something 极信赖某物，swear off 戒掉、发誓不再。',
+ 'swear that；swear to do；swear at；swear by；swear off。',
+ 'swore 过去式、sworn 过去分词；swear at 骂某人，swear by 极信赖，不是换个介词也同样骂。',
+ ('I swear I left the key on the table.','我敢保证，钥匙就放在桌上了。'),('He swore at the broken machine.','他冲着坏机器骂了句粗话。'),
+ sources=['https://en.wiktionary.org/wiki/swear#English','https://www.etymonline.com/word/swear'])
+W('sworn','英 /swɔːn/；美 /swɔːrn/','宣誓过的、在誓言下作出的；坚决的〔sworn enemy 等〕',
+ 'sworn statement 是郑重宣誓后作的陈述；sworn enemy 是坚定、势不两立的敌人，不要求你真看到他站台上宣誓。',
+ 'swear 的过去分词，古英语已有 sworen 等形式；现代也作形容词。不是在 swear 后直接按普通 -ed 规则变形。',S[:1]+[['swear—swore—sworn','发誓的动词变化'],['sworn 作性质形容词','已宣誓、郑重保证；坚决的关系']],
+ 'a sworn statement 宣誓陈述，sworn testimony 宣誓证言，a sworn enemy 死敌，be sworn in 宣誓就职。',
+ 'a sworn statement；sworn testimony；a sworn enemy；be sworn in。',
+ 'sworn 是分词，swore 是过去式；sworn enemy 不是仅会对你说 swear words 脏话的敌人。',
+ ('She signed a sworn statement.','她签署了一份宣誓陈述。'),('The two families had become sworn enemies.','两家已成了死敌。'))
+W('swearing','英 /ˈsweərɪŋ/；美 /ˈswerɪŋ/','说脏话；发誓、宣誓的行为；正在发誓或骂粗话',
+ '现代日常 no swearing 常是别说脏话；但描述宣誓仪式时，也可沿发誓动作理解。',
+ 'swear + -ing，中古英语已有相应行为名词。基础词两大义都可能保留，不必每个 swearing 都当愤怒叫骂。',S[:2]+[['swear + -ing → swearing','发誓或说粗话的行为、过程']],
+ 'no swearing 禁止说脏话，loud swearing 大声骂粗话，swearing an oath 宣誓。',
+ 'no swearing；loud swearing；swearing an oath。',
+ 'swearing 说脏话和 shouting 大喊不同：人可大喊而不用粗话，也可低声骂；语境若明确 oath 则是誓言分支。',
+ ('The sign said no swearing.','标牌写着禁止说脏话。'),('The chapter describes the swearing of an oath.','这一章描述了宣誓行为。'))
+R('B2995','郑重誓言与禁忌语言发展的两义','SWEAR：先看是在保证，还是在说粗话','swear → sworn、swearing，先记不规则变化，再用搭配区分意思。',
+ 'swear at 与 swear by 截然不同，sworn enemy 也不等于会说脏话的人。',
+ 'swerian → sweren → swear；swear—swore—sworn；swear + -ing；郑重誓词的禁忌背景与粗话义相连。',
+ [['基础、分词与过程','swear · sworn · swearing']],
+ 'swore/sworn 过去式分词；swear at/by 骂与信赖；swearing/shouting 用词与音量；sworn enemy 固定关系。',
+ 'He swore that he had heard no swearing.\n\n他发誓说自己没听到有人说脏话。','swear sworn swearing')
+W('undying','/ʌnˈdaɪɪŋ/','永不消逝的、长久不变的',
+ '感情、支持像一直活着，不会消退；常用于强烈、较郑重的表达，不是对真人寿命作保证。',
+ 'un- 否定 + dying，dying 来自 die 去 ie 变 y 再接 -ing。否定的是消逝、死亡这一过程，形成不朽、持久的形容词。',
+ [['die → dying〔ie 变 y 接 -ing〕','正在死去、消逝'],['un- + dying → undying','不消逝、长久持续']],
+ 'undying love 永不消逝的爱，undying loyalty 永久忠诚，undying gratitude 永远的感激。',
+ 'undying love；undying loyalty；undying gratitude。',
+ 'undying 常感情、记忆持久的修辞；undead 则是故事中的亡灵、不死生物，不能当完全同义。',
+ ('She expressed her undying gratitude for their help.','她表示永远感激他们的帮助。'),('The letter promised undying love.','信中许下永不消逝的爱。'))
+R('B4362','正在消逝与始终不消逝的感情','DYING：die 的过程形式，再用 un- 说长久持续','dying → undying，去 ie 变 y 的拼法与否定前缀一起记。',
+ 'dying 可实际死亡，也可快消失；undying 多是感情、支持持久的修辞。',
+ 'die → dying；un- + dying → undying。',
+ [['消逝与不消逝','dying · undying']],
+ 'dying/dyeing 死去染色不同；undying/undead 长久与亡灵；undying love 非寿命判断。',
+ 'The poem contrasts a dying fire with undying love.\n\n诗歌把逐渐熄灭的火与不消逝的爱作对照。','dying undying')
+W('microsurgery','英 /ˌmaɪkrəʊˈsɜːdʒəri/；美 /ˌmaɪkroʊˈsɜːrdʒəri/','显微外科、精细微小结构手术',
+ '把操作放到很细小的结构尺度上，通常借助放大、精细器具；micro- 在这里提醒尺度小，不是把整个手术缩成一段固定时间。',
+ 'micro- 小、微 + surgery 手术。surgery 更早接希腊手与工作相关组合，经法语传入；现代加 micro- 限定精细尺度。',
+ [['希腊手与工作词族，经法语等 → surgery','手的操作 → 外科手术'],['micro- + surgery → microsurgery','在微小结构上进行的精细操作']],
+ 'microsurgery training 显微外科训练，a microsurgery team 显微外科团队，microsurgery instruments 显微外科器具。',
+ 'microsurgery training；a microsurgery team；microsurgery instruments。',
+ 'microsurgery 说尺度、精细操作，neurosurgery 说神经系统对象；两种分类可有交集，并非必然互斥。',
+ ('The course introduced instruments used in microsurgery.','课程介绍了显微外科使用的器具。'),('The exhibit explained the development of microsurgery.','展览解释了显微外科的发展。'),
+ sources=['https://en.wiktionary.org/wiki/microsurgery#English','https://www.merriam-webster.com/dictionary/microsurgery'])
+R('B4302','用手操作的外科传统，再按尺度和对象限定','SURGERY：基础手术，前缀说明在哪个尺度、哪个系统','surgery → microsurgery、neurosurgery，前者小尺度精细操作，后者神经系统范围。',
+ '两者分类角度不同，同一操作可同时符合；不按前缀直接推断治疗效果、风险或个人选择。',
+ '希腊 cheir 手、ergon 工作相关词形经法语 → surgery；micro-/neuro- + surgery。',
+ [['基础手术与具体范围','surgery · microsurgery · neurosurgery']],
+ 'micro- 小尺度与 neuro- 神经对象；surgery 英式某些语境也诊所、接诊时段，需按正文。',
+ 'The textbook discusses microsurgery in several surgical fields.\n\n课本讨论了多个外科领域中的显微操作。','surgery microsurgery neurosurgery')
+W('unibrow','/ˈjuːnɪbraʊ/，美式也弱读 /ˈjuːnəbraʊ/','连心眉、左右连成一条的眉毛',
+ '左右眉在中间接到一起，看上去是一条连续的眉；uni- 抓住连成一体，不是只剩左边一条。',
+ 'uni- 一、单一 + brow 眉毛，现代外观名称。brow 本身还可前额，但在这里明确取眉。',
+ [['拉丁一的词基 → uni-；英语 brow 眉','单一、连续 + 眉部'],['uni- + brow → unibrow','两侧连成一条的眉毛']],
+ 'a thick unibrow 浓连心眉，a distinctive unibrow 鲜明连心眉，draw a unibrow 画连心眉。',
+ 'a thick unibrow；a distinctive unibrow；draw a unibrow。',
+ 'unibrow 说眉连成一体，unilateral 说单侧；uni- 的一个究竟指数量、方向还是整体要看后半词。',
+ ('The portrait shows a distinctive unibrow.','肖像画出了一条鲜明的连心眉。'),('The cartoonist drew the character with a thick unibrow.','漫画家给角色画上了浓连心眉。'),
+ sources=['https://en.wiktionary.org/wiki/unibrow#English','https://www.merriam-webster.com/dictionary/unibrow'])
+R('A1710','一个、单一、统一方向或整体','UNI-：先问一个的是什么，再看后半词','unibrow 一条连续眉；unicycle 一个轮；unilateral 单侧；unidirectional 单向；不同对象共同用单一概念。',
+ 'uni- 一不是否定 un-，也不是所有 uni- 都只在数实体一件；universe 和统一整体的历史构词较复杂，见该词。',
+ '拉丁 unus 一及相应组合词干 → uni-；接 brow、cycle、lateral 等不同词基；有些整词早已从拉丁借入。',
+ [['整体、方向与侧面','universe · unilateral · unidirectional · unipolar'],['外观、轮子与身体','unibrow · unicycle · unibody'],['科学、制度与通用类别','unicellular · univariate · unicameral · unisex']],
+ 'uni-/un- 单一与否定；unibrow 非失去一边眉；unilateral/unidirectional 单侧单向；unisex 男女通用等非无性别身份断言。',
+ 'The unicycle has one wheel, and the arrow indicates unidirectional movement.\n\n独轮车有一个轮子，箭头表示单向运动。','universe unilateral unidirectional unipolar unibrow unicycle unibody unicellular univariate unicameral unisex')
+H=[['法语 choc、choquer，及荷兰语相关碰撞词 → shock','猛烈相撞、冲击'],['身体感觉与情绪扩展','电击、震惊；医学休克另有专门含义'],['同形词与派生','shock of hair 蓬发另有旧来源；shocking、shocker、aftershock、electroshock']]
+W('shock','英 /ʃɒk/；美 /ʃɑːk/ 或 /ʃɔːk/','冲击、震惊；电击；休克〔医学〕；一蓬头发〔另来源〕',
+ '某件事猛地撞到身体或预期：物理冲击、电击、突然坏消息的震惊。a shock of hair 却是一大蓬头发，不能说头发都受过惊吓。',
+ '冲击义经法语、荷兰语相关碰撞词，后扩情绪、电学等；头发义另有蓬乱毛发、旧动物名称等历史。医学 shock 休克不可与日常惊讶自动等同。',H,
+ 'a sudden shock 突然冲击，an electric shock 电击，come as a shock 令人震惊，a shock of hair 一蓬头发。',
+ 'an electric shock；come as a shock；a sudden shock；a shock of hair。',
+ 'shock 震惊常强于普通 surprise；医学休克是专门状态，不等于 I was shocked 我很震惊的随意替换。',
+ ('The announcement came as a shock to everyone.','公告让所有人震惊。'),('A shock of white hair framed his face.','一蓬白发围着他的脸。'),
+ sources=['https://en.wiktionary.org/wiki/shock#English','https://www.etymonline.com/word/shock'])
+W('shocking','英 /ˈʃɒkɪŋ/；美 /ˈʃɑːkɪŋ/','令人震惊的；糟透的、骇人的',
+ '消息、行为让人震惊，也可强烈嫌某事糟糕。它描述造成冲击的东西，不是自己已经惊呆的人。',
+ 'shock + -ing，分词作性质形容词；与 shocked 受惊状态方向不同。',H[:2]+[['shock + -ing → shocking','造成震惊；强烈负面评价']],
+ 'shocking news 惊人消息，shocking behaviour 骇人行为，a shocking performance 糟透的表现。',
+ 'shocking news；shocking behaviour；a shocking performance。',
+ 'shocking 令人震惊，shocked 感到震惊；I am shocking 常会变成我令人震惊，不是我震惊了。',
+ ('The report revealed shocking conditions.','报告揭示了骇人的状况。'),('The team gave a shocking performance.','球队表现糟透了。'))
+W('shocker','英 /ˈʃɒkə/；美 /ˈʃɑːkər/','惊人事件、爆冷结果；糟糕表现〔口语〕',
+ '把让人惊掉下巴的事当一个名词；体育口语 he had a shocker 又常是他表现糟透了。',
+ 'shock + -er，形成造成震惊的人、事物或器件名；日常常指事件、结果，不必译成人。',H[:2]+[['shock + -er → shocker','令人震惊的事、结果；也可糟糕表现']],
+ 'a real shocker 真够惊人的事，a shocker of a result 惊人结果，have a shocker 表现糟透。',
+ 'a real shocker；a shocker of a result；have a shocker。',
+ 'shocker 常事件或一场糟糕表现，shocking 是形容词；爆冷和糟糕表现要看谁在评价什么。',
+ ('The final result was a real shocker.','最终结果真令人吃惊。'),('The goalkeeper had a shocker in the first half.','守门员上半场表现糟透。'))
+W('aftershock','英 /ˈɑːftəʃɒk/；美 /ˈæftərʃɑːk/','余震；重大事件的后续冲击',
+ '主震之后附近又有震动，是 aftershock；经济、组织等大事之后接连出现的影响，也可借余震来讲。',
+ 'after- 之后 + shock 冲击、震动，先有地震后续震动义，再有抽象比喻。',H[:1]+[['after- + shock → aftershock','主要地震之后的震动'],['地震画面 → 后续影响','重大事件之后仍在传导的冲击']],
+ 'a series of aftershocks 一连串余震，economic aftershocks 经济余波，the aftershocks of a crisis 危机后续冲击。',
+ 'a series of aftershocks；economic aftershocks；the aftershocks of。',
+ 'aftershock 是后来相关震动、冲击，aftermath 是事情后的局面或后果；不是每个 later event 都自然叫余震。',
+ ('Several aftershocks followed the main earthquake.','主震之后发生了几次余震。'),('The company was still feeling the aftershocks of the scandal.','公司仍在承受丑闻的后续冲击。'))
+W('electroshock','英 /ɪˈlektrəʊʃɒk/；美 /ɪˈlektroʊʃɑːk/','电击；电休克治疗〔部分语境中的名称〕',
+ 'electro- 指电，shock 指电流造成的冲击；历史、医疗文章中也可指电休克治疗，不能把一切电击都说成治疗。',
+ 'electro- 电 + shock，现代组合。某些语境专指 electroconvulsive therapy，但完整术语更明确地说明对象。',H[:2]+[['electro- + shock → electroshock','电造成的冲击；特定语境的治疗名称']],
+ 'electroshock equipment 电击或相关治疗设备，the term electroshock electroshock 这一术语，electroshock in medical history 医学史中的电休克用语。',
+ 'the term electroshock；electroshock equipment；electroshock in medical history。',
+ 'electroshock 与 electric shock 在部分电击义有重叠；医疗专名用法要按正文，不从词根推断具体方法、效果。',
+ ('The article discussed the term electroshock in medical history.','文章讨论了医学史中的 electroshock 这一用语。'),('The translator rendered electroshock as electroconvulsive therapy in that passage.','译者在那一段把 electroshock 译作 electroconvulsive therapy。'))
+R('B3135','突然撞击身体或预期，再有后续冲击','SHOCK：猛地一下，实际力、电流、情绪分别看对象','shock → shocking、shocker；aftershock 地震或事件余波；electroshock 电学与特定医疗名称。',
+ '日常震惊不等于医学休克；a shock of hair 蓬发另有来源，不拿冲击义硬编头发生长故事。',
+ 'choc、choquer 等 → shock 冲击；shock + -ing/-er；after- + shock；electro- + shock；蓬发名词另源。',
+ [['冲击与造成震惊的性质、事件','shock · shocking · shocker'],['后续震动与电的冲击','aftershock · electroshock']],
+ 'shocking/shocked 因果方向；shocker 事件或糟表现；aftershock/aftermath 后续冲击与后果局面；shock 休克非普通惊讶。',
+ 'The shocking result was followed by further aftershocks across the organization.\n\n令人震惊的结果在机构内继续引发后续冲击。','shock shocking shocker aftershock electroshock')
+if __name__=='__main__':save('continuation_20261030_fa',ROOTS,WORDS)

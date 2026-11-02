@@ -1,0 +1,71 @@
+"""Common comparisons in wealth, quality, depth and price."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'B3917':dict(words=['rich','richer','richest'],label='rich → richer → richest：财富与丰厚程度',note='rich 接古英语 rīċe 权势大、富有等材料；食物、颜色、内容的丰厚义按具体名词理解。'),
+ 'B3165':dict(words=['poor','poorer','poorest'],label='poor → poorer → poorest：贫乏与质量较差',note='poor 经法语接拉丁 pauper 贫乏；比较形式既能比经济处境，也能比质量、表现。'),
+ 'B3043':dict(words=['deep','deeper','deepest'],label='deep → deeper → deepest：深度、理解与感受',note='deep 继承古英语 dēop，具体深度和严肃、强烈的抽象用法很早已有。'),
+ 'B2935':dict(words=['cheap','cheaper','cheapest'],label='cheap → cheaper → cheapest：价格低与划算买卖',note='cheap 来自古英语 cēap 买卖、价钱词族，现代比较级主要比价格，质量评价须看语境。'),
+}
+W('richer','英 /ˈrɪtʃə/；美 /ˈrɪtʃər/','更富有的；更丰富、浓郁、丰厚的；rich 的比较级',
+ '钱更多是 richer；内容更有层次，味道或颜色更浓，也能用 richer。共同的现代感觉是有更多可以感受到的分量。',
+ 'rich + -er，ch 保留 /tʃ/。rich 继承古英语 rīċe 权势大、富有等，远源联系日耳曼王权、强大词族，法语同族形式也有影响。',
+ [['古英语 rīċe 及相关日耳曼、法语词族影响 → rich','有权势、富有 → 丰厚、丰富等'],['rich + -er → richer','更富有；内容、感官体验更丰厚']],
+ 'richer countries 更富裕的国家；a richer flavour 更浓郁的味道；a richer picture 更丰富的呈现；richer in detail 细节更丰富。',
+ 'much richer；a richer experience。','richer food 常说味道浓、油脂等成分带来的丰厚感，不自动是价格更贵。richer account 常说内容更丰富，wealthier 更直接比较经济财富。',
+ ('The extra vegetables gave the soup a richer flavour.','多加的蔬菜让汤的味道更丰富了。'),('Talking to the residents gave us a richer picture of the town’s history.','和居民交谈，让我们对小镇历史有了更丰富的认识。'),sources=['https://en.wiktionary.org/wiki/richer#English','https://en.wiktionary.org/wiki/rich#English'])
+W('richest','/ˈrɪtʃɪst/','最富有的；最丰富、浓郁的；rich 的最高级',
+ '在财富、内容或感官层次上，最丰厚的一项是 richest。到底比钱、资源、味道还是细节，要看后面的对象。',
+ 'rich + -est，词尾 /ɪst/。rich 接古英语 rīċe 的有权势、富有词族，现代最高级沿富有、丰厚等不同义项使用。',
+ [['古英语 rīċe 等相关材料 → rich','强大、富有；丰厚、丰富'],['rich + -est → richest','所比范围里最富有、最丰富等']],
+ 'the richest person 最富有的人；the richest source 最丰富的来源；the richest flavour 最浓郁的味道；richest in ... 在……方面最丰富。',
+ 'the richest of the three；one of the richest ...。','the richest source of information 比较提供信息是否丰富，不是说来源本身拥有最多钱。richest 的比较角度由搭配决定。',
+ ('The archive is our richest source of information about the old theatre.','这份档案是我们了解那座老剧院最丰富的资料来源。'),('Of the three sauces, this one has the richest flavour.','三种酱汁中，这种味道最浓郁。'),sources=['https://en.wiktionary.org/wiki/richest#English','https://en.wiktionary.org/wiki/rich#English'])
+W('poorer','英 /ˈpʊərə, ˈpɔːrə/；美 /ˈpʊrər, ˈpɔːrər/','更贫穷的；更差、更不足的；poor 的比较级',
+ '资源更少，是 poorer；质量、表现、条件不如另一个，也可以说 poorer。它并不每次都在谈收入。',
+ 'poor + -er，词尾保留相应 r 的地区读法。poor 经法语接拉丁 pauper 贫乏、资源少的词族，现代比较形式直接加 -er。',
+ [['拉丁 pauper → 法语相关形式 → poor','贫乏 → 贫穷；质量、条件不好等'],['poor + -er → poorer','更贫穷；质量、表现等更差']],
+ 'poorer families 更贫困的家庭；poorer quality 更差的质量；poorer lighting 更差的照明；poorer results 更差的结果。',
+ 'poorer than before；a poorer performance。','poorer quality 是质量更差，cheaper 主要说价格更低，不能直接互相替换。低价和质量之间是否有关系，要由具体情况判断。',
+ ('The copy had poorer sound quality than the original.','副本的音质比原件差。'),('The plants grew more slowly in the poorer soil.','这些植物在较贫瘠的土壤里长得更慢。'),sources=['https://en.wiktionary.org/wiki/poorer#English','https://en.wiktionary.org/wiki/poor#English'])
+W('poorest','英 /ˈpɔːrɪst, ˈpʊərɪst/；美 /ˈpʊrɪst, ˈpɔːrɪst/','最贫穷的；质量、条件、表现最差的；poor 的最高级',
+ '在资源、条件或表现上处在最低的一端，是 poorest。遇到音质、土壤、照明等名词，要把贫乏转成相应的差、不足。',
+ 'poor + -est，词尾 /ɪst/。poor 经法语接拉丁 pauper 贫乏，现代最高级按多个义项比较资源、质量、表现等。',
+ [['拉丁 pauper → 法语相关形式 → poor','资源少 → 贫穷；条件、质量差'],['poor + -est → poorest','给定范围内最贫困、最差等']],
+ 'the poorest households 最贫困的家庭；the poorest quality 最差的质量；the poorest result 最差的结果；the poorest soil 最贫瘠的土壤。',
+ 'the poorest of the samples；our poorest performance。','the poorest 可按上下文省略后面的 people 等名词，指最贫困的人群；在 the poorest result 中则是在评价结果，仍是形容词修饰名词。',
+ ('The poorest recording was difficult to hear clearly.','音质最差的那段录音很难听清。'),('This corner has the poorest soil in the garden.','这个角落的土壤是花园里最贫瘠的。'),sources=['https://en.wiktionary.org/wiki/poorest#English','https://en.wiktionary.org/wiki/poor#English'])
+W('deeper','英 /ˈdiːpə/；美 /ˈdiːpər/','更深的；理解更深入、感受更强烈的；更深地；deep 的比较级',
+ '从表面往里面走得更远，是 deeper。水、洞有实际深度，理解、联系、感受也常借深度来表达。',
+ 'deep + -er。deep 继承古英语 dēop，具体深度以及严肃、强烈等抽象用法较早已有，不必把每个抽象义都编成现代新比喻。',
+ [['古英语 dēop → deep','深；严肃、强烈等较早抽象义'],['deep + -er → deeper','更深；理解、感受等更深入']],
+ 'deeper water 更深的水；a deeper understanding 更深入的理解；dig deeper 挖得更深、深入调查；a deeper voice 更低沉的嗓音。',
+ 'much deeper；deeper into the problem。','deeper understanding 强调理解深入，more information 强调信息更多。a deeper voice 常说音调更低沉，a louder voice 则说音量更大。',
+ ('The water becomes deeper beyond the rocks.','过了那些岩石，水就更深了。'),('The discussion gave us a deeper understanding of the problem.','这次讨论让我们对问题有了更深入的理解。'),sources=['https://en.wiktionary.org/wiki/deeper#English','https://en.wiktionary.org/wiki/deep#English'])
+W('deepest','/ˈdiːpɪst/','最深的；最强烈、最真切的；最深地；deep 的最高级',
+ '空间里离表面最远，或感受上程度最深，都能说 deepest。后者常见于感谢、歉意、关切等表达。',
+ 'deep + -est，词尾 /ɪst/。deep 延续古英语 dēop 的深度、强烈等词义，现代最高级依对象比较。',
+ [['古英语 dēop → deep','深；深切、强烈等'],['deep + -est → deepest','所比范围内最深；程度极深的']],
+ 'the deepest part 最深的部分；my deepest thanks 我最衷心的感谢；our deepest concern 我们最深切的关切；the deepest shade 最深的颜色〔看场景〕。',
+ 'at its deepest；the deepest point。','deepest 可以是实际最高级，也可在 deepest thanks 等表达里加强真诚、强烈程度，不一定真在列出几份感谢后排名。',
+ ('The lake is widest here, but its deepest point is farther north.','湖在这里最宽，但最深处在更北边。'),('Please accept my deepest thanks for all your help.','请接受我对你所有帮助最衷心的感谢。'),sources=['https://en.wiktionary.org/wiki/deepest#English','https://en.wiktionary.org/wiki/deep#English'])
+W('cheaper','英 /ˈtʃiːpə/；美 /ˈtʃiːpər/','更便宜的；成本、代价更低的；cheap 的比较级',
+ '得到同样或类似的东西，要付的钱更少，就是 cheaper。也可以按上下文说做法成本更低。',
+ 'cheap + -er。cheap 来自古英语 cēap 买卖、价钱词族，经 good cheap 等划算买卖的旧表达发展为低价形容词；不是一开始就只表示劣质。',
+ [['古英语 cēap 及 good cheap 等旧表达 → cheap','买卖、价钱 → 划算、价格低'],['cheap + -er → cheaper','价格、成本更低']],
+ 'a cheaper ticket 更便宜的票；a cheaper option 成本更低的选项；cheaper than ... 比……便宜；cheaper to make 制作成本更低。',
+ 'much cheaper；a little cheaper。','cheaper 主要比较价格，better value 常综合价格和得到的东西是否划算。质量是否更差，要由产品、语境来判断，不能仅靠比较级决定。',
+ ('The same notebook was cheaper in the smaller shop.','同样的笔记本在那家小店更便宜。'),('It was cheaper to repair the chair than replace it.','修这把椅子比换新的花钱少。'),sources=['https://en.wiktionary.org/wiki/cheaper#English','https://en.wiktionary.org/wiki/cheap#English'])
+W('cheapest','/ˈtʃiːpɪst/','最便宜的；所比范围里成本最低的；cheap 的最高级',
+ '在几种选择里，要付的钱最少的一项，就是 cheapest。它先比较价格，其他好坏要另看。',
+ 'cheap + -est，词尾 /ɪst/。cheap 接古英语 cēap 的买卖、价钱历史材料，现代最高级用来比较低价、低成本等。',
+ [['古英语 cēap 等买卖表达 → cheap','价钱、划算买卖 → 低价'],['cheap + -est → cheapest','给定范围里价格、成本最低']],
+ 'the cheapest ticket 最便宜的票；the cheapest way 最省钱的方式；the cheapest of the three 三者中最便宜的。',
+ 'our cheapest option；the cheapest available room。','the cheapest room available 是当前可选房间里最低价的一间，不自动扩大成任何时候、任何地方都最低价。最高级的范围要从修饰语和背景看。',
+ ('We checked which ticket was the cheapest for the same journey.','我们查了同一段行程哪种票最便宜。'),('The cheapest room was already booked.','最便宜的那间房已经订出去了。'),sources=['https://en.wiktionary.org/wiki/cheapest#English','https://en.wiktionary.org/wiki/cheap#English'])
+def extend_lessons():extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_wt',ROOTS,WORDS)
+ extend_lessons()

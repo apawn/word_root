@@ -1,0 +1,335 @@
+[
+  {
+    "word": "converge",
+    "ipa": "英 /kənˈvɜːdʒ/；美 /kənˈvɜːrdʒ/",
+    "meaning": "汇合；趋同；收敛",
+    "sense": "几条路朝同一点来，几个人的看法越谈越接近，都像原本分开的线合到一起，这叫 converge。",
+    "split": "借拉丁 convergere，con- 一起 + vergere 倾向、转向；不是 cover 覆盖多塞了几个字母。",
+    "history": [
+      [
+        "拉丁 con- + vergere → convergere",
+        "一起 + 转向、倾向 → 朝一处来"
+      ],
+      [
+        "英语 converge → convergence",
+        "汇合、趋同、收敛；相应过程"
+      ]
+    ],
+    "explanation": "converge on a place 向某地汇集；views converge 看法趋同；converge to a limit 数学上收敛到极限。",
+    "usage": "converge on；converge towards。",
+    "contrast": "converge 是靠拢、汇合，diverge 是分开、分歧；不要求每次都真有几条直线。",
+    "examples": [
+      [
+        "Three paths converge at the village square.",
+        "三条小路在村广场汇合。"
+      ],
+      [
+        "Their views began to converge after several discussions.",
+        "几次讨论后，他们的看法开始趋同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/converge#English"
+    ]
+  },
+  {
+    "word": "convergence",
+    "ipa": "英 /kənˈvɜːdʒəns/；美 /kənˈvɜːrdʒəns/",
+    "meaning": "汇合；趋同；收敛",
+    "sense": "converge 是逐渐合过来，convergence 是这份合到一起、越来越接近的过程或关系。技术融合、观点趋同也能用。",
+    "split": "converge 去 e 加 -ence，并有拉丁 convergentia 的相应材料联系；名词化后可讨论过程、趋势。",
+    "history": [
+      [
+        "拉丁 con- + vergere → convergere",
+        "一起 + 转向、倾向 → 朝一处来"
+      ],
+      [
+        "英语 converge → convergence",
+        "汇合、趋同、收敛；相应过程"
+      ]
+    ],
+    "explanation": "the convergence of two technologies 两种技术融合；a convergence of views 观点趋同；numerical convergence 数值收敛。",
+    "usage": "the convergence of；a convergence between。",
+    "contrast": "convergence 不是 coincidence 巧合；多个趋势靠拢可能有共同原因，也可能只是时间相近，要看论证。",
+    "examples": [
+      [
+        "The project explores the convergence of art and technology.",
+        "项目探索艺术与技术的融合。"
+      ],
+      [
+        "There was a gradual convergence of opinion.",
+        "意见逐渐趋同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/convergence#English"
+    ]
+  },
+  {
+    "word": "deter",
+    "ipa": "英 /dɪˈtɜː/；美 /dɪˈtɜːr/",
+    "meaning": "使打消念头；阻止、吓阻",
+    "sense": "本来想做，想到代价、风险或障碍，又不敢、不愿做了，某因素就 deterred you。它常是在行动之前让人退缩。",
+    "split": "借拉丁 deterrere，关联 de- 离开等与 terrere 使害怕；从吓退扩展到由成本、困难劝退。",
+    "history": [
+      [
+        "拉丁 de- + terrere → deterrere",
+        "使害怕、吓退的材料"
+      ],
+      [
+        "英语 deter、deterrent、deterrence",
+        "使打消念头；阻吓因素；威慑、阻遏作用"
+      ]
+    ],
+    "explanation": "deter someone from doing 使某人不去做；deter visitors 让游客却步。",
+    "usage": "deter someone from；deter crime。",
+    "contrast": "deter 侧重让人打消行动意愿；prevent 更广说让事情没能发生，不一定通过意愿、恐惧。",
+    "examples": [
+      [
+        "The high price deterred many buyers.",
+        "高价让许多买家打消了念头。"
+      ],
+      [
+        "Rain did not deter the volunteers from continuing.",
+        "雨没有让志愿者打消继续干下去的念头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deter#English"
+    ]
+  },
+  {
+    "word": "deterrent",
+    "ipa": "英 /dɪˈterənt/；美 /dɪˈtɜːrənt/",
+    "meaning": "阻吓因素、威慑物；起阻遏作用的",
+    "sense": "让人一想到就不想干、退一步的东西，是 a deterrent；也能作形容词说具有这种劝退、威慑作用。",
+    "split": "接 deter 的相应 -ent 形式，r 在常见拼写中双写；与拉丁 deterrens 等材料相应。",
+    "history": [
+      [
+        "拉丁 de- + terrere → deterrere",
+        "使害怕、吓退的材料"
+      ],
+      [
+        "英语 deter、deterrent、deterrence",
+        "使打消念头；阻吓因素；威慑、阻遏作用"
+      ]
+    ],
+    "explanation": "a deterrent to theft 防盗的威慑因素；a deterrent effect 阻遏效果；act as a deterrent 起威慑作用。",
+    "usage": "a deterrent to；a deterrent effect。",
+    "contrast": "deterrent 是起作用的因素或形容词，deterrence 是威慑、阻遏这一过程或效应；有 deterrent 不保证效果一定强。",
+    "examples": [
+      [
+        "Visible security cameras may act as a deterrent to theft.",
+        "看得见的监控摄像头可能对盗窃起威慑作用。"
+      ],
+      [
+        "The study examined the rule’s deterrent effect.",
+        "研究考察了规则的阻遏效果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deterrent#English"
+    ]
+  },
+  {
+    "word": "deterrence",
+    "ipa": "英 /dɪˈterəns/；美 /dɪˈtɜːrəns/",
+    "meaning": "威慑；阻吓、阻遏作用",
+    "sense": "不是把每次行动都当场拦住，而是让人预先觉得代价太大，不值得去做。deterrence 谈的就是这种制止意愿的作用。",
+    "split": "deterrent 的词干材料与 -ence 对应，接 deter 的吓退、劝退词族。别把两个 r 看成另一个词根。",
+    "history": [
+      [
+        "拉丁 de- + terrere → deterrere",
+        "使害怕、吓退的材料"
+      ],
+      [
+        "英语 deter、deterrent、deterrence",
+        "使打消念头；阻吓因素；威慑、阻遏作用"
+      ]
+    ],
+    "explanation": "crime deterrence 犯罪阻遏；a policy of deterrence 威慑政策；the effectiveness of deterrence 威慑的效力。",
+    "usage": "a deterrence strategy；the deterrence of。",
+    "contrast": "deterrence 说行动前的阻吓效果；punishment 是惩罚行为本身。惩罚可能被用于威慑，但两个概念不等同。",
+    "examples": [
+      [
+        "The course examines different theories of deterrence.",
+        "课程考察不同的威慑理论。"
+      ],
+      [
+        "The report distinguishes punishment from deterrence.",
+        "报告区分了惩罚与威慑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deterrence#English"
+    ]
+  },
+  {
+    "word": "pestilence",
+    "ipa": "/ˈpestɪləns/",
+    "meaning": "瘟疫；严重流行病〔文学、历史用语〕",
+    "sense": "历史叙述里，疾病成片蔓延、带来灾难，会写 pestilence。它带有古老、沉重的灾祸感，不是日常每次感冒都这样叫。",
+    "split": "经法语 pestilence 接拉丁 pestilentia，关联 pestilens 有害、带病与 pestis 疫病；不是现代 pest 害虫直接加 ilence。",
+    "history": [
+      [
+        "拉丁 pestis → pestilens、pestilentia",
+        "疫病、有害、严重疫情等材料"
+      ],
+      [
+        "英语 pestilence",
+        "瘟疫、严重疫病；历史文学常用"
+      ]
+    ],
+    "explanation": "famine and pestilence 饥荒与瘟疫；an outbreak of pestilence 瘟疫暴发。",
+    "usage": "famine and pestilence；the spread of pestilence。",
+    "contrast": "pestilence 是宽泛、带历史文学色彩的疫病名称，不等于一个精确病原体、特定诊断；pest 今天常说害虫或烦人的人。",
+    "examples": [
+      [
+        "The chronicle describes years of famine and pestilence.",
+        "编年史描述了饥荒与瘟疫持续的岁月。"
+      ],
+      [
+        "The painting presents pestilence as a figure of disaster.",
+        "画作把瘟疫表现为灾难的象征。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pestilence#English",
+      "https://www.etymonline.com/word/pestilence"
+    ]
+  },
+  {
+    "word": "abhorrence",
+    "ipa": "英 /əbˈhɒrəns/；美 /əbˈhɔːrəns/",
+    "meaning": "憎恶；强烈厌恶",
+    "sense": "不是轻轻一句不喜欢，而是想到那件事就强烈排斥，甚至像想往后缩。abhorrence 把这份憎恶作为名词来谈。",
+    "split": "abhorrent 与 -ence 的对应，词族接拉丁 ab- 离开 + horrere 战栗、毛发竖起；从惊惧退缩走到强烈厌恶。",
+    "history": [
+      [
+        "拉丁 ab- + horrere → abhorrere",
+        "退缩、强烈排斥"
+      ],
+      [
+        "abhor、abhorrent → abhorrence",
+        "憎恶；这份强烈厌恶的感觉"
+      ]
+    ],
+    "explanation": "abhorrence of cruelty 对残酷行为的憎恶；in abhorrence 怀着强烈厌恶，较正式。",
+    "usage": "an abhorrence of；express abhorrence。",
+    "contrast": "abhorrence 是强烈憎恶的名词；abhorrent 是令人生厌、可憎的形容词，不要只按长短猜词性。",
+    "examples": [
+      [
+        "She expressed her abhorrence of cruelty.",
+        "她表达了对残酷行为的憎恶。"
+      ],
+      [
+        "His abhorrence of dishonesty shaped his decisions.",
+        "他对不诚实的强烈厌恶影响了他的决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/abhorrence#English",
+      "https://www.etymonline.com/word/abhor"
+    ]
+  },
+  {
+    "word": "excel",
+    "ipa": "/ɪkˈsel/",
+    "meaning": "擅长；表现出色；胜过",
+    "sense": "同样一件事，他做得特别好、比通常水平更出众，可以说 excel。重点是表现突出，不只是勉强能做。",
+    "split": "借拉丁 excellere 高出、超越；可看 ex- 向外、超出与其高起的历史材料，但不另造常用英语 cell 来硬拆。",
+    "history": [
+      [
+        "拉丁 excellere → excellens、excellentia 等",
+        "高出、超越；卓越的、卓越这一性质"
+      ],
+      [
+        "英语 excel、excellent、excellence",
+        "擅长、出色；极好的；卓越"
+      ]
+    ],
+    "explanation": "excel at something 擅长某事；excel in a field 在某领域表现出色；excel yourself 超常发挥，尤见英式。",
+    "usage": "excel at；excel in。",
+    "contrast": "excel 是动词擅长、出色；Excel 大写还可指微软表格软件，不能把每句 he excels 都翻成他用表格。",
+    "examples": [
+      [
+        "She excels at explaining difficult ideas clearly.",
+        "她很擅长把难懂的想法解释清楚。"
+      ],
+      [
+        "The team excelled in the final round.",
+        "团队在最后一轮表现出色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excel#English"
+    ]
+  },
+  {
+    "word": "excellent",
+    "ipa": "/ˈeksələnt/",
+    "meaning": "极好的；出色的",
+    "sense": "质量、表现高得让人愿意明确称赞，就是 excellent；日常 Excellent! 也可以简短表示太好了。",
+    "split": "经法语 excellent 接拉丁 excellens 高出、杰出的材料，与 excel 相联；现代可按 excel 与 -ent 对应，但借入历史不只英语临时加尾。",
+    "history": [
+      [
+        "拉丁 excellere → excellens、excellentia 等",
+        "高出、超越；卓越的、卓越这一性质"
+      ],
+      [
+        "英语 excel、excellent、excellence",
+        "擅长、出色；极好的；卓越"
+      ]
+    ],
+    "explanation": "an excellent idea 极好的主意；excellent service 出色服务；excellent at doing 很擅长做。",
+    "usage": "an excellent choice；excellent quality。",
+    "contrast": "excellent 是评价很好，不保证 perfect 完全无瑕；一份出色作品仍可以有值得改进的地方。",
+    "examples": [
+      [
+        "The guide gave an excellent explanation of the building’s history.",
+        "向导把建筑历史解释得非常清楚。"
+      ],
+      [
+        "The hotel provided excellent service.",
+        "酒店提供了出色服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excellent#English"
+    ]
+  },
+  {
+    "word": "excellence",
+    "ipa": "/ˈeksələns/",
+    "meaning": "卓越；出色的品质、水准",
+    "sense": "excellent 说这件东西很好，excellence 则把这份高水准当成追求、评价的对象：希望长期做得出色。",
+    "split": "经法语 excellence 接拉丁 excellentia，与 excellent 的 -ent／-ence 对应。不是把完整 excellent 原样再加 ence。",
+    "history": [
+      [
+        "拉丁 excellere → excellens、excellentia 等",
+        "高出、超越；卓越的、卓越这一性质"
+      ],
+      [
+        "英语 excel、excellent、excellence",
+        "擅长、出色；极好的；卓越"
+      ]
+    ],
+    "explanation": "academic excellence 学术卓越；a commitment to excellence 追求卓越的承诺；excellence in design 设计的高水准。",
+    "usage": "strive for excellence；excellence in。",
+    "contrast": "excellence 是卓越水准，excellency 是某些外交等称呼中的阁下；正式称谓和品质名词别混用。",
+    "examples": [
+      [
+        "The award recognises excellence in teaching.",
+        "这个奖表彰卓越的教学。"
+      ],
+      [
+        "The workshop has a reputation for craftsmanship and excellence.",
+        "这家工坊以精湛工艺和高水准闻名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/excellence#English",
+      "https://www.etymonline.com/word/-ence"
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "B4015",
+    "meaning": "把消息、意思传给对方，建立共同理解",
+    "core": "COMMUNICATION：消息送到，还要看对方是否理解",
+    "image": "communication → miscommunication；telecommunication 接远距离技术通信。",
+    "intro": "成功发出消息不一定等于成功理解；miscommunication 可以双方理解错，不必有人故意撒谎。",
+    "forms": "communicāre、communicātiō → communication；mis- + communication；法语 télécommunication → 英语，tele- 表远。\n\ntelecommunication 借法语 télécommunication，现代行业、设施等常用带 -s 的形式 telecommunications，不能只按复数词尾译成多场谈话。",
+    "branches": [
+      [
+        "交流与理解出错",
+        "communication · miscommunication"
+      ],
+      [
+        "远距离通信",
+        "telecommunication"
+      ],
+      [
+        "tele- 远 + communication → telecommunications",
+        "telecommunications"
+      ]
+    ],
+    "contrasts": "communication 广义交流；telecommunication 技术远传；miscommunication 理解、传递出了差错。",
+    "practice": "Better communication reduced miscommunication between the teams.\n\n更充分的沟通减少了团队之间的误解。",
+    "words": [
+      "communication",
+      "miscommunication",
+      "telecommunication",
+      "telecommunications"
+    ],
+    "exclude": {
+      "e-communication": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3087",
+    "meaning": "甜的糖，也能借来说好听的话",
+    "core": "SUGAR：实物的甜可变成语言表面的甜",
+    "image": "sugar → sugared、sugary；sugarcoat 把糖当一层外衣，再引申粉饰。",
+    "intro": "糖衣和事实修饰可以用同一画面记；sugared 加过糖，sugary 含糖、甜腻，不能完全互换每个搭配。",
+    "forms": "śarkarā 等经波斯、阿拉伯及欧洲语言 → sugar；sugar + -ed/-y；sugar + coat。",
+    "branches": [
+      [
+        "糖与加糖、甜的性质",
+        "sugar · sugared · sugary"
+      ],
+      [
+        "糖衣与粉饰",
+        "sugarcoat"
+      ]
+    ],
+    "contrasts": "sugared/sugary 处理与性质；sugarcoat/polite 粉饰与礼貌，表达诚实不妨碍表达得体。",
+    "practice": "Do not sugarcoat the results with sugary language.\n\n别用甜腻好听的话粉饰结果。",
+    "words": [
+      "sugar",
+      "sugared",
+      "sugary",
+      "sugarcoat"
+    ],
+    "exclude": {
+      "sugar-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sugarman": "少见人物名词，先掌握 sugar、sugary、sugared 和 sugarcoat。"
+    }
+  },
+  {
+    "id": "B2909",
+    "meaning": "话语、拼写与咒语；另辨轮班时段",
+    "core": "SPELL：说出字母，也可是一段被认为有力量的话",
+    "image": "spell → spelling、speller、misspell；gospel 保留消息旧义；spellbound → spellbinding 分人的状态与作品的吸引力。",
+    "intro": "拼写和魔咒可以联系早期话语背景，但一段天气、一班替工另有旧路径；不把所有同拼写都硬压进一个故事。",
+    "forms": "古英语 spell 话语、消息；法语 espeler 等 → 拼写 spell；good + spel → gospel；spell + bound/binding。\n\n拼写动词经法语接日耳曼叙说材料，咒语名词接古英语话语等词族；一段时间的 spell 则连轮班、替代的另一词线。现代 -s 均读 /z/。\n\n拼写 spell 经法语接日耳曼叙说词族，现代加完整 -ed，/l/ 后读 /d/。spelled 常见于美式，也用于英式，另有 spelt；过去形式不改变为多一个音节。",
+    "branches": [
+      [
+        "拼写动作、人物与错误",
+        "spell · spelling · speller · misspell"
+      ],
+      [
+        "消息旧义的保留",
+        "gospel"
+      ],
+      [
+        "咒语比喻与吸引力",
+        "spellbound · spellbinding"
+      ],
+      [
+        "spells：拼写、咒语与一段时间分路",
+        "spells"
+      ],
+      [
+        "spell → spelled：拼写过、意味着",
+        "spelled"
+      ]
+    ],
+    "contrasts": "spelling/pronunciation 拼法读音；gospel 非 go+spell；spellbound 状态与 spellbinding 吸引性质；a cold spell 一阵冷天气。",
+    "practice": "The spellbinding story held the audience spellbound.\n\n扣人心弦的故事让观众听得入神。",
+    "words": [
+      "spell",
+      "spelling",
+      "speller",
+      "misspell",
+      "gospel",
+      "spellbound",
+      "spellbinding",
+      "spells",
+      "spelled"
+    ],
+    "exclude": {
+      "spell-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

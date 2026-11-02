@@ -1,0 +1,98 @@
+[
+  {
+    "id": "B2490",
+    "meaning": "家的居住者、户主背景；丈夫与妥善经营",
+    "core": "HUSBAND：旧户主、经营者；今天丈夫，动词仍可节用",
+    "image": "husband → husbandry；分别看婚姻称呼、节约管理动词与农牧管理名词。",
+    "intro": "北欧、古英语家庭词的历史比现代 hus+band 的拼字游戏可靠；后部不是乐队，也不从绑住妻子编故事。",
+    "forms": "旧 hús 家 + bóndi 居住者、户主 → husband；旧 husband 经营者义 + -ry → husbandry。\n\nhusband 经古英语接古北欧 husbondi 房屋居住者、家主等，hus 是房屋，bondi 接居住者词族。现代丈夫名词复数与节约使用的动词第三人称同形。",
+    "branches": [
+      [
+        "家庭角色与管理",
+        "husband · husbandry"
+      ],
+      [
+        "居于家中者 → husband → husbands",
+        "husbands"
+      ]
+    ],
+    "contrasts": "husband resources 节约资源，animal husbandry 饲养管理；后部不是现代 band 乐队、带子。",
+    "practice": "Her husband studies animal husbandry and carefully husbands the farm’s resources.\n\n她丈夫研究饲养管理，也仔细管理农场资源。",
+    "words": [
+      "husband",
+      "husbandry",
+      "husbands"
+    ],
+    "exclude": {
+      "husband-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-husband": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ex-husband": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3477",
+    "meaning": "女主人到女士；身份、风度与圣母称呼支线",
+    "core": "LADY：女性称呼有身份、语气；瓢虫接 Our Lady",
+    "image": "lady → ladylike、ladyship；ladybug、ladybird 相邻作为地区对应名称；landlady 已有共享。",
+    "intro": "传统面包与和面者拆解有语义争议，注明分寸。瓢虫名里的 lady 是宗教称呼，不接普通雌性分类。",
+    "forms": "古 hlǣfdīġe → lady；lady + -like/-ship；Our Lady + bug/bird；land + lady。\n\nlady 延续古英语女主人名称，复数 ladies；更早与面包、和面者的传统解释有过质疑，不夸成唯一命名故事。",
+    "branches": [
+      [
+        "人物、身份与风度",
+        "lady · ladylike · ladyship · landlady"
+      ],
+      [
+        "同类昆虫的地区名称",
+        "ladybug · ladybird"
+      ],
+      [
+        "lady → ladies：女士与称呼",
+        "lady · ladies"
+      ]
+    ],
+    "contrasts": "lady 与 woman 用语场合不同；ladyship 正式尊称；ladybug/ladybird 同类昆虫且不分雌雄；lady 远源拆解有争议。",
+    "practice": "The lady showed the children a ladybird, also called a ladybug.\n\n那位女士给孩子们看一只瓢虫，也就是美式英语里的 ladybug。",
+    "words": [
+      "lady",
+      "ladylike",
+      "ladyship",
+      "landlady",
+      "ladybug",
+      "ladybird",
+      "ladies"
+    ],
+    "exclude": {
+      "ladyboy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "milady": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3919",
+    "meaning": "有序组织、重新安排与失序",
+    "core": "ORGANIZATION：排成可运作整体；re- 重排，dis- 失序",
+    "image": "已有 organization、organizational 后，连续比较 reorganization 和 disorganization。",
+    "intro": "不要从两个都有长后缀就当同义：一个说重排过程，一个说缺协调、次序的状态。具体历史存在法语、英语同族关系，现代拆分不强定先后。",
+    "forms": "re-/dis- + organization；与 reorganize、disorganize 的名词对应；organization + -al。",
+    "branches": [
+      [
+        "组织与性质",
+        "organization · organizational"
+      ],
+      [
+        "重组和失序",
+        "reorganization · disorganization"
+      ]
+    ],
+    "contrasts": "reorganization 不自动等于裁员；disorganization 不是单纯未注册组织；重新安排也可有秩序地进行。",
+    "practice": "The reorganization reduced disorganization in the department.\n\n重新安排减少了部门里的混乱。",
+    "words": [
+      "organization",
+      "organizational",
+      "reorganization",
+      "disorganization"
+    ],
+    "exclude": {
+      "self-organization": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

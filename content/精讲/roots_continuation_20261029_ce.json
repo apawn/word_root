@@ -1,0 +1,229 @@
+[
+  {
+    "id": "B3729",
+    "meaning": "数据、资料；组织数据与描述数据",
+    "core": "DATA：给出的记录，拿来分析与使用",
+    "image": "先区别数据本身、组织数据的数据库、说明参数的资料表，再看描述数据的数据 metadata。",
+    "intro": "data 原是拉丁语 datum 的复数，英语现代又有整体不可数用法。database、datasheet 是英语后来的复合名称。",
+    "forms": "data → database、datasheet；meta- + data → metadata。\n\ndataset 的 set 取一组；database 的 base 取组织、存储的基础。它们不是同一个技术对象的必然同义词。",
+    "branches": [
+      [
+        "资料与组织",
+        "data · database"
+      ],
+      [
+        "参数说明与数据描述",
+        "datasheet · metadata"
+      ],
+      [
+        "data 的数据集合与数据库组合",
+        "data · dataset · datasets · database · databases"
+      ]
+    ],
+    "contrasts": "data are 与 data is 都有实际使用场景；database 数据库，datasheet 参数表，metadata 描述数据的信息。",
+    "practice": "The database stores product data, while each datasheet summarizes one product’s specifications.\n\n数据库存放产品数据，每份参数表则概述一个产品的规格。",
+    "words": [
+      "data",
+      "database",
+      "datasheet",
+      "metadata",
+      "dataset",
+      "datasets",
+      "databases"
+    ],
+    "exclude": {
+      "data-bound": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2576",
+    "meaning": "第三；三分之一；旧地理词族",
+    "core": "THIRD：顺序第三，整体中的三分之一",
+    "image": "third 的现代基本用法很直接；riding 的地区名称则保留较难一眼看出的三分区历史。",
+    "intro": "third 接古英语 þridda。riding 的行政地区义来自另一条古诺斯语三分之一词族路径，与骑乘同形却不是同一构词。",
+    "forms": "third → thirdly；地区名 riding 与第三、三分区的历史亲缘另看。\n\nthird 的序数形式有古老历史，分数名词可数一份、两份。",
+    "branches": [
+      [
+        "位置、份额与列举",
+        "third · thirdly"
+      ],
+      [
+        "同形不同来路的地区名",
+        "riding"
+      ],
+      [
+        "three／third → thirds：第三与三等份",
+        "third · thirds"
+      ]
+    ],
+    "contrasts": "three 数量，third 第三或三分之一；地理 riding 不由骑马一天覆盖的距离定义。",
+    "practice": "Thirdly, the old document describes how the county was divided into three ridings.\n\n第三，旧文件描述了这个郡如何分成三个区。",
+    "words": [
+      "third",
+      "thirdly",
+      "riding",
+      "thirds"
+    ],
+    "exclude": {
+      "third-pounder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3434",
+    "meaning": "漂亮；程度副词相当、挺",
+    "core": "PRETTY：好看与挺、相当分两种现代用法",
+    "image": "pretty 自己就能作程度副词；prettily 才专门把漂亮的方式放到动作上。",
+    "intro": "pretty 的旧来路有机巧、狡黠等义，后来发展出精巧、好看。古义有助看变化，不决定现代人的性格。",
+    "forms": "pretty → prettily、prettiness；pretty good、pretty much 留在基础词中对照。",
+    "branches": [
+      [
+        "外观评价与程度",
+        "pretty"
+      ],
+      [
+        "方式与性质",
+        "prettily · prettiness"
+      ]
+    ],
+    "contrasts": "pretty cold 挺冷，prettily decorated 装饰得漂亮；pretty 不等于只能夸外貌。",
+    "practice": "The room was prettily decorated, and the view was pretty good too.\n\n房间装饰得漂亮，窗外风景也挺不错。",
+    "words": [
+      "pretty",
+      "prettily",
+      "prettiness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2878",
+    "meaning": "击中；碰上；达到；热门作品",
+    "core": "HIT：碰中目标，也可碰上问题、达到数字",
+    "image": "现代 hit 不只暴力；体育、成功作品和固定俚语各自分开。",
+    "intro": "hit 有古诺斯语 hitta 等历史背景，从相遇、碰中发展出各种作用、达到用法。过去式、过去分词与原形同形。",
+    "forms": "hit → hitter；成功作品义 hit + maker → hitmaker；犯罪俚语 hit + man → hitman。\n\n北欧相遇、击中词族经借入发展，现代名词也数成功或检索命中。\n\n本族借入的击中词，过去仍是 hit，ing 则双写 t。",
+    "branches": [
+      [
+        "碰中及体育行动者",
+        "hit · hitter"
+      ],
+      [
+        "不同固定名词义的组合",
+        "hitmaker · hitman"
+      ],
+      [
+        "hit → hits：击中、成功作品与命中结果",
+        "hit · hits"
+      ],
+      [
+        "hit → hits → hitting：击中与双写 t",
+        "hit · hits · hitting"
+      ]
+    ],
+    "contrasts": "hitter 击球手，hitmaker 热门作品制作人，hitman 受雇杀手；三个名词不能因都含 hit 就互换。",
+    "practice": "The hitmaker wrote a hit song for a film about a hitman.\n\n这位金曲创作者为一部讲杀手的电影写了一首热门歌曲。",
+    "words": [
+      "hit",
+      "hitter",
+      "hitmaker",
+      "hitman",
+      "hits",
+      "hitting"
+    ],
+    "exclude": {
+      "hitless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2740",
+    "meaning": "听见；消息传来；听取",
+    "core": "HEAR：声音或消息到了你这里",
+    "image": "与 listen to 主动去听对照；hear 的信息来源还可以是信件、消息，而不只即时声波。",
+    "intro": "hear 接旧英语听见词族，heard 保留不规则过去形式。hearing 把能力或听取程序名词化，overhear 是旧前缀组合发展出的现代固定用法。",
+    "forms": "hear → hearing、hearer；over- + hear → overhear，过去式 overheard。\n\nhear → heard → heard；heard 接较早带 d 的过去形式，现代不读成 hear 原音直接加 d。\n\nun- 否定 + heard；unheard of 表从未听说、极不寻常，与声音没被听见的意思分别看搭配。\n\nhear 接古英语 hīeran、hēran 等，hears 与 heard 的元音不相同。\n\nhearing 的听取行为名词后来有正式听证、审理义；现代可数复数 hearings 常说一场场程序，听力能力通常不这样数。",
+    "branches": [
+      [
+        "感知、能力与接收者",
+        "hear · hearing · hearer"
+      ],
+      [
+        "旁听到别人的话",
+        "overhear"
+      ],
+      [
+        "hear 与 heard 的读音、时间变化",
+        "hear · heard"
+      ],
+      [
+        "unheard：没有被听见、没有被倾听",
+        "hear · heard · unheard"
+      ],
+      [
+        "hear → hears：听见、听说与审听",
+        "hear · hears"
+      ],
+      [
+        "hear → hearing → hearings：听取意见的程序",
+        "hearings"
+      ]
+    ],
+    "contrasts": "hear from 收到消息，hear of 听说过；hearing 是听力或听取程序；overhear 通常偶然，eavesdrop 更明确有意。",
+    "practice": "I heard from a friend who had overheard an interesting conversation.\n\n我收到朋友消息，他无意中听到一段有意思的对话。",
+    "words": [
+      "hear",
+      "hearing",
+      "hearer",
+      "overhear",
+      "heard",
+      "unheard",
+      "hears",
+      "hearings"
+    ],
+    "exclude": {
+      "hark": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2873",
+    "meaning": "生长；增加；种植；逐渐变得",
+    "core": "GROW：从长起来，到数量、能力、感觉的发展",
+    "image": "自身生长、培育作物与逐渐变得是三种常用结构；先看后面接对象还是状态。",
+    "intro": "grow 接古英语 grōwan。grew、grown 是不规则变化；growth 把过程名词化；regrow 再长，outgrow 长到不再适用。",
+    "forms": "grow → grown、growth、grower；re- + grow → regrow；outgrow 与旧衣物、习惯等一起理解。\n\ngrew /ɡruː/ 是过去式，grown 是过去分词；植物长大和人、情绪逐渐变化共用该变位。\n\ngrowing 直接加 -ing；w 在 ow 的元音组合中，不另读 /w/，也不双写。\n\n古英语 growan，三单加 s，不规则过去式 grew、分词 grown 保留。",
+    "branches": [
+      [
+        "动作、分词、过程与种植者",
+        "grow · grown · growth · grower"
+      ],
+      [
+        "再长与长过原有范围",
+        "regrow · outgrow"
+      ],
+      [
+        "grow、grew、grown：生长与逐渐变化",
+        "grow · grew · grown"
+      ],
+      [
+        "grow → growing：生长、增加与逐渐变得",
+        "grow · growing"
+      ],
+      [
+        "grow → grows：逐渐长大、变成某种状态",
+        "grow · grows · grew · grown"
+      ]
+    ],
+    "contrasts": "grow tomatoes 种番茄，grow tired 逐渐疲倦；grown 与 ground 分读分义；growth 是名词。",
+    "practice": "The grower watched new leaves regrow as the young trees continued their growth.\n\n幼树继续生长，种植者看着新叶重新长出来。",
+    "words": [
+      "grow",
+      "grown",
+      "growth",
+      "grower",
+      "regrow",
+      "outgrow",
+      "grew",
+      "growing",
+      "grows"
+    ],
+    "exclude": {}
+  }
+]

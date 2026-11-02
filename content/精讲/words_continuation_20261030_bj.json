@@ -1,0 +1,289 @@
+[
+  {
+    "word": "cell",
+    "ipa": "/sel/",
+    "meaning": "细胞；单人牢房、小室；电池单元；网络、组织的小单元",
+    "sense": "先想到分出来的一个小房间，再看一个系统里分出来的小单元；身体、通信、电池各有专门用法。",
+    "split": "接拉丁 cella 小房间、隔间，英语旧形后来又受法语影响。生物学早期借微小隔间形象命名，其他领域也各自借用，不是牢房里的东西都变成细胞。",
+    "history": [
+      [
+        "拉丁 cella → 旧英语、法语等 → cell",
+        "小房间、隔间"
+      ],
+      [
+        "现代 cell",
+        "牢房；细胞；电池单元；网络区域、组织小组等小单元"
+      ]
+    ],
+    "explanation": "a prison cell 牢房，a blood cell 血细胞，a solar cell 太阳能电池单元，cell division 细胞分裂。",
+    "usage": "a prison cell；a blood cell；a solar cell；cell division。",
+    "contrast": "cell 单元，battery 日常电池可包含一个或多个电化学单元；cell 和 sell 卖常同音，但来源不同。",
+    "examples": [
+      [
+        "The microscope revealed several living cells.",
+        "显微镜下可以看到几个活细胞。"
+      ],
+      [
+        "The prisoner returned to his cell.",
+        "囚犯回到了牢房。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cell",
+      "https://en.wiktionary.org/wiki/cell#English"
+    ]
+  },
+  {
+    "word": "cellmate",
+    "ipa": "/ˈselmeɪt/",
+    "meaning": "同牢房的囚犯；狱友",
+    "sense": "不只在同一座监狱，而是与另一个人共用同一间牢房。",
+    "split": "cell 牢房 + mate 同伴，按共同所在空间命名，和 roommate 室友结构相似。",
+    "history": [
+      [
+        "拉丁 cella → 旧英语、法语等 → cell",
+        "小房间、隔间"
+      ],
+      [
+        "现代 cell",
+        "牢房；细胞；电池单元；网络区域、组织小组等小单元"
+      ],
+      [
+        "cell + mate → cellmate",
+        "共享牢房的人"
+      ]
+    ],
+    "explanation": "his cellmate 他的同牢狱友，a former cellmate 曾经的同牢狱友。",
+    "usage": "his cellmate；a former cellmate；share a cell with a cellmate。",
+    "contrast": "cellmate 具体共享牢房，fellow prisoner 只说明同为囚犯；这里 cell 不取生物细胞义。",
+    "examples": [
+      [
+        "He shared his food with his cellmate.",
+        "他与同牢房的狱友分享食物。"
+      ],
+      [
+        "The memoir describes conversations with a former cellmate.",
+        "回忆录写到了与一位从前同牢狱友的谈话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cellmate#English"
+    ]
+  },
+  {
+    "word": "cellular",
+    "ipa": "英 /ˈseljələ/；美 /ˈseljələr/",
+    "meaning": "细胞的；由小单元组成的；蜂窝移动通信的",
+    "sense": "先看组成系统的小单元：生物里是细胞，移动通信里是分区覆盖的网络单元。",
+    "split": "借新拉丁 cellulāris，接 cellula 小室、细胞 + -āris。与 cell 同接拉丁小室词系，但借入链有别；通信义按网络划分成 cells 命名。",
+    "history": [
+      [
+        "拉丁 cella → cellula",
+        "小房间 → 小室的小称形式"
+      ],
+      [
+        "新拉丁 cellulāris → cellular",
+        "细胞、小单元相关的；不是英语 cell 临时加 -ular 的唯一历史"
+      ]
+    ],
+    "explanation": "cellular structure 细胞结构，cellular activity 细胞活动，a cellular network 蜂窝移动网络，cellular data 移动数据。",
+    "usage": "cellular structure；cellular activity；a cellular network；cellular data。",
+    "contrast": "cellular data 通常手机移动网络数据，不是手机里拍到的细胞照片；生物 cellular 与通信 cellular 由所指对象区分。",
+    "examples": [
+      [
+        "The course introduces basic cellular structures.",
+        "课程介绍基础细胞结构。"
+      ],
+      [
+        "She turned off cellular data while using Wi-Fi.",
+        "连接 Wi-Fi 时，她关闭了移动数据。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cellular",
+      "https://en.wiktionary.org/wiki/cellular#English"
+    ]
+  },
+  {
+    "word": "raise",
+    "ipa": "/reɪz/",
+    "meaning": "举起、提高；提出；筹集；抚养、饲养",
+    "sense": "让原来低的升高，或把问题带到大家眼前；把孩子养大、把资金凑起来也各有固定搭配。",
+    "split": "经中古英语借北欧 reisa，与 rise 的旧使动同族形式相连。现代规则变化 raised，不是 rise 的过去式；不是每个义都要逐字译成抬起来。",
+    "history": [
+      [
+        "古诺尔斯语 reisa → 中古英语 raisen、reysen → raise",
+        "使升起；与 rise 的日耳曼使动同族形式相关"
+      ],
+      [
+        "现代 raise",
+        "抬高、增加；提出；筹集；抚养、饲养"
+      ]
+    ],
+    "explanation": "raise your hand 举手，raise prices 提价，raise a question 提出问题，raise money 筹款，raise children 养育孩子。",
+    "usage": "raise your hand；raise prices；raise a question；raise money；raise children。",
+    "contrast": "Prices rise 自己上涨，The shop raises prices 店家提价。raise 常直接接被提升、提出、养育的对象；rose 是 rise 的过去式。",
+    "examples": [
+      [
+        "Please raise your hand if you have a question.",
+        "有问题请举手。"
+      ],
+      [
+        "The event raised money for the local library.",
+        "活动为当地图书馆筹到了钱。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/raise",
+      "https://en.wiktionary.org/wiki/raise#English"
+    ]
+  },
+  {
+    "word": "raising",
+    "ipa": "/ˈreɪzɪŋ/",
+    "meaning": "抬高、增加；筹集；养育；raise 的 -ing 形式",
+    "sense": "把 raise 的动作看成过程；raise 什么，就决定是提价、筹钱还是养孩子。",
+    "split": "raise 去 e + -ing，中古英语已有 reysynge 等活动名词。拼写、词性改变不取消基础动词多种搭配。",
+    "history": [
+      [
+        "古诺尔斯语 reisa → 中古英语 raisen、reysen → raise",
+        "使升起；与 rise 的日耳曼使动同族形式相关"
+      ],
+      [
+        "现代 raise",
+        "抬高、增加；提出；筹集；抚养、饲养"
+      ],
+      [
+        "raise + -ing → raising",
+        "提升、提出、筹集或养育的活动"
+      ]
+    ],
+    "explanation": "raising children 养育孩子，raising funds 筹集资金，the raising of a flag 升旗。",
+    "usage": "raising children；raising funds；the raising of a flag。",
+    "contrast": "raising 使对象增加、成长，rising 自己上升；raising prices 提价，rising prices 正在上涨的价格。",
+    "examples": [
+      [
+        "Raising children takes patience.",
+        "养育孩子需要耐心。"
+      ],
+      [
+        "The team is raising funds for new equipment.",
+        "团队正为新设备筹集资金。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raising#English"
+    ]
+  },
+  {
+    "word": "raiser",
+    "ipa": "英 /ˈreɪzə/；美 /ˈreɪzər/",
+    "meaning": "提升、筹集、饲养者或器具〔常在组合中〕",
+    "sense": "按 raise 的动作称执行者：养某类动物的人，或把东西抬高的工具；通常需要前面的对象来讲清。",
+    "split": "raise + -er。单独 raiser 的信息常不完整，实际多见 cattle raiser 等组合和 fundraiser 复合词。",
+    "history": [
+      [
+        "古诺尔斯语 reisa → 中古英语 raisen、reysen → raise",
+        "使升起；与 rise 的日耳曼使动同族形式相关"
+      ],
+      [
+        "现代 raise",
+        "抬高、增加；提出；筹集；抚养、饲养"
+      ],
+      [
+        "raise + -er → raiser",
+        "执行提高、养育或筹集的人、器具"
+      ]
+    ],
+    "explanation": "a cattle raiser 养牛者，a sheep raiser 养羊者；fundraiser 已有精讲。",
+    "usage": "a cattle raiser；a sheep raiser；a livestock raiser。",
+    "contrast": "raiser /reɪzə/ 动作者，razor /reɪzə/ 剃刀在许多口音同音但不是同一个词；raising 不同于 rising。",
+    "examples": [
+      [
+        "The cattle raiser checks the herd every morning.",
+        "养牛者每天早上查看牛群。"
+      ],
+      [
+        "The region has many sheep raisers.",
+        "这个地区有许多养羊者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/raiser#English"
+    ]
+  },
+  {
+    "word": "awesomeness",
+    "ipa": "英 /ˈɔːsəmnəs/；美 /ˈɔːsəmnəs/〔部分口音 /ˈɑː-/〕",
+    "meaning": "惊人、了不起的特质；超棒之处〔口语〕",
+    "sense": "把让人赞叹、觉得太棒的那一面作为名词来夸；现代常是轻松夸张。",
+    "split": "awesome + -ness。旧敬畏与现代超棒两路都可能，日常多数语境靠评价语气理解，不等于正式量化指标。",
+    "history": [
+      [
+        "awe 敬畏 + -some → awesome",
+        "让人敬畏、惊叹的"
+      ],
+      [
+        "现代口语 awesome",
+        "太棒、非常好；旧敬畏义仍存在"
+      ],
+      [
+        "awesome + -ness → awesomeness",
+        "令人赞叹、很棒的性质"
+      ]
+    ],
+    "explanation": "the awesomeness of the view 景色的壮观，pure awesomeness 简直太棒了。用在正式报告中常显得口语化。",
+    "usage": "the awesomeness of；pure awesomeness；an example of awesomeness。",
+    "contrast": "awesome 形容很棒，awesomeness 名词说很棒这个特点；不把 -ness 当新的赞叹程度比较级。",
+    "examples": [
+      [
+        "The children were amazed by the awesomeness of the waterfall.",
+        "孩子们被瀑布的壮观震撼了。"
+      ],
+      [
+        "She described the whole concert as pure awesomeness.",
+        "她说整场音乐会简直棒极了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awesomeness#English"
+    ]
+  },
+  {
+    "word": "awesomely",
+    "ipa": "英 /ˈɔːsəmli/；美 /ˈɔːsəmli/〔部分口音 /ˈɑː-/〕",
+    "meaning": "极其、令人惊叹地；特别棒地〔多口语〕",
+    "sense": "把赞叹放到另一个特点前：极其厉害、壮观得惊人；也可夸事情做得很棒。",
+    "split": "awesome + -ly，形容词转副词。现代作程度加强时很口语，旧令人敬畏的感觉仍可存在。",
+    "history": [
+      [
+        "awe 敬畏 + -some → awesome",
+        "让人敬畏、惊叹的"
+      ],
+      [
+        "现代口语 awesome",
+        "太棒、非常好；旧敬畏义仍存在"
+      ],
+      [
+        "awesome + -ly → awesomely",
+        "令人敬畏、惊叹地；口语程度加强"
+      ]
+    ],
+    "explanation": "awesomely powerful 极其强大，awesomely good 好得惊人，awesomely beautiful 美得惊人。",
+    "usage": "awesomely powerful；awesomely good；awesomely beautiful。",
+    "contrast": "awesomely 常积极赞叹或强调震撼，awfully 常极其，也可非常糟地；同接 awe 的历史不保证现代语气一样。",
+    "examples": [
+      [
+        "The storm was awesomely powerful.",
+        "风暴的力量惊人。"
+      ],
+      [
+        "The band played awesomely well.",
+        "乐队演奏得特别棒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/awesomely#English"
+    ]
+  }
+]

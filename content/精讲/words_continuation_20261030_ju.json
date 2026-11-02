@@ -1,0 +1,208 @@
+[
+  {
+    "word": "neuropsychological",
+    "ipa": "英 /ˌnjʊərəʊˌsaɪkəˈlɒdʒɪkəl/；美 /ˌnʊroʊˌsaɪkəˈlɑːdʒɪkəl/",
+    "meaning": "神经心理学的",
+    "sense": "把脑、神经系统与记忆、注意、语言等心理能力的联系放在一起研究，就是神经心理学的视角。名字直接指出连接的两边。",
+    "split": "neuro- 神经 + psychological 心理学的，也可对应 neuropsychology + -ical。neuro- 联系希腊 neûron，psychological 接 psyche、psychology 一系。",
+    "history": [
+      [
+        "神经与心理两套研究概念",
+        "neuro- + psychological"
+      ],
+      [
+        "neuropsychological",
+        "关于脑、神经与认知、行为关系的"
+      ]
+    ],
+    "explanation": "neuropsychological research 神经心理学研究，a neuropsychological assessment 神经心理学评估。术语强调研究、评估的层面，不是把所有困难归为一个原因。",
+    "usage": "neuropsychological research；a neuropsychological assessment。",
+    "contrast": "psychological 范围广，neuropsychological 专注与神经系统的关系；neurobiological 更直接强调神经系统的生物学机制，二者领域可交叠。",
+    "examples": [
+      [
+        "The course introduces neuropsychological research on memory.",
+        "课程介绍了记忆方面的神经心理学研究。"
+      ],
+      [
+        "The paper discusses neuropsychological changes after brain injury.",
+        "论文讨论了脑损伤后的神经心理变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neuropsychological#English"
+    ]
+  },
+  {
+    "word": "executioner",
+    "ipa": "英 /ˌeksɪˈkjuːʃənə/；美 /ˌeksəˈkjuːʃənər/",
+    "meaning": "执行死刑者；刽子手",
+    "sense": "execution 可能只是执行计划，但 executioner 已固定得窄：通常是执行死刑的人。加了人物后缀，整词不再自动覆盖所有执行者。",
+    "split": "execution + -er。execution 更早联系拉丁 exsequī 跟随到底、执行等来源；本人物词接执行死刑这一义。",
+    "history": [
+      [
+        "拉丁 exsequī、execūtiō 等 → execution",
+        "执行、完成；其中发展出执行刑罚义"
+      ],
+      [
+        "execution + -er → executioner",
+        "负责执行死刑的人"
+      ]
+    ],
+    "explanation": "a public executioner 公开执行刑罚的行刑者，the executioner in the story 故事中的刽子手。历史、小说、司法报道中常见。",
+    "usage": "a public executioner；the executioner in the story。",
+    "contrast": "executioner 不是电脑里的程序执行器，也不是遗嘱执行人 executor。一个泛义 execution 加人物词尾后，已经有自己的固定用途。",
+    "examples": [
+      [
+        "The historical novel includes a character who works as an executioner.",
+        "历史小说中有一个担任行刑者的角色。"
+      ],
+      [
+        "The painting places the executioner in the background.",
+        "画中把刽子手安排在背景里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/executioner#English"
+    ]
+  },
+  {
+    "word": "fold",
+    "ipa": "英 /fəʊld/；美 /foʊld/",
+    "meaning": "折叠；褶、折痕；停业、弃牌；羊圈、群体〔另线〕",
+    "sense": "一张纸弯回来盖到自身上，是 fold。企业不再经营、牌局退出，也有收起来不继续的感觉；return to the fold 的群体则保存羊圈的另一条历史。",
+    "split": "折叠动词接古英语 fealdan；围栏名词接 falod 等，两条直接来源不同。现代一套拼写里并存，不能把羊圈说成折纸折出来。",
+    "history": [
+      [
+        "古英语 fealdan → 中古英语 folden → fold 动词",
+        "把材料弯回、折叠"
+      ],
+      [
+        "折叠这一线的现代扩展",
+        "褶、层；收起、停业、牌局弃牌等"
+      ],
+      [
+        "古英语 falod 等 → fold 围栏名词",
+        "羊圈、群体；return to the fold 接这一线"
+      ]
+    ],
+    "explanation": "fold the paper in half 把纸对折，fold your arms 双臂交叉，fold in ingredients 翻拌配料，the business folded 企业停业，return to the fold 回归群体。",
+    "usage": "fold in half；fold your arms；fold in；return to the fold。",
+    "contrast": "fold 不保证材料拉伸变长；fold in 食材常是轻轻翻拌，不是快速搅打。群体 fold 不与纸褶强套同一来源。",
+    "examples": [
+      [
+        "Fold the paper in half along the line.",
+        "沿线把纸对折。"
+      ],
+      [
+        "The business folded after several difficult years.",
+        "经历几年困境后，这家企业停业了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fold#English"
+    ]
+  },
+  {
+    "word": "folder",
+    "ipa": "英 /ˈfəʊldə/；美 /ˈfoʊldər/",
+    "meaning": "文件夹；折叠者、折叠器具〔依语境〕",
+    "sense": "把一张硬纸折成能夹住散页的外层，是实物 folder 的好画面。电脑再借这个组织功能，把一组文件的容器也叫 folder。",
+    "split": "fold + -er，可命名折叠者、器具，也固定指装散页的文件夹。虚拟文件夹由实体整理纸张的容器比喻而来。",
+    "history": [
+      [
+        "古英语 fealdan → 中古英语 folden → fold 动词",
+        "把材料弯回、折叠"
+      ],
+      [
+        "fold + -er → folder",
+        "折叠人物、器具；折叠成的文件夹"
+      ],
+      [
+        "电脑中的 folder",
+        "组织文件、子文件夹的虚拟容器"
+      ]
+    ],
+    "explanation": "a document folder 文件夹，create a folder 新建文件夹，a folder inside another folder 子文件夹。-er 在常用文件夹义里不指人。",
+    "usage": "a document folder；create a folder；a subfolder。",
+    "contrast": "file 是文件，folder 是组织文件的容器；纸质 folder 也不必带活页夹的金属环。与 binder 的功能有交叠，结构通常不同。",
+    "examples": [
+      [
+        "She put the receipts in a blue folder.",
+        "她把收据放进蓝色文件夹。"
+      ],
+      [
+        "Create a new folder for the photographs.",
+        "为这些照片新建一个文件夹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/folder#English"
+    ]
+  },
+  {
+    "word": "unfold",
+    "ipa": "英 /ʌnˈfəʊld/；美 /ʌnˈfoʊld/",
+    "meaning": "展开；逐步显现、发展",
+    "sense": "把折好的地图打开，是 unfold；故事一层层露出、事件一步步发生，也像慢慢打开原来看不见的部分。",
+    "split": "un- 反转动作 + fold，古英语已有 unfealdan，中古英语 unfolden。现代抽象义接展开、显露这一关系。",
+    "history": [
+      [
+        "古英语 fealdan → 中古英语 folden → fold 动词",
+        "把材料弯回、折叠"
+      ],
+      [
+        "un- + fold → unfold",
+        "解除折叠 → 逐步显露、发展"
+      ]
+    ],
+    "explanation": "unfold a map 展开地图，watch events unfold 看事情逐步发生，the story unfolds 故事展开。既可主动展开某物，也可说事情自己发展。",
+    "usage": "unfold a map；events unfold；the story unfolds。",
+    "contrast": "unfold 不要求人预先设计全部事件，只是描述逐渐发展、显现。unfold a map 也不等于把地图撕开。",
+    "examples": [
+      [
+        "He unfolded the map on the table.",
+        "他在桌上展开地图。"
+      ],
+      [
+        "We watched the events unfold over the next few days.",
+        "接下来几天，我们看着事情逐步发展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfold#English"
+    ]
+  },
+  {
+    "word": "foldable",
+    "ipa": "英 /ˈfəʊldəbəl/；美 /ˈfoʊldəbəl/",
+    "meaning": "可折叠的",
+    "sense": "平时展开用，需要收纳时能折小，就是 foldable。椅子、桌子、设备都可以用同样的能力关系来形容。",
+    "split": "fold + -able，表示能被折叠。能力性质不说明折叠次数、耐用程度，也不要求所有部位都柔软。",
+    "history": [
+      [
+        "古英语 fealdan → 中古英语 folden → fold 动词",
+        "把材料弯回、折叠"
+      ],
+      [
+        "fold + -able → foldable",
+        "具有折叠能力的"
+      ]
+    ],
+    "explanation": "a foldable chair 折叠椅，a foldable table 折叠桌，a foldable screen 可折叠屏幕。物件可通过关节、铰链或材料本身实现折叠。",
+    "usage": "a foldable chair；a foldable table；a foldable screen。",
+    "contrast": "foldable 强调折叠能力，flexible 强调柔性、灵活。通过硬铰链折叠的椅子不必整体柔软。",
+    "examples": [
+      [
+        "They carried a foldable table to the picnic.",
+        "他们带着一张折叠桌去野餐。"
+      ],
+      [
+        "The chair is foldable and easy to store.",
+        "这把椅子可以折叠，容易收纳。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foldable#English"
+    ]
+  }
+]

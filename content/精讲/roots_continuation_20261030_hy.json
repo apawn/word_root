@@ -1,0 +1,183 @@
+[
+  {
+    "id": "B3473",
+    "meaning": "没有覆盖、保护或掩饰",
+    "core": "NAKED：该有的一层遮盖没有了",
+    "image": "naked → nakedness 这种状态；nakedly 以无遮掩方式。肉眼、裸线和野心按不同对象理解。",
+    "intro": "人体是直观入口，但现代比喻很常见。先问缺了衣物、保护层、仪器辅助，还是修饰动机的说辞。",
+    "forms": "nacod → naked；naked + -ness/-ly。naked 的 -ed 是旧形容词形态的一部分，读 /ɪd/。",
+    "branches": [
+      [
+        "无遮盖性质、状态与方式",
+        "naked · nakedness · nakedly"
+      ]
+    ],
+    "contrasts": "naked eye 是不借相应仪器的观察；nakedly 不总是中性公开；naked 不是普通现代动词加 -ed。",
+    "practice": "His naked ambition was expressed nakedly, without a polite excuse.\n\n他赤裸裸地表达野心，连个客气借口都没有。",
+    "words": [
+      "naked",
+      "nakedness",
+      "nakedly"
+    ],
+    "exclude": {
+      "half-naked": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "naked-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3336",
+    "meaning": "帆与航行，以及从帆形状、位置产生的组合",
+    "core": "SAIL：帆推动船，航行又成为更广的动作",
+    "image": "sail → sailing/sailor；topsail、mainsail 标帆位；sailboat 用帆的船；sailfish 以背鳍似帆得名。",
+    "intro": "物件、活动、人物和位置分别看，最后再放进轻快前行的比喻。船 sail 不要求每次都真由风帆驱动。",
+    "forms": "seġl/seġlan → sail；sail + -ing；sailer → sailor；top/main + sail；sail + boat/fish。\n\nsailor 早有 sailer 拼写，后用 -or，可能受 tailor 等类比影响。现代复数 sailors 可指船员、水手或帆船运动者，不局限正在操帆。",
+    "branches": [
+      [
+        "帆、活动与人物",
+        "sail · sailing · sailor"
+      ],
+      [
+        "帆位与船型",
+        "topsail · mainsail · sailboat"
+      ],
+      [
+        "外形命名",
+        "sailfish"
+      ],
+      [
+        "sail + 人名后缀 → sailors",
+        "sailors"
+      ]
+    ],
+    "contrasts": "sale 常同音另词；sailor 的 -or 是后起固定拼法；topsail 有弱读；sailfish 不等于 swordfish。",
+    "practice": "The sailor checked the topsail before the sailing.\n\n开航前，水手检查了上帆。",
+    "words": [
+      "sail",
+      "sailing",
+      "sailor",
+      "topsail",
+      "mainsail",
+      "sailboat",
+      "sailfish",
+      "sailors"
+    ],
+    "exclude": {
+      "after-sail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3616",
+    "meaning": "外观难看和局面、行为恶劣",
+    "core": "UGLY：从令人可怕，走到难看、丑恶、糟糕",
+    "image": "ugly → ugliness；局面 turn ugly 不说外貌，而说敌意和恶化。",
+    "intro": "不要把丑固定贴在人的脸上。建筑、真相、争执都可以成为对象，评价的方面随对象变。",
+    "forms": "uggr → uggligr → ugly；ugly 的 y 变 i 加 -ness。",
+    "branches": [
+      [
+        "评价及其性质",
+        "ugly · ugliness"
+      ]
+    ],
+    "contrasts": "ugly 是形容词；ugliness 不只外貌；turn ugly 说气氛、事态恶化。",
+    "practice": "The ugly argument revealed the ugliness of their rivalry.\n\n那场恶劣争吵暴露了他们竞争中的丑恶。",
+    "words": [
+      "ugly",
+      "ugliness"
+    ],
+    "exclude": {
+      "uglies": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3495",
+    "meaning": "龙的形象如何进入动物、植物常用名",
+    "core": "DRAGON：传说生物的形象，借给现实的翅膀和花嘴",
+    "image": "dragon 传说龙；dragonfly 蜻蜓；snapdragon 金鱼草，借花嘴的外形。",
+    "intro": "共同成分只是命名联想，不代表现实生物来自龙。复合词整体已经有固定常用名。",
+    "forms": "希腊 drákōn → 拉丁 dracō → 法语 dragon → 英语 dragon；dragon + fly；snap + dragon。",
+    "branches": [
+      [
+        "传说与现实命名",
+        "dragon · dragonfly · snapdragon"
+      ]
+    ],
+    "contrasts": "dragonfly 不是小龙，snapdragon 不是龙的动作；具体命名故事有的清楚，有的只宜保留为形象联想。",
+    "practice": "A dragonfly rested above the snapdragons in the garden.\n\n一只蜻蜓停在花园的金鱼草上方。",
+    "words": [
+      "dragon",
+      "dragonfly",
+      "snapdragon"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2725",
+    "meaning": "手的特点、惯用方向及相关比喻",
+    "core": "HANDED：用哪只手，或按什么方式出手",
+    "image": "handed 性质或动作同形；handedness 是性质名词；underhanded 不光彩；shorthanded 则把 hand 当人手。",
+    "intro": "一只手可以代表部位、用手方式、交付动作或工作人员。先确认 hand 在组合里扮演哪个角色。",
+    "forms": "hand + -ed → handed；handed + -ness；under + hand + -ed；short + handed。",
+    "branches": [
+      [
+        "用手性质及递交动作",
+        "handed · handedness"
+      ],
+      [
+        "方位与人手比喻",
+        "underhanded · shorthanded"
+      ]
+    ],
+    "contrasts": "handed 读 /ɪd/；handedness 不说另一手无能力；underhanded 与 shorthanded 常用义不同；下手投球不自动指作弊。",
+    "practice": "The shorthanded team rejected underhanded ways of catching up.\n\n人手不足的团队仍拒绝用不光彩手段追赶。",
+    "words": [
+      "handed",
+      "handedness",
+      "underhanded",
+      "shorthanded"
+    ],
+    "exclude": {
+      "many-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "right-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "two-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "both-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sure-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "full-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "left-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "side-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "white-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "large-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "level-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "open-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "either-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "red-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "strong-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dead-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fast-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wide-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "broken-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dry-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "weak-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dirty-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "loose-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "naked-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "steady-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bloody-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gentle-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "swift-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tender-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "neat-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lily-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "horny-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slack-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "numb-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shovel-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coarse-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spade-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dab-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deft-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-handedness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ambi-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

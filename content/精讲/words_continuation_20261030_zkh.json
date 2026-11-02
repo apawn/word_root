@@ -1,0 +1,1100 @@
+[
+  {
+    "word": "interviewing",
+    "ipa": "英 /ˈɪntəvjuːɪŋ/；美 /ˈɪntɚvjuːɪŋ/",
+    "meaning": "采访；面试；访谈〔分词、动名词〕",
+    "sense": "带着问题与某人谈，借回答了解经历、能力、想法，就是 interviewing。新闻采访、招聘面试、研究访谈，都是这幅有目的交谈的画面。",
+    "split": "interview + 完整 -ing → interviewing，原词不改。经法语 entrevue 相见，联系 entre- 相互、之间与 voir 看，后者远接拉丁 videre。",
+    "history": [
+      [
+        "法语相见、会面 → interview 名词",
+        "英语后来发展出采访谈话等用途"
+      ],
+      [
+        "相应动词 interview + -ing → interviewing",
+        "现代对象可以是消息来源、求职者或研究参与者"
+      ]
+    ],
+    "explanation": "interviewing a writer 是采访作家；interviewing candidates 是面试候选人；interviewing residents 是访谈居民。",
+    "usage": "interviewing a writer；interviewing candidates；interviewing residents。",
+    "contrast": "interviewing 的一方通常在提问、了解；being interviewed 从接受采访、面试的人来讲。He is interviewing candidates 是他在面试别人。",
+    "examples": [
+      [
+        "The journalist is interviewing a local artist.",
+        "记者正在采访当地一位艺术家。"
+      ],
+      [
+        "The team spent the morning interviewing candidates.",
+        "团队上午都在面试候选人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interviewing#English",
+      "https://www.etymonline.com/word/interview"
+    ]
+  },
+  {
+    "word": "lawmakers",
+    "ipa": "英 /ˈlɔːmeɪkəz/；美 /ˈlɔːmeɪkɚz/",
+    "meaning": "立法者；立法机构成员〔复数〕",
+    "sense": "参与把法律制定出来的人，是 lawmakers。law 告诉你制定的是什么，makers 告诉你这些人承担制定的角色。",
+    "split": "law 法律 + maker 制定者 → lawmaker，再加 -s → lawmakers。maker 来自 make 去末尾 e 加完整 -er；整个词是在英语中形成的复合词。",
+    "history": [
+      [
+        "make 做、制定 + -er → maker",
+        "以动作命名参与者"
+      ],
+      [
+        "law + maker → lawmaker → lawmakers",
+        "现代常作新闻、公共事务中的立法者名称"
+      ]
+    ],
+    "explanation": "local lawmakers 是地方立法者；lawmakers debating a bill 是正在讨论法案的立法者；a group of lawmakers 是一群立法机构成员。",
+    "usage": "local lawmakers；lawmakers debating a bill；a group of lawmakers。",
+    "contrast": "lawmakers 与 legislators 常指相近角色，前者用英语常见材料组成，后者接拉丁词族。lawyers 是律师，不能仅因都含 law 就混为一类。",
+    "examples": [
+      [
+        "The history book describes the work of early lawmakers.",
+        "历史书介绍了早期立法者的工作。"
+      ],
+      [
+        "The lawmakers discussed the proposal at a public meeting.",
+        "立法机构成员在公开会议上讨论了这项提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lawmakers#English",
+      "https://www.etymonline.com/word/lawmaker"
+    ]
+  },
+  {
+    "word": "leased",
+    "ipa": "英、美 /liːst/",
+    "meaning": "出租、租用了〔过去形式〕",
+    "sense": "物品、房屋没有卖掉，只按约定让另一方使用一段时间，就是 leased。谁提供使用权、谁付钱使用，要看 from 和 to 的方向。",
+    "split": "lease 去末尾 e，加完整 -ed → leased，/s/ 后读 /t/。经法语 laissier 让、准许、留下，远接拉丁 laxare 放松、放开，形成租让使用权的词族。",
+    "history": [
+      [
+        "法语让出、准许使用等材料 → lease 租让",
+        "相关名词表示租约"
+      ],
+      [
+        "lease 动词 + -ed → leased",
+        "现代过去式可从出租方或租用方叙述"
+      ]
+    ],
+    "explanation": "leased from 是从某人那里租用；leased to 是租给某人；leased equipment 是租赁设备。",
+    "usage": "leased from；leased to；leased equipment。",
+    "contrast": "She leased the room to an artist 是她把房间租给艺术家；she leased it from an artist 则是她向艺术家承租。动词相同，方向由介词决定。",
+    "examples": [
+      [
+        "They leased a small studio from the owner.",
+        "他们向房主租了一间小工作室。"
+      ],
+      [
+        "The owner leased the building to a theatre group.",
+        "房主把建筑租给了一个剧团。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leased#English",
+      "https://www.etymonline.com/word/lease"
+    ]
+  },
+  {
+    "word": "mails",
+    "ipa": "英、美 /meɪlz/",
+    "meaning": "邮寄；寄送〔第三人称单数〕",
+    "sense": "把信、包裹交给邮递系统送出去，是 mails。动词句里最重要的是有人正在把东西寄走。",
+    "split": "mail + -s → mails，/l/ 后读 /z/。mail 邮件较早是装物品的袋子名，经法语、日耳曼材料进入英语；由装信袋子发展到邮件，再形成寄送动词。",
+    "history": [
+      [
+        "袋子 → 装信的袋子 → mail 邮件、邮递",
+        "容器名称转到里面的内容及运送系统"
+      ],
+      [
+        "mail 动词寄送 + -s → mails",
+        "现代美式邮寄用法尤其常见，英式也常用 post"
+      ]
+    ],
+    "explanation": "mails a letter 是寄信；mails a parcel 是寄包裹；mails something to someone 是把某物邮寄给某人。",
+    "usage": "mails a letter；mails a parcel；mails something to someone。",
+    "contrast": "mails 作这里的动词自然；普通 mail 作名词通常不可数，几封信可说 letters，几封电子邮件通常说 emails。先看它在句中做什么。",
+    "examples": [
+      [
+        "She mails a postcard to her grandmother every month.",
+        "她每个月给祖母寄一张明信片。"
+      ],
+      [
+        "The office mails printed copies to readers who request them.",
+        "办公室向提出申请的读者邮寄纸质副本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mails#English",
+      "https://www.etymonline.com/word/mail"
+    ]
+  },
+  {
+    "word": "missionaries",
+    "ipa": "英 /ˈmɪʃənəriz/；美 /ˈmɪʃəneriz/",
+    "meaning": "传教士；宗教派遣人员〔复数〕",
+    "sense": "被宗教团体派到某个地方传播信仰的人，常叫 missionaries。这个词里能抓住的画面，是带着某项宗教使命被派出去。",
+    "split": "missionary 的 y 变 i，加 -es → missionaries。经现代拉丁 missionarius 与 missionem、missio 派遣，来自 mittere 送、派；mission + -ary 可作现代词族对照。",
+    "history": [
+      [
+        "拉丁 mittere 派遣 → missio → missionarius",
+        "与被派去执行使命的关系相连"
+      ],
+      [
+        "英语 missionary 形容词转人名词 → missionaries",
+        "现代名词通常以宗教传播工作为核心"
+      ]
+    ],
+    "explanation": "Christian missionaries 是基督教传教士；missionaries working abroad 是在国外工作的传教士；the letters of missionaries 是传教士的信件。",
+    "usage": "Christian missionaries；missionaries working abroad；the letters of missionaries。",
+    "contrast": "missionaries 通常说宗教传播人员，volunteers 只说志愿者。两种身份可能重合，但只知道某人在海外工作，不能直接称为 missionary。",
+    "examples": [
+      [
+        "The archive contains letters written by missionaries.",
+        "档案中保存着传教士写的信。"
+      ],
+      [
+        "The historian compares the accounts of travellers and missionaries.",
+        "历史学家比较了旅行者与传教士留下的记述。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/missionaries#English",
+      "https://www.etymonline.com/word/missionary"
+    ]
+  },
+  {
+    "word": "philosophers",
+    "ipa": "英 /fɪˈlɒsəfəz/；美 /fɪˈlɑːsəfɚz/",
+    "meaning": "哲学家；哲学研究者〔复数〕",
+    "sense": "不断追问什么是真、怎样生活、我们凭什么知道的人，可以成为 philosophers。词源把这类人叫作热爱智慧的人。",
+    "split": "philosopher + -s → philosophers。经法语、拉丁 philosophus 接希腊 philosophos，含 phil- 爱与 soph- 智慧；英语 -er 形式受法语行为者变体影响。",
+    "history": [
+      [
+        "希腊 philos 爱 + sophos 智慧 → philosophos",
+        "用追求智慧给这类思考者命名"
+      ],
+      [
+        "拉丁、法语相关形式 → philosopher → philosophers",
+        "现代常说系统研究哲学问题的人"
+      ]
+    ],
+    "explanation": "ancient philosophers 是古代哲学家；moral philosophers 是道德哲学家；the writings of philosophers 是哲学家的著作。",
+    "usage": "ancient philosophers；moral philosophers；the writings of philosophers。",
+    "contrast": "philosophers 是研究、思考哲学问题的人，philosophy 则是哲学这门学科或思想体系。词源里爱智慧的画面，能帮助把人和所追求的学问联系起来。",
+    "examples": [
+      [
+        "The class compared the ideas of two ancient philosophers.",
+        "课堂上比较了两位古代哲学家的思想。"
+      ],
+      [
+        "The book asks how philosophers have understood friendship.",
+        "这本书探讨了哲学家们怎样理解友谊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/philosophers#English",
+      "https://www.etymonline.com/word/philosopher"
+    ]
+  },
+  {
+    "word": "pillars",
+    "ipa": "英 /ˈpɪləz/；美 /ˈpɪlɚz/",
+    "meaning": "柱子；重要支柱、支撑〔复数〕",
+    "sense": "一根立着的柱撑住上方，也把空间分出结构，是 pillar。把柱子换成一个人、一条原则，就能理解某个群体的重要支柱。",
+    "split": "pillar + -s → pillars，末尾 /z/。经法语 piler、中世纪拉丁 pilare，接拉丁 pila 柱、石障，远源未定；支撑的比喻很早出现。",
+    "history": [
+      [
+        "拉丁、法语柱形结构名称 → pillar",
+        "可以承重，也可以作为独立柱形物"
+      ],
+      [
+        "具体柱子 → 机构、社群的重要支撑 → pillars",
+        "现代复数同时用于建筑、原则与人物"
+      ]
+    ],
+    "explanation": "stone pillars 是石柱；pillars of a community 是社区支柱人物；the pillars of a system 是一个体系的重要基础。",
+    "usage": "stone pillars；pillars of a community；the pillars of a system。",
+    "contrast": "pillars 强调支撑整体的重要部分；在建筑里也可能有装饰性的柱形物。抽象 pillars 可以是多条共同支撑的原则，不必只有一个核心。",
+    "examples": [
+      [
+        "Tall stone pillars frame the entrance.",
+        "高高的石柱围出了入口。"
+      ],
+      [
+        "Trust and patience are pillars of their friendship.",
+        "信任与耐心是他们友谊的重要支柱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pillars#English",
+      "https://www.etymonline.com/word/pillar"
+    ]
+  },
+  {
+    "word": "predicting",
+    "ipa": "英、美 /prɪˈdɪktɪŋ/",
+    "meaning": "预测；预言〔分词、动名词〕",
+    "sense": "事情还没发生，先根据线索、模型或判断，说它可能怎样，就是 predicting。它关注提前作出的判断。",
+    "split": "predict + 完整 -ing → predicting，原词不改。英语近源有 prediction 逆构与拉丁分词材料，远接 prae- 预先 + dicere 说 → praedicere。",
+    "history": [
+      [
+        "拉丁 praedicere 提前说 → prediction、predict 词族",
+        "现代方便的词形拆分不等于英语出现顺序"
+      ],
+      [
+        "predict + -ing → predicting",
+        "现代可以描述基于数据的预测，也可描述一般预言"
+      ]
+    ],
+    "explanation": "predicting the weather 是预测天气；predicting an outcome 是预测结果；a model for predicting 是用于预测的模型。",
+    "usage": "predicting the weather；predicting an outcome；a model for predicting。",
+    "contrast": "predicting 是提前判断，reporting 常在叙述已经观察到的信息。预测有依据也仍可能不准，不能把预测句直接读成已发生的事实。",
+    "examples": [
+      [
+        "The lesson compares two methods of predicting the weather.",
+        "这节课比较了两种预测天气的方法。"
+      ],
+      [
+        "Predicting the ending was harder than I expected.",
+        "猜中结局比我预想的难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predicting#English",
+      "https://www.etymonline.com/word/predict"
+    ]
+  },
+  {
+    "word": "reacting",
+    "ipa": "英、美 /riˈæktɪŋ/",
+    "meaning": "作出反应；起反应〔分词、动名词〕",
+    "sense": "别人说了什么、环境发生变化，你接着有了动作、情绪或回应，就是 reacting。反应可以很明显，也可以只是脸上的一个变化。",
+    "split": "react + 完整 -ing → reacting，原词不改。英语 re- 回、相对 + act 行动形成 react，核心关系是受到作用后产生回应。",
+    "history": [
+      [
+        "英语 re- + act → react",
+        "早期强调被作用的东西产生反向、回应作用"
+      ],
+      [
+        "行为、情绪与物质反应等用法 + -ing → reacting",
+        "现代词形把过程作为正在发生或讨论的活动"
+      ]
+    ],
+    "explanation": "reacting to the news 是对消息作出反应；reacting calmly 是平静应对；reacting with surprise 是表现出惊讶。",
+    "usage": "reacting to；reacting calmly；reacting with surprise。",
+    "contrast": "reacting 的反应不要求说话，replying 则主要是作答。看到消息后皱眉、笑、沉默，都可能是 reacting 的表现。",
+    "examples": [
+      [
+        "The photograph shows the audience reacting to the final scene.",
+        "照片中，观众正在对最后一幕作出反应。"
+      ],
+      [
+        "She is reacting calmly to the unexpected change.",
+        "她正在平静应对这次意外变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reacting#English",
+      "https://www.etymonline.com/word/react"
+    ]
+  },
+  {
+    "word": "rebuilt",
+    "ipa": "英、美 /ˌriːˈbɪlt/",
+    "meaning": "重建了；重新建立的〔过去形式〕",
+    "sense": "旧的东西损坏了、拆了，或关系受挫了，再把它建起来，就是 rebuilt。可以是桥，也可以是信任、团队。",
+    "split": "re- 再次 + build 建造 → rebuild，过去式、过去分词沿 build → built 变成 rebuilt。这里直接换用 built，没有加 -ed。",
+    "history": [
+      [
+        "英语 re- + build → rebuild",
+        "把建造动作再做一次、恢复结构"
+      ],
+      [
+        "build 的不规则形式 built → rebuilt",
+        "现代实体重建与关系恢复均常用"
+      ]
+    ],
+    "explanation": "rebuilt a bridge 是重建了桥；a rebuilt engine 是经过重新修整、装配的发动机；rebuilt trust 是重建了信任。",
+    "usage": "rebuilt a bridge；a rebuilt engine；rebuilt trust。",
+    "contrast": "repaired 强调修好，rebuilt 强调重新建立、较大程度重做。具体工程中两者可能有交叠，读词时先抓住重新建起的程度与方向。",
+    "examples": [
+      [
+        "The village rebuilt the bridge after the storm.",
+        "风暴过后，村里重建了那座桥。"
+      ],
+      [
+        "The two friends slowly rebuilt their trust.",
+        "两位朋友慢慢重建了彼此的信任。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rebuilt#English",
+      "https://www.etymonline.com/word/rebuild"
+    ]
+  },
+  {
+    "word": "scans",
+    "ipa": "英、美 /skænz/",
+    "meaning": "扫描；扫描结果〔复数〕；扫视、扫描〔第三人称单数〕",
+    "sense": "让视线或设备从一个区域逐点经过，是 scans。人可以扫视人群，机器可以扫描文件；扫描所得的图像也叫 scans。",
+    "split": "scan + -s → scans，/n/ 后读 /z/。远接拉丁 scandere 攀升，晚期用于分析诗律；英语从划分诗律发展到逐点查看，再有现代设备扫描义。",
+    "history": [
+      [
+        "拉丁分析诗律的 scandere → scan",
+        "更远的攀升与诗律之间如何关联，仍有不同解释"
+      ],
+      [
+        "细看、快速扫视与设备扫描 → scans",
+        "现代名词复数和第三人称动词同形"
+      ]
+    ],
+    "explanation": "scans a document 是扫描文件；scans the room 是扫视房间；digital scans 是数字扫描图像。",
+    "usage": "scans a document；scans the room；digital scans。",
+    "contrast": "scan 可以仔细逐点检查，也可以快速扫看，具体由目的、搭配决定。scan for a name 通常是快速寻找名字，未必逐字读完全部内容。",
+    "examples": [
+      [
+        "The device scans each page and saves an image.",
+        "设备扫描每一页并保存图像。"
+      ],
+      [
+        "The archive contains high-quality scans of the letters.",
+        "档案中有这些信件的高质量扫描图像。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scans#English",
+      "https://www.etymonline.com/word/scan"
+    ]
+  },
+  {
+    "word": "seekers",
+    "ipa": "英 /ˈsiːkəz/；美 /ˈsiːkɚz/",
+    "meaning": "寻求者；追求者〔复数〕",
+    "sense": "有个想得到、想找到的东西，持续去寻求它的人，就是 seeker。seekers 前面常有一个词，直接告诉你在寻什么。",
+    "split": "seek 寻找 + 完整 -er 行为者 → seeker，再加 -s → seekers。seek 承古英语 secan 寻找、追求的日耳曼词族，seeker 在英语中由它形成。",
+    "history": [
+      [
+        "英语 seek + -er → seeker",
+        "用寻求动作命名参与者"
+      ],
+      [
+        "seeker + -s → seekers",
+        "现代常用于工作、冒险、真理等不同追求"
+      ]
+    ],
+    "explanation": "job seekers 是求职者；adventure seekers 是寻求冒险的人；truth seekers 是求真者。",
+    "usage": "job seekers；adventure seekers；truth seekers。",
+    "contrast": "seekers 强调正在寻求、追求，finders 强调已经找到。求职者 job seekers 还没有因此自动获得工作。",
+    "examples": [
+      [
+        "The workshop helps job seekers practise interviews.",
+        "工作坊帮助求职者练习面试。"
+      ],
+      [
+        "The story appeals to adventure seekers.",
+        "这个故事对喜欢寻求冒险的人有吸引力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seekers#English",
+      "https://www.etymonline.com/word/seeker"
+    ]
+  },
+  {
+    "word": "sentencing",
+    "ipa": "英、美 /ˈsentənsɪŋ/",
+    "meaning": "量刑；判处刑罚〔分词、动名词〕",
+    "sense": "法院决定、宣布某人应受什么刑罚，这一环节就是 sentencing。重点在刑罚的种类、程度，而非日常语法里的造句。",
+    "split": "sentence 去末尾 e，加完整 -ing → sentencing。sentence 经法语、拉丁 sententia 意见、判断，远接 sentire 感知、认为；英语动词可能由判决名词形成，也可能接法语相应动词。",
+    "history": [
+      [
+        "拉丁 sententia 判断、意见 → sentence 判决",
+        "同一词族另一支发展出语法句子义"
+      ],
+      [
+        "sentence 动词判处刑罚 + -ing → sentencing",
+        "现代也可作量刑、判刑这一环节的名词"
+      ]
+    ],
+    "explanation": "a sentencing hearing 是量刑听证；sentencing a person 是判处某人刑罚；sentencing guidelines 是量刑指引。",
+    "usage": "a sentencing hearing；sentencing guidelines；sentencing a person。",
+    "contrast": "sentencing 关注判处何种刑罚，convicting 关注认定有罪。法律故事中的这两个动作所处环节不同，不能仅因都在法庭里就混译。",
+    "examples": [
+      [
+        "The courtroom drama ends before the sentencing hearing.",
+        "这部法庭剧在量刑听证前结束。"
+      ],
+      [
+        "The book explains the difference between conviction and sentencing.",
+        "这本书解释了定罪与量刑的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentencing#English",
+      "https://www.etymonline.com/word/sentence",
+      "https://sentencingcouncil.org.uk/about-sentencing/how-sentencing-works/"
+    ]
+  },
+  {
+    "word": "shaving",
+    "ipa": "英、美 /ˈʃeɪvɪŋ/",
+    "meaning": "剃须、剃毛；刮削〔分词、动名词〕",
+    "sense": "沿着表面轻轻削掉一层，是 shaving。对象是胡须时就是剃须，对象是材料时就是削去薄层。",
+    "split": "shave 去末尾 e，加完整 -ing → shaving。承古英语 sceafan 刮、削、磨光，远连日耳曼刮削词族，基本动作长期沿用。",
+    "history": [
+      [
+        "古英语 sceafan 刮削 → shave",
+        "从刮削表面用于去除毛发、材料薄层"
+      ],
+      [
+        "shave + -ing → shaving",
+        "现代可以作正在剃、刮的形式，也可说这种活动"
+      ]
+    ],
+    "explanation": "shaving his beard 是剃胡须；shaving foam 是剃须泡沫；shaving a thin layer off 是刮去一薄层。",
+    "usage": "shaving his beard；shaving foam；shaving a thin layer off。",
+    "contrast": "shaving 强调从表面剃、削，trimming 常说修短、修齐。shavings 又是常见复数名词，指刨花、薄屑，是动作结果的另一用法。",
+    "examples": [
+      [
+        "He was shaving when the doorbell rang.",
+        "门铃响时，他正在剃须。"
+      ],
+      [
+        "The craft demonstration shows someone shaving a thin layer off the wood.",
+        "手工演示展示了怎样从木头表面削下一薄层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shaving#English",
+      "https://www.etymonline.com/word/shave"
+    ]
+  },
+  {
+    "word": "stresses",
+    "ipa": "英、美 /ˈstresɪz/",
+    "meaning": "压力、负担；重音〔复数〕；强调〔第三人称单数〕",
+    "sense": "有东西在把人或材料拉紧、压住，是 stress 的压力画面；说话把某一部分加重，它就更显眼，也能用 stresses。",
+    "split": "stress + -es → stresses，/s/ 后读 /ɪz/。部分来自 distress 缩短，部分接法语 estrece 紧迫，远连拉丁 strictus 拉紧的、stringere 拉紧。",
+    "history": [
+      [
+        "拉紧、紧迫的法语与拉丁词族 → stress",
+        "发展出困境、负担及物理压力等用法"
+      ],
+      [
+        "语言重音、着重说明等义 + -es → stresses",
+        "现代名词复数、动词第三人称同形"
+      ]
+    ],
+    "explanation": "the stresses of work 是工作压力；word stresses 是单词重音；stresses the importance of 是强调某事的重要性。",
+    "usage": "the stresses of work；word stresses；stresses the importance of。",
+    "contrast": "stresses 强调时可以说把一个观点放重；重音是把某个音节读得突出。两个用法都可用加重这一画面记，实际语法角色仍要分清。",
+    "examples": [
+      [
+        "The article discusses the stresses of moving to a new city.",
+        "文章讨论了迁居新城市带来的压力。"
+      ],
+      [
+        "The teacher marked the stresses above the words.",
+        "老师在单词上方标出了重音。"
+      ],
+      [
+        "The guide stresses the importance of checking the details.",
+        "指南强调核对细节的重要性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stresses#English",
+      "https://www.etymonline.com/word/stress"
+    ]
+  },
+  {
+    "word": "surpassed",
+    "ipa": "英 /səˈpɑːst/；美 /sɚˈpæst/",
+    "meaning": "超过了；胜过了〔过去形式〕",
+    "sense": "原来有一条高度、纪录或预期，你做到的越过了它，就是 surpassed。被超过的对象可以是别人，也可以是自己过去的水平。",
+    "split": "surpass + 完整 -ed → surpassed，/s/ 后读 /t/。经法语 surpasser，含 sur- 越过、在上与 passer 经过，整体就是超出、胜过。",
+    "history": [
+      [
+        "法语 sur- + passer → surpasser → surpass",
+        "经过某界线并达到更高程度"
+      ],
+      [
+        "surpass + -ed → surpassed",
+        "现代常比较成果、纪录、预期和表现"
+      ]
+    ],
+    "explanation": "surpassed expectations 是超出预期；surpassed the record 是超过纪录；surpassed her previous work 是胜过自己过去的作品。",
+    "usage": "surpassed expectations；surpassed the record；surpassed previous work。",
+    "contrast": "surpassed 不要求有一场正式比赛。一次活动的效果超过预期，也可以说 surpassed expectations，重点是结果越过了比较基准。",
+    "examples": [
+      [
+        "The response to the exhibition surpassed our expectations.",
+        "展览得到的反响超出了我们的预期。"
+      ],
+      [
+        "Her latest novel surpassed her earlier work in complexity.",
+        "她最新小说的复杂程度超过了早期作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surpassed#English",
+      "https://www.etymonline.com/word/surpass"
+    ]
+  },
+  {
+    "word": "sweets",
+    "ipa": "英、美 /swiːts/",
+    "meaning": "糖果；甜食〔复数〕",
+    "sense": "甜甜的、可以当小零食或餐后点心吃的东西，常叫 sweets。英式英语里尤其常用它说一颗颗糖果。",
+    "split": "sweet 形容词转名词，再加 -s → sweets，末尾 /ts/。sweet 承古英语 swete 甜的、令人愉快的；名词从甜的东西发展到甜食、糖果。",
+    "history": [
+      [
+        "古英语 sweet 甜、令人愉快 → sweet 名词",
+        "用性质直接称呼有这种性质的东西"
+      ],
+      [
+        "甜食、糖果等可数用法 → sweets",
+        "现代英式糖果用法尤其常见"
+      ]
+    ],
+    "explanation": "a bag of sweets 是一袋糖果；traditional sweets 是传统甜食；sweets after dinner 是饭后的甜食。",
+    "usage": "a bag of sweets；traditional sweets；sweets after dinner。",
+    "contrast": "sweets 英式常说糖果，美式 candy 常见；desserts 更明确说餐后甜点。sweet 作形容词时不加复数，如 sweet biscuits。",
+    "examples": [
+      [
+        "She brought a small bag of sweets for the journey.",
+        "她为旅途带了一小袋糖果。"
+      ],
+      [
+        "The market sells traditional sweets from different regions.",
+        "市场出售来自不同地区的传统甜食。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sweets#English",
+      "https://www.etymonline.com/word/sweet"
+    ]
+  },
+  {
+    "word": "termed",
+    "ipa": "英 /tɜːmd/；美 /tɜːrmd/",
+    "meaning": "称为；被命名为〔过去形式〕",
+    "sense": "给一种现象安上一个名称，说大家把它叫作什么，就是 termed。它常出现在解释概念、介绍术语的文字里。",
+    "split": "term + 完整 -ed → termed，/m/ 后读 /d/。term 经法语、拉丁 terminus 界限，后发展到界定概念的名称、术语，再形成称呼的动词。",
+    "history": [
+      [
+        "拉丁 terminus 界限 → term 范围、期限、特定表达",
+        "用一个表达界定所谈概念"
+      ],
+      [
+        "term 动词称为 + -ed → termed",
+        "现代常见被动 be termed，介绍某个名称"
+      ]
+    ],
+    "explanation": "was termed 是被称为；termed the effect 是给这个效应命名；commonly termed 是通常称为。",
+    "usage": "was termed；commonly termed；what is termed。",
+    "contrast": "termed 与 called 都能说称为，termed 更像正式命名、概念介绍。termed a success 是被评价为成功，不一定是拿到一个正式头衔。",
+    "examples": [
+      [
+        "The writer termed the experiment a surprising success.",
+        "作者称这次实验取得了出人意料的成功。"
+      ],
+      [
+        "The process was termed gradual adaptation.",
+        "这个过程被称为逐步适应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/termed#English",
+      "https://www.etymonline.com/word/term"
+    ]
+  },
+  {
+    "word": "trolls",
+    "ipa": "英 /trəʊlz/；美 /troʊlz/",
+    "meaning": "巨魔、民间怪物；网络挑衅者〔复数〕；挑衅〔第三人称单数〕",
+    "sense": "童话里的 trolls 是北欧传统中的怪物；网上的 trolls 则常故意发话激怒别人、诱人争吵。两个场景要分别认，现代网络词义的形成可能吸收了多种形象。",
+    "split": "troll + -s → trolls，/l/ 后读 /z/。怪物名接古北欧 troll；网络用法又联系 troll 用拖动鱼饵引鱼上钩的动词，并可能受到怪物名影响，具体汇合路线不强定。",
+    "history": [
+      [
+        "古北欧 troll 超自然怪物 → 英语 troll",
+        "民间故事里的怪物名称一路沿用"
+      ],
+      [
+        "另一路引诱上钩的动词与怪物形象可能汇合 → 网络 troll → trolls",
+        "现代网络名称重在故意挑起反应的行为"
+      ]
+    ],
+    "explanation": "trolls in a fairy tale 是童话里的巨魔；internet trolls 是网络挑衅者；trolls other users 是故意挑衅其他用户。",
+    "usage": "trolls in a fairy tale；internet trolls；trolls other users。",
+    "contrast": "internet trolls 通常指有意激怒、引战的人，critics 可以只是提出批评的人。判断角色时要看行为与目的，不能把所有不同意见都称作 trolls。",
+    "examples": [
+      [
+        "The fairy tale describes trolls living beneath a bridge.",
+        "童话讲到桥下住着巨魔。"
+      ],
+      [
+        "The article explains how internet trolls try to provoke arguments.",
+        "文章解释了网络挑衅者怎样故意挑起争论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trolls#English",
+      "https://www.etymonline.com/word/troll"
+    ]
+  },
+  {
+    "word": "tumors",
+    "ipa": "英 /ˈtjuːməz/；美 /ˈtuːmɚz/",
+    "meaning": "肿瘤〔复数〕",
+    "sense": "细胞异常生长等原因形成一团组织，可以叫 tumor；多个是 tumors。它先告诉你有异常的组织团块，不能只凭这个词就判定都是癌。",
+    "split": "tumor + -s → tumors，常见美式拼写；英式对应 tumour、tumours。来自拉丁 tumor 肿胀，联系 tumere 膨胀、肿起，词根 tum-。",
+    "history": [
+      [
+        "拉丁 tumere 肿起 → tumor 肿胀",
+        "较早英语用来描述病理性肿胀"
+      ],
+      [
+        "现代组织异常生长的肿瘤义 + -s → tumors",
+        "包括良性、恶性等不同类别"
+      ]
+    ],
+    "explanation": "benign tumors 是良性肿瘤；malignant tumors 是恶性肿瘤；the study of tumors 是对肿瘤的研究。",
+    "usage": "benign tumors；malignant tumors；the study of tumors。",
+    "contrast": "tumors 与 cancers 不能直接等同。良性肿瘤不是癌，恶性肿瘤属于癌；英语材料具体写了什么类别，是理解含义的关键。",
+    "examples": [
+      [
+        "The textbook compares benign and malignant tumors.",
+        "教材比较了良性与恶性肿瘤。"
+      ],
+      [
+        "The article describes how researchers study tumors in the laboratory.",
+        "文章介绍了研究人员怎样在实验室研究肿瘤。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tumors#English",
+      "https://www.etymonline.com/word/tumor",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/tumor"
+    ]
+  },
+  {
+    "word": "upgrading",
+    "ipa": "英 /ʌpˈɡreɪdɪŋ/；美 /ʌpˈɡreɪdɪŋ/",
+    "meaning": "升级；改善、提升配置〔分词、动名词〕",
+    "sense": "原来处于这个等级、配置，现在往更高一档调，是 upgrading。可以升级软件，也可以改善学校、交通等设施。",
+    "split": "upgrade 去末尾 e，加完整 -ing → upgrading。up 向上 + grade 等级、坡度组成英语词，先有上坡等名词用法，再发展出提高等级的动词。",
+    "history": [
+      [
+        "英语 up + grade → upgrade",
+        "上行、等级提高的共同画面"
+      ],
+      [
+        "upgrade 动词 + -ing → upgrading",
+        "现代可说提升版本、配置、服务或设施"
+      ]
+    ],
+    "explanation": "upgrading software 是升级软件；upgrading equipment 是更新提升设备；upgrading facilities 是改善设施。",
+    "usage": "upgrading software；upgrading equipment；upgrading facilities。",
+    "contrast": "updating 是更新到较新的信息、版本，upgrading 常更强调等级、能力、配置提升。实际产品命名中有交叠，按具体变化理解。",
+    "examples": [
+      [
+        "The school is upgrading its science equipment.",
+        "学校正在更新提升科学设备。"
+      ],
+      [
+        "The guide explains the process of upgrading the software.",
+        "指南解释了软件升级的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upgrading#English",
+      "https://www.etymonline.com/word/upgrade"
+    ]
+  },
+  {
+    "word": "wizards",
+    "ipa": "英 /ˈwɪzədz/；美 /ˈwɪzɚdz/",
+    "meaning": "巫师；高手、能手；软件向导〔复数〕",
+    "sense": "故事里的 wizard 会魔法；现实里把难事做得很轻松的人，也可以称 wizard。软件里的 wizards 则把复杂设置拆成一步步问题来引导你完成。",
+    "split": "wizard + -s → wizards，/d/ 后读 /z/。中古英语 wys 聪明、睿智 + -ard 形成 wisard，先说智者，后来发展到巫师；高手与软件向导是进一步的比喻。",
+    "history": [
+      [
+        "中古英语 wys + -ard → wizard 智者",
+        "后来魔法、巫术意义逐渐明确"
+      ],
+      [
+        "非常有本领的人及引导设置的软件 → wizards",
+        "现代人物与软件工具两类用法都常见"
+      ]
+    ],
+    "explanation": "wizards in a story 是故事中的巫师；computer wizards 是电脑高手；setup wizards 是设置向导。",
+    "usage": "wizards in a story；computer wizards；setup wizards。",
+    "contrast": "computer wizards 通常说精通电脑的人；setup wizards 则是指导设置的程序。都是帮你解决难题的画面，但一个数人，一个数软件工具。",
+    "examples": [
+      [
+        "The story brings together three wizards with different powers.",
+        "故事让三位拥有不同能力的巫师走到了一起。"
+      ],
+      [
+        "The software includes wizards for setting up new projects.",
+        "软件提供了创建新项目的向导。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wizards#English",
+      "https://www.etymonline.com/word/wizard",
+      "https://en.wiktionary.org/wiki/wizard#English"
+    ]
+  },
+  {
+    "word": "wrecked",
+    "ipa": "英 /rekt/；美 /rekt/",
+    "meaning": "毁坏了；打乱了；精疲力竭的〔口语〕",
+    "sense": "一个原来完整、能运转的东西，被破坏得乱了、坏了，是 wrecked。口语说 I’m wrecked，则常像说自己累得散了架。",
+    "split": "wreck + 完整 -ed → wrecked，w 不发音，/k/ 后 -ed 读 /t/。wreck 的名词经古北法语、北欧语材料，较早说船难后冲上岸的东西，后来发展成毁坏动词。",
+    "history": [
+      [
+        "北欧语、古北法语船难残骸词族 → wreck",
+        "由残破结果发展到毁坏事件、毁坏动作"
+      ],
+      [
+        "wreck + -ed → wrecked",
+        "现代具体毁坏、打乱计划与口语疲惫状态均可"
+      ]
+    ],
+    "explanation": "a wrecked boat 是毁坏的船；wrecked the plan 是把计划毁了；completely wrecked 在口语里可说累坏了。",
+    "usage": "a wrecked boat；wrecked the plan；completely wrecked。",
+    "contrast": "wrecked 往往比 damaged 更强，突出整体坏掉、严重打乱。说人很 wrecked 时要靠场景判断，口语中也可能涉及醉酒等状态。",
+    "examples": [
+      [
+        "The storm wrecked the small wooden pier.",
+        "风暴毁坏了那座小木码头。"
+      ],
+      [
+        "After carrying boxes all day, I was completely wrecked.",
+        "搬了一整天箱子后，我累得快散架了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrecked#English",
+      "https://www.etymonline.com/word/wreck"
+    ]
+  },
+  {
+    "word": "arises",
+    "ipa": "英、美 /əˈraɪzɪz/",
+    "meaning": "出现；产生；由……引起〔第三人称单数〕",
+    "sense": "原来没有摆在面前的问题、机会，现在冒出来了，是 arises。关注的是某种情况怎样开始存在、进入视野。",
+    "split": "arise 保留末尾 e，加 -s → arises；/z/ 后读 /ɪz/。承古英语 arisan，旧前缀 a- 与 rise 升起相合，早期已有起身、产生等义。",
+    "history": [
+      [
+        "古英语 arisan 起身、升起、开始产生 → arise",
+        "后来的常用范围更多落在情况、问题等产生"
+      ],
+      [
+        "arise + -s → arises",
+        "现代第三人称常以问题、需要、机会作主语"
+      ]
+    ],
+    "explanation": "a question arises 是出现一个问题；a need arises 是产生需要；arises from 是由某事引起、源于。",
+    "usage": "a question arises；a need arises；arises from。",
+    "contrast": "arises 常是事情自己出现，raises 通常需要有人提出、抬起某物。A question arises 与 someone raises a question 可以从不同角度说问题出现。",
+    "examples": [
+      [
+        "A new question arises at the end of the chapter.",
+        "这一章结尾又出现了一个新问题。"
+      ],
+      [
+        "The confusion arises from the way the sentence is written.",
+        "困惑来自这个句子的写法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/arises#English",
+      "https://www.etymonline.com/word/arise"
+    ]
+  },
+  {
+    "word": "cites",
+    "ipa": "英、美 /saɪts/",
+    "meaning": "引用；列举为依据；提及〔第三人称单数〕",
+    "sense": "为了支持自己的说明，把一本书、一项研究或一个例子带到读者面前，就是 cites。它像在说：请看这个依据。",
+    "split": "cite 保留末尾 e，加 -s → cites，/t/ 后读 /s/。经法语 citer 接拉丁 citare 召来、唤起，来自 ciere 使动、召唤；由召来发展到引出文字、证据。",
+    "history": [
+      [
+        "拉丁 citare 召来 → 法语、英语 cite",
+        "早期英语较多用于正式传唤"
+      ],
+      [
+        "引出文字、列举依据等义 + -s → cites",
+        "现代写作、研究叙述中尤其常见"
+      ]
+    ],
+    "explanation": "cites a study 是引用一项研究；cites an example 是举一个例子；cites a reason 是列出理由。",
+    "usage": "cites a study；cites an example；cites a reason。",
+    "contrast": "cites 可以只是注明来源、提及依据；quotes 更明确说引用原话。文章 cites a book，不要求抄出书中的原句。",
+    "examples": [
+      [
+        "The article cites a study published several years earlier.",
+        "文章引用了一项几年前发表的研究。"
+      ],
+      [
+        "She cites the old bridge as an example of thoughtful design.",
+        "她以那座旧桥为例，说明设计中的巧思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cites#English",
+      "https://www.etymonline.com/word/cite"
+    ]
+  },
+  {
+    "word": "decks",
+    "ipa": "英、美 /deks/",
+    "meaning": "甲板；平台；成副纸牌〔复数〕",
+    "sense": "船上像地面一样的一层，是 deck；一摞成套、能用来玩游戏的纸牌，也叫 a deck。decks 就在数这些平台、层或纸牌套组。",
+    "split": "deck + -s → decks，/k/ 后读 /s/。借中古荷兰语 dec、decke 屋顶、覆盖物的航海用法，后来发展到船的平台；牌组名可能联系层叠的形象。",
+    "history": [
+      [
+        "中古荷兰语覆盖物 → 船的 deck 甲板",
+        "一层覆盖、平台成为固定名称"
+      ],
+      [
+        "纸牌套组等扩展用法 → decks",
+        "纸牌义的确切比喻联系保留可能性"
+      ]
+    ],
+    "explanation": "upper decks 是上层甲板；wooden decks 是木制平台；two decks of cards 是两副纸牌。",
+    "usage": "upper decks；wooden decks；decks of cards。",
+    "contrast": "decks of cards 在数整副牌，cards 在数一张张牌。船的 decks 又是一个个层面，同一个复数要跟后面的 of 短语、周围对象一起理解。",
+    "examples": [
+      [
+        "The museum model shows the ship’s different decks.",
+        "博物馆的模型展示了船的不同甲板层。"
+      ],
+      [
+        "We need two decks of cards for this game.",
+        "玩这个游戏需要两副纸牌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/decks#English",
+      "https://www.etymonline.com/word/deck"
+    ]
+  },
+  {
+    "word": "differing",
+    "ipa": "英 /ˈdɪfərɪŋ/；美 /ˈdɪfərɪŋ/",
+    "meaning": "不同的；存在差异〔分词〕",
+    "sense": "几个人看同一件事，意见各不一样，是 differing views。它让人把这些对象摆在一起，看见彼此的差别。",
+    "split": "differ + 完整 -ing → differing，原词不改，不双写 r。经法语、拉丁 differre，含 dis- 分开与 ferre 带、承载，前缀同化为 dif-。",
+    "history": [
+      [
+        "拉丁 differre 带开、不同 → differ",
+        "后来也说意见不一致"
+      ],
+      [
+        "differ + -ing → differing",
+        "现代常作定语，说明相互之间有差异"
+      ]
+    ],
+    "explanation": "differing views 是不同观点；differing needs 是不同需求；differing from 是与某物不同。",
+    "usage": "differing views；differing needs；differing from。",
+    "contrast": "differing 与 different 很多时候都可表达不同，differing 更容易突出几者彼此有差异。differing views 不自动表示观点完全对立。",
+    "examples": [
+      [
+        "The meeting brought together people with differing views.",
+        "会议把持不同观点的人聚到了一起。"
+      ],
+      [
+        "The design responds to the differing needs of its users.",
+        "这个设计回应了用户各不相同的需求。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/differing#English",
+      "https://www.etymonline.com/word/differ"
+    ]
+  },
+  {
+    "word": "dissolution",
+    "ipa": "英 /ˌdɪsəˈluːʃən/；美 /ˌdɪsəˈluːʃən/",
+    "meaning": "解散；关系解除；溶解",
+    "sense": "原先结合成一个整体的东西，后来散开、解开，是 dissolution。组织可以解散，一团物质也可以在溶剂中散开。",
+    "split": "经法语、拉丁 dissolutio，接 dis- 分开 + solvere 松开 → dissolvere，分词词干 dissolut-，配动作名词 -ion。可与 dissolve 对照，名词有自己的借入历史。",
+    "history": [
+      [
+        "拉丁 dissolvere 松开、拆散 → dissolutio",
+        "从解除连接理解成形整体的分解"
+      ],
+      [
+        "英语 dissolution",
+        "现代用于组织解散、关系解除以及物质溶解等不同场景"
+      ]
+    ],
+    "explanation": "the dissolution of a group 是团体解散；the dissolution of an agreement 是协议关系的解除；dissolution in water 是在水中溶解。",
+    "usage": "the dissolution of a group；the dissolution of a relationship；dissolution in water。",
+    "contrast": "dissolution 的溶解与 melting 熔化要分清：糖进入水中形成溶液，和冰受热变成水，描述的是不同过程。共同的散开画面不能替代具体科学含义。",
+    "examples": [
+      [
+        "The documentary describes the dissolution of the group.",
+        "纪录片介绍了这个团体的解散。"
+      ],
+      [
+        "The lesson compares dissolution in water with melting.",
+        "这节课比较了在水中溶解与熔化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dissolution#English",
+      "https://www.etymonline.com/word/dissolution",
+      "https://www.etymonline.com/word/dissolve",
+      "https://www.monash.edu/__data/assets/pdf_file/0005/3399683/Melting-and-dissolving.pdf"
+    ]
+  },
+  {
+    "word": "doubling",
+    "ipa": "英、美 /ˈdʌblɪŋ/",
+    "meaning": "变为两倍；使加倍；折叠、折回〔分词、动名词〕",
+    "sense": "原来一份，现在成为同样大小的两份，是 doubling。也可以把一张东西折出两层，或沿走过的路折回来。",
+    "split": "double 去末尾 e，加完整 -ing → doubling。经法语 doble 接拉丁 duplus 两倍，含 duo 二与 -plus 多、倍数的材料；现代动词与形容词相互对应。",
+    "history": [
+      [
+        "拉丁 duplus 两倍 → 法语 doble → double",
+        "两份、两层的数量与形状关系"
+      ],
+      [
+        "double 动词 + -ing → doubling",
+        "现代加倍、折叠及固定短语用法并存"
+      ]
+    ],
+    "explanation": "doubling the number 是把数量加倍；doubling in size 是大小变为两倍；doubling back 是原路折回。",
+    "usage": "doubling the number；doubling in size；doubling back。",
+    "contrast": "doubling 是从 10 到 20，总量成两倍，增加量是原数的百分之一百。不能把成两倍与增加百分之二百混用。",
+    "examples": [
+      [
+        "Doubling the recipe gives us enough food for eight people.",
+        "把食谱用量加倍，就足够八个人吃。"
+      ],
+      [
+        "We found the path by doubling back to the bridge.",
+        "我们原路折回桥边，找到了那条小路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/doubling#English",
+      "https://www.etymonline.com/word/double"
+    ]
+  },
+  {
+    "word": "emerges",
+    "ipa": "英 /ɪˈmɜːdʒɪz/；美 /ɪˈmɜːrdʒɪz/",
+    "meaning": "出现；浮现；显露出来〔第三人称单数〕",
+    "sense": "本来被水、树丛或未知情况遮着，现在从里面显出来，是 emerges。人可以走出树林，故事的真相也可以逐渐浮现。",
+    "split": "emerge 保留末尾 e，加 -s → emerges，/dʒ/ 后读 /ɪz/。经法语接拉丁 e-、ex- 向外 + mergere 沉入 → emergere 浮出、出来。",
+    "history": [
+      [
+        "拉丁 emergere 从里面浮出、出现 → emerge",
+        "水中浮出的画面延伸到从遮挡后出现"
+      ],
+      [
+        "事实、情况、人物显露等义 + -s → emerges",
+        "现代常强调从原先看不清、看不到的状态变得可见"
+      ]
+    ],
+    "explanation": "emerges from 是从某处出现；a pattern emerges 是一种规律浮现；it emerges that 是后来发现某事。",
+    "usage": "emerges from；a pattern emerges；it emerges that。",
+    "contrast": "emerges 强调显露出来的过程，exists 只说存在。一件事可能早已存在，到收集更多信息时才 emerges。",
+    "examples": [
+      [
+        "A deer emerges from the trees at the edge of the picture.",
+        "画面边缘，一只鹿从树林中走出来。"
+      ],
+      [
+        "A clear pattern emerges when we compare the examples.",
+        "把例子放在一起比较，就显出一种清晰规律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/emerges#English",
+      "https://www.etymonline.com/word/emerge"
+    ]
+  },
+  {
+    "word": "examinations",
+    "ipa": "英、美 /ɪɡˌzæmɪˈneɪʃənz/",
+    "meaning": "考试；检查、审查〔复数〕",
+    "sense": "把知识、能力或物件仔细拿来检验，是 examination。学校里的考试是其中一类，检查物品、审视材料也可以用这个词。",
+    "split": "examination + -s → examinations。经法语、拉丁 examinatio，接 examinare 衡量、检验；现代可与 examine、动作名词 -ation 对照，名词并非必须由英语动词现造。",
+    "history": [
+      [
+        "拉丁 examinare 衡量、检验 → examinatio → examination",
+        "通过细看、提问等形成判断"
+      ],
+      [
+        "知识考试与各种检查义 + -s → examinations",
+        "现代复数数不同考试、检查次数或安排"
+      ]
+    ],
+    "explanation": "written examinations 是笔试；final examinations 是期末、结业考试；careful examinations 是仔细检查。",
+    "usage": "written examinations；final examinations；careful examinations。",
+    "contrast": "examinations 范围比学校考试广，exams 是常见简称。看到 examinations of the paintings，要按画作检查理解，不能一律译成考试。",
+    "examples": [
+      [
+        "The students prepared for their final examinations.",
+        "学生们准备期末考试。"
+      ],
+      [
+        "Careful examinations of the paintings revealed several small repairs.",
+        "对画作的仔细检查发现了几处小修补。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/examinations#English",
+      "https://www.etymonline.com/word/examination",
+      "https://www.etymonline.com/word/examine"
+    ]
+  },
+  {
+    "word": "fares",
+    "ipa": "英 /feəz/；美 /ferz/",
+    "meaning": "车船票价、交通费〔复数〕；进展、过得如何〔第三人称单数〕",
+    "sense": "搭车、坐船要付的钱，是 fare；不同路线的价格就可以数成 fares。动词 fares 则问某个人、事物进展得怎样。",
+    "split": "fare 保留末尾 e，加 -s → fares，末尾 /z/。承古英语 fær、faru 旅程，关联 faran 行走、旅行；从旅程、运送发展到交通费，动词又保留进展的用法。",
+    "history": [
+      [
+        "古英语旅程、行走词族 → fare",
+        "运送的费用与人在旅途上的进展分别发展"
+      ],
+      [
+        "票价名词与进展动词 + -s → fares",
+        "现代名词复数、动词第三人称同形"
+      ]
+    ],
+    "explanation": "bus fares 是公交车费；train fares 是火车票价；fares well 是进展良好、过得不错。",
+    "usage": "bus fares；train fares；fares well。",
+    "contrast": "fares 说交通费用，fees 是更宽的服务、报名等费用。How she fares 则是在问她过得、应对得如何，词在这里是动词。",
+    "examples": [
+      [
+        "The chart compares train fares on three routes.",
+        "图表比较了三条线路的火车票价。"
+      ],
+      [
+        "The review asks how the new edition fares against the original.",
+        "书评考察新版与原版相比表现如何。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fares#English",
+      "https://www.etymonline.com/word/fare"
+    ]
+  }
+]

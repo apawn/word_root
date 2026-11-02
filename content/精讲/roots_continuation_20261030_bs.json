@@ -1,0 +1,80 @@
+[
+  {
+    "id": "B3478",
+    "meaning": "婚姻基本名词；再婚、适婚与跨群体通婚",
+    "core": "MARRIAGE：婚姻；前后成分说明再次、适于或群体之间",
+    "image": "已有 marriage → remarriage、marriageable；intermarriage 既有共享，分清再一次与群体之间。",
+    "intro": "适婚词带具体社会背景，不把 -able 当普遍年龄标准。marriage 与 marry 的现代对应有帮助，但基础词有法语借入历史。",
+    "forms": "marry 与 marriage 借入同族；re-/inter- + marriage；marriage + -able。\n\n现代词形对照 marry，历史有法语名词的独立路线。",
+    "branches": [
+      [
+        "婚姻与再次结婚",
+        "marriage · remarriage"
+      ],
+      [
+        "适婚与群体关系",
+        "marriageable · intermarriage"
+      ],
+      [
+        "marriage → marriages：多段婚姻",
+        "marriage · marriages"
+      ]
+    ],
+    "contrasts": "remarriage 再次结婚、intermarriage 跨群体通婚；marriageable 可婚不同于 married 已婚。",
+    "practice": "The book discusses marriage and remarriage in different periods.\n\n这本书讨论不同时期的婚姻与再婚。",
+    "words": [
+      "marriage",
+      "remarriage",
+      "marriageable",
+      "intermarriage",
+      "marriages"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2838",
+    "meaning": "购买动作的不规则过去、分词",
+    "core": "BOUGHT：buy 的过去与分词，不是另一个买词",
+    "image": "已有 buy 与新增 bought 连着读，先分 bought/brought；较专门金融 overbought 暂略。",
+    "intro": "常用不规则变化值得单独解释，但不因目录另列一页就给 bought 编造独立古词根。",
+    "forms": "buy—bought—bought；gh 现代不单独发音；brought 另接 bring。",
+    "branches": [
+      [
+        "购买与时间变化",
+        "buy · bought"
+      ]
+    ],
+    "contrasts": "bought 买、brought 带来；buyed 不作标准过去式；have bought 是完成时。",
+    "practice": "She bought a book and brought it home.\n\n她买了一本书，并把它带回家。",
+    "words": [
+      "buy",
+      "bought"
+    ],
+    "exclude": {
+      "shop-bought": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "overbought": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4583",
+    "meaning": "最终结果与可能发生情况的历史分支",
+    "core": "EVENTUAL：常见最终；EVENTUALITY：常见可能情况",
+    "image": "已有 eventual、eventually 后，对照新增 eventuality，不从一个最终义机械覆盖全部词族。",
+    "intro": "词族保留不同历史义项。英语 eventuality 可能情况，与很多学习者先记住的 eventually 最终差别明显。",
+    "forms": "eventual + -ly → eventually；eventual + -ity，与法语 éventualité 对应。",
+    "branches": [
+      [
+        "结果、最终与可能情况",
+        "eventual · eventually · eventuality"
+      ]
+    ],
+    "contrasts": "eventuality 可能情况、eventually 最后；plan for every eventuality 是预做准备，不是预知所有结果。",
+    "practice": "They planned for every eventuality and eventually chose a simpler route.\n\n他们为各种可能情况作了准备，最终选了一条更简单的路线。",
+    "words": [
+      "eventual",
+      "eventually",
+      "eventuality"
+    ],
+    "exclude": {}
+  }
+]

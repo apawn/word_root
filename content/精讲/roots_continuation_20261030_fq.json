@@ -1,0 +1,85 @@
+[
+  {
+    "id": "B4058",
+    "meaning": "衣片、搭接与另源舔饮，同形要分路",
+    "core": "LAP：膝上承接、部分盖住、舌头舔水分开记",
+    "image": "lap → lapel、laptop 接衣片膝上；overlap 接搭接；burlap 布名来源有争议；舔饮单列。",
+    "intro": "比赛最后一圈 final lap 和猫舔水并非一个动作演化。lapping 作普通进行形式在例句中理解，机械研磨等专门名词暂不展开。",
+    "forms": "læppa 衣片 → lap 膝上；lap + -el → lapel；over + lap → overlap；lap + top → laptop；lapian → lap 舔饮。\n\nlabel 近源法语 label、lambel 带子，较远可能接日耳曼衣片材料，与 lap 比较属一种分析，不当作已确定现代直接派生。\n\nlap 指坐着时大腿形成的承放处，不取跑道一圈的另一条用法。\n\n膝上 lap 远接古英语 læppa 衣襟；赛道一圈经围绕、重叠的动词发展。舔饮 lap 另接古英语 lapian 拟声词族。现代 -s，/p/ 后读 /s/。",
+    "branches": [
+      [
+        "同形基础",
+        "lap"
+      ],
+      [
+        "衣片、膝上与织物",
+        "lapel · laptop · burlap"
+      ],
+      [
+        "搭接与范围相交",
+        "overlap"
+      ],
+      [
+        "label 与 lap 的可能旧衣片词源对照；标签词族常用变化",
+        "lap · label · labels · labeled · labelled · labeling · labelling"
+      ],
+      [
+        "laptop → laptops：膝上型电脑",
+        "laptop · laptops"
+      ],
+      [
+        "lap：衣襟、圈与舔饮分线",
+        "laps"
+      ]
+    ],
+    "contrasts": "lap/knee 膝上区域与膝关节；lapel/collar 驳头与领子；overlap/identical 部分共同与完全相同。",
+    "practice": "With a laptop on her lap, she watched the final lap of the race.\n\n她把笔记本电脑放在大腿上，看着比赛最后一圈。",
+    "words": [
+      "lap",
+      "lapel",
+      "laptop",
+      "burlap",
+      "overlap",
+      "label",
+      "labels",
+      "labeled",
+      "labelled",
+      "labeling",
+      "labelling",
+      "laptops",
+      "laps"
+    ],
+    "exclude": {
+      "lapping": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3278",
+    "meaning": "热气能蒸东西、推动机器，也借来讲压力",
+    "core": "STEAM：从锅口热气到机器动力和干劲",
+    "image": "steam → steamer、steamy；steamship 船、steamroller 压路机；steampunk 接蒸汽时代幻想风格。",
+    "intro": "名字保留历史，现代 steamroller 未必仍烧锅炉；run out of steam 也不要求人真的装有蒸汽机。",
+    "forms": "stēam → steam；steam + -er/-y；steam + ship/roller；steam + -punk 参照现代类型命名。",
+    "branches": [
+      [
+        "基础、器具与湿热性质",
+        "steam · steamer · steamy"
+      ],
+      [
+        "运输、滚压与风格",
+        "steamship · steamroller · steampunk"
+      ]
+    ],
+    "contrasts": "steam/smoke 蒸气与燃烧烟；steamer/steamship 范围宽窄；steamy/steampunk 激情描写与类型美学。",
+    "practice": "The old steamer had lost steam, but the steampunk model beside it still fascinated visitors.\n\n旧蒸汽船没了动力，旁边的蒸汽朋克模型却仍让游客着迷。",
+    "words": [
+      "steam",
+      "steamer",
+      "steamy",
+      "steamship",
+      "steamroller",
+      "steampunk"
+    ],
+    "exclude": {}
+  }
+]

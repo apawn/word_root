@@ -1,0 +1,230 @@
+[
+  {
+    "id": "B3503",
+    "meaning": "知道、头脑到机智，也到证明与见证",
+    "core": "WIT：旧义是头脑和知道，不只现代幽默",
+    "image": "wit → witty、witless、outwit、nitwit；witness 沿知道、证明的旧义，不是笑话人物。",
+    "intro": "脑力可以用来妙语，也可用来知道、证明一件事；witness 保留旧义，wits 的理智反应也不只幽默。",
+    "forms": "witt、gewit、witan → wit；wittig → witty；witlēas → witless；out- + wit；gewitnes → witness；nit- + wit。\n\n古英语知识加名词材料，证言、人物及动词历史分别看。\n\n古英语知道、证明的名词，后来人物与动词用法发展。",
+    "branches": [
+      [
+        "头脑、机智与否定比较",
+        "wit · witty · witless · outwit · nitwit"
+      ],
+      [
+        "知道与见证",
+        "witness"
+      ],
+      [
+        "witness → witnesses：知道、证明与亲历者",
+        "witness · witnesses"
+      ],
+      [
+        "witness → witnessed：亲眼看到、经历",
+        "witness · witnessed"
+      ]
+    ],
+    "contrasts": "wit/intelligence 侧重点；witty/funny 机智与广义好笑；witless/humourless 头脑与幽默感；witness 非现代笑话词。",
+    "practice": "The witty witness kept her wits during the interview.\n\n那位机智的目击者在访谈中一直保持清醒判断。",
+    "words": [
+      "wit",
+      "witty",
+      "witless",
+      "outwit",
+      "nitwit",
+      "witness",
+      "witnesses",
+      "witnessed"
+    ],
+    "exclude": {
+      "witted": "多用于 quick-witted、dim-witted 等组合，-witted 的头脑性质已在 wit 中说明，暂不单立词头。",
+      "fuckwit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3055",
+    "meaning": "狐狸本身与语言中的形象、组合",
+    "core": "FOX：动物名可借性格印象，也会成为舞名材料",
+    "image": "fox → foxy；foxhole 动物洞与散兵坑；foxtrot 舞名，具体来源另有讨论。",
+    "intro": "动物比喻不等于科学给每只狐狸下性格结论；fox 动词可难倒，foxy 也可口语说魅力。",
+    "forms": "古英语 fox → fox；fox + -y/hole/trot；Foxtrot 又被借作拼读代码词。",
+    "branches": [
+      [
+        "动物与性质",
+        "fox · foxy"
+      ],
+      [
+        "洞穴及舞名",
+        "foxhole · foxtrot"
+      ]
+    ],
+    "contrasts": "foxy 狡猾或迷人看场景；fox 动词非变狐狸；foxtrot 舞名不强定传说；Foxtrot 通信代码词别直译舞蹈动作。",
+    "practice": "The foxy character in the story outwitted an old fox.\n\n故事里那个狡黠角色智胜了一位老谋深算者。",
+    "words": [
+      "fox",
+      "foxy",
+      "foxhole",
+      "foxtrot"
+    ],
+    "exclude": {
+      "she-fox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dog-fox": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4271",
+    "meaning": "金色与珍贵，再按颜色命名生物",
+    "core": "GOLDEN：颜色像金，不等于材质就是金",
+    "image": "golden → goldeneye、goldenrod，眼部、花枝是组合所抓的特征。",
+    "intro": "golden opportunity 绝佳机会是价值比喻，goldeneye 鸭和 goldenrod 植物则是颜色外观命名。",
+    "forms": "gold + -en → golden；golden + eye/rod。",
+    "branches": [
+      [
+        "金色性质与外观名称",
+        "golden · goldeneye · goldenrod"
+      ]
+    ],
+    "contrasts": "golden 金色或珍贵，不一定真金；goldeneye/golden eyes 名称与普通眼睛描述；goldenrod/a golden rod 植物与杆。",
+    "practice": "Goldenrod grew near the lake where goldeneyes were swimming.\n\n湖边长着一枝黄花，湖中有鹊鸭游动。",
+    "words": [
+      "golden",
+      "goldeneye",
+      "goldenrod"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3452",
+    "meaning": "小轮到运货车辆，另辨交易固定说法",
+    "core": "TRUCK：常用货车义与早期交易义分路",
+    "image": "truck → trucker、trucking、truckload，司机、业务、装载量按简单到扩展排列。",
+    "intro": "have no truck with 不愿往来，不是没有车；trucker 现代职业接车辆，不必由古老同形骗徒义解释。",
+    "forms": "小轮相关词 → 车辆 truck；法语交易词另 → truck 交易；truck + -er/-ing/load。\n\n车辆分支与小轮等材料相连；交易、往来分支另经法语 troquer。",
+    "branches": [
+      [
+        "车辆、人物、业务与数量",
+        "truck · trucker · trucking · truckload"
+      ],
+      [
+        "truck → trucks：轮子到运货车",
+        "truck · trucks"
+      ]
+    ],
+    "contrasts": "truck/lorry 英美习惯；trucker/trucking 人物行业；have no truck with 固定说法不直译车辆。",
+    "practice": "The trucker delivered a truckload of supplies for the trucking company.\n\n卡车司机替货运公司送来一整车物资。",
+    "words": [
+      "truck",
+      "trucker",
+      "trucking",
+      "truckload",
+      "trucks"
+    ],
+    "exclude": {
+      "e-truck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "truck-borne": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4162",
+    "meaning": "从外面进入，到信息进入记录",
+    "core": "ENTRY：人进去、作品入选、信息录入，留下不同名词义",
+    "image": "entry → entryway，先看进入行为、记录，再看实际入口通道。",
+    "intro": "a diary entry 是写入的记录，a competition entry 是送入比赛的作品或报名；不都等于一扇门。",
+    "forms": "拉丁进入词族经法语、英语 → entry；entry + way → entryway。\n\nenter 与 entry 共同接法语、拉丁进入词族；现代读音、拼写不同，不能把 entry 画成 enter 随手加 y。\n\n走到里面的词族，扩展到信息、活动、阶段。\n\n拉丁里面词族经法语借入，可进入地点、阶段、比赛或记录。\n\n法语 entrer 接拉丁 intrare，根在 intra 在里面。\n\n法语进入名词的借词，现代复数 y 改 i 加 es。",
+    "branches": [
+      [
+        "进入、条目与入口通道",
+        "entry · entryway"
+      ],
+      [
+        "enter 与 entry：进入的动作和入口、记录",
+        "enter · entry"
+      ],
+      [
+        "enter → entered：进入、录入与参加",
+        "enter · entered"
+      ],
+      [
+        "enter → entering：进到某个范围",
+        "enter · entering"
+      ],
+      [
+        "enter → enters：从外进入，包括把信息录入",
+        "enter · enters"
+      ],
+      [
+        "entry → entries：入口、记录与参赛作品",
+        "entry · entries"
+      ]
+    ],
+    "contrasts": "entry/entrance 有交集；entryway 入口通道；data entry 数据录入非电脑的实体入口。",
+    "practice": "A sign in the entryway announced free entry.\n\n入口通道的标牌写着免费入场。",
+    "words": [
+      "entry",
+      "entryway",
+      "enter",
+      "entered",
+      "entering",
+      "enters",
+      "entries"
+    ],
+    "exclude": {
+      "post-entry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-entry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "meet-her-in-the-entry-and-kiss-her-in-the-buttery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3086",
+    "meaning": "盐本身、咸的性质与含盐水体",
+    "core": "SALT：从调味的盐，到咸与盐水环境",
+    "image": "salt → salty、saltwater，把物质、性质、水体连在一起。",
+    "intro": "salty 还可口语说不满、恼火，saltwater 是水的环境性质，不是盐必然只来自海水。",
+    "forms": "古英语 sealt 等 → salt；salt + -y；salt + water。",
+    "branches": [
+      [
+        "物质、性质与水体",
+        "salt · salty · saltwater"
+      ]
+    ],
+    "contrasts": "salt 名词也可动词加盐；salty 味觉或口语情绪；saltwater 与 freshwater 相对。",
+    "practice": "The saltwater left a salty taste on his lips.\n\n盐水在他嘴唇上留下咸味。",
+    "words": [
+      "salt",
+      "salty",
+      "saltwater"
+    ],
+    "exclude": {
+      "cat-salt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "salter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3405",
+    "meaning": "行动演出来的戏剧，再看人物心理",
+    "core": "DRAMA：故事用角色、行动演出来",
+    "image": "drama → psychodrama，心理剧把焦点放在内心关系和冲突。",
+    "intro": "日常 drama 也可戏剧化风波；psychodrama 不能只因有心理描写便当全部场景都在说治疗。",
+    "forms": "希腊 drân 行动、drâma 所做所演 → drama；psycho- + drama。\n\n希腊行动、戏剧名词借入；复数既可数剧作，也可数一件件引发情绪波折的事件。",
+    "branches": [
+      [
+        "戏剧与心理焦点",
+        "drama · psychodrama"
+      ],
+      [
+        "drama → dramas：剧作与有波折的事件",
+        "drama · dramas"
+      ]
+    ],
+    "contrasts": "drama 舞台、影视作品或日常风波；psychodrama 作品和专业方法分语境。",
+    "practice": "The drama focused on family tensions and became a gripping psychodrama.\n\n戏剧聚焦家庭紧张关系，成为一出扣人心弦的心理剧。",
+    "words": [
+      "drama",
+      "psychodrama",
+      "dramas"
+    ],
+    "exclude": {
+      "e-drama": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

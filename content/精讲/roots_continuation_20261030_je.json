@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B2773",
+    "meaning": "如何表达，以及换说法、短语相关性质和固定组合",
+    "core": "PHRASE：把意思组织成一段表达",
+    "image": "phrase → phrasal；rephrase、paraphrase 看换说法；catchphrase、passphrase 各有固定用途。",
+    "intro": "不要把所有表达都当生硬词组背诵。先看这组词在说什么，再看动词 phrase 如何强调用词、组织方式。",
+    "forms": "希腊 phrásis 经拉丁进入英语；re- 重做，-al 相关性质；其他组合逐词看。\n\n希腊表达材料经拉丁进入；词尾 z 后复数或三单读 iz。\n\nphrase 末音 z，复数加 s 后读 iz，和 password 的末尾读音分开。",
+    "branches": [
+      [
+        "表达单位与相关性质",
+        "phrase · phrasal"
+      ],
+      [
+        "换说法",
+        "rephrase · paraphrase"
+      ],
+      [
+        "固定用途",
+        "catchphrase · passphrase"
+      ],
+      [
+        "phrase → phrases：说法、短语与如何表达",
+        "phrase · phrases"
+      ],
+      [
+        "phrase 的口令组合及复数",
+        "passphrase · passphrases"
+      ]
+    ],
+    "contrasts": "rephrase 与 repeat 不等同；phrase 的范围也不只按词数判断。",
+    "practice": "She rephrased the sentence and explained the phrasal verb inside it.\n\n她改写了句子，并解释了其中的短语动词。",
+    "words": [
+      "phrase",
+      "phrasal",
+      "rephrase",
+      "paraphrase",
+      "catchphrase",
+      "passphrase",
+      "phrases",
+      "passphrases"
+    ],
+    "exclude": {
+      "buzz-phrase": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4409",
+    "meaning": "从头到尾做透，形成全面、细致的性质及相关词",
+    "core": "THOROUGH：不只扫表面，而是一路做到完整",
+    "image": "thorough → thoroughly、thoroughness；thoroughbred 是已经固定的另一种组合。",
+    "intro": "与 through 共享古老来源，现代已经分工。学 thorough 时抓检查、理解做透的画面，再区分形容词、副词和名词。",
+    "forms": "þurh／þuruh → 中古英语 thoro／thorow → thorough；-ly 副词、-ness 性质名词；bred 是 breed 的过去分词。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "thorough · thoroughly · thoroughness"
+      ],
+      [
+        "血统、品种的固定组合",
+        "thoroughbred"
+      ]
+    ],
+    "contrasts": "thorough 不按 through 的 /uː/ 读；Thoroughbred 不等于所有 purebred 动物。",
+    "practice": "A thorough review means reading the evidence thoroughly and showing care and thoroughness.\n\n周密审查意味着把证据读透，做得认真而细致。",
+    "words": [
+      "thorough",
+      "thoroughly",
+      "thoroughness",
+      "thoroughbred"
+    ],
+    "exclude": {}
+  }
+]

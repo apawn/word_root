@@ -1,0 +1,266 @@
+[
+  {
+    "word": "untried",
+    "ipa": "/ˌʌnˈtraɪd/",
+    "meaning": "未尝试的；未经考验、尚未试验的",
+    "sense": "办法还没真正拿来用过，无法靠过去的实战判断效果，就叫 untried。人也可以是还没经过考验的新手。",
+    "split": "un- 不、未 + tried；tried 是 try 把 y 改为 i 后加 -ed。否定的是已经试过、验证过的状态。",
+    "history": [
+      [
+        "try → tried",
+        "试过、试验过；经过考验"
+      ],
+      [
+        "un- + tried → untried",
+        "尚未试过、没有经过考验"
+      ]
+    ],
+    "explanation": "an untried method 尚未试验的方法；an untried team 未经考验的团队。它说明经验、验证尚欠缺，不直接断言一定失败。",
+    "usage": "an untried approach；leave no option untried。",
+    "contrast": "untried 未经尝试；unsuccessful 已经不成功。leave no option untried 是所有办法都试一试，双重否定不能漏读。",
+    "examples": [
+      [
+        "We decided to test an untried approach.",
+        "我们决定试验一种尚未尝试过的方法。"
+      ],
+      [
+        "The new team was talented but largely untried.",
+        "新团队很有才华，但大多还没有经过实战考验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/untried#English"
+    ]
+  },
+  {
+    "word": "unborn",
+    "ipa": "英 /ˌʌnˈbɔːn/；美 /ˌʌnˈbɔːrn/",
+    "meaning": "尚未出生的",
+    "sense": "把出生看成一个时间界线：还没有跨过它，就是 unborn。也可以说尚未出生的未来世代。",
+    "split": "古英语 unboren 经中古英语延续，对应 un- 未 + born；born 本来连着 bear 的旧过去分词。不是把 born 当作一个普通动词再加否定。",
+    "history": [
+      [
+        "古英语 unboren → 中古英语 unborn",
+        "未出生的"
+      ],
+      [
+        "现代 un- + born 的对应",
+        "尚未出生的孩子、未来世代"
+      ]
+    ],
+    "explanation": "an unborn baby 尚未出生的婴儿；generations yet unborn 尚未出生的后代。通常用作形容词修饰名词。",
+    "usage": "her unborn child；future generations yet unborn。",
+    "contrast": "unborn 还没有出生，newborn 刚出生，reborn 重新出生、获得新生；三个时间关系不一样。",
+    "examples": [
+      [
+        "They had already chosen a name for their unborn child.",
+        "他们已经为尚未出生的孩子选好了名字。"
+      ],
+      [
+        "The poet imagined generations yet unborn reading the book.",
+        "诗人想象着尚未出生的后人阅读这本书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unborn#English"
+    ]
+  },
+  {
+    "word": "unwritten",
+    "ipa": "/ˌʌnˈrɪtən/",
+    "meaning": "未写下的；不成文的；尚未写出的",
+    "sense": "大家都知道午饭后要顺手清理桌面，可墙上没有贴规定：这可以是 an unwritten rule。也可直说一本书还没写出来。",
+    "split": "古英语 unwriten、unġewriten 经中古英语延续，对应 un- 未 + written。written 是 write 的不规则过去分词，不是 write 按普通规则加 -ed。",
+    "history": [
+      [
+        "古英语未写下的相应形式 → 中古英语 unwriten",
+        "没有落成文字"
+      ],
+      [
+        "现代 unwritten",
+        "不成文的惯例；尚未写出的内容"
+      ]
+    ],
+    "explanation": "an unwritten rule 不成文的规矩；an unwritten agreement 默契；an unwritten chapter 还未写的章节，可比喻未定的未来。",
+    "usage": "unwritten rules；remain unwritten。",
+    "contrast": "unwritten rule 可以已经很明确地存在，只是没写下；unknown rule 则是人不知道的规则。没有文字不等于没有惯例。",
+    "examples": [
+      [
+        "There is an unwritten rule that everyone helps clean up.",
+        "这里有条不成文的规矩：大家都帮忙收拾。"
+      ],
+      [
+        "The final chapter remained unwritten for years.",
+        "最后一章多年都没有写出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unwritten#English"
+    ]
+  },
+  {
+    "word": "networked",
+    "ipa": "英 /ˈnetwɜːkt/；美 /ˈnetwɜːrkt/",
+    "meaning": "联网的；通过网络相连的；建立了联系〔动词形式〕",
+    "sense": "几台设备不再各干各的，而是连成一张可以交换信息的网；人、机构也可以形成相互联系的网络。",
+    "split": "network + -ed，作动词过去式、分词，再作形容词。network 原由 net + work 形成网状构造名称，后来广泛说连接系统、人际网络。",
+    "history": [
+      [
+        "net + work → network",
+        "网状构造；相互连接的系统"
+      ],
+      [
+        "network + -ed → networked",
+        "已连接成网；有网络联系的"
+      ]
+    ],
+    "explanation": "networked computers 联网计算机；a networked society 相互连接的社会。networked 不一定指接入互联网，也可以是内部网络。",
+    "usage": "networked devices；a networked organization。",
+    "contrast": "wireless 说不用线路，networked 说是否成网；有线设备也可以 networked，无线设备也不必已经连上某个网。",
+    "examples": [
+      [
+        "The office uses networked printers.",
+        "办公室使用联网打印机。"
+      ],
+      [
+        "The exhibition connected several networked screens.",
+        "展览把几块屏幕连在同一个网络上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/networked#English"
+    ]
+  },
+  {
+    "word": "tellingly",
+    "ipa": "/ˈtelɪŋli/",
+    "meaning": "颇能说明问题地；意味深长地",
+    "sense": "别人都热烈回答，一个人却一直避开关键问题；作者写 tellingly，是提醒你：注意这个细节，它透露了不少东西。",
+    "split": "telling + -ly；telling 从 tell 的 -ing 形式发展出有力、能说明问题的形容词义，再加副词后缀。这里不是简单说正在讲述。",
+    "history": [
+      [
+        "tell → telling 的形容词义",
+        "透露、说明某种内情的；有力的"
+      ],
+      [
+        "telling + -ly → tellingly",
+        "以颇能说明问题的方式；引出有意味的细节"
+      ]
+    ],
+    "explanation": "Tellingly, ... 常放句首评价后面的事实；more tellingly 更能说明问题的是。它提示作者的解读，不会凭一个副词就自动证明因果。",
+    "usage": "more tellingly；tellingly absent。",
+    "contrast": "interestingly 只说有趣、值得注意；tellingly 强调细节显露了某个判断所关切的信息。",
+    "examples": [
+      [
+        "Tellingly, the report never mentions the cost.",
+        "颇能说明问题的是，报告始终没有提到成本。"
+      ],
+      [
+        "She paused, tellingly, before answering the final question.",
+        "回答最后一个问题前，她意味深长地停顿了一下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tellingly#English"
+    ]
+  },
+  {
+    "word": "congresswoman",
+    "ipa": "英 /ˈkɒŋɡresˌwʊmən/；美 /ˈkɑːŋɡrəsˌwʊmən/",
+    "meaning": "女国会议员；〔尤指美国〕众议院女议员",
+    "sense": "congress 是相关立法机构，woman 标明这位议员是女性。美国日常用法里常特指众议院议员，参议员通常称 senator。",
+    "split": "congress + woman；congress 接拉丁 congressus 聚到一起、会议，与 con- 一起、gradi 行走相连。不是从 congressman 整词后再加 woman。",
+    "history": [
+      [
+        "拉丁 congressus → 英语 congress",
+        "聚集、会议；立法机构名称"
+      ],
+      [
+        "congress + woman → congresswoman",
+        "相关机构中的女性议员"
+      ]
+    ],
+    "explanation": "a congresswoman from a particular state 某州的女众议员；复数 congresswomen，变化在 woman → women。正式称谓、具体机构依所在国家的制度和语境。",
+    "usage": "a congresswoman；several congresswomen。",
+    "contrast": "congressman 与 congresswoman 标明性别；member of Congress 是不限定性别的说法。congress 不一定每次都指美国国会，也可指大型会议。",
+    "examples": [
+      [
+        "A congresswoman visited the local library.",
+        "一位女国会议员参观了当地图书馆。"
+      ],
+      [
+        "The article interviewed three congresswomen about their early careers.",
+        "文章采访了三位女国会议员，谈她们早期的职业经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/congresswoman#English"
+    ]
+  },
+  {
+    "word": "infighting",
+    "ipa": "/ˈɪnfaɪtɪŋ/",
+    "meaning": "内斗；内部争斗；〔拳击〕近距离交手",
+    "sense": "原本属于同一队的人，把精力用来彼此争权、互相拆台，这就是常见的 infighting。",
+    "split": "in- 内部 + fighting；fighting 来自 fight + -ing。整词既有内部争斗义，也有拳击近身交手义，后者的 in 强调距离靠近。",
+    "history": [
+      [
+        "in- + fighting",
+        "在内部斗争；在近距离交手"
+      ],
+      [
+        "现代常用内部争斗义",
+        "团体中成员互相争执、争权"
+      ]
+    ],
+    "explanation": "political infighting 政治内斗；infighting within the group 团体内部争斗。通常是不可数名词，重点在冲突发生于内部。",
+    "usage": "bitter infighting；be weakened by infighting。",
+    "contrast": "disagreement 意见不合可以很正常；infighting 往往让人看到消耗团队的争斗。firefighting 是灭火或疲于应急，首部、词义都不同。",
+    "examples": [
+      [
+        "The project was delayed by infighting within the team.",
+        "团队内部争斗拖慢了项目。"
+      ],
+      [
+        "The club lost members after months of bitter infighting.",
+        "经历数月激烈内斗后，俱乐部流失了成员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/infighting#English"
+    ]
+  },
+  {
+    "word": "seeker",
+    "ipa": "英 /ˈsiːkə/；美 /ˈsiːkər/",
+    "meaning": "寻求者；寻找某事物的人或装置",
+    "sense": "不只是站在原地想要，而是在主动寻找、争取。a truth seeker 追寻真相，a job seeker 正在找工作。",
+    "split": "seek + -er 的现代对应有古老日耳曼语人物名词材料作背景；中古英语 sekere 等并非现代才凭空新造。-er 可指人，某些专门语境也指搜寻装置。",
+    "history": [
+      [
+        "古日耳曼语相关人物名词 → 中古英语 sekere",
+        "寻找、寻求的人"
+      ],
+      [
+        "现代 seek + -er → seeker",
+        "寻求者；依场景也说搜寻装置"
+      ]
+    ],
+    "explanation": "a job seeker 求职者；an asylum seeker 寻求庇护者；a truth seeker 寻求真相的人。读长名词组合时，先找在寻求什么。",
+    "usage": "job seekers；seekers of knowledge。",
+    "contrast": "seeker 强调寻求的动作、身份，不保证已经找到；finder 则常按找到东西这个结果称呼。",
+    "examples": [
+      [
+        "The workshop helps job seekers prepare for interviews.",
+        "这场培训帮助求职者准备面试。"
+      ],
+      [
+        "The library welcomes all seekers of knowledge.",
+        "图书馆欢迎所有求知者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seeker#English"
+    ]
+  }
+]

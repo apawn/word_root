@@ -1,0 +1,123 @@
+[
+  {
+    "id": "B3655",
+    "meaning": "帽子、戴帽子的职责；制帽人和粗俗组合",
+    "core": "HAT：头上戴的物品，也能标明一种角色",
+    "image": "hat → hatter 制帽人；wear several hats 身兼数职；asshat 是粗俗骂人话。",
+    "intro": "先抓住帽子，再看职业后缀。比喻职责很常用，粗俗组合只按实际语气解释，不给它假装中性的中文。",
+    "forms": "hætt → hat；hat + -er 双写 t；ass + hat；hat 作动词的常规形式可为 hatted。\n\n古英语帽名延续；角色比喻来自戴不同帽子代表不同身份。",
+    "branches": [
+      [
+        "帽子与职业",
+        "hat · hatter"
+      ],
+      [
+        "粗俗人物称呼",
+        "asshat"
+      ],
+      [
+        "hat → hats：帽子与担任的角色",
+        "hat · hats"
+      ]
+    ],
+    "contrasts": "hatter/hater 制帽人和怀恨者读音拼写都不同；hat 的角色比喻不要求真有帽子。",
+    "practice": "The hatter wears several hats: designer, maker and shopkeeper.\n\n这位制帽人身兼数职：设计师、制作人和店主。",
+    "words": [
+      "hat",
+      "hatter",
+      "asshat",
+      "hats"
+    ],
+    "exclude": {
+      "hatted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3268",
+    "meaning": "引航、驾驶与先行探路",
+    "core": "PILOT：替船、飞机或新计划把方向",
+    "image": "pilot 引航、驾驶 → pilot project 先试路；copilot 协同驾驶者；autopilot 自动系统。",
+    "intro": "把方向掌住、先探一段路，能把引航员、试播集、试点项目连起来。它不是因为现代飞机而新造的词。",
+    "forms": "piloto → pilote → pilot；co- + pilot；auto- + pilot。\n\n法语、意大利语形式接希腊舵桨、掌舵材料，船舶用法早于航空用法。",
+    "branches": [
+      [
+        "引航、驾驶和试点",
+        "pilot"
+      ],
+      [
+        "协同与自动",
+        "copilot · autopilot"
+      ],
+      [
+        "pilot → pilots：掌舵、驾驶与试行",
+        "pilot · pilots"
+      ]
+    ],
+    "contrasts": "pilot/captain 岗位不完全相同；copilot/autopilot 协同驾驶者与自动系统；pilot episode 试播集。",
+    "practice": "The pilot and copilot tested the autopilot during the flight.\n\n飞行中，两位驾驶员测试了自动驾驶系统。",
+    "words": [
+      "pilot",
+      "copilot",
+      "autopilot",
+      "pilots"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4080",
+    "meaning": "第二位、次级、随后；中等教育",
+    "core": "SECONDARY：先确定按什么顺序或层级排",
+    "image": "secondary → secondarily；postsecondary 接在中等教育之后。",
+    "intro": "优先级的第二、教育层级的第二、材料来源的间接，都用到跟在主要或前一层之后的关系。不同关系不能混成差等。",
+    "forms": "secundus → secundārius → secondary；secondary → secondarily；post- + secondary → postsecondary。",
+    "branches": [
+      [
+        "基本次级关系",
+        "secondary · secondarily"
+      ],
+      [
+        "教育阶段扩展",
+        "postsecondary"
+      ]
+    ],
+    "contrasts": "secondary 不等于不重要；secondarily/secondly 次要程度与列点第二；postsecondary 不是小学之后的一切。",
+    "practice": "The report examines secondary education and opportunities for postsecondary study.\n\n报告考察中等教育及中等教育后的升学机会。",
+    "words": [
+      "secondary",
+      "secondarily",
+      "postsecondary"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2577",
+    "meaning": "音乐的；以音乐方式；乐感和音乐性",
+    "core": "MUSICAL：从与音乐有关，走到听得出、表达得出音乐",
+    "image": "musical → musically 以音乐方式、在音乐方面；musicality 音乐性、乐感。",
+    "intro": "music 是音乐，musical 是相关形容词，也能作音乐剧名词；musicality 把音乐感受和表现的性质拿出来谈。",
+    "forms": "music + -al → musical；musical + -ly/-ity → musically/musicality。\n\nmusic 与 musical 的历史接法语、拉丁语的相应形式；musicals 是可数名词，不是给形容词加复数。",
+    "branches": [
+      [
+        "音乐相关及表达方式",
+        "musical · musically"
+      ],
+      [
+        "音乐性与乐感",
+        "musicality"
+      ],
+      [
+        "音乐相关形容词怎样成为音乐剧名称",
+        "musical · musicals"
+      ]
+    ],
+    "contrasts": "musical 名词音乐剧与 musicality 抽象乐感分清；musically/technically 音乐表达与技术角度可以对照。",
+    "practice": "The musical is technically demanding and rewards performers with real musicality.\n\n这部音乐剧技术要求高，也很需要演员有真正的音乐表现力。",
+    "words": [
+      "musical",
+      "musically",
+      "musicality",
+      "musicals"
+    ],
+    "exclude": {}
+  }
+]

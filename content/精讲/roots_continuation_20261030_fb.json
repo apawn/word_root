@@ -1,0 +1,192 @@
+[
+  {
+    "id": "B3695",
+    "meaning": "帽盖在上面，数量也可封顶；另看缩写与俚语",
+    "core": "CAP：覆盖、顶端和上限可以相连，口语说谎另交代",
+    "image": "cap → capped、capping；kneecap、skullcap、capstone、nightcap、madcap 各按身体、衣物、顶端或比喻分。",
+    "intro": "no cap 不是没帽子；recap 总结通常接 recapitulate，不能只靠 re-+cap 就概括全部历史。",
+    "forms": "cappa 经 cæppe → cap；cap 双写 p + -ed/-ing；knee/skull/night/mad + cap；cap + stone；部分 caps 为缩写。\n\ncap、cape 与 cappuccino 接晚期拉丁 cappa 披风词族的不同后裔；cappuccino 经意大利语兜帽、修士名称到饮料名。cappa 更早来源不定，与拉丁 caput 头的联系仅是一种推测。\n\nchapel 经法语 chapele 接中古拉丁 capella，与 cappa 披风的小称形式有关；圣马丁披风的命名故事是传统解释，另有祭坛遮盖物解释。\n\n帽盖支有古英语、拉丁材料；大写 caps 缩自 capitals，分开说明。",
+    "branches": [
+      [
+        "基础、结果与活动",
+        "cap · capped · capping"
+      ],
+      [
+        "身体、帽与顶端位置",
+        "kneecap · skullcap · capstone"
+      ],
+      [
+        "夜间用途与人物比喻",
+        "nightcap · madcap"
+      ],
+      [
+        "从披风、兜帽到咖啡名称：cappuccino",
+        "cap · cape · cappuccino"
+      ],
+      [
+        "chapel：披风词怎样走到礼拜堂",
+        "cap · cape · chapel"
+      ],
+      [
+        "cap → caps：帽、盖、上限与大写缩写",
+        "cap · caps"
+      ]
+    ],
+    "contrasts": "capped at 上限非实际总量；kneecap/knee pad 骨与护具；all caps 大写；no cap 俚语；recap 总结不硬归再戴帽。",
+    "practice": "The capped bottle stood beside his baseball cap.\n\n盖好盖子的瓶子放在他的棒球帽旁。",
+    "words": [
+      "cap",
+      "capped",
+      "capping",
+      "kneecap",
+      "skullcap",
+      "capstone",
+      "nightcap",
+      "madcap",
+      "cape",
+      "cappuccino",
+      "chapel",
+      "caps"
+    ],
+    "exclude": {
+      "milk-cap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "recap": "总结义通常缩自 recapitulate；给物件重新加盖义才可 re-+cap。两义已在 cap 中区分，不按帽盖单一路径处理。",
+      "capper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cappy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3224",
+    "meaning": "取得、抓住到抓人者；金属铜另有名称历史",
+    "core": "COP：警察是 copper 的缩短，铜金属分另一条路",
+    "image": "cop ↔ copper 人物名按实际历史先后讲；copper 铜另从塞浦路斯相关拉丁名称传来。",
+    "intro": "警察词不靠 Constable On Patrol 首字母拼出，也不靠铜徽章传说解释。人物名由动作得来，金属名则沿地名相关传统传下。",
+    "forms": "cop 动词 → copper 抓人者 → cop 缩短；aes Cyprium → cuprum → coper → copper 金属。\n\n通常缩自 copper，较远的抓、取动词来源未定。",
+    "branches": [
+      [
+        "取得、抓人及人物",
+        "cop · copper"
+      ],
+      [
+        "cop → cops：抓捕者到警察口语称呼",
+        "cop · cops"
+      ]
+    ],
+    "contrasts": "cop/police officer 语体；copper 人物后缀与金属整词历史分开；首字母解释是附会。",
+    "practice": "The copper noticed the stolen copper wire.\n\n警察注意到了被盗铜线。",
+    "words": [
+      "cop",
+      "copper",
+      "cops"
+    ],
+    "exclude": {
+      "rent-a-cop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cop-wise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cop-killer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "robocop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "copland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3095",
+    "meaning": "刀锋的利，到感官、判断和急剧变化",
+    "core": "SHARP：边缘明确，感觉、头脑和变化也可以尖利",
+    "image": "sharp → sharply、sharpen、sharpness、sharper；sharpie 分旧词与商标，shebang 只在计算机命名一支联系 sharp 的符号称呼。",
+    "intro": "图像锐度不等于分辨率，比较级 sharper 不等于每次指骗子；the whole shebang 更早普通名词不由现代 sharp 直接推出。",
+    "forms": "scearp → sharp；scearplīce → sharply；sharp + -en/-ness/-er/-ie；hash/sharp + bang 借名计算机 shebang，旧普通词另源。\n\nsharp、shred 各自继承古英语，较远可追共同切割材料，不是现代 sharp 直接派生 shred。sharpener 则对应 sharpen 加 er。\n\nscroll 经法语接日耳曼剪下的纸片材料，与 shred 有历史联系；同页 sharp 只作更远的切割词源联系，不是现代派生基础。roll 影响了 scroll 的英语词形。\n\n纸卷名先发展动词，再有屏幕移动用法；形式变化不等于各个义项同时出现。",
+    "branches": [
+      [
+        "基础、方式、变化和程度",
+        "sharp · sharply · sharpen · sharpness · sharper"
+      ],
+      [
+        "人物、商品名和计算机借名",
+        "sharpie · shebang"
+      ],
+      [
+        "切割远亲 shred 与 sharpener 作用物派生",
+        "sharp · shred · shreds · shredded · shredding · shredder · shredders · sharpen · sharpener · sharpeners"
+      ],
+      [
+        "scroll 的纸片、卷轴来源与现代屏幕义",
+        "shred · scroll · scrollbar · scrollbars"
+      ],
+      [
+        "scroll 的卷轴、滚动动作与常用形式",
+        "scroll · scrolls · scrolled · scrolling · scrollbar · scrollbars"
+      ]
+    ],
+    "contrasts": "sharper 比较级和人物名；sharpness/resolution 锐度分辨率；Sharpie 商标与 marker 通称；shebang 普通词和 #! 不同历史。",
+    "practice": "Sharpen the pencil for a sharper line.\n\n削尖铅笔，画出更清晰的线。",
+    "words": [
+      "sharp",
+      "sharply",
+      "sharpen",
+      "sharpness",
+      "sharper",
+      "sharpie",
+      "shebang",
+      "shred",
+      "shreds",
+      "shredded",
+      "shredding",
+      "shredder",
+      "shredders",
+      "sharpener",
+      "sharpeners",
+      "scroll",
+      "scrollbar",
+      "scrollbars",
+      "scrolls",
+      "scrolled",
+      "scrolling"
+    ],
+    "exclude": {
+      "battle-sharp": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sharp-edged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sharp-witted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2922",
+    "meaning": "化学性质、过程与不同领域的限定",
+    "core": "CHEMICAL：说化学方面，再用前面的材料限定光、地球、生物等",
+    "image": "chemical → chemically；photochemical、physicochemical，及 biochemical、petrochemical、electrochemical、geochemical 按对象与过程分。",
+    "intro": "chemical 本身不自动等于危险或人工；photo- 光，electro- 电，geo- 地球，physico- 物理，各说限定范围。",
+    "forms": "chēmicus 等 + -al → chemical；chemical + -ly；photo-/physico-/bio-/petro-/electro-/geo- + chemical。\n\nchemic、chemicus 等历史词基与 al 相关，性质词名词化指物质，复数 s。",
+    "branches": [
+      [
+        "基础与方式",
+        "chemical · chemically"
+      ],
+      [
+        "光、物理与电过程",
+        "photochemical · physicochemical · electrochemical"
+      ],
+      [
+        "生物、石油和地球范围",
+        "biochemical · petrochemical · geochemical"
+      ],
+      [
+        "chemical → chemicals：化学性质到具体物质",
+        "chemical · chemicals"
+      ]
+    ],
+    "contrasts": "chemical/synthetic/toxic 不是同一属性；chemically/physically 角度不同；photochemical/photographic 光化学与摄影；physico- 非心理。",
+    "practice": "The analysis compared chemical composition and physicochemical properties.\n\n分析比较了化学组成与理化性质。",
+    "words": [
+      "chemical",
+      "chemically",
+      "photochemical",
+      "physicochemical",
+      "electrochemical",
+      "biochemical",
+      "petrochemical",
+      "geochemical",
+      "chemicals"
+    ],
+    "exclude": {
+      "chemical-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

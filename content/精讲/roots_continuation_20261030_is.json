@@ -1,0 +1,121 @@
+[
+  {
+    "id": "B3692",
+    "meaning": "器械、机械作用及不同领域的结合",
+    "core": "MECHANICAL：器械或力学相关，也可形容像机械一样做事",
+    "image": "mechanical → mechanically；bio-/electro- 指生物力学、机电结合。",
+    "intro": "先认清 mechanical 的对象：机器、力学作用还是人的机械反应。前缀不是装饰，而是交代和哪一种领域结合。",
+    "forms": "mechanic 旧器械相关形容词 + -al → mechanical；接 -ly；bio-/electro- + mechanical。",
+    "branches": [
+      [
+        "性质与动作方式",
+        "mechanical · mechanically"
+      ],
+      [
+        "跨领域组合",
+        "biomechanical · electromechanical"
+      ]
+    ],
+    "contrasts": "mechanical 不只指汽车修理工相关；mechanically 可是机械地、无意识地；electromechanical 强调电与机械结合。",
+    "practice": "The engineer mechanically repeated the name of the electromechanical component.\n\n工程师机械地重复着那个机电元件的名称。",
+    "words": [
+      "mechanical",
+      "mechanically",
+      "biomechanical",
+      "electromechanical"
+    ],
+    "exclude": {
+      "bio-mechanical": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3909",
+    "meaning": "喉部、收窄通道与声音质地",
+    "core": "THROAT：部位、通道、声质分别扩展",
+    "image": "throat → throaty；throttle 有复杂旧词形，再扩到机械节流和网络限速；cutthroat 是固定组合。",
+    "intro": "一条管道的喉部是窄处，这个画面方便理解节流。不要为直观记忆把 -le 的争议历史编得比证据更确定。",
+    "forms": "þrote → throte → throat；接 -y；相关 throtel/throtlen → throttle；cut + throat。",
+    "branches": [
+      [
+        "部位、声质与流量控制",
+        "throat · throaty · throttle"
+      ],
+      [
+        "激烈竞争的固定比喻",
+        "cutthroat"
+      ]
+    ],
+    "contrasts": "throaty 不一定是病；throttle 不只说汽车；喉咙普通区域名不等于单一解剖管道。",
+    "practice": "He cleared his throat, then described the engine’s throaty sound at full throttle.\n\n他清清嗓子，随后描述发动机全速时低沉的轰鸣。",
+    "words": [
+      "throat",
+      "throaty",
+      "throttle",
+      "cutthroat"
+    ],
+    "exclude": {
+      "deep-throat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "throated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4312",
+    "meaning": "长到适当阶段，及状态、过程、未成熟和过早",
+    "core": "MATURE：长成、发展到位；还可问有没有到时点",
+    "image": "mature → maturely；immature 未成熟，premature 过早；maturity 状态，maturation 过程。",
+    "intro": "成熟可以是生长、心智、方案、产业，也可以是债务到期的比喻。未成熟与过早相互有关，却不说同一件事。",
+    "forms": "mātūrus / mātūrāre → mature；immātūrus → immature；mātūritās → maturity；mātūrātiō → maturation；praemātūrus → premature。",
+    "branches": [
+      [
+        "基础性质与做事方式",
+        "mature · maturely"
+      ],
+      [
+        "未成熟与时点过早",
+        "immature · premature"
+      ],
+      [
+        "状态和发展过程",
+        "maturity · maturation"
+      ]
+    ],
+    "contrasts": "mature 不只是年纪大；immature 不全是贬义；maturity 有借入史，不只英语临时加 -ity；maturation 偏过程。",
+    "practice": "The course follows the maturation process from an immature stage to maturity.\n\n课程追踪从未成熟阶段到成熟的发育过程。",
+    "words": [
+      "mature",
+      "maturely",
+      "immature",
+      "premature",
+      "maturity",
+      "maturation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2441",
+    "meaning": "人工劳动者的戏剧名称，发展为机器与技术领域",
+    "core": "ROBOT：承担任务的人工劳动者 → 现代机器人",
+    "image": "robot 机器 → robotic 相关性质 → robotics 技术领域。",
+    "intro": "名称从文学走进工程，外形和能力不必永远和最初作品相同。按名词、形容词、学科名分清，读音还要留意重音移动。",
+    "forms": "robota → robot；robot + -ic / -ics。\n\n捷克语 robota 苦役、劳作，恰佩克兄弟和戏剧使名称传播。",
+    "branches": [
+      [
+        "机器、性质与学科",
+        "robot · robotic · robotics"
+      ],
+      [
+        "robot → robots：从人工劳动者到机器角色",
+        "robot · robots"
+      ]
+    ],
+    "contrasts": "robot 不只人形；robotic 可比喻机械反应；robotics 学科接单数谓语，robots 才是机器人的复数。",
+    "practice": "The robotics club built a robot with a small robotic arm.\n\n机器人社团制作了一台带小机械臂的机器人。",
+    "words": [
+      "robot",
+      "robotic",
+      "robotics",
+      "robots"
+    ],
+    "exclude": {}
+  }
+]

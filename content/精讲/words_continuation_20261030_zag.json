@@ -1,0 +1,546 @@
+[
+  {
+    "word": "murdered",
+    "ipa": "英 /ˈmɜːdəd/；美 /ˈmɜːrdərd/",
+    "meaning": "谋杀了；被谋杀的〔过去式、过去分词〕",
+    "sense": "故事里有人故意杀害他人，这个动作在过去叙述里就是 murdered。被动形式则把遭到杀害的人放到主语位置。",
+    "split": "murder + -ed，结尾读 /d/。murder 接古英语 morþor 等本族材料，现代 d 的形式可能受法语同源拼写影响。",
+    "history": [
+      [
+        "古英语 morþor 等 → 英语 murder",
+        "杀人罪行等旧材料 → 谋杀"
+      ],
+      [
+        "murder + -ed → murdered",
+        "谋杀已发生；be murdered 表示被谋杀"
+      ]
+    ],
+    "explanation": "was murdered 被谋杀；the murdered character 遭谋杀的角色；murdered in the story 在故事里被杀害。",
+    "usage": "who murdered the character 谁杀害了这个角色；had been murdered 先前已被谋杀。",
+    "contrast": "kill 的范围更宽，事故、动物捕食等也能用；murder 通常更明确指人的蓄意杀害行为。作主动过去式时主语是实施者，被动结构则把遭杀害者放在主语位置。",
+    "examples": [
+      [
+        "In the novel, a wealthy businessman is murdered.",
+        "小说里，一位富有的商人被谋杀了。"
+      ],
+      [
+        "The detective tries to discover who murdered the missing man.",
+        "侦探试图查明是谁杀害了那位失踪男子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/murdered#English",
+      "https://en.wiktionary.org/wiki/murder#English"
+    ]
+  },
+  {
+    "word": "giants",
+    "ipa": "/ˈdʒaɪənts/",
+    "meaning": "巨人；巨头、杰出人物；巨型事物〔复数〕",
+    "sense": "童话里比常人高大得多的巨人，是 giants 的直接画面。把身高换成规模、影响力，就能说行业巨头或某个领域的大家。",
+    "split": "giant + -s，/t/ 后读 /s/。giant 经古法语 geant 接拉丁 gigas、gigant-，再接希腊巨人名词 gigas。",
+    "history": [
+      [
+        "希腊 gigas、拉丁 gigas → 古法语 geant → giant",
+        "神话巨人 → 非常高大、强大的存在"
+      ],
+      [
+        "giant + -s → giants",
+        "多个巨人；比喻大企业、杰出人物等"
+      ]
+    ],
+    "explanation": "industry giants 行业巨头；literary giants 文学巨匠；giants in a fairy tale 童话里的巨人。",
+    "usage": "technology giants 科技巨头；gentle giants 温和的大个子、巨型动物等。",
+    "contrast": "giants 是人物、企业等的复数名词；giants of science 可以是科学大家。形容巨大的树时说 giant trees，giant 作前置修饰通常不加 s。",
+    "examples": [
+      [
+        "The story takes place in a land of giants.",
+        "故事发生在一个巨人的国度。"
+      ],
+      [
+        "The exhibition celebrates several giants of modern design.",
+        "展览向几位现代设计大师致敬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/giants#English",
+      "https://en.wiktionary.org/wiki/giant#English"
+    ]
+  },
+  {
+    "word": "signals",
+    "ipa": "/ˈsɪɡnəlz/",
+    "meaning": "信号、迹象〔复数〕；发信号、表明〔第三人称单数〕",
+    "sense": "一个灯光、一个动作、一段可识别的变化，让接收的人知道该怎么理解，是 signals。它可以真在传信息，也可以只是显露某种情况。",
+    "split": "signal + -s，/l/ 后读 /z/。signal 经法语、中古拉丁 signale 接拉丁 signum 记号；现代动词通常接名词转用，也有相关缩短分析。",
+    "history": [
+      [
+        "拉丁 signum、signale → 法语等 → signal",
+        "记号 → 可传递、识别的信息标记"
+      ],
+      [
+        "signal + -s → signals",
+        "多个信号；某物表明或发出信号"
+      ]
+    ],
+    "explanation": "traffic signals 交通信号；radio signals 无线电信号；signals a change 表明变化。",
+    "usage": "send signals 发出信号；mixed signals 互相矛盾的信号、态度。",
+    "contrast": "signals 可以是有意发送，也可以是被观察出的迹象。signal a change 不保证有人主动安排了这个变化。",
+    "examples": [
+      [
+        "The receiver picks up signals from the satellite.",
+        "接收器接收来自卫星的信号。"
+      ],
+      [
+        "The announcement signals a change in the plan.",
+        "这项公告表明计划有所变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/signals#English",
+      "https://en.wiktionary.org/wiki/signal#English"
+    ]
+  },
+  {
+    "word": "spaces",
+    "ipa": "/ˈspeɪsɪz/",
+    "meaning": "空间、空位、区域；空格〔复数〕；留出间距〔第三人称单数〕",
+    "sense": "整体里有一块留出来的位置，就能数作 a space。停车位、房间里的区域、字与字之间的空格，都可以成为 spaces。",
+    "split": "space + -s，末尾 /s/ 后读 /ɪz/，多一个音节。space 经法语 espace 等接拉丁 spatium；安排间距的动词由名词发展。",
+    "history": [
+      [
+        "拉丁 spatium → 法语、英语 space",
+        "间隔、范围 → 可用空间、位置"
+      ],
+      [
+        "space + -s → spaces",
+        "多个空位、区域、空格；或某人留间距"
+      ]
+    ],
+    "explanation": "parking spaces 停车位；green spaces 绿地；spaces between words 词间空格。",
+    "usage": "public spaces 公共空间；spaces the chairs evenly 把椅子间距排匀。",
+    "contrast": "space 不可数可指空间总量；spaces 可数把一块块区域、位置拿出来。太空义 space 通常不因星空很多就加 s。",
+    "examples": [
+      [
+        "There are only two parking spaces left.",
+        "只剩两个停车位了。"
+      ],
+      [
+        "Leave spaces between the words.",
+        "词与词之间要留空格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spaces#English",
+      "https://en.wiktionary.org/wiki/space#English"
+    ]
+  },
+  {
+    "word": "attempting",
+    "ipa": "/əˈtemptɪŋ/",
+    "meaning": "尝试、试图〔现在分词、动名词〕",
+    "sense": "知道目标是什么，开始朝它试着做，但还没有保证做到，这就是 attempting 的语气。",
+    "split": "attempt + -ing，直接加 ing，不双写 t。拉丁 ad- 与 temptare 尝试形成 attemptare，经古法语 atempter 等进入英语。",
+    "history": [
+      [
+        "拉丁 attemptare → 古法语 → attempt",
+        "朝目标试着做、尝试"
+      ],
+      [
+        "attempt + -ing → attempting",
+        "正在尝试某项行动"
+      ]
+    ],
+    "explanation": "attempting to solve a problem 试图解决问题；attempting a difficult climb 尝试艰难攀登。",
+    "usage": "attempting to contact someone 试图联系某人；attempting a new method 尝试一种新方法。",
+    "contrast": "attempting to do 强调试图做到，不表示已经成功；managing to do 则常说终于做到了。attempt 比 try 往往更正式。",
+    "examples": [
+      [
+        "We are attempting to find a simpler solution.",
+        "我们正试图找到更简单的解决办法。"
+      ],
+      [
+        "The climbers are attempting a new route.",
+        "登山者正在尝试一条新路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attempting#English",
+      "https://en.wiktionary.org/wiki/attempt#English"
+    ]
+  },
+  {
+    "word": "wells",
+    "ipa": "/welz/",
+    "meaning": "井、水井；泉源〔复数〕；涌出〔第三人称单数〕",
+    "sense": "往地下打到水源处，是井；水从地层里向外冒，则是 wells up。名词数井，动词说水、泪水或情绪涌上来。",
+    "split": "井义 well + -s，/l/ 后读 /z/；井泉名词接古英语 wielle。涌出动词关联 weallan、wiellan 等旧形式。好地的 well 接另一路 wel，不把它们并成一个确定来源。",
+    "history": [
+      [
+        "古英语井泉名词与涌出动词 → well 的相应分支",
+        "地下水源、泉；水向外涌"
+      ],
+      [
+        "well + -s → wells",
+        "多口井、多个源头；或液体、情绪涌出"
+      ]
+    ],
+    "explanation": "water wells 水井；oil wells 油井；water wells up 水涌上来；tears well up 泪水涌出。",
+    "usage": "deep wells 深井；wells in the village 村中的井。",
+    "contrast": "wells 不能当作 well 好地的普通复数。those wells 指井；water wells up 中 wells 是动词，up 帮助说明涌出的方向。",
+    "examples": [
+      [
+        "The village once relied on two wells for water.",
+        "这个村庄过去靠两口井取水。"
+      ],
+      [
+        "Water wells up through a crack in the rock.",
+        "水从岩石的一道裂缝中涌出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wells#English",
+      "https://en.wiktionary.org/wiki/well#English"
+    ]
+  },
+  {
+    "word": "laughed",
+    "ipa": "英 /lɑːft/；美 /læft/",
+    "meaning": "笑了〔过去式、过去分词〕",
+    "sense": "觉得好笑，笑声已经发出来，是 laughed。它可以是开心、尴尬、带着嘲讽的笑，态度还要靠上下文判断。",
+    "split": "laugh + -ed，词干 gh 读 /f/，清音后 ed 读 /t/。laugh 继承古英语笑动词，现代拼写保留旧材料，发音已发生变化。",
+    "history": [
+      [
+        "古英语笑动词 → 中古英语、现代 laugh",
+        "发出笑声"
+      ],
+      [
+        "laugh + -ed → laughed",
+        "/f/ 后接 /t/；笑发生了"
+      ]
+    ],
+    "explanation": "laughed at a joke 听笑话笑了；laughed with friends 和朋友一起笑；laughed it off 一笑置之。",
+    "usage": "laughed aloud 大声笑了；laughed nervously 紧张地笑了。",
+    "contrast": "laughed at someone 可能带嘲笑，laughed with someone 常是一起笑。laughed 的 gh 与后面 ed 都要按音读，不能逐个字母读出来。",
+    "examples": [
+      [
+        "We laughed at the story for a long time.",
+        "这个故事让我们笑了很久。"
+      ],
+      [
+        "She laughed nervously before answering.",
+        "她紧张地笑了一下，然后回答。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/laughed#English",
+      "https://en.wiktionary.org/wiki/laugh#English"
+    ]
+  },
+  {
+    "word": "neighbors",
+    "ipa": "英 /ˈneɪbəz/；美 /ˈneɪbərz/",
+    "meaning": "邻居；邻近的人、事物〔复数，美式拼写〕",
+    "sense": "住在近处的人，是 neighbors。地图上、桌面上或系统里挨得近的对象，也能借用这个邻近关系。",
+    "split": "neighbor + -s，末尾读 /z/；英式对应 neighbours。neighbor、neighbour 接古英语 neahgebur，包含近与居住者的材料，不是今天由两段现代英语临时拼成。",
+    "history": [
+      [
+        "古英语 neah 与 gebur 的历史组合 → neighbor／neighbour",
+        "住在近处的人"
+      ],
+      [
+        "neighbor + -s → neighbors",
+        "多位邻居；也比喻邻近对象"
+      ]
+    ],
+    "explanation": "next door neighbors 隔壁邻居；friendly neighbors 友好的邻居；our nearest neighbors 离我们最近的邻居。",
+    "usage": "neighbors on both sides 两边的邻居；neighbourhood 英式、neighborhood 美式，都是邻里地区名称。",
+    "contrast": "neighbors 与 neighbours 是同一个词的拼写差异，不是不同身份。neighborhood 是邻里地区、环境，不能当 neighbors 的另一种复数。",
+    "examples": [
+      [
+        "Our neighbors helped us carry the boxes upstairs.",
+        "邻居们帮我们把箱子搬上楼。"
+      ],
+      [
+        "The two countries are close neighbors.",
+        "这两个国家彼此相邻。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neighbors#English",
+      "https://en.wiktionary.org/wiki/neighbor#English"
+    ]
+  },
+  {
+    "word": "picks",
+    "ipa": "/pɪks/",
+    "meaning": "挑选、采摘、拨动等〔第三人称单数〕；选中的人或物、拨片等〔复数〕",
+    "sense": "从一堆里挑出一个，或用一个小尖头拨、啄、挑，是 picks 这一组动作的中心。名词又能说挑中的结果或执行动作的小工具。",
+    "split": "pick + -s，/k/ 后读 /s/。pick 的旧挑、啄、刺材料与相邻日耳曼词有关，具体远源不强作确定的拟声解释。",
+    "history": [
+      [
+        "英语旧挑、啄、刺相关材料 → pick",
+        "挑动、取出 → 选择；工具、结果名词"
+      ],
+      [
+        "pick + -s → picks",
+        "某人挑、拨；多项选择、多个拨片等"
+      ]
+    ],
+    "explanation": "picks a book 挑一本书；picks up the bag 拿起包；top picks 首选推荐；guitar picks 吉他拨片。",
+    "usage": "picks berries 采浆果；the editor’s picks 编辑精选。",
+    "contrast": "picks 可以是选择结果，不是选择动作的人；picker 才常表示挑选者、采摘者或工具。pick up 又有拿起、接送、学会等固定扩展。",
+    "examples": [
+      [
+        "She picks a different book each week.",
+        "她每周挑一本不同的书。"
+      ],
+      [
+        "These are the editor’s picks for the summer.",
+        "这些是编辑为夏季选出的推荐作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/picks#English",
+      "https://en.wiktionary.org/wiki/pick#English"
+    ]
+  },
+  {
+    "word": "professionals",
+    "ipa": "/prəˈfeʃənəlz/",
+    "meaning": "专业人士；职业选手、以此谋生的人〔复数〕",
+    "sense": "不是临时随便做一下，而是把某种专门技能作为职业的人，是 professionals。体育里还常与业余选手区分。",
+    "split": "professional + -s，/l/ 后读 /z/。professional 与 profession + -al 相联，早期职业、身份声明的词史后来进入专业从业者称呼。",
+    "history": [
+      [
+        "profession + -al 的历史对应 → professional",
+        "职业、专门从业性质；再名词化指从业者"
+      ],
+      [
+        "professional + -s → professionals",
+        "多位专业人士、职业选手"
+      ]
+    ],
+    "explanation": "experienced professionals 有经验的专业人士；health professionals 医疗卫生专业人士；sports professionals 职业运动员。",
+    "usage": "work with professionals 与专业人士合作；trained professionals 受过训练的专业人士。",
+    "contrast": "professionals 作名词说人；professional 作形容词可说职业的或做事专业的。是不是职业身份，与一次表现好坏并非完全相同。",
+    "examples": [
+      [
+        "The workshop brings together professionals from different fields.",
+        "工作坊汇集了不同领域的专业人士。"
+      ],
+      [
+        "The event is open to both amateurs and professionals.",
+        "活动同时向业余人士和专业人士开放。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/professionals#English",
+      "https://en.wiktionary.org/wiki/professional#English"
+    ]
+  },
+  {
+    "word": "reactions",
+    "ipa": "/riˈækʃənz/",
+    "meaning": "反应、回应；化学反应等〔复数〕",
+    "sense": "外面先来一个动作、消息或条件变化，里面接着产生回应，这些回应就是 reactions。人的表情、公众意见、物质变化都可在各自语境中用它。",
+    "split": "reaction + -s，/n/ 后读 /z/。现代可与 react 加 ion、re- 加 action 对照；名词词史也联系拉丁 reactio、法语 réaction，不能只说英语动词新造名词。",
+    "history": [
+      [
+        "拉丁 reactio、法语 réaction 等 → reaction",
+        "回应、相应作用的名称"
+      ],
+      [
+        "reaction + -s → reactions",
+        "多种反应、多次反应；科学另有专门含义"
+      ]
+    ],
+    "explanation": "reactions to the news 对消息的反应；mixed reactions 褒贬不一的反应；chemical reactions 化学反应。",
+    "usage": "quick reactions 反应敏捷；record people’s reactions 记录人们的反应。",
+    "contrast": "reactions 可以是一时本能，也可以是考虑后的回应；response 与它有重叠。化学里的 reaction 有专门含义，不照搬人的态度解释。",
+    "examples": [
+      [
+        "The announcement received mixed reactions.",
+        "公告引来了不一的反应。"
+      ],
+      [
+        "The researchers recorded the participants’ reactions.",
+        "研究人员记录了参与者的反应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reactions#English",
+      "https://en.wiktionary.org/wiki/reaction#English"
+    ]
+  },
+  {
+    "word": "springs",
+    "ipa": "/sprɪŋz/",
+    "meaning": "泉、泉源；弹簧；多个春季〔复数〕；跳起、涌出、突然出现〔第三人称单数〕",
+    "sense": "水从地下冒出来，弹簧压下后又弹起来，草木在春天萌发，这几幅画面共享向外、向上的活力。springs 可数泉、弹簧，也可说某物突然跃出。",
+    "split": "spring + -s，/ŋ/ 后读 /z/。spring 接古英语 springan 跳、涌出、萌发；泉源等名词也有旧形式，春季名称又由萌发生长分支固定。",
+    "history": [
+      [
+        "古英语 springan 及相关名词 → spring",
+        "跳、涌、萌发 → 泉源、弹性结构、春季等"
+      ],
+      [
+        "spring + -s → springs",
+        "多处泉、多根弹簧、多个春季；或某物涌出、跳起"
+      ]
+    ],
+    "explanation": "hot springs 温泉；metal springs 金属弹簧；springs to mind 忽然想到；springs into action 立刻行动。",
+    "usage": "the springs in a mattress 床垫里的弹簧；water springs from the rock 水从岩石中涌出。",
+    "contrast": "hot springs 是泉水，不是炎热的春天。spring 动词的过去式常是 sprang，分词 sprung；springs 是现在三单或名词复数。",
+    "examples": [
+      [
+        "The old mattress has several broken springs.",
+        "旧床垫有几根断掉的弹簧。"
+      ],
+      [
+        "A useful example springs to mind.",
+        "我忽然想到一个有用的例子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/springs#English",
+      "https://en.wiktionary.org/wiki/spring#English"
+    ]
+  },
+  {
+    "word": "suggestions",
+    "ipa": "英 /səˈdʒestʃənz/；美 /səɡˈdʒestʃənz/",
+    "meaning": "建议、提议；暗示〔复数〕",
+    "sense": "把几个想法摆到别人面前，让对方考虑，这些就是 suggestions。也可能不是明说，而是留下让人往某个方向想的暗示。",
+    "split": "suggestion + -s，/n/ 后读 /z/。suggestion 借拉丁 suggestio 经古法语、盎格鲁法语等到中古英语，名词记录早于常用动词 suggest。",
+    "history": [
+      [
+        "拉丁 suggestio → 法语等 → suggestion",
+        "提到面前的想法、提示"
+      ],
+      [
+        "suggestion + -s → suggestions",
+        "多项提议、建议；多个暗示"
+      ]
+    ],
+    "explanation": "make suggestions 提建议；suggestions for improvement 改进建议；open to suggestions 愿意听取建议。",
+    "usage": "helpful suggestions 有帮助的建议；ask for suggestions 征求建议。",
+    "contrast": "suggestions 是可数的建议；advice 在普通用法中不可数，常说 some advice。不能照中文的几条建议把 advice 随意加 s。",
+    "examples": [
+      [
+        "Do you have any suggestions for the next meeting?",
+        "你对下次会议有什么建议吗？"
+      ],
+      [
+        "Her suggestions helped us simplify the design.",
+        "她的建议帮助我们简化了设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suggestions#English",
+      "https://en.wiktionary.org/wiki/suggestion#English"
+    ]
+  },
+  {
+    "word": "unions",
+    "ipa": "/ˈjuːnjənz/",
+    "meaning": "工会；联合组织、联盟；结合等〔复数〕",
+    "sense": "分开的成员合起来，组成一个共同的整体，是 unions 的中心。工作语境里常专指工会，其他场景也可以是联盟或结合关系。",
+    "split": "union + -s，/n/ 后读 /z/。union 经古法语接晚期拉丁 unio，属 unus 一的材料；与 unite 同族，但不是现代英语先有 unite 才造出 union。",
+    "history": [
+      [
+        "晚期拉丁 unio → 古法语 union → 英语 union",
+        "合为一体、结合 → 联合组织等"
+      ],
+      [
+        "union + -s → unions",
+        "多个工会、联盟或结合关系"
+      ]
+    ],
+    "explanation": "trade unions 工会；student unions 学生会等组织；unions of states 国家联盟。",
+    "usage": "members of unions 工会等组织的成员；different unions 不同工会、联合组织。",
+    "contrast": "union 的一、联合意象来自较早语言；unite 是联合的动作。工作场景中的 unions 常指工会，数学里的 union 又有集合并集的专门含义。",
+    "examples": [
+      [
+        "Several unions took part in the discussion.",
+        "几个工会参加了讨论。"
+      ],
+      [
+        "Student unions from different colleges organised the event.",
+        "不同学院的学生会组织了这次活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unions#English",
+      "https://en.wiktionary.org/wiki/union#English"
+    ]
+  },
+  {
+    "word": "applies",
+    "ipa": "/əˈplaɪz/",
+    "meaning": "适用；应用、涂抹、施加；申请〔第三人称单数〕",
+    "sense": "规则贴到这个情况上，是适用；把方法拿来用，是应用；把自己朝一个机会递过去，是申请。applies 的对象不同，中文也不同。",
+    "split": "apply 末尾辅音字母加 y，改 y 为 i 加 -es，结尾读 /z/。apply 接拉丁 ad- 与 plicare 所成 applicare，经法语借入。",
+    "history": [
+      [
+        "拉丁 applicare → 法语 → apply",
+        "使贴近、附上 → 应用、适用、申请等"
+      ],
+      [
+        "apply → applies",
+        "改 y 为 i 加 es；第三人称主语的动作或适用关系"
+      ]
+    ],
+    "explanation": "applies to everyone 适用于所有人；applies for a job 申请职位；applies pressure 施压。",
+    "usage": "the same rule applies 同样的规则适用；applies paint 涂油漆。",
+    "contrast": "applies to this case 通常讲适用；applies to a university 也可能是向大学申请，主语、宾语共同决定。applies for 则常接所争取的机会。",
+    "examples": [
+      [
+        "The same rule applies to everyone.",
+        "同样的规则适用于所有人。"
+      ],
+      [
+        "She applies the method to each new problem.",
+        "她把这个方法用于每一个新问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/applies#English",
+      "https://en.wiktionary.org/wiki/apply#English"
+    ]
+  },
+  {
+    "word": "arrangements",
+    "ipa": "/əˈreɪndʒmənts/",
+    "meaning": "安排、筹备事项；约定、协议；布置、音乐编配等〔复数〕",
+    "sense": "人、物、时间都摆到合适的位置，得到的那一项项安排，就是 arrangements。音乐、花艺等场景也能数不同的布置、编配结果。",
+    "split": "arrangement + -s，/t/ 后读 /s/。arrangement 借法语相应名词，现代可与 arrange 加 ment 配套学；ment 名词可说动作、结果或既定安排。",
+    "history": [
+      [
+        "法语 arrangement → 英语 arrangement；与 arrange 相联",
+        "排好、安排的行为 → 布置、协议等结果"
+      ],
+      [
+        "arrangement + -s → arrangements",
+        "多项筹备、安排；多种布置、编配"
+      ]
+    ],
+    "explanation": "make arrangements 作安排；travel arrangements 行程安排；financial arrangements 资金安排。",
+    "usage": "flower arrangements 插花作品；musical arrangements 音乐编配。",
+    "contrast": "arrangements 不只说物品摆放，也常是住宿、交通等筹备事项。an agreement 更明确强调双方达成一致，arrangement 可含这一义也可只是安排。",
+    "examples": [
+      [
+        "We have made all the travel arrangements.",
+        "我们已经把行程都安排好了。"
+      ],
+      [
+        "The concert features new arrangements of traditional songs.",
+        "音乐会将演出传统歌曲的新编版本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/arrangements#English",
+      "https://en.wiktionary.org/wiki/arrangement#English"
+    ]
+  }
+]

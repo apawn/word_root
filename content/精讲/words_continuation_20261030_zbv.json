@@ -1,0 +1,546 @@
+[
+  {
+    "word": "kicks",
+    "ipa": "/kɪks/",
+    "meaning": "踢〔第三人称单数〕；踢击、刺激、兴奋感〔复数〕",
+    "sense": "脚向外一伸击中东西，是 kicks；某种刺激像踢一下那样让人兴奋，也带出 get kicks 的开心、刺激义。",
+    "split": "kick 接中古英语 kyken 等，较远与北欧弯膝材料的联系有不同分析。现代直接加 -s，/k/ 后读 /s/；名词、动词同形。",
+    "history": [
+      [
+        "中古英语 kyken 等 → kick",
+        "踢；较远来源未完全确定"
+      ],
+      [
+        "kick 的名词扩展；kick + -s → kicks",
+        "踢击 → 冲击、兴奋感；动作三单"
+      ]
+    ],
+    "explanation": "kicks the ball 踢球；powerful kicks 有力的踢击；for kicks 为了好玩、寻刺激。",
+    "usage": "a few kicks 几脚；gets kicks from puzzles 从解谜中得到乐趣。",
+    "contrast": "kicks 可以是实打实的踢，也可以是口语的乐趣或刺激。get kicks 不要求真的被踢，重点在得到兴奋感。",
+    "examples": [
+      [
+        "She kicks the ball towards the goal.",
+        "她把球踢向球门。"
+      ],
+      [
+        "He joined the game just for kicks.",
+        "他参加游戏只是为了好玩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/kicks#English",
+      "https://en.wiktionary.org/wiki/kick#English"
+    ]
+  },
+  {
+    "word": "legends",
+    "ipa": "/ˈledʒəndz/",
+    "meaning": "传说；传奇人物；图例、说明文字〔复数〕",
+    "sense": "代代传下来的故事，是 legends；人有非凡经历，被大家像讲故事那样传颂，也可称 legends。图上的 legends 则是供读者看懂图的说明。",
+    "split": "legend 接拉丁 legenda 应被阅读的事，中世纪用于圣徒故事等读诵材料，经法语进入。现代直接加 -s，/d/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 legere → legenda → 中世纪故事、法语 → legend",
+        "读 → 应读材料 → 传说、题记说明"
+      ],
+      [
+        "legend + -s → legends",
+        "多则传说、传奇人物或图例"
+      ]
+    ],
+    "explanation": "local legends 当地传说；sporting legends 体育传奇人物；map legends 地图图例。",
+    "usage": "legends about the lake 关于湖泊的传说；living legends 在世的传奇人物。",
+    "contrast": "legend 不等于 lie 谎言；传说强调流传的故事，不保证每个细节可考。地图里的 legend 则是符号说明，和神话故事场景不同。",
+    "examples": [
+      [
+        "The guide told us local legends about the lake.",
+        "向导给我们讲了关于那个湖的当地传说。"
+      ],
+      [
+        "The book includes interviews with sporting legends.",
+        "书中收录了对体育传奇人物的访谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legends#English",
+      "https://en.wiktionary.org/wiki/legend#English"
+    ]
+  },
+  {
+    "word": "magazines",
+    "ipa": "/ˌmæɡəˈziːnz/",
+    "meaning": "杂志；储藏装置、弹匣〔复数〕",
+    "sense": "一本杂志像内容的小仓库，把不同文章、图片汇在一起。magazines 最常是一本本这样的出版物，其他领域还保留储藏东西的用法。",
+    "split": "阿拉伯 makhzan 仓库的复数 makhazin，经意大利 magazzino、法语 magasin 等借入。英语 magazine 已重新当单数使用，所以现代再加英语复数 -s，/n/ 后读 /z/。",
+    "history": [
+      [
+        "阿拉伯 makhazin → 意大利、法语 → 英语 magazine",
+        "仓库、库藏；来源词形本是复数"
+      ],
+      [
+        "英语单数 magazine → magazines",
+        "内容汇集的杂志等，再按英语加复数 s"
+      ]
+    ],
+    "explanation": "fashion magazines 时尚杂志；read magazines 看杂志；a stack of magazines 一摞杂志。",
+    "usage": "monthly magazines 月刊杂志；magazines on the table 桌上的杂志。",
+    "contrast": "来源语言的复数不要求现代英语继续按原语言变化。magazine 是一本杂志，magazines 才是英语里多本的普通形式。",
+    "examples": [
+      [
+        "She borrowed three magazines from the library.",
+        "她从图书馆借了三本杂志。"
+      ],
+      [
+        "Old magazines were stacked beside the chair.",
+        "旧杂志堆在椅子旁边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/magazines#English",
+      "https://en.wiktionary.org/wiki/magazine#English"
+    ]
+  },
+  {
+    "word": "ports",
+    "ipa": "英 /pɔːts/；美 /pɔːrts/",
+    "meaning": "港口；接口、开口〔复数〕；移植软件〔第三人称单数〕",
+    "sense": "船进出的地方是 ports；电脑连接设备的入口也叫 ports。共同有进出的直观画面，但历史上的港口词与门、开口词需要分别追。",
+    "split": "港口 port 接拉丁 portus，开口支接 porta；英语还有 portare 携带相关材料。软件移植动词的直接来源有分歧，不能凭搬运联想写死。现代直接加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "拉丁 portus → 港口 port；porta → 门、开口支",
+        "不同近源在英语保留相近的出入口画面"
+      ],
+      [
+        "port + -s → ports",
+        "多个港口、接口；另有软件移植动词三单"
+      ]
+    ],
+    "explanation": "sea ports 海港；USB ports USB 接口；ports a game to another system 把游戏移植到另一个系统。",
+    "usage": "two ports on the computer 电脑上的两个接口；ships in several ports 几个港口里的船只。",
+    "contrast": "ports 在电脑里可以说连接口，也可以在软件语境说逻辑端口或移植动作。port 葡萄酒另来自 Porto 地名，不要全并成港口派生。",
+    "examples": [
+      [
+        "The ship stopped at three ports.",
+        "这艘船停靠了三个港口。"
+      ],
+      [
+        "The computer has two USB ports.",
+        "这台电脑有两个 USB 接口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ports#English",
+      "https://en.wiktionary.org/wiki/port#English"
+    ]
+  },
+  {
+    "word": "preserved",
+    "ipa": "英 /prɪˈzɜːvd/；美 /prɪˈzɜːrvd/",
+    "meaning": "保存了、保全的；维持了〔过去式、过去分词〕",
+    "sense": "让东西没有随着时间损坏或消失，尽量留下原来的样子，是 preserved。对象可以是老建筑、文件，也可以是记忆或传统。",
+    "split": "preserve 经法语接后期拉丁 praeservare：prae- 事先 + servare 保全。现代去末尾不发音 e，加完整 -ed，/v/ 后读 /d/。",
+    "history": [
+      [
+        "后期拉丁 praeservare → 法语、英语 preserve",
+        "事先保护 → 保存、维持"
+      ],
+      [
+        "preserve 去 e + -ed → preserved",
+        "已保护着留下；保存的"
+      ]
+    ],
+    "explanation": "well preserved 保存良好的；preserved records 保存下来的记录；preserved the original design 保留了原设计。",
+    "usage": "preserved in a collection 保存在收藏中；preserved memories 留存的记忆。",
+    "contrast": "preserved 强调保留下来，repaired 强调坏处被修好。有些东西既修复又保存，但两个词抓的重点不同。",
+    "examples": [
+      [
+        "The letters were preserved in a wooden box.",
+        "这些信被保存在一个木盒里。"
+      ],
+      [
+        "The village has preserved its old square.",
+        "村庄保留了旧广场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preserved#English",
+      "https://en.wiktionary.org/wiki/preserve#English"
+    ]
+  },
+  {
+    "word": "prospects",
+    "ipa": "名词：英 /ˈprɒspekts/、美 /ˈprɑːspekts/；动词英亦 /prəˈspekts/",
+    "meaning": "前景、机会；有希望的候选对象〔复数〕；勘探〔第三人称单数〕",
+    "sense": "往前看，觉得接下来有多大可能、有多少机会，是 prospects。招聘或业务里，有潜力进一步发展的对象，也可借这个前景画面称 prospects。",
+    "split": "拉丁 pro- 向前 + specere 看，形成 prospicere、prospectus 视野、前景。英语动词勘探由名词发展；现代加 -s，/t/ 后读 /s/，词性读音有差异。",
+    "history": [
+      [
+        "拉丁 prospicere、prospectus → prospect",
+        "向前看 → 视野、将来的可能"
+      ],
+      [
+        "prospect + -s → prospects",
+        "多个机会、前景或潜在对象；动词三单另按语境"
+      ]
+    ],
+    "explanation": "job prospects 就业前景；prospects for success 成功的可能；promising prospects 有希望的候选对象。",
+    "usage": "improve their prospects 改善他们的前景；prospects look good 前景看来不错。",
+    "contrast": "prospects 是向前看的可能性，不保证将来一定实现。名词的前景义最常用，勘探动词要看是否在谈找矿等具体行动。",
+    "examples": [
+      [
+        "The course improved her job prospects.",
+        "这门课改善了她的就业前景。"
+      ],
+      [
+        "The prospects for the project look good.",
+        "这个项目的前景看来不错。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prospects#English",
+      "https://en.wiktionary.org/wiki/prospect#English"
+    ]
+  },
+  {
+    "word": "publishers",
+    "ipa": "英 /ˈpʌblɪʃəz/；美 /ˈpʌblɪʃərz/",
+    "meaning": "出版者、出版机构〔复数〕",
+    "sense": "把内容整理、制作并发行给公众的人或机构，是 publishers。常指出版社，不一定只是亲手按下发布按钮的个人。",
+    "split": "publish 经法语接拉丁 publicare 使公众知道。现代 publish + 完整 -er → publisher，词干没有末尾 e 要删；再加复数 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁 publicare → 法语、英语 publish",
+        "使公开 → 出版、发表"
+      ],
+      [
+        "publish + -er → publisher；再加 -s → publishers",
+        "从事出版者 → 多位出版者、多家出版机构"
+      ]
+    ],
+    "explanation": "book publishers 图书出版机构；independent publishers 独立出版社；several publishers 几家出版社。",
+    "usage": "work with publishers 与出版机构合作；publishers of children’s books 童书出版机构。",
+    "contrast": "authors 写作品，publishers 负责让作品以出版物形式面向读者。实际分工可交叉，但不能仅因为写了书就把每位作者叫 publisher。",
+    "examples": [
+      [
+        "She sent the manuscript to several publishers.",
+        "她把手稿寄给了几家出版社。"
+      ],
+      [
+        "Independent publishers brought new books to the fair.",
+        "独立出版社带着新书参加了书展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/publishers#English",
+      "https://en.wiktionary.org/wiki/publisher#English"
+    ]
+  },
+  {
+    "word": "rebels",
+    "ipa": "名词 /ˈrebəlz/；动词 /rɪˈbelz/",
+    "meaning": "反抗者、叛乱者〔复数〕；反抗〔第三人称单数〕",
+    "sense": "不愿服从现有权威、起来反对的人，可以叫 rebels；某个人反抗规则或安排，动词也是 rebels，但重音不同。",
+    "split": "拉丁 re- 加 bellare 作战形成 rebellare，相关 rebellis 与古法语 rebelle 进入名词、形容词，动词另经 rebeller 路径。现代加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "拉丁 rebellis、rebellare → 法语 rebelle、rebeller → rebel",
+        "反抗者、反抗的；作反抗行动"
+      ],
+      [
+        "rebel + -s → rebels",
+        "名词多位反抗者，重音前；动词某人反抗，重音后"
+      ]
+    ],
+    "explanation": "rebels against authority 反抗权威〔动词〕；a group of rebels 一群反抗者；rebels against the rules 反抗规则。",
+    "usage": "young rebels 年轻反抗者；she rebels against the plan 她反对这个安排。",
+    "contrast": "rebel 可以讲武装叛乱，也可以讲个人对安排、规矩的反抗。需要由语境判断强度，不是每个 rebel 都在发动战争。",
+    "examples": [
+      [
+        "The novel follows a group of young rebels.",
+        "小说围绕一群年轻反抗者展开。"
+      ],
+      [
+        "She rebels against the strict rules.",
+        "她反抗那些严格的规定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rebels#English",
+      "https://en.wiktionary.org/wiki/rebel#English"
+    ]
+  },
+  {
+    "word": "recognised",
+    "ipa": "/ˈrekəɡnaɪzd/",
+    "meaning": "认出了、承认了；受认可的〔过去式、过去分词及形容词〕",
+    "sense": "再次碰见，知道这是谁，是 recognised；承认某人的贡献有价值，也会用 recognised。它把辨认和认可这两层意思连起来。",
+    "split": "recognise 与 recognize 对应，连拉丁 recognoscere：re- 再与认知材料，有再认、承认义。现代 recognise 去末尾 e，加完整 -ed，/z/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 recognoscere 的再认、承认词族 → recognise、recognize",
+        "认出来 → 承认、认可"
+      ],
+      [
+        "recognise 去 e + -ed → recognised",
+        "已辨认、已认可；与 recognized 是拼写对应"
+      ]
+    ],
+    "explanation": "recognised her voice 认出了她的声音；recognised his contribution 认可他的贡献；a recognised expert 获公认的专家。",
+    "usage": "widely recognised 广泛认可的；recognised the need 承认有这种需要。",
+    "contrast": "recognised a face 是辨认，recognised an achievement 是认可成就。不要把每次 recognised 都限定成以前亲眼见过这个对象。",
+    "examples": [
+      [
+        "I recognised her voice immediately.",
+        "我立刻认出了她的声音。"
+      ],
+      [
+        "The award recognised his contribution to the project.",
+        "这个奖肯定了他对项目的贡献。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recognised#English",
+      "https://en.wiktionary.org/wiki/recognise#English"
+    ]
+  },
+  {
+    "word": "responding",
+    "ipa": "英 /rɪˈspɒndɪŋ/；美 /rɪˈspɑːndɪŋ/",
+    "meaning": "回答、回应；作出反应〔现在分词、动名词〕",
+    "sense": "外面来了一个问题、动作或变化，你这边给出一个对应反应，就是 responding。可以用话回答，也可以用行动或机器状态回应。",
+    "split": "respond 经古法语 respondre 接拉丁 respondere：re- 回 + spondere 承诺，历史由回作承诺扩展为回答。现代直接加完整 -ing。",
+    "history": [
+      [
+        "拉丁 respondere → 法语、英语 respond",
+        "回作承诺 → 回答、反应"
+      ],
+      [
+        "respond + -ing → responding",
+        "正在回应；作出反应的过程"
+      ]
+    ],
+    "explanation": "responding to a question 回答问题；responding to change 对变化作反应；not responding 没有响应。",
+    "usage": "responding quickly 迅速回应；responding with a smile 用微笑作答。",
+    "contrast": "responding to 不限于说话。电脑 not responding 是对操作没有响应；人 responding with a nod 可以只点头，没有说一句话。",
+    "examples": [
+      [
+        "She paused before responding to the question.",
+        "她停顿了一下才回答问题。"
+      ],
+      [
+        "The computer is not responding.",
+        "电脑没有响应。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/responding#English",
+      "https://en.wiktionary.org/wiki/respond#English"
+    ]
+  },
+  {
+    "word": "retained",
+    "ipa": "/rɪˈteɪnd/",
+    "meaning": "保留了、留住了；记住了、留用的〔过去式、过去分词〕",
+    "sense": "东西没有被放走、换掉或忘掉，还在原来的掌握中，是 retained。能留住物件，也能留住某种特点或信息。",
+    "split": "retain 经法语 retenir 接拉丁 retinere，re- 与 tenere 保持组成留住材料。现代直接加完整 -ed，/n/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁 retinere → 法语 retenir → retain",
+        "握住、保持 → 留住、记住、留用"
+      ],
+      [
+        "retain + -ed → retained",
+        "已经保留、留下或记住"
+      ]
+    ],
+    "explanation": "retained its shape 保持了形状；retained the original name 保留原名；retained the information 记住了信息。",
+    "usage": "retained her position 保住了职位；retained a copy 留下一份副本。",
+    "contrast": "retain 强调继续留住，obtain 强调取得。retained a copy 说副本继续在手里，不是在讲刚刚拿到了它。",
+    "examples": [
+      [
+        "The building retained its original name.",
+        "这座建筑保留了原来的名字。"
+      ],
+      [
+        "She retained a copy of the letter.",
+        "她留下了那封信的一份副本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retained#English",
+      "https://en.wiktionary.org/wiki/retain#English"
+    ]
+  },
+  {
+    "word": "rises",
+    "ipa": "/ˈraɪzɪz/",
+    "meaning": "升起、上升、起身〔第三人称单数〕；上升、增长〔复数〕",
+    "sense": "太阳从地平线升起来，水位往上走，人从座位站起来，都是 rises。重点是主语自己向上，不要求另接一个被抬高的东西。",
+    "split": "rise 继承古英语 risan。现代结尾已有 /z/，加 -s 读 /ɪz/，形成 rises；拼写是 rise 加 s，过去式另用 rose。",
+    "history": [
+      [
+        "古英语 risan → rise",
+        "站起、升起、出现 → 上升、增长"
+      ],
+      [
+        "rise + -s → rises",
+        "某主体升起；多次或多项上升"
+      ]
+    ],
+    "explanation": "the sun rises 太阳升起；the water rises 水位上涨；rises from her chair 从椅子上站起。",
+    "usage": "temperature rises 温度升高；small rises in the level 水平的几次小幅上升。",
+    "contrast": "rises 说主语自己升，raises 常说主语把别的东西抬高。the flag rises 是旗升起，she raises the flag 是她升旗。",
+    "examples": [
+      [
+        "The sun rises behind the hills.",
+        "太阳从群山后升起。"
+      ],
+      [
+        "She rises from her chair to greet us.",
+        "她从椅子上站起来迎接我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rises#English",
+      "https://en.wiktionary.org/wiki/rise#English"
+    ]
+  },
+  {
+    "word": "saves",
+    "ipa": "/seɪvz/",
+    "meaning": "救、保全；保存、节省〔第三人称单数〕；救球〔复数〕",
+    "sense": "把本来可能丢掉、损耗或受害的东西留下，是 saves。救人、保存文件、节约时间，都能抓住保全、不白白失去的方向。",
+    "split": "save 从古法语 sauver 接晚期拉丁 salvare，较早 salvus 安然无恙。现代直接加 -s，/v/ 后读 /z/；不是把 safe 的 f 在现代随意改成 v。",
+    "history": [
+      [
+        "拉丁 salvus、salvare → 法语 sauver → save",
+        "安然、使安全 → 救回、保留"
+      ],
+      [
+        "save + -s → saves",
+        "某人保全、节省；体育中几次救球"
+      ]
+    ],
+    "explanation": "saves time 节省时间；saves the file 保存文件；saves a seat 留个座位；makes three saves 完成三次救球。",
+    "usage": "saves energy 节省精力或能源；saves them from trouble 使他们免遭麻烦。",
+    "contrast": "saves a seat 是把座位保留下来，saves a person 是使人脱险。具体保全什么由宾语决定，不必每次都译成拯救。",
+    "examples": [
+      [
+        "The shortcut saves us ten minutes.",
+        "这条近路让我们节省十分钟。"
+      ],
+      [
+        "The program saves the file automatically.",
+        "程序会自动保存文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/saves#English",
+      "https://en.wiktionary.org/wiki/save#English"
+    ]
+  },
+  {
+    "word": "sectors",
+    "ipa": "英 /ˈsektəz/；美 /ˈsektərz/",
+    "meaning": "区域、部分；行业、经济部门；扇形〔复数〕",
+    "sense": "把一个整体划成几块，这几块是 sectors 的基本画面。圆里可以划出扇形，城市可以分区，经济活动也能按行业分成部分。",
+    "split": "sector 接拉丁 secare 切割、sectus，拉丁 sector 先有切割者义，后期用于圆的扇形，英语再扩展区域、行业。现代直接加 -s，读 /z/。",
+    "history": [
+      [
+        "拉丁 secare、sectus → sector；后期几何义 → 英语 sector",
+        "切割者 → 圆中划出的扇形 → 区域、部门"
+      ],
+      [
+        "sector + -s → sectors",
+        "多块区域、多个行业或扇形"
+      ]
+    ],
+    "explanation": "different sectors 不同行业；public and private sectors 公共和私营部门；sectors of a circle 圆的扇形部分。",
+    "usage": "sectors of the economy 经济的各个部门；divide the area into sectors 将区域分块。",
+    "contrast": "sector 不只指政府下的一个办公室；谈经济时常把一类活动算成一个部门或行业。section 也能说部分，但不是 sector 现代直接缩短的母词。",
+    "examples": [
+      [
+        "The report compares employment in different sectors.",
+        "报告比较了不同行业的就业情况。"
+      ],
+      [
+        "The map divides the city into six sectors.",
+        "地图把城市划为六个区域。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sectors#English",
+      "https://en.wiktionary.org/wiki/sector#English"
+    ]
+  },
+  {
+    "word": "specialized",
+    "ipa": "/ˈspeʃəlaɪzd/",
+    "meaning": "专门的、专业化的；专门从事了〔过去式、过去分词及形容词〕",
+    "sense": "为了某一个专门用途、领域，把工作做得更细，就是 specialized。工具、知识和训练都可以这样形容。",
+    "split": "special + 动词后缀 -ize → specialize，专门从事、使专门化。现代去末尾 e，加完整 -ed，/z/ 后读 /d/；specialised 是对应拼写。",
+    "history": [
+      [
+        "special + -ize → specialize",
+        "特别、专门的 → 专门从事、使专门化"
+      ],
+      [
+        "specialize 去 e + -ed → specialized",
+        "专门化了；适合某个专门用途的"
+      ]
+    ],
+    "explanation": "specialized knowledge 专门知识；specialized tools 专用工具；specialized in music 专攻音乐。",
+    "usage": "specialized training 专门训练；a specialized field 一个专业领域。",
+    "contrast": "specialized 强调用途或领域专门，不自动等于更高级或更好。special 只说特别，specialized 更常让人追问专门做什么。",
+    "examples": [
+      [
+        "The task requires specialized knowledge.",
+        "这项任务需要专门知识。"
+      ],
+      [
+        "She specialized in the study of old maps.",
+        "她专门研究旧地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/specialized#English",
+      "https://en.wiktionary.org/wiki/specialize#English"
+    ]
+  },
+  {
+    "word": "wounds",
+    "ipa": "/wuːndz/",
+    "meaning": "伤口、创伤〔复数〕；使受伤、刺伤感情〔第三人称单数〕",
+    "sense": "身体留下伤口，是 wounds；心里留下难以忘掉的伤，也会借 wounds 来说。作动词则是某事使人受伤或伤心。",
+    "split": "伤口 wound 接古英语 wund，相关动词接 wundian。现代直接加 -s，/d/ 后读 /z/；这里读 /uː/，不读缠绕 wind 的过去式 wound /waʊnd/。",
+    "history": [
+      [
+        "古英语 wund、wundian → wound /wuːnd/",
+        "伤口、使受伤 → 感情创伤"
+      ],
+      [
+        "wound + -s → wounds",
+        "多个伤口、创伤；某事使人受伤"
+      ]
+    ],
+    "explanation": "old wounds 旧伤，也可指旧日创伤；wounds to his pride 对他自尊的伤害；wounds her feelings 伤她的感情。",
+    "usage": "emotional wounds 情感创伤；the character’s wounds 角色身上的伤口。",
+    "contrast": "wounds 属于伤口这条词源。wind 绕、拧的过去形式 wound 是另一个同形词，不能给它再加 s 当成普通过去时变化。",
+    "examples": [
+      [
+        "The story describes the soldier’s old wounds.",
+        "故事写到了那位士兵的旧伤。"
+      ],
+      [
+        "A careless remark sometimes wounds more deeply than expected.",
+        "一句不经意的话有时比预想更伤人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wounds#English",
+      "https://en.wiktionary.org/wiki/wound#English"
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "B2767",
+    "meaning": "口、开口；说话与口腔用途",
+    "core": "MOUTH：食物和话语经过的开口",
+    "image": "mouth → mouthful、mouthy；用品 mouthwash、mouthguard、mouthpiece 相邻；loudmouth 人物贬称，mouthfeel、mouthwatering 食物体验。",
+    "intro": "名词 /θ/、动词常 /ð/，开口与说话分场景。物品合成按部位和用途解释，不见 mouth 就译成人嘴。",
+    "forms": "mouth + -ful/-y；mouth + wash/guard/piece/feel；loud + mouth；mouth + watering。\n\n嘴的名词复数常见 /maʊðz/，另有清音变体；动词 mouths 通常读 /maʊðz/，保留名词、动词的读音差别。\n\n乐器吹嘴等器物用途，另有代表机构说话的比喻。",
+    "branches": [
+      [
+        "基础与容量",
+        "mouth · mouthful"
+      ],
+      [
+        "口腔用品、器具",
+        "mouthwash · mouthguard · mouthpiece"
+      ],
+      [
+        "说话评价",
+        "mouthy · loudmouth"
+      ],
+      [
+        "食物体验与鱼名",
+        "mouthfeel · mouthwatering · largemouth"
+      ],
+      [
+        "mouth → mouths：嘴、开口；用口形说",
+        "mouth · mouths"
+      ],
+      [
+        "mouthpiece → mouthpieces：嘴边部件与代言工具",
+        "mouthpiece · mouthpieces"
+      ]
+    ],
+    "contrasts": "mouthful 量，mouthy 评价；loudmouth 非中性大声者；mouthguard 防护、braces 矫正；mouth 名词和动词读音有区别。",
+    "practice": "She took a mouthful of water before speaking.\n\n她开口说话前喝了一口水。",
+    "words": [
+      "mouth",
+      "mouthful",
+      "mouthwash",
+      "mouthguard",
+      "mouthpiece",
+      "mouthy",
+      "loudmouth",
+      "mouthfeel",
+      "mouthwatering",
+      "largemouth",
+      "mouths",
+      "mouthpieces"
+    ],
+    "exclude": {
+      "full-mouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hand-to-mouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smallmouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cottonmouth": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4246",
+    "meaning": "北方的、最北的和北方人",
+    "core": "NORTHERN：以北方位置标记事物或人物",
+    "image": "northern → northernmost、northerner，沿用已有 northern 精讲。",
+    "intro": "位置、极端位置、地区人物三者分开。不同国家的北方不是一个固定共同地点。",
+    "forms": "northern + -most/-er；-most 表位置最远端，-er 可表地域成员。",
+    "branches": [
+      [
+        "北部、最北与人物",
+        "northern · northernmost · northerner"
+      ]
+    ],
+    "contrasts": "northern 性质、northernmost 极端位置、northerner 人；比较范围和地域参照由上下文决定。",
+    "practice": "The northerner travelled to the country’s northernmost town.\n\n那位北方人去了该国最北的城镇。",
+    "words": [
+      "northern",
+      "northernmost",
+      "northerner"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4062",
+    "meaning": "好运性质、幸运评价和否定",
+    "core": "LUCKY：结果碰巧对自己有利",
+    "image": "lucky → luckily；unlucky 紧接否定性质，复用已有 lucky 精讲。",
+    "intro": "幸运不是能力、品德和情绪的同义词；句首 Luckily 常评价整句发生的情况。",
+    "forms": "lucky + -ly，y → i；un- + lucky。\n\n偶然结果被看作好运，最高级限定在比较范围内。",
+    "branches": [
+      [
+        "幸运及其方式、否定",
+        "lucky · luckily · unlucky"
+      ],
+      [
+        "运气词族 lucky 的比较形式",
+        "lucky · luckier · luckiest"
+      ]
+    ],
+    "contrasts": "luckily/happily 幸运与快乐不同；unlucky/unhappy 坏运与不开心不同；不吉利说法要保留信念语境。",
+    "practice": "We were unlucky with the weather, but luckily the hotel had plenty to do indoors.\n\n我们没碰上好天气，好在酒店里有不少室内活动。",
+    "words": [
+      "lucky",
+      "luckily",
+      "unlucky",
+      "luckier",
+      "luckiest"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2887",
+    "meaning": "学得、博学；否定形容词和逆向学习分开",
+    "core": "LEARNED：学过与有学问，同形而读音、用法有别",
+    "image": "learned → unlearned，把已有 learned 精讲与新增否定词放在一起。",
+    "intro": "不把所有 -ed 都读同一音，也不把 un- 否定与 unlearn 改掉旧习的动词路径混淆。",
+    "forms": "un- + learned〔否定形容词〕；unlearn + -ed〔另一动词路径〕；有学问义 -ed 读 /ɪd/。",
+    "branches": [
+      [
+        "学过、博学及否定",
+        "learned · unlearned"
+      ]
+    ],
+    "contrasts": "a learned scholar 博学学者、a learned skill 学得技能；unlearned 未学得与消除旧习的过去式须看句法。",
+    "practice": "The response was unlearned, rather than a skill taught during training.\n\n这种反应并非后天习得，不是训练中教会的技能。",
+    "words": [
+      "learned",
+      "unlearned"
+    ],
+    "exclude": {
+      "book-learned": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

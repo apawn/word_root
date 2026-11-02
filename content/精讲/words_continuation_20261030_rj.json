@@ -1,0 +1,68 @@
+[
+  {
+    "word": "unneeded",
+    "ipa": "/ʌnˈniːdɪd/",
+    "meaning": "不需要的；多余而用不上的",
+    "sense": "已经有一把钥匙，又递来第五把；这一次并不需要它，可以说 unneeded，而不是说它永远没价值。",
+    "split": "un- 不 + needed 所需要的；needed 是 need + -ed 的分词、形容词形式。这里 un- 否定需要这一状态，不把已经发生的需要动作倒放回去。",
+    "history": [
+      [
+        "need + -ed → needed",
+        "需要过；所需要的"
+      ],
+      [
+        "un- + needed → unneeded",
+        "在某个场景里不需要的"
+      ]
+    ],
+    "explanation": "unneeded files 不需要的文件；unneeded equipment 暂时用不上的设备。含义要按当前任务、用途判断，不是判断这个东西本身坏。",
+    "usage": "unneeded items；remove unneeded steps。",
+    "contrast": "unneeded 不需要的与 unwanted 不想要的不同：一个人可能很想要某样东西，但眼下确实不需要。unnecessary 常与 unneeded 接近，搭配重点各异。",
+    "examples": [
+      [
+        "We removed the unneeded steps from the instructions.",
+        "我们删掉了说明里不需要的步骤。"
+      ],
+      [
+        "The box held several unneeded cables.",
+        "盒子里放着几根用不上的电线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unneeded#English"
+    ]
+  },
+  {
+    "word": "related",
+    "ipa": "/rɪˈleɪtɪd/",
+    "meaning": "有联系的；有关的；有亲缘关系的；讲述过〔动词形式〕",
+    "sense": "两个问题背后有同一原因，可以说 related；两个人属于同一家族，也说 related。先看到一条联系，再看联系是哪一种。",
+    "split": "relate + -ed，动词分词再用作形容词。relate 的历史接拉丁 relatus、referre 带回、报告等词族；现代联系、关系义逐步固定，不能按 relation 完整词加 d。",
+    "history": [
+      [
+        "relate 的报告、叙述及相联系词族",
+        "使事情被说明、联系起来"
+      ],
+      [
+        "relate + -ed → related",
+        "有关、相联系；有亲缘关系；讲述的分词"
+      ]
+    ],
+    "explanation": "related to 与……有关；closely related 密切相关；Are you related? 问是否有亲缘关系。the events she related 中，related 又是她所讲述的过去式。",
+    "usage": "related to；closely related；directly related。",
+    "contrast": "relative 可作亲属名词或相对的形容词；related 通常是有关、有亲缘的形容词，不能把 a related 当一个亲戚的通用名词。",
+    "examples": [
+      [
+        "The two problems are closely related.",
+        "这两个问题密切相关。"
+      ],
+      [
+        "We share a surname, but we are not related.",
+        "我们同姓，但没有亲缘关系。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/relate"
+    ]
+  }
+]

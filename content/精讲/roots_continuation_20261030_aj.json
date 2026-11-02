@@ -1,0 +1,126 @@
+[
+  {
+    "id": "B2475",
+    "meaning": "树干旧义与基础、储备、库存、资本分支",
+    "core": "STOCK：备着的一份基础；不同复合选不同支线",
+    "image": "stock → restock、overstock；股票接 broker、holder；原料接 feed，身材 stocky 与衣物 stocking 另说明历史。",
+    "intro": "旧树干词发展出支撑、来源、储备等多义，具体中间线索并非全确定。stocking 是旧衣物词演变，不强当库存动作。冷门职业、机械部件先略。",
+    "forms": "re-/over- + stock；stock + broker/holder/-y；feed/live + stock；stocking 旧衣物支线；stockpile、stockroom 已精讲。\n\nstock 的储备、资本分支有复数 stocks，旧木块、木架材料也留下 stocks 刑具义；同形动词还可说备货。\n\nstock 储备 + pile 堆，先有矿业名词，再有动词，后扩到一般储备。stock 这一义与树干等旧义的具体语义桥有多种分析，不一概只讲树上长股票。\n\n接荷兰语戳动、拨火词族，与 stock 的树桩、棍棒词族有关。英语 stoker 炉工先见，stoke 由它逆构；现代可用 stoke + -er 理解职业，却不能据此倒写借入顺序。",
+    "branches": [
+      [
+        "基本库存与补货",
+        "stock · restock · overstock · stockroom · stockpile"
+      ],
+      [
+        "资本与原料、动物",
+        "stockbroker · stockholder · feedstock · livestock"
+      ],
+      [
+        "形象与旧衣物支线",
+        "stocky · stocking"
+      ],
+      [
+        "stocks：储备、股票与另一个木制刑具分支",
+        "stock · stocks"
+      ],
+      [
+        "stockpile：为后来留一批储备",
+        "stockpile · stockpiles · stockpiled"
+      ],
+      [
+        "stok- 木棍、戳动 → stoker → stoke",
+        "stoke · stoker"
+      ]
+    ],
+    "contrasts": "restock 补货、take stock 盘点；overstock 不等于 oversell；stockholder 股东与 stakeholder 利益相关者；stocking 长袜不能按库存猜。",
+    "practice": "The shop took stock before deciding what to restock.\n\n商店先盘点，再决定补哪些货。",
+    "words": [
+      "stock",
+      "restock",
+      "overstock",
+      "stockroom",
+      "stockpile",
+      "stockbroker",
+      "stockholder",
+      "feedstock",
+      "livestock",
+      "stocky",
+      "stocking",
+      "stocks",
+      "stockpiles",
+      "stockpiled",
+      "stoke",
+      "stoker"
+    ],
+    "exclude": {
+      "stockman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stockade": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "stocker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "headstock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rootstock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bloodstock": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3402",
+    "meaning": "类别、归类与把事情理顺",
+    "core": "SORT：知道哪一类，再把同类和顺序排清",
+    "image": "sort 先名词、动词、口语结构，再接 sorter 的人或工具。",
+    "intro": "法语类别、分配词借入，最终有拉丁份额背景。现代 sort out 解决和 sort of 程度口语各有固定结构。",
+    "forms": "sort → sorter；sort out、sort of 是短语结构。\n\n法语 sorte、sortir 等接拉丁份额、类别词族，名词复数与动词三单同形。\n\nsort 接法语、拉丁分配、类别材料，现代把东西按类别整理，也把问题理顺。sort + -ed，/t/ 后读 /ɪd/。",
+    "branches": [
+      [
+        "类别、动作与主体",
+        "sort · sorter"
+      ],
+      [
+        "sort → sorts：类别与分类整理",
+        "sort · sorts"
+      ],
+      [
+        "sort → sorted：分类、排好与处理妥当",
+        "sorted"
+      ]
+    ],
+    "contrasts": "sort by 按某条件排序；sort out 理顺；sort of 有点；sorter 不只人。",
+    "practice": "The sorter helps sort the letters into different groups.\n\n分拣工具帮助把信件分成不同类别。",
+    "words": [
+      "sort",
+      "sorter",
+      "sorts",
+      "sorted"
+    ],
+    "exclude": {
+      "re-sort": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3579",
+    "meaning": "界定、确定与未定；明确肯定的副词",
+    "core": "DEFINITE：边界答案定下；INDEFINITE：还没明确",
+    "image": "define 已精讲，接 definite → definitely，再对照 indefinite；冷门缩略 deffo 先略。",
+    "intro": "拉丁界定动词分词形成 definite，否定形容词也有自己的拉丁借入支线。明确界线的画面同时帮助学时间和语法术语。",
+    "forms": "define 相关拉丁分词 → definite → definitely；拉丁否定 indēfīnītus → indefinite。",
+    "branches": [
+      [
+        "界定与确定",
+        "define · definite · definitely"
+      ],
+      [
+        "未界定、未确定",
+        "indefinite"
+      ]
+    ],
+    "contrasts": "definitely 非 defiantly；indefinite 非必然 infinite；definite 与 definitive 有别。",
+    "practice": "We definitely need a definite answer rather than an indefinite delay.\n\n我们确实需要明确答复，而不是期限未定的拖延。",
+    "words": [
+      "define",
+      "definite",
+      "definitely",
+      "indefinite"
+    ],
+    "exclude": {
+      "deffo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

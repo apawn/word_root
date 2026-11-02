@@ -1,0 +1,118 @@
+[
+  {
+    "id": "B2993",
+    "meaning": "从擦过、移动到击打、印象与停工",
+    "core": "STRIKE：动作触到东西，后来留下物理或心理上的一下",
+    "image": "strike → striker；airstrike、counterstrike 按打击方向、方式组合；trickle 以来源不定的历史旁支看。",
+    "intro": "strike 的旧义不只重击。达成交易、找到平衡、突然想到与罢工各按实际搭配，不能只把中文打到处套。",
+    "forms": "古英语 strīcan → strike；strike + -er；air/counter- + strike；trickle 与旧 striklen 的联系有不确定性。\n\nstrike → struck → struck；stricken 在特定形容词、分词搭配中仍存在，不能当所有 struck 的任意替换。\n\n古英语 strican 的动作扩展；罢工义的确切场景路线有不同解释。",
+    "branches": [
+      [
+        "动作、印象与人物",
+        "strike · striker"
+      ],
+      [
+        "攻击方式与回应",
+        "airstrike · counterstrike"
+      ],
+      [
+        "不确定的流动旁支",
+        "trickle"
+      ],
+      [
+        "strike 与 struck：击中与突然想到",
+        "strike · struck"
+      ],
+      [
+        "strike → strikes：击打、罢工与突然想到",
+        "strike · strikes · struck"
+      ]
+    ],
+    "contrasts": "striker 前锋或罢工者看场景；strike a deal 达成而非击打；trickle 不从 trick 硬拆；罢工旧命名不强定唯一故事。",
+    "practice": "The strikers began to trickle into the square.\n\n罢工者开始陆续走进广场。",
+    "words": [
+      "strike",
+      "striker",
+      "airstrike",
+      "counterstrike",
+      "trickle",
+      "struck",
+      "strikes"
+    ],
+    "exclude": {
+      "strike-stick": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "strikeforce": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3139",
+    "meaning": "安顿、沉定、解决与座椅历史",
+    "core": "SETTLE：让原来不定的东西有个固定、安稳的位置",
+    "image": "settle → settlement、settler；resettle 再安置，unsettle 使不安；settee 保留家具词的谨慎旁支。",
+    "intro": "安顿住所、泥沙沉下、争议解决，都有从动荡到定下来的画面。settee 长座椅的具体构词仍有不确定。",
+    "forms": "古英语 setl 座位、setlan 使安坐 → settle；settle + -ment/-er；re-/un- + settle；settee 可能联系旧座椅词。\n\nsettl 座位材料与和解义的另一历史影响分开，现代 ment 名词加 s。\n\nsettle 去 e 加完整 -er，再加 -s，形成定居者名称。settle 远连安坐、安顿词族；新迁来者的定居不表示该地此前无人居住。",
+    "branches": [
+      [
+        "安顿、居住与结果",
+        "settle · settlement · settler"
+      ],
+      [
+        "再次安置与扰动",
+        "resettle · unsettle"
+      ],
+      [
+        "家具旁支",
+        "settee"
+      ],
+      [
+        "settle、settlement → settlements：定居点与达成的解决安排",
+        "settle · settlement · settlements"
+      ],
+      [
+        "settle → settler → settlers",
+        "settlers"
+      ]
+    ],
+    "contrasts": "settle down 安定，settle for 退而接受；settee 是家具，-ee 不按人物被动后缀机械理解。",
+    "practice": "After settling into the new house, they bought a small settee.\n\n在新家安顿下来后，他们买了一张小长沙发。",
+    "words": [
+      "settle",
+      "settlement",
+      "settler",
+      "resettle",
+      "unsettle",
+      "settee",
+      "settlements",
+      "settlers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3862",
+    "meaning": "兴奋状态、带着兴奋行动和兴奋过度",
+    "core": "EXCITED：内心被激起来，再看表现和程度",
+    "image": "excited → excitedly；overexcited 说程度超过头。",
+    "intro": "先分自己觉得兴奋与某物令人兴奋，再看 -ly 修饰动作、over- 增加过度评价。",
+    "forms": "excite + -ed → excited；excited + -ly；over- + excited。",
+    "branches": [
+      [
+        "状态与行动方式",
+        "excited · excitedly"
+      ],
+      [
+        "程度过高",
+        "overexcited"
+      ]
+    ],
+    "contrasts": "excited 感到兴奋，exciting 令人兴奋；excitedly 兴奋地行动，overexcited 则兴奋过度。",
+    "practice": "The excited children talked excitedly, and one became a little overexcited.\n\n孩子们兴奋地聊着，其中一个有点激动过头。",
+    "words": [
+      "excited",
+      "excitedly",
+      "overexcited"
+    ],
+    "exclude": {
+      "self-excited": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "word": "documents",
+    "ipa": "名词：英 /ˈdɒkjəmənts/、美 /ˈdɑːkjəmənts/；动词：英 /ˈdɒkjəments/、美 /ˈdɑːkjəments/",
+    "meaning": "文件、文档〔复数〕；记录、用材料证明〔第三人称单数〕",
+    "sense": "把事情留下可查的材料，这些材料是 documents；认真把变化记下来、拍下来，则可以说某人 documents 它。",
+    "split": "document + -s，/t/ 后读 /s/。document 接拉丁 documentum 教训、示例、证明，关联 docēre 教、使知道，经法语和拉丁路线借入。名词末尾 -ment 常弱读 /mənt/，动词常保留 /ment/。",
+    "history": [
+      [
+        "拉丁 docēre → documentum → 法语、英语 document",
+        "使人知道 → 可供证明、查考的材料"
+      ],
+      [
+        "document + -s → documents",
+        "多份文件；单数主语记录、证实"
+      ]
+    ],
+    "explanation": "official documents 正式文件；travel documents 旅行证件；digital documents 电子文档；documents the changes 记录变化。",
+    "usage": "sign the documents；documents daily life。",
+    "contrast": "documents 可以纸质，也可以是电子文件。动词 document 强调有材料、记录可查；mention 只表示提到，未必留下详尽证据。",
+    "examples": [
+      [
+        "Please keep the original documents in a safe place.",
+        "请把原始文件放在安全的地方。"
+      ],
+      [
+        "The film documents life in the village over one year.",
+        "这部影片记录了村子里一年的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/documents#English",
+      "https://en.wiktionary.org/wiki/document#English"
+    ]
+  },
+  {
+    "word": "articles",
+    "ipa": "英 /ˈɑːtɪkəlz/；美 /ˈɑːrtɪkəlz/",
+    "meaning": "文章；条款；物品；冠词〔article 的复数〕",
+    "sense": "从整体里分得出的一小节、一项东西，是理解 article 的线索：一篇文章、一条条款、一件物品都是独立的一项。语法中的冠词也是这个词的专门分支。",
+    "split": "article + -s，/l/ 后读 /z/。article 经法语接拉丁 articulus 小关节、部分、成员，是 artus 关节的小称；各意义经不同分支发展，并非现代把文章逐字翻成关节。",
+    "history": [
+      [
+        "拉丁 artus → articulus → 法语、英语 article",
+        "关节、小部分 → 分节项目"
+      ],
+      [
+        "article + -s → articles",
+        "多篇文章、条款、物品或冠词"
+      ]
+    ],
+    "explanation": "newspaper articles 报纸文章；articles of clothing 衣物；articles in a contract 合同条款；definite and indefinite articles 定冠词与不定冠词。",
+    "usage": "read several articles；articles about local history。",
+    "contrast": "articles of clothing 可以说一件件衣物，clothing 本身通常不可数。语法里 the、a、an 属于 articles；按这一路术语理解，不必硬连成整篇文章。",
+    "examples": [
+      [
+        "She wrote several articles about the town’s history.",
+        "她写了几篇关于小镇历史的文章。"
+      ],
+      [
+        "We practised using the articles a, an and the.",
+        "我们练习了冠词 a、an 和 the 的用法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/articles#English",
+      "https://en.wiktionary.org/wiki/article#English"
+    ]
+  },
+  {
+    "word": "papers",
+    "ipa": "英 /ˈpeɪpəz/；美 /ˈpeɪpərz/",
+    "meaning": "文件、证件；论文；报纸；试卷〔复数〕",
+    "sense": "纸写上特定内容，就可以按用途数成一份份 papers：桌上的文件、研究论文、考试试卷、证明身份的材料都可能用这个词。",
+    "split": "paper + -s，读 /z/。paper 经法语等形式接拉丁 papȳrus、希腊 pápyros，原关联纸莎草书写材料；英语后来按书面材料的用途发展出可数用法。",
+    "history": [
+      [
+        "希腊纸莎草名称 → 拉丁、法语等 → 英语 paper",
+        "书写材料 → 纸张"
+      ],
+      [
+        "paper + -s → papers",
+        "按用途区分的一份份文件、论文、报纸等"
+      ]
+    ],
+    "explanation": "research papers 研究论文；exam papers 试卷；identity papers 身份证明文件；the morning papers 晨报。",
+    "usage": "sort the papers；papers on the desk。",
+    "contrast": "paper 作材料通常不可数，一张纸用 a sheet of paper；papers 常指有用途的一份份书面材料。三篇论文可以说 three papers，三张空白纸则通常说 three sheets of paper。",
+    "examples": [
+      [
+        "She sorted the papers on her desk before leaving.",
+        "离开前，她整理了桌上的文件。"
+      ],
+      [
+        "The journal published two papers on the same topic.",
+        "这本期刊发表了两篇讨论同一主题的论文。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/papers#English",
+      "https://en.wiktionary.org/wiki/paper#English"
+    ]
+  },
+  {
+    "word": "pages",
+    "ipa": "/ˈpeɪdʒɪz/",
+    "meaning": "书页、页面〔复数〕；呼叫、传呼〔第三人称单数，另源〕",
+    "sense": "书本、网页里一页页可看的内容，是 pages；如果场景是找人、广播呼叫，则可能是动词 pages，这条来源要另认。",
+    "split": "page + -s，/dʒ/ 后增加 /ɪz/。书页义经法语接拉丁 pāgina，联系 pangere 固定，但中间语义连接有不同解释；呼叫动词则接侍从义 page，与书页不同源。",
+    "history": [
+      [
+        "拉丁 pāgina → 法语、英语 page → pages",
+        "文字栏、书页 → 多页、网页"
+      ],
+      [
+        "另一来源：侍从义 page → 呼叫动词 → pages",
+        "派人找 → 用广播、设备叫人"
+      ]
+    ],
+    "explanation": "turn the pages 翻页；web pages 网页；pages of notes 几页笔记；pages the doctor 呼叫医生。",
+    "usage": "the first twenty pages；pages loaded in the browser。",
+    "contrast": "page 是一面书页或一个页面；一张纸的正反两面通常可算两页。呼叫人的 pages 要看宾语是某个人，不必把它解释成给人看纸页。",
+    "examples": [
+      [
+        "Read the first ten pages before the next lesson.",
+        "下次上课前读完前十页。"
+      ],
+      [
+        "The site has separate pages for each topic.",
+        "这个网站为每个主题设置了独立页面。"
+      ],
+      [
+        "The receptionist pages the doctor when a patient arrives.",
+        "病人到来时，接待员会呼叫医生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pages#English",
+      "https://en.wiktionary.org/wiki/page#English"
+    ]
+  },
+  {
+    "word": "examples",
+    "ipa": "英 /ɪɡˈzɑːmpəlz/；美 /ɪɡˈzæmpəlz/",
+    "meaning": "例子；示范、榜样；可作警示的事例〔复数〕",
+    "sense": "从许多事情中拿出几件，让别人看懂一种情况，这些就是 examples；拿来学的、拿来提醒自己别重犯的，都可以是例子。",
+    "split": "example + -s，/l/ 后读 /z/。example 经法语 essemple、example 等接拉丁 exemplum 样本、模式，较早关联 eximere 取出，其中 ex- 向外，emere 较早有取的意思。",
+    "history": [
+      [
+        "拉丁 eximere → exemplum → 法语、英语 example",
+        "取出 → 作为样本、示范的事例"
+      ],
+      [
+        "example + -s → examples",
+        "多个例子、示范或警示事例"
+      ]
+    ],
+    "explanation": "give examples 举例；clear examples 清楚的例子；examples of good design 好设计的实例；set good examples 树立好榜样。",
+    "usage": "learn from examples；examples from everyday life。",
+    "contrast": "example 可以说明规律，也可以示范做法。for example 是固定引出例子的表达；examples of 后常接所说明的类型，examples from 后常接例子的来源范围。",
+    "examples": [
+      [
+        "The teacher used examples from everyday life.",
+        "老师用了日常生活中的例子。"
+      ],
+      [
+        "These buildings are good examples of local design.",
+        "这些建筑很好地体现了当地的设计风格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/examples#English",
+      "https://en.wiktionary.org/wiki/example#English"
+    ]
+  },
+  {
+    "word": "positions",
+    "ipa": "/pəˈzɪʃənz/",
+    "meaning": "位置；姿势；立场；职位；摆放、安排位置〔第三人称单数〕",
+    "sense": "把人或东西放在哪里，是位置；身体怎样放，是姿势；对一件事站在哪边，是立场；在组织里担任什么，则是职位。",
+    "split": "position + -s，/n/ 后读 /z/。position 经法语等接拉丁 positiō，来自 pōnere 放、安置及其分词 positus；英语后来也把名词转用为安排位置的动词。",
+    "history": [
+      [
+        "拉丁 pōnere、positus、positiō → 法语、英语 position",
+        "放置 → 所处的位置、关系"
+      ],
+      [
+        "position + -s → positions",
+        "多个位置、立场或职位；单数主语摆放"
+      ]
+    ],
+    "explanation": "sitting positions 坐姿；open positions 空缺职位；opposing positions 对立立场；positions the camera 放好相机。",
+    "usage": "change positions；positions within the organization。",
+    "contrast": "positions 的核心对象随语境变化；positions on an issue 常说对议题的立场，positions in a company 常说公司职位。动词 positions 交代主动把东西放到某处。",
+    "examples": [
+      [
+        "The two groups took different positions on the proposal.",
+        "两个群体对提议持不同立场。"
+      ],
+      [
+        "She positions the camera near the window.",
+        "她把相机放在靠窗的位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/positions#English",
+      "https://en.wiktionary.org/wiki/position#English"
+    ]
+  },
+  {
+    "word": "measures",
+    "ipa": "英 /ˈmeʒəz/；美 /ˈmeʒərz/",
+    "meaning": "措施；衡量标准、量度；测量；长、宽等为某数值",
+    "sense": "拿一把尺或一个标准量清楚，是 measures 的测量分支；为处理问题而定下的一项项做法，则常叫 measures。两种常用法要分别认。",
+    "split": "measure + -s，读 /z/。名词经古法语 mesure 接拉丁 mēnsūra，关联 mētīrī 测量；动词经法语 mesurer 接相关拉丁动词。措施义是名词后来发展的办法、行动用法。",
+    "history": [
+      [
+        "拉丁测量词族 → 法语名词、动词 → measure",
+        "量出大小；尺寸、衡量标准"
+      ],
+      [
+        "measure + -s → measures",
+        "多个标准、措施；单数主语测量或尺寸为……"
+      ]
+    ],
+    "explanation": "safety measures 安全措施；take measures 采取措施；measures of success 衡量成功的指标；measures two metres 长度等为两米。",
+    "usage": "measures the distance；introduce practical measures。",
+    "contrast": "The tool measures temperature 说工具测量温度；The table measures two metres 说桌子长度为两米。take measures 是采取措施的常见表达，不按字面译成拿几把尺。",
+    "examples": [
+      [
+        "The school introduced measures to reduce food waste.",
+        "学校推出了减少食物浪费的措施。"
+      ],
+      [
+        "The table measures two metres in length.",
+        "这张桌子长两米。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/measures#English",
+      "https://en.wiktionary.org/wiki/measure#English"
+    ]
+  },
+  {
+    "word": "charges",
+    "ipa": "英 /ˈtʃɑːdʒɪz/；美 /ˈtʃɑːrdʒɪz/",
+    "meaning": "费用；指控；收取费用；充电；冲向〔charge 的复数或第三人称单数〕",
+    "sense": "charge 早期有把负担装上的画面，后来发展出费用、责任、指控、电学等不同分支。现代读到 charges，先看它在说钱、法律指控、设备还是动作。",
+    "split": "charge + -s，/dʒ/ 后增加 /ɪz/。charge 经法语 chargier、charge 接晚期拉丁 carricāre 装载，较早联系 carrus 车。各分支形成时间、路径不同，冲锋等意义的连接也有讨论。",
+    "history": [
+      [
+        "拉丁 carrus、carricāre → 法语 → charge",
+        "车、装载 → 负担及多条扩展分支"
+      ],
+      [
+        "charge + -s → charges",
+        "多项费用、指控；单数主语收费、充电等"
+      ]
+    ],
+    "explanation": "delivery charges 配送费；face charges 面临指控；charges ten pounds 收费十英镑；charges the battery 给电池充电。",
+    "usage": "additional charges；charges toward the gate。",
+    "contrast": "charges 作费用、指控时是复数名词；She charges a fee 中是动词。a charge 是指控本身，不自动等于已经证实的行为。充电与收费靠宾语 battery、fee 等区别。",
+    "examples": [
+      [
+        "The price includes all delivery charges.",
+        "价格包含了全部配送费用。"
+      ],
+      [
+        "This device charges the battery while you ride.",
+        "这个设备会在你骑行时给电池充电。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/charges#English",
+      "https://en.wiktionary.org/wiki/charge#English"
+    ]
+  },
+  {
+    "word": "orders",
+    "ipa": "英 /ˈɔːdəz/；美 /ˈɔːrdərz/",
+    "meaning": "命令；订单；所点餐食；订购、点餐；命令〔第三人称单数〕",
+    "sense": "把事情按要求安排下来，可以形成命令；把需要的商品、餐食交代给商家，就形成一份份 orders。",
+    "split": "order + -s，读 /z/。order 经古法语 ordre 接拉丁 ōrdō，词干 ōrdin- 表行列、次序、安排；英语名词后作动词，发展命令、订购等用法。",
+    "history": [
+      [
+        "拉丁 ōrdō、ōrdin- → 法语 → order",
+        "行列、安排 → 次序、指令、订购等"
+      ],
+      [
+        "order + -s → orders",
+        "多条命令、多个订单；单数主语下令、订购"
+      ]
+    ],
+    "explanation": "follow orders 服从命令；customer orders 客户订单；take orders 接单、记点餐内容；orders a coffee 点一杯咖啡。",
+    "usage": "place orders online；orders everyone to leave。",
+    "contrast": "give orders 常说下达命令；place an order 常说下订单。take orders 在餐馆常是记录顾客点什么，在组织关系里也可能是听从命令。",
+    "examples": [
+      [
+        "The waiter came over to take our orders.",
+        "服务员过来为我们点餐。"
+      ],
+      [
+        "She orders the same lunch every Friday.",
+        "她每周五都点同一种午餐。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/orders#English",
+      "https://en.wiktionary.org/wiki/order#English"
+    ]
+  },
+  {
+    "word": "accounts",
+    "ipa": "/əˈkaʊnts/",
+    "meaning": "账户；账目；叙述、报告〔复数〕；解释、占据〔accounts for〕",
+    "sense": "把钱怎么进出记清楚，是账；把发生过什么交代清楚，是叙述；accounts for 则用来交代原因、去向或占多少。",
+    "split": "account + -s，/t/ 后读 /s/。名词、动词分别经古法语 acont、aconter 等接计算、记账词族，远关联拉丁 computāre；现代账户、叙述、解释的分支继续发展。",
+    "history": [
+      [
+        "拉丁计算词族 → 法语 acont、aconter → 英语 account",
+        "计算、账 → 账目、记录、叙述"
+      ],
+      [
+        "account + -s → accounts",
+        "多项账户、报告；accounts for 表解释、占据等"
+      ]
+    ],
+    "explanation": "bank accounts 银行账户；online accounts 网络账号；keep the accounts 记账；eyewitness accounts 目击者叙述；accounts for half 占一半。",
+    "usage": "compare the accounts；accounts for the difference。",
+    "contrast": "accounts for 可说解释某种差异，也可说占总量的一部分；accounts of an event 常说事件叙述。账目、账号与叙述靠 bank、online、eyewitness 等修饰词区分。",
+    "examples": [
+      [
+        "The witnesses gave different accounts of the event.",
+        "目击者对这件事给出了不同的叙述。"
+      ],
+      [
+        "She keeps separate accounts for the shop and the café.",
+        "她为商店和咖啡馆分别记账。"
+      ],
+      [
+        "Rent accounts for half of the monthly budget.",
+        "房租占每月预算的一半。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accounts#English",
+      "https://en.wiktionary.org/wiki/account#English"
+    ]
+  }
+]

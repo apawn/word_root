@@ -1,0 +1,254 @@
+[
+  {
+    "word": "exchange",
+    "ipa": "/ɪksˈtʃeɪndʒ/ 或 /eksˈtʃeɪndʒ/",
+    "meaning": "交换、兑换；交流；交易所",
+    "sense": "我把一样东西给你，你把另一样东西给我。交换物品、货币、意见，核心都有往来，而不只是单方面改变。",
+    "split": "名词、动词经法语 eschange、eschanger 等进入中古英语，后来拼写调整成 ex-。现代可对照 change 认识，但不能只说现代英语 ex + change 临时造出全部历史。",
+    "history": [
+      [
+        "通俗拉丁语重建形 *excambiāre → 法语 eschanger、eschange",
+        "交换、更换；有 ex- 与交换词基背景"
+      ],
+      [
+        "中古英语 eschaungen、eschaunge → exchange",
+        "词形后来向 ex- 调整；交换、兑换和交易场所等"
+      ]
+    ],
+    "explanation": "exchange gifts 交换礼物，exchange ideas 交流想法，exchange dollars for euros 把美元兑换成欧元，a stock exchange 证券交易所。",
+    "usage": "exchange A for B；exchange ideas；an exchange student；the exchange rate。",
+    "contrast": "change 改变，exchange 交换、更换；exchange A for B 是拿出 A 换得 B，别把方向倒过来。",
+    "examples": [
+      [
+        "We exchanged phone numbers after the meeting.",
+        "会后我们交换了电话号码。"
+      ],
+      [
+        "She exchanged the shirt for a larger size.",
+        "她把衬衫换成了大一号的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exchange#English"
+    ]
+  },
+  {
+    "word": "exchangeable",
+    "ipa": "/ɪksˈtʃeɪndʒəbəl/",
+    "meaning": "可交换、可兑换、可更换的",
+    "sense": "可以拿它去换别的东西。具体能换什么、按什么规则换，要看后面的 for 和实际语境。",
+    "split": "exchange + -able，形成能被交换的形容词，保留 e；并非所有以 e 结尾的词接后缀都去 e。",
+    "history": [
+      [
+        "通俗拉丁语重建形 *excambiāre → 法语 eschanger、eschange",
+        "交换、更换；有 ex- 与交换词基背景"
+      ],
+      [
+        "中古英语 eschaungen、eschaunge → exchange",
+        "词形后来向 ex- 调整；交换、兑换和交易场所等"
+      ],
+      [
+        "exchange + -able → exchangeable",
+        "可以交换、换取其他东西的"
+      ]
+    ],
+    "explanation": "exchangeable for cash 可兑现金，exchangeable tickets 可更换的票券；具体限制由票券条款说明。",
+    "usage": "exchangeable for；freely exchangeable；exchangeable goods。",
+    "contrast": "exchangeable 可交换，interchangeable 可互换使用；两种零件能互相顶替使用，通常说 interchangeable，不只是可以买卖换手。",
+    "examples": [
+      [
+        "These vouchers are exchangeable for meals.",
+        "这些券可换餐食。"
+      ],
+      [
+        "The item is exchangeable for another size.",
+        "这件商品可以换其他尺码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exchangeable#English"
+    ]
+  },
+  {
+    "word": "exchanger",
+    "ipa": "英 /ɪksˈtʃeɪndʒə/；美 /ɪksˈtʃeɪndʒər/",
+    "meaning": "交换者；交换器",
+    "sense": "把交换这个动作交给一个人或设备来做。技术里常见 heat exchanger，让热量从一边传给另一边。",
+    "split": "exchange + -er，形成执行、实现交换的人或设备名。词尾 e 与 -er 衔接，不额外再写一个 e。",
+    "history": [
+      [
+        "通俗拉丁语重建形 *excambiāre → 法语 eschanger、eschange",
+        "交换、更换；有 ex- 与交换词基背景"
+      ],
+      [
+        "中古英语 eschaungen、eschaunge → exchange",
+        "词形后来向 ex- 调整；交换、兑换和交易场所等"
+      ],
+      [
+        "exchange + -er → exchanger",
+        "实现交换的人或设备"
+      ]
+    ],
+    "explanation": "a heat exchanger 换热器，a currency exchanger 货币兑换者或兑换机构。设备交换的可以是能量，不一定是两个盒子来回搬。",
+    "usage": "a heat exchanger；a currency exchanger；an industrial exchanger。",
+    "contrast": "exchanger 设备、参与者，exchange 交换过程或场所；heat exchanger 不是加热器 heater 的完全同义词。",
+    "examples": [
+      [
+        "The engineer inspected the heat exchanger.",
+        "工程师检查了换热器。"
+      ],
+      [
+        "The exchanger transfers heat between the two fluids.",
+        "换热器在两种流体之间传递热量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exchanger#English"
+    ]
+  },
+  {
+    "word": "lake",
+    "ipa": "/leɪk/",
+    "meaning": "湖、湖泊",
+    "sense": "陆地中间聚着一大片水，先抓内陆水体的画面。英语 lakeside、lakeshore 等都围绕它定位。",
+    "split": "现代水体义涉及古英语 lacu 与法语 lac〔拉丁语 lacus〕两条背景，在中古英语阶段相互影响、合流。词典对各条贡献的表述不同，不把路线压成只有一个借词祖先。另有颜料、方言玩耍等同形词，此处暂略。",
+    "history": [
+      [
+        "古英语 lacu〔溪流、水池等〕；法语 lac〔接拉丁语 lacus〕",
+        "本族与借入的水体名词背景"
+      ],
+      [
+        "中古英语 lake、lac → lake",
+        "形式、意义相互影响或合流，现代常指湖"
+      ]
+    ],
+    "explanation": "a freshwater lake 淡水湖，by the lake 在湖边，a frozen lake 冻结的湖。Lake Victoria 等名称常把 Lake 放前，the Great Lakes 则是另一种固定名称。",
+    "usage": "by the lake；a freshwater lake；a frozen lake；the lakeshore。",
+    "contrast": "lake 湖，pond 池塘通常较小，但不存在一条词义自己规定、处处通用的面积界线；river 河流更突出水沿河道流动。",
+    "examples": [
+      [
+        "We walked around the lake before breakfast.",
+        "早饭前我们绕湖散了步。"
+      ],
+      [
+        "The lake was completely frozen in winter.",
+        "冬天湖面完全冻结了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lake#English",
+      "https://www.etymonline.com/word/lake"
+    ]
+  },
+  {
+    "word": "lakeside",
+    "ipa": "/ˈleɪksaɪd/",
+    "meaning": "湖边、湖畔；湖边的",
+    "sense": "不在水中央，而在湖的边上；可以说地点，也可以形容建在那个位置的房屋。",
+    "split": "lake 湖 + side 边，形成名词、形容词。",
+    "history": [
+      [
+        "古英语 lacu〔溪流、水池等〕；法语 lac〔接拉丁语 lacus〕",
+        "本族与借入的水体名词背景"
+      ],
+      [
+        "中古英语 lake、lac → lake",
+        "形式、意义相互影响或合流，现代常指湖"
+      ],
+      [
+        "lake + side → lakeside",
+        "湖边；位于湖边的"
+      ]
+    ],
+    "explanation": "a lakeside cottage 湖边小屋，a lakeside walk 湖畔散步，at the lakeside 在湖边。",
+    "usage": "a lakeside cottage；a lakeside village；at the lakeside。",
+    "contrast": "lakeside 湖边位置，lakeview 强调看得见湖；一间能看见湖的房间未必紧挨岸边。",
+    "examples": [
+      [
+        "They rented a lakeside cottage for the summer.",
+        "他们租了一间湖边小屋过夏天。"
+      ],
+      [
+        "We had lunch at a lakeside café.",
+        "我们在湖畔咖啡馆吃了午饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lakeside#English"
+    ]
+  },
+  {
+    "word": "lakeshore",
+    "ipa": "英 /ˈleɪkʃɔː/；美 /ˈleɪkʃɔːr/",
+    "meaning": "湖岸、湖滨",
+    "sense": "把视线放在湖水碰到陆地的那条岸上。可以沿着它走，也可以有石头、芦苇和村镇。",
+    "split": "lake 湖 + shore 岸，合成湖泊岸边的名词。",
+    "history": [
+      [
+        "古英语 lacu〔溪流、水池等〕；法语 lac〔接拉丁语 lacus〕",
+        "本族与借入的水体名词背景"
+      ],
+      [
+        "中古英语 lake、lac → lake",
+        "形式、意义相互影响或合流，现代常指湖"
+      ],
+      [
+        "lake + shore → lakeshore",
+        "湖水与陆地相接的岸边"
+      ]
+    ],
+    "explanation": "along the lakeshore 沿湖岸，a rocky lakeshore 多石湖岸，lakeshore development 湖滨开发。",
+    "usage": "along the lakeshore；a rocky lakeshore；on the lakeshore。",
+    "contrast": "lakeshore 强调岸地带，lakeside 范围较宽地说湖边；seashore 海岸，前一成分决定水体。",
+    "examples": [
+      [
+        "A narrow path runs along the lakeshore.",
+        "一条窄路沿湖岸延伸。"
+      ],
+      [
+        "Reeds grow near the quiet lakeshore.",
+        "宁静的湖岸附近长着芦苇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lakeshore#English"
+    ]
+  },
+  {
+    "word": "lakeland",
+    "ipa": "/ˈleɪklənd/",
+    "meaning": "多湖地区、湖区",
+    "sense": "一片地方以许多湖泊为特色，就把湖和陆地合在一起叫它。",
+    "split": "lake 湖 + land 地区，形成多湖地带的名称、描述。大写 Lakeland 还可作具体地名，不能每次都按同一城市理解。",
+    "history": [
+      [
+        "古英语 lacu〔溪流、水池等〕；法语 lac〔接拉丁语 lacus〕",
+        "本族与借入的水体名词背景"
+      ],
+      [
+        "中古英语 lake、lac → lake",
+        "形式、意义相互影响或合流，现代常指湖"
+      ],
+      [
+        "lake + land → lakeland",
+        "多湖泊的地区、湖区"
+      ]
+    ],
+    "explanation": "a lakeland landscape 湖区景观，lakeland scenery 湖区风光；英语英国语境大写用法常联系湖区，但仍须看具体上下文。",
+    "usage": "lakeland scenery；a lakeland landscape；a lakeland village。",
+    "contrast": "lakeland 以湖泊为特色的地区，lakeshore 某个湖的岸；lakefront 更常说临湖前沿位置、地段。",
+    "examples": [
+      [
+        "The painting captures the quiet beauty of the lakeland landscape.",
+        "这幅画表现了湖区景色的宁静之美。"
+      ],
+      [
+        "They explored several small lakeland villages.",
+        "他们游览了几个湖区小村庄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lakeland#English"
+    ]
+  }
+]

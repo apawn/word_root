@@ -1,0 +1,131 @@
+[
+  {
+    "id": "A1851",
+    "meaning": "指小、小件；许多借词里已经固定的词尾",
+    "core": "ET：常把一个东西缩成小件，但今天未必真小",
+    "image": "snip 剪一下，snippet 是剪出的一小片；table 的平板材料变成 tablet，今天还能是平板电脑。",
+    "intro": "这个指小材料多经古法语 -et 等进入，上接晚期拉丁相应形式。许多词在进入英语时已经是完整借词，今天的 cabinet 也不会因为旧指小关系就只能是小柜。",
+    "forms": "cabin／法语 cabane 与 cabinet 的指小关系；snip + -et → snippet；古法语 table + -et 对应 tablet；corset 接身体材料。nugget、trinket 的更远来源不确定，不能为整齐强拆。\n\ncabana 经美洲西班牙语借入，与 cabin 同接小屋词族；cabinet 是其法语指小支线。更早 capanna 来源不明，不与 casino 的 casa 强行合并。\n\ntablet 经古法语 tablete 的指小材料整词借入，现代不只译成小桌子。\n\net 的历史背景不同，不把所有末尾 et 都理解成英语现场小称。\n\n不同借词末尾 et 的历史不相同，anklet 作为英语造词另讲。\n\n本组给 snippet 小片段的基础词补语境；snip 本身不是 -et 小称后缀词，名词剪下小片记录早于相应剪切动词。",
+    "branches": [
+      [
+        "基础形式与清楚的小件关系",
+        "cabin · cabinet；table · tablet；snip · snippet"
+      ],
+      [
+        "固定物件名称",
+        "pocket · bullet · closet · helmet · casket · bucket · corset"
+      ],
+      [
+        "块状物与小饰品",
+        "nugget · trinket"
+      ],
+      [
+        "其他已有常用借词、组合",
+        "triplet · doublet · anklet · bassinet · whippet · octet"
+      ],
+      [
+        "cabin／cabinet 与 cabana：capanna 小屋的不同后裔",
+        "cabin · cabinet · cabana"
+      ],
+      [
+        "table、tablet → tablets：小平板、片状物与平板设备",
+        "table · tablet · tablets"
+      ],
+      [
+        "bucket、cabinet 各自的复数：桶与小房间、柜子",
+        "bucket · buckets · cabinet · cabinets"
+      ],
+      [
+        "anklet 及复数：带小物色彩的 et 构形",
+        "anklet · anklets"
+      ],
+      [
+        "snippet 周围的 snip 基础动作变化",
+        "snip · snips · snipped · snipping"
+      ]
+    ],
+    "contrasts": "tablet 不只药片；cabinet 的内阁义是旧议事空间到群体的扩展；nugget 的 nug、trinket 的前部不可冒充确定拉丁词根；结尾字母相同不保证同源。",
+    "practice": "She saved a snippet on her tablet and put the tablet in the cabinet.\n\n她在平板电脑里存了一小段内容，然后把平板放进柜子。",
+    "words": [
+      "cabin",
+      "cabinet",
+      "table",
+      "tablet",
+      "snip",
+      "snippet",
+      "pocket",
+      "bullet",
+      "closet",
+      "helmet",
+      "casket",
+      "bucket",
+      "corset",
+      "nugget",
+      "trinket",
+      "triplet",
+      "doublet",
+      "anklet",
+      "bassinet",
+      "whippet",
+      "octet",
+      "cabana",
+      "tablets",
+      "buckets",
+      "cabinets",
+      "anklets",
+      "snips",
+      "snipped",
+      "snipping"
+    ],
+    "exclude": {
+      "midget": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "genet": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1938",
+    "meaning": "某种性情、特征的人；相关借词中的旧构词材料",
+    "core": "ARD：从强烈特征的人物称呼看，别把所有尾巴都当贬义",
+    "image": "drunkard 把醉酒特征贴在人身上；wizard 却早已固定为巫师、高手；badger 可能按头部徽记样斑纹命名。",
+    "intro": "常见 -ard／-art 由古法语传入，背后联系日耳曼人名中的 hard 强壮、勇敢材料。进入普通称呼后常有强调、贬称作用，但每个完整词还可能有独立借入和意义变化。",
+    "forms": "drunk + -ard → drunkard；wise 的历史形式 + -ard → wizard。badger 的 badge 关系只是常见分析；buzzard、placard、bollard 要看各自传入或构成史，不能统一译成坏人。\n\n动物名可能联系 badge 与旧 -ard，尚非定论；纠缠动词联系历史上犬围攻獾的活动，不能讲成獾天生爱烦人。",
+    "branches": [
+      [
+        "性情、身份与能力",
+        "drunkard · wizard"
+      ],
+      [
+        "可能按外观或旧鸟名命名",
+        "badge · badger；buzzard"
+      ],
+      [
+        "具体物件及其借入史",
+        "placard · bollard"
+      ],
+      [
+        "已经固定的其他词形",
+        "standard"
+      ],
+      [
+        "badger：动物名转出穷追不舍的纠缠",
+        "badger · badgers · badgered · badgering"
+      ]
+    ],
+    "contrasts": "badger 动词烦扰义不是獾的性格证明；buzzard 不由 buzz 嗡声直接推来；placard 末尾不是 card；standard 的细节按其独立词源读，不只凭 ard 猜。",
+    "practice": "A wizard with tools repaired the bollard beside the warning placard.\n\n一位工具高手修好了警示牌旁的隔离柱。",
+    "words": [
+      "drunkard",
+      "wizard",
+      "badge",
+      "badger",
+      "buzzard",
+      "placard",
+      "bollard",
+      "standard",
+      "badgers",
+      "badgered",
+      "badgering"
+    ],
+    "exclude": {}
+  }
+]

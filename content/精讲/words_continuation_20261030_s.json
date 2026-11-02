@@ -1,0 +1,507 @@
+[
+  {
+    "word": "ice",
+    "ipa": "/aɪs/",
+    "meaning": "冰；加冰、使结冰；给糕点裱糖霜",
+    "sense": "水冻成硬块是冰；给饮料加冰、给表面覆一层东西，又形成动词用法。",
+    "split": "继承古英语 īs，现代 ice 的 c 读 /s/。糕点糖霜的 ice 动词是表面覆盖用法，不表示蛋糕一定冷冻了。",
+    "history": [
+      [
+        "古英语 īs → 中古英语 is、ice",
+        "冰"
+      ],
+      [
+        "现代 ice",
+        "冰；使结冰、加冰；另有裱糖霜等用法"
+      ]
+    ],
+    "explanation": "ice cubes 冰块，on ice 加冰、冰镇，也可暂搁，break the ice 打破僵局，ice a cake 给蛋糕裱糖霜。",
+    "usage": "ice cubes；on ice；break the ice；ice a cake。",
+    "contrast": "ice 冰不同于 ice cream 冰淇淋；thin ice 薄冰可比喻危险处境，具体危险由语境说明。",
+    "examples": [
+      [
+        "She put a few ice cubes in the glass.",
+        "她往杯里放了几块冰。"
+      ],
+      [
+        "His joke helped break the ice at the meeting.",
+        "他的笑话帮助打破了会议上的拘谨气氛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ice#English"
+    ]
+  },
+  {
+    "word": "icy",
+    "ipa": "/ˈaɪsi/",
+    "meaning": "结冰的；冰冷的；态度冷冰冰的",
+    "sense": "路面上一层冰，空气冻人，或者某人的眼神像冰一样没有温度。",
+    "split": "ice + -y，去末尾 e；古英语已有相关形式。由冰的状态延伸到温度和人际冷淡。",
+    "history": [
+      [
+        "古英语 īs → 中古英语 is、ice",
+        "冰"
+      ],
+      [
+        "现代 ice",
+        "冰；使结冰、加冰；另有裱糖霜等用法"
+      ],
+      [
+        "ice + -y → icy",
+        "有冰、冰冷 → 冷淡的"
+      ]
+    ],
+    "explanation": "an icy road 结冰道路，icy water 冰冷的水，an icy stare 冷冰冰的注视。",
+    "usage": "icy roads；icy water；an icy stare；an icy silence。",
+    "contrast": "icy road 常真的有冰；icy tone 描写态度，不是在报告嗓音温度。iced 常说明加冰、被冰镇或裱糖霜。",
+    "examples": [
+      [
+        "The road became icy after sunset.",
+        "日落后路面结了冰。"
+      ],
+      [
+        "She greeted him with an icy smile.",
+        "她用冷冰冰的微笑迎接他。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/icy#English"
+    ]
+  },
+  {
+    "word": "iced",
+    "ipa": "/aɪst/",
+    "meaning": "加冰、冰镇的；裱糖霜的",
+    "sense": "饮料被冰镇，糕点被覆上糖霜；看后面的名词，就知道是哪一种处理。",
+    "split": "ice + -ed，/s/ 后的 -ed 读 /t/，整个词仍一音节。饮料义与糕点义来自 ice 不同动词用法。",
+    "history": [
+      [
+        "古英语 īs → 中古英语 is、ice",
+        "冰"
+      ],
+      [
+        "现代 ice",
+        "冰；使结冰、加冰；另有裱糖霜等用法"
+      ],
+      [
+        "ice + -ed → iced",
+        "被冰镇、加冰；被覆糖霜"
+      ]
+    ],
+    "explanation": "iced tea 冰茶，iced coffee 冰咖啡，an iced cake 裱糖霜蛋糕。iced drink 不保证喝到时仍有完整冰块。",
+    "usage": "iced tea；iced coffee；an iced cake。",
+    "contrast": "iced cake 不是 ice-cream cake 冰淇淋蛋糕的必然同义词；iced 可能只说糖霜装饰。",
+    "examples": [
+      [
+        "She ordered an iced coffee.",
+        "她点了一杯冰咖啡。"
+      ],
+      [
+        "The display was full of brightly iced cakes.",
+        "陈列柜里摆满了裱着鲜艳糖霜的蛋糕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/iced#English"
+    ]
+  },
+  {
+    "word": "icebreaker",
+    "ipa": "英 /ˈaɪsbreɪkə/；美 /ˈaɪsbreɪkər/",
+    "meaning": "破冰船；打破拘谨的活动、话题",
+    "sense": "船把冰层撞开，后面才有路走；陌生人做个小游戏，僵硬气氛松开，也叫破冰。",
+    "split": "ice + breaker，breaker 是 break + -er。社交用法连着 break the ice 打破僵局这个比喻。",
+    "history": [
+      [
+        "古英语 īs → 中古英语 is、ice",
+        "冰"
+      ],
+      [
+        "现代 ice",
+        "冰；使结冰、加冰；另有裱糖霜等用法"
+      ],
+      [
+        "ice + break + -er → icebreaker",
+        "打破冰层的船 → 打破社交僵局的活动"
+      ]
+    ],
+    "explanation": "an icebreaker in polar waters 极地水域破冰船，an icebreaker game 破冰游戏，a good icebreaker 容易打开话题的东西。",
+    "usage": "an icebreaker ship；an icebreaker game；a good icebreaker。",
+    "contrast": "icebreaker 在培训里常指活动，并非参与者都要说心里话；物理破冰和社交破冰由语境区分。",
+    "examples": [
+      [
+        "An icebreaker opened a path through the frozen sea.",
+        "破冰船在结冰海面开出通路。"
+      ],
+      [
+        "We began the workshop with a simple icebreaker.",
+        "工坊开始时，我们先做了一个简单的破冰活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/icebreaker#English"
+    ]
+  },
+  {
+    "word": "icicle",
+    "ipa": "/ˈaɪsɪkl/",
+    "meaning": "冰柱；冰凌",
+    "sense": "屋檐滴下的水一点点冻住，最后垂成尖尖的一条冰。",
+    "split": "中古英语 is〔冰〕+ ikel〔冰柱〕，后部接古英语 gicel。拼写后来像拉丁小称后缀 -icle，但真实后部是本族旧冰柱词，不与 particle 的 -icle 当同源后缀。",
+    "history": [
+      [
+        "中古英语 is〔冰〕；ikel〔冰柱〕，后者接古英语 gicel",
+        "两个本族冰相关成分"
+      ],
+      [
+        "is + ikel → isykle → icicle",
+        "屋檐等处下垂的尖冰柱；拼写受相似词形影响"
+      ]
+    ],
+    "explanation": "icicles hanging from the roof 屋檐垂下的冰柱，a row of icicles 一排冰凌。构词里保留了今天不再独立常用的旧词。",
+    "usage": "icicles on the roof；a row of icicles；a melting icicle。",
+    "contrast": "icicle 的 -icle 看起来像 particle 的后缀，历史却不同；icycle 不是这个词的标准拼写，也别与 bicycle 自行车混淆。",
+    "examples": [
+      [
+        "Long icicles hung from the roof.",
+        "屋檐垂下长长的冰柱。"
+      ],
+      [
+        "The icicles began to melt in the afternoon sun.",
+        "冰柱在午后的阳光下开始融化。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/icicle",
+      "https://en.wiktionary.org/wiki/icicle#English"
+    ]
+  },
+  {
+    "word": "speed",
+    "ipa": "/spiːd/",
+    "meaning": "速度；快速；加快；超速行驶",
+    "sense": "今天常问一段时间走多远、做多快；历史上的老义却是事情有进展、能成功。",
+    "split": "名词、动词接古英语 spēd、spēdan，早有成功、进展义，快速与速率义后来成为中心。过去式、分词有 sped 和 speeded，不同搭配有偏好。",
+    "history": [
+      [
+        "古英语 spēd、spēdan",
+        "成功、顺利进展；使成功、前进"
+      ],
+      [
+        "中古英语 sped → speed",
+        "较早出现快速义 → 速度、加快、超速"
+      ]
+    ],
+    "explanation": "at a speed of 以某速度，speed up 加快，speed limit 限速；speed 也可以是很低的速率，并非每次都说快。",
+    "usage": "at high speed；speed up；a speed limit；a slow speed。",
+    "contrast": "speed 作名词一般说速率，不含方向；velocity 科学语境包含方向。Godspeed 等祝愿用法保留旧成功义，不是催人开快车。",
+    "examples": [
+      [
+        "The train reached a speed of two hundred kilometres an hour.",
+        "火车时速达到两百公里。"
+      ],
+      [
+        "A clearer process could speed up the work.",
+        "更清楚的流程能加快工作。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/speed",
+      "https://en.wiktionary.org/wiki/speed#English"
+    ]
+  },
+  {
+    "word": "speedy",
+    "ipa": "/ˈspiːdi/",
+    "meaning": "迅速的；快速完成的",
+    "sense": "回复很快来到、事情很快办妥，不一定是某辆车正在飞驰。",
+    "split": "接古英语 spēdiġ 等形式，现代可对应 speed + -y；旧义也有成功、富足，今天常用迅速义。",
+    "history": [
+      [
+        "古英语 spēd、spēdan",
+        "成功、顺利进展；使成功、前进"
+      ],
+      [
+        "中古英语 sped → speed",
+        "较早出现快速义 → 速度、加快、超速"
+      ],
+      [
+        "古英语 spēdiġ → speedy",
+        "有成功进展 → 迅速的"
+      ]
+    ],
+    "explanation": "a speedy reply 迅速答复，a speedy resolution 很快解决，a speedy recovery 早日康复这一祝愿。",
+    "usage": "a speedy reply；a speedy resolution；a speedy recovery。",
+    "contrast": "speedy 常强调过程耗时短或处理及时，fast 适用范围更宽；a speedy recovery 是祝愿，不是对恢复速度作保证。",
+    "examples": [
+      [
+        "Thank you for your speedy reply.",
+        "谢谢你迅速回复。"
+      ],
+      [
+        "We hope for a speedy resolution to the problem.",
+        "我们希望问题能尽快解决。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speedy#English"
+    ]
+  },
+  {
+    "word": "speeding",
+    "ipa": "/ˈspiːdɪŋ/",
+    "meaning": "快速行进；超速驾驶",
+    "sense": "作为描述可以是车飞快掠过；作为交通名词，通常就是超过规定速度开车。",
+    "split": "speed + -ing，动词活动名词化，也可作进行时或修饰语。交通违法义是现代车辆语境里的固定用法。",
+    "history": [
+      [
+        "古英语 spēd、spēdan",
+        "成功、顺利进展；使成功、前进"
+      ],
+      [
+        "中古英语 sped → speed",
+        "较早出现快速义 → 速度、加快、超速"
+      ],
+      [
+        "speed + -ing → speeding",
+        "快速移动；特指超速驾驶行为"
+      ]
+    ],
+    "explanation": "a speeding car 疾驰的车，a speeding ticket 超速罚单，be stopped for speeding 因超速被拦下。",
+    "usage": "a speeding car；a speeding ticket；be caught speeding。",
+    "contrast": "speeding ticket 指超速相关处罚文书，不是快递车票；speeding up 加快与超速驾驶要按完整搭配分。",
+    "examples": [
+      [
+        "The police stopped the driver for speeding.",
+        "警方因超速拦下了司机。"
+      ],
+      [
+        "A speeding train passed the platform.",
+        "一列疾驰的火车经过站台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speeding#English"
+    ]
+  },
+  {
+    "word": "speeder",
+    "ipa": "英 /ˈspiːdə/；美 /ˈspiːdər/",
+    "meaning": "超速驾驶者",
+    "sense": "把车开得超过限速的人，按这种行为称呼。",
+    "split": "speed 动词超速 + -er，表示做这件事的人。另有专用设备义较冷门，本页聚焦交通用法。",
+    "history": [
+      [
+        "古英语 spēd、spēdan",
+        "成功、顺利进展；使成功、前进"
+      ],
+      [
+        "中古英语 sped → speed",
+        "较早出现快速义 → 速度、加快、超速"
+      ],
+      [
+        "speed + -er → speeder",
+        "超速行驶的人"
+      ]
+    ],
+    "explanation": "catch speeders 查获超速者，a warning to speeders 对超速者的警示。新闻里常用，日常也可说 speeding drivers。",
+    "usage": "catch speeders；warn speeders；a repeat speeder。",
+    "contrast": "speeder 是人，不是 speedometer 速度表；speedster 更宽泛地夸快人、快车，不一定构成超速。",
+    "examples": [
+      [
+        "The camera records speeders on this road.",
+        "摄像头记录这条路上的超速驾驶者。"
+      ],
+      [
+        "The signs warn speeders to slow down.",
+        "标牌警告超速者减速。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speeder#English"
+    ]
+  },
+  {
+    "word": "speedway",
+    "ipa": "/ˈspiːdweɪ/",
+    "meaning": "赛车场、赛道；摩托车场地竞速",
+    "sense": "为高速比赛准备的赛道；有时不只说场地，也说在这种场地上的竞速项目。",
+    "split": "speed + way 通道、道路，固定用于赛车相关场地；特定摩托车竞速项目也叫 speedway。",
+    "history": [
+      [
+        "古英语 spēd、spēdan",
+        "成功、顺利进展；使成功、前进"
+      ],
+      [
+        "中古英语 sped → speed",
+        "较早出现快速义 → 速度、加快、超速"
+      ],
+      [
+        "speed + way → speedway",
+        "高速比赛场地 → 相应竞速项目"
+      ]
+    ],
+    "explanation": "a motor speedway 赛车道，racing at the speedway 在赛车场比赛，speedway racing 场地竞速。",
+    "usage": "a motor speedway；speedway racing；at the speedway。",
+    "contrast": "speedway 通常赛车语境，motorway、freeway 常是公共高速公路；不能把所有高速公路都叫赛车场。",
+    "examples": [
+      [
+        "Thousands of fans gathered at the speedway.",
+        "成千上万名车迷聚集在赛车场。"
+      ],
+      [
+        "The town hosts speedway racing during the summer.",
+        "镇上夏季举办摩托车场地竞速。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speedway#English"
+    ]
+  },
+  {
+    "word": "speedboat",
+    "ipa": "英 /ˈspiːdbəʊt/；美 /ˈspiːdboʊt/",
+    "meaning": "快艇",
+    "sense": "为了跑得快设计的小型动力船，名字强调速度性能。",
+    "split": "speed + boat 船，合成快艇名称；现代还可转为乘快艇行进的动词，但名词最实用。",
+    "history": [
+      [
+        "古英语 spēd、spēdan",
+        "成功、顺利进展；使成功、前进"
+      ],
+      [
+        "中古英语 sped → speed",
+        "较早出现快速义 → 速度、加快、超速"
+      ],
+      [
+        "speed + boat → speedboat",
+        "快速动力船 → 快艇"
+      ]
+    ],
+    "explanation": "a speedboat ride 乘快艇游玩，a speedboat race 快艇赛，a small speedboat 小快艇。",
+    "usage": "a speedboat ride；a speedboat race；a small speedboat。",
+    "contrast": "boat 船的总称，speedboat 特指以高速为特点的船型；不等于所有 motorboats 动力船。",
+    "examples": [
+      [
+        "A speedboat crossed the bay in a few minutes.",
+        "快艇几分钟就穿过了海湾。"
+      ],
+      [
+        "They watched a speedboat race from the shore.",
+        "他们在岸上观看快艇比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/speedboat#English"
+    ]
+  },
+  {
+    "word": "dad",
+    "ipa": "/dæd/",
+    "meaning": "爸爸；父亲〔口语〕",
+    "sense": "日常叫父亲“爸”，通常比 father 更亲近、随意。",
+    "split": "早期现代英语已有 dad 等拼写，可能来自儿童易发的 da 音；更早具体来源未定。不是把 father 按字母规则缩出来。",
+    "history": [
+      [
+        "早期现代英语 dad、dadd、dadde",
+        "爸爸；更早口语历史缺少直接记录"
+      ],
+      [
+        "dad → daddy；step- + dad",
+        "亲昵称呼；继父的口语名称"
+      ]
+    ],
+    "explanation": "my dad 我爸，Dad 作直接称呼常大写；a new dad 新当爸爸的人。正式关系说明可用 father。",
+    "usage": "my dad；Dad, can you help?；a new dad。",
+    "contrast": "dad 亲近口语，father 中性或较正式。My dad 与 Dad 的大写取决于是否当作称呼，而不是随时都要大写。",
+    "examples": [
+      [
+        "My dad taught me how to ride a bike.",
+        "我爸教我骑自行车。"
+      ],
+      [
+        "Dad, could you help me move this box?",
+        "爸，你能帮我搬这个箱子吗？"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dad",
+      "https://en.wiktionary.org/wiki/dad#English"
+    ]
+  },
+  {
+    "word": "daddy",
+    "ipa": "/ˈdædi/",
+    "meaning": "爸爸、爹地〔亲昵称呼〕",
+    "sense": "小孩子叫爸爸，或家庭里习惯的一种撒娇、亲昵称呼。",
+    "split": "dad + -y，双写 d；-y 在这里形成亲昵称呼，而不是说明材质或性质的形容词 -y。",
+    "history": [
+      [
+        "早期现代英语 dad、dadd、dadde",
+        "爸爸；更早口语历史缺少直接记录"
+      ],
+      [
+        "dad → daddy；step- + dad",
+        "亲昵称呼；继父的口语名称"
+      ],
+      [
+        "dad + 亲昵 -y → daddy",
+        "亲昵、儿语色彩的爸爸称呼"
+      ]
+    ],
+    "explanation": "Daddy 作称呼常大写，my daddy 我爸爸。成年人是否这样叫父亲，要看家庭和文化习惯；别的口语义另看上下文。",
+    "usage": "my daddy；Daddy, look!；a daddy’s girl。",
+    "contrast": "daddy 的亲昵程度通常比 dad 强；不因语境里出现 daddy 就一律当小孩真在叫生父。",
+    "examples": [
+      [
+        "“Daddy, look at my drawing!” the child said.",
+        "孩子说：“爸爸，看我画的画！”"
+      ],
+      [
+        "She made a card for her daddy.",
+        "她为爸爸做了一张卡片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/daddy#English"
+    ]
+  },
+  {
+    "word": "stepdad",
+    "ipa": "/ˈstepdæd/",
+    "meaning": "继父〔口语〕",
+    "sense": "父母再组成家庭后，家里称作爸爸的继亲父亲；词本身只说明亲属关系。",
+    "split": "step- 继亲 + dad；step- 源于旧亲属词材料，与走一步的 step 不是这里的现代构词关系。正式常用 stepfather。",
+    "history": [
+      [
+        "早期现代英语 dad、dadd、dadde",
+        "爸爸；更早口语历史缺少直接记录"
+      ],
+      [
+        "dad → daddy；step- + dad",
+        "亲昵称呼；继父的口语名称"
+      ],
+      [
+        "step-〔继亲〕+ dad → stepdad",
+        "继父的口语名称"
+      ]
+    ],
+    "explanation": "my stepdad 我的继父，a supportive stepdad 很支持孩子的继父。与亲生父亲、养父的称呼要分别理解。",
+    "usage": "my stepdad；a supportive stepdad；live with a stepdad。",
+    "contrast": "stepdad 不自动等于 adoptive father 养父，继亲关系与收养关系是不同概念；感情亲疏也不能仅凭词判断。",
+    "examples": [
+      [
+        "My stepdad helped me build the bookshelf.",
+        "继父帮我做了书架。"
+      ],
+      [
+        "She introduced him as her stepdad.",
+        "她介绍他说，这是她的继父。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stepdad#English"
+    ]
+  }
+]

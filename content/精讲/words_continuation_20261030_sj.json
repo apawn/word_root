@@ -1,0 +1,501 @@
+[
+  {
+    "word": "unwholesome",
+    "ipa": "英 /ʌnˈhəʊlsəm/；美 /ʌnˈhoʊlsəm/",
+    "meaning": "不利健康的；有害身心、令人不适的",
+    "sense": "食物已经变质、环境不清洁，或某种氛围让人身心不舒服，都可能被形容为 unwholesome。",
+    "split": "中古英语已有 unholsom 等形式，现代对应 un- + wholesome。wholesome 与 whole、hale 健全、健康的旧材料及 -some 相连，外层 un- 否定整个性质。",
+    "history": [
+      [
+        "旧健康、健全材料 → wholesome",
+        "对身体、身心有益的"
+      ],
+      [
+        "un- + wholesome → unwholesome",
+        "不利健康，或令人觉得有害、不适的"
+      ]
+    ],
+    "explanation": "unwholesome food 不利健康的食物；an unwholesome atmosphere 有害、让人不舒服的氛围。较书面，具体性质看对象。",
+    "usage": "an unwholesome smell；unwholesome conditions。",
+    "contrast": "unhealthy 较直白、范围广；unwholesome 有时还涉及心理、道德评价。它不等于仅仅不好吃。",
+    "examples": [
+      [
+        "An unwholesome smell came from the damp cellar.",
+        "潮湿地窖里飘出一股令人不舒服的气味。"
+      ],
+      [
+        "The novel describes an unwholesome atmosphere of suspicion.",
+        "小说描写了一种充满猜忌、令人压抑的氛围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unwholesome#English"
+    ]
+  },
+  {
+    "word": "workmanlike",
+    "ipa": "英 /ˈwɜːkmənlaɪk/；美 /ˈwɜːrkmənlaɪk/",
+    "meaning": "做得扎实、熟练的；合格但不花哨的",
+    "sense": "任务按部就班做成，细节靠谱，没有特别惊艳的创意；workmanlike 常在说这种扎实、称职的表现。",
+    "split": "workman 工匠、工人 + -like 像……的，原指具备工匠式技能，再固定为胜任、做得扎实的评价。",
+    "history": [
+      [
+        "workman + -like",
+        "像熟练工匠所做的"
+      ],
+      [
+        "现代评价 workmanlike",
+        "称职、扎实，往往不特别出彩"
+      ]
+    ],
+    "explanation": "a workmanlike performance 扎实但不惊艳的表现；a workmanlike job 做得合格的工作。可以肯定，也可能是有限度的赞美。",
+    "usage": "a workmanlike approach；a workmanlike victory。",
+    "contrast": "brilliant 强调出色、精彩；workmanlike 更偏可靠、称职。形容词可评价任何性别的人和团队。",
+    "examples": [
+      [
+        "It was a workmanlike performance rather than a brilliant one.",
+        "那次表现扎实合格，但谈不上精彩。"
+      ],
+      [
+        "The team produced a workmanlike report on time.",
+        "团队按时交出了一份做得扎实的报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workmanlike#English"
+    ]
+  },
+  {
+    "word": "roguelike",
+    "ipa": "英 /ˈrəʊɡlaɪk/；美 /ˈroʊɡlaɪk/",
+    "meaning": "类 Rogue 游戏；这类游戏的",
+    "sense": "先有一款叫 Rogue 的游戏，后来与它玩法相似的一类作品被叫 roguelike。今天常让人想到随机地图、反复开局等设计。",
+    "split": "游戏专名 Rogue + -like 像……的，形成类型名称。Rogue 最初是具体作品名，后来派生标签的范围扩大，不同玩家、作品对边界有不同用法。",
+    "history": [
+      [
+        "游戏名称 Rogue",
+        "一款早期游戏的专名"
+      ],
+      [
+        "Rogue + -like → roguelike",
+        "与其相关玩法相似的游戏及形容词"
+      ]
+    ],
+    "explanation": "a roguelike game 类 Rogue 游戏；play a roguelike 玩一款这类游戏。名词、形容词都可用。",
+    "usage": "roguelike elements；a roguelike adventure。",
+    "contrast": "这里的 rogue 首先指游戏名，不能直接译成像流氓的人。类型标签的实际宽窄要看作者、社区怎样使用。",
+    "examples": [
+      [
+        "The game adds roguelike elements to a simple dungeon adventure.",
+        "这款游戏给简单的地牢冒险加入了类 Rogue 元素。"
+      ],
+      [
+        "She enjoys roguelikes that create a different map each time.",
+        "她喜欢每次生成不同地图的类 Rogue 游戏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/roguelike#English"
+    ]
+  },
+  {
+    "word": "blandly",
+    "ipa": "/ˈblændli/",
+    "meaning": "平淡地；若无其事、不动声色地",
+    "sense": "说了一句挺让人吃惊的话，表情却很平，像在说天气一样；这个不显情绪、平平淡淡的方式可以是 blandly。",
+    "split": "bland + -ly。bland 借自拉丁 blandus 温和、悦人的，英语后来有不刺激、乏味、平淡等义；副词依场景取相应方式。",
+    "history": [
+      [
+        "拉丁 blandus → 英语 bland",
+        "温和、悦人 → 平淡、不刺激、乏味"
+      ],
+      [
+        "bland + -ly → blandly",
+        "平淡或不动声色地说、做"
+      ]
+    ],
+    "explanation": "say blandly 若无其事地说；smile blandly 淡淡一笑。具体可能是温和、无趣，也可能是故作镇静。",
+    "usage": "reply blandly；blandly deny something。",
+    "contrast": "calmly 明确说平静；blandly 更突出外表平淡、没什么情绪起伏，有时含说话者觉得反差大的意思。",
+    "examples": [
+      [
+        "“I sold the car,” he said blandly.",
+        "“我把车卖了。”他若无其事地说。"
+      ],
+      [
+        "She blandly denied knowing anything about it.",
+        "她不动声色地否认自己知道这件事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blandly#English"
+    ]
+  },
+  {
+    "word": "birch",
+    "ipa": "英 /bɜːtʃ/；美 /bɜːrtʃ/",
+    "meaning": "桦树；桦木；桦条鞭打〔旧用法〕",
+    "sense": "很多桦树有浅色、会剥落的树皮；树的名称也可用来叫它的木材。旧文献里，桦枝做的惩戒条又产生了另一用法。",
+    "split": "继承古英语 birce、bierce，经中古英语 birche 等延续，属于古老日耳曼语、印欧语树名词族。木材义、桦条惩戒义按材料、用途扩展。",
+    "history": [
+      [
+        "古英语 birce、bierce → 中古英语 birche",
+        "桦树名称"
+      ],
+      [
+        "现代 birch 的材料、用途义",
+        "桦木；桦条及相关旧惩戒动词"
+      ]
+    ],
+    "explanation": "a birch tree 桦树；birch bark 桦树皮；birch furniture 桦木家具。基础植物、材料义最实用。",
+    "usage": "a stand of birches；pale birch bark。",
+    "contrast": "beech 是山毛榉，birch 是桦树；英文名称和读音都不同，不能只凭浅色木材混叫。",
+    "examples": [
+      [
+        "A birch tree grew beside the stream.",
+        "溪边长着一棵桦树。"
+      ],
+      [
+        "The desk is made of birch.",
+        "这张书桌用桦木制成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/birch#English"
+    ]
+  },
+  {
+    "word": "millisecond",
+    "ipa": "/ˈmɪlɪsekənd/",
+    "meaning": "毫秒；千分之一秒",
+    "sense": "把一秒平均切成一千小份，每份是一毫秒；电脑响应、画面延迟里常用这个小时间单位。",
+    "split": "milli- 千分之一 + second 秒。milli- 的名称远连拉丁 mille 千，但在现代公制单位前约定表示千分之一。",
+    "history": [
+      [
+        "拉丁 mille 千 → 公制 milli-",
+        "单位前缀固定表示 10 的负三次方"
+      ],
+      [
+        "milli- + second → millisecond",
+        "0.001 秒，符号 ms"
+      ]
+    ],
+    "explanation": "a delay of ten milliseconds 十毫秒延迟；within milliseconds 在毫秒量级内。1000 milliseconds = 1 second。",
+    "usage": "response time in milliseconds；a millisecond delay。",
+    "contrast": "microsecond 是百万分之一秒，比 millisecond 更短；不要因为 mille 的旧义是千，就把毫秒当成一千秒。",
+    "examples": [
+      [
+        "The delay was only a few milliseconds.",
+        "延迟只有几毫秒。"
+      ],
+      [
+        "There are one thousand milliseconds in one second.",
+        "一秒等于一千毫秒。"
+      ]
+    ],
+    "sources": [
+      "https://www.nist.gov/pml/owm/metric-si-prefixes",
+      "https://en.wiktionary.org/wiki/millisecond#English"
+    ]
+  },
+  {
+    "word": "legged",
+    "ipa": "/ˈleɡɪd/，部分用法 /leɡd/",
+    "meaning": "有腿的；有某种数量、形态腿的",
+    "sense": "给 leg 加上表示具有的 -ed，就能说有腿；实际更常和前面的数量、形状材料一起出现，说明几条腿、怎样的腿。",
+    "split": "中古英语 legged 等形式延续到现代，对应 leg 名词 + -ed。这个形容词的 -ed 表示带有某种特征，与动词过去式词尾用途不同。",
+    "history": [
+      [
+        "leg + 具有特征的 -ed",
+        "有腿、带某类腿的"
+      ],
+      [
+        "现代 legged 及相关组合",
+        "按腿的数量、形态描写动物、家具、机器等"
+      ]
+    ],
+    "explanation": "a legged robot 有腿式机器人；legged locomotion 用腿移动。独立形容词常读两音节，具体组合也有读音差异。",
+    "usage": "legged robots；legged movement。",
+    "contrast": "legged 强调移动或支撑结构有腿；wheeled 是有轮的。这里的 -ed 不能一律读成普通动词过去式 /d/。",
+    "examples": [
+      [
+        "The lab is developing a legged robot.",
+        "实验室正在研制有腿式机器人。"
+      ],
+      [
+        "The book compares wheeled and legged movement.",
+        "这本书比较了轮式移动和足式移动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legged#English"
+    ]
+  },
+  {
+    "word": "pixel",
+    "ipa": "/ˈpɪksəl/",
+    "meaning": "像素",
+    "sense": "把数字照片不断放大，会看到它由很多小格组成；图像里这样一个最小取样小单元，就叫 pixel。",
+    "split": "由 pix 图片的非正式缩写形式与 element 单元的一部分混合；常概括为 picture element。x 联系 pix 的拼写，不是另一个独立词根。",
+    "history": [
+      [
+        "pictures → pics／pix；element",
+        "图片与构成单元的材料"
+      ],
+      [
+        "pix + element 的缩合 → pixel",
+        "数字图像中的像素"
+      ]
+    ],
+    "explanation": "a single pixel 一个像素；pixel by pixel 逐像素；a dead pixel 坏点。像素是图像数据、显示等语境的单位，实际尺寸随设备、呈现而变。",
+    "usage": "pixel size；a pixel on the screen。",
+    "contrast": "pixel 不等于固定长度的一小块：同样数量像素可以显示、打印成不同大小。megapixel 则是一百万像素。",
+    "examples": [
+      [
+        "Zoom in until you can see the individual pixels.",
+        "放大，直到能看见一个个像素。"
+      ],
+      [
+        "A single bright pixel stood out on the dark screen.",
+        "黑暗的屏幕上，一个亮像素格外显眼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pixel#English"
+    ]
+  },
+  {
+    "word": "megapixel",
+    "ipa": "/ˈmeɡəpɪksəl/",
+    "meaning": "百万像素",
+    "sense": "像素数量太大，数起来不方便，就把一百万像素算成一 megapixel；照片、相机规格里经常这样计数。",
+    "split": "mega- 一百万倍 + pixel 像素。pixel 自身是图片与单元材料的缩合词；外层 mega- 把计数单位放大到一百万。",
+    "history": [
+      [
+        "picture element 的相关缩合 → pixel",
+        "一个图像取样单元"
+      ],
+      [
+        "mega- + pixel → megapixel",
+        "一百万像素的计数单位"
+      ]
+    ],
+    "explanation": "a twelve megapixel image 一张一千二百万像素图像；a camera rated at twenty megapixels 标称两千万像素的相机。",
+    "usage": "megapixel count；an image in megapixels。",
+    "contrast": "megapixel 数量说像素总数；图像的噪点、色彩、镜头等表现还有其他因素，不能只靠这个数字概括画质。",
+    "examples": [
+      [
+        "The image contains twelve megapixels.",
+        "这张图像包含一千二百万像素。"
+      ],
+      [
+        "The camera’s megapixel count is printed on the box.",
+        "相机的百万像素数印在包装盒上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/megapixel#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  },
+  {
+    "word": "hertz",
+    "ipa": "英 /hɜːts/；美 /hɜːrts/",
+    "meaning": "赫兹，频率单位",
+    "sense": "某件有周期的事一秒重复一次，频率就是一 hertz；一秒重复五十次，就是五十 hertz。",
+    "split": "以德国物理学家 Heinrich Hertz 的姓氏命名，成为频率单位名称。它是纪念人名，不用把 h、er、tz 拆成表示频率的词根。",
+    "history": [
+      [
+        "物理学家姓氏 Hertz",
+        "单位命名所纪念的人物"
+      ],
+      [
+        "频率单位 hertz，符号 Hz",
+        "每秒一个周期的频率"
+      ]
+    ],
+    "explanation": "fifty hertz 五十赫兹；a frequency of one hertz 一赫兹的频率。单位名计量复数仍常写 hertz，符号 Hz 大小写固定。",
+    "usage": "frequency in hertz；a hundred hertz。",
+    "contrast": "hertz 测频率，不测音量；声音频率可以关联音高，声音大小还涉及其他物理量。",
+    "examples": [
+      [
+        "The signal repeats ten times a second, so its frequency is ten hertz.",
+        "信号每秒重复十次，所以频率是十赫兹。"
+      ],
+      [
+        "The chart shows frequency in hertz.",
+        "图表用赫兹表示频率。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hertz#English"
+    ]
+  },
+  {
+    "word": "megahertz",
+    "ipa": "英 /ˈmeɡəhɜːts/；美 /ˈmeɡəhɜːrts/",
+    "meaning": "兆赫；百万赫兹",
+    "sense": "一赫兹是一秒一次，一 megahertz 就是一秒一百万次；常见于广播信号、电子时钟等频率描述。",
+    "split": "mega- 一百万倍 + hertz 赫兹。hertz 来自物理学家姓氏，mega- 则在单位中精确取一百万这一倍率。",
+    "history": [
+      [
+        "人名纪念单位 hertz",
+        "频率单位，符号 Hz"
+      ],
+      [
+        "mega- + hertz → megahertz",
+        "一百万赫兹，符号 MHz"
+      ]
+    ],
+    "explanation": "one hundred megahertz 一百兆赫；a frequency measured in megahertz 以兆赫计的频率。1 MHz = 1,000,000 Hz。",
+    "usage": "megahertz frequency；a signal at ninety megahertz。",
+    "contrast": "MHz 的 M 是一百万倍；mHz 的小写 m 是千分之一倍。字母大小写会改变数量级。",
+    "examples": [
+      [
+        "The station broadcasts at a frequency of one hundred megahertz.",
+        "这家电台以一百兆赫的频率广播。"
+      ],
+      [
+        "One megahertz equals one million hertz.",
+        "一兆赫等于一百万赫兹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/megahertz#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  },
+  {
+    "word": "moth",
+    "ipa": "英 /mɒθ/；美 /mɔːθ/ 或 /mɑːθ/",
+    "meaning": "蛾、飞蛾",
+    "sense": "夜里灯旁常见飞蛾，这是最容易记的画面；但 moth 是动物名称，不保证每种蛾都只在夜间活动。",
+    "split": "继承古英语 moþþe 等旧形式，经中古英语 moth、motthe 等延续，属日耳曼语虫、蛾名称词族。整词继承，不是 mother 母亲的缩短。",
+    "history": [
+      [
+        "古英语相关蛾名 → 中古英语 moth 等",
+        "蛾类昆虫的旧名称"
+      ],
+      [
+        "现代 moth",
+        "日常蛾、飞蛾的名称"
+      ]
+    ],
+    "explanation": "a moth near the lamp 灯旁的飞蛾；clothes moths 衣蛾；like a moth to a flame 像飞蛾扑火般被强烈吸引。",
+    "usage": "a moth’s wings；moth damage。",
+    "contrast": "butterfly 是蝴蝶，moth 是蛾；日夜活动只能帮助想象常见情景，不能当绝对分类标准。末尾 th 读 /θ/。",
+    "examples": [
+      [
+        "A moth fluttered around the lamp.",
+        "一只飞蛾在灯旁扑动翅膀。"
+      ],
+      [
+        "Clothes moth larvae can damage woollen fabric.",
+        "衣蛾幼虫会损坏羊毛织物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moth#English"
+    ]
+  },
+  {
+    "word": "flimsy",
+    "ipa": "/ˈflɪmzi/",
+    "meaning": "薄而不结实的；理由、证据站不住脚的",
+    "sense": "轻轻一压就弯、一扯就破，结构没有分量，是 flimsy；借到解释、借口上，就是一推敲就撑不住。",
+    "split": "确切来源不明，可能与 film 薄层的变形及 -y 等有关，也有别的分析。物理上薄弱、不结实的意义后来扩展到论据薄弱。",
+    "history": [
+      [
+        "十八世纪初英语 flimsy",
+        "来源未定，已有薄弱、不结实义"
+      ],
+      [
+        "比喻扩展",
+        "理由、解释等缺少支撑、说服力"
+      ]
+    ],
+    "explanation": "a flimsy chair 不结实的椅子；a flimsy excuse 站不住脚的借口；flimsy evidence 薄弱证据。",
+    "usage": "flimsy material；a flimsy argument。",
+    "contrast": "thin 只说薄，薄材料也可以结实；flimsy 往往还评价脆弱、不可靠。s 虽写在词中，这里读 /z/。",
+    "examples": [
+      [
+        "The flimsy table shook when he touched it.",
+        "他一碰，那张不结实的桌子就晃起来。"
+      ],
+      [
+        "She rejected his flimsy excuse for being late.",
+        "她不接受他那个站不住脚的迟到借口。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/flimsy",
+      "https://en.wiktionary.org/wiki/flimsy#English"
+    ]
+  },
+  {
+    "word": "tiny",
+    "ipa": "/ˈtaɪni/",
+    "meaning": "极小的、微小的",
+    "sense": "不是一般小，而是小到细细一点、得凑近看；tiny 是日常很常用的加强型小。",
+    "split": "由中古英语 tine、tyne 很小等材料加 -y 形成，更远来源不完全清楚。现代 teeny、teensy 等带口语、儿语色彩的变形与它相连。",
+    "history": [
+      [
+        "中古英语 tine、tyne 的小材料",
+        "更远来源有不同分析"
+      ],
+      [
+        "tiny 及相关口语变形",
+        "极小的；teeny、teensy 等加强小的感觉"
+      ]
+    ],
+    "explanation": "a tiny room 极小的房间；a tiny amount 一点点；a tiny detail 微小细节。可以形容具体尺寸，也能形容数量。",
+    "usage": "a tiny village；a tiny bit。",
+    "contrast": "small 是普通小，tiny 语气更强。minor 侧重重要性较低，微小细节不一定不重要。",
+    "examples": [
+      [
+        "A tiny bird landed on the windowsill.",
+        "一只很小的鸟落在窗台上。"
+      ],
+      [
+        "Only a tiny amount of water remained.",
+        "只剩下一点点水了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tiny#English"
+    ]
+  },
+  {
+    "word": "teensy",
+    "ipa": "/ˈtiːnsi/",
+    "meaning": "极小的、一丁点的〔口语〕",
+    "sense": "带点夸张、亲昵地说“就这么一丁点”，可以用 teensy；比 tiny 更有口语、儿语的味道。",
+    "split": "由 teeny 的儿语式变形形成，后者联系 tiny。中间 s 可能受到 itsy 等相近表达影响，不是数字 teen 十几的直接派生。",
+    "history": [
+      [
+        "tiny → teeny 等口语变形",
+        "把极小的感觉说得更亲昵"
+      ],
+      [
+        "teeny → teensy",
+        "带插入音、儿语色彩的一丁点小"
+      ]
+    ],
+    "explanation": "a teensy bit 一丁点；a teensy mistake 一个很小的错误。常用于轻松对话或故意弱化语气。",
+    "usage": "a teensy amount；a teensy problem。",
+    "contrast": "tiny 比较通用，teensy 更随意、带说话者语气。正式精确报告通常直接给数量、尺寸更清楚。",
+    "examples": [
+      [
+        "Could you move it a teensy bit to the left?",
+        "能把它往左挪一丁点吗？"
+      ],
+      [
+        "There is one teensy problem with the plan.",
+        "这个计划有一个小小的问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teensy#English"
+    ]
+  }
+]

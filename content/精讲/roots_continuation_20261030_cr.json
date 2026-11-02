@@ -1,0 +1,171 @@
+[
+  {
+    "id": "B3827",
+    "meaning": "工程方法与应用领域；生物、地球系统中的工程",
+    "core": "ENGINEERING：把知识变成可设计、制造、运行的系统",
+    "image": "engineering 基础词后接 bioengineering、geoengineering 两个领域；三词已有逐词精讲。",
+    "intro": "engineering 不只是机器名称，也重在设计、建造和运用方法。bio- 指生物领域，geo- 指地球领域；具体术语范围依学科和语境，不只按前缀猜全部技术。",
+    "forms": "engineer + -ing；bio-/geo- + engineering；-ing 可名词化领域，不必译为正在工程。",
+    "branches": [
+      [
+        "基础领域与专门应用",
+        "engineering · bioengineering · geoengineering"
+      ]
+    ],
+    "contrasts": "engineering 方法和行业，engineer 人或设计动词；bioengineering 生物应用、geoengineering 地球系统相关，前缀不保证具体方案有效。",
+    "practice": "The course introduces engineering before discussing bioengineering.\n\n课程先介绍工程方法，再讨论生物工程。",
+    "words": [
+      "engineering",
+      "bioengineering",
+      "geoengineering"
+    ],
+    "exclude": {
+      "retro-engineering": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2610",
+    "meaning": "珍视、受爱与昂贵；使讨喜、爱称和短缺",
+    "core": "DEAR：心里有价值，也可说价高；短缺支线另接旧名词",
+    "image": "dear → dearly；endear → endearing、endearment 放一处；dearth 从昂贵、稀缺旧联系另讲。",
+    "intro": "dearth 非现代 dear 任意加后缀换音，而有中古英语旧形。dear 温情、价格和信函称呼不机械同译；endearing 讨喜、endearment 爱称和亲昵表达分开。",
+    "forms": "dear + -ly；en- + dear → endear；endear + -ing/-ment；dearth 对应旧 dear + -th。\n\n承古英语 deorling、dyrling，被珍爱的人，接 dear 的旧形式与小称材料；元音历史变化成 dar-，末尾不是现代动词的 -ing。",
+    "branches": [
+      [
+        "珍视与方式",
+        "dear · dearly"
+      ],
+      [
+        "使讨喜、性质与爱称",
+        "endear · endearing · endearment"
+      ],
+      [
+        "价高、稀缺旧支线",
+        "dearth"
+      ],
+      [
+        "darling：被珍爱的那个人",
+        "darling · darlings"
+      ]
+    ],
+    "contrasts": "dear/deer 同音；endear 使别人喜欢；endearing/enduring 不同；dearth/death 不同；pay dearly 非亲热付款。",
+    "practice": "Her endearing kindness made her dear to her neighbours.\n\n她讨人喜欢的善意让邻居们都很珍爱她。",
+    "words": [
+      "dear",
+      "dearly",
+      "endear",
+      "endearing",
+      "endearment",
+      "dearth",
+      "darling",
+      "darlings"
+    ],
+    "exclude": {
+      "dearie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "deary": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4339",
+    "meaning": "拿出来出版；作品的一次版本或一期",
+    "core": "EDITION：把内容以某个版本推出",
+    "image": "本页只收不带连字符的基础 edition；其他复合词按用户要求暂略。",
+    "intro": "看清出版版次、报刊期次、单份实物区别；历史 edition 先于 edit，不按现代字面把时间顺序倒过来。",
+    "forms": "拉丁语 ēdere → ēditiō；法语 édition → edition；现代与 edit/editor 对照，但借入时间、词形路径各有不同。",
+    "branches": [
+      [
+        "出版版本与期次",
+        "edition"
+      ]
+    ],
+    "contrasts": "edition 版本、copy 实物份；edition/addition 版本与增加不同；limited edition 限量版不直接说明每份价值。",
+    "practice": "This copy belongs to the first edition.\n\n这一本属于第一版。",
+    "words": [
+      "edition"
+    ],
+    "exclude": {
+      "e-edition": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-edition": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-edition": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2823",
+    "meaning": "打赌、押结果；口语确信和回应",
+    "core": "BET：把把握押在某种结果上，口语可不牵涉真钱",
+    "image": "bet → bettor；betcha 展示 bet you 连读与回应。",
+    "intro": "具体源头不明，不把 abet、better 等假说写成已证实。词义例句用于看懂语言，不提供赌博方法。",
+    "forms": "bet—bet/betted；bet + -or 双写 t；bet you → betcha〔口语拼写〕。\n\n早期俚语名词、动词的远源未定，ing 双写 t。\n\nbet 远源未定；bets 为复数或动词三单，bettors 是 bet 双写 t 加 -or 人物词的复数。I bet 表确信时未必真拿钱下注。",
+    "branches": [
+      [
+        "打赌及参与者、口语形式",
+        "bet · bettor · betcha"
+      ],
+      [
+        "bet → betting：押某个结果，或很有把握地猜",
+        "bet · betting"
+      ],
+      [
+        "bets 与 bettors：赌注、下注者及确信口语",
+        "bet · bets · bettor · bettors"
+      ]
+    ],
+    "contrasts": "I bet 不一定真下注；bettor 不等于赢家；betcha 是口语缩合；a safe bet 可稳妥选择比喻。",
+    "practice": "I betcha the meeting will finish early.\n\n我敢说会议会早点结束。",
+    "words": [
+      "bet",
+      "bettor",
+      "betcha",
+      "betting",
+      "bets",
+      "bettors"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3957",
+    "meaning": "看见；借视角讲洞察、监督、事后认识等",
+    "core": "SIGHT：眼睛的看见，借来表示心里怎样看事情",
+    "image": "sight → eyesight；insight、oversight、hindsight 视角分组；sightseeing 观光另组，复用已有五词。",
+    "intro": "同样的 sight 放进不同组合，含义不只是前缀逐字相加。insight 近源有中古英语记录，更早继承分析不强定。",
+    "forms": "eye + sight；in-/over-/hind- + sight；sight + seeing。\n\ninsight 有中古英语心智视觉、从内部理解的用法，现代可说一条条让人想通的发现；复数 -s 在 /t/ 后读 /s/。\n\nsight 接古英语所见、视力的名词，与 see 同族；末尾保留古老名词构成材料，不能把现代 see 直接写成 see + 普通 -t。sights 常说景点，也可作 sight 动词的第三人称。",
+    "branches": [
+      [
+        "视觉与视力",
+        "sight · eyesight"
+      ],
+      [
+        "理解、监督和事后视角",
+        "insight · oversight · hindsight"
+      ],
+      [
+        "游览观看",
+        "sightseeing"
+      ],
+      [
+        "in + sight → insight → insights：看到事情内部",
+        "insights"
+      ],
+      [
+        "see 与 sight → sights：景象与看见",
+        "sights"
+      ]
+    ],
+    "contrasts": "insight 洞察、eyesight 视力；oversight 监督或疏漏依语境；hindsight 事后不等于预见。",
+    "practice": "With hindsight, the small mistake gave us insight into the larger problem.\n\n事后看来，那个小失误反而让我们看清了更大的问题。",
+    "words": [
+      "sight",
+      "eyesight",
+      "insight",
+      "oversight",
+      "hindsight",
+      "sightseeing",
+      "insights",
+      "sights"
+    ],
+    "exclude": {
+      "sight-doing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sight-reader": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

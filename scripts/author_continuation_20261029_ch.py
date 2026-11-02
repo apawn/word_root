@@ -1,0 +1,211 @@
+"""Future, rest, serious, recent, marry and morning: everyday families."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[a+'；'+b,'并列构词部分'],[w,m]]
+F=[['拉丁语 futūrus → 古法语 futur → 中古英语 future','将要存在、将来的'],['英语 future','未来；将来的；以后可能发生的']]
+W('future','英 /ˈfjuːtʃə/；美 /ˈfjuːtʃər/','未来；前途；将来的',
+ '现在还没到的那一段时间，也可以说一个人或计划往后有什么可能。',
+ '经法语来自拉丁语 futūrus 将要存在的，是表示存在的动词词族中的将来分词。现代 future 不是英语 fut 加一个任意后缀。',F,
+ 'in the future 在未来，a future teacher 将来的老师；have a future 有前途。financial futures 另有期货这一固定金融名词用法。',
+ 'in the future；for future use；the near future；future plans；have a future。',
+ 'future 作形容词说将来，不自动表示一定会发生；a possible future 是一种可能前景，不是已证实预测。',
+ ('We need to think about the future of the library.','我们需要考虑图书馆的未来。'),('Keep the instructions for future use.','留好说明，以后使用。'))
+W('futuristic','英 /ˌfjuːtʃəˈrɪstɪk/；美 /ˌfjuːtʃəˈrɪstɪk/','有未来风格的；像未来世界的',
+ '看起来像人们想象的未来，不代表它已经准确预测了未来。',
+ 'future 的词干 futur- + -istic，形成未来风格、未来派的形容词；也与 futurist 词族有关。',F+[['future + -istic → futuristic','未来 → 带想象中未来风格的']],
+ 'a futuristic building 未来感建筑，a futuristic design 未来风格设计；科幻服装、车辆等也常用。',
+ 'a futuristic design；a futuristic city；futuristic technology。',
+ 'future 将来的，futuristic 像未来、充满未来感；今天建成的建筑也可以 futuristic。',
+ ('The station has a futuristic roof of glass and steel.','车站有一座玻璃与钢构成、充满未来感的屋顶。'),('The film is set in a futuristic city.','电影以一座想象中的未来城市为背景。'))
+W('futurist','英 /ˈfjuːtʃərɪst/；美 /ˈfjuːtʃərɪst/','研究、讨论未来趋势的人；未来主义艺术家',
+ '把注意力放在未来可能怎样的人；艺术史里又是特定运动的参与者。',
+ 'future 的词干 futur- + -ist 人物、主张者，形成关注未来者的名词；后来也用于特定未来主义艺术运动人物。',F+[['future + -ist → futurist','未来 → 研究、主张未来的人；特定艺术运动人物']],
+ 'a technology futurist 科技未来趋势研究者；a Futurist painter 未来主义画家。大写常提示艺术史专门用法，但仍看具体文献。',
+ 'a futurist writer；a technology futurist；a Futurist artist。',
+ 'futurist 是人，futuristic 是风格；研究未来的人不保证每次预测都对。',
+ ('A futurist spoke about possible changes in urban transport.','一位未来趋势研究者谈了城市交通的可能变化。'),('The gallery displayed work by several Futurist painters.','画廊展出了几位未来主义画家的作品。'))
+W('futurism','英 /ˈfjuːtʃərɪzəm/；美 /ˈfjuːtʃərɪzəm/','未来主义；关注未来的思想或方法',
+ '可以泛说把眼光放到未来的想法；艺术史里通常指一场具体的现代艺术运动。',
+ 'future 的词干 futur- + -ism，形成主张、运动名称。艺术史中的 Futurism 与20世纪初强调速度、机器和现代生活的运动相关。',F+[['future + -ism → futurism','未来 → 未来主义思想、特定艺术运动']],
+ 'Italian Futurism 意大利未来主义；the influence of Futurism 未来主义影响。不是所有科幻作品或所有新科技都属于这一历史艺术运动。',
+ 'Italian Futurism；the history of Futurism；futurism in art。',
+ 'futurism 是思想、运动，futurist 是相关的人，futuristic 是未来感风格；词族相近但对象不同。',
+ ('The lecture introduced the main ideas of Italian Futurism.','讲座介绍了意大利未来主义的主要观念。'),('The essay contrasts historical Futurism with today’s interest in future technology.','文章对比了历史上的未来主义与今天对未来技术的兴趣。'))
+R('B2620','未来；前途；未来风格与未来主义','FUTURE：将要存在，与人们想象的未来分开','future 是未来本身或将来的；futuristic 是风格，futurist 是人，futurism 是思想或历史艺术运动。',
+ 'future 经法语来自拉丁语 futūrus 将要存在的。现代 -istic、-ist、-ism 分别改变性质、人物与思想运动的表达。',
+ 'future → futuristic、futurist、futurism；三者互相对照，不把风格与历史运动直接画等号。',
+ [['时间、前途与风格','future · futuristic'],['人物与思想运动','futurist · futurism']],
+ '今天的建筑可以 futuristic；不代表它是未来才建，也不代表一定属于历史 Futurism。',
+ 'The futurist discussed whether futuristic cities would really improve our future lives.\n\n未来趋势研究者讨论：充满未来感的城市是否真能改善未来生活。',
+ 'future futuristic futurist futurism')
+RE=[['两条来路：古英语 ræst、restan；拉丁语 restāre 经法语 reste、rester','前者休息、安静、支撑；后者留下、剩余'],['英语同形 rest','休息、支托；另一支为其余、剩下的部分；部分动词用法后来交叠']]
+W('rest','/rest/','休息；安静、停下；支托；另有剩下的部分义',
+ '休息是一时停住活动；剩余则是拿走一部分后还留着。两条来路分别记，不强编同一故事。',
+ '休息名词、动词接古英语 ræst、restan；其余、留下义经法语来自拉丁语 restāre。现代部分用法交叠，但 the rest 不能简单解释成睡觉的人。',RE,
+ 'take a rest 休息一下，rest your arm 把手臂放下休息；the rest of the day 这一天剩余时间，the rest of us 我们其余的人。rest on evidence 也可说建立在证据上。',
+ 'take a rest；at rest；the rest of；rest on；rest assured。',
+ 'the rest 后动词随所指对象：the rest of the water is，the rest of the people are；休息与睡觉也不完全一样。',
+ ('Let’s take a rest before the next climb.','下次攀爬前，我们休息一下吧。'),('I read for the rest of the afternoon.','下午余下的时间，我都在看书。'),('The rest of the guests are arriving later.','其余客人稍后到。'),sources=['https://en.wiktionary.org/wiki/rest#English','https://www.etymonline.com/word/rest'])
+W('restful','/ˈrestfəl/','宁静的；让人休息、放松的',
+ '环境或时段让你可以停下、安定下来，不再绷着。',
+ 'rest 休息、安静 + -ful，形容能带来休息感、宁静感；不是说里面装满了剩饭。',RE+[['rest 的休息义 + -ful → restful','休息、宁静 → 令人放松的']],
+ 'a restful holiday 轻松休息的假期，a restful colour 让人放松的颜色。常描述效果、气氛，不是必须完全无声。',
+ 'a restful night；a restful place；a restful atmosphere。',
+ 'restful 让人安定，restless 是静不下来，两者不只差一个字母而意义相同。',
+ ('We spent a restful weekend in the countryside.','我们在乡下度过了一个轻松休息的周末。'),('The room’s soft colours create a restful atmosphere.','房间柔和的色彩营造出宁静气氛。'))
+W('restless','/ˈrestləs/','静不下来的；不安的；辗转难眠的',
+ '身体想动、心里安不下来，或总觉得现在的状态不满足。',
+ 'rest 休息、安静 + -less，没有……的，旧有无法休息、不安的相关用法，后来也常说渴望活动、改变。',RE+[['rest + -less → restless','休息、安静 → 得不到安宁、静不下来']],
+ 'restless children 坐不住的孩子；a restless night 辗转难眠的一夜；restless for change 渴望变化。未必每次都因为害怕。',
+ 'a restless night；feel restless；restless energy；grow restless。',
+ 'restless 静不下，不等于 simply energetic 精力旺盛；前者常带不安、不满足或难以休息感。',
+ ('The children grew restless during the long wait.','漫长等待中，孩子们渐渐坐不住了。'),('After a restless night, she welcomed a quiet morning.','辗转难眠一夜后，她很珍惜安静的清晨。'))
+W('restlessness','/ˈrestləsnəs/','坐立不安；烦躁；渴望变化的不满足',
+ '把静不下来、总想动或想改变的那股劲单独拿出来说。',
+ 'restless + -ness，形成状态名词；不等于没有休息时间这一事实本身。',RE+[['restless → restlessness','静不下来的 → 不安、躁动状态']],
+ 'a feeling of restlessness 一种坐立不安感；youthful restlessness 年轻时渴望尝试变化的躁动。原因要看语境。',
+ 'a sense of restlessness；restlessness among the crowd；overcome restlessness。',
+ 'restlessness 是不安、躁动状态，unrest 常说群体、社会层面的不平静；不是两个词长短不同就能全互换。',
+ ('A sense of restlessness made him want to travel again.','一股不安于现状的感觉，让他又想出发旅行。'),('The teacher noticed growing restlessness among the students.','老师注意到学生们越来越坐不住。'))
+W('unrest','/ʌnˈrest/','动荡；群体不满、社会不安',
+ '不是只有一个人睡不好，而是一群人对现状不满，整体局面不平静。',
+ 'un- 否定 + rest 安宁、平静，形成不安名词；现代常用于社会、政治、劳动关系等集体场景。',RE+[['un- + rest → unrest','不安宁 → 群体、社会层面的不平静']],
+ 'social unrest 社会动荡，industrial unrest 劳资关系中的不平静、争议活动。词本身不保证已经发生暴力。',
+ 'social unrest；civil unrest；industrial unrest；a period of unrest。',
+ 'unrest 多看群体局势；restlessness 可说个人坐立不安。个人很困却睡不着，通常不叫 social unrest。',
+ ('The novel is set during a period of social unrest.','小说以社会动荡时期为背景。'),('The report links industrial unrest to disputes over pay.','报告把劳资关系中的不平静与薪酬争议联系起来。'))
+W('armrest','英 /ˈɑːmrest/；美 /ˈɑːrmrest/','扶手；供手臂搁靠的部分',
+ '手臂不用一直悬着，可以搁在椅子或座位边上的支撑处。',
+ 'arm 手臂 + rest 支托物，复合为座椅扶手名称。rest 在这里不仅是睡觉，而是让某部位有地方靠着。',C('arm 手臂','rest 支托物','armrest','供手臂搁靠的部件'),
+ 'a padded armrest 带软垫扶手；the armrest of a chair 椅子扶手。沙发、车辆座椅等都可有这个部分。',
+ 'a chair armrest；a padded armrest；rest an arm on the armrest。',
+ 'armrest 搁手臂，headrest 托头；handrail 扶栏多沿楼梯、通道供手扶，不是同一种位置部件。',
+ ('He placed his arm on the chair’s armrest.','他把手臂放在椅子扶手上。'),('The seat has an adjustable armrest.','座椅有可调扶手。'))
+R('B3809','休息、安宁、支托；另源的剩余','REST：休息与剩下分两条来路','休息、支撑部位及不安是一组；the rest 的剩余来自法语、拉丁语另一支，不把二者编成同一现代派生。',
+ '休息接旧英语，余下接拉丁语 restāre 经法语。arrest 的旧拉丁语站住、停住背景与后者词族相关，不能直接按英语休息加 ar- 理解。',
+ 'rest → restful ↔ restless → restlessness；unrest 群体不安；armrest、headrest、restroom 看固定用途；arrest 单看其拉丁语历史。',
+ [['休息、宁静与不安','rest · restful · restless · restlessness · unrest'],['支托与固定设施名','armrest · headrest · restroom'],['另一条旧拉丁分支的相关词','arrest']],
+ 'restful 放松，restless 静不下；unrest 常说群体动荡。the rest 其余不是睡觉；arrest 也不是英语休息的直接派生。',
+ 'After a restless night, she rested in the armchair and let her hand lie on the armrest.\n\n辗转一夜后，她在扶手椅上休息，把手搁在扶手上。',
+ 'rest restful restless restlessness unrest armrest headrest restroom arrest')
+SE=[['拉丁语 sērius → 中世纪拉丁语 sēriōsus、法语 sérieux','严肃、认真的'],['中古英语 seryows → 英语 serious','认真、当真的；严重、重要的']]
+W('serious','英 /ˈsɪəriəs/；美 /ˈsɪriəs/','认真的；严肃的；严重的；重大的',
+ '把一件事当成有分量、不能随便开玩笑处理；也可以说问题已经重到必须重视。',
+ '经法语、中世纪拉丁语接拉丁语 sērius 认真、严肃的词族。更远来源有不同推测，不把有分量的记忆画面硬说成确定的最古词义。',SE,
+ 'a serious student 认真学生，a serious problem 严重问题；Are you serious? 你是认真的吗？be serious about a plan 是认真对待计划，不只是表情不笑。',
+ 'be serious about；a serious problem；a serious mistake；Are you serious?。',
+ 'serious 可以认真但不悲伤；a serious musician 是认真、专业投入的音乐人，不一定冷脸或缺少幽默。',
+ ('She is serious about learning the language.','她是认真想学这门语言的。'),('The missing records created a serious problem for the project.','记录丢失给项目造成了严重问题。'),('Are you serious about moving next month?','你真打算下个月搬家吗？'))
+W('seriously','英 /ˈsɪəriəsli/；美 /ˈsɪriəsli/','认真地；严重地；说真的；口语还可加强程度',
+ '可以说做事态度认真，也可以强调影响很重；放在整句前，有时就是提醒我没开玩笑。',
+ 'serious + -ly，继承认真与严重两方面的意思，后有句子评论和程度强化用法。',SE+[['serious → seriously','认真、严重 → 认真地、严重地；说真的']],
+ 'take something seriously 当回事；seriously damaged 严重受损；Seriously, ... 说真的。seriously good 口语可以是好得很，并不矛盾。',
+ 'take seriously；seriously consider；seriously damaged；seriously good。',
+ 'seriously 修饰动词、分词或整句；serious 是形容词。take me seriously 是认真对待我，不是把我变严肃。',
+ ('Please take the complaint seriously.','请认真对待这项投诉。'),('We are seriously considering a smaller office.','我们正认真考虑换一间较小办公室。'),('Seriously, you did a great job.','说真的，你做得很棒。'))
+W('seriousness','英 /ˈsɪəriəsnəs/；美 /ˈsɪriəsnəs/','认真、严肃；严重程度',
+ '把态度有多认真，或局面有多严重，单独拿出来谈。',
+ 'serious + -ness，形成性质名词；具体是态度还是问题程度，看搭配对象。',SE+[['serious → seriousness','认真、严重 → 认真态度、严重程度']],
+ 'the seriousness of the situation 局势严重程度；his seriousness about the work 他对工作的认真。也可说 in all seriousness 我是认真说的。',
+ 'the seriousness of；in all seriousness；show seriousness。',
+ 'seriousness 不必等于 sadness 悲伤；一个人认真投入工作，也可以很快乐。',
+ ('We underestimated the seriousness of the problem.','我们低估了问题的严重性。'),('Her seriousness about the project impressed the team.','她对项目的认真态度给团队留下深刻印象。'))
+R('B3855','认真、当真；严肃；严重','SERIOUS：态度当真，问题也可能分量很重','同一词既说人怎么对待事，也说事有多严重；不是所有 serious 都译不开心、面无表情。',
+ 'serious 经法语接拉丁语 sērius 等形式，更远来源不强作定论。现代 -ly、-ness 分别表达方式与性质。',
+ 'serious → seriously、seriousness。',
+ [['态度与问题程度','serious'],['方式、语气与性质','seriously · seriousness']],
+ 'take seriously 当回事；Are you serious? 你认真的吗？seriousness 可是认真态度，也可是严重程度。',
+ 'She seriously considered the seriousness of the problem before making a decision.\n\n作决定前，她认真考虑了问题的严重程度。',
+ 'serious seriously seriousness')
+RC=[['拉丁语 recēns，词干 recent-','新鲜的、新近的'],['英语 recent','最近的、近来发生的；距离现在不久']]
+W('recent','/ˈriːsənt/','最近的；新近的',
+ '从现在往回看，发生没多久；多久算最近，要看谈一封邮件还是一段历史。',
+ '借自拉丁语 recēns 新鲜、新近的，其变化词干 recent- 形成英语词形。现代按整个借词掌握，不必硬拆一个再加一百的故事。',RC,
+ 'recent news 近期消息，in recent years 近年来。a recent graduate 最近毕业的人，不自动说明具体毕业了几个月。',
+ 'a recent study；in recent years；recent changes；a recent graduate。',
+ 'recent 说离现在不远，current 说当前正在存在、使用；一位 recent manager 可能是近来任职者，不一定就是 current manager 现任经理。',
+ ('Have you read her most recent book?','你读过她最近那本书吗？'),('There have been several changes in recent months.','最近几个月发生了几项变化。'))
+W('recently','/ˈriːsəntli/','最近；不久前',
+ '把动作放在离现在不太远的过去，不一定就是此刻正在做。',
+ 'recent + -ly，形容词变时间副词；与完成时、过去时等都可搭配，按所表达时间结构选择。',RC+[['recent → recently','最近的 → 最近发生、做过']],
+ 'I recently moved 不久前我搬家了；I haven’t seen her recently 最近没见到她。不是看到 recently 就只能强制使用一种时态。',
+ 'until recently；more recently；have recently；recently moved。',
+ 'recently 最近、不久前，currently 目前；recently changed 是近来改过，未必正在改变中。',
+ ('We recently moved to a smaller flat.','我们不久前搬进一套较小公寓。'),('I haven’t spoken to him recently.','我最近没有和他说过话。'))
+W('recency','/ˈriːsənsi/','新近程度；距今远近',
+ '不是看事情发生多少次，而是看上一次发生离现在有多久。',
+ 'recent 对应 -cy 性质名词，词末 t 不保留为 recency；表示新近这一性质或程度。',RC+[['recent → recency','最近的 → 新近程度、距今远近']],
+ 'sort by recency 按新近程度排序；the recency of an update 更新距今多久。数据、分析、正式讨论中较常用。',
+ 'sort by recency；the recency of；frequency and recency。',
+ 'recency 距今多久，frequency 发生多频繁；每天来过与最近一次来过，不是同一个指标。',
+ ('The list is sorted by recency, with the newest items first.','列表按新近程度排序，最新项目在前。'),('The analysis compared the frequency and recency of purchases.','分析比较了购买频率与最近一次购买距今多久。'))
+R('B3444','最近；新近程度','RECENT：从现在回头看，距离还不远','recent 形容事物，recently 给动作标时间，recency 把新近程度作为一个指标。',
+ 'recent 来自拉丁语 recēns 新鲜、新近的，英语词干 recent-。后续 -ly、-cy 改变表达功能。',
+ 'recent → recently、recency。',
+ [['事物与动作的近期','recent · recently'],['新近程度这一性质','recency']],
+ 'recent 不等于 current；recency 距今远近不等于 frequency 发生频率；recently 不强制只用一种时态。',
+ 'The recent report compares the recency of updates across files changed recently.\n\n近期报告比较了最近修改过的文件各自更新距今多久。',
+ 'recent recently recency')
+MA=[['拉丁语 marītāre → 法语 marier → 中古英语 marien','结婚、使结婚；与配偶词族有关'],['英语 marry；相关 marriage','结婚；结合、融合；婚姻关系']]
+W('marry','/ˈmæri/','结婚；与……结婚；主持婚礼；结合、融合',
+ '让两个人形成婚姻关系；比喻也能把两个原本不同的想法、风格结合起来。',
+ '经法语 marier 来自拉丁语 marītāre 结婚词族。现代 marry 不按 Mary 这个人名拆，也不是 merry 快乐的拼写变体。',MA,
+ 'marry someone 与某人结婚，直接接人；get married 结婚，be married to someone 已与某人结婚。marry two styles 把两种风格结合。',
+ 'marry someone；get married；be married to；marry tradition with innovation。',
+ 'marry a person 或 be married to a person；married with two children 里的 with 是有两个孩子，不是与孩子结婚。',
+ ('They married after meeting at university.','他们大学相识后结了婚。'),('The design marries traditional materials with modern technology.','设计把传统材料与现代技术结合起来。'))
+W('married','/ˈmærid/','已婚的；结了婚的；紧密绑定的',
+ '结婚这个动作之后形成一种状态；比喻上也可说死守某个想法。',
+ 'marry 去 y 加 -ied，过去式、过去分词形成形容词。不是 marry 再加一个独立的 ed 词根。',MA+[['marry → married','结婚 → 已结婚、处于婚姻关系的']],
+ 'a married couple 已婚伴侣；be married to an idea 死守某种想法，口语比喻，未必真有婚礼。',
+ 'a married couple；get married；have been married；be married to an idea。',
+ 'get married 侧重结婚发生，be married 说已婚状态。They have been married for years，不用把 marry 动作当成一直举行婚礼。',
+ ('They have been married for twelve years.','他们已经结婚十二年了。'),('We are not married to the original plan and can change it.','我们并不死守原计划，可以修改。'))
+W('marriage','/ˈmærɪdʒ/','婚姻；结婚；融合、结合',
+ '把结婚、婚姻关系或两种事物的结合，作为名词来谈。',
+ '经古法语 mariage 来自 marier 结婚，英语现代可对应 marry + -age 的词族关系；历史上不是先有现代 marry 再临时拼出全部形式。',MA+[['法语 marier → mariage → 英语 marriage','结婚 → 婚姻、结婚及其比喻结合']],
+ 'a happy marriage 幸福婚姻；a marriage of old and new 新旧结合；marriage ceremony 婚礼仪式。婚姻关系与某一天举行的庆典不是同一个重点。',
+ 'a happy marriage；a marriage ceremony；a marriage of styles；years of marriage。',
+ 'marriage 可说婚姻关系或制度，wedding 特别说婚礼；一场隆重 wedding 不保证后续 marriage 一定幸福。',
+ ('The memoir describes forty years of marriage.','回忆录描述了四十年的婚姻生活。'),('The building is a successful marriage of old and new design.','建筑成功结合了新旧设计。'))
+W('unmarried','/ʌnˈmærid/','未婚的；当前不处于婚姻关系的',
+ '重点是没有结婚这一状态，不直接说明是否有恋爱伴侣。',
+ 'un- 不 + married 已婚的，否定婚姻状态。日常要明确说从未结婚，可以直接说 never married。',MA+[['married → un- + married → unmarried','已婚 → 不处于婚姻关系的']],
+ 'an unmarried couple 未婚伴侣；remain unmarried 一直没有结婚。two unmarried people 可能是有伴侣，也可能没有。',
+ 'an unmarried couple；unmarried adults；remain unmarried。',
+ 'unmarried 关注是否结婚，single 在日常有时关注有没有伴侣；不要由未婚就推出独居或孤独。',
+ ('The survey includes both married and unmarried adults.','调查包括已婚和未婚成年人。'),('They lived together as an unmarried couple.','他们作为未婚伴侣共同生活。'))
+W('remarry','/ˌriːˈmæri/','再婚；再次与某人结婚',
+ '曾经结过婚，后来又进入一次婚姻；对象可以是另一个人，也可能是同一个人。',
+ 're- 再 + marry 结婚；过去式 remarried，延续 marry 的 y → i 变化。',MA+[['re- + marry → remarry','再次结婚']],
+ 'remarry after a divorce 离婚后再婚；remarry years later 多年后再婚。只说明再次结婚，词本身不详述前一段婚姻结束的原因。',
+ 'remarry later；remarry after a divorce；a decision to remarry。',
+ 'remarry 是再婚，reunite 团聚、重聚不自动等于重新结婚；与同一人复婚也可以用 remarry。',
+ ('She chose to remarry several years later.','几年后，她选择了再婚。'),('The novel ends with the divorced couple deciding to remarry.','小说结尾，离婚的伴侣决定重新结婚。'))
+R('B3687','结婚；婚姻；再次结婚与未婚状态','MARRY：动作、关系与状态分开','marry 是动作，married 是状态，marriage 是关系或概念；un-、re- 再分别说明否定与再次。',
+ 'marry 经法语来自拉丁语结婚词族；marriage 经法语相关名词进入英语。现代 y 变 i 的形式变化在 married、remarried 中可见。',
+ 'marry → married → unmarried；marriage 是相关名词；re- + marry → remarry。',
+ [['动作、状态与关系','marry · married · marriage'],['否定状态与再次结婚','unmarried · remarry']],
+ 'marry someone；be married to someone；marriage 婚姻，wedding 婚礼；unmarried 不说明是否有恋爱伴侣。',
+ 'They married young, and the book follows the changes in their marriage.\n\n他们年轻时结婚，书中讲述了他们婚姻中的变化。',
+ 'marry married marriage unmarried remarry')
+MO=[['中古英语 morwenynge，由 morwen 清晨 + -ynge 形成','与清晨、翌日的旧词族相关'],['英语 morning','早晨、上午；现代也可按旧词 morn + -ing 理解']]
+W('morning','英 /ˈmɔːnɪŋ/；美 /ˈmɔːrnɪŋ/','早晨；上午',
+ '从一天开始到中午前的这段时间；到底偏清晨还是整个上午，看句子。',
+ '经中古英语 morwenynge 来自清晨词 morwen 加后缀。现代可联系较旧的 morn + -ing；不是 mourn 悲悼 + -ing，虽然 morning 与 mourning 常同音。',MO,
+ 'in the morning 在早晨、上午；tomorrow morning 明早，Monday morning 周一上午。Good morning 是早间问候，不表示只许天刚亮时用。',
+ 'in the morning；tomorrow morning；on Monday morning；early morning。',
+ 'morning 清晨、上午，dawn 特指破晓；mourning 是悼念、悲痛。两者同音不意味着同源同义。',
+ ('I do my best writing in the morning.','我上午写作状态最好。'),('We will leave early tomorrow morning.','我们明天一早出发。'),('The appointment is on Monday morning.','预约在周一上午。'))
+R('B2494','早晨；上午','MORNING：一天前段，既可早晨也可上午','日常直接结合时间搭配记忆：in the morning，tomorrow morning，on Monday morning。',
+ 'morning 经中古英语 morwenynge 来自清晨旧词加后缀，现代可联系 morn。它不从 mourn 悼念而来。',
+ 'morning；morn 是较旧、文学性的相关形式，本组先掌握现代常用词。',
+ [['日常时间与问候','morning']],
+ 'morning 上午与 dawn 破晓范围不同；mourning 悼念虽同音，词源和意思分开。',
+ 'Good morning. We will discuss the plan tomorrow morning.\n\n早上好。我们明天上午讨论计划。',
+ 'morning')
+for item in WORDS:
+ if item['word']=='recent':item['split']=item['split'].replace('现代按整个借词掌握，不必硬拆一个再加一百的故事。','现代按整个借词掌握，不必硬拆成今天的英语前后缀。')
+ if item['word'] in {'futurist','futurism'}:item['sources'].append('https://www.moma.org/collection/terms/futurism')
+if __name__ == '__main__':save('continuation_20261029_ch',ROOTS,WORDS)

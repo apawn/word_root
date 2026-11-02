@@ -5,7 +5,7 @@
     "core": "ST / STAT / STIT = STAND",
     "image": "站在一个位置，保持住，再使事情立起来",
     "intro": "**先想一个人把脚站稳。** 拉丁语 stāre 表示站立、停留；status 是所处的状态，statuere 是把东西设立起来。于是站得住是 stable，站在某处形成 station，分开站出 distance，挡在前面成了 obstacle。这个词族很大，但并不是看到 st 就能认亲；下面把直接借词、现代派生和有争议的旁支分别说明。",
-    "forms": "st-、stat-、stit- 是相关历史词形在不同构词环境中留下的样子，不是可以随意互换的拼写。sistere“使站定”与 stāre 有关，出现在 consist 等词里。state、estate、status 是同源词的不同借入路线；stable 的“稳定”与“马厩”也各有自己的来源词。stay、staunch 更深的来路有不同解释，不能拿它们作为最清楚的规则例子。",
+    "forms": "st-、stat-、stit- 是相关历史词形在不同构词环境中留下的样子，不是可以随意互换的拼写。sistere“使站定”与 stāre 有关，出现在 consist 等词里。state、estate、status 是同源词的不同借入路线；stable 的“稳定”与“马厩”也各有自己的来源词。stay、staunch 更深的来路有不同解释，不能拿它们作为最清楚的规则例子。\n\nstem 名词接古英语 stemn，常联系更早站立、稳固材料，与拉丁 stare 仅作远层同源比较；阻止液体流动的 stem 另接北欧语，不硬并入此来源。\n\nstate 接拉丁 status 所处状态，后有国家、州与陈述动词等分支；states 在句中可能是名词或动词。\n\nestablish 经法语接拉丁 stabilīre 使稳固，established 的 -ed 在 /ʃ/ 后读 /t/。\n\n站立、停留的词族，经使停住发展为逮捕与阻止继续。\n\nstate 的状态名词有拉丁、法语背景，陈述动词说把内容明确表达。\n\n站立、驻留词族发展到车站、台站、工作位置和驻扎动词。\n\n停留、支撑旧词支线有不同分析，本组先掌握普通停留义。\n\n本组掌握普通停留用法，支撑等较早词支分别看。\n\n统计学科接国家事务的学术词史，stat 的数据义再加复数 s。\n\n法语停留、支撑等历史路径有争议；现代复数、三单有多种句法作用。\n\n拉丁 stabilire 经法语 establir 的 establiss- 词干进入英语。\n\n拉丁 instantia 经法语借入，现代 instances 增加一个 iz 音节。\n\n法语或直接拉丁 consistere 来源；现代常用 consisting of 修饰整体。\n\n拉丁 substare、substantia 经法语，现代 s 读 iz，复数常数物质种类。\n\n法语或直接拉丁 consistere 来源，现代 t 后完整 ed 读 id。\n\n所处地位、财产状况；站在前面挡路。各支分别相邻，不串成现代派生链。\n\n统计数据名词 stat 缩 statistic，远接 statistics 的国家事务、拉丁 status 状态、stare 站立词线；立即副词 stat 缩拉丁 statim，两个现代短称分开解释。\n\nestablish 经古法语 establir 接拉丁 stabilire 使稳定；-ment 构成建立的行为、建立起来的机构等名词，再加复数 -s。现代 establishments 常数经营场所、机构。\n\ndistance 接拉丁 dis- 分开 + stare 站立等材料。stem 茎干词族远连站立材料；但 stem 阻挡流动的另一动词来源不同，不能混成一条植物故事。\n\narrest 经法语接拉丁停住、留下的词族，远连 stare 站。现代复数、动词第三人称同形，逮捕、阻止与吸引注意等义各自看语境。",
     "branches": [
       [
         "状态与位置",
@@ -30,6 +30,86 @@
       [
         "从国家到数据",
         "state · statistics · statistic"
+      ],
+      [
+        "远层同源比较：直立支撑的 stem 名词",
+        "stem"
+      ],
+      [
+        "state → states：状态、政治单位与陈述",
+        "state · states"
+      ],
+      [
+        "establish → established：让事情站稳、确定下来",
+        "establish · established"
+      ],
+      [
+        "arrest → arrested：使停住、扣留",
+        "arrest · arrested"
+      ],
+      [
+        "state → stated：把情况明白说出来",
+        "state · stated"
+      ],
+      [
+        "station → stations：固定地点与派驻",
+        "station · stations"
+      ],
+      [
+        "stay → stayed：停留与保持状态",
+        "stay · stayed"
+      ],
+      [
+        "stay → stayed → staying：停留与保持状态",
+        "stay · stayed · staying"
+      ],
+      [
+        "statistics → stats：统计信息的常用缩短",
+        "statistics · stats"
+      ],
+      [
+        "stay → stays：留下、保持与支撑",
+        "stay · stays"
+      ],
+      [
+        "establish → establishing：使事情稳稳成立",
+        "establish · establishing · establishment"
+      ],
+      [
+        "instance → instances：拿出来说的具体事例",
+        "instance · instances"
+      ],
+      [
+        "consist → consisting：这些部分合起来构成",
+        "consist · consisting"
+      ],
+      [
+        "substance → substances：实质、物质与不同材料",
+        "substance · substances"
+      ],
+      [
+        "consist → consisted：当时由哪些部分构成",
+        "consist · consisted"
+      ],
+      [
+        "站立词族各支：estate 与 obstacle 的复数",
+        "estate · estates · obstacle · obstacles"
+      ],
+      [
+        "stat：statistic 的短称；statim 立即的缩略另支",
+        "stat · stats"
+      ],
+      [
+        "使稳固 → establish → establishment → establishments",
+        "establishments"
+      ],
+      [
+        "站开 → distances；支起的茎干 → stems",
+        "distances · stems"
+      ],
+      [
+        "ad- + re- + st- 站 → arrests",
+        "arrests"
       ]
     ],
     "contrasts": "**state / status / estate**：当前状态或国家；身份地位或进度类别；地产、遗产。它们有同源联系，现代使用分工不同。\n\n**instant / instance**：立刻发生或一瞬间；某类事情的一次具体出现。\n\n**substantial / substantive / substantiate**：分量可观；涉及实质内容；拿证据使说法站得住。\n\n**stationary / stationery**：静止的；文具。\n\n**statistics / statistic / statistician**：统计学或数据；一项统计量；从事统计的人。学科名称在先，单项 statistic 是后来的逆构形式。",
@@ -139,7 +219,29 @@
       "superstitious",
       "consubstantiation",
       "transubstantiation",
-      "transubstantiate"
+      "transubstantiate",
+      "stem",
+      "states",
+      "established",
+      "arrested",
+      "stated",
+      "stations",
+      "stayed",
+      "staying",
+      "stats",
+      "stays",
+      "establishing",
+      "instances",
+      "consisting",
+      "substances",
+      "consisted",
+      "estates",
+      "obstacles",
+      "stat",
+      "establishments",
+      "distances",
+      "stems",
+      "arrests"
     ]
   }
 ]

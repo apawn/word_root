@@ -1,0 +1,212 @@
+[
+  {
+    "id": "B3544",
+    "meaning": "来源、资源与获取方式",
+    "core": "SOURCE：东西从哪里来，以及从谁那里获取",
+    "image": "source 说起点、出处，resource 说可用资源；outsource 外包，crowdsource 则把获取范围扩大到开放人群。",
+    "intro": "source 有泉源、来源的法语历史背景，现代还能作动词取得供应。众包词族仿照外包构词，先分获取信息、成果与筹钱的不同。",
+    "forms": "source → resource、sourcebook；outsource 外部承接；crowdsource → crowdsourcing 作为现代动词、活动名词一组。",
+    "branches": [
+      [
+        "来源与可用资料",
+        "source · resource · sourcebook"
+      ],
+      [
+        "外包与众包",
+        "outsource · crowdsource · crowdsourcing"
+      ]
+    ],
+    "contrasts": "crowdsourcing 不等于 crowdfunding；source 取得供应不只搜到一个网页；resource 不必全是自然资源。",
+    "practice": "The archive used crowdsourcing to find the source of an old photograph.\n\n档案馆借助大众参与，查找一张老照片的来源。",
+    "words": [
+      "source",
+      "resource",
+      "sourcebook",
+      "outsource",
+      "crowdsource",
+      "crowdsourcing"
+    ],
+    "exclude": {
+      "e-source": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "closed-source": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ur-source": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3902",
+    "meaning": "风格、样式；时尚、造型与文体",
+    "core": "STYLE：同样内容，可以有不同呈现方式",
+    "image": "style 是风格，stylish 赞有品味，stylist 是造型师或文字风格见长者，stylistic 中性说风格方面。",
+    "intro": "style 经法语接拉丁写字尖笔，形成写作方式，再扩展其他表达。不要把所有风格词都粗译时尚；专业文体用法也很常见。",
+    "forms": "style → stylish、stylist、stylistic；hair + style → hairstyle；lifestyle、freestyle 是已学固定复合词。\n\n拉丁 stilus 经法语传入，写字工具联系写作及外观风格。\n\nstyle 经法语接拉丁 stilus 书写工具、表达方式，英语形成动词后去 e 加完整 -ed，/l/ 后读 /d/；造型与称号用法分场景。",
+    "branches": [
+      [
+        "风格、评价、人物与分析",
+        "style · stylish · stylist · stylistic"
+      ],
+      [
+        "具体用途及已学词",
+        "hairstyle · lifestyle · freestyle"
+      ],
+      [
+        "style → styles：尖笔到表达方式",
+        "style · styles"
+      ],
+      [
+        "style 风格、式样 → styled",
+        "styled"
+      ]
+    ],
+    "contrasts": "stylish 正面审美，stylistic 风格方面；hairstyle 发型不一定靠 haircut 剪出来。",
+    "practice": "The stylist chose a stylish hairstyle to match the actor’s usual style.\n\n造型师选了一个有型的发型，配合演员平常的风格。",
+    "words": [
+      "style",
+      "stylish",
+      "stylist",
+      "stylistic",
+      "hairstyle",
+      "lifestyle",
+      "freestyle",
+      "styles",
+      "styled"
+    ],
+    "exclude": {
+      "styler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slopestyle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hardstyle": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3381",
+    "meaning": "社团、夜店；棍棒、球杆与牌名",
+    "core": "CLUB：联合的一群人，或棒状工具的固定义",
+    "image": "club 作为社团是人，作为场所是地方，作为球杆、棍棒是器具。clubbing 日常社交语境通常说泡夜店。",
+    "intro": "棍棒义借斯堪的纳维亚语相关形式；较晚社团义联系聚成团的用法。词源联系不要强简化为一群人拿棍子成立组织的故事。",
+    "forms": "club → clubbing；night + club → nightclub；club + house → clubhouse。\n\n古诺尔斯棍棒词借入，社团与牌组名称各有后续发展。\n\n器物 mace 经古法语接拉丁槌等名称材料；香料 mace 同形另源。这里只与 club 比较器物，未说由英语 club 派生。",
+    "branches": [
+      [
+        "基本多义和夜店活动",
+        "club · clubbing · nightclub"
+      ],
+      [
+        "社团设施",
+        "clubhouse"
+      ],
+      [
+        "club → clubs：棍棒、社团与梅花牌组",
+        "club · clubs"
+      ],
+      [
+        "club 对照：mace 的棍棒、礼仪权杖义",
+        "mace"
+      ]
+    ],
+    "contrasts": "golf club 可是球杆或俱乐部；go clubbing 不等于参加普通兴趣社团；clubs 还可说梅花牌组。",
+    "practice": "After leaving the clubhouse, they decided not to go clubbing.\n\n离开俱乐部会所后，他们决定不去夜店玩。",
+    "words": [
+      "club",
+      "clubbing",
+      "nightclub",
+      "clubhouse",
+      "clubs",
+      "mace"
+    ],
+    "exclude": {
+      "e-club": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "clubbed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "clubman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3611",
+    "meaning": "薄膜、胶片、电影；拍摄与电影目录",
+    "core": "FILM：薄的一层，走到影像记录和电影",
+    "image": "一层膜是旧画面，胶片、电影作品接摄影历史；filmy 留在薄层质地，filmic 去讲电影表现。",
+    "intro": "film 继承古英语 filmen。现代数字拍摄仍叫 film，材料名与作品名已分开；microfilm 缩微档案、filmography 作品目录也别混成电影制作。",
+    "forms": "film → filmy 薄膜般、filmic 电影的；micro- 缩微 → microfilm；filmography 影目；filmmaker、filmmaking 是已学人物、制作活动词。\n\n本族薄膜词的现代技术扩展，数字时代继续保留旧名称。\n\n古英语 filmen 薄皮、膜，后有感光材料、作品与拍摄义。\n\n古英语薄膜材料，摄影用法发展；数字拍摄也能叫 filmed，不要求胶片。",
+    "branches": [
+      [
+        "基础及两种性质",
+        "film · filmy · filmic"
+      ],
+      [
+        "记录媒介与目录",
+        "microfilm · filmography"
+      ],
+      [
+        "电影制作人物与活动",
+        "filmmaker · filmmaking"
+      ],
+      [
+        "另一个薄层专门词",
+        "biofilm"
+      ],
+      [
+        "film → films：薄膜、胶片与电影",
+        "film · films"
+      ],
+      [
+        "film → filming：薄膜、胶片到拍摄影像",
+        "film · filming"
+      ],
+      [
+        "film → filmed：胶片名称转为拍摄动作",
+        "film · filmed"
+      ]
+    ],
+    "contrasts": "filmy 不是 filmic；microfilm 不是 short film；filmography 不是 filmmaking；数字 film 不必真用胶片。",
+    "practice": "The filmmaker checked an old filmography and watched a film from the archive.\n\n电影制作人查了旧影目，观看了一部档案馆收藏的电影。",
+    "words": [
+      "film",
+      "filmy",
+      "filmic",
+      "microfilm",
+      "filmography",
+      "filmmaker",
+      "filmmaking",
+      "biofilm",
+      "films",
+      "filming",
+      "filmed"
+    ],
+    "exclude": {
+      "pre-film": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "film-craft": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "filmer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4185",
+    "meaning": "疼痛、不快；严重程度与抱歉遗憾",
+    "core": "SORE：身体的痛，或心里的不快",
+    "image": "sore 说疼，soreness 把疼当状态，sorely 常加强缺乏、想念、失望等程度，sorry 则从难过走到抱歉、遗憾。",
+    "intro": "词族接古英语 sār 等疼痛词。sorry 与 sore 同族，虽受 sorrow 拼写影响，sorrow 本身另源；植物、颜色的 sorrel 也不混进疼痛词族。",
+    "forms": "sore → soreness、sorely；旧难过形容词 → sorry；eyesore 是已学视觉不适比喻。",
+    "branches": [
+      [
+        "疼痛和状态",
+        "sore · soreness"
+      ],
+      [
+        "强烈程度与遗憾",
+        "sorely · sorry"
+      ],
+      [
+        "视觉不适的固定词",
+        "eyesore"
+      ]
+    ],
+    "contrasts": "sorry 不一定承认责任，也可同情；sorely needed 迫切需要；sore 与 soar 同音，sorrow 另源。",
+    "practice": "I was sorry to hear that her sore shoulder had stopped her from joining us.\n\n听说肩膀疼让她没法加入我们，我很遗憾。",
+    "words": [
+      "sore",
+      "soreness",
+      "sorely",
+      "sorry",
+      "eyesore"
+    ],
+    "exclude": {
+      "sorrel": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

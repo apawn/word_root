@@ -1,0 +1,62 @@
+[
+  {
+    "id": "B2942",
+    "meaning": "袋包容器；装袋、松垮形状及用途扩展",
+    "core": "BAG：能把零散东西装住的软容器",
+    "image": "bag → baggy、bagger、baggie；handbag、airbag 与茶包、邮袋、豆袋、沙袋按用途；bagpipes 气囊乐器，scumbag 另列口语贬称。",
+    "intro": "袋子可装物、装气，也可作为形状比喻。冷门人物、粗俗近义变体本轮不堆列；保留一个常见侮辱语用于阅读识别。",
+    "forms": "bag + -y/-er/-ie，双写 g；hand/air/tea/mail/bean/sand/scum + bag；bag + pipes。\n\n北欧相关袋子词借入；英语又由名词发展出动词。\n\nbaggage 经法语 bagage、bague 包裹，通常认为与 bag 的北欧来源相关。-age 是集合性名词材料，行李与心理包袱常见。",
+    "branches": [
+      [
+        "基本词与派生",
+        "bag · baggy · bagger · baggie"
+      ],
+      [
+        "各类袋子和坐具",
+        "handbag · airbag · teabag · mailbag · beanbag · sandbag"
+      ],
+      [
+        "气囊乐器",
+        "bagpipes"
+      ],
+      [
+        "口语贬称",
+        "scumbag"
+      ],
+      [
+        "bag → bags：袋与装袋、取得",
+        "bag · bags"
+      ],
+      [
+        "bag 包裹词族 → baggage",
+        "baggage"
+      ]
+    ],
+    "contrasts": "baggy 宽松、baggie 小塑料袋；beanbag 不保证装豆；bagpipes 不是收纳袋；scumbag 带强烈侮辱语气。",
+    "practice": "She put a teabag and a baggie of snacks in her handbag.\n\n她在手提包里放了一只茶包和一小塑料袋零食。",
+    "words": [
+      "bag",
+      "baggy",
+      "bagger",
+      "baggie",
+      "handbag",
+      "airbag",
+      "teabag",
+      "mailbag",
+      "beanbag",
+      "sandbag",
+      "bagpipes",
+      "scumbag",
+      "bags",
+      "baggage"
+    ],
+    "exclude": {
+      "man-bag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ho-bag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "douchebag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dirtbag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "shitbag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bagman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

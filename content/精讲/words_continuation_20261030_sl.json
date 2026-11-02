@@ -1,0 +1,238 @@
+[
+  {
+    "word": "nanoscale",
+    "ipa": "英 /ˈnænəʊskeɪl/；美 /ˈnænoʊskeɪl/",
+    "meaning": "纳米尺度；纳米尺度的",
+    "sense": "把尺寸放到以纳米来描述的极小层面，谈材料表面、小结构，就会用 nanoscale；scale 在这里是尺度。",
+    "split": "nano- 纳米、极小尺度材料 + scale 尺度，形成名词及形容词用法。nano- 在计量单位中是十亿分之一，长度对应纳米。",
+    "history": [
+      [
+        "nano- 的微小、纳米尺度材料 + scale",
+        "按纳米量级观察尺寸"
+      ],
+      [
+        "nanoscale",
+        "纳米尺度，或在此尺度上的"
+      ]
+    ],
+    "explanation": "at the nanoscale 在纳米尺度上；nanoscale structures 纳米尺度结构；nanoscale imaging 纳米尺度成像。",
+    "usage": "nanoscale materials；study something at the nanoscale。",
+    "contrast": "nano- 在单位中有精确倍率，nanoscale 作为范围描述则看学科语境；它不表示每个对象都恰好只有一纳米。",
+    "examples": [
+      [
+        "The microscope reveals structures at the nanoscale.",
+        "显微镜显示了纳米尺度的结构。"
+      ],
+      [
+        "The team studies nanoscale changes on the surface.",
+        "团队研究表面在纳米尺度上的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nanoscale#English"
+    ]
+  },
+  {
+    "word": "nanosecond",
+    "ipa": "英 /ˈnænəʊsekənd/；美 /ˈnænoʊsekənd/",
+    "meaning": "纳秒；十亿分之一秒；一瞬间〔夸张〕",
+    "sense": "把一秒切成十亿份，每份就是一纳秒；日常夸张说“连一瞬间都没犹豫”，也能用 nanosecond。",
+    "split": "nano- 十亿分之一 + second 秒，形成计量单位名称。极短时间的精确义又有一瞬间的夸张用法。",
+    "history": [
+      [
+        "nano- + second",
+        "10 的负九次方秒，符号 ns"
+      ],
+      [
+        "日常夸张表达",
+        "极短的一瞬间"
+      ]
+    ],
+    "explanation": "a pulse lasting ten nanoseconds 持续十纳秒的脉冲；not for a nanosecond 连一瞬间也不〔夸张〕。",
+    "usage": "a nanosecond pulse；within nanoseconds。",
+    "contrast": "millisecond 是千分之一秒，nanosecond 是十亿分之一秒；一毫秒是一百万纳秒。",
+    "examples": [
+      [
+        "The pulse lasted only a few nanoseconds.",
+        "这个脉冲只持续了几纳秒。"
+      ],
+      [
+        "I did not doubt her for a nanosecond.",
+        "我连一瞬间也没怀疑过她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nanosecond#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  },
+  {
+    "word": "telecast",
+    "ipa": "英 /ˈtelɪkɑːst/；美 /ˈtelɪkæst/",
+    "meaning": "电视播送；电视广播节目",
+    "sense": "把事件通过电视传给观众，动作可以是 telecast；这一场电视播送本身，也叫 a telecast。",
+    "split": "tele- 远距离，取电视相关关系 + 从 broadcast 抽出的 -cast 播送。形成现代媒体名词和动词，cast 原有撒、投的画面在广播史中扩展。",
+    "history": [
+      [
+        "broadcast 的播送义 → -cast",
+        "把传播、播送作为新构词材料"
+      ],
+      [
+        "tele- + -cast → telecast",
+        "通过电视播送；一场电视播送"
+      ]
+    ],
+    "explanation": "a live telecast 电视直播；telecast an event 电视转播一项活动。动词变化可见 telecast，也可见 telecasted，依使用习惯。",
+    "usage": "the evening telecast；a telecast of the match。",
+    "contrast": "broadcast 范围更广；telecast 明确电视，webcast 明确网络播送。实际节目可能同时在多个平台出现。",
+    "examples": [
+      [
+        "The final was shown in a live telecast.",
+        "决赛通过电视直播播出。"
+      ],
+      [
+        "The network telecast the opening ceremony.",
+        "电视网转播了开幕式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telecast#English"
+    ]
+  },
+  {
+    "word": "penile",
+    "ipa": "/ˈpiːnaɪl/",
+    "meaning": "阴茎的〔解剖、医学用语〕",
+    "sense": "penis 是器官名称，penile 把它变成关系形容词，用来修饰组织、结构、疾病等医学名称。",
+    "split": "借现代拉丁 penilis，来自 penis + 相关形容词材料；现代可按 penis 的词基 pen- 与 -ile 对照理解。它不是 pen 笔的派生词。",
+    "history": [
+      [
+        "拉丁 penis → 近代拉丁 penilis",
+        "器官名形成关系形容词"
+      ],
+      [
+        "英语 penile",
+        "用于相关解剖、医学名词前"
+      ]
+    ],
+    "explanation": "penile tissue 阴茎组织；penile anatomy 阴茎解剖。用来准确限定相关部位，属于中性术语。",
+    "usage": "penile structure；penile anatomy。",
+    "contrast": "penile 是形容词，penis 是名词；末尾 -ile 这里读 /aɪl/，不能因拼写像另一个词就随意换音。",
+    "examples": [
+      [
+        "The chapter introduces penile anatomy.",
+        "这一章介绍阴茎解剖。"
+      ],
+      [
+        "The diagram labels the different types of penile tissue.",
+        "图示标出了不同类型的阴茎组织。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/penile",
+      "https://en.wiktionary.org/wiki/penile#English"
+    ]
+  },
+  {
+    "word": "prehensile",
+    "ipa": "英 /prɪˈhensaɪl/；美 /prɪˈhensəl/",
+    "meaning": "能抓握、缠握的",
+    "sense": "有些动物的尾巴能缠住树枝，像多了一只抓东西的手；这种具备抓握功能的身体部分就是 prehensile。",
+    "split": "经法语 prehensile 对应形式，接拉丁 prehensus 抓住的分词词干及 -ile 形容词材料；动词是 prehendere 抓住。不能把前面的 pre- 直接译成提前。",
+    "history": [
+      [
+        "拉丁 prehendere → prehensus",
+        "抓住 → 旧分词、词干形式"
+      ],
+      [
+        "法语 préhensile → 英语 prehensile",
+        "有抓握能力、适于抓握的"
+      ]
+    ],
+    "explanation": "a prehensile tail 能缠握的尾巴；prehensile toes 能抓握的脚趾。强调身体部位的功能，不是所有同类动物都有同样功能。",
+    "usage": "a prehensile organ；a prehensile tail。",
+    "contrast": "flexible 是灵活、柔软，未必能抓住东西；prehensile 明确说适于抓握。英美词尾读法有常见差异。",
+    "examples": [
+      [
+        "The monkey used its prehensile tail to grip the branch.",
+        "那只猴子用能缠握的尾巴抓住树枝。"
+      ],
+      [
+        "The article describes how prehensile toes help the animal climb.",
+        "文章介绍了能抓握的脚趾怎样帮助这种动物攀爬。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/prehensile",
+      "https://en.wiktionary.org/wiki/prehensile#English"
+    ]
+  },
+  {
+    "word": "nanometre",
+    "ipa": "英 /ˈnænəʊmiːtə/；美 /ˈnænoʊmiːtər/",
+    "meaning": "纳米〔英式常用拼法〕",
+    "sense": "一米切成十亿份，每份就是一纳米；它是长度单位，常用于微小结构、光的波长等描述。",
+    "split": "nano- 十亿分之一 + metre 米。nano- 远接希腊 nanos 小个子等材料，在公制中固定为极小分数倍率。",
+    "history": [
+      [
+        "nano- + metre",
+        "十亿分之一米"
+      ],
+      [
+        "nanometre，符号 nm",
+        "长度单位；与 nanometer 同义"
+      ]
+    ],
+    "explanation": "a few nanometres 几纳米；a wavelength of five hundred nanometres 五百纳米波长。1 nm = 0.000000001 m。",
+    "usage": "measure in nanometres；nanometre dimensions。",
+    "contrast": "nanometre 是长度，nanosecond 是时间；相同 nano- 指相同比率，不表示相同物理量。",
+    "examples": [
+      [
+        "The coating is only a few nanometres thick.",
+        "这层涂层只有几纳米厚。"
+      ],
+      [
+        "The diagram shows a scale measured in nanometres.",
+        "图示给出了以纳米计的尺度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nanometre#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  },
+  {
+    "word": "nanometer",
+    "ipa": "英 /ˈnænəʊmiːtə/；美 /ˈnænoʊmiːtər/",
+    "meaning": "纳米〔美式常用拼法〕",
+    "sense": "与 nanometre 是同一长度单位；看到最后是 meter，先把它当成拼写习惯变化，不要想成另一个不同尺寸的单位。",
+    "split": "nano- 十亿分之一 + meter 米。meter、metre 是单位名的两种常见英文拼写，带进复合词后形成 nanometer、nanometre。",
+    "history": [
+      [
+        "nano- + meter",
+        "按美式常见单位拼法组合"
+      ],
+      [
+        "nanometer = nanometre",
+        "同一纳米长度单位，符号均为 nm"
+      ]
+    ],
+    "explanation": "ten nanometers 十纳米；nanometer scale 纳米尺度；nanometer measurements 纳米量级测量。",
+    "usage": "a nanometer in length；a few nanometers wide。",
+    "contrast": "meter 在这里是米的单位名；它在别的词里也可指测量仪器，不能把 nanometer 直接理解成某种纳米仪。",
+    "examples": [
+      [
+        "The layer is ten nanometers thick.",
+        "这层材料厚十纳米。"
+      ],
+      [
+        "The article uses the American spelling “nanometer”.",
+        "这篇文章采用美式拼写 nanometer。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nanometer#English",
+      "https://www.nist.gov/pml/owm/metric-si-prefixes"
+    ]
+  }
+]

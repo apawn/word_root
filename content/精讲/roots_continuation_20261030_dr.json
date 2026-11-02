@@ -1,0 +1,106 @@
+[
+  {
+    "id": "B3873",
+    "meaning": "海湾与临湾位置；其他 bay 同形来源",
+    "core": "BAY：先分哪条历史，再接湾岸的位置词",
+    "image": "bay 内分海湾、建筑隔间、月桂、马色、犬吠等来源；bayside、bayfront 只接海湾分支。",
+    "intro": "同拼写不保证一条词根线。keep at bay 不放到海湾去，bay leaf 也不是任意海边叶片。",
+    "forms": "法语 baie 等 → 海湾 bay；海湾 + side/front；其他 bay 接开口、果实、马色、吠叫的不同旧形式。",
+    "branches": [
+      [
+        "多源基础词",
+        "bay"
+      ],
+      [
+        "海湾岸边位置",
+        "bayside · bayfront"
+      ]
+    ],
+    "contrasts": "海湾与 loading bay 隔间不同来源；月桂叶、马色另源；keep at bay 追逼语境的习语；bayside/bayfront 位置侧重略不同。",
+    "practice": "The bayside town built a new bayfront promenade.\n\n海湾边小镇修建了一条新湾岸步道。",
+    "words": [
+      "bay",
+      "bayside",
+      "bayfront"
+    ],
+    "exclude": {
+      "bayless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4222",
+    "meaning": "容纳、能力、产能与电学储电能力",
+    "core": "CAPACITY：能装、能做多少，再分器件、物理量与是否过剩",
+    "image": "capacity 为基础，incapacity、overcapacity 分缺少能力与多余产能；capacitor、capacitance、capacitive 集中讲电学分支。",
+    "intro": "capacity 的能力义和体积义不同。电容器是物件，电容量是量；产能过剩也不等于机器超负荷。",
+    "forms": "capax、capācitās 经法语 → capacity；in-/over- + capacity；capacit- + -or/-ance/-ive。",
+    "branches": [
+      [
+        "一般能力和数量",
+        "capacity · incapacity · overcapacity"
+      ],
+      [
+        "电学器件、量与性质",
+        "capacitor · capacitance · capacitive"
+      ]
+    ],
+    "contrasts": "capacitor/量capacitance/形容capacitive；incapacity 非不愿意；overcapacity 过剩产能非 overload 超负荷。",
+    "practice": "The textbook explains a capacitor and its capacitance.\n\n教材解释了电容器及其电容量。",
+    "words": [
+      "capacity",
+      "incapacity",
+      "overcapacity",
+      "capacitor",
+      "capacitance",
+      "capacitive"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3298",
+    "meaning": "森林、林业人员与失林、恢复过程",
+    "core": "FOREST：一大片林地，再问谁管理、怎样失去和恢复",
+    "image": "forest → forested；forester、forestry 分人物领域；deforest → deforestation 与 reforestation 对看；rainforest 接气候环境。",
+    "intro": "forest 的深源有不同分析，近源法语、拉丁路径可靠。失去森林和重新造林是过程，不能把种下一批苗等同已经恢复全部森林生态。",
+    "forms": "forestis 经法语 → forest；forest + -ed；forestier、foresterie → forester、forestry；de-/re- + forest；-ation 命名过程。\n\n经古法语接中世纪拉丁林地名称，更早来源有不同分析。\n\n和 forest 作林地比较，不是 forest 的派生。jungle 经印地语 jangal，接梵语 jangala 荒地、少树地等；借入英语后常用来描绘繁茂纠缠的植被。",
+    "branches": [
+      [
+        "林地与覆盖",
+        "forest · forested · rainforest"
+      ],
+      [
+        "人员与领域",
+        "forester · forestry"
+      ],
+      [
+        "失林、恢复的过程",
+        "deforest · deforestation · reforest · reforestation"
+      ],
+      [
+        "forest → forests：林地与旧狩猎保留地",
+        "forest · forests"
+      ],
+      [
+        "jungle：荒野，到繁茂密林",
+        "jungle · jungles"
+      ]
+    ],
+    "contrasts": "forest 非 for + rest；forester 人、forestry 领域；deforestation 失林、reforestation 恢复；forested 不保证原始或人工。",
+    "practice": "The forester studied deforestation and helped plan reforestation.\n\n林业人员研究毁林情况，并帮助规划森林恢复。",
+    "words": [
+      "forest",
+      "forested",
+      "rainforest",
+      "forester",
+      "forestry",
+      "deforest",
+      "deforestation",
+      "reforest",
+      "reforestation",
+      "forests",
+      "jungle",
+      "jungles"
+    ],
+    "exclude": {}
+  }
+]

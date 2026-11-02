@@ -1,0 +1,308 @@
+[
+  {
+    "word": "iconographic",
+    "ipa": "/ˌaɪkənəˈɡræfɪk/",
+    "meaning": "图像学的；与图像题材、象征体系有关的",
+    "sense": "同样画一个人，他手里拿什么、身边跟什么动物，可能在传统里标明身份。iconographic 关心的正是这些图像主题与象征关系。",
+    "split": "icono- 图像 + -graphic 描绘相关，也可与 iconography → iconographic 配对记。前半不是只指电脑上的小图标。",
+    "history": [
+      [
+        "希腊 eikon 图像 → icono-；graph- 写、画",
+        "图像与描绘材料结合"
+      ],
+      [
+        "iconography 图像学、图像体系 → iconographic",
+        "关于图像主题、象征及其传统的性质"
+      ]
+    ],
+    "explanation": "iconographic analysis 图像学分析；an iconographic tradition 图像表现传统；iconographic details 具有象征、身份意义的图像细节。",
+    "usage": "iconographic analysis；iconographic details。",
+    "contrast": "iconic 常说标志性的、极具代表性的；iconographic 多说图像主题、符号和传统，不能因为都含 icon 就互换。",
+    "examples": [
+      [
+        "The historian examined the painting’s iconographic details.",
+        "历史学家研究了这幅画中有象征意义的图像细节。"
+      ],
+      [
+        "The museum label explains the iconographic meaning of the bird.",
+        "博物馆说明牌解释了那只鸟在图像传统中的含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/iconographic#English"
+    ]
+  },
+  {
+    "word": "evolutionarily",
+    "ipa": "英 /ˌevəˈluːʃənərəli/；美 /ˌevəˌluːʃəˈnerɪli/",
+    "meaning": "从演化上看；以逐步演变的方式",
+    "sense": "不是说这只动物今天怎样长大，而是把镜头拉到很多世代，问特征怎样形成、物种怎样相关。evolutionarily 把观察角度放到演化上。",
+    "split": "evolutionary 末 y 改 i + -ly → evolutionarily。也能用于非生物事物逐步发展的方式，具体看语境。",
+    "history": [
+      [
+        "evolution + -ary → evolutionary",
+        "演化、逐步发展相关"
+      ],
+      [
+        "evolutionary + -ly → evolutionarily",
+        "以演化方式；从演化角度看"
+      ]
+    ],
+    "explanation": "evolutionarily related 在演化关系上相连；evolutionarily conserved 在演化中保留的；evolutionarily distinct 在演化上有别的。",
+    "usage": "evolutionarily related；evolutionarily conserved。",
+    "contrast": "developmentally 常看个体发育、事物发展，evolutionarily 常看跨世代演化；演化相关也不自动意味着越来越高级。",
+    "examples": [
+      [
+        "The two species are evolutionarily related.",
+        "这两个物种在演化上有亲缘关系。"
+      ],
+      [
+        "The article asks why this feature is evolutionarily conserved.",
+        "文章追问这个特征为何在演化中保留下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evolutionarily#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/evolutionarily"
+    ]
+  },
+  {
+    "word": "unpleasantness",
+    "ipa": "/ʌnˈplezəntnəs/",
+    "meaning": "不愉快、讨厌之处；不愉快的事、口角",
+    "sense": "不只说闻着不好受，也能把一场尴尬口角轻轻概括成 some unpleasantness。后者常是委婉地说发生了不太好看的冲突。",
+    "split": "unpleasant + -ness → unpleasantness，性质名词又可具体指令人不快的事情。-ness 不要求永远只能说不可数的抽象性质。",
+    "history": [
+      [
+        "un- 不 + pleasant 愉快的 → unpleasant",
+        "令人不舒服、不愉快"
+      ],
+      [
+        "unpleasant + -ness → unpleasantness",
+        "不愉快性质，也可指不愉快事件或冲突"
+      ]
+    ],
+    "explanation": "avoid unpleasantness 避免不愉快、冲突；some unpleasantness 一些不快；the unpleasantness of a smell 气味的难闻。",
+    "usage": "avoid unpleasantness；some unpleasantness。",
+    "contrast": "unpleasantness 比完整说 quarrel 口角可更委婉，未必每次严重到争吵；要看事情、性质两种名词用法。",
+    "examples": [
+      [
+        "I apologised quickly to avoid further unpleasantness.",
+        "我很快道歉，免得再闹出不愉快。"
+      ],
+      [
+        "The unpleasantness of the smell made us open every window.",
+        "难闻的气味让我们把所有窗户都打开了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unpleasantness#English"
+    ]
+  },
+  {
+    "word": "veiny",
+    "ipa": "/ˈveɪni/",
+    "meaning": "静脉明显的；有脉纹的",
+    "sense": "手背上血管一条条显出来，是 veiny hands；叶子、石材上的脉状纹理明显，也能借这个形容词。",
+    "split": "vein + -y → veiny，直接加 y，不加额外 e。既可接血管义，也可按对象接脉纹义。",
+    "history": [
+      [
+        "拉丁 vena 血管、脉、矿脉等 → 法语 veine → vein",
+        "长条分布、流通的脉状结构"
+      ],
+      [
+        "vein + -y → veiny；拉丁 venosus → venous",
+        "可见脉纹；静脉相关性质"
+      ]
+    ],
+    "explanation": "veiny hands 静脉明显的手；a veiny leaf 脉纹明显的叶片；veiny marble 带脉状花纹的大理石。",
+    "usage": "veiny hands；veiny marble。",
+    "contrast": "veiny 常描述看得出的脉、纹理；venous 主要是静脉相关的技术性质词，不能随意互换。",
+    "examples": [
+      [
+        "His veiny hands rested on the wooden table.",
+        "他静脉明显的双手放在木桌上。"
+      ],
+      [
+        "The floor was made of pale, veiny marble.",
+        "地面铺着带脉状花纹的浅色大理石。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/veiny#English"
+    ]
+  },
+  {
+    "word": "hog",
+    "ipa": "英 /hɒɡ/；美 /hɑːɡ/",
+    "meaning": "猪；贪占者；独占、霸占",
+    "sense": "实物上是猪，动作上则像把好东西全拢到自己面前：hog the sofa 霸着沙发，hog the spotlight 抢尽风头。",
+    "split": "承古英语 hogg、hocg 等猪名，更早来源不定，切割材料与凯尔特语联系等均有解释。由猪的贪食形象借出贪占人物、独占动词。",
+    "history": [
+      [
+        "古英语 hogg、hocg 等 → 中古英语 hog → hog",
+        "猪名，更早来源有不同解释"
+      ],
+      [
+        "猪形象 → hog 独占；wart + hog → warthog",
+        "贪占比喻；疣状面部特征的猪名"
+      ]
+    ],
+    "explanation": "hog the road 霸占道路；hog the conversation 一个人占着话头；go the whole hog 做到底、全套做。",
+    "usage": "hog the spotlight；hog the conversation。",
+    "contrast": "pig、hog 的养殖细分随地区和用途变化；日常 hog 作动词的重点是占得太多、不给别人份额。",
+    "examples": [
+      [
+        "A hog rooted in the muddy yard.",
+        "一头猪在泥泞院子里拱来拱去。"
+      ],
+      [
+        "Please do not hog the conversation.",
+        "请别一个人霸着话头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hog#English",
+      "https://www.etymonline.com/word/hog"
+    ]
+  },
+  {
+    "word": "warthog",
+    "ipa": "英 /ˈwɔːthɒɡ/；美 /ˈwɔːrthɑːɡ/",
+    "meaning": "疣猪",
+    "sense": "脸部有显眼的疣状凸起，于是用 wart 疣 + hog 猪来命名。这种猪名看外形，不是在说每头都得了某种传染性皮肤病。",
+    "split": "wart + hog → warthog，非洲疣猪属野猪的通名。词内 t 与 h 分属两部分，不把 th 合读成 /θ/。",
+    "history": [
+      [
+        "古英语 hogg、hocg 等 → 中古英语 hog → hog",
+        "猪名，更早来源有不同解释"
+      ],
+      [
+        "wart + hog → warthog",
+        "以脸部疣状凸起作命名特征"
+      ]
+    ],
+    "explanation": "a warthog 一头疣猪；a family of warthogs 一群疣猪。常见于野生动物节目。",
+    "usage": "a warthog；a family of warthogs。",
+    "contrast": "warthog 是猪科动物，groundhog 土拨鼠、hedgehog 刺猬虽带 hog，却不因此都属于猪科。",
+    "examples": [
+      [
+        "A warthog crossed the track with two young ones.",
+        "一头疣猪带着两只幼崽穿过小路。"
+      ],
+      [
+        "The documentary showed a warthog feeding in the grass.",
+        "纪录片展示了一头疣猪在草地上觅食。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/warthog#English"
+    ]
+  },
+  {
+    "word": "developmentally",
+    "ipa": "/dɪˌveləpˈmentəli/",
+    "meaning": "在发育、发展方面；从发育阶段看",
+    "sense": "同一项任务，对不同成长阶段的人，难度可能不同。developmentally 把注意力放到发展阶段，而不是只看年龄数字。",
+    "split": "developmental + -ly → developmentally，末 l 与 -ly 接成 ll；可分 development → developmental → developmentally 三层理解。",
+    "history": [
+      [
+        "development + -al → developmental",
+        "发育、发展相关性质"
+      ],
+      [
+        "developmental + -ly → developmentally",
+        "从发育、发展层面看"
+      ]
+    ],
+    "explanation": "developmentally appropriate 符合发展阶段的；developmentally ready 在发展阶段上准备好的；也可说一般事物的发展。",
+    "usage": "developmentally appropriate；developmentally ready。",
+    "contrast": "developmentally 说个体或事物的发展层面，evolutionarily 常说演化层面；不是两个长副词可以随便替换。",
+    "examples": [
+      [
+        "The teacher chose developmentally appropriate activities.",
+        "老师选择了符合孩子发展阶段的活动。"
+      ],
+      [
+        "Children may be developmentally ready for the task at different ages.",
+        "孩子们在发展上适合做这项任务的年龄可能不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/developmentally#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/developmentally"
+    ]
+  },
+  {
+    "word": "lore",
+    "ipa": "英 /lɔː/；美 /lɔːr/",
+    "meaning": "传承知识、传统；〔作品〕世界观背景、设定",
+    "sense": "老水手知道潮水、风向和各种故事，这套积累下来的知识可以叫 lore。游戏里角色、历史、规则背后那整套设定，也常叫 lore。",
+    "split": "承古英语 lār 教导、知识，经中古英语延续，与 learn 的旧日耳曼词族相关。另有冷门的动物眼鼻间部位 lore 接拉丁 lorum，不从知识义解释。",
+    "history": [
+      [
+        "古英语 lār 教导、知识 → 中古英语 lore → lore",
+        "通过学习、传承积累的知识"
+      ],
+      [
+        "folk + lore → folklore；lore 也进入虚构世界设定用法",
+        "民间传统；故事背景与相关知识"
+      ]
+    ],
+    "explanation": "local lore 地方传说与知识；seafaring lore 航海传统知识；the lore of a fictional world 虚构世界的背景设定。通常不可数。",
+    "usage": "local lore；the lore of。",
+    "contrast": "lore 不保证内容全经科学证实，也不只指神话；游戏 lore 常是设定背景，plot 则侧重正在展开的情节。",
+    "examples": [
+      [
+        "Local lore says the old bridge was built in a single night.",
+        "当地传说称那座老桥一夜之间就建好了。"
+      ],
+      [
+        "The game’s lore explains the history of the ruined city.",
+        "游戏的背景设定解释了那座废城的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lore#English"
+    ]
+  },
+  {
+    "word": "stall",
+    "ipa": "英 /stɔːl/；美 /stɔːl/",
+    "meaning": "摊位、畜栏、隔间；停滞、拖延；熄火；〔航空〕失速",
+    "sense": "市场里占一小格卖东西，是 a stall；事情走到半路卡住，是 stall。汽车发动机停转与飞机机翼失速也都写 stall，但具体发生的事不同。",
+    "split": "名词接古英语 steall 固定位置及法语同源材料。停住、卡住动词与此相关；故意拖延义还交汇诱饵、掩护用词，不能全编成商贩慢慢摆摊的故事。",
+    "history": [
+      [
+        "古英语 steall 固定位置等 → stall；法语同源材料也有影响",
+        "畜栏、摊位等固定分隔位置"
+      ],
+      [
+        "固定、停住材料 → stall 停顿；拖延义另有诱饵、掩护材料交汇",
+        "发动机熄火、进展停滞；航空失速需按专业义理解"
+      ]
+    ],
+    "explanation": "a market stall 市场摊位；a toilet stall 厕所隔间；stall for time 拖时间；talks stall 谈判停滞。航空 stall 指超过临界迎角导致相应失速。",
+    "usage": "a market stall；stall for time；talks stall。",
+    "contrast": "发动机 stall 是熄火，飞机 stall 是机翼空气动力学状态，不能译成发动机停转；stalls 在英式剧院语境还指正厅座位。",
+    "examples": [
+      [
+        "She sells vegetables from a market stall.",
+        "她在市场摊位卖蔬菜。"
+      ],
+      [
+        "The negotiations stalled over the final detail.",
+        "谈判在最后一个细节上卡住了。"
+      ],
+      [
+        "He kept asking questions to stall for time.",
+        "他不停问问题来拖延时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stall#English",
+      "https://www.etymonline.com/word/stall",
+      "https://www.icao.int/sites/default/files/safety/LOCI/AUPRTA/full.html"
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "B3042",
+    "meaning": "没有水分；干燥过程；不甜、干淡等比喻",
+    "core": "DRY：少了水分，也可借干淡感说味道和表达",
+    "image": "dry → drying、dryer、dryness、dryly；drought 另接旧同族名词；drydock、drywall、dryland 按设施、材料、地理用途。",
+    "intro": "不甜的酒仍是液体；冷幽默也不等于无趣。drought 保留古英语支线，不画成现代 dry 直接变几个字母。",
+    "forms": "dry—dried—dried；dry + -ing/-er/-ness/-ly；drought 旧同族抽象名词；dry + dock/wall/land。\n\n古英语干燥形容词及动词传承，过去形式改 y 为 i 加 ed。\n\ndries 是 dry 变 y 为 i 加 -es；drier 可是形容词比较级，也可是干燥器名词的拼写，名词常另拼 dryer，-er 功能分开。",
+    "branches": [
+      [
+        "状态、过程和器具",
+        "dry · drying · dryer · dryness · dryly"
+      ],
+      [
+        "干旱旧同族",
+        "drought"
+      ],
+      [
+        "设施、材料和地区",
+        "drydock · drywall · dryland"
+      ],
+      [
+        "dry → dried：水分干掉或被弄干",
+        "dry · dried"
+      ],
+      [
+        "dry 的三单、比较级与器具名词",
+        "dry · dries · dried · drying · drier · dryer"
+      ]
+    ],
+    "contrasts": "drying 过程、dryness 状态；dryer 设备、drier 常比较级；dry wine 不甜、dry humour 不动声色；dry weather 不自动等于旱灾。",
+    "practice": "The towels felt dry after an hour in the dryer.\n\n毛巾在烘干机里烘了一小时后，摸着已经干了。",
+    "words": [
+      "dry",
+      "drying",
+      "dryer",
+      "dryness",
+      "dryly",
+      "drought",
+      "drydock",
+      "drywall",
+      "dryland",
+      "dried",
+      "dries",
+      "drier"
+    ],
+    "exclude": {
+      "stay-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dry-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dry-stone": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dry-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spin-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "spray-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "drip-dry": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3006",
+    "meaning": "醒来、保持清醒；尾波另源",
+    "core": "WAKE：从睡眠转入清醒；航迹须另分来源",
+    "image": "wake 与 awake 放一起，wake 内部另外说明守灵和船尾航迹。",
+    "intro": "不是所有同形 wake 都从叫醒推出；船后水迹的来源有不确定性，保持分支说明，不编成海水苏醒。",
+    "forms": "wake—woke—woken；awake—awoke—awoken〔动词〕；a- 是旧前缀材料。\n\nawake 作动词常用 awoke、awoken；作形容词时说 be awake。历史上多个醒、唤醒动词材料合流，不能只用现代字母机械拆。\n\n古英语醒来、保持清醒的两组动词合流，船尾水迹名另有来源。\n\n醒与唤醒接古英语清醒词族；船迹另经相关北欧、日耳曼水面开口或痕迹材料。现代保留 e 加 -s，末尾 /ks/。",
+    "branches": [
+      [
+        "醒来与清醒",
+        "wake · awake"
+      ],
+      [
+        "awake 的动词过去形式",
+        "awake · awoke · awoken"
+      ],
+      [
+        "wake → waking：从睡眠中醒来、处于清醒",
+        "wake · waking"
+      ],
+      [
+        "wake 醒、唤醒及水痕分线 → wakes",
+        "wakes"
+      ]
+    ],
+    "contrasts": "wake up 动作、be awake 状态；守灵与守夜相关；wake 尾波另源，in the wake of 从航迹发展比喻。",
+    "practice": "I woke early but stayed awake instead of going back to sleep.\n\n我很早醒来，却一直醒着，没有再睡。",
+    "words": [
+      "wake",
+      "awake",
+      "awoke",
+      "awoken",
+      "waking",
+      "wakes"
+    ],
+    "exclude": {
+      "wakefield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wakey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "waker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3177",
+    "meaning": "咖啡饮料及原料；设备和店铺",
+    "core": "COFFEE：随饮料传播而借入的名称",
+    "image": "coffee → coffeemaker、coffeehouse，按原料饮料、设备、场所排序。",
+    "intro": "这类词讲借入和传播，不硬拆英语前后缀。更远的命名争议简短交代，重点仍是日常用法。",
+    "forms": "coffee + maker〔make + -er〕；coffee + house；coffee maker 分写亦常见。\n\ncafe 经法语 café 接意大利语 caffè，再接土耳其、阿拉伯咖啡词族；coffee 的近源借入路线另看本词。\n\n借词随贸易传播，现代复数常按份或种类数。\n\ncafé 与 cafe 是同一个英语词的拼写形式，经法语 café 咖啡、咖啡馆，远接咖啡借词词族。é 既提示法语来历，也可写作普通 e。",
+    "branches": [
+      [
+        "饮料、设备与场所",
+        "coffee · coffeemaker · coffeehouse"
+      ],
+      [
+        "coffee／cafe：同一饮料名称的不同借入路线",
+        "coffee · cafe"
+      ],
+      [
+        "coffee → coffees：咖啡、杯份与种类",
+        "coffee · coffees"
+      ],
+      [
+        "coffee 的法语借词 → café",
+        "café"
+      ]
+    ],
+    "contrasts": "coffee 可不可数饮料，也可可数一份；coffeemaker 制作设备、grinder 磨豆设备；-maker 不总指人物。",
+    "practice": "The coffeehouse bought a new coffeemaker for its morning customers.\n\n咖啡馆为早晨的顾客添置了一台新咖啡机。",
+    "words": [
+      "coffee",
+      "coffeemaker",
+      "coffeehouse",
+      "cafe",
+      "coffees",
+      "café"
+    ],
+    "exclude": {}
+  }
+]

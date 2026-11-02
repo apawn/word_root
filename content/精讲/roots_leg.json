@@ -5,7 +5,7 @@
     "core": "LEG / LECT：从许多东西中挑出、聚拢",
     "image": "挑出物品；聚成一组；从文字与线索中读懂意义",
     "intro": "先想在一堆东西里**挑出需要的，再把它们聚拢起来**。拉丁语 legere 同时有挑选、收集、阅读等意思。collect 把东西收拢，select 把某些挑出来，lecture 走向读讲，intelligent 则强调分辨并理解。把“读书”想成逐个辨认文字，是帮助记忆的画面，不必说成已经证实的唯一语义演变故事。",
-    "forms": "**leg-、lig-、lect- 常来自 legere 的词干变化。** eligible、intelligent、negligent 里的拼写也要追到各自的拉丁复合词。**college / colleague 一组另走 lēgāre“委任”→ collēga“同职者”→ collēgium“团体”的直接路线**，不要画成“大家一起读书所以是学院”。legal 来自 lēx“法律”，更不能见到 leg 就当成阅读。religion 与 legume 的更早来源有争议：本页讲清已确定的借入链，把不同解释留在文字说明中，不画确定的祖先箭头。",
+    "forms": "**leg-、lig-、lect- 常来自 legere 的词干变化。** eligible、intelligent、negligent 里的拼写也要追到各自的拉丁复合词。**college / colleague 一组另走 lēgāre“委任”→ collēga“同职者”→ collēgium“团体”的直接路线**，不要画成“大家一起读书所以是学院”。legal 来自 lēx“法律”，更不能见到 leg 就当成阅读。religion 与 legume 的更早来源有争议：本页讲清已确定的借入链，把不同解释留在文字说明中，不画确定的祖先箭头。\n\nlesson 经法语 leçon 接拉丁 lēctiō 阅读，与学习和教授的内容相连；现代复数直接加 s。\n\ncom- 与 legere 经 colligere、collectus 等形成收集词族，collects 是现代第三人称形式。\n\n分开与挑选的拉丁组合，selected 既是过去形式，也常描述已选项目。\n\nex- 的 e- 形式与 legere 选相连，现代可与 select 比较读。\n\n法语、拉丁名词独立借入，现代与 elect 形成词族对应。\n\n可靠近源是拉丁 religio；relegere 与 religare 等解释均不能当作唯一确定结论。\n\n拉丁共同与委任组成，经法语借入。\n\n拉丁 collegium 经法语借入，关联共同任职的 collega，不是大家一起阅读。\n\n拉丁 collectio 经法语等借入，现代加复数数不同收藏、作品集等。\n\n中世纪拉丁 lectura 的阅读名词借入后扩展，英语复数与三单同形。\n\n拉丁 legenda 应被阅读的事，经圣徒故事与法语路径，现代复数 s。\n\nintel 缩略 intelligence 的情报、信息一义，较远同接拉丁理解、分辨等词族；不把 intelligence 的智力、聪明等全部意思搬给缩略词。\n\nselect 接拉丁 se- 分开 + legere 选择的分词 selectus，再加 -ing。collector 接法语、拉丁汇集者名词，现代可对应 collect + -or，再加 -s。\n\n拉丁 nec- 不 + legere 拿起、挑选 → neglegere，分词 neglectus 进入英语。现代加完整 -ed，/t/ 后读 /ɪd/，表示没得到应有照料、关注。\n\nelite 借法语 élite 选出者，远接拉丁 eligere 选择。现代复数说不同精英群体或其中成员，含赞许还是批评要按语境看。\n\nselection 接拉丁 selectio，seligere 分开选取，分词 select- 配 -ion。现代 -s，具体选择、选段、精选集合。",
     "branches": [
       [
         "聚拢成为一组",
@@ -30,6 +30,70 @@
       [
         "另一路：共同任职",
         "colleague · college · collegial"
+      ],
+      [
+        "lesson → lessons：阅读到教学内容、经验教训",
+        "lesson · lessons"
+      ],
+      [
+        "collect → collects：聚到一起、收集领取",
+        "collect · collects"
+      ],
+      [
+        "select → selected：从中挑出的",
+        "select · selected"
+      ],
+      [
+        "elect → elected：挑选出来与经投票选出",
+        "elect · elected"
+      ],
+      [
+        "election → elections：选择与选举",
+        "election · elections"
+      ],
+      [
+        "religion → religions：宗教体系；更早词源有争议",
+        "religion · religions"
+      ],
+      [
+        "colleague → colleagues：共同任职的人",
+        "colleague · colleagues"
+      ],
+      [
+        "college → colleges：同有职责的团体到学院",
+        "college · colleges"
+      ],
+      [
+        "collection → collections：收拢的动作与成套成果",
+        "collect · collection · collections"
+      ],
+      [
+        "lecture → lectures：读、宣读，到讲课、训话",
+        "lecture · lectures"
+      ],
+      [
+        "legend → legends：读诵的故事、传说与传奇人物",
+        "legend · legends"
+      ],
+      [
+        "intelligence → intel：信息、情报的短称",
+        "intel"
+      ],
+      [
+        "lect- 选择、汇集 → selecting、collectors",
+        "selecting · collectors"
+      ],
+      [
+        "不拿起来处理 → neglect → neglected",
+        "neglected"
+      ],
+      [
+        "e- 选出 + leg- 选择 → elites",
+        "elites"
+      ],
+      [
+        "se- 分开 + lect- 选取 → selections",
+        "selections"
       ]
     ],
     "contrasts": "**eligible / electable / elected**：有参与资格 / 有胜选可能 / 已经当选。\n\n**intelligent / intelligible / legible**：理解能力好 / 内容听得懂、看得懂 / 字迹能辨认。\n\n**negligent / negligible**：没有尽到注意 / 小到可忽略。前者评价行为，后者评价影响大小。\n\n**selector / selectee；elector / electee**：选择的人或装置 / 被选中的人；有投票权的人 / 当选的人。\n\n**college / colleague / collegial / collegiate**：学院或团体 / 同事 / 同事合作的 / 学院、大学生的。共同之处是团体与职责，不是“阅读”。\n\n**sacrilege / religious**：亵渎 / 宗教的。sacrilegious 的拼写不要被 religious 带偏。",
@@ -156,7 +220,24 @@
       "prelection",
       "prelector",
       "superselection",
-      "uniselector"
+      "uniselector",
+      "lessons",
+      "collects",
+      "selected",
+      "elected",
+      "elections",
+      "religions",
+      "colleagues",
+      "colleges",
+      "collections",
+      "lectures",
+      "legends",
+      "intel",
+      "selecting",
+      "collectors",
+      "neglected",
+      "elites",
+      "selections"
     ]
   }
 ]

@@ -1,0 +1,379 @@
+[
+  {
+    "word": "sodium",
+    "ipa": "英 /ˈsəʊdiəm/；美 /ˈsoʊdiəm/",
+    "meaning": "钠",
+    "sense": "元素名里的 sod- 联系 soda 苏打等旧物质名；食物标签的 sodium 常在说钠含量，不是食物里藏着一块金属。",
+    "split": "soda 的词基 + -ium，经近代科学命名形成 sodium。名称来源的苏打与元素钠并不是同一物质。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "soda + -ium → sodium",
+        "从苏打相关物质名形成的元素名称"
+      ]
+    ],
+    "explanation": "sodium content 钠含量，sodium chloride 氯化钠，a sodium atom 钠原子。",
+    "usage": "sodium content；sodium chloride；a sodium atom。",
+    "contrast": "sodium 钠元素，sodium chloride 是氯化钠化合物；盐的 sodium 含量不等于整份盐的总质量。",
+    "examples": [
+      [
+        "The label shows the sodium content per serving.",
+        "标签标明了每份的钠含量。"
+      ],
+      [
+        "The class drew a sodium atom.",
+        "班里画了一个钠原子示意图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sodium#English"
+    ]
+  },
+  {
+    "word": "aluminium",
+    "ipa": "英 /ˌæljəˈmɪniəm/；美式对应 aluminum /əˈluːmɪnəm/",
+    "meaning": "铝〔aluminium、aluminum 为常见对应拼法〕",
+    "sense": "同一种轻金属，英式常写 aluminium，美式常写 aluminum；拼写和音节数有区别，不是两种不同元素。",
+    "split": "沿拉丁 alūmen 明矾、近代 alumina 氧化铝等命名背景，早有 alumium、aluminum、aluminium 的调整。-ium 形式更贴近许多元素的命名模式。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "alūmen → alumina 等 → alumium、aluminum、aluminium 的近代名称调整",
+        "明矾、氧化铝相关词基 → 元素铝名称"
+      ],
+      [
+        "英美常见拼法差异",
+        "aluminium / aluminum，同一元素"
+      ]
+    ],
+    "explanation": "aluminium foil 铝箔，an aluminium frame 铝框，an aluminum can 铝罐〔美式〕。",
+    "usage": "aluminium foil；an aluminium frame；an aluminum can。",
+    "contrast": "aluminium/aluminum 是同物对应拼法，alumina 氧化铝是不同化学对象；不要把多一段字母一概当同种词尾变体。",
+    "examples": [
+      [
+        "The bicycle has an aluminium frame.",
+        "自行车有一个铝制车架。"
+      ],
+      [
+        "The American label reads aluminum foil.",
+        "美式标签上写着 aluminum foil。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aluminium#English",
+      "https://en.wiktionary.org/wiki/aluminum#English",
+      "https://www.etymonline.com/word/aluminium"
+    ]
+  },
+  {
+    "word": "potassium",
+    "ipa": "/pəˈtæsiəm/",
+    "meaning": "钾",
+    "sense": "名字往前追到 potash 草木灰制碱的历史；它不是一口锅 pot 变成新金属，而是从含钾物质的旧名接出元素名。",
+    "split": "potash 的拉丁化 potassa + -ium → potassium。potash 原与锅里处理灰的工艺相关，现代又是含钾肥料等宽泛物质名称。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "potash → 拉丁化 potassa + -ium → potassium",
+        "草木灰制碱相关名 → 元素钾"
+      ]
+    ],
+    "explanation": "potassium content 钾含量，potassium salts 钾盐，a potassium atom 钾原子。",
+    "usage": "potassium content；potassium salts；a potassium atom。",
+    "contrast": "potassium 元素钾，potash 是另一物质类别、工业名称；与 sodium 钠也不同，不能只因都是类似元素尾音而互换。",
+    "examples": [
+      [
+        "The table lists the potassium content of the samples.",
+        "表格列出了样本的钾含量。"
+      ],
+      [
+        "The lesson compared potassium with sodium.",
+        "课程比较了钾与钠。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/potassium#English"
+    ]
+  },
+  {
+    "word": "ammonium",
+    "ipa": "英 /əˈməʊniəm/；美 /əˈmoʊniəm/",
+    "meaning": "铵、铵离子",
+    "sense": "先想 ammonia 氨再接上一个氢离子，形成常见铵离子；它是一种带电组合，不是周期表里另一种金属元素。",
+    "split": "新拉丁 ammōnium，现代可对应 ammonia 词基 + -ium。命名沿物质词形模式，但类别需要具体化学知识判断。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "ammonia 的词基 + -ium → ammōnium → ammonium",
+        "与氨相关的铵离子名称"
+      ]
+    ],
+    "explanation": "the ammonium ion 铵离子，ammonium salts 铵盐，ammonium chloride 氯化铵。",
+    "usage": "the ammonium ion；ammonium salts；ammonium chloride。",
+    "contrast": "ammonia 氨与 ammonium 铵不同；-ium 常见于元素名，也不保证本词就是元素。",
+    "examples": [
+      [
+        "The diagram showed an ammonium ion.",
+        "示意图画出了一个铵离子。"
+      ],
+      [
+        "The glossary distinguished ammonia from ammonium.",
+        "词汇表区分了氨与铵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ammonium#English"
+    ]
+  },
+  {
+    "word": "radium",
+    "ipa": "/ˈreɪdiəm/",
+    "meaning": "镭",
+    "sense": "名称抓住射线、放射性这个研究特征；不是 radio 收音机后来变出来的金属，二者只是能联系到较早的射线词族。",
+    "split": "借法语 radium，接 radioactif 等射线、放射性的命名材料与 -ium；较远可联系拉丁 radius 光线、辐条。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "射线、放射性词基 + -ium → 法语 radium → radium",
+        "以放射特征形成的元素名"
+      ]
+    ],
+    "explanation": "radium research 镭研究，radium compounds 镭化合物，the discovery of radium 镭的发现。",
+    "usage": "the discovery of radium；radium compounds；radium research。",
+    "contrast": "radium 镭，radiation 辐射是现象总称；不是只有镭能产生辐射，词名联系不能替代科学类别。",
+    "examples": [
+      [
+        "The exhibition described the discovery of radium.",
+        "展览介绍了镭的发现。"
+      ],
+      [
+        "The archive contains early papers on radium.",
+        "档案中保存着早期镭研究论文。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/radium#English"
+    ]
+  },
+  {
+    "word": "thorium",
+    "ipa": "英 /ˈθɔːriəm/；美 /ˈθɔːriəm/",
+    "meaning": "钍",
+    "sense": "名称借了北欧神话 Thor 雷神的名字；是命名者的纪念、联想方式，不是说这种元素会制造神话闪电。",
+    "split": "Thor 人名 + -ium，形成科学元素名。来自神话不代表物质虚构，thorium 与 adamantium 的现实地位不同。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "Thor + -ium → thorium",
+        "借北欧雷神名形成的真实元素名"
+      ]
+    ],
+    "explanation": "thorium minerals 含钍矿物，thorium research 钍研究，a thorium sample 钍样本。",
+    "usage": "thorium minerals；thorium research；a thorium sample。",
+    "contrast": "thorium 是真实元素名，Thor 神话名是命名来源；不能用故事判断物质是否存在。",
+    "examples": [
+      [
+        "The mineral sample contained thorium.",
+        "矿物样本中含有钍。"
+      ],
+      [
+        "The teacher explained why thorium was named after Thor.",
+        "老师解释了钍为何借雷神 Thor 得名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thorium#English"
+    ]
+  },
+  {
+    "word": "iridium",
+    "ipa": "/ɪˈrɪdiəm/",
+    "meaning": "铱",
+    "sense": "名称抓住某些化合物的多彩外观，联系“彩虹”；不是说金属本身必须像彩虹一样每处变色。",
+    "split": "经新拉丁 iridium，接希腊、拉丁 iris 彩虹及其词干 irid- + -ium；命名背景在多种盐呈现的颜色。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "iris、irid-〔彩虹〕+ -ium → iridium",
+        "按相关盐类的多彩外观命名元素"
+      ]
+    ],
+    "explanation": "iridium alloys 铱合金，an iridium layer 含铱层、铱层，iridium compounds 铱化合物。",
+    "usage": "iridium alloys；iridium compounds；an iridium layer。",
+    "contrast": "iridium 铱和 iris 虹膜、彩虹等共享较早命名材料，不代表虹膜由铱金属组成。",
+    "examples": [
+      [
+        "The display showed an iridium sample.",
+        "展柜里陈列着一个铱样本。"
+      ],
+      [
+        "The article explained the colourful origin of the name iridium.",
+        "文章解释了 iridium 这个名字与多彩外观的联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/iridium#English"
+    ]
+  },
+  {
+    "word": "barium",
+    "ipa": "英 /ˈbeəriəm/；美 /ˈberiəm/",
+    "meaning": "钡",
+    "sense": "名字抓住“重”，但最初是相关矿物很沉的命名背景，不能只凭名字断言金属钡比所有其他金属都重。",
+    "split": "baryta、barytes 等矿物名称词基 + -ium，更早接希腊 barýs 重。由矿物名称接出元素名称。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "希腊 barýs〔重〕→ baryta、barytes 等 + -ium → barium",
+        "重的矿物命名背景 → 元素钡"
+      ]
+    ],
+    "explanation": "barium compounds 钡化合物，barium sulfate 硫酸钡，a barium sample 钡样本。",
+    "usage": "barium compounds；barium sulfate；a barium sample。",
+    "contrast": "barium 元素名，barium sulfate 是特定化合物；名字里重的来源说矿物历史，不直接规定所有现代性质。",
+    "examples": [
+      [
+        "The lesson traced barium back to a word meaning heavy.",
+        "课程把 barium 追溯到表示重的词。"
+      ],
+      [
+        "The table compared several barium compounds.",
+        "表格比较了几种钡化合物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/barium#English",
+      "https://www.etymonline.com/word/barium"
+    ]
+  },
+  {
+    "word": "mycelium",
+    "ipa": "/maɪˈsiːliəm/",
+    "meaning": "菌丝体",
+    "sense": "一根根细丝分支、交连成真菌的营养生长部分，像一张细网；可见蘑菇常只是某些真菌长出的繁殖结构，不是整个真菌的全部。",
+    "split": "借新拉丁 mycelium，myc- 接真菌词基，-ium 为名词形式；中间 -el- 的具体由来不明，可能受其他科学词重新分析影响，不硬说成已确定的小称。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "myc-〔真菌〕+ -el-〔来源不定〕+ -ium → mycelium",
+        "新拉丁真菌结构名"
+      ]
+    ],
+    "explanation": "a network of mycelium 菌丝体网络，mycelium in the soil 土壤中的菌丝体，fungal mycelium 真菌菌丝体。",
+    "usage": "a network of mycelium；mycelium in the soil；fungal mycelium。",
+    "contrast": "hypha 单根菌丝，mycelium 菌丝组成的生长体；不因 -ium 结尾便是矿物、金属。",
+    "examples": [
+      [
+        "The diagram showed mycelium spreading through the soil.",
+        "示意图显示菌丝体在土壤中蔓延。"
+      ],
+      [
+        "The sample contained a dense network of mycelium.",
+        "样本里有一张密集的菌丝体网络。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mycelium#English"
+    ]
+  },
+  {
+    "word": "adamantium",
+    "ipa": "/ˌædəˈmæntiəm/",
+    "meaning": "艾德曼金属等虚构坚硬金属名称",
+    "sense": "听起来像周期表元素，是故意借科学命名的口气；在小说、漫画等设定里可极坚硬，现实并无因此就出现一种对应元素。",
+    "split": "adamant 坚不可摧之物、金刚等旧词基 + -ium，造出具有科学物质感的虚构名称。不同作品设定可能不同，词源不保证统一配方。",
+    "history": [
+      [
+        "拉丁 -ium 等中性名词、名词化形式 → 英语借词",
+        "事物、场所等名词；不能给所有词统一译成金属"
+      ],
+      [
+        "近代科学沿用拉丁化命名",
+        "元素、物质名称常用 -ium；命名线索来自矿物、性质、地名、神话等"
+      ],
+      [
+        "adamant + -ium → adamantium",
+        "坚硬、金刚的联想 + 科学命名词尾"
+      ],
+      [
+        "现代虚构材料名",
+        "故事中的超硬金属，非独立真实元素"
+      ]
+    ],
+    "explanation": "a fictional metal called adamantium 名为 adamantium 的虚构金属，adamantium claws 艾德曼金属爪〔作品语境〕，an adamantium weapon 虚构材料武器。",
+    "usage": "adamantium claws；a fictional metal called adamantium；an adamantium weapon。",
+    "contrast": "adamantium 虚构金属，thorium 神话名借来的真实元素；名称像不像科学不能代替判断存在与否。",
+    "examples": [
+      [
+        "The character’s claws were made of adamantium.",
+        "角色的爪由虚构的艾德曼金属制成。"
+      ],
+      [
+        "The glossary marked adamantium as a fictional material.",
+        "词汇表把 adamantium 标为虚构材料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adamantium#English"
+    ]
+  }
+]

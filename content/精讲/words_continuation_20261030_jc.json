@@ -1,0 +1,462 @@
+[
+  {
+    "word": "stakeholder",
+    "ipa": "英 /ˈsteɪkhəʊldə/；美 /ˈsteɪkhoʊldər/",
+    "meaning": "利益相关者；赌注保管人〔原有用法〕",
+    "sense": "一项决定会影响你的工作、生活或利益，你就可能是它的 stakeholder。它不是只数谁手里有公司股票。",
+    "split": "stake + holder。旧义是替赌局保管赌注的人；后来常见的利益相关者义，接 stake 在某事中的利益、利害关系。两层都看 stake 的具体意思。",
+    "history": [
+      [
+        "hold + -er → holder",
+        "持有、保管某物的人；承托某物的装置"
+      ],
+      [
+        "对象 + holder",
+        "按持有对象形成身份名称"
+      ],
+      [
+        "stake + holder → stakeholder",
+        "赌注保管者；在某事中有利害关系的个人、机构"
+      ]
+    ],
+    "explanation": "key stakeholders 主要利益相关者，consult local stakeholders 征询当地利益相关者意见。居民、雇员、客户等都可能算，具体范围由项目决定。",
+    "usage": "key stakeholders；consult stakeholders；stakeholder interests。",
+    "contrast": "shareholder 明确是股东；stakeholder 范围更广。不持股的附近居民，也可能受工厂扩建影响而成为 stakeholder。",
+    "examples": [
+      [
+        "The project team met with local stakeholders before changing the plan.",
+        "项目团队改方案前与当地利益相关者开了会。"
+      ],
+      [
+        "Employees and customers are important stakeholders in the business.",
+        "员工和客户是企业重要的利益相关者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stakeholder#English"
+    ]
+  },
+  {
+    "word": "placeholder",
+    "ipa": "英 /ˈpleɪshəʊldə/；美 /ˈpleɪshoʊldər/",
+    "meaning": "占位内容、占位符；暂时替代物",
+    "sense": "真正的照片还没来，先放一个灰框；标题还没想好，先写几个字顶着。这些先把位置留住的东西就是 placeholder。",
+    "split": "place 位置 + holder 占住、保留位置者。从实体代用品扩到文字、图像、程序等临时内容。",
+    "history": [
+      [
+        "hold + -er → holder",
+        "持有、保管某物的人；承托某物的装置"
+      ],
+      [
+        "对象 + holder",
+        "按持有对象形成身份名称"
+      ],
+      [
+        "place + holder → placeholder",
+        "暂时占住位置，等待最终内容替换"
+      ]
+    ],
+    "explanation": "placeholder text 占位文字，a placeholder image 占位图片，use a placeholder 先用占位内容。输入框里的浅色提示也常这样称呼，通常输入后消失。",
+    "usage": "placeholder text；a placeholder image；use a placeholder。",
+    "contrast": "placeholder 暂时顶位置；default 是未另作选择时采用的默认值。输入框提示不一定就是已经填入、可提交的值。",
+    "examples": [
+      [
+        "The designer used a grey box as a placeholder for the photo.",
+        "设计师用一个灰框给照片占位。"
+      ],
+      [
+        "We replaced the placeholder title before publishing the page.",
+        "发布页面前，我们换掉了临时标题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/placeholder#English"
+    ]
+  },
+  {
+    "word": "policyholder",
+    "ipa": "英 /ˈpɒləsihəʊldə/；美 /ˈpɑːləsihoʊldər/",
+    "meaning": "保单持有人、投保人",
+    "sense": "拿着保险合同里的保单持有人身份，和保险公司建立相应合同关系的人或机构，叫 policyholder。关键是合同身份，不是手里正拿着一张纸。",
+    "split": "policy 在这里是保险单、保险合同 + holder 持有者；不取 policy 政策这个意思。",
+    "history": [
+      [
+        "hold + -er → holder",
+        "持有、保管某物的人；承托某物的装置"
+      ],
+      [
+        "对象 + holder",
+        "按持有对象形成身份名称"
+      ],
+      [
+        "policy 保险单 + holder → policyholder",
+        "保险合同中的保单持有人"
+      ]
+    ],
+    "explanation": "the policyholder’s details 保单持有人资料，notify the policyholder 通知保单持有人。具体权利、缴费与变更规则由合同和相应制度确定。",
+    "usage": "the policyholder’s details；notify the policyholder。",
+    "contrast": "policyholder 不一定就是被保险人，也不一定就是领取赔款的受益人。例如有人为家人投保，这些角色可能分属不同人。",
+    "examples": [
+      [
+        "The form asks for the policyholder’s name and address.",
+        "表格要求填写保单持有人的姓名和地址。"
+      ],
+      [
+        "The insurer sent the renewal notice to the policyholder.",
+        "保险公司把续保通知寄给了保单持有人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/policyholder#English"
+    ]
+  },
+  {
+    "word": "berry",
+    "ipa": "/ˈberi/",
+    "meaning": "浆果；日常所说的小型多汁果实",
+    "sense": "日常说 berries，常想到一把蓝莓、草莓等小果子。植物学的 berry 则是按果实如何发育来分，不能只看名字。",
+    "split": "承接古英语 berġe、berie 等形式，经中古英语 berie 留传。其他表示土丘、洞穴等的旧同形词不拿来解释现代果实义。",
+    "history": [
+      [
+        "古英语 berġe 等 → 中古英语 berie → berry",
+        "小型多汁果实的古老名称"
+      ],
+      [
+        "与别的成分组成果名",
+        "strawberry、cranberry、gooseberry 等；名称不保证符合植物学浆果分类"
+      ]
+    ],
+    "explanation": "fresh berries 新鲜浆果类水果，a berry bush 结这类果实的灌木。复数变 berries，去 y 加 -ies。日常果名与专业分类不必完全一致。",
+    "usage": "fresh berries；a berry bush；pick berries。",
+    "contrast": "名字含 berry，不保证植物学上就是单一子房发育的浆果；学普通英语时先按日常食物、植物名称理解。",
+    "examples": [
+      [
+        "She added fresh berries to her breakfast.",
+        "她在早餐里加了新鲜浆果类水果。"
+      ],
+      [
+        "The children picked berries beside the path.",
+        "孩子们在小路旁摘果子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/berry#English"
+    ]
+  },
+  {
+    "word": "strawberry",
+    "ipa": "英 /ˈstrɔːbəri/；美 /ˈstrɔːberi/，也读 /ˈstrɑːberi/",
+    "meaning": "草莓；草莓味的、草莓色的",
+    "sense": "这个果名很熟悉，但 straw 为什么会和 berry 组合，并没有一个已经证实的简单故事。记构词可以，别把铺稻草种草莓当成确定起源。",
+    "split": "古英语 strēawberġe 等形式已存在，接 straw 稻草、茎秆 + berry。命名缘由不确定，细茎、表面小果等解释均有人提出。",
+    "history": [
+      [
+        "古英语 berġe 等 → 中古英语 berie → berry",
+        "小型多汁果实的古老名称"
+      ],
+      [
+        "古英语 strēawberġe → 中古英语 strawberie → strawberry",
+        "古老果名；straw 的具体命名缘由未定"
+      ]
+    ],
+    "explanation": "fresh strawberries 鲜草莓，strawberry jam 草莓酱，strawberry ice cream 草莓冰激凌。修饰食物时可指口味，不保证一定用了完整鲜果。",
+    "usage": "fresh strawberries；strawberry jam；strawberry ice cream。",
+    "contrast": "strawberry 是固定果名，不靠字面判断栽培方式。莓的日常名称也不等于严格植物学分类。",
+    "examples": [
+      [
+        "We bought strawberries at the market.",
+        "我们在市场买了草莓。"
+      ],
+      [
+        "She chose strawberry ice cream.",
+        "她选了草莓冰激凌。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/strawberry#English",
+      "https://www.etymonline.com/word/strawberry"
+    ]
+  },
+  {
+    "word": "cranberry",
+    "ipa": "英 /ˈkrænbəri/；美 /ˈkrænberi/",
+    "meaning": "蔓越莓；蔓越莓色的",
+    "sense": "这种酸味红果子的名字，经借用、改造留着原来鹤加莓的结构。现在 cran- 已不是一个随处能单独使用的现代英语词。",
+    "split": "改自低地德语等形式 Kraanbeere，前半与 crane 鹤同源，后半是 berry 的对应词。为何联系鹤仍有疑问，花部像鹤嘴只是解释之一。",
+    "history": [
+      [
+        "古英语 berġe 等 → 中古英语 berie → berry",
+        "小型多汁果实的古老名称"
+      ],
+      [
+        "低地德语 Kraanbeere 等 → 英语 cranberry",
+        "鹤相关成分 + 莓；借入后形成固定果名"
+      ]
+    ],
+    "explanation": "cranberry juice 蔓越莓汁，cranberry sauce 蔓越莓酱，dried cranberries 蔓越莓干。常见于食品、配料名称。",
+    "usage": "cranberry juice；cranberry sauce；dried cranberries。",
+    "contrast": "cran- 是这个固定词里的旧成分，不是可以自由加在任意词前的现代前缀；也不是 cranial 的缩写。",
+    "examples": [
+      [
+        "The recipe calls for dried cranberries.",
+        "食谱需要蔓越莓干。"
+      ],
+      [
+        "They served cranberry sauce with dinner.",
+        "他们晚餐配了蔓越莓酱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cranberry#English",
+      "https://www.etymonline.com/word/cranberry"
+    ]
+  },
+  {
+    "word": "gooseberry",
+    "ipa": "英常见 /ˈɡʊzbəri/；也读 /ˈɡuːsbəri/；美 /ˈɡuːsberi/",
+    "meaning": "醋栗；鹅莓；电灯泡〔英式口语搭配〕",
+    "sense": "一种常带酸味、可做甜点的果实。英国口语里 play gooseberry 还可说跟情侣待在一起、显得多余的第三个人。",
+    "split": "表面对应 goose 鹅 + berry。前半来源与命名理由未定；有外来果名被改成 goose 的解释，也有按字面组合的分析，不编成鹅最爱吃的果子。",
+    "history": [
+      [
+        "古英语 berġe 等 → 中古英语 berie → berry",
+        "小型多汁果实的古老名称"
+      ],
+      [
+        "goose + berry 的固定果名",
+        "前半的真实来源、命名理由仍有争议"
+      ],
+      [
+        "play gooseberry 的口语扩展",
+        "在情侣旁作多余的第三人"
+      ]
+    ],
+    "explanation": "gooseberry jam 醋栗酱，a gooseberry bush 醋栗灌木，play gooseberry 当电灯泡。Chinese gooseberry 是猕猴桃的旧英语名称，不等于普通 gooseberry 同一植物。",
+    "usage": "gooseberry jam；a gooseberry bush；play gooseberry。",
+    "contrast": "gooseberry 的前半读音有变化，不必强按 goose 的独立读音。也别把所有含 gooseberry 的植物俗名都当同一种果实。",
+    "examples": [
+      [
+        "She made a tart with fresh gooseberries.",
+        "她用鲜醋栗做了一个果馅饼。"
+      ],
+      [
+        "I stayed home because I did not want to play gooseberry.",
+        "我留在家里，因为不想去当电灯泡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gooseberry#English",
+      "https://www.etymonline.com/word/gooseberry"
+    ]
+  },
+  {
+    "word": "poll",
+    "ipa": "英 /pəʊl/；美 /poʊl/",
+    "meaning": "民意调查；投票；调查、征询意见",
+    "sense": "原来是头。数人头，就能数有多少人支持某个选择；再从实际投票扩到询问一批人的意见。",
+    "split": "中古英语 pol、polle 的头、头顶义，与中古荷兰语等对应形式有关。由数人头发展投票、意见调查；不是 pole 杆子换了拼写。",
+    "history": [
+      [
+        "中古英语 pol／polle；联系低地德语、荷兰语的对应形式",
+        "头、头顶"
+      ],
+      [
+        "按人头计数 → poll",
+        "投票、计票；后来也说意见调查"
+      ]
+    ],
+    "explanation": "an opinion poll 民意调查，conduct a poll 开展调查，poll voters 调查选民，go to the polls 去投票。调查结果只反映相应对象、问题和时间，不等于正式投票结果。",
+    "usage": "an opinion poll；conduct a poll；poll voters；go to the polls。",
+    "contrast": "poll 可指调查或投票；survey 范围更宽，可调查房屋、地形等。polled 是进行调查的词形，不是把 pole 加过去式。",
+    "examples": [
+      [
+        "The poll asked residents about public transport.",
+        "这项调查询问居民对公共交通的看法。"
+      ],
+      [
+        "The newspaper polled five hundred readers.",
+        "报纸调查了五百名读者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/poll#English"
+    ]
+  },
+  {
+    "word": "pollster",
+    "ipa": "英 /ˈpəʊlstə/；美 /ˈpoʊlstər/",
+    "meaning": "民意调查人员、机构；民调专家",
+    "sense": "把设计问题、询问公众、分析回答作为工作的人或机构，就是 pollster。它是做调查的一方，不是被调查的人。",
+    "split": "poll 民意调查 + -ster 人物后缀；随着职业化调查形成专门名称。这里 -ster 不限定女性，也不自动含贬义。",
+    "history": [
+      [
+        "中古英语 pol／polle；联系低地德语、荷兰语的对应形式",
+        "头、头顶"
+      ],
+      [
+        "按人头计数 → poll",
+        "投票、计票；后来也说意见调查"
+      ],
+      [
+        "poll + -ster → pollster",
+        "从事民意调查、分析的人或机构"
+      ]
+    ],
+    "explanation": "an independent pollster 独立民调人员或机构，pollsters’ estimates 民调机构的估计。常见于政治、社会意见报道。",
+    "usage": "an independent pollster；pollsters’ estimates。",
+    "contrast": "pollster 组织、分析调查；respondent 回答问题。调查结果也不等于 pollster 本人的政治立场。",
+    "examples": [
+      [
+        "The pollster interviewed voters in several cities.",
+        "民调人员在几个城市访问了选民。"
+      ],
+      [
+        "Several pollsters reported similar findings.",
+        "几家民调机构报告了相似的发现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pollster#English"
+    ]
+  },
+  {
+    "word": "tadpole",
+    "ipa": "英 /ˈtædpəʊl/；美 /ˈtædpoʊl/",
+    "meaning": "蝌蚪",
+    "sense": "看到一个头部显眼、后面拖着尾巴的小生命，这就是 tadpole 的命名画面：蟾蜍的头。名字描述幼体，不是在说一根小杆。",
+    "split": "中古英语 tadpolle 等，前半是 toad 蟾蜍的旧形式，后半 poll 头。现代可指蛙、蟾蜍等的水生幼体。",
+    "history": [
+      [
+        "中古英语 pol／polle；联系低地德语、荷兰语的对应形式",
+        "头、头顶"
+      ],
+      [
+        "toad 的旧形式 + poll 头 → tadpole",
+        "头部显眼、带尾巴的两栖动物幼体"
+      ]
+    ],
+    "explanation": "frog tadpoles 蛙的蝌蚪，tadpoles in a pond 池塘里的蝌蚪。发育过程会变化，后期长出腿仍可能称 tadpole，不把没腿当每一阶段的绝对条件。",
+    "usage": "frog tadpoles；tadpoles in a pond。",
+    "contrast": "tadpole 的 pole 不等于杆子 pole；它保存头的 poll 旧义。名字起于 toad 相关形式，实际用法不限于蟾蜍幼体。",
+    "examples": [
+      [
+        "The children watched tadpoles swimming in the pond.",
+        "孩子们看着池塘里的蝌蚪游动。"
+      ],
+      [
+        "Some of the tadpoles had begun to grow legs.",
+        "有些蝌蚪已经开始长腿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tadpole#English"
+    ]
+  },
+  {
+    "word": "delicious",
+    "ipa": "/dɪˈlɪʃəs/",
+    "meaning": "美味的；令人愉悦、痛快的",
+    "sense": "吃一口就觉得真好吃，是 delicious 最常见的画面。它的历史范围更宽，也能形容一种让人享受的感觉。",
+    "split": "经古法语、盎格鲁诺曼语接拉丁 dēliciōsus，再联系 dēliciae 乐趣、愉悦。词尾对应 -ous 的性质形容词，但不按现代 delicious 硬拆成 deli 店 + cious。",
+    "history": [
+      [
+        "拉丁 dēliciae 等：乐趣、愉悦 → dēliciōsus",
+        "令人愉悦的"
+      ],
+      [
+        "法语 delicious／delicieux → 英语 delicious",
+        "悦人的；常用来夸食物美味"
+      ]
+    ],
+    "explanation": "a delicious meal 美味的一餐，a delicious smell 诱人的香味，a delicious irony 令人玩味、痛快的讽刺。非食物用法常带更鲜明的文体色彩。",
+    "usage": "a delicious meal；a delicious smell；a delicious irony。",
+    "contrast": "delicious 常是积极的感官评价；delicate 是精细、脆弱或清淡等，虽然历史有关，现代不等义。",
+    "examples": [
+      [
+        "The soup was absolutely delicious.",
+        "这汤真是太好喝了。"
+      ],
+      [
+        "A delicious smell drifted from the kitchen.",
+        "厨房飘出诱人的香味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/delicious#English"
+    ]
+  },
+  {
+    "word": "deliciously",
+    "ipa": "/dɪˈlɪʃəsli/",
+    "meaning": "美味地；令人愉悦地、痛快地",
+    "sense": "把 delicious 的赞美放到某种味道、效果如何呈现上：酥得好吃，或故事荒诞得让人很享受。",
+    "split": "delicious + -ly，形成副词；不仅修饰吃，也可修饰形容词，说明那种性质让人觉得愉悦。",
+    "history": [
+      [
+        "拉丁 dēliciae 等：乐趣、愉悦 → dēliciōsus",
+        "令人愉悦的"
+      ],
+      [
+        "法语 delicious／delicieux → 英语 delicious",
+        "悦人的；常用来夸食物美味"
+      ],
+      [
+        "delicious + -ly → deliciously",
+        "以令人愉悦、美味的方式或程度"
+      ]
+    ],
+    "explanation": "deliciously crisp 酥脆可口，deliciously sweet 香甜可口，deliciously absurd 荒诞得令人愉快。",
+    "usage": "deliciously crisp；deliciously sweet；deliciously absurd。",
+    "contrast": "deliciously 不能机械译成吃得美味；The pastry is deliciously crisp 说糕点酥脆得好吃，不是某个人吃的动作。",
+    "examples": [
+      [
+        "The pastry was deliciously crisp.",
+        "糕点酥脆可口。"
+      ],
+      [
+        "The comedy was deliciously absurd.",
+        "这部喜剧荒诞得令人十分愉快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deliciously#English"
+    ]
+  },
+  {
+    "word": "deliciousness",
+    "ipa": "/dɪˈlɪʃəsnəs/",
+    "meaning": "美味；令人愉悦的特质",
+    "sense": "不再直接夸这道菜好吃，而是把它有多好吃当成一件事来谈，这就用 deliciousness。",
+    "split": "delicious + -ness，把性质变成名词。现代常说食物的美味，通常不可数。",
+    "history": [
+      [
+        "拉丁 dēliciae 等：乐趣、愉悦 → dēliciōsus",
+        "令人愉悦的"
+      ],
+      [
+        "法语 delicious／delicieux → 英语 delicious",
+        "悦人的；常用来夸食物美味"
+      ],
+      [
+        "delicious + -ness → deliciousness",
+        "美味这一性质"
+      ]
+    ],
+    "explanation": "the deliciousness of the sauce 酱汁的美味，sheer deliciousness 纯粹的美味享受。日常直接说 It tastes delicious 往往更轻便。",
+    "usage": "the deliciousness of；sheer deliciousness。",
+    "contrast": "delicious 形容食物，deliciously 修饰呈现方式或性质，deliciousness 才把美味作为名词谈。",
+    "examples": [
+      [
+        "Everyone commented on the deliciousness of the sauce.",
+        "大家都赞叹酱汁的美味。"
+      ],
+      [
+        "The review praised the simplicity and deliciousness of the dish.",
+        "评论称赞这道菜简单又美味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deliciousness#English"
+    ]
+  }
+]

@@ -1,0 +1,529 @@
+[
+  {
+    "word": "hazard",
+    "ipa": "英 /ˈhæzəd/；美 /ˈhæzərd/",
+    "meaning": "危险、危险源；冒险提出、尝试",
+    "sense": "地上一根绊脚电线是 a hazard，因为它会带来危险；hazard a guess 则像明知不一定对，仍冒险猜一下。",
+    "split": "借古法语 hasard、hasart，原联系掷骰游戏、机会，后来偏向损失、伤害的可能性。更早阿拉伯语骰子等解释有争论，不画成完全确定的远源链。",
+    "history": [
+      [
+        "古法语 hasard、hasart",
+        "掷骰游戏、机会；更早阿拉伯语等来源有争论"
+      ],
+      [
+        "机会 → 可能失去、受损",
+        "hazard 危险、危险源；动词冒险提出等"
+      ]
+    ],
+    "explanation": "a fire hazard 火灾隐患，a hazard to traffic 交通危险源，hazard a guess 姑且猜一下。名词、动词由句法区别。",
+    "usage": "a fire hazard；a hazard to；hazard a guess。",
+    "contrast": "a hazard 常是造成危险的事物；a guess 的动词搭配并不意味着猜测一定有真实人身危险，而是可能猜错。",
+    "examples": [
+      [
+        "The loose cable was a trip hazard.",
+        "松散电线是绊倒人的隐患。"
+      ],
+      [
+        "If I had to hazard a guess, I would say it was built in the 1920s.",
+        "如果非要猜一下，我会说它建于二十世纪二十年代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hazard#English",
+      "https://www.etymonline.com/word/hazard"
+    ]
+  },
+  {
+    "word": "hazardous",
+    "ipa": "英 /ˈhæzədəs/；美 /ˈhæzərdəs/",
+    "meaning": "危险的、有风险的",
+    "sense": "hazard 是危险、危险源，hazardous 把这种风险变成性质：路况、物质、工作都可能因为容易造成伤害而 hazardous。",
+    "split": "联系法语 hasardeux 等，现代对应 hazard + -ous，表示带有相应性质。-ous 读弱音，不按字母读成 ou。",
+    "history": [
+      [
+        "古法语 hasard、hasart",
+        "掷骰游戏、机会；更早阿拉伯语等来源有争论"
+      ],
+      [
+        "机会 → 可能失去、受损",
+        "hazard 危险、危险源；动词冒险提出等"
+      ],
+      [
+        "hazard + -ous → hazardous",
+        "带有危险、风险的性质"
+      ]
+    ],
+    "explanation": "hazardous conditions 危险条件，hazardous waste 危险废物，hazardous work 危险作业。专业分类的边界由相应定义决定。",
+    "usage": "hazardous conditions；hazardous waste。",
+    "contrast": "hazardous 是形容词，hazard 是名词或动词；危险不表示损害已实际发生，而是存在相应可能。",
+    "examples": [
+      [
+        "Ice made the mountain road hazardous.",
+        "结冰让山路变得危险。"
+      ],
+      [
+        "The containers were labelled as hazardous waste.",
+        "这些容器被标为危险废物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hazardous#English"
+    ]
+  },
+  {
+    "word": "haphazard",
+    "ipa": "英 /ˌhæpˈhæzəd/；美 /ˌhæpˈhæzərd/",
+    "meaning": "随意杂乱的、缺乏计划的",
+    "sense": "东西随手一放，事情想到哪做到哪，像交给机会决定，就是 haphazard。它通常批评缺少条理，不只是说危险。",
+    "split": "hap 机会、偶然的旧词 + hazard 机会、风险，两个部分都带机会背景。现代固定成无章法、偶然拼凑的性质。",
+    "history": [
+      [
+        "古法语 hasard、hasart",
+        "掷骰游戏、机会；更早阿拉伯语等来源有争论"
+      ],
+      [
+        "hap + hazard → haphazard",
+        "由机会决定 → 杂乱、缺乏系统"
+      ]
+    ],
+    "explanation": "a haphazard arrangement 杂乱安排，a haphazard approach 无章法的做法，haphazard planning 随意规划。",
+    "usage": "a haphazard approach；a haphazard arrangement。",
+    "contrast": "haphazard 不等于 hazardous；乱放东西可能危险，也可能只是不整齐。它也不自动等于统计中有设计的随机抽样。",
+    "examples": [
+      [
+        "The files were stored in a haphazard arrangement.",
+        "文件存放得杂乱无章。"
+      ],
+      [
+        "A haphazard approach made the repair take longer.",
+        "无章法的做法让修理花了更久。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haphazard#English"
+    ]
+  },
+  {
+    "word": "blend",
+    "ipa": "/blend/",
+    "meaning": "混合、调和、融入；混合物、混合词",
+    "sense": "把两种东西混得协调、界线不明显，是 blend。颜色可以柔和过渡，人也可以 blend in，看着不突兀。",
+    "split": "来自中古英语 blenden，联系古英语、古诺尔斯语混合词族；两者影响的具体路线有不同分析。名词再说混合后的东西。",
+    "history": [
+      [
+        "中古英语 blenden",
+        "联系古英语 blandan 和古诺尔斯 blanda 混合，具体影响路线有不同分析"
+      ],
+      [
+        "混到一起 → 协调、融入",
+        "物料、颜色、声音、人物都可按场景理解"
+      ]
+    ],
+    "explanation": "blend the ingredients 混合配料，a blend of teas 混合茶，blend in with the surroundings 融入周围环境。brunch 把 breakfast、lunch 的部分合成，也是一个 blend。",
+    "usage": "a blend of；blend in with；blend together。",
+    "contrast": "blend 常突出混合协调、融为一体的效果；mix 范围更宽，不一定已经混得均匀、自然。",
+    "examples": [
+      [
+        "Blend the ingredients until the mixture is smooth.",
+        "把配料混合到质地顺滑。"
+      ],
+      [
+        "The building blends in with the surrounding trees.",
+        "建筑与周围树木融为一体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blend#English"
+    ]
+  },
+  {
+    "word": "blending",
+    "ipa": "/ˈblendɪŋ/",
+    "meaning": "混合、调和、融合过程；混合的结果",
+    "sense": "blend 是做混合动作，blending 把动作铺开，讨论怎么混、混得如何；配色、声音、语言构词都能用到。",
+    "split": "blend + -ing，直接加后缀，不双写 d。动作名词也可说混合形成的结果。",
+    "history": [
+      [
+        "中古英语 blenden",
+        "联系古英语 blandan 和古诺尔斯 blanda 混合，具体影响路线有不同分析"
+      ],
+      [
+        "混到一起 → 协调、融入",
+        "物料、颜色、声音、人物都可按场景理解"
+      ],
+      [
+        "blend + -ing → blending",
+        "混合、融合的过程或结果"
+      ]
+    ],
+    "explanation": "colour blending 色彩融合，the blending of voices 声音的融合，word blending 混合构词。",
+    "usage": "the blending of；colour blending。",
+    "contrast": "blending 是过程、结果，blender 常是设备；词尾 -ing 和 -er 的作用不要只按相似字形混记。",
+    "examples": [
+      [
+        "Careful blending gave the sauce a smooth texture.",
+        "仔细搅拌让酱汁质地顺滑。"
+      ],
+      [
+        "The blending of their voices created a warm sound.",
+        "他们的声音融合在一起，听来温暖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blending#English"
+    ]
+  },
+  {
+    "word": "blender",
+    "ipa": "英 /ˈblendə/；美 /ˈblendər/",
+    "meaning": "搅拌机、食物搅拌器",
+    "sense": "把食材放进去，旋转刀片将它打碎、搅匀，让几样东西成为较一致的混合物，这就是厨房 blender。",
+    "split": "blend + -er，工具后缀形成执行混合功能的装置名称。这里 -er 按功能称呼装置，不限于人。",
+    "history": [
+      [
+        "中古英语 blenden",
+        "联系古英语 blandan 和古诺尔斯 blanda 混合，具体影响路线有不同分析"
+      ],
+      [
+        "混到一起 → 协调、融入",
+        "物料、颜色、声音、人物都可按场景理解"
+      ],
+      [
+        "blend + -er → blender",
+        "负责搅碎、混合的装置"
+      ]
+    ],
+    "explanation": "an electric blender 电动搅拌机，put ingredients in a blender 把配料放进搅拌机，a hand blender 手持搅拌器。",
+    "usage": "an electric blender；a hand blender。",
+    "contrast": "blender 通常兼有刀片打碎和搅合功能；mixer 可以更偏混合、打发等，具体设备名称仍看功能。",
+    "examples": [
+      [
+        "She used a blender to make the soup smooth.",
+        "她用搅拌机把汤打得顺滑。"
+      ],
+      [
+        "The blender crushed the fruit into a thick drink.",
+        "搅拌机把水果打成了浓稠饮品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blender#English"
+    ]
+  },
+  {
+    "word": "blunder",
+    "ipa": "英 /ˈblʌndə/；美 /ˈblʌndər/",
+    "meaning": "大错、笨拙失误；跌跌撞撞、误入",
+    "sense": "没看清、没想清就撞进局面，结果犯下明显的大错，是 blunder 的感觉。它既可说一次失误，也可说笨拙地闯入、行动。",
+    "split": "承中古英语 blundren 等；有斯堪的纳维亚闭眼、打瞌睡词的来源线索，也有混乱、混合词族影响的分析。不是现代把 blend 加普通人物 -er 就得到犯错的人。",
+    "history": [
+      [
+        "中古英语 blundren，相关北欧词",
+        "闭眼般摸索、跌撞；亦有混乱词族影响的分析"
+      ],
+      [
+        "动作 → 名词",
+        "笨拙行动、犯错 → 一次严重失误"
+      ]
+    ],
+    "explanation": "make a blunder 犯大错，a costly blunder 代价高昂的失误，blunder into a room 跌撞、冒失闯进房间。",
+    "usage": "make a blunder；a costly blunder；blunder into。",
+    "contrast": "blunder 常带本可避免、笨拙明显的评价，不只是中性 error；它与 blender 的元音、意思不同。",
+    "examples": [
+      [
+        "Sending the unfinished file was a costly blunder.",
+        "把未完成的文件发出去是个代价高昂的失误。"
+      ],
+      [
+        "He blundered into the wrong meeting room.",
+        "他冒冒失失地进错了会议室。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blunder#English",
+      "https://www.etymonline.com/word/blunder"
+    ]
+  },
+  {
+    "word": "inn",
+    "ipa": "/ɪn/",
+    "meaning": "客栈、小旅馆；〔部分场景〕兼供食宿的酒馆",
+    "sense": "路上走累了，能吃点东西、住一晚的小旅馆，就是 inn 的典型画面。现代也常成为旅馆名字的一部分，不保证都同样小、同样古老。",
+    "split": "承古英语 inn 住处、房屋，经中古英语延续。与 in 向内的旧词关系可帮助理解，但现代 inn 已是独立的旅馆名词。",
+    "history": [
+      [
+        "古英语 inn",
+        "住处、房屋、房间，联系内部居处的旧词"
+      ],
+      [
+        "中古英语 inn → 现代 inn",
+        "供旅客食宿的客栈、旅馆"
+      ]
+    ],
+    "explanation": "stay at an inn 住客栈，a country inn 乡村旅馆，an old coaching inn 旧驿站式旅馆。名称中的 Inn 往往大写。",
+    "usage": "stay at an inn；a country inn。",
+    "contrast": "inn 与 in 同音，拼写和词性不同；名字里有 Inn 不自动说明提供哪些伙食、设施。",
+    "examples": [
+      [
+        "We stayed at a small inn near the river.",
+        "我们住在河边一家小客栈。"
+      ],
+      [
+        "The old inn served hot meals to passing travellers.",
+        "旧客栈为过路旅客提供热饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inn#English"
+    ]
+  },
+  {
+    "word": "jam",
+    "ipa": "/dʒæm/",
+    "meaning": "果酱；堵塞、卡住；困境；即兴合奏、演奏",
+    "sense": "抽屉挤住打不开，是 jam；车挤得走不动是 traffic jam。面包上抹果酱也叫 jam，而音乐里 jam 是大家自由接着演奏，别只用堵塞一个中文义硬套。",
+    "split": "较早动词说挤紧、卡入，来源不明。果酱常被联系到压碎水果的动作；爵士即兴义的历史连接有不同解释，不把好吃果酱直接变好听音乐写成事实。",
+    "history": [
+      [
+        "jam 挤紧、卡住的早期动词",
+        "更远来源不明，可能与咀嚼、压碎等词相关"
+      ],
+      [
+        "多条发展支线",
+        "卡塞、拥堵；果酱可能联系压碎；音乐即兴的具体连接仍有争论"
+      ]
+    ],
+    "explanation": "strawberry jam 草莓酱，a traffic jam 堵车，the door is jammed 门卡住了，a jam session 即兴合奏，be in a jam 陷入困境。",
+    "usage": "a traffic jam；be in a jam；a jam session。",
+    "contrast": "jam 是果酱物质时通常不可数；a jam 可说一次堵塞、困境或合奏等。音乐 jam 不等于演出一定出了故障。",
+    "examples": [
+      [
+        "The drawer jammed when a book slipped behind it.",
+        "一本书滑到抽屉后面，抽屉就卡住了。"
+      ],
+      [
+        "The musicians stayed after the concert to jam together.",
+        "音乐会后，乐手留下来一起即兴演奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jam#English",
+      "https://www.etymonline.com/word/jam"
+    ]
+  },
+  {
+    "word": "jammer",
+    "ipa": "英 /ˈdʒæmə/；美 /ˈdʒæmər/",
+    "meaning": "信号干扰器；即兴演奏的人等",
+    "sense": "jam 可以干扰信号，jammer 就是相应装置；jam 也能即兴演奏，jammer 就能说参加即兴演奏的人。先由场景选动词义，再认 -er。",
+    "split": "jam + -er，双写 m。工具、人物后缀能作用在不同的 jam 词义上，不能只记一种人或一种机器。",
+    "history": [
+      [
+        "jam 挤紧、卡住的早期动词",
+        "更远来源不明，可能与咀嚼、压碎等词相关"
+      ],
+      [
+        "多条发展支线",
+        "卡塞、拥堵；果酱可能联系压碎；音乐即兴的具体连接仍有争论"
+      ],
+      [
+        "jam + -er → jammer",
+        "干扰装置；即兴演奏者等"
+      ]
+    ],
+    "explanation": "a signal jammer 信号干扰器，a radio jammer 无线电干扰器，an experienced jammer 有即兴演奏经验的人。",
+    "usage": "a signal jammer；a radio jammer。",
+    "contrast": "jammer 设备义描述作用，不表示普通断网都由它造成；音乐里则可能只是在说一个乐手。",
+    "examples": [
+      [
+        "The report identified a faulty jammer as the source of interference.",
+        "报告认定一台故障干扰器是干扰来源。"
+      ],
+      [
+        "An experienced jammer joined the musicians for the final tune.",
+        "一位擅长即兴的乐手加入他们，合奏了最后一曲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jammer#English"
+    ]
+  },
+  {
+    "word": "jammy",
+    "ipa": "/ˈdʒæmi/",
+    "meaning": "含果酱的、像果酱的；〔英口语〕运气好的",
+    "sense": "手指沾满果酱是 jammy fingers；朋友意外拿到好票，你说 You’re jammy，则是在半羡慕半打趣地说真走运。",
+    "split": "外形可按 jam + -y 记，双写 m。果酱义直接，幸运义属于固定口语扩展，其具体历史连接不宜仅凭甜就编成确定故事。",
+    "history": [
+      [
+        "jam 挤紧、卡住的早期动词",
+        "更远来源不明，可能与咀嚼、压碎等词相关"
+      ],
+      [
+        "多条发展支线",
+        "卡塞、拥堵；果酱可能联系压碎；音乐即兴的具体连接仍有争论"
+      ],
+      [
+        "jam + -y → jammy",
+        "含果酱、像果酱；另有口语幸运义"
+      ]
+    ],
+    "explanation": "jammy fingers 沾果酱的手指，a jammy biscuit 夹果酱饼干，a jammy winner 运气好的获胜者，带口语评价。",
+    "usage": "jammy fingers；you’re jammy。",
+    "contrast": "jammy 的幸运义不是说人身上黏着果酱；语气常有你怎么这么走运的打趣，也可能含不太服气。",
+    "examples": [
+      [
+        "The child left jammy fingerprints on the table.",
+        "孩子在桌上留下了沾果酱的手印。"
+      ],
+      [
+        "You got the last ticket? You’re jammy!",
+        "你拿到了最后一张票？真走运！"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jammy#English"
+    ]
+  },
+  {
+    "word": "shy",
+    "ipa": "/ʃaɪ/",
+    "meaning": "害羞、胆怯的；回避、受惊退缩；不足〔shy of〕",
+    "sense": "想靠近却又缩回一点，是 shy 的核心感觉。人怕生是害羞，马受惊会 shy；a little shy of ten 则像还没迈到十，表示不到十。",
+    "split": "承古英语 scēoh 易受惊，经中古英语相关形式到现代；退缩动词由形容词发展。不足的用法是后来的固定扩展。",
+    "history": [
+      [
+        "古英语 scēoh → 中古英语 shei → shy",
+        "易受惊、胆怯；后说不敢接近他人"
+      ],
+      [
+        "形容词 → 退缩、避开动作",
+        "shy away from；马受惊退避"
+      ],
+      [
+        "shy of 的数量分支",
+        "少于、差一点到"
+      ]
+    ],
+    "explanation": "be shy around strangers 在陌生人面前害羞，shy away from responsibility 回避责任，just shy of a metre 不到一米。",
+    "usage": "be shy around；shy away from；just shy of。",
+    "contrast": "shy 不等于不喜欢人，也不等于不能做事；shy away from 可说有意回避，不必是社交场景。",
+    "examples": [
+      [
+        "She was shy around people she did not know.",
+        "她在不认识的人面前有些害羞。"
+      ],
+      [
+        "The final total was just shy of a thousand.",
+        "最终总数差一点到一千。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shy#English",
+      "https://www.etymonline.com/word/shy"
+    ]
+  },
+  {
+    "word": "shyly",
+    "ipa": "/ˈʃaɪli/",
+    "meaning": "害羞地、腼腆地",
+    "sense": "一句话轻轻说、一个笑容不好意思地露出来，可以用 shyly 描述表现出来的方式。",
+    "split": "shy + -ly，保留 y，形成方式副词。不是所有辅音加 y 的词在加后缀时都一律改 i，shyly 是常用保留拼写。",
+    "history": [
+      [
+        "古英语 scēoh → 中古英语 shei → shy",
+        "易受惊、胆怯；后说不敢接近他人"
+      ],
+      [
+        "shy + -ly → shyly",
+        "害羞的性质 → 害羞地表现"
+      ]
+    ],
+    "explanation": "smile shyly 腼腆地笑，ask shyly 害羞地问，look up shyly 腼腆地抬头看。",
+    "usage": "smile shyly；ask shyly。",
+    "contrast": "shy smile 形容笑容，smile shyly 说明怎样笑；一时腼腆不一定表示整个人一直害羞。",
+    "examples": [
+      [
+        "He smiled shyly and introduced himself.",
+        "他腼腆地笑了笑，作了自我介绍。"
+      ],
+      [
+        "She shyly asked if she could join the game.",
+        "她有些害羞地问能不能一起玩。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shyly#English"
+    ]
+  },
+  {
+    "word": "shyness",
+    "ipa": "/ˈʃaɪnəs/",
+    "meaning": "害羞、腼腆、怕生",
+    "sense": "把 shy 这种不太敢接近、开口的感觉当成一个状态来讨论，就是 shyness。它可以随对象、场景变化。",
+    "split": "shy + -ness，保留 y，加状态、品质后缀。由害羞的形容词变成害羞这个名词。",
+    "history": [
+      [
+        "古英语 scēoh → 中古英语 shei → shy",
+        "易受惊、胆怯；后说不敢接近他人"
+      ],
+      [
+        "shy + -ness → shyness",
+        "害羞、怕生的状态"
+      ]
+    ],
+    "explanation": "overcome shyness 克服害羞，initial shyness 起初的腼腆，because of shyness 因为害羞。通常不可数。",
+    "usage": "overcome shyness；initial shyness。",
+    "contrast": "shyness 是描述性状态词，不凭它就能判断临床诊断；也不等于能力低或不愿交朋友。",
+    "examples": [
+      [
+        "Her initial shyness faded as the conversation continued.",
+        "聊着聊着，她最初的腼腆渐渐消失了。"
+      ],
+      [
+        "Acting classes helped him overcome some of his shyness.",
+        "表演课帮助他减少了一些害羞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shyness#English"
+    ]
+  },
+  {
+    "word": "shying",
+    "ipa": "/ˈʃaɪɪŋ/",
+    "meaning": "shy 的现在分词：正在回避、受惊退缩",
+    "sense": "马忽然往旁边缩，是 shying；人不断绕开难题，也是 shying away from it。镜头在发生中的回避动作上。",
+    "split": "shy + -ing，保留 y；不同于过去式 shied 的 y 改 i。这里走退缩、回避的动词支线。",
+    "history": [
+      [
+        "古英语 scēoh → 中古英语 shei → shy",
+        "易受惊、胆怯；后说不敢接近他人"
+      ],
+      [
+        "形容词 → 退缩、避开动作",
+        "shy away from；马受惊退避"
+      ],
+      [
+        "后缀扩展",
+        "shyly 害羞地；shyness 害羞；shying 正在退缩、回避"
+      ]
+    ],
+    "explanation": "shying away from a challenge 回避挑战，a horse shying at a noise 马因声音受惊退避。away from 后接名词或 -ing 动作形式。",
+    "usage": "shying away from；shying at。",
+    "contrast": "shying 不只指害羞地看着别人，它可以是实际退避或回避某事；不要把正在回避当成永久人格判断。",
+    "examples": [
+      [
+        "The horse was shying at the fluttering flags.",
+        "马被飘动的旗子吓得退避。"
+      ],
+      [
+        "They are shying away from making a difficult decision.",
+        "他们正回避作出那个艰难决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/shying#English"
+    ]
+  }
+]

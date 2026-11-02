@@ -5,7 +5,7 @@
     "core": "AG / ACT：让事情动起来、做起来",
     "image": "先推动，再行动；人在做事，事情也在起作用",
     "intro": "先想一双手把东西向前推：**让它动起来，也让一件事开始发生。** 拉丁语 agere（词典形式 agō）兼有推动、做、执行的意思。act 把事情做出来，agent 是执行或起作用的一方，agenda 是“应该做的那些事”。这条线能帮助理解很多词，但现代意思还要顺着各自的历史走。",
-    "forms": "**ag- 与 act- 属于同一个拉丁动词的不同词干。** agent、agile 保留 ag- 一支；act、action、active 联系 act- 一支。复合中还可出现 ig-，如 ambigere 形成 ambiguous。**不要把所有 -ig- 都当作确定的 ag- 变体：** navigate、mitigate、castigate 的传统词源常把使动成分与 agere 联系起来，但拉丁 -igāre 的更早来源有不同分析。本页保留传统联系，同时逐词说明已确定的直接来源。",
+    "forms": "**ag- 与 act- 属于同一个拉丁动词的不同词干。** agent、agile 保留 ag- 一支；act、action、active 联系 act- 一支。复合中还可出现 ig-，如 ambigere 形成 ambiguous。**不要把所有 -ig- 都当作确定的 ag- 变体：** navigate、mitigate、castigate 的传统词源常把使动成分与 agere 联系起来，但拉丁 -igāre 的更早来源有不同分析。本页保留传统联系，同时逐词说明已确定的直接来源。\n\nagency 接中世纪拉丁 agentia，源于 agere 行动的分词词干；机构义与能动性义分开用例，不只背成公司。\n\nactivity 与 active 对应，历史经法语接拉丁 activitas；现代复数把 y 变成 ies。\n\naction 经法语承拉丁 āctiō；现代 act + ion 是对应构词关系，不代替借词历史。\n\n拉丁做、执行的词族，动作、戏剧与法令分支分别看。\n\n拉丁 agens 正在行动的分词材料形成名称，现代不同专业角色各有用途。\n\n拉丁行动者名词经法语等借入，现代演员义最常见。\n\n拉丁行动者材料形成抽象名词，现代机构义随后发展。\n\n现代对应 re- 与 action、react 词族，但名词有拉丁、法语相应历史。\n\n拉丁 transigere、transactio 经法语等借入，现代可与 trans-、action 对照。\n\nactor 的对应女性人物形式，-ess 与复数 -es 分开；actor 也常不限定性别。\n\n拉丁 agitare 是 agere 的反复动作形式，英语经分词材料借入；agitation 名词有独立法语、拉丁借入路线。\n\ninteract 在英语中由 inter- + act 形成，现代加 -ing 原词不改。人与人交流、系统要素相互影响均可，不限说话。\n\nreact 是英语 re- + act，表示受到作用后回应。加完整 -ed，/t/ 后读 /ɪd/；情绪、言语或物质的反应要分场景理解。\n\nreact 在英语中由 re- + act 形成，现代加 -ing 原词不改。察觉变化后回应，动作、表情、情绪均可表现。",
     "branches": [
       [
         "做出来的行为",
@@ -30,6 +30,62 @@
       [
         "把事情办完、走通",
         "transaction · navigate · cogent"
+      ],
+      [
+        "agent 与 agency：做事的一方及行动能力",
+        "agent · agency"
+      ],
+      [
+        "activity → activities：活动、行动、活跃状态",
+        "activity · activities"
+      ],
+      [
+        "action → actions：实际做出的事与操作",
+        "action · actions"
+      ],
+      [
+        "act → acts → acted：做出的行为与表演",
+        "act · acts · acted"
+      ],
+      [
+        "agent → agents：行动、起作用的人或物",
+        "agent · agents"
+      ],
+      [
+        "actor → actors：行动者与演员",
+        "actor · actors"
+      ],
+      [
+        "agency → agencies：起作用与替人办事的机构",
+        "agency · agencies"
+      ],
+      [
+        "reaction → reactions：外来作用后作出的响应",
+        "react · reaction · reactions"
+      ],
+      [
+        "transaction → transactions：办成的一笔事务",
+        "transaction · transactions"
+      ],
+      [
+        "actress → actresses：女演员的复数",
+        "actress · actresses"
+      ],
+      [
+        "agere 的推动到 agitate 的搅动、不安与倡议",
+        "agitate · agitates · agitated · agitating · agitation"
+      ],
+      [
+        "inter- 相互 + act 行动 → interacting",
+        "interacting"
+      ],
+      [
+        "re- 回应 + act 行动 → reacted",
+        "reacted"
+      ],
+      [
+        "re- 回应 + act 行动 → reacting",
+        "reacting"
       ]
     ],
     "contrasts": "**action / activity / activation**：采取行动 / 活动或活跃程度 / 使进入有效状态。\n\n**reactive / proactive**：事情出现后回应 / 提前准备和行动。proactive 不能简单等于“很忙”。\n\n**actor / agent / agitator**：参与行动者或演员 / 代表别人做事或产生作用的一方 / 搅动局面的人或装置。\n\n**reactor / reactant / reaction**：反应装置 / 反应物 / 反应过程。\n\n**ambiguous / vague**：意思有岔路 / 细节或边界不清。**cogent / forceful**：理由有说服力 / 力量或语气强。抓住具体差别，比把它们都译成“有力”更有用。",
@@ -83,7 +139,25 @@
       "castigate",
       "cogitate",
       "cogitation",
-      "excogitate"
+      "excogitate",
+      "agency",
+      "activities",
+      "actions",
+      "acts",
+      "acted",
+      "agents",
+      "actors",
+      "agencies",
+      "reactions",
+      "transactions",
+      "actresses",
+      "agitates",
+      "agitated",
+      "agitating",
+      "agitation",
+      "interacting",
+      "reacted",
+      "reacting"
     ]
   }
 ]

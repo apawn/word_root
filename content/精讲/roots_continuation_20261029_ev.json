@@ -1,0 +1,166 @@
+[
+  {
+    "id": "B2796",
+    "meaning": "团块、大量与物理质量",
+    "core": "MASS：聚成一团；专业质量与宗教义另分清",
+    "image": "基本 mass 后接 massive 巨大，massless 物理无质量；biomass、landmass 已精讲共享。",
+    "intro": "物质团块义上接希腊面团词，宗教弥撒另源。物理 mass 不能直接等同 weight。",
+    "forms": "mass → massive、massless；bio-、land + mass。\n\n希腊面团名经拉丁 massa、法语传播；宗教 Mass 的 missa 线另分。\n\namass 经法语 amasser，联系 à 朝向、masser 聚成一团与 masse 堆、团。现代 a- 不是不的否定前缀，也不是英文一堆的冠词 a。",
+    "branches": [
+      [
+        "基本量与性质",
+        "mass · massive · massless"
+      ],
+      [
+        "已有复合词",
+        "biomass · landmass"
+      ],
+      [
+        "mass → masses：团块、大量、物理质量",
+        "mass · masses"
+      ],
+      [
+        "amass：把东西聚成很大数量",
+        "amass · amasses · amassed · amassing"
+      ]
+    ],
+    "contrasts": "Mass 弥撒另源；massless 不等于 weightless；massive success 是程度大。",
+    "practice": "Mass production created a massive supply of goods.\n\n大规模生产带来了大量商品供应。",
+    "words": [
+      "mass",
+      "massive",
+      "massless",
+      "biomass",
+      "landmass",
+      "masses",
+      "amass",
+      "amasses",
+      "amassed",
+      "amassing"
+    ],
+    "exclude": {
+      "pound-mass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "massy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3952",
+    "meaning": "跳舞、舞者与适合跳舞的音乐",
+    "core": "DANCE：身体随节奏动，也可写光影跳动",
+    "image": "dance、dancing、dancer 按动作与人相邻，再看 danceable 适合跳舞、dancehall 场所及音乐。",
+    "intro": "经法语舞蹈词进入英语，远源未定。具体音乐类型有社会文化历史，不靠字面泛指每种舞曲。",
+    "forms": "dance → dancing、dancer、danceable；dance + hall → dancehall。\n\n先去 e 加完整 er，再给 dancer 加复数 s。\n\n法语舞蹈词进入中古英语，远源未定；复数舞蹈、舞会与动词三单同形。",
+    "branches": [
+      [
+        "基本词、活动与人物",
+        "dance · dancing · dancer"
+      ],
+      [
+        "音乐适用性与场所",
+        "danceable · dancehall"
+      ],
+      [
+        "dance → dancer → dancers：舞蹈、舞者与多位舞者",
+        "dance · dancer · dancers"
+      ],
+      [
+        "dance 的名词、动词及过去形式",
+        "dance · dances · danced"
+      ]
+    ],
+    "contrasts": "dancer 人，dancing 活动；danceable 不意味着每个人都喜欢；dancehall 音乐是特定类型。",
+    "practice": "The dancers chose a danceable song for the rehearsal.\n\n舞者选了一首适合跳舞的歌来排练。",
+    "words": [
+      "dance",
+      "dancing",
+      "dancer",
+      "danceable",
+      "dancehall",
+      "dancers",
+      "dances",
+      "danced"
+    ],
+    "exclude": {
+      "dance-off": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dance-happy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sky-dance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sundance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dancy": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "riverdance": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2476",
+    "meaning": "地狱与极端痛苦、混乱",
+    "core": "HELL：宗教场所也成为日常夸张画面",
+    "image": "hell → hellish 痛苦性质，hellraiser 闹事人物；hellfire 已精讲共享。",
+    "intro": "古英语地下世界词，现代夸张不都作宗教意义理解。比较粗鲁的强调表达标明语气，例句保持简单。",
+    "forms": "hell → hellish；raise hell → hellraiser；hell + fire → hellfire。\n\nheck 是 hell 的委婉变形；what the heck、a heck of 等保留惊讶、强调的口语功能，不是每次都指地狱这个地方。",
+    "branches": [
+      [
+        "基本词与性质",
+        "hell · hellish"
+      ],
+      [
+        "人物与相关意象",
+        "hellraiser · hellfire"
+      ],
+      [
+        "hell → heck：语气较轻的替代说法",
+        "heck"
+      ]
+    ],
+    "contrasts": "hellish 的 -ish 不等于稍微；hellraiser 不是每个活泼的人；what the hell 是有语气的强调。",
+    "practice": "The hellish journey made everyone tired and irritable.\n\n煎熬的旅程让大家疲惫又烦躁。",
+    "words": [
+      "hell",
+      "hellish",
+      "hellraiser",
+      "hellfire",
+      "heck"
+    ],
+    "exclude": {
+      "hell-born": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hell-bent": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hellcat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hellman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "helly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2810",
+    "meaning": "油类、油性与油料种子",
+    "core": "OIL：从橄榄油历史走到多种现代油类",
+    "image": "oil 与 oily 性质相邻，oilseed 看用于制油的种子，避免把所有油当石油。",
+    "intro": "经法语接拉丁和希腊橄榄油词，现代范围扩大到食用、润滑和石油等不同物质。",
+    "forms": "oil → oily；oil + seed → oilseed。\n\noil 经法语、拉丁接希腊橄榄相关名称，由橄榄油扩展油类；oils 可数种类，也可指油画颜料，或是上油动词第三人称。",
+    "branches": [
+      [
+        "基本物质与性质",
+        "oil · oily"
+      ],
+      [
+        "农业用途",
+        "oilseed"
+      ],
+      [
+        "oil → oils：油类、油画颜料与上油动作",
+        "oils"
+      ]
+    ],
+    "contrasts": "oil 不只 petroleum；oilseed 种子与 seed oil 油品不同；oily smile 比喻油滑。",
+    "practice": "Oilseed crops are grown to produce oil.\n\n种植油料作物是为了生产油。",
+    "words": [
+      "oil",
+      "oily",
+      "oilseed",
+      "oils"
+    ],
+    "exclude": {
+      "anti-oil": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bio-oil": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oiler": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "oilman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

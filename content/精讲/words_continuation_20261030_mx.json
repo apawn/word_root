@@ -1,0 +1,592 @@
+[
+  {
+    "word": "oscilloscope",
+    "ipa": "英 /əˈsɪləskəʊp/；美 /əˈsɪləskoʊp/",
+    "meaning": "示波器",
+    "sense": "电压在变，肉眼看不见；示波器把变化画成屏幕上的线，让你看见信号怎样起伏。oscillo- 是摆动、变化，-scope 是观察工具。",
+    "split": "oscillo- 接拉丁 oscillare 摆动，-scope 接希腊 skopein 观察；近代混合构词，用于显示电信号的仪器。",
+    "history": [
+      [
+        "拉丁 oscillare 摆动 → oscillo-",
+        "振荡、来回变化"
+      ],
+      [
+        "oscillo- + 希腊来源 -scope 观察仪器 → oscilloscope",
+        "把电信号随时间等的变化显示为图形"
+      ]
+    ],
+    "explanation": "an oscilloscope trace 示波器轨迹，an oscilloscope screen 示波器屏幕；常见显示电压随时间变化，也有其他显示模式。",
+    "usage": "an oscilloscope trace；connect a signal to an oscilloscope。",
+    "contrast": "示波器把信号变为可见图形，不表示一定在看声音；声音经转换成电信号后也能研究。",
+    "examples": [
+      [
+        "The oscilloscope displayed a repeating waveform.",
+        "示波器显示出重复的波形。"
+      ],
+      [
+        "She adjusted the time scale on the oscilloscope.",
+        "她调整了示波器的时间刻度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oscilloscope#English",
+      "https://www.etymonline.com/word/oscilloscope"
+    ]
+  },
+  {
+    "word": "acoustic",
+    "ipa": "/əˈkuːstɪk/",
+    "meaning": "声音的、声学的；原声的、不靠电扩音产生本体声音的",
+    "sense": "acoustic 先锁定声音如何产生、传递、被听到。acoustic guitar 的弦与琴体自己发声；音乐现场即使用麦克风扩音，也仍可称原声吉他。",
+    "split": "经中世纪拉丁 acousticus 借自希腊 akoustikos，与 akouo 听相关。由听觉、声学性质扩展到音乐中的原声器乐形式。",
+    "history": [
+      [
+        "希腊 akouein／akouo 听 → akoustikos",
+        "听觉、声音相关的"
+      ],
+      [
+        "中世纪拉丁 acousticus → acoustic",
+        "听觉、声学的；音乐中指原声形式"
+      ]
+    ],
+    "explanation": "acoustic properties 声学性质，acoustic panels 吸声、声学处理板，an acoustic guitar 原声吉他，an acoustic version 原声版。",
+    "usage": "an acoustic guitar；acoustic treatment；acoustic properties。",
+    "contrast": "音乐中的 acoustic 看发声方式、编配，不保证现场完全没有电子设备。声学处理也不全等同于彻底隔音。",
+    "examples": [
+      [
+        "He played the song on an acoustic guitar.",
+        "他用原声吉他弹了这首歌。"
+      ],
+      [
+        "The panels improved the room’s acoustic properties.",
+        "这些板材改善了房间的声学特性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acoustic#English"
+    ]
+  },
+  {
+    "word": "acoustics",
+    "ipa": "/əˈkuːstɪks/",
+    "meaning": "声学；空间的声音传播、回响效果",
+    "sense": "研究声音怎样振动、传播，是学科 acoustics；走进大厅说“这里听起来真好”，评价的是这地方的 acoustics。",
+    "split": "acoustic + -s；学科名的 -s 类似 physics 等。空间声音特性义通常按复数性质使用。",
+    "history": [
+      [
+        "希腊 akouein／akouo 听 → akoustikos",
+        "听觉、声音相关的"
+      ],
+      [
+        "中世纪拉丁 acousticus → acoustic",
+        "听觉、声学的；音乐中指原声形式"
+      ],
+      [
+        "acoustic + -s → acoustics",
+        "声音研究学科；场所的声音传播特性"
+      ]
+    ],
+    "explanation": "study acoustics 学习声学，the acoustics of a hall 大厅音响效果，good acoustics 良好音响条件。",
+    "usage": "acoustics is ...〔学科〕；the acoustics are ...〔场所效果〕。",
+    "contrast": "学科通常单数谓语 Acoustics is；房间的声学特性常用复数谓语 The acoustics are。",
+    "examples": [
+      [
+        "Acoustics is part of the engineering course.",
+        "声学是工程课程的一部分。"
+      ],
+      [
+        "The acoustics in the concert hall are excellent.",
+        "音乐厅的音响效果非常好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acoustics#English"
+    ]
+  },
+  {
+    "word": "acoustical",
+    "ipa": "/əˈkuːstɪkəl/",
+    "meaning": "声学的、与声音或听觉有关的",
+    "sense": "和 acoustic 的声学义大体重叠，多在工程、设计里说声音怎样在空间里表现。多一个 -al，并没有把声音变成另一种物理现象。",
+    "split": "acoustic + -al，形成扩展形容词；与 acoustic 在听觉、声学性质上常同义。",
+    "history": [
+      [
+        "希腊 akouein／akouo 听 → akoustikos",
+        "听觉、声音相关的"
+      ],
+      [
+        "中世纪拉丁 acousticus → acoustic",
+        "听觉、声学的；音乐中指原声形式"
+      ],
+      [
+        "acoustic + -al → acoustical",
+        "与声学、声音特性有关的"
+      ]
+    ],
+    "explanation": "acoustical engineering 声学工程，acoustical design 声学设计，acoustical treatment 声学处理。",
+    "usage": "acoustical design；acoustical engineering。",
+    "contrast": "原声吉他习惯叫 acoustic guitar；谈工程 acoustical 与 acoustic 常有重叠，搭配习惯比硬分高低更有用。",
+    "examples": [
+      [
+        "The architect consulted an acoustical engineer.",
+        "建筑师咨询了一位声学工程师。"
+      ],
+      [
+        "The room needs better acoustical treatment.",
+        "房间需要更好的声学处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acoustical#English"
+    ]
+  },
+  {
+    "word": "acoustically",
+    "ipa": "/əˈkuːstɪkli/",
+    "meaning": "从声学角度；以声音方式；以原声方式",
+    "sense": "看房间声音表现，是 acoustically；把歌改用原声乐器演出，也能说 play it acoustically。前者看考察角度，后者看演出方式。",
+    "split": "acoustic + -ally，或 acoustical + -ly；-ically 通常读 /ɪkli/，形成角度、方式副词。",
+    "history": [
+      [
+        "希腊 akouein／akouo 听 → akoustikos",
+        "听觉、声音相关的"
+      ],
+      [
+        "中世纪拉丁 acousticus → acoustic",
+        "听觉、声学的；音乐中指原声形式"
+      ],
+      [
+        "acoustic + -ally → acoustically",
+        "声学方面；以原声等方式"
+      ]
+    ],
+    "explanation": "acoustically treated room 做过声学处理的房间，perform acoustically 以原声方式演出。",
+    "usage": "acoustically treated；play acoustically。",
+    "contrast": "acoustically treated 可能处理混响、反射等；不必然表示对外完全隔音。",
+    "examples": [
+      [
+        "The band performed acoustically for the small audience.",
+        "乐队为小群观众作了原声演出。"
+      ],
+      [
+        "The studio was acoustically treated to reduce reflections.",
+        "录音室做了声学处理，以减少声音反射。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/acoustically#English"
+    ]
+  },
+  {
+    "word": "fond",
+    "ipa": "英 /fɒnd/；美 /fɑːnd/",
+    "meaning": "喜爱的、深情的；〔旧或固定用法〕天真的、空想的",
+    "sense": "想到某人、某物心里就柔软，是 fond 的常用感觉。be fond of cats 喜欢猫，fond memories 带感情的回忆；它早年却曾说人愚傻。",
+    "split": "中古英语 fonned 是 fonnen 愚傻的分词形式，后来变 fond。词义经“疼爱得过分”转到深情、喜爱，现代常用义已不必带愚傻判断。",
+    "history": [
+      [
+        "中古英语 fonnen、fonned → fond",
+        "旧义愚傻；经过分疼爱走向喜爱、深情"
+      ],
+      [
+        "过分疼爱 → fond 喜爱、深情",
+        "现代常见于 fond of、fond memories 等"
+      ]
+    ],
+    "explanation": "be fond of 喜欢，fond memories 美好而深情的回忆，a fond farewell 深情告别；a fond hope 有时指不切实际的希望。",
+    "usage": "be fond of；fond memories；a fond farewell。",
+    "contrast": "fond of 后接名词或 -ing；fond hope 的旧有天真义与 fond memories 的深情义要按搭配读。",
+    "examples": [
+      [
+        "She is fond of old detective stories.",
+        "她喜欢老派侦探故事。"
+      ],
+      [
+        "He has fond memories of their summers by the sea.",
+        "他深情怀念他们在海边度过的那些夏天。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fond#English",
+      "https://www.etymonline.com/word/fond"
+    ]
+  },
+  {
+    "word": "fondly",
+    "ipa": "英 /ˈfɒndli/；美 /ˈfɑːndli/",
+    "meaning": "深情地、亲切地；〔旧或特定语境〕天真地",
+    "sense": "fond 是心里带着喜爱，fondly 就说回忆、注视、称呼时带着这份感情。remember fondly 是回想起来仍觉得亲切。",
+    "split": "fond + -ly，中古英语已有相应形式；常用承深情义，也保留较旧的愚傻、天真用法。",
+    "history": [
+      [
+        "中古英语 fonnen、fonned → fond",
+        "旧义愚傻；经过分疼爱走向喜爱、深情"
+      ],
+      [
+        "fond + -ly → fondly",
+        "带喜爱、柔情的方式；旧义天真地"
+      ]
+    ],
+    "explanation": "remember someone fondly 深情怀念某人，look fondly at 亲切注视，fondly known as 被亲切称作。",
+    "usage": "remember fondly；look fondly at。",
+    "contrast": "fondly remembered 常带正面感情；fondly imagine 在某些文体中却可能讽刺想得过于天真。",
+    "examples": [
+      [
+        "They remembered their first teacher fondly.",
+        "他们深情怀念第一位老师。"
+      ],
+      [
+        "She looked fondly at the old photograph.",
+        "她深情地望着那张老照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fondly#English"
+    ]
+  },
+  {
+    "word": "fondness",
+    "ipa": "英 /ˈfɒndnəs/；美 /ˈfɑːndnəs/",
+    "meaning": "喜爱、钟爱；深情",
+    "sense": "把 fond 那种心里亲近、喜欢的感觉当成一份感情来说，就是 fondness。a fondness for something 是对它有偏爱。",
+    "split": "fond + -ness，性质、情感名词，中古英语已有相应形式。现代多承喜爱义。",
+    "history": [
+      [
+        "中古英语 fonnen、fonned → fond",
+        "旧义愚傻；经过分疼爱走向喜爱、深情"
+      ],
+      [
+        "fond + -ness → fondness",
+        "喜爱这一情感、偏好"
+      ]
+    ],
+    "explanation": "a fondness for music 对音乐的喜爱，speak with fondness 带着深情谈起。",
+    "usage": "a fondness for；with great fondness。",
+    "contrast": "fondness 通常是温和亲近、偏爱，不必达到强烈迷恋。",
+    "examples": [
+      [
+        "He developed a fondness for gardening.",
+        "他渐渐喜欢上园艺。"
+      ],
+      [
+        "She spoke of the town with great fondness.",
+        "她满怀深情地谈起那座小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fondness#English"
+    ]
+  },
+  {
+    "word": "fondle",
+    "ipa": "英 /ˈfɒndəl/；美 /ˈfɑːndəl/",
+    "meaning": "爱抚、轻抚；抚弄",
+    "sense": "手反复温柔地摸、轻轻摩挲，就是 fondle 的动作。可写抚摸动物，也能指亲密或性的抚弄，含义要看接触部位、关系和语境。",
+    "split": "联系 fond 喜爱，加古老反复动作后缀 -le，或接同族旧动词；由疼爱走到爱抚、轻触。",
+    "history": [
+      [
+        "中古英语 fonnen、fonned → fond",
+        "旧义愚傻；经过分疼爱走向喜爱、深情"
+      ],
+      [
+        "fond 一族 + -le → fondle",
+        "疼爱、反复轻抚"
+      ]
+    ],
+    "explanation": "fondle a pet 轻抚宠物，fondle someone’s hand 轻抚某人的手。",
+    "usage": "fondle a cat；fondle someone’s hand。",
+    "contrast": "fondle 比普通 touch 更强调抚摸、亲密性质；报道里也可能描述不受欢迎的性接触，不能只凭词源认定双方愿意。",
+    "examples": [
+      [
+        "She fondled the cat as it lay in her lap.",
+        "猫趴在她腿上，她轻轻抚摸着它。"
+      ],
+      [
+        "He fondled the smooth pebble in his pocket.",
+        "他在口袋里轻轻摩挲那块光滑卵石。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fondle#English"
+    ]
+  },
+  {
+    "word": "fondling",
+    "ipa": "英 /ˈfɒndlɪŋ/；美 /ˈfɑːndlɪŋ/",
+    "meaning": "抚摸、爱抚；fondle 的现在分词",
+    "sense": "fondle 是轻抚，fondling 可以把正在抚摸的动作带进句子，也可把这种接触当作活动来谈。",
+    "split": "常见形式为 fondle 去 e + -ing。另有旧名词 fond + -ling，指受宠爱的人或宠物；这两种边界不同，不能一概把末尾看成 -ling。",
+    "history": [
+      [
+        "中古英语 fonnen、fonned → fond",
+        "旧义愚傻；经过分疼爱走向喜爱、深情"
+      ],
+      [
+        "fond + -ly、-ness；fond 一族 + -le → fondle",
+        "深情方式、喜爱之情；反复轻抚"
+      ],
+      [
+        "fondle + -ing → fondling",
+        "正在轻抚；抚摸活动"
+      ]
+    ],
+    "explanation": "be fondling a pet 正在轻抚宠物，gentle fondling 轻柔爱抚；涉及人的身体接触时须结合场景读。",
+    "usage": "fondling a pet；gentle fondling。",
+    "contrast": "现代常见动作义按 fondle + -ing 拆；旧人物名才按 fond + -ling 拆。",
+    "examples": [
+      [
+        "She sat by the window, fondling the dog’s ears.",
+        "她坐在窗边，轻抚狗的耳朵。"
+      ],
+      [
+        "The cat settled down under his gentle fondling.",
+        "在他轻柔的抚摸下，猫安静下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fondling#English"
+    ]
+  },
+  {
+    "word": "jerk",
+    "ipa": "英 /dʒɜːk/；美 /dʒɝːk/",
+    "meaning": "猛拉、突然一动；急促动作；讨厌鬼、混蛋",
+    "sense": "车突然一顿、手猛地一拉，就是 jerk 的动作画面。骂人 a jerk 则说对方讨厌、自私或没礼貌，已经是人物评价。",
+    "split": "动作词的早期来源未定，可比较 yerk 等急拉词形。猛拉、一顿名词接动作材料；讨厌者的人物义来路另有争议，不能直接画成由突动义顺推。干肉、牙买加风味的同形词另分食物来源。",
+    "history": [
+      [
+        "jerk 急拉、突然动作",
+        "早期 yerk 等形式的联系有讨论，来源未完全确定"
+      ],
+      [
+        "急促动作的名词；另有来路有争议的人物贬称",
+        "猛拉、一顿；讨厌者人物义不作确定的单线派生"
+      ]
+    ],
+    "explanation": "jerk the door open 猛拉开门，with a jerk 猛地一动，Don’t be a jerk. 别那么混蛋、别惹人讨厌。",
+    "usage": "with a jerk；jerk backwards；a rude jerk。",
+    "contrast": "人物义带冒犯色彩；jerk a rope 描述动作，并不在评价绳子讨厌。",
+    "examples": [
+      [
+        "The bus stopped with a jerk.",
+        "公交车猛地一顿停住了。"
+      ],
+      [
+        "Being tired is no excuse to act like a jerk.",
+        "累了也不是待人粗鲁、惹人讨厌的理由。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jerk#English",
+      "https://www.etymonline.com/word/jerk"
+    ]
+  },
+  {
+    "word": "jerky",
+    "ipa": "英 /ˈdʒɜːki/；美 /ˈdʒɝːki/",
+    "meaning": "动作不平稳、一顿一顿的；肉干",
+    "sense": "画面一跳一跳、手臂一顿一顿，是 jerky 的形容词。零食袋上的 beef jerky 是牛肉干，来自另一种语言的干肉名称。",
+    "split": "形容词 jerk 急动 + -y；名词经西班牙语 charqui 借自克丘亚语 ch’arki 干肉。两路同形，不按猛拉肉条来编词源。",
+    "history": [
+      [
+        "jerk 急拉、突然动作",
+        "早期 yerk 等形式的联系有讨论，来源未完全确定"
+      ],
+      [
+        "jerk + -y → jerky",
+        "一顿一顿、不平稳的"
+      ],
+      [
+        "克丘亚语 ch’arki → 西班牙语 charqui → jerky",
+        "干肉名称；与动作形容词另一路"
+      ]
+    ],
+    "explanation": "jerky movements 不连贯的动作，jerky video 卡顿跳动的视频，beef jerky 牛肉干。",
+    "usage": "jerky movement；jerky footage；beef jerky。",
+    "contrast": "smooth movement 平滑连续，jerky movement 突然停动、衔接不顺；肉干名词不评价食物会不会抖。",
+    "examples": [
+      [
+        "The old camera produced jerky footage.",
+        "旧摄像机拍出的画面一顿一顿。"
+      ],
+      [
+        "He packed some beef jerky for the journey.",
+        "他带了些牛肉干路上吃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jerky#English",
+      "https://www.etymonline.com/word/jerky"
+    ]
+  },
+  {
+    "word": "mob",
+    "ipa": "英 /mɒb/；美 /mɑːb/",
+    "meaning": "喧闹或失控的人群；犯罪集团；蜂拥围住；〔游戏〕怪物、非玩家角色",
+    "sense": "一群人挤作一团、情绪上来，不再只是安静的人数总和，常叫 mob。动词 mob 是一窝蜂围上去；the mob 在一些语境中指有组织犯罪集团。",
+    "split": "近代英语把 mobile 缩短为 mob，后者接拉丁 mobile vulgus 易变的人群。游戏用法则由早期 mobile 活动角色等名称缩短，不按 man or beast 的倒造缩写解释。",
+    "history": [
+      [
+        "拉丁 mobile vulgus 易变的人群 → 英语 mobile → mob",
+        "近代英语的缩短人物集合名"
+      ],
+      [
+        "人群 → 拥挤围上、犯罪集团等",
+        "mobster 组织犯罪成员；游戏 mob 另由 mobile 缩短"
+      ]
+    ],
+    "explanation": "an angry mob 愤怒人群，be mobbed by fans 被粉丝蜂拥围住，the mob 犯罪集团；澳新等语境还可中性指一群人、动物。",
+    "usage": "an angry mob；mob the entrance；be mobbed by fans。",
+    "contrast": "普通英语 mob 常比 crowd 带更强的混乱、威胁感；地区用法与游戏义不必有相同贬义。",
+    "examples": [
+      [
+        "An angry mob gathered outside the building.",
+        "愤怒的人群聚集在楼外。"
+      ],
+      [
+        "Fans mobbed the singer as she left the theatre.",
+        "歌手离开剧院时，粉丝蜂拥围住她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mob#English",
+      "https://www.etymonline.com/word/mob"
+    ]
+  },
+  {
+    "word": "gum",
+    "ipa": "/ɡʌm/",
+    "meaning": "牙龈；树胶、胶；口香糖；用胶粘住",
+    "sense": "牙齿周围那圈肉是 gums；嘴里嚼的 chewing gum 则接黏性树胶、胶状物的另一来源。刚好都在嘴里常见，也不能把两条历史合成一条。",
+    "split": "牙龈义承古英语 goma；胶义经法语 gome、拉丁 gummi，联系希腊 kommi 与更早埃及胶名。动词用胶粘、使堵塞接胶这一支。",
+    "history": [
+      [
+        "古英语 goma 腭、口腔部分 → gum",
+        "牙龈；常用复数 gums"
+      ],
+      [
+        "另一支：埃及、希腊 kommi → 拉丁 gummi → 法语 gome → gum",
+        "植物胶、黏性物 → 胶、口香糖"
+      ]
+    ],
+    "explanation": "the teeth and gums 牙齿与牙龈，chewing gum 口香糖，gum up a mechanism 黏住、卡住机构。",
+    "usage": "chewing gum；healthy gums；gum up。",
+    "contrast": "牙龈常用复数 gums；口香糖常不可数，按片说 a piece of gum。",
+    "examples": [
+      [
+        "The diagram labels the teeth and gums.",
+        "图上标出了牙齿和牙龈。"
+      ],
+      [
+        "He offered her a piece of chewing gum.",
+        "他递给她一片口香糖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gum#English"
+    ]
+  },
+  {
+    "word": "gummy",
+    "ipa": "/ˈɡʌmi/",
+    "meaning": "黏胶状的、黏的；软糖；露出牙龈的",
+    "sense": "糖浆干成黏糊糊一层，是 gummy 的胶状义；gummy smile 却要回牙龈那一支，描述笑时露出的牙龈。",
+    "split": "gum + -y，双写 m。胶与牙龈两种 gum 都能各自产生形容词；软糖名词还受德语 Gummi 胶、橡胶这一名称影响。",
+    "history": [
+      [
+        "古英语 goma 腭、口腔部分 → gum",
+        "牙龈；常用复数 gums"
+      ],
+      [
+        "另一支：埃及、希腊 kommi → 拉丁 gummi → 法语 gome → gum",
+        "植物胶、黏性物 → 胶、口香糖"
+      ],
+      [
+        "gum + -y → gummy；软糖名词受德语名称影响",
+        "黏胶般的；露牙龈的；软糖"
+      ]
+    ],
+    "explanation": "a gummy residue 黏胶残留物，gummy sweets 软糖，a gummy smile 露牙龈的笑。",
+    "usage": "gummy sweets；a gummy residue；a gummy smile。",
+    "contrast": "gummy smile 与 gummy sweets 的 gum 来源分支不同，读句子时让后面的名词帮你选义。",
+    "examples": [
+      [
+        "The label left a gummy residue on the jar.",
+        "标签在罐子上留下黏胶残渣。"
+      ],
+      [
+        "She bought a packet of gummy sweets.",
+        "她买了一包软糖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gummy#English"
+    ]
+  },
+  {
+    "word": "gumball",
+    "ipa": "英 /ˈɡʌmbɔːl/；美 /ˈɡʌmbɔːl/",
+    "meaning": "球形口香糖；〔植物〕某些胶树的球形果实",
+    "sense": "把 chewing gum 做成圆球，再包一层硬糖衣，就是常见 gumball。名字直接给出内容物与外形。",
+    "split": "gum 口香糖 + ball 球。另有指某些胶树球形果实的用法，前项接树名分支。",
+    "history": [
+      [
+        "另一支：埃及、希腊 kommi → 拉丁 gummi → 法语 gome → gum",
+        "植物胶、黏性物 → 胶、口香糖"
+      ],
+      [
+        "gum + ball → gumball",
+        "球形口香糖；另可依树名指球果"
+      ]
+    ],
+    "explanation": "a gumball machine 球形口香糖售卖机，a colourful gumball 彩色口香糖球。",
+    "usage": "a gumball machine；a round gumball。",
+    "contrast": "gumball 常见糖果是可咀嚼的口香糖球，gummy candy 通常是软糖，两种食品不能只按都圆都甜来混同。",
+    "examples": [
+      [
+        "A gumball machine stood near the shop entrance.",
+        "商店门口附近放着一台球形口香糖售卖机。"
+      ],
+      [
+        "He put a bright red gumball in his pocket.",
+        "他把一颗鲜红的口香糖球放进口袋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gumball#English"
+    ]
+  },
+  {
+    "word": "wrist",
+    "ipa": "/rɪst/",
+    "meaning": "手腕、腕部",
+    "sense": "手和前臂接起来、手表常戴着的地方，是 wrist。它的远亲词族与转动有关，用手掌活动的画面帮助记，但别把身体动作硬说成无限旋转。",
+    "split": "承古英语 wrist，经中古英语延续；联系日耳曼扭、转词族。现代开头 w 不发音，读 /rɪst/。",
+    "history": [
+      [
+        "古英语 wrist → 中古英语 wrist → wrist",
+        "手腕；联系日耳曼转动词族"
+      ],
+      [
+        "身体部位名 + 物品名",
+        "wristband 腕带；wristwatch 腕表"
+      ]
+    ],
+    "explanation": "on the wrist 在手腕上，a flick of the wrist 手腕轻轻一甩，a slap on the wrist 轻微惩戒。",
+    "usage": "a wristwatch；a wristband；a flick of the wrist。",
+    "contrast": "wrist 是腕，ankle 是踝；a slap on the wrist 常比喻处罚很轻，不必真的拍手腕。",
+    "examples": [
+      [
+        "She wore a silver watch on her wrist.",
+        "她手腕上戴着一块银色手表。"
+      ],
+      [
+        "He opened the fan with a flick of his wrist.",
+        "他手腕一甩，打开了扇子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrist#English"
+    ]
+  }
+]

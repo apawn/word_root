@@ -1,0 +1,187 @@
+[
+  {
+    "id": "B2448",
+    "meaning": "颜色、着色与配色；人物和产品版本分清",
+    "core": "COLOR：看到的颜色，也可给判断染上倾向",
+    "image": "已有 color 与常见 colorful、colourless 等先读；colored、colorist、colorway 分状态、人员和版本。",
+    "intro": "color/colour 是常见英美拼写对应，派生中同样有对应。不是每个有颜色的对象都色彩缤纷。",
+    "forms": "color + -ed/-ful/-ist/way；colour + -less；multi- + color；discolor 有借入历史。",
+    "branches": [
+      [
+        "颜色、状态和否定",
+        "color · colored · colorful · colourless · discolor"
+      ],
+      [
+        "多色、配色人员与版本",
+        "multicolor · colorist · colorway"
+      ]
+    ],
+    "contrasts": "colored 可以一种颜色，colorful 常多彩；colorist 上色人员，colorway 产品配色；称人 colored 有语域问题。",
+    "practice": "The colorist chose a colorful new colorway for the design.\n\n配色师为设计选了一套鲜明的新配色。",
+    "words": [
+      "color",
+      "colored",
+      "colorful",
+      "colourless",
+      "discolor",
+      "multicolor",
+      "colorist",
+      "colorway"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3080",
+    "meaning": "知道所形成的知识；知情与事先知情",
+    "core": "KNOWLEDGE：知道的内容；FOREKNOWLEDGE：事情之前就知道",
+    "image": "已有 knowledge、knowledgeable 连读，再 foreknowledge；含连字符形式继续略过。",
+    "intro": "知识不只书本信息，也可说对具体情况知情。knowledge 的旧名词结尾不拆成 edge 边缘。",
+    "forms": "中古 knowen + -leche 等 → knowledge；knowledge + -able；fore- + knowledge。",
+    "branches": [
+      [
+        "知识、懂行与提前知道",
+        "knowledge · knowledgeable · foreknowledge"
+      ]
+    ],
+    "contrasts": "knowledgeable 人懂得多，foreknowledge 事先知情；prediction 做预测不保证知道结果。",
+    "practice": "The knowledgeable reader had foreknowledge of the historical events.\n\n这位懂行的读者事先了解那些历史事件。",
+    "words": [
+      "knowledge",
+      "knowledgeable",
+      "foreknowledge"
+    ],
+    "exclude": {
+      "self-knowledge": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "knowledge-box": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2461",
+    "meaning": "字母与写成的信；通信、抬头、信箱与印刷",
+    "core": "LETTER：字母；写成一封寄出去的消息也是信",
+    "image": "复用已有 letter、newsletter、letterhead、letterbox、letterpress 精讲，按用途分组；较专门 letterman 暂略。",
+    "intro": "拉丁 littera 经法语进入英语，单个字母与写成消息的联系保留至今；不是每个带 letter 的词都只接书信。",
+    "forms": "letter → letters；news + letter；letter + head/box/press。",
+    "branches": [
+      [
+        "基本字母、信和通信",
+        "letter · newsletter"
+      ],
+      [
+        "信纸、收信和印刷",
+        "letterhead · letterbox · letterpress"
+      ]
+    ],
+    "contrasts": "letter 单个字母或信，newsletter 通讯；letterhead 信纸抬头、letterpress 活版印刷，后者接字模印刷。",
+    "practice": "The newsletter was printed on paper with the company’s letterhead.\n\n通讯印在带公司抬头的纸上。",
+    "words": [
+      "letter",
+      "newsletter",
+      "letterhead",
+      "letterbox",
+      "letterpress"
+    ],
+    "exclude": {
+      "letterman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4248",
+    "meaning": "引起兴趣的性质、相应副词与否定",
+    "core": "INTERESTING：它能引起你的兴趣；不是你已感兴趣",
+    "image": "复用已有 interesting、interestingly、uninteresting 精讲，集中比较描述对象、评论整句和否定。",
+    "intro": "interesting 接 interest 的 -ing 形容词，说明引起兴趣；与 interested 的感兴趣者角色不同，基础词页已有对应。",
+    "forms": "interest + -ing → interesting；interesting + -ly；un- + interesting。",
+    "branches": [
+      [
+        "引起兴趣、评论与否定",
+        "interesting · interestingly · uninteresting"
+      ]
+    ],
+    "contrasts": "interesting 对象有趣，interested 人感兴趣；interestingly 可评论后面整句话，不只是动作做得有趣。",
+    "practice": "Interestingly, an apparently uninteresting detail led to an interesting discovery.\n\n有意思的是，一个看似无趣的细节引出了有趣发现。",
+    "words": [
+      "interesting",
+      "interestingly",
+      "uninteresting"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4044",
+    "meaning": "大、壮观、体面；亲属、头衔、看台的固定组合",
+    "core": "GRAND：规模、地位或气势大；组合里另有固定传统",
+    "image": "复用已有 grand、grandly、granny、grandmaster、grandstand 精讲；亲属和看台不要放成随意混排。",
+    "intro": "grand 经法语接拉丁 grandis 大，后来家族辈分、尊称、建筑等各有固定用法；granny 是祖母称呼的缩略小称。",
+    "forms": "grand + -ly；granny 接 gran(nam) + -y；grand + master/stand。",
+    "branches": [
+      [
+        "基本规模和气势",
+        "grand · grandly"
+      ],
+      [
+        "亲属、地位和设施",
+        "granny · grandmaster · grandstand"
+      ]
+    ],
+    "contrasts": "grand 也可口语一千钱单位；granny 不是 grand 后面简单改 y；grandstand 看台及其炫示动词看具体场景。",
+    "practice": "The grandmaster watched from the grandstand while her granny cheered.\n\n那位大师在看台观看比赛，她奶奶则在一旁加油。",
+    "words": [
+      "grand",
+      "grandly",
+      "granny",
+      "grandmaster",
+      "grandstand"
+    ],
+    "exclude": {
+      "great-grand": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4198",
+    "meaning": "打开、开端与可进入的机会",
+    "core": "OPENING：开出来的口子、事情开头、可进入的机会",
+    "image": "复用已有 opening 精讲，把开口、开场、职位空缺连到可以进入的新空间。含连字符词头暂略。",
+    "intro": "open 的分词、活动名词有旧英语形式。名词 opening 不必只有洞，也可一项工作机会、一次开场。",
+    "forms": "open + -ing；the opening of 活动，an opening 可具体开口或机会；opening 修饰时可开场的。",
+    "branches": [
+      [
+        "基本活动、开口和机会",
+        "opening"
+      ]
+    ],
+    "contrasts": "an opening 职位空缺或机会，the opening 开场靠语境；不把所有 -ing 都只译正在打开。",
+    "practice": "The opening of the new store created a job opening.\n\n新店开业带来了一个职位空缺。",
+    "words": [
+      "opening"
+    ],
+    "exclude": {
+      "self-opening": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eye-opening": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "re-re-opening": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3910",
+    "meaning": "学习过程、所学知识与学问",
+    "core": "LEARNING：学的过程，也可学到的知识积累",
+    "image": "复用已有 learning 精讲，先分活动与知识，再看 learning experience、learning process 等常见搭配。含连字符扩展按要求暂略。",
+    "intro": "学习名词有古英语 leornung 等旧形式，现代对应 learn + -ing；不因为收词表列为独立词基就编出第二个远古词根。",
+    "forms": "learn + -ing；a learning experience 是能让人学到东西的经历。",
+    "branches": [
+      [
+        "活动和知识",
+        "learning"
+      ]
+    ],
+    "contrasts": "learning 学习或学问，teaching 教学；a learning experience 不一定是愉快经历，也可从失误学到东西。",
+    "practice": "The difficult project became a valuable learning experience.\n\n这个困难项目成了一次宝贵的学习经历。",
+    "words": [
+      "learning"
+    ],
+    "exclude": {
+      "e-learning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-learning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,147 @@
+"""Siege, discharge, notification, receipt and leisure families."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C1297':dict(words=['sit','sedentary','siege','sieges','besiege','besieged'],label='坐、驻留到围困：siege、besiege',note='siege 经法语座位词接拉丁 sedere，围城义联系驻在城外；英语 sit 是同源继承，非拉丁借入。'),
+ 'B3891':dict(words=['charge','discharge','discharges','discharged','discharging'],label='charge → discharge：装上负担与卸下、放出',note='discharge 经古法语 deschargier、后期拉丁 discarricare 借入，现代可对照 dis 加 charge，不把所有义项编成一次造词事件。'),
+ 'C0496':dict(words=['notice','notify','notification'],label='使人知道：notify 与 notification',note='拉丁 notus 已知加 facere 使形成 notificare，名词经法语、拉丁另借；不与 nota 标记的争议关系混为一谈。'),
+ 'C0168':dict(words=['receive','receipt','receipts'],label='receive 与 receipt：收到，收到的凭证',note='两词分别经法语相关形式接拉丁 recipere；receipt 后来恢复字母 p，但常用读音未恢复 p。'),
+ 'B4140':dict(words=['license','leisure','leisurely'],label='许可、空闲的拉丁词族：license 与 leisure',note='leisure 经法语 leisir、loisir 的名词化不定式，接 licere 被允许；不从现代 license 直接换拼写。'),
+ 'B4270':dict(words=['molecule','molecules'],label='molecule → molecules：拉丁指小材料到现代分子名',note='法语、现代拉丁 molecula 接 moles，一小团的构词历史不等于现代科学定义只按大小判断。'),
+ 'B4280':dict(words=['journal','journals'],label='journal → journals：每日记录词到期刊、日记',note='拉丁每日的材料经法语进入，现代期刊不受旧每日来源限定发行频率。'),
+}
+W('siege','/siːdʒ/','围攻、围困；被困的局面〔常用比喻〕',
+ '守在一个地方外面，把它围住、施加持续压力，是 siege。词源最初和坐、驻留有关：军队在城外驻下来，形成围困。',
+ '经古法语 siege、sege 座位，接通俗拉丁重建形 *sedicum，较早是 sedere 坐。英语先有座椅旧义，后有围困义；*sedicum 的星号表示重建。',
+ [['拉丁 sedere → *sedicum → 古法语 siege、sege','坐 → 座位、驻留位置'],['英语 siege 的军事与比喻义','驻在一地外围 → 围困、持续施压的局面']],
+ 'under siege 被围困、受到持续压力；lay siege to a castle 围攻城堡；lift a siege 解除围困。',
+ 'a long siege 长期围困；a city under siege 被围的城市。',
+ 'siege 是名词，常用 lay siege to 或 be under siege。sit 与它有更早同源关系，但英语 sit 不是从法语 siege 直接变出来。',
+ ('The novel describes a city under siege.','小说描写了一座被围困的城市。'),('The siege lasted for several weeks.','围困持续了几个星期。'),sources=['https://en.wiktionary.org/wiki/siege#English','https://www.etymonline.com/word/siege'])
+W('sieges','/ˈsiːdʒɪz/','围攻、围困〔复数〕；围攻〔较少见的第三人称单数〕',
+ '不同年代发生过几次围城，或同一地区经历过几场持续围困，可以说 sieges。它数的是一个个围困事件。',
+ 'siege 的法语座位、驻留词接拉丁 sedere。现代加 -s，/dʒ/ 后读 /ɪz/；拼写是 siege 直接加 s，保留已有 e。',
+ [['拉丁坐、法语座位材料 → siege','驻留 → 围困的事件'],['siege + -s → sieges','多次围攻；少见动词三单同形']],
+ 'famous sieges 著名围城事件；several sieges 多次围困；accounts of sieges 围城事件的记述。',
+ 'long sieges 长期围困；sieges described in the book 书中记述的几次围城。',
+ '日常学习先掌握名词 sieges。表达对某地实施围困，更常见的动词是 besiege，或 lay siege to 的搭配。',
+ ('The book compares three medieval sieges.','这本书比较了三次中世纪围城事件。'),('The castle survived several sieges.','这座城堡经历几次围攻后仍保存了下来。'),sources=['https://en.wiktionary.org/wiki/sieges#English','https://en.wiktionary.org/wiki/siege#English'])
+W('besiege','/bɪˈsiːdʒ/','围攻、围困；把某人围住、使应接不暇〔比喻〕',
+ 'siege 是围困这件事，besiege 把它变成对某处施加围困的动作。许多人带着问题围住一个人，也可以借这个画面说 besiege。',
+ '英语 be- + siege 构成施加围困的动词。这里 be- 是构词前缀，不是动词 be 是；siege 自身经法语接拉丁坐、座位材料。',
+ [['拉丁座位词族 → 法语、英语 siege','坐、驻留 → 围困'],['be- + siege → besiege','对某处施加围困 → 比喻用请求、问题包围']],
+ 'besiege a castle 围攻城堡；besiege someone with questions 用一连串问题围住某人。',
+ 'besiege the office with requests 向办公室涌来大量请求；be besieged by reporters 被记者围住。',
+ 'besiege 的比喻义通常强调人多、请求多或持续施压。一个普通问题不必用这样强的词。',
+ ('In the story, the army prepares to besiege the castle.','故事里，军队准备围攻城堡。'),('Visitors sometimes besiege the guide with questions.','访客们有时用接连不断的问题围住向导。'),sources=['https://en.wiktionary.org/wiki/besiege#English','https://www.etymonline.com/word/siege'])
+W('besieged','/bɪˈsiːdʒd/','被围困的、围攻了；被大量请求包围的〔过去式、过去分词及形容词〕',
+ '一个地方外面一直有人围着，或一个人被大量问题围得腾不出手，就是 besieged。实物围困和比喻压力都抓住被包围。',
+ 'besiege 为 be- + siege。现代去末尾不发音 e，加完整 -ed，/dʒ/ 后读 /d/，结尾 /dʒd/ 不另添音节。',
+ [['be- + siege → besiege','对某处施加围困；比喻问题蜂拥而来'],['besiege 去 e + -ed → besieged','已经围攻；受到围困或大量请求包围']],
+ 'a besieged city 被围的城市；besieged with questions 被接连提问；besieged by visitors 被访客围住。',
+ 'the besieged castle 被围的城堡；felt besieged 感到被压力团团围住。',
+ 'besieged with requests 不在说真的战争，通常是夸张表达请求太多。被围困的地点或被催问的人，由主语和后面的介词短语辨认。',
+ ('The novel follows a family in a besieged city.','小说写了一个生活在被围城市里的家庭。'),('The guide was besieged with questions after the tour.','参观结束后，向导被接连不断的问题围住了。'),sources=['https://en.wiktionary.org/wiki/besieged#English','https://en.wiktionary.org/wiki/besiege#English'])
+W('discharge','动词：英 /dɪsˈtʃɑːdʒ/、美 /dɪsˈtʃɑːrdʒ/；名词：英 /ˈdɪstʃɑːdʒ/、美 /ˈdɪstʃɑːrdʒ/','放出、排出；卸下、解除；履行职责；排放、离开许可〔名词〕',
+ 'charge 有装上、负担的历史，discharge 先抓卸下、放出去。水排出、人员获准离开、责任被完成，都能围绕不再压在原处来理解。',
+ '经古法语 deschargier 卸载，接后期拉丁 discarricare：dis- 撤去、反向 + carricare 装车，较早 carrus 车。现代可对照 dis- + charge，但整词历史先在法语、拉丁形成。',
+ [['拉丁 carrus、carricare → discarricare → 法语 deschargier','装车 → 卸载、解除负担'],['英语 discharge 的多路发展','排出、释放；解除职责或通过履行完成职责；名词排放等']],
+ 'discharge water 排水；discharge duties 履行职责；discharge a patient 准许病人出院。',
+ 'a discharge of water 一次排水；discharge from a job 免去职务。',
+ 'discharge duties 是履行完应做的事，discharge someone from duties 是解除这个人的职责。相近画面在不同结构里方向不同，名词、动词常见重音也不同。',
+ ('The pipe can discharge water into the tank.','管道可以把水排进水箱。'),('The discharge of water slowed overnight.','夜间排水速度慢了下来。'),sources=['https://en.wiktionary.org/wiki/discharge#English','https://www.etymonline.com/word/discharge'])
+W('discharges','动词：英 /dɪsˈtʃɑːdʒɪz/、美 /dɪsˈtʃɑːrdʒɪz/；名词：英 /ˈdɪstʃɑːdʒɪz/、美 /ˈdɪstʃɑːrdʒɪz/','排出、放出、履行〔第三人称单数〕；排放事件、排出物等〔复数〕',
+ '管道把水往外送，是 discharges；记录里一次次排水，也能叫 discharges。一个说动作，一个把发生的事件或排出物数起来。',
+ 'discharge 接法语、后期拉丁卸载材料。现代直接加 -s，/dʒ/ 后读 /ɪz/，保留已有 e；名词前重音、动词后重音仍分开。',
+ [['拉丁、法语卸载词 → discharge','解除、卸下 → 排出、完成职责等'],['discharge + -s → discharges','某主体排出、履行；多次排放或排出物']],
+ 'discharges into a channel 排入水道；discharges his duties 履行职责；water discharges 排水事件或排水量等。',
+ 'records of discharges 排放记录；discharges from the pipe 管道的排出物、排放。',
+ 'discharges 的宾语决定它是排水、履职还是别的解除用法。不能只见到 dis- 就把所有句子都翻成不做某事。',
+ ('The pipe discharges into a channel.','管道排入一条水道。'),('The report records several discharges of water.','报告记录了几次排水。'),sources=['https://en.wiktionary.org/wiki/discharges#English','https://en.wiktionary.org/wiki/discharge#English'])
+W('discharged','英 /dɪsˈtʃɑːdʒd/；美 /dɪsˈtʃɑːrdʒd/','排出了、放电了；获准离开；履行了〔过去式、过去分词〕',
+ '原来存着的东西放出去了，或原来承担的责任做完了，都能用 discharged。人获准从医院等机构离开，也是被解除原来留在那里的一种状态。',
+ 'discharge 经古法语 deschargier 接后期拉丁卸载词族。现代去末尾 e 加完整 -ed，/dʒ/ 后读 /d/，不另加 /ɪd/。',
+ [['法语、拉丁卸载材料 → discharge','卸下、解除 → 放出、获准离开、完成职责'],['discharge 去 e + -ed → discharged','已经排出、放电、离开或履行']],
+ 'discharged her duties 履行了职责；a discharged battery 放过电的电池；was discharged from hospital 获准出院。',
+ 'discharged the water 排出了水；discharged from service 退役、解除服役。',
+ 'discharged duties 说履行，was discharged from duties 说职责被解除。别只凭同一个过去形式，就把主被动方向看成一样。',
+ ('The battery slowly discharged during the test.','测试中，电池逐渐放电。'),('She discharged her duties faithfully.','她忠实地履行了职责。'),sources=['https://en.wiktionary.org/wiki/discharged#English','https://en.wiktionary.org/wiki/discharge#English'])
+W('discharging','英 /dɪsˈtʃɑːdʒɪŋ/；美 /dɪsˈtʃɑːrdʒɪŋ/','排出、放电；解除、履行职责〔现在分词、动名词〕',
+ '正在把原来装着的东西放出去，是 discharging；若对象是 duties，则是在履行应做的责任，不是在把职责一股脑扔掉。',
+ 'discharge 的拉丁、法语路线有卸载、解除材料。现代去末尾 e，加完整 -ing，g 在 i 前仍属于 /dʒ/，不把 -ging 编成独立后缀。',
+ [['拉丁、法语卸载词 → discharge','装载的反向 → 卸下、放出；也有履行完成义'],['discharge 去 e + -ing → discharging','排出、解除或履行的过程']],
+ 'discharging water 排水；discharging a battery 电池放电；discharging duties 履行职责。',
+ 'a discharging pipe 正在排水的管道；while discharging his duties 履职时。',
+ 'discharging 和 charging 在电学语境里方向相反。履职语境却要直接连 duties 理解，不套成给责任充电、放电的字面故事。',
+ ('The pipe is discharging water into a tank.','管道正在把水排进水箱。'),('Discharging these duties took most of her day.','履行这些职责占了她一天的大部分时间。'),sources=['https://en.wiktionary.org/wiki/discharging#English','https://en.wiktionary.org/wiki/discharge#English'])
+W('notify','英 /ˈnəʊtɪfaɪ/；美 /ˈnoʊtɪfaɪ/','通知、告知',
+ '让原来不知道的人知道某件事，就是 notify。它常比 tell 更正式，通知对象、通知内容通常都要交代清楚。',
+ '经法语 notifier、notefiier 接拉丁 notificare：notus 已知 + facere 使、做。现代可联系 not- 已知的材料和 -ify 使……来认形，历史上是整词借入，不是英语 not 不加某个词。',
+ [['拉丁 notus + facere 对应材料 → notificare → 法语','已知 + 使 → 使人知道'],['法语 → 英语 notify','通知、正式告知某人']],
+ 'notify someone of a change 告知某人变化；notify them that… 通知他们……；notify the office 通知办公室。',
+ 'notify users 通知用户；notify in writing 书面通知。',
+ 'notify 常让人先想到接收通知的人；notice 常是自己注意到。I notice a change 是我发现变化，I notify you of a change 是我把变化告诉你。',
+ ('Please notify us of any change in the schedule.','时间安排若有变化，请通知我们。'),('The school will notify parents that the trip has been postponed.','学校会通知家长，行程已推迟。'),sources=['https://en.wiktionary.org/wiki/notify#English','https://www.etymonline.com/word/notify'])
+W('notification','英 /ˌnəʊtɪfɪˈkeɪʃən/；美 /ˌnoʊtɪfɪˈkeɪʃən/','通知、告知；一条通知消息',
+ '告诉别人某件事，这个告知行为是 notification；屏幕上或邮件里实际收到的一条告知消息，也可以叫 a notification。',
+ '经法语 notificacion、notification 及拉丁 notificatio 借入，连 notificare 使人知道。与 notify 构成动词、名词对应，但名词有独立借入路线；notific- 接拉丁名词 -atio 的历史，不是英语 notify 原样加 -ation。',
+ [['拉丁 notificare → notificatio → 法语名词','使人知道 → 告知行为、通知'],['法语、拉丁 → 英语 notification','正式告知；现代一条通知消息']],
+ 'receive a notification 收到通知；written notification 书面通知；notification of a change 变更通知。',
+ 'a notification message 一条通知消息；advance notification 提前通知。',
+ 'notification 可以是不可数的告知行为，也可以数一条条具体消息。应用里的通知是一种现代使用场景，不等于这个词只有弹窗的意思。',
+ ('I received a notification about the timetable change.','我收到了关于时间表变更的通知。'),('Written notification was sent to all participants.','书面通知已发给所有参加者。'),sources=['https://en.wiktionary.org/wiki/notification#English','https://www.etymonline.com/word/notify'])
+W('receipt','/rɪˈsiːt/','收据、收条；收到、接收〔正式用法〕',
+ '商店收到了你的钱，给你一张确认收款的凭证，是 receipt；正式表达 on receipt of 则直接说收到某物时。核心是收到了什么。',
+ '经盎格鲁法语 receite、相关 recete 接拉丁 recepta、receptus 的收到材料，属于 recipere 的词族，与 receive 相关。英语后来按拉丁恢复字母 p，读音却没有恢复 /p/。',
+ [['拉丁 recipere、接收分词材料 → 法语 receite、recete','收到的东西、款项 → 接收行为等'],['英语 receit → receipt；凭证义发展','恢复不发音 p 的拼写；收到款项的书面证明']],
+ 'a receipt for the books 买书的收据；keep the receipt 留存收据；on receipt of the letter 收到信时。',
+ 'acknowledge receipt 确认收到；a paper receipt 纸质收据。',
+ 'receipt 里的 p 不发音；recipe 食谱也是相关历史材料的另一借词。现代 receipt 常先记凭证和收到，不用把食谱的旧同义用法也当日常核心义。',
+ ('She put the receipt in her bag.','她把收据放进包里。'),('Please confirm receipt of the letter.','请确认已收到这封信。'),sources=['https://en.wiktionary.org/wiki/receipt#English','https://www.etymonline.com/word/receipt'])
+W('receipts','/rɪˈsiːts/','收据、收条〔复数〕；收入、进款〔复数用法〕',
+ '盒里一张张收据，是 receipts；把某段时间实际收进的钱合起来谈，也能用 receipts。一个是收到的凭证，一个是收到的款项。',
+ 'receipt 经法语接拉丁接收分词材料，与 receive 同族，p 是后来的拉丁化拼写，不发音。现代加 -s，/t/ 后读 /s/，结尾 /ts/。',
+ [['拉丁、法语接收材料 → 英语 receipt','收到、收款凭证；进款相关意义'],['receipt + -s → receipts','多张收据；合计收到的款项']],
+ 'keep the receipts 留好收据；ticket receipts 售票收入；cash receipts 现金进款。',
+ 'a box of receipts 一盒收据；receipts from the concert 音乐会收入。',
+ 'receipts 不等于 profits 利润；进来的钱还未必扣除成本。具体是纸面凭证还是进款，看它与 file、ticket、cash 等什么词一起出现。',
+ ('He filed the receipts in a folder.','他把收据整理进文件夹。'),('Ticket receipts were used to support the school club.','售票收入用于支持学校俱乐部。'),sources=['https://en.wiktionary.org/wiki/receipts#English','https://en.wiktionary.org/wiki/receipt#English'])
+W('leisure','英 /ˈleʒə/；美 /ˈliːʒər/','闲暇、可自由支配的时间',
+ '不被眼前必须做的事情占满，可以按自己意愿安排的一段时间，是 leisure。它强调时间有余地，不规定你一定要做哪种娱乐。',
+ '经法语 leisir、loisir 的名词化用法，较早是被允许、有自由的动词，接拉丁 licere 被允许。与 license 许可同族，各有借入路线，不是英语 license 直接改成 leisure。',
+ [['拉丁 licere → 法语 leisir、loisir','被允许、有自由 → 可自行支配的机会、时间'],['法语名词用法 → 英语 leisure','空闲、闲暇；无须匆忙的状态']],
+ 'leisure time 闲暇时间；at leisure 从容地；at your leisure 有空时、方便时。',
+ 'leisure activities 闲暇活动；read for leisure 为休闲而阅读。',
+ 'leisure 是时间或状态，pleasure 是快乐感受。空闲可以让人得到快乐，但两词不因尾音相近就成为同一个词源或意思。',
+ ('She spends her leisure time reading.','她把闲暇时间用来阅读。'),('You can look through the book at your leisure.','你可以有空时慢慢翻看这本书。'),sources=['https://en.wiktionary.org/wiki/leisure#English','https://www.etymonline.com/word/leisure'])
+W('leisurely','英 /ˈleʒəli/；美 /ˈliːʒərli/','从容的、不赶时间的；从容地',
+ '脚步、节奏留着余地，不慌不忙，是 leisurely。它先描述速度和状态从容，不必是在偷懒或完全没有事情做。',
+ '形容词 leisure + -ly。副词有直接 leisure 加副词 -ly 的分析，也有从较早 leisurelily 因重复音节简化而来的分析；现代两种词性同形，不能只见 ly 就定为副词。',
+ [['leisure + 形容词 -ly → leisurely','闲暇 → 从容、不赶时间的'],['副词来源的两种分析','leisure 加副词 -ly；或 leisurelily 重复音节简化 → 从容地']],
+ 'a leisurely walk 从容的散步；a leisurely pace 不紧不慢的速度；walk leisurely 从容地走。',
+ 'a leisurely breakfast 不赶时间的早餐；a leisurely afternoon 悠闲的下午。',
+ 'leisurely 可以放在名词前作形容词。a leisurely walk 是常见搭配，不需要为了 ly 结尾强行把它改作别的结构。',
+ ('We took a leisurely walk by the river.','我们沿河从容地散步。'),('They enjoyed a leisurely breakfast in the garden.','他们在花园里慢悠悠地吃了一顿早餐。'),sources=['https://en.wiktionary.org/wiki/leisurely#English','https://www.etymonline.com/word/leisurely'])
+W('molecules','/ˈmɒlɪkjuːlz/；美 /ˈmɑːlɪkjuːlz/','分子〔复数〕',
+ '谈一种物质在微观层面由怎样的分子组成，会说 molecules。把它想成一个个分子单位，有助于看懂它与 atoms 原子、particles 粒子的关系。',
+ 'molecule 借法语 molecule，接现代拉丁 molecula：拉丁 moles 一团、质量的指小形式，对应英语 -cule 的指小历史。现代再加 -s，/l/ 后读 /z/。',
+ [['拉丁 moles → 现代拉丁 molecula → 法语、英语 molecule','一团、质量 → 指小形式；后来用于现代分子概念'],['molecule + -s → molecules','多个分子；完整保留历史指小结尾 -cule']],
+ 'water molecules 水分子；molecules in a gas 气体中的分子；a model of molecules 分子模型。',
+ 'different molecules 不同分子；molecules and atoms 分子与原子。',
+ '-cule 的小是构词历史，不是只要很小就能叫 molecule 的科学定义。atoms、molecules、particles 要按所讨论的结构层次分清。',
+ ('The model shows three water molecules.','模型展示了三个水分子。'),('The lesson compares atoms and molecules.','这节课比较了原子和分子。'),sources=['https://en.wiktionary.org/wiki/molecules#English','https://en.wiktionary.org/wiki/molecule#English'])
+W('journals','英 /ˈdʒɜːnəlz/；美 /ˈdʒɜːrnəlz/','期刊、杂志；日记、日志〔复数〕',
+ '定期把研究、文章汇成一期，是 journals 的期刊义；把每天经历或观察记下来，也能有一本本 journals。',
+ 'journal 经法语接拉丁每日的材料，和 jour 日、diurnalis 等词形相关。现代直接加 -s，/l/ 后读 /z/；旧每日来源不要求现代期刊天天出版。',
+ [['拉丁每日材料 → 法语、英语 journal','一天的记录、日常事项 → 日记、刊物'],['journal + -s → journals','多份期刊、多本日记或日志']],
+ 'academic journals 学术期刊；keep journals 写日记、保留日志；travel journals 旅行日志。',
+ 'articles in journals 期刊文章；old journals 旧期刊或日记本。',
+ 'journals 是期刊还是私人记录，要看 academic、research、personal、travel 等语境。不能只因词源含每日就断定每一种都是日报。',
+ ('She reads several academic journals.','她阅读几种学术期刊。'),('His travel journals describe the old port.','他的旅行日志描写了那座旧港口。'),sources=['https://en.wiktionary.org/wiki/journals#English','https://en.wiktionary.org/wiki/journal#English'])
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zcc',ROOTS,WORDS)
+ extend_lessons()

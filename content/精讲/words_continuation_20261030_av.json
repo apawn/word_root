@@ -1,0 +1,581 @@
+[
+  {
+    "word": "brain",
+    "ipa": "/breɪn/",
+    "meaning": "脑；智力；聪明人、策划者",
+    "sense": "头里的器官负责许多活动；日常把动脑的能力、想办法的人也借叫 brain。",
+    "split": "继承古英语 bræġn、brægen 等形式，更远比较来源有争议，本文不把某个重建说法当定论。能力义常用复数 brains，人物义常见 the brains behind。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ]
+    ],
+    "explanation": "use your brain 动脑，a brain scan 脑扫描，have brains 聪明，the brains behind the project 项目背后的策划者。",
+    "usage": "a brain scan；use your brain；have brains；the brains behind。",
+    "contrast": "brain 器官及其能力比喻，mind 更常说思想、意识、心智；并非每处 head 头、mind 心智都能直接换成 brain。",
+    "examples": [
+      [
+        "This puzzle really makes you use your brain.",
+        "这个谜题真得让你好好动脑。"
+      ],
+      [
+        "She is the brains behind the new design.",
+        "新设计背后的主脑是她。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brain#English"
+    ]
+  },
+  {
+    "word": "brainy",
+    "ipa": "/ˈbreɪni/",
+    "meaning": "聪明的；学问、智力出众的〔口语〕",
+    "sense": "别人夸你很会动脑、读书或解决难题，口语就可说 brainy。",
+    "split": "brain + -y，中古英语已有相关形式。现代通常夸能力，不是解剖上脑子尺寸特别大。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "brain + -y → brainy",
+        "有头脑、聪明的"
+      ]
+    ],
+    "explanation": "a brainy student 聪明学生，the brainy one 那个智力出众的人。语气较口语。",
+    "usage": "a brainy student；the brainy one；a brainy solution。",
+    "contrast": "brainy 常偏智力、学习本领，wise 更偏判断有智慧；聪明不保证每次做出成熟选择。",
+    "examples": [
+      [
+        "She was a brainy child who loved solving puzzles.",
+        "她小时候很聪明，爱解谜题。"
+      ],
+      [
+        "He is brainy, but he also explains things clearly.",
+        "他很聪明，也能把事情讲清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brainy#English"
+    ]
+  },
+  {
+    "word": "brainless",
+    "ipa": "/ˈbreɪnləs/",
+    "meaning": "没脑子的、愚蠢的；无需思考的",
+    "sense": "人明明有脑，却像没用上；也可说任务单调到不用动脑。",
+    "split": "brain + -less，中古英语已有相应形式。日常多是评价或夸张，不是真作器官诊断。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "brain + -less → brainless",
+        "缺少脑、头脑；日常愚蠢或不需思考"
+      ]
+    ],
+    "explanation": "a brainless decision 愚蠢决定，brainless entertainment 无需动脑的娱乐。称人 brainless 带侮辱意味。",
+    "usage": "a brainless decision；brainless entertainment；a brainless task。",
+    "contrast": "brainless 贬愚蠢、不动脑，mindless 可说机械、无意识；两者有重合，但都不应自动当医学判断。",
+    "examples": [
+      [
+        "Leaving the door open was a brainless mistake.",
+        "把门敞着是个没过脑子的错误。"
+      ],
+      [
+        "After work, he wanted some brainless entertainment.",
+        "下班后，他想看点不用动脑的娱乐内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brainless#English"
+    ]
+  },
+  {
+    "word": "brainstorm",
+    "ipa": "英 /ˈbreɪnstɔːm/；美 /ˈbreɪnstɔːrm/",
+    "meaning": "集思广益；集中想点子；灵感、妙计〔名词〕",
+    "sense": "把脑子调动起来，一口气抛出各种可能的办法，先让点子冒出来。",
+    "split": "brain + storm，较早有头脑剧烈紊乱的旧用法，后来出现灵感、集中思考用法，并形成团队创意方法。现代不能仅按旧病理义理解。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "brain + storm → brainstorm",
+        "旧脑内剧烈变化形象；后发展灵感、集中攻问题的用法"
+      ]
+    ],
+    "explanation": "brainstorm ideas 集中想点子，brainstorm solutions 集思广益找办法。动词常直接接 ideas、solutions，也可不带宾语。",
+    "usage": "brainstorm ideas；brainstorm solutions；have a brainstorm。",
+    "contrast": "brainstorm 常强调先拓展可能性，evaluate 评估则检验优劣；实际讨论可交替进行，但动作重点不同。",
+    "examples": [
+      [
+        "Let’s brainstorm a few ideas before choosing one.",
+        "我们先想出几个点子，再选一个。"
+      ],
+      [
+        "The team met to brainstorm solutions to the problem.",
+        "团队开会集思广益，寻找解决办法。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/brainstorm",
+      "https://en.wiktionary.org/wiki/brainstorm#English"
+    ]
+  },
+  {
+    "word": "brainstorming",
+    "ipa": "英 /ˈbreɪnstɔːmɪŋ/；美 /ˈbreɪnstɔːrmɪŋ/",
+    "meaning": "头脑风暴；集思广益、发散想点子的活动",
+    "sense": "把 brainstorm 当作一段活动来安排：大家或一个人集中产出可能的想法。",
+    "split": "brainstorm + -ing。现代创意方法在20世纪得到推广，不能从词形推断必须有多人或一定有效。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "brainstorm + -ing → brainstorming",
+        "集中产生点子的活动、方法"
+      ]
+    ],
+    "explanation": "a brainstorming session 头脑风暴讨论，individual brainstorming 个人发散构思。",
+    "usage": "a brainstorming session；individual brainstorming；brainstorming ideas。",
+    "contrast": "brainstorming 活动，brainstorm 动词或点子名词；a brainstorming session 说一场讨论，通常不把 brainstorming 本身随意加复数。",
+    "examples": [
+      [
+        "We held a brainstorming session on Friday.",
+        "周五我们开了一场头脑风暴讨论。"
+      ],
+      [
+        "She spent ten minutes brainstorming possible titles.",
+        "她花了十分钟发散思考可能的标题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brainstorming#English"
+    ]
+  },
+  {
+    "word": "brainwave",
+    "ipa": "/ˈbreɪnweɪv/",
+    "meaning": "脑电波；灵机一动、妙计〔英式常用〕",
+    "sense": "科学语境是脑电活动的波形；日常说突然想到个好办法，是另一路形象用法。",
+    "split": "brain + wave。脑电活动与灵感两义不能编成先测到某道波才有好主意的因果关系。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "brain + wave → brainwave",
+        "脑电波；另有突然好主意的比喻"
+      ]
+    ],
+    "explanation": "record brainwaves 记录脑电波，have a brainwave 灵机一动。读复数 brains 与脑波 brainwaves 时别混淆。",
+    "usage": "record brainwaves；have a brainwave；a sudden brainwave。",
+    "contrast": "brainwave 英式常可妙计，brainstorm 也有灵感义，但动词 brainstorm ideas 通常讲集中构思。",
+    "examples": [
+      [
+        "The equipment records changes in brainwaves.",
+        "设备记录脑电波的变化。"
+      ],
+      [
+        "Then I had a brainwave: we could use the empty room.",
+        "接着我灵机一动：我们可以用那间空房。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brainwave#English"
+    ]
+  },
+  {
+    "word": "brainwash",
+    "ipa": "英 /ˈbreɪnwɒʃ/；美 /ˈbreɪnwɑːʃ/",
+    "meaning": "给……洗脑；反复灌输以改变信念",
+    "sense": "像要把原有想法洗掉，再塞入另一套；这是思想操控的比喻，不是真清洗脑器官。",
+    "split": "brain + wash 可直接认形，来源是中文洗脑的仿译。英语动词可能由较早 brainwashing 逆构，不要按短词一定先于长词排列历史。",
+    "history": [
+      [
+        "中文 洗脑 → 英语 brainwashing 等",
+        "按洗、脑两个意思仿译"
+      ],
+      [
+        "brainwashing → brainwash〔可能逆构〕",
+        "对应的操控、灌输动词"
+      ]
+    ],
+    "explanation": "brainwash someone into believing 反复灌输使人相信，be brainwashed 被洗脑。日常用法常带强烈批评，不是中性 persuade。",
+    "usage": "brainwash someone into；be brainwashed；try to brainwash。",
+    "contrast": "persuade 说服可中性，brainwash 指思想操控、强灌输，评价强得多；不把普通意见分歧都当同一事实。",
+    "examples": [
+      [
+        "The novel describes a group that tries to brainwash its recruits.",
+        "小说描写一个试图给新成员洗脑的团体。"
+      ],
+      [
+        "He accused the broadcasts of trying to brainwash the audience.",
+        "他指责那些广播试图给观众洗脑。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/brainwash",
+      "https://en.wiktionary.org/wiki/brainwash#English"
+    ]
+  },
+  {
+    "word": "brainwashing",
+    "ipa": "英 /ˈbreɪnwɒʃɪŋ/；美 /ˈbreɪnwɑːʃɪŋ/",
+    "meaning": "洗脑；操控、灌输思想的过程",
+    "sense": "把一个人原有信念压下去、反复强加另一套的过程；常带负面和强控制意味。",
+    "split": "中文洗脑的仿译，20世纪中叶进入英语；现代可认 brainwash + -ing，但行为名词早于相应动词的常见记录。",
+    "history": [
+      [
+        "中文 洗脑 → 英语 brainwashing",
+        "仿译的思想操控名称"
+      ],
+      [
+        "现代 brainwashing 与 brainwash 相互对应",
+        "过程名词；动词可能由它逆构"
+      ]
+    ],
+    "explanation": "accusations of brainwashing 洗脑指控，a story about brainwashing 关于思想操控的故事。用这个词是在作较强的描述、评价。",
+    "usage": "accusations of brainwashing；a form of brainwashing；resist brainwashing。",
+    "contrast": "brainwashing 操控思想，brainstorming 想点子；同样以 brain 开头，活动目的完全不同。",
+    "examples": [
+      [
+        "The documentary examines claims of brainwashing.",
+        "纪录片审视了关于洗脑的说法。"
+      ],
+      [
+        "The story explores the effects of prolonged brainwashing.",
+        "故事探讨长期思想灌输的影响。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/brainwashing#English"
+    ]
+  },
+  {
+    "word": "midbrain",
+    "ipa": "/ˈmɪdbreɪn/",
+    "meaning": "中脑",
+    "sense": "解剖名称里说脑干上部的一段；mid- 提醒中部位置，但不能只靠字面定位全部结构。",
+    "split": "mid- 中间 + brain，是固定解剖部位名。这里先认识结构名称，不以词形替代解剖图。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "mid- + brain → midbrain",
+        "固定解剖部位名称：中脑"
+      ]
+    ],
+    "explanation": "the midbrain region 中脑区域，a diagram of the midbrain 中脑示意图。",
+    "usage": "the midbrain region；a diagram of the midbrain；midbrain structures。",
+    "contrast": "midbrain 是专业固定名称，不等于随便取整个脑的几何中心；forebrain 前脑又是另一分类名称。",
+    "examples": [
+      [
+        "The diagram highlights the midbrain.",
+        "示意图高亮标出了中脑。"
+      ],
+      [
+        "The lecture introduced several midbrain structures.",
+        "讲座介绍了几种中脑结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/midbrain#English"
+    ]
+  },
+  {
+    "word": "forebrain",
+    "ipa": "英 /ˈfɔːbreɪn/；美 /ˈfɔːrbreɪn/",
+    "meaning": "前脑",
+    "sense": "按发育和解剖分类命名的前部脑区域；fore- 说明前，不是专门预知未来的脑。",
+    "split": "fore- 前部 + brain，形成固定解剖名称。学习组合先抓位置指向，具体边界按学科定义理解。",
+    "history": [
+      [
+        "古英语 bræġn、brægen → 中古英语 brayn → brain",
+        "脑；更远来源有争议"
+      ],
+      [
+        "现代 brain、brains",
+        "器官；智力、聪明人、策划者等比喻"
+      ],
+      [
+        "fore- + brain → forebrain",
+        "固定解剖类别：前脑"
+      ]
+    ],
+    "explanation": "the developing forebrain 发育中的前脑，forebrain structures 前脑结构。",
+    "usage": "the developing forebrain；forebrain structures；a forebrain diagram。",
+    "contrast": "forebrain 前脑不简单等于 forehead 额头；brain 脑与 head 头整体要分清。",
+    "examples": [
+      [
+        "The textbook includes a diagram of the developing forebrain.",
+        "教材包含一张发育中前脑的示意图。"
+      ],
+      [
+        "The researcher compared several forebrain structures.",
+        "研究人员比较了几种前脑结构。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/forebrain#English"
+    ]
+  },
+  {
+    "word": "farm",
+    "ipa": "英 /fɑːm/；美 /fɑːrm/",
+    "meaning": "农场；种田、养殖；把任务分包出去〔farm out〕",
+    "sense": "现在最常见是种庄稼、养动物的一片经营场所；旧起点却和租金、租用土地有关。",
+    "split": "中古英语与法语、中世纪拉丁租金词相连，也涉及古英语相关形式，远源关系有争议。固定支付、租地的背景后来走向农业；不硬说最初就只代表种田。",
+    "history": [
+      [
+        "中古英语 ferme、法语 ferme 与中世纪拉丁 firma 等相关形式",
+        "固定租金、租约及租地；与古英语同形近义词的远源关系有争议"
+      ],
+      [
+        "现代 farm",
+        "从租地背景发展为农场；农业经营、种养活动"
+      ]
+    ],
+    "explanation": "a dairy farm 奶牛场，a family farm 家庭农场，farm the land 耕作，farm out the work 把工作分包出去。",
+    "usage": "a family farm；a dairy farm；farm the land；farm out。",
+    "contrast": "farm 是农业经营单位，field 是一块田地，ranch 常侧重大规模畜牧。farm out 常说分包，不是在户外耕田。",
+    "examples": [
+      [
+        "They grow vegetables on a small farm.",
+        "他们在一座小农场种菜。"
+      ],
+      [
+        "The company farms out some of the design work.",
+        "公司把一部分设计工作外包出去。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/farm",
+      "https://en.wiktionary.org/wiki/farm#English"
+    ]
+  },
+  {
+    "word": "farming",
+    "ipa": "英 /ˈfɑːmɪŋ/；美 /ˈfɑːrmɪŋ/",
+    "meaning": "农业；耕作、养殖活动",
+    "sense": "不是指哪一块地，而是种、养和经营农场这一行、这一类活动。",
+    "split": "farm + -ing，名词化农业活动。现代还可借指游戏等反复刷资源，要靠具体场景分清。",
+    "history": [
+      [
+        "中古英语 ferme、法语 ferme 与中世纪拉丁 firma 等相关形式",
+        "固定租金、租约及租地；与古英语同形近义词的远源关系有争议"
+      ],
+      [
+        "现代 farm",
+        "从租地背景发展为农场；农业经营、种养活动"
+      ],
+      [
+        "farm + -ing → farming",
+        "农业活动、农场经营；后有反复获取资源等借用"
+      ]
+    ],
+    "explanation": "organic farming 有机农业，dairy farming 奶牛养殖，go into farming 从事农业。",
+    "usage": "organic farming；dairy farming；go into farming。",
+    "contrast": "farming 活动、行业，a farm 一座农场，farmland 农地；行业不等于一件实体场所。",
+    "examples": [
+      [
+        "The family has been involved in farming for generations.",
+        "这家人几代都从事农业。"
+      ],
+      [
+        "The course covers several methods of organic farming.",
+        "课程介绍几种有机耕作方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/farming#English"
+    ]
+  },
+  {
+    "word": "farmer",
+    "ipa": "英 /ˈfɑːmə/；美 /ˈfɑːrmər/",
+    "meaning": "农民；农场经营者",
+    "sense": "以种养、经营农场为业的人；不必然是自己拥有每一块田的地主。",
+    "split": "现代可对应 farm + -er；历史经中古英语 fermour、法语 fermier 等，早有承租者、征收固定款项者等义，后农业义成为中心。",
+    "history": [
+      [
+        "中古英语 ferme、法语 ferme 与中世纪拉丁 firma 等相关形式",
+        "固定租金、租约及租地；与古英语同形近义词的远源关系有争议"
+      ],
+      [
+        "中古英语 fermour；接法语 fermier 等",
+        "承租、征收等人物词"
+      ],
+      [
+        "现代 farmer",
+        "农民、农场经营者"
+      ]
+    ],
+    "explanation": "a dairy farmer 奶牛养殖者，local farmers 当地农民，a tenant farmer 佃农、租地经营者。",
+    "usage": "a dairy farmer；local farmers；a tenant farmer。",
+    "contrast": "farmer 农业经营者，farmhand 农场雇工，landowner 地主；实际角色可以重合，词的着眼点不同。",
+    "examples": [
+      [
+        "Local farmers sell their produce at the weekend market.",
+        "当地农民在周末市场出售农产品。"
+      ],
+      [
+        "The farmer checks the animals every morning.",
+        "农场经营者每天早上查看牲畜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/farmer#English"
+    ]
+  },
+  {
+    "word": "farmyard",
+    "ipa": "英 /ˈfɑːmjɑːd/；美 /ˈfɑːrmjɑːrd/",
+    "meaning": "农场院子；农舍、农用建筑间的场地",
+    "sense": "农场里围着房屋、棚舍的那片院落，鸡、工具和车辆常在那里活动、摆放。",
+    "split": "farm + yard 院落。yard 在这里不是长度单位码，也不是泛指整座农场土地。",
+    "history": [
+      [
+        "中古英语 ferme、法语 ferme 与中世纪拉丁 firma 等相关形式",
+        "固定租金、租约及租地；与古英语同形近义词的远源关系有争议"
+      ],
+      [
+        "现代 farm",
+        "从租地背景发展为农场；农业经营、种养活动"
+      ],
+      [
+        "farm + yard → farmyard",
+        "农场建筑附近的院落场地"
+      ]
+    ],
+    "explanation": "chickens in the farmyard 农场院里的鸡，cross the farmyard 穿过农场院落。",
+    "usage": "in the farmyard；cross the farmyard；farmyard animals。",
+    "contrast": "farmyard 重点是院落，farmland 重点是农地，farmhouse 是农舍；一座 farm 可包含这些不同部分。",
+    "examples": [
+      [
+        "Chickens wandered around the farmyard.",
+        "鸡在农场院子里四处走。"
+      ],
+      [
+        "The tractor stood in the farmyard overnight.",
+        "拖拉机在农场院里停了一夜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/farmyard#English"
+    ]
+  },
+  {
+    "word": "farmstead",
+    "ipa": "英 /ˈfɑːmsted/；美 /ˈfɑːrmsted/",
+    "meaning": "农庄；农舍及附属建筑场所",
+    "sense": "把农舍、谷仓和周围经营场地看成一个农庄落脚点，而不只盯一块田。",
+    "split": "farm + stead 地方、所在，参照 homestead 等词形成。后部与 instead 同有地方、位置背景，但不能把现代 instead 直接拆进来。",
+    "history": [
+      [
+        "中古英语 ferme、法语 ferme 与中世纪拉丁 firma 等相关形式",
+        "固定租金、租约及租地；与古英语同形近义词的远源关系有争议"
+      ],
+      [
+        "现代 farm",
+        "从租地背景发展为农场；农业经营、种养活动"
+      ],
+      [
+        "farm + stead〔地方〕→ farmstead",
+        "农舍及附属建筑组成的农庄地点"
+      ]
+    ],
+    "explanation": "an old farmstead 老农庄，an abandoned farmstead 废弃农庄。",
+    "usage": "an old farmstead；an abandoned farmstead；restore a farmstead。",
+    "contrast": "farmstead 常着眼农舍及周边建筑所在，farm 范围更广；farmhouse 则明确是一栋农舍。",
+    "examples": [
+      [
+        "The path led to an abandoned farmstead.",
+        "小路通向一处废弃农庄。"
+      ],
+      [
+        "They restored the old farmstead as a place to stay.",
+        "他们把老农庄修复成了住宿场所。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/farmstead#English"
+    ]
+  },
+  {
+    "word": "nonfarm",
+    "ipa": "英 /ˈnɒnfɑːm/；美 /ˈnɑːnfɑːrm/",
+    "meaning": "非农业的；农场以外的",
+    "sense": "把农业这一块划出去，剩下的就业、收入或活动；新闻里常这样分统计范围。",
+    "split": "non- 非、不属于 + farm。常用于修饰 employment、income 等，不是说这片地永远不能耕种。",
+    "history": [
+      [
+        "中古英语 ferme、法语 ferme 与中世纪拉丁 firma 等相关形式",
+        "固定租金、租约及租地；与古英语同形近义词的远源关系有争议"
+      ],
+      [
+        "现代 farm",
+        "从租地背景发展为农场；农业经营、种养活动"
+      ],
+      [
+        "non- + farm → nonfarm",
+        "不属于农业、农场的"
+      ]
+    ],
+    "explanation": "nonfarm employment 非农就业，nonfarm income 非农收入。具体统计涵盖哪些行业要看该指标定义。",
+    "usage": "nonfarm employment；nonfarm income；nonfarm activities。",
+    "contrast": "nonfarm 分行业或来源，unfarmed 说土地未耕作；两个否定形式所否定的内容不同。",
+    "examples": [
+      [
+        "Many families rely on nonfarm income as well as farming.",
+        "许多家庭除农业外，也依靠非农收入。"
+      ],
+      [
+        "The report compares farm and nonfarm employment.",
+        "报告比较农业与非农业就业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonfarm#English"
+    ]
+  }
+]

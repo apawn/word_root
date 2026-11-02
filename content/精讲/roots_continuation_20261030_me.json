@@ -1,0 +1,126 @@
+[
+  {
+    "id": "B3225",
+    "meaning": "组织渐渐分解、败坏，过程与状态分清",
+    "core": "ROT：原本结实的东西，一点点坏下去",
+    "image": "rot → rotting；同族北欧旧分词借入形成 rotten。",
+    "intro": "动作看 rot，正在变化看 rotting，已腐坏、很糟糕的状态看 rotten。制度和人品的坏，也借这种内部败坏画面。",
+    "forms": "rot 承古英语 rotian；rotten 接北欧同族旧分词；rotting 双写 t。现代 rot 的普通过去、完成形式 rotted。",
+    "branches": [
+      [
+        "腐烂动作、过程与坏的状态",
+        "rot · rotting · rotten"
+      ]
+    ],
+    "contrasts": "rotten 与 rotted 用法不同；rotten luck 是坏运气，不是运气真的发生生物腐烂。",
+    "practice": "The wood began to rot, and the rotten boards were eventually replaced.\n\n木头开始腐朽，烂掉的木板最后被换掉。",
+    "words": [
+      "rot",
+      "rotting",
+      "rotten"
+    ],
+    "exclude": {
+      "rot-scape": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "rotter": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4359",
+    "meaning": "厚纸、艺术底稿，到漫画及动画的作品名",
+    "core": "CARTOON：先是画在大纸上的稿，后来变成画作和动画名",
+    "image": "cartoon → cartoonist、cartoonish。",
+    "intro": "词的历史从材料走向画作，再走向不同媒介。-ist 说创作者，-ish 说风格，真人电影中的人物也能显得 cartoonish。",
+    "forms": "carta 纸 → 意大利 cartone 厚纸、大纸 → 法语 carton 等 → cartoon；-ist 人，-ish 相似风格。\n\ncartoon 经法语、意大利语 cartone 厚纸、底稿等，后用于报刊漫画与动画。现代复数 -s，先分画作、动画的语境。",
+    "branches": [
+      [
+        "作品及作者",
+        "cartoon · cartoonist"
+      ],
+      [
+        "风格性质",
+        "cartoonish"
+      ],
+      [
+        "厚纸上的底稿 → cartoon → cartoons",
+        "cartoons"
+      ]
+    ],
+    "contrasts": "cartoon 的艺术底稿义仍见于艺术史；cartoonish 不要求本身是动画。",
+    "practice": "The cartoonist gave the mayor exaggerated, cartoonish features.\n\n漫画家给市长画上了夸张的漫画式特征。",
+    "words": [
+      "cartoon",
+      "cartoonist",
+      "cartoonish",
+      "cartoons"
+    ],
+    "exclude": {
+      "cartoony": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3525",
+    "meaning": "住得近的人，扩展为共同地区与互助品质",
+    "core": "NEIGHBOUR：近处住着人，再看大家住的那片地方",
+    "image": "neighbour → neighbourhood、neighbourly。",
+    "intro": "一个人、一个地区、一种相处品质，三层连着记。英式 ou 与美式不带 u 的写法对应，读音、核心意思基本相同。",
+    "forms": "古英语近 + 居住者 → nēahġebūr → neighbour；-hood 地区、群体，-ly 此处为形容词。\n\n古英语近与居住者组合，美式另拼 neighbor、neighbors。\n\n保留英式 ou 拼写，词形不同不改变意思。",
+    "branches": [
+      [
+        "邻居、邻里地区和品质",
+        "neighbour · neighbourhood · neighbourly"
+      ],
+      [
+        "neighbour → neighbours：附近的居住者",
+        "neighbour · neighbours"
+      ],
+      [
+        "neighbour → neighbouring：邻近、毗邻",
+        "neighbour · neighbouring"
+      ]
+    ],
+    "contrasts": "neighbourly 不是单纯住得近；neighbourhood 的 -hood 不是帽子。",
+    "practice": "Neighbourly gestures helped the new neighbours feel welcome in the neighbourhood.\n\n友好的邻里举动让新邻居在街区里感到受欢迎。",
+    "words": [
+      "neighbour",
+      "neighbourhood",
+      "neighbourly",
+      "neighbours",
+      "neighbouring"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3436",
+    "meaning": "墨液留下色迹，派生上墨状态、颜色和喷墨方式",
+    "core": "INK：让颜色留在纸面，也能留在皮肤和签名里",
+    "image": "ink → inked、inky；inkjet 按喷射方式命名。",
+    "intro": "材料、上墨动作、沾墨或墨黑的性质依次展开。墨液的用途能解释签合同、文身等现代义，不必把每次都译作墨水。",
+    "forms": "希腊烧入词形经拉丁、法语缩短 → ink；-ed 状态，-y 性质；jet 喷射。\n\n现代变化与较早经法语、拉丁、希腊的墨液名称史分开。",
+    "branches": [
+      [
+        "墨液、着墨状态和外观",
+        "ink · inked · inky"
+      ],
+      [
+        "设备工作方式",
+        "inkjet"
+      ],
+      [
+        "ink → inked、inking：上墨、描墨线与签下",
+        "ink · inked · inking"
+      ]
+    ],
+    "contrasts": "历史烧入名称不代表现代墨水全靠烧制；inky 可比喻墨黑。",
+    "practice": "The inkjet printer left an inky mark on the page.\n\n喷墨打印机在纸上留下了一块墨迹。",
+    "words": [
+      "ink",
+      "inked",
+      "inky",
+      "inkjet",
+      "inking"
+    ],
+    "exclude": {
+      "e-ink": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

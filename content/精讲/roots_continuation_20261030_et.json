@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B4210",
+    "meaning": "一件要做的事，以及任务安排、界面组合",
+    "core": "TASK：把工作落实成一项项要完成的事",
+    "image": "task → taskmaster；multitask 多项处理，taskbar 显示任务或应用的界面栏。",
+    "intro": "task 与 tax 历史相关，现代不用每次想到税；take someone to task 是责备，taskmaster 带严格催促意味。",
+    "forms": "taxa、tasque 等 → task；task + master；multi- + task；task + bar。\n\n法语 tasque 等接估定、征收的拉丁词族，后泛指工作任务。",
+    "branches": [
+      [
+        "任务与督促者",
+        "task · taskmaster"
+      ],
+      [
+        "同时处理与界面",
+        "multitask · taskbar"
+      ],
+      [
+        "task → tasks：规定下来的工作项",
+        "task · tasks"
+      ]
+    ],
+    "contrasts": "task/work 可数任务与一般工作；take to task 非带去做事；taskmaster 评价比 manager 窄。",
+    "practice": "The taskmaster expected every task to be finished on time.\n\n督工要求每项任务按时完成。",
+    "words": [
+      "task",
+      "taskmaster",
+      "multitask",
+      "taskbar",
+      "tasks"
+    ],
+    "exclude": {
+      "task-oriented": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tasker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3739",
+    "meaning": "盛装的圆碗与另一条圆球、滚球路径",
+    "core": "BOWL：容器和运动同拼写，历史路径先分清",
+    "image": "bowl → bowler；punchbowl 接盛饮料的碗。帽子 bowler 另看制帽人名等分析。",
+    "intro": "一碗汤与投一个球不是同一现代拆法；bowler/batter 分投球、击球，圆顶帽不从球员职业硬推。",
+    "forms": "bolla → 碗 bowl；boule 等 → 球与投滚球 bowl；bowl + -er；punch + bowl；帽名另联系 Bowler。\n\n滚球、球类动作接法语 boule 一支，与古英语碗名的近源不同。\n\n容器承古英语 bolla，球、运动支经法语 boule；现代 s 形式同音，来源分开。",
+    "branches": [
+      [
+        "容器与饮料组合",
+        "bowl · punchbowl"
+      ],
+      [
+        "运动人物与同形帽名",
+        "bowler"
+      ],
+      [
+        "bowl → bowling：让球滚出去",
+        "bowl · bowling"
+      ],
+      [
+        "bowl → bowls：圆容器与另路球类",
+        "bowl · bowls"
+      ]
+    ],
+    "contrasts": "bowl/bow 多一个 l；bowler/batter 角色不同；punchbowl 饮料不是拳头；帽名具体来源保留讨论。",
+    "practice": "The bowler put his hat beside the punchbowl.\n\n那位滚球运动者把帽子放在饮料大碗旁。",
+    "words": [
+      "bowl",
+      "punchbowl",
+      "bowler",
+      "bowling",
+      "bowls"
+    ],
+    "exclude": {
+      "slop-bowl": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3281",
+    "meaning": "像朋友那样的态度与是否方便使用",
+    "core": "FRIENDLY：让人感到欢迎、好相处，也可说产品好用",
+    "image": "friendly → unfriendly、friendliness，否定和性质名词贴着基础形容词学。",
+    "intro": "friendly 的 -ly 不自动副词；friendliness 是友善态度，friendship 是友谊关系。",
+    "forms": "friend + -ly → friendly；un- + friendly；friendly 变 friendliness。\n\n末尾 y 改 i，再加完整 er、est；不是另把 lier、liest 当独立词根。",
+    "branches": [
+      [
+        "友好、否定与性质",
+        "friendly · unfriendly · friendliness"
+      ],
+      [
+        "友善形容词 friendly 的比较形式",
+        "friendly · friendlier · friendliest"
+      ]
+    ],
+    "contrasts": "friendly/-ly 形容词；friendliness/friendship 态度关系；unfriendly interface 不必有人有敌意。",
+    "practice": "The friendly staff’s friendliness contrasted with the unfriendly interface.\n\n员工很亲切，软件界面却很难用，形成鲜明对比。",
+    "words": [
+      "friendly",
+      "unfriendly",
+      "friendliness",
+      "friendlier",
+      "friendliest"
+    ],
+    "exclude": {
+      "radio-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "user-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "search-engine-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "guest-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "tool-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "printer-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "eco-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "enviro-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3035",
+    "meaning": "一天行程到旅程；旧工日义留在熟练工名里",
+    "core": "JOURNEY：旅程不限一天，journeyman 也不只是旅客",
+    "image": "journey → journeyman，保留一天工作与一天路程的不同历史分支。",
+    "intro": "现代学习之旅是历程比喻；journeyman 要沿工日、受雇工作背景理解，不能用爱旅行的人代替。",
+    "forms": "diēs、diurnus → journée 等 → journey；journey 工日义 + man → journeyman。\n\n一天的工作或行程名称借入后，不再限制旅程长度。",
+    "branches": [
+      [
+        "旅程、历程与旧工日派生",
+        "journey · journeyman"
+      ],
+      [
+        "journey → journeys：一天的路程与一段历程",
+        "journey · journeys"
+      ]
+    ],
+    "contrasts": "journey/travel/trip 语法侧重；journeyman/tourist 熟练工与旅客；journeyman 评价也可能普通不突出。",
+    "practice": "The journeyman described his long journey to the town.\n\n熟练工描述了自己前往小镇的长途旅程。",
+    "words": [
+      "journey",
+      "journeyman",
+      "journeys"
+    ],
+    "exclude": {
+      "journeying": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2696",
+    "meaning": "乳脂的一层，到浓滑膏体、精华与搅打",
+    "core": "CREAM：既是成分，也能借质感、价值和动作命名",
+    "image": "cream → creamy、creamer、creamery；buttercream 接糕点糖霜，场所和器具别混。",
+    "intro": "creamy 不保证含乳，face cream 不是食用奶油，cream butter 是搅打；buttercream 和 whipped cream 也不同。",
+    "forms": "creme 等经法语英语 → cream；cream + -y/-er；crémerie → creamery；butter + cream。",
+    "branches": [
+      [
+        "基础、性质、容器制品与场所",
+        "cream · creamy · creamer · creamery"
+      ],
+      [
+        "糕点霜状馅料",
+        "buttercream"
+      ]
+    ],
+    "contrasts": "cream/butter 稀奶油黄油；creamy 不等于一定含奶；creamer/creamery 器物制品与场所；buttercream/whipped cream 糖霜与打发稀奶油。",
+    "practice": "The creamery sold butter, and the baker used it to make buttercream.\n\n乳品店卖黄油，烘焙师用它制作奶油糖霜。",
+    "words": [
+      "cream",
+      "creamy",
+      "creamer",
+      "creamery",
+      "buttercream"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3041",
+    "meaning": "东西怎样分出去、散布在哪些位置",
+    "core": "DISTRIBUTION：看总量之外，还看如何分到各处",
+    "image": "distribution → distributional；redistribution 对已有分配再调整。",
+    "intro": "distributional effects 讨论谁受到什么影响，不必先断言分配一定不均或不公。",
+    "forms": "distribuere、distributio 等 → distribution；distribution + -al；re- + distribution。",
+    "branches": [
+      [
+        "分布分配、关系性质与再分配",
+        "distribution · distributional · redistribution"
+      ]
+    ],
+    "contrasts": "distributional 中性关系不等于 unequal；redistribution 重新分配，不保证每个人最后一样多。",
+    "practice": "The distributional analysis examined the effects of redistribution.\n\n分配分析考察了再分配的影响。",
+    "words": [
+      "distribution",
+      "distributional",
+      "redistribution"
+    ],
+    "exclude": {
+      "distribution-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "e-distribution": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2987",
+    "meaning": "一体分开，再借给分摊、意见和信号",
+    "core": "SPLIT：先分成部分，再看是否均分、是否仍连着",
+    "image": "split → splitter，动作和执行工具放一起；过去式、分词不变。",
+    "intro": "split 不自动对半，split equally 才均分；splitter 信号分路和物理劈木是不同使用场景。",
+    "forms": "splitten 等 → split；split + -er 双写 t → splitter。\n\nsplit 可能借荷兰语、低地德语相应词，更远词源未定。现代双写 t，加 -ing，分开整体、分账等按对象理解，不限恰好两份。",
+    "branches": [
+      [
+        "分开动作、结果与工具",
+        "split · splitter"
+      ],
+      [
+        "split → splitting：分开、分担",
+        "splitting"
+      ]
+    ],
+    "contrasts": "split/splitted 正确过去式仍 split；split equally 明确均分；splitter 看对象分物理与信号。",
+    "practice": "The splitter sends the audio signal to two outputs.\n\n分配器把音频信号送到两个输出端。",
+    "words": [
+      "split",
+      "splitter",
+      "splitting"
+    ],
+    "exclude": {
+      "split-second": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "non-split": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

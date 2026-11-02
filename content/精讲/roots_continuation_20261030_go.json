@@ -1,0 +1,129 @@
+[
+  {
+    "id": "B3864",
+    "meaning": "标签、身份与数字标注；游戏触碰义分支",
+    "core": "TAG：挂一片身份记号，或者在数字世界贴个标记",
+    "image": "tag → tagger；hashtag # 话题标签；gamertag 玩家代号；nametag 姓名牌；tagline 宣传短句。",
+    "intro": "大部分扩展从附着小标签很容易看懂。捉人游戏的历史却需另联系触碰词，不能因为现代 tag 有多个义就强画成一条。",
+    "forms": "tagge → tag 标签；tag + -er 双写 g；hash/gamer/name + tag；tag + line；游戏 tag 的触碰来源另看。\n\nhash 在这里指 # 符号，加 tag 标签 → hashtag；整体复数 hashtags。标签可帮助聚合内容，也能补充态度、评论，不仅有分类一种用途。\n\n标签义 tag 较早与衣物上垂下的小片等有关，远源不定；捉人游戏的触碰义另有来源分析。tags 加 -s，tagged 双写 g 加完整 -ed。",
+    "branches": [
+      [
+        "基本标签与标注者",
+        "tag · tagger"
+      ],
+      [
+        "标签内容和使用场景",
+        "hashtag · gamertag · nametag"
+      ],
+      [
+        "短句宣传",
+        "tagline"
+      ],
+      [
+        "hashtag → hashtags：用 # 标出的标签",
+        "hashtag · hashtags"
+      ],
+      [
+        "tag → tags、tagged：标签与标注",
+        "tags · tagged"
+      ]
+    ],
+    "contrasts": "hashtag 是具体一类 tag；gamertag 不是密码；tagline/headline/caption 按宣传、标题、图注功能分。",
+    "practice": "Her nametag and gamertag were different, but she used the same hashtag.\n\n她的姓名牌和玩家代号不同，但用了同一个话题标签。",
+    "words": [
+      "tag",
+      "tagger",
+      "hashtag",
+      "gamertag",
+      "nametag",
+      "tagline",
+      "hashtags",
+      "tags",
+      "tagged"
+    ],
+    "exclude": {
+      "e-tag": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3426",
+    "meaning": "可以依靠、运行稳定；性质和方式",
+    "core": "RELIABLE：反复交给它，仍然靠得住",
+    "image": "reliable → reliability 可靠性 → reliably 可靠地；unreliable 否定可靠。",
+    "intro": "人能守约、机器少掉链子、材料有可信依据，都能从可以依靠理解。性质名词和副词放在基本形容词后，别散开背。",
+    "forms": "rely + -able，y 改 i → reliable；reliable → reliability/reliably；un- + reliable。",
+    "branches": [
+      [
+        "基本性质、程度与方式",
+        "reliable · reliability · reliably"
+      ],
+      [
+        "否定可靠",
+        "unreliable"
+      ]
+    ],
+    "contrasts": "reliable/reliability 可靠的与可靠性；reliably/regularly 稳定可信与规律定期。",
+    "practice": "A reliable system should work reliably, and its reliability should be tested.\n\n可靠系统应当稳定运行，可靠性也应经过检验。",
+    "words": [
+      "reliable",
+      "reliability",
+      "reliably",
+      "unreliable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3994",
+    "meaning": "防御、防守；无防护与防守球员",
+    "core": "DEFENCE：把对面的攻击挡在外面",
+    "image": "defence → defenceless 无力自卫；defenceman 防守位置球员。",
+    "intro": "这页沿英式拼写复习。-less 拿掉防护，-man 标出负责防守的人；同一个词基在社会、比赛中各选搭配。",
+    "forms": "defens/defense → defence 拼写；defence + -less/man；defencemen 复数。",
+    "branches": [
+      [
+        "防守及缺少防护",
+        "defence · defenceless"
+      ],
+      [
+        "运动中的防守者",
+        "defenceman"
+      ]
+    ],
+    "contrasts": "defence/defense 拼写差异；defenceman/defender 具体位置与更宽的保护、辩护角色。",
+    "practice": "The defenceman strengthened the team’s defence.\n\n这名后卫加强了球队的防守。",
+    "words": [
+      "defence",
+      "defenceless",
+      "defenceman"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4115",
+    "meaning": "引入、介绍和再次带回",
+    "core": "INTRODUCTION：把人、主题或事物带进来",
+    "image": "introduction → reintroduction 再次引入、恢复。",
+    "intro": "介绍人让彼此认识，引言把读者带进主题，引入设备把东西带进系统。re- 加上后，是同类动作再发生一次。",
+    "forms": "intrō- 向里 + dūc- 带领 → intrōdūctiō → introduction；re- + introduction。\n\nintro 是 introduction 的现代截短；独立短称和已有拉丁前缀 intro- 是不同层次，不能把所有 intro- 开头词都当这个短称扩出来。",
+    "branches": [
+      [
+        "基本带入及再次带入",
+        "introduction · reintroduction"
+      ],
+      [
+        "introduction → intro：开场、介绍的短称",
+        "intro"
+      ]
+    ],
+    "contrasts": "introduction 引言与 introduce 动词分用；reintroduction 不只是首次引进，物种语境尤其看原有分布。",
+    "practice": "The introduction explains why the reintroduction of the route is being considered.\n\n引言解释了为什么正在考虑恢复这条线路。",
+    "words": [
+      "introduction",
+      "reintroduction",
+      "intro"
+    ],
+    "exclude": {
+      "e-introduction": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

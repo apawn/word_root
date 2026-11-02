@@ -1,0 +1,164 @@
+[
+  {
+    "id": "B2924",
+    "meaning": "靴子及踢出、后备厢等扩展，另经提带比喻形成电脑启动",
+    "core": "BOOT：计算机启动要经过 bootstrap 这座桥",
+    "image": "boot 靴子 → bootstrap 提带、借喻自举 → boot 电脑启动 → reboot、bootable。",
+    "intro": "不要凭现代同形词编一脚踢开电脑的词源。booted 也要随上下文判断穿靴、被赶走还是启动。",
+    "forms": "古法语 bote → boot；boot + strap；计算机 bootstrap 缩成 boot；re- 再次、-able 可用于。\n\n靴子接法语；电脑启动缩自 bootstrap 的技术用法。\n\nboot 缩自计算机 bootstrap；reboot 再有作品系列等重新起步的比喻。",
+    "branches": [
+      [
+        "基础和旧扩展",
+        "boot · booted · bootleg"
+      ],
+      [
+        "自举与电脑启动",
+        "bootstrap · reboot · bootable"
+      ],
+      [
+        "boot → boots：靴子、踢与启动",
+        "boot · boots"
+      ],
+      [
+        "reboot 的电脑重启、作品重启及变化",
+        "reboot · reboots · rebooted · rebooting"
+      ]
+    ],
+    "contrasts": "to boot 此外、而且另有来源；reboot 不等于重装全部系统。",
+    "practice": "The computer can boot from the bootable drive and reboot after installation.\n\n电脑能从启动盘启动，并在安装后重启。",
+    "words": [
+      "boot",
+      "booted",
+      "bootleg",
+      "bootstrap",
+      "reboot",
+      "bootable",
+      "boots",
+      "reboots",
+      "rebooted",
+      "rebooting"
+    ],
+    "exclude": {
+      "dual-boot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3845",
+    "meaning": "生物学相关性质，以及从领域进一步限定研究对象",
+    "core": "BIOLOGICAL：与生命、生物学有关；前缀可进一步聚焦",
+    "image": "biological → biologically；microbiological 聚焦微生物，neurobiological 聚焦神经系统。",
+    "intro": "共同部分给出生命、生物学这一层，前面增加的成分再决定研究哪类对象。",
+    "forms": "biology 的 bio- 生命、-logy 研究基础 → biological；neuro- 与 micro- 再作限定，-ly 形成副词。",
+    "branches": [
+      [
+        "基础性质与副词",
+        "biological · biologically"
+      ],
+      [
+        "具体研究领域",
+        "microbiological · neurobiological"
+      ]
+    ],
+    "contrasts": "biological 不只表示天然、未加工；neurobiological 是研究对象、层面的限定。",
+    "practice": "The book moves from biological principles to neurobiological explanations of learning.\n\n这本书从生物学原理讲到学习的神经生物学解释。",
+    "words": [
+      "biological",
+      "biologically",
+      "microbiological",
+      "neurobiological"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4608",
+    "meaning": "从史诗体裁到宏大、震撼与口语夸张",
+    "core": "EPIC：先是大故事，再借来形容大场面和强烈效果",
+    "image": "epic → epically。",
+    "intro": "文学用法看作品类型，日常评价看震撼程度。两者有联系，不能因为某人说一顿饭 epic 就要求它讲英雄故事。",
+    "forms": "希腊 épos、epikós → 拉丁 epicus → 法语 épique → epic；-ally 副词。",
+    "branches": [
+      [
+        "体裁、性质与副词",
+        "epic · epically"
+      ]
+    ],
+    "contrasts": "常用 epic 不靠 epi- 在上面解释；epic failure 可以强烈负面。",
+    "practice": "The epic film was epically ambitious in scale.\n\n这部史诗片在规模上有着惊人的雄心。",
+    "words": [
+      "epic",
+      "epically"
+    ],
+    "exclude": {
+      "proto-epic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3913",
+    "meaning": "挡在前面保护，以及按这种功能命名的物件",
+    "core": "SHIELD：屏障在前，受保护的对象在后",
+    "image": "shield → windshield 挡风玻璃；shield 本身也作动词。",
+    "intro": "保护可以是实物阻挡，也可以是免受批评等抽象影响。看 from 后面要隔开的是什么。",
+    "forms": "古英语 scield、sċildan → shield；wind + shield 按挡风功能组合。\n\nshelter 来源有争议，有盾阵 sheltron 路线，也有 shield 加 ture 路线；不能把盾阵传说写成定论。\n\n古英语有名动词对应，现代名词复数、动词三单同形。\n\n与 shelter 比较庇护，不是现代 shelter 的派生。haven 承古英语 hæfen 与北欧港口材料，远源有抓住、海等不同分析，不定为 have 加 -n。",
+    "branches": [
+      [
+        "屏障与具体器具",
+        "shield · windshield"
+      ],
+      [
+        "shield 与 shelter 的候选历史：防护、遮蔽",
+        "shield · shelter · shelters · sheltered · sheltering"
+      ],
+      [
+        "shield → shields：盾牌到保护屏障",
+        "shield · shields"
+      ],
+      [
+        "haven：港口到避风港",
+        "haven · havens"
+      ]
+    ],
+    "contrasts": "shield 不必是军用盾牌；windshield 在英式英语常叫 windscreen。",
+    "practice": "The windshield acts as a shield against wind and rain.\n\n挡风玻璃起着遮挡风雨的作用。",
+    "words": [
+      "shield",
+      "windshield",
+      "shelter",
+      "shelters",
+      "sheltered",
+      "sheltering",
+      "shields",
+      "haven",
+      "havens"
+    ],
+    "exclude": {
+      "shield-bearer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2970",
+    "meaning": "分离、脱落与流出；另辨棚屋的同形来源",
+    "core": "SHED：动词抓分离、放出，棚屋名词另走一线",
+    "image": "shed → bloodshed 流血；watershed 分界；woodshed 的后半是棚屋。",
+    "intro": "今天一个拼写收下了几条历史。把各词放一起辨认，比用一个生硬画面全部串成假同源更稳。",
+    "forms": "动词由 scēadan 分离演变；棚屋名词另联系 shade 等形式；过去式 shed 不变。",
+    "branches": [
+      [
+        "分离、流出及分界",
+        "shed · bloodshed · watershed"
+      ],
+      [
+        "棚屋名词组合",
+        "woodshed"
+      ]
+    ],
+    "contrasts": "woodshed 不是木头脱落；watershed 也不是水棚。shed light on 是使问题更清楚。",
+    "practice": "The lesson sheds light on why bloodshed and woodshed use different senses of shed.\n\n这课说明了 bloodshed 与 woodshed 为什么使用不同的 shed 义项。",
+    "words": [
+      "shed",
+      "bloodshed",
+      "watershed",
+      "woodshed"
+    ],
+    "exclude": {}
+  }
+]

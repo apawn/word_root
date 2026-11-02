@@ -1,0 +1,294 @@
+[
+  {
+    "word": "rose",
+    "ipa": "英 /rəʊz/；美 /roʊz/",
+    "meaning": "玫瑰、蔷薇类花木；玫瑰色；〔另词形〕rise 的过去式",
+    "sense": "花店里带刺的枝上开着花，是植物名；它的颜色、香气和美好感觉，又被拿来描述别的东西。",
+    "split": "花名接古英语 rōse，来自拉丁语 rosa，后来也受法语 rose 影响。更远希腊语、伊朗语背景有不同分析，本文从可靠近源讲。He rose 里的 rose 则是 rise 的过去式，与花不是同一词源链。",
+    "history": [
+      [
+        "拉丁语 rosa → 古英语 rōse；另有法语 rose 影响",
+        "玫瑰、蔷薇类花木名称；更远借入路径不全确定"
+      ],
+      [
+        "中古英语 rose → rose",
+        "花木；相应粉红、红色色彩及美好处境的比喻"
+      ]
+    ],
+    "explanation": "a red rose 一朵红玫瑰，a rose garden 玫瑰园；not a bed of roses 比喻并非尽是舒适、美好。rose wine 写法需看是否指 rosé 葡萄酒，不能只凭字面花名推断。",
+    "usage": "a red rose；a rose garden；a bunch of roses；not a bed of roses。",
+    "contrast": "rose 花木与 rose〔rise 过去式〕同形分源；rosebud 是花苞、rosehip 是果实，不是同一发育部位。",
+    "examples": [
+      [
+        "She placed a single red rose in the vase.",
+        "她在花瓶里放了一朵红玫瑰。"
+      ],
+      [
+        "Starting a business is not always a bed of roses.",
+        "创业并不总是轻松美好的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rose#English"
+    ]
+  },
+  {
+    "word": "rosy",
+    "ipa": "英 /ˈrəʊzi/；美 /ˈroʊzi/",
+    "meaning": "玫瑰般粉红的；乐观、美好可期的",
+    "sense": "脸颊红润，像花色；前景被看得明亮、美好，也像罩上一层好看的玫瑰色。",
+    "split": "rose 去 e 加 -y，中古英语已有 rosy。颜色义后来扩展到光明、乐观的处境评价。",
+    "history": [
+      [
+        "拉丁语 rosa → 古英语 rōse；另有法语 rose 影响",
+        "玫瑰、蔷薇类花木名称；更远借入路径不全确定"
+      ],
+      [
+        "中古英语 rose → rose",
+        "花木；相应粉红、红色色彩及美好处境的比喻"
+      ],
+      [
+        "rose + -y → rosy",
+        "玫瑰般红润的；前景美好的"
+      ]
+    ],
+    "explanation": "rosy cheeks 红润脸颊，a rosy future 美好前途，a rosy picture 乐观描述。a rosy picture 可能过度乐观，靠语境判断。",
+    "usage": "rosy cheeks；a rosy future；a rosy picture。",
+    "contrast": "rosy 颜色或乐观前景，rose 基础花名；rosy 不保证客观上一定成功，可能只是某人的乐观描述。",
+    "examples": [
+      [
+        "The cold air made her cheeks rosy.",
+        "冷空气让她脸颊红润起来。"
+      ],
+      [
+        "The report paints a rosy picture of the industry’s future.",
+        "报告把这个行业的前景描绘得很乐观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rosy#English"
+    ]
+  },
+  {
+    "word": "rosebud",
+    "ipa": "英 /ˈrəʊzbʌd/；美 /ˈroʊzbʌd/",
+    "meaning": "玫瑰、蔷薇的花苞",
+    "sense": "花瓣还抱在一起、没完全展开，是 rosebud；不是花谢后留下的果实。",
+    "split": "rose 玫瑰、蔷薇类花木 + bud 花苞，合成植物部位名。",
+    "history": [
+      [
+        "拉丁语 rosa → 古英语 rōse；另有法语 rose 影响",
+        "玫瑰、蔷薇类花木名称；更远借入路径不全确定"
+      ],
+      [
+        "中古英语 rose → rose",
+        "花木；相应粉红、红色色彩及美好处境的比喻"
+      ],
+      [
+        "rose + bud → rosebud",
+        "玫瑰、蔷薇的花苞"
+      ]
+    ],
+    "explanation": "a closed rosebud 未开放的花苞，a pink rosebud 粉色玫瑰花苞，rosebuds on the stem 枝上的花苞。",
+    "usage": "a pink rosebud；a closed rosebud；a stem with rosebuds。",
+    "contrast": "rosebud 开花前花苞，rosehip 花后形成的果实；两词后一部分指的部位不同。",
+    "examples": [
+      [
+        "The first rosebud opened this morning.",
+        "第一朵玫瑰花苞今天早上开了。"
+      ],
+      [
+        "Several pink rosebuds were growing on the stem.",
+        "枝上长着几个粉色花苞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rosebud#English"
+    ]
+  },
+  {
+    "word": "rosehip",
+    "ipa": "英 /ˈrəʊzhɪp/；美 /ˈroʊzhɪp/",
+    "meaning": "玫瑰、蔷薇果",
+    "sense": "花谢以后长成的小果实，里面有种子，外部常见红橙色。这里 hip 是植物果实的旧词，不是人的臀部。",
+    "split": "rose + hip，hip 在这个组合里接蔷薇果的旧名。植物果名和身体髋、臀部同形，不可按人身部位硬记。",
+    "history": [
+      [
+        "拉丁语 rosa → 古英语 rōse；另有法语 rose 影响",
+        "玫瑰、蔷薇类花木名称；更远借入路径不全确定"
+      ],
+      [
+        "中古英语 rose → rose",
+        "花木；相应粉红、红色色彩及美好处境的比喻"
+      ],
+      [
+        "rose + 植物果名 hip → rosehip",
+        "蔷薇类花后的果实"
+      ]
+    ],
+    "explanation": "rosehip tea 蔷薇果茶，rosehip syrup 蔷薇果糖浆，wild rosehips 野蔷薇果。只说明食品名称，不从词形推导疗效。",
+    "usage": "rosehip tea；rosehip syrup；red rosehips。",
+    "contrast": "rosehip 果实，不是 rose petal 玫瑰花瓣，也不是 rosebud 花苞；hip 在此不指臀部。",
+    "examples": [
+      [
+        "Red rosehips covered the bushes in autumn.",
+        "秋天，灌木上结满了红色蔷薇果。"
+      ],
+      [
+        "The shop sells rosehip tea in small packets.",
+        "店里出售小袋装蔷薇果茶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rosehip#English"
+    ]
+  },
+  {
+    "word": "rosewood",
+    "ipa": "英 /ˈrəʊzwʊd/；美 /ˈroʊzwʊd/",
+    "meaning": "红木、花梨木等传统商业木材名称",
+    "sense": "名字里有 rose，不等于木头来自花店那种玫瑰。早期名称与某些木材的香气相连，后来也按色泽等用于相关木材。",
+    "split": "rose + wood 木材，旧命名联系玫瑰般香气，后也用于偏红褐色的木材。商业名覆盖不同木材，不能凭英语普通名断定唯一树种。",
+    "history": [
+      [
+        "拉丁语 rosa → 古英语 rōse；另有法语 rose 影响",
+        "玫瑰、蔷薇类花木名称；更远借入路径不全确定"
+      ],
+      [
+        "中古英语 rose → rose",
+        "花木；相应粉红、红色色彩及美好处境的比喻"
+      ],
+      [
+        "rose + wood → rosewood",
+        "以香气、色泽等命名的木材；并非玫瑰枝木"
+      ]
+    ],
+    "explanation": "a rosewood table 红木桌，rosewood furniture 红木家具，rosewood veneer 红木薄饰面。中文具体木种须看商品或植物资料。",
+    "usage": "rosewood furniture；a rosewood table；rosewood veneer。",
+    "contrast": "rosewood 木材名，不是所有红色木头都叫它，也不是 rose bush 的木头；redwood 又是另一类名称。",
+    "examples": [
+      [
+        "The old desk has a rosewood veneer.",
+        "那张旧书桌有一层红木薄饰面。"
+      ],
+      [
+        "The museum displayed a carved rosewood chair.",
+        "博物馆展出了一把雕花红木椅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rosewood#English"
+    ]
+  },
+  {
+    "word": "seater",
+    "ipa": "英 /ˈsiːtə/；美 /ˈsiːtər/",
+    "meaning": "有若干座的交通工具、座椅等〔通常带数量〕；安排座位者",
+    "sense": "a two-seater 把视线放在能坐几个人，不是在数车轮。也有使人坐下的执行者义，但日常更常碰到容量组合。",
+    "split": "seat + -er，既可接数量、容量形成有关座数的名词，也可表安排就座的人。本条不另收连字符词头，只在搭配中展示。",
+    "history": [
+      [
+        "古诺尔斯语 sæti 等 → 中古英语 sete → seat",
+        "可坐的位置、座位；与 sit 有旧同族关系"
+      ],
+      [
+        "英语 seat",
+        "座位、席位；使就座；机构所在处"
+      ],
+      [
+        "seat + -er → seater",
+        "按座数命名的器物、车辆；安排就座者"
+      ]
+    ],
+    "explanation": "a two-seater 两座车、双人座椅，a seven-seater 七座车；单独 seater 通常需要上下文给出容量。",
+    "usage": "a two-seater；a seven-seater；a seater for two。",
+    "contrast": "seater 说座位容量时，-er 不是司机；two-seater car 是两座车，不是有两个司机的车。",
+    "examples": [
+      [
+        "They chose a seven-seater for family trips.",
+        "他们选了一辆七座车用于家庭出游。"
+      ],
+      [
+        "The small sofa is a two-seater.",
+        "这张小沙发是双人座的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seater#English"
+    ]
+  },
+  {
+    "word": "unseat",
+    "ipa": "/ʌnˈsiːt/",
+    "meaning": "使离座、掀下座位；使失去席位、职位",
+    "sense": "骑手从马鞍上掉下来，是字面离座；议员、冠军失去位置，也能借位子被夺走来理解。",
+    "split": "un- 移除、逆转 + seat 使就座、给予席位。这里 un- 形成动作，不是简单形容一个东西不是座位。",
+    "history": [
+      [
+        "古诺尔斯语 sæti 等 → 中古英语 sete → seat",
+        "可坐的位置、座位；与 sit 有旧同族关系"
+      ],
+      [
+        "英语 seat",
+        "座位、席位；使就座；机构所在处"
+      ],
+      [
+        "un- + seat → unseat",
+        "使离开座位；使失去职位、席位"
+      ]
+    ],
+    "explanation": "unseat a rider 把骑手掀下，unseat a champion 击败卫冕者，unseat an incumbent 使在任者失去职位。",
+    "usage": "unseat a rider；unseat the champion；unseat the incumbent。",
+    "contrast": "unseat 让对方失位，resign 自己辞职；同样结果可能失去职位，施动关系却不同。",
+    "examples": [
+      [
+        "The horse’s sudden movement unseated the rider.",
+        "马突然一动，把骑手掀了下来。"
+      ],
+      [
+        "The young player unseated the defending champion.",
+        "那位年轻选手击败了卫冕冠军。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unseat#English"
+    ]
+  },
+  {
+    "word": "unseated",
+    "ipa": "/ʌnˈsiːtɪd/",
+    "meaning": "被掀离座位的；被挤下职位、冠军位置的",
+    "sense": "原来稳坐那个位置，现在已经被弄下来了。先看动作的结果，再区分马背、选举或比赛。",
+    "split": "作为 unseat 的过去式、分词，是 unseat + -ed，t 后 -ed 读 /ɪd/。形容词也可按 un- + seat + -ed 理解未安座等结构，常见文本先依句法判断。",
+    "history": [
+      [
+        "古诺尔斯语 sæti 等 → 中古英语 sete → seat",
+        "可坐的位置、座位；与 sit 有旧同族关系"
+      ],
+      [
+        "英语 seat",
+        "座位、席位；使就座；机构所在处"
+      ],
+      [
+        "unseat + -ed → unseated",
+        "已经使离座；被夺去席位、地位的"
+      ]
+    ],
+    "explanation": "be unseated 被掀下、被击败失位，an unseated champion 失去冠军位置的人。",
+    "usage": "be unseated；an unseated rider；the unseated champion。",
+    "contrast": "unseated 失位或离座，unseating 正在造成失位；并非所有站着的人都惯常叫 unseated。",
+    "examples": [
+      [
+        "The rider was unseated but landed on soft ground.",
+        "骑手被掀了下来，好在落在松软地面上。"
+      ],
+      [
+        "The champion was unseated in the final match.",
+        "冠军在最后一场比赛中被击败，失去了头衔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unseated#English"
+    ]
+  }
+]

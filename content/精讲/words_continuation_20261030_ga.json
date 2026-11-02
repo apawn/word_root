@@ -1,0 +1,380 @@
+[
+  {
+    "word": "weapon",
+    "ipa": "/ˈwepən/",
+    "meaning": "武器；用于对付他人的手段〔比喻〕",
+    "sense": "能拿来攻击、防御的东西；在争论里，一句话、一个秘密也可能成为对付人的 weapon。",
+    "split": "继承古英语 wǣpn，日耳曼语有相应近亲，深源未定。现代不用拼成 we 我们 + a + pon。",
+    "history": [
+      [
+        "古英语 wǣpn → 中古英语 wepen → weapon",
+        "用于攻击、防御的器物，深源不定"
+      ],
+      [
+        "英语直接派生",
+        "weaponry 武器总称；weaponize 把东西作为武器使用"
+      ]
+    ],
+    "explanation": "a defensive weapon 防御性武器，a secret weapon 秘密武器、制胜手段，a weapon against 用来对抗……的手段。",
+    "usage": "a defensive weapon；a secret weapon；a weapon against。",
+    "contrast": "weapon 核心看用于对抗的功能，tool 广义帮忙完成任务；同一实物在不同使用情境可能担任不同角色。",
+    "examples": [
+      [
+        "The museum displays weapons from several periods.",
+        "博物馆展出了几个时期的武器。"
+      ],
+      [
+        "Humour became her secret weapon in difficult conversations.",
+        "幽默成了她应对棘手谈话的秘密武器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weapon#English"
+    ]
+  },
+  {
+    "word": "weaponry",
+    "ipa": "/ˈwepənri/",
+    "meaning": "武器装备〔总称〕",
+    "sense": "把一整批武器作为总体来谈，不再一件件点名；词尾有集合的作用。",
+    "split": "weapon + -ry，集合性名词，通常不可数。-ry 在这里不是地名、工厂，也不表示一位操作武器的人。",
+    "history": [
+      [
+        "古英语 wǣpn → 中古英语 wepen → weapon",
+        "用于攻击、防御的器物，深源不定"
+      ],
+      [
+        "weapon + -ry → weaponry",
+        "武器的整体集合"
+      ]
+    ],
+    "explanation": "modern weaponry 现代武器装备，ancient weaponry 古代武器，an exhibition of weaponry 武器装备展。",
+    "usage": "modern weaponry；ancient weaponry；a collection of weaponry。",
+    "contrast": "weapons 可数复数与 weaponry 集合表达侧重不同；一般不因有很多种就说 many weaponries。",
+    "examples": [
+      [
+        "The exhibition traces changes in ancient weaponry.",
+        "展览追溯了古代武器装备的变化。"
+      ],
+      [
+        "The film uses replicas of historical weaponry.",
+        "影片使用了历史武器装备的复制道具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weaponry#English"
+    ]
+  },
+  {
+    "word": "weaponize",
+    "ipa": "/ˈwepənaɪz/",
+    "meaning": "使武器化；把……当武器利用",
+    "sense": "原本可能只是信息、情绪或普通工具，现在被拿来对付别人；词抓的是用途变成对抗手段。",
+    "split": "weapon + -ize，使成为、使具有武器作用。也见 weaponise 的英式拼法；比喻语境不要求发生物理改造。",
+    "history": [
+      [
+        "古英语 wǣpn → 中古英语 wepen → weapon",
+        "用于攻击、防御的器物，深源不定"
+      ],
+      [
+        "weapon + -ize → weaponize",
+        "赋予武器用途，或把事物用于对抗"
+      ]
+    ],
+    "explanation": "weaponize information 把信息当攻击工具，weaponize fear 利用恐惧打击对方，weaponized language 被用来攻击的语言。",
+    "usage": "weaponize information；weaponize fear；weaponized language。",
+    "contrast": "weaponize 强调把事物转成攻击、对抗工具，use 只说使用；批评某人 weaponizes a mistake，是说他拿错误打击别人。",
+    "examples": [
+      [
+        "The essay argues that fear can be weaponized in public debate.",
+        "文章认为，恐惧可能被用作公共争论中的攻击工具。"
+      ],
+      [
+        "She felt that her private messages had been weaponized against her.",
+        "她觉得自己的私人消息被拿来当成了攻击她的武器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/weaponize#English"
+    ]
+  },
+  {
+    "word": "latterly",
+    "ipa": "英 /ˈlætəli/；美 /ˈlætərli/",
+    "meaning": "后来、后期；近来〔较正式〕",
+    "sense": "把时间拉成一条线，视线移到靠后的一段：可以是某人生涯后期，也可以是最近一段时间。",
+    "split": "latter 后面的、较后的 + -ly，副词用法，不是 lateral 侧面的删几个字母。",
+    "history": [
+      [
+        "late、latter 的后时序词族",
+        "较晚、后一段"
+      ],
+      [
+        "latter + -ly → latterly",
+        "在后来、后期或最近"
+      ]
+    ],
+    "explanation": "latterly worked as 后来做……，latterly known as 后来被称为……，latterly more interested 近来更感兴趣。",
+    "usage": "latterly worked as；latterly known as；latterly became。",
+    "contrast": "latter 常作形容词、或 the latter 指后者；latterly 是时间副词，不能拿来替 two options 中的后者。",
+    "examples": [
+      [
+        "She was a teacher and latterly worked as an editor.",
+        "她曾是教师，后来做了编辑。"
+      ],
+      [
+        "Latterly, he has taken a greater interest in gardening.",
+        "近来，他对园艺更感兴趣了。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/latterly",
+      "https://en.wiktionary.org/wiki/latterly#English"
+    ]
+  },
+  {
+    "word": "loose",
+    "ipa": "/luːs/",
+    "meaning": "松的、宽松的；散装的、自由的；释放",
+    "sense": "螺丝没拧紧，衣服不贴身，头发没束起来，都有“没被牢牢收住”的感觉。",
+    "split": "借古诺尔斯语 lauss 的松、自由词族；形容词早有相应动词 loose 释放、松开。和 lose 丢失现代拼写、读音都要分清。",
+    "history": [
+      [
+        "古诺尔斯语 lauss → 中古英语 loos → loose",
+        "松开、自由、未束缚"
+      ],
+      [
+        "英语直接派生",
+        "loosely 松散地；loosen 使松；looseness 松散状态"
+      ],
+      [
+        "比较与组合",
+        "looser 更松；footloose 自由行动"
+      ]
+    ],
+    "explanation": "a loose screw 松螺丝，loose clothing 宽松衣服，loose change 零钱，on the loose 在逃、未受约束，loose ends 未收尾事项。",
+    "usage": "a loose screw；loose clothing；loose change；loose ends。",
+    "contrast": "loose /luːs/ 松，lose /luːz/ 丢失；looser /ˈluːsə/ 更松，loser /ˈluːzə/ 失败者，不只少一个 o。",
+    "examples": [
+      [
+        "The handle is loose.",
+        "把手松了。"
+      ],
+      [
+        "She wore a loose cotton shirt.",
+        "她穿了一件宽松棉衬衫。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/loose",
+      "https://en.wiktionary.org/wiki/loose#English"
+    ]
+  },
+  {
+    "word": "loosely",
+    "ipa": "/ˈluːsli/",
+    "meaning": "松散地、宽松地；大略地、不严密地",
+    "sense": "绳结没勒得紧，关系没绑得严，或故事只是大致参考旧事件；副词把“松”放进动作、联系里。",
+    "split": "loose + -ly，保留末尾 e，不能照 shiny 的去 e 规则写成 loosly。",
+    "history": [
+      [
+        "古诺尔斯语 lauss → 中古英语 loos → loose",
+        "松开、自由、未束缚"
+      ],
+      [
+        "loose + -ly → loosely",
+        "未收紧地；范围或对应不严格地"
+      ]
+    ],
+    "explanation": "loosely tied 松松系着，loosely based on 大致改编自，loosely connected 松散关联。",
+    "usage": "loosely tied；loosely based on；loosely connected。",
+    "contrast": "loosely based on 不是逐项忠实复述；loosely 也不是 lose 动词的副词，丢了钥匙不用这个词。",
+    "examples": [
+      [
+        "Tie the ribbon loosely around the box.",
+        "把丝带松松地系在盒子外。"
+      ],
+      [
+        "The film is loosely based on a true story.",
+        "影片大致取材于一个真实故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loosely#English"
+    ]
+  },
+  {
+    "word": "loosen",
+    "ipa": "/ˈluːsən/",
+    "meaning": "使松开、松动；放宽、缓和",
+    "sense": "刚才收得太紧，现在给一点余地：松领带、松螺母，或把控制放宽一点。",
+    "split": "loose + -en，形容词转成使变松、变松的动词；末尾 e 不重复，词干 /s/ 仍清音。",
+    "history": [
+      [
+        "古诺尔斯语 lauss → 中古英语 loos → loose",
+        "松开、自由、未束缚"
+      ],
+      [
+        "loose + -en → loosen",
+        "使更松、变得松动"
+      ]
+    ],
+    "explanation": "loosen a knot 松绳结，loosen a tie 松领带，loosen restrictions 放宽限制，loosen up 放松起来。",
+    "usage": "loosen a knot；loosen a tie；loosen restrictions；loosen up。",
+    "contrast": "loose 主要说状态，loosen 常说改变状态；loosen a screw 可只是松一点，不必完全 remove 拆掉。",
+    "examples": [
+      [
+        "He loosened his tie after the meeting.",
+        "散会后，他松了松领带。"
+      ],
+      [
+        "The rules were loosened to allow more flexibility.",
+        "规则放宽了，以便留出更多灵活空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loosen#English"
+    ]
+  },
+  {
+    "word": "looseness",
+    "ipa": "/ˈluːsnəs/",
+    "meaning": "松动、松散；宽松、不严密",
+    "sense": "把“没有收紧、没有严密扣住”当一个性质讨论：零件能晃，论证也可能松散。",
+    "split": "loose + -ness，保留 e，状态名词。现代不是 lose 丢失 + -ness。",
+    "history": [
+      [
+        "古诺尔斯语 lauss → 中古英语 loos → loose",
+        "松开、自由、未束缚"
+      ],
+      [
+        "loose + -ness → looseness",
+        "松紧程度的松；关系、论证不严密"
+      ]
+    ],
+    "explanation": "looseness in a joint 接合处松动，looseness of structure 结构松散，looseness in the argument 论证不严密。",
+    "usage": "looseness in a joint；looseness of structure；looseness in an argument。",
+    "contrast": "looseness 状态，loosen 动作；looseness of fit 说装配、合身关系，不能只固定译成随便态度。",
+    "examples": [
+      [
+        "The mechanic checked for looseness in the steering joint.",
+        "机械师检查了转向接合处是否松动。"
+      ],
+      [
+        "The editor pointed out a looseness in the argument.",
+        "编辑指出了论证不严密的地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/looseness#English"
+    ]
+  },
+  {
+    "word": "panel",
+    "ipa": "/ˈpænəl/",
+    "meaning": "板块、面板；专家或讨论小组；陪审团；给……镶板",
+    "sense": "一扇门上独立的一片是 panel；一排专家也叫 panel，历史桥梁是写着陪审员姓名的那片材料，再借指名单上的人。",
+    "split": "经法语接拉丁 pannus 布与小称 *pannellus。表面板块与人员小组两支各有发展，不是专家坐在木板上才得名。",
+    "history": [
+      [
+        "拉丁 pannus 布 → 通俗拉丁 *pannellus → 法语 panel → panel",
+        "一小片布，后来各种表面板块"
+      ],
+      [
+        "记录姓名的材料 → 被列出的人组",
+        "陪审名单材料 → 陪审团，再到专家、讨论小组"
+      ],
+      [
+        "人物与装饰派生",
+        "panelist 小组成员；paneled 用板镶装的"
+      ]
+    ],
+    "explanation": "a control panel 控制面板，a solar panel 太阳能板，a panel of experts 专家小组，a panel discussion 小组讨论。",
+    "usage": "a control panel；a solar panel；a panel of experts；a panel discussion。",
+    "contrast": "panel 板块、小组都可数；panel discussion 的 panel 是人员组，不是对着墙板讲话。",
+    "examples": [
+      [
+        "The control panel has three large buttons.",
+        "控制面板上有三个大按钮。"
+      ],
+      [
+        "A panel of experts reviewed the proposals.",
+        "专家小组审阅了提案。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/panel",
+      "https://en.wiktionary.org/wiki/panel#English"
+    ]
+  },
+  {
+    "word": "panelist",
+    "ipa": "/ˈpænəlɪst/",
+    "meaning": "小组讨论成员、嘉宾；评审组成员",
+    "sense": "坐在讨论或评审小组里的那个人；-ist 把人从 panel 小组里单独指出来。",
+    "split": "panel〔人员小组〕+ -ist，常见美式 panelist，英式常 panellist 双写 l；两种拼法同一读音、同一角色。",
+    "history": [
+      [
+        "拉丁 pannus 布 → 通俗拉丁 *pannellus → 法语 panel → panel",
+        "一小片布，后来各种表面板块"
+      ],
+      [
+        "记录姓名的材料 → 被列出的人组",
+        "陪审名单材料 → 陪审团，再到专家、讨论小组"
+      ],
+      [
+        "panel + -ist → panelist、panellist",
+        "讨论、评审小组成员"
+      ]
+    ],
+    "explanation": "a panelist at a conference 会议讨论嘉宾，invite a panelist 邀请小组成员，questions from panelists 小组成员的问题。",
+    "usage": "a conference panelist；invite a panelist；questions from panelists。",
+    "contrast": "panelist 是小组成员，不等于所有在场 audience 观众；panel 的板块义不用于这个人物称呼。",
+    "examples": [
+      [
+        "Each panelist had five minutes to speak.",
+        "每位小组嘉宾有五分钟发言。"
+      ],
+      [
+        "The audience asked the panelists several questions.",
+        "观众向小组嘉宾问了几个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/panelist#English"
+    ]
+  },
+  {
+    "word": "paneled",
+    "ipa": "/ˈpænəld/",
+    "meaning": "镶板的、用板装饰的",
+    "sense": "墙面、房间铺了一片片木板等板材，看得到独立板面；这里接材料，不接专家小组。",
+    "split": "panel 动词镶板 + -ed；美式常 paneled，英式常 panelled，两种都不多读一个 /ɪd/ 音节。",
+    "history": [
+      [
+        "拉丁 pannus 布 → 通俗拉丁 *pannellus → 法语 panel → panel",
+        "一小片布，后来各种表面板块"
+      ],
+      [
+        "panel + -ed → paneled、panelled",
+        "经板材镶装的性质"
+      ]
+    ],
+    "explanation": "a wood-paneled room 木板镶面的房间，paneled walls 镶板墙，a paneled door 镶板门。",
+    "usage": "paneled walls；a paneled door；a wood-paneled room。",
+    "contrast": "paneled 装修性质，panelist 人物；拼写单、双 l 是变体，不代表用了不同板材。",
+    "examples": [
+      [
+        "They met in a wood-paneled room.",
+        "他们在一间木板镶面的房间里见面。"
+      ],
+      [
+        "The old house has paneled doors.",
+        "老房子装着镶板门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/paneled#English"
+    ]
+  }
+]

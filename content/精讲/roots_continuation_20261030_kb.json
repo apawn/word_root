@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B2918",
+    "meaning": "小虫、恼人问题与技术故障，以及多源近形词的辨认",
+    "core": "BUG：具体小虫与恼人问题有常用扩展，BUGGER 粗口另有来源",
+    "image": "bug → buggy 形容词、debug；jitterbug、firebug 已固定；bugger 的日常粗口不能按 bug + -er 拆。",
+    "intro": "本组要同时抓住活用与边界。系统故障的历史早于飞蛾故事，轻便车 buggy 和粗口 bugger 也不能用小虫一路解释。",
+    "forms": "旧 bugge 相关来源存在讨论；de- 去除、-y 性质；车辆 buggy 来源未明，粗口 bugger 经 bougre 等另线发展。\n\n早期精怪、虫名关系未全明，技术故障义早于1947年的飞蛾故事。",
+    "branches": [
+      [
+        "基础与技术、性质",
+        "bug · buggy · debug"
+      ],
+      [
+        "固定人物、舞蹈和动物名",
+        "jitterbug · firebug"
+      ],
+      [
+        "常见近形、不同源词",
+        "bugger"
+      ],
+      [
+        "已学的具体虫名、比喻",
+        "ladybug · bedbug · superbug · bugbear"
+      ],
+      [
+        "bug → bugs：小虫与恼人的故障",
+        "bug · bugs"
+      ]
+    ],
+    "contrasts": "电脑飞蛾不是 bug 故障义的起源；bugger 粗口另有来源；buggy 名词可是一辆车。",
+    "practice": "The developer debugged the buggy program after finding a bug.\n\n开发者发现一个缺陷后，着手调试那个问题较多的程序。",
+    "words": [
+      "bug",
+      "buggy",
+      "debug",
+      "jitterbug",
+      "firebug",
+      "bugger",
+      "ladybug",
+      "bedbug",
+      "superbug",
+      "bugbear",
+      "bugs"
+    ],
+    "exclude": {
+      "bug-man": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bug-a-boo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bug-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3487",
+    "meaning": "无法避开的性质、事件方式与必然性名词",
+    "core": "INEVITABLE：没有能绕开的路；加词尾改变句中任务",
+    "image": "inevitable → inevitably、inevitability。",
+    "intro": "先抓避不开，再分形容结果、修饰事件和讨论必然性。判断力度、条件仍看文本。",
+    "forms": "in- 不 + ēvītābilis 可避开 → inevitable；-ble → -bly 副词，-able → -ability 名词。",
+    "branches": [
+      [
+        "性质、方式与名词",
+        "inevitable · inevitably · inevitability"
+      ]
+    ],
+    "contrasts": "inevitable 比 likely 强；inevitability 与 probability 不同；inevitably 拼写不是 inevitablely。",
+    "practice": "The delay seemed inevitable, but the report questioned its inevitability.\n\n延误看似难免，报告却质疑它是否真的不可避免。",
+    "words": [
+      "inevitable",
+      "inevitably",
+      "inevitability"
+    ],
+    "exclude": {}
+  }
+]

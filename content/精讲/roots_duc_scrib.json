@@ -5,7 +5,7 @@
     "core": "DUC / DUCT = LEAD",
     "image": "同一个“带”的动作，换个方向就长出不同意思",
     "intro": "拉丁语 **dūcere** 是“带领、引导”。先想象一个人把你往某个方向带：**introduce** 带进来，**produce** 带出来，**reduce** 的历史起点是带回去，**abduct** 带离原处。方向还可以抽象化：把证据带进讨论是 adduce，从证据带出结论是 deduce。",
-    "forms": "**duc- 与 duct- 是拉丁语词形变化留下的对应。** dūcere 的分词是 ductus；很多英语名词和形容词保留 duct-，例如 introduce / introduction、produce / product。它不是英语里可以任意把 ce 改成 ct 的万能规则。produce、conduct、adduct 的名词与动词还可能改变重音。",
+    "forms": "**duc- 与 duct- 是拉丁语词形变化留下的对应。** dūcere 的分词是 ductus；很多英语名词和形容词保留 duct-，例如 introduce / introduction、produce / product。它不是英语里可以任意把 ce 改成 ct 的万能规则。produce、conduct、adduct 的名词与动词还可能改变重音。\n\nproduct 接拉丁 producere 带出、产生的分词；products 是现代复数，数学语境另看乘法。\n\nproduce 接拉丁 pro- 加 ducere 带，produced 是动词过去形式，词尾读 /st/。\n\nintro- 向内与 ducere 带领构成早期词；introduced 词尾读 t。\n\n由较早带回、转到另一状态的意义，发展为减少、降低。\n\n带领词族发展到使过程向前运行。\n\n拉丁向前带领的词族，扩展到生产、创作与拿出。\n\nproduce 去 e 加人物 er，再有英语规则复数。\n\n拉丁往回与带领的组合，现代主要表达减少。\n\n拉丁 intro- 与 ducere；英语动词有拉丁借入或较早 introduction 逆构分析，ing 形式去 e。\n\n拉丁 pro- 与 ducere 到 producere；三单沿动词后重音，农产品名词通常不可数。\n\n拉丁 in 与 ducere 的带入词族，英语表示促使、引起。\n\n拉丁 reducere 经法语等路线，现代三单 /s/ 后多 /ɪz/ 音节。\n\n拉丁 con- 一起与 ducere 带领形成 conducere，动词后重音保持。\n\nproduction 经法语、拉丁名词独立借入，复数常数影视舞台作品，不是生产过程随意加 s。\n\n拉丁 introductio 经法语传入，duct 的词形与 introduce 同族，但不是随意替换英语 ce 的拼写规则。\n\ncon- 一起 + ducere 带领的拉丁词族，音乐指挥、列车员、导体各自按用途理解；conductor 也有法语、拉丁整词借入历史。\n\neducator 借拉丁 educator，接 educare 养育、教育，与 educere 引出有历史联系；不把引出潜能的现代口号写成唯一原义。现代复数词尾 /z/。\n\nintroduce 接拉丁 introducere 引入，也有从 introduction 逆构的分析。现代保留 e 加 -s，/s/ 后读 /ɪz/；不是 introduce 再加 -es 写成 introducees。\n\nreduction 经法语、拉丁 reductio 接 reducere 引回，后说减少。复数可数降幅、减价等；化学还原是专门义，不能只按数量变少解释。",
     "branches": [
       [
         "把东西带出来",
@@ -34,6 +34,82 @@
       [
         "培养与教育",
         "educate · education · educator"
+      ],
+      [
+        "product → products：产物、产品和乘积",
+        "product · products"
+      ],
+      [
+        "produce → produced：带出来、做出来",
+        "produce · produced"
+      ],
+      [
+        "introduce → introduced：带进来、引进与介绍",
+        "introduce · introduced"
+      ],
+      [
+        "reduce → reduced：带回、降到较小状态",
+        "reduce · reduced"
+      ],
+      [
+        "conduct → conducted：引领、实施与传导",
+        "conduct · conducted"
+      ],
+      [
+        "produce → producing：把成果带出来",
+        "produce · producing"
+      ],
+      [
+        "produce → producer → producers：生产、制作的承担者",
+        "produce · producer · producers"
+      ],
+      [
+        "reduce → reducing：带到较低数量或状态",
+        "reduce · reducing"
+      ],
+      [
+        "introduce → introducing：带进来、第一次让人认识",
+        "introduce · introduced · introducing · introduction"
+      ],
+      [
+        "produce → produces：把结果带出来",
+        "produce · produces"
+      ],
+      [
+        "induce → induced：带进某个结果",
+        "induce · induced"
+      ],
+      [
+        "reduce → reduces：带回、带到较小状态",
+        "reduce · reduces"
+      ],
+      [
+        "conduct → conducting：引导、开展、指挥与传导",
+        "conduct · conducting"
+      ],
+      [
+        "produce、production → productions：制作出来的作品",
+        "produce · production · productions"
+      ],
+      [
+        "introduction → introductions：引入、介绍、导论",
+        "introduction · introductions"
+      ],
+      [
+        "conduct 的引导、指挥、传导与相应人物器物",
+        "conduct · conducts · conductor · conductors"
+      ],
+      [
+        "养育、教导 → educator → educators",
+        "educators"
+      ],
+      [
+        "intro- 向里 + duc- 带领 → introduces",
+        "introduces"
+      ],
+      [
+        "re- 回 + duct- 引导 → reductions",
+        "reductions"
       ]
     ],
     "contrasts": "**deduce 与 deduct**：前者推断结论，后者扣除数量；两者的名词都可能是 deduction。\n\n**conducive 与 conductive**：前者说条件有利，后者说材料可以传导。安静环境 conducive to study，铜是 conductive material。\n\n**教育词族不能硬讲成口号。** educate 直接连着 ēducāre“养育、训练”，它与 ēdūcere 有历史关系，但“教育原本就是引出潜能”不能当作已经证明的古代定义。\n\n**ab- 与 ad- 的方向很具体。** abduct / abduction 离开身体中线；adduct / adductor 向中线靠近。这是解剖语境的用法，与绑架义分开理解。",
@@ -80,7 +156,27 @@
       "adduce",
       "conduce",
       "traduce",
-      "abduce"
+      "abduce",
+      "products",
+      "produced",
+      "introduced",
+      "reduced",
+      "conducted",
+      "producing",
+      "producers",
+      "reducing",
+      "introducing",
+      "produces",
+      "induced",
+      "reduces",
+      "conducting",
+      "productions",
+      "introductions",
+      "conducts",
+      "conductors",
+      "educators",
+      "introduces",
+      "reductions"
     ]
   },
   {
@@ -89,7 +185,7 @@
     "core": "SCRIB / SCRIPT = WRITE",
     "image": "把内容写出来：写在下面、写在前面、写到另一处",
     "intro": "拉丁语 **scrībere** 是“写”。想象同一支笔换位置：**subscribe** 在下面签名表示同意；**prescribe** 事先写明要求；**inscribe** 写在物品上；**transcribe** 把内容写到另一种记录里。**describe** 则用文字为别人画出事物的样子。",
-    "forms": "**scrib- 与 script- 来自同一个拉丁动词的不同形式。** scrībere 的分词是 scrīptus，所以 describe / description、prescribe / prescription、transcribe / transcription 会成对出现。字母 b 在历史词形中与后面的音发生变化，不是今天见到 -scribe 就能自由拼出一个新词。",
+    "forms": "**scrib- 与 script- 来自同一个拉丁动词的不同形式。** scrībere 的分词是 scrīptus，所以 describe / description、prescribe / prescription、transcribe / transcription 会成对出现。字母 b 在历史词形中与后面的音发生变化，不是今天见到 -scribe 就能自由拼出一个新词。\n\ndescribe 的 de- 在这里不作否定；described 常与 as 连用说被描述为何种样子。\n\n拉丁写词族的名词借入，script 与 scrib 为历史词干对应。\n\n拉丁写下、描画词族经法语等借入。\n\n拉丁 describere 经法语借入，英语去 e 加 ing。\n\nsubscribe 去 e 加完整 er，名词复数再加 s。\n\nprae 加 scribere 的拉丁构成经借入，现代 prescribe 去 e 加完整 ed。\n\n稿件今天可由电脑制作；transcribe 把话语等转为文字，transcript 是相应文字记录之一。\n\nscribble 可联系中古英语 scriben 加旧细小反复尾，也有中世纪拉丁语 scribillare 来源分析；现代去不发音 e 再加完整词尾。",
     "branches": [
       [
         "用文字画出来",
@@ -118,6 +214,38 @@
       [
         "写出归属或界限",
         "ascribe · circumscribe"
+      ],
+      [
+        "describe → described：写下来、描画到描述",
+        "describe · described"
+      ],
+      [
+        "description → descriptions：写下特征与描写",
+        "description · descriptions"
+      ],
+      [
+        "describe → describes：写出、描出样子",
+        "describe · describes"
+      ],
+      [
+        "describe → describing：用话把样子描出来",
+        "describe · describing · description"
+      ],
+      [
+        "subscribe → subscriber → subscribers：签认、订阅的一方",
+        "subscribe · subscriber · subscribers"
+      ],
+      [
+        "prescribe → prescribed：预先写下要求",
+        "prescribe · prescribed"
+      ],
+      [
+        "script 的打字稿、手稿与转录分支",
+        "typescript · typescripts · manuscript · manuscripts · transcript · transcripts · transcribe · transcribes · transcribed · transcribing"
+      ],
+      [
+        "scribble：快速落笔、潦草写画",
+        "scribble · scribbles · scribbled · scribbling"
       ]
     ],
     "contrasts": "**describe 与 prescribe**：一个描述实际是什么样，一个规定应该怎样做。description 不等于 prescription。\n\n**subscribe 与 subscript**：两者都能看见“写在下面”的画面，但 subscribe 已发展为签认、赞同和订阅，subscript 保留写在低处的“下标”意思。\n\n**manuscript 不必真的手写。** 它的历史起点是手稿，现代出版语境也包括电脑写成、尚待出版的稿件。\n\n**scribble 的早期路线有不同分析。** 保留它与书写词族的联系，但不把一个猜测写成唯一历史。",
@@ -149,7 +277,22 @@
       "subscript",
       "inscribe",
       "prescriber",
-      "circumscribe"
+      "circumscribe",
+      "described",
+      "descriptions",
+      "describes",
+      "describing",
+      "subscribers",
+      "prescribed",
+      "typescripts",
+      "manuscripts",
+      "transcripts",
+      "transcribes",
+      "transcribed",
+      "transcribing",
+      "scribbles",
+      "scribbled",
+      "scribbling"
     ]
   }
 ]

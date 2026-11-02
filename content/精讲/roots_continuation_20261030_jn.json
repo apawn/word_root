@@ -1,0 +1,98 @@
+[
+  {
+    "id": "B4371",
+    "meaning": "沾染、感染的历史联系，以及去除感染因素的处理名词",
+    "core": "INFECTION：感染过程；DISINFECTION：消毒处理",
+    "image": "infection → disinfection，后者不是单纯没有感染，而是处理过程。",
+    "intro": "旧染色、污染的概念发展到感染。现代术语还需区分感染、炎症、清洁、消毒与灭菌，不能只靠一个前缀概括全部。",
+    "forms": "拉丁 inficere、īnfectiō 经法语进入英语；现代与 infect + -ion 对应；dis- 连接去除、反转。\n\n拉丁 inficere、infectio 经法语等传入，现代义与旧染色、沾染相连。",
+    "branches": [
+      [
+        "感染与消毒过程",
+        "infection · disinfection"
+      ],
+      [
+        "infection → infections：沾染、感染的一次次事件",
+        "infection · infections"
+      ]
+    ],
+    "contrasts": "infection 不等于 inflammation；disinfection 不等于 sterilization。",
+    "practice": "The chapter discusses infection and explains the purpose of disinfection.\n\n这一章讨论感染，并说明消毒的目的。",
+    "words": [
+      "infection",
+      "disinfection",
+      "infections"
+    ],
+    "exclude": {
+      "self-infection": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-infection": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3904",
+    "meaning": "围包、包裹材料，以及收尾、换行和软件封装等扩展",
+    "core": "WRAP：用一层东西围住；扩展看收拢、换行或接口外层",
+    "image": "wrap → wrapping、wrapper；unwrap 解开；wraparound 按环绕的设计命名。",
+    "intro": "材料包围物件是最直观的起点。不同领域会借一部分关系形成固定用法，不必把每次 wrap 都翻成包装纸。",
+    "forms": "中古英语 wrappen → wrap；w 不发音；-ing、-er 前双写 p，un- 反转动作，around 表方向。\n\n保留包在一层东西里的画面；wrapped 双写 p，词尾读 t，更早来源有不同解释。\n\n与 wrap 比较包裹功能，不是 wrap 派生。envelope 借法语 enveloppe，法语名词由 envelopper 包裹形成；更远 voloper 来源未定。",
+    "branches": [
+      [
+        "动作、材料与包覆层",
+        "wrap · wrapping · wrapper"
+      ],
+      [
+        "解开与环绕设计",
+        "unwrap · wraparound"
+      ],
+      [
+        "wrap → wrapped：包裹以及注意力被占住",
+        "wrap · wrapped · wrapping"
+      ],
+      [
+        "envelope：另源的包覆物、信封",
+        "envelope · envelopes"
+      ]
+    ],
+    "contrasts": "wrapper 与 rapper 同音；wrap up 工作是收尾，word wrap 是文本换行。",
+    "practice": "She unwrapped the gift and folded the wrapper for reuse.\n\n她拆开礼物，把外包装折好准备再用。",
+    "words": [
+      "wrap",
+      "wrapping",
+      "wrapper",
+      "unwrap",
+      "wraparound",
+      "wrapped",
+      "envelope",
+      "envelopes"
+    ],
+    "exclude": {
+      "shrink-wrap": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4471",
+    "meaning": "具有某种尺寸，以及超过、不足、居中等尺寸比较",
+    "core": "SIZED：尺寸要有比较基准，前半告诉你怎样比",
+    "image": "sized → oversized、undersized；midsized 处在同类中间，supersized 强调特大。",
+    "intro": "大、小不一定是不合适。oversized 可能是有意设计，undersized 则常带相对要求偏小的意思。",
+    "forms": "size + -ed → sized；over- 超过、under- 不足、mid- 居中，super- 加强尺寸。",
+    "branches": [
+      [
+        "尺寸性质与比较",
+        "sized · oversized · undersized · midsized · supersized"
+      ]
+    ],
+    "contrasts": "sized 读 /saɪzd/；oversized 与 large 不完全一样，undersized 也不是 underused。",
+    "practice": "The first container was undersized, while the replacement was unnecessarily oversized.\n\n第一个容器偏小，换来的那个却又大得没必要。",
+    "words": [
+      "sized",
+      "oversized",
+      "undersized",
+      "midsized",
+      "supersized"
+    ],
+    "exclude": {
+      "pea-sized": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

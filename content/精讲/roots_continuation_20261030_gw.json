@@ -1,0 +1,161 @@
+[
+  {
+    "id": "B4357",
+    "meaning": "燃烧、灼热，及迫切强烈的比喻",
+    "core": "BURNING：火在烧，也能是问题急着要解决",
+    "image": "burning 火热 → burning desire 强烈愿望、burning question 迫切问题。",
+    "intro": "这页把动作分词与形容词一起复习。真正燃烧需要物理上下文，愿望和问题则借热度说强烈、迫切。",
+    "forms": "burn + -ing → burning；古英语已有燃烧动词材料，形容词和动作名用法随分词发展。",
+    "branches": [
+      [
+        "燃烧、灼热及迫切",
+        "burn · burning"
+      ]
+    ],
+    "contrasts": "burning question 是迫切问题，不是纸上问题正在着火；-ing 不保证每次都必须译正在。",
+    "practice": "A burning desire to understand drove her to ask the burning question.\n\n强烈的求知欲促使她提出那个迫切需要解决的问题。",
+    "words": [
+      "burn",
+      "burning"
+    ],
+    "exclude": {
+      "long-burning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "slow-burning": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3848",
+    "meaning": "悬挂动作、悬垂状态和悬而未决",
+    "core": "HANGING：上面挂着，下面垂着；答案也可能悬着",
+    "image": "hanging basket 吊篮；wall hanging 壁挂；leave hanging 让事情没有结果。",
+    "intro": "先抓悬垂画面，名词可以说垂挂的装饰，抽象比喻说结果迟迟没落地。特定绞刑名词义则由上下文辨。",
+    "forms": "hang + -ing → hanging，作动作形式、形容词和名词；悬挂常用 hung，绞刑传统多用 hanged。\n\n挂衣服、悬挂等通常用 hung；以绞刑处死人通常用 hanged。现代用法是历史上多种挂、悬动词形式合流后的分工。\n\nhinge 与 hang 的日耳曼悬挂材料同族；中古英语 henge 可见，更早古英语 *henġ、*henġe 属重构形式，保留星号区别。现代派生另列。\n\nhang 汇合古英语悬挂某物、处于悬挂两种动词材料，现代 -s，/ŋ/ 后读 /z/。主动挂起与物品挂着，两种句法都常见。",
+    "branches": [
+      [
+        "悬挂、垂挂物和悬而未决",
+        "hang · hanging"
+      ],
+      [
+        "hung 与 hanged 的常用分工",
+        "hang · hung · hanged"
+      ],
+      [
+        "hang 的日耳曼同族 hinge：支点、依赖与解除固定",
+        "hang · hinge · hinges · hinged · hinging · unhinge · unhinged"
+      ],
+      [
+        "hang 悬挂 → hangs",
+        "hangs"
+      ]
+    ],
+    "contrasts": "hanging/hanger 状态或悬挂物与衣架；leave hanging 不必有实际物理悬吊。",
+    "practice": "A wall hanging showed a scene with hanging baskets.\n\n壁挂上画着一幅有吊篮的场景。",
+    "words": [
+      "hang",
+      "hanging",
+      "hung",
+      "hanged",
+      "hinge",
+      "hinges",
+      "hinged",
+      "hinging",
+      "unhinge",
+      "unhinged",
+      "hangs"
+    ],
+    "exclude": {
+      "free-hanging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "low-hanging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3854",
+    "meaning": "小袋、口袋及装袋动作、口袋量",
+    "core": "POCKET：随身的小袋，能装东西也能当量器",
+    "image": "pocket → pocketed 动作或特征；pocketful 一兜；pocketbook、pickpocket 进一步组合。",
+    "intro": "把东西装入口袋、有口袋和一口袋的量，中文很接近，英语却靠词尾、句型明确分工。",
+    "forms": "poque/poquette → pocket；pocket + -ed/-ful/book；pick + pocket。\n\n地区和上下文区分固定用途，不把每个 pocketbook 都按书页实物理解。",
+    "branches": [
+      [
+        "基本口袋及装入、带有",
+        "pocket · pocketed"
+      ],
+      [
+        "口袋的量与组合",
+        "pocketful · pocketbook · pickpocket"
+      ],
+      [
+        "pocketbook → pocketbooks：便携书册、钱包与财力",
+        "pocketbook · pocketbooks"
+      ]
+    ],
+    "contrasts": "pocketful/pocket full 量名词与口袋装满的结构；pocketed money 不自动表示私吞。",
+    "practice": "The pickpocket pocketed a pocketful of coins.\n\n扒手把一兜硬币塞进自己口袋。",
+    "words": [
+      "pocket",
+      "pocketed",
+      "pocketful",
+      "pocketbook",
+      "pickpocket",
+      "pocketbooks"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3792",
+    "meaning": "敬畏旧义转到糟糕；副词又可只是很",
+    "core": "AWFUL：今天多说糟糕，awfully 却还可加强程度",
+    "image": "awful → awfully、awfulness；三个形式的现代语气不能只用一个糟糕包办。",
+    "intro": "词源的敬畏画面解释历史，现代主要义仍要按习惯：awful weather 糟糕天气，awfully kind 却很友善。",
+    "forms": "awe + -ful → awful；awful + -ly/-ness → awfully/awfulness。",
+    "branches": [
+      [
+        "敬畏、基本评价、程度与性质名词",
+        "awe · awful · awfully · awfulness"
+      ]
+    ],
+    "contrasts": "awful 糟糕与 awfully 很、极其分用；awfulness 性质名词；古老令人敬畏不覆盖今天所有用法。",
+    "practice": "He was awfully kind about the awfulness of my first attempt.\n\n我的第一次尝试很糟，他却非常体谅。",
+    "words": [
+      "awe",
+      "awful",
+      "awfully",
+      "awfulness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3874",
+    "meaning": "人体髋部、时髦俚语与玫瑰果分源",
+    "core": "HIP：同样三个字母，先选身体、潮流还是果实",
+    "image": "hip → hipped 建筑、体形支；hip → hipster 时髦人物支；rosehip 是另一旧果实词组合。",
+    "intro": "同形词特别容易被记忆故事绑错。身体部位、屋面外角有形状支，潮流俚语的更早来源却不确定，玫瑰果也另源。",
+    "forms": "hype → 身体 hip；hēope → 果实 hip；hip/hep 俚语 → hipster；hip + -ed；hipper/hippest 是比较级、最高级。\n\n身体 hip 承古英语 hype；蔷薇果 hip 另接古英语 heope 等，远源分别不定。两类名词现代复数均加 -s，词尾 /ps/。",
+    "branches": [
+      [
+        "身体、形状与建筑",
+        "hip · hipped"
+      ],
+      [
+        "时髦人物与另源果实",
+        "hipster · rosehip"
+      ],
+      [
+        "hips：髋、臀与蔷薇果分源",
+        "hips"
+      ]
+    ],
+    "contrasts": "hip/waist 髋侧与腰；hipster/hippie 不同文化标签；hipped roof 不译成时髦屋顶。",
+    "practice": "The hip café stands in a house with a hipped roof.\n\n那家时髦咖啡馆开在一座有四坡式屋顶的房子里。",
+    "words": [
+      "hip",
+      "hipped",
+      "hipster",
+      "rosehip",
+      "hips"
+    ],
+    "exclude": {
+      "hipper": "比较级已在 hip 条内解释；同形的罕见器物名先略。"
+    }
+  }
+]

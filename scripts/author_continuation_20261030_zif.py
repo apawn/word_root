@@ -1,0 +1,162 @@
+"""Ways of throwing: force, sudden movement, an arc and casual tossing."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+def S(word,base):
+ return ['https://en.wiktionary.org/wiki/'+word+'#English','https://www.etymonline.com/word/'+base]
+EXISTING_ROOT_ADDITIONS={
+ 'B3002':dict(words='hurl hurls hurled hurling fling flings flung flinging lob lobs lobbed lobbing sling slings slung slinging slingshot slingshots'.split(),label='几种抛法：hurl、fling、lob、sling',note='这些词与 throw 作动作比较，不是现代 throw 的派生。hurl 可能接快速运动拟声材料；fling 可能接北欧击打词；lob 高弧抛远源未定；sling 则有日耳曼摆、扭转与带环材料。各按自己的历史理解。'),
+ 'B4221':dict(words='chuck chucks chucked chucking'.split(),label='chuck：随手扔、丢掉',note='本次补抛掷动词，较早是 chock 击打变体，可能接法语 choquer；肉块、夹头等同形名词另接木块 chock 材料，不能让所有支都从 chuckle 笑声派生。'),
+ 'B2976':dict(words='slingshot slingshots'.split(),label='slingshot → slingshots：弹弓复数',note='sling 抛、投 + shot 发射物、发射，形成弹弓名；复数直接加 -s。区别于传统靠绳带旋转投石的 sling，不必把两种器具结构画成一样。'),
+}
+HURL=[['中古英语 hurlen：相撞、冲撞 → 用力投掷','可能接日耳曼快速运动的拟声材料，远源未定'],['hurl：用力扔；也把辱骂等像东西一样甩出去','hurling 还作爱尔兰曲棍球运动名']]
+FLING=[['中古英语 fling 冲、奔，可能接古诺尔斯 flengja 击打','较远日耳曼材料的路线仍有不确定'],['英语甩、猛抛；名词一次放纵、短暂交往等','现代过去式、过去分词 flung，不按规则加 -ed']]
+LOB=[['lob 较早有轻缓抛等动词用法','更远可能接旧 lumpish、垂坠等材料，联系未定'],['高弧线抛、挑球 → 名词一记高挑球','现代优先记球向上越过对方的轨迹']]
+CHUCK=[['抛掷 chuck 是旧 chock 击打的变体','可能接法语 choquer 撞击材料'],['随手抛、扔 → 丢弃、放弃等口语搭配','肉块、夹头等同形名词另有木块材料']]
+SLING=[['日耳曼摆动、扭转、带环材料 → sling','名词投石索、吊带与动词抛各有早期记录'],['吊带承载、随手甩放 → sling a bag over a shoulder','现代过去式、过去分词 slung；弹弓名另组合 shot']]
+W('hurl','英 /hɜːl/；美 /hɝl/','用力投掷、猛扔；大声抛出辱骂、指责等',
+ '手臂发力，把东西狠狠扔出去，是 hurl。吵架时把一句句难听话朝对方甩过去，也借这个有力度的动作。',
+ '中古英语 hurlen 较早有冲撞义，后见用力投掷；可能接日耳曼快速运动、轰响的拟声材料，远源未定。不是由现代 throw 改字母。',HURL,
+ 'hurl a ball 是猛投球；hurl insults at someone 是冲某人甩出辱骂；hurl yourself into work 是全身心扑进工作。',
+ 'hurl a ball；hurl insults；hurl yourself into a task。',
+ 'hurl 常比 throw 更有猛力、情绪；toss 常偏轻快、随手。动作强弱仍要结合对象，不能只按中文扔合并。',
+ ('He tried to hurl the ball as far as he could.','他想把球尽量投远。'),('There is no need to hurl insults at each other.','没必要互相破口辱骂。'),sources=S('hurl','hurl'))
+W('hurls','英 /hɜːlz/；美 /hɝlz/','猛投、甩出辱骂等〔第三人称单数〕；猛抛〔复数〕',
+ '角色一生气就把指责往别人身上甩，可以说 hurls accusations。用力投出去的感觉，从实物换到了话语。',
+ 'hurl + -s，/l/ 后读 /z/；优先掌握动词三单，也可数一次次猛抛。',HURL+[['hurl + -s → hurls','他、她猛投或甩出指责；也可作动作复数']],
+ 'hurls a ball 描述实物投掷，hurls abuse 描述恶语；at 交代话或物朝向谁。',
+ 'hurls the ball；hurls accusations；hurls abuse at someone。',
+ 'hurls accusations 常暗含情绪激烈，makes an accusation 只说提出指控；两者语气强度不必相同。',
+ ('The player hurls the ball across the field.','球员用力把球投向场地另一边。'),('In the scene, she hurls accusations at everyone around her.','那一幕里，她气冲冲地指责身边所有人。'),sources=S('hurls','hurl'))
+W('hurled','英 /hɜːld/；美 /hɝld/','猛扔了、猛投了；甩出了指责、辱骂等',
+ '东西已经被一股力量甩出去，或一句重话已经狠狠丢给对方，过去这一刻可写 hurled。',
+ 'hurl + 完整 -ed，/l/ 后读 /d/；不另加一个音节。',HURL+[['hurl + -ed → hurled','过去猛投，或被强力甩出']],
+ 'hurled the ball 写主动，was hurled across the room 写被甩出去；hurled insults at 写过去恶语相向。',
+ 'hurled the ball；hurled accusations；was hurled aside。',
+ 'hurled 是 hurl 的规则过去式，flung 是 fling 的不规则过去式；同样能写猛抛，变化方式不同。',
+ ('She hurled the ball towards the far end of the field.','她用力把球投向场地远端。'),('The storm hurled branches across the road.','风暴把树枝甩落到路上。'),sources=S('hurled','hurl'))
+W('hurling','英 /ˈhɜːlɪŋ/；美 /ˈhɝlɪŋ/','正在猛投、甩出；爱尔兰曲棍球运动',
+ '猛投东西或甩出话语的过程，是 hurling；看爱尔兰体育时，这个词又可能直接是用球杆、球比赛的运动名。',
+ 'hurl + -ing；既是过程形式，也成为爱尔兰相应运动的名称。运动规则是后来的专门用法，不只等于随便扔球。',HURL+[['hurl + -ing → hurling','猛投过程；也用作爱尔兰运动名']],
+ 'hurling insults 是在辱骂，play hurling 是参加相应运动；看 play 和比赛场景就能选对分支。',
+ 'hurling the ball；hurling insults；a hurling match。',
+ 'hurling 作运动名不是普通 field hockey 的完全同义替换；认作一种有自己传统、规则的爱尔兰球类即可。',
+ ('The children were hurling balls at a painted target.','孩子们正在朝涂画的目标用力投球。'),('We watched a hurling match on television.','我们在电视上看了一场爱尔兰曲棍球比赛。'),sources=S('hurling','hurl')+['https://www.etymonline.com/word/hurling'])
+W('fling','/flɪŋ/','猛抛、甩开；突然伸展；短暂放纵、短暂恋情',
+ '一把甩开窗帘、猛地张开双臂，是 fling 的突然动作。名词 a fling 又可说放开玩一阵，或一段不打算长久的恋情。',
+ '较早英语有冲、奔义，可能接古诺尔斯 flengja 击打，更远路线有不确定；后来有甩、抛等用法。名词的尝试、放纵、短暂交往按各自分支学，不当作真实投掷事件。',FLING,
+ 'fling the door open 是猛地拉开门；fling yourself into work 是一头投入工作；a brief fling 常是短暂恋情。',
+ 'fling open a window；fling your arms around someone；a brief fling。',
+ 'fling 常带突然、放开、没多控制的劲，place 是有意放好；名词恋情义也不同于长期承诺的关系。',
+ ('Please do not fling your bag onto the table.','请别把包猛地甩到桌上。'),('Their summer fling ended when they returned home.','他们那段夏日短暂恋情在回家后结束了。'),sources=S('fling','fling'))
+W('flings','/flɪŋz/','猛抛、甩开〔第三人称单数〕；短暂放纵、恋情〔复数〕',
+ '他回家就一甩外套，是 flings his coat aside；回忆几段短暂恋情，可能写 flings。句子会告诉你在说动作还是经历。',
+ 'fling + -s，/ŋ/ 后读 /z/；动词三单与名词复数同形，不增加音节。',FLING+[['fling + -s → flings','某人猛抛、甩；或多次短暂经历']],
+ 'flings open the shutters 是猛地打开百叶窗；brief flings 是短暂交往，叙事语气较随意。',
+ 'flings his coat aside；flings open the door；brief flings。',
+ 'flings 有 /ŋz/ 结尾，flings 不是 fling 的过去式；过去要用 flung。',
+ ('He flings his coat over the back of the chair.','他把外套往椅背上一甩。'),('The memoir mentions several brief flings.','回忆录提到了几段短暂恋情。'),sources=S('flings','fling'))
+W('flung','/flʌŋ/','猛抛了、甩开了；突然伸出了；fling 的过去式、过去分词',
+ '门一下打开、双臂一下抱过去，过去这一瞬可用 flung。它把 fling 那种突然甩出的力量带进已经发生的场景。',
+ 'fling 的不规则过去式、过去分词都是 flung，内部元音 /ɪ/ → /ʌ/；不是加 -ed。中古英语曾有其他相应变形，现代先掌握 fling—flung—flung。',FLING+[['fling → flung → flung','现代不规则过去式与过去分词同形']],
+ 'flung the door open 写突然开门；flung her arms around him 写一下抱住；was flung aside 写被甩到一边。',
+ 'flung open；flung his coat aside；flung her arms around him。',
+ 'flung 是 fling 的过去式，hung 是 hang 的常用过去形式；字母相近但动作、词族不同。',
+ ('She flung the window open.','她一下推开了窗户。'),('He flung his arms around his sister.','他一下伸开双臂抱住了妹妹。'),sources=S('flung','fling'))
+W('flinging','/ˈflɪŋɪŋ/','正在猛抛、甩开、突然伸展',
+ '一个动作接一个动作地猛甩，或正把衣物急急地往包里扔，是 flinging。它比简单 packing 更能写出人的急、乱。',
+ 'fling + -ing，保留基础 ng；/ŋ/ 后接 /ɪŋ/，不把基础不规则过去式 flung 当成 -ing 的基底。',FLING+[['fling + -ing → flinging','持续或当下的猛抛、甩动']],
+ 'flinging clothes into a suitcase 写急匆匆收拾；flinging your arms wide 写一下伸展双臂。',
+ 'flinging clothes into a bag；flinging the door open；flinging her arms wide。',
+ 'flinging clothes 写动作粗急，folding clothes 是折叠整理；都可能是收行李，画面、态度不同。',
+ ('She was flinging clothes into a suitcase.','她正急急忙忙把衣服往行李箱里扔。'),('The actor crossed the stage, flinging his arms wide.','演员走过舞台，突然把双臂大大张开。'),sources=S('flinging','fling'))
+W('lob','英 /lɒb/；美 /lɑb/','高弧线抛、挑球；一记高挑球',
+ '球不是平直猛冲，而是慢一些地向上画个弧，再越过对方落下，这就是 lob 的关键。记轨迹，比只背“扔”清楚。',
+ '较早有轻缓抛的动词义，后来见高弧线抛、网球挑球，名词高挑球接动词形成。更远与旧 lumpish、垂坠等材料的关系未定，不硬编唯一来历。',LOB,
+ 'lob a ball over someone 是挑高越过某人；a lob 在网球等运动里数一记高挑球。',
+ 'a high lob；lob the ball over the net；play a lob。',
+ 'lob 重轨迹高而成弧，hurl 重发力猛；两者都可让球飞远，词要按动作图像选择。',
+ ('She tried to lob the ball over her opponent.','她试着挑高球越过对手。'),('A clever lob won him the point.','一记巧妙的高挑球让他拿下了这一分。'),sources=S('lob','lob'))
+W('lobs','英 /lɒbz/；美 /lɑbz/','高挑球〔复数〕；高弧线抛、挑球〔第三人称单数〕',
+ '训练时一记记挑高球，是 lobs；她常把球挑过对方，则是 she lobs the ball over。',
+ 'lob + -s，/b/ 后读 /z/；球的名称复数与动词三单同形，不再双写 b。',LOB+[['lob + -s → lobs','多记高挑球；或某人把球挑高']],
+ 'practise lobs 练挑高球；lobs the ball 写具体动作；进攻、防守用途要看球场情况。',
+ 'high lobs；defensive lobs；lobs the ball over the net。',
+ 'lobs 的 -s 前不双写，lobbed、lobbing 元音字母开头的后缀才触发双写；别把所有变化都写成双 b。',
+ ('The coach asked us to practise lobs.','教练让我们练习高挑球。'),('She lobs the ball over the approaching player.','她把球挑高，越过逼近的球员。'),sources=S('lobs','lob'))
+W('lobbed','英 /lɒbd/；美 /lɑbd/','高弧线抛出了；挑高球了',
+ '球已经高高越过对方，弧线落到后面，是 lobbed。它说怎样把球送出去，不自动保证这一球得分。',
+ 'lob 双写 b 加完整 -ed → lobbed，词尾读 /d/，不增加音节。',LOB+[['lob → lobbed','双写 b 加 -ed，过去高弧线投出']],
+ 'lobbed the ball over the net 写高挑；lobbed a question at someone 借抛出去的动作说扔出一个问题，需看语气。',
+ 'lobbed the ball；lobbed it over the net；lobbed a question。',
+ 'lobbed 交代轨迹、动作，scored 交代得分结果；球挑过去可能成功，也可能出界。',
+ ('He lobbed the ball over the net.','他把球高高挑过球网。'),('She lobbed a soft ball to the child.','她朝孩子轻轻抛出一颗软球，球划出一道弧线。'),sources=S('lobbed','lob'))
+W('lobbing','英 /ˈlɒbɪŋ/；美 /ˈlɑbɪŋ/','正在高弧线抛、挑球',
+ '一次次练习把球往上送、让它越过障碍，是 lobbing 的过程。画面核心仍是弧线，不是越猛越好。',
+ 'lob 双写 b，加 -ing → lobbing；和 lobbed 一样双写，基础词的 /b/ 不读成两个分开的音。',LOB+[['lob → lobbing','双写 b 加 -ing，挑高球、抛高的过程']],
+ 'practise lobbing 是练高挑；lobbing a ball over the net 写具体球路。',
+ 'lobbing the ball；practise lobbing；lobbing it over an opponent。',
+ 'lobbing 是高弧线抛，throwing 范围更广；可以说 lobbing is a way of throwing，却不能说所有 throwing 都是 lobbing。',
+ ('We practised lobbing the ball over the net.','我们练习把球高高挑过球网。'),('He kept lobbing soft balls across the garden.','他不停地把软球沿弧线抛到花园另一边。'),sources=S('lobbing','lob'))
+W('chucks','/tʃʌks/','随手扔、丢弃〔第三人称单数〕',
+ '回家就把钥匙往桌上一扔，是 chucks the keys on the table。它很口语，有不太讲究摆放的随意劲。',
+ 'chuck + -s，/k/ 后读 /s/。这里补抛掷动词三单，来自旧击打词变体；不把肉块、笑声等同形材料并成一条。',CHUCK+[['chuck + -s → chucks','他、她随手扔、丢掉']],
+ 'chucks old papers away 是把旧纸扔掉；chucks a bag on a chair 是随手放、扔在椅子上。',
+ 'chucks it away；chucks his keys on the desk；chucks it in the bin。',
+ 'chucks 比 places 随意，places 暗示有意放置；chucks the ball 又可只是口语扔球，不必真的愤怒。',
+ ('He chucks his keys onto the desk when he gets home.','他回家就把钥匙往桌上一扔。'),('She chucks the empty packets in the bin.','她把空包装袋扔进垃圾桶。'),sources=S('chucks','chuck'))
+W('chucked','/tʃʌkt/','随手扔了；丢掉、放弃了',
+ '旧东西已经扔进桶，是 chucked it in the bin；不想再做一份工作，口语 chucked in the job 则是把工作放弃了。',
+ 'chuck + 完整 -ed，/k/ 后读 /t/；已有 ck，不另外重复 k。',CHUCK+[['chuck + -ed → chucked','过去随手抛、丢弃或放弃']],
+ 'chucked it away 是扔掉；chucked his coat on a chair 是随手甩到椅上；chucked in the job 是辞去、放弃工作。',
+ 'chucked it in the bin；chucked it away；chucked in his job。',
+ 'chucked in a bag 可是扔进包，chucked in the job 是放弃工作；不能把所有 in 都按实际容器理解。',
+ ('She chucked the torn bag in the bin.','她把破袋子扔进垃圾桶。'),('He chucked his coat onto a chair.','他把外套随手扔到椅子上。'),sources=S('chucked','chuck'))
+W('chucking','/ˈtʃʌkɪŋ/','正在随手扔、丢弃；放弃〔依搭配〕',
+ '收拾房间时把不用的东西往外一件件扔，是 chucking stuff away。它写动作随意、干脆，不像小心地分类摆好。',
+ 'chuck + -ing，保留已有 ck；-ing 过程形式不改变基础抛掷动词的来源。',CHUCK+[['chuck + -ing → chucking','随手抛、丢弃等动作的过程']],
+ 'chucking rubbish into a bin 写丢垃圾；chucking a ball around 写随意扔球玩；口语色彩较强。',
+ 'chucking things away；chucking a ball around；chucking it in the bin。',
+ 'chucking away 强调丢弃，packing away 强调收好；同样是整理房间，最后东西去向不同。',
+ ('They were chucking a ball around in the park.','他们在公园里随意抛球玩。'),('I spent the morning chucking old packaging away.','我上午一直在清理、扔掉旧包装。'),sources=S('chucking','chuck'))
+W('sling','/slɪŋ/','甩、随手挂放；吊带、悬带；投石索',
+ '一条带子托着、吊着东西，是名词 sling；把包一甩搭到肩上，是 sling a bag over your shoulder。旧投石索也用带子兜住东西再甩出去。',
+ '名词接大陆日耳曼带环、投石器材料；抛的动词可能接古诺尔斯 slyngva，相关更早词有摆、绕、扭转义。吊带承载的动作又可从器具名形成，不是所有义都由一个现代词现场加出来。',SLING,
+ 'an arm in a sling 是手臂由吊带托着；a baby sling 是婴儿背带；sling a bag over a shoulder 是随手把包甩搭到肩上。',
+ 'a baby sling；an arm in a sling；sling a bag over your shoulder。',
+ 'sling 既是器具又是动作，现代 slingshot 常是带弹性材料的弹弓，传统 sling 是绳带投石索，结构不完全一样。',
+ ('He carried the baby in a sling.','他用婴儿背带抱着宝宝。'),('She can sling the bag over one shoulder.','她可以把包往一边肩上一甩背好。'),sources=S('sling','sling'))
+W('slings','/slɪŋz/','吊带、背带、投石索〔复数〕；甩、随手挂放〔第三人称单数〕',
+ '几条婴儿背带，是 baby slings；他一把把包搭到肩上，则是 slings the bag over his shoulder。名词在托住，动词在甩放。',
+ 'sling + -s，/ŋ/ 后读 /z/；名词复数与动词三单同形。',SLING+[['sling + -s → slings','多个承托器具；或某人甩放']],
+ 'baby slings 是承载婴儿的背带；lifting slings 是起吊用带环；slings his coat over his shoulder 写随手搭放。',
+ 'baby slings；lifting slings；slings his bag over a shoulder。',
+ 'slings 是复数或三单，slung 才是过去式；不把现在主语 he 后的 -s 看成过去动作。',
+ ('The shop displays several kinds of baby slings.','店里展示着几种婴儿背带。'),('He slings his bag over his shoulder and leaves.','他把包往肩上一甩，出门去了。'),sources=S('slings','sling'))
+W('slung','/slʌŋ/','甩放了、吊挂了；sling 的过去式、过去分词',
+ '包已经随手搭在肩上、吊床已经挂在两棵树间，是 slung 能写出的状态。它带着甩搭、悬挂的动作背景。',
+ 'sling 的不规则过去式、过去分词都是 slung，内部元音 /ɪ/ → /ʌ/；不用普通 -ed。',SLING+[['sling → slung → slung','现代过去式、过去分词同形']],
+ 'slung his bag over his shoulder 是把包搭上肩；a hammock slung between trees 是挂在树间的吊床。',
+ 'slung over a shoulder；slung between trees；slung across his back。',
+ 'slung 常强调吊、甩搭，placed 更一般；手臂固定在吊带里，也不代表曾被用力扔出去。',
+ ('She slung her bag over her shoulder.','她把包往肩上一搭。'),('A hammock was slung between two trees.','两棵树之间挂着一张吊床。'),sources=S('slung','sling'))
+W('slinging','/ˈslɪŋɪŋ/','正在甩、随手挂放、吊挂',
+ '把背包一甩搭到肩上，或一件件把东西随手扔放，这个进行中的动作就是 slinging。',
+ 'sling + -ing，基础 ng 保留；不从过去式 slung 再加后缀，现代对应 slung 的进行形式仍是 slinging。',SLING+[['sling + -ing → slinging','甩放、吊挂等动作的过程']],
+ 'slinging a bag over a shoulder 是甩搭包；slinging insults 借把话扔出去说恶语相向，通常带负面语气。',
+ 'slinging a bag over his shoulder；slinging things into a box；slinging insults。',
+ 'slinging things into a box 比 carefully placing things in a box 随意；动作和小心摆放可以到同一个目的地，态度不同。',
+ ('He was slinging his backpack over one shoulder when I called him.','我叫他时，他正把背包往一边肩上甩。'),('They were slinging insults at each other.','他们正互相甩出难听话。'),sources=S('slinging','sling'))
+W('slingshots','英 /ˈslɪŋʃɒts/；美 /ˈslɪŋʃɑts/','弹弓〔slingshot 的复数〕',
+ '常见一只小叉架带弹性条的弹弓，是 a slingshot；多个就是 slingshots。名字把“投甩”和“发射”两块动作放在一起。',
+ 'sling 抛、投 + shot 发射物、发射 → slingshot，再加 -s；/t/ 后读 /s/。复数只加在整个复合词末尾。',SLING+[['sling + shot → slingshot → slingshots','复合名词整体加 -s，多个弹弓']],
+ 'wooden slingshots 是木柄弹弓；a collection of slingshots 是一组收藏的弹弓；复合词里 sling 仍不单独加复数。',
+ 'wooden slingshots；a collection of slingshots；old slingshots。',
+ 'slingshots 是弹弓复数，slings 可是投石索、吊带；两种工具都涉及带、抛，却不是同一结构的两个复数写法。',
+ ('The display included several old slingshots.','展柜里有几只旧弹弓。'),('He drew a row of wooden slingshots in his sketchbook.','他在素描本里画了一排木柄弹弓。'),sources=S('slingshots','slingshot'))
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zif',ROOTS,WORDS)
+ extend_lessons()

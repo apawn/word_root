@@ -1,0 +1,84 @@
+[
+  {
+    "id": "B2770",
+    "meaning": "脚；底部；支撑、步行与英尺",
+    "core": "FOOT：脚支撑、移动，也给底部与测量命名",
+    "image": "先分身体的脚、东西的底部、英尺单位三条用途，再看复合词的另一半决定具体意思。",
+    "intro": "foot 接古英语 fōt；feet 是不规则复数。footage 通过胶片的英尺长度保留了旧材料时代的名字。",
+    "forms": "foot → barefoot、footwear；footing、foothold、footstep、footfall、footprint、footwork；footpath、footbridge、foothill、underfoot；afoot、footloose；football、footnote、footer、footage、footstool、footlocker、footman。\n\nfoot → feet 保留旧 i 变音。数值后说 several feet；数词加单位在名词前作复合修饰时常用单数 foot。\n\nfoot 取页面底部位置，note 取注释；组合名词再发展动词。\n\nfoot + light + -s，说舞台前沿下方的一排灯；脚的位置帮助认形，实际是剧场照明名称。\n\nfootstep 由脚与步构成，现代 -s，/p/ 后读 /s/。脚步、脚步声与跟随前人道路的比喻。",
+    "branches": [
+      [
+        "脚、穿戴与站立移动",
+        "foot · barefoot · footwear · footing · foothold · footstep · footfall · footprint · footwork"
+      ],
+      [
+        "路径、位置与自由行动",
+        "footpath · footbridge · foothill · underfoot · afoot · footloose"
+      ],
+      [
+        "底部、测量及固定名称",
+        "football · footnote · footer · footage · footstool · footlocker · footman"
+      ],
+      [
+        "foot 与 feet：脚和英尺",
+        "foot · feet"
+      ],
+      [
+        "footnote 的脚注名与加注动作",
+        "footnote · footnotes · footnoted · footnoting"
+      ],
+      [
+        "foot 的下部、底部义进入舞台脚灯",
+        "footlights"
+      ],
+      [
+        "foot + step → footsteps",
+        "footsteps"
+      ]
+    ],
+    "contrasts": "footstep 脚步，footprint 脚印，footfall 还能说客流；footer 页脚与 footnote 脚注不同；footage 与英尺计胶片有关。",
+    "practice": "We crossed the footbridge on foot and heard dry leaves crunching underfoot.\n\n我们步行过了人行桥，听见干树叶在脚下沙沙作响。",
+    "words": [
+      "foot",
+      "barefoot",
+      "footwear",
+      "footing",
+      "foothold",
+      "footstep",
+      "footfall",
+      "footprint",
+      "footwork",
+      "footpath",
+      "footbridge",
+      "foothill",
+      "underfoot",
+      "afoot",
+      "footloose",
+      "football",
+      "footnote",
+      "footer",
+      "footage",
+      "footstool",
+      "footlocker",
+      "footman",
+      "feet",
+      "footnotes",
+      "footnoted",
+      "footnoting",
+      "footlights",
+      "footsteps"
+    ],
+    "exclude": {
+      "end-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fan-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dry-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "foot-jaw": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "foot-dragging": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "goofy-foot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "footed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-footed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "footsie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "forefoot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

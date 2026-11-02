@@ -1,0 +1,35 @@
+[
+  {
+    "word": "plankton",
+    "ipa": "英 /ˈplæŋktən/；美 /ˈplæŋktən/",
+    "meaning": "浮游生物",
+    "sense": "把水体想成一条流动的路：许多生物主要随水流漂移，不能有效逆着水流控制整体位置，统称 plankton。",
+    "split": "借德语 Plankton 这一近代科学名称，接希腊 plankton 漂游的材料。这个名称抓住的是随水流漂移的生活方式。",
+    "history": [
+      [
+        "希腊漂游相关材料 → 德语 Plankton",
+        "近代生态学类群名称"
+      ],
+      [
+        "英语 plankton",
+        "以随水流漂移的生活方式归类的生物"
+      ]
+    ],
+    "explanation": "marine plankton 海洋浮游生物；plankton in a pond 池塘中的浮游生物。通常作集合、不可数名称；其中许多很小，但名称不只按大小分类。",
+    "usage": "collect plankton samples；a plankton community。",
+    "contrast": "phytoplankton 是浮游植物类群，zooplankton 是浮游动物类群；plankton 是较广的生活方式类别。有些成员会游动，仍主要随水流漂移。",
+    "examples": [
+      [
+        "The researchers collected plankton samples from the lake.",
+        "研究人员从湖中采集了浮游生物样本。"
+      ],
+      [
+        "Many marine animals feed on plankton.",
+        "许多海洋动物以浮游生物为食。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plankton#English"
+    ]
+  }
+]

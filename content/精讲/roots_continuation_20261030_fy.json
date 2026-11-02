@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B3261",
+    "meaning": "弯回来留住东西，再钩住注意力",
+    "core": "HOOK：形状、连接和吸引",
+    "image": "hook → hooked、unhook、hooker；hookworm 虫名；hooky 逃学用法保留来源争议。",
+    "intro": "透明构词能帮理解，也有需要停一步的俚语。hooker 的将军故事、hooky 简单加 -y 的说法都不作确定词源。",
+    "forms": "hōc → hook；hook + -ed/-er；un- + hook；hook + worm；play hooky 近源分析另说。\n\nhockey 更早来源未定，法国牧杖 hoquet、hoc 钩是一种可能解释；不作为已证实的 hook 派生。\n\n器物名继承古英语，相关动作围绕钩的抓挂效果扩展。\n\nheckle 的工具名接古老钩、齿材料，动词从工具名或相关荷兰语形式发展。由粗厉梳理到反复尖锐提问是词义扩展，不是把现代 hook 换字母。",
+    "branches": [
+      [
+        "基础、形状与反向动作",
+        "hook · hooked · unhook"
+      ],
+      [
+        "人物、固定口语与虫名",
+        "hooker · hooky · hookworm"
+      ],
+      [
+        "hook 与 hockey 的可能词源对照：弯曲球棍",
+        "hook · hockey"
+      ],
+      [
+        "hook → hooks、hooking：钩住、挂住、吸引",
+        "hook · hooks · hooking"
+      ],
+      [
+        "heckle：带齿的梳麻工具与尖锐追问",
+        "hook · heckle · heckles · heckled · heckling · heckler · hecklers"
+      ]
+    ],
+    "contrasts": "hooked beak/on a series 形状与着迷；unhook/untie 解钩与解结；hookworm 不泛指鱼饵虫。",
+    "practice": "The story’s hook got me hooked after the first page.\n\n故事开头的悬念让我看完第一页就入迷了。",
+    "words": [
+      "hook",
+      "hooked",
+      "unhook",
+      "hooker",
+      "hooky",
+      "hookworm",
+      "hockey",
+      "hooks",
+      "hooking",
+      "heckle",
+      "heckles",
+      "heckled",
+      "heckling",
+      "heckler",
+      "hecklers"
+    ],
+    "exclude": {
+      "pre-hook": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hook-and-liner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2535",
+    "meaning": "像指路手指，让人定位到内容",
+    "core": "INDEX：指出在哪里，也指示某种水平",
+    "image": "index → indexer；书、数据库、经济指标分别有具体用法。",
+    "intro": "索引、编号、指数都能联系指示，但不能把技术含义混成一个定义；book index 与目录尤其分清。",
+    "forms": "index、indicāre 拉丁指出词族 → index；index + -er → indexer。\n\nindices 保留拉丁 index／indic- 的复数材料；英语规则形式 indexes 也用，领域有偏好，分工不是绝对禁令。\n\n指出位置的拉丁词族进入英语，规则复数 indexes 与借来的 indices 并存，具体领域有惯用偏好。",
+    "branches": [
+      [
+        "指示、索引与编号",
+        "index"
+      ],
+      [
+        "编索引主体和工具",
+        "indexer"
+      ],
+      [
+        "index 与 indices：指路的目录和指标",
+        "index · indices"
+      ],
+      [
+        "index 的索引、索引动作与规则变化",
+        "index · indexes · indexed · indexing · indices"
+      ]
+    ],
+    "contrasts": "index/table of contents 词目索引与篇章目录；index/indexer 结果结构与编制者；indexes/indices 依领域习惯。",
+    "practice": "The indexer built an index so readers could find the topic quickly.\n\n索引编制者做出了索引，让读者能很快找到主题。",
+    "words": [
+      "index",
+      "indexer",
+      "indices",
+      "indexes",
+      "indexed",
+      "indexing"
+    ],
+    "exclude": {
+      "anti-index": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3614",
+    "meaning": "前面牵着，后面跟着；塔义另源对照",
+    "core": "TOW：拖着走；TOWER：常见塔义不从它来",
+    "image": "tow → undertow、towpath 接拉、牵引；tower 的高建筑义另开拉丁 turris 路径。",
+    "intro": "别因为表面 tow-er 就把塔讲成拖东西的人。牵引 /toʊ/、高塔 /ˈtaʊər/ 两种元音一起辨。",
+    "forms": "togian → tow；under + tow → undertow；tow + path → towpath；turris 经古英语、法语 → tower 塔。\n\n塔义经古英语与法语接拉丁 turris，独立于 tow 加 er 的拖行者。\n\n两词历史同属日耳曼拉拖材料；tug 更像用力拽，tow 常借绳、链拖曳。现代不是从 tow 按字母替换造出 tug。",
+    "branches": [
+      [
+        "牵引与回流、纤道",
+        "tow · undertow · towpath"
+      ],
+      [
+        "同形材料却另源的常见塔词",
+        "tower"
+      ],
+      [
+        "tower → towers：高塔、高耸的建筑",
+        "tower · towers"
+      ],
+      [
+        "tow、tug 的相关拉拖材料",
+        "tow · tug · tugs · tugged · tugging"
+      ]
+    ],
+    "contrasts": "tow/toe 同音异义；tow/tower 不同元音；undertow 不泛指所有向外海的水流。",
+    "practice": "From the towpath, we could see a boat being towed past the old tower.\n\n从纤道上，我们能看见一条船被拖着经过旧塔。",
+    "words": [
+      "tow",
+      "undertow",
+      "towpath",
+      "tower",
+      "towers",
+      "tug",
+      "tugs",
+      "tugged",
+      "tugging"
+    ],
+    "exclude": {}
+  }
+]

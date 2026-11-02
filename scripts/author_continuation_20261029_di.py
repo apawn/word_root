@@ -1,0 +1,173 @@
+"""Source, style, club, film and sore: everyday images, accurate histories."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+WORDS.clear();ROOTS.clear()
+def C(a,b,w,m):return [[a+'；'+b,'并列构词部分'],[w,m]]
+W('crowdsource','英 /ˈkraʊdsɔːs/；美 /ˈkraʊdsɔːrs/','众包；向大众征集信息、创意或工作成果',
+ '不只找一个固定供应者，而是把问题或任务开放给许多人，让各人贡献一部分。',
+ 'crowd 大众 + source 从某处获取，联系 crowdsourcing 对 outsourcing 的仿造构词。不是把人群直接当成要买卖的货物。',
+ [['crowd 大众；source 获取来源；参照 outsourcing','向固定外部供应者获取 → 向开放人群征集'],['crowdsource','通过大众参与获取内容、答案或成果']],
+ 'crowdsource ideas 众包创意，crowdsource translations 向大众征集翻译；参与者可能有偿也可能自愿，词本身不规定。',
+ 'crowdsource ideas；crowdsource information；crowdsource a solution。',
+ 'crowdsource 向多人开放征集，outsource 外包可交给一家专业公司；两者不是只因都在组织外部就完全相同。',
+ ('The museum crowdsourced photographs from local residents.','博物馆向当地居民征集照片。'),('The team decided to crowdsource ideas for the new logo.','团队决定向大众征集新标志的创意。'))
+W('crowdsourcing','英 /ˈkraʊdsɔːsɪŋ/；美 /ˈkraʊdsɔːrsɪŋ/','众包；大众参与式征集',
+ '把一大批人的小贡献汇到一起，成为解决问题、建立资料或完成任务的方法。',
+ 'crowd 大众 + sourcing 获取来源，仿 outsourcing 形成名称；现代也对应 crowdsource + -ing。学习顺序先动词后名词方便使用，不代表每个短形式历史都一定更早。',
+ [['crowd + sourcing；仿 outsourcing','从大众参与获取信息、创意或工作'],['crowdsourcing；对应 crowdsource 的 -ing 名词','众包这种方法、活动']],
+ 'a crowdsourcing project 众包项目，use crowdsourcing 使用大众征集；公开参与不是质量自动有保证，具体项目仍需筛选、组织。',
+ 'a crowdsourcing project；use crowdsourcing；crowdsourcing ideas。',
+ 'crowdsourcing 汇集大众贡献，crowdfunding 众筹重点筹钱；可以一起发生，但钱和创意、信息不是同一个对象。',
+ ('Crowdsourcing helped the archive identify people in old photographs.','大众参与征集帮助档案馆辨认老照片中的人物。'),('The project uses crowdsourcing to collect local place names.','项目通过大众参与收集当地地名。'))
+R('B3544','来源、资源与获取方式','SOURCE：东西从哪里来，以及从谁那里获取','source 说起点、出处，resource 说可用资源；outsource 外包，crowdsource 则把获取范围扩大到开放人群。',
+ 'source 有泉源、来源的法语历史背景，现代还能作动词取得供应。众包词族仿照外包构词，先分获取信息、成果与筹钱的不同。',
+ 'source → resource、sourcebook；outsource 外部承接；crowdsource → crowdsourcing 作为现代动词、活动名词一组。',
+ [['来源与可用资料','source · resource · sourcebook'],['外包与众包','outsource · crowdsource · crowdsourcing']],
+ 'crowdsourcing 不等于 crowdfunding；source 取得供应不只搜到一个网页；resource 不必全是自然资源。',
+ 'The archive used crowdsourcing to find the source of an old photograph.\n\n档案馆借助大众参与，查找一张老照片的来源。',
+ 'source resource sourcebook outsource crowdsource crowdsourcing')
+ST=[['拉丁 stilus → 法语 stile、estile → 中古英语 stile','写字尖笔 → 写作、表达方式'],['英语 style','风格、款式、方式；设计造型、冠以称呼等']]
+W('style','/staɪl/','风格；款式；方式；造型、设计',
+ '同样一件事，不同人做出来有自己认得出的样子；文章、衣服、动作都能有 style。',
+ '经法语接拉丁 stilus 写字尖笔，发展为写作、表达方式，再扩展到其他活动、外观风格。y 的拼写有历史影响，不把它硬说成来自希腊柱子的唯一来源。',ST,
+ 'a writing style 写作风格，a style of dress 穿衣风格，in style 流行的；style someone’s hair 做发型。正式文字 style someone as... 也可说称某人为。',
+ 'a writing style；a style of；in style；style your hair。',
+ 'style 是方式、外观特征，本身不保证 stylish 有品味；每个人都可以有 style，哪怕别人不喜欢。',
+ ('I like the clear style of her writing.','我喜欢她清晰的写作风格。'),('The stylist styled his hair for the photograph.','造型师为拍照给他做了发型。'),sources=['https://en.wiktionary.org/wiki/style#English','https://www.etymonline.com/word/style'])
+W('stylish','/ˈstaɪlɪʃ/','有格调的；时尚好看的',
+ '不只是有一种样式，而是这套搭配、设计看起来有品味、很利落。',
+ 'style 去 e + -ish，形成有风格、时尚漂亮的形容词。这里 -ish 不取有点像、马马虎虎的所有可能义，而是固定的赞美用法。',ST+[['style + -ish → stylish','风格 → 有品味、时尚漂亮的']],
+ 'a stylish jacket 有型夹克，a stylish interior 有格调的室内设计；不一定等于最贵或最流行。',
+ 'a stylish outfit；a stylish design；a stylish interior。',
+ 'stylish 常是正面审美评价，stylistic 只说风格方面；a stylistic error 不是一个时尚的错误。',
+ ('She wore a simple but stylish jacket.','她穿了一件简洁却很有型的夹克。'),('The hotel has a stylish interior.','酒店的室内设计很有格调。'))
+W('stylist','/ˈstaɪlɪst/','造型师；文体、表达风格出色者',
+ '帮人搭衣服、做造型的人是一支；文章风格鲜明、讲究表达的作者也可叫 stylist。',
+ 'style 去 e + -ist 人物后缀，按风格、造型相关工作或能力命名。不是所有喜欢时髦的人都以此为职业。',ST+[['style + -ist → stylist','风格、造型 → 专业造型者；风格见长作者']],
+ 'a fashion stylist 时尚造型师，a hair stylist 发型师，a prose stylist 文体见长的散文作者。',
+ 'a fashion stylist；a hair stylist；a prose stylist。',
+ 'stylist 可以说文字高手，也可说造型师，先看 fashion、hair、prose 等限定词；stylish 则是形容词。',
+ ('A stylist selected the clothes for the photo shoot.','造型师为拍摄挑选了服装。'),('The novelist is admired as a brilliant prose stylist.','这位小说家以出色的文字风格受到推崇。'))
+W('stylistic','/staɪˈlɪstɪk/','风格上的；文体的',
+ '讨论的不是内容真假，而是怎么写、怎么表现、采用了什么风格。',
+ 'style 的 styl- 形式 + -istic 的形容词构形，与 stylist 词族对应。重音落在 lis，不是把 stylish 多加几个字母仍全是漂亮的。',ST+[['style 词族 → stylistic','风格 → 与表达风格有关的']],
+ 'stylistic differences 风格差异，a stylistic choice 风格选择，stylistic analysis 文体分析；中性分析词，不自动夸好。',
+ 'stylistic differences；a stylistic choice；stylistic analysis。',
+ 'stylistic 风格方面，stylish 有品味；a stylistic choice 可能有人喜欢、有人不喜欢，不表示它必定时髦。',
+ ('The two translations have clear stylistic differences.','两份译文在风格上有明显差异。'),('The repetition is a deliberate stylistic choice.','这种重复是有意作出的文体选择。'))
+W('hairstyle','英 /ˈheəstaɪl/；美 /ˈherstaɪl/','发型',
+ '头发剪成、梳成、做成什么样，就是它的 style。',
+ 'hair 头发 + style 样式，复合为发型名称。可以来自剪裁，也可以靠梳理、造型完成。',C('hair 头发','style 样式','hairstyle','头发经过剪裁、梳理后的整体样式'),
+ 'a new hairstyle 新发型，a short hairstyle 短发造型，change your hairstyle 换发型。',
+ 'a new hairstyle；a short hairstyle；change your hairstyle。',
+ 'hairstyle 发型，haircut 理发、剪出的发型；不剪头发也可能通过梳理改变 hairstyle。',
+ ('She tried a new hairstyle for the party.','她为聚会尝试了新发型。'),('This hairstyle is easy to maintain.','这个发型容易打理。'))
+R('B3902','风格、样式；时尚、造型与文体','STYLE：同样内容，可以有不同呈现方式','style 是风格，stylish 赞有品味，stylist 是造型师或文字风格见长者，stylistic 中性说风格方面。',
+ 'style 经法语接拉丁写字尖笔，形成写作方式，再扩展其他表达。不要把所有风格词都粗译时尚；专业文体用法也很常见。',
+ 'style → stylish、stylist、stylistic；hair + style → hairstyle；lifestyle、freestyle 是已学固定复合词。',
+ [['风格、评价、人物与分析','style · stylish · stylist · stylistic'],['具体用途及已学词','hairstyle · lifestyle · freestyle']],
+ 'stylish 正面审美，stylistic 风格方面；hairstyle 发型不一定靠 haircut 剪出来。',
+ 'The stylist chose a stylish hairstyle to match the actor’s usual style.\n\n造型师选了一个有型的发型，配合演员平常的风格。',
+ 'style stylish stylist stylistic hairstyle lifestyle freestyle')
+CL=[['古诺尔斯语 klubba 等 → 中古英语 clubbe → club','粗棍、棍棒'],['club 的较晚社团分支','聚成团、联合的旧用法相关 → 社团、俱乐部及活动场所']]
+W('club','/klʌb/','俱乐部、社团；夜店；棍棒；球杆；梅花牌',
+ '加入 reading club 是加入一群有共同兴趣的人；拿 golf club 打球，手里却是一根球杆。几个固定义分开认。',
+ '棍棒义借古诺尔斯语 klubba 等，社团义出现较晚，常联系聚成一团、联合的历史用法。扑克牌 clubs 的名称有棒形牌组背景，英语图案又沿用三叶形。不是一个现代场景就能解释全部。',CL,
+ 'join a club 加入社团，a golf club 高尔夫球杆或俱乐部，a nightclub 夜店；club together to buy something 凑钱合购。clubs 扑克牌梅花。',
+ 'join a club；a reading club；a golf club；club together。',
+ 'a golf club 可是球杆，也可是组织、场所，靠句子判断；join the club 口语还可说我也一样，欢迎加入同病相怜行列。',
+ ('She joined a local reading club.','她加入了当地读书会。'),('We clubbed together to buy our teacher a gift.','我们凑钱给老师买了一份礼物。'),sources=['https://en.wiktionary.org/wiki/club#English','https://www.etymonline.com/word/club'])
+W('clubbing','/ˈklʌbɪŋ/','泡夜店、去夜店跳舞等；另有棍击义',
+ '朋友约 go clubbing，通常是晚上去音乐、跳舞场所玩，不是去社团开普通工作会。',
+ 'club + -ing，双写 b；夜店活动义取 nightclub、club 场所用法，棍击义则取打击动词，两个义项靠环境分。',CL+[['club + -ing → clubbing','夜店活动；另一支为棍击动作']],
+ 'go clubbing 去夜店玩，a night of clubbing 一晚夜店活动；医学等另有专业同形用法，本轮不展开。',
+ 'go clubbing；a night of clubbing；a clubbing weekend。',
+ 'clubbing 在日常出游场景通常不是参观所有俱乐部；join a book club 加入读书会，也不等于 go clubbing。',
+ ('They went clubbing after the concert.','音乐会后，他们去夜店玩了。'),('She prefers a quiet dinner to a night of clubbing.','比起去夜店玩一整晚，她更喜欢安静吃顿晚饭。'))
+R('B3381','社团、夜店；棍棒、球杆与牌名','CLUB：联合的一群人，或棒状工具的固定义','club 作为社团是人，作为场所是地方，作为球杆、棍棒是器具。clubbing 日常社交语境通常说泡夜店。',
+ '棍棒义借斯堪的纳维亚语相关形式；较晚社团义联系聚成团的用法。词源联系不要强简化为一群人拿棍子成立组织的故事。',
+ 'club → clubbing；night + club → nightclub；club + house → clubhouse。',
+ [['基本多义和夜店活动','club · clubbing · nightclub'],['社团设施','clubhouse']],
+ 'golf club 可是球杆或俱乐部；go clubbing 不等于参加普通兴趣社团；clubs 还可说梅花牌组。',
+ 'After leaving the clubhouse, they decided not to go clubbing.\n\n离开俱乐部会所后，他们决定不去夜店玩。',
+ 'club clubbing nightclub clubhouse')
+FI=[['古英语 filmen → 中古英语 filme → film','薄皮、薄膜'],['film 的摄影分支','感光材料薄层、胶片 → 电影作品及拍摄动作']]
+W('film','/fɪlm/','薄膜；胶片；电影；拍摄',
+ '桌面上一层薄薄的油可以是 film；摄影材料也曾是一层薄膜，名字再走到胶片和电影。',
+ '继承古英语 filmen 薄皮、膜。摄影用法接感光薄层及胶片材料，再指电影作品、拍摄；数字电影保留 film 名称，不要求如今每部都真的用胶片。',FI,
+ 'a film of oil 一层油膜，photographic film 摄影胶片；watch a film 看电影，film a scene 拍一场戏。',
+ 'a film of；watch a film；film a scene；a documentary film。',
+ 'film 材料义常不可数，a film 一部电影可数；movie 主要说电影，不通常代替油膜、摄影胶片。',
+ ('A thin film of oil covered the water.','水面覆盖着一层薄油膜。'),('The crew filmed the final scene at dawn.','剧组在黎明拍了最后一场戏。'))
+W('filmy','/ˈfɪlmi/','薄膜般的；薄纱般轻薄的；覆有薄膜的',
+ '像有一层又薄又轻的膜或纱，能透光，却把清晰边界柔化了。',
+ 'film 薄膜 + -y 带……特点，取薄层的旧分支。现代主学不等于与电影相关的泛用形容词。',FI+[['film 的薄膜义 + -y → filmy','薄膜 → 薄纱状、覆膜的']],
+ 'filmy curtains 薄纱窗帘，a filmy fabric 轻薄织物；a filmy coating 薄膜状覆盖层。',
+ 'filmy curtains；a filmy fabric；a filmy coating。',
+ 'filmy 薄膜、薄纱般，filmic 电影方面；a filmy curtain 并不表示这帘子来自电影道具。',
+ ('Filmy curtains softened the sunlight.','薄纱窗帘让阳光变得柔和。'),('The dress was made from a light, filmy fabric.','连衣裙用轻薄纱质面料制成。'))
+W('filmic','/ˈfɪlmɪk/','电影的；具有电影表现特点的',
+ '讨论的是镜头、剪辑、影像表现等电影媒介特点；也可说文字、场景让人联想到电影画面。',
+ 'film 的电影义 + -ic 相关形容词，取电影分支，与取薄膜分支的 filmy 对照。',FI+[['film 的电影义 + -ic → filmic','电影 → 电影方面、电影感的']],
+ 'filmic language 电影语言，a filmic quality 电影感；常见于电影、艺术评论，比日常电影票务用语更偏分析。',
+ 'filmic language；filmic techniques；a filmic quality。',
+ 'filmic 与 cinematic 意义有交叠；filmy 通常讲薄、覆膜，不能见到 film 相同就任意换尾。',
+ ('The essay analyses the filmic language of the opening scene.','文章分析开场戏的电影语言。'),('Her descriptions have a strongly filmic quality.','她的描写很有电影画面感。'))
+W('microfilm','英 /ˈmaɪkrəʊfɪlm/；美 /ˈmaɪkroʊfɪlm/','缩微胶片；用缩微胶片记录',
+ '把大量书页、报纸拍成很小的影像，集中存到胶片上，阅读时再放大。',
+ 'micro- 小、缩微 + film 胶片，形成档案保存媒介名，也可作动词。不是电影时长特别短就都叫 microfilm。',FI+[['micro- + film → microfilm','缩微 + 胶片 → 缩微记录媒介']],
+ 'newspapers on microfilm 存在缩微胶片上的报纸，a microfilm reader 缩微胶片阅读机；可用于保存、检索历史文献。',
+ 'on microfilm；a microfilm reader；a microfilm copy。',
+ 'microfilm 缩微胶片，short film 短片；前者说记录媒介、缩微影像，后者说电影时长类别。',
+ ('The library keeps old newspapers on microfilm.','图书馆用缩微胶片保存旧报纸。'),('She used a microfilm reader to examine the records.','她用缩微胶片阅读机查看记录。'))
+W('filmography','英 /fɪlˈmɒɡrəfi/；美 /fɪlˈmɑːɡrəfi/','电影作品目录；影目',
+ '想查一位导演、演员参与过哪些电影，把作品列成目录，就是 filmography。',
+ 'film 电影 + -ography 记录、目录类构词部分，仿其他目录、专门记录词形成。不是电影拍摄手艺的通用名称。',FI+[['film + -ography → filmography','电影 → 按人物、主题等整理的电影目录']],
+ 'a director’s filmography 导演作品目录，a complete filmography 完整影目；可包括某演员、制作人员、主题相关作品。',
+ 'a complete filmography；a director’s filmography；a selected filmography。',
+ 'filmography 目录，filmmaking 制作电影，cinematography 摄影、影像拍摄艺术；不是一个电影词全包。',
+ ('The website includes the director’s complete filmography.','网站包含导演的完整作品目录。'),('She added the short film to her filmography.','她把这部短片加入自己的作品目录。'))
+R('B3611','薄膜、胶片、电影；拍摄与电影目录','FILM：薄的一层，走到影像记录和电影','一层膜是旧画面，胶片、电影作品接摄影历史；filmy 留在薄层质地，filmic 去讲电影表现。',
+ 'film 继承古英语 filmen。现代数字拍摄仍叫 film，材料名与作品名已分开；microfilm 缩微档案、filmography 作品目录也别混成电影制作。',
+ 'film → filmy 薄膜般、filmic 电影的；micro- 缩微 → microfilm；filmography 影目；filmmaker、filmmaking 是已学人物、制作活动词。',
+ [['基础及两种性质','film · filmy · filmic'],['记录媒介与目录','microfilm · filmography'],['电影制作人物与活动','filmmaker · filmmaking'],['另一个薄层专门词','biofilm']],
+ 'filmy 不是 filmic；microfilm 不是 short film；filmography 不是 filmmaking；数字 film 不必真用胶片。',
+ 'The filmmaker checked an old filmography and watched a film from the archive.\n\n电影制作人查了旧影目，观看了一部档案馆收藏的电影。',
+ 'film filmy filmic microfilm filmography filmmaker filmmaking biofilm')
+SO=[['古英语 sār、sāriġ 等 → 中古英语 sor、sory','疼痛、痛苦；忧伤、难过'],['sore、sorry 词族','疼的、不快的；抱歉、遗憾；sorely 表强烈程度']]
+W('sore','英 /sɔː/；美 /sɔːr/','疼痛的；恼火的；痛处、疮',
+ '摸着、动着会疼；心里被一件事刺到，也可口语说还在生气、不服气。',
+ '接古英语 sār 痛、疼痛的，身体与精神不快都有历史背景。名词 a sore 是痛处、疮，不等于所有 sore 形容词都在说可见伤口。',SO,
+ 'a sore throat 喉咙疼，sore muscles 酸痛肌肉；be sore about losing 对输了还耿耿于怀，a sore point 不愿被碰的敏感话题。',
+ 'a sore throat；sore muscles；a sore point；be sore about。',
+ 'sore 疼，soar 高飞、猛涨与它同音而不同词；sore throat 是词语描述，词本身不诊断疼痛原因。',
+ ('My feet were sore after the long walk.','长途步行后，我的脚很疼。'),('The defeat was still a sore point for the team.','那次失利仍是团队不愿提起的痛处。'))
+W('soreness','英 /ˈsɔːnəs/；美 /ˈsɔːrnəs/','疼痛；酸痛；恼怒、不快',
+ '把某处疼、酸，或心里不痛快的状态单独拿出来说。',
+ 'sore + -ness，古英语 sārnes 已有身体、精神痛苦等对应形式。通常是状态名词，不用它替代具体伤口形状。',SO+[['sore + -ness → soreness','疼、不快 → 疼痛、不快状态']],
+ 'muscle soreness 肌肉酸痛，soreness in the shoulder 肩部疼痛；也可文学、口语说残留的不快。',
+ 'muscle soreness；soreness in；a feeling of soreness。',
+ 'soreness 是感受、状态，a sore 可以是一处具体疮；sorrow 悲伤另有词源，不因外形像就都拆成 sore。',
+ ('She felt some soreness in her shoulders after carrying the boxes.','搬完箱子后，她觉得肩膀有些酸痛。'),('The diary records both tiredness and soreness after the journey.','日记记录了旅行后的疲倦和酸痛。'))
+W('sorely','英 /ˈsɔːli/；美 /ˈsɔːrli/','非常地；严重地；迫切地',
+ '程度深得让人感到难受、缺得厉害；后来也用于强烈受到诱惑等，不一定真疼。',
+ 'sore + -ly，与古英语 sārlīċe 等历史副词相连，从痛苦、强烈程度形成现代固定强化用法。',SO+[['sore + -ly → sorely','痛苦、强烈 → 严重、非常地']],
+ 'sorely needed 迫切需要，sorely missed 非常想念，sorely disappointed 大失所望；sorely tempted 强烈心动、受诱惑。',
+ 'sorely needed；sorely missed；sorely disappointed；sorely tempted。',
+ 'sorely 常在这些固定程度搭配里，不是所有 very 都能无差别替换；sore muscles 仍用形容词 sore。',
+ ('The village sorely needed a new bridge.','村里迫切需要一座新桥。'),('Her advice will be sorely missed.','大家会非常怀念她的建议。'))
+W('sorry','英 /ˈsɒri/；美 /ˈsɑːri/，亦 /ˈsɔːri/','抱歉的；遗憾、难过的；可怜、糟糕的',
+ '心里对发生的事感到不舒服：可以是为自己的事道歉，也可以只是听到别人遭遇后表示难过。',
+ '继承古英语 sāriġ 难过、痛苦的，属 sore 的疼痛词族；拼写后来受 sorrow 影响，但 sorrow 的词源另属一支。不是 sorry 直接从现代 sorrow 截尾而来。',SO+[['古英语 sāriġ → 中古英语 sory → sorry','痛苦、难过 → 遗憾、道歉及其他评价']],
+ 'I’m sorry I’m late 为迟到道歉；I’m sorry to hear that 表示同情，不必承认自己造成了事情；a sorry state 糟糕、可怜的状态。',
+ 'sorry about；sorry for；sorry to hear；a sorry state。',
+ 'sorry 可道歉也可表达遗憾；apologise 更直接说作出道歉。Sorry? 上扬语调还可表示没听清，请再说。',
+ ('I’m sorry I kept you waiting.','抱歉让你久等了。'),('I’m sorry to hear that your trip was cancelled.','听说你的旅行取消了，我很遗憾。'),sources=['https://en.wiktionary.org/wiki/sorry#English','https://www.etymonline.com/word/sorry'])
+R('B4185','疼痛、不快；严重程度与抱歉遗憾','SORE：身体的痛，或心里的不快','sore 说疼，soreness 把疼当状态，sorely 常加强缺乏、想念、失望等程度，sorry 则从难过走到抱歉、遗憾。',
+ '词族接古英语 sār 等疼痛词。sorry 与 sore 同族，虽受 sorrow 拼写影响，sorrow 本身另源；植物、颜色的 sorrel 也不混进疼痛词族。',
+ 'sore → soreness、sorely；旧难过形容词 → sorry；eyesore 是已学视觉不适比喻。',
+ [['疼痛和状态','sore · soreness'],['强烈程度与遗憾','sorely · sorry'],['视觉不适的固定词','eyesore']],
+ 'sorry 不一定承认责任，也可同情；sorely needed 迫切需要；sore 与 soar 同音，sorrow 另源。',
+ 'I was sorry to hear that her sore shoulder had stopped her from joining us.\n\n听说肩膀疼让她没法加入我们，我很遗憾。',
+ 'sore soreness sorely sorry eyesore')
+if __name__=='__main__':save('continuation_20261029_di',ROOTS,WORDS)

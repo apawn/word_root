@@ -1,0 +1,64 @@
+[
+  {
+    "id": "B3347",
+    "meaning": "身体外层与皮料；去皮、无皮和紧身分开",
+    "core": "SKIN：包在外面的皮；动词有时把它去掉或擦破",
+    "image": "skin → skinny、skinned、skinless；skintight 贴身；foreskin 固定部位；几种常见皮料按动物一起读，skincare、bearskin 共享。",
+    "intro": "外层画面很稳定，但动词去皮和名词有皮的 -ed 结构不能混。极冷门皮料、职业词先略；历史贬称不在本页扩展。",
+    "forms": "skin + -y/-ed/-less；skin + tight/head；fore- + skin；sheep/lamb/calf/snake/bear + skin；skin + care。\n\nskin 接古诺尔斯语 skinn，后来通用于人的皮肤；外层、界面外观等义沿表层画面扩展。\n\n本组与 skin 比较皮肤上的装饰，不是 skin 派生。文身 tattoo 接波利尼西亚 tatau 等材料；军中晚间信号、鼓声 tattoo 则接荷兰 taptoe，二者另源。",
+    "branches": [
+      [
+        "基本皮肤和处理",
+        "skin · skinny · skinned · skinless · skincare"
+      ],
+      [
+        "贴身、部位与外观称呼",
+        "skintight · foreskin · skinhead"
+      ],
+      [
+        "按来源命名的材料",
+        "sheepskin · lambskin · calfskin · snakeskin · bearskin"
+      ],
+      [
+        "skin → skins：皮肤、外皮与外观主题",
+        "skin · skins"
+      ],
+      [
+        "tattoo：皮肤上的图案",
+        "tattoo · tattoos · tattooed · tattooing · tattooist"
+      ]
+    ],
+    "contrasts": "skinny 很瘦不等于 slim 的褒义；skinless 去皮、skinned 依结构分义；calfskin 小牛不是小腿；skinhead 不等于所有秃头。",
+    "practice": "The shop sells calfskin shoes and gloves made from lambskin.\n\n店里出售小牛皮鞋和羔羊皮手套。",
+    "words": [
+      "skin",
+      "skinny",
+      "skinned",
+      "skinless",
+      "skincare",
+      "skintight",
+      "foreskin",
+      "skinhead",
+      "sheepskin",
+      "lambskin",
+      "calfskin",
+      "snakeskin",
+      "bearskin",
+      "skins",
+      "tattoo",
+      "tattoos",
+      "tattooed",
+      "tattooing",
+      "tattooist"
+    ],
+    "exclude": {
+      "e-skin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "buffalo-skin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hare-skin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "skinner": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "buckskin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pigskin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "redskin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

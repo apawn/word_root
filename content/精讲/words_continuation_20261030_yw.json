@@ -1,0 +1,376 @@
+[
+  {
+    "word": "observations",
+    "ipa": "英 /ˌɒbzəˈveɪʃənz/；美 /ˌɑːbzərˈveɪʃənz/",
+    "meaning": "观察；观察记录；评论、见解〔复数〕",
+    "sense": "把注意力守在对象上，留心看到什么，是 observations 的观察画面；把看到的内容记下来、说出来，又有观察记录和见解。",
+    "split": "observation + -s，/n/ 后读 /z/。拉丁 ob- 朝向、在前与 servāre 看守形成 observāre，再有 observātiō，经法语及拉丁借入英语；不与 servīre 服侍一支混成一个现代动作。",
+    "history": [
+      [
+        "拉丁 observāre、observātiō → 法语、英语 observation",
+        "看守、留心；遵守、观察等历史义"
+      ],
+      [
+        "observation + -s → observations",
+        "多次观察、所见记录或由观察说出的评论"
+      ]
+    ],
+    "explanation": "record observations 记录观察所见；careful observations 仔细观察；make observations on... 对……发表观察见解。",
+    "usage": "observations made during the test；observations written in a notebook。",
+    "contrast": "observations 可以是实测所见，也可说观察后的评论。具体是数据记录还是意见，看 record、measure、comment 等周围词。",
+    "examples": [
+      [
+        "The students wrote their observations in notebooks.",
+        "学生们把观察到的情况写在笔记本里。"
+      ],
+      [
+        "Her observations on the design helped the team improve it.",
+        "她对设计的观察意见帮助团队作了改进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observations#English",
+      "https://www.etymonline.com/word/observation"
+    ]
+  },
+  {
+    "word": "findings",
+    "ipa": "/ˈfaɪndɪŋz/",
+    "meaning": "调查、研究得到的发现、结果〔finding 的复数〕",
+    "sense": "一路查找、试验之后，真正找到了哪些情况，就是 findings。像把找到的东西摆在桌面上，让大家看这次发现了什么。",
+    "split": "find + -ing → finding，再加 -s，/ŋ/ 后读 /z/。find 是本族词，古英语已有相应动作名词；现代 finding 也常指找出、查明的内容。",
+    "history": [
+      [
+        "find 及旧动作名词 → finding",
+        "找到的过程 → 查明的结果"
+      ],
+      [
+        "finding + -s → findings",
+        "多项发现；研究、调查结论"
+      ]
+    ],
+    "explanation": "research findings 研究发现；key findings 主要发现；publish the findings 公布调查结果。",
+    "usage": "findings presented in the report；findings from the survey。",
+    "contrast": "findings 在研究报告里常合称这项工作查明的内容；result 范围更广，可以说比赛、计算、事件等结果。",
+    "examples": [
+      [
+        "The team presented its findings in a short report.",
+        "团队用一份简短报告展示了研究发现。"
+      ],
+      [
+        "The findings from the survey helped improve the course.",
+        "调查结果帮助改进了课程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/findings#English",
+      "https://en.wiktionary.org/wiki/finding#English"
+    ]
+  },
+  {
+    "word": "conclusions",
+    "ipa": "/kənˈkluːʒənz/",
+    "meaning": "结论；结束部分〔conclusion 的复数〕",
+    "sense": "把前面证据、理由收拢起来，最后落到的判断，是 conclusions。词根的合上、收尾画面能帮助记住讨论走到最后这一步。",
+    "split": "conclusion + -s，/n/ 后读 /z/。拉丁 con- 与 claudere 关闭形成 conclūdere，其分词词干形成 conclūsiō，经古法语借入英语；与 conclude 有历史词干对应。",
+    "history": [
+      [
+        "拉丁 conclūdere、conclūs- → conclūsiō → 法语、英语",
+        "合上、结束 → 最后的判断"
+      ],
+      [
+        "conclusion + -s → conclusions",
+        "多项结论；多个结束部分"
+      ]
+    ],
+    "explanation": "draw conclusions 得出结论；reach conclusions 形成结论；jump to conclusions 贸然下结论。",
+    "usage": "conclusions based on the evidence；conclusions drawn from the interviews。",
+    "contrast": "draw a conclusion、reach a conclusion 是常用搭配。jump to conclusions 强调省去了充分考虑就过早形成判断，把跳过去的动作作为短语记。",
+    "examples": [
+      [
+        "The report draws three conclusions from the interviews.",
+        "报告根据访谈得出三个结论。"
+      ],
+      [
+        "They reached different conclusions after reading the same letters.",
+        "读过同一批信后，他们得出了不同结论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conclusions#English",
+      "https://en.wiktionary.org/wiki/conclusion#English"
+    ]
+  },
+  {
+    "word": "assumptions",
+    "ipa": "/əˈsʌmpʃənz/",
+    "meaning": "假定、默认的前提〔assumption 的复数〕",
+    "sense": "有些情况还没充分证明，你先拿过来当作成立，再据此计划、推论，就是 assumptions。拿来接受的老动作在这里很直观。",
+    "split": "assumption + -s，/n/ 后读 /z/。拉丁 ad- 与 sūmere 拿取组成 assūmere，其 assūmpt- 分词词干形成 assūmptiō，经法语与拉丁路线借入；英语名词早于现代 assume 的相关动词义。",
+    "history": [
+      [
+        "拉丁 assūmere、assūmpt- → assūmptiō → 英语 assumption",
+        "拿取、接受 → 假定、作为前提"
+      ],
+      [
+        "assumption + -s → assumptions",
+        "多项默认前提、设想"
+      ]
+    ],
+    "explanation": "make assumptions 作假定；underlying assumptions 底层前提；question the assumptions 质疑前提。",
+    "usage": "assumptions about the audience；assumptions built into the plan。",
+    "contrast": "assumptions 常说已经用来支撑推论的前提；suppositions 也是假定，但不一定已经藏在计划、判断里。两词在具体句子中可以重叠。",
+    "examples": [
+      [
+        "The plan depends on several assumptions about travel time.",
+        "这个计划依赖几个有关路程时间的假定。"
+      ],
+      [
+        "She asked the team to explain its assumptions.",
+        "她请团队说明所依据的前提。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assumptions#English",
+      "https://www.etymonline.com/word/assumption"
+    ]
+  },
+  {
+    "word": "predictions",
+    "ipa": "/prɪˈdɪkʃənz/",
+    "meaning": "预测、预言〔prediction 的复数〕",
+    "sense": "事情还没发生，先根据已有情况说可能怎样，是 predictions；词根里提前说这两个动作很好认。",
+    "split": "prediction + -s，/n/ 后读 /z/。拉丁 prae- 预先与 dīcere 说形成 praedīcere，名词 praedictiō 进入英语；现代与 predict、-ion 对应。",
+    "history": [
+      [
+        "拉丁 prae- + dīcere → praedīcere、praedictiō",
+        "预先说 → 预测行为或内容"
+      ],
+      [
+        "英语 prediction + -s → predictions",
+        "多项预测、预言"
+      ]
+    ],
+    "explanation": "make predictions 作预测；test predictions 检验预测；predictions about the future 对未来的预测。",
+    "usage": "predictions compared with results；predictions made by the model。",
+    "contrast": "prediction 说预先判断的内容，result 说实际出现的结果。读研究文本时，作者常会把 predictions 与后来的观测相比较。",
+    "examples": [
+      [
+        "The students compared their predictions with the experiment results.",
+        "学生们把预测与实验结果作了比较。"
+      ],
+      [
+        "The model makes predictions about how the material will behave.",
+        "这个模型预测材料将会呈现怎样的表现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predictions#English",
+      "https://en.wiktionary.org/wiki/prediction#English"
+    ]
+  },
+  {
+    "word": "experiments",
+    "ipa": "/ɪkˈsperɪmənts/",
+    "meaning": "实验、试验；尝试〔复数〕；做实验、尝试〔第三人称单数〕",
+    "sense": "把一种办法实际试一试、看看发生什么，是 experiments；正式科学实验有具体设计，做菜、创作也可以小范围尝试。",
+    "split": "experiment + -s，/t/ 后读 /s/。法语 experiment 接拉丁 experimentum，源于 experīrī 尝试、检验；英语名词后又形成动词，与 experience 共享较早的尝试词族。",
+    "history": [
+      [
+        "拉丁 experīrī、experimentum → 法语 → experiment",
+        "尝试、检验 → 一次试验"
+      ],
+      [
+        "experiment + -s → experiments；名词转动词",
+        "多次实验；单数主语尝试、做实验"
+      ]
+    ],
+    "explanation": "carry out experiments 做实验；experiments with colour 尝试色彩搭配；experiments on materials 对材料的试验。",
+    "usage": "experiments conducted in class；experiments with different methods。",
+    "contrast": "experiments with something 常说拿某些材料、办法来试。experience 泛说经历、经验；experiment 更突出主动安排一次尝试来观察。",
+    "examples": [
+      [
+        "The class carried out simple experiments with light.",
+        "全班做了几个关于光的简单实验。"
+      ],
+      [
+        "She experiments with different colours in her paintings.",
+        "她在绘画中尝试不同的颜色搭配。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/experiments#English",
+      "https://en.wiktionary.org/wiki/experiment#English"
+    ]
+  },
+  {
+    "word": "investigations",
+    "ipa": "/ɪnˌvestɪˈɡeɪʃənz/",
+    "meaning": "调查、追查、研究〔investigation 的复数〕",
+    "sense": "看到一点踪迹，再顺着它继续找，直到把事情查清，是 investigations。词根里真的有脚印，调查的动作感就很容易记。",
+    "split": "investigation + -s，/n/ 后读 /z/。拉丁 in- 向内与 vestīgāre 循迹追寻形成 investīgāre，再有 investīgātiō，经古法语借入；vestīgium 是脚印、踪迹。英语名词记载早于 investigate。",
+    "history": [
+      [
+        "拉丁 vestīgium、vestīgāre → investīgātiō → 法语、英语",
+        "脚印、循迹 → 深入追查"
+      ],
+      [
+        "investigation + -s → investigations",
+        "多项调查、追查或系统研究"
+      ]
+    ],
+    "explanation": "carry out investigations 开展调查；investigations into... 对……的调查；further investigations 进一步调查。",
+    "usage": "investigations into the fault；investigations described in the report。",
+    "contrast": "investigations 不限警方破案，机器故障、历史疑问、科学问题也能调查。into 后常引出要查清的对象。",
+    "examples": [
+      [
+        "Further investigations revealed a fault in the old equipment.",
+        "进一步调查发现旧设备存在故障。"
+      ],
+      [
+        "The book describes investigations into the history of the building.",
+        "这本书描述了对这座建筑历史的调查研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/investigations#English",
+      "https://www.etymonline.com/word/investigation"
+    ]
+  },
+  {
+    "word": "surveys",
+    "ipa": "名词：英 /ˈsɜːveɪz/、美 /ˈsɜːrveɪz/；动词：英 /səˈveɪz/、美 /sərˈveɪz/",
+    "meaning": "调查、概览、测量〔复数〕；审视、调查、测量〔第三人称单数〕",
+    "sense": "把一个范围整体看一遍，是 surveys 的共同画面；可以看地形、查人们的看法，也可以写一个主题的概览。",
+    "split": "survey + -s，元音后读 /z/。古法语 sur- 在上与 veoir 看组合，经英语发展为全面看、调查、测量；现代名词通常前重音，动词通常后重音。",
+    "history": [
+      [
+        "古法语 sur- + veoir → survey",
+        "从上看、全面察看 → 调查、测量"
+      ],
+      [
+        "survey + -s → surveys",
+        "多次调查、概览；单数主语审视、调查"
+      ]
+    ],
+    "explanation": "customer surveys 顾客调查；land surveys 土地测量；historical surveys 历史概览；surveys the room 扫视房间。",
+    "usage": "surveys conducted online；surveys the area from the hill。",
+    "contrast": "surveys 不必都用问卷，测地形、作概览也能用。The surveys are complete 是名词；She surveys the room 是动词，重音随词性变化。",
+    "examples": [
+      [
+        "The surveys asked visitors about their experience of the museum.",
+        "这些调查询问访客在博物馆的参观体验。"
+      ],
+      [
+        "She surveys the room before choosing a seat.",
+        "她先扫视房间，再选座位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surveys#English",
+      "https://en.wiktionary.org/wiki/survey#English"
+    ]
+  },
+  {
+    "word": "theories",
+    "ipa": "英 /ˈθɪəriz/；美 /ˈθɪriz/",
+    "meaning": "理论；解释、推想〔theory 的复数〕",
+    "sense": "把观察到的零散情况组织起来，说明它们为什么这样，是 theories 的理论画面。日常也可以说对某件事的猜想、解释。",
+    "split": "theory 的 y 前是辅音 r，变 y 为 i 加 -es，词尾 /z/。希腊 theōría 观察、思考，经晚期拉丁、法语等进入英语，现代解释框架义逐渐发展。",
+    "history": [
+      [
+        "希腊 theōría → 拉丁、法语等 → theory",
+        "观察、思考 → 对事情作系统解释"
+      ],
+      [
+        "theory → theories",
+        "y 变 i 加 es；多种理论、解释"
+      ]
+    ],
+    "explanation": "scientific theories 科学理论；competing theories 不同的解释理论；theories about... 关于……的推想。",
+    "usage": "theories tested against evidence；theories explaining the pattern。",
+    "contrast": "theory 在日常可以是猜想，在学术里常是组织证据、解释现象的框架。读到 theories，要结合作者是在闲谈推想还是讨论研究体系。",
+    "examples": [
+      [
+        "The course compares several theories of learning.",
+        "这门课比较了几种学习理论。"
+      ],
+      [
+        "The researchers tested two theories against the new evidence.",
+        "研究者用新证据检验了两种理论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/theories#English",
+      "https://en.wiktionary.org/wiki/theory#English"
+    ]
+  },
+  {
+    "word": "concepts",
+    "ipa": "/ˈkɒnsepts/；美式常 /ˈkɑːnsepts/",
+    "meaning": "概念、观念；构想〔concept 的复数〕",
+    "sense": "把相关特点在脑中抓住、组织成一个可以谈论的意思，就是 concepts；课程教的基本概念，设计提出的初步构想，都可用这个词。",
+    "split": "concept + -s，/t/ 后读 /s/。concept 接中世纪拉丁 conceptum 等，来自 concipere 接纳、构想的分词词干；其中 con- 可能加强，capere 是拿取，concept- 与 conceive 形成历史词形对应。",
+    "history": [
+      [
+        "拉丁 concipere、concept-、conceptum → concept",
+        "接纳、构想 → 头脑中形成的观念"
+      ],
+      [
+        "concept + -s → concepts",
+        "多个概念、设计构想"
+      ]
+    ],
+    "explanation": "basic concepts 基本概念；design concepts 设计构想；introduce concepts 引入概念。",
+    "usage": "concepts explained with examples；concepts developed by the design team。",
+    "contrast": "concept 常把一个意思框成可理解、可讨论的单位。idea 更宽泛；a design concept 则常是设计早期抓住的总体构想。",
+    "examples": [
+      [
+        "The teacher used simple examples to explain the concepts.",
+        "老师用简单例子解释这些概念。"
+      ],
+      [
+        "The team presented three design concepts.",
+        "团队展示了三个设计构想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concepts#English",
+      "https://www.etymonline.com/word/concept"
+    ]
+  },
+  {
+    "word": "principles",
+    "ipa": "/ˈprɪnsəpəlz/",
+    "meaning": "原则、准则；基本原理〔principle 的复数〕",
+    "sense": "先放在基础位置、后面的判断和行动据此展开的规则，就是 principles；做人做事可以有原则，机器怎样运行也有基本原理。",
+    "split": "principle + -s，/l/ 后读 /z/。拉丁 princeps 居首者形成 principium 开始、基础，经法语 principe、principle 等借入；英语 l 的定形还受相似词形影响。",
+    "history": [
+      [
+        "拉丁 princeps → principium → 法语、英语 principle",
+        "居首、开头 → 基础、基本规则"
+      ],
+      [
+        "principle + -s → principles",
+        "多项原则、原理"
+      ]
+    ],
+    "explanation": "basic principles 基本原则；design principles 设计原则；scientific principles 科学原理；stick to principles 坚持原则。",
+    "usage": "principles explained in the first chapter；principles guiding the work。",
+    "contrast": "principles 与 principals 常同音；principals 可指校长、负责人，principles 是原则、原理。principal 另作主要的形容词。",
+    "examples": [
+      [
+        "The first chapter explains the basic principles of the method.",
+        "第一章讲解这个方法的基本原理。"
+      ],
+      [
+        "The team agreed on several principles to guide its work.",
+        "团队就几项指导工作的原则达成了一致。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/principles#English",
+      "https://www.etymonline.com/word/principle"
+    ]
+  }
+]

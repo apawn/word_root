@@ -1,0 +1,933 @@
+[
+  {
+    "word": "night",
+    "ipa": "/naɪt/",
+    "meaning": "夜晚；夜间",
+    "sense": "天黑下来，日间活动收尾，睡眠和夜间生活接上。",
+    "split": "接古英语 niht，经中古英语不同拼写延续。gh 记录了更早发音的历史痕迹，现代常见读音里不发音；与 knight“骑士”常同音但不同来源。",
+    "history": [
+      [
+        "古英语 niht → 中古英语 night / nighte",
+        "夜间、黑夜"
+      ],
+      [
+        "英语 night",
+        "夜晚；夜里的某次活动或时段"
+      ]
+    ],
+    "explanation": "at night 是在夜里，last night 是昨晚，on Friday night 是周五晚上；three nights 可按住宿晚数算。work nights 还能说经常值夜班，不只普通复数日期。",
+    "usage": "at night；last night；on Monday night；a night out；work nights。",
+    "contrast": "evening 常说傍晚到就寝前时段，night 可更晚或泛夜间；Good evening 常作见面招呼，Good night 常作道别或睡前话。",
+    "examples": [
+      [
+        "The town is very quiet at night.",
+        "小镇夜里很安静。"
+      ],
+      [
+        "We stayed at the hotel for three nights.",
+        "我们在酒店住了三晚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/night#English"
+    ]
+  },
+  {
+    "word": "midnight",
+    "ipa": "/ˈmɪdnaɪt/",
+    "meaning": "午夜；半夜十二点",
+    "sense": "时钟来到夜间十二点，日期通常也在这里翻到下一天。",
+    "split": "mid-（中间）+ night，接古英语 midniht。历史夜的中段与现代钟点午夜的用法相关，但十二点不保证总在日落日出的正中间。",
+    "history": [
+      [
+        "古英语 niht → 中古英语 night / nighte",
+        "夜间、黑夜"
+      ],
+      [
+        "古英语 midniht → 中古英语 midnight → midnight",
+        "夜的中段 → 常指夜间十二点"
+      ]
+    ],
+    "explanation": "at midnight 是午夜，by midnight 是午夜前或最迟午夜。until midnight 是一直到午夜；讲日期边界时最好把具体日期说清。",
+    "usage": "at midnight；by midnight；after midnight；a midnight train。",
+    "contrast": "midnight 半夜十二点，noon 中午十二点；midday 常说中午时段。midnight 不是所有场景的笼统深夜。",
+    "examples": [
+      [
+        "The last train leaves at midnight.",
+        "末班火车午夜发车。"
+      ],
+      [
+        "We finished the report just before midnight.",
+        "我们在午夜前不久完成了报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/midnight#English"
+    ]
+  },
+  {
+    "word": "nightly",
+    "ipa": "/ˈnaɪtli/",
+    "meaning": "每晚的；每晚地；夜间的",
+    "sense": "日历每过一天，到夜里这件事又会出现。",
+    "split": "night + -ly，接古英语 nihtlīċ 等形容词、副词形式。既可修饰名词，也可说明发生频率。",
+    "history": [
+      [
+        "古英语 niht → 中古英语 night / nighte",
+        "夜间、黑夜"
+      ],
+      [
+        "古英语 nihtlīċ 等 → nightly",
+        "夜间的；每晚发生的"
+      ]
+    ],
+    "explanation": "the nightly news 是晚间新闻，a nightly routine 是每晚习惯，perform nightly 是每晚演出；酒店 nightly rate 是每晚价格，强调计费单位。",
+    "usage": "a nightly routine；nightly news；perform nightly；a nightly rate。",
+    "contrast": "nightly 每晚或按晚计，weeknight 平日晚间；一个节目 nightly 不一定只限工作日晚上。",
+    "examples": [
+      [
+        "The band performs nightly during the festival.",
+        "节日期间乐队每晚演出。"
+      ],
+      [
+        "Reading is part of his nightly routine.",
+        "阅读是他每晚习惯的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightly#English"
+    ]
+  },
+  {
+    "word": "fortnight",
+    "ipa": "英 /ˈfɔːtnaɪt/；美 /ˈfɔːrtnaɪt/",
+    "meaning": "两周；十四天〔尤英式〕",
+    "sense": "把十四个夜晚数完，时间就是两个星期。",
+    "split": "古英语 fēowertīene niht“十四夜”经中古英语 fourtenyght 等压缩成 fortnight；fort- 在这里不是堡垒 fort。",
+    "history": [
+      [
+        "古英语 fēowertīene niht",
+        "十四夜、十四天"
+      ],
+      [
+        "中古英语 fourtenyght → fortnight",
+        "压缩为两周的固定名称"
+      ]
+    ],
+    "explanation": "in a fortnight 是两周后，for a fortnight 是持续两周；every fortnight 是每两周一次。美式日常更常直接说 two weeks。",
+    "usage": "a fortnight ago；in a fortnight；for a fortnight；every fortnight。",
+    "contrast": "fortnight 两周，不是两夜；biweekly 有每两周或一周两次的歧义，every fortnight 则明确隔两周一次。",
+    "examples": [
+      [
+        "We will return in a fortnight.",
+        "我们两周后回来。"
+      ],
+      [
+        "She spent a fortnight with her cousins.",
+        "她和表亲们一起住了两周。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fortnight#English"
+    ]
+  },
+  {
+    "word": "nightfall",
+    "ipa": "英 /ˈnaɪtfɔːl/；美 /ˈnaɪtfɔːl/",
+    "meaning": "夜幕降临；入夜",
+    "sense": "白天亮光退下去，黑暗像一层幕慢慢落下来。",
+    "split": "night + fall，fall 用降临、来临的意象，不是夜晚作为实体从天上掉下来。",
+    "history": [
+      [
+        "英语 night；fall",
+        "并列组合的两部分"
+      ],
+      [
+        "night + fall → nightfall",
+        "夜幕降临的时段"
+      ]
+    ],
+    "explanation": "by nightfall 是最迟入夜前，at nightfall 是夜幕降临时；叙事、旅行描写常见。具体钟点会随季节、地点变化。",
+    "usage": "by nightfall；at nightfall；before nightfall。",
+    "contrast": "nightfall 是入夜过程、时段，midnight 是午夜；太阳落山后的入夜不会每天都等到十二点。",
+    "examples": [
+      [
+        "We hoped to reach the village by nightfall.",
+        "我们希望入夜前到达村子。"
+      ],
+      [
+        "At nightfall, lights began to appear across the valley.",
+        "夜幕降临，山谷各处开始亮起灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightfall#English"
+    ]
+  },
+  {
+    "word": "nightmare",
+    "ipa": "英 /ˈnaɪtmeə/；美 /ˈnaɪtmer/",
+    "meaning": "噩梦；可怕、棘手的经历",
+    "sense": "睡梦里被追赶、受困，醒来仍心有余悸；现实麻烦也能像噩梦。",
+    "split": "night + mare，mare 在这里是旧时传说中侵扰睡眠的恶灵，不是母马。经中古英语 nyghtmare 等，后来常指可怕梦境及难熬经历。",
+    "history": [
+      [
+        "英语 night；旧词 mare〔侵扰睡眠的恶灵〕",
+        "夜；民间传说角色"
+      ],
+      [
+        "中古英语 nyghtmare → nightmare",
+        "夜间侵扰的旧观念 → 噩梦、可怕经历"
+      ]
+    ],
+    "explanation": "have a nightmare 是做噩梦，a nightmare journey 是一段难熬行程；a logistical nightmare 是组织安排极其麻烦。",
+    "usage": "have a nightmare；a recurring nightmare；a logistical nightmare。",
+    "contrast": "nightmare 不等于 night + 马；bad dream 是坏梦更泛，nightmare 往往强调恐惧或特别糟的体验。",
+    "examples": [
+      [
+        "She woke up after a nightmare.",
+        "她做了噩梦后醒来。"
+      ],
+      [
+        "Organizing transport for everyone became a logistical nightmare.",
+        "为所有人安排交通变成了一场后勤噩梦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightmare#English"
+    ]
+  },
+  {
+    "word": "nightclub",
+    "ipa": "/ˈnaɪtklʌb/",
+    "meaning": "夜总会；夜间舞乐娱乐场所",
+    "sense": "夜里人们聚到一处，听音乐、跳舞、社交，而不是白天的普通课程社团。",
+    "split": "night + club，按营业、娱乐时段命名。club 在这里指娱乐场所，不是球杆。",
+    "history": [
+      [
+        "英语 night；club",
+        "并列组合的两部分"
+      ],
+      [
+        "night + club → nightclub",
+        "夜间提供音乐、跳舞等娱乐的场所"
+      ]
+    ],
+    "explanation": "go to a nightclub 是去夜店，a nightclub DJ 是夜店音乐主持。具体是否供餐、演出、会员制等，场所各不相同。",
+    "usage": "a nightclub DJ；go to a nightclub；a nightclub entrance。",
+    "contrast": "nightclub 场所，nightlife 是一地区的夜间娱乐生活；一家 nightclub 可以构成 nightlife 的一部分。",
+    "examples": [
+      [
+        "They went to a nightclub after dinner.",
+        "晚饭后，他们去了夜店。"
+      ],
+      [
+        "The old cinema was converted into a nightclub.",
+        "旧电影院被改成了夜间娱乐场所。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightclub#English"
+    ]
+  },
+  {
+    "word": "nightlight",
+    "ipa": "/ˈnaɪtlaɪt/",
+    "meaning": "小夜灯；夜间微光",
+    "sense": "不把房间照得像白天，只留一盏小灯，让黑暗中还能看清一点。",
+    "split": "night + light，按夜里使用的柔弱照明命名；也可说夜间自然光，但常见家居义是小夜灯。",
+    "history": [
+      [
+        "英语 night；light",
+        "并列组合的两部分"
+      ],
+      [
+        "night + light → nightlight",
+        "夜间保留的小灯、微弱光源"
+      ]
+    ],
+    "explanation": "a plug-in nightlight 是插电小夜灯，leave a nightlight on 是留一盏夜灯。并不表示普通大灯只要晚上开就都专称 nightlight。",
+    "usage": "a small nightlight；a bedside nightlight；leave a nightlight on。",
+    "contrast": "nightlight 是供微弱照明的灯，nightlife 是夜生活；结尾 light 与 life 不同，含义完全不同。",
+    "examples": [
+      [
+        "A small nightlight glowed in the hallway.",
+        "走廊里亮着一盏小夜灯。"
+      ],
+      [
+        "He left a nightlight on beside the bed.",
+        "他在床边留了一盏小夜灯。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightlight#English"
+    ]
+  },
+  {
+    "word": "nightwear",
+    "ipa": "英 /ˈnaɪtweə/；美 /ˈnaɪtwer/",
+    "meaning": "睡衣；睡眠时穿的衣物",
+    "sense": "把睡觉穿的一类衣服统称起来，不先限定是长裙、套装还是其他样式。",
+    "split": "night + -wear（穿戴用品），按使用时段和睡眠用途构成。不是 wear“磨损”说夜里衣服坏了。",
+    "history": [
+      [
+        "英语 night；-wear〔穿戴用品〕",
+        "并列组合的两部分"
+      ],
+      [
+        "night + -wear〔穿戴用品〕 → nightwear",
+        "睡眠时穿用的服装总类"
+      ]
+    ],
+    "explanation": "a nightwear section 是睡衣区，comfortable nightwear 是舒适睡衣；常作集合不可数，不通常说 three nightwears 数三件。",
+    "usage": "comfortable nightwear；a nightwear section；cotton nightwear。",
+    "contrast": "nightwear 是总类，nightgown 是睡裙，pyjamas 是睡衣裤等具体类型；并非所有夜间外出服都是 nightwear。",
+    "examples": [
+      [
+        "The shop has a small section for nightwear.",
+        "店里有一个小睡衣区。"
+      ],
+      [
+        "She packed comfortable nightwear for the trip.",
+        "她为旅行带了舒适睡衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightwear#English"
+    ]
+  },
+  {
+    "word": "nightgown",
+    "ipa": "/ˈnaɪtɡaʊn/",
+    "meaning": "睡裙；长睡袍",
+    "sense": "睡觉时穿的宽松长衣，不需要像外出礼服那样正式。",
+    "split": "night + gown（长衣、袍），接中古英语 nyght gowne 等；按夜间穿用的长衣命名。",
+    "history": [
+      [
+        "英语 night；gown",
+        "并列组合的两部分"
+      ],
+      [
+        "night + gown → nightgown",
+        "睡眠时穿的宽松长衣"
+      ]
+    ],
+    "explanation": "a cotton nightgown 是棉睡裙，a long nightgown 是长睡袍。通常说女式睡裙，但具体服装样式按实物。",
+    "usage": "a cotton nightgown；a long nightgown；wear a nightgown。",
+    "contrast": "nightgown 多是裙袍式睡衣，dressing gown 常是起床、居家时披在外面的晨衣；穿用习惯可能有交集。",
+    "examples": [
+      [
+        "She changed into a cotton nightgown.",
+        "她换上棉睡裙。"
+      ],
+      [
+        "The costume included an old-fashioned nightgown.",
+        "戏服里包括一件旧式长睡袍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightgown#English"
+    ]
+  },
+  {
+    "word": "nightie",
+    "ipa": "/ˈnaɪti/",
+    "meaning": "睡裙〔口语〕",
+    "sense": "把 nightgown、nightdress 这类睡裙叫得短一点、随意一点。",
+    "split": "night + -ie，-ie 带口语昵称式色彩；night 的 gh 仍不发音，不读成夜晚另加一个 g。",
+    "history": [
+      [
+        "古英语 niht → 中古英语 night / nighte",
+        "夜间、黑夜"
+      ],
+      [
+        "英语 night",
+        "夜晚；夜里的某次活动或时段"
+      ],
+      [
+        "night + -ie → nightie",
+        "睡裙的口语名称"
+      ]
+    ],
+    "explanation": "日常对话、服饰销售可见，nighty 是另一拼写。正式类别名称常用 nightdress、nightgown。",
+    "usage": "a cotton nightie；a new nightie；change into a nightie。",
+    "contrast": "nightie 是衣物名词，nightly 是每晚的、副词等；听音时 /ti/ 与 /tli/ 要分清。",
+    "examples": [
+      [
+        "She bought a light cotton nightie for summer.",
+        "她买了件适合夏天的薄棉睡裙。"
+      ],
+      [
+        "The suitcase contained a nightie and a pair of slippers.",
+        "行李箱里装着睡裙和一双拖鞋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightie#English"
+    ]
+  },
+  {
+    "word": "nightcap",
+    "ipa": "/ˈnaɪtkæp/",
+    "meaning": "睡帽；睡前最后一杯饮料〔常酒类〕",
+    "sense": "一类是睡觉戴的帽子，另一类是晚上结束前再喝的一杯。",
+    "split": "night + cap（帽），先有睡帽义；饮料用法后来把夜晚收尾的一杯也这样叫。不把睡前饮酒当成助眠建议。",
+    "history": [
+      [
+        "英语 night；cap",
+        "并列组合的两部分"
+      ],
+      [
+        "night + cap → nightcap",
+        "睡帽；后来也指睡前最后一杯饮料"
+      ]
+    ],
+    "explanation": "wear a nightcap 是戴睡帽，have a nightcap 常说睡前来一杯，具体饮料看语境。小说夜间社交结尾常见后一用法。",
+    "usage": "a woollen nightcap；have a nightcap；a final nightcap。",
+    "contrast": "nightcap 的 cap 是帽及收尾意象，nightclub 是娱乐场所；夜店里的每杯饮料不因此都叫 nightcap。",
+    "examples": [
+      [
+        "The old illustration shows a man in a nightcap.",
+        "旧插图中，一个男人戴着睡帽。"
+      ],
+      [
+        "They had a quiet nightcap before saying goodnight.",
+        "他们安静地喝了睡前最后一杯，然后道晚安。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nightcap#English"
+    ]
+  },
+  {
+    "word": "money",
+    "ipa": "/ˈmʌni/",
+    "meaning": "钱；货币；资金",
+    "sense": "买东西、支付、储存价值时使用的交换手段，现代不只看得见的纸钞硬币。",
+    "split": "经盎格鲁法语 muneie 接拉丁 monēta，后者有铸币、钱币义，与罗马 Juno Moneta 神庙附近的铸币背景相连；不必再加未经核实的传说来解释每个音。",
+    "history": [
+      [
+        "罗马 Juno Moneta 神庙的铸币背景 → 拉丁 monēta",
+        "铸币处；钱币"
+      ],
+      [
+        "盎格鲁法语 muneie → 中古英语 moneye → money",
+        "钱、货币"
+      ]
+    ],
+    "explanation": "save money 是存钱或省钱，make money 是赚钱，raise money 是筹资；money 通常不可数，一笔钱用 a sum of money 等表达。",
+    "usage": "save money；spend money on；make money；raise money；value for money。",
+    "contrast": "money 通常说钱的总概念，cash 常强调现金或即付资金，currency 是货币种类、体系；账户里也可有 money，并非全是纸币。",
+    "examples": [
+      [
+        "We are saving money for a new kitchen.",
+        "我们正在攒钱装修新厨房。"
+      ],
+      [
+        "The event raised money for the library.",
+        "活动为图书馆筹集了资金。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/money#English"
+    ]
+  },
+  {
+    "word": "moneyed",
+    "ipa": "/ˈmʌnid/，也 /ˈmʌniːd/",
+    "meaning": "有钱的；富裕的",
+    "sense": "不是手上碰巧拿着一枚钱币，而是整体拥有较多财富、资金。",
+    "split": "money + -ed，-ed 在这里表具有某物的性质，y 保留。不是把 money 当付款动词说过去发生过。",
+    "history": [
+      [
+        "罗马 Juno Moneta 神庙的铸币背景 → 拉丁 monēta",
+        "铸币处；钱币"
+      ],
+      [
+        "盎格鲁法语 muneie → 中古英语 moneye → money",
+        "钱、货币"
+      ],
+      [
+        "money + -ed → moneyed",
+        "拥有财富的、富裕的"
+      ]
+    ],
+    "explanation": "moneyed families 是富裕家庭，the moneyed classes 是富有阶层。较书面，常用来讨论阶层背景。",
+    "usage": "moneyed families；moneyed interests；the moneyed classes。",
+    "contrast": "moneyed 富裕，paid 已付或有酬；领了一次工资 paid 不说明这个人已经 moneyed。",
+    "examples": [
+      [
+        "The school attracted children from moneyed families.",
+        "学校吸引了富裕家庭的孩子。"
+      ],
+      [
+        "The novel contrasts moneyed society with struggling workers.",
+        "小说把富裕阶层与艰难谋生的工人作对照。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moneyed#English"
+    ]
+  },
+  {
+    "word": "moneylender",
+    "ipa": "英 /ˈmʌnilendə/；美 /ˈmʌnilendər/",
+    "meaning": "放贷者；以借钱收息为业者",
+    "sense": "把钱借出去，之后按约定收回，并通常收取利息。",
+    "split": "money + lender，lender 是 lend + -er；角色按提供借款这一方向命名。",
+    "history": [
+      [
+        "英语 money；lender〔lend + -er〕",
+        "并列组合的两部分"
+      ],
+      [
+        "money + lender〔lend + -er〕 → moneylender",
+        "借出钱款、通常收息的人或机构"
+      ]
+    ],
+    "explanation": "常见历史小说、地方信贷叙述，有时偏银行体系外的放贷者。是否高利、合法需看具体安排，词本身不自动等同高利贷者。",
+    "usage": "a local moneylender；borrow from a moneylender；an informal moneylender。",
+    "contrast": "lender 借出方，borrower 借入方；moneylender 的职业或持续放贷色彩通常比一次临时借钱给朋友更强。",
+    "examples": [
+      [
+        "The farmer borrowed money from a local moneylender.",
+        "农民向当地一位放贷者借了钱。"
+      ],
+      [
+        "The novel includes a moneylender who keeps careful records.",
+        "小说里有个记账细致的放贷者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moneylender#English"
+    ]
+  },
+  {
+    "word": "tell",
+    "ipa": "/tel/",
+    "meaning": "告诉；讲述；辨别；产生影响",
+    "sense": "把事情一项项说清；观察线索时，也能把差别辨出来。",
+    "split": "接古英语 tellan，经中古英语 tellen，早兼计数与讲述。过去式、过去分词 told /təʊld/（英）、/toʊld/（美），不是 telled。",
+    "history": [
+      [
+        "古英语 tellan → 中古英语 tellen",
+        "计数、逐一列举；讲述、告知"
+      ],
+      [
+        "英语 tell",
+        "告诉；辨认；产生影响；流露信息"
+      ]
+    ],
+    "explanation": "tell someone a story 是给某人讲故事，tell someone to wait 是叫某人等；tell twins apart 是辨认双胞胎，The strain is telling on him 是压力显出影响。",
+    "usage": "tell someone something；tell someone to do；tell apart；tell the difference。",
+    "contrast": "tell 通常接被告知者：tell me the answer；say 重点内容：say the answer。I can tell 是我看得出来，不一定是我会讲故事。",
+    "examples": [
+      [
+        "Could you tell me the time?",
+        "你能告诉我几点了吗？"
+      ],
+      [
+        "I can’t tell the twins apart.",
+        "我分不清这对双胞胎。"
+      ],
+      [
+        "She told us to wait outside.",
+        "她叫我们在外面等。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tell#English"
+    ]
+  },
+  {
+    "word": "telling",
+    "ipa": "/ˈtelɪŋ/",
+    "meaning": "说明问题的；有力揭示的；讲述",
+    "sense": "一个小细节就让整个情况露出来，说服力并不靠篇幅长。",
+    "split": "tell + -ing，既可普通分词、讲述名词，也可形容词接显露、表明的 tell 用法；不是每次都在说有人正在讲话。",
+    "history": [
+      [
+        "古英语 tellan → 中古英语 tellen",
+        "计数、逐一列举；讲述、告知"
+      ],
+      [
+        "英语 tell",
+        "告诉；辨认；产生影响；流露信息"
+      ],
+      [
+        "tell + -ing → telling",
+        "讲述；能够揭示情况、产生效果的"
+      ]
+    ],
+    "explanation": "a telling detail 是很说明问题的细节，a telling silence 是意味深长的沉默；in the telling 是在叙述过程中。",
+    "usage": "a telling detail；a telling remark；a telling example；in the telling。",
+    "contrast": "telling 常说证据、细节有揭示力，talkative 是人话多；很说明问题的沉默也能是 telling silence。",
+    "examples": [
+      [
+        "Her silence was more telling than any answer.",
+        "她的沉默比任何回答都更说明问题。"
+      ],
+      [
+        "The report includes one particularly telling example.",
+        "报告里有一个格外有说明力的例子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telling#English"
+    ]
+  },
+  {
+    "word": "teller",
+    "ipa": "英 /ˈtelə/；美 /ˈtelər/",
+    "meaning": "银行柜员；计票员；讲述者〔按组合〕",
+    "sense": "银行里处理、清点钱的人，不是专门在柜台讲故事；别忘 tell 还有计数的旧义。",
+    "split": "tell + -er，接中古英语 tellere；柜员、计票员接计数义，storyteller 等则接讲述义。相同形式选不同历史义支。",
+    "history": [
+      [
+        "古英语 tellan → 中古英语 tellen",
+        "计数、逐一列举；讲述、告知"
+      ],
+      [
+        "tell + -er → teller",
+        "计数者；讲述者"
+      ],
+      [
+        "银行、投票等场景的 teller",
+        "柜员、计票员"
+      ]
+    ],
+    "explanation": "a bank teller 是银行柜员，a teller in a vote 是计票员；fortune teller 是算命者这一固定组合，具体含义不能只按职业都数钱。",
+    "usage": "a bank teller；an election teller；a teller’s counter。",
+    "contrast": "teller 银行柜员，cashier 收银员常在商店结账；工作可有交集，服务场所与职责侧重不同。",
+    "examples": [
+      [
+        "The bank teller checked the deposit slip.",
+        "银行柜员核对了存款凭条。"
+      ],
+      [
+        "The tellers counted the votes twice.",
+        "计票员把票数清点了两遍。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teller#English"
+    ]
+  },
+  {
+    "word": "telltale",
+    "ipa": "/ˈtelteɪl/",
+    "meaning": "泄露秘密的；暴露情况的；告密者〔名词〕",
+    "sense": "人嘴上没说，地上的脚印、脸上的表情却把情况讲出来了。",
+    "split": "tell + tale（故事、所述事情），既可指说出秘密的人，也用来形容不经意暴露真相的迹象。tale 不是 tail“尾巴”。",
+    "history": [
+      [
+        "英语 tell；tale",
+        "并列组合的两部分"
+      ],
+      [
+        "tell + tale → telltale",
+        "把事情说出去 → 暴露秘密的人或迹象"
+      ]
+    ],
+    "explanation": "a telltale sign 是泄露情况的迹象，telltale footprints 是暴露行踪的脚印。人物名词义常带告密、打小报告的负面语气。",
+    "usage": "a telltale sign；telltale marks；a telltale clue。",
+    "contrast": "telltale 标志常无意间透露信息，telling detail 强调细节说明力；两者可接近，但 telltale 更容易带藏不住的感觉。",
+    "examples": [
+      [
+        "Muddy footprints were a telltale sign that someone had been inside.",
+        "泥脚印暴露了有人进过屋的情况。"
+      ],
+      [
+        "She noticed a telltale tremor in his voice.",
+        "她注意到他声音里露出紧张的颤抖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/telltale#English"
+    ]
+  },
+  {
+    "word": "foretell",
+    "ipa": "英 /fɔːˈtel/；美 /fɔːrˈtel/",
+    "meaning": "预言；预示",
+    "sense": "事情还没来到眼前，先把将要发生的事说出来，或由迹象指向它。",
+    "split": "fore-（预先、在前）+ tell，未来内容是关键，不是站在人面前讲就叫 foretell。过去式、过去分词 foretold。",
+    "history": [
+      [
+        "古英语 tellan → 中古英语 tellen",
+        "计数、逐一列举；讲述、告知"
+      ],
+      [
+        "英语 tell",
+        "告诉；辨认；产生影响；流露信息"
+      ],
+      [
+        "fore- + tell → foretell",
+        "提前说 → 预言、预示"
+      ]
+    ],
+    "explanation": "foretell the future 是预言未来，clouds that foretell rain 是预示降雨的云。词不保证预言一定正确，也不只用于超自然叙事。",
+    "usage": "foretell the future；foretell an event；foretell what will happen。",
+    "contrast": "foretell 强调预先说或预示，retell 是再讲已经有的内容；fore- 与 re- 给出时间关系差别。",
+    "examples": [
+      [
+        "No one could foretell exactly what would happen.",
+        "没人能准确预言接下来会发生什么。"
+      ],
+      [
+        "The story begins with a dream that foretells a change.",
+        "故事从一个预示变化的梦开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foretell#English"
+    ]
+  },
+  {
+    "word": "retell",
+    "ipa": "/ˌriːˈtel/",
+    "meaning": "复述；重新讲述",
+    "sense": "故事已经讲过或写过，再换一个人、视角或语言讲一遍。",
+    "split": "re-（再次）+ tell；过去式、过去分词 retold，后半保持 tell → told 的变化。",
+    "history": [
+      [
+        "古英语 tellan → 中古英语 tellen",
+        "计数、逐一列举；讲述、告知"
+      ],
+      [
+        "英语 tell",
+        "告诉；辨认；产生影响；流露信息"
+      ],
+      [
+        "re- + tell → retell",
+        "再次讲述已有内容"
+      ]
+    ],
+    "explanation": "retell a story 是重讲故事，retell it in your own words 是用自己的话复述。可能改编，也可能尽量忠实复述，不必一字不差。",
+    "usage": "retell a story；retell in one’s own words；retell from another perspective。",
+    "contrast": "retell 用话再次讲，reread 再读，rewrite 重写；同样 re-，动作基词不同。",
+    "examples": [
+      [
+        "Retell the story in your own words.",
+        "用你自己的话复述故事。"
+      ],
+      [
+        "The film retells the legend from the sister’s point of view.",
+        "影片从姐姐的视角重新讲述这个传说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retell#English"
+    ]
+  },
+  {
+    "word": "open",
+    "ipa": "英 /ˈəʊpən/；美 /ˈoʊpən/",
+    "meaning": "打开；敞开的；营业的；公开、开放的",
+    "sense": "门没挡住，可以进出；机会、讨论和心态也能像一扇没关上的门。",
+    "split": "形容词接古英语 open，经中古英语延续；动词也有早期相应形式，不是今天 op + en。末尾 -en 在这个基本词里不当随手新加的使动后缀。",
+    "history": [
+      [
+        "古英语 open → 中古英语 open",
+        "敞开、未封闭"
+      ],
+      [
+        "英语 open",
+        "打开；开放；开始；愿意接纳的"
+      ]
+    ],
+    "explanation": "open the door 是开门，The shop is open 是店营业，be open to suggestions 是愿意听建议；an open question 是尚无定论的问题。",
+    "usage": "open the door；be open to；open a meeting；an open question。",
+    "contrast": "open 可是形容词，opened 是过去分词：The door is open 说状态，The door was opened by Sam 说打开动作。不能常规写 The shop is opening 表示今天一直营业的静态状态。",
+    "examples": [
+      [
+        "Please leave the window open.",
+        "请让窗户开着。"
+      ],
+      [
+        "We are open to new ideas.",
+        "我们愿意接纳新想法。"
+      ],
+      [
+        "The shop opens at nine.",
+        "商店九点开门。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/open#English"
+    ]
+  },
+  {
+    "word": "opening",
+    "ipa": "英 /ˈəʊpənɪŋ/；美 /ˈoʊpənɪŋ/",
+    "meaning": "开口；开始；空缺、机会；开场的",
+    "sense": "墙上开了一处能通过的口，事情的第一段、岗位的一处空位也像有了入口。",
+    "split": "open + -ing，古英语已有相应分词和 openung 等名词；从打开动作、开着的缺口延伸为开始、机会。",
+    "history": [
+      [
+        "古英语 open → 中古英语 open",
+        "敞开、未封闭"
+      ],
+      [
+        "古英语 openung 等 → 中古英语 opening → opening",
+        "打开、开口 → 开始、机会与空缺"
+      ]
+    ],
+    "explanation": "an opening in the fence 是篱笆缺口，opening hours 是营业时间，a job opening 是职位空缺；opening remarks 是开场讲话。",
+    "usage": "opening hours；a job opening；an opening in；opening remarks。",
+    "contrast": "opening 可能是开始或空缺，opener 常是打开工具或开场项目；句子要先看在说动作、机会还是执行物。",
+    "examples": [
+      [
+        "There is a small opening in the wall.",
+        "墙上有个小开口。"
+      ],
+      [
+        "The company has several job openings.",
+        "公司有几个职位空缺。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opening#English"
+    ]
+  },
+  {
+    "word": "opener",
+    "ipa": "英 /ˈəʊpənə/；美 /ˈoʊpənər/",
+    "meaning": "开瓶、开罐工具；开场节目、首场比赛",
+    "sense": "某物帮你打开容器；一段演出也可以先用某个节目把场子打开。",
+    "split": "open + -er，接古英语 openere 等。工具、执行者义与开始一系列活动的首个项目义并存，-er 不必都是人。",
+    "history": [
+      [
+        "古英语 open → 中古英语 open",
+        "敞开、未封闭"
+      ],
+      [
+        "英语 open",
+        "打开；开放；开始；愿意接纳的"
+      ],
+      [
+        "open + -er → opener",
+        "打开者、器具 → 开场项目"
+      ]
+    ],
+    "explanation": "a bottle opener 是开瓶器，a can opener 是开罐器，the season opener 是赛季首场比赛。for openers 是先来点、首先的非正式说法。",
+    "usage": "a bottle opener；a can opener；the season opener。",
+    "contrast": "opener 是工具或开场项目，opening 是动作、开口、空缺等；a bottle opening 可以是瓶口或开瓶过程，不是开瓶器的常规名称。",
+    "examples": [
+      [
+        "Do you have a bottle opener?",
+        "你有开瓶器吗？"
+      ],
+      [
+        "The team won its season opener.",
+        "球队赢得赛季首场比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opener#English"
+    ]
+  },
+  {
+    "word": "openly",
+    "ipa": "英 /ˈəʊpənli/；美 /ˈoʊpənli/",
+    "meaning": "公开地；坦率地",
+    "sense": "没有把态度藏在背后，而是让别人能看见、听到。",
+    "split": "open + -ly，接古英语 openlīce、中古英语 openli 等。不是“把门开着做一切”，而是从开放延伸为公开、坦诚。",
+    "history": [
+      [
+        "古英语 open → 中古英语 open",
+        "敞开、未封闭"
+      ],
+      [
+        "古英语 openlīce → 中古英语 openli → openly",
+        "公开、明白地；坦率地"
+      ]
+    ],
+    "explanation": "speak openly 是坦率说，openly oppose 是公开反对；openly available 可强调可公开取得。是否真实准确仍是另一问题。",
+    "usage": "speak openly；openly admit；openly oppose。",
+    "contrast": "openly 重不隐瞒、公开，loudly 重声音响；很大声也可能只是含糊其词，不等于坦率。",
+    "examples": [
+      [
+        "She spoke openly about the difficulties.",
+        "她坦率地谈了遇到的困难。"
+      ],
+      [
+        "Several members openly opposed the proposal.",
+        "几位成员公开反对提议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/openly#English"
+    ]
+  },
+  {
+    "word": "openness",
+    "ipa": "英 /ˈəʊpənnəs/；美 /ˈoʊpənnəs/",
+    "meaning": "开放；坦诚；愿意接纳",
+    "sense": "别人提出新想法时，不急着把门关上；谈自己的决定时，也不刻意藏起来。",
+    "split": "open + -ness，上接古英语 openness 等名词。交界处两个 n 保留，既可说敞开性质，也常说态度开放和透明坦诚。",
+    "history": [
+      [
+        "古英语 open → 中古英语 open",
+        "敞开、未封闭"
+      ],
+      [
+        "古英语 openness → openness",
+        "敞开、公开 → 接纳、坦诚的性质"
+      ]
+    ],
+    "explanation": "openness to change 是愿意接纳变化，openness in discussion 是讨论中的坦诚。不同对象的开放各有范围，不代表没有边界。",
+    "usage": "openness to ideas；a spirit of openness；openness and honesty。",
+    "contrast": "openness 是性质名词，opening 常是开口、开始；an opening to the garden 是通往花园的开口，不是态度愿接纳花园。",
+    "examples": [
+      [
+        "Her openness to new ideas impressed the team.",
+        "她愿意接纳新想法，让团队印象深刻。"
+      ],
+      [
+        "The discussion was marked by openness and respect.",
+        "讨论中大家坦诚而尊重彼此。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/openness#English"
+    ]
+  },
+  {
+    "word": "reopen",
+    "ipa": "英 /ˌriːˈəʊpən/；美 /ˌriːˈoʊpən/",
+    "meaning": "重新打开；恢复营业；重新讨论",
+    "sense": "先前关上、停下或已经作结的东西，又把它打开一次。",
+    "split": "re-（再次）+ open，可以恢复物理开口，也可以重新开启服务、讨论；过去式 reopened，末尾不是双写 n。",
+    "history": [
+      [
+        "古英语 open → 中古英语 open",
+        "敞开、未封闭"
+      ],
+      [
+        "英语 open",
+        "打开；开放；开始；愿意接纳的"
+      ],
+      [
+        "re- + open → reopen",
+        "再次打开、重启讨论或服务"
+      ]
+    ],
+    "explanation": "reopen a shop 是重新开业，reopen a discussion 是重新讨论；可以及物，也可说 The library reopened。",
+    "usage": "reopen a shop；reopen a discussion；reopen a case。",
+    "contrast": "reopen 再次开放不必所有细节回到从前；reset 重设某个状态，二者不能因都“重新”就互换。",
+    "examples": [
+      [
+        "The library will reopen after the repairs.",
+        "图书馆修缮后将重新开放。"
+      ],
+      [
+        "The new evidence reopened the debate.",
+        "新证据让辩论重新展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reopen#English"
+    ]
+  }
+]

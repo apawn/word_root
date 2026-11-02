@@ -1,0 +1,902 @@
+[
+  {
+    "word": "teases",
+    "ipa": "/ˈtiːzɪz/",
+    "meaning": "逗弄、取笑、吊胃口〔第三人称单数〕；逗弄者〔复数〕",
+    "sense": "他老拿我的习惯开玩笑，是 he teases me；预告只给一点线索，让人想继续看，也叫 teases。",
+    "split": "tease + -s，/z/ 后词尾读 /ɪz/；同形也可作名词 tease 的复数。",
+    "history": [
+      [
+        "古英语 tæsan → 中古英语 tesen → tease",
+        "拉扯、梳开羊毛、麻等纤维"
+      ],
+      [
+        "反复拉扯 → 招惹、逗弄；后来还可吊起兴趣",
+        "这是有记录的用法扩展；是否友善要看对象的感受与场景"
+      ],
+      [
+        "tease + -s → teases",
+        "他逗弄、招惹；也可说某物吊起兴趣"
+      ]
+    ],
+    "explanation": "teases someone about something 拿某事逗某人；teases a new release 提前透露一点新作品消息。",
+    "usage": "teases his sister；teases the audience with a glimpse。",
+    "contrast": "teases 可以是亲近的玩笑，也可能伤人；taunts 更常明确带挖苦、羞辱和挑衅的味道。",
+    "examples": [
+      [
+        "He teases me about my enormous collection of mugs.",
+        "他拿我那一大堆马克杯开玩笑。"
+      ],
+      [
+        "The short clip teases the next episode without revealing the ending.",
+        "短片吊起了观众对下一集的兴趣，却没有泄露结局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teases#English",
+      "https://www.etymonline.com/word/tease"
+    ]
+  },
+  {
+    "word": "teased",
+    "ipa": "/tiːzd/",
+    "meaning": "逗弄、取笑、吊胃口了；被梳蓬松的",
+    "sense": "有人拿你的小习惯打趣，是被 teased；头发朝发根倒梳、弄蓬松，也沿用 tease 的梳理纤维那一路。",
+    "split": "tease 去 e 加完整 -ed，读 /d/；梳理义与逗弄义共用同一过去形式。",
+    "history": [
+      [
+        "古英语 tæsan → 中古英语 tesen → tease",
+        "拉扯、梳开羊毛、麻等纤维"
+      ],
+      [
+        "反复拉扯 → 招惹、逗弄；后来还可吊起兴趣",
+        "这是有记录的用法扩展；是否友善要看对象的感受与场景"
+      ],
+      [
+        "tease → teased",
+        "逗弄、吊兴趣的过去形式；也可指倒梳过的头发"
+      ]
+    ],
+    "explanation": "teased about his accent 被拿口音取笑；teased hair 倒梳蓬松的头发。",
+    "usage": "gently teased someone；teased a few details of the story。",
+    "contrast": "teased out the answer 中 out 表示逐步理出来，不能理解成把答案嘲笑走；搭配会选择基础动词的不同用法。",
+    "examples": [
+      [
+        "They teased him about arriving with three umbrellas.",
+        "他们拿他带了三把伞来这件事打趣。"
+      ],
+      [
+        "The stylist teased her hair to give it more volume.",
+        "造型师把她的头发倒梳，使它看起来更蓬松。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teased#English",
+      "https://www.etymonline.com/word/tease"
+    ]
+  },
+  {
+    "word": "teasingly",
+    "ipa": "/ˈtiːzɪŋli/",
+    "meaning": "逗弄地；带打趣、吊人胃口的意味地",
+    "sense": "同样一句“你可真早”，带着笑、故意轻轻逗一下对方，可以说 teasingly。副词告诉你这句话的口气。",
+    "split": "teasing + -ly；内层 tease 去 e 加 -ing，外层把逗弄的性质用于说话、动作的方式。",
+    "history": [
+      [
+        "古英语 tæsan → 中古英语 tesen → tease",
+        "拉扯、梳开羊毛、麻等纤维"
+      ],
+      [
+        "反复拉扯 → 招惹、逗弄；后来还可吊起兴趣",
+        "这是有记录的用法扩展；是否友善要看对象的感受与场景"
+      ],
+      [
+        "teasing + -ly → teasingly",
+        "以打趣、逗弄或吊起期待的方式"
+      ]
+    ],
+    "explanation": "said teasingly 打趣地说；smiled teasingly 带逗弄意味地笑。",
+    "usage": "asked teasingly；held the gift teasingly out of reach。",
+    "contrast": "teasingly 常有玩笑感，但是否让人舒服仍要看语境；sarcastically 更明确带讥讽，不能直接互换所有句子。",
+    "examples": [
+      [
+        "“Another cup?” she asked teasingly.",
+        "“还要一杯？”她打趣地问。"
+      ],
+      [
+        "He smiled teasingly but refused to reveal the surprise.",
+        "他吊人胃口地笑了笑，却不肯透露那个惊喜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teasingly#English",
+      "https://www.etymonline.com/word/tease"
+    ]
+  },
+  {
+    "word": "teasers",
+    "ipa": "英 /ˈtiːzəz/；美 /ˈtiːzərz/",
+    "meaning": "预告片、预告信息；逗弄者；难题〔复数〕",
+    "sense": "先给一点，够你感兴趣，又没把全貌讲完，这些宣传片段叫 teasers；把人思路勾住的难题也能这样称呼。",
+    "split": "tease 去 e 加 -er → teaser，再加 -s。-er 早期可指梳理纤维的人，后来也命名招惹、吊起兴趣的东西。",
+    "history": [
+      [
+        "古英语 tæsan → 中古英语 tesen → tease",
+        "拉扯、梳开羊毛、麻等纤维"
+      ],
+      [
+        "反复拉扯 → 招惹、逗弄；后来还可吊起兴趣",
+        "这是有记录的用法扩展；是否友善要看对象的感受与场景"
+      ],
+      [
+        "tease → teaser → teasers",
+        "多个逗弄者、预告或让人动脑的难题"
+      ]
+    ],
+    "explanation": "movie teasers 电影先导预告；release a series of teasers 发布一系列预告；logic teasers 逻辑难题。",
+    "usage": "short teasers；teasers for the new series。",
+    "contrast": "teasers 通常着重少量信息吊起兴趣，完整 trailers 往往展示更多情节；实际宣传命名仍可能交叠。",
+    "examples": [
+      [
+        "The studio released three short teasers for the new film.",
+        "制片公司为新电影发布了三支简短的先导预告。"
+      ],
+      [
+        "The puzzle page contains a few difficult teasers.",
+        "谜题那一页里有几道挺难的题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/teasers#English",
+      "https://www.etymonline.com/word/teaser"
+    ]
+  },
+  {
+    "word": "taunt",
+    "ipa": "英 /tɔːnt/；美 /tɔnt/",
+    "meaning": "挖苦、嘲弄、挑衅；挖苦的话",
+    "sense": "故意戳人失败、短处，等着看他难堪或发火，这种带刺的招惹叫 taunt。它通常比朋友间随口逗一逗更敌对。",
+    "split": "早期有机锋回应、挖苦义，更早来源未定；法语试探、挑衅动词和以牙还牙短语等都有分析。名词挖苦的话大概由动词发展。",
+    "history": [
+      [
+        "早期英语 tant 等：机锋回应、挖苦",
+        "更早来源未定，有法语挑衅、试探动词或以牙还牙短语等不同分析"
+      ],
+      [
+        "taunt 动词 → taunt 名词及现代变化",
+        "用刺人的话挖苦、挑衅；名词指这种话"
+      ]
+    ],
+    "explanation": "taunt someone about a mistake 拿错误挖苦某人；taunt someone with insults 用辱骂挑衅。",
+    "usage": "ignore a taunt；taunt the opposing players。",
+    "contrast": "taunt 强调用话刺激、羞辱或挑衅；tease 可以很亲近、无恶意，但也可能让人受伤，不能单靠字词保证玩笑友善。",
+    "examples": [
+      [
+        "They tried to taunt him about his missed shot.",
+        "他们试着拿他投失的那一球挖苦他。"
+      ],
+      [
+        "She ignored the taunt and kept walking.",
+        "她没理会那句挖苦，继续往前走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taunt#English",
+      "https://www.etymonline.com/word/taunt"
+    ]
+  },
+  {
+    "word": "taunts",
+    "ipa": "英 /tɔːnts/；美 /tɔnts/",
+    "meaning": "挖苦的话〔复数〕；挖苦、挑衅〔第三人称单数〕",
+    "sense": "一句句冲人短处去的嘲弄，是 taunts；某人惯常这样招惹别人，动词也用 taunts。",
+    "split": "taunt + -s，/t/ 后读 /s/，形成 /nts/ 结尾；名词复数和动词三单同形。",
+    "history": [
+      [
+        "早期英语 tant 等：机锋回应、挖苦",
+        "更早来源未定，有法语挑衅、试探动词或以牙还牙短语等不同分析"
+      ],
+      [
+        "taunt 动词 → taunt 名词及现代变化",
+        "用刺人的话挖苦、挑衅；名词指这种话"
+      ],
+      [
+        "taunt + -s → taunts",
+        "多句嘲弄、挑衅的话；他挖苦、挑衅"
+      ]
+    ],
+    "explanation": "ignore the taunts 不理挖苦声；angry taunts 愤怒的嘲弄；taunts his opponents 挑衅对手。",
+    "usage": "a stream of taunts；respond to taunts。",
+    "contrast": "chants 是反复喊的口号，不一定带敌意；taunts 已经说明话里带着挖苦、挑衅。",
+    "examples": [
+      [
+        "She refused to respond to the crowd’s taunts.",
+        "她不肯回应人群的挖苦。"
+      ],
+      [
+        "He taunts his opponents whenever he scores.",
+        "他每次得分都会挑衅对手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taunts#English",
+      "https://www.etymonline.com/word/taunt"
+    ]
+  },
+  {
+    "word": "taunted",
+    "ipa": "英 /ˈtɔːntɪd/；美 /ˈtɔntɪd/",
+    "meaning": "挖苦、嘲弄、挑衅了；被挖苦的",
+    "sense": "有人把对方不想提的失败当武器，故意说出来刺他一下，过去发生了就是 taunted。",
+    "split": "taunt + 完整 -ed；/t/ 后词尾读 /ɪd/，多出一个音节。作被动时说明谁受到嘲弄。",
+    "history": [
+      [
+        "早期英语 tant 等：机锋回应、挖苦",
+        "更早来源未定，有法语挑衅、试探动词或以牙还牙短语等不同分析"
+      ],
+      [
+        "taunt 动词 → taunt 名词及现代变化",
+        "用刺人的话挖苦、挑衅；名词指这种话"
+      ],
+      [
+        "taunt + -ed → taunted",
+        "过去用言语挖苦、挑衅；或受到这种对待"
+      ]
+    ],
+    "explanation": "taunted about his clothes 因穿着被挖苦；taunted with cruel remarks 被刻薄话嘲弄。",
+    "usage": "was repeatedly taunted；taunted the goalkeeper。",
+    "contrast": "criticized 可以针对做法提出批评；taunted 更突出拿话刺激人、让人难堪，未必在认真讨论事情。",
+    "examples": [
+      [
+        "The spectators taunted the goalkeeper after the mistake.",
+        "失误后，观众对着守门员挖苦起哄。"
+      ],
+      [
+        "He was taunted about his old shoes.",
+        "有人拿他那双旧鞋嘲弄他。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taunted#English",
+      "https://www.etymonline.com/word/taunt"
+    ]
+  },
+  {
+    "word": "taunting",
+    "ipa": "英 /ˈtɔːntɪŋ/；美 /ˈtɔntɪŋ/",
+    "meaning": "挖苦、挑衅的；正在嘲弄",
+    "sense": "“你就这点本事？”这类话专门刺人、激人，口气就是 taunting。也可以用来命名这种嘲弄行为。",
+    "split": "taunt + -ing；动作形式可作形容词，描述带羞辱、挑衅意味的话语、声音。",
+    "history": [
+      [
+        "早期英语 tant 等：机锋回应、挖苦",
+        "更早来源未定，有法语挑衅、试探动词或以牙还牙短语等不同分析"
+      ],
+      [
+        "taunt 动词 → taunt 名词及现代变化",
+        "用刺人的话挖苦、挑衅；名词指这种话"
+      ],
+      [
+        "taunt + -ing → taunting",
+        "正在挖苦；也写嘲弄、挑衅的性质或行为"
+      ]
+    ],
+    "explanation": "a taunting voice 挑衅的声音；taunting remarks 挖苦的话；stop the taunting 制止嘲弄。",
+    "usage": "taunting the players；a taunting smile。",
+    "contrast": "teasing smile 可能只是亲昵地逗一下；taunting smile 更容易被理解为得意地看人出丑，带敌意。",
+    "examples": [
+      [
+        "A taunting voice called out from the back of the room.",
+        "房间后面传来一个挖苦的声音。"
+      ],
+      [
+        "The referee warned the player to stop taunting his opponent.",
+        "裁判警告那名球员停止挑衅对手。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taunting#English",
+      "https://www.etymonline.com/word/taunt"
+    ]
+  },
+  {
+    "word": "tauntingly",
+    "ipa": "英 /ˈtɔːntɪŋli/；美 /ˈtɔntɪŋli/",
+    "meaning": "挖苦地；带挑衅意味地",
+    "sense": "一句“怎么，不敢了？”若是专门激人、等着看对方丢脸，就是 tauntingly。它把言语背后的刺人态度写出来。",
+    "split": "taunting + -ly；内层 taunt + -ing 描述嘲弄、挑衅，外层修饰说话或动作方式。",
+    "history": [
+      [
+        "早期英语 tant 等：机锋回应、挖苦",
+        "更早来源未定，有法语挑衅、试探动词或以牙还牙短语等不同分析"
+      ],
+      [
+        "taunt 动词 → taunt 名词及现代变化",
+        "用刺人的话挖苦、挑衅；名词指这种话"
+      ],
+      [
+        "taunting + -ly → tauntingly",
+        "以挖苦、刺激对方的方式"
+      ]
+    ],
+    "explanation": "said tauntingly 挖苦地说；laughed tauntingly 挑衅地笑。",
+    "usage": "asked tauntingly；smiled tauntingly at his rival。",
+    "contrast": "tauntingly 针对的是刺激、羞辱别人；confidently 只说自信，不一定拿别人当靶子。",
+    "examples": [
+      [
+        "“Is that all?” he asked tauntingly.",
+        "“就这点本事？”他挑衅地问。"
+      ],
+      [
+        "She smiled tauntingly at the rival who had doubted her.",
+        "她朝那个曾怀疑她的对手挑衅地一笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tauntingly#English",
+      "https://www.etymonline.com/word/taunt"
+    ]
+  },
+  {
+    "word": "mocks",
+    "ipa": "英 /mɒks/；美 /mɑks/",
+    "meaning": "嘲笑、模仿取笑〔第三人称单数〕；模拟考试〔复数，英式口语〕",
+    "sense": "故意学别人的腔调、动作来取笑，是 mocks；英国学生说 mocks，也常是在说正式考试前的模拟考。后者接 mock“模拟的”这一用法。",
+    "split": "mock + -s，/k/ 后读 /s/；动词三单与名词复数同形。模拟考名词是 mock examination 等的省略，不是考试在嘲笑学生。",
+    "history": [
+      [
+        "古法语 mocquer 等 → 中古英语 mokken → mock",
+        "嘲弄、愚弄，远源有不同分析"
+      ],
+      [
+        "嘲讽性的模仿 → 仿效、模拟等用法",
+        "形容词 mock 可描述演练、仿制；不必都有嘲笑意图"
+      ],
+      [
+        "mock + -s → mocks",
+        "他取笑；模拟考试等名词的复数"
+      ]
+    ],
+    "explanation": "mocks someone’s accent 模仿、取笑口音；sit your mocks 参加模拟考；revise for the mocks 复习准备模拟考。",
+    "usage": "mocks the proposal；results from the mocks。",
+    "contrast": "mock exam 是为练习而模拟的考试，不是假成绩骗局；mock 可以从嘲讽模仿发展到中性的演练。",
+    "examples": [
+      [
+        "He mocks the villain’s dramatic voice.",
+        "他模仿反派夸张的腔调来逗笑。"
+      ],
+      [
+        "Our mocks start next Monday.",
+        "我们的模拟考试下周一开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mocks#English",
+      "https://www.etymonline.com/word/mock"
+    ]
+  },
+  {
+    "word": "mocked",
+    "ipa": "英 /mɒkt/；美 /mɑkt/",
+    "meaning": "嘲笑、模仿取笑了；被嘲弄的",
+    "sense": "别人把你的想法当笑话，或夸张模仿你的动作让你出丑，过去发生了就用 mocked。",
+    "split": "mock + 完整 -ed；/k/ 后词尾读 /t/。基础词借自法语嘲弄动词，更早来路未定。",
+    "history": [
+      [
+        "古法语 mocquer 等 → 中古英语 mokken → mock",
+        "嘲弄、愚弄，远源有不同分析"
+      ],
+      [
+        "嘲讽性的模仿 → 仿效、模拟等用法",
+        "形容词 mock 可描述演练、仿制；不必都有嘲笑意图"
+      ],
+      [
+        "mock + -ed → mocked",
+        "过去嘲弄；或受到嘲弄"
+      ]
+    ],
+    "explanation": "mocked for his accent 因口音被嘲笑；mocked the idea 嘲笑那个想法。",
+    "usage": "openly mocked；felt mocked by the remark。",
+    "contrast": "mimicked 说明模仿，不一定有轻蔑；mocked someone 更常把取笑、看不起一起带进去。",
+    "examples": [
+      [
+        "They mocked his suggestion before they understood it.",
+        "他们还没弄懂他的建议，就先嘲笑起来。"
+      ],
+      [
+        "She felt mocked when he repeated her words in a silly voice.",
+        "他用滑稽的声音重复她的话，让她觉得受到了嘲弄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mocked#English",
+      "https://www.etymonline.com/word/mock"
+    ]
+  },
+  {
+    "word": "mocking",
+    "ipa": "英 /ˈmɒkɪŋ/；美 /ˈmɑkɪŋ/",
+    "meaning": "嘲弄、讥笑的；正在取笑、模仿",
+    "sense": "笑声里带着“这也配”的轻蔑，叫 mocking laughter；不是所有笑都 mocking，关键是把对方放在被取笑的位置。",
+    "split": "mock + -ing；动词的动作形式也作形容词，描述嘲弄、模仿的性质。",
+    "history": [
+      [
+        "古法语 mocquer 等 → 中古英语 mokken → mock",
+        "嘲弄、愚弄，远源有不同分析"
+      ],
+      [
+        "嘲讽性的模仿 → 仿效、模拟等用法",
+        "形容词 mock 可描述演练、仿制；不必都有嘲笑意图"
+      ],
+      [
+        "mock + -ing → mocking",
+        "正在取笑；也形容带讥笑意味"
+      ]
+    ],
+    "explanation": "a mocking tone 嘲弄的口气；mocking laughter 讥笑声；mocking his gestures 模仿动作来取笑。",
+    "usage": "a mocking smile；stop mocking me。",
+    "contrast": "a mock interview 是模拟面试，a mocking interviewer 却是嘲弄人的面试官；mock 的中性模拟义不能照搬到 mocking 的常用评价义。",
+    "examples": [
+      [
+        "There was a mocking note in his voice.",
+        "他的声音里带着嘲弄。"
+      ],
+      [
+        "She asked them to stop mocking her pronunciation.",
+        "她让他们别再取笑她的发音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mocking#English",
+      "https://www.etymonline.com/word/mock"
+    ]
+  },
+  {
+    "word": "mockingly",
+    "ipa": "英 /ˈmɒkɪŋli/；美 /ˈmɑkɪŋli/",
+    "meaning": "嘲弄地；带讥笑意味地",
+    "sense": "同样是重复别人的一句话，拖长腔调、等着看人难堪，就是 repeating it mockingly。它描写动作中的嘲笑态度。",
+    "split": "mocking + 副词 -ly；内层 mock + -ing，外层描述说、笑、模仿时的方式。",
+    "history": [
+      [
+        "古法语 mocquer 等 → 中古英语 mokken → mock",
+        "嘲弄、愚弄，远源有不同分析"
+      ],
+      [
+        "嘲讽性的模仿 → 仿效、模拟等用法",
+        "形容词 mock 可描述演练、仿制；不必都有嘲笑意图"
+      ],
+      [
+        "mocking + -ly → mockingly",
+        "带着嘲笑、轻蔑的态度做事"
+      ]
+    ],
+    "explanation": "laughed mockingly 讥笑；repeated mockingly 嘲弄地重复；bowed mockingly 故意作揖来取笑。",
+    "usage": "smiled mockingly；spoke mockingly of the plan。",
+    "contrast": "jokingly 可以只是开玩笑，mockingly 更突出把别人或某事当笑话的态度。",
+    "examples": [
+      [
+        "He repeated the excuse mockingly.",
+        "他带着嘲弄重复了一遍那个借口。"
+      ],
+      [
+        "“What a genius,” she said mockingly.",
+        "“可真是个天才。”她讥讽地说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mockingly#English",
+      "https://www.etymonline.com/word/mock"
+    ]
+  },
+  {
+    "word": "mocker",
+    "ipa": "英 /ˈmɒkə/；美 /ˈmɑkər/",
+    "meaning": "嘲弄者；模仿取笑别人的人",
+    "sense": "不是只说“有人笑了”，而是把那种拿别人当笑话的人点出来：a mocker。",
+    "split": "mock + -er，-er 命名做这种事的人；基础词接法语 mocquer 等，更早来源未定。",
+    "history": [
+      [
+        "古法语 mocquer 等 → 中古英语 mokken → mock",
+        "嘲弄、愚弄，远源有不同分析"
+      ],
+      [
+        "嘲讽性的模仿 → 仿效、模拟等用法",
+        "形容词 mock 可描述演练、仿制；不必都有嘲笑意图"
+      ],
+      [
+        "mock + -er → mocker",
+        "实施嘲弄、模仿取笑的人"
+      ]
+    ],
+    "explanation": "a cruel mocker 刻薄的嘲弄者；ignore the mocker 不理那个取笑人的人。",
+    "usage": "a habitual mocker；turn from mocker to supporter。",
+    "contrast": "a critic 可以提出认真、具体的批评；a mocker 强调拿人取笑，不表示他已经给出有用意见。",
+    "examples": [
+      [
+        "The loudest mocker had never tried the task himself.",
+        "笑得最起劲的那个人自己从来没试过这项任务。"
+      ],
+      [
+        "She refused to let one mocker silence her.",
+        "她不肯让一个嘲弄她的人把她吓得不敢开口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mocker#English",
+      "https://www.etymonline.com/word/mock"
+    ]
+  },
+  {
+    "word": "mockers",
+    "ipa": "英 /ˈmɒkəz/；美 /ˈmɑkərz/",
+    "meaning": "嘲弄者〔复数〕",
+    "sense": "一群人围着取笑别人的努力，可以称为 mockers。-er 先把动作落实到做事的人，-s 再说明不止一个。",
+    "split": "mock + -er → mocker，再加复数 -s，读 /z/；这里讲普通的嘲弄者复数。",
+    "history": [
+      [
+        "古法语 mocquer 等 → 中古英语 mokken → mock",
+        "嘲弄、愚弄，远源有不同分析"
+      ],
+      [
+        "嘲讽性的模仿 → 仿效、模拟等用法",
+        "形容词 mock 可描述演练、仿制；不必都有嘲笑意图"
+      ],
+      [
+        "mock → mocker → mockers",
+        "从嘲弄动作到多个嘲弄者"
+      ]
+    ],
+    "explanation": "ignore the mockers 不理嘲弄者；prove the mockers wrong 用结果证明那些取笑自己的人错了。",
+    "usage": "a crowd of mockers；former mockers became supporters。",
+    "contrast": "mockers 是取笑人的人；supporters 是支持者。是否同一群人后来改变态度，要看上下文，而不是词形自带历史。",
+    "examples": [
+      [
+        "The mockers fell silent when the experiment worked.",
+        "实验成功后，那些嘲弄者不说话了。"
+      ],
+      [
+        "She kept practising despite the mockers.",
+        "尽管有人取笑，她还是一直练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mockers#English",
+      "https://www.etymonline.com/word/mock"
+    ]
+  },
+  {
+    "word": "mockeries",
+    "ipa": "英 /ˈmɒkəriz/；美 /ˈmɑkəriz/",
+    "meaning": "嘲弄行为；有名无实、可笑的仿制品或做法〔复数〕",
+    "sense": "东西挂着“公正”的招牌，做出来却把公正变成笑话；这些空有样子、反而损害原意的做法可以叫 mockeries。",
+    "split": "mockery 变 y 为 i 加 -es。现代可联系 mock + -ery 理解，但 mockery 有法语 mocquerie 等名词独立借入的历史，并非一定晚于英语 mock 才造出。",
+    "history": [
+      [
+        "法语 mocquerie 等 → 英语 mockery",
+        "嘲弄、作假、虚有其表等意义，属于 mock 的借词词族"
+      ],
+      [
+        "mockery → mockeries",
+        "多个嘲弄行为，或多个空有形式、使原意成笑话的东西"
+      ]
+    ],
+    "explanation": "mockeries of justice 对公正的践踏、把公正当笑话的做法；crude mockeries 粗劣可笑的仿制。",
+    "usage": "empty mockeries of reform；mockeries of the original。",
+    "contrast": "copies 中性说复制品，mockeries 通常强烈贬低：不仅不像样，还让本来宣称的价值变得可笑。抽象嘲弄一般仍用不可数 mockery。",
+    "examples": [
+      [
+        "The sham hearings were mockeries of justice.",
+        "那些走过场的听证会简直把公正当成了笑话。"
+      ],
+      [
+        "The cheap decorations were crude mockeries of the originals.",
+        "这些廉价装饰品是原作粗劣得可笑的仿制品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mockeries#English",
+      "https://www.etymonline.com/word/mockery"
+    ]
+  },
+  {
+    "word": "derides",
+    "ipa": "/dɪˈraɪdz/",
+    "meaning": "嘲弄、轻蔑地取笑〔第三人称单数〕",
+    "sense": "把别人的建议当成不值一提的笑话，口气里带“这也值得认真？”的轻蔑，是 derides。它比普通 laugh at 更正式，也更明确带贬低。",
+    "split": "deride + -s，读 /z/；基础词接拉丁 de- + ridere 笑，不把 de- 机械译成停止。",
+    "history": [
+      [
+        "拉丁 de- + ridere 笑 → deridere",
+        "带贬低意味地笑、嘲弄；不是把笑停止"
+      ],
+      [
+        "经法语或直接拉丁借入 → 英语 deride",
+        "以轻蔑、嘲笑的态度对待"
+      ],
+      [
+        "deride + -s → derides",
+        "他以轻蔑的态度嘲弄"
+      ]
+    ],
+    "explanation": "derides the idea 嘲笑那个想法；derides something as pointless 嘲讽某事毫无意义。",
+    "usage": "openly derides；derides anyone who disagrees。",
+    "contrast": "criticizes 可以理性指出问题；derides 强调轻蔑地笑、挖苦，未必提供论据。",
+    "examples": [
+      [
+        "He derides any proposal that comes from a newcomer.",
+        "只要是新人提出的建议，他都会嘲弄。"
+      ],
+      [
+        "The article derides the plan as an expensive fantasy.",
+        "那篇文章嘲讽这个计划是一场耗资巨大的幻想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/derides#English",
+      "https://www.etymonline.com/word/deride"
+    ]
+  },
+  {
+    "word": "derided",
+    "ipa": "/dɪˈraɪdɪd/",
+    "meaning": "嘲弄、讥笑了；被嘲弄的",
+    "sense": "一开始所有人都拿这个想法当笑话，说它根本不值得试，那个想法就是 widely derided。",
+    "split": "deride 去 e 加完整 -ed；/d/ 后读 /ɪd/。过去形式也常用于被动，表示受轻蔑嘲弄。",
+    "history": [
+      [
+        "拉丁 de- + ridere 笑 → deridere",
+        "带贬低意味地笑、嘲弄；不是把笑停止"
+      ],
+      [
+        "经法语或直接拉丁借入 → 英语 deride",
+        "以轻蔑、嘲笑的态度对待"
+      ],
+      [
+        "deride → derided",
+        "过去嘲弄；或描述被人看轻、取笑"
+      ]
+    ],
+    "explanation": "widely derided 被广泛嘲讽；derided as naïve 被讥笑为天真。",
+    "usage": "once derided 曾被嘲笑；derided by critics 遭批评者嘲讽。",
+    "contrast": "derided 是被取笑、轻视，disproved 才是被证据证伪；一个想法遭嘲笑不等于已经证明它错了。",
+    "examples": [
+      [
+        "The idea was derided as impossible when it first appeared.",
+        "这个想法刚提出时，被人讥笑为不可能实现。"
+      ],
+      [
+        "She derided the excuse as absurd.",
+        "她嘲讽这个借口荒唐可笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/derided#English",
+      "https://www.etymonline.com/word/deride"
+    ]
+  },
+  {
+    "word": "deriding",
+    "ipa": "/dɪˈraɪdɪŋ/",
+    "meaning": "正在嘲弄、轻蔑地取笑",
+    "sense": "别人还没把话说完，他就带着轻蔑笑起来；用 deriding 写的是这种正在把人或想法当笑话的行为。",
+    "split": "deride 去 e 加 -ing；规则动作形式，承拉丁 deridere 的轻蔑取笑义。",
+    "history": [
+      [
+        "拉丁 de- + ridere 笑 → deridere",
+        "带贬低意味地笑、嘲弄；不是把笑停止"
+      ],
+      [
+        "经法语或直接拉丁借入 → 英语 deride",
+        "以轻蔑、嘲笑的态度对待"
+      ],
+      [
+        "deride → deriding",
+        "正在以嘲弄态度对待；也可名词化指这种行为"
+      ]
+    ],
+    "explanation": "deriding the proposal 嘲弄建议；deriding someone for a mistake 因一个错误嘲讽某人。",
+    "usage": "stop deriding；rather than deriding the effort。",
+    "contrast": "deriding 不是 disagreeing 的必然后果；可以持不同意见而认真回应，不带轻蔑。",
+    "examples": [
+      [
+        "They spent the meeting deriding each other’s ideas.",
+        "他们把开会的时间都花在互相嘲弄想法上。"
+      ],
+      [
+        "Instead of deriding the attempt, explain how it could improve.",
+        "别光嘲笑这次尝试，说说它可以怎样改进。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deriding#English",
+      "https://www.etymonline.com/word/deride"
+    ]
+  },
+  {
+    "word": "jeer",
+    "ipa": "英 /dʒɪə/；美 /dʒɪr/",
+    "meaning": "嘲笑、挖苦、起哄；嘲弄的话声",
+    "sense": "有人一上场，观众就带着看不起的口气喊话、发笑，这叫 jeer。它很适合写有声音的嘲弄，尤其一群人起哄。",
+    "split": "早期英语 gyr 等到 jeer，远源未定；荷兰语大笑、嘲弄等材料是分析之一，不能把它确定写成 cheer 的反义变形。名词由动词发展。",
+    "history": [
+      [
+        "早期英语 gyr 等 → jeer",
+        "远源未定，荷兰语等比较材料和 cheer 反讽变形说均不能当定论"
+      ],
+      [
+        "jeer 动词 → 名词及规则变化",
+        "带嘲弄、轻蔑地喊叫、发笑；名词指挖苦、起哄的话声"
+      ]
+    ],
+    "explanation": "jeer at someone 对某人嘲笑起哄；a loud jeer 一声响亮的嘲弄。",
+    "usage": "jeer from the crowd；ignore the jeer。",
+    "contrast": "cheer 是欢呼、鼓劲，jeer 是嘲弄起哄；这个对比方便记态度，不能因此认定两词有确定的派生关系。",
+    "examples": [
+      [
+        "Some spectators began to jeer at the referee.",
+        "一些观众开始对裁判挖苦起哄。"
+      ],
+      [
+        "A loud jeer came from the back of the crowd.",
+        "人群后面传来一声响亮的嘲弄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jeer#English",
+      "https://www.etymonline.com/word/jeer"
+    ]
+  },
+  {
+    "word": "jeers",
+    "ipa": "英 /dʒɪəz/；美 /dʒɪrz/",
+    "meaning": "嘲弄、起哄声〔复数〕；嘲笑起哄〔第三人称单数〕",
+    "sense": "台下不是鼓掌，而是一阵阵挖苦、讥笑的声音，这些是 jeers。与 cheers 放在同一句里时，一个是喝倒彩，一个是欢呼。",
+    "split": "jeer + -s，读 /z/；名词复数和动词三单同形，基础词远源未定。",
+    "history": [
+      [
+        "早期英语 gyr 等 → jeer",
+        "远源未定，荷兰语等比较材料和 cheer 反讽变形说均不能当定论"
+      ],
+      [
+        "jeer 动词 → 名词及规则变化",
+        "带嘲弄、轻蔑地喊叫、发笑；名词指挖苦、起哄的话声"
+      ],
+      [
+        "jeer + -s → jeers",
+        "多声嘲弄；他嘲笑起哄"
+      ]
+    ],
+    "explanation": "cheers and jeers 欢呼与嘲弄声；a chorus of jeers 一片起哄声。",
+    "usage": "jeers from the crowd；jeers at every mistake。",
+    "contrast": "boos 常直接指“嘘”的喝倒彩声，jeers 可以含挖苦话、讥笑和其他嘲弄声，范围稍广。",
+    "examples": [
+      [
+        "His answer was met with jeers from the crowd.",
+        "他的回答招来人群的阵阵嘲弄。"
+      ],
+      [
+        "One spectator jeers whenever the opposing team scores.",
+        "对方球队一得分，就有个观众挖苦起哄。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jeers#English",
+      "https://www.etymonline.com/word/jeer"
+    ]
+  },
+  {
+    "word": "jeered",
+    "ipa": "英 /dʒɪəd/；美 /dʒɪrd/",
+    "meaning": "嘲笑、起哄、挖苦了",
+    "sense": "人群对着某人喊出嘲弄的话，过去发生了就是 jeered；通常写出了不友好的声音反应。",
+    "split": "jeer + 完整 -ed，词尾读 /d/；不另造一个带贬低义的 jeer 后缀。",
+    "history": [
+      [
+        "早期英语 gyr 等 → jeer",
+        "远源未定，荷兰语等比较材料和 cheer 反讽变形说均不能当定论"
+      ],
+      [
+        "jeer 动词 → 名词及规则变化",
+        "带嘲弄、轻蔑地喊叫、发笑；名词指挖苦、起哄的话声"
+      ],
+      [
+        "jeer + -ed → jeered",
+        "过去带嘲弄意味地喊、笑"
+      ]
+    ],
+    "explanation": "jeered at the speaker 对演讲者起哄；jeered by spectators 被观众嘲弄。",
+    "usage": "openly jeered；jeered from the sidelines。",
+    "contrast": "jeered 和 cheered 拼写接近，反应方向却相反；前者嘲弄，后者通常欢呼或鼓励，读句子时注意主场、客场等背景。",
+    "examples": [
+      [
+        "The crowd jeered when the player missed an easy shot.",
+        "球员错失一个轻松的投篮机会，人群挖苦起哄。"
+      ],
+      [
+        "They jeered at his costume, but he kept smiling.",
+        "他们嘲笑他的装扮，他却仍然笑着。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jeered#English",
+      "https://www.etymonline.com/word/jeer"
+    ]
+  },
+  {
+    "word": "jeering",
+    "ipa": "英 /ˈdʒɪərɪŋ/；美 /ˈdʒɪrɪŋ/",
+    "meaning": "嘲弄、起哄；带嘲弄意味的",
+    "sense": "一阵起哄声裹着挖苦、讥笑传过来，是 jeering；这个词既能写行为，也能形容声音、人群。",
+    "split": "jeer + -ing；动作形式作名词描述嘲弄行为，作形容词描述带嘲弄意味。",
+    "history": [
+      [
+        "早期英语 gyr 等 → jeer",
+        "远源未定，荷兰语等比较材料和 cheer 反讽变形说均不能当定论"
+      ],
+      [
+        "jeer 动词 → 名词及规则变化",
+        "带嘲弄、轻蔑地喊叫、发笑；名词指挖苦、起哄的话声"
+      ],
+      [
+        "jeer + -ing → jeering",
+        "正在嘲弄；嘲弄行为或声音性质"
+      ]
+    ],
+    "explanation": "a jeering crowd 起哄的人群；loud jeering 响亮的嘲弄声；jeering at the speaker 对演讲者起哄。",
+    "usage": "a jeering voice；stop the jeering。",
+    "contrast": "jeering crowd 带敌对嘲弄，noisy crowd 只说吵；人群吵闹也可能是在热烈欢迎。",
+    "examples": [
+      [
+        "She walked past the jeering crowd without looking down.",
+        "她走过起哄的人群，没有低下头。"
+      ],
+      [
+        "The jeering stopped when he began to sing.",
+        "他开始唱歌时，起哄声停了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jeering#English",
+      "https://www.etymonline.com/word/jeer"
+    ]
+  },
+  {
+    "word": "jeeringly",
+    "ipa": "英 /ˈdʒɪərɪŋli/；美 /ˈdʒɪrɪŋli/",
+    "meaning": "嘲弄地；带挖苦起哄的口气地",
+    "sense": "一句话特意朝别人喊过去，带着看笑话的口气，叫 jeeringly。比一般 said 多写出声音里的轻蔑。",
+    "split": "jeering + -ly；内层 jeer + -ing，外层把嘲弄性质用于说话、笑的方式。",
+    "history": [
+      [
+        "早期英语 gyr 等 → jeer",
+        "远源未定，荷兰语等比较材料和 cheer 反讽变形说均不能当定论"
+      ],
+      [
+        "jeer 动词 → 名词及规则变化",
+        "带嘲弄、轻蔑地喊叫、发笑；名词指挖苦、起哄的话声"
+      ],
+      [
+        "jeering + -ly → jeeringly",
+        "以带挖苦、起哄的态度发声"
+      ]
+    ],
+    "explanation": "shouted jeeringly 挖苦起哄地喊；laughed jeeringly 嘲弄地笑。",
+    "usage": "called out jeeringly；spoke jeeringly。",
+    "contrast": "jeeringly 常用于喊话、讥笑的口气；mockingly 范围更广，还可以修饰故意模仿的动作，例如 mockingly bowed。",
+    "examples": [
+      [
+        "“Try again!” someone shouted jeeringly from the back.",
+        "“再试一次啊！”后面有人挖苦起哄地喊。"
+      ],
+      [
+        "They laughed jeeringly as he searched for an answer.",
+        "他苦苦想答案时，他们发出嘲弄的笑声。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jeeringly#English",
+      "https://www.etymonline.com/word/jeer"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "B2783",
+    "meaning": "通路、轨迹；方法与探路、牵船用途",
+    "core": "PATH：从此处到彼处的一条路线",
+    "image": "path → pathway、footpath；pathfinder 人物、towpath 岸路；warpath 已有比喻精讲复用。",
+    "intro": "近源古英语明确，更远借入说有争议。小路、风暴路线和做事途径按路线画面联系，不见 path 就当供人走的铺装路。",
+    "forms": "path + way/finder；foot/tow/war + path；finder 为 find + -er。\n\n古英语 paeth 本族旧词，更远是否借入仍有争论；复数 th 有变体。\n\n数字路径借找位置的路线，不表示磁盘里真有供人走的道路。",
+    "branches": [
+      [
+        "路线与步行通道",
+        "path · pathway · footpath"
+      ],
+      [
+        "开路人物和用途",
+        "pathfinder · towpath · warpath"
+      ],
+      [
+        "path → paths：一条条路和实现目标的途径",
+        "path · paths"
+      ],
+      [
+        "path 的数字定位路线及复数",
+        "path · filepath · filepaths"
+      ]
+    ],
+    "contrasts": "path/road/way 范围不同；towpath 历史牵船用途；pathfinder 人物，file path 可数字位置。",
+    "practice": "The pathfinder followed the towpath beside the canal.\n\n探路者沿运河旁的纤道前进。",
+    "words": [
+      "path",
+      "pathway",
+      "footpath",
+      "pathfinder",
+      "towpath",
+      "warpath",
+      "paths",
+      "filepath",
+      "filepaths"
+    ],
+    "exclude": {
+      "whale-path": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "multipath": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3837",
+    "meaning": "外框、支撑结构；按框架构造和表述",
+    "core": "FRAME：把东西组织在一套边界、骨架之中",
+    "image": "frame → framer、frameless、reframe；framework、mainframe、airframe、doorframe 按组织系统、计算机、机体、门框复习。",
+    "intro": "词源较早做成、促进的动词与结构名词有交汇，近义变化不编成唯一故事。表述与构陷义看实际对象；reframe 不等于改变事实。",
+    "forms": "frame + -er/-less；re- + frame；frame + work；main/air/door + frame。\n\nfurnish 经法语提供、装备词借入，较早接日耳曼促进、做成材料，与 frame 的动词历史同族；词形已变化，不是英语 frame 直接加后缀。\n\n旧英语促进、构造材料形成多支，不把所有名词近源压成单一路线。\n\n古英语做成、推进材料接构建义，现代去 e 加完整 ed。",
+    "branches": [
+      [
+        "基本框与人物、性质、再框定",
+        "frame · framer · frameless · reframe"
+      ],
+      [
+        "结构系统与各类骨架",
+        "framework · mainframe · airframe · doorframe"
+      ],
+      [
+        "做成、备齐的历史词族：furnish",
+        "frame · furnish · furnished · unfurnished · furnishings"
+      ],
+      [
+        "frame → frames：支撑框架与叙述的框架",
+        "frame · frames"
+      ],
+      [
+        "frame → framed：搭出框架、限定看法",
+        "frame · framed"
+      ]
+    ],
+    "contrasts": "framer 人物；frameless 无外框非完全无支撑；reframe 与 rewrite 不完全相同；frame someone 构陷不按装相框直译。",
+    "practice": "The framer suggested a simpler frame for the picture.\n\n装裱师建议给画配一个更简洁的框。",
+    "words": [
+      "frame",
+      "framer",
+      "frameless",
+      "reframe",
+      "framework",
+      "mainframe",
+      "airframe",
+      "doorframe",
+      "furnish",
+      "furnished",
+      "unfurnished",
+      "furnishings",
+      "frames",
+      "framed"
+    ],
+    "exclude": {}
+  }
+]

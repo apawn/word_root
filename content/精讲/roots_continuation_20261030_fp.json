@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B4557",
+    "meaning": "练过与没练过某项技能",
+    "core": "TRAINED：有训练积累；UNTRAINED：未受相应训练",
+    "image": "trained → untrained，否定的是特定训练状态，而不是人的全部能力。",
+    "intro": "to the untrained eye 是从外行观察角度说话，不必真把眼睛单独看成受训者。",
+    "forms": "train 训练动词 → trained；un- + trained → untrained。",
+    "branches": [
+      [
+        "训练状态与否定",
+        "trained · untrained"
+      ]
+    ],
+    "contrasts": "untrained/unskilled 未受训练与缺技能；未受某项训练不等于毫无经验。",
+    "practice": "A trained observer may notice details that an untrained visitor misses.\n\n受过训练的观察者可能注意到未经训练的访客漏掉的细节。",
+    "words": [
+      "trained",
+      "untrained"
+    ],
+    "exclude": {
+      "law-trained": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3422",
+    "meaning": "站在受接待、来访的一方",
+    "core": "GUEST：来到主人或机构这里的人",
+    "image": "guest → guesthouse 接待场所；houseguest 在别人家中住宿的客人。旅馆、节目和账户也能用访客身份。",
+    "intro": "host 与 guest 更远同属主客接待词族，不代表现代角色相同。guest account 的权限也不能只由词名推出。",
+    "forms": "ġiest、gestr 等 → gest → guest；guest + house → guesthouse；house + guest → houseguest。\n\n古英语本族与古诺尔斯同族形式交汇，现代也可指酒店住客。",
+    "branches": [
+      [
+        "来访与嘉宾基础",
+        "guest"
+      ],
+      [
+        "住宿场所与住家客人",
+        "guesthouse · houseguest"
+      ],
+      [
+        "guest → guests：来访者与被招待者",
+        "guest · guests"
+      ]
+    ],
+    "contrasts": "guest/host 受接待与主人；guesthouse/houseguest 前者房、后者人；guest/customer 接待身份与交易身份。",
+    "practice": "The guesthouse welcomed a guest who had previously been our houseguest.\n\n旅馆迎来了一位客人，他以前也曾在我们家住过。",
+    "words": [
+      "guest",
+      "guesthouse",
+      "houseguest",
+      "guests"
+    ],
+    "exclude": {
+      "guest-friendly": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "guest-friendship": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2753",
+    "meaning": "呼吸动作再分过程、喘息和透气能力",
+    "core": "BREATHE：动词 /briːð/ 这一条派生保留读音",
+    "image": "breathe → breathing、breather、breathable。breather 可休息或装置，breathable 可空气或衣料。",
+    "intro": "三个常用扩展都沿长元音、浊 th。与 breathless、breathy 的短元音、清 th 放在一起读，词形和发音就容易对上。",
+    "forms": "breath 词族 → breathe；去末尾 e + -ing/-er/-able → breathing、breather、breathable。",
+    "branches": [
+      [
+        "动作与过程",
+        "breathe · breathing"
+      ],
+      [
+        "主体、间歇和能力",
+        "breather · breathable"
+      ]
+    ],
+    "contrasts": "breathing/breath 过程与一口气；breather 休息或通气装置；breathable air/fabric 可呼吸与透气。",
+    "practice": "After a short breather, her breathing settled into a steady rhythm.\n\n歇了一小会儿后，她的呼吸恢复了平稳节奏。",
+    "words": [
+      "breathe",
+      "breathing",
+      "breather",
+      "breathable"
+    ],
+    "exclude": {}
+  }
+]

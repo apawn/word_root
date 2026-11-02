@@ -1,0 +1,144 @@
+[
+  {
+    "id": "B4201",
+    "meaning": "像带子系住：人、材料、责任",
+    "core": "BOND：连接，也可形成约束",
+    "image": "bond 感情、化学、黏合、义务文书；bondsman 担保人与旧身份义分开。",
+    "intro": "旧农户、役属身份词有另一条居住来源，不把所有义都从绳子捆奴隶一线编出。担保人和债券持有人也不同。",
+    "forms": "旧绑定词族 → band、bond；关系、文书义扩展；bond + -s- + man → bondsman 保证人；另有旧身份路径。\n\nbond 的系住、约束线发展出关系、化学连接和有约束力的债务凭证；复数 bonds 各按领域判断。\n\nbond 作为系住之物与 band、bind 相关，再形成动词。现代完整 -ing，黏合材料与建立感情联系是不同对象上的常用义。",
+    "branches": [
+      [
+        "连接与约束基础",
+        "bond"
+      ],
+      [
+        "保证人与旧身份词",
+        "bondsman"
+      ],
+      [
+        "bonds：联系、化学键与债券",
+        "bond · bonds"
+      ],
+      [
+        "bond 系住、联结 + -ing → bonding",
+        "bonding"
+      ]
+    ],
+    "contrasts": "bond/share 债券与股份；bondsman/bondholder 保证人与债券持有人；连接义与旧役属身份分历史。",
+    "practice": "The film follows a bondsman whose family bonds are being tested.\n\n电影讲述一位保证人的家庭纽带受到考验的故事。",
+    "words": [
+      "bond",
+      "bondsman",
+      "bonds",
+      "bonding"
+    ],
+    "exclude": {
+      "fluid-bonded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3485",
+    "meaning": "里面没内容、地方没人，或把它变空",
+    "core": "EMPTY：看的是空着的状态",
+    "image": "empty 状态与清空动作一起学；emptier、emptiest 常见于程度比较。",
+    "intro": "绝对空和日常“比刚才更空”不矛盾，后者按剩余内容、占用程度来比。empty promises 则说承诺没有实质。",
+    "forms": "ǣmettig → emty 等 → empty；p 是历史插入；empty 可转动词，y 变 i 对应 emptied、emptier 等。",
+    "branches": [
+      [
+        "基础状态与动作",
+        "empty"
+      ]
+    ],
+    "contrasts": "empty/vacant 内容空与位置空；emptier 比较级与较冷门倒空者名词辨语境；empty promises 空头承诺。",
+    "practice": "She emptied the bottle and put the empty bottle aside.\n\n她把瓶子倒空，把空瓶放到一旁。",
+    "words": [
+      "empty"
+    ],
+    "exclude": {
+      "non-empty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "empty-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "emptier": "日常比较级 emptier 已解释；本词条独立名词“倒空者、设备”较冷门，暂不单列。",
+      "empty-hoofed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3877",
+    "meaning": "地块、图示与事件安排，后来分出几路",
+    "core": "PLOT：画在图上，或把事情排成线",
+    "image": "plot → plotline、subplot 接故事；plotter 可作图也可密谋，依据 plot 所选义分。",
+    "intro": "现代可以借“安排事件”连接含义，但历史密谋义还受相近词影响，不能把理解图像当成所有义的唯一起源。",
+    "forms": "旧 plot 地块 → 图示、安排等义；complot 等影响密谋义；plot + line/-er；sub- + plot。\n\nplot 较早是小地块，远源不定；平面图义连接绘图，计划、阴谋义可能受法语 complot 影响，后来有叙事情节。各分支不硬排成单一路线。",
+    "branches": [
+      [
+        "多义基础",
+        "plot"
+      ],
+      [
+        "故事主次线",
+        "plotline · subplot"
+      ],
+      [
+        "执行主体或工具",
+        "plotter"
+      ],
+      [
+        "plot → plots：地块、图与情节",
+        "plots"
+      ]
+    ],
+    "contrasts": "plot/theme 事件与主题；plotline/subplot 发展线与副情节；plotter 人物工具需选对动词义。",
+    "practice": "The novelist plotted a new plotline around a secret group of plotters.\n\n小说家围绕一伙秘密密谋者，构思了一条新情节线。",
+    "words": [
+      "plot",
+      "plotline",
+      "subplot",
+      "plotter",
+      "plots"
+    ],
+    "exclude": {
+      "by-plot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4141",
+    "meaning": "挪过去、换一班，重心和状态改变",
+    "core": "SHIFT：从这里转到那里",
+    "image": "shift → shifter、shifty；redshift 借光谱向红端移的专门含义。",
+    "intro": "夜班、换挡、态度转变分别选时间、机械、心理的移动。shifty 则接躲闪、不可靠评价，不等于赞灵活。",
+    "forms": "sċiftan 分配安排 → shift 移换；shift + -er/-y；red + shift → redshift。\n\n古英语分配、安排词发展更换、移动，再有轮班名词。\n\n古英语分配、安排动词，现代过去式 /t/ 后读 /ɪd/，ing 直接加。",
+    "branches": [
+      [
+        "移换与班次基础",
+        "shift"
+      ],
+      [
+        "操作工具与人物印象",
+        "shifter · shifty"
+      ],
+      [
+        "光谱专门组合",
+        "redshift"
+      ],
+      [
+        "shift → shifts：挪过去、换一班",
+        "shift · shifts"
+      ],
+      [
+        "shift → shifted、shifting：位置、重点或班次换过去",
+        "shift · shifts · shifted · shifting"
+      ]
+    ],
+    "contrasts": "shift/switch 搭配有交叉；shifter/gearbox 控制件与变速机构；shifty/flexible 躲闪与灵活。",
+    "practice": "After his night shift, he shifted his plans and went straight home.\n\n上完夜班后，他改了安排，直接回家。",
+    "words": [
+      "shift",
+      "shifter",
+      "shifty",
+      "redshift",
+      "shifts",
+      "shifted",
+      "shifting"
+    ],
+    "exclude": {}
+  }
+]

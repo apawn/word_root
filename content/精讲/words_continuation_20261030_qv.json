@@ -1,0 +1,794 @@
+[
+  {
+    "word": "overrate",
+    "ipa": "英 /ˌəʊvəˈreɪt/；美 /ˌoʊvərˈreɪt/",
+    "meaning": "高估；评价过高",
+    "sense": "真实水平只有七分，却给了十分；把能力、质量或作用评得过高，就是 overrate。",
+    "split": "over- 过度 + rate 评价、给等级，构成评价过高的动词；不是 rate 一定指利率。",
+    "history": [
+      [
+        "rate",
+        "评价、定等级"
+      ],
+      [
+        "over- + rate → overrate",
+        "把评价抬得过高"
+      ]
+    ],
+    "explanation": "overrate someone’s ability 高估某人能力；overrate a film 把电影评价过高。这个词本身是一种评价，需与事实依据分开。",
+    "usage": "overrate the importance；be overrated。",
+    "contrast": "overrate 评价偏高，overestimate 更常估计数量、能力或程度偏高；语境可重叠，不能只按中文高估当完全无差别。",
+    "examples": [
+      [
+        "Do not overrate the importance of one result.",
+        "不要把一个结果的重要性估得过高。"
+      ],
+      [
+        "Some viewers felt that the critics had overrated the film.",
+        "一些观众觉得评论家把这部电影评价得过高。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overrate#English"
+    ]
+  },
+  {
+    "word": "overrated",
+    "ipa": "英 /ˌəʊvəˈreɪtɪd/；美 /ˌoʊvərˈreɪtɪd/",
+    "meaning": "被高估的；名过其实的",
+    "sense": "大家夸得很厉害，你体验后觉得没那么好，可说 overrated；它不是纯粹不好，而是好名声超过了你认为的实际水平。",
+    "split": "overrate + -ed，过去分词常作形容词。原形 rate 的评价层与 over- 过头都在里面。",
+    "history": [
+      [
+        "over- + rate → overrate",
+        "评价过高"
+      ],
+      [
+        "overrate + -ed → overrated",
+        "被评价过高的"
+      ]
+    ],
+    "explanation": "an overrated film 被高估的电影；highly overrated 被大大高估。通常带说话者判断，不是客观评分的固定单位。",
+    "usage": "an overrated actor；highly overrated。",
+    "contrast": "bad 是差，overrated 是评价过高；一部好电影仍可能被某人认为 overrated，因为其名声更高。",
+    "examples": [
+      [
+        "I liked the restaurant, but I thought it was overrated.",
+        "我喜欢那家餐厅，但觉得它有些名过其实。"
+      ],
+      [
+        "The novel was widely praised, though some readers called it overrated.",
+        "小说广受赞扬，不过有些读者说它被高估了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overrated#English"
+    ]
+  },
+  {
+    "word": "overlay",
+    "ipa": "动词 英 /ˌəʊvəˈleɪ/、美 /ˌoʊvərˈleɪ/；名词 英 /ˈəʊvəleɪ/、美 /ˈoʊvərleɪ/",
+    "meaning": "覆盖、叠加；覆盖层、叠加信息层",
+    "sense": "原图还在，上面再铺一层路线、文字或颜色，这层可以叫 overlay，叠上去的动作也叫 overlay。",
+    "split": "over- 在上 + lay 放置，承古英语 oferlecgan 等材料；动词变化 overlay—overlaid—overlaid。不是 over + lie 躺的同一组变化。",
+    "history": [
+      [
+        "古英语 ofer- + lecgan → 相应组合",
+        "在上面放、覆盖"
+      ],
+      [
+        "英语 overlay 动词、名词",
+        "叠加；叠加在表面的层"
+      ]
+    ],
+    "explanation": "overlay a map with data 把数据叠到地图上；a transparent overlay 透明覆盖层。名词、动词常有重音位置区别。",
+    "usage": "overlay data on a map；a text overlay。",
+    "contrast": "overlay 强调一层放到另一层上；overwrite 覆写会替代原有内容，不能把叠层都理解成删除原图。",
+    "examples": [
+      [
+        "The app overlays directions on the camera view.",
+        "应用把方向提示叠加在相机画面上。"
+      ],
+      [
+        "A transparent overlay shows the old street plan.",
+        "一层透明叠图显示了旧街道布局。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overlay#English"
+    ]
+  },
+  {
+    "word": "overturn",
+    "ipa": "英 /ˌəʊvəˈtɜːn/；美 /ˌoʊvərˈtɜːrn/",
+    "meaning": "翻倒、掀翻；推翻决定、裁决",
+    "sense": "桌子被掀翻，原来朝上的面变了；一个决定不再成立，也像被翻掉，叫 overturn。",
+    "split": "over- 翻越、翻转 + turn 转，中古英语已有相关组合；抽象推翻义从既定安排被翻转的画面扩展。",
+    "history": [
+      [
+        "over- + turn",
+        "翻转、翻倒"
+      ],
+      [
+        "overturn 的抽象扩展",
+        "推翻已有决定、规则等"
+      ]
+    ],
+    "explanation": "overturn a table 掀翻桌子；overturn a decision 推翻决定；a vehicle overturned 车辆翻覆。",
+    "usage": "overturn a decision；overturn a conviction。",
+    "contrast": "overturn 推翻、翻倒，turn over 可在更多场景说翻面、移交等；不是两个部分换位后所有义项都仍相同。",
+    "examples": [
+      [
+        "The vehicle overturned on the bend.",
+        "车辆在弯道上翻覆了。"
+      ],
+      [
+        "The appeal led to the decision being overturned.",
+        "申诉使原决定被推翻了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overturn#English"
+    ]
+  },
+  {
+    "word": "overcrowd",
+    "ipa": "英 /ˌəʊvəˈkraʊd/；美 /ˌoʊvərˈkraʊd/",
+    "meaning": "使过度拥挤；把太多人、物挤进",
+    "sense": "房间本来装得下十个人，却挤进二十个，空间就不够了；overcrowd 强调超过舒适或合理容量。",
+    "split": "over- 过度 + crowd 聚集、挤入。crowd 已有名词人群和动词挤满的作用，整个词取动作。",
+    "history": [
+      [
+        "crowd",
+        "人群；使挤满"
+      ],
+      [
+        "over- + crowd → overcrowd",
+        "让空间挤得过头"
+      ]
+    ],
+    "explanation": "overcrowd a room 把房间挤得太满；do not overcrowd the page 也可比喻页面别塞太多内容。",
+    "usage": "overcrowd a space；overcrowd the page。",
+    "contrast": "crowd 只说聚集、挤满，overcrowd 特别判断数量过量；热闹的一场活动不一定已经超过容量。",
+    "examples": [
+      [
+        "Too much furniture can overcrowd a small room.",
+        "家具太多会把小房间塞得过满。"
+      ],
+      [
+        "Do not overcrowd the page with decorative elements.",
+        "别在页面上堆太多装饰元素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overcrowd#English"
+    ]
+  },
+  {
+    "word": "overcrowded",
+    "ipa": "英 /ˌəʊvəˈkraʊdɪd/；美 /ˌoʊvərˈkraʊdɪd/",
+    "meaning": "过度拥挤的",
+    "sense": "人多到行走、使用空间都困难，是 overcrowded；有时也形容安排塞得太满。",
+    "split": "overcrowd + -ed，也可表面对照 over- + crowded。过去分词常作形容词，-ed 在 /d/ 后读 /ɪd/。",
+    "history": [
+      [
+        "over- + crowd → overcrowd",
+        "使空间挤得过头"
+      ],
+      [
+        "overcrowd + -ed → overcrowded",
+        "过度拥挤的状态"
+      ]
+    ],
+    "explanation": "an overcrowded train 过度拥挤的火车；overcrowded housing 过度拥挤的居住环境；通常带空间不足的负面意味。",
+    "usage": "overcrowded classrooms；an overcrowded train。",
+    "contrast": "crowded 挤、overcrowded 挤得过量；empty 空与这两个词是在不同端点描述，并非一见人多就只有 overcrowded。",
+    "examples": [
+      [
+        "The train was overcrowded during rush hour.",
+        "高峰时段火车拥挤不堪。"
+      ],
+      [
+        "The school needs more space for its overcrowded classrooms.",
+        "学校教室过度拥挤，需要更多空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overcrowded#English"
+    ]
+  },
+  {
+    "word": "overuse",
+    "ipa": "动词 英 /ˌəʊvəˈjuːz/、美 /ˌoʊvərˈjuːz/；名词 英 /ˌəʊvəˈjuːs/、美 /ˌoʊvərˈjuːs/",
+    "meaning": "过度使用；滥用〔次数、程度过多〕",
+    "sense": "一个词、一种效果用太多，本来有效也变得烦；overuse 看的是使用超过合适程度。",
+    "split": "over- 过度 + use 使用；承 use 的名动读音区别，动词常 /juːz/，名词常 /juːs/。不是末尾 s 永远读一种音。",
+    "history": [
+      [
+        "use 名词、动词",
+        "使用；有相应读音区别"
+      ],
+      [
+        "over- + use → overuse",
+        "过度使用及这种行为"
+      ]
+    ],
+    "explanation": "overuse a word 一个词用太多；the overuse of effects 特效的过度使用。说明数量、频率过量，不必表示用法本身违法。",
+    "usage": "overuse a phrase；the overuse of。",
+    "contrast": "misuse 重点是用错、用途不当，overuse 重点是用太多；即使用途正确也可能过度。",
+    "examples": [
+      [
+        "Writers sometimes overuse fashionable phrases.",
+        "作者有时会过多使用流行说法。"
+      ],
+      [
+        "The review criticised the overuse of special effects.",
+        "评论批评了特效的过度使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overuse#English"
+    ]
+  },
+  {
+    "word": "overdone",
+    "ipa": "英 /ˌəʊvəˈdʌn/；美 /ˌoʊvərˈdʌn/",
+    "meaning": "做过头的；煮老、烤过头的；过分夸张的",
+    "sense": "牛排做得太久、妆画得太重、笑话讲得太满，都像手没有及时收住，可说 overdone。",
+    "split": "overdo 的过去分词，over- 过度 + do 做；变化 overdo—overdid—overdone，done 不是独立表示完成度太高的后缀。",
+    "history": [
+      [
+        "over- + do → overdo",
+        "做得过度"
+      ],
+      [
+        "overdo → overdone",
+        "已经做过头；固定形容用法"
+      ]
+    ],
+    "explanation": "overdone meat 煮老的肉；an overdone joke 反复用、讲过头的笑话；the makeup looks overdone 妆显得过重。",
+    "usage": "slightly overdone；an overdone effect。",
+    "contrast": "done 可以说完成、熟了，overdone 加入过头的判断；well done 在食物语境还可按所要求熟度使用，不总是在抱怨做坏。",
+    "examples": [
+      [
+        "The vegetables were a little overdone.",
+        "蔬菜煮得稍过了头。"
+      ],
+      [
+        "The dramatic ending felt overdone.",
+        "那个戏剧性的结尾让人觉得有些用力过猛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overdone#English"
+    ]
+  },
+  {
+    "word": "overhang",
+    "ipa": "动词 英 /ˌəʊvəˈhæŋ/、美 /ˌoʊvərˈhæŋ/；名词 英 /ˈəʊvəhæŋ/、美 /ˈoʊvərhæŋ/",
+    "meaning": "悬伸在……上方；突出悬垂部分",
+    "sense": "屋檐、树枝从边缘伸出来，盖在走道上方；动词是 overhang，伸出的那一块也可叫 an overhang。",
+    "split": "over- 在上 + hang 悬挂，承古英语 oferhangan。过去式、过去分词通常 overhung；不照普通动词写成 overhanged 表这类悬伸。",
+    "history": [
+      [
+        "古英语 ofer- + hangan",
+        "悬在某物上方"
+      ],
+      [
+        "英语 overhang 动词、名词",
+        "悬伸；悬出的部分"
+      ]
+    ],
+    "explanation": "branches overhang the path 树枝伸在小路上方；a roof overhang 屋檐外伸部分。动词与名词重音常有区别。",
+    "usage": "overhang the road；a rocky overhang。",
+    "contrast": "overhang 突出、悬在上方，overlay 是铺、叠一层在上面；悬空树枝不一定贴在路面上。",
+    "examples": [
+      [
+        "Branches overhang the narrow path.",
+        "树枝悬伸在狭窄小路上方。"
+      ],
+      [
+        "We sheltered under a rocky overhang.",
+        "我们躲在一块外伸岩石的下方。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/overhang_1"
+    ]
+  },
+  {
+    "word": "overlie",
+    "ipa": "英 /ˌəʊvəˈlaɪ/；美 /ˌoʊvərˈlaɪ/",
+    "meaning": "位于……之上；覆盖在上〔地层等描写〕",
+    "sense": "一层黏土自然处在砂层上面，写地层关系可用 overlie；重点是它在那里，不是某人正在把它铺上去。",
+    "split": "over- 在上 + lie 躺、处在某处，承古英语相应组合。变化 overlie—overlay—overlain，其中过去式 overlay 又与另一动词 overlay 同形。",
+    "history": [
+      [
+        "over- + lie 的本族组合",
+        "处在上方、覆在上层"
+      ],
+      [
+        "overlie → overlay → overlain",
+        "原形、过去式、过去分词的固定变化"
+      ]
+    ],
+    "explanation": "clay overlies sand 黏土在砂层之上；overlying layers 上覆层。较常见于技术、科学或精细位置描写。",
+    "usage": "overlie a layer；be overlain by。",
+    "contrast": "overlie 说处在上面；overlay 说覆盖、叠放时变化是 overlay—overlaid—overlaid。原形相近、某个变化同形，不能把整套形式混起来。",
+    "examples": [
+      [
+        "A layer of clay overlies the sand.",
+        "一层黏土覆在砂层上面。"
+      ],
+      [
+        "The older rock is overlain by younger deposits.",
+        "较老岩石上覆着较新的沉积层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overlie#English"
+    ]
+  },
+  {
+    "word": "overlying",
+    "ipa": "英 /ˌəʊvəˈlaɪɪŋ/；美 /ˌoʊvərˈlaɪɪŋ/",
+    "meaning": "位于上方的；上覆的",
+    "sense": "看一张地层剖面图，目标层上面盖着的那层可叫 the overlying layer。不是一层撒了更多谎的东西。",
+    "split": "overlie 的 -ing 形式，lie 接 -ing 时变 lying。既可在进行式里用，也常作位置关系的形容词。",
+    "history": [
+      [
+        "over- + lie → overlie",
+        "位于、覆盖在上方"
+      ],
+      [
+        "overlie + -ing → overlying",
+        "上覆的；相应进行形式"
+      ]
+    ],
+    "explanation": "overlying soil 上覆土壤；overlying rock 上覆岩层。通常按较技术的上、下层关系理解。",
+    "usage": "an overlying layer；overlying sediments。",
+    "contrast": "overlying 是 lie 处在上面的词族，overlaid 常是另一动词 overlay 铺覆的分词；不能只因都译覆盖就把英语形式互换。",
+    "examples": [
+      [
+        "The diagram separates the rock from the overlying soil.",
+        "图示把岩石与上覆土壤分开标示。"
+      ],
+      [
+        "Water passed through the overlying layers.",
+        "水穿过了上面的几层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overlying#English"
+    ]
+  },
+  {
+    "word": "overwrought",
+    "ipa": "英 /ˌəʊvəˈrɔːt/；美 /ˌoʊvərˈrɔːt/",
+    "meaning": "情绪紧绷、激动不安的；过度雕琢的〔作品〕",
+    "sense": "人像一根绷得太紧的弦，担忧、激动压在一起，平静不下来；作品也可能加工太多，显得用力过头。",
+    "split": "历史是 overwork 的旧过去分词，wrought 是 work 的旧变化材料；现代 overwrought 已有固定情绪、作品评价义，不等于所有加班者都必然情绪失控。",
+    "history": [
+      [
+        "overwork；旧分词 wrought 的材料",
+        "过度工作、加工"
+      ],
+      [
+        "固定形容词 overwrought",
+        "情绪过分激动；作品过分雕琢"
+      ]
+    ],
+    "explanation": "emotionally overwrought 情绪紧绷激动；overwrought prose 过分雕琢的文风。常比普通 worried 担心强。",
+    "usage": "emotionally overwrought；overwrought prose。",
+    "contrast": "overworked 常说工作过量，overwrought 常说情绪激动紧张；有历史联系，也不该在所有句子里视为同义。",
+    "examples": [
+      [
+        "After the long argument, she felt exhausted and overwrought.",
+        "长时间争论后，她既疲惫又情绪紧绷。"
+      ],
+      [
+        "The review criticised the novel’s overwrought prose.",
+        "评论批评小说的文字雕琢过度。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/overwrought"
+    ]
+  },
+  {
+    "word": "oversimplify",
+    "ipa": "英 /ˌəʊvəˈsɪmplɪfaɪ/；美 /ˌoʊvərˈsɪmplɪfaɪ/",
+    "meaning": "把问题过分简单化",
+    "sense": "解释本来要抓重点，但若把关键条件、差异都删掉，听起来简单却开始失真，就是 oversimplify。",
+    "split": "over- 过度 + simplify 简化；simplify 中还有 simple 的词干 + -ify 使变成这一层。",
+    "history": [
+      [
+        "simple → simplify",
+        "简单的 → 使简化"
+      ],
+      [
+        "over- + simplify → oversimplify",
+        "简化超过合适限度"
+      ]
+    ],
+    "explanation": "oversimplify a problem 把问题过分简单化；oversimplify the relationship 过度简化关系。常用于反驳某个看似一针见血却漏掉复杂性的说法。",
+    "usage": "oversimplify the issue；an oversimplified explanation。",
+    "contrast": "simplify 可以是有用地提炼，oversimplify 加入简化过头的批评；短解释并不自动失真。",
+    "examples": [
+      [
+        "That explanation oversimplifies a complex problem.",
+        "那个解释把复杂问题说得过于简单了。"
+      ],
+      [
+        "We should simplify the instructions without oversimplifying the task.",
+        "我们应简化指令表述，同时避免把任务本身说得过于简单。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oversimplify#English"
+    ]
+  },
+  {
+    "word": "oversimplification",
+    "ipa": "英 /ˌəʊvəsɪmplɪfɪˈkeɪʃən/；美 /ˌoʊvərsɪmplɪfɪˈkeɪʃən/",
+    "meaning": "过度简化；过分简单化的说法、结果",
+    "sense": "oversimplify 是把事情说得太简单，oversimplification 可直接指那种省掉关键条件的说法。",
+    "split": "over- + simplification；也与 oversimplify 的 -ify／-ification 动名对应。simplification 中 -fic- 是 -ify 相应扩展材料，不是一个完全无关的 fic 单词。",
+    "history": [
+      [
+        "simplify／simplification",
+        "简化动作与相应名词"
+      ],
+      [
+        "over- + simplification → oversimplification",
+        "过度简化及其产物"
+      ]
+    ],
+    "explanation": "a gross oversimplification 严重的过度简化；an oversimplification of history 对历史的简单化说法。可数时常指一个具体说法。",
+    "usage": "an oversimplification of；avoid oversimplification。",
+    "contrast": "summary 摘要只说压缩内容，oversimplification 批评压缩得失真；好的摘要不必变成过度简化。",
+    "examples": [
+      [
+        "Calling it a simple mistake is an oversimplification.",
+        "把它称为一个简单错误，是过度简化。"
+      ],
+      [
+        "The author avoids oversimplification without making the explanation too long.",
+        "作者既避免过度简化，也没有把解释写得太长。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oversimplification#English"
+    ]
+  },
+  {
+    "word": "overqualified",
+    "ipa": "英 /ˌəʊvəˈkwɒlɪfaɪd/；美 /ˌoʊvərˈkwɑːlɪfaɪd/",
+    "meaning": "资历、能力超过岗位要求的",
+    "sense": "岗位只需要基础操作，申请人却有多年高级经验，招聘者可能说 overqualified；不是不合格，而是超过这份工作的需求。",
+    "split": "over- 超出 + qualified 符合资格的；qualified 还来自 qualify + -ed。这里 over 看的是岗位匹配，不是获得资格这一动作做坏了。",
+    "history": [
+      [
+        "qualify → qualified",
+        "使符合资格、具备资格 → 合格的"
+      ],
+      [
+        "over- + qualified → overqualified",
+        "资历超过特定岗位需求的"
+      ]
+    ],
+    "explanation": "overqualified for a job 对某岗位而言资历过高。要说清相对于哪份工作，不是绝对地知识太多。",
+    "usage": "overqualified for；an overqualified applicant。",
+    "contrast": "unqualified 不具资格，overqualified 是资格超过需求；两者不能因都可能未被录用就译成同一种不合格。",
+    "examples": [
+      [
+        "The manager thought she was overqualified for the entry-level role.",
+        "经理觉得她的资历超过了那个入门岗位的要求。"
+      ],
+      [
+        "Being overqualified did not mean he disliked the work.",
+        "资历超过要求，并不意味着他不喜欢这份工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overqualified#English"
+    ]
+  },
+  {
+    "word": "overrepresent",
+    "ipa": "英 /ˌəʊvəˌreprɪˈzent/；美 /ˌoʊvərˌreprɪˈzent/",
+    "meaning": "使某群体、类型在样本等中所占比例偏高",
+    "sense": "研究所有年龄的人，却主要找年轻人来填表，年轻人在样本里就被 overrepresent。重点是与目标总体、合理基准相比的比例。",
+    "split": "over- 超过 + represent 代表、呈现；不是所有代表都代表得太热情。",
+    "history": [
+      [
+        "represent",
+        "代表、呈现某群体等"
+      ],
+      [
+        "over- + represent → overrepresent",
+        "让某类所占比例高于相应基准"
+      ]
+    ],
+    "explanation": "overrepresent one age group 让某年龄段样本比例偏高；small samples may overrepresent certain experiences 小样本可能偏重某些经历。",
+    "usage": "overrepresent a group；be overrepresented。",
+    "contrast": "overrepresent 主要是比例或呈现偏多，不等于 misrepresent 描述错误；样本记录可真实，但某类在里面占比过高。",
+    "examples": [
+      [
+        "The survey may overrepresent frequent internet users.",
+        "调查中经常上网者的比例可能偏高。"
+      ],
+      [
+        "The collection overrepresents work from one period.",
+        "藏品中过多集中于某一个时期的作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overrepresent#English"
+    ]
+  },
+  {
+    "word": "overrepresented",
+    "ipa": "英 /ˌəʊvəˌreprɪˈzentɪd/；美 /ˌoʊvərˌreprɪˈzentɪd/",
+    "meaning": "所占比例过高的；呈现偏多的",
+    "sense": "某类人、作品在样本里出现得比目标总体比例更多，就是 overrepresented；不只看绝对人数大不大。",
+    "split": "overrepresent + -ed，形成被过多代表、呈现的状态；末尾在 /t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "over- + represent → overrepresent",
+        "某类型在样本或呈现中比例偏高"
+      ],
+      [
+        "overrepresent + -ed → overrepresented",
+        "处于这种比例偏高的状态"
+      ]
+    ],
+    "explanation": "overrepresented in the sample 在样本中比例偏高；相反 underrepresented 比例偏低。比较基准应由文章说明。",
+    "usage": "overrepresented in；an overrepresented group。",
+    "contrast": "many 很多是数量判断，overrepresented 是相对比例判断；一小组总共五人，其中某类四人，也可能比例过高。",
+    "examples": [
+      [
+        "Younger users were overrepresented in the sample.",
+        "样本中年轻用户的比例偏高。"
+      ],
+      [
+        "One genre was heavily overrepresented in the selection.",
+        "这份选集中，某一种体裁的比例明显过高。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overrepresented#English"
+    ]
+  },
+  {
+    "word": "overexpose",
+    "ipa": "英 /ˌəʊvərɪkˈspəʊz/；美 /ˌoʊvərɪkˈspoʊz/",
+    "meaning": "使曝光过度；让人或事物过多公开露面",
+    "sense": "拍照时光给多了，亮部细节丢掉；明星、品牌出现得太频繁，也可说被 overexpose。两种场景都超过了合适暴露程度。",
+    "split": "over- 过度 + expose 暴露、曝光；不是 expose 的每个含义都只与相机有关。",
+    "history": [
+      [
+        "expose",
+        "使显露；摄影中让感光材料受光"
+      ],
+      [
+        "over- + expose → overexpose",
+        "暴露、曝光超过合适程度"
+      ]
+    ],
+    "explanation": "overexpose a photograph 使照片曝光过度；overexpose a celebrity 让明星过多曝光。比喻义常含受众审美疲劳的担忧。",
+    "usage": "overexpose an image；overexpose a performer。",
+    "contrast": "overexpose 过多显露、受光，overlook 反而可能忽略；两个 over- 开头不能只靠前缀猜成同方向动作。",
+    "examples": [
+      [
+        "The bright background caused her to overexpose the photo.",
+        "明亮背景使她把照片拍得曝光过度了。"
+      ],
+      [
+        "The producer did not want to overexpose the young actor.",
+        "制片人不想让那位年轻演员曝光得过于频繁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overexpose#English"
+    ]
+  },
+  {
+    "word": "overexposure",
+    "ipa": "英 /ˌəʊvərɪkˈspəʊʒə/；美 /ˌoʊvərɪkˈspoʊʒər/",
+    "meaning": "曝光过度；过度接触或公开露面",
+    "sense": "照片太亮只是其中一条；人、品牌或材料接触某环境太多，也可讨论 overexposure，具体超过什么要看后面的对象。",
+    "split": "over- + exposure，也与 overexpose 的动名对应。exposure 取暴露、接触或摄影曝光的哪一义，整词跟着场景走。",
+    "history": [
+      [
+        "expose／exposure",
+        "暴露、接触、摄影曝光的动名词族"
+      ],
+      [
+        "over- + exposure → overexposure",
+        "相应程度过量"
+      ]
+    ],
+    "explanation": "overexposure in the media 媒体曝光过多；overexposure of an image 图像曝光过度；overexposure to something 过多接触某物。",
+    "usage": "media overexposure；overexposure to。",
+    "contrast": "overexposure 并不总指过度晒太阳，也不总表示知名度高；同一个词可说照片、媒体或其他暴露量。",
+    "examples": [
+      [
+        "Overexposure washed out the detail in the sky.",
+        "曝光过度让天空的细节一片发白。"
+      ],
+      [
+        "The campaign risked overexposure in the media.",
+        "这场宣传有媒体曝光过多的风险。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overexposure#English"
+    ]
+  },
+  {
+    "word": "overdress",
+    "ipa": "英 /ˌəʊvəˈdres/；美 /ˌoʊvərˈdres/",
+    "meaning": "穿得过于正式、华丽；给人穿得过多",
+    "sense": "大家都穿休闲装，你却穿了隆重礼服，可能 overdress for the occasion；另一条则是衣服套得比温度需要多。",
+    "split": "over- 过度 + dress 穿衣、打扮。过度依据场合、天气等标准，不是绝对说穿得漂亮就是错。",
+    "history": [
+      [
+        "dress",
+        "穿衣、给人穿衣、打扮"
+      ],
+      [
+        "over- + dress → overdress",
+        "穿得超过场合或保暖所需"
+      ]
+    ],
+    "explanation": "overdress for a party 参加聚会穿得太隆重；overdress a child 给孩子穿得过多。普通服装评价要看主语和场景。",
+    "usage": "overdress for；be overdressed。",
+    "contrast": "dress up 盛装打扮可以正合适，overdress 才加入对这个场景而言过头的判断。",
+    "examples": [
+      [
+        "I did not want to overdress for the casual dinner.",
+        "我不想为那顿随意晚餐穿得太隆重。"
+      ],
+      [
+        "The guide explains how to avoid overdressing for a warm-weather walk.",
+        "指南说明天气暖和散步时怎样避免穿得过多。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overdress#English"
+    ]
+  },
+  {
+    "word": "overdressed",
+    "ipa": "英 /ˌəʊvəˈdrest/；美 /ˌoʊvərˈdrest/",
+    "meaning": "穿得过于正式、隆重的；穿得过多的",
+    "sense": "穿着本身可能很漂亮，只是与场合比显得太隆重，便是 overdressed；也可说保暖衣物过多。",
+    "split": "overdress + -ed，过去分词常作形容词；dress 末尾 /s/ 后的 -ed 读 /t/，不多读一个音节。",
+    "history": [
+      [
+        "over- + dress → overdress",
+        "打扮或穿衣超过所需"
+      ],
+      [
+        "overdress + -ed → overdressed",
+        "处于穿得过头的状态"
+      ]
+    ],
+    "explanation": "feel overdressed 觉得自己穿得太隆重；overdressed for the occasion 相对这个场合太正式。相反 underdressed 可说穿得不够正式或不够保暖。",
+    "usage": "overdressed for；feel overdressed。",
+    "contrast": "well dressed 衣着得体、漂亮，overdressed 则与场合不够匹配；不代表衣服质量差。",
+    "examples": [
+      [
+        "I felt overdressed when everyone else arrived in jeans.",
+        "其他人都穿牛仔裤到场，我觉得自己穿得太隆重了。"
+      ],
+      [
+        "He was slightly overdressed for the informal gathering.",
+        "对那场非正式聚会来说，他穿得稍显隆重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overdressed#English"
+    ]
+  },
+  {
+    "word": "overstay",
+    "ipa": "英 /ˌəʊvəˈsteɪ/；美 /ˌoʊvərˈsteɪ/",
+    "meaning": "逗留超过期限；待得太久",
+    "sense": "原说待三天，到了期限还不走，是 overstay；做客久到不再受欢迎，也有固定说法 overstay one’s welcome。",
+    "split": "over- 超过时间 + stay 停留。不是再来住宿一次，而是同一次停留越过了相应时间界限。",
+    "history": [
+      [
+        "stay",
+        "停留、逗留"
+      ],
+      [
+        "over- + stay → overstay",
+        "停留超过规定、约定或合适时长"
+      ]
+    ],
+    "explanation": "overstay one’s welcome 做客过久惹人厌；overstay a visa 逾期停留是常见搭配，具体规定由现实证件和地区决定，词条只说明逾期这一词义。",
+    "usage": "overstay your welcome；overstay a permitted period。",
+    "contrast": "stay longer 只说待更久，overstay 通常暗示超过某个应遵守或合宜的限度。",
+    "examples": [
+      [
+        "We left early so as not to overstay our welcome.",
+        "我们早点离开，免得做客太久让人厌烦。"
+      ],
+      [
+        "The notice warned guests not to overstay the agreed period.",
+        "通知提醒客人不要超过约定期限继续逗留。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overstay#English"
+    ]
+  },
+  {
+    "word": "overbite",
+    "ipa": "英 /ˈəʊvəbaɪt/；美 /ˈoʊvərbaɪt/",
+    "meaning": "深覆合；上门牙对下门牙的垂直覆盖过多〔常见口语医疗义〕",
+    "sense": "咬合时，上门牙在垂直方向盖住下门牙太多，常见资料会说 an overbite。关键是上下覆盖，不是单纯牙齿向前突出。",
+    "split": "over- 过度、覆盖在上 + bite 咬合。属于牙齿咬合关系名称，不能只译成咬得太用力。",
+    "history": [
+      [
+        "bite 的咬合义",
+        "上下牙合在一起的关系"
+      ],
+      [
+        "over- + bite → overbite",
+        "上牙对下牙垂直覆盖过多的常见命名"
+      ]
+    ],
+    "explanation": "have an overbite 有深覆合；describe an overbite 描述这种咬合关系。这里只帮助看懂名称，不从单词给具体人作判断。",
+    "usage": "an overbite；the degree of overbite。",
+    "contrast": "overbite 看垂直覆盖；overjet 常看水平向前的距离，两者在大众说法里有时混用，但专业位置关系不同。",
+    "examples": [
+      [
+        "The dentist explained what an overbite means.",
+        "牙医解释了深覆合是什么意思。"
+      ],
+      [
+        "The diagram distinguishes an overbite from an overjet.",
+        "图示区分了垂直覆合过多与水平前突。"
+      ]
+    ],
+    "sources": [
+      "https://my.clevelandclinic.org/health/diseases/21473-overbite"
+    ]
+  },
+  {
+    "word": "overestimation",
+    "ipa": "英 /ˌəʊvərˌestɪˈmeɪʃən/；美 /ˌoʊvərˌestəˈmeɪʃən/",
+    "meaning": "高估；估计过高的结果",
+    "sense": "预计要一百件，实际只需六十件；把需求估得高于实际，是 overestimation。它也可说高估能力、重要性。",
+    "split": "over- + estimation，也与 overestimate 的动名词对应；不是 overestimate 的普通 -ing 形式。",
+    "history": [
+      [
+        "estimate／estimation",
+        "估计动作与相应名词"
+      ],
+      [
+        "over- + estimation → overestimation",
+        "数量、能力、程度等估计偏高"
+      ]
+    ],
+    "explanation": "an overestimation of demand 对需求的高估；lead to overestimation 导致估计偏高。说估计错了哪一面，比只译错误更清楚。",
+    "usage": "an overestimation of；a serious overestimation。",
+    "contrast": "overestimation 偏高，underestimation 偏低；error 只说有错，不指出方向。",
+    "examples": [
+      [
+        "The surplus resulted from an overestimation of demand.",
+        "余货是高估需求造成的。"
+      ],
+      [
+        "The plan relied on an overestimation of the team’s capacity.",
+        "计划建立在对团队能力过高的估计上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overestimation#English"
+    ]
+  }
+]

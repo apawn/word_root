@@ -1,0 +1,546 @@
+[
+  {
+    "word": "pressures",
+    "ipa": "英 /ˈpreʃəz/；美 /ˈpreʃərz/",
+    "meaning": "各种压力、压力来源〔复数〕；向人施压〔第三人称单数〕",
+    "sense": "工作、时间、家庭几方面都在往你这边压，这些不同来源可以说 pressures。物理里比较不同压力，也能用这个复数。",
+    "split": "pressure 接拉丁 pressura 挤压、压迫，连 premere 按压。现代整个词后加 -s，英音元音、美音 /r/ 后读 /z/；名词与施压动词同形。",
+    "history": [
+      [
+        "拉丁 premere、pressura → pressure",
+        "挤压 → 物理压力、迫使人行动的压力"
+      ],
+      [
+        "pressure + -s → pressures",
+        "多种压力；某人对别人施压"
+      ]
+    ],
+    "explanation": "work pressures 工作压力；financial pressures 财务压力；pressures him to agree 逼他同意。",
+    "usage": "competing pressures 同时拉扯人的多种压力；pressures from several sources 几方面的压力。",
+    "contrast": "pressure 常可泛谈不可数的压力，pressures 则分出来源、种类或不同水平。动词 pressures someone to do 常带逼迫意味。",
+    "examples": [
+      [
+        "She was dealing with several pressures at once.",
+        "她当时同时应对着几方面的压力。"
+      ],
+      [
+        "He pressures the team to finish early.",
+        "他向团队施压，要求提早完成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pressures#English",
+      "https://en.wiktionary.org/wiki/pressure#English"
+    ]
+  },
+  {
+    "word": "settlements",
+    "ipa": "/ˈsetəlmənts/",
+    "meaning": "定居点；和解安排、解决结果；结算〔复数〕",
+    "sense": "人们落脚并固定生活下来，形成 settlements；一场争执落定、双方有了安排，也可以是 settlements。都抓住事情安定下来的一面。",
+    "split": "settlement 现代对应 settle + -ment，settle 的座位、安顿材料与和解词的另一历史影响有交涉。名词再加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "settle 的安顿、和解等路线 → settlement",
+        "定居、安定或解决 → 形成的地点、安排、结果"
+      ],
+      [
+        "settlement + -s → settlements",
+        "多处定居点；多项解决安排、结算"
+      ]
+    ],
+    "explanation": "ancient settlements 古代定居点；peace settlements 和平安排；reach settlements 达成解决协议。",
+    "usage": "settlements along the river 沿河定居点；dispute settlements 争议解决安排。",
+    "contrast": "settlements 不只指把一群人安置在哪里；在争议、款项语境里常说解决、结清的结果。地点和安排要按对象分开。",
+    "examples": [
+      [
+        "Small settlements grew along the river.",
+        "沿河逐渐形成了小型定居点。"
+      ],
+      [
+        "The book compares several peace settlements.",
+        "这本书比较了几项和平安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settlements#English",
+      "https://en.wiktionary.org/wiki/settlement#English"
+    ]
+  },
+  {
+    "word": "skies",
+    "ipa": "/skaɪz/",
+    "meaning": "天空、天色〔复数〕；把球高高打起〔第三人称单数〕",
+    "sense": "旅行时换了地方、时间，看见不同的天空和天色，可以用 skies。clear skies 也常整体说晴空，并非一定在数几层天。",
+    "split": "sky 借古诺尔斯 sky 云，意义后来扩大为天空；动词把东西打高由天空名词发展。现代 y 改 i，加 -es，读音仍 /aɪ/ 加 /z/。",
+    "history": [
+      [
+        "古诺尔斯云词 → 中古英语 sky → sky",
+        "云、雾 → 天空"
+      ],
+      [
+        "sky → skies：y 改 i，加 -es",
+        "不同天色、天空；相关动词三单同形"
+      ]
+    ],
+    "explanation": "clear skies 晴空；blue skies 蓝天；under different skies 在不同地方的天空下。",
+    "usage": "cloudy skies 阴云密布的天空；skies above the mountains 群山上方的天空。",
+    "contrast": "skies 的复数有时带广阔、各处天色的表达效果，不必想成多个独立天体。sky’s 带撇号则可能是所有格或缩写，和普通复数分清。",
+    "examples": [
+      [
+        "We woke to clear skies.",
+        "我们醒来时天空晴朗。"
+      ],
+      [
+        "The painting shows dark skies above the mountains.",
+        "画中群山上方天空阴暗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skies#English",
+      "https://en.wiktionary.org/wiki/sky#English"
+    ]
+  },
+  {
+    "word": "smarter",
+    "ipa": "英 /ˈsmɑːtə/；美 /ˈsmɑːrtər/",
+    "meaning": "更聪明、机敏的；更利落、得体的；更智能的",
+    "sense": "同样的问题，能更快看懂、选到更合适办法，可以说 smarter；衣着显得更整齐得体，也能用它。先看比较的是思考、外观还是设备能力。",
+    "split": "smart 的旧刺痛、尖锐材料后来发展机敏、聪明等义，具体转义不只一种解释。现代直接加完整比较级 -er，词干末尾 t 保留。",
+    "history": [
+      [
+        "古英语尖锐、刺痛材料 → smart",
+        "尖刻、机敏 → 聪明、利落；后有设备智能用法"
+      ],
+      [
+        "smart + -er → smarter",
+        "在相关性质上更突出"
+      ]
+    ],
+    "explanation": "a smarter way 更巧妙的办法；look smarter 显得更利落；smarter devices 更智能的设备。",
+    "usage": "a smarter choice 更明智的选择；smarter clothes 更得体的衣服。",
+    "contrast": "smarter 不只等于考试分数更高。a smarter way 常说方法巧妙，look smarter 常说外表更整齐，语境决定比哪种性质。",
+    "examples": [
+      [
+        "There must be a smarter way to organise the files.",
+        "肯定有更巧妙的整理文件办法。"
+      ],
+      [
+        "He looks smarter in the new jacket.",
+        "他穿新夹克显得更利落。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smarter#English",
+      "https://en.wiktionary.org/wiki/smart#English"
+    ]
+  },
+  {
+    "word": "suppliers",
+    "ipa": "英 /səˈplaɪəz/；美 /səˈplaɪərz/",
+    "meaning": "供应者、供应商〔复数〕",
+    "sense": "你需要材料、产品或服务，对方持续提供，就是 suppliers。可以是个人，也常是给商店、工厂等供货的公司。",
+    "split": "supply 的较早拉丁 supplere 有补足、提供义。现代 supply 的 y 改 i，加完整 -er 成 supplier，再加复数 -s，读 /z/。",
+    "history": [
+      [
+        "supply → supplier：y 改 i，加 -er",
+        "补足、供应 → 从事供应的一方"
+      ],
+      [
+        "supplier + -s → suppliers",
+        "多位供应者、多家供应商"
+      ]
+    ],
+    "explanation": "local suppliers 当地供应商；suppliers of paper 纸张供应商；work with suppliers 与供应商合作。",
+    "usage": "several suppliers 几家供应商；materials from suppliers 供应商提供的材料。",
+    "contrast": "suppliers 重点是向你提供，customers 常是向你购买；同一家公司在不同交易关系中可以两种角色都有。它不是 supply 的动词三单，三单是 supplies。",
+    "examples": [
+      [
+        "The shop works with several local suppliers.",
+        "这家店与几家当地供应商合作。"
+      ],
+      [
+        "The workshop receives materials from two suppliers.",
+        "工坊从两家供应商那里取得材料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/suppliers#English",
+      "https://en.wiktionary.org/wiki/supplier#English"
+    ]
+  },
+  {
+    "word": "tablets",
+    "ipa": "/ˈtæbləts/",
+    "meaning": "小平板、书写板；药片；平板电脑〔复数〕",
+    "sense": "平平的一小块，是 tablets 几种常见义的共同外形：书写板、压成片的药、平板电脑。具体是什么，要看旁边的用途和对象。",
+    "split": "tablet 经古法语 tablete，接 table 平板材料的指小形式 -et。英语整词借入，现代在 tablet 后加 -s，/t/ 后读 /s/。",
+    "history": [
+      [
+        "古法语 table、tablete → tablet",
+        "平板 → 小平板；药片、设备等后续专门义"
+      ],
+      [
+        "tablet + -s → tablets",
+        "多块板、多片药或多台平板电脑"
+      ]
+    ],
+    "explanation": "clay tablets 泥板；tablets in the classroom 课堂上的平板电脑；tablets in a packet 一包里的药片。",
+    "usage": "ancient tablets 古代书写板；digital tablets 平板设备。",
+    "contrast": "tablets 不能只记一种现代设备。考古语境可能是泥板，药品语境是片剂；不同含义由相似的片状外形联系起来。",
+    "examples": [
+      [
+        "The museum displays ancient clay tablets.",
+        "博物馆展示古代泥板。"
+      ],
+      [
+        "The students used tablets to view the maps.",
+        "学生们用平板电脑查看地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tablets#English",
+      "https://en.wiktionary.org/wiki/tablet#English"
+    ]
+  },
+  {
+    "word": "terribly",
+    "ipa": "/ˈterəbli/",
+    "meaning": "很糟糕地；非常、极其",
+    "sense": "事情做得很糟，是 terribly 的方式义；口语 terribly sorry、terribly kind 又常只是把程度拉高，表示非常。",
+    "split": "terrible 经法语或直接接拉丁 terribilis，较早 terrere 使恐惧。现代加完整副词后缀 -ly，拼写把 -le 换成 -ly，形成 terribly；不是两个 l 连写。",
+    "history": [
+      [
+        "拉丁 terrere、terribilis → terrible",
+        "使害怕 → 可怕、糟糕；程度可弱化"
+      ],
+      [
+        "terrible + -ly，拼写 -le → -ly → terribly",
+        "糟糕地；程度副词非常"
+      ]
+    ],
+    "explanation": "terribly sorry 非常抱歉；terribly kind 非常友善；went terribly wrong 出了严重问题。",
+    "usage": "miss someone terribly 非常想念某人；performed terribly 表现很糟。",
+    "contrast": "terribly kind 是很友善，不是友善得很可怕。程度强调义要看后面的性质，不能把副词每次都强译成恐怖。",
+    "examples": [
+      [
+        "I am terribly sorry for the delay.",
+        "让你久等了，我非常抱歉。"
+      ],
+      [
+        "The first rehearsal went terribly.",
+        "第一次排练进行得很糟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/terribly#English",
+      "https://en.wiktionary.org/wiki/terrible#English"
+    ]
+  },
+  {
+    "word": "troubled",
+    "ipa": "/ˈtrʌbəld/",
+    "meaning": "忧虑的、不安的；问题重重的；使烦扰了〔过去式、过去分词及形容词〕",
+    "sense": "心里被事情搅得不平静，是 troubled；一段时期接连出现困难，也能说 troubled。一个是人的感受，一个是局面的状态。",
+    "split": "trouble 经法语搅乱词，较远接拉丁 turba、turbare 等骚乱材料。现代去末尾 e，加完整 -ed，/l/ 后读 /d/。",
+    "history": [
+      [
+        "拉丁骚乱、法语搅乱材料 → trouble",
+        "搅乱 → 使不安、麻烦"
+      ],
+      [
+        "trouble 去 e + -ed → troubled",
+        "受到烦扰；令人忧虑、问题多的"
+      ]
+    ],
+    "explanation": "a troubled expression 忧虑的表情；a troubled period 艰难多事的时期；troubled by a question 被问题困扰。",
+    "usage": "look troubled 显得不安；troubled times 多事之秋。",
+    "contrast": "troubled 不只指遇到一次小麻烦。形容时期时常说困难持续较多，形容表情则是看起来心里不安。",
+    "examples": [
+      [
+        "She looked troubled after the conversation.",
+        "谈话后她显得忧心忡忡。"
+      ],
+      [
+        "The book describes a troubled period in the town’s history.",
+        "书中描写了小镇历史上一段多事的时期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/troubled#English",
+      "https://en.wiktionary.org/wiki/trouble#English"
+    ]
+  },
+  {
+    "word": "violated",
+    "ipa": "/ˈvaɪəleɪtɪd/",
+    "meaning": "违反了、侵犯了；受到侵害的〔过去式、过去分词〕",
+    "sense": "该遵守的规则被违背，该受到尊重的边界被越过去，是 violated。它常带着破坏某种应被维护的要求或权利的意味。",
+    "split": "violate 接拉丁 violatus、violare 侵害、冒犯，关联力量材料。现代去末尾 e，加完整 -ed，/t/ 后读 /ɪd/。",
+    "history": [
+      [
+        "拉丁 violare、violatus → violate",
+        "强行侵害、冒犯 → 违背、侵犯"
+      ],
+      [
+        "violate 去 e + -ed → violated",
+        "已经违反；受到侵害"
+      ]
+    ],
+    "explanation": "violated the rules 违反规则；violated their agreement 违背约定；violated her privacy 侵犯隐私。",
+    "usage": "a violated promise 被违背的承诺；the rule was violated 规则被违反。",
+    "contrast": "violated 不只是让别人不高兴，通常有某种规则、权利或边界被破坏。具体有没有违反，需要对照内容，不能单由使用这个词来认定。",
+    "examples": [
+      [
+        "The player violated the rules of the game.",
+        "那名队员违反了比赛规则。"
+      ],
+      [
+        "The novel shows how their agreement was violated.",
+        "小说展示了他们的约定怎样遭到违背。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/violated#English",
+      "https://en.wiktionary.org/wiki/violate#English"
+    ]
+  },
+  {
+    "word": "vocals",
+    "ipa": "英 /ˈvəʊkəlz/；美 /ˈvoʊkəlz/",
+    "meaning": "歌曲中的人声、演唱部分〔复数名词〕",
+    "sense": "一首音乐里，吉他、鼓等是器乐，歌手唱出来的那一层是 vocals。可以谈主唱、和声，或录音中单独的人声部分。",
+    "split": "vocal 经法语或拉丁 vocalis，接 vox、voc- 声音、话语。现代名词用法加 -s，/l/ 后读 /z/，音乐里集合地说人声部分。",
+    "history": [
+      [
+        "拉丁 vox、vocalis → vocal",
+        "声音 → 与嗓音、发声相关的"
+      ],
+      [
+        "vocal 的音乐名词用法 + -s → vocals",
+        "演唱、人声部分；不是普通形容词的复数变化"
+      ]
+    ],
+    "explanation": "lead vocals 主唱；backing vocals 和声、伴唱；record the vocals 录人声。",
+    "usage": "clear vocals 清晰的人声；vocals and guitar 人声与吉他。",
+    "contrast": "vocal 可以形容爱公开表达意见的人，vocals 作音乐名词时通常不是把一群直言的人数起来。先看它是否在谈录音、乐队或歌曲。",
+    "examples": [
+      [
+        "She recorded the vocals in a small studio.",
+        "她在一间小录音室录了人声。"
+      ],
+      [
+        "The song features gentle vocals and acoustic guitar.",
+        "这首歌以轻柔人声和原声吉他为特色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vocals#English",
+      "https://en.wiktionary.org/wiki/vocal#English"
+    ]
+  },
+  {
+    "word": "uploaded",
+    "ipa": "英 /ˌʌpˈləʊdɪd/；美 /ˌʌpˈloʊdɪd/",
+    "meaning": "上传了、已上传的〔过去式、过去分词〕",
+    "sense": "把本地或手边设备里的文件传到服务器、远端系统，就是 uploaded。方向是从发送者这边送到接收的远端，不是只看屏幕上箭头朝哪里。",
+    "split": "英语 up + load 形成现代计算机词 upload，load 的旧运送、负荷材料发展加载义。现代直接加完整 -ed，/d/ 后读 /ɪd/。",
+    "history": [
+      [
+        "本族 load 运送、装载材料 → up + load",
+        "向远端系统传送 → 上传"
+      ],
+      [
+        "upload + -ed → uploaded",
+        "已经上传；上传完成的"
+      ]
+    ],
+    "explanation": "uploaded a photo 上传了照片；uploaded the file to a server 把文件上传到服务器；an uploaded document 已上传文档。",
+    "usage": "recently uploaded 最近上传的；uploaded by the author 作者上传的。",
+    "contrast": "uploaded 与 downloaded 方向不同：前者从手边发送到远端，后者常从远端取到手边。换了观察对象，仍要明确是谁在发、谁在收。",
+    "examples": [
+      [
+        "She uploaded the photograph to the shared album.",
+        "她把照片上传到共享相册。"
+      ],
+      [
+        "The document was uploaded yesterday.",
+        "文档昨天已上传。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uploaded#English",
+      "https://en.wiktionary.org/wiki/upload#English"
+    ]
+  },
+  {
+    "word": "topped",
+    "ipa": "英 /tɒpt/；美 /tɑːpt/",
+    "meaning": "加在顶上、覆盖顶部；居首、超过〔过去式、过去分词〕",
+    "sense": "把东西放在最上层，是 topped；成绩、排名到了最上面，也是 topped。实物顶部和抽象最高位置可以连起来记。",
+    "split": "top 接古英语 topp 的顶部材料，再转为相关动词。现代短元音闭音节结尾，先双写 p，加完整 -ed；/p/ 后读 /t/，不多音节。",
+    "history": [
+      [
+        "古英语 topp → top → 动词 top",
+        "顶部、最高处 → 放在上面、排在前面"
+      ],
+      [
+        "top 双写 p + -ed → topped",
+        "顶上加了东西；居首或超过"
+      ]
+    ],
+    "explanation": "topped with fruit 顶上放着水果；topped the list 排名榜首；topped the previous score 超过先前分数。",
+    "usage": "a cake topped with cream 顶上有奶油的蛋糕；topped the chart 位列榜首。",
+    "contrast": "topped with 讲上层加了什么，topped the list 讲排名最高。不要因为都能译成顶，就把覆盖、居首、超过读成一个固定动作。",
+    "examples": [
+      [
+        "The cake was topped with fresh fruit.",
+        "蛋糕顶上放着新鲜水果。"
+      ],
+      [
+        "Her name topped the list.",
+        "她的名字排在名单首位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/topped#English",
+      "https://en.wiktionary.org/wiki/top#English"
+    ]
+  },
+  {
+    "word": "trails",
+    "ipa": "/treɪlz/",
+    "meaning": "小径、踪迹、痕迹〔复数〕；拖着、落在后面〔第三人称单数〕",
+    "sense": "走过留下的一道痕迹，或许多人沿着走出的小路，是 trails；衣物拖在身后，或某队比分落后，也能用 trails。",
+    "split": "trail 经古法语 trailler 的拖、追踪材料进入，更远通常联系拉丁拖拉词族，但具体链条不强定。现代直接加 -s，/l/ 后读 /z/。",
+    "history": [
+      [
+        "法语 trailler → 英语 trail",
+        "拖行、跟踪 → 拖出的痕迹、小径"
+      ],
+      [
+        "trail + -s → trails",
+        "多条路、踪迹；某物拖着、落后"
+      ]
+    ],
+    "explanation": "walking trails 步行小径；animal trails 动物踩出的小路；trails behind 落在后面。",
+    "usage": "trails of smoke 一缕缕烟迹；trails along the coast 沿海小径。",
+    "contrast": "trails 作名词不只说为游客修好的路，也能是烟、脚步等留下的痕迹。作动词则常看它后面跟着什么、落后于谁。",
+    "examples": [
+      [
+        "Several trails lead through the forest.",
+        "几条小径通向森林深处。"
+      ],
+      [
+        "Her long scarf trails behind her.",
+        "她的长围巾拖在身后。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trails#English",
+      "https://en.wiktionary.org/wiki/trail#English"
+    ]
+  },
+  {
+    "word": "venues",
+    "ipa": "/ˈvenjuːz/",
+    "meaning": "活动场地、举办地点〔复数〕；审判地点〔专业语境〕",
+    "sense": "音乐会在剧院，展览在展馆，会议在会堂，这些具体举办地点是 venues。重点是活动落在哪里举行。",
+    "split": "venue 经古法语 venir 来的相关阴性分词，曾有到来义，英语后来发展审判地点，再扩展活动地点。现代直接加 -s，/uː/ 后读 /z/，末尾 e 不另发音。",
+    "history": [
+      [
+        "法语 venir、venue → 英语 venue",
+        "到来 → 审判发生的地点 → 活动场所"
+      ],
+      [
+        "venue + -s → venues",
+        "多个举办地点、场地"
+      ]
+    ],
+    "explanation": "concert venues 音乐会场地；different venues 不同举办地点；venues for the exhibition 展览场地。",
+    "usage": "small venues 小型演出场所；venues across the city 城市各处活动场地。",
+    "contrast": "venues 是场所，events 是活动；一处 venue 可以举行不同 events。旧到来词源帮助记历史，现代通常直接理解活动地点。",
+    "examples": [
+      [
+        "The festival uses several venues across the city.",
+        "节庆活动使用了城里几个不同场地。"
+      ],
+      [
+        "They compared two possible venues for the exhibition.",
+        "他们比较了两个可能的展览场地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/venues#English",
+      "https://en.wiktionary.org/wiki/venue#English"
+    ]
+  },
+  {
+    "word": "retailers",
+    "ipa": "英 /ˈriːteɪləz/；美 /ˈriːteɪlərz/",
+    "meaning": "零售商、直接向最终顾客销售的商家〔复数〕",
+    "sense": "货物到了商店，再按件卖给实际使用的顾客，这些商家是 retailers。它讲销售链中的角色，不只看店面大小。",
+    "split": "retail 经法语切分材料走向零售义，现代 retail + 完整 -er → retailer，整个名词再加复数 -s，读 /z/。",
+    "history": [
+      [
+        "法语切分材料 → 英语 retail；再加 -er → retailer",
+        "整批分开卖 → 从事零售的主体"
+      ],
+      [
+        "retailer + -s → retailers",
+        "多家零售商"
+      ]
+    ],
+    "explanation": "local retailers 当地零售商；online retailers 网上零售商；independent retailers 独立零售商。",
+    "usage": "retailers and suppliers 零售商与供应商；several retailers 几家零售商。",
+    "contrast": "零售的对比角色常是 wholesale 批发。retailers 面向最终顾客销售，不意味着他们一定是小商店，大型机构也可做零售。",
+    "examples": [
+      [
+        "Local retailers displayed books in their windows.",
+        "当地零售商在橱窗里陈列了图书。"
+      ],
+      [
+        "The publisher works with several retailers.",
+        "出版社与几家零售商合作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/retailers#English",
+      "https://en.wiktionary.org/wiki/retailer#English"
+    ]
+  },
+  {
+    "word": "reviewing",
+    "ipa": "/rɪˈvjuːɪŋ/",
+    "meaning": "回看、检查、复习；评价、撰写评论〔现在分词、动名词〕",
+    "sense": "东西已经在眼前或做过一遍，再回过头看，是 reviewing。可以检查计划、复习笔记，也可以看完作品后作评价。",
+    "split": "review 经法语 reveue、reveoir 接再看的历史材料，较早连拉丁 videre。现代可用 re- 再 + view 看来助记，直接加完整 -ing，不删 w。",
+    "history": [
+      [
+        "拉丁再看材料 → 法语 reveue → review",
+        "再看、审视 → 检查、回顾、评论"
+      ],
+      [
+        "review + -ing → reviewing",
+        "正在回看、复习或评价"
+      ]
+    ],
+    "explanation": "reviewing the notes 复习笔记；reviewing a plan 审视计划；reviewing a book 为书作评论。",
+    "usage": "reviewing the evidence 重新审视证据；reviewing what we learned 回顾所学。",
+    "contrast": "reviewing a book 可能是写书评，不一定是为了考试反复读；reviewing for an exam 则常指复习。把对象和目的连起来看。",
+    "examples": [
+      [
+        "She is reviewing her notes before class.",
+        "她正在课前复习笔记。"
+      ],
+      [
+        "The team is reviewing the plan.",
+        "团队正在重新审视方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reviewing#English",
+      "https://en.wiktionary.org/wiki/review#English"
+    ]
+  }
+]

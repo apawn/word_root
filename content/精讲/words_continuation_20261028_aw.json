@@ -1,0 +1,844 @@
+[
+  {
+    "word": "light",
+    "ipa": "/laɪt/",
+    "meaning": "光；灯；明亮的；点燃；轻的；轻微的",
+    "sense": "先分两幅图：一幅让你看得见，一幅让你提得动。两者今天同形，但来源不同。",
+    "split": "光、明亮义接古英语 lēoht 的发光词族；重量轻义也有相似古英语拼写，却上接另一条不重的词源。不要编成“光没有重量，所以所有义项同根”。",
+    "history": [
+      [
+        "古英语光义 lēoht；古英语轻义 lēoht",
+        "两条来源不同、后来同形的词族"
+      ],
+      [
+        "现代 light",
+        "光与轻两大义群；分别产生相关扩展"
+      ]
+    ],
+    "explanation": "turn on the light 开灯，light a candle 点蜡烛，a light bag 轻包，a light meal 清淡、量少的一餐。动词过去式、分词常 lit，也用 lighted，按搭配理解。",
+    "usage": "turn on the light；light a candle；a light bag；light rain；in the light of。",
+    "contrast": "light color 浅色通常放光亮一边；light weight 轻重量放另一边。同样拼写不能证明“轻”和“亮”原来是一根。",
+    "examples": [
+      [
+        "The room gets plenty of natural light.",
+        "房间有充足自然光。"
+      ],
+      [
+        "This bag is light enough to carry all day.",
+        "包很轻，背一整天也不累。"
+      ],
+      [
+        "She lit a candle beside the window.",
+        "她在窗旁点亮一支蜡烛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/light#English",
+      "https://www.etymonline.com/word/light"
+    ]
+  },
+  {
+    "word": "lighting",
+    "ipa": "/ˈlaɪtɪŋ/",
+    "meaning": "照明；灯光布置；点燃过程",
+    "sense": "不只一盏灯，而是整个空间怎么被照亮、光怎么落到人物和物体上。",
+    "split": "light（照亮、点亮）+ -ing，形成活动或整体照明名词；不接重量轻的那条词义。",
+    "history": [
+      [
+        "古英语 lēoht、相关发光动词 → 中古英语 light",
+        "光、明亮；照亮、点燃"
+      ],
+      [
+        "英语 light〔光义〕",
+        "光；灯；明亮的；点亮"
+      ],
+      [
+        "light + -ing → lighting",
+        "照明效果、设备配置；点燃活动"
+      ]
+    ],
+    "explanation": "soft lighting 柔和照明，stage lighting 舞台灯光，the lighting of a candle 点蜡烛这一过程。普通照明义通常不可数。",
+    "usage": "soft lighting；natural lighting；stage lighting；lighting design。",
+    "contrast": "light 常是一束光、一盏灯等；lighting 更常指整体照明、灯光配置。雷电 lightning 多一个 n，是另一个词形。",
+    "examples": [
+      [
+        "The restaurant has warm, soft lighting.",
+        "餐馆的灯光温暖柔和。"
+      ],
+      [
+        "Good lighting makes the small room feel larger.",
+        "好的照明让小房间显得更大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lighting#English"
+    ]
+  },
+  {
+    "word": "lighter",
+    "ipa": "英 /ˈlaɪtə/；美 /ˈlaɪtər/",
+    "meaning": "打火机；更轻、较浅或更亮的〔比较级〕；驳船〔另义〕",
+    "sense": "a lighter 能点火；a lighter bag 更轻。这两个句子里，er 做的工作完全不同。",
+    "split": "打火机是 light（点燃）+ 人或工具后缀 -er；比较级是 light + 比较后缀 -er。驳船义则与给大船卸货、减轻载重的 light 用法相连，不是用来照明的小船。",
+    "history": [
+      [
+        "light 点燃 + -er；light 轻等义 + 比较级 -er；旧卸货减载用法 + -er",
+        "三个平行构词背景"
+      ],
+      [
+        "lighter",
+        "点火工具；更轻等；卸货驳船"
+      ]
+    ],
+    "explanation": "a cigarette lighter 打火机，a lighter shade 较浅色，a lighter workload 较轻工作量；航运材料 a lighter 可能是短程转运驳船。",
+    "usage": "a cigarette lighter；a lighter shade；a lighter workload。",
+    "contrast": "a lighter 是一件点火工具，lighter luggage 是更轻行李；不是每个 er 结尾都指人。",
+    "examples": [
+      [
+        "He put the lighter back in his pocket.",
+        "他把打火机放回口袋。"
+      ],
+      [
+        "We chose a lighter shade of blue for the walls.",
+        "我们给墙选了更浅的蓝色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lighter#English"
+    ]
+  },
+  {
+    "word": "lightly",
+    "ipa": "/ˈlaɪtli/",
+    "meaning": "轻轻地；轻微地；随便、不认真地",
+    "sense": "手上不使重劲，事情也可能没被放到心里认真看。",
+    "split": "light（轻）+ -ly，古英语、中古英语已有相应副词；不是把光束变成副词后就都表示发亮。",
+    "history": [
+      [
+        "古英语 lēoht〔轻义〕→ 中古英语 light",
+        "重量小、负担轻；更早来源与光义不同"
+      ],
+      [
+        "英语 light〔轻义〕",
+        "轻；轻微；轻松、不严肃"
+      ],
+      [
+        "light + -ly → lightly",
+        "动作、程度轻；态度不郑重"
+      ]
+    ],
+    "explanation": "tap lightly 轻敲，lightly cooked 略微烹煮，take something lightly 把事看得轻、不认真对待。travel light 通常直接用 light 作副词。",
+    "usage": "tap lightly；touch lightly；take lightly；lightly cooked。",
+    "contrast": "lightly 轻轻、轻率，slightly 略微；touch lightly 是手劲轻，slightly different 是差别小，两者不处处可换。",
+    "examples": [
+      [
+        "She tapped lightly on the door.",
+        "她轻轻敲门。"
+      ],
+      [
+        "This is not a decision to take lightly.",
+        "这个决定不能草率对待。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightly#English"
+    ]
+  },
+  {
+    "word": "lightness",
+    "ipa": "/ˈlaɪtnəs/",
+    "meaning": "轻盈；轻微；轻松感；明度、浅色程度",
+    "sense": "一只包拿着轻，一段动作看着轻盈；颜色也能讨论明暗浅深，但这是另一条来源。",
+    "split": "light + -ness，光义与轻义各有旧名词形式；同形名词的不同义项不能强串一条从灯光到重量的祖先链。",
+    "history": [
+      [
+        "light〔轻〕+ -ness；light〔亮、浅〕+ -ness",
+        "两条同形 light 各自对应的性质名词"
+      ],
+      [
+        "lightness",
+        "重量、动作、语气的轻；色彩明度等"
+      ]
+    ],
+    "explanation": "the lightness of the bag 包的轻，lightness of touch 手法轻巧，color lightness 色彩明度。按谈的是重量、风格还是颜色来选义。",
+    "usage": "lightness of touch；the lightness of；color lightness。",
+    "contrast": "lightness 轻盈常可欣赏，lightheadedness 头晕是另一复合词；不能只凭中文轻就混作一种感觉。",
+    "examples": [
+      [
+        "I was surprised by the lightness of the frame.",
+        "框架这么轻，让我意外。"
+      ],
+      [
+        "The actor brought lightness to a serious scene.",
+        "演员让严肃场景多了一点轻松感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightness#English"
+    ]
+  },
+  {
+    "word": "lighten",
+    "ipa": "/ˈlaɪtən/",
+    "meaning": "使变亮、变浅；减轻；使轻松",
+    "sense": "房间暗，就让它亮一点；担子重，就让它轻一点。词形一样，要分两幅图。",
+    "split": "light + -en，光义、轻义在中古英语 lightnen 等形式中各有对应用法；en 表变化、使发生变化，不把两个 light 的远源混为一根。",
+    "history": [
+      [
+        "light〔明亮〕+ -en；light〔不重〕+ -en",
+        "并列的变亮、减轻构词背景"
+      ],
+      [
+        "lighten",
+        "照亮、变浅；减轻重量、负担、气氛"
+      ]
+    ],
+    "explanation": "lighten the room 使房间更明亮，lighten the load 减轻负担，lighten the mood 活跃、缓和气氛。lighten up 还可劝人放松一点。",
+    "usage": "lighten the load；lighten the mood；lighten a color；lighten up。",
+    "contrast": "lighten the load 减负，enlighten someone 让人明白；不能把后者当搬运时给人减轻体重。",
+    "examples": [
+      [
+        "The new helper will lighten your workload.",
+        "新助手会减轻你的工作量。"
+      ],
+      [
+        "She told a joke to lighten the mood.",
+        "她讲了个笑话缓和气氛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lighten#English"
+    ]
+  },
+  {
+    "word": "lightweight",
+    "ipa": "/ˈlaɪtweɪt/",
+    "meaning": "轻量的；轻量级；缺乏分量的人〔贬〕",
+    "sense": "东西的分量轻，好携带；评价人时也可能嫌他思想、能力没分量。",
+    "split": "light（轻）+ weight，不是发光的重量；形容词、名词皆可。体育轻量级的具体标准随项目、组织，不靠词根推公斤数。",
+    "history": [
+      [
+        "light〔轻〕；weight",
+        "并列构词部分"
+      ],
+      [
+        "lightweight",
+        "重量轻；轻量级；缺乏分量的人"
+      ]
+    ],
+    "explanation": "lightweight materials 轻质材料，a lightweight jacket 轻便外套。a political lightweight 是说政治人物能力、影响有限，通常贬义。",
+    "usage": "lightweight materials；a lightweight jacket；a political lightweight。",
+    "contrast": "lightweight 产品轻常是优点；a lightweight 用于人可能是看不起。用途与语气不能只背一个轻量级。",
+    "examples": [
+      [
+        "The tent is made from lightweight fabric.",
+        "帐篷用轻质面料制成。"
+      ],
+      [
+        "Critics dismissed him as a political lightweight.",
+        "批评者认为他在政治上没什么分量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightweight#English"
+    ]
+  },
+  {
+    "word": "lighthearted",
+    "ipa": "英 /ˌlaɪtˈhɑːtɪd/；美 /ˌlaɪtˈhɑːrtɪd/",
+    "meaning": "轻松愉快的；不严肃的",
+    "sense": "心里没有沉重包袱，语气、故事也能轻快地展开。",
+    "split": "light（轻）+ hearted，hearted 是 heart + -ed“有某种心境的”；中古英语有 lyght hertyd 等形式，不是过去式“曾经心脏”。",
+    "history": [
+      [
+        "light〔轻松〕；hearted〔heart + -ed〕",
+        "并列构词部分"
+      ],
+      [
+        "lighthearted",
+        "心境、风格轻松愉快的"
+      ]
+    ],
+    "explanation": "a lighthearted comedy 轻松喜剧，a lighthearted remark 轻松打趣。语气轻不等于作者对所有事情都不负责任。",
+    "usage": "a lighthearted comedy；a lighthearted remark；a lighthearted mood。",
+    "contrast": "lighthearted 是轻松愉快，heartless 是无情；lightheaded 是头晕，别把少几个字母看作同义。",
+    "examples": [
+      [
+        "We wanted a lighthearted film after a stressful week.",
+        "紧张一周后，我们想看部轻松电影。"
+      ],
+      [
+        "She made a lighthearted remark about the rain.",
+        "她拿下雨轻松打了个趣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lighthearted#English"
+    ]
+  },
+  {
+    "word": "enlighten",
+    "ipa": "/ɪnˈlaɪtən/",
+    "meaning": "启发；使明白；开导",
+    "sense": "原来脑中一片暗，别人把关键处照亮：哦，原来如此。",
+    "split": "现代可对照 en- + light + -en；历史由中古英语 enlightenen、inlightnen 等相关形式合流，上接古英语 inlīhtan、onlīhtan 等照亮动词，不是今天随手在 lighten 两头都加词缀。",
+    "history": [
+      [
+        "古英语 inlīhtan / onlīhtan 等 → 中古英语相关形式",
+        "照亮、使看见；精神上的启发"
+      ],
+      [
+        "英语 enlighten",
+        "给知识、使理解"
+      ]
+    ],
+    "explanation": "enlighten someone about something 让某人明白某事。Please enlighten me 可真诚求解释，也可带反讽“那你倒说说”，语气重要。",
+    "usage": "enlighten someone about；enlighten someone on；an enlightening explanation。",
+    "contrast": "enlighten 明白知识，lighten 减负或变亮；enlightened 还可评价思想开明，不是亮着灯的房间。",
+    "examples": [
+      [
+        "Could you enlighten me about the purpose of this rule?",
+        "能给我讲明白这条规则的用意吗？"
+      ],
+      [
+        "The discussion enlightened us on the history of the site.",
+        "讨论让我们了解了这处遗址的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enlighten#English"
+    ]
+  },
+  {
+    "word": "alight",
+    "ipa": "/əˈlaɪt/",
+    "meaning": "下车、下马；落下停驻；燃着、亮着的",
+    "sense": "公交提示 alight 是下车；the candle is alight 是蜡烛燃着。拼写相同，背后两条来路。",
+    "split": "下车义接古英语 ālīhtan、ġelīhtan 的卸载、下来词族，与轻义相关；燃着的形容词接照亮、点燃的旧动词分词，另属光义，后来也被重解为状态 a- + light。",
+    "history": [
+      [
+        "古英语卸载、下来动词；另一路照亮动词及其分词",
+        "两条并列历史背景"
+      ],
+      [
+        "alight〔动词〕；alight〔形容词〕",
+        "下车、落下；燃着、亮着"
+      ]
+    ],
+    "explanation": "alight from the train 下火车，a bird alights on a branch 鸟落枝头；be alight 燃着，a face alight with excitement 脸上兴奋得发光。形容词通常不直接放名词前。",
+    "usage": "alight from；alight on；be alight；alight with excitement。",
+    "contrast": "alight 下车较正式，get off 日常更普通；alight 的燃着义与下车义不能硬解释成同一动作。",
+    "examples": [
+      [
+        "Passengers should alight at the next stop.",
+        "乘客应在下一站下车。"
+      ],
+      [
+        "Her face was alight with excitement.",
+        "她兴奋得满脸放光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/alight#English",
+      "https://www.ahdictionary.com/word/search.html?q=alight",
+      "https://dictionary.cambridge.org/dictionary/english/alight"
+    ]
+  },
+  {
+    "word": "sunlight",
+    "ipa": "/ˈsʌnlaɪt/",
+    "meaning": "阳光",
+    "sense": "太阳送来的光，照在窗台、脸上或叶片上。",
+    "split": "sun + light，古英语有 sunnan lēoht 等相应组合，中古英语 sonnelight 等延续；不是 sun 的重量很轻。",
+    "history": [
+      [
+        "sun；light〔光〕",
+        "并列构词部分"
+      ],
+      [
+        "sunlight",
+        "来自太阳的光"
+      ]
+    ],
+    "explanation": "direct sunlight 直射阳光，in sunlight 在阳光下；通常不可数。by sunlight 可说借日光照明。",
+    "usage": "direct sunlight；bright sunlight；in the sunlight。",
+    "contrast": "sunlight 指太阳的光，daylight 指白天自然光；阴天有 daylight，也未必有清晰直射阳光。",
+    "examples": [
+      [
+        "Sunlight streamed through the window.",
+        "阳光从窗户流泻进来。"
+      ],
+      [
+        "The leaves shone in the afternoon sunlight.",
+        "叶片在午后阳光里发亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sunlight#English"
+    ]
+  },
+  {
+    "word": "starlight",
+    "ipa": "英 /ˈstɑːlaɪt/；美 /ˈstɑːrlaɪt/",
+    "meaning": "星光",
+    "sense": "夜空里的星星发出的光，往往微弱却能让夜色有层次。",
+    "split": "star + light，日常通常说太阳以外恒星的光；不从这个词否认太阳在天文学上也是恒星。",
+    "history": [
+      [
+        "star；light",
+        "并列构词部分"
+      ],
+      [
+        "starlight",
+        "来自星星的光"
+      ]
+    ],
+    "explanation": "by starlight 借星光，faint starlight 微弱星光；通常不可数。文学里也营造夜景，不等于专业测量单位。",
+    "usage": "by starlight；faint starlight；under the starlight。",
+    "contrast": "starlight 星光，moonlight 月光；后者是月球反射太阳光形成的光亮，名称按眼前来源区分。",
+    "examples": [
+      [
+        "The travelers walked by starlight.",
+        "旅人借星光行走。"
+      ],
+      [
+        "Faint starlight was visible through the branches.",
+        "枝叶间能看见微弱星光。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starlight#English"
+    ]
+  },
+  {
+    "word": "firelight",
+    "ipa": "英 /ˈfaɪəlaɪt/；美 /ˈfaɪərlaɪt/",
+    "meaning": "火光",
+    "sense": "炉火、营火一跳一跳，把周围人的脸照暖。",
+    "split": "fire + light，古英语 fȳrlēoht、中古英语 fire liȝt 等已有相应词形；强调火发出的光，不是火灾这件事。",
+    "history": [
+      [
+        "fire；light",
+        "并列构词部分"
+      ],
+      [
+        "firelight",
+        "火焰发出的光"
+      ]
+    ],
+    "explanation": "by firelight 借火光，flickering firelight 闪烁火光；常见于夜景、叙事。",
+    "usage": "by firelight；flickering firelight；in the firelight。",
+    "contrast": "firelight 是光，fireplace 是壁炉位置、装置；一句 glowing firelight 不表示一整个发光的房间。",
+    "examples": [
+      [
+        "They sat talking by firelight.",
+        "他们借着火光坐着聊天。"
+      ],
+      [
+        "Her face glowed in the firelight.",
+        "她的脸被火光映得暖暖的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firelight#English"
+    ]
+  },
+  {
+    "word": "torchlight",
+    "ipa": "英 /ˈtɔːtʃlaɪt/；美 /ˈtɔːrtʃlaɪt/",
+    "meaning": "火把光；手电筒光〔尤英式〕",
+    "sense": "黑暗里一束随手移动的光；古时可能是火把，英式现代也可能是手电筒。",
+    "split": "torch + light，torch 的火把、英式手电筒两种义都能参与，不规定每次都有燃烧的火。",
+    "history": [
+      [
+        "torch；light",
+        "并列构词部分"
+      ],
+      [
+        "torchlight",
+        "火把或手电筒发出的光"
+      ]
+    ],
+    "explanation": "by torchlight 借火把、手电光，a torchlight procession 火炬游行。先看时代场景，别把探洞者的 torchlight 都想成明火。",
+    "usage": "by torchlight；a torchlight procession；a beam of torchlight。",
+    "contrast": "torchlight 是发出的光，torch / flashlight 是工具；不同地区 torch 的常用指向不同。",
+    "examples": [
+      [
+        "They examined the tunnel by torchlight.",
+        "他们借手电光查看隧道。"
+      ],
+      [
+        "A torchlight procession moved through the town.",
+        "火炬游行队伍穿过城镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/torchlight#English"
+    ]
+  },
+  {
+    "word": "twilight",
+    "ipa": "/ˈtwaɪlaɪt/",
+    "meaning": "暮光；曙暮光；衰落期〔比喻〕",
+    "sense": "太阳还没升起或已经落下，天空却没全黑，是昼夜之间的半明半暗。",
+    "split": "twi-（双、两分等旧成分）+ light，中古英语有 twilight、twyelyghte；字面可借半明光记忆，不把前半误作 twist 扭转。",
+    "history": [
+      [
+        "twi-〔旧双、半等关联成分〕；light",
+        "并列构词部分"
+      ],
+      [
+        "twilight",
+        "昼夜之间的微光、时段"
+      ]
+    ],
+    "explanation": "at twilight 在曙暮光时分，the twilight of a career 职业生涯晚期。日常常偏傍晚，但广义也包括日出前。",
+    "usage": "at twilight；in the twilight；the twilight of。",
+    "contrast": "twilight 不只等于 sunset 日落瞬间，也不只等于完全夜晚；技术上还有按太阳高度划分的不同阶段。",
+    "examples": [
+      [
+        "The hills looked blue in the twilight.",
+        "山丘在暮光里显得泛蓝。"
+      ],
+      [
+        "He wrote the book in the twilight of his career.",
+        "他在职业生涯晚期写了这本书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/twilight#English",
+      "https://www.weather.gov/fsd/twilight"
+    ]
+  },
+  {
+    "word": "spotlight",
+    "ipa": "英 /ˈspɒtlaɪt/；美 /ˈspɑːtlaɪt/",
+    "meaning": "聚光灯；公众关注；突出关注",
+    "sense": "舞台四周暗，光圈只照一个人，所有目光自然集中过去。",
+    "split": "spot（点、某一处）+ light，由集中照亮的灯光、光圈扩到关注焦点。不是给污渍消毒的光。",
+    "history": [
+      [
+        "spot；light",
+        "并列构词部分"
+      ],
+      [
+        "spotlight",
+        "集中照明 → 集中关注"
+      ]
+    ],
+    "explanation": "in the spotlight 受瞩目，put a problem in the spotlight 让问题受到关注；动词 spotlight a problem 是突出呈现。",
+    "usage": "in the spotlight；put in the spotlight；spotlight a problem。",
+    "contrast": "spotlight 常照特定焦点，floodlight 常大范围照明；比喻 spotlight 关注可以是荣耀，也可以是被审视。",
+    "examples": [
+      [
+        "A spotlight followed the dancer across the stage.",
+        "一束聚光追着舞者掠过舞台。"
+      ],
+      [
+        "The report put working conditions in the spotlight.",
+        "报告让工作条件问题受到关注。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/spotlight#English"
+    ]
+  },
+  {
+    "word": "limelight",
+    "ipa": "/ˈlaɪmlaɪt/",
+    "meaning": "公众关注；风头；石灰光〔旧照明〕",
+    "sense": "旧剧场用强光照住主角，站在那束光里的人就站到了众人目光中央。",
+    "split": "lime（石灰）+ light，旧式照明让石灰受热发出强光；不是青柠发出的绿光。舞台用途使 in the limelight 转为受公众关注。",
+    "history": [
+      [
+        "lime〔石灰〕；light",
+        "并列构词部分"
+      ],
+      [
+        "limelight",
+        "旧石灰光照明 → 舞台与公众关注焦点"
+      ]
+    ],
+    "explanation": "in the limelight 出风头、受关注，avoid the limelight 避开公众目光。今天通常先遇到比喻义，材料来源解释这个比喻。",
+    "usage": "in the limelight；avoid the limelight；steal the limelight。",
+    "contrast": "limelight 与 spotlight 的关注义常近；limelight 的 lime 是石灰，不是柑橘水果。",
+    "examples": [
+      [
+        "She prefers to stay out of the limelight.",
+        "她更愿意远离公众关注。"
+      ],
+      [
+        "The young actor suddenly found himself in the limelight.",
+        "年轻演员突然成了关注焦点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/limelight#English",
+      "https://www.etymonline.com/word/limelight"
+    ]
+  },
+  {
+    "word": "flashlight",
+    "ipa": "/ˈflæʃlaɪt/",
+    "meaning": "手电筒〔尤美式〕",
+    "sense": "手里拿着一个小光源，把黑暗里想看的地方照出来。",
+    "split": "flash + light，早期便携电灯与短时闪照的命名背景有关；今天的 flashlight 可以持续亮，不要求只能闪一下。",
+    "history": [
+      [
+        "flash；light",
+        "并列构词部分"
+      ],
+      [
+        "flashlight",
+        "便携手持电灯：手电筒"
+      ]
+    ],
+    "explanation": "turn on a flashlight 打开手电，shine a flashlight into a room 用手电往屋里照。英式常叫 torch。",
+    "usage": "turn on a flashlight；a flashlight beam；shine a flashlight into。",
+    "contrast": "flashlight 手电筒，flash 摄影闪光可指瞬时闪光或闪光装置；现代主要义不能只凭前半相同混用。",
+    "examples": [
+      [
+        "She shone a flashlight under the bed.",
+        "她用手电照床底。"
+      ],
+      [
+        "The flashlight batteries were nearly empty.",
+        "手电筒电池快没电了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/flashlight#English"
+    ]
+  },
+  {
+    "word": "searchlight",
+    "ipa": "英 /ˈsɜːtʃlaɪt/；美 /ˈsɜːrtʃlaɪt/",
+    "meaning": "探照灯",
+    "sense": "强光束扫过远处或黑暗，把想寻找的目标照出来。",
+    "split": "search + light，按搜索、照见目标的用途命名；不等于计算机搜索框里的小图标。",
+    "history": [
+      [
+        "search；light",
+        "并列构词部分"
+      ],
+      [
+        "searchlight",
+        "投射强定向光束以寻找、照见目标的灯"
+      ]
+    ],
+    "explanation": "a searchlight beam 探照灯光束，sweep with a searchlight 用探照灯扫视；可用于搜寻、展示等场景。",
+    "usage": "a searchlight beam；sweep a searchlight across；a powerful searchlight。",
+    "contrast": "searchlight 常远距离扫查，spotlight 常突出焦点；设备、用途可重叠，不靠名字规定绝对功率线。",
+    "examples": [
+      [
+        "A searchlight swept across the dark hillside.",
+        "探照灯扫过黑暗山坡。"
+      ],
+      [
+        "The boat’s searchlight picked out a marker in the water.",
+        "船的探照灯照见水里一个标记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/searchlight#English"
+    ]
+  },
+  {
+    "word": "floodlight",
+    "ipa": "/ˈflʌdlaɪt/",
+    "meaning": "泛光灯；大面积照明；用泛光灯照亮",
+    "sense": "光不像细小手电束，而像涌开一大片，把球场、楼面整个照亮。",
+    "split": "flood（大量涌入、漫开）+ light，flood 是光铺开的比喻，不是设备泡在洪水里。",
+    "history": [
+      [
+        "flood；light",
+        "并列构词部分"
+      ],
+      [
+        "floodlight",
+        "大范围强光照明；相关灯具、动词"
+      ]
+    ],
+    "explanation": "stadium floodlights 球场泛光灯，a floodlit building 被泛光照亮的建筑。过去、分词常 floodlit，也有 floodlighted。",
+    "usage": "stadium floodlights；under floodlights；floodlight a building。",
+    "contrast": "floodlight 照一大片，spotlight 聚一个焦点；两者服务不同照明任务，不是简单质量高低。",
+    "examples": [
+      [
+        "The players trained under floodlights.",
+        "球员们在泛光灯下训练。"
+      ],
+      [
+        "The castle was floodlit after dark.",
+        "天黑后，城堡被泛光灯照亮。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/floodlight#English"
+    ]
+  },
+  {
+    "word": "taillight",
+    "ipa": "/ˈteɪllaɪt/",
+    "meaning": "车尾灯〔尤美式〕",
+    "sense": "从车后看，尾部的灯让人看见车辆位置、状态。",
+    "split": "tail（尾部）+ light，按车的部位命名，不是动物尾巴真的发光。",
+    "history": [
+      [
+        "tail；light",
+        "并列构词部分"
+      ],
+      [
+        "taillight",
+        "车辆尾部的灯"
+      ]
+    ],
+    "explanation": "a broken taillight 坏掉的尾灯，red taillights 红色尾灯；英式也常说 rear light。",
+    "usage": "a broken taillight；red taillights；replace a taillight。",
+    "contrast": "taillight 尾灯，headlight 前照灯；brake light 是制动灯功能，名称关注点不同，具体布置看车辆。",
+    "examples": [
+      [
+        "The car’s left taillight was broken.",
+        "汽车左尾灯坏了。"
+      ],
+      [
+        "We watched the taillights disappear down the road.",
+        "我们看着尾灯沿路远去，消失不见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/taillight#English"
+    ]
+  },
+  {
+    "word": "skylight",
+    "ipa": "/ˈskaɪlaɪt/",
+    "meaning": "天窗；天空散射光〔专门义〕",
+    "sense": "窗开在屋顶，从上面把天空的光引进屋里。",
+    "split": "sky + light，日常主要名词义是引入天光的天窗，不是所有出现在天空的亮点。",
+    "history": [
+      [
+        "sky；light",
+        "并列构词部分"
+      ],
+      [
+        "skylight",
+        "引入天光的屋顶窗；另可指天空散射光"
+      ]
+    ],
+    "explanation": "a roof skylight 屋顶天窗，light through the skylight 天窗透进的光；光学用法另可指天空散射光。",
+    "usage": "a large skylight；install a skylight；through the skylight。",
+    "contrast": "skylight 日常是窗，starlight 是光；不要只见后半 light 就把每个复合词都当光线本身。",
+    "examples": [
+      [
+        "A skylight brightens the top-floor room.",
+        "一扇天窗照亮了顶层房间。"
+      ],
+      [
+        "Rain tapped on the skylight above the bed.",
+        "雨点敲打着床上方的天窗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/skylight#English"
+    ]
+  },
+  {
+    "word": "lightbox",
+    "ipa": "/ˈlaɪtbɒks/；美 /ˈlaɪtbɑːks/",
+    "meaning": "灯箱；透光查看、拍摄等用箱体；网页浮层预览〔技术语境〕",
+    "sense": "箱体里装光源，透光面把图片、物体照清；网页里突出一张大图也借了这个名字。",
+    "split": "light + box；网页义与同名图像展示技术的名称推广有关，不表示浏览器真的打开一个实体箱子。",
+    "history": [
+      [
+        "light；box",
+        "并列构词部分"
+      ],
+      [
+        "lightbox",
+        "装有光源的箱体；比喻图片浮层预览"
+      ]
+    ],
+    "explanation": "a photographic lightbox 摄影、看透明片用灯箱，a lightbox preview 网页浮层预览。不同产品用途有别，不把所有灯箱当相同器材。",
+    "usage": "a photographic lightbox；a lightbox display；a lightbox preview。",
+    "contrast": "lightbox 主要是装置或显示形式，flashlight 手持手电；都有灯不代表体积、用途相同。",
+    "examples": [
+      [
+        "She placed the slide on the lightbox.",
+        "她把幻灯片放到灯箱上查看。"
+      ],
+      [
+        "Clicking the thumbnail opens a lightbox preview.",
+        "点击缩略图会打开浮层大图预览。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightbox#English"
+    ]
+  },
+  {
+    "word": "lightsaber",
+    "ipa": "英 /ˈlaɪtseɪbə/；美 /ˈlaɪtseɪbər/",
+    "meaning": "光剑〔科幻武器或其道具〕",
+    "sense": "不是金属剑刃，而是影视想象里亮起的一道能量剑刃。",
+    "split": "light + saber（军刀、剑），因《星球大战》系列而广为人知；是虚构世界里的武器名称。英式也有 lightsabre 拼写。",
+    "history": [
+      [
+        "light；saber",
+        "并列构词部分"
+      ],
+      [
+        "lightsaber",
+        "科幻中的光剑；相关玩具、道具"
+      ]
+    ],
+    "explanation": "a toy lightsaber 玩具光剑，a lightsaber duel 光剑对决。真实道具的灯光效果不等于能做出故事中的能量武器。",
+    "usage": "a toy lightsaber；a lightsaber duel；a lightsaber prop。",
+    "contrast": "lightsaber 是科幻命名，flashlight 是照明工具；发光不保证有虚构武器的性能。",
+    "examples": [
+      [
+        "The child carried a toy lightsaber to the costume party.",
+        "孩子带着玩具光剑参加化装聚会。"
+      ],
+      [
+        "The scene ends with a lightsaber duel.",
+        "场景以一场光剑对决结束。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightsaber#English"
+    ]
+  },
+  {
+    "word": "lightspeed",
+    "ipa": "/ˈlaɪtspiːd/",
+    "meaning": "光速；极快速度〔夸张〕",
+    "sense": "按光传播的速度来命名；日常夸快得离谱，也会借这个画面。",
+    "split": "light + speed，日常物理表述更常分写 speed of light；连写 lightspeed 在科幻和部分一般用法中常见。",
+    "history": [
+      [
+        "light；speed",
+        "并列构词部分"
+      ],
+      [
+        "lightspeed",
+        "光传播速度；夸张的极快"
+      ]
+    ],
+    "explanation": "travel at lightspeed 以光速行进。物理语境通常需分清真空或介质；这里只抓词义，不把科幻飞船写成已实现技术。",
+    "usage": "at lightspeed；approach lightspeed；move at lightspeed。",
+    "contrast": "lightspeed 光速，lightweight 轻量；相同前半来自不同 light 义，不能凭字面说轻的都快。",
+    "examples": [
+      [
+        "In the novel, the message travels at lightspeed.",
+        "小说中，消息以光速传播。"
+      ],
+      [
+        "The story imagines a ship approaching lightspeed.",
+        "故事设想了一艘速度接近光速的飞船。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lightspeed#English"
+    ]
+  }
+]

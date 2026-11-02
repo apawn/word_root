@@ -1,0 +1,1235 @@
+[
+  {
+    "word": "high",
+    "ipa": "/haɪ/",
+    "meaning": "高的；数值或程度大的；高地位的；兴奋的",
+    "sense": "把东西放到一把尺上，位置或数值靠上；声音也能沿音高往上走。",
+    "split": "接古英语 hēah，经中古英语 high 等形式延续。gh 保留较早发音的拼写痕迹，现代常用音中不单独发 /ɡ/ 或 /h/。",
+    "history": [
+      [
+        "古英语 hēah → 中古英语 high／heigh",
+        "高、重要、显著"
+      ],
+      [
+        "英语 high",
+        "位置、数值、程度、地位等的高"
+      ]
+    ],
+    "explanation": "a high wall 是高墙，high prices 是高价，a high voice 是高音调，不一定音量大。feel high 可说亢奋，也可有受物质影响的语境，需看前后文。",
+    "usage": "high quality；high temperature；high hopes；a high voice。",
+    "contrast": "tall 常说人或细长直立物的高度，high 更强调位置、水平或程度。a tall man 通常自然，a high man 一般不会只表示身高高。",
+    "examples": [
+      [
+        "The shelf is too high for the child to reach.",
+        "架子太高，孩子够不到。"
+      ],
+      [
+        "We have high hopes for the new project.",
+        "我们对新项目寄予厚望。"
+      ],
+      [
+        "The singer reached a very high note.",
+        "歌手唱到了一个很高的音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/high#English"
+    ]
+  },
+  {
+    "word": "highly",
+    "ipa": "/ˈhaɪli/",
+    "meaning": "高度地；非常；很高评价地",
+    "sense": "把评价、能力或某种程度抬到较高位置，不一定有身体向上运动。",
+    "split": "high + -ly，接古英语 hēalīce 等相应副词形式。现代 highly 多用于程度和评价，位置副词通常仍用 high。",
+    "history": [
+      [
+        "古英语 hēah → 中古英语 high／heigh",
+        "高、重要、显著"
+      ],
+      [
+        "古英语 hēalīce → 英语 highly",
+        "高度、很高程度地"
+      ]
+    ],
+    "explanation": "highly skilled 是技能很高，highly unlikely 是非常不可能，think highly of someone 是高度评价某人。搭配相对固定，不把它当 very 的万能替代。",
+    "usage": "highly recommended；highly effective；think highly of；highly unlikely。",
+    "contrast": "The bird flew high 说飞得高，不能常规改成 flew highly；She is highly regarded 则说评价高。",
+    "examples": [
+      [
+        "The course is highly recommended by former students.",
+        "往届学生高度推荐这门课。"
+      ],
+      [
+        "It is highly unlikely that the shop will reopen today.",
+        "这家店今天极不可能重新营业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highly#English"
+    ]
+  },
+  {
+    "word": "height",
+    "ipa": "/haɪt/",
+    "meaning": "高度；身高；顶峰",
+    "sense": "从下端量到上端，得到一个高低的数；事情也能到达最盛的那一点。",
+    "split": "接古英语 hēahþu 等高的名词形式，经中古英语演变；现代对应 high 的性质、量名词。不能按常见 eight 的 /eɪt/ 机械读整个词。",
+    "history": [
+      [
+        "古英语 hēah → 中古英语 high／heigh",
+        "高、重要、显著"
+      ],
+      [
+        "古英语 hēahþu → 中古英语 heighte",
+        "高这一性质、量"
+      ],
+      [
+        "英语 height",
+        "高度；盛时、顶点"
+      ]
+    ],
+    "explanation": "the height of a building 是楼高，at the height of summer 是盛夏。heights 还可说高处；a fear of heights 是怕高。",
+    "usage": "in height；at a height of；at the height of；a fear of heights。",
+    "contrast": "height 是高度，weight 是重量。拼写相近但现代读音分别 /haɪt/、/weɪt/，不能用同一个韵去猜。",
+    "examples": [
+      [
+        "The tree reaches a height of twenty metres.",
+        "这棵树高达二十米。"
+      ],
+      [
+        "The hotel is busiest at the height of summer.",
+        "酒店在盛夏最忙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/height#English"
+    ]
+  },
+  {
+    "word": "highlight",
+    "ipa": "/ˈhaɪlaɪt/",
+    "meaning": "重点；精彩之处；突出显示；高光",
+    "sense": "在一幅画或一篇文字里，有些地方亮起来，眼睛自然先看见。",
+    "split": "high（强、显著）+ light（光），明亮部分的概念扩展为重要、精彩内容；动词又说使显眼。",
+    "history": [
+      [
+        "英语 high；light",
+        "组合时并列的两种材料"
+      ],
+      [
+        "high + light → highlight",
+        "亮处、高光 → 重点、精彩处；突出"
+      ]
+    ],
+    "explanation": "the highlight of the trip 是旅程最精彩部分，highlight a sentence 是高亮句子，highlight a problem 是特别指出问题。hair highlights 则是头发挑染的亮色部分。",
+    "usage": "the highlight of；highlight a problem；video highlights；highlight text。",
+    "contrast": "highlight 可以突出坏问题，不只夸好事；a key issue 是关键问题，highlighting it 是让人特别注意到。",
+    "examples": [
+      [
+        "The concert was the highlight of our trip.",
+        "音乐会是我们旅程中最精彩的一段。"
+      ],
+      [
+        "The report highlights a shortage of trained staff.",
+        "报告着重指出了受训人员不足的问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highlight#English"
+    ]
+  },
+  {
+    "word": "highland",
+    "ipa": "/ˈhaɪlənd/",
+    "meaning": "高地；高地的",
+    "sense": "和周围低处相比，整片土地处在较高地势，而不只是一根高高的山峰。",
+    "split": "接古英语 hēahland 等形式；现代对应 high + land，指较高区域，具体地理名称另有范围。",
+    "history": [
+      [
+        "古英语 hēah → 中古英语 high／heigh",
+        "高、重要、显著"
+      ],
+      [
+        "古英语 hēahland → 英语 highland",
+        "较高地势的土地、地区"
+      ]
+    ],
+    "explanation": "highland villages 是高地村庄，a highland region 是高地区域。可以说某地海拔较高或相对地势高，不指定全球统一米数。",
+    "usage": "a highland region；highland villages；highland scenery。",
+    "contrast": "highland 是一片高地，hilltop 是丘顶，mountain 是山体；地形尺度与观察角度不同。",
+    "examples": [
+      [
+        "The road passes through a highland region.",
+        "道路穿过一片高地区域。"
+      ],
+      [
+        "The plants are adapted to highland conditions.",
+        "这些植物适应高地环境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highland#English"
+    ]
+  },
+  {
+    "word": "highlands",
+    "ipa": "/ˈhaɪləndz/",
+    "meaning": "高地区域；苏格兰高地〔专名〕",
+    "sense": "把连成一片的高地、山岭看成一个区域。",
+    "split": "highland 的复数，亦可视作 high + lands；普通地形集合用法与大写 Highlands 的专名用法应区分。",
+    "history": [
+      [
+        "古英语 hēah → 中古英语 high／heigh",
+        "高、重要、显著"
+      ],
+      [
+        "highland + -s → highlands",
+        "高地的集合、区域"
+      ],
+      [
+        "大写 the Highlands 的常见特指",
+        "语境中常指苏格兰高地"
+      ]
+    ],
+    "explanation": "the Scottish Highlands 是苏格兰高地；the highlands of an island 可泛说岛上的高地区域。看到小写 highlands 不必自动定位到苏格兰。",
+    "usage": "the Scottish Highlands；in the highlands；highlands and lowlands。",
+    "contrast": "highlands 是地形、地域集合，highness 是性质名词或尊称；结尾变化不能随意互换。",
+    "examples": [
+      [
+        "They spent a week walking in the Scottish Highlands.",
+        "他们在苏格兰高地徒步了一周。"
+      ],
+      [
+        "The island’s highlands are cooler than its coast.",
+        "岛上高地区域比沿海凉爽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highlands#English"
+    ]
+  },
+  {
+    "word": "highness",
+    "ipa": "/ˈhaɪnəs/",
+    "meaning": "高；高的性质；殿下〔尊称〕",
+    "sense": "地位被放在高处，形成对某些王室成员的礼貌称谓。",
+    "split": "high + -ness，性质名词材料转用于高地位的称呼。一般量高度常用 height，highness 的现代常见场景是大写尊称。",
+    "history": [
+      [
+        "古英语 hēah → 中古英语 high／heigh",
+        "高、重要、显著"
+      ],
+      [
+        "英语 high",
+        "位置、数值、程度、地位等的高"
+      ],
+      [
+        "high + -ness → highness",
+        "高的性质"
+      ],
+      [
+        "Highness 的称呼用法",
+        "对特定王室成员的尊称"
+      ]
+    ],
+    "explanation": "Your Highness 用于直接称呼，His／Her Highness 用于提及；具体谁使用什么称号要看当地制度，不凭词形一概分配。",
+    "usage": "Your Highness；Her Highness；His Royal Highness。",
+    "contrast": "height 常量物理高度，Highness 常是称呼。问身高用 What is your height?，不会通常用 your highness。",
+    "examples": [
+      [
+        "“Welcome, Your Highness,” said the host.",
+        "主人说：“欢迎您，殿下。”"
+      ],
+      [
+        "The invitation used the title Her Highness.",
+        "请柬使用了“殿下”这一称号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/highness#English"
+    ]
+  },
+  {
+    "word": "highbrow",
+    "ipa": "/ˈhaɪbraʊ/",
+    "meaning": "高雅文化的；知识性强的；自认高雅的人",
+    "sense": "作品或谈话需要较多知识背景，也可能被人批评为故作高深。",
+    "split": "high + brow（额头），历史上关联曾把额头形状与智力硬挂钩的观念；那种看骨相判断智力的理论已被否定，词仍留下文化等级的比喻。",
+    "history": [
+      [
+        "英语 high；brow〔额头〕",
+        "组合时并列的两种材料"
+      ],
+      [
+        "high + brow〔额头〕 → highbrow",
+        "由旧相貌观念转为知识、文化趣味的评价"
+      ]
+    ],
+    "explanation": "highbrow literature 可说知识要求高的文学，也可讽刺过分高雅；a highbrow 是有或自认有高深趣味的人。语气取决于叙述者。",
+    "usage": "highbrow culture；a highbrow magazine；highbrow entertainment。",
+    "contrast": "highbrow 不等于客观更聪明，也不保证作品更好；它说一种被划出的文化趣味和风格。",
+    "examples": [
+      [
+        "The programme mixes highbrow discussion with popular entertainment.",
+        "节目把高深讨论与大众娱乐结合起来。"
+      ],
+      [
+        "He dismissed the novel as too highbrow for his taste.",
+        "他觉得小说太高深，不合自己的口味。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/highbrow",
+      "https://en.wiktionary.org/wiki/highbrow"
+    ]
+  },
+  {
+    "word": "highball",
+    "ipa": "/ˈhaɪbɔːl/",
+    "meaning": "高球饮料；海波杯；铁路放行信号〔历史〕",
+    "sense": "饮品语境先想高玻璃杯里的一类调和饮料，不是把球往天上扔。",
+    "split": "high + ball，名称解释不一：饮料义可能联系高杯和 ball“饮一杯”的旧口语；同期铁路信号也有举球示放行用法，不把后者断言成饮品义的唯一祖先。",
+    "history": [
+      [
+        "并行相关材料：高杯与旧 ball 饮酒用法；铁路举球信号",
+        "名称有不同解释，不能强串单线"
+      ],
+      [
+        "英语 highball 的常见饮料义",
+        "高杯盛装的烈酒加较多无酒精配料一类饮品"
+      ]
+    ],
+    "explanation": "常见 whisky highball，也可指相应高杯。此处学习饮料名称与器皿，不规定所有版本配比；铁路历史文献中还可有放行信号或迅速行进相关义。",
+    "usage": "a whisky highball；a highball glass；order a highball。",
+    "contrast": "highball 作为饮料名不表示含有球；与 basketball、baseball 的 ball 是不同具体用法。",
+    "examples": [
+      [
+        "The menu lists a whisky highball among the drinks.",
+        "菜单在饮品中列有威士忌高球。"
+      ],
+      [
+        "The waiter brought the drink in a tall highball glass.",
+        "服务员把饮料装在高海波杯里端来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/highball",
+      "https://en.wiktionary.org/wiki/highball"
+    ]
+  },
+  {
+    "word": "home",
+    "ipa": "英 /həʊm/；美 /hoʊm/",
+    "meaning": "家；故乡；回家；在家；主场的",
+    "sense": "不只是墙和屋顶，而是你回去、归属、过日子的地方。",
+    "split": "接古英语 hām，经中古英语 hom 延续，早有居住地、村落等义。现代名词、副词及修饰语用法并存。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "英语 home",
+        "家；故乡；回家；主场等"
+      ]
+    ],
+    "explanation": "go home、come home 中 home 作方向副词，通常不加 to；at home 是在家或自在。home team 是主队，home page 是网站入口页，不一定物理住处。",
+    "usage": "at home；go home；feel at home；a home game；home page。",
+    "contrast": "house 侧重房屋建筑，home 侧重居住、归属与生活。租的公寓也可以是 home，不要求拥有一栋 house。",
+    "examples": [
+      [
+        "I will be home by six.",
+        "我六点前会到家。"
+      ],
+      [
+        "She made the small apartment feel like home.",
+        "她让小公寓有了家的感觉。"
+      ],
+      [
+        "Our team is playing at home this weekend.",
+        "我们队这周末在主场比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/home#English"
+    ]
+  },
+  {
+    "word": "homeless",
+    "ipa": "英 /ˈhəʊmləs/；美 /ˈhoʊmləs/",
+    "meaning": "无家可归的",
+    "sense": "缺少可稳定回去生活的住处，而不是某天暂时没待在家里。",
+    "split": "home + -less，接古英语 hāmlēas 等形式；-less 表缺少家的安置、居所。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "古英语 hāmlēas → 英语 homeless",
+        "没有家、无稳定住所的"
+      ]
+    ],
+    "explanation": "homeless people 是无家可归者，become homeless 是失去住所。具体处境包括不同形式，不只是在街上过夜；描述人时可强调人本身。",
+    "usage": "become homeless；homeless people；support people who are homeless。",
+    "contrast": "homeless 不等于 homesick 想家；一个暂住外地的人可能 homesick 却有稳定的家。",
+    "examples": [
+      [
+        "The fire left several families homeless.",
+        "火灾让几家人无家可归。"
+      ],
+      [
+        "The organisation helps people who are homeless find accommodation.",
+        "组织帮助无家可归的人寻找住处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeless#English"
+    ]
+  },
+  {
+    "word": "homeland",
+    "ipa": "英 /ˈhəʊmlænd/；美 /ˈhoʊmlænd/",
+    "meaning": "祖国；故土",
+    "sense": "把归属感放大到土地、国家或族群的原居地。",
+    "split": "home（故乡、归属地）+ land（土地、地区），按归属关系组合，不自动等于法律上某种国籍。",
+    "history": [
+      [
+        "英语 home；land",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + land → homeland",
+        "自己或族群视为家园的土地"
+      ]
+    ],
+    "explanation": "return to one’s homeland 是返回故土。不同人的 homeland 可由出生、家庭、文化等经历定义，叙述时看人物自己怎样认同。",
+    "usage": "one’s homeland；return to the homeland；a distant homeland。",
+    "contrast": "homeland 与 hometown 不同，前者通常较大范围，后者是成长或家乡城镇。",
+    "examples": [
+      [
+        "She returned to her homeland after many years abroad.",
+        "在国外多年后，她回到了故土。"
+      ],
+      [
+        "The songs reminded him of his homeland.",
+        "这些歌让他想起故乡土地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeland#English"
+    ]
+  },
+  {
+    "word": "hometown",
+    "ipa": "英 /ˈhəʊmtaʊn/；美 /ˈhoʊmtaʊn/",
+    "meaning": "家乡；成长或视为故乡的城镇",
+    "sense": "问起你从哪里来，脑中浮现成长的街道、学校和熟悉的人。",
+    "split": "home（家乡、归属）+ town（城镇），指一个人原来生活、成长或认作家乡的地方。",
+    "history": [
+      [
+        "英语 home；town",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + town → hometown",
+        "作为故乡的城镇"
+      ]
+    ],
+    "explanation": "my hometown 常说家乡，不必一定是出生那家医院所在城市。a hometown hero 是当地引以为傲的人。",
+    "usage": "return to one’s hometown；a hometown hero；one’s hometown。",
+    "contrast": "birthplace 是出生地，hometown 更强调成长或家乡联系；两者可能一致，也可能不同。",
+    "examples": [
+      [
+        "She showed me around her hometown.",
+        "她带我逛了她的家乡。"
+      ],
+      [
+        "The runner received a warm welcome in his hometown.",
+        "跑者在家乡受到热烈欢迎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hometown#English"
+    ]
+  },
+  {
+    "word": "homemade",
+    "ipa": "英 /ˌhəʊmˈmeɪd/；美 /ˌhoʊmˈmeɪd/",
+    "meaning": "自制的；家里做的",
+    "sense": "不是从工厂现成买来，而是有人在家或自己动手做出。",
+    "split": "home（在家、自家）+ made（make 的分词：做成的），表示制作地点或方式。两种成分并列，不把 home 画成 make 的来源。",
+    "history": [
+      [
+        "英语 home；made",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + made → homemade",
+        "自家、自己制作的"
+      ]
+    ],
+    "explanation": "homemade bread 是自制面包，a homemade sign 是自己做的牌子。名称本身不保证更健康、更安全或品质更好，重点只是来源方式。",
+    "usage": "homemade bread；homemade soup；a homemade gift。",
+    "contrast": "homemade 是自己制作，homegrown 多说本地种出、培养出的。面包制作与蔬菜生长是不同动作。",
+    "examples": [
+      [
+        "She served homemade soup and bread.",
+        "她端上自制汤和面包。"
+      ],
+      [
+        "The children carried a homemade sign.",
+        "孩子们举着自己做的牌子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homemade#English"
+    ]
+  },
+  {
+    "word": "homegrown",
+    "ipa": "英 /ˌhəʊmˈɡrəʊn/；美 /ˌhoʊmˈɡroʊn/",
+    "meaning": "自家种的；本地培养的；本土的",
+    "sense": "植物在自家地里长出，人才或产业也可以在本地环境中培养起来。",
+    "split": "home（自家、本地）+ grown（grow 的分词：生长、培养出来），从农业用法扩到人才、技术等。",
+    "history": [
+      [
+        "英语 home；grown",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + grown → homegrown",
+        "自家种植；本地生长培养"
+      ]
+    ],
+    "explanation": "homegrown tomatoes 是自家番茄，homegrown talent 是本土培养的人才。不由词名判断好坏，只说明形成地与来源。",
+    "usage": "homegrown vegetables；homegrown talent；a homegrown business。",
+    "contrast": "homegrown 与 homemade 都可说本地、自制，但 grow 强调生长培养，make 强调制作。",
+    "examples": [
+      [
+        "The salad uses homegrown tomatoes.",
+        "沙拉用了自家种的番茄。"
+      ],
+      [
+        "The festival supports homegrown musicians.",
+        "音乐节支持本土音乐人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homegrown#English"
+    ]
+  },
+  {
+    "word": "homecoming",
+    "ipa": "英 /ˈhəʊmkʌmɪŋ/；美 /ˈhoʊmkʌmɪŋ/",
+    "meaning": "归来；返乡；校友返校庆典〔美式〕",
+    "sense": "离开过一段时间的人回来了，熟悉的人和地方重新相聚。",
+    "split": "中古英语 home-coming 等形式，关联更早古英语 hāmcyme 归来；现代对应 home + coming。美国校园用法再指返校庆典。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "古英语 hāmcyme／中古英语 home-coming 一系",
+        "回到家、归来"
+      ],
+      [
+        "英语 homecoming",
+        "归来；美国校园返校庆典"
+      ]
+    ],
+    "explanation": "a joyful homecoming 是愉快归来；美国 homecoming weekend 常有校友活动和比赛。不同学校安排不同，不只是一场舞会。",
+    "usage": "a homecoming celebration；homecoming weekend；a warm homecoming。",
+    "contrast": "homecoming 是回来这件事或庆典，coming home 是更普通的动作短语；仪式义不能每句都反过来套。",
+    "examples": [
+      [
+        "The village celebrated the sailor’s homecoming.",
+        "村子庆祝水手归来。"
+      ],
+      [
+        "Former students returned for homecoming weekend.",
+        "往届学生在返校庆典周末回到学校。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homecoming#English"
+    ]
+  },
+  {
+    "word": "homeowner",
+    "ipa": "英 /ˈhəʊməʊnə/；美 /ˈhoʊmoʊnər/",
+    "meaning": "住宅业主；房屋所有者",
+    "sense": "住在这里的人未必拥有房子，homeowner 特别把所有权这一面说出来。",
+    "split": "home（住宅）+ owner（所有者），按拥有住宅的关系命名。",
+    "history": [
+      [
+        "英语 home；owner",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + owner → homeowner",
+        "拥有住宅的人"
+      ]
+    ],
+    "explanation": "可指自住房主，也可按具体叙述涉及其他住宅持有人。是否有贷款不影响这个词的一般识别，具体权利状态由现实文件确定。",
+    "usage": "local homeowners；a homeowner’s costs；first-time homeowners。",
+    "contrast": "homeowner 是所有者，tenant 是租客，resident 是居住者；同一个人身份可重叠，但概念不同。",
+    "examples": [
+      [
+        "The survey asked homeowners about repair costs.",
+        "调查询问住宅业主的维修开支。"
+      ],
+      [
+        "The new homeowners planted trees in the garden.",
+        "新房主在花园种了树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeowner#English"
+    ]
+  },
+  {
+    "word": "homeownership",
+    "ipa": "英 /ˈhəʊməʊnəʃɪp/；美 /ˈhoʊmoʊnərʃɪp/",
+    "meaning": "住房所有权；拥有自有住房的状态",
+    "sense": "从一个房主转成一种状态：人有没有自己拥有的住宅。",
+    "split": "homeowner + -ship，或 home + ownership 的对应分析；-ship 在此表身份、状态，不是船。",
+    "history": [
+      [
+        "英语 homeowner；-ship",
+        "组合时并列的两种材料"
+      ],
+      [
+        "homeowner + -ship → homeownership",
+        "拥有住宅这一状态、关系"
+      ]
+    ],
+    "explanation": "homeownership rate 是住房自有率等统计表达，具体统计口径需看来源。costs of homeownership 包括维持住宅的多类成本，不只购房价。",
+    "usage": "homeownership rates；the costs of homeownership；access to homeownership。",
+    "contrast": "homeownership 是所有关系，homelessness 是缺稳定住所的处境；没有自有产权不自动等于无家可归。",
+    "examples": [
+      [
+        "The report examines changes in homeownership.",
+        "报告考察住房自有状况的变化。"
+      ],
+      [
+        "They compared the costs of renting with those of homeownership.",
+        "他们比较了租房与自有住房的成本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeownership#English"
+    ]
+  },
+  {
+    "word": "homesick",
+    "ipa": "英 /ˈhəʊmsɪk/；美 /ˈhoʊmsɪk/",
+    "meaning": "想家的；思乡的",
+    "sense": "人到了新地方，心却反复回到熟悉的屋子、饭菜和身边人。",
+    "split": "可按 home + sick 理解，表达背景联系德语 Heimweh“家之痛”；部分词典分析形容词由 homesickness 逆构。不是自己家的房屋生病，也不是只因吃坏东西。",
+    "history": [
+      [
+        "德语 Heimweh 与英语 home／sick 的表达背景",
+        "离家产生的难受、思念"
+      ],
+      [
+        "homesickness／homesick 的英语词形组",
+        "思乡状态；想家的"
+      ]
+    ],
+    "explanation": "feel homesick 常用于离家上学、旅行、迁居。强度可以轻微或很深，词本身不是给出特定疾病诊断。",
+    "usage": "feel homesick；be homesick for；a homesick student。",
+    "contrast": "homesick 是想家，sick of home 却可能是厌烦家。词序与介词一变，情绪对象就相反。",
+    "examples": [
+      [
+        "She felt homesick during her first week away.",
+        "离家的第一周，她很想家。"
+      ],
+      [
+        "The familiar song made him homesick for his village.",
+        "熟悉的歌让他想念自己的村庄。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/homesick",
+      "https://www.dictionary.com/browse/homesick",
+      "https://en.wiktionary.org/wiki/homesick"
+    ]
+  },
+  {
+    "word": "homesickness",
+    "ipa": "英 /ˈhəʊmsɪknəs/；美 /ˈhoʊmsɪknəs/",
+    "meaning": "思乡；想家的难受",
+    "sense": "离开熟悉的人与生活后，思念积在心里，成了一种持续感觉。",
+    "split": "形式可识别 home + sickness，表达联系德语 Heimweh 的仿译；现代与 homesick 对应，但不能只因名词更长就认定历史上一定后造。",
+    "history": [
+      [
+        "德语 Heimweh 的表达背景；英语 home + sickness",
+        "家与思念造成的难受"
+      ],
+      [
+        "英语 homesickness",
+        "离家后的思乡感"
+      ]
+    ],
+    "explanation": "通常不可数，a feeling of homesickness 是一种思乡情绪。现代日常不必带早期把思乡视为医学症候的所有观念。",
+    "usage": "a wave of homesickness；suffer from homesickness；overcome homesickness。",
+    "contrast": "homesickness 是状态名词，homesick 是形容词；I felt homesick 与 I felt homesickness 句法不同，前者更常用。",
+    "examples": [
+      [
+        "A call from home eased her homesickness.",
+        "家里打来的电话减轻了她的思乡。"
+      ],
+      [
+        "The smell of the soup brought a sudden wave of homesickness.",
+        "汤的香味让他突然涌起强烈思乡。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/homesickness",
+      "https://en.wiktionary.org/wiki/homesickness"
+    ]
+  },
+  {
+    "word": "homely",
+    "ipa": "英 /ˈhəʊmli/；美 /ˈhoʊmli/",
+    "meaning": "舒适家常的〔多英式〕；相貌平平的〔多美式〕",
+    "sense": "原本是像家一样熟悉朴素；地区用法一变，也可能在评价外表不出众。",
+    "split": "接中古英语 homly、hoomly 等家常、熟悉、朴素用法，相关更早 home + -ly 形容词材料。-ly 在此不是普通副词。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "中古英语 homly 等家常、朴素用法 → homely",
+        "像家的；朴素；不同地区发展出不同评价"
+      ]
+    ],
+    "explanation": "英式 a homely room 常是温馨家常；美式说 a homely person 常是相貌平平，可能伤人。夸美国人住处温馨，homey 更不易歧义。",
+    "usage": "a homely atmosphere；homely comforts；a homely face。",
+    "contrast": "homely 与 lovely 都以 -ly 结尾，但不保证相同赞美；特别描述人外貌时注意地区差别。",
+    "examples": [
+      [
+        "The British guest described the cottage as warm and homely.",
+        "英国客人说小屋温暖又有家的感觉。"
+      ],
+      [
+        "In American usage, calling a person homely may sound unkind.",
+        "在美式用法里，说一个人 homely 可能显得不友善。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homely#English"
+    ]
+  },
+  {
+    "word": "homey",
+    "ipa": "英 /ˈhəʊmi/；美 /ˈhoʊmi/",
+    "meaning": "舒适温馨的；像家的",
+    "sense": "没有豪华排场，却让人放松，愿意坐下来吃饭聊天。",
+    "split": "home + -y，-y 造带有相应性质的形容词，尤常见美式英语；也见 homy 拼写。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "英语 home",
+        "家；故乡；回家；主场等"
+      ],
+      [
+        "home + -y → homey",
+        "像家一样舒适、熟悉的"
+      ]
+    ],
+    "explanation": "a homey atmosphere 是温馨氛围，homey food 可说家常、有亲切感的食物。不是所有简单环境都舒适，词本身是评价。",
+    "usage": "a homey café；a homey atmosphere；feel homey。",
+    "contrast": "homey 形容词是温馨，homie 名词是哥们、熟人；读音可能相同，词性和用法不同。",
+    "examples": [
+      [
+        "The café has a relaxed, homey atmosphere.",
+        "咖啡馆气氛放松又温馨。"
+      ],
+      [
+        "A rug and a few plants made the room feel homey.",
+        "地毯和几盆植物让房间有了家的感觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homey#English"
+    ]
+  },
+  {
+    "word": "homie",
+    "ipa": "英 /ˈhəʊmi/；美 /ˈhoʊmi/",
+    "meaning": "哥们；熟人；同乡伙伴〔俚语〕",
+    "sense": "从同一个地方、圈子走出来，彼此熟悉，把对方当自己人。",
+    "split": "home + -ie 的人物昵称形式，与 homeboy 等美国俚语称呼相关。home 的本地、同乡联系参与意义，不是温馨形容词的标准写法。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "英语 home",
+        "家；故乡；回家；主场等"
+      ],
+      [
+        "home 与俚语伙伴称呼的 -ie → homie",
+        "同圈子、同乡的伙伴"
+      ]
+    ],
+    "explanation": "语气很口语，有特定社群与文化背景，后来流传更广。普通正式邮件称同事不用强行换成 homie。",
+    "usage": "my homie；old homies；hanging out with homies。",
+    "contrast": "homie 是伙伴名词，homey 是像家的形容词。声音近似，也要按句法分。",
+    "examples": [
+      [
+        "He spent the weekend catching up with his old homies.",
+        "他周末与老哥们叙旧。"
+      ],
+      [
+        "The dialogue uses homie as an informal word for a friend.",
+        "对白把 homie 用作朋友的非正式称呼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homie#English"
+    ]
+  },
+  {
+    "word": "homeward",
+    "ipa": "英 /ˈhəʊmwəd/；美 /ˈhoʊmwərd/",
+    "meaning": "向家的；归途中的；朝家地",
+    "sense": "行程方向已经转向家，路还没走完，但目标很明确。",
+    "split": "接古英语 hāmweard，经中古英语 homeward 延续；对应 home + -ward，-ward 表朝向。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "古英语 hāmweard → 英语 homeward",
+        "朝着家、在归途方向"
+      ]
+    ],
+    "explanation": "the homeward journey 是归程；turn homeward 是转向家走。也见 homewards 作副词，homeward 可作修饰语。",
+    "usage": "the homeward journey；turn homeward；homeward bound。",
+    "contrast": "homeward 是方向，homeless 是缺住所；并不因都谈家就处在同一情绪层面。",
+    "examples": [
+      [
+        "We began the homeward journey at sunset.",
+        "日落时，我们踏上归程。"
+      ],
+      [
+        "The birds turned homeward across the fields.",
+        "鸟群穿过田野，朝巢的方向飞去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeward#English"
+    ]
+  },
+  {
+    "word": "homebrew",
+    "ipa": "英 /ˈhəʊmbruː/；美 /ˈhoʊmbruː/",
+    "meaning": "自酿酒；自制、非官方的方案",
+    "sense": "不是现成品牌成品，而是自己在家、在小圈子里做出来的东西。",
+    "split": "home（自家）+ brew（酿造、酿出的饮品），本义自酿，后在技术社群等语境借指自行制作的软件或方案。",
+    "history": [
+      [
+        "英语 home；brew",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + brew → homebrew",
+        "自家酿制物；自制而非官方的方案"
+      ]
+    ],
+    "explanation": "a bottle of homebrew 可说自酿酒；homebrew software 说爱好者自行做的软件。大写也可能是具体软件项目名，需按对象识别。",
+    "usage": "homebrew beer；homebrew software；a homebrew solution。",
+    "contrast": "homebrew 技术比喻不保证合法性、质量或安全性，只说明某种自制、社群制作背景；不是所有 homebrew 都是酒。",
+    "examples": [
+      [
+        "He brought a bottle of homebrew to the dinner.",
+        "他带了一瓶自酿酒来赴晚餐。"
+      ],
+      [
+        "The article describes a homebrew solution to the problem.",
+        "文章介绍了解决这个问题的一套自制方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homebrew#English"
+    ]
+  },
+  {
+    "word": "homeroom",
+    "ipa": "英 /ˈhəʊmruːm/；美 /ˈhoʊmruːm/",
+    "meaning": "学生固定报到教室；班会时段〔美式〕",
+    "sense": "学生一天会去不同学科教室，但还有一个固定的班级据点用来点名、通知事项。",
+    "split": "home（常驻、归属的据点）+ room（房间），学校制度中的特定名称，不是家里的任意房间。",
+    "history": [
+      [
+        "英语 home；room",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + room → homeroom",
+        "学生固定报到的教室或相应时段"
+      ]
+    ],
+    "explanation": "美国等学校语境常见，homeroom teacher 负责该固定班级的一些事务。具体是否每天、何时安排，依学校。",
+    "usage": "a homeroom teacher；during homeroom；report to homeroom。",
+    "contrast": "homeroom 不是 homework 的房间，也不能自动对应所有地区同一种班主任制度；理解功能比硬贴唯一中文名更好。",
+    "examples": [
+      [
+        "The announcement was read during homeroom.",
+        "通知在班级报到时段宣读了。"
+      ],
+      [
+        "Please give the form to your homeroom teacher.",
+        "请把表格交给负责你们固定班级的老师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeroom#English"
+    ]
+  },
+  {
+    "word": "homespun",
+    "ipa": "英 /ˈhəʊmspʌn/；美 /ˈhoʊmspʌn/",
+    "meaning": "家纺的；朴素家常的",
+    "sense": "布是自家纺成的，语言也可以像家常聊天一样朴实、不摆架子。",
+    "split": "home + spun；spun 是 spin“纺”的分词。先指家里纺织材料，后比喻朴素、家常的表达与智慧。",
+    "history": [
+      [
+        "英语 home；spun〔spin 的分词〕",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + spun〔spin 的分词〕 → homespun",
+        "家里纺成；朴实家常的"
+      ]
+    ],
+    "explanation": "homespun cloth 是家纺布；homespun wisdom 是朴素生活智慧，语气可赞亲切，也可轻轻讽刺过于简单。",
+    "usage": "homespun cloth；homespun wisdom；a homespun style。",
+    "contrast": "homespun 强调朴实或自家纺制，homemade 更一般说自制；并非所有家做糕点都叫 homespun。",
+    "examples": [
+      [
+        "The blanket was made from homespun wool.",
+        "毯子用家纺羊毛织成。"
+      ],
+      [
+        "Her speech was full of homespun wisdom.",
+        "她的演讲里满是朴素的生活智慧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homespun#English"
+    ]
+  },
+  {
+    "word": "homecare",
+    "ipa": "英 /ˈhəʊmkeə/；美 /ˈhoʊmker/",
+    "meaning": "居家照护；上门照护",
+    "sense": "接受照料的人留在家里，照护服务来到他的日常生活环境。",
+    "split": "home（家）+ care（照料），也常分开写 home care。词名说明服务场所，内容可能包括日常协助或专业护理等。",
+    "history": [
+      [
+        "英语 home；care",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + care → homecare",
+        "在家中提供的照料服务"
+      ]
+    ],
+    "explanation": "可出现于老年服务、残障支持等叙述，具体人员资质与服务范围须看提供者。词汇本身不决定一种服务适合谁。",
+    "usage": "homecare services；a homecare worker；receive homecare。",
+    "contrast": "homecare 强调在家接受照护，homemaking 关注日常家务管理；两者可有交叉，但不是同一种职业或服务的固定全称。",
+    "examples": [
+      [
+        "The council publishes information about homecare services.",
+        "地方机构发布居家照护服务的信息。"
+      ],
+      [
+        "A homecare worker visits her father each morning.",
+        "一位居家照护员每天上午探访她父亲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homecare#English"
+    ]
+  },
+  {
+    "word": "homebound",
+    "ipa": "英 /ˈhəʊmbaʊnd/；美 /ˈhoʊmbaʊnd/",
+    "meaning": "居家难以外出的；归家途中的",
+    "sense": "一种 bound 是被限制在家里，另一种 bound 是朝家出发；同形却有两种方向感。",
+    "split": "home + bound，bound 可以是受限制的旧分词，也可以是朝某处前往的形容词材料。不能把两个 bound 硬说成同一个现代动词过去式。",
+    "history": [
+      [
+        "home；两种 bound 材料",
+        "家；受限的／朝某处行进的"
+      ],
+      [
+        "英语 homebound",
+        "受限在家；朝家而去"
+      ]
+    ],
+    "explanation": "homebound residents 常是难以出门的居民；homebound travellers 则可说归途中的旅客。是否因疾病、行动困难或其他原因，需要上下文。",
+    "usage": "homebound residents；homebound patients；homebound travellers。",
+    "contrast": "homebound 与 housebound 的受限义可相近，但 homebound 还有返家方向义；看到 bound 要先看主语。",
+    "examples": [
+      [
+        "The library delivers books to homebound residents.",
+        "图书馆为难以外出的居民送书。"
+      ],
+      [
+        "The station was crowded with homebound travellers.",
+        "车站挤满了归家途中的旅客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homebound#English"
+    ]
+  },
+  {
+    "word": "homescreen",
+    "ipa": "英 /ˈhəʊmskriːn/；美 /ˈhoʊmskriːn/",
+    "meaning": "主屏幕；起始屏幕",
+    "sense": "打开设备后，先回到一个能找到应用和入口的界面据点。",
+    "split": "home（初始、基点）+ screen（屏幕），数字界面名称，也常分开写 home screen。",
+    "history": [
+      [
+        "英语 home；screen",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + screen → homescreen",
+        "设备或应用的起始、主界面"
+      ]
+    ],
+    "explanation": "手机 homescreen 常放应用图标、小组件等；不同系统布局不同。home 说返回据点，不是屏幕只能在家里使用。",
+    "usage": "on the homescreen；add to the homescreen；a homescreen icon。",
+    "contrast": "homescreen 是主界面，lock screen 是锁屏；解锁前后看到的可能不同，不能只因为都是第一眼画面就混名。",
+    "examples": [
+      [
+        "She added the calendar widget to her homescreen.",
+        "她把日历小组件加到主屏幕。"
+      ],
+      [
+        "The app icon disappeared from the homescreen.",
+        "应用图标从主屏幕上不见了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homescreen#English"
+    ]
+  },
+  {
+    "word": "homebuyer",
+    "ipa": "英 /ˈhəʊmbaɪə/；美 /ˈhoʊmbaɪər/",
+    "meaning": "购房者",
+    "sense": "正在选择、购买住宅的人，从买卖行为而不是既有身份来称呼。",
+    "split": "home（住宅）+ buyer（购买者），buyer 又是 buy + -er 的人物名词。",
+    "history": [
+      [
+        "英语 home；buyer",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + buyer → homebuyer",
+        "购买住宅的人"
+      ]
+    ],
+    "explanation": "a first-time homebuyer 是首次购房者。计划买房、正在交易和已买成的具体阶段，需由句子给出。",
+    "usage": "first-time homebuyers；prospective homebuyers；homebuyer demand。",
+    "contrast": "homebuyer 关注购买行为，homeowner 关注拥有状态；一位现有业主也可以再次成为 homebuyer。",
+    "examples": [
+      [
+        "The guide explains common terms for first-time homebuyers.",
+        "指南为首次购房者解释常见术语。"
+      ],
+      [
+        "Several homebuyers visited the property on Saturday.",
+        "几位购房者周六看了这处住宅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homebuyer#English"
+    ]
+  },
+  {
+    "word": "homeware",
+    "ipa": "英 /ˈhəʊmweə/；美 /ˈhoʊmwer/",
+    "meaning": "家居用品",
+    "sense": "把杯盘、靠垫、摆设等用于布置、使用家庭空间的东西归成一类。",
+    "split": "home（家庭）+ -ware（某类制品、用品），常见零售类别名称，也见 homewares 复数。",
+    "history": [
+      [
+        "英语 home；-ware",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + -ware → homeware",
+        "家庭使用、布置的一类物品"
+      ]
+    ],
+    "explanation": "具体包括什么由商店分类决定，常有餐具、纺织品、装饰物，不等于一切与房子相关的建筑材料。",
+    "usage": "a homeware shop；homeware and accessories；a homeware range。",
+    "contrast": "homeware 说物品类别，homewear 则可指在家穿的服装；ware 与 wear 发音相同，拼写与对象不同。",
+    "examples": [
+      [
+        "The shop sells clothing and homeware.",
+        "商店卖服装和家居用品。"
+      ],
+      [
+        "The designer launched a colourful homeware range.",
+        "设计师推出了色彩鲜明的家居用品系列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homeware#English"
+    ]
+  },
+  {
+    "word": "homebody",
+    "ipa": "英 /ˈhəʊmbɒdi/；美 /ˈhoʊmbɑːdi/",
+    "meaning": "喜欢待在家的人",
+    "sense": "周末别人想往外跑，这个人更愿意在家做饭、看书、休息。",
+    "split": "home（家）+ body（人这一口语名词材料），指偏爱在家活动的人，不是家里的一具身体。",
+    "history": [
+      [
+        "英语 home；body〔人〕",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + body〔人〕 → homebody",
+        "喜欢待在家的那种人"
+      ]
+    ],
+    "explanation": "通常是性格和生活偏好描述，可以温和、自嘲。并不表示没朋友、无法出门或讨厌所有社交。",
+    "usage": "a real homebody；be a homebody；a natural homebody。",
+    "contrast": "homebody 是喜欢居家，homebound 是因限制难出门或正回家；偏好与条件不同。",
+    "examples": [
+      [
+        "I am a homebody and rarely go out on weeknights.",
+        "我喜欢待在家，平日晚上很少外出。"
+      ],
+      [
+        "He enjoys travelling, but she is more of a homebody.",
+        "他喜欢旅行，她则更喜欢居家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homebody#English"
+    ]
+  },
+  {
+    "word": "homemaking",
+    "ipa": "英 /ˈhəʊmmeɪkɪŋ/；美 /ˈhoʊmmeɪkɪŋ/",
+    "meaning": "家务管理；持家",
+    "sense": "让一个住处真正能过日子，需要安排餐食、清洁、用品和许多日常事务。",
+    "split": "home（家庭生活）+ making（建立、维持），组合强调营造、管理家庭生活，不只是把房子盖出来。",
+    "history": [
+      [
+        "英语 home；making",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + making → homemaking",
+        "管理、维持家庭日常生活的活动"
+      ]
+    ],
+    "explanation": "可包括做饭、清洁、安排家庭事务，谁承担并不由词名规定。homemaking skills 是持家技能。",
+    "usage": "homemaking skills；share homemaking tasks；homemaking and childcare。",
+    "contrast": "homemaking 是持家管理，homebuilding 是建住宅；make a home 与 build a house 的重点不同。",
+    "examples": [
+      [
+        "They share the responsibilities of homemaking.",
+        "他们共同承担持家事务。"
+      ],
+      [
+        "The course included cooking and other homemaking skills.",
+        "课程包括烹饪及其他持家技能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homemaking#English"
+    ]
+  },
+  {
+    "word": "homebuilding",
+    "ipa": "英 /ˈhəʊmbɪldɪŋ/；美 /ˈhoʊmbɪldɪŋ/",
+    "meaning": "住宅建造；住宅建筑业",
+    "sense": "从图纸、基础到房屋成形，把可住的住宅建出来。",
+    "split": "home（住宅）+ building（建造），组合说住宅建设这一活动或行业。",
+    "history": [
+      [
+        "英语 home；building",
+        "组合时并列的两种材料"
+      ],
+      [
+        "home + building → homebuilding",
+        "建造住宅的活动或行业"
+      ]
+    ],
+    "explanation": "新闻里 homebuilding activity 是住宅建设活动；the homebuilding industry 是住宅建筑业。房屋竣工后怎样安排日常生活则是另一层面。",
+    "usage": "homebuilding activity；the homebuilding industry；homebuilding costs。",
+    "contrast": "homebuilding 是建房，homemaking 是持家；两者会衔接，但不是一个动作的长短写法。",
+    "examples": [
+      [
+        "The report tracks changes in homebuilding activity.",
+        "报告追踪住宅建设活动的变化。"
+      ],
+      [
+        "Higher material costs affected the homebuilding industry.",
+        "材料成本上涨影响了住宅建筑业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/homebuilding#English"
+    ]
+  },
+  {
+    "word": "rehome",
+    "ipa": "英 /ˌriːˈhəʊm/；美 /ˌriːˈhoʊm/",
+    "meaning": "为……寻找新家；重新安置",
+    "sense": "原先的住处或照料关系不能继续，帮对象找到另一个可生活、可安置的地方。",
+    "split": "re-（重新）+ home（安置、给家），动词常用于宠物，也可按语境用于其他物品重新安置。",
+    "history": [
+      [
+        "古英语 hām → 中古英语 hom",
+        "家；居住地、村落"
+      ],
+      [
+        "英语 home",
+        "家；故乡；回家；主场等"
+      ],
+      [
+        "re- + home → rehome",
+        "提供新的家、重新安置"
+      ]
+    ],
+    "explanation": "rehoming a dog 是给狗找到新的照料家庭。词本身不说明具体手续、是否收费或最终条件。",
+    "usage": "rehome a dog；rehome unwanted pets；a rehoming centre。",
+    "contrast": "rehome 强调找到新的安置，abandon 是遗弃；是否真正妥善安置不能仅由说话者用了好听的词判断。",
+    "examples": [
+      [
+        "The shelter hopes to rehome the dog this month.",
+        "收容机构希望本月为这只狗找到新家。"
+      ],
+      [
+        "They helped rehome several cats after the owner moved away.",
+        "原主人搬走后，他们帮几只猫找到了新家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rehome#English"
+    ]
+  }
+]

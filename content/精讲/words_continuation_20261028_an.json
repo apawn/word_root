@@ -1,0 +1,1053 @@
+[
+  {
+    "word": "general",
+    "ipa": "/ˈdʒenərəl/",
+    "meaning": "一般的；总体的；通用的；将军",
+    "sense": "先把镜头拉远，看一整类事物的大样子，不盯某个小细节。",
+    "split": "经法语接拉丁 generālis，上接 genus“种类”。general 不是现代 gen + eral；军衔义与统管全局的指挥职位名称有关。",
+    "history": [
+      [
+        "拉丁 genus → generālis",
+        "种类 → 涉及整体、同类共有的"
+      ],
+      [
+        "法语 general → 中古英语 general",
+        "普遍的、总体的"
+      ]
+    ],
+    "explanation": "a general idea 是大致印象，the general public 是普通公众，general knowledge 是不局限某一专业的常识。名词 a general 指将军，历史上与 overall command 的统领身份相连。",
+    "usage": "in general；a general idea；the general public；a general rule。",
+    "contrast": "general 说整体、一般，specific 说具体、特定。a general rule 允许有例外，并不等于 every case 都成立。",
+    "examples": [
+      [
+        "I understand the general idea, but I need more detail.",
+        "大意我懂了，但需要更多细节。"
+      ],
+      [
+        "In general, the buses are reliable.",
+        "总体来说，这里的公交挺可靠。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/general#English"
+    ]
+  },
+  {
+    "word": "generally",
+    "ipa": "/ˈdʒenərəli/",
+    "meaning": "通常；一般来说；普遍地",
+    "sense": "把多数情况放在一起看，常见的样子是这样，但不保证每次都一样。",
+    "split": "general + -ly；中古英语已有相应副词形式。-ly 将形容词对应成副词，不表示程度一定很强。",
+    "history": [
+      [
+        "拉丁 genus → generālis",
+        "种类 → 涉及整体、同类共有的"
+      ],
+      [
+        "法语 general → 中古英语 general",
+        "普遍的、总体的"
+      ],
+      [
+        "general + -ly → generally",
+        "从整体、通常情况来说"
+      ]
+    ],
+    "explanation": "generally speaking 引出概括，generally accepted 表示普遍接受。generally arrive early 是通常早到，不是从来没有迟过。",
+    "usage": "generally speaking；generally accepted；generally available。",
+    "contrast": "generally 通常，always 总是。The shop is generally quiet 可以有忙的时候；always quiet 把范围说得更绝对。",
+    "examples": [
+      [
+        "She generally walks to work.",
+        "她通常走路上班。"
+      ],
+      [
+        "The proposal was generally welcomed by residents.",
+        "居民普遍欢迎这项提议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generally#English"
+    ]
+  },
+  {
+    "word": "generalize",
+    "ipa": "/ˈdʒenərəlaɪz/",
+    "meaning": "概括；归纳；作笼统判断",
+    "sense": "看过几个点，试着画出一条能覆盖更多点的线；线画得好是归纳，画过头就是以偏概全。",
+    "split": "general + -ize，形成表示使普遍化、作概括的动词；与法语 généraliser 等对应形式相关。",
+    "history": [
+      [
+        "拉丁 genus → generālis",
+        "种类 → 涉及整体、同类共有的"
+      ],
+      [
+        "法语 general → 中古英语 general",
+        "普遍的、总体的"
+      ],
+      [
+        "general + -ize → generalize",
+        "把个别经验推向更一般的结论"
+      ]
+    ],
+    "explanation": "generalize from a small sample 是从小样本作概括；generalize about a group 是对某群体作一般判断。研究中合理概括很有用，词本身不必然贬义。",
+    "usage": "generalize from；generalize about；generalize the findings。",
+    "contrast": "generalize 说从个别推向一般；summarize 是压缩已有内容。概括规律可能超过已观察个案，摘要通常围绕原文。",
+    "examples": [
+      [
+        "It is risky to generalize from a single example.",
+        "只凭一个例子就推开来说，很容易出错。"
+      ],
+      [
+        "Can we generalize these findings to other age groups?",
+        "这些发现能推广到其他年龄组吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generalize#English"
+    ]
+  },
+  {
+    "word": "generalization",
+    "ipa": "英 /ˌdʒenərəlaɪˈzeɪʃən/；美 /ˌdʒenərələˈzeɪʃən/",
+    "meaning": "概括；归纳出的看法；普遍化",
+    "sense": "刚才从几个点画出的那条线，现在拿来当一句总说法。",
+    "split": "对应 generalize + -ation，构词中 -ize 变作 -ization；与法语 généralisation 等名词形式也有关。",
+    "history": [
+      [
+        "拉丁 genus → generālis",
+        "种类 → 涉及整体、同类共有的"
+      ],
+      [
+        "法语 general → 中古英语 general",
+        "普遍的、总体的"
+      ],
+      [
+        "generalize → generalization",
+        "概括的过程或得出的概括"
+      ]
+    ],
+    "explanation": "a broad generalization 是宽泛概括，a sweeping generalization 常嫌一概而论。方法论中的 generalization 也说研究发现推广到其他场景的能力、过程。",
+    "usage": "make a generalization；a broad generalization；a sweeping generalization。",
+    "contrast": "generalization 可以有依据，也可以过头；stereotype 刻板印象更常是对人群固定、简化的看法。不能把两词当完全同义。",
+    "examples": [
+      [
+        "That is a broad generalization, and there are many exceptions.",
+        "这只是一个宽泛概括，例外很多。"
+      ],
+      [
+        "The small sample limits the generalization of the findings.",
+        "样本太小，限制了研究发现的推广。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generalization#English"
+    ]
+  },
+  {
+    "word": "generalist",
+    "ipa": "/ˈdʒenərəlɪst/",
+    "meaning": "通才；涉及多个领域的从业者",
+    "sense": "团队里有人只钻一口深井，有人能看懂几块地、把不同工作接起来；后者可叫 generalist。",
+    "split": "general + -ist，-ist 表从业者、具有某种取向的人。不是 general“将军”加后缀就变成军人。",
+    "history": [
+      [
+        "拉丁 genus → generālis",
+        "种类 → 涉及整体、同类共有的"
+      ],
+      [
+        "法语 general → 中古英语 general",
+        "普遍的、总体的"
+      ],
+      [
+        "general + -ist → generalist",
+        "工作、知识范围较广的人"
+      ]
+    ],
+    "explanation": "a marketing generalist 可能负责多种营销工作，a generalist role 不只限一个窄方向。学得广不保证每方面同样深，也不等于只有皮毛。",
+    "usage": "a skilled generalist；a generalist role；generalists and specialists。",
+    "contrast": "generalist 范围广，specialist 专门深耕某一领域；二者是工作取向差别，不能直接排成能力高低。",
+    "examples": [
+      [
+        "The small team needs a generalist who can handle several kinds of work.",
+        "这个小团队需要能处理几类工作的通才。"
+      ],
+      [
+        "She began as a generalist before specializing in data visualization.",
+        "她最初做多个方向，后来专攻数据可视化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generalist#English"
+    ]
+  },
+  {
+    "word": "actual",
+    "ipa": "/ˈæktʃuəl/",
+    "meaning": "实际的；真实的",
+    "sense": "宣传图是一回事，真正拿到手、量出来、发生过的那个才是 actual。",
+    "split": "经法语 actuel 接晚期拉丁 actuālis，再接 actus、agere“做、行动”。现代可认出 act 的词源联系，不拆成 act + u + al 三个现代部件。",
+    "history": [
+      [
+        "拉丁 agere → actus → 晚期拉丁 actuālis",
+        "做、行动 → 行为、实施 → 实践中的"
+      ],
+      [
+        "法语 actuel → 中古英语 actual",
+        "实际、真实的相应用法"
+      ]
+    ],
+    "explanation": "the actual cost 是实际费用，the actual size 是实物大小，the actual reason 强调真正原因。actual 在现代英语里通常不表示“目前的”，那往往用 current。",
+    "usage": "the actual cost；actual size；the actual number；actual experience。",
+    "contrast": "actual 与 real 都可强调真实；actual 常拿实情对照估计、想象。法语 actuel 常有“当前”义，不能直接搬进英语。",
+    "examples": [
+      [
+        "The actual cost was lower than we expected.",
+        "实际费用比我们预计的低。"
+      ],
+      [
+        "The model is shown at actual size.",
+        "模型按实物大小展示。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/actual#English"
+    ]
+  },
+  {
+    "word": "actually",
+    "ipa": "/ˈæktʃuəli/",
+    "meaning": "实际上；其实；居然〔强调与预期不同〕",
+    "sense": "听起来像这样，可把真实情况摊开看，原来是另一回事。",
+    "split": "actual + -ly；常见口语弱化读音 /ˈæktʃəli/。这里 -ly 接整个 actual，不要误认成 act + ually。",
+    "history": [
+      [
+        "拉丁 agere → actus → 晚期拉丁 actuālis",
+        "做、行动 → 行为、实施 → 实践中的"
+      ],
+      [
+        "法语 actuel → 中古英语 actual",
+        "实际、真实的相应用法"
+      ],
+      [
+        "actual + -ly → actually",
+        "按实际情况来说"
+      ]
+    ],
+    "explanation": "Actually, I live nearby 可以温和纠正对方；Did he actually say that? 强调难以相信他真说了。语气用太重也可能显得居高临下，日常按上下文用。",
+    "usage": "actually happen；actually mean；actually work；Actually, ...。",
+    "contrast": "actually 说实情，不是 currently“目前”。I actually work here 是“我其实就在这里工作”，不是专门交代现在这个时段。",
+    "examples": [
+      [
+        "I thought the shop was closed, but it was actually open.",
+        "我以为商店关门了，其实还开着。"
+      ],
+      [
+        "Actually, I have already read the report.",
+        "其实，这份报告我已经看过了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/actually#English"
+    ]
+  },
+  {
+    "word": "actuality",
+    "ipa": "/ˌæktʃuˈæləti/",
+    "meaning": "实际情况；真实存在的事物",
+    "sense": "把想象、可能性放一边，已经确实存在的现实摆到面前。",
+    "split": "actual + -ity，-ity 表性质、状态；重音落在 /ˈæ/ 上，不沿用 actual 的词首重音。",
+    "history": [
+      [
+        "拉丁 agere → actus → 晚期拉丁 actuālis",
+        "做、行动 → 行为、实施 → 实践中的"
+      ],
+      [
+        "法语 actuel → 中古英语 actual",
+        "实际、真实的相应用法"
+      ],
+      [
+        "actual + -ity → actuality",
+        "实际存在；实际状况"
+      ]
+    ],
+    "explanation": "in actuality 较正式，相当于“实际上”；turn a possibility into an actuality 是把可能变为现实。普通交流里 reality、in fact 往往更自然。",
+    "usage": "in actuality；become an actuality；possibility and actuality。",
+    "contrast": "actuality 侧重确实实现、存在的状态，possibility 是可能；actuality 不等于 current affairs 时事。",
+    "examples": [
+      [
+        "The journey looked short on the map, but in actuality it took six hours.",
+        "地图上路程看着不长，实际上走了六小时。"
+      ],
+      [
+        "What was once a distant possibility is now an actuality.",
+        "从前遥远的可能，如今已成为现实。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/actuality#English"
+    ]
+  },
+  {
+    "word": "start",
+    "ipa": "英 /stɑːt/；美 /stɑːrt/",
+    "meaning": "开始；启动；惊跳；开端",
+    "sense": "原来静着，忽然动了起来：人一惊跳起，机器运转起来，一件事也从零开始。",
+    "split": "接古英语 styrtan，经中古英语 sterten，早有突然跃起、冲出的意思。名词 start 与动词相连，不拆成 star“星”加 t。",
+    "history": [
+      [
+        "古英语 styrtan → 中古英语 sterten",
+        "突然跃起、冲出"
+      ],
+      [
+        "英语 start",
+        "惊动、突然一动；开始、启动"
+      ]
+    ],
+    "explanation": "start the car 是启动车，start doing 是开始做。with a start 是一惊、猛地一动，保留较直观的旧动作感觉。at the start 是在开头。",
+    "usage": "start doing；start with；make a start；with a start；from the start。",
+    "contrast": "start 与 begin 在开始做事时常能换；启动设备通常说 start the engine，不能照搬为 begin the engine。",
+    "examples": [
+      [
+        "We need to start planning now.",
+        "我们现在得开始计划了。"
+      ],
+      [
+        "She woke with a start when the door slammed.",
+        "门砰地关上，她惊醒了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/start#English"
+    ]
+  },
+  {
+    "word": "starter",
+    "ipa": "英 /ˈstɑːtə/；美 /ˈstɑːrtər/",
+    "meaning": "起动装置；开胃菜〔尤英式〕；起步者、先发者",
+    "sense": "先让后面的事情开起来：先吃的一道菜、让发动机起动的部件、首先出场的人。",
+    "split": "start + -er，-er 可表人或用具。不同义项都抓开始的角色，不等于只有刚学英语的新手。",
+    "history": [
+      [
+        "古英语 styrtan → 中古英语 sterten",
+        "突然跃起、冲出"
+      ],
+      [
+        "英语 start",
+        "惊动、突然一动；开始、启动"
+      ],
+      [
+        "start + -er → starter",
+        "开启某过程的人、物或先行部分"
+      ]
+    ],
+    "explanation": "a starter motor 是起动机，have soup as a starter 是拿汤作前菜；a slow starter 可说起步慢的人。体育的 starter 可指发令者或先发选手，要看具体句子。",
+    "usage": "a starter motor；a starter course；a slow starter；a conversation starter。",
+    "contrast": "starter 前菜与 dessert 甜点分处餐程前后；starter motor 起动发动机，不是整台发动机本身。",
+    "examples": [
+      [
+        "We had soup as a starter.",
+        "我们先喝汤当开胃菜。"
+      ],
+      [
+        "The mechanic checked the starter motor.",
+        "修理工检查了起动机。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/starter#English"
+    ]
+  },
+  {
+    "word": "restart",
+    "ipa": "动词英 /ˌriːˈstɑːt/、美 /ˌriːˈstɑːrt/；名词英 /ˈriːstɑːt/、美 /ˈriːstɑːrt/",
+    "meaning": "重新开始；重启",
+    "sense": "原来的运行停了，重新让它动起来。",
+    "split": "re-（再次）+ start。名词和动词常有重音差别，实际口音也有变化。",
+    "history": [
+      [
+        "古英语 styrtan → 中古英语 sterten",
+        "突然跃起、冲出"
+      ],
+      [
+        "英语 start",
+        "惊动、突然一动；开始、启动"
+      ],
+      [
+        "re- + start → restart",
+        "再次启动、开始"
+      ]
+    ],
+    "explanation": "restart a computer 是重启电脑，restart talks 是重启谈判。可以有原内容延续，不必从所有资料清零开始。",
+    "usage": "restart the computer；restart the engine；restart talks；after a restart。",
+    "contrast": "restart 是重新启动；reset 是重设、恢复某种设置。重启电脑不等于恢复出厂状态。",
+    "examples": [
+      [
+        "Please save your work before restarting the computer.",
+        "重启电脑前，请保存工作。"
+      ],
+      [
+        "The two sides agreed to restart talks next week.",
+        "双方同意下周重启谈判。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/restart#English"
+    ]
+  },
+  {
+    "word": "startup",
+    "ipa": "英 /ˈstɑːtʌp/；美 /ˈstɑːrtʌp/",
+    "meaning": "初创企业；启动过程",
+    "sense": "事业或设备刚从停着到运转起来，正在起步阶段。",
+    "split": "由短语动词 start up 形成名词；常见另写 start-up，本页用不带连字符的词形作标题。",
+    "history": [
+      [
+        "start；up〔开始运转的短语成分〕",
+        "并列构词部分"
+      ],
+      [
+        "startup",
+        "启动；起步阶段的企业"
+      ]
+    ],
+    "explanation": "a startup company 常指寻求发展、验证商业模式的初创公司，不必只做互联网。during startup 在设备文档里常说启动时。",
+    "usage": "a startup company；join a startup；startup costs；during startup。",
+    "contrast": "startup 说初创企业或启动过程，upstart 常带新来者冒头、被轻视的评价；拼写顺序一换，态度也不同。",
+    "examples": [
+      [
+        "She joined a startup developing tools for teachers.",
+        "她加入了一家为教师开发工具的初创公司。"
+      ],
+      [
+        "The screen stays blank for a few seconds during startup.",
+        "启动时，屏幕会黑几秒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/startup#English"
+    ]
+  },
+  {
+    "word": "upstart",
+    "ipa": "英 /ˈʌpstɑːt/；美 /ˈʌpstɑːrt/",
+    "meaning": "骤然崛起者；自命不凡的新人；新贵〔常贬〕",
+    "sense": "一个新人突然冒到前面，旧圈子觉得“你怎么也上来了”。",
+    "split": "up + start，历史有中古英语 upstarten、upsterten 等突然起来的形式。人物义带对社会地位骤升或新人冒头的评价。",
+    "history": [
+      [
+        "up；start〔跃起、突然起来〕",
+        "并列构词部分"
+      ],
+      [
+        "upstart",
+        "突然冒头、常遭旧圈子轻视的人或组织"
+      ]
+    ],
+    "explanation": "an arrogant upstart 常骂自大的新人，an upstart company 可是老企业眼中突然崛起的挑战者。被叫 upstart 不证明这个人实际没能力。",
+    "usage": "an arrogant upstart；an upstart company；dismiss someone as an upstart。",
+    "contrast": "upstart 带评价，newcomer 较中性；startup 是初创企业。不要把每家 startup 都译作傲慢的新贵。",
+    "examples": [
+      [
+        "The established firms dismissed the small competitor as an upstart.",
+        "老牌公司把这家小对手看作冒头的新来者，不当回事。"
+      ],
+      [
+        "He was treated as an upstart by the old club members.",
+        "俱乐部老会员把他当成不懂规矩的新贵。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/upstart#English"
+    ]
+  },
+  {
+    "word": "startle",
+    "ipa": "英 /ˈstɑːtəl/；美 /ˈstɑːrtəl/",
+    "meaning": "使吃一惊；使惊跳",
+    "sense": "安静看书时背后突然一响，身体先抖一下，脑子才反应过来。",
+    "split": "中古英语 startlen、stertlen 接古英语 steartlian“踢动、挣扎、绊动”等，与 start 词族相连；现代形态可对照 start + -le，不是英语 begin 新加后缀。",
+    "history": [
+      [
+        "古英语 steartlian → 中古英语 startlen / stertlen",
+        "突然动作、惊动的相关形式"
+      ],
+      [
+        "英语 startle",
+        "使突然受惊、惊跳"
+      ]
+    ],
+    "explanation": "startle someone 是使某人一惊，be startled by a noise 是被声响吓一跳。强调突然性，不一定长时间恐惧。",
+    "usage": "startle someone；be startled by；a startled look。",
+    "contrast": "startle 突然惊一下，frighten 使害怕可以持续；surprise 范围更宽，惊喜也可，不一定身体一颤。",
+    "examples": [
+      [
+        "The sudden knock startled me.",
+        "突然的敲门声吓了我一跳。"
+      ],
+      [
+        "Try not to startle the sleeping cat.",
+        "尽量别惊着睡觉的猫。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/startle#English"
+    ]
+  },
+  {
+    "word": "startling",
+    "ipa": "英 /ˈstɑːtlɪŋ/；美 /ˈstɑːrtlɪŋ/",
+    "meaning": "令人吃惊的；惊人的",
+    "sense": "消息、变化或反差突然撞进眼里，让人忍不住“啊？”一下。",
+    "split": "startle + -ing，去掉末尾不发音 e；分词形容词描写引起惊讶的那一方。",
+    "history": [
+      [
+        "startle",
+        "使突然吃惊"
+      ],
+      [
+        "startle + -ing → startling",
+        "令人惊讶的"
+      ]
+    ],
+    "explanation": "a startling discovery 是惊人的发现，a startling contrast 是出人意料的鲜明反差。未必是坏事，也可以惊艳。",
+    "usage": "a startling discovery；a startling contrast；startling results。",
+    "contrast": "startling 令人吃惊，startled 是感到惊讶。The news was startling；I was startled。",
+    "examples": [
+      [
+        "The report revealed a startling increase in demand.",
+        "报告显示需求出现了惊人的增长。"
+      ],
+      [
+        "There was a startling contrast between the two rooms.",
+        "两个房间之间的反差令人吃惊。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/startling#English"
+    ]
+  },
+  {
+    "word": "lose",
+    "ipa": "/luːz/",
+    "meaning": "丢失；失去；输；跟丢、错失",
+    "sense": "本来在手里、在眼前、在自己这一边的，后来不在了，或没能保住。",
+    "split": "接古英语 losian，经中古英语 losen；现代元音变化受 loose 等相关形式影响。过去式、过去分词均 lost，不是 losed。",
+    "history": [
+      [
+        "古英语 losian → 中古英语 losen",
+        "丧失、失去"
+      ],
+      [
+        "英语 lose",
+        "丢失、输掉、失去"
+      ]
+    ],
+    "explanation": "lose keys 是弄丢钥匙，lose a match 是输比赛，lose sight of 是看不见、忽略；lose weight 是体重减少，不含输赢评价。",
+    "usage": "lose a game；lose weight；lose interest；lose sight of；lose touch。",
+    "contrast": "lose /luːz/ 是丢失动词；loose /luːs/ 常是松的形容词。I might lose it 与 It is loose 不是同一句。",
+    "examples": [
+      [
+        "Be careful not to lose your ticket.",
+        "小心别把票弄丢了。"
+      ],
+      [
+        "We lost the match, but we played well.",
+        "比赛输了，但我们打得很好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lose#English"
+    ]
+  },
+  {
+    "word": "lost",
+    "ipa": "英 /lɒst/；美 /lɔːst/、/lɑːst/",
+    "meaning": "失去的；丢失的；迷路的；不知所措的",
+    "sense": "人找不着路，物找不着位置，心里也可能找不着下一步。",
+    "split": "lose 的不规则过去式、过去分词，继承旧词形变化；形容词义从已丢失、失去方向发展。不是 lo + st 两个现代构词块。",
+    "history": [
+      [
+        "古英语 losian → 中古英语 losen",
+        "丧失、失去"
+      ],
+      [
+        "英语 lose",
+        "丢失、输掉、失去"
+      ],
+      [
+        "lose → lost〔过去式、过去分词〕",
+        "失去、丢失后的状态"
+      ]
+    ],
+    "explanation": "get lost 是迷路，lost property 是失物，feel lost 是茫然。lost in a book 可说读入迷，注意力像沉进书里。",
+    "usage": "get lost；lost property；feel lost；be lost in thought。",
+    "contrast": "lost 可以是结果状态，losing 常说过程或趋向。a lost game 已输掉，a losing team 可能正在输，也可能整体战绩不佳。",
+    "examples": [
+      [
+        "We got lost in the old part of the city.",
+        "我们在老城区迷了路。"
+      ],
+      [
+        "Without clear instructions, I felt completely lost.",
+        "没有明确说明，我完全不知道该怎么做。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lost#English"
+    ]
+  },
+  {
+    "word": "losing",
+    "ipa": "/ˈluːzɪŋ/",
+    "meaning": "正在失去、输掉；处于劣势的；败方的",
+    "sense": "东西还在一点点流走，比分还在落后，抓的是进行中的趋势。",
+    "split": "lose + -ing，末尾不发音 e 脱落；可作现在分词，也可作形容词。",
+    "history": [
+      [
+        "古英语 losian → 中古英语 losen",
+        "丧失、失去"
+      ],
+      [
+        "英语 lose",
+        "丢失、输掉、失去"
+      ],
+      [
+        "lose + -ing → losing",
+        "失去的过程；落败、处于劣势的"
+      ]
+    ],
+    "explanation": "a losing streak 是连败，fight a losing battle 是进行难以成功的努力；the losing side 也能指已经决出的败方，仍要看句子。",
+    "usage": "a losing streak；a losing battle；the losing side；keep losing。",
+    "contrast": "losing 不是 loose 的分词。衣服越来越松可以说 getting loose，不能只看发音写成 losing。",
+    "examples": [
+      [
+        "The team is on a losing streak.",
+        "这支队正经历连败。"
+      ],
+      [
+        "I am losing interest in the series.",
+        "我对这部剧越来越没兴趣了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/losing#English"
+    ]
+  },
+  {
+    "word": "loser",
+    "ipa": "英 /ˈluːzə/；美 /ˈluːzər/",
+    "meaning": "落败者；输家；没出息的人〔贬斥口语〕",
+    "sense": "比赛里没赢的那一方；骂人时则把一次输赢扩大成了对整个人的否定。",
+    "split": "lose + -er，去掉末尾 e 再接 -er；从输、失去的人，扩展为口语里侮辱人的称呼。",
+    "history": [
+      [
+        "古英语 losian → 中古英语 losen",
+        "丧失、失去"
+      ],
+      [
+        "英语 lose",
+        "丢失、输掉、失去"
+      ],
+      [
+        "lose + -er → loser",
+        "落败的人；贬斥人的称呼"
+      ]
+    ],
+    "explanation": "a good loser 输得起，a bad loser 输不起，说的是面对失败的态度。单独骂 someone a loser 常很伤人，不是中性的参赛名次说明。",
+    "usage": "the winner and the loser；a good loser；a bad loser。",
+    "contrast": "loser 是人，loss 是损失、失败这件事；a good loser 不是经常赢的人，而是输了仍有风度的人。",
+    "examples": [
+      [
+        "She is a good loser and always congratulates the winner.",
+        "她输得起，总会祝贺赢家。"
+      ],
+      [
+        "Losing one match does not make you a loser.",
+        "输一场比赛不等于你就是个失败者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loser#English"
+    ]
+  },
+  {
+    "word": "loss",
+    "ipa": "英 /lɒs/；美 /lɔːs/、/lɑːs/",
+    "meaning": "损失；失去；亏损；败绩",
+    "sense": "lose 是东西离开手里的过程，loss 是留下来的缺口或这次失去本身。",
+    "split": "接古英语 los“失去、损害”，与古英语动词 losian 同属一族；不是今天给 lose 生硬加一个 -ss。",
+    "history": [
+      [
+        "古英语 los〔名词〕；losian〔动词〕",
+        "相关的失去、损害词形"
+      ],
+      [
+        "英语 loss；lose",
+        "名词说失去、损失；动词说丢失"
+      ]
+    ],
+    "explanation": "hearing loss 是听力损失，a financial loss 是经济损失，a heavy loss 可是重大损失或惨败。at a loss 表示不知如何是好。",
+    "usage": "a loss of；hearing loss；make a loss；at a loss；a sense of loss。",
+    "contrast": "loss 名词、lost 分词或形容词。the loss of my keys 是钥匙丢失这件事；my lost keys 是丢了的钥匙。",
+    "examples": [
+      [
+        "The storm caused a serious loss of crops.",
+        "暴风雨造成农作物严重损失。"
+      ],
+      [
+        "I was at a loss for words.",
+        "我一时不知道说什么好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loss#English"
+    ]
+  },
+  {
+    "word": "group",
+    "ipa": "/ɡruːp/",
+    "meaning": "组；群；团体；分组",
+    "sense": "把散开的人或东西圈到一起，按共同点看成一组。",
+    "split": "借法语 groupe，上接意大利语 gruppo、groppo“结、团块”等。不是英语 grow“生长”换尾巴。",
+    "history": [
+      [
+        "意大利语 gruppo / groppo → 法语 groupe",
+        "结、团块 → 一群、一组"
+      ],
+      [
+        "英语 group",
+        "成组的人、物；分组"
+      ]
+    ],
+    "explanation": "a group of friends 是一群朋友，work in groups 是分组做；group items by color 是按颜色归类。音乐 group 可是乐队，按行业识别。",
+    "usage": "a group of；in groups；group together；group by。",
+    "contrast": "group 组只要求某种聚合、归类；team 团队通常多一层共同任务、协作，不是任意人群都叫 team。",
+    "examples": [
+      [
+        "The teacher divided the class into small groups.",
+        "老师把全班分成小组。"
+      ],
+      [
+        "Group the files by project.",
+        "把文件按项目分组。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/group#English"
+    ]
+  },
+  {
+    "word": "groupie",
+    "ipa": "/ˈɡruːpi/",
+    "meaning": "狂热追随明星的人；追随乐队的粉丝〔口语，可能贬〕",
+    "sense": "不只是喜欢一首歌，而是围着明星、乐队追，希望进入他们身边的圈子。",
+    "split": "group（这里尤其指乐队）+ -ie；20世纪流行音乐文化中形成的称呼。不能从词尾断定追随者一定是什么性别。",
+    "history": [
+      [
+        "意大利语 gruppo / groppo → 法语 groupe",
+        "结、团块 → 一群、一组"
+      ],
+      [
+        "英语 group",
+        "成组的人、物；分组"
+      ],
+      [
+        "group + -ie → groupie",
+        "围绕乐队、明星活动的狂热追随者"
+      ]
+    ],
+    "explanation": "a band’s groupies 指非常贴近乐队活动的追随者。传统用法有时暗含寻求亲密甚至性接触，给普通粉丝贴这个称呼可能带轻视；也可泛说对某人的狂热追随。",
+    "usage": "a rock groupie；a band’s groupies；call someone a groupie。",
+    "contrast": "fan 是范围更宽、通常较中性的粉丝；groupie 往往带更强的围绕名人、寻求接近的意味，不能见粉丝就用。",
+    "examples": [
+      [
+        "The documentary includes interviews with former rock groupies.",
+        "纪录片采访了一些曾追随摇滚乐队的人。"
+      ],
+      [
+        "She disliked being called a groupie simply because she loved the band.",
+        "她只是喜欢这支乐队，不喜欢别人就叫她狂热追星族。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/groupie#English"
+    ]
+  },
+  {
+    "word": "ingroup",
+    "ipa": "/ˈɪnɡruːp/",
+    "meaning": "内群体；自己认同、归属的群体",
+    "sense": "站在某个人的视角，一圈人被认作“我们自己人”。",
+    "split": "in（在内）+ group；心理学、社会学中常用，也常写 in-group。in 说归属视角，不是这些人一定坐在室内。",
+    "history": [
+      [
+        "in；group",
+        "并列构词部分"
+      ],
+      [
+        "ingroup",
+        "自己认同的群体"
+      ]
+    ],
+    "explanation": "ingroup members 是内群体成员，ingroup bias 是偏向自己群体的倾向。边界可以按学校、职业、队伍等变化，并不是固定只有一种。",
+    "usage": "ingroup members；ingroup bias；ingroup identity。",
+    "contrast": "ingroup 是从谁的视角说“我们”；不是客观更优秀、更善良的群体。outgroup 则是该视角之外的一方。",
+    "examples": [
+      [
+        "People sometimes favor members of their ingroup.",
+        "人有时会偏袒自己群体的成员。"
+      ],
+      [
+        "A shared task can change who is seen as part of the ingroup.",
+        "共同任务能改变哪些人被看作自己人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ingroup#English"
+    ]
+  },
+  {
+    "word": "outgroup",
+    "ipa": "/ˈaʊtɡruːp/",
+    "meaning": "外群体；自己认同圈子之外的群体",
+    "sense": "先画出“我们”这圈，圈外被看作“他们”的就是 outgroup。",
+    "split": "out（在外）+ group，与 ingroup 对照；不是出去旅行的那个小组。",
+    "history": [
+      [
+        "out；group",
+        "并列构词部分"
+      ],
+      [
+        "outgroup",
+        "在某个群体认同之外的另一群体"
+      ]
+    ],
+    "explanation": "outgroup members 是外群体成员，outgroup stereotypes 是对外群体的刻板看法。这里先学社会群体义，分类生物学另有专门用法。",
+    "usage": "outgroup members；outgroup attitudes；outgroup stereotypes。",
+    "contrast": "outgroup 圈外人不必是 enemy 敌人；它先标认同边界，关系可以友好、中立或冲突。",
+    "examples": [
+      [
+        "The study examined attitudes toward outgroup members.",
+        "研究考察了人们对外群体成员的态度。"
+      ],
+      [
+        "Contact with an outgroup can challenge old stereotypes.",
+        "与外群体接触可能打破原有刻板印象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/outgroup#English"
+    ]
+  },
+  {
+    "word": "newsgroup",
+    "ipa": "英 /ˈnjuːzɡruːp/；美 /ˈnuːzɡruːp/",
+    "meaning": "网络新闻组；按主题组织的早期网络讨论区",
+    "sense": "网上按主题开出一个讨论版，大家往里面发帖、回复，并不是一队记者。",
+    "split": "news + group；互联网用法尤其与 Usenet 等新闻组系统相连。news 在技术名称中不局限时事新闻。",
+    "history": [
+      [
+        "news；group",
+        "并列构词部分"
+      ],
+      [
+        "newsgroup",
+        "按主题组织网络帖子和讨论的新闻组"
+      ]
+    ],
+    "explanation": "a photography newsgroup 可以讨论摄影，不要求只发布新闻。今天读早期互联网材料常遇见；不能把普通消息推送 news feed 直接当同一系统。",
+    "usage": "post to a newsgroup；a discussion newsgroup；read a newsgroup。",
+    "contrast": "newsgroup 是主题讨论机制；newsletter 通常是定期通讯，newsroom 是新闻编辑室。看到 news 先分用途。",
+    "examples": [
+      [
+        "He found the answer in an old photography newsgroup.",
+        "他在一个旧摄影新闻组里找到了答案。"
+      ],
+      [
+        "Users posted questions to the newsgroup and replied to one another.",
+        "用户在新闻组发问题，互相回复。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/newsgroup#English"
+    ]
+  },
+  {
+    "word": "bad",
+    "ipa": "/bæd/",
+    "meaning": "坏的；差的；糟糕的；变质的",
+    "sense": "把东西、经历或行为放到期待旁边看：它不够好，甚至让人受害。",
+    "split": "可追到中古英语 bad、badde，更早来源存在不确定性，不编造一条确定祖先链。常规比较级 worse、最高级 worst 来自另一历史词干，不写成普通比较级 badder。",
+    "history": [
+      [
+        "中古英语 bad / badde",
+        "坏、不好的"
+      ],
+      [
+        "英语 bad",
+        "质量差、令人不快、道德不好等；更早来源不确定"
+      ]
+    ],
+    "explanation": "bad weather 天气糟，bad behavior 行为不好，go bad 食物变质；a bad cold 是严重的感冒。不同对象选不同中文，别只背“坏”。",
+    "usage": "a bad day；bad news；go bad；be bad at；a bad cold。",
+    "contrast": "bad 形容词，badly 副词；I feel bad 常说难受、歉疚，不能为追求副词形式硬换成 feel badly 并认为完全同义。",
+    "examples": [
+      [
+        "I am bad at remembering names.",
+        "我不擅长记名字。"
+      ],
+      [
+        "The milk has gone bad.",
+        "牛奶变质了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bad#English"
+    ]
+  },
+  {
+    "word": "badly",
+    "ipa": "/ˈbædli/",
+    "meaning": "不好地；严重地；非常、迫切地",
+    "sense": "事情做得差，是 badly；伤得厉害、急需得不得了，也把“不妙”的程度推高了。",
+    "split": "bad + -ly，形成副词。后来也有强度很高的用法，所以 badly need 不是“需要得很差”。",
+    "history": [
+      [
+        "中古英语 bad / badde",
+        "坏、不好的"
+      ],
+      [
+        "英语 bad",
+        "质量差、令人不快、道德不好等；更早来源不确定"
+      ],
+      [
+        "bad + -ly → badly",
+        "做得不好；到严重、强烈的程度"
+      ]
+    ],
+    "explanation": "play badly 打得差，badly damaged 严重受损，badly need a rest 非常需要休息。比较常用 worse、worst，不能机械套 more 到每个场景。",
+    "usage": "behave badly；badly damaged；badly hurt；badly need。",
+    "contrast": "badly 可以修饰动作，也可以加强 need、want；badly want to win 是极想赢，不是赢得不光彩。",
+    "examples": [
+      [
+        "The roof was badly damaged in the storm.",
+        "屋顶在暴风雨中严重受损。"
+      ],
+      [
+        "We badly need more time.",
+        "我们非常需要更多时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/badly#English"
+    ]
+  },
+  {
+    "word": "badness",
+    "ipa": "/ˈbædnəs/",
+    "meaning": "坏；恶劣程度；不良性质",
+    "sense": "不说具体哪件东西，而把它“不好”的那一面抽出来讨论。",
+    "split": "bad + -ness，中古英语已有相应名词；-ness 表性质或状态，不是复数词尾。",
+    "history": [
+      [
+        "中古英语 bad / badde",
+        "坏、不好的"
+      ],
+      [
+        "英语 bad",
+        "质量差、令人不快、道德不好等；更早来源不确定"
+      ],
+      [
+        "bad + -ness → badness",
+        "不好的性质或程度"
+      ]
+    ],
+    "explanation": "the badness of a decision 是决定的糟糕之处；讨论道德时也能说恶，但平常多用 poor quality、how bad 等更具体表达，不必处处套抽象名词。",
+    "usage": "the badness of；inherent badness；the goodness or badness of。",
+    "contrast": "badness 抽出性质，badly 副词说明动作或程度；bad news 是坏消息，不是一个词 badness 的同义拼法。",
+    "examples": [
+      [
+        "The essay discusses the goodness or badness of an action.",
+        "文章讨论一个行为的善恶。"
+      ],
+      [
+        "We laughed at the sheer badness of the dialogue.",
+        "对白实在太烂，把我们逗笑了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/badness#English"
+    ]
+  },
+  {
+    "word": "baddie",
+    "ipa": "/ˈbædi/",
+    "meaning": "坏人；反派〔非正式〕",
+    "sense": "故事里专门给主角制造麻烦、做坏事的那个人。",
+    "split": "bad + -ie，接后缀时双写 d；不是把 buddy“伙伴”换个元音。这里先学电影、故事里的常见反派义。",
+    "history": [
+      [
+        "中古英语 bad / badde",
+        "坏、不好的"
+      ],
+      [
+        "英语 bad",
+        "质量差、令人不快、道德不好等；更早来源不确定"
+      ],
+      [
+        "bad + -ie → baddie",
+        "故事中的坏人、反派等非正式称呼"
+      ]
+    ],
+    "explanation": "the film’s baddie 是片中反派，the goodies and the baddies 是故事里的好人和坏人。网络上还可能有其他俚语用法，具体按社群语境识别。",
+    "usage": "play the baddie；the main baddie；goodies and baddies。",
+    "contrast": "baddie 非正式，villain 也是反派、恶棍但更通用；现实中复杂人物不一定适合简单贴好人坏人标签。",
+    "examples": [
+      [
+        "He plays the main baddie in the film.",
+        "他在片中扮演主要反派。"
+      ],
+      [
+        "The children argued about which baddie was the scariest.",
+        "孩子们争论哪个反派最吓人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/baddie#English"
+    ]
+  },
+  {
+    "word": "badass",
+    "ipa": "/ˈbædæs/",
+    "meaning": "不好惹的人；很厉害、很酷的人或事物〔粗俗口语〕",
+    "sense": "气场是“这人不好惹”，说话人可能因此怕他，也可能是在夸他强悍、有本事。",
+    "split": "bad + ass；ass 在这类口语构词中带粗俗色彩。整体可从强硬、不好惹转为令人佩服，不能逐字只译“坏屁股”。",
+    "history": [
+      [
+        "bad；ass〔粗俗口语成分〕",
+        "并列构词部分"
+      ],
+      [
+        "badass",
+        "强悍、难惹；也可赞赏很厉害"
+      ]
+    ],
+    "explanation": "a badass musician 可以夸音乐人技术和气场厉害，a badass character 可是强悍角色。词的赞赏感不消除粗口色彩，正式介绍可换 impressive、formidable 等。",
+    "usage": "a badass character；a badass musician；look badass。",
+    "contrast": "badass 可夸人，bad person 通常批评人的品行；不要因为开头 bad 就判断一定是恶人。",
+    "examples": [
+      [
+        "The film gives its quiet hero a surprisingly badass moment.",
+        "电影让那位安静的主角有了一段出人意料的强悍表现。"
+      ],
+      [
+        "Her friends called her a badass after she finished the difficult climb.",
+        "她完成艰难攀登后，朋友们夸她真厉害。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/badass#English",
+      "https://dictionary.cambridge.org/dictionary/english/badass"
+    ]
+  }
+]

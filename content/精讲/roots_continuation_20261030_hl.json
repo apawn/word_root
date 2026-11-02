@@ -1,0 +1,175 @@
+[
+  {
+    "id": "A1844",
+    "meaning": "做成、使成为，或使产生某种状态",
+    "core": "-IFY：把某种性质做出来，具体意思跟着词走",
+    "image": "simplify 使简单；clarify 使清楚；horrify 使惊骇；detoxify 去除毒性。",
+    "intro": "这个后缀像一个做变化的按钮，但不是按上就能任意造词。justify 的常用义已固定为说明正当，不能只死译成使正义。",
+    "forms": "拉丁 -ficāre〔与 facere 做相关〕→ 法语 -ifier 等 → 英语 -ify；加后缀时词干常有删字、换形。",
+    "branches": [
+      [
+        "使性质变清楚或变强",
+        "simplify · clarify · intensify · diversify"
+      ],
+      [
+        "证明、编排及描述对象",
+        "justify · codify · objectify · personify"
+      ],
+      [
+        "取消、补偿、损害与去毒",
+        "nullify · indemnify · falsify · vilify · detoxify"
+      ],
+      [
+        "恐惧感受的来去",
+        "horror · horrify · horrified · horrifying"
+      ]
+    ],
+    "contrasts": "不按字母硬拆：horrify 和 horror 对照，但历史还有拉丁相应形式；horrified 承受感受，horrifying 造成感受。",
+    "practice": "The clear explanation simplified the issue, but the facts still horrified us.\n\n清楚的解释让问题容易理解了，但事实仍令我们震惊。",
+    "words": [
+      "justify",
+      "clarify",
+      "simplify",
+      "diversify",
+      "intensify",
+      "nullify",
+      "indemnify",
+      "falsify",
+      "vilify",
+      "codify",
+      "objectify",
+      "personify",
+      "detoxify",
+      "horror",
+      "horrify",
+      "horrified",
+      "horrifying"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3494",
+    "meaning": "铺开的薄平面，以及帆角索的航海支线",
+    "core": "SHEET：薄薄一大片，铺开来承载东西",
+    "image": "床单、纸、金属薄板 → 工作表、数据表、大片雨幕；航海索分开看。",
+    "intro": "从具体薄片出发，先理解承载内容的表，再看组合词。床单、电子表格和材料片并不是每个都靠同一种实物制造。",
+    "forms": "古英语布、床单形式 → sheet；sheet + -ing；bed/work/data/score 等 + sheet；spread + sheet。\n\n普通薄片义承古英语布、床单材料；航海帆索另接角、帆角词族。\n\n现代整个复合词加 s，不把 sheet 一律理解为纸。\n\nsheet 给表页材料，work 与 spread 分别限定用途、铺开的表格结构。",
+    "branches": [
+      [
+        "薄片、材料与床上布",
+        "sheet · sheeting · bedsheet"
+      ],
+      [
+        "记录、工作与数据载体",
+        "worksheet · spreadsheet · datasheet · scoresheet"
+      ],
+      [
+        "报纸与板材",
+        "broadsheet · sheetrock"
+      ],
+      [
+        "sheet → sheets：床单、纸张与铺开的薄片",
+        "sheet · sheets"
+      ],
+      [
+        "bedsheet → bedsheets：床用布单",
+        "sheet · bedsheet · bedsheets"
+      ],
+      [
+        "sheet 的工作表与电子表格组合",
+        "sheet · worksheet · worksheets · spreadsheet · spreadsheets"
+      ]
+    ],
+    "contrasts": "sheet/page 单张与页面不同；sheeting 是材料；sheetrock 石膏板的商品名背景不等于所有板岩；航海 sheet 指索。",
+    "practice": "The worksheet asks us to compare three sheets of material.\n\n这张练习表要求我们比较三张材料。",
+    "words": [
+      "sheet",
+      "sheeting",
+      "bedsheet",
+      "worksheet",
+      "spreadsheet",
+      "datasheet",
+      "scoresheet",
+      "broadsheet",
+      "sheetrock",
+      "sheets",
+      "bedsheets",
+      "worksheets",
+      "spreadsheets"
+    ],
+    "exclude": {
+      "sheet-like": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3958",
+    "meaning": "把东西、人手和步骤放到合适位置",
+    "core": "ARRANGE：先排好，再把计划和音乐也排好",
+    "image": "arrange → arrangement/arranger；rearrange 则换一种排法、重新安排。",
+    "intro": "物件排列是最直观的入口。会议安排是排时间和人；音乐改编是重排声部、音色和演奏形式。",
+    "forms": "arengier/arangier → arrange；法语 arrangement 借入；arrange + -er；re- + arrange。\n\n法语排入行列词，较早接日耳曼环、行列材料。\n\n古法语排成行的词接行列材料，更早与日耳曼环相关，英语去 e 加 ing。\n\n法语 arrangement 借入，现代与 arrange 加 ment 对照；复数数具体安排。",
+    "branches": [
+      [
+        "安排动作与安排结果",
+        "arrange · arrangement · arranger"
+      ],
+      [
+        "重新布置",
+        "rearrange"
+      ],
+      [
+        "arrange → arranged：排成行、安排好",
+        "arrange · arranged"
+      ],
+      [
+        "arrange → arranging：把零散部分排出秩序",
+        "arrange · arranged · arranging · arrangement"
+      ],
+      [
+        "arrangement → arrangements：安排的结果、协议与编配",
+        "arrange · arrangement · arrangements"
+      ]
+    ],
+    "contrasts": "arrange for 人 to do；arrange 音乐不等于从头作曲；arrangement 可指约定而非只指物件摆法。",
+    "practice": "The arranger changed the piano arrangement after we rearranged the rehearsal.\n\n我们重新安排排练后，编曲者修改了钢琴改编版。",
+    "words": [
+      "arrange",
+      "arrangement",
+      "arranger",
+      "rearrange",
+      "arranged",
+      "arranging",
+      "arrangements"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4549",
+    "meaning": "评估结果与重新评估",
+    "core": "ASSESSMENT：先作判断，再看是否需要重新称量",
+    "image": "assessment 评估；reassessment 用新材料再评估，不预设结论一定改变。",
+    "intro": "评估不只是考试分数，也可判断风险、需求、情况。把评估过程和给出的结果放在一起理解，比只记测评两个字更灵活。",
+    "forms": "assess + -ment → assessment；re- + assessment → reassessment。assess 历史联系法语与拉丁协助判定、估定。\n\nassess 远接拉丁坐在旁边协助判断的词族，早期与评定税额、罚额等有关。assessment 的评估、测评等义后来扩展，现代复数 -s。",
+    "branches": [
+      [
+        "评估与重看",
+        "assessment · reassessment"
+      ],
+      [
+        "assess + -ment → assessment → assessments",
+        "assessments"
+      ]
+    ],
+    "contrasts": "assessment 可以是过程或结果；reassessment 不一定推翻原结论，也不一定重新举行一场考试。",
+    "practice": "The reassessment used new evidence to check the earlier assessment.\n\n这次重新评估用新证据检查先前的判断。",
+    "words": [
+      "assessment",
+      "reassessment",
+      "assessments"
+    ],
+    "exclude": {
+      "e-assessment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-assessment": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

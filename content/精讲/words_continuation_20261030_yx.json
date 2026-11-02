@@ -1,0 +1,546 @@
+[
+  {
+    "word": "languages",
+    "ipa": "/ˈlæŋɡwɪdʒɪz/",
+    "meaning": "语言；程序语言等表达体系〔language 的复数〕",
+    "sense": "人们用来表达、交流的一套套系统，是 languages；计算机里写指令的体系，也沿语言这个名称来理解。更早的名字联系说话用的舌。",
+    "split": "language + -s，/dʒ/ 后增加 /ɪz/。language 经古法语 langage、中古英语相关形式，较早接拉丁 lingua 舌、语言，常重建中间形式 *linguaticum。",
+    "history": [
+      [
+        "拉丁 lingua → 重建中间形式、古法语 langage → language",
+        "舌、说话 → 语言体系"
+      ],
+      [
+        "language + -s → languages；技术用途扩展",
+        "多种人类语言、程序语言等"
+      ]
+    ],
+    "explanation": "foreign languages 外语；sign languages 手语；programming languages 程序语言。",
+    "usage": "languages spoken in the region；languages used to write software。",
+    "contrast": "language 的范围不只限有声言语，手语也是语言。某个国家可能使用多种 languages；不要把语言数量和国家数量直接画等号。",
+    "examples": [
+      [
+        "Several languages are spoken in the region.",
+        "这个地区使用几种语言。"
+      ],
+      [
+        "The course introduces two programming languages.",
+        "这门课介绍两种程序语言。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/languages#English",
+      "https://en.wiktionary.org/wiki/language#English"
+    ]
+  },
+  {
+    "word": "cultures",
+    "ipa": "英 /ˈkʌltʃəz/；美 /ˈkʌltʃərz/",
+    "meaning": "文化、群体生活方式；培养物〔复数〕；培养〔第三人称单数〕",
+    "sense": "土地可以耕作，人的知识、生活方式也可以培养、延续；cultures 的文化义沿培养这条历史线扩展。实验里的培养物则保留较具体的养育用途。",
+    "split": "culture + -s，词尾读 /z/。拉丁 colere 耕作、照料形成 cultūra，经法语、拉丁借入；精神培养、群体生活与实验培养等义在不同阶段发展。",
+    "history": [
+      [
+        "拉丁 colere、cultūra → 法语、英语 culture",
+        "耕作、照料、培养 → 精神与群体文化"
+      ],
+      [
+        "culture + -s → cultures；实验等专门用途",
+        "多种文化、培养物；单数主语培养"
+      ]
+    ],
+    "explanation": "different cultures 不同文化；workplace cultures 职场文化；cell cultures 细胞培养物。",
+    "usage": "cultures represented in the festival；cultures observed in the laboratory。",
+    "contrast": "cultures 可以按地区、群体或组织来谈，不必等同一国一种。实验语境的 cultures 则是生长、培养形成的材料，与社会文化的当代用途不同。",
+    "examples": [
+      [
+        "The festival introduces visitors to several local cultures.",
+        "这个节庆让访客了解几种当地文化。"
+      ],
+      [
+        "The researchers compared the cell cultures.",
+        "研究者比较了这些细胞培养物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cultures#English",
+      "https://en.wiktionary.org/wiki/culture#English"
+    ]
+  },
+  {
+    "word": "societies",
+    "ipa": "英 /səˈsaɪətiz/；美 /səˈsaɪətiz/",
+    "meaning": "社会；社团、学会〔society 的复数〕",
+    "sense": "人们因为共同生活、规则或目标连成一个群体，是 societies；大到社会，小到专门爱好的学会，都有联合在一起的画面。",
+    "split": "society 的 y 前是辅音 t，变 y 为 i 加 -es，词尾读 /z/。法语 societé 接拉丁 societās 联合、伙伴关系，基础是 socius 同伴。",
+    "history": [
+      [
+        "拉丁 socius → societās → 法语 → society",
+        "同伴 → 联合、社会关系和组织"
+      ],
+      [
+        "society → societies",
+        "y 变 i 加 es；不同社会、多个社团"
+      ]
+    ],
+    "explanation": "modern societies 现代社会；historical societies 历史学会；student societies 学生社团。",
+    "usage": "societies with different customs；societies meeting each month。",
+    "contrast": "society 作社会总体时常不可数；比较不同社会，或数一家家学会、社团时，可用 societies。前面的修饰词帮助确定群体规模。",
+    "examples": [
+      [
+        "The book compares customs in different societies.",
+        "这本书比较不同社会的习俗。"
+      ],
+      [
+        "Several student societies use the hall.",
+        "几个学生社团使用这个大厅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/societies#English",
+      "https://en.wiktionary.org/wiki/society#English"
+    ]
+  },
+  {
+    "word": "religions",
+    "ipa": "/rɪˈlɪdʒənz/",
+    "meaning": "宗教、宗教信仰体系〔religion 的复数〕",
+    "sense": "有各自信仰、实践、仪式等内容的宗教体系，可以数成 religions。这里记体系本身，更早词根不宜为了画面好记就强定一种来源。",
+    "split": "religion + -s，/n/ 后读 /z/。可靠路线是拉丁 religiō、religiōnem 经法语等进入英语；更早有联系 relegere 反复审慎考虑、religāre 绑紧等分析，至今有争议。",
+    "history": [
+      [
+        "拉丁 religiō → 法语等 → religion",
+        "敬畏、宗教实践、信仰体系等"
+      ],
+      [
+        "religion + -s → religions",
+        "多种宗教体系；更早根源不强画单线"
+      ]
+    ],
+    "explanation": "different religions 不同宗教；world religions 世界诸宗教；the history of religions 宗教史。",
+    "usage": "religions discussed in the course；people of different religions。",
+    "contrast": "religion 可整体说宗教，religions 则把不同体系分别谈。把它直接解释成重新绑在一起只是诸多词源说法之一，不作为确定历史背诵。",
+    "examples": [
+      [
+        "The course introduces the history of several religions.",
+        "这门课介绍几种宗教的历史。"
+      ],
+      [
+        "People of different religions took part in the event.",
+        "不同宗教信仰的人参加了活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/religions#English",
+      "https://www.etymonline.com/word/religion"
+    ]
+  },
+  {
+    "word": "beliefs",
+    "ipa": "/bɪˈliːfs/",
+    "meaning": "信念、相信的内容；信仰观念〔belief 的复数〕",
+    "sense": "一个人心里把某些事情当作真的、值得信赖的，形成的内容就是 beliefs；可以是生活中的信念，也可以是宗教信仰观念。",
+    "split": "belief + -s，/f/ 后读 /s/，保留 f。belief 承古英语 ġelēafa 等信任词，中古形式受 believe 词形影响；现代名词 /f/ 与动词 believe 的 /v/ 分开。",
+    "history": [
+      [
+        "古英语信任词与中古英语类比变化 → belief",
+        "信任、相信 → 所信的观念"
+      ],
+      [
+        "belief + -s → beliefs",
+        "多个信念；f 保留，不变成 v"
+      ]
+    ],
+    "explanation": "personal beliefs 个人信念；religious beliefs 宗教信仰观念；beliefs about learning 对学习的看法。",
+    "usage": "beliefs held by the group；beliefs that change over time。",
+    "contrast": "beliefs 是名词复数，believes 是动词第三人称单数，两者拼写、读音都不同。beliefs 说明某人相信什么，是否成立还要看具体内容。",
+    "examples": [
+      [
+        "The interview explored their beliefs about learning.",
+        "访谈探讨了他们对学习的看法。"
+      ],
+      [
+        "Her beliefs changed as she gained more experience.",
+        "随着经验增多，她的信念发生了变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beliefs#English",
+      "https://en.wiktionary.org/wiki/belief#English"
+    ]
+  },
+  {
+    "word": "expectations",
+    "ipa": "/ˌekspekˈteɪʃənz/",
+    "meaning": "预期、期待；期望达到的要求〔expectation 的复数〕",
+    "sense": "可以想成朝外看着，等一个结果来到：你预计会怎样、希望做到什么，是 expectations；对别人的期望也能变成做事要求。",
+    "split": "expectation + -s，/n/ 后读 /z/。拉丁 ex- 与 spectāre 看形成 exspectāre 等待、期待，其名词 exspectātiō 经法语等进入英语；现代对照 expect 与 -ation。",
+    "history": [
+      [
+        "拉丁 exspectāre、exspectātiō → 法语、英语 expectation",
+        "等着看、等待 → 预期、期望"
+      ],
+      [
+        "expectation + -s → expectations",
+        "多方面预期；所期望达到的标准"
+      ]
+    ],
+    "explanation": "high expectations 高期待；meet expectations 达到预期；exceed expectations 超出预期；clear expectations 明确要求。",
+    "usage": "expectations about the trip；expectations for the work。",
+    "contrast": "expectations 可能是对结果的预计，也可能是希望别人做到的标准。meet expectations 是达到，exceed expectations 是超过。",
+    "examples": [
+      [
+        "The trip exceeded our expectations.",
+        "这次旅行超出了我们的预期。"
+      ],
+      [
+        "The teacher set clear expectations for the task.",
+        "老师对这项任务提出了明确要求。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/expectations#English",
+      "https://en.wiktionary.org/wiki/expectation#English"
+    ]
+  },
+  {
+    "word": "attitudes",
+    "ipa": "英 /ˈætɪtjuːdz/；美 /ˈætɪtuːdz/",
+    "meaning": "态度、看法；姿态〔attitude 的复数〕",
+    "sense": "身体以什么姿势面对事物，后来转到心里以什么姿态对待它，就是 attitudes。这个身体姿态到心理立场的变化有清楚历史。",
+    "split": "attitude + -s，/d/ 后读 /z/。法语 attitude 接意大利语 attitudine，较早接拉丁 aptitūdō 适合等材料；英语先用作艺术人物姿态，后扩展为显示心态的姿态、稳定态度。",
+    "history": [
+      [
+        "拉丁 aptitūdō → 意大利语 attitudine → 法语 → attitude",
+        "适合、姿态 → 艺术中的人物姿势"
+      ],
+      [
+        "心理态度义扩展；attitude + -s → attitudes",
+        "多种身体或心理立场、对待方式"
+      ]
+    ],
+    "explanation": "attitudes towards work 对工作的态度；positive attitudes 积极态度；changing attitudes 变化中的观念。",
+    "usage": "attitudes reflected in behaviour；attitudes towards new ideas。",
+    "contrast": "attitudes 往往不只是某一句意见，还会体现在一贯怎样对待事情。opinions 更容易说具体判断，两者在语境中可以相连。",
+    "examples": [
+      [
+        "The survey examined attitudes towards public transport.",
+        "调查考察了人们对公共交通的态度。"
+      ],
+      [
+        "Their attitudes changed after working together.",
+        "一起工作之后，他们的态度改变了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/attitudes#English",
+      "https://www.etymonline.com/word/attitude"
+    ]
+  },
+  {
+    "word": "opinions",
+    "ipa": "/əˈpɪnjənz/",
+    "meaning": "看法、意见、判断〔opinion 的复数〕",
+    "sense": "面对同一件事，不同人会觉得怎样、判断怎样，这些就是 opinions。把一个人的看法说清，不等于已经把事情本身说明白。",
+    "split": "opinion + -s，/n/ 后读 /z/。经法语 opinion、中古英语相关形式接拉丁 opīniō，与 opīnārī 认为相连；和 opine 发表意见形成词族。",
+    "history": [
+      [
+        "拉丁 opīnārī、opīniō → 法语、英语 opinion",
+        "认为、判断 → 具体看法"
+      ],
+      [
+        "opinion + -s → opinions",
+        "多个意见、不同人的看法"
+      ]
+    ],
+    "explanation": "different opinions 不同意见；express opinions 表达看法；opinions on the plan 对计划的意见。",
+    "usage": "opinions shared in the meeting；opinions that differ。",
+    "contrast": "opinions on 或 about something 说明针对什么事情。in my opinion 是从自己的判断角度说；facts 则把注意放在可查明的情况本身。",
+    "examples": [
+      [
+        "The students expressed different opinions about the story.",
+        "学生们表达了对故事的不同看法。"
+      ],
+      [
+        "We asked visitors for their opinions on the new display.",
+        "我们征求访客对新展陈的意见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/opinions#English",
+      "https://en.wiktionary.org/wiki/opinion#English"
+    ]
+  },
+  {
+    "word": "perspectives",
+    "ipa": "英 /pəˈspektɪvz/；美 /pərˈspektɪvz/",
+    "meaning": "视角、观点；透视关系〔perspective 的复数〕",
+    "sense": "站在不同位置，看见的样子就不同，是 perspectives 的直观画面；把位置换成经历、专业背景，就有理解事情的不同观点。",
+    "split": "perspective + -s，/v/ 后读 /z/。拉丁 per- 穿过、彻底与 specere 看形成相关视觉词，经法语、拉丁光学和透视术语借入，再扩展为看问题的角度。",
+    "history": [
+      [
+        "拉丁看穿、视觉词族 → 法语等透视术语 → perspective",
+        "视觉、透视 → 观看与理解的位置"
+      ],
+      [
+        "perspective + -s → perspectives",
+        "不同视角、观点或透视关系"
+      ]
+    ],
+    "explanation": "different perspectives 不同视角；historical perspectives 历史视角；perspectives on the issue 对议题的观察角度。",
+    "usage": "perspectives shaped by experience；perspectives offered by different subjects。",
+    "contrast": "perspective 强调从哪里、凭什么背景看；opinion 更突出最后形成了什么看法。换个 perspective 可能看见以前忽略的部分。",
+    "examples": [
+      [
+        "The course presents several perspectives on the same event.",
+        "这门课从几个视角介绍同一个事件。"
+      ],
+      [
+        "Their different experiences gave them different perspectives.",
+        "不同经历让他们有不同的看问题角度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/perspectives#English",
+      "https://en.wiktionary.org/wiki/perspective#English"
+    ]
+  },
+  {
+    "word": "arguments",
+    "ipa": "英 /ˈɑːɡjəmənts/；美 /ˈɑːrɡjəmənts/",
+    "meaning": "理由、论证；争论；参数〔复数〕",
+    "sense": "为了让别人看明白，你拿出的一套理由，是 arguments；双方互不认同时，这种来回论说又可成为争论。程序里的参数则是另一项专业用途。",
+    "split": "argument + -s，/t/ 后读 /s/。法语 argument 接拉丁 argūmentum 证明、理由，联系 arguere 讲明、证明；现代与 argue、-ment 对照，但名词有独立借入历史。",
+    "history": [
+      [
+        "拉丁 arguere、argūmentum → 法语、英语 argument",
+        "讲明、证明 → 理由、论证"
+      ],
+      [
+        "argument + -s → arguments；不同语域扩展",
+        "多项理由、争论；程序调用传入的参数"
+      ]
+    ],
+    "explanation": "arguments for and against 赞成、反对的理由；strong arguments 有力论证；function arguments 函数参数。",
+    "usage": "arguments presented in the report；arguments about the plan。",
+    "contrast": "arguments 不一定是吵架，文章里的 arguments 常是支持观点的理由链。写程序时传给函数的 arguments 则按技术语境理解。",
+    "examples": [
+      [
+        "The report presents arguments for and against the change.",
+        "报告列出支持和反对这项改变的理由。"
+      ],
+      [
+        "The function accepts two arguments.",
+        "这个函数接收两个参数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/arguments#English",
+      "https://en.wiktionary.org/wiki/argument#English"
+    ]
+  },
+  {
+    "word": "explanations",
+    "ipa": "/ˌekspləˈneɪʃənz/",
+    "meaning": "解释、说明〔explanation 的复数〕",
+    "sense": "把别人看不明白的地方展开、讲清楚，就是 explanations；它可以说明怎么运作，也可以回答为什么会发生。",
+    "split": "explanation + -s，/n/ 后读 /z/。拉丁 explānāre 铺平、讲清的名词 explānātiō 借入英语；现代与 explain 相关，但不是单把英语 explain 后接一个拼写尾巴。",
+    "history": [
+      [
+        "拉丁 explānāre → explānātiō → explanation",
+        "展开、使明白 → 解释说明"
+      ],
+      [
+        "explanation + -s → explanations",
+        "多项解释、不同说明方式"
+      ]
+    ],
+    "explanation": "clear explanations 清楚的解释；explanations for the delay 对延误的解释；offer explanations 提供解释。",
+    "usage": "explanations given in class；explanations of how the system works。",
+    "contrast": "explanation of... 常说明某件事的原理、内容，explanation for... 常说明某种情况的原因。实际表达会有交叉，先看是在解释什么。",
+    "examples": [
+      [
+        "The teacher gave clear explanations of the main ideas.",
+        "老师清楚解释了主要观点。"
+      ],
+      [
+        "Several explanations were offered for the delay.",
+        "对于延误，人们提出了几种解释。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/explanations#English",
+      "https://en.wiktionary.org/wiki/explanation#English"
+    ]
+  },
+  {
+    "word": "descriptions",
+    "ipa": "/dɪˈskrɪpʃənz/",
+    "meaning": "描述、描写、说明〔description 的复数〕",
+    "sense": "把一个人、地方或东西的样子、特征说出来，让没见过的人也能想象，就是 descriptions。老词中写下来的动作很适合记描写。",
+    "split": "description + -s，/n/ 后读 /z/。拉丁 dē- 与 scrībere 写形成 dēscrībere，其名词 dēscrīptiō 经法语借入；scrib- 与 script- 是拉丁词形对应。",
+    "history": [
+      [
+        "拉丁 dēscrībere、dēscrīpt- → dēscrīptiō → 法语、英语",
+        "写下、描绘 → 描述"
+      ],
+      [
+        "description + -s → descriptions",
+        "多段描写、不同对象的说明"
+      ]
+    ],
+    "explanation": "detailed descriptions 详细描述；job descriptions 职位说明；descriptions of the rooms 房间描述。",
+    "usage": "descriptions written by visitors；descriptions matching the photographs。",
+    "contrast": "description 关注是什么样、有哪些特点；explanation 更常说明为何、如何。job descriptions 是列明职位职责、要求的说明。",
+    "examples": [
+      [
+        "The guide includes descriptions of the main rooms.",
+        "指南里有对主要房间的描述。"
+      ],
+      [
+        "Their descriptions of the event were very different.",
+        "他们对事件的描述很不一样。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/descriptions#English",
+      "https://en.wiktionary.org/wiki/description#English"
+    ]
+  },
+  {
+    "word": "interpretations",
+    "ipa": "英 /ɪnˌtɜːprɪˈteɪʃənz/；美 /ɪnˌtɜːrprɪˈteɪʃənz/",
+    "meaning": "理解、阐释；演绎、诠释〔interpretation 的复数〕",
+    "sense": "同一段文字、同一首乐曲，不同人理解出了什么、怎样表现出来，就是 interpretations。重点是把意义转成自己的理解或表现。",
+    "split": "interpretation + -s，/n/ 后读 /z/。法语相关形式接拉丁 interpretātiō，来自 interpretārī 解释，与 interpres 解释者、传话者相关；更早构成不强拆，现代可对照 interpret + -ation。",
+    "history": [
+      [
+        "拉丁 interpretārī、interpretātiō → 法语、英语",
+        "解释、传达意义 → 理解、诠释"
+      ],
+      [
+        "interpretation + -s → interpretations",
+        "多种理解；对作品的不同演绎"
+      ]
+    ],
+    "explanation": "different interpretations 不同理解；interpretations of the poem 对诗的阐释；musical interpretations 音乐演绎。",
+    "usage": "interpretations based on the text；interpretations by different musicians。",
+    "contrast": "interpretation 强调从材料中读出了什么意义，或怎样表现它；description 则更侧重交代特征。演奏同一作品也可能有不同 interpretations。",
+    "examples": [
+      [
+        "The class discussed different interpretations of the poem.",
+        "全班讨论了对这首诗的不同理解。"
+      ],
+      [
+        "The musicians gave very different interpretations of the same piece.",
+        "音乐家们对同一首作品作出了很不同的演绎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interpretations#English",
+      "https://en.wiktionary.org/wiki/interpretation#English"
+    ]
+  },
+  {
+    "word": "meanings",
+    "ipa": "/ˈmiːnɪŋz/",
+    "meaning": "含义、意思；意义〔meaning 的复数〕",
+    "sense": "一个词、一句话、一个动作想传达什么，是 meanings；同一个词放在不同句子里，可能有不同意思。",
+    "split": "mean 意指、打算 + -ing → meaning，再加 -s，/ŋ/ 后读 /z/。中古英语已有 mening 等相应名词；这里接本族意指词，不是平均数或刻薄的同形 mean。",
+    "history": [
+      [
+        "本族意指 mean → 中古英语 mening 等 → meaning",
+        "想表达、意指 → 表达的内容"
+      ],
+      [
+        "meaning + -s → meanings",
+        "多个义项、不同的意义"
+      ]
+    ],
+    "explanation": "different meanings 不同含义；word meanings 词义；hidden meanings 隐含意义。",
+    "usage": "meanings shown by the examples；meanings that depend on context。",
+    "contrast": "meanings 可以数一个词的不同义项；the meaning of the story 也可以把作品整体意义当作一个内容来谈。周围句子决定具体在说哪一层。",
+    "examples": [
+      [
+        "The examples show the different meanings of the word.",
+        "这些例句展示了这个词的不同含义。"
+      ],
+      [
+        "The same gesture can have different meanings in different places.",
+        "同一个手势在不同地方可能有不同含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meanings#English",
+      "https://en.wiktionary.org/wiki/meaning#English"
+    ]
+  },
+  {
+    "word": "expressions",
+    "ipa": "/ɪkˈspreʃənz/",
+    "meaning": "表达方式、词语；表情；表达式〔expression 的复数〕",
+    "sense": "内在意思、感受显露成外面能读到的形式，就是 expressions；可以显在话里、脸上，也可以写成数学符号。",
+    "split": "expression + -s，/n/ 后读 /z/。拉丁 ex- 向外与 premere 压形成 exprimere，名词 expressiō 经法语借入；语言、表情、数学等领域分别固定用法。",
+    "history": [
+      [
+        "拉丁 exprimere、expressiō → 法语 → expression",
+        "向外压出、显露 → 表达出来的形式"
+      ],
+      [
+        "expression + -s → expressions",
+        "多种措辞、表情或符号表达式"
+      ]
+    ],
+    "explanation": "facial expressions 面部表情；common expressions 常用表达；mathematical expressions 数学表达式。",
+    "usage": "expressions used in conversation；expressions on their faces。",
+    "contrast": "expressions 在语言课常是词组、表达方式，在人物描写常是表情，在数学里则是符号组合；周围话题很重要。",
+    "examples": [
+      [
+        "The lesson introduces common expressions for asking for help.",
+        "这节课介绍请求帮助的常用表达。"
+      ],
+      [
+        "Their facial expressions changed when they heard the news.",
+        "他们听到消息后，脸上的表情变了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/expressions#English",
+      "https://en.wiktionary.org/wiki/expression#English"
+    ]
+  },
+  {
+    "word": "symbols",
+    "ipa": "/ˈsɪmbəlz/",
+    "meaning": "符号、标记；象征〔symbol 的复数〕",
+    "sense": "看见一个具体记号，能认出它代表另一件事，就是 symbols；地图用图形代表设施，作品也可借一个物体表达抽象意义。",
+    "split": "symbol + -s，/l/ 后读 /z/。希腊 syn- 一起与 bállein 投、放形成相关比对词族，sýmbolon 是识别凭记；经拉丁 symbolum、法语等借入，后来广指代表其他内容的符号。",
+    "history": [
+      [
+        "希腊放在一起、比对词族 → sýmbolon → 拉丁、法语等",
+        "用于比对识别的凭记、标志"
+      ],
+      [
+        "symbol + -s → symbols；代表义扩展",
+        "多个符号；象征其他意义的事物"
+      ]
+    ],
+    "explanation": "map symbols 地图符号；chemical symbols 化学符号；symbols of friendship 友谊的象征。",
+    "usage": "symbols explained in the key；symbols used in the story。",
+    "contrast": "symbol 强调代表了什么；sign 的范围更广，也可说自然显出的迹象。图例说明 symbol 的约定意义，文学中的象征则要结合全文理解。",
+    "examples": [
+      [
+        "The key explains the symbols used on the map.",
+        "图例解释了地图所用的符号。"
+      ],
+      [
+        "The writer uses flowers as symbols of friendship.",
+        "作者用花作为友谊的象征。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/symbols#English",
+      "https://www.etymonline.com/word/symbol"
+    ]
+  }
+]

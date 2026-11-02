@@ -1,0 +1,101 @@
+[
+  {
+    "word": "physiologically",
+    "ipa": "英 /ˌfɪziəˈlɒdʒɪkli/；美 /ˌfɪziəˈlɑːdʒɪkli/",
+    "meaning": "从生理上；在生命功能方面",
+    "sense": "把问题放到身体怎么运作这一层看，例如呼吸、体温、能量调节；physiologically 就是在这个层面上说。",
+    "split": "physiological + -ly。physiological 属于 physiology 生理学词族，相关历史材料追到希腊语 physis 自然、-logia 论述；学科义后来集中于生命功能。",
+    "history": [
+      [
+        "physiology 词族 → physiological",
+        "关于生物体功能的形容词"
+      ],
+      [
+        "physiological + -ly → physiologically",
+        "在生理功能这一层面上"
+      ]
+    ],
+    "explanation": "physiologically different 生理上不同；physiologically demanding 对身体机能要求高；respond physiologically 作出生理反应。",
+    "usage": "physiologically active；physiologically possible。",
+    "contrast": "anatomically 常说结构、解剖形态；physiologically 常说功能、运作。psychologically 则常谈心理层面。",
+    "examples": [
+      [
+        "The task is physiologically demanding.",
+        "这项任务对身体机能要求很高。"
+      ],
+      [
+        "The two species respond physiologically in different ways.",
+        "这两个物种的生理反应方式不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/physiologically#English"
+    ]
+  },
+  {
+    "word": "affirmatively",
+    "ipa": "英 /əˈfɜːmətɪvli/；美 /əˈfɜːrmətɪvli/",
+    "meaning": "肯定地；以表示同意的方式",
+    "sense": "别人问“是否可以”，你回答 yes 或点头，这个表示肯定、同意的方式可以叫 affirmatively。",
+    "split": "affirmative + -ly；中古英语已有对应副词。affirmative 的历史经法语、拉丁语肯定、断言材料，现代与 affirm 词族对应。",
+    "history": [
+      [
+        "affirm 的肯定词族 → affirmative",
+        "表示肯定、同意的"
+      ],
+      [
+        "affirmative + -ly → affirmatively",
+        "以肯定、同意的方式回答或行动"
+      ]
+    ],
+    "explanation": "answer affirmatively 肯定地回答；nod affirmatively 点头表示同意。常带较正式的叙述语气。",
+    "usage": "respond affirmatively；state affirmatively。",
+    "contrast": "positively 的范围更广，可以说积极地、确实地；affirmatively 在回答语境通常明确指作肯定答复。",
+    "examples": [
+      [
+        "She nodded affirmatively when asked if she was ready.",
+        "被问到是否准备好时，她点头表示肯定。"
+      ],
+      [
+        "He answered the final question affirmatively.",
+        "他对最后一个问题作了肯定回答。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/affirmatively#English"
+    ]
+  },
+  {
+    "word": "obstructionism",
+    "ipa": "/əbˈstrʌkʃənɪzəm/",
+    "meaning": "有意阻挠的做法；阻挠主义",
+    "sense": "不是碰巧有个障碍，而是把拖延、挡住进程当成做法；这个主动阻挠的倾向就是 obstructionism。",
+    "split": "obstruction 阻挠 + -ism，形成做法、倾向名称。obstruction 远接拉丁 obstruere 堵住、筑起阻挡，与 ob-、struere 建造材料相连。",
+    "history": [
+      [
+        "拉丁 obstruere、obstructio → obstruction",
+        "筑起阻挡 → 障碍、阻挠"
+      ],
+      [
+        "obstruction + -ism → obstructionism",
+        "有意采取阻挠策略的做法"
+      ]
+    ],
+    "explanation": "political obstructionism 政治性阻挠；accuse someone of obstructionism 指责某人有意阻挠。这个评价通常带批评。",
+    "usage": "a policy of obstructionism；procedural obstructionism。",
+    "contrast": "obstruction 可以是物理堵塞或具体阻挠；obstructionism 更强调一种故意采取的策略。反对某项主张本身并不自动等同于阻挠主义。",
+    "examples": [
+      [
+        "The debate stalled amid accusations of obstructionism.",
+        "相互指责阻挠的声音中，辩论停滞了。"
+      ],
+      [
+        "She criticised the committee’s obstructionism.",
+        "她批评了委员会有意阻挠的做法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obstructionism#English"
+    ]
+  }
+]

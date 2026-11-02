@@ -1,0 +1,546 @@
+[
+  {
+    "word": "bacon",
+    "ipa": "/ˈbeɪkən/",
+    "meaning": "培根；腌制、烟熏等处理的猪肉",
+    "sense": "今天最容易想到早餐盘里的一片片培根。这个肉名的早期重点是猪背部、侧面的肉，因而和 back 背有历史联系。",
+    "split": "借古法语 bacon，较早接日耳曼 *bakkon 背部肉等材料，与英语 back 的来路同族；不是英语 back 现在加一个 on 后缀。",
+    "history": [
+      [
+        "日耳曼背部相关材料 → 古法语 bacon",
+        "背侧肉的名称"
+      ],
+      [
+        "古法语 bacon → 英语 bacon",
+        "肉名借入，现代常指相应腌制猪肉制品"
+      ]
+    ],
+    "explanation": "slices of bacon 几片培根；bacon and eggs 培根配鸡蛋；bring home the bacon 养家、带来收入或成功，是固定表达。",
+    "usage": "crispy bacon 酥脆培根；a bacon sandwich 培根三明治。",
+    "contrast": "bacon 通常不可数，数片用 slices、rashers 等。名称的背部词源说明旧来路，现代具体部位、制法仍随地区用法而不同。",
+    "examples": [
+      [
+        "She added a slice of bacon to the sandwich.",
+        "她往三明治里加了一片培根。"
+      ],
+      [
+        "The café serves eggs and bacon for breakfast.",
+        "咖啡馆早餐供应鸡蛋配培根。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bacon#English",
+      "https://www.etymonline.com/word/bacon"
+    ]
+  },
+  {
+    "word": "array",
+    "ipa": "/əˈreɪ/",
+    "meaning": "一系列、一大批；有序排列的一组；数组；排列、布置",
+    "sense": "东西不是零散放着，而是摆出一整组、一排，供人看、使用，就是 array 的核心。日常可夸种类丰富，计算机里又是数组名称。",
+    "split": "经法语 areer、areyer 整理、使就绪及名词 arrai、arroi 等路线借入；较早有拉丁 ad- 与法兰克语或其他日耳曼准备、排好材料，与 ready 同源比较，不是现代 ready 的剪短。",
+    "history": [
+      [
+        "日耳曼准备、排好材料 → 法语 areer、areyer 等",
+        "使就绪、把东西摆出秩序"
+      ],
+      [
+        "法语名词、动词形式 → 英语 array",
+        "排列；排出的一组，后有大量、多样及数组等义"
+      ]
+    ],
+    "explanation": "an array of choices 一系列选择；a wide array of tools 种类丰富的工具；an array of numbers 一组数、数组。",
+    "usage": "array the items 排列物品；a colourful array 五彩缤纷的一组。",
+    "contrast": "array 常带成组呈现、种类丰富的感觉，普通 list 更强调列出的清单。技术里的 array 有专门定义，本页先认出数组这个术语。",
+    "examples": [
+      [
+        "The market offered a colourful array of fruit.",
+        "市场摆着五彩缤纷的各种水果。"
+      ],
+      [
+        "The program stores the values in an array.",
+        "程序把这些值存在一个数组里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/array#English",
+      "https://www.etymonline.com/word/array"
+    ]
+  },
+  {
+    "word": "arrays",
+    "ipa": "/əˈreɪz/",
+    "meaning": "成组排列、系列；数组〔复数〕；排列、布置〔第三人称单数〕",
+    "sense": "有好几组各自排在一起的东西，就能说 arrays。技术语境也常用它数几个数组、阵列。",
+    "split": "array + -s，元音 /eɪ/ 后读 /z/，ay 保留。array 的名词、动词经法语相应形式借入，较早有整理、使准备好的日耳曼材料。",
+    "history": [
+      [
+        "法语排列、装备词族 → 英语 array",
+        "排出秩序 → 一组排列、数组等"
+      ],
+      [
+        "array + -s → arrays",
+        "多组排列、多个数组；某人把东西排好"
+      ]
+    ],
+    "explanation": "arrays of sensors 传感器阵列；several arrays 几个数组、阵列；arrays the objects 排列物品。",
+    "usage": "large arrays 大型阵列；arrays of numbers 多个数字数组。",
+    "contrast": "arrays 的复数不改 y，因为前面是元音字母 a。arrays 与 a wide array of 的单数结构都常见，数的是组或系列。",
+    "examples": [
+      [
+        "The program compares two arrays of numbers.",
+        "程序比较两个数字数组。"
+      ],
+      [
+        "The roof holds several arrays of solar panels.",
+        "屋顶上布置着几组太阳能电池板阵列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/arrays#English",
+      "https://www.etymonline.com/word/array"
+    ]
+  },
+  {
+    "word": "bloom",
+    "ipa": "/bluːm/",
+    "meaning": "花朵、开花；盛期；开花、繁盛",
+    "sense": "植物把最鲜活的一面长出来、打开来，就是 bloom 的开花画面。人的能力、某个事业充分发展，也会像花一样进入盛期。",
+    "split": "常见开花义主要经北欧语、古诺尔斯语 blomi 等进入英语，和拉丁 flos 花、英语 blossom 共享更远的生长词源。花朵名词又发展相应开花动词。",
+    "history": [
+      [
+        "日耳曼开花材料 → 北欧语 blomi 等 → 英语 bloom",
+        "花、花朵及繁盛状态"
+      ],
+      [
+        "bloom 名词、动词的现代扩展",
+        "开花；能力、事业达到旺盛阶段"
+      ]
+    ],
+    "explanation": "in bloom 正开着花；a beautiful bloom 一朵美丽的花；bloom in spring 春天开花。",
+    "usage": "the bloom of youth 青春盛期；a talent begins to bloom 才能开始充分展现。",
+    "contrast": "bloom 开花义与 flower 的常用意思有重叠，但语言路线不同。in bloom 常用单数，不因有很多花就机械改成 in blooms。",
+    "examples": [
+      [
+        "The roses are in bloom.",
+        "玫瑰开花了。"
+      ],
+      [
+        "These plants bloom in early summer.",
+        "这些植物初夏开花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bloom#English",
+      "https://www.etymonline.com/word/bloom"
+    ]
+  },
+  {
+    "word": "blooms",
+    "ipa": "/bluːmz/",
+    "meaning": "花朵〔复数〕；开花、繁盛〔第三人称单数〕",
+    "sense": "一朵朵正在展开的花是 blooms；说某种植物在什么时候开花，则是动词 blooms。",
+    "split": "bloom + -s，/m/ 后读 /z/。开花义 bloom 主要经北欧语传入，较早同族材料也见于 blossom、拉丁花的词族。",
+    "history": [
+      [
+        "北欧开花名称 → 英语 bloom",
+        "花朵、开花的状态与动作"
+      ],
+      [
+        "bloom + -s → blooms",
+        "多朵花；某株、某类植物开花"
+      ]
+    ],
+    "explanation": "pink blooms 粉色花朵；blooms in May 五月开花；blooms every year 每年开花。",
+    "usage": "large blooms 大花朵；early blooms 早开的花。",
+    "contrast": "the blooms 是花朵复数；the plant blooms 是动词。bloom 还可说事业、才能繁盛，不能只从数花朵解释动词句。",
+    "examples": [
+      [
+        "The vase held several white blooms.",
+        "花瓶里有几朵白花。"
+      ],
+      [
+        "The tree blooms in spring.",
+        "这棵树春天开花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blooms#English",
+      "https://www.etymonline.com/word/bloom"
+    ]
+  },
+  {
+    "word": "bloomed",
+    "ipa": "/bluːmd/",
+    "meaning": "开花、繁盛了〔过去式、过去分词〕",
+    "sense": "花已经开出来，或原来藏着的能力开始蓬勃展现，就是 bloomed。",
+    "split": "bloom + -ed，/m/ 后读 /d/，不另加音节。bloom 的开花义接北欧开花名称，相应动词在英语里延续、发展。",
+    "history": [
+      [
+        "北欧开花词 → 英语 bloom",
+        "花朵、开花；也比喻发展旺盛"
+      ],
+      [
+        "bloom + -ed → bloomed",
+        "开花、充分发展已发生"
+      ]
+    ],
+    "explanation": "bloomed early 开花早了；bloomed in the warm weather 暖和时开花；confidence bloomed 信心逐渐绽放。",
+    "usage": "had bloomed 已经开过花；bloomed for several weeks 开了几周。",
+    "contrast": "bloomed 是过去或完成结构的分词；blooming 把注意放在正在开、正在发展的状态。两者都可用于花，也可用于比喻。",
+    "examples": [
+      [
+        "The roses bloomed earlier than usual.",
+        "玫瑰开得比往年早。"
+      ],
+      [
+        "Her confidence bloomed during the project.",
+        "项目过程中，她的信心逐渐增强。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bloomed#English",
+      "https://www.etymonline.com/word/bloom"
+    ]
+  },
+  {
+    "word": "blooming",
+    "ipa": "/ˈbluːmɪŋ/",
+    "meaning": "开花、繁盛〔现在分词及形容词〕；气色好、旺盛的",
+    "sense": "一朵花正打开、一个生命正在充分生长，是 blooming 的鲜活画面。形容人、事业时也会借这种旺盛感。",
+    "split": "bloom + -ing，直接加 ing。开花动词接北欧同源花名，英语 ing 描写进行过程或形成相应性质词。",
+    "history": [
+      [
+        "北欧花名、开花材料 → 英语 bloom",
+        "花朵与开花、繁盛动作"
+      ],
+      [
+        "bloom + -ing → blooming",
+        "正在开花、发展；形容旺盛、充满生气"
+      ]
+    ],
+    "explanation": "blooming flowers 盛开的花；a blooming garden 花开繁盛的花园；a blooming talent 正在展露的才华。",
+    "usage": "in full bloom 盛开，属于另一常用名词短语；blooming in the sun 在阳光下开花。",
+    "contrast": "blooming 常可用于真实开花，也可以形容旺盛状态。英式口语还有加强语气的另一用法，本页先掌握开花、繁盛义。",
+    "examples": [
+      [
+        "The flowers are blooming beside the path.",
+        "小路旁的花正在盛开。"
+      ],
+      [
+        "The windows looked out onto a blooming garden.",
+        "窗外是一座花开繁盛的花园。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blooming#English",
+      "https://www.etymonline.com/word/bloom"
+    ]
+  },
+  {
+    "word": "blossom",
+    "ipa": "英 /ˈblɒsəm/；美 /ˈblɑːsəm/",
+    "meaning": "花、花簇〔常指树木的花〕；开花、发展成熟",
+    "sense": "枝头一簇簇开花，是 blossom 最容易抓住的画面。一个人从青涩到逐渐成熟、出色，也能像树开花一样 blossom。",
+    "split": "继承古英语 blostm、blostma，经中古英语 blosme 等延续。它与 bloom、拉丁 flos 等有更远同源关系，但英语 blossom 的传承路线是本族旧词。",
+    "history": [
+      [
+        "古英语 blostm、blostma → 中古英语 → blossom",
+        "本族的花、花簇名称"
+      ],
+      [
+        "相应开花动词与比喻发展",
+        "树木开花；能力、关系等逐渐成熟"
+      ]
+    ],
+    "explanation": "cherry blossom 樱花；apple blossom 苹果花；blossom into something 成长为某种状态。",
+    "usage": "trees in blossom 正开花的树；a friendship begins to blossom 友谊开始发展。",
+    "contrast": "blossom 常让人想到树木、果树上的花；flower 使用更广。bloom 与 blossom 可重叠，不需要编成每一种花只能用其中一个。",
+    "examples": [
+      [
+        "The apple trees are in blossom.",
+        "苹果树开花了。"
+      ],
+      [
+        "The young artist began to blossom at college.",
+        "年轻艺术家在大学期间开始展露才华。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blossom#English",
+      "https://www.etymonline.com/word/blossom"
+    ]
+  },
+  {
+    "word": "blossoms",
+    "ipa": "英 /ˈblɒsəmz/；美 /ˈblɑːsəmz/",
+    "meaning": "花朵、花簇〔复数〕；开花、成长〔第三人称单数〕",
+    "sense": "枝条上的一朵朵、一簇簇花，是 blossoms；说一棵树开花，或一种能力逐渐成长，也能用这个动词形式。",
+    "split": "blossom + -s，/m/ 后读 /z/。blossom 接古英语 blostm、blostma 等本族花名，比现代英语临时加尾的历史更早。",
+    "history": [
+      [
+        "古英语花名 → blossom",
+        "花朵、花簇；相应开花动作"
+      ],
+      [
+        "blossom + -s → blossoms",
+        "多朵花、花簇；某物开花、成长"
+      ]
+    ],
+    "explanation": "pink blossoms 粉色花朵；cherry blossoms 樱花；blossoms in spring 春天开花。",
+    "usage": "blossoms on the branches 枝头花朵；a friendship blossoms 友谊逐渐发展。",
+    "contrast": "blossoms 的名词、动词同形，靠句法判断。cherry blossom 集合用法与 cherry blossoms 数花朵，都可以遇到。",
+    "examples": [
+      [
+        "Pink blossoms covered the branches.",
+        "枝头开满粉色花朵。"
+      ],
+      [
+        "The tree blossoms every spring.",
+        "这棵树每年春天开花。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blossoms#English",
+      "https://www.etymonline.com/word/blossom"
+    ]
+  },
+  {
+    "word": "blade",
+    "ipa": "/bleɪd/",
+    "meaning": "刀片、刀身；叶片、草叶；桨叶、扇叶等",
+    "sense": "最早像一片扁薄的叶子；工具上也有一片扁薄的工作部分，于是有刀片、桨叶、扇叶。这个形状比只背刀刃更能串起各义。",
+    "split": "继承古英语 blaed 叶、叶状部分，接日耳曼叶片材料；更远与 bloom、拉丁 flos 的生长词源相关。刀身等用法后来由薄而扁的形状发展。",
+    "history": [
+      [
+        "古英语 blaed → blade",
+        "叶；铲、桨等叶状的扁薄部分"
+      ],
+      [
+        "形状相似的扩展",
+        "刀身、肩胛骨等扁平部分；现代草叶、扇叶等"
+      ]
+    ],
+    "explanation": "a blade of grass 一片草叶；a knife blade 刀身、刀片；a fan blade 扇叶。",
+    "usage": "a sharp blade 锋利刀片；the blade of an oar 桨叶。",
+    "contrast": "blade 常是整个刀片、刀身，edge 更明确指锐利的边。它与 bloom 的联系在更远词源，不是现代英语把开花改几个字母就成刀片。",
+    "examples": [
+      [
+        "A blade of grass moved in the breeze.",
+        "一片草叶在微风中摆动。"
+      ],
+      [
+        "The fan has a damaged blade.",
+        "风扇有一片扇叶损坏了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blade#English",
+      "https://www.etymonline.com/word/blade"
+    ]
+  },
+  {
+    "word": "blades",
+    "ipa": "/bleɪdz/",
+    "meaning": "刀片、刀身；草叶、扇叶、桨叶等〔复数〕",
+    "sense": "几片薄而扁、能切削或推动水气的工作部分，可以叫 blades；草叶也保留这个老名称。",
+    "split": "blade + -s，/d/ 后读 /z/。blade 继承古英语 blaed 叶、叶状部分，后来由形状扩展出工具、机器的薄片部件。",
+    "history": [
+      [
+        "古英语叶、扁薄部分名称 → blade",
+        "叶片 → 刀身、桨叶、扇叶等"
+      ],
+      [
+        "blade + -s → blades",
+        "多片草叶、刀片或工作叶片"
+      ]
+    ],
+    "explanation": "fan blades 扇叶；blades of grass 草叶；replacement blades 替换刀片。",
+    "usage": "wide blades 宽叶片；the blades of an oar 桨叶，具体数量看器具。",
+    "contrast": "blades 直接加 s，保留 d；它不像 knife → knives 那样改尾。工具、草木或机器语境，决定具体哪种叶状部分。",
+    "examples": [
+      [
+        "The fan has three blades.",
+        "风扇有三片扇叶。"
+      ],
+      [
+        "The grass has wide, flat blades.",
+        "这种草有宽而扁的叶片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/blades#English",
+      "https://www.etymonline.com/word/blade"
+    ]
+  },
+  {
+    "word": "breach",
+    "ipa": "/briːtʃ/",
+    "meaning": "缺口、裂口；违反、违背；突破、冲破、违反",
+    "sense": "完整的墙、界限或约定被打破，留下一个口子，就是 breach。物理上是破口，规则上就是违反。",
+    "split": "名词承古英语 bryce 破裂、打破，又受古法语同源 breche 影响，与 break 共享更早的日耳曼词族。英语动词后来由名词发展。",
+    "history": [
+      [
+        "古英语 bryce；法语同源 breche 的影响 → breach",
+        "打破、裂开 → 破开的缺口；旧有违反等比喻"
+      ],
+      [
+        "名词 breach → 动词及现代固定用法",
+        "冲开缺口；突破、违反规则或约定"
+      ]
+    ],
+    "explanation": "a breach in a wall 墙上的缺口；a breach of the rules 违规；breach an agreement 违背约定。",
+    "usage": "a security breach 安全边界被突破的事件；a breach of trust 失信。",
+    "contrast": "breach 与 break 同源但用法不同，breach 常聚焦某个边界、约定被打破。breech 臀部、后膛等常与它同音，不能混拼。",
+    "examples": [
+      [
+        "Water escaped through a breach in the wall.",
+        "水从墙上的缺口流了出去。"
+      ],
+      [
+        "The report described a serious breach of the rules.",
+        "报告描述了一次严重违规。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breach#English",
+      "https://www.etymonline.com/word/breach"
+    ]
+  },
+  {
+    "word": "breaches",
+    "ipa": "/ˈbriːtʃɪz/",
+    "meaning": "缺口、违反事件〔复数〕；突破、违反〔第三人称单数〕",
+    "sense": "一道道边界、规则被打开口子，可以数成 breaches。动词则说某个行为正在破坏原来的约定、限制。",
+    "split": "breach + -es，/tʃ/ 后读 /ɪz/。breach 承古英语破裂名词，并受法语同源词影响，现代与 break 共享旧词族而分工不同。",
+    "history": [
+      [
+        "古英语破裂词及法语同源形式 → breach",
+        "打破 → 缺口、违规与突破动作"
+      ],
+      [
+        "breach + -es → breaches",
+        "多个破口、违规事件；某事突破、违背"
+      ]
+    ],
+    "explanation": "breaches of the rules 多次违规；data breaches 数据安全边界遭突破的事件；breaches an agreement 违反约定。",
+    "usage": "several breaches 几次违规、几个缺口；breaches in the wall 墙上缺口。",
+    "contrast": "breaches 可数事件，也可以是动词。a breach of a rule、breaches a rule 前者是名词带 of，后者动词直接接规则对象。",
+    "examples": [
+      [
+        "The report recorded three breaches of the rules.",
+        "报告记录了三次违规。"
+      ],
+      [
+        "The change breaches our agreement.",
+        "这项改动违背了我们的约定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/breaches#English",
+      "https://www.etymonline.com/word/breach"
+    ]
+  },
+  {
+    "word": "pic",
+    "ipa": "/pɪk/",
+    "meaning": "图片、照片；电影〔口语缩称〕",
+    "sense": "说 picture 太长，聊天里把后面截掉，留一个短短的 pic，就成了随意的图片、照片称呼。",
+    "split": "picture 的截短词 pic，十九世纪已有口语记录，后来也可缩称 motion picture 电影。picture 更早接拉丁 pictura 绘画，属于 pingere、pict- 的词族。",
+    "history": [
+      [
+        "拉丁 pictura → 英语 picture",
+        "绘画、形象 → 图片、照片等"
+      ],
+      [
+        "picture 截短 → pic",
+        "口语图片、照片；特定行业也可说电影"
+      ]
+    ],
+    "explanation": "a pic of the garden 花园照片；a holiday pic 假期照片；take a pic 拍张照。",
+    "usage": "a profile pic 头像；a clear pic 清楚的图片。",
+    "contrast": "pic 读 /pɪk/，不像 picture 后面还带 /tʃə(r)/。pick 选择、挑选与它同音，但来源、拼写不同。",
+    "examples": [
+      [
+        "I took a pic of the old bridge.",
+        "我拍了张老桥的照片。"
+      ],
+      [
+        "This pic was taken last summer.",
+        "这张照片是去年夏天拍的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pic#English",
+      "https://www.etymonline.com/word/pic"
+    ]
+  },
+  {
+    "word": "pics",
+    "ipa": "/pɪks/",
+    "meaning": "图片、照片；电影等〔口语复数〕",
+    "sense": "几张照片、一组图片，聊天或界面里的随意说法常是 pics。",
+    "split": "picture 截短为 pic，再加 -s，/k/ 后读 /s/。s 是普通英语复数，不属于原来的 picture；pic 的 c 在这个短词里读 /k/。",
+    "history": [
+      [
+        "picture → 口语截短 pic",
+        "完整名称变成简短说法"
+      ],
+      [
+        "pic + -s → pics",
+        "多张图片、照片；特定语境也可指电影"
+      ]
+    ],
+    "explanation": "holiday pics 假期照片；family pics 家庭照片；a folder of pics 图片文件夹。",
+    "usage": "recent pics 最近拍的照片；pics of the new room 新房间的照片。",
+    "contrast": "pics 与 pictures 意思可重合，但更随意。不是只有网络上的图片才能叫 pics，纸质照片也可以这样口语称呼。",
+    "examples": [
+      [
+        "She showed us some pics from the trip.",
+        "她给我们看了几张旅行照片。"
+      ],
+      [
+        "The app organises my pics by date.",
+        "应用按日期整理我的照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pics#English",
+      "https://www.etymonline.com/word/pic"
+    ]
+  },
+  {
+    "word": "picturing",
+    "ipa": "/ˈpɪktʃərɪŋ/",
+    "meaning": "想象、在脑中描绘〔现在分词、动名词〕",
+    "sense": "不一定真的拿笔画，而是在脑里出现一幅具体画面，就是 picturing 的常见动词用法。",
+    "split": "picture 去 e 加 -ing。picture 名词接拉丁 pictura、pictus 绘画材料，英语后来把图像名词转为描绘、想象的动词。",
+    "history": [
+      [
+        "拉丁 pictura → 英语 picture 名词；后有动词",
+        "画、图像 → 描绘；在脑中成像"
+      ],
+      [
+        "picture 去 e 加 -ing → picturing",
+        "正在想象、描绘一种具体情景"
+      ]
+    ],
+    "explanation": "picturing a room 想象房间的样子；picturing someone in a role 想象某人担任一种角色；picturing yourself there 想象自己身处其中。",
+    "usage": "picturing the scene 想象场景；have trouble picturing 难以想象画面。",
+    "contrast": "picturing 常强调具体的心理画面；thinking 更宽，不一定有图像。它不是普通的拍照动词表达，take a picture 才常说拍照。",
+    "examples": [
+      [
+        "I am picturing the room with lighter walls.",
+        "我正在想象房间换成浅色墙面的样子。"
+      ],
+      [
+        "Try picturing the journey before you draw the map.",
+        "画地图前，试着在脑里回想一下这段路线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/picturing#English",
+      "https://en.wiktionary.org/wiki/picture#English"
+    ]
+  }
+]

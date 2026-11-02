@@ -1,0 +1,195 @@
+[
+  {
+    "id": "B3938",
+    "meaning": "植物名到科学词干，具体化合物再按结构命名",
+    "core": "CANNAB-：先认植物，再区分一类成分与某个化合物",
+    "image": "cannabis → cannabinoid；cannabidiol 是具体名称，常缩写 CBD。",
+    "intro": "植物、化合物类别与单个化合物是三个层次。学长词时，把来源词干、连接元音与化学命名部分分开读。",
+    "forms": "kannabis → cannabis；cannab- + -in + -oid 相关类别；cannab- + -i- + di- + -ol → cannabidiol。\n\ncanvas 经法语接拉丁麻制材料，不是现代 cannabis 直接缩短；canvass 从旧帆布用法走向细查、征询，具体中间义演变有解释空间。\n\n与 cannabis 对照名称，marijuana 直接接墨西哥西班牙语 marihuana，远源不确定；不由 cannabis 拆字派生。",
+    "branches": [
+      [
+        "植物、成分类别与具体化合物",
+        "cannabis · cannabinoid · cannabidiol"
+      ],
+      [
+        "麻的植物名、布料名与词义扩展：canvas、canvass",
+        "cannabis · canvas · canvases · canvass · canvassing"
+      ],
+      [
+        "marijuana：另一路进入英语的大麻称呼",
+        "cannabis · marijuana"
+      ]
+    ],
+    "contrasts": "cannabis、CBD、THC 不同层级；diol 的结构提示不能替代整个化合物定义。",
+    "practice": "Cannabidiol is one cannabinoid found in cannabis.\n\n大麻二酚是大麻中存在的一种大麻素。",
+    "words": [
+      "cannabis",
+      "cannabinoid",
+      "cannabidiol",
+      "canvas",
+      "canvases",
+      "canvass",
+      "canvassing",
+      "marijuana"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4582",
+    "meaning": "是否与具体用途、对象相配",
+    "core": "SUITED：放到这个位置，合适还是不合适",
+    "image": "suited → unsuited。",
+    "intro": "合适是关系：某人适合一种工作，不适合另一种。否定前缀撤去匹配性质，不必把评价扩大为整个人、物都没有价值。",
+    "forms": "suit → suited；un- + suited → unsuited。",
+    "branches": [
+      [
+        "适合与不适合",
+        "suited · unsuited"
+      ]
+    ],
+    "contrasts": "suited、unsuited 都常接 to 或 for，后面说明匹配对象。",
+    "practice": "The tool is suited to light tasks but unsuited to heavy work.\n\n这件工具适合轻活，不适合重活。",
+    "words": [
+      "suited",
+      "unsuited"
+    ],
+    "exclude": {
+      "ill-suited": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3746",
+    "meaning": "穿过阻力的前进，涉水动作与摇摆步态各有重点",
+    "core": "WADE：脚踩着底，一步步穿过去",
+    "image": "wade → wading；同族旧动作形式 → waddle。",
+    "intro": "涉水能给费力读材料提供形象。wading 变成动作、用途、习性的描述；waddle 则关注身体左右摆动的小步走法。",
+    "forms": "wadan → waden → wade，去 e + -ing；wadelen → waddle，古老 -le 反复动作形式。\n\nwaddle 联系 wade 与旧小幅、反复动作后缀 -le；wade 的旧义更宽，不是现代必须先涉水才能变成摇摆走路。",
+    "branches": [
+      [
+        "涉水及活动性质",
+        "wade · wading"
+      ],
+      [
+        "摇摆步态的同族形式",
+        "waddle"
+      ],
+      [
+        "waddle：左右摇摆地走",
+        "waddle · waddles · waddled · waddling"
+      ]
+    ],
+    "contrasts": "waddle 可以发生在岸上；wade through reports 常带费力处理的比喻。",
+    "practice": "The ducks waddled to the stream before wading into it.\n\n鸭子摇摆着走到溪边，然后蹚进水里。",
+    "words": [
+      "wade",
+      "wading",
+      "waddle",
+      "waddles",
+      "waddled",
+      "waddling"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2973",
+    "meaning": "货、运输与费用，装载形象又进入情绪和意味",
+    "core": "FREIGHT：把有分量的东西载着走",
+    "image": "freight → freighter、freighted。",
+    "intro": "货船、货机按用途命名；货物装上去的状态，又能形容一句话、一首歌承载的意义。运费则看运输服务这一支。",
+    "forms": "vracht、vrecht 等 → freight；-er 工具、人；-ed 状态；gh 不发音。",
+    "branches": [
+      [
+        "货运、运输工具与装载状态",
+        "freight · freighter · freighted"
+      ]
+    ],
+    "contrasts": "freight charges 是运费；freighted with meaning 沿承载形象读。",
+    "practice": "The freighter was freighted with goods whose freight charges had already been paid.\n\n货轮装着一批货，其运费已经支付。",
+    "words": [
+      "freight",
+      "freighter",
+      "freighted"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3517",
+    "meaning": "贴面划过带走东西，动作与工具由同一画面相连",
+    "core": "WIPE：贴住表面擦过去，把水、污渍或记录抹掉",
+    "image": "wipe → wiper；a wipe 又可是一片擦拭材料。",
+    "intro": "桌面、脸、玻璃是实体对象；数据是扩展对象。工具名 -er 不一定指人，车辆雨刷最容易留下直观记忆。",
+    "forms": "wipian → wipen → wipe；去 e + -er → wiper。\n\nwipe 继承古英语 wipian；去 e 加完整 ed、ing，三单直接加 s。",
+    "branches": [
+      [
+        "擦拭动作与执行工具",
+        "wipe · wiper"
+      ],
+      [
+        "wipe → wipes、wiped、wiping：擦拭到擦除",
+        "wipe · wipes · wiped · wiping"
+      ]
+    ],
+    "contrasts": "wiper 不是玻璃本身；scrub 反复用力擦刷与 wipe 的动作重点不同。",
+    "practice": "The wipers wiped rain from the windscreen.\n\n雨刷把雨水从挡风玻璃上刮去。",
+    "words": [
+      "wipe",
+      "wiper",
+      "wipes",
+      "wiped",
+      "wiping"
+    ],
+    "exclude": {
+      "asswipe": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4520",
+    "meaning": "看护、保护者走到学习指导者，再到辅导与教程",
+    "core": "TUTOR：有人在旁看着，卡住时带你往前学",
+    "image": "tutor → tutorial。",
+    "intro": "旧日看护含义说明角色来源，现代用法重点在辅导。人可以当 tutor，步骤指导则可以做成 tutorial。",
+    "forms": "tueor → tutor → tuteur、tutour → tutor；-ial 形容词后转名词。\n\ntuition 经法语接拉丁 tuitio，和 tutor 同接 tueri 看护，学费义常解释为 tuition fees 缩短。",
+    "branches": [
+      [
+        "指导者与辅导形式",
+        "tutor · tutorial"
+      ],
+      [
+        "tutor 与 tuition：看护、指导到教学、学费",
+        "tutor · tuition"
+      ]
+    ],
+    "contrasts": "tutorial 可能是小组课，也可能是网上教程；不同教育制度下 tutor 职位范围不同。",
+    "practice": "The tutor prepared a tutorial for the students.\n\n辅导老师为学生准备了一份教程。",
+    "words": [
+      "tutor",
+      "tutorial",
+      "tuition"
+    ],
+    "exclude": {
+      "e-tutor": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3439",
+    "meaning": "旧日负面性质，走向调皮与部分口语赞语",
+    "core": "WICKED：真坏、调皮、厉害，靠语境换一层语气",
+    "image": "wicked → wickedly、wickedness。",
+    "intro": "邪恶王后、调皮笑容、尖锐幽默是不同强度与态度。副词也能加强程度，性质名词通常仍保留邪恶义。",
+    "forms": "wicke、wikked → wicked；-ly 方式、程度；-ness 性质；常用 wicked 读 /ˈwɪkɪd/。",
+    "branches": [
+      [
+        "性质、方式与邪恶概念",
+        "wicked · wickedly · wickedness"
+      ]
+    ],
+    "contrasts": "wickedness 不自动继承 wicked 的极棒赞语义；wicked 的更早来源争论保留。",
+    "practice": "The wicked character grinned wickedly, but the novel never excuses his wickedness.\n\n那个邪恶角色恶意地咧嘴笑着，小说却从不为他的恶行开脱。",
+    "words": [
+      "wicked",
+      "wickedly",
+      "wickedness"
+    ],
+    "exclude": {}
+  }
+]

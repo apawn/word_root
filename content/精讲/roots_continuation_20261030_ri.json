@@ -1,0 +1,48 @@
+[
+  {
+    "id": "A2265",
+    "meaning": "口语回复中闭唇收住的末尾音、相应拼写〔不是古典词根义〕",
+    "core": "末尾 P：让回复短促收住，肯定还是否定由原词决定",
+    "image": "yeah、yes 的肯定可以变成 yep、yup；no 的否定可以变成 nope；well 的承接、无奈口吻可写成 welp。",
+    "intro": "这一项是口语发音、拼写形式的整理。末尾 /p/ 常与闭唇收音、表达口吻有关，不是一个一加上去就表示同意或反对的拉丁、希腊词根。肯定、否定回复各自还有更早的不同历史。",
+    "forms": "yes／yeah → yep、yup；no → nope；well → welp，是现代识别这些形式的对照。yea、yay、nay、nah 放在旁边帮助辨读，不声称它们都由同一个 p 后缀派生。\n\n这里只对照回应方式，不把 okay 当 -p 派生词。okay 是 OK 按字母读音写出的形式；OK 的有文献支持来源是 all correct 故意拼作 oll korrect 的缩写玩笑。",
+    "branches": [
+      [
+        "肯定及口语变体",
+        "yes · yea · yeah · yep · yup"
+      ],
+      [
+        "否定及对应读法",
+        "no · nah · nay · nope"
+      ],
+      [
+        "欢呼与承接口吻",
+        "yay；well · welp"
+      ],
+      [
+        "与 yes、yep 对照：okay 的同意、认可",
+        "okay"
+      ]
+    ],
+    "contrasts": "yea 赞成票、yay 欢呼、yeah 口语肯定分开；nope 不能随意替代限定名词的 no，如 no money；yep、nope 是否显得礼貌取决于整句和语调。",
+    "practice": "“Ready?” “Yep.” “Any problems?” “Nope.”\n\n“准备好了？”“嗯。”“有问题吗？”“没有。”",
+    "words": [
+      "yes",
+      "yea",
+      "yeah",
+      "yep",
+      "yup",
+      "no",
+      "nah",
+      "nay",
+      "nope",
+      "yay",
+      "well",
+      "welp",
+      "okay"
+    ],
+    "exclude": {
+      "ope": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

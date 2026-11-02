@@ -1,0 +1,108 @@
+[
+  {
+    "id": "B3378",
+    "meaning": "检查、核对、制止；勾选及其工具",
+    "core": "CHECK：核一下，也能让势头停一下",
+    "image": "今天最常用是核对，历史却有棋局将军的背景；按现代用途分组，比硬套单一路线更清楚。",
+    "intro": "check 远接波斯语国王的词，经阿拉伯语和欧洲语言进入棋局称呼，再扩展出制约、核查等。checker 的棋子分支须和检查工具分开。",
+    "forms": "check → checker、recheck；checklist 逐项核查；checkbox 容器、checkmark 记号、uncheck 撤销选择；checksum 检验数据、soundcheck 演前试音。\n\ncheck 的棋局将军称呼远接波斯 shāh 国王，核查、限制、付款等现代分支有不同使用史。\n\nchecking 的 ch 为 /tʃ/，直接加 -ing，不另改词干；具体检查对象和 check 的其他搭配仍看语境。\n\nchess 经古法语 esches 的复数形整体借入，check 走相关棋语路线，现代不是 check 复数改字母。\n\ncheck 在这里取勾选记号、核验义。\n\ncheckout 是 check out 的名词形式，常说付款处、结账流程、退房；不同用途沿各自语境发展，英语借入 check 的更远词史另见基础词。",
+    "branches": [
+      [
+        "核查基础",
+        "check · checker · recheck · checkpoint"
+      ],
+      [
+        "清单与勾选",
+        "checklist · checkbox · checkmark · uncheck"
+      ],
+      [
+        "专门核验和支付词",
+        "checksum · soundcheck · paycheck"
+      ],
+      [
+        "check → checks／checked：核查、限制与检查事项",
+        "check · checks · checked"
+      ],
+      [
+        "check → checks／checked／checking：正在核查",
+        "check · checking"
+      ],
+      [
+        "棋语的不同借入形式：check 与 chess",
+        "check · chess"
+      ],
+      [
+        "checkbox → checkboxes：可勾选的小框",
+        "checkbox · checkboxes"
+      ],
+      [
+        "check + out → checkout",
+        "checkout"
+      ]
+    ],
+    "contrasts": "checkbox 框，checkmark 勾；checker 可是棋子或检查工具；check 美式可说支票，英式常写 cheque。",
+    "practice": "Check the checklist, then uncheck any item you no longer need.\n\n核对清单，然后取消勾选不再需要的项目。",
+    "words": [
+      "check",
+      "checker",
+      "recheck",
+      "checkpoint",
+      "checklist",
+      "checkbox",
+      "checkmark",
+      "uncheck",
+      "checksum",
+      "soundcheck",
+      "paycheck",
+      "checks",
+      "checked",
+      "checking",
+      "chess",
+      "checkboxes",
+      "checkout"
+    ],
+    "exclude": {
+      "cross-check": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2936",
+    "meaning": "共同、公共；常见与普通",
+    "core": "COMMON：共有，或到处可见，先看所修饰的对象",
+    "image": "共同目标属于大家，常见错误经常出现；一个 common 把两种熟悉的场景连接起来，但不能逐句混用。",
+    "intro": "common 经法语接拉丁 commūnis。现代学习先分共同与常见，再读 commonly、uncommon；commoner 是人物身份，commonality 是共有特点，commonwealth 是历史政治名称。",
+    "forms": "common → commonly、uncommon；common → commoner、commonality；common + wealth 旧福祉义 → commonwealth。\n\n法语接拉丁 communis，性质词公共、共同发展成名词公共部分、公共资源等。",
+    "branches": [
+      [
+        "基础与频率",
+        "common · commonly · uncommon"
+      ],
+      [
+        "人物与共有特征",
+        "commoner · commonality"
+      ],
+      [
+        "历史共同体名称",
+        "commonwealth"
+      ],
+      [
+        "common → commons：公共地、平民与共享资源",
+        "common · commons"
+      ]
+    ],
+    "contrasts": "common 不保证正确；not uncommon 并不少见；commoner 不等于穷人；commonwealth 不能只按现代财富理解。",
+    "practice": "We found an uncommon skill and several common interests.\n\n我们发现了一项少见的技能，以及几个共同兴趣。",
+    "words": [
+      "common",
+      "commonly",
+      "uncommon",
+      "commoner",
+      "commonality",
+      "commonwealth",
+      "commons"
+    ],
+    "exclude": {
+      "non-common": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

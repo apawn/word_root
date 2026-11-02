@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B4018",
+    "meaning": "覆盖形成的甲板、平台，以及层与成套页面",
+    "core": "DECK：覆盖上面的一层，后来也数层、数整套",
+    "image": "deck → decker 看层数；quarterdeck 指船后特定甲板；deckhand 是甲板工作人员。",
+    "intro": "一层平台最容易想象，但演示文稿的一套页和装饰动作已有固定用法。先抓物体，再分清所在位置、层数还是动作。",
+    "forms": "dec/dekken → deck；deck + -er/hand；quarter + deck。\n\ndeck 借中古荷兰语屋顶、覆盖名的航海用法，后来也说纸牌一副、设备平台等。现代 -s，/k/ 后读 /s/。",
+    "branches": [
+      [
+        "平台、层数与人员",
+        "deck · decker · deckhand"
+      ],
+      [
+        "船上的部位",
+        "quarterdeck"
+      ],
+      [
+        "deck 覆盖、甲板 → decks",
+        "decks"
+      ]
+    ],
+    "contrasts": "slide 是一页，deck 是一套；decker 不一定是人；quarterdeck 不是随便四分之一甲板。",
+    "practice": "The deckhand crossed the deck toward the quarterdeck.\n\n甲板工作人员穿过甲板，往后甲板走去。",
+    "words": [
+      "deck",
+      "decker",
+      "deckhand",
+      "quarterdeck",
+      "decks"
+    ],
+    "exclude": {
+      "double-decker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "holodeck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3971",
+    "meaning": "估价、判断分量，分出估算和敬重两种方向",
+    "core": "ESTIMATE：在资料有限时判断多少、值多少",
+    "image": "estimate → estimation/estimator；underestimate 估低，overestimate 估高；estimable 则保留有价值、值得敬重的支线。",
+    "intro": "先有评价分量的共同感觉，再区分数字判断和价值判断。合理估计可以有误差；估算规则和实际算出的数字也不是一回事。",
+    "forms": "aestimāre/aestimātus → estimate；aestimātiō → estimation；aestimātor → estimator；under-/over- + estimate；aestimābilis → estimable。\n\n动词 estimate 的词尾读音与名词不同。\n\n拉丁估价词族，名词尾 /mət/、动词尾 /meɪt/ 分别标出。",
+    "branches": [
+      [
+        "估算与估算角色",
+        "estimate · estimation · estimator"
+      ],
+      [
+        "判断偏低、偏高",
+        "underestimate · overestimate"
+      ],
+      [
+        "值得尊重的价值义",
+        "estimable"
+      ],
+      [
+        "estimate → estimated：估价、估算与估计值",
+        "estimate · estimated"
+      ],
+      [
+        "estimate → estimates：估出的数与估算动作",
+        "estimate · estimates"
+      ]
+    ],
+    "contrasts": "estimate 名词 /mət/、动词 /meɪt/；estimator 与 estimate 统计上分规则和取值；estimable 不一律可算钱。",
+    "practice": "The estimator checked whether the estimate was an underestimate or an overestimate.\n\n估算员检查这项估计是偏低还是偏高。",
+    "words": [
+      "estimate",
+      "estimation",
+      "estimator",
+      "underestimate",
+      "overestimate",
+      "estimable",
+      "estimated",
+      "estimates"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3423",
+    "meaning": "液汁及让东西有活力、吸引力的扩展",
+    "core": "JUICE：从流出来的汁，到让东西动起来的能量",
+    "image": "juice → juicy 多汁、劲爆；juiced 经过榨汁或口语状态；juicer 榨汁工具。",
+    "intro": "果汁是实物入口，电量和精力抓供能的比喻，八卦抓内容饱满的感觉。最后仍由对象和搭配确定意思。",
+    "forms": "jūs → jus/jous → juice；juice 去 e 加 -y；juice + -ed/-er。",
+    "branches": [
+      [
+        "汁液、性质与加工",
+        "juice · juicy · juiced · juicer"
+      ]
+    ],
+    "contrasts": "juicy 不保证消息真实；juiced 不等于多汁；juicer 与 blender 的工作重点不同；run out of juice 可说没电。",
+    "practice": "The juicer ran out of power before we had enough juice.\n\n汁还没榨够，榨汁机就没电了。",
+    "words": [
+      "juice",
+      "juicy",
+      "juiced",
+      "juicer"
+    ],
+    "exclude": {
+      "e-juice": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

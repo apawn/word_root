@@ -1,0 +1,382 @@
+[
+  {
+    "word": "assets",
+    "ipa": "/ˈæsets/",
+    "meaning": "资产；有用的资源、优势〔复数〕",
+    "sense": "能拿来支撑一件事、对自己有价值的财产或资源，是 assets；语言能力、经验、可靠的同事也可成为团队的优势。",
+    "split": "现代可对应 asset + -s，但历史顺序相反：先借盎格鲁法语 assetz、asetz，背后是法语 assez 足够及较早 ad satis 到足够；先指足够清偿义务的财产，再扩为资产，后来英语才反推单数 asset。",
+    "history": [
+      [
+        "较早 ad satis → 法语 assez、asetz → 英语 assets",
+        "足够 → 可供清偿的财产 → 资产"
+      ],
+      [
+        "英语 assets → 反推 asset；现代 asset／assets",
+        "先有复数形，再建立单复数对应"
+      ]
+    ],
+    "explanation": "company assets 公司资产；financial assets 金融资产；valuable assets 宝贵资源；assets to the team 对团队有帮助的人或优势。",
+    "usage": "protect the assets；make good use of its assets。",
+    "contrast": "assets 财产义较广，cash 只说现金或现金资金；assets 也可以比喻有价值的能力、资源。这个词适合记住“历史上复数在先”的特殊形成顺序。",
+    "examples": [
+      [
+        "The report lists the organization’s main assets.",
+        "报告列出了该组织的主要资产。"
+      ],
+      [
+        "Her language skills are valuable assets to the team.",
+        "她的语言能力是团队的宝贵资源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assets#English",
+      "https://www.etymonline.com/word/assets"
+    ]
+  },
+  {
+    "word": "supplies",
+    "ipa": "/səˈplaɪz/",
+    "meaning": "物资、用品；供应、提供〔第三人称单数〕",
+    "sense": "把眼前缺的东西补上，是 supplies 的动词用法；备好让大家使用的一批东西，就是名词 supplies。",
+    "split": "supply 的辅音加 y 变为 -ies，词尾读 /z/。supply 经法语及拉丁路线接 supplēre 补足，历史含 sub- 与 plēre 填满，前缀在 p 前同化为 sup-。",
+    "history": [
+      [
+        "拉丁 supplēre → 法语等路线 → 英语 supply",
+        "补足缺少的部分 → 供应"
+      ],
+      [
+        "supply 变 y 为 ies → supplies",
+        "一批物资；单数主语提供"
+      ]
+    ],
+    "explanation": "school supplies 学习用品；emergency supplies 应急物资；food supplies 食品供应、储备；supplies the village with water 为村庄供水。",
+    "usage": "pack the supplies；supplies electricity to the building。",
+    "contrast": "名词 supplies 常把可使用、消耗的物资合起来说。动词可用 supplies someone with something，或 supplies something to someone；supply 还可不可数地说供应情况。",
+    "examples": [
+      [
+        "We packed food, water and other supplies for the trip.",
+        "我们为旅途装好了食物、水和其他物资。"
+      ],
+      [
+        "The small reservoir supplies the village with water.",
+        "这座小水库向村庄供水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplies#English",
+      "https://en.wiktionary.org/wiki/supply#English"
+    ]
+  },
+  {
+    "word": "materials",
+    "ipa": "英 /məˈtɪəriəlz/；美 /məˈtɪriəlz/",
+    "meaning": "材料；原料；资料、素材〔复数〕",
+    "sense": "要做成一件东西，手里先得有材料；要讲课、研究、写文章，拿来使用的资料也像材料，所以同样叫 materials。",
+    "split": "material + -s，/l/ 后读 /z/。material 经法语等接晚期拉丁 māteriālis，来自 māteria 木材、材料、物质。现代复数按英语规则形成，材料义扩展到信息、学习素材。",
+    "history": [
+      [
+        "拉丁 māteria、māteriālis → 法语、英语 material",
+        "木材、物质 → 材料"
+      ],
+      [
+        "material + -s → materials",
+        "多种制作材料；学习、研究等资料"
+      ]
+    ],
+    "explanation": "building materials 建筑材料；raw materials 原料；teaching materials 教学资料；reference materials 参考资料。",
+    "usage": "choose suitable materials；materials for the workshop。",
+    "contrast": "material 也可不可数地说一类材料或资料总体；materials 常把不同材料、不同份资料合起来谈。中文学习资料常译 learning materials，不必只想到木头、金属。",
+    "examples": [
+      [
+        "The children built their models from recycled materials.",
+        "孩子们用回收材料制作了模型。"
+      ],
+      [
+        "The teacher shared the reading materials before class.",
+        "老师在课前分享了阅读资料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/materials#English",
+      "https://en.wiktionary.org/wiki/material#English"
+    ]
+  },
+  {
+    "word": "grounds",
+    "ipa": "/ɡraʊndz/",
+    "meaning": "场地、园地；理由、根据；沉渣；使停飞、禁足等〔第三人称单数〕",
+    "sense": "一栋建筑周围的土地，是 grounds；支撑一个判断的根据，也像它站得住的地基。coffee grounds 则指咖啡渣，需要另认词族。",
+    "split": "ground + -s，/d/ 后读 /z/。场地、根据接古英语 grund 的地面、基础词族；沉渣义常联系 grind 研磨的过去形式 ground，具体早期连接仍有讨论。现代 ground 动词还可说停飞、禁足、奠定基础等。",
+    "history": [
+      [
+        "古英语 grund → ground → grounds",
+        "地面、基础 → 场地、根据"
+      ],
+      [
+        "另一词族：grind → ground；沉渣义 grounds 常与此联系",
+        "磨碎、研磨 → 沉渣、咖啡渣等"
+      ]
+    ],
+    "explanation": "school grounds 校园场地；castle grounds 城堡园地；grounds for concern 值得担忧的理由；coffee grounds 咖啡渣。",
+    "usage": "on the grounds that ...；grounds the aircraft。",
+    "contrast": "on the grounds that ... 是以……为理由。ground coffee 是磨好的咖啡，coffee grounds 常说咖啡渣；两个表达要分别认识。grounds the aircraft 则是使飞机停飞。",
+    "examples": [
+      [
+        "The school grounds are open to visitors on Saturday.",
+        "学校的场地周六向访客开放。"
+      ],
+      [
+        "There are good grounds for asking more questions.",
+        "有充分理由继续追问。"
+      ],
+      [
+        "She emptied the coffee grounds into a container.",
+        "她把咖啡渣倒进一个容器里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grounds#English",
+      "https://www.etymonline.com/word/grounds"
+    ]
+  },
+  {
+    "word": "securities",
+    "ipa": "英 /sɪˈkjʊərətiz/；美 /sɪˈkjʊrətiz/",
+    "meaning": "证券〔金融语境，security 的复数〕",
+    "sense": "把某些财产权利写进可持有、转让的凭证或相应电子记录，金融语境里常统称 securities，例如股票、债券。这里按专门名词理解。",
+    "split": "security 的 y 变为 -ies。security 经法语接拉丁 sēcūritās，关联 sēcūrus 无忧、安全，较早有 sē- 离开与 cūra 忧虑；保障、担保及相关文书的用法发展后，securities 成为证券的常见总称。",
+    "history": [
+      [
+        "拉丁 sēcūrus、sēcūritās → 法语 → security",
+        "无忧、安全 → 保障、担保"
+      ],
+      [
+        "security 的金融用法；复数 securities",
+        "担保或权利相关凭证 → 证券"
+      ]
+    ],
+    "explanation": "stocks and other securities 股票及其他证券；government securities 政府证券；securities markets 证券市场。",
+    "usage": "hold securities；the value of the securities。",
+    "contrast": "security 单数或不可数可说安全、安保、担保；securities 在财经文字里通常说证券。虽然来自安全词族，词源本身不说明某种证券的风险大小。",
+    "examples": [
+      [
+        "The report lists the securities held by the fund.",
+        "报告列出了该基金持有的证券。"
+      ],
+      [
+        "The course explains the difference between shares and debt securities.",
+        "这门课解释了股票与债务证券的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/securities#English",
+      "https://en.wiktionary.org/wiki/security#English",
+      "https://www.etymonline.com/word/security"
+    ]
+  },
+  {
+    "word": "essentials",
+    "ipa": "/ɪˈsenʃəlz/",
+    "meaning": "必需品；基本要点、必备知识〔复数名词〕",
+    "sense": "先把其他东西放一边，真正缺不得、必须先有的那些东西或要点，就是 essentials。",
+    "split": "essential 表必不可少的，作名词表示必需之物，再加 -s → essentials。essential 借晚期拉丁 essentiālis，接 essentia 存在、本质；英语中不由较晚的 essence 临时派生。",
+    "history": [
+      [
+        "拉丁 essentia、essentiālis → 英语 essential",
+        "本质、存在 → 根本的、不可少的"
+      ],
+      [
+        "essential 名词化 + -s → essentials",
+        "必需的东西；基础要点"
+      ]
+    ],
+    "explanation": "pack the essentials 装好必需品；the essentials of cooking 烹饪基础；travel essentials 旅行必需品；cover the essentials 讲清基本要点。",
+    "usage": "just the essentials；learn the essentials first。",
+    "contrast": "essentials 可以是物品，也可以是知识、原则。essential 是形容词时常修饰别的名词，如 essential equipment；essentials 自己就能作名词。",
+    "examples": [
+      [
+        "We packed only the essentials for the short trip.",
+        "这次短途旅行，我们只带了必需品。"
+      ],
+      [
+        "The first lesson covers the essentials of using the camera.",
+        "第一节课讲解使用相机的基本要点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/essentials#English",
+      "https://en.wiktionary.org/wiki/essential#English"
+    ]
+  },
+  {
+    "word": "specifics",
+    "ipa": "/spəˈsɪfɪks/",
+    "meaning": "具体细节；明确事项〔复数名词〕",
+    "sense": "大方向已经说过，现在再问到底哪天、多少钱、由谁做，这些具体到一项项的信息，就是 specifics。",
+    "split": "specific 具体的、特定的作名词，再加 -s，/k/ 后读 /s/。specific 经法语接拉丁 specificus，较早含 speciēs 种类与 -ficus 构成、造成的成分；现代这里是形容词名词化。",
+    "history": [
+      [
+        "拉丁 specificus → 法语 → 英语 specific",
+        "特定种类的 → 具体、特定的"
+      ],
+      [
+        "specific 名词化 + -s → specifics",
+        "具体的事项、细节"
+      ]
+    ],
+    "explanation": "discuss the specifics 讨论具体细节；go into specifics 详谈具体事项；the specifics of the plan 计划的具体内容。",
+    "usage": "agree on the specifics；without giving specifics。",
+    "contrast": "specific 是形容词，如 specific details；specifics 自己是名词，通常用复数说具体细节。general idea 给大概，specifics 把日期、数量、分工等说实。",
+    "examples": [
+      [
+        "We agreed on the main idea but still need to discuss the specifics.",
+        "我们在主要想法上达成了一致，但还需要讨论具体细节。"
+      ],
+      [
+        "She described the problem without going into specifics.",
+        "她描述了问题，但没有展开具体细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/specifics#English",
+      "https://en.wiktionary.org/wiki/specific#English"
+    ]
+  },
+  {
+    "word": "particulars",
+    "ipa": "英 /pəˈtɪkjələz/；美 /pərˈtɪkjələrz/",
+    "meaning": "详细情况；具体资料；细节〔复数名词〕",
+    "sense": "把一件事拆开，一项项说清楚具体是什么，这些详细情况就是 particulars。表格里常是姓名、地址等资料。",
+    "split": "particular 作名词，再加 -s。particular 经法语接拉丁 particulāris，来自 particula 小部分，与 pars、part- 部分同族；个别、具体的性质发展为一个个细节。",
+    "history": [
+      [
+        "拉丁 pars、particula、particulāris → 法语 → particular",
+        "部分、小部分 → 个别的、具体的"
+      ],
+      [
+        "particular 名词化 + -s → particulars",
+        "各项具体情况、详细资料"
+      ]
+    ],
+    "explanation": "personal particulars 个人资料；full particulars 全部详细情况；particulars of the event 事件详情。",
+    "usage": "provide the particulars；check all the particulars。",
+    "contrast": "particulars 比 details 常带正式、文书的语气；在广告、报名、文件中常说具体资料。in particular 则是尤其、特别这一固定表达，不用复数。",
+    "examples": [
+      [
+        "Please check your personal particulars before signing the form.",
+        "签署表格前，请检查你的个人资料。"
+      ],
+      [
+        "The notice gave full particulars of the event.",
+        "通知列出了活动的全部详细信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/particulars#English",
+      "https://en.wiktionary.org/wiki/particular#English"
+    ]
+  },
+  {
+    "word": "valuables",
+    "ipa": "/ˈvæljuəbəlz/",
+    "meaning": "贵重物品〔复数名词〕",
+    "sense": "钱包、首饰等值得妥善保管的东西，合起来可以叫 valuables。这里把“有价值的”直接用来指那些物品。",
+    "split": "value 去末尾 e，加 -able → valuable，再名词化并加 -s → valuables。value 的较早词族有值得、有力量等义；valuables 的名词用法常集中于贵重财物。",
+    "history": [
+      [
+        "value + -able → valuable",
+        "值得的、有价值的"
+      ],
+      [
+        "valuable 作名词 + -s → valuables",
+        "有价值的物品 → 贵重物品"
+      ]
+    ],
+    "explanation": "personal valuables 个人贵重物品；keep valuables safe 保管贵重物品；leave valuables in a locker 把贵重物品存放在柜子里。",
+    "usage": "a place for your valuables；lost valuables。",
+    "contrast": "valuable information 是有价值的信息，形容词 valuable 不因 information 数量变化而加 s。valuables 已经是指物品的复数名词。",
+    "examples": [
+      [
+        "The room has a small safe for guests’ valuables.",
+        "房间里有一个供客人存放贵重物品的小保险箱。"
+      ],
+      [
+        "She put her valuables in a locker before swimming.",
+        "游泳前，她把贵重物品放进了储物柜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/valuables#English",
+      "https://en.wiktionary.org/wiki/valuable#English"
+    ]
+  },
+  {
+    "word": "necessity",
+    "ipa": "/nəˈsesəti/",
+    "meaning": "必要、必然需要；必需品；迫不得已的情势",
+    "sense": "有些东西或事情缺了就办不成，或者处境逼得人非做不可，这种“需要到不能省”的程度，就是 necessity。可数时也能指一件必需品。",
+    "split": "经古法语 necessité 接拉丁 necessitās，来自 necesse 必要、不可避免。更早通常联系 nē 不与 cēdere 退去、让开，具体词形如何合成有争论；必要性与不能回避的画面相连。英语 necessary、necessity 是相关借词，不是把现代 necessary 随意换几个字母。",
+    "history": [
+      [
+        "拉丁 necesse、necessitās → 古法语 necessité → necessity",
+        "不可避免、需要 → 必要性、迫切需要"
+      ],
+      [
+        "英语 necessity 的可数与不可数用法",
+        "必要这一状态；不可少的一件东西"
+      ]
+    ],
+    "explanation": "the necessity of planning 规划的必要性；out of necessity 出于迫不得已；a basic necessity 一件基本必需品；a necessity for daily life 生活必需品。",
+    "usage": "recognize the necessity；a practical necessity。",
+    "contrast": "necessity 不可数时谈必要性、迫切需要，可数时可说一件必需品。necessary 是形容词，如 necessary equipment；necessity 是名词，如 a necessity。",
+    "examples": [
+      [
+        "The experience taught us the necessity of careful planning.",
+        "这次经历让我们明白了周密规划的必要性。"
+      ],
+      [
+        "In that remote village, a bicycle was a necessity.",
+        "在那个偏远村庄，自行车是必需品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/necessity#English",
+      "https://www.etymonline.com/word/necessity",
+      "https://en.wiktionary.org/wiki/necesse#Latin"
+    ]
+  },
+  {
+    "word": "necessities",
+    "ipa": "/nəˈsesətiz/",
+    "meaning": "必需品；不可少的基本条件〔necessity 的复数〕",
+    "sense": "把生活、活动中缺不得的东西一件件列出来，就是 necessities。生活语境常指食物、住处、衣物等基本所需。",
+    "split": "necessity 的 y 变为 -ies。necessity 经法语接拉丁 necessitās，关联 necesse 必要、不可避免；复数把一件件必需之物合起来说。",
+    "history": [
+      [
+        "拉丁 necessitās → 法语 → 英语 necessity",
+        "迫切需要、必要性；必需之物"
+      ],
+      [
+        "necessity 变 y 为 ies → necessities",
+        "多种必需品、必要条件"
+      ]
+    ],
+    "explanation": "basic necessities 基本必需品；necessities of life 生活必需品；daily necessities 日常用品、日常必需品。",
+    "usage": "provide the necessities；food and other necessities。",
+    "contrast": "necessities 指不能缺的东西；luxuries 常指超出基本需要的享受、奢侈品。essentials 也可说必需品，并且常说一门知识的基本要点，如 the essentials of grammar。",
+    "examples": [
+      [
+        "The boxes contained food, blankets and other necessities.",
+        "箱子里装着食物、毯子和其他必需品。"
+      ],
+      [
+        "They spent most of their income on the necessities of life.",
+        "他们把大部分收入花在了生活必需品上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/necessities#English",
+      "https://en.wiktionary.org/wiki/necessity#English"
+    ]
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "carries",
+    "ipa": "/ˈkæriz/",
+    "meaning": "携带、运载、承载；传递、包含〔第三人称单数〕",
+    "sense": "把东西带在身边，或让它随着自己到别处，是 carries 的核心。物理上可以载人、运货，信息上可以传声音、带含义。",
+    "split": "carry 改 y 为 i 加 -es，末尾读 /z/。carry 经盎格鲁法语 carier、古北法语 carrier 等运输动词，接拉丁、古高卢车的词族。",
+    "history": [
+      [
+        "法语运输动词 → carry",
+        "用车运的背景 → 泛指携带、承载"
+      ],
+      [
+        "carry → carries",
+        "改 y 为 i 加 es；某人、某物承载、传递"
+      ]
+    ],
+    "explanation": "carries a bag 提着包；carries passengers 运载乘客；carries information 传递信息。",
+    "usage": "carries a meaning 带有含义；carries on working 继续工作，属于 carry on 搭配。",
+    "contrast": "carries 不只说手提，也可说船载、信号传输、消息包含。carries on 与 carries out 等短语要把小词一起读。",
+    "examples": [
+      [
+        "The ferry carries passengers across the river.",
+        "渡船把乘客运过河。"
+      ],
+      [
+        "Each symbol carries a different meaning.",
+        "每个符号都带有不同的含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/carries#English",
+      "https://en.wiktionary.org/wiki/carry#English"
+    ]
+  },
+  {
+    "word": "complaints",
+    "ipa": "/kəmˈpleɪnts/",
+    "meaning": "抱怨、投诉；不适症状等〔复数〕",
+    "sense": "觉得哪里不好，把这种不满意说出来，是 complaints。正式向机构提出的是投诉，日常随口说也可以是抱怨。",
+    "split": "complaint + -s，/t/ 后读 /s/。complaint 借法语 complainte 哀叹、抱怨，接 complaindre 的相关名词材料；t 是历史词形的一部分。",
+    "history": [
+      [
+        "法语 complainte → 英语 complaint",
+        "哀叹、抱怨 → 不满意的表达、投诉"
+      ],
+      [
+        "complaint + -s → complaints",
+        "多项投诉、多次抱怨；也有身体不适的专门用法"
+      ]
+    ],
+    "explanation": "receive complaints 收到投诉；complaints about noise 对噪声的抱怨；deal with complaints 处理投诉。",
+    "usage": "customer complaints 顾客投诉；without complaints 毫无怨言地。",
+    "contrast": "complain 是抱怨的动作，complaints 是抱怨的内容、事项。不要把名词末尾 t 当作可随意加到所有英语动词上的构词规则。",
+    "examples": [
+      [
+        "The hotel received several complaints about the noise.",
+        "酒店收到了几项有关噪声的投诉。"
+      ],
+      [
+        "She completed the long walk without complaints.",
+        "她毫无怨言地走完了这段长路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complaints#English",
+      "https://en.wiktionary.org/wiki/complaint#English"
+    ]
+  },
+  {
+    "word": "describing",
+    "ipa": "/dɪˈskraɪbɪŋ/",
+    "meaning": "描述、描写〔现在分词、动名词〕",
+    "sense": "眼前有一个样子、脑中有一段经历，把它用语言画给别人看，就是 describing。",
+    "split": "describe 去 e 加 -ing。describe 接拉丁 de- 与 scribere 写所成 describere 写下、描画，经法语进入英语；de- 在这里不表示否定。",
+    "history": [
+      [
+        "拉丁 describere → 法语 → describe",
+        "写下、描画 → 用语言描述"
+      ],
+      [
+        "describe 去 e 加 -ing → describing",
+        "正在描述；描述这项活动"
+      ]
+    ],
+    "explanation": "describing a place 描述一个地方；describing how something works 描述某物怎样工作；describing someone as 把某人形容为。",
+    "usage": "a letter describing the journey 描写旅程的信；describing the scene 描述场景。",
+    "contrast": "describe something to someone，描述对象直接接动词，人常放 to 后；describing something as 再说明把它形容成什么样。",
+    "examples": [
+      [
+        "She is describing the village where she grew up.",
+        "她正在描述自己长大的村庄。"
+      ],
+      [
+        "The article begins by describing a typical working day.",
+        "文章先描述了一个普通工作日。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/describing#English",
+      "https://en.wiktionary.org/wiki/describe#English"
+    ]
+  },
+  {
+    "word": "discussing",
+    "ipa": "/dɪˈskʌsɪŋ/",
+    "meaning": "讨论、商议〔现在分词、动名词〕",
+    "sense": "把问题拿到大家面前，分几个角度看、交换意见，就是 discussing。它强调围绕一个对象共同谈，不保证已经达成一致。",
+    "split": "discuss + -ing，直接加 ing。discuss 接拉丁 discutere、discussus，较早 dis- 分开与 quatere 摇动的材料发展出打散、细察，再到讨论。",
+    "history": [
+      [
+        "拉丁 discutere、discussus → discuss",
+        "打散、细察的词史 → 讨论"
+      ],
+      [
+        "discuss + -ing → discussing",
+        "正在围绕某事交换意见"
+      ]
+    ],
+    "explanation": "discussing the plan 讨论计划；discussing what to do 商议怎么办；discussing something with a colleague 与同事讨论某事。",
+    "usage": "worth discussing 值得讨论；discussing the details 讨论细节。",
+    "contrast": "discussing 后通常直接接讨论对象，不再加 about；talking about 才常带 about。讨论也未必等于争吵。",
+    "examples": [
+      [
+        "The team is discussing the new schedule.",
+        "团队正在讨论新日程。"
+      ],
+      [
+        "We spent the evening discussing how to improve the garden.",
+        "我们花了一晚上讨论怎样改善花园。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discussing#English",
+      "https://en.wiktionary.org/wiki/discuss#English"
+    ]
+  },
+  {
+    "word": "hosts",
+    "ipa": "英 /həʊsts/；美 /hoʊsts/",
+    "meaning": "主人、主持人、主办方；宿主〔复数〕；主办、接待〔第三人称单数〕；大量的人或物",
+    "sense": "把人或活动接到自己这边安排的是 hosts；生物学里的宿主也提供生存环境。hosts of people 的大量，却是另一条军队、人群的历史。",
+    "split": "host + -s，/t/ 后读 /s/。接待一支经法语 hoste 接拉丁 hospitem；大量一支另经法语军队词 ost 接 hostis；宗教圣饼又另接 hostia。",
+    "history": [
+      [
+        "法语 hoste、拉丁 hospitem → 主人、接待义 host；其他同形词另源",
+        "接待者 → 主办方、主持人、宿主等"
+      ],
+      [
+        "host + -s → hosts",
+        "多位主人；某机构主办；hosts of 的大量须分支理解"
+      ]
+    ],
+    "explanation": "our hosts 接待我们的主人；hosts a meeting 主办会议；hosts of visitors 大量来访者。",
+    "usage": "radio hosts 广播主持人；host organisms 宿主生物，前置修饰常用单数。",
+    "contrast": "hosts the show 是主持、主办节目的动词；the hosts of the show 是主持人。hosts of 说大量时，不把它理解成许多接待者。",
+    "examples": [
+      [
+        "Our hosts made us feel welcome.",
+        "主人热情接待，让我们很自在。"
+      ],
+      [
+        "The library hosts a reading group every month.",
+        "图书馆每月举办一次阅读小组活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hosts#English",
+      "https://en.wiktionary.org/wiki/host#English"
+    ]
+  },
+  {
+    "word": "implemented",
+    "ipa": "英 /ˈɪmplɪmentɪd/；美 /ˈɪmpləmentɪd/",
+    "meaning": "实施、执行、实现了〔过去式、过去分词〕",
+    "sense": "规则、设计本来只是写下来的安排，现在真正放到日常工作或系统里运作，就是 implemented。",
+    "split": "implement + -ed，沿动词结尾 /ment/，/t/ 后 ed 读 /ɪd/。implement 接拉丁 implementum 补足、履行，较早连 in- 与 plere 填满，先成英语名词，后有实施动词。",
+    "history": [
+      [
+        "拉丁 implementum → 英语 implement 名词；后有动词",
+        "补足、履行的材料 → 工具等名词与实施动词"
+      ],
+      [
+        "implement + -ed → implemented",
+        "方案、制度、功能已付诸实行"
+      ]
+    ],
+    "explanation": "implemented a plan 实施计划；implemented a feature 实现功能；fully implemented 全面落实。",
+    "usage": "implemented across the organisation 在整个组织推行；the changes were implemented 变更已落实。",
+    "contrast": "implemented 比 proposed 更接近真正开始运作；proposed 可能还只是提出。工具名词 implement 的尾部常弱读 /mənt/，此处沿动词读法。",
+    "examples": [
+      [
+        "The school implemented the new timetable in September.",
+        "学校九月开始实行新课表。"
+      ],
+      [
+        "The team implemented the feature requested by users.",
+        "团队实现了用户提出的功能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/implemented#English",
+      "https://en.wiktionary.org/wiki/implement#English"
+    ]
+  },
+  {
+    "word": "rangers",
+    "ipa": "英 /ˈreɪndʒəz/；美 /ˈreɪndʒərz/",
+    "meaning": "护林员、公园管理员、巡护人员；特定部队成员〔复数〕",
+    "sense": "在一片区域里走动、巡查、照看的人，是 rangers 的常见工作画面。国家公园里可以这样称管理、巡护人员，军事语境另有具体部队名称。",
+    "split": "range 巡行、活动 + -er → ranger，再加 -s，末尾 /z/。range 的相关行列、活动历史由法语等词形发展而来。",
+    "history": [
+      [
+        "range + -er → ranger",
+        "在区域里巡行、活动 → 巡护人员"
+      ],
+      [
+        "ranger + -s → rangers",
+        "多位管理员、巡护人员；军事身份另看名称"
+      ]
+    ],
+    "explanation": "park rangers 公园管理员；forest rangers 护林员；rangers on patrol 正在巡逻的巡护人员。",
+    "usage": "talk to the rangers 向管理员询问；the rangers’ station 巡护站。",
+    "contrast": "rangers 具体职责随机构、地区而变；军队名里的 Ranger 是特定身份，不能与每位护林员等同。大写时也可能是球队名。",
+    "examples": [
+      [
+        "The park rangers answered our questions about the trail.",
+        "公园管理员回答了我们关于步道的问题。"
+      ],
+      [
+        "Forest rangers patrol the area throughout the year.",
+        "护林员全年都会在这片区域巡查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rangers#English",
+      "https://en.wiktionary.org/wiki/ranger#English"
+    ]
+  },
+  {
+    "word": "ranks",
+    "ipa": "/ræŋks/",
+    "meaning": "行列、队伍；等级、级别〔复数〕；位居、排名〔第三人称单数〕",
+    "sense": "先把人排成一行行，再把地位排成一层层，就有 ranks 的行列与等级两种画面。动词说某人、某物处在其中哪一位。",
+    "split": "rank + -s，/k/ 后读 /s/。行列名词经法语进入英语，后有等级、排名动词；古英语 ranc 接的难闻、过度形容词是另一来源。",
+    "history": [
+      [
+        "法语行列词 → rank",
+        "一排、行列 → 等级、名次"
+      ],
+      [
+        "rank + -s → ranks",
+        "多个行列、等级；某物排名"
+      ]
+    ],
+    "explanation": "the ranks of the team 团队行列；military ranks 军衔；ranks among the best 位居最佳之列。",
+    "usage": "rise through the ranks 逐级晋升；join the ranks 加入队伍。",
+    "contrast": "ranks 可说一群人的行列，不必是整齐站成队。形容词 rank 的难闻、十足等义另有旧来源，不从排名推出来。",
+    "examples": [
+      [
+        "She rose through the ranks to become manager.",
+        "她逐级晋升，成为经理。"
+      ],
+      [
+        "The museum ranks among the best in the region.",
+        "这家博物馆位居本地区最佳之列。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ranks#English",
+      "https://en.wiktionary.org/wiki/rank#English"
+    ]
+  },
+  {
+    "word": "rolls",
+    "ipa": "英 /rəʊlz/；美 /roʊlz/",
+    "meaning": "卷、卷状物；小圆面包；名册等〔复数〕；滚动、卷起〔第三人称单数〕",
+    "sense": "东西绕成一层层的卷，或转着前进，是 rolls 的核心画面。卷起来的材料、卷轴演变的名册，还有一类小面包，都有各自固定名词义。",
+    "split": "roll + -s，/l/ 后读 /z/。动词经法语 roler 接拉丁 rotulare，卷轴、名册名词经法语 rolle 接 rotulus，两路都远连 rota 轮。",
+    "history": [
+      [
+        "拉丁转动、卷轴材料 → 法语 roler、rolle → roll",
+        "滚动、卷起；卷状物、名册等"
+      ],
+      [
+        "roll + -s → rolls",
+        "多卷材料、小面包、名册等；或某物转动"
+      ]
+    ],
+    "explanation": "rolls of paper 几卷纸；bread rolls 小圆面包；rolls down the hill 滚下山坡。",
+    "usage": "school rolls 学校学生名册；rolls up the map 把地图卷起来。",
+    "contrast": "rolls 的具体名词义靠修饰词区分；two rolls 在餐桌上常是两个小面包，在纸店可能是两卷纸。",
+    "examples": [
+      [
+        "We bought two rolls of wrapping paper.",
+        "我们买了两卷包装纸。"
+      ],
+      [
+        "The bakery sells fresh rolls every morning.",
+        "面包店每天早晨卖新鲜的小圆面包。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rolls#English",
+      "https://en.wiktionary.org/wiki/roll#English"
+    ]
+  },
+  {
+    "word": "settings",
+    "ipa": "/ˈsetɪŋz/",
+    "meaning": "设置、配置项；场景、环境；餐具摆设、镶座等〔复数〕",
+    "sense": "把东西安放在某种位置、状态，就有 setting。软件里是设好的选项，故事里是安放人物的环境，餐桌上也能是一人一套摆好的餐具。",
+    "split": "set 双写 t 加 -ing → setting，再加 -s，/ŋ/ 后读 /z/。set 接古英语 settan 使就位，名词再发展出环境、状态、镶座等分支。",
+    "history": [
+      [
+        "古英语 settan → set；set + -ing → setting",
+        "使就位 → 安置后的状态、环境或固定装置"
+      ],
+      [
+        "setting + -s → settings",
+        "多项配置、多种场景或多套餐具等"
+      ]
+    ],
+    "explanation": "change the settings 更改设置；different settings 不同环境、配置；place settings 餐桌上每人一份的餐具摆设。",
+    "usage": "camera settings 相机设置；urban and rural settings 城市和乡村环境。",
+    "contrast": "settings 页面通常是配置项；故事研究中的 settings 多说场景。动词 set 的过去式仍是 set，settings 是由名词 setting 再形成的复数。",
+    "examples": [
+      [
+        "You can change the language in the settings.",
+        "你可以在设置里更改语言。"
+      ],
+      [
+        "The study compared learning in different classroom settings.",
+        "研究比较了不同课堂环境中的学习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settings#English",
+      "https://en.wiktionary.org/wiki/setting#English"
+    ]
+  },
+  {
+    "word": "tasks",
+    "ipa": "英 /tɑːsks/；美 /tæsks/",
+    "meaning": "任务、工作项〔复数〕；派给任务〔第三人称单数〕",
+    "sense": "把需要做的工作切成一项项，每一项有要完成的事情，就是 tasks。它比笼统的 work 更容易一条条列出来。",
+    "split": "task + -s，/k/ 后读 /s/。task 经法语 tasque 等接估定、征收的拉丁词族，原来规定给人的劳务逐渐泛指工作项。",
+    "history": [
+      [
+        "法语 tasque 等 → task",
+        "规定的劳务、工作 → 一项要完成的事"
+      ],
+      [
+        "task + -s → tasks",
+        "多项任务；或某人把任务派给别人"
+      ]
+    ],
+    "explanation": "daily tasks 日常任务；complete tasks 完成任务；tasks someone with something 指派某人做某事。",
+    "usage": "a list of tasks 任务清单；tasks for the week 本周要做的事。",
+    "contrast": "tasks 通常可数，work 在一般工作量义下不可数。job 可以是职位，也可以是一件工作；task 常把要做的具体一项突出出来。",
+    "examples": [
+      [
+        "We divided the tasks between the three of us.",
+        "我们三个人分了工。"
+      ],
+      [
+        "The manager tasks each team with a different part of the project.",
+        "经理给各团队分派了项目中的不同部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tasks#English",
+      "https://en.wiktionary.org/wiki/task#English"
+    ]
+  },
+  {
+    "word": "worlds",
+    "ipa": "英 /wɜːldz/；美 /wɜːrldz/",
+    "meaning": "世界、天地；生活圈、领域〔复数〕",
+    "sense": "同一颗地球上，不同人的生活圈可能像不同的世界；小说、游戏也可以造出多个世界。worlds 把这些整体分开数。",
+    "split": "world + -s，/d/ 后读 /z/。world 承古英语 weorold，更早日耳曼材料相当于人、时代的组合，原有人的时代、存在等背景。",
+    "history": [
+      [
+        "日耳曼人、时代相关材料 → 古英语 weorold → world",
+        "人的时代、存在 → 人所处的天地、世界"
+      ],
+      [
+        "world + -s → worlds",
+        "多个世界；不同生活圈、领域"
+      ]
+    ],
+    "explanation": "different worlds 不同世界、生活圈；imaginary worlds 想象的世界；the best of both worlds 两全其美。",
+    "usage": "worlds apart 天差地别；the worlds of art and science 艺术与科学领域。",
+    "contrast": "worlds 可以是比喻的领域，不一定是物理上的多个星球。the best of both worlds 说同时得到两方面的好处。",
+    "examples": [
+      [
+        "The novel creates several imaginary worlds.",
+        "小说创造了几个想象中的世界。"
+      ],
+      [
+        "Their daily lives were worlds apart.",
+        "他们的日常生活天差地别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worlds#English",
+      "https://en.wiktionary.org/wiki/world#English"
+    ]
+  },
+  {
+    "word": "demonstrated",
+    "ipa": "/ˈdemənstreɪtɪd/",
+    "meaning": "展示、演示了；表明、证明了〔过去式、过去分词〕",
+    "sense": "让别人亲眼看到怎样做，或拿出足够清楚的表现让人看见某个结论，就是 demonstrated。一个是演示动作，一个是用事实表明。",
+    "split": "demonstrate + -d，/t/ 后读 /ɪd/。demonstrate 接拉丁 demonstratus、demonstrare，monstrare 是显示，de- 在这里常加强。",
+    "history": [
+      [
+        "拉丁 demonstrare、demonstratus → demonstrate",
+        "清楚显示、指出"
+      ],
+      [
+        "demonstrate 去 e + -ed → demonstrated",
+        "演示或表明的动作已发生"
+      ]
+    ],
+    "explanation": "demonstrated the method 演示了方法；demonstrated that 表明……；demonstrated skill 展现出技能。",
+    "usage": "demonstrated how to use it 演示如何使用；clearly demonstrated 清楚表明。",
+    "contrast": "demonstrated how 常介绍操作演示；demonstrated that 常引出由表现、证据支持的结论。具体证明力度还要看提供的材料。",
+    "examples": [
+      [
+        "The instructor demonstrated how to fold the paper.",
+        "指导老师演示了怎样折纸。"
+      ],
+      [
+        "The trial demonstrated that the design could save space.",
+        "试验表明，这个设计可以节省空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/demonstrated#English",
+      "https://en.wiktionary.org/wiki/demonstrate#English"
+    ]
+  },
+  {
+    "word": "developers",
+    "ipa": "英 /dɪˈveləpəz/；美 /dɪˈveləpərz/",
+    "meaning": "开发者、开发商；使某物发展的人或机构〔复数〕",
+    "sense": "把一个想法逐步展开，做成可用产品、软件或建筑项目的人、机构，就是 developers。工作对象决定它是程序开发者还是地产开发商等。",
+    "split": "develop + -er → developer，再加 -s，末尾 /z/。er 可以命名做事的人、机构或起作用的物质；develop 较早接法语展开、解包裹的词。",
+    "history": [
+      [
+        "法语展开词 → develop；加 -er → developer",
+        "使东西发展、成形 → 开发者或作用物"
+      ],
+      [
+        "developer + -s → developers",
+        "多位开发者、多家开发商等"
+      ]
+    ],
+    "explanation": "software developers 软件开发者；property developers 房地产开发商；game developers 游戏开发者。",
+    "usage": "independent developers 独立开发者；developers of the new tool 新工具的开发者。",
+    "contrast": "developers 不只等于程序员，也可能是公司、地产项目开发商。旧摄影里的 developer 还可指显影剂，是作用物用法。",
+    "examples": [
+      [
+        "The developers fixed the problem in the next version.",
+        "开发者在下一个版本中修复了问题。"
+      ],
+      [
+        "Local developers presented plans for the old warehouse.",
+        "当地开发商提出了旧仓库的改造计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/developers#English",
+      "https://en.wiktionary.org/wiki/developer#English"
+    ]
+  },
+  {
+    "word": "hotels",
+    "ipa": "英 /həʊˈtelz/；美 /hoʊˈtelz/",
+    "meaning": "酒店、旅馆〔复数〕",
+    "sense": "出门以后，有一处按一定服务方式接待住客、提供房间的地方，就是 hotel。hotels 数的是多家这样的住宿机构。",
+    "split": "hotel + -s，/l/ 后读 /z/。hotel 借法语 hôtel，接较早 hostel、ostel，远源与拉丁 hospitale 相连；与 hostel、hospital 是不同形式、时期的借入。",
+    "history": [
+      [
+        "拉丁 hospitale → 法语 hostel、ostel → hôtel → 英语 hotel",
+        "接待、住宿场所的名称发展"
+      ],
+      [
+        "hotel + -s → hotels",
+        "多家酒店、旅馆"
+      ]
+    ],
+    "explanation": "local hotels 当地酒店；book hotels 预订酒店住宿；hotels near the station 车站附近的酒店。",
+    "usage": "small family hotels 小型家庭旅馆；hotels and hostels 酒店与旅舍。",
+    "contrast": "hotel 与 hostel 同源但现代经营方式、常见设施不同；不是英语直接从 hospital 删掉中间字母造出 hotel。具体档次也不能只凭词名判断。",
+    "examples": [
+      [
+        "Several hotels are within walking distance of the station.",
+        "有几家酒店离车站步行可达。"
+      ],
+      [
+        "We compared three hotels before booking a room.",
+        "订房前，我们比较了三家酒店。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hotels#English",
+      "https://en.wiktionary.org/wiki/hotel#English"
+    ]
+  },
+  {
+    "word": "loads",
+    "ipa": "英 /ləʊdz/；美 /loʊdz/",
+    "meaning": "装载量、负载、成批货物〔复数〕；大量〔口语〕；装载、加载〔第三人称单数〕",
+    "sense": "一车、一筐能装下的一批，是 a load；loads 数这些载量。口语说 loads of，就是多得像一批批装来的那样。",
+    "split": "load + -s，/d/ 后读 /z/。load 接古英语 lad 行程、运送等材料，中古英语发展载量、负担义；现代软件加载借把内容装入可用位置的形象。",
+    "history": [
+      [
+        "古英语 lad → 中古英语、现代 load",
+        "行程、运送 → 一批载量、负担"
+      ],
+      [
+        "load + -s → loads",
+        "多批货物、负载；口语大量；某系统加载"
+      ]
+    ],
+    "explanation": "loads of time 大量时间；loads of books 很多书；loads the page 加载页面。",
+    "usage": "heavy loads 重负载；two loads of laundry 两批待洗或洗好的衣物，具体看上下文。",
+    "contrast": "loads of 是随意语气的很多，可接可数或不可数对象。the page loads 是页面加载，loads 不是单纯的复数名词。",
+    "examples": [
+      [
+        "We still have loads of time before the train leaves.",
+        "火车出发前，我们还有很多时间。"
+      ],
+      [
+        "The page loads quickly on my phone.",
+        "这个页面在我的手机上加载很快。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/loads#English",
+      "https://en.wiktionary.org/wiki/load#English"
+    ]
+  }
+]

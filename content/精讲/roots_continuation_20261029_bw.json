@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B2428",
+    "meaning": "分发；应对；经营、交易、往来",
+    "core": "DEAL：从一份、分配，到交易和打交道",
+    "image": "先用发牌理解把东西分给别人，再看交易、待遇与各种固定短语。处理义要连 with 一起掌握。",
+    "intro": "deal 常用词族来自古英语 dǣl 一份、dǣlan 分配。过去式 dealt；木材同形词另有借词背景，不硬编入这条线。",
+    "forms": "deal → dealing → dealings；deal → dealer → dealership。\n\ndeal → dealt → dealt；长元音 /iː/ 与短元音 /e/ 连着记，dealt with 是处理、应对了。\n\n本族份额、分配词延续，交易义与处理往来发展相关。\n\n本族旧分配词族已有人员名，后来经销、发牌等用法各自固定。",
+    "branches": [
+      [
+        "动作、过程与往来",
+        "deal · dealing · dealings"
+      ],
+      [
+        "经销者、经销业务和门店",
+        "dealer · dealership"
+      ],
+      [
+        "deal 与 dealt：分发和应对",
+        "deal · dealt"
+      ],
+      [
+        "deal → deals：分配、处理与交易",
+        "deal · deals"
+      ],
+      [
+        "dealer → dealers：经营、分发的人",
+        "deal · dealer · dealers"
+      ]
+    ],
+    "contrasts": "deal with 处理、交往，deal in 经营某商品；dealer 不自动是毒贩；dealership 不一定指具体某个商人。",
+    "practice": "The dealer’s dealings with the new supplier helped the dealership grow.\n\n经销商与新供应商的往来，帮助经销业务发展了起来。",
+    "words": [
+      "deal",
+      "dealing",
+      "dealings",
+      "dealer",
+      "dealership",
+      "dealt",
+      "deals",
+      "dealers"
+    ],
+    "exclude": {
+      "half-deal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-deal": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wheeler-dealer": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3661",
+    "meaning": "单个；单独；单一、单身与专一",
+    "core": "SINGLE：一个，还是独立的一份",
+    "image": "基础词已含数量与关系等多种用法；singleton、singly 紧接基础词，singleness 再讲状态，singlet 另看衣物历史。",
+    "intro": "single 经古法语来自拉丁语 singulus。派生词要看后缀及具体历史，不能仅凭长得像就随意交换。",
+    "forms": "single → singly、singleton、singleness；服装名称 singlet 单列。",
+    "branches": [
+      [
+        "一个、逐个与单个成员",
+        "single · singly · singleton"
+      ],
+      [
+        "状态与固定衣物名",
+        "singleness · singlet"
+      ]
+    ],
+    "contrasts": "singleness of purpose 是目标专一；单身不等于孤独；singlet 是衣物名，不是所有单个事物的通用称呼。",
+    "practice": "The runners entered singly, each wearing a numbered singlet.\n\n跑步者一个接一个入场，每人穿着带号码的比赛背心。",
+    "words": [
+      "single",
+      "singly",
+      "singleton",
+      "singleness",
+      "singlet"
+    ],
+    "exclude": {
+      "single-use": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "single-user": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semi-single": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "single-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "single-decker": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3188",
+    "meaning": "信息；与信息相关的用途和研究",
+    "core": "INFORMATION：让人知道情况，再看信息怎样处理",
+    "image": "基础词是信息本身；informational 说明提供信息的用途，informatics 则是研究信息处理的领域。",
+    "intro": "information 来自经拉丁语、法语发展的说明、教导词族；其现代技术学科名称形成得很晚，不能把计算机义塞进古拉丁语。",
+    "forms": "information → informational、informatics；misinformation、disinformation 放在信息出错与蓄意误导一组对照。",
+    "branches": [
+      [
+        "信息、信息用途与信息学",
+        "information · informational · informatics"
+      ],
+      [
+        "错误信息与蓄意误导",
+        "misinformation · disinformation"
+      ]
+    ],
+    "contrasts": "informational 常说用途，informative 常说内容有启发；informatics 学科名不是 information 的复数。",
+    "practice": "The informational video explains what students can study in informatics.\n\n这段介绍视频说明了学生在信息学领域可以学习哪些内容。",
+    "words": [
+      "information",
+      "informational",
+      "informatics",
+      "misinformation",
+      "disinformation"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2458",
+    "meaning": "数；数量；编号",
+    "core": "NUMBER：数有多少，也给东西一个号码",
+    "image": "number 的数量与编号两种功能分开看，才能读懂 numberless 的两种意思。",
+    "intro": "number 经古法语 nombre 来自拉丁语 numerus。numbering 是编号、计数活动，outnumber 是数量多于。",
+    "forms": "number → numbering；outnumber 比较数量；numberless 是否定数量可数尽或否定有号码。\n\nnumber 经法语接拉丁 numerus 数、数量。number + -ed，/ə/、/ɚ/ 后读 /d/；be numbered 可说编了号，days are numbered 又说时间所剩不多。",
+    "branches": [
+      [
+        "数量、编号及其过程",
+        "number · numbering"
+      ],
+      [
+        "数量比较与无数、无编号",
+        "outnumber · numberless"
+      ],
+      [
+        "number → numbered：编号、计数与期限",
+        "numbered"
+      ]
+    ],
+    "contrasts": "numberless 常是无数，不是零；a numberless door 则可以是没有门牌号码的门。",
+    "practice": "The volunteers numbered the boxes, but two remained numberless.\n\n志愿者给箱子编号，但仍有两个没有标上号码。",
+    "words": [
+      "number",
+      "numbering",
+      "outnumber",
+      "numberless",
+      "numbered"
+    ],
+    "exclude": {}
+  }
+]

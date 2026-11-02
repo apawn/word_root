@@ -1,0 +1,110 @@
+[
+  {
+    "id": "B2977",
+    "meaning": "展示；表明；节目与展览",
+    "core": "SHOW：让别人看见，也让内容成一场展示",
+    "image": "照片拿给人看是 show，事实把趋势显出来也是 show；节目则成为可看的整体。",
+    "intro": "show 接古英语 scēawian 一系。showcase 突出长处，showroom 指展示空间，roadshow 带内容去不同地点，showstopper 在不同领域还能有惊艳和阻断两种评价。",
+    "forms": "show／showed／shown 是常见动词变化。showing 的 -ing 可成为放映场次、表现名词。常见 shower“阵雨、淋浴”来自古英语 scūr，不是本页 show + -er 的后代；另在 shower 页精讲。\n\nshowed 是常见过去式；shown 是常见过去分词，也可见 showed 作过去分词。旧词原有看、观察义，后来转成让别人看见。\n\nshow 的名词、动词在 shows 中同形；名词看多场节目，动词看单数主语显示了什么。\n\nshowcase 从展示柜到展示机会再作动词；showbiz 缩自 show business，biz 按 business 的常见读音截短。",
+    "branches": [
+      [
+        "展示与表现",
+        "show · showing · showcase · showpiece"
+      ],
+      [
+        "场地与传播",
+        "showroom · showground · roadshow · slideshow · showtime"
+      ],
+      [
+        "人物和风格",
+        "showman · showrunner · showgirl · showy · showboat"
+      ],
+      [
+        "重大反应与主次",
+        "showstopper · showdown · sideshow"
+      ],
+      [
+        "show、showed、shown：让别人看见",
+        "show · showed · shown"
+      ],
+      [
+        "show → shows：节目、展览；显示",
+        "show · shows"
+      ],
+      [
+        "show 的放映、展示平台、开演时刻与娱乐行业",
+        "showing · showings · showcase · showcases · showcased · showcasing · showtime · showtimes · showbiz"
+      ]
+    ],
+    "contrasts": "showrunner 是剧集主创统筹，showman 是懂得吸引观众的人；showcase 是展示平台，showpiece 是展示精品；showstopper 可能夸惊艳，也可能说项目被阻断。",
+    "practice": "The roadshow showcased new talent, and one young singer proved to be a real showstopper.\n\n巡回演出展示了新人，其中一名年轻歌手惊艳全场。",
+    "words": [
+      "show",
+      "showing",
+      "showcase",
+      "showroom",
+      "roadshow",
+      "slideshow",
+      "showy",
+      "showman",
+      "showrunner",
+      "showgirl",
+      "showpiece",
+      "showstopper",
+      "showboat",
+      "showground",
+      "showtime",
+      "showdown",
+      "sideshow",
+      "showed",
+      "shown",
+      "shows",
+      "showings",
+      "showcases",
+      "showcased",
+      "showcasing",
+      "showtimes",
+      "showbiz"
+    ],
+    "exclude": {
+      "shower": "常用的阵雨、淋浴义来自古英语 scūr，与 show 的展示义近源不同；由 shower B3987 单独精讲。"
+    }
+  },
+  {
+    "id": "B3987",
+    "meaning": "阵雨；淋浴；成阵落下",
+    "core": "SHOWER：一阵水滴散落，也延伸到大量给予",
+    "image": "天上雨滴成阵落下，浴室喷头也让水散成一阵阵细流。",
+    "intro": "常见 shower 接古英语 scūr“阵雨”，与 show“展示”的近源不同。showery 形容阵雨天气，showerhead 是淋浴喷头；a shower of praise 等又把成阵的画面用于赞扬。",
+    "forms": "show 的常见元音是 /əʊ/ 或 /oʊ/，shower 的是 /aʊ/；相同字母并不保证相同词根。showerhead 的 head 是装置末端，showery 的 -y 是性质形容词。\n\n古英语 scur 支，不是 show 加表人 er。",
+    "branches": [
+      [
+        "阵雨与天气",
+        "shower · showery"
+      ],
+      [
+        "淋浴与器具",
+        "shower · showerhead"
+      ],
+      [
+        "大量落下、给予",
+        "a shower of · shower someone with"
+      ],
+      [
+        "shower → showers：一阵落下到喷淋",
+        "shower · showers"
+      ]
+    ],
+    "contrasts": "shower 不是常用 show + -er 展示者的意思；showery 说阵雨，showy 说花哨显眼。",
+    "practice": "After walking home in showery weather, I took a warm shower.\n\n在阵雨天气里走回家后，我洗了个温暖的淋浴。",
+    "words": [
+      "shower",
+      "showery",
+      "showerhead",
+      "showers"
+    ],
+    "exclude": {
+      "tub-shower": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

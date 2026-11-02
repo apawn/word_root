@@ -1,0 +1,103 @@
+[
+  {
+    "id": "B2563",
+    "meaning": "长座位，转指工作、司法和议会角色",
+    "core": "BENCH：从一条长凳，看坐在那里或在那里做事的人",
+    "image": "bench → backbench；workbench 是工作台；benchmark 从标记、基准扩展为比较尺度。",
+    "intro": "长凳是入口，后面的身份含义来自谁坐在那里。换成工作台时，重点又成了在台面上做事；基准含义要放回 benchmark 的专门历史理解。",
+    "forms": "benċ → bench；back/work + bench；benchmark 的测量基准背景。\n\n组合后固定为加工、操作台，不按坐人的长凳单义理解。",
+    "branches": [
+      [
+        "座位与角色",
+        "bench · backbench"
+      ],
+      [
+        "工作面与比较尺度",
+        "workbench · benchmark"
+      ],
+      [
+        "bench 的工作台组合及复数",
+        "bench · workbench · workbenches"
+      ]
+    ],
+    "contrasts": "on the bench 可说法官或替补；backbench 不是反对党专名；benchmark 不能只死译成凳子上的记号。",
+    "practice": "The coach praised the bench while the backbench MPs debated elsewhere.\n\n教练夸着替补阵容，另一边的后座议员则在辩论。",
+    "words": [
+      "bench",
+      "backbench",
+      "workbench",
+      "benchmark",
+      "workbenches"
+    ],
+    "exclude": {
+      "cross-bench": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bencher": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2699",
+    "meaning": "灰色及其近似色、明暗层级",
+    "core": "GRAY：黑白之间的灰，也能形容界线不清",
+    "image": "gray/grey 同色异拼；grayish 略灰；grayscale 用灰阶表达图像。",
+    "intro": "先分清颜色本身、颜色近似和图像表示方式。抽象的 gray area 借的是黑白之间难划线的画面，不是所有灰色东西都含负面评价。",
+    "forms": "grǣġ/grēġ → gray/grey；gray + -ish；gray + scale。单位 gray 来自人名，另一路。",
+    "branches": [
+      [
+        "颜色及近似",
+        "gray · grey · grayish"
+      ],
+      [
+        "明暗层级",
+        "grayscale"
+      ]
+    ],
+    "contrasts": "gray/grey 不代表深浅差别；grayish 不等于很灰；grayscale 通常有多级灰；单位 gray 不从颜色演化。",
+    "practice": "The grayish background looks almost white in the grayscale print.\n\n偏灰的背景在这张灰度打印件里看起来几乎是白的。",
+    "words": [
+      "gray",
+      "grey",
+      "grayish",
+      "grayscale"
+    ],
+    "exclude": {
+      "blue-gray": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gray-blue": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "grayling": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2994",
+    "meaning": "细绳、弦，及绳般排列和束缚的扩展",
+    "core": "STRING：细长能绷紧，也能把许多东西串起来",
+    "image": "string → stringed/stringy/stringer；鞋、抽拉、膝后部分别和 string 组成有用途的词。",
+    "intro": "先抓细线，再看拉紧、串连、支撑三种画面。字符串把字符排成一串；限制条件像牵制的绳；并非每个后来义都能追成一个确定的故事。",
+    "forms": "strenġ → string；string + -ed/-y/-er；shoe/draw/ham + string；动词常见 string/strung/strung。\n\n古英语 streng 的绳线材料，延伸到弦、字符串和牵制关系。",
+    "branches": [
+      [
+        "线、弦与性质角色",
+        "string · stringed · stringy · stringer"
+      ],
+      [
+        "绳的用途与比喻",
+        "shoestring · drawstring · hamstring"
+      ],
+      [
+        "string → strings：一根根绳、弦与串起来的条件",
+        "string · strings"
+      ]
+    ],
+    "contrasts": "draw 这里是拉；ham 是膝后旧义；stringed 有弦，strung 动词分词；stringer 新闻义不编造唯一来源；on a shoestring 说预算很少。",
+    "practice": "The stringer covered the concert on a shoestring budget.\n\n那位特约通讯员用很少的预算报道了音乐会。",
+    "words": [
+      "string",
+      "stringed",
+      "stringy",
+      "stringer",
+      "shoestring",
+      "drawstring",
+      "hamstring",
+      "strings"
+    ],
+    "exclude": {}
+  }
+]

@@ -1,0 +1,138 @@
+"""Everyday objects, their plurals, and useful semantic extensions."""
+from author_continuation_20261028_d import W,R,WORDS,ROOTS
+from lesson_authoring import save
+from continuation_extensions import extend_existing_lessons
+WORDS.clear();ROOTS.clear()
+EXISTING_ROOT_ADDITIONS={
+ 'C0747':dict(words=['mirror','mirrors'],label='mirror → mirrors：看与映照',note='拉丁 mirari 到法语 mirer、mireor 的借词，英语名词转反映动词。'),
+ 'B4598':dict(words=['pan','pans'],label='pan → pans：锅具、严批与镜头动作的不同支',note='锅义承古英语 panne；镜头义是 panorama 或 panoramic camera 相关表达的截短，不能硬串成锅具派生。'),
+ 'B3251':dict(words=['pot','pots'],label='pot → pots：容器和把植物装盆',note='古英语、法语容器词有交汇，更远未定；这里补日常容器、装盆支。'),
+ 'B3739':dict(words=['bowl','bowls'],label='bowl → bowls：圆容器与另路球类',note='容器承古英语 bolla，球、运动支经法语 boule；现代 s 形式同音，来源分开。'),
+ 'B3921':dict(words=['tray','trays'],label='tray → trays：木浅盘到各种承载盘',note='古英语 treg、trig 继承，现代不限制木制；元音加 y 后直接加 s。'),
+ 'B3881':dict(words=['jar','jars'],label='jar → jars：罐子与另源刺耳冲突动词',note='容器经罗曼语接阿拉伯 jarra，震动冲突动词另源未定。'),
+ 'C1247':dict(words=['sauce','saucer','saucers'],label='sauce、saucer → saucers：酱碟到杯碟',note='法语盛酱小碟名和拉丁盐、调味材料有关，不是英语人物 er。'),
+ 'A1851':dict(words=['bucket','buckets','cabinet','cabinets'],label='bucket、cabinet 各自的复数：桶与小房间、柜子',note='et 的历史背景不同，不把所有末尾 et 都理解成英语现场小称。'),
+ 'B2947':dict(words=['basket','baskets'],label='basket → baskets：篮子、球篮与一篮量',note='盎格鲁法语借词，更远凯尔特、拉丁联系有争议。'),
+ 'A1697':dict(words=['draw','drawer','drawers'],label='draw → drawer → drawers：可拉出来的盒子',note='旧表动作执行者 er 后形成固定器物义，常用抽屉读音可压成一音节。'),
+ 'C0238':dict(words=['lid','lids'],label='lid → lids：可开合的覆盖物',note='古英语 hlid 继承，现代词首 h 消失；旧覆盖、靠合材料。'),
+ 'B2752':dict(words=['lid','lids'],label='lid → lids：容器盖与眼睑的短称',note='eyes 语境可用 lids 回指 eyelids，普通器物语境先看盖子。'),
+ 'A1741':dict(words=['carpet','carpets'],label='carpet → carpets：厚布到地毯、整片覆盖',note='法语与拉丁厚织物材料，现代名词复数与覆盖动词三单同形。'),
+ 'B3807':dict(words=['mat','mats'],label='mat → mats：平面垫子和缠结层',note='古英语承晚期拉丁 matta 草垫，更远有闪米特语言联系的分析。'),
+}
+W('mirrors','英 /ˈmɪrəz/；美 /ˈmɪrərz/','镜子；反映、映照〔复数或第三人称单数〕',
+ '把眼前样子照回来的是 mirrors。一个故事与现实的结构很像、一个动作照着另一个动作来，也能说它 mirrors 对方。',
+ 'mirror 经古法语 mireor 接 mirer 看，较早拉丁 mirari 惊叹、注目，与 mirus 令人惊奇的相关。英语名词转反映动词；现代加 -s，尾 /z/。',
+ [['拉丁 mirari → 法语 mirer、mireor → mirror','注目、观看 → 供人照看的镜子'],['mirror + -s → mirrors','多面镜子；某物反映、对应另一物']],
+ 'wall mirrors 壁镜；mirrors everyday life 反映日常生活；mirrors her movements 模仿、对应她的动作。',
+ 'mirrors in the room 房间里的镜子；mirrors the structure 反映、对应结构。',
+ 'mirrors 作动词不要求真的有镜面。说故事 mirrors reality，常指它把现实的某种特点、结构重新呈现出来。',
+ ('Two large mirrors hang beside the window.','窗旁挂着两面大镜子。'),('The story mirrors life in a small town.','这个故事反映了小镇生活。'),sources=['https://en.wiktionary.org/wiki/mirrors#English','https://en.wiktionary.org/wiki/mirror#English'])
+W('pans','/pænz/','锅、烤盘、浅盘〔复数〕；严厉批评、摇摄〔第三人称单数〕',
+ '做饭用的锅、烤盘等浅容器，是 pans。动词 pans 还能说评论很严厉，或镜头横向扫过画面；镜头这支有自己的截短来源。',
+ '锅 pan 承古英语 panne，更远有早期拉丁借词或底层语言来源等分析。批评义常用煎烤形象解释，联系带推测性。镜头义缩自 panorama、panoramic camera 相关表达。现代各支加 -s，/n/ 后读 /z/。',
+ [['古英语 panne → pan 锅；相关动作、俚语发展','浅容器、淘洗；严批义的联系有推测'],['另路全景表达截短 → pan 镜头动作；各加 -s','多口锅；某评论严批、某镜头扫过']],
+ 'pots and pans 锅具；baking pans 烤盘；the camera pans 镜头摇摄。',
+ 'pans the play 严厉批评这部戏；pans across the room 镜头扫过房间。',
+ 'pans across the room 描述镜头转向、扫视。批评义与锅具的联系是一种词源分析，仍要保留不确定性。',
+ ('The kitchen has several old copper pans.','厨房里有几口旧铜锅。'),('The camera pans slowly across the room.','镜头缓缓扫过房间。'),sources=['https://en.wiktionary.org/wiki/pans#English','https://en.wiktionary.org/wiki/pan#English','https://www.etymonline.com/word/pan'])
+W('pots','英 /pɒts/；美 /pɑːts/','锅、罐、花盆；一锅、一罐的量〔复数〕；把植物装盆〔第三人称单数〕',
+ '有一定深度、能把东西装在里面的容器，是 pots。装食物、种植物都能用这个形状；pots a plant 则是把植物安进盆里。',
+ 'pot 由古英语 pott、古法语 pot 等容器材料交汇到中古英语，更远来历未完全确定。现代加 -s，/t/ 后读 /s/，容器名可转相关动作。',
+ [['古英语、法语容器词 → pot','锅、罐、盆'],['pot + -s → pots；装盆动词用法','多个容器或容器量；某人把植物装盆']],
+ 'flower pots 花盆；clay pots 陶罐；pots of soup 几锅汤。',
+ 'pots and pans 锅具；pots seedlings 给幼苗上盆。',
+ 'pots 不限定一种材料或一种用途，后面 flower、clay、of soup 等帮助确定。俚语 pot 的其他来源不必混进普通锅盆义。',
+ ('Small flower pots lined the windowsill.','窗台上排着小花盆。'),('She pots the new seedlings in spring.','她在春天给新幼苗上盆。'),sources=['https://en.wiktionary.org/wiki/pots#English','https://en.wiktionary.org/wiki/pot#English'])
+W('bowls','英 /bəʊlz/；美 /boʊlz/','碗、碗装量〔复数〕；草地滚球运动；投球〔第三人称单数〕',
+ '盛汤、装饭的圆容器，是 bowls。球类语境里的 bowls 则常指草地滚球运动，动词还能说滚球、投球；容器和球类的近源分开。',
+ '容器 bowl 接古英语 bolla、中古英语 bolle；球与相关运动动作另经法语 boule 等形式。现代各加 -s，/l/ 后读 /z/，同形同音不等于单一借入来源。',
+ [['古英语 bolla → bowl 容器；法语 boule → 球、运动支','圆容器；另路圆球、滚球动作'],['bowl + -s → bowls；固定运动名','多个碗、几碗量；草地滚球、某人投球']],
+ 'bowls of soup 几碗汤；wooden bowls 木碗；play bowls 玩草地滚球。',
+ 'serving bowls 盛菜碗；bowls for the team 为球队投球。',
+ 'play bowls 是特定运动搭配。bowls of soup 则按容器数食物，两支读音相同，靠词性和搭配区分。',
+ ('She filled two bowls with soup.','她盛满了两碗汤。'),('The club plays bowls in the park.','俱乐部在公园里打草地滚球。'),sources=['https://en.wiktionary.org/wiki/bowls#English','https://en.wiktionary.org/wiki/bowl#English'])
+W('trays','/treɪz/','托盘、浅盘、设备承载盘〔复数〕',
+ '底部比较平、边沿不高，用来托住并一起移动小物的盘，是 trays。设备里承纸、承物的抽盘也保留同样功能。',
+ 'tray 继承古英语 treg、trig，较早木板、浅容器材料，经中古英语 trei、trey 延续。现代元音加 y，直接加 -s，不改 ies，尾 /z/。',
+ [['古英语 treg、trig → 中古英语 trei、trey → tray','木浅盘 → 各种承载托盘'],['tray + -s → trays','多个托盘、设备承载盘']],
+ 'serving trays 上菜托盘；paper trays 纸盘、打印机进出纸盘〔看语境〕；baking trays 烤盘。',
+ 'trays of food 几盘食物；stack the trays 摞起托盘。',
+ 'trays 的现代材料不限木头。paper trays 可能是纸做的盘，也可能是设备装纸的盘，要看是在餐饮还是打印机语境。',
+ ('The staff carried trays of sandwiches into the hall.','工作人员把几盘三明治端进大厅。'),('The printer has two paper trays.','打印机有两个装纸盘。'),sources=['https://en.wiktionary.org/wiki/trays#English','https://en.wiktionary.org/wiki/tray#English'])
+W('jars','英 /dʒɑːz/；美 /dʒɑːrz/','罐子、一罐的量〔复数〕；震动、刺耳、不协调〔第三人称单数〕',
+ '盛果酱等内容物的罐子，是 jars。突然的声音让人不舒服、颜色互相冲突，动词也能写 jars；这支有另一来源。',
+ '容器 jar 经拉丁、法语等罗曼语形式接阿拉伯 jarra 陶罐。震动、刺耳的 jar 接另一组早期 jar、jur 等形式，更远未定，可能拟声。现代都加 -s，尾 /z/。',
+ [['阿拉伯 jarra 经罗曼语 → jar 容器','陶罐 → 各种罐子、一罐量'],['另源震动、冲突动词 jar；各加 -s → jars','多个罐子；某物刺耳、与背景不协调']],
+ 'jars of jam 几罐果酱；glass jars 玻璃罐；jars with the background 与背景不协调。',
+ 'empty jars 空罐；jars on the nerves 使人烦躁、刺耳。',
+ '动词分支按刺耳、震动、冲突来理解。jar with 常说两样东西不协调，jar on the nerves 常说声音等让人难受。',
+ ('Glass jars stood on the shelf.','架子上摆着玻璃罐。'),('The sudden noise jars on my nerves.','突如其来的噪声让我烦躁。'),sources=['https://en.wiktionary.org/wiki/jars#English','https://en.wiktionary.org/wiki/jar#English'])
+W('saucers','英 /ˈsɔːsəz/；美 /ˈsɔːsərz/','茶碟、托杯小碟；碟状物〔复数〕',
+ '杯子下面那只小浅碟，是 saucers。它本来和盛酱的小碟有关，后来托杯子的用途成为日常重点。',
+ 'saucer 接古法语 saussier、盎格鲁拉丁 saucerium 等盛酱器皿名，连 sauce 词族、较早拉丁盐和调味材料。现代加 -s，尾 /z/；er 不是英语表人的后缀。',
+ [['拉丁调味材料 → 法语等盛酱小碟名 → saucer','酱碟 → 杯子下面的小浅碟'],['saucer + -s → saucers','多个杯碟、碟状物']],
+ 'cups and saucers 杯碟；small saucers 小茶碟；flying saucers 飞碟〔形状比喻〕。',
+ 'saucers under the cups 杯下的小碟；saucers on the shelf 架上的茶碟。',
+ 'saucers 比普通 plates 更常让人想到托杯的小浅碟。flying saucers 用碟子的扁圆外形描述想象中的飞行器，是形状比喻。',
+ ('She arranged the cups and saucers on a tray.','她把杯碟放在托盘上摆好。'),('The drawing shows two flying saucers above the town.','画上有两个飞碟悬在城镇上方。'),sources=['https://en.wiktionary.org/wiki/saucers#English','https://en.wiktionary.org/wiki/saucer#English'])
+W('buckets','/ˈbʌkɪts/','桶、桶装量；大量〔复数及口语用法〕',
+ '装水、装物并提走的深容器，是 buckets。按一桶一桶来算东西，也能用它；下雨像一桶桶倒下来，则是大量的比喻。',
+ 'bucket 接中古英语 buket、boket，与盎格鲁法语 buquet 等容器名及更早日耳曼容器材料有关，具体借入关系有讨论。现代加 -s，/t/ 后读 /s/。',
+ [['早期日耳曼、盎格鲁法语容器材料 → bucket','肚腹状、空腔容器 → 桶'],['bucket + -s → buckets','多个桶、几桶量；大量的比喻']],
+ 'buckets of water 几桶水；empty buckets 空桶；raining buckets 下瓢泼大雨〔口语〕。',
+ 'carry the buckets 提桶；buckets of paint 几桶油漆。',
+ 'buckets of water 可按容器数水，也可能强调很多。结尾 et 的历史有指小分析，现代 bucket 不要求一定是小桶。',
+ ('They carried two buckets of water to the garden.','他们提了两桶水去花园。'),('It was raining buckets when we left the hall.','我们离开大厅时，正下着瓢泼大雨。'),sources=['https://en.wiktionary.org/wiki/buckets#English','https://en.wiktionary.org/wiki/bucket#English'])
+W('baskets','英 /ˈbɑːskɪts/；美 /ˈbæskɪts/','篮子、一篮量；球篮、投篮得分〔复数〕',
+ '编织或做成能装物、拎走的篮子，是 baskets。篮球的球篮借容器形状命名，投进去一次得分也能数作 a basket。',
+ 'basket 经盎格鲁法语 bascat、basket 等借入，更远与拉丁、凯尔特词的关系有争议。现代直接加 -s，/t/ 后读 /s/。',
+ [['盎格鲁法语篮名 → basket','容器、篮子；更远来源有争议'],['basket + -s → baskets','多个篮子、篮装量；球篮或几次投篮得分']],
+ 'picnic baskets 野餐篮；baskets of fruit 几篮水果；score two baskets 投中两球。',
+ 'shopping baskets 购物篮；baskets in the game 比赛中的投篮得分。',
+ 'baskets 在篮球里可以数投中的球，不一定是在数场上装了几只篮框。其他语境则先看实物容器和装了多少。',
+ ('The fruit was packed in small baskets.','水果装在小篮子里。'),('She scored two baskets in the final minute.','她在最后一分钟投中了两球。'),sources=['https://en.wiktionary.org/wiki/baskets#English','https://en.wiktionary.org/wiki/basket#English'])
+W('drawers','抽屉常用英 /drɔːz/；美 /drɔːrz/，也有双音节读法','抽屉〔复数〕',
+ '柜子里面能拉出来的小盒状空间，是 drawers。它不是整个柜子，而是柜子里一格格可抽拉的储物部分。',
+ 'drawer 为 draw 拉、抽取 + 完整 -er；历史先有拉取等动作执行者名词，后来也命名可拉出的箱盒。现代加复数 -s，尾 /z/。',
+ [['draw + -er → drawer','拉取的执行者；后来可拉出的盒状容器'],['drawer + -s → drawers','多个抽屉']],
+ 'desk drawers 书桌抽屉；kitchen drawers 厨房抽屉；a chest of drawers 五斗柜、抽屉柜。',
+ 'open the drawers 打开抽屉；the top drawers 最上层抽屉。',
+ 'drawers 的常用抽屉读音经常压成一音节。英语 -er 可命名作用物，这里的抽屉并不在自己拉别的东西，而是能被拉出。',
+ ('The desk has three small drawers.','书桌有三个小抽屉。'),('She keeps old letters in the bottom drawers.','她把旧信放在下面几层抽屉里。'),sources=['https://en.wiktionary.org/wiki/drawers#English','https://en.wiktionary.org/wiki/drawer#English'])
+W('cabinets','/ˈkæbɪnəts/','柜子、储物柜；内阁、议政班子〔复数〕',
+ '能关起来存东西的柜子，是 cabinets。政治语境里，这个词还把原来私下议事的小空间，转用来称在其中商议事务的一班人。',
+ 'cabinet 接法语 cabinet 小房间，与 cabane 小屋的指小材料相关，同族还有 cabin；私室、收藏空间等发展为储物柜及议政群体。现代加 -s，/t/ 后读 /s/。',
+ [['法语小屋、小房间材料 → cabinet','私室、珍藏空间 → 柜子；议政群体'],['cabinet + -s → cabinets','多个柜子、不同内阁']],
+ 'kitchen cabinets 厨房橱柜；display cabinets 陈列柜；cabinets in different periods 不同时期的内阁。',
+ 'wooden cabinets 木柜；filing cabinets 文件柜。',
+ 'cabinets 是柜子还是政治群体，要看旁边在说 shelves、doors 还是 ministers、government。两者同词，但对象性质不同。',
+ ('Glass cabinets display the old coins.','玻璃陈列柜里展示着旧硬币。'),('The chapter compares cabinets from two different periods.','这一章比较了两个不同时期的内阁。'),sources=['https://en.wiktionary.org/wiki/cabinets#English','https://en.wiktionary.org/wiki/cabinet#English'])
+W('lids','/lɪdz/','盖子；眼睑〔复数、按语境可为 eyelids 的短称〕',
+ '把开口盖住、又能打开的部分，是 lids。容器有盖，眼睛也有会合上的眼睑，所以 lids 可在眼睛语境里回指 eyelids。',
+ 'lid 继承古英语 hlid 覆盖物等词，现代词首 h 消失；眼睑 eyelid 是 eye 加 lid。现代加 -s，/d/ 后读 /z/。',
+ [['古英语 hlid → lid；eye + lid → eyelid','可开合的覆盖物 → 容器盖、眼睑'],['lid + -s → lids','多个盖子；两只眼睛的眼睑']],
+ 'jar lids 罐盖；plastic lids 塑料盖；heavy lids 沉重、困倦的眼皮。',
+ 'close the lids 盖上盖子；drooping lids 低垂的眼睑。',
+ 'lids 在器物语境先理解为盖子；说眼神、困倦时可能指眼睑。眼睑像眼睛的盖，是英语里直接可见的合成关系。',
+ ('The jars have tight metal lids.','这些罐子有密合的金属盖。'),('Her lids drooped during the long lecture.','漫长讲座中，她的眼皮渐渐耷拉下来。'),sources=['https://en.wiktionary.org/wiki/lids#English','https://en.wiktionary.org/wiki/lid#English'])
+W('carpets','英 /ˈkɑːpɪts/；美 /ˈkɑːrpɪts/','地毯〔复数〕；铺毯、整片覆盖〔第三人称单数〕',
+ '厚厚铺在地上、把一片地面盖住，是 carpets。草、苔藓、花等铺满一块地方，也会用动词 carpets，把它们看成自然地毯。',
+ 'carpet 经古法语 carpite、中古拉丁相关厚织物名，通常联系拉丁 carpere 拔取、梳理纤维材料；早期也可覆盖桌、床，后常指地毯。现代加 -s，/t/ 后读 /s/。',
+ [['拉丁相关厚织物名 → 法语 carpite → carpet','厚布覆盖物 → 现代地面覆盖物'],['carpet + -s → carpets；名词转覆盖动词','多张地毯；某物整片铺满']],
+ 'thick carpets 厚地毯；clean the carpets 清洁地毯；moss carpets the ground 苔藓铺满地面。',
+ 'carpets in the hall 大厅里的地毯；carpets of flowers 花铺成的大片景观。',
+ 'carpets 作动词常强调大面积、连续覆盖。carpets of flowers 可以是大片花丛的形状比喻，未必是把花真的织成毯子。',
+ ('The old house has thick carpets in every room.','老房子每个房间都铺着厚地毯。'),('Soft moss carpets the forest floor.','柔软苔藓铺满了林地。'),sources=['https://en.wiktionary.org/wiki/carpets#English','https://en.wiktionary.org/wiki/carpet#English'])
+W('mats','/mæts/','垫子、薄垫；缠结层〔复数〕；铺垫、缠结〔第三人称单数〕',
+ '一层平平铺开、隔在脚或物体下面的材料，是 mats。许多毛发、纤维纠结成一片，也能像一层垫子那样叫 mat。',
+ 'mat 经古英语 meatte、中古英语 matte 接晚期拉丁 matta 草垫，更远可能联系闪米特语言材料。平面编结层扩展为缠结层、缠结动作；现代加 -s，/t/ 后读 /s/。',
+ [['晚期拉丁 matta → 古英语 meatte → mat','草编垫 → 各种平面垫子'],['mat + -s → mats；密集编结的扩展','多张垫子；毛发等纠结成层']],
+ 'floor mats 地垫；table mats 餐垫；mats of tangled hair 缠成片的头发。',
+ 'rubber mats 橡胶垫；fur mats together 毛纠结在一起。',
+ 'mats 与 carpets 都可铺地，mat 常更小、更薄或有特定防护用途，但不是严格按尺寸划界。缠结义则看纤维聚成层的形状。',
+ ('Rubber mats lay inside the entrance.','入口里面铺着橡胶地垫。'),('Wet fur mats into thick clumps.','湿毛会纠结成厚团。'),sources=['https://en.wiktionary.org/wiki/mats#English','https://en.wiktionary.org/wiki/mat#English'])
+def extend_lessons():
+ extend_existing_lessons(EXISTING_ROOT_ADDITIONS)
+if __name__=='__main__':
+ save('continuation_20261030_zcx',ROOTS,WORDS)
+ extend_lessons()

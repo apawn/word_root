@@ -1,0 +1,272 @@
+[
+  {
+    "id": "B4515",
+    "meaning": "交易中间人扩展到业务、机构和特定经营对象",
+    "core": "BROKER：在交易中牵线，前后成分说明业务类别",
+    "image": "broker → brokerage；stockbroker 股票经纪人，pawnbroker 典当商。",
+    "intro": "人物、公司、佣金由搭配分工；股票与典当则由前项说明业务领域。经纪词近源清楚，更早来历保留争论。",
+    "forms": "brocour → broker；-age 业务、机构、费用；stock、pawn 限定交易种类。\n\npawn 押物 + broker，复数加 -s；这是 pawn 的押物线，与棋兵线不同。\n\nbroker 经盎格鲁法语 brocour、abrokur 等商人名，更早有开酒桶者或其他贸易动词来源的不同分析。现代复数 -s，常说经纪人、中间人。",
+    "branches": [
+      [
+        "经纪角色与整体业务",
+        "broker · brokerage"
+      ],
+      [
+        "按业务限定的人物名",
+        "stockbroker · pawnbroker"
+      ],
+      [
+        "pawnbrokers：收押物借款的经营者",
+        "pawnbroker · pawnbrokers"
+      ],
+      [
+        "小商贩、中间人 → broker → brokers",
+        "brokers"
+      ]
+    ],
+    "contrasts": "pawnbroker 的 pawn 是典当义；brokerage 不只表示一位经纪人。",
+    "practice": "The brokerage employs several stockbrokers; the pawnbroker runs a different kind of business.\n\n经纪公司雇有几位股票经纪人；典当商经营的是另一种业务。",
+    "words": [
+      "broker",
+      "brokerage",
+      "stockbroker",
+      "pawnbroker",
+      "pawnbrokers",
+      "brokers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3741",
+    "meaning": "自我名称，扩展到以自我为中心与心理学层次",
+    "core": "EGO：先问这个我怎样看自己、约束自己",
+    "image": "ego → egocentric；superego 是精神分析理论里的专门概念。",
+    "intro": "日常 ego 常谈自尊、自我重要感；egocentric 指以自我为中心，superego 则需放回相应心理学理论，不能只靠字面当作更大的自尊。",
+    "forms": "拉丁 ego 我 → 英语 ego；ego + centric；super- + ego。",
+    "branches": [
+      [
+        "自我与相关性质、理论概念",
+        "ego · egocentric · superego"
+      ]
+    ],
+    "contrasts": "日常 ego 与精神分析里的概念并不处处同义。",
+    "practice": "The essay contrasts egocentric behaviour with the theoretical concept of the superego.\n\n文章对照了以自我为中心的行为与超我这一理论概念。",
+    "words": [
+      "ego",
+      "egocentric",
+      "superego"
+    ],
+    "exclude": {
+      "ego-self": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2938",
+    "meaning": "尖细吹气声成为警示，警示再形成揭发比喻",
+    "core": "WHISTLE：先吹出声音，再让人注意问题",
+    "image": "whistle → whistling、whistler；whistleblower → whistleblowing 对照人物、活动。",
+    "intro": "哨子、口哨和风声共享听觉特征；揭发者、举报行为则抓发出警示这一动作。原动作人物与比喻角色不要只看 -er 混成一个词。",
+    "forms": "hwistlan、hwistle → whistle；去 e + -ing、-er；whistle + blower、blowing；t 通常不发音。",
+    "branches": [
+      [
+        "声音、过程与发声者",
+        "whistle · whistling · whistler"
+      ],
+      [
+        "警示比喻中的人和活动",
+        "whistleblower · whistleblowing"
+      ]
+    ],
+    "contrasts": "whistler 普通吹哨者与 whistleblower 揭发者常见义不同。",
+    "practice": "Whistleblowing brought the records to light, and the reporter spoke to the whistleblower.\n\n举报让记录曝光，记者随后采访了揭发者。",
+    "words": [
+      "whistle",
+      "whistling",
+      "whistler",
+      "whistleblower",
+      "whistleblowing"
+    ],
+    "exclude": {
+      "whistle-blow": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "whistle-blower": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1854",
+    "meaning": "学科名称变性质，说明与哪门研究有关",
+    "core": "-LOGICAL：常与 -logy 学科名配套，先看前面的对象",
+    "image": "archaeological 考古学的，physiological 生理学的，bacteriological 细菌学的。",
+    "intro": "前面的对象比单背 logical 更关键。chronological 已常用来表示时间顺序，其他词各承相应研究领域的成熟含义。",
+    "forms": "logos → -logia → -logy；对应形容词 -logical；重读 -logical 部分。",
+    "branches": [
+      [
+        "学科、时间顺序的性质",
+        "archaeological · physiological · chronological · bacteriological"
+      ]
+    ],
+    "contrasts": "-logical 在学科词里不只是日常合逻辑的意思。",
+    "practice": "The course covers physiological and bacteriological research methods.\n\n课程介绍生理学与细菌学研究方法。",
+    "words": [
+      "archaeological",
+      "physiological",
+      "chronological",
+      "bacteriological"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4182",
+    "meaning": "拉扯纤维到反复逗弄，挑细节与吊胃口各有画面",
+    "core": "TEASE：轻轻一扯，让纤维松开、让人有反应",
+    "image": "tease → teasing、teaser；striptease 看逐步吊起兴趣的表演名。",
+    "intro": "实体梳理、提问理细节、开玩笑逗人、预告片留悬念都能连回反复牵动。语义联系有帮助，是否友好仍靠上下文。",
+    "forms": "taesan → tesen → tease；去 e + -ing、-er；strip + tease → striptease。\n\n古英语 tæsan 有拉扯、梳理纤维义，后来用于反复招惹、逗弄。teaser 由动词加 -er，早期可指梳理纤维者，预告片是后来的用途。",
+    "branches": [
+      [
+        "动作、性质与执行者、片段",
+        "tease · teasing · teaser"
+      ],
+      [
+        "表演复合名",
+        "striptease"
+      ],
+      [
+        "tease：从梳开纤维到逗弄、吊起兴趣",
+        "tease · teases · teased · teasing · teasingly · teaser · teasers"
+      ]
+    ],
+    "contrasts": "teasing 不必友好；teaser 的固定时长不能凭单词规定。",
+    "practice": "The teaser teased out only a little of the story, keeping the audience curious.\n\n预告片只慢慢透露一点故事，让观众保持好奇。",
+    "words": [
+      "tease",
+      "teasing",
+      "teaser",
+      "striptease",
+      "teases",
+      "teased",
+      "teasingly",
+      "teasers"
+    ],
+    "exclude": {
+      "re-tease": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4297",
+    "meaning": "法律规则与相符性质，再形成方式和性质名",
+    "core": "LAWFUL：行为是否合乎法律，词尾决定怎么说",
+    "image": "lawful → lawfully、lawfulness；unlawful 相反性质。",
+    "intro": "形容词评价行为，副词说明做事方式，名词抽出合法性概念。学习时分清词形，具体是否合法则需看适用事实与法律。",
+    "forms": "law + -ful → lawful；-ly 方式，-ness 性质；un- 否定。",
+    "branches": [
+      [
+        "性质、方式与抽象名词",
+        "lawful · lawfully · lawfulness · unlawful"
+      ]
+    ],
+    "contrasts": "合法性与公平、受欢迎程度不是同一个问题。",
+    "practice": "The report asks whether the act was lawful and explains how its lawfulness was assessed.\n\n报告询问该行为是否合法，并解释合法性如何被评估。",
+    "words": [
+      "lawful",
+      "lawfully",
+      "lawfulness",
+      "unlawful"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3916",
+    "meaning": "细滴形成薄雾，模糊视线；先生称呼是另一路",
+    "core": "MIST：景物像隔着薄纱，喷雾器按制造雾来命名",
+    "image": "mist → misty、mister〔喷雾器〕；mister〔先生〕另接 master。",
+    "intro": "薄雾、窗玻璃细滴、泪眼都有一层模糊；喷雾器把水做成细雾。相同拼写的先生称呼，要分开查其历史。",
+    "forms": "mist、mistian → mist；-y 性质，-er 工具；master → mister 是另一路。",
+    "branches": [
+      [
+        "薄雾、性质与同形词对照",
+        "mist · misty · mister"
+      ]
+    ],
+    "contrasts": "Mr 先生不由 mist 派生；misty 记忆通常模糊而非完全消失。",
+    "practice": "She used a mister on the plants while mist covered the valley outside.\n\n她用喷雾器给植物喷水，窗外山谷笼着薄雾。",
+    "words": [
+      "mist",
+      "misty",
+      "mister"
+    ],
+    "exclude": {
+      "ecto-mist": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2726",
+    "meaning": "手边方便与动手熟练，衍生人物、方式",
+    "core": "HANDY：好拿、好用，做起事来顺手",
+    "image": "handy → handily；handyman 擅长小修小补的人。",
+    "intro": "方便的位置、熟练的双手与轻松的完成感可以连起来。handily 的比赛用法已经不要求实际用手。",
+    "forms": "hand → handy；y 改 i + -ly；handy + man → handyman。",
+    "branches": [
+      [
+        "性质与方式",
+        "handy · handily"
+      ],
+      [
+        "维修人物复合",
+        "handyman"
+      ]
+    ],
+    "contrasts": "win handily 常说轻松获胜；handyman 的具体专业能力看实际工作。",
+    "practice": "The handy tool helped the handyman finish the repair handily.\n\n顺手的工具让维修工轻松完成了修理。",
+    "words": [
+      "handy",
+      "handily",
+      "handyman"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3531",
+    "meaning": "幼羊的名称，再到肉、皮与温顺比喻",
+    "core": "LAMB：先看幼小绵羊，再按动物、食物或材料读",
+    "image": "lamb → lambskin。",
+    "intro": "一只羊羔能提供动物画面，同名肉作食品、皮作材料；温顺比喻则用性格形象，不能把语法可数性也一同照搬。",
+    "forms": "古英语 lamb → lamb；词末 b 不发音；lamb + skin → lambskin。",
+    "branches": [
+      [
+        "动物、食品与皮革",
+        "lamb · lambskin"
+      ]
+    ],
+    "contrasts": "a lamb 是一只羊羔，some lamb 通常一份羊肉；不只翻中文羊就结束。",
+    "practice": "The museum displayed a lambskin beside a drawing of a lamb.\n\n博物馆在羊羔图旁展示了一张羊羔皮。",
+    "words": [
+      "lamb",
+      "lambskin"
+    ],
+    "exclude": {
+      "lambie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4261",
+    "meaning": "野生凶猛到强烈投入，名词、副词各说一种角度",
+    "core": "FIERCE：力量、对抗或情感来得很强",
+    "image": "fierce → fiercely、fierceness。",
+    "intro": "动物、风暴、竞争、决心都可强烈。副词说明怎样做，性质名词抽出强度，不一律等于残暴。",
+    "forms": "ferus → fiers → fierce；-ly 方式，-ness 性质，保留 e。",
+    "branches": [
+      [
+        "性质、方式与强烈程度",
+        "fierce · fiercely · fierceness"
+      ]
+    ],
+    "contrasts": "fierce competition 竞争激烈，不是说比赛必定伤人；看强度与对象。",
+    "practice": "The teams competed fiercely, and the fierceness of the contest surprised everyone.\n\n两队激烈竞争，较量之激烈让所有人吃惊。",
+    "words": [
+      "fierce",
+      "fiercely",
+      "fierceness"
+    ],
+    "exclude": {}
+  }
+]

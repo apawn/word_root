@@ -1,0 +1,234 @@
+[
+  {
+    "id": "B4368",
+    "meaning": "缺少留心，从性质走到做事方式和疏忽状态",
+    "core": "CARELESS：该注意的地方，没有照看到",
+    "image": "careless → carelessly、carelessness。",
+    "intro": "从一只被随手放到桌边的杯子想起：形容人或做法是 careless，说怎样做是 carelessly，谈疏忽本身是 carelessness。",
+    "forms": "care + -less；careless + -ly／-ness。相关古英语材料原来也有无忧义，现代粗心义要按具体语境读。",
+    "branches": [
+      [
+        "性质、方式与状态",
+        "careless · carelessly · carelessness"
+      ]
+    ],
+    "contrasts": "careless 不是 carefree 无忧无虑的通用替代；carelessness 也不自动等于恶意。",
+    "practice": "A careless choice was made carelessly; the carelessness was avoidable.\n\n这个草率选择做得很不留心，这种疏忽本来可以避免。",
+    "words": [
+      "careless",
+      "carelessly",
+      "carelessness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4400",
+    "meaning": "做出同样一份，从复制动作到副本与重复性质",
+    "core": "DUPLICATE：同样的东西，又来一份",
+    "image": "duplicate → duplicative，副本可以有用，重复劳动则常可合并。",
+    "intro": "先分 duplicate 名词、形容词、动词，再看 duplicative 描述重复、重叠性质。别把它误读成有欺骗性的 duplicitous。",
+    "forms": "拉丁 duplic- 两重、duplicare 使成双 → duplicate；-ive 性质。duplicate 名、形末尾 /kət/，动词末尾 /keɪt/。",
+    "branches": [
+      [
+        "副本、复制与重复性质",
+        "duplicate · duplicative"
+      ]
+    ],
+    "contrasts": "duplicative 重复、重叠；duplicitous 表里不一。保留备用副本，不必等于做无用功。",
+    "practice": "Keep a duplicate key, but remove duplicative steps from the process.\n\n留一把备用钥匙，同时去掉流程里的重复步骤。",
+    "words": [
+      "duplicate",
+      "duplicative"
+    ],
+    "exclude": {
+      "duplication": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1945",
+    "meaning": "围绕某个中心，或以它作为观察基准",
+    "core": "-CENTRIC：把谁放在中心，就围着谁来看",
+    "image": "concentric 共中心；eccentric 偏中心；ego、geo、helio 等指出中心是谁。",
+    "intro": "想成圆规的针落在哪里。几何描述位置，观点描述以什么为基准，人物性格则可由偏离通常中心发展出古怪等义。",
+    "forms": "希腊 kentron 尖点、圆心 → 拉丁 centrum；-centric 是中心相关构词形式，具体整词还可能经法语、拉丁借入。",
+    "branches": [
+      [
+        "中心位置",
+        "concentric · eccentric"
+      ],
+      [
+        "以什么为中心的观点",
+        "egocentric · geocentric · heliocentric · ethnocentric"
+      ]
+    ],
+    "contrasts": "egocentric 与 eccentric 不是一回事；几何或肌肉里的 eccentric 也不能一律翻成性格古怪。",
+    "practice": "The chart contrasts geocentric and heliocentric models with concentric circles.\n\n图表用同心圆对照地心模型与日心模型。",
+    "words": [
+      "concentric",
+      "eccentric",
+      "egocentric",
+      "geocentric",
+      "heliocentric",
+      "ethnocentric"
+    ],
+    "exclude": {
+      "car-centric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gun-centric": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3872",
+    "meaning": "松垮地落下，进入失败比喻与软垂性质",
+    "core": "FLOP：扑通一落，或没撑起来",
+    "image": "flop 重重落下、失败；floppy 软软垂着，后来也简称软盘。",
+    "intro": "动作从软垮落下理解，失败从预期没有撑起来理解；软盘则取柔性材料命名，不是失败文件。",
+    "forms": "flop 通常视为 flap 的变形；flop + -y 双写 p → floppy；floppy disk → floppy。\n\nflop 加 y 的柔软性质词进入 floppy disk，再截短为可数名词。\n\nflop 可能是 flap 的沉重声音变体；失败名词的记录早于相应动词义，现代读词顺序不代表历史顺序。",
+    "branches": [
+      [
+        "落下、失败与软垂",
+        "flop · floppy"
+      ],
+      [
+        "floppy → floppies：软盘名的 y 复数",
+        "floppy · floppies"
+      ],
+      [
+        "flop 的软垮落下与失败",
+        "flop · flops · flopped · flopping"
+      ]
+    ],
+    "contrasts": "计算性能里的 FLOP、FLOPS 来自 floating point operation 等缩写，和扑通落下的 flop 词源不同。",
+    "practice": "He flopped onto the sofa beside a floppy hat.\n\n他瘫到沙发上，旁边放着一顶软檐帽。",
+    "words": [
+      "flop",
+      "floppy",
+      "floppies",
+      "flops",
+      "flopped",
+      "flopping"
+    ],
+    "exclude": {
+      "pre-flop": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3557",
+    "meaning": "从加热房间到炉具，再命名上部和烟管",
+    "core": "STOVE：暖屋子的地方，变成供热的炉子",
+    "image": "stove → stovetop 灶面；stovepipe 炉烟管及封闭渠道比喻。",
+    "intro": "先把炉子这个实物想清楚，再看 top、pipe 加到了哪里。烟管的纵向通道还可比喻信息各走各路、缺少横向共享。",
+    "forms": "stove 经低地日耳曼语加热房间材料借入；stove + top／pipe 构成英语复合词。\n\nstew 经法语 estuver 等热浴、焖炖材料借入，更远来源不确定；和 stove 的旧暖房、浴室义可能有关，但不能断定现代 stew 直接从 stove 删字母。炖菜名词、焦虑比喻各有用法发展。",
+    "branches": [
+      [
+        "炉具、灶面与通道",
+        "stove · stovetop · stovepipe"
+      ],
+      [
+        "stew：热、蒸汽与慢炖；另有焦虑比喻",
+        "stew · stews · stewed · stewing"
+      ]
+    ],
+    "contrasts": "stovetop 在灶上，oven 在烤箱里；组织中的 stovepipe 是通道隔离比喻，不是说真的着火。",
+    "practice": "The old stove has a metal stovepipe and a broad stovetop.\n\n旧炉子装着金属烟管，炉面也很宽。",
+    "words": [
+      "stove",
+      "stovetop",
+      "stovepipe",
+      "stew",
+      "stews",
+      "stewed",
+      "stewing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4332",
+    "meaning": "把具体事情整理成能理解的概念、框架",
+    "core": "CONCEPTUAL：先把想法的骨架搭清楚",
+    "image": "conceptual → conceptually、conceptualize。",
+    "intro": "三词分别说概念层面的性质、从这一层面看、形成这一层面的理解。像先画系统关系草图，再去决定实现细节。",
+    "forms": "拉丁 conceptus、conceptualis 等 → conceptual；-ly 成副词，-ize 形成动作。",
+    "branches": [
+      [
+        "概念层面与形成概念",
+        "conceptual · conceptually · conceptualize"
+      ]
+    ],
+    "contrasts": "conceptual 不等于空想无用；conceptualize 也不要求脑中必须出现一张可见图片。",
+    "practice": "We conceptualize the system before checking whether the conceptual model is conceptually consistent.\n\n我们先构想系统，再检查概念模型在概念上是否一致。",
+    "words": [
+      "conceptual",
+      "conceptually",
+      "conceptualize"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4178",
+    "meaning": "光、印象和希望不鲜明，或让亮度降低",
+    "core": "DIM：还看得到，但不够亮、不够清楚",
+    "image": "dim → dimly、dimmer、dimmable。",
+    "intro": "同一盏灯可以现在 dim，也可以只是 dimmable；转动 dimmer 才改变亮度。dimly 又让弱光与模糊记忆形成直观联系。",
+    "forms": "古英语 dim、dimm → dim；-ly 不双写 m；-er、-able 双写 m。dimmer 设备名和比较级要看句法区分。",
+    "branches": [
+      [
+        "亮度、方式与控制能力",
+        "dim · dimly · dimmer · dimmable"
+      ]
+    ],
+    "contrasts": "dimmable 不等于已经昏暗；dimmer 也不总是调光器，可能只是更暗这个比较级。",
+    "practice": "The dimmable lamp made the dimly lit room a little less dim.\n\n可调光的灯让这间光线昏暗的房间稍微亮了一些。",
+    "words": [
+      "dim",
+      "dimly",
+      "dimmer",
+      "dimmable"
+    ],
+    "exclude": {
+      "dim-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "dim-lit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3228",
+    "meaning": "传统超自然生物名，在奇幻文学中延续、变化",
+    "core": "ELF：先认故事里的生灵，再看属于它的事物",
+    "image": "elf → elves 是复数，elven 是精灵相关的形容词。",
+    "intro": "不同作品给精灵不同外形和能力。词根学习在这里先抓名称和归属关系，避免把某部作品设定当整个英语词的唯一定义。",
+    "forms": "古英语 ælf 等 → elf；复数 elves；旧 elfen、elven 材料在现代文学中复兴为相应形容词。\n\nelf 承接古英语、日耳曼语神话名，普通复数 elves；不同作品塑造的精灵形象不同。\n\n与 elf 比较传说角色，不由 elf 派生。goblin 接诺曼法语 gobelin，更远有不同分析，不能把形似词、现代游戏设定拼成确定历史。",
+    "branches": [
+      [
+        "生灵名称及相关性质",
+        "elf · elven"
+      ],
+      [
+        "elf → elves：精灵的复数",
+        "elf · elves · elvish"
+      ],
+      [
+        "goblin：与 elf 比较的小妖精名",
+        "goblin · goblins"
+      ]
+    ],
+    "contrasts": "elven 与 eleven 不同；elf 不必都矮小、长翅膀。",
+    "practice": "The elf studies the history of an ancient elven city.\n\n这名精灵研究一座古老精灵城市的历史。",
+    "words": [
+      "elf",
+      "elven",
+      "elves",
+      "elvish",
+      "goblin",
+      "goblins"
+    ],
+    "exclude": {
+      "were-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wood-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mountain-elf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elf-folk": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elf-maiden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "elfin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

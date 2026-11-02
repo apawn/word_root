@@ -5,7 +5,7 @@
     "core": "SIGN = A MEANINGFUL MARK",
     "image": "在纸上做一个记号：它可以说明“这是我”，也可以指明“这一份归你”，还可以画出“将来要做成这样”。",
     "intro": "拉丁语 signum 是让人辨认、读出意义的标记，signāre 是做记号、盖印。先掌握 sign 的记号与签名，再看 signal 怎样传信息、design 怎样标出计划、assign 怎样划定归属、significant 怎样从有含义走向有分量。更早的印欧词源有不同解释，本页不把“切刻”或“跟随”某一种理论画成定论。",
-    "forms": "**sign-**：来自 signum / signāre。sign、design、assign 的 g 不发音，signal、signature、designation 中的 g 则发 /ɡ/，要跟着整词读音学。\n\n**signific-**：signum 与 facere 的构词支线，表示传达意义；significant、significance 有各自借入史。\n\n**sigill- / seal / sigil**：拉丁 sigillum“小标记、印章”衍生出直接借词 sigil 和经法语传播的 seal。\n\n**insign- / ensign**：拉丁 īnsigne、īnsignia 的直接借入与法语转借；这里的 in- 不是否定前缀。",
+    "forms": "**sign-**：来自 signum / signāre。sign、design、assign 的 g 不发音，signal、signature、designation 中的 g 则发 /ɡ/，要跟着整词读音学。\n\n**signific-**：signum 与 facere 的构词支线，表示传达意义；significant、significance 有各自借入史。\n\n**sigill- / seal / sigil**：拉丁 sigillum“小标记、印章”衍生出直接借词 sigil 和经法语传播的 seal。\n\n**insign- / ensign**：拉丁 īnsigne、īnsignia 的直接借入与法语转借；这里的 in- 不是否定前缀。\n\n拉丁 signum 经古英语、法语等路径进入，名动词各有历史。\n\n拉丁标记词经法语借入，艺术用途另有意大利影响。\n\n拉丁 signum、signale 经法语等传入；复数与动词三单同形。\n\n设计经法语、意大利语相应材料，英语人名词接完整 er。\n\nassignment 有法语 assignement 独立借入史；现代复数直接加 s。\n\n签名、登记参加的动词短语形成合写名词；不是把每种 sign 都机械解释为签合同。\n\n封印 seal 经法语接拉丁 sigillum 小印记，sigillum 接 signum 标记的小称材料；现代名词复数、动词第三人称均为 seals。海豹义另源。\n\nsignature 接法语或拉丁 signatura、signare 标记词族。现代复数常说签名，也可说可识别特征、音乐中的调号拍号等，保留 e 加 -s。",
     "branches": [
       [
         "看懂标记与传递信号",
@@ -38,6 +38,38 @@
       [
         "从封印走向封闭",
         "seal / sealed / sealing / sealer / sealant / unseal / sigil"
+      ],
+      [
+        "sign → signs：标志、迹象与签名",
+        "sign · signs"
+      ],
+      [
+        "design → designs：标出、构想到设计方案",
+        "design · designs"
+      ],
+      [
+        "signal → signals：用可识别的变化传递信息",
+        "signal · signals"
+      ],
+      [
+        "design → designer → designers：构想方案的人",
+        "design · designer · designers"
+      ],
+      [
+        "assign → assignment → assignments：指定、任务与多项任务",
+        "assign · assignment · assignments"
+      ],
+      [
+        "sign up → signup → signups：报名、注册",
+        "sign · signup · signups"
+      ],
+      [
+        "小标记 → seal → seals：印章、封口与密封",
+        "seals"
+      ],
+      [
+        "sign- 标记 → signature → signatures",
+        "signatures"
       ]
     ],
     "contrasts": "sign 是记号、迹象或签署动作；signature 是签名或鲜明特征；signal 强调信号。siggy 是 signature 的网络口语缩略。\n\ndesign 是规划、设计；designate 是指定某个人或用途。designation 的英语历史比现代动词 designate 更早，不能只看相似词尾就反推顺序。\n\nassignor 转出，assignee 接收；consignor 交货，consignee 收货。先画箭头，再记角色。\n\nresign 是辞去或放弃，resigned 是无奈接受；resignation 有辞职和认命两条常见义。\n\ninsignificant 的 in- 表示不，insignia 的 in- 不是否定。seal 的印章、密封义属于本族，海豹义另源。\n\nstatistically significant 不能直接等同“效果很大”；先判断是不是专门的统计用法。",
@@ -112,7 +144,16 @@
       "sealer",
       "sealant",
       "unseal",
-      "sigil"
+      "sigil",
+      "signs",
+      "designs",
+      "signals",
+      "designers",
+      "assignments",
+      "signup",
+      "signups",
+      "seals",
+      "signatures"
     ]
   }
 ]

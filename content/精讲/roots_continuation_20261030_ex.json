@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B3775",
+    "meaning": "保留、守护的倾向及谨慎做事风格",
+    "core": "CONSERVATIVE：先守住已有，再谨慎对待改变",
+    "image": "conservative → conservatism、conservatively；neoconservative 接特定政治思想背景。",
+    "intro": "政治传统与一般谨慎估计分语境，穿得保守也不等于已经声明政治立场。",
+    "forms": "conservāre、conservātīvus 经法语 → conservative；conservative 对应 conservatism；conservative + -ly；neo- + conservative。\n\n法语 conservatif 接拉丁 conservare，性质词转为人物称呼，再加 s。",
+    "branches": [
+      [
+        "基础、思想与做事方式",
+        "conservative · conservatism · conservatively"
+      ],
+      [
+        "特定思想名称",
+        "neoconservative"
+      ],
+      [
+        "conservative → conservatives：倾向保留现有安排的人",
+        "conserve · conservative · conservatives"
+      ]
+    ],
+    "contrasts": "conservatism 政治与一般态度；conservatively 数字方向依对象；neoconservative 不能只按所有新的保守者直译。",
+    "practice": "The conservatively dressed speaker discussed the history of conservatism.\n\n那位穿着保守的讲者讨论了保守主义历史。",
+    "words": [
+      "conservative",
+      "conservatism",
+      "conservatively",
+      "neoconservative",
+      "conserve",
+      "conservatives"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4315",
+    "meaning": "承诺把关系接上，到注意力投入、零件接合",
+    "core": "ENGAGE：把某人某物接进一件事里",
+    "image": "engage → engaged、engaging、engagement；disengage 是脱开、抽身。",
+    "intro": "订婚、观众互动、机械接合都要按对象选义；engaging 作品吸引人，engaged 观众已经投入，方向别倒。",
+    "forms": "en gage、engagier → engage；engage + -ed/-ing；法语 engagement → engagement；désengager → disengage。",
+    "branches": [
+      [
+        "动作与两种分词性质",
+        "engage · engaged · engaging"
+      ],
+      [
+        "承诺、互动名词与脱开",
+        "engagement · disengage"
+      ]
+    ],
+    "contrasts": "engaged to/in 订婚对象与忙于活动；engaging/engaged 造成吸引与投入状态；engagement 非只订婚；disengage/disagree 抽身不同意。",
+    "practice": "The engaging story kept the audience engaged.\n\n引人入胜的故事让观众一直很投入。",
+    "words": [
+      "engage",
+      "engaged",
+      "engaging",
+      "engagement",
+      "disengage"
+    ],
+    "exclude": {
+      "re-engage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3648",
+    "meaning": "短促上下动，与短截、悬垂团块的旧名词分支",
+    "core": "BOB：浮动一点点，短发、短尾、毛球则另看旧材料",
+    "image": "bob → bobble；bobsled 早有短橇运输背景；bobcat 取短尾名称。",
+    "intro": "bob 系列远源多处不定，能记住常见画面而不编唯一祖先。Bob 人名从 Robert，雪车不只从运动员点头故事来。",
+    "forms": "bobben → bob 动词；bobbe 等 → 团簇、短截名词；bob + -le；bob + sled/cat。\n\n浮动动词接中古英语 bobben，远源未定；短发、短截、团簇等名称历史相互交织，不把所有名词都写成由水面漂浮直接派生。",
+    "branches": [
+      [
+        "基础动作、名词与毛球",
+        "bob · bobble"
+      ],
+      [
+        "雪车与短尾动物",
+        "bobsled · bobcat"
+      ],
+      [
+        "bob：短促上下动；短发等名词各看旧材料",
+        "bob · bobs · bobbed · bobbing"
+      ]
+    ],
+    "contrasts": "bob/Bob 普通词专名；bobble/bubble 毛球气泡；bobsled/sled 专用比赛与一般雪橇；bobsleigh 为对应名称。",
+    "practice": "The bobble on his hat bobbed as he watched the bobsled race.\n\n他看雪车比赛时，帽顶毛球上下晃动。",
+    "words": [
+      "bob",
+      "bobble",
+      "bobsled",
+      "bobcat",
+      "bobs",
+      "bobbed",
+      "bobbing"
+    ],
+    "exclude": {}
+  }
+]

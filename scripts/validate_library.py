@@ -114,6 +114,7 @@ for row in csv.DictReader((O/'data/覆盖明细.csv').open()):
     for field in ['ipa','zh','etym','example','split']:
         check(int(row.get(field) or 0)<=int(row['words']),f'Invalid coverage: {row["id"]}/{field}')
 report={'ok':not errors,'root_pages':len(R),'markdown_files':pages,'svg_files':svgcount,'evolution_svg_files':evolution_count,'completed_lessons':P['root_pages'],'fully_explained_words':P['unique_words'],'authored_bilingual_examples':P['examples'],'checked_local_links_and_anchors':links,'source_rows':len(source_ids),'unique_words':S['unique_words'],'errors':errors}
+report['authored_sha256']=expected_digest
 (O/'data/结构校验.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
 print(json.dumps(report,ensure_ascii=False,indent=2))
 raise SystemExit(bool(errors))

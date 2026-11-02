@@ -1,0 +1,151 @@
+[
+  {
+    "id": "B4100",
+    "meaning": "处理、治疗与可以治疗",
+    "core": "TREAT：怎么对待；TREATABLE：能施以治疗",
+    "image": "treat 与 treatment 已精讲，接 treatable，再共享 mistreat，分清治疗能力和治愈结果。",
+    "intro": "法语处理词在英语中有对待、治疗、款待等分支。treatable 的现代医疗用法选的是治疗分支。",
+    "forms": "treat → treatment、treatable；mis- + treat → mistreat。\n\n本族后缀对应与法语 traitement 可比较，现代复数末尾 ts。",
+    "branches": [
+      [
+        "处理、过程与可能性",
+        "treat · treatment · treatable"
+      ],
+      [
+        "不当对待",
+        "mistreat"
+      ],
+      [
+        "treat、treatment → treatments：处理与对待的方式",
+        "treat · treatment · treatments"
+      ]
+    ],
+    "contrasts": "treatable 可治疗不保证 curable 治愈；treat 有多个固定用法，后缀不能替代具体词义。",
+    "practice": "The explanation distinguished a treatable condition from a guaranteed cure.\n\n讲解区分了可以治疗与保证治愈。",
+    "words": [
+      "treat",
+      "treatment",
+      "treatable",
+      "mistreat",
+      "treatments"
+    ],
+    "exclude": {
+      "re-treat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ill-treat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4311",
+    "meaning": "经济关系、经济学与宏微观视角",
+    "core": "ECONOMIC：关于经济；前部决定分析尺度",
+    "image": "economic、economics、economical 已精讲，微观名词与形容词挨着，再对应宏观和不合算。",
+    "intro": "economic 与 economical 词形相关但现代常用义不同。macro-、micro- 是分析层面，不简单比较钱多钱少。",
+    "forms": "economic → economics；相关 economical；micro-/macro-/un- + economic。",
+    "branches": [
+      [
+        "经济与节省的基本辨析",
+        "economic · economics · economical"
+      ],
+      [
+        "微观与宏观",
+        "microeconomics · microeconomic · macroeconomic"
+      ],
+      [
+        "不合算",
+        "uneconomic"
+      ]
+    ],
+    "contrasts": "economic 经济相关，economical 节省；microeconomic 看个体市场，macroeconomic 看总量等整体层面。",
+    "practice": "The course compares microeconomic choices with macroeconomic trends.\n\n课程比较微观经济选择与宏观经济趋势。",
+    "words": [
+      "economic",
+      "economics",
+      "economical",
+      "microeconomics",
+      "microeconomic",
+      "macroeconomic",
+      "uneconomic"
+    ],
+    "exclude": {
+      "political-economic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "socio-economic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "politico-economic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4252",
+    "meaning": "给予、慷慨与表达谢意",
+    "core": "GIVING：把东西、心力给出去，也可以表达谢意",
+    "image": "give 已精讲，接 giving；thanksgiving 先讲表达感谢，再共享 caregiving 照护。",
+    "intro": "giving 是 give 的 -ing 形式，也有慷慨形容词义。thanksgiving 由 thanks + giving 合成，节日只是其中一种固定发展。",
+    "forms": "give → giving；thanks + giving；care + giving → caregiving。",
+    "branches": [
+      [
+        "给予与付出",
+        "give · giving"
+      ],
+      [
+        "谢意与照护",
+        "thanksgiving · caregiving"
+      ]
+    ],
+    "contrasts": "giving 慷慨不等于 gifted 有天赋；thanksgiving 泛指感谢与大写节日分清。",
+    "practice": "Giving time to others can be a way of expressing thanksgiving.\n\n为别人付出时间，也可以是表达感恩的方式。",
+    "words": [
+      "give",
+      "giving",
+      "thanksgiving",
+      "caregiving"
+    ],
+    "exclude": {
+      "self-giving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gift-giving": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2423",
+    "meaning": "小时、按小时与沙漏",
+    "core": "HOUR：时间单位；HOURGLASS：用玻璃器皿漏沙计时",
+    "image": "hour、hourly 已有精讲，接 hourglass；h 的静音保留在组合里。",
+    "intro": "hour 经法语接拉丁、希腊时间词。hourglass 是英语用途与材料的合成，不能从名字保证每件都计一整小时。",
+    "forms": "hour + -ly → hourly；hour + glass → hourglass。\n\nhours 的 h 仍不发音；a few hours 是时长，opening hours 是开放时段。\n\nencore 与 hour 的时间材料联系取决于对法语 encore 的远源分析，不是英语 hour 的派生词。",
+    "branches": [
+      [
+        "时间单位与周期",
+        "hour · hourly"
+      ],
+      [
+        "计时装置",
+        "hourglass"
+      ],
+      [
+        "hour → hours：小时、长时间与开放时段",
+        "hour · hours"
+      ],
+      [
+        "hora 的远亲旁支 encore：再来一次",
+        "encore · encores"
+      ]
+    ],
+    "contrasts": "hourglass 不都计一小时；hour 的 h 静音；hourly 按每小时或每小时发生，看语境。",
+    "practice": "The small hourglass measures only three minutes.\n\n这个小沙漏只计三分钟。",
+    "words": [
+      "hour",
+      "hourly",
+      "hourglass",
+      "hours",
+      "encore",
+      "encores"
+    ],
+    "exclude": {
+      "by-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hour-long": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "man-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "person-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "half-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "machine-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "quarter-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "watt-hour": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

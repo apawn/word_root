@@ -1,0 +1,217 @@
+[
+  {
+    "id": "A1795",
+    "meaning": "希腊时间材料，用于先后、对时、测时和时代错置",
+    "core": "CHRONO：沿时间线排，或把两个时钟对上",
+    "image": "chronology → chronological；synchronize 对时；chronograph、chronometer 看测时；anachronism 是时代错置。",
+    "intro": "时间这个核心很稳，后半决定在排序、记录、测量还是匹配。词形不同的 synchronize、anachronism 仍能在历史时间材料上联系起来。",
+    "forms": "希腊 khronos 时间 → chrono-；-logy 论述、顺序体系；syn- 一起；graph 写、记录；meter 测；ana- 等在 anachronism 中构成时代错置词。",
+    "branches": [
+      [
+        "先后顺序与对时",
+        "chronology · chronological · synchronize"
+      ],
+      [
+        "记录、测量时间",
+        "chronograph · chronometer"
+      ],
+      [
+        "时代错置",
+        "anachronism"
+      ]
+    ],
+    "contrasts": "chronograph 偏计时记录功能，chronometer 常是精密计时器名称；不是每个现代钟都靠词形就自动获得特定技术认证。",
+    "practice": "The chronology helps us spot an anachronism in the story.\n\n时间顺序表帮助我们发现故事里的时代错置。",
+    "words": [
+      "chronology",
+      "chronological",
+      "synchronize",
+      "chronograph",
+      "chronometer",
+      "anachronism"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3243",
+    "meaning": "鸟羽实体，借轻细外观形成性质与重量比喻",
+    "core": "FEATHER：轻轻一根，边缘细细分开",
+    "image": "feather → feathery；featherweight 再借重量画面。",
+    "intro": "羽毛不只是轻，还能让人想到细密分枝、边缘柔散。用实物、植物叶、云丝几个场景，就能看见形容词怎样扩展。",
+    "forms": "feþer → fethere → feather；-y 性质；weight 重量，形成相应轻量级名。\n\nfeather 承古英语 feðer 等羽毛名，远与飞的词族相关。现代复数 -s 读 /z/；birds of a feather 以羽毛相似比喻同类。",
+    "branches": [
+      [
+        "羽毛与羽状性质",
+        "feather · feathery"
+      ],
+      [
+        "轻量级命名",
+        "featherweight"
+      ],
+      [
+        "feather → feathers：羽毛及比喻",
+        "feathers"
+      ]
+    ],
+    "contrasts": "feather 羽毛不同于 wing 翅膀；feathery 不要求是真的羽毛，featherweight 具体量级规则需看项目。",
+    "practice": "A feather landed among the plant’s feathery leaves.\n\n一根羽毛落在植物羽状的细叶间。",
+    "words": [
+      "feather",
+      "feathery",
+      "featherweight",
+      "feathers"
+    ],
+    "exclude": {
+      "feather-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4145",
+    "meaning": "冲浪活动名再由风、风筝限定具体器具",
+    "core": "SURFING：先看水面板运动，再看谁在提供动力",
+    "image": "surfing → windsurfing、kitesurfing，活动名称与器具限定。",
+    "intro": "三个词都带 surfing，器具连接却不同。日常 surf the web 的浏览比喻又是另一场景，不要把所有 surfing 都画成海浪运动。",
+    "forms": "surf + -ing → surfing；wind + surfing；kite + surfing。-ing 可固定为活动名。",
+    "branches": [
+      [
+        "活动名与器具限定",
+        "surfing · windsurfing · kitesurfing"
+      ]
+    ],
+    "contrasts": "windsurfing 的帆与 kitesurfing 的风筝不同；kiteboarding 可有其他表面活动，不能把所有形式都只看成水上。",
+    "practice": "The programme compares surfing, windsurfing and kitesurfing.\n\n节目比较了冲浪、帆板和风筝冲浪。",
+    "words": [
+      "surfing",
+      "windsurfing",
+      "kitesurfing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4017",
+    "meaning": "不该混入的物质或影响进入，再以 de- 命名去除过程",
+    "core": "CONTAMINATION：本来该保持的状态，被不该有的东西混进来",
+    "image": "contamination → decontamination，污染与去污染的过程名词。",
+    "intro": "样品、环境、食品、数据等都可能按领域说 contamination。decontamination 说相应去除过程，不因词形加了 de- 就保证达到某个统一标准。",
+    "forms": "拉丁 contaminatio 等 → contamination；现代 de- 去除 + contamination → decontamination。与 contaminate、decontaminate 配对，借入史和现代派生史分开。",
+    "branches": [
+      [
+        "污染与去除过程",
+        "contamination · decontamination"
+      ]
+    ],
+    "contrasts": "contamination 不必肉眼可见；decontamination 也不与每种消毒、灭菌定义完全相同，具体看领域。",
+    "practice": "The team documented the contamination before decontamination began.\n\n去污染工作开始前，团队记录了污染情况。",
+    "words": [
+      "contamination",
+      "decontamination"
+    ],
+    "exclude": {
+      "cross-contamination": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4076",
+    "meaning": "适合收获的成熟状态，按是否到点、过点与变化分词",
+    "core": "RIPE：到火候是状态，变熟是过程",
+    "image": "unripe → ripe → overripe 是阶段；ripen 是变化，ripeness 是状态名词。",
+    "intro": "一条果实成熟线就能看清词族，但排列阶段不是在断言造词历史。时机、想法的成熟再用这幅画面理解。",
+    "forms": "rīpe → ripe，与 reap 相关；-en 变化；-ness 状态；un- 否定；over- 过度。",
+    "branches": [
+      [
+        "成熟状态、变化与程度",
+        "ripe · ripen · ripeness"
+      ],
+      [
+        "未到、过头的阶段",
+        "unripe · overripe"
+      ]
+    ],
+    "contrasts": "unripe 是未熟，raw 可是未烹饪；overripe 不自动就是 rotten；ripeness 与 ripening 分状态、过程。",
+    "practice": "The unripe fruit will ripen, but we should watch its ripeness before it becomes overripe.\n\n未熟果会变熟，但我们得留意成熟度，别让它熟过头。",
+    "words": [
+      "ripe",
+      "ripen",
+      "ripeness",
+      "unripe",
+      "overripe"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4078",
+    "meaning": "旧怜悯名词被 -less 否定，再分方式与性质",
+    "core": "RUTHLESS：不因为可怜或舍不得，就放下手",
+    "image": "ruthless → ruthlessly、ruthlessness，性质、做法与抽象名词。",
+    "intro": "待人不留情可能冷酷，删稿不手软可能受赞；词的力度都比单纯认真强。旧 ruth 怜悯留在构词中，不必误连到人名。",
+    "forms": "reuthe 怜悯 + -less → ruthless；-ly 方式；-ness 性质。",
+    "branches": [
+      [
+        "性质、方式与抽象名词",
+        "ruthless · ruthlessly · ruthlessness"
+      ]
+    ],
+    "contrasts": "人名 Ruth 与旧名词 ruth 分源；ruthlessness 不是只有效率、没有不留情面这一层。",
+    "practice": "The ruthless editor worked ruthlessly, though her ruthlessness served the story.\n\n这位不留情面的编辑毫不手软地改稿，不过她的决绝是为故事服务。",
+    "words": [
+      "ruthless",
+      "ruthlessly",
+      "ruthlessness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4002",
+    "meaning": "聚在一起、装在一起，前缀说明拆开还是重新合拢",
+    "core": "ASSEMBLE：把分散的人或零件合到一起",
+    "image": "assemble → assembler；disassemble 拆开；reassemble 重新装合。",
+    "intro": "人集合和零件装配都能用 assemble，工具或人物则由 -er 命名。计算机汇编再借装配画面，但语言和工具名要分开。",
+    "forms": "assemble 经法语接拉丁一起的材料；-er 人或工具；dis- 分开；re- 再次。\n\n法语 assembler 接较早一起、相像材料，现代词义是集合、组装。",
+    "branches": [
+      [
+        "聚拢、装配与人物工具",
+        "assemble · assembler"
+      ],
+      [
+        "拆开与重新装合",
+        "disassemble · reassemble"
+      ],
+      [
+        "assemble → assembled：把人或部件合到一起",
+        "assemble · assembled"
+      ]
+    ],
+    "contrasts": "assembler 不等于 assembly language；disassemble 是拆结构，reassemble 是重新装合，不只把零件摆在旁边。",
+    "practice": "The assembler had to disassemble and reassemble the unit.\n\n装配工不得不拆开并重新装合这个部件。",
+    "words": [
+      "assemble",
+      "assembler",
+      "disassemble",
+      "reassemble",
+      "assembled"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4025",
+    "meaning": "认真、热诚的本族词，副词和性质名词继续派生",
+    "core": "EARNEST：我不是随便说说，我是真心投入",
+    "image": "earnest → earnestly、earnestness；in earnest 保留常见名词短语。",
+    "intro": "用真心投入把认真与诚恳连起来。它不只说表情严肃，也不保证一个人已经专业、正确；保证金同形名词另源。",
+    "forms": "eornost、eornoste → earnest；旧 eornostlice → earnestly；earnest + -ness → earnestness。",
+    "branches": [
+      [
+        "认真性质、方式与抽象名词",
+        "earnest · earnestly · earnestness"
+      ]
+    ],
+    "contrasts": "earnest 不是 earn 挣钱的最高级；earnestly 与 carefully 看态度和细致的不同方面；in earnest 常说认真、真正展开。",
+    "practice": "She spoke earnestly, and her earnestness was clear.\n\n她诚恳地说着，那份认真很明显。",
+    "words": [
+      "earnest",
+      "earnestly",
+      "earnestness"
+    ],
+    "exclude": {}
+  }
+]

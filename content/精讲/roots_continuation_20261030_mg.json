@@ -1,0 +1,201 @@
+[
+  {
+    "id": "B3262",
+    "meaning": "溪流名词与容忍动词同形；broker 另看借词历史",
+    "core": "BROOK：溪流与容忍分两路，近形 broker 不硬拆",
+    "image": "brook → brookside；broker 接法语商业中介词。",
+    "intro": "溪边复合词很透明，容忍动词则是另一个旧词的后代。broker 的远源有不同解释，先记住交易中介的明确近源与现代核心。",
+    "forms": "brōc 溪流；brūcan 使用、享有 → 容忍；brookside 接 side；broker 近源 brocour。",
+    "branches": [
+      [
+        "小溪及溪边",
+        "brook · brookside"
+      ],
+      [
+        "近形中介词，历史另辨",
+        "broker"
+      ]
+    ],
+    "contrasts": "brook no delay 是正式不容拖延；broker 的 -er 外观不能直接证明小溪同源。",
+    "practice": "The broker would brook no delay in arranging the meeting.\n\n中介不容许安排会面一事再拖延。",
+    "words": [
+      "brook",
+      "brookside",
+      "broker"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4407",
+    "meaning": "新闻实践与以照片报道的分支",
+    "core": "JOURNALISM：把新闻调查、组织并报道给公众",
+    "image": "journalism → photojournalism。",
+    "intro": "journalism 是新闻工作、行业实践；加 photo- 后，突出以照片、影像叙事来报道。-ism 在这里说职业领域。",
+    "forms": "法语 journalisme → journalism；现代对应 journal + -ism；photo- 摄影 + journalism。",
+    "branches": [
+      [
+        "新闻工作及摄影分支",
+        "journalism · photojournalism"
+      ]
+    ],
+    "contrasts": "新闻摄影与一般照片拍摄的任务不同；journalism 不因 -ism 就译某种思想主义。",
+    "practice": "She studied journalism before specialising in photojournalism.\n\n她先学新闻，后来专攻新闻摄影。",
+    "words": [
+      "journalism",
+      "photojournalism"
+    ],
+    "exclude": {
+      "e-journalism": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3453",
+    "meaning": "长绳的固定、拉拢功能与旧复合词",
+    "core": "ROPE：拧成长条，能捆、能拉、能围住",
+    "image": "rope → tightrope；stirrup 保存旧 rāp 绳词。",
+    "intro": "从绳子动作理解 rope in 拉人加入、rope off 围起。stirrup 看起来已没有完整 rope，却保留古代绳环名称的后项。",
+    "forms": "rāp → rope；tight + rope → tightrope；stiġe + rāp → stiġrāp → stirrup。\n\nrope 承古英语 rāp 等日耳曼绳索名。现代保留 e 加 -s，/p/ 后读 /s/；know the ropes 从航海用语发展成懂门道，由具体绳索扩展到做事门道。",
+    "branches": [
+      [
+        "绳索及用途复合",
+        "rope · tightrope"
+      ],
+      [
+        "旧绳环词的演变",
+        "stirrup"
+      ],
+      [
+        "rope → ropes：绳索与门道",
+        "ropes"
+      ]
+    ],
+    "contrasts": "learn the ropes 是学门道；stirrup 不能按现代 stir + up 拆。",
+    "practice": "The rider checked the rope and adjusted a stirrup.\n\n骑手检查了绳索，并调整了一只马镫。",
+    "words": [
+      "rope",
+      "tightrope",
+      "stirrup",
+      "ropes"
+    ],
+    "exclude": {
+      "catch-rope": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "roper": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3034",
+    "meaning": "袋状鼓起的腹部，扩展到机腹与隐藏弱面",
+    "core": "BELLY：看见能鼓起的肚子，再看物体下腹",
+    "image": "belly → bellybutton、potbelly、underbelly。",
+    "intro": "身体形状容易迁移：肚脐用 button 按钮形象，凸肚像 pot，underbelly 再把视线移到腹下、隐藏处。",
+    "forms": "古英语袋、鼓起物词族 → belly；button、pot、under- 各自限定形状、位置。\n\n风箱名 bellows 经中古英语复数 belwes 接古英语袋、气囊材料，belly 的腹部义走同一词族另一发展；近源不同于吼叫动词 bellow 的三单。",
+    "branches": [
+      [
+        "腹部及形状复合",
+        "belly · bellybutton · potbelly"
+      ],
+      [
+        "腹下与隐藏面",
+        "underbelly"
+      ],
+      [
+        "belly 与 bellows：袋、气囊材料的不同发展",
+        "belly · bellows"
+      ]
+    ],
+    "contrasts": "belly 日常说腹部，stomach 还可专指胃；underbelly 的社会比喻不是地理方位。",
+    "practice": "The animal rolled over and exposed its pale underbelly.\n\n动物翻了个身，露出了颜色较浅的腹下部。",
+    "words": [
+      "belly",
+      "bellybutton",
+      "potbelly",
+      "underbelly",
+      "bellows"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3654",
+    "meaning": "陡壁、侧面位置与悬念未解的比喻",
+    "core": "CLIFF：脚下突然落空，故事也能停在最悬的一刻",
+    "image": "cliff → cliffside、cliffhanger。",
+    "intro": "位置复合看 side，叙事比喻看 hanger。把实体陡崖画面记牢，就能看懂数值骤降与结局悬着两种不同延伸。",
+    "forms": "古英语 clif → cliff；side 侧面；hanger 联系 hang 悬挂，以崖边命运未定构成比喻。\n\ncliff 承古英语 clif 等日耳曼陡崖名，远源不定；clift 变体或受 cleft 影响，不写成两词已确定同源。现代 ff 后加 -s，/fs/，不是 ves。",
+    "branches": [
+      [
+        "悬崖与侧面位置",
+        "cliff · cliffside"
+      ],
+      [
+        "未揭晓的悬念",
+        "cliffhanger"
+      ],
+      [
+        "cliff → cliffs：陡峭岩壁",
+        "cliffs"
+      ]
+    ],
+    "contrasts": "cliffhanger 不要求真实悬崖；cliff 不等于整座山。",
+    "practice": "The cliffside rescue scene ended on a cliffhanger.\n\n崖边救援那一幕在悬念未解时结束。",
+    "words": [
+      "cliff",
+      "cliffside",
+      "cliffhanger",
+      "cliffs"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4352",
+    "meaning": "有意安排与非有意，哲学意向性另看专门定义",
+    "core": "INTENTIONAL：行动是否出于意图；intentionality 还可说心灵指向",
+    "image": "intentional → intentionally、intentionality；unintentional 是否定。",
+    "intro": "日常关心故意还是无意，哲学则还用 intentionality 讨论念头关于什么。两者相关，但不能只用故意二字概括。",
+    "forms": "intention + -al 的现代对应，另接中世纪拉丁词史；-ly 方式，-ity 性质，un- 否定。",
+    "branches": [
+      [
+        "有意及其方式、性质",
+        "intentional · intentionally · intentionality"
+      ],
+      [
+        "无意状态",
+        "unintentional"
+      ]
+    ],
+    "contrasts": "哲学意向性不都等于行动目的；intentional 与 unintentional 要看是否出于意图。",
+    "practice": "The change was intentional, and she explained why she had made it intentionally.\n\n这个改动是有意的，她也解释了为何特意这样改。",
+    "words": [
+      "intentional",
+      "intentionally",
+      "intentionality",
+      "unintentional"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3582",
+    "meaning": "能放在一起比较，再说相当与无与伦比",
+    "core": "COMPARABLE：放到同一把尺上看，条件或程度相近",
+    "image": "comparable → comparably；incomparable 另带否定、赞叹用法。",
+    "intro": "先确保比较有意义，再看类似程度。incomparable 可说无法相比，也常夸无与伦比，不能每次按条件不匹配翻译。",
+    "forms": "法语、拉丁 comparabilis → comparable；-ly 使 -able 变 -ably；in- 否定。",
+    "branches": [
+      [
+        "可比性质与方式",
+        "comparable · comparably"
+      ],
+      [
+        "否定及赞叹",
+        "incomparable"
+      ]
+    ],
+    "contrasts": "comparably 相当地与 comparatively 相对而言分清。",
+    "practice": "Comparable products should be comparably priced.\n\n相当的产品，定价也应当相近。",
+    "words": [
+      "comparable",
+      "comparably",
+      "incomparable"
+    ],
+    "exclude": {}
+  }
+]

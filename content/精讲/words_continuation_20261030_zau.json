@@ -1,0 +1,546 @@
+[
+  {
+    "word": "possibilities",
+    "ipa": "英 /ˌpɒsəˈbɪlɪtiz/；美 /ˌpɑːsəˈbɪlətiz/",
+    "meaning": "可能性、可能的选择；潜力〔复数〕",
+    "sense": "前面不只一条路，每一条能发生、能试的方向都可以是 a possibility；摆出几种，就是 possibilities。",
+    "split": "possibility 改 y 为 i 加 -es。possibility 经法语及直接拉丁借入，接 possibilitas；现代可与 possible、ity 对照，名词有自己的借入史。",
+    "history": [
+      [
+        "法语、拉丁 possibilitas → possibility",
+        "能够发生、成立的性质 → 一种可能、选择"
+      ],
+      [
+        "possibility → possibilities",
+        "多条可能的路、多个可行选择；潜在能力"
+      ]
+    ],
+    "explanation": "explore possibilities 探索可能性；several possibilities 几种可能；new possibilities 新的可能方向。",
+    "usage": "consider the possibilities 考虑各种选择；full of possibilities 充满潜力。",
+    "contrast": "possibilities 不等于都必然会发生，只是存在机会、可行方向。probabilities 更聚焦可能发生的程度，不能只凭中文可能就互换。",
+    "examples": [
+      [
+        "We discussed several possibilities for the new room.",
+        "我们讨论了新房间的几种安排可能。"
+      ],
+      [
+        "The new tools opened up exciting possibilities.",
+        "新工具带来了令人期待的新可能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/possibilities#English",
+      "https://en.wiktionary.org/wiki/possibility#English"
+    ]
+  },
+  {
+    "word": "purchases",
+    "ipa": "英 /ˈpɜːtʃəsɪz/；美 /ˈpɜːrtʃəsɪz/",
+    "meaning": "购买、购买的物品〔复数〕；购买〔第三人称单数〕",
+    "sense": "把想要的东西设法取得，现代最常见的方式是付钱买，所以 purchases 能数买到的东西，也能说某人购买。",
+    "split": "purchase + -s，词干 /s/ 后读 /ɪz/。purchase 接法语旧追求、取得词，pur- 向前、加强等与 chacier 追逐的材料，后来专化出购买义。",
+    "history": [
+      [
+        "法语追求、取得词 → purchase",
+        "设法取得 → 通过付款买到"
+      ],
+      [
+        "purchase + -s → purchases",
+        "多次购买、买来的物品；某人购买"
+      ]
+    ],
+    "explanation": "recent purchases 最近买的东西；make purchases 购物；purchases supplies 购买用品。",
+    "usage": "online purchases 网购商品、行为；keep receipts for purchases 保留购物收据。",
+    "contrast": "purchases 通常比 buys 更正式；名词 purchases 可说购买行为，也可说买到的东西。抓牢、施力的 purchase 另有固定技术用法，日常购物不按它解释。",
+    "examples": [
+      [
+        "She carried her purchases home in a small bag.",
+        "她用小袋子把买的东西带回家。"
+      ],
+      [
+        "The library purchases new books each month.",
+        "图书馆每月购入新书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purchases#English",
+      "https://en.wiktionary.org/wiki/purchase#English"
+    ]
+  },
+  {
+    "word": "reflects",
+    "ipa": "/rɪˈflekts/",
+    "meaning": "反射、映出；反映、体现；思考〔第三人称单数〕",
+    "sense": "光碰到表面折回来，是 reflects 的实体动作；一个作品把某种观念呈现回来，是反映；人把注意回到事情上，也会说反思。",
+    "split": "reflect + -s，/t/ 后读 /s/。reflect 接拉丁 re- 向后与 flectere 弯、转向的词，英语整词借入。",
+    "history": [
+      [
+        "拉丁 reflectere 等 → reflect",
+        "向后弯、转 → 光折回；思想回看等扩展"
+      ],
+      [
+        "reflect + -s → reflects",
+        "某物反射、体现；某人思考"
+      ]
+    ],
+    "explanation": "reflects light 反射光；reflects a change 反映变化；reflects on experience 反思经历。",
+    "usage": "reflects local traditions 体现本地传统；a mirror reflects 映照的镜子。",
+    "contrast": "reflects something 常是映出、体现；reflects on something 常是思考、反省。不是所有反射、反映句子都在讲人的内心活动。",
+    "examples": [
+      [
+        "The lake reflects the surrounding hills.",
+        "湖面映出周围山丘。"
+      ],
+      [
+        "The design reflects local traditions.",
+        "设计体现了本地传统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reflects#English",
+      "https://en.wiktionary.org/wiki/reflect#English"
+    ]
+  },
+  {
+    "word": "wasting",
+    "ipa": "/ˈweɪstɪŋ/",
+    "meaning": "浪费、白费；使荒废、逐渐消耗〔现在分词、动名词〕",
+    "sense": "时间、精力或材料一点点用掉，却没有得到本来能得到的作用，就是 wasting。",
+    "split": "waste 去 e 加 -ing。waste 经法语相关形式到英语，荒废、毁坏背景涉及拉丁及日耳曼等多支历史，现代常说资源被无效耗用。",
+    "history": [
+      [
+        "法语荒废相关词及拉丁、日耳曼背景 → waste",
+        "毁坏、荒废 → 无效耗去资源"
+      ],
+      [
+        "waste 去 e 加 -ing → wasting",
+        "正在浪费；也可谈浪费这一行为"
+      ]
+    ],
+    "explanation": "wasting time 浪费时间；wasting materials 浪费材料；wasting effort 白费力气。",
+    "usage": "without wasting anything 不浪费任何东西地；wasting an opportunity 浪费机会。",
+    "contrast": "wasting 一般带不值得、没起应有作用的评价；using、spending 只是使用、花费。wasting away 又常说逐渐消瘦、衰弱，是另一固定用法。",
+    "examples": [
+      [
+        "We are wasting time on details that do not matter.",
+        "我们正在不重要的细节上浪费时间。"
+      ],
+      [
+        "The new method avoids wasting material.",
+        "新方法避免浪费材料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wasting#English",
+      "https://en.wiktionary.org/wiki/waste#English"
+    ]
+  },
+  {
+    "word": "advantages",
+    "ipa": "英 /ədˈvɑːntɪdʒɪz/；美 /ədˈvæntɪdʒɪz/",
+    "meaning": "优势、好处、有利条件〔复数〕",
+    "sense": "某个条件让自己更容易往前走、做得更好，就是 advantages。可以是比赛优势，也可以只是某种安排比较方便的好处。",
+    "split": "advantage + -s，/dʒ/ 后读 /ɪz/。advantage 借法语 avantage，接 avant 在前；英语 d 后来受拉丁化拼写理解影响加入，不能只按 ad 与 vantage 解释借入史。",
+    "history": [
+      [
+        "法语 avant、avantage → 英语 advantage",
+        "在前、领先的材料 → 有利条件、好处"
+      ],
+      [
+        "advantage + -s → advantages",
+        "多个好处、优势"
+      ]
+    ],
+    "explanation": "advantages of the plan 计划的好处；advantages over another method 相对另一方法的优势；advantages and disadvantages 优缺点。",
+    "usage": "practical advantages 实际好处；take advantage of opportunities 利用机会。",
+    "contrast": "advantages 可以相对某个对手，也可以一般谈方便之处。take advantage of someone 则常说利用、占某人的便宜，与利用机会的语气不同。",
+    "examples": [
+      [
+        "The new design has several practical advantages.",
+        "新设计有几个实际好处。"
+      ],
+      [
+        "We compared the advantages and disadvantages of both options.",
+        "我们比较了两个选项的优缺点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advantages#English",
+      "https://en.wiktionary.org/wiki/advantage#English"
+    ]
+  },
+  {
+    "word": "archives",
+    "ipa": "英 /ˈɑːkaɪvz/；美 /ˈɑːrkaɪvz/",
+    "meaning": "档案、档案收藏；档案馆〔复数及集合用法〕；归档〔第三人称单数〕",
+    "sense": "把有价值的记录留住，按一定方式存起来，供以后查找，就是 archives 的核心。它既可以是那些档案，也可以是保存它们的机构。",
+    "split": "archive + -s，/v/ 后读 /z/。archive 接法语等档案词，上接拉丁 archivum、希腊 arkheion 公共政务建筑及其文书材料；英语名词常见复数，后有归档动词。",
+    "history": [
+      [
+        "希腊 arkheion → 拉丁、法语等 → archive",
+        "政务场所、文书 → 保存的档案"
+      ],
+      [
+        "archive + -s → archives",
+        "档案收藏、档案机构；某系统、人员归档"
+      ]
+    ],
+    "explanation": "historical archives 历史档案；search the archives 查档案；archives old messages 把旧消息归档。",
+    "usage": "digital archives 数字档案；the city archives 城市档案馆、档案收藏。",
+    "contrast": "archives 不一定是纸质，也可为数字记录。archived 是已经归档的形式，archives 可是集合名词或动词三单，需看位置。",
+    "examples": [
+      [
+        "The letters are preserved in the city archives.",
+        "信件保存在城市档案中。"
+      ],
+      [
+        "The system archives old messages automatically.",
+        "系统自动归档旧消息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/archives#English",
+      "https://en.wiktionary.org/wiki/archive#English"
+    ]
+  },
+  {
+    "word": "assisted",
+    "ipa": "/əˈsɪstɪd/",
+    "meaning": "帮助、协助了〔过去式、过去分词〕",
+    "sense": "站到别人旁边，给他完成事情所需的支持，是 assisted 的历史画面与现代帮助义。",
+    "split": "assist + -ed，/t/ 后读 /ɪd/。拉丁 ad- 与 sistere 站立、使站住所成 assistere，d 在 s 前同化，经古法语到英语。",
+    "history": [
+      [
+        "拉丁 assistere → 古法语 → assist",
+        "站到旁边、在场 → 提供帮助"
+      ],
+      [
+        "assist + -ed → assisted",
+        "帮助已经发生；可用于被动协助结构"
+      ]
+    ],
+    "explanation": "assisted with the move 协助搬迁；assisted someone in doing 帮某人做事；assisted by volunteers 由志愿者协助。",
+    "usage": "computer assisted 借助计算机的；assisted the team 帮助团队。",
+    "contrast": "assisted 常比 helped 更正式。assist with a task、assist someone in doing 都常见，提供的是支持，不一定包办整项工作。",
+    "examples": [
+      [
+        "Several neighbours assisted with the move.",
+        "几位邻居帮忙搬了家。"
+      ],
+      [
+        "The teacher was assisted by two volunteers.",
+        "老师得到两位志愿者的协助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assisted#English",
+      "https://en.wiktionary.org/wiki/assist#English"
+    ]
+  },
+  {
+    "word": "bridges",
+    "ipa": "/ˈbrɪdʒɪz/",
+    "meaning": "桥；连接物、鼻梁、琴码等〔复数〕；连接、跨越差距〔第三人称单数〕",
+    "sense": "两边隔着一段空缺，架起东西让它们连上，就是 bridges 的中心形象。关系、学科、理解的距离也可以被桥接。",
+    "split": "bridge + -s，/dʒ/ 后读 /ɪz/。桥梁名词接古英语 brycg，架桥动词也有旧形式；其他连接部位按形状、位置扩展。纸牌游戏 bridge 另有 biritch 等借入史。",
+    "history": [
+      [
+        "古英语桥梁与架桥形式 → bridge",
+        "跨过间隔 → 其他连接部位、抽象联系"
+      ],
+      [
+        "bridge + -s → bridges",
+        "多座桥、多个连接部位；某事连接两边"
+      ]
+    ],
+    "explanation": "stone bridges 石桥；bridges the gap 跨越差距；bridges between communities 社群之间的联系。",
+    "usage": "old bridges 老桥；build bridges 建立沟通、联系，也可真指建桥。",
+    "contrast": "bridges 在人际语境常是联系的比喻；纸牌桥牌的名称另源，不是因为用牌搭了一座桥才得名。具体部位义看身体、乐器等场景。",
+    "examples": [
+      [
+        "Several old bridges cross the river.",
+        "几座老桥横跨河流。"
+      ],
+      [
+        "The project bridges the gap between research and practice.",
+        "项目连接起研究与实践。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bridges#English",
+      "https://en.wiktionary.org/wiki/bridge#English"
+    ]
+  },
+  {
+    "word": "centres",
+    "ipa": "英 /ˈsentəz/；美 /ˈsentərz/",
+    "meaning": "中心、中央区域；服务机构〔复数，英式等拼写〕；以……为中心〔第三人称单数〕",
+    "sense": "活动、空间或注意力围着一个位置展开，这个位置就是 centre；提供一组服务、聚集活动的地方，也会叫中心。",
+    "split": "centre + -s，末尾读 /z/。centre 经法语、拉丁 centrum 接希腊 kentron 尖点；英式等地区用 centre，对应美式 center。",
+    "history": [
+      [
+        "希腊 kentron → 拉丁 centrum → 法语、英语 centre",
+        "尖点、标定中心的材料 → 中心"
+      ],
+      [
+        "centre + -s → centres",
+        "多个中心、机构；某事以某点为中心展开"
+      ]
+    ],
+    "explanation": "community centres 社区中心；city centres 市中心；centres on a question 围绕一个问题。",
+    "usage": "learning centres 学习中心；shopping centres 购物中心。",
+    "contrast": "centres 与 centers 是拼写对应，不是两种中心。动词 centres on 的中心可以是话题，不一定是几何位置。",
+    "examples": [
+      [
+        "The town has two community centres.",
+        "镇上有两个社区中心。"
+      ],
+      [
+        "The discussion centres on access to public spaces.",
+        "讨论围绕公共空间的使用展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/centres#English",
+      "https://en.wiktionary.org/wiki/centre#English"
+    ]
+  },
+  {
+    "word": "chapters",
+    "ipa": "英 /ˈtʃæptəz/；美 /ˈtʃæptərz/",
+    "meaning": "章、章节；人生阶段；组织分会等〔复数〕",
+    "sense": "把一部作品分成较大的几段，每段有自己的内容，就是 chapters。人生经历、组织结构也会借用这套分段、分支的称呼。",
+    "split": "chapter + -s，末尾读 /z/。chapter 经法语 chapitre 接拉丁 capitulum 小头、纲目；教会集会、组织分会义又有相应历史用法。",
+    "history": [
+      [
+        "拉丁 capitulum → 法语 chapitre → chapter",
+        "小头、纲目 → 文本章节"
+      ],
+      [
+        "chapter + -s；阶段、组织分支的扩展",
+        "多章内容；多个阶段、分会"
+      ]
+    ],
+    "explanation": "the first chapters 前几章；chapters of a book 书的章节；local chapters 组织地方分会。",
+    "usage": "a new chapter in life 人生新篇章；short chapters 短章。",
+    "contrast": "chapters 通常比 paragraphs 段落大；组织的 chapters 是地方分支，不能都译成书页。人生篇章则是阶段的比喻。",
+    "examples": [
+      [
+        "The book has twelve chapters.",
+        "这本书有十二章。"
+      ],
+      [
+        "She read the final two chapters on the train.",
+        "她在火车上读了最后两章。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chapters#English",
+      "https://en.wiktionary.org/wiki/chapter#English"
+    ]
+  },
+  {
+    "word": "civilians",
+    "ipa": "/səˈvɪliənz/",
+    "meaning": "平民；非军事人员、文职人员〔复数〕",
+    "sense": "在军人、武装人员以外，按普通社会生活身份来看的人，是 civilians 的现代常用意思。",
+    "split": "civilian + -s，/n/ 后读 /z/。civilian 借古法语 civilien，接 civil、拉丁 civilis；历史上先有民法专家的称呼，后来扩为普通非军事人员。",
+    "history": [
+      [
+        "拉丁 civilis、古法语 civilien → civilian",
+        "公民、民法相关人物 → 后起非军事人员称呼"
+      ],
+      [
+        "civilian + -s → civilians",
+        "多位平民、非军事人员"
+      ]
+    ],
+    "explanation": "civilians and soldiers 平民与士兵；civilian staff 文职人员，前置形容词单数。",
+    "usage": "protect civilians 保护平民；civilians in the story 故事中的平民。",
+    "contrast": "civilians 不是普通 citizens 公民在所有场景里的同义词；这里常以是否处于军事身份作对照。civil 作形容词还可指民事、文明礼貌等，需分支理解。",
+    "examples": [
+      [
+        "The exhibition describes how civilians lived during the conflict.",
+        "展览描述了冲突期间平民怎样生活。"
+      ],
+      [
+        "The event was open to both soldiers and civilians.",
+        "活动同时向军人和平民开放。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/civilians#English",
+      "https://en.wiktionary.org/wiki/civilian#English"
+    ]
+  },
+  {
+    "word": "conflicts",
+    "ipa": "名词英 /ˈkɒnflɪkts/、美 /ˈkɑːnflɪkts/；动词 /kənˈflɪkts/",
+    "meaning": "冲突、矛盾；冲突事件〔复数〕；相冲突、不相容〔第三人称单数〕",
+    "sense": "两股动作、需求或想法撞到一起，不能顺畅地同走一条路，就是 conflicts 的冲突感。",
+    "split": "conflict + -s，/t/ 后读 /s/。拉丁 con- 相互与 fligere 撞击到 confligere、conflictus，相关形式进入英语，flict、flig 是历史词干变化。",
+    "history": [
+      [
+        "拉丁 confligere、conflictus → conflict",
+        "相互撞击 → 冲突、矛盾"
+      ],
+      [
+        "conflict + -s → conflicts",
+        "多个冲突；或某项安排、说法与另一项不相容，名动重音分开"
+      ]
+    ],
+    "explanation": "conflicts between groups 团体冲突；scheduling conflicts 日程冲突；conflicts with another plan 与另一计划冲突。",
+    "usage": "conflicts of interest 利益冲突；resolve conflicts 解决冲突。",
+    "contrast": "conflicts 可以是需求不相容，不一定是武装战争。名词前重音，动词通常后重音；动词 conflicts with 常写明冲突的另一方。",
+    "examples": [
+      [
+        "The new timetable avoids several scheduling conflicts.",
+        "新时间表避免了几处日程冲突。"
+      ],
+      [
+        "The meeting conflicts with another appointment.",
+        "会议与另一场预约会面时间冲突。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conflicts#English",
+      "https://en.wiktionary.org/wiki/conflict#English"
+    ]
+  },
+  {
+    "word": "donations",
+    "ipa": "英 /dəʊˈneɪʃənz/；美 /doʊˈneɪʃənz/",
+    "meaning": "捐赠、捐款、捐赠物〔复数〕",
+    "sense": "把自己的资源给出来，用于某项事业、机构或需要，是 donations。给的可以是钱，也可以是书、衣物等东西。",
+    "split": "donation + -s，/n/ 后读 /z/。donation 接拉丁 donatio 经法语或直接借入，来自 donare 给、赠；英语名词记录早于 donate 动词。",
+    "history": [
+      [
+        "拉丁 donare、donatio → 法语或直接 → donation",
+        "赠给 → 捐赠的行为、给出的资源"
+      ],
+      [
+        "donation + -s → donations",
+        "多笔捐款、多件捐赠物或多次捐赠"
+      ]
+    ],
+    "explanation": "donations of books 捐赠图书；receive donations 收到捐赠；small donations 小额捐款。",
+    "usage": "public donations 公众捐赠；donations to a museum 对博物馆的捐赠。",
+    "contrast": "donations 不一定是钱；donors 是捐赠的人，donations 是给出的资源或行为。donation 与 donate 的现代对应不等于名词一定后造。",
+    "examples": [
+      [
+        "The library welcomed donations of children’s books.",
+        "图书馆欢迎捐赠儿童图书。"
+      ],
+      [
+        "Small donations helped keep the project running.",
+        "小额捐款帮助项目继续运作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/donations#English",
+      "https://en.wiktionary.org/wiki/donation#English"
+    ]
+  },
+  {
+    "word": "expresses",
+    "ipa": "/ɪkˈspresɪz/",
+    "meaning": "表达、表露；挤出〔第三人称单数〕",
+    "sense": "把里面的东西推、挤到外面，便有 expresses 的词源方向。思想、感情被说出、写出、演出来，就是表达。",
+    "split": "express + -s，词干 /s/ 后读 /ɪz/。express 动词经法语等接拉丁 exprimere，ex- 向外与 premere 压结合。",
+    "history": [
+      [
+        "拉丁 exprimere → 法语等 → express",
+        "向外压、挤 → 把意思、情感呈现出来"
+      ],
+      [
+        "express + -s → expresses",
+        "某人、作品表达；或某物被挤出"
+      ]
+    ],
+    "explanation": "expresses an opinion 表达意见；expresses gratitude 表达感谢；expresses the idea clearly 清楚表达想法。",
+    "usage": "expresses concern 表达关切；expresses emotion 表达情感。",
+    "contrast": "expresses 在这里是动词；express train 特快列车中的 express 是另一个词性分支。express oneself 还可说把自己的想法表达出来。",
+    "examples": [
+      [
+        "The poem expresses a feeling of hope.",
+        "诗中表达了一种希望。"
+      ],
+      [
+        "She expresses her ideas through drawing.",
+        "她通过绘画表达想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/expresses#English",
+      "https://en.wiktionary.org/wiki/express#English"
+    ]
+  },
+  {
+    "word": "exchanges",
+    "ipa": "/ɪksˈtʃeɪndʒɪz/，也读 /eksˈtʃeɪndʒɪz/",
+    "meaning": "交换、交流；交易场所、交流项目等〔复数〕；交换〔第三人称单数〕",
+    "sense": "一边给过去，另一边也拿出对应的东西，是 exchanges。可以换物品、交换意见，也可以安排双方人员互访。",
+    "split": "exchange + -s，/dʒ/ 后读 /ɪz/。名词、动词经法语 eschange、eschanger 等分别进入英语，后来调整 ex- 拼写，不能只当英语 ex 加 change 解释全部历史。",
+    "history": [
+      [
+        "法语 eschange、eschanger → 英语 exchange",
+        "互换、调换的名词与动词路线"
+      ],
+      [
+        "exchange + -s → exchanges",
+        "多次交换、交流项目；某人交换"
+      ]
+    ],
+    "explanation": "student exchanges 学生交流；exchanges of ideas 思想交流；exchanges one item for another 以一物换另一物。",
+    "usage": "brief exchanges 简短交谈；exchanges greetings 互致问候。",
+    "contrast": "exchanges 强调双方互给、互换；changes 可以只是单方变化。exchange A for B 中 A 是拿出去的、B 是换回来的。",
+    "examples": [
+      [
+        "The schools organise student exchanges each summer.",
+        "学校每年夏季组织学生交流。"
+      ],
+      [
+        "She exchanges books with a neighbour.",
+        "她与邻居交换书看。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exchanges#English",
+      "https://en.wiktionary.org/wiki/exchange#English"
+    ]
+  },
+  {
+    "word": "corresponds",
+    "ipa": "英 /ˌkɒrəˈspɒndz/；美 /ˌkɔːrəˈspɑːndz/",
+    "meaning": "对应、相符；通信〔第三人称单数〕",
+    "sense": "两边的东西能对上、相互有回应，就是 corresponds。编号对应物品，说明符合事实，人也可以来回通信。",
+    "split": "correspond + -s，/d/ 后读 /z/。correspond 经法语、中世纪拉丁 correspondere，com- 相互与 respondere 回应结合，m 在 r 前同化。",
+    "history": [
+      [
+        "法语、拉丁 correspondere → correspond",
+        "相互回应 → 对应、相符、通信"
+      ],
+      [
+        "correspond + -s → corresponds",
+        "某项能对应、相符；某人与人通信"
+      ]
+    ],
+    "explanation": "corresponds to a number 对应一个号码；corresponds with the description 与描述相符；corresponds with a friend 与朋友通信。",
+    "usage": "corresponds closely 高度相符；corresponds to the original 与原件相应。",
+    "contrast": "corresponds to 常说对应关系；corresponds with 可说相符，也可说通信，不能只靠 with 断定一定在写信。",
+    "examples": [
+      [
+        "Each symbol corresponds to a different sound.",
+        "每个符号对应不同的声音。"
+      ],
+      [
+        "The colour corresponds closely with the original.",
+        "颜色与原件十分接近。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/corresponds#English",
+      "https://en.wiktionary.org/wiki/correspond#English"
+    ]
+  }
+]

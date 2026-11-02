@@ -1,0 +1,146 @@
+[
+  {
+    "id": "B3717",
+    "meaning": "把某事放进目光、考虑与关心的范围",
+    "core": "REGARD：看向它、怎样看它、是否把它放在心上",
+    "image": "regard → regarding；regardless、disregard 接不顾及这一支，区别句法与语气。",
+    "intro": "注视、看待、顾及、敬重可以从注意放在哪里串起；in this regard 是在这一方面，不用把每个义项都硬翻成再次守护。",
+    "forms": "法语 regarder、regard 分别接入英语动词、名词；regard + -ing/-less；dis- + regard。\n\n法语 regarder、regard 等借入，re- 在旧词中可加强；ed 在 d 后读 id。\n\n法语看守、留意词族借入，问候用复数固定表达；in regard to 与 as regards 分开。",
+    "branches": [
+      [
+        "注意、看待与引话题",
+        "regard · regarding"
+      ],
+      [
+        "不顾及、不受影响",
+        "regardless · disregard"
+      ],
+      [
+        "regard → regarded：留意、看作与评价",
+        "regard · regarded"
+      ],
+      [
+        "regard → regards：看待、敬意与问候",
+        "regard · regards · regarded"
+      ]
+    ],
+    "contrasts": "regarding 后无 to，with regard to 有 to；regardless of 后接对象；disregard/overlook 故意不顾与漏看可不同。",
+    "practice": "Regarding the schedule, please disregard my earlier message.\n\n关于日程，请忽略我之前那条消息。",
+    "words": [
+      "regard",
+      "regarding",
+      "regardless",
+      "disregard",
+      "regarded",
+      "regards"
+    ],
+    "exclude": {
+      "self-regard": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4148",
+    "meaning": "雇用双方与可就业条件",
+    "core": "EMPLOY：把人的工作能力用到岗位上",
+    "image": "employ → employer、employee；employable 再看能否被聘用。",
+    "intro": "employer 提供岗位、雇人，employee 被雇。employable 是能力、条件，并不等于已经在职。",
+    "forms": "法语 employer → employ；employ + -er/-ee/-able，人物和被动可能性分开。\n\nemployee 借法语 employé 的分词人物用法，现代也可用 -ee 记接受动作的人；employees 是英语复数。\n\nemploy 加人物 er；与接受雇用一方的 employee 分开。",
+    "branches": [
+      [
+        "雇用动作与双方",
+        "employ · employer · employee"
+      ],
+      [
+        "就业条件",
+        "employable"
+      ],
+      [
+        "employ／employee → employees：受雇人员",
+        "employ · employee · employees"
+      ],
+      [
+        "employer → employers：雇人工作的一方",
+        "employ · employer · employers · employee"
+      ]
+    ],
+    "contrasts": "employer 雇主、employee 雇员；employable 不保证 employed；-able 不等于过去分词。",
+    "practice": "The employer values skills that make people more employable.\n\n这位雇主看重能提高就业能力的技能。",
+    "words": [
+      "employ",
+      "employer",
+      "employee",
+      "employable",
+      "employees",
+      "employers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3017",
+    "meaning": "行为、相关性质与行为主义理论",
+    "core": "BEHAVIOR：做出来的表现；-ism 再命名一种研究取向",
+    "image": "behavior → behavioral、misbehavior；behaviorism、behaviorist 放在一起分理论、人物。",
+    "intro": "日常表现好坏与心理学行为主义是不同层面。不是看到 behavioral 就自动判为行为主义。",
+    "forms": "behave → behavior；behavior + -al/-ism/-ist；mis- + behavior；英式 behaviour 保留 u。\n\n泛指行为常不可数，数行为类型、模式时可用复数。",
+    "branches": [
+      [
+        "行为与评价",
+        "behavior · behavioral · misbehavior"
+      ],
+      [
+        "理论与人物",
+        "behaviorism · behaviorist"
+      ],
+      [
+        "behavior → behaviors：具体行为模式",
+        "behavior · behaviors"
+      ]
+    ],
+    "contrasts": "behavioral 涉及行为较广，behaviorist 指向理论取向；behaviorism 不等于行为乖巧。",
+    "practice": "The behaviorist studied how behavior changed during learning.\n\n这位行为主义者研究行为在学习过程中怎样变化。",
+    "words": [
+      "behavior",
+      "behavioral",
+      "misbehavior",
+      "behaviorism",
+      "behaviorist",
+      "behaviors"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3370",
+    "meaning": "暴力与猛烈力量、非暴力",
+    "core": "VIOLENCE：力量强烈到造成伤害、压制或巨大冲击",
+    "image": "violence 与 nonviolence 对看；前者是暴力、猛烈，后者是否定暴力的方式、立场。",
+    "intro": "不是所有强烈感情都自然叫 violence；风暴义与人际侵害义靠搭配区分。",
+    "forms": "拉丁 violentia → 法语 violence → 英语 violence；non- + violence → nonviolence。\n\nviolence 的 violentia、violentus 与 violate 的 violare 通常认为有关，更远形态联系仍带推测。补入既有 violate 作词族学习基点，现代去 e 加完整 -ing。",
+    "branches": [
+      [
+        "力量与侵害",
+        "violence"
+      ],
+      [
+        "否定暴力的方式",
+        "nonviolence"
+      ],
+      [
+        "violare 侵犯、强行对待 → violate、violating",
+        "violate · violating"
+      ]
+    ],
+    "contrasts": "violence 名词、violent 形容词；nonviolence 并不等于不采取任何行动。",
+    "practice": "The book compares violence and nonviolence as responses to conflict.\n\n这本书比较了面对冲突时的暴力与非暴力方式。",
+    "words": [
+      "violence",
+      "nonviolence",
+      "violate",
+      "violating"
+    ],
+    "exclude": {
+      "self-violence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "violence-ridden": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ultraviolence": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

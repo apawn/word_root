@@ -1,0 +1,577 @@
+[
+  {
+    "word": "be",
+    "ipa": "/biː/〔非重读时可弱化〕",
+    "meaning": "是；存在、处于；构成进行、被动等结构",
+    "sense": "把人和身份、状态连起来：be a teacher 是做老师，be ready 是处在准备好的状态。be 也帮其他动词形成进行、被动表达。",
+    "split": "be、am、is、are、was、were 来自多条古英语范式合流；b- 形式接 beon，w- 形式接 wesan 的历史，不能从 be 机械加几个字母推全部变化。",
+    "history": [
+      [
+        "古英语 beon、wesan 等范式合流",
+        "存在、成为与处在某状态的动词材料"
+      ],
+      [
+        "现代 be、am、is、are、was、were、been",
+        "不同词形来自多条旧来源，不是统一加尾造出"
+      ]
+    ],
+    "explanation": "be ready 准备好；be here 在这里；be working 与 working 构成进行结构；be repaired 与分词构成被动结构。",
+    "usage": "be ready；be here；be able to；be working。",
+    "contrast": "be 的过去式是 was／were，过去分词是 been；has been 不是直接把 be 当普通过去式。",
+    "examples": [
+      [
+        "Please be quiet while the music is playing.",
+        "音乐播放时请保持安静。"
+      ],
+      [
+        "She wants to be a teacher.",
+        "她想当老师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/be#English"
+    ]
+  },
+  {
+    "word": "been",
+    "ipa": "常读 /bɪn/；亦读 /biːn/",
+    "meaning": "be 的过去分词；曾处于、一直处于等〔依完整结构〕",
+    "sense": "have been 后面看地点、状态或别的动词，才能知道曾去过、一直怎样，还是一直在做。been 本身不单独决定整句时态。",
+    "split": "接中古英语 been 等过去分词形式，与 be 的旧范式相关；可识别 be 与旧 -en 分词材料，但不当成现代 be 随意重复一个 e 加 n。",
+    "history": [
+      [
+        "古英语 beon、wesan 等范式合流",
+        "存在、成为与处在某状态的动词材料"
+      ],
+      [
+        "现代 be、am、is、are、was、were、been",
+        "不同词形来自多条旧来源，不是统一加尾造出"
+      ],
+      [
+        "中古英语 been 等分词 → been",
+        "在 have、has、had 等后形成相应结构"
+      ]
+    ],
+    "explanation": "have been here 曾在、一直在这里；has been working 一直在工作；have been to 去过某处；have been repaired 已被修好。",
+    "usage": "have been to；have been working；has been ready。",
+    "contrast": "have been to 常表示去过并已离开那个目的地；have gone to 常说去了还未回来。具体持续、完成由整个结构决定。",
+    "examples": [
+      [
+        "I have been to that museum twice.",
+        "我去过那家博物馆两次。"
+      ],
+      [
+        "She has been working on the book for a year.",
+        "她写这本书已经一年了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/been#English"
+    ]
+  },
+  {
+    "word": "fright",
+    "ipa": "/fraɪt/",
+    "meaning": "惊吓；一阵害怕",
+    "sense": "突然一响，人心里一紧，这一阵受惊可以说 a fright。比一直担心未来的 anxiety 更容易指突来的害怕。",
+    "split": "接古英语 fryhtu、fyrhto 等，经中古英语到 fright；gh 在现代不发音。不是 frighten 去掉 en 后才新造的词。",
+    "history": [
+      [
+        "古英语 fryhtu、fyrhto 等 → fright",
+        "惊惧、害怕的日耳曼语名词"
+      ],
+      [
+        "fright + -en → frighten",
+        "使产生惊惧"
+      ]
+    ],
+    "explanation": "give someone a fright 吓某人一跳；get a fright 受到惊吓；with fright 因害怕。",
+    "usage": "give someone a fright；get a fright。",
+    "contrast": "fright /fraɪt/ 是惊吓，fight /faɪt/ 是打斗；别漏掉那个有发音的 r。",
+    "examples": [
+      [
+        "The sudden noise gave me a fright.",
+        "突然的声音吓了我一跳。"
+      ],
+      [
+        "She froze with fright for a moment.",
+        "她吓得一时愣住。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fright#English"
+    ]
+  },
+  {
+    "word": "frighten",
+    "ipa": "/ˈfraɪtən/",
+    "meaning": "使害怕；吓到",
+    "sense": "fright 是害怕这份感觉，frighten 是让这份感觉在别人心里出现。",
+    "split": "fright + -en → frighten，-en 构成使进入状态的动词；t 通常保留，gh 不发音。",
+    "history": [
+      [
+        "古英语 fryhtu、fyrhto 等 → fright",
+        "惊惧、害怕的日耳曼语名词"
+      ],
+      [
+        "fright + -en → frighten",
+        "使产生惊惧"
+      ]
+    ],
+    "explanation": "frighten someone 吓到某人；frighten someone away 吓走；frighten easily 很容易受惊，依主语解释。",
+    "usage": "frighten someone；frighten someone away。",
+    "contrast": "frighten 讲引起害怕，frightened 是承受后的害怕状态，frightening 是令人害怕的性质。",
+    "examples": [
+      [
+        "The loud music frightened the cat.",
+        "响亮的音乐吓到了猫。"
+      ],
+      [
+        "The warning was intended to inform people, not frighten them.",
+        "这则提醒是为了告知情况，而不是吓人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/frighten#English"
+    ]
+  },
+  {
+    "word": "worse",
+    "ipa": "英 /wɜːs/；美 /wɜːrs/",
+    "meaning": "更差的；更糟地；更坏的情况",
+    "sense": "跟另一种情况比，沿着不好的方向更走了一步，就是 worse。它需要明确或能从语境知道的比较参照。",
+    "split": "古英语 wiersa 等延续，现代作 bad、badly 等的比较级；不是 bad + -er 规则形成，也不把末尾 se 当现代 -er 变体随意套词。",
+    "history": [
+      [
+        "古英语 wiersa 等 → worse",
+        "更差的历史比较形式"
+      ],
+      [
+        "worse + -en → worsen",
+        "使更差，或自身变得更差"
+      ]
+    ],
+    "explanation": "get worse 变糟；worse than 比……更差；feel worse 感觉更难受；make matters worse 让情况更糟。",
+    "usage": "get worse；worse than；make matters worse。",
+    "contrast": "worse 比较级，worst 最高级；the worst 不是写成 the worse 就都一样。",
+    "examples": [
+      [
+        "The weather became worse in the afternoon.",
+        "下午天气变得更糟。"
+      ],
+      [
+        "Losing the map made matters worse.",
+        "丢了地图让情况更糟。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worse#English"
+    ]
+  },
+  {
+    "word": "worsen",
+    "ipa": "英 /ˈwɜːsən/；美 /ˈwɜːrsən/",
+    "meaning": "恶化；使更糟",
+    "sense": "worse 说更糟的状态，worsen 把它变成过程：局势自己恶化，也可以是某个因素让它恶化。",
+    "split": "worse + -en，去末尾 e → worsen；中古英语已有相应形式。不是 worse 再加一个否定 n。",
+    "history": [
+      [
+        "古英语 wiersa 等 → worse",
+        "更差的历史比较形式"
+      ],
+      [
+        "worse + -en → worsen",
+        "使更差，或自身变得更差"
+      ]
+    ],
+    "explanation": "conditions worsen 情况恶化；worsen the problem 加重问题；worsen over time 随时间变糟。",
+    "usage": "conditions worsen；worsen the problem。",
+    "contrast": "worsen 可及物也可不及物：The problem worsened 与 The delay worsened the problem 分别说自身变糟、使之变糟。",
+    "examples": [
+      [
+        "Conditions worsened as the storm continued.",
+        "风暴持续，情况进一步恶化。"
+      ],
+      [
+        "The delay worsened the problem.",
+        "延误让问题更严重了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worsen#English"
+    ]
+  },
+  {
+    "word": "haste",
+    "ipa": "/heɪst/",
+    "meaning": "匆忙；急速",
+    "sense": "赶着把事情往前推，留给思考、核对的余地变少，就是 haste。既能说赶紧，也常暗含仓促。",
+    "split": "经古法语 haste 等及相关日耳曼材料进入英语，现代名词重匆忙、急速。不是 hate 讨厌加 s 表示很多恨。",
+    "history": [
+      [
+        "古法语 haste 等；与日耳曼语匆促、激烈材料交汇",
+        "急速、匆忙"
+      ],
+      [
+        "英语 haste；+ -en → hasten",
+        "急忙；赶快、加速"
+      ]
+    ],
+    "explanation": "in haste 匆忙地；make haste 赶紧，较正式；undue haste 过度仓促；haste makes waste 欲速则不达的谚语。",
+    "usage": "in haste；undue haste；make haste。",
+    "contrast": "haste 常说赶促的状态，speed 更中性说速度；快速完成也可以经过充分准备，并不一定 in haste。",
+    "examples": [
+      [
+        "The note had been written in haste.",
+        "便条写得很匆忙。"
+      ],
+      [
+        "They warned against making the decision with undue haste.",
+        "他们提醒不要过于仓促地作决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/haste#English"
+    ]
+  },
+  {
+    "word": "hasten",
+    "ipa": "/ˈheɪsən/",
+    "meaning": "赶紧；加速；促使更早发生",
+    "sense": "自己加快脚步可以 hasten，安排变动让某件事提前发生也可以 hasten。它不只说本人跑快了。",
+    "split": "haste + -en，去末尾 e → hasten；t 在常用读音中不发音。-en 形成加快、使加快的动词。",
+    "history": [
+      [
+        "古法语 haste 等；与日耳曼语匆促、激烈材料交汇",
+        "急速、匆忙"
+      ],
+      [
+        "英语 haste；+ -en → hasten",
+        "急忙；赶快、加速"
+      ]
+    ],
+    "explanation": "hasten to do 赶紧做；hasten the process 加快进程；hasten to add 赶紧补充，常用于修正可能的误解。",
+    "usage": "hasten to do；hasten the process；hasten to add。",
+    "contrast": "hasten 的 t 常不发音，heighten 的 t 则保留；同样 -ten 不能只按拼写统一读。",
+    "examples": [
+      [
+        "She hastened to explain what she meant.",
+        "她赶紧解释自己的意思。"
+      ],
+      [
+        "The new equipment hastened the process.",
+        "新设备加快了进程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hasten#English"
+    ]
+  },
+  {
+    "word": "heighten",
+    "ipa": "/ˈhaɪtən/",
+    "meaning": "提高；增强、加深",
+    "sense": "不只把实物抬高，悬念、注意、紧张感的强度往上走，也叫 heighten。把高度这个维度借给了程度。",
+    "split": "height + -en → heighten，中古英语已有相应形式。height 中 gh 不发音，t 保留，不把它拼读成 high + ten 十。",
+    "history": [
+      [
+        "high、height 的高度词族",
+        "高的性质 → 高度名词"
+      ],
+      [
+        "height + -en → heighten",
+        "使更高，或使程度、强度提高"
+      ]
+    ],
+    "explanation": "heighten awareness 增强意识；heighten tension 加剧紧张；heighten suspense 加强悬念。",
+    "usage": "heighten awareness；heighten tension；heighten suspense。",
+    "contrast": "heighten 常用于程度、感受增强；不必真让物体长高，孩子长高通常更自然说 grow taller。",
+    "examples": [
+      [
+        "The music heightened the suspense.",
+        "音乐加强了悬念。"
+      ],
+      [
+        "The campaign aims to heighten awareness of local history.",
+        "活动旨在增强对地方历史的认识。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/heighten#English"
+    ]
+  },
+  {
+    "word": "ox",
+    "ipa": "英 /ɒks/；美 /ɑːks/",
+    "meaning": "役牛、公牛；牛〔某些语境中的较宽称呼〕",
+    "sense": "传统农耕里拉车、犁地的大牛是 ox 的典型画面，常指受训练作役用的阉公牛，特定语境也有更宽的牛类用法。",
+    "split": "接古英语 oxa，属很老的牛类名称；复数保留 oxen，不按常规只加 -s 写 oxes。",
+    "history": [
+      [
+        "古英语 oxa；复数 oxan → 中古英语 oxe、oxen",
+        "役牛、牛类名称及旧复数形式"
+      ],
+      [
+        "现代 ox、oxen",
+        "保留 -en 复数，不规则延续"
+      ]
+    ],
+    "explanation": "an ox 一头役牛；a team of oxen 一组役牛；as strong as an ox 壮得像牛，常用比喻。",
+    "usage": "an ox；as strong as an ox。",
+    "contrast": "ox 的典型役用、阉公牛义不同于 bull 未阉公牛、cow 母牛；泛用时也得看具体文本。",
+    "examples": [
+      [
+        "The farmer led an ox across the field.",
+        "农民牵着一头役牛穿过田地。"
+      ],
+      [
+        "The story describes him as strong as an ox.",
+        "故事把他描写得壮得像牛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ox#English"
+    ]
+  },
+  {
+    "word": "oxen",
+    "ipa": "英 /ˈɒksən/；美 /ˈɑːksən/",
+    "meaning": "ox 的复数：役牛、牛",
+    "sense": "不是牛变成了某种状态，也不是牛做的材料，而是从一头变成多头。这里 -en 是旧复数的遗留。",
+    "split": "古英语 oxan 经中古英语 oxen 延续，现代对应 ox + 复数 -en。与 widen、wooden、written 的尾部作用分开。",
+    "history": [
+      [
+        "古英语 oxa；复数 oxan → 中古英语 oxe、oxen",
+        "役牛、牛类名称及旧复数形式"
+      ],
+      [
+        "现代 ox、oxen",
+        "保留 -en 复数，不规则延续"
+      ],
+      [
+        "旧复数 oxan → oxen",
+        "现代保留的非 -s 复数"
+      ]
+    ],
+    "explanation": "two oxen 两头役牛；a team of oxen 一组役牛；oxen are ... 复数一致。",
+    "usage": "two oxen；a team of oxen。",
+    "contrast": "oxen 的复数不能变成所有动物的套用规则；现代 sheep、cows、horses 各有自己的复数形式。",
+    "examples": [
+      [
+        "Two oxen pulled the cart.",
+        "两头役牛拉着车。"
+      ],
+      [
+        "The painting shows a team of oxen in a field.",
+        "画中是一组在田里的役牛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oxen#English"
+    ]
+  },
+  {
+    "word": "smitten",
+    "ipa": "/ˈsmɪtən/",
+    "meaning": "被深深迷住的；受击、受强烈影响的〔旧分词义〕",
+    "sense": "像一下被击中了心，突然对某人、某处特别着迷，就是 be smitten with 的常用感觉。它不保证对方也有同样感情。",
+    "split": "接 smite 击打的旧过去分词，中古英语 smiten、古英语相关形式延续；旧击中义走向强烈情感影响。不是 smit 加一个今天可自由使用的形容词尾。",
+    "history": [
+      [
+        "古英语、古日耳曼语击打词族 → smite",
+        "击打、强烈触动"
+      ],
+      [
+        "旧分词 smiten 等 → smitten",
+        "受击；现代常说被迷住、动了心"
+      ]
+    ],
+    "explanation": "be smitten with someone 迷上某人；be smitten with a place 被某地深深吸引；look smitten 看起来动了心。",
+    "usage": "be smitten with；look smitten。",
+    "contrast": "smitten 描述一方被吸引的状态，不自动等于双方已是伴侣；也不只用于负面打击。",
+    "examples": [
+      [
+        "He was smitten with the little seaside town.",
+        "他一下就迷上了那座海边小镇。"
+      ],
+      [
+        "She looked completely smitten with her new puppy.",
+        "她看起来完全被新来的小狗迷住了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/smitten#English"
+    ]
+  },
+  {
+    "word": "linen",
+    "ipa": "/ˈlɪnɪn/",
+    "meaning": "亚麻布；亚麻制的；家用布品〔常用 linens〕",
+    "sense": "亚麻纤维织成的布是 linen；餐巾、床单这些家用布品后来也常合称 linens，即使现代材料不都是真亚麻。",
+    "split": "接古英语 linen，联系亚麻的旧 lin 材料与 -en 性质尾。不是把今天“线条”line 随便加尾就能推出全部意思。",
+    "history": [
+      [
+        "古英语 linen；旧 lin 等亚麻材料 + 性质 -en",
+        "亚麻制的"
+      ],
+      [
+        "现代 linen 名词、形容词",
+        "亚麻布；亚麻制的；家用织物名称扩展"
+      ]
+    ],
+    "explanation": "a linen shirt 亚麻衬衫；linen cloth 亚麻布；bed linen 床上布品；table linen 餐桌布品。",
+    "usage": "a linen shirt；bed linen；table linen。",
+    "contrast": "linen /ˈlɪnɪn/ 是亚麻布、布品，lining /ˈlaɪnɪŋ/ 常是衬里；拼写、读音和所指都不同。",
+    "examples": [
+      [
+        "He wore a light linen shirt.",
+        "他穿着一件轻薄的亚麻衬衫。"
+      ],
+      [
+        "The cupboard holds clean bed linen.",
+        "柜子里放着干净的床上布品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/linen#English"
+    ]
+  },
+  {
+    "word": "chicken",
+    "ipa": "/ˈtʃɪkɪn/〔亦有 /ˈtʃɪkən/〕",
+    "meaning": "鸡；鸡肉；胆小的人、胆小的〔口语〕",
+    "sense": "最早侧重幼鸡、幼鸟，后来可指家鸡，不再只限刚孵出的；餐盘里的 chicken 则是鸡肉。口语 chicken out 又是胆怯退出。",
+    "split": "接古英语 cicen 等，远源可能含鸟叫拟声与小称材料。短词 chick 的常用鸟义后来从相关形式缩短，不能把现代 chick + -en 当唯一历史先后。",
+    "history": [
+      [
+        "古英语 cicen、cycen 等 → 中古英语 chiken → chicken",
+        "原有幼鸟、幼鸡义；更早可能含拟声与小称材料"
+      ],
+      [
+        "中世纪缩短形式 chike 等 → chick",
+        "后来短形，现代常指雏鸟、雏鸡"
+      ]
+    ],
+    "explanation": "keep chickens 养鸡；chicken soup 鸡汤；chicken out 临阵退缩；Don’t be chicken 别胆小，带口语评价。",
+    "usage": "keep chickens；chicken soup；chicken out。",
+    "contrast": "鸡这只动物可数，鸡肉通常不可数；chicken 不必是母鸡，hen 才明确成年母鸡。",
+    "examples": [
+      [
+        "They keep six chickens in the yard.",
+        "他们在院里养了六只鸡。"
+      ],
+      [
+        "We had chicken and rice for lunch.",
+        "我们午饭吃了鸡肉配米饭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chicken#English",
+      "https://www.etymonline.com/word/chicken"
+    ]
+  },
+  {
+    "word": "chick",
+    "ipa": "/tʃɪk/",
+    "meaning": "雏鸟；小鸡；年轻女子〔俚语，可显轻慢〕",
+    "sense": "刚孵出来毛茸茸的小鸡是 chick；也能泛指幼鸟。称年轻女子的俚语义源于人物比喻，是否合适取决于语气、关系。",
+    "split": "中古英语 chike 等是 chicken 相关形式的缩短；虽然现代拼法更短，它的鸟义并不因此一定早于 chicken。另有南亚竹帘借词同形，非本词义支。",
+    "history": [
+      [
+        "古英语 cicen、cycen 等 → 中古英语 chiken → chicken",
+        "原有幼鸟、幼鸡义；更早可能含拟声与小称材料"
+      ],
+      [
+        "中世纪缩短形式 chike 等 → chick",
+        "后来短形，现代常指雏鸟、雏鸡"
+      ],
+      [
+        "缩短形式 chick 固定",
+        "雏鸟；后又有人物俚语用法"
+      ]
+    ],
+    "explanation": "a newly hatched chick 刚孵出的雏鸟；a mother hen and her chicks 母鸡和小鸡；俚语称人时可带物化、轻慢语气。",
+    "usage": "a newly hatched chick；a hen and her chicks。",
+    "contrast": "chick 鸟义与 chicken 的关系不是“字短就一定先有”；正式称人用 woman 等更明确、中性。",
+    "examples": [
+      [
+        "A chick emerged from the egg.",
+        "一只小鸡从蛋里孵了出来。"
+      ],
+      [
+        "The chicks stayed close to the hen.",
+        "小鸡们紧跟着母鸡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chick#English",
+      "https://www.etymonline.com/word/chick"
+    ]
+  },
+  {
+    "word": "hidden",
+    "ipa": "/ˈhɪdən/",
+    "meaning": "隐藏的；潜藏的；hide 的过去分词",
+    "sense": "看不见、不显眼，但实际存在，就是 hidden。可以是藏在门后的房间，也可以是开始没发现的成本、才能。",
+    "split": "hide、hid、hidden 是历史形成的动词范式；hidden 的词干有元音、拼写变化并接 -en，不能直接写 hideen。",
+    "history": [
+      [
+        "hide 隐藏；过去式 hid",
+        "本族动词的历史词干变化"
+      ],
+      [
+        "变过的词干 + 旧分词尾 → hidden",
+        "已隐藏、看不见的状态"
+      ]
+    ],
+    "explanation": "a hidden door 隐藏门；hidden costs 隐性成本；hidden talent 潜藏才能；a hidden meaning 隐含意思。",
+    "usage": "hidden costs；hidden talent；a hidden meaning。",
+    "contrast": "hidden 不保证有人故意遮掩；自然被挡住、尚未察觉也可以用。secret 更常明确保密或秘密性质。",
+    "examples": [
+      [
+        "A hidden door opened onto a narrow staircase.",
+        "一扇隐藏门通向狭窄楼梯。"
+      ],
+      [
+        "The plan includes costs that were initially hidden.",
+        "计划里有起初没被察觉的成本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hidden#English"
+    ]
+  },
+  {
+    "word": "stolen",
+    "ipa": "英 /ˈstəʊlən/；美 /ˈstoʊlən/",
+    "meaning": "被偷的；steal 的过去分词",
+    "sense": "东西不是单纯找不着，而是被人未经允许拿走了，才是常见 stolen。也有偷得片刻等比喻。",
+    "split": "steal、stole、stolen 的旧强变化范式延续；stolen 中有词干元音变化与 -en 分词尾，不写 stealed 或 stealen。",
+    "history": [
+      [
+        "古英语 stelan、stolen 等 → steal 的词族",
+        "偷取；旧分词有不同词干元音"
+      ],
+      [
+        "现代 steal／stole／stolen",
+        "偷；过去偷；已被偷的分词状态"
+      ]
+    ],
+    "explanation": "a stolen bicycle 被偷的自行车；stolen goods 赃物；a stolen moment 忙里偷得的一刻，属于比喻。",
+    "usage": "a stolen bicycle；stolen goods；a stolen moment。",
+    "contrast": "lost 丢失，不一定被偷；stolen 则明确有偷取关系，不能每件找不到的东西都直接这么叫。",
+    "examples": [
+      [
+        "The stolen bicycle was later returned.",
+        "被偷的自行车后来归还了。"
+      ],
+      [
+        "She enjoyed a stolen moment of quiet before work.",
+        "上班前，她享受了一小段偷得的宁静。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stolen#English"
+    ]
+  }
+]

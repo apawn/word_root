@@ -1,0 +1,342 @@
+[
+  {
+    "word": "denied",
+    "ipa": "/dɪˈnaɪd/",
+    "meaning": "否认了、拒绝给予；被拒绝的〔过去式、过去分词〕",
+    "sense": "对一个说法说不，是 denied 的否认；对一个请求说不、不让对方得到，则是拒绝给予。共同点是把它挡在认可或取得之外。",
+    "split": "deny 的辅音字母 + y 改 i，加 -ed → denied，末尾读 /d/。经古法语 denoier 等接拉丁 dēnegāre 拒绝、否认，dē- 与 negāre 说不组合。",
+    "history": [
+      [
+        "拉丁 dēnegāre → 法语 → deny",
+        "说不、拒绝 → 否认说法或拒给所求"
+      ],
+      [
+        "deny：y 改 i + -ed → denied",
+        "过去否认、拒给；被拒绝获得"
+      ]
+    ],
+    "explanation": "denied the claim 否认主张；denied knowing him 否认认识他；was denied access 被拒绝进入、访问。",
+    "usage": "denied the request 拒绝请求；denied any involvement 否认有任何参与。",
+    "contrast": "deny doing 是否认做过；deny somebody something 是不给某人某物。was denied access 常是权限被拒，不一定是有人否认某个事实。",
+    "examples": [
+      [
+        "She denied knowing anything about the missing keys.",
+        "她否认知道丢失钥匙的任何情况。"
+      ],
+      [
+        "The visitor was denied access to the archive.",
+        "访客被拒绝进入档案馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/denied#English",
+      "https://www.etymonline.com/word/deny"
+    ]
+  },
+  {
+    "word": "contributed",
+    "ipa": "英 /kənˈtrɪbjuːtɪd/；美 /kənˈtrɪbjuːtɪd/",
+    "meaning": "贡献了、捐助了；促成了、投稿了〔过去式、过去分词〕",
+    "sense": "为了让一件共同的事成形，拿出自己的一份，是 contributed。若是一个因素也推了结果一把，就说它 contributed to 那个结果。",
+    "split": "contribute + -d，/t/ 后读 /ɪd/。拉丁 con- 一起 + tribuere 分给、付出 → contribuere，英语接 contribūtus 分词词干，现代过去变化再加 d。",
+    "history": [
+      [
+        "拉丁 contribuere、contribūtus → contribute",
+        "共同分担、拿出一份 → 贡献、捐助"
+      ],
+      [
+        "contribute 去 e + -ed → contributed",
+        "过去付出、投稿；某因素促成结果"
+      ]
+    ],
+    "explanation": "contributed ideas 提出了想法；contributed to the project 为项目作贡献；contributed to the delay 造成延误的一个因素。",
+    "usage": "contributed an article 投稿一篇文章；contributed money 捐了钱。",
+    "contrast": "contributed to 不保证只有这一原因，也不保证结果是好的。contributed to success 与 contributed to the problem 都能成立。",
+    "examples": [
+      [
+        "Everyone contributed ideas to the new plan.",
+        "每个人都为新计划提出了想法。"
+      ],
+      [
+        "The heavy rain contributed to the delay.",
+        "大雨是造成延误的一个因素。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/contributed#English",
+      "https://en.wiktionary.org/wiki/contribute#English"
+    ]
+  },
+  {
+    "word": "resulted",
+    "ipa": "/rɪˈzʌltɪd/",
+    "meaning": "产生了结果、导致了；由……造成〔过去式、过去分词〕",
+    "sense": "一件事发生后，带出了后面的局面，就是 resulted。读句子时最关键的是方向：后面说的是带来的结果，还是前面的原因。",
+    "split": "result + -ed，/t/ 后读 /ɪd/。英语动词接拉丁 resultāre 跳回、反弹及较晚产生结果义，是 resilīre 回跳的反复形式，较早 re- 回 + salīre 跳；名词 result 后由动词发展。",
+    "history": [
+      [
+        "拉丁 resultāre → result 动词",
+        "回跳、反弹 → 作为后果出现"
+      ],
+      [
+        "result + -ed → resulted",
+        "过去导致某结果；由某原因形成"
+      ]
+    ],
+    "explanation": "resulted in delays 导致延误；resulted from a mistake 起因于一个错误；resulted in a new design 产生新设计。",
+    "usage": "resulted in better service 带来更好的服务；resulted from careful planning 来自周密规划。",
+    "contrast": "resulted in 后面放结果；resulted from 后面放原因。这个动词通常不及物，不用被动形式表达事情造成的后果。",
+    "examples": [
+      [
+        "The changes resulted in shorter waiting times.",
+        "这些改变缩短了等候时间。"
+      ],
+      [
+        "The confusion resulted from an unclear message.",
+        "混乱源于一条不清楚的信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resulted#English",
+      "https://www.etymonline.com/word/result"
+    ]
+  },
+  {
+    "word": "argued",
+    "ipa": "英 /ˈɑːɡjuːd/；美 /ˈɑːrɡjuːd/",
+    "meaning": "论证了、主张了；争论了、争吵了〔过去式、过去分词〕",
+    "sense": "把理由摆出来，想让一种看法站得住，是 argued。双方互不相让时会变成争论、争吵，但研究文章里的 argued 常是提出论点。",
+    "split": "argue 去 e + -ed → argued，末尾读 /d/。经法语 arguer 接拉丁 arguere 使清楚、显示、证明；传入法语的中间环节有不同分析，英语论证义很早存在。",
+    "history": [
+      [
+        "拉丁 arguere → 法语 arguer → argue",
+        "使人看清、证明 → 提理由论证"
+      ],
+      [
+        "argue 去 e + -ed → argued",
+        "过去论证、主张；与人争论"
+      ]
+    ],
+    "explanation": "argued that... 主张……；argued for change 为改变提出理由；argued with him 与他争论。",
+    "usage": "argued against the plan 提出反对计划的理由；argued about the route 为路线争执。",
+    "contrast": "argued that 在论文里通常不是吵架，而是作者基于理由提出看法。argued with somebody about something 才明确谁和谁就什么争论。",
+    "examples": [
+      [
+        "The author argued that the policy needed to change.",
+        "作者论证说，这项政策需要改变。"
+      ],
+      [
+        "They argued about which route to take.",
+        "他们为走哪条路线争执。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/argued#English",
+      "https://www.etymonline.com/word/argue"
+    ]
+  },
+  {
+    "word": "generated",
+    "ipa": "英 /ˈdʒenəreɪtɪd/；美 /ˈdʒenəreɪtɪd/",
+    "meaning": "产生了、生成了；引起了〔过去式、过去分词〕",
+    "sense": "让原来没有出现的东西生出来，是 generated。机器发出电力，程序生成结果，一个话题引起兴趣，都可用这个产生画面。",
+    "split": "generate + -d，/t/ 后读 /ɪd/。generate 有从较早 generation 逆构，或接拉丁 generātus 分词词干的分析，共同接 generāre 生出、产生，与 genus 族类词族相连。",
+    "history": [
+      [
+        "generation 逆构／拉丁 generātus → generate",
+        "生出、产生 → 各领域的生成"
+      ],
+      [
+        "generate 去 e + -ed → generated",
+        "已经产生、生成或引起"
+      ]
+    ],
+    "explanation": "generated electricity 发电；generated interest 引起兴趣；computer-generated images 电脑生成图像。",
+    "usage": "generated a report 生成了一份报告；generated new ideas 激发新想法。",
+    "contrast": "generated 说明产生的关系，东西可以是实体、能量、信息或反应。generated automatically 是自动生成，具体生成方法还要看系统。",
+    "examples": [
+      [
+        "The wind turbines generated electricity throughout the night.",
+        "风力涡轮机整夜发电。"
+      ],
+      [
+        "The workshop generated several useful ideas.",
+        "工作坊激发了几个有用的想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/generated#English",
+      "https://www.etymonline.com/word/generate"
+    ]
+  },
+  {
+    "word": "indicated",
+    "ipa": "/ˈɪndɪkeɪtɪd/",
+    "meaning": "指出了、表明了；示意了〔过去式、过去分词〕",
+    "sense": "一个箭头、数值、动作或说法，把注意力指向某件事，就是 indicated。它常提供判断线索，线索强弱还要看证据本身。",
+    "split": "indicate + -d，/t/ 后读 /ɪd/。indicate 有从 indication 逆构，或借拉丁 indicātus 分词词干的分析，共同接 indicāre 指出，含 in- 与 dicāre 指明、宣告。",
+    "history": [
+      [
+        "indication 逆构／拉丁 indicātus → indicate",
+        "指出、显示；让人据以推断"
+      ],
+      [
+        "indicate 去 e + -ed → indicated",
+        "过去表明、指出；给出方向信号"
+      ]
+    ],
+    "explanation": "indicated that... 表明……；indicated the way 指出道路；indicated a change 显示有变化。",
+    "usage": "as indicated above 如上所示；indicated by an arrow 用箭头标出。",
+    "contrast": "indicated 常是指出或提供迹象，和证明的力度不同。英式驾驶中 indicated 也可说打了转向灯，依动作场景理解。",
+    "examples": [
+      [
+        "The arrow indicated the path to the beach.",
+        "箭头指示了通往海滩的小路。"
+      ],
+      [
+        "The results indicated that the new method saved time.",
+        "结果表明，新方法节省了时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/indicated#English",
+      "https://www.etymonline.com/word/indicate"
+    ]
+  },
+  {
+    "word": "requested",
+    "ipa": "/rɪˈkwestɪd/",
+    "meaning": "请求了、要求了；应请求提供的〔过去式、过去分词〕",
+    "sense": "把需要明确提出来，希望对方提供或办理，是 requested。它比普通 ask 更正式，常见于邮件、申请、说明。",
+    "split": "request + -ed，/t/ 后读 /ɪd/。名词经法语 requeste 接拉丁 requīsīta 被要求的东西等；动词有从英语名词转用或借法语 requester 的分析，再作规则过去变化。",
+    "history": [
+      [
+        "拉丁 requīsīta → 法语 → request 名词及动词",
+        "所求的东西、请求 → 正式提出需要"
+      ],
+      [
+        "request + -ed → requested",
+        "过去请求；对方所要求的"
+      ]
+    ],
+    "explanation": "requested more information 请求更多资料；as requested 按要求；the requested documents 所要求的文件。",
+    "usage": "requested permission 请求许可；requested that... 正式请求……。",
+    "contrast": "as requested 经常修饰已经按对方要求完成的事。request something、request that... 都常见；具体是礼貌请求还是权威要求，靠上下文判断。",
+    "examples": [
+      [
+        "She requested more information about the course.",
+        "她请求提供更多有关课程的信息。"
+      ],
+      [
+        "I have attached the documents you requested.",
+        "我已附上你所要求的文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/requested#English",
+      "https://www.etymonline.com/word/request"
+    ]
+  },
+  {
+    "word": "containing",
+    "ipa": "/kənˈteɪnɪŋ/",
+    "meaning": "包含、装着；控制、遏制〔现在分词、动名词〕",
+    "sense": "把东西稳稳放在一个范围里，是 containing。盒子装着东西，文件带着信息；把火或问题控制在范围内，也是同一持住的线索。",
+    "split": "contain + -ing → containing。拉丁 con- 一起 + tenēre 持有、握住 → continēre，把东西持在一起，经古法语 contenir 等进入英语。",
+    "history": [
+      [
+        "拉丁 continēre → 法语 contenir → contain",
+        "持在范围内 → 装着、包含；控制"
+      ],
+      [
+        "contain + -ing → containing",
+        "正在装有、包含；控制扩散的过程"
+      ]
+    ],
+    "explanation": "a box containing tools 装有工具的箱子；a file containing notes 含有笔记的文件；containing the fire 控制火势。",
+    "usage": "food containing nuts 含坚果的食物；containing the spread 控制蔓延。",
+    "contrast": "containing 作后置修饰很常见：a bag containing books 就是装着书的包。控制义则通常说把危险或影响限制在一定范围。",
+    "examples": [
+      [
+        "She opened a box containing old photographs.",
+        "她打开一个装着老照片的盒子。"
+      ],
+      [
+        "The team focused on containing the fire.",
+        "队伍集中力量控制火势。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/containing#English",
+      "https://en.wiktionary.org/wiki/contain#English"
+    ]
+  },
+  {
+    "word": "visiting",
+    "ipa": "/ˈvɪzɪtɪŋ/",
+    "meaning": "拜访、参观、到访〔现在分词、动名词〕；来访的、访问任职的",
+    "sense": "专门到某人、某地那里去看看，是 visiting。人可以探亲、逛博物馆，学者也可以暂时到另一机构交流工作。",
+    "split": "visit + -ing → visiting，不双写 t，因为重音不在最后一音节。visit 经法语 visiter 接拉丁 vīsitāre，属于 vidēre 看的反复或加强形式。",
+    "history": [
+      [
+        "拉丁 vidēre、vīsitāre → 法语 → visit",
+        "看 → 前去看看、探访"
+      ],
+      [
+        "visit + -ing → visiting",
+        "到访过程；描述来访或暂时访问任职的人"
+      ]
+    ],
+    "explanation": "visiting relatives 探访亲戚、来访的亲戚；visiting hours 探访时间；a visiting professor 访问教授。",
+    "usage": "visiting a museum 参观博物馆；visiting another school 到访另一所学校。",
+    "contrast": "visiting relatives 可能是探亲这件事，也可能是来访的亲戚，要看整句。visiting professor 常是暂时访问任职的教师，并非所有外地来的教授都自动这样称呼。",
+    "examples": [
+      [
+        "We are visiting our grandparents this weekend.",
+        "我们这个周末要去看望祖父母。"
+      ],
+      [
+        "The university invited a visiting professor to give the lecture.",
+        "大学邀请一位访问教授作讲座。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visiting#English",
+      "https://en.wiktionary.org/wiki/visit#English"
+    ]
+  },
+  {
+    "word": "improvements",
+    "ipa": "/ɪmˈpruːvmənts/",
+    "meaning": "改进、改善；提升的地方、改善项目〔复数〕",
+    "sense": "把原来的东西变得更好，能够指出具体改了哪些地方，就是 improvements。可以是设计细节、服务速度，也可以是实际修缮项目。",
+    "split": "improve + -ment → improvement，保留词尾 e；再加 -s，/t/ 后读 /s/。improve 较早接盎格鲁法语产生收益词，后扩为改善，ment 命名过程或结果。",
+    "history": [
+      [
+        "盎格鲁法语收益词 → improve；加 -ment → improvement",
+        "使产生收益 → 使更好 → 改善或改善结果"
+      ],
+      [
+        "improvement + -s → improvements",
+        "多项改进、可分别说明的提升"
+      ]
+    ],
+    "explanation": "make improvements 作出改进；improvements in service 服务改善；improvements to the building 建筑改造。",
+    "usage": "small improvements 小改进；suggest improvements 提出改进建议。",
+    "contrast": "improvement 泛说改善过程时可不可数；improvements 常把具体措施、结果数出来。improvements in 侧重哪方面变好，to 常接被改的对象。",
+    "examples": [
+      [
+        "The new design includes several small improvements.",
+        "新设计包含几项小改进。"
+      ],
+      [
+        "The school made improvements to the library.",
+        "学校改善了图书馆设施。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improvements#English",
+      "https://en.wiktionary.org/wiki/improvement#English"
+    ]
+  }
+]

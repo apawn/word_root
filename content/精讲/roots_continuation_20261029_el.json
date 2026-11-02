@@ -1,0 +1,133 @@
+[
+  {
+    "id": "B3665",
+    "meaning": "主人、领主与地位姿态",
+    "core": "LORD：面包守护者的古老组合成为主人称谓",
+    "image": "先看 lord 历史，再按身份、上级和姿态理解 lordship、overlord、lordly，已有 landlord、warlord 共享归看。",
+    "intro": "古英语面包 + 守护者的组合经缩短、发音变化成 lord，是历史词源，不代表今天词义仍是面包管理员。",
+    "forms": "lord → lordship、lordly；over- + lord → overlord；land、war + lord。\n\nloaf 承接古英语 hlaf 面包，lord 的旧组合含面包、守护材料；loaf 闲逛的动词另由 loafer 逆构，不能全串成面包义。\n\n古英语 hlafweard 经 hlaford 缩短，现代不是现场拼 loaf 与 ward。",
+    "branches": [
+      [
+        "核心、身份与姿态",
+        "lord · lordship · lordly"
+      ],
+      [
+        "不同权力关系",
+        "overlord · landlord · warlord"
+      ],
+      [
+        "loaf／loaves 与 lord：面包和旧家庭称呼",
+        "loaf · loaves · lord"
+      ],
+      [
+        "lord → lords：由食物、家产守护者到领主称谓",
+        "lord · lords"
+      ]
+    ],
+    "contrasts": "-ship 身份，-ly 可形容词；overlord 说支配层级；the Lord 宗教用法需语境。",
+    "practice": "The lord’s lordly manner annoyed his guests.\n\n领主高高在上的姿态让客人不快。",
+    "words": [
+      "lord",
+      "lordship",
+      "lordly",
+      "overlord",
+      "landlord",
+      "warlord",
+      "loaf",
+      "loaves",
+      "lords"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2956",
+    "meaning": "支付的结果与不足",
+    "core": "PAID：已经付；UNPAID：没付；UNDERPAID：少付",
+    "image": "基本 paid 已精讲，此处补两个常见前缀方向，并共享 postpaid 后付费。",
+    "intro": "paid 为 pay 不规则形式。未付与少付在现实里差别很大，用例分别说明。",
+    "forms": "paid → unpaid、underpaid；post- + paid → postpaid。",
+    "branches": [
+      [
+        "已付、未付、少付",
+        "paid · unpaid · underpaid"
+      ],
+      [
+        "付款顺序",
+        "postpaid"
+      ]
+    ],
+    "contrasts": "unpaid leave 无薪假，不是少薪假；underpaid 已付不足而非必然完全没付。",
+    "practice": "The report discussed unpaid work and underpaid workers.\n\n报告讨论了无偿工作与报酬过低的劳动者。",
+    "words": [
+      "paid",
+      "unpaid",
+      "underpaid",
+      "postpaid"
+    ],
+    "exclude": {
+      "well-paid": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3165",
+    "meaning": "贫困、质量不足与同情",
+    "core": "POOR：缺乏；先问缺的是钱、质量还是身体状态",
+    "image": "poor 多义之后接 poorly 的方式与身体不适用法，再读历史 poorhouse。",
+    "intro": "词族经法语接拉丁贫乏词。poorly 虽以 -ly 结尾，也能在英式作不舒服的形容词。",
+    "forms": "poor → poorly；poor + house → poorhouse。\n\npoverty 经法语接拉丁 paupertas 贫困，与 poor 经法语接 pauper 同族；不是英语 poor 简单换尾。\n\npoor 经法语接拉丁 pauper 贫乏；比较形式既能比经济处境，也能比质量、表现。",
+    "branches": [
+      [
+        "基本性质与方式、状态",
+        "poor · poorly"
+      ],
+      [
+        "历史机构",
+        "poorhouse"
+      ],
+      [
+        "poor 与 poverty：贫乏的性质",
+        "poor · poverty"
+      ],
+      [
+        "poor → poorer → poorest：贫乏与质量较差",
+        "poor · poorer · poorest"
+      ]
+    ],
+    "contrasts": "poor child 可同情而非贫困；poorly written 副词，feel poorly 特定形容词；poorhouse 不是普通穷人的房。",
+    "practice": "The poor sound made the interview hard to follow.\n\n音质差，让访谈很难听明白。",
+    "words": [
+      "poor",
+      "poorly",
+      "poorhouse",
+      "poverty",
+      "poorer",
+      "poorest"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2578",
+    "meaning": "球员与足球领域的能力",
+    "core": "FOOTBALL：运动、人物与领域修饰",
+    "image": "football 已精讲，footballer 说球员，footballing 说足球方面；具体运动遵循地区用法。",
+    "intro": "foot + ball 的命名延伸出不同地区的球类用法，不把英国足球定义硬套所有场合。",
+    "forms": "football → footballer、footballing；共享 footer。",
+    "branches": [
+      [
+        "基本运动与人物、领域",
+        "football · footballer · footballing · footer"
+      ]
+    ],
+    "contrasts": "footballer 人，footballing 常修饰能力；美式 football 与英式所指可能不同；footer 特定语境见已有精讲。",
+    "practice": "The young footballer impressed the coach with her footballing skills.\n\n年轻足球运动员以技术给教练留下深刻印象。",
+    "words": [
+      "football",
+      "footballer",
+      "footballing",
+      "footer"
+    ],
+    "exclude": {
+      "anti-football": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

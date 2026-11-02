@@ -1,0 +1,628 @@
+[
+  {
+    "id": "A1882",
+    "meaning": "转向、作用方向等相关性质",
+    "core": "-TROPIC：方向与作用对象的历史材料",
+    "image": "isotropic 说不同方向性质相同；psychotropic 说作用于精神、心理功能。后部材料相近，实际领域不同。",
+    "intro": "来自希腊 trope 转、变化及 tropikos 等相应词形。近代科学在方向性质和作用对象等语境中分别发展。",
+    "forms": "iso- 相同 + -tropic → isotropic；psycho- 精神、心理 + -tropic → psychotropic。每个完整术语的定义比字面转向更具体。",
+    "branches": [
+      [
+        "方向性质",
+        "isotropic"
+      ],
+      [
+        "精神作用相关",
+        "psychotropic"
+      ]
+    ],
+    "contrasts": "isotropic 不表示各处一切性质全相同，而是指定性质在不同方向相同；psychotropic 的对象则是精神活动相关作用。",
+    "practice": "The example assumes an isotropic material.\n\n这个例子假定材料具有各向同性。",
+    "words": [
+      "isotropic",
+      "psychotropic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2009",
+    "meaning": "瘫痪相关的；有相应瘫痪的人",
+    "core": "-PLEGIC：把瘫痪范围接成形容词或人物称呼",
+    "image": "paraplegic 与截瘫相关，常涉及双下肢。它既可以作形容词，也可作人物名词；现代也常用 person with paraplegia。",
+    "intro": "接希腊 plege 打击及后来的麻痹、瘫痪医学命名词族。-plegic 与 -plegia 状态名对应。",
+    "forms": "paraplegia 截瘫 → 相应形容词、人物名 paraplegic。历史的打击材料经过医学语义发展，不说明每个病例都由外伤造成。",
+    "branches": [
+      [
+        "截瘫及相关人物、性质表达",
+        "paraplegia · paraplegic"
+      ]
+    ],
+    "contrasts": "paraplegia 是状态名，paraplegic 是相应形容词或人物名；不要把词尾简单当所有身体无力的统称。",
+    "practice": "The article describes a wheelchair designed for a person with paraplegia.\n\n文章介绍了一款为截瘫者设计的轮椅。",
+    "words": [
+      "paraplegia",
+      "paraplegic"
+    ],
+    "exclude": {
+      "quadriplegic": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1928",
+    "meaning": "成形、重建的手术名称材料",
+    "core": "-PLASTY：把结构修复、重塑成某种形态",
+    "image": "rhinoplasty 是鼻部成形术，arthroplasty 是关节成形术。前部决定部位，后部说明成形、重建的手术关系。",
+    "intro": "来自希腊 plastos 塑成的、形成的及相关词族，经近代外科命名采用 -plasty。",
+    "forms": "rhino- 鼻 + -plasty → rhinoplasty；arthro- 关节 + -plasty → arthroplasty。成形不限于外观美化，也可以涉及功能重建。",
+    "branches": [
+      [
+        "鼻部成形术",
+        "rhinoplasty"
+      ],
+      [
+        "关节成形术",
+        "arthroplasty"
+      ]
+    ],
+    "contrasts": "-plasty 是成形、重建，-ectomy 则是切除的名称材料；后部不同，手术名称描述的关系不同。",
+    "practice": "The glossary compares rhinoplasty with arthroplasty.\n\n词汇表对照了鼻部成形术与关节成形术。",
+    "words": [
+      "rhinoplasty",
+      "arthroplasty"
+    ],
+    "exclude": {
+      "angioplasty": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1723",
+    "meaning": "恐惧、排斥等相关的人物称呼",
+    "core": "-PHOBE：在社会词汇里，常标出持排斥态度的人",
+    "image": "homophobe 通常指对同性恋者持敌意、偏见或排斥态度的人。现代用法不只是说一个人感到害怕。",
+    "intro": "来自希腊 phobos 恐惧词族，经法语、拉丁等相应形式进入英语人物称呼。社会态度词中发展为敌视、排斥等意义。",
+    "forms": "homo- 在这里缩接 homosexual 相关材料 + -phobe → homophobe；homophobia 是相应态度名，homophobic 是形容词。",
+    "branches": [
+      [
+        "人物、态度与相应性质",
+        "homophobe · homophobia · homophobic"
+      ]
+    ],
+    "contrasts": "这些社会词通常描述偏见、排斥，不能只因词源有恐惧，就自动理解成临床恐惧症诊断。",
+    "practice": "The article challenges homophobic stereotypes.\n\n文章质疑了恐同的刻板印象。",
+    "words": [
+      "homophobe",
+      "homophobia",
+      "homophobic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2086",
+    "meaning": "手术建立开口的名称材料",
+    "core": "-STOMY：给某个器官建立一个开口",
+    "image": "colostomy 是结肠造口术，也可指形成的造口；tracheostomy 是气管造口术。前半说部位，后半说造口。",
+    "intro": "接希腊 stoma 口、开口的词干 stom-，再有相应名词材料，进入近代医学构词。这里的口泛指开口。",
+    "forms": "colo- 结肠 + -stomy → colostomy；tracheo- 气管 + -stomy → tracheostomy。",
+    "branches": [
+      [
+        "结肠造口名称",
+        "colostomy"
+      ],
+      [
+        "气管造口名称",
+        "tracheostomy"
+      ]
+    ],
+    "contrasts": "-stomy 与 -tomy 不同：前者强调建立开口，后者是切开。具体手术过程、术式仍由完整名称和语境限定。",
+    "practice": "The leaflet defines the term colostomy.\n\n小册子解释了结肠造口这一术语。",
+    "words": [
+      "colostomy",
+      "tracheostomy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2018",
+    "meaning": "相应性质、状态的名词词尾",
+    "core": "-ICITY：从形容词性质转到这种性质的名称",
+    "image": "synchronicity 可说同时发生，也常在特定心理学、文化语境说有意义的巧合。先看文章使用哪一层意思。",
+    "intro": "可按 -ic + -ity 的性质名词材料理解；synchronicity 的特定概念用法又与德语相关学术命名的翻译、传播有关。",
+    "forms": "synchronic 同时的、共时的 + -ity → synchronicity 的词形对应；不能用这个对应抹掉特定概念的命名历史。",
+    "branches": [
+      [
+        "同时性、有意义的巧合等用法",
+        "synchronicity"
+      ]
+    ],
+    "contrasts": "特定 synchronicity 概念往往谈意义上的关联，不是已经证明存在某个因果关系；普通 simultaneity 更直接说同时性。",
+    "practice": "She described the coincidence as a moment of synchronicity.\n\n她把这次巧合称作一次有意义的共时体验。",
+    "words": [
+      "synchronicity"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2192",
+    "meaning": "学科、论述相关的形容词后部",
+    "core": "-LOGIC：把某个研究领域转成相关性质",
+    "image": "physiology 是生理学，physiologic、physiological 都可说生理的。后半改变词性，前半仍给身体功能这一研究对象。",
+    "intro": "英语形式联系法语 -logique 等学术形容词，以及希腊 logos 论述词族；现代常按 -logy 与 -logic 的词形对应认识。",
+    "forms": "physiology → 相应形容词 physiologic、physiological。这个箭头表示词族、词形关系，不断言每个词都先在英语里新加后缀。",
+    "branches": [
+      [
+        "生理学及相关形容词",
+        "physiology · physiologic · physiological"
+      ]
+    ],
+    "contrasts": "physiologic、physiological 常可对应生理相关，但特定专业搭配有习惯。不能把 -logic 当独立 logic 逻辑的全部意义来硬译。",
+    "practice": "The report describes the body’s physiological response.\n\n报告描述了身体的生理反应。",
+    "words": [
+      "physiology",
+      "physiologic",
+      "physiological"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2291",
+    "meaning": "站立、维持状态相关的",
+    "core": "-STATIC：在完整词中看保持的是什么状态",
+    "image": "homeostatic 说维持稳态，thermostatic 说恒温控制相关；两者都有关状态调节，目标范围不同。",
+    "intro": "接希腊 statikos 站立相关词族及近代科学形容词形式。与 stasis 状态、停留及 stat- 词干有历史联系。",
+    "forms": "homeostasis → homeostatic；thermostat 恒温控制器 → thermostatic。相应词族还可能有平行借词、学术类比形成。",
+    "branches": [
+      [
+        "生理稳态关系",
+        "homeostasis · homeostatic"
+      ],
+      [
+        "恒温控制关系",
+        "thermostat · thermostatic"
+      ]
+    ],
+    "contrasts": "在这些复合词中，-static 不是一律说完全不动；恒温、稳态控制常通过持续动作来维持目标范围。",
+    "practice": "The heater has a thermostatic control.\n\n这个加热器带有恒温控制装置。",
+    "words": [
+      "homeostasis",
+      "homeostatic",
+      "thermostat",
+      "thermostatic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1921",
+    "meaning": "芽、萌发物；未成熟、形成相关的细胞材料",
+    "core": "-BLAST：像正在形成、建设组织的细胞名称",
+    "image": "fibroblast 是成纤维细胞，名称把纤维与形成相关的细胞材料接起来；它参与生成、维持组织的细胞外基质。",
+    "intro": "来自希腊 blastos 芽、萌发物。近代生物医学借生长、形成的画面命名相应细胞。",
+    "forms": "fibro- 纤维 + -blast 形成相关细胞 → fibroblast。不同 -blast 术语的具体细胞身份要看完整名称。",
+    "branches": [
+      [
+        "成纤维细胞",
+        "fibroblast"
+      ]
+    ],
+    "contrasts": "生物学 -blast 与英语 blast 爆炸不是同一条命名解释。fibroblast 是细胞名称，不是已经形成的纤维本身。",
+    "practice": "The diagram shows fibroblasts in connective tissue.\n\n图示展示了结缔组织中的成纤维细胞。",
+    "words": [
+      "fibroblast"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2167",
+    "meaning": "真菌",
+    "core": "FUNGI-：把目标接到真菌这一类生物",
+    "image": "fungicide 是杀真菌剂；前部说针对什么，后部给杀灭剂这一类别。",
+    "intro": "来自拉丁 fungus 蘑菇、真菌词族及其复合形式 fungi-。这里的 i 是构词连接材料，不能只因形式等于 fungi 就当作现代复数直接照搬。",
+    "forms": "fungus 真菌 → fungi-；fungi- + -cide 杀灭剂 → fungicide。\n\n与 fungus 比较真菌，并非拉丁 fungus 派生。mushroom 经古法语 meisseron 等借来，更远是否接 moss 对应词有争论；英语整体也转作动词，表示像蘑菇冒出来一样快速增加。",
+    "branches": [
+      [
+        "目标生物",
+        "fungus"
+      ],
+      [
+        "相应杀灭剂类别",
+        "fungicide"
+      ],
+      [
+        "mushroom：另源的蘑菇名与快速增长比喻",
+        "mushroom · mushrooms"
+      ]
+    ],
+    "contrasts": "真菌不只蘑菇这一种外形；fungicide 针对真菌，insecticide 针对昆虫，不能笼统按药剂一词互换。",
+    "practice": "The label identifies the product as a fungicide.\n\n标签注明这是一种杀真菌剂。",
+    "words": [
+      "fungus",
+      "fungicide",
+      "mushroom",
+      "mushrooms"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1997",
+    "meaning": "多个、较多",
+    "core": "PLURI-：具有不止一种可能、能力的数量材料",
+    "image": "pluripotent 多能的，生物学中常用于能分化出多种细胞类型的细胞。前部给多，后部给能力。",
+    "intro": "来自拉丁 plus 更多及 pluris 等词形的组合材料 pluri-；近代科学与表示能力的 potent 等结合。",
+    "forms": "pluri- 多 + potent 有能力 → pluripotent。完整术语在干细胞生物学中有明确范围，不能仅凭多就扩成任何能力。",
+    "branches": [
+      [
+        "多种分化潜能",
+        "pluripotent"
+      ]
+    ],
+    "contrasts": "pluripotent 是多能，不等同于 totipotent 全能这一术语；两者都含能力材料，但分化潜能范围不同。",
+    "practice": "The lecture discusses pluripotent stem cells.\n\n讲座讨论了多能干细胞。",
+    "words": [
+      "pluripotent"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2148",
+    "meaning": "气管",
+    "core": "TRACHEO-：把切开、造口等动作落到气管",
+    "image": "tracheotomy 是气管切开术，tracheostomy 是气管造口术。先认气管，再看后部强调切开还是建立开口。",
+    "intro": "由 trachea 气管加组合元音 o 形成。trachea 更早经拉丁语接希腊粗糙等材料，联系气管的旧描述名称。",
+    "forms": "tracheo- + -tomy 切开 → tracheotomy；tracheo- + -stomy 造口 → tracheostomy。",
+    "branches": [
+      [
+        "气管这一结构",
+        "trachea"
+      ],
+      [
+        "切开与造口的术语对照",
+        "tracheotomy · tracheostomy"
+      ]
+    ],
+    "contrasts": "两词在实际医疗叙述中可能交叉使用，但构词重点不同。学习时保留切开与造口区别，有助于读清完整术语。",
+    "practice": "The glossary distinguishes tracheotomy from tracheostomy.\n\n词汇表区分了气管切开术与气管造口术。",
+    "words": [
+      "trachea",
+      "tracheotomy",
+      "tracheostomy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2326",
+    "meaning": "舌、语言",
+    "core": "-GLOT：从舌头这个器官扩展到语言",
+    "image": "polyglot 是掌握多种语言的人，也可形容多语的环境、作品。前部数多种，后部给语言。",
+    "intro": "接希腊 glotta、glossa 舌、语言的相关形式，经法语等借词进入英语；不同拼写反映希腊方言及传入路线。",
+    "forms": "poly- 多 + glot- 语言相关 → polyglot。舌头是说话器官，因此很自然成为语言的历史命名材料。",
+    "branches": [
+      [
+        "掌握多种语言的人、性质",
+        "polyglot"
+      ]
+    ],
+    "contrasts": "polyglot 不一定指职业译者；它说明多语能力或多语构成。能说多种语言与从事翻译工作是不同信息。",
+    "practice": "She is a polyglot who enjoys learning new languages.\n\n她掌握多种语言，也喜欢学习新语言。",
+    "words": [
+      "polyglot"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2014",
+    "meaning": "部分",
+    "core": "-MERE：从整体中认出一个部分",
+    "image": "telomere 是端粒，名称像染色体末端的部分。它是特定结构名称，不是所有东西的任意末端。",
+    "intro": "来自希腊 meros 部分，经近代生物学组合形式进入英语。不同前部限定相应部分、分段关系。",
+    "forms": "telo- 末端 + -mere 部分 → telomere。名称在染色体研究中固定为端粒。",
+    "branches": [
+      [
+        "染色体末端结构",
+        "telomere"
+      ]
+    ],
+    "contrasts": "-mere 与日常英语 mere 仅仅不是这里的同一来源解释。理解端粒还要加上染色体这一对象，不能只译末端的一点。",
+    "practice": "The diagram marks the telomeres at the ends of the chromosome.\n\n图示标出了染色体末端的端粒。",
+    "words": [
+      "telomere"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1981",
+    "meaning": "末端、终点",
+    "core": "TELO-：把位置限定在末端",
+    "image": "telomere 的前部告诉你位置在末端，后部告诉你是一个部分；合起来是染色体末端的特定结构。",
+    "intro": "来自希腊 telos 末端、完成等词族。近代生物学取末端这一位置关系造词。",
+    "forms": "telo- 末端 + -mere 部分 → telomere。这里的 telo- 不能与 tele- 远的通讯词族混在一起。",
+    "branches": [
+      [
+        "末端的特定结构",
+        "telomere"
+      ]
+    ],
+    "contrasts": "telephone 的 tele- 是远，telomere 的 telo- 是末端；字母近似，旧材料与完整词的主题不同。",
+    "practice": "The lesson explains the role of telomeres.\n\n这节课解释了端粒的作用。",
+    "words": [
+      "telomere"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2405",
+    "meaning": "栽培、种植方法的现代类比词尾",
+    "core": "-PONICS：把栽培工作接到采用的环境、方法",
+    "image": "hydroponics 是水培、无土栽培相关技术名称；植物从营养液获得所需矿质等，不必栽在普通土壤里。",
+    "intro": "后部从 geoponics 农业、耕作名称中抽出；更早接希腊 ponos 劳作及相应形容词、学科材料。近代再类比造 hydroponics。",
+    "forms": "geo- 土地 + 劳作相关材料形成 geoponics；类比 hydro- 水 + -ponics → hydroponics。这是借已有词重新分析后部的路径。",
+    "branches": [
+      [
+        "无土栽培、水培技术名称",
+        "hydroponics"
+      ]
+    ],
+    "contrasts": "hydroponics 的水培不是只用清水泡着就能概括；现代名称包括营养供应等完整栽培安排。它也不等于养殖鱼类的 aquaculture。",
+    "practice": "The greenhouse uses hydroponics to grow lettuce.\n\n这座温室用水培方法种生菜。",
+    "words": [
+      "hydroponics"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1902",
+    "meaning": "吃、吞食某物的",
+    "core": "-VOROUS：饮食对象由前部决定",
+    "image": "omnivorous 杂食的，既可吃植物来源，也可吃动物来源的食物。omni- 所有的旧材料在这里变成饮食范围广。",
+    "intro": "接拉丁 vorare 吞食、-vorus 吃某物的形容词材料，再与英语 -ous 形式对应。相邻人物、动物名常用 -vore。",
+    "forms": "omni- 广泛、所有 + 吞食相关材料 → omnivorous；相应名词 omnivore 杂食动物。carnivorous、herbivorous 分别接肉与草本植物材料。",
+    "branches": [
+      [
+        "杂食的及相应动物名称",
+        "omnivore · omnivorous"
+      ],
+      [
+        "肉食、草食对照",
+        "carnivorous · herbivorous"
+      ]
+    ],
+    "contrasts": "omnivorous 不表示真的什么都能吃；它说明饮食类别覆盖动植物来源。比喻读者兴趣广也可用，但要看搭配。",
+    "practice": "Bears are often described as omnivorous animals.\n\n熊常被描述为杂食动物。",
+    "words": [
+      "omnivore",
+      "omnivorous",
+      "carnivorous",
+      "herbivorous"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2347",
+    "meaning": "足、脚",
+    "core": "-PED：前部数几只足，后部给足的关系",
+    "image": "biped 两足动物，quadruped 四足动物。把两个词并排：bi- 给二，quadru- 给四，ped 给足。",
+    "intro": "部分经法语 -pede，部分接拉丁 pes 足及其变格词干 ped-。不同完整词有借入、类比构词等路径。",
+    "forms": "bi- 二 + ped- 足 → biped；quadru- 四 + ped- 足 → quadruped。两词的后部都保留足这一核心意义。",
+    "branches": [
+      [
+        "两足与四足的动物",
+        "biped · quadruped"
+      ]
+    ],
+    "contrasts": "biped、quadruped 数足、肢体的相关运动形式；不是数某个物体有几块踏板。现代具体分类还要看完整生物语境。",
+    "practice": "The lesson compares the movement of bipeds and quadrupeds.\n\n这节课比较两足动物和四足动物的运动方式。",
+    "words": [
+      "biped",
+      "quadruped"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1811",
+    "meaning": "塑成物；形成的小体、结构",
+    "core": "-PLAST：在细胞结构名称里给某类小体",
+    "image": "chloroplast 是叶绿体：把绿色这一材料与小体、结构名称接起来，现代指植物、藻类等细胞中的特定结构。",
+    "intro": "接希腊 plastos 塑成的、形成的词族，经近代生物学进入 -plast 组合形式。现代类别有独立科学定义。",
+    "forms": "chloro- 绿色 + -plast → chloroplast。名称反映绿色与结构，但完整词不等于任何绿色小东西。",
+    "branches": [
+      [
+        "细胞中的叶绿体",
+        "chloroplast"
+      ]
+    ],
+    "contrasts": "chlorophyll 叶绿素是色素，chloroplast 叶绿体是结构；plast 与 phyll 的后部不同，刚好帮你分清容纳关系。",
+    "practice": "The student identified chloroplasts in the plant cells.\n\n学生辨认出了植物细胞中的叶绿体。",
+    "words": [
+      "chloroplast"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2122",
+    "meaning": "右、向右",
+    "core": "DEXTRO-：在糖名里保存旋光方向的命名线索",
+    "image": "dextrose 是葡萄糖的常见名称之一，尤其出现在食品成分、化学资料中。名字的右联系特定旋光性质。",
+    "intro": "来自拉丁 dexter 右的组合形式。十九世纪糖类命名采用右旋、左旋等观察材料，形成 dextrose 等名称。",
+    "forms": "dextr- 右相关 + 糖类命名 -ose → dextrose。现代 D-glucose 的 D 与右旋符号涉及不同命名规则，不能只凭字母一概等同。",
+    "branches": [
+      [
+        "葡萄糖的相邻名称",
+        "glucose · dextrose"
+      ]
+    ],
+    "contrasts": "在常见食品语境里 dextrose 指葡萄糖；不要把 dextro- 看到哪都译成糖，它本来的组合意义是右。",
+    "practice": "The ingredient list includes dextrose.\n\n配料表中列有葡萄糖。",
+    "words": [
+      "glucose",
+      "dextrose"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2032",
+    "meaning": "单一、一套",
+    "core": "HAPLO-：在染色体组数中认出一套",
+    "image": "haploid 单倍体的，通常指具有一套染色体组。diploid 二倍体则通常有两套；数的是组，不是一共只有一条或两条染色体。",
+    "intro": "来自希腊 haploos 单一、简单，进入近代细胞学、遗传学术语。-ploid 是相应组数的科学命名材料。",
+    "forms": "haplo- 单一 + -ploid 组数材料 → haploid；diploid 是两套的相邻对照名称。",
+    "branches": [
+      [
+        "一套与两套染色体组",
+        "haploid · diploid"
+      ]
+    ],
+    "contrasts": "haploid 数染色体组；每组可以包含多条染色体。完整术语不等于一条染色体的细胞。",
+    "practice": "The diagram compares haploid and diploid cells.\n\n图示比较了单倍体细胞与二倍体细胞。",
+    "words": [
+      "haploid",
+      "diploid"
+    ],
+    "exclude": {
+      "haplotype": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "haplogroup": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2295",
+    "meaning": "言语、说话",
+    "core": "-PHASIA：把对象接到语言表达、理解功能",
+    "image": "aphasia 是失语症，可能影响语言表达、理解、阅读、书写等。名称的言语材料比单纯能否发出声音更广。",
+    "intro": "来自希腊 phasis 言语、发言，联系 phemi 说。经医学学术命名进入 aphasia 等词。",
+    "forms": "a- 缺失 + phasia 言语相关 → aphasia。现代医学术语描述语言能力受损，程度、表现可以不同。",
+    "branches": [
+      [
+        "语言功能受损的名称",
+        "aphasia"
+      ]
+    ],
+    "contrasts": "aphasia 不是普通一时忘词的泛称，也不只是嗓子发不出声音；语言能力与发声器官要分清。",
+    "practice": "The article explains how aphasia can affect language.\n\n文章解释了失语症怎样影响语言能力。",
+    "words": [
+      "aphasia"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2196",
+    "meaning": "携带、移动的过程",
+    "core": "-PHORESIS：借外部作用让材料移动、分离",
+    "image": "electrophoresis 是电泳：让带电粒子在电场中移动，常用来分析、分离样本成分。",
+    "intro": "来自希腊 phoresis 携带、运送这一动作名，联系 phorein 携带。近代物理、生化采用此材料命名迁移过程。",
+    "forms": "electro- 电 + -phoresis 迁移相关 → electrophoresis。完整过程的表现受粒子、电场、介质等因素影响。",
+    "branches": [
+      [
+        "电场作用下的迁移、分离方法",
+        "electrophoresis"
+      ]
+    ],
+    "contrasts": "electrophoresis 是迁移、分离过程，不是电解 electrolysis 的另一拼写；后者有不同化学过程含义。",
+    "practice": "The laboratory used electrophoresis to separate the sample components.\n\n实验室用电泳分离样本成分。",
+    "words": [
+      "electrophoresis"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1971",
+    "meaning": "被某动作形成的〔历史形容词词尾材料〕",
+    "core": "-OTE：在 zygote 中保留结合、配成一对的历史",
+    "image": "zygote 是受精卵、合子。前部接配成一对、结合的旧材料，现代指配子结合形成的细胞。",
+    "intro": "zygote 作为近代学术词，接希腊 zygotos 结合、套上轭的。-ote 在这里反映旧动词形容词形式的借入，不是英语里常用的受精后缀。",
+    "forms": "希腊结合、配对词族 + 动词形容词材料 → zygotos → 英语 zygote；现代可按 zygo- + -ote 认出相应词形关系。",
+    "branches": [
+      [
+        "配子结合形成的细胞",
+        "zygote"
+      ]
+    ],
+    "contrasts": "zygote 是结合形成的细胞，gamete 是参与结合的配子；两者对应过程中的不同阶段，不能当同义词。",
+    "practice": "The diagram shows two gametes forming a zygote.\n\n图示展示了两个配子结合形成合子。",
+    "words": [
+      "zygote"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2055",
+    "meaning": "血、血液",
+    "core": "HAEMATO-：英式拼写中常见的血液材料",
+    "image": "haematology 是血液学，haematoma 是血肿；一个是学科，一个是血液在组织等部位聚积形成的名称。",
+    "intro": "来自希腊 haima 血及其变格词干 haimat-。拉丁化、英式形式常保留 ae，美式相应形式多写 hemato-。",
+    "forms": "haemato- + -logy → haematology；haemat- 相关词干 + -oma → haematoma。相邻美式拼写 hematology、hematoma 不改变基本词义。",
+    "branches": [
+      [
+        "血液研究的学科名",
+        "haematology"
+      ],
+      [
+        "血肿名称",
+        "haematoma"
+      ]
+    ],
+    "contrasts": "haematoma 不是所有肿瘤的总称；-oma 的肿块材料在此形成血肿这一固定名称。遇到 ae 先考虑拼写传统，不重新猜一种血。",
+    "practice": "The report mentions a small haematoma.\n\n报告提到一个小血肿。",
+    "words": [
+      "haematology",
+      "haematoma"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2127",
+    "meaning": "颌、上颌相关",
+    "core": "MAXILLO-：把颌与面部放到同一结构范围",
+    "image": "maxillofacial 是颌面部的，常见于颌面外科、相关结构说明。前部给颌，后部给面。",
+    "intro": "来自拉丁 maxilla 颌、上颌相关材料，在近代医学中形成 maxillo-。具体术语可按颌、上颌等相应解剖范围认识。",
+    "forms": "maxillo- 颌 + facial 面部的 → maxillofacial。复合后描述颌面这一结构领域。",
+    "branches": [
+      [
+        "颌面部相关性质",
+        "maxillofacial"
+      ]
+    ],
+    "contrasts": "facial 单说面部相关；maxillofacial 明确把颌部关系接进来。它是部位形容词，不是某一种手术的完整名称。",
+    "practice": "The textbook introduces maxillofacial anatomy.\n\n课本介绍了颌面部解剖。",
+    "words": [
+      "maxillofacial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2178",
+    "meaning": "空气、气；另有肺相关的同形词族",
+    "core": "PNEUMO-：pneumothorax 里先认胸腔中的气",
+    "image": "pneumothorax 是气胸，指胸膜腔内出现空气、气体的状态名称。前部的气与后部的胸组合，但现代名称的具体部位更精确。",
+    "intro": "空气用法接希腊 pneuma 气、呼吸；相邻肺相关用法又联系 pneumon 肺。二者同属呼吸背景的历史材料，完整词应分别核对。",
+    "forms": "pneumo- 气 + thorax 胸 → pneumothorax。不要仅因相邻词说肺，就把这里的前部全部译成肺。",
+    "branches": [
+      [
+        "胸膜腔出现气体的名称",
+        "pneumothorax"
+      ]
+    ],
+    "contrasts": "pneumothorax 的固定意思是气胸，不等同于普通肺炎、胸痛。胸这一字面线索仍需用完整术语限定解剖位置。",
+    "practice": "The glossary defines pneumothorax as air in the pleural space.\n\n词汇表把气胸解释为胸膜腔内出现气体。",
+    "words": [
+      "pneumothorax"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2263",
+    "meaning": "颅、头骨",
+    "core": "CRANIO-：头骨与其他结构的组合关系",
+    "image": "craniofacial 是颅面的，指头骨、面部及相应结构关系。前后两个材料把讨论范围圈出来。",
+    "intro": "来自希腊 kranion 头骨，经拉丁化 cranium 等解剖名称形成 cranio-。o 是组合形式的一部分。",
+    "forms": "cranio- 颅 + facial 面部的 → craniofacial。名称用于结构、发育、检查等不同搭配，后面的名词再限定主题。",
+    "branches": [
+      [
+        "颅面部相关性质",
+        "craniofacial"
+      ]
+    ],
+    "contrasts": "cranio- 主要给头骨、颅的关系；cerebro- 给脑的关系。头骨与脑相邻，但并不是同一个解剖对象。",
+    "practice": "The course covers craniofacial development.\n\n这门课讨论颅面发育。",
+    "words": [
+      "craniofacial"
+    ],
+    "exclude": {}
+  }
+]

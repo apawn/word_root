@@ -1,0 +1,150 @@
+[
+  {
+    "id": "B3116",
+    "meaning": "灰烬及灰白形象，另辨白蜡树同形词",
+    "core": "ASH：冷火留下灰，树名则另走一条来源",
+    "image": "ash → ashtray、ashy、ashen；potash 是灰烬相关的历史复合词。",
+    "intro": "灰烬让人想到残余、灰色、失去血色；白蜡树和木材则另有词源。ashen 因而也要看说的是脸色还是材料。",
+    "forms": "æsce 灰烬词 → ash；树名 æsc → ash；tray 容器，-y 性质，-en 性质或材料。\n\n灰烬与白蜡树接不同古英语形式，现代复数都可写 ashes，按语境分清。",
+    "branches": [
+      [
+        "灰与容器、外观",
+        "ash · ashtray · ashy · ashen"
+      ],
+      [
+        "灰烬相关历史名称",
+        "potash"
+      ],
+      [
+        "ash → ashes：烧后残余；树木同形词另分",
+        "ash · ashes"
+      ]
+    ],
+    "contrasts": "ash tree 不是烧焦的树；ashy 不必真沾灰；ashen 的木制义另从树名理解。",
+    "practice": "Ash covered the ground, and everyone looked ashen.\n\n灰覆着地面，人人脸色灰白。",
+    "words": [
+      "ash",
+      "ashtray",
+      "ashy",
+      "ashen",
+      "potash",
+      "ashes"
+    ],
+    "exclude": {
+      "ash-hole": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ashfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3584",
+    "meaning": "婚礼前后的人物与新娘、婚礼相关事物",
+    "core": "BRIDE：一个新人身份，带出婚礼词汇",
+    "image": "bride → bridal、bridesmaid；bridal 另保留婚宴的历史。",
+    "intro": "今天的 bridal 容易按 bride 的相关形容词记。再多知道一层：它从新娘的酒宴变过来，不是所有看见的后缀都是最初就这样加的。",
+    "forms": "brȳd → bride；brȳd + ealu → brȳdealo → bridal；bride + maid → bridesmaid。",
+    "branches": [
+      [
+        "新人、婚礼性质与伴娘",
+        "bride · bridal · bridesmaid"
+      ]
+    ],
+    "contrasts": "bride 不等于任何时候的 wife；bridal 与 bridle 同音；bridie 等较冷门同形扩展先略过。",
+    "practice": "The bridesmaid helped the bride with her bridal gown.\n\n伴娘帮新娘整理婚纱。",
+    "words": [
+      "bride",
+      "bridal",
+      "bridesmaid"
+    ],
+    "exclude": {
+      "bride-to-be": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bride-ale": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bridie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4256",
+    "meaning": "游客及与旅游、游客特点相关的性质",
+    "core": "TOURIST：谁在游览，地方又呈现怎样的游客气息",
+    "image": "tourist → touristy、touristic。",
+    "intro": "把人物和性质分开：tourist 是游客，touristy 常说游客味浓，touristic 常见于较正式的旅游说明。",
+    "forms": "tour + -ist → tourist；-y、-ic 形成相关性质。",
+    "branches": [
+      [
+        "游客与两类性质表达",
+        "tourist · touristy · touristic"
+      ]
+    ],
+    "contrasts": "touristy 的评价看语境；touristic 也可能与前者重合；实际搭配不必强行用长词代替常见 tourist information 等。",
+    "practice": "Some tourists enjoy the island’s touristy shops.\n\n有些游客喜欢岛上那些游客味浓的商店。",
+    "words": [
+      "tourist",
+      "touristy",
+      "touristic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2664",
+    "meaning": "较宽泛的姑姨、姻亲称谓，及亲昵叫法",
+    "core": "AUNT：英语用一个大类别，中文再按具体亲属关系细分",
+    "image": "aunt → auntie；aunty 是亲昵词的另一拼写。",
+    "intro": "不要把一个中文译词当成它的全部范围。说母亲的姐妹、父亲的姐妹，甚至相关姻亲时，英语都可能用 aunt，再靠背景补清。",
+    "forms": "amita → ante、aunte → aunt；-ie 亲昵称呼。\n\naunt 经法语接拉丁 amita，原有父亲姐妹义，现代不只对应姑母。",
+    "branches": [
+      [
+        "亲属类别与亲昵称呼",
+        "aunt · auntie"
+      ],
+      [
+        "aunt → aunts：父母姐妹及相关姻亲",
+        "aunt · aunts"
+      ]
+    ],
+    "contrasts": "两种常见元音读法都存在；Aunt Mary 等称呼首字母常大写；auntie 的社会称呼用法有文化差异。",
+    "practice": "My aunt smiled when the children called her Auntie.\n\n孩子们叫她阿姨时，我姨妈笑了。",
+    "words": [
+      "aunt",
+      "auntie",
+      "aunts"
+    ],
+    "exclude": {
+      "great-aunt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "aunt-in-law": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "co-aunt": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4092",
+    "meaning": "伸展到两端之间的跨度；相近拼写须辨来源",
+    "core": "SPAN：一只张开的手，带你理解空间与时间",
+    "image": "span → lifespan、wingspan、timespan；spanner 同族工具；spank 单列比较。",
+    "intro": "从手掌量距离，到桥、翅膀、寿命各自跨多远。工具 spanner 与绷紧词族相连，拍打 spank 则不冒充确定的同源词。",
+    "forms": "spann、spannan → span；life 生命，wing 翼，time 时间；德语 Spanner 工具词；spank 常用义来源未定。\n\n与德语 Spanner、spannen 的历史相连，现代可看出 span、er 的对应。",
+    "branches": [
+      [
+        "跨度及其范围",
+        "span · lifespan · wingspan · timespan"
+      ],
+      [
+        "工具词与近形比较",
+        "spanner · spank"
+      ],
+      [
+        "spanner → spanners：绷紧、扳转材料的工具名",
+        "span · spanner · spanners"
+      ]
+    ],
+    "contrasts": "span 可作名词、动词；spanner 的工具史不只现代后缀分析；spank 的拍打义单独认识。",
+    "practice": "The bird’s wingspan was greater than the width of the table.\n\n这只鸟的翼展比桌面宽度还大。",
+    "words": [
+      "span",
+      "lifespan",
+      "wingspan",
+      "timespan",
+      "spanner",
+      "spank",
+      "spanners"
+    ],
+    "exclude": {}
+  }
+]

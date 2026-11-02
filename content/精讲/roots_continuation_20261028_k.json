@@ -1,0 +1,141 @@
+[
+  {
+    "id": "B3108",
+    "meaning": "玩；比赛；表演；演奏；播放",
+    "core": "PLAY：投入一场活动，也把内容演出来、放出来",
+    "image": "同一个动词，孩子玩游戏、球员比赛、演员演戏、设备放歌，各有具体对象。",
+    "intro": "play 接古英语游戏、活动的名词和动词一系。不要把它只记成“玩”：playwright 写戏，airplay 谈播出，player 还可以是设备，playmaker 在场上组织配合。",
+    "forms": "-er 表人也可表设备，-ful 说玩心，-able／-ability 说可玩或可演奏。playwright 的 wright 是工匠材料，playwriting 则用 writing。复合词的两部分并列进入词，roleplay 的 role 不来自 play；短语与连写名词如 play back／playback 也须分句法。\n\nplayed 的词尾读 /d/，与 paid /peɪd/ 的词首不同；具体动作看宾语和搭配。\n\nplayer 的 -er 可表人或设备；players 是其复数，不一律都译成玩家。\n\nplays 可以是现在动词，也可以是一部部剧作。\n\nwright 是工匠，不是同音的 write；戏剧作者借造作品的人命名。\n\nlist 收内容和顺序，back 给把录下内容再放出的用途。\n\nre- 把 play 的播放、比赛动作再做一次；名词、动词的常见重音不同。\n\nplay 与 house 的组合早在古英语已有相应形式，不把合成词都说成现代英语新造。\n\n和 play 比较玩乐场景，不是 play 派生。toy 较早有琐事、玩笑等义，远源未定，可能涉及不止一条材料；后来收窄到供娱乐的东西、儿童玩具。\n\ncostume 服装 + play 扮演等英语材料先用于日语缩合 kosupure，英语再借入 cosplay；不能把中间的日语传播环节完全略掉。",
+    "branches": [
+      [
+        "基础形式与性质",
+        "play · playing · player · playful · playable · playability"
+      ],
+      [
+        "游戏过程与空间",
+        "gameplay · playthrough · playground · playroom · playset · playpen"
+      ],
+      [
+        "同伴与聚会",
+        "playmate · playgroup · playdate"
+      ],
+      [
+        "表演、写作与文本",
+        "screenplay · playwright · playwriting · playbill"
+      ],
+      [
+        "媒体与语言",
+        "replay · playback · playlist · airplay · autoplay · wordplay"
+      ],
+      [
+        "战术、作用与比较",
+        "playbook · playmaker · playmaking · interplay · outplay · overplay"
+      ],
+      [
+        "特定语境",
+        "playboy · foreplay · gunplay · playtime · plaything"
+      ],
+      [
+        "play → played：玩过、演奏过、扮演过",
+        "play · played"
+      ],
+      [
+        "play → player → players：参与者、演奏者和播放器",
+        "player · players"
+      ],
+      [
+        "play → plays：玩、表演与剧作",
+        "play · plays"
+      ],
+      [
+        "play 的戏剧创作者组合及复数",
+        "playwright · playwrights"
+      ],
+      [
+        "play 的待播清单与已录内容回放",
+        "playlist · playlists · playback · playbacks"
+      ],
+      [
+        "replay 的播放、重赛与常用形式",
+        "replay · replays · replayed · replaying"
+      ],
+      [
+        "playhouse 的剧场与儿童游戏屋",
+        "play · playhouse · playhouses"
+      ],
+      [
+        "toy：小玩意，到玩具、随意摆弄",
+        "toy · toys · toyed · toying"
+      ],
+      [
+        "costume + play 经日语再进入英语：角色扮演",
+        "cosplay"
+      ]
+    ],
+    "contrasts": "playful：爱玩、玩笑的；playable：能玩的。playwright：剧作家；playwriting：戏剧写作。outplay：场上胜过；overplay：渲染或表演过头。",
+    "practice": "The player replayed the video to study the playmaker’s decisions.\n\n球员重放视频，研究组织进攻者的判断。",
+    "words": [
+      "play",
+      "playing",
+      "player",
+      "playful",
+      "playable",
+      "playability",
+      "gameplay",
+      "replay",
+      "playground",
+      "playlist",
+      "playboy",
+      "screenplay",
+      "playwright",
+      "playwriting",
+      "playbook",
+      "foreplay",
+      "playmaker",
+      "playmaking",
+      "airplay",
+      "playmate",
+      "roleplay",
+      "wordplay",
+      "playthrough",
+      "playroom",
+      "playset",
+      "playpen",
+      "gunplay",
+      "playgroup",
+      "playdate",
+      "playbill",
+      "outplay",
+      "overplay",
+      "playback",
+      "interplay",
+      "playtime",
+      "plaything",
+      "autoplay",
+      "played",
+      "players",
+      "plays",
+      "playwrights",
+      "playlists",
+      "playbacks",
+      "replays",
+      "replayed",
+      "replaying",
+      "playhouse",
+      "playhouses",
+      "toy",
+      "toys",
+      "toyed",
+      "toying",
+      "cosplay"
+    ],
+    "exclude": {
+      "by-play": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "play-by-play": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "self-play": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "gamble-play": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "playfield": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "playland": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

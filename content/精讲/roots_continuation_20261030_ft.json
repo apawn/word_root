@@ -1,0 +1,75 @@
+[
+  {
+    "id": "B3136",
+    "meaning": "硬壳果物，再借小块、壳与人物俚语",
+    "core": "NUT：先分吃的、机械件和人物口语",
+    "image": "nut → nutty、nutter、nutcase；nutshell 壳；peanut、coconut、chestnut、hazelnut、butternut 分食物；doughnut 接小面团；nutcracker、nuthatch 接敲开。",
+    "intro": "食物名字是生活分类，未必等于植物学定义。人物俚语是评价口吻，doughnut 也不保证加坚果。先选词义分支，再拆。",
+    "forms": "hnutu → nut；+ -y/-er；nut + case/shell/cracker；pea/coco/chest(en)/hazel/butter/dough + nut；nut + hatch〔劈开旧材料〕。\n\n本族坚果词，机械形状及人物口语用途后扩展。\n\nwalnut 的组合继承古英语，不是现代英语 wall 加 nut；peanut 为英语可认的 pea 加 nut，历史还有其他名称影响分析。\n\ncoco 借西班牙、葡萄牙语鬼脸等称呼，果壳三处凹点像面孔；再接 nut。复数加在整个 coconut 末尾，不把 cocoa 可可混进同一水果来源。\n\nchestnut 的前部是经法语、拉丁语传下的栗子旧名，后来又加 nut；hazelnut 则是古老的 hazel 榛树 + nut 果实复合，不能把 chestnut 前部当现代箱子 chest。\n\n现代可借 nut 认果实形象；历史名称经法语坚果、麝香气味的材料改形，不把 meg 当现代 mega- 百万的缩略。",
+    "branches": [
+      [
+        "基础与人物性质",
+        "nut · nutty · nutter · nutcase"
+      ],
+      [
+        "壳与食物名称",
+        "nutshell · peanut · groundnut · coconut · chestnut · hazelnut · butternut · doughnut"
+      ],
+      [
+        "处理工具、鸟与机械组合",
+        "nutcracker · nuthatch · wingnut"
+      ],
+      [
+        "nut → nuts：坚果、螺母与口语",
+        "nut · nuts"
+      ],
+      [
+        "nut 的两种组合：walnut 外来坚果；peanut 豆类坚果名",
+        "nut · walnut · walnuts · peanut · peanuts"
+      ],
+      [
+        "coconut → coconuts：像一张脸的果壳",
+        "coconut · coconuts"
+      ],
+      [
+        "chestnuts、hazelnuts：栗子与榛子的复数",
+        "chestnut · chestnuts · hazelnut · hazelnuts"
+      ],
+      [
+        "nutmeg：有麝香气味的果实名称材料",
+        "nutmeg"
+      ]
+    ],
+    "contrasts": "coconut/cocoa 椰子可可；doughnut 的 nut 不保证坚果；nuthatch 的 hatch 不指孵蛋；nutty 风味不保证配料。",
+    "practice": "In a nutshell, the nutcracker opens nuts, but a doughnut need not contain any.\n\n简单说，坚果夹用来开坚果，但甜甜圈未必含坚果。",
+    "words": [
+      "nut",
+      "nutty",
+      "nutter",
+      "nutcase",
+      "nutshell",
+      "peanut",
+      "groundnut",
+      "coconut",
+      "chestnut",
+      "hazelnut",
+      "butternut",
+      "doughnut",
+      "nutcracker",
+      "nuthatch",
+      "wingnut",
+      "nuts",
+      "walnut",
+      "walnuts",
+      "peanuts",
+      "coconuts",
+      "chestnuts",
+      "hazelnuts",
+      "nutmeg"
+    ],
+    "exclude": {
+      "nut-head": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nut-brown": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "word": "cabin",
+    "ipa": "/ˈkæbɪn/",
+    "meaning": "小木屋；船舱、机舱；〔船上等的〕小房间",
+    "sense": "林子里一间朴素的小屋是 cabin；把视线移到船、飞机里，较小或封闭的内部空间也可这样叫。",
+    "split": "经古法语 cabane 等形式进入中古英语，较远来源常联系晚期拉丁 capanna 小屋。这里 cab 并不是出租车的 cab 加 -in。",
+    "history": [
+      [
+        "古法语 cabane 等 → 中古英语 cabane／cabin",
+        "小屋、简朴住处"
+      ],
+      [
+        "英语 cabin",
+        "小屋；船舱、机舱等内部空间"
+      ]
+    ],
+    "explanation": "a log cabin 小木屋；a ship’s cabin 船上舱室；cabin crew 客舱机组。船上 cabin 可是单独卧舱，飞机 cabin 也可指整个乘客舱区。",
+    "usage": "a log cabin；cabin crew；the aircraft cabin。",
+    "contrast": "cabin 不等于所有客房 room；cab 出租车的词形缩短有另一条具体历史，不能把它当 cabin 词根来回推。",
+    "examples": [
+      [
+        "They spent the weekend in a cabin by the lake.",
+        "他们周末住在湖边的一间小屋里。"
+      ],
+      [
+        "The cabin crew asked us to fasten our seat belts.",
+        "客舱机组请我们系好安全带。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cabin#English"
+    ]
+  },
+  {
+    "word": "cabinet",
+    "ipa": "/ˈkæbɪnət/",
+    "meaning": "柜子；〔政府〕内阁",
+    "sense": "文件收进带门的柜子，是 cabinet；大臣们组成的决策班子，也叫 cabinet。两个意思由早期小房间、私室的用途联系起来。",
+    "split": "与法语 cabinet 小房间相接，含 cabane 小屋的指小材料，与 cabin 同族；英语也可按 cabin + -et 看出形式关系。早期私室、珍藏空间等用法，再发展到柜子及议政群体。",
+    "history": [
+      [
+        "法语 cabinet：与 cabane 小屋的指小关系",
+        "小房间、收藏或私用空间"
+      ],
+      [
+        "英语 cabinet 的不同用途扩展",
+        "储物柜；议政班子、内阁"
+      ]
+    ],
+    "explanation": "a filing cabinet 文件柜；a kitchen cabinet 厨房柜；a cabinet minister 内阁大臣。政治义是以议事空间联系到在那里议事的人，不是把官员比成柜子。",
+    "usage": "a kitchen cabinet；a cabinet meeting。",
+    "contrast": "cabinet 柜子通常有门、用于存放；cabin 是小屋、舱室。政治语境 Cabinet 的写法受文体影响，但不会因为大小写不同就变成另一个词根。",
+    "examples": [
+      [
+        "The plates are in the cabinet above the sink.",
+        "盘子在水槽上方的柜子里。"
+      ],
+      [
+        "The proposal was discussed at a cabinet meeting.",
+        "这项提议在一次内阁会议上进行了讨论。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/cabinet"
+    ]
+  },
+  {
+    "word": "bucket",
+    "ipa": "/ˈbʌkɪt/",
+    "meaning": "桶；一桶的量",
+    "sense": "带提手的容器，装水、提水、倒水，最典型就是 a bucket。",
+    "split": "中古英语 buket／boket，与盎格鲁法语 buquet 等容器词及更早日耳曼语鼓起、腹部、容器材料有关；有指小后缀 -et 的分析，具体传入关系并非只靠现代 buck 就能确定。",
+    "history": [
+      [
+        "早期日耳曼容器材料；盎格鲁法语 buquet 等",
+        "肚腹、空腔形容器的命名关系"
+      ],
+      [
+        "中古英语 buket／boket → bucket",
+        "提水、装物的桶及容量用法"
+      ]
+    ],
+    "explanation": "a bucket of water 一桶水；a bucket and spade 海边玩沙用的小桶和铲。计算中 bucket 也可比喻分组容器，bucket list 是想完成的体验清单这一固定说法。",
+    "usage": "a bucket of；fill a bucket；a bucket list。",
+    "contrast": "pail 常与提水桶接近；barrel 更常是圆桶、桶装容器的类型。bucket 不由 buck 雄鹿的动作自然推出来，kick the bucket 的来源也不能随意编故事。",
+    "examples": [
+      [
+        "He carried a bucket of water into the garden.",
+        "他提了一桶水到花园里。"
+      ],
+      [
+        "Put the empty bucket under the tap.",
+        "把空桶放在水龙头下面。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/bucket"
+    ]
+  },
+  {
+    "word": "tablet",
+    "ipa": "/ˈtæblət/",
+    "meaning": "平板电脑；药片；小块扁平板、碑板",
+    "sense": "共同外形是小而扁平的一块：刻字的小板、压成片的药，再到可手持操作的平板电脑。",
+    "split": "中古英语借古法语 tablete，是 table 平板、桌面材料的指小形式，接 -et；英语 table 与它同族，但现代各项意思已固定，不能只译作小桌子。",
+    "history": [
+      [
+        "古法语 table → tablete",
+        "平板材料的指小形式"
+      ],
+      [
+        "英语 tablet",
+        "小板、药片；现代平板设备"
+      ]
+    ],
+    "explanation": "a stone tablet 石碑、石板；a tablet computer 平板电脑；a vitamin tablet 维生素片。",
+    "usage": "a tablet computer；a stone tablet；a vitamin tablet。",
+    "contrast": "tablet 药片强调压成的固体片剂；capsule 胶囊是另一种外形。技术语境 tablet 不一定有键盘，具体产品形式需看设备。",
+    "examples": [
+      [
+        "She sketched the design on her tablet.",
+        "她在平板电脑上画了设计草图。"
+      ],
+      [
+        "The inscription was carved on a stone tablet.",
+        "铭文刻在一块石板上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tablet#English"
+    ]
+  },
+  {
+    "word": "snip",
+    "ipa": "/snɪp/",
+    "meaning": "快速剪一下；剪下一小段；一小剪、一小片",
+    "sense": "剪刀咔嚓一下，只剪掉细细一截，是 snip；不像 cut 那么宽泛，通常让人看到小而快的一剪。",
+    "split": "从低地日耳曼语一带相关剪切词进入或与其相关，常比较荷兰语、低地德语 snippen。更深来源不必按现代 snap、nip 任意拼装。",
+    "history": [
+      [
+        "日耳曼语相关剪切词",
+        "迅速剪断、剪下一点"
+      ],
+      [
+        "英语 snip",
+        "一小剪的动作；剪下的片段"
+      ]
+    ],
+    "explanation": "snip off the end 把末端剪掉；a quick snip 快速一剪。过去式 snipped、现在分词 snipping，末尾 p 按拼写规则双写。",
+    "usage": "snip off；snip through；a quick snip。",
+    "contrast": "snip 强调一小剪，rip 是撕，slice 是切片；都可造成分离，动作、工具和形状并不相同。",
+    "examples": [
+      [
+        "Snip off the loose thread with scissors.",
+        "用剪刀把松线头剪掉。"
+      ],
+      [
+        "She gave the ribbon a quick snip.",
+        "她把丝带快速剪了一下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/snip#English"
+    ]
+  },
+  {
+    "word": "snippet",
+    "ipa": "/ˈsnɪpɪt/",
+    "meaning": "小片段；零星消息；短段代码或文字",
+    "sense": "把一大段内容剪出一点点给你看：一小段对话、一条消息、几行代码，都是 snippet 的常见画面。",
+    "split": "snip 剪下一点 + -et 指小材料，表示剪出的一小块，后来用于信息、文字、声音等片段。",
+    "history": [
+      [
+        "snip + -et",
+        "剪出的小片"
+      ],
+      [
+        "snippet 的内容用法",
+        "消息、文字、音频、代码的小片段"
+      ]
+    ],
+    "explanation": "a snippet of conversation 一小段谈话；a code snippet 一小段代码；snippets of information 零星信息。可能只是原文一角，不能自动代表全部意思。",
+    "usage": "a snippet of；code snippets；news snippets。",
+    "contrast": "summary 是概括主要内容；snippet 只是一个短片段，未必概括全貌，也未必完整到能直接执行。",
+    "examples": [
+      [
+        "I overheard a snippet of their conversation.",
+        "我无意中听到了他们的一小段谈话。"
+      ],
+      [
+        "The guide includes a short code snippet for each step.",
+        "指南为每个步骤都附了一小段代码。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/snippet#English"
+    ]
+  },
+  {
+    "word": "nugget",
+    "ipa": "/ˈnʌɡɪt/",
+    "meaning": "小块〔金属、食物等〕；一条有价值的信息",
+    "sense": "一堆砂石里找到一小块金子，再把这个画面转到信息里：长篇内容中一条真正有用的见解。",
+    "split": "来源尚不完全确定，常见分析联系方言 nug 块 + 指小 -et，也有其他解释。金块义很早明确出现；不能为方便记忆就把不确定的 nug 编成拉丁词根。",
+    "history": [
+      [
+        "可能的方言块状材料 + -et；具体来源未定",
+        "块、团的命名关系"
+      ],
+      [
+        "英语 nugget 的常见扩展",
+        "金块、食物块；有用信息的小块"
+      ]
+    ],
+    "explanation": "a gold nugget 金块；chicken nuggets 鸡块；a nugget of wisdom 一条有用的智慧、见解。信息义经常带有小而有价值的评价。",
+    "usage": "gold nuggets；chicken nuggets；a nugget of information。",
+    "contrast": "nugget 小块通常有相对实在、集中成块的感觉；crumb 碎屑更碎，snippet 内容片段未必自带有价值的评价。",
+    "examples": [
+      [
+        "They found a small gold nugget in the stream.",
+        "他们在溪流里找到了一小块金子。"
+      ],
+      [
+        "The interview contained a few useful nuggets of advice.",
+        "访谈里有几条很有用的建议。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/nugget"
+    ]
+  },
+  {
+    "word": "corset",
+    "ipa": "英 /ˈkɔːsɪt/；美 /ˈkɔːrsɪt/",
+    "meaning": "束身衣；紧身胸衣",
+    "sense": "一种贴合、支撑或塑造躯干外形的衣物，常在服装史、舞台服装里出现。",
+    "split": "借古法语 corset，含 cors 身体、躯干材料和指小 -et；cors 远接拉丁 corpus。这里与英语 corse 的历史词形有联系，不是 course 课程去掉字母。",
+    "history": [
+      [
+        "古法语 cors + -et → corset",
+        "与身体、躯干有关的小件衣物名"
+      ],
+      [
+        "英语 corset",
+        "固定为特定贴身、塑形服装"
+      ]
+    ],
+    "explanation": "a Victorian corset 维多利亚时代的束身衣；wear a corset 穿束身衣。具体结构因时代、用途而异，不能只靠词源说所有 corset 都同一个样式。",
+    "usage": "wear a corset；a tightly laced corset。",
+    "contrast": "corset 与普通 bra 胸罩不是完全相同的衣物类型；corpus 身体材料也不能据此把每个 cor- 开头的词都认成同源。",
+    "examples": [
+      [
+        "The exhibition displayed corsets from different periods.",
+        "展览展示了不同时期的束身衣。"
+      ],
+      [
+        "The costume designer added a corset to the stage outfit.",
+        "服装设计师为舞台服装加了一件束身衣。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/corset#English"
+    ]
+  },
+  {
+    "word": "trinket",
+    "ipa": "/ˈtrɪŋkɪt/",
+    "meaning": "小饰物；小玩意儿〔常指便宜、装饰性的物件〕",
+    "sense": "旅行纪念品摊上那些小挂件、小亮片饰品，好看、可收藏，但通常不是实用大件，就是 trinkets。",
+    "split": "具体来源不明，词形有指小色彩，有与 trick 的旧玩物义等联系的解释，但证据不足以断言确定的 trink + -et 来历。",
+    "history": [
+      [
+        "十六世纪英语 trinket 的早期用法",
+        "小装饰品、小玩意儿"
+      ],
+      [
+        "现代 trinket",
+        "饰物、纪念品等小件物品"
+      ]
+    ],
+    "explanation": "cheap trinkets 便宜小饰物；a box of trinkets 一盒小玩意儿。价格常低、装饰用途常见，但对个人有纪念价值也不矛盾。",
+    "usage": "a silver trinket；souvenir trinkets。",
+    "contrast": "jewellery 可包括贵重珠宝，trinket 更强调小件、通常不昂贵；不要把来源不明硬讲成“骗人的小东西”。",
+    "examples": [
+      [
+        "The market stalls sold postcards and colourful trinkets.",
+        "集市摊位卖明信片和五颜六色的小饰物。"
+      ],
+      [
+        "She kept a few childhood trinkets in a wooden box.",
+        "她把童年留下的几件小玩意儿放在木盒里。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/trinket"
+    ]
+  },
+  {
+    "word": "badge",
+    "ipa": "/bædʒ/",
+    "meaning": "徽章；标志；〔软件中〕小标记、角标",
+    "sense": "胸前一枚小牌子，让人一眼看出身份、归属或成就；软件里那枚小标记也借用了同一个画面。",
+    "split": "中古英语 bagge 与盎格鲁法语 bage、相关拉丁化形式相连，更远来源不确定。不能按 bag 袋子加后缀来解释这枚徽章。",
+    "history": [
+      [
+        "中古英语 bagge 等；更远来源不定",
+        "身份、归属等的标记"
+      ],
+      [
+        "现代 badge",
+        "实体徽章；象征标志、数字角标等"
+      ]
+    ],
+    "explanation": "an ID badge 身份证件牌；a badge of honour 光荣的象征；a notification badge 通知角标。a badge of shame 则可转为耻辱标记，评价来自后面的内容。",
+    "usage": "wear a badge；an ID badge；a badge of honour。",
+    "contrast": "badge 往往说明身份、归属、成就；logo 是图形或文字标识，label 标签范围更广。某些软件 badge 并不能自动证明身份已由可靠来源核实。",
+    "examples": [
+      [
+        "Please wear your visitor badge inside the building.",
+        "在楼内请佩戴访客证。"
+      ],
+      [
+        "A red badge appeared on the app icon.",
+        "应用图标上出现了一个红色角标。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/badger"
+    ]
+  },
+  {
+    "word": "badger",
+    "ipa": "英 /ˈbædʒə/；美 /ˈbædʒər/",
+    "meaning": "獾；反复纠缠、催问",
+    "sense": "名词是一种穴居动物；动词则像不停追着问“到底答不答应”，让对方很烦。",
+    "split": "动物名可能来自 badge 的旧形式 + -ard，联系其头部像徽记的斑纹，但这不是完全确定的解释。动词纠缠、骚扰义与历史上围攻獾的活动有关，不是证明獾天生爱烦人。",
+    "history": [
+      [
+        "动物名 badger；可能联系 badge + -ard",
+        "以外部斑纹命名的分析，仍有不确定性"
+      ],
+      [
+        "由动物名转成动词",
+        "持续围扰、纠缠某人"
+      ]
+    ],
+    "explanation": "a badger 獾；badger someone for an answer 追着某人要答案；badger someone into doing 反复纠缠直到对方去做。",
+    "usage": "badger someone about；badger someone for。",
+    "contrast": "ask 是问，badger 强调没完没了、令人烦恼的逼问；badger 不等于 bear 熊，两种动物也不是只因体形有点像就同源。",
+    "examples": [
+      [
+        "A badger crossed the path at dusk.",
+        "黄昏时，一只獾穿过了小路。"
+      ],
+      [
+        "Stop badgering her for an answer; she needs time.",
+        "别再追着她要答案了；她需要时间。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/badger"
+    ]
+  },
+  {
+    "word": "buzzard",
+    "ipa": "英 /ˈbʌzəd/；美 /ˈbʌzərd/",
+    "meaning": "鵟〔一类猛禽〕；美式口语中也可指兀鹫等食腐猛禽",
+    "sense": "看英国自然节目，buzzard 常是一类鹰科猛禽；听美国人口语，它也可能是在说兀鹫。先看地域和语境。",
+    "split": "经古法语 buisart／busart 等鸟名进入，通常联系拉丁 buteo 一类鸟名和 -ard／-art 材料；具体形成细节不完全清楚。不是 buzz 嗡嗡叫加任意尾巴。",
+    "history": [
+      [
+        "古法语相关鸟名；联系更早 buteo 的分析",
+        "猛禽名称的历史传入"
+      ],
+      [
+        "英语 buzzard 的地域扩展",
+        "鵟；北美部分用法的食腐猛禽"
+      ]
+    ],
+    "explanation": "a common buzzard 普通鵟；buzzards circling overhead 猛禽在头顶盘旋。读鸟类资料时用具体名称确认，不把地区口语当严格分类通则。",
+    "usage": "a common buzzard；a soaring buzzard。",
+    "contrast": "buzzard 与 vulture 在部分美式口语里有重合，但严格动物分类并非完全同义；buzz 的声音联想不是这个词已经证明的近源。",
+    "examples": [
+      [
+        "A buzzard circled above the field.",
+        "一只鵟在田野上空盘旋。"
+      ],
+      [
+        "The guide explained that buzzard can refer to different birds in different regions.",
+        "向导解释说，buzzard 在不同地区可以指不同的鸟。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/buzzard"
+    ]
+  },
+  {
+    "word": "placard",
+    "ipa": "英 /ˈplækɑːd/；美 /ˈplækɑːrd/",
+    "meaning": "标语牌；公告、告示牌",
+    "sense": "游行队伍里举着写有大字的一块牌，或墙上贴着让人注意的公告，都是 placard 的典型场景。",
+    "split": "经法语 placard／placquard 等形式进入，较早涉及正式文件、贴附的材料，进一步联系荷兰语贴、补块一类材料。与 plaque 同族，末尾不是英语 card 卡片独立拼上去。",
+    "history": [
+      [
+        "法语 placard 等及更早贴附材料",
+        "正式文件、贴出的文字等"
+      ],
+      [
+        "英语 placard",
+        "供公众注意的公告、标语牌"
+      ]
+    ],
+    "explanation": "carry placards 举着标语牌；a warning placard 警示牌。可以是纸张或硬板上的文字标志，不要求每一块都贴在墙上。",
+    "usage": "carry a placard；protest placards。",
+    "contrast": "poster 常突出张贴的海报；placard 很适合说有简短大字、拿来展示的标语牌。两者可能重合，不能只按材料硬分。",
+    "examples": [
+      [
+        "The demonstrators carried placards calling for cleaner air.",
+        "示威者举着呼吁改善空气的标语牌。"
+      ],
+      [
+        "A placard beside the door announced the opening hours.",
+        "门旁的告示牌写着营业时间。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/placard"
+    ]
+  },
+  {
+    "word": "bollard",
+    "ipa": "英 /ˈbɒlɑːd/；美 /ˈbɑːlərd/",
+    "meaning": "〔道路〕隔离柱；〔码头〕系船柱",
+    "sense": "人行道入口一排短柱，让行人可以穿过、汽车进不去；码头上用于系船的粗柱也是 bollard。",
+    "split": "可能来自 bole 树干 + -ard，先用于结实的码头立柱，后来扩展到交通控制柱。这个来源保留可能性，不拆成 ball 球加硬凑的后缀。",
+    "history": [
+      [
+        "可能的 bole + -ard",
+        "树干样的粗立柱命名"
+      ],
+      [
+        "bollard 用途扩展",
+        "系船柱；道路隔离柱"
+      ]
+    ],
+    "explanation": "a row of bollards 一排隔离柱；a mooring bollard 系船柱。语境决定它是拦车还是供船系缆。",
+    "usage": "traffic bollards；a mooring bollard。",
+    "contrast": "barrier 泛指障碍、护栏；bollard 具体常是短而坚固的柱状设施，不把所有路障都叫 bollard。",
+    "examples": [
+      [
+        "Bollards prevent cars from entering the pedestrian area.",
+        "隔离柱防止汽车进入步行区。"
+      ],
+      [
+        "The rope was secured to a bollard on the dock.",
+        "绳子固定在码头的系船柱上。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/bollard"
+    ]
+  }
+]

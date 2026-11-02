@@ -1,0 +1,120 @@
+[
+  {
+    "id": "B4237",
+    "meaning": "专业方式、专业素养与不专业",
+    "core": "PROFESSIONAL：看身份，也看做事标准",
+    "image": "基本 professional 已精讲，本页接方式副词、态度名词、否定形容词。",
+    "intro": "职业词族历史接公开声明、所从事领域。现代 professional 不只表示收钱，也能评价行为水准。",
+    "forms": "professional → professionally、professionalism；un- → unprofessional。\n\n职业人士义缩自 professional；pros and cons 的 pro 直接接拉丁 pro 为、赞成，不是先有专业人士才有赞成理由。",
+    "branches": [
+      [
+        "基本词与方式、素养",
+        "professional · professionally · professionalism"
+      ],
+      [
+        "否定标准",
+        "unprofessional"
+      ],
+      [
+        "pro：专业人士；另一支是赞成理由",
+        "pro · pros"
+      ]
+    ],
+    "contrasts": "professionally play 可能职业身份，professionally handle 专业方式；amateur 身份不自动等于 unprofessional。",
+    "practice": "Her professionalism helped her handle the dispute professionally.\n\n她的专业素养帮助她专业地处理争端。",
+    "words": [
+      "professional",
+      "professionally",
+      "professionalism",
+      "unprofessional",
+      "pro",
+      "pros"
+    ],
+    "exclude": {
+      "semi-professional": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4552",
+    "meaning": "参与与不参与",
+    "core": "INVOLVED：卷入其中；UNINVOLVED：在事情之外",
+    "image": "已有 involved 与 uninvolved 放一起读，区分行动参与和情感投入两种语境。",
+    "intro": "词族接卷入的拉丁形象，现代未参与不要求人真的站在圈外。",
+    "forms": "involve → involved；un- + involved → uninvolved。",
+    "branches": [
+      [
+        "参与状态与否定",
+        "involved · uninvolved"
+      ]
+    ],
+    "contrasts": "uninvolved 未参与，unaware 不知道；uninvolved 不一定表示冷漠。",
+    "practice": "She knew the people involved but remained uninvolved herself.\n\n她认识涉事人员，但自己没有参与。",
+    "words": [
+      "involved",
+      "uninvolved"
+    ],
+    "exclude": {
+      "self-involved": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3107",
+    "meaning": "数数词与同形贵族称谓分源",
+    "core": "COUNT：计数之外还有伯爵；COUNTESS 接贵族义",
+    "image": "计数词族已精讲，本页将 countess 放入贵族分支，明确与 count numbers 分源。",
+    "intro": "计数 count 接拉丁 computare，贵族 count 接 comes、comitem。相同拼写不能把头衔解释成数字操作。",
+    "forms": "计数 count → counter、countless、countable、countdown、recount、headcount；贵族 count → countess。",
+    "branches": [
+      [
+        "已有计数词族",
+        "count · counter · countless · countable · countdown · recount · headcount"
+      ],
+      [
+        "另源贵族分支",
+        "countess"
+      ]
+    ],
+    "contrasts": "countess 接伯爵义，不是数数的女性人物；两条来源要分开。",
+    "practice": "The countess asked the clerk to count the invitations.\n\n伯爵夫人请职员数一数请柬。",
+    "words": [
+      "count",
+      "counter",
+      "countless",
+      "countable",
+      "countdown",
+      "recount",
+      "headcount",
+      "countess"
+    ],
+    "exclude": {
+      "non-count": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2897",
+    "meaning": "写作按媒介和作品类型扩展",
+    "core": "WRITING：再看屏幕、舞台、歌曲和手写",
+    "image": "已有 writing、handwriting、songwriting、playwriting 共享；新增 screenwriting 补影视媒介。",
+    "intro": "writing 来自 write 词族的动作名词；复合前部说明媒介或作品，不是所有屏幕打字都算编剧。",
+    "forms": "screen/hand/song/play + writing。",
+    "branches": [
+      [
+        "写作及其类型",
+        "writing · handwriting · songwriting · playwriting · screenwriting"
+      ]
+    ],
+    "contrasts": "screenwriting 写影视剧本，playwriting 写舞台剧本；writing 不只英语作文。",
+    "practice": "Her screenwriting grew out of years of playwriting.\n\n她在多年舞台剧创作的基础上开始影视编剧。",
+    "words": [
+      "writing",
+      "handwriting",
+      "songwriting",
+      "playwriting",
+      "screenwriting"
+    ],
+    "exclude": {
+      "e-writing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "wedge-writing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

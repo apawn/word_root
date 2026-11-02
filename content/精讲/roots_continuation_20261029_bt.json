@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B2672",
+    "meaning": "热；辣；热门；激烈",
+    "core": "HOT：身体上的热，借给强烈刺激和活跃状态",
+    "image": "温度高是起点；辣、热门、激烈都是现代常见约定用法，不是遇到每个词都能自由替换。",
+    "intro": "hot 接古英语 hāt。派生 hotness、hotly 后，先按语境确定说温度、辣度，还是情绪与竞争。",
+    "forms": "hot → hotness、hotly；hotline 是联系线；hotbed、hothouse 是生长环境；hotshot、hothead、hottie 各说不同人的特征；再看 hotfix、superhot。\n\n比较级和最高级都双写 t 后加完整后缀；也是辣度、热度的语境扩展。\n\n热提供活跃、集中等比喻，网络热点是其中固定用法，不能全按温度高来译。",
+    "branches": [
+      [
+        "性质与程度",
+        "hot · hotness · hotly"
+      ],
+      [
+        "联系与生长环境",
+        "hotline · hotbed · hothouse"
+      ],
+      [
+        "人物称呼",
+        "hotshot · hothead · hottie"
+      ],
+      [
+        "其他现代组合",
+        "hotfix · superhot"
+      ],
+      [
+        "hot → hotter → hottest：热、更热、最热",
+        "hot · hotter · hottest"
+      ],
+      [
+        "hotspot 的集中、活跃与网络用途",
+        "hot · hotspot · hotspots"
+      ]
+    ],
+    "contrasts": "hotshot 能人，hothead 易怒者，hottie 性感的人；hotly 常说激烈地，不直接替换 hot 温度高。",
+    "practice": "The hotshot’s proposal became a hot topic and was hotly debated.\n\n那位能人的提议成了热门话题，引发激烈讨论。",
+    "words": [
+      "hot",
+      "hotness",
+      "hotly",
+      "hotline",
+      "hotbed",
+      "hothouse",
+      "hotshot",
+      "hothead",
+      "hottie",
+      "hotfix",
+      "superhot",
+      "hotter",
+      "hottest",
+      "hotspot",
+      "hotspots"
+    ],
+    "exclude": {
+      "one-hot": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hot-press": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "hot-wire": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2671",
+    "meaning": "冷；冷淡；另有感冒名词义",
+    "core": "COLD：温度不暖，态度也可不暖",
+    "image": "身体觉得冷与人际感觉冷分开看；感冒是固定名词用法，不能仅凭词名倒推全部病因。",
+    "intro": "cold 接古英语 cald、ċeald。coldly、coldness 继续从冷淡或低温的具体语境理解，不必每次都解释成天气。",
+    "forms": "cold → coldly、coldness；cold call、cold reception 等短语在基础词中看。\n\ncold 继承古英语 cald、ċeald 等；现代比较形式可比温度，也可比态度是否冷淡。",
+    "branches": [
+      [
+        "温度、态度及固定名词义",
+        "cold"
+      ],
+      [
+        "态度方式与性质",
+        "coldly · coldness"
+      ],
+      [
+        "cold → colder → coldest：温度低与态度冷淡",
+        "cold · colder · coldest"
+      ]
+    ],
+    "contrasts": "I’m cold 我觉得冷；I have a cold 我感冒了。calmly 平静地不必等于 coldly 冷淡地。",
+    "practice": "The coldness of the room was easier to bear than the coldness of his welcome.\n\n比起他欢迎时的冷淡，房间里的寒冷反而更容易忍受。",
+    "words": [
+      "cold",
+      "coldly",
+      "coldness",
+      "colder",
+      "coldest"
+    ],
+    "exclude": {
+      "one-cold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ice-cold": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cold-drawn": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cold-sensitive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cold-hearted": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coldwater": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "landed",
+    "ipa": "/ˈlændɪd/",
+    "meaning": "降落、到岸了；成功获得；有地产的〔过去式、过去分词及形容词〕",
+    "sense": "从空中或水上回到稳稳的地面，是 landed 的基本动作。机会终于到手，也像脚落稳了一样，可以说 landed a job。",
+    "split": "land + -ed，/d/ 后读 /ɪd/。land 继承古英语陆地词，动词由陆地、到岸的名词意象发展。有土地的 landed 形容词另可按名词加 ed 理解。",
+    "history": [
+      [
+        "古英语 land → 英语 land 名词、动词",
+        "陆地 → 到岸、降落；后扩到成功拿到"
+      ],
+      [
+        "land + -ed → landed",
+        "降落、取得已发生；也可表示拥有地产"
+      ]
+    ],
+    "explanation": "landed safely 安全着陆；landed a role 拿到了一个角色；landed on the desk 落到了桌上。",
+    "usage": "landed a job 得到职位；a landed family 有地产的家族。",
+    "contrast": "landed a job 是拿到工作；landed in trouble 是陷入麻烦，landed 并不保证后果总是好事。有土地的形容词常见于历史等材料。",
+    "examples": [
+      [
+        "The plane landed just before noon.",
+        "飞机在临近中午时降落了。"
+      ],
+      [
+        "She landed a role in the school play.",
+        "她拿到了校园剧中的一个角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/landed#English",
+      "https://en.wiktionary.org/wiki/land#English"
+    ]
+  },
+  {
+    "word": "assuming",
+    "ipa": "英 /əˈsjuːmɪŋ/；美 /əˈsuːmɪŋ/",
+    "meaning": "假定、以为；承担〔现在分词、动名词〕；假如、假设……的话",
+    "sense": "先把一个前提拿过来当真，再从它往下想，是 assuming 的常见感觉。接过一个职位、责任，则是另一种把东西拿到自己身上的用法。",
+    "split": "assume 去 e 加 -ing → assuming。assume 接拉丁 ad- 与 sumere 拿取，d 在 s 前同化；assuming that 还可发展为提出条件的连接结构。",
+    "history": [
+      [
+        "拉丁 ad- 与 sumere → assumere → assume",
+        "取到自己这边 → 假定、承担"
+      ],
+      [
+        "assume 去 e 加 -ing → assuming",
+        "正在假定、承担；固定结构提出假设条件"
+      ]
+    ],
+    "explanation": "assuming that 假定……；assuming responsibility 承担责任；assuming the role 接任角色。",
+    "usage": "Assuming the weather stays fine, ... 假如天气继续晴好，……。",
+    "contrast": "I am assuming that 是我正在作假定；Assuming that 开头可直接引出条件。假定不等于已有证据证实。",
+    "examples": [
+      [
+        "We are assuming that the room will be available.",
+        "我们暂且假定这个房间届时能用。"
+      ],
+      [
+        "Assuming the weather stays fine, we can eat outside.",
+        "假如天气继续晴好，我们可以在外面吃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assuming#English",
+      "https://en.wiktionary.org/wiki/assume#English"
+    ]
+  },
+  {
+    "word": "directions",
+    "ipa": "/dəˈrekʃənz/，也读 /daɪˈrekʃənz/",
+    "meaning": "方向；指路信息、操作说明〔复数〕",
+    "sense": "往哪边走，是 directions 的方向义；“先到这里，再转过去”这种带着人一步步走的指示，又成了指路、操作说明。",
+    "split": "direction + -s，/n/ 后读 /z/。direction 经法语 direccion 和拉丁 directio 的借入路线接 dirigere 引导、使直；名词有自己的历史。",
+    "history": [
+      [
+        "拉丁 dirigere、directio → 法语等 → direction",
+        "引向一定方向 → 方向、指导"
+      ],
+      [
+        "direction + -s → directions",
+        "多个方向；常用来指具体的指路、操作说明"
+      ]
+    ],
+    "explanation": "ask for directions 问路；follow the directions 按说明做；in different directions 朝不同方向。",
+    "usage": "directions to the station 去车站的路线指示；directions for use 使用说明。",
+    "contrast": "directions 是怎么走、怎么做的指示；an address 是目的地地址。知道地址还可能需要 directions 才能找到路。",
+    "examples": [
+      [
+        "We asked a passerby for directions to the station.",
+        "我们向一位路人询问去车站的路。"
+      ],
+      [
+        "Read the directions before assembling the shelf.",
+        "组装架子前先阅读说明。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/directions#English",
+      "https://en.wiktionary.org/wiki/direction#English"
+    ]
+  },
+  {
+    "word": "explaining",
+    "ipa": "/ɪkˈspleɪnɪŋ/",
+    "meaning": "解释、说明〔现在分词、动名词〕",
+    "sense": "原来挤在一起、不知道怎么回事的内容，被一点点摊开，关系就看清了。这是 explaining 的历史画面与现代作用。",
+    "split": "explain + -ing，直接加 ing。explain 接拉丁 ex- 向外与 planare 使平所成 explanare，经法语和拉丁借入；较早就有阐明义。",
+    "history": [
+      [
+        "拉丁 explanare → 法语、拉丁借入 → explain",
+        "铺平、展开 → 阐明、讲清楚"
+      ],
+      [
+        "explain + -ing → explaining",
+        "正在让人明白；解释这一活动"
+      ]
+    ],
+    "explanation": "explaining a process 解释过程；explaining why 说明为什么；explaining something to someone 向某人解释某事。",
+    "usage": "a diagram explaining the steps 说明步骤的示意图；without explaining why 没说明原因。",
+    "contrast": "explain something to someone，通常把事直接放动词后，把人放 to 后；不说 explain someone something 来照搬 tell 的结构。",
+    "examples": [
+      [
+        "The teacher is explaining how the machine works.",
+        "老师正在解释这台机器怎样工作。"
+      ],
+      [
+        "Thank you for explaining the difference to me.",
+        "谢谢你向我解释这个区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/explaining#English",
+      "https://en.wiktionary.org/wiki/explain#English"
+    ]
+  },
+  {
+    "word": "hiring",
+    "ipa": "英 /ˈhaɪərɪŋ/；美 /ˈhaɪrɪŋ/",
+    "meaning": "雇用、招聘；租用〔现在分词、动名词及相关名词〕",
+    "sense": "付钱取得某人的工作，或暂时取得某件物品的使用，是 hiring。雇人是常见意思，英式语境里租车等也常用 hire。",
+    "split": "hire 去 e 加 -ing。hire 接古英语 hyr 工钱、雇用关系及 hyrian 雇用等本族材料。",
+    "history": [
+      [
+        "古英语雇用、工钱词 → hire",
+        "付费得到人力或物品的使用"
+      ],
+      [
+        "hire 去 e 加 -ing → hiring",
+        "正在雇用、租用；也可谈招聘这一过程"
+      ]
+    ],
+    "explanation": "hiring staff 招聘员工；a hiring manager 招聘经理；hiring a car 租车，常见于英式英语。",
+    "usage": "hiring someone to do a task 雇人做一项任务；the hiring process 招聘流程。",
+    "contrast": "hiring 不一定都指长期雇员，也可能是短期找人做事。器物租用在不同地区常用 hire、rent 等不同词。",
+    "examples": [
+      [
+        "The company is hiring two new designers.",
+        "公司正在招聘两名新设计师。"
+      ],
+      [
+        "We are considering hiring a car for the weekend.",
+        "我们正考虑周末租辆车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hiring#English",
+      "https://en.wiktionary.org/wiki/hire#English"
+    ]
+  },
+  {
+    "word": "jumping",
+    "ipa": "/ˈdʒʌmpɪŋ/",
+    "meaning": "跳跃；猛增、突然转移〔现在分词、动名词〕",
+    "sense": "从这里突然跨到那里，是 jumping。可以是脚真的离地，也可以是数字猛涨，或话题、想法一下换了位置。",
+    "split": "jump + -ing，直接加 ing，不双写 p；mp 已是两个结尾辅音字母。jump 的更远来源有不同推测，先掌握可靠的旧英语跳跃动作。",
+    "history": [
+      [
+        "早期英语 jump → 现代 jump",
+        "跳跃；更远来源未定"
+      ],
+      [
+        "jump + -ing → jumping",
+        "正在跳；突然变化或转移的过程"
+      ]
+    ],
+    "explanation": "jumping over a fence 跳过篱笆；jumping to conclusions 仓促下结论；jumping from topic to topic 话题跳来跳去。",
+    "usage": "a jumping competition 跳跃比赛；jumping up and down 上下蹦跳。",
+    "contrast": "jumping to conclusions 是线索还没看够就下结论。这里沿用跨得太快的形象，不是在讲身体跳起来。",
+    "examples": [
+      [
+        "The children were jumping up and down with excitement.",
+        "孩子们兴奋得上下蹦跳。"
+      ],
+      [
+        "Try not to keep jumping from one task to another.",
+        "尽量别一直从一项任务跳到另一项任务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/jumping#English",
+      "https://en.wiktionary.org/wiki/jump#English"
+    ]
+  },
+  {
+    "word": "secured",
+    "ipa": "英 /sɪˈkjʊəd/；美 /sɪˈkjʊrd/",
+    "meaning": "固定、锁牢了；确保、成功获得了〔过去式、过去分词〕",
+    "sense": "先让东西不容易跑掉、松脱，再把某个结果稳稳拿到手。secured 可以是绳子固定好了，也可以是终于争取到了一个位置。",
+    "split": "secure + -d，结尾读 /d/。secure 借拉丁 securus，se- 离开、没有与 cura 忧虑相连；由安全、稳妥性质发展使牢固、确保取得的动词。",
+    "history": [
+      [
+        "拉丁 securus → 英语 secure",
+        "无忧、安全 → 使稳固、确保得到"
+      ],
+      [
+        "secure 去 e + -ed → secured",
+        "已经固定、保住或取得"
+      ]
+    ],
+    "explanation": "secured with a rope 用绳固定；secured a place 拿到一个名额；secured the door 把门锁牢。",
+    "usage": "secured funding 争取到了资金；firmly secured 牢固地固定。",
+    "contrast": "secured 常含确保拿到或固定稳的意思；secured a place 与 merely hoped for a place 的结果状态不同。security 是相应名词。",
+    "examples": [
+      [
+        "The boat was secured with a rope.",
+        "船用绳子系牢了。"
+      ],
+      [
+        "She secured a place on the training course.",
+        "她争取到了培训课程的一个名额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/secured#English",
+      "https://en.wiktionary.org/wiki/secure#English"
+    ]
+  },
+  {
+    "word": "sponsored",
+    "ipa": "英 /ˈspɒnsəd/；美 /ˈspɑːnsərd/",
+    "meaning": "赞助、资助了；发起、支持了〔过去式、过去分词〕",
+    "sense": "一件事要办起来，后面有人承担资源、名义或支持；sponsored 说明有人已经站到这个支持位置。",
+    "split": "sponsor + -ed，结尾读 /d/。sponsor 借拉丁 sponsor 担保者，接 spondere 承诺；英语动词后来由名词转用。",
+    "history": [
+      [
+        "拉丁 spondere、sponsor → 英语 sponsor",
+        "作承诺、担保者 → 赞助者、支持者"
+      ],
+      [
+        "sponsor + -ed → sponsored",
+        "提供过赞助、支持；或活动被赞助"
+      ]
+    ],
+    "explanation": "sponsored by a company 由公司赞助；a sponsored event 有赞助的活动；sponsored a proposal 发起、支持一项提案。",
+    "usage": "sponsored content 赞助内容；sponsored the exhibition 赞助了展览。",
+    "contrast": "sponsored 可能提供金钱，也可能提供名义、设备或其他支持；具体投入和职责看上下文，不只看一个词推断。",
+    "examples": [
+      [
+        "A local business sponsored the school’s music festival.",
+        "一家当地企业赞助了学校的音乐节。"
+      ],
+      [
+        "The exhibition was sponsored by several organisations.",
+        "展览由几个组织赞助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sponsored#English",
+      "https://en.wiktionary.org/wiki/sponsor#English"
+    ]
+  },
+  {
+    "word": "stealing",
+    "ipa": "/ˈstiːlɪŋ/",
+    "meaning": "偷窃；悄悄移动；抢去注意等〔现在分词、动名词〕",
+    "sense": "趁人没留意，把东西拿走，是 stealing。动作悄悄发生、注意力被一下抢走，也会借这个画面说。",
+    "split": "steal + -ing，直接加 ing。steal 接古英语 stelan，不规则过去式 stole、分词 stolen 保留另外的元音变化。",
+    "history": [
+      [
+        "古英语 stelan → steal",
+        "暗中取走；再扩到悄悄移动、抢去风头"
+      ],
+      [
+        "steal + -ing → stealing",
+        "偷取或相关比喻动作正在发生"
+      ]
+    ],
+    "explanation": "stealing a glance 偷看一眼；stealing the show 抢尽风头；stealing away 悄悄离开。",
+    "usage": "accused of stealing 被指控偷窃；stealing a moment to rest 偷得片刻休息。",
+    "contrast": "stealing the show 是吸引了最多注意，不一定真有偷窃。steal 与 steel 钢同音，但词史、拼写不同。",
+    "examples": [
+      [
+        "The child kept stealing glances at the birthday cake.",
+        "孩子不停地偷看生日蛋糕。"
+      ],
+      [
+        "The smallest actor was stealing the show.",
+        "个子最小的那位演员正在抢尽风头。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/stealing#English",
+      "https://en.wiktionary.org/wiki/steal#English"
+    ]
+  },
+  {
+    "word": "trips",
+    "ipa": "/trɪps/",
+    "meaning": "旅行、行程〔复数〕；绊倒、绊一下；触发〔第三人称单数〕",
+    "sense": "人出门走一趟，是 trips 的行程义；脚被碰到、步子乱了，是绊倒义；开关被触动，也有动作突然被触发的用法。",
+    "split": "trip + -s，/p/ 后读 /s/。中古英语 trippen 有轻快迈步、跳舞等义，近源可能涉及法语或低地日耳曼形式；各现代义分支发展。",
+    "history": [
+      [
+        "中古英语 trippen 等 → trip",
+        "轻快迈步等动作 → 行程、绊倒、触发等分支"
+      ],
+      [
+        "trip + -s → trips",
+        "多次出行；或某人绊了一下、某物触发机制"
+      ]
+    ],
+    "explanation": "school trips 学校出游；business trips 出差；trips over a cable 被电缆绊了一下。",
+    "usage": "short trips 短途旅行；trips the alarm 触发警报。",
+    "contrast": "trips on business 常数出差行程；he trips 是动词。journeys 更突出移动过程，trips 常把一次往返或出行当整体谈。",
+    "examples": [
+      [
+        "She makes several business trips each year.",
+        "她每年出差好几次。"
+      ],
+      [
+        "He often trips over the loose cable.",
+        "他常被那根松散的电缆绊到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/trips#English",
+      "https://en.wiktionary.org/wiki/trip#English"
+    ]
+  },
+  {
+    "word": "beats",
+    "ipa": "/biːts/",
+    "meaning": "击打、跳动；胜过〔第三人称单数〕；节拍、跳动等〔复数〕",
+    "sense": "一下、一下有节奏地打，是 beats 的起点；心脏跳动、音乐节拍都沿这个节奏感。比赛里压过对方，也发展出胜过的意思。",
+    "split": "beat + -s，/t/ 后读 /s/。beat 继承古英语 beatan；过去式通常仍拼 beat，过去分词 beaten。",
+    "history": [
+      [
+        "古英语 beatan → beat",
+        "反复击打 → 跳动、节奏；后有胜过等扩展"
+      ],
+      [
+        "beat + -s → beats",
+        "某物敲击、跳动、胜过；或多个节拍"
+      ]
+    ],
+    "explanation": "beats the drum 敲鼓；the heart beats 心脏跳动；four beats 四拍；beats the record 打破纪录。",
+    "usage": "nothing beats a good rest 没什么比好好休息更好；beats time 打拍子。",
+    "contrast": "beats 是现在三单或复数，不是过去。beats me 在某些口语中还可说我不知道、我也搞不懂，要看整句。",
+    "examples": [
+      [
+        "The drummer counted four beats before the song began.",
+        "鼓手在歌曲开始前数了四拍。"
+      ],
+      [
+        "Nothing beats a walk by the sea on a fine day.",
+        "晴天在海边散步，再惬意不过了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/beats#English",
+      "https://en.wiktionary.org/wiki/beat#English"
+    ]
+  },
+  {
+    "word": "competing",
+    "ipa": "/kəmˈpiːtɪŋ/",
+    "meaning": "竞争、参赛；相互争夺、难兼顾的〔现在分词及分词形容词〕",
+    "sense": "几个人都伸手争同一个目标，是 competing；两件事都在争你的时间、资源，也能叫 competing demands。",
+    "split": "compete 去 e 加 -ing。拉丁 com- 一起与 petere 追求形成 competere，经法语或后期拉丁进入英语；竞争义接后来的共同争取分支。",
+    "history": [
+      [
+        "拉丁 competere → 法语或后期拉丁 → compete",
+        "早有相合等义，后有争取同一目标的分支"
+      ],
+      [
+        "compete 去 e 加 -ing → competing",
+        "正在竞争；形容利益、需求互相争夺资源"
+      ]
+    ],
+    "explanation": "competing for a prize 争夺奖项；competing against another team 与另一队竞争；competing priorities 难兼顾的优先事项。",
+    "usage": "competing companies 竞争企业；competing in a race 参加赛跑。",
+    "contrast": "competing 不只用于人的对抗；interests、demands 等都可互相争资源。for 常接争取的目标，against 接对手，in 接比赛。",
+    "examples": [
+      [
+        "Students from several schools are competing for the prize.",
+        "来自几所学校的学生正在争夺这个奖项。"
+      ],
+      [
+        "The manager must balance several competing demands.",
+        "经理必须平衡几种相互争夺资源的需求。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/competing#English",
+      "https://en.wiktionary.org/wiki/compete#English"
+    ]
+  },
+  {
+    "word": "developments",
+    "ipa": "/dɪˈveləpmənts/",
+    "meaning": "进展、新情况；开发项目、住宅区等〔复数〕",
+    "sense": "原来包着的事情逐渐展开，人看到新的阶段、新的变化，就是 developments。土地经过开发形成的一片住宅或商业项目，也可以这样数。",
+    "split": "development + -s，/t/ 后读 /s/。develop 接法语展开、解开包裹的词，更远的包裹部分来源不确定；ment 名词也与法语相应形式有联系。",
+    "history": [
+      [
+        "法语展开词 → develop、development",
+        "展开、发展 → 过程及其结果"
+      ],
+      [
+        "development + -s → developments",
+        "多项新进展、新情况；也数开发建设项目"
+      ]
+    ],
+    "explanation": "recent developments 近期进展；keep up with developments 跟上新情况；housing developments 住宅开发项目。",
+    "usage": "new developments in the field 领域里的新进展；developments near the station 车站附近的新开发项目。",
+    "contrast": "development 不可数时常说发展过程；developments 复数常说一件件新情况。住宅义由开发的成果、项目来理解。",
+    "examples": [
+      [
+        "Please keep us informed of any new developments.",
+        "有任何新进展，请及时告诉我们。"
+      ],
+      [
+        "Several housing developments have appeared near the station.",
+        "车站附近出现了几个住宅开发项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/developments#English",
+      "https://en.wiktionary.org/wiki/development#English"
+    ]
+  },
+  {
+    "word": "chips",
+    "ipa": "/tʃɪps/",
+    "meaning": "碎片；薯片或薯条；筹码、芯片〔复数〕；削下小片等〔动词第三人称单数〕",
+    "sense": "从大块上下来一小片，是 chips 的老形象。食物切成小片、小条，游戏用小片作筹码，电子元件做在小薄片上，就有不同现代义。",
+    "split": "chip + -s，/p/ 后读 /s/。chip 接古英语 cipp 木片、小块及相关削切材料；食品、筹码、芯片是后来按形状、作用发展的分支。",
+    "history": [
+      [
+        "古英语小片、削切相关材料 → chip",
+        "木片、碎片等小块"
+      ],
+      [
+        "chip + -s → chips",
+        "多个小片；食品、筹码、芯片等不同类型；也可为动作三单"
+      ]
+    ],
+    "explanation": "wood chips 木屑、木片；computer chips 计算机芯片；potato chips 食品名称随地区有区别。",
+    "usage": "chips and a sandwich 薯条或薯片配三明治，需看地区；poker chips 扑克牌筹码。",
+    "contrast": "英式 chips 常指薯条，美式 chips 常指薄脆薯片；薯片在英式常叫 crisps。电子或桌游语境则与食品无关。",
+    "examples": [
+      [
+        "Wood chips covered the path.",
+        "小路上铺着木片。"
+      ],
+      [
+        "The factory produces chips for electronic devices.",
+        "工厂生产电子设备所用的芯片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/chips#English",
+      "https://en.wiktionary.org/wiki/chip#English"
+    ]
+  },
+  {
+    "word": "collections",
+    "ipa": "/kəˈlekʃənz/",
+    "meaning": "收藏、收藏品系列；作品集、商品系列等〔复数〕",
+    "sense": "分散的东西被有选择地收到一起，形成一组，再把不同的组分开数，就是 collections。可以是邮票、博物馆藏品，也可以是几本作品集。",
+    "split": "collection + -s，/n/ 后读 /z/。collection 接拉丁 collectio，经法语等路线借入；现代可与 collect 加 ion 的关系配套学。",
+    "history": [
+      [
+        "拉丁 collectio → 法语等 → collection",
+        "收拢的行为 → 收集在一起的东西"
+      ],
+      [
+        "collection + -s → collections",
+        "多个收藏系列、作品集或商品系列"
+      ]
+    ],
+    "explanation": "museum collections 博物馆藏品；poetry collections 诗集；fashion collections 时装系列。",
+    "usage": "private collections 私人收藏；collections of short stories 短篇小说集。",
+    "contrast": "collections 多数时候强调按某个主题聚成的系列；items 可以只是一件件东西。具体还可指多次募集、收取等，要看搭配。",
+    "examples": [
+      [
+        "The museum has important collections of local pottery.",
+        "博物馆有重要的本地陶器收藏。"
+      ],
+      [
+        "She has published two collections of short stories.",
+        "她出版了两部短篇小说集。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collections#English",
+      "https://en.wiktionary.org/wiki/collection#English"
+    ]
+  },
+  {
+    "word": "converted",
+    "ipa": "英 /kənˈvɜːtɪd/；美 /kənˈvɜːrtɪd/",
+    "meaning": "转变、改造、转换了〔过去式、过去分词〕",
+    "sense": "原来是这样用、这样表示，后来转成另一种用途、格式或状态，就是 converted。房子可以改建，数据可以换格式，人也可以改变信念。",
+    "split": "convert + -ed，/t/ 后读 /ɪd/，沿动词后重音。convert 经古法语 convertir 接拉丁 convertere；con- 在历史组合中可加强，vertere 是转。",
+    "history": [
+      [
+        "拉丁 convertere → 古法语 convertir → convert",
+        "转向、转变 → 改用途、形式、信念等"
+      ],
+      [
+        "convert + -ed → converted",
+        "转换已发生；可描述改造后的东西"
+      ]
+    ],
+    "explanation": "converted into a studio 改成工作室；converted from one format to another 从一种格式转成另一种。",
+    "usage": "a converted warehouse 改建的仓库；converted the measurements 换算了计量数值。",
+    "contrast": "converted 后重音沿动词；convert 作改变信仰者的名词可前重音。be converted into 后常接变成什么，be converted from 后说明原来是什么。",
+    "examples": [
+      [
+        "The old warehouse was converted into a theatre.",
+        "旧仓库被改成了剧院。"
+      ],
+      [
+        "We converted the files to a newer format.",
+        "我们把文件转换成了更新的格式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/converted#English",
+      "https://en.wiktionary.org/wiki/convert#English"
+    ]
+  }
+]

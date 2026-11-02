@@ -1,0 +1,81 @@
+[
+  {
+    "id": "A1772",
+    "meaning": "属于、关于；具有某种形态或性质〔常见形容词词尾〕",
+    "core": "AR：从一个对象，转到与它有关或像它的形容词",
+    "image": "molecule 分子 → molecular 分子的；muscle 肌肉 → muscular 肌肉的；tube 管 → tubular 管状的。先把前面的实物看见，形容词就有落点。",
+    "intro": "这个形容词 -ar 上接拉丁 -aris，与 -alis 的历史异化有关：前面已有 l 时，后面的 l 有时改作 r，避免太相似的声音相挨。这个历史倾向帮助认 molecular、stellar 等词，但不是现代英语里遇到任何 l 都必须改尾的拼写规则。",
+    "forms": "molecule／molecular、muscle／muscular、module／modular、curriculum／curricular 可成组认；tubular 还含拉丁 tubulus 小管词干，glandular 承 glandula 腺体材料。liar、beggar 等末尾也写 ar，却不能放进同一拉丁形容词后缀里硬讲。\n\ntitular 经法语、拉丁语形容词借入，与 title 同接 titulus；现代可用 titul- + -ar 认识，不按英语 title 原样接尾拼写。\n\n内衬名词来自加衬动作，不等于把一条线放进去。",
+    "branches": [
+      [
+        "先看基础事物",
+        "line · linear；molecule · molecular；muscle · muscular；module · modular"
+      ],
+      [
+        "形状、颗粒与课程",
+        "plane · planar；grain · granular；tube · tubular；curriculum · curricular"
+      ],
+      [
+        "身体及发音常见材料",
+        "gland · glandular；jugular；alveolar"
+      ],
+      [
+        "标题、头衔与名义：title 到 titular",
+        "title · titular"
+      ],
+      [
+        "line → lining：完整 ing 的拼写",
+        "line · lining"
+      ]
+    ],
+    "contrasts": "tubular 管状不等于所有 hollow 中空；curricular 课程相关／extracurricular 课外；glandular 腺体相关不等于所有 hormonal 激素相关；alveolar 在语音、牙科、肺部语境要分别看。",
+    "practice": "The lesson moves from a linear diagram to a molecular model.\n\n这节课从线形示意图讲到分子模型。",
+    "words": [
+      "particular",
+      "line",
+      "linear",
+      "molecule",
+      "molecular",
+      "muscle",
+      "muscular",
+      "module",
+      "modular",
+      "plane",
+      "planar",
+      "grain",
+      "granular",
+      "molar",
+      "tube",
+      "tubular",
+      "curriculum",
+      "curricular",
+      "extracurricular",
+      "gland",
+      "glandular",
+      "jugular",
+      "alveolar",
+      "title",
+      "titular",
+      "lining"
+    ],
+    "exclude": {
+      "liar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "scholar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "beggar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ventricular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pilar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cochlear": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "macular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vestibular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "mandibular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "laminar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cerebellar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "micellar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "glomerular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "patellar": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "nodular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vesicular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "capsular": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

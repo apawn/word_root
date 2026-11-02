@@ -1,0 +1,1332 @@
+[
+  {
+    "word": "five",
+    "ipa": "/faɪv/",
+    "meaning": "五；五个",
+    "sense": "一只手通常有五根手指，five 是数量五；排到第五名时才用 fifth。先把数量与名次分开。",
+    "split": "由古英语 fif 经中古英语 fyf、fyve 延续，属于古老的日耳曼语数词；词尾与元音经过变化，不是从现代 fif 加 e 造出。",
+    "history": [
+      [
+        "古英语 fif → 中古英语 fyf、fyve → five",
+        "五，日耳曼语继承的数词"
+      ],
+      [
+        "古英语 fifta → 中古英语 fift 等 → fifth",
+        "第五；不是现代 five 原样加 th"
+      ]
+    ],
+    "explanation": "five minutes 五分钟；five people 五个人；at five 五点；give someone five 在特定口语里可说击掌。",
+    "usage": "five minutes；at five。",
+    "contrast": "five 是有五个，fifth 是第五个；five floors 五层与 the fifth floor 第五层分开。",
+    "examples": [
+      [
+        "We waited for five minutes.",
+        "我们等了五分钟。"
+      ],
+      [
+        "Five people joined the discussion.",
+        "五个人参加了讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/five#English"
+    ]
+  },
+  {
+    "word": "fifth",
+    "ipa": "/fɪfθ/",
+    "meaning": "第五；五分之一",
+    "sense": "排队数到第五位是 fifth；把整体等分成五份，其中一份也是 a fifth。位置和分数共享这个形式。",
+    "split": "接古英语 fifta 等旧序数形式，现代与 five 对应；拼写、发音有 five → fif- 的变化，不能写 fiveth。",
+    "history": [
+      [
+        "古英语 fif → 中古英语 fyf、fyve → five",
+        "五，日耳曼语继承的数词"
+      ],
+      [
+        "古英语 fifta → 中古英语 fift 等 → fifth",
+        "第五；不是现代 five 原样加 th"
+      ]
+    ],
+    "explanation": "the fifth floor 第五层；her fifth attempt 她第五次尝试；a fifth of the cake 蛋糕的五分之一。",
+    "usage": "the fifth；a fifth of。",
+    "contrast": "fifth 的 /fθ/ 连在一起，不能把最后的 th 当 /s/；写作 5th，分数 a fifth 则是 1/5。",
+    "examples": [
+      [
+        "This is my fifth visit to the city.",
+        "这是我第五次来这座城市。"
+      ],
+      [
+        "She ate a fifth of the cake.",
+        "她吃了蛋糕的五分之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fifth#English"
+    ]
+  },
+  {
+    "word": "six",
+    "ipa": "/sɪks/",
+    "meaning": "六；六个",
+    "sense": "把两组三个放一起，共有 six。它说数量；sixth 才把其中一个放到第六的位置上。",
+    "split": "接古英语 six，来自古老日耳曼语数量材料，经中古英语延续。不是英语性别词 sex 的缩写，虽然远古数词有跨语言同源。",
+    "history": [
+      [
+        "古英语 six → 中古英语 six → six",
+        "六，继承的数量词"
+      ],
+      [
+        "古英语 siexta → 中古英语 sixte → sixth",
+        "第六；旧形式发展为现代 -th 拼写"
+      ]
+    ],
+    "explanation": "six days 六天；at six 六点；six of us 我们中的六人。",
+    "usage": "six days；six of us。",
+    "contrast": "six /sɪks/ 和 sex /seks/ 元音不同；six 的词尾 /ks/ 也不要漏掉。",
+    "examples": [
+      [
+        "There are six chairs around the table.",
+        "桌子旁有六把椅子。"
+      ],
+      [
+        "Six of us stayed until the end.",
+        "我们有六个人待到最后。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/six#English"
+    ]
+  },
+  {
+    "word": "sixth",
+    "ipa": "/sɪksθ/",
+    "meaning": "第六；六分之一",
+    "sense": "已有五次尝试，接下来这次是 sixth；整体等分成六份，取一份是 a sixth。",
+    "split": "从古英语 siexta、中古英语 sixte 等延续，现代对应 six + -th；不是 -teen 十几的尾巴。",
+    "history": [
+      [
+        "古英语 six → 中古英语 six → six",
+        "六，继承的数量词"
+      ],
+      [
+        "古英语 siexta → 中古英语 sixte → sixth",
+        "第六；旧形式发展为现代 -th 拼写"
+      ]
+    ],
+    "explanation": "the sixth chapter 第六章；a sixth of the total 总量的六分之一；写作 6th。",
+    "usage": "the sixth；a sixth of。",
+    "contrast": "sixth 第六与 sixteenth 第十六不同；多出的 teen 带来十这一份数量材料。",
+    "examples": [
+      [
+        "The answer is in the sixth chapter.",
+        "答案在第六章。"
+      ],
+      [
+        "Each person received a sixth of the total.",
+        "每个人得到总量的六分之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sixth#English"
+    ]
+  },
+  {
+    "word": "seven",
+    "ipa": "/ˈsevən/",
+    "meaning": "七；七个",
+    "sense": "一周有 seven days。数有几个时用 seven，问排在第几个时用 seventh。",
+    "split": "接古英语 seofon，经中古英语到 seven，是古老日耳曼语数词；不是 sever 切断去一个字母。",
+    "history": [
+      [
+        "古英语 seofon → 中古英语 seven → seven",
+        "七，继承的数词"
+      ],
+      [
+        "古英语 seofoþa 等 → seventh",
+        "旧序数形式后受 seven 类推，保留现代 n"
+      ]
+    ],
+    "explanation": "seven days 七天；a group of seven 七人、七物的一组；at seven 七点。",
+    "usage": "seven days；at seven。",
+    "contrast": "seven 常读两个音节，末尾弱读；seventy 是七十，多出的 -ty 是另一套数词材料。",
+    "examples": [
+      [
+        "The shop opens seven days a week.",
+        "商店一周七天营业。"
+      ],
+      [
+        "Seven students submitted their work early.",
+        "七名学生提前交了作业。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seven#English"
+    ]
+  },
+  {
+    "word": "seventh",
+    "ipa": "/ˈsevənθ/",
+    "meaning": "第七；七分之一",
+    "sense": "从第一位往下数，数到第七就是 seventh；把整体平均分七份，任一份可叫 a seventh。",
+    "split": "接古英语 seofoþa 等序数材料，后来的 n 受 seven 类推恢复；现代可对应 seven + -th。",
+    "history": [
+      [
+        "古英语 seofon → 中古英语 seven → seven",
+        "七，继承的数词"
+      ],
+      [
+        "古英语 seofoþa 等 → seventh",
+        "旧序数形式后受 seven 类推，保留现代 n"
+      ]
+    ],
+    "explanation": "the seventh day 第七天；seventh place 第七名；a seventh of the amount 数量的七分之一；7th。",
+    "usage": "the seventh day；seventh place。",
+    "contrast": "seventh 是 7th，seventeenth 是 17th；别只看到开头 seven 就忽略后面的 teen。",
+    "examples": [
+      [
+        "They finished in seventh place.",
+        "他们获得第七名。"
+      ],
+      [
+        "The seventh day of the trip was sunny.",
+        "旅程的第七天天气晴朗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seventh#English"
+    ]
+  },
+  {
+    "word": "eight",
+    "ipa": "/eɪt/",
+    "meaning": "八；八个",
+    "sense": "八点钟、八个人都用 eight。今天读起来与 ate 吃的过去式相同，但这只是同音，不是词义相通。",
+    "split": "由古英语 eahta 经中古英语 eighte 延续，属于古老数词；gh 留下历史拼写痕迹，现代常用读音不单独发 gh。",
+    "history": [
+      [
+        "古英语 eahta → 中古英语 eighte → eight",
+        "八；原有辅音随语音史改变"
+      ],
+      [
+        "古英语 eahtoþa 等 → eighth",
+        "第八；现代拼写不是 eightth"
+      ]
+    ],
+    "explanation": "eight people 八个人；at eight 八点；eight hours 八小时。",
+    "usage": "at eight；eight hours。",
+    "contrast": "eight 是数量，ate 是动词过去式；读音相同，句法和含义不同。",
+    "examples": [
+      [
+        "The train leaves at eight.",
+        "火车八点发车。"
+      ],
+      [
+        "We need eight copies of the report.",
+        "我们需要八份报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eight#English"
+    ]
+  },
+  {
+    "word": "eighth",
+    "ipa": "/eɪtθ/",
+    "meaning": "第八；八分之一",
+    "sense": "八人中排在第八的人用 eighth；整体切成八等份，一份也叫 an eighth。",
+    "split": "承接古英语 eahtoþa 等，现代与 eight 的序数形式对应；拼写 eighth，不再把完整 eight 后面机械加一个 t。",
+    "history": [
+      [
+        "古英语 eahta → 中古英语 eighte → eight",
+        "八；原有辅音随语音史改变"
+      ],
+      [
+        "古英语 eahtoþa 等 → eighth",
+        "第八；现代拼写不是 eightth"
+      ]
+    ],
+    "explanation": "the eighth floor 第八层；an eighth of an inch 八分之一英寸；an eighth note 在美式音乐术语中是八分音符；8th。",
+    "usage": "the eighth；an eighth of。",
+    "contrast": "eighth 是 /eɪtθ/，最后不是 /tʃ/；分数单数前用 an，按发音开头选择。",
+    "examples": [
+      [
+        "Our office is on the eighth floor.",
+        "办公室在第八层。"
+      ],
+      [
+        "The gap is an eighth of an inch wide.",
+        "缝隙宽八分之一英寸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eighth#English"
+    ]
+  },
+  {
+    "word": "ten",
+    "ipa": "/ten/",
+    "meaning": "十；十个",
+    "sense": "十进制里数完个位，到了 ten。它既可说十个东西，也常说十点钟、十分制的满分。",
+    "split": "由古英语 tien 等延续，是继承的日耳曼语数词；thirteen 等里的 -teen 与十的旧形式相连。",
+    "history": [
+      [
+        "古英语 tien 等 → 中古英语 ten → ten",
+        "十；与 -teen 的历史材料相连"
+      ],
+      [
+        "中古英语 tenth，受 ten 类推重组旧序数词",
+        "第十；重新清楚带上 n"
+      ]
+    ],
+    "explanation": "ten minutes 十分钟；at ten 十点；ten out of ten 十分满分得十分；tens of thousands 数万。",
+    "usage": "ten minutes；ten out of ten。",
+    "contrast": "ten 是数量，tenth 是次序或十分之一；ten years 十年与 the tenth year 第十年不同。",
+    "examples": [
+      [
+        "The walk takes about ten minutes.",
+        "步行大约需要十分钟。"
+      ],
+      [
+        "She gave the performance ten out of ten.",
+        "她给这场演出打了满分十分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ten#English"
+    ]
+  },
+  {
+    "word": "tenth",
+    "ipa": "/tenθ/",
+    "meaning": "第十；十分之一",
+    "sense": "走到第十步是 the tenth step；把总量分成十份，其中一份是 a tenth。可以用它轻松把顺序与分数接起来。",
+    "split": "中古英语 tenth 受 ten 类推形成；古英语另有不带这个 n 的旧序数形式。今天对应 ten + -th。",
+    "history": [
+      [
+        "古英语 tien 等 → 中古英语 ten → ten",
+        "十；与 -teen 的历史材料相连"
+      ],
+      [
+        "中古英语 tenth，受 ten 类推重组旧序数词",
+        "第十；重新清楚带上 n"
+      ]
+    ],
+    "explanation": "the tenth anniversary 十周年；a tenth of the total 总量十分之一；10th。",
+    "usage": "the tenth anniversary；a tenth of。",
+    "contrast": "a tenth 是 1/10，不是十分之一百分比；写成百分数是 10%。",
+    "examples": [
+      [
+        "They celebrated their tenth anniversary.",
+        "他们庆祝了十周年纪念日。"
+      ],
+      [
+        "A tenth of the students chose that option.",
+        "十分之一的学生选了那个选项。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/tenth#English"
+    ]
+  },
+  {
+    "word": "eleven",
+    "ipa": "/ɪˈlevən/",
+    "meaning": "十一；十一个",
+    "sense": "比十多一是 eleven。它没有像 thirteen 那样保留整齐的 -teen，所以要认出它是一整个古老数量词。",
+    "split": "接古英语 endleofan，远接日耳曼语一与剩余的材料，通常解释为数到十后剩一。今天不能拆成 e- 加 leven。",
+    "history": [
+      [
+        "古英语 endleofan → 中古英语 elleven 等 → eleven",
+        "十一；古日耳曼语材料常解释为数到十后余一"
+      ],
+      [
+        "中古英语 elleven + 序数尾的重组 → eleventh",
+        "第十一；取代更旧的序数形式"
+      ]
+    ],
+    "explanation": "eleven players 十一名球员；eleven o’clock 十一点；eleven years old 十一岁。",
+    "usage": "eleven players；eleven o’clock。",
+    "contrast": "eleven 数量十一，eleventh 次序第十一；eleven 不写 oneteen。",
+    "examples": [
+      [
+        "The team has eleven players on the field.",
+        "球队场上有十一名队员。"
+      ],
+      [
+        "The meeting starts at eleven.",
+        "会议十一点开始。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eleven#English"
+    ]
+  },
+  {
+    "word": "eleventh",
+    "ipa": "/ɪˈlevənθ/",
+    "meaning": "第十一；十一分之一",
+    "sense": "前面已经过了十项，接下来的位置是 eleventh。分数 an eleventh 则是十一等份中的一份。",
+    "split": "中古英语以 eleven 加序数材料重新形成的形式，替代更旧的序数词形；现代对应 eleven + -th。",
+    "history": [
+      [
+        "古英语 endleofan → 中古英语 elleven 等 → eleven",
+        "十一；古日耳曼语材料常解释为数到十后余一"
+      ],
+      [
+        "中古英语 elleven + 序数尾的重组 → eleventh",
+        "第十一；取代更旧的序数形式"
+      ]
+    ],
+    "explanation": "the eleventh chapter 第十一章；at the eleventh hour 固定说最后关头；11th。",
+    "usage": "the eleventh；at the eleventh hour。",
+    "contrast": "at the eleventh hour 通常指截止前最后时刻，不要求时钟真的指向十一点。",
+    "examples": [
+      [
+        "The solution appeared in the eleventh chapter.",
+        "解法出现在第十一章。"
+      ],
+      [
+        "They reached an agreement at the eleventh hour.",
+        "他们在最后关头达成了协议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eleventh#English"
+    ]
+  },
+  {
+    "word": "twelve",
+    "ipa": "/twelv/",
+    "meaning": "十二；十二个",
+    "sense": "一年有 twelve months。像 eleven 一样，它没按今天的 -teen 外形排整齐，而是保留了更古老的数词。",
+    "split": "接古英语 twelf，远接日耳曼语二与剩余的材料，通常解释为数到十后余二；今天不拆成独立 twel 与 ve。",
+    "history": [
+      [
+        "古英语 twelf → twelve",
+        "十二；古日耳曼语材料常解释为数到十后余二"
+      ],
+      [
+        "古英语 twelfta → 中古英语 twelfte 等 → twelfth",
+        "第十二；旧 f 保留在序数形式中"
+      ]
+    ],
+    "explanation": "twelve months 十二个月；twelve o’clock 十二点；a dozen 也常指十二个。",
+    "usage": "twelve months；twelve o’clock。",
+    "contrast": "twelve /twelv/ 末尾是 /v/，twelfth /twelfθ/ 变为 /fθ/，数量与序数有旧词形差异。",
+    "examples": [
+      [
+        "There are twelve months in a year.",
+        "一年有十二个月。"
+      ],
+      [
+        "The clock struck twelve.",
+        "钟敲了十二下。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/twelve#English"
+    ]
+  },
+  {
+    "word": "twelfth",
+    "ipa": "/twelfθ/",
+    "meaning": "第十二；十二分之一",
+    "sense": "十二项里最后那一项是 twelfth；十二等份里的一份是 a twelfth。拼写里的 f 提醒你它不是 twelve 原样加尾。",
+    "split": "接古英语 twelfta，经中古英语到 twelfth；现代与 twelve 对应，去掉结尾 e，v 对应 f，不写 twelveth。",
+    "history": [
+      [
+        "古英语 twelf → twelve",
+        "十二；古日耳曼语材料常解释为数到十后余二"
+      ],
+      [
+        "古英语 twelfta → 中古英语 twelfte 等 → twelfth",
+        "第十二；旧 f 保留在序数形式中"
+      ]
+    ],
+    "explanation": "the twelfth month 第十二个月；a twelfth of the total 总量十二分之一；12th。",
+    "usage": "the twelfth；a twelfth of。",
+    "contrast": "twelfth 中 l、f、th 连在一起，读音较密；twelfth 与 twentieth 第二十的拼写、数量都不同。",
+    "examples": [
+      [
+        "December is the twelfth month of the year.",
+        "十二月是一年的第十二个月。"
+      ],
+      [
+        "Each player received a twelfth of the prize money.",
+        "每位队员得到奖金的十二分之一。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/twelfth#English"
+    ]
+  },
+  {
+    "word": "thirteen",
+    "ipa": "英 /ˌθɜːˈtiːn/；美 /ˌθɜːrˈtiːn/",
+    "meaning": "十三；十三个",
+    "sense": "三个加十个，是 thirteen。开头 thir- 不像今天完整的 three，是旧数词经过语音、次序变化留下的形式。",
+    "split": "接古英语三加十的数词，经过中古英语 thrittene、thirttene 等；现代对应 three 与 -teen 的旧组合，不写 threeteen。",
+    "history": [
+      [
+        "古英语 þreotiene 等 → 中古英语 thrittene、thirttene → thirteen",
+        "三加十；辅音次序变化形成 thir-"
+      ],
+      [
+        "thirteen 的序数形式 → thirteenth",
+        "第十三；现代对应 thirteen + -th"
+      ]
+    ],
+    "explanation": "thirteen people 十三个人；thirteen years old 十三岁；-teen 与 ten 的历史材料有关。",
+    "usage": "thirteen people；thirteen years old。",
+    "contrast": "thirteen 十三和 thirty 三十很容易听混：-teen 末尾有 /n/，单独强调数词时后部重音通常更明显，句中重音还会变化。",
+    "examples": [
+      [
+        "There were thirteen names on the list.",
+        "名单上有十三个名字。"
+      ],
+      [
+        "She was thirteen when she moved here.",
+        "她搬来时十三岁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thirteen#English"
+    ]
+  },
+  {
+    "word": "thirteenth",
+    "ipa": "英 /ˌθɜːˈtiːnθ/；美 /ˌθɜːrˈtiːnθ/",
+    "meaning": "第十三；十三分之一",
+    "sense": "排在第十二后面的位置是 thirteenth。把整体平均分十三份，取一份也可说 a thirteenth。",
+    "split": "承接古英语等三加十的序数词族，现代对应 thirteen + -th；数量材料 -teen 保留，后面才是序数尾。",
+    "history": [
+      [
+        "古英语 þreotiene 等 → 中古英语 thrittene、thirttene → thirteen",
+        "三加十；辅音次序变化形成 thir-"
+      ],
+      [
+        "thirteen 的序数形式 → thirteenth",
+        "第十三；现代对应 thirteen + -th"
+      ]
+    ],
+    "explanation": "the thirteenth century 十三世纪；her thirteenth birthday 十三岁生日；13th。",
+    "usage": "the thirteenth century；the thirteenth。",
+    "contrast": "thirteenth 是第十三，thirtieth 是第三十；先看有没有 teen，再看整个数。",
+    "examples": [
+      [
+        "The castle was built in the thirteenth century.",
+        "城堡建于十三世纪。"
+      ],
+      [
+        "We celebrated her thirteenth birthday.",
+        "我们庆祝了她的十三岁生日。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thirteenth#English"
+    ]
+  },
+  {
+    "word": "fourteen",
+    "ipa": "英 /ˌfɔːˈtiːn/；美 /ˌfɔːrˈtiːn/",
+    "meaning": "十四；十四个",
+    "sense": "four 和十的旧尾 -teen 合在一起，是十四。这里 four 仍很容易认出，可以顺着它理解 fourteenth。",
+    "split": "接古英语 feowertiene 等旧形式，经中古英语到 fourteen；现代材料对应 four + -teen。",
+    "history": [
+      [
+        "古英语 feowertiene → 中古英语 fourtene → fourteen",
+        "四加十，旧 -teen 数词"
+      ],
+      [
+        "相应序数形式 → fourteenth",
+        "第十四；现代对应 fourteen + -th"
+      ]
+    ],
+    "explanation": "fourteen days 十四天；fourteen years old 十四岁；十四天也等于 two weeks 两周。",
+    "usage": "fourteen days；fourteen years old。",
+    "contrast": "fourteen 是十四，forty 是四十；后者拼写没有 u，-ty 与 -teen 也不同。",
+    "examples": [
+      [
+        "The loan lasts fourteen days.",
+        "借期为十四天。"
+      ],
+      [
+        "Fourteen people signed up for the class.",
+        "十四个人报名了这门课。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fourteen#English"
+    ]
+  },
+  {
+    "word": "fourteenth",
+    "ipa": "英 /ˌfɔːˈtiːnθ/；美 /ˌfɔːrˈtiːnθ/",
+    "meaning": "第十四；十四分之一",
+    "sense": "第十三项之后是 fourteenth。它在 fourteen 数量材料后加上序数标记，告诉你现在是在排位置。",
+    "split": "延续旧的十四序数形式，现代对应 fourteen + -th；不是 four 直接加 -teenth 表示任何十位数。",
+    "history": [
+      [
+        "古英语 feowertiene → 中古英语 fourtene → fourteen",
+        "四加十，旧 -teen 数词"
+      ],
+      [
+        "相应序数形式 → fourteenth",
+        "第十四；现代对应 fourteen + -th"
+      ]
+    ],
+    "explanation": "the fourteenth day 第十四天；the fourteenth edition 第十四版；14th。",
+    "usage": "the fourteenth day；the fourteenth edition。",
+    "contrast": "fourteenth 第十四与 fourth 第四不同；中间的 teen 把十这个数量保留下来。",
+    "examples": [
+      [
+        "The results were announced on the fourteenth day.",
+        "结果在第十四天公布。"
+      ],
+      [
+        "This is the fourteenth edition of the guide.",
+        "这是指南的第十四版。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fourteenth#English"
+    ]
+  },
+  {
+    "word": "fifteen",
+    "ipa": "/ˌfɪfˈtiːn/",
+    "meaning": "十五；十五个",
+    "sense": "十加五就是 fifteen；fif- 与 fifth 里的五相呼应，不照现代 five 原样拼接。",
+    "split": "接古英语 fiftiene 等五加十的旧组合，经中古英语到 fifteen；现代对应 five 与 -teen 的历史材料。",
+    "history": [
+      [
+        "古英语 fiftiene → 中古英语 fiftene → fifteen",
+        "五加十，旧 f 形式保留"
+      ],
+      [
+        "相应序数形式 → fifteenth",
+        "第十五；现代对应 fifteen + -th"
+      ]
+    ],
+    "explanation": "fifteen minutes 十五分钟，即 a quarter of an hour；fifteen people 十五人。",
+    "usage": "fifteen minutes；fifteen people。",
+    "contrast": "fifteen 十五与 fifty 五十不同：-teen 常有清楚的末尾 /n/，-ty 没有这个尾音。",
+    "examples": [
+      [
+        "The walk takes fifteen minutes.",
+        "步行需要十五分钟。"
+      ],
+      [
+        "Fifteen students took part in the project.",
+        "十五名学生参加了项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fifteen#English"
+    ]
+  },
+  {
+    "word": "fifteenth",
+    "ipa": "/ˌfɪfˈtiːnθ/",
+    "meaning": "第十五；十五分之一",
+    "sense": "已经有十四次，第十五次就是 fifteenth。整个 fifteen 保留，再用 -th 标出次序。",
+    "split": "接古英语 fifteoþa 等相应序数材料，经中古英语发展；现代对应 fifteen + -th。",
+    "history": [
+      [
+        "古英语 fiftiene → 中古英语 fiftene → fifteen",
+        "五加十，旧 f 形式保留"
+      ],
+      [
+        "相应序数形式 → fifteenth",
+        "第十五；现代对应 fifteen + -th"
+      ]
+    ],
+    "explanation": "the fifteenth century 十五世纪；a fifteenth attempt 第十五次尝试；15th。",
+    "usage": "the fifteenth century；the fifteenth。",
+    "contrast": "fifteenth 是第十五，fifth 是第五；不要因为两词开头一样就漏掉 teen。",
+    "examples": [
+      [
+        "The painting dates from the fifteenth century.",
+        "这幅画出自十五世纪。"
+      ],
+      [
+        "She finally succeeded on her fifteenth attempt.",
+        "她到第十五次尝试终于成功了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fifteenth#English"
+    ]
+  },
+  {
+    "word": "sixteen",
+    "ipa": "/ˌsɪksˈtiːn/",
+    "meaning": "十六；十六个",
+    "sense": "六加十是 sixteen。开头 six 很清楚，后面的 teen 提醒你它是十几，不能听成 sixty 六十。",
+    "split": "由古英语 sixtiene 等延续，现代材料对应 six + -teen；是继承的数词，不是最近才拼出来的新词。",
+    "history": [
+      [
+        "古英语 sixtiene → 中古英语 sixtene → sixteen",
+        "六加十，-teen 的旧数词组合"
+      ],
+      [
+        "相应序数形式 → sixteenth",
+        "第十六；现代对应 sixteen + -th"
+      ]
+    ],
+    "explanation": "sixteen pages 十六页；sixteen years old 十六岁；a group of sixteen 十六人的一组。",
+    "usage": "sixteen pages；sixteen years old。",
+    "contrast": "sixteen 数量十六，sixteenth 次序第十六；sixty 数量六十，末尾没有 /n/。",
+    "examples": [
+      [
+        "The booklet has sixteen pages.",
+        "小册子有十六页。"
+      ],
+      [
+        "Sixteen teams entered the competition.",
+        "十六支队伍参加了比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sixteen#English"
+    ]
+  },
+  {
+    "word": "sixteenth",
+    "ipa": "/ˌsɪksˈtiːnθ/",
+    "meaning": "第十六；十六分之一",
+    "sense": "把整体不断对半分，分成十六份，任一份是 a sixteenth；作次序词时则是第十六。",
+    "split": "接古英语等十六的旧序数形式，现代对应 sixteen + -th；teen 是数值材料，th 才标次序、分数形式。",
+    "history": [
+      [
+        "古英语 sixtiene → 中古英语 sixtene → sixteen",
+        "六加十，-teen 的旧数词组合"
+      ],
+      [
+        "相应序数形式 → sixteenth",
+        "第十六；现代对应 sixteen + -th"
+      ]
+    ],
+    "explanation": "the sixteenth century 十六世纪；a sixteenth of an inch 十六分之一英寸；a sixteenth note 美式十六分音符；16th。",
+    "usage": "the sixteenth century；a sixteenth of。",
+    "contrast": "sixteenth 的分数义是 1/16，sixth 是 1/6；多出 teen，分母也变了。",
+    "examples": [
+      [
+        "The house was built in the sixteenth century.",
+        "房子建于十六世纪。"
+      ],
+      [
+        "The mark is a sixteenth of an inch from the edge.",
+        "标记距边缘十六分之一英寸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sixteenth#English"
+    ]
+  },
+  {
+    "word": "seventeen",
+    "ipa": "/ˌsevənˈtiːn/",
+    "meaning": "十七；十七个",
+    "sense": "seven 加十的旧数词尾，得到 seventeen。七、十七、七十这组放在一起学，能少听错一个十位。",
+    "split": "接古英语 seofontiene 等，经中古英语延续；现代可认出 seven + -teen 的材料。",
+    "history": [
+      [
+        "古英语 seofontiene → 中古英语 seventene → seventeen",
+        "七加十"
+      ],
+      [
+        "相应序数形式 → seventeenth",
+        "第十七；现代对应 seventeen + -th"
+      ]
+    ],
+    "explanation": "seventeen students 十七名学生；seventeen years old 十七岁；重音在句子里可随强调变化。",
+    "usage": "seventeen students；seventeen years old。",
+    "contrast": "seventeen 是十七，seventy 是七十；不是末尾随意换个拼写而数值不变。",
+    "examples": [
+      [
+        "Seventeen students passed the test.",
+        "十七名学生通过了测试。"
+      ],
+      [
+        "He was seventeen when he wrote the song.",
+        "他写这首歌时十七岁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seventeen#English"
+    ]
+  },
+  {
+    "word": "seventeenth",
+    "ipa": "/ˌsevənˈtiːnθ/",
+    "meaning": "第十七；十七分之一",
+    "sense": "从第一名往后数到十七名，就是 seventeenth；它让数量词进入顺序的位置。",
+    "split": "承接古英语等相应序数形式，现代对应 seventeen + -th；七加十的材料仍在前面。",
+    "history": [
+      [
+        "古英语 seofontiene → 中古英语 seventene → seventeen",
+        "七加十"
+      ],
+      [
+        "相应序数形式 → seventeenth",
+        "第十七；现代对应 seventeen + -th"
+      ]
+    ],
+    "explanation": "the seventeenth century 十七世纪；seventeenth place 第十七名；17th。",
+    "usage": "the seventeenth century；seventeenth place。",
+    "contrast": "seventeenth 第十七与 seventh 第七分开；序数并不会把原来的数量材料省掉。",
+    "examples": [
+      [
+        "The diary was written in the seventeenth century.",
+        "日记写于十七世纪。"
+      ],
+      [
+        "She finished in seventeenth place.",
+        "她获得第十七名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seventeenth#English"
+    ]
+  },
+  {
+    "word": "eighteen",
+    "ipa": "/ˌeɪˈtiːn/",
+    "meaning": "十八；十八个",
+    "sense": "八加十是 eighteen。拼写只保留一个 t 所在的位置，不用把 eight 和 teen 两个完整拼写直接粘在一起。",
+    "split": "接古英语 eahtatiene 等旧数词，经过中古英语 eightetene 等变化；现代材料对应 eight + -teen。",
+    "history": [
+      [
+        "古英语 eahtatiene → 中古英语 eightetene 等 → eighteen",
+        "八加十；相邻辅音在演变中简化"
+      ],
+      [
+        "相应序数形式 → eighteenth",
+        "第十八；现代对应 eighteen + -th"
+      ]
+    ],
+    "explanation": "eighteen months 十八个月；eighteen people 十八人；eighteen years old 十八岁。",
+    "usage": "eighteen months；eighteen years old。",
+    "contrast": "eighteen 是十八，eighty 是八十；注意末尾 -teen 的 /n/ 与 -ty 的区别。",
+    "examples": [
+      [
+        "The project took eighteen months.",
+        "项目花了十八个月。"
+      ],
+      [
+        "There are eighteen seats in the room.",
+        "房间里有十八个座位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eighteen#English"
+    ]
+  },
+  {
+    "word": "eighteenth",
+    "ipa": "/ˌeɪˈtiːnθ/",
+    "meaning": "第十八；十八分之一",
+    "sense": "十八岁生日、十八世纪、排第十八，都用 eighteenth 指相应次序。它不只是给数字换一个中文名。",
+    "split": "从古英语等十八的序数材料延续；现代对应 eighteen + -th，先认数量 eighteen，再看次序尾。",
+    "history": [
+      [
+        "古英语 eahtatiene → 中古英语 eightetene 等 → eighteen",
+        "八加十；相邻辅音在演变中简化"
+      ],
+      [
+        "相应序数形式 → eighteenth",
+        "第十八；现代对应 eighteen + -th"
+      ]
+    ],
+    "explanation": "an eighteenth birthday 十八岁生日；the eighteenth century 十八世纪；18th。",
+    "usage": "the eighteenth century；an eighteenth birthday。",
+    "contrast": "eighteenth 第十八与 eighth 第八相差十；拼写里不要漏掉 teen。",
+    "examples": [
+      [
+        "They celebrated her eighteenth birthday.",
+        "他们庆祝了她的十八岁生日。"
+      ],
+      [
+        "The building dates from the eighteenth century.",
+        "这座建筑始建于十八世纪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eighteenth#English"
+    ]
+  },
+  {
+    "word": "nineteen",
+    "ipa": "/ˌnaɪnˈtiːn/",
+    "meaning": "十九；十九个",
+    "sense": "比二十少一是 nineteen。nine 和 -teen 的材料还看得出来，接上 -th 才成为第十九。",
+    "split": "由古英语 nigontiene 等经中古英语延续；现代对应 nine 去末尾 e 与 -teen 的旧组合。",
+    "history": [
+      [
+        "古英语 nigontiene → 中古英语 nyntene → nineteen",
+        "九加十"
+      ],
+      [
+        "nineteen + 序数材料 → nineteenth",
+        "第十九；现代对应 nineteen + -th"
+      ]
+    ],
+    "explanation": "nineteen pages 十九页；nineteen people 十九人；nineteen ninety 表示年份时可读作 1990。",
+    "usage": "nineteen pages；nineteen years old。",
+    "contrast": "nineteen 十九与 ninety 九十不同；the nineteenth century 是十九世纪，又是序数词的用法。",
+    "examples": [
+      [
+        "Nineteen people attended the workshop.",
+        "十九个人参加了工作坊。"
+      ],
+      [
+        "The first chapter is nineteen pages long.",
+        "第一章长十九页。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nineteen#English"
+    ]
+  },
+  {
+    "word": "nineteenth",
+    "ipa": "/ˌnaɪnˈtiːnθ/",
+    "meaning": "第十九；十九分之一",
+    "sense": "数量十九变成次序第十九，保留 nineteen，再加 -th。the nineteenth century 就是十九世纪这个历史区间。",
+    "split": "现代由 nineteen + -th 对应形成，依托旧九加十的数词材料；不是 ninety 的序数形式。",
+    "history": [
+      [
+        "古英语 nigontiene → 中古英语 nyntene → nineteen",
+        "九加十"
+      ],
+      [
+        "nineteen + 序数材料 → nineteenth",
+        "第十九；现代对应 nineteen + -th"
+      ]
+    ],
+    "explanation": "the nineteenth century 十九世纪；the nineteenth day 第十九天；19th。",
+    "usage": "the nineteenth century；the nineteenth day。",
+    "contrast": "nineteenth 第十九与 ninetieth 第九十不同；-teen 与 -ty 的不同在序数形式里仍保留。",
+    "examples": [
+      [
+        "The novel was published in the nineteenth century.",
+        "小说出版于十九世纪。"
+      ],
+      [
+        "They reached the coast on the nineteenth day.",
+        "他们在第十九天抵达海岸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nineteenth#English"
+    ]
+  },
+  {
+    "word": "hundred",
+    "ipa": "/ˈhʌndrəd/",
+    "meaning": "一百；百",
+    "sense": "十个十是一百。a hundred、one hundred 都能说一百，前面已有具体数字时，hundred 本身通常不加 s。",
+    "split": "由古英语 hundred 延续，更早由日耳曼语百与计数的材料构成。今天不把它硬切成英语猎犬 hound 加 red。",
+    "history": [
+      [
+        "古英语 hundred → 中古英语 hundred → hundred",
+        "一百；继承的日耳曼语计数材料"
+      ],
+      [
+        "hundred + 序数尾，重组为 hundredth",
+        "第一百；百分之一"
+      ]
+    ],
+    "explanation": "two hundred 两百；hundreds of people 数百人；a hundred times 一百次。具体数后不加 s，概数 hundreds of 用 s。",
+    "usage": "two hundred；hundreds of。",
+    "contrast": "two hundred people 是两百人，hundreds of people 是数百人；一个给具体数量，一个给大致数量。",
+    "examples": [
+      [
+        "Two hundred people attended the concert.",
+        "两百人参加了音乐会。"
+      ],
+      [
+        "Hundreds of birds gathered by the lake.",
+        "数百只鸟聚集在湖边。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hundred#English"
+    ]
+  },
+  {
+    "word": "hundredth",
+    "ipa": "/ˈhʌndrədθ/",
+    "meaning": "第一百；百分之一",
+    "sense": "数到第一百个位置是 hundredth；把整体均分成一百份，取一份也是 a hundredth，也就是 0.01。",
+    "split": "现代对应 hundred + -th，由中古英语相应形式按百加序数尾重组；不是 hundred 的普通复数。",
+    "history": [
+      [
+        "古英语 hundred → 中古英语 hundred → hundred",
+        "一百；继承的日耳曼语计数材料"
+      ],
+      [
+        "hundred + 序数尾，重组为 hundredth",
+        "第一百；百分之一"
+      ]
+    ],
+    "explanation": "the hundredth anniversary 一百周年；a hundredth of a second 百分之一秒；100th。",
+    "usage": "the hundredth；a hundredth of。",
+    "contrast": "a hundredth 是 1/100，即 1%；a hundred 是 100。数字材料相同，语法形式决定这里是在分还是在数。",
+    "examples": [
+      [
+        "The town celebrated its hundredth anniversary.",
+        "小镇庆祝了成立一百周年。"
+      ],
+      [
+        "She won by a hundredth of a second.",
+        "她以百分之一秒的优势获胜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hundredth#English"
+    ]
+  },
+  {
+    "word": "thousand",
+    "ipa": "/ˈθaʊzənd/",
+    "meaning": "一千；千",
+    "sense": "十个一百是一千。写 1,000 时，那个逗号常帮助按千分组；说数时是 one thousand。",
+    "split": "接古英语 þusend，经中古英语延续，属于古老日耳曼语数词；不把现代 thou 你与 sand 沙子拼成解释。",
+    "history": [
+      [
+        "古英语 þusend → 中古英语 thousend → thousand",
+        "一千；继承的日耳曼语数词"
+      ],
+      [
+        "thousand + -th → thousandth",
+        "第一千；千分之一"
+      ]
+    ],
+    "explanation": "three thousand 三千；thousands of people 成千上万人；a thousand times 可实指千次，也可夸张说很多次。",
+    "usage": "three thousand；thousands of。",
+    "contrast": "three thousand 不加 s，thousands of 才表示成千上万的概数；two thousand 与 two million 的规模也相差千倍。",
+    "examples": [
+      [
+        "The village has about three thousand residents.",
+        "村里大约有三千名居民。"
+      ],
+      [
+        "Thousands of people watched the parade.",
+        "成千上万人观看了游行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thousand#English"
+    ]
+  },
+  {
+    "word": "thousandth",
+    "ipa": "/ˈθaʊzəndθ/",
+    "meaning": "第一千；千分之一",
+    "sense": "从一数到一千时那个位置，是 thousandth；把一整份分成一千等份，一份是 a thousandth。",
+    "split": "thousand + -th，按通行序数方式形成；这里 -th 同时可用于表达相应的单位分数。",
+    "history": [
+      [
+        "古英语 þusend → 中古英语 thousend → thousand",
+        "一千；继承的日耳曼语数词"
+      ],
+      [
+        "thousand + -th → thousandth",
+        "第一千；千分之一"
+      ]
+    ],
+    "explanation": "the thousandth visitor 第一千名访客；a thousandth of a second 千分之一秒；1000th。",
+    "usage": "the thousandth；a thousandth of。",
+    "contrast": "a thousandth 是 0.001，也就是 0.1%；a hundredth 是 0.01，分母越大，同一整体的一份越小。",
+    "examples": [
+      [
+        "She was the museum’s thousandth visitor.",
+        "她是博物馆的第一千名访客。"
+      ],
+      [
+        "The sensor records changes within a thousandth of a second.",
+        "传感器能记录千分之一秒内的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/thousandth#English"
+    ]
+  },
+  {
+    "word": "billion",
+    "ipa": "/ˈbɪljən/",
+    "meaning": "十亿〔现代英美常用〕；极大量",
+    "sense": "一千个 million 是一个 billion，也就是 1,000,000,000，中文十亿。英语的千分组，和中文的万、亿分组不一样。",
+    "split": "借法语 billion，以 million 形式替换前部为 bi- 二。历史计数体系里曾指一百万的平方，现代常用值为十亿，不能只凭 bi- 推算今天数值。",
+    "history": [
+      [
+        "法语以 million 为基础，更换为 bi- 二的材料 → billion",
+        "历史上有不同大数计数体系"
+      ],
+      [
+        "现代常用 billion → billionth",
+        "十亿；第十亿或十亿分之一"
+      ]
+    ],
+    "explanation": "two billion 二十亿；billions of stars 数十亿颗或极大量恒星；历史英式资料还可能用万亿这个旧义。",
+    "usage": "two billion；billions of。",
+    "contrast": "million 是百万，billion 现代常用十亿；one billion 不是一亿。旧资料涉及大数时要结合年代、计数体系。",
+    "examples": [
+      [
+        "The company reported sales of two billion dollars.",
+        "公司报告销售额为二十亿美元。"
+      ],
+      [
+        "The galaxy contains billions of stars.",
+        "星系中有数十亿颗恒星。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/billion#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/billion"
+    ]
+  },
+  {
+    "word": "billionth",
+    "ipa": "/ˈbɪljənθ/",
+    "meaning": "第十亿；十亿分之一〔按现代常用 billion〕",
+    "sense": "把整体分成十亿等份，其中一份是 a billionth，极其小；作序数时则是排到第十亿那个位置。",
+    "split": "billion + -th；billion 的具体数值随所用计数体系，现代常见英语以十亿为基础。",
+    "history": [
+      [
+        "法语以 million 为基础，更换为 bi- 二的材料 → billion",
+        "历史上有不同大数计数体系"
+      ],
+      [
+        "现代常用 billion → billionth",
+        "十亿；第十亿或十亿分之一"
+      ],
+      [
+        "billion + -th → billionth",
+        "相应次序；相应单位分数"
+      ]
+    ],
+    "explanation": "a billionth of a second 十亿分之一秒，即一纳秒；the billionth view 第十亿次观看。",
+    "usage": "a billionth of；the billionth。",
+    "contrast": "a billionth 是 10 的负九次方，a millionth 是负六次方；两个看似极小的份额仍相差一千倍。",
+    "examples": [
+      [
+        "A nanosecond is a billionth of a second.",
+        "一纳秒是十亿分之一秒。"
+      ],
+      [
+        "The video reached its billionth view.",
+        "视频迎来了第十亿次观看。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/billionth#English"
+    ]
+  },
+  {
+    "word": "nth",
+    "ipa": "/enθ/",
+    "meaning": "第 n 个；无数次中的某一次〔夸张〕",
+    "sense": "不知道具体排第几，数学用 n 占位，加上 th 就是第 n 个。日常 for the nth time 则像说“都第不知道多少次了”。",
+    "split": "字母 n 代表待定数量或序号 + -th 序数尾，形成可读作 /enθ/ 的形式，不是一个缺了元音的古词。",
+    "history": [
+      [
+        "数学记号 n + -th → nth",
+        "用变量表示某个待定次序"
+      ],
+      [
+        "for the nth time 等日常用法",
+        "夸张表示反复发生、不知第几次"
+      ]
+    ],
+    "explanation": "the nth term 数列第 n 项；the nth root n 次方根；for the nth time 第不知道多少次、反复再一次。",
+    "usage": "the nth term；for the nth time。",
+    "contrast": "数学 nth 的 n 是变量，不必很大；口语反复说 nth time 才常夸张很多次。",
+    "examples": [
+      [
+        "The formula gives the nth term of the sequence.",
+        "公式给出数列的第 n 项。"
+      ],
+      [
+        "For the nth time, please close the door.",
+        "再说一次，请把门关上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nth#English"
+    ]
+  },
+  {
+    "word": "umpteen",
+    "ipa": "/ˌʌmpˈtiːn/",
+    "meaning": "许多的、无数的〔口语夸张〕",
+    "sense": "你不想认真数，只觉得“好多好多”，口语可以说 umpteen。它长得像十几，却没有一个规定数值。",
+    "split": "由 umpty、ump 一类俚语材料配 -teen 数词尾发展，早期与电报码、军中俚语相关。不是 umpire 裁判的缩写。",
+    "history": [
+      [
+        "电报码俚语 umpty、ump 等不定数量材料 + -teen",
+        "模仿数词外形，表示很多"
+      ],
+      [
+        "umpteen + -th → umpteenth",
+        "很多次中的又一次，常带不耐烦、夸张"
+      ]
+    ],
+    "explanation": "umpteen times 无数次；umpteen reasons 一大堆理由；口语强调多，不用于精确统计。",
+    "usage": "umpteen times；umpteen reasons。",
+    "contrast": "umpteen 没有固定值，不能当作十三到十九之间的新数字；准确数量用具体数词。",
+    "examples": [
+      [
+        "I have told you umpteen times.",
+        "我已经告诉你无数次了。"
+      ],
+      [
+        "She gave me umpteen reasons to stay.",
+        "她给了我一大堆留下来的理由。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/umpteen#English",
+      "https://www.etymonline.com/word/umpteen"
+    ]
+  },
+  {
+    "word": "umpteenth",
+    "ipa": "/ˌʌmpˈtiːnθ/",
+    "meaning": "第不知道多少次的〔口语夸张〕",
+    "sense": "又来了，已经数不清第几次了！这种反复、常带不耐烦的语气，就是 for the umpteenth time。",
+    "split": "umpteen 很多 + -th 序数尾，把不确定的大数量变成不确定的第几次；不是精确数词。",
+    "history": [
+      [
+        "电报码俚语 umpty、ump 等不定数量材料 + -teen",
+        "模仿数词外形，表示很多"
+      ],
+      [
+        "umpteen + -th → umpteenth",
+        "很多次中的又一次，常带不耐烦、夸张"
+      ]
+    ],
+    "explanation": "for the umpteenth time 第不知道多少次；an umpteenth attempt 反复不知第几次尝试。",
+    "usage": "for the umpteenth time；an umpteenth attempt。",
+    "contrast": "umpteenth 与 nth 在口语里都能夸张多次；数学的 nth 可有严格变量含义，umpteenth 通常没有。",
+    "examples": [
+      [
+        "For the umpteenth time, I cannot find my keys.",
+        "我又找不到钥匙了，已经不知道第多少次了。"
+      ],
+      [
+        "She checked the figures for the umpteenth time.",
+        "她又核对了一遍数字，已经数不清第几遍了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/umpteenth#English"
+    ]
+  },
+  {
+    "word": "wrath",
+    "ipa": "英 /rɒθ/，亦有 /rɔːθ/；美 /ræθ/",
+    "meaning": "盛怒、震怒〔正式、文学〕",
+    "sense": "不是轻微烦躁，而是那股可能让人畏惧的怒火。文学、宗教和带夸张的表达里常用 wrath。",
+    "split": "接古英语 wræþþu 等，源于愤怒的形容词材料加抽象名词尾，与旧形容词 wroth 同族；不按现代拼写拆出 wra。",
+    "history": [
+      [
+        "古英语 wraþ 愤怒 + 抽象名词尾 → wræþþu",
+        "愤怒的状态"
+      ],
+      [
+        "中古英语 wratthe → wrath",
+        "强烈愤怒、震怒"
+      ]
+    ],
+    "explanation": "incur someone’s wrath 招致某人盛怒；the wrath of someone 某人的怒火；日常 anger 更常见。",
+    "usage": "incur someone’s wrath；the wrath of。",
+    "contrast": "wrath 语气通常比 annoyance 恼火强，也更书面；wrath 与 wreath 花环读音、来源不同。",
+    "examples": [
+      [
+        "The decision incurred the wrath of local residents.",
+        "这项决定激起了当地居民的怒火。"
+      ],
+      [
+        "The poem describes the king’s wrath.",
+        "诗中描写了国王的盛怒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wrath#English",
+      "https://www.etymonline.com/word/wrath",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/wrath"
+    ]
+  },
+  {
+    "word": "feud",
+    "ipa": "/fjuːd/",
+    "meaning": "长期不和、世仇；长期争斗",
+    "sense": "不是今天拌一句嘴，明天就算了，而是两家、两派多年记着旧账，反复敌对，这叫 feud。",
+    "split": "接中古英语 fede、feide 等，借入路径有不同解释，远接日耳曼语敌对状态的名词，带旧抽象名词材料。现代末尾 d 不是今天写出的 -th，拼写改变原因未完全明确。",
+    "history": [
+      [
+        "日耳曼语敌对形容词 + 状态名词材料",
+        "仇恨、不和的状态"
+      ],
+      [
+        "中古英语 fede 等 → feud",
+        "长期不和、世仇；动词由名词发展"
+      ]
+    ],
+    "explanation": "a family feud 家族宿怨；a feud between two groups 两派长期争斗；feud with someone 长期与某人不和。",
+    "usage": "a family feud；feud with。",
+    "contrast": "feud 的长期争斗义与 feudal 封建的分源；相似拼写不表示封建制度就是家族吵架。",
+    "examples": [
+      [
+        "The two families ended their long feud.",
+        "两家结束了长期宿怨。"
+      ],
+      [
+        "The neighbours have been feuding over the boundary for years.",
+        "邻居们为地界争执多年。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/feud#English",
+      "https://www.etymonline.com/word/feud"
+    ]
+  },
+  {
+    "word": "berth",
+    "ipa": "英 /bɜːθ/；美 /bɜːrθ/",
+    "meaning": "泊位；卧铺；使停泊",
+    "sense": "船有安排停靠的一块位置，旅客在船、火车上有一张睡铺，都是 berth。共同画面是给停留、安置留出空间。",
+    "split": "早期有海上活动空间义，可能接 bear 与名词尾 -th，但来源并不完全确定。后来发展出泊位、睡铺等；与 birth 同音，不能把不确定词源说成定论。",
+    "history": [
+      [
+        "早期 berth：海上留出的活动空间",
+        "来源未完全确定，可能关联 bear + -th"
+      ],
+      [
+        "船上安排的位置 → berth 的后续用法",
+        "泊位、卧铺；动词由名词发展"
+      ]
+    ],
+    "explanation": "a sleeping berth 卧铺；a berth at the dock 码头泊位；give someone a wide berth 离某人远点、避开。",
+    "usage": "a sleeping berth；give a wide berth。",
+    "contrast": "berth 是停靠、睡铺等位置，birth 是出生；两词同音，写字要看意思。wide berth 也常是比喻避开。",
+    "examples": [
+      [
+        "We booked a sleeping berth on the overnight train.",
+        "我们订了夜班火车的卧铺。"
+      ],
+      [
+        "She tends to give that topic a wide berth.",
+        "她往往避开那个话题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/berth#English",
+      "https://www.etymonline.com/word/berth"
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "B3407",
+    "meaning": "前部、正面、前沿；面向水域的一侧",
+    "core": "FRONT：面对外界或推进方向的那一面",
+    "image": "先分最前沿 forefront、执行一线 frontline、店面 storefront，再按水域归拢地理位置词。",
+    "intro": "front 经法语接拉丁额头、正面词族。现代复合词不都指同一种实体：有些是位置，有些是功能，有些像 wavefront 已成为物理术语。",
+    "forms": "front → forefront、frontline、storefront；beach、sea、ocean、river、lake + front 看临水位置；wavefront 另学物理含义。",
+    "branches": [
+      [
+        "前沿和正面",
+        "front · forefront · frontline · battlefront · storefront · frontal · frontage · frontcourt"
+      ],
+      [
+        "海滩及海滨",
+        "waterfront · beachfront · seafront · oceanfront"
+      ],
+      [
+        "河湖地带",
+        "riverfront · lakefront"
+      ],
+      [
+        "物理术语",
+        "wavefront"
+      ]
+    ],
+    "contrasts": "forefront 领先位置，frontline 直接一线；oceanfront 临海与 ocean view 可看海不同；wavefront 不等于 wavelength。",
+    "practice": "The riverfront project brought the town’s old storefronts to the forefront of local discussion.\n\n滨河项目让镇上的旧店面成为当地讨论的焦点。",
+    "words": [
+      "front",
+      "forefront",
+      "frontline",
+      "battlefront",
+      "storefront",
+      "frontal",
+      "frontage",
+      "frontcourt",
+      "waterfront",
+      "beachfront",
+      "seafront",
+      "oceanfront",
+      "riverfront",
+      "lakefront",
+      "wavefront"
+    ],
+    "exclude": {
+      "co-front": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "front-toothless": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "frontside": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bayfront": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3067",
+    "meaning": "清单、列出；另一来源的无兴致",
+    "core": "LIST：逐项列开；listless 别误认成无清单",
+    "image": "购物清单、播放列表、曲目表都按内容用途分；listless 则另看旧词欲望、兴致。",
+    "intro": "清单 list 接条带、边条的历史形式。enlist 联系进入名册；wishlist、tracklist 是透明复合词。不要用同形 list 给 listless 编出没计划所以懒散的假故事。",
+    "forms": "list → enlist；按用途 wishlist、checklist、playlist、tracklist、setlist 等；listless 作为另源辨析单列。\n\n本组清单分支，其他 list 同形词来源另看。\n\n本族、法语条带材料与目录义相连；倾斜义另有历史。\n\n清单的条带背景与船体倾斜不同，现代 ing 可命名条目、刊登信息。\n\n这里讲清单、刊登条目支，不把船倾斜的同形 list 混入。\n\nlist 给选集、顺序的组织形式，节目不必只限音乐。\n\n此处 list 是旧 liste 兴致、欲望等材料，接 lystan 喜欢、想要的词族；与清单 list 区分。-less 是缺少兴致，再加 -ly 或 -ness 说方式、状态。\n\nenlist 在英语中对应进入、记入名册，可能受荷兰语相应词影响。现代加 -ed，/t/ 后读 /ɪd/，参军、招募与争取帮助等义分别说明。",
+    "branches": [
+      [
+        "基础、名册与核查",
+        "list · enlist · checklist"
+      ],
+      [
+        "愿望和不同曲目",
+        "wishlist · playlist · tracklist · setlist · booklist"
+      ],
+      [
+        "等待、观察及筛选名单",
+        "waitlist · watchlist · longlist · blacklist · whitelist"
+      ],
+      [
+        "另源辨析",
+        "listless"
+      ],
+      [
+        "list → listed：列清单与列入其中",
+        "list · listed"
+      ],
+      [
+        "list → lists：条状记录到清单",
+        "list · lists"
+      ],
+      [
+        "list → listing：把项目列出；倾斜另支",
+        "list · listing"
+      ],
+      [
+        "list → listing → listings：列出到发布的条目",
+        "list · listing · listings"
+      ],
+      [
+        "playlist → playlists：播放清单",
+        "playlist · playlists"
+      ],
+      [
+        "listless 的另源词群：没兴致",
+        "listless · listlessly · listlessness"
+      ],
+      [
+        "en- 入内 + list 名册 → enlisted",
+        "enlisted"
+      ]
+    ],
+    "contrasts": "tracklist 专辑曲目，playlist 播放列表，setlist 演出曲目；listless 不是清单为空。",
+    "practice": "She checked the tracklist and added the album to her wishlist.\n\n她看过曲目表，把这张专辑加入心愿单。",
+    "words": [
+      "list",
+      "enlist",
+      "checklist",
+      "wishlist",
+      "playlist",
+      "tracklist",
+      "setlist",
+      "booklist",
+      "waitlist",
+      "watchlist",
+      "longlist",
+      "blacklist",
+      "whitelist",
+      "listless",
+      "listed",
+      "lists",
+      "listing",
+      "listings",
+      "playlists",
+      "listlessly",
+      "listlessness",
+      "enlisted"
+    ],
+    "exclude": {
+      "e-list": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "cross-list": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lister": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

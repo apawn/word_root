@@ -1,0 +1,195 @@
+[
+  {
+    "id": "B4377",
+    "meaning": "重新修复、带回状态，区分动作、作用与执行者",
+    "core": "RESTORE：把失去、损坏的状态往回带",
+    "image": "restore → restorative、restorer。",
+    "intro": "restore 是做恢复动作，restorative 是有助恢复的，restorer 是负责修复的人或物。物品、精神、数据等按对象理解。",
+    "forms": "restaurāre → restorer → restore；-ative 性质，-er 人物或工具。\n\nrestaurant 借法语 restaurer 的分词名词化，先关联恢复体力的食物，后指供应食物的店；不是英语 restore 直接加 -ant。",
+    "branches": [
+      [
+        "动作、作用与修复者",
+        "restore · restorative · restorer"
+      ],
+      [
+        "restore／restaurant：从恢复体力的食物到餐馆",
+        "restore · restaurant · restaurants"
+      ]
+    ],
+    "contrasts": "restorative 不等于已经 restored；restore 的历史不能只按现代商店 store 理解。",
+    "practice": "The restorer worked to restore the old painting.\n\n修复师着手修复那幅旧画。",
+    "words": [
+      "restore",
+      "restorative",
+      "restorer",
+      "restaurant",
+      "restaurants"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3340",
+    "meaning": "奴役制度、状态及其反对方向",
+    "core": "SLAVERY：制度名称前加 anti-，表明反对立场",
+    "image": "slavery → antislavery。",
+    "intro": "先认清制度、状态名词，再看前缀给它加上怎样的方向。anti- 在这里就是反对该制度。",
+    "forms": "slave + -ery → slavery；anti- + slavery → antislavery。",
+    "branches": [
+      [
+        "制度、状态与反对立场",
+        "slavery · antislavery"
+      ]
+    ],
+    "contrasts": "antislavery 不作一个奴隶的人物名词；常修饰运动、文学、活动等。",
+    "practice": "Antislavery writers challenged the institution of slavery.\n\n反奴隶制作家质疑、反对奴隶制度。",
+    "words": [
+      "slavery",
+      "antislavery"
+    ],
+    "exclude": {
+      "neo-slavery": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A2299",
+    "meaning": "做什么、用什么制作，及相应作品或结构",
+    "core": "-WORK：前面说明材料、工具或内容，后面可能是活动，也可能是成品",
+    "image": "needlework、stonework 与 artwork、brickwork、metalwork 等一起按画面归类。",
+    "intro": "needlework 看工具，stonework、brickwork、metalwork 看材料，camerawork 看摄影运作与呈现。work 的结果义和活动义要一起认识。",
+    "forms": "needle 针、stone 石、brick 砖、metal 金属等 + work；clockwork 是钟表式机械结构的固定组合。",
+    "branches": [
+      [
+        "技艺与作品",
+        "needlework · artwork · camerawork"
+      ],
+      [
+        "材料与结构",
+        "stonework · brickwork · metalwork · ironwork"
+      ],
+      [
+        "机械构造的固定复合",
+        "clockwork"
+      ]
+    ],
+    "contrasts": "这些词常作不可数名词；work 不是在每一处都指一份工作；材料名称不直接等于加工后的结构。",
+    "practice": "The exhibition combines needlework, metalwork and stonework.\n\n展览把针线作品、金工作品和石作结合起来。",
+    "words": [
+      "needlework",
+      "artwork",
+      "camerawork",
+      "stonework",
+      "brickwork",
+      "metalwork",
+      "ironwork",
+      "clockwork"
+    ],
+    "exclude": {
+      "swash-work": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3985",
+    "meaning": "向后、反向，及相对滞后的性质、状态",
+    "core": "BACKWARD：先看方向，再看抽象的进展",
+    "image": "backward → backwards、backwardness。",
+    "intro": "backwards 常把动作方向、顺序倒过来；backwardness 把相对滞后或迟疑当作状态。两者不只是词长不同。",
+    "forms": "back + -ward → backward；副词 -s → backwards；-ness 状态名词。",
+    "branches": [
+      [
+        "方向与状态",
+        "backward · backwards · backwardness"
+      ]
+    ],
+    "contrasts": "backwards 的 -s 不是复数；前置形容词通常 backward；滞后需看具体比较范围。",
+    "practice": "A backward step made him stumble backwards.\n\n向后迈的一步让他向后踉跄了一下。",
+    "words": [
+      "backward",
+      "backwards",
+      "backwardness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2703",
+    "meaning": "金属材料的名字，扩为颜色、制品和相应化妆品",
+    "core": "BRONZE：材料变成颜色，颜色又给产品命名",
+    "image": "bronze → bronzer。",
+    "intro": "青铜雕像看材料，铜牌看奖项，bronzer 看古铜色妆效。前后相连，但不是把实际金属一律涂到脸上。",
+    "forms": "bronzo → bronze；bronze 的着色动词 + -er → bronzer；更早来源未定。",
+    "branches": [
+      [
+        "材料与颜色产品",
+        "bronze · bronzer"
+      ]
+    ],
+    "contrasts": "典型青铜、黄铜配方不同；win bronze 常说获铜牌；bronzer 是按妆效命名。",
+    "practice": "The bronze statue had a warm brown surface.\n\n青铜雕像表面呈暖棕色。",
+    "words": [
+      "bronze",
+      "bronzer"
+    ],
+    "exclude": {
+      "gold-bronze": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2836",
+    "meaning": "突然冲破、涌出，形成情绪或形状的爆发画面",
+    "core": "BURST：从里面一下冲出来",
+    "image": "burst → outburst；starburst、sunburst 把向外放射的形状固定下来。",
+    "intro": "气球爆、笑声涌出、光线向外放射，都能保留突然扩开的画面。具体物理动作和图案名称仍按场景理解。",
+    "forms": "berstan、bresten → burst；out 向外，star 星，sun 太阳。\n\nburst 承古英语 berstan 等日耳曼词，词内 r 的位置多次变化。现代 -s，末尾 /sts/，突发动作、短阵活动与第三人称动词按句子辨认。",
+    "branches": [
+      [
+        "破裂、突发及其名词",
+        "burst · outburst"
+      ],
+      [
+        "向外放射的形象",
+        "starburst · sunburst"
+      ],
+      [
+        "burst 突然破开、涌出 → bursts",
+        "bursts"
+      ]
+    ],
+    "contrasts": "burst 的过去式、过去分词通常同形；outburst 不只说愤怒；burst into tears 与 burst out laughing 各记搭配。",
+    "practice": "An outburst of applause greeted the performer.\n\n一阵突然响起的掌声迎接表演者。",
+    "words": [
+      "burst",
+      "outburst",
+      "starburst",
+      "sunburst",
+      "bursts"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3377",
+    "meaning": "格栅缩略名称，扩到网格布局和相连网络",
+    "core": "GRID：从烤架的线条，看出地图和城市的格网",
+    "image": "gridiron、griddle 的缩短词 grid；grid → gridlock。",
+    "intro": "形状帮助记忆，历史顺序也要看清：短词不总比长词早。grid 的电网义则从格栅外形转向连接系统。",
+    "forms": "gridiron 或 griddle → grid；grid + lock → gridlock。gridiron 的 iron 形式历史也受熟悉词影响。",
+    "branches": [
+      [
+        "网格与连接系统",
+        "grid"
+      ],
+      [
+        "固定复合与历史长词",
+        "gridlock · gridiron"
+      ]
+    ],
+    "contrasts": "gridlock 可道路堵死也可事情僵住；gridiron 的球场义来自线条；grid 的各种系统不必都是正方形。",
+    "practice": "Traffic came to a standstill across the city’s grid of streets.\n\n全城格网状街道上的交通陷入停滞。",
+    "words": [
+      "grid",
+      "gridlock",
+      "gridiron"
+    ],
+    "exclude": {
+      "grid-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

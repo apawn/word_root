@@ -1,0 +1,234 @@
+[
+  {
+    "id": "A1877",
+    "meaning": "观察、检查的方法或研究领域，前半指出对象",
+    "core": "-SCOPY：方法名在说看什么、怎样研究",
+    "image": "microscopy 显微观察；spectroscopy 谱学；endoscopy 等进入镜检名称。",
+    "intro": "不要把所有 -scopy 当一根伸进人体的镜子。显微、光谱、腹腔、结肠分别给出不同对象和方法范围。",
+    "forms": "希腊 skopein 看、观察 → -scopy 等近代科学构词材料；与仪器尾 -scope 对照。",
+    "branches": [
+      [
+        "研究和观察方法",
+        "microscopy · spectroscopy"
+      ],
+      [
+        "镜检方法与相关诊疗",
+        "endoscopy · arthroscopy · colonoscopy · laparoscopy"
+      ]
+    ],
+    "contrasts": "-scope 常指仪器，-scopy 常指观察方法；名称告诉你检查类别，不代替检查结果。",
+    "practice": "The glossary separates spectroscopy from the medical terms colonoscopy and laparoscopy.\n\n词汇表把谱学与结肠镜、腹腔镜这两种医学术语分开。",
+    "words": [
+      "microscopy",
+      "spectroscopy",
+      "endoscopy",
+      "arthroscopy",
+      "colonoscopy",
+      "laparoscopy"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4535",
+    "meaning": "进入并侵占、干扰，或与进入身体有关的专门义",
+    "core": "INVASIVE：进入了原本的边界，还造成影响",
+    "image": "invasive 与 noninvasive 依场景比较。",
+    "intro": "外来植物侵入生态、提问侵犯私人空间、诊疗进入身体，是不同语境。共同画面是越过边界，具体标准仍由领域决定。",
+    "forms": "拉丁 invadere、invas- 等侵入材料 → invasive；non- 否定 → noninvasive。医学、生态等不是凭一个前缀就能互相套定义。",
+    "branches": [
+      [
+        "侵入性与非侵入性",
+        "invasive · noninvasive"
+      ]
+    ],
+    "contrasts": "noninvasive 不等于任何风险都没有；invasive species 也不等于所有外来物种，常包含扩散、造成危害等生态语境。",
+    "practice": "The article distinguishes invasive from noninvasive methods.\n\n文章区分了侵入性与非侵入性方法。",
+    "words": [
+      "invasive",
+      "noninvasive"
+    ],
+    "exclude": {
+      "anti-invasive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3658",
+    "meaning": "超出现实常规的运动、人物与梦境般感觉",
+    "core": "SURREAL：熟悉的东西，按梦的逻辑组合",
+    "image": "surrealism、surrealist 的运动和人物形式先认识；surreal 是较短的梦境般性质词。",
+    "intro": "按意思可以从 surreal 入门，按历史却不能把所有长词画成它的后代。词形简单不一定记录得更早。",
+    "forms": "法语 surréalisme、surréaliste 等进入英语；surreal 后来逆构。surrealistic 为相应形容词形式。",
+    "branches": [
+      [
+        "梦境般性质与艺术语境",
+        "surreal · surrealistic"
+      ],
+      [
+        "运动、人物与相关修饰",
+        "surrealism · surrealist"
+      ]
+    ],
+    "contrasts": "日常 feel surreal 不表示自己正在创作超现实主义；历史形成顺序与学习顺序不总一样。",
+    "practice": "The surrealist’s work creates a surreal atmosphere without using a single fixed style of surrealism.\n\n这位超现实主义者的作品营造梦境般气氛，却没有套用单一固定画法。",
+    "words": [
+      "surreal",
+      "surrealistic",
+      "surrealism",
+      "surrealist"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4375",
+    "meaning": "琐碎、简单的评价，进入轻视、简化与否定",
+    "core": "TRIVIAL：小到可以略过，还是只是看着简单",
+    "image": "trivial → trivially、triviality、trivialize；nontrivial 否定简单、平凡。",
+    "intro": "同一组可以在日常评价事情大小，也可以在技术里区分显然结果与实质结果。trivialize 更强调把原本重要的事说轻了。",
+    "forms": "trivial 上接拉丁 trivialis 等普通、常见材料；-ly 方式，-ity 性质或琐事，-ize 使显得琐碎，non- 否定。",
+    "branches": [
+      [
+        "琐碎性质、方式与评价动作",
+        "trivial · trivially · triviality · trivialize"
+      ],
+      [
+        "不简单、非平凡",
+        "nontrivial"
+      ]
+    ],
+    "contrasts": "nontrivial 不保证无法解决；trivialize 是轻视、淡化，不是所有简明解释。",
+    "practice": "Do not trivialize a nontrivial problem.\n\n别把一个并不简单的问题说成小事。",
+    "words": [
+      "trivial",
+      "trivially",
+      "triviality",
+      "trivialize",
+      "nontrivial"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4131",
+    "meaning": "口语酒与饮酒，进入人物、地点和性质",
+    "core": "BOOZE：口语里把各种酒一把叫出来",
+    "image": "booze → boozer、boozy。",
+    "intro": "词性变化后，能说酒、喝酒、喝酒的人、酒馆和带酒味的东西。先看句法，不把整组都翻成酒鬼。",
+    "forms": "旧 bous、bouse、bouze 等 → booze；去末尾 e 接 -er、-y。更早酒词的借入历史先于近代同姓酒商。\n\nbooze 有中古英语 bouse 等较早材料，可能接中古荷兰饮酒器皿、痛饮词；不是后来酒商 Booz 的名字造了这个旧词。",
+    "branches": [
+      [
+        "酒、饮酒及人物地点",
+        "booze · boozer"
+      ],
+      [
+        "酒意、酒量与酒味性质",
+        "boozy"
+      ],
+      [
+        "booze：喝酒、痛饮的动词形式",
+        "booze · boozes · boozed · boozing"
+      ]
+    ],
+    "contrasts": "boozer 可指酒馆；boozy 可形容甜点；booze 不是由近代 Booz 姓氏第一次创造。",
+    "practice": "The story is set in a boozer and describes a boozy evening.\n\n故事发生在酒馆里，描写了一个喝了不少酒的夜晚。",
+    "words": [
+      "booze",
+      "boozer",
+      "boozy",
+      "boozes",
+      "boozed",
+      "boozing"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3020",
+    "meaning": "带齿梳具及梳理，进入细搜与纤维处理",
+    "core": "COMB：一排齿过去，把每一缕理出来",
+    "image": "comb → combed；honeycomb 看旧巢脾名的发展。",
+    "intro": "梳头、查文件、梳理纤维能共用逐一理过的画面。honeycomb 有自己的历史义项，不发明一把给蜜蜂梳头的梳子。",
+    "forms": "古英语 camb → comb；名词转动作；-ed 读 /d/；现代 comb、combed 的 b 都不发音。",
+    "branches": [
+      [
+        "梳具与梳理状态",
+        "comb · combed"
+      ],
+      [
+        "旧巢脾义形成复合名",
+        "honeycomb"
+      ]
+    ],
+    "contrasts": "comb through 强调细查；combed 的 b 不因加后缀突然发音。",
+    "practice": "With his hair combed, he sat down to comb through the documents.\n\n头发梳好后，他坐下来仔细查阅文件。",
+    "words": [
+      "comb",
+      "combed",
+      "honeycomb"
+    ],
+    "exclude": {
+      "horse-comb": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "comb-honey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "comber": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "A1910",
+    "meaning": "产生、来源或相关性质，方向由整词决定",
+    "core": "-GENIC：先问谁产生谁，别全翻成基因",
+    "image": "anthropogenic 人为造成；neurogenic 神经来源；cryogenic 低温相关；其他词各看对象。",
+    "intro": "有些词强调产生某物，有些强调由某物产生，现代还有较宽的相关义。认得 gen- 生的核心后，再顺着整词固定用法判断方向。",
+    "forms": "希腊生、产生材料 → -genic；anthropo- 人，cryo- 冷，keto- 酮，onco- 肿瘤，neuro- 神经。其他已讲词一并对照。",
+    "branches": [
+      [
+        "来源、产生及相关机制",
+        "anthropogenic · pathogenic · carcinogenic · mutagenic · oncogenic · neurogenic · psychogenic · biogenic"
+      ],
+      [
+        "低温与代谢",
+        "cryogenic · ketogenic"
+      ],
+      [
+        "其他固定领域义",
+        "photogenic · transgenic · eugenic"
+      ]
+    ],
+    "contrasts": "photogenic 上镜不是会产生光；neurogenic 常说神经来源；-genic 不能处处机械译成基因。",
+    "practice": "The glossary explains anthropogenic sources, cryogenic equipment and neurogenic mechanisms separately.\n\n词汇表分别解释人为来源、低温设备和神经源性机制。",
+    "words": [
+      "anthropogenic",
+      "pathogenic",
+      "carcinogenic",
+      "mutagenic",
+      "oncogenic",
+      "neurogenic",
+      "psychogenic",
+      "biogenic",
+      "cryogenic",
+      "ketogenic",
+      "photogenic",
+      "transgenic",
+      "eugenic"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4291",
+    "meaning": "让人感到愉快、有精神，进入方式与状态",
+    "core": "CHEERFUL：心里亮起来，样子也有精神",
+    "image": "cheerful → cheerfully、cheerfulness。",
+    "intro": "cheerful 可以说人的情绪，也可说让人觉得明快的房间、颜色。副词说怎样做，名词谈愉快、乐观的状态。",
+    "forms": "cheer + -ful → cheerful；接 -ly → cheerfully，-ness → cheerfulness。-ful 在这里形成性质词，不当作独立 full 多拼一个 l。",
+    "branches": [
+      [
+        "愉快性质、方式与状态",
+        "cheerful · cheerfully · cheerfulness"
+      ]
+    ],
+    "contrasts": "cheerful 不要求一直大笑；cheerfully 也可能带欣然、爽快接受的意味。",
+    "practice": "Her cheerful voice and cheerfulness helped everyone respond more cheerfully.\n\n她愉快的声音和乐观情绪，让大家回应得也更轻松。",
+    "words": [
+      "cheerful",
+      "cheerfully",
+      "cheerfulness"
+    ],
+    "exclude": {}
+  }
+]

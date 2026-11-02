@@ -1,0 +1,99 @@
+[
+  {
+    "id": "B2459",
+    "meaning": "生长与按位置、方向、次数、程度分化",
+    "core": "GROWTH：长出来；前部决定怎样长",
+    "image": "growth 已精讲，接 undergrowth 低层、outgrowth 向外结果、regrowth 再生、overgrowth 过度。",
+    "intro": "growth 与 grow 有旧名词关系，不是每个动词都能任意加 -th。四个扩展都是现代很好理解的方向、程度组合。",
+    "forms": "under-/out-/re-/over- + growth。",
+    "branches": [
+      [
+        "基本生长",
+        "growth"
+      ],
+      [
+        "位置与衍生",
+        "undergrowth · outgrowth"
+      ],
+      [
+        "再次与过量",
+        "regrowth · overgrowth"
+      ]
+    ],
+    "contrasts": "undergrowth 不等于 underground；outgrowth 可好可坏；regrowth 不保证完全复原；overgrowth 过量或覆盖。",
+    "practice": "New regrowth soon covered the area where the overgrowth had been cleared.\n\n丛生植物清除后，那片地方很快又长出新芽。",
+    "words": [
+      "growth",
+      "undergrowth",
+      "outgrowth",
+      "regrowth",
+      "overgrowth"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3164",
+    "meaning": "带领者与领导不同群体的角色",
+    "core": "LEADER：谁在带；前部说明带哪一群、做什么",
+    "image": "leader、leadership 已精讲，补 cheerleader、ringleader、bandleader，再接 leaderless 和共享 leaderboard。",
+    "intro": "leader 有古英语历史。复合词不全等于领导职位：cheerleader 可普通啦啦队员，ringleader 常负面。",
+    "forms": "cheer/ring/band + leader；leader + -less/-ship；leader + board。\n\nleader 可指负责人，也可指非正式带头人或比赛领先者；复数的 /z/ 加在人物名词之后。",
+    "branches": [
+      [
+        "基本人物、能力与缺位",
+        "leader · leadership · leaderless"
+      ],
+      [
+        "具体人物角色",
+        "cheerleader · ringleader · bandleader"
+      ],
+      [
+        "已有名次记录",
+        "leaderboard"
+      ],
+      [
+        "leader → leaders：带领者的常用复数",
+        "leader · leaders"
+      ]
+    ],
+    "contrasts": "cheerleader 不只队长；ringleader 常负面；bandleader 不必总是持棒指挥；leaderless 不自动混乱。",
+    "practice": "The bandleader thanked the team’s cheerleaders for their support.\n\n乐队领队感谢了团队的积极支持者。",
+    "words": [
+      "leader",
+      "leadership",
+      "leaderless",
+      "cheerleader",
+      "ringleader",
+      "bandleader",
+      "leaderboard",
+      "leaders"
+    ],
+    "exclude": {
+      "e-leader": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3950",
+    "meaning": "返回动作与不同返回者称呼",
+    "core": "RETURN：回来；RETURNER、RETURNEE：两种人物词",
+    "image": "return 已有精讲，两个后缀相邻对照，避免套主动被动公式。",
+    "intro": "return 来自法语转回词。returner 可体育回击或返岗者，returnee 常指某个返归群体，语义有重合。",
+    "forms": "return + -er → returner；return + -ee → returnee。",
+    "branches": [
+      [
+        "基本动作与人物",
+        "return · returner · returnee"
+      ]
+    ],
+    "contrasts": "-ee 在 returnee 中不一定被动；具体返回工作、国家还是场地，要看上下文。",
+    "practice": "The course welcomes both new workers and returnees.\n\n课程欢迎新入职者，也欢迎重返工作的人。",
+    "words": [
+      "return",
+      "returner",
+      "returnee"
+    ],
+    "exclude": {
+      "auto-return": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

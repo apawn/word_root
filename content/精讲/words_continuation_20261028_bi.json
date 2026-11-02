@@ -1,0 +1,778 @@
+[
+  {
+    "word": "fire",
+    "ipa": "英 /ˈfaɪə/；美 /ˈfaɪər/",
+    "meaning": "火；火灾；点燃；开火；解雇；热情",
+    "sense": "先是燃烧发光、发热的火；后来也说火器射击、强烈热情，解雇则是另一个常用动词义。",
+    "split": "接古英语 fȳr、中古英语 fyr，远早于现代枪械；动词点燃由火名词等相关用法发展。射击与火器背景相连，不把解雇解释成真拿火烧人。",
+    "history": [
+      [
+        "古英语 fȳr → 中古英语 fyr",
+        "火；更早属日耳曼继承词族"
+      ],
+      [
+        "英语 fire",
+        "火、点燃；射击；解雇；热情等扩展"
+      ]
+    ],
+    "explanation": "light a fire 生火，a house fire 房屋火灾，fire a weapon 开火，fire someone 解雇。fire questions at 连珠炮式发问；fire in her eyes 可说眼里有热情、斗志。",
+    "usage": "a fire breaks out；catch fire；fire someone；fire questions at；play with fire。",
+    "contrast": "on fire 着火，under fire 遭火力攻击或批评；fire 的强度比喻不保证每次真有火焰。",
+    "examples": [
+      [
+        "A fire broke out in the old warehouse.",
+        "旧仓库起火了。"
+      ],
+      [
+        "The reporter fired questions at the spokesperson.",
+        "记者向发言人连珠炮似的发问。"
+      ],
+      [
+        "She was fired after repeatedly missing work.",
+        "她多次缺勤后被解雇了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fire#English"
+    ]
+  },
+  {
+    "word": "fired",
+    "ipa": "英 /ˈfaɪəd/；美 /ˈfaɪərd/",
+    "meaning": "被解雇的；烧制过的；fire 的过去式、分词",
+    "sense": "人被 fired 是丢了职位，陶器被 fired 是进窑烧制；两者都要先选 fire 的动词义。",
+    "split": "fire + -ed，末尾读 /d/。从动词不同义项形成分词、形容词，不把烧陶器说成辞退它。",
+    "history": [
+      [
+        "古英语 fȳr → 中古英语 fyr",
+        "火；更早属日耳曼继承词族"
+      ],
+      [
+        "英语 fire",
+        "火、点燃；射击；解雇；热情等扩展"
+      ],
+      [
+        "fire + -ed → fired",
+        "射击、点燃等过去分词；解雇、烧制后的状态"
+      ]
+    ],
+    "explanation": "get fired 被解雇，fired clay 烧制陶土，fired up 兴奋、斗志被点燃。fired up 的积极情绪不等于刚被辞退。",
+    "usage": "get fired；fired clay；be fired up；a fired employee。",
+    "contrast": "fired 被解雇，retired 退休，不是拼写相近就一样；两种离开工作的背景不同。",
+    "examples": [
+      [
+        "He was worried about getting fired.",
+        "他担心被解雇。"
+      ],
+      [
+        "The sculpture is made from fired clay.",
+        "雕塑由烧制陶土制成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fired#English"
+    ]
+  },
+  {
+    "word": "fiery",
+    "ipa": "英 /ˈfaɪəri/；美 /ˈfaɪəri/",
+    "meaning": "火焰般的；火红的；激烈热情的；很辣的",
+    "sense": "颜色像火、话语像火、辣味像火，都把强烈感觉借到身上。",
+    "split": "接中古英语 fyry，由 fyr“火”等形成，现代对应 fire + -y，但标准常见拼写是 fiery，不按外观写作 firey。",
+    "history": [
+      [
+        "古英语 fȳr → 中古英语 fyr",
+        "火；更早属日耳曼继承词族"
+      ],
+      [
+        "英语 fire",
+        "火、点燃；射击；解雇；热情等扩展"
+      ],
+      [
+        "中古英语 fyry → 英语 fiery",
+        "与火相似；强烈、火热"
+      ]
+    ],
+    "explanation": "fiery red hair 火红头发，a fiery speech 激烈演讲，a fiery temper 火爆脾气，fiery food 很辣的食物。",
+    "usage": "a fiery speech；a fiery temper；fiery red；a fiery curry。",
+    "contrast": "fiery 不一定是字面 burning 燃着；fiery speech 常是情绪强烈，不需要纸稿真的着火。",
+    "examples": [
+      [
+        "She delivered a fiery speech about the closure.",
+        "她就关闭一事发表了激烈演讲。"
+      ],
+      [
+        "The curry was far too fiery for me.",
+        "这份咖喱对我来说太辣了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fiery#English"
+    ]
+  },
+  {
+    "word": "fireworks",
+    "ipa": "英 /ˈfaɪəwɜːks/；美 /ˈfaɪərwɜːrks/",
+    "meaning": "烟花；焰火表演；激烈冲突、精彩表现〔比喻〕",
+    "sense": "很多烟花一起在夜空展开是一场 fireworks；争论、表现激烈得像火花乱溅，也借这个词。",
+    "split": "对应 fire + work(s)，与荷兰 vuurwerk、德语 Feuerwerk 等相关欧洲构词有联系，传播细节有推测。work 在这里选制品、装置，不是火有工作岗位。",
+    "history": [
+      [
+        "相关欧洲火＋制品表达；英语 fire + work(s)",
+        "烟火制品命名的构词、传播背景"
+      ],
+      [
+        "英语 fireworks",
+        "烟花或整场焰火；引申强烈场面"
+      ]
+    ],
+    "explanation": "watch the fireworks 看焰火表演，expect fireworks 预期有激烈争论或精彩场面。firework 单数是一枚烟花制品，fireworks 常说集合、表演。",
+    "usage": "watch the fireworks；a fireworks display；expect fireworks。",
+    "contrast": "fireworks 夜空焰火，firefighting 消防灭火；名称都带 fire，但活动目标不同。",
+    "examples": [
+      [
+        "We watched the fireworks from the riverbank.",
+        "我们在河岸看焰火。"
+      ],
+      [
+        "There were fireworks when the two rivals met in the debate.",
+        "两位对手在辩论碰面时，场面火花四射。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fireworks#English"
+    ]
+  },
+  {
+    "word": "firearm",
+    "ipa": "英 /ˈfaɪərɑːm/；美 /ˈfaɪərɑːrm/",
+    "meaning": "枪械；火器",
+    "sense": "arm 在这里是武器，fire 指火器发射背景，不是人的手臂烧起来。",
+    "split": "fire（火器射击）+ arm（武器），复数 firearms 很常见；arm 的武器义与身体手臂义不能在此混译。",
+    "history": [
+      [
+        "fire〔射击、火器〕；arm〔武器〕",
+        "并列构词部分"
+      ],
+      [
+        "firearm",
+        "利用发射药等原理发射弹丸的枪械、火器"
+      ]
+    ],
+    "explanation": "a historic firearm 历史火器，firearm collection 火器藏品。实际法律分类可能另有专门范围，普通词义先抓枪械。",
+    "usage": "a historic firearm；a firearm collection；firearm regulations。",
+    "contrast": "firearm 枪械，firefighter 消防员；arm 在这里不是保护消防员的那条胳膊。",
+    "examples": [
+      [
+        "The museum displays historic firearms.",
+        "博物馆展出历史火器。"
+      ],
+      [
+        "The detective found an old firearm in the fictional scene.",
+        "虚构场景中，侦探发现了一支旧枪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firearm#English"
+    ]
+  },
+  {
+    "word": "gunfire",
+    "ipa": "英 /ˈɡʌnfaɪə/；美 /ˈɡʌnfaɪər/",
+    "meaning": "枪炮射击；枪声",
+    "sense": "枪开火时产生的射击和声响，重点不是一场自然火灾。",
+    "split": "gun + fire，fire 选武器发射义。用火把枪点燃的字面拼法不是现代主要意思。",
+    "history": [
+      [
+        "gun；fire〔射击〕",
+        "并列构词部分"
+      ],
+      [
+        "gunfire",
+        "枪炮射击及其声音"
+      ]
+    ],
+    "explanation": "hear gunfire 听见枪声，distant gunfire 远处枪炮声，come under gunfire 遭枪火攻击。通常不可数，不直接 a gunfire 来数一次响声。",
+    "usage": "distant gunfire；hear gunfire；an exchange of gunfire。",
+    "contrast": "gunfire 枪声、射击，gunfight 双方用枪交战；听到枪声不自动证明已经发生交火。",
+    "examples": [
+      [
+        "Distant gunfire could be heard in the film’s opening scene.",
+        "影片开场能听到远处枪声。"
+      ],
+      [
+        "The report described an exchange of gunfire.",
+        "报道描述了一次交火。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/gunfire#English"
+    ]
+  },
+  {
+    "word": "firefight",
+    "ipa": "英 /ˈfaɪəfaɪt/；美 /ˈfaɪərfaɪt/",
+    "meaning": "交火；枪战；激烈争论〔引申〕",
+    "sense": "双方互相开火，fire 在这里是射击；不是最常见意义上的拿水灭火。",
+    "split": "fire（枪火）+ fight（战斗），常指一段交火。fight a fire 分写却是扑灭火灾，顺序、组合方式要分清。",
+    "history": [
+      [
+        "fire〔枪火〕；fight",
+        "并列构词部分"
+      ],
+      [
+        "firefight",
+        "互射的短时战斗；引申激烈争论"
+      ]
+    ],
+    "explanation": "a brief firefight 短暂交火，a firefight between 两方交火。办公室比喻也可能说激烈争执，按语境选。",
+    "usage": "a brief firefight；a firefight between；caught in a firefight。",
+    "contrast": "firefight 常是交火，firefighting 是消防、救急处理；别把 firefighting crew 译成枪战队伍。",
+    "examples": [
+      [
+        "The novel describes a brief firefight near the bridge.",
+        "小说描写了桥附近一段短暂交火。"
+      ],
+      [
+        "The meeting turned into a verbal firefight.",
+        "会议变成了一场唇枪舌剑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firefight#English"
+    ]
+  },
+  {
+    "word": "ceasefire",
+    "ipa": "英 /ˈsiːsfaɪə/；美 /ˈsiːsfaɪər/",
+    "meaning": "停火；停火协议、状态",
+    "sense": "cease 是停止，让枪火先停下来；停火不等于所有争议都已经解决。",
+    "split": "cease（停止）+ fire（射击、战事），由停止开火的表达词汇化为名词，也可见动词用法。",
+    "history": [
+      [
+        "cease；fire〔开火〕",
+        "并列构词部分"
+      ],
+      [
+        "ceasefire",
+        "停止交火的安排、状态"
+      ]
+    ],
+    "explanation": "agree to a ceasefire 同意停火，a temporary ceasefire 临时停火，a ceasefire agreement 停火协议。具体范围、期限由相应安排交代。",
+    "usage": "agree to a ceasefire；a temporary ceasefire；a ceasefire agreement。",
+    "contrast": "ceasefire 停火，peace treaty 和约更偏正式解决战争关系的条约；不能看到停火就当争端已彻底结束。",
+    "examples": [
+      [
+        "The two sides agreed to a temporary ceasefire in the story.",
+        "故事里，双方同意临时停火。"
+      ],
+      [
+        "The documentary examines how the ceasefire was negotiated.",
+        "纪录片考察了停火是怎样谈成的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ceasefire#English"
+    ]
+  },
+  {
+    "word": "firefighter",
+    "ipa": "英 /ˈfaɪəfaɪtə/；美 /ˈfaɪərfaɪtər/",
+    "meaning": "消防员",
+    "sense": "职业工作是与失控火灾及相关险情作斗争，不是持枪交战的人。",
+    "split": "fire + fighter，fighter 是 fight + -er；相比传统 fireman 不限定性别。",
+    "history": [
+      [
+        "fire；fighter〔fight + -er〕",
+        "并列构词部分"
+      ],
+      [
+        "firefighter",
+        "受训练从事灭火、救援等工作的人"
+      ]
+    ],
+    "explanation": "a trained firefighter 受训消防员，a volunteer firefighter 志愿消防员。具体职责因机构而异，词最基本抓灭火、消防。",
+    "usage": "a volunteer firefighter；a trained firefighter；a team of firefighters。",
+    "contrast": "firefighter 消防员，fighter 可是战斗者、拳手或战斗机；复合词选的是对抗火灾这一义。",
+    "examples": [
+      [
+        "The firefighters helped everyone leave the building.",
+        "消防员帮助所有人离开建筑。"
+      ],
+      [
+        "Her sister works as a firefighter.",
+        "她姐姐是消防员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firefighter#English"
+    ]
+  },
+  {
+    "word": "firefighting",
+    "ipa": "英 /ˈfaɪəfaɪtɪŋ/；美 /ˈfaɪərfaɪtɪŋ/",
+    "meaning": "消防、灭火；忙于救急处理〔比喻〕",
+    "sense": "真实火场是在灭火；工作里若一个问题刚压下、另一个又起，也像整天救火。",
+    "split": "fire + fighting，fighting 是 fight + -ing。重心是对抗火灾的活动，不是 firefight 交火再随便加 ing。",
+    "history": [
+      [
+        "fire；fighting〔fight + -ing〕",
+        "并列构词部分"
+      ],
+      [
+        "firefighting",
+        "灭火活动、职业；引申不断处理紧急问题"
+      ]
+    ],
+    "explanation": "firefighting equipment 消防设备，a firefighting team 消防队；constant firefighting 常抱怨工作总在被动救急，没空做长期改进。",
+    "usage": "firefighting equipment；a firefighting team；constant firefighting。",
+    "contrast": "firefighting 灭火、救急，firefight 交火；管理比喻里的 firefighting 不要求办公室真有火。",
+    "examples": [
+      [
+        "The exhibition shows the history of firefighting equipment.",
+        "展览展示消防设备的历史。"
+      ],
+      [
+        "The team spent the week firefighting instead of improving the system.",
+        "团队一周都忙着救急，没能改进系统。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firefighting#English"
+    ]
+  },
+  {
+    "word": "fireman",
+    "ipa": "英 /ˈfaɪəmən/；美 /ˈfaɪərmən/",
+    "meaning": "消防员〔传统称谓〕；锅炉司炉工",
+    "sense": "现代常是灭火的人，蒸汽机历史里却可能是负责让炉火一直烧着的人。",
+    "split": "fire + man，按与火打交道的职责命名；灭火与维持炉火是两种工作，不能说所有旧火车 firemen 都在扑火。",
+    "history": [
+      [
+        "fire；man",
+        "并列构词部分"
+      ],
+      [
+        "fireman",
+        "传统消防员称谓；另为维持锅炉燃烧的司炉工"
+      ]
+    ],
+    "explanation": "a fireman in an old story 可能消防员，a locomotive fireman 常是蒸汽机车司炉工。现代不标性别的消防职业称呼通常用 firefighter。",
+    "usage": "a locomotive fireman；a fireman’s helmet；a retired fireman。",
+    "contrast": "fireman 在旧火车、轮船语境先查司炉义；firefighter 则明确对抗火灾，不是添煤工作的通称。",
+    "examples": [
+      [
+        "The retired fireman spoke about his career.",
+        "退休消防员讲述了职业经历。"
+      ],
+      [
+        "The locomotive fireman tended the boiler fire.",
+        "机车司炉工照管锅炉炉火。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fireman#English"
+    ]
+  },
+  {
+    "word": "wildfire",
+    "ipa": "英 /ˈwaɪldfaɪə/；美 /ˈwaɪldfaɪər/",
+    "meaning": "野火；林野火灾",
+    "sense": "火不再乖乖待在炉里，而在林地、草地等野外蔓延。",
+    "split": "wild + fire，古英语有 wilde fȳr，中古英语相关组合延续。wild 说失控、野外特征，不等于每次都由自然原因引发。",
+    "history": [
+      [
+        "wild；fire",
+        "并列构词部分"
+      ],
+      [
+        "wildfire",
+        "野外蔓延的火灾"
+      ]
+    ],
+    "explanation": "a wildfire spreads 野火蔓延，spread like wildfire 像野火一样迅速传开，常说消息、谣言。野外火灾不只发生在密林。",
+    "usage": "a wildfire spreads；wildfire damage；spread like wildfire。",
+    "contrast": "wildfire 是失控野火，campfire 是营地有特定用途的火；后者失控可能造成前者，但并非同一名称。",
+    "examples": [
+      [
+        "The documentary follows a forest recovering after a wildfire.",
+        "纪录片跟踪森林在野火后的恢复。"
+      ],
+      [
+        "The news spread like wildfire through the town.",
+        "消息像野火一样迅速传遍小镇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/wildfire#English"
+    ]
+  },
+  {
+    "word": "bushfire",
+    "ipa": "英 /ˈbʊʃfaɪə/；美 /ˈbʊʃfaɪər/",
+    "meaning": "林野火灾；丛林、草木火灾〔尤澳洲用语〕",
+    "sense": "澳洲语境的 bush 常泛说野外林地，不只是一小丛矮灌木。",
+    "split": "bush + fire，按澳洲等英语用法里的野外草木环境命名。不能把 bush 每次都缩成一株灌木。",
+    "history": [
+      [
+        "bush〔野外林地等〕；fire",
+        "并列构词部分"
+      ],
+      [
+        "bushfire",
+        "草木、林野环境中的火灾"
+      ]
+    ],
+    "explanation": "a major bushfire 重大林野火灾，bushfire damage 林野火灾损害。地域用词与 wildfire 有交集，不按词形强分成只烧树、只烧草。",
+    "usage": "a major bushfire；bushfire damage；the bushfire season。",
+    "contrast": "bushfire 与 wildfire 常重叠，前者带更明显澳洲等地域用词色彩；不由 bush 一个词断定起火原因。",
+    "examples": [
+      [
+        "The archive contains photographs of a major bushfire.",
+        "档案保存了一场重大林野火灾的照片。"
+      ],
+      [
+        "The town rebuilt its community hall after the bushfire.",
+        "林野火灾后，小镇重建了社区礼堂。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/bushfire#English"
+    ]
+  },
+  {
+    "word": "firewood",
+    "ipa": "英 /ˈfaɪəwʊd/；美 /ˈfaɪərwʊd/",
+    "meaning": "柴火；作燃料的木材",
+    "sense": "木头不是拿来做柜子，而是留着烧火、取暖的。",
+    "split": "fire + wood，中古英语 ferwode、fyrewoode 等已有相应组合。按用途命名，不是木头正在燃烧才算 firewood。",
+    "history": [
+      [
+        "fire；wood",
+        "并列构词部分"
+      ],
+      [
+        "firewood",
+        "用于燃烧的木材、柴"
+      ]
+    ],
+    "explanation": "a pile of firewood 一堆柴，collect firewood 收集柴火。通常不可数，一块柴可说 a piece of firewood。",
+    "usage": "a pile of firewood；collect firewood；a piece of firewood。",
+    "contrast": "firewood 是木材燃料，firewood smoke 才是燃烧后的烟；没点燃的一堆柴仍是 firewood。",
+    "examples": [
+      [
+        "A pile of firewood stood beside the shed.",
+        "棚屋旁堆着一堆柴。"
+      ],
+      [
+        "They stored the firewood under a roof.",
+        "他们把柴存放在有顶遮护的地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firewood#English"
+    ]
+  },
+  {
+    "word": "campfire",
+    "ipa": "英 /ˈkæmpfaɪə/；美 /ˈkæmpfaɪər/",
+    "meaning": "营火；篝火",
+    "sense": "野营时围坐取暖、照明、讲故事的那一堆火。",
+    "split": "camp + fire，按营地、野营活动中的用途组合；不等于所有野外火灾。",
+    "history": [
+      [
+        "camp；fire",
+        "并列构词部分"
+      ],
+      [
+        "campfire",
+        "营地或野营活动中的火堆"
+      ]
+    ],
+    "explanation": "sit around a campfire 围营火坐，campfire stories 营火边讲的故事。词本身描写场景，不说明某处是否允许点火。",
+    "usage": "sit around a campfire；campfire stories；a campfire song。",
+    "contrast": "campfire 有具体营地用途，wildfire 野外失控火灾；语境先分是否在谈计划中的活动或灾害。",
+    "examples": [
+      [
+        "They told stories around the campfire.",
+        "他们围着营火讲故事。"
+      ],
+      [
+        "The novel opens with a campfire scene in the mountains.",
+        "小说以山里营火旁的场景开篇。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/campfire#English"
+    ]
+  },
+  {
+    "word": "firefly",
+    "ipa": "英 /ˈfaɪəflaɪ/；美 /ˈfaɪərflaɪ/",
+    "meaning": "萤火虫",
+    "sense": "小虫在暗处发光，像随身带一星火；那是生物发光，不是真有火在烧。",
+    "split": "fire + fly，按会发光的小虫形象命名。萤火虫属于甲虫，英文日常名里的 fly 不保证昆虫分类就是家蝇那一类。",
+    "history": [
+      [
+        "fire〔火光的比喻〕；fly〔飞虫命名成分〕",
+        "并列构词部分"
+      ],
+      [
+        "firefly",
+        "能发出生物光的萤火虫类甲虫"
+      ]
+    ],
+    "explanation": "fireflies glow 萤火虫发光，watch fireflies 看萤火虫；复数 y 变 ies。不同种类的发光行为有差别，不把名字当所有细节的说明。",
+    "usage": "watch fireflies；fireflies glow；a firefly’s light。",
+    "contrast": "firefly 是昆虫，firelight 是火光；虫体的光不是微型燃烧火堆。",
+    "examples": [
+      [
+        "We watched fireflies glow above the grass.",
+        "我们看着萤火虫在草丛上发光。"
+      ],
+      [
+        "A firefly landed on the window screen.",
+        "一只萤火虫落在纱窗上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firefly#English"
+    ]
+  },
+  {
+    "word": "fireball",
+    "ipa": "英 /ˈfaɪəbɔːl/；美 /ˈfaɪərbɔːl/",
+    "meaning": "火球；火流星；精力旺盛的人〔比喻〕",
+    "sense": "一团球状火光是直观画面，亮得惊人的流星、人身上猛烈的活力也借来命名。",
+    "split": "fire + ball，ball 取团状、球状形象；物理火球、天文亮流星和人物比喻是不同语境扩展，不是同一种东西互相变成。",
+    "history": [
+      [
+        "fire；ball",
+        "并列构词部分"
+      ],
+      [
+        "fireball",
+        "球状火光；极亮流星；精力旺盛的人"
+      ]
+    ],
+    "explanation": "a huge fireball 巨大火球，a fireball in the sky 天空火流星。She is a fireball 可以夸精力、个性强烈，未必说脾气坏。",
+    "usage": "a huge fireball；a bright fireball；a fireball of energy。",
+    "contrast": "天文 fireball 是特别明亮的流星现象，不等于已落到地上的 meteorite 陨石；具体亮度界线有专业定义。",
+    "examples": [
+      [
+        "A bright fireball crossed the night sky.",
+        "一颗明亮火流星划过夜空。"
+      ],
+      [
+        "My grandmother is a fireball of energy.",
+        "我祖母精力旺盛得像团火。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fireball#English",
+      "https://www.amsmeteors.org/fireballs/faqf/"
+    ]
+  },
+  {
+    "word": "firestorm",
+    "ipa": "英 /ˈfaɪəstɔːm/；美 /ˈfaɪərstɔːrm/",
+    "meaning": "猛烈火灾、火风暴；强烈抗议、争议浪潮",
+    "sense": "火与强气流互相加强，场面像风暴；一件事激起猛烈反应，也像争议四面扑来。",
+    "split": "fire + storm，字面有大火与强烈气流的背景，比喻再接强烈、广泛反应。不是每场普通失火都自动是技术意义的 firestorm。",
+    "history": [
+      [
+        "fire；storm",
+        "并列构词部分"
+      ],
+      [
+        "firestorm",
+        "猛烈大火相关现象 → 强烈反应、争议浪潮"
+      ]
+    ],
+    "explanation": "a firestorm of criticism 批评浪潮，spark a firestorm 激起激烈反应。现代一般报道常先遇到比喻义。",
+    "usage": "a firestorm of criticism；spark a firestorm；a political firestorm。",
+    "contrast": "firestorm 强调反应猛烈、席卷范围，fireworks 可说争论、精彩场面的火花；两种比喻不能所有句子都换。",
+    "examples": [
+      [
+        "The decision sparked a firestorm of criticism.",
+        "决定激起了猛烈批评。"
+      ],
+      [
+        "The book describes the city’s destruction in a firestorm.",
+        "书描述了城市在猛烈火风暴中的毁坏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firestorm#English"
+    ]
+  },
+  {
+    "word": "hellfire",
+    "ipa": "英 /ˈhelfaɪə/；美 /ˈhelfaɪər/",
+    "meaning": "地狱之火〔宗教、虚构叙事〕；烈火般谴责的意象",
+    "sense": "宗教、故事里用来描绘惩罚的地狱烈火；在言辞里常营造极强威吓、谴责感。",
+    "split": "hell + fire，古英语 hellefȳr、中古英语 helle fire 等已有相应组合。按信仰或虚构叙事理解，不把名称当普通火灾分类。",
+    "history": [
+      [
+        "hell；fire",
+        "并列构词部分"
+      ],
+      [
+        "hellfire",
+        "宗教、叙事中的地狱之火"
+      ]
+    ],
+    "explanation": "a sermon about hellfire 关于地狱之火的布道，hellfire and brimstone 常指强烈谴责罪恶、警示惩罚的宗教言辞。",
+    "usage": "hellfire and brimstone；a sermon about hellfire；threaten with hellfire。",
+    "contrast": "hellfire 属宗教、夸张叙事语域，wildfire 是现实野外火灾名称；不是火烧得大就改叫 hellfire。",
+    "examples": [
+      [
+        "The painting shows souls surrounded by hellfire.",
+        "画作描绘灵魂被地狱烈火包围。"
+      ],
+      [
+        "The novel contrasts the preacher’s hellfire sermons with the villagers’ quiet lives.",
+        "小说对照了牧师严厉的地狱惩罚布道与村民平静的生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hellfire#English"
+    ]
+  },
+  {
+    "word": "firecracker",
+    "ipa": "英 /ˈfaɪəkrækə/；美 /ˈfaɪərkrækər/",
+    "meaning": "鞭炮；性格活泼有劲的人〔比喻〕",
+    "sense": "啪的一声突然炸响；人说话、行动特别有活力，也能被比作一个小鞭炮。",
+    "split": "fire + cracker，cracker 与 crack“噼啪响、裂开”加 -er 的名词关系有关；这里不是普通苏打饼干。",
+    "history": [
+      [
+        "fire；cracker〔与 crack + -er 相应〕",
+        "并列构词部分"
+      ],
+      [
+        "firecracker",
+        "产生响声的鞭炮；比喻活力强的人"
+      ]
+    ],
+    "explanation": "the sound of firecrackers 鞭炮声，a real firecracker 用于人可夸活泼、有冲劲，也可能带不好惹的感觉。",
+    "usage": "the sound of firecrackers；a real firecracker；firecracker noise。",
+    "contrast": "firecracker 主要先记响声型鞭炮，fireworks 更广说烟花、焰火表演；具体制品分类不从一个后缀硬定。",
+    "examples": [
+      [
+        "We heard firecrackers in the distance.",
+        "我们听见远处鞭炮声。"
+      ],
+      [
+        "The film’s grandmother is a real firecracker.",
+        "电影里的祖母真是个活力十足的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firecracker#English"
+    ]
+  },
+  {
+    "word": "firebrand",
+    "ipa": "英 /ˈfaɪəbrænd/；美 /ˈfaɪərbrænd/",
+    "meaning": "燃烧的木块、火把；煽动者、激进人物",
+    "sense": "一根燃烧木头能把别处也点着，人物比喻就说他很能点起情绪、鼓动变革。",
+    "split": "fire + brand，brand 在这里取燃烧木块等旧义，不是现代商标。中古英语有 fyr-brand、furbrond，后来人物比喻常见。",
+    "history": [
+      [
+        "fire；brand〔燃烧木块的旧义〕",
+        "并列构词部分"
+      ],
+      [
+        "firebrand",
+        "燃烧木块 → 煽动、激起强烈反应的人"
+      ]
+    ],
+    "explanation": "a political firebrand 激进政治人物，a young firebrand 年轻激进人物。可欣赏勇气、改革热情，也可批评制造冲突，语气取决于说话人。",
+    "usage": "a political firebrand；a young firebrand；a radical firebrand。",
+    "contrast": "firebrand 是人等固定名，firebrand speech 通常不如 a fiery speech 自然；fiery 是直接形容言辞火热的常用词。",
+    "examples": [
+      [
+        "The novel follows a young political firebrand.",
+        "小说追踪一位年轻激进政治人物。"
+      ],
+      [
+        "The guard carried a burning firebrand through the dark passage.",
+        "守卫举着燃烧木条穿过黑暗通道。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firebrand#English"
+    ]
+  },
+  {
+    "word": "afire",
+    "ipa": "英 /əˈfaɪə/；美 /əˈfaɪər/",
+    "meaning": "着火的；炽热、充满强烈感受的〔文学〕",
+    "sense": "某物正在燃着，或人的想象、热情像已经被点起来。",
+    "split": "中古英语 afire，对应 a-（源自 on 等状态表达）+ fire；a- 不是数量一个。常在谓语后、修饰状态，不像普通形容词到处放。",
+    "history": [
+      [
+        "古英语 fȳr → 中古英语 fyr",
+        "火；更早属日耳曼继承词族"
+      ],
+      [
+        "英语 fire",
+        "火、点燃；射击；解雇；热情等扩展"
+      ],
+      [
+        "a-〔处于……状态〕+ fire → afire",
+        "燃着；比喻热情、想象被点燃"
+      ]
+    ],
+    "explanation": "set afire 点着，afire with excitement 兴奋得火热。较文学，日常通常 on fire。",
+    "usage": "set afire；be afire；afire with excitement。",
+    "contrast": "afire 状态词，a fire 两词是一个火堆、一次火灾；The shed is afire 不等于 The shed is a fire。",
+    "examples": [
+      [
+        "The poem describes a sky afire with sunset colors.",
+        "诗里描写天空被晚霞映得如同燃烧。"
+      ],
+      [
+        "Her imagination was afire after the performance.",
+        "看完演出，她的想象像被点燃了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/afire#English"
+    ]
+  },
+  {
+    "word": "firewall",
+    "ipa": "英 /ˈfaɪəwɔːl/；美 /ˈfaɪərwɔːl/",
+    "meaning": "防火墙；网络访问过滤防护系统",
+    "sense": "建筑里用墙分隔火势；网络里也在边界按规则决定哪些连接、数据能通过。",
+    "split": "fire + wall，先有阻隔火势的实体结构名，计算机安全再借墙的隔离、过滤画面。不是网络真的起火才用。",
+    "history": [
+      [
+        "fire；wall",
+        "并列构词部分"
+      ],
+      [
+        "firewall",
+        "阻隔火势的墙 → 按规则过滤网络流量的系统"
+      ]
+    ],
+    "explanation": "a building firewall 建筑防火墙，a network firewall 网络防火墙。网络词义可以指软件、硬件或组合，重点在按规则控制流量。",
+    "usage": "a network firewall；firewall rules；a firewall between buildings。",
+    "contrast": "firewall 过滤、隔离网络访问，antivirus 反病毒工具侧重识别处理恶意程序；两种工具关注点不同。",
+    "examples": [
+      [
+        "A firewall separates the two parts of the building.",
+        "一道防火墙隔开建筑的两部分。"
+      ],
+      [
+        "The firewall blocked an unexpected connection.",
+        "防火墙拦住了一次意外连接。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/firewall#English"
+    ]
+  }
+]

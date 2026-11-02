@@ -1,0 +1,425 @@
+[
+  {
+    "word": "cope",
+    "ipa": "英 /kəʊp/；美 /koʊp/",
+    "meaning": "应付、应对、处理困难；披风〔另源名词〕",
+    "sense": "事情很难，但你还能把眼前的生活、工作维持住，就是 cope。它未必是轻松解决所有问题，更像和困难周旋得下去。",
+    "split": "应对义经中古英语 coupen，来自古法语击打、交锋的词，后来转为处理困难。另源名词 cope 指披风，联系 cappa，不是用来应付压力的谐音道具。",
+    "history": [
+      [
+        "古法语 colper、couper 击打 → 中古英语 coupen",
+        "交锋、争斗"
+      ],
+      [
+        "交锋 → 应对困难",
+        "现代 cope，常与 with 连用"
+      ],
+      [
+        "另源名词 cope 披风",
+        "联系晚期拉丁 cappa；建筑 coping 顶盖、coped 披风义从这条理解"
+      ]
+    ],
+    "explanation": "cope with pressure 应对压力，cope with extra work 应付额外工作，I can’t cope 我实在应付不来了。with 后接困难、负担等对象。",
+    "usage": "cope with；manage to cope。",
+    "contrast": "普通应对义常说 cope with something，不直接把 with 漏掉。cope 可以只表示勉力维持，不保证问题已彻底消失。",
+    "examples": [
+      [
+        "She is learning to cope with the extra workload.",
+        "她正在学习应付增加的工作量。"
+      ],
+      [
+        "The small team coped well during the busy week.",
+        "在忙碌的那一周，小团队应对得不错。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cope#English",
+      "https://www.etymonline.com/word/cope"
+    ]
+  },
+  {
+    "word": "coping",
+    "ipa": "英 /ˈkəʊpɪŋ/；美 /ˈkoʊpɪŋ/",
+    "meaning": "应对、应付；墙顶盖石、压顶〔另源〕",
+    "sense": "How are you coping 是问你现在应付得怎么样。建筑里的 coping 却像给墙顶披上一层盖子，是压顶，不是墙在应付情绪。",
+    "split": "应对义是 cope + -ing，去 e；建筑名词由另源 cope 披风、覆盖物发展而来，同样可见 -ing 形式，但意义历史分开。",
+    "history": [
+      [
+        "古法语 colper、couper 击打 → 中古英语 coupen",
+        "交锋、争斗"
+      ],
+      [
+        "交锋 → 应对困难",
+        "现代 cope，常与 with 连用"
+      ],
+      [
+        "另源名词 cope 披风",
+        "联系晚期拉丁 cappa；建筑 coping 顶盖、coped 披风义从这条理解"
+      ]
+    ],
+    "explanation": "coping skills 应对困难的能力，a coping strategy 应对办法；stone coping 石质墙顶盖层。先看在说人处理困难，还是墙顶结构。",
+    "usage": "coping skills；a coping strategy；stone coping。",
+    "contrast": "coping 是过程、方式，不等于问题已解决。建筑压顶义的披盖画面与应对义的交锋来历不同。",
+    "examples": [
+      [
+        "How are you coping with the new schedule?",
+        "新日程你应付得怎么样？"
+      ],
+      [
+        "The wall has a sloping stone coping.",
+        "墙顶有一层带坡度的石质压顶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coping#English",
+      "https://www.etymonline.com/word/coping"
+    ]
+  },
+  {
+    "word": "coped",
+    "ipa": "英 /kəʊpt/；美 /koʊpt/",
+    "meaning": "cope 的过去式、过去分词：已经应对、应付过",
+    "sense": "昨天那阵忙乱怎样挺过去，用 coped 把应对放进过去。with 仍会跟着，说明当时面对的困难。",
+    "split": "cope + -ed，拼写时先去 e，再加完整 -ed；结尾 /p/ 后读 /t/。另有穿着披风的较少见形容词用法，来自另源 cope 名词。",
+    "history": [
+      [
+        "古法语 colper、couper 击打 → 中古英语 coupen",
+        "交锋、争斗"
+      ],
+      [
+        "交锋 → 应对困难",
+        "现代 cope，常与 with 连用"
+      ],
+      [
+        "cope + -ed → coped",
+        "过去的应对、处理"
+      ]
+    ],
+    "explanation": "coped with the change 应对了变化，coped well 应对得好，have coped 已经应付过、处理过。",
+    "usage": "coped with；coped well。",
+    "contrast": "常见过去式 coped 不应因为词典另收披风形容词，就一律翻成穿披风的。先看句子动词结构。",
+    "examples": [
+      [
+        "We coped with the delay by changing the order of tasks.",
+        "我们调整任务顺序，应付了延误。"
+      ],
+      [
+        "She has coped well with the move to a new city.",
+        "她适应搬到新城市的变化，应对得不错。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coped#English",
+      "https://www.etymonline.com/word/cope"
+    ]
+  },
+  {
+    "word": "dip",
+    "ipa": "/dɪp/",
+    "meaning": "蘸、浸一下；下降；凹处；蘸酱；短暂游泳",
+    "sense": "饼干轻轻放进茶里再提起，是 dip。把一条曲线看成先低下去再起来，低下去的那段也是 a dip；放在碗里让你蘸着吃的酱，则直接叫 dip。",
+    "split": "承古英语 dyppan，经中古英语 dippen，属于浸入、深度相关词族。由动作形成名词，再扩到下降、低处、蘸酱等。",
+    "history": [
+      [
+        "古英语 dyppan → 中古英语 dippen → dip",
+        "把东西短暂放入、浸一下，联系 deep 同族"
+      ],
+      [
+        "动作 → 下降、低处与可蘸的酱",
+        "由向下入水的画面扩展"
+      ]
+    ],
+    "explanation": "dip bread in oil 用面包蘸油，a dip in temperature 气温下降，go for a dip 去游一小会儿，a cheese dip 奶酪蘸酱。",
+    "usage": "dip something in；a dip in；go for a dip。",
+    "contrast": "dip 常让人想到短暂浸一下或下降一段，不必像 dive 那样人冲入水里。曲线的 dip 也不预先保证随后一定反弹。",
+    "examples": [
+      [
+        "She dipped the brush in water.",
+        "她把画笔在水里蘸了一下。"
+      ],
+      [
+        "There was a slight dip in temperature overnight.",
+        "夜间气温略有下降。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dip#English"
+    ]
+  },
+  {
+    "word": "dipped",
+    "ipa": "/dɪpt/",
+    "meaning": "蘸过、浸过的；〔车灯〕调低光束的；dip 的过去式、过去分词",
+    "sense": "饼干表面蘸上巧克力，是 dipped in chocolate；汽车灯束压低、改为近光状态，英式用语常说 dipped headlights。",
+    "split": "dip + -ed，双写 p；-ed 在 /p/ 后读 /t/。动作完成后，也可用分词描述物品或灯光状态。",
+    "history": [
+      [
+        "古英语 dyppan → 中古英语 dippen → dip",
+        "把东西短暂放入、浸一下，联系 deep 同族"
+      ],
+      [
+        "动作 → 下降、低处与可蘸的酱",
+        "由向下入水的画面扩展"
+      ],
+      [
+        "dip + -ed → dipped",
+        "已浸过、已向下调低的状态"
+      ]
+    ],
+    "explanation": "fruit dipped in chocolate 蘸巧克力的水果，dipped headlights 近光灯、已调低的车灯。灯光义不需要真的把车灯放进液体。",
+    "usage": "dipped in chocolate；dipped headlights。",
+    "contrast": "dipped 仍要按对象解释：食物是蘸过，灯束是调低；读成一音节 /dɪpt/。",
+    "examples": [
+      [
+        "They served strawberries dipped in chocolate.",
+        "他们端上了蘸巧克力的草莓。"
+      ],
+      [
+        "The car approached with its headlights dipped.",
+        "那辆车开着近光灯驶来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dipped#English"
+    ]
+  },
+  {
+    "word": "dipper",
+    "ipa": "英 /ˈdɪpə/；美 /ˈdɪpər/",
+    "meaning": "舀水勺、长柄勺；浸入者；河乌；〔Big Dipper〕北斗七星",
+    "sense": "把勺头浸进水里，再舀出一勺，就是 dipper 的工具画面。会钻进溪流觅食的河乌也叫 dipper；Big Dipper 则借一把大勺的形状称呼北斗七星。",
+    "split": "dip + -er，中古英语已有相应人物、工具形式。鸟名联系入水习性，星群名称联系勺子轮廓，不是说星星真的往水里蘸。",
+    "history": [
+      [
+        "古英语 dyppan → 中古英语 dippen → dip",
+        "把东西短暂放入、浸一下，联系 deep 同族"
+      ],
+      [
+        "dip + -er → dipper",
+        "浸入、舀取者或工具 → 鸟名、勺形星群名称"
+      ]
+    ],
+    "explanation": "a long handled dipper 长柄舀水勺，a dipper by the stream 溪流旁的河乌，the Big Dipper 北斗七星。专名首字母大写。",
+    "usage": "a water dipper；the Big Dipper。",
+    "contrast": "dipper 不总指工具；Big Dipper 是星群名称，不把它当成大号厨房勺来译。",
+    "examples": [
+      [
+        "He filled the cup with a wooden dipper.",
+        "他用木制舀水勺把杯子装满。"
+      ],
+      [
+        "A dipper disappeared beneath the rushing water.",
+        "一只河乌钻进了湍急的水里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dipper#English"
+    ]
+  },
+  {
+    "word": "dippy",
+    "ipa": "/ˈdɪpi/",
+    "meaning": "傻乎乎的、古怪的〔口语〕；〔部分用法〕适合蘸食的",
+    "sense": "口语说 a dippy idea，往往是在嫌主意傻、古怪。另一种 dippy egg 则是蛋黄流动、能让面包蘸着吃的鸡蛋，要换回 dip 的蘸取画面。",
+    "split": "蘸食等字面义可按 dip + -y 理解，双写 p；傻气义更早来源不明确，不能只靠同形后缀就断言全部从浸水而来。",
+    "history": [
+      [
+        "dip + -y 的字面性质",
+        "适于蘸取，或带上下起伏等特点"
+      ],
+      [
+        "口语 dippy 傻气的",
+        "来源未定，需与字面义分场景"
+      ]
+    ],
+    "explanation": "a dippy idea 傻气的主意，a dippy character 傻乎乎的角色；dippy eggs 在部分地区说适合蘸面包的软心鸡蛋。",
+    "usage": "a dippy idea；dippy eggs。",
+    "contrast": "dippy 对人有评价、可能冒犯，不是医学名词。鸡蛋用法是饮食语境，不表示鸡蛋智力低。",
+    "examples": [
+      [
+        "It was a dippy idea, but it made us laugh.",
+        "这个主意傻乎乎的，却逗笑了我们。"
+      ],
+      [
+        "He likes dippy eggs with strips of toast.",
+        "他喜欢吃软心鸡蛋，用吐司条蘸着吃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dippy#English",
+      "https://www.merriam-webster.com/dictionary/dippy"
+    ]
+  },
+  {
+    "word": "reevaluation",
+    "ipa": "/ˌriːɪvæljuˈeɪʃən/",
+    "meaning": "重新评估、再次评价",
+    "sense": "条件变了、资料多了，再把原先的判断拿出来衡量一次，就是 reevaluation。结果可以改变，也可以确认原来的判断。",
+    "split": "re- 再、重新 + evaluation；里面 evaluate 联系 value 价值，-ation 把评估动作名词化。连续两个 e 分属 re- 和 evaluation。",
+    "history": [
+      [
+        "evaluate 评估 → evaluation",
+        "按标准判断价值、表现等"
+      ],
+      [
+        "re- + evaluation → reevaluation",
+        "再做一次或重新进行评估"
+      ]
+    ],
+    "explanation": "a reevaluation of the plan 重新评估计划，call for reevaluation 要求重新评估，after reevaluation 再评估后。",
+    "usage": "a reevaluation of；call for reevaluation。",
+    "contrast": "reevaluation 不是自动否定旧结论；re- 说明再看一次，不规定结果必须相反。",
+    "examples": [
+      [
+        "The new data prompted a reevaluation of the plan.",
+        "新数据促使人们重新评估计划。"
+      ],
+      [
+        "After reevaluation, the team kept its original design.",
+        "重新评估后，团队保留了原设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reevaluation#English"
+    ]
+  },
+  {
+    "word": "halter",
+    "ipa": "英 /ˈhɒltə/；美 /ˈhɔːltər/",
+    "meaning": "牲畜笼头、牵引头套；绕颈系带、挂脖上衣",
+    "sense": "套在马、牛头上便于牵引的绳带是 halter；服装里绕在颈后的系带像套住的一圈，因此也叫 halter，后来能直接说相应上衣。",
+    "split": "承古英语 hælfter，经中古英语 halter、helfter 等。更远词源有不同分析，不能直接照现代 half 一半拆，再编成一半衣服。",
+    "history": [
+      [
+        "古英语 hælfter → 中古英语 halter、helfter",
+        "牵马、套住头部的绳带"
+      ],
+      [
+        "现代 halter",
+        "牲畜笼头；绕颈系带，及这种款式的上衣"
+      ]
+    ],
+    "explanation": "put a halter on a horse 给马套笼头，a rope halter 绳笼头，a halter top 挂脖上衣。名词也可转动词，表示套上笼头。",
+    "usage": "a rope halter；a halter top。",
+    "contrast": "halter 不是 halt 停下 + -er 在这里的普通组合；现代一半前缀 half- 学 halfway、halftime 等更直观。",
+    "examples": [
+      [
+        "She led the pony by its halter.",
+        "她牵着笼头带小马走。"
+      ],
+      [
+        "The dress has a halter neckline.",
+        "这条裙子采用挂脖领口设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/halter#English",
+      "https://www.etymonline.com/word/halter"
+    ]
+  },
+  {
+    "word": "consultant",
+    "ipa": "/kənˈsʌltənt/",
+    "meaning": "顾问、咨询专家；〔英国医疗职称〕资深专科医生",
+    "sense": "你带着问题去请教，他凭专业知识给意见、方案或服务，这个人通常是 consultant。重点是专业咨询角色，不是只会问别人问题的人。",
+    "split": "借法语 consultant，原是 consulter 的现在分词，来自拉丁 consultāre。现代可按 consult + -ant 人物后缀记；更早不要把未知词干硬译成一个动作。",
+    "history": [
+      [
+        "拉丁 consultāre，联系 consulere",
+        "商量、考虑、征询意见；更早词干来源未定"
+      ],
+      [
+        "法语 consultant → 英语 consultant",
+        "提供意见、专业服务的人；consultant 与 consult + -ant 对应"
+      ]
+    ],
+    "explanation": "a management consultant 管理顾问，an independent consultant 独立顾问，work as a consultant 做咨询顾问。英国医院里还常作资深专科医生职称。",
+    "usage": "work as a consultant；a consultant in；a management consultant。",
+    "contrast": "consultant 是人，consultancy 是咨询业务、工作或公司；consultation 是一次咨询、商谈等过程，三者不要互换。",
+    "examples": [
+      [
+        "The company hired a consultant to review its workflow.",
+        "公司聘请顾问审查工作流程。"
+      ],
+      [
+        "She works as an independent design consultant.",
+        "她担任独立设计顾问。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consultant#English",
+      "https://www.merriam-webster.com/dictionary/consultant"
+    ]
+  },
+  {
+    "word": "dive",
+    "ipa": "/daɪv/",
+    "meaning": "潜水、跳水；俯冲、猛降；投入、深入；一次潜水等",
+    "sense": "身体进入水下是 dive；鸟向下冲、曲线猛跌，也像一头扎下去。dive into a book 则把注意力整个扎进书里。",
+    "split": "中古英语 diven 合流了古英语 dūfan 下潜和 dȳfan 使浸入等相关形式，联系 deep、dip 同族。不是从现代 deep 直接换字母造出 dive。",
+    "history": [
+      [
+        "古英语 dūfan 下潜与 dȳfan 使浸入",
+        "相关强变化、不及物与弱变化、及物形式后来合流"
+      ],
+      [
+        "中古英语 diven → dive",
+        "入水、潜入 → 俯冲、猛降、投入某事"
+      ]
+    ],
+    "explanation": "dive into the water 潜入水中，a steep dive 急剧俯冲，dive into the work 投入工作，a dive bar 是简陋、低档酒吧的固定说法。",
+    "usage": "dive into；take a dive；a steep dive。",
+    "contrast": "过去式有 dived、dove，dove 尤常见于北美；过去分词通常 dived。表示鸽子的 dove 通常读 /dʌv/，动词过去式读 /dəʊv/、/doʊv/。",
+    "examples": [
+      [
+        "The bird dived into the water and emerged with a fish.",
+        "鸟钻进水里，出来时叼着一条鱼。"
+      ],
+      [
+        "She dived into the research as soon as the books arrived.",
+        "书一到，她就投入了研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dive#English",
+      "https://www.etymonline.com/word/dive"
+    ]
+  },
+  {
+    "word": "diver",
+    "ipa": "英 /ˈdaɪvə/；美 /ˈdaɪvər/",
+    "meaning": "潜水员、跳水者；潜鸟〔特定鸟名用法〕",
+    "sense": "做 dive 的人就是 diver：可能在水下作业，也可能从跳台入水。鸟名中也会借它善于入水的习性来称呼。",
+    "split": "dive + -er，去词尾 e。施事后缀形成做相应动作的人，也可用于具有这种习性的动物。",
+    "history": [
+      [
+        "古英语 dūfan 下潜与 dȳfan 使浸入",
+        "相关强变化、不及物与弱变化、及物形式后来合流"
+      ],
+      [
+        "中古英语 diven → dive",
+        "入水、潜入 → 俯冲、猛降、投入某事"
+      ],
+      [
+        "dive + -er → diver",
+        "潜水、跳水的人；也可说潜水鸟等"
+      ]
+    ],
+    "explanation": "a scuba diver 水肺潜水者，a professional diver 职业潜水员，an Olympic diver 奥运跳水运动员；鸟类语境中另辨名称。",
+    "usage": "a scuba diver；a professional diver。",
+    "contrast": "diver 不只指竞技跳水运动员；dive 是动作，diver 是人或相应动物，具体活动看前项。",
+    "examples": [
+      [
+        "The diver inspected the underwater structure.",
+        "潜水员检查了水下结构。"
+      ],
+      [
+        "The young diver practised at the pool every morning.",
+        "这位年轻跳水运动员每天早上在泳池训练。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diver#English"
+    ]
+  }
+]

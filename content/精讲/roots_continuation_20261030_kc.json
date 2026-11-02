@@ -1,0 +1,128 @@
+[
+  {
+    "id": "B2594",
+    "meaning": "坑、下凹处与相关场地，另有果核、去核的借词线",
+    "core": "PIT：一条是凹下去，一条是果实里的核",
+    "image": "pit → pitter 接去核；armpit、sandpit、pitfall 接凹坑、场地等关系。",
+    "intro": "同拼写不保证一条来源。尤其 pitted cherries 和 pitted metal，一个核被去掉，一个表面出现凹坑。",
+    "forms": "pytt 联系 puteus → 坑义 pit；荷兰语 pit → 果核义；-er 形成去核器。\n\n此处 pit 为坑、凹处，不接果核那条不同历史。\n\n坑 pit 承古英语 pytt，远接拉丁 puteus 井；果核 pit 借荷兰语 pit，与 pith 的髓、核心词族相关。现代 -s，/t/ 后读 /s/。",
+    "branches": [
+      [
+        "基础的多义与对抗用法",
+        "pit"
+      ],
+      [
+        "去核工具",
+        "pitter"
+      ],
+      [
+        "身体、地形与危险比喻",
+        "armpit · sandpit · pitfall"
+      ],
+      [
+        "pit 的身体组合 armpit 及复数",
+        "pit · armpit · armpits"
+      ],
+      [
+        "pit 坑与果核分线 → pits",
+        "pits"
+      ]
+    ],
+    "contrasts": "pitter 不是挖坑工；pitted cherries 通常已去核，pitted surface 则有凹坑。",
+    "practice": "The pitter removes the cherry pit, while a sandpit is a place filled with sand.\n\n去核器去掉樱桃核，沙坑则是装沙的地方。",
+    "words": [
+      "pit",
+      "pitter",
+      "armpit",
+      "sandpit",
+      "pitfall",
+      "armpits",
+      "pits"
+    ],
+    "exclude": {
+      "corn-pit": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "pitman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3463",
+    "meaning": "认可价值并表达赞扬，以及值得赞扬的性质",
+    "core": "PRAISE：把认可说出来；PRAISEWORTHY：确有值得夸的地方",
+    "image": "praise → praiseworthy。",
+    "intro": "词源上的估价、重视给了有用的联系，现代赞扬不一定涉及钱。再分已经被夸和值得夸。",
+    "forms": "拉丁 pretium 价值、法语 preisier 等 → praise；praise + worthy。\n\npraises 末尾另成 /ɪz/，praising 去不发音 e；赞扬与价格评价的历史材料相连。",
+    "branches": [
+      [
+        "赞扬与值得赞扬",
+        "praise · praiseworthy"
+      ],
+      [
+        "praise 的三单、过去、-ing 形式成组学习",
+        "praise · praises · praised · praising"
+      ]
+    ],
+    "contrasts": "praised 已被赞扬，praiseworthy 值得赞扬；两者事实条件不同。",
+    "practice": "The teacher praised the students for their praiseworthy effort.\n\n老师赞扬了学生们值得肯定的努力。",
+    "words": [
+      "praise",
+      "praiseworthy",
+      "praises",
+      "praised",
+      "praising"
+    ],
+    "exclude": {
+      "self-praise": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4021",
+    "meaning": "辨别、区别，以及社会语境中的歧视与不歧视原则",
+    "core": "DISCRIMINATION：先看是辨别还是歧视；NONDISCRIMINATION 接政策义",
+    "image": "discrimination → nondiscrimination。",
+    "intro": "同一名词在感知、分类与社会公平语境中有不同重点。加 non- 的常见政策词不能逐字误解成拒绝辨别。",
+    "forms": "discriminate 的相应名词 discrimination；non- 否定相应歧视行为、原则。",
+    "branches": [
+      [
+        "歧视与不歧视原则",
+        "discrimination · nondiscrimination"
+      ]
+    ],
+    "contrasts": "nondiscrimination 通常针对歧视义，不是否定所有辨识、分类活动。",
+    "practice": "The policy explains how nondiscrimination addresses unfair discrimination.\n\n政策说明不歧视原则怎样针对不公平差别待遇。",
+    "words": [
+      "discrimination",
+      "nondiscrimination"
+    ],
+    "exclude": {
+      "self-discrimination": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2728",
+    "meaning": "从布、梳洗到空间与卫生器具，旧义仍留在用品名称中",
+    "core": "TOILET：现代厕所义之外，TOILETRIES 保存梳洗旧义",
+    "image": "toilet → toiletry／toiletries。",
+    "intro": "沿着物件、活动、空间的转称走一遍，现代两个词的差别就不再奇怪：一个常说厕所，一个说洗漱用品。",
+    "forms": "toile 布 → toilette 小称、梳洗相关 → toilet；旧梳洗义接 -ry，复数 toiletries。\n\ntoilet 经法语 toilette，小称于 toile 布，词义经梳洗用品、打扮行为、房间再到卫生设施。现代复数 -s，/t/ 后读 /s/。",
+    "branches": [
+      [
+        "空间、器具与用品",
+        "toilet · toiletry"
+      ],
+      [
+        "小布 → 梳洗 → 卫生间、坐便器 → toilets",
+        "toilets"
+      ]
+    ],
+    "contrasts": "toiletries 不是马桶配件的统称；toilet 房间与器具义随地区、语境变化。",
+    "practice": "She left her toiletries in the bathroom and asked where the nearest public toilet was.\n\n她把洗漱用品留在浴室里，又问最近的公共厕所在哪里。",
+    "words": [
+      "toilet",
+      "toiletry",
+      "toilets"
+    ],
+    "exclude": {
+      "toilet-side": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

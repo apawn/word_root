@@ -1,0 +1,63 @@
+[
+  {
+    "id": "B3195",
+    "meaning": "快；牢固；禁食及其相关词",
+    "core": "FAST：快、牢固、禁食，分开现代用法",
+    "image": "run fast 跑得快，hold fast 抓得牢，fast 作动词还可禁食。历史相关，不代表今天能逐句互换。",
+    "intro": "fast 的牢固旧义解释 fasten、steadfast；速度义解释 faster、fastball；breakfast 的 fast 却是禁食，意思是结束夜里未进食的时段。速度义演变的具体路径保留不确定。",
+    "forms": "fast → faster；牢固义 → fasten → fastener；unfasten 解开见 fasten 的对照；stead + fast → steadfast；速度义 fastball；禁食义 breakfast。\n\nfastest 可作形容词或副词最高级，速度义的更早牢固词源背景另看基本词，不强定唯一语义故事。\n\nfasten 实际延续古英语 fæstnian；t 常不发音，重点是固定牢靠。\n\nstead 地方、位置与 fast 牢固组成 steadfast；此处 fast 不是速度快，加 -ly 表坚定不移的方式。",
+    "branches": [
+      [
+        "快及比较",
+        "fast · faster · fastball"
+      ],
+      [
+        "扣紧与解开",
+        "fasten · fastener"
+      ],
+      [
+        "坚定和固定生活词",
+        "steadfast · breakfast"
+      ],
+      [
+        "fast → faster → fastest：最快",
+        "fast · faster · fastest"
+      ],
+      [
+        "牢固的 fast → fasten 及变化形式",
+        "fast · fasten · fastens · fastened · fastening"
+      ],
+      [
+        "steadfastly：稳稳守住立场",
+        "steadfast · steadfastly · steadfastness"
+      ]
+    ],
+    "contrasts": "fasten 不是加速；fast asleep 是熟睡；breakfast 不是快速吃饭；run fast 本身已是副词。",
+    "practice": "Fasten your seat belt; we will reach the hotel before breakfast.\n\n系好安全带；我们将在早餐前抵达酒店。",
+    "words": [
+      "fast",
+      "faster",
+      "fastball",
+      "fasten",
+      "fastener",
+      "steadfast",
+      "breakfast",
+      "fastest",
+      "fastens",
+      "fastened",
+      "fastening",
+      "steadfastly",
+      "steadfastness"
+    ],
+    "exclude": {
+      "earth-fast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fast-growing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "semi-fast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fast-handed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fast-paced": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "superfast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "ultrafast": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "fastness": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

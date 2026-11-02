@@ -1,0 +1,124 @@
+[
+  {
+    "id": "B3075",
+    "meaning": "宽、广度、拓宽与国外、宽带",
+    "core": "BROAD：横向宽，抽象范围也能宽",
+    "image": "broad → breadth、broaden、broadly；abroad 讲在外到国外，broadband、broadsheet 说明后部。",
+    "intro": "本族宽词，breadth 经旧名词改形，abroad 的 a- 接 on 的弱化。broadcast 已精讲，撒播到广播可一起复习。",
+    "forms": "broad → breadth〔旧名词改形〕、broaden、broadly；on broad → abroad；broad + band/sheet/cast。\n\nbroad 接古英语 brād，现代既说空间宽，也说观点、问题范围广；不按字母强凑更早词根。",
+    "branches": [
+      [
+        "宽与广度、变化、方式",
+        "broad · breadth · broaden · broadly"
+      ],
+      [
+        "国外与现代复合",
+        "abroad · broadband · broadsheet · broadcast · broadside"
+      ],
+      [
+        "broad → broader → broadest：宽、广与概括层次",
+        "broad · broader · broadest"
+      ]
+    ],
+    "contrasts": "breadth 广度与 breath 呼吸分；abroad 国外与 aboard 登乘分；broadband 不等于 Wi-Fi。",
+    "practice": "Studying abroad broadened her experience and the breadth of her knowledge.\n\n留学拓展了她的经历和知识广度。",
+    "words": [
+      "broad",
+      "breadth",
+      "broaden",
+      "broadly",
+      "abroad",
+      "broadband",
+      "broadsheet",
+      "broadcast",
+      "broadside",
+      "broader",
+      "broadest"
+    ],
+    "exclude": {
+      "broadsword": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "broadleaf": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "broadhead": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3202",
+    "meaning": "链环、联系与数字、通信链路",
+    "core": "LINK：一环扣一环，实体、关系和网址都能连接",
+    "image": "link → linkage、linker；上下行 uplink/downlink 配对，permalink 接永久地址意图，其他网页链接共享。",
+    "intro": "旧链环词发展为连接关系，现代软件、网络和通信赋予新对象。原来不同的同形词不能都从链环硬推。",
+    "forms": "link + -age/-er；up-/down-/hyper-/back-/perma- + link；link + up。\n\n中古英语链环词通常联系北欧，现代网络沿连接功能命名。\n\n链环词族发展，现代连接不只实体器件。\n\n中古英语 linke、lenke 链环词，较早北欧等直接来源有讨论。\n\n连接袖口的扣具名称，不是网站链接的独有用法。\n\n从一处指向另一处内容的连接。\n\nflinch 可能经法语弯、转开材料接日耳曼相关来源；与 link 更远弯曲词族可比较，不是现代 link 加一个 fl- 前缀。\n\nflinch 接旧弯、转开材料，与 link 的更远弯转词族可比较；un- 否定退缩，-ly 写态度、方式，不等于没有感情。",
+    "branches": [
+      [
+        "基本连接与主体",
+        "link · linkage · linker"
+      ],
+      [
+        "通信方向",
+        "uplink · downlink"
+      ],
+      [
+        "网页与固定连接",
+        "hyperlink · backlink · permalink · linkup"
+      ],
+      [
+        "link → links：链环、联系与网页链接",
+        "link · links"
+      ],
+      [
+        "link → linked：连接与相互关联",
+        "link · linked"
+      ],
+      [
+        "link → linking：像链环一样把两边接起来",
+        "link · linking"
+      ],
+      [
+        "link 的器物组合 cufflink 及复数",
+        "link · cufflink · cufflinks"
+      ],
+      [
+        "link 的数字跳转连接及复数",
+        "hyperlink · hyperlinks"
+      ],
+      [
+        "flinch、link 的弯曲转向材料比较",
+        "link · flinch · flinches · flinched · flinching"
+      ],
+      [
+        "unflinching：不退缩，也不回避难看真相",
+        "flinch · flinching · unflinching · unflinchingly"
+      ]
+    ],
+    "contrasts": "联系不等于因果；linker 程序构建工具；downlink 不完全等于 download；permalink 是稳定地址设计而非永不失效。",
+    "practice": "The permalink links directly to the report rather than the changing homepage.\n\n永久链接直接指向报告，而不是内容不断更新的首页。",
+    "words": [
+      "link",
+      "linkage",
+      "linker",
+      "uplink",
+      "downlink",
+      "hyperlink",
+      "backlink",
+      "permalink",
+      "linkup",
+      "links",
+      "linked",
+      "linking",
+      "cufflink",
+      "cufflinks",
+      "hyperlinks",
+      "flinch",
+      "flinches",
+      "flinched",
+      "flinching",
+      "unflinching",
+      "unflinchingly"
+    ],
+    "exclude": {
+      "cross-link": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sleeve-link": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "linky": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

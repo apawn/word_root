@@ -1,0 +1,238 @@
+[
+  {
+    "id": "B3711",
+    "meaning": "鳍名扩展到片状稳定、散热结构，复合鱼名不能只猜颜色",
+    "core": "FIN：薄片伸出来，帮助运动、稳定或散热",
+    "image": "fin → finned；bluefin、yellowfin 是固定鱼名。",
+    "intro": "先看实体鳍，再看机器借形状、功能命名。鱼名的颜色材料只帮认形，不替代物种辨认，也不保证每片鳍同色。",
+    "forms": "finn → fin；双写 n + -ed；blue、yellow + fin，再与 tuna 搭配成通名。",
+    "branches": [
+      [
+        "鳍与特征性质",
+        "fin · finned"
+      ],
+      [
+        "金枪鱼通名",
+        "bluefin · yellowfin"
+      ]
+    ],
+    "contrasts": "finned 不一定是过去动作；bluefin 并非所有鳍蓝的鱼，钱币 fin 五元俚语另源。",
+    "practice": "The finned model was displayed beside a picture of a bluefin tuna.\n\n带鳍模型摆在一张蓝鳍金枪鱼图片旁。",
+    "words": [
+      "fin",
+      "finned",
+      "bluefin",
+      "yellowfin"
+    ],
+    "exclude": {
+      "redfin": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2820",
+    "meaning": "bear 的旧分词，现代承担与出生拼写分工",
+    "core": "BORNE：被承载、被承担，媒介也能把东西带走",
+    "image": "borne → seaborne、foodborne、bloodborne，前半提示经什么媒介。",
+    "intro": "先记 bear—bore—borne，再看具体搭配。海运是经海上承载，食源、血源等词也借媒介携带；出生 be born 则有专门拼写。",
+    "forms": "beran → boren 等 → borne；现代 born 主要保留 be born；sea、food、blood + borne。",
+    "branches": [
+      [
+        "分词与承担、承载",
+        "borne"
+      ],
+      [
+        "媒介限定复合词",
+        "seaborne · foodborne · bloodborne"
+      ]
+    ],
+    "contrasts": "born 与 borne 不完全按是否生育简单二分；主动 has borne children 仍写 e。",
+    "practice": "The cost of seaborne transport was borne by the company.\n\n海运费用由公司承担。",
+    "words": [
+      "borne",
+      "seaborne",
+      "foodborne",
+      "bloodborne"
+    ],
+    "exclude": {
+      "truck-borne": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "vector-borne": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3935",
+    "meaning": "细丝状材料与结构，再分性质和具体物质名",
+    "core": "FIBRE：一缕缕细长结构，材料和性质各有名字",
+    "image": "fibre／fiber → fibrous；fibrin 另为按纤维形态命名的具体蛋白。",
+    "intro": "先把英美两种拼写合到同一个词，再分形容词与物质名。纤维状这个外观可以帮助记忆，却不是全部纤维材料的统一化学分类。",
+    "forms": "fibra → fibre／fiber；fibr- + -ous → fibrous；+ -in → fibrin。",
+    "branches": [
+      [
+        "拼写变体与相应性质",
+        "fibre · fiber · fibrous"
+      ],
+      [
+        "具体蛋白名",
+        "fibrin"
+      ]
+    ],
+    "contrasts": "fiber 与 fibre 同词；fibrous 不等于 fibrin；光纤与膳食纤维的用途、定义不同。",
+    "practice": "The fibrous material contains many fine fibres.\n\n这种纤维状材料含有许多细纤维。",
+    "words": [
+      "fibre",
+      "fiber",
+      "fibrous",
+      "fibrin"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3372",
+    "meaning": "像儿童的性质常转为不成熟评价，再分方式和行为名词",
+    "core": "CHILDISH：评价这次做法还不成熟",
+    "image": "childish → childishly、childishness，性质、方式和行为。",
+    "intro": "不要把幼稚简单等同真实年龄。词常针对做法，childhood 才是童年时期；childlike 则可保留童真、好奇的正面性质。",
+    "forms": "child + -ish → childish；-ly 方式；-ness 性质、行为。",
+    "branches": [
+      [
+        "性质、方式与行为名词",
+        "childish · childishly · childishness"
+      ]
+    ],
+    "contrasts": "childishness 不是 childhood；childishly 不自动意味着一个人的整体智力、能力水平。",
+    "practice": "He behaved childishly, then recognised his own childishness.\n\n他表现得很幼稚，后来认识到了自己的孩子气。",
+    "words": [
+      "childish",
+      "childishly",
+      "childishness"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B2826",
+    "meaning": "血的旧派生动词，借流出画面进入渗色与技术",
+    "core": "BLEED：里面往外流，边界可能被越过",
+    "image": "bleed → nosebleed，先流血动作，再部位名；渗色和印刷出血另看固定用法。",
+    "intro": "血、墨色、资源都能用流出画面帮助理解。印刷出血边是专业预留部分，不代表版面真的发生事故。",
+    "forms": "blōd → 旧派生 blēdan → bleed；过去式 bled；nose + bleed → nosebleed。\n\nbleed → bled → bled；原形长元音与过去短元音对应，保留旧出血词族与过去词尾演变。\n\nblood 与 bleed 的元音差是旧词形变化，现代 bleed 加完整 ing，不是 blood 加 ed。",
+    "branches": [
+      [
+        "流出动作与相关技术名词",
+        "bleed"
+      ],
+      [
+        "部位限定的流血名词",
+        "nosebleed"
+      ],
+      [
+        "bleed 与 bled：流出、渗出",
+        "bleed · bled"
+      ],
+      [
+        "blood、bleed → bleeding：流出、渗开",
+        "blood · bleed · bleeding"
+      ]
+    ],
+    "contrasts": "blood /blʌd/ 与 bleed /bliːd/ 不同；bled 是过去式，不能写 bleeded；印刷 bleed 通常有意预留。",
+    "practice": "The designer extended the image into the bleed area.\n\n设计师把图像延伸到了出血区域。",
+    "words": [
+      "bleed",
+      "nosebleed",
+      "bled",
+      "blood",
+      "bleeding"
+    ],
+    "exclude": {
+      "free-bleeding": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "bleeder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3598",
+    "meaning": "缠结、凸结形象走向复杂难题，航海另有绳结测速史",
+    "core": "KNOT：绕成结，想解开就得理清关系",
+    "image": "knot → knotty；knotweed 以茎节命名；速度 knot 接航海绳结。",
+    "intro": "实体绳结能解释难解比喻，不能直接解释现代速度数值，后者要补测速历史。k 在这些常见词里不发音。",
+    "forms": "cnotta → knotte → knot；双写 t 接 -y；weed 植物材料；测速绳结转成速度单位。\n\nknot 承古英语 cnotta，现代 k 不发音。复数可说绳结、小群人及航速单位节，航速名称关联测速绳上的结。",
+    "branches": [
+      [
+        "结与难解性质",
+        "knot · knotty"
+      ],
+      [
+        "植物复合名",
+        "knotweed"
+      ],
+      [
+        "knot 绳结 → knots",
+        "knots"
+      ]
+    ],
+    "contrasts": "一节是一海里每小时，不是海里这个长度本身；knotty 与 naughty 不同。",
+    "practice": "The knotty rope contained several tight knots.\n\n那根打结的绳子上有几个紧结。",
+    "words": [
+      "knot",
+      "knotty",
+      "knotweed",
+      "knots"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A2194",
+    "meaning": "部分、单元的希腊材料进入分子结构和材料类别名",
+    "core": "-MER：先看几部分、哪些部分，再看怎样组成",
+    "image": "monomer → dimer、polymer；isomer 看相同分子式的不同结构；elastomer 看弹性材料类。",
+    "intro": "一个 -mer 不等于同一类长链。数量前缀、同分异构材料和弹性命名各有重心；认出部分这个旧材料后，还要看整词科学定义。",
+    "forms": "meros 部分 → -mer；mono- 一、di- 二、poly- 多、iso- 同；elastic 缩短接 -o-、-mer。isomer 的名词还有逆构历史。",
+    "branches": [
+      [
+        "单元、二聚与聚合",
+        "monomer · dimer · polymer"
+      ],
+      [
+        "相同组成、不同结构",
+        "isomer"
+      ],
+      [
+        "弹性材料类别",
+        "elastomer"
+      ]
+    ],
+    "contrasts": "isomer 不能解释成把相同小球串成任何链；elastomer 不是所有有弹性物体的总称。",
+    "practice": "The lesson compares monomers, polymers and elastomers.\n\n课程比较了单体、聚合物与弹性体。",
+    "words": [
+      "monomer",
+      "dimer",
+      "polymer",
+      "isomer",
+      "elastomer"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "A1875",
+    "meaning": "整体、总集命名材料，现代科学中常经类推扩展",
+    "core": "-OME：把同一类对象作为一整套来研究",
+    "image": "genome → proteome 是总集命名的常见对照；biome 则是生态学的整体群系名。",
+    "intro": "一整套这个画面有用，不能把所有含 ome 的词都改叫基因组。genome 本身还有德语缩合史，后来的类推才帮助词尾变得更显眼。",
+    "forms": "希腊相关名词尾 → -ome；Gen + Chromosom → Genom → genome；protein、genome 缩合为 proteome；bio- + -ome → biome。",
+    "branches": [
+      [
+        "遗传、蛋白质的总集",
+        "genome · proteome"
+      ],
+      [
+        "生态整体名称",
+        "biome"
+      ]
+    ],
+    "contrasts": "-ome 不可简单等同 -some 身体；proteome 可随所研究状态变化，biome 也不是单个生物的基因总集。",
+    "practice": "The course distinguishes the genome from the proteome, then turns to the biome.\n\n课程先区分基因组与蛋白质组，再转向生物群系。",
+    "words": [
+      "genome",
+      "proteome",
+      "biome"
+    ],
+    "exclude": {}
+  }
+]

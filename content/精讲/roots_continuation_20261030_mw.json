@@ -1,0 +1,209 @@
+[
+  {
+    "id": "B4560",
+    "meaning": "精密老练与简单质朴，否定前缀按对象理解",
+    "core": "SOPHISTICATED：细节和技巧发展得多，un- 则把这层性质撤去",
+    "image": "sophisticated → unsophisticated。",
+    "intro": "技术可以复杂精密，人可以见识老练；反过来的简单、不老练，有时是限制，有时也是质朴、容易使用。",
+    "forms": "sophisticate → sophisticated；un- + sophisticated → unsophisticated。",
+    "branches": [
+      [
+        "精密老练及相反性质",
+        "sophisticated · unsophisticated"
+      ]
+    ],
+    "contrasts": "unsophisticated 的褒贬看对象，不能统一理解成笨。",
+    "practice": "Sophisticated machinery may need an unsophisticated backup that is easy to repair.\n\n精密机器也可能需要一个容易维修的简单备用装置。",
+    "words": [
+      "sophisticated",
+      "unsophisticated"
+    ],
+    "exclude": {
+      "pseudo-sophisticated": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3374",
+    "meaning": "反复塞进来的内容，连接刷屏行为与执行者",
+    "core": "SPAM：你没想看，它却一遍遍占住位置",
+    "image": "spam → spammer、spammy。",
+    "intro": "品牌名经过喜剧中的重复唱喊，进入网络信息泛滥的比喻。-er 指发送者，-y 形容带着这种令人烦扰的特征。",
+    "forms": "SPAM 品牌 → 喜剧重复场景 → spam 网络义；双写 m + -er、-y。\n\n网络 spam 名称与 Monty Python 短剧中反复喊 Spam 淹没对话的形象有关，再用于垃圾消息、刷屏。spammed、spamming 双写 m 接完整后缀，spammer 加 -er 指发送者，再加 s。",
+    "branches": [
+      [
+        "内容、行为、人物及性质",
+        "spam · spammer · spammy"
+      ],
+      [
+        "spam → spammed、spamming；spammer → spammers",
+        "spam · spammed · spamming · spammer · spammers"
+      ]
+    ],
+    "contrasts": "品牌名的拆法未定；网络 spam 不只电子邮件。",
+    "practice": "The spammer filled the page with spammy links, most of which the spam filter removed.\n\n刷屏者把页面塞满垃圾推广式链接，大部分被过滤器清除了。",
+    "words": [
+      "spam",
+      "spammer",
+      "spammy",
+      "spammed",
+      "spamming",
+      "spammers"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B3776",
+    "meaning": "浓稠配制物的旧名，分成药物、材料与口语评价",
+    "core": "DOPE：先有配制物，后面各个领域各走一支",
+    "image": "dope → doping、dopant；dopey 接迟钝、傻气义。",
+    "intro": "不要把材料掺杂和体育兴奋剂硬讲成同一个现代意思。doping 是过程，dopant 是加入的物质；口语 dope 很棒与 dopey 傻气又要看实际词形。",
+    "forms": "doop 蘸酱 → dope 配制物；去 e + -ing、-ant；dopey 常保留 e + -y。",
+    "branches": [
+      [
+        "原词与材料、体育过程",
+        "dope · doping · dopant"
+      ],
+      [
+        "迟钝、傻气的性质",
+        "dopey"
+      ]
+    ],
+    "contrasts": "doping 跨领域多义；dope 很棒的与 a dope 傻瓜的词性、语气不同。",
+    "practice": "In materials science, doping is the process and a dopant is the substance added.\n\n在材料科学里，doping 是掺杂过程，dopant 是加入的物质。",
+    "words": [
+      "dope",
+      "doping",
+      "dopant",
+      "dopey"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4473",
+    "meaning": "能否预先看出结果，副词再评论实际发生方式",
+    "core": "PREDICTABLE：规律足够清楚，结果就容易想到",
+    "image": "predictable → predictably；unpredictable 难以预料。",
+    "intro": "设备可靠可预期常是好事，情节毫无意外则可能乏味。predictably 可以说明动作方式，也能在句首评论整个结果。",
+    "forms": "predict + -able → predictable；-able → -ably；un- 否定。",
+    "branches": [
+      [
+        "性质、方式与相反性质",
+        "predictable · predictably · unpredictable"
+      ]
+    ],
+    "contrasts": "predictable 的好坏看场合；predictably 不一定意味着实际早已写下预测。",
+    "practice": "A predictable system responds predictably, while an unpredictable one surprises its users.\n\n行为可预测的系统反应可预料；难以预料的系统则让用户意外。",
+    "words": [
+      "predictable",
+      "predictably",
+      "unpredictable"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4448",
+    "meaning": "暖起来的过程，房屋落成习俗形成复合名称",
+    "core": "WARMING：让东西暖起来，也能把新家变得有人气",
+    "image": "warming → housewarming。",
+    "intro": "温度上升、汤给人暖意，是 warming 的通常用法。housewarming 作为乔迁聚会名称，还保留把新屋暖起来的文化背景。",
+    "forms": "warm + -ing → warming；house + warming → housewarming。",
+    "branches": [
+      [
+        "暖意过程与乔迁聚会",
+        "warming · housewarming"
+      ]
+    ],
+    "contrasts": "housewarming 通常是乔迁聚会，具体活动不要求真的给房子升温。",
+    "practice": "They served warming soup at the housewarming.\n\n他们在乔迁聚会上端出了暖身的汤。",
+    "words": [
+      "warming",
+      "housewarming"
+    ],
+    "exclude": {
+      "flat-warming": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3951",
+    "meaning": "从海难到严重毁坏，再看残骸与处理者",
+    "core": "WRECK：东西毁得厉害，剩下什么、由谁处理",
+    "image": "wreck → wreckage、wrecker。",
+    "intro": "wreck 说毁坏及毁掉的物体；wreckage 集合地说残存碎片；wrecker 可造成破坏，也可负责拆解、拖走受损车辆。",
+    "forms": "北欧相关词经盎格鲁诺曼语 → wrek → wreck；-age 集合，-er 人、工具；w 不发音。\n\nwreck 经古北法语与北欧语冲到岸上的残骸词族，现代动词加完整 -ed，/k/ 后读 /t/；毁坏实物、打乱计划与精疲力竭等分场景理解。",
+    "branches": [
+      [
+        "毁坏、残存物与处理者",
+        "wreck · wreckage · wrecker"
+      ],
+      [
+        "wreck 残骸、毁坏 → wrecked",
+        "wrecked"
+      ]
+    ],
+    "contrasts": "wreckage 通常不可数；wrecker 按对象可能是拖车或拆解者。",
+    "practice": "The wrecker removed the wreck while workers cleared the wreckage.\n\n拖车拖走了受损汽车，工人清理了残骸。",
+    "words": [
+      "wreck",
+      "wreckage",
+      "wrecker",
+      "wrecked"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4346",
+    "meaning": "嗖地移动的拟声形象，连接拉链、开合与文件压缩",
+    "core": "ZIP：一拉合上，反向打开；再借到文件打包",
+    "image": "zip → zipper、zipped；unzip → unzipped；zippy 轻快，zipline 滑索。",
+    "intro": "快速动作提供听觉记忆，拉链合拢提供开合画面；文件压缩、解压沿技术领域理解。相同拼写的美国 ZIP 邮编缩写另有来源。",
+    "forms": "拟声 zip；zip + -er、-ed、-y 时双写 p；un- 反向；line 索线形成 zipline。\n\nzip 双写 p 加 -er；产品名称后来通用于这种闭合装置。\n\n双写 p 加完整 -ed、-ing；各义历史与现代变化分开。\n\nun 表反向，现代拉链与文件用法分别看动作对象。\n\nzip 拟声的快速移动材料与后来拉链名称、动词等关联；现代加 -s 可是动词三单、名词复数。文件压缩用法另看基础词，不把每句都译成拉链。",
+    "branches": [
+      [
+        "动作、工具与合拢状态",
+        "zip · zipper · zipped"
+      ],
+      [
+        "反向打开与状态",
+        "unzip · unzipped"
+      ],
+      [
+        "速度感与滑索复合",
+        "zippy · zipline"
+      ],
+      [
+        "zip → zipper → zippers：拟声动作到拉链名称",
+        "zip · zipper · zippers"
+      ],
+      [
+        "zip → zipped、zipping：快速掠过、拉链与压缩",
+        "zip · zipped · zipping"
+      ],
+      [
+        "unzip → unzipped、unzipping：打开拉链与解压",
+        "unzip · unzipped · unzipping"
+      ],
+      [
+        "zips：拉链、迅速移动、拉上拉链",
+        "zip · zips"
+      ]
+    ],
+    "contrasts": "压缩、解压与加密、解密是不同操作；ZIP 邮编缩写另指 Zone Improvement Plan。",
+    "practice": "She unzipped the bag, found the drive, and copied the zipped archive.\n\n她拉开包，找到存储盘，复制了压缩归档。",
+    "words": [
+      "zip",
+      "zipper",
+      "zipped",
+      "unzip",
+      "unzipped",
+      "zippy",
+      "zipline",
+      "zippers",
+      "zipping",
+      "unzipping",
+      "zips"
+    ],
+    "exclude": {
+      "zippo": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "B4356",
+    "meaning": "阅读者、专业读者角色与读者整体",
+    "core": "READER：读的人；READERSHIP：放在一起看的读者群",
+    "image": "reader → readership；newsreader、proofreader 各有固定工作角色。",
+    "intro": "词尾改变关注点：从谁在读，到有多少、哪些人在读。新闻播读者和校对者的工作也不能只按会阅读就混成一种职业。",
+    "forms": "read + -er → reader；reader + -ship；news/proof + reader。",
+    "branches": [
+      [
+        "阅读者与集体",
+        "reader · readership"
+      ],
+      [
+        "工作角色",
+        "newsreader · proofreader"
+      ]
+    ],
+    "contrasts": "readership 不是可读性；proofreader 校对文字，newsreader 播读新闻。",
+    "practice": "The reader survey helped the magazine understand its readership.\n\n读者调查帮助杂志了解自己的读者群。",
+    "words": [
+      "reader",
+      "readership",
+      "newsreader",
+      "proofreader"
+    ],
+    "exclude": {
+      "e-reader": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sight-reader": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B4449",
+    "meaning": "造成惊吓或惊人效果，及方式、程度",
+    "core": "SCARY：让人害怕；SCARILY：可怕地或惊人地",
+    "image": "scare → scary → scarily；与 scared 的感受状态对照。",
+    "intro": "别只背人用 -ed、物用 -y。问的是谁让人害怕、谁在感到害怕；到了 scarily accurate，还要看惊人程度的语气。",
+    "forms": "scare 去 e + -y；scary 的 y 变 i 接 -ly。",
+    "branches": [
+      [
+        "性质与程度副词",
+        "scary · scarily"
+      ]
+    ],
+    "contrasts": "scary 不从 scar 疤痕来；scarily good 可是赞叹；scary 与 scared 看原因、感受关系。",
+    "practice": "The scary story sounded scarily similar to her dream.\n\n那个可怕的故事和她的梦相似得让人发毛。",
+    "words": [
+      "scary",
+      "scarily"
+    ],
+    "exclude": {
+      "scary-ass": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3713",
+    "meaning": "面对困难的勇气，及方式和品质名词",
+    "core": "BRAVE：怕也可以面对；BRAVERY：表现出的勇气",
+    "image": "brave 性质或面对动作 → bravely 方式；bravery 品质、行为。",
+    "intro": "不把勇敢等同无惧，也不把它与鲁莽、逞强混成一项。三个词按句中任务选，比一概译勇敢更好用。",
+    "forms": "bravo → brave；brave 接 -ly；相关 braverie / braveria → bravery。",
+    "branches": [
+      [
+        "性质、方式与品质",
+        "brave · bravely · bravery"
+      ]
+    ],
+    "contrasts": "bravery 不是副词；bravely 不保证成功；bravado 与 bravery 的评价重点不同。",
+    "practice": "She spoke bravely, and the audience admired her bravery.\n\n她勇敢地发言，听众钦佩她的勇气。",
+    "words": [
+      "brave",
+      "bravely",
+      "bravery"
+    ],
+    "exclude": {
+      "braveheart": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B2427",
+    "meaning": "本领、手艺、精心制作与载具名词的扩展",
+    "core": "CRAFT：手艺是一线，船艇载具另有历史扩展",
+    "image": "craft → crafter / crafty / handicraft / craftsman；aircraft、spacecraft、watercraft、rotorcraft、hovercraft 接载具义。",
+    "intro": "不要把巧手和狡计混成对人的唯一评价，也不要因载具需要技术制造，就把所有手工品都叫一艘 craft。历史给出了不同固定分支。",
+    "forms": "cræft → craft；接 -er、-y；hand + craft → handicraft；各载具前半指定环境、支承或升力方式。\n\ncraft 承古英语 cræft 力量、技能，后来有手艺、手工制品与制作动词。现代 crafts 常数不同手艺，船只等 craft 名词复数通常仍是 craft。\n\ncraft 承古英语力量、技能材料，动词也有古英语 cræftan 等来源，后来精心制作义又有复兴。加 -ed，/t/ 后读 /ɪd/，手工与精心设计皆可。",
+    "branches": [
+      [
+        "手艺、制作者与巧计性质",
+        "craft · crafter · crafty · handicraft · craftsman"
+      ],
+      [
+        "水、空气、太空与运行方式",
+        "watercraft · aircraft · spacecraft · rotorcraft · hovercraft"
+      ],
+      [
+        "craft → crafts：技能、手艺与制作",
+        "crafts"
+      ],
+      [
+        "craft → crafted：用技巧做成",
+        "crafted"
+      ]
+    ],
+    "contrasts": "crafty 常带心机；载具 craft 常单复数同形；rotorcraft 不由任何旋转零件定义；hovercraft 不等于直升机。",
+    "practice": "The crafter built a model hovercraft to demonstrate her craft.\n\n那位手作人制作了一艘气垫船模型，展示自己的手艺。",
+    "words": [
+      "craft",
+      "crafter",
+      "crafty",
+      "handicraft",
+      "craftsman",
+      "watercraft",
+      "aircraft",
+      "spacecraft",
+      "rotorcraft",
+      "hovercraft",
+      "crafts",
+      "crafted"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "B4353",
+    "meaning": "摆到面前、姿态与费解问题的不同路线",
+    "core": "POSE：摆、提出或构成；PUZZLE：远源仍不确定",
+    "image": "pose → poser；puzzle → puzzled / puzzling。两个词族放在一起比较，不把来源假说写成定论。",
+    "intro": "pose a question 是提出，a poser 可是难题，puzzle 又常说让人摸不着头脑。但意义有交叠，不足以证明所有词形都由现代 pose 改造。",
+    "forms": "pausāre → poser → pose；接 -er。早期 pusle → puzzle 的远源有争议；puzzle 接 -ed、-ing。\n\npause 与 pose 接希腊、拉丁停止词族，pose 经法语发展出放置并受拉丁 ponere 影响；不能把它们当作现代英语互换元音。\n\nun- 在已经固定的 pause 上撤销暂停状态，不把它归到拉丁 unus 一个的词根。\n\npose 经法语 poser 接拉丁 pausare 使停下、休息，词义受 ponere 放的材料影响；现代去 e 加完整 -ed，/z/ 后读 /d/。\n\npose 接法语 poser、拉丁 pausare 的词线，词义受 ponere 放的材料影响。现代保留 e 加 -s，/z/ 后读 /ɪz/，名词复数、动词第三人称同形。",
+    "branches": [
+      [
+        "姿态、提出与难题或装样者",
+        "pose · poser"
+      ],
+      [
+        "谜题、感受与性质",
+        "puzzle · puzzled · puzzling"
+      ],
+      [
+        "pause／pose：停下与放下的同源分路",
+        "pose · pause · paused · pausing"
+      ],
+      [
+        "pause 与 unpause：暂停和解除暂停",
+        "pause · pauses · unpause · unpauses · unpaused · unpausing"
+      ],
+      [
+        "pose → posed：摆姿势与提出问题",
+        "posed"
+      ],
+      [
+        "pose → poses：姿势与提出问题",
+        "poses"
+      ]
+    ],
+    "contrasts": "pose a risk 是构成风险；poser 可是物也可是人；puzzle 不确定由 pose + -le 来；puzzled 感受、puzzling 原因性质。",
+    "practice": "The puzzling clue posed a problem, and everyone looked puzzled.\n\n那条令人费解的线索提出了一个难题，大家都一脸困惑。",
+    "words": [
+      "pose",
+      "poser",
+      "puzzle",
+      "puzzled",
+      "puzzling",
+      "pause",
+      "paused",
+      "pausing",
+      "pauses",
+      "unpause",
+      "unpauses",
+      "unpaused",
+      "unpausing",
+      "posed",
+      "poses"
+    ],
+    "exclude": {
+      "posey": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "repose": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

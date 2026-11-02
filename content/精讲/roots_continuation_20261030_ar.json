@@ -1,0 +1,87 @@
+[
+  {
+    "id": "B3114",
+    "meaning": "烟、冒烟、吸烟、烟熏；烟色形象与污染混成",
+    "core": "SMOKE：烟飘出来，再按对象看吸入、熏制或遮挡",
+    "image": "smoke → smoking、smoked、smoker、smoky、smokeless；smokestack 设备与 smog 混成分讲；smokescreen、smokehouse 既有共享。",
+    "intro": "不要看到 smoke 家族就一律理解成吸烟。冒烟机器、熏制食品、迷惑视线和空气污染是不同场景。",
+    "forms": "smoke + -ing/-ed/-er/-y/-less；smoke + stack/screen/house；smoke + fog → smog。\n\nsmog 是 smoke 与 fog 的拼合词；smoggy 在整个 smog 后双写 g，加完整 -y。现代烟雾污染的具体成因不必等同于词名早期烟加雾的组合。",
+    "branches": [
+      [
+        "基本烟与活动",
+        "smoke · smoking"
+      ],
+      [
+        "处理、执行者与性质",
+        "smoked · smoker · smoky · smokeless"
+      ],
+      [
+        "设施、遮挡和污染",
+        "smokestack · smokehouse · smokescreen · smog"
+      ],
+      [
+        "smoke、fog 拼合成 smog → smoggy",
+        "smoggy"
+      ]
+    ],
+    "contrasts": "smoked 经熏制、smoky 有烟味或烟；smokeless 不等于无味；smoking gun 确凿证据；smog 不等于普通雾。",
+    "practice": "The smoker gave the fish a smoky flavour, while the room filled with smoke.\n\n烟熏设备给鱼增添了熏香，房间里则飘起了烟。",
+    "words": [
+      "smoke",
+      "smoking",
+      "smoked",
+      "smoker",
+      "smoky",
+      "smokeless",
+      "smokestack",
+      "smokehouse",
+      "smokescreen",
+      "smog",
+      "smoggy"
+    ],
+    "exclude": {
+      "smoke-in": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smoke-free": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "coal-smoke": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "smokie": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  },
+  {
+    "id": "B3332",
+    "meaning": "热与加热；供暖、激烈情绪和重复程度",
+    "core": "HEAT：热起来，先分过程、设备、情绪和比赛固定义",
+    "image": "heat → heating、heater、heated；preheat、reheat、overheat 对照前缀，heatwave 单讲天气；preheat 共享既有词。",
+    "intro": "热与 hot 本族相连。比喻能帮理解，比赛 heat 的具体历史仍保留不确定性，不按预赛天气猜源。",
+    "forms": "heat + -ing/-er/-ed；pre-/re-/over- + heat；heat + wave。",
+    "branches": [
+      [
+        "过程、系统、设备和状态",
+        "heat · heating · heater · heated"
+      ],
+      [
+        "提前、重复和过量",
+        "preheat · reheat · overheat"
+      ],
+      [
+        "持续炎热",
+        "heatwave"
+      ]
+    ],
+    "contrasts": "heat 动词名词、hot 形容词；heating 系统、heater 器具；heated debate 激烈不等于热门；三个前缀分清。",
+    "practice": "Preheat the oven, reheat the pie, and avoid overheating it.\n\n先预热烤箱，再把派热一下，别热过头。",
+    "words": [
+      "heat",
+      "heating",
+      "heater",
+      "heated",
+      "preheat",
+      "reheat",
+      "overheat",
+      "heatwave"
+    ],
+    "exclude": {
+      "heat-proof": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "heat-seeking": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

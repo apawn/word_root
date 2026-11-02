@@ -1,0 +1,105 @@
+[
+  {
+    "id": "B3011",
+    "meaning": "风、气流与方向；另源的卷绕",
+    "core": "WIND：先听读音，再辨流动空气与转圈缠绕",
+    "image": "风 /wɪnd/ 一组讲天气、方向、挡风和吹气；卷绕 /waɪnd/ 一组讲弯曲、倒带和放松。",
+    "intro": "风名词继承古英语 wind，卷绕动词继承 windan。来源分开，不能用被风吹的故事代替真实区分。window、windfall、headwind、crosswind 已精讲，合并归看。",
+    "forms": "wind /wɪnd/ → windy；wind + swept、storm、breaker、mill、shield、screen、pipe；wind /waɪnd/ → winding、rewind、unwind；过去分词 wound /waʊnd/。\n\nwhirl 旋转 + wind 风 → whirlwind；这里 wind 读 /wɪnd/，取空气流动这一支。\n\n缠绕 wind /waɪnd/ → wound /waʊnd/；伤口 wound /wuːnd/ 是另一来源；空气流动的 wind /wɪnd/ 也要按读音与语境区分。\n\n风接古英语 wind，缠绕接 windan；复数 winds 读 windz，缠绕三单读 waindz。\n\n伤口词接古英语 wund，读 uː；与 wind 的过去式 wound 读 aʊ 分开。\n\nwind 在缠绕义读 /waɪnd/，rewound 跟随不规则过去式变化；旧磁带的倒卷画面延伸到数字播放。\n\nwind /waind/ 的缠绕支形成 unwind，过去与分词 unwound 保留不规则元音；不接天气风的 /wind/。\n\nwhirl 可能接北欧旋转材料；whirlwind 为旋转与风的复合，可能仿照北欧同类词。这里共同出现在风词族页，不表示 whirl 是由现代 wind 换字母派生。",
+    "branches": [
+      [
+        "风与天气",
+        "wind · windy · windswept · windstorm"
+      ],
+      [
+        "风向与运动帮助",
+        "upwind · downwind · windward · headwind · tailwind · crosswind"
+      ],
+      [
+        "风能、运动与防护",
+        "windmill · windsurfing · windbreaker · windshield · windscreen · window"
+      ],
+      [
+        "呼吸、吹奏与其他复合词",
+        "windpipe · woodwind · windfall"
+      ],
+      [
+        "另源卷绕动词",
+        "winding · rewind · unwind"
+      ],
+      [
+        "旋风与旋风般快速的经历",
+        "wind · whirl · whirlwind"
+      ],
+      [
+        "wind 与 wound：缠绕动词的换形",
+        "wind · wound"
+      ],
+      [
+        "wind → winds：风与缠绕分两种读音",
+        "wind · winds"
+      ],
+      [
+        "wound → wounds：伤口、伤害的复数和三单",
+        "wound · wounds"
+      ],
+      [
+        "wind—wound 与 rewind—rewound 的回卷",
+        "rewind · rewinds · rewound · rewinding"
+      ],
+      [
+        "unwind 的解除缠绕与现代放松",
+        "unwind · unwinds · unwound · unwinding"
+      ],
+      [
+        "whirl 与 wind 在 whirlwind 中组合",
+        "whirl · whirls · whirled · whirling · whirlwind · whirlwinds"
+      ]
+    ],
+    "contrasts": "windy 多风，winding 弯曲；wound 卷绕过去式 /waʊnd/ 与伤口 /wuːnd/ 不同。windward 迎风，downwind 下风处。",
+    "practice": "We followed a winding road on a windy day.\n\n我们在一个多风的日子，沿着一条蜿蜒道路前行。",
+    "words": [
+      "wind",
+      "windy",
+      "windswept",
+      "windstorm",
+      "upwind",
+      "downwind",
+      "windward",
+      "headwind",
+      "tailwind",
+      "crosswind",
+      "windmill",
+      "windsurfing",
+      "windbreaker",
+      "windshield",
+      "windscreen",
+      "window",
+      "windpipe",
+      "woodwind",
+      "windfall",
+      "winding",
+      "rewind",
+      "unwind",
+      "whirl",
+      "whirlwind",
+      "wound",
+      "winds",
+      "wounds",
+      "rewinds",
+      "rewound",
+      "rewinding",
+      "unwinds",
+      "unwound",
+      "unwinding",
+      "whirls",
+      "whirled",
+      "whirling",
+      "whirlwinds"
+    ],
+    "exclude": {
+      "winder": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "windage": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

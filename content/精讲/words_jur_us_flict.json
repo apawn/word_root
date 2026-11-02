@@ -753,7 +753,7 @@
     "ipa": "英 /ˈɪndʒə/；美 /ˈɪndʒər/",
     "meaning": "使受伤；损害",
     "sense": "injure 把注意力放在“让身体或某种利益受到损伤”这个动作。它通常比 hurt 更正式，也更突出实际损伤。",
-    "split": "英语从 injury 反向造出动词 injure：不是先有 injure 再简单加 y。更远来源仍是 in- + iūs 的词族。",
+    "split": "injure 可能从英语 injury 反构，也可能经古法语 injuriier 等动词借入。injury 的英语记载更早，不能只按现代 injure + y 认定名词首次形成。较早同接 in- + iūs 的侵害词族。",
     "history": [
       [
         "拉丁语：iūs / iūris",
@@ -773,10 +773,10 @@
       ],
       [
         "英语：injure",
-        "由 injury 形成：使受到伤害"
+        "可能由 injury 反构；也可能经古法语 injuriier 等动词借入。"
       ]
     ],
-    "explanation": "这是逆构词：把已经存在的名词理解成有一个动词词干，再形成动词。词形关系看起来熟悉，真正的先后顺序却可能与你直觉相反。",
+    "explanation": "一种主要解释是逆构词：从先有的 injury 名词形成动词。另有经法语动词借入的解释；现代词形的简易拆分不等于历史必定只有一条路线。",
     "usage": "injure one’s back；be seriously injured；injure someone’s reputation（损害某人名誉，较正式）。",
     "contrast": "hurt 可说身体疼痛，也常说 hurt someone’s feelings“伤感情”；injure 更常强调身体、名誉或利益受到实际损伤。",
     "examples": [
@@ -790,7 +790,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/injure#English"
+      "https://en.wiktionary.org/wiki/injure#English",
+      "https://www.etymonline.com/word/injure"
     ]
   },
   {

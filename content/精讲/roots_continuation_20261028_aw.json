@@ -1,0 +1,153 @@
+[
+  {
+    "id": "B2891",
+    "meaning": "光、明亮；另源同形：轻、不重",
+    "core": "LIGHT：两条来路，分别看光亮与轻重",
+    "image": "一幅图能看见，一幅图提得动。相同拼写只是后来同形，先分清再看扩展。",
+    "intro": "光义与轻义的古英语拼写相似，更早来源不同；本页因现代同形集中解释，不能称两者原本同根。lighter、lightness、lighten、alight 都要按义分支，不编单一演化故事。",
+    "forms": "light 先总分两路；lighting、lighter 讲照明点火与比较级，lightly、lightness、lighten 讲方式、性质和变化。自然光、聚焦与灯具分组；enlighten、lighthearted 各讲比喻。\n\nlightning 与 light、旧 lightnen 变亮词族相连；它与现代 lightening 的拼写、用法分开。\n\nlightest 可比重量，也可比颜色浅；light 的明亮、轻两大来源不同，即使现代拼写相同也分别讲。\n\n本组讲光的 light 词族；轻的 light 有另一条较早来源。\n\nlaser 取 Light Amplification by Stimulated Emission of Radiation 中的主要词首字母；本页按 light 参与构词收录，不把它拆成古典 las- 加 er。\n\nlung 承古英语 lungen，更远联系 light 轻那一支；与拉丁肺名 pulmo 的来路分开，不把肺说成光。\n\nhigh 加 light 合成，动词 t 后加 ed 读 id。\n\n高光、显眼部分的名称转为突出内容的动作，再命名用品。\n\nspotlight 聚焦一点，floodlight 光铺开，footlights 位于舞台前沿下部；这里 light 取发光义，另源的重量轻义不混入。\n\n不同前项给出位置、时间、用途；sky 的天光进入 skylight 的天窗义，不把所有亮点都叫天窗。",
+    "branches": [
+      [
+        "基础、变化、心境和理解",
+        "light · lighting · lighter · lightly · lightness · lighten · lightweight · lighthearted · enlighten · alight · ultralight"
+      ],
+      [
+        "自然光线与时段",
+        "sunlight · daylight · starlight · firelight · torchlight · candlelight · twilight"
+      ],
+      [
+        "焦点与公众关注",
+        "spotlight · limelight · highlight"
+      ],
+      [
+        "照明设备与空间",
+        "flashlight · searchlight · floodlight · headlight · taillight · streetlight · stoplight · nightlight · lighthouse · skylight · backlight · lightbox"
+      ],
+      [
+        "科幻和速度命名",
+        "lightsaber · lightspeed"
+      ],
+      [
+        "闪电这一固定名词",
+        "lightning"
+      ],
+      [
+        "light → lighter → lightest：轻重、明暗各有来源",
+        "light · lighter · lightest"
+      ],
+      [
+        "light → lights：光源、灯与点亮",
+        "light · lights"
+      ],
+      [
+        "light 参与的缩略词 laser → lasers",
+        "light · laser · lasers"
+      ],
+      [
+        "轻重义同源对照：lung 的旧称是轻的器官",
+        "light · lung · lungs"
+      ],
+      [
+        "highlight → highlighted：让重点亮起来",
+        "highlight · highlighted"
+      ],
+      [
+        "highlight 的标注工具及复数",
+        "light · highlight · highlighter · highlighters"
+      ],
+      [
+        "light 的聚焦、铺开、舞台前沿与灯泡组合",
+        "spotlight · spotlights · spotlighted · spotlighting · floodlight · floodlights · floodlit · floodlighting · footlights · lightbulb · lightbulbs"
+      ],
+      [
+        "light 的车辆、道路、屋顶与夜间用途组合",
+        "headlight · headlights · taillight · taillights · flashlight · flashlights · streetlight · streetlights · skylight · skylights · nightlight · nightlights"
+      ]
+    ],
+    "contrasts": "light 亮与轻另源同形；lighting 照明、lightning 闪电；lime 石灰；twilight 广义有日出前和日落后；alight 下车与燃着两路不同。",
+    "practice": "The lightweight lamp gives enough light to read by, and its soft lighting makes the room feel calm.\n\n这盏轻便灯提供足够阅读的光，柔和照明也让房间显得安静。",
+    "words": [
+      "light",
+      "lighting",
+      "lighter",
+      "lightly",
+      "lightness",
+      "lighten",
+      "lightweight",
+      "ultralight",
+      "lighthearted",
+      "enlighten",
+      "alight",
+      "sunlight",
+      "daylight",
+      "starlight",
+      "firelight",
+      "torchlight",
+      "candlelight",
+      "twilight",
+      "spotlight",
+      "limelight",
+      "highlight",
+      "flashlight",
+      "searchlight",
+      "floodlight",
+      "headlight",
+      "taillight",
+      "streetlight",
+      "stoplight",
+      "nightlight",
+      "lighthouse",
+      "skylight",
+      "backlight",
+      "lightbox",
+      "lightsaber",
+      "lightspeed",
+      "lightning",
+      "lightest",
+      "lights",
+      "laser",
+      "lasers",
+      "lung",
+      "lungs",
+      "highlighted",
+      "highlighter",
+      "highlighters",
+      "spotlights",
+      "spotlighted",
+      "spotlighting",
+      "floodlights",
+      "floodlit",
+      "floodlighting",
+      "footlights",
+      "lightbulb",
+      "lightbulbs",
+      "headlights",
+      "taillights",
+      "flashlights",
+      "streetlights",
+      "skylights",
+      "nightlights"
+    ],
+    "exclude": {
+      "very-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sea-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "sub-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-tight": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-headed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-sensitive": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-struck": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-bearing": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-minded": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "alt-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "feather-light": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-spirited": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-legged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-winged": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-footed": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-fingered": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "light-horseman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lightroom": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",
+      "lightman": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"
+    }
+  }
+]

@@ -13,6 +13,7 @@ from wordfreq import zipf_frequency
 from build_catalog import BASE, CACHE, OUT, load_lexicon, components
 from explanatory import load_lessons,render_root,finish as finish_lessons,images_paused
 from lesson_order import make_relations,order_family
+from source_archive import write_source_archive
 
 LANG={'Latin':'拉丁语','Greek':'古希腊语','Latin from Greek':'拉丁语 ← 古希腊语','Latin and Greek':'拉丁语／古希腊语','Greek/Latin':'古希腊语／拉丁语','Latin, Greek':'拉丁语／古希腊语','Greek from Hebrew':'古希腊语 ← 希伯来语',
       'en':'英语','enm':'中古英语','ang':'古英语','la':'拉丁语','la-new':'新拉丁语','la-med':'中世纪拉丁语','grc':'古希腊语','fr':'法语','fro':'古法语','frm':'中古法语','de':'德语','gem-pro':'原始日耳曼语','gmw-pro':'原始西日耳曼语','ine-pro':'原始印欧语','non':'古诺尔斯语','nl':'荷兰语','it':'意大利语','es':'西班牙语','ar':'阿拉伯语','ota':'奥斯曼土耳其语','ja':'日语','zh':'汉语','hi':'印地语','sa':'梵语','fa':'波斯语','he':'希伯来语','pt':'葡萄牙语','itc-pro':'原始意大利语','el':'现代希腊语'}
@@ -60,7 +61,7 @@ def chinese(w, ds, ec, prefer_dict=True):
 def ipa(ds, ecrow):
     sounds=[]
     for d in ds:
-        for s in d['sounds']:
+        for s in d.get('sounds', []):
             ip=s.get('ipa','')
             if not ip or any(x in s.get('tags',[]) for x in ['obsolete','archaic','nonstandard']):continue
             if ip.startswith('['):continue
@@ -84,7 +85,12 @@ def ipa(ds, ecrow):
     return '', ''
 
 def pick_entry(w,r,lex):
-    ds=lex[w]
+    # Some live exports contain a no-gloss sense stub (for example a new
+    # adjective heading). Keep the verified source intact, but select only
+    # records with actual definitions for the dictionary-backed rendering.
+    ds=[d for d in lex[w] if any(s.get('glosses') for s in d['senses'])]
+    if not ds:
+        raise ValueError(f'No defined source entry available for {w!r}')
     via=r['family'][w].get('via')
     tokens={strip_accents(t) for t in re.findall(r'[A-Za-zÀ-žΑ-ωἀ-῾]+',r.get('origin','')) if len(t)>3}
     def score(d):
@@ -127,7 +133,8 @@ def make_word(w,r,lex,ec,authored):
                 complete=bool(re.search(r'[.!?][”"\']?$',text)) and len(text.split())>=4
                 quality=100*complete-abs(len(text)-90)*0.1
                 if 'collocation' in ex.get('tags',[]):quality-=20
-                exs.append((quality,text,s['glosses'][-1]))
+                if s.get('glosses'):
+                    exs.append((quality,text,s['glosses'][-1]))
     example=translation=example_gloss=example_url=example_attribution=''
     exsource=''
     if w in authored and normal_sense:
@@ -140,7 +147,8 @@ def make_word(w,r,lex,ec,authored):
         if compatible:
             # Prefer a WordNet sense sharing content words with the selected definition.
             stop={'a','an','the','of','to','or','and','in','is','be','that','for','with','as','something','someone'}
-            target=set(re.findall('[a-z]+',' '.join(s['glosses'][-1] for s in d['senses'][:3]).lower()))-stop
+            defined_senses=[s for s in d['senses'] if s.get('glosses')]
+            target=set(re.findall('[a-z]+',' '.join(s['glosses'][-1] for s in defined_senses[:3]).lower()))-stop
             chosen=max(compatible,key=lambda e:len(target&set(re.findall('[a-z]+',e['gloss'].lower()))))
             if not target&set(re.findall('[a-z]+',chosen['gloss'].lower())):chosen=None
         else:chosen=None
@@ -148,7 +156,7 @@ def make_word(w,r,lex,ec,authored):
         if chosen:
             example=chosen['text'];example_gloss=chosen.get('gloss','');example_url=chosen['url'];exsource=chosen['source']
             example_attribution=('作者：'+chosen['author']+'；句子 #'+chosen['ref']+'；CC BY 2.0 FR') if exsource=='Tatoeba' else 'Princeton University；WordNet 3.0；synset '+chosen['ref']
-    gs=[s['glosses'][-1] for s in d['senses'][:2]]
+    gs=[s['glosses'][-1] for s in d['senses'] if s.get('glosses')][:2]
     return dict(word=w,pos=d['pos'],glosses=gs,zh=zh,zhsource=zhsource,ipa=ip,ipasource=ipsource,etym=ety,split=splits[:3],example=example,example_zh=translation,example_gloss=example_gloss,example_source=exsource,example_url=example_url,example_attribution=example_attribution,zipf=zipf_frequency(w,'en'),homograph=not normal_sense)
 
 def diagram(r,display_zh):
@@ -293,11 +301,12 @@ def main():
         else:
             histories={}
             for hd in lex[r['headword']]:
-                if etym_text(hd):histories.setdefault(etym_text(hd),hd)
+                if etym_text(hd) and any(s.get('glosses') for s in hd['senses']):histories.setdefault(etym_text(hd),hd)
             if len(histories)>1:
                 lines += ['**多个词源／构词路径**：同一拼写可能有不同来源；以下按词性和含义分别列出。','']
             for j,(history,hd) in enumerate(histories.items(),1):
-                lines += [f'**来源记录 {j}**（{POS.get(hd["pos"],hd["pos"])}；{md(hd["senses"][0]["glosses"][-1])}）', '',md(history),'']
+                gloss=next(s['glosses'][-1] for s in hd['senses'] if s.get('glosses'))
+                lines += [f'**来源记录 {j}**（{POS.get(hd["pos"],hd["pos"])}；{md(gloss)}）', '',md(history),'']
         if r['id'] in notes:lines += ['## 演化说明', '',notes[r['id']],'']
         lines += ['## 词族图', '',f'![{md(r["root"])} 词族图](../assets/{r["id"]}.svg)', '']
         if record:lines += ['## 单词速览（常用到不常用）', '', '| 单词 | 音标 | 释义 |','|---|---|---|']
@@ -338,9 +347,11 @@ def main():
             fields=['id','root','file','words','ipa','zh','etym','example','split','unmatched']
             wr=csv.DictWriter(f,fieldnames=fields);wr.writeheader();wr.writerows(rows)
     # Offline, word-level source records allow repairs without live network access.
-    with (OUT/'data'/'词条来源.jsonl').open('w') as f:
-        for w in sorted(useddata):
-            for d in useddata[w]:f.write(json.dumps(d,ensure_ascii=False)+'\n')
+    write_source_archive(
+        (json.dumps(d,ensure_ascii=False)+'\n'
+         for w in sorted(useddata) for d in useddata[w]),
+        OUT/'data'/'词条来源')
+    (OUT/'data'/'词条来源.jsonl').unlink(missing_ok=True)
     for title,items,path in [('总目录：按常用程度',roots,'00_总目录_按常用程度.md'),('字母索引',sorted(roots,key=lambda r:r['root'].strip('-').lower()),'00_字母索引.md'),('古典词根学习顺序',[r for r in roots if r['group']=='01_古典词根'],'00_古典词根学习顺序.md')]:
         ls=[f'# {title}','', '[逐词精讲目录](00_逐词精讲目录.md) · [使用说明](README.md) · [覆盖与缺项](覆盖与缺项.md)','', '同形异源条目分别保留；词缀和自由词基不计作纯词根。文件名前四位是本版全库排序号。','', '| 排序 | 条目 | 类型 | 核心义／释义 | 收词数 |','|---:|---|---|---|---:|']
         for r in items:ls.append(f'| {r["rank"]} | [{md(r["root"])}]({r["file"]}) | {r["kind"]} | {md((r["meaning_zh"] or r["meaning"])[:150])} | {len(r["family"])} |')
